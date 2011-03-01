@@ -133,7 +133,7 @@ a büntetőeljárásról
 
 (3) A helyi bíróság az (1) bekezdés b) pontja esetében egy hivatásos bíróból és két ülnökből álló tanácsban is eljárhat, ha megállapítja, hogy a vád tárgyává tett bűncselekmény a vádirati minősítéstől eltérően hogyan minősülhet, vagy ha az egyesbíró az ügyet a bíróság tanácsa elé utalta.
 
-(4) A megyei bíróság mint első fokú bíróság – az e törvényben meghatározott esetekben – két hivatásos bíróból és három ülnökből álló tanácsban járhat el.
+(4) A helyi bíróság és a megyei bíróság, mint első fokú bíróság – az e törvényben meghatározott esetekben – két hivatásos bíróból és három ülnökből álló tanácsban járhat el.
 
 (5) A másodfokú és a harmadfokú bíróság három hivatásos bíróból álló tanácsban jár el. A Legfelsőbb Bíróság három, illetőleg ha e törvény így rendelkezik, öt hivatásos bíróból álló tanácsban jár el.
 
@@ -161,7 +161,7 @@ a büntetőeljárásról
 
 ### Az első fokú bíróság illetékessége
 
-17. § (1) Ha e törvény eltérően nem rendelkezik, az eljárásra az a bíróság illetékes, amelynek a területén a bűncselekményt elkövették. A bíróságok illetékességi területét a bíróságok szervezetéről és igazgatásáról szóló törvény határozza meg.
+17. § (1) Ha e törvény eltérően nem rendelkezik, az eljárásra az a bíróság illetékes, amelynek a területén a bűncselekményt elkövették. A bíróságok illetékességi területét a bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló törvény határozza meg.
 
 (2) Ha a bűncselekményt több bíróság területén követték el, vagy az elkövetés helye nem állapítható meg, az azonos hatáskörű bíróságok közül az jár el, amelyik az ügyben – a nyomozási bíró eljárását ide nem értve – korábban intézkedett (megelőzés). Ha az elkövetés helye a tárgyalás megkezdése előtt ismertté válik, az eljárást az ügyész, a terhelt, a védő, a pótmagánvádló vagy a magánvádló indítványára az a bíróság folytatja, amelynek a területén a bűncselekményt elkövették.
 
@@ -169,7 +169,7 @@ a büntetőeljárásról
 
 (4) Több terhelt esetében a terheltek egyikére illetékes bíróság a többi terhelttel szemben is eljárhat, ha ez a hatáskörét nem haladja meg. Ha több ilyen bíróság van, a megelőzés az irányadó.
 
-(5) A foglalkozás körében elkövetett veszélyeztetés (Btk. 171. §), a közlekedési bűncselekmények (Btk. XIII. Fejezet) – kivéve az ittas vagy bódult állapotban elkövetett járművezetést [Btk. 188. § (1) bek.] és a járművezetés tiltott átengedését [Btk. 189. § (1) bek.] –, a közlekedés körében elkövetett, de nem a Btk. XIII. Fejezetében meghatározott bűncselekmény, a kiskorú veszélyeztetése (Btk. 195. §), a közveszélyokozás (Btk. 259. §), valamint a közérdekű üzem működésének megzavarása (Btk. 260. §) esetén a megyei bíróság székhelyén lévő helyi bíróság, a Fővárosi Bíróság területén a Pesti Központi Kerületi Bíróság jár el. E bíróságok illetékessége e bűncselekmények miatt a megye, illetőleg a főváros területére terjed ki.
+(5) A közveszélyokozás (Btk. 259. §), valamint a közérdekű üzem működésének megzavarása (Btk. 260. §) esetén a megyei bíróság székhelyén lévő helyi bíróság, a Fővárosi Bíróság területén a Pesti Központi Kerületi Bíróság jár el. E bíróságok illetékessége e bűncselekmények miatt a megye, illetve a főváros területére terjed ki.
 
 (6) Visszaélés radioaktív anyaggal (Btk. 264. §), visszaélés nukleáris létesítmény üzemeltetésével (Btk. 264/A. §), visszaélés atomenergia alkalmazásával (Btk. 264/B. §) és a gazdasági bűncselekmények (Btk. XVII. Fejezet) miatt – kivéve a számvitel rendjének megsértését (Btk. 289. §), valamint a pénzügyi bűncselekményeket (Btk. XVII. Fejezet III. Cím) – a megyei bíróság székhelyén lévő helyi bíróság, a Fővárosi Bíróság területén a Pesti Központi Kerületi Bíróság jár el. E bíróságok illetékessége e bűncselekmények miatt a megye, illetőleg a főváros területére terjed ki.
 
@@ -268,7 +268,7 @@ bírálja el.
 
 (4) A külön törvény szerinti közvetítői eljárás során előterjesztett, a közvetítő kizárását megtagadó határozat elleni fellebbezésről a bíróság a 24. § és a 24/A. § értelemszerű alkalmazásával határoz.
 
-25. § Ha a védő, a sértett, a magánvádló, a pótmagánvádló, a magánfél vagy a képviselőjük az ügyben ugyanazon bíró ellen ismételten alaptalanul jelent be kizárási okot, a kizárást megtagadó határozatban rendbírsággal sújtható.
+25. § Ha a terhelt, a védő, a sértett, a magánvádló, a pótmagánvádló, a magánfél vagy a képviselőjük az ügyben ugyanazon bíró ellen ismételten alaptalanul jelent be kizárási okot, a kizárást megtagadó határozatban rendbírsággal sújtható.
 
 26. § (1) A bíró kizárására vonatkozó rendelkezések az ülnökre is irányadók.
 
@@ -345,7 +345,7 @@ bírálja el.
 
 (4) Ha az ügyész a kizárási okot nem maga jelentette be, a bejelentés elintézéséig az ügyben eljárhat, de – a 31. § (1) bekezdésének d) pontjában szabályozott kizárási ok kivételével – a feljelentést nem utasíthatja el, a nyomozást nem szüntetheti meg, kényszerintézkedést nem alkalmazhat, vádat nem emelhet, és a vádat nem képviselheti.
 
-(5) Az ügyész kizárásáról az ügyészség vezetője, az ügyészség vezetőjének kizárásáról a felettes ügyészség vezetője határoz.
+(5) A megyei főügyészség területén lévő helyi ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárásáról a főügyész határoz. A főügyész, valamint a legfőbb ügyészségi ügyész kizárásáról a legfőbb ügyész határoz.
 
 (6) A külön törvény szerinti közvetítői eljárás során előterjesztett, a közvetítő kizárását megtagadó határozat elleni panaszról az ügyész az (1)–(5) bekezdés értelemszerű alkalmazásával határoz.
 
@@ -483,6 +483,8 @@ bírálja el.
 
 (4) A terhelt a meghatalmazást mind az általa, mind a más által meghatalmazott védőtől megvonhatja.
 
+(5) Ha a tárgyaláson védő részvétele kötelező, és a meghatalmazott védő a helyettesítésről nem gondoskodik, a bíróság helyettes védőt jelöl ki. A bíróság által helyettesként kijelölt védő a kirendelt védőre irányadóak szerint jogosult díjazásra, továbbá költségtérítésre. A költségek megtérítésére – az e törvényben meghatározott kivétellel – a meghatalmazott védőt kell kötelezni.
+
 48. § (1) A bíróság, az ügyész, illetőleg a nyomozó hatóság védőt rendel ki, ha a védelem kötelező, és a terheltnek nincs meghatalmazott védője. A terheltet a kirendelést követően tájékoztatni kell a védő személyéről és elérhetőségéről. A 46. § b) pontja esetén a védőt legkésőbb a terhelt első kihallgatásáig ki kell rendelni. A kirendelő határozatban a védőt tájékoztatni kell a terhelt fogva tartásának helyéről, valamint kihallgatásának tervezett helyéről és idejéről.
 
 (2) A bíróság, az ügyész, illetőleg a nyomozó hatóság akkor is védőt rendel ki, ha a védelem nem kötelező, de a terhelt védő kirendelését azért kéri, mert a jövedelmi viszonyai miatt nem tud a védelméről gondoskodni.
@@ -510,7 +512,9 @@ bírálja el.
 - a) a terhelttel a kapcsolatot késedelem nélkül felvenni,
 - b) a terhelt érdekében minden törvényes védekezési eszközt és módot kellő időben felhasználni,
 - c) a terheltet a védekezés törvényes eszközeiről felvilágosítani, a jogairól tájékoztatni,
-- d) a terheltet mentő, illetőleg a felelősségét enyhítő tények felderítését szorgalmazni.
+- d) a terheltet mentő, illetőleg a felelősségét enyhítő tények felderítését szorgalmazni,
+- e) akadályoztatása esetén – előre nem ismert elháríthatatlan akadály felmerülése kivételével – helyettesítéséről gondoskodni, amennyiben az eljárási cselekményen védő részvétele kötelező,
+- f) az akadályoztatás tényéről – ha ez lehetséges – az eljárást folytató bíróságot, ügyészt, illetőleg nyomozó hatóságot az eljárási cselekmény megkezdése előtt értesíteni, amennyiben az eljárási cselekményen védő részvétele kötelező és előre nem ismert elháríthatatlan akadály miatt helyettesítéséről nem tud gondoskodni.
 
 (2) A védő a védelem érdekében az ügyben tájékozódhat, a jogszabályokban biztosított lehetőségek és feltételek keretei között adatokat szerezhet be és gyűjthet.
 
@@ -708,21 +712,25 @@ bírálja el.
 
 (6) Az írásbeli idézést vagy értesítést zárt iratban kell megküldeni. Sajtóhirdetményben az értesítettek neve nem közölhető.
 
-68. § (1) Katonát [Btk. 122. § (1) bek.] rendszerint az elöljárója útján kell idézni, illetőleg értesíteni. Az idézés, illetőleg az értesítés az elöljáró egyidejű értesítése mellett közvetlenül is történhet, ha a megidézettnek, illetőleg az értesítettnek az idézés, illetve az értesítés küldőjének a székhelyén nincs elöljárója, és a késedelem az eljárási cselekmény elvégzését veszélyeztetné.
+68. § (1) Katonát [Btk. 122. § (1) bek.] rendszerint az elöljárója útján kell idézni, illetve értesíteni. Az idézés, illetve az értesítés az elöljáró egyidejű értesítése mellett közvetlenül is történhet, ha a megidézettnek, illetve az értesítettnek az idézés, illetve az értesítés küldőjének a székhelyén nincs elöljárója, és a késedelem az eljárási cselekmény elvégzését veszélyeztetné. A Magyar Honvédség tényleges állományú tagja által elkövetett bármely bűncselekmény esetén a katonai ügyész vagy a katonai nyomozó hatóság a gyanúsítottkénti kihallgatásra idézéssel egyidejűleg, az elöljáró útján tájékoztatja a büntetőeljárás megindításáról a szolgálati beosztásból való felfüggesztésre jogosult elöljárót is.
 
 (2) A kiskorú idézéséről a gondozóját azzal a felhívással kell értesíteni, hogy a megjelenéséről gondoskodjék. Ha a kiskorú a tizennegyedik életévét nem töltötte be, a gondozója útján kell idézni, illetve értesíteni. A kiskorú idézését és értesítését a törvényes képviselőjével is közölni kell.
 
 ### Az idézéssel szembeni mulasztás következményei
 
-69. § (1) Ha a terhelt, a védő, a tanú vagy a szakértő idézés ellenére nem jelenik meg, és ezt előzetesen, mihelyt az akadály a tudomására jut, haladéktalanul, vagy ha ez már nem lehetséges, az akadály megszűnése után nyomban, alapos okkal nem igazolja, illetőleg az eljárási cselekményről engedély nélkül távozik,
+69. § (1) Ha a terhelt, a tanú vagy a szakértő idézés ellenére nem jelenik meg, és ezt előzetesen, mihelyt az akadály a tudomására jut, haladéktalanul, vagy ha ez már nem lehetséges, az akadály megszűnése után nyomban, alapos okkal nem igazolja, illetőleg az eljárási cselekményről engedély nélkül távozik,
 
 - a) a terhelt elővezetése rendelhető el,
 - b) a tanú elővezetése rendelhető el, vagy rendbírsággal sújtható,
-- c) a védő és a szakértő rendbírsággal sújtható.
+- c) a szakértő rendbírsággal sújtható.
+
+(1a) Ha a védő az idézés ellenére olyan eljárási cselekményen nem jelenik meg, amelyen részvétele kötelező, és helyettesítéséről sem gondoskodik, rendbírsággal sújtható, valamint az okozott költség megtérítésére kell kötelezni.
+
+(1b) Az (1a) bekezdés szerinti jogkövetkezmények nem alkalmazhatók, ha a védő az 50. § (1) bekezdés f) pontjában meghatározott értesítési kötelezettségének eleget tett, vagy e kötelezettség teljesítése az előre nem ismert elháríthatatlan akadály jellege miatt nem volt lehetséges. Ha utóbb az állapítható meg, hogy az akadály előre ismert vagy elhárítható volt, az (1a) bekezdés szerinti jogkövetkezmények alkalmazásának van helye.
 
 (2) Ha a terhelt, a védő, a tanú vagy a szakértő önhibájából olyan állapotban jelenik meg, hogy nem hallgatható ki, illetőleg az eljárási kötelezettségeit nem képes teljesíteni, a következő kihallgatására, illetve eljárási kötelezettségének teljesítése érdekében a terhelt elővezetése rendelhető el, a tanú rendbírsággal sújtható vagy elővezetése rendelhető el, a védő és a szakértő rendbírsággal sújtható. Az okozott költség megtérítésére a felsoroltakat kötelezni kell.
 
-(3) Az (1) bekezdésben meghatározott esetben a terheltet, a védőt, a tanút és a szakértőt a meg nem jelenésével, illetőleg az eltávozásával okozott költség megtérítésére határozattal kell kötelezni.
+(3) Az (1) bekezdésben meghatározott esetben a terheltet, a tanút és a szakértőt a meg nem jelenésével, illetőleg az eltávozásával okozott költség megtérítésére határozattal kell kötelezni.
 
 (4) A 68. § (1) bekezdése szerint idézett katona mulasztása esetén az (1)–(3) bekezdés rendelkezéseit kell alkalmazni.
 
@@ -742,7 +750,7 @@ bírálja el.
 - b) posta útján,
 - c) hirdetményi úton,
 - d) a bíróság, az ügyész, illetőleg a nyomozó hatóság kézbesítője útján,
-- e) nemzetközi jogsegély keretében,
+- e) nemzetközi jogsegély keretében.
 
 (2) A címzett az iratot az azt küldőnél is átveheti.
 
@@ -796,7 +804,7 @@ bírálja el.
 
 (9) Az ügy irataiban fel kell jegyezni, hogy mely iratról, kinek a részére, hány példányban készült másolat.
 
-(10) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a büntetőeljárásban részt vevő személyek kérelmére – a (6)–(8) bekezdésben meghatározottak szerint – legkésőbb a kérelem előterjesztésétől számított nyolc napon belül az eljárás során keletkezett iratról másolatot ad ki.
+(10) Az eljárás jogerős befejezését követően az első fokon eljárt bíróság, a nyomozás megszüntetését követően az ügyész, illetve a nyomozó hatóság, az eljárás megszüntetését vagy a vádemelés részbeni mellőzését követően az ügyész a büntetőeljárásban részt vevő személyek kérelmére – a (6)–(8) bekezdésben meghatározottak szerint – legkésőbb a kérelem előterjesztésétől számított nyolc napon belül az eljárás során keletkezett iratról másolatot ad ki. A másolat kiadását a másolat kiadására kötelezett elektronikus adathordozón is teljesítheti.
 
 ### A minősített adat megismerése
 
@@ -997,7 +1005,7 @@ bírálja el.
 - b) az, aki a (4) bekezdés esetét kivéve magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, az ezzel kapcsolatos kérdésben, akkor is, ha a tanúvallomást az a) pont alapján nem tagadta meg,
 - c) – a 81. § (2) bekezdésében foglalt titoktartási kötelezettség esetét ide nem értve – az, aki a foglalkozásánál vagy közmegbízatásánál fogva titoktartásra köteles, ha a tanúvallomással a titoktartási kötelezettségét megsértené, kivéve, ha ez alól a külön jogszabály szerint jogosult felmentette, vagy külön jogszabály szerint a bíróság, az ügyész, illetőleg a nyomozó hatóság megkeresésére a titoktartási kötelezettség alá eső adat továbbítása a felmentésre jogosult számára kötelező.
 
-(2) A tanút a kihallgatása elején a mentességi okokra és a jogaira figyelmeztetni kell. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát szó szerint kell jegyzőkönyvbe venni. A figyelmeztetés és a figyelmeztetésre adott válasz szó szerinti jegyzőkönyvezésének elmaradása esetén a tanú vallomása bizonyítási eszközként nem vehető figyelembe.
+(2) A tanút a kihallgatása elején a mentességi okokra és a jogaira figyelmeztetni kell. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát jegyzőkönyvbe kell venni. A figyelmeztetés és a figyelmeztetésre adott válasz jegyzőkönyvezésének elmaradása esetén a tanú vallomása bizonyítási eszközként nem vehető figyelembe.
 
 (3) A megtagadás jogosságáról az eljáró bíróság, ügyész, illetőleg nyomozó hatóság határoz.
 
@@ -1025,7 +1033,7 @@ bírálja el.
 
 (2) A kihallgatás kezdetén meg kell kérdezni a tanútól a nevét, a születési idejét és helyét, anyja nevét, a lakóhelyének és tartózkodási helyének címét, a foglalkozását, a személyazonosító okmány számát, valamint azt, hogy a terhelttel vagy a sértettel rokoni viszonyban van-e, vagy hogy az ügyben más okból érdekelt vagy elfogult-e. Ezekre a kérdésekre a tanú akkor is köteles válaszolni, ha egyébként a vallomástételt megtagadhatja.
 
-(3) A kihallgatás elején tisztázni kell, hogy nincs-e a tanú vallomástételének akadálya (81–82. §). Ha a tanú vallomástételének nincs akadálya, figyelmeztetni kell arra, hogy köteles a legjobb tudomása és lelkiismerete szerint az igazat vallani, továbbá arra, hogy a hamis tanúzást és a mentő körülmény elhallgatását a törvény szabadságvesztéssel rendeli büntetni. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát szó szerint kell jegyzőkönyvbe venni. A figyelmeztetés és a figyelmeztetésre adott válasz szó szerinti jegyzőkönyvezésének elmaradása esetén a tanú vallomása bizonyítási eszközként nem vehető figyelembe.
+(3) A kihallgatás elején tisztázni kell, hogy nincs-e a tanú vallomástételének akadálya (81–82. §). Ha a tanú vallomástételének nincs akadálya, figyelmeztetni kell arra, hogy köteles a legjobb tudomása és lelkiismerete szerint az igazat vallani, továbbá arra, hogy a hamis tanúzást a törvény szabadságvesztéssel rendeli büntetni. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát jegyzőkönyvbe kell venni. A figyelmeztetés és a figyelmeztetésre adott válasz jegyzőkönyvezésének elmaradása esetén a tanú vallomása bizonyítási eszközként nem vehető figyelembe.
 
 (4) A tanú kihallgatásánál jelen lehet az érdekében eljáró ügyvéd, aki a tanúnak felvilágosítást adhat a jogairól, de más tevékenységet nem végezhet, és a vallomást nem befolyásolhatja. A kihallgatást követően az arról készült jegyzőkönyvet megtekintheti, és észrevételeit írásban vagy szóban előterjesztheti.
 
@@ -1306,7 +1314,7 @@ bírálja el.
 
 117. § (1) A terhelt kihallgatása előtt meg kell állapítani a személyazonosságát, ennek érdekében meg kell kérdezni a terhelt nevét, születési nevét, korábbi nevét, születési idejét és helyét, anyja nevét, lakóhelyének és tartózkodási helyének lakcímét, a személyazonosító okmánya számát és az állampolgárságát. Ezekre a kérdésekre a terhelt akkor is köteles válaszolni, ha egyébként a vallomástételt megtagadja.
 
-(2) A terheltet a kihallgatásának megkezdésekor figyelmeztetni kell arra, hogy nem köteles vallomást tenni, a vallomás tételét, illetőleg az egyes kérdésekre történő válaszadást a kihallgatás folyamán bármikor megtagadhatja, de bármikor dönthet úgy, hogy vallomást tesz, akkor is, ha korábban a vallomástételt megtagadta. Figyelmeztetni kell arra is, hogy amit mond, illetőleg rendelkezésre bocsát, bizonyítékként felhasználható. A figyelmeztetést, valamint a terheltnek a figyelmeztetésre adott válaszát szó szerint kell jegyzőkönyvbe venni. A figyelmeztetés és a figyelmeztetésre adott válasz szó szerinti jegyzőkönyvezésének elmaradása esetén a terhelt vallomása bizonyítási eszközként nem vehető figyelembe.
+(2) A terheltet a kihallgatásának megkezdésekor figyelmeztetni kell arra, hogy nem köteles vallomást tenni, a vallomás tételét, illetve az egyes kérdésekre történő válaszadást a kihallgatás folyamán bármikor megtagadhatja, de bármikor dönthet úgy, hogy vallomást tesz, akkor is, ha korábban a vallomástételt megtagadta. Figyelmeztetni kell arra is, hogy amit mond, illetve rendelkezésre bocsát, bizonyítékként felhasználható. A figyelmeztetést, valamint a terheltnek a figyelmeztetésre adott válaszát jegyzőkönyvbe kell venni. A figyelmeztetés és a figyelmeztetésre adott válasz jegyzőkönyvezésének elmaradása esetén a terhelt vallomása bizonyítási eszközként nem vehető figyelembe.
 
 (3) A terhelt kihallgatása a foglalkozására, munkahelyére, iskolai végzettségére, családi, kereseti és vagyoni körülményeire, továbbá a korábbi büntetésére és az eljárás tárgyától függően a katonai rendfokozatára és a kitüntetéseire vonatkozó kérdésekkel kezdődik. Ezt követi a terhelt részletes kihallgatása.
 
@@ -1921,24 +1929,7 @@ vezet.
 
 (8) A felettes ügyész az előterjesztés alapján az iratokat megvizsgálja és a vizsgálata eredményéről, jogi álláspontjáról az előterjesztőt az előterjesztés hozzá érkezésétől számított tizenöt napon belül írásban tájékoztatja.
 
-165/A. § (1) Az ügyész a nyomozó hatóság önállóan végzett nyomozása felett fokozott felügyeletet gyakorol, ha
-
-- a) az ügy ténybeli, jogi megítélése vagy a bűncselekmény bizonyítása bonyolult,
-- b) a nyomozás során lényeges törvénysértést, mulasztást vagy a nyomozás eredményességét veszélyeztető körülményt észlelt,
-- c) a gyanúsított személyi szabadságát elvonó kényszerintézkedés hatálya alatt áll,
-- d) a meghatározott személy ellen folyó nyomozás megindításától [Be. 176. § (2) bek.] számított egy év eltelt, illetőleg a meghosszabbított határidőben el fog telni,
-- e) a nyomozás olyan bűncselekmény miatt folyik, amelyet a törvény tíz évet meghaladó szabadságvesztéssel fenyeget,
-- f) a bíróság az ügyben tanút különösen védetté nyilvánított,
-- g) az ügyben fedett nyomozó igénybevételét engedélyezte,
-- h) az ügy közérdeklődésre tarthat számot.
-
-(2) Az ügyész a nyomozó hatóság önállóan végzett nyomozása felett fokozott felügyeletet gyakorolhat akkor is, ha a gyanúsított személyi szabadságát korlátozó kényszerintézkedés elrendelése óta hat hónap eltelt.
-
-(3) Az ügyész a nyomozó szerv vezetőjével írásban közli, ha az ügyben fokozott ügyészi felügyeletet gyakorol.
-
-(4) A nyomozó hatóság a fokozott ügyészi felügyelet bejelentésének tényéről – annak indokának megjelölése nélkül – feljegyzést készít. A feljegyzést a nyomozási iratba kell fűzni.
-
-(5) Fokozott felügyelet gyakorlása esetén az ügyész az ügy iratait havonta megvizsgálja és az e törvény szerinti szükséges intézkedést – figyelemmel a 28. § (4) bekezdésében foglaltakra – megteszi.
+165/A. §
 
 ### A jegyzőkönyv
 
@@ -1975,6 +1966,8 @@ vezet.
 (2) A jelentés tartalmazza a 166. § (2) bekezdésének a)–c) és e) pontjában meghatározott adatokat, az elvégzett eljárási cselekmények megjelölését, és ezek tartalmának tömör összefoglalását akként, hogy az eljárási szabályok megtartását is ellenőrizni lehessen.
 
 (3) A jelentést a nyomozó hatóság eljáró tagja írja alá.
+
+(4) A feljelentés kiegészítése körében tett megállapítások jelentésbe foglalhatók. A jelentés az eljáró hatóság megnevezését, az eljárási cselekmény helyét, idejét, és a történtek lényegének összegzését tartalmazza.
 
 ### A határozat
 
@@ -2027,7 +2020,7 @@ vezet.
 
 172/A. § (1) Ha a feljelentés alapján a nyomozás elrendeléséről, illetőleg a feljelentés elutasításáról megnyugtatóan nem lehet állást foglalni, a feljelentés kiegészítésének van helye.
 
-(2) A feljelentés kiegészítése során a nyomozó hatóság a 178. § (1) bekezdésében meghatározott adatszerző tevékenységet folytathat. A feljelentés kiegészítése alapján a nyomozó hatóság legfeljebb tizenöt napig végezhet adatszerző tevékenységet.
+(2) A feljelentés kiegészítése során a feljelentéskiegészítést végző hatóság a 178. § (1) bekezdésében meghatározott adatszerző tevékenységet folytathat, illetve a feljelentőt meghallgathatja, a feljelentés kiegészítése során tett megállapításait jelentésbe foglalja. A feljelentéskiegészítés határideje tizenöt nap. Ezt a határidőt a feljelentéskiegészítést végző hatóság vezetője indokolt esetben tizenöt nappal meghosszabbíthatja.
 
 (3) Ha a feljelentés kiegészítését követően a nyomozást elrendelik, a nyomozás határidejét a feljelentéskiegészítés elrendelése napjától kell számítani.
 
@@ -2087,11 +2080,11 @@ vezet.
 
 ### A nyomozás határideje
 
-176. § (1) A nyomozást a lehető legrövidebb időn belül le kell folytatni, és az elrendelésétől, illetve megindulásától számított két hónapon belül be kell fejezni. Ha az ügy bonyolultsága vagy elháríthatatlan akadály indokolja, a nyomozás határidejét az ügyész két hónappal, ha ez a határidő letelt, a főügyész legfeljebb a büntetőeljárás megindításától számított egy év elteltéig meghosszabbíthatja.
+176. § (1) A nyomozást a lehető legrövidebb időn belül le kell folytatni, és az elrendelésétől, illetve megindulásától számított két hónapon belül be kell fejezni. Ha az ügy bonyolultsága vagy elháríthatatlan akadály indokolja, a nyomozás határidejét az ügyész legfeljebb hat hónappal, ha ez a határidő letelt, az ügyészség vezetője legfeljebb a büntetőeljárás megindításától számított egy év elteltéig meghosszabbíthatja.
 
-(2) Egy éven túl a legfőbb ügyész jogosult a nyomozás határidejének meghosszabbítására. Ha a nyomozás meghatározott személy ellen folyik, a meghosszabbítás legfeljebb a gyanúsítottnak a 179. § (1) bekezdése szerinti kihallgatásától számított két évig terjedhet, kivéve, ha a legfőbb ügyész a 193. § (3) bekezdése alapján a nyomozás időtartamát az engedélyben meghatározott időpontig meghosszabbította.
+(2) Egy éven túl a felettes ügyészség vezetője, két éven túl a legfőbb ügyész jogosult a nyomozás határidejének meghosszabbítására. Ha a nyomozás meghatározott személy ellen folyik, a meghosszabbítás legfeljebb a gyanúsítottnak a 179. § (1) bekezdése szerinti kihallgatásától számított két évig terjedhet, kivéve, ha a legfőbb ügyész a 193. § (3) bekezdése alapján a nyomozás időtartamát az engedélyben meghatározott időpontig meghosszabbította.
 
-(3) Ha az ügyész nyomoz, a nyomozás határidejét az ügyészség vezetője két hónappal, a felettes ügyész legfeljebb a nyomozás elrendelésétől számított egy év elteltéig, azt követően a (2) bekezdésben meghatározott határidőig a legfőbb ügyész hosszabbíthatja meg.
+(3) Ha az ügyész nyomoz, a nyomozás határidejét az ügyészség vezetője legfeljebb a nyomozás elrendelésétől számított egy év elteltéig, azt követően a (2) bekezdésben meghatározott határidőig a felettes ügyészség vezetője, illetve a legfőbb ügyész hosszabbíthatja meg.
 
 (4) A nyomozás határidejének meghosszabbításáról rendelkező határozat ellen nincs helye panasznak.
 
@@ -2489,25 +2482,21 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 ### A titkos információgyűjtés eredményének felhasználása
 
-206/A. § (1) A bűnüldözési célból folytatott bírói engedélyhez kötött titkos információgyűjtés eredménye a büntetőeljárásban akkor használható fel, ha
+206/A. § (1) A bűnüldözési célból folytatott bírói engedélyhez kötött titkos információgyűjtés, valamint a nem bűnüldözési célból folytatott bírói engedélyhez, illetve az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtés eredménye a büntetőeljárásban bizonyítékként akkor használható fel, ha
 
 - a) a titkos adatszerzés engedélyezésének e törvényben meghatározott feltételei (201. §) a bizonyítani kívánt bűncselekmény tekintetében fennállnak,
-- b) a büntetőeljárásban felhasználni kívánt információ megszerzését követően a titkos információgyűjtést végző szerv a feljelentési kötelezettségének haladéktalanul eleget tett.
+- b) a titkos információgyűjtés engedélyezését kérő szerv a büntetőeljárásban felhasználni kívánt információ megszerzését követően a nyomozást haladéktalanul elrendelte vagy a feljelentési kötelezettségének haladéktalanul eleget tett.
 
-(2) Akivel szemben a bíróság bűnüldözési célból titkos információgyűjtést engedélyezett, az (1) bekezdésben meghatározott feltételek fennállása esetén a titkos információgyűjtés eredménye olyan bűncselekmény bizonyítására is felhasználható, amelyet az engedélyben nem jelöltek meg, feltéve, hogy a titkos adatszerzés e törvényben meghatározott feltételei ez utóbbi bűncselekmény tekintetében is fennállnak.
+(2) A titkos információgyűjtés engedélyezését kérő szerv a nyomozás elrendelésével vagy a feljelentés megtételével egyidejűleg kezdeményezi az illetékes ügyésznél a titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználásra való alkalmasságának megállapítását, ha
 
-(3) Annak a bűncselekménynek a bizonyítására, amely miatt a titkos információgyűjtést a bíróság engedélyezte, az (1) bekezdésben meghatározott feltételek fennállása esetén a titkos információgyűjtés eredménye minden elkövetővel szemben felhasználható.
+- a) a bűnüldözési célból folytatott titkos információgyűjtés során keletkezett és rögzített adat az engedélyben nem megjelölt személyre, illetve nem megjelölt bűncselekményre,
+- b) a nem bűnüldözési célból folytatott titkos információgyűjtés során keletkezett és rögzített adat az engedélyben nem megjelölt személyre vonatkozik.
 
-(4) A nem bűnüldözési célból folytatott bírói, illetőleg az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtés eredménye a büntetőeljárásban akkor használható fel, ha
+(3) A (2) bekezdés szerinti felhasználásra való alkalmasságról történő döntés érdekében az ügyész hetvenkét órán belül a nyomozási bíróhoz fordul. A titkos információgyűjtés eredménye akkor alkalmas a büntetőeljárásban bizonyítékként történő felhasználásra, ha az (1) bekezdésben meghatározott feltételek fennállnak és megalapozottan feltehető, hogy más módon a bizonyíték beszerzése kilátástalan, vagy aránytalanul nagy nehézséggel járna. A nyomozási bíró a felhasználásra való alkalmasságról indokolt végzéssel határoz. A felhasználásra való alkalmasság tárgyában hozott döntés a titkos információgyűjtés során keletkezett és rögzített adat minősített jellegét nem érinti. A büntetőeljárásban bizonyítékként történő felhasználásra való alkalmasság megállapítása esetén az érintett adatot csak akkor kell megsemmisíteni, ha az ügyész az (4) bekezdés alapján annak bizonyítékként történő felhasználását nem indítványozta.
 
-- a) a titkos adatszerzés engedélyezésének e törvényben meghatározott feltételei (201. §) a bizonyítani kívánt bűncselekmény tekintetében fennállnak,
-- b) a büntetőeljárásban felhasználni kívánt információ megszerzését követően a titkos információgyűjtést végző szerv a feljelentési kötelezettségének haladéktalanul eleget tett.
+(4) A titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználását az (1) bekezdésben meghatározott feltételek fennállása esetén a nyomozás elrendelését követően az ügyész indítványozhatja. Az indítványról a nyomozási bíró határoz.
 
-(5) A nem bűnüldözési célból folytatott titkos információgyűjtés eredménye a (4) bekezdésben meghatározott feltételek fennállása esetén is kizárólag az engedélyben megjelölt személy bűncselekményének bizonyítására használható fel.
-
-(6) A bírói, illetőleg az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtés eredményének a büntetőeljárásban bizonyítási eszközként történő felhasználását az (1)–(5) bekezdésben meghatározott feltételek fennállása esetén a nyomozás elrendelését követően az ügyész indítványozhatja. Az indítványról a nyomozási bíró határoz.
-
-(7) A bírói engedélyhez kötött titkos információgyűjtés tényét a megyei (fővárosi) bíróság elnöke igazolja. Az igazolás tartalmazza a bíróság megjelölését, az engedéllyel érintett ügy számát és tárgyát, az érintett személy nevét, a titkos információgyűjtés engedélyezésére irányuló előterjesztés, illetőleg az engedély kereteit.
+(5) A bírói engedélyhez kötött titkos információgyűjtés tényét a megyei (fővárosi) bíróság elnöke igazolja. Az igazolás tartalmazza a bíróság megjelölését, az engedéllyel érintett ügy számát és tárgyát, az érintett személy nevét, a titkos információgyűjtés engedélyezésére irányuló előterjesztés, illetve az engedély kereteit.
 
 ### VI. CÍM — A NYOMOZÁSI BÍRÓ ELJÁRÁSA
 
@@ -2518,10 +2507,12 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 (2) A nyomozási bíró dönt
 
 - a) a vádirat benyújtása előtt a bíróság hatáskörébe tartozó kényszerintézkedésekkel, az elmeállapot megfigyelésével kapcsolatos indítványokról, a védő kizárásáról, illetőleg az előzetes letartóztatott pszichiátriai kezelésre igazságügyi megfigyelő és elmegyógyító intézetbe történő beutalásáról,
-- b) a titkos adatszerzés engedélyezéséről [203. § (4) és (6) bek.], megszüntetéséről [205. § (3) bek.], valamint a titkos információgyűjtés eredményének büntetőeljárásban bizonyítási eszközként történő felhasználásának lehetőségéről [206/A. § (6) bek.],
-- c) a nyomozás megszüntetését követően a nyomozás folytatásának elrendeléséről [191. § (3) bek.],
+- b) a titkos adatszerzés engedélyezéséről [203. § (4) és (6) bek.], megszüntetéséről [205. § (3) bek.], a titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználásra való alkalmasságának megállapításáról [206/A. § (3) bek.], valamint a titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználásának lehetőségéről [206/A. § (4) bek.],
+- c) az ügyész indítványára a nyomozás megszüntetését követően a nyomozás folytatásának elrendeléséről [191. § (3) bek.],
 - d) az ügyész indítványára a tanú különösen védetté nyilvánításáról (97. §),
 - e) a 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat elleni panaszt elutasító határozat, továbbá a 151. § (2) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozattal szemben előterjesztett felülbírálati indítványról, valamint a rendbírság 161. § (6) bekezdése szerinti elzárásra történő átváltoztatásáról.
+
+(2a) A nyomozás megszüntetését követően a nyomozás folytatása nyomozási bíró általi elrendelésének indítványozását az ügyésznél lehet kezdeményezni.
 
 (3) A nyomozási bíró a vádirat benyújtása előtt az ügyész indítványára kihallgatja a különösen védett tanút és azt a tanút, aki az életét közvetlenül veszélyeztető állapotban van. A tanú kihallgatásának indítványozását a tanú és az érdekében eljáró ügyvéd az ügyésznél kezdeményezheti. A nyomozási bíró ismételten kihallgatja a különösen védett tanút, ha ezt a tárgyalás előkészítése vagy a tárgyalás során a bíróság elrendeli [268. § (3) bek., 305. § (3) bek.].
 
@@ -2655,7 +2646,7 @@ ellen.
 - e) a bíróság hatáskörére és illetékességére vonatkozó jogszabályok megjelölését, továbbá a vádiratot benyújtó ügyész hatáskörére, illetőleg illetékességére vonatkozó szabályokra való utalást,
 - f) a büntetés kiszabására vagy intézkedés alkalmazására vonatkozó indítványt,
 - g) a bejelentett polgári jogi igényt, továbbá az egyéb indítványokat,
-- h) a tárgyalásra idézendők és az arról értesítendők indítványozását,
+- h) a tárgyalásra idézendők és az arról értesítendők indítványozását, illetve azon tanúk vallomása felolvasásának az indítványozását, akiknek a vallomása szükséges a bizonyításhoz, de a személyes megjelenésük a tárgyaláson nem indokolt, illetve a tárgyaláson való megjelenésük aránytalan nehézséggel járna vagy nem lehetséges.
 - i) a bizonyítási eszközök megjelölését, valamint azt, hogy mely tény bizonyítására szolgálnak,
 - j) a tárgyaláson való bizonyítás felvételének sorrendjére vonatkozó indítványt.
 
@@ -2731,7 +2722,7 @@ ellen.
 
 (3) A 225. § (2) bekezdésének a) és b) pontja esetén az ügyész a sértettet is meghallgatja; a sértett meghallgatása mellőzhető, ha a hozzájárulásáról korábban nyilatkozott. A sértett hozzájárulásának hiánya nem akadálya annak, hogy a kártérítési, illetve a sértettnek teljesítendő jóvátételi kötelezettség előírása nélkül az ügyész a vádemelést elhalassza, ha annak feltételei enélkül is fennállnak.
 
-(4) Az ügyész a közvetítői eljárásra utalás feltételeinek vizsgálata céljából – szükség esetén a gyanúsítottra vonatkozó pártfogó felügyelői vélemény beszerzése után – meghallgatja a gyanúsítottat és a sértettet. Ha ez szükséges, a pártfogó felügyelő is meghallgatható.
+(4) Az ügyész a közvetítői eljárásra utalás feltételeinek vizsgálata céljából – szükség esetén a gyanúsítottra vonatkozó pártfogó felügyelői vélemény beszerzése után – meghallgathatja a gyanúsítottat és a sértettet. Ha ez szükséges, a pártfogó felügyelő is meghallgatható.
 
 ### Magatartási szabályok megállapítása a vádemelés elhalasztása esetén
 
@@ -2882,6 +2873,8 @@ ellen.
 - c) az eljárásban részt vevő személyek (V. Fejezet) vagy a tanú védelme érdekében,
 - d) a minősített adat védelme végett.
 
+(3a) Ha a bíróság a nyilvánosságot a nyilvános ülésről kizárja, zárt ülést tart.
+
 (4) A nyilvánosság kizárása az eljárás bármely szakaszában indítványozható.
 
 238. § (1) A nyilvánosság kizárásáról szóló határozatot a bíróság nyilvános tárgyaláson hirdeti ki. A nyilvánosság kizárása tárgyában hozott határozat ellen külön fellebbezésnek nincs helye, azt az ügydöntő határozattal szemben bejelentett fellebbezésben lehet sérelmezni.
@@ -2924,7 +2917,7 @@ ellen.
 
 - a) ha e törvény másképp nem rendelkezik, a megyei bíróság mint első fokú bíróság előtt,
 - b) a 46. §-ban szabályozott esetekben,
-- c)
+- c) amennyiben a szabályszerűen megidézett vádlott bejelentette, hogy a tárgyaláson nem kíván részt venni.
 - d) ha pótmagánvádló lép fel.
 
 (2) Ha az ügyész a tárgyaláson részt vesz, és a vádlott védőt nem hatalmazott meg, a tanács elnöke szükség esetén védő kirendeléséről gondoskodik. Ha a vádlott kéri, védőt kell kirendelni.
@@ -3184,7 +3177,7 @@ ellen.
 
 ### A vádirat közlése
 
-263. § (1) A tanács elnöke az ügy iratainak a bírósághoz érkezését követően hatvan napon belül megvizsgálja, hogy van-e helye a 264–271. §-okban foglalt rendelkezések alkalmazásának.
+263. § (1) A tanács elnöke az ügy iratainak a bírósághoz érkezését követően harminc napon belül megvizsgálja, hogy van-e helye a 264–271. §-ban, illetve az 543–547. §-ban foglalt rendelkezések alkalmazásának.
 
 (2) Legkésőbb az (1) bekezdésben meghatározott határidő letelte után a tanács elnöke a vádiratot haladéktalanul megküldi a vádlottnak és a védőnek; a vádlottat és a védőt felhívja, hogy tizenöt napon belül jelölje meg bizonyítási eszközeit.
 
@@ -3297,7 +3290,9 @@ ellen.
 
 ### Öttagú tanács elé utalás
 
-271. § A megyei bíróság elrendelheti, hogy az ügyet két hivatásos bíróból és három ülnökből álló tanács tárgyalja, ha
+271. § (1) A helyi bíróság elrendelheti, hogy az ügyet két hivatásos bíróból és három ülnökből álló tanács tárgyalja, ha ezt a vádlottak nagy száma vagy az ügy különösen nagy terjedelme indokolja.
+
+(2) A megyei bíróság elrendelheti, hogy az ügyet két hivatásos bíróból és három ülnökből álló tanács tárgyalja, ha
 
 - a) ezt a vádlottak nagy száma vagy az ügy különösen nagy terjedelme indokolja,
 - b) a bűncselekményre a törvény életfogytig tartó szabadságvesztés kiszabását is lehetővé teszi.
@@ -3346,7 +3341,7 @@ ellen.
 
 275. § (1) A tárgyalás előkészítésének befejezése, illetőleg a tárgyalás kitűzése után – ha szükséges – a 267. és a 269. §-ban szabályozott kérdésekben a bíróság tanácsülésen, a 264., 265., 266., 268., 270., 270/A. és 271. §-ban szabályozott kérdésekben a tanács elnöke határoz.
 
-(2) A tanács elnöke a kitűzött tárgyalást fontos okból elhalaszthatja. A védő akadályoztatása miatt a tárgyalás akkor halasztható el, ha a vádlott más védőt nem hatalmaz meg, illetőleg más védő kirendelése már nem lehetséges, vagy ha az új védő a tárgyalásig – idő hiányában – nem tud a védelemre felkészülni.
+(2) A tanács elnöke a kitűzött tárgyalást fontos okból elhalaszthatja. Ha a tárgyaláson védő részvétele kötelező, és a meghatalmazott védő a helyettesítéséről nem gondoskodik, illetve a vádlott más védőt nem hatalmaz meg, a bíróság helyettes védőt jelöl ki, illetve új védőt rendel ki.
 
 ### Jogorvoslat kizárása a tárgyalás előkészítése során
 
@@ -3390,7 +3385,9 @@ ellen.
 
 (2) Az idézésben vagy az értesítésben a büntetőeljárásban részt vevő személyeket fel kell hívni arra, hogy a bizonyítási indítványaikat késedelem nélkül, a tárgyalás előtt tegyék meg. A tanács elnöke intézkedik, hogy az ügy elbírálásához a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak.
 
-(3) A vádlottnak az idézést legalább öt nappal a tárgyalás előtt kell kézbesíteni.
+(3) A vádlottnak az idézést legalább nyolc nappal a tárgyalás előtt kell kézbesíteni. Az idézéssel egyidejűleg a bíróság a vádlottat tájékoztathatja arról, hogy a tárgyalás a távollétében megtartható, és vele szemben az eljárás befejezhető, ha előzetesen bejelenti, hogy a tárgyaláson nem kíván részt venni.
+
+(4) Ha a vádlott előzetesen bejelenti, hogy a tárgyaláson nem kíván részt venni, és nincs védője, a bíróság a részére védőt rendel ki, és a védőt a kitűzött határnapra idézi.
 
 280. § (1) Ha a tanú a tizennegyedik életévét nem töltötte be, és a nyomozás során a bíróság kihallgatta [207. § (4) bek.], a tárgyalásra nem idézhető. Ha az ilyen tanú a tárgyalás időpontjában a tizennegyedik életévét betöltötte, a tárgyalásra különösen indokolt esetben idézhető.
 
@@ -3406,21 +3403,21 @@ ellen.
 
 281. § (1) A tárgyalást a vád tárgyának megjelölésével a tanács elnöke nyitja meg, ezután a hallgatóságot a csend és rend megtartására és a rendzavarás következményeire figyelmezteti. Közli a bíróság tagjai, a jegyzőkönyvvezető, az ügyész és a védő nevét. Számba veszi a megjelenteket és megállapítja, hogy az idézettek és értesítettek jelen vannak-e, ettől függően megvizsgálja, hogy a tárgyalást meg lehet-e tartani.
 
-(2) A tanács elnöke a lehetőséghez képest intézkedik, hogy a szabályszerű idézés ellenére meg nem jelent vádlottat vagy tanút azonnal vezessék elő, a távol maradt ügyészt vagy szakértőt pedig a tárgyaláson való megjelenésre hívja fel, az ügyész felhívása az ügyészség vezetője útján történik.
+(2) A tanács elnöke a lehetőséghez képest intézkedik – a 279. § (4) bekezdés esetét kivéve –, hogy a szabályszerű idézés ellenére meg nem jelent vádlottat vagy tanút azonnal vezessék elő, a távol maradt ügyészt vagy szakértőt pedig a tárgyaláson való megjelenésre hívja fel, az ügyész felhívása az ügyészség vezetője útján történik.
 
-(3) Ha a megidézett védő nem jelent meg, helyette a vádlott más védőt hatalmazhat meg, illetőleg – ha a védő tárgyalási részvétele kötelező – a meg nem jelent védő helyett más védőt kell kirendelni. Az új védőnek megfelelő időt kell biztosítani ahhoz, hogy a védelemre felkészüljön. Ha ez nyomban nem lehetséges, a tárgyalást a meg nem jelent védő költségére el kell halasztani.
+(3) Ha a megidézett védő nem jelent meg, helyette a vádlott más védőt hatalmazhat meg. Ha a védő tárgyalási részvétele kötelező, és a meghatalmazott védő a tárgyaláson nem jelenik meg, és a helyettesítéséről sem gondoskodik, a bíróság helyettes védőt jelöl ki, illetve a meg nem jelent kirendelt védő helyett más védőt rendel ki. A helyettes vagy a kirendelt új védőnek időt lehet biztosítani ahhoz, hogy a védelemre felkészüljön. A tárgyalás megtartható, de a vádlott vagy a tárgyaláson jelen lévő védő kérelmére a bizonyítási eljárást nem lehet befejezni, a tárgyalást a meg nem jelent védő költségére el kell napolni.
 
 (4) A tárgyalás a vádlott távollétében megtartható, ha az eljárás tárgya a vádlott kényszergyógykezelésének elrendelése, és az állapota miatt a tárgyaláson nem jelenhet meg, illetőleg a jogainak gyakorlására képtelen. Ha az eljárás több vádlott ellen folyik, a vádlott távollétében is megtartható a tárgyalásnak az a része, amely őt nem érinti; ekkor a meg nem jelent vádlott védőjének távollétében a tárgyalásnak ez a része akkor is megtartható, ha a védelem kötelező.
 
 (5) Ha a tanács elnökének a (2) bekezdésben megjelölt intézkedése nem lehetséges, vagy az nem vezetett eredményre, a tárgyalást a szabályszerű idézés ellenére meg nem jelent, szabadlábon lévő vádlott távollétében is meg lehet tartani, a bizonyítási eljárást azonban – a (9) bekezdés esetét kivéve – nem lehet befejezni.
 
-(6) Az (5) bekezdés esetében, ha a (9) bekezdés alkalmazásának nincs helye, a megjelent személyek kihallgatását, illetőleg meghallgatását követően a tárgyalást el kell napolni, és a meg nem jelent vádlottnak a következő tárgyalási határnapra történő elővezetését kell elrendelni. Ha a bírósági eljárás során a meg nem jelent vádlott elővezetését már elrendelték, szabadságvesztéssel büntetendő bűncselekmény esetén elfogatóparancsot kell kibocsátani vagy – a (7) bekezdés esetét kivéve – ha a vádlott lakóhelye, illetve tartózkodási helye ismert, a vádlott tárgyalási őrizetét kell elrendelni. Ha a vádlottnak nincs védője, számára védőt kell kirendelni. A tárgyalási őrizet elrendeléséről szóló határozatot a kényszerintézkedés foganatba vételekor a rendőrség kézbesíti a vádlott részére. A határozat fellebbezésre tekintet nélkül végrehajtható. A tárgyalási őrizet tartama a hetvenkét órát nem haladhatja meg. A tárgyalási őrizet foganatba vételét követően a vádlottat hetvenkét órán belül a tárgyalási őrizetet elrendelő bíróság elé kell állítani. A bíróság a vádlottat meghallgatja és a meghallgatás eredményétől függően a vádlott előzetes letartóztatását rendelheti el. Ha a bíróság a vádlott előzetes letartóztatását nem rendelte el, a vádlottat szabadon kell bocsátani.
+(6) Az (5) bekezdés esetében, ha a (9) bekezdés alkalmazásának nincs helye, a megjelent személyek kihallgatását, illetve meghallgatását követően a tárgyalást el kell napolni, és a meg nem jelent vádlottnak a következő tárgyalási határnapra történő elővezetését kell elrendelni. Ha a bírósági eljárás során a meg nem jelent vádlott elővezetését már elrendelték, szabadságvesztéssel büntetendő bűncselekmény esetén elfogatóparancsot kell kibocsátani vagy – a (7) bekezdés esetét kivéve – ha a vádlott lakóhelye, illetve tartózkodási helye ismert, a kitűzött új tárgyalási határnapot megelőző naptól a vádlott tárgyalási őrizetét kell elrendelni. Ha a vádlottnak nincs védője, számára védőt kell kirendelni. A tárgyalási őrizet elrendeléséről szóló határozatot a kényszerintézkedés foganatba vételekor a rendőrség kézbesíti a vádlott részére. A határozat fellebbezésre tekintet nélkül végrehajtható. A tárgyalási őrizet tartama a hetvenkét órát nem haladhatja meg, kezdő időpontja az őrizet foganatba vételének időpontja. A tárgyalási őrizet foganatba vételét követően a kitűzött tárgyalási határnapon a vádlottat a tárgyalási őrizetet elrendelő bíróság elé kell állítani. A bíróság a vádlottat meghallgatja és a meghallgatás eredményétől függően a vádlott előzetes letartóztatását rendelheti el, illetve a tárgyalás idejére – de legfeljebb hetvenkét óráig – a tárgyalási őrizetet fenntarthatja. Ha a bíróság a tárgyalási őrizetet nem tartotta fenn vagy a vádlott előzetes letartóztatását nem rendelte el, a vádlottat szabadon kell bocsátani.
 
 (7) Ha a kitűzött új tárgyalási határnapra a vádlottat azért nem lehetett elővezetni, mert a lakóhelyéről ismeretlen helyre távozott, illetőleg ha az újabb tárgyalási határnapig az elfogatóparancs alapján a vádlottat nem sikerült a bíróság elé állítani, a bíróság megállapítja, hogy a vádlott ismeretlen helyen tartózkodik, és a továbbiakban a XXV. Fejezet szerint jár el.
 
 (8) Ha a (6) bekezdés alapján kitűzött tárgyaláson a vádlott jelen van, a távollétében megtartott tárgyalás jegyzőkönyvét a vádlott kihallgatása után ismertetni kell. Szükség esetén a bíróság a már kihallgatott tanú, illetőleg meghallgatott szakértő megidézését és a vádlott jelenlétében való ismételt kihallgatását, illetőleg meghallgatását rendelheti el, illetőleg a tanút írásban történő vallomástételre [85. § (5) és (6) bek.] hívhatja fel.
 
-(9) A bíróság a vádlottat távollétében felmentheti vagy vele szemben a büntetőeljárást megszüntetheti; az erről szóló határozatot – a fellebbezési jogára (324–325. §) vonatkozó rendelkező részi záradék feltüntetése mellett – kézbesítés útján közli a vádlottal és a védővel.
+(9) A bíróság a vádlottat távollétében felmentheti, vagy vele szemben a büntetőeljárást megszüntetheti; az erről szóló határozatot – a fellebbezési jogára (324–325. §) vonatkozó rendelkező részi záradék feltüntetése mellett – kézbesítés útján közli a vádlottal és a védővel. A bíróság a szabályszerű idézés ellenére meg nem jelent vádlottal szemben – ha az előzetesen bejelentette, hogy a tárgyaláson nem kíván részt venni – az eljárást befejezheti, az ügydöntő határozatot a meg nem jelent vádlottal kézbesítés útján, a tárgyaláson jelen lévő védővel kihirdetés útján közli.
 
 282. § (1) A bíróság az ügyész, a vádlott, illetőleg a védő meghallgatása után dönt a tárgyalás megkezdéséről, ha olyan személy maradt el a tárgyalásról, akinek a távolléte a tárgyalás megtartását nem akadályozza.
 
@@ -3488,7 +3485,7 @@ ellen.
 
 289. § (1) A vádlott kihallgatására a 117. § (2)–(5) bekezdését és a 118. § rendelkezéseit a (2) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
-(2) A tanács elnöke a 117. § (2) bekezdésében foglaltakon kívül a vádlottat figyelmezteti arra, hogy a bizonyítási eljárás során kihallgatottakhoz kérdéseket intézhet, indítványokat és észrevételeket tehet. A figyelmeztetés kiterjed arra is, hogy ha a vádlott nem tesz vallomást, a terheltként tett korábbi vallomása felolvasható.
+(2) A tanács elnöke a 117. § (2) bekezdésében foglaltakon kívül a vádlottat figyelmezteti arra, hogy a bizonyítási eljárás során kihallgatottakhoz kérdéseket intézhet, indítványokat és észrevételeket tehet. A figyelmeztetés kiterjed arra is, hogy ha a vádlott nem tesz vallomást, a terheltként tett korábbi vallomása ismertethető vagy felolvasható.
 
 (3) A vádlott – a tárgyalás rendjének zavarása nélkül – a tárgyalás alatt is értekezhet a védőjével, de a kihallgatása közben ezt csak a tanács elnökének engedélyével teheti meg.
 
@@ -3498,13 +3495,13 @@ ellen.
 
 (3) Ha a kérdés a vádlott befolyásolására alkalmas, illetőleg a választ magában foglalja, az nem az ügyre tartozik, arra illetéktelen személy tette fel, a tárgyalás tekintélyét sérti, vagy az ismételten ugyanarra a tényre irányul, a tanács elnöke a kérdésre a feleletet megtiltja.
 
-### A vádlott korábbi vallomásának felolvasása és ismertetése
+### A vádlott korábbi vallomásának ismertetése és felolvasása
 
-291. § (1) Ha a vádlott a tárgyaláson nem kíván vallomást tenni, illetőleg a 281. § (5) bekezdése esetén, valamint ha a vádlott ismeretlen helyen tartózkodik, a nyomozás során tett vallomását az ügyész, a vádlott vagy a védő indítványára, illetve hivatalból a tanács elnöke felolvassa, vagy a jegyzőkönyvvezetővel felolvastatja.
+291. § (1) Ha a vádlott a tárgyaláson nem kíván vallomást tenni, illetve a 281. § (5) bekezdése esetén, valamint ha a vádlott ismeretlen helyen tartózkodik, a nyomozás során tett vallomását a tanács elnöke hivatalból ismerteti, illetve az ügyész, a vádlott vagy a védő indítványára felolvashatja, vagy a jegyzőkönyvezetővel felolvastathatja.
 
-(2) Ha a vádlottat a nyomozás során tanúként hallgatták ki, a tanúvallomás csak akkor olvasható fel, ha ezt a vádlott indítványozza, vagy a tanúvallomásról készült jegyzőkönyvből a 85. § (3) bekezdésében meghatározott figyelmeztetés és az erre adott válasz egyértelműen kitűnik.
+(2) Ha a vádlottat a nyomozás során tanúként hallgatták ki, a tanúvallomás csak akkor ismertethető vagy olvasható fel, ha ezt a vádlott indítványozza, vagy a tanúvallomásról készült jegyzőkönyvből a 85. § (3) bekezdésében meghatározott figyelmeztetés és az erre adott válasz egyértelműen kitűnik.
 
-(3) A vádlottnak más büntetőeljárásban gyanúsítottként vagy vádlottként tett vallomása akkor olvasható fel, ha a vallomásról készült jegyzőkönyvből a 117. § (2) bekezdésében meghatározott figyelmeztetés és az erre adott válasz egyértelműen kitűnik.
+(3) A vádlottnak más büntetőeljárásban gyanúsítottként vagy vádlottként tett vallomása akkor ismertethető vagy olvasható fel, ha a vallomásról készült jegyzőkönyvből a 117. § (2) bekezdésében meghatározott figyelmeztetés és az erre adott válasz egyértelműen kitűnik.
 
 (4) A tanács elnöke az ügyész vagy a védő indítványára, illetőleg hivatalból ismertetheti a vádlott korábbi – az eljárásban gyanúsítottként vagy vádlottként tett – vallomásának részeit, ha a vádlott vallomása a korábbi vallomásától eltér.
 
@@ -3535,9 +3532,9 @@ ellen.
 
 (3) Az (1) bekezdésben meghatározott indítvány elutasítása ellen külön fellebbezésnek nincs helye, azt az ügydöntő határozattal szemben bejelentett fellebbezésben lehet sérelmezni.
 
-### A tanú korábbi vallomásának felolvasása és ismertetése
+### A tanú korábbi vallomásának ismertetése és felolvasása
 
-296. § (1) A tanács elnöke a tanúnak az eljárás korábbi szakaszában tett vallomását az ügyész, a vádlott vagy a védő indítványára vagy hivatalból felolvashatja vagy a jegyzőkönyvvezetővel felolvastathatja, ha
+296. § (1) A tanács elnöke a tanúnak az eljárás korábbi szakaszában tett vallomását hivatalból ismertetheti vagy az ügyész, a vádlott vagy a védő indítványára felolvashatja, illetve a jegyzőkönyvvezetővel felolvastathatja, ha
 
 - a) a tanú a tárgyaláson nem hallgatható ki, vagy a tárgyaláson való megjelenése egészségi állapotára tekintettel aránytalan nehézséggel járna, vagy az tartós külföldi tartózkodása miatt nem lehetséges,
 - b) a tanú a tárgyaláson a vallomástételt jogosulatlanul megtagadja,
@@ -3545,9 +3542,11 @@ ellen.
 - d) a tanú a 85. § (5) és (6) bekezdése alapján írásban tett vallomást, és a tanú tárgyaláson történő kihallgatását a bíróság nem tartja szükségesnek,
 - e) a bíróság a tanút a 281. § (8) bekezdése alapján írásban történő vallomástételre hívta fel.
 
-(2) Ha a tanú a tárgyaláson a mentességi jogával él, a korábban tett vallomása nem olvasható fel.
+(2) A tanács elnöke a tanúnak a nyomozás során tett vallomását az ügyésznek a 217. § (3) bekezdés h) pontja alapján vádiratban tett indítványára felolvassa, ismerteti, vagy a jegyzőkönyvvezetővel felolvastatja, ha a tanú kihallgatását a 285. § (1) bekezdése alapján nem indítványozták, és a tanú tárgyaláson történő kihallgatását a bíróság sem tartja szükségesnek.
 
-(3) Ha a tárgyaláson tanúként kihallgatandó személyt az eljárás korábbi szakaszában gyanúsítottként vagy vádlottként hallgatták ki, a hozzájárulása nélkül a korábbi vallomása vagy vallomásának csak az a része olvasható fel, amelyre nem vonatkozik a 82. § (1) bekezdésében biztosított mentességi joga.
+(3) Ha a tanú a tárgyaláson a mentességi jogával él, a korábban tett vallomása nem ismertethető és nem olvasható fel.
+
+(4) Ha a tárgyaláson tanúként kihallgatandó személyt az eljárás korábbi szakaszában gyanúsítottként vagy vádlottként hallgatták ki, a hozzájárulása nélkül a korábbi vallomása vagy vallomásának csak az a része ismertethető vagy olvasható fel, amelyre nem vonatkozik a 82. § (1) bekezdésében biztosított mentességi joga.
 
 297. § (1) A tanács elnöke az ügyész, a vádlott vagy a védő indítványára, illetőleg hivatalból ismertetheti a tanú korábbi vallomásának részeit, ha a tanú a történtekre nem emlékszik, vagy ha a tárgyaláson tett és a korábbi tanúvallomása között ellentét van. Az ismertetés – a 296. § (3) bekezdésében meghatározott keretek között – kiterjedhet a tanúnak az eljárás korábbi szakaszában vagy más eljárásban gyanúsítottként vagy vádlottként tett vallomására is.
 
@@ -3559,25 +3558,25 @@ ellen.
 
 (2) A szakértő a meghallgatása során az írásban előterjesztett szakvéleményét vagy feljegyzéseit igénybe veheti, és szemléltető eszközöket alkalmazhat.
 
-### A szakvélemény felolvasása
+### A szakvélemény ismertetése és felolvasása
 
-299. § (1) Ha a szakértő a tárgyaláson az értesítés ellenére nem jelent meg, vagy a szakértő értesítését a bíróság a 108. § (6) bekezdése alapján mellőzte, az írásban előterjesztett szakvéleményt a tanács elnöke felolvassa, vagy a jegyzőkönyvvezetővel felolvastatja. Ha a szakvélemény felolvasása után a 109. § alapján a szakértő meghallgatása szükséges, a tárgyalást el kell napolni, és a szakértőt a kitűzött tárgyalásra meg kell idézni.
+299. § (1) Ha a szakértő a tárgyaláson az értesítés ellenére nem jelent meg, vagy a szakértő értesítését a bíróság a 108. § (6) bekezdése alapján mellőzte, az írásban előterjesztett szakvéleményt a tanács elnöke ismerteti vagy az ügyész, a vádlott, vagy a védő indítványára felolvassa, illetve a jegyzőkönyvvezetővel felolvastatja. Ha a szakvélemény ismertetése vagy felolvasása után a 109. § alapján a szakértő meghallgatása szükséges, a tárgyalást el kell napolni, és a szakértőt a kitűzött tárgyalásra meg kell idézni.
 
-(2) Ha a szakértő az idézés ellenére a tárgyaláson nem jelenik meg, a bíróság hivatalból vagy indítványra engedélyezheti az írásban előterjesztett szakvélemény felolvasását. Ha a szakértői vélemény felolvasása után az ügyész, a vádlott, a védő, a sértett vagy a magánfél kérdéseket kíván feltenni, a tárgyalást el kell napolni, és a szakértőt a kitűzött tárgyalásra ismételten meg kell idézni.
+(2) Ha a szakértő az idézés ellenére a tárgyaláson nem jelenik meg, a bíróság hivatalból vagy indítványra elrendelheti az írásban előterjesztett szakvélemény ismertetését vagy felolvasását. Ha a szakértői vélemény ismertetése vagy felolvasása után az ügyész, a vádlott, a védő, a sértett vagy a magánfél kérdéseket kíván feltenni, a tárgyalást el kell napolni, és a szakértőt a kitűzött tárgyalásra ismételten meg kell idézni.
 
-(3) Az (1) és (2) bekezdésben meghatározottakon kívül fel lehet olvasni a szakvéleményt, ha a szakértőt a tárgyaláson már meghallgatták, de a tárgyalást a 287. § (3) bekezdése alapján elölről kell kezdeni.
+(3) Az (1) és (2) bekezdésben meghatározottakon kívül ismertethető vagy felolvasható a szakvélemény, ha a szakértőt a tárgyaláson már meghallgatták, de a tárgyalást a 287. § (3) bekezdése alapján elölről kell kezdeni.
 
 ### Szakértő kirendelése a tárgyaláson
 
 300. § Ha a szakértő kirendelése a tárgyaláson válik szükségessé, a tanács elnöke a tárgyalásra nyomban idézi a szakértőt. Ha erre nincs mód, a bíróság a tárgyalást elnapolja, és megállapítja a szakvélemény elkészítésének határidejét.
 
-### Az okiratok és más iratok felolvasása
+### Az okiratok, illetve más iratok ismertetése és felolvasása
 
-301. § (1) A tanács elnöke rendelkezik az okiratok és a bizonyítás eszközéül szolgáló iratok felolvasásáról a tárgyaláson.
+301. § (1) A tanács elnöke rendelkezik az okiratok és a bizonyítás eszközéül szolgáló iratok ismertetéséről a tárgyaláson. A tanács elnöke az ügyész, a védő vagy a vádlott indítványára elrendelheti, hogy az okirat ismertetése helyett a lényegének megjelölésére kerüljön sor.
 
-(2) A nyomozó hatóság jelentése okiratként felolvasható.
+(2) A nyomozó hatóság jelentése okiratként ismertethető.
 
-(3) Az ügyész, a védő és a vádlott egybehangzó indítványára a tanács elnöke engedélyezheti, hogy az okirat felolvasása helyett lényegének ismertetésére vagy megjelölésére kerüljön sor.
+(3) A tanács elnöke az ügyész, a védő vagy a vádlott indítványára elrendelheti, hogy az okirat ismertetése helyett a felolvasására kerüljön sor.
 
 (4) A tárgyaláson csatolt, valamint benyújtott iratokat a tanács elnöke a tárgyalási jegyzőkönyvhöz mellékeli.
 
@@ -3632,6 +3631,8 @@ ellen.
 (2) Az ügyeket a tárgyalás megkezdése után is egyesíteni lehet, illetve el lehet különíteni (265. §).
 
 (3) A tárgyalás megkezdése után az ügyet nem lehet öttagú tanács elé utalni (271. §).
+
+(4) Az ügy áttétele, az ügyek egyesítése vagy elkülönítése tárgyában hozott határozat ellen fellebbezésnek nincs helye.
 
 ### Határozatok tárgyaláson kívül
 
@@ -3741,7 +3742,7 @@ ellen.
 
 (3) A fellebbezésben olyan új tényt is lehet állítani és olyan új bizonyítékra is lehet hivatkozni, amelyről a fellebbező a határozat kihirdetése után szerzett tudomást. Olyan bizonyítást is lehet indítványozni, amelyet az első fokon eljárt bíróság mellőzött.
 
-(4) A fellebbezés írásban indokolható. Az indokolást az iratok felterjesztéséig az első fokú bíróságnál, az iratok felterjesztése után a másodfokú bíróságnál – legkésőbb a tárgyalást megelőző nyolcadik napon – kell előterjeszteni.
+(4) A fellebbezés írásban indokolható. Az indokolást az iratok felterjesztéséig az elsőfokú bíróságnál, az iratok felterjesztése után a másodfokú bíróságnál – legkésőbb a tárgyalást megelőző tizenötödik napon – kell előterjeszteni.
 
 ### A fellebbezésre jogosultak
 
@@ -3960,6 +3961,8 @@ ellen.
 - c) az ítélet tudomásulvételét követően tett jogorvoslati nyilatkozat elutasítása
 
 ellen.
+
+(6) Amennyiben a szabályszerűen megidézett vádlott bejelentette, hogy a tárgyaláson nem kíván részt venni, azon a címen, hogy a bíróság a vádlott távollétében hozott ügydöntő határozatot, nincs helye fellebbezésnek.
 
 ### A végzés elleni fellebbezés
 
@@ -4502,13 +4505,13 @@ került sor.
 
 (2) Ha az ügyész a vádat az első fokú bíróság határozatának hatályon kívül helyezése után módosította, a módosított vádiratot az ügyész ismerteti.
 
-(3) Ha a vádlott nem tesz vallomást, a tanács elnöke a hatályon kívül helyezett határozat alapjául szolgáló tárgyaláson tett vallomását is felolvashatja.
+(3) Ha a vádlott nem tesz vallomást, a tanács elnöke a hatályon kívül helyezett határozat alapjául szolgáló tárgyaláson tett vallomását is ismertetheti vagy felolvashatja.
 
-(4) A tanú kihallgatása, illetőleg a szakértő meghallgatása helyett a tanúnak a hatályon kívül helyezett határozat alapjául szolgáló tárgyaláson tett vallomásáról, illetőleg a szakértőnek az ott előterjesztett szakvéleményéről készült jegyzőkönyvet fel lehet olvasni.
+(4) A tanú kihallgatása, illetve a szakértő meghallgatása helyett a tanúnak a hatályon kívül helyezett határozat alapjául szolgáló tárgyaláson tett vallomásáról, illetve a szakértőnek az ott előterjesztett szakvéleményéről készült jegyzőkönyv ismertethető vagy felolvasható.
 
 (5) A (4) bekezdés nem alkalmazható, ha az első fokú bíróság ítéletének hatályon kívül helyezése azért történt, mert az ítélet megalapozatlanságát a másodfokú bírósági eljárásban nem lehetett kiküszöbölni.
 
-(6) Az (5) bekezdés nem zárja ki annak a tanúvallomásnak, illetőleg szakvéleménynek a felolvasását, amely nem az ítéleti tényállás megalapozatlan részére vonatkozik.
+(6) Az (5) bekezdés nem zárja ki annak a tanúvallomásnak, illetve szakvéleménynek az ismertetését vagy felolvasását, amely nem az ítéleti tényállás megalapozatlan részére vonatkozik.
 
 405. § (1) Ha a vádlott terhére nem jelentettek be fellebbezést, a megismételt eljárásban nem lehet a felmentett vádlott bűnösségét megállapítani, illetőleg a hatályon kívül helyezett ítéletben kiszabott büntetésnél súlyosabb büntetést kiszabni, vagy büntetés helyett alkalmazott intézkedésnél súlyosabb intézkedést alkalmazni.
 
@@ -4970,7 +4973,9 @@ kell végrehajtani.
 
 (3) A tárgyaláson az ügyész részvétele kötelező. A fiatalkorúak elleni büntetőeljárásban ügyészségi fogalmazó és ügyészségi titkár a vádat nem képviselheti.
 
-461. § A fiatalkorú vádlott távollétében a tárgyalás a XXV. Fejezet alapján nem tartható meg.
+461. § (1) A fiatalkorú vádlott távollétében a tárgyalás a XXV. Fejezet alapján nem tartható meg.
+
+(2) A fiatalkorú vádlottal szemben a Be. 279. § (3) bekezdése nem alkalmazható.
 
 462. § (1) A fiatalkorú vádlott elleni ügyben tartott tárgyaláson a vádlott és a tanú kihallgatását a tanács elnöke (egyesbíró) végzi. A vádlotthoz és a tanúhoz a kihallgatást követően az arra jogosultak kérdést intézhetnek.
 
@@ -5628,14 +5633,14 @@ az ügyész vádat emel.
 
 543. § E törvény rendelkezéseit a tárgyalás mellőzésével folytatott eljárásban az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-544. § (1) A bíróság az ügyész indítványára vagy hivatalból a szabadlábon lévő vádlottal szemben tárgyalás mellőzésével végzésben végrehajtásában felfüggesztett szabadságvesztést, közérdekű munkát, pénzbüntetést, foglalkozástól eltiltást, járművezetéstől eltiltást, kiutasítást – katonával szemben lefokozást, szolgálati viszony megszüntetését is –, továbbá intézkedésként próbára bocsátást, megrovást alkalmaz a három évi szabadságvesztésnél nem súlyosabban büntetendő bűncselekmény esetén, ha
+544. § (1) A bíróság az ügyész indítványára vagy hivatalból a szabadlábon lévő vádlottal szemben tárgyalás mellőzésével végzésben végrehajtásában felfüggesztett szabadságvesztést, közérdekű munkát, pénzbüntetést, foglalkozástól eltiltást, járművezetéstől eltiltást, kiutasítást – katonával szemben lefokozást, szolgálati viszony megszüntetését is –, továbbá intézkedésként próbára bocsátást, megrovást alkalmaz az ötévi szabadságvesztésnél nem súlyosabban büntetendő bűncselekmény esetén, ha
 
 - a) a törvény a szabadságvesztés végrehajtásának felfüggesztését, a közérdekű munkát, a pénzbüntetést, a foglalkozástól eltiltást, a járművezetéstől eltiltást, a kiutasítást, a kitiltást – katonával szemben a lefokozást, a szolgálati viszony megszüntetését, a rendfokozatban visszavetést és a várakozási idő meghosszabbítását is – vagy a próbára bocsátás alkalmazását lehetővé teszi,
 - b) a tényállás egyszerű,
-- c) a vádlott a bűncselekmény elkövetését beismerte, és
+- c) a vádlott a bűncselekmény elkövetését beismerte,
 - d) a büntetés célja tárgyalás nélkül is elérhető.
 
-(2) Tárgyalás mellőzésével egy évet meghaladó szabadságvesztés nem szabható ki.
+(2) Tárgyalás mellőzésével két évet meghaladó szabadságvesztés nem szabható ki.
 
 (3) A tárgyalás mellőzésével meghozott végzésre – ha e törvény másképp nem rendelkezik – az ítéletre vonatkozó rendelkezéseket kell alkalmazni.
 
@@ -5878,6 +5883,8 @@ az ügyész vádat emel.
 (3) Annak közlése végett, hogy az elítélt az összbüntetési ítélet alapjául szolgáló szabadságvesztés büntetésekből mennyi időt töltött ki, a bíróság megkeresi a büntetés-végrehajtási intézetet, és ha a kapott tájékoztatás alapján indokolt, az alapítéletek szerinti szabadságvesztések végrehajtását félbeszakítja. Az összbüntetési ítéletnek az összbüntetésbe foglalt szabadságvesztések végrehajtásának félbeszakításáról szóló rendelkezése fellebbezésre tekintet nélkül végrehajtható.
 
 (4) A bíróság az összbüntetésbe foglalást ítélettel, az erre irányuló indítvány elutasítását végzéssel mondja ki. Az ítéletben a bíróság az 556. és 557. §-ban foglaltakról is rendelkezhet.
+
+(4a) Az ugyanazon jogosult által a korábbival azonos tartalommal ismételten előterjesztett vagy egyébként a korábbival azonos tartalommal ismételten előterjesztett indítvány elutasítására vonatkozó határozat hozatalát a bíróság mellőzheti.
 
 (5) Az összbüntetésbe foglalásra jogosult bíróság előtt folyamatban volt eljárásban a védő meghatalmazásának, illetőleg kirendelésének hatálya az összbüntetési eljárásra is kiterjed.
 
@@ -6227,7 +6234,7 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a) az ismeretlen helyen tartózkodó terhelt, illetve a bűncselekmény elkövetésével alaposan gyanúsítható ismeretlen személy tartózkodási helye felkutatásának, lakóhelye, illetőleg személyazonossága megállapításának és körözése elrendelésének részletes szabályait az érintett miniszterekkel egyetértésben,
-- b) büntetőeljárás során kirendelt védő, a büntetőeljárásban részt vevő személyek költségeit, e személyek képviselőinek díját és költségeit, valamint a terhelt személyes költségmentességével kapcsolatos részletes szabályokat a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
+- b) büntetőeljárás során kirendelt védő, a büntetőeljárásban részt vevő személyek költségeit, e személyek képviselőinek – ide nem értve a pártfogó ügyvédek – díját és költségeit, valamint a terhelt személyes költségmentességével kapcsolatos részletes szabályokat a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 - c) a bűnügyi költségek előlegezésének és az államot illető bűnügyi költségek behajtásának és elszámolásának, valamint a vádlott és a védő készkiadása, illetőleg a védő díja állam általi megtérítésének szabályait az államháztartásért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott,
 - d) a szaktanácsadó díjazására, illetve a tanú által felszámítható költségekre vonatkozó részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 - e)

@@ -296,11 +296,31 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### Elektronikus ügyintézés és hatósági szolgáltatás
 
-32/B. § (1) Mintaoltalmi ügyekben az ügyfél – a (2) bekezdésben meghatározott eset kivételével – nem jogosult a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles az ügyféllel elektronikus úton írásban kapcsolatot tartani.
+32/B. § (1) Mintaoltalmi ügyekben az ügyfél – a (2)–(3) bekezdésben meghatározott esetek kivételével – nem jogosult a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles az ügyféllel elektronikus úton írásban kapcsolatot tartani.
 
-(2) Mintaoltalmi bejelentést és megújítási kérelmet – a 36/A. §-ban és az 51/A. §-ban szabályozott módon és feltételekkel – elektronikus úton is be lehet nyújtani.
+(2) Elektronikus úton is be lehet nyújtani
 
-(3) Mintaoltalmi ügyekben tájékoztatás kérésének és teljesítésének rövid szöveges üzenet útján nincs helye.
+- a) a mintaoltalmi bejelentést,
+- b) a megújítási kérelmet,
+- c) a 34. § (2) bekezdés e)–g) pontjában meghatározott tényekben bekövetkezett változásoknak a mintaoltalmi lajstromban való feltüntetésére irányuló kérelmet,
+- d) a lajstromkivonat igénylésére vonatkozó kérelmet,
+- e) az iratbetekintésre vonatkozó kérelmet.
+
+(3) Ha az ügyfél a (2) bekezdés b)–e) pontja alapján elektronikus úton, az ügyfélkapun keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele a kérelem kapcsán hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
+
+(4) A (2) bekezdésben meghatározott beadványokat a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával lehet elektronikus úton benyújtani.
+
+(5) Az elektronikus úton benyújtott beadvány megérkezéséről a Szellemi Tulajdon Nemzeti Hivatala – külön jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld az ügyfélnek.
+
+(6) A Szellemi Tulajdon Nemzeti Hivatala az elektronikus úton benyújtott beadvány megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus ügyintézésre vonatkozó jogszabályi követelményeknek.
+
+(7) Elektronikus beküldés esetén a beadvány az elektronikus érkeztetésről szóló automatikus visszaigazolásnak az ügyfél részére történő elküldésével tekintendő benyújtottnak, kivéve, ha a Szellemi Tulajdon Nemzeti Hivatala a kapott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
+
+(8) Az értelmezhetetlen dokumentumot beküldő ügyfél a (7) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Szellemi Tulajdon Nemzeti Hivatala postai úton továbbítja számára az iratot.
+
+(9) A (2) bekezdésben meghatározott beadványok elektronikus úton való benyújtására vonatkozó részletes szabályokat külön jogszabály állapítja meg.
+
+(10) Mintaoltalmi ügyekben tájékoztatás kérésének és teljesítésének rövid szöveges üzenet útján nincs helye.
 
 ### A mintaoltalmi eljárások egyéb általánosszabályai
 
@@ -316,11 +336,11 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (3) A szabadalmi törvény nyilvánosságra vonatkozó szabályainak alkalmazásában a szabadalmi bejelentés közzétételén a mintaoltalom megadását kell érteni. Mintaoltalmi ügyekben a szabadalmi bejelentések minősített adatként való kezelésére vonatkozó rendelkezések nem alkalmazhatók.
 
-### VI. Fejezet — MINTAOLTALMI NYILVÁNTARTÁSOK, HATÓSÁGI TÁJÉKOZTATÁS
+### VI. Fejezet — MINTAOLTALMI LAJSTROM, HATÓSÁGI TÁJÉKOZTATÁS
 
-### Bejelentési nyilvántartás, mintaoltalmi lajstrom
+### Mintaoltalmi lajstrom
 
-34. § (1) A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalmi bejelentésekről nyilvántartást, a mintaoltalom megadását követően a minták oltalmáról lajstromot vezet, amelyekbe be kell jegyezni a mintaoltalmi jogokkal kapcsolatos minden tényt és körülményt.
+34. § (1) A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalom megadását követően a minták oltalmáról lajstromot vezet, amelybe be kell jegyezni a mintaoltalmi jogokkal kapcsolatos tényeket és körülményeket.
 
 (2) A mintaoltalmi lajstromban fel kell tüntetni különösen
 
@@ -338,13 +358,13 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 - l) a mintaoltalom megszűnését, annak jogcímét és időpontját, valamint a mintaoltalom változtatással való fenntartását, illetve korlátozását,
 - m) a hasznosítási engedélyeket.
 
-(3) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a mintaoltalommal kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a mintaoltalmi lajstromba bejegyezték.
+(3) A mintaoltalmi lajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a mintaoltalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A mintaoltalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
-(4) A mintaoltalmi lajstromot bárki megtekintheti, és az abban foglalt adatokról térítés ellenében másolatot kérhet.
+(4) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a mintaoltalommal kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a mintaoltalmi lajstromba bejegyezték.
 
-(5) A mintaoltalmi lajstromba való bejegyzésre a szabadalmi törvénynek a szabadalmi lajstromba való bejegyzésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+(5) A mintaoltalmi lajstromot bárki megtekintheti, ahhoz a Szellemi Tulajdon Nemzeti Hivatala a honlapján elektronikus hozzáférést biztosít. A mintaoltalmi lajstromban foglalt adatokról díj ellenében bárki hitelesített kivonatot kérhet.
 
-(6) A (3)–(5) bekezdések rendelkezéseit – a bejelentések közzétételét követően – megfelelően alkalmazni kell a mintaoltalmi bejelentésekről vezetett nyilvántartásra is.
+(6) A mintaoltalmi lajstromba való bejegyzésre a szabadalmi törvénynek a szabadalmi lajstromba való bejegyzésre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 ### Hatósági tájékoztatás
 
@@ -370,21 +390,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (5) A bejelentő a mintaoltalom megadásáig – a 27. § rendelkezéseinek megfelelő alkalmazásával – visszavonhatja a mintaoltalmi bejelentést.
 
-### A mintaoltalmi bejelentés elektronikus úton való benyújtása
-
-36/A. § (1) A mintaoltalmi bejelentést – a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
-
-(2) Az elektronikus úton benyújtott mintaoltalmi bejelentés megérkezéséről a Szellemi Tulajdon Nemzeti Hivatala – külön jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld a bejelentőnek.
-
-(3) A Szellemi Tulajdon Nemzeti Hivatala az elektronikus úton benyújtott mintaoltalmi bejelentés megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus ügyintézésre vonatkozó jogszabályi követelményeknek.
-
-(4) Elektronikus beküldés esetén a mintaoltalmi bejelentés az elektronikus érkeztetésről szóló automatikus visszaigazolásnak a bejelentő részére történő elküldésével tekintendő benyújtottnak, kivéve, ha a Szellemi Tulajdon Nemzeti Hivatala a kapott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
-
-(5) Az értelmezhetetlen dokumentumot beküldő ügyfél a (4) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Szellemi Tulajdon Nemzeti Hivatala postai úton továbbítja számára az iratot.
-
-(6)
-
-(7) A mintaoltalmi bejelentések elektronikus úton való benyújtására vonatkozó részletes szabályokat külön jogszabály állapítja meg.
+36/A. §
 
 ### A bejelentés napja
 
@@ -499,9 +505,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (4) A megújítási kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásának napját követő két hónapon belül.
 
-51/A. § (1) A megújítási kérelmet – a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített űrlap használatával – elektronikus úton is be lehet nyújtani.
-
-(2) Elektronikus úton benyújtott megújítási kérelem esetén a 36/A. § (2)–(5) bekezdését kell megfelelően alkalmazni.
+51/A. §
 
 52. § (1) Ha a megújítási kérelem nem felel meg az 51. § (1)–(3) bekezdéseiben előírt követelményeknek, a kérelmezőt hiánypótlásra kell felhívni.
 

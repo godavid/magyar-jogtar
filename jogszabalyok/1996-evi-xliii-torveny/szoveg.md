@@ -2325,9 +2325,9 @@ jogosult.
 
 ### A nyugellátás megállapítása
 
-191. § (1) Az e törvény alapján járó nyugellátások megállapításáról első fokon a miniszter által kijelölt szerv indokolt határozatban dönt.
+191. § (1) Az e törvény alapján járó nyugellátásokat és baleseti ellátásokat – az Információs Hivatal kivételével – a nyugdíjbiztosítási igazgatási szerv állapítja meg.
 
-(2) A határozat ellen a kézbesítéstől számított 15 napon belül a miniszterhez fellebbezés nyújtható be. A miniszter határozata ellen a kézbesítésétől számított 30 napon belül keresettel a bírósághoz lehet fordulni.
+(2) Az e törvény alapján járó nyugellátásokról és baleseti ellátásokról az Információs Hivatal tekintetében első fokon a polgári hírszerzési tevékenység irányításáért felelős miniszter által kijelölt szerv indokolt határozatban dönt. A határozat ellen a kézbesítéstől számított 15 napon belül a polgári hírszerzési tevékenység irányításáért felelős miniszterhez fellebbezés nyújtható be. A polgári hírszerzési tevékenység irányításáért felelős miniszter határozata ellen a kézbesítésétől számított 30 napon belül keresettel a bírósághoz lehet fordulni.
 
 192. § (1) A nyugellátásra jogosultnak a nyugállományba helyezést követő 2 hónapra nyugdíj helyett az utolsó havi illetménye kétszeresének számított személyi jövedelemadóval csökkentett összegét kell kifizetni.
 
@@ -2428,7 +2428,7 @@ jogosult.
 - c) a miniszter, az államtitkár, közigazgatási államtitkár, felügyeleti hatáskörében a helyettes államtitkár;
 - d) a szervezeti egység, az országos parancsnokság, valamint a minisztérium személyügyi szervének vezetője és az arra feljogosított beosztottja, valamint a fegyelmi ügyben eljáró személy;
 - e) a törvényben meghatározott egyéb szervek és személyek;
-- f) a törvény alapján nyugellátás megállapításához szükséges adatokat a miniszter által kijelölt nyugdíjmegállapító szerv.
+- f) a törvény alapján nyugellátás megállapításához szükséges adatokat a nyugdíjmegállapító szerv.
 
 203. § (1) A személyügyi alapnyilvántartás vezetéséhez az érintett személy (saját magára vonatkozóan), valamint az adattal rendelkező szerv – a bűnügyi nyilvántartó szerv kivételével – köteles adatot szolgáltatni. Az alapnyilvántartás adatkörében beállt változásról az érintett köteles 8 munkanapon belül bejelentést tenni az illetékes személyügyi szervnek.
 
@@ -3362,7 +3362,8 @@ A pótlékok mértéke:
 - h) az Európai Unió magyar soros elnökségében közvetlenül résztvevő hivatásos szolgálati jogviszonyban állók kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat;
 - h) a diplomáciai és az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálatra vezénylés feltételeit, rendjét, és az érintettet megillető juttatásokat;
 - i) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hivatásos állomány tagja jelölési eljárásának rendjét, a részére, továbbá a nemzetközi szervezetben vezényléssel szolgálatot teljesítő részére nyújtható juttatások, többletjuttatások, költségtérítések, ellátmány fajtáit, mértékét, azok megállapításának, kifizetésének, elszámolásának rendjét;
-- j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és kifizetésének eljárási rendjét.
+- j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és kifizetésének eljárási rendjét;
+- k) – az Információs Hivatalra vonatkozó szabályok kivételével – a nyugellátások, baleseti ellátások megállapításának eljárási rendjét.
 
 (2) Felhatalmazást kap a miniszter, hogy az általa irányított vagy felügyelt fegyveres szerv tekintetében rendeletben szabályozza:
 
@@ -3381,14 +3382,14 @@ A pótlékok mértéke:
 - 13. a fegyveres szerv hivatásos állományú tagjait érintő szakmai képzési, át- és továbbképzési és vezetőképzési rendszerét, valamint a rendészeti szakvizsgára vonatkozó szabályokat;
 - 14. a fegyelmi eljárás rendjét, illetve a fegyelmi jogkört gyakorló elöljárók körét;
 - 15. a fegyveres szervek és hivatásos állományú tagjainak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, megállapításának módját, mérséklésének és mellőzésének részletes szabályait;
-- 16. a nyugellátások, baleseti ellátások megállapításának eljárási rendjét, az eljáró szerv kijelölését;
+- 16.
 - 17. a kérelem és a panasz elbírálásának rendjét;
 - 18. a szociális és kegyeleti gondoskodás, támogatás formáit, nyújtásának eljárási rendjét és feltételeit, mértékét, a személyi állomány elhunyt tagja kegyeleti minősítésének rendjét, valamint az ellátások pénzügyi feltételei biztosításának módját, a nyugállományúakkal kapcsolatos személyügyi feladatok ellátásának rendjét;
 - 19. az irányítása alá tartozó fegyveres szervek hivatásos állománya részére szolgálati és kiegészítő igazolványok, valamint a szolgálati azonosító jelvény rendszeresítésével, azokkal történő ellátás rendjével összefüggő szabályokat;
 - 20. a határozott idejű szolgálati viszonyban álló rendőrrel betölthető szolgálati beosztások körét, a beosztás betöltésének fizikai, pszichikai és egészségi feltételeit, valamint – a szolgálati feladatok ellátásához szükséges anyagi feltételek biztosítása keretében – a határozott idejű szolgálati viszonyban álló rendőr tulajdonában levő eszközök szolgálati célú felhasználásáért járó (nem adóköteles) költségtérítést;
 - 21. azon fertőző betegségek körét, amelyek esetében a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait.
 
-(3)
+(3) Felhatalmazást kap a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy az Információs Hivatal tekintetében rendeletben állapítsa meg a nyugellátások, baleseti ellátások megállapításának részletes eljárási szabályait, továbbá kijelölje a nyugellátásokat, baleseti ellátásokat megállapító szervet vagy szerveket.
 
 (4) Felhatalmazást kap a miniszter, hogy a fegyveres szervnél rendszeresített hivatásos szolgálati beosztásokat rendeletben – a polgári nemzetbiztonsági szolgálatok esetében utasításban – állapítsa meg.
 

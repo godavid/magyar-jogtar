@@ -772,7 +772,7 @@ rendszere.
 
 (5) A térségi területfelhasználási engedélykérelmet két hónapon belül kell elbírálni. A (3) bekezdés szerinti eljárás esetében az ügyintézési határidő harminc nap.
 
-(6) Az állami főépítész döntése ellen fellebbezésnek nincs helye. A térségi területfelhasználási engedélykérelemről hozott határozat elleni keresetet a Fővárosi Bíróság kizárólagos illetékességgel, soron kívül bírálja el.
+(6) Az állami főépítész döntése ellen fellebbezésnek nincs helye. A térségi területfelhasználási engedélykérelemről hozott határozat elleni keresetet a megyei bíróság (Fővárosi Bíróság) soron kívül bírálja el.
 
 (7) Az állami főépítész a térségi területfelhasználási engedélyezési eljárás során kikéri a megyei önkormányzatok véleményét, majd az eljárást követően a térségi területfelhasználási engedélyt, valamint annak mellékleteként az engedélyezési tervdokumentációt közli a megyei önkormányzattal.
 

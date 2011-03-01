@@ -1249,7 +1249,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 - b) a jogosult vagy kötelezett ügyfél nevét és lakcímét vagy székhelyét, továbbá az ügyfél által a kérelemben megadott, személyazonosítására szolgáló adatot,
 - c) az ügy tárgyának megjelölését,
 - d) a rendelkező részben
-  - da) a hatóság döntését, továbbá a jogorvoslat lehetőségéről, benyújtásának helyéről és határidejéről, valamint a jogorvoslati eljárásról való tájékoztatást,
+  - da) a hatóság döntését, továbbá a jogorvoslat lehetőségéről, benyújtásának helyéről és határidejéről, valamint a jogorvoslati eljárásról, bírósági felülvizsgálat esetén a tárgyalás tartása iránti kérelem lehetőségéről való tájékoztatást,
   - db) a szakhatóság megnevezését és állásfoglalása rendelkező részét,
   - dc) az eljárás lefolytatásáért fizetendő illetéknek vagy díjnak az ügyfél vagy központi költségvetés részére történő megfizetésre vonatkozó döntést,
   - dd) az eljárási költség megállapítását, ha arról a hatóság nem külön dönt,

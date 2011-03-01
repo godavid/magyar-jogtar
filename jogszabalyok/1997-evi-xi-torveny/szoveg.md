@@ -548,17 +548,38 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Elektronikus ügyintézés és hatósági szolgáltatás
 
-46/D. § (1) Védjegyügyekben az ügyfél – a (2) bekezdésben meghatározott esetek kivételével – nem jogosult a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles az ügyféllel elektronikus úton írásban kapcsolatot tartani.
+46/D. § (1) Védjegyügyekben az ügyfél – a (2)–(3) bekezdésben meghatározott esetek kivételével – nem jogosult a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles az ügyféllel elektronikus úton írásban kapcsolatot tartani.
 
-(2) Védjegybejelentést és megújítási kérelmet – az 50/A. §-ban szabályozott módon és feltételekkel, illetve a 65/A. § szerint – elektronikus úton is be lehet nyújtani.
+(2) Elektronikus úton is be lehet nyújtani
 
-(3) Védjegyügyekben tájékoztatás kérésének és teljesítésének rövid szöveges üzenet útján nincs helye.
+- a) a védjegybejelentést,
+- b) a megújítási kérelmet,
+- c) a 47. § (2) bekezdés e)–f) pontjában meghatározott tényekben bekövetkezett változásoknak a védjegylajstromban való feltüntetésére irányuló kérelmet,
+- d) a gyorsított eljárás [64/A. § (1)–(6) bek.] és a különleges gyorsított eljárás [64/A. § (7)–(8) bek.] kezdeményezésére irányuló kérelmet,
+- e) a lajstromkivonat igénylésére vonatkozó kérelmet, és
+- f) az iratbetekintésre vonatkozó kérelmet.
 
-### VIII. Fejezet — A VÉDJEGYÜGYEK NYILVÁNTARTÁSA, HATÓSÁGI TÁJÉKOZTATÁS
+(3) Ha az ügyfél a (2) bekezdés b)–f) pontja alapján elektronikus úton, az ügyfélkapun keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele a kérelem kapcsán hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
 
-### Bejelentési nyilvántartás, védjegylajstrom
+(4) A (2) bekezdésben meghatározott beadványokat a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával lehet elektronikus úton benyújtani.
 
-47. § (1) A Szellemi Tulajdon Nemzeti Hivatala a védjegybejelentésekről nyilvántartást, a védjegyekről pedig lajstromot vezet, amelyekbe be kell jegyezni a védjegyjogokkal kapcsolatos minden tényt és körülményt.
+(5) Az elektronikus úton benyújtott beadvány megérkezéséről a Szellemi Tulajdon Nemzeti Hivatala – külön jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld az ügyfélnek.
+
+(6) A Szellemi Tulajdon Nemzeti Hivatala az elektronikus úton benyújtott beadvány megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus ügyintézésre vonatkozó jogszabályi követelményeknek.
+
+(7) Elektronikus beküldés esetén a beadvány az elektronikus érkeztetésről szóló automatikus visszaigazolásnak az ügyfél részére történő elküldésével tekintendő benyújtottnak, kivéve, ha a Szellemi Tulajdon Nemzeti Hivatala a kapott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
+
+(8) Az értelmezhetetlen dokumentumot beküldő ügyfél a (7) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Szellemi Tulajdon Nemzeti Hivatala postai úton továbbítja számára az iratot.
+
+(9) A (2) bekezdésben meghatározott beadványok elektronikus úton való benyújtására vonatkozó részletes szabályokat külön jogszabály állapítja meg.
+
+(10) Védjegyügyekben tájékoztatás kérésének és teljesítésének rövid szöveges üzenet útján nincs helye.
+
+### VIII. Fejezet — A VÉDJEGYLAJSTROM, HATÓSÁGI TÁJÉKOZTATÁS
+
+### Védjegylajstrom
+
+47. § (1) A Szellemi Tulajdon Nemzeti Hivatala a védjegybejelentésekről és a védjegyekről lajstromot vezet, amelybe – a 48. §-nak megfelelően – be kell jegyezni a védjegyjogokkal kapcsolatos tényeket és körülményeket.
 
 (2) A védjegylajstromban fel kell tüntetni különösen
 
@@ -572,24 +593,24 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - h) az elsőbbséget,
 - i) a lajstromozásról szóló határozat keltét,
 - j) a védjegy megújítását,
-- k) a védjegyoltalom megszűnését, annak jogcímét és időpontját, valamint a védjegyoltalom korlátozását,
+- k) a védjegyoltalom megszűnését, annak jogcímét és időpontját, valamint a védjegyoltalom korlátozását, és
 - l) a használati engedélyeket.
 
-(3) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a védjeggyel kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a védjegylajstromba bejegyezték.
+(3) A védjegylajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a védjegylajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A védjegylajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
-(4) A védjegylajstromot bárki megtekintheti, és az abban foglalt adatokról díjfizetés ellenében másolatot kaphat.
+(4) Jóhiszemű és ellenérték fejében jogot szerző harmadik személlyel szemben a védjeggyel kapcsolatos bármely jogra csak akkor lehet hivatkozni, ha azt a védjegylajstromba bejegyezték.
 
-(5) A (3) és (4) bekezdés rendelkezéseit megfelelően alkalmazni kell a védjegybejelentésekről vezetett nyilvántartásra is.
+(5) A védjegylajstromot bárki megtekintheti, ahhoz a Szellemi Tulajdon Nemzeti Hivatala a honlapján elektronikus hozzáférést biztosít. A védjegylajstromban foglalt adatokról díj ellenében bárki hitelesített kivonatot kérhet.
 
 ### Bejegyzés a védjegylajstromba
 
-48. § (1) A védjegybejelentésekről vezetett nyilvántartásba és a védjegylajstromba csak a Szellemi Tulajdon Nemzeti Hivatala döntése vagy a bíróság határozata alapján lehet bejegyzést tenni. A 77. § (1) bekezdésében felsorolt döntések alapján bejegyzés csak akkor tehető, ha azokkal szemben az előírt határidőben nem nyújtottak be megváltoztatási kérelmet vagy a megváltoztatási kérelem ügyében a bíróság határozata jogerőre emelkedett.
+48. § (1) A védjegylajstromba a Szellemi Tulajdon Nemzeti Hivatala a saját döntése vagy más hatóság döntése vagy a bíróság határozata alapján tesz bejegyzést, illetve feltünteti a védjegyeljárásokban bekövetkezett tényeket. A 77. § (1) bekezdése szerinti döntések alapján tett bejegyzések tekintetében a lajstrom tartalmazza a döntések jogerőre emelkedésének napját is. Ha a 77. § (1) bekezdése szerinti valamely döntés ellen megváltoztatási kérelmet nyújtottak be, ezt a tényt, valamint azt, hogy a döntés nem jogerős, szintén fel kell tüntetni.
 
-(2) A védjegyoltalommal összefüggő jogok és tények tudomásulvétele ügyében a Szellemi Tulajdon Nemzeti Hivatala írásban előterjesztett kérelem alapján határoz. A kérelemhez csatolni kell az alapul szolgáló közokiratot vagy megfelelő bizonyító erejű magánokiratot.
+(2) A védjegyoltalommal összefüggő jogok és tények tudomásulvétele, illetve bejegyzése ügyében – a védjegyeljárásokban bekövetkezett tények kivételével – a Szellemi Tulajdon Nemzeti Hivatala írásban előterjesztett kérelem alapján határoz. A kérelemhez csatolni kell az alapul szolgáló közokiratot vagy teljes bizonyító erejű magánokiratot. Ha ugyanabban az ügyben olyan kérelmeket nyújtanak be, amelyek teljesítése kizárná egymást, a kérelmeket a beérkezésük sorrendjében kell elbírálni.
 
 (3) Nem teljesíthető a kérelem olyan okirat alapján, amely alaki hiány miatt érvénytelen, vagy amelynél a jogszabályban előírt hatósági jóváhagyás hiányzik, továbbá, ha az okirat tartalmából kitűnően az abban foglalt jognyilatkozat érvénytelen.
 
-(4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni.
+(4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet visszavontnak kell tekinteni.
 
 ### Hatósági tájékoztatás
 
@@ -619,21 +640,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (6) A bejelentő a lajstromozásig – a 32. § rendelkezéseinek megfelelő alkalmazásával – visszavonhatja a védjegybejelentést.
 
-### A védjegybejelentés elektronikus úton való benyújtása
-
-50/A. § (1) A védjegybejelentést – a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
-
-(2) Az elektronikus úton benyújtott védjegybejelentés megérkezéséről a Szellemi Tulajdon Nemzeti Hivatala – külön jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld a bejelentőnek.
-
-(3) A Szellemi Tulajdon Nemzeti Hivatala az elektronikus úton benyújtott védjegybejelentés megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus ügyintézésre vonatkozó jogszabályi követelményeknek.
-
-(4) Elektronikus beküldés esetén a védjegybejelentés az elektronikus érkeztetésről szóló automatikus visszaigazolásnak a bejelentő részére történő elküldésével tekintendő benyújtottnak, kivéve, ha a Szellemi Tulajdon Nemzeti Hivatala a kapott dokumentum értelmezhetetlenségét állapítja meg, és erről az ügyfelet elektronikus levélben értesíti.
-
-(5) Az értelmezhetetlen dokumentumot beküldő ügyfél a (4) bekezdés szerinti értesítés visszaigazolására köteles. Ha az ügyfél az értesítés átvételét tizenöt napon belül nem igazolja vissza, a Szellemi Tulajdon Nemzeti Hivatala postai úton továbbítja számára az iratot.
-
-(6)
-
-(7) A védjegybejelentések elektronikus úton való benyújtására vonatkozó részletes szabályokat külön jogszabály állapítja meg.
+50/A. §
 
 ### A bejelentés napja
 
@@ -890,13 +897,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (5) A védjegyoltalom megújítása kapcsán a megjelölés nem változtatható meg, az árujegyzék pedig nem bővíthető.
 
-65/A. § (1) A megújítási kérelmet – a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
-
-(2) Elektronikus úton benyújtott megújítási kérelem esetén az 50/A. § (2)–(5) bekezdéseit kell megfelelően alkalmazni.
-
-(3) Az (1) bekezdésben szabályozott eseten kívül a megújítási eljárásban az ügyfél nem jogosult elektronikus úton írásban kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles elektronikus úton írásban kapcsolatot tartani az ügyféllel.
-
-(4) A megújítási kérelmek elektronikus úton való benyújtására vonatkozó részletes szabályokat külön jogszabály állapítja meg.
+65/A. §
 
 66. § (1) Ha a megújítási kérelem nem felel meg a 65. § (1)–(4) bekezdésében előírt követelményeknek, a kérelmezőt hiánypótlásra kell felhívni.
 
@@ -1630,7 +1631,16 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (5) A (4) bekezdés b) és c) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
-(6) A Szellemi Tulajdon Nemzeti Hivatala előtti eljárásokban egyebekben a VII. és a VIII. fejezet rendelkezéseit kell megfelelően alkalmazni azzal, hogy a földrajziárujelző-oltalmi ügyekben az ügyfél nem jogosult elektronikus úton írásban kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles elektronikus úton írásban kapcsolatot tartani az ügyféllel.
+(6) A Szellemi Tulajdon Nemzeti Hivatala előtti eljárásokban egyebekben a VII. és a VIII. fejezet rendelkezéseit kell megfelelően alkalmazni azzal, hogy a földrajziárujelző-oltalmi ügyekben az ügyfél – a (7)–(8) bekezdésben meghatározott esetek kivételével – nem jogosult elektronikus úton írásban kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a Szellemi Tulajdon Nemzeti Hivatala pedig nem köteles elektronikus úton írásban kapcsolatot tartani az ügyféllel.
+
+(7) Elektronikus úton is be lehet nyújtani
+
+- a) a lajstromkivonat igénylésére vonatkozó kérelmet,
+- b) az iratbetekintésre vonatkozó kérelmet.
+
+(8) Ha az ügyfél a (7) bekezdés alapján elektronikus úton, az ügyfélkapun keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele az eljárás során hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
+
+(9) A (7) bekezdésben meghatározott beadványok elektronikus úton való benyújtására a 46/D. § (4)–(9) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 ### A földrajzi árujelző lajstromozására irányuló eljárás
 
