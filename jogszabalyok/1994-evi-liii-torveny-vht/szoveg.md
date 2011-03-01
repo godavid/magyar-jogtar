@@ -122,7 +122,7 @@ a bírósági végrehajtásról
 16. § Végrehajtási lapot állít ki
 
 - a) a közjegyző által hozott, marasztalást tartalmazó határozat és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség alapján bármelyik közjegyző, továbbá a közjegyzőnek a közjegyzői nemperes eljárás lefolytatásáért felszámított díjról és költségről kiállított költségjegyzéke alapján a költségjegyzéket kiállító közjegyzőn kívüli bármelyik közjegyző,
-- b) a bíróság fegyelmi bíróságának kártérítésre kötelező határozata, a közjegyzői fegyelmi bíróságnak pénzbírság és eljárási költség megfizetésére kötelező határozata, valamint a bírósági végrehajtói fegyelmi bíróságnak pénzbírság, eljárási költség és kamarai tagdíj megfizetésére kötelező határozata alapján az adós lakóhelye szerinti helyi bíróság (városi, kerületi bíróság; a továbbiakban együtt: helyi bíróság),
+- b) a bíróság szolgálati bíróságának kártérítésre kötelező határozata, a közjegyzői fegyelmi bíróságnak pénzbírság és eljárási költség megfizetésére kötelező határozata, valamint a bírósági végrehajtói fegyelmi bíróságnak pénzbírság, eljárási költség és kamarai tagdíj megfizetésére kötelező határozata alapján az adós lakóhelye szerinti helyi bíróság (városi, kerületi bíróság; a továbbiakban együtt: helyi bíróság),
 - c) külföldi bírósági határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - d) belföldi és külföldi választottbírósági határozat és egyezség alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság, illetőleg Fővárosi Bíróság (a továbbiakban: megyei bíróság),
 - e) az Európai Unió Tanácsának, az Európai Bíróságnak és az Európai Bizottságnak a határozata alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
@@ -2515,29 +2515,18 @@ az adós vagyontárgyait a pénzkövetelés végrehajtásának szabályai szerin
 - b) vele szemben a (2) bekezdés szerinti kizáró ok nem áll fenn, és
 - c)
 
-234. § (1) A végrehajtói állást – a 234/A. §-ban foglalt kivétellel – pályázat útján kell betölteni.
+234. § (1) A végrehajtói állást pályázat útján kell betölteni.
 
 (2)–(4)
 
-### Kinevezés kijelölés alapján
+234/A. §
 
-234/A. § (1) A megüresedett végrehajtói állást pályázat kiírása nélkül lehet betölteni, ha a végrehajtó
-
-- a) az utódja személyére a 233. § szerinti feltételeknek megfelelő, általa legalább egy éve végrehajtó-helyettesként foglalkoztatott személy kijelölésével javaslatot tesz,
-- b) a javasolt személy nyilatkozatban vállalja a végrehajtási ügyek teljes felelősséggel történő továbbvitelét,
-- c) a javasolt személy és a korábbi végrehajtó, illetve annak örökösei közös nyilatkozatot tesznek arról, hogy a pénzügyi elszámolás létrejött közöttük, és
-- d) a kamara a kijelölést jóváhagyta.
-
-(2) A kamara a kijelölt személy meghallgatása után a kinevezési javaslatot felterjeszti a miniszterhez.
-
-(3) A miniszter a kijelölt személy kinevezésével tölti be a végrehajtói álláshelyet.
-
-234/B. § (1) A végrehajtói állásra pályázó a pályázat benyújtásával egyidejűleg, a 234/A. § (1) bekezdés a) pontja alapján kijelölt személy a kijelölését követően haladéktalanul
+234/B. § (1) A végrehajtói állásra pályázó a pályázat benyújtásával egyidejűleg
 
 - a) igazolja a kinevezéshez szükséges adatokat és tényeket, továbbá
 - b) hatósági bizonyítvánnyal igazolja, hogy a 233. § (2) bekezdés a)–d) pontjában meghatározott körülmény vele szemben nem áll fenn, vagy kéri, hogy e tény fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a kamara részére – annak a végrehajtói kinevezés feltételeinek vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.
 
-(2) Az (1) bekezdés b) pontjában meghatározott adatigénylés kizárólag azon adatra irányulhat, hogy a végrehajtói állásra pályázó, illetve a 234/A. § (1) bekezdés a) pontja alapján kijelölt személy tekintetében a 233. § (2) bekezdés a)–d) pontjában meghatározott körülmény fennáll-e.
+(2) Az (1) bekezdés b) pontjában meghatározott adatigénylés kizárólag azon adatra irányulhat, hogy a végrehajtói állásra pályázó tekintetében a 233. § (2) bekezdés a)–d) pontjában meghatározott körülmény fennáll-e.
 
 235. § (1) A végrehajtó más székhelyre történő áthelyezésére csak
 
@@ -2610,7 +2599,7 @@ esetén van lehetőség.
 - a) a végrehajtói állásra pályázó vagy kijelölt személy,
 - b) a végrehajtó azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által e célból kiállított hatósági bizonyítvány tartalmaz.
 
-(4) A 234/B. § (1) bekezdés b) pontja, valamint a (2) bekezdés alapján megismert személyes adatokat a kamara, valamint a miniszter
+(4) A (2) bekezdés alapján megismert személyes adatokat a kamara, valamint a miniszter
 
 - a) a végrehajtói kinevezésről meghozott döntésig vagy
 - b) a végrehajtói kinevezés esetén a hatósági ellenőrzés időtartamára vagy a végrehajtói szolgálat megszűnésének megállapítására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
