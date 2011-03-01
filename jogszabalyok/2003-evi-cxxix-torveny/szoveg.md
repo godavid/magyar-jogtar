@@ -3610,7 +3610,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 (2) A jogorvoslati kérelmet a végzés kézbesítésétől számított nyolc napon belül kell benyújtani a Közbeszerzési Döntőbizottsághoz. A Közbeszerzési Döntőbizottság a kérelmet az ügy irataival együtt beérkezését követően haladéktalanul továbbítja a bíróságnak.
 
-(3) A Közbeszerzési Döntőbizottságnak az eljárás során hozott végzése elleni külön jogorvoslati kérelmet a Fővárosi Bíróság nem peres eljárásban, soron kívül bírálja el. A bíróság a Közbeszerzési Döntőbizottság végzését megváltoztathatja. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye.
+(3) A Közbeszerzési Döntőbizottságnak az eljárás során hozott végzése elleni külön jogorvoslati kérelmet a megyei bíróság (Fővárosi Bíróság) nem peres eljárásban, soron kívül bírálja el. A bíróság a Közbeszerzési Döntőbizottság végzését megváltoztathatja. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye.
 
 (4) A bíróság eljárására a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. fejezetét kell megfelelően alkalmazni, amennyiben e törvényből, illetőleg a nemperes eljárás jellegéből más nem következik.
 
@@ -3677,7 +3677,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 (6) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – a keresetlevél beérkezését követő öt napon belül továbbítja a bírósághoz.
 
-350/A. § (1) A perre a Fővárosi Bíróság kizárólagosan illetékes.
+350/A. § (1)
 
 (2)
 
@@ -3943,7 +3943,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 385. § (1) A Tanácsnak a névjegyzékbe történő bejegyzés iránti kérelmet vagy a megújítási kérelmet elutasító, valamint a törlésről hozott határozata ellen fellebbezésnek helye nincs, de a kérelmező, illetőleg az érintett hivatalos közbeszerzési tanácsadó a határozat felülvizsgálatát kérheti a bíróságtól a határozat kézhezvételétől számított tizenöt napon belül.
 
-(2) A kérelemről a Fővárosi Bíróság nemperes eljárásban a kérelem benyújtásától számított hatvan napon belül határoz. A bíróság a Tanács határozatát megváltoztathatja. A végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, amennyiben e törvényből, illetőleg a nemperes eljárás jellegéből más nem következik.
+(2) A kérelemről a megyei bíróság (Fővárosi Bíróság) nemperes eljárásban a kérelem benyújtásától számított hatvan napon belül határoz. A bíróság a Tanács határozatát megváltoztathatja. A végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, amennyiben e törvényből, illetőleg a nemperes eljárás jellegéből más nem következik.
 
 ### A minősített ajánlattevők hivatalos jegyzéke
 
@@ -3996,7 +3996,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 391. § (1) A Tanácsnak a kérelmet elutasító vagy a törlésről hozott határozata ellen fellebbezésnek helye nincs, de a kérelmező, illetőleg az érintett minősített ajánlattevő a határozat felülvizsgálatát kérheti a bíróságtól a határozat kézhezvételétől számított tizenöt napon belül.
 
-(2) A kérelemről a Fővárosi Bíróság nemperes eljárásban a kérelem benyújtásától számított hatvan napon belül határoz. A bíróság a Tanács határozatát megváltoztathatja. A végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, amennyiben e törvényből, illetőleg a nemperes eljárás jellegéből más nem következik.
+(2) A kérelemről a megyei bíróság (Fővárosi Bíróság) nemperes eljárásban a kérelem benyújtásától számított hatvan napon belül határoz. A bíróság a Tanács határozatát megváltoztathatja. A végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, amennyiben e törvényből, illetőleg a nemperes eljárás jellegéből más nem következik.
 
 ### A Tanács működése
 

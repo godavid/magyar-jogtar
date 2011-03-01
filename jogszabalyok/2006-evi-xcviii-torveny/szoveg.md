@@ -696,8 +696,8 @@ esetén,
 38. § (1) A gyógyszer forgalomba hozatali engedélyének jogosultját a 36. § (1) bekezdése szerinti befizetési kötelezettség nem terheli:
 
 - a) azon meghatározott (fix) csoportban lévő gyógyszerei tekintetében, amelyek napi terápiás költsége az adott jogcímen a referenciaárnál legalább 15%-kal alacsonyabb az árkülönbözet fennállásának időszakában,
-- b) a különkeretes gyógyszerekre kifizetett támogatási összeg után, és
-- c) az egyedi méltányosság alapján támogatott gyógyszereknek a rájuk irányadó társadalombiztosítási támogatási mérték feletti támogatási összege után.
+- b) a különkeretes gyógyszerekre kifizetett támogatási összeg után,
+- c)
 
 (2) A gyógyszer forgalomba hozatali engedélyének jogosultja legfeljebb a gyógyszerenként és jogcímenként történő számítás alapján adódó gyógyszerenkénti teljes fizetési kötelezettsége erejéig kedvezményben részesül, amennyiben a 36. § (1) bekezdése szerinti, társadalombiztosítási támogatásban részesülő egyes gyógyszerei termelői árát csökkenti. Ez esetben az árcsökkentés által érintett gyógyszerek utáni, 36. § (1) bekezdése szerinti befizetési kötelezettség az árcsökkentés mértékének arányában csökken az árcsökkentés által érintett időszakra vonatkozóan, de legfeljebb az árváltozás hatálybalépésének időpontjától számított egy évig.
 
@@ -745,19 +745,13 @@ a befizetést követően haladéktalanul átutalja.
 
 42. § (1) Amennyiben a támogatott gyógyszerek tárgyévi forgalma után kifizetett társadalombiztosítási támogatás – a különkeretes gyógyszerekre és a különös méltánylást érdemlő körülmények esetén gyógyszertámogatásra fordítható összeget nem tartalmazó – összege meghaladja a tárgyév első napján hatályos előirányzatot, akkor e kiadási többlet finanszírozása – a (2)–(3) bekezdésben foglaltak szerint – az E. Alap kezelője és a forgalomba hozatali engedélyek jogosultjainak kötelezettsége.
 
-(2) A kiadási többlet meghatározása során a tárgyévi forgalom után kifizetett társadalombiztosítási támogatásból le kell vonni a 36. § (1)–(2) és (4) bekezdésében meghatározott fizetési kötelezettség alapján a tárgyév január–december hónapjaira adódó összeget, valamint az E. Alap költségvetése Gyógyszertámogatás kiadásai jogcímnek a tárgyévet megelőző év első napján és a tárgyév első napján hatályos előirányzata pozitív különbségét.
+(2) A kiadási többlet meghatározása során a tárgyévi forgalom után kifizetett társadalombiztosítási támogatásból le kell vonni a 36. § (1)–(2) és (4) bekezdésében meghatározott fizetési kötelezettség alapján a tárgyév január-december hónapjaira adódó összeget, a támogatásvolumen-szerződések alapján a tárgyévben teljesített összeget, valamint az E. Alap költségvetése Gyógyszertámogatás kiadásai jogcímnek a tárgyévet megelőző év első napján és a tárgyév első napján hatályos előirányzata pozitív különbségét.
 
-(3) Az előirányzat 9%-os túllépéséig a kiadási többlet költségeit az E. Alap kezelője és a forgalomba hozatali engedély jogosultjai sávonként differenciáltan megosztva viselik az alábbiak szerint:
+(3) A (2) bekezdés szerint számított kiadási többlet költségeit az E. Alap kezelője és a forgalomba hozatali engedély jogosultjai a (4)–(5) bekezdésben foglalt megosztásban viselik.
 
-- a) az előirányzat feletti első 5%-os túllépési sávban az E. Alap kezelője finanszírozási kötelezettsége a sáv értékének 50%-a, a forgalomba hozatali engedélyek jogosultjai általi befizetés mértéke a sáv értékének 50%-a,
-- b) az 5,01–6% közötti sávban az E. Alap kezelője finanszírozási kötelezettsége a sáv értékének 40%-a, a forgalomba hozatali engedélyek jogosultjai általi befizetés mértéke a sáv értékének 60%-a,
-- c) a 6,01–7% közötti sávban az E. Alap kezelője finanszírozási kötelezettsége a sáv értékének 30%-a, a forgalomba hozatali engedélyek jogosultjai általi befizetés mértéke a sáv értékének 70%-a,
-- d) a 7,01–8% közötti sávban az E. Alap kezelője finanszírozási kötelezettsége a sáv értékének 20%-a, a forgalomba hozatali engedélyek jogosultjai általi befizetés mértéke a sáv értékének 80%-a,
-- e) a 8,01–9% közötti sávban az E. Alap kezelője finanszírozási kötelezettsége a sáv értékének 10%-a, a forgalomba hozatali engedélyek jogosultjai általi befizetés mértéke a sáv értékének 90%-a.
+(4) Az (1) bekezdés szerinti befizetési kötelezettség a forgalomba hozatali engedélyek jogosultjai között – a (2) bekezdésben meghatározottak figyelembevételével – a tárgyévben a gyógyszertári vényforgalmi forgalmi adatok alapján a forgalomba hozatali engedély jogosultjának támogatott gyógyszereire kifizetett – a támogatás-volumen szerződések utáni befizetésekkel csökkentett – társadalombiztosítási támogatás arányában oszlik meg az (5) bekezdésben foglalt kivétellel.
 
-(4) Az előirányzat 9%-ot meghaladó túllépése esetén a kiadási többletnek az előirányzat 9%-át meghaladó összegű részét – a (3) bekezdésben meghatározott fizetési kötelezettségen felül – a forgalomba hozatali engedély jogosultjai viselik.
-
-(5) A forgalomba hozatali engedélyek jogosultjai között a sávos kockázatviselésből eredő fizetési kötelezettség – a (2) bekezdésben meghatározottak figyelembevételével a tárgyévben a gyógyszertári vényforgalmi forgalmi adatok alapján a forgalomba hozatali engedély jogosultjának támogatott készítményeire jutó támogatási összeg és az E. Alap költségvetése Gyógyszertámogatás kiadásai jogcím a tárgyév első napján hatályos előirányzatának a tárgyévet megelőző év támogatási adataiból számított megoszlási viszonyszám alapján a forgalomba hozatali engedély jogosultjára jutó támogatási összege pozitív különbözete arányában oszlik meg. A gyógyszerként forgalomba hozatalra engedélyezett termék esetében a támogatásba történő befogadás naptári évében a forgalomba hozatali engedély jogosultját a sávos kockázatviselésből eredő befizetési kötelezettség nem terheli.
+(5) A hatóanyag-alapú fix összegű támogatási csoportba tartozó referenciakészítményekre, a referenciakészítmény napi terápiás költségével azonos és a referenciakészítmény napi terápiás költségénél alacsonyabb napi terápiás költségű gyógyszerekre, valamint a terápiás fix elven működő támogatási csoportba tartozó, referenciaárral megegyező, és a referenciaárnál alacsonyabb napi terápiás költségű gyógyszerekre jutó befizetési kötelezettség nem a forgalmazót terheli. Ezen kiadási többlet az E. Alap kezelőjének költsége.
 
 (6) Ha a támogatott gyógyszerek után az első kilenc hónapra együttesen adódó támogatás összege – az (1)–(2) bekezdések megfelelő alkalmazásával – meghaladja az E. Alap költségvetése Gógyszertámogatás kiadásai jogcímének a tárgyév január első napján hatályos előirányzata háromnegyed részét, a forgalombahozatali engedély jogosultja az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv által a (2)–(5) bekezdések megfelelő alkalmazásával november 10-éig közölt támogatási adatok alapján, tárgyév december 20-áig az állami adóhatósághoz az állami adóhatóság által rendszeresített nyomtatványon előleget vall be és egyidejűleg fizeti meg az állami adóhatóság által a kincstárnál külön erre a célra megnyitott számlára.
 
@@ -769,7 +763,7 @@ a befizetést követően haladéktalanul átutalja.
 
 (10) Az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv az (1) bekezdés szerinti befizetésre kötelezettek ellenőrzéséhez szükséges háromnegyedévi adatokról november 10-éig, a tárgyévi adatokról a tárgyévet követő naptári év február 15-éig elektronikus úton adatszolgáltatást teljesít az állami adóhatósághoz.
 
-(11) A gyógyszer forgalomba hozatali engedélyének jogosultja a sávos kockázatviselésből eredő tárgyévre vonatkozó fizetési kötelezettségét csökkentheti a tárgyévre vonatkozó támogatásvolumen-szerződés alapján teljesített befizetés összegével.
+(11)
 
 43. § (1) A Kormány a gyógyszerpiac átmeneti zavarainak elhárítása, kiküszöbölése vagy a gyógyszerpiac egyensúlyának fenntartása érdekében elrendelheti, hogy az emberi alkalmazásra kerülő forgalomba hozatalra engedélyezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek esetében a gyártó és a forgalmazó közötti, az e bekezdés szerinti rendelet kihirdetésekor hatályos szerződésekben szereplő árat – ideértve a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 226. § (1) bekezdése szerint jogszabályban meghatározott árat – a rendelet kihirdetésétől számított legfeljebb két évig nem lehet emelni, illetve a gyártók és a forgalmazók ennél magasabb áron a rendelet kihirdetésétől számított legfeljebb két évig nem tehetnek egymás felé szerződési ajánlatot.
 

@@ -59,7 +59,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 8. § (1) A munkáltatói jogkört
 
-- a) az OIT Hivatalának vezetőhelyettese tekintetében az OIT,
+- a) az OIT Hivatalának vezetőhelyettese tekintetében az OIT elnöke,
 - b) az OIT Hivatalának egyéb alkalmazottai tekintetében az OIT Hivatalának a vezetője,
 - c) az igazságügyi szakértők, az egyéb igazságügyi szerv vezetője és helyettese tekintetében az igazságügyért felelős miniszter (a továbbiakban: miniszter),
 - d)
