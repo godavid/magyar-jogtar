@@ -2230,7 +2230,7 @@ Pĺ Republiken Kazakstans vägnar
 
 (2) E törvény 5–6. §-a a 2. Jegyzőkönyv 4. cikk (1) bekezdésében meghatározott időpontban lép hatályba.
 
-(3) E törvény 7. §-a a 2. Jegyzőkönyv 4. cikk (1) bekezdésében meghatározott időpontban hatályát veszti.
+(3)
 
 (4) A 2. Jegyzőkönyv hatálybalépésének naptári napját, valamint a (2)–(3) bekezdésben meghatározott időpont naptári napját a külpolitikáért felelős miniszter azok ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
