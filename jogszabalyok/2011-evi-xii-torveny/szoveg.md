@@ -12558,7 +12558,7 @@ Ezt a határozatot 2010. január 1-jétől kell alkalmazni.
 
 Kelt Brüsszelben, 2010. szeptember 16-án.
 
-13. §
+13. § Az Országgyűlés jóváhagyja a 3. Módosításnak a kihirdetését követő nappal kezdődően történő ideiglenes alkalmazását.
 
 14. § (1) E törvény a kihirdetését követő napon lép hatályba.
 
