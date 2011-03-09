@@ -43,9 +43,19 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 4. § (1) A törvény hatálya alá tartoznak:
 
 - a) a Magyar Köztársaság területén élő magyar állampolgárok, a bevándorolt és a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személyek,
-- b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat a Magyar Köztársaság területén gyakorolják.
+- b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), amennyiben a szabad mozgás és a három hónapot meghaladó tartózkodási jogukat a Magyar Köztársaság területén gyakorolják,
+- c) a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgárok; és
+- d) – e törvényben meghatározott esetekben – a külföldön élő magyar állampolgárok.
 
-(2) A külföldön élő, illetőleg a Magyar Köztársaság területét a külföldi letelepedés szándékával elhagyó magyar állampolgárok akkor tartoznak a törvény hatálya alá, ha – a magyar állampolgárságuk igazolása után – kérik adataiknak a nyilvántartásba való felvételét, illetőleg meglévő adataik további kezelését. Adataikat kérelmükre – az archív adatok kivételével – a nyilvántartásból törölni kell.
+(2) A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése vagy 5. §-a alapján honosított vagy visszahonosított külföldön élő polgár adatai az állampolgársági ügyekben eljáró szerv értesítése alapján hivatalból szerepelnek a nyilvántartásban.
+
+(2a) A külföldön élő magyar állampolgár adatai a nyilvántartásban akkor szerepelnek, ha
+
+- a) a Magyar Köztársaság területén kívül élő állampolgár kéri adatai nyilvántartásba való felvételét,
+- b) a Magyar Köztársaság területét külföldi letelepedés szándékával elhagyó magyar állampolgár kéri meglévő adatai további kezelését, vagy
+- c) az (1) bekezdés c) pontja szerinti külföldön élő polgár magyar állampolgárságot szerez.
+
+(2b) A külföldön élő magyar állampolgárok adatait kérelmükre – az archív adatok kivételével – a nyilvántartásból törölni kell.
 
 (3) E törvény hatálya kiterjed:
 
@@ -65,7 +75,7 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 
 (4) A polgár lakcím adata: bejelentett lakóhelyének, illetve tartózkodási helyének címe (a továbbiakban együtt: lakcím).
 
-(5) A törvény hatálya alá tartozó, külföldön élő magyar állampolgár [4. § (2) bekezdés] lakóhelye annak a külföldi lakásnak a címe, amelyet otthonául megjelöl.
+(5)
 
 (6) A személyazonosító jel: a nyilvántartás hatálya alá tartozó polgárok egyedi azonosítására szolgáló, matematikai módszerrel, e törvény mellékletében leírt módon képzett kódjel.
 
@@ -88,7 +98,7 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
 
 6. § (1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, a Kormány általános hatáskörű területi államigazgatási szerve és a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv (a továbbiakban: központi szerv) látja el.
 
-(2) Az állampolgársági ügyekben eljáró szerv közreműködik a nyilvántartás hatálya alá tartozó honosított és visszahonosított (a továbbiakban együtt: honosított) polgárok magyar állampolgárságának és nőtlen vagy hajadon családi állapotának, valamint a magyar állampolgárság megszűnése tényének és időpontjának nyilvántartásba vételében.
+(2) Az állampolgársági ügyekben eljáró szerv, az anyakönyvvezető, a konzuli tisztviselő közreműködik a nyilvántartás hatálya alá tartozó személyek adatainak, adatváltozásainak nyilvántartásba vételében.
 
 7. § (1)
 
@@ -139,7 +149,8 @@ Az Országgyűlés, az Alkotmánynak a személyes adatok védelméről szóló r
   - ge) a tulajdonos halálát;
 - h) kezeli a központi okmánytárat;
 - m) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat;
-- n) ellátja az oltalmazottként elismert személy személyi és lakcímadatainak nyilvántartásba vételével, valamint a személyazonosító igazolványa és a személyi azonosítót és lakcímet igazoló hatósági igazolványa első ízben történő kiadásával összefüggő feladatokat.
+- n) ellátja az oltalmazottként elismert személy személyi és lakcímadatainak nyilvántartásba vételével, valamint a személyazonosító igazolványa és a személyi azonosítót és lakcímet igazoló hatósági igazolványa első ízben történő kiadásával összefüggő feladatokat;
+- o) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 
 (3) A központi szerv Központi Okmánytárában – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
 
@@ -159,7 +170,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 11. § (1) A nyilvántartás tartalmazza a polgár
 
 - a) nevét;
-- b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága megszűnésének tényét (a továbbiakban: állampolgárság), valamint menekült vagy oltalmazott, bevándorolt, letelepedett jogállását, illetve a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét;
+- b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága megszűnésének tényét (a továbbiakban: állampolgárság), menekült vagy oltalmazott, bevándorolt, letelepedett jogállását, a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét, illetve a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár esetén a honosítás vagy visszahonosítás tényét;
 - c) nemét;
 - d) születési helyét és idejét;
 - e) anyja nevét;
@@ -169,7 +180,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 - i) az adatszolgáltatásra vonatkozó, 2. § (1) bekezdés szerinti korlátozást, illetve tilalmat;
 - j) adataiból történő rendszeres adatszolgáltatásra vonatkozó jelzést;
 - k) családi állapotát, házasságkötése vagy bejegyzett élettársi kapcsolata létesítésének helyét;
-- l) arcképmását, valamint – ha a 14. életévét betöltötte – aláírását;
+- l) arcképmását és – ha a 14. életévét betöltötte – aláírását, ha személyazonosító igazolványra jogosult;
 - m) személyazonosító igazolványának, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját.
 
 (2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–j) pontja szerinti adatait, aláírását, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
@@ -186,11 +197,17 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 (4) A történeti állományban, továbbá a Központi Okmánytárban tárolt adatokat, okiratokat az e törvényben meghatározott megőrzési idő lejárta után egy éven belül meg kell semmisíteni, illetőleg törölni kell.
 
+12/A. § (1) Ha a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár magyar állampolgárságot nem szerez, akkor a nyilvántartásban szereplő adatait a honosítási vagy visszahonosítási okirat hatályvesztéséről küldött értesítést követően a nyilvántartásból törölni kell.
+
+(2) A 12. §-tól eltérően a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok nyilvántartásban szereplő adatai nem kerülnek a történeti állományba, valamint a Központi Okmánytárba, ha magyar állampolgárságot nem szereznek.
+
 ### A személyi azonosító
 
 13. § (1) Az érintettet a személyi azonosítójáról a nyilvántartó szerv hatósági igazolvánnyal tájékoztatja.
 
-(2) A személyi azonosítót és lakcímet igazoló hatósági igazolvány tartalmazza a polgár természetes személyazonosító adatait lakcímét, személyi azonosítóját, az okmány azonosítóját, valamint tájékoztatás céljából a 14. életévét be nem töltött kiskorú esetén – a törvényes képviselő kérelemére – a kiskorú törvényes képviselőinek nevét és a kiállítás időpontja szerinti telefonszámát.
+(2) A személyi azonosítót és lakcímet igazoló hatósági igazolvány tartalmazza a polgár természetes személyazonosító adatait, lakcímét – a (2a) bekezdésben meghatározott eltéréssel –, személyi azonosítóját, az okmány azonosítóját, valamint tájékoztatás céljából a 14. életévét be nem töltött kiskorú esetén – a törvényes képviselő kérelemére – a kiskorú törvényes képviselőinek nevét és a kiállítás időpontja szerinti telefonszámát.
+
+(2a) A 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár és a külföldön élő magyar állampolgár esetében a személyi azonosítót és lakcímet igazoló hatósági igazolvány azt igazolja, hogy az érintettnek nincs magyarországi lakóhelye.
 
 (3) Az eljáró hatóság a 14 éven aluli kiskorú törvényes képviselőjének (2) bekezdésben meghatározott adatait kizárólag a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásáig jogosult kezelni, azokat a hatósági igazolvány kiadásakor haladéktalanul törölni kell.
 
@@ -204,7 +221,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 - b) a polgár kérelme a személyazonosító igazolvány kiállítása iránt, az ehhez csatolt okiratok, az arcképmása és a saját kezű aláírása, illetve az újszülött arcképmása;
 - c) az anyakönyv;
 - d) a központi idegenrendészeti nyilvántartást kezelő szerv értesítése;
-- e) a külképviseleti szerv értesítése;
+- e) a konzuli szolgálat konzuli tisztviselőjének az értesítése;
 - f)
 - g) a területszervezési intézkedést kihirdető jogszabály;
 - h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés (az illetékes önkormányzat hatáskörébe tartozó területszervezési, közterület-elnevezési és házszámváltozási döntésekről);
@@ -212,8 +229,16 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 - j) a polgár adatai letiltására vagy helyesbítésére vonatkozó kérelme;
 - k) a jegyző, a Kormány általános hatáskörű területi államigazgatási szerve, a központi szerv, valamint a bíróságok nyilvántartási eljárás tárgyában hozott határozatai;
 - l) a külföldön élő magyar állampolgár kérelme;
-- m) az anyakönyvvezető vagy az állampolgársági ügyekben eljáró szerv értesítése a magyar állampolgárság honosítással vagy visszahonosítással történő megszerzéséről, valamint a honosított okirattal igazolt vagy nyilatkozata szerinti nőtlen vagy hajadon családi állapotáról;
-- n) az állampolgársági ügyekben eljáró szerv értesítése az állampolgársági eljárásban engedélyezett névmódosításról, valamint a magyar állampolgárság megszűnéséről és annak időpontjáról.
+- m) az állampolgársági ügyekben eljáró szerv értesítése
+  - ma) a honosítási vagy visszahonosítási okirat aláírásának időpontjáról, illetve arról a tényről, hogy a honosítási vagy visszahonosítási okirat hatályát vesztette,
+  - mb) a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár esetében a természetes személyazonosító és külföldi lakcím adatairól, valamint családi állapotáról és neméről,
+  - mc) az állampolgársági eljárásban engedélyezett névmódosításról,
+  - md) a magyar állampolgárság megszűnéséről és annak időpontjáról, valamint
+  - me) honosított vagy visszahonosított (a továbbiakban: honosított) okirattal igazolt vagy nyilatkozata szerinti nőtlen vagy hajadon családi állapotáról,
+- n) az anyakönyvvezető értesítése
+  - na) a magyar állampolgárság megszerzéséről és annak időpontjáról, valamint
+  - nb) a honosított okirattal igazolt vagy nyilatkozata szerinti nőtlen vagy hajadon családi állapotáról,
+- o) a konzuli tisztviselő értesítése a magyar állampolgárság megszerzéséről és annak időpontjáról.
 
 15. § (1) A polgár a lakcímbejelentkezés során a következő adatokat közli a helyi nyilvántartó szervvel:
 
@@ -319,7 +344,8 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 - d) az idegenrendészeti szervek a jogszabályban meghatározott idegenrendészeti feladataik ellátásához;
 - e) a központi menekültügyi szerv a törvényben meghatározott feladatai ellátásához;
 - f) a szabálysértési hatóság és a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
-- f) az anyakönyvvezető.
+- g) az anyakönyvvezető;
+- h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője a konzuli érdekvédelmi feladatok ellátásához.
 
 23. § E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:
 
@@ -347,6 +373,8 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 (3) A családi állapot igazolására a nyilvántartás alapján kiállított hatósági bizonyítványon kívül más okirat nem követelhető meg.
 
+24/C. § A 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárról a magyar állampolgársága megszerzéséig a nyilvántartásból – saját nyilvántartott adatról való tájékoztatás kivételével – nem teljesíthető adatszolgáltatás.
+
 ### V. Fejezet — A nyilvántartási eljárás
 
 25. § (1) Az e törvényben előírt adatszolgáltatási és nyilvántartási feladataik teljesítéséhez az eljárásban érintett polgár személyazonosító jelét az alábbi szerveknek köteles átadni:
@@ -356,7 +384,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 - c) a házasulók a házassági szándékuk bejelentésekor, illetve a bejegyzett élettársi kapcsolatot létesítők e szándékuk bejelentésekor az anyakönyvvezetőnek;
 - d) a peres felek a családjogi és házassági bontóperben, a bejegyzett élettársi kapcsolat felbontására irányuló perben, valamint a holttá nyilvánítással és a halál tényének bírói megállapításával összefüggő ügyekben a bíróságnak, a bejegyzett élettársi kapcsolatot megszüntetni kívánók a közjegyzőnek;
 - e) a szülők a gyermek családi jogállása rendezésekor a gyámhatóságnak, a bíróságnak, az anyakönyvvezetőnek, illetve egyéb jogszabály alapján az eljárásban közreműködő szervnek;
-- f) a konzuli hatóságnak olyan ügyek intézése során, amelyekben az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult a személyazonosító jelet kérni;
+- f) a konzuli tisztviselőnek olyan ügyek intézése során, amelyekben az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult a személyazonosító jelet kérni;
 - g) az idegenrendészeti szerveknek a bevándorlással, a letelepedéssel, illetőleg a tartózkodással kapcsolatos ügyintézés során.
 
 (2)–(3)
@@ -365,13 +393,15 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 26. § (1) A Magyar Köztársaság területén élő, e törvény hatálya alá tartozó polgár [4. § (1) bekezdés] köteles beköltözés vagy kiköltözés után három munkanapon belül lakóhelyének, illetve tartózkodási helyének címét a települési önkormányzat jegyzőjének nyilvántartásba vétel céljából bejelenteni (a továbbiakban együtt: lakcímbejelentés).
 
-(2) Az (1) bekezdésben meghatározott polgárnak azt a tényt, hogy a Magyar Köztársaság területét a külföldi letelepedés szándékával elhagyja, illetőleg, hogy három hónapon túl külföldön tartózkodik, a lakóhelye szerint illetékes települési önkormányzat jegyzőjénél vagy az illetékes külföldi külképviseleti hatóságnál kell bejelentenie.
+(2) Az (1) bekezdésben meghatározott polgárnak azt a tényt, hogy a Magyar Köztársaság területét a külföldi letelepedés szándékával elhagyja, illetőleg, hogy három hónapon túl külföldön tartózkodik, a lakóhelye szerint illetékes települési önkormányzat jegyzőjénél vagy a konzuli tisztviselőnél kell bejelentenie.
 
 (3) A lakcímbejelentéshez a lakás tulajdonosának vagy a lakás használatára egyéb jogcímen jogosultnak a hozzájárulása szükséges.
 
 (4) A lakcímbejelentés ténye önmagában a lakás használatához fűződő, valamint egyéb vagyoni jogot nem keletkeztet, és nem szüntet meg. Érvénytelen a bejelentett lakcímadat, ha a polgárnak a lakás használatára vonatkozó joga jogerős bírósági vagy hatósági határozat alapján megszűnt és a határozatot végrehajtották, továbbá, ha az illetékes települési önkormányzat jegyzője megállapította, hogy a polgár bejelentett lakcímadata nem valós.
 
-(5) A külföldön élő, a 4. § (2) bekezdés alapján a nyilvántartásba felvett polgárnak a lakóhelyét első alkalommal a nyilvántartásba vételt kérő nyilatkozatban, lakóhelyének megváltoztatását pedig — személyesen vagy levélben — a központi szervvel vagy az illetékes konzuli hivatalnál kell bejelentenie.
+(5) Ha a 4. § (2a) bekezdés a) és b) pontja szerinti külföldön élő magyar állampolgár a nyilvántartásba vételét kéri, akkor a külföldi lakóhelyét a nyilvántartásba vételt kérő nyilatkozatban be kell jelentenie.
+
+(5a) A magyarországi tartózkodási hellyel nem rendelkező külföldön élő magyar állampolgárnak a külföldi lakóhelye megváltozását a központi szervnél vagy a konzuli tisztviselőnél kell bejelentenie.
 
 (6) A külföldön élő magyar állampolgár magyarországi tartózkodási helyét az illetékes jegyzőnél jelenti be.
 
@@ -388,7 +418,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 28. § (1) A Magyar Köztársaság területét a külföldi letelepedés szándékával elhagyó magyar vagy – a nyilvántartás hatálya alá tartozó – külföldi állampolgár, illetőleg hontalan személy lakcím ügyében a lakóhely szerint illetékes jegyző jár el.
 
-(2) Az (1) bekezdés esetén a magyar állampolgár – lakcíme megszüntetésének bejelentésével egyidejűleg – a jegyzőnek nyilatkozik arról, kívánja-e, hogy a nyilvántartás továbbra is tartalmazza adatait.
+(2) Az (1) bekezdés esetén a magyar állampolgár – külföldi letelepedési szándékának bejelentésével egyidejűleg – a jegyzőnek nyilatkozik arról, kívánja-e, hogy a nyilvántartás továbbra is tartalmazza adatait.
 
 ### Személyazonosság igazolására alkalmas hatósági igazolványok
 
@@ -585,6 +615,8 @@ e) a kizáró okot elrendelő bíróság megnevezése, az ítélet ügyiratszám
 (2)
 
 (3) A központi szerv a bevándorolt polgárok adatainak egyeztetése céljából a központi idegenrendészeti nyilvántartást kezelő szervtől jogosult igényelni az érintettek állampolgársági adatait.
+
+49. § A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése vagy 5. §-a alapján – 2011. január 1-je és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény, a magyar állampolgárságról szóló 1993. évi LV. törvény és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XIV. törvény (a továbbiakban: 1. módosító törvény) hatálybalépése között – honosított vagy visszahonosított külföldön élő polgárok adatairól a nyilvántartásba vétel érdekében az állampolgársági ügyekben eljáró szerv az 1. módosító törvény hatálybalépését követő harminc napon belül értesíti a központi szervet.
 
 ### Melléklet az 1992. évi LXVI. törvény 13. §-ához
 
