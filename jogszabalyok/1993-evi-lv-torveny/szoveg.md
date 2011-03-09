@@ -105,7 +105,9 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (2) A magyar állampolgárság megszerzéséről a köztársasági elnök honosítási, illetőleg visszahonosítási okiratot (a továbbiakban: honosítási okirat) ad ki.
 
-7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (3), (6) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le.
+(3) A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és a miniszter a névmódosítást engedélyezi – a névmódosításnak megfelelő névvel kell kiadni. A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és a miniszter a névmódosítási kérelmet elutasítja – a honosítást kérő külföldi nevével kell kiadni.
+
+7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (3), (6) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le.
 
 (2) A honosított a magyar állampolgárságot az eskü vagy fogadalom letételének napján szerzi meg. Az eskütétel, illetve fogadalomtétel tényét és napját a honosítási okiraton fel kell tüntetni.
 
@@ -149,7 +151,7 @@ Az állampolgársági fogadalom szövege:
 
 ### A magyar állampolgárság igazolása
 
-10. § A magyar állampolgárság érvényes személyi igazolvánnyal, érvényes magyar útlevéllel vagy állampolgársági bizonyítvánnyal igazolható.
+10. § A magyar állampolgárság érvényes személyi igazolvánnyal, érvényes magyar útlevéllel, érvényes állampolgársági bizonyítvánnyal vagy – ellenkező bizonyításig – honosítási okirattal igazolható.
 
 11. § (1) A miniszter az érintett kérelmére állampolgársági bizonyítványban igazolja a magyar állampolgárság fennállását, megszűnését, illetőleg azt, hogy a bizonyítványban megjelölt személy nem magyar állampolgár.
 
@@ -166,7 +168,7 @@ Az állampolgársági fogadalom szövege:
 
 (4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozat felülvizsgálata a Fővárosi Bíróságtól kérhető.
 
-(5) Az állampolgársági bizonyítvány kiadására irányuló eljárásban újrafelvételi, illetve méltányossági kérelem nem nyújtható be.
+(5) Az állampolgársági bizonyítvány kiadására irányuló eljárásban újrafelvételi kérelem nem nyújtható be.
 
 12. § Az igazságszolgáltatási, a bűnüldöző, az idegenrendészeti, a nemzetbiztonsági, a katonai igazgatási szervek, a jegyző (főjegyző), a közjegyző, valamint a konzuli és külföldi hatóság, továbbá más hatóság, illetőleg állami szerv megkeresésére a miniszter megállapítja az ügyfél magyar állampolgárságának fennállását, megszűnését vagy azt, hogy az ügyfél nem magyar állampolgár.
 
@@ -175,7 +177,7 @@ Az állampolgársági fogadalom szövege:
 13. § (1) Az állampolgárság megszerzésére irányuló nyilatkozatot és kérelmet, továbbá az állampolgárságról lemondó nyilatkozatot, valamint az állampolgársági bizonyítvány kiadása iránti kérelmet (a továbbiakban együtt: állampolgársági kérelem)
 
 - a) a települési – fővárosban a kerületi – önkormányzat polgármesteri hivatala anyakönyvvezetőjéhez,
-- b) a külön jogszabályban meghatározott körzetközponti jegyző székhelyén működő anyakönyvvezetőhöz,
+- b) az integrált ügyfélszolgálati irodához
 - c) a magyar konzuli tisztviselőhöz, illetve
 - d) a Kormány által kijelölt, az állampolgársági ügyintézésért felelős szervhez lehet benyújtani.
 
@@ -183,7 +185,7 @@ Az állampolgársági fogadalom szövege:
 
 (3) Más személy állampolgárságának igazolására irányuló bizonyítvány iránti kérelmet benyújthat az, aki erre vonatkozó jogos érdekét igazolja.
 
-(4) Az állampolgársági kérelmet az anyakönyvvezető öt napon belül, a konzul az átvételtől számított első diplomáciai postával köteles felterjeszteni a miniszterhez.
+(4) Az állampolgársági kérelmet az anyakönyvvezető, az integrált ügyfélszolgálati iroda vezetője öt napon belül, a konzul az átvételtől számított első diplomáciai postával köteles felterjeszteni a miniszterhez.
 
 14. § (1) Az állampolgársági kérelemnek tartalmaznia kell az érintett
 
@@ -212,7 +214,7 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 
 (2) A honosítási és visszahonosítási kérelem, valamint a lemondási nyilatkozat benyújtásakor a korlátozottan cselekvőképes személyt is meg kell hallgatni.
 
-(3) Kiskorú személy magyar állampolgárságról való lemondásához — ha elháríthatatlan akadálya nincs — mindkét szülő hozzájáruló nyilatkozatát mellékelni kell.
+(3) Kiskorú személy magyar állampolgárság megszerzésére irányuló nyilatkozatához és kérelméhez, magyar állampolgárságról való lemondásához — ha elháríthatatlan akadálya nincs — mindkét szülő hozzájáruló nyilatkozatát mellékelni kell.
 
 (4) Házastársak, illetve szülő együttélő kiskorú vagy cselekvőképtelen nagykorú gyermekével közös honosítási, visszahonosítási kérelmet, illetőleg a magyar állampolgárságról lemondó nyilatkozatot terjeszthet elő.
 
@@ -273,23 +275,34 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 
 - a) hogy saját vagy felmenője egykori magyar születési családi nevét viselhesse;
 - b) többtagú születési családi nevéből egy vagy több tag, valamint születési és házassági nevéből a nemre utaló végződés vagy névelem elhagyását;
-- c) utónevének magyar megfelelőjét.
+- c) utónevének magyar megfelelőjét;
+- d) házastársa vagy annak felmenője, illetve – özvegy, elvált családi állapot esetén – volt házastársa vagy annak felmenője egykori magyar születési családi nevének viselését.
+
+(1a) A honosítást kérő külföldinek az (1) bekezdés d) pontja szerinti név viselése akkor engedélyezhető, ha házassági nevet visel, és
+
+- a) – házas családi állapot esetén – házastársa az (1) bekezdés a) pontja szerinti nevet viseli vagy a honosítási eljárásban az (1) bekezdés a) pontja szerinti név viselését kéri,
+- b) – elvált családi állapot esetén – volt házastársa az (1) bekezdés a) pontja szerinti nevet viselte,
+- c) – özvegy családi állapot esetén – volt házastársa az (1) bekezdés a) pontja szerinti nevet viselte vagy kérhette volna az (1) bekezdés a) pontja szerinti név viselését.
 
 (2) A névmódosítási kérelmet okirattal vagy szakvéleménnyel kell alátámasztani.
 
-(3) A névmódosítás engedélyezéséről a miniszter okiratot ad ki, mely a 7. §-ban szabályozott eskü- vagy fogadalomtétel napján lép hatályba.
+(3) A névmódosítást a miniszter engedélyezi. Ha a miniszter a névmódosítást engedélyezi, akkor döntése a 7. §-ban szabályozott eskü- vagy fogadalomtétel napján lép hatályba.
 
 (4) A névmódosítást anyakönyvezni kell.
 
+(5) A honosítást kérő külföldi a névmódosítás során kérheti elhalt anyja nevének magyar nyelven való feltüntetését, ha az anya nevét hivatalos okiratban magyar nyelven korábban feltüntették.
+
 ### A külföldi helységnév használata
 
-20/B. § (1) A honosítási vagy visszahonosítási eljárás során a külföldi helységnevet – a (2) bekezdésben foglaltak kivételével – az illető országban előírt hivatalos formában kell használni. A hivatalos külföldi helységnév mellett – ha ismert – járulékosan (zárójelben) a magyar elnevezést is fel kell tüntetni, ha a településnek volt hivatalos magyar elnevezése.
+20/B. § (1) Ha a külföldi helységnek volt hivatalos magyar elnevezése, a honosítási vagy visszahonosítási eljárás során a külföldi helységnek az egykori hivatalos magyar elnevezését kell használni.
 
-(2) A honosítást vagy visszahonosítást kérő külföldi kérelmezheti, hogy amennyiben a külföldi helységnek volt hivatalos magyar elnevezése, az eljárás során kizárólag azt használják.
+(2) Ha a külföldi helységnek nem volt hivatalos magyar elnevezése, a honosítási vagy visszahonosítási eljárás során a külföldi helységnek az illető országban hivatalos elnevezését kell használni.
 
-(3) A külföldi helységnév után – ha az az iratokból megállapítható – a tartomány vagy szövetségi tagállam, valamint minden esetben az ország nevét zárójelben kell feltüntetni.
+(3) A honosítást vagy visszahonosítást kérő kérelmezheti, hogy az (1) bekezdésben meghatározott esetben a külföldi helységnév egykori hivatalos magyar elnevezése mellett a külföldi helységnek az illető országban hivatalos elnevezését járulékosan (zárójelben) is tüntessék fel.
 
-(4) Az ország nevét az anyakönyvi esemény időpontjában érvényes módon kell bejegyezni.
+(4) Ha a külföldi helységnek nem volt hivatalos magyar elnevezése vagy a (3) bekezdés szerinti kérelmet nyújtottak be, a külföldi helységnek az illető országban hivatalos elnevezése után – ha az az iratokból megállapítható – az adott kanton, tartomány vagy szövetségi tagállam, valamint – minden esetben – az ország nevét zárójelben kell feltüntetni.
+
+(5) A kanton, tartomány vagy szövetségi tagállam nevét az anyakönyvi esemény időpontjában érvényes módon, az ország nevét pedig az anyakönyvi esemény időpontjában érvényes módon, magyar elnevezéssel kell bejegyezni.
 
 ### Záró rendelkezések
 
@@ -316,3 +329,5 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 - c) a jegyzőnek, az anyakönyvvezetőnek és a konzulnak az állampolgársági kérelmek átvételével, az okiratok továbbításával, valamint a hatósági nyilvántartások értesítésével kapcsolatos feladatait;
 - d) az eljárásban használandó formanyomtatványokat;
 - e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, valamint a Kormány általános hatáskörű területi államigazgatási szervének a vizsgával kapcsolatos feladatait és az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét.
+
+25. § E törvénynek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény, a magyar állampolgárságról szóló 1993. évi LV. törvény és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XIV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor folyamatban lévő honosítási, visszahonosítási eljárásra is alkalmazni kell.

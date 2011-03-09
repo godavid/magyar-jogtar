@@ -1646,7 +1646,7 @@ teljesíti.
 - d) ha az elsőfokú döntést miniszter, a Pénzügyi Szervezetek Állami Felügyeletének elnöke, autonóm államigazgatási szerv vagy kormányhivatal vezetője hozta,
 - e) törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az első fokú döntést központi államigazgatási szerv vezetője hozta.
 
-(2) Az (1) bekezdés a), c) és e) pontjában meghatározott esetekben az első fokú döntés bírósági felülvizsgálatának van helye.
+(2) Az (1) bekezdés a), c)–e) pontjában meghatározott esetekben az első fokú döntés bírósági felülvizsgálatának van helye.
 
 101. § (1) A fellebbezéssel megtámadott döntésben foglalt jogok nem gyakorolhatók és a fellebbezésnek a döntés végrehajtására halasztó hatálya van, kivéve, ha a hatóság a döntést a fellebbezés halasztó hatályának kizárásával végrehajthatónak nyilvánította.
 

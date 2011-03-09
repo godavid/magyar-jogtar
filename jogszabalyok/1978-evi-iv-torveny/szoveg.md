@@ -719,7 +719,7 @@ ha annak eredményes elteltéhez az elkövető rendszeres figyelemmel kísérés
 - e) meghatározott helyen és időközönként, meghatározott szervnél vagy személynél jelentkezzék;
 - f) vegye fel a kapcsolatot az állami foglalkoztatási szervvel, vagy az önkormányzatnál közmunkára jelentkezzen be;
 - g) meghatározott tanulmányokat folytasson;
-- h) – hozzájárulása esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát;
+- h) – hozzájárulása esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát; [i) vegyen részt a pártfogó felügyelő által szervezett csoportos foglalkozáson vagy a Pártfogó Felügyelői Szolgálat közösségi foglalkoztatójának programja szerinti más foglalkozáson.]
 
 (6) A bíróság, illetve az ügyész az (5) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedésének esélyeire.
 
@@ -1045,6 +1045,10 @@ lehet kiszabni.
 (5) Az ideiglenes elbocsátás megszüntetése esetén az ideiglenes elbocsátáson töltött idő a javítóintézeti nevelésbe nem számítható be.
 
 (6) Azt, aki a tizenkilencedik életévét betöltötte, a javítóintézetből el kell bocsátani.
+
+[Kényszergyógyítás
+
+118/A. §]
 
 ### A pártfogó felügyelet
 
@@ -2000,6 +2004,8 @@ bűncselekmény
 - c) öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekmény halált,
 - d) öt évtől tizenöt évig terjedő szabadságvesztés, ha a bűncselekmény halálos tömegszerencsétlenséget okoz.
 
+(2a) Aki az (1) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
 (3) Aki az (1) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt egy évig terjedő szabadságvesztéssel, a (2) bekezdésben meghatározott esetekben, az ott tett megkülönböztetéshez képest, két évig, három évig, öt évig, illetve két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
 (4) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – azzal szemben, aki a veszélyt, mielőtt abból káros következmény származott volna, önként megszünteti.
@@ -2504,6 +2510,8 @@ követik el.
 232. § (1) Aki a belföldön tartózkodó nemzetközileg védett személyt bántalmazza, személyi szabadságától megfosztja, vagy személyét, illetőleg személyi szabadságát – különösen hivatalos helyisége, magánlakása vagy szállítási eszköze elleni támadással – veszélyezteti, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Aki az (1) bekezdésben meghatározott bűncselekmény elkövetésével fenyeget, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2a) Aki az (1) és (2) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (3) E § alkalmazásában nemzetközileg védett személy az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján diplomáciai vagy nemzetközi jogon alapuló egyéb mentességet élvez.
 
