@@ -1474,7 +1474,7 @@ együttesen jogosult.
 - d) nemzetbiztonsági szolgálattal,
 - e) Állami Számvevőszékkel,
 - f) Gazdasági Versenyhivatallal,
-- g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző Kormány által kijelölt belső ellenőrzési szervvel,
+- g) az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 120/B. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel,
 - h) vagyonellenőrrel szemben.
 
 (4) A (2) bekezdésben előírt titoktartási kötelezettség az eljárás alapját képező ügyre vonatkozóan nem áll fenn a feladatkörében eljáró
@@ -1507,7 +1507,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
-- a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző Kormány által kijelölt belső ellenőrzési szervvel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF)
+- a) a feladatkörében eljáró Országos Betétbiztosítási Alappal, Magyar Nemzeti Bankkal, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Felügyelettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az Áht. 120/B. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - b) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 - d) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
@@ -3155,7 +3155,7 @@ a kért információt megadni.
 - a) az MNB-től, illetve
 - b) hitelintézettől.
 
-(3) A Kormány az Alap által a 98. § (1) bekezdésének b) pontja szerinti kötelezettségei teljesítése érdekében felvett kölcsönre az államháztartásról szóló 1992. évi XXXVIII. törvény 33. §-ának (3) bekezdésére tekintettel készfizető kezességet vállal.
+(3) A Kormány az Alap által a 98. § (1) bekezdésének b) pontja szerinti kötelezettségei teljesítése érdekében felvett kölcsönre az Áht. 33. § (3) bekezdésére tekintettel készfizető kezességet vállal.
 
 (4)
 

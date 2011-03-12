@@ -386,7 +386,12 @@ az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag k
 
 (10) A 23. § (1) bekezdés f) pontjában meghatározott esetben a magán-nyugdíjpénztári tagnak a magánnyugdíjrendszerben fennálló tagsági jogviszonya fenntartásának szándékáról – ha e törvény eltérően nem rendelkezik – személyazonosságának ellenőrzése céljából személyesen, a nyugdíjbiztosítási igazgatási szervnél kell nyilatkoznia. Azt a magán-nyugdíjpénztári tagot, aki a nyugdíjbiztosítási igazgatási szerv előtti nyilatkozattételben testi fogyatékossága, egyéb egészségügyi ok miatt vagy azért akadályozott, mert személyi szabadságát korlátozó büntetés vagy intézkedés hatálya alatt áll, nyilatkozattételének lehetővé tétele érdekében – kérésére – a nyugdíjbiztosítási igazgatási szerv felkeresi (a továbbiakban: helyszíni nyilatkozattétel). A helyszíni nyilatkozattétel lehetőségét a magán-nyugdíjpénztári tag 2011. január 21-éig írásban kérheti a nyugdíjbiztosítási igazgatási szervtől. A nyilatkozattételre rendelkezésre álló időtartam alatt tartósan külföldön foglalkoztatott, tartós külföldi szolgálatot teljesítő vagy külföldi tanulmányokat folytató magán-nyugdíjpénztári tag (a továbbiakban: tartósan külföldön tartózkodó pénztártag) nyilatkozatát személyesen a Magyar Köztársaság külképviseletén is megteheti.
 
-(11) A pénztár a visszalépő tag a 4. § (2) bekezdés zsk) pont szerinti kifizetésekkel csökkentett – az elszámolás fordulónapjára vonatkozó piaci értékelés szerint számított – követelésének értékét a tagok portfoliójában lévő eszközökben adja át a Nyugdíjreform és Adósságcsökkentő Alap részére. Az eszközöket – jogszabály eltérő rendelkezése hiányában – a visszalépő tag portfolióján belüli befektetési eszköz aránynak megfelelően kell átadni.
+(11) A pénztár a függő tételként nyilvántartott tagdíjbefizetéseket, valamint a visszalépő tagok 2011. május 31-ére, mint fordulónapra vonatkozó piaci értékelés szerint számított követeléseinek értékét egy tételben, a tagok portfóliójában a fordulónapon meglévő eszközökben 2011. június 12-ig adja át a Nyugdíjreform és Adósságcsökkentő Alap részére. Az eszközöket – jogszabály ellenkező rendelkezése hiányában – a visszalépő tagok portfolióján belüli eszközök arányának megfelelően kell átadni.
+
+(12) A pénztár
+
+- a) a visszalépő tagi kifizetések összegét 2011. július 20-ig,
+- b) a függő tételekből beazonosított, pénztártagot illető tagdíjbefizetések összegét havonta, az adott hónapot követő hónap 8. napjáig igényli vissza a Nyugdíjreform és Adósságcsökkentő Alaptól.
 
 24/A. § (1) Amennyiben a pénztártag a 23. § (1) bekezdésének g) pontja szerinti választási lehetőségével élve magánnyugdíjpénztári tagsági jogviszonyát meg kívánja szüntetni és az egyéni számlán felhalmozott összeget – bármely országban működő – időskori megélhetést szolgáló megtakarítási formába kívánja utalni, arról a pénztár részére a nyugdíjbiztosítási jogviszony megszűnését követő 90 napon belül írásban nyilatkozik. A nyilatkozatban meg kell jelölni a pénztártag által választott megtakarítási formát, valamint az ezt működtető intézmény címét és pénzforgalmi számlájának számát.
 
@@ -1438,7 +1443,10 @@ sorolja be.
 
 - a) statisztikai célokra a Központi Statisztikai Hivatal,
 - b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása céljából az államháztartásért felelős miniszter és a gazdaságpolitika makrogazdasági szabályozásáért felelős miniszter,
-- c) a gazdasági, pénzpiaci folyamatok elemzése, a pénztárak befektetési tevékenységének eredményesebbé tétele, valamint a pénztárak szolgáltatási kötelezettsége teljesíthetőségének értékelése céljából az Alap részére.
+- c) a gazdasági, pénzpiaci folyamatok elemzése, a pénztárak befektetési tevékenységének eredményesebbé tétele, valamint a pénztárak szolgáltatási kötelezettsége teljesíthetőségének értékelése céljából az Alap,
+- d) az Áht. 120/B. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott feladatkörében eljáró kormányzati ellenőrzési szerv
+
+részére.
 
 (7) A Felügyelet a pénztárak egyedi azonosítására alkalmas adatokat szolgáltat a feladatkörében eljáró Gazdasági Versenyhivatal részére.
 
@@ -1456,7 +1464,8 @@ sorolja be.
 - j) az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal, illetve társadalombiztosítási szervvel,
 - k) a Gazdasági Versenyhivatallal,
 - l) a gazdálkodás nyilvántartásához szükséges adatok tekintetében a gazdálkodás nyilvántartását végző szolgáltatóval, továbbá a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
-- m) külön törvényben meghatározott feltételek megléte esetén az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések foganatosításáért felelős szervvel
+- m) külön törvényben meghatározott feltételek megléte esetén az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések foganatosításáért felelős szervvel,
+- n) az Áht. 120/B. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel
 
 szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
@@ -2101,7 +2110,12 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 
 (7) A központi nyilvántartásból a foglalkoztató a vele a Tbj. 5. §-a szerinti biztosítási jogviszonyt létesített pénztártag adatainak szolgáltatását igényelheti, ha arra a pénztártagot terhelő tagdíj bevallási és befizetési kötelezettség teljesítése érdekében van szükség. Az adatokat – az adatkérés céljának és jogalapjának egyidejű igazolása mellett – írásban kell kérelmezni, a központi nyilvántartásból teljesíthető adatszolgáltatás a pénztártagsági jogviszony fennállására és az érintett pénztár adatainak átadására terjedhet ki. A kincstár, a számfejtési körébe tartozó munkáltatóknál Tbj. 5. §-a szerinti biztosítási jogviszonyban álló pénztártagok adatainak szolgáltatását igényelheti, ha arra a pénztártagot terhelő tagdíjbevallási és befizetési kötelezettség teljesítése érdekében van szükség. Az adatkérésben az érintett pénztártag és munkáltató adatai mellett fel kell tüntetni az adatkérést kezdeményező kincstár azonosító és leíró adatait.
 
-(8) A 120. §-ban meghatározott központi nyilvántartásból a Felügyelet adatot szolgáltat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv számára a visszalépő tagok nyilvántartott követeléséről, pénztárak szerinti bontásban, tagi szinten.
+(8) A társadalombiztosítási egyéni számla teljes körű kialakítása céljából – 2011. december 1-jét követően, legkésőbb 2012. március 31-ig – a Felügyelet átadja a központi nyilvántartásból
+
+- a) a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok 119. § (3) bekezdés a) és d) pontjában meghatározott adatait pénztárak szerinti bontásban és tagi szinten, továbbá
+- b) a valamennyi ott meghatározott személyre vonatkozó, a 119. § (3) bekezdés a), e) és f) pontja alapján nyilvántartott adatokat személyenkénti bontásban
+
+a társadalombiztosítási egyéni számla vezetéséért felelős államigazgatási szerv részére.
 
 (9) A 120. §-ban meghatározott központi nyilvántartásból a Felügyelet adatot szolgáltat – a visszalépő tagok követelésének pénztárankénti összegéről – a Nyugdíjreform és Adósságcsökkentő Alap kezelője számára.
 
