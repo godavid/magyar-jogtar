@@ -1418,7 +1418,8 @@ módosítja vagy visszavonja.
 - d) foglalkozás, munkahely, munkakör, tevékenység,
 - e) a rokkantság fokára, az egészségkárosodás mértékére, a szakmai munkaképességre, a rehabilitálhatóságra, továbbá az egészségi állapotra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása az egészségi állapot figyelembevételével történik,
 - f) a keresetre, jövedelemre, valamint a levont és befizetett járulékokra vonatkozó adatok,
-- g) az élettársra és az eltartott hozzátartozói minőségre vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása az élettársi, hozzátartozói minőség figyelembevételével történik,
+- g) a hozzátartozókra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása a hozzátartozói minőség figyelembevételével történik,
+- h) a társadalombiztosítási egyéni számlára vonatkozó, a 96/A. § (1) bekezdése szerinti állami adóhatóság által nyilvántartott egyéb adatok
 
 tarthatók nyilván.
 
@@ -1445,6 +1446,18 @@ szerinti adatok igénylésére jogosultak.
 (8) A nyugdíjbiztosítási igazgatási szerv a biztosított (volt biztosított) kérelmére igazolást állít ki a biztosítási kötelezettséggel járó jogviszonyokra és a keresetekre, jövedelmekre vonatkozóan a nyilvántartásba bejelentett adatokról.
 
 (9) A biztosított (volt biztosított) kérheti a bejelentésre kötelezett szerv vagy személy rá vonatkozó adatszolgáltatásának hatósági ellenőrzését, és a rendelkezésére álló bizonyítékok figyelembevételével a nyilvántartás adatainak kiegészítését, javítását.
+
+### Társadalombiztosítási egyéni számla
+
+96/A. § (1) A társadalombiztosítási egyéni számla természetes személyenként tartalmazza
+
+- a) a 97. § alapján szolgáltatott adatokat,
+- b) az Mpt. 120/A. § (8) bekezdése alapján átvett adatokat,
+- c) az Art. 52. § (7) bekezdés b) pont ba) és be) alpontja, d) pont da) és db) alpontja, valamint e)–g) pontja alapján átvett adatokat,
+- d) a megállapított, illetve folyósított ellátásra vonatkozó adatokat,
+- e) a 96. § (2) bekezdés a)–g) pontjában meghatározott, valamint a nyugdíjbiztosítási igazgatási szervek által a természetes személyről nyilvántartható egyéb adatokat.
+
+(2) A társadalombiztosítási egyéni számlát a Kormány által rendeletben kijelölt államigazgatási szerv vezeti. A társadalombiztosítási egyéni számla adataihoz a feladat- és hatásköre ellátása érdekében, az ahhoz szükséges mértékben a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, továbbá valamennyi nyugdíjbiztosítási igazgatási szerv közvetlenül hozzáférhet.
 
 ### Adatszolgáltatás és bejelentési kötelezettség
 
@@ -1499,7 +1512,7 @@ szerinti adatok igénylésére jogosultak.
 - o) a 18. § (2b)–(2c) bekezdés szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonyokat
 - p) az özvegyi járadék számítására vonatkozó szabályokat;
 - q) a 2. § (6) bekezdés szerinti esetben a társadalombiztosítási nyugdíjrendszerben szerzett jogosultságok meghatározásának, beszámításának módját;
-- r) a társadalombiztosítási egyéni számlával kapcsolatos szabályozást
+- r) a társadalombiztosítási egyéni számlával kapcsolatos részletes szabályokat
 
 rendeletben határozza meg.
 
