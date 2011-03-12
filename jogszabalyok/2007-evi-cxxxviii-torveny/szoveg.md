@@ -2258,7 +2258,7 @@ szemben.
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn
 
 - a) a hatáskörében eljáró Felügyelettel, Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal,
-- b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, a Kormány által kijelölt belső ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+- b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, az Áht. 120/B. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 - d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
 - e) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését folytató nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
@@ -2266,7 +2266,7 @@ szemben.
 - g) külön törvényben meghatározott feltételek teljesülése esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
 - h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 - i) az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal,
-- j) a feladatkörében eljáró országgyűlési biztossal, és
+- j) a feladatkörében eljáró országgyűlési biztossal
 - k)
 
 szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsdei szolgáltatóhoz intézett írásbeli megkeresése esetén.

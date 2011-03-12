@@ -8,7 +8,7 @@ Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárak
 
 #### 1. Az Alap jogállása, vagyona
 
-1. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 123. § (6) bekezdésében foglaltak alapján a társadalombiztosítási nyugdíjrendszerbe visszalépő pénztártag természetes személyek portfolióját képező eszközöket a Nyugdíjreform és Adósságcsökkentő Alapnak kell átadni.
+1. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 123. § (6) bekezdésében foglaltak alapján a társadalombiztosítási nyugdíjrendszerbe visszalépő pénztártag természetes személyek portfólióját képező eszközöket a Nyugdíjreform és Adósságcsökkentő Alapnak kell átadni, azzal, hogy ha valamely eszköz átadása a külön jogszabályban meghatározott határidőig nem lehetséges, akkor az eszköz értékét pénzben kell átadni.
 
 2. § (1) A Nyugdíjreform és Adósságcsökkentő Alap (a továbbiakban: Alap) jogi személy.
 
@@ -51,9 +51,14 @@ Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárak
 
 #### 3. Az Alap működése, gazdálkodása
 
-6. § A Testület az Alap eszközeinek felhasználása körében az államháztartás helyzetének kiegyensúlyozása céljából dönt az eszközök értékesíthetőségéről, az értékesítés időbeli ütemezéséről, rendelkezik az Alap pénzeszközeinek a 7. § szerint történő befizetéséről, valamint a fenti cél megvalósulásának veszélyeztetése nélkül az államadósság csökkentésére történő fordításáról.
+6. § A Testület az Alap eszközeinek felhasználása körében az államháztartás helyzetének kiegyensúlyozása céljából dönt az eszközök értékesíthetőségéről, az értékesítés időbeli ütemezéséről, és rendelkezik az Alap pénzeszközeinek a 7. § szerinti felhasználásáról.
 
-7. § Az Alap vagyonát képező eszközök értékesítéséből származó bevételt a Nyugdíjbiztosítási Alap fejezetnek és a központi költségvetésnek a Magyar Köztársaság költségvetéséről szóló törvényben meghatározott előirányzata javára kell befizetni vagy azt az államadósság csökkentésére kell fordítani.
+7. § Az Alap vagyonát képező eszközökből származó bevételt
+
+- a) a Nyugdíjbiztosítási Alap fejezetnek és a központi költségvetésnek a Magyar Köztársaság költségvetéséről szóló törvényben meghatározott előirányzata javára kell befizetni,
+- b) az államadósság csökkentésére kell fordítani,
+- c) a társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártag természetes személyeket megillető, az Mpt. 4. § (2) bekezdés zsk) pontja szerinti visszalépő tagi kifizetésekre kell fordítani,
+- d) a beazonosított függő tételek miatti visszafizetésekre kell fordítani.
 
 8. § (1) Az Alap pénzforgalmi számláját a kincstár vezeti.
 
@@ -61,9 +66,9 @@ Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárak
 
 (3) Az Alap eszközeinek nyilvántartásával, kezelésével és értékesítésével járó költségek az Alapot terhelik.
 
-9. § (1) Az Alap vagyonát képező pénzügyi eszközök értékesítését a Testület 7. § szerinti rendelkezései alapján az ÁKK végzi.
+9. § (1) Az Alap vagyonát képező eszközök kezelését és értékesítését a Testület rendelkezései alapján az ÁKK végzi.
 
-(2) Az Alapnak az 1. § szerint átadott, a magyar állam által kibocsátott hitelviszonyt megtestesítő értékpapírokat az átadást követően be kell vonni, azok további forgalom tárgyai nem lehetnek.
+(2) Az Alap a magyar állam által kibocsátott hitelviszonyt megtestesítő értékpapírokat térítésmentesen átadja a magyar államnak, amelyeket az átadást követően be kell vonni, azok további forgalom tárgyai nem lehetnek.
 
 10. § (1) Az Alap évente május 31-ig pénzügyi beszámolót készít az Országgyűlés számára az Alap előző évi tevékenységéről, gazdálkodásáról és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A pénzügyi beszámolót nyilvánosságra kell hozni.
 
@@ -73,7 +78,9 @@ Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárak
 - b) a központi költségvetés javára teljesített befizetések összegét,
 - c) az államadósság csökkentésére fordított összeget.
 
-11. § Az Alap működését és gazdálkodását az Állami Számvevőszék ellenőrzi.
+11. § (1) Az Alap működését és gazdálkodását az Állami Számvevőszék ellenőrzi.
+
+(2) Az Alap részére átadott, az 1. §-ban meghatározott, a pénztártag portfólióját képező eszközök, és azok átadásának ellenőrzését a kormányzati ellenőrzési szerv végzi.
 
 ### II. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
