@@ -25,21 +25,23 @@ az államhatárról
 
 ### Az államhatár rendjének fenntartását biztosítószabályok
 
-3. § (1) Nemzetközi szerződés eltérő rendelkezésének hiányában építmény nem létesíthető
+3. § (1) A határvonaltól, valamint a határjeltől számított egy méter távolságon belül építmény nem létesíthető, kivéve
 
-- a) a határvonaltól számított egy méter széles területű sávban, illetve
-- b) a Magyar Köztársaság területén elhelyezett határjel körüli egy méter sugarú kör területén belül.
+- a) ha jogszabállyal kihirdetett nemzetközi szerződés ettől eltérően rendelkezik,
+- b) a közforgalom számára épülő utat, a határrendészeti és vízgazdálkodási célú építményt, valamint az energetikai és távközlési célú vezetéket.
 
-(2) A határvonal és határjelek láthatóságának biztosítása érdekében a Rendőrség gondoskodik az (1) bekezdésben meghatározott területnek a láthatóságot akadályozó növényzettől való megtisztításról.
+(2) Az (1) bekezdés szerinti építmények létesítésével kapcsolatos munkákat oly módon kell elvégezni, hogy az államhatár vonalát jelölő határjelek ne sérüljenek.
+
+(3) Minden olyan munkavégzéshez, amely a határjeleket vagy az államhatár vonalát érinti, az államhatár láthatóságának biztosítására, a határvonal megjelölésére és a határjelek karbantartására nemzetközi szerződésben létrehozott határbizottság előzetes jóváhagyása szükséges.
+
+(4) A határvonal és határjelek láthatóságának biztosítása érdekében a Rendőrség gondoskodik a jogszabállyal kihirdetett nemzetközi szerződésben meghatározott, ennek hiányában az (1) bekezdés szerinti területnek a láthatóságot akadályozó növényzettől való megtisztításáról.
 
 4. § Az ingatlan tulajdonosa és használója köteles tűrni a Rendőrség, valamint a földmérési és térképészeti állami alapfeladatokat ellátó szervezet nemzetközi szerződésben vagy törvényben meghatározott feladatainak ellátását azon az ingatlanán (földrészleten),
 
 - a) amelynek a határvonallal megegyező határa, határszakasza van, vagy
 - b) amelyen határjelet helyeztek el. Az e tevékenységgel összefüggésben okozott kárért a Rendőrség, illetve a földmérési és térképészeti állami alapfeladatokat ellátó szervezet a polgári jog fokozott veszéllyel járó tevékenység folytatásáért viselt felelősségre vonatkozó szabályai szerint felel.
 
-5. § (1) A szomszédos állam területét is érintő, illetve a határvonal szárazföldi vagy vízi jellegének megváltoztatását eredményező munka csak nemzetközi szerződés alapján végezhető.
-
-(2) Az államhatáron átnyúló vagy átvezető építményt nemzetközi szerződés alapján lehet létesíteni, megváltoztatni, karbantartani, illetve megszüntetni.
+5. §
 
 6. § (1) Nemzetközi szerződés eltérő rendelkezése hiányában határút az az út vagy útszakasz, amelynek területén a határvonal az út tengelyével megegyezően halad.
 
@@ -53,6 +55,11 @@ az államhatárról
 (2) Nemzetközi szerződés eltérő rendelkezése hiányában a vízen közlekedő jármű vagy más úszólétesítmény a határvízen való áthaladás közben – a kényszerkikötés kivételével – a határvíz partján nem köthet ki, arra fel- vagy arról leszállni, illetve arról dolgot levenni vagy feltenni nem szabad.
 
 (3) A (2) bekezdésben foglalt tilalom – a magyar vagy a szomszédos állam illetékes hatóságának eltérő rendelkezése hiányában – nem vonatkozik a Közösségi Kódex 2. cikk 1. pontjában meghatározott belső határon (a továbbiakban: belső határ) lévő határvízen közlekedő vízi járműre.
+
+(4) Ha nemzetközi szerződés lehetővé teszi, akkor a Rendőrség – a nemzetközi és a belső határon lévő vízi út kivételével – engedélyezi a szomszédos állam illetékes szerveivel együttműködve:
+
+- a) vízi járműnek a határvíz olyan szakaszán való áthaladását, ahol mindkét part a Magyar Köztársaság területe,
+- b) vízi járműnek a határvíz olyan szakaszára való átlépését, ahol mindkét part a szomszédos állam területe.
 
 8. § (1) Azonos állam területén lévő vasútállomások között, de a másik állam területén áthaladó vasútvonalon az államhatár átlépésére és a közlekedésre nemzetközi szerződés rendelkezése az irányadó.
 
@@ -114,6 +121,8 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 (5) Felhatalmazást kap a Kormány, hogy a határátlépés ellenőrzésének ideiglenes visszaállítását rendeletben hirdesse ki.
 
 (6) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a határjegyzőkönyvet rendeletben hagyja jóvá.
+
+(7) Felhatalmazást kap a határrendészetért felelős miniszter, hogy rendeletben határozza meg a határvízen történő közlekedés engedélyezésének szabályait.
 
 17. § (1) A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény (a továbbiakban: Ftt.) 13. § (4) bekezdése helyébe a következő rendelkezés lép:
 
