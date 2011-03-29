@@ -10,7 +10,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 1. § A törvény célja a mikro-, kis- és középvállalkozások meghatározása, valamint a fejlődésük előmozdítását szolgáló állami támogatások összefoglalása, és ezáltal olyan gazdasági feltételek kialakítása, amelyek hosszú távon, hazai és uniós szinten egyaránt biztosítják a verseny- és foglalkoztatási képesség növekedését, a versenyhátrányok csökkenését, valamint a vállalkozások Európai Unió követelményeihez való felzárkózását.
 
-2. § A törvény hatálya a mikro-, kis- és középvállalkozásokra (a továbbiakban: KKV), valamint a KKV-k támogatására és az azzal kapcsolatos adatszolgáltatásra terjed ki.
+2. § A törvény hatálya a mikro-, kis- és középvállalkozásokra (a továbbiakban: KKV), a 7. § tekintetében az EK-Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet I. mellékletében meghatározott KKV kritériumoknak megfelelő mezőgazdasági termeléssel, halgazdálkodással, mezőgazdasági feldolgozással és forgalmazással, erdőgazdálkodással és vadgazdálkodással foglalkozó vállalkozásokra és természetes személyekre (a továbbiakban: mezőgazdasági vállalkozás), valamint a KKV-k és a mezőgazdasági vállalkozások támogatására, és a KKV-kkal kapcsolatos adatszolgáltatásra terjed ki.
 
 ### A kis- és középvállalkozások meghatározása
 
@@ -75,13 +75,13 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 ### II. Fejezet — A KIS ÉS KÖZÉPVÁLLALKOZÁSOKTÁMOGATÁSA
 
-### Kis- és Középvállalkozói Célelőirányzat
+### Gazdaságfejlesztést szolgáló célelőirányzat
 
 6. § (1) A KKV-k fejlődését szolgáló támogatások finanszírozását a fejlesztéspolitikáért felelős miniszter irányítása alatt álló fejezetben lévő, Gazdaságfejlesztést szolgáló célelőirányzat (a továbbiakban: célelőirányzat) biztosítja.
 
 (2) A célelőirányzat központi költségvetésből biztosított forrásának összegét évente a fejlesztéspolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezete tartalmazza.
 
-7. § (1) A célelőirányzat terhére vállalkozások, valamint a (2) bekezdésben meghatározott programok megvalósításában közreműködő szervezetek részesülhetnek támogatásban. A célelőirányzat felhasználásának rendjét olyan módon kell kialakítani, hogy a KKV-k – többek között speciálisan KKV-k számára meghirdetett támogatási konstrukciók, magasabb támogatási intenzitás és a támogatás ellenében teljesítendő enyhébb kötelezettségek révén – a többi vállalkozáshoz képest előnyben részesüljenek.
+7. § (1) A célelőirányzat terhére vállalkozások, valamint mezőgazdasági vállalkozások, továbbá a (2) bekezdésben meghatározott programok megvalósításában közreműködő szervezetek részesülhetnek támogatásban. A célelőirányzat felhasználásának rendjét olyan módon kell kialakítani, hogy a KKV-k – többek között speciálisan KKV-k számára meghirdetett támogatási konstrukciók, magasabb támogatási intenzitás és a támogatás ellenében teljesítendő enyhébb kötelezettségek révén – a többi vállalkozáshoz képest előnyben részesüljenek.
 
 (2) Támogatásban részesíthetők azok a programok, amelyek célja többek között:
 
