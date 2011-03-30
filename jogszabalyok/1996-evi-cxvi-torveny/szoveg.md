@@ -26,7 +26,9 @@ a következő törvényt alkotja:
 - d) nukleáris anyag: a radioaktív anyagok közül mindazok, amelyek önfenntartó nukleáris láncreakcióra képesek, vagy képessé tehetők, továbbá ezek vegyületei, vagy az elemet, illetőleg vegyületét tartalmazó anyag, különösen az urán, a tórium, a plutónium és bármilyen anyag, amely az előbbiek közül egyet vagy többet tartalmaz, a bányászat, illetőleg az ércfeldolgozás körébe tartozó ércek és érchulladékok kivételével;
 - e) ionizáló sugárzás: a közvetlenül vagy közvetve ionizáló részecskékből, illetve ionizálásra képes fotonokból álló sugárzás;
 - f) nukleáris láncreakció: az atommaghasadások olyan sorozata, amelyet a hasadási folyamat során felszabaduló neutronok tartanak fenn;
-- g) nukleáris létesítmény: az atomerőmű, atomfűtőmű, kutató és oktató atomreaktor, továbbá minden más olyan létesítmény, amelyet a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés III. cikk (1) és (4) bekezdésének végrehajtásáról szóló biztosítéki megállapodás 98. cikkének 2. I. pontja ekként határoz meg;
+- g) nukleáris létesítmény:
+- a) a dúsítóüzem, nukleáris üzemanyagot gyártó üzem, atomerőmű, újrafeldolgozó üzem, kutatóreaktor, oktatóreaktor, nukleáris kritikus és más neutronsokszorozás célját szolgáló rendszer, friss és kiégett fűtőelem tárolására szolgáló létesítmény; és
+- b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcsolódó, ugyanazon a telephelyen található, a radioaktív hulladék tárolására szolgáló létesítmények, amennyiben külön létesítménynek minősülnek.
 - h) nukleáris rendszer, berendezés: a nukleáris létesítményeknek a nukleáris biztonságra hatással lévő rendszerei, berendezései;
 - i) atomreaktor: olyan berendezés, amely szabályozott nukleáris láncreakció megvalósítására alkalmas;
 - j) ionizáló sugárzást létrehozó berendezés: olyan berendezés, amely külső energia vagy radioaktív anyag felhasználásával ionizáló sugárzás keltésére és kibocsátására alkalmas;
@@ -45,6 +47,7 @@ a következő törvényt alkotja:
 - x) SDR: Special Drawing Rights (különleges lehívási jog) – a Nemzetközi Valuta Alap által meghatározott nemzetközi elszámolási egység;
 - y) ésszerűen elérhető legalacsonyabb szint: a tudományos, technikai, gazdasági és társadalmi adottságok figyelembevételével kialakított, a nemzetközi elvárásokkal összhangban lévő legkisebb érték;
 - z) ártalmatlanítás (végleges elhelyezés): nukleáris anyagok vagy más radioaktív anyagok veszélyeztető hatásának a kizárása, a környezet elemeitől történő elszigeteléssel.
+- zs) nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak és a lakosságnak a nukleáris létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme.
 
 ### Alapelvek
 
@@ -693,3 +696,5 @@ az atomenergia-felügyeleti szervet irányító miniszterrel egyetértésben, re
 (11) Felhatalmazást kapnak a miniszterek, hogy rendeletben állapítsák meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
 
 (12) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 11/A. § (5) bekezdése szerinti, az atomenergia alkalmazásával kapcsolatos igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket rendeletben határozza meg.
+
+69. § Ez a törvény a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról szóló 2009. június 25-i 2009/71/EURATOM tanácsi irányelvnek való megfelelést szolgálja.

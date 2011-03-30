@@ -436,11 +436,53 @@ hatáskörébe tartozik.
 - b) a mederből a vízgazdálkodási feladataik végrehajtása során kiemelt, valamint a vízgazdálkodási feladataik elvégzéséhez szükséges anyagokat az ingatlanon keresztül szállítsák, vagy azokat, illetve a munkák elvégzéséhez szükséges eszközöket, átmeneti jellegű létesítményeket az ingatlanon elhelyezzék;
 - c) a vízrajzi észleléshez, a hajóút kitűzéséhez, valamint az egyéb szakfeladatok ellátásához szükséges jeleket, létesítményeket az ingatlanon elhelyezzék és karbantartsák.
 
-(4) Az ingatlan tulajdonosa (használója) köteles tűrni, hogy a földrészlet fekvése szerint illetékes vízügyi hatóság határozata alapján az ingatlanát árvízi tározóként kijelöljék. Az árvízi tározó területének kijelöléséhez szükséges feltételeket a Kormány rendeletben határozza meg.
+(4) Az ingatlan tulajdonosát (használóját) az (1) és (3) bekezdés szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. Ha a korlátozás következtében az ingatlan használata, az ingatlannal kapcsolatos jog vagy foglalkozás gyakorlása lehetetlenné, illetve számottevően költségessé válik, a tulajdonos az ingatlan kisajátítását kérheti.
 
-21. § (1) Az ingatlan tulajdonosát (használóját) a 20. § (1) és (3) bekezdés szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. Ha a korlátozás következtében az ingatlan használata, az ingatlannal kapcsolatos jog vagy foglalkozás gyakorlása lehetetlenné, illetve számottevően költségessé válik, a tulajdonos az ingatlan kisajátítását kérheti.
+21. § (1) Vízkárelhárítási célú tározónak minősül a záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó, a vésztározó és a belvíztározó.
 
-(2) A 20. § (4) bekezdése szerinti árvízi tározóba történő sorolással kapcsolatos korlátozások miatt az ingatlan tulajdonosát megillető egyszeri térítésről és kártalanításról külön törvény rendelkezik.
+(2) Az ingatlan tulajdonosa, illetve használója köteles tűrni, hogy az ingatlanát a vízügyi hatóság vízkárelhárítási célú tározóként kijelölje.
+
+(3) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó kijelölése közérdekből történik.
+
+(4) Az ingatlan, vagy annak területi mértékben meghatározott része vízkárelhárítási célú tározóvá történő kijelöléséről – a vésztározó kivételével – az ingatlan fekvése szerint illetékes vízügyi hatóság határoz. A vízügyi hatóság a jogerős határozattal megkeresi a vízkárelhárítási célú tározó jogi jelleg feljegyzése iránt az ingatlan fekvése szerint illetékes ingatlanügyi hatóságot. Ha a vízkárelhárítási célú tározó jogi jelleg nem az egész ingatlant érinti, a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló ingatlanügyi hatóság által záradékolt vázrajzot is.
+
+(5) A vízügyi hatóság dönt a vízkárelhárítási célú tározóba történő sorolás megszüntetéséről, ha annak feltételei már nem állnak fenn. A vízügyi hatóság a jogerős határozatot megküldi az ingatlanügyi hatóságnak a vízkárelhárítási célú tározó jogi jelleg ingatlan-nyilvántartásból történő törlése céljából.
+
+21/A. § (1) Ha a záportározóhoz, az árvízcsúcs-csökkentő tározóhoz, a szükségtározóhoz, illetve a belvíztározóhoz kapcsolódó vízilétesítmény elhelyezése, vagy a 21/E. § szerinti használati korlátozás az ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza, a tulajdonos az ingatlan megvásárlását a beruházótól kérheti, illetve az ingatlan kisajátításának kérését a beruházónál kezdeményezheti.
+
+(2) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó, illetve a belvíztározó gyakori igénybevételének szükségessége esetén az aránytalanul magas kártalanítási költségek elkerülése érdekében a beruházó a tározó területének megvásárlását, illetve kisajátítását kezdeményezheti.
+
+21/B. § (1) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó területéhez tartozó ingatlan ingatlan-nyilvántartásban bejegyzett tulajdonosát – a rendelkezésre állással és a használattal, illetve a 21/E. § szerinti használati korlátozással összefüggő értékcsökkenés miatt, azok ellenértékeként – tulajdoni illetőségének arányában egyszeri térítés illeti meg. Ha az ingatlan már eredetileg is állami vagy önkormányzati tulajdonban volt, vagy a 21/A. § (1) vagy (2) bekezdése alapján állami vagy önkormányzati tulajdonba kerül, az egyszeri térítés kifizetésére nem kerül sor.
+
+(2) A vízkárelhárítási célú tározó árvíz-szabályozási célból történő igénybevétele esetén az okozott tényleges kárért az ingatlan használóját kártalanítás illeti meg, kivéve, ha a tározó területe a 21/A. § alapján megvásárlásra vagy kisajátításra került, és ezután kötöttek bérleti vagy haszonbérleti szerződést.
+
+(3) A vízkárelhárítási célú tározó területén lévő ingatlanok árvízi szabályozási célból történő igénybevételével kapcsolatos kártalanításra e törvény eltérő rendelkezése hiányában a Polgári Törvénykönyv szabályait kell alkalmazni.
+
+(4) Az ingatlan tulajdonosának a bérleti vagy haszonbérleti szerződés megkötésekor a bérlő vagy haszonbérlő tudomására kell hoznia a 21/E. § szerinti használati korlátozásokat.
+
+(5) Ha a haszonbérlő a (2) bekezdés alapján kártalanításban részesült, egyidejűleg ezen a címen nem jogosult a termőföldről szóló törvény szerinti haszonbér-fizetési kedvezmény igénybevételére.
+
+21/C. § (1) A 21/B. § (1) bekezdése szerinti egyszeri térítés megfizetéséről a vízügyi hatóság határozatában dönt, és a beruházó gondoskodik az egyszeri térítés kifizetéséről.
+
+(2) Az egyszeri térítés alapja a termőföld ingatlan-nyilvántartás szerinti aranykorona-értéke (a továbbiakban: AK). Az egyszeri térítés mértéke e rendelkezés hatálybalépésekor 8000 forint AK-ként. Az egyszeri térítés mértéke évente, január 1-jével növekszik a Központi Statisztikai Hivatal által közölt, a tárgyévre érvényes fogyasztói árindex mértékével.
+
+21/D. § A vízügyi hatóság a vízkárelhárítási célú tározó kijelölése során csak a tényállás tisztázása érdekében tart közmeghallgatást.
+
+21/E. § (1) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó területén lévő termőföldön:
+
+- a) kémiai talajjavításra, öntözési, meliorációs célú beruházásra,
+- b) faiskola létesítésére, vetőmagtermesztésre, szaporítóanyag előállítására,
+- c) ültetvények és gyenge víztűrő képességű évelő kultúrák telepítésére,
+- d) gyepfeltörésre állami támogatás nem vehető igénybe, illetve ilyen esetekben a tározó árapasztási célú igénybevételekor keletkező kárért kártalanítás nem jár.
+
+(2) A záportározó, az árvízcsúcs-csökkentő tározó, a szükségtározó és a belvíztározó területén nem lehet:
+
+- a) bejelentéshez vagy engedélyhez kötött építési tevékenységet folytatni,
+- b) a kezelő hozzájárulása nélkül a tározó kapacitáscsökkenésével járó, vagy a vizek lefolyási viszonyát megváltoztató tereprendezést végezni.
+
+(3) Nem jár kártalanítás a kár azon része után, amely a (2) bekezdésben meghatározott rendelkezések megszegése miatt keletkezett.
+
+(4) A vízkárelhárítási célú tározó területén lévő termőföld művelési ágát megváltoztatni kizárólag a tározó kezelőjének előzetes hozzájárulásával lehet.
 
 22. § (1) Az ingatlan tulajdonosa (használója):
 
@@ -455,15 +497,19 @@ hatáskörébe tartozik.
 
 (3) A helyi önkormányzat a forgalomképtelen törzsvagyonként tulajdonába adott természetes vizek partján levő beépítetlen ingatlanok tekintetében az (1) bekezdésben foglalt korlátozás alól — a települési érdekekre figyelemmel — önkormányzati rendeletben felmentést adhat.
 
-24. § (1) A folyó nagyvízi medrét, továbbá a töltésnek az árvizektől mentesített oldalán lévő azon területet, amelyen fakadó- és szivárgó vizek jelentkezhetnek, csak az árvízvédelmi előírásoknak megfelelően szabad kezelni, használni és hasznosítani.
+24. § (1) A nagyvízi meder elsődleges rendeltetése a mederből kilépő árvíz és a jég levezetése.
 
-(2) A folyók, patakok (kisvízfolyások), belvíz- és öntözőcsatornák, tavak, tározók, holtágak parti sávját, továbbá az árvízvédelmi létesítmények (így például: töltés, árvízvédelmi fal, árvízi tározó-töltés) mindkét oldali lábvonalától mért 10-10 méter széles védősávját úgy kell használni, hogy azt a meder, illetve létesítmény tulajdonosa (használója) a karbantartási munkák, mérések esetenkénti ellátása céljából a feladataihoz szükséges mértékben, illetőleg védekezési célból akadálytalanul igénybe vehesse.
+(2) A folyó nagyvízi medrét, továbbá a töltésnek az árvíztől mentesített oldalán lévő azon területet, amelyen fakadó-, illetve szivárgó víz jelentkezhet, csak az árvízvédelmi előírásoknak megfelelően szabad kezelni, használni és hasznosítani.
 
-(3) A folyók nagyvízi medrére vonatkozóan kezelési tervet kell készíteni, amely a nagyvízi mederben tevékenységet folytatókra kötelező. A kezelési terv készítésére, tartalmára, jóváhagyására vonatkozó szabályokat a miniszter rendeletben állapítja meg.
+(3) A nagyvízi mederben építményt elhelyezni az érintett folyószakasz mederkezelőjének hozzájárulásával lehet.
 
-(4) Az (1) és (2) bekezdésben említett, valamint a rendszeresen víz alá kerülő területeken építmény a meder tulajdonosának, illetve kezelőjének hozzájárulásával helyezhető el. Ennek hiányában az elhelyezőt ért kárért – ha törvény eltérően nem rendelkezik – kártalanítás nem jár.
+(4) A nagyvízi mederben fekvő ingatlan tulajdonosa, illetve használója a nagyvízi mederben mezőgazdasági művelést, erdőgazdálkodást vagy más tevékenységet kizárólag saját felelősségére, az árvizek levezetésének akadályozása nélkül, a környezet- és természetvédelmi, valamint a kulturális örökségvédelmi előírások megtartásával folytathat. A nagyvízi mederben a termőföld más célú hasznosítását, valamint a művelési ág megváltoztatását végrehajtani kizárólag az érintett folyószakasz-meder kezelőjének előzetes hozzájárulásával lehet.
 
-(5) A nagyvízi mederre, a parti sávra, a vízjárta és a fakadó vizek által veszélyeztetett területekre, azok használatára, hasznosítására, a víziállásokra vonatkozó előírásokat és korlátozásokat, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos kártalanítási eljárás szabályait a Kormány rendeletben állapítja meg.
+(5) A folyók, patakok, kisvízfolyások, belvíz- és öntözőcsatornák, tavak, tározók, holtágak parti sávját, továbbá az árvízvédelmi létesítmények védősávját úgy kell használni, hogy azt a meder, illetve létesítmény tulajdonosa (használója) a karbantartási munkák, mérések esetenkénti ellátása céljából a feladataihoz szükséges mértékben, illetve védekezési célból akadálytalanul igénybe vehesse.
+
+(6) A parti sávban és védősávban, valamint a rendszeresen víz alá kerülő területeken építmény a meder tulajdonosának, illetve kezelőjének hozzájárulásával helyezhető el. Ennek hiányában az elhelyezőt ért kárért – ha törvény eltérően nem rendelkezik – kártalanítás nem jár.
+
+(7) A folyók nagyvízi medrére vonatkozóan kezelési tervet kell készíteni, amely a nagyvízi mederben tevékenységet folytatókra kötelező. A kezelési tervet a miniszter rendeletben állapítja meg. A kezelési tervet össze kell hangolni a folyók nagyvízi medrére vonatkozó, illetve arra kihatással lévő egyéb tervekkel, így különösen a természet védelméről szóló törvény alapján a védett természeti területekre vonatkozóan elkészített természetvédelmi kezelési tervekkel, az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló kormányrendelet alapján a Natura 2000 területekre elkészített természetvédelmi kezelési- és fenntartási tervekkel, illetve az adott területre vonatkozó, az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló miniszteri rendelet alapján meghatározott természetvédelmi célkitűzésekkel, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény alapján az erdőkre vonatkozóan elkészített körzeti erdőtervekkel.
 
 25. § (1) A partok védelmére szolgáló munkák folytán ideiglenesen igénybe vett terület használatáért a parti ingatlan tulajdonosának kártalanítás nem jár, az évelő növényzetben és a függő termésben okozott zöldkárt, valamint az épületben okozott károkat azonban meg kell téríteni.
 
@@ -473,7 +519,7 @@ hatáskörébe tartozik.
 
 26. § Ha a vizek mennyisége vagy a vízilétesítmények teljesítőképessége a többletvizek fokozatos leeresztését teszi szükségessé (szükséghelyzet), az érintett ingatlan tulajdonosa (használója) köteles tűrni, hogy a vizeket a nagyobb kár csökkentése és elhárítása érdekében ideiglenesen az ingatlanon tartsák, odavezessék, ideiglenesen tározzák, illetve az ingatlanon átvezessék.
 
-27. § Az e törvény 20. §-ának (1) és (2) bekezdése alapján megállapított vízvezetési szolgalmi jogot és vízhasználati szolgalmi jogot az ingatlan-nyilvántartásba be kell jegyezni, továbbá a 25. § (3) bekezdése szerinti védőterület, továbbá a nagyvízi mederben való elhelyezkedés tényét, mint jogi jelleget a vízügyi hatóság jogerős határozata alapján (a település nevének és helyrajzi számnak a megjelölésével) az ingatlan-nyilvántartásba – külön törvény szerint – fel kell jegyezni.
+27. § A 20. § (1) és (2) bekezdése alapján megállapított vízvezetési és vízhasználati szolgalmi jogot az ingatlan-nyilvántartásba be kell jegyezni, továbbá a 21. § szerinti vízkárelhárítási célú tározóban, a 25. § (3) bekezdése szerinti védőterületen, a nagyvízi mederben, illetve a parti sávban való elhelyezkedés tényét, mint jogi jelleget a vízügyi hatóságnak az érintett ingatlanra vonatkozó jogerős határozata alapján az ingatlan-nyilvántartásba fel kell jegyezni.
 
 ### VIII. Fejezet — A vízügyi hatósági jogkör
 
@@ -664,7 +710,12 @@ indokolja.
 - p) a vízgazdálkodási szakértői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító engedély kiadásának rendje és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények;
 - q) a vizek többletéből eredő kockázattal érintett területek meghatározására, veszély- és kockázati térkép, valamint kockázatkezelési terv készítésére, tartalmára vonatkozó szabályok;
 - r) az e törvényben, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben foglaltakkal összhangban a vízgyűjtő-gazdálkodási tervezésre és a jó vízállapotok eléréséhez szükséges intézkedések programjának kialakítására vonatkozó szabályok;
-- s) a vízügyi hatóságnak történő bejelentést követően megkezdhető, illetve folytatható tevékenységek körének, továbbá a bejelentés tartalmi elemeinek és a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályainak, valamint az alkalmazható jogkövetkezményeknek
+- s) a vízügyi hatóságnak történő bejelentést követően megkezdhető, illetve folytatható tevékenységek körének, továbbá a bejelentés tartalmi elemeinek és a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályainak, valamint az alkalmazható jogkövetkezményeknek;
+- t) a vizek kártételei elleni védekezés részletes feladatainak és módjának, valamint a rendkívüli védekezési készültség esetén eljáró miniszter jogkörének;
+- u) a rendkívüli védekezési készültség elrendelésének;
+- v) a vízkárelhárítási célú tározók létesítésére, az érintett ingatlanok használatára és a kártalanítási eljárásra vonatkozó szabályoknak;
+- w) a nagyvízi mederre, a parti sávra, a vízjárta és a fakadó vizek által veszélyeztetett területekre, azok használatának, hasznosításának, a víziállásokra vonatkozó előírásoknak és korlátozásoknak, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos kártalanítási eljárás szabályainak;
+- x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendjére és tartalmára vonatkozó szabályok
 
 rendeletben történő megállapítására.
 
@@ -682,7 +733,9 @@ rendeletben történő megállapítására.
 - j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfigyelésének;
 - k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
 - l) az állam kizárólagos tulajdonában lévő vizek és vízilétesítmények jegyzékének;
-- m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben
+- m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
+- n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
+- o) a folyók nagyvízi medrére vonatkozó kezelési terv
 
 rendeletben történő megállapítására.
 
@@ -699,6 +752,8 @@ rendeletben történő megállapítására.
 - c) az Európai Parlament és a Tanács 2000/60/EK irányelve (2000. október 23.) a közösségi cselekvés kereteinek a vízpolitika területén történő meghatározásáról 4. cikkének (1)–(2) bekezdése, 6. cikkének (2) bekezdése és 14. cikkének (1) bekezdése;
 - d) az Európai Parlament és a Tanács 2004/35/EK irányelve (2004. április 21.) a környezeti károk megelőzése és helyreállítása tekintetében a környezeti felelősségről, a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvénnyel, a természet védelméről szóló 1996. évi LIII. törvénnyel, valamint a hulladékgazdálkodásról szóló 2000. évi XLIII. törvénnyel, valamint azok kapcsolódó végrehajtási rendeleteivel együtt;
 - e) az Európai Parlament és a Tanács 2007/60/EK irányelve (2007. október 23.) az árvízkockázatok értékeléséről és kezeléséről 5. cikkének (1) bekezdése, 6. cikkének (1) bekezdése, 7. cikkének (1) bekezdése.
+
+45/B. § E törvénynek az egyes törvényeknek a vízkárelhárítás hatékonyabbá tételével összefüggő módosításáról szóló 2011. évi XXII. törvénnyel (a továbbiakban: törvénymódosítás) megállapított rendelkezéseit a törvénymódosítás hatálybalépésekor a jogerősen még el nem bírált vízügyi és építésügyi hatósági eljárásokban is alkalmazni kell.
 
 ### 1. számú melléklet az 1995. évi LVII. törvényhez
 
@@ -718,7 +773,7 @@ E törvény alkalmazásában
 - 10. közérdek mértéke: a közfeladatoknak a külön jogszabályban meghatározott személyi és tárgyi feltételekre is figyelemmel megállapított színvonalon történő ellátása;
 - 11. közfeladat: az államnak, a helyi önkormányzatnak és a társulatnak az e törvényben megjelölt feladatai, továbbá a tulajdonukban, illetve használatukban lévő vizek és vízilétesítmények tulajdonlásából vagy használatából eredő feladatai;
 - 12. meder: a vízfolyást vagy állóvizet magában foglaló természetes mélyedés vagy kiépített terepalakulat, amelyet meghatározott partvonalig a víz rendszeresen elborít
-  - a) nagyvízi meder: a vízfolyást vagy állóvizet magában foglaló terület, amelyet az árvíz levonulása során a víz, rendszeresen elborít;
+  - a) nagyvízi meder: a vízfolyást vagy állóvizet magában foglaló terület, amelyet az árvíz levonulása során a víz rendszeresen elborít, és amelyet a mértékadó árvízszint vagy az eddig előfordult legnagyobb árvízszint közül a magasabb jelöl ki;
   - b) nagyvízi meder kezelés: a terület hasznosítása és használata, a terület felmérése és nyilvántartása, megóvása, őrzése, fenntartása érdekében végzett tevékenység;
 - 13. Mezőgazdasági célú vízgazdálkodás: a mezőgazdaság feladatait, érdekeit szolgáló vízhasznosítási és vízkárelhárítási tevékenység, a kizárólagos állami tulajdonban lévő vizek és közcélú vízilétesítményekkel összefüggő feladatok, valamint a vízügyi hatósági hatáskör gyakorlása kivételével;
 - 14. regionális víziközmű: az egymással oly módon összefüggő — műszakilag elkülönítve gazdaságosan nem üzemeltethető — víziközművek, melyek egységes rendszert alkotnak, és a rendszer több települést (megyét) átfogó, összefüggő földrajzi területen (országrész, régió) nagyszámú, jellemzően vízbázistól távol fekvő település részére a vízkitermelést, -tisztítást, -elosztást — amelyhez a fogyasztók közműves ivóvízellátása, szennyvízelvezetés is tartozhat — látják el.
@@ -747,7 +802,9 @@ E törvény alkalmazásában
   - b) a szennyvíz összegyűjtése és kezelése, amelyet ezt követően a felszíni vizekbe juttatnak;
 - 32. lakott terület: a település közigazgatási területének belterületi része, valamint az övezeti besorolástól függetlenül minden olyan külterületi településrész, ahol a nyilvántartott földrészleteket (ingatlanokat) tekintve legalább 50%-ban állandó tartózkodási hely szerint bejelentett (nyilvántartott) lakosság él, és a területfelhasználás, valamint az infrastruktúra-hálózat kialakítása a települést érintő – jóváhagyott – országos és térségi területrendezési tervekkel összhangban lévő településrendezési eszközöknek megfelel;
 - 33. ivóvízminőség-javító program (intézkedési terv): az emberi fogyasztásra szolgáló vízre (ivóvízre) vonatkozó – jogszabályban meghatározott – minőségi követelményeket kielégítő cél megvalósítására irányuló feladatok összessége.
-- 34. árvízi tározó: olyan ideiglenes víztartásra szolgáló árvízvédelmi vízilétesítmény, amely elsődlegesen az élet- és vagyonbiztonság megteremtését (vész-, szükség- és árapasztó tározó), továbbá egyéb hasznosítási célok elérését is szolgálja. Árvízvédelmi célú elárasztására csak rendkívüli árvízi esemény esetén kerül sor.
+- 34. vízkárelhárítási célú tározó:
+  - a) árvízi tározó: aa) záportározó: vízfolyáson vagy vízfolyás mentén kiépített, kizárólag az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló, időszakosan vizet tartó tározó, ab) árvízcsúcs-csökkentő tározó: vízfolyáson vagy vízfolyás mentén kiépített, az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló olyan állandóan vagy időszakosan vizet tartó tározó, amelynél a maximális tározási térfogat legalább 50%-a árvízvisszatartásra szabadon áll, ac) szükségtározó: vízfolyások mentén, árhullámok részleges visszatartására kijelölt, ideiglenes vízvisszatartást szolgáló, be- és kivezetési helyekkel ellátott terület, ad) vésztározó: vízfolyások mentén, az árhullámok részleges visszatartására és a nagyobb károk megelőzésére töltségmegbontással – rendkívüli védekezési készültség vagy veszélyhelyzet esetén – igénybe vehető terület,
+  - b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határokkal, illetve töltésekkel körülvett terület.
 
 ### 2. számú melléklet az 1995. évi LVII. törvényhez
 

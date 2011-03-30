@@ -557,7 +557,7 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 ### Kizárólagos állami tulajdonba tartozó repülőtér
 
-36/A. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 172. §-ának d) pontjában megjelölt nemzetközi kereskedelmi repülőterek közül az állam kizárólagos tulajdonába a Budapest Ferihegy Nemzetközi Repülőtér
+36/A. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 172. §-ának d) pontjában megjelölt nemzetközi kereskedelmi repülőterek közül az állam kizárólagos tulajdonába a Budapest Liszt Ferenc Nemzetközi Repülőtér
 
 - a) földterülete a rajta lévő felépítményekkel együtt,
 - b) a légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezései és eszközei, továbbá
@@ -604,7 +604,7 @@ tartoznak.
 
 ### Az állam tulajdonában lévő repülőtér elidegenítése
 
-40. § (1) Az állam tulajdonában lévő repülőteret – a Budapest Ferihegy Nemzetközi Repülőtér kivételével – a Kormány egyetértésével lehet elidegeníteni.
+40. § (1) Az állam tulajdonában lévő repülőteret – a Budapest Liszt Ferenc Nemzetközi Repülőtér kivételével – a Kormány egyetértésével lehet elidegeníteni.
 
 (2) A Kormány döntését kezdeményező előterjesztést a miniszter, katonai repülőtér esetében a honvédelemért felelős miniszter nyújtja be.
 
@@ -644,7 +644,7 @@ tartoznak.
 
 ### Működtetés
 
-45. § (1) A Magyar Állam és a Budapest Ferihegy Nemzetközi Repülőtér vagyonkezelője közötti vagyonkezelési szerződésnek – a külön jogszabályokban meghatározottakon túl – tartalmaznia kell a repülőtér fejlesztésére, felújítására, karbantartására, a leszállási, repülőtér-használati díjak beszedésére, az utasforgalmat szolgáló létesítmények, valamint a poggyász, az üzem- és kenőanyag, az áruk és postai küldemények kezelésére szolgáló létesítmények üzemeltetésére (a továbbiakban együtt: működtetés) vonatkozó kötelezettségeket és jogosultságokat is.
+45. § (1) A Magyar Állam és a Budapest Liszt Ferenc Nemzetközi Repülőtér vagyonkezelője közötti vagyonkezelési szerződésnek – a külön jogszabályokban meghatározottakon túl – tartalmaznia kell a repülőtér fejlesztésére, felújítására, karbantartására, a leszállási, repülőtér-használati díjak beszedésére, az utasforgalmat szolgáló létesítmények, valamint a poggyász, az üzem- és kenőanyag, az áruk és postai küldemények kezelésére szolgáló létesítmények üzemeltetésére (a továbbiakban együtt: működtetés) vonatkozó kötelezettségeket és jogosultságokat is.
 
 (2) A vagyonkezelői jog átruházásához az államháztartásért felelős miniszter egyetértése szükséges.
 
@@ -839,8 +839,8 @@ köteles elhelyezni és karbantartani.
 
 (3) A Társaság feladatai:
 
-- a) a Magyar Köztársaság ellenőrzött légterében – kivéve a katonai körzeteket – és Budapest Ferihegy Nemzetközi Repülőtéren és légterében a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátása; továbbá a Magyar Köztársaság légterében a légiforgalmi navigációs, távközlési, légtérellenőrző szolgálat ellátása, és az ezekhez szükséges berendezések (kivéve a repülőtéri műszeres leszállító rendszert) működésének biztosítása;
-- b) a nemzetközi polgári repülés részére Budapest Ferihegy Nemzetközi Repülőtéren repülésbejelentő és tájékoztató szolgálat ellátása;
+- a) a Magyar Köztársaság ellenőrzött légterében – kivéve a katonai körzeteket – és Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátása; továbbá a Magyar Köztársaság légterében a légiforgalmi navigációs, távközlési, légtérellenőrző szolgálat ellátása, és az ezekhez szükséges berendezések (kivéve a repülőtéri műszeres leszállító rendszert) működésének biztosítása;
+- b) a nemzetközi polgári repülés részére Budapest Liszt Ferenc Nemzetközi Repülőtéren repülésbejelentő és tájékoztató szolgálat ellátása;
 - c) a rendelkezésre álló információk alapján adatszolgáltatás a Magyar Honvédség erre kijelölt szervezete részére, a légtérfelügyelethez szükséges azonosítás elősegítése érdekében;
 - d) légtérgazdálkodás, közreműködés a stratégiai légtérgazdálkodási feladatokban;
 - e) a légi forgalom áramlásának szervezése;

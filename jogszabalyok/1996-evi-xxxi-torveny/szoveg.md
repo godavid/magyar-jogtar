@@ -196,7 +196,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (3) Az (1) bekezdésben felsoroltaknak a fokozottan tűz- és robbanásveszélyes, a tűz- és robbanásveszélyes, valamint a tűzveszélyes tűzveszélyességi osztályba tartozó létesítményekben megfelelő szervezettel, tűzvédelmi szakképesítéssel rendelkező személlyel, illetőleg szolgáltatás igénybevételével kell gondoskodniuk a tűzvédelem biztosításáról.
 
-20. § (1) A tűzvédelmi helyzetre kiható olyan tevékenységet, amely a létesítmény, az épület, az építmény, a helyiség vagy a szabadtér tűzveszélyességi osztályba sorolásának megváltoztatását teszi szükségessé, annak megkezdése előtt legalább tizenöt nappal a kezdeményező a tűzvédelmi hatóságnál köteles bejelenteni.
+20. § (1) A tűzvédelmi helyzetre kiható olyan tevékenységet, amely a létesítmény, az építmény, a helyiség vagy a szabadtér tűzveszélyességi osztályba sorolásának megváltoztatását teszi szükségessé, vagy a raktározás, termelés kapacitásának 15%-kal történő növelését eredményezi, a tevékenység megkezdése előtt legalább tizenöt nappal a kezdeményező a tűzvédelmi hatóságnál köteles bejelenteni.
 
 (2) Minden új tűz- vagy robbanásveszéllyel járó készülék, gép, berendezés, technológia, anyag bevezetése, illetőleg alkalmazása előtt elsődlegesen a gyártó, amennyiben az nem gondoskodott arról, akkor a forgalomba hozó köteles a tűzvédelmi rendelkezések megállapítása céljából szükséges vizsgálatokat elvégezni, illetve elvégeztetni.
 
@@ -372,6 +372,8 @@ alól.
 
 (2) A tűzvédelmi hatóság tűzvédelmi bírságot a jogszabályban előírt tűzvédelmi kötelezettségek megsértése esetén szabhat ki.
 
+(3) A jogerősen kiszabott tűzvédelmi bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A tűzvédelmi bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
+
 44. § (1) A biztosító köteles a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 1. számú melléklete „A” részének 3–5., 6. a) és 7–11. pontjaiban, valamint a „B” részének b), d)–e) alpontjaiban meghatározott biztosítási ágazatokból befolyt biztosítási díjak 1,5%-át hozzájárulás címén – a hivatásos és az önkéntes tűzoltóságok részére a laktanya-építési beruházáshoz, felújításhoz, a tűzoltáshoz és műszaki mentéshez, valamint a katasztrófák elleni védekezésért felelős miniszter által felügyelt tűzjelzési és monitoring lakossági riasztó-tájékoztató eszközök létesítésére, üzemeltetésére, és az általa alapított, a szakágazat képzési feladatait ellátó oktatási intézmény részére tűzoltó célú szakképzéséhez szükséges technikai eszközök, felszerelések fejlesztésének, felújításának céljára – a központi költségvetésbe befizetni.
 
 (2) Az (1) bekezdés szerinti hozzájárulás fizetésére köteles az Európai Gazdasági Térség tagállamaiban székhellyel rendelkező, vagy harmadik országbeli biztosító magyarországi fióktelepe, valamint a határon átnyúló szolgáltató is, ha a kockázat felmerülésének helye a Magyar Köztársaság.
@@ -471,7 +473,7 @@ alól.
 (6) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy
 
 - a) a tűzoltóságok és a Magyar Honvédség tűzvédelmi szerveinek együttműködési rendjét a honvédelemért felelős miniszterrel,
-- b) a Ferihegyi Repülőtéri Tűzoltóság működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
+- b) az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
 - c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 48. § (1) Ez a törvény a kihirdetését követő 90. napon lép hatályba. A törvény 44. §-ának rendelkezését 1997. január 1-jétől kell alkalmazni.

@@ -9,7 +9,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 1. § E törvény alkalmazásában:
 
 - 1. alakuló gyűlés: az érdekeltek fóruma a társulat megalakítása céljából;
-- 2. állami hozzájárulás: a társulat vagyonkezelésébe tartozó közcélú vizek és vízilétesítmények fejlesztését, működtetését, a vizek kártételei elleni védekezést szolgáló, a Magyar Köztársaság költségvetéséről szóló törvényben évenként megállapított költségvetési hozzájárulás;
+- 2. állami hozzájárulás: a társulati művek fejlesztését, működtetését, ezeken a műveken a vizek kártételei elleni védekezést szolgáló, a Magyar Köztársaság költségvetéséről szóló törvényben évenként megállapított költségvetési hozzájárulás;
 - 3. beolvadás: egyesülési folyamat, amelyben a beolvadó társulat megszűnik, és annak vagyona az átvevő társulatra, mint jogutódra száll át;
 - 4. elkülönített vagyon: a társulat nyilvántartásában kimutatott társulati művek, valamint a közfeladatok ellátásához a tárgyévben juttatott pénzeszköz, továbbá saját vagyonból a társulati művek értékének 8%-a;
 - 5. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki, illetve amely a társulat működési területéhez nem tartozó ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
@@ -25,11 +25,11 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - 15. küldött: a társulat tagjainak képviseletét ellátó személy, akit az alakuló gyűlés vagy a területi egység tagjai választanak;
 - 16. küldöttgyűlés: a társulat legfőbb szerve, a társulat küldöttjeinek és tisztségviselőinek összessége;
 - 17. küldött jelölt: területi egységenként az érdekeltek által jelölt személy, akit az alakuló gyűlés választ meg küldöttnek;
-- 18. működési terület: az a földrajzi terület, amelyen társulat működik;
+- 18. működési terület: a vízgyűjtő-gazdálkodási tervezési alegységekre és az érintett környezetvédelmi és vízügyi igazgatóság működési területére figyelemmel, elsősorban a legalább 100 000 ha nagyságú földrajzi terület, amelyen a társulat működik, vagy amely területen a társulat legalább 500 km-nyi közcélú vonalas létesítményt tart fent és üzemeltet;
 - 19. önkormányzati hozzájárulás: a társulati művek körébe tartozó önkormányzati tulajdonban lévő vizek és vízilétesítmények fejlesztését, működtetését, a vizek kártételei elleni védekezést szolgáló, a települési önkormányzatok évenként megállapított költségvetési hozzájárulása;
 - 20. összeolvadás: egyesülési folyamat, amelynek során az egyesülő társulatok megszűnnek, és vagyonuk az átalakulással létrejövő új társulatra, mint jogutódra száll át;
 - 21. részvízgyűjtő: a társulat működési területének alapszabályban földrajzilag meghatározott része;
-- 22. szakmai felügyelet: a társulati közfeladatok ellátásának felügyeletét a területileg illetékes mezőgazdasági igazgatási szerv látja el;
+- 22.
 - 23. szervezőbizottság: a társulat megalakulását előkészítő szervezet, legalább hét tagból áll. Több mint a felét a társulat megalakításában érdekelt természetes személyek, illetve szervezetek (képviselői) alkotják. Tagja a közfeladat ellátása szerint illetékes területi vízügyi és mezőgazdasági igazgatás szervének, a vízgazdálkodási társulatok érdekképviseleti szervezetének képviselője is;
 - 24. szétválás: a társulat a társulati vagyon egy részének a részvételével két vagy több társulatra válik szét;
 - 25. társulat érdekképviselete: a társulatok vagy szerveződéseik által érdekképviseleti célból létrehozott, az egyesülési törvény szerint működő országos vagy területi hatáskörű szervezet;
@@ -39,7 +39,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - 29. társulati alapszabály: a társulat önkormányzati működésének szabályait meghatározó dokumentum;
 - 30.
 - 31.
-- 32. társulati közfeladat: a társulat tagjainak érdekeit szolgáló vízgazdálkodási tevékenység, a kizárólagos állami tulajdonban lévő vizek és vízilétesítményekkel összefüggő feladatok a vízügyi hatósági hatáskör gyakorlása kivételével;
+- 32. társulati közfeladat: a társulat működési területén a társulat tagjainak közös érdekeit szolgáló vízgazdálkodási tevékenység, valamint megbízás alapján a forgalomképes állami tulajdonban lévő vizekkel és vízilétesítményekkel összefüggő feladatok ellátása;
 - 33. társulati művek: azok a közcélú, mezőgazdasági és más célú vízgazdálkodási művek, amelyeket a társulat küldöttgyűlése annak nyilvánít;
 - 34. területi egység: a társulat működési területének az a földrajzilag meghatározható része, amelyről a terület érdekeltjei, a társulat tagjai küldöttjelölteket, küldötteket választanak;
 - 35. területi vízgazdálkodás: a helyi jelentőségű közcélú vízgazdálkodási feladatok a káros többlet vizek és a vízhiányok okozta károk megelőzése, elhárítása érdekében;
@@ -48,9 +48,9 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 ### A társulat fogalma
 
-2. § (1) A társulat jogi személyiséggel rendelkező közhasznú gazdálkodó szervezet.
+2. § (1) A vízitársulat jogi személyiséggel rendelkező, közhasznú szervezetté minősíthető gazdálkodó szervezet.
 
-(2) A társulat a 3. § (2) bekezdésben meghatározott közfeladatait szolgáló tevékenységét a működési területén végzi.
+(2) A vízitársulat a 3. § (2) bekezdés szerinti közfeladatát elsősorban saját munkaszervezetével köteles elvégezni.
 
 (3) Egy működési területen a területi vízgazdálkodási közfeladatok ellátására egyidejűleg csak egy társulat működhet.
 
@@ -126,15 +126,15 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - h) a társulat képviseletét, ideértve a cégjegyzés módját;
 - i) mindazt, amit jogszabály alapján az alapszabály rendez vagy a küldöttgyűlés szükségesnek tart.
 
-(3) Az alapszabály mellékleteiben meg kell határozni helyszínrajzi ábrázolással az ingatlan-nyilvántartási térkép alkalmas méretarányban kinyomtatott másolatán vagy annak digitális állományában
+(3) Az alapszabály térképi mellékleteiben fel kell tüntetni
 
 - a) a társulati műveket és a településeket is feltüntető működési területet;
-- b) a működési területen belül azokat a települési önkormányzatokat (részvízgyűjtőket) kistérségeket (a továbbiakban: területi egység), amelyekről az érdekeltek a küldötteket jelölik.
+- b) a működési területen belül azokat a települési önkormányzatokat (részvízgyűjtőket) és kistérségeket (a továbbiakban: területi egység), amelyekről az érdekeltek a küldötteket jelölik.
 
 (4) Az alapszabály mellékleteiben rögzíteni kell továbbá
 
-- a) a megválasztott küldöttek nevét, lakóhelyét, az általuk képviselt területi egység megnevezését, a képviselt tagok számát, és a képviselt terület nagyságát hektárban;
-- b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, anyja nevét, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát).
+- a) a megválasztott küldöttek nevét, lakóhelyét, az általuk képviselt területi egység megnevezését és a képviselt terület nagyságát hektárban;
+- b) a társulat tagjainak nevét (cégnevét), lakóhelyét (székhelyét), a természetes személy tag születési helyét, időpontját, jogi személy vagy jogi személyiség nélküli gazdasági társaság cégjegyzékszámát (nyilvántartási számát), a területének nagyságát ha-ban.
 
 (5) Az alapszabály mellékleteiben bekövetkezett változást az éves rendes küldöttgyűlés követő 30 napon belül kell megküldeni az illetékes cégbíróságnak.
 
@@ -245,7 +245,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 25. § (1) A küldöttgyűlést az intézőbizottság elnöke hívja össze. Ha az intézőbizottság elnöke ezt elmulasztja, az összehívásra a felügyelőbizottság elnöke jogosult. Az illetékes hatóság és a társulatok országos érdekképviseleti szervezete kezdeményezheti, hogy az illetékes cégbíróság intézkedjen a küldöttgyűlés összehívása érdekében. Össze kell hívni a küldöttgyűlést, ha a társulat tagjainak több mint 10%-a, vagy a küldöttek több mint fele a napirend megjelölésével írásban kéri.
 
-(2) A napirendet tartalmazó írásbeli meghívót a küldöttgyűlés tervezett időpontja előtt legalább 8 nappal a küldöttgyűlés tagjainak, a területileg illetékes mezőgazdasági és, vízügyi igazgatási szervezetnek, a társulatok érdekképviseleti szervezetének, valamint a társulat azon tagjainak, akik a küldöttgyűlést kezdeményezték ki kell küldeni, és a területileg illetékes települési önkormányzat(ok)nál hirdetmény formájában is közzé kell tenni.
+(2) A napirendet tartalmazó írásbeli meghívót a küldöttgyűlés tervezett időpontja előtt legalább 8 nappal meg kell küldeni a küldöttgyűlés tagjainak, a területileg illetékes megyei, fővárosi kormányhivatal földművelésügyi igazgatóságának, a vízügyi igazgatási szervezetnek, a társulatok érdekképviseleti szervezetének, valamint a társulat azon tagjainak, akik a küldöttgyűlést kezdeményezték, továbbá a meghívót a területileg illetékes települési önkormányzat(ok)nál hirdetmény formájában is közzé kell tenni.
 
 26. § (1) A küldöttgyűlés akkor határozatképes, ha azon a küldöttgyűlés tagjainak több mint fele személyesen megjelenik, és a megjelent küldöttek a társulat működési területének több mint felét képviselik.
 
@@ -274,7 +274,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 - a) alapszabály módosítása;
 - b) a társulat megszüntetésének, szétválásának, egyesülésének, illetőleg a kiválás és a belépés engedélyezése;
-- c)
+- c) az egyéb támogatások jellegének és mértékének meghatározása;
 - d) a szervezeti és működési szabályzat elfogadása, módosítása;
 - e) a tisztségviselők megválasztása, beszámoltatása, visszahívása, felmentése, költségtérítésének és díjazásának megállapítása;
 - f) a társulat közfeladatainak éves ütemezése, valamint az ár- és belvízvédekezési tartalék mértékének meghatározása;
@@ -427,7 +427,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 40. § (1) A társulat felett a törvényességi felügyeletet a cégbíróság látja el.
 
-(2) A társulat közfeladatainak ellátása feletti szakmai felügyeletet a vízgazdálkodásért felelős miniszter látja el.
+(2) A társulat közfeladatainak ellátása feletti szakmai felügyeletet a vízgazdálkodásért felelős miniszter, az irányítása alatt álló, a társulat működési területe szerinti környezetvédelmi és vízügyi igazgatóság útján látja el.
 
 (3) A társulatok közös érdekeinek érvényesítését és védelmét az egyesülési jogról szóló törvény szerint működő országos, illetve régiós hatáskörű társulati érdekképviseleti szervezet látja el. A társulatok az érdekképviseleti szervezetnek fizetett hozzájárulást az egyéb költségeik között számolhatják el.
 
@@ -435,7 +435,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 41. § (1) A társulat az állam és az érintett települési önkormányzat költségvetési hozzájárulásából, egyéb támogatásokból, továbbá a vállalkozásból származó eredményéből végzi közcélú tevékenységét. A társulat közfeladataihoz történő állami vagy önkormányzati hozzájárulás mértékéről, folyósításának feltételeiről a vagyonkezelői, üzemeltetői, illetve használati szerződésben kell rendelkezni. Az állami tulajdonú társulati művek üzemeltetéséhez, fenntartásához az állam normatív támogatást biztosít, amelynek felső határa a tárgyévre megállapított közcélú érdekeltségi hozzájárulás hektárra megállapított összege és a társulat hektárban kifejezett működési területe szorzatának fele.
 
-(2) A normatív támogatás, a szerződésen alapuló állami és önkormányzati hozzájárulás a társulat tulajdonába kerül.
+(2) A normatív támogatás, a szerződésen alapuló állami és önkormányzati hozzájárulás, valamint az egyéb támogatás a társulat tulajdonába kerül.
 
 42. § (1) A társulat közfeladata ellátásához szükséges elkülönített vagyona és a vállalkozásaiból származó nyeresége a tagok között nem osztható fel.
 
@@ -445,7 +445,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 (4) A társulat elkülönített vagyonáról a küldöttgyűlés által jóváhagyott, tételes és évente aktualizált nyilvántartást köteles vezetni.
 
-43. § A társulat gazdasági tevékenységének elvégzésére munkaszervezetet működtethet. A munkaszervezet irányítását önálló hatáskörben az igazgató is elláthatja. A társulatnál foglalkoztatott munkavállalók jogaira és kötelezettségeire, valamint a munkaügyi kapcsolatokra a Munka Törvénykönyve rendelkezéseit kell alkalmazni.
+43. § A társulat gazdasági tevékenységének elvégzésére munkaszervezetet működtet a küldöttgyűlés határozatának megfelelően. A munkaszervezet irányítását önálló hatáskörben a szervezeti és működési szabályzatban meghatározott vezető látja el. A társulatnál foglalkoztatott munkavállalók jogaira és kötelezettségeire, valamint a munkaügyi kapcsolatokra a Munka Törvénykönyve rendelkezéseit kell alkalmazni.
 
 44. § A társulat a vállalkozási tevékenységből származó adózás előtti eredményét közfeladatai ellátására fordíthatja.
 
@@ -560,7 +560,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 - a) elhatározza a jogutód nélküli megszűnését (feloszlását);
 - b) a társulatot a bíróság felszámolási eljárás során megszünteti;
-- c) a cégbíróság megszűntnek nyilvánítja;
+- c) a 62. §-ban előírt kötelezettség teljesítésének felhívás ellenére történő elmaradása esetén a felügyeleti szerv kezdeményezésére a cégbíróság megszűntnek nyilvánítja;
 - d) a cégbíróság hivatalból elrendeli a törlését.
 
 (2) A társulat megszűnését követően az új társulat megalakulásig a társulat elkülönített vagyonát a vízgazdálkodásért felelős illetékes állami szervezet felelős őrzésbe veszi át és külön törvény szerint gondoskodik a társulati művek működtetéséről. Ez a szervezet a megszűnt társulat működési területén megalakuló új társulat(ok) részére az elkülönített vagyont térítésmentesen, területarányosan adja át a közfeladat ellátási kötelezettségével.
