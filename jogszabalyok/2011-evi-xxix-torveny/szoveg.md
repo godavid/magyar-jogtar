@@ -405,17 +405,69 @@ d) a földtani szerkezetek megismerése szénhidrogén, valamint energetikai és
 
 „(4) A pályázati kiírásnak részletes leírást kell adnia a pályázati eljárásról, továbbá a pályázat értékelési szempontjairól.”
 
-27–28. §
+27. § A VET. 9. §-a helyébe a következő rendelkezés lép:
 
-29. § (1)
+„9. § (1) A környezet és a természet védelme, a felhasználók ellátása, az elsődleges energiaforrások felhasználásának megtakarítása, valamint a felhasználható energiaforrások bővítése érdekében elő kell segíteni a megújuló energiaforrás, a hulladék, mint energiaforrás, valamint az olyan elsődleges energiaforrás felhasználását, amely a termálvíz kitermelése során a környezetbe kerülve nagyobb környezetterhelést okozna, mint amelyet az energetikai hasznosítása során annak felhasználása okoz (a továbbiakban együtt: támogatási célok).
+
+(2) A támogatási célok elérésének elősegítése érdekében e törvény és a felhatalmazása alapján kiadott külön jogszabály energiaforrásokra, termelési eljárásokra, az erőművi névleges teljesítőképességre, az energiaátalakítás hatásfokára, hatékonyságára, valamint az erőmű létesítésének időpontjára tekintettel differenciált, kötelező átvételi rendszert hoz létre.
+
+(3) A 11. § (1) bekezdés b) pontja szerinti kötelező átvétel hulladékból nyert energia esetén az előállított energiamennyiség 50%-ára, de legfeljebb a 11. § (4) bekezdésében meghatározott mértékig biztosítható.”
+
+28. § (1) A VET. 10. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[A 9. §-ban meghatározott kötelező átvételi rendszer részletes szabályainak kialakítása során a Kormány az alábbiakat veszi figyelembe:]
+
+„a) a támogatási célok elérésének elősegítésére létrehozott kötelező átvételi rendszernek biztosítania kell a szükséges hosszú távú kiszámíthatóságot, a fenntartható fejlődést és az energiapolitikai elvekkel való összhangot,”
+
+(2) A VET. 10. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A kötelező átvétel bázisárát és annak indexálási módját, a kötelező átvétel időtartamát és a kötelező átvétel maximális mennyiségét a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvételéről és átvételi áráról szóló kormányrendeletben meghatározott feltételekkel lehet módosítani, és ezen módosított bázisár, indexálási mód, időtartam és maximális mennyiség kizárólag arra az erőműre, illetve erőműegységre alkalmazandó, amelyik a módosítás hatálybalépését követően kezdte meg a termelést.”
+
+(3) A VET. 10. § (4) bekezdése helyébe a következő rendelkezés lép, és a § a következő (5) bekezdéssel egészül ki:
+
+„(4) Az átvételi kötelezettség alá eső villamos energia termelője a 13. § (1a) bekezdés a) pontjában meghatározott mérlegkörben történő értékesítés esetén az átviteli rendszerirányító üzletszabályzata szerinti mérlegköri szerződést köt, és az átviteli rendszerirányító által az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkörhöz csatlakozik.
+
+(5) Az átvételi kötelezettség alá eső villamos energia termelője és az átviteli rendszerirányító a kötelező átvétel feltételeinek az adott termelő vonatkozásában történő meghatározása érdekében az árra, a mennyiségre és a termelő besorolására irányadó előírásokkal összhangban szerződést köt. A szerződés a (4) bekezdés szerinti mérlegköri szerződéssel egybefoglalható.”
+
+29. § (1) A VET. 11. §-a helyébe a következő rendelkezés lép:
+
+„11. § (1) A 10. § szerinti szempontok alapján meghatározott kötelező átvétel történhet
+
+a) piaci áron vagy
+
+b) 10. § (1a) bekezdés szerinti kormányrendeletben meghatározott átvételi áron.
+
+(2) Az (1) bekezdés a) pontja szerinti, piaci áron történő kötelező átvétel részletszabályait, illetve az (1) bekezdés b) pontja szerinti kötelező átvétel keretében biztosított támogatás mértékét – beleértve a kötelező átvételi árat, a kötelező átvétel időtartamát, és a kötelező átvétel alá eső maximális mennyiséget –, a támogatásra jogosultak körét, a támogatás feltételeit és módját a 10. §-ban meghatározott keretek között kormányrendeletben kell megállapítani.
+
+(3) A kötelező átvétel keretében biztosított támogatás mértékét energiaforrásonként, termelési eljárásonként és az erőművi névleges teljesítőképességre való tekintettel a 10. § (1a) bekezdés szerinti kormányrendelet eltérő mértékben is megállapíthatja.
+
+(4) Az (1) bekezdés b) pontja szerinti kötelező átvétel keretében biztosított támogatás legfeljebb az egyes termelési eljárásokra jellemző beruházások indokolt megtérülésének mértékéig biztosítható. A kötelező átvételre való jogosultság lejártát követően a termelő az adott erőműegység vonatkozásában – új beruházás nélkül – a (1) bekezdés b) pontja szerinti kötelező átvételben nem részesülhet.
+
+(5) A kötelező átvétel időtartamának meghatározásakor csökkentő tényezőként kell figyelembe venni az egyéb módon nyújtott támogatásokat, és a környezetvédelmi termékdíjról szóló külön törvény szerinti hulladékhasznosítói szolgáltatásra vonatkozó megrendelést.
+
+(6) Az átviteli rendszerirányító a 10. § (5) bekezdés szerinti szerződés megkötéséről a szerződéskötést követő 30 napon belül tájékoztatja a Hivatalt. A Hivatal a szerződéskötést követő 1 éven belül a termelő vonatkozásában hatósági ellenőrzést folytat le.”
 
 (2) A VET. a következő 11/A. §-sal egészül ki:
 
 „11/A. § A Hivatal a Nemzeti Cselekvési Tervben foglalt, termelésre vonatkozó célok teljesülését legalább kétévente felülvizsgálja, erről nyilvános jelentést és a Kormány számára szükség szerint a 11. § (2) bekezdésben meghatározottakra kiterjedő javaslatot készít.”
 
-30. §
+30. § A VET. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-31. §
+„(1) A termelő kérelmére a Hivatal – figyelembe véve a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia kötelező átvételéről és átvételi áráról szóló kormányrendeletben, valamint a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló miniszteri rendeletben meghatározott feltételeket – az eredetigazolás kiállításával igazolja a megújuló energiaforrásból vagy hulladékból nyert energiával előállított villamos energia és a nagyhatékonyságú hasznos hőigényen alapuló kapcsolt hő- és villamosenergia-termelésből származó villamos energia mennyiségét.”
+
+31. § A VET 13. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1) Minden mérlegkörfelelős köteles az átvételi kötelezettség alá eső villamos energia szétosztásáról szóló miniszteri rendeletben foglaltaknak megfelelően a mérlegkörébe tartozó felhasználók részére értékesített villamos energia arányában átvenni az átvételi kötelezettség alá eső és az átviteli rendszerirányító által menetrend alapján átadott villamos energiát, valamint megfizetni az átvételi kötelezettség alá eső villamos energia ellenértékét az (1a) bekezdés c) pontja, valamint az átvételi kötelezettség alá eső villamos energia szétosztásáról szóló miniszteri rendeletben meghatározott részletes szabályok szerint, és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
+
+(1a) Az átviteli rendszerirányító a 9. §-ban meghatározottak végrehajtása érdekében jogosult és köteles
+
+a) az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott, a kereskedelmi szabályzatban meghatározott mérlegkör működtetésére, kiegyenlítésére,
+
+b) az átvételi kötelezettség alá eső összes villamosenergia-mennyiségből jogszabályi előírások szerint az (1) bekezdésben meghatározottak által menetrend alapján kötelezően átveendő villamos energia mennyiségét meghatározni és szétosztani, valamint az átvételi kötelezettség alá eső villamos energia szervezett villamosenergia-piacon értékesítendő részét meghatározni, és azt azon a szervezett villamosenergia-piacon értékesíteni, amelyben részesedéssel rendelkezik, és
+
+c) a kötelező átvétel alá eső villamos energia ellenértékét a szervezett villamosenergia-piacon értékesített kötelező átvétel alá eső villamos energia ellenértékével csökkentve a 13. § (1) bekezdés szerinti miniszteri rendeletben meghatározott részletes szabályok szerint elszámolni.
+
+(1b) Az (1a) bekezdés b) pontja szerinti szervezett villamosenergia-piacot működtető engedélyes közszolgáltatási kötelezettség keretében köteles az (1a) bekezdés b) pontjának megfelelően meghatározott villamos energia mennyiség értékesítése céljából kereskedésben történő részvételre az átviteli rendszerirányítóval szerződést kötni. A szervezett villamosenergia-piaci engedélyes e tevékenysége nem irányulhat haszonszerzésre.”
 
 32. § A VET. 14. §-a és 15. §-a helyébe a következő rendelkezések lépnek:
 
@@ -1649,7 +1701,7 @@ h) a villamosenergia-iparban fennálló, vagy eltöltött munkaviszonnyal össze
 
 104. § A VET. 152. §-a helyébe a következő rendelkezés lép, és a VET. a következő 153. §-sal egészül ki :
 
-„152. § (1) Az engedélyesek, az e törvény szerint nem engedélyköteles kiserőművek, a 2011. október 1-je előtt létesített nem engedélyköteles magánvezeték üzemeltetője, az integrált villamosenergia-ipari vállalkozások és az engedélyesek által a 94. § alapján kiszervezett tevékenységet végző személyek kötelesek a Hivatal részére megadni e törvényben valamint a külön jogszabályban meghatározott és a feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját a Hivatal határozza meg.
+„152. § (1) Az engedélyesek, az e törvény szerint nem engedélyköteles kiserőművek, a 2011. július 1-je előtt létesített nem engedélyköteles magánvezeték üzemeltetője, az integrált villamosenergia-ipari vállalkozások és az engedélyesek által a 94. § alapján kiszervezett tevékenységet végző személyek kötelesek a Hivatal részére megadni e törvényben valamint a külön jogszabályban meghatározott és a feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját a Hivatal határozza meg.
 
 (2) Az átviteli rendszerirányító, a termelő és a villamosenergia-kereskedő köteles az Európai Bizottság és az Ügynökség rendelkezésére bocsátani az átviteli rendszerirányító szétválasztási szabályoknak való megfelelésével kapcsolatban kért információkat.
 
@@ -1939,7 +1991,7 @@ a) rendszerhasználati vagy csatlakozási díjakat állapít meg,
 
 b) a kiegyenlítő energia meghatározásának módját és elszámolásának feltételeit hagyja jóvá,
 
-c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleértve a kapacitásallokálás és a szűk keresztmetszetek kezelésére vonatkozó eljárások jóváhagyását.”
+c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleértve a kapacitásallokálás és a szűk keresztmetszetek kezelésére vonatkozó eljárások jóváhagyását, vagy”
 
 113. § A VET. „A Hivatal eljárására vonatkozó szabályok” alcíme a következő 168/A. §-sal egészül ki:
 
@@ -1999,7 +2051,13 @@ c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleért
 
 [rendeletben állapítsa meg.]
 
-(6)
+(6) A VET. 170. § (1) bekezdés 29. pontja helyébe a következő rendelkezés lép:
+
+[Felhatalmazást kap a Kormány, hogy]
+
+„29. a megújuló energiaforrásból, valamint a hulladékból nyert energiával, továbbá a jogszabályban meghatározott egyéb módon termelt villamos energia felhasználását elősegítő kötelező átvételi rendszer részletes szabályait – különösen az átvételi kötelezettség alá eső villamos energia átvételi árát, a kötelező átvétel időtartamát és az egy erőműre vonatkozó kötelező átvétel alá eső maximális villamos energia mennyiséget – a kötelező átvételi rendszer keretében végrehajtandó elszámolások részletes szabályait, az átvételi kötelezettség alá eső villamos energia befogadásának és kötelező átvételének részletes szabályait, valamint az egyes termelési eljárások, különösen a biomasszával termelt villamos energia kötelező átvételéhez szükséges minimális hatásfokot,”
+
+[rendeletben állapítsa meg.]
 
 (7) A VET. 170. § (1) bekezdés 31. pontja helyébe a következő rendelkezés lép:
 
@@ -2101,7 +2159,7 @@ c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleért
 
 116. § A VET 173. §-a a következő (4) bekezdéssel egészül ki:
 
-„(4) A hálózati engedélyes a 124. § (2) bekezdés szerinti jogokat érvényesítheti 2011. október 1-jét megelőzően kiadott jogerős vezetékjoga, vagy jogerős üzemeltetési engedélye alapján.”
+„(4) A hálózati engedélyes a 124. § (2) bekezdés szerinti jogokat érvényesítheti az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény hatálybalépését megelőzően kiadott jogerős vezetékjoga, vagy jogerős üzemeltetési engedélye alapján.”
 
 117. § (1) A VET 174. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
 
@@ -2125,11 +2183,13 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 119. § (1) A VET 176. § (3) bekezdés helyébe a következő rendelkezés lép, és a § a következő (3a) bekezdéssel egészül ki:
 
-„(3) Azon felhasználók esetében, akik 2011. október 1-jén írásba foglaltan nem rendelkeznek külön hálózat használati és villamosenergia-vásárlási szerződéssel, az érintett engedélyesek és felhasználók – a Vhr. szerinti ütemezéssel – 2014. december 31-ig kötelesek az e törvény és a Vhr. rendelkezései szerinti új szerződéseket írásba foglalni.
+„(3) Azon felhasználók esetében, akik 2011. július 1-jén írásba foglaltan nem rendelkeznek külön hálózat használati és villamosenergia-vásárlási szerződéssel, az érintett engedélyesek és felhasználók – a Vhr. szerinti ütemezéssel – 2014. december 31-ig kötelesek az e törvény és a Vhr. rendelkezései szerinti új szerződéseket írásba foglalni.
 
 (3a) A szerződéseket az érintett engedélyes igazolható módon eljuttatja minden, addig az időpontig írásba foglalt szerződéssel nem rendelkező felhasználó részére, és ezzel egyidejűleg tájékoztatja a felhasználót az írásba foglalás elmaradásának jogkövetkezményeiről. Az e és a (3) bekezdésben foglalt előírások betartását a Hivatal a Vhr.-ben meghatározott módon és gyakorisággal ellenőrzi, és nem teljesítés esetén a 96. § alapján bírságot szabhat ki.”
 
-(2)
+(2) A VET. 176. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A hálózati engedélyes az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított 43. § (1) bekezdés szerinti, a villamosenergia-fogyasztásra vonatkozó számlázás alapjául szolgáló mérési adatok gyűjtésének és az elszámolás alapját képező mennyiségek egyezőségének, valamint az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított 44. § szerinti kezdő és záró mérőállásra vonatkozó tájékoztatási kötelezettségének legkésőbb 2011. július 1-jétől köteles eleget tenni.”
 
 120. § A VET. 177. §-a helyébe a következő rendelkezés lép: „177. § (1) Amennyiben a felhasználó az átviteli rendszerre 2011. július 1-jét megelőzően csatlakozott, az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 27. § (3b) bekezdés szerinti feszültségszint korlátozás a csatlakozási pont tekintetében nem alkalmazható.
 
@@ -2153,7 +2213,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 122. § A VET. 178. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-„(3) A 2011. október 1-jét megelőzően indult engedélyezési eljárásokat e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított rendelkezései szerint kell lefolytatni, azzal, hogy a Hivatal nem kérheti a már rendelkezésére álló iratok ismételten történő benyújtását.”
+„(3) A 2011. július 1-jét megelőzően indult engedélyezési eljárásokat e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított rendelkezései szerint kell lefolytatni, azzal, hogy a Hivatal nem kérheti a már rendelkezésére álló iratok ismételten történő benyújtását.”
 
 123. § (1) A VET. 178/A. §-a helyébe a következő rendelkezés lép:
 
@@ -2227,7 +2287,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.”
 
 (9) A VET. 46. § (2) bekezdésében a „jogok” szövegrész helyébe a „jogok illetik” szöveg, 47. § (10) bekezdésében a „A hálózati engedélyes” szövegrész helyébe az „Az elosztó” szöveg, a „haladéktalanul” szövegrész helyébe a „24 órán belül” szöveg, 48. §-ban az „egyetemes szolgáltatót” szövegrész helyébe az „egyetemes szolgáltatót e törvény szerinti feltételekkel” szöveg, 51. § (1) bekezdésében az „ezáltal a felhasználók” szövegrész helyébe az „ezáltal az érintett egyetemes szolgáltatásra jogosult felhasználók” szöveg, az „érintett felhasználók” szövegrész helyébe az „érintett egyetemes szolgáltatásra jogosult felhasználók” szöveg, 52. § (2) bekezdésében a „gazdálkodó szervezet vezetője” szövegrész helyébe a „gazdálkodó szervezet” szöveg lép.
 
-(10) A VET. 57. § (1) bekezdésében a „159. § s) pontja” szövegrész helyébe a „159. § (5) bekezdés” szöveg, 57. § (2) bekezdésében az „a 143. § (5) és (6) bekezdésében” szövegrész helyébe az „a 143/A. § (2) és (3) bekezdésében” szöveg, 62. § (3) bekezdésében az „a 143. § (5) és (6) bekezdésében” szövegrész helyébe az „a 143/A. § (2)–(3) bekezdésében” szöveg, 73. § (2) bekezdésében a „szerződést és” szövegrész helyébe a „szerződést vagy” szöveg, 73. § (2) bekezdés a) pontjában az „a 143. § (4)–(6) bekezdésében,” szövegrész helyébe a „143/A. § (2)–(3) bekezdésében,” szöveg, 73. § (5) bekezdésében az „a szerződés felmondására.” szövegrész helyébe az „a szerződést a 62. § (4) bekezdése szerint felmondani.” szöveg, 73. § (6) bekezdésében a „szerződést.” szövegrész helyébe a „szerződést a 62. § (4) bekezdése szerint.” szöveg lép.
+(10)
 
 (11) A VET. „50 MW, és ezt meghaladó teljesítőképességű erőmű létesítésére vonatkozó engedély” alcímében a „teljesítőképességű” szövegrész helyébe a „névleges teljesítőképességű” szöveg lép.
 
@@ -2239,7 +2299,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.”
 
 (15) A VET. „50 MW és ezt meghaladó teljesítőképességű erőműre vonatkozó működési engedély” alcímében a „teljesítőképességű” szövegrész helyébe a „névleges teljesítőképességű” szöveg lép.
 
-(16) A VET. 85. § (4) bekezdésében a „159. § n) pontjában,” szövegrész helyébe a „159. § (1) bekezdés 9. pontjában,” szöveg, 86. § (5) bekezdésében a „159. § n) pontjában,” szövegrész helyébe a „159. § (1) bekezdés 9. pontjában,” szöveg, 89. § (2) bekezdésében a „jogi személyiséggel rendelkező gazdasági társaság” szövegrész helyébe a „részvénytársaság” szöveg, 92. § (1) bekezdésében az „előzetes jóváhagyó határozata” szövegrész helyébe a „hozzájáruló határozata is” szöveg, a „bejegyzésre irányuló” szövegrész helyébe a „bejegyzésre (változásbejegyzésére) irányuló” szöveg, 92. § (3) bekezdésében az „előzetes jóváhagyó” szövegrész helyébe a „hozzájáruló” szöveg, 92. § (4) bekezdésében az „uralmi szerződést érvényesen nem lehet kötni, és” szövegrész helyébe az „uralmi szerződés nem köthető, és az ilyen szerződés semmis, továbbá” szöveg, 93. § (3) bekezdésében az „Az (1)–(2) bekezdésében” szövegrész helyébe az „Az (1)–(2a) bekezdésében” szöveg, a „földgázellátásról szóló törvény” szövegrész helyébe a „Get.” szöveg, 93. § (4) bekezdésében az „Az (2) bekezdés” szövegrész helyébe az „Az (1) bekezdés szerinti bejelentés nem alkalmazandó a közvetlen vezeték és magánvezeték engedélyesére, továbbá a (2) bekezdés” szöveg, 93. § (4) bekezdés c) pontjában az „esetében.” szövegrész helyébe az „esetében vagy” szöveg, 95. § (2) bekezdésében a „megtagadhatja,” szövegrész helyébe a „megtagadja,” szöveg, 96. § (1) bekezdésében az „az 1228/2003/EK tanácsi” szövegrészek helyébe az „a 714/2009/EK” szöveg, az „iránymutatásokban,” szövegrész helyébe az „általános hatályú közvetlenül alkalmazandó uniós jogi aktusban, uniós jogi rendelkezésben, az Ügynökség az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i 713/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 713/2009/EK rendelet) alapján kiadott kötelező erejű határozatában,” szöveg, az „üzletszabályzatokban, illetőleg” szövegrész helyébe az „üzletszabályzatában, vagy” szöveg lép.
+(16)
 
 (17) A VET. 131. § (1) bekezdésében az „A beruházó” szövegrész helyébe az „Az építtető” szöveg, 131. § (2) bekezdésében az „a beruházó” szövegrész helyébe az „az építtető” szöveg, 132. § (1) bekezdésében a „beruházó vagy a termelői vezeték engedélyese” szövegrész helyébe az „az építtető vagy a termelői vezeték engedélyese” szöveg, a „vezetékjogot” szövegrész helyébe az „előmunkálati- és vezetékjogot” szöveg, az „A beruházó” szövegrész helyébe az „Az építtető” szöveg, az „a vezetékjogi engedély alapján a 122. § (2) bekezdésében,” szövegrész helyébe az „az előmunkálati jog alapján a 122. § (2) bekezdésében és vezetékjogi engedély alapján” szöveg, 132. § (2) bekezdésében az „A beruházó,” szövegrész helyébe az „Az (1) bekezdésben említett vezetékek kivételével az építtető,” szöveg, 137. §-ában az „és a célvezeték” szövegrész helyébe az „és a csatlakozó berendezés” szöveg, 141. § (8) bekezdésében a „jogszabály megsértésével” szövegrész helyébe a „hatósági árat megállapító Hivatali határozat vagy jogszabály megsértésével” szöveg, 141. § (9) bekezdésében a „142. § (11) bekezdése, illetve 143. § (3) bekezdése” szövegrész helyébe a „142/B. § (1) bekezdése és 143. § (6) bekezdése” szöveg, a „143. § (1) bekezdése” szövegrész helyébe a „143. § (3)–(3a) bekezdése” szöveg, 143. § (2) bekezdésében a „hatékonyan működő” szövegrész helyébe a „villamosenergia-piaci árak, továbbá a hatékonyan működő” szöveg, az „és összehasonlító” szövegrész helyébe a „valamint összehasonlító” szöveg lép.
 
@@ -2249,27 +2309,21 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.”
 
 (20) A VET. 7. § (2) bekezdésében az „a Hivatal által – az átviteli rendszer rendszerirányító közreműködésével – külön jogszabályban” szövegrész helyébe az „a szélerőmű kapacitás létesítésére irányuló pályázati kiírás feltételeiről, a pályázat minimális tartalmi követelményeiről, valamint a pályázati eljárás szabályairól szóló miniszteri rendeletben” szöveg, 171. § (14) bekezdésében az „az egyes időszakonként a bányavállalkozó széntermeléssel összefüggő indokolt folyó költségének és ráfordításának és a szén értékesítéséből, illetve felhasználásából származó bevételét meghaladó részének figyelembevételével – a Tanács szénipar részére nyújtott állami támogatásról szóló 2002. július 23-i 1407/2002/EK tanácsi rendelettel” szövegrész helyébe a „– a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU európai tanácsi határozattal” szöveg lép.
 
-(21)
+(21) A VET. 10. § (1) bekezdés c) pontjában a „mennyiségének” szövegrész helyébe az „az átvételi árhoz tartozó maximális mennyiségének” szöveg, a „megállapításakor” szövegrész helyébe az „előíráskor” szöveg, az „átlagos” szövegrész helyébe az „indokolt” szöveg, a „villamosenergia-rendszer működésére” szövegrész helyébe a „villamosenergia-rendszer szabályozhatóságára, működésére” szöveg, 10. § (1) bekezdés e) pontjában a „c) pont alapján meghatározott” szövegrész helyébe a „c) ponttal összhangban előírt” szöveg, 10. § (2) bekezdés c) pontjában az „az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény” szövegrész helyébe az „az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény” szöveg, a „bármely, vagy” szövegrész helyébe a „faválaszték vagy” szöveg lép.
 
 (22) A VET. 171. § (13) bekezdésében a „2010.” szövegrész helyébe „2018.” szöveg lép.
 
 (23) A VET. 171. § (5) bekezdésében a „ha a távhőszolgáltatásról szóló 2005. évi XVIII. törvény 57. § (2)–(3) bekezdésében” szövegrész helyébe a „ha a távhőszolgáltatásról szóló 2005. évi XVIII. törvénynek a 2011. március 1-jén hatályban lévő 57. § (2)–(3) bekezdésében” szöveg, 171. § (5a) bekezdésében a „2012. december 31-ig” szövegrész helyébe a „2011. június 30-ig” szöveg lép.
 
-(24) A VET. 58. § (1) bekezdésében a „szerint” szövegrész helyébe a „szerint írásban” szöveg, 59. § (4) bekezdés a) pontjában az „és” szövegrész helyébe a „vagy” szöveg, 59. § (7) bekezdésében a „6 hónapon” szövegrész helyébe a „3 hónapon” szöveg, 61. § (1) bekezdésében az „útján” szövegrész helyébe az „útján, valamint a szervezett villamosenergia-piacon írásban” szöveg, 62. § (1) bekezdésében az „az egyetemes szolgáltatóval vagy a kereskedővel” szövegrész helyébe az „a villamosenergia-kereskedővel” szöveg, 62. § (1) bekezdés f) pontjában a „szerződés megszüntetésének” szövegrész helyébe a „szerződés meghosszabbításának, megszüntetésének” szöveg, 62. § (2) bekezdés b) pontjában a „közzétenni,” szövegrész helyébe a „közzétenni, és” szöveg, 62. § (7) bekezdésében a „6 hónapon” szövegrész helyébe a „3 hónapon” szöveg, 64. § (1) bekezdésében az „Az egyetemes szolgáltatásra jogosult,” szövegrész helyébe az „A” szöveg, 64. § (6) bekezdésében az „aki a (2) és” szövegrész helyébe az „aki a (3) és” szöveg, 64. § (7) bekezdésében a „felszerelésének költségei” szövegrész helyébe a „felszerelésének és a fogyasztásmérő bekötéséhez szükséges mérőhely-átalakítás költsége” szöveg, 64. § (8) bekezdésében a „védendő fogyasztó” szövegrészek helyébe a „szociálisan rászoruló fogyasztó” szöveg, 65. § (5) bekezdésében az „a 64. § (2) bekezdésére,” szövegrész helyébe az „a 64. § (3)” szöveg, az „a (4)–(5) bekezdés” szövegrész helyébe az „a (2), (4)–(5) bekezdés” szöveg, 65. § (6) bekezdésében az „orvosi szakvéleménnyel igazolhatóan” szövegrész helyébe a „szakorvosi véleményen alapuló, a Vhr. szerinti igazolás alapján” szöveg, 67. § b) pontjában az „a villamosenergia-kereskedelemre,” szövegrész helyébe „a villamosenergia-kereskedelemre, az elszámolási-mérési adatok gyűjtésének, feldolgozásának és szolgáltatásának minimális tartalmi elemeire,” szöveg, 72. § (3) bekezdésében az „A felhasználókkal” szövegrész helyébe az „A (4a) bekezdésben foglaltak szerinti eltéréssel a felhasználókkal” szöveg, az „egyébként a felhasználók lényeges jogos érdekeit sérti.” szövegrész helyébe a „lényeges jogos érdeket sért.” szöveg, 72. § (5) bekezdésében a „megfelel a jogszabályokban,” szövegrész helyébe a „megfelel az e törvényben és a felhatalmazása alapján kiadott jogszabályokban,” szöveg, 74. § (1) bekezdésében a „teljesítőképességű” szövegrészek helyébe a „névleges teljesítőképességű” szöveg, a „teljesítményének” szövegrész helyébe a „névleges teljesítőképességének” szöveg, 79. §-ában a „törvény alapján” szövegrész helyébe a „törvény (a továbbiakban: Get.) alapján” szöveg, 80. § (1) bekezdésében a „teljesítőképességű” szövegrész helyébe a „névleges teljesítőképesség” szöveg, 80. § (3) és (4) bekezdésében a „teljesítőképességű” szövegrészek helyébe a „névleges teljesítőképességű” szöveg lép.
-
-(25) A VET. 83. § (1) bekezdésében az „A termelő” szövegrész helyébe az „A termelői engedélyes” szöveg, a „termelni, felhasználni” szövegrész helyébe a „termelni” szöveg, 85. § (4) bekezdésében az „az egyszerűsített engedélyben” szövegrész helyébe az „a magánvezeték létesítési engedélyben” szöveg, 86. § (4) bekezdésében az „átviteli rendszerirányítónak.” szövegrész helyébe az „átviteli rendszerirányítónak és a csatlakozás biztosítására jogosult elosztónak.” szöveg, a 86. § (5) bekezdés b) pontjában az „üzemeltetője” szövegrész helyébe az „engedélyese” szöveg, 88. § (3) bekezdésében a „valamint” szövegrész helyébe a „valamint a feltételek fennállását hitelt érdemlően igazolja, és a Magyar Köztársaság területén irodát tart fenn, amelynek elérhetőségét a Hivatal részére folyamatosan biztosítja.” szöveg, 96. § (2) bekezdésében a „nem engedélyköteles magánvezetéken” szövegrész helyébe a „2011. október 1-je előtt létesített nem engedélyköteles magánvezetéken és a 39. § (1) bekezdés b) és c) pontjában meghatározott célokból egy épületen belül létesített magánvezetéken” szöveg lép.
-
-126. § (1) Hatályát veszti a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET.) 3. § 3. pontja, 3. § 37. pontja, 3. § 64. pontja, 6. § (2)–(3) bekezdése, 7. § (3) bekezdése, 10. § (1) bekezdés a) pontjában a „ , valamint egyéb elsődleges energiaforrás felhasználásával kapcsoltan termelt villamos energia” szövegrész, 10. § (1) bekezdés d) pontja, 10. § (2) bekezdés a) és b) pontja, 11. § (3) bekezdésében az „a kapcsoltan termelt hő felhasználási céljától függően és” szövegrész, 12. § (2) bekezdésében a „kapcsoltan villamos energiát termelő az általa termelt hőt nem, illetve nem a külön jogszabályban meghatározott módon hasznosítja vagy” szövegrész, 16. § k) és l) pontja, a 27. § (4) bekezdés utolsó mondata, 59. § (8) bekezdése, 89. § (3) bekezdés d) pontja, 92. § (3) bekezdésében a „ , továbbá a (2) bekezdés szerinti korlátozás nem alkalmazandó a következő esetekben:” szövegrész, 106. §-a, 140. § (4) bekezdése, 141. § (1)–(2) bekezdése, 143/A. § (3) bekezdésében a „– a 62. § (2) bekezdésének c) pontja szerint értesítésen túlmenően –” szövegrész, 151. § (1) bekezdésében az „(a továbbiakban együtt: adatkezelő) a jelen törvény szerint” szövegrész, 170. § (1) bekezdés 29. pontjában az „a kapcsoltan, illetve” szövegrész, a „kapcsoltan vagy” szövegrész és a „továbbá a kapcsoltan termelt villamos energia esetén a villamos energia hasznosításának módját,” szövegrész, 171. § (7) bekezdése, 181. § (3) és (4) bekezdése, 183. §-a.
+126. § (1)
 
 (2) Hatályát veszti a VET. 170. § (1) bekezdés 25. pontjában a „közérdekű” szövegrész, a „körét és a” szövegrész, 170. § (2) bekezdés 3. pontja, 170. § (2) bekezdés 14. pontja, 170. § (2) bekezdés 19. pont d) alpontja.
 
-(3)
+(3) Hatályát veszti a VET. 171. § (2) bekezdésében az „és a (3)–(4) bekezdés szerint meghatározott” szövegrész, 171. § (3) és (4) bekezdése.
 
 (4) Hatályát veszti a VET. 171. § (5)–(5c) és (5e) bekezdése.
 
 (5) Hatályát veszti a VET. 171. § (5d) bekezdése.
-
-(6) Hatályát veszti a VET. 61. § (2) bekezdése, 62. § (2) bekezdés a) pontja, 62. § (5)–(6) bekezdése, 67. § b) pontjában az „és a szervezett villamosenergia-piac működtetésére” szövegrész, 69. §-ában a „technikai” szövegrész és „közös” szövegrész, 70. § (5) bekezdése, 70. § (6) bekezdésében a „jogszabályi” és az „egyes felhasználókkal szemben” szövegrész, 74. § (1) bekezdés a) pontjában a „szüneteltetése” szövegrész, 74. § (2) bekezdése, 85. § (1) bekezdése, 85. § (3) bekezdése, 86. § (1) bekezdése, 86. § (5) bekezdésében az „az azon ellátott vételező kérelmére, az e bekezdés c) pontja szerinti esetben hivatalból magánvezetékké, illetve” szövegrész, 86. § (5) bekezdés c) pontja, 88. § (3) bekezdés a) és b) pontja, 88. § (3) bekezdés d) pontja, 88. § (4) bekezdése, 90. § (2) bekezdésében az „a 178. § (1) bekezdés c) pontjában és (7) bekezdésében meghatározott kérelmezőnek, valamint” szövegrész, 125. § (2) bekezdése, 126. § (2) bekezdése, 128. § (2) bekezdés utolsó mondata, 131. § (3) bekezdése, 132. § (2) bekezdésében az „az (1) bekezdésben nem említett termelői vezeték,” szövegrész, 178. § (1), (4) és (5) bekezdése, 178. § (7) bekezdése.
 
 #### 3. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
@@ -3799,7 +3853,7 @@ b) az Európai Parlament és a Tanács a villamos energia határokon keresztül 
 
 210. § A Get. 139. § (4) bekezdés helyébe a következő rendelkezés lép, egyidejűleg a § a következő (4a)–(4c) bekezdéssel egészül ki:
 
-„(4) Azon felhasználók esetében, akik 2011. október 1-jén írásba foglaltan nem rendelkeznek külön elosztóhálózat-használati és földgáz-kereskedelmi vagy egyetemes szolgáltatási szerződéssel, az érintett engedélyesek és felhasználók – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti ütemezéssel – 2016. július 1-jéig kötelesek az e törvény és a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet rendelkezései szerinti új szerződéseket írásba foglalni.
+„(4) Azon felhasználók esetében, akik 2011. július 1-jén írásba foglaltan nem rendelkeznek külön elosztóhálózat-használati és földgáz-kereskedelmi vagy egyetemes szolgáltatási szerződéssel, az érintett engedélyesek és felhasználók – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti ütemezéssel – 2016. július 1-jéig kötelesek az e törvény és a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet rendelkezései szerinti új szerződéseket írásba foglalni.
 
 (4a) A (4) bekezdés szerint megkötendő szerződéssel érintett jogviszonyra – a szerződés megkötéséig – e törvény és a végrehajtására kiadott rendeletek, a földgázelosztási szabályzatok és az érintett engedélyesek üzletszabályzatainak a szerződések tartalmát megállapító rendelkezéseit úgy kell alkalmazni, mintha azok a felek közötti szerződéses megállapodás részét képeznék.
 
@@ -3871,7 +3925,7 @@ b) az Európai Parlament és a Tanács a villamos energia határokon keresztül 
 
 216. § A Get. 144. §-a helyébe a következő rendelkezés lép:
 
-„144. § A szállítási rendszerüzemeltető és a földgázelosztó e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított 100. § (2) bekezdés szerinti, a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó – fogyasztási adatok gyűjtésének, az átszámítások és korrekciók elvégzésének és továbbításának legkésőbb 2011. október 1-jétől köteles eleget tenni.”
+„144. § A szállítási rendszerüzemeltető és a földgázelosztó e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított 100. § (2) bekezdés szerinti, a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó – fogyasztási adatok gyűjtésének, az átszámítások és korrekciók elvégzésének és továbbításának legkésőbb 2011. július 1-jétől köteles eleget tenni.”
 
 217. § A Get. 146/A. §-a helyébe a következő rendelkezés lép:
 
@@ -3915,15 +3969,13 @@ b) az Európai Parlament és a Tanács a villamos energia határokon keresztül 
 
 (12) A Get. 122. § (3) bekezdésében az „előzetes jóváhagyását” szövegrész helyébe „hozzájárulását” szöveg, 122. § (4) bekezdésben az „a rendszerirányítói” szövegrész helyébe az „az egyetemes szolgáltatói” szöveg lép.
 
-(13) A Get. 124. § (1) bekezdésében a „jóváhagyása” szövegrész helyébe az „előzetes hozzájáruló határozata” szöveg, 125. § (4) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1)–(1b) bekezdésben” szöveg, 125. § (6) bekezdésében az „adatok kezelése” szövegrész helyébe az „adatok megőrzése, kezelése” szöveg, 125. § (8) bekezdésében a „rendszerhasználók” szövegrész helyébe a „rendszerhasználók és a rendszerüzemeltetők” szöveg, 125. § (9) bekezdésben a „földgázszállító” szövegrész helyébe a „szállítási rendszerüzemeltető” szövegrész, 125. § (11)–(12) bekezdésekben a „rendszerirányító” szövegrészek helyébe a „szállítási rendszerirányító” szöveg, 125. § (14) bekezdésében a „szállítási, a tárolási és az elosztói rendszerüzemeltető” szövegrész helyébe a „szállítási rendszerüzemeltető, a földgáztárolói engedélyes és a földgázelosztó” szöveg, 127. § n) pontjában az „eljár a földgázkereskedővel” szövegrész helyébe a „dönt az engedélyesekkel” szöveg, 127. § p) pontjában a „részesedésszerzést, amelynek” szövegrész helyébe a „jogügyletek végrehajtását, amelyek” szöveg, az „a földgázszállító, a rendszerirányító, illetve azok” szövegrész helyébe a „szállítási rendszerüzemeltető vagy annak” szöveg lép.
+(13) A Get. 124. § (1) bekezdésében a „jóváhagyása” szövegrész helyébe az „előzetes hozzájáruló határozata” szöveg, a „más személy általi végzéséhez” szövegrész helyébe a „az engedélyes kapcsolt vállalkozása általi végzéséhez” szöveg, a „vagyoni értékű jogok más személy részére” szövegrész helyébe a „vagyoni értékű jogoknak az engedélyes kapcsolt vállalkozása részére” szöveg, 125. § (4) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1)–(1b) bekezdésben” szöveg, 125. § (6) bekezdésében az „adatok kezelése” szövegrész helyébe az „adatok megőrzése, kezelése” szöveg, 125. § (8) bekezdésében a „rendszerhasználók” szövegrész helyébe a „rendszerhasználók és a rendszerüzemeltetők” szöveg, 125. § (9) bekezdésben a „földgázszállító” szövegrész helyébe a „szállítási rendszerüzemeltető” szövegrész, 125. § (11)–(12) bekezdésekben a „rendszerirányító” szövegrészek helyébe a „szállítási rendszerirányító” szöveg, 125. § (14) bekezdésében a „szállítási, a tárolási és az elosztói rendszerüzemeltető” szövegrész helyébe a „szállítási rendszerüzemeltető, a földgáztárolói engedélyes és a földgázelosztó” szöveg, 127. § n) pontjában az „eljár a földgázkereskedővel” szövegrész helyébe a „dönt az engedélyesekkel” szöveg, 127. § p) pontjában a „részesedésszerzést, amelynek” szövegrész helyébe a „jogügyletek végrehajtását, amelyek” szöveg, az „a földgázszállító, a rendszerirányító, illetve azok” szövegrész helyébe a „szállítási rendszerüzemeltető vagy annak” szöveg lép.
 
 (14) A Get. 127. § r) pontjában a „rendszerirányító” szövegrészek helyébe a „szállítási rendszerirányító” szöveg, 132. § 13. pontjában a „földgázkészlet biztosítására” szövegrész helyébe a „földgázkészlet mértékére és biztosítására” szöveg, 139. § (1) bekezdésében a „2010. július 1-jéig” szövegrész helyébe a „2016. július 1-jéig” szöveg, 141/A. § (1)–(3) bekezdéseiben és a 141/B. § (1)–(2) és (9)–(10) bekezdéseiben a „2011. június 30.” szövegrész helyébe a „2012. június 30.” szöveg, a 141/A. § (13) bekezdésében „Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló rendeletben (a továbbiakban: Felajánlási rendelet)” szövegrész helyébe a „A Felajánlási rendeletben” szöveg, a 141/B. § (9) bekezdésében a „január 1-jéig” szövegrész helyébe a „január 1-jéig” szöveg, 143. § (1), (2), és (4) bekezdéseiben a „rendszerirányító” szövegrész helyébe a „szállítási rendszerirányító” szöveg, 143. § (4) bekezdésében a „rendszerirányítónak” szövegrész helyébe a „szállítási rendszerirányító” szöveg, 143. § (5) és (6) bekezdéseiben a „földgázszállító” szövegrészek helyébe a „szállítási rendszerüzemeltető” szöveg, 143. § (7) bekezdésében a „rendszerirányítóval” szövegrész helyébe a „szállítási rendszerirányítóval” szöveg, a „rendszerirányítási díj” szövegrész helyébe a „szállítási rendszerüzemeltetési díj” szövegrész lép.
 
-220. § (1) Hatályát veszti a Get. 3. § 9. és 71. pontja, 29. § (1) bekezdése, 35. § b)–c) pontja, 38. § (1)–(2) bekezdése, 66. § (7) bekezdése, 104. § (1) bekezdése, 114. § (1) bekezdés a) pontja, 133. § (1) bekezdés 7. pontja, 135. § (1) bekezdése, 140. § (1)–(3) és az (5)–(6) bekezdései, 141. § (8) bekezdése, 143. § (8) bekezdése, 145. § (1) és (3)–(4) bekezdései, 148-158. §-a.
+220. § (1)
 
 (2) Hatályát veszti a Get. 15. §-ában az „a rendszerirányítóval” szövegrész, 36. § (1) bekezdés e) pontjában az „a szolgáltatás díját, valamint” szövegrész, 113. § (3) bekezdésben az „az engedélyessel és a rendszerhasználókkal történő egyeztetés mellett, annak eredménytelensége esetén” szövegrész, valamint 125. § (10) bekezdésében az „a rendszerirányító és” szövegrész.
-
-(3) Hatályát veszti a Get. 37. §-a.
 
 #### 4. Egyéb törvények módosítása
 
@@ -4311,15 +4363,13 @@ f) az engedélyes és az értékesítő által a Hivatal részére teljesítend�
 
 (3) E törvény 1–16. §-a és 18. §-a és 20. §-a 2011. június 25-én lép hatályba.
 
-(4) E törvény 22. § (2)–(3), (6), (10), (13), (15)–(16) és (21) bekezdése, 23. §, 25–26. §-a, 29. § (2) bekezdése, 32–39. §-a, 41–47. § (1) bekezdése, 49. §-a, 51–52. §-a, 53. § (2)–(3) bekezdése, 54–55. §-a, 56. § (1) bekezdése, 57–58. §, 60–61. §-a, 64. § (6) bekezdése, 65. § (1) bekezdése, 69. § (3) bekezdése, 73. § (2) bekezdése, 75–77. §-a, 82. § (1) bekezdése, 84. § (2) bekezdése, 97. §, 101. § (2) bekezdése, 103–107. §-a, 109–112. § (2) bekezdése, 112. § (5) bekezdése, 113. §-a, 118. §-a, 120–121. §-a, 123. § (2) bekezdése, 124–125. § (10), (16) és (18) bekezdése, 126. § (1) bekezdése, továbbá 131. § (2) bekezdése, 134. § (2) bekezdése, 138. §, 141. §, 150. §, 154. §, 162–167. §, 176. §, 178–184. §, 190–191. §, 193–194. § (2) bekezdése, 195–199. §, 200. § (2) és (3) bekezdése, 201. §, 204. §, 207. §, 208. §, 212. §, 214. §, 216. §-a, 217. §-a, 218. §-a, 220. § (3) bekezdése, és 223. § (7) bekezdése 2011. július 1-jén lép hatályba.
-
-(4a) E törvény 22. § (1), (4)–(5), (9), (12), (14), (17) és (19) bekezdése, 24. §-a, 40. §-a, 47. § (2) bekezdése, 50. §-a, 53. § (1) bekezdése, 56. § (2) bekezdése, 62. § (2) bekezdése, 63–64. § (5) bekezdése, 65. § (2) bekezdése, 66–69. § (2) bekezdése, 71–73. § (1) bekezdése, 78. §-a, 80–81. §, 82. § (2) bekezdése, 88–96. §-a, 112. § (4) bekezdése, 116. §-a, 117. § (1) bekezdése, 119. §, 122. §-a, 125. § (11)–(15), (17) és (24)–(25) bekezdése, 126. § (6) bekezdése, továbbá 127. §-a, 128. § (2) és (4) bekezdése, 129. § (1)–(13), (16)–(19) és (21)–(23) bekezdése, 131. § (1) bekezdése, 132–134. § (1) bekezdése, 135–137. §-a, 139–140. §-a, 142–145. §-a, 147–149. §-a, 151–153. §-a, 155–161. §-a, 168–175. §-a, 177. §-a, 185-187. § (2) bekezdése, 189. §-a, 210. §-a és 220. § (1) és (2) bekezdése 2011. október 1-jén lép hatályba.
+(4) E törvény 22. § (1)–(6), (9)–(10), (12)–(17), (19) és (21) bekezdése, 23–26. §-a, 29. § (2) bekezdése, 32–61. §-a, 62. § (2) bekezdése, 63–73. §-a, 75–78. §-a, 80–82. § (2) bekezdése, 84. § (2) bekezdése, 88–101. § (2) bekezdése, 103–107. §-a, 109–112. § (2) bekezdése, 112. § (4) és (5) bekezdése, 113. §-a, 116. §-a, 117. § (1) bekezdése, 118–122. §-a, 123. § (2) bekezdése, 124–125. § (18) bekezdése, 126. § (1) bekezdése, továbbá 127. §-a, 128. § (2) és (4) bekezdése, 129. § (1)–(13), (16)–(19) és (21)–(23) bekezdése, 131–187. § (2) bekezdése, 188–191. §-a, 193–199. §-a, 200. § (2)–(3) bekezdése, 201. §-a, 204. §-a, 207–208. §-a, 210. §-a, 212. §-a, 214. §-a, valamint 216–219. § (13) bekezdése, 220. §-a és 223. § (7) bekezdése 2011. július 1-jén lép hatályba.
 
 (5) E törvény 74. §-a, 101. § (3) bekezdése és 126. § (4) bekezdése 2012. január 1-jén lép hatályba.
 
 (6) E törvény 108. § (2) bekezdése, 202. § (2) bekezdése, 237. § (1)–(2) bekezdése, és 239. §-a 2013. március 3-án lép hatályba.
 
-(7) E törvény 27–29. § (1) bekezdése, 30. §-a, 114. § (6) bekezdése, 125. § (21) bekezdése, 126. § (3) bekezdése, 237. § (3) bekezdése az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanapon lép hatályba, amely naptári napot a nemzeti fejlesztési miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
+(7) E törvény 27–29. § (1) bekezdése, 30–31. §-a, 114. § (6) bekezdése, 125. § (21) bekezdése, 126. § (3) bekezdése, 237. § (3) bekezdése az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanapon lép hatályba, amely naptári napot a nemzeti fejlesztési miniszter a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.
 
 (8) E törvény 238. §-a 2016. július 1-jén lép hatályba.
 
@@ -4339,7 +4389,7 @@ f) az engedélyes és az értékesítő által a Hivatal részére teljesítend�
 
 „(2a) A Hivatal megtagadja a 93. § (5) és (6) bekezdésében meghatározott jogügylet jóváhagyását, ha a tanúsítási eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként az átviteli rendszerirányító nem felelne meg a rá vonatkozó szétválasztási szabályoknak, vagy azt, hogy a jogügylet megvalósítása veszélyeztetné az ország vagy az Európai Unió más tagállam energiaellátásának biztonságát.”
 
-(3)
+(3) Hatályát veszti a VET. 159. § (3) bekezdés 7. pontja.
 
 238. § (1) A Get. 16. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
 

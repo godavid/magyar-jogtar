@@ -172,8 +172,6 @@ nem építhetők be.
 
 (5) A kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési agglomerációkba tartozó településeinek beépítésre szánt területein, illetve belterületein, ahol a szennyvízcsatorna-hálózat nem épült ki, illetve a tisztítómű tovább nem terhelhető új épület építésére építésügyi hatósági engedélyt adni, illetve az engedélyek hatályát meghosszabbítani csak akkor lehet, ha a vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés létesült.
 
-[(5) A kiemelt üdülőkörzet partinak és partközelinek nem minősülő, szennyvízelvezetési-agglomerációkba tartozó településeinek beépítésre szánt területein, illetve belterületein új épület építésére építésügyi hatósági engedélyt adni, illetve az engedélyek érvényét meghosszabbítani csak megépült és üzembe helyezett szennyvízcsatorna-hálózatra történő rákötés és a megfelelő kapacitású tisztítómű megléte, vagy az illetékes környezetvédelmi és vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés létesítése esetén lehet.]
-
 (6) A kiemelt üdülőkörzet településeinek beépítésre nem szánt területén, amennyiben nincs lehetőség a szennyvízcsatorna-hálózathoz történő csatlakozásra, új épület építésére építésügyi hatósági engedélyt adni csak vízzáró szennyvíztároló, illetve a vízügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezés megléte esetén lehet.
 
 (7) A kiemelt üdülőkörzet településeinek közigazgatási területén a szippantott szennyvizek kezelés nélküli elhelyezése nem engedélyezhető.
@@ -1411,7 +1409,7 @@ Országos törzshálózati vasútvonalak:
 
 I. Tervezett nagysebességű vasútvonalak OTrT szerint:
 
-• (Horvátország) – Gyékényes térsége – Budapest (Ferihegy) – Záhony térsége – (Ukrajna)
+• (Horvátország) – Gyékényes térsége – Budapest Liszt Ferenc Nemzetközi Repülőtér – Záhony térsége – (Ukrajna)
 
 II. A transz-európai vasúti áruszállítási hálózat részeként működő országos törzshálózati vasútvonal OTrT szerint:
 

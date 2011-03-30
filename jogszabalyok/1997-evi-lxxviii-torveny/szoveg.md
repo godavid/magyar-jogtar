@@ -63,7 +63,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - 33. Építészeti örökség: az épített környezet maradandó építészeti értéket is képviselő elemeinek (építmény, épületegyüttes, táj- és kertépítészeti alkotás) összessége – annak minden beépített alkotórészével, tartozékával és berendezésével együtt.
 - 34. Fővárosi keretszabályzat: a főváros területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek, valamint a környezeti elemek védelmével kapcsolatos – telekalakítási és építésjogi követelmények tekintetében nem teljeskörűen szabályozó – általános követelményeket keretjelleggel megállapító, a fővárosi önkormányzat által megalkotott építési szabályzat.
 - 35. Övezeti terv: a helyi építési szabályzatban megállapított építési övezetek, illetőleg övezetek területi lehatárolását – a település ingatlan-nyilvántartási térképének másolatán – tartalmazó terv, amely a szabályzat mellékletét képezi.
-- 36. Építési tevékenység: építmény, építményrész, épületegyüttes megépítése, átalakítása, bővítése, felújítása, helyreállítása, korszerűsítése, karbantartása, javítása, lebontása, elmozdítása érdekében végzett építési-szerelési vagy bontási munka végzése. [37. Közmű: elosztó, gyűjtő, továbbító, szabályozó, mérő rendeltetésű építmények, vezetékek, berendezések összessége, amely az egyes területfelhasználási egységek és az építmények rendeltetésszerű használatának biztosítása érdekében a fogyasztók vízellátási, vízelvezetési, gáz-, hő- és villamosenergia-ellátási, valamint hírközlési időszakos vagy folyamatos igényeit a település saját termelő, illetve előkészítő berendezései révén, vagy távvezetéki rendszerekhez kapcsolódva központosan, folyamatosan, kellő biztonsággal, közösségi úton, üzemszerűen működve elégíti ki. 38. Közműpótló műtárgy: a közművet telken elhelyezett egyedi berendezéssel, építménnyel helyettesítő műtárgy (kút, szennyvíztároló, szennyvízkezelő, -átemelő, -tisztító, aggregátor stb.). 39. Nyomvonal jellegű építmény: a sajátos építményfajták körében a vasúti pálya, a függő- és szállítószalag pálya, a közút (a közutakhoz tartozó járdát és kerékpárutat is ideértve), a vízilétesítmény, a vízellátási vezeték, a csatorna, a kőolaj-, kőolajtermék, földgáz-, egyéb gáz- és gáztermék szállító és elosztóvezeték, a villamosenergia átviteli és elosztóhálózat, a villamosenergia termelői-, magán- és közvetlen vezeték, a távhővezeték-hálózat, az elektronikus hírközlési építmény. 40. Egységes közmű és nyomvonal jellegű építmény nyilvántartási rendszer (a továbbiakban: e-közmű): elektronikus, osztott relációs adatbázisokon megvalósuló lekérdezési rendszer, amely a közmű- és nyomvonal jellegű építmények szolgáltatói, kezelői vagy tulajdonosi nyilvántartásaira építve, internetes felületen a közmű- és nyomvonal jellegű építmények adatainak hozzáférését biztosítja – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott jogosultságok szerint – a felhasználók számára. 41. Építésügyi monitoringrendszer: a területfelhasználási egységek és az építmények tervezett és tényleges adatait és azok változásait megfigyelő, követő, elemző és nyilvántartó térinformatikai rendszer, amely elektronikus ingatlan-nyilvántartási, elektronikus távérzékelési, digitális terület- és településrendezési tervi, valamint építmény nyilvántartási adatokból áll.]
+- 36. Építési tevékenység: építmény, építményrész, épületegyüttes megépítése, átalakítása, bővítése, felújítása, helyreállítása, korszerűsítése, karbantartása, javítása, lebontása, elmozdítása érdekében végzett építési-szerelési vagy bontási munka végzése.
 
 ### Általános követelmények
 
@@ -87,7 +87,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - a) az épített környezet rendezett alakítását és védelmét biztosító – a nemzetközi előírásokkal összhangban álló – jogszabályok megállapításáról, továbbá azok folyamatos korszerűsítéséről,
 - b) az állami főépítészi, építésügyi és építésfelügyeleti hatósági intézményrendszer működtetéséről,
 - c) a nemzetközi egyezményekből adódó állami feladatok ellátásáról,
-- d) az országos kutatási, műszaki fejlesztési programok kialakításáról és érvényre juttatásáról. [e) az építésügyi monitoringrendszer és az e-közmű nyilvántartása létrehozásáról és működtetéséről.]
+- d) az országos kutatási, műszaki fejlesztési programok kialakításáról és érvényre juttatásáról.
 
 (4) A Kormány az építésügy központi irányítását, összehangolását – ideértve a sajátos építményfajták és a műemlékek tekintetében az összehangoló feladatokat is – az építésügyért felelős miniszter (a továbbiakban: miniszter) útján gyakorolja.
 
@@ -1204,17 +1204,7 @@ kérelmező személy,
 
 (8) Az építésfelügyeleti hatóság az építőipari kivitelezési tevékenység végzése jogszerűségének ellenőrzése céljából a (4) és (7) bekezdésben megjelölt adatokat a használatbavételi engedély jogerőre emelkedését követő 3 évig kezelheti, és azok – külön törvényben megállapított – körét az ott meghatározott hatóságoknak továbbíthatja.
 
-(9)–(10) [(9) Az e-közmű rendszere közérdekből nyilvános adatként szolgáltatja a településeken élő lakosság és egyéb felhasználók alapvető szükségleteit kiszolgáló közmű- és nyomvonal jellegű építmények összességét, valamint az ellátó tevékenységet végző szervezetek nevét és székhelyét. Közérdekből nyilvános adat a nyomvonal jellegű építmények közterületi vagy közcélú szolgáltatáshoz kapcsolódó, térbeli meghatározó adatai, valamint alapvető műszaki jellemzőit leíró adatok.
-
-(10) Az e-közmű rendszer részére – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott – adatot szolgáltat
-
-a) a közműszolgáltató,
-
-b) a nyomvonal jellegű építmények kezelője,
-
-c) a települési önkormányzat, valamint
-
-d) a Kormány által kijelölt államigazgatási szerv.]
+(9)–(10)
 
 59. § Az állami főépítész elektronikus nyilvántartást vezet az elfogadott helyi építési szabályzatról, településrendezési tervekről, az azokhoz az egyeztetési eljárás során beérkezett véleményekről és a beérkezett vélemények figyelembe nem vételének indokolásáról, továbbá a véleményezésben részt vett államigazgatási szerveknek a településrendezési eszköz elfogadását követő véleményéről, valamint szakmai vizsgálata megállapításairól.
 
@@ -1284,7 +1274,7 @@ rendelettel állapítsa meg.
 (2) Felhatalmazást kap a miniszter arra, hogy
 
 - a) a telekalakítási és építési tilalom elrendelése, továbbá a cseretelekadás részletes szakmai szabályait,
-- b) az építészeti-műszaki tervek tartalmi követelményeit,
+- b) az építészeti-műszaki dokumentációk tartalmi követelményeit,
 - c) a környezetvédelemért felelős miniszterrel és a gyermek- és ifjúságpolitikáért felelős miniszterrel az egyes nem üzleti célú közösségi, szabadidős szálláshelyek létesítésével és üzemeltetésével kapcsolatos építésügyi, táj- és természetvédelmi feltételeket,
 - d) az 5. § (3) bekezdés szerinti építésügyi konzultatív, javaslattevő és véleményező szakmai testület összetételére, feladataira, eljárásaira, működésére vonatkozó részletes szabályokat,
 - e)
@@ -1309,14 +1299,6 @@ rendelettel állapítsa meg.
 (5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendelettel állapítsa meg.
 
 (6) Felhatalmazást kap a miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető, továbbá az építési, a bontási és a használatbavételi bejelentésre vonatkozó igazgatási szolgáltatási díjakat.
-
-[62/A. § Felhatalmazást kap a Kormány arra, hogy
-
-a) az építésügyi monitoringrendszer létrehozásáról, az adatforgalom rendjéről, a monitoringrendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat,
-
-b) a közmű- és nyomvonal jellegű építmények egységes elektronikus nyilvántartásának létrehozásáról, az adatok előállításáról és karbantartásáról, az adatforgalom rendjéről, az adatszolgáltatásra és a rendszer használatára kötelezettek köréről, az adatokhoz való hozzáférési jogosultságokról, az adatok védelméről, a nyilvántartási rendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat
-
-rendelettel állapítsa meg.]
 
 ### Az Európai Unió jogának való megfelelés
 

@@ -713,8 +713,8 @@ Tervezett Tisza-hidak:
 | Tiszaug térsége | (M44) |
 | Mindszent | (új főút) |
 | Szeged | M43 |
-| Vasúti hidak: | Szolnok térségében, a (Horvátország) – Gyékényes térsége – Budapest [Ferihegy] – Záhony térsége – (Ukrajna) nagysebességű vasútvonalon |  |
-| Szegednél, a (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest [Ferihegy] – Röszke és Kübekháza – (Szerbia és Románia) nagysebességű vasútvonalon |  |
+| Vasúti hidak: | Szolnok térségében, a (Horvátország) – Gyékényes térsége – Budapest Liszt Ferenc Nemzetközi Repülőtér – Záhony térsége – (Ukrajna) nagysebességű vasútvonalon |  |
+| Szegednél, a (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest Liszt Ferenc Nemzetközi Repülőtér – Röszke és Kübekháza – (Szerbia és Románia) nagysebességű vasútvonalon |  |
 | Szeged – (Szerbia) – (Románia) kapcsolat helyreállítás egyesített vasúti közúti híddal |  |
 
 1 A térség a mellékletben a település közigazgatási területét és annak 10 km-es környezetét jelöli.
@@ -890,9 +890,9 @@ Az országos vasúti törzshálózat elemei
 
 Tervezett nagysebességű vasútvonalak:
 
-– (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest [Ferihegy] – Röszke és Kübekháza – (Szerbia és Románia) (IV. sz. transzeurópai közlekedési folyosó hazai szakasza)
+– (Ausztria és Szlovákia) – Hegyeshalom és Rajka – Budapest Liszt Ferenc Nemzetközi Repülőtér – Röszke és Kübekháza – (Szerbia és Románia) (IV. sz. transzeurópai közlekedési folyosó hazai szakasza)
 
-– (Horvátország) – Gyékényes térsége – Budapest [Ferihegy] – Záhony térsége – (Ukrajna) (V. sz. transzeurópai közlekedési folyosó hazai szakasza)
+– (Horvátország) – Gyékényes térsége – Budapest Liszt Ferenc Nemzetközi Repülőtér – Záhony térsége – (Ukrajna) (V. sz. transzeurópai közlekedési folyosó hazai szakasza)
 
 A transzeurópai vasúti áruszállítási hálózat részeként működő országos törzshálózati vasútvonalak:
 
@@ -1076,7 +1076,7 @@ A repülőterek besorolása
 
 Országos jelentőségű polgári repülőterek:
 
-– Budapest [Ferihegy]
+– Budapest Liszt Ferenc Nemzetközi Repülőtér
 
 – Debrecen
 

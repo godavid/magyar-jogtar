@@ -90,7 +90,7 @@ a Budapesti Agglomeráció Területrendezési Tervéről
 
 10. § (1) Az egyéb rendeltetésű területbe olyan települési (közlekedési vagy különleges területek) területek tartoznak, amelyek – nagy kiterjedésük révén – térszerkezeti jelentőségűek.
 
-(2) A térségi szerkezeti tervben Ferihegy fejlesztésére fenntartott egyéb rendeltetésű területen kizárólag közlekedési, ipari, szolgáltató és kereskedelmi célú építmények elhelyezésére szolgáló, vagy zöldterület területfelhasználás jelölhető ki a településrendezési eszközökben.
+(2) A térségi szerkezeti tervben Budapest Liszt Ferenc Nemzetközi Repülőtér fejlesztésére fenntartott egyéb rendeltetésű területen kizárólag közlekedési, ipari, szolgáltató és kereskedelmi célú építmények elhelyezésére szolgáló, vagy zöldterület területfelhasználás jelölhető ki a településrendezési eszközökben.
 
 ### III. Fejezet — Övezeti Terv
 
@@ -408,7 +408,7 @@ Ecser*–Maglód*–Gyömrő* – OTrT szerint
 
 3. Térségi jelentőségű úthálózati kapcsolatok
 
-M2 (Vác)–Csörög*–Sződ*–Vácrátót*–Őrboty-tyán*–Csomád*–Őrbottyán*–Veresegyház*–Szada*– Mogyoród*–Gödöllő*–M31*
+M2 (Vác)–Csörög*–Sződ*–Vácrátót*–Őrbottyán*–Csomád*–Őrbottyán*–Veresegyház*–Szada*– Mogyoród*–Gödöllő*–M31*
 
 M2 (Göd)–Csomád*
 
@@ -458,7 +458,7 @@ Szigetmonostori híd* (Szentendrei-Duna)
 
 OTrT szerint – Törökbálint*–Budapest*–Dunaharaszti*–Taksony*–Dunavarsány*–Délegyháza* – OTrT szerint
 
-OTrT szerint – Törökbálint*–Budapest*(Ferihegy nemzetközi kereskedelmi repülőtér érintésével)– Vecsés*–Üllő* – OTrT szerint
+OTrT szerint – Törökbálint*–Budapest* (Budapest Liszt Ferenc Nemzetközi Repülőtér érintésével)– Vecsés*–Üllő* – OTrT szerint
 
 Megjegyzés: A nagysebességű vasút nyomvonalát a környezeti hatásvizsgálat alapján – ahol szükséges – alagútban kell vezetni.
 
