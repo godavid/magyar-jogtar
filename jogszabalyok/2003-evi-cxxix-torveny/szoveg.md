@@ -163,7 +163,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 (3)
 
-(4) Ha az ajánlatkérő nevében valamely személy tulajdonosi jogokat gyakorol érdekelt gazdálkodó szervezetben, az ajánlatkérő nevében e személy vagy hozzátartozója nem járhat el a közbeszerzési eljárás előkészítésében vagy az eljárás más szakaszában, kivéve, ha az érdekelt gazdálkodó szervezet írásban nyilatkozik, hogy az eljárásban nem vesz részt ajánlattevőként vagy alvállalkozóként. Ezt a szabályt kell megfelelően alkalmazni az ajánlatkérő vezető tisztségviselője vagy felügyelőbizottságának tagja vagy hozzátartozója tekintetében, ha az érdekelt gazdálkodó szervezetben az ajánlatkérő rendelkezik tulajdoni részesedéssel.
+(4) Ha az ajánlatkérő nevében valamely személy tulajdonosi jogokat gyakorol érdekelt gazdálkodó szervezetben, az ajánlatkérő nevében e személy vagy hozzátartozója nem járhat el a felhívás és a dokumentáció elkészítése során vagy az eljárás más szakaszában, kivéve, ha az érdekelt gazdálkodó szervezet írásban nyilatkozik, hogy az eljárásban nem vesz részt ajánlattevőként, alvállalkozóként vagy erőforrást nyújtó szervezetként. Ezt a szabályt kell megfelelően alkalmazni az ajánlatkérő vezető tisztségviselője vagy felügyelőbizottságának tagja vagy hozzátartozója tekintetében, ha az érdekelt gazdálkodó szervezetben az ajánlatkérő rendelkezik tulajdoni részesedéssel.
 
 (5) Nem kell alkalmazni e §-t, ha az ajánlatkérő nevében az érdekelt gazdálkodó szervezetben a tulajdonosi jogok gyakorlására és a közbeszerzési eljárást lezáró döntés meghozatalára törvény, vagy törvény felhatalmazása alapján kiadott önkormányzati rendelet alapján az ajánlatkérő ugyanazon testülete jogosult, vagy olyan testületei, amelynek tagjai részben azonosak, és a közbeszerzési eljárással kapcsolatos – az eljárást lezáró döntés meghozatalán kívüli – tevékenységekben nem vett részt olyan személy, aki jogosult a tulajdonosi jogok gyakorlására.
 
@@ -508,18 +508,21 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 40. § (1) Tilos e törvény megkerülése céljával alkalmazni a 35–39. §-ban meghatározott becslési módszert, valamint ilyen célból a közbeszerzést a (2) bekezdésbe ütköző módon részekre bontani.
 
-(2) A becsült érték kiszámítása során mindazon árubeszerzések vagy építési beruházások, vagy szolgáltatások értékét egybe kell számítani, amelyek
+(2) A becsült érték kiszámítása során mindazon árubeszerzések vagy építési beruházások vagy szolgáltatások értékét egybe kell számítani, amelyek
 
 - a) beszerzésére egy költségvetési évben kerül sor [a 39. § (1) bekezdése szerinti eset kivételével], és
-- b) amelyek beszerzési tárgya és rendeltetése azonos, vagy felhasználásuk egymással közvetlenül összefügg.
+- b) beszerzésére egy ajánlattevővel lehetne szerződést kötni, továbbá
+- c) beszerzési tárgya és rendeltetése azonos, vagy felhasználásuk egymással közvetlenül összefügg.
 
 (3) Ha a (2) bekezdés alapján több – egyenként a közösségi értékhatárt el nem érő értékű – beszerzési tárgy együttes értéke miatt e fejezet szerinti közbeszerzési eljárást kell lefolytatni, nem minősül e törvény megkerülésének, ha az egybeszámított értékű beszerzési tárgyakat több, e fejezet szerinti közbeszerzési eljárásban szerzik be.
 
-(4) Ha a becsült érték kiszámításakor a (2) bekezdésben foglaltakat nem vették figyelembe, az e fejezet szerinti közbeszerzésnek a költségvetési évben vagy az adott tizenkét hónapban még beszerzendő tárgyaira – azok értékétől függetlenül – csak az e fejezet szerinti közbeszerzési eljárás alapján lehet szerződést kötni.
+(4) Ha a becsült érték kiszámításakor a (2) bekezdésben foglaltakat nem vették figyelembe, az e fejezet szerinti közbeszerzésnek a költségvetési évben még beszerzendő tárgyaira – azok értékétől függetlenül – csak az e fejezet szerinti közbeszerzési eljárás alapján lehet szerződést kötni.
 
 (5) A (2) bekezdéstől eltérően az egy építménnyel kapcsolatos 25. § szerinti szerződés becsült értékét nem kell más építménnyel kapcsolatos építési beruházás becsült értékével egybeszámítani, kivéve az általános javítási munkálatokra vonatkozó építési beruházásokat, melyek becsült értékét – ha a (2) bekezdés szerinti feltételek fennállnak – egymással akkor is egybe kell számítani, ha több építménnyel kapcsolatosak.
 
 (6) A (2) bekezdéstől eltérően a becsült érték kiszámítása során más közbeszerzés becsült értékével nem kell egybeszámítani az olyan közbeszerzést, amelynek általános forgalmi adó nélkül számított becsült értéke szolgáltatás és árubeszerzés esetében 21 031 200 forintnál, az építési beruházások esetében pedig 262 890 000 forintnál kevesebb, feltéve, hogy ezen egybe nem számított közbeszerzés értéke nem haladja meg annak az értéknek a húsz százalékát, amit a (2) bekezdés alkalmazása esetén állapított volna meg az ajánlatkérő ezen közbeszerzés és a vele a (2) bekezdés szerint egybeszámítandó közbeszerzések együttes becsült értékeként.
+
+(7) A (6) bekezdés alkalmazásával egy – a (2) bekezdés szerint egybeszámított és a közösségi értékhatárt elérő vagy meghaladó értékű – közbeszerzést legfeljebb két közbeszerzésre lehet szétbontani. A nagyobb értékű közbeszerzésre akkor is a IV. vagy V. fejezet szerinti közbeszerzési eljárást kell lefolytatni, ha becsült értéke nem éri el a közösségi értékhatárt. A kisebb értékű közbeszerzésre e törvény alkalmazása csak akkor mellőzhető, ha annak becsült értéke a (6) bekezdés alkalmazása után nem éri el a nemzeti értékhatárt. A (6) bekezdést nem lehet alkalmazni olyan közbeszerzésre, melynek becsült értékét a (6) bekezdés korábbi alkalmazásával számította ki az ajánlatkérő.
 
 ### 2. CÍM — A KÖZBESZERZÉSI ELJÁRÁS ÁLTALÁNOS SZABÁLYAI
 
@@ -1282,7 +1285,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 (2) A vitarendezést kérelmezőnek az ajánlatkérőhöz benyújtott kérelmében (a továbbiakban: előzetes vitarendezési kérelem) meg kell jelölnie az írásbeli összegezés vagy egyéb dokumentum, vagy eljárási cselekmény jogsértőnek tartott elemét, továbbá a kérelmező javaslatát, észrevételét, valamint az álláspontját alátámasztó adatokat, tényeket, továbbá az azt alátámasztó dokumentumokra – ha vannak ilyenek – hivatkoznia kell.
 
-(3) Az előzetes vitarendezési kérelmet faxon vagy elektronikus úton kell megküldeni az ajánlatkérő részére, aki a kérelemmel kapcsolatos álláspontjáról a vitarendezést kérelmezőt a kérelem megérkezésétől számított három munkanapon belül a benyújtási módnak megegyező módon tájékoztatja, továbbá az előzetes vitarendezési kérelem benyújtásáról, valamint az arra adott válaszáról az eljárás valamennyi – általa ismert – ajánlattevőjét is tájékoztatja.
+(3) Az előzetes vitarendezési kérelmet faxon vagy elektronikus úton kell megküldeni az ajánlatkérő részére, aki a kérelemmel kapcsolatos álláspontjáról a vitarendezést kérelmezőt a kérelem megérkezésétől számított három munkanapon belül a benyújtási módnak megegyező módon tájékoztatja, továbbá az előzetes vitarendezési kérelem benyújtásáról, valamint az arra adott válaszáról az eljárás valamennyi – általa ismert – ajánlattevőjét is tájékoztatja. Az ajánlatkérő az előzetes vitarendezési kérelem megérkezésétől számított három munkanapon belül legfeljebb egy alkalommal jogosult az ajánlattevőket három munkanapos határidővel hiánypótlás [83. §], felvilágosítás [85. §] vagy indokolás [86–87. §] benyújtására felhívni, amennyiben az eredményhirdetést követően és a szerződés megkötését megelőzően az előzetes vitarendezési kérelem alapján észleli, hogy az eljárásban történt törvénysértés ezen eljárási cselekmények útján orvosolható. Az eljárási cselekmények kizárólag az eljárásban történt törvénysértés orvoslása körében alkalmazhatóak. Ebben az esetben az ajánlatkérő az előzetes vitarendezési kérelem benyújtásáról a hiánypótlási felhívás, a felvilágosítás vagy indokolás kérésének megküldésével egyidejűleg, míg a kérelemre adott válaszáról a kérelem megérkezésétől számított hét munkanapon belül tájékoztatja a kérelmezőt és az ajánlattevőket.
 
 (4) Amennyiben valamely ajánlattevő előzetes vitarendezési kérelmet nyújtott be valamely – az ajánlatok bontását követően – történt eljárási cselekménnyel, keletkezett dokumentummal, kapcsolatban, az ajánlatkérő a kérelem benyújtásától a válaszának megküldését követő tizedik napig nem kötheti meg a szerződést, illetőleg – ha részajánlat tétele lehetséges volt – a beszerzés érintett részére vonatkozó szerződést, ha ez az időpont a 99. § (3) bekezdése szerinti szerződéskötési időpontnál későbbre esik.
 
@@ -1517,7 +1520,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 (2) Az összegezést a Közbeszerzések Tanácsának is meg kell küldeni az (1) bekezdésben előírt határidő lejártáig.
 
-(3) Ha a részvételi szakasz a 115. § (1) bekezdésének c), d) vagy f) pontja alapján eredménytelen, illetőleg az ajánlatkérő új közbeszerzési eljárás lefolytatásáról dönt, köteles erről haladéktalanul tájékoztatni – a Közbeszerzések Tanácsán keresztül – az Európai Közösségek Hivatalos Kiadványai Hivatalát.
+(3)
 
 (4) Az eredményhirdetéskor és azt követően nem lehet üzleti titokra hivatkozással olyan adat nyilvánosságra hozatalát korlátozni vagy megtiltani, amely a 106. § (2) bekezdése körébe tartozik, illetőleg amelyet a részvételi jelentkezés elbírálása során – döntése meghozatalával összefüggésben – az ajánlatkérő figyelembe vett.
 
@@ -1774,7 +1777,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 (3) A tárgyalásos eljárás 125. § (2) bekezdésének a) pontja és (4) bekezdésének a) pontja szerinti esetében az ajánlatkérőnek lehetőség szerint legalább három ajánlattevőt kell ajánlattételre felhívnia.
 
-132. § A hirdetmény nélküli tárgyalásos eljárás megkezdése napján az ajánlatkérő köteles benyújtani a Közbeszerzési Döntőbizottsághoz – telefaxon, elektronikus úton vagy közvetlenül – az ajánlattételi felhívást, továbbá az ajánlattételre felhívni kívánt szervezetek (személyek) nevéről, címéről (székhelyéről, lakóhelyéről), valamint a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást.
+132. § A hirdetmény nélküli tárgyalásos eljárás megkezdése napján az ajánlatkérő köteles benyújtani a Közbeszerzési Döntőbizottsághoz – telefaxon, elektronikus úton vagy közvetlenül – az ajánlattételi felhívást, továbbá az ajánlattételre felhívni kívánt szervezetek (személyek) nevéről, címéről (székhelyéről, lakóhelyéről), a beszerzés becsült értékéről, valamint a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást.
 
 133. § (1) Az ajánlattételi felhívásnak legalább a következőket kell tartalmaznia:
 
@@ -1832,12 +1835,12 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 (2) A gyorsított eljárásban az ajánlatkérő a részvételi határidőt nem határozhatja meg a részvételi felhívást tartalmazó hirdetmény feladásának napjától számított tíz napnál rövidebb időtartamban. A gyorsított eljárásban az ajánlatkérő meghívásos eljárás esetén az ajánlattételi határidőt nem határozhatja meg az ajánlattételi felhívás megküldésének napjától számított tíz napnál rövidebb időtartamban.
 
-(3) A gyorsított eljárásban a részvételre jelentkezőnek nyilatkoznia kell arról, hogy nem tartozik a kizáró okok hatálya alá, és a 60. § (1) bekezdésének e) pontja, illetőleg a 61. § (2) bekezdése szerinti köztartozások hiányával, valamint a 60. § (1) bekezdésének h) pontjával kapcsolatos hatósági igazolásokat legkésőbb a 117. § (1) bekezdése szerinti eredményhirdetéstől számított tizenöt napon belül kell csatolnia. A 60. § (1) bekezdésének g) pontjában foglalt feltétel megvalósulását az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a és az adóhatóságnak az adózás rendjéről szóló 2003. évi XCII. törvény 55. §-ának (6) bekezdése szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból.
+(3)
 
 (4) A gyorsított eljárásban a részvételre jelentkezőnek nyilatkoznia kell arról, hogy nem tartozik a kizáró okok hatálya alá. Ebben az esetben a 63. §-t azzal az eltéréssel kell alkalmazni, hogy
 
 - a) a részvételre jelentkezőnek, a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozónak, illetőleg az erőforrást nyújtó szervezetnek a részvételi jelentkezésben nyilatkoznia kell arról, hogy nem tartozik a kizáró okok hatálya alá, továbbá
-- b) legkésőbb az ajánlattételi határidő lejártáig kell csatolnia az ajánlattevőnek az a) pont szerinti személyek (szervezetek) vonatkozásában a 60. § (1) bekezdésének h) pontjával, valamint – adott esetben – a 61. § (2) bekezdése szerinti köztartozások hiányával kapcsolatos hatósági igazolásokat, továbbá – ha valamelyikük nem szerepel az adózás rendjéről törvény szerinti köztartozásmentes adózói adatbázisban, vonatkozásában – a 63. § (2) bekezdés b) pontja szerinti igazolásokat.
+- b) legkésőbb az ajánlattételi határidő lejártáig kell csatolnia az ajánlattevőnek az a) pont szerinti személyek (szervezetek) vonatkozásában a 60. § (1) bekezdésének h) pontjával, valamint – adott esetben – a 61. § (2) bekezdése szerinti köztartozások hiányával kapcsolatos hatósági igazolásokat, továbbá – ha valamelyikük nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban, vonatkozásában – a 63. § (2) bekezdés b) pontja szerinti igazolásokat.
 
 (5) Az ajánlatkérő köteles gondoskodni arról, hogy a dokumentáció az ajánlattételi felhívás megküldésétől kezdve az ajánlattételi határidő lejártáig rendelkezésre álljon. Ha a dokumentáció megküldését kérik, az ajánlatkérő vagy az általa meghatározott szervezet a kérelem kézhezvételétől számított két munkanapon belül köteles ennek eleget tenni, feltéve, hogy ésszerű időben kérték, illetőleg annak ellenértékét megfizették.
 
@@ -1898,7 +1901,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 
 (4) A keretmegállapodásban meghatározott feltételeket a konzultációra szóló felhívásban, az ajánlatban és a konzultáció során lényegesen nem lehet módosítani. Az ajánlattevő a keretmegállapodásban foglaltakhoz képest az ajánlat 57. § (3) bekezdésének a) pontja szerinti részszempontokkal összefüggő tartalmi elemeire vonatkozóan csak a keretmegállapodásban foglaltakkal azonos vagy annál az ajánlatkérő számára kedvezőbb ajánlatot tehet.
 
-(5) A keretmegállapodásos eljárás második részében az ajánlatkérő az ajánlat(ok) elbírálásának befejezésekor külön jogszabályban meghatározott minta szerinti írásbeli összegezést köteles készíteni az ajánlat(ok)ról. Az eredményhirdetésre a 95–96. §, a szerződéskötésre a 99. § (2) és (3) bekezdését alkalmazni kell.
+(5) A keretmegállapodásos eljárás második részében az ajánlatkérő az ajánlat(ok) elbírálásának befejezésekor külön jogszabályban meghatározott minta szerinti írásbeli összegezést köteles készíteni az ajánlat(ok)ról. Az eredményhirdetésre a 95–96. §, a szerződéskötésre a 99. § (2) bekezdését alkalmazni kell. A 99. § (3)–(4) bekezdése csak a 136/B. § (3) bekezdésének b) pontja szerinti esetben alkalmazandó.
 
 (6) Az ajánlatkérőnek az eljárás második része(i) eredményéről vagy eredménytelenségéről szóló tájékoztatót külön jogszabályban meghatározott minta szerinti hirdetmény útján kell közzétennie. A hirdetményt a keretmegállapodás alapján megvalósított közbeszerzések érdekében kötött szerződésekről együttesen is közzéteheti. Ez utóbbi esetben a hirdetményt a keretmegállapodás alapján a megelőző negyedév során kötött szerződésekről a naptári negyedév utolsó napját követő öt munkanapon belül kell megküldenie. A keretmegállapodás megkötését követő első – nem teljes – negyedévről nem kell hirdetményt közzétenni.
 
@@ -2771,7 +2774,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 (2)
 
-(3) Az építési beruházásra a 25. § (1) bekezdését, építési koncesszióra a 26. §-t, a szolgáltatás megrendelésére a 27. §-t kell alkalmazni. A 28. § szintén alkalmazandó.
+(3) Az árubeszerzésre a 24. §-t, az építési beruházásra a 25. § (1) bekezdését, építési koncesszióra a 26. §-t, a szolgáltatás megrendelésére a 27. §-t kell alkalmazni. A 28. § szintén alkalmazandó.
 
 (4) A szolgáltatási koncesszió olyan szolgáltatásmegrendelés, amelynek alapján az ajánlatkérő a szolgáltatás nyújtásának jogát (hasznosítási jog) meghatározott időre átengedi, és ellenszolgáltatása a hasznosítási jog vagy e jog átengedése pénzbeli ellenszolgáltatással együtt.
 
@@ -2820,7 +2823,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 (3) A hirdetmény, illetőleg lényeges elemeinek összegezése idegen nyelven is közzétehető azzal, hogy egyedül az ajánlatkérő által választott nyelven (eredeti nyelven) készült és megküldött szöveg hiteles.
 
-(4) A hirdetményeknek a Közbeszerzési Értesítőben való közzététele költségeit a feladó viseli.
+(4)
 
 (5) A hirdetmények megküldésének és közzétételének részletes szabályait, valamint a hirdetmények mintáit külön jogszabály határozza meg.
 
@@ -2970,11 +2973,11 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 ### 24. CÍM — A KÜLÖNÖS EGYSZERŰ KÖZBESZERZÉSI ELJÁRÁS
 
-261. § (1) A különös egyszerű közbeszerzési eljárásra a 249–250. §-t, a 251. § (1)–(4) bekezdését és a 252–253. §-t a (2)–(4) bekezdés szerinti eltéréssekkel kell alkalmazni.
+261. § (1) A különös egyszerű közbeszerzési eljárásra a 249–250. §-t, a 251. § (1) bekezdését és a 252–253. §-t a (2)–(4) bekezdés szerinti eltéréssekkel kell alkalmazni.
 
 (2) Az egyszerű közbeszerzési eljárásban a 197. és 199. § megfelelően alkalmazandó azzal, hogy az ajánlati felhívás helyett ajánlattételi felhívást kell érteni.
 
-(3) Az egyszerű eljárásban a törvény 12–18. és 20. címének a 250. § (3) bekezdésében fel nem sorolt rendelkezései is megfelelően alkalmazhatók, a nyílt eljáráson kívüli eljárástípusokat is a 246–247. és 249–250. §-okban és a 251. § (1)–(4) bekezdéseiben foglaltaknak megfelelően kell lefolytatni azzal, hogy a részvételi szakaszban annyi részvételi határidőt kell biztosítani, amely alatt megfelelően lehet részvételre jelentkezni.
+(3) Az egyszerű eljárásban a törvény 12–18. és 20. címének a 250. § (3) bekezdésében fel nem sorolt rendelkezései is megfelelően alkalmazhatók, a nyílt eljáráson kívüli eljárástípusokat is a 246–247. és 249–250. §-okban és a 251. § (1) bekezdésében foglaltaknak megfelelően kell lefolytatni azzal, hogy a részvételi szakaszban annyi részvételi határidőt kell biztosítani, amely alatt megfelelően lehet részvételre jelentkezni.
 
 (4) Az ajánlatkérő akkor is alkalmazhat hirdetmény nélküli tárgyalásos eljárást, ha
 
@@ -3209,7 +3212,8 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 (2) Semmis az e törvény hatálya alá tartozó szerződés, ha
 
 - a) azt a közbeszerzési eljárás jogtalan mellőzésével kötötték meg;
-- b) a felek a szerződéskötési moratóriumra vonatkozó szabályok [96/A. § (4) bekezdés, 99. § (3) és (4) bekezdése] megsértésével kötöttek szerződést, és ezzel megfosztották az ajánlattevőt attól, hogy a szerződéskötést megelőzően jogorvoslati eljárás megindítását kérelmezze, egyben olyan módon sértették meg a közbeszerzésekre vonatkozó szabályokat, hogy az befolyásolta az ajánlattevő esélyét a közbeszerzési eljárás megnyerésére.
+- b) hirdetmény nélküli tárgyalásos eljárás eredményeként úgy kötötték meg, hogy nem álltak fenn a hirdetmény nélküli tárgyalásos eljárás alkalmazhatóságának feltételei [125. §; (1)–(5) bekezdések, 225. §, 252. § (1) bekezdése, 261. § (4) bekezdése];
+- c) a felek a szerződéskötési moratóriumra vonatkozó szabályok [96/A. § (4) bekezdés, 99. § (3) és (4) bekezdése] megsértésével kötöttek szerződést, és ezzel megfosztották az ajánlattevőt attól, hogy a szerződéskötést megelőzően jogorvoslati eljárás megindítását kérelmezze, egyben olyan módon sértették meg a közbeszerzésekre vonatkozó szabályokat, hogy az befolyásolta az ajánlattevő esélyét a közbeszerzési eljárás megnyerésére.
 
 (3) A (2) bekezdéstől eltérően a szerződés nem érvénytelen, ha
 
@@ -3396,12 +3400,13 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 - g) a közbeszerzéshez támogatást nyújtó, illetve a támogatás felhasználásában jogszabály alapján közreműködő szervezet;
 - h) a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
 - i) a Gazdasági Versenyhivatal;
-- j) a kormány által az európai uniós és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv.
+- j) a kormány által az európai uniós és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv;
+- k) az állami vagyon felügyeletéért felelős miniszter
 
 (2) A Közbeszerzési Döntőbizottság hivatalból való eljárását
 
-- a) az (1) bekezdés a), b) és d–i) pontja szerinti szervezet a jogsértés tudomásra jutásától, közbeszerzési eljárás mellőzése esetén a szerződés megkötéséről, vagy – ha ez nem állapítható meg – teljesítésének bármelyik fél általi megkezdéséről történt tudomásszerzéstől számított harminc napon belül, de legkésőbb a jogsértés megtörténtétől számított egy éven belül, illetőleg – a közbeszerzési eljárás mellőzése estén – három éven belül,
-- b) az (1) bekezdés c) és j) pontja szerinti szervezet a jogsértés tudomásra jutásától, számított harminc napon belül, de legfeljebb a jogsértés megtörténtétől számított három éven belül, közbeszerzési eljárás mellőzésével történő beszerzés esetén a szerződés megkötésének időpontjától, illetőleg ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történő megkezdésétől számított három éven belül kezdeményezheti.
+- a) az (1) bekezdés a), d)–i) és k) pontja szerinti szervezet a jogsértés tudomásra jutásától, közbeszerzési eljárás mellőzése esetén a szerződés megkötéséről, vagy – ha ez nem állapítható meg – teljesítésének bármelyik fél általi megkezdéséről történt tudomásszerzéstől számított harminc napon belül, de legkésőbb a jogsértés megtörténtétől számított egy éven belül, illetőleg – a közbeszerzési eljárás mellőzése estén – három éven belül,
+- b) az (1) bekezdés b), c) és j) pontja szerinti szervezet a jogsértés tudomásra jutásától, számított harminc napon belül, de legfeljebb a jogsértés megtörténtétől számított három éven belül, közbeszerzési eljárás mellőzésével történő beszerzés esetén a szerződés megkötésének időpontjától, illetőleg ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történő megkezdésétől számított három éven belül kezdeményezheti.
 
 (3)
 
@@ -3485,7 +3490,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 337. § (1) A közbeszerzési ügy kérelmezője (az eljárást kezdeményező), az ellenérdekű ügyfél, továbbá ezek képviselője és a Közbeszerzések Tanácsának tagja az eljárás során külön engedély nélkül bármikor betekinthet a közbeszerzési eljárás, illetőleg a jogorvoslati eljárás során keletkezett iratokba, és azokról másolatot, feljegyzést készíthet.
 
-(2) Az ajánlatkérő és az ajánlattevő, a részvételre jelentkező – az üzleti titok védelmére hivatkozással – kérheti az (1) bekezdés szerinti személyek iratbetekintési jogának kizárását vagy korlátozását az olyan iratok vagy adatok tekintetében, amelyek nem minősülnek közérdekű adatnak vagy közérdekből nyilvános adatnak, megismerésük hiánya nem akadályozza az ellenérdekű ügyfelet jogorvoslati jogának gyakorlásában, ugyanakkor az iratok vagy adatok mások általi megismerése aránytalanul súlyosan sértené az ügyfél üzleti érdekeit. A kérelemről való döntéssel egyidejűleg a Közbeszerzési Döntőbizottság kötelezheti az érintettet olyan iratváltozat elkészítésére, amely nem tartalmaz üzleti titkot.
+(2) Az ajánlatkérő és az ajánlattevő, a részvételre jelentkező – az üzleti titok védelmére hivatkozással – kérheti az (1) bekezdés szerinti személyek iratbetekintési jogának kizárását vagy korlátozását az olyan iratok vagy adatok (így például az árazott költségvetés) tekintetében, amelyek nem minősülnek közérdekű adatnak vagy közérdekből nyilvános adatnak, megismerésük hiánya nem akadályozza az ellenérdekű ügyfelet jogorvoslati jogának gyakorlásában, ugyanakkor az iratok vagy adatok mások általi megismerése aránytalanul súlyosan sértené az ügyfél üzleti érdekeit. Amennyiben az ajánlattevő meghatározott iratokat elkülönített módon, üzleti titokként helyezett el az ajánlatában [73. § (1)], úgy kell tekinteni, hogy ezen iratok vonatkozásában kérte az (1) bekezdés szerinti személyek iratbetekintési jogának kizárását. A Közbeszerzési Döntőbizottság köteles megvizsgálni, hogy az iratbetekintési jog korlátozásának vagy kizárásának feltételei fennállnak-e, és a kérelemről való döntéssel egyidejűleg kötelezheti az érintettet olyan iratváltozat elkészítésére, amely nem tartalmaz üzleti titkot.
 
 (3) Az (1) bekezdésben meghatározottakon kívüli személyek akkor tekinthetnek be a közbeszerzési eljárás, illetőleg a jogorvoslati eljárás során keletkezett iratokba, illetőleg készíthetnek azokról másolatot, feljegyzést, ha az iratok ismeretéhez jogos érdekük fűződik, és az iratbetekintés nem ütközik a minősített adat védelmére vonatkozó szabályokba. Egyébként a Közbeszerzési Döntőbizottság engedélye szükséges.
 
@@ -3550,7 +3555,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 - d)
 - e) ha az ajánlatkérő elmulasztotta a 132. § szerinti kötelezettsége teljesítését.
 
-340/A. § (1) Ha az ügy érdemében hozott határozatában a Közbeszerzési Döntőbizottság a 306/A. § (2) bekezdése szerinti jogsértést állapít meg, pert indít a szerződés érvénytelenségének kimondása és az érvénytelenség jogkövetkezményeinek alkalmazása iránt. A Közbeszerzési Döntőbizottságot a perben teljes költségmentesség illeti meg.
+340/A. § (1) Ha az ügy érdemében hozott határozatában a Közbeszerzési Döntőbizottság a 306/A. § (2) bekezdése szerinti jogsértést állapít meg, pert indít a szerződés érvénytelenségének kimondása és az érvénytelenség jogkövetkezményeinek alkalmazása iránt. A perindítással egyidejűleg a Közbeszerzési Döntőbizottságnak ideiglenes intézkedésként kérnie kell a bíróságtól a szerződés további teljesítésének felfüggesztését. A Közbeszerzési Döntőbizottságot a perben teljes költségmentesség illeti meg.
 
 (2) A Közbeszerzési Döntőbizottság az (1) bekezdés szerinti pert érdemi határozatának meghozatalától számított harminc napon belül indítja meg.
 
@@ -3567,6 +3572,8 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 (4) A Közbeszerzési Döntőbizottság a jogsértőt, jogsértés hiányában az alaptalan kérelmet előterjesztőt kötelezi az igazgatási szolgáltatási díj és a jogorvoslati eljárással kapcsolatban felmerült költségek viselésére. A hivatalból indított jogorvoslati eljárás költségét jogsértés megállapításának hiányában az állam viseli. A jogorvoslati eljárás költsége mindaz a költség, amely a célszerű és jóhiszemű eljárásvitellel kapcsolatban az eljárás során felmerült (különösen a tanú-, szakértői és tolmácsdíj, a fordítási költség, a helyszíni szemle költsége, az ügyfél iratbetekintési jogának gyakorlásával kapcsolatban felmerült költség, az ügyfelet képviselő ügyvéd, jogtanácsos készkiadásai és megbízási díja).
 
 (5) A jogorvoslati eljárás költségének összegét általában az érintett ügyfél, az eljárás egyéb résztvevője által bemutatott bizonyítékok alapján, ha pedig ez nem lehetséges, az érintett írásbeli nyilatkozata alapján kell megállapítani.
+
+(6) Ha a Közbeszerzési Döntőbizottság a 325. § (3) bekezdésének g) pontjában foglalt indok alapján utasítja el a kérelmet vagy szünteti meg a jogorvoslati eljárást és a kérelmező a 96/A. § szerint előzetes vitarendezést is kérelmezett a 324. § (1) bekezdése szerinti kérelemben szereplő – a 323. § (2)–(6) bekezdés szerinti időpontig már a tudomására jutott – jogsértések miatt, akkor a Közbeszerzési Döntőbizottság az igazgatási szolgáltatási díj viselésére kötelezi az ajánlatkérőt.
 
 342. § (1) Ha a Közbeszerzési Döntőbizottság megsemmisíti az ajánlatkérőnek az eljárást lezáró döntését, az ajánlatkérő jogosult a határozat végrehajthatóságának időpontjától számított harminc napon belül új döntést hozni. Döntése meghozatala előtt be kell szereznie valamennyi érvényes ajánlatot tevő nyilatkozatát arról, hogy ajánlatát fenntartja.
 
@@ -3646,7 +3653,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 (3) A bíróság a Közbeszerzési Döntőbizottság határozatát – a bírság összegét is ideértve – megváltoztathatja és alkalmazhatja a 340. § (2) bekezdésének f) pontja, a (3) és (4) bekezdése szerinti jogkövetkezményeket.
 
-(4) Ha a bíróság a keresettel megtámadott határozatot hatályon kívül helyezi és új eljárás lefolytatását rendeli el, határozatának tartalmaznia kell a Közbeszerzési Döntőbizottság megismételt eljárására vonatkozó utasításokat.
+(4) Ha a bíróság a keresettel megtámadott határozatot hatályon kívül helyezi és új eljárás lefolytatását rendeli el, határozatának tartalmaznia kell a Közbeszerzési Döntőbizottság megismételt eljárására vonatkozó utasításokat. A bíróság a Közbeszerzési Döntőbizottság határozatát kizárólag abban az esetben helyezi hatályon kívül, ha a Közbeszerzési Döntőbizottság eljárása során a jogorvoslati eljárás lényeges és az ügy érdemére kiható szabályainak megsértésére került sor.
 
 (5) A bíróság határozatát a meghozatalától számított nyolc napon belül a felek részére kézbesíteni kell.
 
@@ -3666,8 +3673,9 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 (2) Az (1) bekezdésben meghatározott perre kizárólag akkor kerülhet sor, ha a szerződés érvénytelenségének megállapítását azért kérik, mert
 
-- a) azt a közbeszerzési eljárás jogtalan mellőzésével kötötték meg,
-- b) a felek a szerződéskötési moratóriumra [96/A. § (4) bekezdés, 99. § (3) és (4) bekezdése] vonatkozó szabályok megsértésével kötöttek szerződést és ezzel megfosztották az ajánlattevőt attól, hogy a szerződéskötést megelőzően jogorvoslati eljárás megindítását kérelmezze, egyben olyan módon sértették meg a közbeszerzésekre vonatkozó szabályokat, hogy az befolyásolta az ajánlattevő esélyét a közbeszerzési eljárás megnyerésére.
+- a) azt a közbeszerzési eljárás jogtalan mellőzésével kötötték meg
+- b) hirdetmény nélküli tárgyalásos eljárás eredményeként úgy kötötték meg, hogy nem álltak fenn a hirdetmény nélküli tárgyalásos eljárás alkalmazhatóságának feltételei [125. §; (1)–(5) bekezdések, 225. §, 252. § (1) bekezdése, 261. § (4) bekezdése] ;
+- c) a felek a szerződéskötési moratóriumra [96/A. § (4) bekezdés, 99. § (3) és (4) bekezdése] vonatkozó szabályok megsértésével kötöttek szerződést és ezzel megfosztották az ajánlattevőt attól, hogy a szerződéskötést megelőzően jogorvoslati eljárás megindítását kérelmezze, egyben olyan módon sértették meg a közbeszerzésekre vonatkozó szabályokat, hogy az befolyásolta az ajánlattevő esélyét a közbeszerzési eljárás megnyerésére.
 
 (3) A perben egyéb polgári jogi igény nem érvényesíthető, a szerződés érvénytelenségének a (2) bekezdésben nem szereplő érvénytelenségi okok miatti megállapítása nem kérelmezhető.
 
@@ -3687,9 +3695,9 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 (5) A perben szünetelésnek nincs helye.
 
-350/B. § (1) A bíróság a Közbeszerzési Döntőbizottság határozatát – a bírság összegét is ideértve – megváltoztathatja és alkalmazhatja a 340. § (2) bekezdésének f) pontja, a (3) és (4) bekezdése szerinti jogkövetkezményeket. Ha a bíróság a Közbeszerzési Döntőbizottság határozatát hatályon kívül helyezi, a szerződés érvénytelenségének tárgyában a pert megszünteti.
+350/B. § (1) A bíróság a Közbeszerzési Döntőbizottság határozatát – a bírság összegét is ideértve – megváltoztathatja és alkalmazhatja a 340. § (2) bekezdésének f) pontja, a (3) és (4) bekezdése szerinti jogkövetkezményeket. Ha a bíróság a Közbeszerzési Döntőbizottság határozatát hatályon kívül helyezi, a szerződés érvénytelenségének tárgyában a pert megszünteti. A bíróság a Közbeszerzési Döntőbizottság határozatát kizárólag abban az esetben helyezi hatályon kívül, ha a Közbeszerzési Döntőbizottság eljárása során a jogorvoslati eljárás lényeges és az ügy érdemére kiható szabályainak megsértésére került sor.
 
-(2) Ha a bíróság a közbeszerzési eljárás alapján megkötött szerződés részleges érvénytelenségét, illetve az érvénytelenség hiányát kifejezetten a 306/A. § (3) bekezdése alapján állapítja meg, bírságot köteles kiszabni, amelynek összege a szerződés értékének tíz százaléka.
+(2) Ha a bíróság a közbeszerzési eljárás alapján megkötött szerződés részleges érvénytelenségét, illetve az érvénytelenség hiányát kifejezetten a 306/A. § (3) bekezdése alapján állapítja meg, bírságot köteles kiszabni, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének tizenöt százaléka. Ha az érvénytelenség jogkövetkezményeinek megállapításakor a bíróság a szerződést a határozathozatalig terjedő időre hatályossá nyilvánítja, bírságot köteles kiszabni, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének tíz százaléka.
 
 (3) A bíróság határozata ellen a határozat közlésétől számított nyolc napon belül fellebbezésnek van helye.
 
@@ -3697,7 +3705,11 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 350/C. § (1) Ha a bíróság a 340/A. § (1) bekezdése szerinti perben megállapítja a szerződés 306/A. § (2) bekezdésében meghatározott okok miatti érvénytelenségét, a szerződés megkötésének időpontjától kezdve érvénytelenné válik, és a szerződés megkötése előtt fennállott helyzetet kell visszaállítani.
 
-(2) Ha a bíróság a közbeszerzési eljárás alapján megkötött szerződés részleges érvénytelenségét, illetve az érvénytelenség hiányát kifejezetten a 306/A. § (3) bekezdése alapján állapítja meg, bírságot köteles kiszabni, amelynek összege a szerződés értékének tíz százaléka.
+(2) Ha a bíróság a közbeszerzési eljárás alapján megkötött szerződés részleges érvénytelenségét, illetve az érvénytelenség hiányát kifejezetten a 306/A. § (3) bekezdése alapján állapítja meg, bírságot köteles kiszabni, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének tizenöt százaléka. Ha az érvénytelenség jogkövetkezményeinek megállapításakor a bíróság a szerződést a határozathozatalig terjedő időre hatályossá nyilvánítja, bírságot köteles kiszabni, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének tíz százaléka.
+
+(3) A 340/A. § (1) bekezdése szerinti perre az a megyei bíróság kizárólagosan illetékes, amely ugyanazon közbeszerzési jogsértés ügyében a 346. § szerinti közigazgatási perben eljár. Ha a Közbeszerzési Döntőbizottság 306/A. § (2) bekezdése szerinti jogsértést megállapító érdemi határozatának bírósági felülvizsgálatát kérték, a Közbeszerzési Döntőbizottság által ugyanazon ügyben indított polgári pert – amennyiben a közigazgatási per indul később – a 346. § szerinti közigazgatási per bíróságához át kell tenni. A közigazgatási pert és a Közbeszerzési Döntőbizottság által indított polgári pert egyesíteni kell. A Közbeszerzési Döntőbizottság köteles haladéktalanul tájékoztatni a polgári perben eljáró bíróságot arról, ha a 306/A. § (2) bekezdése szerinti jogsértést megállapító érdemi határozatának bírósági felülvizsgálatát kérő keresetlevelet nála benyújtották.
+
+(4) Az (3) bekezdés szerinti egységes perben a Pp. XX. fejezetét a 350. § (3) bekezdésében, a 350/A. § (3)–(5) bekezdésében, valamint a 350/B. §-ban foglalt eltérésekkel kell alkalmazni.
 
 ### A közbeszerzésekkel kapcsolatos egyéb polgári perek
 
@@ -4151,6 +4163,14 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 
 403/B. § A kormány által az európai uniós és egyéb nemzetközi támogatások ellenőrzésére kijelölt szerv a Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményezheti a 2010. szeptember 15-ét megelőzően megkezdett beszerzések, tervpályázati eljárások, valamint ezen eljárások alapján megkötött szerződések esetében is. A Közbeszerzési Döntőbizottság hivatalból való eljárásának kezdeményezésére e törvénynek a közbeszerzésekről szóló 2003. évi CXXIX. törvény módosításáról szóló 2010. évi LXXXVIII. törvény 78. §-ának (2) bekezdésével megállapított 327. § (2) bekezdésében foglaltakat kell alkalmazni.
 
+403/C. § (1) A 340/A. § alapján indított, 2011. április 1-jén folyamatban lévő és a 346. § alapján folyamatban lévő per befejezéséig felfüggesztett ügyeket át kell tenni a Kbt. 350/C. § (3) bekezdése szerint illetékes bírósághoz.
+
+(2) E törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 10. § (4) bekezdése, 40. § (2), (4) és (7) bekezdése, 96/A. § (3) bekezdése, 132. §-a, 136. § (4) bekezdés b) pontja, 136/C. § (5) bekezdése, 242. § (3) bekezdése, 261. § (1) bekezdése, 261. § (3) bekezdése, 306/A. § (2) bekezdése, 337. § (2) bekezdése, 340/A. § (1) bekezdése, 341. §-a (6) bekezdése, 350. § (2) bekezdése, 350/B. § (2) bekezdése, 350/C. § (2) bekezdése, a 2011. április 1-jét követően megkezdett beszerzésekre, tervpályázati eljárásokra és ezen eljárások alapján megkötött szerződésekre, továbbá az ezen eljárásokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra, illetőleg kérelmezett előzetes vitarendezési eljárásokra kell alkalmazni. E törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel hatályon kívül helyezett 118. § (3) bekezdését, 136. § (3) bekezdését és 247. § (4) bekezdését a 2011. április 15-ét követően megkezdett beszerzésekre nem kell alkalmazni.
+
+(3) E törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX.törvénnyel megállapított 348/A. § (4), 350/B. § (1) bekezdése és 350/C. § (3)–(4) bekezdésének rendelkezéseit – az (1) bekezdésben foglaltakra figyelemmel – a 2011. április 1-jén folyamatban lévő ügyekre is alkalmazni kell. A 327. § (1) bekezdés b) és k) pontja szerinti szervezet a Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményezheti e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 327. § (2) bekezdésének a) és b) pontja szerint a 2011. április 1-jét megelőzően megkezdett beszerzések, tervpályázati eljárások, valamint ezen eljárások alapján megkötött szerződések esetében is.
+
+(4) E törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 250. § (4) bekezdését a 2011. április 15-ét követően megkezdett beszerzésekre, tervpályázati eljárásokra és ezen eljárások alapján megkötött szerződésekre, továbbá az ezen eljárásokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra, illetőleg kérelmezett előzetes vitarendezési eljárásokra kell alkalmazni. E törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel hatályon kívül helyezett 231. §-ának (2) bekezdését és 237. §-ának (2) bekezdését a 2011. április 15-ét követően megkezdett beszerzésekre nem kell alkalmazni.
+
 ### Felhatalmazás
 
 404. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
@@ -4169,7 +4189,7 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 - l) a dinamikus beszerzési rendszerre vonatkozó szabályokat;
 - m) a védett foglalkoztatók részére fenntartott közbeszerzések részletes – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – szabályait;
 - n) a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
-- o)
+- o) az irányítása vagy felügyelete alá tartozó költségvetési szervek, továbbá az azok vagyonkezelésébe tartozó, többségi állami tulajdonban álló gazdálkodó szervezetek, valamint a Kormány közalapítványai közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, e szervezetek közbeszerzési szerződései teljesítésének ellenőrzésére és módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő, vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését
 - p)
 
 (2) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy rendeletben szabályozza
@@ -4177,7 +4197,8 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 - a) a hirdetmények, bírálati összegezések és az éves statisztikai összegezés mintáját;
 - b) a közbeszerzésekre vonatkozó nómenklatúrát;
 - c) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására vonatkozó szabályokat;
-- d) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat, az államháztartásért felelős miniszter egyetértésével.
+- d) a hivatalos közbeszerzési tanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat, az államháztartásért felelős miniszter egyetértésével;
+- e) a közbeszerzések központi ellenőrzésével és engedélyezésével összefüggésben megküldendő adatok körét, továbbá a beszerzési tervvel, közbeszerzési tervvel, annak módosításával, illetve a közbeszerzési eljárásokkal, valamint a nem közbeszerzési eljárás keretében megkötött, illetve módosított, beszerzést megvalósító szerződésekkel kapcsolatos adatok nyilvántartására és kezelésére vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben szabályozza a munkavállalók védelmére és a munkafeltételekre vonatkozó tájékoztatási kötelezettség teljesítésének eljárási szabályait és díjazását.
 

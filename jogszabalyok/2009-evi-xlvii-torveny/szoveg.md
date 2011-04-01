@@ -351,7 +351,10 @@ kell nyilvántartani.
 
 ### III. Fejezet — AZ EURÓPAI UNIÓ TAGÁLLAMAINAK BÍRÓSÁGAI ÁLTAL MAGYAR ÁLLAMPOLGÁROKKAL SZEMBEN HOZOTT ÍTÉLETEK NYILVÁNTARTÁSA
 
-31. § Az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásában (a továbbiakban: tagállami ítéletek nyilvántartása) szereplő adatok kezelésének célja az Európai Unió tagállamaival folytatott bűnügyi együttműködés elősegítése érdekében az Európai Unió más tagállamában magyar állampolgárral szemben hozott, bűnösséget megállapító jogerős ítéletekben (a továbbiakban: tagállami ítélet) foglalt adatok tagállamok közötti kölcsönös cseréjének elősegítése.
+31. § Az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásában (a továbbiakban: tagállami ítéletek nyilvántartása) szereplő adatok kezelésének célja az Európai Unió más tagállamában magyar állampolgárral szemben hozott, bűnösséget megállapító jogerős ítéletekben (a továbbiakban: tagállami ítélet) foglalt adatoknak:
+
+- a) tagállamok közötti – az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében folytatott – kölcsönös cseréjének elősegítése,
+- b) az elítélttel szemben más bűncselekmény elkövetésének megalapozott gyanúja miatt folytatott büntetőeljárásban való figyelembevétele.
 
 32. § A tagállami ítéletek nyilvántartásában annak a magyar állampolgárnak az adatait kell nyilvántartani, akinek bűnösségét az Európai Unió más tagállamának bírósága jogerősen megállapította.
 
@@ -373,6 +376,17 @@ kell nyilvántartani.
 - g) a mentesítés várható időpontját.
 
 (3) A tagállami ítéletek nyilvántartása tartalmazza az elismerő határozat számát és keltét is, ha az Európai Unió más tagállamának bírósága által meghozott ítélet érvényét a magyar bíróság elismerte.
+
+33/A. § (1) A bűnügyi nyilvántartó szerv az érintett személyazonosító adatait bejegyzéskor, a tagállami ítéletek nyilvántartása adatainak módosításakor vagy javításakor, valamint a kérelemre történő adattovábbítást megelőzően – a változások nyomon követése céljából – elektronikus úton egyedileg összehasonlítja a személyiadat- és lakcímnyilvántartás központi szerve által kezelt adatokkal.
+
+(2) Ha az elítélt személy személyazonossága az Európai Unió más tagállamának kijelölt központi hatósága által a bűnügyi nyilvántartó szerv részére megküldött személyazonosító adatok alapján kétséget kizáró módon nem állapítható meg, a bűnügyi nyilvántartó szerv – ha az Európai Unió más tagállamának kijelölt központi hatósága erre vonatkozóan küldött adatot –
+
+- a) a 33. § (2) bekezdés a) pontjában meghatározott adatok alapján a személyiadat- és lakcímnyilvántartás központi szerve által továbbított, az érintett szüleinek nevére,
+- b) a 33. § (2) bekezdés d) pontjában meghatározott adatok alapján a személyiadat- és lakcímnyilvántartás központi szerve, a közúti közlekedési nyilvántartást kezelő nyilvántartó, vagy a központi útiokmány-nyilvántartást kezelő központi adatkezelő szerv által továbbított, az érintett személyazonosító okmánya típusára és számára vonatkozó adatokkal való összehasonlítás útján állapítja meg az elítélt személy személyazonosságát.
+
+(3) Ha az elítélt személy személyazonossága az (1) vagy (2) bekezdésben meghatározott módon kétséget kizáróan nem állapítható meg, és az Európai Unió más tagállamának kijelölt központi hatósága a 33. § (2) bekezdés e) pontjában meghatározott adatot a bűnügyi nyilvántartó szerv részére megküldte, a bűnügyi nyilvántartó szerv ezeket az adatokat megküldi a szakértői nyilvántartó szerv részére a 38. § b) vagy c) pont szerinti daktiloszkópiai nyilvántartásban kezelt ujj- és tenyérnyomatokkal való összehasonlítás céljából.
+
+(4) Ha az elítélt személy személyazonossága az (1)–(3) bekezdésben meghatározott módon kétséget kizáróan nem állapítható meg, a bűnügyi nyilvántartó szerv az Európai Unió más tagállamának kijelölt központi hatósága által megküldött, egy személyhez kétséget kizáróan nem kapcsolható adatokról adattovábbítást nem teljesíthet.
 
 34. § (1) A 33. §-ban meghatározott adatokat a tagállami ítéletről szóló tájékoztatásban meghatározott mentesítés beálltának idejéig kell nyilvántartani. Ha e tájékoztatásban nem szerepel mentesítésre vonatkozó adat, az adatokat akkor kell törölni, amikor a tagállam kijelölt központi hatóságának tájékoztatása szerint azt az érintett tagállam bűnügyi nyilvántartásából törölték.
 
@@ -399,10 +413,9 @@ kell nyilvántartani.
 - a) a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomat alapján a bűncselekmény elkövetésével összefüggésbe nem hozható,
 - b) a bűncselekményt elkövető,
 - c) a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt,
-- d) a büntetés-végrehajtási intézetbe, valamint a rendőrségi fogdába befogadás során a befogadott, valamint
-- e) a személyazonosság igazolásának megtagadása esetén az igazoltatott
-
-személy azonosítása.
+- d) a büntetés-végrehajtási intézetbe, valamint a rendőrségi fogdába befogadás során a befogadott,
+- e) a személyazonosság igazolásának megtagadása esetén az igazoltatott, valamint
+- f) a 33/A. § (3) bekezdésében meghatározott feltételek fennállása esetén a külföldi bíróság által elítélt személy azonosítása.
 
 38. § A daktiloszkópiai nyilvántartás
 
@@ -887,7 +900,8 @@ céljából jogosult.
 (5) A (4) bekezdésben meghatározott eseteken kívül a daktiloszkópiai nyilvántartásból az (1) bekezdés szerinti összehasonlítás kezdeményezésére és adatátvételre
 
 - a) a rendőrség a személyazonosság igazolásának megtagadása esetén az igazoltatott személy azonosítása,
-- b) a büntetés-végrehajtási intézet a befogadás során a befogadott személy azonosítása
+- b) a büntetés-végrehajtási intézet a befogadás során a befogadott személy azonosítása,
+- c) a bűnügyi nyilvántartó szerv a 33/A. § (3) bekezdésében meghatározott esetben, külföldi bíróság által elítélt személy személyazonosságának megállapítása
 
 céljából jogosult.
 
@@ -917,14 +931,6 @@ továbbítja.
 ### Automatikus találati adathozzáférés
 
 85. § (1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen (a továbbiakban: Prümi Szerződés) alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az együttműködő tagállamának kijelölt nemzeti kapcsolattartó pontja részére az ujj- és tenyérnyomat, valamint a DNS-profil elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.
-
-[(1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen, valamint az Európai Unió kötelező jogi aktusán alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az Európai Unió más tagállamának, valamint az Európai Unió kötelező jogi aktusában meghatározott más állam (a továbbiakban együtt: együttműködő tagállam) kijelölt nemzeti kapcsolattartó pontja részére
-
-a) bűnmegelőzés és büntetőeljárás lefolytatása céljából az ujj- és tenyérnyomat, valamint
-
-b) büntetőeljárás lefolytatása céljából a DNS-profil
-
-elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.]
 
 (2) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil megegyezik az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az együttműködő tagállama nemzeti kapcsolattartó pontja részére ennek tényét, valamint az ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot automatikusan megküldi.
 
@@ -1076,7 +1082,7 @@ fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint meg
 
 - a) a Tanács 2008/977/IB kerethatározata a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről,
 - b) a Tanács 2009/315/IB kerethatározata a bűnügyi nyilvántartásból származó információk tagállamok közötti cseréjének megszervezéséről és azok tartalmáról,
-- c) az Európai Parlament és a Tanács 95/46/EK irányelve a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról. [d) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 2–11. cikkei, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB határozat végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozat 2–14. cikkei, e) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozat (2009. szeptember 21.).]
+- c) az Európai Parlament és a Tanács 95/46/EK irányelve a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról.
 
 #### 99. §
 
