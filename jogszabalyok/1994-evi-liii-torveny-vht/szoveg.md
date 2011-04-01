@@ -161,7 +161,7 @@ a bírósági végrehajtásról
 22. § A bíróság végrehajtási záradékkal látja el
 
 - a) a községi, városi, fővárosi kerületi jegyzőnek a birtokvitában hozott, az elmaradt haszon, a kár és a költség megtérítésére kötelező határozatát,
-- b) az ügyvédi fegyelmi hatóságnak, a tervező- és szakértő mérnökök, valamint építészek fegyelmi testületének és az igazságügyi szakértői kamara etikai tanácsának, továbbá az egészségügyről szóló 1997. évi CLIV. törvény 140/B. § (1) bekezdése és 140/C. § (2) bekezdése szerinti szervek pénzbírság és eljárási költség megfizetésére kötelező határozatát,
+- b) az ügyvédi fegyelmi hatóságnak, a tervező- és szakértő mérnökök, valamint építészek fegyelmi testületének és az igazságügyi szakértői kamara etikai tanácsának, továbbá az egészségügyben működő szakmai kamarákról szóló külön törvény szerinti első- és másodfokú etikai bizottságok pénzbírság és eljárási költség megfizetésére kötelező határozatát,
 - c)
 - d) azt a teljes bizonyító erejű magánokiratot, amely az ingatlan közös tulajdonának árveréssel történő megszüntetésére irányuló szerződésről szól, ha az okirat tartalmazza az ingatlan becsértékét, az árverési feltételeket, továbbá az eljárási költség viselésének és a befolyt vételár felosztásának a módját,
 - e) a Szellemi Tulajdon Nemzeti Hivatalának a költségek viselése tárgyában hozott döntését,
@@ -801,7 +801,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 74. § Mentes a végrehajtás alól
 
 - a) a nemzeti gondozási díj és a hadigondozottak pénzbeli ellátása, az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvény szerint járó életjáradék,
-- b) az átmeneti segély, ideértve a meghatározott célra kapott segélyt is, a rendszeres szociális segély, a rendelkezésre állási támogatás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
+- b) az átmeneti segély, ideértve a meghatározott célra kapott segélyt is, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
 - c) az anyasági segély,
 - d) a rokkantsági járadék és a vakok személyi járadéka,
 - e) a megváltozott munkaképességű, illetve egészségkárosodást szenvedett személyt erre tekintettel megillető juttatás (keresetkiegészítés, átmeneti keresetkiegészítés, jövedelemkiegészítés, átmeneti jövedelemkiegészítés, rendszeres szociális járadék, átmeneti járadék, bányász dolgozók egészségkárosodási járadéka),
@@ -1792,7 +1792,7 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 ### A végrehajtási költség elsőbbsége
 
-164. § A végrehajtás során befolyt összegből mindenekelőtt a végrehajtási költséget – az eljárás kezdeményezésével, elrendelésével és foganatosításával felmerült költséget – kell kielégíteni.
+164. § [(1)] A végrehajtás során befolyt összegből mindenekelőtt a végrehajtási költséget – az eljárás kezdeményezésével, elrendelésével és foganatosításával felmerült költséget – kell kielégíteni.
 
 ### Kielégítési sorrend
 

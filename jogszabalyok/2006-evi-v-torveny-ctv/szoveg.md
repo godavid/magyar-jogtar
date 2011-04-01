@@ -537,7 +537,7 @@ is fel kell tüntetni a cégjegyzékben.
 
 ### 1. CÍM — Közös szabályok
 
-32. § (1) A cégbejegyzési (változásbejegyzési) eljárás – ide nem értve a jogorvoslati eljárást – elektronikus nemperes eljárás, amelyre a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait – ha e törvény másként nem rendelkezik – megfelelően alkalmazni kell, szünetelésnek azonban nincs helye. Az eljárás felfüggesztésére változásbejegyzési eljárásban kerülhet sor, illetve a cég bejegyzése esetén akkor, ha átalakulás bejegyzése történik, illetve a bejegyzési eljárás folyamata alatt törvényességi felügyeleti kérelmet nyújtanak be.
+32. § (1) A cégbejegyzési (változásbejegyzési) eljárás – ideértve a cégbejegyzést (változásbejegyzést) elutasító (részben elutasító) végzés elleni fellebbezést elbíráló jogorvoslati eljárást is – elektronikus nemperes eljárás, amelyre a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait – ha e törvény másként nem rendelkezik – megfelelően alkalmazni kell, szünetelésnek azonban nincs helye. Az eljárás felfüggesztésére változásbejegyzési eljárásban kerülhet sor, illetve a cég bejegyzése esetén akkor, ha átalakulás bejegyzése történik, illetve a bejegyzési eljárás folyamata alatt törvényességi felügyeleti kérelmet nyújtanak be.
 
 (2) Az eljárás során csak okirati bizonyítás folytatható le.
 
@@ -573,7 +573,7 @@ is fel kell tüntetni a cégjegyzékben.
 
 (5) Ha törvény a cégirat cégbírósághoz történő benyújtására közvetlenül valamely személyt kötelez, e személy a kötelezettségét elektronikus okiratként készített cégirat esetén – választása szerint – minősített elektronikus aláírás alkalmazásával vagy anélkül, a kormányzati portálon keresztül maga is teljesítheti. Ha a cégiratot elektronikus okirati formába kell alakítani, erre, és az elektronikus okirat cégbírósághoz való benyújtására a jogi képviselő vagy a cégirat benyújtására kötelezett személy jogosult. A jogi képviselő eljárására egyebekben a 37–38. § rendelkezéseit megfelelően alkalmazni kell.
 
-(6) E §, valamint a 37–40. § rendelkezései csak az elsőfokú eljárásban alkalmazhatók.
+(6) A 36–40. § rendelkezéseit a jogorvoslati eljárásokban megfelelően alkalmazni kell.
 
 37. § (1) A jogi képviselő feladata az általa készített okiratok mellett a cégbejegyzési (változásbejegyzési) kérelem mellékletét képező, nem általa készített okiratok (pl. tulajdoni lap másolata, hatósági engedély, a pénzforgalmi szolgáltató igazolása a pénzbetétek befizetéséről) elektronikus okirati formába történő átalakítása is. A hatóságok, pénzforgalmi szolgáltatók vagy más szervek által kiadott – törvény eltérő rendelkezésének hiányában – minősített elektronikus aláírással ellátott elektronikus dokumentum közvetlenül csatolható a kérelemhez.
 
@@ -1478,6 +1478,8 @@ módosuló jogszabályok
 127. § (1) Ahol jogszabály a bírósági cégnyilvántartásról és a cégek törvényességi felügyeletéről szóló 1989. évi 23. törvényerejű rendeletet, valamint a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvényt említi, ott azon e törvényt kell érteni.
 
 (2) Ahol törvény a hivatalbóli törlési eljárásról, illetve a törlési eljárásról rendelkezik, ott azon a megszüntetési eljárást kell érteni.
+
+127/A. § E törvénynek az egyes cégjogi és társasági jogi tárgyú törvények módosításáról szóló 2010. évi CLXXIX. törvény 5. §-ával megállapított 32. § (1) bekezdését és 36. § (6) bekezdését az azok hatálybalépését követően benyújtott fellebbezések alapján indult eljárásokban kell alkalmazni.
 
 128. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 

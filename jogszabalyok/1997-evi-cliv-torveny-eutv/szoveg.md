@@ -1476,7 +1476,7 @@ kell alkalmazni.
 - g) a működési nyilvántartás meghosszabbításának kezdő, befejező dátuma, a meghosszabbítás alapjául szolgáló, az egészségügyi tevékenység szüneteltetésének oka, kezdő, befejező dátuma,
 - h) a tudományos fokozat,
 - i) az egészségügyi dolgozó szakmai kamarai tagságának ténye, a tagság kezdete és megszűnése,
-- j) az egészségügyi dolgozóval szemben etikai eljárás keretében kiszabott jogerős büntetés ténye a büntetést kiszabó határozat jogerőre emelkedése napjának megjelölésével együtt,
+- j) az egészségügyi dolgozóval szemben törvény alapján etikai eljárás keretében kiszabott jogerős büntetés ténye a büntetést kiszabó határozat jogerőre emelkedése napjának és elévülése időpontjának megjelölésével együtt,
 - k) az egészségügyi dolgozó alap- és működési nyilvántartási száma,
 - l) a külföldi munkavégzés helye, időtartama,
 - m) a felügyelet melletti tevékenységgyakorlás kezdete és időtartama, a felügyeletet ellátó személy neve, működési nyilvántartási száma,
@@ -1531,7 +1531,8 @@ kell alkalmazni.
 - e) aki felróható magatartásával a működési nyilvántartást vezető szervvel a nyilvántartás körébe tartozó valótlan adatot közöl,
 - f) aki szakirányú szakképesítéshez kötött tevékenységet – ha jogszabály eltérően nem rendelkezik – a megfelelő szakképesítés, illetve szakirányú szakképesítés működési nyilvántartásba történő bejelentése nélkül vagy azt megelőzően kezd meg,
 - g) aki elhalálozott,
-- h) aki a törlését kéri.
+- h) aki a törlését kéri,
+- i) akinek – feltéve, hogy törvény kötelező kamarai tagságot ír elő – kamarai tagsága megszűnt.
 
 (2) Ha az egészségügyi dolgozó működési nyilvántartását azért nem újította meg, mert az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti gyakorlati továbbképzési kötelezettségét nem tudta teljesíteni, nem törölhető a működési nyilvántartásból, amennyiben legkésőbb a törlés időpontjáig a nyilvántartást vezető szervnek igazolja, hogy a nyilvántartásból való törlés elkerülése érdekében az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti kiegészítő gyakorlati továbbképzésben részt vesz. A kiegészítő gyakorlati képzést az igazolás beérkezését követő naptól számított egy éven belül kell teljesíteni.
 
@@ -1892,114 +1893,7 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 
 140. § Az egészségügyi dolgozó, valamint az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy jogosult és köteles szakmai ismereteinek – a tudomány mindenkori állásával, fejlődésével összhangban történő – folyamatos továbbfejlesztésére.
 
-### Az egészségügyi dolgozókra vonatkozó felelősségi szabályok
-
-140/A. § (1) Az egészségügyi dolgozók általános szakmai, illetőleg etikai (a továbbiakban együtt: etikai) szabályainak kidolgozására, továbbá meghatározott esetekben az egészségügyi dolgozókkal szemben szakmai-etikai (a továbbiakban: etikai) eljárás lefolytatására Országos Etikai Tanács (a továbbiakban: OET) működik és az egészségügyi dolgozókkal szemben etikai eljárás lefolytatására Megyei Etikai Tanácsok (a továbbiakban: MET) működnek.
-
-(2) Az OET jogi személy, gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni. Tevékenységét a miniszter irányítja.
-
-(3) Az OET titkársági feladatait az egészségügyi államigazgatási szerv látja el.
-
-(4) A MET-ek az egészségügyi igazgatási szerv szervezeti keretében működnek.
-
-(5) Az OET teljes ülésén, a tagok minősített többségével megalkotott, az egészségügyi dolgozókra kiterjedő szakmai-etikai szabályzatot (a továbbiakban: Rendtartás) az egészségügyért felelős miniszter elé jóváhagyás céljából fel kell terjeszteni. A jóváhagyott Rendtartást a miniszter rendeletében hirdeti ki. Az OET az etikai gyakorlat egységességének biztosítása érdekében elvi állásfoglalásokat adhat ki. Az elvi állásfoglalás magatartást etikai vétséggé nem nyilváníthat, és etikai vétséghez etikai büntetést vagy büntetéstípust nem rendelhet.
-
-(6) A Rendtartás, valamint módosításai, továbbá az elvi állásfoglalások tervezetét az OET véleményezés céljából megfelelő határidő tűzésével megküldi a szakmai kamarák részére.
-
-(7) A Rendtartás tartalmára a szakmai kamara – a (6) bekezdés szerinti véleményezési jog gyakorlásától függetlenül – évente legfeljebb egy alkalommal javaslatot tehet. Az OET
-
-- a) a rendtartás tervezetének előkészítése során a javaslatot köteles mérlegelni;
-- b) a javaslat figyelmen kívül hagyása, vagy részleges figyelembevétele esetén ennek okairól az egészségügyért felelős minisztert a Rendtartás jóváhagyás céljából történő felterjesztése során írásban tájékozatja;
-- c) a b) pontban foglaltakról a kamarát a javaslat beérkezését követő 60 napon belül írásban tájékoztatja.
-
-(8) Az OET tagja:
-
-- a) az egészségügyi államigazgatási szerv által kijelölt 3 személy, akik közül 1 orvos, 1 gyógyszerész, 1 egészségügyi szakdolgozó,
-- b) az egészségügy területén működő szakmai kamarák országos elnöksége által delegált 1-1 személy,
-- c) az egészségügyért felelős miniszter 1 képviselője,
-- d) az Egészségügyi Tudományos Tanács Elnökségének tagja,
-- e) a szakmai kollégiumok elnöksége által delegált egy tag.
-
-(9) A megyékben és a fővárosban működő MET-ek tagjai:
-
-- a) az egészségügyi államigazgatási szerv 3 képviselője, akik közül 1 orvos, 1 gyógyszerész, 1 egészségügyi szakdolgozó,
-- b) az egészségügy területén működő szakmai kamarák illetékes területi szervezete által delegált 1-1 képviselő,
-- c) a szakmai kollégiumok elnöksége által delegált egy tag,
-- d) a megye területén működő egészségügyi szakellátást nyújtó közszolgáltatók közül a gyógyintézetek
-  - da) 1-1 képviselője,
-  - db) fenntartóinak/tulajdonosainak – ideértve az egyetemi centrumokat és klinikákat működtető egyetemek képviselőit is – 1-1 képviselője, függetlenül az adott megyében általuk fenntartott/tulajdonolt gyógyintézetek számától.
-
-(10) Az OET, és a MET tagja ugyanazon személy nem lehet.
-
-(11) Az OET, illetve a MET-ek tagjait öt évre jelölik azzal, hogy megbízatásuk ismételten meghosszabbítható.
-
-(12) Az OET, illetve a MET tagjának megbízatása megszűnik:
-
-- a) a meghatározott idő leteltével,
-- b) halálával,
-- c) lemondásával,
-- d) visszahívásával. A megbízatás megszűnését követő 15 napon belül az arra jogosult szerv gondoskodik új tag állításáról.
-
-(13) Az OET elnökét az OET jelenlevő tagjai többségi szavazással választják meg. A MET-ek elnökeit a MET jelenlevő tagjai többségi szavazással választják meg. Az OET elnökének és a MET-ek elnökeinek megbízatása tagsági megbízatásukhoz igazodik, továbbá egy alkalommal újraválaszthatóak.
-
-140/B. § (1) Az egészségügyi dolgozók által elkövetett, a Rendtartásban foglalt etikai szabályok vétkes megszegése esetén első fokon az egészségügyi dolgozó tevékenységének helye szerint illetékes MET – háromtagú bizottságban eljárva – etikai eljárást folytat le (a továbbiakban: elsőfokú etikai bizottság). Kamarai tagok tekintetében az elsőfokú etikai bizottság az érintett szakmai kamara külön törvény szerinti etikai szerve, amely eljárását az e törvény szerinti eljárási szabályok és jogkövetkezmények megfelelő alkalmazásával folytatja le. Az etikai eljárás lefolytatására hatáskörrel rendelkező szerv megállapítása során az etikai vétség elkövetésének, illetve elkövetése megkezdésének időpontja az irányadó.
-
-(2) Az etikai eljárást az etikai szabályok vétkes megszegésének gyanúja esetén meg kell indítani. Az etikai eljárás megindításáról az egészségügyi dolgozót – az eljárás megindításával egyidejűleg – írásban értesíteni kell.
-
-(3) Nem indítható meg az etikai eljárás, ha a cselekménynek az elsőfokú etikai bizottság tudomására jutásától 3 hónap, vagy a cselekmény elkövetése óta 3 év eltelt.
-
-(4) Az elsőfokú etikai bizottság eljárásában – amennyiben az adott etikai bizottságban bizottsági tagként eljár ilyen személy – az ügy tárgya szerinti szakterületen jártas tag részt vesz. Ennek hiányában szakértőt kell kirendelni.
-
-(5) Az etikai eljárást a (2) bekezdésben meghatározott eset bekövetkezésén túl akkor is meg kell indítani, ha annak lefolytatását az egészségügyi dolgozó maga ellen kéri.
-
-(6) Az adott ügyben eljáró elsőfokú etikai bizottság tagjait és elnökét – tagjaik közül – az illetékes MET-elnök jelöli ki.
-
-140/C. § (1) Az elsőfokú etikai bizottság az etikai felelősség tárgyában hozott határozatát közli az etikai eljárás megindítását kezdeményezővel is.
-
-(2) Az elsőfokú határozattal szemben az érintett egészségügyi dolgozó, valamint az etikai eljárás megindítását kezdeményező, továbbá, ha az elsőfokú etikai határozatot az érintett szakmai kamara külön törvény szerinti etikai szerve hozta, az a MET, amely az adott felelősségi ügyben az eljárás alá volt személy kamarai tagságának hiányában eljárt volna, fellebbezhet az OET-hez. A fellebbezés alapján az OET öttagú bizottságban eljárva (a továbbiakban: országos etikai bizottság) folytatja le a másodfokú etikai eljárást. Az adott ügyben eljáró országos etikai bizottság tagjait és elnökét – tagjaik közül – az OET elnöke jelöli ki.
-
-(3) A másodfokon eljáró országos etikai bizottság a határozatot közli az érintett egészségügyi dolgozóval, az etikai eljárást kezdeményezővel, valamint az első fokon eljáró etikai bizottsággal. A fellebbezési eljárásra a 140/B. § (4) bekezdésében foglalt rendelkezéseket is megfelelően alkalmazni kell. A másodfokon eljáró országos etikai bizottság az első fokú határozatot a 140/E. § (2) bekezdése szerinti, a kamarai tagokkal szemben kiszabható, a kamarai tagsági viszonyt érintő etikai büntetést érintő részében nem változtathatja meg. E szankciók alkalmazása tekintetében – a felülvizsgált határozat egyéb részei vonatkozásában hozott határozatától függően – a másodfokon eljáró országos etikai bizottság az első fokú határozatot e részében megsemmisíti és az első fokon eljárt kamarai etikai szervet új eljárásra utasíthatja.
-
-(4) Az etikai eljárásra a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell megfelelően alkalmazni azzal, hogy a törvény
-
-- a) hatósági közvetítőre,
-- b) eljárási költség viselésére,
-- c) költségmentességre,
-- d) elektronikus kapcsolattartásra
-
-vonatkozó rendelkezései nem alkalmazhatók.
-
-(5) A másodfokú határozat ellen a fellebbezés benyújtására jogosultak kérhetnek bírósági felülvizsgálatot.
-
-(6) Ha az etikai eljárás során bizonyítást nyer, hogy a kezdeményező az eljárást nyilvánvalóan rosszhiszeműen indította meg, az eljáró etikai szerv – ha egyes költségek tekintetében törvény másként nem rendelkezik – az eljárási költségek viselésére kötelezi a kezdeményezőt.
-
-140/D. § (1) A bizonyítási eljárást tárgyalás keretében kell lefolytatni.
-
-(2) Kizárási okot az etikai eljárást kezdeményező is az eljárás bármely szakaszában bejelenthet. A kizárási okot az eljáró etikai bizottság elnökének, az elnökkel szembeni kizárási okot az OET elnökének, az OET elnökével szembeni kizárási okot az egészségügyért felelős miniszternek kell bejelenteni, akik határoznak az eljárásból való kizárás tárgyában.
-
-140/E. § (1) Kiszabható etikai büntetések:
-
-- a) a figyelmeztetés,
-- b) a megrovás,
-- c) a mindenkori legkisebb kötelező munkabér havi összegének tízszereséig terjedő pénzbírság.
-
-(2) Amennyiben elsőfokú etikai bizottságként a külön törvény szerinti kamarai etikai szerv jár el, ezen etikai szerv – az (1) bekezdésben szereplő etikai büntetés alkalmazásával egyidejűleg, mellékbüntetésként – kiszabhatja a következő etikai büntetések valamelyikét:
-
-- a) a kamarai tagsági viszony 1–6 hónapig terjedő felfüggesztése,
-- b) a kamarából történő kizárás, a külön törvény szerinti, a kamarából történő kötelező kizárás eseteiben.
-
-(3) Az első- és másodfokú etikai bizottság határozatot tagjainak szótöbbségével hoz.
-
-(4) Az etikai felelősség megállapítása esetén az etikai bizottság határozatában kötelezheti az elmarasztalt személyt az eljárás költségeinek részben vagy egészben történő viselésére.
-
-(5) Az (1) bekezdés szerinti etikai büntetés jogerős kiszabása esetén a megfelelő további intézkedések megtétele és eljárás megindítása érdekében a határozatot közölni kell
-
-- a) az érintett személy munkáltatójával,
-- b) az egészségügyi államigazgatási szervvel.
-
-(6) Az (1) bekezdés szerinti etikai büntetés jogerős kiszabása esetén a határozatot közölni kell az egészségügyi dolgozó tevékenysége szerinti működési nyilvántartást vezető szervvel is.
-
-(7) Az OET, illetve a MET-ek, valamint azok tagjai egyedi ügyekben lefolytatott etikai eljárásaik során sem irányítási, felügyeleti jogkörben, sem az adott szervbe delegálási, kijelölési jogkörrel rendelkező szerv által nem utasíthatóak.
+140/A–140/E. §
 
 ### VII. Fejezet — AZ ÁLLAM FELELŐSSÉGE A LAKOSSÁG EGÉSZSÉGI ÁLLAPOTÁÉRT, AZ EGÉSZSÉGÜGY SZERVEZÉSE ÉS IRÁNYÍTÁSA
 
@@ -3521,7 +3415,7 @@ rendeletben megállapítsa.
   - kl) a hatósági ellenőrző eljárásokra, a közegészségügyi előírások betartása érdekében szükséges intézkedésekre,
   - km) a gyártással, forgalomba hozatallal, alkalmazással, klinikai vizsgálatokkal kapcsolatos eljárásokkal kapcsolatos kötelezettségek megszegésének jogkövetkezményeire,
   - kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, az időszakos felülvizsgálatra, az adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
-- l) az egészségügyi dolgozók rendtartására vonatkozó részletes szabályokat,
+- l)
 - m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégiumok és országos intézetek feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 - n) a kórházi felügyelő tanács és a kórházi etikai bizottság szervezetére és működésére vonatkozó részletes szabályokat,
 - o) az emberen végzett orvostudományi kutatásra vonatkozó részletes szabályokat,
@@ -3547,7 +3441,10 @@ rendeletben állapítsa meg.
 - b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
 - c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat,
 - d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenységek egészségügyi kockázatának csökkentésére irányuló szakmai szabályokat,
-- e) a gyermekágyas és az újszülöttellátás szabályait rendeletben állapítsa meg.
+- e) a gyermekágyas és az újszülöttellátás szabályait
+- f) az egészségügyi szakdolgozó által, orvosi elrendelésre önállóan is ellátható tevékenységek felelősségi, szakmai, szakképesítési és szakképzettségi feltételeit
+
+rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
 
