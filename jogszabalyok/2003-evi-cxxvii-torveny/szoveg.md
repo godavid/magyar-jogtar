@@ -1827,7 +1827,7 @@ terméket kell érteni.
 
 68. § (1) Adómentes felhasználás az alkoholterméknek a felhasználása
 
-- a) a külön jogszabályban meghatározott hatóság által forgalomba hozatalra engedélyezett gyógyszerek, valamint a külön jogszabály szerint nyilvántartásba vett, gyógyszernek nem minősülő gyógyhatású készítmények (a szájon át fogyasztható alkoholtartalmú termékek esetében 40 ml-t meg nem haladó összes napi fogyasztási dózisnak megfelelő összetételben előállított készítmények), továbbá a gyógyszeranyagok, gyógyszeripari intermedierek külön jogszabály szerinti engedéllyel végzett ipari előállításához (beleértve e termékek gyártóberendezéseinek a technológiai előírásokban rögzített tisztítási eljárásához való felhasználást is), nem értve ide a 2207 vámtarifaszámú alkoholtermék és a víz keverékének előállítását, kiszerelését,
+- a) a külön jogszabályban meghatározott hatóság által forgalomba hozatalra engedélyezett gyógyszerek, továbbá a gyógyszeranyagok, gyógyszeripari intermedierek külön jogszabály szerinti engedéllyel végzett ipari előállításához (beleértve e termékek gyártóberendezéseinek a technológiai előírásokban rögzített tisztítási eljárásához való felhasználást is), nem értve ide a 2207 vámtarifaszámú alkoholtermék és a víz keverékének előállítását, kiszerelését,
 - b) a 2209 vámtarifaszám alá tartozó ecet, az élelmiszerek, az 1,2 térfogatszázaléknál nem magasabb alkoholtartalmú italok aromáinak, illetve egyéb, a 1302 19 30, a 2106 90 20 és a 3302 vámtarifaszám alá tartozó aromák vagy – a c) pontban megjelölt csokoládék előállítása céljára – alkoholos gyümölcs gyártásához,
 - c) a legfeljebb 8,5 liter tisztaszesz/100 kg alkoholtartalmú csokoládék vagy – az alkoholtartalmú italok kivételével – a legfeljebb 5 liter tisztaszesz/100 kg alkoholtartalmú más élelmiszerek gyártásához,
 - d) denaturálva vegyipari és kozmetikai termékek, illetve más, nem emberi fogyasztásra szolgáló termék előállításához.
@@ -3149,7 +3149,7 @@ határozatban állapítja meg az adót.
 
 ### Termékmeghatározás
 
-132. § A külön jogszabály szerint gyógyszernek nem minősülő gyógyhatású készítményként nyilvántartásba vett 2208 vámtarifaszámú termék 2011. március 31-éig nem tekintendő az e törvény hatálya alá tartozó jövedéki terméknek.
+132. § A gyógyszernek nem minősülő gyógyhatású anyagok és készítmények nyilvántartásáról és forgalomba hozataláról szóló miniszteri rendelet szerint gyógyszernek nem minősülő gyógyhatású készítményként nyilvántartásba vett és 2011. március 31-éig Magyarországon forgalomba hozott, 2208 vámtarifaszámú termék lejárati időn belül, de legkésőbb 2013. április 1-jéig nem tekintendő az e törvény hatálya alá tartozó jövedéki terméknek.
 
 ### 1. számú melléklet a 2003. évi CXXVII. törvényhez
 
