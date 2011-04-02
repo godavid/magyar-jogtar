@@ -1781,7 +1781,7 @@ Ennek keretében:
 
 (10) A közszolgálati médiaszolgáltató szerződéseiről külön nyilvántartást vezet. A nyilvántartásban naprakészen fel kell tüntetni a szerződő fél cégszerű azonosításához szükséges adatokat, valamint a szerződő felek által teljesítendő szolgáltatást és ellenszolgáltatást.
 
-(11) A közszolgálati médiaszolgáltató és az Alap nem alanya a társasági adónak, és személyes illetékmentességet élvez.
+(11) A közszolgálati médiaszolgáltató személyes illetékmentességet élvez, valamint nem alanya a társasági adónak. Az Alap és a közszolgálati médiaszolgáltatók az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. § alkalmazásában együttesen kapcsolt vállalkozások, amelyekkel kapcsolt vállalkozási viszonyba csak külön törvényi rendelkezés alapján kerülhet újabb személy.
 
 (12) Az Alap és a közszolgálati médiaszolgáltatók egymás közötti jogviszonyaiban történő beszerzések nem tartoznak a közbeszerzésekről szóló törvény alkalmazási körébe.
 
@@ -3368,6 +3368,10 @@ c) előfizetői díj fizetése ellenében hozzáférhető médiaszolgáltatások
 (4) A közszolgálati médiaszolgáltatók e rendelkezés hatálybalépése előtt létrejött egyes szerződéses jogviszonyaikból eredő jogaikat és kötelezettségeiket a maguk egészében és változatlan feltételekkel átruházhatják az Alapra. Az átruházás folytán bekövetkező alanyváltozás nem érinti a szerződő felek eredeti jogait és kötelezettségeit. Erre tekintettel a szerződéses jogviszonyokban megvalósuló alanyváltozás tekintetében a közbeszerzésekről szóló törvény szerződésmódosításra vonatkozó szabályai nem alkalmazandók. A közszolgálati médiaszolgáltató által ajánlatkérőként e törvény hatálybalépése előtt megindított, és még folyamatban lévő közbeszerzési eljárásokban az ajánlatkérőt megillető jogok és őt terhelő kötelezettségek – a közszolgálati médiaszolgáltató erre irányuló nyilatkozatával – átszállnak az Alapra.
 
 (5) A 109/2010. (X. 28.) OGY határozatban rögzítettek szerint megvalósuló vagyonátadás során a közszolgálati médiaszolgáltatókat terhelő, már teljesített szerződésekhez, a közszolgálati médiaszolgáltatókat terhelő, már teljesített kötelezettségvállalásokhoz kapcsolódó, el nem évült mellékkövetelések továbbra is a közszolgálati médiaszolgáltatókat terhelik. Ilyen jellegű igények az Alappal szemben nem érvényesíthetők.
+
+(6) Az állami adóhatóság az Alapnak és a közszolgálati médiaszolgáltatóknak az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. § (3) bekezdésén alapuló kérelme alapján a csoportos adóalanyiságot az Alap és a közszolgálati médiaszolgáltatók által közösen megjelölt időponttal engedélyezheti.
+
+(7) E § (6) bekezdése, valamint a 108. § (11) bekezdése 2011. január 1. napjától alkalmazható.
 
 214. § (1) Az e törvényben foglaltak érvényesülése érdekében a műsorterjesztők és a közszolgálati médiaszolgáltatók kezdeményezhetik a másik félnél a 2010. december 31. előtt kötött műsorterjesztési szerződések felülvizsgálatát és módosítását. A szerződések módosítására irányuló tárgyalások elől egyik fél sem zárkózhat el.
 

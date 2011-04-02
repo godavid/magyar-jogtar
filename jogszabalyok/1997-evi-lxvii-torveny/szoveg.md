@@ -584,7 +584,9 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - e) ha a bíró kinevezésének a 3. § (1) bekezdésének a) és c) pontjában foglalt feltételei már nem állnak fenn,
 - f) ha a bírót országgyűlési, önkormányzati képviselőnek vagy polgármesternek megválasztották, illetőleg a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
 - g) ha a bíró – az OIT egyetértésével – nemzetközi szervezetnél vagy az Európai Unió valamely szervénél pályázat alapján vagy kijelölés ítélkezésre vagy az igazságszolgáltatással összefüggő egyéb munkavégzésre irányuló jogviszonyt létesít,
-- h) ha a bíró a 70. életév (a továbbiakban: felső korhatár) betöltése előtt, de az általános öregségi nyugdíjkorhatár betöltését követően maga kéri nyugállományba helyezését, illetve a felső korhatárt elérte,
+- h) ha a bíró
+  - ha) a 70. életév (a továbbiakban: felső korhatár) betöltése előtt, de az általános öregségi nyugdíjkorhatár betöltését követően vagy a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással maga kéri nyugállományba helyezését vagy
+  - hb) a felső korhatárt elérte,
 - i) ha a bíróval szemben lefolytatott fegyelmi eljárás során jogerős fegyelmi büntetésként a bírói tisztségből való felmentést indítványozták,
 - j) ha a bíró a 19. §-ban írtak szerint a részére felajánlott bírói állást nem fogadta el,
 - k) ha a bíró a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatában – a vele közös háztartásban élő hozzátartozók adatait is ideértve – lényeges adatot, tényt szándékosan valótlanul közöl, illetőleg elhallgat, vagy a vagyonnyilatkozatát és a személyes adat kezelésére felhatalmazó nyilatkozatát visszavonja,
@@ -594,6 +596,8 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 (3) A bíró felmenthető, ha rokkantsági (baleseti rokkantsági) nyugdíjra válik jogosulttá.
 
 (4) A nyugállományba helyezett bíró a nyugdíjazását közvetlenül megelőzően betöltött beosztásának és vezetői tisztségének megnevezését a „nyugalmazott” jelzővel jogosult viselni [(2) bekezdés h) pontja és (3) bekezdés].
+
+(5) A Tny. 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással akkor kérhető a felmentés, ha a feltételekkel legkésőbb a felmentési idő utolsó napján rendelkezik a bíró.
 
 58. § (1) A bíró tisztségéről bármikor írásban lemondhat.
 

@@ -574,8 +574,9 @@ hatálya alá tartozó munkáltató számára történő átadására kerül sor
 - a) megszűnt a munkáltatónak az a tevékenysége, amelyben a közalkalmazottat foglalkoztatták;
 - b) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szerv vezetője, a központi költségvetési szerv vezetője vagy az önkormányzati képviselő-testület döntése alapján a munkáltatónál létszámcsökkentést, illetve átszervezést kell végrehajtani, és emiatt a közalkalmazott további foglalkoztatására nincs lehetőség;
 - c) a közalkalmazott munkaköri feladatainak ellátására tartósan alkalmatlanná vált vagy munkáját nem végzi megfelelően;
-- d) a közalkalmazott a felmentés közlésének, illetőleg legkésőbb a felmentési idő kezdetének napján nyugdíjasnak minősül (37/B. §); illetve
-- e) az előrehozott öregségi nyugdíjjogosultság életkori, valamint szolgálati idővel kapcsolatos feltételeivel legkésőbb a felmentési idő utolsó napján rendelkező közalkalmazott azt írásban kérelmezi.
+- d) a közalkalmazott a felmentés közlésének, illetőleg legkésőbb a felmentési idő kezdetének napján nyugdíjasnak minősül (37/B. §);
+- e) az előrehozott öregségi nyugdíjjogosultság életkori, valamint szolgálati idővel kapcsolatos feltételeivel legkésőbb a felmentési idő utolsó napján rendelkező közalkalmazott azt írásban kérelmezi; vagy
+- f) a negyven éves szolgálati idővel igénybe vehető öregségi teljes nyugdíj [a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés] feltételével legkésőbb a felmentési idő utolsó napján rendelkező közalkalmazott nő azt írásban kérelmezi.
 
 (2) A munkáltató a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie, és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 
@@ -810,7 +811,10 @@ részesül.
 
 (2) A közalkalmazott akkor részesül az (1) bekezdés b)–h) pontokban felsorolt nyugellátásban, amikor a nyugellátást kérelmére megállapították.
 
-(3) Az (1) bekezdésben foglaltakon túlmenően, e törvény alkalmazásában nyugdíjasnak minősül az a közalkalmazott, aki az előrehozott nyugdíj feltételeivel rendelkezik, és felmentésére a 30. § (1) bekezdése e) pontja alapján kerül sor.
+(3) Az (1) bekezdésben foglaltakon túlmenően, e törvény alkalmazásában nyugdíjasnak minősül az a közalkalmazott, aki
+
+- a) az előrehozott nyugdíj feltételeivel rendelkezik és felmentésére a 30. § (1) bekezdés e) pontja alapján kerül sor,
+- b) a negyven éves szolgálati idővel igénybe vehető öregségi teljes nyugdíj feltételével rendelkezik, és felmentésére a 30. § (1) bekezdés f) pontja alapján kerül sor.
 
 (4) A közalkalmazott köteles tájékoztatni a munkáltatót, ha az (1) bekezdés hatálya alá esik.
 
@@ -1643,11 +1647,12 @@ is érteni kell.
 
 - a) az e törvény hatálya alá tartozó munkáltatónál munkaviszonyban, közalkalmazotti jogviszonyban eltöltött időt,
 - b) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény hatálya alá tartozó szervnél munkaviszonyban, közszolgálati jogviszonyban töltött időt,
-- c) a szolgálati jogviszony időtartamát, továbbá
-- d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
-- e) a hivatásos nevelő szülői jogviszonyban,
-- f) az e törvény, illetőleg a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
-- g) az állami vezetői szolgálati jogviszonyban
+- c) a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény hatálya alá tartozó szervnél munkaviszonyban, kormánytisztviselői jogviszonyban töltött időt,
+- d) a szolgálati jogviszony időtartamát, továbbá
+- e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
+- f) a hivatásos nevelő szülői jogviszonyban,
+- g) az e törvény, a köztisztviselők jogállásáról szóló törvény vagy a kormánytisztviselők jogállásáról szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
+- h) az állami vezetői szolgálati jogviszonyban
 
 töltött időt.
 

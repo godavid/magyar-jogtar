@@ -386,7 +386,8 @@ indokolja a kinevezés módosítását.
 - c) a vezetői megbízás visszavonását követően a köztisztviselő más köztisztviselői munkakörben való továbbfoglalkoztatására nincs lehetőség vagy a munkáltató által felajánlott másik köztisztviselői munkakört a köztisztviselő visszautasítja [31. § (9) bekezdés];
 - d) az öregségi nyugdíjra jogosult vagy rokkantsági (baleseti rokkantsági) nyugdíjban részesülő köztisztviselő e jogcímen felmentését kezdeményezi;
 - e) a rokkantsági (baleseti rokkantsági) nyugdíjjogosultság (9) bekezdés szerinti feltételeivel rendelkező köztisztviselő azt kérelmezi;
-- f) az előrehozott öregségi nyugdíjjogosultság egyéb feltételeivel a felmentési idő leteltekor rendelkező köztisztviselő a (10) bekezdés szerint kérelmezi.
+- f) az előrehozott öregségi nyugdíjjogosultság egyéb feltételeivel a felmentési idő leteltekor rendelkező köztisztviselő a (10) bekezdés szerint kérelmezi;
+- g) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételekkel a felmentési idő leteltekor rendelkező köztisztviselő kérelmezi.
 
 (3) A munkáltató a (2) bekezdésben foglalt esetben a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 
@@ -488,17 +489,19 @@ eltöltött idő is.
 
 19/A. § (1) A 17. § (2) bekezdés d) pontja, valamint a 19. § (8) bekezdés b) pontja alkalmazása szempontjából a köztisztviselő nyugdíjasnak minősül, ha
 
-- a) a társadalombiztosítási nyugellátásról szóló törvény szerinti öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság);
+- a) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (Tny.) szerinti öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság),
 - b) az a) pontban említett korhatár betöltése előtt öregségi nyugdíjban, vagy
 - c) korkedvezményes öregségi nyugdíjban, vagy
 - d) előrehozott (csökkentett összegű előrehozott) öregségi nyugdíjban, vagy
-- e) szolgálati nyugdíjban, vagy
-- f) korengedményes nyugdíjban, vagy
-- g) más, az öregségi nyugdíjjal egy tekintet alá eső nyugellátásban, illetőleg
-- h) rokkantsági (baleseti rokkantsági) nyugdíjban részesül, illetve
-- i) a 17. § (2) bekezdés f) pontja vagy (9) bekezdése alapján felmentését kéri.
+- e) a Tny. 18. § (2a) bekezdés szerinti nyugdíjban, vagy
+- f) szolgálati nyugdíjban, vagy
+- g) korengedményes nyugdíjban, vagy
+- h) más, az öregségi nyugdíjjal egy tekintet alá eső nyugellátásban, vagy
+- i) rokkantsági (baleseti rokkantsági) nyugdíjban részesül, illetve
+- j) a 17. § (2) bekezdés f) vagy (9) bekezdése alapján, vagy
+- k) a 17. § (2) bekezdés g) pontja alapján felmentését kéri.
 
-(2) A köztisztviselő akkor részesül az (1) bekezdés b)–h) pontokban felsorolt nyugellátásban, amikor a nyugellátást kérelmére megállapították.
+(2) A köztisztviselő akkor részesül az (1) bekezdés b)–i) pontokban felsorolt nyugellátásban, amikor a nyugellátást kérelmére megállapították.
 
 (3) A köztisztviselő köteles tájékoztatni a munkáltatót, ha az (1) bekezdés hatálya alá esik.
 
@@ -609,6 +612,8 @@ besorolást kap.
 (10) Közigazgatási szakvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet, feltéve, ha állam- és jogtudományi doktori, igazgatásszervezői, okleveles közgazdász képesítést, illetve Rendőrtiszti Főiskolán oklevelet szerzett.
 
 (11) Az (1) bekezdés c) pontjában említett feltételek a köztisztviselő feladatának ellátásához nélkülözhetetlen ismeretek – képzés, továbbképzés, átképzés formájában történő – megszerzésére irányulhatnak.
+
+(12) Az OKV elnöke különösen indokolt esetben engedélyezheti a közigazgatási szakvizsga teljesítését közigazgatási szervnél szerzett kétéves gyakorlat hiányában is.
 
 26. § (1) Ha a köztisztviselő a 7. § (4) bekezdése szerint felmentést kapott, őt a feltétel teljesítéséig a 23. § szerinti besorolásánál eggyel alacsonyabb besorolási fokozat legmagasabb fizetési fokozatába kell sorolni.
 
@@ -1241,6 +1246,8 @@ illetménynek megfelelő összeg.
 - d) a 40 év közszolgálati jogviszony után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító szolgálati idejéből 4 év vagy ennél kevesebb van hátra.
 
 (6) Ha a közszolgálati jogviszony a köztisztviselő halála miatt szűnik meg, az (5) bekezdésben foglalt szabály alkalmazása alapján járó jubileumi jutalmat az örökösnek kell kifizetni.
+
+(7) Arra a köztisztviselőre, akinek a 17. § (2) bekezdés f) vagy g) pontja alapján szűnik meg a jogviszonya, nem alkalmazható az (5) bekezdés.
 
 49/F. § (1) A köztisztviselő cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjában, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A miniszter – ha jogszabály eltérően nem rendelkezik – utasításban a vezetése vagy az irányítása alá tartozó szervek vonatkozásában, egyéb szervek esetében pedig a hivatali szervezet vezetője a közszolgálati szabályzatban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 

@@ -517,7 +517,11 @@ illetően.
 - a) megszűnt az ügyészségnek az a tevékenysége, amelynek körében az ügyészt foglalkoztatták;
 - b) átszervezés, létszámcsökkentés következtében az ügyész munkaköre feleslegessé vált;
 - c) az ügyész feladatai ellátására tartósan alkalmatlan, illetőleg a 41. § (8) bekezdésében említett vizsgálatnak nem vetette alá magát;
-- d) az ügyész rokkantsági (baleseti rokkantsági) nyugdíjban részesül, vagy a 65. életévét betöltötte, vagy az általános öregségi nyugdíjkorhatárt betöltött ügyész felmentését e jogcímre hivatkozással maga kéri,
+- d) az ügyész
+  - da) rokkantsági (baleseti rokkantsági) nyugdíjban részesül, vagy
+  - db) a 65. életévét betöltötte, vagy
+  - dc) az általános öregségi nyugdíjkorhatárt betöltötte és felmentését e jogcímre hivatkozással maga kéri, vagy
+  - de) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással felmentését maga kéri;
 - e) az ügyész felmentése a 22. § (3) bekezdésében meghatározott okból válik szükségessé.
 
 (2) Az (1) bekezdés a)—c) pontjaiban meghatározott esetben sem szüntethető meg az ügyész ügyészségi szolgálati viszonya felmentéssel, ha fennállnak a Munka Törvénykönyvében meghatározott felmondási tilalmak.
@@ -535,7 +539,9 @@ illetően.
 
 (7) Az ügyész felmentési ideje hat hónap. Az ügyészt a felmentés időtartamának legalább a felére a munkavégzési kötelezettség alól mentesíteni kell.
 
-(8) Az öregségi nyugdíjra jogosult vagy rokkantsági (baleseti rokkantsági) nyugdíjban részesülő ügyészt, ha e jogcímen felmentését kezdeményezi, a legfőbb ügyész köteles – az ügyészi tanács véleményének kikérése nélkül – az (1) bekezdés d) pontja alapján felmenteni. E jogcímen az ügyész kezdeményezésére csak egy alkalommal kötelező a felmentés.
+(8) Az öregségi nyugdíjra jogosult vagy a felmentését a Tny. 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással kérő, továbbá a rokkantsági (baleseti rokkantsági) nyugdíjban részesülő ügyészt, ha e jogcímen felmentését kezdeményezi, a legfőbb ügyész köteles – az ügyészi tanács véleményének kikérése nélkül – az (1) bekezdés d) pontja alapján felmenteni. E jogcímen az ügyész kezdeményezésére csak egy alkalommal kötelező a felmentés.
+
+(9) A Tny. 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással akkor kérhető a felmentés, ha a feltételekkel legkésőbb a felmentési idő utolsó napján rendelkezik az ügyész.
 
 29. § (1) Az ügyész a legfőbb ügyészhez intézett nyilatkozatával az ügyészségi szolgálati viszonyáról lemondhat.
 
