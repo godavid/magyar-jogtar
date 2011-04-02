@@ -128,7 +128,7 @@ kell alkalmazni.
 
 (3) A közigazgatási szervnél a munkaviszony fennállásáig, illetve, ha a közigazgatási szerv közfeladata ellátására új szervezetet alakít és a munkaviszonyban álló e szervezetben a továbbfoglalkoztatást vállalja, továbbra is biztosítani kell részére azokat a juttatásokat és egyéb jogosultságokat, amelyekre e törvény hatálybalépése előtt közszolgálati jogviszonyban állóként jogot szerzett. A jubileumi jutalomra való jogosultság megszerzése szempontjából a munkaviszonyban töltött időt olyannak kell tekinteni, mintha a munkavállaló közszolgálati jogviszonyban töltötte volna el.
 
-(4) A közszolgálati jogviszonyból átalakult munkaviszonyt munkáltatói rendes felmondással csak a 2001. június 30-án hatályos Ktv. 17. § (1) bekezdésének a)–f) pontjaiban meghatározott okok alapján lehet megszüntetni, és a felmondási idő, valamint a végkielégítés mértékének megállapítására a 2001. június 30-án irányadó szabályok szerint számított felmentési időt és a végkielégítés mértékét kell figyelembe venni, ha az érintett számára kedvezőbb.
+(4)
 
 108. § (1) 2001. június 30-án az ügykezelő és fizikai alkalmazott ellen folyamatban lévő, vagy általuk kezdeményezett fegyelmi eljárást, illetve a munkáltató fegyelmi határozatával összefüggő munkaügyi pert – a (2) bekezdésben meghatározott kivétellel – meg kell szüntetni.
 

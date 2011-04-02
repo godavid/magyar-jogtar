@@ -8,9 +8,9 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2011. évi
 
-- a) bevételi főösszegét 13 151 248,0 millió forintban,
+- a) bevételi főösszegét 13 152 945,1 millió forintban,
 - b) kiadási főösszegét 13 838 618,3 millió forintban,
-- c) hiányát 687 370,3 millió forintban állapítja meg.
+- c) hiányát 685 673,2 millió forintban állapítja meg.
 
 2. § (1) Az 1. §-ban megállapított kiadási és bevételi főösszegeknek, valamint a saját bevétellel nem fedezett kiadásokhoz nyújtott költségvetési támogatási előirányzatoknak fejezetek, címek, alcímek, jogcím-csoportok, jogcímek szerinti – a belső és külső tételeket együttesen tartalmazó – részletezését az 1. melléklet tartalmazza.
 
@@ -104,15 +104,15 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 
 11. § (1) A Magyar Kereskedelmi Engedélyezési Hivatal 1316,8 millió forintot, a Magyar Bányászati és Földtani Hivatal 364,1 millió forintot, a Nemzeti Közlekedési Hatóság 17 652,0 millió forintot köteles 2011. évben befizetni a bevételeiből az államháztartásért felelős miniszter által jóváhagyott ütemezési terv szerint a központi költségvetés részére, melyek esedékessége az első három negyedév vonatkozásában a negyedévet követő hó 20. napja, a negyedik negyedévben december 10-e.
 
-(2) A Magyar Energia Hivatal 1116,5 millió forintot köteles befizetni a bevételeiből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
+(2) A Magyar Energia Hivatal 1845,0 millió forintot köteles befizetni a bevételeiből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
-(3) A Szellemi Tulajdon Nemzeti Hivatala 150,0 millió forintot köteles befizetni a bevételeiből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
+(3) A Szellemi Tulajdon Nemzeti Hivatala 486,1 millió forintot köteles befizetni a bevételeiből az államháztartásért felelős miniszter által jóváhagyott ütemezési terv szerint a központi költségvetés javára.
 
 (4) A fővárosi, megyei kormányhivatalok (fővárosi, megyei kormányhivatalok földhivatala) 3932,2 millió forintot kötelesek befizetni a bevételeikből a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
 (5) Ha az államháztartásért felelős miniszter, valamint a fejlesztéspolitikáért felelős miniszter irányítása alá tartozó, az (1) bekezdésben felsorolt költségvetési szervek a befizetési kötelezettségüknek nem tesznek eleget, a hiányzó összegre fejezeti tartalékot kell képezni, és a befizetést legkésőbb 2011. december 20-áig teljesíteni kell.
 
-(6) A Pénzügyi Szervezetek Állami Felügyelete 4100,0 millió forintot köteles befizetni a központi költségvetés javára 2011. évben egyenlő részletekben, első alkalommal 2011. február 20. napjáig, majd a tárgynegyedévet követő második hónap 20. napjáig.
+(6) A Pénzügyi Szervezetek Állami Felügyelete 4732,5 millió forintot köteles befizetni a központi költségvetés javára 2011. évben, első alkalommal 2011. február 20. napjáig 1025 millió forintot, majd a fennmaradó összeget egyenlő részletekben a tárgynegyedévet követő második hónap 20. napjáig.
 
 12. § (1) A felsőoktatásról szóló 2005. évi CXXXIX. törvény 129. §ának (3) bekezdése szerint 2011. január 1-jétől az egy főre megállapított hallgatói normatíva 119 000 Ft/év, a doktori képzésben részt vevők egy főre megállapított támogatási normatívája 1 116 000 Ft/év, a köztársasági ösztöndíjban részesülők normatívája 340 000 Ft/év, a kollégiumi-diákotthoni elhelyezés normatívája 116 500 Ft/év, a lakhatási támogatás normatívája 60 000 Ft/év, a tankönyv- és jegyzettámogatás, valamint a sport- és kulturális tevékenység normatívája 11 900 Ft/év.
 
@@ -238,6 +238,23 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 - b) Pártalapítványok támogatása (Országgyűlés fejezet, 8. cím).
 
 (2) Az Országgyűlés magának tartja fenn a jogot az I–VI., a VIII., a XXX. és a XXXIII. fejezetek kiadási és bevételi előirányzatai főösszegének, a Közigazgatási és Igazságügyi Minisztérium fejezet, 15. cím, 5. Egyházi célú központi költségvetési hozzájárulások alcím előirányzatai, 15. cím, 19. Országos kisebbségi önkormányzatok támogatása alcím előirányzatai, valamint a 15. cím, 20. Országos kisebbségi önkormányzatok által fenntartott intézmények támogatása alcím előirányzatai csökkentésére, kivéve az Áht. 46. §ának (1) bekezdésében foglaltakat, valamint ha a fejezetek között a fejezetet irányító szervek vezetői kezdeményeznek előirányzat-átcsoportosítást.
+
+(3) Az I.–VI. a VIII., a XXX., a XXXIII. fejezeteknél 2011. március 31-éig irányító szervi hatáskörben végrehajtott fejezeten belüli átcsoportosítással fejezeti tartalékot kell létrehozni a (4) bekezdésben foglalt összeggel, amelynek felhasználásáról az Országgyűlés 2011. november 20-áig határozatban dönt. Eredeti előirányzatként megtervezett fejezeti tartalék esetén a (4 ) bekezdésben foglalt összeget ennek javára kell átcsoportosítani.
+
+(4) A (3) bekezdés szerinti tartalék összege
+
+- a) az I. Országgyűlés fejezet 1–4. címnél 384,2 millió forint,
+- b) az I. Országgyűlés fejezet 5. Közbeszerzések Tanácsa címnél 7,2 millió forint,
+- c) a II. Köztársasági Elnökség fejezetnél 53,1 millió forint,
+- d) a III. Alkotmánybíróság fejezetnél 66,8 millió forint,
+- e) a IV. Országgyűlési Biztosok Hivatala fejezetnél 80,7 millió forint,
+- f) az V. Állami Számvevőszék fejezetnél 361,0 millió forint,
+- g) a VI. Bíróságok fejezetnél 3 661,6 millió forint,
+- h) a VIII. Magyar Köztársaság Ügyészsége fejezetnél 1600,0 millió forint,
+- i) a XXX. Gazdasági Versenyhivatal fejezetnél 63,8 millió forint,
+- j) a XXXIII. Magyar Tudományos Akadémia fejezetnél 1391,4 millió forint.
+
+(5) A (3)–(4) bekezdésben foglalt intézkedéseken felül az I. Országgyűlés fejezet 10. Közszolgálati médiaszolgáltatás támogatása cím, 1. Médiaszolgáltatás-támogató és Vagyonkezelő Alap költségei alcím kiadási előirányzatából 5000,0 millió forint fejezeten belüli átcsoportosításával Média tartalékot kell létrehozni, amelynek felhasználásáról az Országgyűlés 2011. november 20-áig határozatban dönt.
 
 ### A Kormány, az államháztartásért felelős miniszter és a fejezetet irányító szervek vezetőinekkülönleges jogosítványai
 
@@ -487,7 +504,7 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 
 53. § (1) A Magyar Vállalkozásfinanszírozási Zrt. (e §-ban a továbbiakban: MV Zrt.) által – külön jogszabályban meghatározott feltételek mellett – vállalt készfizető kezesség, illetve garancia érvényesítéséből a társaságot terhelő fizetési kötelezettségek 100%-a mögött a (2)–(6) bekezdésben foglaltak szerint a Magyar Állam visszavonhatatlan viszontgaranciája áll fenn.
 
-(2) Az MV Zrt. az (1) bekezdés szerinti viszontgaranciával a mikro-, kis- és középvállalkozások legfeljebb 10 év lejáratú hitelszerződésein alapuló kötelezettségek legfeljebb 85%-áig vállalhat készfizető kezességet, illetve garanciát.
+(2) Az MV Zrt. az (1) bekezdés szerinti viszontgaranciával a mikro-, kis- és középvállalkozások legfeljebb 25 év lejáratú hitelszerződésein alapuló kötelezettségek legfeljebb 85%-áig vállalhat készfizető kezességet, illetve garanciát.
 
 (3) Az MV Zrt. által a Gazdaságfejlesztés Operatív Program Pénzügyi eszközök prioritási tengelyében, illetve a Közép-magyarországi Operatív Program A tudásalapú gazdaság innováció- és vállalkozásorientált fejlesztése prioritási tengelyében a Garanciaeszközökre vállalt készfizető kezesség, illetve garancia állománya 2011. december 31-én – a (4) bekezdésben foglalt kivétellel – nem haladhatja meg a 100 000,0 millió forintot.
 
@@ -509,7 +526,7 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 
 (4) A Bíróságok fejezetnél a fejezetet irányító szerv vezetője az Országos Igazságszolgáltatási Tanács elnöke.
 
-(5) A Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet esetében a helyi önkormányzatokért felelős miniszter, a költségvetés közvetlen bevételei és kiadásai fejezet és Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet esetében az államháztartásért felelős miniszter gyakorolja az (1) bekezdésben megjelölt jogokat és kötelezettségeket.
+(5) A Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezet esetében a helyi önkormányzatokért felelős miniszter, a költségvetés közvetlen bevételei és kiadásai fejezet esetében az államháztartásért felelős miniszter, az állami vagyonnal kapcsolatos bevételek és kiadások fejezet esetében az állami vagyon felügyeletéért felelős miniszter, a Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet esetében az agrárpolitikáért felelős miniszter gyakorolja az (1) bekezdésben megjelölt jogokat és kötelezettségeket.
 
 (6) Az Uniós fejlesztések fejezet tekintetében a fejezetet irányító szerv vezetőjének az (1) bekezdésben megjelölt jogait és kötelezettségeit a Nemzeti Fejlesztési Ügynökség elnöke, szabályozási jogait és kötelezettségeit a fejlesztéspolitikáért felelős miniszter gyakorolja.
 
@@ -994,6 +1011,13 @@ Millió forintban
 |  |  |  |  |  |  |  |  |  |  | 5 | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 687,5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  | 2 |  |  |  |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 1 | Intézményi beruházási kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 23,7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 14 |  |  |  |  |  |  |  |  |  |  | Közgyűjteményi Ellátó Szervezet |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 239,3 |  |
+|  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 190,0 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 137,6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 2 | Munkaadókat terhelő járulékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 37,5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 223,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  | 2 |  |  |  |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 1 | Intézményi beruházási kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 31,2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 15 |  |  |  |  |  |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 1 |  |  |  |  |  |  |  |  |  | Központilag kezelt fejezeti feladatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 330,4 |  |  |
@@ -1190,7 +1214,7 @@ Millió forintban
 |  |  |  |  |  |  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 136,5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 25 |  |  |  |  |  |  |  |  |  | Fejezeti tartalék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 1 |  |  |  |  |  |  |  |  |  | Fejezeti általános tartalék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 200,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 200,0 |  |  |
-|  | 1–15. cím összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 243 481,7 |  |  |  |  |  |  |  |  | 54 239,7 |  |  |  |  |  |  | 189 242,0 |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 1–15. cím összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 243 911,0 |  |  |  |  |  |  |  |  | 54 429, 7 |  |  |  |  |  |  | 189 481,3 |  |  |  |  |  |  |  |  |  |  |  |
 | 16 |  |  |  |  |  |  |  |  |  |  | Kormányzati Ellenőrzési Hivatal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  |  |  |  |  | Kormányzati Ellenőrzési Hivatal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 874,9 |  |  |
 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3,0 |  |  |  |  |  |  |  |
@@ -1209,7 +1233,7 @@ Millió forintban
 |  |  |  |  | 1 |  |  |  |  |  |  |  |  |  | Különféle kifizetések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 33 900,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 20 |  |  |  |  |  |  |  |  |  |  | Volt egyházi ingatlanok tulajdoni helyzetének rendezése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 11 600,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 21 |  |  |  |  |  |  |  |  |  |  | Települési és területi kisebbségi önkormányzatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 520,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | X. fejezet összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 291 754,9 |  |  |  |  |  |  |  |  | 55 742,7 |  |  |  |  |  |  | 190 116,9 |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | X. fejezet összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 292 184,2 |  |  |  |  |  |  |  |  | 55 932,7 |  |  |  |  |  |  | 190 356,2 |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | XI. MINISZTERELNÖKSÉG |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 146,0 |  |  |  |  |
 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1365,7 +1389,7 @@ Millió forintban
 |  |  |  |  |  |  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 10,5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 2 | Munkaadókat terhelő járulékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3,5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  | 8 |  |  |  |  |  |  |  |  |  | Víz- és környezeti kárelhárítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 260,0 |  |  |
+|  |  |  |  | 8 |  |  |  |  |  |  |  |  |  | Víz-, környezeti és természeti katasztrófa kárelhárítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 260,0 |  |  |
 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 110,4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 2 | Munkaadókat terhelő járulékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 28,4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -2659,14 +2683,14 @@ Millió forintban
 |  |  |  |  |  |  |  |  |  |  | 2 | Felújítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 707,8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 3 | Egyéb intézményi felhalmozási kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 311,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  | 3 |  |  |  |  |  |  |  |  | Kölcsönök |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 10,0 |  |  |  |  |  |  |  | 10,0 |  |  |  |  |  |  |  |  |
-| 11 |  |  |  |  |  |  |  |  |  |  | Közgyűjtemények |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 10 667,9 |  |  |  |  |  |
-|  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 759,5 |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 008,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | 2 | Munkaadókat terhelő járulékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 243,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 450,7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11 |  |  |  |  |  |  |  |  |  |  | Közgyűjtemények |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 10 428,6 |  |  |  |  |
+|  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8569, 5 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 7870,4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 2 | Munkaadókat terhelő járulékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2205,5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8227,7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 5 | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 43,9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  | 2 |  |  |  |  |  |  |  |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 351,4 |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | 1 | Intézményi beruházási kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 929,2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 1 | Intézményi beruházási kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2898,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 2 | Felújítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 35,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 3 | Egyéb intézményi felhalmozási kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 69,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 12 |  |  |  |  |  |  |  |  |  |  | Művészeti intézmények |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 248,1 |  |  |  |  |
@@ -3348,7 +3372,7 @@ Millió forintban
 |  |  |  |  |  |  |  |  |  |  | 2 | Munkaadókat terhelő járulékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 20,7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 5 | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 54,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 1–20. cím összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 917 266,7 |  |  |  |  |  |  |  | 367 046,1 |  |  |  |  |  |  |  | 550 220,6 |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 1–20. cím összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 916 837,4 |  |  |  |  |  |  |  | 366 856,1 |  |  |  |  |  |  |  | 549 981,3 |  |  |  |  |  |  |  |  |  |  |  |
 | 21 |  |  |  |  |  |  |  |  |  |  | Családi támogatások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  |  |  |  |  | Családi pótlék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 357 726,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  |  |  |  |  | Anyasági támogatás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 941,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3374,7 +3398,7 @@ Millió forintban
 |  |  |  |  | 2 |  |  |  |  |  |  |  |  |  | Egészségügyi feladatok ellátásával kapcsolatos hozzájárulás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 000,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 3 |  |  |  |  |  |  |  |  |  | Terhesség-megszakítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 400,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  |  |  |  |  | Folyósított ellátások utáni térítés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 600,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | XX. fejezet összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 545 555,7 |  |  |  |  |  |  |  |  | 367 046,1 |  |  |  |  |  |  |  | 550 220,6 |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | XX. fejezet összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 545 126,4 |  |  |  |  |  |  |  |  | 366 856,1 |  |  |  |  |  |  |  | 549 981,3 |  |  |  |  |  |  |  |  |  |  |  |
 | XXX. GAZDASÁGI VERSENYHIVATAL |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  |  |  |  |  |  | Gazdasági Versenyhivatal igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 275,8 |  |  |  |  |
 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3682,7 +3706,7 @@ Millió forintban
 |  |  |  |  | 8 |  |  |  |  |  |  |  |  |  | Egyéb vegyes bevételek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 006,0 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 9 |  |  |  |  |  |  |  |  |  | Kezesség-visszatérülés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 057,8 |  |  |  |  |  |  |  |  |  |  |
 | 5 |  |  |  |  |  |  |  |  |  |  | Költségvetési befizetések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | 1 |  |  |  |  |  |  |  |  |  | Központi költségvetési szervek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 28 631,6 |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 1 |  |  |  |  |  |  |  |  |  | Központi költségvetési szervek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 30 328,7 |  |  |  |  |  |  |  |  |  |  |
 | 6 |  |  |  |  |  |  |  |  |  |  | Nyugdíjreform és Adósságcsökkentő Alapból származó bevétel |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 94 540,4 |  |  |  |  |  |  |  |  |  |  |  |
 | 7 |  |  |  |  |  |  |  |  |  |  | Egyéb uniós bevételek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  |  |  |  |  | Vámbeszedési költség megtérítése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 8 857,0 |  |  |  |  |  |  |  |  |  |  |
@@ -3751,7 +3775,7 @@ Millió forintban
 | 38 |  |  |  |  |  |  |  |  |  |  | Adósság-átvállalás és tartozás-elengedés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  |  |  |  |  | Várgondnokság Nonprofit Kft. tartozás-elengedése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 216,2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 3 |  |  |  |  |  |  |  |  |  | Várpalota és Régiója Környezetvédelmi Rehabilitácíós Programra létrehozott céltársulás 2011. évi kölcsöntörlesztésének részleges elengedése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 158,3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | XLII. fejezet összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 194 958,5 |  |  |  |  |  |  |  | 6 322 441,7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | XLII. fejezet összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 194 958,5 |  |  |  |  |  |  |  | 6 324 138,8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XLIII. AZ ÁLLAMI VAGYONNAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  |  |  |  |  | Értékesítési bevételek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -4071,8 +4095,8 @@ Millió forintban
 |  | 5. cím összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 10 964,1 |  |  |  |  |  |  |  |  |  | 424,6 |  |  |  |  |  | 10 539,5 |  |  |  |  |  |  |  |  |  |  |  |
 |  | LXXII. fejezet összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 459 613,9 |  |  |  |  |  |  |  | 1 370 936,7 |  |  |  |  |  |  |  |  |  | 10 539,5 |  |  |  |  |  |  |  |  |  |  |  |
 |  | KIADÁSI FŐÖSSZEG: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 13 838 618,3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | BEVÉTELI FŐÖSSZEG: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 13 151 248,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | A FŐÖSSZEGEK EGYENLEGE: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | –687 370,3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | BEVÉTELI FŐÖSSZEG: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 13 152 945,1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | A FŐÖSSZEGEK EGYENLEGE: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | –685 673,2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ### 2. melléklet a 2010. évi CLXIX. törvényhez
@@ -6994,6 +7018,10 @@ Vagyongazdálkodás (3. cím)
 VIII. MAGYAR KÖZTÁRSASÁG ÜGYÉSZSÉGE fejezetben
 
 Jogerősen megállapított kártérítések célelőirányzata (3. cím, 4. alcím)
+
+XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM fejezetben
+
+Víz-, környezeti és természeti katasztrófa kárelhárítás (20. cím, 2. alcím, 8. jogcímcsoport)
 
 XIII. HONVÉDELMI MINISZTÉRIUM fejezetben
 

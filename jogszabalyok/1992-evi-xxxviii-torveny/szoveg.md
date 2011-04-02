@@ -760,7 +760,7 @@ látja el.
 
 (5) A központi költségvetési szerv kormányrendeletben foglaltak szerint megállapított kötelezettségvállalással terhelt felhasználható előirányzat-maradványa a következő évben intézményi hatáskörben elvégzett előirányzat-módosítás után, az előző évben keletkezett kötelezettségek pénzforgalmilag a következő év június 30-áig teljesülő kiegyenlítésére használható fel, kormányrendeletben foglalt szabályok szerint. A központi költségvetési szerv előirányzat-maradványát az irányító szerv hagyja jóvá, az ezt megelőző felhasználást – az előirányzat-maradvány jóváhagyásától függő – utólagos irányító szervi korrekció és ezzel összefüggő visszapótlási kötelezettség terheli.
 
-(6) A központi költségvetési szerv és a fejezeti kezelésű előirányzatok kötelezettségvállalással nem terhelt előirányzat-maradványa – a központi beruházások előirányzat-maradványából a (2) bekezdés rendelkezései alapján az államháztartásért felelős miniszter által jóváhagyott rész és a (7) bekezdés szerinti előirányzat-maradvány kivételével – a központi költségvetést illeti meg.
+(6) A központi költségvetési szerv és – a központi beruházások előirányzat-maradványából a (2) bekezdés rendelkezései alapján az államháztartásért felelős miniszter által jóváhagyott rész és a (7) bekezdés szerinti előirányzat-maradvány kivételével – a fejezeti kezelésű előirányzatok kötelezettségvállalással nem terhelt előirányzat-maradványának elvonásáról vagy felhasználásáról a Kormány dönt. Az elvont előirányzat-maradvány a központi költségvetést illeti meg.
 
 (7) Az európai uniós forrásból finanszírozott programok, a nemzetközi szerződések alapján megvalósuló segélyprogramok, a Nemzetközi Fejlesztési Együttműködés, a kiotói egységek és kibocsátási egységek eladásából befolyt bevételek előirányzat-maradványát a fejezeti előirányzat-maradványon belül elkülönítetten kell kimutatni, felhasználásukra a vonatkozó jogszabályok, nemzetközi szerződések rendelkezései irányadók. A fejezetet irányító szerv a megállapított előirányzat-maradvány összegével a tárgyévi azonos rendeltetésű előirányzatokat megemelheti.
 
@@ -1768,7 +1768,7 @@ kell érteni.
 
 99. § (1) Ha törvény eltérően nem rendelkezik, az irányító szerv az irányítása alá tartozó, eredeti támogatási előirányzattal nem rendelkező költségvetési szerv részére – az általa ellátandó közfeladatok ellátásának veszélyeztetése nélkül – befizetési kötelezettséget írhat elő. A befizetett összeg a fejezetnél, a helyi önkormányzatnál, a többcélú kistérségi társulásnál év közben jelentkező kiadások fedezetére használható fel. A Kormány irányítása alá tartozó fejezetnél – a (2) bekezdésben foglalt kivétellel – a befizetett összeg az államháztartásért felelős miniszter egyetértésével használható fel.
 
-(2) Ha törvény eltérően nem rendelkezik, kormányhivatal részére az (1) bekezdés szerinti befizetési kötelezettséget a költségvetési törvény írhat elő. A befizetendő összeg nem haladhatja meg a kormányhivatal bevételeinek 50%-át.
+(2) Ha törvény eltérően nem rendelkezik, kormányhivatal részére az (1) bekezdés szerinti befizetési kötelezettséget a költségvetési törvény írhat elő. A befizetendő összeg nem haladhatja meg a kormányhivatal bevételeinek 60%-át.
 
 (3) A költségvetési szerv a vállalkozási tevékenységéből származó – kormányrendeletben foglaltak szerint megállapított – vállalkozási maradványának a társasági adó általános mértékével megegyező %-át köteles a tárgyévi beszámolás során a központi költségvetésbe – nem központi költségvetési szerv esetén az irányító szerv költségvetésébe – befizetni azzal, hogy a vállalkozási maradványból az alaptevékenység ellátására, fejlesztésére a tárgyévtől számított két éven belül felhasznált összegre vonatkozóan a költségvetési szervet befizetési kötelezettség nem terheli.
 
@@ -2690,31 +2690,13 @@ szükséges.
 
 (3)
 
-(4) A 18/B. § (6) bekezdésében foglaltakat az 1998. január 1-jét követően kötött megállapodáson alapuló támogatásokra kell alkalmazni.
+(4)
 
-123/A. § (1)
+123/A. § (1) A 2011. évben e törvény 27. § (3)–(4) bekezdésében foglaltaktól eltérően a fejezetet irányító szerv a (2) bekezdésben foglalt korlátozással dönthet a fejezeti kezelésű előirányzatok adott fejezeten belül – más központi költségvetési szervek előirányzatait tartalmazó cím vagy a fejezeti kezelésű előirányzatok címen belül más fejezeti kezelésű előirányzat javára – történő átcsoportosításáról az évközben felmerülő, az adott fejezeti kezelésű előirányzat eredeti céljával, rendeltetésével nem összefüggő többletkiadások teljesíthetősége céljából.
 
-(2) Az ÁFI Rt. megszűnésével a társasággal szemben fennálló, illetve a társaságot megillető követelések — kivéve a (3) bekezdésben szabályozott eseteket — nem válnak lejárttá.
+(2) A fejezetet irányító szerv az (1) bekezdés szerinti jogkörét azon fejezeti kezelésű előirányzatok tekintetében gyakorolhatja, amelyek esetén a költségvetési törvény alapján a teljesítés előirányzat-módosítási kötelezettség nélkül nem lépheti túl az előirányzatot.
 
-(3)
-
-(4) Az ÁFI Rt. megszűnése esetén az ÁFI Rt. általános jogutódja a Magyar Állam, kötelezettségeiért — kivéve a (3) bekezdés szerint bejelentett és az ÁFI Rt. által kielégített hitelezői igényeket — a központi költségvetés köteles helytállni, és az ÁFI Rt.-t megillető jogokat a központi költségvetés gyakorolja.
-
-(5) Az ÁFI Rt. megszűnését követően az ÁFI Rt. által a megszűnésekor végzett tevékenység folytatásáról az államháztartásért felelős miniszter gondoskodik.
-
-(6) Az ÁFI Rt. jogutódlással történő megszűnéséből eredő — a Cégbíróság, illetve más hatóságok előtti — eljárási kötelezettséget a jogutód Magyar Állam nevében az államháztartásért felelős miniszter teljesíti, ideértve a számvitelről szóló — többször módosított — 1991. évi XVIII. törvény szerinti éves beszámolónak és az eredmény felosztása utáni zárómérlegnek az ÁFI Rt. megszűnése napjával történő elkészítési kötelezettségét is.
-
-(7) Az ÁFI Rt. azon alkalmazottai tekintetében, akiknek — kinevezés folytán — az államháztartásért felelős miniszter által alapított költségvetési szerv, a kincstár a munkáltatója, a Kjt.-t a (8)—(10) bekezdésben meghatározott eltérésekkel kell alkalmazni.
-
-(8) A (7) bekezdésben meghatározott személyeknek az ÁFI Rt.-vel fennálló munkaviszonya e törvény hatálybalépésével egyidejűleg közalkalmazotti jogviszonnyá alakul át, és az ÁFI Rt.-vel, valamint jogelődjeivel fennállt munkaviszonyát a kincstárnál közalkalmazotti jogviszonyban töltött időként kell figyelembe venni.
-
-(9) A (7) bekezdésben meghatározott személyek alapilletménye az ÁFI Rt.-vel fennállt munkaviszony alapján járó személyi alapbérnél kevesebb nem lehet.
-
-(10)
-
-(11) A Magyar Államkincstár azon közalkalmazottai tekintetében, akik a Magyar Nemzeti Banktól történő feladat-átcsoportosítás következtében váltak a Magyar Államkincstár közalkalmazottaivá, a Magyar Nemzeti Banknál munkaviszonyban töltött időt a közalkalmazott végkielégítése mértékének, valamint fizetési fokozatának megállapításánál közalkalmazotti jogviszonyban töltött időként kell figyelembe venni.
-
-(12) A (11) bekezdésben meghatározott személy alapilletményének és pótlékának együttes összege a Magyar Nemzeti Banknál fennállt munkaviszonya alapján folyósított személyi alapbérénél, címpótlékánál és értékkezelési pótlékánál kevesebb nem lehet.
+(3) E § 2012. január 1-jén hatályát veszti.
 
 123/B. § Az elkülönített állami pénzalapként működő Munkaerőpiaci Alap tekintetében az alappal rendelkező miniszter rendelkezési jogát törvény által szabályozott keretek között megoszthatja a Munkaerőpiaci Alap Irányító Testületével. A rendelkezési jog megosztása nem érintheti a miniszternek a Munkaerőpiaci Alap működésével kapcsolatos e törvényben szabályozott általános kormányzati felelősségét.
 
@@ -2724,7 +2706,7 @@ szükséges.
 - b) a Ktv.-ben meghatározott felmentési idő mértéke meghaladhatja a 6 hónapot azon köztisztviselők esetében, akik a Magyar Államkincstár megszűnésekor a Kjt. 33. §-ában foglaltak alapján 2001. december 31-ével azonos vagy magasabb mértékű felmentési időre voltak jogosultak közalkalmazotti jogviszonyuk megszűnésekor.
 - c)–d)
 
-(2) A Magyar Államkincstár Részvénytársaság megszűnésekor – továbbfoglalkoztatási ajánlat elfogadása hiányában – a munkavállalókat a munkáltató jogutód nélküli megszűnésekor megillető juttatások illetik meg. Ezekben az esetekben a Magyar Államkincstár Részvénytársaság munkavállalóinak munkaviszonyát – a végkielégítés szempontjából – a Magyar Államkincstárnál, mint központi költségvetési szervnél eltöltött idő beszámításával, folyamatos jogviszonyként kell figyelembe venni. A munkavállalót a Magyar Államkincstár által 2001. december 31-ével közölt felmentési idő és a Magyar Államkincstár Részvénytársaságnál számított felmondási idő összeszámított mértékének felére járó átlagkereset illeti meg, amennyiben egyébként munkabérre jogosult.
+(2)
 
 124. § (1) E törvény végrehajtásáról a Kormány gondoskodik.
 
@@ -2817,9 +2799,9 @@ rendeletben jelölje ki.
 
 125. § (1) 1993. április 1-jétől csak e törvény szerint létrehozott alap működhet.
 
-(2) A törvény hatálybalépésekor működő letéti számlákat felül kell vizsgálni, és az e törvény végrehajtási rendeletében meghatározott feltételek mellett meg kell szüntetni.
+(2)
 
-(3) A 121/C. § rendelkezéseit 2008. július 1-jétől kell alkalmazni. 2009. július 1-jétől költségvetési szervnél belső ellenőrzési tevékenységet csak az végezhet, aki a 121/C. §-ban meghatározott nyilvántartásban szerepel.
+(3)
 
 (4)
 

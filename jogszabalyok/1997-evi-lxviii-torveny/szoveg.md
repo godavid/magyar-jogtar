@@ -246,7 +246,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 22. § (1) Az igazságügyi alkalmazott szolgálati viszonya felmentéssel akkor szüntethető meg, ha
 
-- a) nyugdíjasnak minősül,
+- a) nyugdíjasnak minősül vagy a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételekkel legkésőbb a felmentési idő utolsó napján rendelkező igazságügyi alkalmazott ezt kéri,
 - b) munkakörének az ellátására alkalmatlan,
 - c) a 18. § (1) bekezdése szerinti esetekben a részére felajánlott megfelelő új munkakört nem fogadta el, vagy ilyen munkakört a részére nem lehetett felajánlani.
 

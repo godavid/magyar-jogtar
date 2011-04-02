@@ -94,6 +94,8 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (2) Az államigazgatási szerv – írásba foglalt kérelmére – felmentheti az előrehozott öregségi nyugdíjjogosultság életkori, valamint szolgálati idővel kapcsolatos feltételeivel legkésőbb a felmentési idő utolsó napján rendelkező kormánytisztviselőt.
 
+(3) A kormánytisztviselői jogviszonyt felmentéssel meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételekkel a felmentési idő leteltekor rendelkező kormánytisztviselő kérelmezi.
+
 9. § (1) A lemondási idő és a felmentési idő két hónap. Lemondás esetén a felek a két hónapnál rövidebb időben is megállapodhatnak.
 
 (2) A felmentési idő a felmentési okiratban megjelölt napon kezdődik.
@@ -104,7 +106,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (5) A kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés idejére járó átlagkeresetre havonta egyenlő részletekben jogosult.
 
-10. § (1) A kormánytisztviselői jogviszony tekintetében a Ktv. 6. § (1) bekezdése, a 11. § (1)–(6) bekezdése, a 16–17. §-a, 17/B. §-a, 18. §-a, a 19. § (8) bekezdésének c) pontja, 19/A. § (1) bekezdésének i) pontja és (4) bekezdése nem alkalmazható.
+10. § (1) A kormánytisztviselői jogviszony tekintetében a Ktv. 6. § (1) bekezdése, a 11. § (1)–(6) bekezdése, a 16–17. §-a, 17/B. §-a, 18. §-a, a 19. § (8) bekezdésének c) pontja, 19/A. § (1) bekezdésének j) pontja és (4) bekezdése nem alkalmazható.
 
 (2) A kormánytisztviselői jogviszony tekintetében a Ktv. 14. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy áthelyezésen
 
@@ -216,6 +218,8 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (2) A Ktv. 43. § (4) bekezdése szerint megállapított alapilletmény eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő vezetői kinevezést, miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, kormányfőtanácsadói, kormánytanácsadói, miniszteri főtanácsadói, miniszteri tanácsadói megbízást kap, vagy azt tőle visszavonják, illetve címadományozásra, vagy annak visszavonására, vagy a Ktv. 26. § (2) bekezdés szerinti átsorolásra kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint a Ktv. alapján az eltérítés nélkül meghatározott összeg.
 
+(3) A fővárosi és megyei kormányhivatal esetében a Ktv. 43. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szakigazgatási szerv kormánytisztviselője tekintetében az alapilletmény-eltérítésre a szakigazgatási szerv vezetője tesz javaslatot. A szakigazgatási szerv vezetőjének javaslata alapján az alapilletmény-eltérítésről a kormánymegbízott dönt.
+
 19. § (1) A Miniszterelnökségen, a minisztériumokban, a Kormányzati Ellenőrzési Hivatalnál, a költségvetési fejezetet irányító szerveknél – a Központi Statisztikai Hivatal területi szervezeti egységei kivételével és ide nem értve a Nemzeti Adó- és Vámhivatalt –, a Magyar Államkincstárnál – a területi szervezeti egységei kivételével –, a Kormány által rendeletben kijelölt államigazgatási szervnél, a Mezőgazdasági Szakigazgatási Hivatalnál, a Nemzeti Földalapkezelő Szervezetnél, a Mezőgazdasági és Vidékfejlesztési Hivatalnál – a területi szervezeti egységei kivételével –, a Földmérési és Távérzékelési Intézetnél, az Európai Támogatásokat Auditáló Főigazgatóságnál, a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálatánál, a Nemzeti Nyomozó Irodánál, továbbá jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél, valamint – a belső igazgatási szervei kivételével – az Országos Nyugdíjbiztosítási Főigazgatóságnál és az Országos Egészségbiztosítási Pénztárnál, továbbá a Nemzeti Fejlesztési Ügynökségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
 (2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, valamint a megyei, fővárosi kormányhivatalnál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
@@ -283,6 +287,8 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 - b) a 30 év kormánytisztviselői jogviszony után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító szolgálati idejéből 2 év vagy ennél kevesebb van hátra,
 - c) a 35 év kormánytisztviselői jogviszony után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító szolgálati idejéből 3 év vagy ennél kevesebb van hátra,
 - d) a 40 év kormánytisztviselői jogviszony után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító szolgálati idejéből 4 év vagy ennél kevesebb van hátra.
+
+(6) Arra a kormánytisztviselőre, akinek a 8. § (2) vagy (3) bekezdés alapján szűnik meg a jogviszonya, nem alkalmazható az (5) bekezdés.
 
 24. § (1) A kormánytisztviselői jogviszony tekintetében a Ktv. 31. §-a, a 34. § (3), (5) és (6) bekezdése, a 40. § (5) bekezdése, a 41/A. § (9) bekezdése, a 43. § (1) és (6), valamint (8) bekezdése, a 44. § (1) bekezdése, a 45. § (5) bekezdése, továbbá a 49/E. § nem alkalmazható.
 
@@ -541,7 +547,9 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (5) Az ügykezelő osztályvezető alapilletménye az illetményalap három és félszerese.
 
-58. § Az ügykezelő kormánytisztviselői jogviszonyára a Ktv. 67. § (1) bekezdése és a 68. § (4) bekezdése nem alkalmazható.
+58. § (1) Az ügykezelő kormánytisztviselői jogviszonyára a Ktv. 67. § (1) bekezdése és a 68. § (4) bekezdése nem alkalmazható.
+
+(2) Az ügykezelő kormánytisztviselői jogviszonyában a Ktv. ügykezelői alapvizsgára, valamint a Ktv. ügykezelők szabadságára vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 ### VI/A. Fejezet — PÁRTFOGÓ FELÜGYELŐK
 
