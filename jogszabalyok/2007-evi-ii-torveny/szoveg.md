@@ -66,7 +66,9 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (2) A központi vízumhatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.
 
-(3) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem, a vízum megsemmisítése, visszavonása, valamint a vízum meghosszabbítása tárgyában hozott döntés ellen jogorvoslatnak nincs helye.
+(3) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelemnek helyt adó döntés ellen jogorvoslatnak nincs helye.
+
+(4) A három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása, a vízum megsemmisítése, visszavonása, valamint a vízum meghosszabbítása tárgyában hozott döntés ellen fellebbezésnek van helye. A fellebbezés tárgyában hozott döntés ellen további jogorvoslatnak nincs helye.
 
 10–11. §
 
