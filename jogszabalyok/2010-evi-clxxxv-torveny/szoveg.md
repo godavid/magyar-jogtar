@@ -488,7 +488,7 @@ figyelemfelhívás.
 
 41. § (1) Az e törvény hatálya alá tartozó, a Magyar Köztársaságban letelepedett médiaszolgáltató által nyújtott lineáris médiaszolgáltatás bejelentés és a Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) általi hatósági nyilvántartásba vétel után végezhető, kivéve azon állami tulajdonban lévő korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatásokat, amelyek a Médiatanács által kiírt és lebonyolított pályázaton való nyertessé nyilvánítás és szerződéskötés alapján végezhetők.
 
-(2) Az e törvény hatálya alá tartozó, a Magyar Köztársaság területén letelepedett médiaszolgáltató által nyújtott lekérhető médiaszolgáltatást, kiegészítő médiaszolgáltatást és a Magyar Köztársaság területén letelepedett kiadó által kiadott sajtóterméket be kell jelenteni a Hivatalhoz.
+(2) Az e törvény hatálya alá tartozó, a Magyar Köztársaság területén letelepedett médiaszolgáltató által nyújtott lekérhető médiaszolgáltatást, kiegészítő médiaszolgáltatást és a Magyar Köztársaság területén letelepedett kiadó által kiadott sajtóterméket – a szolgáltatás, illetve a tevékenység megkezdését követő hatvan napon belül – nyilvántartásba vétel céljából be kell jelenteni a Hivatalhoz. A nyilvántartásba vétel nem feltétele e szolgáltatás, illetve tevékenység megkezdésének.
 
 (3) A nyilvántartásba vételt kezdeményező bejelentő – e törvény keretei között – bármely természetes személy, jogi személy és jogi személyiséggel nem rendelkező szervezet lehet.
 
@@ -619,7 +619,7 @@ figyelemfelhívás.
 
 ### A lekérhető médiaszolgáltatások bejelentése
 
-45. § (1) A lekérhető médiaszolgáltatás nyilvántartásba vételét annak jövőbeni médiaszolgáltatója kezdeményezheti. A lekérhető médiaszolgáltatás Hivatalhoz történő bejelentésében meg kell jelölni:
+45. § (1) A lekérhető médiaszolgáltatás nyilvántartásba vételét annak médiaszolgáltatója kezdeményezheti. A lekérhető médiaszolgáltatás Hivatalhoz történő bejelentésében meg kell jelölni:
 
 - a) a bejelentő adatait:
   - aa) nevét,
@@ -635,18 +635,16 @@ figyelemfelhívás.
 
 (2) A lekérhető médiaszolgáltatás médiaszolgáltatója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az a médiaszolgáltatás nyilvántartásba vétele esetén sem keletkezne.
 
-(3) A lekérhető médiaszolgáltatás nyilvántartásba vételéről a Hivatal harminc napon belül hatósági határozatot hoz. Ha a bejelentést követően a nyilvántartásba vételről a Hivatal harminc napon belül nem döntött, a bejelentést nyilvántartásba vettnek kell tekinteni.
+(3) A lekérhető médiaszolgáltatást a Hivatal harminc napon belül nyilvántartásba veszi.
 
-(4) A nyilvántartásba vételt kizárólag akkor lehet megtagadni, ha
+(4) A nyilvántartásba vételt a Hivatal visszavonja, ha
 
-- a) a bejelentővel szemben összeférhetetlenségi ok áll fenn,
-- b) a bejelentés a hiánypótlásra való felszólítás ellenére sem egészült ki az (1) bekezdés alapján szükséges adatszolgáltatással,
-- c) a bejelentett médiaszolgáltatás elnevezése egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő lekérhető médiaszolgáltatás elnevezésével azonos, illetve ahhoz az összetéveszthetőségig hasonlít, vagy
-- d) a bejelentő nem fizette meg az igazgatási szolgáltatási díjat.
+- a) a bejelentővel szemben összeférhetetlenségi ok áll fenn, vagy
+- b) a bejelentett médiaszolgáltatás elnevezése egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő lekérhető médiaszolgáltatás elnevezésével azonos, illetve ahhoz az összetéveszthetőségig hasonlít.
 
 (5) A lekérhető médiaszolgáltatást törölni kell a nyilvántartásból, ha
 
-- a) a nyilvántartásba vétel megtagadásának lenne helye,
+- a) a (4) bekezdés alapján a nyilvántartásba vétel visszavonásának lenne helye,
 - b) a médiaszolgáltató kérte a nyilvántartásból való törlését,
 - c) a médiaszolgáltatás megkezdését a nyilvántartásba vételtől számított egy éven át elmulasztják, vagy a megkezdett szolgáltatást egy évnél hosszabb időre megszakítják, vagy
 - d) bíróság jogerős határozata elrendelte a médiaszolgáltatás elnevezése által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől.
@@ -655,9 +653,11 @@ figyelemfelhívás.
 
 (7) Amennyiben a médiaszolgáltató személyében vagy a médiaszolgáltatás (1) bekezdés d) pontban szereplő adataiban változás következik be, az eredeti bejelentést tevő médiaszolgáltatónak kezdeményeznie kell a nyilvántartásban szereplő adatok módosítását. Az erre irányuló eljárásra az (1)–(4) bekezdést megfelelően alkalmazni kell.
 
+(8) Amennyiben a nyilvántartásba vételre vonatkozó szabályokat a médiaszolgáltató megsérti, a Hivatal – a 185. § (2) bekezdésben foglalt elvek figyelembevételével – egymillió forintig terjedő bírságot szabhat ki.
+
 ### A sajtótermékek bejelentése
 
-46. § (1) A sajtótermék nyilvántartásba vételét annak jövőbeni kiadója kezdeményezheti. Ha a sajtótermék alapítója és kiadója eltérő személy vagy vállalkozás, viszonyukat, a sajtótermékkel kapcsolatos feladataikat és jogaikat megállapodásban rendezik.
+46. § (1) A sajtótermék nyilvántartásba vételét annak kiadója kezdeményezheti. Ha a sajtótermék alapítója és kiadója eltérő személy vagy vállalkozás, viszonyukat, a sajtótermékkel kapcsolatos feladataikat és jogaikat megállapodásban rendezik.
 
 (2) A sajtótermék nyilvántartásba vételére irányuló bejelentésben meg kell jelölni:
 
@@ -672,18 +672,16 @@ figyelemfelhívás.
 
 (3) A sajtótermék alapítója és kiadója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, a Médiatanács tagja, ide nem értve a tudományos eredmények, vagy tudományos ismeretterjesztés közzétételére irányuló sajtótermék alapítását vagy kiadását. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az nyilvántartásba vétele esetén sem keletkezne.
 
-(4) A sajtótermék nyilvántartásba vételéről a Hivatal tizenöt napon belül hatósági határozatot hoz. Ha a bejelentést követően a nyilvántartásba vételről a Hivatal tizenöt napon belül nem döntött, a sajtóterméket nyilvántartásba vettnek kell tekinteni.
+(4) A sajtóterméket a Hivatal tizenöt napon belül nyilvántartásba veszi.
 
-(5) A nyilvántartásba vételt kizárólag akkor lehet megtagadni, ha
+(5) A nyilvántartásba vételt a Hivatal visszavonja, ha
 
-- a) a bejelentővel szemben összeférhetetlenségi ok áll fenn,
-- b) a bejelentés a hiánypótlásra való felszólítás után sem tartalmazza az (1) bekezdés alapján szükséges adatszolgáltatást,
-- c) a bejelentett sajtótermék címe egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő sajtótermék címével azonos, illetve ahhoz az összetéveszthetőségig hasonlít,
-- d) a bejelentő nem fizette meg az igazgatási szolgáltatási díjat.
+- a) a bejelentővel szemben összeférhetetlenségi ok áll fenn, vagy
+- b) a bejelentett sajtótermék címe egy korábban nyilvántartásba vett, és a bejelentés időpontjában a nyilvántartásban szereplő sajtótermék címével azonos, illetve ahhoz az összetéveszthetőségig hasonlít.
 
 (6) A sajtóterméket törölni kell a nyilvántartásból, ha
 
-- a) a nyilvántartásba vétel megtagadásának lenne helye,
+- a) az (5) bekezdés alapján a nyilvántartásba vétel visszavonásának lenne helye,
 - b) az alapító vagy – amennyiben az alapító és a kiadó eltérő vállalkozás, úgy az alapító jóváhagyásával – a kiadó kérte a nyilvántartásból való törlését,
 - c) a sajtótermék kiadásának megkezdését a nyilvántartásba vételtől számított két éven át elmulasztják, vagy a megkezdett kiadást öt évnél hosszabb időre megszakítják, vagy
 - d) bíróság jogerős határozata elrendelte a sajtótermék címe által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől.
@@ -691,6 +689,8 @@ figyelemfelhívás.
 (7) A sajtótermék kiadójának és alapítójának tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be.
 
 (8) Amennyiben a kiadó személyében változás következik be, a nyilvántartásban szereplő kiadónak kezdeményeznie kell a nyilvántartásban szereplő adatok módosítását. Ennek elmaradása esetén az alapító is kezdeményezheti a módosítást. Az erre irányuló eljárásra az (1)–(5) bekezdést megfelelően alkalmazni kell.
+
+(8a) Amennyiben a nyilvántartásba vételre vonatkozó szabályokat a kiadó vagy az alapító megsérti, a Hivatal – a 185. § (2) bekezdésben foglalt elvek figyelembevételével – egymillió forintig terjedő bírságot szabhat ki.
 
 (9) A sajtóterméken és – ha jogszabály eltérően nem rendelkezik – az egyéb kiadványon fel kell tüntetni a szerkesztésre és a kiadásra vonatkozó legfontosabb adatokat (impresszum). Az impresszumban a következő adatokat kell feltüntetni:
 
@@ -2739,9 +2739,9 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 ### Eljárás a más tagállamban letelepedett médiatartalom-szolgáltatóval szemben
 
-176. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató lineáris audiovizuális médiaszolgáltatása a Magyar Köztársaság területére irányul, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a médiaszolgáltatóval szemben a 187. § (3) bekezdés b)–d) pont szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
+176. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató lineáris audiovizuális médiaszolgáltatása a Magyar Köztársaság területére irányul, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig, kizárólag a Magyar Köztársaság területén terjesztett médiaszolgáltatás tekintetében a 187. § (3) bekezdés c)–d) pontja szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
 
-- a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. §-át, 19. § (1) vagy (4) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését,
+- a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. § (1) bekezdését, 19. § (1) vagy (4) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését,
 - b) a Médiatanács által e bekezdés alapján meghozandó, a terjesztés korlátozását célzó határozatot megelőző tizenkét hónap alatt a médiaszolgáltatás legalább két alkalommal megsértette az a) pontban említett előírást,
 - c) a Magyar Köztársaság a Médiatanács kezdeményezésére írásban értesítette az érintett médiaszolgáltatót és az Európai Bizottságot az a) pont szerinti jogsértésekről és a Médiatanács tervezett intézkedéseiről, amelyeket a további jogsértés elkövetése esetén kíván alkalmazni, és
 - d) azon tagállammal, amelyben a médiaszolgáltató letelepedett, valamint az Európai Bizottsággal folytatott konzultáció alapján a c) pontban szereplő értesítés megtörténtétől számított tizenöt napon belül nem jött létre egyezség a Magyar Köztársaság és az érintett tagállam között, és az a) pont szerinti jogsértés továbbra is fennáll, illetve újból megvalósul.
@@ -2750,7 +2750,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 (3) Amennyiben az Európai Bizottság a (2) bekezdésben foglalt értesítéstől számított két hónapon belül meghozott határozatában a Médiatanácsot az (1) bekezdés alapján meghozott határozat visszavonására kötelezi, akkor köteles az Európai Bizottság határozatában foglaltak szerint eljárni.
 
-177. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató lekérhető audiovizuális médiaszolgáltatása a Magyar Köztársaság területére irányul, illetve terjesztése vagy közzététele a Magyar Köztársaság területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés b)–d) pont szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
+177. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató lekérhető audiovizuális médiaszolgáltatása a Magyar Köztársaság területére irányul, illetve terjesztése vagy közzététele a Magyar Köztársaság területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig, kizárólag a Magyar Köztársaság területén terjesztett médiaszolgáltatás tekintetében a 187. § (3) bekezdés c)–d) pontja szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
 
 - a) az intézkedés a közrend védelme, bűncselekmények megelőzése, felderítése és üldözése, a közösségek elleni gyűlöletkeltés tilalmának megsértése, vagy a kiskorúak, a közegészség, a közbiztonság, a nemzetbiztonság és a fogyasztók, befektetők védelme miatt szükséges,
 - b) az intézkedés olyan lekérhető médiaszolgáltatás médiaszolgáltatójával szemben kerül alkalmazásra, amely az a) pontban meghatározott érdekek valamelyikét sérti, illetve súlyosan veszélyezteti, és
@@ -2760,7 +2760,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 (3) Kivételesen sürgős esetben, a nézői érdekek védelme érdekében az (1) bekezdés szerinti esetben a Médiatanács ideiglenes határozatot hozhat. Az ideiglenes határozat azonnal végrehajtható. A Médiatanács az ideiglenes határozatot annak közlésével egyidejűleg megküldi az Európai Bizottságnak, valamint az érintett tagállamnak. A Médiatanács az ideiglenes határozat fenntartásáról vagy visszavonásáról az Európai Bizottság határozatában foglaltaknak megfelelően köteles dönteni.
 
-178. § (1) Amennyiben más tagállamban letelepedett médiatartalom-szolgáltató rádiós médiaszolgáltatása vagy sajtóterméke a Magyar Köztársaság területére irányul, illetve terjesztése vagy közzététele a Magyar Köztársaság területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés b)–c) pont szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
+178. § (1) Amennyiben más tagállamban letelepedett médiatartalom-szolgáltató rádiós médiaszolgáltatása vagy sajtóterméke a Magyar Köztársaság területére irányul, illetve terjesztése vagy közzététele a Magyar Köztársaság területén történik, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig a 187. § (3) bekezdés c) pont szerinti jogkövetkezményt alkalmazhatja, amennyiben a következő feltételek fennállnak:
 
 - a) az intézkedés a közrend védelme, bűncselekmények megelőzése, felderítése és üldözése, a közösségek elleni gyűlöletkeltés tilalmának megsértése, vagy a kiskorúak, a közegészség, a közbiztonság, a nemzetbiztonság és a fogyasztók, befektetők védelme miatt szükséges,
 - b) az intézkedés olyan rádiós médiaszolgáltatás, vagy sajtótermék médiatartalom-szolgáltatójával szemben kerül alkalmazásra, amely az a) pontban meghatározott érdekek valamelyikét sérti, illetve súlyosan veszélyezteti, és
@@ -2769,6 +2769,8 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 (2) Az (1) bekezdésben foglalt határozat meghozatalára irányuló eljárás megindítását megelőzően a Médiatanács köteles kérni azon tagállam intézkedését, amelynek joghatósága alá az (1) bekezdésben meghatározott rádiós médiaszolgáltatást nyújtó médiaszolgáltató, illetve a sajtótermék kiadója tartozik. A Médiatanács az (1) bekezdésben foglalt eljárását csak abban az esetben indíthatja meg, ha a tagállam az intézkedést a Médiatanács kérelmében foglalt ésszerű időn belül nem vagy nem megfelelő módon teszi meg.
 
 (3) Kivételesen sürgős esetben, a hallgatók és olvasók érdekeinek védelme érdekében az (1) bekezdés szerinti esetben a Médiatanács ideiglenes határozatot hozhat. Az ideiglenes határozat azonnal végrehajtható. A Médiatanács az ideiglenes határozatot annak közlésével egyidejűleg megküldi azon tagállamnak, amelynek joghatósága alá az (1) bekezdésben meghatározott rádiós médiaszolgáltatást nyújtó médiaszolgáltató, illetve a sajtótermék kiadója tartozik, egyúttal köteles kérni a tagállam intézkedését. Amennyiben a tagállam az intézkedést a kérelemben foglalt ésszerű időn belül megteszi, a Médiatanács az ideiglenes határozat visszavonásáról, amennyiben nem vagy nem megfelelő módon teszi meg, akkor az ideiglenes határozat fenntartásáról dönt.
+
+### Eljárás a más tagállamban letelepedett médiatartalom-szolgáltatóval szemben jogmegkerülés esetén
 
 179. § (1) A más tagállamban letelepedett médiaszolgáltató lineáris audiovizuális médiaszolgáltatására e törvény és az Smtv. 13–20. §-ai a (2)–(5) bekezdésben foglaltak szerint alkalmazandók, feltéve, hogy a más tagállamban letelepedett médiaszolgáltató az érintett lineáris audiovizuális médiaszolgáltatását teljes egészében vagy túlnyomórészt a Magyar Köztársaság területére irányítja, és a médiaszolgáltató annak érdekében telepedett le a Magyar Köztársaságon kívül, hogy elkerülje a szigorúbb szabályok vele szemben való érvényesítését, amelyek e törvény, illetve az Smtv. alapján alkalmazandók lennének rá.
 
@@ -2790,7 +2792,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 ### Eljárás a kiegyensúlyozott tájékoztatás kötelezettségének megsértése esetén
 
-181. § (1) Az Smtv. 13. § (2) bekezdésében és e törvény 12. § (2) bekezdésében meghatározott kiegyensúlyozottsági kötelezettség megsértése esetén a kifejezésre nem juttatott álláspont képviselője, illetve bármely néző vagy hallgató (a (2)–(6) bekezdés alkalmazásában a továbbiakban: kérelmező) hatósági eljárást kezdeményezhet. A kérelem elbírálására a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltatók médiaszolgáltatásai tekintetében a Médiatanács, más médiaszolgáltatások vonatkozásában a Hivatal rendelkezik hatáskörrel. A kiegyensúlyozott tájékoztatás kötelezettségének megsértése miatt a Hatóság hivatalból nem indíthat eljárást.
+181. § (1) Az Smtv. 13. §-ában és e törvény 12. § (2) bekezdésében meghatározott kiegyensúlyozottsági kötelezettség megsértése esetén a kifejezésre nem juttatott álláspont képviselője, illetve bármely néző vagy hallgató (a (2)–(6) bekezdés alkalmazásában a továbbiakban: kérelmező) hatósági eljárást kezdeményezhet. A kérelem elbírálására a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltatók médiaszolgáltatásai tekintetében a Médiatanács, más médiaszolgáltatások vonatkozásában a Hivatal rendelkezik hatáskörrel. A kiegyensúlyozott tájékoztatás kötelezettségének megsértése miatt a Hatóság hivatalból nem indíthat eljárást.
 
 (2) Az (1) bekezdésben meghatározott hatósági eljárás kezdeményezését megelőzően a kérelmező köteles kifogásával a médiaszolgáltatóhoz fordulni. A kérelmező az általa kifogásolt tájékoztatás közzétételétől, ismétlés esetén az utolsó ismétléstől számított hetvenkét órán belül írásban kérheti a médiaszolgáltatótól azon álláspont – megfelelő, a kifogásolt tájékoztatás közzétételéhez hasonló körülmények közötti – közzétételét, amelynek közzététele a kiegyensúlyozott tájékoztatáshoz szükséges. Nem élhet a kifogásolás jogával a kérelmező, ha az ismertetésre nem került álláspont kifejtésére ezen álláspont valamely képviselője már lehetőséget kapott, vagy ha e lehetőséget a kérelmező kapta, de azzal nem élt.
 
@@ -2839,7 +2841,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 - r) eljár az e törvényben meghatározott jogvitákban,
 - s) ellátja az ideiglenes médiaszolgáltatási hatósági szerződésekkel összefüggő feladatokat,
 - t) szakhatósági feladatokat lát el e törvény és a Tpvt. által előírt esetben,
-- u) eljár a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltatók médiaszolgáltatásával kapcsolatban felmerült kiegyensúlyozottsági panaszok ügyében [Smtv. 13. § (2) bekezdés és e törvény 12. §-a],
+- u) eljár a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltatók médiaszolgáltatásával kapcsolatban felmerült kiegyensúlyozottsági panaszok ügyében [Smtv. 13. § és e törvény 12. §-a],
 - v) hatósági határozatában meghatározza a társadalom számára kiemelten nagy jelentőséggel bíró eseményeket,
 - x) hatósági határozatában meghatározza a továbbítási kötelezettség alá eső közszolgálati és közösségi médiaszolgáltatásokat [75 . § (3) bekezdés],
 - y) ellátja az önszabályozó szervezetek eljárásával és döntéseivel összefüggő hatósági feladatokat,
@@ -2881,7 +2883,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
   - cg) a reklámra és a televíziós vásárlásra vonatkozó egyes rendelkezések (34–35. §),
   - ch) a médiaszolgáltatások és műsorszámok támogatására vonatkozó szabályok (26–29. §),
 - d) ellátja a szolgáltatás megkezdésének elmaradása esetén a médiaszolgáltatási jogosultság megszűnésével, megszüntetésével kapcsolatos feladatokat,
-- e) a 182. § u) pont kivételével eljár a kiegyensúlyozott tájékoztatás kötelezettségét érintő panaszok tekintetében (Smtv. 13. § (2) bekezdés és e törvény 12. §-a),
+- e) a 182. § u) pont kivételével eljár a kiegyensúlyozott tájékoztatás kötelezettségét érintő panaszok tekintetében (Smtv. 13. § és e törvény 12. §-a),
 - f) ellenőrzi a közszolgálati médiaszolgáltatások továbbítására vonatkozó kötelezettségek érvényesülését (74. §),
 - g) a médiaszolgáltatások felajánlásának kötelezettsége körében ellenőrzi az általános szerződési keretfeltételekre vonatkozó előírások érvényesülését (79. §),
 - h) egyéb, törvényben meghatározott hatásköröket gyakorol.
@@ -3201,7 +3203,7 @@ i) amely olyan filmalkotás, amely a mozgóképről szóló törvény értelméb
 
 39. Médiaigazgatásra vonatkozó szabály: e törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény, illetve ezek végrehajtása tárgyában kibocsátott jogszabály, médiaigazgatásra vonatkozó, közvetlenül alkalmazandó európai uniós aktus, a Médiatanács és a Hivatal által megkötött hatósági szerződés, illetve a Médiatanács és a Hivatal hatósági határozata.
 
-40. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56–57. cikkében meghatározott gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
+40. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
 
 41. Médiaszolgáltató: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
 
@@ -3241,7 +3243,7 @@ i) amely olyan filmalkotás, amely a mozgóképről szóló törvény értelméb
 
 59. Reklám: olyan – műsorszámnak minősülő – közlés, tájékoztatás, illetve megjelenítési mód, amely valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog értékesítésének vagy más módon történő igénybevételének előmozdítására, vagy e céllal összefüggésben a vállalkozás neve, megjelölése, tevékenysége népszerűsítésére vagy áru, árujelző ismertségének növelésére irányul.
 
-60. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében.
+60. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében. Gazdasági szolgáltatás az önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett szolgáltatás.
 
 61. Sportműsorszám: olyan műsorszám, amely sporteseményt (az eseménnyel egyidejűleg, késleltetett módon vagy szerkesztve) közvetít, ide nem értve a sporteseményekről való híradást és a sporttémájú beszélgetést tartalmazó műsorszámot.
 

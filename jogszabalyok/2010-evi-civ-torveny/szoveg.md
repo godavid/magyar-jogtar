@@ -8,7 +8,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 #### 1. §
 
-1. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
+1. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
 
 2. Médiaszolgáltató: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
 
@@ -18,7 +18,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 5. Lineáris médiaszolgáltatás: a médiaszolgáltató által nyújtott, műsorszámok műsorrend alapján történő egyidejű megtekintését, illetve meghallgatását lehetővé tevő médiaszolgáltatás.
 
-6. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében.
+6. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében. Gazdasági szolgáltatás az önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett szolgáltatás.
 
 7. Médiatartalom: valamennyi médiaszolgáltatás során, valamint sajtótermék által kínált tartalom.
 
@@ -86,7 +86,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 ### IV. CÍM — A KÖZÖNSÉG JOGAI
 
-10. § Mindenkinek joga van arra, hogy megfelelően tájékoztassák a helyi, az országos és az európai közélet ügyeiről, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről.
+10. § Mindenkinek joga van arra, hogy megfelelően tájékoztassák a helyi, az országos és az európai közélet ügyeiről, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről. A médiarendszer egészének feladata a hiteles, gyors, pontos tájékoztatás ezen ügyekről és eseményekről.
 
 11. § A Magyar Köztársaságban közszolgálati médiaszolgáltatás működik a nemzeti önazonosság és az európai identitás, a nemzeti, családi, etnikai, vallási közösségek megőrzése és megerősítése, a magyar és a kisebbségi nyelvek és kultúra ápolása, gazdagítása, az állampolgárok tájékozódási és kulturális igényeinek kielégítése céljából.
 
@@ -98,9 +98,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 ### VI. CÍM — A SAJTÓ KÖTELEZETTSÉGEI
 
-13. § (1) A médiatartalom-szolgáltatók összességének feladata a hiteles, gyors, pontos tájékoztatás a helyi, az országos és az európai közélet ügyeiről, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről.
-
-(2) A tájékoztatási tevékenységet végző lineáris és lekérhető médiaszolgáltatások kötelesek a közérdeklődésre számot tartó helyi, országos, nemzeti és európai, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről, vitatott kérdésekről az általuk közzétett tájékoztató, illetve híreket szolgáltató műsorszámokban sokoldalúan, tényszerűen, időszerűen, tárgyilagosan és kiegyensúlyozottan tájékoztatni.
+13. § A tájékoztatási tevékenységet végző lineáris médiaszolgáltatások kötelesek a közérdeklődésre számot tartó helyi, országos, nemzeti és európai, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről, vitatott kérdésekről az általuk közzétett tájékoztató, illetve híreket szolgáltató műsorszámokban sokoldalúan, tényszerűen, időszerűen, tárgyilagosan és kiegyensúlyozottan tájékoztatni. E kötelezettség részletes szabályait törvény az arányosság és a demokratikus közvélemény biztosítása követelményeinek megfelelően állapítja meg.
 
 14. § (1) A médiatartalom-szolgáltatónak az általa közzétett médiatartalmakban, illetve azok készítése során tiszteletben kell tartania az emberi méltóságot.
 
@@ -120,7 +118,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 17. § (1) A médiatartalom nem lehet alkalmas személyek, nemzetek, közösségek, nemzeti, etnikai, nyelvi és más kisebbségek vagy bármely többség, továbbá valamely egyház vagy vallási csoport elleni gyűlölet keltésére.
 
-(2) A médiatartalom nem lehet alkalmas személyek, nemzetek, közösségek, nemzeti, etnikai, nyelvi és más kisebbségek vagy bármely többség, továbbá valamely egyház vagy vallási csoport nyílt vagy burkolt megsértésére, kirekesztésére.
+(2) A médiatartalom nem lehet alkalmas személyek, nemzetek, közösségek, nemzeti, etnikai, nyelvi és más kisebbségek vagy bármely többség, továbbá valamely egyház vagy vallási csoport kirekesztésére.
 
 18. § A médiatartalom nem lehet alkalmas a magánélet megsértésére.
 
