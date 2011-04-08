@@ -377,7 +377,7 @@ indokolja a kinevezés módosítását.
 - a) az (1) bekezdés szerinti jogviszonyát neki felróható módon szüntette meg;
 - b) a 19/A. § szerint nyugdíjasnak minősül.
 
-17. § (1) A közszolgálati jogviszonyt a munkáltató felmentéssel indokolás nélkül megszüntetheti.
+17. § (1)
 
 (2) A közszolgálati jogviszonyt felmentéssel meg kell szüntetni, ha
 
