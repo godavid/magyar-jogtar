@@ -2943,6 +2943,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 (3) A 3. számú melléklet I. részének a Mód1. törvénnyel megállapított 18. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2011. január 1-jére vagy azt követő napra esik.
 
+271. § A 3. számú melléklet II. rész az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosításáról szóló 2011. évi XXXV. törvénnyel megállapított 2. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosításáról szóló 2011. évi XXXV. törvény hatálybalépésének napjára vagy azt követő időszakra esik.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -3018,6 +3020,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | Sorszám | Megnevezés |
 | --- | --- |
 | 1. | Távhőszolgáltatás, ideértve a villamos energiáról szóló törvény alapján megújuló energiaforrásnak minősülő energiaforráson alapuló hőszolgáltatást |
+| 2. | Előadóművész személyes közreműködésévela) vendéglátás keretében, üzletben,b) nem nyilvánosan meghirdetett családi esemény, baráti rendezvény keretében, zárt körben, vagyc) belépődíj nélkül tartott, a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet hatálya alá nem tartozó, közösségi rendezvényeken nyújtott hangszeres élőzenei szolgáltatás. |
 
 ### 3/A. számú melléklet a 2007. évi CXXVII. törvényhez
 
