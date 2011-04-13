@@ -642,7 +642,7 @@ feladataik teljesítése érdekében – ha az adatvédelem technikai feltétele
 - c) a hivatalos vizsgálat alatt a kísérettel továbbított áruk árutovábbítási eljárásra bocsátottnak tekintendők akkor, ha a vámhatóság az eljárás egyszerűsítése vagy különleges közérdek céljából lemond a bemutatás, a bejelentés és az árutovábbítási okmány kiállításának kötelezettségéről,
 - d) az indító vámhivatal hivatalos helyén kívül végzett vámkezelésre nyújtott biztosíték, vagy az ilyen biztosítékról való lemondás is az indulás helyétől a vámkezelés helyéig történő árutovábbítási eljárásnak minősül,
 - e) a természeti katasztrófák vagy egyéb rendkívüli események bekövetkeztekor, illetve rendkívüli helyzetekben nyújtandó segítség céljából történő árutovábbítási eljárás során a vámhatóság a bejelentés egyszerűsítését engedélyezheti, ha az eset körülményei alapján feltételezhető, hogy a vámelőírásokat nem sértik meg,
-- f) a 170/2002. (VIII. 7.) Korm. rendelettel kihirdetett, a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SZMGSZ) II. Rész 7. Cikke szerinti fuvarlevéllel (a továbbiakban: SZMGSZ fuvarlevél) történő árutovábbítási eljárásra vonatkozó részletes szabályokat e törvény végrehajtási rendelete állapítja meg.
+- f) a 2011. évi XXXVII. törvénnyel kihirdetett, a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SZMGSZ) II. Rész 7. Cikke szerinti fuvarlevéllel (a továbbiakban: SZMGSZ fuvarlevél) történő árutovábbítási eljárásra vonatkozó részletes szabályokat e törvény végrehajtási rendelete állapítja meg.
 
 ### A vámkódex 100–113. cikkéhez
 
