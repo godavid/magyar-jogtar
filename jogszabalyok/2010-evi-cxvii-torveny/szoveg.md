@@ -139,6 +139,10 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 
 (3) Az átadott és átvett adatokat az (1) bekezdés szerinti szervek ellenőrzés céljából 5 évig kezelhetik.
 
+11/A. § (1) A Nemzeti Adó- és Vámhivatal a bioüzemanyag előállítására alkalmas létesítmények adóraktári engedélyezésével, valamint adóraktári engedélyének megszűnésével kapcsolatos eljárásában összegyűjti az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek az Európai Bizottság részére való bejelentéséről és a 736/96/EK rendelet hatályon kívül helyezéséről szóló, 2010. június 24-i 617/2010/EU, Euratom európai tanácsi rendelet 5. cikk (3) bekezdése szerinti jelentéstételhez szükséges adatokat.
+
+(2) A Nemzeti Adó- és Vámhivatal az (1) bekezdés szerint összegyűjtött adatokat a Magyar Energia Hivatal részére továbbítja.
+
 #### 8. Jelentéstétel
 
 12. § Az energiapolitikáért felelős miniszter teljesíti
@@ -195,6 +199,8 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 - f) a 2009/28/EK irányelv 5. cikk (1) bekezdés 3. albekezdésének,
 - g) a 2009/28/EK irányelv 21. cikk (2) bekezdésének,
 - h) 2003/30/EK irányelv 4. cikk (1) bekezdésének való megfelelést szolgálja.
+
+15/A. § E törvény 11/A. §-a az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek az Európai Bizottság részére való bejelentéséről és a 736/96/EK rendelet hatályon kívül helyezéséről szóló 2010. június 24-i, 617/2010/EU, Euratom európai tanácsi rendelet 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 16. § (1) A Jöt. 7. §-ának 37/B. pontja helyébe a következő rendelkezés lép:
 

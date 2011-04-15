@@ -2670,7 +2670,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 231. § (1) Az ajánlatkérőnek a tárgyalásos eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót külön jogszabályban meghatározott minta szerinti hirdetmény útján kell közzétennie.
 
-(2) A hirdetményt – a Közbeszerzési Értesítőben történő közzétételre – legkésőbb az eredményhirdetéstől, illetőleg az eredményhirdetés határidejének lejártától számított öt munkanapon belül kell feladni.
+(2)
 
 (3) A hirdetményt – a 184. § (1) bekezdése szerinti közzétételre – legkésőbb a szerződéskötéstől, illetőleg ennek hiányában a szerződéskötés tervezett időpontjának lejártától számított öt munkanapon belül kell megküldeni.
 
@@ -2732,7 +2732,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 237. § (1) Az ajánlatkérőnek a hirdetmény nélküli tárgyalásos eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót külön jogszabályban meghatározott minta szerinti hirdetmény útján kell közzétennie.
 
-(2) A hirdetményt – a Közbeszerzési Értesítőben történő közzétételre – legkésőbb az eredményhirdetéstől, illetőleg az eredményhirdetés határidejének lejártától számított öt munkanapon belül kell feladni.
+(2)
 
 (3) A hirdetményt – a 184. § (1) bekezdése szerinti közzétételre – legkésőbb a szerződéskötéstől, illetőleg ennek hiányában a szerződéskötés tervezett időpontjának lejártától számított öt munkanapon belül kell megküldeni.
 
@@ -2877,7 +2877,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 - g) az ajánlatok elbírálására a 81–89/A. § és a 90. § (5) bekezdése, továbbá a 91–93. §, azzal, hogy az eljárás eredményéről szóló összegezést legkésőbb az ajánlatok felbontástól számított harminc – építési beruházás esetében hatvan – napon belül kell megküldeni az ajánlattevőknek;
 - h) az előzetes vitarendezésre a 96/A. §, az ajánlatok nyilvánosságára a 96. § (3) bekezdése és a 97. §, a szerződés megkötésére a 99. és a 99/A. §, valamint tárgyalás esetén a 128. § is azzal, hogy eredményhirdetést nem kell tartani, eredményhirdetés kifejezés alatt az eljárás eredményéről szóló összegezés megküldésének napját kell érteni, továbbá hogy a szerződéskötés időpontját egy ízben legfeljebb 30 nappal el lehet halasztani, erről az ajánlattevőket írásban kell tájékoztatni az eredeti időpont előtt.
 
-(4) A (3) bekezdéstől eltérően a 4. számú melléklet szerinti szolgáltatások esetében, ha a beszerzés értéke eléri vagy meghaladja a közösségi értékhatárt, az eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót tartalmazó hirdetmény megküldésére és közzétételére a 98. §-t kell alkalmazni, azzal, hogy az eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót tartalmazó hirdetményben [98. § (3) bekezdés] az ajánlatkérőnek nyilatkoznia kell, hogy egyetért-e a hirdetmény közzétételével; ha nem ért egyet, a hirdetmény nem kerül közzétételre és a 246. § (5) bekezdése szerinti díjat nem kell utána befizetni. Ez a nyilatkozat azonban nem érinti a 47. § (1) bekezdése szerinti közzétételt a Közbeszerzési Értesítőben.
+(4) Az (5) bekezdéstől eltérően a 4. számú melléklet szerinti szolgáltatások esetében, ha a beszerzés értéke eléri vagy meghaladja a közösségi értékhatárt, az eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót tartalmazó hirdetmény megküldésére és közzétételére a 98. §-t kell alkalmazni, azzal, hogy az eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót tartalmazó hirdetményben [98. § (3) bekezdés] az ajánlatkérőnek nyilatkoznia kell, hogy egyetért-e a hirdetmény közzétételével; ha nem ért egyet, a hirdetmény nem kerül közzétételre és a 246. § (5) bekezdése szerinti díjat nem kell utána befizetni. Ez a nyilatkozat azonban nem érinti a 47. § (1) bekezdése szerinti közzétételt a Közbeszerzési Értesítőben.
 
 (5) Az ajánlatkérőnek az eljárás eredményéről vagy eredménytelenségéről szóló tájékoztatót külön jogszabályban meghatározott minta szerinti hirdetmény útján kell közzétennie, mely hirdetményt a Közbeszerzési Értesítőben történő közzétételre legkésőbb az eljárás eredményéről szóló összegezés ajánlattevőknek történt megküldésétől számított öt munkanapon belül kell feladni.
 

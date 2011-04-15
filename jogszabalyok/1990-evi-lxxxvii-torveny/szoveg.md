@@ -41,7 +41,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 (4)
 
-(5) E törvény Melléklete II. Legmagasabb ár pontjának „B) Szolgáltatások” fejezetében található „40.30.90.0 Távhőszolgáltatás csatlakozási díját és lakossági távhőszolgáltatás díját” a települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselőtestülete külön törvényben meghatározottak szerint rendeletben állapítja meg.
+(5) E törvény melléklete „I. Legmagasabb ár” pontjának „B) Szolgáltatások” alpontjában 40.30.90.0 SZTJ szám alatt szereplő „Távhőszolgáltatás csatlakozási díját” a települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete külön törvényben meghatározottak szerint rendeletben állapítja meg.
 
 8. § (1) A legmagasabb árat — a (2) bekezdésben szabályozott kivétellel — úgy kell megállapítani, hogy a hatékonyan működő vállalkozó ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is.
 
@@ -144,5 +144,5 @@ B) Szolgáltatások
 | 18111−1−2 | Az önkormányzati tulajdonú víziközmű által biztosított szennyvízelvezetés, szennyvíztisztítás és -kezelés díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
 | 05511 | Az állami tulajdonú víziközműből szolgáltatott ivóvíz díja | vízgazdálkodásért felelős miniszter |
 | 18111−1−2 | Az állami tulajdonú víziközmű által biztosított szennyvízelvezetés, szennyvíztisztítás és -kezelés díja | vízgazdálkodásért felelős miniszter |
-| 40.30.90.0 | Távhőszolgáltatás csatlakozási díja és lakossági távhőszolgáltatás díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
+| 40.30.90.0-ból | Távhőszolgáltatás csatlakozási díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
 | SZJ’03 72.30.21 | A céginformációs szolgálat által biztosított céginformáció elektronikus adattovábbításának ára | igazságügyért felelős miniszter és az államháztartásért felelős miniszter |

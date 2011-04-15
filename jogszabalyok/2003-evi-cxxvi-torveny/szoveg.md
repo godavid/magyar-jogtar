@@ -422,7 +422,7 @@ keletkeztet ellenőrzéssel lezárt időszakot.
 - n) a kőolaj, kőolajtermék és földgáz biztonsági készletezésével összefüggő feladatokat ellátó szervezetet e feladatainak ellátása céljából,
 - o) a fizetési mérleg összeállítása céljából a Magyar Nemzeti Bankot,
 - p) az e célra nyilvántartásba vett közös jogkezelést végző szervezeteket, a szerzői jogi törvényben meghatározott igény érvényesítésével összefüggő feladatok ellátása céljából,
-- q)
+- q) a Magyar Energia Hivatalt a nála engedélyesként nyilvántartott gazdálkodók adatairól, hatósági feladatai ellátása érdekében.
 - r) megkeresésre a hagyatéki eljárásban eljáró közjegyzőt a közjegyzői hatáskörbe tartozó eljárás során és annak céljára,
 - s) vámpolitikai, kereskedelempolitikai elemzési célokból összesített adatokról a kereskedelmért felelős minisztert,
 - t) dömping- és szubvencióellenes, piacvédelmi elemzési célokból a kereskedelmért felelős minisztert,
