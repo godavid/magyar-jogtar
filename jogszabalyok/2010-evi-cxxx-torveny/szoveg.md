@@ -268,6 +268,8 @@ a feladatkörébe tartozó jogszabályi rendelkezések hatályon kívül helyez�
 
 (2) Törvény kivételével a jogszabály megjelölése annak kihirdetése során magában foglalja a jogszabály megalkotójának megjelölését, a sorszámát, a kihirdetésének napját, a jogszabály elnevezését és címét.
 
+(3) Az Országgyűlés által a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 19. § (3) bekezdés a) pontja alapján elfogadott alaptörvény és az alaptörvényhez kapcsolódó átmeneti rendelkezések kihirdetés során történő megjelölése a címet és a kihirdetés napját foglalja magában.
+
 #### 14. Helyesbítés
 
 28. § (1) Ha a jogszabály Magyar Közlönyben megjelent szövege eltér a jogszabály aláírt szövegétől, a jogszabály aláírója – törvény esetén a köztársasági elnök vagy az Országgyűlés elnöke – a jogszabály hatálybalépését megelőzően, de legkésőbb a kihirdetést követő hatodik munkanapig kezdeményezi az eltérés helyesbítését (a továbbiakban: helyesbítés).
@@ -334,7 +336,29 @@ minősül.
 
 #### 19. Módosító rendelkezések
 
-#### 35–46. §
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
+
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
 
 #### 20. Hatályon kívül helyező rendelkezések
 
@@ -344,4 +368,12 @@ minősül.
 
 (2)
 
-#### 49–53. §
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
