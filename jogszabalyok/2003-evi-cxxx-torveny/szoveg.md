@@ -450,7 +450,7 @@ napon belül kell meghozni.
 
 (6) Az ügyész vagy a közös nyomozócsoport magyar vezetője haladéktalanul értesíti a tagállami igazságügyi vagy nyomozó hatóságot, ha a tagállam igazságügyi vagy nyomozó hatóságának tagja a magyar jog szerint büntetendő cselekményt követett el.
 
-59. § (1) Az Eurojust, illetve annak nemzeti képviselője, valamint az Európai Rendőrségi Hivatal (a továbbiakban: EUROPOL) által kezdeményezett közös nyomozócsoportra, a tagok jogaira és kötelezettségeire e törvényt kell értelemszerűen alkalmazni. Az EUROPOL tisztviselője e törvény szerint vehet részt a közös nyomozócsoportban.
+59. § (1) Az Eurojust, illetve annak nemzeti képviselője, valamint az Európai Rendőrségi Hivatal (a továbbiakban: Europol) által kezdeményezett közös nyomozócsoportra, a tagok jogaira és kötelezettségeire e törvényt kell értelemszerűen alkalmazni. Az Europol tisztviselője e törvény szerint vehet részt a közös nyomozócsoportban, de feladatának végrehajtása során nem alkalmazhat a büntetőeljárásról szóló törvényben meghatározott kényszerintézkedést, illetőleg a rendőrségről szóló törvényben meghatározott kényszerítő eszközt.
 
 (2) Az Európai Unió tagállamaival, illetve az EUROPOL-lal együttműködési megállapodást kötött külföldi hatósággal létrehozott, a Magyar Köztársaság területén működő közös nyomozócsoport kezdeményezheti a Nemzetközi Bűnügyi Együttműködési Központnál, hogy a számára engedélyezett körben adatot vagy más technikai tanácsadást kérjen az EUROPOL-tól.
 
@@ -882,6 +882,86 @@ tartalmaz rendelkezést, és a b) pont esetében a természetes vagy a jogi szem
 - a) különleges intervenciós egység: az Európai Unió tagállamának olyan bűnüldöző egysége, amelynek szakterülete a válsághelyzetek kezelése,
 - b) válsághelyzet: bármely olyan helyzet, amikor az Európai Unió tagállamának illetékes hatósága joggal feltételezi, hogy egy bűncselekmény súlyos, közvetlen fizikai fenyegetést jelent az érintett tagállamban tartózkodó személyekre, az ott található vagyontárgyakra, infrastruktúrára vagy intézményekre, ideértve különösen a büntető törvénykönyvben meghatározott terrorcselekményt.
 
+### VI/B. Fejezet — AZ EURÓPAI RENDŐRSÉGI HIVATAL
+
+### 1. CÍM — ÉRTELMEZŐ RENDELKEZÉSEK
+
+75/F. § E fejezet alkalmazásában
+
+- 1. hatáskörrel rendelkező hatóság: a tagállamok mindazon állami szervei, amelyek a nemzeti jog szerint a bűncselekmények megelőzésére, felderítésére és üldözésére hatáskörrel rendelkeznek,
+- 2. nemzeti egység: az adott tagállam által az Europollal való kapcsolattartásra kijelölt rendvédelmi szerv vagy az adott tagállam valamely rendvédelmi szervének az Europollal való kapcsolattartásra kijelölt szervezeti egysége.
+
+### 2. CÍM — AZ EURÓPAI RENDŐRSÉGI HIVATAL JOGÁLLÁSA ÉS RENDELTETÉSE
+
+75/G. § Az Európai Rendőrségi Hivatal (a továbbiakban: Europol) jogi személy.
+
+75/H. § Az Europol segítséget nyújt a tagállamok nyomozó hatóságai számára a szervezett bűnözés, a terrorizmus, valamint a 9. számú mellékletben meghatározott, több tagállamot érintő bűncselekmények felderítésében és nyomozásában, amennyiben e bűncselekmények jelentősége és következményei miatt a tagállamok közös fellépése szükséges.
+
+### 3. CÍM — AZ EUROPOLLAL TÖRTÉNŐ KAPCSOLATTARTÁSSAL ÉS INFORMÁCIÓCSERÉVEL ÖSSZEFÜGGŐ FELADATOKAT ELLÁTÓ SZERV ÉS A MAGYAR KÖZTÁRSASÁG HATÁSKÖRREL RENDELKEZŐ HATÓSÁGA
+
+75/I. § (1) A Magyar Köztársaságban az Europollal történő kapcsolattartással és információcserével összefüggő feladatokat a NEBEK látja el.
+
+(2) A Magyar Köztársaság hatáskörrel rendelkező hatósága a büntetőeljárásról szóló törvényben meghatározott nyomozó hatóság, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, továbbá a szervezett bűnözés elleni koordinációt végző szerv (a továbbiakban: a Magyar Köztársaság hatáskörrel rendelkező hatósága).
+
+(3) A Magyar Köztársaság hatáskörrel rendelkező hatósága közvetlenül is tarthat fenn kapcsolatot az Europollal. A Magyar Köztársaság hatáskörrel rendelkező hatóságának a vezetője jelöli ki az általa vezetett szervnél az Europollal történő közvetlen kapcsolattartásra feljogosított személyt és e személyről – neve, beosztása, szolgálati helye és elérhetősége megadásával – tájékoztatja a NEBEK-et.
+
+(4) A NEBEK vezetője gondoskodik a Magyar Köztársaság hatáskörrel rendelkező hatósága és az Europol közötti közvetlen kapcsolattartás feltételeinek és módjának a kidolgozásáról, továbbá a Magyar Köztársaság hatáskörrel rendelkező hatósága, valamint az annál közvetlen kapcsolattartásra feljogosított személy számára hozzáférhetővé tételéről.
+
+(5) A NEBEK vezetője szakmai felügyeletet gyakorol az Europol és a NEBEK, továbbá a Magyar Köztársaság hatáskörrel rendelkező hatóságának közvetlen kapcsolattartásra feljogosított tagjai közötti információcsere, a nyílt, valamint a minősített adatok átadása felett.
+
+(6) A Magyar Köztársaság hatáskörrel rendelkező hatósága az Europoltól közvetlenül érkező minden adatot átad a NEBEK-nek.
+
+(7) A Magyar Köztársaság hatáskörrel rendelkező hatóságának közvetlen kapcsolattartásra feljogosított tagja tájékoztatja a NEBEK-et az Europol információk, nyílt vagy minősített adatok átadására vonatkozó megkereséséről, illetve a hatáskörrel rendelkező hatóság által a megkeresésre adandó válaszról. A tájékoztatást követő huszonnégy órán belül a NEBEK a megkeresés teljesítését megtiltja, ha annak teljesítése jogszabályba ütközik vagy a megkeresés megtagadásának (11) bekezdés szerinti feltételei fennállnak. A megkeresés teljesíthetőségének akadályairól, illetve a megkeresés teljesítésének (11) bekezdés szerinti megtagadásáról a NEBEK haladéktalanul értesíti az Europolt.
+
+(8) A NEBEK a feladatai ellátása érdekében az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló törvényben meghatározottak szerint jogosult a személyes adat és a bűnüldözési adat – ideértve a titkos információgyűjtéssel érintett adatot és információt is – kezelésére, átvételére és továbbítására. Ezen adatokat a NEBEK jogosult – közvetlen hozzáféréssel is – térítés nélkül átvenni az ilyen adatot tartalmazó adatállományból. Az adatátvételi igényt a megkeresett adatkezelő haladéktalanul köteles a leggyorsabb adattovábbítási úton teljesíteni.
+
+(9) A (8) bekezdésben meghatározottakon kívül a NEBEK a feladatai ellátásához szükséges információk beszerzése érdekében megkeresi a Magyar Köztársaság feladatánál fogva érintett hatáskörrel rendelkező hatóságát. A Magyar Köztársaság hatáskörrel rendelkező hatósága haladéktalanul átadja a megkeresésben megjelölt adatokat.
+
+(10) A NEBEK a (8)–(9) bekezdésben foglalt feladatait a nemzetbiztonsági szolgálatok vonatkozásában az adott nemzetbiztonsági szolgálattal kötött együttműködési megállapodásban meghatározottak szerint gyakorolja.
+
+(11) A NEBEK vezetője az Europol vagy más tagállam hatáskörrel rendelkező hatóságának információk, nyílt vagy minősített adatok átadására vonatkozó megkeresésének teljesítését megtagadhatja, amennyiben a válaszadás
+
+- a) veszélyeztetné a közrend vagy a közbiztonság megőrzését,
+- b) sértené a Magyar Köztársaság alapvető nemzetbiztonsági érdekét,
+- c) folyamatban lévő titkos információgyűjtés vagy nyomozás sikerét, természetes személyek életét, testi épségét, vagyonát veszélyeztetné, vagy
+- d) a nemzetbiztonsági szolgálatokra, avagy az azok által végzett műveleti tevékenységre vonatkozó információk kiszolgáltatását jelentené.
+
+### 4. CÍM — AZ EUROPOL ÁLTAL KEZDEMÉNYEZETT NYOMOZÁS
+
+75/J. § Az Europolnak nyomozás megindítására, lefolytatására vagy összehangolására irányuló megkeresésére a választ, valamint a nyomozás eredményéről az Europolnak nyújtott tájékoztatást a Magyar Köztársaság hatáskörrel rendelkező hatósága a NEBEK-en keresztül küldi meg.
+
+### 5. CÍM — ÖSSZEKÖTŐ TISZTVISELŐ
+
+75/K. § (1) A rendészetért felelős miniszter az általa felügyelt rendvédelmi szervek állományából legalább egy fő összekötő tisztviselőt küld az Europolhoz. Más miniszter az általa felügyelt rendvédelmi szerv állományából a rendészetért felelős miniszter egyetértésével küldhet összekötő tisztviselőt az Europolhoz.
+
+(2) Az összekötő tisztviselő az Europol nemzeti összekötő irodájában, a NEBEK vezetőjének utasításai szerint teljesít szolgálatot, a magyar jogszabályoknak és az Europol működésére vonatkozó rendelkezéseknek megfelelően.
+
+### 6. CÍM — INFORMÁCIÓFELDOLGOZÓ RENDSZEREK
+
+### Europol Információs Rendszer
+
+75/L. § Ha az Europol Információs Rendszerbe a NEBEK által bevitt adatok és az ilyen adatokhoz kapcsolódó, másik tagállam nemzeti egysége által bevitt kiegészítő adatok között nyilvánvaló ellentmondás van, akkor a NEBEK és a kiegészítő adatot bevivő nemzeti egység konzultálnak és megegyeznek egymással. Ugyanilyen módon kell eljárni akkor is, ha a NEBEK visz be az Europol Információs Rendszerbe a másik tagállam nemzeti egysége által bevitt adathoz kapcsolódó, ám azzal nyilvánvaló ellentmondásban lévő kiegészítő adatot.
+
+### Elemzési munkafájlok
+
+75/M. § A NEBEK az Europol kérésére vagy saját kezdeményezésére e törvény rendelkezései alapján továbbítja az Europolnak mindazon információkat, amelyekre az érintett elemzési munkafájlhoz szüksége van. A Magyar Köztársaság hatáskörrel rendelkező hatóságának közvetlen kapcsolattartásra feljogosított tagja a kért adatokat a 75/I. § (3) bekezdésével összhangban közvetlenül is eljuttatja az elemzési munkafájlokba.
+
+### 7. CÍM — AZ EGYÉN HOZZÁFÉRÉSI JOGA
+
+75/N. § (1) Bármely természetes személy – ha élni kíván azzal a jogával, hogy megismerheti, hogy az Europol kezel-e vele kapcsolatos személyes adatokat – a kérelmét a NEBEK vezetőjéhez is benyújthatja.
+
+(2) A NEBEK vezetője a kérelmet az Europol munkanyelvére lefordítva, legkésőbb a kérelem kézhezvételétől számított harminc napon belül megküldi az Europolnak. A NEBEK vezetője harminc napon belül gondoskodik az Europol válaszának magyarra fordításáról és a kérelmezőnek történő kézbesítéséről, ha az Europol a kérelemre adott választ a NEBEK-en keresztül továbbítja.
+
+### 8. CÍM — NEMZETI ELLENŐRZŐ SZERV
+
+75/O. § A NEBEK e törvényben meghatározott adatkezelési tevékenységét az adatvédelmi biztos ellenőrzi.
+
+### 9. CÍM — AZ EUROPOLNAK A MAGYAR KÖZTÁRSASÁG TERÜLETÉN FELADATOT VÉGREHAJTÓ TISZTVISELŐJÉRE VONATKOZÓ RENDELKEZÉSEK
+
+75/P. § (1) Az Europolnak a Magyar Köztársaság területén működő közös nyomozócsoportban résztvevő tisztviselője a feladatának végrehajtása során a Magyar Köztársaság területén okozott kárért a magyar jog szerint felel. Az ilyen kárt a közös nyomozócsoportban résztvevő nyomozó hatóság, ha a közös nyomozócsoportban több nyomozó hatóság vesz részt, a rendőrség téríti meg a károsultnak, vagy a károsult részéről arra jogosultnak. Az Europol teljes mértékben megtéríti azt az összeget, amelyet a nyomozó hatóság az e bekezdésben említett kár miatt a károsultnak, vagy a károsult részéről arra jogosultnak kifizettek.
+
+(2) Az Europolnak a Magyar Köztársaság területén működő közös nyomozócsoportban résztvevő tisztviselőjének szolgálati viszonyára, különös tekintettel fegyelmi felelősségére vonatkozóan az eredeti szolgálati helye szerinti tagállam jogát kell alkalmazni.
+
 76. § A Büntető Törvénykönyvről szóló 1978. évi IV. törvény hatálybalépéséről és végrehajtásáról szóló 1979. évi 5. törvényerejű rendelet 25. §-a helyébe a következő rendelkezés lép:
 
 25. § ,,(1) A Btk. 307–308. §-ainak alkalmazása szempontjából bélyeg:
@@ -1069,7 +1149,8 @@ h) az Európai Unió Tanácsának az EUROPOL részéről a tagállamok által fe
 - k) a Tanács 2002/90/EK irányelve (2002. november 28.) a jogellenes be- és átutazáshoz, valamint a jogellenes tartózkodáshoz történő segítségnyújtás meghatározásáról;
 - l) a Tanács 2002/187/IB határozata (2002. február 28.) a bűnözés súlyos formái elleni fokozott küzdelem céljából az Eurojust létrehozásáról;
 - m) Tanács 2007/845/IB határozata (2007. december 6.) a tagállamok vagyon-visszaszerzési hivatalai közötti, a bűncselekményből származó jövedelmek és a bűncselekményekhez kapcsolódó egyéb tulajdon felkutatása és azonosítása terén való együttműködésről;
-- n) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 75/A–75/E. §-aival.
+- n) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat e törvény 75/A–75/E. §-aival;
+- n) az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat.
 
 ### 1. számú melléklet a 2003. évi CXXX. törvényhez
 
@@ -2018,3 +2099,35 @@ Ez a formanyomtatvány az eljárás folyamán többször használható (példáu
 | ⬜ D – A megkeresett hatóság a kérelem végrehajtásának elutasítása mellett dönt, mivel a kérelem a következő, a megkeresett állam jogszabályai szerint egy év vagy annál rövidebb időtartamú szabadságvesztéssel büntethető bűncselekményre vonatkozik (a bűncselekmény jellegének és jogi besorolásának megadása): |  |  |
 | ⬜ E – Az információ vagy bűnüldözési operatív információ nem áll rendelkezésre |  |  |
 | ⬜ F – A kérelmezett információt vagy bűnüldözési operatív információt más tagállam vagy harmadik állam bocsátotta rendelkezésre, arra a specialitás elve vonatkozik, és az érintett állam nem járult hozzá annak átadásához. |  |  |
+
+### 9. számú melléklet a 2003. évi CXXX. törvényhez
+
+Az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló, 2009. április 9-i 2009/371/IB tanácsi határozat mellékletében megjelölt bűncselekményfajták megfeleltetése a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (Btk.) alapján
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1 | Az Európai Rendőrségi Hivatal (Europol) létrehozásáról szóló 2009/371/IB Tanács határozatának mellékletében megjelölt bűncselekményfajták | Az egyes bűncselekményfajtákhoz tartozó Btk. tényállások megnevezése | Az egyes bűncselekményfajtákhoz tartozó Btk. tényállások törvényhelye |
+| 2 | szándékos emberölés, súlyos testi sértés | népirtás bűntette emberölés bűntette erős felindulásban elkövetett emberölés bűntette öngyilkosságban közreműködés bűntette magzatelhajtás bűntette testi sértés vétsége és bűntette | 155. § 166. § (1)–(3) bekezdés 167. § 168. § 169. § (2) bekezdés c) pont 170. § (2)–(6) bekezdés |
+| 3 | emberi szervek és szövetek tiltott kereskedelme | emberi test tiltott felhasználása bűntette emberkereskedelem bűntette | 173/I. § 175/B. § (2) bekezdés e) pont, (3) bekezdés b) pont, (4) bekezdés, (5) bekezdés a) pont |
+| 4 | emberrablás, személyi szabadság megsértése, megfosztás és túszejtés | kényszerítés bűntette személyi szabadság megsértése bűntette emberrablás bűntette jogellenes fogvatartás bűntette | 174. § 175. § 175/A. § 228. § |
+| 5 | rasszizmus és idegengyűlölet | apartheid bűntette a lelkiismereti és vallásszabadság megsértése bűntette közösség tagja elleni erőszak bűntette közösség elleni izgatás bűntette a nemzeti szocialista és kommunista rendszerek bűneinek nyilvános tagadása bűntette | 157. § 174/A. § 174/B. § 269. § 269/C. § |
+| 6 | szervezett rablás | bűnszövetségben vagy csoportosan elkövetett rablás bűntette kifosztás bűntette jármű önkényes elvétele bűntette egyes esetei | 321. § (3) bekezdés c) pont és (4) bekezdés c) pont 322. § (2) bekezdés b) pont és (3) bekezdés b) pont 327. § (2) bekezdés b) pont és (3) bekezdés |
+| 7 | kulturális javak – ideértve a régiségeket és műtárgyakat is – tiltott kereskedelme | visszaélés kulturális javakkal bűntette orgazdaság bűntett egyes esetei | 216/B. § 326. § (3) bekezdés b)–c) pont |
+| 8 | csalással kapcsolatos bűncselekmények | jogosulatlan gazdasági előny megszerzése bűntette csődbűncselekmény vétsége és bűntette rossz minőségű termék forgalomba hozatala bűntette minőség hamis tanúsítása bűntette a fogyasztó megtévesztése vétsége hitelezési csalás bűntette gazdálkodó szervezet vezető állású személyének visszaélése vétsége saját tőke csorbítása bűntette bennfentes kereskedelem bűntette tőkebefektetési csalás bűntette piramisjáték szerezése bűntette adócsalás vétsége és bűntette munkáltatással összefüggésben elkövetett adócsalás vétsége és bűntette csempészet vétsége és bűntette az Európai Közösségek pénzügyi érdekeinek megsértése vétsége és bűntette sikkasztás vétsége és bűntette csalás vétsége és bűntette hűtlen kezelés vétsége és bűntette | 288. § 290. § (1)-(4) bekezdés 292-293. § 295. § 296/A. § 297/A. § 298/A. § 298/B. § 299/A. § 299/B. § 299/C. § 310. § (1)-(5) bekezdés 310/A. § (1)-(5) bekezdés 312. § (1)-(5) bekezdés 314. § 317. § 318. § 319. § |
+| 9 | zsarolás és védelmi pénz szedése | önbíráskodás bűntette zsarolás bűntette | 273. § 323. § |
+| 10 | iparjogvédelmi jog megsértése és termékhamisítás | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása vétsége és bűntette jogkezelési adat meghamisítása vétsége iparjogvédelmi jogok megsértése vétsége és bűntette árú hamis megjelölése bűntette | 329/A. § 329/B. § (1)–(3) bekezdés 329/C. § 329/D. § 296. § |
+| 11 | hivatalos okmányok hamisítása és hamisított okirattal való kereskedés | közokirat-hamisítás vétsége és bűntette hivatalos személy által elkövetett közokirat-hamisítás bűntette visszaélés okirattal vétsége egyedi azonosító jel meghamisítása bűntette jövedékkel visszaélés elősegítésének vétsége és bűntette egyes esetei (előállít, forgalomba hoz) | 274. § 275. § 277. § (1) bekezdés 277/A. § 311/B. § |
+| 12 | pénz és más fizetőeszközök hamisítása | pénzhamisítás bűntette pénzhamisítás elősegítése vétsége hamis pénz kiadása vétsége és bűntette bélyeghamisítás bűntette készpénz-helyettesítő fizetési eszköz hamisítása vétsége készpénz-helyettesítő fizetési eszköz hamisítás elősegítése vétsége | 304. § 304/A. § 306. § 307–308. § 313/B. § 313/D–313/E. § |
+| 13 | számítógépes bűnözés | számítástechnikai rendszer és adatok elleni bűncselekmény vétsége és bűntette számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása vétsége | 300/C. § 300/E. § (1) és (2) bekezdés |
+| 14 | korrupció | vesztegetés vétsége és bűntette vesztegetés feljelentésének elmulasztása bűntette befolyással üzérkedés bűntette közérdekű bejelentő üldözése vétsége vesztegetés nemzetközi kapcsolatban vétsége és bűntette befolyással üzérkedés nemzetközi kapcsolatban bűntette vesztegetés feljelentésének elmulasztása nemzetközi kapcsolatban bűntette | 250–255/A. § 255/B. § 256. § 257. § 258/B–258/D. § 258/E. § 258/F. § |
+| 15 | fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme | nemzetközi gazdasági tilalom megszegése bűntette (lőfegyver, lőszer, robbanóanyag, robbantószer, ezek felhasználására szolgáló készülék, egyéb katonai célú felhasználásra szánt termék) visszaélés robbanóanyaggal vagy robbantószerrel bűntette visszaélés lőfegyverrel és lőszerrel bűntette visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel bűntette visszaélés nemzetközi szerződés által tiltott fegyverrel vétsége és bűntette | 261/A. § (3) bekezdés a) pont 263. § 263/A. § 263/B. § (1)–(4) bekezdés 264/C. § (1)–(4) és (7) bekezdés |
+| 16 | veszélyeztetett állatfajok tiltott kereskedelme | természetkárosítás bűntette | 281. § (1)–(4) bekezdés |
+| 17 | veszélyeztetett növényfajok és fajták tiltott kereskedelme | természetkárosítás bűntette | 281. § (1)–(4) bekezdés |
+| 18 | környezettel kapcsolatos bűncselekmények | állatkínzás vétsége és bűntette környezetkárosítás vétsége és bűntette természetkárosítás bűntette a hulladékgazdálkodás rendjének megsértése vétsége és bűntette | 266/B. § 280. § (1)–(3) bekezdés 281. § (1)–(4) bekezdés 281/A. § (1)–(3) bekezdés |
+| 19 | hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme |  |  |
+| 20 | terrorizmus | terrorcselekmény bűntette légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette | 261. § [kivéve a (3), a (6) és a (9) bekezdést] 262. § (1)–(3) bekezdés |
+| 21 | emberkereskedelem, embercsempészet | emberkereskedelem bűntette beutazási és tartózkodási tilalom megsértése vétsége jogellenes belföldi tartózkodás elősegítése vétsége embercsempészés bűntette | 175/B. § 214. § 214/A. § 218. § (1)–(4) bekezdés |
+| 22 | tiltott kábítószer-kereskedelem | visszaélés kábítószerrel bűntette | 282. § (2) bekezdés a) és b) pont, 282. § (3) bekezdés a) és b) pontja (amennyiben a cselekményt jelentős mennyiségű kábítószer termesztése, előállítása céljából követik el) 282/A. § (1)–(5) bekezdés 282/B. § (2) bekezdés a)–c) pontok 282/B. § (3) bekezdés a)–b) pontok, 282/B. § (4) bekezdés (amennyiben a bűncselekményt jelentős mennyiségű kábítószer előállítása, termesztése, forgalomba hozatala vagy kereskedelme céljából követik el) 282/B. § (6) bekezdés 282/C. § (2)–(4) bekezdés |
+| 23 | nukleáris és radioaktív anyagokkal kapcsolatos bűncselekmények | visszaélés radioaktív anyaggal vétsége és bűntette visszaélés nukleáris létesítmény üzemeltetésével bűntette visszaélés atomenergia alkalmazásával bűntette | 264. § 264/A. § 264/B. § |
+| 24 | pénzmosási tevékenységek | pénzmosás vétsége és bűntette pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása vétsége | 303–303/A. § 303/B. § |
+| 25 | gépjárművekkel kapcsolatos bűncselekmények | a gépjárműre vagy gépjárművekre elkövetett a) lopás vétsége és bűntette b) sikkasztás vétsége és bűntette c) csalás vétsége és bűntette d) orgazdaság vétsége és bűntette e) hitelsértés vétsége f) jármű önkényes elvétele bűntette | 316. § 317. § 318. § 326. § 330. § 327. § |
