@@ -31,7 +31,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - a) az 1. számú mellékletben felsorolt pénzügyi intézményeknek a Magyar Köztársaság területén folytatott tevékenységére;
 - b) a betétnek nem minősülő, visszafizetendő pénzeszközöknek a Magyar Állam és a helyi önkormányzatok által a nyilvánosságtól történő – külön törvényben szabályozott – gyűjtésére;
 - c) a pénzletétkezelésre, ha annak üzletszerű végzéséről külön jogszabály rendelkezik;
-- d) az (5) bekezdés, 13. § (1)–(2) bekezdés, 13/C. §, 13/D. § (1) bekezdés, 45. §, 67. § (5)–(9) bekezdés, 87/K–87/L. §, 137. §, 145. §, 153. §, 157–160. §, 168/B. §, 174–175. § és 2. számú melléklet III. Fejezet 25. pontjának f) alpontja kivételével a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási tevékenységre azzal, hogy ahol e rendelkezések pénzforgalmi intézményt említenek, azon a Posta Elszámoló Központot működtető intézményt is érteni kell;
+- d) az (5) bekezdés, 13. § (1)–(2) bekezdés, 13/C. §, 13/D. § (1) bekezdés, 18/A. §, 45. §, 67. § (5)–(9) bekezdés, 87/K–L. §, 87/P. §, 137. §, 145. §, 153. §, 157–160. §, 168/B. §, 218. § és 2. számú melléklet III. Fejezet 25. pontjának f) alpontja kivételével a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenységre azzal, hogy ahol e rendelkezések pénzforgalmi intézményt, elektronikuspénz-kibocsátó intézményt említenek, azon a Posta Elszámoló Központot működtető intézményt is érteni kell;
 - e)
 - f) a nem pénzügyi intézmény által történő vámkezesség nyújtására, továbbá a vámigazgatási eljárásban a közvetett képviselő által a vámfizetési kötelezettség teljesítése érdekében végzett pénzügyi szolgáltatásra;
 - g)
@@ -51,7 +51,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 
 (3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése, valamint az engedélyek visszavonása, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
 
-(4) A 13. § (1) bekezdés, 13/C. §, 13/D. §, 153. §, 157–160. §, 168/B. § és 174–175. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon kívüli személyek és szervezetek számára végzett pénzforgalmi szolgáltatási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt említenek, azon a kincstárt is érteni kell.
+(4) A 13. § (1) bekezdés, 13/C. §, 13/D. §, 153. §, 157–160. §, 168/B. § és 218. § hatálya az államháztartásról szóló törvényben meghatározott kincstári körbe tartozókon kívüli személyek és szervezetek számára végzett pénzforgalmi szolgáltatási, elektronikuspénz-kibocsátási tevékenysége tekintetében a kincstárra is kiterjed azzal, hogy ahol e rendelkezések pénzforgalmi intézményt vagy elektronikus pénz kibocsátóját említenek, azon a kincstárt is érteni kell.
 
 (5) A 87/L. § hatálya a Posta Elszámoló Központot működtető intézményre azzal az eltéréssel terjed ki, hogy a készpénz-átutalási, a fizetési számlára történő készpénz-befizetési és a fizetési számláról postai úton történő készpénz-kifizetési tevékenységéhez kapcsolódóan a 87/L. § (3) bekezdése szerinti határidő egy munkanappal meghosszabbodhat.
 
@@ -63,11 +63,11 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - b) hitel és pénzkölcsön nyújtása;
 - c) pénzügyi lízing;
 - d) pénzforgalmi szolgáltatások nyújtása;
-- e) elektronikus pénz kibocsátása, valamint olyan papír alapú készpénz-helyettesítő fizetési eszköz (például papíralapú utazási csekk, váltó) kibocsátása, illetőleg az ezzel kapcsolatos szolgáltatás nyújtása, amely nem minősül pénzforgalmi szolgáltatásnak;
-- f) kezesség és bankgarancia vállalása, valamint egyéb bankári kötelezettség vállalása;
-- g) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
-- h) pénzügyi szolgáltatás közvetítése;
-- i)
+- e) elektronikus pénz kibocsátása;
+- f) olyan papír alapú készpénz-helyettesítő fizetési eszköz (például papír alapú utazási csekk, váltó) kibocsátása, illetve az ezzel kapcsolatos szolgáltatás nyújtása, amely nem minősül pénzforgalmi szolgáltatásnak;
+- g) kezesség és bankgarancia vállalása, valamint egyéb bankári kötelezettség vállalása;
+- h) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
+- i) pénzügyi szolgáltatás közvetítése;
 - j) letéti szolgáltatás, széfszolgáltatás;
 - k) hitel referencia szolgáltatás;
 - l)
@@ -85,7 +85,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 
 (4) Ha törvény másként nem rendelkezik, kizárólag a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) az e törvény alapján kiadott engedélyével végezhető az (1) bekezdésben meghatározott pénzügyi szolgáltatás, valamint a (2) bekezdés a) és d) pontjában meghatározott kiegészítő pénzügyi szolgáltatás.
 
-(5) Az (1) bekezdés d) és e) pontjában meghatározott pénzügyi szolgáltatási tevékenység engedélyezési eljárásában – a működési terv vonatkozásában és a pénzforgalmi szolgáltatás lebonyolításával kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
+(5) Az (1) bekezdés d)–f) pontjaiban meghatározott pénzügyi szolgáltatási tevékenység engedélyezési eljárásában – a működési terv vonatkozásában és a pénzforgalmi szolgáltatás lebonyolításával kapcsolatos kérdésekben – az MNB szakhatóságként vesz részt.
 
 (6) A (2) bekezdés b) és c) pontjában meghatározott tevékenységet az MNB engedélyezi, ellenőrzi, illetve az ilyen engedélyt az MNB vonja vissza.
 
@@ -100,6 +100,11 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 (11) A kockázati tőkealap a tőkepiacról szóló 2001. évi CXX. tövényben (a továbbiakban: Tpt.) meghatározott mértékben az ott felsorolt személyi kör részére pénzkölcsönt nyújthat.
 
 (12) Pénzügyi intézménynek nem minősülő vállalkozás csoportfinanszírozást a Felügyelet engedélye nélkül is végezhet.
+
+(13) A 3. § (1) bekezdésének e) pontja szerinti pénzügyi szolgáltatási tevékenység végzésére
+
+- a) a hitelintézet, az elektronikuspénz-kibocsátó intézmény és a Posta Elszámoló Központot működtető intézmény az elektronikus pénz kibocsátására vonatkozó engedély birtokában,
+- b) a nem a monetáris politikai eszközeinek alkalmazása során eljáró MNB és a kincstár törvény erejénél fogva jogosult (a továbbiakban együttesen: elektronikus pénz kibocsátója).
 
 3/A. § (1) Külföldi vállalkozás [a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) 2. § a) pont] pénzügyi szolgáltatási tevékenységet vagy kiegészítő pénzügyi szolgáltatási tevékenységet Magyarországon – a (3) és (4) bekezdésben foglalt eltéréssel – kizárólag fióktelepe útján végezhet.
 
@@ -126,7 +131,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - e) részvénykönyvvezetést,
 - f) az elektronikus aláírásról szóló 2001. évi XXXV. törvény 6. §-ának (1) bekezdésében foglalt szolgáltatást,
 - g) a külön jogszabály alapján létrehozott Diákhitel Központ hitelezési tevékenységének elősegítése érdekében végzett tevékenységet, valamint
-- h) megbízás alapján elektronikus pénzeszközön történő adattárolást,
+- h)
 - i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében tulajdonába került fedezet, illetőleg biztosíték hasznosítására irányuló tevékenységet,
 - j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet,
 - k) pénzügyi eszközre vonatkozó adat-, információértékesítést,
@@ -138,7 +143,7 @@ folytathat.
 
 ### A hitelintézet és szervezeti formái
 
-5. § (1) Hitelintézet az a pénzügyi intézmény, amely a 3. §-ban meghatározott pénzügyi szolgáltatások közül legalább betétet gyűjt, vagy más visszafizetendő pénzeszközt fogad el a nyilvánosságtól (ide nem értve a külön jogszabályban meghatározott nyilvános kötvénykibocsátást), valamint hitelt és pénzkölcsönt nyújt vagy elektronikus pénzt bocsát ki.
+5. § (1) Hitelintézet az a pénzügyi intézmény, amely a 3. §-ban meghatározott pénzügyi szolgáltatások közül legalább betétet gyűjt, vagy más visszafizetendő pénzeszközt fogad el a nyilvánosságtól (ide nem értve a külön jogszabályban meghatározott nyilvános kötvénykibocsátást), valamint hitelt és pénzkölcsönt nyújt.
 
 (2) Kizárólag hitelintézet jogosult
 
@@ -152,29 +157,29 @@ folytathat.
 
 (5) A szakosított hitelintézet a rá vonatkozó külön törvényi szabályozásnak megfelelően jogosult tevékenységének végzésére, azzal, hogy nem kaphat engedélyt a 3. § (1) bekezdésében foglalt tevékenységek teljes körének végzésére.
 
-(6) A szövetkezeti hitelintézet a 3. § (1) bekezdésének a)–h) és j) pontjában, illetve a 3. § (2) bekezdésének a) és d) pontjában meghatározott tevékenységet végezhet.
+(6) A szövetkezeti hitelintézet a 3. § (1) bekezdésének a)–j) pontjában, illetve a 3. § (2) bekezdésének a) és d) pontjában meghatározott tevékenységet végezhet.
 
 (7) A hitelszövetkezet a (6) bekezdésben meghatározott tevékenységeket – a pénzváltás kivételével – csak saját tagjai körében végezheti.
 
 (8)
 
-(9) Harmadik országbeli hitelintézet fióktelepe útján a 3. § (1) bekezdésének a)–h), j) és k) pontjában, illetve a 3. § (2) bekezdésében meghatározott tevékenységet végezhet, ha ezek végzésére a székhelye szerinti felügyeleti hatóságtól engedéllyel rendelkezik.
+(9) Harmadik országbeli hitelintézet fióktelepe útján a 3. § (1) bekezdésének a)–j) és k) pontjában, illetve a 3. § (2) bekezdésében meghatározott tevékenységet végezhet, ha ezek végzésére a székhelye szerinti felügyeleti hatóságtól engedéllyel rendelkezik.
 
 ### A pénzügyi vállalkozás
 
 6. § (1) Pénzügyi vállalkozás
 
-- a) az a pénzügyi intézmény, amely – a 3. § (1) bekezdés d) pontjában és az 5. § (2) bekezdésében meghatározott tevékenység kivételével –, egy vagy több pénzügyi szolgáltatást, illetve fizetési rendszer működtetését [3. § (2) bekezdés b) pontja] végez, illetve
+- a) az a pénzügyi intézmény, amely – a 3. § (1) bekezdés d) és e) pontjaiban, valamint az 5. § (2) bekezdésében meghatározott tevékenység kivételével –, egy vagy több pénzügyi szolgáltatást, illetve fizetési rendszer működtetését [3. § (2) bekezdés b) pontja] végzi, illetve
 - b) a pénzügyi holding társaság.
 
 (2) A 3. § (2) bekezdés d) pontjában meghatározott tevékenységet pénzügyi vállalkozás csak kizárólagos tevékenységként végezheti.
 
-(3) Külföldi pénzügyi vállalkozás fióktelepe útján a 3. § (1) bekezdésének b)–c), f)–h), j) és k) pontjában, illetve a 3. § (2) bekezdésében meghatározott tevékenységet végezhet, ha ezek végzésére a székhelye szerinti felügyeleti hatóságtól engedéllyel rendelkezik.
+(3) Külföldi pénzügyi vállalkozás fióktelepe útján a 3. § (1) bekezdésének b)–c), g)–i), j) és k) pontjában, illetve a 3. § (2) bekezdésében meghatározott tevékenységet végezhet, ha ezek végzésére a székhelye szerinti felügyeleti hatóságtól engedéllyel rendelkezik.
 
 (4) Az alapítványi formában működő pénzügyi vállalkozás gazdasági tevékenysége keretében kizárólag a 3. § (1) bekezdésének
 
-- a) f) pontjában meghatározott pénzügyi szolgáltatási tevékenységet, és
-- b) h) pontja szerinti pénzügyi szolgáltatás közvetítéséből ügynöki tevékenységet
+- a) g) pontjában meghatározott pénzügyi szolgáltatási tevékenységet, és
+- b) i) pontja szerinti pénzügyi szolgáltatás közvetítéséből ügynöki tevékenységet
 
 végezhet.
 
@@ -199,9 +204,30 @@ végezhet.
 
 (2) A pénzforgalmi intézmény hitelnyújtására a 199. §, a 201–211. § és a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény rendelkezései megfelelően alkalmazandóak.
 
+### Az elektronikuspénz-kibocsátó intézmény
+
+6/C. § (1) Az elektronikuspénz-kibocsátó intézmény az a vállalkozás, amely az e törvényben foglaltaknak megfelelően engedéllyel rendelkezik az elektronikuspénz-kibocsátási tevékenység [3. § (1) bekezdés e) pontja] végzésére.
+
+(2) Az elektronikuspénz-kibocsátó intézmény kizárólag a 6/D. §-ban foglalt korlátozással kaphat engedélyt hitel- és pénzkölcsönnyújtási tevékenységre.
+
+(3) Az elektronikuspénz-kibocsátó intézmény valamennyi pénzforgalmi szolgáltatás nyújtására kaphat engedélyt. Amennyiben az elektronikuspénz-kibocsátó intézmény pénzforgalmi szolgáltatást nyújt, úgy ezen tevékenysége vonatkozásában e törvény eltérő rendelkezése hiányában a pénzforgalmi intézményre és a pénzforgalmi szolgáltatás nyújtására vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+(4) Az elektronikuspénz-kibocsátó intézmény az általa végzett elektronikus pénz kibocsátásához vagy a (3) bekezdésben meghatározott tevékenységéhez kapcsolódóan jogosult az elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatás működtetésével összefüggő és egyéb, szorosan kapcsolódó kiegészítő szolgáltatások nyújtására, valamint engedélyt kaphat a fizetési rendszer működtetése tevékenység végzésére.
+
+(5) Az elektronikuspénz-kibocsátó intézmény – törvény eltérő rendelkezése hiányában – egyéb üzleti tevékenységet is végezhet azzal, hogy az (1)–(4) bekezdésben meghatározottakon kívül más pénzügyi, kiegészítő pénzügyi szolgáltatást nem végezhet.
+
+6/D. § (1) Az elektronikuspénz-kibocsátó intézmény az általa végzett – a 2. számú melléklet I. Fejezet 9. pont d), e) és g) alpontja szerinti – pénzforgalmi szolgáltatáshoz kapcsolódóan az ügyfele számára a következő feltételekkel nyújthat hitelt és pénzkölcsönt:
+
+- a) a nyújtása kizárólag az elektronikuspénz-kibocsátó intézmény saját pénzeszközeiből és kizárólag valamely fizetési művelet teljesítéséhez kapcsolódhat,
+- b) nem nyújtható az elektronikuspénz-kibocsátó intézmény által fizetési művelet teljesítése céljából átvett vagy tartott pénzeszközből,
+- c) a kölcsön futamideje legfeljebb tizenkét hónap, és
+- d) az elektronikuspénz-kibocsátó intézmény szavatoló tőkéje megfelel az e törvényben meghatározott követelményeknek.
+
+(2) Az elektronikuspénz-kibocsátó intézmény hitelnyújtására a 199. §, a 201–211. § és a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény rendelkezései megfelelően alkalmazandóak.
+
 ### Közvetítő
 
-6/C. § (1) Közvetítő az, aki az e törvényben foglaltaknak megfelelően
+6/E. § (1) Közvetítő az, aki az e törvényben foglaltaknak megfelelően
 
 - a) a pénzügyi szolgáltatás közvetítését
   - aa) kiemelt közvetítői tevékenységként egy pénzügyi intézmény – ideértve a pénzügyi intézmény csoportját is – vagy több pénzügyi intézmény egymással nem versengő pénzügyi szolgáltatása vonatkozásában (a továbbiakban: kiemelt közvetítő), vagy
@@ -212,15 +238,15 @@ végezhet.
   - bb) ügynöki tevékenységként több pénzügyi intézmény egymással versengő pénzügyi szolgáltatása vonatkozásában (a továbbiakban: többes ügynök), vagy
   - bc) alkuszi tevékenységként (a továbbiakban: alkusz) végez (a továbbiakban együtt független közvetítő).
 
-(2) Közvetítővel – ide nem értve a pénzügyi intézményt – pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni.
+(2) Közvetítővel – ide nem értve a pénzügyi intézményt és a biztosítót – pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni. Közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzügyi intézménnyel vagy más közvetítővel nem létesíthet.
 
 (3) A független közvetítő a pénzügyi szolgáltatás közvetítését kizárólag a Felügyelet e törvényben meghatározott engedélyével végezheti.
 
-(4) A közvetítő nem jogosult az ügyfél nevében a pénzügyi intézménytől, a pénzforgalmi intézménytől az ügyfelet megillető pénz átvételére.
+(4) A közvetítő nem jogosult az ügyfél nevében a pénzügyi intézménytől, a pénzforgalmi intézménytől és az elektronikuspénz-kibocsátó intézménytől az ügyfelet megillető pénz átvételére.
 
-(5) A közvetítő köteles az ügyfél által befizetett, a pénzügyi intézményt, pénzforgalmi intézményt megillető pénzösszegeket elkülönített számlán tartani. Ezek a pénzösszegek a közvetítő más hitelezői kielégítésére csőd-, illetve felszámolási eljárás esetén nem használhatók fel.
+(5) A közvetítő köteles az ügyfél által befizetett, a pénzügyi intézményt, pénzforgalmi intézményt és az elektronikuspénz-kibocsátó intézményt megillető pénzösszegeket elkülönített számlán tartani. Ezek a pénzösszegek a közvetítő más hitelezői kielégítésére végrehajtási és felszámolási eljárás esetén nem használhatók fel.
 
-(6) Az (5) bekezdés szerinti elkülönített számlának tekintendő az a letéti számla, amelyen a közvetítő kizárólag az ügyfelek által befizetett, a pénzügyi intézményt, pénzforgalmi intézményt megillető pénzösszegeket tarthatja.
+(6) Az (5) bekezdés szerinti elkülönített számlának tekintendő az a letéti számla, amelyen a közvetítő kizárólag az ügyfelek által befizetett, a pénzügyi intézményt, pénzforgalmi intézményt és az elektronikuspénz-kibocsátó intézményt megillető pénzösszegeket tarthatja.
 
 ### Értelmező rendelkezések
 
@@ -232,11 +258,11 @@ végezhet.
 
 ### Szervezeti szabályok
 
-8. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként, pénzforgalmi intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény fióktelepeként működhet.
+8. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként, pénzforgalmi intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény fióktelepeként, elektronikuspénz-kibocsátó intézmény részvénytársaságként, korlátolt felelősségű társaságként, szövetkezetként vagy az Európai Unió másik tagállamában székhellyel rendelkező elektronikuspénz-kibocsátó intézmény fióktelepeként működhet.
 
-(2) A részvénytársasági formában működő pénzügyi intézményre, pénzforgalmi intézményre és korlátolt felelősségű társaságként működő pénzforgalmi intézményre a gazdasági társaságokra vonatkozó törvényi rendelkezéseket, a szövetkezeti formában működő pénzügyi intézményre és pénzforgalmi intézményre a szövetkezetekre vonatkozó törvényi rendelkezéseket, az alapítványi formában működő pénzügyi vállalkozásra a Polgári Törvénykönyvről szóló törvényben (a továbbiakban: Ptk.) rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre és pénzforgalmi intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A részvénytársasági formában működő pénzügyi intézményre, pénzforgalmi intézményre, elektronikuspénz-kibocsátó intézményre és korlátolt felelősségű társaságként működő pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre a gazdasági társaságokra vonatkozó törvényi rendelkezéseket, a szövetkezeti formában működő pénzügyi intézményre, pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre a szövetkezetekre vonatkozó törvényi rendelkezéseket, az alapítványi formában működő pénzügyi vállalkozásra a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre, pénzforgalmi intézményre és elektronikuspénz-kibocsátó intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(3) A pénzügyi intézmény, a pénzforgalmi intézmény, amelynek székhelye a Magyar Köztársaság területén található, a főirodáját is a Magyar Köztársaság területén létesíti.
+(3) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény, amelynek székhelye a Magyar Köztársaság területén található, a főirodáját is a Magyar Köztársaság területén létesíti.
 
 (4) A pénzügyi szolgáltatás közvetítését – az (5) bekezdésben meghatározott eltéréssel – bármely jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó is végezheti.
 
@@ -268,7 +294,9 @@ végezhet.
 
 (11) Többes kiemelt közvetítőnek legalább ötvenmillió forint induló tőkével kell rendelkeznie.
 
-10. § (1) Pénzügyi intézmény és a pénzforgalmi intézmény alapításához az induló tőkét pénzben kell befizetni. Az induló tőkét kizárólag olyan hitelintézetnél lehet befizetni, illetve a működés megkezdéséig olyan hitelintézetnél vezetett számlán lehet tartani, amely nem vesz részt az alapításban, amelyben az alapítónak nincs tulajdona, illetve amely az alapítóban nem rendelkezik tulajdonnal. Hitelintézet induló tőkéje a működési engedély kiadásáig kizárólag az alapítás, illetőleg a működés e törvényben meghatározott feltételeinek megteremtése érdekében használható fel.
+(12) Az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási tevékenységéhez legalább százmillió forint induló tőkével kell rendelkeznie.
+
+10. § (1) Pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény alapításához az induló tőkét pénzben kell befizetni. Az induló tőkét kizárólag olyan hitelintézetnél lehet befizetni, illetve a működés megkezdéséig olyan hitelintézetnél vezetett számlán lehet tartani, amely nem vesz részt az alapításban, amelyben az alapítónak nincs tulajdona, illetve amely az alapítóban nem rendelkezik tulajdonnal. Hitelintézet induló tőkéje a működési engedély kiadásáig kizárólag az alapítás, illetőleg a működés e törvényben meghatározott feltételeinek megteremtése érdekében használható fel.
 
 (2) A részvénytársasági formában működő pénzügyi intézmény új részvények jegyzésével történő alaptőke-emelését, illetve a fióktelep formájában működő pénzügyi intézmény esetében a dotációs tőke emelését kizárólag pénzbeli hozzájárulással lehet végrehajtani. Ha a Magyar Állam hajt végre alaptőke-emelést új részvények jegyzésével, akkor az alaptőke emelését állampapír rendelkezésre bocsátásával is végre lehet hajtani olyan esetben, amikor egy hitelintézet fizetésképtelensége az ország vagy valamely nagyobb régió gazdasági érdekeit, vagy a bankrendszer megbízható működését súlyosan veszélyeztetné, és a fizetésképtelenség, illetve a felszámolás csak az állam beavatkozásával hárítható el.
 
@@ -343,24 +371,24 @@ végezhet.
 
 (13) Pénzügyi vállalkozás a Felügyelethez történő bejelentés nélkül szervezheti ki ügyviteli tevékenységét, ha azonban a kiszervezni kívánt ügyviteli tevékenység banktitkot is érint, akkor az (1)–(12) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
-13/B. § (1) A pénzforgalmi intézmény a pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó tevékenységét a Felügyelethez legalább harminc napon belül történő előzetes bejelentéssel kiszervezheti.
+13/B. § (1) A pénzforgalmi intézmény a pénzforgalmi szolgáltatás nyújtásának működtetéséhez, az elektronikuspénz-kibocsátó intézmény az elektronikus pénz kibocsátásának és a pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó tevékenységét kiszervezheti, amennyiben a kiszervezés megkezdését legalább harminc nappal megelőzően előzetesen bejelenti a Felügyeletnek.
 
-(2) A bejelentésnek tartalmaznia kell a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a pénzforgalmi intézmény belső ellenőrzése, könyvvizsgálója, az MNB és a Felügyelet helyszíni, illetve helyszínen kívüli ellenőrzéséhez.
+(2) A bejelentésnek tartalmaznia kell a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a pénzforgalmi intézmény, illetve az elektronikuspénz-kibocsátó intézmény belső ellenőrzése, könyvvizsgálója, az MNB és a Felügyelet helyszíni, illetve helyszínen kívüli ellenőrzéséhez.
 
-(3) A pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó kritikus feladatok kiszervezése
+(3) A pénzforgalmi szolgáltatás nyújtásának és az elektronikus pénz kibocsátásának működtetéséhez kapcsolódó kritikus feladatok kiszervezése
 
 - a) nem eredményezheti a vezető állású személy hatáskörének átadását,
-- b) nem eredményezhet változást az ügyfél és a pénzforgalmi intézmény közötti szerződéses viszonyban, valamint nem befolyásolhatja a pénzforgalmi intézmény ügyfél felé fennálló jogszabályi kötelezettségeinek teljesítését,
+- b) nem eredményezhet változást az ügyfél és a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény közötti szerződéses viszonyban, valamint nem befolyásolhatja a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény ügyfél felé fennálló jogszabályi és szerződéses kötelezettségeinek teljesítését,
 - c) nem eredményezhet változást a tevékenység végzésére jogosító engedély megszerzéséhez szükséges feltételek teljesítésében, valamint
-- d) nem szüntethet meg és nem módosíthat semmilyen más olyan feltételt, amelynek meglétéhez a pénzforgalmi intézményként történő működési engedély megadását kötötték.
+- d) nem szüntethet meg és nem módosíthat semmilyen más olyan feltételt, amelynek meglétéhez a pénzforgalmi intézményként vagy az elektronikuspénz-kibocsátó intézményként történő működési engedély megadását kötötték.
 
-(4) A pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó kritikus feladatok kiszervezése nem befolyásolhatja a pénzforgalmi intézmény belső ellenőrzési rendszere, a könyvvizsgáló, a Felügyelet, valamint az MNB hatáskörének gyakorlását.
+(4) A pénzforgalmi szolgáltatás nyújtásának és az elektronikus pénz kibocsátásának működtetéséhez kapcsolódó kritikus feladatok kiszervezése nem befolyásolhatja a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény belső ellenőrzési rendszere, a könyvvizsgáló, a Felügyelet, valamint az MNB hatáskörének gyakorlását.
 
-(5) A (3)–(4) bekezdés alkalmazásában a pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó kritikus feladatnak minősül minden olyan feladat, amelynek végrehajtásában bekövetkezett hiányosság vagy eltérés kétségessé teszi a pénzforgalmi intézmény pénzforgalmi szolgáltatása jogszabályban előírt kötelezettségeinek teljesítését, vagy lényegesen csökkentené jövedelmezőségét, pénzforgalmi szolgáltatásai megbízhatóságát, folyamatosságát.
+(5) A (3)–(4) bekezdés alkalmazásában a pénzforgalmi szolgáltatás nyújtásának és az elektronikus pénz kibocsátásának működtetéséhez kapcsolódó kritikus feladatnak minősül minden olyan feladat, amelynek végrehajtásában bekövetkezett hiányosság vagy eltérés kétségessé teszi a pénzforgalmi intézmény pénzforgalmi szolgáltatása vagy az elektronikuspénz-kibocsátó intézmény elektronikus pénz kibocsátása, vagy pénzforgalmi szolgáltatása jogszabályban előírt kötelezettségeinek teljesítését, vagy lényegesen csökkentené jövedelmezőségét, pénzforgalmi szolgáltatásai, elektronikuspénz-kibocsátási tevékenységének megbízhatóságát, folyamatosságát.
 
-(6) A pénzforgalmi intézmény felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások, a személyi és tárgyi feltételek betartásával és a tőle elvárható gondossággal végezze. A pénzforgalmi intézménynek haladéktalanul jelentenie kell a Felügyelet részére, amennyiben a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik.
+(6) A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások, a személyi és tárgyi feltételek betartásával és a tőle elvárható gondossággal végezze. A pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek haladéktalanul jelentenie kell a Felügyelet részére, amennyiben a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik.
 
-(7) A Felügyelet a pénzforgalmi intézmény (6) bekezdésben foglalt bejelentése vagy a helyszíni ellenőrzése során feltárt hiányosságok alapján a tevékenység kiszervezését megtilthatja.
+(7) A Felügyelet a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény (6) bekezdésben foglalt bejelentése vagy a helyszíni ellenőrzése során feltárt hiányosságok alapján a tevékenység kiszervezését megtilthatja.
 
 ### Informatikai rendszer védelme
 
@@ -412,11 +440,11 @@ végezhet.
 
 (9) A pénzügyi intézménynek belső szabályzatában meg kell határoznia az egyes munkakörök betöltéséhez szükséges informatikai ismeretet.
 
-(10) Az (1)–(9) bekezdésben foglaltaknak a pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódóan a pénzforgalmi intézménynek is meg kell felelnie.
+(10) Az (1)–(9) bekezdésben foglaltaknak a pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódóan a pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek is meg kell felelnie.
 
 ### Irányítási rendszer és kockázatkezelési követelmények
 
-13/D. § (1) A hitelintézetnek és a pénzforgalmi intézménynek a mérete, az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenysége jellege, nagyságrendje és összetettsége arányában megbízható irányítási rendszerrel kell rendelkeznie, amelynek keretén belül köteles
+13/D. § (1) A hitelintézetnek, a pénzforgalmi intézménynek és az elektronikuspénz-kibocsátó intézménynek a mérete, az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenysége jellege, nagyságrendje és összetettsége arányában megbízható irányítási rendszerrel kell rendelkeznie, amelynek keretén belül köteles
 
 - a) a szervezeti felépítését belső szabályzatban áttekinthetően rögzíteni,
 - b) a felelősségi köröket egymástól elhatárolni és egyértelműen megfogalmazni,
@@ -589,9 +617,18 @@ engedélyezését, a kérelmet az EU-szintű hitelintézeti anyavállalatnak vag
 - f) alapvető kölcsöntőkéje és járulékos kölcsöntőkéje felmondásához, valamint a szerződésben kikötött felmondási idő előtti tőketörlesztéshez,
 - g) tőkekövetelményének költség módszerrel vagy irányadó mutató módszerrel történő meghatározásához.
 
+15/B. § A Felügyelet engedélye szükséges elektronikuspénz-kibocsátó intézmény
+
+- a) elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységének végzéséhez,
+- b) elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységi körének módosításához,
+- c) vezető állású személyének megválasztásához, kinevezéséhez,
+- d) fizetési művelet érdekében átvett pénzeszköz szerződéses állományának átruházásához,
+- e) alárendelt kölcsöntőkéjének a szerződésben rögzített határidő, illetőleg öt év előtt történő visszafizetéséhez,
+- f) alapvető kölcsöntőkéje és járulékos kölcsöntőkéje felmondásához, valamint a szerződésben kikötött felmondási idő előtti tőketörlesztéshez.
+
 16. § (1) A pénzváltás közvetítésére csak kiemelt közvetítő kaphat engedélyt.
 
-(2) A 3. § (2) bekezdésének b) pontjában meghatározott kiegészítő pénzügyi szolgáltatás végzésére – a (4) bekezdésben meghatározott kivétellel – pénzügyi vállalkozás, pénzforgalmi intézmény (a továbbiakban együtt: pénzforgalmi elszámolóház) a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha igazolja, hogy
+(2) A 3. § (2) bekezdésének b) pontjában meghatározott kiegészítő pénzügyi szolgáltatás végzésére – a (4) bekezdésben meghatározott kivétellel – pénzügyi vállalkozás, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény (a továbbiakban együtt: pénzforgalmi elszámolóház) a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha igazolja, hogy
 
 - a) legalább ötszázmillió forint jegyzett és befizetett tőkével rendelkezik,
 - b) a fizetési rendszer működtetését pénzügyi vállalkozás esetében – cégjegyzékben feltüntetett – főtevékenységként végzi, egyéb tevékenysége a főtevékenységet kiegészíti, vagy a főtevékenység ellátását nem befolyásolja hátrányosan,
@@ -711,14 +748,14 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (3) Már működő pénzügyi intézmény, illetve befektetési vállalkozás tevékenységi körének pénzügyi szolgáltatással történő bővítésére vonatkozó engedély iránti kérelméhez benyújtja a tevékenység végzéséhez szükséges személyi és tárgyi feltételek meglétét bizonyító igazolást, valamint a (2) bekezdés d)–f), h), k)–l) és n) pontjában foglaltakat, ha ezek benyújtására korábban még nem került sor.
 
-### Pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenységének engedélyezése
+### Pénzforgalmi intézmény pénzforgalmi szolgáltatási és az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységének engedélyezése
 
-18/A. § (1) A pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenységre jogosító engedély iránti kérelméhez mellékelni kell:
+18/A. § (1) A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény tevékenységre jogosító engedély iránti kérelméhez mellékelni kell:
 
-- a) a kérelmező működési tervét, amely tartalmazza a végezni kívánt pénzforgalmi szolgáltatást is,
+- a) a kérelmező működési tervét, amely pénzforgalmi intézmény esetében tartalmazza a végezni kívánt pénzforgalmi szolgáltatást is, elektronikuspénz-kibocsátó intézmény esetében pedig a végezni kívánt elektronikuspénz-kibocsátást és pénzforgalmi szolgáltatást is,
 - b) középtávú – az első három évre vonatkozó – előzetes költségvetést is tartalmazó üzleti tervet, a működéshez szükséges személyi és tárgyi feltételek biztosítására vonatkozó tényeket,
 - c) igazolást az induló tőke 9. § szerinti teljes összegének rendelkezésre állásáról,
-- d) az ügyfelek pénzeszközeinek védelme érdekében a 87/L. §-ban foglalt feltételek biztosításának leírását, ideértve az ügyfélpénzek elkülönített nyilvántartására alkalmas informatikai rendszer részletes leírását és a rendszer alkalmasságáról készített könyvvizsgálói igazolást is,
+- d) az ügyfelek pénzeszközeinek védelme érdekében a 87/L. §-ban, illetve a 87/P. §-ban foglalt feltételek biztosításának leírását, ideértve az ügyfélpénzek elkülönített nyilvántartására alkalmas informatikai rendszer részletes leírását és a rendszer alkalmasságáról készített könyvvizsgálói igazolást is,
 - e) a kérelmező vállalatirányítási és belső ellenőrzési rendszerének leírását, ideértve a kockázatkezelési és számviteli eljárásokat is,
 - f) a kérelmező könyvvizsgálójának megnevezését,
 - g) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályzatokat, eljárásrendeket,
@@ -727,22 +764,21 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - j) ha a kérelmező fizetési rendszerhez csatlakozik, a fizetési rendszerben történő részvételének leírását,
 - k) a kérelmező vezető állású személyének a 3. számú melléklet I. Fejezetében meghatározott azonosító adatait és a 44. §-ban meghatározott feltételek meglétét igazoló dokumentumokat,
 - l) a kérelmező létesítő okiratát,
-- m) a kérelmező harminc napnál nem régebbi okirati igazolását arról, hogy személyes joga szerinti hatáskörrel rendelkező adóhatósággal, vámhatósággal, társadalombiztosítási szervvel szemben nincs tartozása,
-- n) a kérelmező nyilatkozatát arról, hogy egyéb üzleti tevékenysége nem veszélyezteti a pénzforgalmi intézmény működését,
+- m) a kérelmező harminc napnál nem régebbi okirati igazolását arról, hogy személyes joga szerinti hatáskörrel rendelkező adóhatósággal, vámhatósággal, társadalombiztosítási szervvel szemben nincs tartozása, azzal, hogy az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban,
+- n) a kérelmező nyilatkozatát arról, hogy egyéb üzleti tevékenysége nem veszélyezteti a pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény működését,
 - o) a kérelmező harminc napnál nem régebbi okirati igazolását arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
-- p) a 6/B. §-ban foglalt hitel- és pénzkölcsön nyújtására, valamint készpénz-helyettesítő fizetési eszköz kibocsátására vonatkozó kérelem esetén a kérelmező központi hitelinformációs rendszerhez történő csatlakozásáról szóló nyilatkozatát,
+- p) a 6/B. §-ban, illetve a 6/D. §-ban foglalt hitel- és pénzkölcsön nyújtására, valamint készpénz-helyettesítő fizetési eszköz kibocsátására vonatkozó kérelem esetén a kérelmező központi hitelinformációs rendszerhez történő csatlakozásáról szóló nyilatkozatát,
 - q) nyilatkozatot arról, hogy milyen – a számviteli törvény szerinti – függő és jövőbeni kötelezettségei vannak,
-- r)
-- s) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+- r) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
-(2) Az (1) bekezdés d), e), h)–j) pontjaihoz kapcsolódóan a kérelmezőnek mellékelnie kell azon auditrendszer és szervezeti intézkedések leírását, amelyek a pénzforgalmi szolgáltatását igénybe vevők érdekeinek védelmét, valamint a pénzforgalmi szolgáltatások végzésének folytonosságát és megbízhatóságát biztosító valamennyi ésszerű intézkedés megtételéhez szükségesek.
+(2) Az (1) bekezdés d), e), h)–j) pontjaihoz kapcsolódóan a kérelmezőnek mellékelnie kell azon auditrendszer és szervezeti intézkedések leírását, amelyek a pénzforgalmi szolgáltatását igénybe vevők, elektronikuspénz-kibocsátó intézmény esetében az elektronikuspénz-birtokosok érdekeinek védelmét, valamint a pénzforgalmi szolgáltatások végzésének folytonosságát és megbízhatóságát biztosító valamennyi ésszerű intézkedés megtételéhez szükségesek.
 
-(3) Ha a kérelmezőnek minősített befolyással rendelkező tulajdonosa van, az (1) bekezdésben foglaltakon kívül a pénzforgalmi szolgáltatási tevékenységre jogosító engedély iránti kérelemhez mellékelni kell
+(3) Ha a kérelmezőnek minősített befolyással rendelkező tulajdonosa van, az (1) bekezdésben foglaltakon kívül a pénzforgalmi szolgáltatási, valamint elektronikuspénz-kibocsátási tevékenységre jogosító engedély iránti kérelemhez mellékelni kell
 
 - a) a tulajdonos 3. számú melléklet I. Fejezetében meghatározott azonosító adatait,
 - b) a minősített befolyás megszerzéséhez szükséges pénzügyi forrás törvényes eredetének igazolását,
-- c) harminc napnál nem régebbi okirati igazolást arról, hogy a tulajdonos személyes joga szerinti hatáskörrel rendelkező adóhatósággal, vámhatósággal, társadalombiztosítási szervvel szemben nincs tartozása,
-- d) a tulajdonos nyilatkozatát arról, hogy egyéb tulajdonosi érdekeltsége és tevékenysége nem veszélyezteti a pénzforgalmi intézmény működését,
+- c) harminc napnál nem régebbi okirati igazolást arról, hogy a tulajdonos személyes joga szerinti hatáskörrel rendelkező adóhatósággal, vámhatósággal, társadalombiztosítási szervvel szemben nincs tartozása, azzal, hogy az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban,
+- d) a tulajdonos nyilatkozatát arról, hogy egyéb tulajdonosi érdekeltsége és tevékenysége nem veszélyezteti a pénzforgalmi intézmény, illetve az elektronikuspénz-kibocsátó intézmény működését,
 - e) természetes személy tulajdonos esetén harminc napnál nem régebbi hatósági erkölcsi bizonyítványt, vagy a kérelmező személyes joga szerinti ennek megfelelő okiratot,
 - f) nem természetes személy tulajdonos esetén a kérelem benyújtásakor hatályos létesítő okiratát, harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
 - g) nem természetes személy tulajdonos esetén a tulajdonosi szerkezetének részletes leírását, valamint ha a kérelmezőre az összevont alapú felügyelet kiterjed, ezen körülményeknek a részletes leírását,
@@ -750,40 +786,42 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - i) a kérelmezővel szoros kapcsolatban álló személy nyilatkozatát arról, hogy a szoros kapcsolatban álló személy, vagy a szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend lehetővé teszi a felügyeleti feladatok ellátását,
 - j) a tulajdonos teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
-(4) A pénzforgalmi szolgáltatási tevékenységre jogosító engedély kiadásának feltételeként nyilatkozatot kell adni arról, hogy a pénzforgalmi intézmény irányítása a Magyar Köztársaság területén létesített főirodában történik.
+(4) A pénzforgalmi szolgáltatási tevékenységre, illetve az elektronikuspénz-kibocsátásra jogosító engedély kiadásának feltételeként nyilatkozatot kell adni arról, hogy a pénzforgalmi, illetve elektronikuspénz-kibocsátó intézmény irányítása a Magyar Köztársaság területén létesített főirodában történik.
 
 (5) Ha a kérelmező az (1) bekezdés m) pontjában, illetve a (3) bekezdés c) pontjában meghatározott, valamely magyarországi köztartozására vonatkozó adatot nem igazolja, a Felügyelet megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja a Felügyeletet.
 
 (6) Ha a kérelmező az (1) bekezdés l) és o) pontjában, illetve a (3) bekezdés e) és f) pontjában meghatározott adatokat nem mellékeli, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz vagy bírósághoz.
 
-18/B. § (1) A pénzforgalmi intézmény köteles a Felügyeletnek a szerződés megkötését követő öt munkanapon belül bejelenteni, ha pénzforgalmi szolgáltatási tevékenységét [3. § (1) bekezdés d) pontja] megbízási szerződés keretében pénzforgalmi közvetítővel kívánja végezni.
+18/B. § (1) Ha pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény pénzforgalmi közvetítőt kíván igénybe venni, köteles azt a Felügyeletnek a szerződés megkötését követő öt munkanapon belül bejelenteni.
 
-(2) Pénzforgalmi intézménynek pénzügyi szolgáltatás közvetítését kizárólag az végezhet, akit a Felügyelet az (1) bekezdésben foglalt bejelentést követően a 190. § szerinti nyilvántartásba felvesz és megfelel az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak.
+(2) Pénzforgalmi intézménynek vagy elektronikuspénz-kibocsátó intézménynek pénzforgalmi közvetítői tevékenységet kizárólag az végezhet, akit a Felügyelet az (1) bekezdésben foglalt bejelentést követően a 190. § szerinti nyilvántartásba felvesz és megfelel az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak.
 
 (3) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell
 
 - a) a pénzforgalmi közvetítő 3. számú melléklet I. Fejezetében meghatározott azonosító adatait,
 - b) annak igazolását, hogy a pénzforgalmi közvetítő rendelkezik a pénzügyi szolgáltatás nyújtásához szükséges személyi és tárgyi feltételekkel,
 - c) a megbízási szerződést, amely azt a szerződési kikötést is tartalmazza, hogy a Felügyelet, a feladatkörében eljáró MNB és a megbízó korlátozás nélkül ellenőrizheti a pénzforgalmi közvetítőnél a megbízás tárgyát képező tevékenységgel kapcsolatos gazdálkodást és az üzleti könyveket,
-- d) a pénzforgalmi közvetítő pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályzatait, eljárásrendjét,
-- e) a pénzforgalmi közvetítő harminc napnál nem régebbi okirati igazolását arról, hogy személyes joga szerinti hatáskörrel rendelkező adóhatósággal, vámhatósággal, társadalombiztosítási szervvel szemben nincs tartozása,
-- f) természetes személy esetén a büntetlen előéletet igazoló 90 napnál nem régebbi hatósági erkölcsi bizonyítványt, vagy a kérelmező személyes joga szerinti ennek megfelelő okiratot,
+- d) a pénzforgalmi közvetítő – amennyiben a pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírások szerinti egyszerűsített ügyfél-átvilágítás alkalmazására nem jogosult – a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályzatait, eljárásrendjét,
+- e) a pénzforgalmi közvetítő harminc napnál nem régebbi okirati igazolását arról, hogy személyes joga szerinti hatáskörrel rendelkező adóhatósággal, vámhatósággal, társadalombiztosítási szervvel szemben nincs tartozása, azzal, hogy az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban,
+- f) természetes személy esetén a büntetlen előéletet igazoló kilencven napnál nem régebbi hatósági erkölcsi bizonyítványt, vagy a kérelmező személyes joga szerinti ennek megfelelő okiratot,
 - g) nem természetes személy esetén a bejelentéskor hatályos létesítő okiratát, harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyének az f) pontban meghatározott okiratát,
 - h) teljes bizonyító erejű magánokiratba foglalt nyilatkozatot arra vonatkozóan, hogy a pénzforgalmi közvetítő hozzájárul a bejelentéshez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
-(4) Az (1)–(3) bekezdésen kívül a 32/F. §-ban foglaltak is megfelelően alkalmazandóak, ha a pénzforgalmi intézmény az Európai Unió másik tagállamában kívánja pénzforgalmi szolgáltatási tevékenységét megbízási szerződés keretében pénzforgalmi közvetítővel végezni.
+(4) Az (1)–(3) bekezdésen kívül a 32/F. §-ban foglaltak is megfelelően alkalmazandóak, ha a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény az Európai Unió másik tagállamában kíván pénzforgalmi szolgáltatási tevékenységéhez vagy elektronikuspénz-kibocsátásához megbízási szerződés keretében pénzforgalmi közvetítőt igénybe venni.
 
 (5) A Felügyelet megtagadja a pénzforgalmi közvetítő nyilvántartásba vételét, ha a (3) bekezdésben meghatározott információkat hiányosan vagy nem megfelelő módon nyújtják be, és a hiánypótlásra történő felhívás is sikertelen.
 
-(6) A pénzforgalmi intézmény az általa igénybe vett pénzforgalmi közvetítő tevékenységéért, az e törvényben foglaltak betartásáért teljes felelősséggel tartozik.
+(6) A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az általa igénybe vett pénzforgalmi közvetítő tevékenységéért, az e törvényben foglaltak betartásáért teljes felelősséggel tartozik.
 
-(7) A pénzforgalmi intézmény köteles a Felügyeletnek három munkanapon belül bejelenteni a (3) bekezdés c) pontja szerinti megbízási szerződés módosítását.
+(7) A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles a Felügyeletnek három munkanapon belül bejelenteni a (3) bekezdés c) pontja szerinti megbízási szerződés módosítását.
 
 (8) A Felügyelet a pénzforgalmi közvetítőt törli a nyilvántartásból, ha
 
 - a) a pénzforgalmi közvetítő nem felel meg a nyilvántartásba vételhez szükséges feltételeknek,
 - b) a tevékenységére vonatkozó szabályokat ismételten vagy súlyosan megszegi, vagy
 - c) a nyilvántartásba vétel a Felügyelet megtévesztésével történt.
+
+(9) Az elektronikuspénz-kibocsátó intézmény nem bocsáthat ki elektronikus pénzt pénzforgalmi közvetítő útján.
 
 ### Független közvetítő engedélyezése
 
@@ -959,12 +997,12 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - a) a jogszabályban előírt személyi és tárgyi feltételekkel nem rendelkezik,
 - b) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá az MNB rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a működésre vonatkozó jogszabályok és MNB rendeletek előírásainak.
 
-27/B. § A Felügyelet a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenységre jogosító engedély iránti kérelmét elutasítja, ha a kérelmező
+27/B. § A Felügyelet a pénzforgalmi intézmény, illetve az elektronikuspénz-kibocsátó intézmény tevékenységére jogosító engedély iránti kérelmét elutasítja, ha a kérelmező
 
 - a) az engedélyezési eljárásban megtévesztő vagy valótlan adatot közöl,
-- b) általa működtetni kívánt pénzforgalmi intézmény nem felel meg az induló tőkére, a szervezeti, személyi feltételekre, a minősített befolyással rendelkező tulajdonosokra vonatkozó követelményeknek,
-- c) által működtetni kívánt pénzforgalmi intézménnyel szoros kapcsolatban álló személy vagy a szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend nem teszi lehetővé a felügyeleti feladatok hatékony ellátását,
-- d) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a pénzforgalmi szolgáltatási tevékenységre vonatkozó jogszabályi előírásoknak.
+- b) általa működtetni kívánt pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény nem felel meg az induló tőkére, a szervezeti, személyi feltételekre, a minősített befolyással rendelkező tulajdonosokra vonatkozó követelményeknek,
+- c) által működtetni kívánt pénzforgalmi intézménnyel vagy elektronikuspénz-kibocsátó intézménnyel szoros kapcsolatban álló személy vagy a szoros kapcsolatban álló személyre vonatkozó harmadik országbeli jogrend nem teszi lehetővé a felügyeleti feladatok hatékony ellátását,
+- d) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a pénzforgalmi szolgáltatási tevékenységre, illetve az elektronikuspénz-kibocsátási tevékenységre vonatkozó jogszabályi előírásoknak.
 
 ### Az alapítási engedély érvényességének határideje
 
@@ -1002,19 +1040,19 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (4) Hitelintézet tevékenységi engedélyét a Felügyelet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter és az MNB elnökének jóváhagyásával vonhatja vissza.
 
-30/A. § (1) A Felügyelet a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenységi engedélyét visszavonja, ha
+30/A. § (1) A Felügyelet a pénzforgalmi intézmény, illetve az elektronikuspénz-kibocsátó intézmény tevékenységére vonatkozó engedélyét visszavonja, ha
 
 - a) az engedélyt a Felügyelet megtévesztésével vagy más jogszabálysértő módon szerezték meg,
-- b) a pénzforgalmi intézmény már nem felel meg a pénzforgalmi szolgáltatásokra vonatkozó jogszabályi rendelkezéseknek,
+- b) a pénzforgalmi intézmény már nem felel meg a pénzforgalmi szolgáltatásokra vonatkozó jogszabályi rendelkezéseknek, az elektronikuspénz-kibocsátó intézmény már nem felel meg az elektronikuspénz-kibocsátásra vonatkozó jogszabályi rendelkezéseknek,
 - c) olyan körülmény áll fenn, amely súlyosan veszélyezteti a fizetési rendszer stabilitását, az ügyfelek érdekeit, vagy akadályozza a pénzforgalmat,
 - d) vagyona az ismert hitelezők követeléseinek kielégítésére sem nyújtana fedezetet,
-- e) a pénzforgalmi intézmény az engedélyét visszaadja,
-- f) a pénzforgalmi intézmény törvény által tiltott tevékenységet folytat.
+- e) a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény engedélyét visszaadja,
+- f) a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény jogosulatlan tevékenységet folytat.
 
-(2) A Felügyelet a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenységi engedélyét visszavonhatja, ha
+(2) A Felügyelet a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény tevékenységére vonatkozó engedélyét visszavonhatja, ha
 
-- a) a pénzforgalmi intézmény a pénzforgalmi szolgáltatási tevékenységre jogosító engedély kézhezvételétől számított tizenkét hónapon belül a tevékenységét nem kezdi meg,
-- b) a pénzforgalmi intézmény hat hónapon keresztül nem folytat pénzforgalmi szolgáltatási tevékenységet.
+- a) a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény a tevékenységre jogosító engedély kézhezvételétől számított tizenkét hónapon belül a tevékenységét nem kezdi meg,
+- b) a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény hat hónapon keresztül nem folytat tevékenységet.
 
 (3) Az engedély visszavonására irányuló eljárásban – az (1) bekezdés c) pontja tekintetében – az MNB szakhatóságként vesz részt.
 
@@ -1055,16 +1093,16 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (3) Pénzforgalmi intézmény a pénzforgalmi szolgáltatási tevékenységi engedélyét a Felügyeletnek akkor adhatja vissza, ha bizonyítja, hogy pénzforgalmi szolgáltatásból származó semmilyen kötelezettsége nincs.
 
-### Pénzforgalmi intézmény tevékenységi engedélyéhez kapcsolódó különös rendelkezések
+### Pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény tevékenységi engedélyéhez kapcsolódó különös rendelkezések
 
-32. § (1) A pénzforgalmi intézmény három napon belül a Felügyeletet írásban tájékoztatja, ha a pénzforgalmi szolgáltatási tevékenységre jogosító engedély megadását követően bármilyen változás hatással van a 18/A. §-ban meghatározott, az engedély iránti kérelemben foglaltak teljesítésére.
+32. § A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény, ha a tevékenységre jogosító engedély megadását követően bármilyen változás hatással van a 18/A. §-ban meghatározott, az engedély iránti kérelemben foglaltak teljesítésére, úgy a változás bekövetkezésétől vagy a változásról történő tudomásszerzéstől számított három napon belül a Felügyeletet erről írásban tájékoztatja.
 
-(2) A Felügyelet az olyan – 6/A. § (2)–(4) bekezdésén kívüli – egyéb üzleti tevékenységet is végző pénzforgalmi intézménynek megtilthatja az egyéb üzleti tevékenység pénzforgalmi szolgáltatási tevékenységgel történő együttes folytatását, ha ezen egyéb üzleti tevékenység mértéke, jellege, vagy a Felügyelet részére történő átláthatóságának hiánya hátrányosan befolyásolja
+(2) A Felügyelet a – 6/A. § (2)–(4) és 6/C. § (2) és (4) bekezdésén kívüli – egyéb üzleti tevékenységet is végző pénzforgalmi intézménynek vagy elektronikuspénz-kibocsátó intézménynek előírhatja, hogy az egyéb üzleti tevékenységét a pénzforgalmi szolgáltatási tevékenységétől, illetve elektronikuspénz-kibocsátási tevékenységétől elkülönítetten, külön szervezet keretében végezze, amennyiben ezen egyéb üzleti tevékenység mértéke, jellege, vagy a Felügyelet részére történő átláthatóságának hiánya hátrányosan befolyásolja
 
-- a) a pénzforgalmi intézmény pénzügyi megbízhatóságát, vagy
+- a) a pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény pénzügyi megbízhatóságát, vagy
 - b) a Felügyelet azon képességét, hogy ellássa felügyeleti tevékenységét.
 
-(3) A (2) bekezdésben meghatározott esetben a pénzforgalmi intézmény engedélyezési eljárására, valamint az állományátruházásra vonatkozó szabályokat is megfelelően alkalmazni kell.
+(3) A (2) bekezdésben meghatározott esetben a pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény engedélyezési eljárására, valamint az állományátruházásra vonatkozó szabályokat is megfelelően alkalmazni kell.
 
 ### Az Európai Unió másik tagállamában történő fióktelep létesítés szabályai
 
@@ -1121,15 +1159,15 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - a) már nem felel meg a 15. § (4) bekezdésben foglalt feltételeknek, vagy
 - b) tevékenységi engedélyét visszavonta.
 
-32/C. § (1) A pénzforgalmi intézmény köteles a Felügyeletnek bejelenteni, ha pénzforgalmi szolgáltatás nyújtására az Európai Unió másik tagállamában fióktelepet kíván létesíteni.
+32/C. § (1) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény, ha tevékenysége folytatására az Európai Unió másik tagállamában fióktelepet kíván létesíteni, köteles azt a Felügyeletnek bejelenteni.
 
 (2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell
 
-- a) annak az európai uniós tagállamnak a megnevezését, amelyben a pénzforgalmi intézmény a fióktelepet szándékozik létesíteni,
-- b) a végezni kívánt pénzforgalmi szolgáltatás megnevezését,
-- c) a fióktelep szervezeti felépítésére, irányítására, ellenőrzési rendjére vonatkozó dokumentumokat, a fióktelep címét, üzleti tervét, valamint a pénzforgalmi szolgáltatás üzletágat irányító személy megnevezését.
+- a) annak az európai uniós tagállamnak a megnevezését, amelyben a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény a fióktelepet létesíteni szándékozik,
+- b) a végezni kívánt szolgáltatás megnevezését,
+- c) a fióktelep szervezeti felépítésére, irányítására, ellenőrzési rendjére vonatkozó dokumentumokat, a fióktelep címét, üzleti tervét, valamint a pénzforgalmi szolgáltatás vagy az elektronikuspénz-kibocsátás üzletágat irányító személy megnevezését.
 
-(3) Ha a Felügyelet rendelkezésére álló információk szerint a bejelentő pénzforgalmi intézmény megfelel az e törvényben meghatározott követelményeknek, a bejelentés kézhezvételét követő egy hónapon belül írásban tájékoztatja az érintett Európai Unió másik tagállamának illetékes felügyeleti hatóságát a pénzforgalmi intézmény nevéről, címéről, a fióktelep vezető állású személyének nevéről, a fióktelep szervezeti felépítéséről, valamint a fióktelep által végezni kívánt pénzforgalmi szolgáltatásról. A tájékoztatást egyidejűleg közli a bejelentő pénzforgalmi intézménnyel.
+(3) Ha a Felügyelet rendelkezésére álló információk szerint a bejelentő pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény megfelel az e törvényben meghatározott követelményeknek, a bejelentés kézhezvételét követő egy hónapon belül írásban tájékoztatja az Európai Unió másik érintett tagállamának illetékes felügyeleti hatóságát a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény nevéről, címéről, a fióktelep vezető állású személyének nevéről, a fióktelep szervezeti felépítéséről, valamint a fióktelep által végezni kívánt szolgáltatásról. A tájékoztatást egyidejűleg közli a bejelentő pénzforgalmi intézménnyel vagy elektronikuspénz-kibocsátó intézménnyel.
 
 ### Határon átnyúló tevékenység végzésének szabályai
 
@@ -1153,11 +1191,11 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 
 (7) Ha a Felügyelet a (3) bekezdés szerinti tájékoztatás elküldését megtagadja, ezt legkésőbb egy hónapon belül határozatban közli a bejelentő pénzügyi vállalkozással. A határozatot meg kell indokolni. A Felügyelet kizárólag abban az esetben tagadhatja meg a tájékoztatás elküldését, ha a 15. § (4) bekezdésében meghatározott feltételek nem állnak fenn.
 
-32/F. § (1) A pénzforgalmi intézmény köteles a Felügyeletnek bejelenteni, ha pénzforgalmi szolgáltatását az Európai Unió másik tagállamában határon átnyúló szolgáltatásként szándékozik végezni.
+32/F. § (1) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény, ha tevékenységét az Európai Unió másik tagállamában határon átnyúló szolgáltatásként szándékozik végezni, köteles azt a Felügyeletnek bejelenteni.
 
-(2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell annak az európai uniós tagállamnak a megnevezését, amelyben a pénzforgalmi intézmény határon átnyúló szolgáltatást szándékozik végezni.
+(2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell annak az európai uniós tagállamnak a megnevezését, amelyben a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény határon átnyúló szolgáltatást szándékozik végezni.
 
-(3) Ha a Felügyelet rendelkezésére álló információk szerint a bejelentő pénzforgalmi intézmény megfelel az e törvényben meghatározott követelményeknek, a bejelentés kézhezvételét követő egy hónapon belül írásban tájékoztatja az érintett Európai Unió másik tagállamának illetékes felügyeleti hatóságát a pénzforgalmi intézmény nevéről, címéről.
+(3) Ha a Felügyelet rendelkezésére álló információk szerint a bejelentő pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény megfelel az e törvényben meghatározott követelményeknek, a bejelentés kézhezvételét követő egy hónapon belül írásban tájékoztatja az Európai Unió másik érintett tagállamának illetékes felügyeleti hatóságát a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény nevéről, címéről.
 
 32/G. § Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a székhelyén bejegyzett hitelintézet Magyarországon fióktelepet nyit, illetve határon átnyúló szolgáltatást végez, a Felügyelet tájékoztatja a hitelintézetet az ügyfelek védelmére vonatkozó rendelkezésekről, így különösen
 
@@ -1165,9 +1203,9 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - b) az üzletszabályzat követelményéről, valamint
 - c) egyes pénzügyi szolgáltatások nyújtásának különös szabályairól.
 
-32/H. § (1) Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy székhelye szerinti tagállamban engedélyezett pénzforgalmi intézmény Magyarországon fióktelepet szándékozik létesíteni, határon átnyúló szolgáltatást szándékozik végezni, akkor a Felügyelet tájékoztatja a pénzforgalmi intézményt a folytatni kívánt tevékenység végzésével kapcsolatos feltételekről, így különösen az ügyfelek előzetes és utólagos tájékoztatásának és a pénzforgalmi szolgáltatás lebonyolításának szabályairól.
+32/H. § (1) Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy székhelye szerinti tagállamban engedélyezett pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény Magyarországon fióktelepet szándékozik létesíteni, határon átnyúló szolgáltatást szándékozik végezni, akkor a Felügyelet tájékoztatja a pénzforgalmi intézményt vagy az elektronikuspénz-kibocsátó intézményt a folytatni kívánt tevékenység végzésével kapcsolatos feltételekről, így különösen az ügyfelek előzetes és utólagos tájékoztatásának, a pénzforgalmi szolgáltatás lebonyolításának és az elektronikus pénz kibocsátásának szabályairól.
 
-(2) Ha a Felügyelet rendelkezésére álló információk szerint az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény pénzforgalmi közvetítői tevékenységet végző közvetítőjével, vagy fióktelepe létesítésével kapcsolatban felmerül a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályok megsértése, akkor a Felügyelet köteles erről a székhely szerinti illetékes felügyeleti hatóságot is értesíteni.
+(2) Ha a Felügyelet rendelkezésére álló információk szerint az Európai Unió másik tagállamában székhellyel rendelkező pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény pénzforgalmi közvetítői tevékenységet végző közvetítőjével vagy fióktelepe létesítésével kapcsolatban felmerül a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó szabályok megsértése, akkor a Felügyelet köteles erről a székhely szerinti illetékes felügyeleti hatóságot is értesíteni.
 
 ### Rendszerszinten jelentős fióktelep
 
@@ -1356,6 +1394,33 @@ akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intéz
 
 (2) A pénzügyi intézmény öt munkanapon belül a Felügyeletet írásban tájékoztatja, ha tudomást szerez a 37–38. §-okban meghatározott arányú részesedés megszerzéséről, elidegenítéséről, illetve módosulásáról.
 
+41/A. § (1) Köteles a Felügyeletnek előzetesen bejelenteni, aki elektronikuspénz-kibocsátó intézményben
+
+- a) minősített befolyást kíván szerezni, vagy
+- b) minősített befolyását úgy kívánja módosítani, hogy az elérje a húsz, a harminc vagy az ötven százalékos határértéket.
+
+(2) Az elektronikuspénz-kibocsátó intézményben minősített befolyással rendelkező személy köteles előzetesen bejelenteni a Felügyeletnek, ha
+
+- a) minősített befolyását teljes egészében meg kívánja szüntetni, vagy
+- b) minősített befolyását úgy kívánja módosítani, hogy az a húsz, harminc vagy ötven százalékos határérték alá csökkenjen.
+
+(3) Be kell jelenteni a Felügyeletnek, ha az elektronikuspénz-kibocsátó intézmény egy jogi személynek vagy jogi személyiség nélküli gazdasági társaságnak a leányvállalatává vált, vagy megszűnt annak lenni.
+
+(4) A minősített befolyást szerezni kívánó személy bejelentésének tartalmaznia kell:
+
+- a) az elektronikuspénz-kibocsátó intézményben minősített befolyással rendelkező megnevezését,
+- b) az elektronikuspénz-kibocsátó intézményben minősített befolyással rendelkező vállalkozásból a bejelentő birtokában lévő részesedés megjelölését,
+- c) a megszerezni kívánt részesedés arányát,
+- d) a tulajdonszerzésre, illetőleg a szavazati joghoz kapcsolódó, jelentős előnyöket biztosító megállapodásra tett szerződéses ajánlatot,
+- e) a bejelentőnél vezető tisztségviselői beosztásban lévő személy tekintetében a 44. § (4) bekezdésében meghatározott kizáró ok megítéléséhez szükséges tényeket és a 44. § (6) bekezdésében meghatározott büntetőeljárással kapcsolatos nyilatkozatot, valamint
+- f) egyéb olyan információkat, melyek szükségesek annak megállapításához, hogy a prudens működés biztosítva van.
+
+(5) Amennyiben a minősített befolyást szerző tevékenysége, illetve az elektronikuspénz-kibocsátó intézményre gyakorolt befolyása veszélyezteti az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányítását, úgy a Felügyelet a bejelentést követő harminc napon belül megtilthatja az ilyen befolyás megszerzését, és felfüggesztheti a tulajdonosok szavazati jogának gyakorlását, addig, amíg a tulajdonos meg nem szünteti az elektronikuspénz-kibocsátó intézmény független, megbízható és körültekintő tulajdonosi irányításának veszélyeztetéséül szolgáló indokot.
+
+(6) Az (5) bekezdésben foglalt intézkedések valamelyikét alkalmazza a Felügyelet a bejelentési kötelezettség elmulasztása esetén is.
+
+(7) Amennyiben a minősített befolyásszerzés a Felügyelet tiltása ellenére következik be, úgy a részesedésszerzésre vagy az előny biztosítására irányuló szerződésből származó szavazati jogok gyakorlását a Felügyelet a megfelelő törvényes feltételek biztosításáig megtilthatja.
+
 ### V. Fejezet — A tulajdonosokra, a vezető testületek tagjairaés a vezető állású személyekre vonatkozó szabályok
 
 42. § A részvénytársasági formában működő pénzügyi intézmény részvényei – a szavazati jogot nem biztosító elsőbbségi részvények kivételével – kizárólag névre szóló részvények lehetnek.
@@ -1382,23 +1447,23 @@ akkor a Felügyelet a kérelmet haladéktalanul továbbítja a pénzügyi intéz
 
 ### Közös szabályok
 
-44. § (1) A Felügyelet előzetes engedélyével választható meg, illetőleg nevezhető ki a pénzügyi intézménynél, pénzforgalmi intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
+44. § (1) A Felügyelet előzetes engedélyével választható meg, illetőleg nevezhető ki a pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
 
 (2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 
 (3) A Felügyelet a természetes személy megválasztására, illetőleg kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4)–(5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll, illetőleg ügyvezető esetén, ha a javasolt személy a 68. §-ban foglalt feltételeknek nem felel meg.
 
-(4) Pénzügyi intézménynél, pénzforgalmi intézménynél nem lehet vezető állású személy az, aki
+(4) Pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél nem lehet vezető állású személy az, aki
 
 - a) minősített befolyással rendelkezik (vagy rendelkezett), illetőleg vezető állású személy (vagy az volt) egy olyan pénzügyi intézményben, pénzforgalmi intézményben 1. amely esetében a fizetésképtelenséget csak a Felügyelet által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy 2. amelyet a tevékenységi engedély visszavonása miatt fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős határozat megállapította;
 - b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a banküzemre, a pénzforgalmi szolgáltatásra vagy a pénzügyi intézmény gazdálkodására vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította;
 - c) büntetett előéletű;
 - d) nem rendelkezik jó üzleti hírnévvel.
 
-(5) Hitelintézetnél, pénzforgalmi elszámolóháznál, pénzforgalmi intézménynél nem lehet vezető állású személy – a felügyelő bizottsági tag kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
+(5) Hitelintézetnél, pénzforgalmi elszámolóháznál, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél nem lehet vezető állású személy – a felügyelő bizottsági tag kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
 
 - a) nem rendelkezik legalább háromévi – a banki vagy vállalati gazdálkodás vagy az államigazgatás pénzügyi, illetve gazdasági területén szerzett – vezetői gyakorlattal,
-- b) más pénzügyi intézménynél, pénzforgalmi intézménynél könyvvizsgáló,
+- b) más pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél könyvvizsgáló,
 - c) olyan tisztséget tölt be, amely tisztség ellátása korlátozhatja szakmai feladatainak ellátását.
 
 (6) Akivel szemben a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, illetőleg külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárás befejezéséig vezető állású személyként nem foglalkoztatható, illetve az ilyen feladatok általa történő ellátását fel kell függeszteni.
@@ -1437,7 +1502,7 @@ kell érteni.
 
 ### VI. Fejezet — Felelősségi és képviseleti szabályok
 
-45. § A pénzügyi intézmény igazgatóságának, felügyelő bizottságának vezetői és tagjai, valamint a pénzforgalmi intézmény és a fióktelep formájában működő pénzügyi intézmény vezető állású személyei felelősek azért, hogy a pénzügyi intézmény, pénzforgalmi intézmény az engedélyezett tevékenységeket az e törvényben és a külön jogszabályokban foglalt előírásoknak megfelelően végezze.
+45. § A pénzügyi intézmény igazgatóságának, felügyelő bizottságának vezetői és tagjai, valamint a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény és a fióktelep formájában működő pénzügyi intézmény vezető állású személyei felelősek azért, hogy a pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az engedélyezett tevékenységeket az e törvényben és a külön jogszabályokban foglalt előírásoknak megfelelően végezze.
 
 46. § A vezető állású személy és a pénzügyi intézmény alkalmazottja mindenkor – e beosztásával járó fokozott szakmai követelményeknek megfelelő – elvárható gondossággal és szakértelemmel, a pénzügyi intézmény és az ügyfelek érdekeinek figyelembevételével, a jogszabályok szerint köteles eljárni.
 
@@ -1464,7 +1529,7 @@ együttesen jogosult.
 
 49. § (1) E törvény alkalmazásában üzleti titok fogalma alatt a Ptk.-ban meghatározott fogalmat kell érteni.
 
-(2) A pénzügyi intézmény, a pénzforgalmi intézmény és a pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás (ideértve a közvetítőt is) tulajdonosa, a pénzügyi intézményben és a pénzforgalmi intézményben minősített befolyást szerezni kívánó személy, a vezető állású személy, valamint a pénzügyi intézmény, a pénzforgalmi intézmény és a pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás alkalmazottja köteles a pénzügyi intézmény és a pénzforgalmi intézmény működésével kapcsolatban tudomására jutott üzleti titkot – időbeli korlátozás nélkül – megtartani.
+(2) A pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és a pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás (ideértve a közvetítőt is) tulajdonosa, a pénzügyi intézményben, a pénzforgalmi intézményben és az elektronikuspénz-kibocsátó intézményben minősített befolyást szerezni kívánó személy, a vezető állású személy, valamint a pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és a pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás alkalmazottja köteles a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény működésével kapcsolatban tudomására jutott üzleti titkot – időbeli korlátozás nélkül – megtartani.
 
 (3) A (2) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
@@ -1482,7 +1547,7 @@ együttesen jogosult.
 - a) nyomozó hatósággal, ügyészséggel szemben a folyamatban lévő büntetőeljárás, valamint a feljelentés kiegészítése keretében,
 - b) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal szemben.
 
-(5) A pénzügyi intézmény és a pénzforgalmi intézmény a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.
+(5) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.
 
 (6) Nem jelenti az üzleti titok sérelmét a Felügyelet vagy az MNB által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
 
@@ -1568,7 +1633,7 @@ van összefüggésben.
 
 - a) az olyan összesített adatok szolgáltatása, amelyből az egyes ügyfelek személye vagy üzleti adata nem állapítható meg,
 - b) a pénzforgalmi számlatulajdonos nevére, pénzforgalmi számlájának számára vonatkozó adatszolgáltatás, továbbá téves utalás esetén a teljesített átutalási megbízás megbízója, illetve a megbízó számlavezetője javára történő adatátadás, a megbízás szerint kedvezményezett, nem pénzforgalmi számlatulajdonos nevére, címére vonatkozóan,
-- c) a 3. § (1) bekezdésének b)–c), illetve e)–f) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, valamint a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy részéről a központi hitelinformációs rendszerbe, illetve e rendszerből a 2. számú melléklet V. fejezetének 3. pontja szerinti referenciaadat-szolgáltató részére nyújtott, a XX/A. Fejezetben meghatározott adatszolgáltatás,
+- c) a 3. § (1) bekezdésének b)–c), illetve e)–g) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, valamint a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy részéről a központi hitelinformációs rendszerbe, illetve e rendszerből a 2. számú melléklet V. fejezetének 3. pontja szerinti referenciaadat-szolgáltató részére nyújtott, a XX/A. Fejezetben meghatározott adatszolgáltatás,
 - d) a pénzügyi intézmény által felhatalmazott könyvvizsgálóknak, a megbízott vagyonellenőrnek, jogi vagy egyéb szakértőnek, valamint a pénzügyi intézmény részére biztosítási fedezetet nyújtó biztosítónak a biztosítási szerződés teljesítéséhez szükséges mértékben történő adatátadás,
 - e) a pénzügyi intézmény igazgatóságának írásbeli hozzájárulásával a pénzügyi intézményben minősített befolyással rendelkező tulajdonosnak vagy az ilyen befolyást szerezni kívánó személy (társaság), az üzletág átvételét tervező társaság, illetve az ilyen tulajdonos vagy esetleges jövőbeni tulajdonos által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő adatátadás,
 - f) a bíróság megkeresése esetén a peres fél számlája felett rendelkezésre jogosultak aláírásmintájának bemutatása,
@@ -2479,6 +2544,61 @@ ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben tel
 - b) a pénzügyi kötelezettségvállalása nem teljesítésének esetére a pénzforgalmi intézménytől eltérő csoporthoz tartozó, Európai Unió tagállamában székhellyel rendelkező hitelintézettel, biztosítóval olyan bankgarancia- vagy kezesi biztosítási szerződést köt, amely
   - ba) az a) pont szerint elhelyezendő pénzeszköz teljes összegére vonatkozik, és
   - bb) a fedezet nyújtója által egyoldalúan legalább hatvannapos határidővel szüntethető meg.
+
+### XII/B. Fejezet — ELEKTRONIKUSPÉNZ-KIBOCSÁTÓ INTÉZMÉNY PRUDENS MŰKÖDÉSÉNEK SZABÁLYAI
+
+### Tőkekövetelmény
+
+87/M. § (1) Az elektronikuspénz-kibocsátó intézménynek – az általa végzett tevékenységgel összhangban – a kockázatának fedezetét mindenkor biztosító megfelelő nagyságú szavatoló tőkével kell rendelkeznie, amely nem csökkenhet
+
+- a) a pénzforgalmi tevékenysége tekintetében a 87/F–J. §-okban foglalt módon meghatározott szavatoló tőke, valamint az elektronikuspénz-kibocsátási tevékenysége tekintetében az e Fejezetben meghatározott átlagos kinnlevő elektronikus pénz módszer szerint számított szavatoló tőke együttes összege, vagy
+- b) a 9. §-ban – az engedélyezés feltételeként – előírt legkisebb induló tőke
+
+összege közül a magasabb érték alá.
+
+(2) Az (1) bekezdés a) pontjától eltérően a Felügyelet a pénzforgalmi tevékenység vonatkozásában a 87/K. § szerinti felügyeleti felülvizsgálat keretében a számított értéknél legfeljebb húsz százalékkal magasabb tőkekövetelményt írhat elő, illetve legfeljebb húsz százalékkal alacsonyabb tőkekövetelményt engedélyezhet.
+
+(3) Az elektronikuspénz-kibocsátó intézmény szavatoló tőkéjének meghatározására, kiszámítására az 5. számú mellékletet kell megfelelően alkalmazni.
+
+87/N. § Ha az elektronikuspénz-kibocsátó intézmény
+
+- a) egy másik elektronikuspénz-kibocsátó intézménnyel, pénzforgalmi intézménnyel, hitelintézettel, befektetési vállalkozással, befektetési alapkezelő társasággal, biztosítóval vagy viszontbiztosítóval azonos csoportba tartozik, vagy
+- b) az elektronikus pénz kibocsátásán kívül a 6/C. § (2)–(4) bekezdésébe nem tartozó egyéb üzleti tevékenységet is végez, akkor a csoport tagjai között, illetve az elektronikuspénz-kibocsátó intézmény egyéb üzleti tevékenységéhez kapcsolódóan ki kell zárni a szavatoló tőke számítása során a tőkeelemek többszörös számbavételét, valamint a nem megfelelő szavatolótőke-számítást.
+
+87/O. § (1) Az átlagosan kinnlevő elektronikus pénz módszer alkalmazásakor az elektronikuspénz-kibocsátó intézmény szavatoló tőkéjének el kell érnie az átlagosan kinnlevő elektronikus pénz két százalékát.
+
+(2) Amennyiben az elektronikuspénz-kibocsátó intézmény a 6/C. § (3) bekezdésében foglalt, az elektronikuspénz-kibocsátáshoz nem kapcsolódó vagy a 6/C. § (2) és (4)–(5) bekezdéseiben megállapított tevékenységek bármelyikét végzi, és a kinnlevő elektronikus pénz mennyisége előre nem határozható meg, a Felügyelet engedélyezi ezen elektronikuspénz-kibocsátó intézmény számára, hogy a szavatolótőke-követelményét egy olyan reprezentatív hányad alapján számítsa ki, mely számítása szerint elektronikus pénz kibocsátására kerül felhasználásra, feltéve hogy ez a reprezentatív hányad a korábbi adatok alapján és a Felügyelet számára reálisan megbecsülhető.
+
+(3) Amennyiben az elektronikuspénz-kibocsátó intézmény működésének időtartama alapján a (2) bekezdésben meghatározott szavatolótőke-követelménye nem számítható, az üzleti terv által igazolt, tervezett kinnlevő elektronikus pénz alapján kell a kalkulációt elvégezni, figyelemmel a Felügyelet által a tervben kért esetleges kiigazításokra.
+
+### Ügyfélpénzek védelme
+
+87/P. § (1) Az elektronikuspénz-kibocsátó intézmény az ügyféltől elektronikus pénz kibocsátása érdekében átvett pénzeszközzel sajátjaként nem rendelkezhet, a 6/C. § (2) bekezdésében meghatározott hitel és pénzkölcsön ennek terhére nem nyújtható, valamint az az elektronikuspénz-kibocsátó intézmény felszámolása esetén – a Cstv. rendelkezéseitől eltérően – nem része a felszámolás körébe tartozó vagyonnak.
+
+(2) Az elektronikuspénz-kibocsátó intézmény nyilvántartásait az átvett pénzeszközökről úgy vezeti, hogy azok
+
+- a) pontosak legyenek, és az ügyfél pénzeszközeiről mindenkor valós képet mutassanak, és
+- b) alapján bármikor, késedelem nélkül biztosítható legyen az ügyfél, valamint a szolgáltató saját pénzeszközeinek elkülönített nyilvántartása.
+
+(3) Az elektronikuspénz-kibocsátó intézmény az elektronikus pénz kibocsátása ellenében átvett és vissza nem váltott pénzeszközt
+
+- a) az Európai Unió tagállamában székhellyel rendelkező hitelintézetnél vezetett letéti számlára, vagy biztonságos, alacsony kockázatú eszközbe köteles elhelyezni, vagy
+- b) a pénzügyi kötelezettségvállalása nem teljesítésének esetére az elektronikuspénz-kibocsátó intézménytől eltérő csoporthoz tartozó, az Európai Unió tagállamában székhellyel rendelkező hitelintézettel, biztosítóval olyan bankgarancia- vagy kezesi biztosítási szerződést köt, amely
+  - ba) az a) pont szerint elhelyezendő pénzeszköz teljes összegére vonatkozik, és
+  - bb) a fedezet nyújtója által egyoldalúan legalább hatvannapos határidővel szüntethető meg.
+
+(4) Az átvett pénzeszközökre az (1)–(3) bekezdésben meghatározottakat
+
+- a) az elektronikuspénz-kibocsátó intézmény fizetési számlájára történő jóváírástól vagy más módon az elektronikuspénz-kibocsátó intézmény rendelkezésére bocsátásától,
+- b) pénzforgalmi közvetítő megbízása esetén, ha az átvett pénzeszköz a) pontban meghatározott jóváírására, rendelkezésre bocsátására az elektronikus pénz kibocsátását követő ötödik munkanapig nem kerül sor, akkor az elektronikus pénz kibocsátását követő ötödik munkanaptól kell alkalmazni.
+
+(5) A (3) bekezdés alkalmazásában azon – a kereskedési könyvben nyilvántartott pozíciók, kockázatvállalások, a devizaárfolyam-kockázat és nagykockázatok fedezetéhez szükséges tőkekövetelmény megállapításának szabályairól és a kereskedési könyv vezetésének részletes szabályairól szóló külön jogszabályban meghatározott – egyedi kockázati súlyú kötvények minősülnek biztonságos, alacsony kockázatú eszközöknek, amelyek esetében az egyedi kockázatra vonatkozó tőkekövetelmény – leszámítva a külön jogszabályban meghatározott minőségi kötvényt – legfeljebb 1,6% lehet.
+
+(6) Az (5) bekezdésben meghatározottakon túl biztonságos, alacsony kockázatú eszköz az ÁÉKBV olyan kollektív befektetési értékpapírja, amely kizárólag az (5) bekezdésben meghatározott eszközbe fektet.
+
+(7) Az elektronikuspénz-kibocsátó intézménynek előzetesen tájékoztatnia kell a Felügyeletet a kibocsátott elektronikus pénz ellenében átvett pénzeszközök védelme érdekében végrehajtott intézkedésekben bekövetkező minden jelentős változásról.
+
+(8) Az elektronikuspénz-kibocsátó intézmény által pénzforgalmi szolgáltatás nyújtása érdekében átvett pénzeszközre a 87/L. §-ban foglaltakat kell alkalmazni.
 
 ### XIII. Fejezet — A likviditás biztosítása
 
@@ -3414,7 +3534,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 (3) A KHR-t kezelő pénzügyi vállalkozás kizárólag a referenciaadat-szolgáltató által átadott referenciaadatot veheti át, és kizárólag az általa kezelt referenciaadatot adhatja át a referenciaadat-szolgáltatónak.
 
-(4) Az adatkérési igényben megjelölt, – a 2. számú melléklet V. fejezetének 1. pontjában meghatározott – nyilvántartottra vonatkozó referenciaadaton kívül a KHR-ből a referenciaadat-szolgáltató részére egyéb adat nem adható át. Természetes személy referenciaadataira vonatkozó adatkérési igény kizárólag a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra irányuló szerződés, vagy a kereskedelmi kölcsön nyújtására irányuló szerződés, vagy a Bszt.-ben meghatározott befektetési hitel nyújtására, illetőleg a Tpt.-ben meghatározott értékpapír-kölcsönzésre vonatkozó szerződés megkötését megalapozó döntés meghozatalához vagy a 130/J. § (3) bekezdése szerinti tájékoztatás megadásának céljára használható fel.
+(4) Az adatkérési igényben megjelölt, – a 2. számú melléklet V. fejezetének 1. pontjában meghatározott – nyilvántartottra vonatkozó referenciaadaton kívül a KHR-ből a referenciaadat-szolgáltató részére egyéb adat nem adható át. Természetes személy referenciaadataira vonatkozó adatkérési igény kizárólag a 3. § (1) bekezdésének b)–c) és e)–g) pontjában foglalt pénzügyi szolgáltatásra irányuló szerződés, vagy a kereskedelmi kölcsön nyújtására irányuló szerződés, vagy a Bszt.-ben meghatározott befektetési hitel nyújtására, illetőleg a Tpt.-ben meghatározott értékpapír-kölcsönzésre vonatkozó szerződés megkötését megalapozó döntés meghozatalához vagy a 130/J. § (3) bekezdése szerinti tájékoztatás megadásának céljára használható fel.
 
 (5) A KHR-ből a Diákhitel Központ részére – a 130/J. § (4) bekezdésében foglaltakon kívül – referenciaadat nem adható át.
 
@@ -3467,11 +3587,11 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 ### A KHR-be történő adatátadás és a KHR-ben történő adatkezelés szabályai
 
-130/C. § (1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1–1.2 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződésben, kereskedelmi kölcsönszerződésben, valamint a külön jogszabályban meghatározott hallgatói hitelszerződésben vállalt fizetési kötelezettségének oly módon nem tesz eleget, hogy a lejárt és meg nem fizetett tartozásának összege meghaladja a késedelembe esés időpontjában érvényes legkisebb összegű havi minimálbért és ezen minimálbérösszeget meghaladó késedelem folyamatosan, több mint kilencven napon keresztül fennállt.
+130/C. § (1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1–1.2 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–g) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződésben, kereskedelmi kölcsönszerződésben, valamint a külön jogszabályban meghatározott hallgatói hitelszerződésben vállalt fizetési kötelezettségének oly módon nem tesz eleget, hogy a lejárt és meg nem fizetett tartozásának összege meghaladja a késedelembe esés időpontjában érvényes legkisebb összegű havi minimálbért és ezen minimálbérösszeget meghaladó késedelem folyamatosan, több mint kilencven napon keresztül fennállt.
 
 (2) Ugyanazon személy (1) bekezdés szerinti szerződésszegését több jogviszony egyidejű fennállása esetén jogviszonyonként külön-külön kell figyelembe venni.
 
-130/D. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1 és 1.3 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződés, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés megkötésének kezdeményezése során valótlan adatot közöl, hamis vagy hamisított okiratot használ, ha mindez okirattal bizonyítható.
+130/D. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1 és 1.3 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–g) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződés, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés megkötésének kezdeményezése során valótlan adatot közöl, hamis vagy hamisított okiratot használ, ha mindez okirattal bizonyítható.
 
 130/E. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1 és 1.4 pontja szerinti referenciaadatait,
 
@@ -3479,7 +3599,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 - b) aki a készpénz-helyettesítő fizetési eszköz használata során jogosulatlanul más személy személyazonosító vagy egyéb kódját, illetve más azonosító adatát használja fel,
 - c) akivel szemben a készpénz-helyettesítő fizetési eszköz használata miatt a bíróság jogerős határozatában a Btk. 313/C. §-ában meghatározott bűncselekmény elkövetését állapítja meg.
 
-130/F. § (1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja a 2. számú melléklet V. fejezete 4. pontja szerinti vállalkozásoknak a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződésével kapcsolatos, a 3. számú melléklet II. fejezetének 2.1 és 2.2 pontja szerinti referenciaadatait.
+130/F. § (1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja a 2. számú melléklet V. fejezete 4. pontja szerinti vállalkozásoknak a 3. § (1) bekezdésének b)–c) és e)–g) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződésével kapcsolatos, a 3. számú melléklet II. fejezetének 2.1 és 2.2 pontja szerinti referenciaadatait.
 
 (2) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a vállalkozásnak a 3. számú melléklet II. fejezetének 2.1 és 2.3 pontja szerinti referenciaadatait, amelynek fizetési számlájával szemben – fedezethiány miatt – harminc napot meghaladó időszak alatt, megszakítás nélkül, egy millió forintnál nagyobb összegű sorba állított követelést tartanak nyilván.
 
@@ -3592,7 +3712,7 @@ nyújthatja be.
   - ca) egyidejűleg pénzforgalmi szolgáltatója a fizető félnek és a kedvezményezettnek és kizárólagosan felel a fizetési rendszer működtetéséért, valamint
   - cb) pénzforgalmi szolgáltatók részére engedélyezi a fizetési rendszerben történő részvételt, akik nem jogosultak arra, hogy a fizetési rendszerrel összefüggő díjakról egymással vagy egymás között megállapodjanak, ide nem értve a fizető felek és a kedvezményezettek tekintetében történő saját díjszabályzat megállapítását.
 
-## V. RÉSZ — A PÉNZÜGYI INTÉZMÉNYEK ÉS A PÉNZFORGALMI INTÉZMÉNYEK SZÁMVITELEÉS KÖNYVVIZSGÁLATA
+## V. RÉSZ — A PÉNZÜGYI INTÉZMÉNYEK, A PÉNZFORGALMI INTÉZMÉNYEKÉS AZ ELEKTRONIKUSPÉNZ-KIBOCSÁTÓ INTÉZMÉNYEK SZÁMVITELE ÉS KÖNYVVIZSGÁLATA
 
 ### XXI. Fejezet — Könyvvezetés
 
@@ -3603,11 +3723,11 @@ nyújthatja be.
 - a) tegye lehetővé a pénzügyi intézmény belső ellenőrzését,
 - b) biztosítsa a gondos és megbízható irányítást, vezetést, ideértve a vezető állású személyek tevékenységének a megítélését, valamint a tulajdonosok, a könyvvizsgáló, a Felügyelet és az MNB által történő ellenőrzést, továbbá segítse a pénzügyi intézményt abban, hogy eleget tegyen a jogszabályokban és a szerződésekben előírt kötelezettségek teljesítésének.
 
-(3) Az (1)–(2) bekezdésben foglaltaknak a pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan a pénzforgalmi intézménynek is meg kell felelnie.
+(3) Az (1)–(2) bekezdésben foglaltaknak a pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan a pénzforgalmi intézménynek, az elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan az elektronikuspénz-kibocsátó intézménynek is meg kell felelnie.
 
 (4) A zálogkölcsönzési tevékenységet folytató pénzügyi vállalkozásnak, a pénzforgalmi szolgáltatási tevékenységet folytató vállalkozásnak, valamint a zálogkölcsönzési, illetve pénzforgalmi szolgáltatási tevékenységet kiemelt közvetítői tevékenységként, illetve pénzforgalmi közvetítői tevékenységként közvetítőnek a számvitelről szóló törvény szerinti napi készpénz záró állomány maximális mértékének, illetve havi szintű átlagának megállapítása során nem kell figyelembe vennie az e tevékenység céljára szolgáló elkülönítetten nyilvántartott készpénzállományt vagy az e tevékenység folytatása során birtokába került, a megbízót, illetve az ügyfelet megillető készpénzállomány elkülönített nyilvántartásban szereplő, kötelezettségként kimutatott összegét.
 
-132. § (1) A pénzügyi intézmény és a pénzforgalmi intézmény köteles az arra jogosult testület által elfogadott – könyvvizsgálói záradékot is tartalmazó – éves beszámolót, valamint az adózott eredmény felhasználására vonatkozó határozatot a Felügyeletnek annak elfogadásától számított tizenöt munkanapon belül, de legkésőbb a tárgyévet követő év május 31-éig, az összevont (konszolidált) éves beszámolót annak elfogadásától számított tizenöt munkanapon belül, de legkésőbb a tárgyévet követő év június 30-áig megküldeni.
+132. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles az arra jogosult testület által elfogadott – könyvvizsgálói záradékot is tartalmazó – éves beszámolót, valamint az adózott eredmény felhasználására vonatkozó határozatot a Felügyeletnek annak elfogadásától számított tizenöt munkanapon belül, de legkésőbb a tárgyévet követő év május 31-éig, az összevont (konszolidált) éves beszámolót annak elfogadásától számított tizenöt munkanapon belül, de legkésőbb a tárgyévet követő év június 30-áig megküldeni.
 
 (2) A 3. § (2) bekezdésének a) és c) pontjaiban meghatározott kiegészítő pénzügyi szolgáltatásokat végző jogi személy könyvvezetésére és könyvvizsgálatára a 131–137. § rendelkezéseit nem kell alkalmazni.
 
@@ -3615,13 +3735,12 @@ nyújthatja be.
 
 ### XXII. Fejezet — Könyvvizsgálat
 
-133. § (1) Pénzügyi intézmény, pénzforgalmi intézmény esetén – a gazdasági társaságokról szóló törvénynek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgálói társaság) részére megbízás, ha
+133. § (1) Pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény esetén – a gazdasági társaságokról szóló törvénynek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgálói társaság) részére megbízás, ha
 
-- a)
-- b) a könyvvizsgáló (könyvvizsgálói társaság) pénzügyi intézményi minősítéssel rendelkezik,
-- c) a könyvvizsgáló nem rendelkezik a hitelintézetben közvetlen vagy közvetett tulajdonnal,
-- d) a könyvvizsgálónak nincs a hitelintézettel szemben fennálló kölcsöntartozása, valamint
-- e) a minősített befolyással rendelkező tulajdonos a könyvvizsgáló cégben közvetlen vagy közvetett tulajdonnal nem rendelkezik.
+- a) a könyvvizsgáló (könyvvizsgálói társaság) pénzügyi intézményi minősítéssel rendelkezik,
+- b) a könyvvizsgáló nem rendelkezik a hitelintézetben, pénzforgalmi intézményben és elektronikuspénz-kibocsátó intézményben közvetlen vagy közvetett tulajdonnal,
+- c) a könyvvizsgálónak nincs a hitelintézettel, pénzforgalmi intézménnyel és elektronikuspénz-kibocsátó intézménnyel szemben fennálló kölcsöntartozása, valamint
+- d) a minősített befolyással rendelkező tulajdonos a könyvvizsgáló cégben közvetlen vagy közvetett tulajdonnal nem rendelkezik.
 
 (2) Az (1) bekezdés c)–d) pontjaiban foglalt korlátozásokat a könyvvizsgáló közvetlen hozzátartozójára is alkalmazni kell.
 
@@ -3641,7 +3760,7 @@ nyújthatja be.
 - c) könyvvizsgálói társaság egy-egy hitelintézettől származó bevétele nem haladhatja meg éves nettó árbevételének tíz százalékát,
 - d) a könyvvizsgáló társaságnak az egy tulajdonosi csoporthoz tartozó pénzügyi intézményektől, befektetési szolgáltatóktól, befektetési alapkezelő társaságoktól, tőzsdétől, illetőleg elszámolóházi tevékenységet végző szervezettől, valamint a tulajdonosi csoporthoz tartozó befektetési alapkezelő társaság által kezelt befektetési alaptól származó bevétele nem haladhatja meg éves nettó árbevételének harminc százalékát.
 
-(6) Pénzügyi intézmény, pénzforgalmi intézmény nem adhat könyvvizsgálói megbízást a Felügyelet alkalmazottjának, illetőleg annak közeli hozzátartozójának.
+(6) Pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény nem adhat könyvvizsgálói megbízást a Felügyelet alkalmazottjának, illetőleg annak közeli hozzátartozójának.
 
 133/A. §
 
@@ -3656,12 +3775,12 @@ nyújthatja be.
 
 (2) A pénzügyi intézmény összevont (konszolidált) éves beszámolóját felülvizsgáló könyvvizsgáló írásban haladéktalanul tájékoztatja a Felügyeletet, ha a pénzügyi intézménnyel ellenőrző befolyás miatt szoros kapcsolatban álló vállalkozásnál olyan tényeket állapít meg, amelyek a pénzügyi intézmény folyamatos működését kedvezőtlenül érintik, vagy az (1) bekezdés a), c) pontjában foglaltak fennállására utalnak.
 
-(3) A pénzforgalmi intézmény könyvvizsgálója a vizsgálatának eredményéről a pénzforgalmi intézménnyel egyidejűleg a Felügyeletet írásban haladéktalanul tájékoztatja, ha olyan tényt állapított meg, amelynek alapján
+(3) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény könyvvizsgálója a vizsgálatának eredményéről a pénzforgalmi intézménnyel vagy az elektronikuspénz-kibocsátó intézménnyel egyidejűleg a Felügyeletet írásban haladéktalanul tájékoztatja, ha olyan tényt állapított meg, amelynek alapján
 
-- a) a pénzforgalmi szolgáltatásra vonatkozó jogszabályokban foglalt előírások súlyos megsértésére utaló körülményeket észlel,
-- b) a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenysége folyamatos működését, kötelezettségeinek teljesítését nem látja biztosítottnak,
+- a) a pénzforgalmi szolgáltatásra és elektronikuspénz-kibocsátásra vonatkozó jogszabályokban foglalt előírások súlyos megsértésére utaló körülményeket észlel,
+- b) a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenysége, illetve az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási tevékenysége folyamatos működését, kötelezettségeinek teljesítését nem látja biztosítottnak,
 - c) a könyvvizsgálói záradék korlátozása vagy megtagadása válhat szükségessé, vagy
-- d) a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenysége belső ellenőrzési rendszerének súlyos hiányosságait vagy elégtelenségét állapítja meg.
+- d) a pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenysége, illetve az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási tevékenysége belső ellenőrzési rendszerének súlyos hiányosságait vagy elégtelenségét állapítja meg.
 
 (4) Az (1) és (3) bekezdésben fel nem sorolt esetekben is
 
@@ -3681,11 +3800,11 @@ nyújthatja be.
 
 (2) A könyvvizsgálónak az (1) bekezdésben foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az igazgatóságnak, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek, valamint – a szövetkezeti hitelintézet könyvvizsgálója kivételével – az MNB-nek legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
 
-137. § (1) A pénzügyi intézmény és a pénzforgalmi intézmény köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
+137. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
 
-(2) A Felügyelet jogosult a könyvvizsgáló jelentésének alapján – az éves beszámoló jóváhagyása előtt – a pénzügyi intézménynél és a pénzforgalmi intézménynél kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót vizsgáltassa felül, helyesbítse, gondoskodjon a helyesbített adatok könyvvizsgálóval történő hitelesítéséről.
+(2) A Felügyelet jogosult a könyvvizsgáló jelentésének alapján – az éves beszámoló jóváhagyása előtt – a pénzügyi intézménynél, a pénzforgalmi intézménynél és az elektronikuspénz-kibocsátó intézménynél kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót vizsgáltassa felül, helyesbítse, gondoskodjon a helyesbített adatok könyvvizsgálóval történő hitelesítéséről.
 
-(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a pénzügyi intézményt és a pénzforgalmi intézményt az adatok módosítására és könyvvizsgálóval való felülvizsgálatára. A módosított és a könyvvizsgáló által felülvizsgált adatot a pénzügyi intézmény és a pénzforgalmi intézmény köteles a Felügyeletnek bemutatni.
+(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a pénzügyi intézményt, a pénzforgalmi intézményt és az elektronikuspénz-kibocsátó intézményt az adatok módosítására és könyvvizsgálóval való felülvizsgálatára. A módosított és a könyvvizsgáló által felülvizsgált adatot a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles a Felügyeletnek bemutatni.
 
 ## V/A. RÉSZ — A NYILVÁNOSSÁGRA HOZATAL KÖVETELMÉNYE
 
@@ -3728,7 +3847,7 @@ nem köteles nyilvánosságra hozni.
 
 (10) A hitelintézet a minősítési döntésének indokairól a hitelkérelmet benyújtó gazdálkodó szervezet részére – annak kérésére – írásban tájékoztatást ad. A tájékoztatással kapcsolatos adminisztrációs költségnek megfelelő arányban kell állnia a hitel összegével.
 
-## VI. RÉSZ — A PÉNZÜGYI INTÉZMÉNYEK ÉS PÉNZFORGALMI INTÉZMÉNYEK TEVÉKENYSÉGÉNEK FELÜGYELETE
+## VI. RÉSZ — A PÉNZÜGYI INTÉZMÉNYEK, PÉNZFORGALMI INTÉZMÉNYEKÉS AZ ELEKTRONIKUSPÉNZ-KIBOCSÁTÓ INTÉZMÉNYEK TEVÉKENYSÉGÉNEK FELÜGYELETE
 
 ### XXIII. Fejezet — A Felügyelet
 
@@ -3742,7 +3861,7 @@ nem köteles nyilvánosságra hozni.
 
 ### A felügyeleti díj
 
-139/A. § (1) A pénzügyi intézmény; a pénzforgalmi intézmény; a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás; a független közvetítő és a bankképviselet a Felügyelet részére felügyeleti díjat fizet.
+139/A. § (1) A pénzügyi intézmény; a pénzforgalmi intézmény; az elektronikuspénz-kibocsátó intézmény; a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás; a független közvetítő és a bankképviselet a Felügyelet részére felügyeleti díjat fizet.
 
 (2) A felügyeleti díj a (3)–(4) bekezdés szerint számított alapdíj, valamint az (5)–(9) bekezdés szerint számított változó díj összege.
 
@@ -3751,7 +3870,7 @@ nem köteles nyilvánosságra hozni.
 (4) A szorzószám
 
 - a) bank és szakosított hitelintézet esetén: negyven,
-- b) szövetkezeti hitelintézet, pénzügyi vállalkozás és pénzforgalmi intézmény esetén: négy,
+- b) szövetkezeti hitelintézet, pénzügyi vállalkozás, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény esetén: négy,
 - c) az Európai Unió másik tagállamában székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepe esetén: négy,
 - d) kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek és pénzforgalmi intézménynek nem minősülő – vállalkozás, bankképviselet és a független közvetítő esetén: egy.
 
@@ -3764,7 +3883,7 @@ nem köteles nyilvánosságra hozni.
 
 (6) A pénzügyi vállalkozás által fizetendő változó díj éves mértéke a pénzügyi vállalkozás éves beszámolója szerinti mérlegfőösszeg 0,2 ezreléke azzal, hogy a kizárólag csoportfinanszírozást végző pénzügyi vállalkozás esetén a változó éves díj éves mértéke legfeljebb egymillió forint.
 
-(7) A pénzforgalmi intézmény által fizetendő változó díj éves mértéke a 87/D. § (1) bekezdése szerint számított tőkekövetelmény 3,8 ezreléke.
+(7) A pénzforgalmi intézmény által fizetendő változó díj éves mértéke a 87/D. § (1) bekezdése szerint számított, az elektronikuspénz-kibocsátó intézmény által fizetendő éves díj mértéke a 87/M. § (1) bekezdése szerint számított tőkekövetelmény 3,8 ezreléke.
 
 (8) Ha az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke
 
@@ -3805,7 +3924,7 @@ nem köteles nyilvánosságra hozni.
 - b) a külföldi hitelintézet vagy annak bármely államban működő fióktelepe fizetésképtelenné vált,
 - c) a külföldi hitelintézet főirodája, illetőleg székhelye szerinti felügyeleti hatóság az adott hitelintézettel vagy annak bármely államban működő fióktelepével szemben intézkedést, illetve szankciót alkalmazott.
 
-143. § A pénzügyi intézmény, a pénzforgalmi intézmény és a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy – jogszabályban előírt tartalommal, módon és formában, rendszeres időközönként – köteles az MNB-nek és a Felügyeletnek adatszolgáltatást teljesíteni.
+143. § A pénzügyi intézmény; a pénzforgalmi intézmény; az elektronikuspénz-kibocsátó intézmény és a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy – jogszabályban előírt tartalommal, módon és formában, rendszeres időközönként – köteles az MNB-nek és a Felügyeletnek adatszolgáltatást teljesíteni.
 
 144. § A pénzügyi intézmény számára a Felügyelet – határozott időre – az általa meghatározott tartalommal és rendszerességgel történő olyan (rendkívüli) adatszolgáltatási kötelezettséget írhat elő, amelyet
 
@@ -3820,7 +3939,7 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 144/A. § A magyarországi bejegyzésű hitelintézet köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság lett, vagy ezen viszony módosul, illetőleg megszűnik.
 
-145. § A Felügyelet a pénzügyi intézménytől, a pénzforgalmi intézménytől, valamint pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személytől közbülső beszámoló, meghatározott formájú és tagolású kimutatás, könyvvizsgálati jelentés bemutatását kérheti, továbbá a pénzügyi intézménytől, a pénzforgalmi intézménytől, annak szerveitől valamennyi üzleti ügyéről felvilágosítást kérhet.
+145. § A Felügyelet a pénzügyi intézménytől, a pénzforgalmi intézménytől, az elektronikuspénz-kibocsátó intézménytől, valamint pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személytől közbülső beszámoló, meghatározott formájú és tagolású kimutatás, könyvvizsgálati jelentés bemutatását kérheti, továbbá a pénzügyi intézménytől, a pénzforgalmi intézménytől, az elektronikuspénz-kibocsátó intézménytől, annak szerveitől valamennyi üzleti ügyéről felvilágosítást kérhet.
 
 ### Felügyeleti felülvizsgálat
 
@@ -3878,17 +3997,17 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 ### Az intézkedések, a kivételes intézkedésekés a bírság alkalmazásának közös szabályai
 
-150. § (1) A Felügyelet a pénzügyi intézménnyel, pénzforgalmi intézménnyel szemben alkalmazott intézkedés és kivételes intézkedés alkalmazása, illetve bírság kiszabása esetén a határozattal egyidejűleg az MNB-t, valamint – ha a határozat az Alap e törvény szerinti feladatainak ellátására kihathat, illetve a határozat meghozatalára a pénzügyi intézménynek az Alap tevékenységével összefüggő kötelezettsége megsértése miatt került sor, akkor – az Alapot értesíti.
+150. § (1) A Felügyelet a pénzügyi intézménnyel, pénzforgalmi intézménnyel és elektronikuspénz-kibocsátó intézménnyel szemben alkalmazott intézkedés és kivételes intézkedés alkalmazása, illetve bírság kiszabása esetén a határozattal egyidejűleg az MNB-t, valamint – ha a határozat az Alap e törvény szerinti feladatainak ellátására kihathat, illetve a határozat meghozatalára a pénzügyi intézménynek az Alap tevékenységével összefüggő kötelezettsége megsértése miatt került sor, akkor – az Alapot értesíti.
 
 (2) A Felügyelet akkor is értesíti az MNB-t és az Alapot, ha a hitelintézet anyavállalatának felügyeletét ellátó hatóság tájékoztatása alapján olyan helyzet fennállását állapítja meg, amely az Alap e törvény szerinti feladatainak ellátására kihathat.
 
-151. § (1) A Felügyeletnek mérlegelnie kell az intézkedés szükségességét, ha a pénzügyi intézmény, a pénzforgalmi intézmény, valamint a pénzügyi intézménynek, pénzforgalmi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye, illetőleg tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra, illetőleg a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásait, illetőleg tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen
+151. § (1) A Felügyeletnek mérlegelnie kell az intézkedés szükségességét, ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény, valamint a pénzügyi intézménynek, pénzforgalmi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy, ezek vezető állású személye, illetőleg tulajdonosa megsérti az e törvény, az eredményes, megbízható és független tulajdonlásra, illetőleg a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásait, illetőleg tevékenységét nyilvánvalóan nem elvárható gondossággal végzi, így különösen
 
 - a) döntési, illetőleg eljárási szabályzatai nem felelnek meg az előírásoknak, illetőleg a működés során ezeket nem tartja be,
 - b) számviteli, nyilvántartási és ellenőrzési rendszere nem felel meg a mindenkor hatályos jogszabályok rendelkezéseinek,
 - c) határidőben nem tesz eleget a Felügyelettel, a részvényeseivel, az Alappal szemben fennálló adatszolgáltatási, jelentési, illetőleg tájékoztatási kötelezettségének,
 - d) a könyvvizsgálójának tevékenysége nem felel meg a jogszabályi rendelkezéseknek, vagy késedelmesen, pontatlanul tájékoztatja az igazgatóságot, felügyelő bizottságot, illetve a Felügyeletet a pénzügyi intézménynél tapasztalt jogszabálysértésekről, hiányosságokról és egyéb – a prudens működését veszélyeztető – problémákról,
-- e) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében rögzített tőkekövetelményt,
+- e) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében 3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1)–(2) bekezdésében rögzített tőkekövetelményt,
 - f) a kockázatvállalásra, a kockázatok megállapítására, elemzésére, értékelésére és behatárolására, a kockázatvállalás ellenőrzésére, a kockázatok kezelésére, továbbá csökkentésére vonatkozó szabályok valamelyikét megsérti,
 - g) elmulasztja a közgyűlésnek a Felügyelet intézkedéseiről történő tájékoztatását, valamint, ha a hitelintézet 1. az azonnali fizetőképesség, illetőleg a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat nem tartja be, 2. nem tesz eleget tartalékképzési kötelezettségeinek,
 - h) nem teljesíti a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben előírt kötelezettségét,
@@ -3896,11 +4015,11 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 - j)
 - k) ha a pénzügyi intézmény nem tesz eleget a 115. § (6) bekezdésében foglalt kötelezettségének.
 
-(2) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – meg kell tennie a szükséges intézkedést (153. §, 155–156. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény
+(2) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – meg kell tennie a szükséges intézkedést (153. §, 155–156. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény
 
 - a) jogszabály által tiltott vagy részére nem engedélyezett tevékenységet végez,
 - b) működése során nem tud folyamatosan megfelelni egyes, az e törvényben meghatározott engedélyezési feltételeknek,
-- c) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében rögzített tőkekövetelmény hetvenöt százalékát,
+- c) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében 3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1)–(2) bekezdésében rögzített tőkekövetelmény hetvenöt százalékát,
 - d) osztalékot kíván fizetni vagy fizet olyan helyzetben, ha szavatoló tőkéje nem éri el a 76. § (1)–(2) bekezdésében rögzített tőkekövetelményt, illetve az adott évben általános tartalékát nem képezte meg,
 - e) nem rendelkezik elégséges céltartalékkal, illetve eszközei értékelése nem megfelelő és emiatt szavatoló tőkéjét csökkentenie kell az el nem számolt céltartalékképzés, illetve értékvesztés összegével,
 - f) a kockázatvállalásra vonatkozó szabályokat rendszeresen, illetőleg jelentős mértékben megsérti (így például a megfelelő gondosság és körültekintés nélkül vállal kockázatokat),
@@ -3912,9 +4031,9 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 - l) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést, illetőleg bírságot megállapító határozat jogerőre emelkedését követő két éven belül – ismételten megsérti,
 - m) a rá vonatkozó tőkemegfelelési előírásnak csak úgy tud megfelelni, hogy nem fizeti vissza lejáratkor a kiegészítő alárendelt kölcsönt.
 
-(3) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak súlyos megsértése esetén meg kell tennie a szükséges intézkedéseket, illetőleg kivételes intézkedéseket (157–160. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény
+(3) A Felügyeletnek e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a pénzforgalomról szóló jogszabályok – ide nem értve az MNB pénzforgalom lebonyolításáról szóló rendeletét – előírásainak súlyos megsértése esetén meg kell tennie a szükséges intézkedéseket, illetőleg kivételes intézkedéseket (157–160. §), ha a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény
 
-- a) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében rögzített tőkekövetelmény hatvan százalékát,
+- a) szavatoló tőkéje nem éri el 1. hitelintézet esetében a 76. § (1)–(2) bekezdésében, 2. pénzforgalmi intézmény esetében a 87/D. § (1)–(2) bekezdésében 3. elektronikuspénz-kibocsátó intézmény esetében a 87/M. § (1)–(2) bekezdésében rögzített tőkekövetelmény hatvan százalékát,
 - b) osztalékot kíván fizetni vagy fizet olyan helyzetben, ha szavatoló tőkéje nem éri el a 76. § (1)–(2) bekezdésében rögzített tőkekövetelmény ötven százalékát,
 - c) nem tesz eleget céltartalékképzési, illetve értékvesztés elszámolási kötelezettségének, illetőleg nem rendelkezik elégséges céltartalékkal, illetve elszámolt értékvesztéssel, azaz mérlegen kívüli tételeit és eszközeit nem megfelelően értékelte és emiatt az el nem számolt céltartalékképzés, illetve értékvesztés összegével csökkentett szavatoló tőke következtében fizetőképességi mutatója négy százalék alá csökken,
 - d) az azonnali fizetőképesség, illetőleg a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírások be nem tartásával a hitelintézet likviditásának fenntartását súlyosan veszélyezteti,
@@ -3950,7 +4069,7 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 ### Intézkedések
 
-153. § (1) Az előírások megsértése, illetőleg hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, pénzforgalmi intézmény prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazza:
+153. § (1) Az előírások megsértése, illetőleg hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazza:
 
 - a) a vezető állású személlyel folytatott tárgyalás keretében a pénzügyi intézményt felhívhatja, hogy tegye meg a szükséges intézkedéseket 1. e törvény, illetőleg a prudens működésre vonatkozó jogszabályok előírásainak betartására, a feltárt hiányosságok megszüntetésére, 2. pénzügyi helyzetének megőrzésére, illetőleg javítására;
 - b) javaslatot tehet a pénzügyi intézménynek 1. az alkalmazottak (vezetők) szakmai továbbképzésére vagy megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére, 2. üzletszabályzat, illetve belső szabályzat meghatározott határidőn belüli kidolgozására vagy meghatározott szempontok szerinti átdolgozására, 3. ügyvezetési módszereinek megváltoztatására;
@@ -4089,16 +4208,14 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (3) A Felügyelet közvetlenül is intézkedhet abban az esetben, ha úgy ítéli meg, hogy a szabályellenes helyzet fennállása súlyosan veszélyezteti a pénzügyi rendszer stabilitását, illetve az ügyfelek érdekeit. A Felügyelet ilyen jellegű intézkedéseit az Európai Bizottság felülvizsgálja és annak jogosságát utólagosan mérlegeli.
 
-### Pénzforgalmi szolgáltatókra vonatkozó különös rendelkezések
+### Pénzforgalmi szolgáltatókra és az elektronikus pénz kibocsátójára vonatkozó különös rendelkezések
 
-168/B. § (1) A Felügyelet az e törvényben és a pénzforgalomról szóló jogszabályokban, felügyeleti határozatban foglalt kötelezettségek sérelme esetén a hitelintézetnek nem minősülő pénzforgalmi szolgáltatóval szemben – a (2)–(3) bekezdésben meghatározott kivételekkel – a 153. §-ban és 157–160. §-ban meghatározott intézkedéseket, kivételes intézkedéseket alkalmazhatja, valamint a 169–175. §-ban meghatározott bírságot szabhat ki.
+168/B. § (1) A Felügyelet az e törvényben és a pénzforgalomról szóló jogszabályokban, felügyeleti határozatban foglalt kötelezettségek sérelme esetén a hitelintézetnek nem minősülő pénzforgalmi szolgáltatóval, elektronikus pénz kibocsátójával szemben – a (2)–(3) bekezdésben meghatározott kivételekkel – a 153. §-ban és 157–160. §-ban meghatározott intézkedéseket, kivételes intézkedéseket alkalmazhatja, valamint bírságot szabhat ki.
 
 (2) A 153. § (2) bekezdés c) pontjának 6. alpontjától eltérően a Felügyelet nem tilthatja meg
 
-- a) a kincstár pénzforgalmi szolgáltatási tevékenységének,
-- b) a Posta Elszámoló Központot működtető intézmény készpénz-átutalási, fizetési számlára történő készpénz-befizetési, és fizetési számláról történő készpénz-kifizetési tevékenységének
-
-végzését.
+- a) a kincstár pénzforgalmi szolgáltatási és elektronikuspénz-kibocsátási tevékenységének,
+- b) a Posta Elszámoló Központot működtető intézmény készpénz-átutalási, fizetési számlára történő készpénz-befizetési, és fizetési számláról történő készpénz-kifizetési tevékenységének végzését.
 
 (3) A Felügyelet a pénzforgalomról szóló jogszabályokban, valamint a felügyeleti határozatban foglalt kötelezettségek sérelme esetén az MNB-vel szemben a 153. § (1) bekezdés a) pontjának 1. alpontjában és b) pontjának 2. alpontjában, valamint f) pontjában meghatározott intézkedéseket alkalmazhatja.
 
@@ -4262,7 +4379,7 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 186. § (1) A Felügyelet a törvényben meghatározott hatáskör ellátásához szükséges mértékben adatot kezelhet, ideértve az e törvényben meghatározott körben kezelt személyes adatot is.
 
-(2) A Felügyelet nyilvántartásba veszi a pénzügyi intézmény és a pénzforgalmi intézmény következő adatait:
+(2) A Felügyelet nyilvántartásba veszi a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény következő adatait:
 
 - a) név, székhely;
 - b) tevékenységi kör, ideértve a pénzforgalmi intézmény engedélyezés alá nem eső egyéb tevékenységeit is;
@@ -4298,7 +4415,7 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 - b) a tevékenység végzésének helyét,
 - c) a tevékenység engedélyezésének, bejelentéshez kötött tevékenység esetén a bejelentés időpontját,
 - d) azt az adatot, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügynök, pénzforgalmi közvetítő, többes kiemelt közvetítő, többes ügynök, alkusz vagy közvetítői alvállalkozó,
-- e) a közvetítőt megbízó pénzügyi intézmény, pénzforgalmi intézmény nevét,
+- e) a közvetítőt megbízó pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevét,
 - f) a szolgáltatási tevékenysége megkezdésének időpontját,
 - g) a közvetítői alvállalkozó esetén a közvetítő nevét,
 - h) a független közvetítőnél vezető állású személynek
@@ -4313,10 +4430,10 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 190. § (1) A Felügyelet az e törvényben meghatározott feladatai ellátásához a 186–188. §-ban meghatározott, valamint az általa elrendelt adatszolgáltatások alapján nyilvántartja:
 
-- a) a pénzügyi intézményeket, pénzforgalmi intézményeket, bankképviseleteket, járulékos vállalkozásokat, a közvetítőket,
+- a) a pénzügyi intézményeket, pénzforgalmi intézményeket, elektronikuspénz-kibocsátó intézményeket, bankképviseleteket, járulékos vállalkozásokat, a közvetítőket,
 - b) a kiegészítő pénzügyi szolgáltatást végző vállalkozásokat,
-- c) a pénzügyi intézmény, a pénzforgalmi intézmény, a független közvetítő tulajdonosait,
-- d) a pénzügyi intézmény, a pénzforgalmi intézmény, a független közvetítő vezető állású személyeit,
+- c) a pénzügyi intézmény, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, a független közvetítő tulajdonosait,
+- d) a pénzügyi intézmény, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, a független közvetítő vezető állású személyeit,
 - e) a könyvvizsgálót,
 - f) a kérelmezőket.
 
@@ -4327,7 +4444,7 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 - c) a vezető állású személy tisztségét, a betöltött munkakört, a megbízás tárgyát, a jogviszony jellegét, a szakmai önéletrajzot, továbbá a Felügyelet által alkalmazott, a nyilvántartottal kapcsolatos intézkedéseket,
 - d) az engedély kiadásával vagy visszaadásával kapcsolatos kérelem tartalmát, továbbá a kérelem elbírálásához csatolt dokumentum adatait,
 - e) a hitelintézet belső szabályait, így különösen az alapszabályt, az üzletszabályzatot, az adós vagy hitelminősítési szabályzatot, a fizetőképesség biztosítására vonatkozó szabályzatot, a belső hitelszabályzatot,
-- f) a pénzügyi intézmény, a pénzforgalmi intézmény éves beszámolóját, valamint az eredmény felhasználására vonatkozó határozatot,
+- f) a pénzügyi intézmény, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény éves beszámolóját, valamint az eredmény felhasználására vonatkozó határozatot,
 - g) a hitelintézet közgyűléséről, az igazgatóság és a felügyelő bizottsági üléséről készült jegyzőkönyveket,
 - h) a panasz vagy közérdekű bejelentés esetén a panasztevő által megjelölt személyes adatokat és a panaszra okot adó eseményt és pénzügyi intézményt,
 - i) a szavatoló tőke és a tőkemegfelelés kiszámításának dokumentálását,
@@ -4594,31 +4711,31 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 ### Panaszkezelés
 
-215/B. § (1) A pénzügyi intézmény és a pénzforgalmi intézmény biztosítja, hogy az ügyfél a pénzügyi intézmény és a pénzforgalmi intézmény magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+215/B. § (1) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény biztosítja, hogy az ügyfél a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
-(2) A pénzügyi intézmény és a pénzforgalmi intézmény
+(2) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény
 
 - a) a szóbeli panaszt valamennyi, az ügyfelek számára nyitva álló helyiségben, annak nyitvatartási idejében, ennek hiányában a székhelyén minden munkanapon 8 órától 16 óráig,
 - b) a telefonon közölt szóbeli panaszt legalább a hét egy munkanapján 8 órától 20 óráig,
 - c) elektronikus eléréssel – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan fogadja.
 
-(3) Telefonon történő panaszkezelés esetén a pénzügyi intézmény és a pénzforgalmi intézmény biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
+(3) Telefonon történő panaszkezelés esetén a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
 
-(4) Telefonon történő panaszkezelés esetén a pénzügyi intézmény, a pénzforgalmi intézmény és az ügyfél közötti telefonos kommunikációt a pénzügyi intézmény és a pénzforgalmi intézmény hangfelvétellel rögzíti, és a hangfelvételt egy évig megőrzi. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
+(4) Telefonon történő panaszkezelés esetén a pénzügyi intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és az ügyfél közötti telefonos kommunikációt a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény hangfelvétellel rögzíti, és a hangfelvételt egy évig megőrzi. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 
-(5) A pénzügyi intézmény és a pénzforgalmi intézmény a szóbeli panaszt – a (6) bekezdésben meghatározott eltéréssel – azonnal megvizsgálja, és szükség szerint orvosolja. Ha az ügyfél a panasz kezelésével nem ért egyet, a pénzügyi intézmény és a pénzforgalmi intézmény a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (7) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
+(5) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a szóbeli panaszt – a (6) bekezdésben meghatározott eltéréssel – azonnal megvizsgálja, és szükség szerint orvosolja. Ha az ügyfél a panasz kezelésével nem ért egyet, a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (7) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
 
-(6) Ha a panasz azonnali kivizsgálása nem lehetséges, a pénzügyi intézmény és a pénzforgalmi intézmény a panaszról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (7) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
+(6) Ha a panasz azonnali kivizsgálása nem lehetséges, a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek – a (7) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
 
-(7) A pénzügyi intézmény és a pénzforgalmi intézmény az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek.
+(7) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek.
 
-(8) A panasz elutasítása esetén a pénzügyi intézmény és a pénzforgalmi intézmény válaszában tájékoztatja az ügyfelet arról, hogy panaszával – annak jellege szerint – a Felügyeletnek vagy a békéltető testületnek az eljárását kezdeményezheti, továbbá meg kell adni a Felügyeletnek és a békéltető testületnek a levelezési címét.
+(8) A panasz elutasítása esetén a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény válaszában tájékoztatja az ügyfelet arról, hogy panaszával – annak jellege szerint – a Felügyeletnek vagy a békéltető testületnek az eljárását kezdeményezheti, továbbá meg kell adni a Felügyeletnek és a békéltető testületnek a levelezési címét.
 
-(9) A pénzügyi intézmény és a pénzforgalmi intézmény a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
+(9) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
-(10) A pénzügyi intézmény és a pénzforgalmi intézmény az ügyfelek panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (13) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénzügyi intézmény és a pénzforgalmi intézmény a panaszkezelési szabályzatban tájékoztatja az ügyfelet a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
+(10) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az ügyfelek panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (13) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszkezelési szabályzatban tájékoztatja az ügyfelet a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról
 
-(11) A pénzügyi intézmény és a pénzforgalmi intézmény az ügyfelek panaszairól, valamint az azok rendezését, megoldását szolgáló intézkedésekről nyilvántartást vezet.
+(11) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az ügyfelek panaszairól, valamint az azok rendezését, megoldását szolgáló intézkedésekről nyilvántartást vezet.
 
 (12) A (11) bekezdés szerinti nyilvántartásnak tartalmaznia kell
 
@@ -4628,11 +4745,11 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - d) a c) pont szerinti intézkedés teljesítésének határidejét és a végrehajtásért felelős személy megnevezését, továbbá
 - e) a panasz megválaszolásának időpontját.
 
-(13) A pénzügyi intézmény és a pénzforgalmi intézmény a panaszkezelési szabályzatot az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti és a honlapján közzéteszi.
+(13) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panaszkezelési szabályzatot a honlapján közzéteszi és az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti.
 
-(14) A pénzügyi intézmény és a pénzforgalmi intézmény a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
+(14) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
 
-(15) A pénzügyi intézmény és a pénzforgalmi intézmény köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
+(15) A pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény köteles fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelölni, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenteni.
 
 ### XXX. Fejezet — Szövetkezeti hitelintézet
 
@@ -4681,23 +4798,32 @@ esetében kell alkalmazni.
 
 ### XXXI. Fejezet — Elektronikus pénz kibocsátása és visszaváltása
 
-218. § (1) Az elektronikus pénz kibocsátásakor átvett készpénz vagy az átutalt számlapénz nem lehet kevesebb, mint a kibocsátott elektronikus pénz értéke.
+218. § (1) Az elektronikus pénz kibocsátója az átvett pénzeszközök ellenében, az átvételt követően haladéktalanul, névértéken bocsát ki elektronikus pénzt.
 
-(2) A kibocsátó az elektronikus pénzre kamatot nem fizethet, továbbá egyéb előnyt sem biztosíthat.
+(2) Az elektronikus pénz kibocsátója az elektronikuspénz-birtokos kérésére, az annak birtokában lévő elektronikus pénzt bármikor, névértéken visszaváltja. Ha az elektronikuspénz-birtokos a visszaváltást a szerződés megszűnését megelőzően kezdeményezi, akkor az elektronikus pénzt az elektronikus pénz kibocsátója az elektronikuspénz-birtokos kérésének megfelelően vagy részben vagy teljesen köteles visszaváltani.
 
-(3) A kibocsátó üzletszabályzatának tartalmaznia kell az elektronikus pénz visszaváltásának feltételeit, és amennyiben a visszaváltásra érvényességi időszakot állapít meg, annak időtartamát.
+(3) Az elektronikus pénz kibocsátója és az elektronikuspénz-birtokos között létrejött szerződés egyértelműen és világosan tartalmazza a visszaváltás feltételeit és díját. A szerződéses feltételekről és a visszaváltás díjáról az elektronikuspénz-birtokost a szerződés megkötését megelőzően tájékoztatni kell.
 
-(4) Az érvényességi időszak öt naptári évnél nem lehet rövidebb.
+(4) A visszaváltásért díj a (3) bekezdéssel összhangban kizárólag a következő esetekben számítható fel:
 
-(5) Elektronikus pénzzel újratölthető elektronikus pénzeszköz esetén az érvényességi időszak a legutolsó feltöltés időpontjától számítandó.
+- a) ha az elektronikuspénz-birtokos a visszaváltást a szerződés megszűnése előtt kéri,
+- b) ha a szerződés határozott időre jött létre, és az elektronikuspénz-birtokos ezen határozott idő eltelte előtt kívánja felmondani a szerződést,
+- c) ha a visszaváltást az elektronikuspénz-birtokos a szerződés megszűnését követően legalább egy évvel kéri.
 
-(6) Az érvényességi időszak alatt a kibocsátó köteles az általa kibocsátott, kinnlevő elektronikus pénzt névértéken visszaváltani.
+(5) A (4) bekezdésben említett díjnak az elektronikus pénz kibocsátója ténylegesen felmerült költségeivel arányosnak és összehasonlíthatónak kell lennie.
 
-(7) A visszaváltás készpénzben történő kifizetéssel vagy bankszámlára történő átutalással teljesíthető.
+(6) Amennyiben az elektronikuspénz-birtokos a visszaváltást a szerződés megszűnésekor vagy a megszűnést követő legfeljebb egy éven belül kéri,
 
-(8) A visszaváltásért a kibocsátó a művelet végrehajtása során ténylegesen felmerülő költségeken felül további díjat nem számolhat fel.
+- a) úgy az elektronikus pénz kibocsátója az elektronikus pénz teljes összegét visszaváltja vagy
+- b) amennyiben az elektronikuspénz-kibocsátó intézmény a 6/C. § (5) bekezdésében meghatározott egyéb üzleti tevékenységet is folytat, és ennek következtében nem határozható meg előre, hogy a pénzeszközei milyen arányát fogja elektronikus pénzként használni, az elektronikuspénz-kibocsátó intézménynek valamennyi, az elektronikuspénz-birtokos által követelt pénzeszközt vissza kell váltania.
 
-(9) Ötszáz forintot meg nem haladó összeg esetén a kibocsátó nem köteles a kinnlevő elektronikus pénzt visszaváltani.
+(7) Az (4)–(6) bekezdésben meghatározottak kizárólag a fogyasztóra, mint elektronikuspénz-birtokosra vonatkoznak, más elektronikuspénz-birtokos személyek elektronikuspénz-visszaváltásának feltételeire az ezen személyek és az elektronikus pénz kibocsátója között létrejött szerződésben meghatározott feltételek az irányadóak.
+
+(8) Az elektronikus pénz kibocsátója az elektronikus pénzre kamatot nem fizethet, továbbá egyéb juttatást sem biztosíthat.
+
+(9) Jelen paragrafus vonatkozásában a fogyasztóvédelemről szóló 1997. évi CLV. törvény szerinti fogyasztót kell érteni.
+
+(10) Az (1)–(8) bekezdésekben foglaltakat az MNB-re is alkalmazni kell.
 
 ### XXXI/A. Fejezet — Független közvetítő
 
@@ -4735,9 +4861,9 @@ esetében kell alkalmazni.
 
 ### XXXI/B. Fejezet — Függő közvetítő
 
-219/C. § (1) A kiemelt közvetítő és a pénzforgalmi közvetítő és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy által e tevékenysége során okozott kárért a megbízó pénzügyi intézmény, pénzforgalmi intézmény felel.
+219/C. § (1) A kiemelt közvetítő és a pénzforgalmi közvetítő és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy által e tevékenysége során okozott kárért a megbízó pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény felel.
 
-(2) A függő közvetítő a pénzügyi szolgáltatás közvetítéséért kizárólag a megbízó pénzügyi intézménytől, pénzforgalmi intézménytől jogosult közvetítői díjra. E rendelkezés nem érinti a függő közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel.
+(2) A függő közvetítő a pénzügyi szolgáltatás közvetítéséért kizárólag a megbízó pénzügyi intézménytől, pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől jogosult közvetítői díjra. E rendelkezés nem érinti a függő közvetítő azon jogosultságát, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő ügyfele számára más – a pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számítson fel.
 
 (3) A közvetítői díj időbeni ütemezésének arányosnak kell lennie a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével.
 
@@ -4750,7 +4876,7 @@ esetében kell alkalmazni.
 
 (5) A (4) bekezdésben meghatározottak nem alkalmazandóak, ha a tájékoztatási kötelezettséget a pénzforgalmi szolgáltatás nyújtásáról szóló törvény vagy a fogyasztónak nyújtott hitelről szóló törvény rendelkezései írják elő.
 
-(6) A kizárólag magánszemélyek részére a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához nyújtott hitel- és pénzkölcsönt közvetítő függő ügynökre a 219/D. §-ban foglalt rendelkezéseket nem kell alkalmazni.
+(6) A kizárólag magánszemélyek részére a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához nyújtott hitel- és pénzkölcsönt közvetítő függő ügynökre, és a 2. számú melléklet I. Fejezet 12.3. pont b) alpontjában meghatározott közvetítőre a 219/D. §-ban foglalt rendelkezéseket nem kell alkalmazni.
 
 ### XXXI/C. Fejezet — Szakmai követelmények
 
@@ -5049,7 +5175,9 @@ I. Pénzügyi szolgáltatások
 
 a) a külön jogszabályban meghatározott feltételekkel és korlátokkal történő, hitelviszonyt megtestesítő értékpapír kibocsátás és
 
-b) a pénzforgalmi intézmény által átvett pénzeszköz fizetési számlán történő nyilvántartása.
+b) a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény által átvett pénzeszköz fizetési számlán történő nyilvántartása,
+
+c) az elektronikuspénz-kibocsátó intézmény által az elektronikus pénz kibocsátása ellenében átvett pénzeszköz.
 
 4. Hitelreferencia-szolgáltatás:
 
@@ -5061,13 +5189,13 @@ b) a KHR-t kezelő pénzügyi vállalkozás által történő adatkezelés.
 
 a) a csekk,
 
-b) az elektronikus pénzeszköz,
+b) az elektronikus pénz,
 
 c) a pénzforgalmi szolgáltató és az ügyfél közötti keretszerződésben meghatározott olyan személyre szabott dolog vagy eljárás, amely lehetővé teszi az ügyfél számára a fizetési megbízás megtételét,
 
-5.2 Elektronikus pénz: készpénz átvétele illetőleg számlapénz átutalása ellenében kibocsátott elektronikus pénzeszközön tárolt pénzérték, amelyet elektronikus fizetés céljából a kibocsátón kívül más is elfogad.
+5.2 Elektronikus pénz: az elektronikus pénz kibocsátójával szembeni követelés által megtestesített, elektronikusan tárolt – ideértve a mágneses tárolást is – összeg, melyet pénzeszköz átvétele ellenében bocsátanak ki a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott fizetési műveletek teljesítése céljából, és amelyet az elektronikus pénz kibocsátóján kívül más természetes és jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó is elfogad. Nem minősül elektronikus pénznek az e törvény 2. számú melléklet I. fejezete 9.1. pontjának k) alpontja szerinti eszközön tárolt vagy l) pontjában rögzített fizetési műveletekre használt érték.
 
-5.3 Elektronikus pénzeszköz: olyan készpénz-helyettesítő fizetési eszköz – így különösen értéktároló kártya, számítógép memória – amely az elektronikus pénz tárolására szolgál és amellyel az ügyfél közvetlenül végezhet fizetési műveleteket.
+5.3
 
 5.4 Készpénz-helyettesítő fizetési eszköz kibocsátása: szerződés alapján a készpénz-helyettesítő fizetési eszköznek az ügyfél rendelkezésére bocsátása.
 
@@ -5091,7 +5219,7 @@ c) a fizetési műveletek fizetési számlák közötti teljesítése,
 
 d) a c) pontban meghatározott szolgáltatás, ha a fizetési művelet teljesítése a pénzforgalmi szolgáltatást igénybe vevő ügyfél rendelkezésére álló hitelkeretéből történik,
 
-e) a készpénz-helyettesítő fizetési eszköz – ide nem értve a csekk és az elektronikus pénzeszköz – kibocsátása,
+e) a készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – kibocsátása,
 
 f) a készpénzátutalás,
 
@@ -5181,7 +5309,11 @@ Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata köz
 
 12.2. Ügynöki tevékenység: pénzügyi intézménnyel kötött megbízási szerződés alapján pénzügyi szolgáltatás, kiegészítő pénzügyi szolgáltatás nyújtásának, ilyen szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, amelynek során a pénzügyi intézmény kockázatára önállóan kötelezettséget nem vállalnak, szerződést nem kötnek;
 
-12.3. Pénzforgalmi közvetítői tevékenység: pénzforgalmi intézménnyel kötött megbízási szerződés alapján, a pénzforgalmi intézmény nevében, javára és kockázatára, pénzforgalmi szolgáltatás nyújtásának, szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, ideértve a pénzforgalmi intézmény nevében, javára és kockázatára történő pénzforgalmi szolgáltatási szerződés megkötését is;
+12.3. Pénzforgalmi közvetítői tevékenység:
+
+a) pénzforgalmi intézménnyel vagy elektronikuspénz-kibocsátó intézménnyel kötött megbízási szerződés alapján, a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára, pénzforgalmi szolgáltatás nyújtásának, szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, ideértve a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára történő pénzforgalmi szolgáltatási szerződés megkötését is,
+
+b) elektronikus pénz kibocsátójával kötött megbízási szerződés alapján, az elektronikus pénz kibocsátója nevében, javára és kockázatára, elektronikus pénz kibocsátására és visszaváltására irányuló szerződés megkötésének elősegítésére irányuló tevékenység.
 
 12.4. Alkuszi tevékenység: pénzügyi szolgáltatást igénybe venni szándékozó ügyféllel kötött megbízási szerződés alapján és nevében pénzügyi intézménnyel történő pénzügyi szolgáltatási szerződés kiválasztására, megkötésének elősegítésére irányuló tevékenység, amely nem terjed ki az ügyfél nevében, javára történő kockázatvállalásra.
 
@@ -5307,7 +5439,7 @@ h) más hitelintézetnél elhelyezett betét, ide nem értve a jegybanki kötele
 
 16. Nettó érték: kizárólag a 79. § (2) és (7) bekezdés, a 83. § (1)–(3) bekezdés, valamint a 85. § (1) bekezdés alkalmazásában az adott eszközből, illetve kötelezettségvállalásból kifolyólag fennálló kockázatvállalás könyv szerinti bruttó értékének (az eszközök bekerülési értékének, illetve a kötelezettségvállalás szerződés szerinti értékének) az elszámolt értékvesztéssel, értékcsökkenéssel, illetőleg a megképzett kockázati céltartalékkal csökkentett összege.
 
-17. Szavatoló tőke: a hitelintézetnek a számviteli jogszabályok által meghatározott saját tőkéje és azok a források, amelyek a hitelintézettel szemben fennálló követelések kielégítésébe tőkeként bevonhatók.
+17. Szavatoló tőke: a hitelintézetnek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek a számviteli jogszabályok által meghatározott saját tőkéje és azok a források, amelyek a hitelintézettel, pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel szemben fennálló követelések kielégítésébe tőkeként bevonhatók.
 
 18. Személy: a természetes személy, a jogi személy, továbbá a jogi személyiséggel nem rendelkező gazdasági társaság.
 
@@ -5357,11 +5489,13 @@ e) az alapítványi formában működő pénzügyi vállalkozás esetén a kurat
 
 f) pénzforgalmi intézmény esetén a pénzforgalmi intézmény pénzforgalmi szolgáltatási üzletág irányításáért felelős személy, valamint valamennyi helyettese;
 
-g) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese.
+g) független közvetítő esetén a pénzügyi szolgáltatás közvetítésének irányítását végző személy, valamint valamennyi helyettese;
+
+h) elektronikuspénz-kibocsátó intézmény esetén az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátás szolgáltatási üzletág irányításáért felelős személy, valamint valamennyi helyettese.
 
 26. Eszköz fenntartási mutató: olyan százalék formájában kifejezett hányados, amelynek számlálójában a fióktelep formájában működő pénzügyi intézmény Magyarországon meglévő pénzeszközeinek, a tulajdonában álló és harminc napon belül készpénzzé tehető értékpapírok piaci értékének, valamint problémamentes vagy külön figyelendőnek minősített hiteleinek és befektetéseinek összege, nevezőjében pedig a fióktelep Magyarországon vállalt kötelezettségei szerepelnek.
 
-27. Főiroda: az a hely, ahol a pénzügyi intézmény, a pénzforgalmi intézmény főtevékenységét végzi, és ahol a központi döntéshozatal történik.
+27. Főiroda: az a hely, ahol a pénzügyi intézmény, a pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény főtevékenységét végzi, és ahol a központi döntéshozatal történik.
 
 28. Dotációs tőke: a fióktelep létesítéséhez és működéséhez a létesítő által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke.
 
@@ -5407,15 +5541,17 @@ Mérsékelt visszaváltásra vagy visszavásárlásra ösztönző rendelkezésne
 
 a) hitelintézet esetén ha a hitelintézet a pénzügyi, illetőleg kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódó, illetőleg jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés, adatfeldolgozás vagy adattárolás valósul meg, nem önállóan végzi, hanem annak folyamatos vagy rendszeres elvégzésére tőle szervezetileg független személlyel vagy jogi személyiséggel nem rendelkező gazdasági társasággal kizárólagos szerződést köt;
 
-b) pénzforgalmi intézmény esetén olyan megállapodás egy pénzforgalmi intézmény és egy személy között, amelynek keretében e személy olyan pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó tevékenységet végez, amelyet egyébként a pénzforgalmi intézmény maga végezne.
+b) pénzforgalmi intézmény esetén olyan megállapodás egy pénzforgalmi intézmény és egy személy között, amelynek keretében e személy olyan pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó tevékenységet végez, amelyet egyébként a pénzforgalmi intézmény maga végezne;
+
+c) elektronikuspénz-kibocsátó intézmény esetén olyan megállapodás egy elektronikuspénz-kibocsátó intézmény és egy személy között, amelynek keretében e személy olyan elektronikuspénz-kibocsátási vagy visszaváltási szolgáltatás nyújtásának vagy pénzforgalmi szolgáltatás nyújtásának működtetéséhez kapcsolódó tevékenységet végez, amelyet egyébként az elektronikuspénz-kibocsátó intézmény maga végezne.
 
 42. ,,A'' zónába tartozó ország: minden ország, amely teljes jogú tagja a Gazdasági Együttműködési és Fejlesztési Szervezetnek vagy az Európai Uniónak, vagy amely speciális megállapodást kötött arra, hogy hitelt nyújtson a Nemzetközi Valuta Alapnak annak Általános Kölcsönnyújtási Megállapodása szerint, és amely a megelőző öt év során hitelfelvételből származó külső adósságát nem ütemezte át, illetőleg nem függesztette fel.
 
-43. Határon átnyúló szolgáltatás: a pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása nem a szolgáltatást nyújtó pénzügyi intézmény, pénzforgalmi intézmény székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, állandó lakóhelye sem abban az országban van, amelyben a szolgáltatást nyújtó pénzügyi intézmény, pénzforgalmi intézmény székhelye, telephelye, főirodája, fióktelepe.
+43. Határon átnyúló szolgáltatás: a pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása nem a szolgáltatást nyújtó pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, állandó lakóhelye sem abban az országban van, amelyben a szolgáltatást nyújtó pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény székhelye, telephelye, főirodája, fióktelepe.
 
-44. Harmadik országbeli hitelintézet: az a hitelintézet, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik olyan tevékenységek végzésére, amelyek megfeleltethetők a 3. § (1) bekezdése a), b), d) vagy e) pontjában foglaltaknak, és amelynek székhelye nem az Európai Unió tagállamában van.
+44. Harmadik országbeli hitelintézet: az a hitelintézet, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik olyan tevékenységek végzésére, amelyek megfeleltethetők a 3. § (1) bekezdése a), b), d) e) vagy f) pontjában foglaltaknak, és amelynek székhelye nem az Európai Unió tagállamában van.
 
-45. Harmadik országbeli pénzügyi vállalkozás: az a pénzügyi vállalkozás, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik egy vagy több olyan tevékenység végzésére, amelyek megfeleltethetők a 3. § (1) bekezdésének b)–c) és f)–l) pontjában, valamint a (2) bekezdésében foglaltaknak, és amelynek székhelye nem az Európai Unió tagállamában van.
+45. Harmadik országbeli pénzügyi vállalkozás: az a pénzügyi vállalkozás, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik egy vagy több olyan tevékenység végzésére, amelyek megfeleltethetők a 3. § (1) bekezdésének b)–c) és g)–l) pontjában, valamint a (2) bekezdésében foglaltaknak, és amelynek székhelye nem az Európai Unió tagállamában van.
 
 46. Harmadik országbeli pénzügyi intézmény: a harmadik országbeli hitelintézet és a harmadik országbeli pénzügyi vállalkozás.
 
@@ -5468,6 +5604,8 @@ b) megvásárolja egy harmadik fél kitettségeit, majd értékpapírosítja azo
 65. Teljesítményjavadalmazás: a hitelintézet és a vezető állású személy, munkavállaló közötti szerződésben meghatározott, a hitelintézet, az érintett szervezeti egység, és az érintett személy teljesítményére, valamint a hitelintézet pénzügyi helyzetére vonatkozó mutatók és feltételek megvalósulása esetén fizetendő juttatás.
 
 66. Nem kötelező nyugdíjjuttatás: a hitelintézet által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszerének feltételei alapján nyújtott felhalmozott juttatásokat.
+
+67. Átlagos kinnlevő elektronikuspénz-állomány: az adott naptári nap végén kibocsátott elektronikus pénzre vonatkozó, az azt megelőző hat naptári hónap pénzügyi kötelezettségei mindenkori teljes összegének átlaga, amelynek kiszámítása során az adott hónapra vonatkozó pénzügyi kötelezettségnek az egyes naptári hónapok első naptári napján fennálló pénzügyi kötelezettség tekintendő.
 
 III/A. A XI. Fejezetre vonatkozó fogalommeghatározások
 
@@ -5563,7 +5701,7 @@ V. A XX/A. Fejezetre vonatkozó fogalommeghatározások
 
 2. Referenciaadat: bármely olyan adat, ideértve a nyilvántartott személyazonosító adatait is, amelyet a központi hitelinformációs rendszert kezelő pénzügyi vállalkozás e törvény alapján kezelhet.
 
-3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–f) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító. Referenciaadat-szolgáltató a kereskedelmi kölcsönt nyújtó hitelező, valamint a határon átnyúló szolgáltatást végző más tagállambeli hitelező, ha a KHR-hez csatlakozott.
+3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–g) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító. Referenciaadat-szolgáltató a kereskedelmi kölcsönt nyújtó hitelező, valamint a határon átnyúló szolgáltatást végző más tagállambeli hitelező, ha a KHR-hez csatlakozott.
 
 4. Vállalkozás: a gazdasági társaság, az európai részvénytársaság, a szövetkezet, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót. Vállalkozásnak minősül a referenciaadat-szolgáltató, ha kereskedelmi kölcsönt nyújt.
 
@@ -5597,7 +5735,7 @@ f) lakcím,
 
 g) levelezési cím.
 
-1.2 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában meghatározott szolgáltatásra, kereskedelmi kölcsönre, valamint a hallgatói hitelre vonatkozó szerződési adatok:
+1.2. a 3. § (1) bekezdésének b)–c) és e)–g) pontjában meghatározott szolgáltatásra, kereskedelmi kölcsönre, valamint a hallgatói hitelre vonatkozó szerződési adatok:
 
 a) a szerződés típusa és azonosítója (száma),
 
@@ -5613,7 +5751,7 @@ f) a lejárt és meg nem fizetett tartozás megszűnésének módja és időpont
 
 g) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés.
 
-1.3 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződésre, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés kezdeményezésére vonatkozó adatok:
+1.3. a 3. § (1) bekezdésének b)–c) és e)–g) pontjában foglalt szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződésre, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés kezdeményezésére vonatkozó adatok:
 
 a) az igénylés elutasításának időpontja, indoka,
 
@@ -5974,6 +6112,8 @@ I. Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolg�
 14. Az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/111/EK irányelve a 2006/48/EK, a 2006/49/EK és a 2007/64/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke-elemek, nagykockázat-vállalások, felügyeleti szabályok és válságkezelés tekintetében történő módosításáról.
 
 15. Az Európai Parlament és a Tanács 2010. november 24-i 2010/76/EU irányelve a 2006/48/EK és a 2006/49/EK irányelvnek a kereskedési könyvre és az újraértékpapírosításra vonatkozó tőkekövetelmények, továbbá a javadalmazási politikák felügyeleti felülvizsgálata tekintetében történő módosításáról.
+
+16. Az Európai Parlament és a Tanács 2009/110/EK irányelve az elektronikuspénz-kibocsátó intézmények tevékenységének megkezdéséről, folytatásáról és prudenciális felügyeletéről, a 2005/60/EK és a 2006/48/EK irányelv módosításáról, valamint a 2000/46/EK irányelv hatályon kívül helyezéséről.
 
 II. Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet eljárásában:
 
