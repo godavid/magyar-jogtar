@@ -487,7 +487,10 @@ látja el.
 - z) gondoskodik az Európai Unió közös költségvetéséhez való hozzájárulásokkal kapcsolatos, külön jogszabályban meghatározott feladatainak ellátásáról;
 - zs) a kincstári egységes számla terhére, annak forrásaiból – jogszabályban meghatározott feltételekkel – kamatmentes megelőlegezési, likviditási hitelt nyújthat az Európai Mezőgazdasági Garancia Alaptól érkező – jogszabályban meghatározott – egységes területalapú, és más közvetlen kifizetések, valamint piaci támogatások, intervenciós intézkedésekből eredő kifizetések, továbbá az Európai Mezőgazdasági Vidékfejlesztési Alap által finanszírozott vidékfejlesztési támogatások – ide nem értve az Agrár- és Vidékfejlesztési Operatív Programot – céljaira történő kifizetések teljesítéséhez a támogatások kezelésére létrehozott és akkreditált szervnek (kifizető ügynökség).
 
-(2) A kincstár az (1) bekezdésben szereplő feladatai ellátása során jogosult – törvényben meghatározott körben, mértékben és célra – pénzforgalmi szolgáltatások nyújtására, ideértve a fizetési számla vezetését és a készpénz nélküli fizetési forgalom lebonyolítását is.
+(2) A kincstár az (1) bekezdésben szereplő feladatai ellátása során jogosult
+
+- a) – törvényben meghatározott körben, mértékben és célra – pénzforgalmi szolgáltatások nyújtására, ideértve a fizetési számla vezetését és a készpénz nélküli fizetési forgalom lebonyolítását is, valamint
+- b) elektronikus pénz kibocsátására.
 
 (3) A kincstár az (1) bekezdésben foglalt feladatait a szolgáltatási körébe és szolgáltatási felelősségébe tartozó szervezetek számára kötelezően igénybe veendő szolgáltatásként teljesíti. A kincstár jogosult a kincstári körbe tartozók és a kincstári számlatulajdonosok külön rendelkezése nélkül is számláik megterhelésével továbbhárítani a nem általa végzett pénzforgalmi szolgáltatások igazolt díját, továbbá jogszabályban meghatározott más esetben számláikat megterhelni. A kincstár az (1) bekezdés v) pontjában foglalt, a fejezetektől átvállalt, megállapodás alapján ellátott egyes feladatait térítés ellenében végezheti. A kincstár az Európai Unió Strukturális Alapjainak támogatásai kapcsán végzett közreműködői feladatait térítés ellenében végzi. A térítés összegéről a kincstár megállapodást köt.
 

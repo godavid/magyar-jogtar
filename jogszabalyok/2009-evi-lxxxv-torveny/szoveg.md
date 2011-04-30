@@ -42,7 +42,7 @@ a pénzforgalmi szolgáltatás nyújtásáról
 - 19. pénz: bankjegy, érme, számlapénz, és az elektronikus pénz,
 - 20. pénzforgalmi számla: az a fizetési számla, amelyet a számlatulajdonos rendszeres gazdasági tevékenysége körében pénzforgalmának lebonyolítása céljából törvényben megállapított kötelezettség alapján nyit, illetve nyitott,
 - 21. pénzforgalmi szolgáltatás: a Hpt. meghatározott pénzforgalmi szolgáltatás,
-- 22. pénzforgalmi szolgáltató: az a hitelintézet, elektronikus pénzt kibocsátó szakosított hitelintézet, Posta Elszámoló Központot működtető intézmény, pénzforgalmi intézmény, Magyar Nemzeti Bank és kincstár, amely pénzforgalmi szolgáltatási tevékenységet végez,
+- 22. pénzforgalmi szolgáltató: az a hitelintézet, elektronikuspénz-kibocsátó intézmény, Posta Elszámoló Központot működtető intézmény, pénzforgalmi intézmény, Magyar Nemzeti Bank és kincstár, amely pénzforgalmi szolgáltatási tevékenységet végez,
 - 23. referencia-árfolyam: pénzforgalmi szolgáltató által közzétett vagy a nyilvánosság számára hozzáférhető pénznemek közötti mindenkori átváltási árfolyam,
 - 24. referencia-kamatláb: bármilyen alkalmazandó kamat számításának alapjául szolgáló, a nyilvánosság számára hozzáférhető mindenkori kamatláb,
 - 25. sorbaállítás: a pénzforgalmi szolgáltató által vezetett fizetési számlára érkező fizetési megbízás fedezethiány miatt történő nem teljesítése (függőben tartása) és várakozási sorba helyezése a jövőbeni teljesítés céljából, ide nem értve azt az esetet, amikor a fizető fél az ütemezett fizetések céljából, a beérkezett fizetési műveletek tervszerű teljesítése érdekében sorba helyezésről állapodik meg a pénzforgalmi szolgáltatóval,

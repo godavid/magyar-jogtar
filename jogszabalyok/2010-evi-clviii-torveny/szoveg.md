@@ -68,7 +68,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 - n) a viszontbiztosítókról szóló 2007. évi CLIX. törvény (a továbbiakban: Vbit.),
 - o) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény,
 - p) a 7. § p) pontjában meghatározottak szerint a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Gfbt.),
-- q) az elektronikus pénzt kibocsátó szakosított hitelintézetről szóló 2004. évi XXXV. törvény hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
+- q) hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 
 (2) A Felügyelet látja el a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény hatálya alá tartozó tevékenysége tekintetében.
 
@@ -156,7 +156,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 11. § (1) A Felügyelet írásban bejelenti az Európai Bizottságnak
 
 - a) hitelintézet, befektetési vállalkozás, biztosító vagy viszontbiztosító részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
-- b) harmadik országban székhellyel rendelkező hitelintézet, befektetési vállalkozás, biztosító vagy viszontbiztosító magyarországi fióktelepe részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
+- b) harmadik országban székhellyel rendelkező hitelintézet, elektronikuspénz- kibocsátó intézmény, befektetési vállalkozás, biztosító vagy viszontbiztosító magyarországi fióktelepe részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
 - c) olyan európai befektetési alapot kezelő alapkezelő számára kiadott engedélyt, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
 - d) harmadik országban bejegyzett hitelintézet által Magyarországon bejegyzett hitelintézetben történő olyan részesedésszerzést, amelynek eredményeképpen a hitelintézet harmadik országbeli hitelintézet leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 - e) harmadik országban bejegyzett biztosító által Magyarországon bejegyzett biztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a biztosító harmadik országbeli biztosító leányvállalatává válik, illetve az ilyen részesedés megszűnését,
@@ -615,7 +615,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (3) A Felügyelet legalább háromévenként átfogó ellenőrzési eljárást folytat le banknál, szakosított hitelintézetnél, biztosító részvénytársaságnál és viszontbiztosítónál.
 
-(4) A Felügyelet legalább ötévenként átfogó ellenőrzési eljárást folytat le szövetkezeti hitelintézetnél, összevont felügyelet alá tartozó pénzügyi vállalkozásnál, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél, befektetési alapkezelőnél, biztosító egyesületnél, biztosító szövetkezetnél, magánnyugdíj-pénztárnál, önkéntes kölcsönös biztosító pénztárnál, a foglalkoztatói nyugdíjszolgáltató intézménynél, az elszámolóházi tevékenységet végző szervezetnél, a központi értéktárnál, a központi szerződő fél tevékenységet végző szervezetnél és tőzsdénél.
+(4) A Felügyelet legalább ötévenként átfogó ellenőrzési eljárást folytat le szövetkezeti hitelintézetnél, összevont felügyelet alá tartozó pénzügyi vállalkozásnál, pénzforgalmi intézménynél, az elektronikuspénz-kibocsátó intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél, befektetési alapkezelőnél, magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál és a foglalkoztatói nyugdíjszolgáltató intézménynél, az elszámolóházi tevékenységet végző szervezetnél, a központi értéktárnál, a központi szerződő fél tevékenységet végző szervezetnél és tőzsdénél.
 
 (5) Az átfogó ellenőrzési eljárás részeként a Felügyelet helyszíni ellenőrzést is tart.
 
