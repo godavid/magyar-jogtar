@@ -1890,7 +1890,7 @@ adja ki, ha az esedékesség éve eltelt. E rendelkezésektől érvényesen elt�
 
 ### Betegszabadság
 
-137. § (1) A munkavállalót a betegsége miatti keresőképtelenség idejére — ide nem értve a társadalombiztosítási szabályok szerinti üzemi baleset és foglalkozási betegség miatti keresőképtelenséget — naptári évenként tizenöt munkanap betegszabadság illeti meg.
+137. § (1) A munkavállalót a betegsége miatti keresőképtelenség idejére – ide nem értve a társadalombiztosítási szabályok szerinti üzemi baleset és foglalkozási betegség miatti keresőképtelenséget, valamint a veszélyeztetett terhesként történő gondozásba vételt követő, terhesség miatti kereső képtelenséget – naptári évenként tizenöt munkanap betegszabadság illeti meg.
 
 (2) A munkavállaló keresőképtelenségét — a keresőképesség orvosi elbírálásáról szóló rendelkezéseknek megfelelően — a kezelőorvos igazolja.
 
@@ -2948,7 +2948,9 @@ Alulírott ............. (név, lakcím) e nyilatkozattal kötelezem magamat, ho
 
 204. § Ahol 2010. március 31-ét követően az Mt. 177. § (2) bekezdése alapján nem vagyoni kár megtérítéseként sérelemdíj iránti igényt nyújtottak be, azt nem vagyoni kártérítésként kell elbírálni.
 
-205–206. §
+205. § Az államháztartásról szóló 1992. évi XXXVIII. törvény módosításáról szóló 2011. évi XXXI. törvénnyel megállapított 137. § (1) bekezdését a 2011. április 30-át követően bekövetkező keresőképtelenség esetén kell alkalmazni.
+
+206. §
 
 207. § E törvény hatálybalépése előtt megkötött tanulmányi szerződésre, illetve megkezdett tanulmányokkal kapcsolatos kedvezményekre a megkötéskori, illetve a tanulmányok megkezdésekor hatályos jogot kell alkalmazni.
 

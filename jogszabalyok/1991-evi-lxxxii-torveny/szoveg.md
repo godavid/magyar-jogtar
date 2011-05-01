@@ -65,7 +65,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - g) a kizárólag elektromos hajtómotorral ellátott személygépkocsi,
 - h)–i)
 - j) az a gépjármű, amelynek adómentességét nemzetközi egyezmény vagy viszonosság biztosítja. A viszonosság tekintetében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
-- k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az 1995. évi LXVII. törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve a fegyveres erők alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – tulajdonában lévő gépjármű.
+- k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok, továbbá az Észak-atlanti Szerződés tagállamainak és a Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői, és e fegyveres erők és parancsnokságok személyi állományába tartozó vagy alkalmazásában álló nem magyar állampolgárságú, katonai szolgálatban lévő és polgári állományú személyek tulajdonában lévő gépjármű.
 
 ### Az adó alapja
 

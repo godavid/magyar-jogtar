@@ -32,6 +32,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 
 - a) a (2) és (3) bekezdésben foglalt eltéréssel a Magyar Köztársaság területén tartózkodó magyar állampolgárságú, valamint – ha nemzetközi szerződés másként nem rendelkezik – a letelepedett, bevándorolt, illetve befogadott jogállású, továbbá a magyar hatóságok által menekültként, oltalmazottként, illetve hontalanként elismert gyermekre, fiatal felnőttre és szüleire;
 - b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik;
+- c) a menedékjogról szóló törvény szerint, arra a tizennyolcadik életévét be nem töltött menedékjogi kérelmet benyújtó külföldi gyermekre, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett a Magyar Köztársaság területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig amíg ilyen személy felügyelete alá kerül – feltéve, hogy az illető gyermek kiskorúságát a menekültügyi hatóság megállapította.
 
 (2) A törvény hatálya a rendkívüli gyermekvédelmi támogatás tekintetében az (1) bekezdésben foglaltakon túlmenően kiterjed az Európai Szociális Kartát megerősítő országok állampolgárainak a Magyar Köztársaság területén jogszerűen tartózkodó gyermekeire is.
 
@@ -1640,7 +1641,7 @@ hozzájárulhat ahhoz, hogy a szülő egészségi állapota, indokolt távollét
 
 ### X. Fejezet — Ideiglenes hatályú elhelyezés
 
-72. § (1) Ha a gyermek felügyelet nélkül marad vagy testi, értelmi, érzelmi és erkölcsi fejlődését családi környezete vagy önmaga súlyosan veszélyezteti, és emiatt azonnali elhelyezése szükséges, a települési önkormányzat jegyzője, a gyámhivatal, valamint a rendőrség, az ügyészség, a bíróság, a büntetés-végrehajtási intézet parancsnoksága (a továbbiakban: beutaló szerv) a gyermeket ideiglenesen
+72. § (1) Ha a gyermek felügyelet nélkül marad vagy testi, értelmi, érzelmi és erkölcsi fejlődését családi környezete vagy önmaga súlyosan veszélyezteti, és emiatt azonnali elhelyezése szükséges, a települési önkormányzat jegyzője, a gyámhivatal valamint a rendőrség, az idegenrendészeti hatóság, a menekültügyi hatóság, az ügyészség, a bíróság a büntetés-végrehajtási intézet parancsnoksága (a továbbiakban: beutaló szerv) a gyermeket ideiglenesen
 
 - a) a nevelésére alkalmas, azt vállaló különélő szülőnél, más hozzátartozónál, illetve személynél, vagy ha erre nincs lehetőség,
 - b) a legközelebbi ideiglenes hatállyal elhelyezett gyermekek ellátását is biztosító nevelőszülőnél, vagy ha erre nincs lehetőség – az ideiglenes hatályú elhelyezés biztosítására is kijelölt – gyermekotthonban helyezi el, és erről haladéktalanul értesíti a gyámhivatalt, illetve külföldi állampolgárságú gyermek esetében – ide nem értve a 4. § (1) bekezdésének b) pontja szerinti személyt – a Kormány által kijelölt gyámhivatalt.

@@ -661,6 +661,8 @@ igazolja.
 
 #### 35/A. §
 
+### A kötelező egészségbiztosítás ellátásainak biztosítását szolgáló szerződések
+
 ### A szerződés teljesítésének ellenőrzése
 
 36. § (1) Az egészségbiztosító ellenőrzi az egészségügyi szolgáltatás nyújtására kötött szerződés teljesítését.
@@ -966,7 +968,7 @@ PÉNZBELI ELLÁTÁSAI
 
 (7) A táppénz alapjaként figyelembe vehető, a (2) bekezdésben meghatározott jövedelem naptári napi átlagának kiszámítására vonatkozó részletes szabályokat a Kormány állapítja meg.
 
-(8) A táppénz összege folyamatos, legalább kétévi biztosítási idő esetében a figyelembe vehető jövedelem naptári napi átlagának hatvan százaléka, ennél rövidebb biztosítási idő esetében vagy a fekvőbeteg-gyógyintézeti ellátás tartama alatt ötven százaléka, azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér 400 százalékának, a biztosítási jogviszony megszűnését követően a minimálbér 150 százalékának harmincad részét.
+(8) A táppénz összege folyamatos, legalább kétévi biztosítási idő esetében a figyelembe vehető jövedelem naptári napi átlagának hatvan százaléka, ennél rövidebb biztosítási idő esetében vagy a fekvőbeteg-gyógyintézeti ellátás tartama alatt ötven százaléka, azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér 200 százalékának, a biztosítási jogviszony megszűnését követően a minimálbér 150 százalékának harmincad részét.
 
 48/A. § Amennyiben a biztosítási jogviszonya megszűnését követően táppénzre jogosult egészségi állapota alapján várható, hogy a 46. § (1) bekezdésének a) pontjában meghatározott idő elteltével a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvénynek (a továbbiakban: Tny.) 23. §-a szerinti nyugellátásra, illetőleg a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény (a továbbiakban: Rjtv.) szerinti rehabilitációs járadékra válik jogosulttá, a keresőképességét elbíráló orvos a táppénzre való jogosultság lejárta előtt legalább 15 nappal kezdeményezi az egészségkárosodás mértékének külön jogszabály szerint történő megállapítását.
 
@@ -1338,6 +1340,8 @@ bírálja el és folyósítja.
 (3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 37. §-t a 2011. január 1-jét követően keletkezett jogsértések vonatkozásában kell alkalmazni.
 
 (4) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 66. § (1) bekezdést a 2011. január 1-jét követően jogalap nélkül igénybe vett pénzbeli ellátásra, baleseti járadékra, baleseti táppénzre vagy utazási költséghez nyújtott támogatásra kell alkalmazni.
+
+(5) Az államháztartásról szóló 1992. évi XXXVIII. törvény módosításáról szóló 2011. évi XXXI. törvénnyel megállapított 48. § (8) bekezdést a 2011. április 30-át követően bekövetkező keresőképtelenség esetén kell alkalmazni.
 
 ### Záró rendelkezések
 
