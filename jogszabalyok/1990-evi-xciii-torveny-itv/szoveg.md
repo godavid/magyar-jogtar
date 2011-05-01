@@ -67,7 +67,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - h) az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
 - i) a Magyar Nemzeti Bank,
 - j) a Magyar Rádió Nonprofit Zrt., a Magyar Televízió Nonprofit Zrt., a Duna Televízió Nonprofit Zrt., a Magyar Távirati Iroda Nonprofit Zrt., és a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
-- k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az 1995. évi LXVII. törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az említett fegyveres erők alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő illetékügyek tekintetében,
+- k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés tagállamainak és a Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői, valamint az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok, és e fegyveres erők és parancsnokságok személyi állományába tartozó vagy alkalmazásában álló nem magyar állampolgárságú, katonai szolgálatban lévő és polgári állományú személyek, kizárólag a szolgálati kötelezettségükkel összefüggő illetékügyek tekintetében,
 - l) a területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó fejlesztési tanács,
 - m) a közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság,
 - n) az Európai Közösségek, valamint azok intézményei és szervei, hivatalai, elkülönült alapjai.
