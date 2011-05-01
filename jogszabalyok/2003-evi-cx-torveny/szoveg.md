@@ -16,6 +16,7 @@ Az államháztartás feladatainak ellátásához szükséges bevételek biztosí
   - a) belföldön első ízben történő nyilvántartásba vétele és a forgalmi engedélybe történő bejegyzése,
   - b) átalakítás esetében az átalakítás tényének nyilvántartásba vétele és a forgalmi engedélybe történő bejegyzése,
   - c) 12. § a) és b) pontjában meghatározott adómentességének megszűnése;
+  - d) törvényben kihirdetett nemzetközi szerződésben vagy törvényben meghatározott adómentesség megszűnése;
 - 2. átalakítás: a közúti gépjármű olyan műszaki megváltoztatása, amelynek eredményeként az e törvény hatálya alá nem tartozó gépjárműből személygépkocsi vagy motorkerékpár jön létre, illetőleg a személygépkocsi vagy a motorkerékpár más adókategóriába kerül;
 - 3. személygépkocsi: a Kereskedelmi Vámtarifának az adózás rendjéről szóló törvényben (a továbbiakban: Art.) szereplő időpont szerinti állapota alapján a 8703 vámtarifaszám alá tartozó jármű, ide nem értve a mentőautót és az e törvény szerinti motorkerékpárt;
 - 4. új gépjármű: az a személygépkocsi, illetve motorkerékpár, amely az adó alanya által történt megszerzésének időpontjában legfeljebb 6000 kilométert futott, vagy amelynek első külföldi forgalomba helyezésétől számítva legfeljebb 6 hónap telt el;

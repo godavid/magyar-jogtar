@@ -36,7 +36,14 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (5) Ha e törvény az adóalanyiságot az év első napján fennálló állapothoz köti és az önkormányzat az adót év közben vezeti be, akkor a bevezetés évében az adó alanyának azt kell tekinteni, aki/amely az adót bevezető rendelet hatálybalépésének napján megfelel az adóalanyiság követelményeinek.
 
-3/A. § Valamennyi helyi adó alól mentes az Észak-atlanti Szerződés Szervezete. Az Észak-atlanti Szerződés tagállamainak és az 1995. évi LXVII. törvényben kihirdetett Békepartnerség más részt vevő államainak, Magyarországon kizárólag szolgálati kötelezettség céljából tartózkodó fegyveres erői – ideértve a fegyveres erők alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – mentesek a lakásbérleti jog után megállapítható magánszemélyek kommunális adója és az idegenforgalmi adó alól.
+3/A. § (1) Valamennyi helyi adó alól mentes az Észak-atlanti Szerződés Szervezete és az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok.
+
+(2) Mentesek a lakásbérleti jog után megállapítható magánszemélyek kommunális adója és a tartózkodás alapján megállapítható idegenforgalmi adó alól
+
+- a) az Észak-atlanti Szerződés tagállamainak a Békepartnerség más részt vevő államainak, Magyarországon kizárólag szolgálati kötelezettség céljából tartózkodó fegyveres erői,
+- b) az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok
+
+személyi állományába tartozó vagy alkalmazásában álló nem magyar állampolgárságú, katonai szolgálatban lévő és polgári állományú személyek.
 
 4. § Az adókötelezettség az önkormányzat illetékességi területén a következőkre terjed ki:
 
