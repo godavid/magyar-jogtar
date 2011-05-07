@@ -1746,6 +1746,8 @@ elleni bűncselekmények
 
 174/B. § (1) Aki mást valamely nemzeti, etnikai, faji, vallási csoporthoz vagy a lakosság egyes csoportjaihoz tartozása vagy vélt tartozása miatt bántalmaz, illetőleg erőszakkal vagy fenyegetéssel arra kényszerít, hogy valamit tegyen, ne tegyen vagy eltűrjön, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
 
+(1a) Aki mással szemben valamely nemzeti, etnikai, faji, vallási csoporthoz vagy a lakosság egyes csoportjaihoz tartozása vagy vélt tartozása miatt olyan, kihívóan közösségellenes magatartást tanúsít, amely alkalmas arra, hogy riadalmat keltsen, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
+
 (2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt
 
 - a) fegyveresen,
@@ -2326,9 +2328,14 @@ tisztasága elleni bűncselekmények
 
 (2) Az (1) bekezdés szerint büntetendő, aki a kulturális javak körébe tartozó és kiviteli engedélyhez kötött tárgyat engedély nélkül külföldre juttat, vagy a kiviteli engedély kereteit túllépi.
 
-### Tiltott határátlépés
+### Közbiztonsági tevékenység jogellenes szervezése
 
-#### 217. §
+217. § (1) Aki
+
+- a) olyan, a közbiztonság, közrend fenntartására irányuló tevékenységet szervez, amelyre jogszabály nem jogosítja fel, vagy
+- b) a közbiztonság, közrend fenntartásának látszatát keltő tevékenységet szervez, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az (1) bekezdés szerint büntetendő az is, aki a helyi polgárőr szervezet tagjának a polgárőrségről szóló törvényben meghatározott feladatai ellátását úgy szervezi meg, hogy a helyi polgárőr szervezet a polgárőrségről szóló törvényben meghatározott együttműködési kötelezettségét nem teljesíti.
 
 ### Embercsempészés
 
