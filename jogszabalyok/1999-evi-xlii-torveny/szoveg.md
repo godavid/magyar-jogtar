@@ -2,7 +2,7 @@
 
 a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól
 
-Az Országgyűlés, tekintettel a magyar lakosság kedvezőtlen népegészségügyi mutatóira, annak érdekében, hogy a dohánytermékek fogyasztásának szabályozásával, illetőleg forgalmazásának részleges korlátozásával védelmet nyújtson a nemdohányzók, valamint az életkoruk vagy egészségi állapotuk miatt egyébként fokozott védelmet igénylő személyek részére a passzív dohányzás káros hatásaival szemben, elősegítve ezzel az egészséghez, valamint az egészséges környezethez fűződő alkotmányos jogok megvalósulását és védelmét, figyelemmel azonban – az ellentétes érdekek megfelelő egyeztetésével – a dohányzás fogyasztói szokásokkal összhangban álló lehetőségének biztosítására, a következő törvényt alkotja:
+Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészségügyi mutatóira,– annak érdekében, hogy a dohánytermékek forgalmazásának részleges korlátozásával csökkentse ezen termékek kiskorúak számára történő hozzáférhetőségét,– kinyilvánítva abbéli szándékát, hogy a dohánytermékek elsősorban nyilvános helyeken történő fogyasztásának szabályozásával védelmet kell nyújtani a nemdohányzók, valamint az életkoruk vagy egészségi állapotuk miatt egyébként fokozott védelmet igénylő személyek részére a passzív dohányzás káros hatásaival szemben,– felismerve továbbá, hogy a nemdohányzók védelmére vonatkozó szabályozást az egészségtudatos szemléletmód elterjedésével párhuzamosan, rendszeres időközönként felül kell vizsgálni annak érdekében, hogy az állam a magánszféra mind újabb területein is védelmet biztosítson a passzív dohányzás káros hatásaival szemben,– a magánélethez fűződő jogok tiszteletben tartása mellett nyomatékosan hangsúlyozva, hogy kerülni kell a dohányzást különösen kiskorúak, várandós nők, betegek vagy mozgásukban bármilyen okból korlátozott személyek jelenlétében a magánélet színterein is, különösen a zárt légterű helyiségekben vagy gépkocsik zárt utasterében, mivel a dohányfüst minden esetben mérgező, annak nincs biztonságos egészségügyi határértéke,– elősegítve ezzel az egészséghez, valamint az egészséges környezethez fűződő alkotmányos jogok megvalósulását és védelmét,– figyelemmel – az ellentétes érdekek megfelelő egyeztetésével – a dohánytermékek fogyasztási kultúrája fejlesztésének szükségességre, a méltányolható fogyasztási szokásokat elismervea következő törvényt alkotja:
 
 ### Értelmező rendelkezések
 
@@ -169,6 +169,24 @@ hozható meg.
 
 - a) az Európai Parlament és a Tanács 2001/37/EK irányelve (2001. június 5.) a tagállamoknak a dohánytermékek gyártására, kiszerelésére és árusítására vonatkozó törvényi, rendeleti és közigazgatási rendelkezései közelítéséről;
 - b) az Európai Parlament és a Tanács 2003/33/EK irányelve (2003. május 26.) a tagállamok dohánytermékek reklámozására és szponzorálására vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről, 5. cikk (2) bekezdése [a törvény 5. §-ának (4) bekezdése].
+
+9. § (1) A kereskedelemről szóló törvény szerint szálláshelynek minősülő, jogszabály alapján szállodaként üzemeltetett közforgalmú intézményben a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosításáról szóló 2011. évi XLI. törvény (a továbbiakban: Módosító Tv.) hatálybalépésekor már működtetett és a (3) és (4) bekezdés szerint engedélyezett zárt légterű dohányzóhely – szivarszobaként – tovább működtethető. A tovább működtetést az egészségügyi államigazgatási szerv engedélyezi.
+
+(2) Az (1) bekezdés szerinti szivarszobában 2012. január 1-jétől más szolgáltatás nem nyújtható, különösen étel vagy ital nem szolgálható fel, a szolgáltatást igénybevevő dohányzó vendégek ott tartózkodásának tartama alatt a munkavállaló a szivarszobában tartózkodását szükségessé tevő munkaköri feladat ellátására nem kötelezhető.
+
+(3) Az (1) bekezdés szerinti szálloda üzemeltetője, ha a szivarszobáját 2011. december 31-ét követően tovább kívánja működtetni, a Módosító Tv. hatálybalépését követő 60 napon belül kérheti ennek engedélyezését.
+
+(4) Az egészségügyi államigazgatási szerv helyszíni szemlét is magában foglaló hatósági eljárás keretében köteles megvizsgálni, hogy a bejelentett szivarszoba az (5) és (6) bekezdésben fogalt feltételeknek megfelel-e. Ha a bejelentett szivarszoba e feltételeknek
+
+- a) nem felel meg, az egészségügyi államigazgatási szerv a szivarszoba dohányzóhelyként történő kijelölését 2012. január 1-jével megtiltja,
+- b) megfelel, az egészségügyi államigazgatási szerv a szivarszoba tovább működtetését engedélyezi.
+
+(5) A szivarszobát felirat vagy más egyértelmű jelzés alkalmazásával – tűzvédelmi szempontú tilalom esetén szabványos tiltó táblával, illetve piktogrammal – szembetűnő módon meg kell jelölni.
+
+(6) A szivarszoba esetén a megfelelő légcsere feltételeit nyílászáró szerkezetekkel vagy egyéb műszaki berendezés felszerelésével biztosítani kell úgy, hogy dohányfüst a nemdohányzó helyiségekbe ne juthasson be. E bekezdés alkalmazásában a légcsere abban az esetben megfelelő, ha a helyiségben legalább
+
+- a) a friss levegő befúvását, illetve az elhasznált levegő elszívását biztosító mechanikus szellőztető berendezés működik, és
+- b) a dohányzóhelyek kijelölése, valamint a helyiség légöblítése olyan módon került kialakításra, hogy a dohányfüst a keletkezése helyétől közvetlenül az elszívócsatornába áramlik anélkül, hogy a nemdohányzó helyek az áramlás irányába esnének.
 
 ### Melléklet az 1999. évi XLII. törvényhez
 
