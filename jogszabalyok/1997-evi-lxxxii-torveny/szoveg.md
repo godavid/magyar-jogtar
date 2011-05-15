@@ -386,12 +386,21 @@ az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag k
 
 (10) A 23. § (1) bekezdés f) pontjában meghatározott esetben a magán-nyugdíjpénztári tagnak a magánnyugdíjrendszerben fennálló tagsági jogviszonya fenntartásának szándékáról – ha e törvény eltérően nem rendelkezik – személyazonosságának ellenőrzése céljából személyesen, a nyugdíjbiztosítási igazgatási szervnél kell nyilatkoznia. Azt a magán-nyugdíjpénztári tagot, aki a nyugdíjbiztosítási igazgatási szerv előtti nyilatkozattételben testi fogyatékossága, egyéb egészségügyi ok miatt vagy azért akadályozott, mert személyi szabadságát korlátozó büntetés vagy intézkedés hatálya alatt áll, nyilatkozattételének lehetővé tétele érdekében – kérésére – a nyugdíjbiztosítási igazgatási szerv felkeresi (a továbbiakban: helyszíni nyilatkozattétel). A helyszíni nyilatkozattétel lehetőségét a magán-nyugdíjpénztári tag 2011. január 21-éig írásban kérheti a nyugdíjbiztosítási igazgatási szervtől. A nyilatkozattételre rendelkezésre álló időtartam alatt tartósan külföldön foglalkoztatott, tartós külföldi szolgálatot teljesítő vagy külföldi tanulmányokat folytató magán-nyugdíjpénztári tag (a továbbiakban: tartósan külföldön tartózkodó pénztártag) nyilatkozatát személyesen a Magyar Köztársaság külképviseletén is megteheti.
 
-(11) A pénztár a függő tételként nyilvántartott tagdíjbefizetéseket, valamint a visszalépő tagok 2011. május 31-ére, mint fordulónapra vonatkozó piaci értékelés szerint számított követeléseinek értékét egy tételben, a tagok portfóliójában a fordulónapon meglévő eszközökben 2011. június 12-ig adja át a Nyugdíjreform és Adósságcsökkentő Alap részére. Az eszközöket – jogszabály ellenkező rendelkezése hiányában – a visszalépő tagok portfolióján belüli eszközök arányának megfelelően kell átadni.
+(11) A pénztár a függő tételként nyilvántartott tagdíjbefizetéseket és azok hozamait, valamint a visszalépő tagok 2011. május 31-ére mint fordulónapra vonatkozó piaci értékelés szerint számított követeléseinek értékét egy tételben, a tagok portfóliójában a fordulónapon meglévő eszközökben 2011. június 12-ig adja át a Nyugdíjreform és Adósságcsökkentő Alap részére. Az eszközöket – jogszabály ellenkező rendelkezése hiányában – a visszalépő tagok portfólióján belüli eszközök arányának megfelelően kell átadni.
 
 (12) A pénztár
 
 - a) a visszalépő tagi kifizetések összegét 2011. július 20-ig,
-- b) a függő tételekből beazonosított, pénztártagot illető tagdíjbefizetések összegét havonta, az adott hónapot követő hónap 8. napjáig igényli vissza a Nyugdíjreform és Adósságcsökkentő Alaptól.
+- b) a függő tételekből beazonosított, pénztártagot illető tagdíjbefizetések és ahhoz kapcsolódó hozamok összegét havonta, az adott hónapot követő hónap 8. napjáig igényli vissza a Nyugdíjreform és Adósságcsökkentő Alaptól.
+
+(13) A pénztár 2011. május 31-én jogosult a visszalépő tag egyéni számláját 795 Ft-tal csökkenteni és azt a működési tartalék javára jóváírni. A pénztár a működési tartalék javára jóváírt összeget a 2011. május 30-án meglévő működési és likviditási tartalék kimerülését követően használhatja fel. A pénztár a fel nem használt összeget 2011. szeptember 15-ig átutalja a Nyugdíjreform és Adósságcsökkentő Alap pénzforgalmi számlájára.
+
+(14) A visszalépő tagi kifizetések megállapításánál a hozamgarantált tőke összegét a 3. számú mellékletben szereplő képlet alkalmazásával kell számítani azzal, hogy
+
+- a) a számítás fordulónapjaként 2011. május 31-ét,
+- b) 2011. május hónapra a KSH által közzétett, 2011. áprilisra vonatkozó inflációs rátát
+
+kell alkalmazni.
 
 24/A. § (1) Amennyiben a pénztártag a 23. § (1) bekezdésének g) pontja szerinti választási lehetőségével élve magánnyugdíjpénztári tagsági jogviszonyát meg kívánja szüntetni és az egyéni számlán felhalmozott összeget – bármely országban működő – időskori megélhetést szolgáló megtakarítási formába kívánja utalni, arról a pénztár részére a nyugdíjbiztosítási jogviszony megszűnését követő 90 napon belül írásban nyilatkozik. A nyilatkozatban meg kell jelölni a pénztártag által választott megtakarítási formát, valamint az ezt működtető intézmény címét és pénzforgalmi számlájának számát.
 

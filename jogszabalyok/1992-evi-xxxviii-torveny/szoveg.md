@@ -127,7 +127,7 @@ Az Országgyűlés annak érdekében, hogy az államháztartási rendszer újras
 - d) a 113/A. § (2) bekezdésének e) pontja alapján az Államadósság Kezelő Központ Részvénytársaság (a továbbiakban: ÁKK Rt.) által állampapírokkal végzett repo ügyletek;
 - e) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 65. §-a alapján a Magyar Nemzeti Bank és a központi költségvetés közötti elszámolásokból a Magyar Nemzeti Bank deviza-árfolyamváltozásból származó eredményének (ideértve az eredménytartalékot is) és az értékpapírok értékesítéséből származó realizált eredményének tulajdonítható rész, előjelre való tekintet nélkül;
 - f) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény 17. § (4)–(5) bekezdései alapján a Magyar Nemzeti Bank kiegyenlítési tartalékaira nyújtott térítés és az azokról kapott visszatérítés;
-- g) a 18/B. § (1) bekezdés d), zs) és x) pontjaiban meghatározott megelőlegezési és likviditási hitelek;
+- g) a 18/B. § (1) bekezdés d), zs), x) és wa) pontjában meghatározott megelőlegezési és likviditási hitelek;
 - h) a Magyar Fejlesztési Bankról szóló 2001. évi XX. törvény 5. §-ának (2) bekezdése alapján vállalt árfolyam-garanciából eredő, a Magyar Fejlesztési Bank Rt. és a központi költségvetés közötti elszámolások előjelre való tekintet nélkül;
 - i) állami tulajdoni részesedés értékesítése;
 - j) a Magyar Állam nevében a többségi állami tulajdonú gazdasági társaságoknak nyújtott hitel, kölcsön és annak visszatérülése, amennyiben
@@ -482,6 +482,7 @@ látja el.
 - u) ellátja a külön jogszabályokban megjelölt hatósági letétekkel kapcsolatos kezelői feladatokat;
 - v) közreműködik a támogatási előirányzatok pályázati rendszerében a pénzügyi lebonyolítási és ellenőrzési feladatok ellátásában, ideértve a mezőgazdasági és vidékfejlesztési beruházások előirányzatait is;
 - w) ellátja a jogszabályban meghatározott, európai uniós forrásból származó, és egyéb nemzetközi támogatásokkal kapcsolatosan a támogatások fogadásáért felelős kifizető hatósági és igazoló hatósági feladatokat, valamint a Nemzeti Alap számára előírt feladatokat.
+  - wa) a kincstári egységes számla terhére, annak forrásaiból – jogszabályban meghatározott feltételekkel – kamatmentes megelőlegezési kölcsönt nyújthat a Nyugdíjreform és Adósságcsökkentő Alapnak a Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény 7. § c) pontjában meghatározott kifizetések teljesítéséhez.
 - x) a kincstári egységes számla terhére, annak forrásaiból kamatmentes megelőlegezési, likviditási hitelt nyújthat az Európai Unió részére történő cukorágazati hozzájárulás fizetési kötelezettség teljesítésére a mezőgazdasági és vidékfejlesztési támogatási szervnek;
 - y) a kincstári körbe tartozók esetén díjazás ellenében ellátja a kárpótlási jegyek őrzésével és kezelésével kapcsolatos feladatokat;
 - z) gondoskodik az Európai Unió közös költségvetéséhez való hozzájárulásokkal kapcsolatos, külön jogszabályban meghatározott feladatainak ellátásáról;
