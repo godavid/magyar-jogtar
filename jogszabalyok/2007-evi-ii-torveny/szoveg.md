@@ -678,6 +678,8 @@ miatt utasított ki.
 
 53. § (1) A többszöri eljárás megakadályozása, valamint a személyazonosság megállapítása céljából a kiutasítást előkészítő őrizetet, az idegenrendészeti kiutasítást, a kijelölt helyen való tartózkodást, valamint az idegenrendészeti őrizetet elrendelő, illetve a bírósági kiutasítást végrehajtó hatóság rögzíti a harmadik országbeli állampolgár arcképmását, valamint ujjnyomatát.
 
+(1a) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes, a nemzeti és az EK letelepedési engedély kérelmezésekor, valamint a 29. § (1) bekezdés a)–b) és d)–f) pontjai szerinti humanitárius tartózkodási engedély kiadásakor az idegenrendészeti hatóság a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján jár el.
+
 (2) A harmadik országbeli állampolgár az arcképmása, valamint az ujjnyomata rögzítését tűrni köteles.
 
 ### Az őrizet
@@ -895,6 +897,10 @@ miatt utasított ki.
 (3) Az ellenőrzés során a harmadik országbeli állampolgárnál talált, más személy részére kiállított és jogtalanul birtokban tartott úti okmányt a hatóság lefoglalja, és – amennyiben nem indul büntetőeljárás – továbbítja az azt kiállító állam magyarországi külképviseletének, ennek hiányában a külpolitikáért felelős miniszter útján megküldi az azt kiállító szervnek.
 
 (4) Azt a harmadik országbeli állampolgárt, aki a magyarországi tartózkodás jogszerűségét vagy személyazonosságát hitelt érdemlően nem tudja igazolni, illetve az e törvényben foglalt szabályokat megsérti, az idegenrendészeti hatósághoz elő kell állítani.
+
+(4a) A biometrikus adatokat tartalmazó tartózkodásra jogosító okmány tároló elemének a harmadik országbeli állampolgár azonosítása céljából valamely fizikai tulajdonságának (arcképmás, ujjnyomat) rögzítésével előállított személyes adatait az idegenrendészeti hatóság a személyes adatnak a tároló elemből történő olvasásával kezelheti a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában meghatározott célból.
+
+(4b) Az idegenrendészeti hatóság a (4a) bekezdésben meghatározott célból rögzített ujjnyomat-adatot kizárólag a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában foglaltak megállapítása céljából, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.
 
 (5) Ha az előállítás időtartama alatt a harmadik országbeli állampolgár tartózkodásának jogcíme vagy a harmadik országbeli állampolgár személyazonossága nem állapítható meg, a harmadik országbeli állampolgárral szemben legfeljebb tizenkét óra időtartamra visszatartás intézkedést kell alkalmazni, amely ellen panasznak van helye.
 
@@ -1133,8 +1139,13 @@ szerinti állam vonatkozásában.
 - g) a kiadott (meghosszabbított) tartózkodási engedély száma, sorozatszáma, érvényességi ideje;
 - h) az első beutazás és az utolsó kiutazás időpontja;
 - i) a szálláshely címe;
+- j) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás és ujjnyomat.
 
 (2) Az (1) bekezdés a)–i) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) tartózkodási engedély esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
+
+(3) Az (1) bekezdés j) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig, illetve a 29. § (1) bekezdés a)–b) és d)–f) pontjában meghatározott humanitárius tartózkodási engedély kiadásáig kezelheti, azt követően haladéktalanul törölni kell.
+
+96/A. § A kishatárforgalmi engedély kiadásához rögzített, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás- és ujjnyomatadatot az idegenrendészeti hatóság a kishatárforgalmi engedély iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig kezelheti, azt követően haladéktalanul törölni kell.
 
 97. § (1) Az idegenrendészeti hatóság a meghívó, továbbá a meghívott harmadik országbeli állampolgár következő adatait kezeli:
 
@@ -1171,8 +1182,11 @@ szerinti állam vonatkozásában.
 - h) a lakcím;
 - i) a személyi azonosító;
 - j) a személyazonosító igazolvány okmányszáma;
+- k) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás és ujjnyomat.
 
 (2) Az (1) bekezdés a)–j) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedélyek iránti kérelem elutasítása esetén annak időpontjától, illetve a jogállás megszűnésétől számított húsz évig kezeli.
+
+(3) Az (1) bekezdés k) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedély iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig kezelheti, azt követően haladéktalanul törölni kell.
 
 100. § (1) Az idegenrendészeti hatóság az úti okmány elvesztését, eltulajdonítását vagy megsemmisülését bejelentő harmadik országbeli állampolgár következő adatait kezeli:
 

@@ -262,6 +262,8 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 (2) Az eljáró hatóság a kérelem benyújtásával egyidejűleg igazolást ad ki, amely tanúsítja a harmadik ország állampolgárságával rendelkező családtag tartózkodási jogát. A 8. § (1) bekezdés alkalmazása esetén az eljáró hatóság a kérelem benyújtásával egyidejűleg igazolást ad ki, amely tanúsítja, hogy a harmadik ország állampolgárságával rendelkező személy tartózkodási jogot igazoló okmány kiállítása iránti kérelmet nyújtott be. Az igazolást három hónapos érvényességgel kell kiállítani, amely a kérelem jogerős elbírálásáig alkalmanként legfeljebb három hónappal meghosszabbítható.
 
+(2a) Az eljáró hatóság a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja tartózkodási kártya kiadása iránti kérelme benyújtásakor a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelete, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján jár el.
+
 (3) A tartózkodási kártya kiadása iránti kérelmet az eljáró hatóság a tartózkodási kártya kiadásával teljesíti, vagy azt határozattal utasítja el.
 
 (4) A tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított három hónapon belül hozza meg.
@@ -329,7 +331,11 @@ ha a haláleset vagy a névváltoztatást eredményező tény a Magyar Köztárs
 
 (2) Ha az érintett menekültügyi eljárás alatt áll, a visszairányítás és a kiutasítás csak a menekültügyi hatóság kérelmet elutasító jogerős és végrehajtható határozata alapján hajtható végre.
 
-35. § Az e törvényben foglalt tartózkodási feltételek fennállását, valamint a bejelentési kötelezettségek teljesítését az eljáró hatóság ellenőrizheti, amennyiben adat merül fel arra nézve, hogy e feltételek nem állnak fenn, vagy az érintett a bejelentési kötelezettségének nem tett eleget.
+35. § (1) Az e törvényben foglalt tartózkodási feltételek fennállását, valamint a bejelentési kötelezettségek teljesítését az eljáró hatóság ellenőrizheti, amennyiben adat merül fel arra nézve, hogy e feltételek nem állnak fenn, vagy az érintett a bejelentési kötelezettségének nem tett eleget.
+
+(2) A biometrikus adatokat tartalmazó tartózkodásra jogosító okmány tároló elemének a harmadik ország állampolgárságával rendelkező személy valamely fizikai tulajdonságának (arcképmás, ujjnyomat) rögzítésével előállított személyes adatait az eljáró hatóság a személyes adatnak a tároló elemből történő olvasásával kezelheti a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában meghatározott célból.
+
+(3) Az eljáró hatóság a (2) bekezdésben meghatározott célból rögzített ujjnyomatadatot kizárólag a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában foglaltak megállapítása céljából, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.
 
 ### A beléptetés megtagadása és a visszairányítás
 
@@ -714,6 +720,10 @@ bírálja el.
 - g) a regisztrációt, illetve a tartózkodási jogot igazoló okmány cseréjének, pótlásának, az okmány elvesztésének, megsemmisülésének, a talált okmány visszaadásának tényét,
 - h) az EGT-állampolgár családi állapotát, amennyiben ez más személy tartózkodási jogát alapozza meg.
 
+76/A. § (1) A 75. § (1) bekezdésének b) pontja szerinti résznyilvántartás a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagjának arcképmását és ujjnyomatát is tartalmazza.
+
+(2) Az (1) bekezdésben meghatározott adatokat az eljáró hatóság a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja tartózkodási jogát igazoló okmány kiadása iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig kezelheti, azt követően haladéktalanul törölni kell.
+
 76/B. § (1) Az eljáró hatóság a három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem és a kiadott vízum, illetve vízumot helyettesítő engedély (a továbbiakban e §-ban együtt: vízum) alapján a harmadik ország állampolgárságával rendelkező családtag következő adatait kezeli:
 
 - a) családi és utónév (nevek);
@@ -733,6 +743,8 @@ bírálja el.
 - o) a szálláshely címe.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság vízumkérelem elutasítása esetén annak időpontjától, a kiadott vízum esetén annak érvényességi ideje lejártát, illetve visszavonását követő öt évig kezeli.
+
+76/D. § A kishatárforgalmi engedély kiadásához rögzített, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás és ujjnyomat adatot az eljáró hatóság a kishatárforgalmi engedély iránti kérelem tárgyában hozott jogerős és végrehajtható döntésig kezelheti, azt követően haladéktalanul törölni kell.
 
 77. § A tartózkodási jogot igazoló okmányokról vezetett résznyilvántartásokban az adatok a tartózkodási jog megszűnésétől vagy a tartózkodási jog gyakorlásával való felhagyás megállapításától számított öt évig kezelhetők.
 

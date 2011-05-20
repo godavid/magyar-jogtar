@@ -246,7 +246,9 @@ a menedékjogról a következő törvényt alkotja:
 - a) szálláshelyét, valamint annak megváltozását a menekültügyi hatóságnak bejelenteni;
 - b) a menekültügyi hatósággal együttműködni;
 - c) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni;
-- d) a Magyar Köztársaság jogszabályait megtartani. [(3) Az (1) bekezdés a) pontja szerinti okmány megfelel a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben foglaltaknak.]
+- d) a Magyar Köztársaság jogszabályait megtartani.
+
+(3) Az (1) bekezdés a) pontja szerinti okmány megfelel a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben foglaltaknak.
 
 ### Az ideiglenes védelem tartama
 
@@ -384,8 +386,6 @@ a menedékjogról a következő törvényt alkotja:
 (8) Családtagok közös kérelmezése esetén az elismerés iránti kérelmet az eljárási képességgel rendelkező elismerését kérő a családtagjaira is kiterjedően nyújtja be.
 
 (9) Az elismerés iránti közös kérelem a cselekvőképes vagy korlátozottan cselekvőképes családtagra akkor terjed ki, ha a közös kérelmezéshez előzetesen vagy legkésőbb személyes meghallgatásakor írásban hozzájárul. Az elismerés iránti közös kérelem a cselekvőképtelen családtagra a törvényes képviselő vagy az ügygondnok írásbeli hozzájárulásával terjed ki.
-
-[(10) A menekültügyi hatóság az elismerés iránti kérelem benyújtásakor intézkedik az elismerését kérő arcképmásának, valamint ujjnyomatának rögzítése iránt.]
 
 35/A. § A fogvatartott elismerését kérő ügyében a menekültügyi eljárást soron kívül kell lefolytatni.
 
@@ -895,25 +895,13 @@ céljából a menekültügyi nyilvántartásban kezeli.
 
 (3) Az ujjnyomat rögzítésének és tárolásának célja az elismerését kérő azonosítása és a kérelem többszöri benyújtásának megállapítása. Az eljáró hatóság a rögzített ujjnyomatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja a (4) bekezdés szerinti adatfeldolgozó szervnek.
 
-[(3) Az ujjnyomat-adat rögzítésének és tárolásának célja
-
-a) a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról szóló, 2000. december 11-i 2725/2000/EK tanácsi rendelet 4. cikkében foglaltak végrehajtása;
-
-b) a tizenkettedik életévét betöltött elismerését kérő esetében a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 21. és 22. cikke szerinti hozzáférés biztosítása.]
-
 (4) A (3) bekezdésben meghatározott adatkör tekintetében adatfeldolgozó a miniszter rendeletében meghatározott szerv. Az adatoknak az Eurodac központi egységéhez történő továbbításáért, az adatok fogadásáért, illetve azok összehasonlításáért az adatkezelő felel.
 
-[(4) A menekültügyi hatóság a (3) bekezdés a) pontjában meghatározott célból rögzített ujjnyomat-adatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja az (5) bekezdés szerinti adatfeldolgozó szervnek.]
+(5) Az e törvény alapján kiadott okmányok a menekültügyi nyilvántartásban szereplő adatok közül azokat tartalmazzák, amelyek a jogosult személyazonosságának megállapításához, valamint az okmány által biztosított jogosultság fennállásának igazolásához szükségesek.
 
-(5) [(7)] Az e törvény alapján kiadott okmányok a menekültügyi nyilvántartásban szereplő adatok közül azokat tartalmazzák, amelyek a jogosult személyazonosságának megállapításához, valamint az okmány által biztosított jogosultság fennállásának igazolásához szükségesek.
+(8) A menekültügyi hatóság a menedékesként elismert harmadik országbeli állampolgárnak a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás- és ujjnyomatadatait kezeli.
 
-[(5) A (4) bekezdésben meghatározott adatkör tekintetében adatfeldolgozó a miniszter rendeletében meghatározott szerv. Az adatoknak az Eurodac központi egységéhez történő továbbításáért, az adatok fogadásáért, illetve azok összehasonlításáért az adatkezelő felel.
-
-(6) A menekültügyi hatóság a (3) bekezdés b) pontjában meghatározott célból rögzített ujjnyomat-adatot kizárólag a VIS rendelet 21. és 22. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.]
-
-[(8) A menekültügyi hatóság a menedékesként elismert harmadik országbeli állampolgárnak a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás- és ujjnyomatadatait kezeli.]
-
-[(9) A menekültügyi hatóság a (8) bekezdésben meghatározott célból rögzített ujjnyomatadatot a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában foglaltak céljából, annak befejezéséig kezelheti.]
+(9) A menekültügyi hatóság a (8) bekezdésben meghatározott célból rögzített ujjnyomatadatot a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában foglaltak céljából, annak befejezéséig kezelheti.
 
 84. § (1) A befogadó állomás – az állomáson elhelyezett személyek jogosultságainak biztosítása, valamint az e törvényben és külön jogszabályban meghatározott ellátásra és támogatásra való jogosultság megállapítása céljából – nyilvántartást vezet
 
