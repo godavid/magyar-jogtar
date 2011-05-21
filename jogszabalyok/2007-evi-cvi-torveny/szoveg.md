@@ -749,7 +749,7 @@ lép.
 
 69. § (1)–(2)
 
-(3) A Tanács 2007. november 30-ig köteles intézkedni annak érdekében, hogy a Herendi Porcelánmanufaktúra Zrt. állami tulajdonban lévő részvényei a Regionális Fejlesztési Holding Zrt. tulajdonába kerüljenek. A Regionális Fejlesztési Holding Zrt. az ily módon tulajdonába került részvényeket nem idegenítheti el.
+(3)
 
 (4) E törvény hatálybalépésével a költségvetési kutatóhelynek minősülő központi költségvetési szerv válik a kincstári vagyon részét képező, az e törvény hatálybalépése előtt az adott kutatóhelyre jogszabály erejénél fogva átszálló, illetve ellenérték fejében vagy ingyenesen szerzett, szellemi alkotáson fennálló jogok jogosultjává, valamint a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 19. §-a szerinti hasznosító vállalkozásban szerzett részesedés tulajdonosává.
 
@@ -828,3 +828,4 @@ A tartós állami tulajdonú társasági részesedésekkel működő társaságo
 | Észak-dunántúli Regionális Vízmű Zrt. | 75% + l szavazat |
 | Észak-magyarországi Regionális Vízművek Zrt. | 75% + 1 szavazat |
 | Tiszamenti Regionális Vízművek Zrt. | 75% + 1 szavazat |
+| Herendi Porcelánmanufaktúra Zrt. | 25%+1 szavazat |
