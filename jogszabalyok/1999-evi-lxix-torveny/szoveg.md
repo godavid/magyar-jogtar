@@ -1691,6 +1691,18 @@ elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
 
 (3) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság hatáskörébe tartozik.
 
+### A polgárőr tevékenység szabálytalan ellátása
+
+142/B. § (1) Ha a polgárőr a polgárőrségről szóló törvény rendelkezéseinek megszegésével látja el a polgárőrség törvényben meghatározott feladatait, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság hatáskörébe tartozik.
+
+### Közbiztonsági tevékenység jogosulatlan végzése
+
+142/C. § (1) Aki közterületen vagy nyilvános helyen olyan, a közbiztonság, közrend fenntartására irányuló tevékenységet végez, amelyre jogszabály nem jogosítja fel vagy ilyen tevékenység látszatát kelti, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság határkörébe tartozik.
+
 ### Tiltott kéjelgés
 
 143. § (1) Aki a külön törvényben, vagy törvény felhatalmazása alapján hozott önkormányzati rendeletben a szexuális szolgáltatással összefüggő korlátozást, illetve tilalmat megszeg, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
