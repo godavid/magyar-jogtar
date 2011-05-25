@@ -110,7 +110,7 @@ bárki számára hozzáférhető legyen.
 - 51. az 1921. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a hajókon alkalmazott gyermekek és fiatalkorúak kötelező orvosi vizsgálata tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XVIII. törvény
 - 52. az 1919. évben Washingtonban tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a fiatalkorúak éjjeli ipari munkája tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXVI. törvény
 - 53. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az üzemi balesetek kártalanítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXIX. törvény
-- 54. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a foglalkozási betegségek kártalanítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXX. törvény
+- 54.
 - 55. az 1925. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az idegen és a saját honos munkavállalóknak az üzemi balesetek kártalanítása szempontjából egyenlő elbánásban részesítése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXXI. törvény
 - 56. az 1927. évben Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által az ipar és a kereskedelem körében foglalkoztatott munkavállalóknak és a háztartási alkalmazottaknak betegségi biztosítása tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1928. évi XXXII. törvény
 - 57. a közlekedés és átmenet szabadsága tárgyában Barcelonában az 1921. évben tartott általános értekezleten megállapított egyes okmányok becikkelyezéséről szóló 1928. évi XXXIX. törvény
@@ -131,7 +131,7 @@ bárki számára hozzáférhető legyen.
 - 72. a tengeri hajók tulajdonosainak felelősségére vonatkozólag az 1924. évi augusztus hó 25. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1931. évi IV. törvény
 - 73. a törvényes elsőbbségekre és tengeri jelzálogokra vonatkozólag az 1926. évi április hó 10. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1931. évi V. törvény
 - 74. a hajóselismervényekre vonatkozólag az 1924. évi augusztus hó 25. napján Brüsszelben kelt egyezmény becikkelyezése tárgyában című 1931. évi VI. törvény
-- 75. az 1926. évben, Genfben tartott Nemzetközi Munkaügyi Egyetemes Értekezlet által a kivándorlók hajókon történő felügyeletének egyszerűsítése tárgyában tervezet alakjában elfogadott nemzetközi egyezmény becikkelyezéséről szóló 1931. évi VII. törvény
+- 75.
 - 76. a Görögországgal Athénben 1930. évi május hó 5. napján kötött békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1931. évi X. törvény
 - 77. a Rigában 1930. évi augusztus hó 13. napján kelt magyar–lett békéltető eljárási és választott bírósági szerződés becikkelyezéséről szóló 1931. évi XII. törvény
 - 78. az irodalmi és a művészeti művek védelméről szóló római nemzetközi egyezmény becikkelyezése tárgyában című 1931. évi XXIV. törvény
