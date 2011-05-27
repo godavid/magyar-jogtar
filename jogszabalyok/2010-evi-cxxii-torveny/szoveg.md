@@ -823,7 +823,21 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 79. § A NAV vámszerve az elektronikus úton kapcsolatot tartó ügyfél azonosítása érdekében nyilvántartja az elektronikus úton kapcsolatot tartó természetes személy (felhasználó) természetes személyazonosító adatait, lakcímét, elektronikus levélcímét, adóazonosító jelét, állampolgárságát.
 
-80. § Az Európai Unióról szóló szerződés K.3. cikke alapján létrejött, az információtechnológia vámcélokra történő használatáról szóló Egyezménnyel összefüggésben az EU váminformációs rendszerének adataihoz való közvetlen hozzáférésre a NAV jogosult.
+80. § (1) Az információs technológia vámügyi alkalmazásáról szóló 2009/917/IB tanácsi határozattal összefüggésben az EU váminformációs rendszerének adataihoz való közvetlen hozzáférésre, nemzeti hatóságként a NAV jogosult.
+
+(2) A nemzeti hatóság az EU váminformációs rendszerébe a nemzeti jogszabályok súlyos megsértésének megelőzése, kivizsgálása, az információk gyorsabb hozzáférhetőbbé tételével a büntetőeljárás lefolytatásának és a tagállamok vámigazgatási szervei közötti együttműködés és ellenőrzési eljárások hatékonysága céljából rögzíti a természetes személyek:
+
+- a) személyes adatait:
+  - aa) családnév, leánykori név, utónevek, korábbi családnevek és felvett nevek,
+  - ab) születési hely és idő,
+  - ac) állampolgárság,
+  - ad) nem,
+  - ae) személyazonosító okmányok (útlevelek, személyazonosító igazolványok, vezetői engedélyek) száma, kiadásának helye és ideje,
+  - af) lakcím,
+- b) az elkövetett jogsértés megnevezését,
+- c) alkalmazott szankciót.
+
+(3) Az EU váminformációs rendszeréből a nemzeti hatóság által rögzített személyes adatokat a 72. § (1) bekezdésében meghatározott törlési határidők alapján, de legfeljebb húsz év elteltével törölni kell.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
