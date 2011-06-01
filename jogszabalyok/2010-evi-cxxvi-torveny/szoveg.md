@@ -86,7 +86,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a kormánymegbízott országgyűlési képviselő legyen, valamint tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen.
 
-(3) A kormánymegbízott illetményét a közigazgatás-szervezésért felelős miniszter – legfeljebb a köztisztviselői illetményalap 28-szorosában – állapítja meg.
+(3) A kormánymegbízott illetményét a közigazgatás-szervezésért felelős miniszter – legfeljebb a köztisztviselői illetményalap 28-szorosában – állapítja meg. A kormánymegbízott – amennyiben kormányrendelet másként nem rendelkezik – helyettes államtitkárt megillető juttatásokra jogosult.
 
 (4) A kormánymegbízottra az e törvényben nem szabályozott kérdésekben a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény helyettes államtitkárra vonatkozó rendelkezéseit kell az illetménypótlékra és illetménykiegészítésre vonatkozó szabályok kivételével alkalmazni.
 
@@ -96,7 +96,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (3) A főigazgatót a kormánymegbízott javaslatára a közigazgatás-szervezésért felelős miniszter nevezi ki és menti fel. A főigazgató felett – a kinevezés, a felmentés, a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a kormánymegbízott gyakorolja.
 
-(4) Főigazgatói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és legalább 5 év vezetői gyakorlattal rendelkezik.
+(4) Főigazgatói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és legalább 5 év vezetői gyakorlattal rendelkezik. A kormányhivatalt vezető kormánymegbízott kérelmére, valamint a fővárosi és megyei kormányhivatalok működését irányító államtitkár javaslatára a közigazgatás szervezéséért felelős miniszter a vezetői gyakorlat megléte alól kivételesen indokolt esetben felmentést adhat.
 
 (5) A főigazgató minisztériumi főosztályvezetői besorolású, határozatlan időre kinevezett kormánytisztviselő.
 
@@ -123,6 +123,8 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 (2) A szakigazgatási szerv kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat a szakigazgatási szerv vezetője gyakorolja.
 
 (3) A szakigazgatási szerv kormánytisztviselőjének kinevezni javasolt személyről a szakigazgatási szerv vezetője tájékoztatja a kormánymegbízottat, aki a javasolt személlyel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki a szakigazgatási szervnél kormánytisztviselőnek.
+
+(4) A szakigazgatási szerv vezetője a szakigazgatási szervnek a törvény vagy kormányrendelet alapján létrehozott önálló feladat- és hatáskörrel rendelkező szervezeti egységének vezetője vezetői munkakörbe történő kinevezésére és felmentésére vonatkozó hatáskörét a kormánymegbízott egyetértésével gyakorolja.
 
 #### 9. A fővárosi és megyei kormányhivatal feladat- és hatásköre
 

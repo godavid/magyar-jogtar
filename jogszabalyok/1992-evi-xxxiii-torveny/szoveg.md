@@ -1131,7 +1131,7 @@ alapszabadság illeti meg.
 
 57. § (1) A közalkalmazottnak a fizetési fokozatával egyenlő számú munkanap pótszabadság jár. Az 1. fizetési fokozatban a közalkalmazottat e címen pótszabadság nem illeti meg.
 
-(2)
+(2) A magasabb vezető megbízású közalkalmazottat évi tíz munkanap, a vezető megbízásút évi öt munkanap pótszabadság illeti meg.
 
 (3) A bölcsődékben, a csecsemőotthonokban, az óvodákban, továbbá az alsó-, közép- és felsőfokú oktatás keretében, valamint az egészségügyi ágazatban az oktató, nevelő munkát végző közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg, amelyből legfeljebb tizenöt munkanapot a munkáltató oktató, nevelő, illetőleg az oktatással, neveléssel összefüggő munkára igénybe vehet. Az oktatással és neveléssel kapcsolatos munkák körét végrehajtási rendelet állapítja meg.
 
