@@ -54,11 +54,10 @@ egyes közszolgálati tárgyú törvények módosításáról
 
 - a) 1. § (4) bekezdésében a „, közigazgatási versenyvizsgán” szövegrész,
 - b) 10/C. §-a,
-- c) 25. § (8) bekezdésében az „és részt vett a jogszabály által meghatározott felkészítő tanfolyamon” szövegrész,
-- d) 33. § (4) bekezdés utolsó mondatában a „, valamint a vizsga letételéhez szükséges és jogszabály által meghatározott felkészítő tanfolyam költsége” szövegrész,
+- c)–d)
 - e) 80. § (1) bekezdés j) pontja.
 
-(3) Hatályát veszti a Ktjv. 19. § (3) bekezdésében a „,továbbá a Földmérési és Távérzékelési Intézetnél” szöveg.
+(3)
 
 24. § (1) Az, akinek a közszolgálati jogviszonya, kormánytisztviselői jogviszonya 2011. szeptember 1-jét megelőzően és a közigazgatási versenyvizsga kötelezettség megszűnését követően keletkezett, közigazgatási alapvizsgát köteles tenni 2012. szeptember 1-jéig, kivéve, ha ezen időpontig az alapvizsga alól jogszabály alapján mentesül. Az alapvizsga költségeit a munkáltató viseli. Ha ezen kötelezettségét ez idő alatt nem teljesíti, vagy az alól nem mentesül, közszolgálati jogviszonya megszűnik. A közigazgatási alapvizsga letételére előírt határidőbe nem számít be a 30 napot meghaladó fizetés nélküli szabadság, valamint a keresőképtelenség, továbbá a 30 napot meghaladó hivatalos kiküldetés időtartama.
 
