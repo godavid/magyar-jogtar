@@ -176,7 +176,7 @@ Horvát Köztársaság Kormánya nevében
 
 (2) A törvény 2–3. §-a a Megállapodás 13. Cikkének (3) bekezdésében meghatározott időpontban lép hatályba.
 
-(3) A 4. §, valamint az 5. § (4) bekezdése a Megállapodás 13. Cikkének (1) bekezdésében meghatározott időpontban hatályát veszti.
+(3)
 
 (4)
 
