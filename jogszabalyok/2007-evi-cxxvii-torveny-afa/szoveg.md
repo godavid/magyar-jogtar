@@ -67,6 +67,14 @@ abban az esetben kell alkalmazni, ha arról az a) pontban említett esetben az E
 
 (3) A (2) bekezdéstől függetlenül a tulajdon kisajátítása, valamint a 2. számú mellékletben felsorolt tevékenységek nem minősülhetnek közhatalmi tevékenységnek.
 
+(4) A (2) bekezdés sérelme nélkül közhatalmi tevékenységnek minősül továbbá a jogszabály által kijelölt közreműködő szervezeteknek az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjét, a Svájci–Magyar Együttműködési Program, valamint az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus végrehajtását meghatározó jogszabályok hatálya alá tartozó uniós és egyéb nemzetközi források felhasználásának lebonyolításával kapcsolatos tevékenysége.
+
+(5) A (4) bekezdés vonatkozásában közreműködő szervezet:
+
+- a) az európai uniós források tekintetében az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet (a továbbiakban: 1083/2006/EK tanácsi rendelet) 2. cikk 6. pontja szerint bármely közjogi vagy magánjogi intézmény, amely egy irányító vagy az igazoló hatóság illetékessége alatt jár el, vagy ilyen hatóság nevében hajt végre feladatokat a műveleteket végrehajtó kedvezményezettek tekintetében,
+- b) a 348/2007. (XII. 20.) Korm. rendelettel kihirdetett, a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás alapján a Svájci–Magyar Együttműködési Program tekintetében a Projektek végrehajtását végző Projekt Végrehajtók tekintetében bármely, a Nemzeti Koordinációs Egység felelőssége alatt vagy a Nemzeti Koordinációs Egység nevében eljáró köz- vagy magánszférába tartozó jogi személy vagy szervezet,
+- c) a 201/2005. (IX. 27.) Korm. rendelettel kihirdetett, a Norvég Királyság Kormánya és a Magyar Köztársaság Kormánya között 2005. június 10-én létrejött, a Norvég Finanszírozási Mechanizmus 2004–2009 közötti végrehajtásáról szóló együttműködési megállapodás, valamint egyrészről az Izlandi Köztársaság Kormánya, a Liechtensteini Nagyhercegség Kormánya, a Norvég Királyság Kormánya, másrészről a Magyar Köztársaság Kormánya között 2005. július 7-én létrejött, az EGT Finanszírozási Mechanizmus 2004–2009 közötti végrehajtásáról szóló együttműködési megállapodás alapján az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus tekintetében az a támogatásközvetítő szervezet, amely a pályázati alap projektgazdája, a pályázati alapot kezelő, az annak keretében rendelkezésre álló támogatást további pályáztatással szétosztó szervezet.
+
 ### Csoportos adóalanyiság
 
 8. § (1) Azok az adóalanyok,
@@ -2944,6 +2952,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 (3) A 3. számú melléklet I. részének a Mód1. törvénnyel megállapított 18. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2011. január 1-jére vagy azt követő napra esik.
 
 271. § A 3. számú melléklet II. rész az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosításáról szóló 2011. évi XXXV. törvénnyel megállapított 2. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosításáról szóló 2011. évi XXXV. törvény hatálybalépésének napjára vagy azt követő időszakra esik.
+
+272. § A 7. §-nak az Összefogás az Államadósság Ellen Alapba történő befizetésekhez kapcsolódó kedvezmények megalkotásáról és az Alap létrehozásával kapcsolatos törvénymódosításokról szóló 2011. évi. LVII. törvénnyel (a továbbiakban: Módtv.) megállapított (4)–(5) bekezdéseit azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont a Módtv. hatálybalépésének napjára vagy azt követő időszakra esik.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
