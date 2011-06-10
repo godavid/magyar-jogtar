@@ -166,7 +166,7 @@ Az Országgyűlés annak érdekében, hogy az államháztartási rendszer újras
 8/D. § (1) A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény szerinti Nyugdíjreform és Adósságcsökkentő Alap
 
 - a) a vagyonát képező, a Magyar Állam által kibocsátott, hitelviszonyt megtestesítő értékpapírokat azok bevonása céljából térítésmentesen átadja a Magyar Államnak,
-- b) a vagyonába tartozó eszközökből származó bevételeket a Magyar Állam javára fizeti meg.
+- b) a vagyonába tartozó eszközökből, valamint az Összefogás az Államadósság Ellen Alapból származó bevételeket a Magyar Állam javára fizeti meg.
 
 (2) Az (1) bekezdés a) pontja szerinti vagyonátadás értéke költségvetési bevételként nem számolható el.
 
@@ -529,7 +529,7 @@ látja el.
 (6) A kincstárban pénzforgalmi számlát kötelesek vezetni
 
 - a) a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó jogi személyiségű területfejlesztési tanácsok és munkaszervezeteik működési és fejlesztési célú pénzeszközeik kezelésére,
-- b) a Nemzeti Média- és Hírközlési Hatóság önálló jogi személyiségű Médiatanácsa,
+- b) a Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság önálló jogi személyiségű Médiatanácsa,
 - c) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 - d) a Magyar Nemzeti Vagyonkezelő Zrt.,
 - e) a külön jogszabályban meghatározott hallgatói hitelt nyújtó Diákhitel Központ,
@@ -1276,7 +1276,7 @@ részletes jelentést tesznek közzé az államháztartás vagyoni és pénzügy
 
 (8) Amennyiben a beszámítás során a kincstár a felhatalmazás alapján beszedési megbízást nyújt be, az ehhez szükséges fedezet biztosítása – az előirányzat felhasználási ütemterve alapján – a helyi önkormányzat feladata.
 
-(9) Az e törvényben szereplő, kincstár által benyújtott beszedési megbízások teljesítése céljából a helyi önkormányzat köteles a felhatalmazást a számlavezető hitelintézet részére megadni. Az erről szóló dokumentációt a kincstár illetékes területi szerve útján a kincstár részére kell megküldeni. A helyi önkormányzat pénzforgalmi számlavezetőjének megváltozása esetén az új számlavezető ellenjegyzésével aláírt felhatalmazó levelet a változás bejelentésével egyidejűleg köteles megküldeni a kincstár illetékes területi szerve útján a kincstár részére.
+(9) Az e törvényben szereplő, kincstár által benyújtott beszedési megbízások teljesítése céljából a helyi önkormányzat köteles a felhatalmazást a számlavezető hitelintézet részére megadni. Amennyiben az önkormányzati hivatal pénzforgalmi számláján kívül az önkormányzat önálló pénzforgalmi számlával is rendelkezik, a felhatalmazást mindkét számlára nézve meg kell adni. Az erről szóló dokumentációt a kincstár illetékes területi szerve útján a kincstár részére kell megküldeni. A helyi önkormányzat pénzforgalmi számlavezetőjének megváltozása esetén az új számlavezető ellenjegyzésével aláírt felhatalmazó levelet a változás bejelentésével egyidejűleg köteles megküldeni a kincstár illetékes területi szerve útján a kincstár részére.
 
 (10) A (9) bekezdésben foglalt kötelezettség elmulasztása esetén a kincstár értesítése alapján a helyi önkormányzatokért felelős miniszter a költségvetési támogatás folyósítását a kötelezettség teljesítéséig felfüggeszti. Ilyen esetben az önkormányzatot a 64/A. § (7) bekezdés szerinti kamat nem illeti meg.
 
@@ -1532,7 +1532,9 @@ kell érteni.
 
 83. § A helyi önkormányzat az államháztartási mérlegrendszerre és a költségvetési szervek számvitelére vonatkozó előírások figyelembevételével önállóan alakítja ki pénzügyi, számviteli rendszerét.
 
-83/A. § A helyi önkormányzatoknak, a helyi önkormányzatok jogi személyiséggel rendelkező társulásainak, a települési és területi kisebbségi önkormányzatoknak és társulásainak, valamint a területfejlesztési tanácsoknak a költségvetési szervek működésére és gazdálkodására vonatkozó szabályok közül e törvény 97–100/G. és 100/J. §-ait kell működési sajátosságuknak megfelelően alkalmazni.
+83/A. § (1) A helyi önkormányzatoknak, a helyi önkormányzatok jogi személyiséggel rendelkező társulásainak, a települési és területi kisebbségi önkormányzatoknak és társulásainak, valamint a területfejlesztési tanácsoknak a költségvetési szervek működésére és gazdálkodására vonatkozó szabályok közül e törvény 97–100/G. és 100/J. §-ait kell működési sajátosságuknak megfelelően alkalmazni.
+
+(2) Az önkormányzati hivatal végzi a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 38. § (1) bekezdése alapján az önkormányzat költségvetési szervein kívül ellátott feladatokkal kapcsolatos gazdálkodást abban az esetben is, ha az önkormányzati hivatal pénzforgalmi számláján kívül az önkormányzat önálló pénzforgalmi számlával is rendelkezik. Az önkormányzat és az önkormányzati hivatal pénzforgalmi számlái közötti pénzforgalmat finanszírozási bevételként és kiadásként kell elszámolni.
 
 83/B. § A helyi önkormányzatra vonatkozó – a 72. §-ban és a 80. §-ban előírt – információk szolgáltatása során a megyei önkormányzati hivatal, a (fő)polgármesteri hivatal elemi költségvetése, beszámolója, évközi adatszolgáltatása tartalmazza a helyi önkormányzat költségvetési szervein kívül ellátott feladatainak adatait is. E feladataira a körjegyzőségbe társult, illetve a társult képviselő-testületbe tartozó önkormányzat külön elemi költségvetést, beszámolót készít, adatszolgáltatást teljesít.
 
@@ -2090,7 +2092,7 @@ szükséges.
 
 (3) A helyi önkormányzatok és a kisebbségi önkormányzatok vagyongazdálkodásának e törvényben nem szabályozott kérdéseit külön törvény szabályozza.
 
-105/A. § (1) A helyi önkormányzati tulajdonban lévő vagyon vagyonkezelésbe adása során a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 80/A. §-a, az önkormányzati közfeladatot szabályozó külön törvény és e törvény rendelkezései szerint kell eljárni.
+105/A. § (1) A helyi önkormányzati tulajdonban lévő vagyon vagyonkezelésbe adása során az Ötv. 80/A. §-a, az önkormányzati közfeladatot szabályozó külön törvény és e törvény rendelkezései szerint kell eljárni.
 
 (2) A vagyonkezelésre vonatkozó nyilvános pályázati kiírásnak tartalmaznia kell az önkormányzattól átvállalt közfeladatok ellátására vonatkozó törvényi előírások szerint a pályázó személyi és szakmai felkészültségével kapcsolatos elvárásokat, az ellátás biztonságát szavatoló tényezőket, az Ötv. 80/A. § (7) bekezdésben foglalt feladatok esetén a sajátos védettség szempontjait, illetőleg az ellátás színvonalának emelését szolgáló befektetések szükségességét.
 
@@ -2454,7 +2456,8 @@ szükséges.
 - e) a Kormány, a Kormány tagja, illetve az irányításuk vagy felügyeletük alá tartozó költségvetési szerv által alapított vagy támogatott alapítványok, közalapítványok ellenőrzésére,
 - f) az állami kezesség vállalása és beváltása jogosságának ellenőrzésére, ideértve a központi költségvetés, valamint a tartozás eredeti kötelezettjénél és jogosultjánál a kezességi szerződés feltételei betartásának ellenőrzését,
 - g) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 24. § (11) bekezdése alapján a magánnyugdíjpénztárak által a Nyugdíjreform és Adósságcsökkentő Alapnak átadott portfóliókkal kapcsolatos gazdálkodás jogszerűségének ellenőrzése céljából az Mpt. hatálya alá tartozó magánnyugdíjpénztárak és szervezetek portfólióátadást megelőző működésének, gazdálkodásának – beleértve az általuk közvetlenül vagy közvetve kezelt portfóliót képező eszközöket is – ellenőrzésére,
-- h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek.
+- h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek,
+- i) az Összefogás az Államadósság Ellen Alap gazdálkodása jogszerűségének ellenőrzésére.
 
 (2) Az (1) bekezdésben meghatározott szerv feladatát, hatáskörét és szervezetét, valamint a kormányzati ellenőrzés eljárási szabályait a Kormány rendeletben határozza meg. Ahol jogszabály Kormány által kijelölt belső ellenőrzési szervet említ, ott az (1) bekezdésben meghatározott kormányzati ellenőrzési szervet kell érteni.
 

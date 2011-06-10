@@ -36,15 +36,77 @@ Az Országgyűlés az Összefogás az Államadósság Ellen Alapba történő be
 
 #### 2. Az Összefogás az Államadósság Ellen Alap létrehozásával kapcsolatos törvénymódosítások
 
-#### 7. §
+7. § (1) A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény (a továbbiakban: Alaptv.) 2. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-#### 8. §
+„(4) Az Alap bevételét képezik
+
+a) a vagyonába tartozó eszközök átruházásából (értékesítéséből), az eszközök hozamából származó bevételek,
+
+b) az Összefogás az Államadósság Ellen Alap
+
+ba) javára érkezett majd abból átutalt pénzeszközök,
+
+bb) megszűnése esetén annak átadott vagyona.”
+
+(2) Az Alaptv. 6. §-a helyébe a következő rendelkezés lép:
+
+„6. § A Testület az Alap eszközeinek felhasználása körében az államháztartás helyzetének kiegyensúlyozása céljából dönt az eszközök értékesíthetőségéről, az értékesítés időbeli ütemezéséről, az eszközök értékének védelmét célzó intézkedések alkalmazásáról és rendelkezik az Alap pénzeszközeinek a 7. § és 7/A. § szerinti felhasználásáról.”
+
+(3) Az Alaptv. 7. §-a a következő f) ponttal egészül ki:
+
+(Az Alap vagyonát képező eszközökből származó bevételt)
+
+„f) az eszközökből fakadó kockázatok kezelésére és csökkentésére kell fordítani.”
+
+(4) Az Alaptv. a következő 7/A. §-sal egészül ki:
+
+„7/A. § Az Összefogás az Államadósság Ellen Alapból származó 2. § (4) bekezdés b) pontja szerinti bevételt az államadósság csökkentésére kell fordítani.”
+
+8. § (1) Az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 8/D. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A Nyugdíjreform és Adósságcsökkentő Alapról, és a szabad nyugdíjpénztár-választás lebonyolításával összefüggő egyes törvénymódosításokról szóló 2010. évi CLIV. törvény szerinti Nyugdíjreform és Adósságcsökkentő Alap)
+
+„b) a vagyonába tartozó eszközökből, valamint az Összefogás az Államadósság Ellen Alapból származó bevételeket a Magyar Állam javára fizeti meg.”
+
+(2) Az Áht. 18/C. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[A kincstárban pénzforgalmi számlát kötelesek vezetni]
+
+„b) a Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság önálló jogi személyiségű Médiatanácsa,”
+
+(3) Az Áht. 63. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) Az e törvényben szereplő, kincstár által benyújtott beszedési megbízások teljesítése céljából a helyi önkormányzat köteles a felhatalmazást a számlavezető hitelintézet részére megadni. Amennyiben az önkormányzati hivatal pénzforgalmi számláján kívül az önkormányzat önálló pénzforgalmi számlával is rendelkezik, a felhatalmazást mindkét számlára nézve meg kell adni. Az erről szóló dokumentációt a kincstár illetékes területi szerve útján a kincstár részére kell megküldeni. A helyi önkormányzat pénzforgalmi számlavezetőjének megváltozása esetén az új számlavezető ellenjegyzésével aláírt felhatalmazó levelet a változás bejelentésével egyidejűleg köteles megküldeni a kincstár illetékes területi szerve útján a kincstár részére.”
+
+(4) Az Áht. 83/A. §-a helyébe a következő rendelkezés lép:
+
+„83/A. § (1) A helyi önkormányzatoknak, a helyi önkormányzatok jogi személyiséggel rendelkező társulásainak, a települési és területi kisebbségi önkormányzatoknak és társulásainak, valamint a területfejlesztési tanácsoknak a költségvetési szervek működésére és gazdálkodására vonatkozó szabályok közül e törvény 97–100/G. és 100/J. §-ait kell működési sajátosságuknak megfelelően alkalmazni.
+
+(2) Az önkormányzati hivatal végzi a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 38. § (1) bekezdése alapján az önkormányzat költségvetési szervein kívül ellátott feladatokkal kapcsolatos gazdálkodást abban az esetben is, ha az önkormányzati hivatal pénzforgalmi számláján kívül az önkormányzat önálló pénzforgalmi számlával is rendelkezik. Az önkormányzat és az önkormányzati hivatal pénzforgalmi számlái közötti pénzforgalmat finanszírozási bevételként és kiadásként kell elszámolni.”
+
+(5) Az Áht. 120/B. § (1) bekezdése a következő i) ponttal egészül ki:
+
+(A kormányzati ellenőrzési szerv ellenőrzési jogköre kiterjed)
+
+„i) az Összefogás az Államadósság Ellen Alap gazdálkodása jogszerűségének ellenőrzésére.”
 
 #### 3. Az általános forgalmi adó szabályozásával kapcsolatos törvénymódosítás
 
-#### 9. §
+9. § Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 7. §-a a következő (4) és (5) bekezdéssel egészül ki:
 
-#### 10. §
+„,(4) A (2) bekezdés sérelme nélkül közhatalmi tevékenységnek minősül továbbá a jogszabály által kijelölt közreműködő szervezeteknek az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjét, a Svájci–Magyar Együttműködési Program, valamint az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus végrehajtását meghatározó jogszabályok hatálya alá tartozó uniós és egyéb nemzetközi források felhasználásának lebonyolításával kapcsolatos tevékenysége.
+
+(5) A (4) bekezdés vonatkozásában közreműködő szervezet:
+
+a) az európai uniós források tekintetében az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet (a továbbiakban: 1083/2006/EK tanácsi rendelet) 2. cikk 6. pontja szerint bármely közjogi vagy magánjogi intézmény, amely egy irányító vagy az igazoló hatóság illetékessége alatt jár el, vagy ilyen hatóság nevében hajt végre feladatokat a műveleteket végrehajtó kedvezményezettek tekintetében,
+
+b) a 348/2007. (XII. 20.) Korm. rendelettel kihirdetett, a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás alapján a Svájci–Magyar Együttműködési Program tekintetében a Projektek végrehajtását végző Projekt Végrehajtók tekintetében bármely, a Nemzeti Koordinációs Egység felelőssége alatt vagy a Nemzeti Koordinációs Egység nevében eljáró köz- vagy magánszférába tartozó jogi személy vagy szervezet,
+
+c) a 201/2005. (IX. 27.) Korm. rendelettel kihirdetett, a Norvég Királyság Kormánya és a Magyar Köztársaság Kormánya között 2005. június 10-én létrejött, a Norvég Finanszírozási Mechanizmus 2004–2009 közötti végrehajtásáról szóló együttműködési megállapodás, valamint egyrészről az Izlandi Köztársaság Kormánya, a Liechtensteini Nagyhercegség Kormánya, a Norvég Királyság Kormánya, másrészről a Magyar Köztársaság Kormánya között 2005. július 7-én létrejött, az EGT Finanszírozási Mechanizmus 2004–2009 közötti végrehajtásáról szóló együttműködési megállapodás alapján az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus tekintetében az a támogatásközvetítő szervezet, amely a pályázati alap projektgazdája, a pályázati alapot kezelő, az annak keretében rendelkezésre álló támogatást további pályáztatással szétosztó szervezet.”
+
+10. § Az Áfa tv. a következő 272. §-sal egészül ki:
+
+„272. § A 7. §-nak az Összefogás az Államadósság Ellen Alapba történő befizetésekhez kapcsolódó kedvezmények megalkotásáról és az Alap létrehozásával kapcsolatos törvénymódosításokról szóló 2011. évi. LVII. törvénnyel (a továbbiakban: Módtv.) megállapított (4)–(5) bekezdéseit azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont a Módtv. hatálybalépésének napjára vagy azt követő időszakra esik.”
 
 #### 4. Záró rendelkezések
 
@@ -54,6 +116,6 @@ Az Országgyűlés az Összefogás az Államadósság Ellen Alapba történő be
 
 (2) A 6. §-ban foglalt rendelkezést először a 2011. adóévre vonatkozó adózói rendelkezések során kell alkalmazni.
 
-#### 13. §
+13. § Az Áht. 105/A. § (1) bekezdésében „a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.)” szövegrész helyébe „az Ötv.” szöveg lép.
 
-#### 14. §
+14. § Nem lép hatályba a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény 10. § (8) és (70) bekezdése.

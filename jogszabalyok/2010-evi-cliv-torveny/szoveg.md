@@ -18,7 +18,12 @@ Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárak
 
 (3) Az Alap vagyonát képezik az 1. §-ban foglaltak szerint átadott eszközök.
 
-(4) Az Alap bevételét képezik a vagyonba tartozó eszközök átruházásából (értékesítéséből), az eszközök hozamából származó bevételek.
+(4) Az Alap bevételét képezik
+
+- a) a vagyonába tartozó eszközök átruházásából (értékesítéséből), az eszközök hozamából származó bevételek,
+- b) az Összefogás az Államadósság Ellen Alap
+  - ba) javára érkezett majd abból átutalt pénzeszközök,
+  - bb) megszűnése esetén annak átadott vagyona.
 
 (5) Az Alapot vagyona, bevételei és jövedelme után társasági adó-, helyi adó-, illetőleg illetékfizetési kötelezettség nem terheli.
 
@@ -68,7 +73,7 @@ Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárak
 
 #### 3. Az Alap működése, gazdálkodása
 
-6. § A Testület az Alap eszközeinek felhasználása körében az államháztartás helyzetének kiegyensúlyozása céljából dönt az eszközök értékesíthetőségéről, az értékesítés időbeli ütemezéséről, és rendelkezik az Alap pénzeszközeinek a 7. § szerinti felhasználásáról.
+6. § A Testület az Alap eszközeinek felhasználása körében az államháztartás helyzetének kiegyensúlyozása céljából dönt az eszközök értékesíthetőségéről, az értékesítés időbeli ütemezéséről, az eszközök értékének védelmét célzó intézkedések alkalmazásáról és rendelkezik az Alap pénzeszközeinek a 7. § és 7/A. § szerinti felhasználásáról.
 
 7. § Az Alap vagyonát képező eszközökből származó bevételt
 
@@ -76,7 +81,10 @@ Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárak
 - b) az államadósság csökkentésére kell fordítani,
 - c) a társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártag természetes személyeket megillető, az Mpt. 4. § (2) bekezdés zsk) pontja szerinti visszalépő tagi kifizetésekre kell fordítani,
 - d) a beazonosított függő tételek miatti visszafizetésekre kell fordítani,
-- e) a kincstári egységes számla terhére nyújtott megelőlegezési kölcsön törlesztésére kell fordítani.
+- e) a kincstári egységes számla terhére nyújtott megelőlegezési kölcsön törlesztésére kell fordítani,
+- f) az eszközökből fakadó kockázatok kezelésére és csökkentésére kell fordítani.
+
+7/A. § Az Összefogás az Államadósság Ellen Alapból származó 2. § (4) bekezdés b) pontja szerinti bevételt az államadósság csökkentésére kell fordítani.
 
 8. § (1) Az Alap pénzforgalmi számláját a kincstár vezeti.
 
@@ -258,13 +266,11 @@ p) a 123. § (6) bekezdése szerinti igazolási kérelem részletes eljárási s
 
 #### 9. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
-34. § (1) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 19. § (1) bekezdése helyébe a következő rendelkezés lép:
+34. § (1)
 
-„(1) A foglalkoztató és a biztosított egyéni vállalkozó által fizetendő egészségbiztosítási- és munkaerő-piaci járulék 3 százalék. Az egészségbiztosítási- és munkaerő-piaci járulékon belül a természetbeni egészségbiztosítási járulék 1,5 százalék, a pénzbeli egészségbiztosítási járulék 0,5 százalék, a munkaerő-piaci járulék 1 százalék. A társadalmi szolidaritás elvének megfelelően, a rászorulókról való gondoskodás és a törvényben megállapított társadalombiztosítási ellátások fedezetének megteremtése érdekében a foglalkoztató és a biztosított egyéni vállalkozó által fizetendő munkáltatói nyugdíj-hozzájárulás 24 százalék.”
+(2) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 33. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-(2) A Tbj. 33. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A magánnyugdíjpénztár tagja a nyugdíjjárulék alapja után 10 százalék tagdíjat fizet.”
+„(1) A magánnyugdíjpénztár tagja 10 százalék tagdíjat fizet. A tagdíj alapjának meghatározására a nyugdíjjárulék-alapra vonatkozó rendelkezések irányadók.”
 
 (3) Hatályát veszti a Tbj. 19. § (2) bekezdés b) pontja.
 
