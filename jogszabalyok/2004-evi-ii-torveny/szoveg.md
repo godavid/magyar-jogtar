@@ -575,25 +575,25 @@ az időpontja.
 
 ### IV. Fejezet — A NEMZETI FILMVAGYON VÉDELME
 
-### Magyar Nemzeti Filmarchívum
+### Magyar Nemzeti Digitális Archívum és Filmintézet
 
-34. § (1) A Magyar Nemzeti Filmarchívum (a továbbiakban: Filmarchívum) a miniszter irányítása alatt álló, közgyűjteményként működő önálló költségvetési szerv.
+34. § (1) A Magyar Nemzeti Digitális Archívum és Filmintézet (a továbbiakban: MaNDA) a miniszter irányítása alatt álló, közgyűjteményként működő önálló költségvetési szerv.
 
-(2) A Filmarchívum alapfeladata, hogy ellássa a magyar és egyetemes filmkultúra tárgyi, írásos és egyéb dokumentumainak gyűjtésével, feldolgozásával, megőrzésével kapcsolatos feladatokat, szakmai szolgáltatásokkal, kutatási tevékenységgel hozzájáruljon a magyar kultúra fejlődéséhez és segítse a mozgóképkultúrával összefüggő oktatást.
+(2) A MaNDA alapfeladata, hogy a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 59. § (7) bekezdésében meghatározott feladatai mellett ellássa a magyar és egyetemes filmkultúra tárgyi, írásos és egyéb dokumentumainak gyűjtésével, feldolgozásával, megőrzésével kapcsolatos feladatokat, szakmai szolgáltatásokkal, kutatási tevékenységgel hozzájáruljon a magyar kultúra fejlődéséhez és segítse a mozgóképkultúrával összefüggő oktatást.
 
-(3) A Filmarchívum gondozza a sajtótermékek kötelespéldányainak szolgáltatásáról és hasznosításáról szóló 60/1998. (III. 27.) Korm. rendelet alapján részére átadott filmalkotásokat és videó-dokumentumokat.
+(3) A MaNDA gondozza a sajtótermékek kötelespéldányainak szolgáltatásáról és hasznosításáról szóló 60/1998. (III. 27.) Korm. rendelet alapján részére átadott filmalkotásokat és videodokumentumokat.
 
-(4) A Filmarchívum igazgatóját a miniszter nevezi ki és menti fel, szervezeti és működési szabályzatát a miniszter hagyja jóvá.
+(4) A MaNDA főigazgatóját a miniszter nevezi ki és menti fel, szervezeti és működési szabályzatát a miniszter hagyja jóvá.
 
-35. § (1) A nemzeti filmvagyonra vonatkozó vagyonkezelői jog a Filmarchívumhoz kerül.
+35. § (1) A nemzeti filmvagyonra vonatkozó vagyonkezelői jog a MaNDA-hoz kerül.
 
-(2) A Filmarchívum a nemzeti filmvagyont sem részben, sem egészben nem idegenítheti el, nem ruházhatja át, és nem terhelheti meg.
+(2) A MaNDA a nemzeti filmvagyont sem részben, sem egészben nem idegenítheti el, nem ruházhatja át, és nem terhelheti meg.
 
 (3)
 
 (4) A nemzeti filmvagyonba tartozó filmalkotások többcsatornás és hatékony terjesztésének részletes szabályait, valamint a terjesztésből befolyt bevétel felosztásának módját a Kormány rendeletben állapítja meg. Ez nem érinti a szerzői jogi törvény alapján a jogosultakat megillető jogok érvényesítését.
 
-(5) A Filmarchívum a megőrzésre átvett, illetve a kötelespéldány szolgáltatás keretében vagy egyéb módon a gyűjteményébe került filmeket kizárólag a szerzői jogi törvényben foglaltak szerint használhatja fel.
+(5) A MaNDA a megőrzésre átvett, illetve a kötelespéldány szolgáltatás keretében vagy egyéb módon a gyűjteményébe került filmeket kizárólag a szerzői jogi törvényben foglaltak szerint használhatja fel.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

@@ -101,7 +101,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 53a. Szállítási rendszerüzemeltető: a földgázszállítást, a szállítóvezetékek üzemeltetését, karbantartását és fejlesztését végző engedélyes.
 - 53b. Szállítási rendszerirányító: az együttműködő földgázrendszer működtetését végző szállítási rendszerüzemeltetők közötti irányítási és koordinációs feladatok ellátását végző engedélyes.
 - 54. Szállítóvezeték: az a csővezeték tartozékaival együtt, amelyen keresztül a földgázt továbbítják, és amelynek kezdőpontja a Magyar Köztársaság államhatára, a termelés betáplálási pontjai, a földgáz tároló be- és kitáplálási pontja, végpontja pedig a Magyar Köztársaság államhatára, a gázátadó állomások kilépő pontjai – illetve az engedélyben foglaltak szerint a felhasználó telekhatára –, vagy a földgáz tároló be- és kitáplálási pontja.
-- 55. Szervezett földgázpiac: speciális árutőzsde, ahol a földgáz-kereskedelem szabványosított ügyletek formájában folyik.
+- 55. Szervezett földgázpiac: a szervezett földgázpiaci engedélyes által működtetett, a regionális földgázforgalmat elősegítő kereskedési rendszer, amelyben az energiakereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik.
 - 56. Telephelyi felhasználó: a telephelyi vezetéken földgázt vételező, a telephelyi szolgáltató által földgázzal ellátott felhasználó.
 - 57. Telephelyi szolgáltatás: a telephelyi vezeték üzemeltetése és a vezetékhez kapcsolódó telephelyi felhasználók ellátásának biztosítása.
 - 58. Telephelyi vezeték: az egybefüggő telephelyen belül lévő telephelyi felhasználók földgázellátását szolgáló vezeték.
@@ -389,23 +389,35 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 
 ### Szervezett földgázpiac
 
-46. § A szervezett földgázpiaci tevékenységre és a tevékenység engedélyezésére – az e törvényben meghatározottakkal összhangban – külön törvény rendelkezései irányadók. A szervezett földgázpiac működtetése e törvény szerint engedélyköteles tevékenység.
+46. § (1) A szervezett földgázpiacon földgáz, kapacitás, kiegyensúlyozó földgáz vételére és eladására irányuló ügylet köthető, függetlenül attól, hogy azokat pénzben kell kiegyenlíteni, vagy az ügyletben részt vevő felek valamelyikének választása szerint – a szervezett földgázpiaci szabályzattal összhangban – fizikai leszállítással kell teljesíteni.
 
-47. § (1) A szervezett földgázpiac működtetője az adásvételek lebonyolítását folyamatosan, elektronikus felületen biztosító kereskedési rendszert üzemeltet, amelyhez a földgázkereskedők, a saját jogon eljáró felhasználók, a földgáztermelők, és a rendszerüzemeltetők jogosultak hozzáférni.
+(2) A szervezett földgázpiacon a földgáztermelő, a földgázkereskedő, a felhasználó, a rendszerüzemeltető, valamint az egyablakos kapacitásértékesítő köthet ügyletet, amennyiben megfelel a szervezett földgázpiaci szabályzatban előírt feltételeknek, továbbá a szervezett földgázpiaci engedélyessel a kereskedésben történő részvételre, az elszámolást végző szervezettel az ügyletek elszámolására szerződést kötött.
+
+(3) A szervezett földgázpiacon a kereskedésben résztvevők száma nem korlátozható. Ha a kereskedésben részt venni kívánó piaci szereplő a jogszabályban, az ÜKSZ-ben és a szervezett földgázpiaci szabályzatban előírt feltételeket teljesíti, a szervezett földgázpiaci engedélyes a részvételre irányuló szerződéskötést nem tagadhatja meg.
+
+47. § (1) A szervezett földgázpiaci engedélyes az adásvételek lebonyolítását elektronikus felületen folyamatosan biztosító kereskedési rendszert üzemeltet, amelyhez a 46. § (2) bekezdés szerinti résztvevők jogosultak hozzáférni.
 
 (2) A szervezett földgázpiacot működtető engedélyes köteles az üzleti titoknak minősülő információk bizalmas kezelését biztosítani. A működés feltételeit, valamint az adás-vételi ügyletben résztvevők jogait és kötelezettségeit külön jogszabály tartalmazza. A szervezett földgázpiaci tevékenységnek a piaci szereplők számára átláthatónak és diszkriminációmentesnek kell lennie.
 
-(3) A szervezett földgázpiachoz történő hozzáférésre és az ügyletek lebonyolítására az erre jogosult piaci szereplő a szervezett földgázpiaci engedélyessel szerződést köt.
+(3)
 
-48. § (1) A szervezett földgázpiacot működtető részvénytársaságban az e törvény szerinti engedélyes tulajdoni hányada vagy szavazatainak száma – a (4) bekezdésben foglalt kivétellel – nem haladhatja meg a társaság alaptőkéjének vagy a leadható szavazatok számának 10%-át.
+48. § (1) A szervezett földgázpiacot működtető részvénytársaságban egy részvényes tulajdoni hányada vagy szavazatainak száma – a (2) bekezdésben foglalt kivétellel – nem haladhatja meg a társaság alaptőkéjének vagy a leadható szavazatok számának 10%-át.
 
-(2) A szervezett földgázpiacot működtető részvénytársaságban az e törvény szerinti engedélyes és kapcsolt vállalkozásai tulajdoni hányadainak vagy szavazatainak (3) bekezdés szerint számított összege nem érheti el a társaság alaptőkéjének vagy a leadható szavazatok számának 50%-át.
+(2) A szervezett földgázpiacot működtető részvénytársaságban az e törvény szerinti engedélyes tulajdoni hányadainak vagy szavazatainak (3) bekezdés szerint számított összege nem érheti el a társaság alaptőkéjének vagy a leadható szavazatok számának 50%-át.
 
-(3) A (2) bekezdésben meghatározott hányad számítása során a részvényes tulajdoni hányadának vagy szavazati arányának a részvényes és kapcsolt vállalkozásai tulajdoni hányadainak vagy szavazatainak összegét kell tekinteni. Tulajdoni hányad a tulajdonolt részvények névértéke összegének a társaság alaptőkéjéhez viszonyított százalékos formában kifejezett aránya.
+(3) Az (1) és (2) bekezdésben meghatározott hányad számítása során a részvényes tulajdoni hányadának vagy szavazati arányának a részvényes és kapcsolt vállalkozásai tulajdoni hányadainak vagy szavazatainak összegét kell tekinteni. Tulajdoni hányad a tulajdonolt részvények névértéke összegének a társaság alaptőkéjéhez viszonyított százalékos formában kifejezett aránya.
 
-(4) A rendszerirányító tulajdoni hányada nem haladhatja meg a társaság alaptőkéjének vagy a leadható szavazatok számának 30%-át.
+(4)
 
-49. § Földgázellátási zavar és válsághelyzet esetén, legfeljebb annak időtartamára a Hivatal jogosult a szervezett földgázpiacon folyó kereskedést a külön törvényben meghatározott módon felfüggeszteni.
+48/A. § (1) A szervezett földgázpiaci engedélyes – az ÜKSZ rendelkezéseivel összhangban – szervezett földgázpiaci szabályzatot készít, és jóváhagyásra benyújtja a Hivatalhoz.
+
+(2) A szervezett földgázpiaci engedélyes kötelező adatszolgáltatására és az adatok, információk közzétételére vonatkozó szabályokat a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet, valamint a működési engedély tartalmazza.
+
+(3) A szervezett földgázpiaci engedélyes vagy a szervezett földgázpiaci engedélyesnek szolgáltatást nyújtó harmadik személy e törvény szerinti földgáz-kereskedelmi, földgáztárolási, földgázelosztási, egyablakos kapacitásértékesítői, továbbá a harmadik személy e törvény szerinti szervezett földgázpiac működtetési tevékenységet nem folytathat.
+
+48/B. § A szervezett földgázpiacon azonnali és határidős ügylet, valamint ezek kombinációja köthető.
+
+49. § Földgázellátási zavar és válsághelyzet esetén, legfeljebb annak időtartamára a Hivatal jogosult a szervezett földgázpiacon folyó kereskedést felfüggeszteni.
 
 ### Vezetékes PB-gáz szolgáltatás
 
@@ -1156,6 +1168,19 @@ Ebből következően a különadó az engedélyes által nyújtott termék vagy 
 
 (12) A szállítási rendszerüzemeltetési engedély kiadásának feltételei tekintetében a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet az általános szabályoktól eltérően is rendelkezhet azon kérelmező vonatkozásában, amely földgáz szállítóvezeték tulajdonjogával a szállítási rendszerüzemeltetési engedély iránti kérelem benyújtásakor nem rendelkezik.
 
+(13) Szervezett földgázpiaci engedélyt részvénytársaság vagy az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe kaphat.
+
+(14) A szervezett földgázpiaci engedély kizárólagos jogot biztosít és kötelezettséget jelent a szervezett földgázpiac működtetésére.
+
+(15) A szervezett földgázpiaci működési engedély kiadását a Hivatal – a (7) bekezdésben meghatározottakon túlmenően – megtagadja, ha a kérelmező nem felel meg a 48/A. § (3) bekezdés szerinti szabályoknak.
+
+(16) A szervezett földgázpiaci tevékenység fióktelep formájában történő végzése esetén az engedély kiadását a Hivatal megtagadhatja, ha
+
+- a) nincs érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelep felügyeletére is kiterjedő nemzetközi együttműködési megállapodás a Hivatal és a kérelmező székhelye szerinti felügyeleti hatóság között,
+- b) a kérelmező nem nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért,
+- c) a kérelmező nem nyújtja be a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, hozzájáruló nyilatkozatát vagy tudomásulvételét, vagy
+- d) a kérelmező központi ügyintézésének helye nem a székhelye szerinti országban van.
+
 115. § (1) Az engedélyben foglaltakat – a körülmények jelentős megváltozása esetén – az engedélyes kérelmére módosítani lehet.
 
 (2) Jogszabályváltozás esetén – a jogszabállyal való összhang megteremtése érdekében – a Hivatal az engedélyt hivatalból módosíthatja.
@@ -1627,7 +1652,7 @@ az Európai Unió szerveivel
 - 14. a végső menedékes szolgáltatásra, és a végső menedékes szolgáltató kijelölésére vonatkozó szabályokat, a végső menedékes szolgáltatási szabályzatot, továbbá a végső menedékes szolgáltatási szerződésre vonatkozó részletes rendelkezéseket, valamint az ellehetetlenült földgázkereskedő tevékenységének felfüggesztésével, az engedélyek visszavonásával kapcsolatos feltételeket és intézkedéseket továbbá az új engedélyes kijelölésének szabályait,
 - 15. a jelentős piaci erőfölény megállapítása szempontjából releváns piacok területi meghatározására, valamint a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és e törvényben, valamint a VET.-ben meghatározott kötelezettségek tartalmára, alkalmazási feltételeire vonatkozó részletes előírásokat,
 - 16. a napi földgáz és kapacitás kereskedelmi piac működési feltételeit, valamint az adás-vételi ügyletben résztvevők jogait és kötelezettségeit,
-- 17. a szervezett földgázpiaci tevékenységre és a tevékenység engedélyezésére vonatkozó részletes szabályokat,
+- 17. a szervezett földgázpiaci tevékenységre és a tevékenység engedélyezésére, valamint a szervezett földgázpiac működtetésére vonatkozó részletes szabályokat,
 - 18. a földgázszállítási tevékenység végzésének és a földgázszállítói kapacitás értékesítésének részletes szabályait, az egyensúlytartással, az egyensúlyozó eszközökkel és felhasználásukkal kapcsolatos szabályokat, különösen a felhasználásukkal kapcsolatos jogokat és kötelezettségeket, valamint a kiegyensúlyozási pótdíj nyilvántartásával kapcsolatos rendelkezéseket,
 - 19. a földgázelosztási szolgáltatás végzésének, és a földgázelosztói kapacitás értékesítésének részletes szabályait, a földgázelosztási szabályzatot, valamint a földgázkereskedő, és az egyetemes szolgáltató által kezdeményezett földgázelosztási szüneteltetés eseteit, az elosztóhálózat-használati szerződés tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elosztóvezetékhez kapcsolódó fogyasztási helyek és az ott vételező felhasználók adatainak nyilvántartására, a nyilvántartásból történő adatszolgáltatásra vonatkozó rendelkezéseket,
 - 20. a földgáztárolási tevékenység végzésére, ezen belül a kapacitáslekötésre és értékesítés feltételeire, valamint a földgáztárolási szolgáltatásra vonatkozó részletes szabályokat,
@@ -1706,7 +1731,7 @@ az Európai Unió szerveivel
 
 138. § (1) A szállítási rendszerüzemeltetőt e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel beiktatott módosítása következtében megillető jogokat és terhelő kötelezettségeket a földgázszállítási működési engedéllyel rendelkező engedélyes, illetve a rendszerirányítói működési engedéllyel rendelkező engedélyes gyakorolja a szállítási rendszerüzemeltetési engedély megszerzéséig, de legkésőbb 2012. március 3-áig.
 
-(2) Ahol e törvény földgázszállítót említ, ott szállítási rendszerüzemeltetőt, ahol rendszerirányítót említ, ott szállítási rendszerirányítót kell érteni e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel beiktatott, 2011. július 1-jén hatályba lépő módosításáig.
+(2) Ahol e törvény földgázszállítót említ, ott szállítási rendszerüzemeltetőt, ahol rendszerirányítót említ, ott szállítási rendszerirányítót kell érteni e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel beiktatott, 2011. október 1-jén hatályba lépő módosításáig.
 
 138/A. § (1) A Get. szerinti közüzemi nagykereskedői engedéllyel rendelkezett engedélyesnek engedélyköteles tevékenysége végzése során 2009. június 30-ig a földgázár-szabályozásban elismert (az árszabályozásban figyelembevételre kerülő) és a tényleges importköltségeinek negatív különbözetéből adódó bevételi hiányát a rendszerirányító által az e célból létrehozott elkülönített számlán kezelt, kötelező befizetésből származó pénzeszközből kell biztosítani.
 
@@ -1856,7 +1881,7 @@ földgáz képezi.
 
 142. § A földgázszállító és a rendszerhasználók 2010. június 30-ig – a napi földgáz és kapacitás kereskedelmi piac működéséig – az Üzemi és Kereskedelmi Szabályzat szerinti egyensúlyozási eszközöket kötelesek használni.
 
-143. § (1) A szállítási rendszerirányító erre a célra kijelölt szervezeti egysége 2010. július 1-jétől a 46. §–49. §-ok szerinti szervezett földgázpiac létrejöttéig napi földgáz és kapacitás kereskedelmi piacot hoz létre és működtet. A napi földgáz és kapacitáskereskedelmi piac az együttműködő földgázrendszer napi egyensúlyozását segítő speciális kereskedelmi eszköz.
+143. § (1) A szállítási rendszerirányító erre a célra kijelölt szervezeti egysége 2010. július 1-jétől napi földgáz és kapacitás kereskedelmi piacot hoz létre és működtet. A napi földgáz és kapacitáskereskedelmi piac az együttműködő földgázrendszer napi egyensúlyozását segítő speciális kereskedelmi eszköz.
 
 (1a) A napi földgáz- és kapacitás kereskedelmi piac kizárólag akkor szűnik meg, ha a 46–49. §-ok szerinti szervezett földgázpiac ellátja annak e törvény szerinti feladatait.
 
@@ -1877,6 +1902,27 @@ földgáz képezi.
 (9) A szállítási rendszerirányító köteles a napi gázforgalmazásra, azon belül az egyensúlyozásra vonatkozó európai uniós előírások változása esetén megfelelően módosítani a napi földgáz- és kapacitáskereskedelmi piac informatikai, működési feltételeit és szabályzatát.
 
 (10) Földgázellátási üzemzavar és válsághelyzet esetén a szállítási rendszerirányító javaslatot tesz a Hivatalnak a napi földgáz és kapacitás kereskedelmi, valamint a szervezett piacon történő kereskedés felfüggesztésére.
+
+143/A. § (1) A VET szerinti átviteli rendszerirányító tulajdonában lévő szervezett villamosenergia-piaci engedélyes működteti a szervezett földgázpiacot. Ennek érdekében 2011. július 31. napjáig köteles engedély iránti kérelmet benyújtani a Hivatalhoz. E kötelezettségnek a szervezett villamosenergia-piaci engedélyes olyan részvénytársaság útján is eleget tehet, amelyben többségi befolyással rendelkezik.
+
+(2) Az (1) bekezdés szerinti esetben a 48. § rendelkezéseit nem kell alkalmazni.
+
+(3) A szervezett földgázpiac első pozitív mérleg szerinti eredménnyel lezárt üzleti évét követően a Hivatal évente megvizsgálja az engedélyes szervezett földgázpiac létrehozásával összefüggő befektetései megtérülésének alakulását. Ha a Hivatal megállapítja a befektetések megtérülését, határozatban kötelezi az engedélyest a részvényeinek, vagy a részvények egy részének elidegenítésére. Ez esetben a 48. § rendelkezéseit kell alkalmazni.
+
+(4) A napi földgáz- és kapacitáskereskedelmi piac megszűnik, ha a szervezett földgázpiaci engedélyes ellátja a napi földgáz- és kapacitáskereskedelmi piac 143. § (1) bekezdés szerinti feladatát.
+
+(5) A szervezett földgázpiaci engedélyes a (4) bekezdés szerinti esetben – az 5. § h) pontjára figyelemmel – köteles a szervezett földgázpiacot működtető részvénytársaságban egyenként 10% tulajdoni hányadot biztosító részesedést vételre felajánlani annak a földgázipari vállalkozásnak, amely az e § hatálybalépésekor és a felajánláskor földgázszállításra vonatkozó engedéllyel rendelkezik.
+
+(6) Az (5) bekezdést nem kell alkalmazni, ha az (5) bekezdés szerinti földgázipari vállalkozás a szervezett földgázpiacot működtető részvénytársaságban tulajdoni hányaddal rendelkezik.
+
+(7) A napi földgáz- és kapacitáskereskedelmi piacot működtető engedélyes köteles
+
+- a) együttműködni a szervezett földgázpiaci engedélyessel, valamint
+- b) átadni a szervezett földgázpiaci engedélyesnek a napi földgáz- és kapacitáskereskedelmi piac működésére, működtetésére és a napi földgáz- és kapacitáskereskedelmi piaci ügyletekre vonatkozó információkat.
+
+(8) A szervezett földgázpiaci engedélyes legkésőbb 2013. január 1-jétől köteles biztosítani a szervezett földgázpiacon történő kereskedés lehetőségét.
+
+(9) Ha a szervezett földgázpiaci engedélyes a (8) bekezdés szerinti kötelezettségnek nem tesz eleget, a Hivatal az engedélyét visszavonja.
 
 144. § (1) A földgáztermelési és földgázszállítási tevékenységet is ellátó vertikálisan integrált földgázipari vállalkozás 2013. január 1-jéig köteles a vállalkozáscsoportjába tartozó földgáztermelési tevékenységet és a földgázszállítási tevékenységet végző csoporttag vállalkozásokat jogilag és szervezetileg oly módon szétválasztani, hogy a vertikálisan integrált földgázipari vállalkozáscsoporton belül a földgáztermelőnek ne legyen részesedése a földgázszállítási tevékenységet ellátó gazdasági társaságban. E rendelkezésben foglaltak végrehajtása során a földgáztermelési és földgázszállítási tevékenységet is ellátó vertikálisan integrált földgázipari vállalkozás által a szétválasztással érintett tevékenységek valamelyikének folytatása céljából alapított, vagy az Sztv. szerinti kapcsolt vállalkozásai körébe tartozó vállalkozások közül valamely szétválasztással érintett tevékenység folytatására kijelölt egy vagy több vállalkozás részére rendelkezésre bocsátott vagyonnal összefüggésben illetékfizetési kötelezettség nem keletkezik, kivéve a cégbírósági eljárási illetéket. A szétválasztással érintett valamely tevékenységet folytató társaság (a továbbiakban: jogutód társaság) az átvett tevékenységekkel kapcsolatos jogviszonyai tekintetében e törvény erejénél fogva az átvett tevékenységet a szétválasztást megelőzően folytató társaság (a továbbiakban: jogelőd társaság) általános jogutódjának minősül, ideértve a szétválasztással érintett tevékenységekkel összefüggő jogokat, kötelezettségeket, eszközöket, követeléseket, valamint céltartalékokat is.
 
