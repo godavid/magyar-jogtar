@@ -126,7 +126,7 @@ A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben megh
 
 (2)
 
-8. § A miniszterelnöki, miniszteri tisztséget betöltő, államtitkár vagy kormánymegbízott képviselő kizárólag az 1. § (2) bekezdésében meghatározott alapdíj 100%-ára jogosult. Az a kormánybiztos vagy miniszterelnöki megbízott képviselő, aki – nyilatkozata szerint – költségtérítésben (költség átalányban) részesül, ennek összegével csökkentett mértékű választókerületi pótlékra jogosult.
+8. § A miniszterelnöki, miniszteri tisztséget betöltő, államtitkár, miniszterelnöki biztos vagy kormánymegbízott képviselő kizárólag az 1. § (2) bekezdésében meghatározott alapdíj 100%-ára jogosult. Az a kormánybiztos vagy miniszterelnöki megbízott képviselő, aki – nyilatkozata szerint – költségtérítésben (költség átalányban) részesül, ennek összegével csökkentett mértékű választókerületi pótlékra jogosult.
 
 9. § (1) Ha a képviselő megbízatása az Országgyűlés működésének befejezésével szűnik meg, a volt képviselő – újraválasztásának esetét kivéve – további hat hónapon keresztül az alapdíjának és pótdíjának a megbízatása megszűnését megelőző hat havi átlagának megfelelő összegű ellátásra jogosult. Az erre az időre folyósított díjazás időtartama is munkaviszonyban töltött időnek számít.
 
@@ -141,3 +141,5 @@ A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben megh
 (2) Ha a képviselő az Országgyűlés működésének befejezése után újra jelölteti magát, öregségi nyugdíj az (1) bekezdés szerint — legkorábban a mandátumok igazolását követő naptól — akkor illeti meg, ha képviselőnek nem választják meg újra.
 
 11. § Ez a törvény a kihirdetése napján lép hatályba; rendelkezéseit 1990. július 1-től kell alkalmazni.
+
+12. § E törvénynek az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény módosításáról szóló 2011. évi LIX. törvénnyel (a továbbiakban: Módtv.) megállapított 8. §-át a Módtv. hatálybalépésekor miniszterelnöki biztos képviselőkre is alkalmazni kell.

@@ -597,7 +597,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 (4) A szervezett villamosenergia-piaci engedélyes kötelező adatszolgáltatására és az adatok, információk közzétételére vonatkozó szabályokat külön jogszabály és a működési engedély tartalmazza.
 
-(5) A szervezett villamosenergia-piaci engedélyes köteles önálló mérlegkört alapítani és az átviteli rendszerirányítóval a mérlegkör működtetésére vonatkozóan szerződést kötni.
+(5) A szervezett villamosenergia-piaci engedélyes vagy a szervezett villamosenergia-piaci engedélyesnek szolgáltatást nyújtó harmadik személy 74. § (1) bekezdés a)–b) és d)–f) pontja szerint, valamint a harmadik személy a 74. § (1) bekezdés g) pontja szerinti engedélyköteles tevékenységet nem folytathat.
 
 ### IX. Fejezet — A FELHASZNÁLÓK JOGAI
 
@@ -916,7 +916,8 @@ egyoldalú módosítása
 76. § (1) A működési engedély kizárólagos jogot biztosít és kötelezettséget jelent
 
 - a) az átviteli rendszerirányítónak a villamosenergia- rendszer villamosenergia-ellátási szabályzatok szerinti rendszerirányítására és az átviteli hálózati tevékenységre,
-- b) az elosztói engedélyeseknek az engedélyben meghatározott település, településrész, valamint felhasználási hely tekintetében elosztói tevékenység végzésére.
+- b) az elosztói engedélyeseknek az engedélyben meghatározott település, településrész, valamint felhasználási hely tekintetében elosztói tevékenység végzésére,
+- c) a szervezett villamosenergia-piaci engedélyesnek a szervezett villamosenergia-piac működtetésére.
 
 (2) Az egyetemes szolgáltatásra vonatkozó engedély kötelezettséget jelent az engedélyben meghatározott szolgáltatási területen az egyetemes szolgáltatás nyújtására.
 
@@ -1047,7 +1048,9 @@ működtetésére vonatkozó engedély
 
 (2) Szervezett villamosenergia-piaci működési engedélyt jogi személyiséggel rendelkező gazdasági társaság, vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe kaphat.
 
-(3) A szervezett villamosenergia-piaci tevékenység fióktelep formájában történő végzése esetén a működési engedély kiadását a Hivatal a 75. § (3) bekezdésében meghatározottakon túlmenően akkor is megtagadhatja, ha
+(2a) A szervezett villamosenergia-piaci működési engedély kiadását a Hivatal a 75. § (3) bekezdésében meghatározottakon túlmenően akkor is megtagadja, ha a kérelmező nem teljesíti az 55. § (5) bekezdésében előírt szabályokat.
+
+(3) A szervezett villamosenergia-piaci tevékenység fióktelep formájában történő végzése esetén a működési engedély kiadását a Hivatal – (2a) bekezdésben meghatározottakon túlmenően – megtagadhatja, ha
 
 - a) nincs érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás a Hivatal és a kérelmező székhelye szerinti felügyeleti hatóság között,
 - b) a kérelmező nem nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért,
@@ -1410,7 +1413,7 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 (5) A villamosenergia-ipari vállalkozások kötelesek biztosítani a Hivatal számára, hogy a Hivatal munkatársai a társaság pénzügyi-számviteli kimutatásait, és az ahhoz kapcsolódó bizonylatokat és információkat megismerhessék, azokba betekinthessenek. A Hivatalnak indokolnia kell, hogy az adott információra mely feladata ellátásához van szükség.
 
-(6) A 66. § (4)–(5) bekezdésében foglaltak ellenőrzésének biztosítására a (2) és (5) bekezdést megfelelően alkalmazni kell a 2011. július 1-je előtt létesített nem engedélyköteles magánvezeték üzemeltetőjére.
+(6) A 66. § (4)–(5) bekezdésében foglaltak ellenőrzésének biztosítására a (2) és (5) bekezdést megfelelően alkalmazni kell a 2011. október 1-je előtt létesített nem engedélyköteles magánvezeték üzemeltetőjére.
 
 105/A. § (1) Az integrált, valamint a több engedéllyel rendelkező villamosenergia-ipari vállalkozás könyvvizsgálója az éves beszámolóhoz, illetve az összevont (konszolidált) éves beszámolóhoz kiadott független könyvvizsgálói jelentésben köteles igazolni, hogy a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok, valamint az egyes tevékenységek közötti tranzakciók árazása biztosítják a vállalkozás üzletágai közötti keresztfinanszírozás-mentességet.
 
@@ -2188,7 +2191,7 @@ villamos energia képezi.
 - 18. a jelentős piaci erő megállapítása szempontjából releváns piacok területi meghatározására, a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és a 110–111. §-ok szerinti kötelezettségek tartalmára, alkalmazási feltételeire,
 - 19. az elektronikus fogyasztásmérők felhasználóknál való felszerelésére, az okos mérés bevezetésére és a bevezetést előkészítő mintaprojektek megvalósítására vonatkozó szabályokat, ennek keretében a mintaprojektek révén meghatározandó és szolgáltatandó információk körét, az ezzel összefüggésben elvégzendő feladatokat, mintaprojektmodell-választékot, a mérési és kommunikációs követelmények meghatározásához elvégzendő feladatokat, az adatkezelési, adatbiztonsági előírásokat, a mintaprojektek finanszírozását, időbeli ütemezését, és értékelési kritériumait, a Hivatalnak a mintaprojekt felügyeletével kapcsolatos feladatait, valamint az okos hálózatok bevezetésére vonatkozó szabályokat,
 - 20. a szervezett villamosenergia-piac működésére, engedélyezésére, a szervezett villamosenergia-piaci engedélyesnek az energiakereskedelem fizikai teljesítésű ügyleteivel összefüggő feladataira, jogaira és kötelezettségeire vonatkozó részletes szabályokat, továbbá a szervezett villamosenergia-piaci szabályzat elkészítésének, közzétételének rendjét, a szervezett villamosenergia-piac engedélyese és az átviteli rendszerirányító együttműködésének szabályait,
-- 21. az átviteli rendszerirányító és az elosztó hálózati engedélyesek, valamint a rendszerhasználók közötti jogviszony részletes szabályait, a hálózati csatlakozási szerződés tartalmi elemeit és rendelkezéseit, hálózati használati szerződés minimális tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit,
+- 21. az átviteli rendszerirányító és az elosztó hálózati engedélyesek, valamint a rendszerhasználók közötti jogviszony részletes szabályait, a hálózati csatlakozási szerződés tartalmi elemeit és rendelkezéseit, hálózathasználati szerződés, a kapcsolt mérlegkör tagsági szerződés és a kereskedési szerződés minimális tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit,
 - 22. a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályait,
 - 23. a villamosenergia-ellátási válsághelyzet és a villamosenergia-rendszer jelentős zavarának részletes szabályait, a válsághelyzet és a jelentős zavar esetén alkalmazandó korlátozások szabályait, elveit, valamint a rendszerhasználók jogait és kötelezettségeit, a teherviselés részletes szabályait, a felhasználók ellátására kötött szerződések teljesítése felfüggesztésének rendjét, a villamosenergia-ellátáshoz kapcsolódó, a hatósági és nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
 - 24. a megújuló energiaforrásból, a hulladékból nyert energiából és a kapcsolt energiatermelésből származó villamos energia eredetét igazoló bizonyítványra, a bizonyítvány kiadására, az ilyen energiaforrásból termelt villamos energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére, valamint a zöld bizonyítványra és a kapcsolt bizonyítványra vonatkozó részletes szabályokat, továbbá a zöld bizonyítvány-rendszer és a kapcsolt bizonyítvány-rendszer bevezetésének időpontját,
@@ -2309,6 +2312,48 @@ rendeletben állapítsa meg.
 
 (15) E törvény hatálybalépését megelőzően kötött uralmi szerződést a 92. § (4) bekezdésben meghatározott engedélyesek 2008. június 30-ig kötelesek megszüntetni, ennek hiányában az érintett felek az uralmi szerződésből fakadó jogokat, illetve kötelezettségeket érvényesen nem gyakorolhatnak, illetve nem teljesíthetnek.
 
+171/A. § (1) Az átviteli rendszerirányító az 50 MW névleges teljesítőképességet el nem érő erőműben kapcsoltan termelt villamos energia átvételére, kiegyenlítésére, értékesítésére és annak elszámolására 2011. július 1-jétől mérlegkört (a továbbiakban: kapcsolt mérlegkör) működtet a kereskedelmi szabályzatban és az üzletszabályzatában meghatározottak szerint.
+
+(2) Az 50 MW névleges teljesítőképességet el nem érő erőműben kapcsoltan termelt villamos energia termelője az e § hatálybalépését követő négy napon belül az átviteli rendszerirányító részére nyilatkozik arról, hogy a kapcsolt mérlegkör tagja kíván-e lenni, ha
+
+- a) az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkör tagja volt (ideértve a felfüggesztett mérlegkör tagságot is) 2011. június 1-jén, és
+- b) a kötelező átvétel keretében történő értékesítési jogosultsága
+  - ba) a 171. § (5a) bekezdése alapján 2011. június 30-ig került meghosszabbításra, vagy
+  - bb) a 171. § (5f) és (5h) bekezdése alapján 2011. július 1-jétől megszűnik.
+
+(3) Ha a termelő megfelel a (2) bekezdésben foglalt feltételeknek, akkor az átviteli rendszerirányító a termelővel az e § hatálybalépését követő hét napon belül az üzletszabályzatában foglaltak szerint kapcsolt mérlegkörben való tagságra és értékesítésre irányuló szerződést (a továbbiakban: tagsági szerződés) köt. A termelő a tagsági szerződés hatálybalépése napjával a kapcsolt mérlegkör tagjává (a továbbiakban: a kapcsolt mérlegkör tagja) válik és a tagsági szerződésben foglaltak szerint a kapcsolt mérlegkörben villamos energiát értékesíthet. Ha a tagsági szerződés megszűnik, akkor tagsági szerződés újonnan nem köthető.
+
+(4) A tagsági szerződés mintáját az átviteli rendszerirányító üzletszabályzata tartalmazza. Az átviteli rendszerirányító az e § hatálybalépését követő két napon belül a Hivatalnak jóváhagyásra megküldi a kapcsolt mérlegkör működtetése – így különösen a tagsági szerződés mintája – vonatkozásában üzletszabályzata módosítását.
+
+(5) Az átviteli rendszerirányító a tagsági szerződések megkötésének tényéről a Hivatalt 2011. július 15-ig tájékoztatja.
+
+(6) A tagsági szerződés tartalmazza a villamos energia értékesítésével kapcsolatban
+
+- a) a szervezett villamosenergia-piac mindenkori termékstruktúrája szerint az értékesítés módját, formáját a szervezett villamosenergia-piaci szabályzat figyelembevételével, továbbá az értékesítéssel kapcsolatban a felek közötti eljárásrendet és a felelősségi szabályokat,
+- b) az átvett villamos energia elszámoló árának meghatározását,
+- c) a kiegyenlítő energia kapcsolt mérlegkörön belüli elszámolását a kereskedelmi szabályzat figyelembevételével,
+- d) a szervezett villamosenergia-piacon való kereskedéssel kapcsolatos díjak megfizetésének, kezelésének, valamint elszámolásának módját, és
+- e) az átviteli rendszerirányítónak a kapcsolt mérlegkör működtetésével kapcsolatos egyéb indokolt költségei elszámolásának meghatározását.
+
+(7) A kapcsolt mérlegkör tagja
+
+- a) a kapcsolt mérlegkörhöz tartozó elszámolási pontján keresztül más mérlegkörbe villamos energiát nem értékesíthet, és
+- b) a villamos energia értékesítésével és a kapcsolt mérlegkör működtetésével kapcsolatos költségek megfizetését teljesíti.
+
+(8) Ha a kapcsolt mérlegkör tagja a (7) bekezdés szerinti valamely kötelezettségének nem tesz eleget vagy nem teljesíti a tagsági szerződésben foglaltakat, az átviteli rendszerirányító – a kereskedelmi szabályzat mérlegkörváltásra vonatkozó szabályai figyelembevételével – a tagsági szerződést felmondja.
+
+(9) Az átviteli rendszerirányító a kereskedelmi szabályzatban és az üzletszabályzatában meghatározottak szerint
+
+- a) a kapcsolt mérlegkört kiegyenlíti,
+- b) a kapcsolt mérlegkör tagjától menetrend alapján átvett villamos energiát – a tagsági szerződésben foglaltak szerint – értékesíti azon a szervezett villamosenergia-piacon, amelyben részesedéssel rendelkezik, és
+- c) a kapcsolt mérlegkör tagjától átvett villamos energia ellenértékét a szervezett villamosenergia-piacon kialakult elszámoló árak, a szervezett villamosenergia-piacon kereskedéssel kapcsolatos díjak, valamint a mérlegkör kiegyenlítésének költségei alapján havonta számolja el.
+
+(10) A kapcsolt mérlegkör tagjától átvett villamos energia értékesítése céljából a (9) bekezdés b) pontjában meghatározott, szervezett villamosenergia-piaci engedélyes az átviteli rendszerirányítóval kereskedésben történő részvételre irányuló szerződést (a továbbiakban: kereskedési szerződés) köt.
+
+(11) A kapcsolt mérlegkör működtetése során befolyt pénzeszközök nem minősülnek az átviteli rendszerirányító bevételének, az átviteli rendszerirányító azokat a rendszer működtetésétől eltérő célra nem fordíthatja, azokat egyéb pénzeszközeitől, valamint egymástól elkülönítetten kezeli. Az átviteli rendszerirányító az elkülönített számlán kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát kötelezettségként mutatja ki.
+
+(12) Az átviteli rendszerirányító e § szerinti tevékenységeit nyereségszerzési cél nélkül végzi.
+
 172. § (1) A hálózati engedélyes a kérelem benyújtását megelőzően tíz évvel korábban idegen ingatlanon megépült és üzembe helyezett közcélú átviteli és elosztó vezeték, tartószerkezet és azon elhelyezett átalakító- és kapcsolóberendezés tekintetében, amennyiben azok elhelyezésére vonatkozó vezetékjog alapítása nem történt meg, vagy a vezetékjogi engedély nem lelhető fel, illetve a vezetékjog az ingatlan-nyilvántartásba nem került bejegyzésre, a 116. § szerinti Hatóságtól e törvény hatálybalépésétől számított öt éven belül kérheti a vezetékjog megállapítását, vagy a vezetékjog bejegyzésére alkalmas határozat kiadását. A vezetékjog fennállását és keletkezésének időpontját a határozatban kell megállapítani. A vezetékjog ingatlan-nyilvántartásba történő bejegyzésére a 116. § szerinti Hatóság jogerős határozata alapján kerülhet sor.
 
 (2) A Hatóság a jogerős határozattal megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a vezetékjog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
@@ -2385,6 +2430,10 @@ készíti el.
 (4) Az (1) és (3) bekezdésben foglaltak végrehajtása során a kérelmező nem mentesül az igazgatási szolgáltatási díjfizetési kötelezettsége alól, azzal, hogy a tanúsítási eljárás lefolytatása iránti kérelem elbírálásáért fizetendő igazgatási szolgáltatási díj megegyezik az átviteli rendszerirányítási működési engedély iránti kérelem elbírálásáért fizetendő díjjal.
 
 (5) Az átviteli rendszerirányító az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény hatálybalépésekor hatályos átviteli rendszerirányításra vonatkozó működési engedélye az e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított rendelkezései alapján kiadott működési engedélyének közléséig vagy a Hivatal annak visszavonására irányuló határozatának jogerőre emelkedéséig hatályban marad. Eddig az időpontig az átviteli rendszerirányító az átviteli rendszerirányítóra vonatkozó szabályoknak tekintetében az átviteli rendszerirányításra vonatkozó működési engedélyének és az annak kiadása alapjául szolgáló jogszabályoknak a szabályokra vonatkozó rendelkezései irányadóak.
+
+178/F. § (1) E törvény 76. § (1) bekezdés c) pontjának hatálybalépését követően – a kiadott és hatályos engedélyek visszavonásáig – további, szervezett villamosenergia-piaci működési engedély nem adható ki.
+
+(2) E törvénynek a szervezett villamosenergia-piacra, a szervezett villamosenergia-piaci működési engedélyre és a szervezett villamosenergia-piaci engedélyesre vonatkozó, a 76. § (1) bekezdés c) pontjának hatálybalépésével egyidejűleg hatályba lépő rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 
