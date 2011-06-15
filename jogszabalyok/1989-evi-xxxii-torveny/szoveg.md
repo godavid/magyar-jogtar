@@ -25,7 +25,7 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 4. § (1) Az Alkotmánybíróság tizenegy tagból — köztük az elnökből és helyettes elnökből — álló testület.
 
-(2) Az Alkotmánybíróság a tagjai közül három évre megválasztja az elnökét és helyettes elnökét, akik e tisztségre újraválaszthatók. Az újraválasztás nem érinti az Alkotmánybíróság tagjának megbízatási idejét.
+(2) Az Alkotmánybíróság a tagjai közül három évre megválasztja a helyettes elnökét, aki e tisztségre újraválasztható. Az újraválasztás nem érinti az Alkotmánybíróság tagjának megbízatási idejét.
 
 5. § (1) Az Alkotmánybíróság tagjává minden olyan jogi végzettségű, büntetlen előéletű magyar állampolgár megválasztható, aki 45. életévét betöltötte.
 
@@ -33,7 +33,7 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 (3) Az Alkotmánybíróságnak nem lehet tagja az, aki a választást megelőző négy évben a kormány tagja vagy valamely párt alkalmazottja volt, valamint az sem, aki vezető államigazgatási tisztséget töltött be.
 
-6. § Az Alkotmánybíróság tagjaira az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjai által jelölt legalább kilenc és legfeljebb tizenöt képviselőből álló jelölő bizottság tesz javaslatot. A bizottságban a képviselőcsoportok legalább egy-egy képviselőjének helyet kell kapnia.
+6. § Az Alkotmánybíróság tagjaira és elnökére az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjai által jelölt legalább kilenc és legfeljebb tizenöt képviselőből álló jelölő bizottság tesz javaslatot. A bizottságban a képviselőcsoportok legalább egy-egy képviselőjének helyet kell kapnia.
 
 7. § A javasolt személyeket az Országgyűlés jogi, igazgatási és igazságügyi bizottsága meghallgatja.
 
@@ -41,7 +41,7 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 (2) Ha az Országgyűlés a jelölteket nem választja meg, a 6. §-ban meghatározott jelölő bizottság még azon az ülésszakon, de legkésőbb tizenöt napon belül új javaslatot tesz.
 
-(3) Az Alkotmánybíróság tagja kilenc évre kerül megválasztásra. Az Alkotmánybíróság tagja egyszer újraválasztható.
+(3) Az Alkotmánybíróság tagja tizenkét évre kerül megválasztásra. Az Alkotmánybíróság tagja egyszer újraválasztható.
 
 (4) Az Alkotmánybíróság új tagját az elődje megbízási idejének lejártát megelőző három hónapon belül kell megválasztani. Ha az Országgyűlést előzőleg feloszlatták, a választást az újonnan megválasztott Országgyűlés alakuló ülését követő egy hónapon belül kell megtartani.
 
