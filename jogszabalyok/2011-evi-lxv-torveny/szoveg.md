@@ -894,11 +894,11 @@ A jelen Megállapodás más rendelkezése hiányában a Megállapodás az alább
 | Szlovák Köztársaság | A 20. cikkben kijelölt szolgálatok |
 | Szlovén Köztársaság | A 20. cikkben kijelölt szolgálatok |
 
-4. §
+4. § Az Országgyűlés jóváhagyja a Megállapodásnak e törvény hatálybalépésétől kezdődően történő, a Megállapodás 24. cikk 1. pontja szerinti ideiglenes alkalmazását.
 
 5. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 
-(2)
+(2) E törvény 4. §-a a Megállapodásnak a Magyar Köztársaság vonatkozásában való – a Megállapodás 23. cikk 3. vagy 4. pontja szerinti – hatálybalépésének időpontjában hatályát veszti.
 
 (3) A Megállapodás hatálybalépésének naptári napját, valamint a (2) bekezdésben meghatározott időpont naptári napját a külpolitikáért felelős miniszter azok ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
