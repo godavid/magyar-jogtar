@@ -70,7 +70,8 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - c) átmeneti szállást igénybe vevő hajléktalan személy,
 - d) menekült, menedékes, menekültkénti vagy menedékeskénti, illetve hontalankénti elismerését kérő, továbbá az ideiglenes vagy kiegészítő védelemben részesítését kérő személy, és a jövedelmi és vagyoni helyzetéről tett nyilatkozata alapján a számára biztosított ellátásra és támogatásra jogosult,
 - e) vízumkiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy,
-- f) a családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították.
+- f) a családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
+- g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér az 56. cikk szerinti eljárás lefolytatásához jogi segítséget.
 
 (3) A jogi szolgáltatás díját az állam viseli akkor is, ha az egyedülálló és a 9. §-ban foglaltak figyelembevételével vagyontalan fél rendelkezésre álló havi nettó jövedelme nem haladja meg a nyugdíjminimum 150%-át.
 
@@ -704,3 +705,5 @@ tart.
 
 - a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 12. cikk (5) bekezdése;
 - b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
+
+90. § E törvény 5. § (2) bekezdés g) pontja a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet 46. cikkének végrehajtásához szükséges rendelkezést állapít meg.
