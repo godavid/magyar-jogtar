@@ -2491,6 +2491,10 @@ megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezt
 
 84/N. § Az 57/A. § (1) bekezdésének az államháztartásról szóló 1992. évi XXXVIII. törvény módosításáról szóló 2011. évi XXXI. törvénnyel módosított rendelkezését a magánszemély a fizetővendéglátó tevékenységére vonatkozó tételes átalányadózás 2011. évi választására is alkalmazhatja.
 
+84/O. § Az 1. számú melléklet 3.2. pontjának a személyi jövedelemadóról szóló 1995. évi CXVII. törvény, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény módosításáról szóló 2011. évi LXIV. törvénnyel megállapított 3.2.6. alpontját a 2011. január 1-jét követően megszerzett jövedelemre és keletkezett adókötelezettségre kell alkalmazni.
+
+84/P. § Az 1. számú mellékletnek a személyi jövedelemadóról szóló 1995. évi CXVII. törvény, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény módosításáról szóló 2011. évi LXIV. törvénnyel megállapított 4.5. pontját a hatálybalépését megelőzően, de 2011. január 1-jét követően megszerzett, pénzjutalomra is alkalmazni kell.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -2561,6 +2565,14 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 3.2.5. vállalkozási tevékenységet nem folytató alapítványtól, közalapítványtól vagy egyéb társadalmi szervezettől – annak alapszabályában rögzített céljával összhangban – kap az 1989. október 23. napját megelőzően politikai okból üldözött személy;
 
+3.2.6. oktatási intézményekben folytatott tanulmányokra, kutatásra, külföldi tanulmányútra ösztöndíj címén, vagy a szociálisan rászoruló részére szociális segély, valamint szociális ösztöndíj címén, illetve – alkalmanként 500 forintot meg nem haladó összegben – a diák- és szabadidősport résztvevőjének
+
+3.2.6.1. a Wekerle Sándor Alapkezelő intézmény közvetlenül vagy intézményen keresztül, vagy
+
+3.2.6.2. a Kormány döntése alapján az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvényben foglalt eljárás szerint megszűnő alapítvány, közalapítvány feladatát átvevő közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság az átvett feladatkörében
+
+nyújt.
+
 3.3. a közérdekű kötelezettségvállalásból, a közhasznú, kiemelkedően közhasznú társadalmi szervezetből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke, pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
 
 3.4. a 3.1–3.3. pontokban foglaltak esetében sem adómentes az a kifizetés (juttatás)
@@ -2589,7 +2601,7 @@ illeti meg.
 
 4.4. a külföldi középfokú és felsőoktatási intézmény nem magyar állampolgár hallgatójának belföldi szakmai gyakorlaton végzett munkájából származó jövedelem;
 
-4.5. a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló miniszterelnöki rendelet alapján a Magyar Corvin-lánc Testület által a tagja javaslatára megítélt támogatás;
+4.5. a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló miniszterelnöki rendelet alapján a Magyar Corvin-lánc Testület által a tagja javaslatára megítélt támogatás, továbbá a Nobel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom;
 
 4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Köztársasági Érdemrend és Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint a büntetés-végrehajtást, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter és az egyházak központi szerve által adományozott emléktárgy (dísztőr, gyűrű stb.) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
 

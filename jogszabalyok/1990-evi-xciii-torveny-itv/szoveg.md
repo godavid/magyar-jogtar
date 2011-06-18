@@ -831,12 +831,14 @@ esetében.
 - j) az áttételt elrendelő végzés elleni fellebbezés;
 - k) a kárpótlási ügyekben hozott közigazgatási döntés bíróság általi felülvizsgálata;
 - l) a helyi önkormányzat adósságrendezési eljárása;
-- m) az önálló bírósági végrehajtónak az általa lefolytatott bírósági végrehajtási eljárással összefüggésben kezdeményezett eljárása, továbbá a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló 44/2001/EK rendelet, a nem vitatott követelésekre vonatkozó európai végrehajtható okirat létrehozásáról szóló 805/2004/EK rendelet és a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve a 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2201/2003/EK rendelet alapján hozott bírósági határozat (bírósági egyezség), kiállított közokirat végrehajtását kezdeményező eljárás;
+- m) az önálló bírósági végrehajtónak az általa lefolytatott bírósági végrehajtási eljárással összefüggésben kezdeményezett eljárása;
 - n) az eredményes alkotmányjogi panasz alapján induló eljárás;
 - o) a személyes adatok védelmével, illetve a közérdekű adatok nyilvánosságával összefüggésben indított per;
 - p) a jogi segítségnyújtás engedélyezése tárgyában hozott közigazgatási döntés bírósági felülvizsgálata,
 - r) a külön törvényben meghatározott hozzátartozók közötti erőszak miatt az ideiglenes megelőző távoltartó határozat bírói felülvizsgálatára, valamint a megelőző távoltartás elrendelésére irányuló nemperes eljárások.
-- s) az áldozatsegítés tárgyában hozott közigazgatási döntés bírósági felülvizsgálata.
+- s) az áldozatsegítés tárgyában hozott közigazgatási döntés bírósági felülvizsgálata,
+- t) a belföldi végrehajthatóság megállapítása iránti eljárás a 44/2001/EK tanácsi rendelet, a 2201/2003/EK tanácsi rendelet és a 4/2009/EK tanácsi rendelet alapján,
+- u) a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/C. §-a szerint tanúsítvány, igazolás és kivonat kiállítása iránti bírósági eljárás.
 
 (2) Illetékmentes a büntető ügyekben:
 
@@ -1376,6 +1378,17 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 - a)
 - b) a Bizottság 94/1069/EGK ajánlása a kis- és középvállalkozások átruházásáról,
 - c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
+
+(2) E törvény 57. § (1) bekezdés t) és u) pontja
+
+- a) a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2000. december 22-ei 44/2001/EK tanácsi rendelet (52. cikk),
+- b) a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-ei 2201/2003/EK tanácsi rendelet (39, 51. cikk),
+- c) a nem vitatott követelésekre vonatkozó európai végrehajtható okirat létrehozásáról szóló, 2004. április 21-ei 805/2004/EK európai parlamenti és tanácsi rendelet (6., 24. és 25. cikk),
+- d) az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-ei 1896/2006/EK parlamenti és tanácsi rendelet (18. cikk),
+- e) a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-ei 861/2007/EK parlamenti és tanácsi rendelet (20. cikk),
+- f) a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet (44–47. cikk)
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Melléklet
 
