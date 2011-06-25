@@ -7,7 +7,7 @@ Az Országgyűlés felismerve, hogy az állami szervek által kezelt, a nemzeti 
 1. § E törvény alkalmazásában
 
 - 1. nemzeti adatvagyon: a közfeladatot ellátó szervek által kezelt közérdekű adatok, személyes adatok és közérdekből nyilvános adatok összessége;
-- 2. elektronikus adatfeldolgozás: az elektronikus formában rögzített adatra vonatkozó adatkezelési műveletekhez kapcsolódó technikai feladatok elvégzése, így különösen az elektronikus úton vezetett nyilvántartás létrehozásának, működtetésének, üzemeltetésének és fejlesztésének technikai művelete.
+- 2. elektronikus adatfeldolgozás: az elektronikus formában rögzített adatra vonatkozó adatkezelési műveletekhez kapcsolódó technikai feladatok elvégzése, így különösen az elektronikus úton vezetett nyilvántartás létrehozásának, működtetésének és üzemeltetésének technikai művelete.
 
 2. § (1) A nemzeti adatvagyon részét képező adatállomány tekintetében törvény az adatfeldolgozással megbízható személyek és szervezetek körét korlátozhatja, vagy az adatfeldolgozásnak az adatkezelőtől különböző személy vagy szervezet általi ellátását kizárhatja.
 
@@ -16,6 +16,8 @@ Az Országgyűlés felismerve, hogy az állami szervek által kezelt, a nemzeti 
 (3) Felhatalmazást kap a Kormány, hogy a (2) bekezdés szerinti államigazgatási szerveket és kizárólagos állami tulajdonú gazdálkodó szervezeteket, valamint azon nyilvántartásokat, amelyek tekintetében adatfeldolgozással kizárólag ezek bízhatók meg, továbbá azon nyilvántartásokat, amelyek tekintetében a (2) bekezdés szerinti adatfeldolgozó megbízására az adatkezelő köteles, rendeletben határozza meg.
 
 (4) A (3) bekezdés szerinti rendelet az adatfeldolgozók körének meghatározásáról – ideértve az adatfeldolgozó kötelező megbízásának esetét – az elektronikus adatfeldolgozásra és a nem elektronikus adatfeldolgozásra külön-külön is rendelkezhet.
+
+(5) Ha az (1), illetve (2) bekezdésben foglaltakon alapuló korlátozás valamely adatkezelő esetében az informatikai rendszerek folyamatos működtetésének biztosítását, a jogszabályban előírt feladatok határidőben történő teljesítését, a jogszabályban előírt feladatok teljesítéséhez szükséges fejlesztések határidőben történő megvalósítását veszélyezteti vagy aránytalan költséggel járna, úgy az adatkezelő irányítására vagy felügyeletére kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a korlátozás alól egyedi felmentést adhat. Egyedi felmentés adható az időszakosan jelentkező adatfeldolgozási feladatok hatékony ellátásának biztosítása érdekében is.
 
 3. § A 2. § (3) bekezdése szerint meghatározott nyilvántartásokhoz kapcsolódó adatfeldolgozási műveletet az adatfeldolgozó kizárólag a Magyar Köztársaság területén végezhet.
 
