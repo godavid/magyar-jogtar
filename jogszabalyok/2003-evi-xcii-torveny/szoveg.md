@@ -1080,7 +1080,7 @@ veheti igénybe.
 
 52. § (1) Az adóhatóság a tudomására jutott adatokat nyilvántartja és megőrzi. A magánszemély adózó azonosításával, adókötelezettségének keletkezésével és teljesítésének ellenőrzésével összefüggésben személyes adatokat tart nyilván és ellenőrizhet.
 
-(1a) Az állami adóhatóság és a vámhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+(1a) Az állami adóhatóság és a vámhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól a NAV felügyeletére kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
 
 (2) Más hatóság, közfeladatot ellátó adatkezelő szerv nyilvántartásában szereplő adatot az adóhatóság az adózó és az adó megfizetésére kötelezett személy azonosításához, az adókötelezettség, a költségvetési támogatáshoz való jogosultság megállapításához, ellenőrzéséhez, végrehajtási eljárás lefolytatásához, az adózó kérelmére indult adóigazgatási eljárásban a tényállás tisztázásához használhatja fel. Amennyiben törvény megengedi az adóhatóságok vagy az állami adóhatóság és a társadalombiztosítás pénzügyi alapjainak kezelői között az adat átadását, illetve a hatósági nyilvántartásokból az adat átvételét, az adatszolgáltatást elektronikus úton is lehet teljesíteni.
 

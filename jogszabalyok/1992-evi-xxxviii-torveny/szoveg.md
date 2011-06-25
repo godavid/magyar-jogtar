@@ -514,7 +514,7 @@ látja el.
 
 (11)
 
-(12) A családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai során a kincstár a magánszemélyek részére vagy jogán megállapított jogosultságokról és támogatásokról egységes szociális nyilvántartást vezet. Az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával a kincstár csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+(12) A családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai során a kincstár a magánszemélyek részére vagy jogán megállapított jogosultságokról és támogatásokról egységes szociális nyilvántartást vezet. Az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával a kincstár csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól az államháztartásért felelős miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
 
 18/C. § (1) A kincstári kör szervezeteinek egymás közötti fizetéseit (kiadásait és bevételeit) átvezetéssel kell elszámolni.
 

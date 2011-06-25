@@ -138,7 +138,7 @@ Tbj. 11. § A biztosítás nem terjed ki:
 - a) külföldi állam Magyarországra akkreditált diplomáciai és konzuli képviselete személyzetének külföldi állampolgárságú tagjára (a továbbiakban: képviselet tagja), a külföldi állampolgárságú háztartási alkalmazottra, aki kizárólag a képviselet tagjának alkalmazásában áll, a képviselet tagjával közös háztartásban élő külföldi állampolgárságú családtagra (házastárs, gyermek), feltéve hogy az alkalmazottra, illetve a családtagra kiterjed a küldő állam vagy más állam társadalombiztosítási rendszere, továbbá a nemzetközi szervezet nemzetközi szerződés alapján mentességet élvező tisztviselőjére (alkalmazottjára) és vele közös háztartásban élő családtagjára (házastárs, gyermek), feltéve hogy kiterjed rájuk a nemzetközi szervezet szociális biztonsági rendszere;
 - b) a magyar jogszabályok szerint be nem jegyzett külföldi munkáltató által a Magyar Köztársaság területén foglalkoztatott külföldinek minősülő,
   - ba)
-  - bb) harmadik állam polgárára, ha kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében végez munkát; [b) a magyar jogszabályok szerint be nem jegyzett külföldi munkáltató által a Magyar Köztársaság területén foglalkoztatott, harmadik állam állampolgárságával rendelkező és külföldinek minősülő munkavállalóra, ha a munkavégzésre kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében kerül sor, feltéve, hogy e munkavégzés a két évet nem haladja meg; e rendelkezés ismételten nem alkalmazható ugyanarra a munkavállalóra, ha az előző belföldi munkavégzés befejezésétől számítva három év nem telt el;]
+  - bb) harmadik állam polgárára, ha kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében végez munkát;
 - c) az európai parlamenti képviselőre.
 - d)
 
@@ -571,7 +571,7 @@ Tbj. 40. § A társadalombiztosítási rendszerek és a magánnyugdíjrendszer h
 - b) az egészségbiztosítási nyilvántartás adatkezelője az egészségbiztosítási szerv,
 - c) a járulék bevallását, befizetését, végrehajtását tartalmazó nyilvántartás adatkezelője az állami adóhatóság.
 
-Tbj. 40/A. § A nyugdíj-biztosítási nyilvántartás és az egészségbiztosítási nyilvántartás adatkezelője a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+Tbj. 40/A. § A nyugdíj-biztosítási nyilvántartás és az egészségbiztosítási nyilvántartás adatkezelője a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól az adatkezelő irányítására kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
 
 Tbj. 41. § (1) A 40. §-ban említett nyilvántartások tartalmazzák a foglalkoztatók és a biztosítottak törvényben előírt kötelezettségei teljesítésével szolgáltatott mindazon adatot, amelyből biztosítottanként megállapítható a társadalombiztosítási, egészségbiztosítási- és munkaerő-piaci, valamint nyugdíjjárulék-alapot képező jövedelem, a biztosított után megfizetett, illetőleg a tőle levont egészségbiztosítási járulék és nyugdíjjárulék (tagdíj) összege, a biztosítási jogviszony időtartama, valamint a biztosítottat megillető ellátások megállapításához szükséges adat.
 

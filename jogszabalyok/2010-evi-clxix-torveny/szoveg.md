@@ -9,8 +9,8 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2011. évi
 
 - a) bevételi főösszegét 13 152 945,1 millió forintban,
-- b) kiadási főösszegét 13 838 618,3 millió forintban,
-- c) hiányát 685 673,2 millió forintban állapítja meg.
+- b) kiadási főösszegét 14 337 194,3 millió forintban,
+- c) hiányát 1 184 249,2 millió forintban állapítja meg.
 
 2. § (1) Az 1. §-ban megállapított kiadási és bevételi főösszegeknek, valamint a saját bevétellel nem fedezett kiadásokhoz nyújtott költségvetési támogatási előirányzatoknak fejezetek, címek, alcímek, jogcím-csoportok, jogcímek szerinti – a belső és külső tételeket együttesen tartalmazó – részletezését az 1. melléklet tartalmazza.
 
@@ -74,6 +74,14 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 8. § (1) A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet, 2. cím, 4. Fejezeti tartalék alcímén szereplő, 800,0 millió forint összegű kiadási előirányzatból egyedi 300,0 millió forintot meg nem haladó összeget az agrárpolitikáért felelős miniszter és az államháztartásért felelős miniszter együttes döntésével, az ezt meghaladó összeget a Kormány átcsoportosíthatja az e fejezetben szereplő kiadási előirányzatokra.
 
 (2) A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet, 1. cím, 1. Értékesítési bevételek alcím és 2. Hasznosítási bevételek alcím bevételi előirányzatainak tervezettet meghaladó pénzforgalmi teljesítése esetén különösen indokolt esetben a Kormány határozata alapján a fejezetnek a határozatban megjelölt kiadási előirányzata – legfeljebb a pénzforgalmilag teljesült többletbevétel mértékéig – túlléphető.
+
+8/A. § (1) Az Országgyűlés jóváhagyja, hogy az állami vagyon felügyeletéért felelős miniszter a Magyar Állam nevében és javára a MOL Magyar Olaj- és Gázipari Nyrt. által kibocsátott, 22 179 488 darab „A” sorozatú, 1000 forint névértékű részvényt vásároljon.
+
+(2) Az (1) bekezdés szerinti részvényvásárlásra irányuló kifizetés összege nem haladhatja meg az 1 880 000 000 eurót.
+
+(3) A (2) bekezdés szerinti kifizetés költségvetési kiadásként elszámolt összege a devizaárfolyam változás következtében eltérhet az előirányzattól.
+
+(4) Az (1) bekezdés szerinti részvények felett a Magyar Államot megillető tulajdonosi jogok és kötelezettségek összességét a Magyar Nemzeti Vagyonkezelő Zrt. látja el. A Magyar Nemzeti Vagyonkezelő Zrt. a részesedés megszerzéséről szóló szerződésben foglalt fizetési kötelezettség teljesítése érdekében pénzügyi intézménynél euró-alapú bankszámlát nyithat, amely kizárólag a részesedés vételárának megfizetését szolgálhatja. A bankszámlát a részesedés megszerzéséről szóló szerződés teljesítését követően meg kell szüntetni.
 
 9. § (1) Az állami tulajdonú gazdasági társaságoktól 2011. évben elvont osztalék a központi költségvetés központosított bevétele, amelyet Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben kell elszámolni.
 
@@ -3799,6 +3807,7 @@ Millió forintban
 |  |  |  |  | 4 |  |  |  |  |  |  |  |  |  | Állami tulajdoni részesedések növekedését eredményező kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  |  | Az MNV Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 374,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 2 |  |  |  |  |  |  |  |  |  | Az MFB Zrt. tulajdonosi joggyakorlásával kapcsolatos kifizetések |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 500,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  | 3 |  |  |  |  |  |  |  |  |  | A MOL Nyrt. által kibocsátott részvények megvásárlása |  |  |  |  |  |  |  |  |  |  |  |  | 498 576,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  | Volt szovjet ingatlanok környezeti kármentesítése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 500,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  |  |  |  |  | Hasznosítással kapcsolatos folyó kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 2 |  |  |  |  |  |  |  |  |  | Ingatlanok fenntartásával járó kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3831,7 +3840,7 @@ Millió forintban
 |  |  |  |  | 5 |  |  |  |  |  |  |  |  |  | Állami ingatlanvagyon felmérése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 000,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 5 |  |  |  |  |  |  |  |  |  | Fejezeti tartalék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 980,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 8 |  |  |  |  |  |  |  |  |  | ÁFA elszámolás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 000,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | XLIII. fejezet összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 91 854,5 |  |  |  |  |  |  |  | 34 649,4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | XLIII. fejezet összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 590 430,5 |  |  |  |  |  |  |  |  | 34 649,4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XLIV. A NEMZETI FÖLDALAPPAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  |  |  |  |  |  | A Nemzeti Földalappal kapcsolatos bevételek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  |  |  |  |  | Értékesítési bevételek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -4094,9 +4103,9 @@ Millió forintban
 |  |  |  |  |  |  |  |  |  |  | 1 | Intézményi beruházási kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 153,8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 5. cím összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 10 964,1 |  |  |  |  |  |  |  |  |  | 424,6 |  |  |  |  |  | 10 539,5 |  |  |  |  |  |  |  |  |  |  |  |
 |  | LXXII. fejezet összesen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 459 613,9 |  |  |  |  |  |  |  | 1 370 936,7 |  |  |  |  |  |  |  |  |  | 10 539,5 |  |  |  |  |  |  |  |  |  |  |  |
-|  | KIADÁSI FŐÖSSZEG: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 13 838 618,3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | KIADÁSI FŐÖSSZEG: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 337 194,3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | BEVÉTELI FŐÖSSZEG: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 13 152 945,1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | A FŐÖSSZEGEK EGYENLEGE: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | –685 673,2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | A FŐÖSSZEGEK EGYENLEGE: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | –1 184 249,2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ### 2. melléklet a 2010. évi CLXIX. törvényhez
@@ -7080,6 +7089,12 @@ Folyósított ellátások utáni térítés (22. cím, 4. alcím)
 IX. HELYI ÖNKORMÁNYZATOK TÁMOGATÁSAI ÉS ÁTENGEDETT SZEMÉLYI JÖVEDELEMADÓJA fejezetben
 
 Budapest 4-es – Budapest Kelenföldi pályaudvar-Bosnyák tér közötti – metróvonal építésének támogatása (11. cím)
+
+6. A MOL Magyar Olaj- és Gázipari Nyrt. által kibocsátott részvények megvásárlására fordítandó, a 8/A. § (2) bekezdésében megjelölt devizaösszeg költségvetési kiadásként elszámolt összege a devizaárfolyam változás következtében túlléphető:
+
+XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben
+
+A MOL Nyrt. által kibocsátott részvények megvásárlása (2. cím, 1. alcím, 4. jogcím-csoport, 3. jogcím)
 
 ### 10. melléklet a 2010. évi CLXIX. törvényhez
 
