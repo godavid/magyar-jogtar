@@ -132,7 +132,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 (6) Az OIT-ot a javaslatok nem kötik. Az OIT a pályázókat meghallgathatja.
 
-(7) Ha a nyertes pályázó bírói kinevezéssel már rendelkezik, a (3)–(5) bekezdésben foglalt eljárás során a pályázat elbírálója a köztársasági elnökhöz való felterjesztés helyett az áthelyezésre jogosultnál kezdeményezi a bíró áthelyezését, vagy ha az OIT a pályázat elbírálója és az áthelyezésre is az OIT jogosult, határoz a bíró áthelyezéséről.
+(7) Ha a nyertes pályázó bírói kinevezéssel már rendelkezik, a (3)–(5) bekezdésben foglalt eljárás során a pályázat elbírálója a köztársasági elnökhöz való felterjesztés helyett az áthelyezésre jogosultnál kezdeményezi a bíró áthelyezését, vagy ha a pályázat elbírálója jogosult az áthelyezésre, határoz a bíró áthelyezéséről.
 
 10. § (1) Ha a pályázat eredménytelen, új pályázatot kell kiírni.
 
@@ -253,7 +253,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 (3) Esküt az a bíró tehet, aki a vagyonnyilatkozatot benyújtotta.
 
-14. § (1) A bírót első kinevezésekor az OIT, ezt követően a Legfelsőbb Bíróságra a Legfelsőbb Bíróság elnöke, az ítélőtáblára az ítélőtábla elnöke, a megyei bíróságra, továbbá a helyi és a munkaügyi bíróságra a megyei bíróság elnöke osztja be.
+14. § (1) A bírót első kinevezésekor a pályázat elbírálója, ezt követően a Legfelsőbb Bíróságra a Legfelsőbb Bíróság elnöke, az ítélőtáblára az ítélőtábla elnöke, a megyei bíróságra, továbbá a helyi és a munkaügyi bíróságra a megyei bíróság elnöke osztja be.
 
 (2) Az OIT osztja be – a bíróság elnökének javaslatára – a katonai bírót a katonai tanácsba, valamint a Magyar Honvédségnél fennálló hivatásos szolgálati viszonyának megszűnésekor – a 61. § (3) bekezdése alapján – más bírói munkakörbe.
 
@@ -291,7 +291,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 (2) Ha a bírót az (1) bekezdés szerinti okból alacsonyabb szintű bíróságra osztják be, megtartja korábbi illetményét és jogosult a korábbi bírói beosztására utaló elnevezés használatára.
 
-20. § A bíró más bírósághoz történő kirendelésére az OIT elnöke, áthelyezésére az OIT, ha a kirendelés vagy az áthelyezés a megyei bíróság és az illetékességi területén működő helyi bíróság között vagy a megyei bíróság illetékességi területén működő helyi bíróságok között történik, a megyei bíróság elnöke jogosult.
+20. § A bíró más bírósághoz történő kirendelésére az OIT elnöke, áthelyezésére a pályázat elbírálója, ha a kirendelés vagy az áthelyezés a megyei bíróság és az illetékességi területén működő helyi bíróság között vagy a megyei bíróság illetékességi területén működő helyi bíróságok között történik, a megyei bíróság elnöke jogosult.
 
 20/A. § A bíró – hozzájárulásával – az OIT döntése alapján tartós külszolgálatot láthat el. A tartós külszolgálatot ellátó bíró megtartja bírói tisztségét, de nem ítélkezhet; a külszolgálat befejezését követően a tényleges bírói munkakörbe történő beosztására pedig a 40. § (4) és (5) bekezdését kell alkalmazni.
 
@@ -1350,7 +1350,11 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 138. §
 
-138/A. §
+138/A. § E törvénynek a Módtv.
+
+- a) 9. § (1) bekezdésével megállapított 9. § (7) bekezdését,
+- b) 9. § (2) bekezdésével megállapított 14. § (1) bekezdését, valamint
+- c) 9. § (3) bekezdésével megállapított 20. §-át az annak hatályba lépésekor folyamatban lévő bírói beosztásokra és áthelyezésekre is alkalmazni kell, amennyiben a bírói beosztásról, vagy áthelyezésről szóló döntés még nem került meghozatalra.
 
 ### Felhatalmazás
 

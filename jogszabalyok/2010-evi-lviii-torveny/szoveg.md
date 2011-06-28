@@ -704,6 +704,8 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 63. § Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára az Mt. 94/A-H. §-a, valamint 100. §-a nem alkalmazható.
 
+63/A. § A Kormánytisztviselők Napja július 1-je, amely az e törvény hatálya alá tartozó szerveknél – a munkaviszonyban állókra is kiterjedően – munkaszüneti nap. Az ügyfélszolgálati feladatok ellátásával összefüggő munkakört betöltők esetében a Kormánytisztviselők Napja nem minősül munkaszüneti napnak.
+
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 64. § (1) Felhatalmazást kap a Kormány, hogy a központi államigazgatási szervekre, azok területi és helyi szerveire nézve igazgatási területenként az adott évre az igazgatási szünet időtartamát rendeletben határozza meg.
