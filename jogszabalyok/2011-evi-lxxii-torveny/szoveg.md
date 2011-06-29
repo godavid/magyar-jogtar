@@ -74,25 +74,11 @@ ac) esetében a 28. § (8) bekezdésében foglaltak akkor is alkalmazandók, ha 
 
 #### 2. A bíróságok szervezetéről és igazgatásáról szóló 1997. évi LXVI. törvény módosítása
 
-8. § A bíróságok szervezetéről és igazgatásáról szóló 1997. évi LXVI. törvény a következő 106. §-sal egészül ki:
-
-„106. § (1) A 2012. január 1-jéig terjedő időszakban bírósági vezetői tisztségre pályázat nem írható ki, a már kiírt pályázat nem bírálható el, továbbá bírósági vezető nem nevezhető ki és – a (2) bekezdésben foglalt kivétellel – bírósági vezetői tisztség egyéb módon sem tölthető be.
-
-(2) Ha a tanácselnök tisztsége a 2012. január 1-jéig terjedő időszakban szűnik meg, a tanácselnöki tisztség legfeljebb 1 évre megbízás útján betölthető.”
+8. §
 
 #### 3. A bírák jogállásáról és javadalmazásáról szóló 1997 . évi LXVII. törvény módosítása
 
-9. § (1) A bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény (a továbbiakban: Bjt.) 9. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ha a nyertes pályázó bírói kinevezéssel már rendelkezik, a (3)–(5) bekezdésben foglalt eljárás során a pályázat elbírálója a köztársasági elnökhöz való felterjesztés helyett az áthelyezésre jogosultnál kezdeményezi a bíró áthelyezését, vagy ha a pályázat elbírálója jogosult az áthelyezésre, határoz a bíró áthelyezéséről.”
-
-(2) A Bjt. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„14. § (1) A bírót első kinevezésekor a pályázat elbírálója, ezt követően a Legfelsőbb Bíróságra a Legfelsőbb Bíróság elnöke, az ítélőtáblára az ítélőtábla elnöke, a megyei bíróságra, továbbá a helyi és a munkaügyi bíróságra a megyei bíróság elnöke osztja be.”
-
-(3) A Bjt. 20. §-a helyébe a következő rendelkezés lép:
-
-„20. § A bíró más bírósághoz történő kirendelésére az OIT elnöke, áthelyezésére a pályázat elbírálója, ha a kirendelés vagy az áthelyezés a megyei bíróság és az illetékességi területén működő helyi bíróság között vagy a megyei bíróság illetékességi területén működő helyi bíróságok között történik, a megyei bíróság elnöke jogosult.”
+9. § (1)–(3)
 
 (4) A Bjt. 57. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
 
@@ -116,23 +102,11 @@ hb) a felső korhatárt – Magyarország Alaptörvényében meghatározott eset
 
 (3) Ha a bíró a felső korhatárt a 2012. január 1. és 2012. december 31. közötti időszakban tölti be a felmentési idejének kezdő időpontja 2012. július 1., záró időpontja 2012. december 31., és a bírói tisztség 2012. december 31. napjával szűnik meg. A felmentésre vonatkozó előterjesztést olyan időpontban kell megtenni, hogy a felmentésre vonatkozó határozat legkésőbb 2012. december 31-én meghozatalra kerülhessen.”
 
-(2) A Bjt. a következő 138/A. §-sal egészül ki:
-
-„138/A. § E törvénynek a Módtv.
-
-a) 9. § (1) bekezdésével megállapított 9. § (7) bekezdését,
-
-b) 9. § (2) bekezdésével megállapított 14. § (1) bekezdését, valamint
-
-c) 9. § (3) bekezdésével megállapított 20. §-át
-
-az annak hatályba lépésekor folyamatban lévő bírói beosztásokra és áthelyezésekre is alkalmazni kell, amennyiben a bírói beosztásról, vagy áthelyezésről szóló döntés még nem került meghozatalra.”
+(2)
 
 #### 4. A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény módosítása
 
-11. § A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény a következő 63/A. §-sal egészül ki:
-
-„63/A. § A Kormánytisztviselők Napja július 1-je, amely az e törvény hatálya alá tartozó szerveknél – a munkaviszonyban állókra is kiterjedően – munkaszüneti nap. Az ügyfélszolgálati feladatok ellátásával összefüggő munkakört betöltők esetében a Kormánytisztviselők Napja nem minősül munkaszüneti napnak.”
+11. §
 
 #### 5. Záró rendelkezések
 

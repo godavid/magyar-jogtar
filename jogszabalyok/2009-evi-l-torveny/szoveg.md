@@ -371,8 +371,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (3) A közjegyző az ellentmondásról szóló értesítés kézbesítésével egyidejűleg felhívja a jogosultat, hogy az értesítés kézbesítésétől számított tizenöt napon belül a bíróságnak benyújtott beadványon a peres eljárás illetékét rója le és
 
-- a) az ügyre vonatkozó részletes tényállításait adja elő és bizonyítékait terjessze elő,
-- b) a Pp. XXVI. Fejezete szerinti vállalkozások egymás közötti pereiben a keresetlevelet a külön jogszabályban meghatározott formanyomtatványon elektronikusan terjessze elő.
+- a) az ügyre vonatkozó részletes tényállításait adja elő és bizonyítékait terjessze elő.
+- b)
 
 (4) A közjegyző a felhívást azzal a figyelmeztetéssel látja el, hogy az abban foglaltak elmulasztása esetében a bíróság a pert megszünteti. Ha a jogosult a kérelemben a Pp. 167. §-ának (3) bekezdése alkalmazásával jelölt meg tanút, az ellentmondásról szóló értesítés kézbesítésével egyidejűleg a közjegyző arra is felhívja a jogosultat, hogy a tanú nevét és idézhető címét – amennyiben az szükséges, egyéb személyi adatait – az ott meghatározott módon a bíróságnak jelentse be. A bírósághoz intézett beadványban a fizetési meghagyásos eljárásban kapott ügyszámra hivatkozni kell.
 
@@ -620,7 +620,7 @@ rendeletben állapítsa meg.
 
 (4) A 37. § (3) bekezdés b) pontja, valamint a Pp. e törvény 62. § (3) bekezdésével megállapított 315. § (3) bekezdés b) pontja, 318. § (1) bekezdésének b) pontja és 319. § (2) bekezdése 2011. január 1-jén lép hatályba.
 
-(5) A 16. § (5) bekezdése, a 64. § (4) bekezdése, a 65. § (5) bekezdése és a 71. § 2011. július 1-jén lép hatályba.
+(5) A 64. § (4) bekezdése és a 71. § (1) és (3) bekezdése 2011. július 1-jén lép hatályba. A 16. § (5) bekezdése, a 65. § (5) bekezdése és a 71. § (2) bekezdése 2012. május 31-én lép hatályba.
 
 (6) E törvény rendelkezéseit – a 64. §-ban foglalt rendelkezések kivételével – a hatálybalépésük után indult eljárásokban kell alkalmazni. E törvény fizetési meghagyás végrehajtásának elrendelésére vonatkozó rendelkezéseit a 2010. május 31-ét követően indult fizetési meghagyásos eljárásokban (európai fizetési meghagyásos eljárásokban) kell alkalmazni.
 
