@@ -3517,9 +3517,9 @@ alapított igény érvényesítése.
 
 (3) Az elmulasztott fellebbezési határidő utolsó napjától számított hatvan nap elteltével igazolási kérelem akkor sem terjeszthető elő, ha a mulasztás csak később jutott a fél tudomására, vagy az akadály csak később szűnt meg.
 
-(4) A másodfokú eljárásban új tények állításának, illetve új bizonyítékok előterjesztésének helye nincs. E tilalom nem érvényesül, ha a tények előadására, illetve bizonyítékok előterjesztésére az elsőfokú eljárásban a bíróság eljárási szabálysértése vagy téves jogalkalmazása miatt nem kerülhetett sor.
+(4) A másodfokú eljárásban a 146. § (5) bekezdés a) pontjában foglaltaknak, illetve új bizonyítékok előterjesztésének helye nincs. E tilalom nem érvényesül, ha a 146. § (5) bekezdés a) pontjában foglaltakra, illetve a bizonyítékok előterjesztésére az elsőfokú eljárásban a bíróság eljárási szabálysértése vagy téves jogalkalmazása miatt nem kerülhetett sor.
 
-(5) A másodfokú eljárásban a 247. § a)–c) pontja alkalmazásának – ha az bizonyítási eljárás lefolytatását tenné szükségessé – csak akkor van helye, ha a keresetváltoztatásra okot adó körülmények a tárgyalás berekesztését követően álltak be. E tilalom nem érvényesül, ha a (4) bekezdés alapján a bizonyítási eljárás folytatásának egyébként is helye van.
+(5) A másodfokú eljárásban a 146. § (5) bekezdés b)–d) pontjában foglaltaknak – ha azok bizonyítási eljárás lefolytatását tennék szükségessé – csak akkor van helyük, ha az azokra okot adó körülmények a tárgyalás berekesztését követően álltak be. E tilalom nem érvényesül, ha a (4) bekezdés alapján a bizonyítási eljárás folytatásának egyébként is helye van.
 
 (6) Ha a beszámítási kifogás előterjeszthető, a (4) bekezdésben foglalt tilalom annak elbírálása során nem alkalmazható.
 
@@ -3541,7 +3541,7 @@ alapított igény érvényesítése.
 
 ### XXVII. Fejezet
 
-394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2011. július 1. és 2012. június 30. napja között a következő rendelkezéseket kell alkalmazni:
+394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2012. május 31. és 2013. március 31. napja között a következő rendelkezéseket kell alkalmazni:
 
 - a) ha a vállalkozások közötti perben kötelező a jogi képviselet, a keresetlevél és minden egyéb beadvány, okirati bizonyíték benyújtására kizárólag elektronikus úton, a jogi képviselő hivatali kapuján keresztül kerülhet sor, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti; az elektronikus úton benyújtott keresetlevelet a bíróság az alperes részére papír alapú okiratként kézbesíti azzal a kiegészítő tájékoztatással, hogy az eljárásban kötelező a jogi képviselet, ezért védekezését, nyilatkozatát jogi képviselővel eljárva, kizárólag elektronikus úton nyújthatja be;
 - b) kötelező jogi képviselet esetén az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás; a papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti;
@@ -3550,13 +3550,13 @@ alapított igény érvényesítése.
 - e) ha az eljárásban nem kötelező az elektronikus kézbesítés, akkor a fél jogutódjára nem vonatkozik az, hogy a jogelőd az elektronikus kézbesítést vállalta, kivéve, ha a jogi képviselő vállalta az elektronikus kézbesítést, és a jogi képviselő személye nem változott;
 - f) ha a fél, illetve a jogi képviselő – a kötelező jogi képviselet esetét nem számítva – nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítést a másik fél, illetve jogi képviselője vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait papír alapon kézbesíti a másik fél, illetve jogi képviselője számára.
 
-(2) Az általános meghatalmazottal kapcsolatban 2011. július 1. napja és 2012. június 30. napja között a következő rendelkezéseket kell alkalmazni:
+(2) Az általános meghatalmazottal kapcsolatban 2012. május 31. és 2013. március 31. napja között a következő rendelkezéseket kell alkalmazni:
 
 - a) ha a fél általános meghatalmazottal rendelkezik, akkor a meghatalmazott bejelentheti a bíróságnál, hogy ezen fél tekintetében vállalja a hivatalos iratok elektronikus kézbesítését; ebben az esetben a bíróság a meghatalmazott – mint az alperes, illetve a kötelezett képviselője – részére elektronikusan kézbesíti a hivatalos iratokat (a keresetlevelet is);
 - b) az elektronikus vagy papír alapú okiratban tett bejelentésnek tartalmaznia kell a jogi képviselő természetes személyazonosító adatait (név, születési hely és idő, anyja neve);
 - c) a bejelentés megtételekor nem kell illetéket leróni abban az esetben, ha a bejelentést a korábban benyújtott általános meghatalmazás kiegészítéseként teszik meg; ekkor a bejelentést a korábban benyújtott általános meghatalmazáshoz kell csatolni.
 
-394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2012. július 1. napjától a következő rendelkezéseket kell alkalmazni:
+394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2013. április 1. napjától a következő rendelkezéseket kell alkalmazni:
 
 - a) a vállalkozás az Állami Elektronikus Kézbesítési Szolgáltatónál kézbesítési tárhellyel rendelkezik; a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti;
 - b) ha a vállalkozás az eljárásban alperesként (illetve kötelezettként, adósként) vesz részt, részére a bíróság elektronikusan kézbesít, és a vállalkozás a beadványait, okirati bizonyítékait kizárólag elektronikusan nyújthatja be;
@@ -3568,7 +3568,7 @@ alapított igény érvényesítése.
 
 ### Elektronikus kommunikáció a szakértővel
 
-394/D. § (1) E § rendelkezéseit 2012. június 30-ig csak a megyei bíróságok első fokú hatáskörébe tartozó, 2011. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2012. július 1. napjától az ezen időpont után indult, a helyi bíróságok előtti polgári perekben is alkalmazni kell.
+394/D. § (1) E § rendelkezéseit 2013. március 31-ig csak a megyei bíróságok első fokú hatáskörébe tartozó, 2012. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2013. április 1. napjától az ezen időpont után indult, a helyi bíróságok előtti polgári perekben is alkalmazni kell.
 
 (2) Ha a szakértő az igazságügyi szakértői névjegyzék adatai alapján az elektronikus kézbesítést vállalja, a polgári perben a hivatalos és egyéb iratokat, ide értve a szakvéleményt, az előzetes munkatervet és a díjjegyzéket is, – a (3) bekezdésben foglalt kivétellel – elektronikusan kézbesíti a bíróság részére, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a szakértőnek. A szakértő ebben az esetben nem kötelezhető arra, hogy a bírósághoz benyújtott hivatalos és egyéb iratot a felek és más perbeli személyek számára papír alapon megküldje.
 
@@ -3589,9 +3589,9 @@ alapított igény érvényesítése.
 394/E. § (1) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációjára 2011. január 1. napja és 2012. június 30. napja között a következő rendelkezéseket kell alkalmazni:
 
 - a) A bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton is kézbesíttetheti;
-- b) Az elektronikus úton megkeresett másik bíróság, közigazgatási szerv vagy hatóság a megkereső bíróságnak elektronikus úton válaszol a megkeresésre.
+- b) Az elektronikus úton megkeresett másik bíróság, közigazgatási szerv vagy hatóság a megkereső bíróságnak elektronikus úton válaszolhat a megkeresésre.
 
-(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációjára 2012. június 30. napját követően a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.
+(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációjára 2013. március 31. napját követően a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.
 
 ## HETEDIK RÉSZ — VEGYES RENDELKEZÉSEK
 
