@@ -2132,23 +2132,27 @@ Ptk.269. § (1) Zálogjog úgy is alapítható, hogy az a zálogtárgyat személ
 
 ### Az óvadék
 
-Ptk.270. § (1) Valamely követelés biztosítására pénzen, bankszámla-követelésen, értékpapíron és egyéb, külön törvényben meghatározott pénzügyi eszközön az erre irányuló szerződéssel és az óvadék tárgyának átadásával óvadék alapítható. Ha az óvadék tárgya más dolog, a zálogjog szabályait kell alkalmazni.
+Ptk.270. § (1) Valamely követelés biztosítására pénzen, bankszámla-követelésen, értékpapíron, egyéb, külön törvényben meghatározott pénzügyi eszközön és hitelkövetelésen az erre irányuló szerződéssel és az óvadék tárgyának átadásával óvadék alapítható. Ha az óvadék tárgya más dolog vagy más követelés, a zálogjog szabályait kell alkalmazni.
 
-(2) Átadásnak kell tekinteni minden olyan eljárást, amely alapján az óvadék tárgya egyértelműen azonosítható módon a kötelezett hatalmából a jogosult hatalmába kerül vagy a kötelezett korlátlan rendelkezése alól egyébként kikerül, különösen a bankszámlán, értékpapírszámlán, értékpapír-letéti számlán való jóváírást, ideértve a kötelezett vagy harmadik személy számláján a jogosult javára történő jóváírást is. Ha az óvadék tárgyát nem adták át, a zálogjog szabályait kell alkalmazni.
+(2) Átadásnak kell tekinteni minden olyan eljárást, amely alapján az óvadék tárgya egyértelműen azonosítható módon a kötelezett hatalmából a jogosult hatalmába kerül, vagy a kötelezett korlátlan rendelkezése alól egyébként kikerül, különösen a bankszámlán, értékpapírszámlán, értékpapír-letéti számlán való jóváírást, ideértve a kötelezett vagy harmadik személy számláján a jogosult javára történő jóváírást is, hitelkövetelés esetén az azt tanúsító, illetve érvényesítéséhez szükséges okiratok rendelkezésre bocsátását. Ha az óvadék tárgyát nem adták át, a nyújtott biztosítékra a zálogjog szabályait kell alkalmazni.
 
-(3) A felek megállapodhatnak abban, hogy a jogosult használhatja az óvadék tárgyát és rendelkezhet vele. Az óvadék tárgyának használata vagy az azzal való rendelkezés esetén a jogosult köteles legkésőbb az óvadékkal biztosított követelés esedékessé válásáig egyenértékű fedezettel helyettesíteni az óvadék eredeti tárgyát. Az egyenértékű fedezet az óvadék eredeti tárgyának helyébe lép.
+(3) Ha az óvadék tárgya nem hitelkövetelés, a felek abban is megállapodhatnak, hogy a jogosult használhatja az óvadék tárgyát és rendelkezhet vele. Az óvadék tárgyának használata vagy az azzal való rendelkezés esetén a jogosult köteles legkésőbb az óvadékkal biztosított követelés esedékessé válásáig egyenértékű fedezettel helyettesíteni az óvadék eredeti tárgyát. Az egyenértékű fedezet az óvadék eredeti tárgyának helyébe lép.
 
 (4) Bankszámla-követelés esetén egyenértékű fedezetnek kell tekinteni a számlán azonos pénznemben elhelyezett, azonos összeget. Értékpapír és egyéb pénzügyi eszköz esetén egyenértékű fedezetnek kell tekinteni az azonos kibocsátó, illetve adós által, azonos sorozatban kibocsátott másik értékpapírt és egyéb pénzügyi eszközt, illetve bármely olyan fedezetet, amely a felek megállapodása szerint az értékpapír és egyéb pénzügyi eszközökkel kapcsolatos valamely esemény bekövetkeztekor az óvadék eredeti tárgyának helyébe lép.
 
 (5) A felek a (3) bekezdéstől eltérően úgy is megállapodhatnak, hogy a jogosult kielégítési jogának megnyíltakor a kötelezett az óvadékkal biztosított tartozásába az egyenértékű fedezet értékére vonatkozó követelését beszámíthatja.
 
-(6) A felek megállapodhatnak abban, hogy a kötelezett az óvadék tárgyát a kielégítési jog megnyílta előtt más, egyenértékű fedezettel helyettesítheti. Az egyenértékű fedezet az óvadék eredeti tárgyának helyébe lép.
+(6) A felek megállapodhatnak abban, hogy a kötelezett az óvadék tárgyát a kielégítési jog megnyílta előtt más, egyenértékű fedezettel helyettesítheti, ebben az esetben az egyenértékű fedezet az óvadék eredeti tárgyának helyébe lép. Ha az óvadék tárgya hitelkövetelés, és azt a jogosult kielégítési jogának megnyílta előtt a kötelezettnek teljesítik, a kötelezett a (7) bekezdés szerinti kiegészítő biztosíték nyújtására köteles.
 
 (7) A felek megállapodhatnak abban, hogy az óvadék tárgya vagy a biztosított követelés értékének változásakor a kötelezett kiegészítő biztosíték nyújtására, illetve a jogosult a túlzott biztosíték kötelezett részére való kiadására köteles. A kiegészítő biztosíték az óvadék eredeti tárgyának sorsát osztja.
 
-Ptké.49. §
+### Óvadék
 
-Ptk.271. § (1) Kielégítési joga megnyíltakor a jogosult az óvadékkal biztosított követelését az óvadék tárgyából közvetlenül kielégítheti, ha az óvadék tárgya pénz, bankszámla-követelés, nyilvánosan jegyzett piaci árral vagy egyébként az adott időpontban a felektől függetlenül meghatározható árral rendelkező értékpapír vagy egyéb pénzügyi eszköz. Egyéb értékpapír és pénzügyi eszköz esetében a jogosult a közvetlen kielégítés jogát akkor gyakorolhatja, ha erről a felek szerződésükben megállapodtak és az értékelés módját szerződésükben meghatározták.
+Ptké.49. § (1) Óvadék tárgyául szolgáló hitelkövetelésen azt a követelést kell érteni, amely hitelintézettel – ideértve a 2006/48/EK irányelv 2. cikkében felsorolt, valamint a 4 cikk 1. pontját átültető EGT-állam jogszabályai szerint hitelintézetnek minősülő pénzügyi intézményeket is – kötött kölcsönszerződésből származik.
+
+(2) Ha jogszabály eltérően nem rendelkezik, az óvadék tárgyát képező hitelköveteléssel szemben a beszámítási jog gyakorlása kizárható. Az erre irányuló szerződéses kikötés vagy joglemondó nyilatkozat érvényességéhez annak írásba foglalása szükséges.
+
+Ptk.271. § (1) Kielégítési joga megnyílásakor a jogosult az óvadékkal biztosított követelését az óvadék tárgyából közvetlenül kielégítheti, ha az óvadék tárgya pénz, bankszámla-követelés, nyilvánosan jegyzett piaci árral vagy egyébként az adott időpontban a felektől függetlenül meghatározható árral rendelkező értékpapír vagy egyéb pénzügyi eszköz. Egyéb értékpapír, hitelkövetelés vagy pénzügyi eszköz esetében a jogosult a közvetlen kielégítés jogát akkor gyakorolhatja, ha erről a felek szerződésükben megállapodtak és az értékelés módját szerződésükben meghatározták. Hitelkövetelésből való közvetlen kielégítéshez az is szükséges, hogy a hitelkövetelés óvadékba adásáról a követelés kötelezettjét az engedményezés szabályai szerint értesítsék.
 
 (2) Ha a felek az óvadék tárgyául szolgáló értékpapír és egyéb pénzügyi eszköz értékesítésében állapodtak meg, az értékesítés a szerződésben meghatározott feltételek szerint történik.
 
@@ -2157,6 +2161,8 @@ Ptk.271. § (1) Kielégítési joga megnyíltakor a jogosult az óvadékkal bizt
 (4) Ha a felek megállapodásának a kielégítési jog gyakorlására vonatkozó kikötése kereskedelmi szempontból ésszerűtlen, a kikötést megtámadhatja az, akinek jogát vagy jogos érdekét a kikötés sérti.
 
 (5) Akinek jogát vagy jogos érdekét a kielégítési jog gyakorlásának módja, különösen a (3) bekezdés szerinti kötelezettség elmulasztása sérti, az ebből eredő kárnak megtérítését a jogosulttól követelheti. A jogosult mentesül, ha bizonyítja, hogy kereskedelmi szempontból ésszerű módon járt el.
+
+Ptké.83/B. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 1–3. §-ával megállapított Ptk. 270. § (1)–(3) és (6) bekezdését, 271. § (1) bekezdését és e törvényerejű rendelet 49. §-át a hatálybalépésüket követően kötött, óvadék alapítására irányuló szerződésekre kell alkalmazni.
 
 Ptk.271/A. § Az óvadékra egyebekben – a 254. § (2) bekezdésében foglaltak kivételével – a zálogjogra vonatkozó közös szabályokat kell megfelelően alkalmazni.
 
