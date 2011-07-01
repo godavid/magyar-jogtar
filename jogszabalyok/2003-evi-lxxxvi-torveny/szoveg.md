@@ -480,7 +480,7 @@ folytatott szakképesítést, illetve szakképzettséget és végzettséget nyú
 
 (4) Az alaprésznek az oktatásért felelős miniszter rendelkezési jogkörébe tartozó részével összefüggő, az (1) bekezdésben meghatározott feladatot – az oktatásért felelős miniszter szakmai irányításával –, az állami szakképzési és felnőttképzési intézet látja el.
 
-(5) Az alaprész felhasználásának ellenőrzését az állami szakképzési és felnőttképzési intézet, az Állami Számvevőszék, valamint a Kormány által kijelölt belső ellenőrzési szerv végzi.
+(5) Az alaprész felhasználásának ellenőrzését az állami szakképzési és felnőttképzési intézet, valamint a Kormány által kijelölt belső ellenőrzési szerv végzi.
 
 16. § (1) Az alaprész központi kerete terhére nyújtott támogatások kedvezményezettjeinek a támogatási program végrehajtásával összefüggésben felmerülő működtetési költségei finanszírozására a támogatási összeg legfeljebb 5 százaléka használható fel.
 

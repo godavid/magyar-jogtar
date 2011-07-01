@@ -287,9 +287,9 @@ terjed ki.
 
 6. §
 
-7. § (1) Az egészségügyi szolgáltató a fenntartója egyetértésével kezdeményezheti az e törvény végrehajtására kiadott kormányrendeletben meghatározott ellátási formában lekötött kapacitása legfeljebb 30 százalékának az e törvény végrehajtására kiadott kormányrendeletben meghatározott, más ellátási formába történő átcsoportosítását.
+7. § (1) Az egészségügyi szolgáltató a fenntartója egyetértésével kezdeményezheti az e törvény végrehajtására kiadott kormányrendeletben meghatározott ellátási formában lekötött kapacitásának az e törvény végrehajtására kiadott kormányrendeletben meghatározott, más ellátási formába történő átcsoportosítását.
 
-(2) Az egészségügyi szolgáltató a fenntartója egyetértésével a lekötött krónikus fekvőbeteg-szakellátási kapacitásai legfeljebb 30 százaléka erejéig kezdeményezheti a krónikus szakmák közötti átcsoportosítást.
+(2) Az egészségügyi szolgáltató a fenntartója egyetértésével kezdeményezheti a lekötött krónikus fekvőbeteg-szakellátási kapacitásainak a krónikus szakmák közötti átcsoportosítását.
 
 (3) Az egészségügyi szolgáltató a fenntartója egyetértésével a (2) bekezdésben foglaltak figyelembevételével – az ellátási forma megváltoztatása nélkül – kezdeményezheti a finanszírozási szerződése szerinti szakmáihoz tartozó kapacitásai más, a finanszírozási szerződésében szereplő, illetve abban nem szereplő szakmákba – külön jogszabály szerinti mértékben – történő átcsoportosítását, azzal, hogy az egészségügyi szolgáltató rendelkezésére bocsátott kapacitásainak száma összességében nem változhat.
 

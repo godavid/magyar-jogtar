@@ -171,7 +171,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányának és nemzetközi jogi 
 - a) a vonatkozó jogszabályok alapján ellátja a hivatásos állományba jelentkezőnél, valamint a hivatásos állomány tagjánál a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 - b) elvégzi
   - ba) a rendőrség, a büntetés-végrehajtási szervezet, az állami és hivatásos önkormányzati tűzoltóság, a polgári védelem, a katasztrófavédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai,
-  - bb) a ba) pontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság és a Szervezett Bűnözés Elleni Koordinációs Központ kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai, valamint
+  - bb) a ba) pontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró, Kormány által kijelölt szerv a Szervezett Bűnözés Elleni Koordinációs Központ kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai, valamint
   - bc) a ba) és bb) pontban meghatározott szervek irányítását ellátó minisztériumok a ba) és bb) pontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá a ba) és bb) pontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai (a továbbiakban: védett állomány) megbízhatósági vizsgálatát,
 - c) felderíti a b) pontban megjelölt szerveknél a jogszabályban meghatározott bűncselekményeket.
 
@@ -470,7 +470,7 @@ igazolja.
 
 - a) aki a rendőr felszólítására nem tudja magát hitelt érdemlően igazolni, vagy az igazolást megtagadja;
 - b) aki bűncselekmény elkövetésével gyanúsítható;
-- c) akitől bűncselekmény gyanúja vagy szabálysértés bizonyítása érdekében vizeletvétel vagy véralkohol-vizsgálat céljából vérvétel, valamint műtétnek nem minősülő módon egyéb mintavétel szükséges;
+- c) akitől bűncselekmény gyanúja vagy szabálysértés, valamint közúti közlekedéssel kapcsolatban kiszabható, közigazgatási bírsággal sújtandó szabályszegés bizonyítása érdekében vizeletvétel vagy véralkohol-vizsgálat céljából vérvétel, valamint műtétnek nem minősülő módon egyéb mintavétel szükséges;
 - d) aki a szülői felügyelet vagy a gyámság, illetőleg az intézeti nevelés hatálya alól engedély nélkül kivonja magát;
 - e) aki a pártfogó felügyelet — külön törvényben meghatározott és a rendőrség hatáskörébe tartozó — szabályait megszegi;
 - f) aki a szabálysértést az abbahagyásra irányuló felszólítás után is folytatja, illetőleg akivel szemben az eljárás azonnal lefolytatható, továbbá akitől tárgyi bizonyítási eszközt kell megszerezni, vagy elkobzás alá eső dolgot kell visszatartani;
@@ -599,7 +599,7 @@ törölni kell.
 
 - a) a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti;
 - b) a közlekedési rendszabályok megtartását, a járműhasználat szabályszerűségét, az okmányokra és a felszerelésekre vonatkozó előírások megtartását, a jármű birtoklásának jogszerűségét, az üzemben tartó, illetőleg a használó személyazonosító adatait, a jármű közlekedésbiztonsági állapotát és adatait a forgalomban és a telephelyen — a jogszabályban meghatározottak alapján — ellenőrizheti;
-- c) a jármű vezetőjét a rendszeresített eszközzel légzésminta, ha nála a vezetési képességére hátrányosan ható szer befolyása vagy alkoholfogyasztás miatt bűncselekmény vagy szabálysértés elkövetésének gyanúja merül fel, az egészségügyi szolgálat igénybevételével vér-, vizelet- és műtétnek nem minősülő módon egyéb minta adására kötelezheti;
+- c) a jármű vezetőjét a rendszeresített eszközzel légzésminta, ha nála a vezetési képességére hátrányosan ható szer befolyása vagy alkoholfogyasztás miatt bűncselekmény vagy szabálysértés, illetve a közúti közlekedéssel kapcsolatban kiszabható, közigazgatási bírsággal sújtandó szabályszegés elkövetésének gyanúja merül fel, az egészségügyi szolgálat igénybevételével vér-, vizelet- és műtétnek nem minősülő módon egyéb minta adására kötelezheti;
 - d) a járművezetésre jogosító engedélyt (okmányt), a jármű üzemben tartására vonatkozó hatósági engedélyt (okmányt), a rakományhoz tartozó okmányokat, valamint a jármű hatósági jelzését – a külön jogszabályban meghatározottak szerint – a helyszínen elveheti;
 - e) a forgalomban való részvételt megtilthatja, ha a jármű vagy vezetőjének állapota a közúti forgalom biztonságát veszélyezteti, és a további jogellenes járműhasználat megakadályozása céljából a jármű kulcsait elveheti, illetőleg a járművet más módon mozgásában korlátozhatja vagy elszállíttathatja.
 

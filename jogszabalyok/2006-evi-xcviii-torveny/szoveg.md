@@ -28,7 +28,7 @@ az alábbi törvényt alkotja:
 - 6. gyógyászati segédeszköz: átmeneti vagy végleges egészségkárosodással, fogyatékossággal élő ember személyes használatába adott orvostechnikai eszköz (beleértve az önellenőrzési célt szolgáló in vitro diagnosztikai orvostechnikai eszközt is), vagy orvostechnikai eszköznek nem minősülő ápolási technikai eszköz, amely használata során nem igényli egészségügyi szakképesítéssel rendelkező személy folyamatos jelenlétét. Személyes használatnak minősül az eszköz természetes vagy mesterséges testfelszíni nyílással rendelkező testüregben, vagy testen történő viselése, alkalmazása, valamint a test megtámasztására, mozgatására szolgáló eszköz igénybevétele diagnosztikus, terápiás, rehabilitációs, vagy ápolási céllal.
 - 7. gyógyszernek nem minősülő gyógyhatású készítmény: olyan anyag vagy anyagkeverék, amely nem gyógyszer, de amelyet az arra hatáskörrel és illetékességgel rendelkező hatóság nyilvántartásba vett, és gyógyszernek nem minősülő gyógyhatású anyagként forgalomba hozatalát engedélyezte;
 - 8. csekély értékűnek minősülő ajándék: természetbeni juttatás, amelynek egyedi, az általános forgalmi adót is tartalmazó értéke, ilyen érték hiányában pedig az általános forgalmi adóval együtt számított beszerzési ára vagy előállítási költsége nem haladja meg a mindenkori minimálbér havi összegének 5%-át;
-- 9. ésszerű mértékű támogatás: olyan támogatás, amely a meghirdetett rendezvény egy főre eső összegét tekintve nem haladja meg a h) pontban meghatározott összeget;
+- 9. ésszerű mértékű támogatás: olyan támogatás, amely a meghirdetett rendezvény egy főre eső összegét tekintve nem haladja meg a 8. pontban meghatározott összeget;
 - 10. kereskedelmi gyakorlat: gyógyszer, tápszer, illetve gyógyászati segédeszköz rendelésének, beszerzésének, értékesítésének vagy fogyasztásának előmozdítására irányuló bármely tájékoztatás, tevékenység, megjelenítési mód, marketing vagy egyéb kereskedelmi kommunikáció. A közforgalmú gyógyszertárak, az intézeti gyógyszertár közvetlen lakossági gyógyszerellátást végző egysége és a fiókgyógyszertárak, valamint gyógyászatisegédeszköz szaküzletek esetében nem minősül kereskedelmi gyakorlatnak a gyógyszerek, gyógyászati segédeszköz kiszolgáltatásakor, valamint a gyógyszerekkel kapcsolatos jogszabályban előírt tájékoztatás nyújtása során végzett egészségügyi szolgáltató tevékenység, továbbá a gyógyszerészi gondozás;
 - 11. reklám: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. §-ának d) pontja szerinti gazdasági reklám, azzal, hogy nem reklám
   - a) a gyógyszer külön jogszabályban meghatározottak szerinti címkéje és betegtájékoztatója, valamint a gyógyászati segédeszköz használati utasítása,
@@ -56,7 +56,10 @@ az alábbi törvényt alkotja:
 - 31. tartós használati célú eszköz: hat hónapot meghaladó kihordási idejű gyógyászati segédeszköz;
 - 32. egyszerűsített támogatási jegyzék (ETJ): azon támogatásban részesülő funkcionális csoportokat tartalmazó, külön jogszabály szerinti jegyzék, amelyek esetében eszközrendeléskor az orvos a funkcionális csoport megnevezését vagy ISO-kódját tünteti fel, és az egészségbiztosító a funkcionális csoportba tartozó minden eszközre vonatkozóan azonos, fix támogatási összeget állapít meg;
 - 33. gyógyászatisegédeszköz-szaküzlet: a lakosság közvetlen gyógyászati segédeszköz ellátását biztosító intézmény;
-- 34. gyógyászati segédeszköz forgalmazó: a gyógyászati segédeszköznek a végső felhasználó részére történő értékesítését, kölcsönzését, javítását végző természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság.
+- 34. gyógyászati segédeszköz forgalmazó: a gyógyászati segédeszköznek a végső felhasználó részére történő értékesítését, kölcsönzését, javítását végző természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság;
+- 35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 5%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 10%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
+- 36. lakos: a települési önkormányzat közigazgatási területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. §-a szerint nyilvántartott lakcímmel rendelkező személy;
+- 37. árkedvezmény: bárki számára hozzáférhető, nyilvánosan közzétett módon, a kedvezmény időszakát is megjelölő, azonos feltételekkel adott árengedmény.
 
 ## I. RÉSZ — A BIZTONSÁGOS ÉS GAZDASÁGOS GYÓGYSZER- ÉS GYÓGYÁSZATISEGÉDESZKÖZ-ELLÁTÁS
 
@@ -80,7 +83,7 @@ az alábbi törvényt alkotja:
 
 11. § (1) Finanszírozási szerződés, illetve gyógyszer és gyógyászati segédeszköz támogatással történő rendelésére jogosító szerződés csak olyan egészségügyi szolgáltatóval köthető, amely teljesíti a gyógyszer- és gyógyászatisegédeszköz-gazdaságosság e törvényben meghatározott, valamint az egészségbiztosítási szerv által előírt feltételeit, így a hatékony és gazdaságos gyógyszerrendelést elősegítő, minősített számítógépes program használatát.
 
-(2) Gyógyászati segédeszközt forgalmazni, javítani és kölcsönözni – a (3)–(4) bekezdés szerinti kivételekkel – az egészségügyi államigazgatási szerv engedélyével, kizárólag külön jogszabályban foglalt feltételeknek megfelelő üzletben lehet.
+(2) Gyógyászati segédeszközt forgalmazni, javítani és kölcsönözni – a (3)–(4) bekezdés szerinti kivételekkel – az egészségügyi államigazgatási szerv engedélyével, kizárólag jogszabályban foglalt feltételek szerint lehet.
 
 (3) Gyógyszertárnak gyógyászati segédeszköz forgalmazó szakképesítéssel rendelkező személy foglalkoztatása esetén nem kell rendelkeznie a (2) bekezdés szerinti engedéllyel. Gyógyászati segédeszköz forgalmazó szakképesítéssel rendelkező személy hiányában a (2) bekezdés szerinti engedély nélkül csak sorozatgyártású gyógyászati segédeszköz forgalmazható, javítási és kölcsönzési tevékenység nem végezhető. Ez a javítási és kölcsönzési tilalom nem érinti a – külön jogszabályban vagy a felek közötti szerződésben meghatározott – szavatosságra és jótállásra vonatkozó kötelezettség érvényesítését.
 
@@ -117,11 +120,13 @@ az alábbi törvényt alkotja:
 
 (4) A (3) bekezdés szerinti bejelentésnek – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmaznia kell:
 
-- a) az ismertetési tevékenységet folytató nevét, címét, illetve székhelyét és cégjegyzékszámát,
+- a) az ismertetési tevékenységet folytató nevét, címét, illetve székhelyét és cégjegyzékszámát, valamint az ismertetési tevékenység időtartamát, amennyiben az ismertetési tevékenységet határozott ideig kívánja folytatni,
 - b) gyógyszer esetén az ismertetni kívánt gyógyszer vagy gyógyszerek forgalomba hozatali engedélye jogosultjának vagy a gyógyszer forgalmazására engedéllyel rendelkezőnek, illetve meghatalmazottjának a nevét, gyógyászati segédeszköz esetén az ismertetni kívánt gyógyászati segédeszköz vagy gyógyászati segédeszközök gyártójának, forgalmazójának vagy annak meghatalmazott képviselőjének a nevét,
-- c) az ismertetési tevékenységet folytató nevében eljáró, a 13. § szerinti ismertető személy vagy személyek természetes személyazonosító adatait,
+- c) az ismertetési tevékenységet folytató nevében eljáró, a 13. § szerinti ismertető személy vagy személyek természetes személyazonosító adatait, lakcímét, valamint ismertetési tevékenységének időtartamát, amennyiben az ismertetési tevékenységet határozott ideig kívánja folytatni,
 - d) a 13. § szerinti ismertető személy nyilatkozatát arról, hogy vele szemben a 13. § (3) bekezdése szerinti összeférhetetlenségi ok nem áll fenn,
-- e) a 13. § szerinti ismertető személy képzettségét igazoló oklevél számát és alap-nyilvántartási számát, ha az ismertetés külön jogszabály szerint meghatározott képzettséghez kötött.
+- e) a 13. § szerinti ismertető személy képzettségét igazoló oklevél másolatát és – ha van – alap-nyilvántartási számát.
+
+(4a) A (3) bekezdés szerinti bejelentéshez csatolni kell az ismertető személy egy darab egy évnél nem régebbi fényképét (igazolványképét).
 
 (5) A (3) bekezdés szerinti ismertetési tevékenységet folytató a bejelentésben részletezett adatokban történt változást haladéktalanul bejelenti a gyógyszerészeti államigazgatási szervnek.
 
@@ -131,7 +136,7 @@ az alábbi törvényt alkotja:
 
 (9) Az ismertetési tevékenység folytatásának a (3) bekezdés szerinti bejelentésével, továbbá a bejelentésben foglalt adatok változásának a bejelentésével egyidejűleg a bejelentő igazgatási szolgáltatási díjat köteles fizetni.
 
-13. § (1) Az ismertetési tevékenységet folytató az ismertetési tevékenységet csak az általa munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott, az egészségügyért felelős miniszter rendeletében meghatározott képzettségi követelményeknek megfelelő és a 12. § szerint bejelentett természetes személy (a továbbiakban: ismertető személy) útján folytathatja.
+13. § (1) Az ismertetési tevékenységet folytató az ismertetési tevékenységet csak az általa munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott, az egészségügyért felelős miniszter rendeletében meghatározott képzettségi követelményeknek megfelelő és a 13/A. § (2) bekezdés szerint ismertetői igazolvánnyal rendelkező természetes személy (a továbbiakban: ismertető személy) útján folytathatja.
 
 (2)
 
@@ -139,21 +144,25 @@ az alábbi törvényt alkotja:
 
 (4) A (3) bekezdés szerinti összeférhetetlenség nem érinti a gyógyszerészeti államigazgatási szerv saját gyógyszerismertető hálózatába tartozó személyeket.
 
-13/A. § (1) Az ismertetési tevékenységet folytatókról és az ismertető személyekről a gyógyszerészeti államigazgatási szerv a 12. § szerinti bejelentés alapján nyilvántartást vezet. A nyilvántartás a 12. § (4) bekezdése szerinti adatokat tartalmazza.
+(5) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a nyilvántartásból törölt személy az ismertetői igazolványt a törlésről való tudomásszerzéstől számított 8 napon belül átadja a gyógyszerészeti államigazgatási szerv részére.
 
-(2) A gyógyszerészeti államigazgatási szerv az ismertető személy részére a nyilvántartásba vétellel egyidejűleg ismertetői igazolványt állít ki, amely tartalmazza az ismertető személy családi és utónevét, valamint az egészségügyért felelős miniszter rendeletében meghatározott egyéb adatokat.
+13/A. § (1) Az ismertetési tevékenységet folytatókról és az ismertető személyekről a gyógyszerészeti államigazgatási szerv a 12. § szerinti bejelentés alapján nyilvántartást vezet. A nyilvántartás a 12. § (4) bekezdése szerinti adatokat tartalmazza. A nyilvántartásba vétel a bejelentésben meghatározott időtartamra, ennek hiányában határozatlan időre szól. A nyilvántartásból a 12. § (4) bekezdése szerint megjelölt időtartam elteltével, ennek hiányában az adatokban beállt változás bejelentését követően az adatok törlésre kerülnek.
+
+(2) A gyógyszerészeti államigazgatási szerv az ismertető személy részére a nyilvántartásba vétellel egyidejűleg a bejelentésben megjelölt időtartamra, ennek hiányában határozatlan időre érvényes ismertetői igazolványt állít ki, amely tartalmazza az ismertető személy családi és utónevét, fényképét, a nyilvántartásba vételi számát, az érvényesség idejét, és az ismertetési tevékenységet folytató nevét, akivel az ismertető személy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
 
 (3) A 12. § szerinti bejelentésre és az ismertetési tevékenységet folytatók, illetve az ismertető személyek nyilvántartására az e törvényben foglalt eltérésekkel megfelelően alkalmazni kell a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény bejelentésre, a bejelentéshez kötött tevékenység folytatásának ellenőrzésére és a bejelentéshez kötött tevékenységet folytató szolgáltatók nyilvántartására vonatkozó rendelkezéseit abban az esetben is, ha az ismertetési tevékenységet folytató tevékenysége nem minősül szolgáltatási tevékenységnek.
 
-14. § (1) Az ismertetési tevékenységet folytató és az ismertető személy a gyógyszerek, illetve gyógyászati segédeszközök rendelésére és forgalmazására jogosultnak ajándékot, anyagi előnyt vagy más természetbeni juttatást nem adhat, nem ajánlhat fel és nem ígérhet, kivéve, ha a felsoroltak csekély értékűek és összefüggenek a gyógyszerek rendelésére vagy forgalmazására jogosult által folytatott egészségügyi tevékenységgel. Az ismertető pénzbeli juttatást vagy előnyt semmilyen módon nem adhat, nem ajánlhat fel és nem ígérhet.
+14. § (1) Ismertetés keretében a gyógyszerek, illetve gyógyászati segédeszközök rendelésére és forgalmazására jogosultnak ajándék, anyagi előny vagy más természetbeni juttatás nem adható, nem ajánlható fel és nem ígérhető, kivéve, ha a felsoroltak csekély értékűek és összefüggenek a gyógyszerek rendelésére vagy forgalmazására jogosult által folytatott egészségügyi tevékenységgel. Ismertetés keretében pénzbeli juttatás vagy előny semmilyen módon nem adható, nem ajánlható fel és nem ígérhető.
 
-(2) A gyógyszerek és gyógyászati segédeszközök bemutatását, ismertetését segítő rendezvényeken az ismertetési tevékenységet folytató és az ismertető személy által biztosított vendéglátásnak ésszerű mértékűnek és a rendezvény fő céljához képest másodlagosnak kell lennie. A rendezvényre, illetve a bemutatóra az egészségügyben, illetve a gyógyszerellátásban vagy a gyógyászatisegédeszköz-ellátásban közreműködő szakembereken kívül más személy nem hívható meg.
+(2) A gyógyszerek és gyógyászati segédeszközök ismertetését segítő rendezvények kizárólag szakmai, tudományos vagy oktatási céllal szervezhetőek. A rendezvényen az ismertetési tevékenységet folytató és az ismertető személy által biztosított egy napra eső vendéglátás összege nem haladhatja meg a 3. § 8. pontjában meghatározott összeget és a rendezvény fő céljához képest másodlagosnak kell lennie. A rendezvényre az egészségügyben, illetve a gyógyszerellátásban vagy a gyógyászatisegédeszköz-ellátásban közreműködő szakembereken kívül más személy nem hívható meg.
 
 (3) A szakmai és tudományos célokat szolgáló rendezvények és programok közvetett vagy közvetlen formában történő támogatása esetén a támogatásnak mindenkor ésszerű mértékűnek és a rendezvény tudományos célkitűzéseihez képest alárendeltnek kell lennie azzal, hogy a szakmai és tudományos programokra az egészségügyben, illetve a gyógyszer- és gyógyászatisegédeszköz-ellátásban közreműködő szakembereken kívül más személy nem hívható meg. A szakmai és tudományos programokon ismertetés abban az esetben folytatható, ha a közvetett és a közvetlen formában történő ismertetés (konkrét termék alkalmazásával kapcsolatos előadás, termékbemutató tartása, kiállítóhely bérlése) a szakmai, tudományos rendezvény programban jól elkülönül.
 
 (4) Természetbeni támogatás nyújtható az egészségügyi vagy tudományos tevékenységet folytató személy számára szakmai rendezvényeken, tanfolyamokon történő részvételre. A természetbeni támogatás kizárólag a rendezvényeken történő részvétellel közvetlen összefüggésben felmerülő kiadások (így különösen utazási költség, szállásköltség, részvételi díj) fedezetére szolgálhat.
 
-(5)–(6)
+(5) Egy adott helyszínen rendezvényt támogatni, illetve egy adott helyszínhez kötött rendezvényen való részvételt támogatni csak akkor lehet, ha a rendezvény tárgyát képező vagy céljához szükséges erőforrások vagy szakértelem kizárólag e helyszínen állnak rendelkezésre, vagy azok más, a résztvevők munkahelyéhez közelebbi helyszínen való biztosítása aránytalan többletköltséggel járna.
+
+(6) Társadalombiztosítási támogatással gyógyszerek, illetve gyógyászati segédeszközök rendelésére és forgalmazására jogosult résztvevők számára megrendezett szakmai-tudományos rendezvény helyszínén a rendezvényhez kapcsolódó, kiegészítő szakmai vagy tudományos program, vagy az azon való részvétel csak akkor támogatható, ha arra a szakmai-tudományos rendezvény idején kerül sor.
 
 (7) Az (1)–(4) bekezdésben meghatározott tilalmak és korlátozások nem érintik a gyógyszer-kereskedelem résztvevői számára a gyógyszerek és gyógyászati segédeszközök árával, árrésével és árengedményével vagy egyéb kereskedelmi kedvezménnyel kapcsolatos külön jogszabályban meghatározott feltételeket.
 
@@ -161,11 +170,59 @@ az alábbi törvényt alkotja:
 
 (9) A 12. § (3) bekezdése szerinti ismertetési tevékenységet folytató a gyógyszerek vagy gyógyászati segédeszközök rendelésére és forgalmazására jogosult személy részére, a hatályos adójogszabályokban foglalt kötelezettség teljesítése érdekében, a hatályos adójogszabályoknak megfelelő igazolást köteles küldeni, ha ennek feltételei fennállnak.
 
-(10)
+(10) Az ismertetési tevékenységet folytató köteles a szakmai rendezvénnyel, tanfolyammal összefüggésben a (4)–(6) bekezdés szerint általa nyújtott támogatással kapcsolatban a szakmai rendezvény, tanfolyam kezdő időpontját megelőzően 30 nappal korábban a (11) bekezdésben foglaltakat a gyógyszerészeti államigazgatási szervnek bejelenteni.
+
+(11) A bejelentésnek tartalmaznia kell:
+
+- a) a tervezett rendezvény nevét, helyszínét, időpontját és programját,
+- b) a kedvezményezett nevét,
+- c) a támogatás összegét,
+- d) a helyszín szükségességét alátámasztó indokokat,
+- e) a (6) bekezdésben említett kapcsolódó, kiegészítő program megnevezését, helyszínét, időpontját és rövid leírását.
+
+(12) A bejelentéshez csatolni kell:
+
+- a) a részvételi díj befizetését igazoló dokumentum másolatát vagy az előzetes regisztrációt igazoló dokumentum másolatát,
+- b) rendezvény végrehajtásához szükséges tanácsadói szerződés másolatát.
+
+(13) Az ismertetési tevékenységet folytató a (11) bekezdésen túl köteles a gyógyszerészeti államigazgatási szervnek bejelenteni az általa vagy az általa jutatott forrásból támogatott szakmai rendezvény, tanfolyam megnevezését, helyszínét, időpontját, programját, valamint a szervező nevét, székhelyét, a rendezvény vagy tanfolyam kezdő időpontját megelőzően 30 nappal.
+
+(14) A gyógyszerek, illetve gyógyászati segédeszközök rendelésére és forgalmazására jogosult az ismertetési tevékenységet megelőzően a 16. § (2) bekezdés szerint közzétett adatok alapján megbizonyosodik arról, hogy az ismertetést végző személy a tevékenység végzésére jogosult.
 
 15. § Az ismertetés további részletes szabályait – ideértve a gyógyszer, illetve gyógyászati segédeszköz rendelésére és forgalmazására jogosult számára adható térítésmentes mintákra és adományokra vonatkozó szabályokat – külön jogszabály tartalmazza.
 
-16. §
+16. § (1) A 13/A. § szerinti nyilvántartás az ismertetési tevékenység folytatásának hatósági ellenőrzését és az ismertetésben részesülő személyek tájékoztatását szolgálja.
+
+(2) A gyógyszerészeti államigazgatási szerv az általa vezetett 13/A. § szerinti nyilvántartás és a 14. § (11) bekezdés szerint bejelentett adatok alapján honlapján, díjmentesen bárki számára hozzáférhető módon, az ismertetésben részesülő személyek tájékoztatása, továbbá az adóhatóság felé teljesítendő, a 36. § (4) bekezdése szerinti díj befizetési kötelezettségének ellenőrizhetősége érdekében naprakészen közzéteszi az alábbi adatokat:
+
+- a) az ismertetési tevékenységet folytatók nevét,
+- b)
+  - ba) gyógyszer ismertetője esetén az ismertetni kívánt gyógyszer forgalombahozatali engedélye jogosultjának vagy a gyógyszer forgalmazására engedéllyel rendelkezőnek, illetve meghatalmazottjának a nevét,
+  - bb) gyógyászati segédeszköz esetén az ismertetni kívánt gyógyászati segédeszköz vagy gyógyászati segédeszközök gyártójának, forgalmazójának vagy annak meghatalmazott képviselőjének a nevét,
+- c) az ismertető személyek nevét és nyilvántartási számát,
+- d) azon ismertetési tevékenységet folytatók, illetve ismertető személyek nevét, akik vonatkozásában az ismertetési tevékenység folytatását jogerősen megtiltotta,
+- e) a bejelentést követő egy évig a 14. § (10) bekezdése szerinti bejelentés 14. § (11) bekezdés a) pontja szerinti adatokat.
+
+(3) A gyógyszerészeti államigazgatási szerv a 19. § (2) bekezdés d) pontja és a (2a) bekezdése szerinti jogerős határozatát – ide nem értve az egymillió forintot meg nem haladó összegű pénzbírságot megállapító határozatát – az (5) bekezdésben meghatározott terjedelemben közzéteszi.
+
+(4) A gyógyszerészeti államigazgatási szerv a 19. § (2) bekezdés b) és c) pontja szerinti, valamint a d) pontja szerinti egymillió forintot meg nem haladó összegű pénzbírságot megállapító jogerős határozatát ismételt jogszabálysértés esetén az (5) bekezdésben meghatározott terjedelemben közzéteszi.
+
+(5) A közétett dokumentumnak tartalmaznia kell:
+
+- a) a közzététel napját,
+- b) az eljáró hatóság megnevezését,
+- c) az ügy számát és tárgyát,
+- d) a jogsértő nevét és nyilvántartási számát,
+- e) a megállapított tényállást,
+- f) a megsértett jogszabályi rendelkezések megjelölését,
+- g) a döntés rendelkező részét, valamint
+- h) a döntéssel szembeni jogorvoslati eljárás tényét.
+
+(6) A gyógyszerészeti államigazgatási szerv a jogorvoslat során hozott és a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutásakor – a döntés közzétételével megegyező módon – közzéteszi:
+
+- a) a jogorvoslattal érintett döntésre vonatkozó (5) bekezdés szerinti információkat,
+- b) a jogorvoslat során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
+- c) a közzététel napját.
 
 ### A gyógyszerrel, illetve gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó szabályok
 
@@ -207,7 +264,7 @@ az alábbi törvényt alkotja:
 
 (7)
 
-(8) Az egészségügyért felelős miniszter rendelete szerinti minta kivételével tilos a betegnek, fogyasztónak olyan ajándék, minta, vásárlásra jogosító utalvány (kupon) akár közvetlenül, akár az orvos, illetve a gyógyszert, gyógyászati segédeszközt kiszolgáltató által történő adása, felajánlása, amely egy adott gyógyszer, egy adott forgalomba hozatali engedély jogosult termékei vagy a társadalombiztosítás által támogatott gyógyászati segédeszköz fogyasztására, használatára ösztönöz, vagy azt feltételül szabja. Tilos továbbá a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök beteg által fizetendő térítési díjának a kiszolgáltató által bármilyen közvetlen vagy közvetett formában (ajándék, minta, vásárlásra jogosító utalvány, kupon, pontgyűjtés alapú kedvezmény útján vagy más hasonló módon) történő csökkentése, átvállalása, elengedése, vagy ahhoz bármilyen előnyök kötése. A társadalombiztosítási támogatással nem rendelhető gyógyszerek kiszolgáltatása esetén adott bármilyen kedvezmény – az árkedvezmény kivételével – kizárólag a gyógyszertárban nyújtott gyógyszerészi gondozás igénybevételére használható fel.
+(8) Az egészségügyért felelős miniszter rendelete szerinti minta kivételével tilos a betegnek, fogyasztónak olyan ajándék, minta, vásárlásra jogosító utalvány (kupon) akár közvetlenül, akár az orvos, illetve a gyógyszert, gyógyászati segédeszközt kiszolgáltató által történő adása, felajánlása, amely egy adott gyógyszer, egy adott forgalombahozatali engedély jogosult termékei vagy a társadalombiztosítás által támogatott gyógyászati segédeszköz fogyasztására, használatára ösztönöz, vagy azt feltételül szabja. Tilos továbbá a társadalombiztosítási támogatással rendelhető gyógyszerek, tápszerek és gyógyászati segédeszközök beteg által fizetendő térítési díjának a kiszolgáltató által bármilyen közvetlen vagy közvetett formában (ajándék, minta, vásárlásra jogosító utalvány, kupon, pontgyűjtés alapú kedvezmény útján vagy más hasonló módon) történő csökkentése, átvállalása, elengedése, vagy ahhoz bármilyen előnyök kötése. A társadalombiztosítási támogatással nem rendelhető gyógyszerek kiszolgáltatása esetén adott bármilyen kedvezmény – az árkedvezmény kivételével – kizárólag a gyógyszertárban nyújtott gyógyszerészi gondozás igénybevételére használható fel. A gyógyszertárban gyógyszer, tápszer, gyógyászati segédeszköz, gyógyszertárban forgalmazható egyéb termékek kiszolgálása, továbbá a gyógyszerészi gondozás igénybevétele nem adhat alapot más gazdálkodó szervezettől igénybe vehető kedvezményre, ajándékozásra.
 
 ### Felelősségi szabályok
 
@@ -229,7 +286,13 @@ az alábbi törvényt alkotja:
 
 (3) Az (1) és (2) bekezdés szerinti eljárásban ügyfélnek minősülnek azok a társadalmi szervezetek is, amelyeknek a nyilvántartásba vett tevékenysége a betegek jogainak védelmére irányul.
 
-(4) A gyógyszerrel és gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlat e törvényben és a rendeletben meghatározott szabályai betartásának hatósági ellenőrzésére gyógyszer esetén a gyógyszerészeti államigazgatási szerv, gyógyászati segédeszköz esetén az egészségügyi államigazgatási szerv is jogosult.
+(4) A fogyasztókkal szembeni kereskedelmi gyakorlat e törvényben és a rendeletben meghatározott szabályai betartásának hatósági ellenőrzésére
+
+- a) gyógyszer és gyógyszernek nem minősülő gyógyhatású készítmények tekintetében a gyógyszerészeti államigazgatási szerv,
+- b) gyógyászati segédeszköz esetén az egészségügyi államigazgatási szerv,
+- c) tápszer esetén az egészségügyi államigazgatási szerv is jogosult.
+
+(4a) A gyógyszertárban folytatott fogyasztókkal szembeni kereskedelmi gyakorlat e törvényben és a rendeletben meghatározott szabályai betartásának hatósági ellenőrzésére az egészségügyi államigazgatási szerv is jogosult.
 
 (5) A gyógyszerrel és gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlat e törvényben, illetve a rendeletben meghatározott szabályai a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
@@ -248,16 +311,24 @@ látja el.
 
 19. § (1) A gyógyszerek és a gyógyászati segédeszközök ismertetésének e törvényben, illetve a rendeletben meghatározott szabályai megsértése esetén az eljárást a gyógyszerészeti államigazgatási szerv folytatja le.
 
-(2) Ha az ismertetési tevékenységet folytató, az ismertető személy, a gyógyszer forgalomba hozatali engedélyének jogosultja, illetve a gyógyászati segédeszköz gyártója, a gyógyszer, gyógyászati segédeszköz rendelésére és forgalmazására jogosult személy vagy ezek valamelyikének meghatalmazott képviselője e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásait megsértette, a gyógyszerészeti államigazgatási szerv
+(2) Ha az ismertetési tevékenységet folytató, az ismertető személy, a gyógyszer forgalombahozatali engedélyének jogosultja, illetve a gyógyászati segédeszköz gyártója, a gyógyszer, gyógyászati segédeszköz rendelésére és forgalmazására jogosult személy vagy ezek valamelyikének meghatalmazott képviselője e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásait megsértette, a gyógyszerészeti államigazgatási szerv
 
 - a) etikai eljárást kezdeményezhet a szakmailag illetékes etikai szervnél, ha ennek feltételei fennállnak,
-- b) a jogsértést elkövető személyt határidővel felhívhatja a hiányosságok megszüntetésére és ennek megszüntetéséig a tevékenység folytatását felfüggesztheti,
+- b) a jogsértést elkövetőt határidővel felhívhatja a hiányosságok megszüntetésére és ennek megszüntetéséig a tevékenység folytatását felfüggesztheti,
 - c) megállapítja a jogsértés tényét, elrendelheti a jogsértő állapot megszüntetését és egyben megtiltja a jogsértő magatartás további folytatását,
-- d) ötszázezer forinttól huszonötmillió forintig terjedő összegű pénzbírságot szabhat ki,
-- e) ismételt vagy súlyos jogszabálysértés esetén a jogsértő tevékenységért felelős, a 12. § (3) bekezdése szerinti ismertetési tevékenységet folytatónak az ismertetési tevékenység folytatását meghatározott időtartamra – legalább fél évre, legfeljebb három évre – megtiltja,
-- f) ismételt vagy súlyos jogszabálysértés esetén megkeresi a jogsértést elkövető személlyel finanszírozási, illetve társadalombiztosítási támogatással történő gyógyszer, illetve gyógyászati segédeszköz rendelésére jogosító szerződést kötő egészségbiztosítási szervet és kezdeményezi a támogatással történő rendelés, illetve forgalmazás felfüggesztését.
+- d) pénzbírságot szabhat ki, melynek mértéke
+  - da) a forgalmazásra jogosult esetén ötszázezer forinttól huszonötmillió forint,
+  - db) az ismertetési tevékenységet folytató, a forgalombahozatali engedélyének jogosultja és a gyártó esetén ötszázezer forinttól ötszázmillió forint,
+  - dc) az ismertető személy esetén ötszázezer forinttól ötmillió forint.
 
-(3) A pénzbírság összegét az eset összes körülményeire – így különösen a betegek és a gyógyszerek és a gyógyászati segédeszközök rendelésére és forgalmazására jogosultak érdeksérelmének körére, súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására – tekintettel kell meghatározni. Ismételt jogszabálysértés esetén a bírság halmozottan is kiszabható. A jogerősen kiszabott, de be nem fizetett bírságot adók módjára kell behajtani.
+(2a) Ha az ismertetési tevékenységet folytató, az ismertető személy, a gyógyszer forgalombahozatali engedélyének jogosultja, illetve a gyógyászati segédeszköz gyártója, a gyógyszer, gyógyászati segédeszköz rendelésére és forgalmazására jogosult személy vagy ezek valamelyikének meghatalmazott képviselője e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásait ismételten vagy súlyosan megsértette, a gyógyszerészeti államigazgatási szerv
+
+- a) a jogsértő tevékenységért felelős, a 12. § (3) bekezdése szerinti ismertetési tevékenységet folytatónak az ismertetési tevékenység folytatását meghatározott időtartamra – legalább fél évre, legfeljebb három évre – megtiltja,
+- b) megkeresi az egészségbiztosítási szervet és kezdeményezi
+  - ba) a jogsértést elkövető, társadalombiztosítási támogatással történő kiszolgálásra jogosító szerződéssel rendelkező szolgáltató szerződésének az Ebtv. szerinti felfüggesztését,
+  - bb) a társadalombiztosítási támogatással történő rendelésre jogosult jogsértése esetén a rendelési jogosultságának legfeljebb egy hónapra történő felfüggesztését.
+
+(3) A pénzbírság összegét, illetve az alkalmazott jogkövetkezményt az eset összes körülményeire – így különösen a betegek és a gyógyszerek és a gyógyászati segédeszközök rendelésére és forgalmazására jogosultak érdeksérelmének körére, súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a betegellátási érdekre – tekintettel kell meghatározni. Ismételt jogszabálysértés esetén a bírság halmozottan is kiszabható. A jogerősen kiszabott, de be nem fizetett bírságot adók módjára kell behajtani.
 
 (4) A társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök ismertetésével kapcsolatosan kiszabott bírság 80%-a az E. Alapot illeti.
 
@@ -274,7 +345,7 @@ látja el.
 
 (3) A gyógyszerészeti államigazgatási szerv – a 14. § rendelkezései megtartásának ellenőrzésével összefüggésben – jogosult megismerni és kezelni az ügyfél és az ügyféllel kapcsolatba hozható személyek személyes adatait. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult a gyógyszerészeti államigazgatási szerv, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
 
-(4)
+(4) A gyógyszerészeti államigazgatási szerv a tényállás tisztázása érdekében jogosult az ismertetési tevékenységet folytató és a vele szerződéses jogviszonyban álló, gyógyszer rendelésére és forgalmazására jogosult személy közötti jogviszonyt és a ténylegesen megvalósuló tevékenységet vizsgálni. Ehhez a jogviszony, illetve a tevékenység alanyainak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a ténylegesen végzett tevékenység a létrejött jogviszonyok tartalmának megfelel, illetve nem minősül jogellenes kereskedelmi gyakorlatnak.
 
 (5) Az ügyfél és megbízott ügyvédje közötti kommunikáció során, illetve ilyen kommunikációs célból való felhasználás érdekében keletkezett adat vagy az azt rögzítő irat a gyógyszerészeti államigazgatási szerv eljárásában bizonyítékként nem használható fel, illetve nem vizsgálható meg, nem foglalható le, szemle során a birtokos az ilyen irat felmutatására nem kötelezhető.
 
@@ -356,7 +427,8 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 - b) a befogadott készítmény az E. Alap költségvetését az alkalmazásával elérhető egészségnyereséghez képest aránytalanul nagy mértékben terheli,
 - c) jogszabályváltozás azt indokolja,
 - d) jogszabály hivatalbóli eljárás indítását írja elő,
-- e) a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbítása indokolt a folyamatos és biztonságos betegellátás érdekében.
+- e) a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbítása indokolt a folyamatos és biztonságos betegellátás érdekében,
+- f) a kiemelt és emelt indikációhoz kötött támogatási kategóriában meghatározott feltételeknek a készítmény nem felel meg.
 
 (8) A (7) bekezdésben meghatározott esetekben a felülvizsgálatot követően az egészségbiztosítási szerv 90 napon belül dönt a befogadott gyógyszer támogatásból való kizárásáról, támogatása mértékének, kategóriájának, módszerének módosításáról, illetve a 21. § szerinti támogatással való forgalmazásra és készletben tartásra vonatkozó kötelezettségvállalás meghosszabbításáról vagy előírásáról.
 
@@ -492,26 +564,32 @@ esetén,
 
 (6) A (4) bekezdésben foglaltakat az egészségbiztosítási szerv a bejelentés megtételét követő hónap 1. napján közzéteszi.
 
-30. § (1) A még nem támogatott hatóanyagot tartalmazó készítmény társadalombiztosítási támogatásban csak akkor részesülhet, ha a kérelemben a gyógyszer forgalomba hozatali engedélyének jogosultja által megjelölt termelői ára nem magasabb a külön jogszabályban megjelölt az Európai Unió tagállamaiban és az Európai Gazdasági Térségről szóló megállapodásban részes más államaiban ténylegesen forgalomban lévő legalacsonyabb termelői árú ugyanazon, vagy azonos hatóanyagú gyógyszer áránál.
+30. § (1) A még nem támogatott hatóanyagot tartalmazó készítmény társadalombiztosítási támogatásban csak akkor részesülhet, ha a kérelemben a gyógyszer forgalombahozatali engedélyének jogosultja által megjelölt termelői ára nem magasabb a külön jogszabályban megjelölt, az Európai Unió tagállamaiban és az Európai Gazdasági Térségről szóló megállapodásban részes más államaiban ténylegesen forgalomban lévő legalacsonyabb termelői árú ugyanazon, vagy azonos hatóanyagú gyógyszer áránál, és az adott készítmény ezen államok közül legalább háromban támogatott.
 
 (2) Az egészségbiztosítási szerv a külön jogszabályban meghatározott eljárásrend és szempontrendszer alapján évente legalább egy ízben hivatalból felülvizsgálatot tart a társadalombiztosítási támogatásba már befogadott, külön jogszabályban meghatározottak szerint jelentős támogatáskiáramlást generáló, hétjegyű ATC-szintű csoportok gyógyszereinek a külön jogszabályban megjelölt, az Európai Unió tagállamaiban és az Európai Gazdasági Térségről szóló megállapodásban részes más államokban külön jogszabályban meghatározott feltételek szerint ténylegesen forgalomban lévő ugyanazon, vagy azonos hatóanyagú gyógyszer árainak összehasonlítása érdekében. Ezen hivatalból lefolytatott eljárás eredményként az egészségbiztosítási szerv dönt az adott gyógyszer támogatásáról, támogatási összegének módosításáról, illetve támogatásból történő kizárásáról.
+
+(3) Az egészségbiztosító a (2) bekezdés szerinti felülvizsgálat során azoknak a Magyarországon forgalmazott gyógyszerekkel megegyező hatóanyagú, gyógyszerformájú és hatáserősségű gyógyszereknek a termelői árát veszi figyelembe, amelyeket a Magyarországon forgalmazott gyógyszerekkel azonos gyártó gyárt.
 
 31. § (1) Az egészségbiztosítási szerv kizárja a társadalombiztosítási támogatásból a gyógyszert, ha:
 
 - a) érvényes forgalomba hozatali engedéllyel nem rendelkezik,
 - b) költséghatékonyságával kapcsolatban igazoltan kétség merült fel,
 - c) az E. Alap költségvetését az alkalmazásával elérhető egészségnyereséghez képest aránytalanul nagy mértékben terheli,
-- d) a forgalomba hozatali engedélyének jogosultját ugyanazon támogatott gyógyszer tekintetében egy éven belül két esetben – a gyógyszerek reklámozására és ismertetésére vonatkozó külön jogszabályokban meghatározottak megsértése miatt – reklámfelügyeleti eljárásban az arra hatáskörrel és illetékességgel rendelkező hatóság jogerősen elmarasztalta,
+- d)
 - e) költséghatékonysága nem bizonyítható,
 - f) az több mint hat hónapja – referenciakészítmény esetén három hónapja – nincs forgalomban,
 - g) forgalomba hozatali engedélyét visszavonták,
 - h) a hatóanyag-alapú fix összegű támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége, illetve egységnyi hatóanyagra számított ára legalább 30%-kal meghaladja a referenciakészítmény napi terápiás költségét,
 - i) a terápiás fix elven működő támogatási csoportba tartozó gyógyszer esetén a gyógyszer napi terápiás költsége legalább 60%-kal meghaladja a csoportba tartozó gyógyszerek napi terápiás költsége egyszerű számtani átlagát,
-- j) az általa végzett nemzetközi ár-összehasonlítás alapján a gyógyszer termelői ára legalább 40%-kal magasabb a külön jogszabályban megjelölt, az Európai Unió tagállamaiban és az Európai Gazdasági Térségről szóló megállapodásban részes más államokban külön jogszabályban meghatározott feltételek szerint ténylegesen forgalomban lévő öt legalacsonyabb termelői árú ugyanazon, vagy azonos hatóanyagú gyógyszer árának számtani átlagánál.
+- j) az általa végzett nemzetközi ár-összehasonlítás során megállapítja, hogy a gyógyszer termelői ára legalább 20%-kal magasabb a vizsgálatba vont, az Európai Unió tagállamaiban és az Európai Gazdasági Térségről szóló megállapodásban részes más államokban alkalmazott három legalacsonyabb termelői ár számtani átlagánál.
+
+(1a) Ha támogatott gyógyszer tekintetében a forgalombahozatali engedély jogosultját vagy meghatalmazottját egy éven belül két esetben – e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásai megsértése miatt – reklámfelügyeleti eljárásban, illetve a 19. § szerinti eljárásban az arra hatáskörrel és illetékességgel rendelkező hatóság jogerősen elmarasztalta, és vele szemben e jogsértések miatt összesen legalább ötmillió forint mértékű bírságot szabott ki, az egészségbiztosítási szerv kizárja a társadalombiztosítási támogatásból az eljárással érintett gyógyszert, ha az adott indikációban rendelkezésre áll más olyan gyógyszer, amelyhez a beteg a támogatásból kizárt gyógyszer térítési díjánál legfeljebb 50%-kal magasabb térítési díj ellenében juthat hozzá.
 
 (2) A gyógyszernyilvántartásból törölt gyógyszert legkésőbb a törlést követő negyedik hónap 1. napjával az egészségbiztosítási szerv a támogatásból kizárja.
 
 (3) Az egészségbiztosítási szerv kizárhatja a társadalombiztosítási támogatásból a gyógyszert, ha a forgalomba hozatali engedély jogosultja a 21. § (8) bekezdésében foglalt forgalmazási, illetve készletben tartási kötelezettségét nem teljesíti.
+
+(4) Az (1)–(1a) és a (3) bekezdés alapján a társadalombiztosítási támogatásból kizárt gyógyszerre a forgalombahozatali engedély jogosultja a kizárásról szóló döntés jogerőre emelkedésétől számított fél éven belül befogadásra irányuló kérelmet nem adhat be.
 
 31/A. § A házi oxigénellátáshoz szükséges oxigénpalack vagy tartályrendszer beteg által fizetett letéti díjához az egészségbiztosítási szerv az egészségbiztosításért felelős miniszteri rendelet szerinti támogatást nyújthat.
 
@@ -652,23 +730,34 @@ esetén,
 
 (7) A közgyógyellátásban ki nem szolgáltatható funkcionális csoportokat külön jogszabály tartalmazza.
 
+(8) Közgyógyellátás jogcímen
+
+- a) a hatóanyag alapú fix támogatású csoportból a preferált referencia ársávba tartozó, és
+- b) a hatóanyagalapú fix támogatású csoportba nem tartozó gyógyszer rendelhető.
+
 ### V. Fejezet — A FOLYAMATOS GYÓGYSZERELLÁTÁS BIZTOSÍTÁSÁT, A GYÓGYSZERTÁMOGATÁSI ELŐIRÁNYZAT BETARTÁSÁT CÉLZÓ RENDELKEZÉSEK
 
-36. § (1) A gyógyszer forgalomba hozatali engedélyének jogosultját, abban az esetben pedig, ha az belföldön forgalmazási tevékenységet nem végez a forgalmazóval kötött és az állami adóhatóság által jóváhagyott megállapodás alapján a forgalmazót, valamint a tápszer társadalombiztosítási támogatása iránt kérelmet benyújtót, amennyiben az nem azonos a tápszer forgalmazójával, úgy a forgalmazót (a továbbiakban együtt e fejezet alkalmazásában: a gyógyszer forgalomba hozatali engedélyének jogosultja) valamennyi közfinanszírozásban részesülő, gyógyszertárban forgalmazott gyógyszere, tápszere (a továbbiakban együtt e fejezet alkalmazásában: gyógyszer) után – a 38. § (1) bekezdése szerinti gyógyszerek kivételével – a tárgyhavi vényforgalmi adatok alapján adódó társadalombiztosítási támogatásnak a termelői árral vagy importbeszerzési árral (a továbbiakban együtt: termelői ár) arányos (termelői ár/fogyasztói ár) részére 12%-os befizetési kötelezettség terheli. A befizetési kötelezettség számítását termékenként és támogatási jogcímenként kell végezni. Társadalombiztosítási támogatáson általános forgalmi adót tartalmazó (bruttó) támogatást, fogyasztói áron bruttó fogyasztói árat, termelői áron áfát nem tartalmazó (nettó) termelői árat kell érteni.
+36. § (1) A gyógyszer forgalombahozatali engedélyének jogosultját, abban az esetben pedig, ha az belföldön forgalmazási tevékenységet nem végez a forgalmazóval kötött és az állami adóhatóság által jóváhagyott megállapodás alapján a forgalmazót, valamint a tápszer társadalombiztosítási támogatása iránt kérelmet benyújtót, amennyiben az nem azonos a tápszer forgalmazójával, úgy a forgalmazót (a továbbiakban együtt e fejezet alkalmazásában: a gyógyszer forgalombahozatali engedélyének jogosultja) valamennyi közfinanszírozásban részesülő, gyógyszertárban forgalmazott gyógyszere, tápszere (a továbbiakban együtt e fejezet alkalmazásában: gyógyszer) után – a 38. § (1) bekezdése szerinti gyógyszerek kivételével – a tárgyhavi vényforgalmi adatok alapján adódó társadalombiztosítási támogatásnak a termelői árral vagy importbeszerzési árral (a továbbiakban együtt: termelői ár) arányos (termelői ár/fogyasztói ár) részére 20%-os befizetési kötelezettség terheli. A befizetési kötelezettség számítását termékenként és támogatási jogcímenként kell végezni. Társadalombiztosítási támogatáson általános forgalmi adót tartalmazó (bruttó) támogatást, fogyasztói áron bruttó fogyasztói árat, termelői áron áfát nem tartalmazó (nettó) termelői árat kell érteni.
 
 (2) A gyógyszer-nagykereskedelmi engedéllyel rendelkező, illetve tápszer nagykereskedelmet folytató (a továbbiakban együtt: gyógyszer nagykereskedelmi engedéllyel rendelkező) gazdálkodó szervezetet a közforgalmú gyógyszertárat működtető, valamint a közvetlen lakossági gyógyszerellátást végző intézeti gyógyszertár számára a tárgyhónapban értékesített valamennyi általa forgalmazott közfinanszírozásban részesülő gyógyszerén realizált nagykereskedelmi árréstömegének 2,5 százaléka erejéig befizetési kötelezettség terheli.
 
 (3) Az a közforgalmú gyógyszertár működtetésére jogosult, valamint az a közvetlen lakossági gyógyszerellátást végző intézeti gyógyszertár (a továbbiakban együtt e fejezet alkalmazásában: közforgalmú gyógyszertár működtetésére jogosult), melynek közfinanszírozott gyógyszerek forgalmazásából származó negyedéves árréstömege a 39. §-ban foglalt összeget meghaladja, köteles gyógyszertár szolidaritási díjat fizetni.
 
-(4) A 12. § (3) bekezdése szerinti, ismertetési tevékenységet folytatót minden általa munkavégzésre irányuló jogviszony keretében foglalkoztatott ismertető személy tevékenysége után havonta gyógyszerismertetés esetén négyszáztizenhatezer, gyógyászati segédeszköz ismertetése esetén nyolcvanháromezer forint összegű befizetési kötelezettség terheli. Ha a foglalkoztatásra irányuló jogviszony hóközben keletkezik vagy szűnik meg, a fizetési kötelezettséget a fenti összegnek a jogviszony napokban meghatározott fennállásának a hónap naptári napjaival arányos része figyelembevételével kell teljesíteni.
+(4) A 12. § (3) bekezdése szerinti, ismertetési tevékenységet folytatót minden általa munkavégzésre irányuló jogviszony keretében foglalkoztatott, a 13/A. § (1) bekezdése szerint nyilvántartásba vett ismertető személy tevékenysége után – a (4a) bekezdésben foglalt kivétellel – havonta gyógyszerismertetés esetén nyolszázharminckétezer, gyógyászati segédeszköz ismertetése esetén nyolcvanháromezer forint összegű befizetési kötelezettség terheli. Ha a bejelentés alapján az ismertető személy hóközben kerül bejegyzésre vagy törlésre, a fizetési kötelezettséget a fenti összegnek a jogviszony napokban meghatározott fennállásának a hónap naptári napjaival arányos része figyelembevételével kell teljesíteni.
+
+(4a) Azt a 12. § (3) bekezdése szerinti ismertetési tevékenységet folytató, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény szerinti önálló kis- és közepes vállalkozást, amely maximum 12 fő ismertető személyt foglalkoztat munkavégzésre irányuló jogviszony keretében és magyarországi gyógyszergyártási engedéllyel rendelkezik, és az ismertető személy kizárólag azokat a termékeket ismerteti, melyek esetében az ismertetési tevékenységet folytató kis- és közepes vállalkozás a forgalomba hozatali engedély jogosultja, továbbá a gyógyszergyártásra jogosító engedély nem kizárólag csomagolásra, illetve gyártási tétel felszabadításra vonatkozik, úgy az ismertetési tevékenységet folytató által munkavégzésre irányuló jogviszony keretében foglalkoztatott, a 13/A. § (1) bekezdése szerint nyilvántartásba vett ismertető személy tevékenysége után havonta nyolcvanháromezer forint összegű befizetési kötelezettség terheli.
 
 (5) Az (1)–(4) bekezdésekben, valamint a 42. §-ban foglalt befizetési kötelezettségekre az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (6) Az állami adóhatóság az (1) bekezdés szerinti, a forgalomba hozatali engedély jogosultja és a forgalmazó közötti megállapodás jóváhagyásáról, a jóváhagyás napját követő nyolc napon belül tájékoztatja az egészségbiztosítási szervet.
 
-(7) A gyógyszer forgalomba hozatali engedélyének jogosultja legfeljebb a 36. § (1) és (4) bekezdései szerinti befizetési kötelezettségének 100%-a mértékéig kaphat juttatást a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti saját éves beszámolójában, valamint a konszolidációba bevont érintett vállalkozása Szt. szerinti éves beszámolójában kimutatott, egészségügyi ágazatot érintő kutatási és fejlesztési ráfordítások – a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 31. §-a (2) bekezdésének c) pontjában foglaltakkal összhangban lévő – összege után, a (9) bekezdésben előírtak figyelembevételével, amennyiben e ráfordítások meghaladják a forgalomba hozatali engedély jogosultja által forgalmazott támogatott gyógyszerek után kifizetett társadalombiztosítási támogatás termelői (import beszerzési) árral arányos része 20%-át, és e törvény szerinti valamennyi fizetési kötelezettségének eleget tett. A forgalomba hozatali engedély jogosultja és az Szt. szerinti, konszolidációba bevont érintett vállalkozások jogszabályban meghatározott kutatási és fejlesztési ráfordításait együttesen kell figyelembe venni oly módon, hogy ugyanazon ráfordítás összege csak egyszer kerüljön figyelembevételre a juttatás igénybevételekor. A konszolidációba bevont érintett vállalkozások kutatási és fejlesztési tevékenységhez egymásnak nyújtott szolgáltatásaival összefüggésben felmerült kutatási és fejlesztési ráfordítások juttatásként csak az egyik félnél érvényesíthetők.
+(7) A gyógyszer forgalombahozatali engedélyének jogosultja a 36. § (1) és (4), illetve (4a) bekezdései szerinti kötelezettségéből engedményt kaphat a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti, 2010-ben kezdődő üzleti évre vonatkozó saját éves beszámolójában, valamint a konszolidációba bevont érintett vállalkozása Szt. szerinti, 2010-ben kezdődő üzleti évre vonatkozó éves beszámolósában kimutatott, egészségügyi ágazatot érintő kutatási és fejlesztési ráfordítások – a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 31. §-a (2) bekezdésének c) pontjában foglaltakkal összhangban lévő – összege után, a (9) bekezdésben előírtak figyelembevételével, amennyiben e ráfordítások (e bekezdés alkalmazásában a továbbiakban: ráfordítások) meghaladják a forgalombahozatali engedély jogosultja által forgalmazott támogatott gyógyszerek után kifizetett társadalombiztosítási támogatás termelői (import beszerzési) árral arányos része (e bekezdés alkalmazásában a továbbiakban: termelőiár-arányos támogatás) 20%-át, és e törvény szerinti valamennyi fizetési kötelezettségének eleget tett. A forgalombahozatali engedély jogosultja és az Szt. szerinti, konszolidációba bevont érintett vállalkozások jogszabályban meghatározott kutatási és fejlesztési ráfordításait együttesen kell figyelembe venni oly módon, hogy ugyanazon ráfordítás összege csak egyszer kerüljön figyelembevételre az engedmény igénybevételekor. A konszolidációba bevont érintett vállalkozások kutatási és fejlesztési tevékenységhez egymásnak nyújtott szolgáltatásaival összefüggésben felmerült kutatási és fejlesztési ráfordítások engedményként csak az egyik félnél érvényesíthetők. Az engedmény legfeljebb a jogosult 2010. naptári évre vonatkozóan teljesített, 36. § (1) és (4) bekezdései szerinti befizetési kötelezettségének
 
-(8) A juttatás összegének meghatározásakor figyelembe vett kutatási és fejlesztési ráfordításokat csökkenteni kell
+- a) 100%-áig terjedhet, ha a ráfordítások meghaladják a termelőiár-arányos támogatás 70%-át,
+- b) 50%-áig terjedhet, ha a ráfordítások nem haladják meg a termelőiár-arányos támogatás 70%-át, de meghaladják a 30%-át,
+- c) 20%-áig terjedhet, ha a ráfordítások nem haladják meg a termelőiár-arányos támogatás 30%-át, de meghaladják a 20%-át.
+
+(8) Az engedmény összegének meghatározásakor figyelembe vett kutatási és fejlesztési ráfordításokat csökkenteni kell
 
 - a) a IV. fázisú klinikai vizsgálatok költségével, valamint az emberi felhasználásra kerülő gyógyszerekről és egyéb gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 8. pontja szerinti beavatkozással nem járó vizsgálat költségével,
 - b) a kutatás és fejlesztés céljára a mérlegkészítés napjáig az adóhatóságtól, illetve az államháztartás alrendszereinek más szervétől, vagy az Európai Unió különböző pénzügyi alapjaiból igényelt, vagy az adóévben – visszafizetési kötelezettség nélkül – kapott támogatás, juttatás bevételként elszámolt összegével,
@@ -677,7 +766,7 @@ esetén,
   - da) a telephely olyan államban van, amely nem tagja az Európai Uniónak, Gazdasági Együttműködési és Fejlesztési Szervezetnek (a továbbiakban: OECD), nem részese az Európa Gazdasági Térségről szóló Megállapodásnak, vagy amellyel Magyarország nem kötött a kettős adóztatás elkerüléséről szóló egyezményt, vagy
   - db) a telephely olyan államban van, amely tagja az Európai Uniónak, az OECD-nek, részese az Európa Gazdasági Térségről szóló Megállapodásnak, vagy amellyel Magyarországnak van a kettős adóztatás elkerüléséről szóló egyezménye és a forgalomba hozatali engedély jogosultját a telephely szerinti állam szabályai szerint is terheli a közfinanszírozásban részesülő gyógyszerek és tápszerek után kifizetett társadalombiztosítási támogatás alapján arányosan meghatározott, illetve az ismertetési tevékenységet végző magánszemélyek száma alapján meghatározott fizetési kötelezettség, és e kutatási és fejlesztési ráfordításokat a telephely szerinti államban már figyelembe vették kötelezettségcsökkentő tételként vagy e kutatási és fejlesztési ráfordításokat az adott államban engedményként bármilyen adó alapjánál már figyelembe vették, vagy egyéb adókedvezményként már érvényesítették.
 
-(9) A juttatás nem érinti az államnak a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 3. § (2) bekezdése szerinti kötelezettségét. A 36. § (7)–(8) bekezdés szerinti juttatás az E. Alap terhére nem vehető igénybe.
+(9) Az engedmény nem érinti az államnak a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 3. § (2) bekezdése szerinti kötelezettségét.
 
 37. § (1) Az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv a 36. § (1)–(2) bekezdésében meghatározott fizetési kötelezettségek teljesítéséhez szükséges támogatási, illetve forgalmi adatokat a tárgyhónapot követő második naptári hónap 10. napjáig, a 36. § (3) bekezdésében meghatározott fizetési kötelezettségek teljesítéséhez szükséges támogatási, illetve forgalmi adatokat pedig a tárgynegyedévet követő második naptári hónap 10. napjáig közli a fizetésre kötelezettel, illetve honlapján közzéteszi azokat.
 
@@ -745,7 +834,7 @@ a befizetést követően haladéktalanul átutalja.
 
 42. § (1) Amennyiben a támogatott gyógyszerek tárgyévi forgalma után kifizetett társadalombiztosítási támogatás – a különkeretes gyógyszerekre és a különös méltánylást érdemlő körülmények esetén gyógyszertámogatásra fordítható összeget nem tartalmazó – összege meghaladja a tárgyév első napján hatályos előirányzatot, akkor e kiadási többlet finanszírozása – a (2)–(3) bekezdésben foglaltak szerint – az E. Alap kezelője és a forgalomba hozatali engedélyek jogosultjainak kötelezettsége.
 
-(2) A kiadási többlet meghatározása során a tárgyévi forgalom után kifizetett társadalombiztosítási támogatásból le kell vonni a 36. § (1)–(2) és (4) bekezdésében meghatározott fizetési kötelezettség alapján a tárgyév január-december hónapjaira adódó összeget, a támogatásvolumen-szerződések alapján a tárgyévben teljesített összeget, valamint az E. Alap költségvetése Gyógyszertámogatás kiadásai jogcímnek a tárgyévet megelőző év első napján és a tárgyév első napján hatályos előirányzata pozitív különbségét.
+(2) A kiadási többlet meghatározása során a tárgyévi forgalom után kifizetett társadalombiztosítási támogatásból le kell vonni a 36. § (1)–(2) és (4) bekezdésében meghatározott fizetési kötelezettség alapján a tárgyév január–december hónapjaira adódó összeget, a támogatásvolumen-szerződések alapján a tárgyévben teljesített összeget.
 
 (3) A (2) bekezdés szerint számított kiadási többlet költségeit az E. Alap kezelője és a forgalomba hozatali engedély jogosultjai a (4)–(5) bekezdésben foglalt megosztásban viselik.
 
@@ -822,7 +911,7 @@ a befizetést követően haladéktalanul átutalja.
 (2) Az írásban benyújtott kérelemnek tartalmaznia kell:
 
 - a) az új gyógyszertár típusát,
-- b) az új gyógyszertár működtetési helyének pontos címét,
+- b) az új gyógyszertár pontos címét,
 - c) az új gyógyszertár megnyitásának tervezett időpontját.
 
 (3) A kérelemhez csatolni kell
@@ -836,12 +925,14 @@ a befizetést követően haladéktalanul átutalja.
 
 49. § (1) Új közforgalmú gyógyszertár létesítését a 49/A. § (1)–(2) bekezdésében foglalt feltételek esetén, országos pályázat alapján az egészségügyi államigazgatási szerv engedélyezi.
 
-(2) A gyógyszertár létesítésére irányuló pályázat
+(2) Az egészségügyi államigazgatási szerv gyógyszertár létesítésére irányuló pályázatot ír ki
 
-- a) kiírását kezdeményezheti gyógyszertár székhely szerint illetékes települési önkormányzat képviselő-testülete, vagy
-- b) hivatalból kerül kiírásra az egészségügyi államigazgatási szerv által, amennyiben az a 49/A. § (1)–(2) bekezdésében foglaltak felülvizsgálatának eredményeként szükséges, mely felülvizsgálat naptári félévente lefolytatásra kerül.
+- a) kérelemre, ha a gyógyszertár létesítési helye szerint illetékes települési önkormányzat képviselő-testülete azt kéri, és
+  - aa) az adott településen közforgalmú gyógyszertár nem működik, vagy
+  - ab) a 49/A. § (2) bekezdésében foglalt feltételek teljesülnek, vagy
+- b) hivatalból, amennyiben a 49/A. § (1)–(2) bekezdésében foglaltak felülvizsgálatának eredményeként az szükséges, mely felülvizsgálat naptári félévente lefolytatásra kerül.
 
-(3) Az országos pályázati felhívást, valamint a pályázat tartalmi követelményeit az egészségügyi államigazgatási szerv a (2) bekezdés a) pontja szerinti esetben a pályázati kiírás kezdeményezésétől, a (2) bekezdés b) pontja szerinti esetben pedig a felülvizsgálat lezárásától számított hatvan napon belül az egészségügyért felelős miniszter által vezetett minisztérium hivatalos lapjában és saját honlapján közzéteszi, amennyiben a 49/A. §-ban foglaltak szerint van lehetőség új gyógyszertár létesítésére. A pályázatot az egészségügyi államigazgatási szerv előzetesen megküldi jóváhagyásra az egészségügyért felelős miniszter számára.
+(3) Az országos pályázati felhívást, valamint a pályázat tartalmi követelményeit az egészségügyi államigazgatási szerv a (2) bekezdés a) pontja szerinti esetben a pályázati kiírás kezdeményezésétől, a (2) bekezdés b) pontja szerinti esetben pedig a felülvizsgálat lezárásától számított hatvan napon belül az egészségügyért felelős miniszter által vezetett minisztérium hivatalos lapjában és saját honlapján közzéteszi. A pályázatot az egészségügyi államigazgatási szerv előzetesen megküldi jóváhagyásra az egészségügyért felelős miniszter számára.
 
 (4) A pályázatokat az egészségügyi államigazgatási szerv a pályázati felhívásban megjelölt benyújtási határnaptól számított hatvan napon belül bírálja el, és annak eredményét a (3) bekezdés szerinti lapban és honlapján közzéteszi. A pályázatot úgy kell kiírni, hogy a közzététel napjától számítva legalább 30 nap álljon rendelkezésre a benyújtásra.
 
@@ -881,7 +972,7 @@ a befizetést követően haladéktalanul átutalja.
 
 (11) Abban az esetben, ha a (10) bekezdés szerint sem lehet dönteni a pályázat nyerteséről, az a pályázó nyer, akinek pályázata korábban érkezett az egészségügyi államigazgatási szervhez.
 
-49/A. § (1) Azon a településen, ahol közforgalmú gyógyszertár nem működik az egészségügyi államigazgatási szerv – az e törvényben, valamint az egészségügyért felelős miniszter rendeletében meghatározott feltételek teljesítése esetén – az új közforgalmú gyógyszertár létesítésére a 49. § (3) bekezdésében foglaltak alapján kiírt pályázat eredményeként a közforgalmú gyógyszertár létesítését engedélyezi.
+49/A. § (1) Azon a településen, ahol közforgalmú gyógyszertár vagy fiókgyógyszertár nem működik, az egészségügyi államigazgatási szerv új közforgalmú gyógyszertár létesítésére akkor ír ki hivatalból pályázatot, ha a település lakosainak száma legalább 4500 fő.
 
 (2) Azon a településen, ahol már működik közforgalmú gyógyszertár, új közforgalmú gyógyszertár létesítésére az egészségügyi államigazgatási szerv akkor írhat ki pályázatot, ha az új gyógyszertárral együtt számított valamennyi közforgalmú gyógyszertárra átlagosan 50 000 lélekszámot meghaladó településen legalább 4000, egyéb településen legalább 4500 lakos jut, és a meglévő közforgalmú gyógyszertárak bejárata és az új közforgalmú gyógyszertár bejárata között ötvenezer lélekszámot meghaladó városokban 250 méter, egyéb településeken legalább 300 méter távolság van.
 
@@ -955,7 +1046,9 @@ a befizetést követően haladéktalanul átutalja.
 
 53/B. § (1) A közforgalmú gyógyszertár működtetője kérelmére az egészségügyi államigazgatási szerv engedélyezi a közforgalmú gyógyszertár áthelyezését, amennyiben a gyógyszertárnak helyet adó ingatlan bérleti joga az ingatlan tulajdonosának a bérlőt hátrányosan érintő rendelkezése okán megszűnik, vagy az ingatlan megsemmisül.
 
-(2) Az (1) bekezdés szerinti áthelyezésre kizárólag az adott településen/településrészen kerülhet sor akkor, ha a meglévő közforgalmú gyógyszertárak bejárata és az áthelyezendő közforgalmú gyógyszertár bejárata között 50 000 lélekszámot meghaladó városokban 250 méter, egyéb településeken legalább 300 méter távolság van.
+(2) Az (1) bekezdés szerinti áthelyezésre kizárólag az adott településen/településrészen/ kerületben kerülhet sor akkor, ha a meglévő közforgalmú gyógyszertárak bejárata és az áthelyezendő közforgalmú gyógyszertár bejárata között 50 000 lélekszámot meghaladó városokban 250 méter, egyéb településeken legalább 300 méter távolság van.
+
+(3) A közforgalmú gyógyszertár működtetőjének kérelmére vagy a települési önkormányzat és a közforgalmú gyógyszertár működtetőjének együttes kérelmére az egészségügyi államigazgatási szerv a (2) bekezdésben foglaltak figyelembevételével engedélyezi a közforgalmú gyógyszertár áthelyezését, amennyiben az a települési alapellátási és/vagy szakellátási szolgáltatások fejlesztési forrásból megvalósuló, 2011. január 1-je előtt meghirdetett pályázatokkal összefüggő integrációjához, fejlesztéséhez kapcsolódik.
 
 54. § (1) A gyógyszertárak működtetését az egészségügyi államigazgatási szerv ellenőrzi. A működési engedélyt visszavonja, ha az ellenőrzése során megállapítja, hogy a gyógyszertár működtetője a működés szakmai szabályait, illetve
 
@@ -1087,11 +1180,19 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 
 60/B. § A személyi jog – az egészségügyi államigazgatási szerv engedélyével, és a gyógyszertárat működtető gazdasági társaság jóváhagyásával – személyi jogra e jogszabály alapján jogosult személynek átruházható, ebben az esetben a működési engedély módosításra kerül.
 
-60/C. § (1) Ha a személyi jog az 59. § (1) bekezdés a) pontjában foglalt okból szűnik meg, akkor a korábbi személyi jog jogosultjának házastársa, gyermeke – ideértve örökbe fogadott, mostoha- vagy nevelt gyermekét is – vagy felmenője erre irányuló kérelem esetén személyi jog jogosultjává válik, amennyiben megfelel az 56. §-ban foglalt feltételeknek.
+60/C. § (1) Ha a személyi jog az 59. § (1) bekezdés a) pontjának ab) alpontjában foglalt okból szűnik meg, akkor a korábbi személyi jog jogosultjának házastársa, gyermeke – ideértve örökbe fogadott, mostoha- vagy nevelt gyermekét is – vagy felmenője erre irányuló kérelem esetén személyi jog jogosultjává válik, amennyiben megfelel az 56. §-ban foglalt feltételeknek.
 
 (2) Amennyiben az (1) bekezdés szerint több, az 56. §-ban meghatározott feltételeknek megfelelő személy lenne jogosult a személyi jogra, e jogosultak a korábbi jogosult személyi jogról történő lemondásától, illetve halálától számított negyvenöt napon belül nyújthatnak be megállapodást az egészségügyi államigazgatási szervhez, amelyben megjelölik a személyi jogot megszerző személyt.
 
 (3) Amennyiben a korábbi személyi jog jogosultjának házastársa vagy gyermeke nem felel meg az 56. §-ban foglalt feltételeknek, azonban valamelyikük gyógyszerész egyetemi hallgató, vagy gyógyszerész oklevéllel rendelkezik, úgy a gyógyszertár felelős vezető alkalmazásával működtethető a személyi jog megszerzéséhez szükséges az 56. §-ban foglalt feltételek teljesítéséig.
+
+60/D. § (1) Amennyiben a személyi jog e törvény 59. § (1) bekezdés a) pontjának ab) alpontja miatt szűnik meg, a halál napját követő 6 hónapon belül előterjesztett, a korábbi személyi jog jogosultjának házastársa, gyermeke – ideértve örökbe fogadott, mostoha- vagy nevelt gyermekét is – vagy felmenője és a gyógyszertárat működtető gazdasági társaság legfőbb szervének egybehangzó kérelmére, a kérelemben megjelölt gyógyszertár vezetésére alkalmas, közforgalmú gyógyszertárat nem vezető személy részére az egészségügyi államigazgatási szerv engedélyezi a gyógyszertár ideiglenes vezetését.
+
+(2) Az (1) bekezdés szerinti vezető a gyógyszertárat – melynek tekintetében a szakmai feladatok teljesítéséért teljes felelősséggel tartozik – a hagyaték átadó végzés jogerőre emelkedését követő 90 napig vezetheti.
+
+(3) A hagyatékátadó végzésben meghatározott örökös és a gyógyszertárat működtető társaság legfőbb szerve által egybehangzóan a személyi jog engedélyezésére megjelölt gyógyszerész személy a hagyatékátadó végzés jogerőre emelkedését követő 45 napon belül személyi jog engedélyezését kérelmezheti az egészségügyi államigazgatási szervnél. Ebben az esetben az egészségügyi államigazgatási szerv soron kívül dönt a személyi jog engedélyezése tárgyában.
+
+(4) Több örökös esetén az örökösök – a (3) bekezdésben foglaltakra figyelemmel – egyszerű többséggel döntenek a személyi jogos gyógyszerész kijelölésében.
 
 ### A gyógyszertárak vezetése
 
@@ -1111,7 +1212,7 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 
 62. § (1) A közforgalmú gyógyszertárat – ha e törvény másként nem rendelkezik – személyi joggal rendelkező gyógyszerész vezeti. A személyi jog jogosultja a közforgalmú gyógyszertár vezetését – személyi joggal rendelkező más gyógyszerész, felelős vezető és a hatósági vezető kivételével – más személynek nem adhatja át.
 
-(2) A gyógyszertár vezetője – az általa vezetett közforgalmú gyógyszertárhoz tartozó fiókgyógyszertár és a 86. § (2) bekezdés szerinti fiókgyógyszertárból átalakult közforgalmú gyógyszertár kivételével – csak egy gyógyszertárat vezethet, más gyógyszertárban vagy gyógyszertárat működtető gazdasági társaságban munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt nem létesíthet.
+(2) A gyógyszertár vezetője – az általa vezetett közforgalmú gyógyszertárhoz tartozó fiókgyógyszertár kivételével – csak egy gyógyszertárat vezethet, más gyógyszertárban vagy gyógyszertárat működtető gazdasági társaságban munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt nem létesíthet.
 
 (3) A gyógyszertár vezetője felelős a gyógyszertárban – ideértve a közforgalmú gyógyszertárhoz tartozó fiókgyógyszertárakat is – folyó szakmai munka felügyeletéért. Szakmai felügyeleti jogkörében eljárva a személyzet tekintetében szakmai ellenőrzési és utasításadási joggal rendelkezik.
 
@@ -1133,13 +1234,13 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 
 ### A gyógyszertárak állami felügyelete
 
-64. § (1) A gyógyszertárak felügyelete állami feladat. A gyógyszertáraknak a gyógyszerek és gyógyászati segédeszközök forgalmazásával összefüggő szakmai felügyeletét – ide nem értve a gyógyszerrel, illetve gyógyászati segédeszközzel kapcsolatos kereskedelmi gyakorlatra vonatkozó szabályokat, továbbá a 76. §-ban foglaltakat – az egészségügyi államigazgatási szerv gyakorolja. A gyógyszernek nem minősülő egyéb termékek gyógyszertár általi forgalmazására a külön jogszabályban meghatározott rendelkezések betartását a fogyasztóvédelmi hatóság ellenőrzi, és a fogyasztóvédelemről szóló törvényben meghatározottak szerint eljár e rendelkezések megsértése esetén.
+64. § (1) A gyógyszertárak felügyelete állami feladat. A gyógyszertáraknak a gyógyszerek, gyógyászati segédeszközök, tápszerek és gyógyszertárban forgalmazható egyéb termékek forgalmazásával összefüggő szakmai felügyeletét az egészségügyi államigazgatási szerv gyakorolja. A gyógyszertárban forgalmazható egyéb termékek gyógyszertár általi forgalmazására a külön jogszabályban meghatározott rendelkezések betartását a fogyasztóvédelmi hatóság is ellenőrzi, és a fogyasztóvédelemről szóló törvényben meghatározottak szerint eljár e rendelkezések megsértése esetén.
 
 (2) Az egészségügyi államigazgatási szerv a szakmai felügyelet keretében megtett – külön jogszabályban foglalt – intézkedésekről az egészségbiztosítási szervet tájékoztatja.
 
 65. § Az egészségügyi államigazgatási szerv a közforgalmú gyógyszertár vezetésére hatósági vezetőt rendelhet ki, ha a település gyógyszerellátását kizárólag egy közforgalmú gyógyszertár biztosítja és
 
-- a) a személyi jog megszűnt, vagy
+- a) a személyi jog megszűnt és a 60/D. § (1) bekezdés szerinti engedélyezés iránt 6 hónapon belül kérelmet nem nyújtottak be, vagy
 - b) a személyi jogról való lemondás írásbeli bejelentése után a bejelentéstől számított 6 hónapon belül személyi joggal rendelkező gyógyszerészt a működtető nem jelentett be, vagy
 - c) a személyi jog jogosultja vagy a felelős vezető lemondás nélkül, neki felróható okból a közforgalmú gyógyszertár vezetését megszüntette, vagy
 - d) a személyi jog jogosultja a működés szakmai szabályait, különösen gyógyszerek készletben tartására, a szolgálati rendre vonatkozó rendelkezéseket súlyosan megsérti.
@@ -1174,7 +1275,7 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 
 (3) A gyógyszer-kiskereskedelmi forgalmazási engedéllyel rendelkező üzlet gyógyszereket csak gyógyszer-nagykereskedelmi tevékenység folytatására jogosulttól szerezhet be, és csak fogyasztónak adhatja tovább.
 
-69. § (1) Az üzletben a gyógyszer a fogyasztók számára közvetlenül hozzáférhető helyen nem helyezhető el, kizárólag zárható szekrényben tárolható.
+69. § (1) Az üzletben gyógyszer – a tea formájú növényi gyógyszerek vagy tea formájú hagyományos növényi gyógyszerek kivételével – fogyasztók számára közvetlenül hozzáférhető helyen nem helyezhető el, kizárólag zárható szekrényben tárolható.
 
 (2) A gyógyszerek, illetve a gyógyszerek egy meghatározott csoportjának az egy vásárlás során kiadható gyógyszerek mennyiségét külön jogszabály korlátozhatja.
 
@@ -1236,7 +1337,7 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 
 75. § Nem valósítható meg olyan összefonódás, amelynek eredményeképpen négynél több gyógyszertár kerülne az adott vállalkozás vagy vállalkozáscsoport közvetlen vagy közvetett irányítása alá, továbbá nem valósítható meg olyan összefonódás sem, amelynek következményeként húszezer lélekszám alatti településen három vagy annál több gyógyszertár kerülne az adott vállalkozás vagy vállalkozáscsoport közvetlen vagy közvetett irányítása alá.
 
-76. § (1) A közforgalmú gyógyszertárat személyi jog alapján működtető gyógyszerész – ide nem értve azt az esetet, amikor a személyi jog jogosultja gazdasági társaság tagja – a társadalombiztosítási és a pénzügyi jogszabályok alkalmazása során az egyéni vállalkozóval esik egy tekintet alá.
+76. § (1) A közforgalmú gyógyszertárat személyi jog alapján működtető gyógyszerész – ide nem értve azt az esetet, amikor a személyi jog jogosultja gazdasági társaság tagja a társadalombiztosítási és a pénzügyi jogszabályok alkalmazása során az egyéni vállalkozóval esik egy tekintet alá, továbbá közforgalmú gyógyszertár egyéni cég formájában is működtethető.
 
 (2)–(4)
 
@@ -1248,7 +1349,7 @@ tevékenységet legalább három évig folytatott, és e tevékenység megszűn�
 - b) a gyógyszertárak működőképességének fenntartásához nyújtandó támogatás megállapításának feltételeit,
 - c) a gyógyszer, illetve gyógyászati segédeszköz ismertetésével kapcsolatban kiszabott bírság pénzügyi teljesítésének feltételeire és felhasználására vonatkozó szabályokat
 - d) a 44/A. § szerinti juttatás feltételeire, mértékére, összegére, utalására vonatkozó szabályokat
-- e) a Gyftv. 36. § (1) és (4) bekezdései, valamint a 42. § (1)–(6) bekezdései szerinti fizetési kötelezettségek 20%-ának erejéig a kutatás-fejlesztési ráfordítások után igénybe vehető engedményekre vonatkozó részletes szabályokat,
+- e) a kutatás-fejlesztési ráfordítások után igénybe vehető engedményekre vonatkozó eljárási szabályokat,
 - f) a támogatásvolumen-szerződésekre vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
@@ -1264,7 +1365,7 @@ rendeletben állapítsa meg.
 - g) a gyógyszertárak nyilvántartási, ügyviteli rendjét,
 - h) a gyógyszerészek nyilvántartásának szabályait,
 - i) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének szabályait,
-- j) a gyógyszer, illetve gyógyászati segédeszköz ismertetésének és az ismertetési tevékenység folytatásának részletes feltételeit, az ismertetési tevékenység bejelentésére és az ismertetési tevékenységet folytatók, valamint az ismertető személyek nyilvántartásának vezetésére, az ismertetői igazolvány kiállítására és módosítására, az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes eljárási szabályokat, továbbá a gyógyszer és gyógyászati segédeszköz ismertetésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, továbbá a gyógyszerrel, gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokat,
+- j) a gyógyszer, illetve gyógyászati segédeszköz ismertetésének és az ismertetési tevékenység folytatásának részletes feltételeit, az ismertetési tevékenység bejelentésére és az ismertetési tevékenységet folytatók, valamint az ismertető személyek nyilvántartásának vezetésére, az ismertetői igazolvány kiállítására és módosítására, az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes eljárási szabályokat, továbbá a gyógyszer és gyógyászati segédeszköz ismertetésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, továbbá a gyógyszerrel, gyógyászati segédeszközzel, valamint a gyógyszernek nem minősülő gyógyhatású készítménnyel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokat,
 - k) az egészségügyi szolgáltatók gyógyszerrendelése értékelésének alapjául szolgáló ATC-csoportokat, az értékelésre kerülő hatóanyagokat, a preferált megoszlási mutatókat, a célértékeket, és a felírt gyógyszerek mennyiségére vagy volumenére vonatkozó azon feltételeket, amelyek alapján a gyógyszerrendelés nem kerül értékelésre,
 - l) a 24. § (4) bekezdésében, valamint a 33. § (6) bekezdésében foglalt, a társadalombiztosítási támogatásba befogadott gyógyszerek, tápszerek és gyógyászati segédeszközök körét tartalmazó közlemény adattartalmát és a közzététel eljárási rendjét,
 - m) a szállítójegyzékre és a szállító-előminősítésre vonatkozó részletes szabályokat,
@@ -1330,6 +1431,8 @@ lép hatályba.
 
 83/B. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvény 79. §-ával megállapított 58. § (1) bekezdés e) pontjában és az 58. § (3)–(4) bekezdésében foglaltakat az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvény hatálybalépését követően meghozott jogerős ítéletek vonatkozásában kell alkalmazni.
 
+83/C. § A gyógyszertár vezetője 2013. július 1-jéig a fiókgyógyszertárból átalakult közforgalmú gyógyszertárban fennálló vezetői vagy munkaviszonyát, munkavégzésre irányuló jogviszonyát a Gyftv. 66. § (2) bekezdésének módosítását követően is fenntarthatja.
+
 84. § (1) A 36. § (1)–(4) bekezdésének alkalmazása során a 2007. évben tárgyéven a 2007. január 15-étől 2007. december 31-éig terjedő időszakot kell érteni. A 36. § (4) bekezdésében meghatározott fizetési kötelezettséget a 2007. évben legfeljebb a 2007. január 15-étől 2007. december 31-éig terjedő időszakra vetített időarányos rész után kell teljesíteni.
 
 (2) A 37. § (1)–(2) bekezdésének alkalmazása során a 2007. évben január tárgyhónapon a 2007. január 15-étől 2007. január 31-éig terjedő időszakot kell érteni.
@@ -1354,6 +1457,12 @@ lép hatályba.
 
 (6)–(7)
 
+86/A. § (1) A 2011. július 1-jét megelőzően kiállított ismertetői igazolványok helyett a gyógyszerészeti államigazgatási szerv 2011. október 1-jéig az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 13/A. § (2) bekezdésének megfelelő új igazolványt állít ki az ismertető kérelmére. A 2011. július 1-jét megelőzően kiállított ismertetői igazolványok az új igazolvány kiállításáig, de legkésőbb 2011. december 31-éig érvényesek.
+
+(2) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 35. § (8) bekezdésében foglaltakat 2011. október 1-jétől kell alkalmazni.
+
+(3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 36. § (7)–(9) bekezdéseit a naptári évtől eltérő üzleti évvel rendelkező forgalombahozatali engedély jogosultjai 2012. december 31-éig alkalmazhatják az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvény hatálybalépése napján hatályos szabályok szerint.
+
 87. § (1) Az e törvény 22–35. §-ában foglalt rendelkezéseket az e törvény hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben határozza meg a gyógyászati segédeszközök forgalmazásának, javításának és kölcsönzésének engedélyezésével, illetve bejelentésével összefüggő eljárásra, valamint a nyilvántartás személyes adatot nem tartalmazó adattartalmára és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a gyógyászati segédeszközök forgalmazására, javítására és kölcsönzésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
@@ -1362,7 +1471,7 @@ lép hatályba.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben határozza meg azt az időpontot, amelyet követően társadalombiztosítási támogatással csak a 45. § (1) bekezdésében meghatározott számítógépes program segítségével kiállított vényre szolgáltatható ki gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás.
 
-(6) A törvény hatálybalépésekor már forgalomban lévő, gyógyszernek nem minősülő gyógyhatású készítménnyel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlat során – 2011. április 1-jéig – a II. fejezet, valamint a 77. § (2) bekezdésének j) pontjában foglalt felhatalmazás alapján kiadott rendelet rendelkezéseit megfelelően alkalmazni kell. Gyógyszernek nem minősülő gyógyhatású készítmény működési engedéllyel rendelkező, gyógyszerek forgalmazására jogosult üzletben is forgalmazható a külön jogszabályban foglaltaknak megfelelően.
+(6) A gyógyszernek nem minősülő gyógyhatású készítménnyel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlat során a II. fejezet, valamint a 77. § (2) bekezdésének j) pontjában foglalt felhatalmazás alapján kiadott rendelet rendelkezéseit megfelelően alkalmazni kell. Gyógyszernek nem minősülő gyógyhatású készítmény működési engedéllyel rendelkező, gyógyszerek forgalmazására jogosult üzletben is forgalmazható a külön jogszabályban foglaltaknak megfelelően.
 
 88. § (1) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

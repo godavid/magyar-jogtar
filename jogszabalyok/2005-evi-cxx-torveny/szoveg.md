@@ -88,7 +88,7 @@ alapján illeti meg,
 
 3715 Könyv- és lapkiadó-szerkesztő munkatárs
 
-3716 Hivatásos sportoló, sportmunkatárs, valamint FEOR számtól függetlenül a sportról szóló törvényben meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy országos sportági szakszövetséggel, országos sportági sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, a szövetség szabályzatában meghatározott sportszakembernek minősül, és rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel. Sportszakember különösen a sportedző (a sportág megjelölésével), sportoktató (a sportág megjelölésével), mérkőzésvezető, versenybíró, sportorvos, gyúró
+3716 Hivatásos sportoló, sportmunkatárs, valamint FEOR számtól függetlenül a sportról szóló törvényben meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy országos sportági szakszövetséggel, országos sportági sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, továbbá a szövetség vagy a sportszervezet főállású munkavállalója. A sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén további feltétel, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel
 
 3721 Segédszínész
 
@@ -125,7 +125,9 @@ alapján illeti meg,
 - a) évi 25 millió forint, feltéve, hogy a magánszemély (1) bekezdés a) pontjában említett jövedelme az adóévben eléri az év első napján érvényes havi minimálbér 12-szeresét,
 - b) az a) pontban meghatározott feltétel hiányában az évi 25 millió forintnak olyan hányada, amilyen arányt az (1) bekezdés a) pontjában említett jövedelem összege az év első napján érvényes havi minimálbér 12-szereséhez viszonyítva képvisel,
 - c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 25 millió forint,
-- d) az a)–b) pontokban említett összeghatár helyett évi 100 millió forint – a 2010. évben 50 millió forint –, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
+- d) az a)–b) pontokban említett összeghatár helyett
+  - da) évi 100 millió forint – a 2010. évben 50 millió forint –, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
+  - db) évi 50 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya) azzal, hogy, ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
 (5) A (4) bekezdés szerinti bevételi határt csökkenti az a bevétel,
 
@@ -273,3 +275,7 @@ utal át.
 (2)–(3)
 
 14/A. § Az Ekho. tv. 3. § (3)–(4) és (6) bekezdésének, 5. § (4) bekezdésének, és 6. § (2) bekezdés a) pontjának a sporttal összefüggő egyes törvények módosításáról szóló 2010. évi LXXXIII. törvénnyel megállapított rendelkezéseit a hatálybalépésük napját követően megszerzett bevételre kell alkalmazni.
+
+14/B. § (1) E törvénynek a sport támogatásával összefüggő egyes törvények módosításáról szóló 2011. évi LXXXII. törvénnyel módosított rendelkezéseit – a (2) bekezdésben említett kivétellel – a hatálybalépés napját követően megszerzett bevételekre kell alkalmazni.
+
+(2) A 3. § (4) bekezdés db) alpontjának a sport támogatásával összefüggő egyes törvények módosításáról szóló 2011. évi LXXXII. törvénnyel megállapított rendelkezését a 2011. január 1-jétől megszerzett bevételekre kell alkalmazni.

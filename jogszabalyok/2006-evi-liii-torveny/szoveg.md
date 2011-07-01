@@ -106,9 +106,9 @@ szakaszból áll.
 
 8. § (1) A perben a jogi képviselet kötelező.
 
-(2) A hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt nyolc napon belül továbbítja a bírósághoz.
+(2) A keresetlevél a hatósághoz kizárólag elektronikus úton nyújtható be. A hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt három napon belül elektronikusan továbbítja a bírósághoz.
 
-(3)
+(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben, valamint a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben meghatározottak szerint, kizárólag elektronikus úton történik.
 
 (4) A bíróság a keresetlevelet legkésőbb annak beérkezését követő öt napon belül megvizsgálja, valamint ezen belül a jogszabálynak megfelelő keresetlevelet a közigazgatási szerv nyilatkozatával együtt megküldi a felperes jogi képviselője részére.
 

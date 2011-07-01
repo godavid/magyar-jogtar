@@ -66,7 +66,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 - r) jövedelem: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. §-a (1) bekezdésének a) pontjában meghatározattak,
 - s) fenntartó:
   - sa) a központi költségvetési szerv, a helyi önkormányzat, a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §-a, 9. §-a, illetve 16. §-a szerinti intézményi társulás, a települési önkormányzatok többcélú kistérségi társulása, a települési kisebbségi önkormányzat és a területi kisebbségi önkormányzat (a továbbiakban együtt: állami fenntartó),
-  - sb) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény (a továbbiakban: Ltv.) szerinti, magyarországi székhelyű egyház, az egyházaknak az Ltv. 14. §-a szerinti magyarországi székhelyű szövetsége, illetve az Ltv. 13. §-ának (2)–(3) bekezdése szerinti magyarországi székhelyű egyházi jogi személy (a továbbiakban: egyházi fenntartó); nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a társadalmi szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság és a közhasznú társaság,
+  - sb) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény (a továbbiakban: Ltv.) szerinti, magyarországi székhelyű egyház, az egyházaknak az Ltv. 14. §-a szerinti magyarországi székhelyű szövetsége, illetve az Ltv. 13. §-ának (2)–(3) bekezdése szerinti magyarországi székhelyű egyházi jogi személy, amennyiben az egyház a Kormánnyal a gyermekjóléti, gyermekvédelmi vagy a szociális feladatok ellátására is kiterjedő megállapodást kötött, ideértve a Magyar Köztársaság és az Apostoli Szentszék között a Katolikus Egyház magyarországi közszolgálati és hitéleti tevékenységének finanszírozásáról, valamint néhány vagyoni természetű kérdésről 1997. június 20-án, Vatikánvárosban aláírt Megállapodás alapján a Magyar Katolikus Egyházat is (a továbbiakban együtt: egyházi fenntartó); nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a társadalmi szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság és a közhasznú társaság,
   - sc) az egyéni vállalkozó,
   - sd) az sa)–sb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
   - se) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az sc)–se) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
@@ -2109,7 +2109,7 @@ jelöl ki. A kijelölés ötévi időtartamra szól, amelynek elteltét követő
 
 100. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység működési engedélyhez kötött. A működési engedélyezés részletes szabályait külön jogszabály határozza meg.
 
-(2) A működési engedély kiadásáról – a fenntartó kérelmére – a működést engedélyező szerv dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárás illetékmentes.
+(2) A működési engedély kiadásáról a fenntartó kérelmére a működést engedélyező szerv – első fokon a Kormány általános hatáskörű területi államigazgatási szervének szakigazgatási szerveként működő gyámhivatal – dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárás illetékmentes.
 
 (3) A működést engedélyező szerv ellenőrzi, hogy a szolgáltató tevékenységet a működési engedélyben és a jogszabályokban foglaltaknak megfelelően végzik-e.
 
@@ -2136,7 +2136,7 @@ jelöl ki. A kijelölés ötévi időtartamra szól, amelynek elteltét követő
 
 (6) Az intézményvezetőre vonatkozó rendelkezéseket a gyermekjóléti, gyermekvédelmi szolgáltató, intézmény vezetőjén kívül arra a személyre is alkalmazni kell, aki az intézményvezető jogszabályban meghatározott azon feladatát ellátja, amelyből származó jog gyakorlásával, illetve kötelesség megszegésével a jogsértést elkövették.
 
-(7) Ha a bírságot a települési önkormányzat jegyzője mint működést engedélyező szerv szabta ki, a bírságról szóló határozatát közli az ellenőrzési jogkört gyakorló gyámhivatallal.
+(7)
 
 (8) A jogerősen kiszabott és meg nem fizetett bírság adók módjára behajtandó köztartozásnak minősül, amelyről az állami adóhatóság gondoskodik.
 

@@ -921,7 +921,7 @@ mivel az véleménye szerint az egységes piac akadálya lehet, vagy annak a kö
 
 (9) Szabad pénzeszközét a Hírközlési Állandó Választottbíróság kizárólag állampapírba fektetheti. A Hírközlési Állandó Választottbíróság ingatlant kizárólag székhelyének megvásárlása céljából szerezhet.
 
-(10) A Hírközlési Állandó Választottbíróság gazdálkodását az Állami Számvevőszék ellenőrzi.
+(10)
 
 (11) A Hírközlési Állandó Választottbíróság beszámolókészítési és könyvvezetési kötelezettségét külön jogszabály állapítja meg.
 
@@ -1566,7 +1566,7 @@ köteles biztosítani.
 
 (3) A Kassza saját tőkéje nem osztható fel, saját vagyona, bevételei és jövedelme után sem társasági adó, sem helyi adó, sem illeték fizetésére nem kötelezhető, pénzeszközei nem vonhatók el, és a (7) bekezdésben meghatározottól eltérő célra nem használhatók fel. A Kasszához történő be- és kifizetések után áfafizetési kötelezettség nem keletkezik.
 
-(4) A Kassza pénzügyi-számviteli ellenőrzését az Állami Számvevőszék végzi.
+(4)
 
 (5)–(6)
 

@@ -307,13 +307,13 @@ Az Országgyűlés annak érdekében, hogy az államháztartási rendszer újras
 
 (3)
 
-(4) A központi költségvetésből támogatás nem folyósítható, amíg a kedvezményezettnek – a pénzbeli szociális, jóléti ellátások és a foglalkoztatást elősegítő képzési támogatások kivételével – adó-, járulék-, illeték- vagy vámtartozása (a továbbiakban: köztartozás) van. A támogató rendelkezhet úgy, hogy a támogatási kérelem, pályázat benyújtásának feltétele a kérelmező, pályázó köztartozás mentessége.
+(4) A részben vagy egészben az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA) finanszírozott közvetlen, piaci, valamint intervenciós intézkedésekhez kapcsolódó kifizetésekre, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott vidékfejlesztési támogatásokra (a továbbiakban együtt: agrártámogatások) az igénylő akkor is nyújthat be kérelmet, ha esedékessé vált és még meg nem fizetett adó-, járulék-, illeték- vagy vámtartozása (a továbbiakban: köztartozás) van. Egyéb költségvetési támogatás esetén a támogató rendelkezhet úgy, hogy a támogatási kérelem, pályázat benyújtásának feltétele a kérelmező, pályázó köztartozás-mentessége.
 
-(5) A köztartozás vizsgálata céljából a támogatási jogviszony fennállásáig a támogató vagy a támogató adatszolgáltatása alapján a kincstár és az állami adóhatóság, vámhatóság (a továbbiakban együtt: adóhatóságok) jogosultak a kedvezményezett 18/C. § (14) bekezdésében meghatározott adatainak kezelésére. A támogató, a kincstár és az adóhatóságok között az adatcsere elektronikus úton történik.
+(5) Az európai uniós forrásokból finanszírozott agrártámogatásból és a központi költségvetésből folyósításra kerülő támogatásból – közösségi jogszabály visszatartást tiltó rendelkezése hiányában és a pénzbeli szociális, jóléti ellátások és a foglalkoztatást elősegítő képzési, valamint az önkormányzatnak, önkormányzati társulásnak, költségvetési szervnek, közhasznú szervezetnek, önkormányzati közfeladat ellátásában közreműködő gazdasági társaságnak nyújtott közfoglalkoztatási támogatások kivételével – a támogatások kedvezményezettjét terhelő köztartozások összege visszatartásra kerül.
 
-(6) A központi költségvetésből megítélt és folyósításra kerülő támogatásból – közösségi jogszabály visszatartást tiltó rendelkezése hiányában – a támogatások kedvezményezettjét terhelő köztartozások összege visszatartásra kerül. A visszatartás a kedvezményezett támogatási szerződésben vállalt kötelezettségeit nem érinti.
+(6) A köztartozás fennállásáról és annak összegéről az állami adóhatóság a kincstár, illetve az MVH elektronikus úton történő megkeresésére adatot szolgáltat. Az adatszolgáltatásban szereplő tartozás összegét a kincstár, illetve az MVH a folyósított támogatás összegéből levonja és kedvezményezettenként, adónemenként átutalja az adóhatóságnak. A kedvezményezettet a köztartozással csökkentett összeg illeti meg, a visszatartott támogatásnak megfelelő összegű tartozás az átutalással egyidejűleg megfizetettnek minősül. A támogatás visszatartásáról a kincstár tájékoztatja a kedvezményezettet és a támogatót, illetve az MVH a kedvezményezettet. A visszatartás a kedvezményezett – a támogatás megszerzése érdekében vállalt – kötelezettségeit nem érinti.
 
-(7) A (6) bekezdésben foglalt visszatartásról a kedvezményezettet a támogatást nyújtó szerv írásban értesíti. A támogatást nyújtó szerv a visszatartott összegből 8 napon belül utalja át a köztartozás jogosultjának a kedvezményezettel szemben fennálló követelését. Ha a folyósítandó támogatás összege a kedvezményezettet terhelő köztartozások mindegyikére nem nyújt fedezetet, azt a támogatást nyújtó szerv a köztartozások arányában utalja át a jogosultaknak.
+(7) Az adóhatóság (6) bekezdés szerinti kincstárnak, illetve MVH-nak történő adatszolgáltatásának alapja a kedvezményezett adóazonosító száma, melyet a kincstár, illetve az MVH adóhatóságnak megküldött megkeresése tartalmaz.
 
 (8) Az európai uniós forrásból származó támogatásból megvalósuló program kedvezményezettjével kötött szerződésben biztosítani kell, hogy a (2) bekezdésben írt feltételek teljesítésének elmaradása esetén a kedvezményezett haladéktalanul köteles visszafizetni a nem rendeltetésének és céljának megfelelően felhasznált közpénzeket, európai uniós forrásból származó támogatást, központi költségvetési juttatást és fejezeti kezelésű célelőirányzati juttatást. A rendeltetés- és célellenesen felhasznált összegek adók módjára behajtandók.
 
@@ -506,7 +506,7 @@ látja el.
 
 (7) A kincstár által kezdeményezett, az önkormányzatokkal kapcsolatos adósságrendezési eljárásban a kincstár teljes jogkörrel eljár a Magyar Állam képviseletében.
 
-(8) A kincstár a 64/A–64/D. §-ok alapján felülvizsgálja a helyi önkormányzatokat megillető, a központi költségvetésből származó források igénybevételének és elszámolásának szabályszerűségét (a továbbiakban: felülvizsgálat), melynek során érvényesíti az Állami Számvevőszéknek az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény (a továbbiakban: ÁSZ törvény) 2. §-ának (5) bekezdése alapján végzett ellenőrzés során megállapított eltéréseket is, továbbá intézkedik a megállapított visszafizetési kötelezettség, illetve pótlólagos támogatás pénzügyi rendezéséről.
+(8) A kincstár a 64/A–64/D. §-ok alapján felülvizsgálja a helyi önkormányzatokat megillető, a központi költségvetésből származó források igénybevételének és elszámolásának szabályszerűségét (a továbbiakban: felülvizsgálat), melynek során érvényesíti az Állami Számvevőszék ellenőrzésével megállapított eltéréseket is, továbbá intézkedik a megállapított visszafizetési kötelezettség, illetve pótlólagos támogatás pénzügyi rendezéséről.
 
 (9) A kincstár az (1) bekezdés p) pontja szerinti feladatai ellátásához az a) pont szerinti nyilvántartások adatait is felhasználja. Amennyiben a kötelezettségvállalás bejelentés kifizetésre vonatkozó adatai nem a bejelentésnek megfelelően teljesülnek, a kincstár rendelkezésre állási díjat számít fel jogszabályban szabályozott módon.
 
@@ -547,11 +547,9 @@ látja el.
 
 (12) A kincstár a kötelezett külön rendelkezése nélkül teljesíti – külön jogszabályban meghatározott számlakörben – a Magyar Állammal, a 18/B. § (4) bekezdésében, valamint a 18/C. § (6) bekezdésében (ide nem értve az önkormányzati családtámogatási folyószámlát), valamint (16)–(17) bekezdésében meghatározott szervezetekkel szemben benyújtott hatósági átutalást és átutalási végzésen alapuló átutalást.
 
-(13) A kincstár vagy a támogató – a 13/A. § (5) és (6) bekezdésében foglaltak végrehajtása érdekében – a Kormány rendeletében meghatározottak szerint a költségvetési támogatások kedvezményezettjeiről a (14) bekezdésben felsorolt adatokat szolgáltat az állami adóhatóság és a vámhatóság részére.
+(13) A kincstár – a 13/A. § (5) és (6) bekezdésében foglaltak végrehajtása érdekében – a támogató és az állami adóhatóság adatszolgáltatása alapján a támogatási jogviszony fennállásáig kezeli a kedvezményezett nevére (megnevezésére), lakhelyére (székhelyére) és adóazonosító számára, valamint az esedékessé vált és meg nem fizetett köztartozás jogcímére és összegére vonatkozó adatokat.>
 
-(14) A (13) bekezdésben meghatározott adatközlés a kedvezményezett nevére (megnevezésére), lakhelyére (székhelyére) és adószámára, adóazonosító jelére terjed ki.
-
-(15) Az adóhatóságok a (13)–(14) bekezdés szerinti adatközlés alapján a Kormány rendeletében meghatározottak szerint kötelesek jelezni az állami támogatások utalványozóinak és a kincstárnak, ha a támogatások kedvezményezettjeinél esedékessé vált és a 13/A. § (9) bekezdésben meghatározott idő alatt meg nem fizetett köztartozás keletkezett, a köztartozás jogcímét és összegét, illetve azt is, ha a köztartozást megfizették.
+(14)–(15)
 
 (16) Az Országgyűlés és a Kormány által alapított közalapítványok az államháztartás alrendszereiből származó pénzeszközeiket a kincstárban vezetett pénzforgalmi számlán kötelesek tartani azok felhasználásáig. Ezen pénzeszközökből származó, átmenetileg szabad pénzeszközeiket a közalapítványok kizárólag a kincstár hálózatában értékesített állampapírok vásárlásával hasznosíthatják. Ezen közalapítványok egyéb forrásból származó pénzeszközeiket is kezelhetik a kincstárban vezetett pénzforgalmi számlájukon.
 
@@ -1365,7 +1363,7 @@ kell érteni.
 
 (2)
 
-64/D. § (1) A helyi önkormányzatok központi költségvetésből származó, a helyi önkormányzatok támogatásait meghatározó fejezetben szereplő támogatásai és hozzájárulásai év végi elszámolása szabályszerűségének felülvizsgálatát a kincstár a tárgyévet követő év december 31-éig – többcélú kistérségi társulások esetében a tárgyévet követő második év június 30-áig – megkezdi a (2) bekezdés szerinti felhívás kibocsátásával, illetve a helyszíni felülvizsgálatról szóló értesítés megküldésével. Több évre kiterjedő támogatás esetében a lezárást követő éves elszámolás keretében a felülvizsgálat a teljes támogatási időszakra irányul. A felülvizsgálat során a kincstár az Állami Számvevőszéknek az ÁSZ törvény 25. §-ának (1) bekezdése szerinti jelentéseit is figyelembe veszi – az ÁSZ törvény 2. §-ának (5) bekezdése szerinti ellenőrzések alapján a tárgyévre és az azt megelőző, a Ptk. szerinti általános elévülési időn belüli év(ek)re megállapított – az önkormányzatot megillető, pótlólagos költségvetési támogatások, illetve a jogtalanul igénybe vett és az Állami Számvevőszék megállapítására vissza nem fizetett költségvetési támogatások esetében.
+64/D. § (1) A helyi önkormányzatok központi költségvetésből származó, a helyi önkormányzatok támogatásait meghatározó fejezetben szereplő támogatásai és hozzájárulásai év végi elszámolása szabályszerűségének felülvizsgálatát a kincstár a tárgyévet követő év december 31-éig – többcélú kistérségi társulások esetében a tárgyévet követő második év június 30-áig – megkezdi a (2) bekezdés szerinti felhívás kibocsátásával, illetve a helyszíni felülvizsgálatról szóló értesítés megküldésével. Több évre kiterjedő támogatás esetében a lezárást követő éves elszámolás keretében a felülvizsgálat a teljes támogatási időszakra irányul. A felülvizsgálat során a kincstár az Állami Számvevőszék jelentését is figyelembe veszi – az Állami Számvevőszék ellenőrzése alapján a tárgyévre és az azt megelőző, a Ptk. szerinti általános elévülési időn belüli év(ek)re megállapított – az önkormányzatot megillető, pótlólagos költségvetési támogatások, illetve a jogtalanul igénybe vett és az Állami Számvevőszék megállapítására vissza nem fizetett költségvetési támogatások esetében.
 
 (2) Amennyiben a kincstár a felülvizsgálat során a helyi önkormányzat által, az elszámolás során közölt adatoktól eltérést tár fel, akkor tizenöt napos határidő tűzésével felhívja az önkormányzatot elszámolásának módosítására. A felhívás tartalmazza az Állami Számvevőszék által az önkormányzat vonatkozásában megállapított (1) bekezdés szerinti eltéréseket is. Az önkormányzat módosításának elmaradása esetén az eredeti adatszolgáltatása marad irányadó.
 
@@ -2080,7 +2078,7 @@ szükséges.
 
 (2) Az államháztartás körébe tartozik az állami vagyon, az a vagyon, amelynek tulajdonjogát törvény köztestületre ruházta, a helyi önkormányzatok, a helyi kisebbségi önkormányzatok és a társadalombiztosítás vagyona.
 
-(3) A vagyonnal felelős módon, rendeltetésszerűen kell gazdálkodni. E gazdálkodást az Országgyűlés — az Állami Számvevőszék útján — ellenőrzi.
+(3) A vagyonnal felelős módon, rendeltetésszerűen kell gazdálkodni.
 
 104/A. § (1) Az államháztartás alrendszereihez kapcsolódó vagyonból – közhasznú társaság csak a külön törvényben meghatározott közhasznú szervezetként hozható létre.
 
@@ -2439,7 +2437,7 @@ szükséges.
 
 (2) Az államháztartás kontrollja – mely kiterjed az államháztartás valamennyi alrendszerére – külső ellenőrzés, kormányzati ellenőrzés és a belső kontrollrendszer keretében történik.
 
-120/A. § (1) Az államháztartás külső ellenőrzésével kapcsolatos feladatokat az Állami Számvevőszék látja el, melynek feladatait, hatáskörét és szervezetét külön törvény állapítja meg.
+120/A. § (1) Az államháztartás külső ellenőrzésével kapcsolatos feladatokat az Állami Számvevőszék látja el.
 
 (2) A kormányzati ellenőrzést a kormány által erre kijelölt szerv tevékenysége útján kell ellátni.
 
@@ -2766,7 +2764,7 @@ szükséges.
 
 - a) a kincstári rendszer működésének, a kincstári gazdálkodásnak a részletes szabályait; az előirányzat-gazdálkodás, az előirányzat-felhasználás és a felhasználás ütemezésének, a bevételek fogadásának és a kiadások teljesítésének, valamint a készpénzellátmányok felvételének és elszámolásának kincstári rendjét, ezen belül az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvényben biztosított működési keret vonatkozásában az általánostól eltérő, a képviselőcsoportok gazdálkodási önállóságát megtartó módon,
 - b) a kincstári ügyfelek fizetési számlarendjét, a számlavezetés szabályait, a munkabér és egyéb járandóságok számfejtési és folyósítási rendjét,
-- c) — az Állami Számvevőszék véleményének kikérésével — az államháztartás körébe tartozó egyéb szervek, az előirányzattal rendelkező jogi személyiséggel nem rendelkező költségvetési egységek költségvetési gazdálkodásának számviteli rendjét, az államháztartás alrendszereiből támogatásban részesülő államháztartáson kívüli szervezetek esetében a támogatás elszámolásának számviteli rendjét, valamint a kincstár számviteli rendjét,
+- c) az államháztartás körébe tartozó egyéb szervek, az előirányzattal rendelkező jogi személyiséggel nem rendelkező költségvetési egységek költségvetési gazdálkodásának számviteli rendjét, az államháztartás alrendszereiből támogatásban részesülő államháztartáson kívüli szervezetek esetében a támogatás elszámolásának számviteli rendjét, valamint a kincstár számviteli rendjét,
 - d) a kincstár és a kincstári körbe tartozók által teljesítendő adatszolgáltatások körét, szabályait,
 - e) az államháztartás osztályozási rendjének és a 116. §-ban említett mérlegek összeállításának részletes szabályait,
 - f) az igazságügyért felelős miniszterrel egyetértésben a törzskönyvi nyilvántartásba bejegyzendő további adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének szabályait, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, valamint a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait,

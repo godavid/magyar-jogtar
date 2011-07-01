@@ -573,7 +573,7 @@ Az Országgyűlés e célok megvalósítása érdekében a nemzeti és etnikai k
 
 (5) A fizetőképesség helyreállítása érdekében az országos önkormányzat köteles felfüggeszteni – kötelező feladata ellátásának kivételével – egyéb feladatai finanszírozását.
 
-39/G. § (1) Az országos önkormányzat gazdálkodását, továbbá az állami költségvetésből nyújtott támogatás, illetve az állam által meghatározott célra ingyenesen juttatott vagyon felhasználását az Állami Számvevőszék ellenőrzi. Az országos önkormányzat a saját és intézményei pénzügyi ellenőrzését jogszabályban meghatározott képesítésű belső ellenőr útján látja el, önállóan vagy más országos önkormányzattal közösen.
+39/G. § (1) Az országos önkormányzat a saját és intézményei pénzügyi ellenőrzését jogszabályban meghatározott képesítésű belső ellenőr útján látja el, önállóan vagy más országos önkormányzattal közösen.
 
 (2) Az országos önkormányzat köteles pénzügyi bizottságot létrehozni. A pénzügyi bizottság feladata az országos önkormányzatnál és intézményénél különösen: az éves költségvetési tervezetnek, a féléves és éves beszámoló tervezetének véleményezése, a pénzügyi folyamatok figyelemmel kísérése és értékelése, a pénzügyi döntések (különösen hitelfelvételek) megalapozottságának vizsgálata, a pénzügyi jogszabályok és belső szabályzatok hatályosulásának vizsgálata. A bizottság a vizsgálatának megállapításait haladéktalanul a közgyűlés elé terjeszti. A közgyűlés a jelentésről soron kívül dönt. A közgyűlés egyet nem értése vagy a döntés elmaradása esetén a bizottság megküldi a jelentést az Állami Számvevőszéknek.
 
@@ -804,7 +804,7 @@ köteles az átvevő kisebbségi önkormányzattal – a közoktatási törvény
 
 56. § A kisebbségek anyagi támogatásában hazai és külföldi szervezetek, alapítványok és magánszemélyek is közreműködhetnek.
 
-57. § (1) A kisebbségi önkormányzatok gazdálkodását az Állami Számvevőszék ellenőrzi.
+57. § (1)
 
 (2) A települési, illetve területi kisebbségi önkormányzat által fenntartott költségvetési szervek felügyeleti ellenőrzését a települési, illetőleg területi kisebbségi önkormányzat belső ellenőre vagy a helyi önkormányzat szerveinek gazdálkodását ellenőrző belső ellenőr végzi, és az ellenőrzés eredményéről tájékoztatja a települési, illetve területi kisebbségi önkormányzat testületét.
 

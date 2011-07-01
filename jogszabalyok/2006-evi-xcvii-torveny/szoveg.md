@@ -155,7 +155,7 @@ működik.
 
 (5) Az országos elnökség kizárólagos hatáskörébe tartozik
 
-- a) a 16. § (4) bekezdésében meghatározott fellebbezések elbírálása,
+- a)
 - b) az alapszabály eltérő rendelkezése hiányában a 2. § d) pontjában meghatározott véleményezési jogkörök gyakorlása, a 2/A. és 2/B. §-ban foglalt jogkörök gyakorlása, a 2/D. § (4) bekezdése szerinti fellebbezések elbírálása, továbbá a jogszabályban vagy az alapszabályban más kamarai szerv feladat- és hatáskörébe nem utalt feladatok ellátása, hatáskörök gyakorlása,
 - c) az alapszabályban meghatározott egyéb kamarai feladatok ellátása.
 
@@ -257,6 +257,8 @@ adja ki.
 
 14/A. § (1) Egészségügyi tevékenységet – jogszabályban megállapított egyéb feltételek mellett – a (2) bekezdésben meghatározott kivételekkel csak az végezhet, aki tagja az adott tevékenység végzésének feltételeként előírt szakképesítés szerint illetékes szakmai kamarának.
 
+(1a) A nem orvos- és egészségtudomány képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzés keretében egészségügyi szakképesítést szerzett egészségügyi dolgozók esetében az (1) bekezdés szerint illetékes szakmai kamara a Magyar Orvosi Kamara.
+
 (2) Kamarai tagság nélkül is végezhető az (1) bekezdésben meghatározott tevékenység, ha azt olyan személy végzi, aki külön jogszabályban meghatározottak szerint ideiglenes működési nyilvántartásba vétellel, tevékenységre jogosító engedély kiadásával vagy előzetes bejelentés alapján jogot szerzett arra, hogy a működési nyilvántartásba történő felvétel nélkül egészségügyi tevékenységet végezzen Magyarországon.
 
 (3) Aki egészségügyi tevékenységet köztisztviselői vagy kormánytisztviselői (a továbbiakban együtt: közszolgálati) jogviszony keretében eljárva, nem kizárólag egészségügyi képesítéshez kötött munkakörben végez, kérheti kamarai tagsága szüneteltetését, vagy – amennyiben kamarai tagsággal nem rendelkezik – e jogviszonya keretében az egészségügyi tevékenységet kamarai tagság nélkül is végezheti. Ha a közszolgálati jogviszonyban álló személy további – nem közszolgálati – jogviszonyban is egészségügyi tevékenységet végez vagy kíván végezni, e további jogviszonyában az egészségügyi tevékenység végzés feltétele a kamarai tagság. Ez utóbbi esetben a közszolgálati jogviszony keretében végzett egészségügyi tevékenységgel összefüggésben valamennyi kamarai tagságból eredő jog és kötelezettség szünetel.
@@ -327,6 +329,20 @@ adja ki.
 - d) a tag kamarai tagsági jogviszonyból eredő jogával vagy kötelezettségével összefüggésben keletkezett adatát.
 
 (2) Az (1) bekezdés szerinti adatokat a tagsági jogviszony megszűnését követő öt év elteltével törölni kell.
+
+### V/A. Fejezet — KÖZIGAZGATÁSI HATÓSÁGI ÜGYEK INTÉZÉSE
+
+19/B. § (1) A szakmai kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el a következő ügyekben (a továbbiakban: kamarai hatósági ügy):
+
+- a) felvétel a szakmai kamarába,
+- b) a kamarai tagság megszüntetése, kivéve, ha a kamarai tagság kizárás vagy az egészségügyi dolgozó halála miatt szűnik meg,
+- c) a kamarai tagság szüneteltetése.
+
+(2) Ha a szakmai kamara a kamarai tagság megszűnési okáról tudomást szerez, az (1) bekezdés b) pontja alapján a kamarai tagság megszüntetése iránti eljárást hivatalból megindítja.
+
+(3) A szakmai kamara a (2) bekezdés szerinti eljárás során nyilatkozattételre és adatszolgáltatásra kötelezheti az ügyfelet.
+
+(4) A kamarai hatósági ügyben első fokon a területi szervezet elnöksége, másodfokon az országos elnökség jár el.
 
 ### VI. Fejezet — FELELŐSSÉGI SZABÁLYOK
 
@@ -645,6 +661,8 @@ fedezik.
 
 32. § (1) A kamarai tagsággal nem rendelkező egészségügyi dolgozó, ha egészségügyi tevékenységet 2011. június 1-jétől is végezni kíván – a 14/A. § (2)–(5) bekezdésében foglalt kivételekkel –, 2011. május 31-éig kéri a szakmai kamarába történő felvételét.
 
+(1a) Az (1) bekezdéstől eltérően a 14/A. § (1a) bekezdésében szereplő személyek, amennyiben egészségügyi tevékenységet kívánnak végezni, 2011. augusztus 31-éig kérhetik a kamarába történő felvételt.
+
 (2) Az (1) bekezdés szerinti kérelemben nyilatkozni kell a 14. § (1) bekezdésének a)–c) pontjaiban foglalt feltételek meglétéről. A 14. § (1) bekezdés e) pontjában foglalt feltétel első alkalommal, e törvény erejénél fogva teljesítettnek tekintendő, azzal, hogy 2011. május 31. napjáig tagsági kérelmet benyújtó személy a 33. § (1) bekezdés alapján megalkotandó új alapszabály megalkotásától számított 30 napon belül a kamarai tagsági viszonyáról lemondhat akként, hogy őt a kamarába történt felvétele és a tagságról történt lemondása közötti időszakra tagdíjfizetési kötelezettség nem terheli.
 
 (3) Az (1) bekezdésben meghatározott határidőn belül benyújtott felvételi kérelem alapján létesülő tagsági jogviszony a kérelem benyújtásának napjával jön létre. Azon egészségügyi dolgozó tekintetében, aki az (1) bekezdés szerinti tagfelvételi kérelmet az (1) bekezdésben meghatározott határidőben benyújtotta, a kérelem jogerős elbírálásáig a 14/A. § (1) bekezdése szerinti követelmény teljesítettnek tekintendő.
@@ -684,6 +702,8 @@ fedezik.
 (4) Az OET a Módtv. hatálybalépését követő 60. napon folyamatban lévő, etikai döntés felülvizsgálatára irányuló perek iratanyagát a Módtv. hatálybalépésétől számított 75 napon belül átadja a feladatkör szerint érintett szakmai kamara országos etikai bizottságának. Az etikai döntés felülvizsgálatára irányuló közigazgatási perben az OET perbeli jogutódja a szakmai kamara.
 
 (5) A OET és a MET-ek 2011. június 16-án jogutód nélkül megszűnnek, ezzel egyidejűleg tagjaik megbízatása is megszűnik.
+
+33/C. § Illetékmentes az egészségügyben működő szakmai kamarai tagsági viszony létesítésére irányuló, 2011. április 1. és 2011. június 30. között kezdeményezett eljárás azzal, hogy az egyes egészségügyi tárgyú törvények módosításról szóló 2011. évi LXXXI. törvény hatálybalépése előtt, de 2011. március 31-ét követően kezdeményezett eljárásokban megfizetett eljárási illeték visszatérítése – a megfizetés tényének igazolása mellett – az állami adóhatóságnál kérhető. A visszatérítés során az állami adóhatóság az adózás rendjéről szóló törvény szerinti adó-visszatérítés szabályai szerint jár el.
 
 34. § Felhatalmazást kap az egészségügyért felelős miniszter, hogy az Eütv. szerinti kötelező továbbképzés szervezője tevékenységének az egészségügyben működő szakmai kamarák általi rendszeres minősítésére, a minősítés közzétételére és a minősítés alapján megtehető javaslattételre vonatkozó részletes szabályokat rendeletben megállapítsa.
 

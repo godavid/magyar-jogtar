@@ -343,7 +343,7 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 
 12. § (1) A megyében a területfejlesztési feladatok összehangolására megyei területfejlesztési tanács működik. A megyei területfejlesztési tanács jogi személy, nyilvántartására vonatkozóan a 10/A. § (2) bekezdésének vonatkozó szabályai az irányadók, székhelye a megyeszékhely város.
 
-(2) A megyei területfejlesztési tanácsok működésükkel kapcsolatos gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni az e törvényben meghatározott sajátosságok figyelembevételével. A feladatellátásukkal kapcsolatos beszámolási kötelezettségüket – figyelemmel a Kormánynak az Országgyűlés számára a 6. § g) pontjában előírt beszámolási kötelezettségére – a miniszternek kötelesek a miniszter rendeletében meghatározott módon teljesíteni. Gazdálkodásukat – célszerűségi szempontból is – az Állami Számvevőszék ellenőrzi.
+(2) A megyei területfejlesztési tanácsok működésükkel kapcsolatos gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni az e törvényben meghatározott sajátosságok figyelembevételével. A feladatellátásukkal kapcsolatos beszámolási kötelezettségüket – figyelemmel a Kormánynak az Országgyűlés számára a 6. § g) pontjában előírt beszámolási kötelezettségére – a miniszternek kötelesek a miniszter rendeletében meghatározott módon teljesíteni.
 
 (3) A megyei területfejlesztési tanács működéséhez szükséges pénzügyi fedezet biztosításával kapcsolatosan a 16. § (4) bekezdésében foglaltak az irányadók.
 

@@ -490,7 +490,7 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 
 (8) A (7) bekezdés alatti termékek gyógyszerré történő átminősítésének feltételeit külön jogszabály állapítja meg.
 
-(9) A 2011. március 31-én már forgalomban lévő, növényi összetevőt is tartalmazó gyógyszernek nem minősülő gyógyhatású anyagok és készítmények gyógyhatásra való hivatkozással lejárati idejükig, de legkésőbb 2013. április 1. napjáig forgalmazhatóak.
+(9) A 2011. március 31. napján már forgalomban lévő olyan gyógyszernek nem minősülő gyógyhatású anyagok és készítmények, amelyek valamennyi sajátosságukat figyelembe véve a hagyományos növényi gyógyszerek kategóriájába sorolhatók, gyógyhatásra való hivatkozással lejárati idejükig, de legkésőbb 2013. április 1. napjáig forgalmazhatóak.
 
 (10) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a 25/B. § szerinti díj kezelésére, nyilvántartására és megosztására vonatkozó szabályokat – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg.
 
@@ -501,7 +501,8 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 - c) az Európai Parlament és a Tanács 2004/27/EK irányelve (2004. március 31.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv módosításáról;
 - d) az Európai Parlament és a Tanács 2004/10/EK (2004. február 11.) irányelve a helyes laboratóriumi gyakorlat alapelveinek alkalmazására és annak a vegyi anyagokkal végzett kísérleteknél történő alkalmazásának ellenőrzésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezések közelítéséről;
 - e) a Bizottság 2003/94/EK (2003. október 8.) irányelve az emberi felhasználásra szánt gyógyszerek és az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások megállapításáról;
-- f) a Bizottság 2005/28/EK (2005. április 8.) irányelve a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében.
+- f) a Bizottság 2005/28/EK (2005. április 8.) irányelve a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében;
+- g) a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tekintetében a 2001/82/EK és a 2001/83/EK irányelvek módosításáról szóló 2009. június 18-i 2009/53/EK európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -686,8 +687,8 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 | III.E. | Egyes gyártási tételek felhasználhatóságának meghosszabbítása |  |  |  |  |  |  | 27 000 |
 | III.F. | A forgalomba hozatali engedélytől való eltérés engedélyezése egyes gyártási tételek esetén |  |  |  |  |  |  | 27 000 |
 | III.G. | Vizsgálati készítménnyel végzendő klinikai vizsgálat az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálatáról és a helyes klinikai gyakorlat alkalmazásáról szóló 35/2005. (VIII. 26.) EüM rendelet 2. §-a (1) bekezdésének q) pontja szerinti nem kereskedelmi vizsgálat kivételével |  |  |  |  |  |  |  |
-| III.G.1. |  | Engedélyezése |  |  |  |  |  | 450 000 |
-| III.G.2. |  | Klinikai vizsgálat engedélyének módosítása |  |  |  |  |  | 90 000 |
+| III.G.1. |  | Engedélyezése |  |  |  |  |  | 580 000 |
+| III.G.2. |  | Klinikai vizsgálat engedélyének módosítása |  |  |  |  |  | 110 000 |
 | III.H. | Gyógyszergyártási engedély |  |  |  |  |  |  |  |
 | III.H.1. |  | Helyszíni ellenőrzése (telephelyenként) |  |  |  |  |  | 450 000 |
 | III.H.2. |  | Gyógyszergyártási engedély kiadása |  |  |  |  |  | 225 000 |

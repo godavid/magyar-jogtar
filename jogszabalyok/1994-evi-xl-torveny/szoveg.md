@@ -280,7 +280,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (9) Az Akadémia – kapcsolódva az államháztartás rendjéhez – megadja a központi költségvetés tervezéséhez és az annak végrehajtásáról szóló beszámolóhoz szükséges információkat.
 
-(10) Az Akadémia és az akadémiai költségvetési szervek gazdálkodását az Állami Számvevőszék ellenőrzi.
+(10)
 
 21. § (1) Az akadémiai költségvetési szervek körébe tartoznak:
 

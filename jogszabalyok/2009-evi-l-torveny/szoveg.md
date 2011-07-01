@@ -110,7 +110,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - a) a MOKK rendszerébe beviszi és minősített elektronikus aláírással, valamint minősített időbélyegzővel látja el vagy
 - b) az (1) bekezdés b) pontja szerinti esetben legalább közepes vagy magas biztonsági szinten történő azonosítás mellett az ügyfélkapuján belépve a MOKK rendszerébe beviszi.
 
-(3) A jogi képviselővel rendelkező fél és a jogi személy fél beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
+(3) A jogi képviselővel rendelkező fél és a vállalkozás és egyéb jogi személy beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
 
 (4) Az (1) bekezdés a) pontja szerint, vagy az (1) bekezdés b) pontja szerinti esetben az ügyfélkapun magas biztonsági szinten történő azonosítás mellett belépve kell benyújtani
 
@@ -161,7 +161,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (4)
 
-(5) Vállalkozás és jogi képviselővel rendelkező fél részére az iratokat – a (2) bekezdésben meghatározott eset kivételével – a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a hivatalos szerv hivatalos iratainak kézbesítésére vonatkozó szabályok szerint, elektronikus úton kell kézbesíteni. Az elektronikus iraton minősített elektronikus aláírást és minősített időbélyegzőt kell elhelyezni.
+(5)
 
 ### Egyéb általános szabályok
 
@@ -238,13 +238,13 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - d) a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt közjegyző vagy bíróság előtt fizetési meghagyásos eljárás vagy per már folyamatban van [Pp. 128. §], illetve annak tárgyában a fizetési meghagyás már jogerőre emelkedett vagy már jogerős ítéletet hoztak [36. § (1) bekezdés, Pp. 229. §];
 - e) a félnek nincs perbeli jogképessége (Pp. 48. §);
 - f) a jogosult a 15. § (1) bekezdése ellenére kézbesítési megbízottat nem jelölt meg, vagy a jogosult a fizetési meghagyás hirdetményi kézbesítését kéri;
-- g) a kötelezettnek a meghagyást belföldi címen ismételten nem lehet kézbesíteni, mert meghalt (megszűnt), a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött [(3) bekezdés];
+- g) a kötelezettnek a meghagyást belföldi címen ismételten nem lehet kézbesíteni, mert meghalt (megszűnt), a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött [(3) és (4) bekezdés];
 - h) a jogosult követelése idő előtti vagy – az elévülés esetét ide nem értve – bírói úton nem érvényesíthető;
 - i) külön jogszabály az igény polgári eljárás útján történő érvényesítésére határidőt állapít meg,
   - ia) amely határidő jogvesztő, és ezt a jogosult elmulasztotta,
   - ib) amely határidő elmulasztása esetén a fél igazolással élhet, és a jogosult ezt a határidőt elmulasztotta, de igazolási kérelmet nem terjeszt elő, vagy azt a közjegyző elutasítja;
 - j) a jogi képviselő által benyújtott kérelem nem tartalmazza a 20. § (1) bekezdésében foglaltakat vagy elmulasztották az eljárási díj megfizetésére vonatkozó kötelezettség teljesítését;
-- k) a jogi képviselővel rendelkező fél vagy a jogi személy fél kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §); vagy
+- k) a jogi képviselővel rendelkező fél vagy a vállalkozás és egyéb jogi személy fél kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §); vagy
 - l) a jogosult a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem, vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el.
 
 (2) Ha a meghagyást a kötelezettnek halála miatt vagy azért nem lehet kézbesíteni, mert a kötelezett a bejelentett címen ismeretlen, vagy onnan ismeretlen helyre költözött, erről a jogosultat értesíteni kell, és egyidejűleg fel kell hívni, hogy a kézbesítéshez szükséges adatokat harminc napon belül jelentse be.
@@ -516,7 +516,7 @@ kell megfizetni.
 
 54. § (1) A végrehajtási lap visszavonása iránti kérelem előterjesztésére a végrehajtási kérelem előterjesztésére, a visszavonásról rendelkező végzés megküldésére pedig a végrehajtási lap megküldésére vonatkozó szabályokat kell alkalmazni azzal, hogy végrehajtási lap visszavonása iránti papír alapú kérelmet nem űrlapon kell előterjeszteni.
 
-(2) A jogi személy fél és a jogi képviselővel rendelkező fél a fellebbezését kizárólag elektronikus úton terjesztheti elő, kivéve, ha a fellebbezéshez mellékletet csatol.
+(2) A vállalkozás és egyéb jogi személy fél és a jogi képviselővel rendelkező fél a fellebbezését kizárólag elektronikus úton terjesztheti elő, kivéve, ha a fellebbezéshez mellékletet csatol.
 
 (3) A végrehajtási eljárás során előterjesztett fellebbezés esetén a közjegyző az iratok felterjesztése helyett a MOKK számítógépes rendszerén keresztül előállított aktanyomatot küldhet a bíróságnak a fellebbezés elbírálása szempontjából szükséges iratokról. Az aktanyomatra a 38. § (4) bekezdését megfelelően alkalmazni kell.
 

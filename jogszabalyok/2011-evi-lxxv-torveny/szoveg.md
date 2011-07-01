@@ -52,7 +52,29 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 6–9. §
 
-10. §
+10. § (1) A kötelezett által lakott, lakáshitel-szerződésből eredő tartozást biztosító zálogjoggal terhelt lakóingatlan a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 257. § (2) és (3) bekezdése szerinti megállapodás alapján, a Ptk. 257. és 258. § alkalmazásával 2011. október 1-jéig csak akkor értékesíthető és tehető közzé az árverési hirdetmény az állami adóhatóság által üzemeltetett elektronikus árverési felületen, ha
+
+- a) a kötelezett az állami adóhatóságnál személyesen megtett és írásba foglalt nyilatkozatában az értékesítéshez hozzájárult, vagy
+- b) a zálogjog olyan lakáshitel-szerződésből eredő hiteltartozást biztosít, amely esetében a hitelösszeg a hitelfolyósításkor meghaladta a 20 millió Ft-ot, a lakóingatlan lakáshitel-szerződésben meghatározott forgalmi értéke (vagy ha a lakáshitel-szerződés erről nem rendelkezett, a hitelfolyósításkori forgalmi értéke) pedig a 30 millió Ft-ot.
+
+(2) A kötelezett az (1) bekezdés a) pontja szerinti nyilatkozatát az árverési hirdetmény közzétételét követően nem vonhatja vissza.
+
+(3) Az (1) bekezdés b) pontja szerinti esetben a hitelező által a megyében, fővárosban 2011. július 1-jétől 2011. október 1-jéig értékesítésre kijelölt lakóingatlanok számának a hitelezőnek a megyében, fővárosban a tárgynegyedév első napján meglévő, az (1) bekezdés b) pontja szerinti összes lakóingatlana számához viszonyított aránya nem haladhatja meg a 2%-ot. Ha az értékesítésre kijelölhető lakóingatlanok száma tört szám, a tört számot követő egész számnak megfelelő számú lakóingatlan jelölhető ki értékesítésre.
+
+(4) Ha a hitelező a lakáshitel-szerződésből eredő követelést olyan személyre vagy szervezetre engedményezi, akinek a tevékenységének ellenőrzése nem tartozik a Felügyelet hatáskörébe, az e követelést biztosító zálogjoggal terhelt, értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlan a kijelölést követő valamennyi negyedévben beleszámítandó az adott megyében, fővárosban kényszerértékesítésre kijelölt fedezeti ingatlanok számába.
+
+(5) Az értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlan értékesítését a hitelezőnek 2011. október 1-jéig kezdeményeznie kell.
+
+(6) Ha az (1) bekezdés b) pontja szerinti lakóingatlan értékesítésére vagy értékesítésének kezdeményezésére utóbb a lakáshitel-szerződésből eredő hiteltartozás megszűnése miatt nem kerül sor, a hitelező ehelyett másik, az (1) bekezdés b) pontja szerinti lakóingatlant jelölhet ki értékesítésre.
+
+(7) A hitelező az (1) bekezdés b) pontja szerinti lakóingatlanok értékesítésre történt kijelöléséről 2011. július 15. napjáig a következő adatok közlésével tájékoztatja a Felügyeletet:
+
+- a) a megyében, fővárosban 2011. július 1. napján meglévő összes (1) bekezdés b) pontja szerinti lakóingatlanának száma,
+- b) az értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlanok fekvése (település megnevezése), helyrajzi száma, lakáshitel-szerződésben meghatározott (ilyen szerződési feltétel hiányában a hitelfolyósításkori) forgalmi értéke és alapterülete lakóingatlanonkénti bontásban.
+
+(8) Az a hitelező, akinek a tevékenységének ellenőrzése nem tartozik a Felügyelet hatáskörébe, a (7) bekezdés szerinti adatszolgáltatást a fogyasztóvédelmi hatóság részére teljesíti.
+
+(9) A fogyasztóvédelmi hatóság jogosult eljárni a (8) bekezdés szerinti hitelezőkkel szemben a (3)–(7) bekezdésben foglaltak megsértése esetén. A fogyasztóvédelmi hatóság az Fgytv. szabályai szerint jár el. E rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
 #### 5. Záró rendelkezések
 
@@ -71,35 +93,15 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 13. § A 2. § szerinti kezességvállalás iránti igényt a pénzügyi intézmény a 2. § (2) bekezdés szerinti kormányrendelet hatálybalépését követő 15 napon belül írásban bejelenti az államháztartásért felelős miniszternek.
 
-14. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 303. § (1) bekezdésében a „2011. július 1-jéig” szövegrész helyébe a „2011. október 1-jéig” szöveg lép.
-
-(2) A Vht. 303. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) E § alkalmazásában lakáshitel-szerződés: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 2. számú melléklet III. Egyéb meghatározások 4. pontja szerinti fogyasztóval kötött,
-
-a) a Hpt. 2. számú melléklet III. Egyéb meghatározások 5.1. pontja szerinti lakáscélú hitel- vagy kölcsönszerződés, valamint az 5.2. pontja szerinti lakáscélú pénzügyi lízingszerződés, továbbá
-
-b) ingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett megkötött olyan hitel- vagy kölcsönszerződés, amely esetében az adós a folyósított kölcsön összegét a fedezetként lekötött lakóingatlan vásárlására, építésére, bővítésére, korszerűsítésére, felújítására vagy ezek egy részére fordította,
-
-ha a hitelfolyósításkor a hitelösszeg nem haladta meg a 20 millió Ft-ot vagy a lakóingatlannak a lakáshitel-szerződésben meghatározott (vagy ha a lakáshitel-szerződés erről nem rendelkezett, a hitelfolyósításkori) forgalmi értéke a 30 millió Ft-ot.”
-
-(3) A Vht. a következő 304. §-sal egészül ki:
-
-„304. § (1) A 303. §-nak a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvénnyel megállapított (1) és (9) bekezdését azokban a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben a kilakoltatás foganatosítására még nem került sor.
-
-(2) Ha a végrehajtó a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény hatálybalépésének napján
-
-a) már kézhez vette a lakóingatlan kiürítésének a rendőrség közreműködésével történő kikényszerítését elrendelő végzést vagy az árverési vevő (ingatlant átvevő) 154/A. § (10) bekezdése alapján előterjesztett kérelmét, illetve
-
-b) már elhalasztotta a lakóingatlan kiürítését a Vht.-nak a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2010. évi LXXXI. törvénnyel beiktatott 303. §-a vagy a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2011. évi XVIII. törvénnyel megállapított 303. §-a alapján,
-
-a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény hatálybalépését követő naptól kezdődően halasztja el.
-
-(3) Azon ügyekben, amelyekben nincs helye a 303. §-nak a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvénnyel megállapított (1) és (9) bekezdése alapján a lakóingatlan kiürítése ismételt elhalasztásának, 2011. július 1-jét követően kell a lakóingatlan kiürítése iránt intézkedni.”
+14. §
 
 15–16. §
 
-17. §
+17. § Hatályát veszti
+
+- a) a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 261. § (4) bekezdése,
+- b) a Polgári Törvénykönyv hatálybalépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet 83/A. §-a,
+- c) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16/A. §-a és 91. § (2) bekezdése.
 
 ### 1. melléklet a 2011. évi LXXV. törvényhez
 

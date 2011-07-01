@@ -921,7 +921,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 
 ### Ellenőrzés
 
-92. § (1) A helyi önkormányzat gazdálkodását (ideértve az Európai Unió által nyújtott és egyéb nemzetközi támogatások, valamint az ehhez kapcsolódó költségvetési támogatások felhasználását is) az Állami Számvevőszék ellenőrzi.
+92. § (1)
 
 (2) A helyi önkormányzatnak nyújtott európai uniós és az ahhoz kapcsolódó költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, a kormány által kijelölt szerv, a fejezetek ellenőrzési szervezetei, a kincstár, illetve az európai uniós támogatások irányító hatóságai és a kifizető hatóság képviselői is ellenőrizhetik.
 
@@ -1121,6 +1121,8 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 103/A. § (1) A területrész külterületét – eltérő megállapodás hiányában – figyelemmel az 56. § (4) bekezdésében megfogalmazott előzetes megállapodásra, a belterületi népességgel arányosan kell megállapítani.
 
 (2) A lakott területrész vagyonát – eltérő megállapodás hiányában – figyelemmel az 56. § (4) bekezdésében megfogalmazott előzetes megállapodásra, feladat- és népességarányosan kell meghatározni.
+
+103/B. § Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy a helyi sajátosságoknak megfelelően az általa megalkotott rendeletek előkészítésében való társadalmi részvétel szabályait rendeletben állapítsa meg.
 
 103/C. § (1) A 102. § (2) bekezdés alkalmazásában azokat a szervezeteket kell országos önkormányzati érdekképviseleti szervezeteknek tekinteni, amelyek közül
 

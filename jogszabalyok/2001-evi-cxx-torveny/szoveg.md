@@ -2552,7 +2552,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (2) Az Alap pénzeszközeit – a házipénztárt, a fizetési számlán tartott likviditási tartalékot, valamint a kifizetés lebonyolítására vagy más, az Alap működéséhez szükséges célra pénzforgalmi szolgáltatóhoz átutalt összeget kivéve – állampapírban vagy az MNB-nél elhelyezett betétben tarthatja.
 
-(3) Az Alap gazdálkodását az Állami Számvevőszék ellenőrzi.
+(3)
 
 (4) Az Alap kölcsönt vehet fel.
 
@@ -5130,7 +5130,7 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 (20) A Pénz- és Tőkepiaci Állandó Választottbíróság bevételei után társasági és helyi adót nem fizet.
 
-(21) A Pénz- és Tőkepiaci Állandó Választottbíróság gazdálkodását az Állami Számvevőszék ellenőrzi.
+(21)
 
 (22) A Pénz- és Tőkepiaci Állandó Választottbíróság beszámoló készítési és könyvvezetési kötelezettségét külön jogszabály állapítja meg.
 
