@@ -2030,21 +2030,9 @@ Ptk.261. § (1) Jelzálogjog esetén a zálogtárgy a zálogkötelezett birtoká
 
 (3) Nem lehet jelzálogjogot alapítani a dolog egy részén, közös tulajdonban álló dolognak a kötelezett tulajdonában lévő egész tulajdoni illetősége azonban zálogba adható. Ingatlan esetében jelzálogjog csak az ingatlan-nyilvántartásban önálló egységként nyilvántartott egész ingatlanra, illetőleg annak a kötelezett tulajdonában lévő egész tulajdoni illetőségére létesíthető.
 
-(4) Természetes személy – ide nem értve az egyéni vállalkozót – devizában nyilvántartott, vagy nyújtott (deviza alapú) kölcsönszerződéséből keletkező hitelezői követelés biztosítására, természetes személy tulajdonában álló ingatlanon, vagy ingatlannak természetes személy tulajdonában lévő tulajdoni illetőségére jelzálogjog nem alapítható, a felek ettől eltérő rendelkezése semmis.
+(4)
 
-Ptké.83/A. § (1) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 81. §-ával megállapított Ptk. 261. § (4) bekezdését a hatálybalépését követően kötött jelzálogjog alapítására irányuló szerződésre kell alkalmazni azzal, hogy a hatálybalépését megelőzően kötött jelzálogjoggal biztosított kölcsönszerződés vonatkozásában sincsen akadálya
-
-a) a követelés, illetve a tartozás tekintetében történő jogutódlásnak (engedményezés, tartozásátvállalás, a jogutódlás egyéb esetei),
-
-b) a szerződés módosításának,
-
-c) a követelés biztosítékául szolgáló ingatlanra bejegyzett jelzálogjogról történő lemondással egyidejűleg más ingatlanon jelzálogjog alapításának (fedezetcsere), vagy
-
-d) a szerződés megszüntetése és azonos vagy más hitelezővel a kötelezett által kötött új szerződés (kölcsönkiváltás) jelzálogjoggal való biztosításának,
-
-ha – a b) és d) pontban foglalt esetben – a biztosítandó követelés mértéke a korábbinál nem terhesebb.
-
-(2) A követelés mértéke a korábbinál nem terhesebbnek akkor tekinthető, ha annak összege – az alkalmazott árfolyamok különbözőségéből és az eredeti kölcsöntartozás megszüntetésével, illetve az azt kiváltó kölcsön folyósításával összefüggésben igazoltan felmerülő díjakból, költségekből adódó többletköveteléstől eltekintve – nem haladja meg az eredeti követelés még fennálló összegét.
+Ptké.83/A. §
 
 Ptk.262. § (1) Ingatlant csak jelzálogjog alapítása útján lehet elzálogosítani. Ingatlanra vonatkozó jelzálogjog alapításához az erre irányuló szerződésen felül a jelzálogjognak az ingatlan-nyilvántartásba való bejegyzése szükséges.
 
