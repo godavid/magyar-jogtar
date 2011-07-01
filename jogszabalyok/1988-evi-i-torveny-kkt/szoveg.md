@@ -162,7 +162,7 @@ alapvető jogai és kötelezettségei
 
 (3) A közút területén, a közút felett és mellett – a közúti jelzőtáblák megtervezésének, alkalmazásának és elhelyezésének körülményeiről szóló miniszteri rendeletben meghatározott területen belül – tilos elhelyezni olyan jelet, jelzést, egyéb tárgyat és berendezést, amely a közúti jelzésekkel – azok alakjával, színével – összetéveszthető, a láthatóságot akadályozza, alkalmas arra, hogy a közlekedők figyelmét elterelje, vagy a közlekedés biztonságát egyéb módon veszélyezteti. Tilos továbbá elhelyezni – a közút úttesten kívüli burkolatlan területe, a járda, a gyalogút és a kerékpárút kivételével – a közút területén, a közút felett, az út műtárgyán, az út tartozékán, közvilágítási-, villany-, telefonoszlopon – függetlenül attól, hogy a közvilágítási-, villany-, és telefonoszlop a közút úttesten kívüli burkolatlan területén, járdán, gyalogúton vagy kerékpárúton helyezkedik el –, valamint a közút lakott területen kívüli szakasza mellett reklámtáblát, reklámhordozót és egyéb reklámcélú berendezést. Ez utóbbi tilalom nem vonatkozik a 42/A. § (1) bekezdésének a) pontjában meghatározott távolságon kívül elhelyezett, 4 m2 felületet meg nem haladó reklámtáblára, reklámhordozóra és egyéb reklámcélú berendezésre, valamint az üzemanyagtöltő állomások területén elhelyezett cégjelzést, és üzemanyag árakat tartalmazó táblákra, továbbá azokra a – közvetlenül a közút mellett elhelyezett – berendezésekre, amelyek kizárólag a közlekedés biztonságát elősegítő közérdekű tájékoztatást tartalmaznak.
 
-(4) A közlekedési hatóság a (3) bekezdésben megállapított tilalom megszegőjét a jel, jelzés, reklámtábla, reklámhordozó, reklámcélú berendezés vagy egyéb tárgy eltávolítására kötelezi. A közút kezelője a közlekedési hatóság rendelkezése alapján az eltávolítást – a kötelezett költségére és veszélyére – elvégezheti, vagy elvégeztetheti.
+(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti –tulajdonosát, amelynek területén a (3) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, reklámcélú berendezés vagy egyéb tárgy eltávolítására és 500 000 forint összegű bírság fizetésére kötelezi. A bírság ismételten is kiszabható. A beszedett bírság összege a Magyar Köztársaság központi költségvetésének bevétele. Beszedéséről a kirovó hatóság gondoskodik.
 
 (5) A közút kezelője a hozzájárulása nélkül vagy attól eltérő módon az út területén elhelyezett reklámcélú tárgyat vagy berendezést a reklám célú tárgy tulajdonosának költségére eltávolíthatja.
 
@@ -456,7 +456,7 @@ a közlekedési hatóság adja ki.
 - h) a közúti közlekedési szolgáltatást vagy saját számlás szállítási tevékenységet végző járművek műszaki és környezetvédelmi tulajdonságaira, a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére, továbbá az ömlesztett áruk szállítására,
 - i) a nemzetközi kombinált árufuvarozást elősegítő kedvezményekre,
 - j) a nehéz tehergépkocsik közlekedésének korlátozására,
-- k) a biztonsági öv, a gyermekbiztonsági rendszer, a motorkerékpár-bukósisak és a mobil rádiótelefon használatára
+- k) a megengedett legnagyobb sebességre („gyorshajtás”), a biztonsági öv használatára, a továbbhaladás tilalmára („tilos jelzésen történő áthaladás”), és a járművezető szervezetében a szeszes ital fogyasztásából származó alkohol tilalmára („ittas vezetés”)
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
@@ -464,11 +464,13 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdésben foglalt valamely rendelkezés megsértőjével szemben 10 000 forinttól 800 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta egy év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j) pontjában foglalt valamely rendelkezés megsértőjével szemben 10 000 forinttól 800 000 forintig, a k) pontban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+
+(4a) A közúti forgalomban történő ellenőrzés során, ha a 20. § (1) bekezdés k) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
 
 (5) A bírságot a rendelkezés megsértéséért felelős köteles megfizetni. Amennyiben valamely rendelkezés megsértéséért többen is felelőssé tehetők, a külön jogszabályban meghatározott bírság összegét a jogsértésben való felelősségük arányában kötelesek megfizetni. Ha a felelősségük aránya nem állapítható meg, a bírságfizetési kötelezettség őket egyenlő arányban terheli. Nem állapítható meg a bírságfizetési kötelezettség a közúti szállítást végző működési körén kívül eső olyan elháríthatatlan ok esetén, amelyet az nem látott és ésszerű elvárhatóság mellett nem is láthatott előre.
 
-(6) A beszedett bírság a központi költségvetés központosított bevételét képezi. A kivetett bírság összegének megfizetése meghatározott számlára történő befizetéssel történik. A megfizetett bírság, illetőleg a pénzkövetelés biztosítás összegét a külön jogszabályban foglaltak szerint, az azt megállapító határozat jogerőre emelkedéséig az eljáró hatóságnak letétként kell kezelnie.
+(6) A beszedett bírság a központi költségvetés központosított bevételét képezi. A kivetett bírság összegének megfizetése meghatározott számlára történő befizetéssel történik. A megfizetett bírság, illetőleg a pénzkövetelés biztosítás összegét a külön jogszabályban foglaltak szerint, az azt megállapító döntés jogerőre emelkedéséig az eljáró hatóságnak letétként kell kezelnie.
 
 (7) Közúti forgalomban történő ellenőrzés esetén a járművet – a veszélyes áru, a gyorsan romló élelmiszer és az élő állat szállítmány feltartóztatására vonatkozó előírások megtartásával – a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az erre vonatkozó külön határozat kiadása nélkül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a biztosítási intézkedésekre vonatkozó feltételek szerint vissza lehet tartani. A jármű nem tartható vissza különösen abban az esetben, ha
 
@@ -477,7 +479,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (8) A jármű részére a visszatartás idejére várakozó helyet kell kijelölni és a jármű forgalmi engedélyét – az átvételét igazoló elismervény egyidejű kiállítása és a járművezető részére történő átadása mellett – a visszatartás időtartamára el kell venni. A külföldi hatóság által kiadott forgalmi engedélyt – ha azt a jogosult a visszatartás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz kell megküldeni.
 
-(9) A jármű vezetőjét a külön jogszabályban foglaltak szerint írásban tájékoztatni kell magyar, angol, német vagy orosz nyelven a (8) bekezdés szerint kijelölt várakozási helyről és annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására vonatkozó jogszabályi rendelkezésekről.
+(9) A jármű vezetőjét a külön jogszabályban foglaltak szerint írásban tájékoztatni kell magyar, angol, német vagy orosz nyelven a (4a) bekezdés szerint kiszabott bírságról, illetve a (8) bekezdés szerint kijelölt várakozási helyről valamint annak megközelítési útvonaláról, továbbá a bírságolási eljárás lefolytatására vonatkozó jogszabályi rendelkezésekről.
 
 (10) A jármű visszatartásából eredő kárért az eljáró hatóság felelősséggel nem tartozik.
 
@@ -504,6 +506,8 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 
 (14) Az e § alapján lefolytatott bírságolási eljárás során hozott döntéssel szemben előterjesztett fellebbezés esetén a fellebbezéssel nem támadott rendelkezés jogerős.
 
+(15) Amennyiben az eljáró hatóság a közúti ellenőrzés során megállapítja, hogy a jármű vezetőjének, vagy üzemben tartójának közigazgatási bírság tartozása áll fenn, a (7)–(10) bekezdésekben foglaltak szerint kell eljárni.
+
 21. § (1) A gépjármű üzemben tartója, illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személy felel azért, hogy az általa üzemeltetett, illetve használt gépjárművel
 
 - a) a megengedett legnagyobb sebességre,
@@ -517,6 +521,8 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 vonatkozó – külön jogszabályban meghatározott – egyes előírások betartásra kerüljenek.
 
 (2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval, illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben 30 000 forinttól 300 000 forintig terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
+
+(2a) Amennyiben a 20. § (1) bekezdés k) pontjában foglalt szabályszegést elkövető kiléte a helyszíni intézkedés során ismertté válik, a (2) bekezdésben meghatározott bírság helyett a jármű vezetőjével szemben a 20. § (4a) bekezdése szerint kell eljárni.
 
 (3) A (2) bekezdésben meghatározott közigazgatási bírság kiszabásának kizárólag a külön jogszabály szerinti technikai eszközzel készített és továbbított felvétellel dokumentált szabályszegés esetén van helye.
 
@@ -549,7 +555,84 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 21/B. § (1) A közigazgatási bírság kiszabására irányuló eljárás a szabálysértési eljárás ugyanazon jogsértés miatt történő lefolytatását nem érinti.
 
-(2) Helyszíni bírság, továbbá szabálysértési eljárásban pénzbírság nem szabható ki azzal a személlyel szemben, akivel szemben a szabálysértés alapjául szolgáló előírás megsértése miatt a 21. § (1) és (2) bekezdése alapján vagy a 21/A. § (2) bekezdése alapján közigazgatási bírság kiszabásának van helye.
+(2) Helyszíni bírság, továbbá szabálysértési eljárásban pénzbírság nem szabható ki azzal a személlyel szemben, akivel szemben a szabálysértés alapjául szolgáló előírás megsértése miatt a 21. § (1) és (2) bekezdése alapján vagy a 21/A. § (2) bekezdése alapján közigazgatási bírság kiszabásának van helye, vagy a 20. § (4a) bekezdése alapján bírságot szabtak ki.
+
+### A központi közlekedési közigazgatási bírságnyilvántartás
+
+21/C. § (1) A központi közlekedési közigazgatási bírságnyilvántartás (a továbbiakban: közigazgatási bírságnyilvántartás) célja a 20. §-ban meghatározott szabályszegések elkövetése alapján eljárás alá vont természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező szervezetre (a továbbiakban együtt: szabályszegőre), a szabályszegésre, továbbá a kiszabott bírság megfizetésére vonatkozó adatok nyilvántartása a közigazgatási eljárás gyors és pontos lefolytatása, a végrehajtási rendszer megerősítése, továbbá a nyilvántartásból történő adatszolgáltatás útján az érintett jogai gyakorlásának biztosítása.
+
+(2) A közigazgatási bírságnyilvántartás tekintetében az adatkezelői feladatokat a közlekedési hatóság látja el.
+
+21/D. § (1) A közigazgatási bírságnyilvántartás tartalmazza a nyilvántartott
+
+- a) természetes személyazonosító adatait [családi nevét és utónevét (utóneveit), születési családi nevét és utónevét (utóneveit), nemét, születési helyét és idejét, anyja születési nevét], állampolgárságát, lakó-, illetve tartózkodási helyét, előző családi és utónevét (neveit),
+- b) jogi személy vagy jogi személyiséggel nem rendelkező szervezet megnevezését, székhelyének (telephelyének) címét, cégjegyzék-, illetőleg nyilvántartási számát,
+- c) az eljáró hatóság döntése vagy a bíróság jogerős határozata szerint
+  - ca) a szabályszegés megnevezését,
+  - cb) a szabályszegés elkövetésének helyét, idejét,
+- d) a kiszabott bírság mértékét,
+- e) az alkalmazott intézkedést és annak mértékét,
+- f) a kiszabott bírság megfizetése, vagy a megállapított bírság, illetve pénzkövetelés biztosítás letétbe helyezése esetén annak tényét és időpontját, továbbá az azt átvevő szerv megnevezését,
+- g) a bírság meg nem fizetése esetén, az adók módjára történő behajtás elrendelésének tényét, az elrendelő szerv megnevezését, határozatának számát és keltét,
+- h) a bírság mértékének csökkentése esetén, az erről szóló határozatot hozó szerv megnevezését, határozatának számát és keltét.
+
+(2) A közigazgatási bírságnyilvántartás részére az (1) bekezdésben meghatározott adatokat az eljáró hatóság, illetve a bíróság jogszabályban meghatározott formában és módon közli.
+
+21/E. § (1) A nyilvántartó szerv a közigazgatási bírságnyilvántartásba felvett adatokat a bírság megfizetését, illetve bírságfizetési kötelezettség megszűnését követően hat hónapig kezeli.
+
+(2) Törölni kell a nyilvántartásból annak a személynek az adatait, akire vonatkozóan a nyilvántartási idő eltelt.
+
+21/F. § (1) A közigazgatási bírságnyilvántartásból törvényben meghatározott feladataik ellátása céljából adatok átvételére jogosult
+
+- a) a 20. § (11) bekezdésében, valamint a 21. § (4) bekezdésében meghatározott ellenőrző hatóságok a hatáskörükbe tartozó ügyeket érintően,
+- b) a rendőrség,
+- c) az ügyészség,
+- d) a bíróság.
+
+(2) Az (1) bekezdésben felsoroltakon kívül a közigazgatási bírságnyilvántartásból adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít a közigazgatási bírságnyilvántartás adatainak megismerésére.
+
+21/G. § (1) A közigazgatási bírságnyilvántartásból kérelemre teljesíthető adatszolgáltatás. A kérelemnek tartalmaznia kell az adatigénylő nevét vagy megnevezését, az adatigénylés célját és jogalapját.
+
+(2) Az adatszolgáltatást meg kell tagadni, ha
+
+- a) az jogszabályba ütközik,
+- b) a kérelem nem a jogosulttól származik,
+- c) a kérelemben megjelölt adatok személyazonosításra alkalmatlanok.
+
+(3) A nyilvántartó szerv a jogosultak részére az adatigénylés iránti kérelem kézhezvételétől számított nyolc napon belül teljesíti az adatszolgáltatást.
+
+(4) A nyilvántartó szerv az érintettnek a róla nyilvántartott személyes adatáról a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben foglaltak szerint ad tájékoztatást.
+
+(5) Az adatigénylés és a tájékoztatás iránti kérelem elektronikus úton is előterjeszthető.
+
+21/H. § Az adatkezelés jogszerűségének ellenőrzése érdekében a közigazgatási bírságnyilvántartásba a nyilvántartó szerv szakmai felügyeletét ellátó miniszter, az adatvédelmi biztos, illetve az általuk meghatalmazott személy, valamint a törvényességi felügyeletet ellátó ügyész tekinthet be.
+
+21/I. § A nyilvántartásban kezelt adatok statisztikai, illetve tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
+
+21/J. § (1) A közigazgatási bírságnyilvántartásból teljesített adatszolgáltatásokról adattovábbítási nyilvántartást kell vezetni.
+
+(2) Az adattovábbítási nyilvántartást a nyilvántartó szerv vezeti.
+
+(3) Az adattovábbítási nyilvántartás tartalmazza:
+
+- a) a szabályszegő adatait,
+- b) az adatkezelő nyilvántartási azonosítóját,
+- c) az adattovábbítás időpontját,
+- d) az adattovábbítás célját és jogalapját, valamint
+- e) az adatigénylő nevét vagy megnevezését.
+
+(4) A szolgáltatott adatok nem képezik az adattovábbítási nyilvántartás részét.
+
+(5) Az adattovábbítási nyilvántartásból az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság a nemzetbiztonság, a bűnmegelőzés vagy a bűnüldözés érdekében a rendőrség és a nemzetbiztonsági szolgálatok részére történt adatszolgáltatás esetén korlátozható vagy kizárható.
+
+(6) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
+
+- a) az adatvédelmi biztos,
+- b) bűncselekmény gyanúja esetén az eljáró nyomozó hatóság vagy ügyészség,
+- c) az adattovábbításban érintett szabálysértési hatóság vezetője,
+- d) a nemzetbiztonsági szolgálatok.
+
+(7) Az adattovábbítási nyilvántartást az adattovábbítástól számított öt évig meg kell őrizni.
 
 ### A közúti járművek üzemeltetésének
 

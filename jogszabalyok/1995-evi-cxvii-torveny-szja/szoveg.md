@@ -2557,7 +2557,7 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 3.2.1. a magánszemély a sportról szóló törvény alapján olimpiai járadék címén kap;
 
-3.2.2. a sportról szóló törvény alapján Gerevich Aladár-sportösztöndíjként, a nyugdíjas olimpiai és világbajnoki érmes sportolók és özvegyeik, valamint a kiemelkedő sporteredmények elérésében közreműködő nyugdíjas sportszakemberek részére szociális rászorultságra figyelemmel nyújtott támogatásként, továbbá a sportról szóló törvény felhatalmazása alapján kiadott jogszabályban meghatározott eredményességi támogatásként kap a magánszemély;
+3.2.2. a sportról szóló törvény alapján Gerevich Aladár-sportösztöndíjként, a nyugdíjas olimpiai és világbajnoki érmes sportolók és özvegyeik, valamint a kiemelkedő sporteredmények elérésében közreműködő nyugdíjas sportszakemberek részére szociális rászorultságra figyelemmel nyújtott támogatásként, továbbá a sporteredmények elismerésének törvényben, kormányrendeletben, miniszteri rendeletben meghatározott vagy kormánydöntésen alapuló juttatásként folyósított anyagi támogatásaként kap a magánszemély;
 
 3.2.3. a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvény alapján a költségvetési törvényben meghatározott kiemelt előirányzat terhére kap a magánszemély,
 

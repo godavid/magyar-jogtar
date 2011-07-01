@@ -177,7 +177,9 @@ a bírósági végrehajtásról
 
 (2) Az (1) bekezdésben említett írásbeli felszólítás, határozat és egyezség akkor látható el végrehajtási záradékkal, ha a tartozásnak a munkabérből való közvetlen levonására nincs lehetőség, illetőleg az nem vezetett vagy aránytalanul hosszú idő múlva vezetne eredményre.
 
-23/A. § Az ügyben eljárt fogyasztóvédelmi békéltető testület, illetve egészségügyi közvetítői tanács székhelye szerint illetékes helyi bíróság a tanács kötelező határozatát, továbbá az egészségügyi közvetítői tanács előtt kötött egyezséget – a feltételek megléte esetén – végrehajtási záradékkal látja el.
+23/A. § (1) Az ügyben eljárt fogyasztóvédelmi békéltető testület, illetve egészségügyi közvetítői tanács székhelye szerint illetékes helyi bíróság a tanács kötelező határozatát, továbbá az egészségügyi közvetítői tanács előtt kötött egyezséget – a feltételek megléte esetén – végrehajtási záradékkal látja el.
+
+(2) Az (1) bekezdéstől eltérően a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben foglalt pénzügyi fogyasztói jogvita esetén a fogyasztó lakóhelye szerint illetékes helyi bíróság látja el a Pénzügyi Békéltető Testület kötelezést tartalmazó határozatát vagy a határozattal jóváhagyott egyezséget végrehajtási záradékkal.
 
 23/B. § (1) Az okiratot végrehajtási záradékkal látja el a következő bíróság:
 

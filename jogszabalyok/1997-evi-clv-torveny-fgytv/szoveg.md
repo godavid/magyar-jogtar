@@ -12,7 +12,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 1. § (1) E törvény hatálya – a (2) bekezdésben meghatározott eltéréssel – a vállalkozások azon tevékenységére terjed ki, amely a fogyasztókat érinti vagy érintheti.
 
-(2) E törvény hatálya – a békéltető testületekre és a békéltető testületi eljárásra vonatkozó rendelkezések kivételével-nem terjed ki a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény és az abban meghatározott törvények alapján a Pénzügyi Szervezetek Állami Felügyelete által felügyelt tevékenységet folytató szervezeteknek, személyeknek a Pénzügyi Szervezetek Állami Felügyelete által felügyelt tevékenységére (a továbbiakban: pénzügyi szolgáltatási tevékenység).
+(2) E törvény hatálya nem terjed ki a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény és az abban meghatározott törvények alapján a Pénzügyi Szervezetek Állami Felügyelete által felügyelt tevékenységet folytató szervezeteknek, személyeknek a Pénzügyi Szervezetek Állami Felügyelete által felügyelt tevékenységére (a továbbiakban: pénzügyi szolgáltatási tevékenység).
 
 ### Értelmező rendelkezések
 
@@ -218,7 +218,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (2) A békéltető testület a megyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) mellett működő független testület.
 
-(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének ügyszámarányos támogatásáról, továbbá biztosítja az Európai Gazdasági Térségről szóló megállapodásban részes államok pénzügyi vitarendezési hálózatában (a továbbiakban: FIN-Net) való részvétellel összefüggő békéltető testületi feladatok ellátásához szükséges pénzügyi fedezetet.
+(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének ügyszámarányos támogatásáról, ide nem értve a Pénzügyi Békéltető Testületet.
 
 (4) A helyi önkormányzatok részt vállalhatnak a békéltető testület működtetésének feladataiból.
 
@@ -243,7 +243,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 (4) A kijelölés során biztosítani kell, hogy a testületnek mind a kamara, mind a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek által jelölt személyek között
 
 - a) legyen olyan tagja, aki megfelel a 25. § (4) bekezdésében meghatározott követelményeknek, továbbá
-- b) valamennyi pénzügyi szolgáltatási ágazat tekintetében legyen olyan tagja, aki rendelkezik a pénzügyi szolgáltatási tevékenységgel összefüggő fogyasztói jogviták rendezéséhez szükséges végzettséggel és szakismerettel.
+- b)
 
 (5)
 
@@ -455,7 +455,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 36/A. § (1) A békéltető testület tevékenységéről évente összefoglaló tájékoztatót készít, és azt a tárgyévet követő év január 31-éig megküldi a fogyasztóvédelemért felelős miniszternek.
 
-(2) A pénzügyi szolgáltatási tevékenységgel összefüggő fogyasztói jogviták rendezéséről a békéltető testület külön összefoglaló tájékoztatót készít, amelyet a tárgyévet követő év január 31-éig megküld a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszternek, valamint tájékoztatásul a fogyasztóvédelemért felelős miniszternek.
+(2)
 
 36/B. § A békéltető testület közzéteheti annak a vállalkozásnak a nevét, székhelyét és az eljárással érintett tevékenysége megjelölését, amely a 29. § (8) bekezdése szerinti felszólítás ellenére nem tett az ügy érdemére vonatkozó – a 29. § (8) bekezdésében foglaltaknak megfelelő tartalmú – nyilatkozatot és a kitűzött meghallgatáson nem jelent meg, ilyen módon megakadályozva az egyezség létrehozását. Erre az értesítésben a vállalkozás figyelmét fel kell hívni.
 
@@ -501,56 +501,9 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - h) a békéltető testületnél a 36/C. § (1) bekezdése alapján általános alávetési nyilatkozatot tett vállalkozások jegyzéke az alávetés esetleges korlátozásának megadásával,
 - i) hivatkozás az egyes békéltető testületeknél a 36/C. § (1) bekezdése alapján általános alávetési nyilatkozatot tett vállalkozásoknak a fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzétett, az (1) bekezdés f) pontja szerinti jegyzék, valamint a Magyar Kereskedelmi és Iparkamara által a (2) bekezdés c) pontja szerint közzétett jegyzék elérhetőségére.
 
-38. § (1) A pénzügyi szolgáltatási tevékenységgel összefüggő határon átnyúló fogyasztói jogviták esetén a 20. §-ban, a 25–36. §-ban, valamint a 36/B. §-ban foglalt rendelkezéseket az e §-ban és a 38/A. §-ban meghatározott eltérésekkel kell alkalmazni.
+38. §
 
-(2) E §, valamint a 38/A–38/C. § alkalmazásában
-
-- a) határon átnyúló fogyasztói jogvita az olyan fogyasztói jogvita, amelyben az érintett fogyasztó lakóhelye vagy tartózkodási helye Magyarországon van, illetve a vállalkozás Magyarországon letelepedett, míg a jogvitában érintett másik fél letelepedési helye, illetve lakóhelye vagy tartózkodási helye az Európai Gazdasági Térségről szóló megállapodásban részes más államban (a továbbiakban: más EGT-állam) van,
-- b) pénzügyi szolgáltatási tevékenység alatt a más EGT-államban székhellyel rendelkező vállalkozásnak az 1. § (2) bekezdésében említetteknek megfelelő tevékenységét is érteni kell.
-
-(3) Pénzügyi szolgáltatási tevékenységgel összefüggő határon átnyúló fogyasztói jogvita esetén az eljárásra kizárólag a fővárosi kereskedelmi és iparkamara mellett működő békéltető testület illetékes (a továbbiakban: a FIN-Net-ben résztvevő békéltető testület).
-
-(4) A Magyarországon lakóhellyel vagy tartózkodási hellyel rendelkező fogyasztó és más EGT-államban letelepedett vállalkozás közötti, pénzügyi szolgáltatási tevékenységgel összefüggő fogyasztói jogvitában az eljárás megindításának az is feltétele, hogy a vállalkozás az adott jogvitában a békéltető testület eljárásának alávesse magát és a békéltető testület döntését magára nézve kötelezőnek ismerje el.
-
-(5) Ha a (4) bekezdés szerinti esetben az eljárás megindításának feltétele nem áll fenn, a FIN-Net-ben résztvevő békéltető testület
-
-- a) tájékoztatja a fogyasztót a jogvita tekintetében az eljárásra hatáskörrel és illetékességgel rendelkező, a FIN-Net-ben résztvevő más EGT-állambeli alternatív vitarendezési fórumról, valamint az annak eljárására vonatkozó sajátos szabályokról, így különösen a vállalkozással való előzetes egyeztetés szükségességéről és az adott esetben az eljárás megindítására előírt határidőkről, továbbá
-- b) a fogyasztónak a FIN-Net-ben használt formanyomtatványon rögzített kérelmét – a fogyasztó kérésére – továbbítja az eljárásra hatáskörrel és illetékességgel rendelkező, a FIN-Net-ben résztvevő más EGT-állambeli alternatív vitarendezési fórumhoz.
-
-38/A. § (1) Az eljárás írásban történik, az elnök azonban, a körülmények mérlegelése alapján kezdeményezheti meghallgatás tartását. A meghallgatás tartásához mindkét fél hozzájárulását be kell szerezni.
-
-(2) Ha az elnök az (1) bekezdés szerint meghallgatás tartását nem kezdeményezi, a 29. § (5) bekezdés szerinti értesítés a meghallgatás időpontja helyett a feleknek az eljárás megindításáról való tájékoztatását tartalmazza. Meghallgatás tartásának kezdeményezése esetén az értesítésben erre a tényre és a felek hozzájárulásának szükségességére kell felhívni a figyelmet.
-
-(3) Ha az elnök az (1) bekezdés szerint meghallgatás tartását nem kezdeményezte, az eljáró tanács a kérelem megalapozottságának megállapítása érdekében a felektől határidő tűzésével írásbeli tájékoztatást vagy dokumentum rendelkezésre bocsátását kérheti. A felek nyilatkozatait, álláspontját az ellenérdekű féllel közölni kell, s lehetőséget kell adni számára az ezzel kapcsolatos álláspontja kifejtésére.
-
-(4) A békéltető testület – a fogyasztó kérésére – köteles azon a nyelven eljárni és határozatát hiteles másolatban azon a nyelven meghozni, amely a jogvitával érintett szerződés nyelve, illetve amely a jogvitával érintett vállalkozás és a fogyasztó közötti kommunikáció nyelve. Az ezzel összefüggő fordítási költség az eljárás költségének tekintendő.
-
-(5) A 25. § (3) bekezdésében meghatározott esetben egyedül eljáró testületi tagként csak az jelölhető ki, aki – a 25. § (4) bekezdésben meghatározott követelmény mellett – a jogvita jellegének megfelelő végzettséggel és szakismerettel rendelkezik.
-
-(6) Az eljárási határidő indokolt esetben kilencven nappal hosszabbítható meg.
-
-(7) Ha az elnök az (1) bekezdés szerint meghallgatás tartását nem kezdeményezte, a 33. § (5) bekezdése nem alkalmazható. A tanács határozatát, illetve ajánlását annak meghozatalát követően haladéktalanul meg kell küldeni a feleknek.
-
-38/B. § (1) A FIN-Net-ben résztvevő békéltető testület köteles bárki kérésére haladéktalanul, írásban vagy más megfelelő formában tájékoztatást adni – a 26/A. §-ban meghatározottakon túl –
-
-- a) a FIN-Net működéséről, továbbá
-- b) a pénzügyi szolgáltatási tevékenységgel összefüggő határon átnyúló fogyasztói jogvita elbírálására hatáskörrel és illetékességgel rendelkező, a FIN-Net-ben résztvevő más EGT-állambeli alternatív vitarendezési fórumról és annak eljárásáról.
-
-(2) A FIN-Net-ben résztvevő békéltető testület a pénzügyi szolgáltatási tevékenységgel összefüggő határon átnyúló fogyasztói jogvita elbírálására hatáskörrel és illetékességgel rendelkező, a FIN-Net-ben résztvevő más EGT-állambeli alternatív vitarendezési fórum megkeresésére tájékoztatást ad az adott jogvitával összefüggő magyar jogszabályi rendelkezésekről.
-
-(3) A FIN-Net-ben résztvevő békéltető testület a pénzügyi szolgáltatási tevékenységgel összefüggő határon átnyúló fogyasztói jogviták rendezésével összefüggő tevékenységéről külön összefoglaló tájékoztatót készít, és azt a tárgyévet követő év január 31-éig megküldi a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszternek, valamint tájékoztatásul a fogyasztóvédelemért felelős miniszternek.
-
-(4) A FIN-Net-ben résztvevő békéltető testület köteles tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást adni.
-
-38/C. § (1) A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter az általa vezetett minisztérium honlapján gondoskodik a következők közzétételéről:
-
-- a) a 36/A. § (2) bekezdésében meghatározott összefoglaló tájékoztatók,
-- b) a FIN-Net-ben résztvevő békéltető testület címe, telefonszáma, elektronikus levélcíme, valamint a honlapjának elérhetőségére utaló hivatkozás,
-- c) a 38/B. § (3) bekezdésében meghatározott összefoglaló tájékoztatók,
-- d) a 38/B. § (1) bekezdés a) pontja szerinti tájékoztatási kötelezettség teljesítését előmozdító tájékoztatás, valamint
-- e) hivatkozás a fogyasztó kérelmének előterjesztése céljából a FIN-Net honlapján közzétett formanyomtatvány elérhetőségére.
-
-(2) A FIN-Net-ben résztvevő békéltető testület honlapján a 37/A. § (3) bekezdésében meghatározottakon túl közzé kell tenni a békéltető testület 38/B. § (3) bekezdése szerinti összefoglaló tájékoztatóit, és hivatkozást kell elhelyezni a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztérium honlapján közzétett, az (1) bekezdés d) pontja szerinti tájékoztatás, valamint a fogyasztó kérelmének előterjesztése céljából a FIN-Net honlapján közzétett formanyomtatvány elérhetőségére.
+38/A–38/C. §
 
 ### Keresetindítás
 
@@ -879,10 +832,8 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - b) az Európai Parlament és a Tanács 98/6/EK irányelve (1998. február 16.) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről [a 2. § m) és n) pontja, a 14. § (1)–(3), (5) és (6) bek., az 56/A. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
 - c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 39. § (3) és (5) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
 - d) az Európai Parlament és a Tanács 2001/95/EK irányelve (2001. december 3.) az általános termékbiztonságról [a 2. § c) és s)–u) pontja és a 3–5. §, a törvény végrehajtására az 55. § (1) bek. a) pontjában adott felhatalmazás alapján megalkotott kormányrendelettel együtt];
-- e) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről (a 18–37/A. §);
-- f) az Európai Parlament és a Tanács 2002/65/EK irányelve (2002. szeptember 23.) a fogyasztói pénzügyi szolgáltatások távértékesítéssel történő forgalmazásáról, valamint a 90/619/EGK tanácsi irányelv, a 97/7/EK irányelv és a 98/27/EK irányelv módosításáról, 14. cikk [a 18. § (3) bek. és a 38–38/C. §],
-- g) az Európai Parlament és a Tanács 2007/64/EK irányelve (2007. november 13.) a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről, 83. cikk [a 18. § (3) bek. és a 38–38/C. §],
-- h) az Európai Parlament és a Tanács 2008/48/EK irányelve (2008. április 23.) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk [a 18. § (3) bek. és a 38–38/C. §].
+- e) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről (a 18–37/A. §).
+- f)–h)
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:
 

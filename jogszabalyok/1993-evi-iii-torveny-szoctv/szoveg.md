@@ -78,7 +78,7 @@ meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és te
 - l) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van;
 - m) fenntartó:
   - ma) a központi költségvetési szerv, a helyi önkormányzat, a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §-a, 9. §-a, illetve 16. §-a szerinti intézményi társulás, a települési önkormányzatok többcélú kistérségi társulása, a települési kisebbségi önkormányzat és a területi kisebbségi önkormányzat (a továbbiakban együtt: állami fenntartó),
-  - mb) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény (a továbbiakban: Ltv.) szerinti, magyarországi székhelyű egyház, az egyházaknak az Ltv. 14. §-a szerinti magyarországi székhelyű szövetsége, illetve az Ltv. 13. §-ának (2)–(3) bekezdése szerinti magyarországi székhelyű egyházi jogi személy (a továbbiakban: egyházi fenntartó); nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a társadalmi szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság és a közhasznú társaság,
+  - mb) a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény (a továbbiakban: Ltv.) szerinti, magyarországi székhelyű egyház, az egyházaknak az Ltv. 14. §-a szerinti magyarországi székhelyű szövetsége, illetve az Ltv. 13. §-ának (2)–(3) bekezdése szerinti magyarországi székhelyű egyházi jogi személy, amennyiben az egyház a Kormánnyal a szociális feladatok ellátására is kiterjedő megállapodást kötött, ideértve a Magyar Köztársaság és az Apostoli Szentszék között a Katolikus Egyház magyarországi közszolgálati és hitéleti tevékenységének finanszírozásáról, valamint néhány vagyoni természetű kérdésről 1997. június 20-án, Vatikánvárosban aláírt Megállapodás alapján a Magyar Katolikus Egyházat is (a továbbiakban együtt: egyházi fenntartó); nem minősül egyházi fenntartónak az a jogi személy, amely más típusú szervezetként jogalanyisággal rendelkezik, így különösen a társadalmi szervezet, annak alapszabályban jogi személlyé nyilvánított szervezeti egysége, az alapítvány, annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége, a gazdasági társaság és a közhasznú társaság,
   - mc) az egyéni vállalkozó,
   - md) az ma)–mb) alpontokban nem említett, magyarországi székhelyű jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni cég,
   - me) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az mc)–me) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó];
@@ -879,8 +879,8 @@ megszegésének következményeit.
 
 (2) A közgyógyellátási igazolvánnyal (a továbbiakban: igazolvány) rendelkező személy – külön jogszabályban meghatározottak szerint – térítésmentesen jogosult a társadalombiztosítási támogatásba befogadott
 
-- a) járóbeteg-ellátás keretében rendelhető gyógyszerekre – ideértve a különleges táplálkozási igényt kielégítő tápszereket is – gyógyszerkerete erejéig,
-- b) egyes, külön jogszabályban meghatározott gyógyászati segédeszközökre, ideértve a protetikai és fogszabályozó eszközöket is, valamint azok javítására és kölcsönzésére, továbbá
+- a) járóbeteg-ellátás keretében rendelhető egyes, a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló jogszabályban meghatározott gyógyszerekre – ideértve a különleges táplálkozási igényt kielégítő tápszereket is – gyógyszerkerete erejéig,
+- b) egyes, a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló jogszabályban meghatározott gyógyászati segédeszközökre, ideértve a protetikai és fogszabályozó eszközöket is, valamint azok javítására és kölcsönzésére, továbbá
 - c) az orvosi rehabilitáció céljából igénybe vehető gyógyászati ellátásokra [az a)–c) pont szerintiek a továbbiakban együtt: gyógyító ellátás].
 
 (3) A (2) bekezdés b)–c) pontja szerinti esetben a közfinanszírozás alapjául elfogadott ár erejéig vehető igénybe térítésmentesen az ellátás.
@@ -1785,7 +1785,7 @@ rendeletet alkot.
 - a) megfelel az e törvényben és külön jogszabályban meghatározott feltételeknek, és
 - b) jogerős működési engedéllyel rendelkezik.
 
-(2) A működési engedély kiadásáról – a fenntartó kérelmére – a működést engedélyező szerv dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárások illetékmentesek.
+(2) A működési engedély kiadásáról a fenntartó kérelmére a működést engedélyező szerv – első fokon a Kormány általános hatáskörű területi államigazgatási szervének szakigazgatási szerveként működő szociális hatóság – dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárások illetékmentesek.
 
 (3) A működést engedélyező szerv ellenőrzi, hogy a szociális szolgáltató, illetve intézmény működése megfelel-e a működési engedélyben és a jogszabályokban foglaltaknak.
 
@@ -2780,6 +2780,8 @@ kell elvégezni.
 140/C. § Az önkormányzati társulásban vagy többcélú kistérségi társulásban részt vevő települési önkormányzat a személyes gondoskodást nyújtó ellátásokról, azok igénybevételéről, valamint a fizetendő térítési díjakról szóló, 2011. január 1-jén hatályos rendeletét 2011. április 1-jéig felülvizsgálja abból a célból, hogy a társulási megállapodásban erre kijelölt önkormányzat rendelete tartalmazza a személyes gondoskodást nyújtó ellátásokról, azok igénybevételéről, valamint a fizetendő térítési díjakról szóló szabályokat.
 
 140/D. § E törvénynek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel megállapított 92/M. § (1) bekezdés a) pontját a bírság összegének meghatározása során abban az esetben kell alkalmazni, ha a jogsértést 2011. január 14-ét követően követték el, vagy a jogsértő állapot 2011. január 14-ét követően fennáll, egyéb esetben a 92/L. § (1) bekezdés a) pontja szerinti jogsértés miatt kiszabható bírság legmagasabb összege 200 000 forint. A 92/L. § (1) bekezdés h) pontja alapján állami fenntartóval szemben bírság akkor szabható ki, ha a jogsértő állapot 2011. január 14-ét követően fennáll.
+
+140/F. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 49. § (2) bekezdésében foglaltakat 2011. október 1-jétől kell alkalmazni. Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvény hatálybalépését megelőző napon hatályos 49. § (2) bekezdésében foglalt rendelkezéseket 2011. szeptember 30-áig kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 

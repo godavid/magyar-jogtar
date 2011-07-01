@@ -25,7 +25,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 (2) Az egészségügyi szolgáltatások igénybevétele során érvényesülnie kell az esélyegyenlőségnek.
 
-(3) Az egészségi állapot javításának elsődleges eszköze az egészség megőrzése és a betegségek megelőzése.
+(3) Az egészségi állapot javításának elsődleges eszköze az egészség fejlesztése, védelme és a betegségek megelőzése.
 
 (4) Az egészségügyi szolgáltatások alapvető szakmai feltételrendszere tulajdon- és működtetési formától független, kizárólag a szolgáltatás szakmai tartalmán alapul.
 
@@ -49,7 +49,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 - h)
 - i) sürgős szükség: az egészségi állapotban bekövetkezett olyan változás, amelynek következtében azonnali egészségügyi ellátás hiányában a beteg közvetlen életveszélybe kerülne, illetve súlyos vagy maradandó egészségkárosodást szenvedne;
 - j) veszélyeztető állapot: az az állapot, amelyben az azonnali intézkedés hiánya a beteg vagy más személy életét, testi épségét vagy egészségét közvetlenül fenyegető helyzetet eredményezne, illetőleg a környezetére közvetlen veszélyt jelentene;
-- k) vizsgálat: az a tevékenység, amelynek célja a beteg egészségi állapotának felmérése, egészségének megőrzése, a betegségek, illetve kockázatuk felderítése, a konkrét betegség(ek) meghatározása, prognózisuk, változásuk megállapítása, a gyógykezelés eredményességének, valamint a halál bekövetkeztének és a halál okának megállapítása;
+- k) vizsgálat: az a tevékenység, amelynek célja a beteg egészségi állapotának felmérése, a betegségek, illetve kockázatuk felderítése, a konkrét betegség(ek) meghatározása, prognózisuk, változásuk megállapítása, a gyógykezelés eredményességének, valamint a halál bekövetkeztének és a halál okának megállapítása;
   - ka) szűrővizsgálat: olyan vizsgálat, amelynek célja a betegség tüneteit nem mutató (tünetmentes) személy esetleges betegségének vagy kórmegelőző állapotának – ideértve a betegségre hajlamosító kockázati tényezőket is – korai felismerése,
   - kb) diagnosztikai vizsgálat: az egészségügyi szolgáltatóhoz forduló beteg panasza okának feltárására irányuló vizsgálat,
 - l) beavatkozás: azon megelőző, diagnosztikus, terápiás, rehabilitációs vagy más célú fizikai, kémiai, biológiai vagy pszichikai eljárás, amely a beteg szervezetében változást idéz vagy idézhet elő, továbbá a holttesten végzett vizsgálatokkal, valamint szövetek, szervek eltávolításával összefüggő eljárás;
@@ -79,7 +79,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 - a) tartózkodó természetes személyekre,
 - b) működő egészségügyi szolgáltatókra,
-- c) folytatott egészségügyi tevékenységekre.
+- c) folytatott egészségügyi és egészségfejlesztési tevékenységekre.
 
 (2) Törvény a természetes személyek egyes csoportjai tekintetében az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.
 
@@ -91,11 +91,11 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 5. § (1) Az egészségüggyel kapcsolatos társadalmi kötelezettségek az egyén saját és környezete egészségi állapotáért viselt felelősségével együtt biztosítják a lakosság egészségének védelmét és egészségi állapotának javítását.
 
-(2) Mindenki köteles tiszteletben tartani mások jogait egészségük megőrzéséhez és védelméhez, a betegségek megelőzéséhez és a gyógyuláshoz.
+(2) Mindenki köteles tiszteletben tartani mások jogait egészségük fejlesztéséhez, védelméhez, a betegségek megelőzéséhez, a gyógyuláshoz és az orvosi rehabilitációhoz.
 
 (3) Mindenkinek
 
-- a) joga van olyan ismeretek megszerzéséhez, amelyek lehetővé teszik számára az egészsége megőrzésével és fejlesztésével kapcsolatos lehetőségei megismerését, valamint megfelelő tájékoztatáson alapuló döntését az egészséggel kapcsolatos kérdésekben,
+- a) joga van olyan ismeretek megszerzéséhez, amelyek lehetővé teszik számára az egészsége védelmével és fejlesztésével kapcsolatos lehetőségek megismerését, valamint megfelelő tájékoztatáson alapuló döntését az egészséggel kapcsolatos kérdésekben,
 - b) joga van tájékoztatást kapni az egészségügyi szolgáltatók által nyújtott egészségügyi ellátások jellemzőiről, azok elérhetőségéről és az igénybevétel rendjéről, továbbá a betegeket megillető jogokról és azok érvényesíthetőségéről,
 - c) saját egészségi állapotáért a tőle elvárható módon felelősséggel kell tartoznia,
 - d) kötelessége tartózkodni minden olyan magatartástól és tevékenységtől, amely a társadalmilag elfogadható kockázati szinten felül, köztudottan mások egészségét veszélyezteti,
@@ -414,6 +414,8 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 (4) A panaszokat nyilván kell tartani és a panasszal, illetve annak kivizsgálásával összefüggő iratokat 5 évig meg kell őrizni.
 
+29/A. § Az egészségügyi szolgáltató által a beteg részére nyújtott egészségügyi ellátással kapcsolatban az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény szerinti panaszt a panasszal érintett egészségügyi szolgáltató részére működési engedély kiadására jogosult egészségügyi államigazgatási szervnél lehet tenni.
+
 ### A betegjogi képviselő
 
 30. § (1) A betegjogi képviselő csak olyan személy lehet, aki büntetlen előéletű, nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, felsőfokú végzettséggel rendelkezik, valamint megfelel a külön jogszabályban meghatározott képesítési és összeférhetetlenségi szabályoknak. A betegjogi képviselő a (2)–(5) bekezdésekben foglaltaknak megfelelően ellátja a betegek e törvényben meghatározott jogainak védelmét, és segíti őket e jogaik megismerésében és érvényesítésében.
@@ -444,16 +446,16 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 31/A. § (1) Azt a tényt, hogy büntetlen előéletű és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt
 
 - a) a betegjogi képviselői munkakör betöltésére pályázatot benyújtó személy a pályázat benyújtásával egyidejűleg,
-- b) a betegjogi képviselő – tevékenysége gyakorlásának időtartama alatt – a Betegjogi, Ellátottjogi és Gyermekjogi Közalapítvány (a továbbiakban: Közalapítvány) írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a betegjogi képviselőn kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul hatósági bizonyítvánnyal igazolja.
+- b) a betegjogi képviselő – tevékenysége gyakorlásának időtartama alatt – a jogszabály szerint a betegjogi képviselő foglalkoztatását ellátó szerv (a továbbiakban: a betegjogi képviselőt foglalkoztató szerv) írásbeli felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a betegjogi képviselőn kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul hatósági bizonyítvánnyal igazolja.
 
-(2) A Közalapítvány a betegjogi képviselő tevékenysége gyakorlásának időtartama alatt írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a betegjogi képviselőt annak igazolására, hogy büntetlen előéletű és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt. Ha a betegjogi képviselő igazolja, hogy büntetlen előéletű és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, a Közalapítvány az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a betegjogi képviselő részére megtéríti.
+(2) A betegjogi képviselőt foglalkoztató szerv a betegjogi képviselő tevékenysége gyakorlásának időtartama alatt írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a betegjogi képviselőt annak igazolására, hogy büntetlen előéletű és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt. Ha a betegjogi képviselő igazolja, hogy büntetlen előéletű és nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, a betegjogi képviselőt foglalkoztató szerv az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a betegjogi képviselő részére megtéríti.
 
-(3) A betegjogi képviselő megbízatását a Közalapítvány megszünteti, ha
+(3) A betegjogi képviselő megbízatását a betegjogi képviselőt foglalkoztató szerv megszünteti, ha
 
 - a) a betegjogi képviselő az (1) bekezdés b) pontjában foglalt kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye, az ismételt felhívástól számított tizenötödik munkanapon,
-- b) a Közalapítvány az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, hogy a betegjogi képviselő büntetett előéletű, vagy az egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll, e megállapításnak a betegjogi képviselő részére történő kézbesítése napján.
+- b) a betegjogi képviselőt foglalkoztató szerv az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, hogy a betegjogi képviselő büntetett előéletű, vagy az egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll, e megállapításnak a betegjogi képviselő részére történő kézbesítése napján.
 
-(4) Az (1) bekezdés alapján megismert személyes adatokat a Közalapítvány
+(4) Az (1) bekezdés alapján megismert személyes adatokat a betegjogi képviselőt foglalkoztató szerv
 
 - a) a betegjogi képviselői munkakör betöltésére benyújtott pályázat elbírálásáig,
 - b) a betegjogi képviselő megbízatása megszűnéséig kezeli.
@@ -474,39 +476,38 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 ### III. Fejezet — NÉPEGÉSZSÉGÜGY
 
-35. § (1) A népegészségügy a társadalom egészének szervezett tevékenysége, amelynek célja a lakosság egészségi állapotának javítása az egészség megőrzése, a betegségek megelőzése révén.
+35. § (1) A népegészségügy állami és önkormányzati szervek, gazdasági, társadalmi szervezetek, valamint egyének részvételével megvalósított, elsősorban lakossági csoportokat, közösségeket célzó tevékenység, az egészség védelme és fejlesztése, a betegségek, sérülések és rokkantság megelőzése érdekében. A népegészségügy célja a lakosság egészségi állapotának monitorozása, az egészségproblémák és prioritások meghatározása, népegészségügyi intézkedések kimunkálása és foganatosítása kormányzati, szakmai és civil szervezetekkel együttműködésben.
 
-(2) A népegészségügyi tevékenység körében meg kell határozni az egészség tudományosan megalapozott biológiai és természeti-társadalmi környezeti feltételeit, az egészség megőrzésének, a betegségek megelőzésének hatékony, hozzáférhető és a lakosság által elfogadható módszereit, valamint az ehhez szükséges intézményrendszer sajátosságait.
+(2) A népegészségügyi tevékenység magában foglalja
 
-(3) A népegészségügyi tevékenység keretében
+- a) az egészség tudományosan megalapozott természeti és társadalmi környezeti (a továbbiakban együtt: környezeti) feltételeinek, az egészség fejlesztésének, a betegségek megelőzésének hatékony, hozzáférhető és megfelelő bizonyítékokon alapuló módszereinek, valamint az ehhez szükséges intézményrendszer kialakítása, működtetése feltételeinek meghatározását,
+- b) a lakosság egészségmagatartásának, az azt befolyásoló környezeti tényezőknek a rendszeres elemzését,
+- c) a b) pont szerinti elemzés során feltárt adatok alapján az egészségkárosító hatások kockázatának értékelését és az ennek megfelelő problémák és prioritások rangsorolását,
+- d) a nemzetközi irányvonalakkal összhangban levő népegészségügyi stratégia és ennek megvalósítását elősegítő akcióterv kidolgozását, amely előre meghatározott, mérhető egészségcélokat határoz meg az egészség javítása érdekében, továbbá tartalmazza a megelőzés és az egészségkárosító hatások csökkentésére irányuló beavatkozásokat,
+- e) a feladatok megvalósítása érdekében egészségfejlesztési, egészségvédelmi, betegségmegelőzési, gyógyító és orvosi rehabilitációs szolgáltatások biztosítását,
+- f) a szolgáltatásoknak a hatékonyságuk, eredményességük, hozzáférhetőségük és egyéb minőségi jellemzőik szerinti rendszeres értékelését.
 
-- a) rendszeresen elemezni kell a lakosság egészségi állapotát és az ezt befolyásoló kémiai, fizikai, pszichikai, biológiai, környezeti és társadalmi tényezőket,
-- b) az elemzés során feltárt adatok alapján értékelni kell az egészségkárosító hatások kockázatát és rangsorolni kell a népegészségügyi feladatokat,
-- c) ki kell dolgozni a megelőzés és az egészségkárosító hatások csökkentésének módozatait,
-- d) a feladatok megoldása érdekében környezetegészségügyi programokat, egészségmegőrző, megelőző, gyógyító és rehabilitációs szolgáltatásokat kell megvalósítani,
-- e) a szolgáltatásokat hatékonyságuk, hozzáférhetőségük és egyéb minőségi jellemzőik szerint rendszeresen értékelni kell.
+(3) A társadalom- és az egészségpolitika céljainak meghatározásánál, valamint a döntések előkészítésénél támaszkodni kell a népegészségügyi tevékenység során feltárt adatokra.
 
-(4) Az egészséget támogató társadalompolitika céljainak meghatározásánál, valamint a döntések előkészítésénél támaszkodni kell a népegészségügyi tevékenység során feltárt adatokra.
+(4) A lakosságot a népegészségügyi helyzetről, a felmerült problémákról, az előidéző tényezőkről, a várható következményekről, a megoldás lehetőségeiről és korlátairól rendszeresen tájékoztatni kell.
 
-(5) A lakosságot a népegészségügyi helyzetről, a felmerült problémákról, az előidéző tényezőkről, a várható következményekről, a megoldás lehetőségeiről és korlátairól rendszeresen tájékoztatni kell.
+36. § (1) A népegészségügy feladata a lakosság egészségi állapotának és az erre ható tényezőknek a folyamatos monitorozása és rendszeres elemzése – különös tekintettel az egészség előfeltételeire: lakás, munkahely, sportolás, üdülés, oktatás, élelem, jövedelem, stabil ökológiai rendszer, fenntartható erőforrások, társadalmi igazságosság és egyenlőség –, amelynek keretében:
 
-36. § (1) A népegészségügy feladata a lakosság egészségi állapotának és az erre ható kockázati tényezőknek figyelemmel kísérése és elemzése, amelynek keretében
-
-- a) fel kell tárni az emberi szervezet, illetőleg a természeti és az épített környezet (a továbbiakban együtt: környezet) kölcsönhatásait, a környezet egészségkárosító tényezőit és kockázatait, valamint ezek hatásmechanizmusát az emberi szervezetre;
+- a) fel kell tárni az emberi szervezet, illetőleg a környezet kölcsönhatásait, egészségkárosító tényezőit, valamint ezek hatását az emberi szervezetre;
 - b) meg kell határozni
-  - ba) az emberi szervezettel érintkező közegek egészséget még nem veszélyeztető anyagainak tartalmát,
+  - ba) fizikai, kémiai, biológiai és pszichés hatások egészséget még nem veszélyeztető mértékét,
   - bb) a megelőzés és az egészséget károsító hatások csökkentésének módozatait,
-  - bc) az egészséges élet- és munkakörülmények feltételeit;
+  - bc) az egészséges élet-, gondozási, nevelési, oktatási és munkakörülmények feltételeit;
 - c) rendszeresen felül kell vizsgálni az egészségügyi határértékeket, továbbá szükség szerint gondoskodni kell módosításukról;
-- d) el kell végezni az egészségkárosító kockázatok becslését, és intézkedni kell csökkentésük érdekében;
-- e) ki kell alakítani a környezeti hatásokkal összefüggő egészségkárosodások, illetve megbetegedések bejelentési rendszerét;
+- d) el kell végezni az egészségkárosító kockázatok becslését, és – a szükséges mértékben – intézkedni kell csökkentésük érdekében;
+- e) ki kell alakítani a környezeti hatásokkal összefüggő egészségkárosodások, illetve megbetegedések bejelentési rendszerét, és intézkedni kell csökkentésük érdekében;
 - f) rendszeresen ellenőrizni kell
   - fa) a környezet emberi szervezettel kapcsolatba kerülő tényezőinek állapotát,
   - fb) az épített környezet és a munkakörülmények közegészségügyi megfelelőségét.
 
 (2) A népegészségügyi feladatok ellátása során az egyes – a népegészségügyi szempontból is fontos – megfigyelő, ellenőrző tevékenységet végző rendszerek együttműködnek.
 
-(3) Az egészségkárosító hatások megelőzése rendszeres ellenőrzési, tájékoztatási és felvilágosító tevékenységen alapul.
+(3) Az egészségkárosító hatások megelőzése rendszeres ellenőrzési, tájékoztatási, felvilágosító és fejlesztő tevékenységen alapul.
 
 (4) Az (1) bekezdés szerinti feladatok ellátása során az emberi egészségre káros tevékenységek korlátozhatók, illetve megtilthatók.
 
@@ -514,9 +515,9 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 ### 1. CÍM — Egészségfejlesztés
 
-37. § (1) Az egészségfejlesztés célja az egészségi állapot és az életminőség javítása, valamint az egészség védelme.
+37. § (1) Az egészségfejlesztés az a folyamat, amely során az egyén növeli jártasságát saját egészségének javítása érdekében, képességet szerez az egészséges életvitel fenntartására és a változó környezethez való alkalmazkodásra. Az egészségfejlesztés a lakosság egészséggel kapcsolatos ismereteinek bővítésére, az egészséges magatartásra, az egészséget veszélyeztető ártalmak és megbetegedések megelőzésére irányuló tevékenység.
 
-(2) Az egészség védelmének elsődleges eszközei a betegségek és sérülések megelőzése, valamint az egészségnevelés.
+(2) Az egészségfejlesztés tevékenységi területei lefedik az egyéni képességek fejlesztését, a közösségi cselekvések erősítését, az egészséget támogató környezet kialakítását és fenntartását, az egészséget támogató szakmapolitikai irányelvek megfogalmazását és az egészségügyi ellátó rendszer megelőzés központú áthangolását.
 
 (3) A megelőzés
 
@@ -525,30 +526,35 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 - c) az emberi szervezet kórokozókkal, valamint egyéb egészségkárosító tényezőkkel szembeni ellenálló képességének fokozásán,
 - d) a betegségek iránti fogékonyság, a kórmegelőző állapotok, a betegségek és a szövődmények korai felismerésén,
 - e) a már kialakult idült betegség vagy kóros állapot egyensúlyban tartásán és romlásának megakadályozásán,
-- f) a kóros lelki folyamatok kialakulásához vezető tényezők időben történő felismerésén és mentálhigiénés gondozáson
+- f) a kóros lelki folyamatok kialakulásához vezető tényezők időben történő felismerésén és mentálhigiénés gondozáson,
+- g) a problémák kezelésére történő felkészítésen, a támogató közösség, környezet kialakításán
 
 alapul.
 
 38. § (1) A köz- és felsőoktatási, valamint a szakképzési rendszer, illetőleg a felnőttoktatás keretében az életkorhoz és a tanulmányokhoz igazodva meg kell ismertetni
 
-- a) az emberi szervezet működésének és a természeti, társadalmi, pszichés környezet kölcsönhatásainak törvényeit,
-- b) az egészséges táplálkozásra, életmódra, valamint az egészséges környezet megteremtésére vonatkozó tudnivalókat,
-- c) a személyes testi és lelki higiénés ismereteket,
-- d) a testmozgás és a sport egészségmegőrző szerepét,
-- e) a stresszhelyzetek megelőzésének, megoldásának és a konfliktusok kezelésének módszereit,
-- f) a szexuális kultúrával és a családtervezéssel, a nemi érintkezés útján terjedő betegségek megelőzésével kapcsolatos tudnivalókat,
+- a) az emberi szervezet felépítésének, működésének és a környezet kölcsönhatásainak törvényeit,
+- b) az egészséges életmódra, különös tekintettel az egészséges táplálkozásra, rendszeres testmozgásra, a dohányzás és a túlzott alkoholfogyasztás mellőzésére, valamint az egészséges környezet megteremtésére vonatkozó tudnivalókat,
+- c) a személyi higiénés és mentálhigiénés ismereteket,
+- d) a testmozgás és a sport egészségfejlesztő szerepét,
+- e) a nemi érintkezés útján terjedő betegségek megelőzésével és kezelésével kapcsolatos tudnivalókat,
+- f) a legfontosabb szűrővizsgálatokat és az azokon való részvétel fontosságát,
 - g) a szenvedélybetegségeket, ezek káros hatásait, és a rászokás elkerülésének módját,
 - h) az elsősegélynyújtás elméletét és gyakorlatát,
-- i) az egészségügyi szolgáltatások igénybevételének feltételeit és lehetőségeit,
+- i) az egészségügyi szolgáltatások igénybevételének szükségességét, feltételeit és lehetőségeit, valamint
 - j) az egészséggel összefüggő etikai alapokat.
 
-(2) Az egészségnevelésnek ki kell terjednie a betegségek, illetve kórmegelőző állapotok megelőzésével és korai felismerésével kapcsolatos tudnivalók, módszerek ismertetésére is. Ennek során hangsúlyozni kell az egyén lehetőségeit és felelősségét egészsége megőrzésével kapcsolatban.
+(2) Kiemelt figyelmet kell fordítani az ifjúkori betegségek felismerésére, a betegségek és a szövődmények kialakulásának megelőzésére, valamint a fizikai és mentális állapot szűrési módszertanának, programjának kidolgozására, országos kiterjesztésére, az életmód-tanácsadási rendszer megvalósítására.
 
-(3) Minden egészségügyi dolgozó feladata az egészségnevelésben való aktív részvétel, ezért az egészségügyi dolgozók képzése során kiemelt figyelmet kell fordítani az életmód-tanácsadásra történő felkészítésre.
+(3) Rendszeres szűrőprogramokat szükséges megvalósítani előzetesen meghatározott kockázati és korcsoportokban. A szűrőprogramok eredményeit személyre szabott tanácsadásra és népegészségügyi akciók indítására kell felhasználni.
 
-(4) Az (1) bekezdésben foglaltakat a pedagógusok képesítési követelményeinek meghatározása során figyelembe kell venni.
+(4) Az egészségnevelés kiterjed a betegségek és kórmegelőző állapotok megelőzésével, korai felismerésével és az egészséges életmóddal kapcsolatos tudnivalók, módszerek ismertetésére is. Ennek során hangsúlyozandó az egyén és a közösség lehetősége és felelőssége egészségével kapcsolatban.
 
-(5) Az egészségnevelés szempontjait a közszolgálati rádió és televízió műsorpolitikájának kialakítása során is figyelembe kell venni.
+(5) Minden egészségügyi dolgozó feladata az egészségnevelésben való aktív részvétel, ezért az egészségügyi dolgozók képzése során kiemelt figyelmet kell fordítani az életmód-tanácsadásra történő felkészítésre.
+
+(6) Az (1) bekezdésben foglaltakat a pedagógusok képesítési követelményeinek meghatározása során figyelembe kell venni.
+
+(7) Az egészséges életmódot elősegítő ismeretek terjesztése körében a sajtótermékekben, valamint a médiaszolgáltatások nyújtása során az egészségnevelés szempontjait figyelembe kell venni.
 
 39. § (1) A lakosság egészségét veszélyeztető tényezőket és tevékenységeket észlelő, illetve ilyen tevékenységet folytató személyeket és szervezeteket a külön jogszabályban foglaltak szerint bejelentési kötelezettség terheli.
 
@@ -556,7 +562,7 @@ alapul.
 
 40. § (1) Az egészségvédelem alapvető eszközei az egészségnevelés mellett a fertőző megbetegedések megelőzését szolgáló védőoltások, a betegségek és kórmegelőző állapotok korai felismerését célzó szűrővizsgálatok rendszere, valamint az egészségügyi ellátás keretében végzett egészségügyi felvilágosító tevékenység.
 
-(2) A lakosság egészségi állapotát hosszú távon is jelentősen befolyásoló területek – a háziorvos ilyen irányú tevékenysége mellett – a család- és nővédelmi gondozás, a gyermekek és ifjak közösségeinek egészségügyi gondozása (a továbbiakban: ifjúság-egészségügyi gondozás), a foglalkozás-egészségügy, az időskorúak gondozása és a sportegészségügyi gondozás.
+(2) A lakosság egészségi állapotát hosszú távon is jelentősen befolyásoló területek – a háziorvos ilyen irányú tevékenysége mellett – a család- és nővédelmi gondozás, a gyermekek és ifjak közösségeinek egészségügyi gondozása, fejlesztése (a továbbiakban: ifjúság-egészségügyi gondozás), a foglalkozás-egészségügy, az időskorúak gondozása és a sportegészségügyi gondozás.
 
 40/A. § A külön jogszabályban meghatározott egészségfejlesztési programok akkreditációjával kapcsolatos eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
@@ -572,7 +578,7 @@ alapul.
 
 42. § (1) Az ifjúság-egészségügyi gondozás célja a kiskorúak harmonikus testi és lelki fejlődésének elősegítése. Ennek során biztosítani kell
 
-- a) az egészségnevelést,
+- a) a korcsoportokhoz igazodva a közoktatási intézményekben a teljeskörű egészségfejlesztés bevezetését és megvalósítását,
 - b) az életkoruknak megfelelő szűrővizsgálatokat,
 - c) az életkorhoz kötött kötelező védőoltásokat, illetve azok megtörténtének és eredményességének vizsgálatát, továbbá a kampányoltásokat,
 - d) a pályaválasztási tanácsadás egészségügyi feladatait,
@@ -587,7 +593,7 @@ alapul.
 (3) Az ifjúság-egészségügyi gondozás keretében
 
 - a) ellenőrizni kell
-  - aa) a közegészségügyi követelmények érvényesülését az elméleti és gyakorlati képzésre szolgáló helyiségekben, továbbá a szabadtéri foglalkoztatási és rekreációs területeken,
+  - aa) a közegészségügyi, valamint a balesetmegelőzési követelmények érvényesülését a gondozó és a nevelő-oktató intézményekben, az elméleti és gyakorlati képzésre szolgáló helyiségekben, továbbá a szabadtéri foglalkoztatási és rekreációs területeken,
   - ab) a bölcsődében, a nevelési-oktatási intézményben folyó étkeztetést,
   - ac) a járványügyi előírások betartását,
   - ad) az elsősegélynyújtás feltételeinek meglétét,
@@ -623,7 +629,7 @@ alapul.
 
 45. § (1) A környezet- és település-egészségügy feladata a környezet egészségkárosító hatásainak vizsgálata és a megelőzés lehetőségeinek feltárása.
 
-(2) Az (1) bekezdés szerinti tevékenység keretében rendszeresen vizsgálni kell a talaj, a felszíni és felszín alatti vizek, valamint az ivóvíz és minden egyéb, emberi felhasználásra kerülő víz, továbbá a kültéri és belsőtéri levegő szennyezettségét, a szennyvízelvezetés és a szilárd hulladékok elhelyezésének állapotát, valamint mindezek egészségkárosító tényezőit, a környezeti zaj-, rezgés- és fényártalmakat, a hőmérsékleti és a légnyomás okozta ártalmakat, az ionizáló és nem ionizáló sugárzások mértékét és egészségkárosító hatását.
+(2) Az (1) bekezdés szerinti tevékenység keretében rendszeresen vizsgálni kell az ivóvíz – a 178/2002/EK rendelet 2. cikke szerinti ivóvíz kivételével, amelyet az élelmiszer-vállalkozásoknál élelmiszer-előállításra használnak – és minden egyéb, emberi felhasználásra kerülő víz és felszíni víz, a medencés közfürdők vizének, valamint a belső téri levegő szennyezettségét, a szennyvízelvezetés és a szilárd hulladékok elhelyezésének állapotát, valamint mindezek egészségkárosító tényezőit, a környezeti zaj-, rezgés- és fényártalmakat, a hőmérsékleti és a légnyomás okoztak ártalmakat, az ionizáló és nem ionizáló sugarak mértékét és egészségkárosító hatását.
 
 (3) Ha valamely környezeti tényező szintje meghaladja az egészségügyi határértéket, az érintett területen tartózkodó személyeket erről tájékoztatni kell, az egészségkárosító hatások megelőzéséhez szükséges teendők egyidejű közlésével. A feltárt hiányosság megszüntetésére, illetve az egészségkárosító hatás megelőzésére – a hiányosság jellegétől függően – intézkedni kell.
 
@@ -644,15 +650,13 @@ alapul.
 
 ### 3. CÍM — Élelmezés- és táplálkozás-egészségügy
 
-48. § Az élelmezés-egészségügy feladata törvény eltérő rendelkezése hiányában az emberi közfogyasztás céljára szolgáló élelmiszer (a továbbiakban: élelmiszer)
+48. § Az élelmezés-egészségügy azon tevékenységek összessége, amelyek eredményeképpen az élelmiszerek a fogyasztó egészségét nem károsíthatják, energia- és tápanyag-szükségletének kielégítését szolgálják, az élelmiszer-biztonsági feladatok kivételével. Az élelmezés-egészségügy feladata az élelmiszer
 
-- a) előállításához és forgalomba hozatalához szükséges egészségügyi követelmények meghatározása és rendszeres ellenőrzése,
-- b) előállításában és forgalomba hozatalában közreműködő személyekre vonatkozó egészségügyi alkalmassági és higiénés követelmények meghatározása és rendszeres ellenőrzése,
-- c) közvetítésével történt mérgezések és fertőzések külön jogszabály szerinti kivizsgálása, okainak feltárása, nyilvántartása és további előfordulásának megelőzése, kölcsönös tájékoztatással együttműködve az élelmiszerlánc-felügyeleti szervvel.
+- a) előállításához és forgalomba hozatalához szükséges közegészségügyi követelmények meghatározása, és ezeknek az élelmiszerlánc-felügyeleti szervvel együttműködésben történő rendszeres ellenőrzése,
+- b) előállításában és forgalomba hozatalában közreműködő személyekre vonatkozó egészségügyi alkalmassági és higiénés követelmények meghatározása, és ezeknek az élelmiszerlánc-felügyeleti szervvel együttműködésben történő rendszeres ellenőrzése,
+- c) közvetítésével történt mérgezések és fertőzések jogszabály szerinti kivizsgálása, nyilvántartása, együttműködve az élelmiszerlánc-felügyeleti szervvel.
 
-49. § (1) Élelmiszert csak olyan anyagokból, illetve anyagok alkalmazásával és oly módon szabad előállítani, kezelni, forgalomba hozni, illetve külföldről behozni, amely megfelel a közegészségügyi előírásoknak.
-
-(2) Élelmiszert előállító, feldolgozó-, csomagoló-, illetve forgalomba hozó tevékenység folytatásához a külön jogszabályban előírtak szerinti esetekben az egészségügyi államigazgatási szerv hozzájárulása szükséges.
+49. § (1)–(2)
 
 (3)
 
@@ -660,9 +664,12 @@ alapul.
 
 (5) A közegészségügyi megfelelőség szempontjából az élelmiszerrel esik egy tekintet alá a rendeltetésszerű vagy szokásos használata során a szájjal érintkező gyermekjáték és más használati tárgy, illetve a kozmetikai készítmény.
 
-50. § (1) A táplálkozás-egészségügy feladata a lakosság táplálkozási helyzetére, tápláltsági állapotára, a táplálkozás és az egészségi állapot közötti összefüggésekre vonatkozó egyes vizsgálatok végzése, ezek alapján táplálkozási ajánlások kidolgozása.
+50. § (1) A táplálkozás-egészségügy feladata a lakosság táplálkozási helyzetére, tápláltsági állapotára, a táplálkozás és az egészségi állapot közötti összefüggésekre vonatkozó egyes vizsgálatok végzése, ezek alapján táplálkozási ajánlások kidolgozása – kiemelt figyelemmel a táplálkozással összefüggő nem fertőző betegségek előfordulásának csökkentésére –, a beavatkozási pontok és programok meghatározása, szervezése, lebonyolítása, értékelése és monitorozása.
 
-(2) A lakosságot felvilágosítás, nevelés, oktatás útján kell megismertetni az egészséges táplálkozás, ételkészítés és -kezelés módjaival, a táplálkozással összefüggő egészségi ártalmakkal és ezek elkerülési módjaival.
+(2) A lakosságot felvilágosítás, tájékoztatás, oktatás útján kell megismertetni
+
+- a) az egészséges táplálkozás, ételkészítés és -kezelés módjaival, a táplálkozással összefüggő egészségi ártalmakkal és ezek elkerülési módjaival,
+- b) az étrend-kiegészítők, a különleges táplálkozási igényt kielégítő élelmiszerek alkalmazásának szempontjaival.
 
 (3) A közétkeztetésben – különös tekintettel az egészségügyi, szociális és gyermekintézményekben nyújtott közétkeztetésre – az élettani szükségletnek megfelelő minőségű és tápértékű étkezést kell biztosítani.
 
@@ -767,10 +774,14 @@ kötelező védőoltás elrendelésének van helye.
 
 (2) Az elhalasztott kötelező védőoltást a halasztásra okot adó körülmény megszűnését követően haladéktalanul pótolni kell.
 
+(2a) Az (1) és (2) bekezdésben foglaltakról a kezelőorvos az egészségügyi államigazgatási szervet írásban értesíti.
+
 (3) A kezelőorvos, a beteg vagy a beteg törvényes képviselője a beteg lakóhelye szerint illetékes egészségügyi államigazgatási szervnél kérelmezheti a védőoltás alóli mentesítést, ha
 
 - a) a védőoltásban részesítés a beteg egészségi állapota miatt nem lehetséges, vagy a védőoltás a beteg egészségét vagy meglévő betegségét várhatóan károsan befolyásolná, és
 - b) az a) pont szerinti körülmény változása belátható időn belül nem várható.
+
+(3a) A (3) bekezdés szerinti kérelemhez csatolni kell a mentesítés indokoltságát alátámasztó orvosi szakvéleményt.
 
 (4) A (3) bekezdés szerinti eljárás alatt – annak jogerős befejezéséig – az adott védőoltás vonatkozásában a (7) bekezdés szerinti írásbeli felszólításnak vagy az adott védőoltás elrendelésének nincs helye. Ha a védőoltást korábban már elrendelték, és ezen védőoltás vonatkozásában eljárás indul a (3) bekezdés alapján, akkor a mentesítési eljárás jogerős befejezéséig a védőoltást elrendelő határozat nem hajtható végre. A mentesítési eljárásban a kezelőorvos külön vizsgálat nélkül ügyfélnek minősül.
 
@@ -948,13 +959,13 @@ kötelezett.
 
 ### Rovarok és egyéb ízeltlábúak,valamint rágcsálók irtása
 
-73. § (1) A betegségeket terjesztő vagy egészségügyi szempontból káros, külön jogszabályban meghatározott rovarok és rágcsálók irtásáról a terület, épület tulajdonosának, illetve kezelőjének rendszeresen gondoskodnia kell. A terület, illetve épület használói az irtást tűrni kötelesek.
+73. § (1) A betegségeket terjesztő vagy egészségügyi szempontból káros, miniszteri rendeletben meghatározott rovarok, rágcsálók irtásáról, és a madarak távoltartásáról a terület, épület tulajdonosa, illetve kezelője rendszeresen gondoskodik. A terület, illetve épület használói az irtást tűrni kötelesek.
 
-(2) Az emberi test felszínén, illetve felhámjában élősködő ízeltlábúak irtásának, illetve a ruhanemű fertőtlenítésének tűrésére az érintett személy köteles.
+(2) Az emberi test felszínén, felhámjában, és a szőrzetben élősködő ízeltlábúak irtása, a ruhanemű fertőtlenítése az érintett személy, illetve törvényes képviselője feladata. Ha ezen személyek irtási, fertőtlenítési kötelezettségüknek nem tesznek eleget, akkor hivatalból az egészségügyi szolgáltató vagy egészségügyi államigazgatási szerv képviselője jár el. Az egészségügyi szolgáltató vagy egészségügyi államigazgatási szerv képviselője által végzendő, az emberi test felszínén, felhámjában, és a szőrzetben élősködő ízeltlábúak irtásának, illetve a ruhanemű fertőtlenítésének tűrésére az érintett személy köteles.
 
 ### Egyéb járványügyi intézkedések
 
-74. § (1) Járványveszély vagy járvány (a továbbiakban együtt: járvány) fennállását az egészségügyi államigazgatási szerv állapítja meg.
+74. § (1) Járványveszély vagy járvány (a továbbiakban együtt: járvány) fennállását – a honvédelemért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezeteknél, továbbá a Magyar Honvédség katonai szervezeteinél fellépő járvány, járványveszély kivételével – az egészségügyi államigazgatási szerv állapítja meg. A kórokozó azonosítása, a fertőző forrás felderítése, a terjedési mód megállapítása és a veszélyeztetett lakosságcsoport meghatározása céljából járványügyi vizsgálatot kell végezni, élelmiszer közvetítésével terjedő járvány esetében az élelmiszerlánc-felügyeleti szervvel együttműködve.
 
 (2) Járvány esetén korlátozható vagy megtiltható
 
@@ -969,7 +980,7 @@ kötelezett.
 
 (3) Az egészségügyi államigazgatási szervnek a (2) bekezdés alapján hozott határozata – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 
-(4) A (2) bekezdés f)–h) pontjai alapján hozott határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell.
+(4) A (2) bekezdés b) és f)–h) pontjai alapján hozott határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell.
 
 ### IV. Fejezet — AZ EGÉSZSÉGÜGYI ELLÁTÁSOK RENDSZERE
 
@@ -977,7 +988,7 @@ kötelezett.
 
 75. § (1) Az egészségügyi ellátások rendszere az egészségügyi szolgáltatások biztosítását és a népegészségügyi célok megvalósulását összehangoltan teszi lehetővé.
 
-(2) Az egészségügyi szolgáltatások célja, hogy hozzájáruljon az egyének egészségének megőrzéséhez, lehetséges mértékű helyreállításához, az egészségromlás mérsékléséhez, segítse a megváltozott egészségi állapotú egyének munkába és közösségbe való beilleszkedését.
+(2) Az egészségügyi szolgáltatások célja, hogy hozzájáruljon az egészség fejlesztéséhez, lehetséges mértékű helyreállításához, az egészségromlás mérsékléséhez, segítse a megváltozott egészségi állapotú egyének munkába és közösségbe való beilleszkedését.
 
 (3) Az egészségügyi ellátások rendszere az eltérő egészségi állapotú egyének differenciált ellátását szolgáló, a munkamegosztás és a fokozatosság elvén alapuló intézményrendszerre épül, amelyben az egyén egészségi állapotának összes jellemzője együttesen határozza meg a szükséges ellátási szintet (a továbbiakban: progresszív ellátás).
 
@@ -1205,7 +1216,7 @@ beutalása alapján vehető igénybe.
 
 ### Ápolás
 
-98. § (1) Az ápolás azoknak az ápolási és gondozási eljárásoknak az összessége, amelyek feladata az egészségi állapot javítása, az egészség megőrzése és helyreállítása, a beteg állapotának stabilizálása, a betegségek megelőzése, a szenvedések enyhítése a beteg emberi méltóságának a megőrzésével, környezetének az ápolási feladatokban történő részvételre való felkészítésével és bevonásával.
+98. § (1) Az ápolás azoknak az ápolási és gondozási eljárásoknak az összessége, amelyek feladata az egészségi állapot javítása, az egészség megőrzése, fejlesztése és helyreállítása, a beteg állapotának stabilizálása, a betegségek megelőzése, a szenvedések enyhítése a beteg emberi méltóságának a megőrzésével, környezetének az ápolási feladatokban történő részvételre való felkészítésével és bevonásával.
 
 (2) Az ápolás
 
@@ -1274,7 +1285,7 @@ beutalása alapján vehető igénybe.
 
 (2) A klinikai szakpszichológiai tevékenység az a klinikai és mentálhigiéniai szakpszichológus által végzett tevékenység, amely
 
-- a) a lelki egészség megőrzésére és helyreállítására,
+- a) a lelki egészség megőrzésére, fejlesztésére és helyreállítására,
 - b) a lelki zavarok megállapítására, vizsgálatára és okainak feltárására,
 - c) egyes betegségek diagnosztizálásához szükséges pszichodiagnosztikai vizsgálatok végzésére, valamint
 - d) a lelki zavarok pszichológiai módszerekkel történő korrekciójára
@@ -1419,7 +1430,7 @@ kell alkalmazni.
 
 110/A. § (1) Az egészségügyi államigazgatási szerv a bizonyítványát, illetve az oklevelét külföldön elismertetni szándékozó személy részére – kérelmére vagy külföldi hatóság megkeresésére – a 110. § (16) bekezdés szerinti, továbbá a működési nyilvántartásban szereplő adatok, valamint a (4) bekezdés szerinti igazolás vagy adatigénylés alapján, külön jogszabályban meghatározottak szerint hatósági bizonyítványt állít ki (a továbbiakban: jó hírnév igazolás).
 
-(2) A jó hírnév igazolás az alábbiakat igazolja:
+(2) A jó hírnév igazolás az alábbiakat tartalmazza:
 
 - a) az egészségügyi dolgozó a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány vagy a (4) bekezdés szerinti adatközlés alapján a jó hírnév igazolás kiállítása napján büntetlen előéletű-e és áll-e az egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt,
 - b) az egészségügyi dolgozó áll-e etikai vétség miatt jogerősen kiszabott büntetés hatálya alatt,
@@ -1458,16 +1469,23 @@ kell alkalmazni.
 - a) aki nem szerepel az alapnyilvántartásban,
 - b) aki a (4) bekezdés a) pontjában foglalt adatok közlését megtagadja,
 - c) aki – jogszabályban meghatározott esetekben – a megfelelő szakmai nyelvismeret meglétét, vagy aki a 113. § (6) bekezdés esetében a továbbképzési kötelezettsége teljesítését nem igazolja,
-- d) akit nyilvántartásba vétele esetén a 113/A. § (1) bekezdés b)–d) pontjai alapján a nyilvántartásból törölni kellene,
-- e) akit a működési nyilvántartásból a 113/A. § (1) bekezdés e)–f) pontjai alapján töröltek, a törléstől számított egy évig,
-- f) akit a működési nyilvántartásból a 113/A. § (1) bekezdés a) pontja alapján töröltek, a továbbképzés elvégzésének igazolásáig,
+- d) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll, illetve aki az ezen tények fenn nem állása tekintetében a 112/A. § (1) bekezdés szerinti igazolási kötelezettségét nem teljesíti,
+- e) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
+- f) akit belátási képessége csökkenése következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
 - g) aki a 113. § (5) bekezdése szerinti nyilatkozattételi kötelezettségét nem teljesíti,
 - h) aki a 112/A. § (3) bekezdésében foglalt hozzájárulást nem adja meg,
-- i) aki a 112/A. § (1) bekezdés szerinti igazolási kötelezettségét nem teljesíti.
+- i) akit korábban azért töröltek a működési nyilvántartásból, mert
+  - ia) felróható magatartásával a működési nyilvántartást vezető szervvel a nyilvántartás körébe tartozó valótlan adatot közöl,
+  - ib) szakirányú szakképesítéshez kötött tevékenységet – ha jogszabály eltérően nem rendelkezik – a megfelelő szakképesítés, illetve szakirányú szakképesítés működési nyilvántartásba történő bejelentése nélkül vagy azt megelőzően kezd meg
+
+a törléstől számított egy évig,
+
+- j) akit a működési nyilvántartásból korábban azért törtöltek, mert a működési nyilvántartását e törvényben és jogszabályban foglalt módon és határidőben nem újította meg, vagy a működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították, e törvény szerinti továbbképzési kötelezettség teljesítésének igazolásáig,
+- k) aki – feltéve, hogy a törvény kötelező kamarai tagságot ír elő – nem tagja a szakképesítése szerint illetékes szakmai kamarának.
 
 (4) A működési nyilvántartás az alábbi adatokat tartalmazza:
 
-- a) az egészségügyi dolgozó neme, természetes személyazonosító adatai, lakóhelye és tartózkodási helye, állampolgársága,
+- a) az egészségügyi dolgozó neme, természetes személyazonosító adatai, az egészségügyi tevékenység gyakorlása során használt neve, lakóhelye és tartózkodási helye, állampolgársága,
 - b) a 115. § (2) bekezdés a), b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése, a képzés nyelve,
 - c) a működési nyilvántartási ciklus megújításának és lejártának időpontja, valamint az egészségügyi dolgozó által megszerzett és a működési nyilvántartásban szereplő valamennyi szakképesítés és szakképzettség tekintetében fennálló, e törvény és jogszabály szerinti továbbképzési kötelezettség teljesítése vagy továbbképzési kötelezettség alóli mentesülés ténye,
 - d) idegen nyelv vagy nyelvek ismeretének szintje, típusa, az arról kiállított bizonyítvány vagy azzal egyenértékű okirat száma, kiállításának helye és ideje, a kiállító szerv megnevezése, valamint az e törvényben meghatározott esetben az igazolt magyar nyelvismeret alapján végezhető tevékenységi kör megjelölése,
@@ -1482,13 +1500,25 @@ kell alkalmazni.
 - m) a felügyelet melletti tevékenységgyakorlás kezdete és időtartama, a felügyeletet ellátó személy neve, működési nyilvántartási száma,
 - n) a 110. § (16) bekezdés b) pontja szerint kapott, az egészségügyi dolgozó külföldi tevékenységvégzési jogosultágát érintő adat.
 
-(5) A (4) bekezdés b)–c), e)–f) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve bárki számára megismerhető adat.
+(4a) Az egészségügyi dolgozó hivatásának gyakorlásakor
+
+- a) a saját családi nevét és utónevét vagy a születési nevét,
+- b) amennyiben erre jogszabály alapján jogosultságot szerzett a doktori címét, és
+- c) az egészségügyi szakképesítésére utaló megnevezést használja. Ennek keretében az egészségügyi dolgozó az egészségügyi tevékenység gyakorlása során használt nevét köteles megjeleníteni a névtábláján, valamint az orvosok, fogorvosok az orvosi bélyegzőjükön és az orvosi vényen is használják.
+
+(4b) Amennyiben az egészségügyi dolgozó a (4a) bekezdés alapján az egészségügyi tevékenység gyakorlása során a születési nevét kívánja használni, azt annak a működési nyilvántartásba történt bejegyzését követően és kizárólag a (4a) bekezdésben meghatározott esetekben használhatja.
+
+(5) A (4) bekezdés b)–c), e)–f) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve bárki számára megismerhető adat.
 
 (6) A működési nyilvántartást vezető szerv a (4) bekezdés j) pontja szerinti adatot a határozat jogerőre emelkedésétől számított két év után, az n) pont szerinti adatot az adat beérkezésétől számított két év után a nyilvántartásból hivatalból törli.
 
-112/A. § (1) A működési nyilvántartásba történő bejegyzés iránti kérelem benyújtásával egyidejűleg az egészségügyi dolgozó hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll jogerősen kiszabott, 1 évet meghaladó végrehajtandó szabadságvesztés és az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a működési nyilvántartást vezető szerv részére – annak a működési nyilvántartásba történő bejegyzés iránti kérelme elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a működési nyilvántartást vezető szerv a (2) bekezdésben meghatározott adatokat igényelhet a bűnügyi nyilvántartó szervtől.
+(7) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, valamint az egészségügyi dolgozók (4) bekezdés a), b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést vagy az abba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról havi rendszerességgel – törvény szerinti hatósági ellenőrzés elvégzése céljából – elektronikus úton tájékoztatást nyújt az egészségbiztosítási szerv részére.
 
-(2) A működési nyilvántartást vezető szerv az érvényes működési nyilvántartással rendelkező egészségügyi dolgozó tekintetében a működési nyilvántartás érvényességi ideje alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a működési nyilvántartásba vett személy nem áll jogerősen kiszabott, 1 évet meghaladó végrehajtandó szabadságvesztés és az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a működési nyilvántartást vezető szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy a működési nyilvántartásba vett személy 1 évet meghaladó végrehajtandó szabadságvesztés és az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+(8) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, valamint az egészségügyi dolgozók (4) bekezdés b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról – az egészségügyi tevékenység végzéséhez szükséges feltételek fennálltával kapcsolatos adategyeztetés céljából –, annak a működési nyilvántartásba történt bejegyzését követő 15 napon belül elektronikus úton tájékoztatja az illetékes szakmai kamarát. A működési nyilvántartást vezető szerv a szakmai kamara megkeresésére, a kamarai tagság létesítéséhez jogszabály alapján szükséges, a (4) bekezdés b) és k) pontja szerinti adatairól 15 napon belül elektronikus úton tájékoztatja a szakmai kamarát.
+
+112/A. § (1) A működési nyilvántartásba történő bejegyzés iránti kérelem benyújtásával egyidejűleg az egészségügyi dolgozó hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll olyan bűncselekménnyel kapcsolatosan a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, illetve nem áll az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a működési nyilvántartást vezető szerv részére – annak a működési nyilvántartásba történő bejegyzés iránti kérelme elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a működési nyilvántartást vezető szerv a (2) bekezdésben meghatározott adatokat igényelhet a bűnügyi nyilvántartó szervtől.
+
+(2) A működési nyilvántartást vezető szerv az érvényes működési nyilvántartással rendelkező egészségügyi dolgozó tekintetében a működési nyilvántartás érvényességi ideje alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az egészségügyi dolgozó megfelel-e az (1) bekezdésben foglalt feltételeknek. A hatósági ellenőrzés céljából a működési nyilvántartást vezető szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag az (1) bekezdésben foglalt feltételek fennállásának megállapítására irányulhat.
 
 (3) A működési nyilvántartásba történő bejegyzés iránti kérelem benyújtásával egyidejűleg az egészségügyi dolgozó köteles hozzájárulását adni ahhoz, hogy a működési nyilvántartást vezető szerv a (2) bekezdés szerinti hatósági ellenőrzést az ott meghatározottak szerint folyamatosan végezze mindaddig, míg az egészségügyi dolgozó a működési nyilvántartásban szerepel.
 
@@ -1501,7 +1531,7 @@ kell alkalmazni.
 
 112/B. §
 
-113. § (1) Az egészségügyi dolgozó működési nyilvántartásának időtartama öt év, amely a nyilvántartott személy kérelmére megújítható vagy meghosszabbítható.
+113. § (1) Az egészségügyi dolgozó működési nyilvántartásának érvényességi ideje öt év, amely a nyilvántartott személy kérelmére megújítható vagy meghosszabbítható. A működési nyilvántartás adatainak kötelező megőrzési ideje a működési nyilvántartásból történő törléstől számított 10 év.
 
 (2) A működési nyilvántartás ötéves időtartama akkor újítható meg, ha
 
@@ -1525,7 +1555,7 @@ kell alkalmazni.
 113/A. § (1) A működési nyilvántartásból a nyilvántartást vezető szerv – a (2) bekezdésben foglalt eltéréssel – törli azt a személyt
 
 - a) aki nyilvántartását e törvényben és jogszabályban foglalt módon és határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították,
-- b) aki 1 évet meghaladó végrehajtandó szabadságvesztést kimondó, illetve foglalkozása gyakorlásától eltiltó jogerős bírósági határozat hatálya alatt áll,
+- b) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll,
 - c) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
 - d) akit belátási képessége csökkenése következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
 - e) aki felróható magatartásával a működési nyilvántartást vezető szervvel a nyilvántartás körébe tartozó valótlan adatot közöl,
@@ -1535,6 +1565,8 @@ kell alkalmazni.
 - i) akinek – feltéve, hogy törvény kötelező kamarai tagságot ír elő – kamarai tagsága megszűnt.
 
 (2) Ha az egészségügyi dolgozó működési nyilvántartását azért nem újította meg, mert az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti gyakorlati továbbképzési kötelezettségét nem tudta teljesíteni, nem törölhető a működési nyilvántartásból, amennyiben legkésőbb a törlés időpontjáig a nyilvántartást vezető szervnek igazolja, hogy a nyilvántartásból való törlés elkerülése érdekében az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti kiegészítő gyakorlati továbbképzésben részt vesz. A kiegészítő gyakorlati képzést az igazolás beérkezését követő naptól számított egy éven belül kell teljesíteni.
+
+(3) A működési nyilvántartást vezető szerv minden év április 1-jéig a megelőző évben bekövetkezett adatváltozások egyeztetése céljából a 112. § (4) bekezdés a) pontjában, valamint a 113/A. § (1) bekezdés g) pontjában szereplő adatok tekintetében a személyiadat- és lakcímnyilvántartást vezető hatóságot megkeresi. A megkeresett hatóság az adategyeztetés során köteles együttműködni és a szükséges adatokat a működési nyilvántartást vezető szerv rendelkezésére bocsátani.
 
 113/B. § Az egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
@@ -1548,7 +1580,7 @@ kell alkalmazni.
 - b) a 112. § (4) bekezdés d) pontjából idegen nyelvenként a nyelvismeret legmagasabb szintjére és típusára vonatkozó adatokat,
 - c) a 112. § (4) bekezdés f) pontja szerinti adatokat, továbbá az egészségügyi tevékenységvégzés helyének kistérség szerinti megjelölését,
 - d) az adott évben orvos- és egészségtudomány képzési területen alapképzésre, mesterképzésre és egységes, osztatlan képzésre felvettek számára vonatkozó adatokat szakok szerinti megoszlásban,
-- e) az adott évben egészségügyi felsőfokú szakirányú szakképzésre felvettek számára, a megszerezni kívánt szakképesítés szerinti megoszlásban, valamint a szakvizsgát tett személyek számára szakképesítés szerinti megoszlásban vonatkozó adatokat,
+- e) az adott évben egészségügyi felsőfokú szakirányú szakképzésre felvettekre, a szakvizsgát tett személyekre vonatkozó adatokat, valamint a 116/A. § (5) bekezdés d) pontja szerinti adatokat,
 - f) a d) és e) pontokban nem említett, az adott évben egyes egészségügyi szakképzésre felvettek, valamint az egészségügyi szakképesítést szerzettek számára és szakképesítés szerinti megoszlására, az adott évben szervezett továbbképzések típusára, az azon részt vettek számára vonatkozó adatokat,
 - g) az oklevelét külföldön elismertetni szándékozó személy részére az elismertetéshez szükséges hatósági bizonyítvány kiállítására irányuló eljárásában a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv tudomására jutott adatok közül a kérelmező célországára, szakképesítésére, valamint azon személyek számára vonatkozó adatokat, akik részére ilyen célból hatósági bizonyítvány került kiállításra,
 - h) az egészségügyi ágazati munkaerőigényre vonatkozó adatokat foglalkozások szerinti bontásban,
@@ -1561,11 +1593,11 @@ kell alkalmazni.
 
 - a) személyazonosításra alkalmas módon továbbítja
   - aa) a (2) bekezdés a)–c) pontja szerinti adatokat a működési nyilvántartást vezető szerv,
-  - ab) a (2) bekezdés e) pontja szerinti adatokat közül a szakvizsgát tett személyek számára vonatkozó adatokat az Egészségügyi Szakképzési és Továbbképzési Tanács,
+  - ab) a (2) bekezdés e) pontja szerinti adatokat az egészségügyi államigazgatási szerv,
   - ac) a (2) bekezdés g) pontja szerinti adatokat a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság, vagy – a 110/A. § (1) bekezdése szerinti feladatkörében – az egészségügyi államigazgatási szerv,
   - ad) a (2) bekezdés i) és k) pontja szerinti adatokat az egészségügyi államigazgatási szerv;
 - b) személyazonosításra alkalmatlan módon továbbítja
-  - ba) a (2) bekezdés d) és f) pontja szerinti adatokat, valamint a (2) bekezdés e) pontja szerinti adatok közül egészségügyi felsőfokú szakirányú szakképzésre felvettek számára vonatkozó adatokat az orvos- és egészségtudomány képzést folytató felsőoktatási intézmények,
+  - ba) a (2) bekezdés d) és f) pontja szerinti adatokat az orvos- és egészségtudományi képzést folytató felsőoktatási intézmény,
   - bb) a (2) bekezdés h) pontja szerinti adatokat az állami foglalkoztatási szerv és a kormányzati személyügyi szolgáltató,
   - bc) a (2) bekezdés j) pontja szerinti adatokat a hivatalos statisztikai szolgálat,
   - bd) a (2) bekezdés l) pontja szerinti adatokat az egészségbiztosítási államigazgatási szerv.
@@ -1601,6 +1633,26 @@ kell alkalmazni.
 (2) Minden olyan szakterületen, amely nem tartozik a (1) bekezdésben felsoroltak közé, az egészségügyi felsőfokú szakirányú szakmai képzésben az vehet részt, aki a felsőoktatási mesterképzésben külön jogszabályban meghatározottak szerinti szakképzettséget szerzett és egészségügyi szolgáltatónál meghatározott munkakörben munkavégzésre irányuló jogviszonyban áll, továbbá megfelel az adott felsőfokú szakirányú szakmai képzéshez szükséges külön jogszabály szerinti részvételi követelményeknek.
 
 (3) Az egészségügyi felsőfokú szakirányú szakmai képzés szakvizsgával zárul, a szakvizsgáztatást az Egészségügyi Szakképzési és Továbbképzési Tanács (a továbbiakban: ESZTT) szervezi külön jogszabályban meghatározottak szerint. A szakvizsga sikeres letételéről az ESZTT külön jogszabályban meghatározottak szerint szakmai szakvizsga bizonyítványt állít ki.
+
+(4) Az egészségügyi felsőfokú szakirányú szakmai képzés költségvetési forrásának kezelése érdekében az egészségügyi államigazgatási szerv nyilvántartást vezet, az államilag támogatott egészségügyi felsőfokú szakirányú szakmai képzésben részt vevő személyekről.
+
+(5) A (4) bekezdés szerinti nyilvántartás tartalmazza:
+
+- a) a szakképzésben részt vevő természetes személyazonosító adatait, és működési nyilvántartási számát,
+- b) a szakképzésben részt vevő szakirányát,
+- c) az elméleti képzésért felelős egészségügyi felsőoktatási intézmény megnevezését,
+- d) a szakképzés gyakorlati részének teljesítésére vonatkozó adatokat,
+- e) a munkáltató nevét, címét, adószámát és bankszámla számát.
+
+(6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a szakorvosjelöltnek az (5) bekezdés d) pontja szerinti adatairól.
+
+(7) Az
+
+- a) (5) bekezdés a) pontjában foglalt adatok közül a természetes személyazonosító adatokban bekövetkezett változást a jelölt,
+- b) (5) bekezdés b) és c) pontjai szerinti adatokban bekövetkezett változást a felsőoktatási intézmény és
+- c) (5) bekezdés e) pontja szerinti adatokban bekövetkezett változást a munkáltató a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni az egészségügyi államigazgatási szerv részére.
+
+(8) A (4) bekezdés szerinti nyilvántartás adatainak kötelező megőrzési ideje a támogatott szakképesítés megszerzésétől számított 10 év.
 
 116/B. § (1) Az egészségügyi ellátás megfelelő szakmai színvonalának biztosítása érdekében – a megszerzett ismeretek és készségek folyamatos szinten tartása, fejlesztése érdekében, a tudomány korszerű színvonalának és az egészségügyi ellátás igényeinek megfelelően – az egészségügyi tevékenységet önállóan végző, egészségügyi szakképesítéssel rendelkező személyek (a továbbiakban: továbbképzésre kötelezett) egészségügyi szakmai továbbképzésben (a továbbiakban: továbbképzés) kötelesek részt venni.
 
@@ -1899,7 +1951,7 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 
 ### 1. CÍM — Az állam felelőssége a lakosság egészségi állapotáért
 
-141. § (1) Az állam – az e törvényben meghatározott keretek között – felelős a lakosság egészségi állapotáért, különösen azért, hogy az ehhez szükséges feltételrendszer kialakításával lehetővé váljon a közösségek és az egyének számára egészségi állapotuk megőrzése, védelme és fejlesztése, valamint szükség esetén lehetséges mértékű helyreállítása.
+141. § (1) Az állam – az e törvényben meghatározott keretek között – felelős a lakosság egészségi állapotáért, különösen azért, hogy az egészséghez szükséges feltételrendszer kialakításával lehetővé váljon a közösségek és az egyének számára egészségi állapotuk védelme és fejlesztése, valamint szükség esetén lehetséges mértékű helyreállítása.
 
 (2) Az állam felelősségének tartalma:
 
@@ -1910,7 +1962,7 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 
 (3) Az állam felelőssége körében az állam kötelezettségét képezi különösen
 
-- a) az egészségmegőrzés és egészségfejlesztés alapvető feltételeinek biztosítása,
+- a) az egészségfejlesztés alapvető feltételeinek biztosítása,
 - b) az egészségügyi ellátórendszer, az egészségügyi ellátási kötelezettség és felelősség meghatározása,
 - c) az egészségpolitika céljait szolgáló finanszírozási, fejlesztési és információs rendszer kialakítása és fejlesztése,
 - d) az egészségügyi szolgáltatások szakmai feltételrendszerének meghatározása, ideértve az egészségügyi szolgáltatások minőségének biztosítását és ellenőrzését is,
@@ -1975,39 +2027,14 @@ költségének fedezetét.
 
 145. § A Magyar Köztársaság Országgyűlése az egészségüggyel kapcsolatosan:
 
-- a) tevékenysége során figyelembe veszi és érvényesti a lakosság egészségének megőrzéséhez fűződő érdekeket és az ehhez rendelt egészségpolitikai célokat,
-- b) elfogadja a Nemzeti Egészségfejlesztési Programot, értékeli az abban foglaltak végrehajtását és a lakosság egészségi állapotának általános helyzetét.
+- a) tevékenysége során figyelembe veszi és érvényesíti a lakosság egészségének védelméhez, a betegségek megelőzéséhez és az egészség fejlesztéséhez fűződő érdekeket és az ehhez rendelt egészségpolitikai célokat,
+- b) értékeli a lakosság egészségi állapotának általános helyzetét.
 
-### A Nemzeti Egészségfejlesztési Program
+### Az egészségfejlesztési program
 
-146. § (1) Az ország középtávú fejlesztési, stratégiai tervezésének részét képező Nemzeti Egészségfejlesztési Program (a továbbiakban: NEP) az egészségügyi tervezés alapja. A NEP-ben foglaltakat a gazdaságpolitikai, a terület-, illetőleg településfejlesztési, továbbá valamennyi állami tervezés körébe tartozó döntés meghozatala, illetőleg végrehajtása során érvényre kell juttatni.
+146. §
 
-(2) A NEP tartalmazza
-
-- a) a lakosság egészségi állapotának bemutatását különös figyelemmel a kiemelkedően kritikus területekre,
-- b) a megvalósítani kívánt egészségfejlesztési, egészségvédelmi célok meghatározását,
-- c) a kitűzött célok megvalósításához szükséges feladatokat, azok végrehajtási sorrendjét,
-- d) a kitűzött célok megvalósításához szükséges eszközöket, különös tekintettel a pénzügyi forrásokra,
-- e) a lakosság egészségi állapota és az azt meghatározó tényezők alapján várható egészségügyi ellátási szükségletet és annak változásait,
-- f) az egészségügyi rendszer – ideértve a finanszírozást és a szakmai irányítást is – fejlesztési irányait,
-- g) az egészségügyi ellátórendszer szerkezetében indokolt változásokat,
-- h) a fejlesztési prioritásokat,
-- i) a humán erőforrással kapcsolatos fejlesztési irányokat és az ehhez szükséges eszközöket,
-- j) a stratégiai jelentőségű gép-, műszerfejlesztést,
-- k) az ágazat kutatás-fejlesztési irányait,
-- l) a szakmai szabályozás és a minőségbiztosítás fejlesztési tervét.
-
-(3) A NEP-et a – az országos középtávú fejlesztési, stratégiai tervekkel összhangban – az ott meghatározott középtávú tervezési időszakokhoz igazodva kell kidolgozni, illetve felülvizsgálni.
-
-(4) A NEP előkészítése során a miniszter javaslatot kér
-
-- a) a RET-ektől,
-- b) a fővárosi és a megyei önkormányzatoktól, továbbá a helyi önkormányzati szövetségektől,
-- c) az egészségügyben működő szakmai kamaráktól és más szakmai és érdekképviseleti szervektől.
-
-(5) A NEP tervezetét véleményezi a Nemzeti Egészségügyi Tanács. A NEP-et az Országgyűlés fogadja el.
-
-146/A. § (1) A NEP-hez igazodva a RET elkészíti az adott egészségügyi régió egészségfejlesztési programját.
+146/A. § (1) A RET elkészíti az adott egészségügyi régió egészségfejlesztési programját.
 
 (2) A regionális egészségfejlesztési program tartalmazza
 
@@ -2044,7 +2071,7 @@ költségének fedezetét.
 
 147. § (1) A Kormány az egészségügy szervezésével és irányításával összefüggő feladatkörében
 
-- a) gondoskodik – a miniszter útján – a NEP előkészítéséről, illetőleg annak az Országgyűlés elé terjesztéséről,
+- a)
 - b) meghatározza az egészséget támogató kormányzati politika, ezen belül az egészségpolitika elveit, céljait és főbb irányait,
 - c) irányítja és összehangolja az egészségügyi államigazgatási feladatok végrehajtását,
 - d) gondoskodik az egészségügyet érintő nemzetközi szerződésekben foglalt kötelezettségek teljesítéséről, illetőleg jogok érvényesítéséről,
@@ -2053,48 +2080,7 @@ költségének fedezetét.
 
 (2) A Kormány a külön törvényben foglaltaknak megfelelően törvényességi felügyeletet gyakorol az egészségbiztosítási szervek tevékenysége felett.
 
-### Nemzeti Egészségügyi Tanács
-
-148. § (1) A Kormány egészségügyi szervezéssel és irányítással kapcsolatos feladatainak ellátását a Nemzeti Egészségügyi Tanács (a továbbiakban: Tanács) segíti.
-
-(2) A Tanács
-
-- a) a kormányzati egészségpolitika kialakításában és az ezzel összefüggő döntések meghozatalában kezdeményező, javaslattevő, véleményező és tanácsadó,
-- b) a kormányzati egészségpolitikai döntések végrehajtásának folyamatában, elemző és értékelő
-
-tevékenységet végez.
-
-(3) A Tanács közreműködik:
-
-- a) a NEP kialakításában és végrehajtásában,
-- b) a lakosság egészségét támogató és fejlesztő kormányzati szintű társadalompolitika kialakításában és a döntések előkészítésében,
-- c) az egészségpolitika cél- és eszközrendszerének kidolgozásában és érvényre juttatásában,
-- d) a népegészségügyi feladatok és azok végrehajtási sorrendjének meghatározásában.
-
-149. § (1) A Tanács tagjai:
-
-- a) az egészségügy területén működő országos szakmai kamarák egy-egy képviselője,
-- b) az egészségügyben dolgozók országos érdekképviseleti szervezetei által delegált három fő,
-- c) a betegek országos érdekképviseleti szervezetei által delegált tíz fő,
-- d) a helyi önkormányzatok országos érdekszövetségei által delegált három fő,
-- e) az egészségügyi szolgáltatók országos szövetségei által delegált három fő,
-- f) az egészségügyi oktatási intézmények által delegált három fő,
-- g) az egészségügyi szolgáltatót fenntartó minisztériumok által delegált egy-egy fő,
-- h) a munkavédelmi hatóság által kijelölt egy fő,
-- i) a Magyar Tudományos Akadémia által kijelölt egy fő, valamint
-- j) az egészségügy területén működő tudományos társaságok által delegált két fő.
-
-(2) A Tanácsnak e törvény erejénél fogva tagja, továbbá
-
-- a) a miniszter,
-- b) az egészségügyi államigazgatási szerv képviselője, valamint
-- c) az egészségbiztosítási szerv vezetője.
-
-(3) A Tanács a tagjai sorából elnököt választ. A Kormány képviseletében a miniszter e törvény erejénél fogva társelnöki tisztséget tölt be.
-
-(4) A Tanács működésének költségeit a központi költségvetésben kell biztosítani.
-
-(5) A Tanács feladataira, szervezetére, illetőleg működésére vonatkozó további részletes szabályokat a Kormány állapítja meg.
+148–149. §
 
 ### Regionális Egészségügyi Tanács
 
@@ -2135,7 +2121,7 @@ tevékenységet végez.
 - b) a régió területén működő egészségügyi államigazgatási szervek egy közös képviselője,
 - c) a régió területén működő egészségbiztosítási szervek egy közös képviselője,
 - d) a Regionális Fejlesztési Tanács képviselője,
-- e) a Betegjogi, Ellátottjogi és Gyermekjogi Közalapítvány képviselője.
+- e) a betegjogi képviselőt foglalkoztató szerv képviselője.
 
 149/C. § (1) A RET jogi személy, gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni.
 
@@ -2157,7 +2143,7 @@ tevékenységet végez.
 
 150. § (1) A miniszter az e törvényben foglaltaknak, valamint a Kormány egészségpolitikai döntéseinek megfelelően ellátja az egészségügy ágazati irányítását. Így különösen
 
-- a) ellátja a NEP által meghatározott ágazati feladatokat,
+- a)
 - b) ellátja az egészségügyi képzéssel, szakképzéssel, szakirányú szakképzéssel és továbbképzéssel összefüggő szakmai feladatokat,
 - c) meghatározza az egészségügyi szolgáltatások szakmai követelmény rendszerét,
 - d) támogatja és összehangolja az egészségügyi ágazat feladatkörét érintő tudományos kutatótevékenységet,
@@ -2192,7 +2178,8 @@ tevékenységet végez.
 
 - a) gondoskodik a köztisztasági és településtisztasági feladatok ellátásáról,
 - b) biztosítja a 73. § (1) bekezdése szerinti külön jogszabályban meghatározott rovarok és rágcsálók irtását,
-- c) folyamatosan figyelemmel kíséri a település környezet-egészségügyi helyzetének alakulását és ennek esetleges romlása esetén – lehetőségeihez képest – saját hatáskörben intézkedik, vagy a hatáskörrel rendelkező és illetékes hatóságnál kezdeményezi a szükséges intézkedések meghozatalát.
+- c) folyamatosan figyelemmel kíséri a település környezet-egészségügyi helyzetének alakulását és ennek esetleges romlása esetén – lehetőségeihez képest – saját hatáskörben intézkedik, vagy a hatáskörrel rendelkező és illetékes hatóságnál kezdeményezi a szükséges intézkedések meghozatalát,
+- d) együttműködik a lakosságra, közösségekre, családi, munkahelyi, iskolai színterekre irányuló egészségfejlesztési tevékenységekben, valamint támogatja és aktívan kezdeményezi ezeket.
 
 (2) A települési önkormányzat képviselő-testülete dönt a gyógyiszap és gyógyforrástermék kitermeléséről, kezeléséről, az elismert gyógyvíz, a gyógyiszap és a gyógyforrástermék palackozásáról, csomagolásáról, valamint forgalomba hozataláról, illetve engedélyezi e tevékenységeket.
 
@@ -2248,7 +2235,7 @@ tevékenységet végez.
 
 (2) Az EFE az Egészségügyi Fejlesztési Előirányzat Központi részéből (a továbbiakban: központi rész) és az Egészségügyi Fejlesztési Előirányzat Regionális részéből (a továbbiakban: regionális rész) áll.
 
-(3) A központi rész felhasználása kizárólag a NEP-pel összhangban
+(3) A központi rész felhasználása kizárólag
 
 - a) kormányzati projektek támogatására,
 - b) a regionális egészségpolitikai programban szereplő fejlesztések, átalakítások, rekonstrukciók finanszírozására,
@@ -2272,7 +2259,7 @@ történhet.
 - a) a decentralizáció, a regionalitás elvének érvényre juttatásával az igazságosságra törekvő és az esélyegyenlőtlenségeket kiegyenlítő regionális egészségügyi fejlesztések pénzügyi támogatása,
 - b) az Európai Unió strukturális alapjaiból megszerezhető forrásokhoz szükséges önrész kiegészítése.
 
-(3) A regionális rész a NEP-pel összhangban kizárólag
+(3) A regionális rész kizárólag
 
 - a) a regionális egészségpolitikai programban szereplő fejlesztések, átalakítások, rekonstrukciók finanszírozására,
 - b) a (2) bekezdés b) pontja szerinti célra használható fel.
@@ -2892,7 +2879,7 @@ van helye.
 
 (3) Kivételesen a (2) bekezdésben foglalt feltételek hiánya esetén is sor kerülhet szerv adományozására. Ebben az esetben a donor és a recipiens együttes kérelmét a kórházi etikai bizottság vizsgálja meg. A kórházi etikai bizottság akkor járul hozzá a szervkivételhez, ha meggyőződött róla, hogy a donor és a recipiens között szoros érzelmi kapcsolat áll fenn és az adományozás ellenérték nélkül, valamint kényszertől, fenyegetéstől és megtévesztéstől mentesen történt.
 
-(4) A fogvatartott csak a (2) bekezdés szerinti esetben lehet szervdonor.
+(4) A fogvatartott csak a (2) bekezdés szerinti esetben lehet szerv-, illetve szövetdonor.
 
 (5) Csontvelő, illetve haemopoetikus őssejt vagy más regenerálódó szövet eltávolítására kivételesen korlátozottan cselekvőképes, illetve cselekvőképtelen személy testéből is sor kerülhet, az alábbi feltételek együttes fennállása esetén:
 
@@ -3319,7 +3306,17 @@ céljából lehet külföldre, illetve külföldről a Magyar Köztársaság ter
 
 244/A. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 113. § (4) bekezdésében foglaltakat akkor kell alkalmazni, ha a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét követően keletkezett. Amennyiben a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét megelőzően keletkezett, a működési nyilvántartást a nyilvántartott személy kérelmére a közfeladat ellátásának teljes idejével kell meghosszabbítani.
 
-(2) A Módtv.-nyel megállapított 116/B. § (4) bekezdésében foglaltakat a Módtv. hatálybalépését követően benyújtott működési nyilvántartás meghosszabbítása iránti kérelmekre kell alkalmazni.
+(2) A Módtv.-nyel megállapított 116/B. § (4) bekezdésében foglaltakat az egészségügyi szakdolgozók továbbképzésének szabályairól szóló miniszteri rendelet hatálya alá tartozó egészségügyi dolgozók esetében a Módtv. hatálybalépését követően megkezdett továbbképzési ciklusok esetében kell alkalmazni.
+
+(3) Az a személy, aki a működési nyilvántartásban az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvény (a továbbiakban: Tv.) hatálybalépését megelőző napon szereplő nevétől eltérő, e törvény szerinti nevet kíván használni az egészségügyi tevékenység gyakorlása során, a Tv. hatálybalépésétől számított 60 napon belül értesítenie kell a használni kívánt névről a működési nyilvántartást vezető szervet.
+
+(4) A Tv.-nyel megállapított 35. § (5) bekezdésében foglaltakat 2012. január 1-jétől kell alkalmazni.
+
+(5) A felsőoktatási intézmények az egészségügyi felsőfokú szakirányú szakképzést az egészségügyi felsőfokú szakirányú szakképzésben részt vevők számára szervezett központi gyakornoki rendszerről szóló 125/1999. (VIII. 6.) Korm. rendelet (a továbbiakban: R.) alapján megkezdőkre vonatkozó 116/A. § (5) bekezdés szerinti adatokat 2011. szeptember 30-ig elektronikus úton megküldik az egészségügyi államigazgatási szerv részére.
+
+(6) Az R. szerinti, a szakképzéssel összefüggő támogatások folyósításának feltétele, hogy a felsőoktatási intézmények – a (4) bekezdés szerinti időpontot követően – havonta elektronikus úton tájékoztatást adjanak az egészségügyi államigazgatási szervnek a szakorvosjelöltnek a 116/A. § (5) bekezdés d) pontja szerinti adatairól.
+
+(7) Az R. rendelkezései szerint a szakképzésben szakgyakorlati idejüket töltő személyek esetében a felsőoktatási intézmény – a (4) bekezdés szerinti időpontot követően – az egészségügyi felsőfokú szakirányú szakképzés képzési követelményeit meghatározó jogszabály szerinti részelemeinek teljesítéséről legkésőbb 15 napon belül elektronikus úton tájékoztatja az egészségügyi államigazgatási szervet.
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 
@@ -3342,7 +3339,7 @@ rendeletben kijelölje.
 
 - a) az ellátás visszautasítására vonatkozó részletes szabályokat megállapítsa,
 - b) az egészségügyi szolgáltatás megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra vonatkozó szabályokat,
-- c) a Nemzeti Egészségügyi Tanács feladatára, szervezetére és működésére vonatkozó részletes szabályokat,
+- c)
 - d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, illetőleg külföldre történő kivitelére vonatkozó szabályokat,
 - e) a katasztrófa-egészségügyi ellátásra vonatkozó részletes szabályokat,
 - f) az egészségügyi szolgáltatók felelősségbiztosítására vonatkozó részletes szabályokat,
@@ -3358,7 +3355,7 @@ rendeletben kijelölje.
 - p) a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák körét, a nyilvánosságra hozatal módját és helyét, továbbá az ellenőrzés módját,
 - q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a rendkívüli halál esetén ellátandó feladatokra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, valamint a holttest helyreállítására és átadására vonatkozó szabályokat,
 - r) a sürgős szükség esetén külön jogszabályban meghatározott ellátások költségeinek behajtására és finanszírozására irányuló eljárási szabályokat,
-- s)
+- s) a holttest szállításának legmagasabb árát,
 - t) a természetes fürdővizek minőségellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenységre vonatkozó követelményeket, az engedély kiadásával, illetve bejelentés megtételével összefüggő eljárás részletes szabályait,
 - u) az emberen végzett orvostudományi kutatások engedélyezési eljárásának részletes szabályait,
 - v) az intézeten kívüli szülés szakmai szabályait, feltételeit és kizáró okait
@@ -3383,7 +3380,7 @@ rendeletben megállapítsa.
 - e) a betegbeutalás rendjére vonatkozó részletes szabályokat,
 - f) az egyes egészségügyi ellátásokra vonatkozó részletes szabályokat,
 - g) az egészségügyi szolgáltatásokkal kapcsolatban:
-  - ga) az egészségügyi szolgáltatás megkezdésére és gyakorlására, a gyakorlás képesítési feltételeire, az egészségügyi szolgáltatók szakmai felügyeletére vonatkozó részletes szakmai szabályokat, továbbá az egészségügyi szolgáltatás folytatásához szükséges tárgyi feltételeket,
+  - ga) az egészségügyi szolgáltatás megkezdésére és gyakorlására, a gyakorlás képesítési feltételeire, az egészségügyi szolgáltatás gyakorlásához szükséges képzés tartalmának meghatározására, az egészségügyi szolgáltatók szakmai felügyeletére vonatkozó részletes szakmai szabályokat, továbbá az egészségügyi szolgáltatás folytatásához szükséges tárgyi feltételeket,
   - gb) a kizárólag gyógyintézetben vagy fekvőbeteg-gyógyintézetben nyújtható egészségügyi szolgáltatásokat,
   - gc) az egészségügyi szakmai kódjegyzéket és az egészségügyi szolgáltatók, valamint a működési engedélyek nyilvántartásának szabályait,
   - gd) az országos, a regionális, illetőleg a speciális feladatkört jelentő egészségügyi közszolgáltatások körét, illetve regionális feladatkör esetében ezek földrajzi határait,
@@ -3439,7 +3436,7 @@ rendeletben állapítsa meg.
 
 - a) az EFE központi és regionális részéből megszerezhető forrásokra irányuló pályázatok eljárási szabályait,
 - b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
-- c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat,
+- c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat, továbbá az üzemeltetéshez szükséges képesítési előírásokat,
 - d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenységek egészségügyi kockázatának csökkentésére irányuló szakmai szabályokat,
 - e) a gyermekágyas és az újszülöttellátás szabályait
 - f) az egészségügyi szakdolgozó által, orvosi elrendelésre önállóan is ellátható tevékenységek felelősségi, szakmai, szakképesítési és szakképzettségi feltételeit
@@ -3463,9 +3460,11 @@ rendeletben állapítsa meg.
   - ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
   - ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek a különleges táplálkozási célú élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, a különleges táplálkozási célú élelmiszer csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
   - cj)
-  - ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért
+  - ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
 
-fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket
+fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
+
+- d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a közoktatási intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
