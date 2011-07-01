@@ -264,7 +264,7 @@ terjed ki.
 
 #### 18/A. §
 
-19. § (1) Az egészségügyi ellátás keretében a biztosított a kezelőorvos által gyógyító céllal rendelt, az egészségbiztosításért felelős miniszter által az adott ellátásra meghatározott finanszírozási eljárási rend, valamint a vizsgálati és terápiás eljárási rend szerinti szolgáltatásokra jogosult. Ha a biztosított állapota és a gyógyítás szempontjai azt szükségessé teszik, a kezelőorvos a finanszírozási eljárási rendben, valamint a vizsgálati és terápiás eljárási rendben foglaltaktól eltérhet. Az egészségügyi szolgáltató a biztosított kérésére a 23. § f) pontjának figyelembevételével térhet el a finanszírozási eljárási rendben, illetve a vizsgálati és terápiás eljárási rendben foglaltaktól.
+19. § (1) Az egészségügyi ellátás keretében a biztosított a kezelőorvos által gyógyító céllal rendelt, az egészségbiztosításért felelős miniszter által az adott ellátásra meghatározott finanszírozási eljárási rend, valamint a vizsgálati és terápiás eljárási rend szerinti szolgáltatásokra jogosult. Ha a biztosított állapota és a gyógyítás szempontjai azt szükségessé teszik, a kezelőorvos a finanszírozási eljárási rendben, valamint a vizsgálati és terápiás eljárási rendben foglaltaktól eltérhet. Az egészségügyi szolgáltató a biztosított kérésére a 23/A. § a) pontjának figyelembevételével térhet el a finanszírozási eljárási rendben, illetve a vizsgálati és terápiás eljárási rendben foglaltaktól.
 
 (2) Amennyiben az adott ellátás tekintetében az egészségbiztosításért felelős miniszter nem határoz meg finanszírozási, illetőleg vizsgálati és terápiás eljárási rendet, a biztosított a kezelőorvos által gyógyító céllal rendelt, a szolgáltatónál rendelkezésre álló mindazon finanszírozott vizsgálati és terápiás ellátásra jogosult, amely egészségi állapotának lehetséges mértékű helyreállításához szükséges.
 
@@ -283,7 +283,7 @@ terjed ki.
 - a) a fekvőbeteg-gyógyintézeti ellátások elvégzését – amennyiben a biztosított egészségi állapota nem indokolja az azonnali ellátását, figyelemmel a (3) bekezdésben foglaltakra is – a (2) bekezdésben meghatározott esetben intézményi várólista alapján teljesíti,
 - b) a járóbeteg-szakellátások elvégzését a külön jogszabály szerinti betegfogadási lista alapján teljesíti,
 
-és az a) és b) pont szerinti teljesítésről, valamint az azonnali ellátásokról külön jogszabályban meghatározott módon rendszeres jelentést küld az egészségbiztosító részére.
+és az a) és b) pont szerinti teljesítésről, valamint az azonnali ellátásokról, továbbá a b) pont esetében a (4) bekezdés szerinti ellátásokról külön jogszabályban meghatározott módon rendszeres jelentést küld az egészségbiztosító részére.
 
 (2) Intézményi várólistát kell kialakítani
 
@@ -292,7 +292,7 @@ terjed ki.
 
 (3) Amennyiben a kezelőorvos a biztosított részére az (1) bekezdésben szereplő ellátást rendel, a biztosított az ellátásra a várólistára, illetve betegfogadási listára történő felkerülés időpontja szerint jogosult. Az így meghatározott időponttól eltérni az ellátás szakmai indokoltsága, az ellátás várható eredménye, illetve a biztosított kérése alapján lehet. Az eltérés lehetőségének egészségügyi szakmai feltételeit és szabályait az egészségbiztosításért felelős miniszter rendeletben szabályozza.
 
-(4)
+(4) A keresőképtelen biztosítottat – a (3) bekezdés szerinti miniszteri rendeletben meghatározott esetben – a beutaló orvos kezdeményezése alapján az ellátásra kötelezett szolgáltató az (1) bekezdés b) pontja szerinti ellátások tekintetében a (3) bekezdésben foglaltaktól eltérően – a várólista alapján nyújtható ellátások szabályairól szóló kormányrendeletben foglaltak figyelembevételével – köteles soron kívül fogadni, amennyiben a keresőképtelen biztosított az ellátást a keresőképtelenségét okozó betegsége miatt diagnosztikus vagy terápiás célból veszi igénybe. A keresőképtelenség miatti soron kívüli ellátás nem előzheti meg a (3) bekezdés szerinti szakmai indokoltság, valamint az ellátás várható eredménye miatti soron kívüli ellátásokat.
 
 (5) A transzplantációs várólistára való felvételre jogosult:
 
@@ -337,7 +337,8 @@ támogatást állapít meg,
 - b) azt a finanszírozott egészségügyi szolgáltató e jogosultságra kijelölt orvosa, illetve az egészségbiztosítóval e jogosultságra szerződést kötött orvos rendeli, és
 - c) a rendelés a külön jogszabályban foglalt szakmai szabályok szerint történik, és
 - d) az adott gyógyászati segédeszköz árához, illetve kölcsönzési díjához az egészségbiztosító a külön jogszabályban meghatározott eljárásrend szerint támogatást állapít meg, továbbá javítási díjához, illetőleg a gyógyászati ellátás árához külön jogszabály támogatást rendel, és
-- e) a kiszolgálásra, kölcsönzésre vagy javításra az egészségbiztosítóval e feladatra szerződött (a továbbiakban: szerződött) forgalmazónál vagy gyártónál kerül sor.
+- e) a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben meghatározott egyes gyógyászati segédeszköz kiszolgáltatásához az egészségbiztosító ellenőrző főorvosa a miniszteri rendeletben foglaltak szerint ellenjegyzésével hozzájárult, és
+- f) a kiszolgálásra, kölcsönzésre vagy javításra az egészségbiztosítóval e feladatra szerződött (a továbbiakban: szerződött) forgalmazónál vagy gyártónál kerül sor.
 
 (2) A biztosított az (1) bekezdésben foglaltakon túl akkor is jogosult a külön jogszabályban meghatározott gyógyászati segédeszköz árához nyújtott támogatásra, ha annak kiszolgáltatására egészségügyi ellátás keretében a külön jogszabályban meghatározott egészségügyi szolgáltatónál kerül sor.
 
@@ -370,7 +371,7 @@ támogatást állapít meg,
 - a) a 16 éven aluli gyermek kísérőjét,
 - b) a 16 éven felüli biztosított kísérőjét, amennyiben egészségi állapota miatt a kíséretet a beutaló orvos szükségesnek tartja.
 
-(7) Helyi közlekedési eszköz igénybevételéhez nem jár támogatás.
+(7) Helyi utazás költségeihez támogatás nem jár.
 
 (8) Az utazási költséghez nyújtott támogatás mértékét és módját külön jogszabály tartalmazza.
 
@@ -466,7 +467,7 @@ egészségügyi szolgáltatások
 
 (5) A (2) bekezdésben foglaltaktól eltérően a közszolgálati vagy közalkalmazotti jogviszonyban álló tartósan harmadik államban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke által indokoltan igénybe vett egészségügyi ellátás külföldön felmerült és igazolt költségének 85 százalékát az egészségbiztosító megtéríti.
 
-(6) Amennyiben a biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – EGT tagállam területén a 11. § (1) bekezdésének b) és c) pontjaiban, a 12. § (1) bekezdésében és a 13. § a) és b) pontjaiban meghatározott egészségügyi szolgáltatást nem az uniós rendeletek alapján vesz igénybe, az egészségbiztosító a felmerült és igazolt költségeket az igénybevétel idején érvényes belföldi költség, legfeljebb azonban a tényleges költség mértékének megfelelő összegben megtéríti.
+(6) Amennyiben a biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – EGT tagállam területén a 11. § (1) bekezdésének b) és c) pontjaiban, a 12. § (1) bekezdésében és a 13. § a) és b) pontjaiban meghatározott tervezett ellátást nem az uniós rendeletek alapján vesz igénybe, az egészségbiztosító a felmerült és igazolt költségeket az igénybevétel idején érvényes belföldi költség, legfeljebb azonban a tényleges költség mértékének megfelelő összegben megtéríti.
 
 (7) A (3) bekezdéstől eltérően a közszolgálati vagy közalkalmazotti jogviszonyban álló tartósan valamely EGT tagállamban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke választhat, hogy a kiküldetés helye szerinti EGT tagállamban az egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint veszi igénybe, vagy az általa indokoltan igénybe vett egészségügyi ellátás felmerült és igazolt költsége 85 százalékának megtérítését kéri az egészségbiztosítótól.
 
@@ -661,8 +662,6 @@ igazolja.
 
 #### 35/A. §
 
-### A kötelező egészségbiztosítás ellátásainak biztosítását szolgáló szerződések
-
 ### A szerződés teljesítésének ellenőrzése
 
 36. § (1) Az egészségbiztosító ellenőrzi az egészségügyi szolgáltatás nyújtására kötött szerződés teljesítését.
@@ -717,7 +716,7 @@ igazolja.
 
 (13) A (2)–(4) bekezdés, a (6)–(9) bekezdés, a (12) bekezdés, a (16) bekezdés, valamint a 31. § (5) bekezdés és a 35. § (6) bekezdése szerinti követelés összege után a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresét kell fizetni, amennyiben a kamat összege meghaladja az 1000 forintot.
 
-(14) Amennyiben a gyógyszerek és gyógyászati segédeszközök rendelésére jogosult orvos a Gyftv.-ben és annak felhatalmazása alapján kiadott jogszabályban foglalt, a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök reklámozására és ismertetésére vonatkozó szabályokat megszegi, úgy – az eljáró hatóság kezdeményezésére – a támogatással történő rendelésre való jogosultságát legfeljebb egy évre fel kell függeszteni.
+(14) Amennyiben a gyógyszerek és gyógyászati segédeszközök rendelésére jogosult orvos a Gyftv.-ben és annak felhatalmazása alapján kiadott jogszabályban foglalt, a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök reklámozására és ismertetésére vonatkozó szabályokat megszegi, úgy – az eljáró hatóság kezdeményezésére – a támogatással történő rendelésre való jogosultságát legfeljebb egy hónapra fel kell függeszteni.
 
 (15) Amennyiben az (1)–(4) bekezdés alapján az egészségügyi szolgáltató megtérítési kötelezettsége meghaladja az ellenőrzött időszak alatt az egészségügyi szolgáltatónak járó teljes finanszírozási összeg húsz százalékát, az egészségbiztosító a finanszírozási szerződést felmondhatja.
 
@@ -776,7 +775,7 @@ ellátásért a biztosítottal térítési díjat fizettetett, kötelezi az egé
 
 ### Záró ellenőrzés
 
-38/C. § Ha az egészségügyi szolgáltató 30. § (1)–(2) bekezdése szerinti szerződése megszűnik, és az abból származó jogok és kötelezettségek teljes köre tekintetében jogutód személy a 30. § (1) vagy (2) bekezdése szerinti szerződéssel nem rendelkezik, vagy ha a szerződés megszűnését követően nem következik be jogutódlás, az egészségbiztosító a szerződés megszűnését követő 90 napon belül záró ellenőrzést végez. A záró ellenőrzés tekintetében a 36. §, a 37. § (1)–(8) és (12)–(14) bekezdés, a 38. § (1)–(3) és (6)–(7) bekezdés, valamint a 38/A. § szerinti, a szerződés teljesítésének ellenőrzésére vonatkozó szabályok alkalmazandók. A záró ellenőrzést követően az egészségbiztosító a szolgáltató által kezelt adatokat, az esetleges elszámolásokkal kapcsolatos igényérvényesítés határidejének lejártáig, és kizárólag az igényérvényesítés elbírálásának érdekében kezelheti.
+38/C. § Ha az egészségügyi szolgáltató 30. § (1)–(2) bekezdése szerinti szerződése megszűnik, az egészségbiztosító záró ellenőrzést végezhet, amelyet a szerződés megszűnését követő 90 napon belül indít meg. A záró ellenőrzés tekintetében a 35. § (2) és (6) bekezdés, a 36. §, a 37. § (1)–(8) és (12)–(14) bekezdés, a 38. § (1)–(3) és (6)–(7) bekezdés, valamint a 38/A. § szerinti, a szerződés teljesítésének ellenőrzésére vonatkozó szabályok alkalmazandók. Ha a záró ellenőrzés megállapítja, hogy az egészségügyi szolgáltató az E. Alapból kapott összeget nem a megszűnt finanszírozási szerződésében meghatározott egészségügyi szolgáltatásokra használta fel, vagy azt nem használta fel, köteles a kapott összeget – a szerződésszegés esetére kikötött egyéb jogkövetkezmények mellett – az E. Alap számára megtéríteni. A záró ellenőrzést követően az egészségbiztosító a szolgáltató által kezelt adatokat, az esetleges elszámolásokkal kapcsolatos igényérvényesítés határidejének lejártáig, és kizárólag az igényérvényesítés elbírálásának érdekében kezelheti.
 
 #### 38/D. §
 
@@ -809,11 +808,11 @@ PÉNZBELI ELLÁTÁSAI
 40. § (1) Terhességi-gyermekágyi segély annak jár, aki a szülést megelőzően két éven belül 365 napon át biztosított volt, és
 
 - a) a biztosítás tartama alatt vagy a biztosítás megszűnését követő negyvenkét napon belül szül, vagy
-- b) a biztosítás megszűnését követően negyvenkét napon túl baleseti táppénz folyósításának, illetve a biztosítási jogviszony megszűnését követően táppénz folyósításának az ideje alatt vagy a folyósítás megszűnését követő huszonnyolc napon belül szül.
+- b) a biztosítás megszűnését követően negyvenkét napon túl baleseti táppénz folyósításának az ideje alatt vagy a folyósítás megszűnését követő huszonnyolc napon belül szül.
 
 (2) A terhességi-gyermekágyi segélyre jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 
-- a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj folyósításának az idejét,
+- a) a biztosítás megszűnését követő baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj folyósításának az idejét,
 - b) közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideje folytatott tanulmányok idejéből 180 napot,
 - c) a rehabilitációs járadék folyósításának idejét.
 
@@ -853,7 +852,7 @@ PÉNZBELI ELLÁTÁSAI
 
 (4) A gyermekgondozási díjra történő jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 
-- a) a biztosítás megszűnését követő táppénz, baleseti táppénz idejét,
+- a) a biztosítás megszűnését követő baleseti táppénz idejét,
 - b) a közép- vagy felsőfokú oktatási intézmény nappali tagozatán egy évnél hosszabb ideig folytatott tanulmány idejéből 180 napot,
 - c) a rehabilitációs járadék folyósításának idejét.
 
@@ -888,11 +887,11 @@ PÉNZBELI ELLÁTÁSAI
 
 ### Táppénz
 
-43. § (1) Táppénzre jogosult az, aki a biztosítás fennállása alatt, vagy annak megszűnését követő első, második vagy harmadik napon keresőképtelenné válik és a Tbj.-ben meghatározott mértékű pénzbeli egészségbiztosítási járulék fizetésére kötelezett.
+43. § (1) Táppénzre jogosult az, aki a biztosítás fennállása alatt keresőképtelenné válik és a Tbj.-ben meghatározott mértékű pénzbeli egészségbiztosítási járulék fizetésére kötelezett.
 
 (2) Egyidejűleg fennálló több biztosítási jogviszony esetén a keresőképtelenséget és a táppénzre való jogosultságot, azok időtartamát, az ellátás mértékét, illetőleg összegét mindegyik jogviszonyban külön-külön kell megállapítani. E rendelkezés vonatkozik arra az esetre is, ha a több biztosítási jogviszony ugyanannál a foglalkoztatónál áll fenn.
 
-(3) Ha a biztosított táppénzre jogosultsága a megszűnt biztosítása és a keresőképtelenség bekövetkezésekor fennálló vagy a keresőképtelenség bekövetkezését követően létrejött biztosítása alapján is megállapítható, táppénzre csak a fennálló, vagy a keresőképtelenség bekövetkezését követően létrejött biztosítása alapján jogosult. Egyidejűleg fennálló több jogviszonyból származó jogosultságra a (2) bekezdésben foglaltakat kell alkalmazni.
+(3)
 
 44. § Keresőképtelen,
 
@@ -914,7 +913,7 @@ PÉNZBELI ELLÁTÁSAI
 
 46. § (1) Táppénz a keresőképtelenség tartamára jár, legfeljebb azonban
 
-- a) a biztosítási jogviszony fennállásának időtartama alatt egy éven át, a biztosítási jogviszony megszűnését követően 30 napon át;
+- a) a biztosítási jogviszony fennállásának időtartama alatt egy éven át;
 - b) egyévesnél fiatalabb gyermek szoptatása, illetőleg ápolása címén a gyermek egyéves koráig;
 - c) egyévesnél idősebb, de háromévesnél fiatalabb gyermek ápolása címén évenként és gyermekenként nyolcvannégy naptári napon át;
 - d) háromévesnél idősebb, de hatévesnél fiatalabb gyermek ápolása címén évenként és gyermekenként negyvenkettő, egyedülállónak nyolcvannégy naptári napon át;
@@ -968,9 +967,9 @@ PÉNZBELI ELLÁTÁSAI
 
 (7) A táppénz alapjaként figyelembe vehető, a (2) bekezdésben meghatározott jövedelem naptári napi átlagának kiszámítására vonatkozó részletes szabályokat a Kormány állapítja meg.
 
-(8) A táppénz összege folyamatos, legalább kétévi biztosítási idő esetében a figyelembe vehető jövedelem naptári napi átlagának hatvan százaléka, ennél rövidebb biztosítási idő esetében vagy a fekvőbeteg-gyógyintézeti ellátás tartama alatt ötven százaléka, azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér 200 százalékának, a biztosítási jogviszony megszűnését követően a minimálbér 150 százalékának harmincad részét.
+(8) A táppénz összege folyamatos, legalább kétévi biztosítási idő esetében a figyelembe vehető jövedelem naptári napi átlagának hatvan százaléka, ennél rövidebb biztosítási idő esetében vagy a fekvőbeteg-gyógyintézeti ellátás tartama alatt ötven százaléka, azzal, hogy a táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér 200 százalékának harmincad részét.
 
-48/A. § Amennyiben a biztosítási jogviszonya megszűnését követően táppénzre jogosult egészségi állapota alapján várható, hogy a 46. § (1) bekezdésének a) pontjában meghatározott idő elteltével a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvénynek (a továbbiakban: Tny.) 23. §-a szerinti nyugellátásra, illetőleg a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény (a továbbiakban: Rjtv.) szerinti rehabilitációs járadékra válik jogosulttá, a keresőképességét elbíráló orvos a táppénzre való jogosultság lejárta előtt legalább 15 nappal kezdeményezi az egészségkárosodás mértékének külön jogszabály szerint történő megállapítását.
+#### 48/A. §
 
 49. § (1) A gyermeknevelési támogatás vagy az ápolási díj mellett munkát végző biztosítottra a táppénzre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy
 
@@ -985,14 +984,14 @@ PÉNZBELI ELLÁTÁSAI
 
 (2) Az (1) bekezdésben foglaltakon túl az egészségbiztosító méltányosságból a 46. § (1) bekezdés c)–e) pontjaiban meghatározott időtartamot meghaladóan is állapíthat meg gyermekápolási táppénzt a 44. § e) pontja szerinti keresőképtelen biztosítottak részére.
 
-(3) A biztosítási jogviszony megszűnése után folyósított táppénz lejártát követően az egészségbiztosítási szerv méltányosságból legfeljebb 30 napra állapíthat meg táppénzt.
+(3)
 
 (4) A méltányosságból megállapítható pénzbeli ellátások folyósításának idejét és összegét az egészségbiztosítási szerv a méltányossági kérelem elbírálása során az V. fejezetben foglaltaktól eltérőn határozhatja meg, azzal, hogy az összege nem haladhatja meg
 
 - a) terhességi-gyermekágyi segély esetén a 42. § (3) bekezdése szerinti összeget,
 - b) gyermekgondozási díj esetén a 48. § (4) bekezdése szerinti összeget,
-- c) az (1) bekezdés szerinti táppénz esetén – a biztosítási idő figyelembevételével – a 48. § (8) bekezdése szerinti összeget,
-- d) a (3) bekezdés szerinti táppénz esetén a biztosítási jogviszony megszűnése után folyósított táppénz összegét.
+- c) az (1) bekezdés szerinti táppénz esetén – a biztosítási idő figyelembevételével – a 48. § (8) bekezdése szerinti összeget.
+- d)
 
 (5) Az egészségbiztosító méltányosságból a biztosítottat indokolt esetben segélyben részesítheti.
 
@@ -1114,7 +1113,7 @@ PÉNZBELI ELLÁTÁSAI
 
 (4) Az egészségbiztosítási pénzbeli ellátás tárgyában benyújtott kérelem érdemi elbírálása tárgyában kizárólag az e törvényben meghatározott esetekben nem kell határozatot hozni, ha a hatóság a kérelemnek teljes mértékben helyt ad.
 
-(5)
+(5) A kifizetőhellyel nem rendelkező munkáltató a terhességi-gyermekágyi segély, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az OEP honlapján közzétett számítógépes program segítségével töltheti ki és állíthatja elő.
 
 (6) Az igényelbíráló szerv az ügyfelet személyes megjelenésre is felhívhatja az igény elbírálása érdekében. Ha az ellátásban részesülő az orvosi vizsgálaton vagy a kórházban a jogkövetkezményekről való tájékoztatást tartalmazó ismételt felhívásra sem jelenik meg, vagy az orvosi felülvizsgálatnak, kórházi megfigyelésnek elfogadható indok nélkül nem veti magát alá és emiatt a kérelmet elbírálni nem lehet, az eljárást meg kell szüntetni.
 
@@ -1186,11 +1185,11 @@ bírálja el és folyósítja.
 
 (2) Az (1) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett ellátást attól lehet visszakövetelni, akinek az ellátás felvétele felróható.
 
-(3) A foglalkoztató és egyéb szerv köteles megtéríteni a jogalap nélkül felvett ellátást, ha az ellátás jogalap nélküli megállapítása, illetőleg folyósítása mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye és az ellátást az (1) bekezdés alapján visszakövetelni nem lehet.
+(3) A foglalkoztató és egyéb szerv, valamint az egészségügyi szolgáltató köteles megtéríteni a jogalap nélkül felvett ellátást, ha az ellátás jogalap nélküli megállapítása, illetőleg folyósítása mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye és az ellátást az (1) bekezdés alapján visszakövetelni nem lehet.
 
-(4) Ha az ellátás jogalap nélküli megállapításáért, illetőleg felvételéért a foglalkoztatót vagy egyéb szervet és az ellátásban részesülőt is felelősség terheli, a jogalap nélkül felvett ellátást közrehatásuk arányában kötelesek megtéríteni, illetőleg visszafizetni. Ha a közrehatások aránya nem állapítható meg, a felelősöket egyenlő arányban kell megtérítésre, illetőleg visszafizetésre kötelezni.
+(4) Ha az ellátás jogalap nélküli megállapításáért, illetőleg felvételéért a foglalkoztatót vagy egyéb szervet vagy egészségügyi szolgáltatót és az ellátásban részesülőt is felelősség terheli, a jogalap nélkül felvett ellátást közrehatásuk arányában kötelesek megtéríteni, illetőleg visszafizetni. Ha a közrehatások aránya nem állapítható meg, a felelősöket egyenlő arányban kell megtérítésre, illetőleg visszafizetésre kötelezni.
 
-(5) Ha az ellátás jogalap nélküli megállapításáért, illetőleg a felvételéért több foglalkoztatót vagy egyéb szervet terhel felelősség, a jogalap nélkül felvett ellátás megtérítéséért egyetemlegesen felelnek.
+(5) Ha az ellátás jogalap nélküli megállapításáért, illetőleg a felvételéért több foglalkoztatót vagy egyéb szervet vagy egészségügyi szolgáltatót terhel felelősség, a jogalap nélkül felvett ellátás megtérítéséért egyetemlegesen felelnek.
 
 (6) A jogalap nélkül felvett ellátással kapcsolatban a közrehatás arányában megállapított megtérítési kötelezettség nem módosítható azon a címen, hogy a visszafizetésre kötelezettől az őt terhelő rész nem hajtható be, illetőleg azt mérsékelték, vagy elengedték.
 
@@ -1318,7 +1317,7 @@ bírálja el és folyósítja.
 
 (3) Az ellátásban részesülő – ha a jogszabály kivételt nem tesz – köteles az egészségbiztosítónak bejelenteni minden olyan tényt, illetőleg adatot, amely az ellátásra jogosultságát vagy ellátása folyósítását érinti.
 
-(4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított táppénzről, terhességi-gyermekágyi segélyről és gyermekgondozási díjról az Art. 16. §-ának (4) bekezdésében meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
+(4) A társadalombiztosítási kifizetőhellyel rendelkező munkáltató a biztosítás megszűnését követően folyósított terhességi-gyermekágyi segélyről és gyermekgondozási díjról az Art. 16. §-ának (4) bekezdésében meghatározott adatok feltüntetésével a folyósított ellátás kezdő és befejező időpontját követő 8 napon belül elektronikus úton köteles bejelentést tenni az egészségbiztosítónak.
 
 (5) Ha az uniós rendeletek vagy a Magyar Köztársaság által kötött nemzetközi egyezmény hatálya alá tartozó személy, valamint a Tbj. 11. §-a a) pontjának hatálya alá tartozó magyar állampolgár TAJ számmal rendelkezik, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
@@ -1342,6 +1341,12 @@ bírálja el és folyósítja.
 (4) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 66. § (1) bekezdést a 2011. január 1-jét követően jogalap nélkül igénybe vett pénzbeli ellátásra, baleseti járadékra, baleseti táppénzre vagy utazási költséghez nyújtott támogatásra kell alkalmazni.
 
 (5) Az államháztartásról szóló 1992. évi XXXVIII. törvény módosításáról szóló 2011. évi XXXI. törvénnyel megállapított 48. § (8) bekezdést a 2011. április 30-át követően bekövetkező keresőképtelenség esetén kell alkalmazni.
+
+(6) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 20. § (1) és (4) bekezdést, 43. § (1) és (3) bekezdést, 46. § (1) bekezdés a) pontját, 48. § (8) bekezdést, 48/A. §-át, 50. § (3) bekezdést, 50. § (4) bekezdés d) pontját, valamint 80. § (4) bekezdést a 2011. július 1-jét követően bekövetkező keresőképtelenség esetén kell alkalmazni.
+
+(7) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 40. § (1) bekezdés b) pontját a 2011. augusztus 31-ét követően bekövetkező szülések esetén kell alkalmazni.
+
+(8) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 40. § (2) bekezdés a) pontját, valamint a 42/A. § (4) bekezdés a) pontját a 2013. július 31-ét követően bekövetkező szülések esetén kell alkalmazni.
 
 ### Záró rendelkezések
 
@@ -1405,7 +1410,7 @@ meghatározására.
 - k) az egészségügyi szakellátás társadalombiztosítási finanszírozásának körében a határnapon belüli ismételt felvételre vonatkozó összevonási szabály alóli kivételeket, a tételes elszámolás alá eső egyszerhasználatos eszközök és implantátumok jegyzékét; a tételes elszámolás alá eső gyógyszerek jegyzékét és kódját; a J0 ellátási szintű laboratóriumokból jelenthető eljárásokat (OENO); a meghatározott intézeti körben végezhető ellátásokat tartalmazó homogén betegségcsoportokat; az egynapos beavatkozásokat (kivéve 1 éves kor alatt); az aktív fekvőbeteg-ellátási háttér mellett ambuláns formában is nyújtható kúraszerű kezeléseket; a dializálási eljárásokat; és a vérkészítmények térítési díját,
 - l) a finanszírozás alapjául szolgáló homogén betegségcsoportokat és azok súlyszámértékét,
 - m) a járóbeteg-szakellátás körébe tartozó beavatkozási csoportokat és azok pontértékét, valamint a járóbeteg-szakellátás egyes tevékenységeinek minimális ellátási idejét,
-- n) a gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás rendelésének szakmai követelményeit,
+- n) a gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás rendelésének szakmai követelményeit és a rendelésre jogosultak körét,
 - o) a kötelező egészségbiztosítás egészségügyi szolgáltatásainak rendelésére vonatkozó szabályokat,
 - p) az egészségügyi szolgáltatók által kiállított igazolások kiadási rendjét,
 - q) az anyatejellátásra való jogosultság feltételeit,
@@ -1426,7 +1431,9 @@ meghatározására.
 - b) a sürgős szükség körébe tartozó egészségügyi szolgáltatásokat,
 - c) az orvosi bélyegzők formai és tartalmi elemeire vonatkozó részletes szabályokat,
 - d) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó eljárás során alkalmazandó szakmai szempontrendszert és szakmapolitikai prioritásokat,
-- e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, a háziorvosok gyógyító-megelőző tevékenységének értékelési módszerét és ennek alapjául szolgáló célértékeket.
+- e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, a háziorvosok gyógyító-megelőző tevékenységének értékelési módszerét és ennek alapjául szolgáló célértékeket,
+- f) az egészségügyi ellátás finanszírozásában használt kódrendszerek meghatározását és alkalmazásainak részletszabályait,
+- g) a szakmai ellenjegyzéssel kiszolgáltatható egyes gyógyászati segédeszközök körét, a szakmai ellenjegyzés feltételeit és a mérlegelés szempontjait.
 
 (7)
 

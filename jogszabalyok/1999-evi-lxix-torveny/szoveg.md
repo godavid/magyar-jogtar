@@ -1523,6 +1523,8 @@ Vhr.32. § Az önkormányzati szabálysértési hatóságok ügyintézését ér
 
 (5) Az előkészítő eljárás befejezését követő 3 munkanapon belül a rendőrség az előkészítő eljárás anyagát – a (6) bekezdésben foglalt eseten kívül – a bíróságnak megküldi.
 
+(5a) A rendőri szerv az előkészítő eljárás anyagának bírósághoz történő áttételét megelőzően – az érték-egybefoglalás megállapíthatósága érdekében – ellenőrzi, hogy az eljárás alá vont személlyel szemben tulajdon elleni szabálysértés elkövetése miatti előkészítő eljárás más rendőri szervnél folyik-e.
+
 (6) A 84. § (1) bekezdés a)–g) pontban szereplő okok fennállása esetén az eljárást a rendőrség szünteti meg.
 
 (7) Az előkészítő eljárást lefolytató a 47. § (3) bekezdése szempontjából az eljárás résztvevője.
@@ -1966,6 +1968,10 @@ szerinti utánzat, illetve euro-érmékhez hasonló érem és zseton.
 165. § (1) Ez a törvény 2000. március 1-jén lép hatályba.
 
 (2)
+
+### Átmeneti rendelkezés
+
+165/A. § A közúti közlekedésről szóló 1988. évi I. törvény 2011. július 1-jén hatályba lépő, az egyes közlekedési tárgyú törvények módosításáról szóló 2010. évi CLXXII. törvény 10. § (1) bekezdése szerinti módosítása miatt azon szabálysértéseket, amelyek 2011. július 1-jétől közigazgatási bírsággal sújtandó szabályszegés hatálya alá esnek, de 2011. július 1. előtt követték el, a 4. § első mondatában foglaltak szerint kell elbírálni.
 
 ### Felhatalmazó rendelkezések
 

@@ -166,7 +166,7 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - 86.
 - 87. levelező: a Gfbt.-ben meghatározott fogalom;
 - 88. kárképviselő: a Gfbt.-ben meghatározott fogalom;
-- 89. kártörténetre vonatkozó adat: a gépjármű üzemben tartója által a biztosított jármű vagy járművek vonatkozásában az adott biztosítóval fennállt kötelező gépjármű-felelősségbiztosítási szerződéses jogviszony megszűnését közvetlenül megelőző biztosítási időszak alatt okozott és a biztosító által elismert, vagy a vele szemben jogerősen megítélt kártérítés alapjául szolgáló káresetek száma és időpontja, ezen és bármely előző biztosítási időszak alatt okozott káresetek alapján első alkalommal teljesített kárkifizetések dátuma (ideértve a biztosító részteljesítését is), a kifizetett kárösszeg külön jogszabályban meghatározott határidőn belüli visszafizetésének ténye és dátuma, illetve a kármentességre vonatkozó nyilatkozat, továbbá az üzemben tartó által okozott azon káresetek száma és időpontja, amelyeket a biztosító még nem ismert el, illetve a biztosítót azokkal kapcsolatos kártérítésre jogerős ítélet még nem kötelezi;
+- 89.
 - 90. különleges célú gazdasági egység: a viszontbiztosítókról szóló 2007. évi CLIX. törvényben (a továbbiakban: Vbit.) meghatározott fogalom;
 - 91. különleges célú gazdasági eszköz: a Vbit.-ben meghatározott fogalom;
 - 92. ÁÉKBV: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott fogalom;
@@ -1452,11 +1452,7 @@ a jogszabálysértés, az érdeksérelem, a hiba, illetve a hiányosság megszü
 
 109/A. § (1)
 
-(2) A biztosító az adott járművet vagy járműveket illetően az új kötelező gépjármű-felelősségbiztosítási szerződés megkötése céljából köteles igazolást kiadni a kártörténetre vonatkozó adatokról, illetve az igazolt biztosítási időszakra vonatkozó bonus-malus besorolásról:
-
-- a) a biztosított jármű üzembentartója részére a szerződés megszűnését követő 15 napon belül, illetve az üzembentartónak a szerződés megszűnését követő kérése esetén, az igénylés dátumát követő 15 napon belül,
-- b) az adott járműre vagy járművekre vonatkozó új kötelező gépjármű-felelősségbiztosítási szerződést megkötő biztosító részére, annak ez irányú kérése esetén, az igénylést követő 15 napon belül,
-- c) az adott járműre vagy járművekre vonatkozó új kötelező gépjármű-felelősségbiztosítási szerződést megkötő biztosító részére az igazolt biztosítási időszakot követő év szeptember 30-ig, az igazolt biztosítási időszakot érintő azon kártörténetre vonatkozó adatokról – ide nem értve a bonus-malus besorolást –, amelyek vonatkozásában a b) pont alapján kiadott igazolást követően került sor első alkalommal teljesített kárkifizetésre.
+(2)
 
 110. § A biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának és adatszolgáltatásának szabályait a Felügyelet elnöke rendeletben állapítja meg.
 
@@ -2093,10 +2089,10 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 - o) a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
 - p) fióktelep esetében – ha a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a harmadik országbeli biztosító székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal – a harmadik országbeli biztosítóval, biztosításközvetítővel, szaktanácsadóval,
 - q) a feladatkörében eljáró országgyűlési biztossal,
-- r) a kártörténetre vonatkozó adatra és a bonus-malus besorolásra nézve a 109/A. § (2) bekezdésében szabályozott esetekben a biztosítóval,
+- r)
 - s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval
 
-szemben, ha az a)–j), n), r) és s) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k), l), m), p) és q) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
+szemben, ha az a)–j), n), és s) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k), l), m), p) és q) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, illetve, ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 
@@ -2248,7 +2244,7 @@ szemben.
 
 (7) A szolgáltató az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi az ügyfélnek.
 
-(8) A panasz elutasítása esetén a szolgáltató válaszában tájékoztatja az ügyfelet arról, hogy panaszával – annak jellege szerint – a Pénzügyi Szervezetek Állami Felügyeletének vagy a békéltető testületnek az eljárását kezdeményezheti, továbbá meg kell adni a Pénzügyi Szervezetek Állami Felügyeletének és a békéltető testületnek a levelezési címét.
+(8) A panasz elutasítása esetén a szolgáltató válaszában tájékoztatja az ügyfelet arról, hogy a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Pénzügyi Szervezetek Állami Felügyeleténél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A szolgáltatónak meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
 
 (9) A szolgáltató a panaszt és az arra adott választ három évig őrzi meg, és azt a Pénzügyi Szervezetek Állami Felügyeletének kérésére bemutatja.
 

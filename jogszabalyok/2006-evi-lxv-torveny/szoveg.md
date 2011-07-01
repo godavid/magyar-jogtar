@@ -12,7 +12,7 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 - b) A közalapítvány alapítványt nem hozhat létre, ahhoz nem csatlakozhat, azzal nem egyesíthető, a közalapítvány alapítvány alapító jogainak gyakorlására nem jelölhető ki.
 - c) A közalapítvány pályázat kiírása nélkül évente a vagyona 5%-ának mértékéig, de legfeljebb összesen egymillió forint (közvetlen vagy közvetett) támogatást nyújthat az alapító okiratban foglalt célokra. Meghívásos pályázat kiírására kizárólag akkor kerülhet sor, ha – azt törvény vagy kormányrendelet lehetővé teszi és – pályázati kiírás tartalmazza a támogatási célt, a támogatás feltételeit és az elszámolás részletes rendjét.
 - d)
-- e) A közalapítvány alapító okiratban megjelölt kezelő szerve (szervezete) a közalapítvány működéséről az alapítónak évente beszámolni és gazdálkodásának legfontosabb adatait nyilvánosságra hozni köteles. A közalapítvány gazdálkodásának törvényességét és célszerűségét – a helyi önkormányzat és a kisebbségi önkormányzat képviselő-testülete által alapított közalapítvány kivételével – az Állami Számvevőszék ellenőrzi.
+- e) A közalapítvány alapító okiratban megjelölt kezelő szerve (szervezete) a közalapítvány működéséről az alapítónak évente beszámolni és gazdálkodásának legfontosabb adatait nyilvánosságra hozni köteles.
 - f) A közalapítvány alapító okiratának módosítását (módosítással egybeszerkesztett szövegét) a Magyar Közlönyben, illetve az önkormányzat hivatalos lapjában – ennek hiányában a helyben szokásos módon – közzé kell tenni.
 
 (3)

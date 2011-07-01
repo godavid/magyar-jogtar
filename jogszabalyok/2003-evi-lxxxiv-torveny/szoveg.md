@@ -368,7 +368,7 @@ részt vehet.
 
 28. § (1) Ez a törvény 2004. május 1-jén lép hatályba.
 
-(2) Felhatalmazást kap a miniszter, hogy meghatározza a folyamatos egészségügyi ellátás szervezésének szakmai követelményeit, továbbá az egészségügyi tevékenységre való alkalmasság részletes szabályait.
+(2) Felhatalmazást kap a miniszter, hogy meghatározza a folyamatos egészségügyi ellátás szervezésének szakmai követelményeit, a munkaidő-beosztás elkészítésének, a munkaidő és az önként vállalt többletmunka minősítésének részletes szabályait, továbbá az egészségügyi tevékenységre való alkalmasság részletes szabályait.
 
 (3) Felhatalmazást kap a Kormány, hogy az egészségügyi tevékenység sajátosságaira tekintettel az alkalmazott egészségügyi dolgozók pótszabadságának, munkahelyen tölthető idejének, valamint bérpótlékainak – az Mt.-ben foglaltaknál a munkavállalókra nézve kedvezőbb – szabályait rendeletben meghatározza.
 

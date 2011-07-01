@@ -401,9 +401,9 @@ részletes szabályait rendeletben meghatározza.
 - b) a Kormány, hogy e törvény, a végrehajtására kiadott rendeletek, valamint a REACH és a CLP végrehajtásának ellenőrzésében érintett szervek együttműködésének módját, valamint a hatósági feladatok megosztását,
 - c)–d)
 - e) a Kormány, hogy a nemzetközi információs rendszerben (PIC) megjelölt egyes veszélyes anyagok exportjának, importjának, forgalmazásának, használatának korlátozását,
-- f) az egészségügyért felelős miniszter, valamint a környezetvédelemért felelős miniszter, hogy a lakosság egészségének, illetve a környezet védelme érdekében korlátozni indokolt veszélyes anyagok, illetve veszélyes keverékek, valamint tevékenységek körét, valamint a korlátozás módját,
+- f) az egészségügyért felelős miniszter, hogy a környezetvédelemért felelős miniszterrel egyetértésben a lakosság egészségének, illetve a környezet védelme érdekében korlátozni indokolt veszélyes anyagok, illetve veszélyes keverékek, valamint tevékenységek körét, valamint a korlátozás módját,
 - g)
-- h) az egészségügyért felelős miniszter, az agrárpolitikáért felelős miniszter, valamint a környezetvédelemért felelős miniszter, hogy a biocid anyagok – ideértve a faanyag-védőszereket, az irtószereket, valamint a fertőtlenítő szereket – előállításának, gyártásának, forgalomba hozatalának, felhasználásának e törvénytől eltérő rendelkezéseit,
+- h) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel, valamint a környezetvédelemért felelős miniszterrel egyetértésben a biocid anyagok – ideértve a faanyag-védőszereket, az irtószereket, valamint a fertőtlenítő szereket – előállításának, gyártásának, forgalomba hozatalának, felhasználásának részletes szabályait,
 - i) az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 31/A. § szerinti, kémiai biztonsági és biocid termékekkel és hatóanyagokkal kapcsolatos igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket,
 - j) a környezetvédelemért felelős miniszter, hogy
   - ja) a veszélyes anyagok, illetve a veszélyes keverékek, valamint a veszélyes anyagot tartalmazó hulladékok környezetkárosító és -szennyező hatásainak megelőzését,

@@ -427,7 +427,7 @@ lehet végezni.
 - e) külön törvény szerinti kiemelkedően közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése, vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
 - f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyott egyezség keretében állami vagyonba tartozó dolog tulajdonjogáról való lemondás esetén.
 
-(3) A (2) bekezdés szerinti ingyenes átruházásról – a (6) bekezdésen foglalt kivétellel – a Kormány nyilvános határozattal dönt. Az ingyenesen átruházott vagyon juttatási célnak megfelelő felhasználását az Állami Számvevőszék ellenőrzi.
+(3) A (2) bekezdés szerinti ingyenes átruházásról – a (6) bekezdésen foglalt kivétellel – a Kormány nyilvános határozattal dönt.
 
 (4) A (2) bekezdés c) és d) pontja alapján ingyenesen átruházható vagyontárgyak összesített értéke évente nem haladhatja meg az adott évi költségvetési törvényben meghatározott keretösszeget.
 

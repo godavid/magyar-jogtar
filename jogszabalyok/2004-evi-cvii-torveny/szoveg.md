@@ -163,7 +163,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 
 (2) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogkörében vizsgálja, hogy a többcélú kistérségi társulás döntése, szervezete, működése és döntéshozatali eljárása megfelel-e a jogszabályoknak, a többcélú kistérségi társulási megállapodásban, valamint a társulási tanács szervezeti és működési szabályzatában foglaltaknak. A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv összehívja a társulási tanács ülését, ha a 7. § (3) bekezdés c) pontja szerint tett indítványnak a társulási tanács elnöke tizenöt napon belül nem tesz eleget.
 
-(3) A többcélú kistérségi társulás gazdálkodását (ideértve az Európai Unió által nyújtott és egyéb nemzetközi támogatások, valamint az ehhez kapcsolódó költségvetésből nyújtott támogatások felhasználását) az Állami Számvevőszék ellenőrzi.
+(3)
 
 (4) Az európai uniós és költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, a Kormány által kijelölt szerv, a fejezetek ellenőrzési szervezetei, a kincstár, illetve az európai uniós támogatások irányító hatóságai és a kifizető hatóság képviselői is ellenőrzik.
 

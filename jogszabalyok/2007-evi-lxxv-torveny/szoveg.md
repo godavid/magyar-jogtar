@@ -1529,7 +1529,11 @@ finanszírozzák.
 
 ### A minőségbiztosítási rendszer, a minőségellenőrzési bizottság
 
-149. § A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátásának biztosítása céljából a kamara a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek könyvvizsgálói tevékenységét minőségbiztosítási rendszer keretében folyamatosan ellenőrzi.
+149. § (1) A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátásának biztosítása céljából a kamara a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek könyvvizsgálói tevékenységét minőségbiztosítási rendszer keretében folyamatosan ellenőrzi.
+
+(2) A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek minőségbiztosítási rendszerét a kamara a Könyvvizsgálói Közfelügyeleti Bizottság közvetlen irányítása mellett működteti.
+
+(3) A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek minőségellenőrzését a 185. § (3) bekezdés szerinti költségvetési hozzájárulásból elkülönítetten kell finanszírozni.
 
 150. § (1) A kamara minőségellenőrzési bizottsága (e fejezet alkalmazásában: bizottság) a kamara szervezetén belül testületi szervként működik.
 
@@ -1586,7 +1590,15 @@ finanszírozzák.
 
 ### A minőségellenőrök
 
-159. § A bizottság nevében a minőségellenőrzéseket a bizottság által nyilvántartásba vett kamarai tag könyvvizsgáló minőségellenőrök végzik.
+159. § (1) A bizottság nevében a minőségellenőrzéseket a bizottság által nyilvántartásba vett kamarai tag könyvvizsgáló minőségellenőrök végzik.
+
+(2) A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek minőségellenőrzését a bizottság nevében a kamara által vezetett külön nyilvántartásban szereplő független ellenőrök végzik.
+
+(3) A kamarai tag minőségellenőrök nyilvántartása a minőségellenőrök 33. § (1) bekezdésében meghatározott adatait, a független ellenőrök külön nyilvántartása a 33. § (1) bekezdés c)–g) pontja szerinti adatokat tartalmazza a független ellenőrök tekintetében.
+
+(4) Az (1)–(3) bekezdésben foglalt nyilvántartások vezetésének célja annak hiteles dokumentálása, hogy a minőségellenőr, illetve a független ellenőr megfelel a törvényben meghatározott feltételeknek. A nyilvántartásban szereplő adatokat a nyilvántartásból történő törlésig a bizottság, illetve a kamara kezeli.
+
+(5) Az (1)–(3) bekezdésben foglalt nyilvántartásokban szereplő adatok közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat. Az (1)–(3) bekezdésben foglalt nyilvántartásban szereplők közérdekből nyilvános adatainak, az azokban bekövetkező változásoknak a közzététele az ellenőrzés lehetőségének a megteremtését, illetve az időszerű tájékoztatást szolgálja.
 
 160. § (1) A minőségellenőrők nyilvántartásába az vehető fel, aki megfelel az alábbi feltételeknek:
 
@@ -1602,6 +1614,12 @@ finanszírozzák.
 (4) A bizottság tagjai és a minőségellenőrök nem lehetnek egymásnak közeli hozzátartozói.
 
 (5) Nem vehető fel a minőségellenőrök nyilvántartásába a kamara tisztségviselője, továbbá az, aki a kamara bármely bizottságának tagja (ide nem értve a minőségellenőrzési bizottság elnökét és tagjait).
+
+160/A. § A független ellenőrök nyilvántartásába az vehető fel, aki
+
+- a) nem áll olyan kamarai tagsági jogviszonyban, amely alapján jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorolható,
+- b) könyvvizsgálóval vagy könyvvizsgáló céggel tulajdonosi, munkavállalói vagy munkaviszony jellegű jogviszonyban nem áll,
+- c) megfelel a 190. § (2) bekezdésének a)–c) pontjaiban meghatározott feltételeknek.
 
 161. § (1) A minőségellenőrök kiválasztása nyilvános pályázat útján történik.
 
@@ -1623,6 +1641,8 @@ finanszírozzák.
 164. § (1) A minőségellenőr bármikor kérheti a nyilvántartásból való törlését.
 
 (2) A bizottság felmenti a minőségellenőrt e feladatköréből, ha az a megbízatásának tartósan nem tesz eleget.
+
+164/A. § A független ellenőrök kiválasztására, jogaira, kötelezettségeire a 161. §-ban és a 163–164. §-ban foglaltakat kell alkalmazni, azzal az eltéréssel, hogy a bizottság döntéséhez a Könyvvizsgálói Közfelügyeleti Bizottság egyetértése szükséges, illetve ahol e rendelkezések minőségellenőrt említenek, azon független ellenőrt kell érteni.
 
 ### A minőségellenőrzés lefolytatása
 
@@ -1657,6 +1677,8 @@ finanszírozzák.
 
 (4) A bizottság szervezeti és működési szabályzatában kell meghatározni azokat az adatokat, információkat, iratokat, amelyeket az ellenőrzés lefolytatása érdekében előzetesen a bizottság vagy a minőségellenőr rendelkezésére kell bocsátani.
 
+167/A. § A független ellenőr a könyvvizsgálóval, könyvvizsgáló céggel fennálló kapcsolatának megszűnésétől számított legalább két évig nem vehet részt ellenőrként olyan, jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló vagy könyvvizsgáló cég ellenőrzésében, amellyel tulajdonosi, munkavállalói vagy munkaviszony jellegű jogviszonyban volt.
+
 168. § (1) A minőségellenőr az ellenőrzést a bizottság elnöke által kiadott megbízólevél birtokában folytathatja le. A megbízólevél tartalmazza a minőségellenőr nevét, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég azonosító adatait, valamint azt, hogy mely időszak tekintetében kell az ellenőrzést lefolytatni.
 
 (2) A minőségellenőr az ellenőrzés alá vont kamarai tag könyvvizsgálótól, könyvvizsgáló cégtől minden olyan iratot, adatot, információt, nyilatkozatot megkérhet, az ellenőrzés alá vont minden olyan munkafolyamatát megvizsgálhatja, amely az ellenőrzés lefolytatásához szükséges. A minőségellenőr az ellenőrzés során jogosult az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég helyiségeibe belépni, iratairól, adathordozóiról, nyilvántartásairól másolatot készíteni, illetve készíttetni.
@@ -1684,6 +1706,12 @@ finanszírozzák.
 - c) fegyelmi eljárás kezdeményezése.
 
 (2) Ha az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységét a 171. § szerinti kötelezettségek figyelmen kívül hagyásával végezte, ellene a bizottság elnöke a kamara illetékes testületénél fegyelmi eljárást kezdeményez.
+
+172/A. § (1) A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek minőségellenőrzésének lefolytatására a 165–172. §-ban, valamint a 173. §-ban foglaltak irányadók azzal az eltéréssel, hogy ahol e rendelkezések minőségellenőrt említenek, azon független ellenőrt kell érteni, valamint a minőségellenőrzés eredményéről hozott határozat meghozatalához a Könyvvizsgálói Közfelügyeleti Bizottság egyetértése szükséges.
+
+(2) Amennyiben a Könyvvizsgálói Közfelügyeleti Bizottság úgy ítéli meg, hogy az adott minőségellenőrzés lebonyolításához különleges szakértelem szükséges, úgy a minőségellenőrzésbe a független ellenőr irányítása mellett szakértőként a 167/A. §-ban foglaltaknak megfelelő kamarai minőségellenőrök is bevonhatók.
+
+(3) A Könyvvizsgálói Közfelügyeleti Bizottság a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálók, könyvvizsgáló cégek nem megfelelt eredménnyel zárult minőségellenőrzése esetén fegyelmi eljárást kezdeményez a kamaránál. A fegyelmi eljárás kezdeményezéséről a Könyvvizsgálói Közfelügyeleti Bizottság indokolt esetben értesíti a Budapesti Értéktőzsdét, illetve az érintett állami szervet.
 
 173. § A bizottság évenként összefoglaló értékelést tartalmazó jelentést készít a tárgyévben lefolytatott minőségellenőrzések tapasztalatairól. A jelentést a tárgyévet követő év május 31-ig a kamara honlapján és a kamara lapjában nyilvánosságra kell hozni.
 
@@ -1961,6 +1989,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (5) A bizottság a 185. § (3) bekezdés szerint részére biztosított költségvetési hozzájárulás felhasználásáról – az éves munkatervében foglalt feladatok figyelembevételével – saját hatáskörben jogosult dönteni. A költségvetési hozzájárulás felhasználása során a szükséges szerződéskötési, pénzügyi és egyéb adminisztratív feladatokat a bizottság nevében a miniszter által vezetett minisztérium látja el.
 
+(6) A bizottságnak az éves munkatervének végrehajtásáról szóló beszámolójában ki kell térnie a minőségbiztosítási rendszer vizsgálata és értékelése, továbbá a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálókkal, könyvvizsgáló cégekkel szemben lefolytatott minőségellenőrzése során tapasztalt főbb hiányosságokra, és a megtett intézkedésekre.
+
 194. § (1) A kamara azon eljárásai tekintetében, amelyekre a közfelügyelet kiterjed, köteles együttműködni a bizottsággal.
 
 (2) A kamara azon határozatait, amelyekre a közfelügyelet kiterjed, továbbá a kamara alapszabályát és önkormányzati szabályzatait köteles megküldeni a bizottságnak.
@@ -2188,9 +2218,7 @@ b) az üzleti évet megelőző két üzleti év átlagában a vállalkozó álta
 
 „b) a költségvetési minősítés visszavonását kezdeményezi.”
 
-225. § Az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 1. §-a (5) bekezdésének második mondata helyébe a következő rendelkezés lép:
-
-„A könyvvizsgálattal költségvetési minősítésű könyvvizsgáló bízható meg.”
+225. §
 
 226. § A gazdasági társaságokról szóló 2006. évi IV. törvény 41. §-a (2) bekezdésének helyébe a következő rendelkezés lép:
 

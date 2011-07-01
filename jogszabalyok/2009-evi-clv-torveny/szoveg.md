@@ -875,7 +875,7 @@ c) „Bizalmas!” minősítési szintű vagy törvényben, illetve nemzetközi 
 
 43. § (1) A sajtóról szóló 1986. évi II. törvény 4. § (1) bekezdésében az „állami, szolgálati” szövegrész helyébe a „minősített adatot” szöveg lép.
 
-(2) Az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 18. § (1) bekezdésében az „államtitkot és szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg, 21. § (1) bekezdésében az „államtitkot, szolgálati titkot” szövegrész helyébe a „minősített adatot” szöveg lép.
+(2)
 
 (3) Az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény 4. § (1) bekezdés második mondatában az „az államtitoksértésre” szövegrész helyébe az „a szigorúan titkos és titkos minősítésű adattal való visszaélésre” szöveg lép.
 

@@ -213,7 +213,7 @@ vonatkozó szabályokat.
 
 ### A közhasznú szervezetek felügyelete
 
-21. § A közhasznú szervezetek feletti adóellenőrzést az állami adóhatóság, a költségvetési támogatás felhasználásának ellenőrzését az Állami Számvevőszék, az állami vagy önkormányzati költségvetésből, illetve a nemzetközi forrásokból juttatott támogatások felhasználásának ellenőrzését a külön jogszabály szerinti belső ellenőrzési szervezet, a törvényességi felügyeletet pedig – a közhasznú működés tekintetében – a reá irányadó szabályok szerint az ügyészség látja el.
+21. § A közhasznú szervezetek feletti adóellenőrzést az állami adóhatóság, az állami vagy önkormányzati költségvetésből, illetve a nemzetközi forrásokból juttatott támogatások felhasználásának ellenőrzését a külön jogszabály szerinti belső ellenőrzési szervezet, a törvényességi felügyeletet pedig – a közhasznú működés tekintetében – a reá irányadó szabályok szerint az ügyészség látja el.
 
 ### A közhasznúsági nyilvántartásba vételre, az átsorolásra és a közhasznúsági nyilvántartásból való törlésre vonatkozó eljárás szabályai
 

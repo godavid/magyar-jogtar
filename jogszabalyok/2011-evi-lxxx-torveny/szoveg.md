@@ -102,7 +102,7 @@ A Melléklet a jelen Szabályzat szerves részét képezi.
 
 A Melléklet szövege a Veszélyes Áruk Fuvarozási Szakértő Bizottsága által az 1980. május 9. napján kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) 19. cikk 4. §-a szerint, az Egyezményt módosító 1999. június 3-án kelt Jegyzőkönyv hatálybalépésekor megállapított szöveg.”
 
-3. §
+3. § A RID 6. cikke szerinti Mellékletének 2011. január 1-jétől hatályos és hiteles angol nyelvű szövegét és annak hivatalos magyar nyelvű fordítását e törvény 1. melléklete tartalmazza.
 
 4. § (1) A veszélyes áru szállítás biztonsága érdekében a közlekedési hatóság nyilvántartja a RID Melléklete 1.8.3 szakasza szerinti veszélyes áru szállítási biztonsági tanácsadó
 
@@ -110,19 +110,14 @@ A Melléklet szövege a Veszélyes Áruk Fuvarozási Szakértő Bizottsága ált
 - b) állampolgárságát,
 - c) veszélyes áru szállítási biztonsági tanácsadó képesítéséről szóló bizonyítványának érvényességi idejét, valamint azt, hogy a bizonyítványa mely alágazatra, valamint veszélyességi osztályra vonatkozik.
 
-(1a) A veszélyesáru-szállítási biztonsági tanácsadókról vezetett nyilvántartás az (1) bekezdés c) pontja szerinti adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
-
 (2) Az adatokat a bizonyítvány érvényességi idejének lejártától számított 5 évig kell megőrizni.
 
-5. § (1) Felhatalmazást kap a Kormány, hogy a veszélyes áru vasúti szállítási biztonsági tanácsadó kinevezésével és képesítésével kapcsolatos hatósági eljárásjogi szabályokat rendeletben állapítsa meg.
-
-(2) Felhatalmazást kap a közlekedésért felelős miniszter, hogy
+5. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy
 
 - a) a veszélyes áru vasúti szállítási biztonsági tanácsadó kinevezésének és képesítésének részletes szabályait,
-- b) a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben a veszélyes áru szállítási biztonsági tanácsadó által készítendő baleseti jelentés részletes szabályait,
-- c) a környezetvédelemért felelős miniszterrel, az egészségügyért felelős miniszterrel és az atomenergia-felügyeleti szerv felügyeletét ellátó miniszterrel egyetértésben a RID belföldi alkalmazásához szükséges részletes szabályokat és kiegészítéseket
+- b) a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben a veszélyes áru szállítási biztonsági tanácsadó által készítendő baleseti jelentés részletes szabályait
 
-rendeletben állapítsa meg.
+rendeletben állapítsa meg
 
 6. § (1) Ez a törvény 2011. július 1-jén lép hatályba.
 
@@ -138,3 +133,9 @@ való megfelelést is szolgálja.
 8. § Hatályát veszti a Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függelékének Melléklete 2009. évi módosításokkal és kiegészítésekkel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2009. évi LIX. törvény.
 
 ### 1. melléklet a 2011. évi LXXX. törvényhez
+
+#### A Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID – a COTIF Egyezmény C Függeléke)
+
+Melléklete
+
+20110000000080_1

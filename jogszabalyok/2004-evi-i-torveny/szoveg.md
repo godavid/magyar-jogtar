@@ -299,9 +299,20 @@ szabható ki.
 - b) megadja vagy megtagadja a sportági nemzetközi szövetsége, illetve a külföldi sportszövetség által megkívánt hozzájárulást magyar versenyzők külföldi, valamint a külföldi versenyzők Magyarországon történő versenyzéséhez,
 - c) a versenyszabályzatot, illetve a sportág egyéb szabályzatait megszegő versenyzőkkel, sportszakemberekkel és sportszervezetekkel szemben az e törvényben és a külön jogszabályban meghatározottak szerint sportfegyelmi jogkört gyakorol,
 - d) érvényesíti a doppingtilalmat,
-- e) meghatározza a sportlétesítmények használatával, illetve a sporteseményekkel kapcsolatos sportági követelményeket.
+- e) meghatározza a sportlétesítmények használatával, illetve a sporteseményekkel kapcsolatos sportági követelményeket,
+- f) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 4. § 41. pontja szerinti látvány-csapatsportban működő szakszövetség az a)–e) pontban meghatározott feladatok mellett
+  - fa) a Tao. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program jóváhagyásáról,
+  - fb) a Tao. 22/C. § (1) bekezdés b), c) és d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 4. § 45. pontja és 22/C. §-a szerinti támogatási igazolást,
+  - fc) kezdeményezi a sportigazgatási szervnél a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak a magyar állam javára történő bejegyeztetését az ingatlan-nyilvántartásba,
+  - fd) az fa)–fb) alpontban meghatározott feladatai ellátása során kapcsolatot tart a sportigazgatási szervvel, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a sportigazgatási szervet az általa kiadott támogatási igazolásokról,
 
-(3) A sportág céljainak elérése érdekében a szakszövetség szponzorálási és más kereskedelmi szerződéseket köthet, ideértve – e törvény 36–37. §-ában meghatározott módon – a sportági sportrendezvényekkel kapcsolatos vagyoni értékű jogok hasznosítását is.
+(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatóság eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései alapján.
+
+(4) A látvány-csapatsportban működő szakszövetség által a (2) bekezdés f) pont fa) és fb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+
+(5) A (2) bekezdés f) pontja alapján végzett közigazgatási hatósági feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+(6) A sportág céljainak elérése érdekében a szakszövetség szponzorálási és más kereskedelmi szerződéseket köthet, ideértve – e törvény 36–37. §-ában meghatározott módon – a sportági sportrendezvényekkel kapcsolatos vagyoni értékű jogok hasznosítását is.
 
 23. § (1) A sportág rendeltetésszerű működése érdekében – a külön jogszabályokban előírt más szabályzatok mellett – a szakszövetség az alábbi sporttevékenységgel összefüggő szabályzatokat köteles megalkotni:
 
@@ -845,14 +856,25 @@ kezeli.
 - d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 - e) együttműködik az Országos Területfejlesztési Tanáccsal, a regionális fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, illetve a térségi fejlesztési tanácsokkal,
 - f) együttműködik a MOB-bal, az MPB-vel és a nemzeti sportszövetségekkel, valamint kapcsolatot tart a sportközalapítvánnyal és a sport területén működő érdekképviseleti szervekkel,
-- g)
+- g) ellátja a látvány-csapatsportok támogatásával összefüggő következő közigazgatási hatósági és szolgáltatási feladatokat:
+  - ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program jóváhagyásáról,
+  - gb) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 4. § 45. pontja és 22/C. §-a szerinti támogatási igazolást,
+  - gc) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez,
+  - gd) valamennyi támogatott szervezet vonatkozásában ellenőrzi a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás rendeltetésszerű felhasználását, a támogatással megvalósuló beruházásokkal érintett sportcélú ingatlanok és a támogatásból megvalósuló tárgyi eszköz felújítások sportcélú hasznosításának fenntartását,
+  - ge) kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja és 22/C. §-a szerinti támogatás, valamint annak a Tao. felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, amennyiben a támogatás felhasználásának ellenőrzése során megállapítja, hogy a támogatott szervezet a támogatást nem rendeltetésszerűen vette igénybe,
+  - gf) kezdeményezi az adók módjára behajtandó köztartozásnak minősülő, szabálytalanul igénybe vett és be nem fizetett támogatás, valamint annak a Tao. felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint megnövelt összege és kamata behajtását, ha a ge) pont szerinti kötelezés ellenére a támogatott szervezet a nem rendeltetésszerűen igénybe vett támogatást és annak kamatát nem fizeti be az állam részére,
+  - gg) intézkedik a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak a magyar állam javára történő bejegyeztetéséről az ingatlan-nyilvántartásba;
+  - gh) ellátja a jogszabályokban meghatározott egyéb feladatokat,
+  - gi) kapcsolatot tart az állami adóhatósággal, a Tao. szerint nyújtott támogatás ellenőrzésére jogosult más szervekkel, valamint a 22. § (2) bekezdés f) pontjában meghatározott jogkörében eljáró látvány-csapatsportág országos sportági szakszövetségével, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a látvány-csapatsportág országos sportági szakszövetségét az általa kiadott támogatási igazolásokról;
 - h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági jogköröket,
 - i) programokat dolgoz ki a szabadidő-, a gyermek- és ifjúsági sportnak, a nők és a családok sportjának, a fogyatékosok sportjának, a hátrányos helyzetű társadalmi csoportok sportjának, a köz- és felsőoktatás sportjának, valamint a sportpiac fejlődésének a támogatására, e programokban biztosítja az esélyegyenlőséget, a programok kidolgozását a népegészségügyi érdekek hatékony érvényesítése céljából az illetékes minisztériummal együttműködésben végzi,
 - j) kialakítja és működteti az állami sportinformációs rendszert,
 - k) közreműködik a sportszakember-képzésben és -továbbképzésben, a miniszter hatáskörébe tartozó feladatok teljesítésében, valamint a sport szakmai (oktatási, továbbképzési, kutatási, sporttudományos, sportegészségügyi) hátterének biztosítása érdekében együttműködik az e feladatokat ellátó intézmények felügyeletét ellátó minisztériumokkal,
 - l) ellátja a részére jogszabályban, valamint a Kormány által meghatározott egyéb feladatokat.
 
-(3)
+(3) A (2) bekezdés g) pontja alapján végzett közigazgatási hatósági és szolgáltatási feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+(4) A sportigazgatási szerv által a (2) bekezdés g) pont ga) és gb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
 52–54. §
 
@@ -1143,14 +1165,17 @@ biztonsági kockázatú lehet.
 
 (5) A szervező a résztvevőt a beléptetés feltételeiről, az ellenőrzés módjáról és az eltávolítás lehetőségéről a sportlétesítményen kívül és annak területén jól látható hirdetményekben köteles tájékoztatni, és e feltételeket a belépőjegyen, bérleten is fel kell tüntetni.
 
-72. § (1) A szervező a nézők egyedi azonosítására alkalmas biztonsági beléptetési és ellenőrző rendszert (a továbbiakban: beléptető rendszer) alkalmazhat.
+72. § (1) A szervező a résztvevők egyedi azonosítására alkalmas biztonsági beléptetési és ellenőrző rendszert (a továbbiakban: beléptető rendszer) alkalmazhat, a kiemelt biztonsági kockázatú sportrendezvény esetében beléptető rendszert alkalmaz. A rendező a beléptetés során jogosult a résztvevők személyazonosságát ellenőrizni.
 
-(2) Beléptető rendszer alkalmazása esetén a szervező:
+(2) Beléptető rendszer alkalmazása esetén a szervező
 
-- a) a belépőjegy, bérlet eladásakor csak a néző nevére szóló belépőjegyet, illetve bérletet értékesíthet,
-- b) a beléptetés során a rendező szerv alkalmazottja útján a belépőjegy, bérlet birtokosának kilétét ellenőrzi, és egybeveti a belépőjegyen, bérleten szereplő személyi adatokkal. Ha az adatok nem egyeznek, a belépést meg kell tagadni.
+- a) csak névre szóló belépőjegyet, bérletet értékesíthet;
+- b) személyazonosításra alkalmas, kedvezményekre jogosító kártya (a továbbiakban: klubkártya) kiváltását teheti kötelezővé;
+- c) a beléptetéskor a rendező útján a belépőjegy, a bérlet birtokosának személyazonosságát ellenőrzi, és személyes adatait egybeveti a belépőjegy, a bérlet vagy a klubkártya adataival.
 
-(3) A szervező a belépőjegy, bérlet eladásakor, illetőleg a rendező szerv alkalmazottja a beléptetés során jogosult a néző személyazonosságát a személyazonosság igazolására alkalmas igazolvány alapján megállapítani, illetőleg ellenőrizni.
+(3) Ha a beléptetéskor a belépőjegy, a bérlet vagy a klubkártya birtokosának személyes adatai nem egyeznek a személyazonosság igazolására alkalmas igazolványban szereplő adatokkal, a beléptetést meg kell tagadni.
+
+(4) Nem állítható ki névre szóló belépőjegy, bérlet, illetve klubkártya olyan személy részére, aki a sportrendezvény látogatásától eltiltás vagy a sportrendezvényről, sportlétesítményből kitiltás hatálya alatt áll.
 
 72/A. § (1) A szervező névre szóló belépőjegyet és bérletet, a sportszervezet klubkártyát állíthat ki és értékesíthet. A belépőjegyen, bérleten, illetve klubkártyán a sportrendezvényre ezekkel belépésre jogosult személy nevét, születési helyét és idejét (a továbbiakban: természetes személyazonosító adatok), valamint lakcímét az azokat kibocsátó szervező vagy sportszervezet annak érvényességét követő 24 óráig nyilvántartja.
 
@@ -1278,6 +1303,8 @@ biztonsági kockázatú lehet.
 (4) Felhatalmazást kap az oktatásért felelős miniszter, hogy a miniszter egyetértésével kiadott rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a kiemelt biztonsági kockázatú sportrendezvények közfeladatként történő rendőri biztosításához nyújtható támogatások felhasználásának részletes szabályait.
+
+(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a 22. § (5) bekezdésében és az 51. § (3) bekezdésében meghatározott igazgatási szolgáltatási díj mértékét.
 
 80. § (1)
 

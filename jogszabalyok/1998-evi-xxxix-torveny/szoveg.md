@@ -123,7 +123,7 @@ kezdeményezi.
 
 (10) A Testület működése részletes szabályait ügyrendjében állapítja meg.
 
-(11) A Testület és a titkárságok működéséhez szükséges előirányzatot az Országgyűlés a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium költségvetésében elkülönítetten biztosítja, amely felett – az ügyrendben meghatározott módon – az adott Testület elnöke rendelkezik. A Testület és a titkárság gazdálkodását az Állami Számvevőszék ellenőrzi.
+(11) A Testület és a titkárságok működéséhez szükséges előirányzatot az Országgyűlés a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium költségvetésében elkülönítetten biztosítja, amely felett – az ügyrendben meghatározott módon – az adott Testület elnöke rendelkezik.
 
 10. § (1) Ez a törvény a kihirdetését követő 8. napon lép hatályba.
 

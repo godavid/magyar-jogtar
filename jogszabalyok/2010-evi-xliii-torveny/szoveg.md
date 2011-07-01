@@ -468,7 +468,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (3) Az államtitkár vezetői illetménypótléka az alapilletmény 65%-a.
 
-(4) Az államtitkár alapilletményét a miniszter át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti.
+(4) Az államtitkár alapilletményét a miniszter át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg.
 
 ### Az államtitkár megbízatásának keletkezése
 
@@ -1134,7 +1134,7 @@ c) a meghallgatási eljárás során a (2) bekezdés szerinti meghallgatást kö
 
 80. § E törvény hatálybalépésével egyidejűleg
 
-- a) az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 14. § (5) bekezdésében a „szakállamtitkárt” szövegrész helyébe a „helyettes államtitkárt” szöveg,
+- a)
 - b) a helyi önkormányzatokról szóló 1990. évi LXV. törvény 33/A. § (1) bekezdés c) pontjában az „államtitkár, szakállamtitkár” szövegrész helyébe az „államtitkár, közigazgatási államtitkár, helyettes államtitkár” szöveg,
 - c) az állampolgári jogok országgyűlési biztosáról szóló 1993. évi LIX. törvény 3. § (3) bekezdésében az „államtitkár, szakállamtitkár” szövegrész helyébe az „államtitkár, közigazgatási államtitkár, helyettes államtitkár” szöveg, 28. § (5) bekezdésében a „szakállamtitkári” szövegrész helyébe a „helyettes államtitkári” szöveg,
 - d) a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 30/O. § (1) bekezdésében az „államtitkár, a szakállamtitkár” szövegrész helyébe az „államtitkár, a közigazgatási államtitkár, a helyettes államtitkár” szöveg,

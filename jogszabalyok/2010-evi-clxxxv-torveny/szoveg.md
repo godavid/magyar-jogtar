@@ -1530,7 +1530,7 @@ közönségarányát.
 
 (3) A Közalapítvány üzletszerű gazdasági tevékenységet nem végezhet, más gazdasági társaságot nem alapíthat, más működő gazdasági társaságban részesedést nem szerezhet, alapítvány létrehozására nem jogosult.
 
-(4) A Közalapítvány gazdálkodását az Állami Számvevőszék ellenőrzi.
+(4)
 
 ### III. Fejezet — A KÖZSZOLGÁLATI KÓDEX ÉS A KÖZSZOLGÁLATI TESTÜLET
 
@@ -1787,7 +1787,7 @@ Ennek keretében:
 
 (13) A 109/2010. (X. 28.) OGY határozatban rögzített irányelvek alapján a Médiatanács határozza meg az átadott vagyon hasznosításának, a vagyonnal történő gazdálkodásnak a részletes szabályait, ideértve, hogy az egyes vagyonelemeket, vagyontárgyakat, eszközöket – közszolgálati feladataik teljesítése céljából – milyen feltételekkel vehetik igénybe a közszolgálati médiaszolgáltatók.
 
-(14) A közszolgálati médiaszolgáltatók gazdálkodását az Állami Számvevőszék ellenőrzi.
+(14)
 
 ## NEGYEDIK RÉSZ — A MÉDIASZOLGÁLTATÁSOK ÉS A SAJTÓTERMÉKEK FELÜGYELETE
 
@@ -2060,7 +2060,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 (6) Az NHIT működéséhez szükséges forrásokat a Hatóság költségvetésén belül kell biztosítani. A források más célra nem csoportosíthatók át.
 
-(7) Az NHIT gazdálkodását az Állami Számvevőszék ellenőrzi. Az NHIT feladatai teljesítéséről évente jelentést készít az Országgyűlés illetékes bizottságának.
+(7) Az NHIT feladatai teljesítéséről évente jelentést készít az Országgyűlés illetékes bizottságának.
 
 122. § (1) Az NHIT Irodája (a továbbiakban: Iroda) a Hatóság szervezeti egysége, melynek vezetője irodaigazgató cím használatára jogosult.
 
@@ -2247,7 +2247,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 (10) Az Országgyűlés a – (2) bekezdésben meghatározott eljárásnak megfelelően előterjesztett – zárszámadási törvényjavaslat elfogadásával dönt a (2) bekezdésben meghatározott önálló törvény végrehajtásáról, ideértve a 136. § (15) bekezdés szerinti mellékletet is. E zárszámadási törvény esetében a benyújtási határidő minden év május 31.
 
-(11) A Hatóság és a Médiatanács gazdálkodását az Állami Számvevőszék ellenőrzi.
+(11)
 
 (12) A (2) bekezdés tekintetében kötelezettségvállalásnak minősül minden olyan, a Hatóság, illetve az Alap belső utasításának megfelelően megtett jognyilatkozat, amely alapján a (2) bekezdés szerinti külön törvényben foglalt egységes költségvetés terhére fizetési kötelezettség keletkezik.
 
