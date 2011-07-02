@@ -728,11 +728,7 @@ késedelem nélkül megkapja.
 
 (6) Érdekmúlással megszűnik a gépjárműflottára kötött szerződés, ha 2011. január 1-jén nem felel meg az e törvény gépjárműflottára kötött szerződésekre vonatkozó szabályainak.
 
-62. § (1) A biztosító a szerződés megkötésével és megszűnésével, továbbá a szüneteléssel, illetve a káreseménnyel kapcsolatos 2010. január 1. és április 31. között keletkezett adatok tekintetében 2010. október 31-ig köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) bekezdésében megjelölt adatokról.
-
-(2) A 2011. január 1-jén megújuló szerződések esetében – amennyiben azok még nem szerepelnek a nyilvántartásban – a biztosító a szerződés megújítását (biztosítási időszak kezdő napját) követő 90 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) bekezdésében megjelölt adatokról.
-
-(3) A 2010. év végére évfordulóra történő biztosítóváltás okán felmondott szerződések esetében – amennyiben azok még nem szerepelnek a nyilvántartásban – a biztosító a szerződés felmondását követő 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) bekezdésében megjelölt adatokról.
+62. §
 
 ### Módosuló és hatályukat vesztő rendelkezések
 
@@ -740,7 +736,7 @@ késedelem nélkül megkapja.
 
 67. § (1)
 
-(2) A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 3. § (1) bekezdésének 89. pontja, 109/A. § (2) bekezdése, a 157. § (1) bekezdésének r) pontja és a 157. § (1) bekezdésének záró szövegrészében az „r)” szövegrész 2011. július 1-jén hatályát veszti.
+(2)
 
 ### Felhatalmazó rendelkezések
 

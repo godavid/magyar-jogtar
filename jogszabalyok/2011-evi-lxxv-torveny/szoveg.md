@@ -97,11 +97,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 15–16. §
 
-17. § Hatályát veszti
-
-- a) a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 261. § (4) bekezdése,
-- b) a Polgári Törvénykönyv hatálybalépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet 83/A. §-a,
-- c) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16/A. §-a és 91. § (2) bekezdése.
+17. §
 
 ### 1. melléklet a 2011. évi LXXV. törvényhez
 
