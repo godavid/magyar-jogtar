@@ -218,7 +218,7 @@ b) a bírósági nyilvántartásba vételéről szóló végzés jogerőre emelk
 
 9. § (1) A nyilvántartásba vétel és a minősítés alapjául szolgáló adatokban bekövetkezett változást az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviselője – jogszabályban meghatározott módon – köteles bejelenteni az előadó-művészeti államigazgatási szervnek a változástól vagy annak ismertté válásától számított tizenöt napon belül.
 
-(2) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén az előadó-művészeti államigazgatási szerv az előadó-művészeti szervezet fenntartójával, ennek hiányában az előadó-művészeti szervezet képviselőjével szemben ötvenezer forint bírságot szab ki.
+(2) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén az előadó-művészeti államigazgatási szerv az előadó-művészeti szervezet fenntartójával, ennek hiányában az előadó-művészeti szervezet képviselőjével szemben ötvenezer forint bírságot szab ki. Az így beszedett bírság a központi költségvetés bevétele, amelyet az előadó-művészeti szervezetek támogatására kell fordítani.
 
 10. § A nyilvántartásból törölni kell az előadó-művészeti szervezetet, ha
 
@@ -302,7 +302,7 @@ k) az előadó-művészeti közszolgáltatás megkezdésének időpontját és a
 
 14. § (1) A nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek esetében – a 13. § (2) bekezdésben foglaltakon túl – a közszolgáltatási szerződés tartalmazza a 17. § (4) bekezdés f) pontja szerinti szolgáltatásokra vonatkozó rendelkezéseket is.
 
-(2) A 19. § (1) bekezdése, 20. § (3) bekezdése és 21. § (1) bekezdése szerinti pályázat keretében megkötött támogatási szerződés tartalmazza a közszolgálati szerződés 13. § (2) bekezdés a)–d) és f)–j) pontja szerinti rendelkezéseket is.”
+(2) A 13. § (2) bekezdés a)–d) és f)–j) pontjait megfelelően alkalmazni kell a 19. § (1) bekezdése, a 20. § (3) bekezdése és a 21. § (1) bekezdése szerinti támogatásokról szóló támogatási szerződések megkötése során.”
 
 8. § Az Emtv. IV. Fejezet 1. Címe helyébe a következő rendelkezés lép:
 
@@ -338,7 +338,9 @@ nyújt.
 
 (4) A fenntartói megállapodásban költségnemenként fel kell tüntetni a feladatteljesítéshez rendelt forrást [3. § (6) bekezdés], több forrás esetén azok egymáshoz viszonyított arányát.
 
-(5) A fenntartó köteles az általa fenntartott és nyilvántartásba vett előadó-művészeti szervezet tevékenységével összefüggő, (2) bekezdés szerinti adatokat jogszabályban meghatározott módon az előadó-művészeti államigazgatási szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani az előadó-művészeti államigazgatási szerv részére.”
+(5) A fenntartó köteles az általa fenntartott és nyilvántartásba vett előadó-művészeti szervezet tevékenységével összefüggő, (2) bekezdés szerinti adatokat jogszabályban meghatározott módon az előadó-művészeti államigazgatási szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani az előadó-művészeti államigazgatási szerv részére.
+
+(6) Támogatásra jogosult több előadó-művészeti szervezet fenntartója a művészeti támogatásnak az érintett előadó-művészeti szervezetek közötti felosztásáról – a 17. § (1) bekezdésében, valamint az egyes előadó-művészeti szervezetekkel kötött fenntartói megállapodásban foglaltak figyelembevételével – maga határoz.”
 
 9. § Az Emtv. IV. Fejezet 2. Címe helyébe a következő rendelkezés lép:
 
@@ -456,7 +458,7 @@ f) a határon túli, Kárpát-medencei magyar előadó-művészeti szervezetek t
 
 12. § Az Emtv. 24. §-a helyébe a következő rendelkezés lép:
 
-„24. § (1) A központi költségvetésről szóló törvény meghatározza a nyilvántartott színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok elosztható támogatásának keretösszegeit. A központi költségvetésről szóló törvény
+„24. § (1) A költségvetési törvény meghatározza a nyilvántartott színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok elosztható támogatásának keretösszegeit. A költségvetési törvény
 
 a) nemzeti előadó-művészeti szervezeteket megillető művészeti támogatás és működési támogatás összegét az előadó-művészeti szervezetekre,
 
@@ -468,13 +470,15 @@ bb) művészeti támogatásának összegét az egyes színházakra is
 
 lebontva határozza meg.
 
-(2) A központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
+(2) A működési támogatás mértéke a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek esetében nem lehet kevesebb a tárgyévet megelőző költségvetési évben létesítménygazdálkodási célokra az adott évre előirányzott és ténylegesen folyósított fenntartói támogatás felénél.
+
+(3) A költségvetési törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
 
 a) a nyilvántartott színházak, balett- vagy táncegyüttesek önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
 
 b) a nyilvántartott zenekarok, énekkarok önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
 
-(3) A kultúráért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell biztosítani:
+(4) A kultúráért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell biztosítani:
 
 a) a nyilvántartásba vett állami fenntartású színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
 
@@ -764,9 +768,7 @@ c) az Alap kezelő szervezetének vezetője, igazgatóságának tagja, felügyel
 
 (2) Az 1–6. §, a 11. §, a 13–21. §, a 22. § (2) és (3) bekezdése és a 25. § az e törvény kihirdetését követő 45. napon lép hatályba.
 
-(2a) A 22. § (1) bekezdése 2012. január 1-jén lép hatályba.
-
-(3) A 7. § 2012. március 31-én lép hatályba.
+(3) A 7. § és a 22. § (1) bekezdése 2012. március 31-én lép hatályba.
 
 (4) A 8–10. § és a 12. § 2012. május 1-jén lép hatályba.
 

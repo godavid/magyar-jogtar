@@ -1280,7 +1280,7 @@ esetében.
 
 (2a) A Hivatal megtagadja a 93. § (5) és (6) bekezdésében meghatározott jogügylet jóváhagyását, ha a tanúsítási eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként az átviteli rendszerirányító nem felelne meg a rá vonatkozó szétválasztási szabályoknak.
 
-(3) A 93. § (1) bekezdése szerinti részesedésszerzés bejelentésének elmulasztása vagy tudomásulvételt kimondó visszaigazolás hiánya esetén, a 92. § (1) bekezdésben, valamint a 93. § (2), (5) és (6) bekezdésében meghatározott hozzájáruló határozat hiányában a szerző fél a bejelentés elmulasztásával érintett részesedése tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, a részvénykönyvbe nem jegyezhető be, vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal visszaigazolását vagy hozzájárulását igazoló dokumentummal együtt lehet benyújtani.
+(3) A 93. § (1) bekezdése szerinti részesedésszerzés bejelentésének elmulasztása vagy tudomásulvételt kimondó visszaigazolás hiánya esetén, a 92. § (1) bekezdésben, valamint a 93. § (2), (5) és (6) bekezdésében meghatározott hozzájáruló határozat hiányában a szerző fél a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, a részvénykönyvbe nem jegyezhető be, vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal visszaigazolását vagy hozzájárulását igazoló dokumentummal együtt lehet benyújtani.
 
 ### Az engedély megszegése
 
@@ -2627,6 +2627,8 @@ készíti el.
 
 (5) E § alkalmazásában közüzemi szerződés a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatásra jogosult, valamint a villamos energiáról szóló 2001. évi CX. törvény szerinti közüzemi szolgáltatói engedélyes közötti, a villamos energiáról szóló 2001. évi CX. törvény szerint közüzemi szolgáltatásnak minősülő villamosenergia-szolgáltatásra vonatkozó szerződés.
 
+176/A. § A hálózati engedélyes az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított 43. § (1) bekezdése szerinti, a villamosenergia-fogyasztásra vonatkozó számlázás alapjául szolgáló mérési adatok gyűjtésének és az elszámolás alapját képező mennyiségek egyezőségének, valamint az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított 44. § szerinti kezdő és záró merőállásra vonatkozó tájékoztatási kötelezettségének legkésőbb 2011. október 1-jétől köteles eleget tenni.
+
 177. § (1)
 
 (2) Amennyiben a lakossági fogyasztó az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 47. § (7) bekezdés a) pontjának hatálybalépésekor fizetési kötelezettsége teljesítésével késedelemben van, kikapcsolására az e törvénynek a fizetési kötelezettség esedékességekor hatályos rendelkezéseit kell alkalmazni.
@@ -2680,15 +2682,7 @@ készíti el.
 
 (2) A Hivatal az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 142. § (6) bekezdés szerinti költség-felülvizsgálatot első alkalommal 2012. december 31-ig folytatja le.
 
-(3) A 2011. július 1-jét megelőzően létesített magánvezetékek üzemeltetésére e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított rendelkezéseit kell alkalmazni. Az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 74. § (1) bekezdés h) pontjának hatálybalépését megelőzően magánvezeték létesítésére, működtetésére, a vezeték kapacitásának megváltoztatására, valamint működésének szüneteltetésére kiadott engedélyek és a 88. § (4) bekezdésének az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított hatályon kívül helyezését megelőzően kiadott egyszerűsített villamosenergia-kereskedelmi engedélyek az engedélyekben meghatározott ideig hatályban maradnak.
-
-(4) Az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 39. § (3) bekezdésében és a 66/A. § (1) bekezdésében meghatározott kötelezettségnek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény hatálybalépését megelőzően létesített magánvezeték tulajdonosa legkésőbb 2011. december 31-ig köteles eleget tenni.
-
-(5) A 2011. július 1-jén fennálló, az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 66. §–66/A. § hatálybalépését megelőzően nem engedélyköteles magánvezetéken történő villamos energia továbbadásra és vételezésre való jogosultság továbbra is jogszerűen fennmarad azzal, hogy a továbbadás, vagy vételezés feltételei vonatkozásában e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított rendelkezéseit kell alkalmazni.
-
-(6) A 2010. július 1-jét megelőzően létesített, közvetlen vezetéknek minősülő vezetékek üzemeltetésére e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított rendelkezéseit kell alkalmazni azzal, hogy a 2011. július 1-jét megelőzően e törvény 74. § (1) bekezdés i) pontja alapján közvetlen vezeték létesítésére kiadott engedélyek továbbra is hatályban maradnak.
-
-(7) A közvetlen vezeték engedélyese, aki 2011. július 1-jét megelőzően e törvény 74. § (1) bekezdésének i) pontja szerint közvetlen vezetéket létesített, amennyiben a közvetlen vezetékre kapcsolódó vételező a közcélú hálózathoz közvetlenül is csatlakozik, köteles a hálózati engedélyessel e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 38. § (3) bekezdésében foglaltak szerint megállapodni és a megállapodást a Hivatalhoz legkésőbb 2011. december 31-ig benyújtani.
+(3)–(7)
 
 178/C. § A Hivatal e törvény rendelkezései alapján hozott – a kötelező átvétel mennyiségét és időtartamát meghatározó – határozataira, amennyiben azok jogerőre emelkedését követően a határozatokban megjelölt kereskedelmi üzembe helyezési időponttól a termelő kereskedelmi üzemét nem kezdte meg, e törvény 91. § (1) és (4) bekezdésének rendelkezéseit kell alkalmazni. Ez a rendelkezés nem vonatkozik e törvény 171. § (6) bekezdése alapján hozott, kötelező átvétel időtartamának meghosszabbítására vonatkozó határozatokra.
 
