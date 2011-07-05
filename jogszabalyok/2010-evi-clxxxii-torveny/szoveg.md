@@ -13,10 +13,9 @@ a következő törvényt alkotja:
 (2) A támogatás kedvezményezettje lehet az (1) bekezdésben foglalt célok megvalósítása érdekében tevékenykedő:
 
 - a) a Magyar Köztársaság területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
-- b) magyarországi vagy szomszédos államban lévő önkormányzat,
-- c) más állam területén működő szervezet, intézmény, továbbá
-- d) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás) ezen belül különösen mikro-, kis-, és középvállalkozás, valamint
-- e) az egyház, valamint egyház által fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
+- b) társadalmi szervezet, alapítvány, jogi személyiséggel rendelkező önkormányzat, valamint az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
+- c) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás) ezen belül különösen mikro-, kis- és középvállalkozás, valamint
+- d) az egyház, valamint egyház által fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
 
 (3) Ha nemzetközi szerződés másként nem rendelkezik, a (2) bekezdésben meghatározott természetes személlyel együtt élő házastárs és közös háztartásukban nevelt kiskorú gyermek akkor is lehet kedvezményezett, ha nem vallja magát magyar nemzetiségűnek.
 
@@ -34,12 +33,12 @@ a következő törvényt alkotja:
   - aa) nevelés, oktatás, képzés, továbbképzés (ideértve a Szátv. 14. §-ában foglalt támogatásokat is), továbbá tankönyv- és taneszköz-támogatás, ösztöndíj és közösségi sporttevékenység céljára;
   - ab) a magyar kultúra és tudomány fejlesztésével, megőrzésével, gyarapításával és megismerhetővé tételével, a hagyományos magyar kultúrtáj védelmével kapcsolatos célokra;
   - ac) gazdasági típusú, ezen belül kiemelten turisztikai, idegenforgalmi, vendéglátó-ipari, környezetvédelmi, energiahatékonysági célokra;
-- b) közoktatási és felsőoktatási, tudományos kutatást, fejlesztést végző intézmény és háttérintézmény; kulturális, tömegtájékoztatási (nyomtatott és elektronikus sajtó), egyházi, szociális, felzárkózást és szociális integrációt elősegítő és egészségügyi szervezet (ideértve a Szátv. 18. §-ában meghatározott szervezetet is), valamint önkormányzat
-  - ba) alaptevékenységének (alapításának) megfelelő közfeladat ellátására;
-  - bb) az Európai Unióhoz történő csatlakozással kapcsolatos felkészítő, tájékoztató, ismertető, oktatási, képzési, továbbképzési tevékenység ellátására;
-- c) települési önkormányzat, azok társulása, szövetsége
+- b) közoktatási és felsőoktatási, tudományos kutatást, fejlesztést végző intézmény és háttérintézmény; kulturális, nyomtatott és elektronikus sajtó útján megvalósuló tömegtájékoztatási, egyházi, ifjúsági, szociális tevékenységet folytató, a társadalmi felzárkózást és a szociális integrációt elősegítő egészségügyi és egyéb szervezet (ideértve a Szátv. 18. §-ában meghatározott szervezetet is)
+  - ba) az alaptevékenységének (alapításának) megfelelő közfeladat ellátására;
+  - bb) az európai uniós tagsággal és az Európai Unió által biztosított támogatások felhasználásával kapcsolatos továbbképzési tevékenység ellátására;
+- c) önkormányzat, azok társulása, szövetsége
   - ca) az Európai Unió által is támogatott határmenti program céljára;
-  - cb) magyarországi településsel közös infrastruktúra kialakítása, így különösen utak, hidak építése, kommunális és kommunikációs célú támogatások, természetes adottságok fokozott kihasználása, testvértelepülési – kiemelten kulturális és sport – kapcsolatok kialakítása, erősítése, közös környezetvédelmi programok létrehozása, az Unió külső határszakaszán a kishatárforgalom feltételeinek megteremtése céljára;
+  - cb) magyarországi településsel közös infrastruktúra kialakítása, így különösen utak, hidak építése, kommunális és kommunikációs célú támogatások, természetes adottságok fokozott kihasználása, testvértelepülési kapcsolatok – különösen a kulturális- és sportkapcsolatok – kialakítása, erősítése, közös környezetvédelmi programok létrehozása, az Európai Unió külső határszakaszán a kishatárforgalom feltételeinek megteremtése céljára;
 - d) a vállalkozás, ezen belül különösen mikro-, kis- és középvállalkozás
   - da) a magyar kultúra és tudomány fejlesztésével, megőrzésével, gyarapításával, megismerhetővé tételével kapcsolatos célokra;
   - db) gazdasági típusú, ezen belül kiemelten turisztikai, idegenforgalmi, vendéglátó-ipari, környezetvédelmi, energiahatékonysági célokra;
@@ -62,7 +61,7 @@ a következő törvényt alkotja:
 (5) Költségvetési támogatásként
 
 - a) a (2) bekezdés a) pontja szerinti befizetések, adományok előző naptári évi összegével azonos rendszeres támogatás, amely nem lehet kevesebb, mint amennyi az Alap 1 milliárd forint összegre való kiegészítéséhez szükséges,
-- b) eseti céltámogatás illeti meg az Alapot.
+- b) eseti támogatás illeti meg az Alapot.
 
 (6) Az Alap működtetésének kiadásait az Alap finanszírozza.
 
@@ -83,8 +82,8 @@ a következő törvényt alkotja:
 (5) Nem lehet a Kollégium tagja
 
 - a) magyarországi, vagy határon túli politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet tisztségviselője;
-- b) a MÁÉRT munkájában részt vevő személy, illetve annak közeli hozzátartozója;
-- c) az Alap kezelő szervezetének vezetője, továbbá az a személy, aki a kezelő szervezetével munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban áll;
+- b) a MÁÉRT munkájában részt vevő – nem magyar közigazgatási szerv által delegált –személy, illetve annak közeli hozzátartozója;
+- c) az Alap kezelő szervezetének vezetője, igazgatóságának tagja, felügyelő bizottságának tagja, továbbá az a személy, aki a kezelő szervezettel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, vagy más, a Polgári törvénykönyvről szóló törvény szerinti szerződéses jogviszonyban áll;
 - d) a Bizottság tagja vagy annak közeli hozzátartozója;
 - e) az Alapból támogatásban részesülő természetes személy, illetve támogatott szervezet képviselője, vagy annak közeli hozzátartozója.
 
@@ -128,9 +127,9 @@ a következő törvényt alkotja:
 
 (5) A nemzetpolitikáért felelős miniszter szükség szerint, de legalább évente egyszer, április 30-ig tájékoztatja a Kormányt, a Kormány május 31-ig beszámol az Országgyűlésnek az Alap előző évi tevékenységéről és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A beszámolót az Alap honlapján nyilvánosságra kell hozni.
 
-11. § (1) A Kollégium ülései nyilvánosak, de a Kollégium zárt ülés tartását is elhatározhatja. A zárt ülésen hozott döntés-előkészítő javaslatot is nyilvánosságra kell hozni.
+11. § (1) A Kollégium ülései nyilvánosak, de a Kollégium zárt ülés tartását is elhatározhatja. A zárt ülésről készült jegyzőkönyvet is nyilvánosságra kell hozni.
 
-(2) Az Alap működésének nyilvánosságát internetes honlap is biztosítja. A honlapon közzé kell tenni a Bizottság és a Kollégium Alappal kapcsolatos döntéseit, azok meghozatalától (elfogadásától) számított 15 napon belül. A honlapon hozzáférhetővé kell tenni továbbá az Alap működésével kapcsolatos legfontosabb jogszabályokat, az Alap és kezelő szervezetének működésére vonatkozó valamennyi rendelkezést, valamint a Bizottság és a Kollégium tagjainak nevét. A döntések nyilvánosságra hozataláról a kezelő szerven keresztül a Kollégium elnöke gondoskodik.
+(2) Az Alap működésének nyilvánosságát az Alap internetes honlapja (a továbbiakban: honlap) is biztosítja. A honlapon közzé kell tenni a Bizottság Alappal kapcsolatos döntéseit, azok meghozatalától (elfogadásától) számított 15 napon belül. A honlapon hozzáférhetővé kell tenni továbbá az Alap működésével kapcsolatos legfontosabb jogszabályokat, az Alap és kezelő szervezetének működésére vonatkozó valamennyi rendelkezést, valamint a Bizottság és a Kollégium tagjainak nevét. A döntések nyilvánosságra hozataláról a Bizottság az Alap kezelő szerve útján gondoskodik.
 
 #### 6.
 
