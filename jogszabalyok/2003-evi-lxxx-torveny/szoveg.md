@@ -139,6 +139,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 - a) aki jogban járatlansága vagy az ügy bonyolultsága folytán személyesen eljárva nem lenne képes a perben érdekeit eredményesen képviselni, eljárási jogait hatékonyan gyakorolni, vagy
 - b) akinek a perében a jogi képviselet kötelező.
+- c) aki tartási igény külföldi jogosultja vagy kötelezettje, és a határon átnyúló tartási ügyekben eljáró központi hatóság arról értesítette a jogi segítségnyújtó szolgálatot, hogy ügyében eljárást kell indítani vagy ilyen eljárásban a pártfogó ügyvédi képviseletét kell biztosítani.
 
 13. § A támogatásban részesíthető
 
@@ -222,6 +223,8 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - b)–c)
 
 (2) A kérelemhez csatolni kell a támogatásra való jogosultságot igazoló okiratokat, hatósági bizonyítványt, illetve be kell mutatni a jogosultságot igazoló hatósági igazolványt.
+
+(3) A határon átnyúló tartási ügyekben eljáró központi hatóság arról szóló értesítését, hogy a tartási igény külföldi jogosultja vagy kötelezettje kérelmére eljárást kell indítani vagy ilyen eljárásban a pártfogó ügyvédi képviseletét kell biztosítani, e törvény alkalmazásában a fél támogatás iránti kérelmének kell tekinteni. A fél részére szóló iratokat ilyen ügyekben a jogi segítségnyújtó szolgálat a központi hatóság részére kézbesíti.
 
 ### A kérelem elbírálásának határideje
 
@@ -401,7 +404,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (2) A támogatás hatálya a támogatás engedélyezéséről szóló határozat jogerőre emelkedésétől kezdve a per jogerős befejezéséig tart.
 
-53. § A kérelemben a félnek meg kell jelölnie
+53. § A kérelemben a félnek – a határon átnyúló tartási ügyben a központi hatóságnak a támogatás biztosítása iránti megkeresésben – meg kell jelölnie
 
 - a) a kért támogatást,
 - b) a pert lefolytató bíróságot és annak a pernek a tárgyát és az ügyszámát, amelynek lefolytatásához a támogatást kéri; ha pedig a per még nem indult meg, az ellenfél nevét, lakóhelyét (székhelyét), a jogvita tárgyát és az eljárás lefolytatására illetékes bíróságot.
@@ -465,7 +468,10 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (2) Ha a fél képviseletét pártfogó ügyvédként jogi segítő nem vállalja, és ez – a határidőkre tekintettel – a jogainak sérelmével járhat, a fél az eljárási határidő elmulasztása esetén erre hivatkozással a perben igazolási kérelmet terjeszthet elő, a jogi segítségnyújtó szolgálat pedig részére – kérelmére – pártfogó ügyvédként jogi segítőt, ügyvédet vagy ügyvédi irodát rendelhet ki. A jogi segítségnyújtó szolgálat a kirendelésről a végzés egy kiadmányának egyidejű megküldésével, illetve amennyiben az eljáró bíróságról és a per ügyszámáról csak később szerez tudomást, a tudomásszerzést követően haladéktalanul megküldött végzéssel értesíti az eljáró bíróságot.
 
-(3) Amennyiben az ügy jellegére vagy a fél körülményeire tekintettel már a támogatás engedélyezésekor valószínűsíthető, hogy a fél képviselete meghatalmazás útján nem biztosítható, a jogi segítségnyújtó szolgálat a fél kérelmére vagy hozzájárulásával, a határozat jogerőre emelkedését követően pártfogó ügyvédként jogi segítőt, kivételesen ügyvédet vagy ügyvédi irodát rendel ki.
+(3) A jogi segítségnyújtó szolgálat a határozat jogerőre emelkedését követően pártfogó ügyvédként jogi segítőt, kivételesen ügyvédet vagy ügyvédi irodát rendel ki
+
+- a) a fél kérelmére vagy hozzájárulásával, ha az ügy jellegére vagy a fél körülményeire tekintettel már a támogatás engedélyezésekor valószínűsíthető, hogy a fél képviselete meghatalmazás útján nem biztosítható, vagy
+- b) ha a támogatás nyújtására a külföldi fél határon átnyúló tartási ügyben történő jogi képviseletének biztosítása iránti központi hatósági megkeresés alapján kerül sor.
 
 (4) A jogi segítő
 
