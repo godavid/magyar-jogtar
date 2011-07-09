@@ -581,7 +581,7 @@ szerzett.
   - a) a születés, a házasságkötés és a haláleset anyakönyvezését követően az érdekelt részére első ízben;
   - b) az intézeti vagy állami nevelt gyermek anyakönyvezéséhez;
   - c) az 1953. január 1-je előtti bejegyzésről a névmutató szerint illetékmentes kivonatot még nem adtak ki, és ca) a születési anyakönyvből a bejegyzett személy, örökbefogadás esetén az örökbefogadó részére, cb) a házassági anyakönyvből a házastárs részére, cc) a halotti anyakönyvből a házastárs vagy a meghalt személy egyenesági rokona részére,
-  - d) a tartásdíj külföldön való behajtása tárgyában New Yorkban 1957. június 20-án kelt nemzetközi egyezmény kihirdetéséről szóló 1957. évi 53. törvényerejű rendelet alapján folyó eljárás céljára;
+  - d) tartásdíj európai uniós jogi norma, nemzetközi szerződés vagy viszonossági nyilatkozat alapján külföldön való behajtása tárgyában folyó eljárás céljára,
   - e) a szülők házassági anyakönyvi kivonatának a gyermek születésének anyakönyvezéséhez;
   - f) az elhunyt születési és házassági anyakönyvi kivonatának a haláleset anyakönyvezéséhez;
   - g) a nemzeti és etnikai kisebbségek jogairól szóló törvény alapján kijavított anyakönyvi adatokról az érdekelt részére első ízben; történik a kiállítása; 5/A. a házassági név megváltoztatására irányuló eljárás;
@@ -839,7 +839,8 @@ esetében.
 - r) a külön törvényben meghatározott hozzátartozók közötti erőszak miatt az ideiglenes megelőző távoltartó határozat bírói felülvizsgálatára, valamint a megelőző távoltartás elrendelésére irányuló nemperes eljárások.
 - s) az áldozatsegítés tárgyában hozott közigazgatási döntés bírósági felülvizsgálata,
 - t) a belföldi végrehajthatóság megállapítása iránti eljárás a 44/2001/EK tanácsi rendelet, a 2201/2003/EK tanácsi rendelet és a 4/2009/EK tanácsi rendelet alapján,
-- u) a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/C. §-a szerint tanúsítvány, igazolás és kivonat kiállítása iránti bírósági eljárás.
+- u) a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/C. §-a szerint tanúsítvány, igazolás és kivonat kiállítása iránti bírósági eljárás,
+- v) a határon átnyúló tartási ügyekben a tartási igénnyel kapcsolatos kérelem központi hatósághoz történő továbbítása iránti eljárás.
 
 (2) Illetékmentes a büntető ügyekben:
 
