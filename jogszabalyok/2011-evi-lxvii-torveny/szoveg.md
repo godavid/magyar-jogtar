@@ -192,49 +192,7 @@ irányul, a központi hatóság a tartási igény peren kívüli teljesítése �
 
 #### 14. Módosuló jogszabályok
 
-32. § (1) Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 33. § (2) bekezdés 5. pont d) alpontja helyébe a következő rendelkezés lép:
-
-[Egyes alkotmányos jogok érvényesítése, illetőleg kötelezettségek teljesítése, valamint a társadalmi igazságosság előmozdítása érdekében a mellékletben és a külön jogszabályokban meghatározott illetékmentes eljárásokon felül tárgyuknál fogva illetékmentes eljárások:]
-
-[az anyakönyvi kivonat kiállítása az alábbi esetekben illetékmentes, ha]
-
-„d) tartásdíj európai uniós jogi norma, nemzetközi szerződés vagy viszonossági nyilatkozat alapján külföldön való behajtása tárgyában folyó eljárás céljára,”
-
-[történik a kiállítása;]
-
-(2) Az Itv. 57. § (1) bekezdése a következő v) ponttal egészül ki:
-
-[Illetékmentes a polgári ügyekben:]
-
-„v) a határon átnyúló tartási ügyekben a tartási igénnyel kapcsolatos kérelem központi hatósághoz történő továbbítása iránti eljárás.”
-
-33. § (1) A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény (a továbbiakban: Jst.) 12. §-a a következő c) ponttal egészül ki:
-
-[Támogatásban részesül az a 13. §-ban meghatározott és rászorultnak tekintendő fél,]
-
-„c) aki tartási igény külföldi jogosultja vagy kötelezettje, és a határon átnyúló tartási ügyekben eljáró központi hatóság arról értesítette a jogi segítségnyújtó szolgálatot, hogy ügyében eljárást kell indítani vagy ilyen eljárásban a pártfogó ügyvédi képviseletét kell biztosítani.”
-
-(2) A Jst. 22. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A határon átnyúló tartási ügyekben eljáró központi hatóság arról szóló értesítését, hogy a tartási igény külföldi jogosultja vagy kötelezettje kérelmére eljárást kell indítani vagy ilyen eljárásban a pártfogó ügyvédi képviseletét kell biztosítani, e törvény alkalmazásában a fél támogatás iránti kérelmének kell tekinteni. A fél részére szóló iratokat ilyen ügyekben a jogi segítségnyújtó szolgálat a központi hatóság részére kézbesíti.”
-
-(3) A Jst. 53. §-a helyébe a következő rendelkezés lép:
-
-„53. § A kérelemben a félnek – a határon átnyúló tartási ügyben a központi hatóságnak a támogatás biztosítása iránti megkeresésben – meg kell jelölnie
-
-a) a kért támogatást,
-
-b) a pert lefolytató bíróságot és annak a pernek a tárgyát és az ügyszámát, amelynek lefolytatásához a támogatást kéri; ha pedig a per még nem indult meg, az ellenfél nevét, lakóhelyét (székhelyét), a jogvita tárgyát és az eljárás lefolytatására illetékes bíróságot.”
-
-(4) A Jst. 61. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A jogi segítségnyújtó szolgálat a határozat jogerőre emelkedését követően pártfogó ügyvédként jogi segítőt, kivételesen ügyvédet vagy ügyvédi irodát rendel ki
-
-a) a fél kérelmére vagy hozzájárulásával, ha az ügy jellegére vagy a fél körülményeire tekintettel már a támogatás engedélyezésekor valószínűsíthető, hogy a fél képviselete meghatalmazás útján nem biztosítható, vagy
-
-b) ha a támogatás nyújtására a külföldi fél határon átnyúló tartási ügyben történő jogi képviseletének biztosítása iránti központi hatósági megkeresés alapján kerül sor.”
-
-34. § A külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről szóló 1973. évi 11. törvényerejű rendelet 3. § (1) bekezdés b) pontjában és 3. § (5) bekezdésében az „a közjegyzők által készített, illetve hitelesített okiratok” szövegrész helyébe az „a közjegyzők által készített vagy hitelesített okiratok, valamint a közjegyzői levéltáros által kiadott hiteles másolatok” szöveg lép.
+#### 32–34. §
 
 #### 35–38. §
 
@@ -242,6 +200,4 @@ b) ha a támogatás nyújtására a külföldi fél határon átnyúló tartási
 
 #### 40. §
 
-41. § A személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 9. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Személyes adatok a nemzetközi jogsegélyről, valamint a kettős adóztatás elkerüléséről szóló nemzetközi szerződés végrehajtása érdekében, a nemzetközi szerződésben meghatározott célból, feltételekkel és adatkörben – a (2) bekezdésben meghatározott feltételek hiányában is – továbbíthatók harmadik országba.”
+#### 41. §
