@@ -110,7 +110,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 12. § (1) A képviselő-testület szükség szerint, a szervezeti és működési szabályzatban meghatározott számú, de évente legalább hat ülést tart. Az ülést össze kell hívni a települési képviselők egynegyedének vagy a képviselő-testület bizottságának az indítványára.
 
-(2) A képviselő-testület elnöke a polgármester, aki összehívja és vezeti a képviselő-testület ülését.
+(2) A képviselő-testület elnöke a polgármester, aki összehívja és vezeti a képviselő-testület ülését. Ha a képviselő-testület ülését a 98. § (2) bekezdés f) pontja alapján a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv hívja össze, az ülés levezetésére a képviselő-testület által a tagjai sorából egyszerű többséggel megválasztott levezető elnök köteles.
 
 (3) A képviselő-testület ülése nyilvános.
 
@@ -139,7 +139,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 (2) Az önkormányzati rendeletet a képviselő-testület hivatalos lapjában, illetőleg a helyben szokásos — a szervezeti és működési szabályzatban meghatározott — módon ki kell hirdetni.
 
-(3) Az önkormányzati rendeletet a polgármester és a jegyző írja alá. Kihirdetéséről a jegyző gondoskodik.
+(3) Az önkormányzati rendeletet a polgármester és a jegyző, ha pedig a képviselő-testület ülését a 12. § (2) bekezdése szerinti esetben a levezető elnök vezeti, a levezető elnök és a jegyző írja alá. Az önkormányzati rendelet kihirdetéséről a jegyző gondoskodik.
 
 (4) Ha az önkormányzati rendelet kihirdetett szövege eltér az önkormányzati rendelet aláírt szövegétől, a polgármester vagy a jegyző kezdeményezi az eltérés helyesbítését. Az önkormányzati rendelet a hatálybalépését megelőzően, de legkésőbb a kihirdetést követő tizedik munkanapon helyesbíthető. Az eltérés megállapítása esetén a helyesbítés megjelentetéséről a jegyző az önkormányzati rendelet kihirdetésével azonos módon gondoskodik.
 
@@ -147,7 +147,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 17. § (1) A képviselő-testület üléséről jegyzőkönyvet kell készíteni, amely a megjelent képviselők és meghívottak nevét, a tárgyalt napirendi pontokat, a tanácskozás lényegét, a szavazás számszerű eredményét és a hozott döntéseket tartalmazza. A jegyzőkönyv elkészítéséről a jegyző gondoskodik.
 
-(2) A képviselő-testület ülésének a jegyzőkönyvét a polgármester és a jegyző írja alá. A jegyzőkönyvet az ülést követő tizenöt napon belül a jegyző köteles megküldeni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek.
+(2) A képviselő-testület üléséről készült jegyzőkönyv aláírására a 16. § (3) bekezdését kell alkalmazni. A jegyzőkönyvet az ülést követő tizenöt napon belül a jegyző a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek megküldi.
 
 (3) A választópolgárok – a zárt ülés kivételével – betekinthetnek a képviselő-testület előterjesztésébe és ülésének jegyzőkönyvébe. A zárt ülésről külön jegyzőkönyvet kell készíteni. A külön törvény szerinti közérdekű adat és közérdekből nyilvános adat megismerésének lehetőségét zárt ülés tartása esetén is biztosítani kell.
 
@@ -887,7 +887,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 - c) rövid lejáratú kötelezettség: az egy évet meg nem haladó lejáratra kapott kölcsön, hitel és kamata (ide nem értve a likvid hitelt és kamatát), továbbá a több év alatt törlesztendő kötelezettség adott évben esedékes összege (a hosszú lejáratú hitel, kölcsön adott évre jutó törlesztő részlete és járulékai; a kötvénykibocsátás utáni tőketörlesztés és kamat; a lízingdíj; garancia és kezességvállalásból eredő éves kötelezettség; valamint a több éven keresztül fizetési kötelezettségként jelentkező váltótartozások és a szállítókkal szembeni tartozás több év alatt részletekben fizetendő összegének adott évre jutó törlesztő részlete), ide nem értve a kormány kezességvállalásával biztosított kötelezettségeket és az európai uniós fejlesztési támogatások megelőlegezését szolgáló hiteleket,
 - d) likvid hitel: az éven belül felvett és visszafizetett, a közszolgáltatási és államigazgatási feladatok folyamatos működtetéséhez felvett hitel.
 
-(4) A likvid hitel nem esik az e §-ban foglaltak szerinti korlátozás alá.
+(4) A (2) bekezdést nem kell alkalmazni a helyi önkormányzat által felvenni tervezett likvid hitel tekintetében, valamint a helyi önkormányzat adósságrendezési eljárása keretében megkötni tervezett egyezség során, ha a helyi önkormányzat az egyezséghez szükséges feltételeket pénzügyi intézménytől felvett hitellel teremti meg.
 
 89. § (1) A helyi önkormányzat az intézményét támogatásban részesíti. Nem vonhatja el és a támogatásba nem számíhatja be az intézménynek a kötelező térítési díjon kívüli bevételeit.
 
@@ -1055,7 +1055,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 - c)
 - d)
 - e) a törvényességi ellenőrzés során szerzett tapasztalatai alapján az önkormányzat gazdálkodását érintő vizsgálat lefolytatását kezdeményezheti az Állami Számvevőszéknél;
-- f) összehívja a képviselő-testület ülését, ha a 12. § (1) bekezdése szerint tett indítványnak a polgármester tizenöt napon belül nem tesz eleget;
+- f) összehívja – és a levezető elnök megválasztásáig vezeti – a képviselő-testület ülését, ha a 12. § (1) bekezdése szerint tett indítványnak a polgármester az indítvány benyújtásától számított tizenöt napon belül nem tesz eleget.
 - g) a feladat- és hatáskörébe tartozó ügyben az önkormányzat kérésére szakmai segítséget nyújt.
 
 (3) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogkörében vizsgálja, hogy a helyi önkormányzat
