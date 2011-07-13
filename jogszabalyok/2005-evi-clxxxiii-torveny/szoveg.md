@@ -1328,7 +1328,7 @@ biztosítható.
 
 ### A VASÚTI IGAZGATÁSI SZERV FELADATAI
 
-69. § (1) A vasúti igazgatási szerv határozatai és végzései ellen közigazgatási eljárás keretében fellebbezésnek nincs helye, azokat felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+69. § (1)
 
 (2) A vasúti igazgatási szerv részére a piac felügyeletével kapcsolatos tevékenységéért az országos működési engedéllyel rendelkező vasúti társaságok felügyeleti díjat kötelesek fizetni, amelynek mértéke a fizetésre kötelezett által az előző évben belföldön fizetett hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj 0,4%-a. A felügyeleti díj mértéke az éves költségvetési törvényben – a vasúti igazgatási szerv részére az éves költségvetési törvényben megállapított támogatási előirányzat mértékének figyelembevételével – a szükséghez képest módosításra kerülhet. Előző évi fizetett pályahasználati díj, illetve pályahálózat-hozzáférési díj hiányában a felügyeleti díjat a tárgyidőszakban ténylegesen fizetett pályahálózat-hozzáférési díjak alapján kell megfizetni. A felügyeleti díj megfizetésének módját és feltételeit a miniszter rendeletben állapítja meg.
 
@@ -1788,6 +1788,8 @@ a kihirdetést követő 45. napon lép hatályba.
 
 (12) Az egyenlő esélyű hozzáférés feltételeit a közforgalmú menetrend alapján végzett személyszállításban részt vevő vasúti járműveken, továbbá a pályaudvar, a vasútállomás és a megállóhely személyforgalom lebonyolítására és kiszolgálására szolgáló részében fokozatosan, de legkésőbb 2013. január 1-jéig meg kell teremteni.
 
+(13) Amennyiben a 32/A. § szerinti biztonsági szervezet feladatait a vasúti társaság a biztonságirányítási rendszerben látja el, a vasútbiztonsági engedély, vasútbiztonsági tanúsítvány módosítása iránti kérelmét 2012. január 31-éig nyújtja be a közlekedési hatóságnak. A vasútbiztonsági engedély, vasútbiztonsági tanúsítvány kizárólag erre irányuló módosítása kapcsán fizetendő igazgatási szolgáltatási díj a vasútbiztonsági engedély, vasútbiztonsági tanúsítvány kiadása hatósági díjának 40%-a.
+
 ### FELHATALMAZÁS
 
 88. § (1) Felhatalmazást kap a Kormány, hogy
@@ -1841,6 +1843,7 @@ rendeletben állapítsa meg.
 - 28. a vasúti pálya más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
 - 29. az egységes egyeztetési eljárásra vonatkozó részletes szabályokat,
 - 30. a Regionális Közlekedési Szakbizottság szervezetére és működésére vonatkozó szabályokat
+- 31. az átjárhatósági műszaki előírások keretében alkalmazandó megfelelőségértékelési, alkalmazhatósági és EK-hitelesítési eljárások moduljaira vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

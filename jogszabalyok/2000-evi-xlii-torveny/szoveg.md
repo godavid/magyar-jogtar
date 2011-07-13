@@ -11,11 +11,12 @@ Az Országgyűlés a környezetkímélő és energiatakarékos víziközlekedés
 1. § (1) A törvény hatálya a Magyar Köztársaság területén:
 
 - a) folytatott hajózási tevékenységre, az azt szolgáló vagy annak folytatását befolyásoló, a mederben és a parton lévő létesítményekre, az úszólétesítményekre, a víziutakra és kikötőkre,
-- b) hajózási tevékenység folytatásában részt vevő természetes és jogi személyekre, jogi személyiséggel nem rendelkező gazdálkodó szervezetekre
+- b) hajózási tevékenység folytatásában részt vevő természetes és jogi személyekre, jogi személyiséggel nem rendelkező gazdálkodó szervezetekre,
+- c) folytatott kedvtelési célú hajózásra, a kedvtelési célú hajózásban részt vevő személyekre
 
 terjed ki.
 
-(2) Az ország határain kívül magyar lobogó alatt, illetve az ország területén nem magyar lobogó alatt közlekedő úszólétesítményekre, valamint az ezekkel folytatott hajózási tevékenységre a törvény rendelkezéseit annyiban kell alkalmazni, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
+(2) Az ország határain kívül magyar lobogó alatt vagy az ország területén nem magyar lobogó alatt közlekedő úszólétesítményekre, valamint az ezekkel folytatott hajózási tevékenységre és kedvtelési célú hajózásra a törvény rendelkezéseit annyiban kell alkalmazni, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
 
 ### Az állam feladatai
 
@@ -26,7 +27,7 @@ terjed ki.
 - c) a hajózással, a kikötőkkel és a víziutakkal kapcsolatos hatósági feladatok ellátása;
 - d) nemzetközi kapcsolatokban a hajózással összefüggő nemzeti érdekek és kötelezettségek érvényesítése;
 - e) a víziközlekedés ágazati irányításához szükséges adatgyűjtés elrendelése;
-- f) a hajózási, víziúti és kikötői operatív információs rendszer – beleértve a folyami információs szolgáltatásokat – kiépítése, fejlesztése és működtetése, a külön jogszabályban megállapított információs alapszolgáltatásoknak a felhasználóknak való térítésmentes rendelkezésre bocsátása;
+- f) a hajózási, víziúti és kikötői operatív információs rendszer – beleértve a folyami információs szolgáltatásokat – kiépítése, fejlesztése és működtetése, a a folyami információs szolgáltatásokról szóló kormányrendeletben megállapított információs alapszolgáltatásoknak a felhasználóknak való térítésmentes rendelkezésre bocsátása;
 - g) a hajózás – nemzetközi követelményeknek megfelelő – rendjének meghatározása;
 - h) az állami tulajdonban lévő felszíni vizeken és vízilétesítményeken (mesterséges víziút) (a továbbiakban együtt: állami tulajdonú hajózható vizek) a víziút – nemzetközi kötelezettségekre is tekintettel történő – fenntartása, fejlesztése, továbbá az állami tulajdonú hajózható vizeken szükségkikötők létesítése, működtetése;
 - i) az országos közforgalmú kikötők és a határkikötők rendeltetésszerű működéséhez és fejlesztéséhez szükséges közúti és vasúti összeköttetések feltételeinek biztosítása;
@@ -70,19 +71,19 @@ látja el.
 
 ### A hajózás igazgatása
 
-4. § (1) A hajózással, a víziutakkal és a kikötőkkel összefüggő állami feladatok körében az igazgatási tevékenységet, a 2. § (2) bekezdésében megjelölt munkamegosztásra is figyelemmel, a miniszter – a (4) bekezdésben, továbbá az 5–6. §-okban megállapított kivétellel – az egységes közlekedési igazgatási szervezet, valamint a vízügyi igazgatási szervezet útján végzi.
+4. § (1) A hajózással, a víziutakkal és a kikötőkkel összefüggő állami feladatok körében az igazgatási tevékenységet, a 2. § (2) bekezdésében megjelölt munkamegosztásra is figyelemmel, a miniszter – a (4) bekezdésben, továbbá az 5–6. §-okban megállapított kivétellel – az egységes közlekedési igazgatási szervezet, útján végzi.
 
 (2) Az egységes közlekedési igazgatási szervezeten belül működő hajózási igazgatási szervezet részei a miniszter által vezetett minisztérium, továbbá a hajózással összefüggő igazgatási feladatok ellátására létrehozott központi és területi szervek (a továbbiakban együtt: hajózási hatóságok).
 
-(3) A hajózási hatóság eljárásáért külön jogszabályban meghatározott díjat kell fizetni.
+(3) A hajózási hatóság eljárásáért miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-(4) Az ország határain kívül a Magyar Köztársaság konzuli tisztviselője első fokú hajózási hatósági jogkörben jár el a képesítő okmányok, a szolgálati könyvek ideiglenes pótlása, meghosszabbítása, valamint – a külön jogszabályban meghatározott hajózási hatóság felkérésére – a hajóokmányok érvényességi idejének ideiglenes meghosszabbítása tekintetében. Ellátja továbbá a nemzetközi szerződésekben meghatározott, hajózással kapcsolatos egyéb konzuli feladatokat.
+(4) Az ország határain kívül a Magyar Köztársaság konzuli tisztviselője első fokú hajózási hatósági jogkörben jár el a képesítő okmányok, a szolgálati könyvek ideiglenes pótlása, meghosszabbítása, valamint – a hajózási hatóság felkérésére – a hajóokmányok érvényességi idejének ideiglenes meghosszabbítása tekintetében. Ellátja továbbá a nemzetközi szerződésekben meghatározott, hajózással kapcsolatos egyéb konzuli feladatokat.
 
 (5) A hajózási hatóságnál kezdeményezett eljárásokban a Kormány által rendeletben meghatározott dokumentum elektronikus úton nem terjeszthető elő.
 
-5. § A hajózással kapcsolatos rendőrhatósági és határrendészeti tevékenységet a rendészetért felelős miniszter és a határrendészetért felelős miniszter – a rendőrség vízirendészeti feladatokat ellátó szervei útján – külön jogszabályban foglaltak alapján látja el.
+5. § A hajózással kapcsolatos rendőrhatósági és határrendészeti tevékenységet a rendészetért felelős miniszter és a határrendészetért felelős miniszter – a rendőrség vízirendészeti feladatokat ellátó szervei útján – a vízirendészettel és a víziközlekedéssel kapcsolatos rendőri feladatokról szóló jogszabályban foglaltak alapján látja el.
 
-6. § A hajózás egészségügyi és közegészségügyi-járványügyi hatósági felügyeletét az egészségügyért felelős miniszter – az egészségügyi államigazgatási szerv útján – külön jogszabályban foglaltak alapján látja el.
+6. § A hajózás egészségügyi és közegészségügyi-járványügyi hatósági felügyeletét az egészségügyért felelős miniszter – az egészségügyi államigazgatási szerv útján – látja el.
 
 ### Szakértői tevékenység
 
@@ -151,7 +152,7 @@ lajstromban tartja nyilván.
 - a) úszólétesítmény állami hovatartozását;
 - b) az úszólétesítmény tulajdonosának természetes személyazonosító adatait és címét, illetve jogi személy vagy jogi személyiség nélküli gazdasági társaság esetén székhelyét, alapítójának nevét, a gazdasági társaság tagjának nevét, címét, anyja nevét, születési helyét és idejét, valamint tulajdoni arányát, a gazdasági társaság formáját és cégjegyzékszámát;
 - c) úszólétesítményhez kapcsolódó jogokat és jogi szempontból jelentős tényeket;
-- d) úszólétesítmény külön jogszabályban meghatározott azonosító adatait.
+- d) úszólétesítmény azonosító adatait.
 
 (2) A lajstrom megtekintése során a tulajdonosról nevének, székhelyének (címének) kivételével egyéb azonosító adat nem juthat a betekintő tudomására. A lajstrom egyes részeiről kiadott másolaton a nevén és székhelyén (címén) kívül a tulajdonosról egyéb azonosító adat nem tüntethető fel.
 
@@ -169,7 +170,7 @@ lajstromban tartja nyilván.
 - f) elő- vagy visszavásárlási jog és vételi jog,
 - g) végrehajtási jog.
 
-(4) A lajstromba bejegyezhető tényeket és az úszólétesítményre vonatkozó – a 10. § (1) bekezdésében nem említett – egyéb adatokat külön jogszabály állapítja meg.
+(4) A lajstromba bejegyezhető tényeket és az úszólétesítményre vonatkozó – a 10. § (1) bekezdésében nem említett – egyéb adatokat az úszólétesítmények lajstromozásáról szóló jogszabály állapítja meg.
 
 (5) A hajózási hatóság bejegyzése hozza létre átruházás esetén a tulajdonjogot, továbbá a szerződésen alapuló üzemben tartói jogot, haszonélvezeti jogot.
 
@@ -177,9 +178,9 @@ lajstromban tartja nyilván.
 
 (7) Valamely jognak vagy ténynek a lajstromba való bejegyzését annak kell kérnie, aki a bejegyzéssel jogosulttá válik, vagy akinek ez a bejegyzett jogát érinti.
 
-(8) A lajstromba vételről a hajózási hatóság külön jogszabályban megállapított okmányt állít ki.
+(8) A lajstromba vételről a hajózási hatóság az úszólétesítmények lajstromozásáról szóló jogszabályban meghatározott okmányt állít ki. A lajstromozási okmányt vagy más – a hajózási hatóság által kiállított – olyan okmányt, amely a lajstromozás tényét tanúsítja, az úszólétesítményen kell tartani.
 
-(9) A lajstromozási okmányt az úszólétesítményen kell tartani.
+(9)
 
 12. § (1) Azt a belvízi hajót, tengeri hajót, illetve úszómunkagépet, amelynek üzemeltetése hajózási engedélyhez kötött, a hajózási hatóság – amennyiben nemzetközi szerződés eltérően nem rendelkezik – abban az esetben jegyzi be a magyar lajstromba, ha annak magyar vagy közösségi tulajdoni hányada az 50%-ot meghaladja, továbbá az úszólétesítményt más lajstromban nem tartják nyilván.
 
@@ -229,21 +230,21 @@ lajstromban tartja nyilván.
 
 (3) Az úszólétesítmény üzemképes, ha rendeltetésének, továbbá az engedélyezett hajózási zónára, illetőleg hajózási körzetre vonatkozó – külön jogszabályban megállapított – műszaki, biztonsági és környezetvédelmi követelményeknek megfelel.
 
-(4) A nyilvántartásba vételre kötelezett úszólétesítmény üzemképességét a hajózási hatóság – külön jogszabályban meghatározott – hajóokmányban tanúsítja.
+(4) A nyilvántartásba vételre kötelezett úszólétesítmény üzemképességét a hajózási hatóság – – hajóokmányban tanúsítja.
 
 (5) Ha jogszabály eltérően nem rendelkezik, nemzetközi szerződésben előírt hajóokmányt csak a hajózási hatóság adhat ki.
 
 18. § A hajózási hatóság, továbbá külön jogszabályban meghatározott szerv az üzemben tartott úszólétesítmény hajózásra alkalmasságát ellenőrizheti. A hajózási hatóság az úszólétesítmény üzemeltetését – annak hajózásra alkalmatlansága esetén – korlátozza vagy megtiltja.
 
-19. § (1) Az üzemben tartó a nyilvántartásba vételre kötelezett úszólétesítményt az üzembe helyezését megelőzően, továbbá üzemeltetése során, meghatározott időszakonként köteles az üzemképesség megállapítása céljából – külön jogszabályban megállapított feltételek szerint – a hajózási hatóságnak bemutatni.
+19. § (1) Az üzemben tartó a nyilvántartásba vételre kötelezett úszólétesítményt az üzembe helyezését megelőzően, továbbá üzemeltetése során, meghatározott időszakonként köteles az üzemképesség megállapítása céljából – az úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló miniszteri rendeletekben megállapított feltételek szerint – a hajózási hatóságnak bemutatni.
 
 (2) Az üzemben tartónak a nyilvántartásba vételre kötelezett úszólétesítmény üzemképességének újbóli megállapítását kell a hajózási hatóságtól kérnie, ha az úszólétesítményben az üzemképességet érintő változás (sérülés, meghibásodás, illetve annak kijavítása) történt.
 
-20. § A külön jogszabályban meghatározott kedvtelési célú kishajót, csónakot és motoros vízi sporteszközt kereskedelmi forgalomba hozni csak a megfelelőség tanúsításával lehet.
+20. § A kedvtelési célú vízijárművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló jogszabályban meghatározott kedvtelési célú vízijárművet kereskedelmi forgalomba hozni csak a megfelelőség tanúsításával lehet.
 
 ### Biztonsági, egészségügyi, környezetvédelmi és munkavédelmi követelmények
 
-21. § (1) Az úszólétesítmény üzemben tartója köteles gondoskodni az úszólétesítményen – a külön jogszabályokban megállapított – biztonsági, humán-, állat- és növényegészségügyi, valamint környezetvédelmi követelmények, továbbá az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeinek megtartásáról.
+21. § (1) Az úszólétesítmény üzemben tartója köteles gondoskodni az úszólétesítményen biztonsági, humán-, állat- és növényegészségügyi, valamint környezetvédelmi követelmények, továbbá az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeinek megtartásáról.
 
 (2) A 20 tengeri mérföldnél hosszabb utakon közlekedő tengeri személyhajó és tengeri gyorsjáratú vízijármű, illetve az államhatárt átlépő belvízi személyhajó üzemben tartója köteles felkutatási és mentési, valamint hatósági feladatok végrehajtását biztosító célokra a hajón utazó személyek nevét, életkorát, nemét és állampolgárságát tartalmazó utasnyilvántartást vezetni, és azt szükség esetén a felkutató és mentőszolgálatok, valamint – a hatóság adatkérése esetén – a 48/A. § (1) bekezdésében megjelölt hatóságok rendelkezésére bocsátani.
 
@@ -273,7 +274,7 @@ lajstromban tartja nyilván.
 
 ### IV. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY SZEMÉLYZETÉRE VONATKOZÓ ÁLTALÁNOS ELŐÍRÁSOK
 
-26. § (1) Úszólétesítményt csak külön jogszabályban meghatározott képesítéssel rendelkező, egészségileg és a biztonságos munkavégzésre is alkalmas állapotban lévő személyzet működtethet.
+26. § (1) Úszólétesítményt csak hajózási képesítésekről szóló miniszteri rendeletben meghatározott képesítéssel rendelkező, egészségileg és a biztonságos munkavégzésre is alkalmas állapotban lévő személyzet működtethet.
 
 (2) Úszólétesítményen képesítéshez kötött szolgálat csak a hajózási hatóság által kiadott, illetve honosított, továbbá nemzetközi szerződés alapján elismert képesítő okmány birtokában látható el.
 
@@ -446,7 +447,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 (3) Az (1)–(2) bekezdés alkalmazásában napi pihenőidőnek minősül a napi munka befejezése és a másnapi munkakezdés közötti időtartam, továbbá a munkaidő-beosztás alapján az egy napon belüli, két munkával töltött időszak közötti időtartam is, amennyiben annak hossza az egy órát eléri.
 
-44/B. § A hajók üzemképességi vizsgálatait, a tűzvédelmi és mentőcsónak gyakorlatokat, továbbá külön jogszabályban megkövetelt egyéb gyakorlatokat úgy kell végezni, hogy azok a pihenőidőt a lehető legkisebb mértékben vegyék igénybe, és ne idézzenek elő kimerültséget.
+44/B. § A hajók üzemképességi vizsgálatait, a tűzvédelmi és mentőcsónak gyakorlatokat, továbbá az egyéb gyakorlatokat úgy kell végezni, hogy azok a pihenőidőt a lehető legkisebb mértékben vegyék igénybe, és ne idézzenek elő kimerültséget.
 
 44/C. § (1) Ha tengeri nagyhajón a készenlét alatt a személyzet számára munkavégzést rendeltek el, a készenlétet követően a munkavégzés időtartamával azonos tartamú pihenőidőt kell biztosítani.
 
@@ -454,7 +455,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 44/D. § (1) Az úszólétesítmények személyzetének munkaidejét szabályozó jogszabályokat és kollektív szerződést a személyzet részére könnyen megközelíthető helyen elérhetővé kell tenni.
 
-(2) Külön jogszabályban meghatározott hajózási hatóság jogosult ellenőrizni az úszólétesítményeken a munkarendre, a munkavállaló munkaidő-beosztására, valamint a munkaidejére és pihenőidejére vonatkozó szabályok megtartását. A hajózási hatóság az ellenőrzés során feltárt szabálytalanság megszüntetése érdekében az úszólétesítmény üzemeltetését megtilthatja.
+(2) A meghatározott hajózási hatóság jogosult ellenőrizni az úszólétesítményeken a munkarendre, a munkavállaló munkaidő-beosztására, valamint a munkaidejére és pihenőidejére vonatkozó szabályok megtartását. A hajózási hatóság az ellenőrzés során feltárt szabálytalanság megszüntetése érdekében az úszólétesítmény üzemeltetését megtilthatja.
 
 ### VII. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY ÉS SZEMÉLYZETÉNEK OKMÁNYAI
 
@@ -565,7 +566,7 @@ révkalauzt kell igénybe venni.
 
 (3) A révkalauzok nyilvántartásába a hajózási hatóság azt a személyt jegyezheti be, aki
 
-- a) az úszólétesítmény (kötelék) vezetésére – külön jogszabályban – meghatározott képesítéssel rendelkezik,
+- a) az úszólétesítmény (kötelék) vezetésére meghatározott képesítéssel rendelkezik,
 - b) a víziút adott szakaszára vonalvizsgát tett, és a vizsga letételét követően az adott szakaszon hajó vezetőjeként legalább 12 havi hajózási gyakorlatot szerzett,
 - c) a révkalauzi tevékenység körében okozott kár megtérítésére felelősségbiztosítási szerződést kötött.
 
@@ -589,7 +590,7 @@ révkalauzt kell igénybe venni.
 
 - a) a nyilvántartásba vételre nem kötelezett úszólétesítményekkel végzett hajózási tevékenységhez,
 - b) a központi költségvetési szervek jogszabályban előírt feladatainak saját eszközökkel való ellátásához,
-- c) természetes személy vagy sportegyesület kizárólag kedvtelési célból folytatott hajózási tevékenységéhez, ide nem értve az oktatási céllal folytatott hajózási tevékenységet,
+- c) vízijármű kedvtelési célú használatához, ide nem értve az oktatási céllal folytatott hajózási tevékenységet,
 - d) úszómű szálláshelyként vagy kikötő, hajózási létesítmény elemeként történő üzemeltetéséhez, kivéve a gazdasági célból történő üzemeltetést,
 - e) az EGT-államok hajózási hatóságai által kiállított hajózási engedély alapján végzett hajózási tevékenységhez.
 
@@ -614,7 +615,7 @@ révkalauzt kell igénybe venni.
 
 (5) A hajózási engedély kiadásának és visszavonásának feltételeiről külön jogszabály rendelkezik.
 
-(6) Hajózási engedély annak a magyarországi székhelyű jogi személynek vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetnek adható, amelynek vezetője vagy hajózási üzemeltetési vezetője (a továbbiakban együtt: vezető) a hajózási hatóság részére igazolja személyes megbízhatóságát.
+(6) Hajózási engedély annak a magyarországi székhelyű jogi személynek vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetnek adható, amelynek vezetője vagy hajózási üzemeltetési vezetője (a továbbiakban együtt: vezető) a hajózási hatóság részére igazolja személyes megbízhatóságát és szakmai alkalmasságát.
 
 (7) A személyes megbízhatóság követelményének nem felel meg az a vezető,
 
@@ -624,7 +625,7 @@ révkalauzt kell igénybe venni.
 
 (8) A személyes megbízhatóság követelményének nem felel meg az a vezető sem, akire nézve a (7) bekezdésben meghatározott kizáró okok valamelyike a kérelem benyújtását követően következik be.
 
-52/A. § (1) A hajózási engedélyt a hajózási hatóság öt évre adja ki. A hajózási engedély érvényességi idejét – az érvényességi idő lejárta előtt benyújtott kérelem alapján – a hatóság meghosszabbítja, ha annak jogszabályi akadálya nincs, és a hajózási engedély kiadásához az e törvényben és a külön jogszabályban előírt feltételek továbbra is fennállnak.
+52/A. § (1) A hajózási engedélyt a hajózási hatóság öt évre adja ki. A hajózási engedély érvényességi idejét – az érvényességi idő lejárta előtt benyújtott kérelem alapján – a hatóság meghosszabbítja, ha annak jogszabályi akadálya nincs, és a hajózási engedély kiadásához az e törvényben és a a hajózási tevékenység engedélyezésére vonatkozó előírt feltételek továbbra is fennállnak.
 
 (2) Az 52. § (1) bekezdésében meghatározott üzemben tartó, jogi személy vagy gazdálkodó szervezet vezetője a hajózási hatóság részére igazolja, hogy vele szemben az 52. § (7) bekezdés c) pontjában meghatározott kizáró ok nem áll fenn, valamint
 
@@ -633,14 +634,14 @@ révkalauzt kell igénybe venni.
 
 (3) A hajózási engedély érvényességi ideje alatt a hajózási hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy az 52. § (1) bekezdésében meghatározott üzemben tartó, jogi személy vagy gazdálkodó szervezet vezetőjével szemben fennáll-e az 52. § (7) bekezdés a) és b) pontjában meghatározott kizáró ok. A hatósági ellenőrzést folytató hajózási hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az 52. § (1) bekezdésében meghatározott üzemben tartó, jogi személy vagy gazdálkodó szervezet vezetőjével szemben fennáll-e az 52. § (7) bekezdés a) és b) pontjában meghatározott kizáró ok.
 
-(4) A Felügyelet az (2) és (3) bekezdés alapján megismert személyes adatokat
+(4) A hajózási hatóság az (2) és (3) bekezdés alapján megismert személyes adatokat
 
 - a) a hajózási engedély kiadása iránti eljárás jogerős befejezéséig vagy
 - b) a hajózási engedély kiadása esetén az engedély visszavonásáig kezeli.
 
-53. § (1) A közforgalmú hajózási tevékenységet folytató engedélyes szolgáltatásait külön jogszabályban foglalt feltételekkel bárki igénybe veheti.
+53. § (1) A közforgalmú hajózási tevékenységet folytató engedélyes szolgáltatásait közforgalmú hajózási tevékenységről rendelkező jogszabályban foglalt feltételekkel bárki igénybe veheti.
 
-(2) Az engedélyes köteles szolgáltatását a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, továbbá közforgalmú személyszállítási szolgáltatás esetén az általa igénybe vett kikötőkben – külön jogszabályban meghatározott tartalommal és módon – meghirdetni.
+(2) Az engedélyes köteles szolgáltatását nyilvános internetes felületen, továbbá közforgalmú személyszállítási szolgáltatás esetén az általa igénybe vett kikötőkben – a közforgalmú hajózási tevékenységről rendelkező jogszabályban meghatározott tartalommal és módon – meghirdetni.
 
 54. § (1) Az ország határain belül elhelyezkedő kikötők között nem az EGT-állam lobogója alatt közlekedő úszólétesítmény által végzett
 
@@ -673,9 +674,9 @@ révkalauzt kell igénybe venni.
 
 (2) A hajóútnak hajózási létesítmény és hajózást befolyásoló vízilétesítmény előre nem látható üzemzavara vagy meghibásodása, továbbá elemi csapás vagy havaria által okozott elzárása esetén, a létesítmény fenntartója a helyreállítást a lehető legrövidebb időn belül köteles megkezdeni, és a hajóút elzárását minden rendelkezésre álló eszköz felhasználásával a lehető legrövidebb időre korlátozni.
 
-58. § (1) A Balatonon, a Velencei-tó és a Fertő tó teljes területén, továbbá a Ráckevei-Dunaág és a Tisza-tó külön jogszabályban meghatározott részein belső égésű motorral hajtott kishajót és csónakot üzemeltetni tilos.
+58. § (1) A Balatonon, a Velencei-tó és a Fertő tó teljes területén, továbbá a Ráckevei-Dunaág és a Tisza-tó a víziközlekedés egyes belvízi utakon környezetvédelmi okokból való korlátozásáról és a korlátozás alá eső területeken kiadható üzemeltetési engedélyről szóló Kormány rendeletben meghatározott részein belső égésű motorral hajtott kishajót és csónakot üzemeltetni tilos.
 
-(2) Motoros vízi sporteszközt a hajózási hatóság által – a területileg illetékes önkormányzat egyetértésével – kijelölt pálya kivételével tilos üzemeltetni. Az (1) bekezdésben feltüntetett belvízi utakon, továbbá a határvízen motoros vízi sporteszköz pályát kijelölni tilos.
+(2) Motoros vízi sporteszközt a hajózási hatóság által – a illetékes települési önkormányzat egyetértésével – kijelölt pálya kivételével tilos üzemeltetni. Az (1) bekezdésben feltüntetett belvízi utakon, továbbá a határvízen motoros vízi sporteszköz pályát kijelölni tilos.
 
 (3) Az (1) bekezdésben meghatározott tilalom nem terjed ki:
 
@@ -683,7 +684,7 @@ révkalauzt kell igénybe venni.
 - b) a rendőrség vízirendészeti szervének, a Vám- és Pénzügyőrség, illetve a vámhatóság,
 - c) a katasztrófaelhárításban közreműködő szervezetek,
 - d) a víziút fenntartását, valamint a természet- és környezetvédelmi feladatot ellátó hatóság vízijárműveire,
-- e) a hajózási hatóság által – külön jogszabályban foglaltak alapján – kiadott üzemeltetési engedéllyel rendelkező vízijárművekre,
+- e) a hajózási hatóság által a Kormány rendeletében kiadott üzemeltetési engedéllyel rendelkező vízijárművekre,
 - f) a Magyar Honvédség lőszerek, robbanótestek felkutatását, hatástalanítását és megsemmisítését végző katonai úszólétesítményeire.
 
 ### X/A. Fejezet — Belvízi hajózási alapprogram
@@ -715,7 +716,7 @@ révkalauzt kell igénybe venni.
 
 (7) Az illetékes vámhatóság az úszólétesítmények Magyar Köztársaság területén történő ellenőrzése, vámkezelése során köteles meggyőződni arról, hogy a belvízi hajózásról szóló nemzetközi szerződések szerinti engedélyköteles forgalomban részt vevő úszólétesítmények – a nemzetközi szerződésben részes felek lobogója alatt közlekedő úszólétesítmény kivételével – rendelkeznek-e az adott nemzetközi szerződésben meghatározott árufuvarozási, illetve személyszállítási engedélyekkel. Amennyiben az országba belépni vagy az országból kilépni kívánó úszólétesítmény az árufuvarozásra és személyszállításra jogosító engedéllyel nem rendelkezik, a határvámhivatal köteles haladéktalanul értesíteni a hajózási hatóságot, és az árufuvarozásra, illetve személyszállításra jogosító engedély megszerzéséig az úszólétesítménynek, személyzetének, továbbá az úszólétesítményen lévő árunak a be-, illetve kiléptetését megtagadni.
 
-(8) A hatóság a bírság kiszabását akkor mellőzi, ha a bírság kiszabására okot adó tevékenység vagy mulasztás az életet, a testi épséget, a vagyonbiztonságot, a közlekedés biztonságát vagy a közteherviselési kötelezettség teljesítését közvetlenül nem veszélyezteti, harmadik személynek kárt nem okoz, a tevékenység vagy mulasztás tekintetében a rosszhiszeműség, a hatóság félrevezetésének szándéka nem állapítható meg, és a tevékenység vagy mulasztás első ízben fordul elő.
+(8)
 
 60. § (1) A jogszabályban előírt
 
@@ -731,35 +732,29 @@ révkalauzt kell igénybe venni.
 - j) belvízi utakon közlekedési korlátozás alá eső területen üzemeltetett belsőégésű motorral hajtott kishajó, csónak és motoros vízi sporteszköz használatára,
 - k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére
 
-vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti azzal, hogy a bíráság kiszabása csak az 58. § (8) bekezdésében foglaltak mérlegelésével mellőzhető. A bírságolással kapcsolatos eljárás lefolytatására a hajózási hatóság jogosult.
+vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti. A bírságolással kapcsolatos eljárás lefolytatására a hajózási hatóság jogosult.
 
-(2) A bírság összege legfeljebb a külön jogszabályban megállapított hatósági eljárási díj tízszerese. Amennyiben külön jogszabály az adott tevékenységgel kapcsolatban eljárási díjat nem állapít meg, a bírság összege legfeljebb az általános tételű államigazgatási eljárási illeték húszszorosa.
+(2) A bírság összege legfeljebb a miniszter rendeletében megállapított hatósági eljárási díj tízszerese. Amennyiben külön jogszabály az adott tevékenységgel kapcsolatban eljárási díjat nem állapít meg, a bírság összege legfeljebb az általános tételű államigazgatási eljárási illeték húszszorosa.
 
 (3) A beszedett bírság összege a hajózási hatóságot illeti meg.
 
 ### XII. Fejezet — VÍZIKÖZLEKEDÉSI BALESET SZAKMAI VIZSGÁLATA
 
-61. § (1) Ha a Magyar Köztársaság területén a hajózási tevékenység folytatása alatt
+61. § (1) A víziközlekedési baleset és a víziközlekedési esemény szakmai vizsgálata a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározottak szerint történik.
 
-- a) úszólétesítményt az üzemképességet érintő, vagy a hajóút teljes, illetve részleges elzárását eredményező baleset ér,
-- b) úszólétesítmény eltűnik,
-- c) a víziközlekedés szabályainak megsértése miatt súlyos – 8 napon túl gyógyuló – testi sérülés vagy halál következik be
+(2)
 
-(a továbbiakban együtt: víziközlekedési baleset), azt ki kell vizsgálni.
-
-(2) Vizsgálni kell azokat a víziközlekedési balesetet nem okozó eseteket is, amelyek a víziközlekedés biztonságát veszélyeztették (a továbbiakban: rendkívüli hajózási események).
-
-(3) Az (1) és a (2) bekezdésben említett szakmai vizsgálat célja a víziközlekedési baleset, illetve a rendkívüli hajózási esemény okának és körülményeinek megállapítása, és a hasonló esetek megelőzése érdekében szükséges intézkedések megtétele.
+(3) A vizsgálat célja az (1) bekezdésben hivatkozott törvényben meghatározott víziközlekedési baleset vagy víziközlekedési esemény okának és körülményeinek megállapítása, és a hasonló esetek megelőzése érdekében szükséges intézkedések megtétele.
 
 (4) A szakmai vizsgálat a munkabaleset kivizsgálására, továbbá a havaria és a környezeti káreset vizsgálatára vonatkozó rendelkezéseket nem érinti.
 
-62. § (1) A szakmai vizsgálatot – a (4) bekezdésben meghatározott kivétellel – a Közlekedésbiztonsági Szervezet – külön törvény rendelkezései alapján – végzi. A baleset bejelentésének szabályait, a vizsgálat feltételeit külön jogszabály állapítja meg.
+62. § (1) A vizsgálatot – a (4) bekezdésben meghatározott kivétellel – a közlekedésbiztonsági szerv vagy a 61. § (1) bekezdésében szereplő törvényben meghatározott üzembentartói vizsgálat lefolytatására felhívott vezető végzi.
 
-(2) A víziközlekedési balesetet az úszólétesítmény üzemben tartója haladéktalanul jelenteni köteles a hajózási hatóságnak is. A rendkívüli hajózási eseményről az úszólétesítmény üzemben tartója a hajózási hatóságot tájékoztatni köteles.
+(2) A víziközlekedési balesetet az úszólétesítmény üzemben tartója haladéktalanul jelenteni köteles a hajózási hatóságnak is. A víziközlekedési eseményről az úszólétesítmény üzemben tartója a hajózási hatóságot tájékoztatni köteles.
 
-(3) Ha magyar úszólétesítményt külföldön súlyos víziközlekedési baleset ér, azt az úszólétesítmény üzemben tartója haladéktalanul köteles a magyar hajózási hatóságnak is bejelenteni, és a hajózási hatóság által – a balesettel kapcsolatban – kért adatokat szolgáltatni.
+(3) Ha magyar úszólétesítményt külföldön víziközlekedési baleset ér, azt az úszólétesítmény üzemben tartója haladéktalanul köteles a magyar hajózási hatóságnak is bejelenteni, és a hajózási hatóság által – a balesettel kapcsolatban – kért adatokat szolgáltatni.
 
-(4) A kizárólag a honvédség, illetve a rendvédelmi szervek úszólétesítményeivel való közlekedés során bekövetkezett súlyos víziközlekedési balesetekkel és rendkívüli hajózási eseményekkel kapcsolatos szakmai vizsgálat az illetékes üzembentartó által kijelölt szakmai bizottság feladata.
+(4) A honvédség, a rendvédelmi szervek vagy a rendvédelmi feladatokat ellátó szervek úszólétesítményeivel való közlekedés során bekövetkezett víziközlekedési balesetekkel és víziközlekedési eseményekkel kapcsolatos szakmai vizsgálat az illetékes üzemben tartó által kijelölt szakmai bizottság feladata.
 
 (5) A (4) bekezdés szerinti szakmai bizottság létrehozására, tagjaira, valamint a bizottság eljárására vonatkozó szabályokat külön jogszabály állapítja meg.
 
@@ -906,24 +901,27 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 
 - 1. belvízi út: a kontinens határain belüli természetes és mesterséges felszíni víz;
 - 2. belvízi, illetőleg tengeri hajó: rendeltetésének megfelelő, nyilvántartásba vett, és építése, berendezése és felszerelése alapján belvízi, illetőleg tengeri közlekedésre alkalmas vízijármű;
-- 3. csónak: az emberi erővel hajtott – hajónak, kompnak, vízi sporteszköznek nem minősülő – felépítménnyel nem rendelkező vízijármű, amelynek testhossza nem haladja meg a kishajóra megállapított mértéket. Csónak továbbá az a szélerővel vagy gépi berendezéssel hajtott – hajónak, kompnak, vízi sporteszköznek nem minősülő – vízijármű is, amelynek hossza a 6,2 métert, névleges vitorlafelülete a 10 m2-t, illetőleg motorteljesítménye a 4 kW-ot nem éri el. Nem minősül csónaknak az építése, berendezése és felszerelése alapján elsődlegesen nem hajózási tevékenység folytatására alkalmas – külön jogszabályban meghatározott – úszóeszköz;
+- 3. csónak: a hajónak, kompnak, vízi sporteszköznek nem minősülő
+  - a) emberi erővel hajtott, felépítménnyel nem rendelkező vízijármű, amelynek testhossza nem haladja meg a kishajóra megállapított mértéket,
+  - b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 6,2 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 4 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
 - 4. egyéb úszólétesítmény: vízijárműnek, úszómunkagépnek vagy úszóműnek nem minősülő úszólétesítmény;
 - 5. fordítóhely: az úszólétesítmény megfordulására alkalmas hely;
 - 6. gazdasági célú hajózási tevékenység: ellenszolgáltatásért, illetőleg egyéb gazdasági tevékenység kiszolgálása során, vagy annak érdekében végzett hajózási tevékenység;
-- 7. gyorsjáratú hajó: a hordszárnyas és a légpárnás hajó;
+- 7. gyorsjáratú hajó: az a hajó – a kishajók kivételével – amely a 40 km/h-t meghaladó holtvízi sebességgel való közlekedésre alkalmas, és ezt a hajóbizonyítványába bejegyezték;
 - 8. hajó: építésénél, berendezésénél és felszerelésénél fogva a vízen való közlekedésre alkalmas vízijármű;
 - 9. hajóosztályozás: a hajó megfelelőségének, műszaki állapotának hajóosztályozó társaság által végzett vizsgálata, ellenőrzése, tanúsítása;
 - 10. hajóút: a víziútnak a nagyhajók közlekedésére kijelölt és kitűzött, ennek hiányában a nagyhajók által az adott vízállásnál rendszeresen használt része, továbbá a veszteglőhely vízterülete, valamint a kikötőhöz tartozó vízterület;
 - 11. hajózási körzet: tengeren a parttól, illetőleg a menedékkikötők között mért távolsággal meghatározott, valamint az időjárás és a hullámzás függvényében kijelölt vízterület;
 - 12. hajózási létesítmény: a víziközlekedés biztonságát és zavartalanságát elősegítő vagy az úszólétesítmények kikötésére, veszteglésére szolgáló, a vízen, illetőleg a parton lévő hajózási célokat szolgáló létesítmény;
-- 13. hajózási tevékenység: a vízen történő személyszállítás és árufuvarozás, más úszólétesítmény vízen vontatással, tolással vagy mellévett alakzatban való továbbítása, továbbá úszólétesítménynek a vízen egyéb célból (pl. halászat, kutatás, vendéglátás, munkavégzés) való működtetése, ide nem értve a kedvtelési célú hajózást;
+- 13. hajózási tevékenység: a vízen történő személyszállítás és árufuvarozás, más úszólétesítmény vízen vontatással, tolással vagy mellévett alakzatban való továbbítása, továbbá úszólétesítmény vízen történő nem kedvtelési célú működtetése;
 - 14. hajózási zóna: belvízen az időjárás és a hullámzás függvényében meghatározott vízterület;
 - 15. halászhajó: hal vagy egyéb vízi élőlény kifogásához szükséges berendezésekkel felszerelt és kereskedelmi célú halászatra használt úszólétesítmény;
 - 16. határkikötő: vámúttá nyilvánított kikötő, ahol az úszólétesítmények és az azokon lévő személyek, áruk be-, illetőleg kiléptetése történik;
 - 17. havaria: az úszólétesítményt ért vagy az úszólétesítmény által okozott baleset;
-- 18. kedvtelési célú hajózás: nem gazdasági célból folytatott hajózási tevékenység (pl. vízi turizmus, sportcélú hajózás);
+- 18. kedvtelési célú hajózás: vízijármű nem gazdasági célú, szabadidő eltöltését szolgáló használata;
 - 19. kereskedelmi hajó: olyan hajó, amellyel gazdasági célú hajózási tevékenységet végeznek, a halászhajó kivételével;
-- 20. kikötő: az úszólétesítmények kikötésére kijelölt, vagy azok részére fenntartott partterület, amely alkalmas a víziközlekedéssel, személyek be- és kiszállításával, árukezeléssel, áruátrakással és elosztással, valamint az úszólétesítmények hajózásra alkalmasságának megőrzésével kapcsolatos tevékenység végzésére. Zárt öbölben vagy medencében – ha az öböl, illetve medence teljes területén, a befogadóba torkollásig a kikötőhöz tartozik – a hajóutat a kikötőhöz tartozó vízterületnek kell tekinteni;
+- 20. kikötő: az úszólétesítmények kikötésére kijelölt vagy azok részére fenntartott partterület, amely alkalmas a víziközlekedéssel, személyek be- és kiszállításával, árukezeléssel, áruátrakással és elosztással, valamint az úszólétesítmények hajózásra alkalmasságának megőrzésével kapcsolatos tevékenység végzésére, és a hajózási hatóság üzemeltetési engedélyével rendelkezik;
+- 20a. kikötői tevékenység: olyan víziközlekedéssel kapcsolatos tevékenység, amely során személyek ki- és beszállása, áru ki-, be- és átrakása, tárolása és kezelése történik;
 - 21. kishajó: az a belvízi hajó, amelynek a hajótesten mért hossza a 20 métert nem éri el, valamint az a tengeri hajó, amelynek a hajótesten mért hossza a 24 métert nem éri el;
 - 22. kitűzés: a hajóút megjelölésére szolgáló tevékenység és eszközrendszer;
 - 23. kombinált forgalom: több közlekedési alágazat (pl. vízi- és közúti közlekedés) igénybevételével végzett személyszállítás vagy árufuvarozás;
@@ -935,20 +933,21 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 - 29. nemzetközi víziút: nemzetközi szerződés alapján nemzetközivé nyilvánított víziút;
 - 30. önjáró úszómunkagép: helyváltoztatásra önállóan alkalmas úszómunkagép;
 - 31. őrszolgálat: tengeri hajón a parancsnoki hídon, a fedélzeten, illetve a géptérben, menetben vagy kikötőben teljesített szolgálat;
-- 32. révhajó, révcsónak: csak személyeket szállító, a vízen történő közútpótló átkelésre szolgáló komp;
+- 32. révhajó, révcsónak: csak személyeket szállító, a komp;
 - 33. révkalauz: a hajó vezetőjét a hajó vezetésében segítő, kellő helyismerettel és képesítéssel rendelkező személy;
 - 34. személyhajó: a hajózási hatóság által 12 főnél több utas rendeltetésszerű szállítására alkalmasnak nyilvánított hajó;
 - 35. szükségkikötő: az úszólétesítményeknek a víziút használata során bekövetkezett szükséghelyzet (pl. rendkívüli vízállás, jégzajlás) miatti átmeneti tartózkodására kijelölt víz-, illetőleg partterület;
 - 36. tartályhajó: a hajótestben kialakított vagy a hajón rögzített tartályokban folyékony rakomány továbbítására alkalmassá nyilvánított hajó;
 - 37. úszómunkagép: a vízimunka végzésére alkalmas úszólétesítmény, amely rendeltetésénél fogva nem végez árufuvarozást, illetőleg személyszállítást;
 - 38. úszólétesítmény: víziközlekedésre, vízen való munkavégzésre és azokkal összefüggő tevékenység folytatására alkalmas úszóképes eszköz, szerkezet, berendezés;
-- 39. úszómű: helyváltoztatásra általában nem szolgáló, önálló meghajtással nem rendelkező, vízen munkát nem végző úszólétesítmény;
+- 39. úszómű: helyváltoztatásra nem szolgáló, önálló meghajtással nem rendelkező, vízen munkát nem végző úszólétesítmény;
 - 40. üzemben tartó: az úszólétesítmény, illetve kikötő tulajdonosa, valamint aki az úszólétesítmény, illetve kikötő szerződés alapján vagy más jogcímen való üzemben tartására jogosult;
+- 40a. versenyhajó: versenyszerű sporttevékenység folytatására felszerelt és használt kishajó;
 - 41. veszteglőhely: úszólétesítmények rendeltetésszerű üzemeltetés közbeni, átmeneti tartózkodására kijelölt vízterület és csatlakozó partszakasz;
 - 42. vízijármű: vízen való közlekedésre, szállításra, illetve más úszólétesítmény továbbítására szolgáló – úszómunkagépnek, úszóműnek és egyéb úszólétesítménynek nem minősülő – úszólétesítmény;
 - 43. víziközlekedés: vízen úszólétesítménnyel végzett helyváltoztatás. A víziközlekedési tevékenység része továbbá az úszólétesítmények kiszolgálásával kapcsolatos létesítmények (pl. kikötő) működtetése is;
-- 44. vízi sporteszköz: vízen való közlekedésre alkalmas, rendeltetésszerű használata esetén úszóképes és kormányozható, kedvtelési rendeltetésű, hajónak, kompnak, csónaknak nem minősülő vízijármű;
-- 45. víziút: a víziközlekedés pályája, a folyók, csatornák és tavak – külön jogszabályban víziúttá nyilvánított – szakasza vagy része;
+- 44. vízi sporteszköz: vízen való közlekedésre alkalmas, rendeltetésszerű használata esetén úszóképes és kormányozható, kedvtelési rendeltetésű hajónak, csónaknak nem minősülő vízijármű;
+- 45. víziút: a víziközlekedés pályája, a folyók, csatornák és tavak – miniszter rendeletében víziúttá nyilvánított – szakasza vagy része;
 - 46. víziút fenntartója: a víziúttá nyilvánított hajózható vizek tulajdonosa, illetve kezelője;
 - 47. folyami információs szolgáltatások központ: a folyami információs szolgáltatásokkal kapcsolatos adatok – informatikai és távközlési berendezések útján történő – továbbítására szolgáló, a hajózási hatóság által működtetett központ;
 - 48. katonai úszólétesítmény: a Magyar Honvédség állományába tartozó, katonai célú víziközlekedésre, vízen való munkavégzésre és azokkal összefüggő tevékenység folytatására alkalmas úszóképes eszköz, szerkezet, berendezés.
@@ -974,12 +973,12 @@ rendeletben történő megállapítására.
 
 (2) Felhatalmazást kap a miniszter
 
-- a) a hajózási tevékenység engedélyezése rendjének,
+- a) a hajózási tevékenység folytatása feltételeinek és engedélyezése rendjének,
 - b) az úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeinek, az üzemképesség vizsgálatának és tanúsításának, továbbá az úszólétesítmények felügyelete rendjének,
 - c) az úszólétesítményen a szolgálat rendjének, a személyzet szolgálattal összefüggő jogainak és kötelezettségeinek (rendtartásnak),
 - d) az úszólétesítmény üzemeltetésével összefüggő – a törvényben nem említett – okmányok fajtáinak, továbbá az okmányok vezetése szabályainak,
 - e) a hajós és tengerész szolgálati könyvek kiadása feltételeinek, vezetése és használata szabályainak,
-- f) a víziközlekedés ágazati információs rendjének, a folyami információs szolgáltatások működtetési és fejlesztési feladatai – beleértve a külföldi folyami információs szolgálatokkal folytatott adatcserét – részletes szakmai és működtetési szabályainak, valamint a folyami információs szolgáltatások eszközeinek és szoftvereinek típusjóváhagyási rendjének,
+- f) a folyami információs szolgáltatások szakmai és működtetési szabályainak,
 - g) az úszólétesítmények és szállítótartályok felügyeletének,
 - h) a hajózásra alkalmas, illetőleg hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek víziúttá nyilvánításának,
 - i) a tengeri és a belvízi hajók köbözése szabályainak,
@@ -1044,5 +1043,6 @@ rendeletben történő megállapítására.
 - e) az Európai Parlament és a Tanács 2000/34/EK irányelve (2000. június 22.) a munkaidő-szervezés egyes szempontjairól szóló 93/104/EK tanácsi irányelvnek az abból kizárt ágazatok és tevékenységek szabályozása céljából történő módosításáról, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénnyel együtt;
 - f) az Európai Parlament és a Tanács 2005/44/EK irányelve (2005. szeptember 7.) a közösségi belvízi közlekedésre vonatkozó harmonizált folyami információs szolgáltatásokról, 3. cikk f) pontja, 9. cikk;
 - g) az Európai Parlament és a Tanács 2006/87/EK irányelve (2006. december 12.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról és a 82/714/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk.
+- h) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével.
 
 91–93. §

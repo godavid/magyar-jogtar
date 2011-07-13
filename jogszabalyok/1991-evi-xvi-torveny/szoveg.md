@@ -29,7 +29,7 @@ koncessziós szerződés keretében történő átengedésének alapvető szabá
 
 2. § (1) Az 1. §-ban felsorolt tevékenységek folytatásának feltétele, hogy
 
-- a) az állam vagy az önkormányzat, illetve az önkormányzati társulás (az utóbbi kettő a továbbiakban együtt: önkormányzat) – a 14. §-ban foglaltak figyelembevételével – a tevékenységet folytató gazdálkodó szervezetben [Ptk. 685. § c) pont] többségi tulajdoni részesedéssel, szavazati joggal rendelkezzen, illetve e célra költségvetési, illetőleg önkormányzati intézményt alapítson, vagy
+- a) az állam vagy az önkormányzat, illetve az önkormányzati társulás (az utóbbi kettő a továbbiakban együtt: önkormányzat) – a 14. §-ban foglaltak figyelembevételével – a tevékenységet folytató gazdálkodó szervezetben [Ptk. 685. § c) pont] közvetlen vagy közvetett többségi tulajdoni részesedéssel, szavazati joggal rendelkezzen, illetve e célra költségvetési, illetőleg önkormányzati intézményt alapítson, vagy
 - b) az állam, illetőleg az önkormányzat a tevékenység gyakorlásának időleges jogát koncessziós szerződésben átengedje.
 
 (2)
@@ -101,7 +101,7 @@ koncessziós szerződés keretében történő átengedésének alapvető szabá
 
 ### Koncesszióköteles tevékenységet végző állami vagy önkormányzati tulajdonban álló gazdálkodó szervezet magántulajdonos részére történő értékesítése (privatizációja) esetén irányadó szabályok
 
-10/A. § (1) Ha a koncesszióköteles tevékenységet végző, a 2. § (1) bekezdésének a) pontjában meghatározott gazdálkodó szervezetet értékesítik magántulajdonos részére – amelynek következtében már nem felel meg a többségi állami vagy önkormányzati tulajdonra, illetve szavazati jogra vonatkozó előírásoknak – legkésőbb a privatizációs eljárás megindításával egyidejűleg koncessziós pályázatot kell lefolytatni a koncesszióköteles tevékenység átengedésére. A koncessziós eljárásra, az e §-ban foglalt eltérésekkel, e törvényben foglalt rendelkezéseket kell alkalmazni.
+10/A. § (1) Ha a koncesszióköteles tevékenységet végző, a 2. § (1) bekezdésének a) pontjában meghatározott gazdálkodó szervezetet értékesítik magántulajdonos részére – amelynek következtében már nem felel meg a közvetlen vagy közvetett többségi állami vagy önkormányzati tulajdonra, illetve szavazati jogra vonatkozó előírásoknak – legkésőbb a privatizációs eljárás megindításával egyidejűleg koncessziós pályázatot kell lefolytatni a koncesszióköteles tevékenység átengedésére. A koncessziós eljárásra, az e §-ban foglalt eltérésekkel, e törvényben foglalt rendelkezéseket kell alkalmazni.
 
 (2) Az (1) bekezdés szerinti esetben a pályázati kiírásnak a 8. § (2) bekezdésében meghatározottakon túl tartalmaznia kell, hogy a pályázónak az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt privatizációs eljárásban ajánlatot kell benyújtania.
 

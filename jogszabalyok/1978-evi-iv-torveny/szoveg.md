@@ -244,9 +244,9 @@ csekély foka
 
 ### Tevékeny megbánás
 
-36. § (1) Nem büntethető, aki a személy elleni (XII. fejezet I. és III. cím), közlekedési (XIII. fejezet) vagy vagyon elleni (XVIII. fejezet) vétség vagy három évi szabadságvesztésnél nem súlyosabban büntetendő bűntett elkövetését a vádemelésig beismerte, és közvetítői eljárás keretében a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette.
+36. § (1) Nem büntethető, aki a személy elleni (XII. fejezet I. és III. cím), közlekedési (XIII. fejezet) vagy vagyon elleni (XVIII. fejezet) vétség vagy háromévi szabadságvesztésnél nem súlyosabban büntetendő bűntett elkövetését a vádemelésig beismerte, és közvetítői eljárás keretében a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette. Az elkövető nem büntethető a Be. 221/A. §-a (1) bekezdésének második mondata szerinti halmazatban lévő bűncselekmény miatt sem.
 
-(2) A büntetés korlátlanul enyhíthető, ha az elkövető az (1) bekezdésben meghatározott bűncselekmények esetében az öt évi szabadságvesztésnél nem súlyosabban büntetendő bűntett elkövetését a vádemelésig beismerte, és közvetítői eljárás keretében a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette.
+(2) A büntetés korlátlanul enyhíthető, ha az elkövető az (1) bekezdésben meghatározott bűncselekmények esetében az ötévi szabadságvesztésnél nem súlyosabban büntetendő bűntett elkövetését a vádemelésig beismerte, és közvetítői eljárás keretében a sértett által elfogadott módon és mértékben a bűncselekménnyel okozott sérelmet jóvátette. A büntetés korlátlanul enyhíthető a Be. 221/A. §-a (1) bekezdésének második mondata szerinti halmazatban lévő bűncselekmény esetében is.
 
 (3) Az (1)–(2) bekezdés alkalmazásának nincs helye, ha az elkövető
 
@@ -747,9 +747,9 @@ ha annak eredményes elteltéhez az elkövető rendszeres figyelemmel kísérés
 
 (4) Ha a bűnhalmazatban levő bűncselekmények közül legalább három a 137. § 17. pontjában meghatározott személy elleni erőszakos bűncselekmény, a (2) bekezdés szerinti büntetési tétel felső határa a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint bármelyik bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni.
 
-85/A. § (1) A tárgyalásról lemondás (Be. XXVI. Fejezet) esetén a 85. § (1)–(2) bekezdéseinek rendelkezései irányadók azzal, hogy a büntetést a bűnhalmazatban lévő bűncselekményekre a 87/C. § alapján kiszabható büntetések közül a legsúlyosabbnak az alapulvételével kell kiszabni.
+85/A. § (1) Együttműködő terhelt tárgyalásról lemondása esetén (Be. 537. §) a 85. § (1)–(2) bekezdéseinek rendelkezései irányadók azzal, hogy a büntetést a bűnhalmazatban lévő bűncselekményekre a 87/C. § alapján kiszabható büntetések közül a legsúlyosabbnak az alapulvételével kell kiszabni.
 
-(2) A tárgyalásról lemondás esetén (Be. XXVI. Fejezet), ha a törvény a bűnhalmazatban lévő bűncselekmények közül legalább kettőre határozott ideig tartó szabadságvesztést rendel, a 87/C. § alapján kiszabható legsúlyosabb büntetési tétel felső határa a felével emelkedik, de az nem érheti el az egyes bűncselekményekre a 87/C. § alapján kiszabható büntetések együttes tartamát.
+(2) Együttműködő terhelt tárgyalásról lemondása esetén (Be. 537. §), ha a törvény a bűnhalmazatban lévő bűncselekmények közül legalább kettőre határozott ideig tartó szabadságvesztést rendel, a 87/C. § alapján kiszabható legsúlyosabb büntetési tétel felső határa a felével emelkedik, de az nem érheti el az egyes bűncselekményekre a 87/C. § alapján kiszabható büntetések együttes tartamát.
 
 86. § (1) Bűnhalmazat esetén a bűnhalmazatban levő bármelyik bűncselekmény miatt alkalmazható mellékbüntetést ki lehet szabni.
 
@@ -783,11 +783,13 @@ lehet kiszabni.
 
 ### A büntetés kiszabása tárgyalásról lemondás esetén
 
-87/C. § A tárgyalásról lemondás (Be. XXVI. Fejezet) esetén a szabadságvesztés mértéke
+87/C. § Együttműködő terhelt tárgyalásról lemondása esetén (Be. 537. §) a szabadságvesztés mértéke
 
 - a) az öt évet meghaladó, de nyolc évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a három évet,
 - b) a három évet meghaladó, de öt évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a két évet,
-- c) a három évig terjedő szabadságvesztéssel büntetendő bűncselekmény miatt a hat hónapot nem haladhatja meg.
+- c) a három évig terjedő szabadságvesztéssel büntetendő bűncselekmény miatt a hat hónapot
+
+nem haladhatja meg.
 
 #### 88. §
 
