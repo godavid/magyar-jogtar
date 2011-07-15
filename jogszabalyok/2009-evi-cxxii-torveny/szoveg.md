@@ -53,7 +53,7 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (2) A köztulajdonban álló gazdasági társaság felügyelőbizottsága – ha törvény eltérően nem rendelkezik – három természetes személy tagból áll, kétszáz millió forintot meghaladó jegyzett tőkéjű gazdasági társaság esetében legalább három, legfeljebb hat természetes személy tagból áll.
 
-(3)
+(3) A (2) bekezdésnek a felügyelő bizottság létszámkorlátjára vonatkozó rendelkezését nem kell alkalmazni olyan közhasznú szervezetnek minősülő jogi személyiséggel rendelkező nonprofit gazdasági társaság esetében, amely az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény alapján megszüntetett alapítvány (közalapítvány) céljainak megvalósítására, feladatának további ellátására az állami alapító többségi részesedésének biztosításával jött létre.
 
 5. § (1)
 

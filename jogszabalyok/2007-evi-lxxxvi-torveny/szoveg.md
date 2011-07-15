@@ -1841,11 +1841,11 @@ ELJÁRÁSOK
 
 (3) A hatósági ár megállapítása történhet tételesen, vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 
-(4) A hatósági árat alkalmazási feltételeivel együtt kell megállapítani.
+(4) A hatósági árat – a 142. § (2)–(3) bekezdésében és a 144. § (1) bekezdésében foglalt eltérésekkel – alkalmazási feltételeivel együtt kell megállapítani.
 
 (5) A hatósági ár megállapítása hivatalból történik.
 
-(6) A hatósági árat, valamint annak alkalmazási feltételeit a miniszter rendeletben hirdeti ki. A miniszter a rendeletben meghatározza, hogy a hatósági ár mikor lép érvénybe, e rendelkezésnek visszamenőleges hatálya nem lehet.
+(6) A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági ár mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
 
 (7) A legmagasabb hatósági árnak a szerződés megkötését követően bekövetkező változása esetén a felek eltérő rendelkezése hiányában a megváltozott hatósági ár az érvényes szerződés részévé válik.
 
@@ -1853,61 +1853,75 @@ ELJÁRÁSOK
 
 (9) E fejezet alkalmazásában hatósági ár a 142. § (1) bekezdése szerinti rendszerhasználati díj, a 144. § (1) bekezdése szerinti csatlakozási díj, az elosztó hálózati engedélyes, vagy az egyetemes szolgáltató által a felhasználók igénye alapján végzett egyes szolgáltatások 142. § (11) bekezdése, illetve 143. § (3) bekezdése szerinti díja, valamint az egyetemes szolgáltatás 143. § (1) bekezdése szerinti ára.
 
-142. § (1) A villamosenergia-rendszer használatért
+142. § (1) A villamosenergia-rendszer használatért a rendszerhasználók
 
 - a) átviteli-rendszerirányítási díjat,
 - b) rendszerszintű szolgáltatások díját,
 - c) elosztási díjat,
 - d) közvilágítási elosztási díjat
 
-(a továbbiakban együtt: rendszerhasználati díjak) kell fizetni. Az egyes rendszerhasználati díjak a díj alapjául szolgáló költségszerkezetnek megfelelő díjelemekből állhatnak.
+(a továbbiakban együtt: rendszerhasználati díjak) fizetnek. Az egyes rendszerhasználati díjak a díj alapjául szolgáló költségszerkezetnek megfelelő díjelemekből állhatnak.
 
-(2) Az (1) bekezdés szerinti díjak mértékét a miniszter tételesen, országosan egységesen rendeletben állapítja meg.
+(2) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat és a díjak alkalmazásának általános szabályait a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg.
 
-(3) A rendszerhasználati díjaknak meg kell felelniük az átláthatóság, az arányosság és a megkülönböztetés-mentesség elvének.
+(3) A rendszerhasználati díjak adott naptári évre érvényes mértékét és alkalmazásuk egyedi szabályait a Hivatal határozatban állapítja meg. A Hivatal a határozatát, az abban megállapított rendszerhasználati díjak és áralkalmazási feltételek január 1-jei hatálybalépése előtt 30 nappal a honlapján teszi közzé.
 
-(4) A rendszerhasználati díjakat a hatékonyan működő engedélyes vállalkozás(ok) indokolt működési és tőkeköltsége, illetve összehasonlító elemzések alapján kell meghatározni. Az indokolt költségek meghatározásának módjáról a Hivatal módszertani útmutatót ad ki. A módszertani útmutató kidolgozása során a Hivatal kikéri az érintett engedélyesek véleményét is. Az indokolt költségek mértékét a Hivatal honlapján teszi közzé.
+(4) A rendszerhasználati díjak mértéke és alkalmazásuk feltételei országosan egységesek.
 
-(5) A rendszerhasználati díjakra vonatkozó szabályozást a legkisebb költség elvének érvényre juttatása érdekében úgy kell megállapítani, hogy a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze. Ennek részletes szabályairól a Hivatal módszertani útmutatót ad ki. A módszertani útmutató kidolgozása során a Hivatal kikéri az érintett engedélyesek véleményét is.
+(5) A rendszerhasználati díjaknak meg kell felelniük az átláthatóság, a nyilvánosság és az arányosság elvének és azokat objektív módon megkülönböztetés nélkül kell alkalmazni.
 
-(6) Az elosztási díjból és a közvilágítási elosztási díjból származó árbevételt az elosztói engedélyesek között az indokolt költségek arányában kell megosztani. Ennek érdekében az engedélyesek között szükség esetén – külön jogszabályban meghatározott módon, a rendszerhasználati díjakkal együtt kihirdetett – kiegyenlítő fizetéseket kell végrehajtani.
+(6) A rendszerhasználati díjakat a hatékonyan működő engedélyes vállalkozás indokolt működési és tőkeköltsége, illetve összehasonlító elemzések alapján a legkisebb költség elvének érvényre juttatásával a (2) bekezdés szerinti miniszteri rendelettel összhangban úgy kell meghatározni, hogy az érintett engedélyeseket rövid és hosszú távon gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására és az ellátásbiztonság növelésére ösztönözze.
 
-(7) Az engedélyesek az (1)–(6) bekezdésekben foglaltaknak megfelelően kötelesek az általuk alkalmazandó rendszerhasználati díjakra javaslatot tenni, és azt a Hivatalhoz benyújtani.
+142/A. § (1) A rendszerhasználati díjak szabályozása négyéves árszabályozási ciklusok keretében, éves ármegállapítással történik. A Hivatal az árszabályozási ciklus indulását megelőzően költség-felülvizsgálatot végez. Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter a 142. § (2) bekezdés szerinti rendeletben állapítja meg.
 
-(8) A Hivatal az általa előkészített, a rendszerhasználati díjakra és alkalmazásuk feltételeire vonatkozó előterjesztést honlapján nyilvánosságra hozza és kezdeményezi a miniszternél a rendelettel történő kihirdetésüket.
+(2) Az elosztási díjból és a közvilágítási elosztási díjból származó árbevételt az elosztók között az indokolt költségek arányában kell megosztani. Ennek érdekében az engedélyesek között szükség esetén a rendszerhasználati díjakkal együtt meghatározott kiegyenlítő fizetéseket kell végrehajtani. A kiegyenlítő fizetések mértékét a Hivatal a rendszerhasználati díjakról hozott határozatában állapítja meg.
 
-(9) A miniszter a Hivatal előterjesztését elfogadja, vagy elutasítja. Az előterjesztés
+(3) A hálózati engedélyesek a Hivatal határozatában meghatározott rendszerhasználati díjakat és áralkalmazási feltételeket kötelesek – a (6) bekezdésben foglaltak figyelembevételével – alkalmazni és a honlapjukon közzétenni.
 
-- a) elfogadása esetén a miniszter a Hivatal által meghatározott rendszerhasználati díjakat a Hivatal előterjesztését követő 30 napon belül rendelettel hirdeti ki,
+(4) A Hivatal a 142. § (2) bekezdésben meghatározott miniszteri rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét. A Hivatal a rendeletre vonatkozó előterjesztését a következő 4 éves árszabályozási ciklus kezdetét megelőző év május 15-éig a honlapján nyilvánosságra hozza és kezdeményezi a miniszternél a rendelettel történő kihirdetését.
+
+(5) A miniszter a Hivatal előterjesztését a benyújtást követő 30 napon belül elfogadja vagy elutasítja. Az előterjesztés
+
+- a) elfogadása esetén a miniszter a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat és a díjak alkalmazásának általános szabályait a Hivatal előterjesztését követő 30 napon belül rendelettel hirdeti ki, vagy
 - b) elutasítása esetén a miniszter az elutasítás tényét és indokolását az elutasító döntés meghozatalát követő 15 napon belül nyilvánosságra hozza.
 
-(10) A kihirdetett rendszerhasználati díjakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni. A legmagasabb ár a villamosenergia-rendszer használatát biztosító szolgáltatás színvonalának, minőségének megfelelően külön jogszabályban meghatározott módon alkalmazható.
+(6) A Hivatal határozatában meghatározott rendszerhasználati díjakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetésmentesen, előre nyilvánosságra hozott módon lehet eltérni.
 
-(11) Az elosztók által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait külön jogszabály állapítja meg.
+142/B. § (1) A miniszter rendeletben állapítja meg
 
-(12) A rendszerhasználati díjakra vonatkozó előírások betartását a Hivatal ellenőrzi.
+- a) az elosztó által a felhasználók igénye alapján külön díj ellenében végezhető alapszolgáltatásokon túli egyéb szolgáltatások,
+- b) a rendszerhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások és
+- c) az elosztó által az engedélyesek részére külön díj ellenében végezhető szolgáltatások
 
-(13) A rendeleti kihirdetést követő 60 napon belül bármely érdekelt fél kezdeményezheti a Hivatalnál a rendszerhasználati díjak felülvizsgálatát. Amennyiben a felülvizsgálat eredménye alapján indokolt, a Hivatal kezdeményezi a rendszerhasználati díjak módosítását.
+körét és azok díjait.
 
-(14) Az Szt. általános szabályaitól eltérően a (2) bekezdés szerinti rendeletben rögzített éves árkorrekciós mechanizmus alapján keletkező, az átviteli rendszerirányítónak járó, a következő évek díjaiban elismerendő különbözeteket az átviteli rendszerirányító köteles az éves beszámolójának mérlegében aktív időbeli elhatárolásként szerepeltetni, köteles továbbá az átviteli rendszerirányító éves beszámolójának mérlegében az átviteli rendszerirányítótól a következő évek díjaiban elvonandó különbözeteket a határkeresztező aukcióból származó bevételeinek a tárgyévi, az átviteli-rendszerirányítási díjban a következő évben figyelembe vett bevételeivel együtt passzív időbeli elhatárolásként szerepeltetni. Az ebben a bekezdésben foglaltak alapján elkészített beszámoló a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. § (5) bekezdése alkalmazásában a számvitelről szóló törvény rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.
+(2) A miniszter az (1) bekezdés szerinti rendelet megalkotása során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét is.
 
-(15) A (2) bekezdés szerinti rendeletben meghatározott az átviteli rendszerirányító átviteli rendszerirányítási díjból származó bevételének az elosztók között megosztott része árengedménynek minősül. A megosztott részre az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdésében és 77. § (3) bekezdésében meghatározottak alkalmazandók.
+(3) A rendszerhasználati díjakra vonatkozó előírások betartását a Hivatal ellenőrzi.
+
+(4) Az Szt. általános szabályaitól eltérően a 142. § (3) bekezdés szerinti határozatban rögzített, éves ármegállapítás alapján keletkező, az átviteli rendszerirányítónak járó, a következő évek díjaiban elismerendő különbözeteket az átviteli rendszerirányító köteles az éves beszámolójának mérlegében aktív időbeli elhatárolásként szerepeltetni. Köteles továbbá az átviteli rendszerirányító az éves beszámolójának mérlegében az átviteli rendszerirányítótól a következő évek díjaiban elvonandó különbözeteket a határkeresztező aukcióból származó tárgyévi bevételeivel együtt passzív időbeli elhatárolásként szerepeltetni. Az ebben a bekezdésben foglaltak alapján elkészített beszámoló a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. § (5) bekezdése alkalmazásában az Szt. rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.
+
+(5) Az átviteli rendszerirányító átviteli rendszerirányítási díjból származó bevételének – a 142/A. § (2) bekezdés szerinti kiegyenlítő fizetések végrehajtása érdekében – az elosztók között megosztott, 142. § (3) bekezdés szerinti határozatban meghatározott része árengedménynek minősül. A megosztott részre az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdésében és 77. § (3) bekezdésében meghatározottakat kell alkalmazni.
+
+(6) A rendszerszintű szolgáltatás keretében az átviteli rendszerirányító által lekötött kapacitások, valamint a rendszerszintű szolgáltatás szempontjából annak elválaszthatatlan részét képező, igénybevett villamos energia számviteli szempontból a helyi adókról szóló 1990. évi C. törvény 52. § 40. pontja szerinti közvetített szolgáltatásnak minősül.
 
 143. § (1) Az egyetemes szolgáltatást méltányos, könnyen és tisztán összehasonlítható, átlátható árszabások alkalmazásával, külön jogszabályban meghatározott típusú termékcsomagok biztosításával kell megvalósítani.
 
 (2) Az egyetemes szolgáltatás árát a hatékonyan működő engedélyes gazdálkodó szervezetek indokolt működési és tőkeköltsége, és összehasonlító elemzések alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
 
-(3) A 90. § (3) bekezdése alkalmazásával kiadott engedélyek alapján nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
+(3) Az egyetemes szolgáltató által az (1) bekezdés szerint kötelezően nyújtott termékcsomagokat, a kötelezően nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit – a 143/A. § (1) bekezdésében foglaltaknak megfelelően – Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
+
+(3a) Az (1) bekezdés szerinti jogszabályban megállapított termékcsomagokon belül, az Esz. rendeletben nem megállapított, az egyes egyetemes szolgáltatók által a jelen bekezdés hatálybalépésekor jogszerűen alkalmazott árszabások árát és áralkalmazási feltételeit az egyetemes szolgáltató kérelmére a Hivatal hagyja jóvá.
 
 (4)
 
 (5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
-(6) Az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait külön jogszabály állapítja meg.
+(6) Az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végezhető egyéb szolgáltatások körét és annak díjait, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait a miniszter rendeletben állapíthatja meg.
 
 143/A. § (1) Az árképzés és az áralkalmazás részletes szabályait, valamint az árszabályozás kereteire vonatkozó részletes szabályokat a Hivatal készíti elő. A Hivatal előkészítő tevékenysége során kikéri az érintett engedélyesek véleményét.
 
-(2) A kihirdetett árakat az egyetemes szolgáltató a kihirdetést követő 3 napon belül a honlapján közzéteszi. A közzétételnek a felhasználókat megillető felmondási jogra vonatkozó tájékoztatást is tartalmaznia kell.
+(2) A kihirdetett árakat az egyetemes szolgáltató a kihirdetést követő 3 munkanapon belül a honlapján és az ügyfélszolgálaton közzéteszi. A közzétételnek a felhasználókat megillető felmondási jogra, valamint a felmondás határidejére vonatkozó tájékoztatást is tartalmaznia kell.
 
 (3) Az egyetemes szolgáltató által kibocsátott számlán szereplő egységárak bármely változása esetén az egyetemes szolgáltató legkésőbb az új árakat tartalmazó számla kibocsátásakor a felhasználókat külön is egyértelműen, személyre szólóan tájékoztatja. A tájékoztatásnak a felhasználókat megillető felmondási jogra is ki kell terjednie.
 
@@ -1921,9 +1935,9 @@ ELJÁRÁSOK
 - b) a Hivatalnak megadni minden olyan tájékoztatást, amely az árfelügyeleti és hatósági árelőkészítő tevékenységhez szükséges,
 - c) a költség és árbevétel struktúra átláthatóságát nyilvántartási és elszámolási rendszerében biztosítani.
 
-144. § (1) A közcélú hálózathoz történő csatlakozással összefüggésben keletkezett hálózatfejlesztési költségek fedezetéül külön jogszabályban meghatározott csatlakozási díj fizetendő.
+144. § (1) A közcélú hálózathoz történő csatlakozással összefüggésben csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit és alkalmazásának általános szabályait a Hivatal előterjesztése alapján a miniszter rendeletben állapítja meg. A csatlakozási díjak mértékét és alkalmazásának egyedi szabályait a Hivatal határozatban állapítja meg.
 
-(2) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének nemzetgazdasági szintű érvényesülését, valamint vegye figyelembe azokat az előnyöket, amelyhez a hálózatba kezdetben vagy utólag bekapcsolt termelők és felhasználók, valamint a hálózati engedélyesek a bekapcsolódásból eredően jutnak. A csatlakozási díj nem haladhatja meg a hálózati engedélyes által a csatlakozás érdekében közvetlenül hálózati beruházásra fordított összeg nagyságát.
+(2) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint figyelembe vegye a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a hálózati engedélyes által a csatlakozás érdekében közvetlenül hálózati beruházásra fordított összeg nagyságát.
 
 (3) A csatlakozási díjból származó bevételt a hálózathoz történő csatlakozáshoz szükséges beruházásokra kell fordítani.
 

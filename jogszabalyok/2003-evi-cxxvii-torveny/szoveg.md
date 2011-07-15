@@ -2667,7 +2667,7 @@ meghaladó mennyisége minősül.
 
 (9) A vendéglátást folytató nem jövedéki engedélyes kereskedő elvitelre bort csak palackban vagy hivatalos zárral ellátott kannában forgalmazhat.
 
-(10) Az alkoholterméket vendéglátás keretében forgalmazó, nem jövedéki engedélyes kereskedő az alkoholtermékekre vonatkozóan elkészíti üzletének – a külön jogszabály szerinti, a készlet megállapításának gyakoriságát legalább havi rendszerességgel rögzítő – alkoholtermék-készletforgalmi szabályzatát, és az abban foglaltak szerint az alkoholtermékek forgalmára vonatkozó adatokat külön nyilvántartja.
+(10)
 
 (11) A nem jövedéki engedélyes kereskedő alkoholterméket, bort, sört, pezsgőt, köztes alkoholterméket a külön jogszabály szerinti alkalmi rendezvényen, illetve közterületi értékesítés [Kertv. 2. § 14. pont], valamint vásáron vagy piacon nem üzletben folytatott kereskedelmi tevékenység [Kertv. 2. § 19., illetve 29. pont] keretében is értékesíthet, ha az értékesítés helye szerint illetékes vámhatósághoz – legkésőbb az értékesítés megkezdése előtt három munkanappal – bejelenti az értékesítés helyét és időpontját, rendszeres időközönként ismétlődő értékesítés esetén az értékesítési napokat és az egyes napokon az értékesítés kezdő és befejező időpontját, valamint a jövedéki termék raktározására használt épület, épületrész címét (helyrajzi számát).
 

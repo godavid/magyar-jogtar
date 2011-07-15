@@ -528,7 +528,7 @@ végezhet.
 - o) alárendelt kölcsöntőkéjének a szerződésben rögzített határidő, illetőleg öt év előtt történő visszafizetéséhez, visszavásárlásához;
 - p) kiegészítő alárendelt kölcsöntőkéjének a szerződésben rögzített határidő, illetőleg kettő év előtt történő visszafizetéséhez;
 - q) külön jogszabály alapján készített hitelbiztosítéki érték-megállapítási szabályzatához, mely figyelembe veszi a hitelbiztosítéki érték megállapításának módszertani elveiről szóló külön jogszabályban foglaltakat;
-- r) alapvető kölcsöntőkéje és járulékos kölcsöntőkéje felmondásához, valamint a szerződésben kikötött felmondási idő előtti tőketörlesztéshez, visszavásárlásához;
+- r) alapvető kölcsöntőkéje, vegyes tulajdonságú befizetett jegyzett tőkéje és járulékos kölcsöntőkéje felmondásához, valamint a szerződésben kikötött felmondási idő előtti tőketörlesztéshez, visszavásárlásához;
 - s) belső minősítésen alapuló módszerrel történő kockázattal súlyozott kitettség érték számításához;
 - t) saját nemteljesítéskori veszteségráta és hitelegyenértékesítési tényező becslés alkalmazásához;
 - u) működési kockázat tőkekövetelményének sztenderdizált vagy fejlett mérési módszerrel történő számításához;
@@ -1867,7 +1867,9 @@ a belső szabályzatban meghatározott mértékig.
 
 (5) A javadalmazási politika elveit az igazgatóság fogadja el és vizsgálja felül, a felügyelőbizottság felel annak végrehajtásáért, amelyet legalább évente a hitelintézet belső ellenőrzése vizsgál felül.
 
-(6) A mérlegfőösszege tekintetében legalább öt százalék piaci részesedéssel rendelkező hitelintézetek javadalmazási bizottságot állítanak fel, amely felügyeli a kockázatkezelésért és a jogszabályoknak történő megfelelésért felelős vezető javadalmazását, valamint előkészíti a javadalmazásra vonatkozó döntéseket a részvényesek, a befektetők és a hitelintézetben érdekelt egyéb felek hosszú távú érdekeinek figyelembevételével. A javadalmazási bizottság elnöke és tagjai az igazgatóság olyan tagjai közül kerülnek ki, akik az érintett hitelintézetben nem látják el szervezeti egység vezetését.
+(6) A mérlegfőösszege tekintetében legalább öt százalék piaci részesedéssel rendelkező hitelintézetek javadalmazási bizottságot állítanak fel, amely felügyeli a kockázatkezelésért és a jogszabályoknak történő megfelelésért felelős vezető javadalmazását, valamint előkészíti a javadalmazásra vonatkozó döntéseket a részvényesek, a befektetők és a hitelintézetben érdekelt egyéb felek hosszú távú érdekeinek figyelembevételével.
+
+(7) A javadalmazási bizottság elnöke és tagjai az igazgatóság olyan tagjai közül kerülnek ki, akik az érintett hitelintézetben nem látják el szervezeti egység vezetését. Ha a hitelintézet igazgatóságában nincs legalább három olyan igazgatósági tag, aki nem látja el szervezeti egység vezetését, akkor a javadalmazási bizottságban a felügyelő bizottság független tagjai is részt vehetnek.
 
 69/C. § (1) A hitelintézetnek meg kell határoznia a teljes javadalmazáson belül az alapbér és a teljesítményjavadalmazás arányát. A hitelintézet belső szabályzatban rögzíti a teljes javadalmazáson belül az alapbér hányadát, amelynek olyan mértékűnek kell lennie, hogy rugalmas javadalmazási politika érvényesülhessen, és lehetőség legyen arra, hogy adott esetben a teljes javadalmazás kizárólag alapbérből álljon.
 
@@ -1928,7 +1930,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (2) Hitelintézetek egyesülése esetén az általános jogutód, illetőleg az átvevő hitelintézet szavatoló tőkéje nem lehet kevesebb, mint az egyesülő hitelintézetek egyesülés előtti szavatoló tőkéjének összege.
 
-74/A. § (1) Az alapvető kölcsöntőke, alárendelt kölcsöntőke felmondásához, törlesztéséhez, visszaváltásához és visszavásárlásához szükséges engedély megszerzése iránti kérelemben a hitelintézetnek
+74/A. § (1) Az alapvető kölcsöntőke, vegyes tulajdonságú befizetett jegyzett tőke, alárendelt kölcsöntőke felmondásához, törlesztéséhez, visszaváltásához és visszavásárlásához szükséges engedély megszerzése iránti kérelemben a hitelintézetnek
 
 - a) meg kell határoznia a felmondás, visszaváltás vagy visszavásárlás okát,
 - b) be kell mutatnia az aktuális, valamint a felmondást, visszaváltást vagy visszavásárlást követő öt év üzleti terve alapján a tőkekövetelményeknek való megfelelését,
@@ -1969,7 +1971,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (4)
 
-(5) Ha a szavatoló tőke az (1) bekezdés a) pontjában meghatározott tőkekövetelmény és a Felügyelet által a (2) bekezdés szerint előírt többlettőke-követelmény összegének százhúsz százaléka alatt van, akkor az 5. számú melléklet 19. pontjában foglalt kiegészítő alárendelt kölcsöntőkével kapcsolatos mindennemű kifizetést – nyolc nappal a kifizetés megkezdését megelőzően – be kell jelenteni a Felügyeletnek.
+(5) Ha a szavatoló tőke az (1) bekezdés a) pontjában meghatározott tőkekövetelmény és a Felügyelet által a (2) bekezdés szerint előírt többlettőke-követelmény összegének százhúsz százaléka alatt van, akkor az 5. számú melléklet 31. pontjában foglalt kiegészítő alárendelt kölcsöntőkével kapcsolatos mindennemű kifizetést – nyolc nappal a kifizetés megkezdését megelőzően – be kell jelenteni a Felügyeletnek.
 
 (6)–(9)
 
@@ -4882,7 +4884,7 @@ esetében kell alkalmazni.
 
 219/D. § (1) A közvetítővel, a közvetítői alvállalkozóval – e tevékenységi körében – munkaviszonyban, megbízási viszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban – a (3) bekezdésben meghatározott eltéréssel – csak olyan természetes személy lehet, aki
 
-- a) szakirányú felsőfokú iskolai végzettséggel [68. § (3) bekezdés], vagy
+- a) szakirányú felsőfokú iskolai végzettséggel, vagy
 - b) középiskolai végzettséggel és
   - ba) szakképesített bankreferensi szakképesítéssel,
   - bb) banki, befektetési termékértékesítői szakképesítéssel,
@@ -5021,7 +5023,7 @@ esetében kell alkalmazni.
 
 - a) hatálybalépésekor pénzváltás közvetítésére többes kiemelt közvetítőként engedéllyel rendelkező közvetítő ezen tevékenységét többes kiemelt közvetítőként 2011. június 30-ig folytathatja;
 - b) 44. §-ával megállapított 68. §-ban foglalt követelménynek a hatálybalépésekor már megválasztott, kinevezett ügyvezető, vezető állású személy legkésőbb 2014. január 1-től köteles megfelelni;
-- c) 45. §-ával megállapított 69/B–69/E §-ban foglalt javadalmazási politikára vonatkozó belső szabályzatra, valamint javadalmazási bizottság felállítására vonatkozó követelményeknek a hitelintézetek legkésőbb 2011. május 31-től kötelesek megfelelni;
+- c) 45. §-ával megállapított 69/B–69/E §-ban foglalt javadalmazási politikára vonatkozó belső szabályzatra, valamint javadalmazási bizottság felállítására vonatkozó követelményeknek a hitelintézetek legkésőbb 2011. augusztus 31-től kötelesek megfelelni;
 - d) 50. §-ával megállapított 79. § (1)–(3) bekezdését 2011. december 31-éig nem kell alkalmazni a 2010. december 31-én már fennálló, hitelintézettel, befektetési vállalkozással és hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozással szembeni, szavatoló tőke számításánál figyelembe vehető kötelezettséget nem eredményező, legfeljebb egyéves lejáratú kitettségre;
 - e) 55. § (2) bekezdésével megállapított 101. § (4) bekezdését a hatálybalépését követően induló kártalanítási eljárásoknál kell alkalmazni;
 - f) hatálybalépésekor már engedéllyel rendelkező önkéntes alapnak 2011. június 30-ig kell létesítő okiratát módosítania az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 58. §-ával megállapított 128/D. § (2) bekezdés d) és f) pontjában foglaltaknak megfelelően;

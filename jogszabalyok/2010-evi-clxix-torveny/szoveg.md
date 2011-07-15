@@ -93,7 +93,7 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 
 (5) Az Országgyűlés felhatalmazza az energiapolitikáért felelős minisztert, hogy az Éhvt. alapján létrehozott kiotói egységek átruházásából befolyt bevételnek az Éhvt. 10. § (3) és (4) bekezdésében meghatározott célok szerinti felhasználására nyitott előirányzatot az értékesítésből befolyt teljes bevétellel megnövelje.
 
-10. § (1) A 2011. év során a Nemzeti Infrastruktúra Fejlesztő Zrt. (a továbbiakban: NIF Zrt.) és a MÁV Start Zrt. 5000,0 millió forint összeghatár alatt az államháztartásért felelős miniszter és a közlekedésért felelős miniszter együttes jóváhagyásával, 5000,0 millió forint és 5000,0 millió forint összeghatár felett a Kormány jóváhagyásával jogosult
+10. § (1) A 2011. év során a MÁV Start Zrt. 5000,0 millió forint összeghatár alatt az államháztartásért felelős miniszter és a közlekedésért felelős miniszter együttes jóváhagyásával, 5000,0 millió forint és 5000,0 millió forint összeghatár felett a Kormány jóváhagyásával jogosult
 
 - a) hitel, kölcsön felvételére,
 - b) garancia és kezesség vállalására,
@@ -102,7 +102,7 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 - e) kötvény kibocsátására,
 - f) pénzügyi lízing vagy faktoring ügyletre irányuló, vagy ilyet magában foglaló szerződés kötésére.
 
-(2) A Magyar Állam által kibocsátott értékpapírok adásvételére és az 57. § szerinti hitelnyújtásra az (1) bekezdésben foglalt korlátozás nem vonatkozik.
+(2) A Magyar Állam által kibocsátott értékpapírok adásvételére az (1) bekezdésben foglalt korlátozás nem vonatkozik.
 
 (3) Az (1) bekezdésben szereplő gazdasági társaságok adósságállománya – ide nem értve az 57. § szerint kapott hitelt – csak a Kormány jóváhagyásával haladhatja meg az 5000,0 millió forintot.
 

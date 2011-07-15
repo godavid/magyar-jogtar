@@ -26,7 +26,7 @@ a következő törvényt alkotja:
 
 - a) a gazdaságfejlesztési célok megvalósításához szükséges közép- és hosszú lejáratú hazai és külföldi források, illetőleg támogatások bevonásában és közvetítésében;
 - b) a nemzetgazdasági szempontból kiemelt állami és önkormányzati fejlesztések, beruházások (így különösen az infrastrukturális, agrár, környezetvédelmi, munkahelyteremtő, oktatási, turisztikai, sport és szabadidős célú, valamint a strukturális és regionális különbségek kiegyenlítését, illetőleg vidékfejlesztést, a térség- és településfelzárkóztatást szolgáló), továbbá az ezekhez kapcsolódó más fejlesztések, beruházások, illetve az ezek bővítéséhez szükséges fejlesztési hitel- és tőkefinanszírozásában;
-- c) a magyarországi székhelyű gazdálkodó szervezetek – ezen belül elsődlegesen a kis- és középvállalkozások –, valamint a mezőgazdasági őstermelők és családi gazdálkodók tevékenységének hitel- és tőkefinanszírozásában;
+- c) a magyarországi székhelyű gazdálkodó szervezetek – ezen belül elsődlegesen a kis- és középvállalkozások, valamint törvénnyel létrehozott – elkülönített állami pénzalapnak nem minősülő – vagyonkezelést is végző pénzalapok, továbbá a mezőgazdasági őstermelők és a családi gazdálkodók tevékenységének hitel- és tőkefinanszírozásában;
 - d) az európai uniós tagsághoz kapcsolódó állami és önkormányzati fejlesztések, beruházások pénzügyi lebonyolításában, valamint – külön jogszabályban szabályozott eljárás szerint – az Európai Közösség pénzeszközeinek igénybevételéhez kapcsolódó feladatok (ideértve a támogatás közvetítést, illetve a nemzetközi gazdasági vagy pénzügyi intézménytől történő forrásbevonást és közvetítést is) ellátásában;
 - e) az egyes állami, közösségi, illetőleg nemzetközi fejlesztési kifizetésekhez kapcsolódó feladatok (így különösen a fejlesztési célú kiadások, illetőleg támogatások közvetítésének, felhasználásának előkészítését, összehangolását, a kapcsolódó közreműködői feladatok ellátását, valamint a kifizetések felhasználásának elszámolását és értékelését) ellátásában;
 - f) a Kormány határozata alapján 1. az állami és a helyi önkormányzati tulajdonban lévő vagyon értékesítése során, annak megvásárlásához, 2. a lakóépület felújításához a lakásszövetkezet, illetőleg a társasház tulajdonostársainak közössége részére, 3. a magyar állampolgárok, illetőleg legalább egy éve életvitelszerűen Magyarországon tartózkodó természetes személyek fejlesztési beruházásaihoz szükséges hitelek refinanszírozásában;
@@ -97,7 +97,13 @@ a következő törvényt alkotja:
 - f) pénzügyi intézmény pénzügyi szolgáltatási tevékenységének és
 - g) a tulajdonában álló, illetőleg a rábízott vagyon körébe tartozó gazdasági társaságok finanszírozására nyújthat hitelt, illetőleg kölcsönt.
 
-(3) Az MFB Zrt. csak a (2) bekezdésben meghatározott hitelre, illetőleg kölcsönre, továbbá támogatáshoz kapcsolódóan vállalhat kezességet, bankgaranciát, továbbá egyéb bankári kötelezettséget.
+(3) Az MFB Zrt. csak
+
+- a) a (2) bekezdésben meghatározott hitelhez, illetőleg kölcsönhöz,
+- b) támogatáshoz,
+- c) ajánlattételhez,
+- d) szolgáltatás nyújtásához,
+- e) vállalkozási szerződéshez kapcsolódóan vállalhat kezességet, bankgaranciát, továbbá egyéb bankári kötelezettséget.
 
 (4) Az MFB Zrt. kizárólag akkor nyújthat hitelt, illetőleg kölcsönt, valamint csak akkor vállalhat kezességet, bankgaranciát, továbbá egyéb bankári kötelezettséget, ha annak visszafizetése, megtérülése az ügyletre vonatkozó üzleti, pénzügyi tervek alapján, illetőleg a rendelkezésre álló fedezetekre tekintettel biztosított. Ha mindez a 2. § b), k) és m) pontjában megjelölt feladatok teljesíthetőségét akadályozza, akkor ezen feladatok teljesítésének kell elsőbbséget biztosítani.
 
@@ -326,11 +332,11 @@ Corvinus Támogatásközvetítő Zrt.
 
 Magyar Turizmus Zrt.
 
+Kincsem Nemzeti Lóverseny és Lovas Stratégia Kft.
+
 Mezőhegyesi Állami Ménes Kft.
 
-Agrárgazdasági Vagyonkezelő Kft.
-
-Nemzeti Lóverseny Kft.
+Bábolna Nemzeti Ménesbirtok Kft.
 
 Magyar Lóversenyfogadást Szervező Kft.
 

@@ -864,7 +864,7 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 
 (8) Amennyiben az alvállalkozó a kifizetést teljesítővel szemben fennálló követelését faktorálja (engedményezi), a kifizetést teljesítő abban az esetben fizethet a faktornak (engedményesnek), ha a kifizetés előtt a faktor (engedményes) vagy az alvállalkozó rendelkezésre bocsátja az alvállalkozóra vonatkozó együttes adóigazolást, vagy az alvállalkozó szerepel a köztartozásmentes adózói adatbázisban, ellenkező esetben a kifizetést teljesítő egyetemleges felelőssége és visszatartási kötelezettsége fennáll.
 
-(9)
+(9) E § rendelkezéseit nem kell alkalmazni abban az esetben, ha az adóigazoláson feltüntetett tartozás 2008. szeptember 30-át követően keletkezett.
 
 36/B. § (1) Az állami adóhatóság az adózó erre irányuló kérelme alapján, a kérelem benyújtásának hónapját követő hónap 10. napján felveszi az adózót a köztartozásmentes adózói adatbázisba, ha vizsgálata alapján az adózó a köztartozásmentes adózói adatbázisba történő felvételhez e törvényben előírt feltételeket teljesíti. Az adózó külön nyilatkozik arról, hogy a köztartozásmentes adózói adatbázis közzétételét megelőző hónap utolsó napjáig esedékes bevallási és befizetési kötelezettségének maradéktalanul eleget tesz/tett. A kérelem teljesítésének a köztartozásmentes adózói adatbázisba történő felvétel minősül. A kérelem kizárólag elektronikus úton nyújtható be.
 
@@ -2203,11 +2203,11 @@ hatósági eljárás.
 
 (5) Kétoldalú vagy többoldalú eljárás iránti kérelem benyújtása esetén az adózó a dokumentációhoz csatolja a kérelem angol nyelvű szakfordítását. Az adóhatóság felhívására az adózó csatolja a kétoldalú vagy többoldalú eljárás lefolytatásához szükséges dokumentációs részek angol nyelvű szakfordítását. Kétoldalú vagy többoldalú eljárás iránti kérelem esetén az állami adóhatóság a külföldi állam illetékes hatóságával megkötendő megállapodás és a kérelem elbírálásához szükséges adatok beszerzése érdekében eljárást kezdeményez a külföldi állam illetékes hatóságával a kettős adóztatás elkerülése tárgyában kötött nemzetközi egyezménynek a kölcsönös egyeztetési eljárásról szóló vagy ennek megfelelő rendelkezései alapján.
 
-(6) A szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló külön jogszabály szerinti nyilvántartás (egyszerűsített nyilvántartás) készítésére nem kötelezett adózók a szokásos piaci ár megállapítására irányuló kérelmet nem terjeszthetnek elő.
+(6) A szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló külön jogszabály szerinti nyilvántartás (egyszerűsített nyilvántartás) készítésére nem kötelezett adózók – kivéve azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással – a szokásos piaci ár megállapítására irányuló kérelmet nem terjeszthetnek elő.
 
 (7) A határozat határozott időre, legalább három, legfeljebb öt évre érvényes. A határozat érvényességének időtartama a szokásos piaci ármegállapítással érintett kapcsolt vállalkozások kérelmére egy alkalommal három évre meghosszabbítható. A határozat érvényessége nem hosszabbítható meg, ha az eredeti határozat alapjául szolgáló tényállás olyan mértékben megváltozott, hogy a szokásos piaci ár megállapítására új határozatot kellene kiadni. A határozat érvényességének meghosszabbítására irányuló kérelmet a határozat érvényességének lejártát megelőzően legalább hat hónappal kell előterjeszteni. A meghosszabbítás iránti kérelem alapján induló eljárásban az eredeti kérelem benyújtásával kapcsolatos eljárási szabályokat kell megfelelően alkalmazni.
 
-(8) A kérelmet a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló külön jogszabály alapján készítendő nyilvántartással megegyező tartalommal adótanácsadó, adószakértő, okleveles adószakértő vagy ügyvéd ellenjegyzésével, három példányban kell az állami adóhatósághoz benyújtani. A kérelemhez csatolni kell az előterjesztő nyilatkozatát arról, hogy a kérelemben megjelölt tényállás megfelel a valóságnak.
+(8) A kérelmet a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló külön jogszabály szerinti nyilvántartással megegyező tartalommal adótanácsadó, adószakértő, okleveles adószakértő vagy ügyvéd ellenjegyzésével, három példányban kell az állami adóhatósághoz benyújtani. A kérelemhez csatolni kell az előterjesztő nyilatkozatát arról, hogy a kérelemben megjelölt tényállás megfelel a valóságnak.
 
 (9) A szokásos piaci ár megállapítására irányuló eljárás díjköteles, a díj
 
@@ -3281,6 +3281,8 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 (2) A költségvetési szervnél foglalkoztatott magánszemély a 2011. évi adó- és járulékváltozások ellentételezésének megállapításához, 2011. január 15.-éig a munkáltatója részére nyilatkozik – a kompenzáció összegének megállapítása érdekében – a családi kedvezmény igénybevételéről, és az annak igénylése során figyelembe vehető kedvezményezett eltartottak számáról. A nyilatkozatra vonatkozó további rendelkezéseket a Kormány rendeletben állapítja meg.
 
 186. § Az állami adóhatóság a 2010. október 1. és 2010. november 30. között megszerzett jövedelemmel kapcsolatban a 31. § (2) bekezdés 1–7., 9–15. és 24–28. pontjai szerinti részletezettséggel bevallott adatokat 2011. február 28-áig átadja a Pénzügyi Szervezetek Állami Felügyelete részére az Mpt. 119. § (3) bekezdés e) és f) pontjában foglalt feladatai ellátásához. A Pénzügyi Szervezetek Állami Felügyelete jogosult az átadott adatokat az adatvédelmi előírások betartásával kezelni.
+
+187. § E törvénynek az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvénnyel megállapított 36/A. § (9) bekezdését a hatálybalépést követően teljesítendő kifizetésekre kell alkalmazni.
 
 ### 1. számú melléklet a 2003. évi XCII. törvényhez
 
