@@ -224,16 +224,17 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 
 (2) Szintén nem áll be a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás, ha az adóalany jogutódlással szűnik meg, feltéve, hogy az a 18. § (1) és (2) bekezdésében meghatározott feltételek szerint történik.
 
-(3) A (2) bekezdésben említett jogutódlással történő megszűnés a következő eseteket foglalja magában:
+(3) A (2) bekezdésben említett jogutódlással történő megszűnésnek kell tekinteni e törvény alkalmazásában:
 
 - a) gazdasági társaságnak a gazdasági társaságokról szóló törvény szerinti átalakulását (ideértve az egyesülést, a szétválást és a részleges átalakulást is);
 - b) szövetkezetnek a szövetkezetekről szóló törvény (a továbbiakban: Szöv. tv.) szerinti átalakulását;
 - c) szövetkezet gazdasági társasággá való átalakulása vagy jogutód nélküli megszűnése esetében a közösségi alap Szöv. tv. szerinti átadását más szövetkezet vagy szövetkezeti szövetség részére;
-- d) egyéni cégnek az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti átalakulását;
+- d) az egyéni vállalkozóról és az egyéni cégről szóló törvény (a továbbiakban: Evtv.) szerinti egyéni vállalkozói tevékenység folytatására való jogosultság – egyéni cég alapítására tekintettel történő – megszűnését, valamint egyéni cégnek az Evtv. szerinti átalakulását;
 - e) egyéni vállalkozó, mezőgazdasági termelő halálát, vagy cselekvőképességének elvesztését, feltéve, hogy az egyéni vállalkozói, őstermelői tevékenységet
   - ea) elhalálozás esetében az özvegy vagy örökös folytatja; illetőleg
   - eb) cselekvőképesség elvesztése esetében az egyéni vállalkozó, mezőgazdasági őstermelő nevében és javára a törvényes képviselője folytatja;
 - f) a 8. § (5), (9) és (12) bekezdéseiben említett eseteket.
+- g) a mezőgazdasági tevékenységét megszüntető természetes személy adóalanynak a mezőgazdasági tevékenységet tovább folytató, közeli hozzátartozónak [Ptk. 685. § b) pont] minősülő természetes személy részére történő gazdaságátadását, feltéve, hogy a gazdaságátadás az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatással történik.
 
 18. § (1) Az apport [17. § (1) bekezdése], illetőleg a jogutódlás [17. § (2) bekezdése] útján szerzett vagyon (vagyonrész) és vagyoni értékű jog (e § alkalmazásában a továbbiakban együtt: vagyon) tekintetében a szerzőnek a következő feltételeknek kell egyidejűleg megfelelnie:
 
@@ -241,7 +242,13 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 - b) kötelezettséget vállal arra, hogy a szerzéshez, illetőleg a szerzett vagyonhoz fűződő, az e törvényben szabályozott jogok és kötelezettségek – a (2) bekezdésben említett eltéréssel – a szerzéstől kezdődően jogutódként őt illetik és terhelik;
 - c) sem a szerzéskor, sem azt követően nincs olyan, e törvényben szabályozott jogállása, amely természeténél fogva össszeegyeztethetlen lenne a b) pontban említett kötelezettségek teljesítésével, vagy annak csorbítására lenne alkalmas.
 
-(2) Az apportálót, illetőleg jogutódlással történő megszűnés azon esetében, amelyben a jogelőd nem szűnik meg, a jogelődöt az elévülési időn belül a szerzővel együtt egyetemleges felelősség terheli azon, e törvényben szabályozott kötelezettségek teljesítéséért, amelyek az (1) bekezdés b) pontjában említett vagyonhoz fűződően a szerzésig bezárólag keletkeztek.
+(2) Az elévülési időn belül a szerzővel együtt egyetemleges felelősség terheli
+
+- a) az apportálót,
+- b) a jogelődöt a jogutódlással történő megszűnés azon esetében, amelyben a jogelőd nem szűnik meg,
+- c) azt a volt egyéni vállalkozót, akinek (amelynek) egyéni vállalkozói tevékenység folytatására vonatkozó jogosultsága egyéni cég alapítására tekintettel megszűnt,
+- d) az egyéni cég tagját az egyéni cég gazdasági társasággá történő átalakulása esetén, valamint
+- e) azt a 17. § (3) bekezdés g) pontja szerinti, az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatásban részesülő természetes személyt, aki (amely) gazdaságát a mezőgazdasági tevékenységet tovább folytató, közeli hozzátartozónak [Ptk. 685. § b) pont] minősülő természetes személy részére átadja azon e törvényben szabályozott kötelezettségek teljesítéséért, amelyek az (1) bekezdés b) pontjában említett vagyonhoz fűződően a szerzésig bezárólag keletkeztek.
 
 (3) Ha az (1) és (2) bekezdésben meghatározott feltételek bármelyike nem teljesül, az apportra, illetőleg a jogutódlásra vonatkozóan a feltétel nem teljesülésekor a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás haladéktalanul beáll.
 
@@ -2954,6 +2961,14 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 271. § A 3. számú melléklet II. rész az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosításáról szóló 2011. évi XXXV. törvénnyel megállapított 2. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosításáról szóló 2011. évi XXXV. törvény hatálybalépésének napjára vagy azt követő időszakra esik.
 
 272. § A 7. §-nak az Összefogás az Államadósság Ellen Alapba történő befizetésekhez kapcsolódó kedvezmények megalkotásáról és az Alap létrehozásával kapcsolatos törvénymódosításokról szóló 2011. évi. LVII. törvénnyel (a továbbiakban: Módtv.) megállapított (4)–(5) bekezdéseit azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont a Módtv. hatálybalépésének napjára vagy azt követő időszakra esik.
+
+273. § (1) A törvény az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvénnyel megállapított 17. § (3) bekezdés d) pontjának és 18. § (2) bekezdésének rendelkezései azokban az esetekben is alkalmazhatók, amelyekben az egyéni vállalkozói tevékenység folytatására való jogosultság egyéni cég alapítása miatti megszűnése 2010. január 1-je vagy azt követő időpont.
+
+(2) Abban az esetben, ha az (1) bekezdés alkalmazása egyúttal önellenőrzést is igényel, az önellenőrzés pótlékmentesen végezhető el.
+
+274. § (1) A törvény az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvénnyel megállapított 17. § (3) bekezdés g) pontjának és 18. § (2) bekezdésének rendelkezései azokban az esetekben is alkalmazhatók, amelyekben a mezőgazdasági tevékenységét megszüntető, az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatásban részesülő természetes személy adóalany a gazdaságát a mezőgazdasági tevékenységet tovább folytató, közeli hozzátartozónak [Ptk. 685. § b) pont] minősülő természetes személy részére 2010. január 1-jén vagy azt követő időpontban adja át.
+
+(2) Abban az esetben, ha az (1) bekezdés alkalmazása egyúttal önellenőrzést is igényel, az önellenőrzés pótlékmentesen végezhető el.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 

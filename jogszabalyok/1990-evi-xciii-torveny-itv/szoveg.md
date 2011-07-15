@@ -90,7 +90,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 ### Az öröklési illeték tárgya
 
-8. § (1) Az öröklési illeték tárgya: az örökség – ideértve a haszonélvezeti jog megváltását, valamint az önálló orvosi tevékenység működtetési jogának folytatását is –, a hagyomány, a meghagyás alapján történő vagyonszerzés, a kötelesrész szerzése, továbbá a halál esetére szóló ajándékozás.
+8. § (1) Az öröklési illeték tárgya: az örökség – ideértve a haszonélvezeti jog megváltását is –, a hagyomány, a meghagyás alapján történő vagyonszerzés, a kötelesrész szerzése, továbbá a halál esetére szóló ajándékozás.
 
 (2) Az örökhagyó rendelkezése folytán a hagyatékból harmadik személynek juttatott vagyontárgyat mint az örökhagyóról közvetlenül a harmadik személyre átszállott hagyományt kell illeték alá vonni. Az ilyen vagyontárgy értékét az örökség (hagyomány) illetékének alapjául szolgáló értékéből le kell vonni.
 
@@ -153,7 +153,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (4) Gépjármű, pótkocsi tulajdonjogának, vagyoni értékű jogának öröklése és ajándékozása esetén az illeték mértéke a gépjármű és pótkocsi visszterhes vagyonátruházási illetékének (24. §) kétszerese.
 
-(5) Az önálló orvosi tevékenység működtetési jogának folytatása és ajándékozása esetén az illeték mértéke a 13. § (7) bekezdésében meghatározott illetékalap 10%-a.
+(5) Az önálló orvosi tevékenység működtetési jogának ajándékozása esetén az illeték mértéke a 13. § (7) bekezdésében meghatározott illetékalap 10%-a.
 
 (6) Abban az esetben, ha az általános mértékű öröklési vagy ajándékozási illeték alá eső vagyontárgyak között termőföld is van, akkor a termőföld után egyébként fizetendő illeték megállapítása során az általános mérték alá tartozó összes vagyont kedvezmény nélkül terhelő illetékből olyan arányt kell figyelembe venni, mint amilyen arányt az általános mértékű illeték alá tartozó összes vagyon értékében a termőföld értéke képez.
 
@@ -171,7 +171,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (6) Ha a hagyatékban, ajándékban, gépjármű, illetőleg pótkocsi is van, ennek értékét az egyéb hagyaték, ajándék tiszta értékének kiszámításánál figyelmen kívül kell hagyni.
 
-(7) Az önálló orvosi tevékenység működtetési jogának folytatása és ajándékozása esetén az illeték alapja a működtetési jognak – terhekkel nem csökkentett – értéke.
+(7) Az önálló orvosi tevékenység működtetési jogának ajándékozása esetén az illeték alapja a működtetési jognak – terhekkel nem csökkentett – értéke.
 
 (8) Ha adott ingatlan ajándékozása ugyanannak a megajándékozottnak a javára 5 éven belül több szerződéssel történik, az illetéket az újabb tulajdoni hányaddal együtt a tulajdonában álló ingatlanrész tiszta értékének figyelembevételével kell megállapítani, feltéve, hogy az ingatlan tiszta értéke a 18 millió forintot meghaladja. A tiszta érték kiindulópontjául szolgáló forgalmi érték megállapításánál a korábbi tulajdoni hányad megszerzése óta elvégzett beruházások értéknövelő hatását figyelmen kívül kell hagyni. A fentiek szerint megállapított illeték összegéből le kell vonni azt az összeget, amelyet az ingatlan korábban megszerzett tulajdoni hányada (hányadai) után akkor kellene megfizetni, ha annak (azoknak) megszerzésére az újabb tulajdoni hányad megszerzésének időpontjában került volna sor.
 
@@ -251,7 +251,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (4) Ha az ingyenes eszközátadásra irányuló ügyletben részt vevő, számviteli törvény szerinti gazdálkodók egyike a másik 100%-os tulajdonában áll vagy a gazdálkodók egyazon személy 100%-os tulajdonában állnak, akkor a gazdálkodó vagyonszerzésére a 12. § (1) bekezdésének b) pontja szerinti táblázat I. csoportjára vonatkozó illetékmértékeket kell alkalmazni. Akkor is ezeket az illetékmértékeket kell alkalmazni, ha a gazdálkodó gazdálkodónak nem minősülő ajándékozó 100%-os tulajdonában áll.
 
-17/A. § Mentes az öröklési és ajándékozási illeték alól az önálló orvosi tevékenység működtetési jogának megszerzése, ha a korábbi jogosult az önálló orvosi tevékenységről szóló törvény erejénél fogva az említett törvény hatálybalépésétől volt jogosult a működtetési jog alapján végezhető tevékenység gyakorlására. Az illetékmentességre való jogosultságot az önálló orvosi tevékenység működtetési jogát szerző magánszemélynek kell igazolnia.
+17/A. § Mentes az ajándékozási illeték alól az önálló orvosi tevékenység működtetési jogának megszerzése, ha a korábbi jogosult az önálló orvosi tevékenységről szóló törvény erejénél fogva az említett törvény hatálybalépésétől volt jogosult a működtetési jog alapján végezhető tevékenység gyakorlására. Az illetékmentességre való jogosultságot az önálló orvosi tevékenység működtetési jogát szerző magánszemélynek kell igazolnia.
 
 ### Az egyéni kisvállalkozói vagyon öröklési és ajándékozási illetékkedvezménye
 
@@ -297,7 +297,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - e) közterületen álló, ingatlannak nem minősülő felépítmény tulajdonjogának, vagyoni értékű jogának megszerzése;
 - f) az önálló orvosi tevékenység működtetési jogának megszerzése;
 - g) az értékpapír öröklési szerződéssel való megszerzése;
-- h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részjegy, befektetői részjegy, átalakított befektetői részjegy) megszerzésére.
+- h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részjegy, befektetői részjegy, átalakított befektetői részjegy) megszerzésére, ha a belföldi ingatlanvagyonnal rendelkező társaság olyan gazdálkodó szervezet, amelynek a cégjegyzékben feltüntetett (ennek hiányában a létesítő okiratában megjelölt) főtevékenysége épületépítési projekt szervezése, lakó- és nem lakó épület építése, saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése vagy saját tulajdonú ingatlan adásvétele.
 
 (3) Nem tárgya a visszterhes vagyonátruházási illetéknek az ingatlan tulajdonosának az a vagyonszerzése, mely az ingatlanát terhelő haszonélvezet, használat jogának a jogosult halála, illetőleg – özvegyi jog esetén – új házasság kötése folytán történő megszűnésével következik be, továbbá a feltétel bekövetkezésétől függő vagy a meghatározott időre kikötött haszonélvezet, használat jogának a feltétel bekövetkeztével, illetve a meghatározott idő elteltével bekövetkező megszűnése.
 
@@ -405,6 +405,8 @@ szerzett.
 (4) Amennyiben gépjármű, pótkocsi tulajdonjogának megszerzésével egyidejűleg haszonélvezeti, használati vagy üzembentartói jog alapítása történik, illetve gépjármű, pótkocsi tulajdonjogát az azon fennálló használati, haszonélvezeti, illetve üzembentartói jog jogosítottja szerzi meg, a tulajdonjog megszerzőjét terhelő illeték megállapítása során az (1)–(2) bekezdések alkalmazásával megállapított illetéket csökkenteni kell a haszonélvezeti, használati, illetve üzembentartói jog megszerzéséért a (3) bekezdés szerint fizetendő illeték összegével.
 
 (5) Gépjármű, pótkocsi tulajdonjoga, illetve gépjárműre, pótkocsira vonatkozó haszonélvezeti, használati jog meghatározott hányadának megszerzése esetén a megszerzett hányadra arányosan eső illetéket kell fizetni.
+
+(6) Nem kell az illetéket megfizetni, ha a vagyonszerző a tulajdonszerzés átvezetésével egyidejűleg külföldi kivitel céljából Z betűjelű ideiglenes rendszám kiadását kéri, mindaddig, míg a gépjármű tartós belföldi használatához szükséges forgalmi engedély kiadását nem kéri vagy a gépjárművet belföldön nem értékesíti.
 
 ### Illeték közös tulajdon megszüntetése esetén
 
@@ -1144,7 +1146,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 ### Fizetési meghagyás
 
-78. § (1) A kiszabás alapján fizetendő illetékről — ideértve a mulasztási bírságot is — fizetési meghagyást (határozatot) kell kiadni. A fizetési meghagyás tartalmazza a kiszabott illeték összegének megállapításánál figyelembe vett adatokat és az alkalmazott jogszabályokat.
+78. § (1) A kiszabás alapján fizetendő illetékről – ideértve a mulasztási bírságot is – fizetési meghagyást (határozatot) kell kiadni. A fizetési meghagyás tartalmazza a kiszabott illeték összegének megállapításánál figyelembe vett adatokat és az alkalmazott jogszabályokat. A 16. § (1) bekezdésének i) pontja vagy a 17. § (1) bekezdésének p) pontja szerinti illetékmentesség alkalmazása esetén az állami adóhatóság fizetési meghagyás kibocsátása helyett döntését az ügyiratra jegyzi fel.
 
 (2) Ha az illeték kiszabásakor a rendelkezésre álló adatok alapján az illeték alapja egyértelműen nem állapítható meg, az állami adóhatóság a fizetési meghagyásban közli az ügyféllel, hogy a határozatmódosításának a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint a döntés módosítására vagy visszavonására nyitva álló időtartamon belül van helye.
 
@@ -1312,6 +1314,12 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 99/A. § E törvénynek a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20. alcímével megállapított 67. § (3a) és (3b) bekezdését, valamint módosított 67. § (2) bekezdését a módosítások hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 99/B. § A Mellékletnek a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20. alcímével hatályon kívül helyezett XV. pont 3. alpontját a hatályvesztést megelőzően indult eljárásokban alkalmazni kell.
+
+99/C. § (1) A 78. § (1) bekezdésének az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvénnyel megállapított szövege valamennyi olyan illetékügyben alkalmazható, melyben a hatálybalépéskor az állami adóhatóság fizetési meghagyást még nem adott ki.
+
+(2) A 8. § (1) bekezdésének, a 12. § (5) bekezdésének, a 13. § (7) bekezdésének, valamint 17/A. §-ának az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvénnyel megállapított szövegét a hatálybalépéskor az állami adóhatóság által jogerősen még el nem bírált illetékügyekben kell alkalmazni.
+
+(3) A 18. § (2) bekezdése h) pontjának és 24. § (6) bekezdésének az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvénnyel megállapított szövegét a hatálybalépést követően illetékkiszabásra bemutatott vagy más módon az állami adóhatóság tudomására jutott vagyonszerzési ügyekben kell alkalmazni.
 
 ### Felhatalmazás
 
