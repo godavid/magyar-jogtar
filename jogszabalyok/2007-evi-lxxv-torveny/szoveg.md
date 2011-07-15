@@ -160,13 +160,24 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 8/A. § A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérően, ha a kamara a rá irányadó ügyintézési határidőn belül nem hozott határozatot, az ügyfelet nem illeti meg a kérelmezett tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
 
-9. § (1) Az ügyfél kérelmére indított kamarai hatósági eljárásért – a 30. § (3) bekezdése, a 41. § (2) bekezdése, az 52. § (2) bekezdése, a 69. § (3) bekezdése, a 71. § (3) bekezdése, a 94. § (3) bekezdése, a 101. § (2) bekezdése, a 104. § (3) bekezdése és a 105. § (3) bekezdése szerinti eljárás kivételével – az ügyfélnek a Magyar Könyvvizsgálói Kamara központi számlájára igazgatási szolgáltatási díjat kell fizetnie. Az igazgatási szolgáltatási díj a kamara bevétele.
+9. § (1) Az ügyfél kérelmére indított kamarai hatósági eljárásért – a (2)–(4) bekezdés kivételével – az ügyfélnek a Magyar Könyvvizsgálói Kamara központi számlájára igazgatási szolgáltatási díjat kell fizetnie. Az igazgatási szolgáltatási díj a kamara bevétele.
 
-(2) Az (1) bekezdés szerinti igazgatási szolgáltatási díj összege természetes személy ügyfelek esetén 25 000 forint, gazdálkodó szervezetek (szervezetek) esetén 50 000 forint.
+(2) Nem kell igazgatási szolgáltatási díjat fizetni
 
-(3) Az elsőfokú döntés ellen benyújtott fellebbezés díjköteles, melynek díja a (2) bekezdés szerinti igazgatási szolgáltatási díjak 50%-a.
+- a) a kamarai tagsági viszony, valamint a könyvvizsgáló cég engedélye megszűnésének megállapításáért,
+- b) a kamarai tag könyvvizsgáló, könyvvizsgáló cég 49. § szerinti minősítésének visszavonásáért,
+- c) a harmadik országbeli könyvvizsgálók és a harmadik országbeli könyvvizsgáló gazdálkodók jegyzékéből történő törlésért,
+- d) a könyvvizsgáló jelöltek névjegyzékéből való törlésért indított kamarai hatósági eljárásért.
 
-(4) A díjfizetés tárgyára az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. §-ának (2) és (3) bekezdésében foglaltakat, a díjfizetésre kötelezettek körének megállapítására az Itv. 31. §-a (1) bekezdésének első mondatában, valamint a 31. §-ának (7) bekezdésében foglaltakat, a díj visszafizetésére az Itv. 32. §-ában foglaltakat, a mulasztási bírságra az Itv. 82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített állami adóhatóság helyett a kamarát, az illeték helyett díjat kell érteni.
+(3) Az a kamarai tag könyvvizsgáló, aki egyéni vállalkozóként kéri a 35. § szerinti eljárás lefolytatását, mentesül ezen eljárás tekintetében az igazgatási szolgáltatási díjfizetés alól.
+
+(4) A könyvvizsgáló cégként nyilvántartásba vett egyéni vállalkozó az 50. § (3) bekezdés szerinti eljárás tekintetében mentesül az igazgatási szolgáltatási díjfizetés alól.
+
+(5) Az (1) bekezdés szerinti igazgatási szolgáltatási díj összege természetes személy ügyfelek esetén 25 000 forint, gazdálkodó szervezetek (szervezetek) esetén 50 000 forint.
+
+(6) Az elsőfokú döntés ellen benyújtott fellebbezés díjköteles, melynek díja az (5) bekezdés szerinti igazgatási szolgáltatási díjak 50%-a.
+
+(7) A díjfizetés tárgyára az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. §-ának (2) és (3) bekezdésében foglaltakat, a díjfizetésre kötelezettek körének megállapítására az Itv. 31. §-a (1) bekezdésének első mondatában, a díj visszafizetésére az Itv. 32. §-ában foglaltakat, a mulasztási bírságra az Itv. 82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített állami adóhatóság helyett a kamarát, az illeték helyett díjat kell érteni.
 
 ### II. Fejezet — A KAMARAI TAG KÖNYVVIZSGÁLÓ
 
@@ -2103,6 +2114,12 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 (3) E törvénynek a Mód. törvénnyel módosított 5. §-a g) pontját, 91. §-a (2) bekezdésének a) pontját, 97. §-a (2)–(4) bekezdését, 98. §-a (1) bekezdésének c) pontját, 101. §-a (4) bekezdését, 102. §-át a 2011. január 1-jét követően benyújtott kérelmek esetében kell alkalmazni.
 
 (4) E törvénynek a Mód. törvénnyel megállapított, illetve módosított 190. §-a (2) bekezdésének e) pontját, és 191. §-a (1) bekezdésének a) pontját a kihirdetést követő napot követően felkért bizottsági tagokra kell alkalmazni.
+
+208/B. § (1) Az az egyéni vállalkozó, aki 2008. január 1-jén – a Kkt. előírásai alapján – a kamara tagja volt, 2008. január 1-jétől az e törvény 35. §-a szerint engedélyezett könyvvizsgáló cégnek minősül.
+
+(2) Az (1) bekezdés szerint engedélyezett könyvvizsgáló cég 2008. január 1-jétől az e törvény 50. § (3) bekezdése szerint megszerzett minősítéssel rendelkező könyvvizsgáló cégnek minősül azon minősítések vonatkozásában, amelyekkel a könyvvizsgáló cégként nyilvántartásba vett egyéni vállalkozó 2008. január 1-jén rendelkezett.
+
+(3) A kamara az (1)–(2) bekezdésben foglaltak végrehajtásához szükséges hatósági eljárásokat hivatalból folytatja le.
 
 ### Az Európai Unió jogának való megfelelés
 

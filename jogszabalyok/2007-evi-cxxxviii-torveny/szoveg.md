@@ -41,7 +41,7 @@ végez befektetési szolgáltatási tevékenységet,
 
 befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás nyújtására.
 
-(2) Ha e törvény eltérően nem rendelkezik, a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetre – a 8. § (5) bekezdése, 13. §, 15–16. §, 22. § (1)–(3) bekezdése, 25. § (1) bekezdése, 37–39. §, 60. §, 97–99. §, 105–107. §, 121. § és 124–139. § kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet kell érteni.
+(2) Ha e törvény eltérően nem rendelkezik, a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetre – a 8. § (5) bekezdése, 13. §, 15–16. §, 22. § (1)–(3) bekezdése, 25. § (1) bekezdése, 37–39. §, 60. §, 97–99. §, 100. § (1) bekezdés e) pont, 105–107. §, 121. §, 124–139. § és 4. melléklet kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet kell érteni.
 
 (3) A Tpt. szerinti befektetési alapkezelő befektetési szolgáltatási tevékenységet végezhet és kiegészítő szolgáltatást nyújthat azzal, hogy e tevékenysége, illetőleg szolgáltatása tekintetében – a 8. § (5) bekezdésének a)–e) pontja, 22. §, 24–26. §, 37–39. §, 73–75. §, 100–107. § és 124–139. § kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
 
@@ -153,7 +153,7 @@ befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás 
 - 76. közeli hozzátartozó: a Ptk.-ban meghatározott fogalom és az élettárs,
 - 77. likviditás szempontjából leginkább érintett piac: a Bizottság 1287/2006/EK rendeletének 9. cikkében meghatározott fogalom,
 - 78. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
-- 79. multilaterális kereskedési rendszer: harmadik felek pénzügyi eszközökre irányuló, vételi és eladási szándékát szerződést eredményező, megkülönböztetésmentes módon összehozó kereskedési rendszer,
+- 79. multilaterális kereskedési rendszer: olyan kereskedési rendszer, amely harmadik felek pénzügyi eszközökre irányuló, vételi és eladási szándékát hozza össze megkülönböztetésmentes módon, szerződést eredményezve,
 - 80. értékpapír: a Tpt.-ben meghatározott fogalom,
 - 81. konszolidáló felügyeleti hatóság: a Tpt.-ben meghatározott fogalom,
 - 82. javadalmazás: a befektetési vállalkozás által a vezető állású személy, munkavállaló részére minden, a munkaviszony alapján közvetlenül vagy közvetve, pénzbeli, természetbeni, vagyoni jog vagy egyéb formában nyújtott juttatás,
@@ -364,7 +364,7 @@ induló tőkével kell rendelkeznie.
 
 (3) A befektetési vállalkozás, amelynek székhelye a Magyar Köztársaság területén található, a központi irodáját is a Magyar Köztársaság területén jelöli ki.
 
-17. § (1) A befektetési vállalkozás a szervezetén belül az egyes szervezeti egységeket és az ezek működésére és eljárására vonatkozó szabályzatokat úgy alakítja ki, hogy a létrejövő szervezeti felépítés és annak működése – összhangban a befektetési vállalkozás méretével, tevékenységének jellegével és összetettségével –
+17. § (1) A befektetési vállalkozás a szervezetén belül az egyes szervezeti egységeket és az ezek működésére és eljárására vonatkozó szabályzatokat úgy alakítja ki, hogy biztosítsa szervezeti egységeinek és szervezeti megoldásainak megfelelőségét és hatékonyságát, beleértve a hiányosságok kezelésére vonatkozó intézkedéseket, valamint hogy a létrejövő szervezeti felépítés és annak működése – összhangban a befektetési vállalkozás méretével, tevékenységének jellegével és összetettségével –
 
 - a) lehetővé tegye az 5. §-ban foglalt tevékenységek és feladatok független végzését, illetőleg ellátását, ideértve az ehhez szükséges hatáskörök világos és következetes elkülönítését,
 - b) biztosítsa, hogy az egyes szervezeti egységek vezetői ne legyenek alá- vagy fölérendeltségi, illetve utasítási viszonyban egymással, csökkentve ezzel a visszaéléshez vezető személyi érdek-összefonódás lehetőségét,
@@ -1286,7 +1286,7 @@ helyezi el.
 
 ### XIII. Fejezet — A SZERZŐDÉS TELJESÍTÉSE ÉS A MEGBÍZÁS VÉGREHAJTÁSA
 
-61. § (1) A befektetési vállalkozás a befektetési szolgáltatási tevékenysége vagy kiegészítő szolgáltatása keretében az ügyféllel kötött szerződés teljesítése, illetve az ügyfél megbízásának végrehajtása során mindenkor a jogszabályokban foglaltaknak, a szakma szabályainak megfelelően és az ügyfél érdekeivel összhangban jár el.
+61. § (1) A befektetési vállalkozás a befektetési szolgáltatási tevékenysége vagy kiegészítő szolgáltatása keretében az ügyféllel kötött szerződés teljesítése, illetve az ügyfél megbízásának végrehajtása során mindenkor a jogszabályokban foglaltaknak, a szakma szabályainak megfelelően, tisztességes és hatékony módon, az ügyfél érdekeivel összhangban jár el.
 
 (2) Az (1) bekezdésben foglaltaknak megfelelően a befektetési vállalkozás nem kérhet és nem fogadhat el olyan anyagi vagy nem anyagi természetű juttatást, előnyt, amelyet
 
@@ -1305,14 +1305,17 @@ helyezi el.
 (2) Az (1) bekezdés szerinti legkedvezőbb végrehajtás megítéléséhez a befektetési vállalkozás a következő szempontokat vizsgálja:
 
 - a) a megbízás tárgyát képező pénzügyi eszköz árát (nettó ár),
-- b) a megbízás tárgyát képező pénzügyi eszköz tulajdonságait,
-- c) a megbízás költségét,
-- d) a megbízás végrehajtásának időigényét,
-- e) a megbízás végrehajthatóságának és teljesítésének valószínűségét,
-- f) a megbízás nagyságrendjét,
-- g) a megbízás természetét,
-- h) az ügyfél 47–49. § szerinti minősítését, és
-- i) azon szabályozott piac, multilaterális kereskedési rendszer, rendszeres internalizáló, árjegyző vagy egyéb más, a likviditás biztosítására létrejött személy vagy szervezet, illetve ezekhez hasonló funkciót ellátó harmadik országbeli személy vagy szervezet (a továbbiakban: végrehajtási helyszín) tulajdonságait, amelyekhez a megbízás továbbítható.
+- b) a megbízás költségét,
+- c) a megbízás végrehajtásának időigényét,
+- d) a megbízás végrehajthatóságának és teljesítésének valószínűségét, és
+- e) a megbízás nagyságrendjét.
+
+(2a) A (2) bekezdésben felsorolt tényezők fontosságának meghatározásánál a befektetési vállalkozás a következő szempontokat vizsgálja:
+
+- a) a megbízás tárgyát képező pénzügyi eszköz tulajdonságait,
+- b) a megbízás természetét,
+- c) az ügyfél 47–49. § szerinti minősítését, és
+- d) azon szabályozott piac, multilaterális kereskedési rendszer, rendszeres internalizáló, árjegyző vagy egyéb más, a likviditás biztosítására létrejött személy vagy szervezet, illetve ezekhez hasonló funkciót ellátó harmadik országbeli személy vagy szervezet (a továbbiakban: végrehajtási helyszín) tulajdonságait, amelyekhez a megbízás továbbítható.
 
 (3) Ha a befektetési vállalkozás lakossági ügyfél megbízását hajtja végre, akkor minden, az ügyfelet terhelő költséget figyelembe vesz az (1) bekezdésben meghatározott, az ügyfél számára legkedvezőbb végrehajtási lehetőség megállapításakor.
 
@@ -1327,7 +1330,7 @@ helyezi el.
 63. § (1) A befektetési vállalkozás a megbízás ügyfél számára következetesen legkedvezőbb végrehajtása érdekében követendő szabályokról szabályzatot (a továbbiakban: végrehajtási politika) készít, amely tartalmazza
 
 - a) az ügyfél által adott megbízás lehetséges végrehajtási helyszíneinek jegyzékét – figyelemmel a (3) bekezdésben foglaltakra – minden egyes pénzügyi eszköz vonatkozásában,
-- b) azon feltételeket, amelyek – a 62. § (2) bekezdésében foglaltakkal összhangban – befolyásolják a megbízás végrehajtási helyszínének megválasztását és az eljárást, amelyben a befektetési vállalkozás a feltételek mentén a döntését meghozza,
+- b) azon feltételeket, amelyek – a 62. § (2) és (2a) bekezdésében foglaltakkal összhangban – befolyásolják a megbízás végrehajtási helyszínének megválasztását és az eljárást, amelyben a befektetési vállalkozás a feltételek mentén a döntését meghozza,
 - c) az arra való figyelmeztetést, hogy az ügyfélnek a 62. § (6) bekezdése szerinti határozott utasítása megakadályozhatja a befektetési vállalkozást a megbízás ügyfél számára legkedvezőbb módon történő végrehajtásában,
 - d) azon eljárási szabályokat, amelyek az egyes ügyfelek által adott megbízások végrehajtásának sorrendjét – ideértve az egyes ügyfelek megbízásainak összevonását is – határozzák meg,
 - e) az ügyfél által adott limitáras megbízás végrehajtására vonatkozó szabályokat,
@@ -1488,7 +1491,7 @@ elkészíti és írásban vagy más tartós adathordozón az ügyfél rendelkez�
 
 (8) Ha a befektetési vállalkozás portfóliókezelési tevékenysége keretében az ügyfél számára vezetett számlán feltételes kötelezettségvállalással járó nyitott pozíciót tart nyilván vagy ilyen pozíciót eredményező ügylet végrehajtását vállalta, az ügyfél (2) bekezdés szerinti rendelkezésétől függetlenül, legkésőbb a veszteséget eredményező ügylet végrehajtásának napját követő kereskedési napon tájékoztatja az ügyfelet, ha az ügyfél által realizált veszteség meghalad egy, a befektetési vállalkozás és az ügyfél között létrejött szerződésben meghatározott határértéket.
 
-(9) A befektetési vállalkozás tájékoztatja az ügyfelet arról, hogy a (6) bekezdés a) pontjának alkalmazása érdekében jogában áll kérelemmel fordulni a befektetési vállalkozáshoz.
+(9) A befektetési vállalkozás tájékoztatja az ügyfelet arról, hogy a (6) bekezdés b) pontjának alkalmazása érdekében jogában áll kérelemmel fordulni a befektetési vállalkozáshoz.
 
 69. § (1) A befektetési vállalkozás – figyelemmel a (2) bekezdésben foglaltakra – befektetési szolgáltatási tevékenysége keretében kezelt, az ügyfél tulajdonában lévő vagy őt megillető pénzügyi eszközről és pénzeszközről legalább évente, a (3) bekezdésben meghatározott tartalommal jelentést készít és azt írásban vagy más tartós adathordozón az ügyfél rendelkezésére bocsátja.
 
@@ -3063,7 +3066,7 @@ rendeletben állapítsa meg.
 
 ### Átmeneti rendelkezések
 
-182. § (1) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 159. § (2) bekezdésével megállapított 4. mellékletben foglalt javadalmazási politikára vonatkozó belső szabályzatra, valamint javadalmazási bizottság felállítására vonatkozó követelményeknek a befektetési vállalkozás legkésőbb 2011. május 31-től köteles megfelelni.
+182. § (1) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 159. § (2) bekezdésével megállapított 4. mellékletben foglalt javadalmazási politikára vonatkozó belső szabályzatra, valamint javadalmazási bizottság felállítására vonatkozó követelményeknek a befektetési vállalkozás legkésőbb 2011. augusztus 31-től köteles megfelelni.
 
 (2) Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény hatálybalépésekor már meglévő olyan értékpapírt vagy alapvető kölcsöntőkét, amely az e törvény 2010. december 31-én hatályos 2. melléklete szerint megfelel az alapvető tőkével szembeni követelményeknek, de 2011. január 1-től nem felel meg a 2. melléklet 3., 6., 7. vagy 10. pontjában foglalt követelményeknek, 2040. december 31-ig úgy kell tekinteni, mint ami megfelel a vegyes tulajdonságú befizetett jegyzett tőkével, vagy az alapvető kölcsöntőkével szembeni feltételeknek azzal, hogy ezen értékpapír vagy alapvető kölcsöntőke alapvető tőkébe történő beszámíthatóságánál a következő korlátozásokat kell érvényesíteni:
 
@@ -3423,7 +3426,7 @@ c) a vonatkozó szerződés tartalmazza, hogy a lejáratkor vagy azt követően 
 - 3. A javadalmazási politikának összhangban kell állnia a hatékony és eredményes kockázatkezeléssel, elő kell segítenie annak alkalmazását, és nem ösztönözhet a befektetési vállalkozás kockázatvállalási limitjeit meghaladó kockázatok vállalására. A javadalmazási politikának a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel is összhangban kell állnia, valamint az érdekkonfliktus elkerülését célzó intézkedéseket kell tartalmaznia.
 - 4. A javadalmazási politikára vonatkozó szabályokat minden olyan vállalkozás tekintetében alkalmazni kell, amelyekre az összevont alapú felügyelet a befektetési vállalkozással együttesen kiterjed.
 - 5. A javadalmazási politika elveit az igazgatóság fogadja el és vizsgálja felül, a felügyelőbizottság felel annak végrehajtásáért, amelyet legalább évente a befektetési vállalkozás belső ellenőrzése vizsgál felül.
-- 6. Ha a befektetési vállalkozásnak a tárgyévet megelőző naptári évben az egyes hónapokban végrehajtott megbízásainak összértéke átlagosan meghaladja az ötmilliárd forintot, és a tárgyévet megelőző naptári évben összesen végrehajtott megbízásainak összértéke meghaladja a hatvanmilliárd forintot, akkor javadalmazási bizottságot állít fel, amely felügyeli a kockázatkezelésért és a jogszabályoknak történő megfelelésért felelős vezető javadalmazását, valamint előkészíti a javadalmazásra vonatkozó döntéseket a részvényesek, a befektetők és a befektetési vállalkozásban érdekelt egyéb felek hosszú távú érdekeinek figyelembevételével. A javadalmazási bizottság elnöke és tagjai az igazgatóság olyan tagjai közül kerülnek ki, akik az érintett befektetési vállalkozásban nem látják el szervezeti egység vezetését.
+- 6. Ha a befektetési vállalkozásnak a tárgyévet megelőző évi mérlegfőösszege meghaladja a kétszázmilliárd forintot, akkor javadalmazási bizottságot állít fel, amely felügyeli a kockázatkezelésért és a jogszabályoknak történő megfelelésért felelős vezető javadalmazását, valamint előkészíti a javadalmazásra vonatkozó döntéseket a részvényesek, a befektetők és a befektetési vállalkozásban érdekelt egyéb felek hosszú távú érdekeinek figyelembevételével. A javadalmazási bizottság elnöke és tagjai az igazgatóság olyan tagjai közül kerülnek ki, akik az érintett befektetési vállalkozásban nem látják el szervezeti egység vezetését. Ha a befektetési vállalkozás igazgatóságában nincs legalább három olyan igazgatósági tag, aki nem látja el szervezeti egység vezetését, akkor a javadalmazási bizottságban a felügyelő bizottság független tagjai is részt vehetnek.
 - 7. A befektetési vállalkozásnak meg kell határoznia a teljes javadalmazáson belül az alapbér és a teljesítményjavadalmazás arányát. A befektetési vállalkozás belső szabályzatban rögzíti a teljes javadalmazáson belül az alapbér hányadát, amelynek olyan mértékűnek kell lennie, hogy rugalmas javadalmazási politika érvényesülhessen, és lehetőség legyen arra, hogy adott esetben a teljes javadalmazás kizárólag alapbérből álljon.
 - 8. Teljesítményjavadalmazásnál egyszerre kell értékelni az egyén – pénzügyi és nem pénzügyi kritériumokon alapuló –, az érintett szervezeti egység és a befektetési vállalkozás eredményét. A teljesítményértékelés alapja a befektetési vállalkozás hosszú távú teljesítménye, ezért az értékelésnek többéves időtávra kell kiterjednie, a teljesítményjavadalmazás kifizetésére kötelezettséget vállalni csak kivételesen, új munkavállaló felvételekor egy évre lehet. A teljesítményjavadalmazásként szétosztható összeg meghatározásánál figyelembe kell venni a jelenlegi és jövőbeni kockázatokat, a tőke költségét és a szükséges likviditást.
 - 9. A teljesítményjavadalmazás legalább 50%-a jogszabály eltérő rendelkezése hiányában a következőkből áll:
