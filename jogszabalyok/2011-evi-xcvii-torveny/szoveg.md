@@ -4,11 +4,11 @@ az Európai Unió és tagállamai, másrészről a Koreai Köztársaság közöt
 
 1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Unió és tagállamai, másrészről a Koreai Köztársaság közötti Szabadkereskedelmi Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
 
-2. § Az Országgyűlés a Megállapodást e törvénnyel kihirdeti.
+2. §
 
-3. § A Megállapodás hiteles magyar nyelvű szövegét e törvény 1. melléklete tartalmazza.
+3. §
 
-4. §
+4. § Az Országgyűlés jóváhagyja a Megállapodásnak – az egyrészről az Európai Unió és tagállamai, másrészről a Koreai Köztársaság közötti szabadkereskedelmi megállapodásnak az Európai Unió nevében történő aláírásáról és ideiglenes alkalmazásáról szóló 2011/265/EU tanácsi határozatban foglaltak szerinti – a 15.10. cikk (5) bekezdésében meghatározott időponttól kezdődően történő ideiglenes alkalmazását.
 
 5. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -16,7 +16,7 @@ az Európai Unió és tagállamai, másrészről a Koreai Köztársaság közöt
 
 (3) A 4. § a Megállapodás 15.10. cikk (2) bekezdésében meghatározott időpontban hatályát veszti.
 
-(4) Ez a törvény hatályát veszti, ha a másik szerződő fél arról értesíti Magyarországot, hogy nem kíván a szerződésben részes féllé válni, azon a napon, amelyen az erről szóló értesítést a külpolitikáért felelős miniszternek kézbesítették.
+(4) Ez a törvény hatályát veszti, ha a másik szerződő fél arról értesíti a Magyar Köztársaságot, hogy nem kíván a szerződésben részes féllé válni, azon a napon, amelyen az erről szóló értesítést a külpolitikáért felelős miniszternek kézbesítették.
 
 (5) A Megállapodás hatálybalépésének naptári napját, valamint a (2)–(4) bekezdésben meghatározott időpontok naptári napját a külpolitikáért felelős miniszter – azok ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
