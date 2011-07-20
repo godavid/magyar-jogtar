@@ -1165,7 +1165,7 @@ biztonsági kockázatú lehet.
 
 (5) A szervező a résztvevőt a beléptetés feltételeiről, az ellenőrzés módjáról és az eltávolítás lehetőségéről a sportlétesítményen kívül és annak területén jól látható hirdetményekben köteles tájékoztatni, és e feltételeket a belépőjegyen, bérleten is fel kell tüntetni.
 
-72. § (1) A szervező a résztvevők egyedi azonosítására alkalmas biztonsági beléptetési és ellenőrző rendszert (a továbbiakban: beléptető rendszer) alkalmazhat, a kiemelt biztonsági kockázatú sportrendezvény esetében beléptető rendszert alkalmaz. A rendező a beléptetés során jogosult a résztvevők személyazonosságát ellenőrizni.
+72. § (1) A szervező a résztvevők egyedi azonosítására alkalmas biztonsági beléptetési és ellenőrző rendszert (a továbbiakban: beléptető rendszer) alkalmazhat. A rendező a beléptetés során jogosult a résztvevők személyazonosságát ellenőrizni.
 
 (2) Beléptető rendszer alkalmazása esetén a szervező
 
