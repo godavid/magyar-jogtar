@@ -796,7 +796,7 @@ tehető.
 - b) a hírközlési hatóság eljárásainak díjai és a felügyeleti díj megfizetésének módját és feltételeit, valamint – a hírközlési hatóság véleményét kikérve – e díjak mértékét az adópolitikáért felelős miniszterrel egyetértésben;
 - c) az egyetemes postai szolgáltatások költségszámítására vonatkozó elveket és szabályokat;
 - d) a hírközlési hatóság feladatainak ellátásához szükséges, a piaci szereplők által szolgáltatott – a személyes adatokat nem érintő – adatok körét, a piaci szereplőket terhelő adatszolgáltatási kötelezettség teljesítésének feltételeit, a hírközlési hatóság adatkezelésére, nyilvántartás-vezetésére vonatkozó szabályokat;
-- e) a számviteli nyilvántartások 34. § (2) bekezdés szerinti elkülönített vezetésének részletes szabályait;
+- e) a számviteli nyilvántartások elkülönített vezetésének, és a számviteli elkülönítési rendszer ellenőrzésének részletes szabályait;
 - f) a védelmi feladatokban részt vevő postai szolgáltatók kijelölését és felkészülési feladataik meghatározását;
 - g) a postai ágazat ügyeleti rendszerének létrehozását, működését, feladatait és hatáskörét;
 - h) a postai szolgáltatóval szemben benyújtott panasz, illetve a panaszeljárás kivizsgálásával kapcsolatos hatósági eljárás részletes szabályait;

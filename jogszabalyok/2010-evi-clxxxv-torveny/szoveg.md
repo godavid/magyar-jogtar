@@ -1617,7 +1617,7 @@ közönségarányát.
 
 (3) Az Alap gondoskodik a közszolgálati médiavagyon, valamint a közszolgálati médiaszolgáltatók és az Alap tulajdonába került, a közszolgálati médiavagyon körébe nem tartozó, a szerzői jogi törvény hatálya alá tartozó műveket és más teljesítményeket tartalmazó fizikai hordozók (a továbbiakban együtt: Archívum) tárolásáról, megőrzéséről és felhasználásáról. Az Archívum országos gyűjtőkörű közgyűjteménynek minősül.
 
-(4) Az archiválás és az Archívum megőrzésének, kezelésének, felhasználásának részletes szabályait az Alap elnöke a Médiatanács egyetértésével, szabályzatban állapítja meg.
+(4) Az archiválás és az Archívum megőrzésének, kezelésének, felhasználásának részletes szabályait az Alap vezérigazgatója a Médiatanács egyetértésével, szabályzatban állapítja meg.
 
 (5) Az Alap az Archívumban található műveket a szerzői jogról szóló törvényben foglaltak, valamint a szerzői jogi és szomszédos jogi jogosultakkal kötött megállapodás szerint használhatja fel.
 
@@ -1629,7 +1629,7 @@ közönségarányát.
 
 (9) A közszolgálati médiavagyonba tartozó művek esetleges – az Alapon kívüli – szerzői jogi jogosultjait is megfelelő díjazás illeti meg. Vita esetén a díj összegét a bíróság állapítja meg.
 
-(10) Eltérő megállapodás vagy a (6) bekezdésben foglalt vagyonkezelési szerződés eltérő rendelkezése hiányában a közszolgálati médiaszolgáltatóknak a közszolgálati médiavagyon általuk kezelt elemeire vonatkozó felhasználási jogszerzésére, valamint a közszolgálati médiavagyon egyes elemeinek közszolgálati médiaszolgáltatók közötti ingyenes átadására a szerzői jogról szóló 1999. évi LXXVI. törvény 30. §-ának (3) és (4) bekezdésében foglaltakat nem kell alkalmazni.
+(10) Eltérő megállapodás vagy a (6) bekezdésben foglalt vagyonkezelési szerződés eltérő rendelkezése hiányában a közszolgálati médiaszolgáltatóknak a közszolgálati médiavagyon általuk kezelt elemeire vonatkozó felhasználási jogszerzésére, valamint a közszolgálati médiavagyon egyes elemeinek közszolgálati médiaszolgáltatók közötti ingyenes átadására a szerzői jogról szóló 1999. évi LXXVI. törvény 30. §-ának (3) bekezdésében foglaltakat nem kell alkalmazni.
 
 ### A nemzeti hírügynökség különleges feladatai
 
@@ -1765,7 +1765,7 @@ Ennek keretében:
 
 - a) a közszolgálati médiaszolgáltatók vezérigazgatói,
 - b) az Alap vezérigazgatója,
-- c) az Állami Számvevőszék elnöke által – a Számvevőszék vezető állású tisztségviselői közül – esetileg delegált két tag.
+- c) az Állami Számvevőszék elnöke által esetileg delegált két tag. E tagok tiszteletdíját az Alap vezérigazgatója állapítja meg, rájuk a 104. §-ban és a 118. §-ban foglalt összeférhetetlenségi szabályok értelemszerűen vonatkoznak.
 
 (4) A Tanács minden év szeptember 30-ig dönt az (1) bekezdésben meghatározott, a következő évben a közszolgálati médiaszolgáltatók műsorszámaira, közszolgálati feladatainak ellátására rendelkezésre álló források elosztásáról. Döntése során figyelembe veszi az e törvényben és a Kódexben meghatározott közszolgálati célokat, illetve az egyes közszolgálati médiaszolgáltatók különleges feladatait. A Tanács döntését egyszerű többséggel hozza, döntését az Alap internetes honlapján nyilvánosságra hozza. A Tanács döntését különösen indokolt esetben – kétharmados szavazattöbbséggel – utólag módosíthatja. A módosításra irányuló döntést az Alap vezérigazgatója kezdeményezheti.
 

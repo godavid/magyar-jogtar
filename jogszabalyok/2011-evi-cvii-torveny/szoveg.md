@@ -4,11 +4,7 @@ egyes elektronikus hírközlési tárgyú törvények módosításáról
 
 #### I. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-1–59. §
-
-60. § (1)–(2)
-
-(3) Az Elnök az Eht. 182. § (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, e törvény hatálybalépését megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépéséig maradnak hatályban.
+1–60. §
 
 #### II. A Nemzeti Audiovizuális Archívumról szóló 2004. évi CXXXVII. törvény módosítása
 
@@ -26,7 +22,17 @@ egyes elektronikus hírközlési tárgyú törvények módosításáról
 
 64. § (1)–(37)
 
-(38)–(40)
+(38) Az Mttv. 100. § (4) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(4) Az archiválás és az Archívum megőrzésének, kezelésének, felhasználásának részletes szabályait az Alap vezérigazgatója a Médiatanács egyetértésével, szabályzatban állapítja meg.”
+
+(39) Az Mttv. 100. § (10) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(10) Eltérő megállapodás vagy a (6) bekezdésben foglalt vagyonkezelési szerződés eltérő rendelkezése hiányában a közszolgálati médiaszolgáltatóknak a közszolgálati médiavagyon általuk kezelt elemeire vonatkozó felhasználási jogszerzésére, valamint a közszolgálati médiavagyon egyes elemeinek közszolgálati médiaszolgáltatók közötti ingyenes átadására a szerzői jogról szóló 1999. évi LXXVI. törvény 30. §-ának (3) bekezdésében foglaltakat nem kell alkalmazni.”
+
+(40) Az Mttv. 108. § (3) bekezdés c) pontja helyébe az alábbi rendelkezés lép:
+
+„c) az Állami Számvevőszék elnöke által esetileg delegált két tag. E tagok tiszteletdíját az Alap vezérigazgatója állapítja meg, rájuk a 104. §-ban és a 118. §-ban foglalt összeférhetetlenségi szabályok értelemszerűen vonatkoznak.”
 
 (41)–(76)
 
@@ -42,7 +48,11 @@ egyes elektronikus hírközlési tárgyú törvények módosításáról
 
 67–69. §
 
-70. §
+70. § A Posta tv. 53. § (2) bekezdésének e) pontja helyébe az alábbi szöveg lép:
+
+[Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg]
+
+„e) a számviteli nyilvántartások elkülönített vezetésének, és a számviteli elkülönítési rendszer ellenőrzésének részletes szabályait;”
 
 #### IX. Záró rendelkezések
 
@@ -50,12 +60,6 @@ egyes elektronikus hírközlési tárgyú törvények módosításáról
 
 (2) E törvény 1. §–63. §-ai, a 64. § (1)–(37) bekezdései, a 64. § (41)–(76) bekezdései, a 65. §–69. §-ai, a 71. § (3) bekezdése, valamint a 72. § a kihirdetést követő 15. napon lép hatályba.
 
-(3) E törvény rendelkezéseit – figyelemmel e törvény 55. §-ára is – a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatályba lépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
+(3)
 
-72. § (1) Ez a törvény az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) és Hivatalának létrehozásáról szóló az Európai Parlament és a Tanács 1211/2009/EK rendelete (2009. november 25.) végrehajtásához szükséges rendelkezéseket állapít meg.
-
-(2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-- a) az Európai Parlament és a Tanács 2009/136/EK irányelve (2009. november 25.) az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálózatokhoz és elektronikus hírközlési szolgáltatásokhoz kapcsolódó felhasználói jogokról szóló 2002/22/EK irányelv, az elektronikus hírközlési ágazatban a személyes adatok kezeléséről, feldolgozásáról és a magánélet védelméről szóló 2002/58/EK irányelv és a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK rendelet módosításáról,
-- b) az Európai Parlament és a Tanács 2009/140/EK irányelve (2009. november 25.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv, az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról szóló 2002/19/EK irányelv és az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002/20/EK irányelv módosításáról,
-- c) a Bizottság 2007/344/EK határozata (2007. május 16.) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról.
+72. §
