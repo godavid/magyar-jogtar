@@ -138,3 +138,5 @@ A lelkiismereti és vallásszabadság érvényre juttatása, a mások meggyőző
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy az egyházak nyilvántartásának ügyviteli szabályait megállapítsa.
 
 (4)
+
+25. § A Nemzeti Gazdasági és Társadalmi Tanácsba a Kormánnyal átfogó megállapodást kötött egyházak delegálhatnak tagot.

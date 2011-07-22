@@ -93,45 +93,13 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 
 ### Országos Érdekegyeztető Tanács
 
-9. § A Kormány az országos jelentőségű foglalkoztatáspolitikai kérdésekben a munkavállalók és a munkaadók országos érdekképviseleti szervezeteivel az Országos Érdekegyeztető Tanácsban (a továbbiakban: OÉT) egyeztet. Ennek során az OÉT
-
-- a) véleményezi a foglalkoztatást közvetlenül érintő törvénytervezeteket,
-- b) évente beszámoltatja a Munkaerőpiaci Alap Irányító Testületét,
-- c) a munkájában résztvevő országos munkaadói és munkavállalói szövetségek útján kijelöli a Munkaerőpiaci Alap Irányító Testületének a munkaadói, továbbá munkavállalói képviselőit, és javaslatot tesz a visszahívásukra.
+#### 9. §
 
 ### A Munkaerőpiaci Alap Irányító Testülete
 
-10. § (1) A Munkaerőpiaci Alap Irányító Testülete (a továbbiakban: MAT) a munkaadók, a munkavállalók és a Kormány képviselőiből álló testület, amely a Munkaerőpiaci Alappal kapcsolatos jogokat, illetőleg kötelezettségeket az e törvényben foglaltak szerint gyakorolja, illetőleg teljesíti.
+#### 10. §
 
-(2) A MAT munkaadói oldala a munkaadók képviselőiből, munkavállalói oldala a munkavállalók képviselőiből, kormányzati oldala a Kormány képviselőiből áll.
-
-(3) A MAT megbízatása négy évre szól.
-
-(4) Ha a MAT a megbízatásának lejártát követő munkanapig nem alakul meg, a Munkaerőpiaci Alap foglalkoztatási alaprészével kapcsolatos döntési jogkörét a miniszter gyakorolja.
-
-10/A. § (1) A MAT tagjait a munkaadók képviselői tekintetében az OÉT-ben képviselettel rendelkező országos munkaadói szövetségek, a munkavállalók képviselői tekintetében az OÉT-ben képviselettel rendelkező országos munkavállalói szövetségek jelölik, egyéb megegyezés hiányában az általuk képviseltek részéről teljesített munkaerő-piaci járulékfizetés arányának figyelembevételével. A MAT tagjait a miniszter bízza meg, valamint vonja vissza a megbízást. A Kormány képviseletét ellátó tagok közül a megbízásra, illetőleg a megbízás visszavonására egy tag esetében az államháztartásért felelős miniszter, egy tag esetében az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter tesz javaslatot, további négy tag esetében a megbízásról, illetőleg a megbízás visszavonásáról a miniszter a saját hatáskörében dönt.
-
-(2) A MAT új tagját, ha a korábbi tag megbízatásának megszűnésére
-
-- a) a MAT megbízatásának lejárta miatt került sor, legkésőbb a lejáratot megelőző 15. napig,
-- b) egyéb okból kerül sor, az ok bekövetkezésétől számított 30 napon belül
-
-kell jelölni.
-
-(3) A MAT-nak nem lehet tagja, illetve nem vehet részt a szervezetét érintő döntések meghozatalában az a személy, aki olyan szervezetnek a tulajdonosa, vezető tisztségviselője, vezető állású munkavállalója, amelyet a MAT döntései közvetlenül érintenek. E rendelkezés alkalmazása szempontjából a Kormány képviseletét ellátó tagok tekintetében figyelmen kívül kell hagyni a Miniszterelnökséggel, a minisztériumokkal, az országos hatáskörű szervekkel, továbbá az állami foglalkoztatási szervvel fennálló közszolgálati és közalkalmazotti jogviszonyt.
-
-(4) A MAT egyes oldalain résztvevő tagok száma hat főnél több nem lehet.
-
-(5) A tagok megbízatása a MAT megbízatásának időtartamára szól. A MAT döntéseinek meghozatalában csak az vehet részt, aki megbízólevéllel rendelkezik.
-
-(6) Ha a szavazásra a MAT
-
-- a) oldalai jogosultak, az oldalak szavazata egyenlő,
-- b) tagjai jogosultak, az egyes oldalak hat-hat szavazattal rendelkeznek.
-
-(7) A MAT közszolgálati jogviszonyban nem álló tagjai a miniszter által meghatározott tiszteletdíjban részesülnek.
-
-(8) A MAT ügyrendjét egyhangúan maga határozza meg.
+#### 10/A. §
 
 ### Munkaügyi Tanács
 
@@ -220,7 +188,7 @@ kell jelölni, illetőleg megválasztani.
 - a) a gyermekgondozási segélyben, gyermekgondozási díjban részesülő személy képzése a gyermek egy éves – gyermekgondozási díj folyósítása esetén másfél éves – korának betöltését követően kezdődik meg, valamint
 - b) a gyermekgondozási segélyben, gyermeknevelési támogatásban részesülő személy kereső tevékenységet nem folytat.
 
-(3) A MAT meghatározhatja a képzési támogatásban részesíthetők további körét.
+(3)
 
 (4) Képzési támogatásként
 
@@ -324,9 +292,9 @@ adható.
 
 (3) A 13/A. § (1)–(2) bekezdésében meghatározott szolgáltatások, a 14. §-ban, a 16–18. §-okban, valamint a 19/B–19/C. §-okban meghatározott támogatások a Társadalmi Megújulás Operatív Program keretében az állami foglalkoztatási szerv közreműködésével megvalósításra kerülő munkaerő-piaci programokban is nyújthatók.
 
-(4) A miniszter – a MAT véleményének meghallgatásával – rendeletben határozza meg a 14–19. §-ban, valamint a 19/B–19/C. §-ban meghatározott támogatások további feltételeit, odaítélésének, megszüntetésének és visszakövetelésének részletes szabályait. A miniszter a 45. életévüket betöltött, valamint a roma származású személyek munkaerőpiaci helyzetének javítása, foglalkoztatásának elősegítése érdekében e törvényben foglaltaknál kedvezőbb szabályokat állapíthat meg.
+(4) A miniszter rendeletben határozza meg a 14–19. §-ban, valamint a 19/B–19/C. §-ban meghatározott támogatások további feltételeit, odaítélésének, megszüntetésének és visszakövetelésének részletes szabályait. A miniszter a 45. életévüket betöltött, valamint a roma származású személyek munkaerőpiaci helyzetének javítása, foglalkoztatásának elősegítése érdekében e törvényben foglaltaknál kedvezőbb szabályokat állapíthat meg.
 
-(5) Felhatalmazást kap a miniszter, hogy – a MAT véleményének meghallgatásával – rendeletben határozza meg
+(5) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
 - a) a keresetpótló juttatás összegének differenciált megállapítására vonatkozó szabályokat, valamint
 - b) a 14/A. §-ban meghatározott megállapodás esetén a kötelezően nyújtandó képzési támogatás szabályait.
@@ -602,7 +570,7 @@ időtartamra folyósítható.
 
 - a) szolidaritási alaprészt az álláskeresési járadék, az álláskeresési segély, a munkanélküli járadék, a pályakezdők munkanélküli segélye, az előnyugdíj, a nyugdíj előtti munkanélküli segély, az álláskeresést ösztönző juttatás, a költségtérítés (31. §), valamint ezek juttatásával kapcsolatos postaköltség, továbbá a kifizetett ellátásokat terhelő, a társadalombiztosítási szabályokban meghatározott járulék finanszírozására, valamint a válság miatt létszámleépítéssel érintett munkavállalók foglalkoztatásának – az álláskeresési támogatás folyósítása helyett történő – elősegítésére;
 - b)
-- c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által az alap- és középfokú oktatási intézményben pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, a MAT működtetésére, a munkaügyi tanácsok működéséhez való hozzájárulásra, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
+- c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által az alap- és középfokú oktatási intézményben pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
 - d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás finanszírozására;
 - e) a képzési alaprészt, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben, valamint a felnőttképzésről szóló törvényben meghatározott feladatok, támogatási programok finanszírozására;
 - f)–g)
@@ -644,45 +612,18 @@ időtartamra folyósítható.
 
 39/A. § (1) A Munkaerőpiaci Alappal a miniszter rendelkezik. Rendelkezési jogát
 
-- a) a (2)–(5) bekezdésben foglaltak szerint a MAT-tal megosztva,
+- a)
 - b) a Munkaerőpiaci Alap képzési alaprésze tekintetében – a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározottak szerint – az oktatásért felelős miniszterrel megosztva gyakorolja.
 
-(2) A MAT a Munkaerőpiaci Alap tekintetében
+(2)–(4)
 
-- a)
-- b) dönt 1. a Munkaerőpiaci Alap egyes alaprészei közötti átcsoportosításról – a képzési célú alaprész pénzeszközeiből történő átcsoportosítás kivételével – 2. az érdekegyeztetés működési feltételeinek biztosításához történő hozzájárulásról, annak felhasználási módjáról, 3. a gazdaságfejlesztést, területfejlesztést szolgáló központi programokhoz való csatlakozásról, továbbá kiemelten az esélyegyenlőséget segítő programok Munkaerőpiaci Alapból történő hazai finanszírozásáról, 4. a projektek benyújtását megelőzően a PHARE, majd az Európai Szociális Alap társfinanszírozásával megvalósuló munkaerőpiaci programok Munkaerőpiaci Alapból történő hazai finanszírozásáról 5. az állami foglalkoztatási szervnek a MAT által indított programokhoz tartozó feladatairól;
-- c) véleményezi a Munkaerőpiaci Alap éves költségvetését;
-- d) véleményezi az álláskeresők támogatásaira, a foglalkoztatást elősegítő támogatásokra, a Munkaerőpiaci Alappal való gazdálkodásra vonatkozó jogszabálytervezeteket, valamint – a munkahelyteremtő támogatások kivételével – a miniszter egyedi döntéseinek tervezetét. A miniszter az álláskeresők támogatásaira, a foglalkoztatást elősegítő támogatásokra, a munkahelyteremtést, foglalkoztatási szerkezetátalakítást segítő programok és támogatások szabályaira vonatkozó rendeletet a MAT véleményének meghallgatása nélkül adja ki, ha a MAT álláspontja az erről szóló előterjesztés benyújtását követő 30 napon belül nem született meg;
-- e) értékeli 1. rendszeresen, de legalább félévenként a Munkaerőpiaci Alap pénzeszközeinek felhasználását, 2. a Munkaerőpiaci Alap éves beszámolóját, 3. a munkanélküli ellátások és foglalkoztatást elősegítő támogatások, valamint az állami foglalkoztatási szerv ellenőrzése során szerzett tapasztalatokat;
-- f) az e) pontban meghatározott értékelés alapján intézkedéseket kezdeményezhet;
-- g) a Munkaerőpiaci Alap felhasználásáról szakértői vizsgálatokat kezdeményezhet;
-- h) határoz a Munkaerőpiaci Alap felhasználására vonatkozó döntések nyilvánosságra hozatalának módjáról;
-- i) tájékoztatást kérhet a munkaügyi tanácsoktól.
-
-(3) A MAT
-
-- a) a foglalkoztatási alaprész tekintetében dönt 1. a központi és decentralizált keret arányáról, a decentralizálás elveiről, valamint az átcsoportosításokról, 2. központi foglalkoztatási, képzési, a megváltozott munkaképességű álláskeresők és a fogyatékos személyek képzését, az esélyegyenlőséget elősegítő képzési, valamint a munkaerőpiaci integrációs programok indításáról, valamint a programokhoz kapcsolódó költségekről, 3. foglalkoztatási és képzési célú közalapítványok támogatásáról;
-- b)
-- c) a képzési alaprész tekintetében rendszeresen tájékoztatást kérhet a Nemzeti Szakképzési és Felnőttképzési Tanácsnak a Munkaerőpiaci Alapot érintő javaslatairól.
-
-(4) A miniszter
-
-- a) dönt a közfoglalkoztatási támogatások előirányzat központi és decentralizált keretének arányáról és a decentralizálás elveiről;
-- b) dönt a Munkaerőpiaci Alap egyes alaprészei közötti átcsoportosításról, ha a MAT döntése 1. jogszabályba ütközik, 2. veszélyezteti a munkanélküli ellátások kifizetésének biztonságát, 3. az előterjesztés benyújtásától számított 30 napon belül nem születik meg;
-- c) a foglalkoztatási alaprész tekintetében dönt a központi és decentralizált pénzeszközök arányáról, a decentralizálás elveiről, ha a MAT döntése 1. jogszabályba ütközik, 2. nem születik meg a tárgyév január 30-áig, illetve az előterjesztés benyújtását követő 30 napon belül;
-- d)
-- e) a MAT-nak a (2) bekezdés g) pontja szerinti kezdeményezésére szakértői vizsgálatot rendel el.
-
-(5) A miniszter dönt
-
-- a) – a b) pontban meghatározott kivétellel – a foglalkoztatási alaprész központi pénzügyi keretének felhasználásáról,
-- b) központi foglalkoztatási, képzési és munkaerőpiaci integrációs programok indításáról és költségeiről, ha a MAT döntése 1. jogszabályba ütközik, 2. nem születik meg a tárgyév január 30-áig, illetve az előterjesztés benyújtását követő 30 napon belül.
+(5)
 
 (6)
 
 (7)
 
-(8) A miniszter a Munkaerőpiaci Alap év végi egyenlegének megóvása érdekében a MAT véleményének meghallgatásával dönthet
+(8) A miniszter a Munkaerőpiaci Alap év végi egyenlegének megóvása érdekében dönthet
 
 - a) a keletkezett többletbevételek felhasználásának mértékéről,
 - b) a kiadások évközi ütemezésének módosításáról,
@@ -694,13 +635,13 @@ időtartamra folyósítható.
 
 (11)
 
-39/B. § (1) A Munkaerőpiaci Alap egyes alaprészeinek pénzeszközei a MAT, illetőleg a miniszter döntése szerint egymás közt átcsoportosíthatók, feltéve, ha erre az eredeti előirányzatokon felül képződő többletbevételek fedezetet biztosítanak, vagy az egyes alaprészek tényleges kiadásainak az előirányzatoktól való elmaradása várhatóan fedezetet nyújt.
+39/B. § (1) A Munkaerőpiaci Alap egyes alaprészeinek pénzeszközei a miniszter döntése szerint egymás közt átcsoportosíthatók, feltéve, ha erre az eredeti előirányzatokon felül képződő többletbevételek fedezetet biztosítanak, vagy az egyes alaprészek tényleges kiadásainak az előirányzatoktól való elmaradása várhatóan fedezetet nyújt.
 
 (2)–(3)
 
 (4)
 
-(5) A Munkaerőpiaci Alap foglalkoztatási alaprésze terhére tárgyéven túli fizetési kötelezettség a MAT által meghatározott mértékig vállalható, amely nem haladhatja meg a tárgyévi eredeti, előirányzat módosítás esetén a módosított kiadási előirányzat 40 százalékát.
+(5) A Munkaerőpiaci Alap foglalkoztatási alaprésze terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékig vállalható, amely nem haladhatja meg a tárgyévi eredeti, előirányzat-módosítás esetén a módosított kiadási előirányzat 40 százalékát.
 
 (6) A Munkaerőpiaci Alap közfoglalkoztatási támogatások előirányzata terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékben, legfeljebb a tárgyévi költségvetési támogatás összegének 40%-os mértékéig vállalható.
 

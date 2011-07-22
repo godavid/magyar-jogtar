@@ -740,7 +740,7 @@ véleményezésre megküldi.
 (2) A települési önkormányzati környezetvédelmi alap bevételei:
 
 - a) a települési önkormányzat által jogerősen kiszabott környezetvédelmi bírság teljes összege,
-- b) az illetékes környezetvédelmi hatóság által a települési önkormányzat területén jogerősen kiszabott környezetvédelmi bírságok összegének harminc százaléka,
+- b) az illetékes környezetvédelmi hatóság által a települési önkormányzat területén jogerősen kiszabott környezetvédelmi bírságok összegének harminc százaléka a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben jogerősen kiszabott környezetvédelmi bírságok kivételével,
 - c) a környezetterhelési díjak és az igénybevételi járulékok külön törvényben meghatározott része,
 - d) a települési önkormányzat bevételeinek környezetvédelmi célokra elkülönített összege,
 - e) egyéb bevételek.
@@ -1319,6 +1319,8 @@ A KÖRNYEZETVÉDELEMBEN
 106. § (1) Aki jogszabályban, hatósági határozatban, közvetlenül alkalmazandó közösségi jogi aktusban megállapított, közvetlenül vagy közvetve a környezet védelmét szolgáló előírást megszeg, illetve határértéket túllép, a jogsértő magatartás súlyához – így különösen az általa okozott környezetszennyezés, illetőleg környezetkárosítás mértékéhez, időtartamához és ismétlődéséhez – igazodó környezetvédelmi bírságot köteles fizetni.
 
 (2) A környezetvédelmi bírságot a környezet igénybevételi járulékon és a környezetterhelési díjon felül kell megfizetni. A környezetvédelmi bírság adók módjára behajtandó köztartozás.
+
+(3) A környezetvédelmi hatóság által jogerősen kiszabott környezetvédelmi bírság teljes összege – ha a bírság kiszabását megalapozó esemény miatt veszélyhelyzet kihirdetésére került sor – a központi költségvetés központosított bevétele.
 
 107. § A környezetvédelmi bírság nem mentesít a büntetőjogi, a szabálysértési, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a megfelelő védekezés kialakítására, a természetes vagy korábbi környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
 

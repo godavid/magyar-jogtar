@@ -1008,11 +1008,11 @@ eredményeképpen keletkeztek.
 
 (2) A céltartalék olyan, a költségvetésben meghatározott előirányzat, amely évközi központi (kormányzati) intézkedés fedezetéül szolgál az adott alrendszerben, s amelynek célját és rendeltetését egyidejűleg meghatározták, azonban az előirányzat fejezet, cím, alcím szerinti felhasználásának megoszlása a költségvetési törvény elfogadásakor még nem ismert
 
-38/A. § (1) A Kormány az államháztartás alrendszerei költségvetési egyenlegének a tervezettől tartósan és jelentős mértékben eltérő, kedvezőtlen alakulása, vagy megelőző intézkedésként ezt közvetlenül előidéző körülmények bekövetkezése esetén a központi költségvetésben, az alapoknál – a Munkaerőpiaci Alap esetében a Munkaerőpiaci Alap Irányító Testülete véleményének előzetes kikérésével –, és a társadalombiztosítás pénzügyi alapjainál előirányzatokat zárolhat, csökkenthet, illetve törölhet azon előirányzatok kivételével, amelyeknek évközi megváltoztatási jogát az Országgyűlés magának tartotta fenn.
+38/A. § (1) A Kormány az államháztartás alrendszerei költségvetési egyenlegének a tervezettől tartósan és jelentős mértékben eltérő, kedvezőtlen alakulása, vagy megelőző intézkedésként ezt közvetlenül előidéző körülmények bekövetkezése esetén a központi költségvetésben, az alapoknál és a társadalombiztosítás pénzügyi alapjainál előirányzatokat zárolhat, csökkenthet, illetve törölhet azon előirányzatok kivételével, amelyeknek évközi megváltoztatási jogát az Országgyűlés magának tartotta fenn.
 
 (2) Ha az (1) bekezdés alapján tett intézkedések együttes hatása meghaladja az érintett előirányzatok 10%-át és a költségvetés kiadási főösszegének 0,1%-át, akkor a Kormány a megtett intézkedésekről az Országgyűlést 30 napon belül jelentésben tájékoztatja.
 
-(3) A Munkaerőpiaci Alapot érintő, az (1) bekezdés szerinti intézkedésekről – függetlenül azok mértékétől – a Kormány az Országgyűlés mellett haladéktalanul tájékoztatja az Országos Munkaerőpiaci Tanácsot is.
+(3)
 
 39. §
 
