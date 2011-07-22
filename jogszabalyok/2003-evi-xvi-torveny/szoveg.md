@@ -41,6 +41,9 @@ Az Országgyűlés annak érdekében, hogy az Európai Unió Közös Agrárpolit
 - 23. fogyasztói forgalom: a törvény hatálya alá tartozó termékeknek közvetlenül a fogyasztó, mint végső felhasználó részére történő forgalmazása;
 - 24. viszonteladó: aki a törvény hatálya alá tartozó terméknek nem a fogyasztói forgalomban történő kereskedelmi értékesítését folytatja;
 - 25. feldolgozó: aki a törvény hatálya alá tartozó terméket, a termék eredeti állapotát lényegesen megváltoztató élelmiszer-előállítási műveletekkel fogyasztásra kész állapotba hoz.
+- 26. szakmaközi szervezet: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: az egységes közös piacszervezésről szóló rendelet) 123. cikk előírásainak megfelelő, a miniszter által elismert jogi személy;
+- 27. reprezentatív szakmaközi szervezet: az egységes közös piacszervezésről szóló rendelet 125l. cikkének (2) bekezdésében meghatározott szakmaközi szervezet;
+- 28. szabályok kiterjesztése: az egységes közös piacszervezésről szóló rendelet 125l. cikke alapján a piacfejlesztési intézkedés jogszabályban történő kihirdetése.
 
 ### III. Fejezet — Az agrárpiaci rendtartás intézményrendszere
 
@@ -209,6 +212,16 @@ Az Országgyűlés annak érdekében, hogy az Európai Unió Közös Agrárpolit
 
 (4)–(6)
 
+### Szakmaközi szervezet a zöldség-gyümölcs ágazatban
+
+29/A. § (1) A zöldség-gyümölcs ágazatban elismert reprezentatív szakmaközi szervezet a miniszternél kezdeményezheti a szakmaközi szervezeten belül létrejött megállapodás, döntés vagy összehangolt magatartás (a továbbiakban együtt: piacfejlesztési intézkedés) jóváhagyását, és a jóváhagyott piacfejlesztési intézkedés kiterjesztését olyan módon, hogy annak alkalmazása a szakmaközi szervezet tagjának nem minősülő piaci szereplők számára is kötelező legyen. A piacfejlesztési intézkedés jóváhagyásáról, és annak kiterjesztéséről a miniszter dönt. Kiterjesztés esetén a miniszter a kiterjesztett piacfejlesztési intézkedésről a rendelet kihirdetését követő 3 napon belül tájékoztatja az Európai Bizottságot. A kiterjesztett piacfejlesztési intézkedést a miniszternek az Európai Bizottság erre vonatkozó döntése közlésétől számított 15 napon belül hatályon kívül kell helyeznie.
+
+(2) Az a piaci szereplő, aki (amely) nem tagja a szakmaközi szervezetnek, de az egységes közös piacszervezésről szóló rendelet 125n. cikkében meghatározott esetekben bizonyítottan élvezi az (1) bekezdésben foglaltak szerint kiterjesztett piacfejlesztési intézkedés előnyét, köteles a szakmaközi szervezet részére a szakmaközi szervezet tagjaival azonos módon és a tagokat terhelő pénzügyi hozzájárulás összegével megegyező mértékű, az egységes közös piacszervezésről szóló rendelet 125n. cikke szerinti piacfejlesztési hozzájárulást fizetni a szakmaközi szervezet részére.
+
+### Szakmaközi szervezet a szőlő- és borágazatban
+
+29/B. § A borágazatban elismert szakmaközi szervezet az egységes közös piacszervezésről szóló rendelet 123. cikk (3) bekezdésében meghatározott tevékenységek elvégzéséhez tagjaitól piacfejlesztési hozzájárulás formájában marketingjárulékot szedhet. Az így megfizetett marketingjárulékot a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban Btv.) 24/A. §-ának (3) bekezdése szerint megfizetett összegnek kell tekinteni, és a Btv. 24/A. §-ának (7) bekezdésében meghatározott célokra használható fel. A marketingjárulékként megfizetett összeget a Btv. 24/A. §-ának (7) bekezdése szerint felhasználható összeg részének kell tekinteni.
+
 ### VI. Fejezet — Átmeneti és záró rendelkezések
 
 30. §
@@ -221,9 +234,9 @@ Az Országgyűlés annak érdekében, hogy az Európai Unió Közös Agrárpolit
 
 - a) a törvény 6. § (1) bekezdésében meghatározott piacszabályozási eszközök alkalmazását,
 - b) a piaci információs rendszert,
-- c) a termékpályák működését,
-
-érintő részletes szabályokat – a Közös Agrárpolitika szabályozásával összhangban – rendeletben állapítsa meg.
+- c) a termékpályák működését, érintő részletes szabályokat – a Közös Agrárpolitika szabályozásával összhangban – rendeletben állapítsa meg.
+- d) – a Gazdasági Versenyhivatal elnöke véleményének kikérésével – a kiterjesztett piacfejlesztési intézkedést, annak időtartamát, ezen piacfejlesztési intézkedés hatálya alá tartozó, szakmaközi szervezethez nem tartozó piaci szereplők körét,
+- e) a piacfejlesztési hozzájárulás mértékét, a kedvezmények, mentességek körét, a fizetési kötelezettség teljesítésének időpontját.
 
 (2)
 
@@ -263,7 +276,7 @@ termékpályák e törvény hatálya alá tartozó szereplői.
 - d) a vonatkozó mennyiségi adatokról,
 - e) a megfigyelésre vont termékek köréről.
 
-33. §
+33. § E törvény a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet 125l–125n cikkének végrehajtását szolgálja.
 
 34–35. §
 

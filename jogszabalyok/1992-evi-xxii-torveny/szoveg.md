@@ -150,18 +150,14 @@ kézbesítettnek kell tekinteni.
 
 ### I. Fejezet — Az országos érdekegyeztetés és az ágazati szociális párbeszéd
 
-16. § A munkaügyi kapcsolatokat és a munkaviszonyt érintő országos jelentőségű kérdésekben a Kormány a munkavállalók és munkáltatók országos érdekképviseleti szervezeteivel az Országos Érdekegyeztető Tanácsban egyeztet.
+16. §
 
-17. § (1) Felhatalmazást kap a Kormány, hogy az Országos Érdekegyeztető Tanáccsal folytatott konzultáció alapján rendeletben határozza meg:
+17. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-- a) a foglalkoztatás érdekében a munkavállalók nagyobb csoportját érintő gazdasági okból történő munkaviszony-megszüntetéssel kapcsolatban az e törvénytől eltérő szabályokat;
+- a) a foglalkoztatás érdekében a munkavállalók nagyobb csoportját érintő gazdasági okból történő munkaviszony-megszüntetéssel kapcsolatban az e törvénytől eltérő szabályokat,
 - b) a kötelező legkisebb munkabér és a munkavállaló által betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum mértékét.
 
-(2) A Kormány évente szeptember 30-ig – az országgyűlési képviselők általános választásának évében legkésőbb október 31-ig – köteles országos bértárgyalásokat kezdeményezni.
-
-(3) Ha az Országos Érdekegyeztető Tanácsban létrejött megállapodás jogszabályalkotást vagy közjogi szervezetszabályozó eszköz kiadását teszi szükségessé, ennek érdekében a társadalmi párbeszédért felelős miniszter intézkedik.
-
-(4) A társadalmi párbeszédért felelős miniszter az Országos Érdekegyeztető Tanáccsal folytatott konzultáció alapján rendeletben meghatározhatja a munkaminősítés rendszerét.
+(2)–(4)
 
 17/A. § A munkaügyi kapcsolatokat és a munkaviszonyt érintő ágazati, alágazati, szakágazati (a továbbiakban együtt: ágazat) jelentőségű kérdésekben a munkavállalók és munkáltatók ágazati érdekképviseleti szervezetei egyeztetnek.
 

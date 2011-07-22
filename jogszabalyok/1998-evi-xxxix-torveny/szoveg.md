@@ -54,13 +54,13 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 (5) A Testület a feladatával összefüggésben tudomására jutott adatok, információk tekintetében az adatvédelmi törvényben foglalt rendelkezésekre figyelemmel jár el.
 
-(6) A Testület tevékenységéről évente tájékoztatást ad az Országos Érdekegyeztető Tanácsnak (a továbbiakban: OÉT), beszámol az Országgyűlés illetékes bizottságának.
+(6) A Testület tevékenységéről évente tájékoztatást adhat, valamint kérés esetén köteles adni a Nemzeti Gazdasági és Társadalmi Tanácsnak, beszámol az Országgyűlés illetékes bizottságának.
 
 9/B. § (1) A Nyugdíjbiztosítási Ellenőrző Testületnek 11 tagja van.
 
 (2)
 
-(3) A Nyugdíjbiztosítási Ellenőrző Testület három tagjára az OÉT munkáltatói oldala együttesen, három tagjára az OÉT munkavállalói oldala együttesen, három tagjára a Kormány, további két tagjára az Idősügyi Tanács tesz javaslatot.
+(3) A Nyugdíjbiztosítási Ellenőrző Testület három-három tagjára a Nemzeti Gazdasági és Társadalmi Tanácsban tagsággal rendelkező országos munkáltatói érdekképviseletek, illetve érdekképviseleti szövetségek, valamint munkavállalói érdekképviseletek, illetve érdek-képviseleti szövetségek, három tagjára a Kormány, további két tagjára az Idősügyi Tanács tesz javaslatot.
 
 (4) A Testület tagjait az Országgyűlés elnöke kéri és menti fel. A megbízatás a felkérés elfogadásával keletkezik, és három évre szól. A tagok egy alkalommal ismételten felkérhetők.
 
