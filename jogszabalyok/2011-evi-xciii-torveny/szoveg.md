@@ -159,44 +159,4 @@ rendelkezések tekintetében.
 
 (2) Ahol jogszabály az Országos Érdekegyeztető Tanácsot említi, azon a Nemzeti Gazdasági és Társadalmi Tanácsot, ahol az Országos Érdekegyeztető Tanács Munkavédelmi Bizottságát említi, azon az Mvt. 78. §-a szerinti Munkavédelmi Bizottságot kell érteni.
 
-12. § (1) A lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény a következő 25. §-sal egészül ki:
-
-„25. § A Nemzeti Gazdasági és Társadalmi Tanácsba a Kormánnyal átfogó megállapodást kötött egyházak delegálhatnak tagot.”
-
-(2) A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 17. § (1) bekezdés helyébe a következő rendelkezés lép:
-
-„(1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
-
-a) a foglalkoztatás érdekében a munkavállalók nagyobb csoportját érintő gazdasági okból történő munkaviszony-megszüntetéssel kapcsolatban az e törvénytől eltérő szabályokat,
-
-b) a kötelező legkisebb munkabér és a munkavállaló által betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum mértékét.”
-
-(3) A szakképzésről szóló 1993. évi LXXVI. törvény 8. § (1) bekezdésének helyébe a következő rendelkezés lép:
-
-„(1) Az országos szakképzés stratégiai kérdéseinek egyeztetése a Nemzeti Gazdasági és Társadalmi Tanács keretei között valósul meg.”
-
-(4) A társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9/A. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A Testület tevékenységéről évente tájékoztatást adhat, valamint kérés esetén köteles adni a Nemzeti Gazdasági és Társadalmi Tanácsnak, beszámol az Országgyűlés illetékes bizottságának.”
-
-(5) A társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9/B. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A Nyugdíjbiztosítási Ellenőrző Testület három-három tagjára a Nemzeti Gazdasági és Társadalmi Tanácsban tagsággal rendelkező országos munkáltatói érdekképviseletek, illetve érdekképviseleti szövetségek, valamint munkavállalói érdekképviseletek, illetve érdek-képviseleti szövetségek, három tagjára a Kormány, további két tagjára az Idősügyi Tanács tesz javaslatot.”
-
-(6) A Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény 4. §-a helyébe a következő rendelkezés lép:
-
-„4. § A Tanács az Alapprogram elvi irányító testülete. Jogszabály által nem szabályozott kérdésben a Tanács jogosult meghatározni az Alapprogram támogatási rendszere működésének alapvető szabályait, az Alapprogramból nyújtható támogatások rendező elveit, így különösen az egy civil szervezet számára egy költségvetési évben nyújtható támogatás maximális összegét, a Kollégiumok közötti forrásmegosztás arányait; valamint ellátja az e törvényben ráruházott egyéb feladatokat. A Tanács a Nemzeti Gazdasági és Társadalmi Tanácsban civil szervezetek képviseletét ellátó öt személy delegálásáról a tagok legalább kétharmadának egyetértésével hoz döntést. Az öt személy delegálásáról szóló döntés során a Tanács figyelembe veszi e törvény 12. § (1) bekezdés a)–e) pontja szerinti öt tevékenységi területet.”
-
-(7) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39/B. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A Munkaerőpiaci Alap foglalkoztatási alaprésze terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékig vállalható, amely nem haladhatja meg a tárgyévi eredeti, előirányzat-módosítás esetén a módosított kiadási előirányzat 40 százalékát.”
-
-13. § Hatályát veszti
-
-- a) az Országos Érdekegyeztető Tanácsról szóló 2009. évi LXXIII. törvény és a végrehajtásáról szóló 21/2009. (IX. 30.) SZMM rendelet,
-- b) az Mt. 16. §-a, valamint a 17. § (2)–(4) bekezdései,
-- c) az államháztartásról szóló 1992. évi XXXVIII. törvény 38/A. § (1) bekezdésében az „– a Munkaerőpiaci Alap esetében a Munkaerőpiaci Alap Irányító Testülete véleményének előzetes kikérésével –,” szövegrész és a (3) bekezdés,
-- d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 9. §-a, 10. §-a, 10/A. §-a, 14. § (3) bekezdése, 39/A. § (1) bekezdésének a) pontja és (2)–(5) bekezdései, a 20. § (4)–(5) bekezdésekben az „– a MAT véleményének meghallgatásával –” szövegrész, a 39. § (3) bekezdés c) pontjában az „a MAT működtetésére, a munkaügyi tanácsok működéséhez való hozzájárulásra,” szövegrész, a 39/A. § (8) bekezdésében „a MAT véleményének meghallgatásával” szövegrész, valamint a 39/B. § (1) bekezdésében „a MAT, illetőleg” szövegrész,
-- e) a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban Mvt.) 78. §-ában az „Országos Érdekegyeztető Tanács keretében” szövegrész és az Mvt. 79. § (1) bekezdés c) pontjában a „továbbá az Országos Érdekegyeztető Tanács által hozzá utalt” szövegrész,
-- f) a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/D. §-a,
-- g) a szakképzésről szóló 1993. évi LXXVI. törvény 8. § (2) bekezdése.
+#### 12–13. §

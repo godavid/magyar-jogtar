@@ -4,11 +4,7 @@ egyes gazdasági tárgyú törvények módosításáról
 
 #### 1. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
-1. § A regisztrációs adóról szóló 2003. évi CX. törvény (a továbbiakban: Rega tv.) a következő 20/A. §-sal egészül ki:
-
-„20/A. § A Mellékletnek az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvénnyel (a továbbiakban: Módtv.) megállapított II. részét a Módtv. hatálybalépését követően indult eljárásokban kell alkalmazni.”
-
-2. § A Rega tv. Melléklete az 1. melléklet szerint módosul.
+1–2. §
 
 #### 2. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló2003. évi CXXVII. törvény módosítása
 
@@ -273,29 +269,6 @@ Zsigmond Király Főiskola, Budapest”
 46. § A Rega tv. szerint egyébként fizetendő regisztrációs adó 50%-át nem kell megfizetni azon, külföldi forgalmi rendszámmal ellátott gépjármű után, amely 2011. június 15-én az adózó tulajdonában állt, feltéve, hogy a regisztrációs adómegállapítási eljárást az adózó e törvény kihirdetése napjától 2011. december 31-ig terjedő időszakban kezdeményezi.
 
 ### 1. melléklet a 2011. évi XCVI. törvényhez
-
-A Rega tv. Melléklete II. része táblázatának helyébe a következő táblázat lép:
-
-| I. „A gépjármű forgalomba helyezésétől az adóigazgatási eljárás kezdetének hónapjáig eltelt hónapok száma | II. A Melléklet I. része szerinti adótétel csökkenés mértéke |
-| --- | --- |
-| 2-ig | 0,06 |
-| 3–4 | 0,10 |
-| 5–6 | 0,14 |
-| 7–12 | 0,20 |
-| 13–24 | 0,31 |
-| 25–36 | 0,41 |
-| 37–48 | 0,49 |
-| 49–60 | 0,56 |
-| 61–72 | 0,62 |
-| 73–84 | 0,68 |
-| 85–96 | 0,72 |
-| 97–108 | 0,76 |
-| 109–120 | 0,79 |
-| 121–132 | 0,82 |
-| 133–144 | 0,85 |
-| 145–156 | 0,87 |
-| 157–168 | 0,89 |
-| 169– | 0,90” |
 
 ### 2. melléklet a 2011. évi XCVI. törvényhez
 
