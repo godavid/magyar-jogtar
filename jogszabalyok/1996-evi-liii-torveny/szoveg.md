@@ -613,6 +613,10 @@ engedélyezésekor.
 
 (4) Az (1) bekezdésben foglaltak biztosítására az igazgatóságot szolgalmi jog illeti meg, illetve annak az ingatlannak a tulajdonosát (vagyonkezelőjét, használóját), amelyről a barlang nyílik, szolgalmi jog terheli (szolgáló telek). Ennek tényét az ingatlan-nyilvántartásba – az igazgatóság kezdeményezésére – be kell jegyezni.
 
+(5) Bármilyen ingatlanon végzett tevékenység következtében feltárult barlangok esetén, a (3) bekezdés szerinti barlangbiztosítási munkák költségeit annak kell fedeznie, akinek érdekében, ennek hiányában beavatkozása nyomán a barlangkiépítési munkák elvégzése szükségessé vált.
+
+(6) A barlang (5) bekezdés szerinti fellelésétől a biztosítási munkák elvégzéséig, illetve annak kiépítéséig az ingatlanon folytatott tevékenység nem folytatható. Amennyiben a biztosítási munkák elvégzéséhez, illetve a barlang kiépítéséhez szükséges engedélyek jogerőssé válnak, valamint az (5) bekezdés szerinti költségek fedezete az igazgatóság részére átadásra kerül, akkor a természetvédelmi hatóság az ingatlanon végzett tevékenység folytatását engedélyezheti.
+
 51. § (1) A miniszter engedélye szükséges
 
 - a) barlang, barlangszakasz hasznosításához, illetve a hasznosítási mód megváltoztatásához;
@@ -918,7 +922,11 @@ a kárviselésre vonatkozó szabályok
 
 ### Eljárási rendelkezések
 
-#### 75. §
+75. § (1) A természetvédelmi hatósági engedélyt határozott időtartamra, de legfeljebb tíz évre lehet kiadni. Az engedélyben meghatározott időtartam lejártával vagy tíz év elteltével az engedélyek érvényüket vesztik.
+
+(2) A természetvédelmi hatósági engedély érvényességi időtartama legfeljebb tíz évvel meghosszabbítható, ha a jogosult a meghosszabbítás iránti kérelmét az (1) bekezdésben meghatározott időtartam lejárta előtt beadja, és a meghosszabbítás a természetvédelmi előírásokkal összeegyeztethető és más közérdeket nem sért.
+
+(3) Az engedély meghosszabbítására irányuló kérelem benyújtása az engedély (1) bekezdés szerinti érvényességi idejét nem hosszabbítja meg.
 
 76. § (1) Az eljárási határidő a természetvédelmi hatósági engedélyezési eljárásokban három hónap.
 
