@@ -111,7 +111,7 @@ a termőföld védelméről
 
 (2) Az átlagosnál jobb minőségű termőföldet más célra hasznosítani csak időlegesen, illetőleg helyhez kötött igénybevétel céljából lehet. A termőföldnek hulladéklerakó céljára történő igénybevétele esetén a környezetvédelmi és természetvédelmi követelmények betartása mellett, mezőgazdasági művelésre alkalmatlan vagy átlagosnál gyengébb minőségű termőföld más célú hasznosítása engedélyezhető.
 
-(3) A (2) bekezdés alkalmazása szempontjából helyhez kötött igénybevételnek kell tekinteni különösen a meglévő létesítmény bővítését, közlekedési és közmű kapcsolatainak kiépítését, valamint a bányaüzemet és az egyéb természeti kincsek kitermeléséhez szükséges létesítményt is.
+(3) A (2) bekezdés alkalmazása szempontjából helyhez kötött igénybevételnek kell tekinteni különösen a meglévő létesítmény bővítését, közlekedési és közmű kapcsolatainak kiépítését, a bányaüzemet és az egyéb természeti kincsek kitermeléséhez szükséges létesítményt, valamint azt a területet, amelyet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánított.
 
 (4) Az igénybevételt az indokolt szükségletnek megfelelő legkisebb területre kell korlátozni.
 
@@ -127,6 +127,13 @@ a termőföld védelméről
 - a) az ingatlan-nyilvántartási térképnek a más célú hasznosításra tervezett területet feltüntető másolatát és az ehhez tartozó területkimutatást, kivéve, ha a kérelem kizárólag az érintett földrészlet vagy földrészletek teljes területére vonatkozik;
 - b) a 21. § (5) bekezdésében foglalt kötelezettségvállaló nyilatkozatot a járulékmentesség igénybevételéhez;
 - c) a talajvédelmi tervet, amennyiben a kérelemben – az (1) bekezdés c) pontja szerint – megjelölt cél az 50. § (2) bekezdésének a) vagy b) pontjában foglaltak megvalósítására irányul.
+
+(3) Az (1) bekezdésben foglaltakon túl a kérelemben meg kell jelölni annak
+
+- a) a kormányrendeletnek a számát, amely a kérelemben megjelölt termőföld végleges más célú hasznosításával járó tervezett építési beruházást nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánította, vagy
+- b) kormányhatározatnak a számát, amely a kérelemben szereplő termőföldeket beruházási célterületté nyilvánította.
+
+(4) A (3) bekezdésben meghatározott esetekben a kérelemben megjelölt más célú hasznosítás célja nem térhet el a kormányrendeletben, illetve a kormányhatározatban megjelölt beruházás céljától.
 
 13. § (1) A termőföld más célú hasznosítására kiadott engedély, ha e hasznosítás megkezdésére négy év alatt nem kerül sor, hatályát veszti. Hatályon kívül kell helyezni az engedélyt, ha az engedély jogosultja írásban nyilatkozik arról, hogy az engedélyben foglalt jogosultságáról lemond.
 

@@ -1473,6 +1473,10 @@ lép hatályba.
 
 (6) A gyógyszernek nem minősülő gyógyhatású készítménnyel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlat során a II. fejezet, valamint a 77. § (2) bekezdésének j) pontjában foglalt felhatalmazás alapján kiadott rendelet rendelkezéseit megfelelően alkalmazni kell. Gyógyszernek nem minősülő gyógyhatású készítmény működési engedéllyel rendelkező, gyógyszerek forgalmazására jogosult üzletben is forgalmazható a külön jogszabályban foglaltaknak megfelelően.
 
+87/A. § (1) A gyógyszer forgalomba hozatali engedélyének jogosultja 2011. július 1. napját követően a 2011. április, május, június hónapokra vonatkozóan a 36. § (7)–(8) bekezdésekben foglaltakkal kapcsolatos bevallási, befizetési és egyéb kötelezettségeit – a 36. § (1)–(4) bekezdésekben foglaltak kivételével – az e törvény 2011. július 1. napján hatályos rendelkezései szerint teljesíti, azzal az eltéréssel, hogy a 2011. július 20-ig esedékes bevallást 2011. augusztus 20-ig kell benyújtani a befizetési kötelezettség egyidejű teljesítésével. A 36. § (1)–(4) bekezdésekben foglalt rendelkezéseket e bevallási, befizetési és egyéb kötelezettségek teljesítése során az e törvény 2011. június 30. napján hatályos állapota szerint kell alkalmazni.
+
+(2) Az (1) bekezdésben foglalt rendelkezést 2011. július 1. napjától kell alkalmazni.
+
 88. § (1) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács – 2002/98/EK, 2004/24/EK és 2004/27/EK irányelvével, valamint a Bizottság 2003/63/EK irányelvével módosított – 2001/83/EK irányelve (2001. november 6.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről,

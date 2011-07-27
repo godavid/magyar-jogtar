@@ -396,6 +396,14 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (6) Ha az adóévben a vállalkozó átlagos statisztikai állományi létszáma az előző adóév átlagos statisztikai állományi létszámához képest 5%-ot meghaladó mértékben csökken, akkor az adóévet megelőző adóévre igénybe vett adóalap-mentesség összegével a Htv. 39. §-ának (1) bekezdése szerinti adóalapot meg kell növelni.
 
+### A szabályozott ingatlanbefektetési társaság adómentessége
+
+39/E. § (1) Mentes az adó alól a szabályozott ingatlanbefektetési társaságról szóló törvény (a továbbiakban: Szit. tv.) szerinti szabályozott ingatlanbefektetési társaság (a továbbiakban e § vonatkozásában: társaság), a Szit. tv. szerinti szabályozott ingatlanbefektetési elővállalkozás (a továbbiakban e § vonatkozásában: elővállalkozás), valamint a társaság és az elővállalkozás Szit. tv. szerinti projekttársasága.
+
+(2) Ha az elővállalkozást az állami adóhatóság anélkül törli az elővállalkozások nyilvántartásából, hogy társaságként nyilvántartásba venné, akkor az elővállalkozás és annak projekttársasága az (1) bekezdés szerinti mentesség figyelmen kívül hagyásával számított, az elővállalkozásként való működés időszakára eső adó kétszeresét köteles az önkormányzati adóhatóságnak bevallani és megfizetni.
+
+(3) Ha az elővállalkozás projekttársasága megszűnik, vagy az elővállalkozás a projekttársaságban fennálló tulajdoni illetőségét részben vagy egészben elidegeníti, akkor a projekttársaság (1) bekezdés szerinti mentesség figyelmen kívül hagyásával számított adójának kétszeresét az elővállalkozás a projekttársaság megszűnésének, elidegenítésének időpontját követő első adóbevallása benyújtásával egyidejűleg köteles bevallani és megfizetni.
+
 ### Az adó mértéke
 
 40. § (1) Állandó jelleggel végzett iparűzési tevékenység esetén az adó évi mértékének felső határa

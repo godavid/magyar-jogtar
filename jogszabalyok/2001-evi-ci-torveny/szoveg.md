@@ -15,14 +15,7 @@ Abból a célból, hogy az Alkotmányban biztosított tanuláshoz való jog az �
 3. § (1) A törvény hatálya – a (4) bekezdésben foglalt kivételekkel – kiterjed
 
 - a) a felnőttképzésben részt vevő, illetve a felnőttképzéshez kapcsolódó szolgáltatást igénybe vevő felnőttre,
-- b) a (2) bekezdésben meghatározott tevékenységükkel kapcsolatosan
-  - ba) a közoktatási intézményekre,
-  - bb) a felsőoktatási intézményekre,
-  - bc) a felnőttképzést folytató költségvetési szervekre,
-  - bd) a központi képzőhelyekre,
-  - be) a közhasznú társaságokra, egyesületekre, köztestületekre, alapítványokra, közalapítványokra,
-  - bf) az egyéb jogi személyekre, jogi személyiség nélküli gazdasági társaságokra, egyéni cégekre, egyéni vállalkozókra, valamint ezek felnőttképzési tevékenység folytatására létrehozott társulásaira, továbbá
-  - bg) a Magyar Köztársaság területén felnőttképzési tevékenységet folytató 3/C. § (1)–(3) bekezdés szerinti külföldi szolgáltatókra.
+- b) a (2) bekezdésben meghatározott felnőttképzési tevékenységet folytató jogi személyekre, jogi személyiség nélküli gazdasági társaságokra, egyéni cégekre, egyéni vállalkozókra.
 
 (2) E törvény alkalmazásában felnőttképzési tevékenység
 
@@ -63,8 +56,7 @@ szabályait.
 - d) a felnőttképzést folytató intézmények ellenőrzésére vonatkozó szabályokat;
 - e) az Európai Gazdasági Térségről szóló megállapodásban részes államok felnőttképzési minősítési rendszerei közül a Magyar Köztársaságban akkreditáltként elismerhetőeket, illetve a minősítési rendszerek elemei közül az elfogadhatóakat,
 - f) az e törvény szerinti felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
-- g) a 20/A. § (1) és (2) bekezdéseiben foglaltak figyelembevételével azon informatikai végzettséggel vagy a megfelelő informatikai kompetenciákkal rendelkezők körét, akik mentesülnek a digitális írástudás elsajátítására irányuló képzési részek alól,
-- h) a felnőttképzésben résztvevők adatai elektronikus nyilvántartásának részletes szabályait,
+- g)–h)
 - i)
 
 (4) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály a felnőttképzési szakterületen felnőttképzési szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
@@ -148,7 +140,7 @@ szabályait.
 - c) a felnőttképzési tevékenységét nem a képzési programnak megfelelően folytatja, attól a képzésben részt vevő hozzájárulása nélkül jelentősen eltér,
 - d) a 9. § (2) bekezdésében foglalt kötelezettségeinek nyolc napon belül nem tesz eleget.
 
-(7) Az állami foglalkoztatási szerv a külön jogszabályban meghatározott esetekben a felnőttképzést folytató intézmény tevékenységét felfüggeszti, illetve az intézményt a nyilvántartásból törli.
+(7) Az állami foglalkoztatási szerv a jogszabályban meghatározott esetekben a felnőttképzést folytató intézményt a nyilvántartásból törli.
 
 (8) Az állami foglalkoztatási szerv az (1) bekezdés bh) alpontjában meghatározott ellenőrzési tevékenységét a gyakorlati foglalkozás helye szerint illetékes területi gazdasági kamara – külön jogszabályban meghatározottak szerint történő – bevonásával látja el.
 
@@ -183,7 +175,7 @@ szabályait.
 
 (7) Amennyiben a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtása keretében történő felnőttképzési tevékenységét akkreditáltatni kívánja, az akkreditáció iránti kérelmében a valamely EGT-állam által elismert minősítési rendszer igazolása esetén kizárólag azoknak a követelményeknek való megfelelést szükséges igazolnia, amelyeket az adott állam követelményei nem tartalmaznak.
 
-(8) A FAT a közoktatási feladatot ellátó – más jogszabályban meghatározott – szakképző intézmény intézményakkreditációs kérelme esetén egyszerűsített eljárást folytat le.
+(8)
 
 (9) A FAT a közoktatási feladatot ellátó – más jogszabályban meghatározott – közoktatási intézmény intézményakkreditációs kérelme esetén egyszerűsített eljárást folytat le. Az egyszerűsített intézményakkreditációs eljárás alapjául szolgáló egyéb esetek körét és az eljárás részletes szabályait kormányrendelet határozza meg.
 
@@ -275,11 +267,7 @@ szabályait.
 
 (4) A (2) és (3) bekezdésekben meghatározottak alapján a felnőttképzési intézménynek azon résztvevőkkel is – a polgári jog általános szabályai szerint – szerződést kell kötnie a képzésre vonatkozóan, akik a tankötelezettségük teljesítése, illetve iskolarendszerű képzésben való részvételük mellett felnőttképzésben is részt vesznek. Tanköteles tanulóval államilag elismert szakképesítés megszerzésére irányuló képzésre felnőttképzési szerződés nem köthető.
 
-### Az élethosszig tartó tanulás feltételeinek biztosítása
-
-20/A. § (1) A 21. § (2)–(3) bekezdés szerinti forrásból támogatott, összességében legalább 240 órát meghaladó időtartamú képzési programot a digitális írástudás megszerzését szolgáló, a (2) bekezdés szerinti képzési modulokat tartalmazó képzési programmal együtt kell megvalósítani. A digitális írástudás képzési programjához szükséges pénzügyi forrást a támogatásban részesülő képzési program terhére kell biztosítani.
-
-(2) A digitális írástudás megszerzéséhez szükséges ismeretek és kompetenciák körét az Európai Számítógéphasználói Jogosítvány „Internet és kommunikáció”, valamint „Operációs rendszerek” moduljai írják le.
+20/A. §
 
 ## IV. RÉSZ — FELNŐTTKÉPZÉSI TÁMOGATÁSOK
 
@@ -298,7 +286,7 @@ szabályait.
 
 - a) a támogatás teljes időtartama alatt biztosítja, hogy a FAT által kiállított, hatályos intézményakkreditációs tanúsítvánnyal rendelkezzen, és
 - b) a külön jogszabályban előírt statisztikai adatszolgáltatási kötelezettségét teljesítette,
-- c) a 28/A. (1) bekezdése szerinti adatszolgáltatását teljesítette.
+- c)
 
 (4) A (3) bekezdés a) pontjában meghatározott feltétel a 29. § 13. pontjában meghatározott belső képzések támogatása esetében nem alkalmazható.
 
@@ -377,15 +365,7 @@ szabályait.
 
 (5) A (4) bekezdésben meghatározott adatszolgáltatási kötelezettség a foglalkoztatót terheli, amennyiben a felnőtt a képzés befejezését követően foglalkoztatási jogviszonyt létesít. A foglalkoztatónak – külön kormányrendeletben meghatározottak szerint – az adatszolgáltatás keretében közölni kell, hogy a felnőtt hol állt munkába, milyen munkakörben foglalkoztatják, illetve milyen tevékenységet lát el.
 
-### A felnőttképzésben résztvevők adatainak nyilvántartása
-
-28/A. § (1) A felnőttképzést folytató intézmények a 21. § (2)–(3) bekezdése szerinti forrásból támogatott felnőttképzésben résztvevőknek az e törvény Melléklete 1. pont a), ba), bd), és c) alpontja szerinti adatait továbbítják az állami szakképzési és felnőttképzési intézet számára, amely ezen adatokat elektronikusan és mások számára hozzá nem férhető módon tartja nyilván.
-
-(2) Az állami szakképzési és felnőttképzési intézet az elektronikusan nyilvántartott adatokat a felnőttképzésben résztvevők által igénybe vett támogatások párhuzamos finanszírozásának elkerülése, a felnőttképzés ellenőrzése, valamint a felnőttképzés rendszerének hatékonyságát elemző vizsgálatok céljából kezeli.
-
-(3) Az állami szakképzési és felnőttképzési intézet a nyilvántartásban lévő adatokat 40 évig kezeli. A nyilvántartott adatok az adatkezelőn és az érintetteken kívüli személyek számára csak személyazonosításra alkalmatlan módon ismerhetők meg.
-
-(4) Az elektronikus nyilvántartás részletes szabályait a miniszter rendeletben határozza meg.
+28/A. §
 
 ## V. RÉSZ — ÉRTELMEZŐ RENDELKEZÉSEK
 
