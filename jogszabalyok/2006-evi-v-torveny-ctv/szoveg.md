@@ -412,6 +412,7 @@ megismerhetők.
 - c) Nyilvánosan működő részvénytársaság esetében
   - ca) az ügyvezetés típusát (igazgatóság vagy igazgatótanács),
   - cb) a részvénytársasági hirdetmények közzétételének módját, helyét;
+  - cc) az állami adóhatóság által – szabályozott ingatlanbefektetési elővállalkozásként vagy társaságként – való nyilvántartásba vétel és a nyilvántartásból való törlés időpontját.
 
 (5) Egyesülés esetében
 

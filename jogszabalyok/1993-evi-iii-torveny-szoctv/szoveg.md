@@ -262,7 +262,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - b) a kérelmező telefonszáma, lakó- és tartózkodási helye, értesítési címe,
 - c) a kérelmező állampolgársága, bevándorolt, letelepedett vagy menekült, hontalan jogállása, a szabad mozgás és tartózkodás jogára vonatkozó adat,
 - d) a kérelmező cselekvőképességére vonatkozó adat,
-- e) a kérelmező törvényes képviselője, továbbá a kérelmező megnevezett hozzátartozója természetes személyazonosító adatai, telefonszáma, lakó- és tartózkodási helye vagy értesítési címe,
+- e) a kérelmező törvényes képviselője, továbbá a kérelmező megnevezett hozzátartozója neve, születési neve, telefonszáma, lakó- és tartózkodási helye vagy értesítési címe,
 - f) a kérelem előterjesztésének vagy a beutaló határozat megküldésének időpontja,
 - g) soron kívüli ellátásra vonatkozó igény és
 - h) az egyszerűsített előgondozás vagy az előgondozás szakaszai lefolytatásának időpontja.
@@ -280,7 +280,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 - a) a (2) és (4) bekezdés szerinti adattartalmú nyilvántartást családsegítés esetében, amennyiben a külön jogszabályban meghatározott szakmai tevékenység az első interjú kapcsán tett intézkedéssel lezárható, továbbá falugondnoki és tanyagondnoki szolgáltatás, népkonyha, szenvedélybetegek alacsonyküszöbű ellátása, utcai szociális munka esetén,
 - b) családsegítés esetén a (2) bekezdés g) pontja szerinti adatokat,
-- c) étkeztetés, családsegítés, idősek nappali ellátása, szenvedélybetegek nappali ellátása, pszichiátriai betegek nappali ellátása esetén a (2) bekezdés h) pontja szerinti adatokat.
+- c) étkeztetés, családsegítés, közösségi ellátások, idősek nappali ellátása, szenvedélybetegek nappali ellátása, pszichiátriai betegek nappali ellátása esetén a (2) bekezdés h) pontja szerinti adatokat.
 
 (6) Nappali melegedő, éjjeli menedékhely esetén kizárólag a (2) bekezdés a) pontja és a (4) bekezdés a) pontja szerinti adatokat kell nyilvántartásba venni.
 
@@ -294,12 +294,18 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 20/B. § A Kormány által kijelölt szerv – a szociális szolgáltatás rendszerének és finanszírozásának tervezhetősége miatt – országos jelentési rendszert működtet. A fenntartó az országos jelentési és férőhelyfigyelő rendszer számára köteles bejelenteni a külön jogszabályban meghatározott – személyes adatnak nem minősülő – adatokat.
 
-20/C. § A szociális hatóság a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+20/C. § (1) A szociális hatóság a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
-- a) a 18. § a)–c) és h)–i) pontjában meghatározott adatokat,
+- a) a 20. § (2) bekezdés a)–c) pontjában és a 20. § (4) bekezdés a) pontjában meghatározott adatokat, az ellátott telefonszáma és értesítési címe kivételével,
 - b) a személyes gondoskodást nyújtó alapszolgáltatás vagy szakosított ellátás típusát, igénybevételének és megszűnésének időpontját,
 - c) az intézmény, szolgáltató külön jogszabály szerinti ágazati azonosító jelét,
 - d) a finanszírozás, támogatás költségvetési törvény szerinti jogcímét és feladatmutatóját.
+
+(2) Nem kell az (1) bekezdés szerinti nyilvántartásba venni az adatokat családsegítés esetében, amennyiben a külön jogszabályban meghatározott szakmai tevékenység az első interjú kapcsán tett intézkedéssel lezárható, továbbá falugondnoki és tanyagondnoki szolgáltatás, népkonyha, szenvedélybetegek alacsonyküszöbű ellátása és utcai szociális munka esetén.
+
+(3) Nappali melegedő, éjjeli menedékhely esetén az (1) bekezdés a) pontja szerinti adatok közül csak a 20. § (2) bekezdés a) pontja és a 20. § (4) bekezdés a) pontja szerinti adatokat kell nyilvántartásba venni.
+
+(4) Nappali melegedő, éjjeli menedékhely és családsegítés esetén, amennyiben az ellátásban részesülő személy Társadalombiztosítási Azonosító Jellel nem rendelkezik, ennek tényét kell a nyilvántartásban rögzíteni.
 
 21. § A 20. és 20/C. §-ban szabályozott nyilvántartásból adat csak az adatigénylésre jogosult szervnek és a jogosultságot megállapító szociális hatáskört gyakorló szervnek szolgáltatható.
 
@@ -1934,7 +1940,8 @@ esetén.
 - c) az igénybevevő számára nyújtott szolgáltatások tartalmát,
 - d) a személyi térítési díj megállapítására, fizetésére vonatkozó szabályokat, amennyiben az ellátás térítésidíj-fizetési kötelezettséggel jár,
 - e) egyszeri hozzájárulás megfizetésének kötelezettsége esetén a hozzájárulás összegét, továbbá az annak beszámítására, teljes vagy részleges visszafizetésére vonatkozó szabályokat,
-- f) az ellátás megszüntetésének módjait.
+- f) az ellátás megszüntetésének módjait,
+- g) az igénybevevő természetes személyazonosító adatait.
 
 94/D. § Ha az egyházi, illetve nem állami fenntartó a helyi önkormányzattal, társulással vagy állami szervvel ellátási szerződést kötött, és az ellátási szerződés hatálya alá tartozó esetben a szociális szolgáltatásra irányuló kérelmet elutasítja, az ellátást igénylőt és törvényes képviselőjét írásban köteles értesíteni. Ebben az esetben az ellátást igénylő és törvényes képviselője a döntés ellen a közléstől számított nyolc napon belül az ellátási szerződést megkötő helyi önkormányzathoz, társuláshoz vagy állami szervhez fordulhat. A helyi önkormányzat, a társulás vagy állami szerv a kérelemről határozattal dönt.
 
@@ -2249,7 +2256,7 @@ való jogra.
 
 (4) Ha az intézményi jogviszonyt beutaló határozat alapozza meg, a jogviszony megszüntetésére az (1)–(2) bekezdésben foglaltakat értelemszerűen alkalmazni kell, azonban a jogviszonyt a beutaló szerv határozata szünteti meg.
 
-102. § (1) Egyházi és nem állami fenntartású szolgáltató, intézmény esetén az intézményi jogviszony megszűnik, ha a 94/D. § szerinti megállapodást az ellátott, illetve törvényes képviselője vagy a fenntartó felmondja.
+102. § (1) Egyházi és nem állami fenntartású szolgáltató, intézmény esetén az intézményi jogviszony megszűnik, ha a 94/C. § szerinti megállapodást az ellátott, illetve törvényes képviselője vagy a fenntartó felmondja.
 
 (2) Ápolást, gondozást nyújtó intézmény és ápoló, gondozó célú lakóotthon esetén a fenntartó a megállapodást akkor mondhatja fel, ha az ellátott a házirendet súlyosan megsérti.
 
@@ -2481,7 +2488,9 @@ nyújtó intézmények esetén.
 
 (3) Az ellátást igénybevevő részére az egészségi állapot javításához vagy szinten tartásához szükséges alapgyógyszereket a bentlakásos intézmény – a külön jogszabályban meghatározottak szerint – térítésmentesen biztosítja. Ezen túlmenően az egyéni gyógyszerigények költségét – a külön jogszabályban foglaltak szerint – az ellátott személy viseli.
 
-117/B. § Az ellátást igénylő vagy a térítési díjat megfizető más személy írásban vállalhatja a mindenkori intézményi térítési díjjal azonos személyi térítési díj megfizetését. Ebben az esetben a 116. § (1) és (3) bekezdésében, valamint a 117. §-ban foglaltakat nem kell alkalmazni, továbbá nem kell elvégezni a 119/C. §-a szerinti jövedelemvizsgálatot, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő érintett ne kerüljön előnyösebb helyzetbe, mint ha a vállalást ő vagy a térítési díjat megfizető más személy nem tenné meg.
+117/B. § (1) Az ellátást igénylő, az ellátott vagy a térítési díjat megfizető más személy írásban vállalhatja a mindenkori intézményi térítési díjjal azonos személyi térítési díj megfizetését. Ebben az esetben a 116. § (1) és (3) bekezdésében, valamint a 117. §-ban és a 117/A. § (1)–(2) bekezdésében foglaltakat nem kell alkalmazni, továbbá nem kell elvégezni a 119/C. §-a szerinti jövedelemvizsgálatot, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő érintett ne kerüljön előnyösebb helyzetbe, mint ha a vállalást ő vagy a térítési díjat megfizető más személy nem tenné meg.
+
+(2) Az ellátást igénylő, az ellátott vagy a térítési díjat megfizető más személy írásban vállalhatja a mindenkori intézményi térítési díj és a számára megállapítható személyi térítési díj különbözete egy részének megfizetését. Ebben az esetben a 116. § (1) és (3) bekezdésében, a 117. §-ban, valamint a 117/A. § (1) és (2) bekezdésében foglaltakat nem kell alkalmazni, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő érintett ne kerüljön előnyösebb helyzetbe, mint ha a vállalást ő vagy a térítési díjat megfizető más személy nem tenné meg.
 
 118. § Amennyiben az intézményi elhelyezést a gyámhivatal határozata alapozza meg, a kiskorú ellátott után térítési díj fizetésének kötelezettsége nem írható elő. A gyámhivatal határozatában megállapított gondozási díjat – a külön jogszabályban meghatározott feltételek és eljárás alapján – a szociális intézmény részére kell átutalni.
 
@@ -2570,7 +2579,7 @@ nyújtó intézmények esetén.
 - e) karbantartási feladatok elvégzése,
 - f) jelzőrendszeres házi segítségnyújtás esetén a jelzőrendszer működtetése.
 
-122/B. § (1) A szerződéses szolgáltatások alapján kötött szerződés – függetlenül a közbeszerzés vagy a pályáztatás alkalmazásától – tartalmazza
+122/B. § (1) A szerződéses szolgáltatások alapján kötött szerződés tartalmazza
 
 - a) a szolgáltató nevét, székhelyét és adószámát,
 - b) szükség esetén az adott tevékenység végzésére jogosító hatósági engedélyt vagy a szakképzettséget igazoló irat adatait;
@@ -2587,7 +2596,7 @@ nyújtó intézmények esetén.
 
 (2) Amennyiben a fenntartó, illetve az önállóan gazdálkodó intézmény vezetője megállapítása szerint a szolgáltató nem megfelelő színvonalon végzi a tevékenységét, felszólítja a szolgáltatót a szerződés szerinti teljesítésre, majd kezdeményezi a szerződés felmondását.
 
-122/C. § (1) Ha a szerződéssel érintett szolgáltatás ellenértéke nem éri el a közbeszerzési értékhatárt, az állami fenntartó, illetve az önállóan gazdálkodó intézmény vezetője pályázatot ír ki a lebonyolításra. A pályázat szövegét a helyben szokásos módon, valamint egy országos napilapban közzé kell tenni.
+122/C. § (1) Szerződéses szolgáltatások esetén az állami fenntartó, illetve az önállóan gazdálkodó intézmény vezetője pályázatot ír ki a lebonyolításra. A pályázat szövegét a helyben szokásos módon, valamint egy országos napilapban közzé kell tenni.
 
 (2) A pályázatot elbíráló bizottság tagjai
 
@@ -2676,7 +2685,7 @@ kaphatnak.
 
 131. § A szociális szakmai programok meghirdetésével kell elősegíteni a fenntartó számára a szociális intézmények olyan mértékű fejlesztésének támogatását, hogy az érintett önkormányzatok eleget tudjanak tenni az e törvényben előírt kötelezettségüknek.
 
-131/A. § A támogató szolgáltatások, a jelzőrendszeres házi segítségnyújtás és a közösségi ellátások működtetését az állam – a külön jogszabályban meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni.
+131/A. § A támogató szolgáltatások, a jelzőrendszeres házi segítségnyújtás, a közösségi ellátások és 2012. január 1-jétől az utcai szociális munka működtetését az állam – a külön jogszabályban meghatározott eljárási rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -2690,19 +2699,20 @@ kaphatnak.
 - f) a szociális szolgáltató tevékenységet végzők működése engedélyezésének és ellenőrzésének részletes szabályait, a működést engedélyező szerv vagy szervek kijelölését,
 - g) a nem állami és egyházi fenntartók által igénybe vehető normatív állami hozzájárulás igénylésének, folyósításának és elszámolásának részletes szabályait,
 - i) a foglalkoztatási támogatás igénylésével, elszámolásával kapcsolatos szabályokat,
-- j) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az adatközlés módjára és idejére vonatkozó szabályokat, továbbá az országos jelentési rendszert működtető szerv vagy szervek kijelölését,
+- j) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 20/C. § szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését;
 - k) a 3. § (3) bekezdésében meghatározott személyekre vonatkozó ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat;
 - l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
 - m) a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait,
 - n) a szociális hatóság és a szociális szakértői szerv kijelölését;
 - o) a szociális intézmények, szolgáltatók országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését;
-- p) a támogató szolgáltatás, a jelzőrendszeres házi segítségnyújtás és a közösségi ellátások finanszírozásának rendjére vonatkozó részletes szabályokat;
+- p) a támogató szolgáltatás, a jelzőrendszeres házi segítségnyújtás, a közösségi ellátások és az utcai szociális munka finanszírozásának rendjére vonatkozó részletes szabályokat;
 - q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 - r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, továbbá a fogyatékos személyek alapvizsgálatára vonatkozó szabályokat;
 - s) a bírság megállapításának és megfizetésének részletes eljárási szabályait;
 - t) az energiafelhasználási támogatás mértékére, a támogatásra való jogosultság megállapításának feltételeire és a jogosultak körére, a támogatás igénylésére, megállapítására, érvényesítésére, a támogatás jogszerű igénybevétele ellenőrzésének és a jogosulatlanul igénybe vett támogatás visszakövetelésének rendjére, továbbá a támogatás forrásául szolgáló előirányzat kezelésére és felhasználására vonatkozó szabályokat;
 - u) az egyházi kiegészítő támogatás megtérítésének részletes szabályait;
-- v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét.
+- v) a szükség-, veszély- vagy katasztrófahelyzetből eredő kár esetén közcélú munkavégzés keretében ellátható helyreállítási feladatok körét, az e feladatokra fordítható költségvetési forrás összegét, valamint e forrás igénybevételének eljárásrendjét;
+- w) az új szolgáltatóknak, intézményeknek, ellátotti létszámnak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 

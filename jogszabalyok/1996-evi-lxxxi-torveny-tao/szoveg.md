@@ -24,7 +24,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 
 (2) Belföldi illetőségű adózó a belföldi személyek közül
 
-- a) a gazdasági társaság (ideértve a nonprofit gazdasági társaságot is), az egyesülés és az európai részvénytársaság (ideértve az európai holding részvénytársaságot is) és az európai szövetkezet,
+- a) a gazdasági társaság (ideértve a nonprofit gazdasági társaságot, a szabályozott ingatlanbefektetési elővállalkozást, a szabályozott ingatlanbefektetési társaságot és a szabályozott ingatlanbefektetési projekttársaságot is), az egyesülés, az európai részvénytársaság (ideértve az európai holding részvénytársaságot is) és az európai szövetkezet,
 - b) a szövetkezet,
 - c) az állami vállalat, a tröszt, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a leányvállalat,
 - d) az ügyvédi iroda, a végrehajtói iroda, a szabadalmi ügyvivői iroda, a közjegyzői iroda, az erdőbirtokossági társulat,
@@ -139,12 +139,15 @@ fejében a jogosult által kapott ellenérték;
 - 28/a. országos érdekképviseleti szervezet: az a társadalmi szervezetként bírósági nyilvántartásba vett társadalmi szervezetek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 - 29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei és rendkívüli bevételek;
 - 30. pályakezdő: a munkavállaló a középfokú nevelési-oktatási vagy a felsőoktatási intézménnyel nappali képzés keretében fennálló jogviszonya megszűnését, illetve a tanulói jogviszonya tankötelezettség címén való megszűnését követő egy naptári éven belül létesített első munkaviszonyában, illetve első munkavégzésre irányuló egyéb jogviszonyában;
+- 30/a. szabályozott ingatlanbefektetési elővállalkozás: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési elővállalkozásként nyilvántartásba vett gazdasági társaság;
+- 30/b. szabályozott ingatlanbefektetési projekttársaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott projekttársaság;
+- 30/c. szabályozott ingatlanbefektetési társaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési társaságként nyilvántartásba vett gazdasági társaság;
 - 31.
 - 31/a. számított nyilvántartási érték: az immateriális jószág, a tárgyi eszköz bekerülési értéke, csökkentve az adóalapnál érvényesített értékcsökkenési leírással, növelve az adóalapnál érvényesített terven felüli értékcsökkenés visszaírt összegével;
 - 31/b. személy: a belföldi személy, a külföldi személy és a magánszemély;
 - 31/c. személygépkocsi: négy, illetve három gumiabroncskerékkel felszerelt olyan gépjármű, amely a vezetővel együtt legfeljebb nyolc felnőtt személy szállítására alkalmas, azzal, hogy idetartozik a benzinüzemű, a dízelüzemű, az elektromos üzemű, a gázüzemű személygépkocsi, a versenyautó, az önjáró lakóautó; személygépkocsinak minősül továbbá az a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű olyan gépjármű (nagy rakodóterű személygépkocsi), amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén a teherszállításra bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor;
 - 32. szoftverfejlesztő: egyetemi vagy főiskolai oklevéllel rendelkező, szoftvereket, adatállományokat, adatbázisokat, szakértői rendszereket, robottechnikát és döntési modelleket kutató, tervező vagy fejlesztő magánszemély, aki az említett tevékenységek érdekében, a számítógép operációs rendszerének ismeretében programokat, rutinokat ír, tesztel, vizsgál;
-- 32/a. társaság: a gazdasági társaság, az egyesülés, a szövetkezet, továbbá a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjától az Európai Unió tagállamának adóra vonatkozó jogszabályai szerint ott belföldi illetőséggel bíró olyan társaság, amely
+- 32/a. társaság: a gazdasági társaság (ideértve a szabályozott ingatlanbefektetési elővállalkozást, a szabályozott ingatlanbefektetési társaságot és a szabályozott ingatlanbefektetési projekttársaságot is), az egyesülés, a szövetkezet, továbbá a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjától az Európai Unió tagállamának adóra vonatkozó jogszabályai szerint ott belföldi illetőséggel bíró olyan társaság, amely
   - a) az Európai Unión kívüli állammal a jövedelem- és vagyonadók tárgyában kötött, hatályos nemzetközi szerződés szerint nem bír belföldi illetőséggel az Európai Unión kívüli államban, valamint
   - b) a különböző tagállamok társaságait érintő egyesülésekre, szétválásokra, eszközátruházásokra és részesedéscserékre alkalmazandó közös adózási rendszerről szóló tanácsi irányelvben vagy az anya- és leányvállalatok esetében alkalmazandó közös adózási rendszerről szóló tanácsi irányelvben felsorolt jogi formában működik, és az említett irányelvekben meghatározott adó alanya anélkül, hogy ezzel kapcsolatban választási lehetőség vagy mentesség illetné meg;
 - 33. telephely:
@@ -201,7 +204,7 @@ fejében a jogosult által kapott ellenérték;
 
 (2) A belföldi illetőségű adózó és a külföldi vállalkozó az adózás előtti eredményt a beszámoló, ha az adóévre vonatkozó beszámoló készítésére az adóévről készítendő bevallás határidejéig nem kötelezett, könyvviteli zárlat alapján állapítja meg.
 
-(3) A társasági adó alapja az ingatlannal rendelkező társaság tagjának esetében a 15/A. §-ban meghatározott jövedelem.
+(3) A társasági adóalapja a szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság esetén a 15. §-ban, az ingatlannal rendelkező társaság tagja esetében a 15/A. §-ban meghatározott jövedelem.
 
 (4) Az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaság, a közhasznú, a kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza.
 
@@ -499,9 +502,23 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 14/A. §
 
-### A külföldi szervezet adóalapja
+### A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság adóalapja és az adó mértéke
 
-15. §
+15. § (1) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság adóalapja az adóévi beszámolóban kimutatott adózás előtti eredmény (2)–(5) bekezdésében felsorolt tételekkel módosított pozitív összege.
+
+(2) Az adózás előtti eredményt csökkenti a 7. § (1) bekezdés b), cs), d), dz), dzs), g), gy),h), n), p), q), r), ty) és u) pontja, valamint a 7. § (10) bekezdése szerinti összeg.
+
+(3) Az adózás előtti eredményt növeli a 8. § (1) bekezdés a), b), d), dzs), e), f), gy), h), j), m), o), p), r) és t) pontja, valamint a 8. § (5) és (7) bekezdése szerinti összeg.
+
+(4) A (2) és (3) bekezdésben foglaltakat figyelembe véve kell alkalmazni a 16. és 28. §-ok rendelkezéseit.
+
+(5) Amennyiben a szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alá nem tartozó kapcsolt vállalkozásával a 18. § hatálya alá tartozó ügyletet köt, az adóalap megállapítása során köteles az abban foglaltakat megfelelően alkalmazni.
+
+(6) Az (1) bekezdés szerint megállapított adóalapot társasági adófizetési kötelezettség – a (7)–(8) bekezdés szerinti eltéréssel – nem terheli.
+
+(7) Ha a szabályozott ingatlanbefektetési elővállalkozást az állami adóhatóság anélkül törli a nyilvántartásából, hogy szabályozott ingatlanbefektetési társaságként nyilvántartásba venné, akkor a szabályozott ingatlanbefektetési elővállalkozás a (6) bekezdés szerinti mentesség figyelmen kívül hagyásával számított adót kétszeres mértékben köteles megállapítani. Ha a szabályozott ingatlanbefektetési projekttársaság azelőtt kerül ki a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alól, hogy a szabályozott ingatlanbefektetési elővállalkozást az állami adóhatóság szabályozott ingatlanbefektetési társaságként nyilvántartásba venné, akkor a szabályozott ingatlanbefektetési elővállalkozás (a szabályozott ingatlanbefektetési társaság) kétszeres mértékben köteles megállapítani a szabályozott ingatlanbefektetési projekttársaság által meg nem fizetett adót.
+
+(8) Amennyiben a szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alá nem tartozó kapcsolt vállalkozásával kötött szerződésükben olyan ellenértéket alkalmaz, amely a 18. § alapján nem tekinthető szokásos piaci árnak, és ennek eredményeképpen a szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság adózás előtti eredménye kisebb, mint a szokásos piaci ár mellett lett volna, úgy a szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság a (6) bekezdés alkalmazásától függetlenül köteles az alkalmazott ellenérték és a szokásos piaci ár különbözete után az adót megállapítani.
 
 ### Az ingatlannal rendelkező társaság tagjánakadóalapja és az adó mértéke
 
@@ -602,7 +619,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (4) A mezőgazdasági ágazatba sorolt adózó az elhatárolt veszteséget az adóévet megelőző két adóévben befizetett adójának önellenőrzéssel való módosításával is rendezheti oly módon, hogy a megelőző két adóév adózás előtti eredményét csökkenti az elhatárolt veszteség összegével. Ha ezzel nem él, vagy ha a veszteségének csak egy részét rendezi a megelőző két adóév terhére, a fennmaradó részre az (1)–(3) bekezdés rendelkezései alkalmazhatók.
 
-(5)
+(5) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság az (1) bekezdés rendelkezéseit nem alkalmazhatja.
 
 (6) Ha a privatizációs lízingszerződés időtartama alatt az adózónál vagyonvesztés történik vagy a törlesztés meghiúsul és az állam nevében szerződő azonnali hatállyal nem mondja fel a szerződést, a vagyonvesztés vagy a törlesztés meghiúsulása évében az adózó az (1)–(2) bekezdésben foglalt veszteségelhatárolást nem alkalmazhatja.
 
