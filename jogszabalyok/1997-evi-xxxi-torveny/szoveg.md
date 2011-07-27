@@ -1025,6 +1025,27 @@ biztosít.
 - f) a szülőknek az ellátás mellett jogi, pszichológiai és mentálhigiénés segítséget nyújt,
 - g) közreműködik – a gyermekjóléti szolgálattal együttműködve – az átmeneti gondozást szükségessé tevő okok megszüntetésében, a család helyzetének rendezésében, otthontalanságának megszüntetésében.
 
+(4) A családok átmeneti otthona krízisközpontot működtethet.
+
+(5) A krízisközpont befogadja a hozzátartozók közötti erőszak miatt krízishelyzetbe került, a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló törvény szerint bántalmazottnak minősülő személyt és azt a vele egy háztartásban élő személyt, akinek tartására jogszabály, szerződés vagy bírósági határozat alapján köteles (a továbbiakban együtt: bántalmazott család).
+
+(6) A krízisközpont a bántalmazott család számára
+
+- a) alaptevékenysége keretében legfeljebb nyolc hét időtartamra
+  - aa) lakhatást biztosít és szükség esetén biztosítja az étkeztetést, a ruházattal való ellátást, a mentálhigiénés és egészségügyi ellátást,
+  - ab) közreműködik – a családsegítő, illetve a gyermekjóléti szolgálattal együttműködve – a krízisellátást szükségessé tevő okok megszüntetésében, a család, az egyén helyzetének rendezésében, otthontalanságának megszüntetésében,
+- b) kiegészítő tevékenysége keretében a bántalmazott társadalmi reintegrációja érdekében legfeljebb öt év időtartamra félutasház-szolgáltatást nyújthat.
+
+(7) A félutasház-szolgáltatás keretében a krízisközpontból, illetve a családok átmenti otthonából kikerült bántalmazott család számára lakhatást és az életvezetéshez szükség szerinti segítséget kell biztosítani.
+
+(8) A félutasház-szolgáltatás igénybevételének feltétele, hogy
+
+- a) a bántalmazottat biztosítással járó jogviszony keretében foglalkoztassák,
+- b) a bántalmazott vállalja a külön jogszabályban meghatározott előtakarékossági programban való részvételt, és
+- c) a bántalmazott vállalja a külön jogszabályban meghatározott társadalmi reintegrációt segítő programban való részvételt.
+
+(9) A krízisközpont működtetését az állam a jogszabályban meghatározott eljárási rend szerint kiválasztott fenntartókkal kötött finanszírozási szerződés útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni.
+
 ### VII. Fejezet — A gyermekvédelmi szakellátások
 
 ### A gyermekvédelmi szakellátások célja
@@ -2065,12 +2086,25 @@ köteles működtetni.
 
 (7) A fenntartó kezdeményezi a gyámhivatalnál a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó működési engedéllyel rendelkező gyermekjóléti szolgálatok és lakásotthonok közül a módszertani feladatokat ellátó intézmény kijelölését, azzal, hogy ellátási típusonként a megyében egy, a fővárosban két módszertani intézet működhet. A kijelölés ötévi időtartamra szól, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
-(8) A miniszter – pályázat útján, a fenntartó egyetértésével
+(8) A miniszter pályázat útján, a fenntartó egyetértésével
 
-- a) a gyermekek napközbeni ellátását biztosító intézmények, illetve a gyermekotthonok közül regionális módszertani feladatokat ellátó intézményt,
-- b) az átmeneti gondozást biztosító otthonok, a nevelőszülői hálózatok, a speciális gyermekotthonok, a területi gyermekvédelmi szakszolgálatok, illetve a gyermekjóléti és gyermekvédelmi innovatív szolgáltatást alaptevékenységként végző, jogi személyiséggel és működési engedéllyel rendelkező szervezetek közül országos hatáskörrel módszertani feladatokat ellátó intézményt
+- a) a bölcsődék, illetve a gyermekotthonok közül regionális módszertani feladatokat ellátó intézményt,
+- b) a családok átmeneti otthona, a nevelőszülői hálózatok, a területi gyermekvédelmi szakszolgálatok közül országos hatáskörrel módszertani feladatokat ellátó intézményt
 
 jelöl ki. A kijelölés ötévi időtartamra szól, amelynek elteltét követően az intézmény ismételten kijelölhető.
+
+(8a) A Kormány által kijelölt szerv látja el országos hatáskörrel
+
+- a) a családi napközi szolgáltatással,
+- b) a házi gyermekfelügyelet szolgáltatással,
+- c) a családi gyermekfelügyelet szolgáltatással,
+- d) a 41. § (4) bekezdése szerinti ellátásokkal,
+- e) a helyettes szülői ellátással,
+- f) a gyermekek átmeneti otthonával,
+- g) a különleges gyermekotthoni ellátással,
+- h) a speciális gyermekotthoni ellátással
+
+kapcsolatos módszertani feladatokat.
 
 (9) A kijelölt módszertani intézmény feladatkörében
 
@@ -2460,7 +2494,7 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 - a) a gyermekvédelmi és gyámügyi igazgatási eljárás során az eljárása alá vont ügyfélre ismert természetes személyazonosító adatainak közlésével, az ügyfélre vonatkozó a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 11. §-a (1) bekezdésének a)–e), g)–h), k) és m) pontja szerinti adatai tekintetében egyedi adatszolgáltatást kérhet a jogosultság megállapításához, illetve a hatósági intézkedések megtételéhez a polgárok személyi adatait és lakcímét nyilvántartó szervtől, amely adatokat a hatáskört gyakorló szerv az eljárása jogerős befejezéséig kezelhet azzal, hogy az átvett adatokat a hatáskört gyakorló szerv nem továbbíthatja,
 - b) a gyámsággal és a gondnoksággal kapcsolatos ügyekben, valamint a kiskorúak vagyoni ügyeiben – vagyoni érdekei védelmében – a gyámság, gondnokság alatt álló, illetve a kiskorú személy valamennyi ingatlanára vonatkozóan a tulajdoni lapon szereplő adatokról adatszolgáltatást kérhet az ingatlanügyi hatóságtól.
 
-(6) A személyes adatok felhasználására a miniszter, a helyi önkormányzat, a gyermekvédelmi és gyámügyi igazgatási hatáskört, illetve szociális hatáskört gyakorló szerv, a személyes gondoskodást nyújtó személy és intézmény, közoktatási és felsőoktatási intézmény, igazságszolgáltatási és ingatlan-nyilvántartási szerv, valamint pénzintézet, külföldi hatóság és bíróság jogosult e törvényben meghatározott módon és mértékben.
+(6) A személyes adatok felhasználására a miniszter, a helyi önkormányzat, a gyermekvédelmi és gyámügyi igazgatási hatáskört, illetve szociális hatáskört gyakorló szerv, a személyes gondoskodást nyújtó személy és intézmény, közoktatási és felsőoktatási intézmény, az ügyészség, a nyomozó hatóság, az ingatlan-nyilvántartási szerv, valamint pénzintézet, külföldi hatóság és bíróság jogosult e törvényben meghatározott módon és mértékben.
 
 (7) Az e törvény alapján elrendelt adatkezelésre és az adatok védelmére egyebekben a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezései az irányadóak.
 
@@ -2629,7 +2663,7 @@ vonatkozó adatokat kezelhet.
 
 138. § (1) A jegyző az ellátásra való jogosultság megállapításához, megváltoztatásához és megszüntetéséhez nyilvántartást vezet. A nyilvántartás tartalmazza
 
-- a) a gyermek, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait,
+- a) a gyermek, a szülő vagy más törvényes képviselő, illetve tartásra köteles személy személyazonosító adatait és a gyermek társadalombiztosítási azonosító jelét,
 - b) a 4. § (1) bekezdésének b) pontja szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot,
 - c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat,
 - d) az ellátással kapcsolatos döntéseket,
@@ -2646,20 +2680,41 @@ vonatkozó adatokat kezelhet.
 
 (4) A települési önkormányzat jegyzője nyilvántartást vezet az általa engedélyezett gyermekjóléti szolgáltató tevékenységről és az ellenőrzéssel kapcsolatos döntésről.
 
-139. § A személyes gondoskodásban részesülő személyekről az ellátó személy vagy az intézmény vezetője nyilvántartást vezet. A nyilvántartás tartalmazza
+139. § (1) A személyes gondoskodásban részesülő személyekről az ellátó személy vagy az intézmény vezetője nyilvántartást vezet. A nyilvántartás tartalmazza
 
 - a) a 138. § (1) és (2) bekezdésében meghatározott adatokat,
 - b) az ellátás igénybevételének és megszűnésének időpontját,
 - c) a térítési vagy gondozási díj fizetési kötelezettség teljesítésére, elmaradására, behajtására, illetve elévülésére vonatkozó adatokat.
 
+(2) A Kormány által kijelölt szerv a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+
+- a) a személyes gondoskodásban részesülő személy
+  - aa) személyazonosító adatait,
+  - ab) hontalan jogállására, a szabad mozgás és tartózkodás jogára vonatkozó adatot,
+  - ac) társadalombiztosítási azonosító jelét,
+- b) a személyes gondoskodást nyújtó gyermekjóléti alapellátás vagy gyermekvédelmi szakellátás formáját, igénybevételének és megszűnésének időpontját,
+- c) az intézmény, szolgáltató, hálózat ágazati azonosító jelét,
+- d) a finanszírozás, támogatás költségvetési törvény szerinti jogcímét és feladatmutatóját.
+
+(3) Nem kell a (2) bekezdés szerinti nyilvántartásba venni az adatokat
+
+- a) a 41. § (4) bekezdése szerinti ellátások esetén,
+- b) házi gyermekfelügyelet esetén,
+- c) gyermekjóléti szolgáltatás esetén, ha a gyermekjóléti szolgáltatás nyújtása az első találkozást követően tett intézkedéssel lezárható,
+- d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén.
+
+(4) A (2) bekezdés szerinti nyilvántartásból a személyes gondoskodást nyújtó gyermekjóléti alapellátás és gyermekvédelmi szakellátás igénybevételének megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat. A nyilvántartásból – ha törvény eltérően nem rendelkezik – adat nem továbbítható.
+
+(5) A (2) bekezdés szerinti nyilvántartás vezetése céljából a Kormány által kijelölt szerv a (2) bekezdés a)–d) pontjaiban meghatározott adatok szolgáltatását kérheti a személyes gondoskodást nyújtó gyermekjóléti alapellátást, gyermekvédelmi szakellátást nyújtó személyektől vagy intézményektől.
+
 140. § (1) A gyámhivatal nyilvántartást vezet
 
 - a) az általa megállapított és folyósított pénzbeli ellátásokról,
-- b) az ideiglenes hatállyal elhelyezett, valamint az átmeneti és a tartós nevelésbe vett gyermekekről, a gyámság és gondnokság alatt állókról a 139. §-ban meghatározott adattartalommal,
+- b) az ideiglenes hatállyal elhelyezett, valamint az átmeneti és a tartós nevelésbe vett gyermekekről, a gyámság és gondnokság alatt állókról a 139. § (1) bekezdésében meghatározott adattartalommal,
 - c) az a) és b) pontban megjelölt személyek, valamint a gyermekek minden olyan vagyonáról, amely nem tartozik a szülő kezelésébe, amelyet a gyámhivatal rendszeres felügyelete alá vont, vagy amelyet a gyámhivatalhoz beszolgáltattak,
 - d) a vagyonnal rendelkező gyermekről a bekövetkező nagykorúsága szerint.
 
-(2) A Kormány által kijelölt gyámhivatal az ideiglenes hatállyal elhelyezett külföldi állampolgárságú gyermekekről – ide nem értve a 4. § (1) bekezdésének b) pontja szerinti személyt – nyilvántartást vezet és az abban szereplő adatokról, valamint az azokban bekövetkezett változásokról rendszeresen tájékoztatja a minisztert. A nyilvántartás tartalmazza a 139. §-ban meghatározott adatokat.
+(2) A Kormány által kijelölt gyámhivatal az ideiglenes hatállyal elhelyezett külföldi állampolgárságú gyermekekről – ide nem értve a 4. § (1) bekezdésének b) pontja szerinti személyt – nyilvántartást vezet és az abban szereplő adatokról, valamint az azokban bekövetkezett változásokról rendszeresen tájékoztatja a minisztert. A nyilvántartás tartalmazza a 139. § (1) bekezdésében meghatározott adatokat.
 
 (3) A gyámhivatal egységes nyilvántartást vezet az általa engedélyezett gyermekvédelmi szolgáltatásokról és az ellenőrzéssel kapcsolatos döntésekről. A nyilvántartás adattartalma nyilvános.
 
@@ -2715,7 +2770,7 @@ vonatkozó adatokat kezelhet.
 
 törölni kell az adatokat.
 
-142. § (1) Ha törvény másképp nem rendelkezik, a 138–141. §-ok szerint vezetett nyilvántartásból – a jogosultság, illetve a gyermek nagykorúságától számított 25 év elteltével – törölni kell az adott személyre vonatkozó adatokat.
+142. § (1) Ha törvény másképp nem rendelkezik, a 138. §, a 139. § (1) bekezdése, a 140. § és a 141. § szerint vezetett nyilvántartásból – a jogosultság megszűnésétől, illetve a gyermek nagykorúságától számított 25 év elteltével – törölni kell az adott személyre vonatkozó adatokat.
 
 (2) Az adatkezelésre és a nyilvántartások vezetésére vonatkozó rendelkezések az irányadóak a személyes gondoskodás megszervezésének a nem állami szerv által az önkormányzattól történő átvállalása, illetve a törvény által nem szabályozott, az önkormányzat képviselő-testülete vagy a jegyzője feladat- és hatáskörébe tartozó ellátásokról vezetett nyilvántartás esetén is.
 
@@ -2919,7 +2974,7 @@ gyermekeket.
 
 158. § E törvénynek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel módosított 20/C. § (1) bekezdését a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
-159. §
+159. § Családok átmeneti otthona krízisközpontot az 51. § (4)–(9) bekezdése szerinti formában 2012. január 1-jétől működtethet.
 
 160. § (1) Az otthonteremtési támogatás megállapítására csak az e törvény hatálybalépését követően nagykorúvá vált fiatal felnőtt által előterjesztett kérelem alapján kerülhet sor. A nevelés – 25. § (2) bekezdése szerinti – időtartamába be kell számítani azokat az éveket, amelyek alatt a fiatal felnőtt megszakítás nélkül intézeti elhelyezett, intézeti vagy állami nevelt volt.
 
@@ -2949,7 +3004,7 @@ gyermekeket.
 - c) a térítési díjra vonatkozó részletes szabályokat,
 - d) a gyámhivatal vagy gyámhivatalok kijelölését, szervezetét, a gyámhatóság részletes feladat- és hatáskörét, valamint eljárása részletes szabályait,
 - e) a gyermekvédelmi szakfelügyeleti feladatot ellátó személyek képesítési előírásait,
-- f) a központi hatóság vagy hatóságok, az országos örökbefogadási nyilvántartást vezető szerv,, továbbá a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
+- f) a központi hatóság vagy hatóságok, az országos örökbefogadási nyilvántartást vezető szerv,, továbbá a 96. § (8a) bekezdésében, a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
 - g) a személyes adatok kezelésére vonatkozó részletes eljárási szabályokat,
 - h) a helyettes szülői és a nevelőszülői jogviszony egyes kérdéseit,
 - i) a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végzők működése engedélyezésének és ellenőrzésének részletes szabályait, a működést engedélyező szerv vagy szervek kijelölését,
@@ -2958,17 +3013,19 @@ gyermekeket.
 - l) a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végzők szakmai ellenőrzésének részletes szabályait,
 - m) a települési önkormányzat jegyzőjének hatáskörébe utalt pénzbeli és természetbeni ellátások igénylésének, megállapításának és folyósításának részletes szabályait,
 - n) a gyámhatóságként eljáró települési önkormányzat jegyzőjének illetékességére vonatkozó szabályokat,
-- o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az adatközlés módjára és idejére vonatkozó szabályokat, továbbá az országos jelentési rendszert működtető szerv vagy szervek kijelölését,
+- o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését,
 - p) a szolgáltató tevékenységet végző szolgáltatók, intézmények, helyettes szülői és nevelőszülői hálózatok országos nyilvántartásának részletes szabályait, a nyilvántartást vezető szerv vagy szervek kijelölését,
 - q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügyelettel, a gyermek és a kapcsolattartásra jogosult személyek közötti kapcsolattartással, a kiskorú házasságkötésével, az örökbefogadással, a családi jogállással, a gyámsággal és a gondnoksággal kapcsolatos gyermekvédelmi és gyámügyi végrehajtási szabályokat,
 - r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására irányuló eljárás részletes szabályait,
 - s) a nem állami és egyházi fenntartók által igénybe vehető normatív állami hozzájárulás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
 - t) az egyházi kiegészítő támogatás megtérítésére irányuló eljárás részletes szabályait,
-- u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésére irányuló eljárás részletes szabályait.
+- u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésére irányuló eljárás részletes szabályait,
+- v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,
+- w) a családok átmeneti otthona által működtetett krízisközpont finanszírozásának rendjére vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
-- a) a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények és a személyek szakmai feladatait, működésük feltételeit,
+- a) a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények és személyek szakmai feladatait, működésük feltételeit, valamint a szolgáltatás igénybevételére való jogosultság feltételeinek részletes szabályait,
 - b) a gyermekjóléti és gyermekvédelmi személyes gondoskodás körébe tartozó egyes feladatokat ellátó személyek képesítési előírásait,
 - c) az egyes gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények vezetőinek képesítési előírásait, megbízását és az intézményvezetői állás betöltésével kapcsolatos pályázati eljárást,
 - d) a 102. §-ban és a 137. § (2) bekezdésében meghatározott eljárás részletes szabályait,

@@ -1577,7 +1577,7 @@ számítandó.
 
 202. § (1) A részvénytársaság igazgatósága vagy – (2) bekezdés szerinti – megbízottja a részvényesről, ideértve az ideiglenes részvény tulajdonosát is, részvénykönyvet vezet, amelyben nyilvántartja a részvényes, illetve a részvényesi meghatalmazott (a továbbiakban együtt: részvényes) – közös tulajdonban álló részvény esetén a közös képviselő – nevét (cégét) és lakóhelyét (székhelyét), részvénysorozatonként a részvényes részvényeinek, ideiglenes részvényeinek darabszámát (tulajdoni részesedésének mértékét), valamint egyéb, törvényben és a részvénytársaság alapszabályában meghatározott adatokat. A részvénykönyv törölt adatainak megállapíthatónak kell maradniuk.
 
-(2) A részvénytársaság igazgatósága a részvénykönyv vezetésére – külön törvény szerinti – elszámolóháznak, központi értéktárnak, befektetési vállalkozásnak vagy pénzügyi intézménynek adhat megbízást. A megbízás tényét és a megbízott személyét a Cégközlönyben közzé kell tenni.
+(2) A részvénytársaság igazgatósága a részvénykönyv vezetésére – külön törvény szerinti – elszámolóháznak, központi értéktárnak, befektetési vállalkozásnak, pénzügyi intézménynek, ügyvédnek vagy könyvvizsgálónak (ide nem értve a számviteli törvény szerinti kötelező könyvvizsgálat esetén a választott könyvvizsgálót), valamint közjegyzőnek, jogtanácsosnak adhat megbízást. A megbízás tényét és a megbízott személyét a Cégközlönyben közzé kell tenni.
 
 (3) A részvény átruházása a részvénytársasággal szemben akkor hatályos és a részvényes a részvénytársasággal szemben részvényesi jogait csak akkor gyakorolhatja, ha a részvényest a részvénykönyvbe bejegyezték.
 
@@ -2604,6 +2604,8 @@ kerül sor.
 336/A. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 208. §-a (1) bekezdésének e) pontját, 208. §-a (2) bekezdésének h) pontját a 2011. január 1-jét követően elfogadott alapszabályok esetében kell figyelembe venni.
 
 336/B. § A cégjegyzékbe már bejegyzett nyilvánosan működő részvénytársaságok legfőbb szervei az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény 138. §-ával megállapított – 304. § (2) bekezdése hatálybalépését követő első ülésén, de legkésőbb 2011. június 30-áig kötelesek társasági szerződésüket e rendelkezéshez igazítva módosítani, és eddig az időpontig azt a cégbírósághoz benyújtani.
+
+336/C. § A szabályozott ingatlanbefektetési társaságokról szóló 2011. évi CII. törvény (a továbbiakban: Szit. tv.) 26. §-ával megállapított 202. § (2) bekezdését a Szit. tv. hatálybalépését megelőző időponttól vezetett részvénykönyvekre is alkalmazni kell, amennyiben a részvénytársaságot szabályozott ingatlanbefektetési társaságként az állami adóhatóság nyilvántartásba vette.
 
 ### Jogharmonizációs záradék
 

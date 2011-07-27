@@ -542,6 +542,13 @@ hatálya alá tartozó munkáltató számára történő átadására kerül sor
 
 25/D. § Külön törvény rendelkezik a közalkalmazott jogviszonyának átalakulásáról abban az esetben, amikor jogszabály rendelkezése folytán a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) szervezeti vagy jogállás változása miatt a kormánytisztviselők jogállásáról szóló törvény hatálya alá kerül.
 
+25/E. § Ha a költségvetési szerv úgy szűnik meg, hogy az alapító szerv döntése alapján a többcélú intézmény valamely szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja az e törvény hatálya alá tartozó más munkáltató számára kerül átadásra, a költségvetési szerv
+
+- a) átadásra kerülő szervezeti egységében foglalkoztatott személy közalkalmazotti jogviszonyára az Mt. 85/A. § (1)–(4) bekezdését,
+- b) átadásra nem kerülő foglalkoztatottja esetében a 25. § (1) bekezdés c) pontját
+
+kell alkalmazni.
+
 26. § (1) Az áthelyezésben a két munkáltatónak egymással és a közalkalmazottal kölcsönösen meg kell állapodnia.
 
 (2) Az áthelyezés során meg kell állapodni a közalkalmazott új munkakörében, munkahelyében, illetményében és az áthelyezés időpontjában.
@@ -1427,7 +1434,9 @@ alapszabadság illeti meg.
 
 79/E. § A felsőoktatási intézményben oktatói munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét e törvény 2. számú melléklete szerint kell meghatározni az egyetemi tanári munkakör 1. fizetési fokozata garantált illetményének költségvetési törvényben rögzített összege százalékos arányában.
 
-80. § A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munka díjazására vonatkozó szabályai (Harmadik rész, VII. fejezet) közül a 142. §-a, a 143–143/A. §-a, a 144. §-ának (6) bekezdése, a 147. §-ának (6)–(7) bekezdése, a 154. §-a (1) bekezdésének utolsó két mondata, a 154. §-ának (2) bekezdése, a 155. §-ának (2) bekezdése nem alkalmazható.
+80. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munka díjazására vonatkozó szabályai (Harmadik rész, VII. fejezet) közül a 142. §, a 143–143/A. §, a 144. § (6) bekezdése, a 147. § (6)–(7) bekezdése, a 154. § (1) bekezdésének utolsó két mondata, a 154. § (2) bekezdése, a 155. § (2) bekezdése nem alkalmazható.
+
+(2) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyve 147. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a napi munkaidőt, illetve a munkaidőkeretet meghaladóan végzett munka ellenértékeként szabadidőt csak a kollektív szerződés állapíthat meg.
 
 ### VI. Fejezet — A közalkalmazott és a munkáltató kártérítési felelőssége
 
@@ -1688,7 +1697,7 @@ eltöltött időt.
 
 (2) Az (1) bekezdés nem alkalmazható, ha a vezetői megbízás mellett ellátandó munkakört külön jogszabály alapján csak felsőfokú végzettséggel lehet betölteni.
 
-91. §
+91. § Az e törvénynek a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvénnyel (a továbbiakban: Módtv.) megállapított 25/E. §-át a Módtv. hatálybalépésekor folyamatban lévő ügyekben akkor kell alkalmazni, ha az alapító szerv a költségvetési szervként működő többcélú intézmény átalakítására, illetve megszüntetésére irányuló, az államháztartásról szóló 1992. évi XXXVIII. törvény 95. § (1) bekezdése szerinti döntését meghozta és a Módtv. hatálybalépésekor a költségvetési szerv megszüntetésére még nem került sor.
 
 92. § (1)
 

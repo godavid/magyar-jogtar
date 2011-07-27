@@ -412,6 +412,8 @@ indokolja a kinevezés módosítását.
 
 (11) Amennyiben a körjegyzőség megszűnik, illetve a körjegyzőségbe tartozó önkormányzatok megváltoznak és e változás következtében a körjegyzői tisztségre új pályázat kiírására kerül sor, vagy a polgármesteri hivatal megszűnik és az érintett önkormányzat részvételével körjegyzőség alakul, illetve területszervezési intézkedés következtében önkormányzat szűnik meg vagy jön létre, ez olyan átszervezésnek minősül, amely alapján a jegyző közszolgálati jogviszonya felmentéssel az (1) bekezdés c) pontja alapján szüntethető meg.
 
+(12) Ha a körjegyzőség megszűnésének időpontjában a körjegyző felmentési védelem alatt áll [Mt. 90. § (1) bekezdés], akkor a körjegyző jogviszonyának megszüntetéséről szóló intézkedést a megszűnt körjegyzőséget alkotó önkormányzatok képviselő-testületei legkorábban a felmentési védelem lejártát követő napon hozhatják meg.
+
 17/A. § (1) A közszolgálati jogviszony a 15. § (1) bekezdésének g) pontjában meghatározottak alapján szűnik meg, ha a munkáltató szervezeti vagy jogállás változása miatt az e törvény hatálya már nem terjed ki a jogutód munkáltatóra.
 
 (2) A munkáltató a köztisztviselőt a szervezeti jogállás megváltozását megelőzően legalább 60 nappal a változásról értesíti. Ezzel egyidejűleg a köztisztviselőt írásban tájékoztatni kell arról, hogy az új munkáltató a köztisztviselő továbbfoglalkoztatását vállalja-e.
