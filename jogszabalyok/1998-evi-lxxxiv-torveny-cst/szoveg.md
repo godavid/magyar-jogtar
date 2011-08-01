@@ -17,7 +17,8 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 - a) magyar állampolgárra,
 - b) bevándorolt vagy letelepedett jogállású, továbbá a magyar hatóság által menekültként, illetve hontalanként elismert személyekre,
 - c) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
-- d) – az anyasági támogatás (IV. fejezet) kivételével – a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletekben (a továbbiakban: uniós rendeletek) meghatározott jogosulti körbe tartozó személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja, és – a határ menti ingázó munkavállalókat kivéve – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik.
+- d) – az anyasági támogatás (IV. fejezet) kivételével – a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletekben (a továbbiakban: uniós rendeletek) meghatározott jogosulti körbe tartozó személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja, és – a határ menti ingázó munkavállalókat kivéve – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
+- e) – az anyasági támogatás (IV. fejezet) kivételével – a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező harmadik országbeli állampolgárra.
 
 ### Alapelvek
 
@@ -468,7 +469,7 @@ tanköteles gyermek mulasztott.
 - b) a családpolitikáért felelős miniszter, hogy rendeletben szabályozza
   - ba) – az egészségügyért felelős miniszterrel egyetértésben – a magasabb összegű családi pótlékra jogosító betegségek körét, valamint az erről szóló igazolások kiadásának rendjét,
   - bb) a családtámogatási ellátások igényléséhez szükséges formanyomtatványok tartalmát;
-- c) a Kormány arra, hogy a 2. § c) és d) pontjában meghatározott személyekre vonatkozó családtámogatási ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos végrehajtási szabályokat rendeletben határozza meg.
+- c) a Kormány arra, hogy a 2. § c)–e) pontjában meghatározott személyekre vonatkozó családtámogatási ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos végrehajtási szabályokat rendeletben határozza meg.
 
 52. §
 
@@ -477,4 +478,5 @@ tanköteles gyermek mulasztott.
 53. § Ez a törvény a következő uniós jogi aktusoknak való részleges megfelelést szolgálja:
 
 - a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés d) pont és 21. cikk,
-- b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikke.
+- b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikke,
+- c) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés e) pont.

@@ -32,7 +32,7 @@ A szociális ellátás feltételeinek biztosítása, a nemzetközi egyezményekb
 
 amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik.
 
-(4)
+(4) A 32/B. § (1) bekezdésében meghatározott időskorúak járadéka tekintetében a törvény hatálya kiterjed a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártya) rendelkező harmadik országbeli állampolgárra, feltéve, hogy rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel.
 
 (5) E törvény meghatározza a pénzbeli, a természetben nyújtott és a személyes gondoskodást nyújtó szociális ellátások egyes formáit, a jogosultság feltételeit, annak megállapítását, a szociális ellátás finanszírozásának elveit és intézményrendszerét, a szociális ellátást nyújtó szervezet és a jogosult közötti jogviszony főbb elemeit, továbbá a fenntartónak a szolgáltatóval, illetve intézménnyel kapcsolatos feladat- és jogkörét, valamint a személyes gondoskodást nyújtó szociális, gyermekjóléti, gyermekvédelmi tevékenységet végző személy adatainak működési nyilvántartására vonatkozó szabályokat.
 
@@ -244,7 +244,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - f) a szociális ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó döntést;
 - g) a jogosultság és a térítési díj megállapításához szükséges jövedelmi adatokat;
 - h) a jogosult Társadalombiztosítási Azonosító Jelét (TAJ szám);
-- i) a 3. § (3) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot;
+- i) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot;
 - j) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó, külön törvényben foglalt adatokat;
 - k) a bérpótló juttatásra jogosult személy iskolai végzettségét és szakképzettségét.
 
@@ -435,13 +435,13 @@ kell előterjeszteni.
 
 (2) Az (1) bekezdésben megjelölt reá irányadó nyugdíjkorhatár alatt a Tny.-ben szabályozott nyugdíjkorhatárt kell érteni.
 
-(3) A jegyző időskorúak járadékában részesíti a 3. § (3) bekezdésének b) pontjában meghatározott személyt, amennyiben az e törvényben foglalt feltételeknek megfelel.
+(3) A jegyző időskorúak járadékában részesíti a 3. § (3) bekezdés b) pontjában, valamint (4) bekezdésében meghatározott személyt, amennyiben az e törvényben foglalt feltételeknek megfelel.
 
 (4) Nem állapítható meg az időskorúak járadéka, illetve a folyósítást meg kell szüntetni, ha a személy
 
 - a) előzetes letartóztatásban van, elzárás, illetőleg szabadságvesztés büntetését tölti;
 - b) 3 hónapot meghaladó időtartamban külföldön tartózkodik.
-- c) a 3. § (3) bekezdése alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott.
+- c) a 3. § (3) vagy (4) bekezdése alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott.
 
 32/C. § (1) Az időskorúak járadékának havi összege
 
@@ -2700,7 +2700,7 @@ kaphatnak.
 - g) a nem állami és egyházi fenntartók által igénybe vehető normatív állami hozzájárulás igénylésének, folyósításának és elszámolásának részletes szabályait,
 - i) a foglalkoztatási támogatás igénylésével, elszámolásával kapcsolatos szabályokat,
 - j) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 20/C. § szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését;
-- k) a 3. § (3) bekezdésében meghatározott személyekre vonatkozó ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat;
+- k) a 3. § (3) és (4) bekezdésében meghatározott személyekre vonatkozó ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat;
 - l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
 - m) a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait,
 - n) a szociális hatóság és a szociális szakértői szerv kijelölését;
@@ -2798,4 +2798,5 @@ kell elvégezni.
 141. § Ez a törvény a következő uniós jogi aktusoknak való részleges megfelelést szolgálja:
 
 - a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés d) pont és 21. cikk,
-- b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
+- b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
+- c) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés e) pont.

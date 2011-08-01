@@ -94,7 +94,7 @@ alapvető jogai és kötelezettségei
 
 9/B. § (1) Az állam a kizárólagos tulajdonát képező, az országos közúthálózatba tartozó autópályák, autóutak – illetőleg azok egyes szakaszai – és a műtárgyaik létesítése, fejlesztése, felújítása, fenntartása és üzemeltetése (a továbbiakban együtt: működtetés) céljából költségvetési szervet alapíthat, vagy e célra olyan gazdálkodó szervezetet hozhat létre, amelyben többségi részesedéssel, szavazati joggal rendelkezik, vagy a működtetést koncesszióba adhatja.
 
-(2) Az önkormányzat a törzsvagyonának részét képező közutak és műtárgyaik működtetése céljából önkormányzati intézményt, vagy saját többségi részesedésével e célra gazdálkodó szervezetet alapíthat, vagy a működtetést koncesszióba adhatja.
+(2) Az önkormányzat a törzsvagyonának részét képező közutak és műtárgyaik működtetése céljából önkormányzati intézményt, vagy saját többségi befolyásával (Ptk. 685/B. §) e célra gazdálkodó szervezetet működtethet, a feladatot a többségi tulajdonában álló gazdasági társaságra ruházhatja, vagy a működtetést koncesszióba adhatja.
 
 (3)
 
