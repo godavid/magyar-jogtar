@@ -466,7 +466,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (2) Munkavédelmi képviselővé az a cselekvőképes munkavállaló választható, aki legalább 6 hónapja a munkáltatóval szervezett munkavégzésre irányuló jogviszonyban áll. Az újonnan alakult munkáltatónál a munkavédelmi képviselő ilyen jogviszonya időtartamát feltételként nem kell figyelembe venni.
 
-(3) A munkavédelmi képviselőt egyenlő, titkos és közvetlen szavazással négy évre választják. A megválasztott munkavédelmi képviselők személyéről a munkavállalókat tájékoztatni kell. A munkavédelmi képviselők megválasztásának, megbízatása megszűnésének, visszahívásának rendjére, működési területére a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénynek (Mt.) az üzemi tanács tagjaira, illetve az üzemi megbízottra vonatkozó rendelkezéseit kell megfelelően alkalmazni, ideértve a központi munkavédelmi bizottság megalakításának lehetőségét is.
+(3) A munkavédelmi képviselőt egyenlő, titkos és közvetlen szavazással öt évre választják. A megválasztott munkavédelmi képviselők személyéről a munkavállalókat tájékoztatni kell. A munkavédelmi képviselők megválasztásának, megbízatása megszűnésének, visszahívásának rendjére, működési területére a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénynek (a továbbiakban: Mt.) az üzemi tanács tagjaira, illetve az üzemi megbízottra vonatkozó rendelkezéseit kell megfelelően alkalmazni, ideértve a központi munkavédelmi bizottság megalakításának lehetőségét is.
 
 (4) Amennyiben a munkavédelmi képviselők száma eléri a hármat, úgy munkahelyi munkavédelmi bizottságot (a továbbiakban: bizottság) hozhatnak létre. Bizottság létrehozása esetén a munkavédelmi képviselőt megillető jogokat — ha azok a munkavállalók összességét érintik — a bizottság gyakorolja.
 
@@ -480,7 +480,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (4) A munkáltató köteles a testületbe döntésre jogosult vezető állású munkavállalót (Mt. 188. §), továbbá munkáltatói munkavédelmi feladatokat részben vagy egészben ellátó személyt (intézkedésre jogosult munkairányítót, illetve a munkáltatóval szervezett munkavégzésre irányuló jogviszonyban lévő munkavédelmi szakembert) kijelölni. A munkáltató számára rendszeres munkavédelmi szolgáltatást nyújtó szakemberek meghívottként vesznek részt a testület munkájában.
 
-(5) A testület rendes és póttagjainak megbízatása négy évre szól.
+(5) A testület rendes és póttagjainak megbízatása öt évre szól.
 
 (6) A testület elnöki tisztét a munkavállalók, illetve a munkáltatók képviselői felváltva gyakorolják. A testület rendes és póttagjainak számában, a tagok megbízatásának megszűnése, valamint a visszahívás feltételeiben, elnöklési és működési rendjében, ügyrendjében, egyéb, a testület tevékenységével összefüggő eljárási kérdésekben a munkavállalók képviselői és a munkáltató állapodnak meg. A testület működésének feltételeit a munkáltató biztosítja.
 
@@ -817,3 +817,5 @@ részletes szabályait.
 - e) a munkavállalók által a munkájuk során használt munkaeszközök biztonsági és egészségvédelmi minimumkövetelményeiről [második egyedi irányelv a 89/391/EGK irányelv 16. cikkének (1) bekezdése értelmében] szóló 89/655/EGK tanácsi irányelv.
 
 (7)–(8)
+
+89. § Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény (a továbbiakban: Módtv.) hatálybalépését követően első alkalommal új munkavédelmi képviselőt a Módtv. hatálybalépésekor működő munkavédelmi képviselőnek e törvénynek a Módtv. hatálybalépését megelőző időpontban hatályos szabályai szerinti megbízatásának lejártáig, de legkésőbb a Módtv. hatálybalépésétől számított négy éven belül kell megválasztani.

@@ -114,8 +114,6 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 (10) Amennyiben a programban részt vevő munkáltatója munkajogi jogállása megváltozik, az új munkáltatónál történő továbbfoglalkoztatásra irányadó szabályokat a programban részt vevőre is alkalmazni kell. Ha e rendelkezések alapján az új munkáltató és a prémiumévek programban részt vevő között foglalkoztatási jogviszony létesül, a prémiumévek program az új munkáltatónál a jogviszony megszűnésének időpontja, valamint a havi juttatás összege tekintetében változatlan feltételekkel folytatódik.
 
-### A prémiumévek program a költségvetési fenntartási körbe nem tartozó munkáltatóknál
-
 4/A. § A prémiumévek programban 2010. január 1-jét megelőző időponttól részt vevő, és a rájuk irányadó előrehozott öregségi nyugdíj összegének 2010. január 1-jétől hatályos változása miatt a kinevezésük módosítása szerinti jogviszony megszűnési időpontjánál későbbi időpontban teljes összegű nyugdíjjogosultságot szerző, programban részt vevő személyeknek a programban való részvétele meghosszabbodik teljes összegű nyugdíjjogosultságuk megszerzésének időpontjáig.
 
 ### A különleges foglalkoztatási állomány

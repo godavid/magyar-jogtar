@@ -387,7 +387,7 @@ részt vehet.
 
 (5) A 18. § szerinti szabályzatot az egészségügyi szolgáltató e törvény hatálybalépését követő 30 napon belül készíti el.
 
-(6) Az első szakorvosi szakképesítés megszerzéséig a felsőfokú szakirányú szakképzés megszerzését megkezdő orvos és fogorvos munkaideje – a 13. § (2) bekezdésében foglalt kivétellel – a heti 56 órát, 2009. augusztus 1-től legkésőbb 2011. július 31-ig a heti 52 órát nem haladhatja meg. A heti 48 órát meghaladó munkavégzés elrendelésének részletes feltételeit az egészségügyért felelős miniszter rendeletben állapítja meg.
+(6)
 
 (7) A (6) bekezdés 2011. augusztus 1. napjával hatályát veszti. E bekezdés 2011. augusztus 2-án hatályát veszti.
 

@@ -6,9 +6,17 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 ### Általános rendelkezések
 
-1. § (1) A Nemzeti Földalap, mint a kincstári vagyon része az állam tulajdonában lévő termőföldek, mező-, erdőgazdasági művelés alatt álló belterületi földek, valamint a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett földek összessége.
+1. § (1) A Nemzeti Földalap a kincstári vagyon része. A Nemzeti Földalapba tartozik az állam tulajdonában lévő, az ingatlan-nyilvántartásban
 
-(2) E törvény alkalmazása során a termőföld és a mező-, erdőgazdasági művelés alatt álló belterületi föld fogalmán a termőföldről szóló törvényben meghatározott fogalmakat kell érteni.
+- a) szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, erdő, fásított terület vagy halastó művelési ágban nyilvántartott terület,
+- b) művelés alól kivett területként nyilvántartott olyan terület (ide nem értve az Állami terület I; Állami terület II; és Állami terület III. megnevezésű művelés alóli kivett területet), amelyre az Országos Erdőállomány Adattárban erdőként nyilvántartott terület jogi jelleg ténye van feljegyezve, és az Országos Erdőállomány Adattárban foglaltak szerint elsődleges gazdasági rendeltetésű erdőnek minősül;
+- c) művelés alól kivett területként nyilvántartott olyan terület, amely a Nemzeti Földalapba tartozó földrészlet mező-, erdőgazdasági tevékenységét szolgálja, vagy ahhoz szükséges.
+
+(2) Az (1) bekezdésben foglaltakon túl a Nemzeti Földalap részét képezik az (1) bekezdésben meghatározott területekhez kapcsolódó vagyoni értékű jogok is.
+
+(2a) E törvény alkalmazásában földrészletnek minősül az (1) bekezdésben meghatározott terület, függetlenül attól, hogy az az ingatlan-nyilvántartásban önálló földrészletként vagy a földrészlet alrészleteként van nyilvántartva.
+
+(2b) E törvény alkalmazásában a hasznosítás fogalmán a Nemzeti Földalapba tartozó földrészletnek a 3. §-ban meghatározott tulajdonosi jogok gyakorlója által e törvényben meghatározott módon, jogcímen történő átadását, átengedését kell érteni.
 
 (3) A Nemzeti Földalap rendeltetése:
 
@@ -27,9 +35,19 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - m) szociálisan hátrányos helyzetű rétegek megélhetésének elősegítése érdekében szervezett mezőgazdasági munkavégzést szolgáló szociális földalap biztosítása;
 - n) az oktatás és a tudományos kutatás céljainak, a mezőgazdasági genetikai háttér fenntartásának, megőrzésének szolgálata.
 
-2. § A Nemzeti Földalapba tartozó vagyon hasznosítására és nyilvántartására, a Nemzeti Földalap feletti tulajdonosi jogok gyakorlására az e törvényben foglaltakat kell alkalmazni.
+2. § A Nemzeti Földalapba tartozó földrészlet hasznosítására és nyilvántartására, a Nemzeti Földalap feletti tulajdonosi jogok gyakorlására az e törvényben foglaltakat kell alkalmazni.
 
-3. § A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogokat és kötelezettségeket az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) a Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) útján gyakorolja. A Nemzeti Földalappal kapcsolatos polgári jogviszonyokban az államot az NFA képviseli.
+3. § (1) A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogokat és kötelezettségeket az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) a Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) útján gyakorolja. A Nemzeti Földalappal kapcsolatos polgári jogviszonyokban az államot – törvény eltérő rendelkezése hiányában – az NFA képviseli.
+
+(2) A tulajdonosi jogok gyakorlása kiterjed a tulajdonjoghoz kapcsolódó vagyoni értékű jogok gyakorlására is.
+
+(3) Azon állami tulajdonban álló, vagy állami tulajdonba kerülő ingatlan felett, amely az ingatlan-nyilvántartás szerint nem kizárólag Nemzeti Földalapba tartozó földrészletet tartalmaz, a tulajdonosi jogokat a miniszter az állami vagyon felügyeletéért felelős miniszterrel, az NFA és a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján – e törvény végrehajtására kiadott jogszabályban foglaltak szerint – a következő módon gyakorolja:
+
+- a) az ingatlan tulajdonjogának átruházása esetén együttesen;
+- b) mindkét fél tulajdonosi joggyakorlásával érintett hasznosítás esetén (ide nem értve a tulajdonjog átruházását) egymással együttműködve;
+- c) csak az egyik fél tulajdonosi joggyakorlásával érintett hasznosítás esetén (ide nem értve a tulajdonjog átruházását) a másik fél érdekeinek szem előtt tartásával önállóan.
+
+(4) A (3) bekezdés szerinti ingatlanokra vonatkozó döntést megelőzően meg kell állapítani az ingatlan egészének elsődleges rendeltetését, valamint a hasznosítással elérhető fő célkitűzéseket, és legkedvezőbb előnyöket.
 
 ### A Nemzeti Földalapkezelő Szervezet
 
@@ -41,7 +59,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 - a) országgyűlési, európai parlamenti vagy helyi, kisebbségi önkormányzati képviselő, megyei közgyűlés tagja, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 - b) a Nemzeti Földalap Ellenőrző Bizottságának (a továbbiakban: ellenőrző bizottság) tagja;
-- c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó vagyonelemet érintően szerződéses viszonyban áll.
+- c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 
 (4) Az NFA elnökének és elnökhelyettesének e megbízatásával összeférhetetlen az is, ha a (3) bekezdés szerinti tisztséget vagy jogviszonyt a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy az élettársa tölti be.
 
@@ -72,27 +90,28 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - a) vezeti az NFA-t;
 - b) javaslatot tesz a miniszternek az NFA elnökhelyettesének kinevezésére és felmentésére;
 - c) az NFA alkalmazottai felett, valamint – a kinevezés és a felmentés kivételével – az NFA elnökhelyettesei felett gyakorolja a munkáltatói jogokat;
-- d) a 8. § (1) bekezdés d)–f) pontjaiban foglaltak kivételével dönt – a Tanács javaslatának figyelembevételével – a Nemzeti Földalapba tartózó földrészletek hasznosításával kapcsolatos kérdésekben;
+- d) a 8. § (1) bekezdés d)–f) és h) pontjaiban foglaltak kivételével dönt – a Tanács javaslatának figyelembevételével – a Nemzeti Földalapba tartózó földrészletek hasznosításával kapcsolatos kérdésekben;
 - e) a d) pontban foglaltak kivételével dönt az NFA-t érintő kötelezettség-vállalásról;
 - f) elkészíti az 5. § szerinti beszámolót, az NFA államháztartási számviteli kormányrendelet szerinti elemi költségvetési beszámolót, valamint a rábízott földvagyonról szóló éves beszámolóját;
 - g) képviseli az NFA-t harmadik személyekkel szemben;
 - h) kapcsolatot tart az ellenőrző bizottsággal;
 - i) felelős a Tanács döntéseinek végrehajtásáért;
-- j) felelős a Nemzeti Földalapba tartozó vagyonelemek naprakész nyilvántartásáért;
-- k) felelős a Nemzeti Földalapba tartozó vagyonelemek törvényes, szakszerű, hatékony és gazdaságos hasznosításáért;
+- j) felelős a Nemzeti Földalapba tartozó földrészletek naprakész nyilvántartásáért;
+- k) felelős a Nemzeti Földalapba tartozó földrészletek törvényes, szakszerű, hatékony és gazdaságos hasznosításáért;
 - l) meghatározza a rábízott földvagyon számviteli politikáját.
 
 (2) Az NFA elnöke ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.
 
 8. § (1) A Tanács:
 
-- a) elkészíti a Nemzeti Földalapba tartozó vagyonelemek hasznosításával kapcsolatos – a földbirtok-politikai irányelveken alapuló – középtávú stratégiai tervét;
+- a) elkészíti a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos – a földbirtok-politikai irányelveken alapuló – középtávú stratégiai tervét;
 - b) érvényre juttatja az NFA tevékenysége során a Kormány által elfogadott középtávú stratégiát;
-- c) véleményezi – a középtávú stratégiában és Nemzeti Vidékfejlesztési Tervben megfogalmazott célkitűzések alapján – az NFA által készített, a Nemzeti Földalapba tartozó vagyonelemek hasznosításával kapcsolatos éves tervet;
+- c) véleményezi – a középtávú stratégiában és Nemzeti Vidékfejlesztési Tervben megfogalmazott célkitűzések alapján – az NFA által készített, a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos éves tervet;
 - d) dönt a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos egyedi ügyekben, ha az annak tárgyát képező földrészlet vagy földrészletek együttes értéke eléri a 100 millió forintot, illetve a térmértéke eléri a 100 hektárt;
 - e) dönt 100 millió forintot, vagy 100 hektár térmértéket elérő földrészlet vagy földrészletek tulajdonjogának az állam javára történő megszerzésével kapcsolatos ügyekben;
 - f) dönt a 21. § (3)–(6) bekezdése szerinti jogügyletekről;
 - g) véleményezi Nemzeti Földalap helyzetéről és az NFA tevékenységéről készült éves országgyűlési beszámoló tervezetét.
+- h) az MNV Zrt.-vel közösen dönt a 3. § (3) bekezdés a) és b) pontjában meghatározott ingatlanok hasznosításának módjáról az e törvény végrehajtására kiadott jogszabály szerint.
 
 (2) A Tanács ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.
 
@@ -121,13 +140,13 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 - a) országgyűlési, európai parlamenti vagy helyi, kisebbségi önkormányzati képviselő, megyei közgyűlés tagja, miniszter, államtitkár, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 - b) az ellenőrző bizottságának tagja;
-- c) olyan gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó vagyonelemet érintően szerződéses viszonyban áll.
+- c) olyan gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 
 (3) A Tanács tagjának e megbízatásával összeférhetetlen az is, ha a (2) bekezdés szerinti tisztséget vagy jogviszonyt a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy az élettársa tölti be.
 
-11. § (1) Az NFA elnöke, elnökhelyettese, a Tanács tagja, valamint ezen személyek Polgári Törvénykönyv szerinti közeli hozzátartozója és élettársa e jogviszony fennállása alatt nem lehet tagja vagy vezető tisztségviselője mezőgazdasági, erdőgazdasági tevékenységet folytató gazdálkodó szervezetnek, ilyen szervezetben nem szerezhet társasági részesedést, a Nemzeti Földalapba tartozó vagyonelem hasznosítására irányuló pályázaton nem indulhat, árverésen nem licitálhat, a Nemzeti Földalapba tartozó vagyonelemet érintően szerződést az NFA-val nem köthet.
+11. § (1) Az NFA elnöke, elnökhelyettese, a Tanács tagja, valamint ezen személyek Polgári Törvénykönyv szerinti közeli hozzátartozója és élettársa e jogviszony fennállása alatt nem lehet tagja vagy vezető tisztségviselője mezőgazdasági, erdőgazdasági tevékenységet folytató gazdálkodó szervezetnek, ilyen szervezetben nem szerezhet társasági részesedést, a Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló pályázaton nem indulhat, árverésen nem licitálhat, a Nemzeti Földalapba tartozó földrészletet érintően szerződést az NFA-val nem köthet.
 
-(2) Az NFA ellenőrző bizottság tagja, valamint ezen személyek Polgári Törvénykönyv szerinti közeli hozzátartozója és élettársa e jogviszony fennállása alatt nem lehet tagja vagy vezető tisztségviselője mezőgazdasági, erdőgazdasági tevékenységet folytató állami részvétellel működő gazdálkodó szervezetnek, ilyen szervezetben nem szerezhet társasági részesedést, a Nemzeti Földalapba tartozó vagyonelem hasznosítására irányuló pályázaton nem indulhat, árverésen nem licitálhat, a Nemzeti Földalapba tartozó vagyonelemet érintően szerződést az NFA-val nem köthet.
+(2) Az NFA ellenőrző bizottság tagja, valamint ezen személyek Polgári Törvénykönyv szerinti közeli hozzátartozója és élettársa e jogviszony fennállása alatt nem lehet tagja vagy vezető tisztségviselője mezőgazdasági, erdőgazdasági tevékenységet folytató állami részvétellel működő gazdálkodó szervezetnek, ilyen szervezetben nem szerezhet társasági részesedést, a Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló pályázaton nem indulhat, árverésen nem licitálhat, a Nemzeti Földalapba tartozó földrészletet érintően szerződést az NFA-val nem köthet.
 
 (3) Nem vonatkozik az (1) és (2) bekezdés arra az esetre, ha az adásvételi (haszonbérleti) szerződés megkötésére jogszabályon alapuló elővásárlási (előhaszonbérleti) jog alapján kerül sor.
 
@@ -194,7 +213,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 ### A Nemzeti Földalapba tartozó földrészletek és azok hasznosítása
 
-15. § (1) A Nemzeti Földalap vagyoni körébe tartozik minden állami tulajdonú termőföld, mező-, erdőgazdasági művelés alatt álló belterületi föld, és a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett terület (a továbbiakban együtt: földrészlet).
+15. § (1)
 
 (2) A Nemzeti Földalapba tartozó földrészleteket a (3) bekezdésben foglalt földbirtok-politikai irányelvek szerint kell hasznosítani.
 
@@ -227,7 +246,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 16. § (1) E törvény erejénél fogva a Nemzeti Földalapba kerül – a (2) bekezdésben meghatározott kivétellel – az állam által bármely jogcímen megszerzett földrészlet.
 
-(2) Az állam javára kisajátított, egyébként e törvény hatálya alá tartozó földrészlet nem kerül a Nemzeti Földalapba.
+(2) Az állam javára kisajátított, vagy kisajátítást pótló adásvétellel megszerzett, egyébként e törvény hatálya alá tartozó földrészlet nem kerül a Nemzeti Földalapba, kivéve, ha a kisajátításra természetvédelem, mezőgazdasági célú vízgazdálkodási beruházás megvalósítása, fenntartható erdőgazdálkodás és közérdekű erdőtelepítés céljából kerül sor.
 
 (3) Ha a (2) bekezdés szerinti földrészlet a kisajátítási határozatban meghatározott határidőn belül a kisajátítás céljára nem került felhasználásra, és a földrészlet egyébként e törvény hatálya alá tartozik, a földrészletet a kisajátítási határozatban megállapított határidő lejártát követő 60 napon belül az NFA részére át kell adni.
 
@@ -237,7 +256,9 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (6) A társadalombiztosítás pénzügyi alapjainak felszámolási eljárás során járulék-, hozzájárulás- és egyéb követelései fejében a Magyar Állam tulajdonába kerülő földrészlet a Nemzeti Földalapba kerül. Az NFA a felszámolási eljárás befejezéséről szóló végzés jogerőre emelkedését követő 90 napon belül megfizeti a társadalombiztosítás pénzügyi alapjai részére a felszámoló vagyonfelosztási javaslatában az alapokat megillető összeget.
 
-(7) Ha e törvény hatálya alá tartozó földrészlet felett az állam, mint törvényes örökös tulajdonjogot szerez, a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését követő 30 napon belül a földrészletet átadja az NFA-nak.
+(6a) Ha a (6) bekezdés szerinti felszámolási eljárás során a 3. § (3) bekezdésében meghatározott ingatlan kerül állami tulajdonba, az ingatlannak csak az 1. § (1) bekezdésben foglalt területe kerül a Nemzeti Földalapba, és az NFA az erre a területre eső összeget fizeti meg a társadalombiztosítás pénzügyi alapjai részére a (6) bekezdésben foglaltak szerint.
+
+(7) Ha e törvény hatálya alá tartozó földrészlet felett az állam, mint törvényes örökös tulajdonjogot szerez, az MNV Zrt. a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését követő 30 napon belül a földrészletet átadja az NFA-nak.
 
 17. § (1) A Nemzeti Földalapba tartozó földrészletekről és az azokon fennálló jogok jogosultjairól az NFA az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint naprakész vagyonnyilvántartást vezet, amely tartalmazza
 
@@ -253,7 +274,9 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - a) nyilvános pályázat vagy árverés útján történő eladással,
 - b) nyilvános pályázat útján történő haszonbérbe adással,
 - c) nyilvános pályázat útján történő vagyonkezelésbe adással,
-- d) cserével hasznosítja [az a)–d) pontok a továbbiakban együtt: hasznosítás].
+- d) cserével hasznosítja.
+
+(1a) A termőföldről szóló törvény szerinti termőföld vagy tanya haszonbérbe adása során a jogszabály alapján fennálló előhaszonbérleti jog nem gyakorolható.
 
 (2) Az eladás, a haszonbérbe adás, és a csere során a földbirtok-politikai irányelveknek megfelelően kell eljárni, valamint előnyben kell részesíteni az élethivatásszerűen mezőgazdasági tevékenységet folytató személyeket.
 
@@ -274,25 +297,51 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (3) A Nemzeti Földalapba tartozó földrészlet hasznosításának részletes szabályait tartalmazó kormányrendelet, illetve a pályázati kiírás a szerződéskötésre az (1) bekezdésben foglaltakon túl további kizárási okokat is meghatározhat.
 
-(4) Az állami vagyon hasznosítására irányuló szerződést írásba kell foglalni.
+(4) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződést írásba kell foglalni.
 
-20. § (1) Az NFA-val kötött vagyonkezelési szerződés alapján a vagyonkezelő jogosult meghatározott földrészlet birtoklására, használatára és hasznai szedésére. A vagyonkezelő köteles a földrészlet értékét megőrizni, állagának megóvásáról, jó karban tartásáról gondoskodni, továbbá – e törvényben meghatározott esetek kivételével – díjat fizetni vagy a szerződésben előírt más kötelezettséget teljesíteni.
+20. § (1) Az erdő- és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület kivételével vagyonkezelési szerződés köthető:
 
-(2) A vagyonkezelői jog az erre irányuló szerződéssel jön létre.
+- a) költségvetési szervvel,
+- b) többségi állami tulajdoni részesedéssel működő olyan gazdálkodó szervezettel, amely alapító okiratában vagy külön jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja hasznosítani a földrészletet, vagy
+- c) olyan gazdálkodó szervezettel, amely jogszabályban rögzített állami feladat ellátásához kívánja hasznosítani a földrészletet.
 
-(3) A vagyonkezelői jog jogosultja a vagyonkezelői jogot nem adhatja tovább.
+(2) Erdő- és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelését csak költségvetési szerv vagy kizárólagos állami tulajdonban álló gazdálkodó szervezet végezheti.
+
+(3) Központi költségvetési szervvel az azt irányító vagy felügyelő szerv egyetértésével köthető vagyonkezelési szerződés.
+
+(4) Az NFA-val kötött vagyonkezelési szerződés alapján a vagyonkezelő jogosult meghatározott földrészlet birtoklására, használatára és hasznai szedésére. A vagyonkezelő köteles a földrészlet értékét megőrizni, állagának megóvásáról, jó karbantartásáról gondoskodni, továbbá – a védett természeti területek természetvédelmi kezeléséért felelős szervek és e törvényben meghatározott egyéb esetek kivételével – díjat fizetni vagy a szerződésben előírt más kötelezettséget teljesíteni.
+
+(5) Vagyonkezelési szerződés – erdő- és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre vonatkozó szerződést kivéve – határozott időtartamra köthető, melynek időtartama legalább 5 év, legfeljebb a termőföldről szóló törvényben előírt, a termőföldre vonatkozó haszonbérleti szerződés leghosszabb időtartama lehet.
+
+(6) A szerződésen alapuló vagyonkezelői jog az ingatlan-nyilvántartásba való bejegyzéssel jön létre, a vagyonkezelőt azonban a szerződés megkötésének időpontjától kezdve megilletik a vagyonkezelő jogai és terhelik kötelezettségei.
+
+(7) Az erdő- és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet érintő vagyonkezelési szerződés létrejöttéhez az erdészeti hatóságnak – a vagyonkezelő erdőgazdálkodói alkalmasságát megállapító – jóváhagyása szükséges. A vagyonkezelő az erdő hasznosítását harmadik személynek nem engedheti át.
+
+(8) A vagyonkezelői jog jogosultja a vagyonkezelői jogot nem adhatja tovább, és nem terhelheti meg.
 
 21. § (1) Az NFA a földrendező és a földkiadó bizottságokról szóló törvényben foglalt esetben a részarány-tulajdonos részére – a részarány-tulajdonnak megfelelő aranykorona érték erejéig – földrészletet ajánl fel. A részarány-tulajdonos a felajánlott földrészlet tulajdonjogát a mezőgazdasági igazgatási szerv jogerős határozata alapján szerzi meg.
 
 (2) Az NFA telekalakítás végrehajtásához szükséges tulajdonjogi változást eredményező szerződést köthet.
 
-(3) Nyilvános pályáztatás vagy árverés mellőzésével köthető adás-vételi, vagyonkezelési vagy haszonbérleti szerződés olyan földrészletre, amely a kisajátításról szóló törvényben meghatározott közérdekű célok, vagy – amennyiben a közérdekű célt az érintett földrészlet vonatkozásában a nemzetgazdasági szempontból kiemelt beruházássá nyilvánító kormányrendelet megjelöli – nemzetgazdasági szempontból kiemelt beruházás megvalósításához szükséges. Nyilvános pályáztatás mellőzésével köthető vagyonkezelési szerződés az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 9. §-ának (2) bekezdésében meghatározott földterületre költségvetési szervvel vagy kizárólagos állami tulajdonban álló gazdálkodó szervezettel. Nyilvános pályáztatás vagy árverés mellőzésével köthető adás-vételi szerződés az osztatlan közös tulajdonban álló ingatlan tulajdonosával, ha az állam tulajdoni hányadának megfelelő földterület nem haladja meg a fél hektárt.
+(3) Nyilvános pályáztatás mellőzésével köthető vagyonkezelési vagy haszonbérleti szerződés olyan kizárólagos állami tulajdonban álló gazdálkodó szervezettel, amely főtevékenysége körében a termőföldről szóló törvény szerinti mezőgazdasági tevékenységet folytat, valamint az olyan központi költségvetési szervvel, amely alapító okiratában, illetve jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja hasznosítani a földrészletet.
+
+(3a) Nyilvános pályáztatás vagy árverés mellőzésével köthető adásvételi szerződés olyan földrészletre, amely
+
+- a) a kisajátításról szóló törvényben meghatározott közérdekű célok, vagy – amennyiben a közérdekű célt az érintett földrészlet vonatkozásában a nemzetgazdasági szempontból kiemelt beruházássá nyilvánító kormányrendelet megjelöli – nemzetgazdasági szempontból kiemelt beruházás megvalósításához szükséges;
+- b) nem haladja meg a fél hektárt.
+
+(3b) Nyilvános pályáztatás mellőzésével köthető vagyonkezelési szerződés az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 9. §-ának (2) bekezdésében meghatározott földterületre költségvetési szervvel vagy kizárólagos állami tulajdonban álló gazdálkodó szervezettel.
+
+(3c) Nyilvános pályáztatás mellőzésével kell a védett természeti területek természetvédelmi kezeléséért felelős szerv vagyonkezelésébe adni azt a földrészletet, melynek
+
+- a) állami tulajdonba vételére a védett természeti területek védettségi szintjének helyreállítása vagy természetvédelmi célok megvalósítása érdekében került sor, vagy
+- b) esetében törvény vagyonkezelőként a védett természeti területek természetvédelmi kezeléséért felelős szervet jelöli ki.
 
 (4) Az NFA a Nemzeti Földalapba tartozó vízlevezető árkokat és csatornákat térítésmentesen az azok fenntartására jogosultak vagyonkezelésébe adhatja.
 
 (5) A Nemzeti Földalapba tartozó, önálló helyrajzi számon nyilvántartott útnak az út fekvése szerinti települési (fővárosban a kerületi) önkormányzat részére történő térítésmentes tulajdonába vagy használatba adásáról az NFA és az érintett önkormányzat szerződést köthet.
 
-(6) A Nemzeti Földalapba tartozó erdőt, továbbá erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet – az Evt. 8. §-ának (4) és (5) bekezdésében meghatározott, az optimális állami birtokszerkezet kialakítását szolgáló birtokösszevonási célú földcsere vagy átruházás esetének kivételével – csak vagyonkezelés formájában, és csak költségvetési szerv vagy kizárólagos állami tulajdonban álló gazdálkodó szervezet számára lehet hasznosításra átengedni. A vagyonkezelő az erdő hasznosítását harmadik személynek nem engedheti át. A vagyonkezelésbe adásról az NFA javaslata alapján a Kormány nyilvános határozattal dönt. A vagyonkezelési szerződés létrejöttéhez az erdészeti hatóságnak – a vagyonkezelő erdőgazdálkodói alkalmasságát megállapító – jóváhagyása szükséges.
+(6) A Nemzeti Földalapba tartozó erdőt, továbbá erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet – az Evt. 8. §-ának (4) és (5) bekezdésében meghatározott, az optimális állami birtokszerkezet kialakítását szolgáló birtokösszevonási célú földcsere vagy átruházás esetének kivételével – csak vagyonkezelés formájában, és csak költségvetési szerv vagy kizárólagos állami tulajdonban álló gazdálkodó szervezet számára lehet hasznosításra átengedni. A vagyonkezelésbe adásról az NFA javaslata alapján a Kormány nyilvános határozattal dönt.
 
 (7) E § szerinti eladás, csere, haszonbérbe adás, vagy vagyonkezelésbe adás esetén – ide nem értve az (1) bekezdésben meghatározott esetet – a szerződéskötést megelőzően 10 nappal nyilvánosságra kell hozni a tervezett szerződésnek a 30. § (1) bekezdésében meghatározott adatait.
 
@@ -304,7 +353,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 23. § (1) A Nemzeti Földalap vagyoni körébe tartozó földrészlet tekintetében a művelési ág megváltoztatást, más célú hasznosítást vagy a rendes gazdálkodás körét meghaladó beruházást végrehajtani kizárólag az NFA előzetes hozzájárulásával lehet.
 
-(2) A Nemzeti Földalapba tartozó védett természeti területek és értékek, erdők tulajdonjogának bármely jogcímen történő átruházására csak e védett vagyonra vonatkozó külön törvényben meghatározott esetekben és módon kerülhet sor.
+(2) A Nemzeti Földalapba tartozó védett természeti területek és a Natura 2000 területek vagyonkezelésbe adására, tulajdonjogának bármely jogcímen történő átruházására csak a természetvédelemért felelős miniszter egyetértése esetén kerülhet sor. A Nemzeti Földalapba tartozó erdők tulajdonjogának bármely jogcímen történő átruházására csak e vagyoni körre vonatkozó külön törvényben meghatározott esetekben és módon kerülhet sor.
 
 24. § (1) A földrészlet tulajdonosa az NFA-hoz intézett írásbeli nyilatkozattal ingyenesen vagy ellenérték megjelölésével felajánlhatja földrészletét a Magyar Állam javára.
 
@@ -351,6 +400,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - b) a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályait;
 - c) a Nemzeti Földalapba tartozó földrészleteknek szociális földprogram megvalósítása céljából az önkormányzatok számára történő ingyenes tulajdonba vagy vagyonkezelésbe adásának szabályait;
 - d) a rábízott földvagyon és az ahhoz kapcsolódó bevételek és kiadások elszámolásának a szabályait, továbbá a rábízott földvagyon könyvvezetése és a beszámoló készítésének sajátosságait.
+- e) a 3. § (3) bekezdés hatálya alá tartozó ingatlanok hasznosításával kapcsolatos tulajdonosi joggyakorlás eljárásrendjének részletes szabályait.
 
 (2) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az ellenőrző bizottság működési rendjének, valamint működési költségei megtérítésének a szabályait.
 
@@ -376,7 +426,9 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (6) Az ingatlanügyi hatóság az NFA kérelmére gondoskodik a Nemzeti Földalapba tartozó földrészleteket érintően a (2) bekezdés szerinti, a tulajdonos joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
 
-(7) Az ingatlanügyi hatóság a (6) bekezdés szerinti eljárásban meghozott döntését – a változás tulajdoni lapon történő átvezetését követően – kézbesíti a kérelmezőnek, és annak, akinek bejegyzett joga módosult vagy megszűnt.
+(6a) Az ingatlanügyi hatóság az NFA és az MNV Zrt. közös kérelmére gondoskodik a 3. § (3) bekezdésében meghatározott ingatlanokat érintően a kettős tulajdonosi joggyakorlás miatt a tulajdonosi joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
+
+(7) Az ingatlanügyi hatóság a (6) és (6a) bekezdés szerinti eljárásban meghozott döntését – a változás tulajdoni lapon történő átvezetését követően – kézbesíti a kérelmezőnek, és annak, akinek bejegyzett joga módosult vagy megszűnt.
 
 35. § (1) E törvény hatálybalépése nem érinti a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 13/A. §-a alapján e törvény hatálybalépése előtt közzétett pályázati felhívás alapján kötött életjáradéki szerződéseket. Az ezen szerződések alapján fizetendő életjáradék a központi költségvetés központosított kiadása, amelyet a Nemzeti Földalapról szóló törvény hatálya alá tartozó állami vagyonnal való gazdálkodásból származó bevételeket és kiadásokat tartalmazó fejezetben kell megtervezni és elszámolni.
 

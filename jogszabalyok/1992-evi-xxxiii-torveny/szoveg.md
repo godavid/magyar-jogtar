@@ -12,7 +12,7 @@ a közalkalmazottak jogállásáról
 
 (3) A 25/A–25/C. § hatálya – az ott meghatározottak szerint – kiterjed a köztisztviselők jogállásáról szóló törvény hatálya alá tartozó munkáltatóra és a köztisztviselőre, illetve a munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a közszolgálati jogviszony, illetve a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
 
-(4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közhasznú munkavégzés, közmunka, közcélú munkavégzés keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatásról szóló külön törvény alapján foglalkoztatott munkavállalóra.
+(4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közfoglalkoztatás keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatásról szóló külön törvény alapján foglalkoztatott munkavállalóra.
 
 (5) A 20/A. § (4) bekezdés a) pontja, a 26. § (4) bekezdése, a 30/A. §, a 30/D. §, a 30/E. §, a 44/A. §, az 53. § (1) bekezdés, az 53/A–53/B. § – az ott meghatározottak szerint – kiterjed a munkáltató fenntartójára is.
 
@@ -502,7 +502,7 @@ továbbá köteles a szakszervezettel és a közalkalmazotti tanáccsal (közalk
 
 (7) Ha az átvevő munkáltató a köztisztviselők jogálláról szóló törvény rendelkezései alapján nem létesíthet közszolgálati jogviszonyt az átadással érintett közalkalmazottal, a közalkalmazotti jogviszony megszűnése tekintetében a (6) bekezdés rendelkezéseit kell alkalmazni. Ebben az esetben – a (3) bekezdés rendelkezésétől eltérően – e körülményről kell az átadó és az átvevő munkáltatónak tájékoztatnia a közalkalmazottat.
 
-(8) Amennyiben a munkáltató személye azért változik meg, mert az alapító a költségvetési szervezet útján ellátott közfeladatot – az alapító közvetett vagy közvetlen, legalább többségi befolyása alatt álló – gazdasági társaság utódszervezet részére adja át közfeladat ellátási és továbbfoglalkoztatási kötelezettséggel, a közalkalmazotti jogviszony e törvény erejénél fogva munkaviszonnyá alakul át. Ebben az esetben az átadó és átvevő munkáltatók tájékoztatási kötelezettsége csak a (2)–(3) bekezdésben foglaltakra kiterjedően áll fenn. A munkaviszony tartalmi elemeit az e bekezdésben foglaltak szerint adott tájékoztatás és a 25/B. § rendelkezései alapján kell meghatározni és legkésőbb az átadás napjáig írásba foglalni.
+(8) Amennyiben a munkáltató személye azért változik meg, mert az alapító a költségvetési szervezet útján ellátott közfeladatot – az alapító közvetett vagy közvetlen, legalább többségi befolyása alatt álló – gazdasági társaság utódszervezet részére adja át közfeladat ellátási és továbbfoglalkoztatási kötelezettséggel, a közalkalmazotti jogviszony e törvény erejénél fogva megszűnik és a megszűnését követő nappal az új munkáltatóval munkaviszony létesül. Ebben az esetben az átadó és átvevő munkáltatók tájékoztatási kötelezettsége csak a (2)–(3) bekezdésben foglaltakra kiterjedően áll fenn. A munkaviszony tartalmi elemeit az e bekezdésben foglaltak szerint adott tájékoztatás és a 25/B. § rendelkezései alapján kell meghatározni és legkésőbb az átadás napjáig írásba foglalni.
 
 25/B. § (1) Ha a közalkalmazott az átvevő munkáltatónál történő további foglalkoztatásához hozzájárul, az átvevő munkáltató köteles a közalkalmazottal munkaszerződést kötni. Ha az átvevő munkáltató a köztisztviselők jogállásáról szóló törvény hatálya alá tartozik, köteles a közalkalmazott számára munkaköre alapján kinevezést adni, vagy munkaszerződést kötni. A munkaszerződés megkötése, illetve a kinevezés során az átvevő munkáltatót köti a 25/A. § (3)–(4) bekezdése alapján adott tájékoztatás, az abban foglaltaktól csak a közalkalmazott kifejezett hozzájárulásával lehet eltérni. Az átadó munkáltató az átadás napjával köteles írásban értesíteni a közalkalmazottat a közalkalmazotti jogviszony 25/A. § (1) bekezdés szerinti megszűnéséről.
 
@@ -673,7 +673,7 @@ az erről szóló tájékoztatás közlésének időpontja irányadó a felment�
 - b) ha a közalkalmazott egyedülálló, eltartott gyermeke tizennyolc éves koráig, valamint
 - c) ha a közalkalmazott házastársa sorkatonai, illetve polgári szolgálatot teljesít.
 
-(2) Ha a 30/A. § (1) bekezdése szerinti munkáltatónál van olyan munkakör, amelynek ellátására az (1) bekezdésben említett közalkalmazott alkalmas, a közalkalmazotti jogviszonyt mindaddig nem lehet felmentéssel megszüntetni, amíg a közalkalmazott ilyen munkahelyre áthelyezhető, feltéve, hogy ezt elvállalja. Nem terheli ez a kötelezettség a munkáltatót, ha a felmentés indoka – az egészségügyi alkalmatlanság esetét kivéve – a 30. § (1) bekezdésének c)–d) pontján alapul. A munkáltató munkakör-felajánlásával kapcsolatban a 30/A. § és a 30/C. § szerint köteles eljárni.
+(2) Ha a 30/A. § (1) bekezdése szerinti munkáltatónál van olyan munkakör, amelynek ellátására az (1) bekezdésben említett közalkalmazott alkalmas, a közalkalmazotti jogviszonyt mindaddig nem lehet felmentéssel megszüntetni, amíg a közalkalmazott ilyen munkahelyre áthelyezhető, feltéve, hogy ezt elvállalja. Nem terheli ez a kötelezettség a munkáltatót, ha a felmentés indoka – az egészségügyi alkalmatlanság esetét kivéve – a 30. § (1) bekezdés c)–f) pontján alapul. A munkáltató munkakör-felajánlásával kapcsolatban a 30/A. § és a 30/C. § szerint köteles eljárni.
 
 33. § (1) Felmentés esetén a felmentési idő legalább hatvan nap, de a nyolc hónapot nem haladhatja meg. Ettől eltérően, ha a felmentés – az egészségügyi alkalmatlanság esetét kivéve – a 30. § (1) bekezdésének c) pontján alapul, a felmentési idő harminc nap.
 
@@ -1162,7 +1162,7 @@ alapszabadság illeti meg.
 
 58/A. § A közalkalmazottnak – kérelmére – a külszolgálat időtartamára fizetés nélküli szabadságot kell engedélyezni, ha a közalkalmazott házastársa külszolgálatot teljesít.
 
-59. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkaidőről és a pihenőidőről szóló rendelkezései közül (Harmadik rész, VI. fejezet) a 117/A. § (1) bekezdése, a 117/B. § (2) bekezdése, a (3) bekezdésének b) pontja és a (4) bekezdése, a 131. §-a, valamint a 132. § (4)–(6) bekezdése nem alkalmazható.
+59. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkaidőről és a pihenőidőről szóló rendelkezései közül (Harmadik rész, VI. fejezet) a 117/A. § (1) bekezdése, a 117/B. § (2) bekezdése, a (3) bekezdésének b) pontja és a (4) bekezdése, a 117/C. §-a, a 131. §-a, valamint a 132. § (4)–(6) bekezdése nem alkalmazható.
 
 (2)
 
@@ -1358,7 +1358,7 @@ alapszabadság illeti meg.
 - b) harminc év közalkalmazotti jogviszony esetén háromhavi,
 - c) negyven év közalkalmazotti jogviszony esetén öthavi illetményének megfelelő összeg.
 
-(3) Ha a közalkalmazott jogviszonya a 30. § (1) bekezdés d) vagy e) pontja alapján szűnik meg, részére a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni.
+(3) Ha a közalkalmazott jogviszonya a 30. § (1) bekezdés d), e) vagy f) pontja alapján szűnik meg, részére a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni.
 
 (4) Ha a közalkalmazott közalkalmazotti jogviszonya – a fegyelmi elbocsátás büntetés vagy a 25. § (2) bekezdés b) 1. pontja szerinti áthelyezés kivételével – megszűnik és legkésőbb a megszűnés időpontjában nyugdíjasnak minősül [37/B. § (1), illetve (3) bekezdés], továbbá legalább harmincöt évi közalkalmazotti jogviszonnyal rendelkezik, a negyvenéves közalkalmazotti jogviszonnyal járó jubileumi jutalmat részére a jogviszony megszűnésekor ki kell fizetni.
 

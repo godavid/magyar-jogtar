@@ -19,7 +19,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 - a) a koncesszióról (az állami monopóliumok hasznosításáról),
 - b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Zrt. működéséről,
-- c) az állami tulajdonban lévő termőföldekről, mező-, erdőgazdasági művelés alatt álló belterületi földekről, valamint a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett területekről.
+- c) a Nemzeti Földalapról.
 
 (4) Az állami tulajdonban álló, a hatályos jogszabályok szerint lakásnak minősülő ingatlanok értékesítésére vagy bérbeadására vonatkozó eljárásokban e törvény rendelkezéseit külön törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -34,6 +34,8 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 (2) A központi költségvetési szerv – ha törvény eltérően nem rendelkezik – önálló tulajdonjoggal nem rendelkezik, bármely dolog tulajdonjogát, gazdálkodó szervezet részesedését, vagy valamely vagyoni értékű jogot a Magyar Állam javára szerez meg.
 
 3. § (1) Az állami vagyon felett a Magyar Államot megillető tulajdonosi jogok és kötelezettségek összességét – ha törvény eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) gyakorolja, aki e feladatát a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.), a Magyar Fejlesztési Bank, illetve a (2) bekezdés szerinti tulajdonosi joggyakorló szervezet útján látja el.
+
+(1a) Azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, a tulajdonosi jogokat a miniszter az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint gyakorolja.
 
 (2) A miniszter e törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával – az (1) bekezdés alapján őt megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját az Áht. szerinti központi költségvetési szervek, ezek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaságok közül kijelölheti.
 

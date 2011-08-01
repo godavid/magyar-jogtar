@@ -32,10 +32,15 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - h) fuvarozó: bármely természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, aki vagy amely hivatásszerűen foglalkozik személyszállítással;
 - i) visszafogadási egyezmény: személyeknek az államhatáron történő átadás-átvételéről, hatósági kísérettel történő átszállításának, illetve átutazásának engedélyezéséről szóló nemzetközi szerződés;
 - j) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés: valamely schengeni állam által a Schengeni Információs Rendszerben abból a célból elhelyezett adatcsoport, hogy egy harmadik országbeli állampolgárnak a schengeni államok területére történő beutazását vagy tartózkodását megtagadják;
-- k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet, aki vagy amely a harmadik országbeli állampolgárt foglalkoztatja;
+- k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet – a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 193/C. § b) pontjában meghatározott kölcsönbeadót is ideértve – amelynek javára, vagy irányítása alatt a foglalkoztatására sor kerül;
 - l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – a Magyar Köztársaság területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi;
 - m) három hónapot meg nem haladó tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély.
-- n) dublini rendeletek: egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i 343/2003/EK tanácsi rendelet, valamint a valamely harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2003. szeptember 2-i 1560/2003/EK bizottsági rendelet.
+- n) dublini rendeletek: egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i 343/2003/EK tanácsi rendelet, valamint a valamely harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2003. szeptember 2-i 1560/2003/EK bizottsági rendelet;
+- o) foglalkoztatás: a vonatkozó jogszabályokkal összhangban bármely munka- vagy foglalkoztatási formát magában foglaló, munkavégzésre irányuló jogviszony alapján történő, valamely munkáltató javára, vagy irányítása alatt végzett tevékenység;
+- p) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel;
+- q) felsőfokú szakmai képesítés: a felsőfokú végzettséget és szakképzettséget tanúsító felsőfokú képesítés, amely a munkaszerződésben vagy a kötelező érvényű állásajánlatban meghatározott szakma vagy ágazat szempontjából szükséges felsőfokú végzettséghez kapcsolódó szakképzettséggel egyenértékű;
+- r) EU Kék Kártya: olyan engedély, amely magas szintű képzettséggel rendelkező birtokosát valamely tagállam területén történő tartózkodásra és egyúttal magas szintű képzettséget igénylő, a 20/C. §-ban foglalt feltételek szerinti munkavállalásra jogosítja;
+- s) különösen kizsákmányoló foglalkoztatási feltételek: olyan feltételek – a nemi vagy egyéb alapú megkülönböztetésből származó feltételeket is beleértve –, amelyek feltűnően aránytalanul eltérnek a legálisan foglalkoztatott munkavállalók foglalkoztatási feltételeitől, amely eltérés különösen a munkavállalók egészségét és biztonságát érinti, és sérti az emberi méltóságot.
 
 3. § Harmadik országbeli állampolgárnak kell tekinteni
 
@@ -89,8 +94,9 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
   - bc) bevándorlási engedéllyel,
   - bd) letelepedési engedéllyel,
   - be) ideiglenes letelepedési engedéllyel,
-  - bf) nemzeti letelepedési engedéllyel vagy
-  - bg) EK letelepedési engedéllyel;
+  - bf) nemzeti letelepedési engedéllyel,
+  - bg) EK letelepedési engedéllyel, vagy
+  - bh) EU Kék Kártyával;
 - c) rendelkezik a vissza- vagy továbbutazáshoz szükséges engedéllyel;
 - d) igazolja beutazása és tartózkodása célját;
 - e) a Magyar Köztársaság területén rendelkezik szálláshellyel vagy lakóhellyel;
@@ -151,6 +157,18 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - c) közegészséget veszélyeztető betegségben szenved, és nem veti alá magát kötelező és rendszeres egészségügyi ellátásnak, vagy a Magyar Köztársaság területén történő tartózkodása alatt az egészségügyre vonatkozó hatályos magyar jogszabályok előírásait nem tartja be;
 - d) a családi kapcsolatot a családi együttélés céljára szolgáló tartózkodási engedély kiadása érdekében hozta létre.
 
+(1a) Az EU Kék Kártya kiadását meg kell tagadni,ha a harmadik országbeli állampolgár nem felel meg a 20/A. § (1) bekezdésében foglalt valamely feltételnek.
+
+(1b) Az EU Kék Kártya meghosszabbítását meg kell tagadni, illetve a kiadott EU Kék Kártyát vissza kell vonni, ha a harmadik országbeli állampolgár
+
+- a) nem felel meg vagy az EU Kék Kártya kiadásakor nem felelt meg a 20/A. § (1) bekezdésében foglalt valamely feltételnek,
+- b) a munkakörhöz szükséges felsőfokú szakmai képesítéssel nem rendelkezik,
+- c) megélhetése a Magyar Köztársaság területén nem biztosított, kivéve, ha a harmadik országbeli állampolgár oly módon nem áll foglalkoztatásra irányuló jogviszonyban, hogy az e) vagy f) pontban foglalt feltételek nem valósulnak meg,
+- d) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt, vagy a tartózkodási cél vonatkozásában az eljáró hatóságot megtévesztette, illetve tartózkodásának célja az engedélyezettől eltér,
+- e) legalább egymást követő három hónapon keresztül nem áll foglalkoztatásra irányuló jogviszonyban,
+- f) foglalkoztatásra irányuló jogviszonya az EU Kék Kártya érvényességi ideje alatt legalább két alkalommal megszűnt, vagy
+- g) az EU Kék Kártya kiadását követő két évben előzetes írásbeli engedély nélkül végzett a korábban engedélyezettektől eltérő munkát.
+
 (2) Az (1) bekezdésben foglaltaktól eltérően, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből a beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt álló harmadik országbeli állampolgár tartózkodási engedélyt kaphat, illetve a részére kiadott tartózkodási engedélyt nem kell visszavonni.
 
 ### A három hónapot meghaladó tartózkodásra vonatkozó különös szabályok
@@ -183,7 +201,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 20. § (1) Keresőtevékenység folytatása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, akinek tartózkodási célja, hogy
 
-- a) jogszabályban meghatározott foglalkoztatási jogviszonya alapján, ellenérték fejében, más részére és vele alá-fölérendeltségi kapcsolatban munkát végezzen;
+- a) a foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt tényleges munkát végezzen;
 - b) jogszabály szerint önállóan, ellenérték fejében végezhető tevékenységet folytasson;
 - c) a b) pont hatálya alá nem tartozó esetben, gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, vezető tisztségviselőjeként, vezetői, képviseleti vagy felügyeleti szerve tagjaként végezze tevékenységét.
 
@@ -191,17 +209,51 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 - a) szezonális munkavállalási vízummal, vagy
 - b) humanitárius célból kiadott tartózkodási engedéllyel rendelkezik, továbbá az, aki
-- c) keresőtevékenység folytatása céljából,
-- d) családegyesítés céljából,
-- e) tanulmányi célból kiadott
+- c) keresőtevékenység folytatása céljából, családegyesítés céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel, vagy
+- d) EU Kék Kártyával
 
-tartózkodási engedéllyel rendelkezik.
+rendelkezik.
 
 (3) A tanulmányi célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár keresőtevékenységet a szorgalmi időszakban hetente legfeljebb huszonnégy órában, szorgalmi időszakon kívül évente legfeljebb kilencven napon vagy hatvanhat munkanapon végezhet teljes munkaidőben.
 
 (4) A keresőtevékenység folytatása céljából kiadott tartózkodási engedély érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 
 (5) Munkavállalási engedélyhez kötött tevékenység esetén a tartózkodási engedély érvényességi ideje a munkavállalási engedély érvényességi időtartamához igazodik.
+
+20/A. § (1) EU Kék Kártyát az a harmadik országbeli állampolgár kap, aki
+
+- a) a 13. § (1) bekezdés a), d), valamint h)–i) pontjában foglalt feltételeknek megfelel, és nem állnak fenn a (2) bekezdésben, valamint a 18. § (1b) bekezdés b) pontjában foglalt kizáró okok,
+- b) foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint hazai foglalkoztatáspolitikai érdekből támogatott,
+- c) az egészségügyi ellátások teljes körére biztosítottnak minősül, vagy kérelmezte azt minden olyan időszakra vonatkozóan, amikor a foglalkoztatásra irányuló jogviszonyból eredően nem minősül biztosítottnak, és
+- d) a Magyar Köztársaság területén valós lakcímadatot szálláshelyként bejelentett.
+
+(2) Nem kaphat EU Kék Kártyát:
+
+- a) az a harmadik országbeli állampolgár, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
+- b) akit a Magyar Köztársaság menekültként ismert el, vagy ideiglenes vagy kiegészítő védelemben részesített,
+- c) a befogadott,
+- d) az a harmadik országbeli állampolgár, aki kutatás céljából kiállított tartózkodási engedéllyel rendelkezik,
+- e) a külön törvényben meghatározottak szerint szabad mozgás és tartózkodás jogával rendelkező személy,
+- f) az a harmadik országbeli állampolgár, aki az Európai Unió más tagállama által kiadott huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkezik,
+- g) az a harmadik országbeli állampolgár, aki a kereskedelem és befektetések terén tevékenykedő természetes személyek egyes kategóriáinak beutazását és tartózkodását megkönnyítő nemzetközi megállapodásban foglalt kötelezettségvállalás alapján utazott be a Magyar Köztársaság területére,
+- h) az a harmadik országbeli állampolgár, aki a Magyar Köztársaság területén szezonális munkavállalási vízummal tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
+- i) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgár, aki a Magyar Köztársaság területén kiküldetésben tartózkodik.
+
+(3) Az EU Kék Kártyát legalább egy évre kell kiállítani. Amennyiben a foglalkoztatásra irányuló szerződés ennél rövidebb időtartamra szól, akkor az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó időtartamra kell kiállítani.
+
+(4) Az EU Kék Kártya érvényességi ideje legfeljebb négy év, amely alkalmanként legfeljebb négy évvel meghosszabbítható.
+
+20/B. § Az Európai Unió tagállama által magas szintű képzettséget igénylő munkavállalás céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár EU Kék Kártyát kaphat, ha
+
+- a) az EU Kék Kártyát kiállító tagállamban legalább tizennyolc hónapig jogszerűen tartózkodott és
+- b) rendelkezik a 20/A. § (1) bekezdés a)–d) pontjában meghatározott feltételekkel.
+
+20/C. § Az EU Kék Kártya a kiadásától számított két éves időszak alatt kizárólag
+
+- a) a kiadását megalapozó munkaviszonyban, vagy
+- b) hazai foglalkoztatáspolitikai érdek mérlegelése alapján engedélyezett munkaviszonyban
+
+való, magas szintű képzettséget igénylő munkavállalásra jogosít.
 
 21. § (1) Tanulmányi célból tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki a Magyar Köztársaságban akkreditált közép- vagy felsőfokú oktatási intézmény nappali tagozatán tanulmányok folytatása, illetve a felsőoktatási intézmény által szervezett, a tanulmányok folytatását előkészítő képzésben való részvétel érdekében kíván a Magyar Köztársaság területén tartózkodni, és igazolja, hogy a tanulmányok folytatásához megfelelő nyelvismerettel rendelkezik.
 
@@ -269,13 +321,15 @@ kíván a Magyar Köztársaság területén tartózkodni.
 - b) akit a Magyar Köztársaság befogadottként ismert el;
 - c) azt a harmadik országbeli állampolgárt, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
 - d) azt a harmadik országbeli állampolgárt, aki a Magyar Köztársaság területén született és azt követően a magyar jog szerint érte felelős személy felügyelete nélkül maradt, illetve a kísérő nélküli kiskorút;
-- e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből az ügyész, a bíróság, illetve a nemzetbiztonsági szerv indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon – együttműködik.
+- e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből az ügyész, a bíróság, illetve a rendvédelmi és nemzetbiztonsági szerv indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon – együttműködik;
+- f) a bíróság indítványára azt a harmadik országbeli állampolgárt, akit különösen kizsákmányoló foglalkoztatási feltételek mellett, illetve azt a kiskorú, harmadik országbeli állampolgárt, akit érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély nélkül foglalkoztattak.
 
 (2) A humanitárius célból kiadott tartózkodási engedély érvényességi ideje
 
 - a) az (1) bekezdés a) pontjában foglalt esetben három év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
 - b) az (1) bekezdés b) és d) pontjaiban foglalt esetekben egy év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
-- c) az (1) bekezdés c) és e) pontjaiban foglalt esetekben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható.
+- c) az (1) bekezdés c) és e) pontjaiban foglalt esetekben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható;
+- d) az (1) bekezdés f) pontjában foglalt esetben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható, a harmadik országbeli állampolgár által a munkáltatójával szemben az elmaradt járandóságának kifizetése érdekében indított eljárás jogerős befejezéséig.
 
 (3) A humanitárius célból kiadott tartózkodási engedély – a 18. § (1) bekezdésben foglaltaktól eltérően – nem hosszabbítható meg, illetve azt vissza kell vonni, ha
 
@@ -304,14 +358,16 @@ kíván a Magyar Köztársaság területén tartózkodni.
 - g) akinek az úti okmányát külön törvény alapján visszatartották, és nem rendelkezik a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel;
 - h) akivel szemben jogellenes beutazás, illetve tartózkodás miatt idegenrendészeti eljárás van folyamatban;
 - i) aki hontalansága megállapítását kérte, az eljárás időtartamára, feltéve, hogy a Magyar Köztársaság területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
-- j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g) pontja alapján kijelölt helyen való tartózkodásra köteleztek.
+- j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g) pontja alapján kijelölt helyen való tartózkodásra köteleztek;
+- k) aki az Európai Unió más tagállamában magas szintű képzettséget igénylő munkavállalás céljából tartózkodási engedélyt kérelmezett, és az EU Kék Kártya érvényességi idejének lejártát vagy az okmány visszavonását követően a Magyar Köztársaság területére visszatért a munkanélküliség időtartamára.
 
 (2) Az ideiglenes tartózkodásra jogosító igazolás érvényességi ideje
 
 - a) az (1) bekezdés a)–c) pontjában, valamint f)–h) pontjában foglalt esetekben legfeljebb három hónap, amely alkalmanként legfeljebb három hónappal meghosszabbítható;
 - b) az (1) bekezdés d) pontjában foglalt esetben a szülő tartózkodásának időtartamához igazodik;
 - c) az (1) bekezdés e) pontjában foglalt esetben egy hónap, amely nem hosszabbítható meg;
-- d) az (1) bekezdés i) és j) pontjában foglalt esetben hat hónap, amely alkalmanként hat hónappal meghosszabbítható.
+- d) az (1) bekezdés i) és j) pontjában foglalt esetben hat hónap, amely alkalmanként hat hónappal meghosszabbítható;
+- e) az (1) bekezdés k) pontjában foglalt esetben három hónap, amely nem hosszabbítható meg.
 
 (3) Az (1) bekezdés a) pont alapján ideiglenes tartózkodásra jogosító igazolással ellátott harmadik országbeli állampolgár keresőtevékenységet akkor folytathat, ha keresőtevékenység folytatására jogosító tartózkodási engedély birtokában keresőtevékenység folytatására jogosító tartózkodási engedély iránti kérelmet nyújtott be.
 
@@ -366,17 +422,15 @@ kapott.
 
 ### Ideiglenes letelepedési engedély
 
-34. § (1) Az Európai Unió tagállama által a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-ei 2003/109/EK irányelv alapján kiállított huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár ideiglenes letelepedési engedélyt kaphat, ha
+34. § (1) Az Európai Unió tagállama által a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-ei 2003/109/EK irányelv alapján kiállított huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár ideiglenes letelepedési engedélyt kap, ha
 
 - a) keresőtevékenység folytatása céljából, kivéve a szezonális munkavállalás esetét,
 - b) tanulmányok folytatása vagy szakképzés céljából vagy
-- c) egyéb, igazolt célból
+- c) egyéb, igazolt célból kíván a Magyar Köztársaság területén tartózkodni, és amennyiben a jogszabályban meghatározott egyéb feltételeket teljesíti.
 
-kíván a Magyar Köztársaság területén tartózkodni.
+(2) Az (1) bekezdésben meghatározott harmadik országbeli állampolgárral ideiglenes letelepedési engedélyt együtt kérelmező harmadik országbeli családtag, valamint az ideiglenes letelepedési engedéllyel rendelkező harmadik országbeli állampolgár családtagja ideiglenes letelepedési engedélyt kap, amennyiben a családi kapcsolat az Európai Unió huzamos tartózkodói jogállást igazoló EK tartózkodási engedélyt kiállító tagállamában már fennállt, és amennyiben a jogszabályban meghatározott egyéb feltételeket teljesíti.
 
-(2) Az (1) bekezdésben meghatározott harmadik országbeli állampolgárral ideiglenes letelepedési engedélyt együtt kérelmező harmadik országbeli családtag, valamint az ideiglenes letelepedési engedéllyel rendelkező harmadik országbeli állampolgár családtagja ideiglenes letelepedési engedélyt kaphat, amennyiben a családi kapcsolat az Európai Unió huzamos tartózkodói jogállást igazoló EK tartózkodási engedélyt kiállító tagállamában már fennállt.
-
-(3) Az ideiglenes letelepedési engedély érvényességi ideje legfeljebb öt év, amely alkalmanként legfeljebb öt évvel meghosszabbítható.
+(3) Az ideiglenes letelepedési engedély érvényességi ideje legfeljebb öt év, amely alkalmanként legfeljebb öt évvel meghosszabbítható. Az ideiglenes letelepedési engedély meghosszabbítása iránti kérelem a 13. § (1) bekezdés h) pontjában megfogalmazott közegészségügyi érdekből nem utasítható el, ha a megbetegedés az első ideiglenes letelepedési engedély kiadását követően következett.
 
 (4) A (2) bekezdésben meghatározott családtag ideiglenes letelepedési engedélyének érvényessége megegyezik a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének érvényességével.
 
@@ -427,7 +481,12 @@ kíván a Magyar Köztársaság területén tartózkodni.
 
 ### EK letelepedési engedély
 
-38. § (1) A Magyar Köztársaság területén történő huzamos tartózkodás céljából EK letelepedési engedélyt az a harmadik országbeli állampolgár kap, aki a kérelem benyújtását közvetlenül megelőzően legalább öt éven át jogszerűen és megszakítás nélkül a Magyar Köztársaság területén tartózkodott.
+38. § (1) A Magyar Köztársaság területén történő huzamos tartózkodás céljából EK letelepedési engedélyt kap az a harmadik országbeli állampolgár, aki
+
+- a) a kérelem benyújtását közvetlenül megelőzően legalább öt éven át jogszerűen és megszakítás nélkül a Magyar Köztársaság területén tartózkodott, vagy
+- b) az EU kék kártyával rendelkezik, és
+  - ba) a kérelem benyújtását közvetlenül megelőzően legalább két évig jogszerűen és megszakítás nélkül a Magyar Köztársaság területén tartózkodott, és
+  - bb) legalább öt évig jogszerűen és megszakítás nélkül az Európai Unió tagállamainak területén tartózkodott.
 
 (2) Nem kaphat EK letelepedési engedélyt:
 
@@ -443,7 +502,10 @@ kíván a Magyar Köztársaság területén tartózkodni.
 
 (5) Az az időtartam, amely során a harmadik országbeli állampolgár menekültként elismert, illetve ideiglenes vagy kiegészítő védelemben részesített személyként tartózkodott a Magyar Köztársaság területén, az (1) bekezdésben meghatározott időtartamba beleszámít.
 
-(6) Nem minősül a Magyar Köztársaság területén történő tartózkodás megszakításának az ország alkalmanként hat hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások összidőtartama öt év alatt nem haladja meg a háromszáz napot.
+(6) Nem minősül a Magyar Köztársaság területén történő tartózkodás megszakításának
+
+- a) az (1) bekezdés a) pontjában meghatározott esetben az ország alkalmanként hat hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások együttes időtartama öt év alatt nem haladja meg a háromszáz napot;
+- b) az (1) bekezdés b) pontjában meghatározott esetben az Európai Unió tagállamai területének alkalmanként tizenkét hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások együttes időtartama öt év alatt nem haladja meg a tizennyolc hónapot.
 
 (7) Amennyiben a harmadik országbeli állampolgár az Európai Unió más tagállamában kiállított huzamos tartózkodási engedéllyel rendelkezik, az idegenrendészeti hatóság az EK letelepedési engedély kiadásáról az érintett tagállamot értesíti.
 
@@ -453,7 +515,8 @@ kíván a Magyar Köztársaság területén tartózkodni.
 - b) a harmadik országbeli állampolgár az Európai Unió másik tagállamában szerez huzamos tartózkodói jogállást;
 - c) a harmadik országbeli állampolgár hat évet meghaladóan nem tartózkodik a Magyar Köztársaság területén;
 - d) az engedély megszerzése érdekében a harmadik országbeli állampolgár az idegenrendészeti hatósággal hamis adatot, valótlan tényt közölt;
-- e) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el.
+- e) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el;
+- f) az a) ponttól eltérően a harmadik országbeli állampolgár EU Kék Kártya birtokosként vagy annak családtagjaként szerezte meg az EK letelepedési engedélyt és az Európai Unió tagállamainak területét egymást követő huszonnégy hónapnál hosszabb ideig elhagyta.
 
 (2) Az a harmadik országbeli állampolgár, akinek EK letelepedési engedélyét az idegenrendészeti hatóság az (1) bekezdés a)–c) pontjai alapján vonta vissza, ismételt kérelmezés esetén a 38. § (1) bekezdésében foglalt feltétel vizsgálata nélkül EK letelepedési engedélyt kap.
 
@@ -482,11 +545,11 @@ kíván a Magyar Köztársaság területén tartózkodni.
 
 ### Kiutasítás és önkéntes távozás
 
-42. § (1) Amennyiben az idegenrendészeti hatóság megállapítja, hogy a Magyar Köztársaság területén jogszerűen tartózkodó harmadik országbeli állampolgár tartózkodásra a továbbiakban már nem jogosult, a tartózkodási engedély kérelmét elutasító vagy a tartózkodásra jogosító okmányát visszavonó határozatában, a harmadik országbeli állampolgárt az Európai Unió tagállamainak területéről kiutasítja. A harmadik országbeli állampolgár a kiutasítással szemben jogorvoslattal a tartózkodási engedély kérelmet elutasító vagy a tartózkodásra jogosító okmányt visszavonó határozattal szembeni jogorvoslat során élhet.
+42. § (1) Amennyiben az idegenrendészeti hatóság megállapítja, hogy a Magyar Köztársaság területén jogszerűen tartózkodó harmadik országbeli állampolgár tartózkodásra a továbbiakban már nem jogosult, a tartózkodási engedély kérelmét elutasító vagy a tartózkodásra jogosító okmányát visszavonó határozatában, a harmadik országbeli állampolgárt – az e törvényben meghatározott esetek kivételével – az Európai Unió tagállamainak területéről kiutasítja. A harmadik országbeli állampolgár a kiutasítással szemben jogorvoslattal a tartózkodási engedély kérelmet elutasító vagy a tartózkodásra jogosító okmányt visszavonó határozattal szembeni jogorvoslat során élhet.
 
-(2) Amennyiben a bíróság kiutasítás büntetést alkalmaz vagy az idegenrendészeti hatóság megállapítja a harmadik országbeli állampolgár tartózkodásának jogszerűtlenségét, az idegenrendészeti hatóság a döntésében a harmadik országbeli állampolgárt az Európai Unió tagállamainak területéről kiutasítja.
+(2) Amennyiben a bíróság kiutasítás büntetést alkalmaz, vagy az idegenrendészeti hatóság megállapítja, hogy a harmadik országbeli állampolgárral szemben a kiutasítás e törvényben meghatározott feltételei fennállnak, az idegenrendészeti hatóság a döntésében a harmadik országbeli állampolgárt az – az e törvényben meghatározott esetek kivételével – Európai Unió tagállamainak területéről kiutasítja.
 
-(3) Az idegenrendészeti hatóság a kiutasítás elrendelésére hozott határozatban, illetve a bírósági kiutasítás végrehajtására hozott végzésben az önkéntes távozásra a határidőt úgy határozza meg, hogy az a kiutasító határozatnak a harmadik országbeli állampolgárral történő közlésétől számított legalább hetedik, legfeljebb harmincadik napra essen, amennyiben a harmadik országbeli állampolgár vállalja az ország területének önkéntes elhagyását. A fent említett határidő nem zárja ki annak lehetőségét, hogy az érintett harmadik országbeli állampolgár előbb tegyen eleget a kiutasító döntésben foglaltaknak.
+(3) Az idegenrendészeti hatóság a kiutasítás elrendelésére hozott határozatban, illetve a bírósági kiutasítás végrehajtására hozott végzésben az önkéntes távozásra a határidőt úgy határozza meg, hogy az a kiutasító határozatnak a harmadik országbeli állampolgárral történő közlésétől számított legalább hetedik, legfeljebb harmincadik napra essen, amennyiben a harmadik országbeli állampolgár vállalja – az e törvényben meghatározott esetek kivételével – az Európai Unió tagállamai területének önkéntes elhagyását. A fent említett határidő nem zárja ki annak lehetőségét, hogy az érintett harmadik országbeli állampolgár előbb tegyen eleget a kiutasító döntésben foglaltaknak.
 
 (4) Ha a kiutasított személyes körülményei – így különösen a Magyar Köztársaság területén történő tartózkodás megelőző hosszú időtartama, mely a kiutazásra történő felkészüléshez szükséges időt a szokásosnál hosszabbá teszi, vagy családi és társadalmi kötelékek – indokolják, az idegenrendészeti hatóság – kérelemre vagy hivatalból – az önkéntes távozásra nyitva álló határidőt legfeljebb harminc nappal meghosszabbíthatja. Ha a kiutasított harmadik országbeli állampolgár szülői felügyelete alatt álló gyermek közoktatási intézményben folytat tanulmányokat, az idegenrendészeti hatóság – kérelemre vagy hivatalból – az önkéntes távozásra nyitva álló határidőt legfeljebb a folyamatban lévő tanulmányi félév végéig meghosszabbíthatja. Az önkéntes távozásra nyitva álló határidő meghosszabbításáról végzésben kell rendelkezni.
 
@@ -496,7 +559,7 @@ kíván a Magyar Köztársaság területén tartózkodni.
 
 - a) tartózkodási jogosultsága megszűnésének oka az, hogy a harmadik országbeli állampolgár kiutasítás, beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
 - b) tartózkodási engedély iránti kérelmét a 18. § (1) bekezdés b) és d) pontja alapján utasította el a hatóság;
-- c) az ország területének önkéntes elhagyását kifejezetten megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasító döntésnek nem fog eleget tenni;
+- c) az Európai Unió tagállamai területének önkéntes elhagyását kifejezetten megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasító döntésnek nem fog eleget tenni;
 - d) magyarországi tartózkodása veszélyezteti a közrendet, a közbiztonságot vagy a nemzetbiztonságot.
 
 (7) Ha az idegenrendészeti hatóság a kiutasító határozatában a kiutasítás kitoloncolással történő végrehajtásáról rendelkezik, az önkéntes távozásra határnapot nem határoz meg.
@@ -524,6 +587,8 @@ kíván a Magyar Köztársaság területén tartózkodni.
 44. § (1) A 43. § (1) bekezdés a)–b) pontja alapján önállóan elrendelt beutazási és tartózkodási tilalom időtartama az elrendelés alapjául szolgáló kötelezettség vagy tilalom időtartamához igazodik. A 43. § (1) bekezdés c)–e) pontja alapján önállóan elrendelt beutazási és tartózkodási tilalom időtartamát az elrendelő idegenrendészeti hatóság határozza meg, amely legfeljebb három évre rendelhető el, és alkalmanként legfeljebb további három évvel meghosszabbítható. A beutazási és tartózkodási tilalmat haladéktalanul törölni kell, ha az elrendelésének oka megszűnt.
 
 (2) Az önállóan elrendelt beutazási és tartózkodási tilalommal szemben fellebbezésnek nincs helye.
+
+(3) A 43. § (1) bekezdés a)–b) pontja alapján elrendelt önálló beutazási és tartózkodási tilalommal szemben jogorvoslatnak nincs helye.
 
 45. § (1) A családi kapcsolatára tekintettel tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár idegenrendészeti kiutasítását elrendelő határozat meghozatala előtt az idegenrendészeti hatóság a következő szempontokat mérlegeli:
 
@@ -553,6 +618,12 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 - a) az idegenrendészeti hatóság írásbeli felszólítása ellenére a Magyar Köztársaság területét haladéktalanul nem hagyta el, vagy
 - b) a Magyar Köztársaság területén történő tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet sérti.
 
+(8a) Az Európai Unió tagállama által kiadott, a tagállam területén tartózkodásra jogosító engedéllyel rendelkező harmadik országbeli állampolgárt az idegenrendészeti hatóság a Magyar Köztársaság területéről utasítja ki, elsődlegesen azon tagállamba, amelynek területére a tartózkodási engedélye érvényes.
+
+(8b) Az Európai Unió valamely tagállama által kiállított EU Kék Kártyával rendelkező harmadik országbeli állampolgárt azon tagállamba kell kiutasítani, amely az EU Kék Kártyát kiadta, még abban az esetben is, ha az EU Kék Kártya érvényességi ideje a magyarországi tartózkodás alatt lejárt.
+
+(8c) Amennyiben az EU Kék Kártyával rendelkező harmadik országbeli állampolgárt az Európai Unió valamely tagállama kiutasítja, abban az esetben is lehetővé kell tenni a visszatérését a Magyar Köztársaság területére, ha az EU Kék Kártya érvényességi ideje lejárt. A visszafogadást követően a harmadik országbeli állampolgárra a 18. § (1b) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+
 (9) Ha az idegenrendészeti hatóság a (3)–(5) bekezdésben meghatározott okokból a harmadik országbeli állampolgár kiutasításától eltekint, és a harmadik országbeli állampolgár nem rendelkezik a tartózkodás törvényi feltételeivel, az idegenrendészeti hatóság humanitárius tartózkodási engedéllyel látja el.
 
 45/A. § (1) A 43. § (2) bekezdésében foglaltaktól eltérően, az idegenrendészeti hatóság nem utasítja ki azt a harmadik országbeli állampolgárt, akit az Európai Unió más tagállamának hatósága határozatával
@@ -566,12 +637,18 @@ miatt utasított ki.
 
 (2) Az (1) bekezdésben meghatározott kiutasítási határozatot az idegenrendészeti hatóság az abban foglaltaknak megfelelően, e törvény rendelkezései alapján végrehajtja.
 
+45/B. § (1) A 43. § (2) bekezdésében foglaltaktól eltérően az idegenrendészeti hatóság nem utasítja ki azt a jogszerűtlenül tartózkodó harmadik országbeli állampolgárt, akit az Európai Unió más tagállama 2009. január 13-át megelőzően kötött kétoldalú visszafogadási egyezmény vagy más megállapodás alapján visszafogad.
+
+(2) A visszafogadási egyezmény alapján történő visszaadásról az idegenrendészeti hatóság végzéssel dönt, mellyel szemben a harmadik országbeli állampolgár a végzés közlésétől számított huszonnégy órán belül végrehajtási kifogást terjeszthet elő. A végrehajtási kifogásnak a visszaadás végrehajtására nincs halasztó hatálya.
+
+(3) A visszafogadási egyezmény alapján történő visszaadásra a kitoloncolás szabályait kell alkalmazni.
+
 46. § (1) A kiutasítást elrendelő határozatnak tartalmaznia kell:
 
 - a) a mérlegelési szempontokat a 45. § (1)–(6) bekezdése alapján hozott döntések esetén,
 - b) a beutazási és tartózkodási tilalom időtartamát,
 - c) annak az államnak a megnevezését, ahová a kiutasítás végrehajtása történik,
-- d) az Európai Unió tagállamainak területéről történő önkéntes távozás teljesítésének határnapját,
+- d) az Európai Unió tagállamainak – e törvényben meghatározott esetben az ország – területéről történő önkéntes távozás teljesítésének határnapját,
 - e) figyelmeztetést arra, hogy ha a harmadik országbeli állampolgár a kiutasításnak önként nem tesz eleget, az idegenrendészeti hatóság kitoloncolja, és
 - f) az arcképmás készítésének, valamint az ujjnyomat rögzítésének tűrésére vonatkozó kötelezettség előírását.
 
@@ -579,7 +656,7 @@ miatt utasított ki.
 
 (3)
 
-(4) A jogerős kiutasítást, valamint a beutazási és tartózkodási tilalom időtartamát az útlevélbe be kell jegyezni. A bejegyzéstől el lehet tekinteni, amennyiben a külföldi önkéntes hazatérési program keretében hagyja el az országot.
+(4) A jogerős kiutasítást, valamint a beutazási és tartózkodási tilalom időtartamát az útlevélbe be kell jegyezni. A bejegyzéstől el kell tekinteni, amennyiben a harmadik országbeli állampolgár az Európai Unió más tagállama által kiadott érvényes tartózkodási engedéllyel rendelkezik. A bejegyzéstől el lehet tekinteni, amennyiben a külföldi vállalja az ország önkéntes elhagyását vagy önkéntes hazatérési program keretében hagyja el az országot.
 
 47. § (1) Az idegenrendészeti kiutasítással együtt – ha e törvény másként nem rendelkezik – beutazási és tartózkodási tilalmat kell elrendelni, ha az idegenrendészeti hatóság a harmadik országbeli állampolgár kitoloncolását rendelte el.
 
@@ -678,7 +755,7 @@ miatt utasított ki.
 
 53. § (1) A többszöri eljárás megakadályozása, valamint a személyazonosság megállapítása céljából a kiutasítást előkészítő őrizetet, az idegenrendészeti kiutasítást, a kijelölt helyen való tartózkodást, valamint az idegenrendészeti őrizetet elrendelő, illetve a bírósági kiutasítást végrehajtó hatóság rögzíti a harmadik országbeli állampolgár arcképmását, valamint ujjnyomatát.
 
-(1a) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes, a nemzeti és az EK letelepedési engedély kérelmezésekor, valamint a 29. § (1) bekezdés a)–b) és d)–f) pontjai szerinti humanitárius tartózkodási engedély kiadásakor az idegenrendészeti hatóság a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján jár el.
+(1a) A kishatárforgalmi engedély, a tartózkodási engedély, az EU Kék Kártya, az ideiglenes, a nemzeti és az EK letelepedési engedély kérelmezésekor, valamint a 29. § (1) bekezdés a)–b) és d)–f) pontjai szerinti humanitárius tartózkodási engedély kiadásakor az idegenrendészeti hatóság a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján jár el.
 
 (2) A harmadik országbeli állampolgár az arcképmása, valamint az ujjnyomata rögzítését tűrni köteles.
 
@@ -713,7 +790,7 @@ miatt utasított ki.
 
 (8) Az idegenrendészeti őrizet (6) bekezdés b) és c) pontja alapján történő megszüntetése esetén az őrizetet elrendelő idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyet jelöl ki.
 
-55. § (1) Az idegenrendészeti hatóság az idegenrendészeti eljárás lefolytatása érdekében kiutasítást előkészítő őrizetbe veheti azt a harmadik országbeli állampolgárt, akinek személyazonossága vagy tartózkodásának jogszerűsége nem tisztázott.
+55. § (1) Az idegenrendészeti hatóság az idegenrendészeti eljárás lefolytatása érdekében kiutasítást előkészítő őrizetbe veheti azt a harmadik országbeli állampolgárt, akinek személyazonossága vagy tartózkodásának jogszerűsége nem tisztázott, vagy kétoldalú visszafogadási egyezmény alapján az Európai Unió más tagállama részére visszaadása folyamatban van.
 
 (2) A kiutasítást előkészítő őrizetet határozattal kell elrendelni, és azt a közléssel egyidejűleg végre kell hajtani.
 
@@ -936,11 +1013,19 @@ miatt utasított ki.
 
 (2) Az (1) bekezdésben foglalt rendelkezéseket kell alkalmazni akkor is, ha a légifuvarozó hiányos adatokat vagy – az elvárható gondosság tanúsítása hiányában – valótlan adatot továbbít.
 
-71. § (1) A munkáltató a harmadik országbeli állampolgár foglalkoztatását megelőzően köteles meggyőződni arról, hogy a harmadik országbeli állampolgár rendelkezik az e törvény alapján keresőtevékenység folytatására jogosító engedéllyel.
+71. § (1) A munkáltató legkésőbb a harmadik országbeli állampolgár munkába lépésének napján köteles meggyőződni arról, hogy a harmadik országbeli állampolgár érvényes tartózkodási engedéllyel vagy más tartózkodásra jogosító engedéllyel, valamint az e törvény alapján keresőtevékenység folytatására jogosító engedéllyel rendelkezik-e.
 
-(2) A munkáltató három munkanapon belül köteles bejelenteni az idegenrendészeti hatóságnak, amennyiben a harmadik országbeli állampolgár az engedélyezett munkáját nem kezdi meg, illetve a munkavégzés a munkavállalási engedély érvényességi idején belül megszűnik.
+(2) A munkáltató a harmadik országbeli állampolgár által bemutatott érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély másolatát a foglalkoztatás időtartama alatt köteles megőrizni.
 
-(3) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott kötelezettségét elmulasztó munkáltatót – külön jogszabályban meghatározott – közrendvédelmi bírsággal sújthatja.
+(3) A munkáltató öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak a harmadik országbeli állampolgár foglalkoztatásának megkezdését.
+
+(4) A munkáltató öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak, amennyiben a harmadik országbeli állampolgár az engedélyezett munkáját nem kezdi meg, illetve a munkavégzés a munkavállalási engedély érvényességi idején belül megszűnik.
+
+(5) Az idegenrendészeti hatóság az (1)–(4) bekezdésekben meghatározott kötelezettséget elmulasztó munkáltatót a foglalkoztatott harmadik országbeli állampolgárok számával arányos mértékű – jogszabályban meghatározott – közrendvédelmi bírsággal sújtja.
+
+(6) A közrendvédelmi bírság megfizetésének kötelezettsége alól a munkáltató akkor mentesül, ha bizonyítja, hogy az (1)–(4) bekezdésben foglalt ellenőrzési és bejelentési kötelezettségének eleget tett, kivéve, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az érvényes tartózkodási engedélyként vagy más, tartózkodásra jogosító engedélyként bemutatott okmány hamis volt.
+
+(7) A munkáltató fővállalkozója a munkáltatóval egyetemlegesen felel a közrendvédelmi bírság megfizetéséért akkor, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az alvállalkozó munkáltató harmadik országbeli állampolgárt érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély, vagy az e törvény alapján keresőtevékenység folytatására jogosító engedély nélkül foglalkoztat.
 
 72. § A meghívó a kötelezettsége elmulasztásával másnak okozott kárt köteles megtéríteni.
 
@@ -982,6 +1067,10 @@ miatt utasított ki.
 (4) Az elveszett, eltulajdonított, megsemmisült vagy lejárt úti okmány helyett – ha nemzetközi szerződés másként nem rendelkezik – a harmadik országbeli állampolgár köteles új úti okmányt beszerezni. A harmadik országbeli állampolgár az új úti okmány, valamint az (1) bekezdésben foglalt – a bejelentésről szóló – igazolás vagy a lejárt úti okmány birtokában hagyhatja el az ország területét.
 
 (5) Az idegenrendészeti hatóságnak a külpolitikáért felelős miniszter útján gondoskodnia kell a talált úti okmányoknak a kiállítás helye szerint joghatósággal rendelkező állam külképviseletére történő eljuttatásáról.
+
+### Az EU Kék Kártyával rendelkező harmadik országbeli állampolgár bejelentési kötelezettsége
+
+75/A. § Az EU Kék Kártyával rendelkező harmadik országbeli állampolgár köteles a foglalkoztatásra irányuló jogviszony megszűnését, az azt követő újabb foglalkoztatásra irányuló jogviszony keletkezését, annak kezdő, illetve befejező időpontjától számított öt napon belül bejelenteni az idegenrendészeti hatóságnak.
 
 ### VIII. Fejezet — A HONTALAN STÁTUSZ MEGÁLLAPÍTÁSA ÉS A HARMADIK ORSZÁGBELI ÁLLAMPOLGÁROK ÚTI OKMÁNNYAL ELLÁTÁSA
 
@@ -1080,7 +1169,7 @@ szerinti állam vonatkozásában.
 
 (4) Ha az ügyfél ismeretlen helyen tartózkodik – az (5) bekezdésben foglalt eltéréssel – a határozat és a végzés közlése hirdetményi úton történik. Kézbesítési ügygondnok kirendelésének nincs helye.
 
-(5) Az önálló beutazási és tartózkodási tilalmat elrendelő határozat rendelkező részét a külön jogszabályban meghatározott honlapon kell közzétenni.
+(5) Az önálló beutazási és tartózkodási tilalmat elrendelő határozat rendelkező részét a külön jogszabályban meghatározott honlapon kell közzétenni. A 43. § (1) bekezdés a)–b) pontja alapján önálló beutazási és tartózkodási tilalmat elrendelő határozatot a közzététel napján közöltnek kell tekinteni.
 
 90. § (1) Ha e törvény a határozattal szembeni fellebbezést kizárja, újrafelvételi eljárásnak sincs helye.
 
@@ -1119,11 +1208,11 @@ szerinti állam vonatkozásában.
 - a) a természetes személyazonosító adatok;
 - b) az arcképmás;
 - c) az úti okmány azonosító adatai;
-- d) a beutazás célja és a tartózkodás tervezett időtartama;
+- d) a beutazás célja és a tartózkodás tervezett időtartama, korábbi szokásos tartózkodási hely szerinti országa;
 - e) a beutazásához és tartózkodásához szükséges feltételeket igazoló okiratokban szereplő adatok;
 - f) a vízum kiadása vagy meghosszabbítása iránti kérelem elutasításának, valamint a vízum visszavonásának ténye és azok indoka;
 - g) a kiadott (meghosszabbított) vízum száma, érvényességi ideje, valamint a területi érvényességére vonatkozó adat;
-- h) a be- és kiutazás ideje, a határátlépés helye;
+- h) a be- és kiutazás ideje, a határátlépés helye, következő szokásos tartózkodási hely szerinti országa;
 - i) a szálláshely címe.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság vízumkérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) vízum esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
@@ -1133,11 +1222,11 @@ szerinti állam vonatkozásában.
 - a) a természetes személyazonosító adatok;
 - b) az arcképmás;
 - c) az úti okmány azonosító adatai;
-- d) a tartózkodás célja és tervezett időtartama;
+- d) a tartózkodás célja és tervezett időtartama, a korábbi szokásos tartózkodási hely szerinti országa.
 - e) a beutazásához és tartózkodásához szükséges feltételeket igazoló okiratokban szereplő adatok;
 - f) a tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelem elutasításának, valamint a tartózkodási engedély visszavonásának ténye, azok indoka;
 - g) a kiadott (meghosszabbított) tartózkodási engedély száma, sorozatszáma, érvényességi ideje;
-- h) az első beutazás és az utolsó kiutazás időpontja;
+- h) az első beutazás és az utolsó kiutazás időpontja, a következő szokásos tartózkodási hely szerinti országa.
 - i) a szálláshely címe;
 - j) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás és ujjnyomat.
 
@@ -1178,7 +1267,7 @@ szerinti állam vonatkozásában.
 - d) az engedélyek kiadásához szükséges feltételeket igazoló okiratokban szereplő adatok;
 - e) az engedélyek kiadása iránti kérelem elutasításának vagy visszavonásának ténye, azok indoka;
 - f) a kiadott (meghosszabbított) engedélyek száma, sorozatszáma, érvényességi ideje;
-- g) az első beutazás és a végleges kiutazás időpontja;
+- g) az első beutazás és a végleges kiutazás időpontja, korábbi szokásos tartózkodási hely szerinti országát, a következő szokásos tartózkodási hely szerinti országa.
 - h) a lakcím;
 - i) a személyi azonosító;
 - j) a személyazonosító igazolvány okmányszáma;
@@ -1401,7 +1490,7 @@ hatályát veszti.
 
 - a) az idegenrendészeti eljárás során, valamint a szálláshely, illetve a lakóhely bejelentésével, továbbá a harmadik országbeli állampolgárok e törvény alapján kezelt adataival kapcsolatban eljáró hatóságokat, ezek illetékességét, valamint az eljárás részletes rendjét;
 - b) a vízumkiadó hatóságok idegenrendészeti feladatát, hatáskörét és illetékességét, a vízumeljárás részletes szabályait, a vízummentes beutazásra és tartózkodásra jogosító okmányok körét, valamint a vízumok kötelező formáját;
-- c) a tartózkodási engedély, az ideiglenes tartózkodásra jogosító igazolás, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély és az EK letelepedési engedély kiállításának feltételeit és az okmányok formáját;
+- c) a tartózkodási engedély, az ideiglenes tartózkodásra jogosító igazolás, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, az EK letelepedési engedély és az EU Kék Kártya kiállításának feltételeit és az okmányok formáját;
 - d) az érvényes úti okmányok körét;
 - e) a humanitárius célú tartózkodási engedély kiadása, meghosszabbítása és visszavonása indítványozásának, valamint az idegenrendészeti és a nemzetbiztonsági, illetve a bűnüldöző szervek együttműködésének részletes szabályait;
 - f) a meghívólevél hatósági záradékkal történő ellátásának feltételeit és az eljárás részletes szabályait;
@@ -1476,7 +1565,9 @@ hatályát veszti.
 - m) a Tanács 1996. március 4-i ajánlása a helyi konzulátusok együttműködéséről a vízumokkal kapcsolatosan;
 - n) a Tanács 1997. június 26-i állásfoglalása a harmadik állambeli kísérő nélküli kiskorúakról;
 - o) a Tanács 1997. december 4-i állásfoglalása az érdekházasságok elleni küzdelem érdekében elfogadott intézkedésekről;
-- p) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelv.
+- p) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelv;
+- q) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről
+- r) a Tanács 2009/52 irányelve (2009. június 18.) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról.
 
 (2) E törvény
 
@@ -1484,5 +1575,6 @@ hatályát veszti.
 - b) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [53. §, 67. §, 96. §, 99. §, 111. §];
 - c) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkei [67/A. §, 95. §];
 - d) a Közösségi Vízumkódex létrehozásáról szóló (vízumkódex), 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §, 8. §, 9. §, 12. §, 111. §];
+- e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
