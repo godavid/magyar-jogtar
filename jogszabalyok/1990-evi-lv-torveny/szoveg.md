@@ -89,7 +89,7 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 - c) a Magyar Nemzeti Vagyonkezelő Zrt. alkalmazottja, illetve igazgatóságának vagy felügyelő bizottságának tagja;
 - d) a Közbeszerzések Tanácsa tagja;
 - e)
-- f) az Érdekegyeztető Tanács munkavállalói, illetve munkaadói oldalának képviselője.
+- f)
 
 10. § A képviselő az Országgyűlés, a Kormány vagy a helyi önkormányzat képviselő-testülete által létrehozott közalapítvány kezelő szervének tisztségviselőjeként vagy kezelő szervezetének tagjaként nem részesülhet tiszteletdíjban.
 

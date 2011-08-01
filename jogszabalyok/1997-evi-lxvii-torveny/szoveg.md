@@ -229,11 +229,11 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - c) kiemelkedő elméleti jogi jártasságot szerzett a tudomány vagy az oktatás területén, illetőleg
 - d) az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény 2. §-ának (5) bekezdésében foglalt feltételek fennállnak.
 
-(3) Ha a bíró szolgálati viszonya az 57. § (2) bekezdésének g) pontja alapján szűnt meg, és az ott megjelölt megbízatása lejártát követő 30 napon belül kéri bíróvá történő ismételt kinevezését, őt kérelmére, pályázat kiírása nélkül a köztársasági elnök – az OIT javaslatára – a megszűnést megelőző kinevezésének megfelelően határozott vagy határozatlan időre bíróvá kinevezi. A bírói munkakörbe történő beosztásnál a 40. § (4) és (5) bekezdésében írt rendelkezéseket kell alkalmazni, az 57. § (2) bekezdés g) pontjában megjelölt jogviszonyban eltöltött időt pedig szolgálati időként kell figyelembe venni.
+(3) Ha a bíró szolgálati viszonya az 57. § (2) bekezdésének g) vagy n) pontja alapján szűnt meg, és az ott megjelölt megbízatása lejártát követő 30 napon belül kéri bíróvá történő ismételt kinevezését, őt kérelmére, pályázat kiírása nélkül a köztársasági elnök – az OIT javaslatára – a megszűnést megelőző kinevezésének megfelelően határozott vagy határozatlan időre bíróvá kinevezi. A bírói munkakörbe történő beosztásnál a 40. § (4) és (5) bekezdésében írt rendelkezéseket kell alkalmazni, az 57. § (2) bekezdés g) és n) pontjában megjelölt jogviszonyban eltöltött időt pedig szolgálati időként kell figyelembe venni.
 
 12. § (1) A bíróság elnöke a határozott idő utolsó napját megelőző 90 nappal korábban beszerzi a határozott időre kinevezett bíró nyilatkozatát arról, hogy kéri-e a határozatlan időre történő bírói kinevezését.
 
-(2) Ha a bíró kérte a határozatlan időre történő kinevezését, meg kell vizsgálni a bíró működésének teljes időtartama alatt végzett munkáját, feltéve, hogy az (1) bekezdésben megjelölt határidő megnyílta előtt tényleges bírói működésének időtartama a 18 hónapot meghaladta. A vizsgálatot a 48–49. §-ok és az 51–52. §-ok szerint kell lefolytatni azzal, hogy azt az elrendeléstől számított 30 napon belül be kell fejezni, és az értékelés során abban kell állást foglalni, hogy a bíró a határozatlan idejű bírói kinevezésre alkalmas-e.
+(2) Ha a bíró kérte a határozatlan időre történő kinevezését, meg kell vizsgálni a bíró működésének teljes időtartama alatt végzett munkáját, feltéve, hogy az (1) bekezdésben megjelölt határidő megnyílta előtt tényleges bírói működésének időtartama – az (5a) bekezdésben foglaltakra figyelemmel – a 18 hónapot meghaladta. A vizsgálatot a 48–49. §-ok és az 51–52. §-ok szerint kell lefolytatni azzal, hogy azt az elrendeléstől számított 30 napon belül be kell fejezni, és az értékelés során abban kell állást foglalni, hogy a bíró a határozatlan idejű bírói kinevezésre alkalmas-e.
 
 (3) Ha a bírót a határozatlan idejű kinevezésre alkalmasnak találták, a kinevezési javaslatot – a pályázat kiírása nélkül – a harmadik év utolsó napját megelőző 30 napon belül kell a köztársasági elnökhöz felterjeszteni.
 
@@ -241,7 +241,9 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 (5) Ha a bíró tényleges működésének időtartama a 18 hónapot nem érte el, a kinevezés – az OIT javaslatára – újra határozott időre, három évre szól, kivéve, ha a bíró a szolgálati viszonyát nem kívánja fenntartani. A kinevezési javaslat előterjesztésére a (3) bekezdésben foglalt rendelkezéseket kell megfelelően alkalmazni.
 
-(6) A bíró ismét 3 éves határozott idejű kinevezést kap, ha a (2) bekezdés szerinti vizsgálat eredményeként „alkalmas, utóvizsgálat lefolytatása indokolt” értékelést kap. Az (1)–(5) bekezdésben foglaltakat az újabb határozott idejű kinevezés esetében is megfelelően alkalmazni kell.
+(5a) Részmunkaidőben történő munkavégzés esetén a (2) bekezdésben foglalt minimális tényleges bírói működési időtartamba a részmunkaidőben töltött időszak a részmunkaidőnek a teljes munkaidőhöz viszonyított arányában vehető figyelembe.
+
+(6) A bíró ismét 3 éves határozott idejű kinevezést kap, ha a (2) bekezdés szerinti vizsgálat eredményeként „alkalmas, utóvizsgálat lefolytatása indokolt” értékelést kap. Az (1)–(5a) bekezdésben foglaltakat az újabb határozott idejű kinevezés esetében is megfelelően alkalmazni kell.
 
 12/A. § A bírói kinevezésre vonatkozó javaslatot az OIT vagy az OIT elnöke a kinevezés kezdő időpontját és időtartamát megjelölve terjeszti a köztársasági elnök elé.
 
@@ -372,6 +374,31 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 34. § (1) A bíró munkaideje heti negyven óra. A munkaidő – napi nyolc óra alapulvételével – havi, illetve négy heti keretben is megállapítható.
 
 (2) A bíró a munkáját a bíróság szervezeti és működési szabályzatában rögzített munkarend szerint végzi.
+
+34/A. § (1) A teljes munkaidőben foglalkoztatott bíró írásbeli kérelmére a munkáltató köteles a beosztásáról szóló okiratban heti húsz óra részmunkaidőt kikötni, ha a bíró a kérelem benyújtásakor a Munka Törvénykönyve 138. §-a (5) bekezdés a) pontja szerinti fizetés nélküli szabadságot vesz igénybe.
+
+(2) A munkáltató a bírónak a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltató a bíró kérésére köteles írásban megindokolni a kérelem megtagadását.
+
+(3) A részmunkaidő kikötése
+
+- a) a fizetés nélküli szabadság megszűnését követő naptól,
+- b) ha a bírónak a Munka Törvénykönyve 134. § (3) bekezdés b) pontja alapján ki kell adni rendes szabadságát, a szabadság leteltét követő naptól
+
+hatályos. A b) pontban foglaltak alkalmazása esetén – a felek eltérő megállapodása hiányában – a rendes szabadság kiadását a fizetés nélküli szabadság lejártát követő első munkanapon meg kell kezdeni. Eltérő megállapodás esetén a rendes szabadság kiadását a fizetés nélküli szabadság lejártát követő harminc napon belül meg kell kezdeni.
+
+(4) A kérelmet az (1) bekezdés szerinti fizetés nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatóval közölni. A kérelemben a bíró köteles tájékoztatni a munkáltatót
+
+- a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve betöltésének időpontjáról, továbbá
+- b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.”
+
+(5) A (3) bekezdés szerinti időponttól a bírói szolgálati viszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a munkaidő mértékével összefügg.
+
+(6) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató a bírót
+
+- a) a kérelem szerinti időpontig, de
+- b) legfeljebb a gyermek hároméves koráig köteles foglalkoztatni. Ezt követően a bíró munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
+
+(7) Az (1)–(6) bekezdés nem alkalmazható a bírósági vezetőre.
 
 35. § (1) Bírói feladatok ellátása céljából a bíró kötelezhető készenlét és ügyelet teljesítésére. A bíró heti munkaideje, az ügyelet időtartama, valamint a készenlét alatt végzett munka időtartamának együttes mértéke a heti negyvennyolc órát nem haladhatja meg. Munkaidőkeret megállapítása esetén a heti munkaidő együttes mértékét a munkaidőkeret átlagában kell figyelembe venni.
 
@@ -595,7 +622,8 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - j) ha a bíró a 19. §-ban írtak szerint a részére felajánlott bírói állást nem fogadta el,
 - k) ha a bíró a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatában – a vele közös háztartásban élő hozzátartozók adatait is ideértve – lényeges adatot, tényt szándékosan valótlanul közöl, illetőleg elhallgat, vagy a vagyonnyilatkozatát és a személyes adat kezelésére felhatalmazó nyilatkozatát visszavonja,
 - l) ha a bíró a 38/B. §-ban meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra 15 munkanapon belül nem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye,
-- m) ha a bíró a munkáltató által elrendelt orvosi vizsgálaton az 54. § (3) bekezdése szerint nem vesz részt.
+- m) ha a bíró a munkáltató által elrendelt orvosi vizsgálaton az 54. § (3) bekezdése szerint nem vesz részt,
+- n) ha állami felsőoktatási intézmény rektorává vagy költségvetési szervként működő kutatóközpont vagy kutatóintézet vezetőjévé nevezik ki.
 
 (3) A bíró felmenthető, ha rokkantsági (baleseti rokkantsági) nyugdíjra válik jogosulttá.
 
@@ -1320,7 +1348,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 ### XII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-129. § A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 3. §-ának (1)–(4) bekezdését, 4. §-át, 5. §-át, 6–12. §-át, 15. §-át, 18–19/A. §-át, 21–28. §-át, 74. §-át, 76. §-ának (6)–(8) bekezdését, 76/B. §-ának (1)–(2) bekezdését, 78/A. §-át, 79. § (2) bekezdését, 84/A. § (1) bekezdés a) pontját és (2) bekezdését, 85. §-át, 90. §-ának (1)–(4) bekezdését, 93. § (3) bekezdését, 97–98. §-ait, 107. §-át, 122. §-át, 123. §-ának (1) bekezdését, 125. §-át, 130. §-ának (2) bekezdését, 132. §-ának (2) bekezdését, 133. §-át, 134. §-át, 135–140/A. §-át, 142/A. §-át, 151. §-ának (2) és (4) bekezdését, 151/A. §-ának (1)–(2) és (5)–(6) bekezdését, 152. §-át, 153. §-ának (1) bekezdését, 154. §-ának (1) bekezdése első és harmadik mondatát, 155–157. §-át, 158. §-ának (1) bekezdése első mondatát és (2)–(3) bekezdését, 159–164. §-át, 202. § (2) bekezdését megfelelően alkalmazni kell.
+129. § A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 3. §-ának (1)–(4) bekezdését, 4. §-át, 5. §-át, 6–12. §-át, 15. §-át, 18–19/A. §-át, 21–28. §-át, 74. §-át, 76. §-ának (6)–(8) bekezdését, 76/B. §-ának (1)–(2) bekezdését, 78/A. §-át, 79. § (2) bekezdését, 84/A. § (1) bekezdés a) pontját és (2) bekezdését, 85. §-át, 90. §-ának (1)–(4) bekezdését, 93. § (3) bekezdését, 97–98. §-ait, 107. §-át, 122. §-át, 123. §-ának (1) bekezdését, 125. §-át, 130. §-ának (2) bekezdését, 132. §-ának (2) bekezdését, 133. §-át, 134. § (1)–(3) bekezdését, (4) bekezdésének első mondatát, továbbá (5)–(11) bekezdését, 135–140/A. §-át, 142/A. §-át, 151. §-ának (2) és (4) bekezdését, 151/A. §-ának (1)–(2) és (5)–(6) bekezdését, 152. §-át, 153. §-ának (1) bekezdését, 154. §-ának (1) bekezdése első és harmadik mondatát, 155–157. §-át, 158. §-ának (1) bekezdése első mondatát és (2)–(3) bekezdését, 159–164. §-át, 202. § (2) bekezdését megfelelően alkalmazni kell.
 
 130. § Az e törvényben nem szabályozott kérdésekben a katonai bíró szolgálati viszonyára a Magyar Honvédség hivatásos és szerződéses tagjainak szolgálati viszonyáról szóló 2001. évi XCV. törvény rendelkezéseit is megfelelően alkalmazni kell azzal az eltéréssel, hogy bármilyen illetményre és a jubileumi jutalomra e törvény alapján jogosult, fegyelmi felelősségre vonására kizárólag e törvény alapján kerülhet sor.
 
@@ -1363,6 +1391,10 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - a) 9. § (1) bekezdésével megállapított 9. § (7) bekezdését,
 - b) 9. § (2) bekezdésével megállapított 14. § (1) bekezdését, valamint
 - c) 9. § (3) bekezdésével megállapított 20. §-át az annak hatályba lépésekor folyamatban lévő bírói beosztásokra és áthelyezésekre is alkalmazni kell, amennyiben a bírói beosztásról, vagy áthelyezésről szóló döntés még nem került meghozatalra.
+
+138/B. § Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény (a továbbiakban: Módtv.) 41. §-ával megállapított 12. § (5a) bekezdését a részmunkaidőben történő foglalkoztatásnak a Módtv. hatálybalépését követően ledolgozott időtartama tekintetében kell alkalmazni.
+
+138/C. § Amely helyi bíróságnál a Módtv. hatályba lépéséig az ülnökök megbízatása lejárt és nem került sor a törvényben meghatározottak szerint új ülnökválasztásra, annál a helyi bíróságnál – a 125. § (5) bekezdésében meghatározottak szerinti időtartamig – az ülnöki feladatokat azon megyei bírósághoz megválasztott ülnökök látják el, amelynek illetékességi területéhez az érintett helyi bíróság tartozik.
 
 ### Felhatalmazás
 

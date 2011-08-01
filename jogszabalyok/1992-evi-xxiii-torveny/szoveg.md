@@ -37,7 +37,7 @@ A társadalom közmegbecsülését élvező, demokratikus közigazgatás feltét
 - a)
 - b) törvény eltérő rendelkezésének hiányában a Honvédség, a nemzetbiztonsági szolgálatok, a Tűzoltóság, a katasztrófavédelem, a büntetés-végrehajtás, a polgári védelem és a fegyveres biztonsági őrség szerveire;
 - c) jogszabály eltérő rendelkezésének hiányában a helyi önkormányzat feladatkörébe tartozó közszolgáltatások ellátására – polgármesteri hivatalban – foglalkoztatottakra;
-- d) a közhasznú munkavégzés, a közmunka, közcélú munkavégzés keretében foglalkoztatottra, valamint az alkalmi munkavállalói könyvvel foglalkoztatott munkavállalóra.
+- d) a közfoglalkoztatás keretében foglalkoztatottra, valamint az alkalmi munkavállalói könyvvel foglalkoztatott munkavállalóra.
 
 3. § (1) E törvény rendelkezéseit kell alkalmazni a 10. §, a 10/B–10/C. §, a 16/A. §, a 20/A. §, a 23–30/B. § és a 32–36. § – ide nem értve a vezető megbízással rendelkező politikai főtanácsadót, politikai tanácsadót – kivételével az önkormányzati főtanácsadói, önkormányzati tanácsadói munkakörben kinevezett köztisztviselőkre.
 

@@ -362,11 +362,12 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (1) Tagállamnak minősül a Magyar Köztársaság kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szakképesítések elismerése vagy – a X. fejezet alkalmazásában – a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogokat élvez.
 
-(2) A tagállam állampolgárával azonos megítélés alá esik
+(2) A tagállam állampolgárával azonos megítélés alá esik:
 
 - a) a valamely tagállam állampolgárának, valamint a magyar állampolgárnak külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező családtagja,
-- b) a kutatás céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár, valamint
-- c) a bevándorolt, illetve letelepedett jogállású személy is.
+- b) a kutatás céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár,
+- c) a bevándorolt, illetve letelepedett jogállású személy, valamint
+- d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár.
 
 (3) Szabályozott szakmának minősül az olyan szakmai tevékenység vagy szakmai tevékenységek csoportja, amelynek a megkezdését, folytatását vagy meghatározott módon történő folytatását jogszabály, közvetlenül vagy közvetve, meghatározott szakmai képesítés birtoklásához köti, továbbá, amelyet külön jogszabály szabályozott szakmának minősít. A szakma meghatározott módon történő gyakorlásának minősül különösen az, ha jogszabály meghatározott szakmai cím használatát meghatározott képesítés birtoklásához köti.
 
@@ -792,7 +793,7 @@ A SZAKKÉPZETTSÉG ÉS A SZAKKÉPESÍTÉS FELTÉTEL NÉLKÜLI ELISMERÉSE
 
 (7) Az oktatásért felelős miniszter – az érintett miniszterek közreműködésével – elkészíti és a Magyar Közlönyben rendszeresen közzéteszi a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését tartalmazó jegyzéket, továbbá gondoskodik annak Interneten való hozzáférhetőségéről. A szabályozott szakmára vonatkozó jogszabály módosulása esetén az érintett miniszter kezdeményezi az oktatásért felelős miniszternél a jegyzék módosítását.
 
-68. §
+68. § Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény 76. §-ával megállapított 28. § (2) bekezdést a folyamatban levő ügyekben is alkalmazni kell.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -802,7 +803,8 @@ A SZAKKÉPZETTSÉG ÉS A SZAKKÉPESÍTÉS FELTÉTEL NÉLKÜLI ELISMERÉSE
 - b) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés c) pont és 21. cikk,
 - c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
 - d) az Európai Parlament és a Tanács 2005/36/EK irányelve a szakmai képesítések elismeréséről, 1–20. cikk és 50–55. cikk, 57–64. cikk,
-- e) a Tanács 2005/71/EK irányelve (2005. október 12.) a harmadik országbeli állampolgároknak az Európai Közösség területén folytatott tudományos kutatás céljából való fogadására vonatkozó külön eljárásról, 12. cikk a) pont.
+- e) a Tanács 2005/71/EK irányelve (2005. október 12.) a harmadik országbeli állampolgároknak az Európai Közösség területén folytatott tudományos kutatás céljából való fogadására vonatkozó külön eljárásról, 12. cikk a) pont,
+- f) A Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés d) pont.
 
 70–71. §
 

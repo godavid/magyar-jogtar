@@ -7,7 +7,7 @@ az egyszerűsített foglalkoztatásról
 - a) mezőgazdasági, továbbá turisztikai idénymunkára vagy
 - b) alkalmi munkára.
 
-(2) Az alkalmi munkára irányuló egyszerűsített foglalkoztatás esetén az egyszerűsített munkaviszonyban egy naptári napon legfeljebb foglalkoztatott munkavállalók létszáma – a munkáltatónak az adott hónapot megelőző hat havi átlagos statisztikai létszámát alapul véve – nem haladhatja meg
+(2) Az alkalmi munkára irányuló egyszerűsített foglalkoztatás esetén az egyszerűsített munkaviszonyban egy naptári napon legfeljebb foglalkoztatott munkavállalók létszáma – a munkáltatónak a tárgyév első, illetve hetedik hónapját megelőző hat havi, ha a munkáltató ennél rövidebb ideje működik, működésének egész hónapjaira eső átlagos statisztikai létszámát alapul véve – nem haladhatja meg
 
 - a) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) hatálya alá tartozó főállású személyt nem foglalkoztató munkáltató esetén az egy főt,
 - b) egy főtől öt főig terjedő munkavállaló foglalkoztatása esetén a két főt,
@@ -27,7 +27,7 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 
 2. § E törvény alkalmazásában:
 
-- 1. mezőgazdasági idénymunka: a növénytermesztési, erdőgazdálkodási, állattenyésztési, halászati ágazatba tartozó olyan munkavégzés, amely az előállított áru vagy a nyújtott szolgáltatás természete miatt – a munkaszervezés körülményeitől függetlenül – évszakhoz, az év adott valamely időszakához vagy időpontjához kötődik, illetve a megtermelt mezőgazdasági termékeknek a munkáltató saját gazdasága területén történő anyagmozgatása, csomagolása, feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot,
+- 1. mezőgazdasági idénymunka: a növénytermesztési, erdőgazdálkodási, állattenyésztési, halászati, vadászati ágazatba tartozó munkavégzés, továbbá a termelő, termelői csoport, termelői szervezet, illetve ezek társulása által a megtermelt mezőgazdasági termékek anyagmozgatása, csomagolása – a továbbfeldolgozás kivételével – feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot,
 - 2. turisztikai idénymunka: a kereskedelemről szóló törvényben meghatározott kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál végzett idénymunka, feltéve, hogy azonos felek között a határozott időre szóló munkaviszony időtartama nem haladja meg egy naptári éven belül a százhúsz napot,
 - 3. alkalmi munka: a munkáltató és a munkavállaló között
   - a) összesen legfeljebb öt egymást követő naptári napig, és
@@ -35,11 +35,12 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
   - c) egy naptári éven belül összesen legfeljebb kilencven naptári napig létesített, határozott időre szóló munkaviszony,
 - 4. külföldi személy: a magyar állampolgársággal nem rendelkező természetes személy,
 - 5. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár,
-- 6. tagállam: az Európai Unió tagállama, valamint az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+- 6. tagállam: az Európai Unió tagállama, valamint az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
+- 7. idénymunka: az Mt. 117. § (1) bekezdés j) pontjában meghatározott feltételeknek megfelelő munka. Mezőgazdasági idénymunka esetén az év adott időszakához vagy időpontjához kötődőnek kell tekinteni az olyan munkavégzést is, amely az előállított növény vagy állat biológiai sajátossága miatt végezhető el kizárólag abban az időszakban vagy időpontban.
 
 ### Az egyszerűsített foglalkoztatás céljára létrehozott munkaviszony
 
-3. § (1) Egyszerűsített foglalkoztatás céljából létrejött munkaviszony a felek megállapodása alapján, a munkáltató 11. §-ban meghatározott bejelentési kötelezettségének teljesítésével keletkezik. Amennyiben azt a munkavállaló kéri, illetve a jogszabály alapján nem elektronikus úton bevallásra kötelezett munkáltató választása szerint, az egyszerűsített foglalkoztatás céljából munkaviszonyt az e törvény melléklete szerinti szerződés megkötésével kell létesíteni, és azt legkésőbb a munka megkezdéséig kell írásba foglalni.
+3. § (1) Egyszerűsített foglalkoztatás céljából létrejött munkaviszony a felek szóbeli megállapodása alapján, a munkáltató 11. §-ban meghatározott bejelentési kötelezettségének teljesítésével keletkezik. Amennyiben azt a munkavállaló kéri, illetve a jogszabály alapján nem elektronikus úton bevallásra kötelezett munkáltató választása szerint, az egyszerűsített foglalkoztatás céljából munkaviszonyt az e törvény melléklete szerinti szerződés megkötésével kell létesíteni, és azt legkésőbb a munka megkezdéséig kell írásba foglalni, azzal, hogy ez nem mentesíti a munkáltatót a 11. §-ban szereplő bejelentési kötelezettség teljesítése alól. Ebben az esetben a munkavégzés napjának végéig elegendő kitölteni a munkáltató és a munkavállaló megnevezésén kívüli egyéb azonosító adatait.
 
 (2) Nem létesíthető egyszerűsített foglalkoztatásra munkaviszony olyan felek között, akik között a szerződés megkötésekor már az Mt. szabályai szerint létesített munkaviszony áll fenn.
 
@@ -59,7 +60,7 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 - f) az egyéb hátrányos jogkövetkezményekre vonatkozó 109. §-át,
 - g) a munkaidőre vonatkozó szabályai közül a 117/A. §-át,
 - h) a vasárnap történő munkavégzésre vonatkozó 124. § (1) bekezdését,
-- i) a szabadság kiadására vonatkozó 134. §-át,
+- i)
 - j) a foglalkoztatási kötelezettségnek a munkavállaló más munkáltatónál történő munkavégzéssel való teljesítésére vonatkozó 150. §-át,
 - k) az állásidőre vonatkozó 151. § (4) bekezdését,
 - l) a vezető állású munkavállalókra vonatkozó X. fejezetét,
@@ -67,12 +68,15 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 - n) a munkaerő-kölcsönzésre vonatkozó XI. fejezetét, valamint
 - o) a közigazgatási szerveknél foglalkoztatott munkavállalókra vonatkozó eltérő rendelkezésekről szóló XII. fejezetét.
 
-(3) Alkalmi munkára létesített egyszerűsített foglalkoztatás esetén a (2) bekezdésben foglaltakon túlmenően
+(3) Egyszerűsített foglalkoztatás esetén nem kell alkalmazni az Mt-nek a szabadság kiadására vonatkozó 134. §-át.
+
+(4) Alkalmi munkára létesített egyszerűsített foglalkoztatás esetén a (2) bekezdésben foglaltakon túlmenően
 
 - a) nem kell alkalmazni az Mt. betegszabadságra, egyéb munkaidő-kedvezményekre vonatkozó 137–140. §-át,
 - b) a munkaidő-beosztás az Mt. 119. §-ától eltérően az egybefüggő munkavégzés első napján is közölhető,
 - c) a munkáltató munkaidőkeret hiányában is elrendelhet az Mt. 120. §-a szerint egyenlőtlen munkaidő-beosztást,
-- d) nem kell alkalmazni az Mt. 97–99. §-ában rögzített, a munkaviszony megszűnése esetén a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolások kiadására vonatkozó előírásokat.
+- d) nem kell alkalmazni az Mt. 97-99. §-ában rögzített, a munkaviszony megszűnése esetén a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolások kiadására vonatkozó előírásokat,
+- e) amennyiben a felek írásban kötöttek munkaszerződést, nem kell alkalmazni az Mt. 140/A. §-ában foglalt munkaidő-nyilvántartásra, valamint az Mt. 160. §-ában foglalt munkabérről szóló írásbeli elszámolásról szóló rendelkezéseket.
 
 5. § (1) Harmadik országbeli állampolgár – a bevándorolt vagy letelepedett jogállású személy kivételével – kizárólag mezőgazdasági idénymunka keretében foglalkoztatható e törvény szerint létesített munkaviszony alapján.
 
@@ -156,7 +160,7 @@ a munkáltató közterhet nem fizet.
 
 (5) A munkáltató az (1) bekezdés a)–b) pontjaiban meghatározott esetekben a tárgyhót követő hó 12-éig az egyszerűsítetten foglalkoztatott munkavállaló foglalkoztatásával járó közteher-fizetési kötelezettségének tesz eleget. Bevallási kötelezettségét ezen időpontig az ügyfélkapun történő bevallás benyújtásával teljesíti.
 
-(6) Az a munkáltató, aki a tárgyhónapban 300 ezer forintot, vagy ezt meghaladó összegű adótartozást halmoz fel a 8. § (2) bekezdésében és/vagy a 8. § (3) bekezdés a) pontjában szereplő adók tekintetében, további egyszerűsített foglalkoztatásra nem jogosult mindaddig, míg adótartozását ki nem egyenlíti.
+(6) Az a munkáltató, aki a 300 ezer forintot, vagy ezt meghaladó összegű adótartozást halmoz fel a 8. § (2) bekezdésében és/vagy a 8. § (3) bekezdés a) pontjában szereplő adók tekintetében, további egyszerűsített foglalkoztatásra nem jogosult mindaddig, míg adótartozását ki nem egyenlíti.
 
 (7) Az egyszerűsített foglalkoztatás (1) bekezdés b) pontja szerint történő bejelentése az elektronikus közszolgáltatásokról szóló törvény szerint a központi elektronikus szolgáltató rendszerben működő központi ügyfélszolgálat által fenntartott ügyfélvonalon keresztül történik, a bejelentő adóazonosító jelének megadásával. A központi ügyfélszolgálat a bejelentést az elektronikus közszolgáltatásról szóló törvény szabályai szerint rögzíti, és a bejelentőt a bejelentés eredményéről egyidejűleg tájékoztatja. A központi ügyfélszolgálat az adatokat haladéktalanul továbbítja az állami adóhatóság számára. A központi ügyfélszolgálat a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törlésre kerül. A központi ügyfélszolgálat e törvényben meghatározott személyes adatokat, továbbá az adótitkot feladat a teljesítéséhez szükséges mértékben megismerheti és kezelheti.
 
@@ -171,7 +175,7 @@ van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezett
 
 12. § (1) A munkáltató az egyszerűsített foglalkoztatással összefüggő bevallási kötelezettségét az Art. 31. §-ának (2) bekezdése szerint az ügyfélkapun keresztül teljesíti.
 
-(2) Az (1) bekezdéstől eltérően – az Art. 31. § (2) bekezdése szerinti bevallásra elektronikusan kötelezettek kivételével – a munkáltató választhatja azt, hogy bevallási kötelezettségét az Art. 31. § (2) bekezdésében meghatározott adattartalommal papír alapon havonta, a tárgyhót követő hó 12-éig teljesíti.
+(2) Az (1) bekezdéstől eltérően – a magánszemély munkáltató kivételével – a munkáltató választhatja azt, hogy bevallási kötelezettségét az Art. 31. § (2) bekezdésében meghatározott adattartalommal papír alapon havonta, a tárgyhót követő hó 12-éig teljesíti.
 
 13. § (1) A munkáltató a közteher-fizetési kötelezettséget az Art. 38. §-a rendelkezéseinek megfelelően a tárgyhót követő hó 12-éig, az állami adóhatóság által erre a célra meghatározott beszedési számla javára teljesíti.
 

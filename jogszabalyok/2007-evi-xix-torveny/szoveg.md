@@ -38,7 +38,7 @@ egyes munkaügyi tárgyú és más kapcsolódó törvények módosításáról
 
 (5) Az illetékekről szóló 1990. évi XCIII. törvény 62. §-a (1) bekezdésének e törvénnyel módosított i) pontját az e törvény hatálybalépését követően megindított felszámolási eljárásban kell alkalmazni.
 
-(6) A munkaügyi tanács – a megyében lévő többcélú kistérségi társulások elnöksége által jelölt – tagjának megbízatása az e törvény 22. §-ában meghatározott tag megbízásával, de legkésőbb e törvény hatálybalépését követő hatvan napon belül megszűnik. A munkaügyi tanács e törvény 22. §-ával meghatározott új tagjait 2007. május 31-ig kell megválasztani.
+(6)
 
 (7) Az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, akinek (amelynek) a tevékenysége a Pt. – e törvény 24. §-ával módosított – rendelkezései alapján postai szolgáltatásnak minősül, az erre vonatkozó szolgáltatási engedély iránti kérelmet vagy a szolgáltatásra vonatkozó bejelentését e törvény hatálybalépésétől számított kilencven napon belül köteles benyújtani.
 

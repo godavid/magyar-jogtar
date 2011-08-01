@@ -15,13 +15,13 @@ Az Országgyűlés annak érdekében, hogy elősegítse a munkavállalók és a 
 
 (2) Az (1) bekezdés a) pontjában foglaltakon túlmenően, a megváltozott munkaképességű dolgozókat foglalkoztató munkáltatók érdekképviseleteire abban az esetben is kiterjed a törvény hatálya, ha az érdekképviseletben tagsággal rendelkező munkáltatók a 19. § (3) bekezdésének c) pontja szerint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
 
-2. § (1) A munkaügyi kapcsolatokat és a munkaviszonyt érintő kérdésekben a szociális partnerek ágazati, alágazati, szakágazati (a továbbiakban: ágazati) szinten, illetve a munkavállalók meghatározott csoportjait érintően párbeszédet folytathatnak, e célból kétoldalú szociális párbeszéd bizottságot hozhatnak létre.
+2. § (1) A munkaügyi kapcsolatokat és a munkaviszonyt érintő kérdésekben a szociális partnerek, a nemzetgazdasági ág, ágazat, alágazat, szakágazat (a továbbiakban: ágazat) szintjén, illetve a munkavállalók meghatározott csoportjait érintően párbeszédet folytathatnak, e célból kétoldalú szociális párbeszéd bizottságot hozhatnak létre.
 
 (2) Az ágazati párbeszéd bizottság (a továbbiakban: ÁPB) a munkaügyi kapcsolatokat és a munkaviszonyt érintő ágazati jelentőségű kérdésekben az ágazati munkáltatói érdekképviseletek (a továbbiakban: munkáltatói oldal) és az ágazati szakszervezetek (a továbbiakban: munkavállalói oldal) részvételével működő kétoldalú szociális párbeszédet folytató testület.
 
-(3) ÁPB hozható létre ágazati, alágazati, szakágazati szinten. Egy ágazatban, alágazatban, szakágazatban egy bizottság jöhet létre.
+(3) ÁPB hozható létre egy vagy több nemzetgazdasági ágra, ágazatra, alágazatra, szakágazatra kiterjedően. Egy nemzetgazdasági ágban, ágazatban, alágazatban, szakágazatban egy bizottság jöhet létre.
 
-(4) Az alacsonyabb szinten létrehozott ÁPB a magasabb szintű ÁPB-től függetlenül működik, feladatai teljesítését illetően a magasabb szintű ÁPB nem utasíthatja. Az al-, illetve szakágazati szintű párbeszéd bizottságra az ágazati ÁPB-re vonatkozó szabályokat kell megfelelően alkalmazni, kivéve, ha e törvény eltérően rendelkezik.
+(4) Az alacsonyabb szinten létrehozott ÁPB a magasabb szintű ÁPB-től függetlenül működik, feladatai teljesítését illetően a magasabb szintű ÁPB nem utasíthatja. Az al-, illetve szakágazati szintű, illetve nemzetgazdasági ágban létrehozott párbeszéd bizottságra az ágazati ÁPB-re vonatkozó szabályokat kell megfelelően alkalmazni, kivéve, ha e törvény eltérően rendelkezik.
 
 ### Az ágazati párbeszéd bizottság hatásköre
 
@@ -82,7 +82,7 @@ is tagja, nyilatkoznia kell, hogy adatait melyik munkáltatói érdekképviselet
 
 esetén legalább egy jogelőd vagy tag érdekképviselet e tevékenységét a jogutódlás, illetve az érdekképviseleti szövetség létrejötte időpontját közvetlenül megelőzően legalább két évig megszakítás nélkül folytatta.
 
-(5) A (4) bekezdésben szereplő feltételnek való megfelelés hiányában akkor lehet az érdekképviselet az ÁPB tagja, ha a 21. § (1) bekezdés a) pontja szerinti határozat alapján e feltételnek megfelelő valamennyi, az ÁPB létrehozatalában részt vevő, illetve az ÁPB-ben tag ágazati érdekképviselet hozzájárul ÁPB-tagságához.
+(5)
 
 (6) Az ágazati szintű szociális párbeszédben való részvétel feltételeinek elérése érdekében a munkavállalók, illetőleg a munkáltatók érdekképviseletei egymással koalícióra léphetnek.
 
@@ -96,9 +96,9 @@ esetén legalább egy jogelőd vagy tag érdekképviselet e tevékenységét a j
 
 (4) Az ÁPB létrehozásáról szóló megállapodásnak tartalmaznia kell:
 
-- a) az erre irányuló nyilatkozatot,
+- a) az ÁPB létrehozására irányuló nyilatkozatot,
 - b) az ÁPB munkáltatói, illetve munkavállalói oldalain részt vevő érdekképviseletek felsorolását, nevük, székhelyük, valamint a képviseletükre jogosult személy megjelölésével,
-- c) a 13. § (1) bekezdésének megfelelően az ÁPB működésének rendjét, továbbá
+- c) nyilatkozatot arról, hogy az ÁPB-t létrehozó szervezetek döntési rendjüket maguk alakítják ki a 13. § (1) bekezdésének megfelelően vagy kérik az ÁRMB erre vonatkozó, 21. § (2) bekezdésében szereplő eljárását, továbbá
 - d) a szervezetek képviselőinek aláírását.
 
 (5) A (4) bekezdés szerinti megállapodást aláíró érdekképviseletek eljuttatják
@@ -106,9 +106,13 @@ esetén legalább egy jogelőd vagy tag érdekképviselet e tevékenységét a j
 - a) a megállapodás egy-egy eredeti példányát a miniszternek és – a 21. § (1) bekezdés b) pontjában foglalt eljárás lefolytatását kezdeményező kérelem benyújtásával egyidejűleg – az ÁRMB-nek;
 - b) az ÁPB-ben való, 6–8. § szerinti részvétel és – erre vonatkozó megállapodás hiányában – a 12. § (1) bekezdésében foglalt jogosultságok megállapításához szükséges érdekképviseleti adatokat – a 21. § (1) bekezdés a) pontjában foglalt eljárás lefolytatását kezdeményező kérelem benyújtásával egyidejűleg – az ÁRMB-nek.
 
-(6) Az (5) bekezdés a) pontja szerint megküldött megállapodást a miniszter hivatalos lapjában haladéktalanul nyilvánosságra kell hozni.
+(6) Az (5) bekezdés a) pontja szerint megküldött megállapodást a miniszter hivatalos lapjában haladéktalanul nyilvánosságra kell hozni. Ha a megállapodást az érdekképviseletek hatvan napon belül nem küldik meg a miniszternek és az ÁRMB-nek, akkor azt semmisnek kell tekinteni.
 
-(7) Az ÁPB az ÁRMB 21. § (1) bekezdés b) pontja alapján meghozott határozata jogerőre emelkedésének napján jön létre.
+(7) Az ÁPB létrehozásáról szóló megállapodás semmis, valamint az ÁRMB eljárás lefolytatását kezdeményező kérelmet érdemi vizsgálat nélkül el kell utasítani, ha azok bármelyikét az ÁPB létrehozását kezdeményező, illetve a részvételi szándékát bejelentő valamennyi érdekképviselet nem írta alá.
+
+(8) Az (1)–(6) bekezdésben foglaltakat kell alkalmazni akkor is, ha egy már létrejött ÁPB tevékenységi területét valamely további nemzetgazdasági ágra, ágazatra, alágazatra, szakágazatra kiterjeszti.
+
+(9) Az ÁPB az ÁRMB 21. § (1) bekezdés b) pontja alapján meghozott határozata jogerőre emelkedésének napján jön létre.
 
 10. § (1) Az ÁPB-hez megalakítását követően tagként csatlakozhat minden ágazati munkáltatói érdekképviselet, illetve ágazati szakszervezet, amely megfelel az e törvényben előírt feltételeknek.
 
@@ -180,7 +184,7 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 
 (10) A 13. § (1) bekezdésének c) pontja, valamint (2) bekezdése a kollektív szerződés ÁPB-ben történő megkötése esetén nem alkalmazható.
 
-(11) A kollektív szerződés – eltérő megállapodás hiányában – a megkötését követő tizenötödik napon lép hatályba. A munkáltatói érdekképviselet köteles elősegíteni, hogy a kollektív szerződést a tagjai által foglalkoztatott munkavállalók megismerjék.
+(11) A kollektív szerződés – eltérő megállapodás hiányában – a megkötését követő tizenöt nap eltelte után következő hónap első napján lép hatályba. A munkáltatói érdekképviselet köteles elősegíteni, hogy a kollektív szerződést a tagjai által foglalkoztatott munkavállalók megismerjék.
 
 15. § (1) Az ÁPB-ben kötött kollektív szerződés hatálya kiterjed a kollektív szerződést kötő munkáltatói érdekképviselet tagjára és a vele munkaviszonyban álló munkavállalókra.
 
@@ -216,7 +220,7 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 
 19. § (1) A Rehabilitációs Párbeszéd Bizottság (a továbbiakban: RPB) a különböző ágazatokban foglalkoztatott megváltozott munkaképességű dolgozókat képviselő szakszervezetek és a megváltozott munkaképességűeket foglalkoztató munkáltatók érdekképviseletei közötti – a munkaügyi kapcsolatok és a munkaviszony, valamint a foglalkoztatás kérdéseiben folytatott – kétoldalú szociális párbeszéd fóruma.
 
-(2) Az RPB-re az ÁPB-re vonatkozó szabályokat kell megfelelően alkalmazni, a 14–18. § kivételével. Ettől eltérően, az RPB-ben a 14. § (1) bekezdés a) pontja szerint megállapodások köthetők.
+(2) Az RPB-re az ÁPB-re vonatkozó szabályokat kell megfelelően alkalmazni, a 12. § (2) bekezdése és a 14–18. § kivételével. Ettől eltérően, az RPB-ben a 14. § (1) bekezdés a) pontja szerint megállapodások köthetők.
 
 (3) A (2) bekezdésben foglaltakon túlmenően, az RPB-ben való részvétel és a jogosultságok szempontjából ágazati adatok helyett a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók adatait kell figyelembe venni. Megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatónak minősülnek:
 
@@ -250,9 +254,9 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 
 (3) Az ÁPBT tagjai az ÁPB-k munkavállalói, illetve munkáltatói oldala által delegált ágazatonkénti egy-egy képviselő, valamint a miniszter képviselői. Az ÁPB-k oldalai maguk alakítják ki az oldalt alkotó személyek delegálásának és visszahívásának rendjét.
 
-(4) Ha az ágazatban több szinten működik ÁPB, a (3) bekezdésben foglalt jogosultság a legmagasabb szinten működő ÁPB-t illeti meg. Ha az ágazatban ágazati szintű ÁPB helyett több al- vagy szakágazati szintű ÁPB működik, akkor az alágazati szintű ÁPB-k, ha alágazati szintű ÁPB sem működik, a szakágazati szintű ÁPB-k közösen jelölik a képviselőt.
+(4) Ha a nemzetgazdasági ágban több szinten működik ÁPB, a (3) bekezdésben foglalt jogosultság a legmagasabb szinten működő ÁPB-t illeti meg. Ha egy szinten több ÁPB működik, akkor ezek az ÁPB-k közösen jelölik a képviselőt.
 
-(5) Amennyiben az ágazatban több szinten működött ÁPB, és a (2) bekezdésben foglalt jogosultsággal rendelkező ÁPB megszűnt, az általa delegált képviselő ÁPBT tagsága megszűnik, és a (3)–(4) bekezdés megfelelő alkalmazásával új képviselő delegálására kerül sor.
+(5) A (4) bekezdésben foglalt esetben, ha a legmagasabb szinten működő ÁPB megszűnt, az általa delegált képviselő ÁPBT tagsága megszűnik, és a (3)–(4) bekezdés megfelelő alkalmazásával új képviselő delegálására kerül sor.
 
 (6) Az ÁPBT titkársági teendőinek ellátásáról a miniszter gondoskodik.
 
@@ -272,21 +276,24 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 
 (4) Az (1) és (2) bekezdésben meghatározott kérdéseket illetően az ÁRMB ismételten megállapító határozatot hoz:
 
-- a) a megelőző határozat jogerőre emelkedésétől számított öt év elteltével, illetve
-- b) ha az ágazati érdekképviselet, amelynek jogos érdekét a határozat érinti, a megelőző határozat jogerőre emelkedésétől számított három év elteltét követően azt kezdeményezi.
+- a) a megelőző határozat jogerőre emelkedésétől számított öt év elteltével,
+- b) ha az ágazati érdekképviselet, amelynek jogos érdekét a határozat érinti, a megelőző határozat jogerőre emelkedésétől számított három év elteltét követően azt kezdeményezi, vagy
+- c) ha a miniszter a kollektív szerződés kiterjesztésére vonatkozó határozatának felülvizsgálata érdekében a 17. § (2) bekezdésének való megfelelés vizsgálatát kéri.
 
-(5) Az ÁRMB eljárására a Ket. szabályait kell alkalmazni azzal, hogy
+(5) Az ÁRMB eljárására a Ket., valamint az elektronikus közszolgáltatásról szóló 2009. évi LX. törvény szabályait kell alkalmazni azzal, hogy
 
 - a) kiadmányozásra jogosult vezetőnek az ÁRMB tagjai által maguk közül választott elnököt kell tekinteni,
 - b) az ügyben a Ket. 112. §-a szerinti újrafelvételi eljárásnak nincs helye,
 - c) az ÁRMB határozata a Ket. 115. §-a szerinti felügyeleti eljárás keretében nem változtatható meg és nem semmisíthető meg,
-- d) az ÁRMB határozata ellen közigazgatási eljárásban rendes jogorvoslatnak nincs helye, a felek a (6) bekezdésben foglaltaknak megfelelően a határozat bírósági felülvizsgálatát kezdeményezhetik.
+- d) az ÁRMB határozata ellen fellebbezésnek nincs helye, a felek a (6) bekezdésben foglaltaknak megfelelően a határozat bírósági felülvizsgálatát kezdeményezhetik.
 
 (6) Az ÁRMB határozata ellen az ágazati érdekképviselet, amelynek jogos érdekét a határozat érinti, a Fővárosi Munkaügyi Bírósághoz fordulhat. A bíróság a jogszabálysértő határozatot megváltoztathatja.
 
 (7) Az ÁRMB jogerőre emelkedett határozatait a miniszter hivatalos lapjában közzé kell tenni.
 
 (8) Az ÁRMB a jogszabályok keretei között maga határozza meg működésének szabályait.
+
+(9) Az ÁRMB eljárása illetékmentes.
 
 22. § (1) Az ÁRMB hat – elsősorban a munkaügyi közvetítésben, döntőbíráskodásban jelentős tapasztalattal rendelkező –, büntetlen előéletű tagból álló testület.
 
@@ -363,19 +370,30 @@ az összeférhetetlenséget nem szünteti meg, ÁRMB-tagsága az a), illetve b) 
   - db) a munkáltatói érdekképviseletnek az ágazatba besorolt munkáltató tagjainál a tárgyévet megelőző évben munkaviszonyban állók átlagos statisztikai állományi létszáma,
   - dc) a munkáltatói érdekképviseletnek az ágazatba besorolt munkáltató tagjai tárgyévet megelőző második év éves nettó árbevétele;
 - e) munkavállalói érdekképviselet esetén:
-  - ea) azon munkáltatók neve, székhelye, statisztikai számjele, amelynél szervezettel vagy képviselővel rendelkezik,
+  - ea) azon munkáltatók neve, székhelye, adószáma, amelyeknél szervezettel vagy képviselővel rendelkezik,
   - eb) az ea) pontban meghatározott munkáltatóknál – munkáltatónként – munkaviszony keretében foglalkoztatott munkavállalók létszáma, valamint ebből az érdekképviseleti tagok száma,
   - ec) a legutóbbi üzemi tanácsi választáson elért redukált szavazatok száma azoknál a munkáltatóknál, amelyeknél szervezettel rendelkezik.
 
 (2) Az ÁRMB természetes személy szakszervezeti hovatartozásáról adatokat – az (1) bekezdés a) pontjában foglalt esetet kivéve – nem kezel.
 
-(3) A (2) bekezdésben foglaltak figyelembevételével az ÁRMB az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (6) bekezdése, valamint 52. § (7) bekezdés c) pontja alapján a munkaügyi hatóságnál rendelkezésre álló adatokból a munkáltatónál foglalkoztatottak számára vonatkozó összesített adatokat is felhasználhatja.
+(3) A (2) bekezdésben foglaltak figyelembevételével az ÁRMB
+
+- a) az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (6) bekezdése, valamint 52. § (7) bekezdés c) pontja alapján a munkaügyi hatóságnál rendelkezésre álló adatokból a munkáltatónál foglalkoztatottak számára vonatkozó összesített adatokat,
+- b) az adóhatóságnál rendelkezésre álló adatok közül a december 31-i állapotnak megfelelően a munkáltatónál foglalkoztatottak létszámára, valamint a munkáltatók TEÁOR szerinti besorolására vonatkozó adatokat
+
+is felhasználhatja.
 
 (4) Az adatokat az ÁRMB határozatának jogerőre emelkedésétől számított öt év elteltével, de legkorábban a következő, azonos szervezet részvételi jogosultsága alapját képező adatot megállapító határozat jogerőre emelkedését követő harminc nap elteltével törölni kell.
 
 (5) A kezelt adatok közül az (1) bekezdés d) pontjának dc) alpontjában, valamint e) pontjában meghatározott adatok nem nyilvánosak. Azokba csak az ÁRMB tagja, valamint az ÁRMB tevékenységét segítő, a 25. § (1) bekezdésének d) pontja szerinti feladatot ellátó munkatárs tekinthet be. Ezen túlmenően, az ÁPB oldalának tagjaira vonatkozó, e bekezdés szerinti adatokba betekinthetnek az oldal tagjai is. A betekintési joggal rendelkezők – e törvény eltérő rendelkezése hiányában – az e bekezdésben meghatározott adatokat harmadik személy részére nem adhatják át.
 
 (6) A kezelt adatok – személyazonosító adatok nélkül – statisztikai célra felhasználhatók, illetőleg azokból statisztikai célra adat szolgáltatható.
+
+(7) Az ÁPB-ben részt venni kívánó érdekképviselet a 6-8. § szerinti részvételi feltételeknek való megfelelés vagy a 12. § (1) bekezdésében foglalt jogosultságok megállapítására vonatkozó ÁRMB eljárás lefolytatásához szükséges kérelmet, a kollektív szerződést kötő érdekképviseletek a szerződés kiterjesztésére vonatkozó kérelmet, továbbá a kapcsolódó adatszolgáltatást elektronikus úton nyújtja be, illetve teljesíti, a miniszter honlapján és a kormányzati portálon közzétett elektronikus adatlap felhasználásával.
+
+(8) A miniszter közreműködik az ÁRMB határozatát megalapozó adatok feldolgozásában. Ebben az esetben a miniszter erre kijelölt szervezeti egységének munkatársa, akinek a munkaköri leírása az adatkezelési feladatot tartalmazza, az adatokat kezelheti.
+
+(9) A (3) bekezdés b) pontjával összefüggésben az adóhatóság június 30-ig átadja a miniszter részére az előző évi adatokat.
 
 ### A szociális párbeszéd működési feltételei
 
@@ -395,7 +413,7 @@ az összeférhetetlenséget nem szünteti meg, ÁRMB-tagsága az a), illetve b) 
 26. § E törvény alkalmazásában
 
 - 1. szociális párbeszéd: a szociális partnerek közötti kétoldalú kommunikáció, amely magában foglalja a rendszeres információcserét, a konzultációt, a kollektív tárgyalást, megállapodások létrehozását, közös szakpolitikák kidolgozását és megvalósítását;
-- 2. szociális párbeszéd bizottság: kétoldalú – munkáltatói és munkavállalói érdekképviseletek részvételével az e törvény által előírt módon létrejött – fórum, amely lehet ágazati, alágazati, szakágazati, szakmai, illetve a munkavállalók meghatározott csoportjait érintő bizottság; e törvény alkalmazásában magasabb szintű ÁPB-nek minősül a kevesebb számjegyű TEÁOR-kóddal jelölt ágazatban létrejött ÁPB;
+- 2. szociális párbeszéd bizottság: kétoldalú – munkáltatói és munkavállalói érdekképviseletek részvételével az e törvény által előírt módon létrejött – fórum, amely működhet egy vagy több nemzetgazdasági ágra, ágazatra, alágazatra, szakágazatra, szakmára, illetve a munkavállalók meghatározott csoportjaira kiterjedően; e törvény alkalmazásában magasabb szintű ÁPB-nek minősül a nemzetgazdasági ágban, illetve a kevesebb számjegyű TEÁOR-kóddal jelölt ágazatban létrejött ÁPB;
 - 3. megállapodás: az ÁPB tagjai által elfogadott – különösen – állásfoglalás, ajánlás vagy cselekvési program, amely létrejöhet tárgyalás és konzultáció eredményeként is;
 - 4. tárgyalás: olyan egyeztetés és vita, amelynél a döntés meghozatalának jogszabályban előírt vagy az ÁPB tagjai által előzetesen meghatározott feltétele a fórum egyetértése, azaz megállapodása. Így megállapodás szükséges
   - a) az ÁPB számára törvényben rögzített egyetértési jog gyakorlásához,
@@ -406,9 +424,13 @@ az összeférhetetlenséget nem szünteti meg, ÁRMB-tagsága az a), illetve b) 
 - 6. szociális partnerek: a munkáltatói érdekképviselet és a szakszervezet;
 - 7. fórum: az Ágazati Párbeszéd Bizottság, a Rehabilitációs Párbeszéd Bizottság;
 - 8. TEÁOR-kód: a tevékenységek egységes ágazati osztályozási rendszere szerinti kód, amely a vállalkozás (munkáltató) cégbírósági bejegyzésében főtevékenységként szerepel;
-- 9. a) ágazat: két számjegyű TEÁOR-kóddal,
-  - b) alágazat: három számjegyű TEÁOR-kóddal,
-  - c) szakágazat: négy számjegyű TEÁOR-kóddal jelzett tevékenységi terület; magasabbnak a kevesebb számjeggyel jelzett szintet kell tekinteni;
+- 9. a) nemzetgazdasági ág: egy betűs TEÁOR-kóddal,
+  - b) ágazat: két számjegyű TEÁOR-kóddal,
+  - c) alágazat: három számjegyű TEÁOR-kóddal,
+  - d) szakágazat: négy számjegyű TEÁOR-kóddal
+
+jelzett tevékenységi terület; magasabbnak a kevesebb számjeggyel jelzett szintet kell tekinteni;
+
 - 10. redukált szavazat: az üzemi tanács, illetve megbízott (együtt: üzemi tanács) választáson a szakszervezet jelöltjeire leadott érvényes szavazatok száma és az üzemi tanács tagjainak száma egytizedes pontossággal meghatározott hányadosa;
 - 11. koalíció: a munkavállalók, illetőleg a munkáltatók érdek-képviseleti szervezeteinek megállapodása arról, hogy a kétoldalú szociális párbeszéd fórumai részvételi feltételeinek való megfelelés céljából adataikat együtt kell figyelembe venni, és hogy a szociális párbeszéd folyamatában együttesen, egy szervezetként járnak el;
 - 12. nettó árbevétel:

@@ -22,7 +22,9 @@ a következő törvényt alkotja:
 
 (3) A tulajdonos kérelmére, illetőleg az ingatlanügyi hatóság megkeresésére az építésügyi hatóság igazolja, hogy a mező-, erdőgazdasági művelés alatt álló belterületi föld kialakított építési teleknek vagy építési területnek minősül-e.
 
-(4)–(6)
+(4) E törvény rendelkezéseit a Nemzeti Földalapba tartozó földrészleteket érintően csak akkor kell alkalmazni, ha a Nemzeti Földalapról szóló törvény eltérő szabályokat nem állapít meg.
+
+(5)–(6)
 
 ### Fogalommeghatározások
 
@@ -37,7 +39,7 @@ a következő törvényt alkotja:
 - g)
 - h) családi gazdaság: legfeljebb 300 hektár nagyságú termőföld (ideértve a mező-, erdőgazdasági művelés alatt álló belterületi földet is) tulajdonával, illetőleg haszonbérletével, használatával rendelkező gazdálkodó család valamennyi termőföldje, az ahhoz tartozó leltárban megjelölt ingatlan és ingó vagyontárgyak (épület, építmény, mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) hasznosításával, legalább egy családtag teljes foglalkoztatásán és a többi családtag közreműködésén alapuló gazdálkodási forma;
 - i) a családi gazdálkodó: a családi gazdaságot a mezőgazdasági igazgatási szerv nyilvántartásába bejegyeztető személy, aki 1. a családi gazdaság vezetőjeként annak tevékenységi körében jogokat szerezhet és kötelezettségeket vállalhat, 2. élethivatásszerűen mezőgazdasági, illetve mezőgazdasági és kiegészítő tevékenységet folytat, 3. mezőgazdasági vagy erdészeti szakirányú képzettséggel rendelkezik vagy ennek hiányában igazolja, hogy legalább 3 éve folytatja a mezőgazdasági, illetve mezőgazdasági és kiegészítő tevékenységét és ebből árbevétele származott, 4. legalább 3 év óta a bejelentett állandó lakhelye a családi gazdaság központjaként megjelölt településen van;
-- j) a gazdálkodó család tagjai: a családi gazdálkodó, annak házastársa, élettársa, kiskorú gyermeke, unokája, valamint a gazdálkodó család tagjaként bejelentkezett nagykorú gyermeke, szülője, nagyszülője; gyermeken az örökbe fogadott, a mostoha és a nevelt gyermeket is érteni kell;
+- j) a gazdálkodó család tagjai: a családi gazdálkodó, annak házastársa, élettársa, kiskorú gyermeke, unokája, valamint a gazdálkodó család tagjaként bejelentkezett nagykorú gyermeke, szülője, nagyszülője, testvére; gyermeken az örökbe fogadott, a mostoha és a nevelt gyermeket is érteni kell;
 - k) mezőgazdasági tevékenység: növénytermesztés, kertészet, állattenyésztés, halászat, haltenyésztés, szaporító anyag termesztés, vadgazdálkodás, erdőgazdálkodás, vegyes gazdálkodás;
 - l) kiegészítő tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, elsődleges élelmiszer-feldolgozás, a mezőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, mezőgazdasági szolgáltatás;
 - m) helyben lakó: az a családi gazdálkodó vagy nyilvántartási számmal rendelkező őstermelő, vagy egyéni mezőgazdasági vállalkozó magánszemély, akinek 1. lakóhelye legalább három éve azon a településen van, amelynek közigazgatási területén a termőföld vagy tanya fekszik; 2. lakóhelye legalább három éve olyan településen van, amelynek közigazgatási határa a termőföld vagy tanya fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 15 km távolságra van;
@@ -59,7 +61,7 @@ a következő törvényt alkotja:
 - a) a csere tárgyát képező egyik földrészlet az azt megszerző cserepartnernek már a tulajdonában álló földrészletével azonos településen fekszik, vagy
 - b) a cserepartnerek egyikének bejelentett lakóhelye azon a településen van, amely település közigazgatási területén fekszik a csere címén általa megszerzendő földrészlet.
 
-(3) Termőföld tulajdonjogát ajándékozás jogcímén – a 6. § (2) bekezdésében foglaltakon túl – közeli hozzátartozók [Ptk. 685. § b) pont], továbbá közalapítvány, önkormányzat és a Magyar Állam javára lehet átruházni.
+(3) Termőföld tulajdonjogát ajándékozás jogcímén csak közeli hozzátartozók [Ptk. 685. § b) pont], közalapítvány, önkormányzat, egyházi jogi személy és a Magyar Állam javára, valamint a mezőgazdasági termelők gazdaságátadási támogatása feltételeként lehet átruházni.
 
 ### Belföldi magánszemélyek tulajdonszerzése
 
@@ -160,13 +162,15 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 - a) a családi gazdálkodó;
 - b) nyilvántartási számmal rendelkező őstermelő, illetőleg egyéni mezőgazdasági vállalkozó.
 
-(3) Az (1) bekezdés szerinti elővásárlási jog nem áll fenn a közeli hozzátartozók [Ptk. 685. § b) pont] és a tulajdonostársak közötti adásvétel esetén, a mezőgazdasági termelők gazdaságátadási támogatása feltételeként megvalósuló termőföld eladása esetén, valamint olyan külterületi földrészlet eladása esetén, amely a törvény hatálybalépéséig zártkertinek minősült.
+(3) Az (1) bekezdés szerinti elővásárlási jog nem áll fenn a közeli hozzátartozók [Ptk. 685. § b) pont] közötti adásvétel esetén, a mezőgazdasági termelők gazdaságátadási támogatása feltételeként megvalósuló termőföld eladása esetén, valamint olyan külterületi földrészlet eladása esetén, amely a törvény hatálybalépéséig zártkertinek minősült.
+
+(3a) Az (1) bekezdés b)–e) pontja szerinti elővásárlási jog nem áll fenn a tulajdonostársak közötti adásvétel esetén.
 
 (4) Az (1)–(2) bekezdés szerinti sorrend az elővásárlásra jogosultak egymás közötti viszonyában is irányadó.
 
 (5) Az (1) bekezdés b) és e) pontja alapján az elővásárlási jogot akkor lehet gyakorolni, ha a haszonbérleti jogviszony (felesbérlet, részesművelés) legalább három éve fennáll.
 
-(6) Termőföld vagy tanya eladása (haszonbérbe adása) esetén, amennyiben e törvény, valamint a Ptk. alapján törvényes elővásárlási (előhaszonbérleti) jog áll fenn, a termőföld, tanya tulajdonosának az ingatlanra vonatkozó vételi (haszonbérleti) ajánlatot hirdetményi úton kell az elővásárlásra (előhaszonbérletre) jogosulttal közölnie. A Nemzeti Földalapba tartozó termőföldek tekintetében a törvény elővásárlási (előhaszonbérleti) jogra vonatkozó rendelkezéseit a külön jogszabályban foglalt eltérésekkel kell alkalmazni. A hirdetményi úton történő közléssel összefüggő igazgatási jellegű szolgáltatásért igazgatási szolgáltatási díjat kell fizetni.
+(6) Termőföld vagy tanya eladása (haszonbérbe adása) esetén, amennyiben e törvény, valamint a Ptk. alapján törvényes elővásárlási (előhaszonbérleti) jog áll fenn, a termőföld, tanya tulajdonosának az ingatlanra vonatkozó vételi (haszonbérleti) ajánlatot hirdetményi úton kell az elővásárlásra (előhaszonbérletre) jogosulttal közölnie. A Nemzeti Földalapba tartozó termőföldek tekintetében a törvény elővásárlási jogra vonatkozó rendelkezéseit a külön jogszabályban foglalt eltérésekkel kell alkalmazni. A hirdetményi úton történő közléssel összefüggő igazgatási jellegű szolgáltatásért igazgatási szolgáltatási díjat kell fizetni.
 
 (7) A mezőgazdasági termelők gazdaságátadási támogatása feltételeként megvalósuló termőföld értékesítése esetén a mezőgazdasági termelőtevékenységet folytató vásárló tulajdonjogának ingatlan-nyilvántartási bejegyzése iránti kérelméhez mellékelni kell a támogatás elnyerését igazoló okiratot is.
 
@@ -229,7 +233,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 - b) követelheti az el nem vihető berendezéseknek, az általa telepített növényzetnek, valamint a talaj minőségének javítását eredményező talajvédelmi beavatkozásoknak és létesítményeknek a szerződés megszűnésekor megállapítható tényleges értékét;
 - c) köteles a haszonbérbe adóval kötött eltérő megállapodás hiányában az általa létesített ideiglenes jellegű építményt a saját költségén kártalanítási igény nélkül lebontani, illetőleg eltávolítani. E kötelezettség nem teljesítése esetén a bontást, illetőleg az eltávolítást a haszonbérbe adó a kötelezett költségére elvégeztetheti.
 
-21. § (1) A termőföldre és tanyára az alábbi sorrendben előhaszonbérleti jog illeti meg:
+21. § (1) A termőföld és tanya haszonbérbe adása esetén – ha törvény másként nem rendelkezik – az alábbi sorrendben előhaszonbérleti jog illeti meg:
 
 - a) a volt haszonbérlőt, illetve ha a volt haszonbérlő a tulajdonos hozzájárulásával ültetvényt telepített vagy halastavat létesített, az általa kijelölt személyt feltéve, hogy a haszonbérlet nem a tulajdonos azonnali hatályú felmondása következtében szűnt meg;
 - b) a helyben lakó szomszédot;
@@ -251,6 +255,8 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 (5) Az (1) bekezdés szerinti előhaszonbérleti jog nem áll fenn közeli hozzátartozók [Ptk. 685. § b) pont] közötti haszonbérleti szerződés esetében, a mezőgazdasági termelők gazdaságátadási támogatása feltételeként megvalósuló termőföld haszonbérlete esetén, valamint olyan külterületi földrészlet haszonbérbe adása esetén, amely a törvény hatálybalépéséig zártkertinek minősült.
 
 (6) Az (1)–(2) bekezdés szerinti sorrend az előhaszonbérletre jogosultak egymás közötti viszonyában is irányadó.
+
+(7) E § szerinti volt haszonbérlőnek az a magánszemély vagy jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet minősül, aki a haszonbérleti ajánlat tárgyát képező termőföldet vagy tanyát a haszonbérleti ajánlat közlését megelőző egy éven belül – több ilyen személy esetén aki utolsóként – haszonbérelte.
 
 ### A haszonbérelhető terület nagysága
 

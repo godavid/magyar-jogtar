@@ -16,7 +16,7 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 
 (2)
 
-(3) Az állami foglalkoztatási szerv irányításában a munkaadók, a munkavállalók, valamint — a helyi szervek tekintetében — a helyi önkormányzatok is közreműködnek.
+(3)
 
 (4) Az állami foglalkoztatási szerv tevékenységét humánszolgáltatásként, a munkanélküliség lélektani és társadalmi összefüggéseinek figyelembevételével végzi.
 
@@ -43,21 +43,34 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 
 (5) A magán munkaközvetítő tevékenység hatósági ellenőrzését ellátó szerv, valamint a munkaadók és a munkavállalók érdekképviseleti szervei az ellenőrzés céljainak meghatározásában és tapasztalatainak értékelésében együttműködnek.
 
-7. § (1) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár (a továbbiakban: harmadik országbeli állampolgár) a Magyar Köztársaság területén a 2. § (2) bekezdésében, valamint a (2) bekezdésben meghatározott kivétellel az állami foglalkoztatási szerv által kiállított engedély alapján létesíthet foglalkoztatásra irányuló jogviszonyt. Az engedélyezési kötelezettség alá tartozó foglalkoztatásra irányuló jogviszony létesítéséhez szükséges szerződés csak az engedély beszerzését követően köthető meg.
+7. § (1) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár (a továbbiakban: harmadik országbeli állampolgár) a Magyar Köztársaság területén a 2. § (2) bekezdésében, valamint a (2) bekezdésben meghatározott kivétellel a munkavállalási engedély, vagy a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedély (a továbbiakban: EU Kék Kártya) alapján létesíthet foglalkoztatásra irányuló jogviszonyt. Az engedélyezési kötelezettség alá tartozó foglalkoztatásra irányuló jogviszony létesítéséhez szükséges szerződés csak a munkavállalási engedély vagy az EU Kék Kártya beszerzését követően köthető meg.
 
 (2) A Kormány a 2. § (2) bekezdésében foglaltakon túlmenően, rendeletben mentességi eseteket határozhat meg.
 
-(3) Felhatalmazást kap a Kormány, hogy az (1) bekezdés szerinti engedélyezési kötelezettség alóli mentesség eseteit rendeletben állapítsa meg.
+(3) Felhatalmazást kap a Kormány, hogy a Magyar Köztársaság nemzetközi kötelezettségeire, a harmadik országbeli állampolgár személyi, családi és egyéb körülményeire figyelemmel, valamint munkaerőpiaci szempontok alapján egyes tevékenységeket érintően az (1) bekezdés szerinti engedélyezési kötelezettség alóli mentesség eseteit rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a Kormány, hogy a szabad mozgás és tartózkodás jogával rendelkező személy foglalkoztatása tekintetében, nemzetközi szerződésben vagy európai közösségi jogi aktusban foglaltak szerint a 2. § (2) bekezdésében meghatározott egyenlő bánásmód követelményétől eltérő szabályokat állapítson meg.
 
 (5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter), hogy – a szabályozással érintett foglalkozás szerint feladatkörrel rendelkező miniszterekkel egyetértésben – rendeletben határozza meg
 
-- a) a Magyarországon egyidejűleg összesen, valamint az egyes állami foglalkoztatási szervek illetékességi területén, továbbá az egyes foglalkozásokban foglalkoztatható harmadik országbeli állampolgárok legmagasabb számát,
-- b) azokat a foglalkozásokat, amelyekben a magyarországi munkanélküliség alakulására és összetételére tekintettel harmadik országbeli állampolgár nem foglalkoztatható, valamint
-- c) az engedélyezési eljárás részletes szabályait.
+- a) a Magyarországon egyidejűleg összesen, valamint az egyes állami foglalkoztatási szervek illetékességi területén, továbbá az egyes foglalkozásokban foglalkoztatható harmadik országbeli állampolgárok – ideértve az EU Kék Kártya alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – legmagasabb számát,
+- b) azokat a foglalkozásokat, amelyekben a magyarországi munkanélküliség alakulására és összetételére tekintettel harmadik országbeli állampolgár – ideértve az EU Kék Kártya alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – nem foglalkoztatható,
+- c) az engedélyezési eljárás részletes szabályait,
+- d) EU Kék Kártya alapján, Magyarországon foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módját.
 
 (6) Az egyes állami foglalkoztatási szervek illetékességi területén foglalkoztatható harmadik országbeli állampolgárok legmagasabb számának meghatározásához az illetékes munkaügyi tanács előzetes véleményét be kell szerezni.
+
+(7) A foglalkoztató és a harmadik országbeli munkavállaló magas szintű képzettséget igénylő munkavállalás céljából előzetes megállapodást köt – legfeljebb négyéves határozott időtartamú – foglalkoztatásra irányuló jogviszony létesítésére. A megállapodás kötelező érvényű állásajánlatnak minősül. Amennyiben az EU Kék Kártya kiállításra kerül a harmadik országbeli állampolgár részére, a foglalkoztatásra irányuló jogviszonyt – a (9) bekezdésben foglalt kivétellel – az előzetes megállapodásban foglalt feltételeknek megfelelően kell létrehozniuk. A felek ettől eltérő megállapodása érvénytelen.
+
+(8) A (7) bekezdés szerinti előzetes megállapodásnak tartalmaznia kell
+
+- a) a harmadik országbeli állampolgár által ellátandó tevékenységet, munkakört (FEOR),
+- b) a harmadik országbeli állampolgárnak az a) pont szerinti tevékenység ellátáshoz szükséges felsőfokú szakmai képesítése megnevezését,
+- c) a harmadik országbeli állampolgár részére fizetendő díjazás mértékét,
+- d) a foglalkoztatásra irányuló jogviszony megjelölését,
+- e) a foglalkoztatásra irányuló jogviszony időtartamát.
+
+(9) A felek a (8) bekezdés c) pontja szerinti díjazás mértékétől kizárólag a harmadik országbeli állampolgár javára térhetnek el.
 
 8. § (1) Az Országgyűlés szabályozza a munkanélküliség megelőzését, illetőleg csökkentését szolgáló foglalkoztatási eszközöket, az álláskeresőket megillető juttatásokat, a munkaerőpiaci szervezetrendszert, valamint ezek finanszírozásának módját.
 
@@ -70,7 +83,7 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 - a) külön jogszabályban meghatározott közfoglalkoztatást szervez,
 - b) figyelemmel kíséri a helyi foglalkoztatási viszonyok alakulását,
 - c) döntéseinek előkészítése, valamint végrehajtása során figyelembe veszi azok foglalkoztatáspolitikai következményeit,
-- d) részt vesz a helyi foglalkoztatási érdekegyeztetésben,
+- d)
 - e) az állami foglalkoztatási szerv működési feltételeihez és fejlesztéséhez támogatást nyújt.
 
 (5)
@@ -101,53 +114,11 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 
 #### 10/A. §
 
-### Munkaügyi Tanács
+#### 11. §
 
-11. § (1) Az állami foglalkoztatási szervek illetékességi területén a foglalkoztatási és a munkaerő-piaci képzési, valamint a megváltozott munkaképességű személyek foglalkozási rehabilitációját elősegítő támogatások nyújtásával kapcsolatos helyi érdekegyezetés ellátására a munkaadók, a munkavállalók, valamint az önkormányzatok képviseletét ellátó tagokból álló testületként munkaügyi tanács (a továbbiakban: munkaügyi tanács) működik. A munkaügyi tanács megbízatása négy évre szól.
+#### 12. §
 
-(2) Ha a munkaügyi tanács a megbízatásának lejártát követő munkanapig nem alakul meg, a hatáskörébe tartozó kérdésekben az állami foglalkoztatási szerv vezetője dönt.
-
-12. § (1) A munkaügyi tanácsnak a munkaadók képviseletét ellátó tagokból álló munkaadói oldalába az OÉT-ben képviselettel rendelkező országos munkáltatói szövetségek, a munkavállalók képviseletét ellátó tagokból álló munkavállalói oldalába az OÉT-ben képviselettel rendelkező munkavállalói szövetségek egy-egy tagot jelölnek, illetve vonják vissza a jelölést. Ennek feltétele, hogy az országos munkáltatói, illetve munkavállalói szövetség az adott régióban tagszervezettel rendelkezzen. A tagokat – jelölés, illetőleg annak visszavonása alapján – az állami foglalkoztatási szerv vezetője bízza meg a munkaügyi tanács megbízatásának lejártáig terjedő időtartamra, továbbá hívja vissza. A munkaügyi tanács önkormányzati oldalának egy-egy tagját a működési területéhez tartozó megyékben
-
-- a) a megyei kistérségi fórumok,
-- b) a munkaügyi tanács illetékességi területén lévő megyei jogú városok, valamint
-- c) a regionális fejlesztési tanács
-
-választja, illetve hívja vissza. A Közép-magyarországi Régióban a munkaügyi tanács önkormányzati oldalának egy tagját a Fővárosi Közgyűlés, három tagját a fővárosi kerületi önkormányzatok, valamint további két tagját a régióban működő megyei kistérségi fórumok választják, illetve hívják vissza. A választás, illetve visszahívás alapján a tagok részére a megbízólevelet az állami foglalkoztatási szerv vezetője adja át, illetve vonja vissza.
-
-(2) A munkaügyi tanácsnak nem lehet tagja az a személy, aki olyan szervezetnek a tulajdonosa, vezető tisztségviselője, vezető állású munkavállalója, amely az állami foglalkoztatási szerv által közvetített személyek részére rendszeres szolgáltatást (képzést, munkaközvetítést) nyújt. A munkaügyi tanács a tagjai tekintetében további összeférhetetlenségi szabályt is megállapíthat.
-
-(3)
-
-(4) A tagok megbízatása a munkaügyi tanács megbízatásának időtartamára szól. A megbízatásról, annak változásáról az állami foglalkoztatási szerv vezetője 15 napon belül értesíti a MAT-ot.
-
-(5) A munkaügyi tanács új tagját, ha a korábbi tag megbízatásának megszűnésére
-
-- a) a munkaügyi tanács megbízatásának lejárta miatt került sor, legkésőbb a lejáratot megelőző 15. napig,
-- b) egyéb okból kerül sor, az ok bekövetkezésétől számított 30 napon belül
-
-kell jelölni, illetőleg megválasztani.
-
-(6) Ha a tagokat kijelölő, illetőleg választó szervezetek között vita merül fel, a vitás kérdésekben az állami foglalkoztatási szerv vezetője a MAT-hoz fordulhat.
-
-(7) A munkaügyi tanács döntéseinek meghozatalában csak az vehet részt, aki megbízólevéllel rendelkezik.
-
-(8) A munkaügyi tanács a munkavállalók, a munkaadók és az önkormányzatok képviselőinek megegyezésével határoz. A munkaügyi tanács határozatának meghozatala során a munkaadói, a munkavállalói, valamint az önkormányzati oldalt egy-egy szavazat illeti meg. A munkaügyi tanács megegyezés hiányában a MAT-hoz fordulhat, amelynek képviselője közvetít a felek között, és javaslatot tesz a megállapodásra.
-
-(9) A munkaügyi tanács az ügyrendjét egyhangúan maga határozza meg.
-
-(10) A munkaügyi tanács a foglalkoztatási feladatok ellátása érdekében együttműködik az illetékességi területén működő megyei területfejlesztési tanácsokkal, valamint regionális területfejlesztési tanáccsal.
-
-13. § A munkaügyi tanács
-
-- a) véleményezi a Munkaerőpiaci Alap foglalkoztatási alaprészének az illetékességi területén rendelkezésre álló eszközei felhasználásának elveit és az egyes támogatások arányát,
-- b) az illetékességi területén figyelemmel kíséri és értékeli a Munkaerőpiaci Alap pénzeszközeinek felhasználását,
-- c) kezdeményezi és véleményezi az illetékességi területe foglalkoztatási helyzetével kapcsolatos rövid és hosszú távú programokat, és figyelemmel kíséri azok végrehajtását,
-- d) előzetesen véleményezi a miniszternek az egyes állami foglalkoztatási szervek illetékességi területén foglalkoztatható harmadik országbeli állampolgárok legmagasabb számának meghatározására vonatkozó döntését,
-- e) véleményezi az állami foglalkoztatási szerv működését,
-- f) a b)–d) pontban foglaltakról tájékoztatást kér az állami foglalkoztatási szerv vezetőjétől,
-- g) előzetes véleményezési jogot gyakorol az állami foglalkoztatási szerv vezetőjének vezetői megbízásával, illetőleg a vezetői megbízás visszavonásával kapcsolatban,
-- h) ellátja más jogszabályban meghatározott feladatait.
+#### 13. §
 
 ### III. Fejezet — MUNKAERŐPIACI SZOLGÁLTATÁSOK ÉS FOGLALKOZTATÁST ELŐSEGÍTŐ TÁMOGATÁSOK
 
@@ -1083,7 +1054,7 @@ is érteni kell.
 - c) munkaadó: az a jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, illetve magánszemély és annak jogi személyiséggel nem rendelkező társasága, aki munkavállalót foglalkoztat, vagy foglalkoztatni kíván.
 - d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, valamint rehabilitációs járadékban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
 - e) kereső tevékenység: – az 1–4. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve. 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja. 2. A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység akkor minősül kereső tevékenységnek, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál figyelembe kell venni. 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek. 4. A külön törvény alapján nevelőszülői jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek,
-- f)
+- f) magas szintű képzettséget igénylő munkavállalás: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § p) pontja szerinti munkavállalás,
 - g) kötelező legkisebb munkabér, minimálbér: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
 - h) öregségi nyugdíjkorhatár: a személyre irányadó öregségi nyugdíjkorhatár, a társadalombiztosítási jogszabályok által egyes munkakörökben biztosított korkedvezmény figyelembevételével,
 - i) öregség nyugdíjra jogosult személy: aki a reá irányadó öregségi nyugdíjkorhatárt – a társadalombiztosítási nyugellátásról szóló jogszabályok által egyes munkakörökben biztosított korkedvezmény figyelembevételével – elérte, és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik, továbbá az is, aki előrehozott öregségi nyugdíjban, korengedményes nyugdíjban, bányásznyugdíjban, egyes művészeti tevékenységet folytatók öregségi nyugdíjában, a Magyar Alkotóművészeti Közalapítványtól öregségi nyugdíjban, valamint szolgálati nyugdíjban részesül,
@@ -1117,9 +1088,11 @@ is érteni kell.
 - d)
 - e)
 - f)
-- g) az adópolitikáért felelős miniszterrel egyetértésben a munkaerő-piaci szolgáltatásokat nyújtó szervezetek akkreditációs eljárásáért, valamint a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj
+- g) az adópolitikáért felelős miniszterrel egyetértésben a munkaerőpiaci szolgáltatásokat nyújtó szervezetek akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj
 
 szabályait.
+
+(8a) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályait.
 
 (9) A 39. § (3) bekezdés a) pontja szerinti kiegészítő segélyre az 1999. évben munkanélküli járadékban részesülők a járadék folyósításával megegyező időtartamra, de legfeljebb 1999. december 31-ig jogosultak. A kiegészítő segély egy napra járó összege 33 forint. A kiegészítő segélyt a munkanélküli járadékkal együtt – a segély megállapítására irányuló külön határozat nélkül – kell kifizetni. A kiegészítő segélyt a személyi jövedelemadóról szóló, 1998. évi LXV. törvénnyel módosított 1995. évi CXVII. törvény 1. számú mellékletének 1.3. pontjában meghatározott állami szociális rendszer keretében nyújtott szociális segélynek kell tekinteni.
 
@@ -1156,7 +1129,10 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 60. § (1) Ez a törvény
 
 - a) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i 2003/109/EK tanácsi irányelv 11. cikk (1) bekezdése a) pontjának és 21. cikkének,
-- b) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
+- b) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének
+- c) a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2009. május 25-i 2009/50/EK tanácsi irányelv 5. cikk (1) bekezdés a) pontjának, 7. cikk (4) bekezdés b) pontjának
+
+való megfelelést szolgálja.
 
 (2) Ez a törvény
 

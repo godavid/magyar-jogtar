@@ -14,7 +14,7 @@ a Munka Törvénykönyvéről
 
 2. § (1) A közszolgálati jogviszonyt külön törvény szabályozza.
 
-(2) A költségvetési szervekkel (intézményekkel), valamint – a közhasznú munkavégzés vagy közmunkaprogram keretében történő foglalkoztatás kivételével – a helyi önkormányzattal fennálló, az (1) bekezdés szerint közszolgálati jogviszonynak nem minősülő munkavégzésre irányuló jogviszony e törvénytől eltérő szabályait külön törvény állapítja meg.
+(2) A költségvetési szervekkel (intézményekkel), valamint – a közfoglalkoztatás keretében történő foglalkoztatás kivételével – a helyi önkormányzattal fennálló, az (1) bekezdés szerint közszolgálati jogviszonynak nem minősülő munkavégzésre irányuló jogviszony e törvénytől eltérő szabályait külön törvény állapítja meg.
 
 ### A jogok gyakorlásának és a kötelezettségek teljesítésének alapvető szabályai
 
@@ -346,7 +346,7 @@ kézbesítettnek kell tekinteni.
 
 41. § A szűkebb hatályú kollektív szerződés a tágabb hatályúhoz képest csak annyiban térhet el, amennyiben az a munkavállalóra nézve kedvezőbb szabályokat állapít meg.
 
-41/A. § (1) A kollektív szerződést a szerződő felek együttesen kötelesek a foglalkoztatáspolitikáért felelős miniszternek (a továbbiakban: miniszter) a megkötést követő 30 napon belül nyilvántartásba vételre bejelenteni és a kapcsolódó adatszolgáltatást teljesíteni (a továbbiakban együtt: bejelentési kötelezettség).
+41/A. § (1) A kollektív szerződést a szerződő felek együttesen kötelesek a miniszternek a megkötést követő harminc napon belül nyilvántartásba vételre bejelenteni és a kapcsolódó adatszolgáltatást elektronikus úton teljesíteni (a továbbiakban együtt: bejelentési kötelezettség) a Kormány hivatalos tájékoztató honlapján és a kormányzati portálon közzétett elektronikus adatlapon.
 
 (2) Az (1) bekezdésben foglaltak szerint a felek kötelesek továbbá bejelenteni a kollektív szerződés
 
@@ -378,7 +378,7 @@ részletes szabályait.
 
 (3) A munkáltató önálló telephelyén (részlegénél) csak akkor kell üzemi tanácsot, illetve üzemi megbízottat választani, ha a 65. §-ban meghatározott üzemi tanácsi jogosítványokkal kapcsolatos munkáltatói jogok az önálló telephely (részleg) vezetőjét részben vagy egészben megilletik.
 
-(4) Az üzemi tanácsot, illetve az üzemi megbízottat három évre választják.
+(4) Az üzemi tanácsot, illetve az üzemi megbízottat öt évre választják.
 
 (5) Az újonnan létrejövő munkáltatónál három hónapon belül kell az üzemi tanácsot, illetőleg az üzemi megbízottat megválasztani.
 
@@ -818,7 +818,7 @@ foglalkoztatási helyzetének – így különösen azok bérének, munkakörül
 
 81. § (1) A munkaszerződésben, a munkaviszony létesítésekor próbaidő is kiköthető.
 
-(2) A próbaidő tartama harminc nap. Kollektív szerződés, illetve a felek ennél rövidebb vagy hosszabb, de legfeljebb három hónapig terjedő próbaidőt is megállapíthatnak. A próbaidő meghosszabbítása tilos, ettől érvényesen eltérni nem lehet.
+(2) A próbaidő tartama harminc nap. Harminc napnál rövidebb próbaidőt kollektív szerződés vagy a felek is megállapíthatnak. Harminc napnál hosszabb, de legfeljebb három hónapig terjedő próbaidőt a felek, legfeljebb hat hónapig terjedő próbaidőt kollektív szerződés állapíthat meg. A próbaidő meghosszabbítása tilos, ettől érvényesen eltérni nem lehet.
 
 (3) A próbaidő alatt a munkaviszonyt bármelyik fél azonnali hatállyal megszüntetheti.
 
@@ -1540,13 +1540,13 @@ eltérhet.
 
 (5) Egészségi ártalom vagy veszély kizárása érdekében jogszabály, illetve kollektív szerződés meghatározhatja a munkaidőn belül az adott tevékenységre fordítható leghosszabb időtartamot. Ezen túlmenően egyéb korlátozás is előírható.
 
-117/C. § (1) Ha a 117/B. § (2) bekezdés alapján rövidebb teljes munkaidőt állapítottak meg, a munkáltató és a munkavállaló írásban megállapodhatnak a (2) bekezdésben foglaltak szerint a munkaidő mértékének 2011. december 31-ig tartó felemeléséről.
+117/C. § (1) Ha a 117/B. § (2) bekezdés alapján legalább heti 36 órás rövidebb teljes munkaidőt állapítottak meg, a munkáltató és a munkavállaló írásban megállapodhatnak a (2) bekezdésben foglaltak szerint, legfeljebb egy éves határozott időtartamra a munkaidő mértékének a felemeléséről.
 
-(2) Az (1) bekezdésben foglalt feltételek teljesülése esetén a munkaidő mértéke a 117/B. § (1) bekezdése szerinti teljes munkaidő és az (1) bekezdés szerinti rövidebb teljes munkaidő mértéke – legfeljebb 2009. április 1. és 2011. december 31. közötti időszakra számított – különbözetének figyelembevételével emelhető meg oly módon, hogy a teljes munkaidő heti mértéke a negyvennégy órát nem haladhatja meg.
+(2) Az (1) bekezdésben foglalt feltételek teljesülése esetén a munkaidő mértéke a 117/B. § (1) bekezdése szerinti teljes munkaidő és az (1) bekezdés szerinti rövidebb teljes munkaidő mértéke – legfeljebb a rövidebb teljes munkaidő megállapításának napjától a munkaidő megemeléséről szóló megállapodás hatálybalépésének napjáig tartó időtartamra számított – különbözetének figyelembevételével emelhető meg oly módon, hogy a teljes munkaidő heti mértéke a negyvennégy órát nem haladhatja meg. A munkaidő megemelésére legkésőbb a rövidebb munkaidő megszűnésének napjától számított harmadik hónap első napjától kerülhet sor.
 
-(3) A munkáltató 2011. december 31-éig nem közölhet működésével összefüggő okra alapozott rendes felmondást vagy az Mt. 94/E. § (1) bekezdése szerinti rendes felmondásról szóló tájékoztatást azzal a munkavállalóval, akinek a teljes munkaideje – e §-ban foglaltak alapján – heti negyven óránál hosszabb.
+(3) A munkáltató a munkaidő megemeléséről szóló megállapodás időtartama alatt nem közölhet működésével összefüggő okra alapozott rendes felmondást vagy a 94/E. § (1) bekezdés szerinti rendes felmondásról szóló tájékoztatást azzal a munkavállalóval, akinek a teljes munkaideje – e §-ban foglaltak alapján – heti negyven óránál hosszabb.
 
-(4) A (3) bekezdésben meghatározott tilalomba ütköző munkáltatói rendes felmondás, illetőleg tájékoztatás jogellenes.
+(4) A (3) bekezdésben meghatározott tilalomba ütköző munkáltatói rendes felmondás, illetőleg tájékoztatás jogellenes. Jogellenes az (1) bekezdés alapján meghatározott, a munkaidő mértékének felemeléséről szóló megállapodás időtartamát túllépően a 117/B. § (1) bekezdése szerinti teljes munkaidőnél magasabb munkaidő megállapítása. Az ilyen jogellenes foglalkoztatás esetén a 117/B. § (1) bekezdését meghaladó munkaidőre, a munkáltató az erre az időre járó munkabér háromszorosának megfelelő összegű átalány-kártérítést köteles a munkavállaló részére megfizetni.
 
 (5) A munkavállaló személyi alapbérét nem érinti, ha teljes munkaidejének a mértéke – e §-ban foglaltak alapján – heti negyven óránál hosszabb.
 
@@ -1796,7 +1796,7 @@ rendelhető el.
 
 - a) a keresőképtelenséget okozó betegség tartamára;
 - b) a szülési szabadság tartamára;
-- c) a gyermek gondozása vagy ápolása miatt kapott fizetés nélküli szabadság [138. § (5) bekezdés] első évére;
+- c) a gyermek gondozása vagy ápolása miatt kapott fizetés nélküli szabadság [138. § (5) bekezdés] első hat hónapjára;
 - d) a harminc napot meg nem haladó fizetés nélküli szabadság tartamára;
 - e) a tartalékos katonai szolgálat idejére és
 - f) minden olyan munkában nem töltött időre, amelyre a munkavállaló távolléti díj-, illetve átlagkereset-fizetésben részesül.
@@ -1851,11 +1851,11 @@ munkanapra emelkedik.
 (3) A szabadságot esedékességének évében kell kiadni. Az esedékesség évében kiadottnak kell tekinteni azt a szabadságot, amelynek megszakítás nélküli tartama – az esedékesség évében történő megkezdése esetén – a következő évben jár le, és a következő évre átnyúló szabadságrész nem haladja meg az öt munkanapot. A munkáltató
 
 - a) kivételesen fontos gazdasági érdek, illetve a működési körét közvetlenül és súlyosan érintő ok esetén a szabadságot legkésőbb az esedékesség évét követő év március 31-ig, kollektív szerződés rendelkezése esetén az esedékesség évét követő év június 30-ig,
-- b) a munkavállaló betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül
+- b) a munkavállaló betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül, ha az akadályoztatás időtartama egybefüggően a 183 napot elérte vagy meghaladta, akkor az akadályoztatás megszűnésétől számított 183 napon belül
 
 adja ki, ha az esedékesség éve eltelt. E rendelkezésektől érvényesen eltérni nem lehet.
 
-(4) A szabadságot kettőnél több részletben csak a munkavállaló kérésére lehet kiadni.
+(4) A szabadságot kettőnél több részletben csak a munkavállaló kérésére lehet kiadni. Kivételesen fontos gazdasági érdek, illetve a munkáltató működési körét közvetlenül és súlyosan érintő ok miatt a munkáltató kettőnél több részletben is kiadhatja a szabadságot, azonban – a felek eltérő megállapodása hiányában – ebben az esetben is megilleti a munkavállalót naptári évenként legalább egyszer legalább tizennégy összefüggő naptári nap távollétet biztosító szabadság.
 
 (5) A szabadság kiadásának időpontját a munkavállalóval legkésőbb a szabadság kezdete előtt egy hónappal közölni kell. Az időpontot a munkáltató csak rendkívül indokolt esetben változtathatja meg és a munkavállalónak ezzel összefüggésben felmerült kárát, illetve költségeit köteles megtéríteni.
 
@@ -1865,7 +1865,7 @@ adja ki, ha az esedékesség éve eltelt. E rendelkezésektől érvényesen elt�
 
 (8) A (7) bekezdés első mondatában foglaltaktól eltérni csak akkor lehet, ha az a munkáltató működési körét közvetlenül és súlyosan érintő ok miatt – különösen baleset, elemi csapás vagy súlyos kár, továbbá az életet, egészséget, testi épséget fenyegető közvetlen és súlyos veszély megelőzése, illetőleg elhárítása érdekében – szükséges.
 
-(9) A (3) bekezdés a) pontja, illetve a (6) bekezdés alkalmazásakor kivételesen fontos gazdasági érdeken a rendes szabadság kiadásával kapcsolatos, munkaszervezéstől független olyan körülményt kell érteni, melynek felmerülése esetén a rendes szabadságnak az esedékesség évében teljes mértékben történő kiadása a munkáltató gazdálkodását meghatározó módon hátrányosan befolyásolná.
+(9) A (3) bekezdés a) pontja, a (4) bekezdés, illetve a (6) bekezdés alkalmazásakor kivételesen fontos gazdasági érdeken a rendes szabadság kiadásával kapcsolatos, munkaszervezéstől független olyan körülményt kell érteni, amelynek felmerülése esetén a rendes szabadságnak az esedékesség évében teljes mértékben történő kiadása a munkáltató gazdálkodását meghatározó módon hátrányosan befolyásolná.
 
 (10) A rendes szabadság esedékesség évében nem teljes mértékben történő kiadása esetén a munkáltató nem hivatkozhat a működési körét közvetlenül és súlyosan érintő ok, illetve a kivételesen fontos gazdasági érdek fennállására, ha az esedékesség évéből még fennmaradó időtartamban a rendes szabadságot – a (8) bekezdés szerinti, működési körét érintő ok következményei orvoslása mellett, illetve a (9) bekezdés szerinti gazdasági érdeke sérelme nélkül – kiadhatta volna.
 
@@ -1880,7 +1880,7 @@ adja ki, ha az esedékesség éve eltelt. E rendelkezésektől érvényesen elt�
 
 (3) Annak a munkavállalónak, akinek a munkaidő-beosztása nem biztosít hetenként két pihenőnapot, úgy kell számítani a szabadságát, hogy azonos naptári időszakra (hétre) mentesüljön a munkavégzés alól, mint az ötnapos munkahéttel dolgozók.
 
-136. § (1) A munkavállaló munkaviszonya megszűnésekor, illetőleg sorkatonai vagy polgári szolgálatra történő behívásakor, ha a munkáltatónál eltöltött idővel arányos szabadságot nem kapta meg, azt pénzben kell megváltani. Egyéb esetben a szabadságot pénzben megváltani nem lehet; ettől érvényesen eltérni nem lehet.
+136. § (1) A munkavállaló munkaviszonya megszűnésekor, ha a munkáltatónál eltöltött idővel arányos szabadságot nem kapta meg, azt pénzben kell megváltani. A gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően, ha a munkavállaló a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani. Egyéb esetben a szabadságot pénzben megváltani nem lehet; ettől érvényesen eltérni nem lehet.
 
 (2) Ha a munkavállaló a munkaviszonya megszűnéséig több szabadságot vett igénybe annál, mint ami a munkáltatónál töltött időre megilletné, a különbözetre kifizetett munkabért köteles visszafizetni. Nem követelhető vissza a túlfizetés, ha a munkaviszony a munkavállaló nyugdíjazása vagy halála, illetve a munkáltató jogutód nélküli megszűnése miatt szűnt meg, vagy a munkavállalót sorkatonai, illetőleg polgári szolgálatra hívták be.
 
@@ -1921,6 +1921,11 @@ adja ki, ha az esedékesség éve eltelt. E rendelkezésektől érvényesen elt�
 - a) a gyermek harmadik életéve betöltéséig, a gyermek otthoni gondozása céljából,
 - b) a gyermek tizedik életéve betöltéséig a gyermekgondozási segély folyósításának időtartama alatt, feltéve, hogy a munkavállaló a gyermeket otthonában gondozza,
 - c) a gyermek tizenkettedik életéve betöltéséig a gyermek betegsége esetén, az otthoni ápolás érdekében.
+
+(5a) Ha a munkavállaló az (5) bekezdés szerinti fizetés nélküli szabadságát meg kívánja szakítani, a megszakítási szándékát előzetesen közölnie kell a munkáltatóval. A munkáltató, ha a munkavállaló a fizetés nélkül szabadság kezdetétől számított
+
+- a) hat hónap letelte előtt kíván munkába állni, a bejelentést követő legfeljebb harminc nap,
+- b) hat hónap elteltével vagy azt követően kíván munkába állni, a bejelentést követő legfeljebb hatvan nap elteltével köteles foglalkoztatási kötelezettségének eleget tenni.
 
 (6) A nőnek a szoptatás első hat hónapjában naponta kétszer egy óra, ezt követően a kilencedik hónap végéig egy óra munkaidőkedvezmény jár. Ikrek esetében a munkaidőkedvezmény az ikrek számának megfelelő mértékben jár.
 
@@ -2038,7 +2043,7 @@ időpontjának naptári hónapjában, illetve az azt követő két naptári hón
 
 147. § (1) Rendkívüli munkavégzés esetén a munkavállalót rendes munkabérén felül a (2)–(4) bekezdés szerint ellenérték illeti meg.
 
-(2) A munkaidő-beosztás szerinti napi munkaidőt meghaladóan, illetve a munkaidőkereten felül végzett munka esetén a pótlék mértéke ötven százalék. Munkaviszonyra vonatkozó szabály vagy a felek megállapodása előírhatja, hogy ellenértékként – pótlék helyett – szabadidő jár, ami nem lehet kevesebb a végzett munka időtartamánál.
+(2) A munkaidő-beosztás szerinti napi munkaidőt meghaladóan, illetve a munkaidőkereten felül végzett munka esetén a pótlék mértéke ötven százalék. A munkáltató előírhatja, hogy ellenértékként – pótlék helyett – szabadidő jár, ami nem lehet kevesebb a végzett munka időtartamánál.
 
 (3) A munkaidő-beosztás szerinti pihenőnapon (pihenőidőben) végzett munka esetén a pótlék mértéke száz százalék. A pótlék mértéke ötven százalék, ha a munkavállaló másik pihenőnapot (pihenőidőt) kap.
 
@@ -2432,6 +2437,8 @@ kezdődik.
 
 (4) Ha a munkáltató a vezető munkaviszonyát csőd- vagy felszámolási eljárás során szünteti meg, a munkaviszony megszüntetésekor járó díjazás szabályait azzal az eltéréssel kell alkalmazni, hogy a munkáltató legfeljebb hat havi átlagkeresetet köteles előre megfizetni. A vezető részére ezt meghaladóan járó díjazás a csőd- vagy felszámolási eljárás megszűnésekor, illetőleg a felszámolási zárómérleg, vagy a záró egyszerűsített mérleg jóváhagyása után válik esedékessé.
 
+(5) A (2) bekezdéstől eltérően a munkáltató köteles a vezető terhessége kezdetétől a szülési szabadsága végéig terjedő időszak alatt a rendes felmondását az általános szabályok szerint megindokolni.
+
 191. § (1) A vezető további munkaviszonyt, illetve munkavégzésre irányuló egyéb jogviszonyt nem létesíthet. Munkaszerződés eltérő kikötése hiányában nem vonatkozik e tilalom arra a jogviszonyra, amelyet tudományos, oktatói, illetve szerzői jogi védelem alá eső tevékenységre létesítettek.
 
 (2) A vezető
@@ -2462,7 +2469,7 @@ kezdődik.
 
 (4) A vezető, ha munkaviszonyát jogellenesen szünteti meg, – a 101. § (1) bekezdésétől eltérően – tizenkét havi átlagkeresetével felel.
 
-192/B. § (1) A 189. §-ban, a 190. § (1) és (3)–(4) bekezdésében, valamint a 192/A. §-ban foglalt rendelkezésektől érvényesen eltérni nem lehet.
+192/B. § (1) A 189. §-ban, a 190. § (1) és (3)–(5) bekezdésében, valamint a 192/A. §-ban foglalt rendelkezésektől érvényesen eltérni nem lehet.
 
 (2) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó munkáltatónál a Kjt. 22/B. §-a szerinti magasabb vezetői munkakört betöltő munkaviszonya csak pályázat alapján létesíthető. A pályázatra megfelelően alkalmazni kell a Kjt. 20/A–20/B. §-át. A magasabb vezetői munkakört betöltő munkavállaló tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
@@ -2555,7 +2562,7 @@ kapcsolatos adatokat.
 
 193/B. § (1) A kölcsönbeadóval munkaerő-kölcsönzés céljából létesített munkaviszonyra e törvény szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) A külön jogszabály szerinti alkalmi munkavállalói könyvvel munkaerő-kölcsönzés céljából munkaviszonyt létesíteni nem lehet.
+(2) A külön jogszabály szerinti alkalmi munkára munkaerő-kölcsönzés céljából munkaviszonyt létesíteni nem lehet.
 
 193/C. § E törvény alkalmazásában
 
@@ -2563,7 +2570,10 @@ kapcsolatos adatokat.
 - b) kölcsönbeadó: az a munkáltató, aki a vele kölcsönzés céljából munkaviszonyban álló munkavállalót munkavégzésre, kölcsönzés keretében a kölcsönvevőnek átengedi és munkáltatói jogait, illetve kötelezettségeit a kölcsönvevővel megosztva gyakorolja (a továbbiakban: kölcsönbeadó);
 - c) kölcsönvevő: az a munkáltató, aki a kölcsönzés keretében átengedett munkavállalót foglalkoztatja és munkáltatói jogait, illetve kötelezettségeit a kölcsönbeadóval megosztva gyakorolja.
 
-193/D. § (1) Kölcsönbeadó csak az a belföldi székhelyű, a tagok korlátolt felelőségével működő gazdasági társaság, vagy – a vele tagsági viszonyban nem álló munkavállaló vonatkozásában – szövetkezet lehet, amelyik megfelel az e törvényben, illetve az egyéb jogszabályban foglalt feltételeknek, és az állami foglalkoztatási szerv nyilvántartásba vette.
+193/D. § (1) Kölcsönbeadó lehet
+
+- a) az az EGT-államban székhellyel rendelkező vállalkozás, amely a rá irányadó jog szerint munkaerő-kölcsönzést folytathat, vagy
+- b) az a belföldi székhelyű, a tagok korlátolt felelősségével működő gazdasági társaság vagy – a vele tagsági viszonyban nem álló munkavállaló vonatkozásában – szövetkezet, amelyik megfelel az e törvényben, illetve az egyéb jogszabályban foglalt feltételeknek, és az állami foglalkoztatási szerv nyilvántartásba vette.
 
 (2) Tilos munkavállaló kölcsönzése:
 
@@ -2578,6 +2588,8 @@ kapcsolatos adatokat.
 (5) A kölcsönvevő a munkavállalót más munkáltatónál történő munkavégzésre nem kötelezheti.
 
 (6) Az (1)–(5) bekezdés rendelkezéseitől érvényesen eltérni nem lehet.
+
+(7) E § alkalmazásában EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes, Magyar Köztársaságon kívüli más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a letelepedés és a szolgáltatásnyújtás tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
 193/E. § (1) Semmis a munkavállaló és a kölcsönbeadó között létrejött olyan megállapodás, amely
 
@@ -2673,7 +2685,7 @@ alapulvételével kell meghatározni a munkaszerződésben.
 
 (2) A munkaszerződésnek tartalmaznia kell a felek nevét, illetve megnevezését, a kölcsönbeadó nyilvántartásba vételi számát, valamint a munkavállaló és a kölcsönbeadó lényeges adatait is.
 
-(3) A munkáltató – ha a munkaszerződés nem tartalmaz tájékoztatást – legkésőbb a munkaszerződés megkötésétől számított két héten belül, ezen túlmenően a c) pont szerint, a (9) vagy (10) bekezdésben foglaltak alkalmazásakor, legkésőbb az e szabályok szerinti jogosultság megállapításának kezdetétől számított két héten belül köteles a munkavállalót írásban tájékoztatni
+(3) A munkáltató – ha a munkaszerződés nem tartalmaz tájékoztatást – legkésőbb a munkaszerződés megkötésétől számított két héten belül, ezen túlmenően a c) pont szerint, a (9) vagy (10) bekezdésben foglaltak alkalmazásakor, legkésőbb az e szabályok szerinti jogosultság megállapításának kezdetétől számított két héten belül köteles a kölcsönzött munkavállalót írásban tájékoztatni
 
 - a) a munkavégzés helyéről,
 - b) a kölcsönvevőnél irányadó munkarendről,
@@ -2688,12 +2700,12 @@ alapulvételével kell meghatározni a munkaszerződésben.
 
 (4) A (3) bekezdés c), d), f) és h) pontjában, valamint a 76/A. § (1) bekezdésének b)–c) pontjában előírt tájékoztatás jogszabály, illetve a kölcsönbeadóra kiterjedő hatályú kollektív szerződés rendelkezésére történő hivatkozással is megadható.
 
-(5) A kölcsönbeadó megnevezésének, lényeges adatainak, továbbá a (3) bekezdésben meghatározott feltételek változásáról a kölcsönbeadó legkésőbb a változás hatálybalépését követő egy hónapon belül köteles írásban tájékoztatni a munkavállalót. Ettől eltérően a munkaviszonyra vonatkozó szabály módosítása esetén a (4) bekezdés rendelkezéseit kell megfelelően alkalmazni.
+(5) A kölcsönbeadó megnevezésének, lényeges adatainak, továbbá a (3) bekezdésben meghatározott feltételek változásáról a kölcsönbeadó legkésőbb a változás hatálybalépését követő egy hónapon belül köteles írásban tájékoztatni a kölcsönzött munkavállalót. Ettől eltérően a munkaviszonyra vonatkozó szabály módosítása esetén a (4) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 
-(6) A (3) bekezdésben meghatározott kötelezettségen túlmenően, a kölcsönbeadó köteles – legkésőbb a munkavégzés tényleges megkezdése előtt – írásban tájékoztatni a munkavállalót az alábbiakról:
+(6) A (3) bekezdésben meghatározott kötelezettségen túlmenően, a kölcsönbeadó köteles – legkésőbb a munkavégzés tényleges megkezdése előtt – írásban tájékoztatni a kölcsönzött munkavállalót az alábbiakról:
 
 - a) a kölcsönvevő neve, székhelye, telephelye, cégjegyzék száma, vagy ha ez utóbbi adat helyett jogszabály más nyilvántartási formát ír elő, ennek a száma;
-- b) a kölcsönvevőnél mely szerv vagy személy gyakorolja a munkavállaló vonatkozásában a munkáltatói jogkört;
+- b) a kölcsönvevőnél mely szerv vagy személy gyakorolja a kölcsönzött munkavállalót vonatkozásában a munkáltatói jogkört;
 - c) a munkába járás, szállás és étkezés feltételei;
 - d) a munkarendre, a munkaidőre és pihenőidőre vonatkozó szabályok;
 - e) az elvégzendő munkára vonatkozó alkalmazási feltételek.
@@ -2722,7 +2734,7 @@ meghaladja.
 
 (12) A (9)–(10) bekezdés alkalmazásakor a munkavégzés folyamatosságát nem szakítja meg a 107. § szerinti munkavégzési kötelezettség alóli mentesülés időtartama. Ettől eltérően, a fizetés nélküli szabadság – a 138. § (5) bekezdésben és a 139. §-ban foglaltak kivételével – akkor nem érinti a munkavégzés folyamatosságát, ha ennek időtartama a harminc munkanapot nem haladja meg. A munkavégzés folyamatosságának feltétele, hogy a munkavégzési kötelezettség alóli mentesülés megszűnését követően a munkavállaló munkáját annál a kölcsönvevőnél folytassa, amelynél a mentesülés megkezdődött.
 
-(13) A (9) bekezdésben foglaltak alkalmazásával kapcsolatban a kölcsönbeadó írásbeli nyilatkozat megtételére kötelezheti a munkavállalót arról, hogy a nyilatkozat átadását megelőző két évben mely kölcsönvevőnél, milyen időtartamban végzett munkát.
+(13) A (9) bekezdésben foglaltak alkalmazásával kapcsolatban a kölcsönbeadó írásbeli nyilatkozat megtételére kötelezheti a kölcsönzött munkavállalót arról, hogy a nyilatkozat átadását megelőző két évben mely kölcsönvevőnél, milyen időtartamban végzett munkát.
 
 (14) A (9)–(11) bekezdésben foglaltaktól érvényesen eltérni nem lehet.
 
@@ -2770,7 +2782,7 @@ meghaladja.
 
 (8) Azonnali hatályú felmondás esetén a felmondás szabályai nem alkalmazhatók.
 
-193/L. § A munkaviszony megszűnésekor, megszüntetésekor legkésőbb az utolsó munkában töltött napot követő – ha a munkavállaló a jognyilatkozat közlését, a közös megegyezéssel történő megszüntetésről szóló megállapodás megkötését, a jogviszony megszűnésére vezető ok bekövetkezését megelőzően nem végzett munkát, a jognyilatkozat közlésétől, illetve a munkaviszony megszűnésétől, megszüntetésétől számított – öt napon belül köteles a kölcsönbeadó a munkavállalót megillető munkabért, a 193/J. § (6) bekezdése és a 193/K. § (7) bekezdése szerinti díjazást, egyéb járandóságát kifizetni, valamint kiadni a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
+193/L. § A munkaviszony megszűnésekor, megszüntetésekor legkésőbb az utolsó munkában töltött napot követő – ha a munkavállaló a jognyilatkozat közlését, a közös megegyezéssel történő megszüntetésről szóló megállapodás megkötését, a jogviszony megszűnésére vezető ok bekövetkezését megelőzően nem végzett munkát, a jognyilatkozat közlésétől, illetve a munkaviszony megszűnésétől, megszüntetésétől számított – öt napon belül köteles a kölcsönbeadó a kölcsönzött munkavállalót megillető munkabért, a 193/J. § (6) bekezdése és a 193/K. § (7) bekezdése szerinti díjazást, egyéb járandóságát kifizetni, valamint kiadni a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
 
 ### A munkaviszony jogellenes megszüntetése
 
@@ -2786,17 +2798,17 @@ meghaladja.
 
 ### Szabadság kiadása
 
-193/N. § (1) Kölcsönzés keretében történő foglalkoztatás időtartama alatt a szabadságot – eltérő megállapodás hiányában – a kölcsönvevő, egyébként a kölcsönbeadó adja ki. Az időpontot a kölcsönvevő csak rendkívül indokolt esetben változtathatja meg, és a munkavállalónak az ezzel összefüggésben felmerült kárát, illetve költségeit köteles megtéríteni.
+193/N. § (1) Kölcsönzés keretében történő foglalkoztatás időtartama alatt a szabadságot – eltérő megállapodás hiányában – a kölcsönvevő, egyébként a kölcsönbeadó adja ki. Az időpontot a kölcsönvevő csak rendkívül indokolt esetben változtathatja meg, és a kölcsönzött munkavállalónak az ezzel összefüggésben felmerült kárát, illetve költségeit köteles megtéríteni.
 
-(2) Az alapszabadság legalább egynegyedét – a foglalkoztatás első három hónapját kivéve – a munkavállaló kérésének megfelelő időpontban kell kiadni. A munkavállalónak erre vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie.
+(2) Az alapszabadság legalább egynegyedét – a foglalkoztatás első három hónapját kivéve – a munkavállaló kérésének megfelelő időpontban kell kiadni. A kölcsönzött munkavállalónak erre vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie.
 
 ### Kártérítési felelősség
 
 193/O. § (1) Ha a munkavállaló a foglalkoztatás körében kárt okoz a kölcsönvevőnek, az alkalmazott károkozásáért való felelősség szabályait kell alkalmazni [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 348. § (1) bekezdése].
 
-(2) A munkavégzés során a munkavállalónak okozott kárért a kölcsönvevő és a kölcsönbeadó egyetemlegesen felel (Mt. 174–187. §).
+(2) A munkavégzés során a kölcsönzött munkavállalónak okozott kárért a kölcsönvevő és a kölcsönbeadó egyetemlegesen felel (Mt. 174–187. §).
 
-(3) Ha a munkavállalót munkaviszonyával összefüggésben, de a (2) bekezdésben foglaltakon kívül – nem a foglalkoztatása során, vagy azzal összefüggésben – éri kár, a munkáltató kártérítési felelősségre vonatkozó szabályainak alkalmazásakor a kölcsönbeadó tekintendő munkáltatónak.
+(3) Ha a kölcsönzött munkavállalót munkaviszonyával összefüggésben, de a (2) bekezdésben foglaltakon kívül – nem a foglalkoztatása során, vagy azzal összefüggésben – éri kár, a munkáltató kártérítési felelősségre vonatkozó szabályainak alkalmazásakor a kölcsönbeadó tekintendő munkáltatónak.
 
 ### A törvény egyéb rendelkezéseinek alkalmazása
 
@@ -2852,11 +2864,70 @@ Alulírott ............. (név, lakcím) e nyilatkozattal kötelezem magamat, ho
 
 193/Z. § Felhatalmazást kap a Kormány a közigazgatási szerveknél foglalkoztatott munkavállalók munkaviszonyával összefüggő személyi iratokra és munkaügyi nyilvántartásra vonatkozó részletszabályok megalkotására.
 
+### XII/A. Fejezet — AZ ISKOLASZÖVETKEZET ÉS TAGJA KÖZÖTT FENNÁLLÓ MUNKAVISZONY SAJÁTOS SZABÁLYAI
+
+194. § (1) A szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: szövetkezeti törvény) 55. § (1) bekezdés e) pontjában foglaltak érdekében az iskolaszövetkezet és nappali tagozatos tanuló, hallgató tagja egymással munkaviszonyt létesíthet abból a célból is, hogy az iskolaszövetkezet által harmadik személy részére nyújtott szolgáltatás teljesítése érdekében a tag a harmadik személynél munkát végezzen. Ez a munkavégzés a szövetkezeti törvény szerinti személyes közreműködésnek minősül.
+
+(2) Az (1) bekezdésben foglalt munkaviszony tekintetében e törvény szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+194/A. § (1) A munkaviszonyt határozott időre kell létesíteni. Ennek során a 79. § (5) bekezdését nem kell alkalmazni.
+
+(2) A munkaszerződésnek – a 76. § (5)–(6) bekezdésében foglaltaktól eltérően – tartalmaznia kell:
+
+- a) a felek nevét, illetve megnevezését és a munkaviszony szempontjából lényeges adatait,
+- b) a tag által vállalt feladatok körét,
+- c) a tag harmadik személynél történő munkavégzési kötelezettsége teljesítésének időtartamára járó személyi alapbérek legkisebb mértékét,
+- d) azt, hogy a felek a tag munkavégzési kötelezettsége teljesítéséről a 194/B. § alapján esetenként állapodnak meg, valamint
+- e) a felek kapcsolattartásának módját abban az időszakban, amikor a tag munkavégzési kötelessége szünetel.
+
+(3) A munkaviszony kezdete – ha a felek eltérően nem rendelkeznek – a munkaszerződés megkötésének napja.
+
+(4) Az alatt az idő alatt, amíg a tag az iskolaszövetkezet vagy harmadik személy részére munkát nem végez, a 151. §-t nem kell alkalmazni.
+
+(5) A tag részére rendes szabadság nem jár, a munkavégzési kötelezettséggel nem járó idő azonban nem lehet kevesebb, mint a tagot a 130–132. § alapján megillető szabadság mértéke.
+
+194/B. § (1) A harmadik személynél történő munkavégzési kötelesség teljesítése megkezdésének feltétele, hogy az iskolaszövetkezet és tagja a munkavégzési kötelesség megkezdését megelőzően írásban megállapodjanak:
+
+- a) a harmadik személyben,
+- b) a munkavégzési kötelesség teljesítése során betöltendő munkakörben,
+- c) a személyi alapbérben,
+- d) a munkavégzés helyében,
+- e) a harmadik személynél történő munkába lépés napjában, valamint
+- f) minden, bármely fél által szükségesnek tartott további kérdésben.
+
+(2) Az iskolaszövetkezet a tagot a munkavégzési kötelesség megkezdésével egyidejűleg köteles tájékoztatni:
+
+- a) a munkavégzési kötelesség teljesítése során elvégzendő munkaköri feladat jellemzőiről (munkaköri leírás),
+- b) az irányadó munkarendről,
+- c) a bérfizetés napjáról,
+- d) a munkáltatói utasítást adó személyéről.
+
+194/C. § (1) A fiatal munkavállaló felett munkáltatói jogkört csak az iskolaszövetkezettel munkaviszonyban álló személy gyakorolhat.
+
+(2) Az (1) bekezdésbe nem tartozó esetben, valamint ha az utasítás adására baleset, elemi csapás vagy súlyos kár, továbbá az életet, egészséget, testi épséget fenyegető közvetlen és súlyos veszély megelőzése, illetőleg elhárítása érdekében van szükség, a tag részére munkáltatói utasítást adhat a harmadik személy képviselője is.
+
+(3) A munkaviszony létesítésével, megszüntetésével, valamint a kárfelelősséggel összefüggő munkáltatói jogokat kizárólag a szövetkezeti törvény 36. § (5) bekezdése szerinti szabályzatban erre feljogosított személy gyakorolhat. A munkáltatói jogok gyakorlására kijelölt személy az utasításadási jog kapcsán felmerült viták kérdésében, valamint az annak körébe nem tartozó egyéb kérdések tekintetében kapcsolatot tart, közvetít a harmadik személy és a tag között.
+
+(4) A harmadik személy az iskolaszövetkezet képviselőjével, illetve a munkáltatói jogkör gyakorlójával az (1)–(3) bekezdésben foglalt kötelezettségek teljesítése érdekében köteles együttműködni, így különösen lehetővé kell tennie számára a munkavégzés helyére történő belépést, és a tagot érintő ügyekben a kért tájékoztatást meg kell adnia.
+
+194/D. § A tag munkavégzési kötelessége teljesítésének időtartama alatt a harmadik személy teljesíti azokat a munkáltatói kötelezettségeket, amelyek
+
+- a) a munkavédelemre,
+- b) a nők, a fiatal munkavállalók, a megváltozott munkaképességűek foglalkoztatására,
+- c) a munkaidőre, pihenőidőre és ezek nyilvántartására, valamint
+- d) az egyenlő bánásmódra vonatkozó szabályok betartására vonatkoznak.
+
+194/E. § A munkaviszony a 86. § a)–c) pontjában meghatározott eseteken túlmenően megszűnik a tagsági jogviszonymegszűnésének
+
+időpontjában.
+
+194/F. § A munkavégzés során a tagnak okozott kárért a munkáltató és a harmadik személy a munkáltatói károkozásra vonatkozó szabályai alapján, egyetemlegesen felel.
+
 ## NEGYEDIK RÉSZ — A MUNKAÜGYI VITA
 
 ### I. Fejezet — Kollektív munkaügyi vita
 
-194. § (1) A munkáltató és az üzemi tanács, illetőleg a munkáltató (a munkáltatói érdekképviseleti szervezet) és a szakszervezet között felmerült, jogvitának nem minősülő munkaviszonnyal összefüggő vitában (kollektív munkaügyi vita) az érintett felek között egyeztető tárgyalásnak van helye.
+194/G. § (1) A munkáltató és az üzemi tanács, illetőleg a munkáltató (a munkáltatói érdekképviseleti szervezet) és a szakszervezet között felmerült, jogvitának nem minősülő munkaviszonnyal összefüggő vitában (kollektív munkaügyi vita) az érintett felek között egyeztető tárgyalásnak van helye.
 
 (2) Az egyeztetés a tárgyalást kezdeményező fél írásba foglalt álláspontjának a másik fél részére történő átadásával indul.
 
@@ -2866,7 +2937,7 @@ Alulírott ............. (név, lakcím) e nyilatkozattal kötelezem magamat, ho
 
 195. § (1) A felek a konfliktus rendezése érdekében tőlük független, a konfliktusban nem érintett személy közvetítését vehetik igénybe. A közvetítőt a felek közösen kérik fel közreműködésre.
 
-(2) Az egyeztetés időtartama alatt a közvetítő a felektől — az általa szükségesnek tartott mértékben — tájékoztatást, illetve adatszolgáltatást kérhet. Ebben az esetben a 194. § (3) bekezdésében meghatározott határidő a tájékoztatás megadására, illetve az adatszolgáltatásra előírt határidővel, legfeljebb azonban öt nappal meghosszabbodik.
+(2) Az egyeztetés időtartama alatt a közvetítő a felektől — az általa szükségesnek tartott mértékben — tájékoztatást, illetve adatszolgáltatást kérhet. Ebben az esetben a 194/G. § (3) bekezdésében meghatározott határidő a tájékoztatás megadására, illetve az adatszolgáltatásra előírt határidővel, legfeljebb azonban öt nappal meghosszabbodik.
 
 (3) Az egyeztetés befejezésekor a közvetítő köteles az egyeztetés eredményét, illetve a felek álláspontját írásba foglalni és a felek részére átadni.
 
@@ -2884,7 +2955,7 @@ Alulírott ............. (név, lakcím) e nyilatkozattal kötelezem magamat, ho
 
 összefüggésben felmerült viták tekintetében.
 
-198. § (1) Az egyeztetés során (194—195. §) létrejött megállapodás, illetve a döntőbíró döntése (196—197. §) kollektív szerződéses megállapodásnak minősül.
+198. § (1) Az egyeztetés során (194/G–195. §) létrejött megállapodás, illetve a döntőbíró döntése (196—197. §) kollektív szerződéses megállapodásnak minősül.
 
 (2) Az egyeztetés, valamint a döntőbíráskodás során — a felekkel egyetértésben — szakértőt, illetve tanút lehet igénybe venni.
 
@@ -2960,7 +3031,21 @@ Alulírott ............. (név, lakcím) e nyilatkozattal kötelezem magamat, ho
 
 210. § Ha a vezető, illetőleg közeli hozzátartozója tekintetében e törvény hatálybalépésekor a 191. § (1)—(3) bekezdésében felsorolt összeférhetetlenség fennáll, ennek okát tizenöt napon belül meg kell szüntetni. Ennek elmaradása esetén a 192/A. § (1) bekezdése az irányadó.
 
-211. §
+211. § (1) Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény (a továbbiakban: Módtv.) 6. §-ának hatálybalépését megelőző három éven belül megválasztott üzemi tanácsok (üzemi megbízottak) megbízatása a munkavédelemről szóló törvény által a munkavédelmi képviselő választására meghatározott következő időpontig tart.
+
+(2) A Módtv. hatálybalépését követően első alkalommal új üzemi tanácsot (üzemi megbízottat) a Módtv. hatálybalépésekor működő munkavédelmi képviselőnek a munkavédelemről szóló törvénynek a Módtv. hatálybalépését megelőző időpontban hatályos szabályai szerinti megbízatásának lejártáig, de legkésőbb a Módtv. hatálybalépésétől számított négy éven belül kell megválasztani.
+
+(3) 2012. január 1-jéig nem köthető megállapodás e törvénynek a Módtv. 8. §-ával megállapított 117/C. §-a alapján azon munkáltató és munkavállaló által, akik között a 117/C. § 2010. december 31-ig hatályos szövege szerint korábban jött létre megállapodás.
+
+(4) E törvény 117/C. §-ának 2010. december 31-ig hatályos szövege alapján létrejött, munkáltató és munkavállaló közötti megállapodásokat a Módtv. 8. §-ával bevezetett módosítása nem érinti.
+
+(5)
+
+(6) A 136. § (1) bekezdése szerinti, a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság első hat hónapjára járó szabadság pénzbeni megváltásáról szóló megállapodás a Módtv. hatálybalépését követően lejáró fizetés nélküli szabadság megszűnésekor köthető.
+
+(7) A XI. fejezetnek a Módtv. 15–20. §-ával módosított rendelkezéseit első alkalommal a 2011. december 1-jét követően létesített munkaviszonyokra kell alkalmazni. E rendelkezések végrehajtása érdekében a kollektív szerződéseket legkésőbb 2011. december 31-ig felül kell vizsgálni.
+
+(8) A Módtv.-vel megállapított XII/A. fejezet rendelkezései nem érintik a Módtv. hatálybalépésének időpontjában az iskolaszövetkezet és tagja között fennálló munkaszerződéseket, valamint e szerződések alapján a harmadik személynél történő munkavégzést.
 
 212. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

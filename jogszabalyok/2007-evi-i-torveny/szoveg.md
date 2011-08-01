@@ -32,7 +32,9 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
   - be) – ha e törvény másként nem rendelkezik – az EGT-állampolgár vagy házastársa eltartott felmenője, valamint
   - bf) a magyar állampolgár vagy házastársa felmenője,
   - bg) a kiskorú magyar állampolgár felett szülői felügyeleti joggal rendelkező személy,
-  - bh) akinek az eljáró hatóság családtagként való beutazását és tartózkodását engedélyezi;
+  - bh) akinek az eljáró hatóság családtagként való beutazását és tartózkodását engedélyezi,
+  - bi) az EGT-állampolgár harmadik országbeli állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített,
+  - bj) a magyar állampolgár harmadik országbeli állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített;
 - c) keresőtevékenységet folytat:
   - ca) aki jogszabályban meghatározott foglalkoztatási jogviszonya alapján, ellenérték fejében, más részére és vele alá-fölérendeltségi kapcsolatban végez munkát,
   - cb) akinek a tevékenysége jogszabály szerint önállóan végezhető és ellenérték fejében történik, ha az egészségbiztosítási, illetve a nyugdíjbiztosítási szolgáltatások fedezetéről a jogszabályok rendelkezései szerint maga gondoskodik, vagy
@@ -292,7 +294,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 ### Bejelentési kötelezettségek
 
-27. § (1) Az EGT-állampolgár, valamint a családtag a Magyar Köztársaság területén lévő első lakóhelyét a regisztrációs igazolás, illetve a tartózkodási kártya kiállításával kapcsolatos eljárásban jelenti be a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény rendelkezéseinek megfelelően.
+27. § (1) Az EGT-állampolgár, valamint a családtag a Magyar Köztársaság területén lévő első lakóhelyét, korábbi szokásos tartózkodási hely szerinti országát a regisztrációs igazolás, illetve a tartózkodási kártya kiállításával kapcsolatos eljárásban jelenti be a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény rendelkezéseinek megfelelően.
 
 (2) Az eljáró hatóság a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása céljából az EGT-állampolgár, valamint a családtag nyilvántartott személyazonosító adatairól és lakcím adatairól, valamint regisztrációs igazolásának vagy tartózkodási kártyájának adatairól értesíti a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet.
 
@@ -313,7 +315,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 
 ha a haláleset vagy a névváltoztatást eredményező tény a Magyar Köztársaság területén kívül következett be.
 
-30. § Ha az EGT-állampolgár vagy a családtag felhagy tartózkodási jogának gyakorlásával, ezt az eljáró hatóságnak bejelentheti, és a tartózkodási jogot igazoló okmányát leadhatja.
+30. § Ha az EGT-állampolgár vagy a családtag felhagy tartózkodási jogának gyakorlásával, vagy a Magyar Köztársaság területét végleg elhagyja, ennek tényét, valamint a következő szokásos tartózkodási hely szerinti országát az eljáró hatóságnak bejelentheti, és a tartózkodási jogot igazoló okmányát leadhatja.
 
 31. § (1) A tartózkodási jogcímben a 10. § és a 11. §-ban foglalt okból bekövetkezett változást a családtag köteles bejelenteni és a további tartózkodás feltételeit igazolni.
 
@@ -383,6 +385,8 @@ ha a haláleset vagy a névváltoztatást eredményező tény a Magyar Köztárs
 39. § (1) A 38. § (1) bekezdése alapján elrendelt beutazási és tartózkodási tilalom időtartamát az elrendelő hatóság határozza meg, amely első alkalommal legfeljebb három év lehet, majd alkalmanként legfeljebb további három évvel meghosszabbítható, amennyiben annak feltételei a beutazási és tartózkodási tilalom lejártakor továbbra is fennállnak.
 
 (2) A beutazási és tartózkodási tilalmat meg kell szüntetni, ha elrendelésének oka megszűnt.
+
+(3) A 38. § (1) bekezdése alapján elrendelt beutazási és tartózkodási tilalom ellen jogorvoslatnak nincs helye.
 
 ### Az idegenrendészeti kiutasítás
 
@@ -679,7 +683,7 @@ bírálja el.
 
 (4) Ha az ügyfél ismeretlen helyen tartózkodik – az (5) bekezdésben foglalt eltéréssel –, a határozat és a végzés közlése hirdetményi úton történik. Kézbesítési ügygondnok kirendelésének nincs helye.
 
-(5) Ha a beutazási és tartózkodási tilalmat a 38. § (1) bekezdése alapján rendelték el, a határozat rendelkező részét külön jogszabályban meghatározott honlapon kell közzétenni.
+(5) Ha a beutazási és tartózkodási tilalmat a 38. § (1) bekezdése alapján rendelték el, a határozat rendelkező részét jogszabályban meghatározott honlapon kell közzétenni. A közzététel napján a határozatot közöltnek kell tekinteni.
 
 72. § (1) Ha e törvény a határozattal szembeni fellebbezést kizárja, újrafelvételi eljárásnak sincs helye.
 
@@ -711,12 +715,12 @@ bírálja el.
 
 76. § A tartózkodási jogot igazoló okmányokkal kapcsolatos, a 75. § (1) bekezdésének a)–c) pontja szerinti résznyilvántartások az érintettek tartózkodási jogot igazoló okmányával kapcsolatos következő adatokat tartalmazzák:
 
-- a) a születési és házassági nevet, a személyi azonosítót és a regisztrációs igazoláson szereplő lakcímet,
+- a) a születési és házassági nevet, a személyi azonosítót és a regisztrációs igazoláson szereplő lakcímet, korábbi szokásos tartózkodási hely szerinti országát,
 - b) a regisztráció időpontját, illetve a tartózkodási kártya kiadása iránti kérelem benyújtásának időpontját,
 - c) az úti okmány vagy a személyazonosító igazolvány adatait,
 - d) a regisztrációt, illetve a tartózkodási jogot igazoló okmány számát, típusát, érvényességét, meghosszabbításának időtartamát,
 - e) a regisztrációt, illetve a tartózkodási jogot igazoló okmány visszavonásának tényét, okát, időpontját,
-- f) a regisztrációt, illetve a tartózkodási jogot igazoló okmány leadásának tényét, időpontját,
+- f) a regisztrációt, illetve a tartózkodási jogot igazoló okmány leadásának tényét, időpontját, a következő szokásos tartózkodási hely szerinti országát
 - g) a regisztrációt, illetve a tartózkodási jogot igazoló okmány cseréjének, pótlásának, az okmány elvesztésének, megsemmisülésének, a talált okmány visszaadásának tényét,
 - h) az EGT-állampolgár családi állapotát, amennyiben ez más személy tartózkodási jogát alapozza meg.
 
@@ -995,4 +999,5 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 - a) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet 5. és 13. cikkének [3. §; 36. §];
 - b) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkének [35/A. §, 77/A. §];
 - c) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §; 4. §; 20. §; 86. §]
-- d) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet (22. §, 35. §, 76/A. §, 86. §) végrehajtásához szükséges rendelkezéseket állapít meg.
+- d) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet (22. §, 35. §, 76/A. §, 86. §)
+- e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
