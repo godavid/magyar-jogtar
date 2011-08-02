@@ -389,7 +389,7 @@ részt vehet.
 
 (6)
 
-(7) A (6) bekezdés 2011. augusztus 1. napjával hatályát veszti. E bekezdés 2011. augusztus 2-án hatályát veszti.
+(7)
 
 (8) E törvény a Magyar Köztársaság és az Európai Közösségek, és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
 

@@ -28,17 +28,13 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 44. §
 
-45. § A Vtv. 40. § (1) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(1) A helyi vasúti pálya – ide nem értve a sífelvonó által használt vasúti pályát – az önkormányzat vagy olyan szervezet tulajdonában állhat, amelyben az önkormányzat közvetve vagy közvetlenül legalább többségi irányítást biztosító befolyással rendelkezik.”
+45. §
 
 46–48. §
 
 #### 5. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-49. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 9/B. § (2) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(2) Az önkormányzat a törzsvagyonának részét képező közutak és műtárgyaik működtetése céljából önkormányzati intézményt, vagy saját többségi befolyásával (Ptk. 685/B. §) e célra gazdálkodó szervezetet működtethet, a feladatot a többségi tulajdonában álló gazdasági társaságra ruházhatja, vagy a működtetést koncesszióba adhatja.”
+49. §
 
 50–51. §
 
@@ -48,19 +44,11 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 #### 6. A helyi önkormányzatokról szóló 1990. évi LXV. törvény módosítása
 
-54. § A helyi önkormányzatokról szóló 1990. évi LXV. törvény 63/A. § g) pontja helyébe az alábbi rendelkezés lép:
-
-[A fővárosi önkormányzat feladat és hatásköre különösen]
-
-„g) ellátja a főváros tömegközlekedési és forgalomtechnikai feladatait, kijelöli a főútvonalakat, a tömegközlekedés által igénybe vett útvonalakat, ellátja Budapest területén a fővárosi önkormányzat tulajdonában levő országos közutak, közúti hidak, alul- és felüljárók – az autópályák és autóutak kivételével – üzemeltetését, fenntartását és fejlesztését, valamint a kerületi önkormányzatok tulajdonában levő tömegközlekedés által igénybe vett utak üzemeltetését, fenntartását és fejlesztését. Az e pontban meghatározott feladatok – a fővárosi közutak útosztályba sorolása kivételével – az önkormányzat által kijelölt, 100%-ban köztulajdonban álló, közlekedés-szervezési feladatot ellátó gazdasági társaság útján is elláthatók;”
+54. §
 
 #### 7. A helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény módosítása
 
-55. § A helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény 92. § (10) bekezdése a következő c) ponttal egészül ki:
-
-[A közút kezelőjén a helyi közutak tekintetében]
-
-„c) Budapest Főváros Önkormányzata esetében a b) pontban foglaltaktól eltérően a fővárosi közgyűlést kell érteni. A fővárosi közgyűlés ezen bekezdésben foglalt feladatait az önkormányzat többségi tulajdonában álló gazdasági társaság útján is elláthatja.”
+55. §
 
 #### 8. A koncesszióról szóló 1991. évi XVI. törvény módosítása
 
