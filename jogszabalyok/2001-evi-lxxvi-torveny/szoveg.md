@@ -1429,4 +1429,4 @@ Done at Vienna on the fifth day of September, one thousand nine hundred and nine
 (3) E törvény hatálybalépésével egyidejűleg az egyezményben foglaltak végrehajtása érdekében felhatalmazást kap a Kormány, hogy
 
 - a) módosítsa az Országos Atomenergia Bizottság feladatáról, hatásköréről, valamint az Országos Atomenergia Hivatal feladat- és hatásköréről, bírságolási jogköréről szóló 87/1997. (V. 28.) Korm. rendeletet;
-- b) rendeletben szabályozza az egyezmény végrehajtásához szükséges eljárási és hatásköri szabályokat.
+- b)

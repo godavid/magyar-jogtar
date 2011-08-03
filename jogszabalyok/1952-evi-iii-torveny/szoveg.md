@@ -3157,11 +3157,11 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### XXI. Fejezet — A sajtó-helyreigazítási eljárás
 
-342. § (1) Helyreigazításának a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény szerinti közzétételét az érintett személy vagy szervezet az általa vitatott közlemény közzétételétől számított harminc napon belül írásban kérheti a médiatartalom-szolgáltatótól vagy a hírügynökségtől.
+342. § (1) Helyreigazításának a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény szerinti közzétételét az érintett személy vagy szervezet az általa vitatott közlemény közzétételétől számított harminc napon belül írásban kérheti a médiaszolgáltatótól, a sajtótermék szerkesztőségétől vagy a hírügynökségtől.
 
 (2) A határidőben kért helyreigazítás közzétételét csak akkor lehet megtagadni, ha a kérelemben előadottak valósága nyomban megcáfolható.
 
-343. § (1) Ha a médiatartalom-szolgáltató vagy a hírügynökség a helyreigazítás közzétételére irányuló kötelezettségét határidőben nem teljesíti, az azt igénylő fél ellene keresetet indíthat.
+343. § (1) Ha a médiaszolgáltató, a sajtótermék szerkesztősége vagy a hírügynökség a helyreigazítás közzétételére irányuló kötelezettségét határidőben nem teljesíti, az azt igénylő fél ellene keresetet indíthat.
 
 (2) Az I–XIV. fejezet rendelkezéseit a sajtó-helyreigazítási eljárásokban az e fejezetben foglalt eltérésekkel kell alkalmazni. A sajtó-helyreigazításra irányuló keresetet más keresettel összekapcsolni vagy egyesíteni nem lehet.
 
@@ -3169,7 +3169,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (4) A keresetlevélben határozottan meg kell jelölni az igényelt helyreigazító nyilatkozat tartalmát, igazolni kell, hogy a felperes a helyreigazítást törvényes határidőben igényelte, és napilap, folyóirat, időszaki lap esetében a kifogásolt közleményt tartalmazó lappéldányt, internetes sajtótermék esetében a kifogásolt közlemény kinyomtatott változatát – amennyiben azok rendelkezésre állnak – csatolni kell.
 
-344. § (1) A perre az a bíróság illetékes, amelynek területén a hírügynökség vagy a médiatartalom-szolgáltató székhelye, illetve lakhelye található. A bíróság illetékességét a médiaszolgáltató helyi stúdiójának székhelye is megalapozza.
+344. § (1) A perre az a bíróság illetékes, amelynek területén a sajtótermék szerkesztősége, a hírügynökség vagy a médiaszolgáltató székhelye, illetve lakhelye található. A bíróság illetékességét a médiaszolgáltató helyi stúdiójának székhelye is megalapozza.
 
 (2) A bíróság a sajtó-helyreigazítási perben soron kívül jár el. Az elnök legkésőbb a keresetlevél benyújtásától számított nyolcadik napra tárgyalást tűz ki, kivéve, ha a keresetlevél benyújtása elkésett, ez utóbbi esetben az elnök a keresetlevelet idézés kibocsátása nélkül elutasítja.
 
