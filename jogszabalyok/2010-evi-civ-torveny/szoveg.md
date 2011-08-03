@@ -12,7 +12,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 2. Médiaszolgáltató: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
 
-3. Műsorszám: hangok, illetőleg hangos vagy néma mozgóképek sorozata, amely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban önálló egységet alkot, és amelynek formája és tartalma a rádiós vagy televíziós műsorszolgáltatáséhoz hasonlítható.
+3. Műsorszám: hangok, illetőleg hangos vagy néma mozgóképek sorozata, amely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban önálló egységet alkot, és amelynek formája és tartalma a rádiós vagy televíziós médiaszolgáltatáséhoz hasonlítható.
 
 4. Lekérhető médiaszolgáltatás: olyan médiaszolgáltatás, amelyben a médiaszolgáltató által összeállított műsorkínálat alapján a felhasználó egyéni kérés alapján, az általa kiválasztott időpontban tekintheti, illetve hallgathatja meg a műsorszámokat.
 
@@ -26,11 +26,11 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 9. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
 
-10. Burkolt kereskedelmi közlemény: olyan kereskedelmi közlemény, amelynek közzététele természetét tekintve félrevezetheti a közönséget.
+10. Burkolt kereskedelmi közlemény: olyan kereskedelmi közlemény, amelynek közzététele természetét tekintve megtéveszti a közönséget. Burkolt reklámnak minősülhet a kereskedelmi közlemény céljait szolgáló közlemény abban az esetben is, ha nem ellenszolgáltatás fejében került közzétételre.
 
 11. Reklám: olyan közlés, tájékoztatás, illetve megjelenítési mód, amely valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog értékesítésének vagy más módon történő igénybevételének előmozdítására, vagy e céllal összefüggésben a vállalkozás neve, megjelölése, tevékenysége népszerűsítésére vagy áru, árujelző ismertségének növelésére irányul.
 
-12. Támogatás: olyan hozzájárulás, amelyet valamely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság nyújt médiatartalom-szolgáltatók vagy médiatartalmak finanszírozására azzal a céllal, hogy népszerűsítse saját vagy más nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
+12. Támogatás: olyan hozzájárulás, amelyet valamely vállalkozás nyújt médiatartalom-szolgáltatók vagy médiatartalmak finanszírozására azzal a céllal, hogy népszerűsítse saját vagy más nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
 
 ### II. CÍM — A TÖRVÉNY HATÁLYA
 
@@ -38,7 +38,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (2) E törvény alkalmazásában a médiatartalom-szolgáltató akkor minősül a Magyar Köztársaság területén letelepedettnek, ha:
 
-- a) az általa nyújtott médiaszolgáltatás terjesztése a Magyar Köztársaság tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen a Magyar Köztársaság felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,
+- a) az általa nyújtott médiaszolgáltatás analóg terjesztése a Magyar Köztársaság tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen a Magyar Köztársaság felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,
 - b) központi ügyvezetésének helye a Magyar Köztársaság területén található és a médiaszolgáltatással, sajtótermékkel összefüggő szerkesztői döntéseket a Magyar Köztársaság területén hozzák,
 - c) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de a médiatartalom-szolgáltató munkaerejének jelentős része a Magyar Köztársaság területén dolgozik,
 - d) ha a Magyar Köztársaság területén és más országban is dolgozik a médiatartalom-szolgáltató munkaerejének jelentős része, akkor, ha a központi ügyvezetés helye a Magyar Köztársaság területén található, vagy
@@ -64,7 +64,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (3) A sajtószabadság gyakorlása nem valósíthat meg bűncselekményt vagy bűncselekmény elkövetésére való felhívást, nem sértheti a közerkölcsöt, valamint nem járhat mások személyhez fűződő jogainak sérelmével.
 
-5. § (1) Törvény a médiaszolgáltatások megkezdésének, illetve a sajtótermékek közzétételének feltételéül szabhatja a hatósági nyilvántartásba vételt. A nyilvántartásba vétel feltételei nem korlátozhatják a sajtó szabadságát.
+5. § (1) Törvény a médiaszolgáltatások megkezdésének vagy végzésének, illetve a sajtótermékek közzétételének feltételéül szabhatja a hatósági nyilvántartásba vételt. A nyilvántartásba vétel feltételei nem korlátozhatják a sajtó szabadságát.
 
 (2) A médiaszolgáltatók által használt, állami tulajdonban lévő, korlátos erőforrások igénybevétele esetén a médiaszolgáltatás megkezdésének feltételéül a médiahatóság által kiírt és lebonyolított pályázaton való sikeres részvétel is előírható.
 
@@ -72,7 +72,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (2) A médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy más, munkavégzésre irányuló jogviszonyban álló személy jogosult információforrásai titokban tartására a bírósági és hatósági eljárások során is, feltéve, hogy a számára átadott információ közzétételéhez közérdek fűződött.
 
-(3) Bíróság vagy hatóság – a nemzetbiztonság és a közrend védelme vagy bűncselekmények elkövetésének felderítése vagy megelőzése érdekében – kivételesen indokolt esetben az információforrás felfedésére kötelezheti a médiatartalom-szolgáltatót, valamint a vele munkaviszonyban vagy más, munkavégzésre irányuló jogviszonyban álló személyt.
+(3) Bíróság vagy nyomozó hatóság – a nemzetbiztonság és a közrend védelme vagy bűncselekmények elkövetésének felderítése vagy megelőzése érdekében – kivételesen indokolt esetben az információforrás felfedésére kötelezheti a médiatartalom-szolgáltatót, valamint a vele munkaviszonyban vagy más, munkavégzésre irányuló jogviszonyban álló személyt.
 
 7. § (1) A médiatartalom-szolgáltató munkavállalója, vagy a médiatartalom-szolgáltatóval munkavégzésre irányuló egyéb jogviszonyban álló személy jogosult a médiatartalom-szolgáltató tulajdonosától, valamint a médiatartalom-szolgáltatót támogató, illetve a médiatartalomban kereskedelmi közleményt elhelyező természetes vagy jogi személytől, illetve jogi személyiséggel nem rendelkező gazdasági társaságtól való szakmai függetlenségre és a médiatartalmak befolyásolására irányuló tulajdonosi vagy támogatói nyomásgyakorlással szembeni védelemre (szerkesztői és újságírói szabadság).
 
@@ -116,9 +116,9 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 16. § A médiatartalom-szolgáltató köteles tiszteletben tartani a Magyar Köztársaság alkotmányos rendjét, tevékenysége során nem sértheti az emberi jogokat.
 
-17. § (1) A médiatartalom nem lehet alkalmas személyek, nemzetek, közösségek, nemzeti, etnikai, nyelvi és más kisebbségek vagy bármely többség, továbbá valamely egyház vagy vallási csoport elleni gyűlölet keltésére.
+17. § (1) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely egyház vagy vallási csoport elleni gyűlölet keltésére.
 
-(2) A médiatartalom nem lehet alkalmas személyek, nemzetek, közösségek, nemzeti, etnikai, nyelvi és más kisebbségek vagy bármely többség, továbbá valamely egyház vagy vallási csoport kirekesztésére.
+(2) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely egyház vagy vallási csoport kirekesztésére.
 
 18. § A médiatartalom nem lehet alkalmas a magánélet megsértésére.
 
@@ -146,7 +146,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (7) Nem szabad médiatartalomban közzétenni dohányárut, fegyvert, lőszert, robbanóanyagot, kizárólag orvosi rendelvényre igénybe vehető gyógyszert, továbbá gyógyászati eljárást népszerűsítő, ismertető kereskedelmi közleményt. E korlátozás nem terjed ki a gazdasági reklámtevékenységről szóló törvényben, illetve más jogszabályban foglalt kivételekre.
 
-(8) A médiatartalom támogatóját a közzététellel egyidejűleg, illetve azt közvetlenül megelőzően vagy azt követően meg kell nevezni.
+(8) A médiatartalom támogatóját a közzététellel egyidejűleg, illetve azt közvetlenül megelőzően vagy azt követően meg kell nevezni. Audiovizuális médiaszolgáltatás vagy annak műsorszáma más audiovizuális médiaszolgáltatást végző, illetve audiovizuális műsorszámok vagy filmalkotások készítésével foglalkozó vállalkozás által nem támogatható.
 
 (9) A médiaszolgáltatásban közzétett, támogatott médiatartalom nem ösztönözhet, és nem hívhat fel a támogató vagy az általa meghatározott harmadik személy termékének beszerzésére vagy szolgáltatásának igénybevételére, illetőleg az attól való tartózkodásra.
 

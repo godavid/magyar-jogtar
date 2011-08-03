@@ -57,7 +57,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - ea) az ingatlan 50 MW vagy annál nagyobb teljesítményű erőmű építéséhez, bővítéséhez szükséges,
   - eb) az ingatlan 50 MW vagy annál nagyobb teljesítményű távhőtermelő létesítmény elhelyezéséhez szükséges,
   - ec) nukleáris létesítmény, radioaktív hulladéktároló építéséhez, bővítéséhez szükséges,
-  - ed) a biztonsági övezetben elrendelt tilalom vagy korlátozás az ingatlan rendeltetésszerű használatát megszünteti, vagy jelentős mértékben akadályozza, továbbá ha az atomenergia alkalmazását szolgáló, a biztonsági övezetben telepítendő létesítmény biztonságos használata ezt szükségessé teszi;
+  - ed) a nukleáris létesítmény, radioaktívhulladék-tároló biztonsági övezetébe tartozó ingatlan tulajdonjogának megszerzése érdekében szükséges.
 - f) energiaellátás céljából, ha
   - fa) a villamos energiáról szóló törvény szerinti közcélú hálózat építése céljából a vezetékjogot – az ingatlan használatának lényeges akadályozása, illetve megszüntetése miatt – a hatóság nem engedélyezte,
   - fb) a villamos energiáról szóló törvény szerinti közcélú hálózathoz tartozó, nem tartószerkezeten elhelyezett, külön jogszabályban meghatározott átalakító- és kapcsoló berendezés építése céljából közérdekű használati jog alapításában az ingatlan tulajdonosa és az engedélyes között nem jött létre megállapodás, vagy a használati jogot – az ingatlan használatának lényeges akadályozása, illetve megszüntetése miatt – a hatóság nem engedélyezte,

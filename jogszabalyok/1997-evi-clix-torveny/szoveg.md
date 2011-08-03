@@ -10,7 +10,7 @@ Az Országgyűlés az állam működése, illetőleg a lakosság ellátása szem
 
 - a) az állam biztonsága, illetve a honvédelem szempontjából fontos létesítményt;
 - b) a nemzetközi személy- vagy teherforgalomban működő repülőteret;
-- c) a katasztrófa veszélyességű nukleáris, radioaktív, robbanásveszélyes, tűzveszélyes, mérgező, illetve az egészségre vagy a környezetre veszélyes anyagot, valamint ezek felhasználásával, gyártásával, tárolásával, forgalmazásával, szállításával összefüggő tevékenységet;
+- c) a katasztrófa veszélyességű robbanásveszélyes, tűzveszélyes, mérgező, valamint az egészségre vagy a környezetre veszélyes anyagot, és az ezek felhasználásával, gyártásával, tárolásával, forgalmazásával, szállításával összefüggő tevékenységet; továbbá a jogszabályban meghatározott nukleáris és más radioaktív anyagot, nukleáris létesítményt;
 - d) a lakosság alapvető szükségletét biztosító infrastruktúra és közműrendszer egyes elemeit;
 - e) a kiemelt jelentőségű nemzeti, kulturális értéket;
 - f) a postai szolgáltató kiemelt létesítményét, a közszolgálati rádió és televízió, a távközlési rendszerek központi létesítményét.
@@ -83,7 +83,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 5. § (1) A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet a szervezetében létrehozott fegyveres biztonsági őrség esetén:
 
 - a) beszerzi, kiadja, nyilvántartja és bevonja a szolgálati fegyverzetet, a lőszert és egyéb felszerelést, a ruházatot;
-- b) gondoskodik a fegyveres biztonsági őrök képzéséről és továbbképzéséről.
+- b) gondoskodik a fegyveres biztonsági őrök elméleti képzéséről, továbbképzéséről, valamint az atomenergia alkalmazása körében elrendelt fegyveres biztonsági őrök esetében a fizikai állóképességre vonatkozó követelmények jogszabályban meghatározott módon történő biztosításáról.
 
 (2) A kötelezett, illetve a fegyveres biztonsági őrséget működtető szervezet vezetője
 
@@ -110,6 +110,8 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
   - ca) szabadságvesztést szabtak ki, a mentesítés beálltától számított nyolc évig,
   - cb) pénzbüntetést szabtak ki, a mentesítés beálltától számított három évig.
 
+(4a) A (4) bekezdés szerinti időtartam leteltét követően sem lehet nukleáris és más radioaktív anyag, valamint nukleáris létesítmény őrzését, őrségének irányítását ellátó fegyveres biztonsági őr az, akit a (4) bekezdésben meghatározottak szerint elítéltek.
+
 (5) A jogviszony létesítésekor az alkalmassági feltételeket az érintett igazolja. Ennek során köteles igazolni azt is, hogy nem áll az e törvény hatálya alá tartozó tevékenység vagy fegyveres szerv hivatásos állományú tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt. A fegyveres biztonsági őrszolgálatra való alkalmasság közbiztonsági feltételeit a jogviszony fennállása alatt a rendőrség ellenőrzi.
 
 (6) Az ellenőrzés során a közbiztonsági feltételek biztosítása céljából a rendőrség a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult közvetlen hozzáféréssel a (3)–(5) bekezdésben meghatározott feltételekre vonatkozó adatokat átvenni és kezelni.
@@ -126,21 +128,24 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 7. § (1) A fegyveres biztonsági őrrel akkor létesíthető jogviszony, ha
 
 - a) megfelel az e törvényben meghatározott feltételeknek, és
-- b) a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett.
+- b) a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – teljesíti a jogszabályban meghatározott fizikai állóképességi és iskolai végzettségre vonatkozó követelményeket.
 
-(2) A fegyveres biztonsági őr részére a hatósági szolgálati igazolványt a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet kezdeményezésére hivatalból állítja ki. A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet haladéktalanul értesíti a rendőrséget arról, ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására vagy bevonására okot adó körülmény bekövetkezett.
+(2) A fegyveres biztonsági őr elméleti és gyakorlati felkészültségét, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében, jogszabályban meghatározott – fizikai állóképességét kétévente, a rendőrség képviselőiből, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottságnak ellenőrizni kell.
 
-(3) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a hatósági szolgálati igazolványt határozattal
+(3) A fegyveres biztonsági őr részére a hatósági szolgálati igazolványt a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet kezdeményezésére hivatalból állítja ki. A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet haladéktalanul értesíti a rendőrséget arról, ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására vagy bevonására okot adó körülmény bekövetkezett.
+
+(4) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenötödik napon a hatósági szolgálati igazolványt határozattal
 
 - a) visszavonja, ha
   - aa) a fegyveres biztonsági őr foglalkoztatási jogviszonya megszűnt,
   - ab) a hatósági szolgálati igazolvány kiadásának feltételei megszűntek,
-  - ac) a hatósági szolgálati igazolványban szereplő adatok megváltoztak;
+  - ac) – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – a fegyveres biztonsági őr nem teljesíti a fizikai állóképességi követelményeket, vagy
+  - ad) a hatósági szolgálati igazolványban szereplő adatok megváltoztak;
 - b) bevonja, ha a fegyveres biztonsági őrt a szolgálatellátás alól ideiglenesen felfüggesztették.
 
-(4) Ha a (3) bekezdés b) pontjában foglalt esetben a szolgálatellátás felfüggesztésének oka megszűnt, a rendőrség a hatósági szolgálati igazolványt a jogosultnak visszaadja.
+(5) Ha a (4) bekezdés b) pontjában foglalt esetben a szolgálatellátás felfüggesztésének oka megszűnt, a rendőrség a hatósági szolgálati igazolványt a jogosultnak visszaadja.
 
-(5) A rendőrség a hatósági szolgálati igazolvány visszavonásának vagy bevonásának a tényéről a kötelezettet vagy a fegyveres biztonsági őrséget működtető szervezetet haladéktalanul tájékoztatja.
+(6) A rendőrség a hatósági szolgálati igazolvány visszavonásának vagy bevonásának tényéről a kötelezettet vagy a fegyveres biztonsági őrséget működtető szervezetet haladéktalanul tájékoztatja.
 
 7/A. § (1) A rendőrség a fegyveres biztonsági őrökről – a hatósági szolgálati igazolványok hitelességének és a fegyveres biztonsági őrök tevékenységének az ellenőrzése céljából – nyilvántartást vezet.
 
@@ -182,6 +187,39 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 (2) A fegyveres biztonsági őrség számára – az engedélyben meghatározott mennyiségben és minőségben – a rendőrségnél –, illetve a Magyar Honvédség objektumait őrző fegyveres biztonsági őrség esetén a Magyar Honvédségnél – rendszeresített és a 10. § (2) bekezdésben felsorolt kényszerítő eszköz, továbbá lőfegyver és lőszer vásárlása, illetve tartása engedélyezhető. A szolgálati tevékenységhez csak a rendőrség központi szerv Kutyavezetőképző Iskolája által minősített (vizsgáztatott) kutya alkalmazható.
 
 (3) A fegyveres biztonsági őrség lőfegyvere és lőszere csak szolgálati és képzési tevékenységhez használható.
+
+9/A. § (1) A fegyveres biztonsági őr elektronikus megfigyelőrendszer működtetése (a továbbiakban: elektronikus megfigyelőrendszer) útján kép-, hang-, valamint kép- és hangfelvételt a fegyveres biztonsági őrzésből adódó kötelezettségei teljesítése, így a létesítmény telephelyének védelme, a radioaktív és veszélyes anyagok őrzése, a rendkívüli események megelőzése, következményeinek elhárítása, kivizsgálásának segítése, a jogsértések észlelése, az elkövető tettenérése, valamint a jogsértő cselekmények megelőzése céljából, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.) szerinti adatvédelmi jogok érvényesítése mellett készíthet, illetve kezelhet. E tevékenysége során a fegyveres biztonsági őr adatkezelőnek minősül.
+
+(2) A fegyveres biztonsági őr elektronikus megfigyelőrendszert a védett létesítmény területe és annak környezete megfigyelésére alkalmazhat.
+
+(3) A rögzített kép-, hang, valamint kép- és hangfelvételt a (6) bekezdés szerinti felhasználás hiányában meg kell semmisíteni, illetve törölni kell
+
+- a) közterületet is érintő megfigyelőrendszerrel történő rögzítés esetén a rögzítéstől számított három nap,
+- b) az 1. § (1) bekezdésében meghatározott létesítményt figyelő elektronikus megfigyelőrendszerrel történő rögzítése esetén a rögzítéstől számított hatvan nap elteltével.
+
+(4) Az (1) bekezdésben foglaltak alapján rögzített kép-, hang, valamint kép- és hangfelvétel, vagy az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, körözött személy vagy tárgy azonosítása vagy intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, valamint az érintett személy jogainak gyakorlása érdekében használható fel.
+
+(5) Az, akinek jogát vagy jogos érdekét a rögzített kép-, hang-, vagy a kép- és hangfelvétel, vagy abban szereplő személyes adatának rögzítése érinti, a (3) bekezdésben meghatározott időtartamon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a rögzített kép-, hang-, vagy a kép- és hangfelvételt, vagy abban szereplő személyes adatot kezelője ne semmisítse meg, illetve ne törölje. A nyomozó hatóság, a szabálysértési hatóság, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság a (3) bekezdésben meghatározott időtartamon belül kezdeményezheti, hogy a rögzített kép-, hang-, vagy a kép- és hangfelvételt, vagy abban szereplő személyes adatot kezelője ne semmisítse meg, illetve ne törölje.
+
+(6) A rögzített kép-, hang, valamint kép- és hangfelvételt – a jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági célból – a nyomozó hatóság, a szabálysértési hatóság, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy részére lehet átadni.
+
+(7) Ha a rögzített kép-, hang, valamint kép- és hangfelvétel
+
+- a) a (3) bekezdésben meghatározott határidőn belül, vagy
+- b) az (5) bekezdés szerinti esetben – ha a (3) bekezdés szerinti határidő már eltelt – az (5) bekezdés szerinti megkereséstől számított harminc napon belül felhasználására sor kerül, akkor az a) és b) pontban meghatározott határidő lejártát követően a rögzített kép-, hang, valamint kép- és hangfelvételt haladéktalanul meg kell semmisíteni, illetve törölni kell.
+
+(8) Ha a felvétel felhasználására a (6) bekezdés szerinti eljárásban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
+
+(9) A közterületet is érintő elektronikus megfigyelőrendszerrel védett terület esetén a védelemre kötelezett szervezet vezetője jól látható helyen, jól olvashatóan, a területen megjelenni kívánó harmadik személyek tájékozódását elősegítő módon köteles figyelmeztető jelzést elhelyeztetni
+
+- a) a területre bevinni tilos tárgyakról, azok jellegéről;
+- b) arról a tényről, hogy az adott területen elektronikus megfigyelőrendszert alkalmaznak;
+- c) az elektronikus megfigyelőrendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá az Avtv.-nek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről; valamint
+- d) a fegyveres biztonsági őr intézkedései által okozott jogsérelem esetén igénybe vehető eljárásokról.
+
+(10) Nem alkalmazható a létesítményt figyelő elektronikus megfigyelőrendszer olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen öltözőben, orvosi rendelőben, mosdóban és fürdőben, illemhelyen.
+
+(11) A kötelezettnek biztosítania kell, hogy az érintett személy személyes adatai, magántitkai, és a magánéletére vonatkozó egyéb adatok, tények ne jussanak illetéktelen személy tudomására.
 
 10. § (1) A fegyveres biztonsági őr szolgálatának jogszerű teljesítése során jogosult és köteles:
 
@@ -413,7 +451,7 @@ alkalmazhat, illetve használhat.
 
 (3) A törvény I. fejezetének hatálybalépésekor alkalmazott fegyveres biztonsági őr további alkalmazhatóságának alapfeltétele, hogy ismerje e törvényt, a végrehajtására kiadott rendelkezéseket és a szolgálati helye őrszolgálati okmányait, ezekből eredményes vizsgát tegyen. A továbbképzést és vizsgáztatást e törvény kihirdetése után az I. fejezet hatálybalépéséig kell végrehajtani.
 
-(4)
+(4) Felhatalmazást kap a Kormány, hogy az atomenergia alkalmazása körében elrendelt fegyveres biztonsági őrség tekintetében a fizikai állóképességre és az iskolai végzettségre vonatkozó követelményeket meghatározza.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a honvédelemért felelős miniszterrel, a polgári hírszerzési tevékenység irányításáért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben rendelettel adja ki a fegyveres biztonsági őrség működési és szolgálati szabályzatát. A szabályzat tartalmazza a szolgálatra vonatkozó irányítási, szervezési, tervezési, ellenőrzési, képzési és továbbképzési, szolgálatellátási renddel, a kényszerítő eszközök – különös tekintettel a lőfegyver – alkalmazásával kapcsolatos részletes szabályokat, valamint a 7. §-ban előírt vizsga követelményeit.
 
