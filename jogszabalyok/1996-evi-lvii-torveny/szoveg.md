@@ -215,7 +215,13 @@ vonatkozik.
 
 (3) A hitelintézetek, valamint a biztosítóintézetek összefonódása esetén az engedély iránti kérelmet a külön jogszabályban meghatározott felügyeleti szerv engedélye iránti kérelemmel azonos időpontban kell benyújtani a Gazdasági Versenyhivatalhoz.
 
+(4) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 65. §-a szerint nemzetgazdasági szempontból kiemelt jelentőségűnek minősített gazdálkodó szervezet (a továbbiakban: kiemelt jelentőségű gazdálkodó szervezet) felszámolási eljárása során létrejött, a kiemelt jelentőségű gazdálkodó szervezet vagy vállalkozásrésze feletti irányításszerzést vagy irányításváltozást eredményező összefonódás esetén az engedély iránti kérelmet a nyilvános ajánlati felhívás közzétételének, a szerződés vagy az irányítási jog megszerzésének időpontjai közül a legkorábbitól számított tizenöt napon belül kell benyújtani.
+
 29. § A vállalkozásoknak a 24. § szerinti összefonódását eredményező szerződés létrejöttéhez a Gazdasági Versenyhivatal engedélye szükséges.
+
+29/A. § (1) A 28. § (4) bekezdése szerinti összefonódás esetén a 29. §-ban foglaltak azzal az eltéréssel alkalmazandók, hogy az irányításszerző az irányítási jogát a rendes üzletmenet folytatásához feltétlenül szükséges mértékben a Gazdasági Versenyhivatal engedélyének megszerzése előtt is gyakorolhatja.
+
+(2) Ha a 28. § (4) bekezdése szerinti összefonódás engedélyezésére irányuló eljárás során az eljáró versenytanács a 63. § (4) bekezdése alapján a 63. § (3) bekezdés b) pontjának alkalmazásáról dönt, egyidejűleg a hatékony verseny feltételeinek biztosítása, az összefonódás versenyre gyakorolt hátrányos hatásainak mérséklése érdekében – az érintett vállalkozások érdekeire, a rendes üzletmenet folytathatóságának lehető legnagyobb mértékű biztosításának érdekére is figyelemmel – az érdemi határozat meghozataláig terjedő időre az irányítási jog gyakorlását korlátozhatja, feltételhez kötheti vagy arra vonatkozóan kötelezettséget írhat elő (a továbbiakban együtt: irányításkorlátozó előírás). Az irányításkorlátozó előírást sértő bármilyen ügylet semmis.
 
 30. § (1) Az engedély iránti kérelem elbírálásakor mérlegelni kell az összefonódással járó előnyöket és hátrányokat. Ennek során vizsgálni kell különösen
 
@@ -230,6 +236,8 @@ vonatkozik.
 (4) Az engedély előzetes feltételhez kötése esetén az engedély a feltétel teljesülésével válik hatályossá. Az utólagos feltételhez kötött engedély megadásától hatályos, azonban a feltétel nem teljesülése esetében hatályát veszíti.
 
 (5) Az összefonódáshoz adott engedély kiterjed mindazokra a versenykorlátozásokra, amelyek az összefonódás megvalósításához szükségesek.
+
+(6) A 28. § (4) bekezdése szerinti összefonódás esetén az engedély iránti kérelem elbírálásakor mérlegelni kell az irányítási jogoknak a 29/A. § (1), illetve (2) bekezdése szerinti gyakorlásából eredően a versenyre gyakorolt hatásokat is. Határozatában a Gazdasági Versenyhivatal megállapítja azt is, hogy az irányításszerző irányítási jogainak gyakorlása megfelelt-e a 29/A. §-ban és az esetleges irányításkorlátozó előírásban foglaltaknak.
 
 31. § Ha a versenyfelügyeleti eljárás során megállapítást nyer, hogy az engedély nélkül létrehozott – a 24. § szerint egyébként engedélyköteles – összefonódás nem lett volna engedélyezhető, a Gazdasági Versenyhivatal határozatában megfelelő határidő megállapításával előírja az egyesült vállalkozások vagy vagyon-, illetve üzletrészek különválasztását, elidegenítését, vagy a közös irányítás megszüntetését, vagy más kötelezettséget írhat elő a hatékony verseny helyreállítása érdekében.
 
@@ -661,7 +669,9 @@ kell meghozni.
   - aa) a 23. § és 25. § értelmében nem jön létre összefonódás, vagy
   - ab) az összefonódás a 24. § szerinti értéket nem éri el, vagy
   - ac) az engedély a 30. § (2) bekezdése alapján nyilvánvalóan nem tagadható meg;
-- b) négy hónapon belül kell meghozni minden egyéb esetben.
+- b) az a) pontban nem említett esetekben
+  - ba) a 28. § (4) bekezdése szerinti esetben három hónapon belül,
+  - bb) minden egyéb esetben négy hónapon belül kell meghozni.
 
 (4) A (3) bekezdés b) pontjának alkalmazásáról az eljáró versenytanács a hiánytalan kérelem, illetve a hiánypótlás beérkezését követő naptól számított negyvenöt napon belül dönt.
 
@@ -676,7 +686,14 @@ kell meghozni.
 
 eltelt időt.
 
-(6) Az ügyintézési határidő indokolt esetben legfeljebb két hónappal, a (2) bekezdés b) pontja szerinti esetekben két alkalommal, egyenként legfeljebb hat hónappal, a (3) bekezdés a) pontja esetében húsz nappal meghosszabbítható.
+(6) Az ügyintézési határidő indokolt esetben
+
+- a) a (2) bekezdés a) pontja szerinti esetekben két alkalommal, egyenként legfeljebb két hónappal,
+- b) a (2) bekezdés b) pontja szerinti esetekben két alkalommal, egyenként legfeljebb hat hónappal,
+- c) a (2) bekezdés c) pontja szerinti esetekben legfeljebb két hónappal,
+- d) a (3) bekezdés a) pontja esetében húsz nappal,
+- e) a (3) bekezdés b) pont ba) alpontja szerinti esetben legfeljebb húsz nappal,
+- f) a (3) bekezdés b) pont bb) alpontja szerinti esetben legfeljebb két hónappal meghosszabbítható.
 
 (7) A vizsgáló kizárása esetben a vizsgálati határidők az új vizsgáló kijelölésével újra kezdődnek.
 
@@ -1218,6 +1235,8 @@ végrehajtása
 (2) A Gazdasági Versenyhivatal elnökének, valamint elnökhelyetteseinek az e törvény hatálybalépésekor fennálló határozott időre szóló kinevezését a törvény hatálybalépése nem érinti.
 
 (3)–(4)
+
+95/A. § E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű gazdálkodó szervezetek csődeljárásának és felszámolásának különleges szabályairól és az azzal összefüggő törvénymódosításokról szóló törvénnyel megállapított rendelkezéseit a hatálybalépést követően kezdeményezett eljárásokban kell alkalmazni.
 
 96. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a megállapodások egyes csoportjainak a 11. §-ban foglalt tilalom alól történő mentesülését.
 

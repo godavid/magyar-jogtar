@@ -185,7 +185,7 @@ kézbesítettnek kell tekinteni.
 
 (3) A véleményezéssel kapcsolatos eljárásra a 66. § irányadó azzal, hogy a tizenöt napos határidőt a tervezetnek a munkáltatónál képviselettel rendelkező szakszervezet képviselőjéhez való érkezésétől kell számítani.
 
-(4)
+(4) Amennyiben a munkáltató saját magával szemben csődeljárás, vagy felszámolási eljárás lefolytatását kéri, úgy erről a szakszervezetet – legkésőbb a kérelem benyújtásával egyidejűleg – csak tájékoztatni kell.
 
 (5) E törvény alkalmazásában a munkáltatónál képviselettel rendelkező szakszervezetnek azt a szakszervezetet kell tekinteni, amelyik alapszabálya szerint a munkáltatónál képviseletére jogosult szervet működtet, illetőleg tisztségviselővel rendelkezik.
 
@@ -219,6 +219,8 @@ kézbesítettnek kell tekinteni.
 (4) Ha a munkáltató a kifogással nem ért egyet, egyeztetésnek van helye. A kifogással kapcsolatos egyeztető tárgyalást a kifogás benyújtásától számított három munkanapon belül kell megkezdeni. Ha az egyeztetés hét napon belül nem vezet eredményre, az eredménytelenség megállapításától számított öt napon belül a szakszervezet bírósághoz fordulhat. A bíróság nemperes eljárásban, tizenöt napon belül dönt.
 
 (5) A kifogásolt intézkedést a munkáltató és a szakszervezet közötti egyeztető tárgyalás befejezéséig, illetve a jogerős bírósági döntésig végrehajtani nem lehet, illetve végrehajtását fel kell függeszteni.
+
+(6) A szakszervezet a 21. § (4) bekezdésében foglalt munkáltatói intézkedés esetén kizárólag abban az esetben terjeszthet elő kifogást, amennyiben a munkáltató a tájékoztatást elmulasztja. Az ilyen kifogás azonban az intézkedés végrehajtását – a csődeljárás, illetve felszámolási eljárás céljaira és sajátosságaira tekintettel – nem érinti.
 
 24. § (1) A munkáltató köteles biztosítani annak lehetőségét, hogy a szakszervezet az általa szükségesnek tartott információkat, felhívásokat, valamint a tevékenységével kapcsolatos adatokat a munkáltatónál szokásos, vagy más megfelelő módon közzétegye.
 
@@ -626,7 +628,7 @@ tekintetében.
 - c) legalább félévente a bérek, keresetek alakulásáról és a bérkifizetéssel összefüggő likviditásról, a foglalkoztatás jellemzőiről, a munkaidő felhasználásáról, a munkafeltételek jellemzőiről;
 - d) legalább félévente a munkáltatónál távmunkát végző munkavállalók számáról és munkakörük megnevezéséről.
 
-(5)
+(5) Amennyiben a munkáltató saját magával szemben csődeljárás, vagy felszámolási eljárás lefolytatását kéri, úgy erről az üzemi tanácsot – legkésőbb a kérelem benyújtásával egyidejűleg – csak tájékoztatni kell.
 
 66. § (1) Az üzemi tanács a munkáltató tervezett intézkedésével [65. § (1)—(3) bekezdés] kapcsolatos álláspontját tizenöt napon belül közli a munkáltatóval. Ennek elmulasztása esetén úgy kell tekinteni, mintha az intézkedéssel egyetértene.
 
@@ -914,6 +916,10 @@ továbbá – a megállapodás érdekében – köteles konzultációt kezdemén
 (4) A jogutódlásra vonatkozó rendelkezésekből eredő – e § szerinti – kötelezettségek a jogutód nélkül megszűnő munkáltató esetén a munkáltató felszámolóját, illetve végelszámolóját terhelik.
 
 (5) Ha a munkáltató eljárása során megsérti az üzemi tanács vagy a szakszervezet jogait, az üzemi tanács, illetve a szakszervezet ennek megállapítása iránt bírósághoz fordulhat.
+
+85/C. § (1) Felszámolási eljárásban a 40/A. §, a 85/A. § (2)–(6) bekezdése, valamint a 89. § (4) bekezdése nem alkalmazandó.
+
+(2) Amennyiben a felszámolás keretén belül a felszámolási vagyon értékesítése során olyan átruházás történik, amely megfelel a 85/A. § (1) bekezdés b) pontjában foglaltaknak, úgy a 85/B. § (1) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a felszámolás alatt álló átadó munkáltató és az átvevő munkáltató a 85/B. § (1) bekezdés a)–c) pontjában meghatározott tájékoztatást a felszámolási eljárás sajátosságaira tekintettel az átruházás előtt megfelelő időben köteles megadni a munkáltatónál képviselettel rendelkező szakszervezet, szakszervezet hiányában az üzemi tanács, üzemi tanács hiányában a nem szervezett munkavállalók képviselőiből létrehozott bizottság részére.
 
 ### IV. Fejezet — A munkaviszony megszűnése és megszüntetése
 
@@ -3046,6 +3052,8 @@ időpontjában.
 (7) A XI. fejezetnek a Módtv. 15–20. §-ával módosított rendelkezéseit első alkalommal a 2011. december 1-jét követően létesített munkaviszonyokra kell alkalmazni. E rendelkezések végrehajtása érdekében a kollektív szerződéseket legkésőbb 2011. december 31-ig felül kell vizsgálni.
 
 (8) A Módtv.-vel megállapított XII/A. fejezet rendelkezései nem érintik a Módtv. hatálybalépésének időpontjában az iskolaszövetkezet és tagja között fennálló munkaszerződéseket, valamint e szerződések alapján a harmadik személynél történő munkavégzést.
+
+211/A. § E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű gazdálkodó szervezetek csődeljárásának és felszámolásának különleges szabályairól és az azzal összefüggő törvénymódosításokról szóló törvénnyel megállapított rendelkezéseit a hatálybalépést követően kezdeményezett csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
 
 212. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
