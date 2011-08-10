@@ -525,7 +525,7 @@ Ptk.64. § Az egyesülési jog alapján létrehozott társadalmi szervezetekre e
 
 Ptk.65. § (1) A köztestület önkormányzattal és nyilvántartott tagsággal rendelkező szervezet, amelynek létrehozását törvény rendeli el. A köztestület a tagságához, illetőleg a tagsága által végzett tevékenységhez kapcsolódó közfeladatot lát el. A köztestület jogi személy.
 
-(2) Köztestület különösen a Magyar Tudományos Akadémia, a gazdasági, illetve a szakmai kamara.
+(2) Köztestület különösen a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, a gazdasági, illetve a szakmai kamara.
 
 (3) Törvény meghatározhat olyan közfeladatot, amelyet a köztestület köteles ellátni. A köztestület a közfeladat ellátásához szükséges — törvényben meghatározott — jogosítványokkal rendelkezik, és ezeket önigazgatása útján érvényesíti.
 
