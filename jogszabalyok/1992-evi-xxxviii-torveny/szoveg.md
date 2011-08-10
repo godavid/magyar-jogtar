@@ -67,7 +67,7 @@ Az Országgyűlés annak érdekében, hogy az államháztartási rendszer újras
   - fc) a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. és 9. §-ában foglaltak szerinti közös fenntartás, egyes alapítói jogok közös gyakorlása esetén a társulási megállapodásban megjelölt – ennek hiánya esetén a költségvetési szerv székhelye szerinti – helyi önkormányzat polgármestere, főpolgármestere, megyei közgyűlésének elnöke,
 - g) helyi kisebbségi önkormányzati költségvetési szerv irányító szervének vezetője: a helyi kisebbségi önkormányzati testület elnöke,
 - h) országos kisebbségi önkormányzati költségvetési szerv irányító szervének vezetője: az országos kisebbségi önkormányzat közgyűlésének elnöke,
-- i) Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv: az államháztartás központi szintjébe tartozó költségvetési szervek az Országgyűlés, a Köztársasági Elnökség, az Alkotmánybíróság, az Országgyűlési Biztosok Hivatala, az Állami Számvevőszék, a Bíróságok, a Magyar Köztársaság Ügyészsége, a Gazdasági Versenyhivatal és a Magyar Tudományos Akadémia fejezetekhez tartozó költségvetési szervek kivételével,
+- i) Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv: az államháztartás központi szintjébe tartozó költségvetési szervek az Országgyűlés, a Köztársasági Elnökség, az Alkotmánybíróság, az Országgyűlési Biztosok Hivatala, az Állami Számvevőszék, a Bíróságok, a Magyar Köztársaság Ügyészsége, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia fejezetekhez tartozó költségvetési szervek kivételével,
 - j) Kormány irányítása alá tartozó fejezet: a központi költségvetés fejezete az i) pontban nevesített fejezetek kivételével,
 - k) előirányzat-módosítás: a megállapított kiadási, bevételi, támogatási kiemelt előirányzat, létszám-előirányzat növelése vagy csökkentése,
 - l) előirányzat-átcsoportosítás: az átcsoportosítást végrehajtó költségvetésének kiadási, bevételi, támogatási főösszegének változatlansága mellett, egyidejű előirányzat-csökkentéssel és -növeléssel végrehajtható módosítás.
@@ -503,7 +503,7 @@ látja el.
 (4) A kincstári körbe tartoznak
 
 - a) a központi költségvetés, a központi költségvetési szervek, a társadalombiztosítás pénzügyi alapjai, a társadalombiztosítás központi hivatali szervei és ezek igazgatási szervei (ez utóbbiak együtt a továbbiakban: társadalombiztosítási költségvetési szervek), a rendelkezésükbe utalt előirányzatok, az elkülönített állami pénzalapok,
-- b) a Magyar Tudományos Akadémia mint köztestület nem gazdasági társasági formában működtetett szervei.
+- b) a Magyar Tudományos Akadémia, valamint a Magyar Művészeti Akadémia, mint köztestület nem gazdasági társasági formában működtetett szervei.
 
 (5) A kincstár az államháztartásért felelős miniszter rendeletében meghatározott határnapig beérkező fizetési megbízást teljesíti az esedékességi időpontban. A fizetési megbízásnak a határnapon túli beérkezéséből fakadó késedelmes teljesítésének következményei a megbízót terhelik. A kincstár a jogszabályi előírásoknak nem megfelelő megbízások és rendelkezések teljesítését a megbízás, rendelkezés kezdeményezőjének értesítése mellett visszautasítja.
 
@@ -698,6 +698,8 @@ látja el.
 19. § (1) A központi költségvetés fejezetekre tagozódik. A költségvetési törvényben szereplő — a törvényi előírások figyelembevételével meghatározott — fejezetek költségvetési fejezetrendet képeznek. A költségvetési fejezet a költségvetési tervezés, végrehajtás és beszámolás szempontjából önállóan felügyelt, irányított szervek és előirányzatok összessége.
 
 (2) A központi költségvetés önálló fejezetként tartalmazza a Magyar Tudományos Akadémia, mint köztestület által — nem gazdasági társaságként — működtetett szervezetek költségvetését.
+
+(3) A központi költségvetés önálló fejezetként tartalmazza a Magyar Művészeti Akadémia mint köztestület által – nem gazdasági társaságként – működtetett szervezetek költségvetését.
 
 20. § (1) A költségvetési fejezetek költségvetési címekre, alcímekre (a továbbiakban együtt: költségvetési cím) tagozódnak. A költségvetési cím szervezeti és szabályozási szempontból összetartozó, tovább részletezett előirányzatok összessége.
 
