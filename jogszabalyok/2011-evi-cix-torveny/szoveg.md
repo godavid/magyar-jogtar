@@ -301,38 +301,8 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 #### 12. Módosuló rendelkezések
 
-31. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 65. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Köztestület különösen a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, a gazdasági, illetve a szakmai kamara.”
-
-32. § (1) Az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 2/A. § (3) bekezdésének i) pontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában]
-
-„i) Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv: az államháztartás központi szintjébe tartozó költségvetési szervek az Országgyűlés, a Köztársasági Elnökség, az Alkotmánybíróság, az Országgyűlési Biztosok Hivatala, az Állami Számvevőszék, a Bíróságok, a Magyar Köztársaság Ügyészsége, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia fejezetekhez tartozó költségvetési szervek kivételével,”
-
-(2) Az Áht. 18/B. § (4) bekezdésének b) pontja helyébe a következő rendelkezés lép:
-
-[A kincstári körbe tartoznak]
-
-„b) a Magyar Tudományos Akadémia, valamint a Magyar Művészeti Akadémia, mint köztestület nem gazdasági társasági formában működtetett szervei.”
-
-(3) Az Áht. 19. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A központi költségvetés önálló fejezetként tartalmazza a Magyar Művészeti Akadémia mint köztestület által – nem gazdasági társaságként – működtetett szervezetek költségvetését.”
+31–32. §
 
 33. §
 
-34. § Az állami vagyonról szóló 2007. évi CVI. törvény 36. § (2) bekezdésének e) pontja helyébe a következő rendelkezés lép:
-
-[Állami vagyon tulajdonjoga ingyenesen átruházható]
-
-„e) külön törvény szerinti kiemelkedően közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,”
-
-35. § (1) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktsz. tv.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Törvény eltérő rendelkezése hiányában a Köztársasági Elnök Hivatala, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az országgyűlési biztos hivatala, az Állami Számvevőszék, a Nemzeti Média- és Hírközlési Hatóság Hivatala, a Gazdasági Versenyhivatal, a Pénzügyi Szervezetek Állami Felügyelete, a Magyar Tudományos Akadémia Titkársága, a Magyar Művészeti Akadémia Titkársága és a Közbeszerzések Tanácsa köztisztviselői és ügykezelői közszolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni azzal, hogy a Köztársasági Elnök Hivatala, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az országgyűlési biztos hivatala, az Állami Számvevőszék, a Gazdasági Versenyhivatal, az Állambiztonsági Szolgálatok Történeti Levéltára és a Pénzügyi Szervezetek Állami Felügyelete esetében a próbaidőre, a pályázatra és a tartalékállományra vonatkozó rendelkezéseket e szervek szervezeti és működési szabályzatában (ügyrendjében) meghatározott munkakörök esetében, az ott meghatározott eljárási rend szerint kell alkalmazni.”
-
-(2) A Ktsz. tv. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzések Tanácsánál és az Állambiztonsági Szolgálatok Történeti Levéltáránál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.”
+34–35. §
