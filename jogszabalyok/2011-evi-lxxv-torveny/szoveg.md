@@ -42,11 +42,69 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 #### 2. Állami kezességvállalás
 
-2. §
+2. § (1) Ha a pénzügyi intézmény a kezességvállalás iránt igényt jelentett be, a Magyar Állam
+
+- a) készfizető kezesként felel a gyűjtőszámlahitelből eredő tartozások 100%-áért a rögzített árfolyam alkalmazási időszaka alatt,
+- b) egyszerű kezesként felel a gyűjtőszámlahitelből eredő, legfeljebb a rögzített árfolyam alkalmazási időszaka záró időpontjában fennálló tartozások 25%-áért a rögzített árfolyam alkalmazási időszaka záró időpontját követően.
+
+(2) A kezességvállalásért a gyűjtőszámlahitelt nyújtó pénzügyi intézmény a Magyar Állam részére kezességvállalási díjat fizet. A pénzügyi intézmény a kezességvállalási díjat semmilyen módon nem háríthatja át a hiteladósra. Az Európai Unió állami támogatási szabályainak való megfelelés érdekében a kezességvállalási díj támogatástartalmat nem tartalmaz, mértékét, számításának és megfizetésének módját kormányrendelet határozza meg.
+
+(3) A kezesség érvényesítésére a pénzügyi intézmény akkor jogosult, ha
+
+- a) a készfizető kezesség esetén a rögzített árfolyam alkalmazási időszaka alatt a pénzügyi intézmény a hiteladós 90 napot meghaladó fizetési késedelme vagy a fedezeti ingatlannal szemben megindított végrehajtás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést felmondta,
+- b) az egyszerű kezesség esetén a rögzített árfolyam alkalmazási időszaka záró időpontját követően a pénzügyi intézmény a hiteladós 90 napot meghaladó fizetési késedelme vagy a fedezeti ingatlannal szemben megindított végrehajtás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést felmondta és a követelés nem térült meg bírósági végrehajtás útján vagy a zálogtárgy bírósági végrehajtáson kívüli értékesítésével, és ezen eljárások a követelés behajthatatlansága miatt fejeződtek be, vagy kerültek felfüggesztésre.
+
+(4) A pénzügyi intézmény a kezesség érvényesítését a jogosultsága megnyílásától számított 180 napon belül kezdeményezheti az állami adóhatóságnál.
+
+(5) Ha a kezesség érvényesítése vagy a tartozás behajtása során az állami adóhatóság megállapítja, hogy a természetes személy a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötése során hamisított, valótlan tartalmú irattal, nyilatkozattal megtévesztette a pénzügyi intézményt, akkor a természetes személynek a kezesség érvényesítésekor kifizetett összeg 150%-át kell megfizetnie.
 
 #### 3. A gyűjtőszámlahitel részletes szabályai
 
-3–5. §
+3. § (1) Gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötését a hiteladós 2011. év december hónap 31. napjáig írásban kezdeményezheti a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézménynél, ha legkésőbb a gyűjtőszámlahitel első folyósításáig megfelel a következő feltételeknek:
+
+- a) a hiteladós devizakölcsönből származó fizetési késedelme nem haladja meg 90 napot,
+- b) a hiteladós nem áll fizetéskönnyítő program hatálya alatt,
+- c) a devizakölcsön végső lejárata 2014. december 31. napját követő időpont,
+- d) a fedezetül szolgáló, zálogjoggal terhelt lakóingatlan pénzügyi intézmény által meghatározott forgalmi értéke a fedezetként történő elfogadáskor nem haladta meg a 30 millió forintot,
+- e) amennyiben a devizakölcsön fedezetéül szolgáló lakóingatlant több pénzügyi intézmény által alapított jelzálogjog terhel, e zálogjog által biztosított valamennyi követelés tekintetében nem áll fenn 90 napot meghaladó késedelem, és
+- f) a devizakölcsön fedezetéül szolgáló lakóingatlanra vezetett végrehajtás nincs folyamatban.
+
+(2) A rögzített árfolyam alkalmazási időszaka alatt a hiteladós nem állhat más állami fizetéskönnyítő program hatálya alatt.
+
+(3) A hiteladós jogosult valamennyi, e törvény feltételeinek megfelelő devizakölcsönéhez kapcsolódóan gyűjtőszámlahitelre vonatkozó kérelmet benyújtani.
+
+(4) A pénzügyi intézmény gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést köt a hiteladóssal, ha a hiteladós kezdeményezi annak megkötését és megfelel az e törvényben meghatározott feltételeknek.
+
+4. § (1) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésnek a következő feltételeknek kell megfelelnie:
+
+- a) a rögzített árfolyam alkalmazási időszakának záró időpontjáig a pénzügyi intézmény a hiteladós devizakölcsönből eredő bármely fizetési kötelezettségének teljesítése esetén, annak tényleges elszámolásakor a pénzügyi intézmény által alkalmazott törlesztési árfolyam és a rögzített árfolyam közötti különbség forint összegét, a teljesítés elszámolásával egyidejűleg a gyűjtőszámlahitelből történő folyósítással biztosítja,
+- b) a pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésből eredő fizetési kötelezettséget a hiteladóssal szemben a rögzített árfolyam alkalmazási időszaka záró időpontjáig nem állapít meg, ezt követően a záró időpontban fennálló gyűjtőszámlahitel-tartozás alapulvételével az annuitás szabályai szerint havi törlesztési kötelezettséget állapít meg,
+- c) a gyűjtőszámlahitel háromhavonta tőkésíthető, három hónapos kamatperiódusra meghatározott ügyleti kamata nem haladhatja meg
+  - ca) a rögzített árfolyam alkalmazási időszaka záró időpontjáig a kamatperiódus kezdő időpontjával érintett hónap első napján érvényes 3 havi BUBOR mindenkor aktuális mértékét,
+  - cb) a rögzített árfolyam alkalmazási időszaka záró időpontját követően a futamidő végéig a pénzügyi intézmény által a kapcsolódó devizakölcsön céljával azonos célra nyújtott forinthitelre meghatározott piaci kamat mértékét,
+- d) a hitelbírálat során, valamint a szerződésszerű teljesítése esetén az ügyleti kamaton kívül egyéb járulék és díj jogcímén fizetési kötelezettséget a pénzügyi intézmény a hiteladóssal szemben nem érvényesíthet,
+- e) amennyiben a hiteladósnak a rögzített árfolyam alkalmazási időszaka kezdő időpontjában a devizakölcsönből eredően 90 napot meg nem haladó késedelmes tartozása áll fenn, e tartozás teljes összegének – a kezdő időpontban érvényes hitelezői törlesztési árfolyam alkalmazásával megállapított – forint ellenértékét a hiteladós a kezdő időpontban a gyűjtőszámlahitel terhére végrehajtott folyósítással megfizeti.
+
+(2) A devizakölcsön-szerződésnek a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötésére tekintettel történő módosításáért a pénzügyi intézmény a hiteladóssal szemben semmilyen költséget nem érvényesíthet.
+
+(3) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötésével egyidejűleg a felek a devizakölcsönre vonatkozó kölcsönszerződést írásban úgy módosítják, hogy
+
+- a) hiteladós a rögzített árfolyam alkalmazási időszaka alatt a törlesztési kötelezettségét a rögzített árfolyam alkalmazásával megállapított törlesztőösszeg erejéig saját erőből, az azt meghaladó törlesztési kötelezettségét a gyűjtőszámlahitel terhére folyósított kölcsönből fizeti,
+- b) amennyiben a rögzített árfolyam alkalmazási időszaka alatt a pénzügyi intézmény által alkalmazott tényleges törlesztési árfolyam a rögzített árfolyamnál alacsonyabb, a hiteladós akkor is a rögzített árfolyamon teljesíti a havi törlesztési kötelezettségét azzal, hogy a többletbefizetést a gyűjtőszámlahitel törlesztéseként kell elszámolni,
+- c) amennyiben a hiteladósnak a gyűjtőszámlahitelből eredően sem tőke-, sem kamattartozása nem áll fenn, a rögzített árfolyam alkalmazási időszaka alatt a tényleges törlesztési árfolyam és a rögzített árfolyam közül az alacsonyabbat kell a devizakölcsön törlesztése során alkalmazni,
+- d) a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésben meghatározott súlyos szerződésszegés esetén a pénzügyi intézményt megillető felmondási jog a devizakölcsönre vonatkozó kölcsönszerződés pénzügyi intézmény általi felmondását is megalapozza.
+
+(4) A devizakölcsön fedezetéül szabályszerűen alapított lakóingatlant terhelő jelzálogjog – a zálogszerződés módosítása nélkül, az ingatlan-nyilvántartásba bejegyzett követelés és járulékai erejéig – kiterjed a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésből származó követelés biztosítására is. Ha a hitelkövetelés kötelezettje és a zálogtárgy tulajdonosa különböző személy, ez utóbbi kifejezett írásbeli hozzájárulását is be kell szerezni.
+
+(5) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés végső lejárata nem lehet korábbi, mint a devizakölcsön végső lejárata. A pénzügyi intézmény a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés futamidejét – a hiteladós életkorát is figyelembe véve – úgy határozza meg, hogy annak visszafizetése a devizakölcsön törlesztőrészletét is figyelembe véve aránytalanul magas havi törlesztési terhet a hiteladós számára ne jelentsen. Az aránytalanul magas havi törlesztési teher mértékét kormányrendelet határozza meg.
+
+(6) A gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésben meghatározott, e törvényben nem szabályozott feltételeket a futamidő alatt a felek szabadon módosíthatják, amely az állami kezességvállalás érvényességét nem érinti.
+
+5. § (1) Ha a hiteladós előtörlesztést teljesít, az előtörlesztett összeget – amennyiben a devizakölcsönből eredő tartozása a hiteladósnak még fennáll – a devizakölcsön előtörlesztéseként kell elszámolni. A pénzügyi intézmény a devizakölcsönre vonatkozó teljes előtörlesztést abban az esetben fogadja el, ha az előtörlesztett összeg a gyűjtőszámlahitelre vonatkozó hitelkeretszerződésből eredő tartozás teljes megfizetését is fedezi. A devizakölcsön részleges vagy teljes előtörlesztésére annak tényleges elszámolásakor a pénzügyi intézmény által alkalmazott törlesztési árfolyamon kerülhet sor.
+
+(2) A pénzügyi intézmény a devizakölcsön fedezetéül kikötött, ingatlanon alapított jelzálogjog törlésére vonatkozó engedélyt akkor adja ki a zálogkötelezettnek, ha a hiteladós a devizakölcsönből és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésből eredő tartozását maradéktalanul megfizette.
+
+(3) A pénzügyi intézmény devizakölcsönre és a hozzá kapcsolódó gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést kizárólag együtt mondhatja fel.
 
 #### 4. A lakáshitelek fedezetéül szolgáló lakóingatlanok kényszerértékesítésének rendje
 
@@ -95,7 +153,15 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 14. §
 
-15–16. §
+15. § A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény 3. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Jelzálog-hitelintézet jogosult a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvényben szabályozott gyűjtőszámlahitel nyújtására.”
+
+16. § A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 1. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
+
+(Nem kell alkalmazni e törvény rendelkezéseit)
+
+„h) olyan törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban meghatározott közérdeket szolgáló hitelre, amelyet korlátozott körben nyújtanak, és amely kamatmentes, vagy amelyre vonatkozó hitelkamat a piacon szokásos mértéknél alacsonyabb, vagy a piacon szokásos mértékű hitelkamat mellett a piacon szokásos feltételeknél a fogyasztó számára kedvezőbb; ideértve a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvényben meghatározott áthidaló kölcsönt, a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvényben meghatározott gyűjtőszámlahitelt, valamint a külön jogszabály szerint nyújtott hallgatói hitelt.”
 
 17. §
 
