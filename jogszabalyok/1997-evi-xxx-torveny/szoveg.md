@@ -41,7 +41,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (3) Amennyiben jelzáloghitel nyújtásához kapcsolódóan, azzal egyidejűleg jogszabályon alapuló állami készfizető kezességvállalás biztosítéka mellett további hitel nyújtása történik (a továbbiakban ezen hitelrész: kapcsolódó kölcsönrész), úgy az 5. § (1) bekezdésében, a 6. §-ban, a 7. §-ban és a 8. § (3)–(4) bekezdésében a jelzáloghitelre vonatkozó szabályokat a teljes kölcsönre kell alkalmazni azzal, hogy a kapcsolódó kölcsönrészre a fedezetül kikötött jelzálogjog nem terjedhet ki.
 
-(4)
+(4) Jelzálog-hitelintézet jogosult a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvényben szabályozott gyűjtőszámlahitel nyújtására.
 
 (5) A jelzálog-hitelintézet a (2) bekezdésben meghatározott pénzügyi, befektetési, illetve kiegészítő befektetési szolgáltatáson kívül üzletszerűen kizárólag ingatlanok forgalmi és hitelbiztosítéki értékének meghatározását végezheti.
 
