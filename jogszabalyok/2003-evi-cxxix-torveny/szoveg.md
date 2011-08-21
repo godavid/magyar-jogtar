@@ -408,7 +408,7 @@ Az Országgyűlés a közpénzek ésszerű felhasználása átláthatóságának
 29. § (1) E fejezet szerinti eljárást nem kell alkalmazni
 
 - a) a minősített adatot, illetőleg az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzésre, amelynek vonatkozásában az Országgyűlés illetékes bizottsága e törvény alkalmazását kizáró előzetes döntést hozott;
-- b) a védelem terén az ország alapvető biztonsági érdekeit érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk (fegyverek, lőszerek, hadianyagok) beszerzésére, illetőleg szolgáltatások megrendelésére, összhangban az Európai Közösséget létrehozó szerződés 296. cikkével;
+- b) a védelem terén kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk (fegyverek, lőszerek, hadianyagok) beszerzésére, szolgáltatások vagy építési beruházások megrendelésére, amelyek megrendelésére az e törvény alapján kiadott külön jogszabály szerint kell eljárni, valamint ha az ilyen tárgyú beszerzés az ország alapvető biztonsági érdekének védelme érdekében – összhangban az Európai Unió Működéséről szóló szerződés 346. cikkével – az e törvény alapján kiadott külön jogszabály alkalmazása alól is kivételt képez;
 - c) nemzetközi szerződésben, illetőleg nemzetközi egyetértési vagy együttműködési megállapodásban meghatározott külön eljárás alapján történő beszerzésre, ha a szerződés, illetőleg a megállapodás csapatok (katonai erők) állomásoztatására, átvonulására, alkalmazására vonatkozik, ideértve hadműveleti területre kihelyezésre (áthelyezésre) kerülő egységek esetében a kihelyezés (áthelyezés) megvalósításával összefüggő beszerzéseket is;
 - d) nemzetközi szerződésben meghatározott külön eljárás alapján történő beszerzésre, ha az Európai Unión kívüli állammal kötött szerződés projekt közös megvalósításával, illetőleg hasznosításával összefüggő beszerzésre vonatkozik;
 - e) nemzetközi szervezet által meghatározott külön eljárás alapján történő beszerzésre;
@@ -4188,7 +4188,7 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 - f) az építési beruházás esetében a közbeszerzési eljárásokban készítendő dokumentáció tartalmát;
 - g) a gyógyszerek és a gyógyászati segédeszközök közbeszerzésének – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – részletes szabályait;
 - h) a minősített adatot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályait;
-- i) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokat;
+- i) a védelem terén kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, szolgáltatások megrendelésére, valamint építési beruházásokra vonatkozó sajátos szabályokat;
 - j) a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes – e törvénytől az ilyen eljárások sajátossága miatt szükséges eltérő – szabályokat;
 - k) a 243. § h) pontjában meghatározott beszerzések sajátos szabályait;
 - l) a dinamikus beszerzési rendszerre vonatkozó szabályokat;
