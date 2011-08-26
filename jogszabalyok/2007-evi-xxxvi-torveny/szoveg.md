@@ -27,8 +27,9 @@ a szabálysértési jogsegélyről
 
 (4) E törvény alkalmazásában központi hatóság:
 
-- a) az eljárási jogsegély külföldi hatóság részére történő nyújtásával, valamint a külföldi hatóság eljárási jogsegély iránti megkeresésével kapcsolatban a legfőbb ügyész,
-- b) a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével, illetve átadásával kapcsolatban a szabálysértés szabályozásáért felelős miniszter rendeletében meghatározott szerv.
+- a) az eljárási jogsegély külföldi hatóság részére történő nyújtásával, valamint a külföldi hatóság eljárási jogsegély iránti megkeresésével kapcsolatban – a c) pontban foglaltak kivételével – a legfőbb ügyész,
+- b) a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével, valamint átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szerv, valamint
+- c) a közúti közlekedési nyilvántartás jármű nyilvántartásából történő automatizált adatkeresés esetén a központi közúti közlekedési nyilvántartó szerv.
 
 ### II. Fejezet — ÁLTALÁNOS ELJÁRÁSI ÉS KÖLTSÉGVISELÉSI SZABÁLYOK
 
@@ -179,6 +180,8 @@ a szabálysértési jogsegélyről
 
 (2) A központi közúti közlekedési nyilvántartó szerv a gépjármű üzembentartójának a nevét, születési helyét és idejét, anyja születési családi és utónevét, valamint lakcímét a megkeresés hozzá való megérkezésétől számított tizenöt napon belül megküldi a legfőbb ügyésznek, aki azt továbbítja a megkeresést előterjesztő külföldi hatósághoz.
 
+(3) A 2008/615/IB tanácsi határozaton, valamint a 2008/616/IB tanácsi határozaton alapuló automatizált keresés elrendelése esetén az Európai Unió más tagállamának kijelölt nemzeti kapcsolattartó pontja részére a központi hatóság biztosítja az (1) bekezdésben meghatározott adatokhoz elektronikus úton történő hozzáférést. E bekezdés alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
+
 ### 2. CÍM — KÜLFÖLDI HATÓSÁG MEGKERESÉSE ELJÁRÁSI JOGSEGÉLY IRÁNT
 
 20. § (1) Az eljárási jogsegély iránti kérelem kiterjedhet a tanú, a szakértő és az eljárás alá vont személy meghallgatására, okirat vagy a szabálysértési eljárás iratainak a kérelmező részére történő megküldésére, a szabálysértési eljárás iratainak a kézbesítésére, és a szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatás kérésére.
@@ -222,6 +225,8 @@ a szabálysértési jogsegélyről
 26. § (1) A szabálysértési hatóság, illetve a bíróság a szabálysértés elkövetése során használt gépjármű rendszámának és gyártmányának megküldésével jogsegély iránti kérelmet terjeszthet elő annak érdekében, hogy megállapítsa annak a személynek a nevét, születési helyét és idejét, anyja születési családi és utónevét, valamint lakcímét, aki a szabálysértési eljárás alapjául szolgáló cselekmény elkövetésekor a gépjármű üzembentartója volt.
 
 (2) Törvénnyel kihirdetett nemzetközi szerződés alapján az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében a szabálysértési hatóság, illetve a bíróság a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban a nemzetközi szerződés részes államainak a nemzetközi szerződés hatálya alá tartozó gépjárműadat-nyilvántartásaiban a nemzetközi szerződés által meghatározott automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a szabálysértési hatóságot, illetve a bíróságot.
+
+(3) A 2008/615/IB tanácsi határozat alapján az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban az Európai Unió más tagállamának gépjárműadat-nyilvántartásaiban automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
 
 ### IV. Fejezet — PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT VÉGREHAJTÁSÁNAK ÁTVÉTELE,ILLETVE ÁTADÁSA
 
@@ -325,6 +330,8 @@ a szabálysértési jogsegélyről
 (2) E törvény 19. § és 26. §-a a Schengeni Végrehajtó Bizottság 1999. április 28-án kelt, a közúti közlekedési szabályok megsértésével kapcsolatos eljárásokban folytatandó együttműködésről szóló megállapodásról szóló határozatának való megfelelést szolgálja.
 
 (3) E törvény IV. fejezete az Európai Unió tanácsának a kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló, 2005. február 24-i 2005/214/IB kerethatározatának, valamint a Schengeni Végrehajtó Bizottság 1999. április 28-án kelt, a közúti közlekedési szabályok megsértésével kapcsolatos eljárásokban folytatandó együttműködésről szóló megállapodásról szóló határozatának való megfelelést szolgálja.
+
+(4) E törvény 3. § (4) bekezdése, 19. § (3) bekezdése és 26. § (3) bekezdése a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. cikke, és az annak végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozat 15. cikke, valamint az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozatnak (2009. szeptember 21.) való megfelelést szolgálja.
 
 ### Melléklet a 2007. évi XXXVI. törvényhez
 

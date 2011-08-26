@@ -611,6 +611,12 @@ törölni kell.
 
 (3) Az elszállítás és a kerékbilincs alkalmazásának költsége a jármű tulajdonosát, vagy az üzemben tartóját, vagy a használóját terheli. A jármű elszállítása vagy a kerékbilincs alkalmazása során a járműhasználat akadályoztatása folytán keletkezett kárért a rendőrséget nem terheli kártalanítási kötelezettség.
 
+45/A. § (1) A 44. § (1) bekezdés b) pontjában és a 45. §-ban meghatározott közlekedésrendészeti intézkedés céljából a rendőr – az Európai Unió kötelező jogi aktusa alapján – a közúti közlekedési nyilvántartásról szóló törvény alapján kijelölt nemzeti kapcsolattartó pont (a továbbiakban: nemzeti kapcsolattartó pont) útján a gépjármű, annak tulajdonosa, valamint üzembentartója adataira vonatkozóan az Európai Unió más tagállamának gépjárműadat-nyilvántartásaiban a felhasználási cél megjelölésével automatizált keresést végeztethet. A nemzeti kapcsolattartó pont a keresés eredményéről haladéktalanul tájékoztatja a rendőrt.
+
+(2) A rendőrség az (1) bekezdés alapján átadott személyes adatokat kizárólag az (1) bekezdésben meghatározott célból kezelheti. Bármilyen más célból való felhasználás csak az átadással érintett adatállományt kezelő tagállam előzetes engedélyével lehetséges.
+
+(3) E § alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
+
 ### Személy-és létesítménybiztosítási intézkedés
 
 46. § (1) A rendőrség, valamint a rendőr a védett személy [1. § (2) bek. g) pont] biztonsága érdekében a 13. és a 30. §-ban meghatározottakon túlmenően
