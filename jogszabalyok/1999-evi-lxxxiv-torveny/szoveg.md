@@ -29,6 +29,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 11. Származás-ellenőrzési nyilvántartás: a külföldről belföldi forgalomba helyezés céljából behozott használt járművek és azok tulajdonosai (üzembentartói) adatainak, valamint a jármű származását igazoló okmányok adatainak és a származás-ellenőrzés eredményének nyilvántartása.
 - 12. Előzetes eredetiségvizsgálati nyilvántartás: az előzetes eredetiségvizsgálat során a vizsgált jármű megállapított műszaki és azonosító adatait, rögzített képi adatait, a kérelmező nevét és lakcímét, a vizsgálat eredményét, valamint a vizsgáló jogosultságazonosítóját tartalmazó nyilvántartás.
 - 13. Történeti állomány: a járműnyilvántartás történeti állománya tartalmazza a járműnyilvántartás hatálya alá tartozó járműtulajdonos (üzembentartó) és a jármű minden eddigi, e törvény hatálya alá tartozó adatát és adatváltozását.
+- 14. Automatizált keresés: egy másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely eljárás során a válasz is teljesen automatizált módon érkezik.
 
 ### II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI NYILVÁNTARTÁS SZERVEZETE ÉS AZ ADATSZOLGÁLTATÁSI HATÁSKÖRÖK
 
@@ -265,7 +266,7 @@ igényelhető.
 - f) az adóhatóság az adóigazgatási eljáráshoz a 8. § a), b), i) és k) pontjaiban, a 9. §-ának (1) bekezdésében, a (2) bekezdés a)–c) pontjaiban és a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
 - g) a vámhatóság a vámigazgatási eljáráshoz a 9. §-ban és a 9/A. § (1) bekezdésében megjelölt adatokat;
 - h) a közterület-felügyelet a 8/A. § a), d), f)–i) és k) pontjaiban, a 9. § (1) bekezdés a), b), e), f) pontjaiban, a 9. § (2) bekezdés a), b), d) és e) pontjaiban, valamint a 9. § (4) bekezdésében megjelölt adatokat;
-- i) a nemzetközi szerződésben vagy nemzetközi kötelezettségvállalásban megnevezett szervezet az abban megjelölt adatokat;
+- i) személyes adatok esetén törvénnyel kihirdetett nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusának végrehajtását vagy átültetését biztosító törvényben megnevezett külföldi szervezet az e törvényekben meghatározott célból az abban megjelölt adatokat;
 - j) nemzetközi bűnüldözési szervezet a Nemzetközi Bűnügyi Együttműködési Központ útján a nemzetközi szerződésből vagy nemzetközi kötelezettségvállalásból fakadó feladat teljesítése során az i) pontban megjelölt adatokat;
 - k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 - l) a gépjármű-felelősségbiztosítást ellátó biztosító a kárrendezési eljáráshoz a 9. § (1) bekezdésének a), b), e) és f), a (2) bekezdés a), b) és d) pontjaiban, továbbá a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
@@ -328,6 +329,25 @@ igényelhető.
 
 27. § A kérelemre indult adatszolgáltatási eljárásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért igazgatási szolgáltatási díjat kell fizetni.
 
+### Automatizált keresés
+
+27/A. § (1) Az Európai Unió kötelező jogi aktusa alapján a bűnmegelőzés, felderítés, nyomozás, büntető, vagy szabálysértési eljárás lefolytatása, valamint a közrend és a közbiztonság fenntartása céljából történő adatigénylés teljesítéséhez a nyilvántartó szerv mint nemzeti kapcsolattartó pont biztosítja az Európai Unió más tagállamának kijelölt nemzeti kapcsolattartó pontja részére a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a), b), d) és e) pontjában meghatározott adatokhoz elektronikus úton történő automatizált hozzáférést.
+
+(2) A nyilvántartó a (3) bekezdésben meghatározott elrendelő hatóságok által egyedi ügyben elrendelt adatlekérdezés esetén – az elrendelő hatóság által meghatározott járműre, tulajdonosára vagy üzemben tartójára vonatkozó adatok tekintetében – az Európai Gépjármű és Vezetői Engedély Információs Rendszer (EUCARIS) szoftveralkalmazásának igénybevételével, közvetlen hozzáférés útján történő automatizált keresést végez az Európai Unió más tagállama nemzeti gépjármű-nyilvántartási adatállományaiban.
+
+(3) A (2) bekezdés szerinti automatizált keresés elrendelésére feljogosított hatóságok:
+
+- a) a közrend és a közbiztonság fenntartásával összefüggő feladatai ellátása, valamint a bűncselekmények megelőzése céljából a rendőrség,
+- b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési eljárások lefolytatása céljából az e szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
+- c) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a nyomozó hatóság, az ügyészség és a bíróság, valamint
+- d) a hatáskörébe tartozó bűnüldözési és felderítési feladatok ellátása céljából a külön törvényben meghatározott szervek.
+
+(4) A közvetlen adathozzáférés útján történő automatizált keresés csak a teljes forgalmi rendszám vagy a teljes alvázszám megadását követően teljesíthető.
+
+(5) A nyilvántartó az automatizált keresés eredményéről az elrendelő hatóságot haladéktalanul értesíti.
+
+(6) E § alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
+
 ### IV. Fejezet — ADATVÉDELEM
 
 28. § A nyilvántartás számára adatot szolgáltató felelősségi körében gondoskodik a továbbított adatok helyességéről, időszerűségéről, valamint utólag értesíti a nyilvántartót a később felfedett adathiba tényéről és a rendelkezésére álló helyes adatról.
@@ -351,7 +371,30 @@ igényelhető.
 
 (4) Az adattovábbítási nyilvántartásba – ha törvény eltérően nem rendelkezik – feladatkörében betekinthet, abból adatot kérhet az adatvédelmi biztos, a közlekedésrendészetért felelős miniszter, az általa ellenőrzésre kijelölt köztisztviselő, a nyomozó hatóság és törvényben feljogosított szerv.
 
-(5) A 2007. évi CXII. törvénnyel kihirdetett, a Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött Szerződés (Prümi Szerződés) alapján történő adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára nézve a Prümi Szerződés 39. Cikkét kell alkalmazni.
+(5) Az e törvény 27/A. §-a alapján teljesített adatátvételről és adattovábbításról, a találatról és annak hiányáról nyilvántartást kell vezetni, amely tartalmazza:
+
+- a) az automatizált keresést kezdeményező együttműködő tagállami szerv megnevezését,
+- b) az automatizált keresést elrendelő, a 27/A. § (3) bekezdésében meghatározott szerv megnevezését,
+- c) az automatizált keresést végrehajtó, erre felhatalmazott személy azonosítására alkalmas megjelölést,
+- d) az automatizált keresés célját,
+- e) az automatizált keresés időpontját,
+- f) az automatizált kereséssel érintett adatokat,
+- g) az automatizált keresés eredményét.
+
+(6) Az (5) bekezdés alapján vezetett adattovábbítási nyilvántartást az adattovábbítástól számított két évig meg kell őrizni.
+
+(7) Az (5) bekezdésben szereplő adatokat az adatvédelmi biztos kérésére haladéktalanul közölni kell.
+
+(8) Az adatvédelmi biztos az ellenőrzések eredményét további ellenőrzés céljából 18 hónapig megőrzi, amit ezen időtartam lejárta után haladéktalanul töröl.
+
+32/A. § (1) Az átvett személyes adatok kizárólag az adatok átadásának az Európai Unió kötelező jogi aktusában meghatározott célból kezelhetők. Bármilyen más célból való felhasználás csak az eredeti adatállományt kezelő tagállam előzetes engedélyével lehetséges.
+
+(2) A 27/A. § alapján átvett adatokat a nyilvántartó szerv kizárólag az automatizált keresési eljárásokra való automatizált válaszadás vagy a 32. § (5) bekezdésében meghatározott adattovábbítási nyilvántartásba vétel céljából használhatja fel. Az átadott adatokat a nyilvántartó szervnek az automatizált keresésre való automatizált válaszadást követően haladéktalanul törölni kell, ha nincs szükség azok további – a 32. § (5) bekezdésében meghatározott adattovábbítási nyilvántartásba vétel célját szolgáló – adatkezeléséhez.
+
+(3) Ha a személyes adatok az adatkérő szerv kifejezett kérése hiányában kerültek átadásra, az átvevő szervnek haladéktalanul ellenőriznie kell, hogy – az átvevő szerv jogosultságának fennállása esetén – az átadás céljára tekintettel szükséges-e azok felhasználása. A jogszerűen átadott és átvett adatokat törölni kell:
+
+- a) ha az adatok további felhasználása – az átadás céljára tekintettel – nem vagy már nem szükséges,
+- b) az átadó tagállam nemzeti jogában az adatok megőrzése tekintetében megállapított maximális időtartam lejáratát követően, ha az átadó szerv a nyilvántartó szervet az adatkezelés maximális időtartamáról az adatok átadásakor tájékoztatta.
 
 ### V. Fejezet — VEGYES RENDELKEZÉSEK
 
@@ -404,7 +447,7 @@ igényelhető.
 
 (5) A nyilvántartásba és a vizsgálat eredményét igazoló okiratba a jogszabályban meghatározott feladatainak ellátása érdekében a rendőrhatóság betekinthet.
 
-### VI. Fejezet — ÁTMENETI, ZÁRÓ ÉS FELHATALMAZÓ RENDELKEZÉSEK
+### VI. Fejezet — ÁTMENETI, ZÁRÓ, FELHATALMAZÓ RENDELKEZÉSEK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
 35. § (1) E törvény a (2)–(3) bekezdésben foglaltak kivételével 2000. január 1-jén lép hatályba.
 
@@ -434,3 +477,5 @@ igényelhető.
 - a) a közlekedésrendészetért felelős miniszterrel egyetértésben a nyilvántartás, az okmánytár működtetése és az adatszolgáltatás részletes szabályait;
 - b) a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a nyilvántartásból való adatszolgáltatási díj fizetésére kötelezettek körét, a fizetési kötelezettség mértékét, beszedésének módját, a kedvezmények, mentességek körét;
 - c) a közlekedésrendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a közlekedési igazgatási hatósági eljárások díjait, mértékét, megfizetésének módját és feltételeit.
+
+43. § E törvény 19. § (1) bekezdés i) pontja, 27/A. §-a, 32. § (5)–(8) bekezdése és a 32/A. §-a a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozatnak, valamint e határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és e megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozatnak, valamint az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozatnak (2009. szeptember 21.) való megfelelést szolgálja.

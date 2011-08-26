@@ -936,7 +936,10 @@ továbbítja.
 
 ### Automatikus találati adathozzáférés
 
-85. § (1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen (a továbbiakban: Prümi Szerződés) alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az együttműködő tagállamának kijelölt nemzeti kapcsolattartó pontja részére az ujj- és tenyérnyomat, valamint a DNS-profil elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.
+85. § (1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen, valamint az Európai Unió kötelező jogi aktusán alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az Európai Unió más tagállamának, valamint az Európai Unió kötelező jogi aktusában meghatározott más állam (a továbbiakban együtt: együttműködő tagállam) kijelölt nemzeti kapcsolattartó pontja részére
+
+- a) bűnmegelőzés és büntetőeljárás lefolytatása céljából az ujj- és tenyérnyomat, valamint
+- b) büntetőeljárás lefolytatása céljából a DNS-profil elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.
 
 (2) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil megegyezik az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az együttműködő tagállama nemzeti kapcsolattartó pontja részére ennek tényét, valamint az ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot automatikusan megküldi.
 
@@ -1004,6 +1007,20 @@ továbbítja.
 - e) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
 (2) Az Európai Unió más tagállama számára a tagállami ítéletek nyilvántartásából történő adattovábbításról az (1) bekezdés a)–c) pontja szerinti szervek igényelhetnek adatot.
+
+91/A. § (1) A szakértői nyilvántartó szerv a 85. § alapján teljesített automatikus találati adathozzáférésről az adathozzáférés jogszerűségének ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza:
+
+- a) az automatikus találati adathozzáférést kezdeményező együttműködő tagállami szerv megnevezését,
+- b) az automatikus találati adathozzáférést elrendelő, a 85. § (4) bekezdésében meghatározott szerv megnevezését,
+- c) az automatikus találati adathozzáférést végrehajtó, erre felhatalmazott személy azonosítására alkalmas megjelölést,
+- d) az automatikus találati adathozzáférés célját,
+- e) az automatikus találati adathozzáférés időpontját,
+- f) az automatikus találati adathozzáféréssel érintett adatokat,
+- g) az automatikus találati adathozzáférés eredményét.
+
+(2) Az (1) bekezdésben meghatározott adatokat a szakértői nyilvántartó szerv a keletkezésüktől számított két évig kezeli, és azokat az adatvédelmi biztossal – kérésére – haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított négy héten belül közli.
+
+(3) Az adatvédelmi biztos az (1) bekezdésben meghatározott nyilvántartással összefüggő ellenőrzése eredményét 18 hónapig megőrzi, ezen időtartam lejártát követően haladéktalanul törli.
 
 ### X. Fejezet — MINTAVÉTEL RENDJE
 
@@ -1089,6 +1106,8 @@ fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint meg
 - a) a Tanács 2008/977/IB kerethatározata a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről,
 - b) a Tanács 2009/315/IB kerethatározata a bűnügyi nyilvántartásból származó információk tagállamok közötti cseréjének megszervezéséről és azok tartalmáról,
 - c) az Európai Parlament és a Tanács 95/46/EK irányelve a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról.
+- d) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 2–11. cikkei, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB határozat végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozat 2–14. cikkei,
+- e) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozat (2009. szeptember 21.).
 
 #### 99. §
 

@@ -101,6 +101,10 @@ Az Országgyűlés a személykörözés és a tárgykörözés szabályainak, va
 
 (6) A Rendőrség a sértetti kör megállapítására, tanú felkutatására, illetve a bűncselekmény tényállásának tisztázása érdekében az (1) bekezdés d) pontjában meghatározott intézkedést is foganatosíthatja.
 
+(7) A rendőrség a 2008/615/IB tanácsi határozata alapján a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban az Európai Unió más tagállamának gépjárműadat-nyilvántartásaiban bűnüldözés és bűnmegelőzés, valamint a közrend és a közbiztonság fenntartása céljából automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a rendőrséget. E bekezdés alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
+
+(8) A rendőrség a (7) bekezdés alapján átvett személyes adatokat kizárólag az adatok átvételének az (1) bekezdés szerint meghatározott célja érdekében kezelheti. Bármilyen más célból való felhasználás csak az állományt kezelő tagállam előzetes engedélyével lehetséges. Ilyen engedély abban az esetben adható, ha az egyéb célokat szolgáló adatkezelés az adatátadással érintett adatállományt kezelő tagállam nemzeti joga szerint megengedett.
+
 12/A. § (1) A Rendőrség a más törvényben meghatározott eseteken kívül körözését rendelheti, illetve – eltűnt személy esetén – rendeli el
 
 - a) a tartózkodási hely megállapítása érdekében annak az ismeretlen helyen lévő személynek, akinek eltűnését a Rendőrségen bejelentették,
@@ -316,7 +320,9 @@ részére.
 
 szabályait.
 
-40–43. §
+40. § E törvény 12. § (7) és (8) bekezdése a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. cikke, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozat 15. cikke, valamint az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozatnak (2009. szeptember 21.) való megfelelést szolgálja.
+
+41–43. §
 
 44–46. §
 
