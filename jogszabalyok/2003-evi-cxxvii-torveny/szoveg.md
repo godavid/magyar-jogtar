@@ -1410,10 +1410,11 @@ minősül.
 
 (2) Az adó mértéke az 50. § szerinti, de az (1) bekezdésben nem említett ásványolajra
 
-- a) – figyelemmel a (3) bekezdés rendelkezésére is – a biodízel esetében az (1) bekezdés d) pont szerinti, az E85 esetében a termék bioetanolon kívüli komponenseinek térfogatra számított mennyiségi részaránya (a százalékérték századrészében kifejezve) és az (1) bekezdés a) pont szerinti adómérték szorzataként meghatározott összeg,
-- b) az a) pontban nem említett bioüzemanyag esetében az üzemanyagkénti felhasználásnak megfelelően az (1) bekezdés a), d), f) vagy g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, illetve a 2207 vámtarifaszám alá tartozó alkoholtermék bioüzemanyag esetében a 64. § (2) bekezdés szerinti adómérték,
-- c) benzin, illetve gázolaj adalékakénti, hígítóanyagakénti beszerzés, importálás, kínálás, értékesítés vagy felhasználás esetén az (1) bekezdés a), illetve d) pont szerinti adómérték,
-- d) az a)–c) pont alá nem eső ásványolaj esetében – az üzemanyagkénti vagy a tüzelő-, fűtőanyagkénti előállításnak, beszerzésnek, importálásnak, kínálásnak, értékesítésnek vagy felhasználásnak megfelelően – az (1) bekezdés a)–d) vagy f), g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, figyelemmel a (3) bekezdés rendelkezésére is.
+- a) – figyelemmel a (3) bekezdés rendelkezésére is – a biodízel esetében az (1) bekezdés d) pont szerinti adómérték,
+- b) – figyelemmel a (3) bekezdés rendelkezésére is – az E85 esetében a termék bioetanolon kívüli komponenseinek térfogatra számított mennyiségi részaránya (a százalékérték századrészében kifejezve) és az (1) bekezdés a) pont szerinti adómérték szorzatának, valamint a termék bioetanol tartalmának térfogatra számított mennyiségi részaránya és 40 000 Ft/ezer liter szorzatának együttes összege,
+- c) az a) és b) pontban nem említett bioüzemanyag esetében az üzemanyagkénti felhasználásnak megfelelően az (1) bekezdés a), d), f) vagy g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, illetve a 2207 vámtarifaszám alá tartozó alkoholtermék bioüzemanyag esetében a 64. § (2) bekezdés szerinti adómérték,
+- d) benzin, illetve gázolaj adalékakénti, hígítóanyagakénti beszerzés, importálás, kínálás, értékesítés vagy felhasználás esetén az (1) bekezdés a), illetve d) pont szerinti adómérték,
+- e) az a)–d) pont alá nem eső ásványolaj esetében – az üzemanyagkénti vagy a tüzelő-, fűtőanyagkénti előállításnak, beszerzésnek, importálásnak, kínálásnak, értékesítésnek vagy felhasználásnak megfelelően – az (1) bekezdés a)–d) vagy f), g) pont szerinti ásványolajok közül a hozzá legközelebb álló ásványolajra meghatározott adómérték, figyelemmel a (3) bekezdés rendelkezésére is.
 
 (3) Az adó mértéke az (1) bekezdés a)–d) pontjában meghatározott mérték 40 000 Ft/ezer literrel, illetve a fűtőolaj esetében az (1) bekezdés e) pontjában meghatározott mérték 20 000 Ft/ezer kilogrammal, a cseppfolyósított gáz esetén az (1) bekezdés f) pontjában meghatározott mérték 20 000 Ft/ezer kilogrammal, gáz halmazállapot esetén az (1) bekezdés g) pontjában meghatározott mérték 20 Ft/nm3-rel növelt összege, amennyiben a termék nem felel meg a hatályos magyar szabvány előírásainak.
 
@@ -2383,6 +2384,8 @@ kell kiskereskedelmi eladási árnak tekinteni.
 - b) amennyiben az a) pont szerinti hónapok száma az (1) bekezdés b) pont szerinti esetben kisebb, mint négy, a (3) bekezdés rendelkezését nem kell alkalmazni.
 
 (6) Amennyiben az adóraktár engedélyese, a bejegyzett kereskedő és az importáló (a továbbiakban együtt: adójegy-felhasználó) a tevékenységét az új adómérték kihirdetésének hónapját megelőző 12 hónapnál rövidebb, de 6 hónapnál hosszabb ideig folytatta, a referencia-időszakban rendelhető, illetve kiadható adójegy mennyiségének meghatározásához figyelembe veendő egyhavi átlagot ezen időszakra vonatkozóan kell a (2)–(5) bekezdés rendelkezéseinek értelemszerű alkalmazásával megállapítani. Amennyiben az adójegy-felhasználó a tevékenységét az új adómérték kihirdetésének hónapját megelőzően 6 hónapot meg nem haladó ideig folytatta, vagy tevékenységét az új adómérték kihirdetését követően kezdte meg, számára a vámhatóság a referencia-időszakban nem adhat ki több adójegyet, mint a legalább 12 hónapja működő adójegy-felhasználók esetében számított kiadható mennyiségek közül a legkisebb mennyiség.
+
+(6a) Vis maior helyzetben a vámhatóság kérelemre engedélyezheti a referencia-időszakban a (2) bekezdésben meghatározottnál több – kizárólag a vis maior által érintett mennyiségű, fajtájú és kiskereskedelmi eladási árú – adójegy megrendelését és kiadását.
 
 (7) A dohánygyártmány az adómérték változásának hatálybalépését követően csak az új adómértéknek megfelelő adójeggyel bocsátható szabad forgalomba, illetve importálható a szabad forgalom számára és hozható be más tagállamból.
 
