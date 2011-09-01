@@ -318,7 +318,8 @@ szabható ki.
 
 - a) versenyszabályzat,
 - b) igazolási (nyilvántartási) és átigazolási szabályzat,
-- c) sportfegyelmi szabályzat.
+- c) sportfegyelmi szabályzat,
+- d) a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásokat tartalmazó szabályzat.
 
 (2) Amennyiben a szakszövetség hivatásos vagy vegyes (nyílt) versenyrendszert (bajnokságot) működtet, úgy a versenyszabályzatban külön rendelkeznie kell a hivatásos vagy a vegyes bajnokságban részt vevő sportszervezetekkel, illetve sportolókkal szemben támasztott követelményekről.
 
@@ -786,15 +787,7 @@ kezeli.
 
 ### A sportközalapítványok
 
-48. § (1) A Wesselényi Miklós Sportközalapítvány (a továbbiakban: sportközalapítvány) a sport állami támogatási rendszerében az e törvényben és az alapító okiratában meghatározott feladatokat látja el. A sportközalapítvány működése az államháztartáson belüli és kívüli eredetű bevételeik – külön jogszabályban meghatározott – arányától független.
-
-(2) A sportközalapítvány hozzájárul a sporttehetségekkel foglalkozó speciális közoktatási intézmények működéséhez és fejlesztéséhez, valamint eredményességi támogatásban részesíti a MOB-ban vagy az MPB-ben tagsággal rendelkező szakszövetség olimpiai sportág olimpiai szakágának olimpiai versenyszámaiban, valamint a paralimpiai versenyrendszerben 1–3. helyezést elért versenyzőit, valamint e versenyzők felkészülését közvetlenül segítő sportszakembereket. Az eredményességi támogatást a MOB jóváhagyásával – a sportközalapítványnak az eredményességi támogatás mértékére és az eredményességi támogatásra való jogosultság részletes feltételeire vonatkozó szabályzata alapján – a sportközalapítvány állapítja meg. Az eredményességi támogatás pénzügyi feltételeit a sportközalapítvány biztosítja és a támogatást folyósítja. A sportközalapítvány működési kiadásai nem haladhatják meg évente a központi költségvetésből folyósított támogatás öt százalékát.
-
-(3) A sportközalapítvány kuratóriuma kilenc tagból áll, a tagok öt évre kapnak megbízást. A kuratórium két tagját a MOB, egy tagját a Nemzeti Sportszövetség, egy tagját a Nemzeti Szabadidősport Szövetség, egy tagját a Fogyatékosok Nemzeti Sportszövetsége, egy tagját az MPB, egy tagját a Sportegyesületek Országos Szövetsége, két tagját a sportpolitikáért felelős miniszter (a továbbiakban: miniszter) – javaslatára a miniszterelnök nevezi ki, akik közül egy főre a diáksport és a főiskolai-egyetemi sport sportszövetségei tesznek javaslatot. A sportközalapítvány kuratóriumának tagja csak büntetlen előéletű magyar állampolgár lehet, továbbá nem lehet állami vezető.
-
-(4) A sportközalapítvány kuratóriumának tevékenységét az Országgyűlés sportügyekkel foglalkozó bizottsága által megválasztott 3 személyből álló felügyelő bizottság ellenőrzi, akiknek megbízási ideje öt év.
-
-(5) A sportközalapítvány szervezeti és működési szabályzatát az alapító okirat alapján a kuratórium állapítja meg.
+48. §
 
 48/A. § (1) Hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű a kuratóriumi tagnak javasolt személy a kinevezését megelőzően, valamint a kuratórium tagja a kuratóriumi tagsági megbízatás időtartama alatt a miniszter írásbeli – a mulasztás jogkövetkezményeinek ismertetését tartalmazó – felhívására, a felhívástól számított tizenöt munkanapon belül, ha e határidőn belül a kuratóriumi tagon kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul.
 
@@ -855,7 +848,7 @@ kezeli.
 - c) gondoskodik a sporttal kapcsolatos kormányzati döntések végrehajtásáról,
 - d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 - e) együttműködik az Országos Területfejlesztési Tanáccsal, a regionális fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, illetve a térségi fejlesztési tanácsokkal,
-- f) együttműködik a MOB-bal, az MPB-vel és a nemzeti sportszövetségekkel, valamint kapcsolatot tart a sportközalapítvánnyal és a sport területén működő érdekképviseleti szervekkel,
+- f) együttműködik a MOB-bal, az MPB-vel és a nemzeti sportszövetségekkel, valamint kapcsolatot tart a és a sport területén működő érdekképviseleti szervekkel,
 - g) ellátja a látvány-csapatsportok támogatásával összefüggő következő közigazgatási hatósági és szolgáltatási feladatokat:
   - ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program jóváhagyásáról,
   - gb) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, valamint kiállítja az adókedvezményekre jogosító, a Tao. 4. § 45. pontja és 22/C. §-a szerinti támogatási igazolást,
@@ -1047,7 +1040,9 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (2) Iskola, kollégium és óvoda nem építhető a tanulók számához viszonyított, külön jogszabályban meghatározott méretű tornaterem, tornaszoba vagy sportlétesítmény nélkül. Az építés során lehetőség szerint figyelembe kell venni a lakossági igényeket is.
 
-(3) A versenyrendszerben szervezett versenyek lebonyolítására alkalmas sportlétesítményeket biztonságtechnikai szempontból a rendőrség, a tűzoltóság, a katasztrófavédelem, a mentőszolgálat és a tulajdonos (üzemeltető) évente legalább egy alkalommal közösen ellenőrzi. Az ellenőrzés időpontjáról – azt legalább tizenöt nappal megelőzően – a sportlétesítmény üzemeltetője értesíteni köteles az érintett szervezeteket.
+(3) A versenyrendszerben szervezett versenyek lebonyolítására alkalmas sportlétesítményeket biztonságtechnikai szempontból az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség), a tűzoltóság, a katasztrófavédelem, az Országos Mentőszolgálat, az egészségügyi államigazgatási szerv, a sportszövetség, a létesítményt használó sportszervezet, a tulajdonos, az üzemeltető, a sportrendezvényt szervező és az azzal szerződéses viszonyban álló egészségügyi szolgáltató, a rendező szerv és a Sportrendezvényeket Biztonsági Szempontból Minősítő Bizottság (a továbbiakban: Minősítő Bizottság) képviselője a versenyrendszerben szervezett első verseny előtt legalább 30 nappal, évente legalább egy alkalommal közösen ellenőrzi. Az ellenőrzés időpontjáról – azt legalább 15 nappal megelőzően – a sportlétesítményt használó sportszervezet, több ilyen sportszervezet esetén a sportlétesítmény tulajdonosa vagy üzemeltetője minden érintett szervezetet értesíteni köteles. A (4) bekezdésben meghatározott engedély a rendőrség, a tűzoltóság, a katasztrófavédelem és az egészségügyi államigazgatási szerv hozzájárulása nélkül nem adható meg. Az ellenőrzésről a Minősítő Bizottság képviselője jegyzőkönyvet vesz fel, amit 8 napon belül megküld az ellenőrzést végző szervezeteknek.
+
+(3a) A sportrendezvények biztonságáról szóló kormányrendeletben meghatározott sportrendezvények lebonyolítására szolgáló sportlétesítmények tulajdonosának, üzemeltetőjének a sportlétesítmény összehangolt biztonságtechnikai fejlesztését biztosító, az ellenőrzést végző szervezetek által közösen elfogadott négyéves biztonságtechnikai fejlesztési tervvel (a továbbiakban: fejlesztési terv) és az ahhoz kapcsolódó költségtervvel kell rendelkeznie. A fejlesztési tervet éves bontásban kell elkészíteni. A (3) bekezdésben meghatározott ellenőrzés keretében az ellenőrzést végző szervezetek vizsgálják a fejlesztési tervben foglaltak megvalósulását. A vizsgálat eredményeként az ellenőrző szervezetek javaslatot tesznek a sportlétesítmény tulajdonosa, üzemeltetője vagy használója részére a biztonságtechnikai fejlesztés irányaira. A sportlétesítmények üzemeltetésére, használatára vonatkozó megállapodásban a tulajdonos és az üzemeltető, használó köteles rendelkezni a biztonságtechnikai fejlesztés keretében az ellenőrző szervezetek által javasolt fejlesztés megvalósításával összefüggő jogokról és kötelezettségekről.
 
 (4) Sportlétesítményben sportszövetségi versenyt rendezni csak a sportszövetség által évente az első verseny megkezdése előtt kiadott engedély alapján lehet. Az engedély megtagadásával szemben az üzemeltető a sportszövetség elnökségénél 15 napon belül panasszal élhet.
 
@@ -1071,11 +1066,13 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (2) Külön jogszabályban meghatározott sportrendezvény szervezője csak sportszervezet, szakszövetség vagy sportági szövetség lehet.
 
+(3) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó versenyrendszer működtetése esetén a labdarúgás sportág tekintetében a szakszövetség, a sportági szövetség, valamint a versenyrendszerben részt vevő sportszervezet szakirányú képesítéssel rendelkező biztonsági felelőst köteles alkalmazni.
+
 ### A szervező felelőssége
 
 66. § (1) A sportrendezvény e törvényben, más jogszabályokban és a szakszövetség, illetve a sportági szövetség szabályzatában meghatározott előírásoknak megfelelő lebonyolításáért a szervező – illetve rendező szerv (rendező) alkalmazása esetén a szervező és a rendező egyetemlegesen – felelős.
 
-(2) A szervező köteles megtenni vagy az illetékes hatóságnál kezdeményezni minden olyan intézkedést, amely a sportrendezvényen résztvevők személyi és vagyonbiztonságának megóvása, valamint a bűnmegelőzés érdekében szükséges.
+(2) A szervező – rendező alkalmazása esetén a rendező – köteles megtenni és az illetékes hatóságnál kezdeményezni minden olyan intézkedést, amely a sportrendezvényen résztvevők személyi és vagyonbiztonságának megóvása, valamint a jogsértések megelőzése érdekében szükséges.
 
 (3) A szervező felelőssége a résztvevőknek a sportesemény helyszínén történő megjelenésétől addig tart, amíg a résztvevők a sportesemény helyszínét elhagyják.
 
@@ -1091,26 +1088,35 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (5) A fogyatékos sportolók részvételével tartandó sportrendezvények szervezésénél figyelembe kell venni a fogyatékos személyek különleges szükségleteit, amelyeket a Fogyatékosok Nemzeti Sportszövetsége állapít meg.
 
-68. § (1) A szervező köteles a külön jogszabályban meghatározott sportrendezvény esetében a belépőjegy-eladást, a sportrendezvény helyszínére a beléptetést, a szurkolótáborok elhelyezését és folyamatos figyelemmel kísérését, valamint a sportrendezvény helyszínének elhagyását a szükséges műszaki és biztonsági intézkedéseket megtéve úgy megszervezni, hogy a szurkolótáborok elkülönítése biztosított legyen.
+68. § (1) A szervező köteles a jogszabályban meghatározott sportrendezvény esetében a belépőjegy-eladást, a sportrendezvény helyszínére történő beléptetést, a szurkolótáborok elhelyezését és folyamatos figyelemmel kísérését, valamint a sportrendezvény helyszínének elhagyását – a rendőrség által meghatározottak szerint – a szükséges műszaki és biztonsági intézkedéseket megtéve úgy megszervezni, hogy a szurkolótáborok elkülönítése biztosított legyen.
 
 (2) A sportrendezvény biztonsága érdekében a szurkolótáborok sportrendezvényen való részvételének megszervezésekor, valamint a sportrendezvény időtartama alatt és a rendőrség igényei szerint a sportrendezvényt megelőzően, illetve követően a szervező köteles az illetékes rendőri vezetővel együttműködni és részére az igényelt segítséget megadni.
 
-(3) A rendőrség megtiltja a sportrendezvény nézők részvételével történő megtartását, vagy korlátozza a nézők számát, ha
+(3) A rendőrség határozattal megtiltja a sportrendezvény nézők részvételével történő megtartását, vagy korlátozza a nézők számát, ha
 
-- a) a biztonságos megrendezés feltételei hiányoznak, vagy
-- b) az előzetesen meghatározott biztonsági szabályokat a rendező nem tartja be.
+- a) a biztonságos megrendezésnek az e törvényben és a sportrendezvények biztonságáról szóló kormányrendeletben meghatározott feltételei hiányoznak,
+- b) az előzetesen meghatározott biztonsági szabályokat a szervező – rendező alkalmazása esetén a rendező – nem tartja be, vagy
+- c) a 63. § (3) bekezdésében meghatározott biztonságtechnikai ellenőrzés elmaradt.
 
 (4) Ha a (3) bekezdésben meghatározott feltételek alapján a rendőrség a sportrendezvény nézők részvételével történő megtartásának megtiltásáról, vagy a nézők számának korlátozásáról a sportrendezvény helyszínén, annak közvetlen megtartása előtt dönt, a rendőrség a határozatát haladéktalanul közli a szervezővel. A határozat ellen fellebbezésnek helye nincs.
+
+(4a) Ha a sportrendezvény biztonságos megrendezésének az e törvényben és a sportrendezvények biztonságáról szóló kormányrendeletben meghatározott feltételei hiányoznak vagy nem megfelelőek, és a szervező a szakszövetség felhívására a hiányzó feltételeket nem pótolja, vagy a biztonságtechnikai ellenőrzésre nem került sor, a szakszövetség a sportrendezvény megtartását vagy a sportrendezvény nézők részvételével való megtartását megtiltja, vagy a nézők részvételét a sportlétesítmény meghatározott részére korlátozza. A szervezőt és a rendőrséget a tiltásról, illetve a korlátozásról a szakszövetség öt napon belül értesíti.
 
 (5) Az (1) bekezdésben meghatározott kötelezettségek betartásának ellenőrzése érdekében a rendőrség e feladatra előzetesen kijelölt képviselője valamennyi sportrendezvényen megfigyelőként jelen lehet.
 
 (6) Ha a sportrendezvény résztvevőinek magatartása annak biztonságos megtartását veszélyezteti és a megbomlott rend másként nem állítható helyre, a szervező köteles a sportrendezvényt megszakítani, illetve felfüggeszteni.
 
-(7) Ha a sportrendezvény résztvevőinek magatartása annak biztonságos megtartását veszélyezteti és a megbomlott rend nem állítható helyre, a rendőrség a sportrendezvény nézők részvételével történő megtartásának megtiltásáról vagy a nézők számának korlátozásáról dönthet. A rendőrség a határozatát haladéktalanul közli a szervezővel, a határozat ellen fellebbezésnek helye nincs. Ha a rendőrség a sportrendezvény nézők részvételével történő megtartásának megtiltásáról vagy a nézők számának korlátozásáról dönt, a sportrendezvényt meg kell szakítani.
+(7) Ha a sportrendezvény résztvevőinek magatartása vagy egyéb körülmény a biztonságos megrendezést veszélyezteti, a rendőrség a sportrendezvény nézők részvételével történő megtartásának megtiltásáról vagy a nézők számának korlátozásáról dönt. Ha a sportrendezvényen részt vevők, valamint a nézők testi épségének, életének, illetve a sportlétesítmény megóvásának érdekében szükséges, a sportrendezvényt meg kell szakítani. A rendőrség jelen lévő képviselője a szervezővel, a vendég sportszervezet képviselőjével, valamint a játékvezetővel lefolytatott egyeztetést követően kezdeményezi a játékvezetőnél a mérkőzés befejezetté nyilvánítását. A játékvezető a rendőrség kezdeményezésének köteles eleget tenni és a mérkőzést befejezetté nyilvánítani. A mérkőzés befejezetté nyilvánítása esetén a szervező a sportrendezvényt befejezetté nyilvánítja.
 
-(8) Ha a rend a (6) vagy a (7) bekezdésben meghatározott módon nem állítható helyre, a sporttevékenységet irányító személy (mérkőzésvezető) a versenyt (mérkőzést) befejezetté nyilvánítja.
+(8)
 
-68/A. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott sportrendezvények biztonsági kockázat szerinti minősítését – a sportrendezvény szervezőjével folytatott előzetes konzultációt követően – a rendőrség az érintett sportágak országos sportági szakszövetségeivel, a Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamara képviselőivel, valamint a sportigazgatási szerv vezetőjével folytatott előzetes egyeztetést követően határozza meg.
+(9) A nézők biztonságos távozása érdekében a rendőrség a nézőket az ellenérdekű szurkolói csoportok sportlétesítményből, a rendőri biztosítás működési körzetéből, illetve a szurkolók kísérési útvonalából történő eltávozásáig a sportlétesítményben visszatarthatja.
+
+(10) Az ellenérdekű szurkolói csoportok közterületi összecsapásának megakadályozása érdekében a rendőrség – amennyiben azt a biztonság fenntartása érdekében szükségesnek ítéli – a szervezetten vagy szervezetlenül érkező szurkolói csoportokat a közterület egy bizonyos részének elkerülésével, illetve meghatározott útvonalon a sportlétesítménybe kísérheti.
+
+(11) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvénnyel összefüggésben, a jogszabályban meghatározott biztonsági előírások megsértése esetén a sportrendezvény helye szerint illetékes megyei rendőr-főkapitányság a jogsértés súlyától, az okozott kár mértékétől, a közbiztonságra való veszélyesség fokától, valamint a jogsértés ismétlődésétől függően kétszázezertől kétmillió forintig terjedő összegű közigazgatási bírságot szabhat ki a szervezővel, valamint a rendezővel szemben. A közigazgatási bírság ismételt kiszabása vagy meg nem fizetése esetén a rendőrség határozattal korlátozza a sportrendezvényen a nézőszámot, vagy megtiltja a nézők részvételével történő megrendezést.
+
+68/A. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott sportrendezvények biztonsági kockázat szerinti minősítését – a sportrendezvény szervezőjével folytatott előzetes egyeztetést követően – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) az általa működtetett Minősítő Bizottság javaslata alapján határozza meg. A Minősítő Bizottság az ORFK, a katasztrófavédelem, az Országos Mentőszolgálat, az Országos Igazságügyi Tanács Hivatala, a Legfőbb Ügyészség, a sportigazgatási szerv, valamint a sportágak országos sportági szakszövetségei által delegált szakértőkből áll. A Minősítő Bizottság működésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 (2) A sportrendezvény biztonsági minősítése
 
@@ -1120,32 +1126,69 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 biztonsági kockázatú lehet.
 
-(3) Normál és a fokozott biztonsági kockázatú sportrendezvényeken a létesítményen belüli biztonságért a szervező felel.
+(3) Normál és fokozott biztonsági kockázatú sportrendezvényeken a sportlétesítményen belüli biztonságért a szervező felel. A fokozott biztonsági kockázatú sportrendezvény szervezője annak időpontját megelőző 15 napon belül köteles felkérni a sportrendezvény helye szerint illetékes helyi rendőrkapitányságot a sportlétesítményen belüli rend fenntartásában térítés ellenében történő közreműködésre. Normál biztonsági kockázatú sportrendezvényen a szervező a rendőrség közreműködését térítés ellenében igénybe veheti.
 
-(4) Kiemelt biztonsági kockázatú sportrendezvény létesítményen kívüli és belüli biztosítását a rendező mellett a rendőrség közfeladatként végzi.
+(3a) Fokozott biztonsági kockázatú sportrendezvény esetében a szervező a biztonságos lebonyolítás érdekében köteles
+
+- a) a sportrendezvény térítés ellenében történő sportlétesítményen belüli biztosítását kezdeményezni,
+- b) a belépésre jogosító igazolások számáról a rendőrség részére tájékoztatást adni,
+- c) a rendezői létszámot a rendőrség által meghatározott számra emelni,
+- d) a szurkolók parkoltatását, az elhelyezett gépjárművek őrzését szervezni és biztosítani, valamint
+- e) a rendezői listát előzetesen a rendőrség részére átadni.
+
+(4) Kiemelt biztonsági kockázatú sportrendezvény esetében a rendőrség a sportrendezvény sportlétesítményen belüli biztosítását közfeladatként végzi.
+
+(4a) A labdarúgás sportág tekintetében a kiemelt biztonsági kockázatú sportrendezvényre utazó sportszervezet vagy annak biztonsági felelőse a sportesemény biztonságos lebonyolítása érdekében köteles
+
+- a) megszervezni a vendégjátékra utazó szurkolók szervezett utaztatását,
+- b) intézkedni a sportszervezet szurkolóinak létszámával arányban álló számú, a vendég sportszervezet által biztosított utazó rendező biztosításáról, valamint
+- c) részt venni a szurkolói beléptetésben és a vendégszektor biztosításában.
+
+(4b) A szervező a (3a) bekezdésben meghatározott feladatokat – a (3a) bekezdés a) pontjában meghatározottak kivételével – kiemelt biztonsági kockázatú sportrendezvény esetében is köteles végrehajtani.
+
+(4c) A labdarúgás sportág tekintetében az utazó sportszervezet vagy annak biztonsági felelőse a (3a) bekezdés c)–e) pontjában meghatározott feladatokat kiemelt biztonsági kockázatú sportrendezvény esetében is köteles végrehajtani.
+
+(4d) A normál és a fokozott biztonsági kockázatú sportrendezvény térítés ellenében végzett biztosításához szükséges rendőri erő- és eszközigényt, valamint annak ellenértékét a rendőrség és a szervező a tervezett rendezői létszám, a sportlétesítmény biztonságtechnikai állapota, a sportrendezvény időtartama, valamint a szükséges rendőri létszám figyelembevételével határozzák meg.
 
 (5) A (2) bekezdés szerinti minősítést arra figyelemmel kell kialakítani, hogy a sportrendezvényről az előzetesen rendelkezésre álló adatok alapján alaposan feltehető-e, hogy valamely, a nézők magatartására visszavezethető ok következtében nagyobb, meghatározatlan számú résztvevő életének, testi épségének, vagyonának sérelme vagy annak közvetlen veszélye fenyeget.
 
-69. § (1) A szervező a sportlétesítményen kívül és annak területén jól látható hirdetményekben köteles meghatározni a sportrendezvény megtekintésének feltételeit, amelyet – általános szerződési feltételekként összefoglalva – a belépőjegyen, bérleten is fel kell tüntetni.
+69. § (1) A szervező a sportlétesítmény beléptetőpontjainál jól látható hirdetményben köteles meghatározni a sportrendezvényen történő részvétel feltételeit és a magatartási szabályokat, amelyeket – általános szerződési feltételekként összefoglalva – a belépőjegyen, bérleten is fel kell tüntetni.
 
-(2) Ha a sportrendezvény elmarad, a belépőjegy ellenértékét három munkanapon belül vissza kell téríteni. Ha a sportrendezvény félbeszakad, a megismételt sportrendezvényre a belépőjegy érvényes.
+(2) Ha a sportrendezvény elmaradt, illetve a nézők kizárásával vagy a nézőszám korlátozásával került megrendezésre, a belépőjegy ellenértékét három munkanapon belül vissza kell téríteni. Ha a sportrendezvény megszakadt, a megismételt sportrendezvényre a belépőjegy érvényes.
+
+69/A. § (1) A sportrendezvények biztonságáról szóló kormányrendeletben meghatározott sportrendezvények esetében a szervező köteles évente helyzetjelentésben összegezni a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásokat tartalmazó szabályzatban, valamint a 63. § (3a) bekezdésében meghatározott fejlesztési tervben foglaltak megvalósulását, az általa szervezett sportrendezvények rendezésének tapasztalatait, valamint értékelni a tett és elmulasztott intézkedéseket, illetve azok hatásait.
+
+(2) A helyzetjelentést a szervező a versenyrendszerben szervezett utolsó versenyt követő 45 napon belül megküldi a sportszövetségnek, a rendőrségnek és a Minősítő Bizottságnak.
+
+(3) A szövetség sportágában közreműködik a nézőtéri erőszak megelőzésében és felszámolásában, a sportrendezvények biztonságának fenntartásában, amelynek során az e törvényben, a sportrendezvények biztonságáról szóló kormányrendeletben, valamint a nézőtéri erőszakkal összefüggő nemzetközi egyezményekben meghatározottakkal összhangban
+
+- a) biztonsági szabályzatban rendelkezik különösen a szövetség tagságát alkotó sportszervezetek sportrendezvényeinek biztonságával összefüggő feladatairól és a feladatok végrehajtásához szükséges költségek biztosításáról,
+- b) a sportági jellemzőkre figyelemmel – a versenyrendszerben szervezett első verseny előtt legalább 30 nappal – elkészíti a sportrendezvények biztonságával kapcsolatos éves sportági programot, amely magába foglalja a sportrendezvények rendjének biztosításával kapcsolatos felvilágosítási, információszolgáltatási és a sportrendezvények rendjének fenntartásában érintett szervezetekkel való együttműködési feladatokat, valamint a sportrendezvények biztonságára vonatkozó rendelkezéseknek a tagságát alkotó sportszervezetek körében történő érvényesülése sportszakmai szempontból történő ellenőrzését,
+- c) a sportrendezvények biztonságával kapcsolatos feladatai ellátásának koordinációjára, a sportrendezvények rendjének fenntartásában érintett szervezetekkel való együttműködésre a sportrendezvények biztonságára vonatkozó szabályokban jártas kapcsolattartó személyt jelöl ki, a kapcsolattartók képzését és továbbképzését a Minősítő Bizottság biztosítja, valamint
+- d) a versenyrendszerben szervezett utolsó versenyt követő 45 napon belül megküldi a Minősítő Bizottságnak az előző évi sportrendezvények biztonságával kapcsolatos tevékenységéről készített beszámolóját.
+
+(4) A Minősítő Bizottság az (1) bekezdésben meghatározott helyzetjelentést és a (3) bekezdés d) pontjában meghatározott beszámolót a beérkezéstől számított 30 napon belül értékeli.
+
+(5) Az értékelés eredményét a Minősítő Bizottság a sportrendezvények biztonsági minősítése során figyelembe veszi. A Minősítő Bizottság súlyos vagy ismétlődő hiányosságok esetén javaslatot tesz a sportpolitikáért felelős miniszter részére a szakszövetség vagy a tagszervezeteként működő sportszervezet állami támogatásának felfüggesztésére, illetve visszavonására.
+
+(6) A sportszövetség az (1) bekezdésben meghatározott helyzetjelentéseket évente rendszeresen értékeli a rendőrség és a szervezők részvételével. Az értékelést írásba foglalja és – különösen az eltiltásokkal és azok érvényesítésével kapcsolatban – megteszi a fejlesztés végrehajtása érdekében szükséges intézkedéseket.
 
 ### A rendező
 
 70. § (1) A szervező a sportrendezvény biztonságos lebonyolítása érdekében, valamint a helyszínen a rend fenntartására és a szervezési feltételek biztosítására (a továbbiakban: rendezés) szerződésben rendező szervet vagy rendezőt bízhat meg.
 
-(2) Rendező szervnek csak a személy-, vagyonvédelmi és magánnyomozói tevékenységről szóló törvény hatálya alá tartozó – külön jogszabályban meghatározott képesítési követelményeknek megfelelő, és sportrendezvényen való rendfenntartásra felkészített – egyéni vagy társas vállalkozás vezetője vagy alkalmazottja, rendezőnek csak személy-, vagyonvédelmi, illetve magánnyomozói képesítéssel rendelkező személy bízható meg.
+(2) Rendező szervnek csak a személy-, vagyonvédelmi és magánnyomozói tevékenységről szóló törvény hatálya alá tartozó egyéni vagy társas vállalkozás, rendezőnek csak a hatóság által kiállított személy-, vagyonvédelmi igazolvánnyal rendelkező – a képesítésekkel kapcsolatos jogszabályban és a sportági szakszövetség belső szabályzatában meghatározott képesítési, képzési követelményeknek megfelelő, a sportrendezvényen való rendfenntartásra felkészített – személy bízható meg.
 
 (3) A sportrendezvényen részt vevő rendező szerv alkalmazottjának vagy a rendezőnek e minőségében és személyében külső megjelenése alapján azonosíthatónak kell lennie. Ebből a célból a rendező megkülönböztető ruhát, valamint rendezői minőségét, nevét és azonosító számát jól látható módon tartalmazó kitűzőt visel.
 
 (4) A sportrendezvényen való rendfenntartásra és a rendőrséggel való együttműködésre a szervező köteles a rendezőt felkészíteni. A felkészítéshez a szervező a rendőrség közreműködését a fokozott és kiemelt biztonsági kockázatúnak minősített sportrendezvények esetében köteles igénybe venni, a normál biztonsági kockázatúnak minősített sportrendezvények esetében igénybe veheti. A rendőrség a felkészítésben külön szerződés alapján vesz részt.
 
-(5) Külön jogszabály meghatározhatja azokat a sportrendezvényeket:
+(5) A Kormány rendeletben határozza meg azokat a sportrendezvényeket,
 
-- a) amelyeken a rendezésre rendező szervet, rendezőt kell megbízni,
+- a) amelyeken a rendezésre és a szurkolók utazásának biztosítására a sportszövetség által akkreditált rendező szervet, valamint évente legalább egy alkalommal a sportrendezvények biztosítására szakirányú továbbképzés keretében felkészített rendezőt kell megbízni,
 - b) amelyek esetében a szervező köteles a sportrendezvény résztvevői számára felelősségbiztosítást kötni.
 
-(6) Az (5) bekezdés b) pontja alapján meghatározott sportrendezvények felelősségbiztosítás nélkül nem tarthatók meg. A felelősségbiztosítás meglétét a belépőjegyen fel kell tüntetni.
+(6) Az (5) bekezdés b) pontja szerinti sportrendezvény felelősségbiztosítás nélkül nem tartható meg. A felelősségbiztosítás meglétét a belépőjegyen, bérleten és a beléptetőpontoknál kihelyezett pályarendszabályokon is fel kell tüntetni.
 
 ### A beléptetés
 
@@ -1155,15 +1198,19 @@ biztonsági kockázatú lehet.
 - b) nem áll nyilvánvalóan alkohol, kábítószer vagy más bódító hatású szer befolyása alatt,
 - c) nem tart magánál szeszes italt, kábítószert, valamint olyan tárgyat, amely a sportrendezvény megtartását, továbbá mások személyi és vagyonbiztonságát veszélyezteti, vagy amelynek a sportrendezvényre való bevitelét a szervező a belépőjegy vásárlását megelőzően megtiltotta, és erről a belépőjegy vásárlóját megfelelő módon tájékoztatta,
 - d) nem tart magánál mások iránti gyűlöletre uszító feliratot, zászlót vagy egyébként jogszabály által tiltott önkényuralmi jelképet,
-- e) nem áll a 73. § (1) bekezdése szerinti eltiltás, valamint a szabálysértésekről szóló 1999. évi LXIX. törvény szerinti kitiltás hatálya alatt.
+- e) nem áll a 73. § (1) bekezdése szerinti eltiltás, valamint a szabálysértésekről szóló 1999. évi LXIX. törvény szerinti kitiltás hatálya alatt;
+- f) vállalja, hogy a rendező felszólítására igazolja személyazonosságát, valamint
+- g) tudomásul veszi, hogy a sportrendezvény ideje alatt róla kép- és hangfelvétel készíthető.
 
 (2) A szervező köteles azt a résztvevőt, aki a sportrendezvény megtartását, illetve mások személyi és vagyonbiztonságát veszélyezteti, vagy rasszista, gyűlöletre uszító magatartást tanúsít, e magatartások abbahagyására felszólítani.
 
-(3) Ha a résztvevő a sportrendezvény időtartama alatt az (1) bekezdésben foglalt feltételeknek nem felel meg, vagy a (2) bekezdés szerinti magatartást a rendező figyelmeztetésére nem hagyja abba, a sportrendezvényről el kell távolítani. A rendező az eltávolítandó személyt felszólítja személyazonossága igazolására.
+(3) Ha a résztvevő a sportrendezvény időtartama alatt az (1) bekezdésben foglalt feltételeknek nem felel meg, vagy a (2) bekezdés szerinti magatartást a rendező figyelmeztetésére nem hagyja abba, a sportrendezvényről el kell távolítani. A rendező az eltávolítandó személyt felszólítja személyazonossága igazolására. Amennyiben az eltávolítandó személy a felszólításnak nem tesz eleget, a rendező – jogszabály eltérő rendelkezésének hiányában – a rendőrséget haladéktalanul értesíti az igazoltatás érdekében. A rendőrség kiérkezéséig, de legfeljebb az értesítéstől számított harmadik óra végéig a rendező az eltávolítandó személyt visszatarthatja, feltéve, hogy a visszatartásra a helyszínen működő képfelvevő eszköz látóterében kerül sor. A képfelvevő eszköz által rögzített felvételek kezelésére a 74. § (4) és (5) bekezdésében foglalt rendelkezések megfelelően irányadók. A visszatartott személy rendőrség által történő igazoltatása esetén a 65. § (2) bekezdésében meghatározott szervezőt kell a Rendőrségről szóló 1994. évi XXXIV. törvény 24. § (4) bekezdése szerinti igazoltatást kérőnek tekinteni.
 
 (4) A sportrendezvényen résztvevő ruházatának, csomagjainak átvizsgálására a rendezvény biztosítását végző rendőr és a biztosítást végző rendező szerv alkalmazottja vagy a rendező is jogosult. Kényszerítő eszköz alkalmazására – ha törvény eltérően nem rendelkezik – kizárólag a rendőr jogosult.
 
-(5) A szervező a résztvevőt a beléptetés feltételeiről, az ellenőrzés módjáról és az eltávolítás lehetőségéről a sportlétesítményen kívül és annak területén jól látható hirdetményekben köteles tájékoztatni, és e feltételeket a belépőjegyen, bérleten is fel kell tüntetni.
+(4a) A szervező – rendező alkalmazása esetén a rendező – köteles gondoskodni a pályarendszabályok értelmében be nem vihető tárgyak dokumentált átvételéről, biztonságos megőrzéséről és a jogosult részére távozásakor történő visszaadásáról. Amennyiben a be nem vihető tárgyakért a tulajdonos a sportrendezvény befejezésétől számított két órán belül nem jelentkezik, a szervező vagy a rendező a továbbiakban a felelős őrzés szabályai szerint jár el.
+
+(5) A szervező a résztvevőt a beléptetés feltételeiről, az ellenőrzés módjáról és az eltávolítás lehetőségéről a sportlétesítményen kívül és annak területén jól látható, piktogramokkal is ellátott, aktualizált hirdetményeken, valamint a belépőjegyen és a bérleten köteles – magyar, angol, német és a külföldi vendég sportszervezet országa szerinti nyelven is – tájékoztatni.
 
 72. § (1) A szervező a résztvevők egyedi azonosítására alkalmas biztonsági beléptetési és ellenőrző rendszert (a továbbiakban: beléptető rendszer) alkalmazhat. A rendező a beléptetés során jogosult a résztvevők személyazonosságát ellenőrizni.
 
@@ -1177,55 +1224,105 @@ biztonsági kockázatú lehet.
 
 (4) Nem állítható ki névre szóló belépőjegy, bérlet, illetve klubkártya olyan személy részére, aki a sportrendezvény látogatásától eltiltás vagy a sportrendezvényről, sportlétesítményből kitiltás hatálya alatt áll.
 
-72/A. § (1) A szervező névre szóló belépőjegyet és bérletet, a sportszervezet klubkártyát állíthat ki és értékesíthet. A belépőjegyen, bérleten, illetve klubkártyán a sportrendezvényre ezekkel belépésre jogosult személy nevét, születési helyét és idejét (a továbbiakban: természetes személyazonosító adatok), valamint lakcímét az azokat kibocsátó szervező vagy sportszervezet annak érvényességét követő 24 óráig nyilvántartja.
+72/A. § (1) A szervező, valamint a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet e tevékenységi körében névre szóló belépőjegyet és bérletet – ha a szervező sportszervezet, akkor klubkártyát is – állíthat ki és értékesíthet. A belépőjegyen, bérleten, valamint klubkártyán a sportrendezvényre ezekkel belépésre jogosult személy nevét, születési helyét és idejét, valamint lakcímét az azokat kibocsátó szervező, valamint a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet vagy sportszervezet a belépőjegy, a bérlet, illetve a klubkártya érvényességének lejáratát követő 3 munkanapig nyilvántartja.
 
-(2) Az (1) bekezdésben foglaltak alapján kiadott belépőjegy, bérlet, valamint klubkártya, illetve az abban szereplő személyes adat csak a sportrendezvény helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás, továbbá a sportrendezvényről való eltiltás során használható fel.
+(2) Az (1) bekezdésben foglaltak alapján kiadott belépőjegy, bérlet, valamint klubkártya, illetve az abban szereplő személyes adat csak a sportrendezvény helyszínén vagy a sportrendezvény helyszínének megközelítése, illetve az onnan való távozás során elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás, továbbá a sportrendezvényről való eltiltás során használható fel.
 
-(3) Az (1) bekezdésében meghatározott határidőn belül a (2) bekezdés szerinti személyes adatot megkeresésre a nyomozó hatóság, az ügyészség és a bíróság részére büntető- vagy szabálysértési eljárásban bizonyítási eszközként való felhasználás céljából továbbítani lehet.
+(3) Az (1) bekezdésben meghatározott határidőn belül a (2) bekezdés szerinti személyes adatot megkeresésre a nyomozó hatóság, az ügyészség, illetve a bíróság részére büntető- vagy szabálysértési eljárásban bizonyítási eszközként való felhasználás céljából továbbítani lehet.
 
 ### Az eltiltás
 
-73. § (1) A szervező az általa szervezett sportrendezvény esetén jogosult a sportrendezvényről eltávolított személlyel szemben a belépőjegy-eladást megtagadni, illetve megakadályozni, hogy a sportrendezvényen részt vehessen (a továbbiakban együtt: sportrendezvény látogatásától eltiltás). A sportrendezvény látogatásától eltiltás lehetőségéről a szervező a sportlétesítményen kívül és annak területén jól látható hirdetményekben köteles tájékoztatni, amelyet – általános szerződési feltételekként összefoglalva – a belépőjegyen, bérleten is fel kell tüntetni.
+73. § (1) A szervező az általa szervezett sportrendezvény esetén köteles a sportrendezvényről eltávolított személy részére a belépőjegy-eladást megtagadni, valamint megakadályozni, hogy a sportrendezvényen részt vehessen (a továbbiakban együtt: sportrendezvény látogatásától eltiltás). A sportrendezvény látogatásától eltiltás lehetőségéről a szervező a sportlétesítményen kívül és annak területén jól látható hirdetményben köteles tájékoztatást adni, amit – általános szerződési feltételként – magyar, angol, német és a külföldi vendég sportszervezet országa szerinti nyelven is fel kell tüntetni.
 
-(2) A sportrendezvény látogatásától eltiltás időtartama, ha az a szervező által szervezett minden sportrendezvényre vonatkozik, a két évet, ha csak meghatározott sportlétesítményre érvényes, a négy évet nem haladhatja meg.
+(2) A sportrendezvény látogatásától eltiltás időtartama hat hónapnál rövidebb nem lehet és a szervező által szervezett minden sportrendezvényre vonatkozó eltiltás esetén a két évet, míg a meghatározott sportlétesítményre vonatkozó eltiltás esetén a négy évet nem haladhatja meg.
 
 (3) A szervezőnek a sportrendezvény látogatásától eltiltásra vonatkozó döntése ellen a néző bírósághoz fordulhat.
 
 (4) A sportrendezvény látogatásától eltiltható az a személy is, akit a 71. § (3) bekezdése alapján el kellett volna távolítani, de erre azért nem került sor, mert a sportrendezvény helyszínén való szervezői (rendezői) beavatkozás következtében olyan nézői cselekmény volt várható, amely a sportrendezvény biztonságát aránytalanul veszélyeztette volna.
 
-(5) A szervező az eltiltott személy természetes személyazonosító adatait, valamint lakcímét az eltiltás végrehajtása és az eltávolításra okot adó újabb cselekmények elkövetésének megakadályozása érdekében nyilvántarthatja. A nyilvántartás időtartama megegyezik az eltiltás időtartamával, de – a (2) bekezdésben foglaltaknak megfelelően – a kettő, illetve négy évet nem haladhatja meg. A szervező az eltiltás időtartamának lejártát követően 24 órán belül köteles gondoskodni a nyilvántartott személyes adatok megsemmisítéséről.
+(5) A szervező az általa eltiltott személy nevét, születési helyét és idejét, az eltiltás időtartamát, a sportlétesítmény megnevezését, valamint azon sportrendezvények körét, amelyre az eltiltás hatálya kiterjed, 3 napon belül továbbítja a sportrendészeti nyilvántartásba.
 
-(6) Az (5) bekezdésben meghatározott nyilvántartásból adatot – a külön jogszabályban meghatározott bűnüldözési, szabálysértési, illetőleg igazságszolgáltatási feladatai ellátása céljából a rendőrség, a szabálysértési hatóság, az ügyészség és a bíróság, valamint az érintett személy igényelhet.
+(6) A sportrendészeti nyilvántartásból – a jegyértékesítés és a sportrendezvényre történő beléptetés céljából –
+
+- a) a sportrendezvény szervezője,
+- b) a jegyértékesítést a szervező megbízásából végző személy, valamint
+- c) a szervező által alkalmazott rendező
+
+igényelhet adatot.
 
 ### A kamerával történő megfigyelés
 
-74. § (1) A szervező a normál és a fokozott biztonsági kockázatú sportrendezvény ideje alatt – annak helyszínén – a résztvevők személy- és vagyonbiztonsága érdekében a résztvevőket jogosult kamerával vagy más képi adathordozóval (a továbbiakban együtt: kamera) megfigyelni, és a felvételt rögzíteni. A szervező a kiemelt biztonsági kockázatú sportrendezvény ideje alatt – annak helyszínén – a résztvevők személy- és vagyonbiztonsága érdekében a résztvevőket kamerával megfigyeli, és a felvételt rögzíti.
+74. § (1) A szervező – rendező alkalmazása esetén a rendező – képviselője a normál és fokozott biztonsági kockázatú sportrendezvény ideje alatt – annak helyszínén, a beléptetésre váró szurkolók által elfoglalt közterületen és a nézők részére kijelölt parkolókban – a résztvevők személyi és vagyonbiztonsága érdekében jogosult, a labdarúgás sportág tekintetében a fokozott, valamint valamennyi kiemelt biztonsági kockázatú sportrendezvény ideje alatt köteles a résztvevőket a rendőrség által meghatározott helyszínekre, a rendőrség által meghatározott számban elhelyezett, a résztvevők egyedi azonosítását lehetővé tevő minőségű felvételt biztosító kamerával megfigyelni és a felvételt rögzíteni.
 
-(2) A kamerával való megfigyelésről, a kamerák elhelyezkedéséről és a rögzített adatok kezeléséről a nézőt a sportlétesítményen kívül és annak területén jól látható hirdetményben és a belépőjegyen, bérleten is feltüntetve tájékoztatni kell.
+(2) A kamerával való megfigyelésről, a kamerák elhelyezkedéséről és a rögzített adatok kezeléséről a nézőt a sportlétesítményen kívül és annak területén jól látható hirdetményen, a belépőjegyen, bérleten, illetve a klubkártyán piktogramok felhasználásával, valamint magyar, angol, német és a külföldi vendég sportszervezet országa szerinti nyelven is tájékoztatni kell.
 
-(3) A rendőrség a sportrendezvénnyel összefüggő szabálysértési, illetve büntetőeljárás megindításához és lefolytatásához szükséges adatok és információk biztosítása céljából a sportrendezvény befejezését követő 48 órán belül felszólíthatja a szervezőt, hogy az (1) bekezdés szerint rögzített adatokat a felszólítást követő 30 napig tárolja. Amennyiben a felszólításra nem kerül sor, a szervező köteles a rögzített adatokat 24 órán belül megsemmisíteni.
+(3) A szabálysértési, valamint a büntetőeljárás megindításához és lefolytatásához szükséges adatok és információk biztosítása céljából a sportrendezvény befejezését követően a szervező köteles a rendőrség által a sportrendezvény befejezését követő 72 órán belül megtehető felszólításban megjelölt ideig megőrizni a sportesemény biztosítása során rögzített felvételeket. A rendőrség a szervezőt vagy a rendezőt a felvételeknek a felszólítást követő legfeljebb 30 napig történő tárolására szólíthatja fel. Amennyiben a felszólításra nem kerül sor, a szervező vagy a rendező a rögzített adatokat a rögzítést követő 72 óra elteltével megsemmisíti.
 
 (4) Amennyiben a rendőrség a kamerák által rögzített valamely adatot igényli, ennek a szervező haladéktalanul köteles eleget tenni.
 
-(5) Az (1) bekezdés szerint rögzített felvételekből – a külön jogszabályban meghatározott bűnüldözési, szabálysértési, illetőleg igazságszolgáltatási feladatai ellátása céljából a rendőrség, a szabálysértési hatóság, az ügyészség és a bíróság, valamint az érintett személy igényelhet adatot.
+(5) Az (1) bekezdés szerint rögzített felvételekből a jogszabályban meghatározott nemzetbiztonsági, bűnüldözési, szabálysértési, illetve igazságszolgáltatási feladatai ellátása céljából a nemzetbiztonsági szolgálat, a rendőrség, a szabálysértési hatóság, az ügyészség és a bíróság, valamint az érintett személy igényelhet adatot.
 
-(6) A kamerás megfigyelési rendszerrel felvett információkat a sportrendezvény területén erre a célra létesített helyiségben a szervező és szükség esetén a rendőrség e feladattal megbízott képviselője jogosult egyidejűleg, folyamatosan, összesítve figyelemmel kísérni.
+(6) A kamerával felvett adatokat a sportrendezvény területén erre a célra létesített helyiségben a szervező, a rendező, illetve a rendező szerv képviselője egyidejűleg és folyamatosan figyelemmel kíséri. A rendőrség, illetve a nemzetbiztonsági szolgálat e feladattal megbízott képviselője ennek során jelen lehet.
 
-75. § (1) A külön jogszabályban meghatározott sportrendezvények esetében a szervező köteles évente helyzetjelentésben összegezni az általa szervezett sportrendezvények rendezésének tapasztalatait, értékelni a tett és elmulasztott intézkedéseket, valamint azok hatásait.
-
-(2) A helyzetjelentést a szervező január 31-éig köteles megküldeni a sportszövetségnek és a rendőrségnek.
-
-(3) A sportszövetség a helyzetjelentéseket évente rendszeresen értékeli a rendőrség és a szervezők részvételével.
+75. §
 
 ### A néző részvétele a sportrendezvényen
 
-76. § (1) A néző köteles betartani a szervező által meghatározott biztonsági előírásokat, és nem folytathat olyan tevékenységet, amely a sportrendezvényt megzavarja vagy meghiúsítja, illetve a sportrendezvényen résztvevők testi épségét, továbbá vagyoni javait károsítja vagy veszélyezteti.
+76. § (1) A néző köteles betartani a szervező által meghatározott biztonsági előírásokat. Nem folytathat olyan tevékenységet, amely a sportrendezvényt megzavarja, meghiúsítja vagy veszélyezteti a sportrendezvényen résztvevők, az arra érkezők vagy az onnan távozók testi épségét vagy vagyoni javait.
 
-(2) Az (1) bekezdésben meghatározott kötelezettség megszegéséből eredő kárért a néző, több károkozó esetén a károkozásban részt vevő nézők egyetemlegesen, a Polgári Törvénykönyvnek a kártérítésre vonatkozó általános szabályai szerinti felelősséggel tartoznak. A kártérítési felelősség nem érinti a néző szabálysértési vagy büntetőjogi felelősségét.
+(2) Az (1) bekezdésben meghatározott kötelezettség megszegéséből eredő kárért a néző a Polgári Törvénykönyvnek a kártérítésre vonatkozó általános szabályai szerinti felelősséggel tartozik. Több károkozó esetén a károkozók egyetemlegesen felelnek. A kártérítési felelősség nem érinti a résztvevő szabálysértési vagy büntetőjogi felelősségét. A károkozó a sportszervezet részére minden, a károkozásból származó költséget köteles megtéríteni.
 
-(3) A néző a sportrendezvény befejezésének időpontjában, illetve a szervezőnek, rendezőnek vagy a rendőrségnek a személyi és vagyonbiztonságot veszélyeztető helyzet kialakulása miatt tett felhívására köteles a sportrendezvény helyszínét elhagyni.
+(3) A néző a sportrendezvény befejezésének időpontjában, valamint a szervezőnek, a rendezőnek vagy a rendőrségnek a személy- és vagyonbiztonságot veszélyeztető helyzet kialakulása miatt tett felhívására köteles a sportrendezvény helyszínét elhagyni.
 
-(4) A sportrendezvény és a nézők biztonságára vonatkozó részletes előírásokat külön jogszabály állapítja meg.
+(4) A sportrendezvény és a nézők, valamint a további résztvevők biztonságára vonatkozó részletes előírásokat jogszabály állapítja meg.
+
+### A sportrendészeti nyilvántartás
+
+76/A. § (1) A rendőrség a sportrendezvények látogatásától a szervező által eltiltott, valamint a szabálysértési hatóság vagy a bíróság által a sportrendezvényről, illetve a sportlétesítményből kitiltott személyek e törvény alapján nyilvántartott személyes adatait a sportrendezvények biztonságának védelme, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, mások jogainak védelme, a jegyértékesítés, valamint a sportrendezvényre történő belépés megtagadásának megállapítása céljából kezeli.
+
+(2) A sportrendezvények látogatásától a szervező által eltiltott, valamint a szabálysértési hatóság vagy a bíróság által a sportrendezvényről, illetve a sportlétesítményből kitiltott személyek nyilvántartása (a továbbiakban: sportrendészeti nyilvántartás) a hatálya alá tartozó személyek következő adatait tartalmazza:
+
+- a) a családi és utónév,
+- b) a születési hely és idő, valamint
+- c) az anyja születési családi és utóneve.
+
+(3) A kitiltás hatálya alatt állók tekintetében a sportrendészeti nyilvántartás tartalmazza
+
+- a) a kitiltott személy (2) bekezdés a)–c) pontjában meghatározott adatait,
+- b) az elkövetett szabálysértést,
+- c) a kitiltás időtartamát, továbbá
+- d) a sportlétesítmények megnevezését, valamint azon sportrendezvények körét, amelyekre a kitiltás hatálya kiterjed.
+
+(4) Az eltiltás hatálya alatt állók tekintetében a sportrendészeti nyilvántartás tartalmazza
+
+- a) az eltiltott személy (2) bekezdés a)–c) pontjában meghatározott adatait,
+- b) az eltiltó szervezet megnevezését,
+- c) az eltiltás időtartamát, továbbá
+- d) a sportlétesítmények megnevezését, valamint azon sportrendezvények körét, amelyekre az eltiltás hatálya kiterjed.
+
+(5) A rendőrség a sportrendészeti nyilvántartás adatait az eltiltás, valamint a kitiltás időtartamáig kezeli. Törölni kell a nyilvántartásból annak a személynek az adatait, akire vonatkozóan a nyilvántartási idő eltelt.
+
+(6) A sportrendészeti nyilvántartásból a rendőrség
+
+- a) a közrend és a közbiztonság védelme, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, továbbá mások jogainak védelme céljából a külföldi rendőri szerv részére a (2)–(4) bekezdésben foglalt,
+- b) a rendezvények biztonságának védelme, valamint a sportrendezvény látogatásának, továbbá a jegyértékesítés megtagadásának céljából a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, valamint a jegyértékesítést a szervező megbízásából végző személynek a (3) bekezdés a) és d) pontjában, valamint az (4) bekezdés a) és d) pontjában meghatározott
+
+adatokat továbbítja.
+
+(7) A (3) bekezdésben foglalt adatok szolgáltatása során a rendőrség a központi szabálysértési nyilvántartás adatait adja át.
+
+(8) A sportrendészeti nyilvántartás számára adatot szolgáltató szervező, valamint a (6) bekezdés b) pontjában meghatározott adatigénylésre jogosultak technikai és szervezési intézkedésekkel, ellenőrzési rendszer kialakításával gondoskodnak az adatokhoz történő jogosulatlan hozzáférés, valamint az adatok jogosulatlan megváltoztatása és nyilvánosságra hozatala elleni védelemről.
+
+(9) A szervező gondoskodik a továbbított adatok helyességéről, időszerűségéről, valamint utólag köteles értesíteni a rendőrséget a később felfedett adathibáról és a helyes adatról.
+
+(10) A rendőrség az adatszolgáltatásokról adattovábbítási nyilvántartást vezet, amely tartalmazza
+
+- a) az adatigénylő megnevezését, székhelyének, telephelyének címét, továbbá az adatigénylő szerv nevében eljáró személy nevét vagy egyedi azonosítóját,
+- b) a továbbított adatok körének megnevezését és az adattovábbítás időpontját,
+- c) az adatszolgáltatás célját és jogalapját, valamint
+- d) az adatszolgáltatás alanyának nevét.
+
+(11) A rendőrség az adattovábbítási nyilvántartásba bejegyzett adatot az adatszolgáltatástól számított öt évig kezeli.
 
 ### XI. Fejezet — ÉRTELMEZŐ ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -1233,7 +1330,7 @@ biztonsági kockázatú lehet.
 
 77. § E törvény alkalmazásában:
 
-- a) állami sportinformációs rendszer: a sportolókra, a sportszervezetekre, a sportköztestületekre, a sportközalapítványra, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak az állam által rendszerezett és nyilvánosan hozzáférhetővé tett összessége,
+- a) állami sportinformációs rendszer: a sportolókra, a sportszervezetekre, a sportköztestületekre, a, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak az állam által rendszerezett és nyilvánosan hozzáférhetővé tett összessége,
 - b) edző: a külön jogszabályban meghatározott szakképesítéssel rendelkező természetes személy, aki a sportolónak a sporttevékenységre való felkészítését végzi,
 - c) csapatsportág: azoknak a sportágaknak az összessége, amelyekben sporttevékenységet folytatni a játék jellegéből és a versenyrendszer szabályaiból adódóan kizárólag úgy lehet, hogy legalább három természetes személy alkot egy résztvevőt, és a sportágnak nincs egyéni változata,
 - d) építészeti akadálymentesítés: annak biztosítása, hogy az épített környezet kényelmes, biztonságos, önálló használata minden ember számára biztosított legyen, ideértve azokat a fogyatékos személyeket is, akiknek ehhez speciális létesítményekre, eszközökre, illetve műszaki megoldásokra van szükségük,
@@ -1250,7 +1347,8 @@ biztonsági kockázatú lehet.
 - o) sportrendezvény résztvevője: az a természetes személy, aki a sportrendezvény helyszínén annak időtartama alatt, valamint a sportrendezvényt megelőzően vagy követően másfél órával tartózkodik. A néző (szurkoló) résztvevőnek minősül,
 - p) sportszakember: az a természetes személy, aki a KSH elnökének a foglalkozások egységes osztályozási rendszeréről (FEOR) szóló 9029/1993. (SK 1994. 1.) KSH közlemény szerinti szakképesítéssel rendelkezik, illetve a sportszervezettel munkaviszonyban, vagy polgári jogi jogviszonyban sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el. Sportszakember különösen az edző, a csapatvezető, a mérkőzésvezető, a versenybíró, a sportorvos, a gyúró. A sportszövetség szabályzatában határozza meg, hogy az adott sportágban kik minősülnek sportszakembernek,
 - q) versenyrendszer: a sportág nemzetközi szövetsége és a hazai szakszövetség, illetve országos sportági szövetség – kivéve a szabadidősport szövetség – által meghatározott szabályok szerint szervezett fizikai vagy szellemi sportteljesítményt mérő erőpróba. A bajnokság versenyrendszernek minősül. A versenyrendszer hivatásos, amatőr és vegyes (nyílt) rendszerű lehet,
-- r) versenyszabályzat: a versenyrendszer keretében folytatott sporttevékenységre és az ahhoz közvetlenül kapcsolódó szakmai tevékenységekre vonatkozó előírások rendszerbe foglalt összessége, amely a versenyrendszerben részt vevő sportolók, sportszervezetek, sportszakemberek általános és sportági kötelezettségein túlmenően tartalmazza a versenyrendszert működtető sportszövetség eljárásának szabályait is.
+- r) versenyszabályzat: a versenyrendszer keretében folytatott sporttevékenységre és az ahhoz közvetlenül kapcsolódó szakmai tevékenységekre vonatkozó előírások rendszerbe foglalt összessége, amely a versenyrendszerben részt vevő sportolók, sportszervezetek, sportszakemberek általános és sportági kötelezettségein túlmenően tartalmazza a versenyrendszert működtető sportszövetség eljárásának szabályait is;
+- s) sportlétesítmény: sportrendezvény megrendezésének helyszínéül szolgáló építmény és terület.
 
 ### Hatályba léptető és átmeneti rendelkezések
 
@@ -1282,13 +1380,15 @@ biztonsági kockázatú lehet.
 - b) rendeletben állapítsa meg
   - ba) a doppingtilalomra és a doppingvizsgálatra vonatkozó részletes szabályokat,
   - bb) a sportfegyelmi felelősségre és a sportfegyelmi eljárásra vonatkozó részletes szabályokat,
-  - bc) a sportrendezvények biztonságára vonatkozó részletes szabályokat,
+  - bc) a sportrendezvények biztonságára és a Minősítő Bizottság működésére vonatkozó részletes szabályokat,
   - bd) az olimpiai központokra vonatkozó részletes szabályokat,
   - be) az olimpiai járadékra és a Nemzet Sportolója címre vonatkozó részletes szabályokat,
   - bf) a sport területén képesítéshez kötött tevékenységek gyakorlására vonatkozó részletes szabályokat,
   - bg) a sportorvoslás szabályaira és a sportegészségügyi hálózatra vonatkozó részletes szabályokat,
   - bh) az állami sportinformációs rendszerre vonatkozó részletes szabályokat és
-  - bi) a Magyar Köztársaság területén rendezett gépjárműversenyen vagy edzésen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre vonatkozó részletes szabályokat.
+  - bi) a Magyar Köztársaság területén rendezett gépjárműversenyen vagy edzésen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre vonatkozó részletes szabályokat,
+  - bj) a biztonságtechnikai fejlesztésre kötelezettek körét, és
+  - bk) a sportrendezvény térítés ellenében végzett biztosítására vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 

@@ -12,7 +12,7 @@ A társadalom közmegbecsülését élvező, demokratikus közigazgatás feltét
 
 (3) Az Alkotmánybíróság Hivatalának vezetője, valamint az Országgyűlés Hivatalának vezetői a közigazgatási államtitkárral, az Országgyűlés Hivatalának helyettes vezetői, valamint az Alkotmánybíróság Hivatalának helyettes vezetője a helyettes államtitkárral azonos illetményben, illetőleg juttatásban részesülnek.
 
-(4) A 10. §, a 10/B–10/C. § hatálya kiterjed azon magyar állampolgárokra is, akik pályázati eljárásban, közigazgatási versenyvizsgán vesznek részt, illetve felvételüket kérik a toborzási adatbázisba.
+(4) A 10. §, a 10/B–10/C. § hatálya kiterjed azon magyar állampolgárokra is, akik pályázati eljárásban vesznek részt, illetve felvételüket kérik a toborzási adatbázisba.
 
 (5) A 17/A. § (5)–(6) bekezdésének hatálya kiterjed azon munkáltatókra és a velük munkaviszonyban álló munkavállalókra, amelyek esetében a munkaviszony létesítésre a 17/A. § (3) bekezdése alapján kerül sor.
 
@@ -181,15 +181,7 @@ terjed ki.
 
 (9) Kormányrendeletben meghatározott módon a szolgáltató központ által vezetett nyilvántartásból – személy azonosítására alkalmas adatokat nem tartalmazó – adatszolgáltatás végezhető. A pályázatot kiíró közigazgatási szerv számára személy azonosítására alkalmas adatokat tartalmazó adatszolgáltatás végezhető.
 
-10/C. § (1) Versenyvizsgát tehet az a magyar állampolgár, aki büntetlen előéletű, cselekvőképes és legalább középfokú végzettséggel rendelkezik.
-
-(2) A versenyvizsga költségét a vizsgázó viseli. A köztisztviselői kinevezést, vezetői megbízást, illetve kinevezést kapott vizsgázó versenyvizsga díját – ide nem értve a megismételt versenyvizsga díját – a munkáltató megtéríti.
-
-(3) A teljesített versenyvizsga annak letételétől számított 5 évig érvényes. Ha a vizsgázó a vizsga teljesítését követően köztisztviselői kinevezést kapott, a versenyvizsga érvényessége a közszolgálati jogviszony fennállásáig, de legalább 5 évig, illetve a közszolgálati jogviszony megszűnését követő 1 évig érvényes.
-
-(4) A sikertelen és a teljesített versenyvizsga egyaránt megismételhető.
-
-(5)
+10/C. §
 
 ### Kinevezés
 
@@ -636,15 +628,21 @@ besorolást kap.
 
 (2) A közszolgálati jogviszonyban töltött idő 24. § szerinti számításánál a munkavégzési kötelezettséggel nem járó, megszakítás nélkül 6 hónapot meghaladó időtartamot – kivéve a sor- és tartalékos katonai, polgári szolgálat idejét, a 14 éven aluli gyermek ápolásának, gondozásának céljából, valamint a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát – figyelmen kívül kell hagyni.
 
-(3)–(6)
+(3) A köztisztviselőnek fogalmazó besorolásához egy éven belül, előadó besorolásához két éven belül kell közigazgatási alapvizsgát tennie. Közigazgatási alapvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet.
+
+(4) A közigazgatási alapvizsga letételére előírt határidőbe nem számít be a 30 napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a 30 napot meghaladó hivatalos kiküldetés időtartama.
+
+(5) Ha a gyakornok a közigazgatási alapvizsgát a (3) bekezdésben előírt határidőt követő hat hónapon belül nem teszi le, közszolgálati jogviszonya megszűnik.
+
+(6) A Kormány rendeletben állapítja meg a közigazgatási alapvizsga alóli mentesítés eseteit.
 
 (7) A pályakezdőként kinevezett köztisztviselőnek a tanácsos besorolási fokozatba soroláshoz közigazgatási szakvizsgát kell tennie. Közigazgatási szakvizsga hiányában a köztisztviselő nem sorolható a tanácsos besorolási fokozatba.
 
-(8) Közigazgatási szakvizsgát az az I. besorolási osztályba sorolt köztisztviselő tehet, aki közigazgatási szervnél szerzett legalább kétéves gyakorlattal rendelkezik. A jegyző, főjegyző és a vezetői megbízással, kinevezéssel rendelkező köztisztviselő közigazgatási szervnél szerzett gyakorlat nélkül is tehet közigazgatási szakvizsgát.
+(8) Közigazgatási szakvizsgát az az I. besorolási osztályba sorolt köztisztviselő tehet, aki közigazgatási alapvizsgát tett vagy az alól mentesült és közigazgatási szervnél szerzett legalább kétéves gyakorlattal rendelkezik. A jegyző, főjegyző és a vezetői megbízással, kinevezéssel rendelkező köztisztviselő közigazgatási szervnél szerzett gyakorlat nélkül is tehet közigazgatási szakvizsgát.
 
 (9) E törvény alkalmazásában közigazgatási szakvizsgával egyenértékű a jogi szakvizsga, valamint az OKV elnöksége által teljes körűen közigazgatási jellegűnek minősített tudományos fokozat és az annak alapján adott mentesítés. Az OKV elnöksége részben is közigazgatási jellegűnek minősítheti a köztisztviselő tudományos fokozatát, ebben az esetben a köztisztviselő a közigazgatási szakvizsgának abból a részéből tesz vizsgát, amelyre a mentesítés nem vonatkozik.
 
-(10) Közigazgatási szakvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet, feltéve, ha állam- és jogtudományi doktori, igazgatásszervezői, okleveles közgazdász képesítést, illetve Rendőrtiszti Főiskolán oklevelet szerzett.
+(10) Közigazgatási szakvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet, feltéve, ha közigazgatási alapvizsgát tett vagy az alól mentesült.
 
 (11) Az (1) bekezdés c) pontjában említett feltételek a köztisztviselő feladatának ellátásához nélkülözhetetlen ismeretek – képzés, továbbképzés, átképzés formájában történő – megszerzésére irányulhatnak.
 
@@ -670,7 +668,7 @@ besorolást kap.
 
 29. § (1) A nem pályakezdő köztisztviselőt kinevezésekor, áthelyezésekor a 23. § rendelkezésének megfelelően kell besorolni.
 
-(2)
+(2) Az (1) bekezdés szerint kinevezett, áthelyezett köztisztviselő a közigazgatási alapvizsgát a 25. § (3) bekezdésében meghatározott idő alatt köteles teljesíteni; ha e kötelezettségének nem tesz eleget, közszolgálati jogviszonya megszűnik.
 
 (3) Ha a nem pályakezdő köztisztviselő kinevezésekor, áthelyezésekor, átsorolásakor nem rendelkezik közigazgatási szakvizsgával, akkor a közigazgatási szakvizsgát kinevezésének, áthelyezésének, átsorolásának időpontjától számított három éven belül köteles letenni. A határidő számítására a 25. § (4) bekezdését megfelelően alkalmazni kell.
 
@@ -1911,7 +1909,7 @@ kevesebb idő van hátra.
 
 80. § (1) A Kormány rendeletben határozza meg
 
-- a) a képesítésre, képzésre, közigazgatási felsővezetői képzésre, továbbképzésre, közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, a közigazgatási vezetőképzésre,
+- a) a képesítésre, képzésre, közigazgatási felsővezetői képzésre, továbbképzésre, közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, valamint az alapvizsgák alóli mentesítésre, a közigazgatási vezetőképzésre,
 - b) a közszolgálati nyilvántartásra,
 - c) a közszolgálati jogviszonnyal összefüggő személyi iratokra,
 - d) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott köztisztviselők közszolgálati jogviszonyára, sajátos jogállására,
@@ -1920,7 +1918,7 @@ kevesebb idő van hátra.
 - g) a tartalékállományba helyezésre,
 - h) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által, e törvény alapján folytatott adatfeldolgozásra,
 - i) a közigazgatási szakmai gyakorlatra,
-- j) a közigazgatási versenyvizsga rendjére, szervezésére, lebonyolítására, teljesítésére, költségeire, a vizsgakövetelmények szintjére, tárgyköreire és megállapításának rendjére, valamint a közigazgatási versenyvizsga vizsgaszabályzatára,
+- j)
 - k) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által, e törvény alapján vezetett nyilvántartásokra, adatkezelésre és adatszolgáltatásra,
 - l) a kormányzati személyügyi igazgatási feladatokat ellátó szerv által lefolytatott pályáztatás rendjére, annak szervezésére és lebonyolítására, a kompetencia-vizsgálatra és a toborzási adatbázisra
 

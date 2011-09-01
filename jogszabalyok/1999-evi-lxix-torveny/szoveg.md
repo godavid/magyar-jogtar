@@ -187,7 +187,7 @@ Vhr.5. §
 
 ### Kitiltás
 
-22/A. § (1) A szabálysértési hatóság a büntetés alkalmazása mellett vagy önálló intézkedésként az eljárás alá vont személyt a sportrendezvényen való részvétellel összefüggő szabálysértés miatt kitilthatja a sportrendezvényről, illetve sportlétesítményből.
+22/A. § (1) A szabálysértési hatóság és a bíróság a büntetés alkalmazása mellett vagy önálló intézkedésként az eljárás alá vont személyt a sportrendezvényen való részvétellel, az odautazással, vagy az onnan történő távozással összefüggő szabálysértés miatt kitilthatja bármelyik sportszövetség versenyrendszerében megrendezésre kerülő sportrendezvényről, valamint bármelyik sportszövetség versenyrendszerében megrendezett sportesemény helyszínéül szolgáló sportlétesítményből.
 
 (2) A kitiltás legrövidebb időtartama hat hónap, leghosszabb időtartama pedig két év.
 
@@ -287,7 +287,7 @@ napján.
 - e) a nyomozó hatóságok és
 - f) a nemzetbiztonsági szolgálatok.
 
-(2) A sportrendezvényről történő kitiltás hatálya alatt álló személyről a 27/A. § (1) bekezdés szerinti adatok közül a kitiltás hatálya alatt álló személy nevét, anyja nevét, születési idejét a szabálysértési nyilvántartó szerv kérelemre az érintett sportrendezvény szervezője részére átadhatja. A sportrendezvény szervezőjét személyes adatkezelőnek kell tekinteni, aki a kitiltás hatályának megszűnését követően haladéktalanul köteles a személyes adat törléséről gondoskodni.
+(2) A szabálysértési nyilvántartó szerv a sportrendezvényről történő kitiltás hatálya alatt álló személy családi és utónevét, születési helyét és idejét, anyja születési családi és utónevét, a 27/A. § (1) bekezdés b) pont ba) alpontban, valamint a 27/A. § (1) bekezdés e) pontban szereplő adatokat a sportról szóló törvényben meghatározott sportrendészeti nyilvántartás részére történő adatátadás útján a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, valamint a jegyértékesítést a szervező megbízásából végző személynek továbbíthatja.
 
 (3) Az (1) és (2) bekezdésben felsoroltakon kívül a szabálysértési nyilvántartásból adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít a szabálysértési nyilvántartás adatainak megismerésére.
 
@@ -1675,7 +1675,7 @@ elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
 (2) Aki nyilvános rendezvényen
 
 - a) lőfegyvert vagy robbanóanyagot, illetőleg az élet kioltására vagy testi sértés okozására alkalmas eszközt tartva magánál jelenik meg,
-- b) a rendező szerv, illetőleg a rendőrség biztonságra vonatkozó felhívásának, rendelkezésének nem tesz eleget,
+- b) a rendező szerv vagy a rendőrség biztonságra vonatkozó felhívásának, különösen a helyszín elhagyására vonatkozó rendelkezésének nem tesz eleget,
 
 ötvenezer forintig terjedő pénzbírsággal sújtható.
 

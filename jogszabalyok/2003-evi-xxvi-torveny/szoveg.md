@@ -109,7 +109,7 @@ az Országos Területrendezési Tervről
   - ca) vízgazdálkodási térség,
   - cb) építmények által igénybe vett térség.
 
-(3) A kiemelt térségek területrendezési terve a (2) bekezdésben megjelöltektől eltérő, egyedileg meghatározott területfelhasználási kategóriát is kijelölhet a térség elsődleges funkciójának, illetve a kiemelés okának megfelelően.
+(3) A kiemelt térségek területrendezési terve a (2) bekezdésben megjelöltektől eltérő, egyedileg meghatározott területfelhasználási kategóriákat is kijelölhet a térség elsődleges funkciójának, illetve a kiemelés okának megfelelően, valamint a kiemelt térségek terve a térségi területfelhasználási kategóriákra a törvénytől eltérő előírást is megállapíthat.
 
 ### A térségi területfelhasználási kategóriákra vonatkozó szabályok
 
@@ -128,7 +128,7 @@ az Országos Területrendezési Tervről
 - b) a mezőgazdasági térséget legalább 85%-ban mezőgazdasági terület területfelhasználási egységbe kell sorolni, a térségben nagyvárosias lakóterület és vegyes terület területfelhasználási egység nem jelölhető ki;
 - c) a vegyes területfelhasználású térséget legalább 85%-ban mezőgazdasági terület vagy erdőterület területfelhasználási egységbe kell sorolni, a térségben nagyvárosias lakóterület kivételével lakóterület kijelölhető;
 - d) a városias települési térség bármely települési területfelhasználási egységbe sorolható;
-- e) a hagyományosan vidéki települési térség a nagyvárosias lakóterület és vegyes terület területfelhasználási egység kivételével bármely települési területfelhasználási egységbe sorolható;
+- e) a hagyományosan vidéki települési térség a nagyvárosias lakóterület kivételével bármelyik területfelhasználási egységbe sorolható,
 - f) a vízgazdálkodási térséget legalább 90%-ban vízgazdálkodási terület területfelhasználási egységbe kell sorolni, a fennmaradó részen beépítésre szánt terület nem jelölhető ki;
 - g) az építmények által igénybe vett térséget az adott építmény jellege szerinti települési területfelhasználási egységbe kell sorolni.
 
@@ -439,7 +439,7 @@ A közúthálózat fő elemei1
 
 1. Gyorsforgalmi utak
 
-| M0: | Budaörs – Budakeszi – Remeteszőlős – Solymár – Pilisborosjenő – Üröm – Budakalász – Szigetmonostor – Budapest, IV. ker. – Dunakeszi – Budapest, XV. ker. – Fót – Csömör – Budapest, XVI. ker. – Kistarcsa – Nagytarcsa – Budapest, XVII. ker. – Ecser – Üllő – Vecsés – Gyál – Budapest, XXIII. ker. – Dunaharaszti – Szigetszentmiklós – Budapest, XXII. ker. – Diósd – Törökbálint – Biatorbágy – Budaörs (az M2 és M1 közötti déli és keleti szakasz a TEN-T hálózat része) |
+| M0: | Budaörs – Budakeszi – Remeteszőlős térsége – Solymár – Pilisborosjenő – Üröm – Budakalász – Szigetmonostor – Budapest, IV. ker. – Dunakeszi – Budapest, XV. ker. – Fót – Csömör – Budapest, XVI. ker. – Kistarcsa – Nagytarcsa – Budapest, XVII. ker. – Ecser – Üllő – Vecsés – Gyál – Budapest, XXIII. ker. – Dunaharaszti – Szigetszentmiklós – Budapest, XXII. ker. – Diósd – Törökbálint – Biatorbágy – Budaörs (az M2 és M1 közötti déli és keleti szakasz a TEN- T hálózat része) |
 | --- | --- |
 | Megjegyzés: Az M0 nyugati szektorában a nyomvonalat környezeti hatásvizsgálat alapján, a védett természeti területen – ahol szükséges – alagútban kell vezetni. |  |
 |  | M1, M3, M4, M5, M7 fővárosi bevezető (M0-on belüli autópálya besorolású) szakaszai |

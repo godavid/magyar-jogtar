@@ -23,7 +23,7 @@ Az Országgyűlés a jogállam kiépítése, az alkotmányos rend és az Alkotm�
 
 3. § Az Alkotmánybíróság székhelye Esztergom.
 
-4. § (1) Az Alkotmánybíróság tizenegy tagból — köztük az elnökből és helyettes elnökből — álló testület.
+4. § (1) Az Alkotmánybíróság tizenöt tagból — köztük az elnökből és helyettes elnökből — álló testület.
 
 (2) Az Alkotmánybíróság a tagjai közül három évre megválasztja a helyettes elnökét, aki e tisztségre újraválasztható. Az újraválasztás nem érinti az Alkotmánybíróság tagjának megbízatási idejét.
 

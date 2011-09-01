@@ -235,7 +235,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - n) művelési-ág váltás támogatása;
 - o) a nem művelt, vagy méretük és kialakításuk miatt gazdaságosan nem művelhető területek megvételének és hasznosításának állami kezdeményező szereppel történő meggyorsítása;
 - p) a birtoknagyság alkalmassá tétele az európai uniós támogatások lehívhatóságához;
-- q) szociális földprogram támogatása;
+- q) szociális földprogram és közfoglalkoztatási program támogatása;
 - r) pályakezdő agrárvállalkozók és mezőgazdasági vagy erdészeti szakirányú végzettséggel rendelkezők támogatása;
 - s) különleges rendeltetésű (különösen oktatás, kutatás, büntetés-végrehajtás) gazdaságok működéséhez kedvezményes termőföld biztosítás.
 
@@ -345,11 +345,13 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (7) E § szerinti eladás, csere, haszonbérbe adás, vagy vagyonkezelésbe adás esetén – ide nem értve az (1) bekezdésben meghatározott esetet – a szerződéskötést megelőzően 10 nappal nyilvánosságra kell hozni a tervezett szerződésnek a 30. § (1) bekezdésében meghatározott adatait.
 
-22. § (1) A Nemzeti Földalapba tartozó földrészlet kötelező önkormányzati feladatok ellátásának elősegítése érdekében ingyenesen vagyonkezelésbe, temető létesítése céljából ingyenesen tulajdonba adható a földrészlet fekvése szerinti települési (fővárosban a kerületi) önkormányzat (a továbbiakban: önkormányzat), valamint a megyei önkormányzat részére. A Nemzeti Földalapba tartozó földrészlet szociális földprogram megvalósítása céljából az önkormányzat számára ingyenesen tulajdonba vagy ingyenesen vagyonkezelésbe adható. Az önkormányzat a vagyonkezelői jogot nem adhatja tovább.
+22. § (1) A Nemzeti Földalapba tartozó földrészlet kötelező önkormányzati feladatok ellátásának elősegítése érdekében ingyenesen vagyonkezelésbe, temető létesítése céljából ingyenesen tulajdonba adható a földrészlet fekvése szerinti települési (fővárosban a kerületi) önkormányzat (a továbbiakban: önkormányzat), valamint a megyei önkormányzat részére. A Nemzeti Földalapba tartozó földrészlet szociális földprogram és a közfoglalkoztatási program megvalósítása céljából az önkormányzat számára ingyenesen vagyonkezelésbe adható. Az önkormányzat a vagyonkezelői jogot nem adhatja tovább.
 
-(2) A vagyonkezelésbe, illetve a tulajdonba adás feltétele – a szociális földprogram megvalósítása céljára történő tulajdonba vagy vagyonkezelésbe adás kivételével – az ingatlanügyi hatóság által a termőföld más célú hasznosításának, illetve erdő művelési ágú földrészlet esetén az erdészeti hatóság által erdő igénybevételének engedélyezéséről hozott jogerős határozat.
+(2) A vagyonkezelésbe, illetve temető céljára a tulajdonba adás feltétele – a szociális földprogram, valamint közfoglalkoztatási program megvalósítása céljára vagyonkezelésbe adás kivételével – az ingatlanügyi hatóság által a termőföld más célú hasznosításának, illetve erdőművelési ágú földrészlet esetén az erdészeti hatóság által erdő igénybevételének engedélyezéséről hozott jogerős határozat.
 
 (3) E § szerinti vagyonkezelésbe, illetve tulajdonba adásról az NFA javaslata alapján a Kormány nyilvános határozattal dönt.
+
+(4) A földrészlet közfoglalkoztatási program megvalósítása céljából akkor adható az önkormányzat részére vagyonkezelésbe, ha arra a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó törvények módosításáról szóló törvényben meghatározott, közfoglalkoztatási jogviszony alapján ellátható feladat érdekében van szükség.
 
 23. § (1) A Nemzeti Földalap vagyoni körébe tartozó földrészlet tekintetében a művelési ág megváltoztatást, más célú hasznosítást vagy a rendes gazdálkodás körét meghaladó beruházást végrehajtani kizárólag az NFA előzetes hozzájárulásával lehet.
 
@@ -401,6 +403,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - c) a Nemzeti Földalapba tartozó földrészleteknek szociális földprogram megvalósítása céljából az önkormányzatok számára történő ingyenes tulajdonba vagy vagyonkezelésbe adásának szabályait;
 - d) a rábízott földvagyon és az ahhoz kapcsolódó bevételek és kiadások elszámolásának a szabályait, továbbá a rábízott földvagyon könyvvezetése és a beszámoló készítésének sajátosságait.
 - e) a 3. § (3) bekezdés hatálya alá tartozó ingatlanok hasznosításával kapcsolatos tulajdonosi joggyakorlás eljárásrendjének részletes szabályait.
+- f) a Nemzeti Földalapba tartozó földrészletek közfoglalkoztatási program megvalósítása céljából az önkormányzatok számára történő vagyonkezelésbe adásának szabályait;
 
 (2) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az ellenőrző bizottság működési rendjének, valamint működési költségei megtérítésének a szabályait.
 

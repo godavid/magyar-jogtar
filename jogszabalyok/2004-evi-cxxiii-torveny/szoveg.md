@@ -18,7 +18,7 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
   - a) a pályakezdő fiatal,
   - b) az a személy, aki a gyermekgondozási segély (a továbbiakban: gyes), a gyermekgondozási díj (a továbbiakban: gyed), a gyermeknevelési támogatás (a továbbiakban: gyet), valamint az ápolási díj folyósításának megszűnését követő egy éven (365 napon) belül kíván foglalkoztatásra irányuló jogviszonyt létesíteni, vagy aki a gyermek egyéves korának betöltését követően, e gyermek után igénybe vett gyes folyósítása mellett kíván munkát vállalni, feltéve, hogy foglalkoztatásra irányuló jogviszonyban nem áll,
   - c) a tartósan álláskereső;
-  - d) a bérpótló juttatásra jogosult álláskereső;
+  - d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 - 2. pályakezdő fiatal: a huszonötödik életévét – felsőfokú végzettségű személy esetén a harmincadik életévét – be nem töltött, foglalkoztatásra irányuló jogviszony létesítéséhez szükséges feltételekkel és érvényes START- kártyával rendelkező személy;
 - 3. foglalkoztatásra irányuló jogviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormánytisztviselői jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a hivatásos nevelő szülői jogviszony, a fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya;
 - 4. ösztöndíjas foglalkoztatási jogviszony: az e törvény szerinti, szakmai készségek megszerzése céljából munkatapasztalat-szerzés biztosítására és ennek keretében az egyéni szakmai programban foglalt feladatok ellátására létrejött jogviszony;
@@ -28,7 +28,7 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 - 8. munkaügyi törvény:az Mt., a Ktv., a Kjt., és a Ktjv.
 - 9. tartósan álláskereső: az a személy, akit az állami foglalkoztatási szerv a START PLUSZ kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőző 16 hónapon belül legalább 12 hónapig – az Flt. 58. §-a (5) bekezdésének k) pontjában meghatározott pályakezdő álláskereső esetében 8 hónapon belül legalább 6 hónapig – álláskeresőként nyilvántartott;
 - 10. öregségi nyugdíjra jogosult személy: az Flt. 58. §-a (5) bekezdésének i) pontjában meghatározott személy;
-- 11. rendelkezésre állási támogatásra jogosult álláskereső: az a személy, akit a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontjában az állami foglalkoztatási szerv álláskeresőként nyilvántart, és bérpótló juttatásban részesül.
+- 11. rendelkezésre állási támogatásra jogosult álláskereső: az a személy, akit a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontjában az állami foglalkoztatási szerv álláskeresőként nyilvántart, és foglalkoztatást helyettesítő támogatásban részesül.
 
 (3) Az álláskeresőként történő nyilvántartásnak a (2) bekezdés 9. pontjában meghatározott időtartamába a külön jogszabályban meghatározott rendszeres szociális segélyben részesülő személy esetében be kell számítani azt az időtartamot is, amely alatt a rendszeres szociális segélyben részesülő személy a települési önkormányzat által kijelölt szervvel együttműködött.
 
@@ -111,7 +111,7 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 6. § (1) Az Art. szerinti START EXTRA kártya kiváltására jogosult
 
 - a) a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőzően legalább 3 hónapig álláskeresőként nyilvántartott személy, ha ötvenedik életévét betöltötte, vagy életkorra való tekintet nélkül legfeljebb alapfokú iskolai végzettséggel rendelkezik, vagy
-- b) a bérpótló juttatásra jogosult álláskereső.
+- b) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső.
 
 (2) A munkaadót az (1) bekezdésben meghatározott személy foglalkoztatásának időtartamára a START EXTRA kártya érvényességi idején belül illeti meg a 7. §-ban meghatározott kedvezmény abban az esetben is, ha a foglalkoztatás időtartama azt meghaladja.
 
