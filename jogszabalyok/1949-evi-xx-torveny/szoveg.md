@@ -388,7 +388,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (4) Az Alkotmánybíróság eljárását törvényben meghatározott esetekben bárki kezdeményezheti.
 
-(5) Az Alkotmánybíróság tizenegy tagját az Országgyűlés választja. Az Alkotmánybíróság tagjaira – a képviselőcsoportok közötti létszámarányokat is figyelembe véve – az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjainak tagjaiból álló jelölő bizottság tesz javaslatot. Az Alkotmánybíróság tagjainak megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
+(5) Az Alkotmánybíróság tizenöt tagját az Országgyűlés választja. Az Alkotmánybíróság tagjaira – a képviselőcsoportok közötti létszámarányokat is figyelembe véve – az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjainak tagjaiból álló jelölő bizottság tesz javaslatot. Az Alkotmánybíróság tagjainak megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
 (6) Az Alkotmánybíróság tagjai nem lehetnek tagjai pártnak, és az Alkotmánybíróság hatásköréből adódó feladatokon kívül politikai tevékenységet nem folytathatnak.
 

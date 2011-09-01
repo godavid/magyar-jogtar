@@ -1,58 +1,68 @@
-# 2005. évi LXIV. törvény
+# 2011. évi LXXXVIII. törvény
 
-a Budapesti Agglomeráció Területrendezési Tervéről
+a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény módosításáról
 
-### I. Fejezet — Általános rendelkezések
+1. § A Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény (a továbbiakban: BATrT) a következő 1/A. §-sal egészül ki:
 
-1. § (1) A törvény hatálya Budapestre és Pest megyének a Budapesti Agglomerációhoz tartozó településeire, illetve települési önkormányzataira (a továbbiakban együtt: Budapesti Agglomeráció) terjed ki. A Budapesti Agglomeráció területéhez tartozó települések felsorolását az 1/1. számú melléklet tartalmazza.
+„1/A. § (1) E törvény alkalmazásában
 
-(2) Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény (a továbbiakban: OTrT) rendelkezéseit az e törvényben foglalt eltérésekkel kell a Budapesti Agglomeráció területén alkalmazni.
+1. humán infrastruktúra kapacitása: városias települési térség területén, illetve hagyományosan vidéki települési térség területén a népesség alapellátását szolgáló nevelési, oktatási, egészségügyi és igazgatási intézményi ellátás biztosítása,
 
-1/A. § (1) E törvény alkalmazásában
+2. jelentős közösségi közlekedési csomóponti megállóhely: olyan megállóhely, ahol legalább 1000 utas/nap munkanapi átszálló utasforgalom számolható,
 
-- 1. humán infrastruktúra kapacitása: városias települési térség területén, illetve hagyományosan vidéki települési térség területén a népesség alapellátását szolgáló nevelési, oktatási, egészségügyi és igazgatási intézményi ellátás biztosítása,
-- 2. jelentős közösségi közlekedési csomóponti megállóhely: olyan megállóhely, ahol legalább 1000 utas/nap munkanapi átszálló utasforgalom számolható,
-- 3. különleges rendeltetésű térség: olyan térség, amelybe erdőterületek, mezőgazdasági területek, valamint – a különleges beépítésre nem szánt területek köréből – az egészségügyi, sportolási, valamint megújuló energiaforrás hasznosítási területek tartoznak,
-- 4. magas zöldfelületi arányú települési térség: olyan térség, amelybe összességében 15%-nál alacsonyabb beépítettségű területek tartoznak,
-- 5. műszaki infrastruktúra kapacitása: városias települési térség területén, illetve hagyományosan vidéki települési térség területén a szükséges közúti közlekedési, vasúti közlekedési és közüzemi ellátás biztosítása,
-- 6. nagy kiterjedésű zöldterületi települési térség: 5 hektárnál nagyobb kiterjedésű térség, amelybe megkülönböztetett védelmet és szabályozást igénylő olyan összefüggő települési zöldfelületek tartoznak, amelyek a települések szerkezetének meghatározó jelentőségű elemei,
-- 7. történelmi sportterület: 1914. előtt sportolási célra használt terület.
+3. különleges rendeltetésű térség: olyan térség, amelybe erdőterületek, mezőgazdasági területek, valamint – a különleges beépítésre nem szánt területek köréből – az egészségügyi, sportolási, valamint megújuló energiaforrás hasznosítási területek tartoznak,
 
-(2) Az e törvényben szereplő – az (1) bekezdésben nem említett – fogalmakra az OTrT 2. §-ában foglalt meghatározásokat kell alkalmazni.
+4. magas zöldfelületi arányú települési térség: olyan térség, amelybe összességében 15%-nál alacsonyabb beépítettségű területek tartoznak,
 
-2. § A Budapesti Agglomeráció Területrendezési Terve
+5. műszaki infrastruktúra kapacitása: városias települési térség területén, illetve hagyományosan vidéki települési térség területén a szükséges közúti közlekedési, vasúti közlekedési és közüzemi ellátás biztosítása,
 
-- a) a Budapesti Agglomeráció Szerkezeti Tervét (a továbbiakban: Szerkezeti Terv), valamint
-- b) a Budapesti Agglomeráció Övezeti Tervét (a továbbiakban: Övezeti Terv) tartalmazza.
+6. nagy kiterjedésű zöldterületi települési térség: 5 hektárnál nagyobb kiterjedésű térség, amelybe megkülönböztetett védelmet és szabályozást igénylő olyan összefüggő települési zöldfelületek tartoznak, amelyek a települések szerkezetének meghatározó jelentőségű elemei,
 
-### II. Fejezet — Szerkezeti Terv
+7. történelmi sportterület: 1914. előtt sportolási célra használt terület.
 
-3. § (1) A Szerkezeti Terv a településrendszert és a térségi területfelhasználásnak és a műszaki infrastruktúra-hálózatnak a térbeli rendjét határozza meg, M = 1:50 000 méretarányban.
+(2) Az e törvényben szereplő – az (1) bekezdésben nem említett – fogalmakra az OTrT 2. §-ában foglalt meghatározásokat kell alkalmazni.”
 
-(2) A Szerkezeti Tervet a 2. számú (térképi) melléklet tartalmazza.
+2. § A BATrT 3. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-4. § A Budapesti Agglomeráció térségi területfelhasználási kategóriái a következők:
+„(1) A Szerkezeti Terv a településrendszert és a térségi területfelhasználásnak és a műszaki infrastruktúra-hálózatnak a térbeli rendjét határozza meg, M = 1:50 000 méretarányban.”
 
-- a) legalább 5 hektár területű térségek:
-  - aa) erdőgazdálkodási térség,
-  - ab) nagy kiterjedésű zöldterületi települési térség,
-  - ac) magas zöldfelületi arányú települési térség,
-- b) legalább 10 hektár területű térségek:
-  - ba) mezőgazdasági térség,
-  - bb) különleges rendeltetésű térség,
-- c) területi korlát nélküli térség:
-  - ca) városias települési térség,
-  - cb) hagyományosan vidéki települési térség,
-  - cc) építmények által igénybe vett térség,
-  - cd) vízgazdálkodási térség.
+3. § A BATrT 4–10. §-a helyébe a következő rendelkezések lépnek:
+
+„4. § A Budapesti Agglomeráció térségi területfelhasználási kategóriái a következők:
+
+a) legalább 5 hektár területű térségek:
+
+aa) erdőgazdálkodási térség,
+
+ab) nagy kiterjedésű zöldterületi települési térség,
+
+ac) magas zöldfelületi arányú települési térség,
+
+b) legalább 10 hektár területű térségek:
+
+ba) mezőgazdasági térség,
+
+bb) különleges rendeltetésű térség,
+
+c) területi korlát nélküli térség:
+
+ca) városias települési térség,
+
+cb) hagyományosan vidéki települési térség,
+
+cc) építmények által igénybe vett térség,
+
+cd) vízgazdálkodási térség.
 
 5. § (1) Települési térségek a városias települési térség, a hagyományosan vidéki települési térség, a nagy kiterjedésű zöldterületi települési térség, valamint a magas zöldfelületi arányú települési térség.
 
 (2) Városias települési térségben és a hagyományosan vidéki települési térségben új lakóterület, vegyes terület, gazdasági terület, illetve üdülőterület abban az esetben jelölhető ki, ha
 
-- a) a tervezett területfelhasználás jól illeszthető a település meglevő szerkezetéhez,
-- b) táj- és természetvédelmi, környezetvédelmi, erdővédelmi, valamint kulturális örökségvédelmi és árvízvédelmi szempontok alapján nem sért társadalmi érdeket, és
-- c) a tervezett funkció ellátásához szükséges műszaki infrastruktúra kapacitás azt lehetővé teszi vagy a terület igénybevételével párhuzamosan kiépül.
+a) a tervezett területfelhasználás jól illeszthető a település meglevő szerkezetéhez,
+
+b) táj- és természetvédelmi, környezetvédelmi, erdővédelmi, valamint kulturális örökségvédelmi és árvízvédelmi szempontok alapján nem sért társadalmi érdeket, és
+
+c) a tervezett funkció ellátásához szükséges műszaki infrastruktúra kapacitás azt lehetővé teszi vagy a terület igénybevételével párhuzamosan kiépül.
 
 (3) Városias települési térségben és hagyományosan vidéki települési térségben új beépítésre szánt terület a település közigazgatási határához 200 méternél közelebb csak az állami főépítésznek a területrendezési hatósági eljárás során kiadott területfelhasználási engedélye alapján jelölhető ki.
 
@@ -66,8 +76,11 @@ a Budapesti Agglomeráció Területrendezési Tervéről
 
 (8) A magas zöldfelületi arányú települési térségnek
 
-- a) legfeljebb 30%-án beépítésre szánt üdülőterület, illetve – a beépítésre szánt különleges terület területfelhasználási egység köréből – oktatási, egészségügyi és sport célú terület,
-- b) legalább 70%-án beépítésre nem szánt terület alakítható ki.
+a) legfeljebb 30%-án beépítésre szánt üdülőterület, illetve – a beépítésre szánt különleges terület területfelhasználási egység köréből – oktatási, egészségügyi és sport célú terület,
+
+b) legalább 70%-án beépítésre nem szánt terület
+
+alakítható ki.
 
 (9) A 7000 m2 nettó eladótérnél nagyobb új kereskedelmi, szolgáltató rendeltetésű építmény ott helyezhető el, ahol az építmény bejárata 300 méternél nem hosszabb gyalogos közlekedéssel megközelíthető a meglévő, vagy a tervezett funkció megvalósításával együtt kiépítendő jelentős közösségi közlekedési csomóponti megállóhelytől számítva.
 
@@ -89,38 +102,55 @@ a Budapesti Agglomeráció Területrendezési Tervéről
 
 (2) Az országos és a térségi jelentőségű műszaki infrastruktúra-hálózatok és egyedi építmények kialakítását az OTrT 1/1–10. számú mellékletében, valamint az e törvény 1/2. számú mellékletében megjelölt települések közigazgatási területének érintésével és a 2. számú (térképi) melléklet figyelembevételével kell meghatározni.
 
-10. § A vízgazdálkodási térséget legalább 95%-ban vízgazdálkodási terület, illetve természetközeli terület területfelhasználási egységbe kell sorolni. A fennmaradó részen olyan területfelhasználási egység jelölhető ki, amely nem veszélyezteti a vízgazdálkodás érdekeit.
+10. § A vízgazdálkodási térséget legalább 95%-ban vízgazdálkodási terület, illetve természetközeli terület területfelhasználási egységbe kell sorolni. A fennmaradó részen olyan területfelhasználási egység jelölhető ki, amely nem veszélyezteti a vízgazdálkodás érdekeit.”
 
-### III. Fejezet — Övezeti Terv
+4. § A BATrT 12–16. §-a helyébe a következő rendelkezések lépnek:
 
-11. § (1) Az Övezeti Terv a Budapesti Agglomerációban érvényesítendő sajátos területrendezési szabályok érvényesítésére kijelölt kiemelt térségi övezeteket M = 1 : 50 000 méretarányban határozza meg.
+„12. § A térségi övezetek a következők:
 
-(2) Az Övezeti Tervet a 3. számú (térképi) melléklet tartalmazza, amely 3/1–22. jelű övezeti tervlapokból áll.
+a) magterület övezete,
 
-12. § A térségi övezetek a következők:
+b) ökológiai folyosó övezete,
 
-- a) magterület övezete,
-- b) ökológiai folyosó övezete,
-- c) puffer terület övezete,
-- d) kiváló termőhelyi adottságú szántóterület övezete,
-- e) kiváló termőhelyi adottságú erdőterület övezete,
-- f) erdőtelepítésre alkalmas terület övezete,
-- g) országos komplex tájrehabilitációt igénylő terület övezete,
-- h) térségi komplex tájrehabilitációt igénylő terület övezete,
-- i) országos jelentőségű tájképvédelmi terület övezete,
-- j) térségi jelentőségű tájképvédelmi terület övezete,
-- k) világörökség és világörökség-várományos terület övezete,
-- l) történeti települési terület övezete,
-- m) kiemelten érzékeny felszín alatti vízminőség-védelmi terület övezete,
-- n) felszíni vizek vízminőség-védelmi vízgyűjtő területének övezete,
-- o) ásványi nyersanyag-gazdálkodási terület övezete,
-- p) rendszeresen belvízjárta terület övezete,
-- q) nagyvízi meder övezete,
-- r) földtani veszélyforrás területének övezete,
-- s) vízeróziónak kitett terület övezete,
-- t) széleróziónak kitett terület övezete,
-- u) kiemelt fontosságú meglévő honvédelmi terület övezete,
-- v) honvédelmi terület övezete.
+c) puffer terület övezete,
+
+d) kiváló termőhelyi adottságú szántóterület övezete,
+
+e) kiváló termőhelyi adottságú erdőterület övezete,
+
+f) erdőtelepítésre alkalmas terület övezete,
+
+g) országos komplex tájrehabilitációt igénylő terület övezete,
+
+h) térségi komplex tájrehabilitációt igénylő terület övezete,
+
+i) országos jelentőségű tájképvédelmi terület övezete,
+
+j) térségi jelentőségű tájképvédelmi terület övezete,
+
+k) világörökség és világörökség-várományos terület övezete,
+
+l) történeti települési terület övezete,
+
+m) kiemelten érzékeny felszín alatti vízminőség-védelmi terület övezete,
+
+n) felszíni vizek vízminőség-védelmi vízgyűjtő területének övezete,
+
+o) ásványi nyersanyag-gazdálkodási terület övezete,
+
+p) rendszeresen belvízjárta terület övezete,
+
+q) nagyvízi meder övezete,
+
+r) földtani veszélyforrás területének övezete,
+
+s) vízeróziónak kitett terület övezete,
+
+t) széleróziónak kitett terület övezete,
+
+u) kiemelt fontosságú meglévő honvédelmi terület övezete,
+
+v) honvédelmi terület övezete.
 
 13. § (1) A kiváló termőhelyi adottságú szántóterület övezetében beépítésre szánt terület nem jelölhető ki.
 
@@ -132,206 +162,82 @@ a Budapesti Agglomeráció Területrendezési Tervéről
 
 16. § (1) A magterület övezetben beépítésre szánt terület nem jelölhető ki, kivéve, ha
 
-- a) a települési területet a magterület vagy a magterület és az ökológiai folyosó körülzárja, vagy
-- b) a magterület övezetében történelmi sportterületek találhatók, és
-- c) a kijelölést más jogszabály nem tiltja.
+a) a települési területet a magterület vagy a magterület és az ökológiai folyosó körülzárja, vagy
 
-(2) Az (1) bekezdés a) és c) pontjában vagy b) és c) pontjában szereplő kivételek együttes fennállása esetén a beépítésre szánt terület területrendezési hatósági eljárás alapján jelölhető ki. Az eljárás során vizsgálni kell, hogy biztosított-e a magterület, a magterület és az ökológiai folyosó természetes és természetközeli élőhelyeinek fennmaradása, valamint az ökológiai kapcsolatok zavartalan működése. Az (1) bekezdés b) és c) pontjában szereplő feltételek együttes fennállása esetén történő kijelölés csak a történelmi sportterületeken belül történhet.
+b) a magterület övezetében történelmi sportterületek találhatók, és
 
-17–20. §
+c) a kijelölést más jogszabály nem tiltja.
 
-### IV. Fejezet — Hatályba léptető és vegyes rendelkezések
+(2) Az (1) bekezdés a) és c) pontjában vagy b) és c) pontjában szereplő kivételek együttes fennállása esetén a beépítésre szánt terület területrendezési hatósági eljárás alapján jelölhető ki. Az eljárás során vizsgálni kell, hogy biztosított-e a magterület, a magterület és az ökológiai folyosó természetes és természetközeli élőhelyeinek fennmaradása, valamint az ökológiai kapcsolatok zavartalan működése. Az (1) bekezdés b) és c) pontjában szereplő feltételek együttes fennállása esetén történő kijelölés csak a történelmi sportterületeken belül történhet.”
 
-21. § (1) Ez a törvény 2005. szeptember 1-jén lép hatályba.
+5. § A BATrT a következő 22. §-sal egészül ki:
 
-(2) E törvény hatálybalépésétől az 1027/1986. (V. 22.) MT határozattal jóváhagyott Budapesti Agglomeráció regionális rendezési tervét nem lehet alkalmazni.
-
-(3)–(5)
-
-(6) A Budapesti Agglomeráció Területrendezési Tervét legalább 5 évente felül kell vizsgálni.
-
-(7) E törvény végrehajtására a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvényben foglalt eljárási szabályok irányadóak.
-
-(8) E törvény alkalmazásában – a főváros esetében – település alatt a főváros közigazgatási területe értendő.
-
-(9)–(10)
-
-(11)
-
-22. § (1) E törvénynek a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény módosításáról szóló 2011. évi LXXXVIII. törvénnyel (a továbbiakban: BATrTMód.) megállapított 1/A. §-ában, 3. § (1) bekezdésében, 4–10. §-ában, 12–15. §-ában, 1/2. számú mellékletében, 1/3. számú mellékletében, 2. számú mellékletében, valamint 3. számú mellékletében foglalt rendelkezéseit a BATrTMód. hatálybalépését követően indult ügyekben kell alkalmazni.
+„22. § (1) E törvénynek a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény módosításáról szóló 2011. évi LXXXVIII. törvénnyel (a továbbiakban: BATrTMód.) megállapított 1/A. §-ában, 3. § (1) bekezdésében, 4–10. §-ában, 12–15. §-ában, 1/2. számú mellékletében, 1/3. számú mellékletében, 2. számú mellékletében, valamint 3. számú mellékletében foglalt rendelkezéseit a BATrTMód. hatálybalépését követően indult ügyekben kell alkalmazni.
 
 (2) A BATrTMód. hatálybalépése előtt elfogadott településrendezési eszközöket
 
-- a) a főváros esetében a BATrTMód. hatálybalépését követő egy éven belül, a fővárosi kerületek esetében további két éven belül,
-- b) az e törvény hatálya alá tartozó, az a) pontba nem tartozó települések esetében a BATrTMód. hatálybalépését követő három éven belül összhangba kell hozni e törvénnyel.
+a) a főváros esetében a BATrTMód. hatálybalépését követő egy éven belül, a fővárosi kerületek esetében további két éven belül,
 
-### 1/1. számú melléklet a 2005. évi LXIV. törvényhez
+b) az e törvény hatálya alá tartozó, az a) pontba nem tartozó települések esetében a BATrTMód. hatálybalépését követő három éven belül
 
-A Budapesti Agglomeráció területéhez tartozó települések
+összhangba kell hozni e törvénnyel.”
 
-Budapest
+6. § (1) A BATrT 1/2. számú melléklete helyébe e törvény 1. melléklete lép.
 
-Alsónémedi
+(2) A BATrT e törvény 2. melléklete szerinti 1/3. számú melléklettel egészül ki.
 
-Biatorbágy
+(3) A BATrT 2. számú (térképi) melléklete helyébe e törvény 3. melléklete lép.
 
-Budajenő
+(4) A BATrT 3. számú (térképi) melléklete helyébe e törvény 4. melléklete lép.
 
-Budakalász
+7. § Hatályát veszti a BATrT
 
-Budakeszi
+- a) 2. §-át megelőző alcím,
+- b) 4. §-át megelőző alcím,
+- c) 12. §-át megelőző alcím,
+- d) 17. §-át megelőző alcím és 17–20. §-a,
+- e) 21. § (3)–(5) és (11) bekezdése.
 
-Budaörs
+8. § (1) Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény (a továbbiakban: OTrT) 5. § (3) bekezdés helyébe a következő rendelkezés lép:
 
-Csobánka
+„(3) A kiemelt térségek területrendezési terve a (2) bekezdésben megjelöltektől eltérő, egyedileg meghatározott területfelhasználási kategóriákat is kijelölhet a térség elsődleges funkciójának, illetve a kiemelés okának megfelelően, valamint a kiemelt térségek terve a térségi területfelhasználási kategóriákra a törvénytől eltérő előírást is megállapíthat.”
 
-Csomád
+(2) Az OTrT 6. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
 
-Csömör
+(A kiemelt térségi és megyei területfelhasználási kategóriákon belül a települési területfelhasználási egységek kijelölése során a következő szabályokat kell alkalmazni:)
 
-Csörög
+„e) a hagyományosan vidéki települési térség a nagyvárosias lakóterület kivételével bármelyik területfelhasználási egységbe sorolható,”
 
-Délegyháza
+(3) Az OTrT 1/1. számú melléklet „1. Gyorsforgalmi utak” táblázata első sorának helyébe a következő sor lép:
 
-Diósd
+| „M0: | Budaörs – Budakeszi – Remeteszőlős térsége – Solymár – Pilisborosjenő – Üröm – Budakalász – Szigetmonostor – Budapest, IV. ker. – Dunakeszi – Budapest, XV. ker. – Fót – Csömör – Budapest, XVI. ker. – Kistarcsa – Nagytarcsa – Budapest, XVII. ker. – Ecser – Üllő – Vecsés – Gyál – Budapest, XXIII. ker. – Dunaharaszti – Szigetszentmiklós – Budapest, XXII. ker. – Diósd – Törökbálint – Biatorbágy – Budaörs (az M2 és M1 közötti déli és keleti szakasz a TEN- T hálózat része)” |
+| --- | --- |
 
-Dunabogdány
+9. § A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény (a továbbiakban: Tftv.) 5. §-a a következő t) ponttal egészül ki:
 
-Dunaharaszti
+(A törvény alkalmazásában:)
 
-Dunakeszi
+„t) területcsere: olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszavonttal megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni.”
 
-Dunavarsány
+10. § (1) A Tftv. 23/D. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
 
-Ecser
+„(3) A kiváló termőhelyi adottságú szántóterület övezetében, a kiváló termőhelyi adottságú erdőterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és az erdőtelepítésre alkalmas terület övezetében, valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a területcsere az állami főépítésznek a területrendezési hatósági eljárás során kiadott térségi területfelhasználási engedélye alapján történik.
 
-Erdőkertes
+(4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.”
 
-Érd
+(2) A Tftv. 27. § (1) bekezdés u) pontja helyébe a következő rendelkezés lép:
 
-Felsőpakony
+(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
 
-Fót
+„u) a 23/D. § (3) bekezdésében meghatározott övezetekben és esetekben a beépítésre szánt területek kivételes kijelölésére, valamint a területcserére vonatkozó területrendezési hatósági eljárás részletes szabályait;”
 
-Göd
+11. § A BATrT 11. § (2) bekezdésében a „3/1–10. jelű” szövegrész helyébe a „3/1–22. jelű” szöveg lép.
 
-Gödöllő
+12. § Ez a törvény a kihirdetését követő második hónap első napján lép hatályba.
 
-Gyál
+### 1. melléklet a 2011. évi LXXXVIII. törvényhez
 
-Gyömrő
-
-Halásztelek
-
-Herceghalom
-
-Isaszeg
-
-Kerepes
-
-Kistarcsa
-
-Kisoroszi
-
-Leányfalu
-
-Majosháza
-
-Maglód
-
-Mogyoród
-
-Nagykovácsi
-
-Nagytarcsa
-
-Ócsa
-
-Őrbottyán
-
-Páty
-
-Perbál
-
-Pécel
-
-Pilisborosjenő
-
-Piliscsaba
-
-Pilisjászfalu
-
-Pilisszántó
-
-Pilisszentiván
-
-Pilisszentkereszt
-
-Pilisszentlászló
-
-Pilisvörösvár
-
-Pomáz
-
-Pócsmegyer
-
-Pusztazámor
-
-Remeteszőlős
-
-Solymár
-
-Sóskút
-
-Szada
-
-Százhalombatta
-
-Szentendre
-
-Szigethalom
-
-Szigetmonostor
-
-Szigetszentmiklós
-
-Sződ
-
-Sződliget
-
-Tahitótfalu
-
-Taksony
-
-Tárnok
-
-Telki
-
-Tinnye
-
-Tök
-
-Tököl
-
-Törökbálint
-
-Üllő
-
-Üröm
-
-Vác
-
-Vácrátót
-
-Vecsés
-
-Veresegyház
-
-Visegrád
-
-Zsámbék
-
-### 1/2. számú melléklet a 2005. évi LXIV. törvényhez
+„1/2. számú melléklet a 2005. évi LXIV. törvényhez
 
 Országos és térségi jelentőségű műszaki infrastruktúra-hálózatok és egyedi építmények
 
@@ -683,7 +589,11 @@ Országos és térségi jelentőségű műszaki infrastruktúra-hálózatok és 
 | 2.3.2.21. | Zsámbék – Százhalombatta – Budapest [Albertfalva] felhasítási pontja |
 | 2.3.2.22. | Zsámbék – Tinnye |
 
-### 1/3. számú melléklet a 2005. évi LXIV. törvényhez
+”
+
+### 2. melléklet a 2011. évi LXXXVIII. törvényhez
+
+„1/3. számú melléklet a 2005. évi LXIV. törvényhez
 
 Területi mérleg
 
@@ -1095,10 +1005,16 @@ Területi mérleg
 | 404. | erdőgazdálkodási térség | 265,54 | 7,89 |
 | 405. | mezőgazdasági térség | 1764,03 | 52,40 |
 
-### 2. számú melléklet a 2005. évi LXIV. törvényhez
+”
 
-20050000000064_1
+### 3. melléklet a 2011. évi LXXXVIII. törvényhez
 
-### 3. számú melléklet a 2005. évi LXIV. törvényhez
+[2. számú (térképi) melléklet a 2005. évi LXIV. törvényhez]
 
-20050000000064_2
+20110000000088_1
+
+### 4. melléklet a 2011. évi LXXXVIII. törvényhez
+
+[3. számú (térképi) melléklet a 2005. évi LXIV. törvényhez]
+
+20110000000088_2

@@ -80,7 +80,8 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - o) szerkezetátalakítás térségei: azok az aránytalan ipari szerkezetű munkaerő-piaci vonzáskörzetek, ahol a munkanélküliség aránya jelentősen, és az ipari foglalkoztatottak aránya, továbbá csökkenése meghaladja az országos átlagot;
 - p) mezőgazdasági vidékfejlesztés térségei (rurális térségek): azok a térségek, ahol jelentős a mezőgazdaságban foglalkoztatottak, illetve a mezőgazdasággal foglalkozók aránya a foglalkoztatási szerkezetben, illetve a községekben, továbbá a kisvárosokban élő népesség aránya;
 - r) innovációs központok: azon megfelelő termelési és szellemi háttérrel, illetve kapcsolatrendszerrel rendelkező települések, amelyek a gazdaság növekedését, szerkezetváltását és megújulását, illetve a társadalmi fejlődést nagyobb térségben segítik elő, vagy mindezek elérése érdekében tudatos fejlesztési politika érvényesül;
-- s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja.
+- s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja;
+- t) területcsere: olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszavonttal megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni.
 
 ### II. Fejezet — A KÖZPONTI ÁLLAMI SZERVEK TERÜLETFEJLESZTÉSI ÉS TERÜLETRENDEZÉSI FELADAT- ÉS HATÁSKÖRE
 
@@ -766,9 +767,9 @@ rendszere.
 
 (2) A településrendezési terv hiányában vagy a tervi elem településrendezési mélységű lehatárolásának hiányában a kiemelt térségi vagy a megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítása az állami főépítész térségi területfelhasználási engedélye alapján történik.
 
-(3) A kiváló termőhelyi adottságú szántóterület övezetében, a kiváló termőhelyi adottságú erdőterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és az erdősítésre alkalmas terület övezetében, valamint a kiemelt térségek területrendezési tervére vonatkozó törvények hatálya alá tartozó település közigazgatási határától számított 200 m-nél közelebbi területen a beépítésre szánt területek kivételes kijelölése az állami főépítész térségi területfelhasználási engedélye alapján történik.
+(3) A kiváló termőhelyi adottságú szántóterület övezetében, a kiváló termőhelyi adottságú erdőterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és az erdőtelepítésre alkalmas terület övezetében, valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a területcsere az állami főépítésznek a területrendezési hatósági eljárás során kiadott térségi területfelhasználási engedélye alapján történik.
 
-(4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a tervezett hálózat vagy építmény nem felel meg az elfogadott országos területrendezési terv előírásainak.
+(4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.
 
 (5) A térségi területfelhasználási engedélykérelmet két hónapon belül kell elbírálni. A (3) bekezdés szerinti eljárás esetében az ügyintézési határidő harminc nap.
 
@@ -841,7 +842,7 @@ rendszere.
 - r) a kormányzati területfejlesztési feladatokért felelős szerv vagy szervek kijelölését,
 - s) az állami főépítész vagy főépítészek kijelölését,
 - t) a területrendezési tervekben nem szereplő, térségi jelentőségű műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezésére, beillesztésére vonatkozó területrendezési hatósági eljárás részletes szabályait;
-- u) a 23/D. § (3) bekezdésében meghatározott övezetekben és esetekben a beépítésre szánt területek kivételes kijelölésére vonatkozó területrendezési hatósági eljárás részletes szabályait;
+- u) a 23/D. § (3) bekezdésében meghatározott övezetekben és esetekben a beépítésre szánt területek kivételes kijelölésére, valamint a területcserére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 - v) a kiemelt térségi vagy megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítására vonatkozó területrendezési hatósági eljárás részletes szabályait;
 - z) a területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő – személyes adatot nem tartalmazó – dokumentumok körét, azok gyűjtésének, megőrzésének, nyilvántartásának és hasznosításának részletes szabályait, továbbá a kapcsolódó adatszolgáltatásért járó költségtérítés összegét és megfizetésének szabályait.
 

@@ -169,7 +169,7 @@ végezhet.
 
 láthat el.
 
-(6) Rendes munkaidő terhére egészségügyi ügyelet akkor rendelhető el, ha ebben a felek előzetesen írásban megállapodtak. Ha az ügyelet rendes munkaidőben történő ellátása az alkalmazott egészségügyi dolgozó alapbérét, illetményét érinti, erre a megállapodásban ki kell térni.
+(6) Egészségügyi ügyelet a rendes munkaidő terhére is elrendelhető, ha ebben a felek előzetesen írásban megállapodtak. Ebben az esetben az alkalmazott egészségügyi dolgozó rendes munkaidő teljesítésére vonatkozó kötelezettségét egészségügyi ügyelet ellátásával is teljesítheti. Ha az egészségügyi ügyelet része a rendes munkaidőnek, az alkalmazott egészségügyi dolgozó alapbérére, illetményére a megállapodásban ki kell térni. Eltérő megállapodás hiányában az alkalmazott egészségügyi dolgozót a rendes munkaidőnek minősített egészségügyi ügyelet minden órájára – ha a 13/A. § alapján megállapított ügyeleti díj mértéke annál kevesebb – illetményének vagy személyi alapbérének egy órára eső összege illeti meg.
 
 (7) Amennyiben az alkalmazott egészségügyi dolgozó jogviszonya kizárólag ügyeleti feladatok ellátására irányul, az ügyeleti feladatok ellátására e jogviszonyban kizárólag készenléti jellegű munkakörben kerülhet sor.
 
@@ -178,6 +178,8 @@ láthat el.
 (9) A készenlét az egészségügyi dolgozónak az egészségügyi szolgáltató napi munkarendje szerinti munkaidő befejezésétől a következő napi munkarend szerinti munkaidő kezdetéig az egészségügyi dolgozó által megjelölt és a munkavégzés helyére figyelemmel reálisan elérhető helyen és időben való rendelkezésre állása.
 
 (10) A (9) bekezdés szerinti készenlét havonta legfeljebb tíz alkalommal rendelhető el. Munkaidőkeret alkalmazása esetén a készenlét havi mértékét a munkaidőkeret átlagában kell figyelembe venni.
+
+(11) A heti pihenőnap vagy munkaszüneti nap, amelyen az egészségügyi dolgozó egészségügyi ügyeletet látott el – a 13/A. § (1) bekezdés b) vagy c) pontja alapján irányadó ügyeleti díjon túl – elsősorban azonos tartamú pihenőidővel kompenzálandó. Ha a munkáltató objektív munkaszervezési okokból kiesett heti pihenőnap helyett másik pihenőnapot kiadni nem tud, az e napot is érintő egészségügyi ügyelet díjazására a 13/A. § (1) bekezdés d) pontja irányadó.
 
 12/A. § (1) Az alkalmazott egészségügyi dolgozóval a munkaidő-beosztást, amely tartalmazza az egészségügyi ügyelet és a készenlét beosztását is – kollektív szerződés eltérő rendelkezése hiányában – legalább egy hónappal korábban, és legalább egy hónapra előre, írásban közölni kell.
 
@@ -226,7 +228,7 @@ rendelhet el.
 - a) a 12 órát,
 - b) egészségügyi ügyelet ellátása esetén a 24 órát, amelyből legalább 12 órában egészségügyi ügyeletet teljesít.
 
-(6) Az egészségügyi tevékenység befejezése és a következő, munkarend szerint megkezdett egészségügyi tevékenység között legalább 11 óra időtartamú megszakítás nélküli pihenőidőt kell biztosítani, amely a napi huszonnégy órán át folyamatos szolgáltatást nyújtó egészségügyi szolgáltatók esetében a felek megállapodása alapján legalább 8 óra időtartamú megszakítás nélküli pihenőidőre csökkenthető. Egészségügyi ügyelet esetén ezt a pihenőidőt közvetlenül az egészségügyi ügyelet befejezését követően kell kiadni.
+(6) Az egészségügyi tevékenység befejezése és a következő, munkarend szerint megkezdett egészségügyi tevékenység között legalább 11 óra időtartamú megszakítás nélküli pihenőidőt kell biztosítani, amely a napi huszonnégy órán át folyamatos szolgáltatást nyújtó egészségügyi szolgáltatók esetében a felek megállapodása alapján legalább 8 óra időtartamú megszakítás nélküli pihenőidőre csökkenthető. Egészségügyi ügyelet esetén ezt a pihenőidőt közvetlenül az egészségügyi ügyelet befejezését követően ki kell adni (a továbbiakban: kompenzáló pihenőidő). Ha az egészségügyi ügyeletet a munkáltató az (1) bekezdés b) pontja alapján a napi munkarend szerinti munkaidőn túl rendelte el, az alkalmazott egészségügyi dolgozó az egészségügyi ügyeletet megelőző, napi munkarend szerint teljesített munkaidő után további pihenőidőre nem jogosult.
 
 (7) Az Mt. 124. §-ának (8) bekezdésében foglaltaktól eltérően az Mt. 127. § (6) bekezdés c) pontja szerinti munkavállaló esetében a heti pihenőnap részben összevonható, ha a munkavállaló munkaköri feladataként munkaidejének legalább 50%-ában ügyeleti feladatokat lát el, azzal, hogy hat nap munkavégzést követően legalább egy pihenőnap kiadása kötelező.
 
@@ -234,11 +236,16 @@ rendelhet el.
 
 (9) Az alkalmazott egészségügyi dolgozó munkaidejének az (1) és (2) bekezdésben foglalt legmagasabb mértékére megállapított felső határ alkalmazásakor munkaidőnek tekintendő az egészségügyi ügyelet teljes időtartama, a heti munkaidő e bekezdésekben meghatározott legmagasabb időtartamába az egészségügyi ügyelet teljes időtartamát, valamint az egészségügyi ügyeleten kívül elrendelt rendkívüli munkavégzés időtartamát is be kell számítani.
 
+(10) A munkáltató a munkaidőt köteles úgy beosztani, hogy az egészségügyi ügyeletet is ellátó egészségügyi dolgozó a heti rendes munkaidejét – munkaidőkeret alkalmazása esetén annak átlagában – teljesítse.
+
+(11) Ha a munkáltató munkaszervezési okokból nem tudja az alkalmazott egészségügyi dolgozó munkaidejét a (10) bekezdésben foglaltak szerint beosztani, a munkáltató a rendes munkaidőből hiányzó órákra az Mt. 150. § (2) bekezdésének alkalmazásával az egészségügyi dolgozó részére a személyi alapbére, illetve az illetménye egy-egy órára eső összegét fizeti meg.
+
 13/A. § (1) Az egészségügyi ügyelet, valamint a készenlét ellátásáért az alkalmazottat ügyeleti díj, illetve készenléti díj illeti meg, amelynek mértékét – figyelemmel a 12. § (6) bekezdésében foglaltakra – kollektív szerződés vagy a felek megállapodása határozza meg. Kollektív szerződés rendelkezése, illetve a felek megállapodása hiányában az ügyeleti díj mértéke nem lehet kevesebb
 
 - a) hétköznap az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegének 70%-ánál,
 - b) heti pihenőnapon az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegének 80%-ánál,
-- c) munkaszüneti napon az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegének 90%-ánál.
+- c) munkaszüneti napon az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegének 90%-ánál,
+- d) a 12. § (11) bekezdése szerinti esetben az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegénél.
 
 (2) Az (1) bekezdés szerinti készenléti díj mértéke legalább a készenlét minden órájára a személyi alapbér, illetve az illetmény egy órára eső összegének 25%-a. A készenlét során elrendelt munkavégzés díjazására az Mt. 148. § (2) bekezdését kell alkalmazni, azzal, hogy a munkavégzés időtartamát az alkalmazott értesítésétől kell számítani.
 
