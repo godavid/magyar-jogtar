@@ -456,7 +456,8 @@ a közlekedési hatóság adja ki.
 - h) a közúti közlekedési szolgáltatást vagy saját számlás szállítási tevékenységet végző járművek műszaki és környezetvédelmi tulajdonságaira, a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére, továbbá az ömlesztett áruk szállítására,
 - i) a nemzetközi kombinált árufuvarozást elősegítő kedvezményekre,
 - j) a nehéz tehergépkocsik közlekedésének korlátozására,
-- k) a megengedett legnagyobb sebességre („gyorshajtás”), a biztonsági öv használatára, a továbbhaladás tilalmára („tilos jelzésen történő áthaladás”), és a járművezető szervezetében a szeszes ital fogyasztásából származó alkohol tilalmára („ittas vezetés”)
+- k) a megengedett legnagyobb sebességre („gyorshajtás”), a biztonsági öv használatára, a továbbhaladás tilalmára („tilos jelzésen történő áthaladás”), és a járművezető szervezetében a szeszes ital fogyasztásából származó alkohol tilalmára („ittas vezetés”),
+- l) a magyarországi illetőségű személynek vagy szervezetnek a külföldi hatósági jelzéssel ellátott jármű belföldi üzemeltetésére, használatára
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
@@ -464,7 +465,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdés a)–j) pontjában foglalt valamely rendelkezés megsértőjével szemben 10 000 forinttól 800 000 forintig, a k) pontban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j) és l) pontjában foglalt valamely rendelkezés megsértőjével szemben 10 000 forinttól 800 000 forintig, a k) pontban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
 (4a) A közúti forgalomban történő ellenőrzés során, ha a 20. § (1) bekezdés k) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
 
@@ -555,7 +556,7 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 21/B. § (1) A közigazgatási bírság kiszabására irányuló eljárás a szabálysértési eljárás ugyanazon jogsértés miatt történő lefolytatását nem érinti.
 
-(2) Helyszíni bírság, továbbá szabálysértési eljárásban pénzbírság nem szabható ki azzal a személlyel szemben, akivel szemben a szabálysértés alapjául szolgáló előírás megsértése miatt a 21. § (1) és (2) bekezdése alapján vagy a 21/A. § (2) bekezdése alapján közigazgatási bírság kiszabásának van helye, vagy a 20. § (4a) bekezdése alapján bírságot szabtak ki.
+(2) Helyszíni bírság, továbbá szabálysértési eljárásban pénzbírság nem szabható ki azzal a személlyel szemben, akivel szemben a szabálysértés alapjául szolgáló előírás megsértése miatt a 21. § (1) és (2) bekezdése alapján vagy a 21/A. § (2) bekezdése alapján közigazgatási bírság kiszabásának van helye.
 
 ### A központi közlekedési közigazgatási bírságnyilvántartás
 
@@ -737,6 +738,30 @@ nem terjednek ki.
 - f) a lassú jármű
 
 – a 25. §-ban meghatározott kivételek alkalmazása mellett – a közúti forgalomban érvényes hatósági engedéllyel és jelzéssel vehet részt.
+
+### A külföldi rendszámmal ellátott járművek belföldi üzemeltetésére, használatára vonatkozó sajátos szabályok
+
+25/B. § (1) A közúti forgalomban a 25/A. §-ban meghatározott jármű a közlekedési igazgatási hatóság által kiadott magyar hatósági engedéllyel és jelzéssel vehet részt, amennyiben:
+
+- a) az üzemben tartója e törvény rendelkezései szerint belföldi üzembentartónak minősül vagy
+- b) vezetője Magyarország területén lakóhellyel rendelkezik.
+
+(2) Az (1) bekezdés a) pontjában foglaltakat nem kell alkalmazni, ha
+
+- a) az üzemben tartó olyan nem természetes személy, amely rendszeres tevékenységét a külföldön bejegyzett székhelye vagy telephelye szerinti országban végzi,
+- b) a jármű tulajdonosa a jármű forgalomba helyezését a közlekedési igazgatási hatóságnál már kezdeményezte.
+
+(3) A (2) bekezdés b) pontja alkalmazása során forgalomba helyezés kezdeményezésének minősül a jármű származás ellenőrzési nyilvántartásba vétele is.
+
+(4) Az (1) bekezdés b) pontjában foglaltakat nem kell alkalmazni, ha a járművezető
+
+- a) szokásos tartózkodási helye nem Magyarország területén van,
+- b) a járművet harminc napnál rövidebb ideig használja Magyarország területén és a használathoz az üzembentartó a jármű birtokba adása időpontjának megjelölésével írásban hozzájárult,
+- c) a járművet Magyarország területén kívüli rendszeres munkavégzés érdekében használja.
+
+(5) A (2) és (4) bekezdésekben meghatározott feltételek fennállását az ellenőrzés során a jármű üzemben tartója, valamint a jármű vezetője közokirattal vagy teljes bizonyító erejű magánokirattal köteles igazolni.
+
+(6) Az ellenőrző hatóság az (1) bekezdésben meghatározottak megsértéséről a jármű hatósági engedélyében feltüntetett, a jármű tulajdonosára és az üzemben tartójára vonatkozó adatok, valamint a jármű azonosító- és műszaki adatainak továbbításával értesíti az állami adóhatóságot is.
 
 26. § A járműállomány zavartalan üzemeltetése érdekében hazai gyártású járműveknél a gyártó, importból származó járműveknél az importáló feladata
 

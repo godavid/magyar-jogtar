@@ -30,7 +30,7 @@ a bírósági végrehajtásról
 
 6. §
 
-7. § (1) A bírósági végrehajtás során a pénzkövetelést elsősorban a pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló összegből, illetőleg az adós munkabéréből, illetményéből, munkadíjából, a munkaviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóságából, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazásából, juttatásából, követeléséből (a továbbiakban együtt: munkabéréből) kell behajtani.
+7. § (1) A bírósági végrehajtás során a pénzkövetelést elsősorban a pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló összegből, illetőleg az adós munkabéréből, illetményéből, munkadíjából, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóságából, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazásából, juttatásából, követeléséből (a továbbiakban együtt: munkabéréből) kell behajtani.
 
 (2) Ha előre látható, hogy a követelést a munkabérre, illetőleg a pénzforgalmi szolgáltatónál kezelt összegre vezetett végrehajtással nem lehet viszonylag rövidebb időn belül behajtani, az adós bármilyen lefoglalható vagyontárgya végrehajtás alá vonható. A lefoglalt ingatlant azonban csak akkor lehet értékesíteni, ha a követelés az adós egyéb vagyontárgyaiból nincs teljesen fedezve, vagy csak aránytalanul hosszú idő múlva elégíthető ki.
 

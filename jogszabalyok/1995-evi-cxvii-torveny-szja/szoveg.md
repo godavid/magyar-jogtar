@@ -119,7 +119,7 @@ azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a
 - 19. Mezőgazdasági kistermelő: az a mezőgazdasági őstermelő, akinek az e tevékenységéből az adóévben megszerzett bevétele a 8 millió forintot nem haladja meg.
 - 20. Üzemanyag-fogyasztási norma: a közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabály szerinti üzemanyag- és kenőanyag-felhasználás mértéke. Amennyiben így nem állapítható meg a norma, akkor a gyártó által, vagy műszaki szakértő által megállapított mérték.
 - 21. Bér:
-  - a) a munkaviszonyból származó jövedelem (kivéve a munkáltató által fizetett adóköteles biztosítási díjat, valamint a munkaviszony megszüntetésére tekintettel kapott végkielégítést);
+  - a) a munkaviszonyból, közfoglalkoztatási jogviszonyból származó jövedelem (kivéve a munkáltató által fizetett adóköteles biztosítási díjat, valamint a munkaviszony megszüntetésére tekintettel kapott végkielégítést);
   - b) az adóköteles társadalombiztosítási ellátás;
   - c) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján folyósított adóköteles ellátás (kivéve az adóterhet nem viselő járandóságnak minősülő ellátást);
   - d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított álláskeresési járadék, álláskeresési segély, ha ennek megállapítására nem a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a keresetkiegészítés és keresetpótló juttatás;
@@ -612,7 +612,7 @@ azzal, hogy nem zárja ki az egyszerűsített bevallást, ha a magánszemély cs
 
 (2) A nem önálló tevékenységből származó jövedelmet az e tevékenységből származó bevételből a 25–27. § rendelkezései szerint kell kiszámítani.
 
-25. § (1) Nem önálló tevékenységből származó bevétel minden olyan bevétel, amelyet a magánszemély e tevékenységével összefüggésben, vagy egyébként az e tevékenysége alapjául szolgáló jogviszonyára tekintettel megszerez. Ilyennek minősül különösen a nem önálló tevékenység alapjául szolgáló jogviszonyra tekintettel munkabér, tiszteletdíj, illetmény, jutalom, üzemanyag-megtakarítás címén fizetett összeg, költségtérítés, a más személy által fizetett adóköteles biztosítási díj címén kapott bevétel, a társas vállalkozásban személyesen közreműködő magánszemély tag (a továbbiakban: személyes közreműködő) által személyes közreműködése ellenében kapott juttatás, ha azt a társas vállalkozás költségei között számolják el (a továbbiakban: személyes közreműködői díj). Figyelemmel a (2) bekezdés rendelkezéseire is, a nem önálló tevékenységből származó bevétel egésze jövedelem, kivéve a nem önálló tevékenységre tekintettel költségtérítés címén kapott bevételt, melyből levonható – legfeljebb a költségtérítés címén kapott bevétel mértékéig – a 3. számú melléklet rendelkezései szerint elismert költség.
+25. § (1) Nem önálló tevékenységből származó bevétel minden olyan bevétel, amelyet a magánszemély e tevékenységével összefüggésben, vagy egyébként az e tevékenysége alapjául szolgáló jogviszonyára tekintettel megszerez. Ilyennek minősül különösen a nem önálló tevékenység alapjául szolgáló jogviszonyra tekintettel munkabér, közfoglalkoztatási bér, tiszteletdíj, illetmény, jutalom, üzemanyag-megtakarítás címén fizetett összeg, költségtérítés, a más személy által fizetett adóköteles biztosítási díj címén kapott bevétel, a társas vállalkozásban személyesen közreműködő magánszemély tag (a továbbiakban: személyes közreműködő) által személyes közreműködése ellenében kapott juttatás, ha azt a társas vállalkozás költségei között számolják el (a továbbiakban: személyes közreműködői díj). Figyelemmel a (2) bekezdés rendelkezéseire is, a nem önálló tevékenységből származó bevétel egésze jövedelem, kivéve a nem önálló tevékenységre tekintettel költségtérítés címén kapott bevételt, melyből levonható – legfeljebb a költségtérítés címén kapott bevétel mértékéig – a 3. számú melléklet rendelkezései szerint elismert költség.
 
 (2) A nem önálló tevékenységből származó jövedelem kiszámításánál nem kell figyelembe venni azt a bevételt, amelyet – figyelemmel a (3)–(4) bekezdés rendelkezéseire is – a munkáltatótól a munkába járásról szóló kormányrendelet szerinti munkába járás esetén
 
@@ -2907,6 +2907,8 @@ sporteseményre szóló belépőjegy, bérlet;
 8.38. a reprezentáció és az üzleti ajándék alapján meghatározott bevétel, ha azt a kifizető társasági adóalapot növelő tételként köteles figyelembe venni.
 
 8. 39. a kifizető által biztosított védőoltás.
+
+8.40. a közfoglalkoztatási rendszerben a közfoglalkoztatottnak a külön törvényben meghatározott természetbeni ellátások.
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 

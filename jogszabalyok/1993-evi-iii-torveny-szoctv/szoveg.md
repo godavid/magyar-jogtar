@@ -72,7 +72,7 @@ meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és te
 - f) háztartás: az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező személyek közössége;
 - g) szociális szolgáltató: az a személy vagy szervezet, amely kizárólag a 60–65/E. §-ban meghatározott szociális alapszolgáltatásokat nyújtja. Ha jogszabály másként nem rendelkezik, a szociális szolgáltatókra a szociális intézményekre vonatkozó szabályokat kell megfelelően alkalmazni;
 - h) szociális intézmény: az e törvényben meghatározott nappali, illetve bentlakásos ellátást nyújtó szervezet;
-- i) rendszeres pénzellátás: a táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, az öregségi nyugdíj, a rokkantsági nyugdíj, a rehabilitációs járadék, az öregségi járadék, a munkaképtelenségi járadék, az özvegyi járadék, a növelt összegű öregségi, munkaképtelenségi és özvegyi járadék, az özvegyi nyugdíj – kivéve az ideiglenes özvegyi nyugdíjat, továbbá a házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodó személy özvegyi nyugdíját –, a baleseti táppénz, a baleseti rokkantsági nyugdíj, a hozzátartozói baleseti nyugellátás, az Flt. alapján folyósított pénzbeli ellátás, az átmeneti járadék, a rendszeres szociális járadék, a bányászok egészségkárosodási járadéka, a rokkantsági járadék, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a gyermekgondozási segély, a gyermeknevelési támogatás, az időskorúak járadéka, a rendelkezésre állási támogatás, a bérpótló juttatás, a rendszeres szociális segély, az ápolási díj, a nemzeti helytállásért elnevezésű pótlék, valamint az uniós rendeletek alapján külföldi szerv által folyósított egyéb azonos típusú ellátás;
+- i) rendszeres pénzellátás: a táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, az öregségi nyugdíj, a rokkantsági nyugdíj, a rehabilitációs járadék, az öregségi járadék, a munkaképtelenségi járadék, az özvegyi járadék, a növelt összegű öregségi, munkaképtelenségi és özvegyi járadék, az özvegyi nyugdíj – kivéve az ideiglenes özvegyi nyugdíjat, továbbá a házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodó személy özvegyi nyugdíját –, a baleseti táppénz, a baleseti rokkantsági nyugdíj, a hozzátartozói baleseti nyugellátás, az Flt. alapján folyósított pénzbeli ellátás, az átmeneti járadék, a rendszeres szociális járadék, a bányászok egészségkárosodási járadéka, a rokkantsági járadék, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a gyermekgondozási segély, a gyermeknevelési támogatás, az időskorúak járadéka, a rendelkezésre állási támogatás, a bérpótló juttatás, foglalkoztatást helyettesítő támogatás,, a rendszeres szociális segély, az ápolási díj, a nemzeti helytállásért elnevezésű pótlék, valamint az uniós rendeletek alapján külföldi szerv által folyósított egyéb azonos típusú ellátás;
 - j) keresőtevékenység, ha e törvény másként nem rendelkezik: minden olyan munkavégzéssel járó tevékenység, amelyért ellenérték jár, kivéve a tiszteletdíj alapján végzett tevékenységet, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát nem haladja meg, valamint mezőgazdasági őstermelői igazolvánnyal folytatott tevékenységet, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál nem kell figyelembe venni; nem minősül ellenértéknek a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatás;
 - k) aktív korú: a 18. életévet betöltött, de a reá irányadó nyugdíjkorhatárt, illetőleg a 62. életévet be nem töltött személy ;
 - l) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van;
@@ -246,9 +246,9 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - h) a jogosult Társadalombiztosítási Azonosító Jelét (TAJ szám);
 - i) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozó esetén a rokoni kapcsolatot;
 - j) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó, külön törvényben foglalt adatokat;
-- k) a bérpótló juttatásra jogosult személy iskolai végzettségét és szakképzettségét.
+- k) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai végzettségét és szakképzettségét.
 
-19. § (1) A 18. §-ban szabályozott nyilvántartásból a szociális hatáskört gyakorló szervek, a gyámügyi feladatokat ellátó szervek, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, a kincstár, az igazságszolgáltatási szervek, a katonai igazgatási szervek, valamint a személyes gondoskodást nyújtó szociális intézmények (a továbbiakban: adatigénylésre jogosult szervek) részére – külön törvényben meghatározott feladataik ellátása céljából – eseti megkeresésük alapján továbbíthatók az általuk törvény alapján kezelhető adatok.
+19. § (1) A 18. §-ban szabályozott nyilvántartásból a szociális hatáskört gyakorló szervek, a gyámügyi feladatokat ellátó szervek, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, a kincstár, a bíróság, az ügyészség, a nyomozó hatóság, a katonai igazgatási szervek, valamint a személyes gondoskodást nyújtó szociális intézmények (a továbbiakban: adatigénylésre jogosult szervek) részére – külön törvényben meghatározott feladataik ellátása céljából – eseti megkeresésük alapján továbbíthatók az általuk törvény alapján kezelhető adatok.
 
 (2) Ha a szabad mozgás és tartózkodás jogával rendelkező személy három hónapnál hosszabb ideig részesül időskorúak járadékában vagy a 43/B. § alapján ápolási díjban, továbbá ha az aktív korúak ellátására való jogosultsága három hónapot meghaladó időtartamban fennáll, a jegyző erről a tényről értesíti a szabad mozgás és tartózkodás jogával rendelkező személy lakóhelye szerint illetékes területi idegenrendészeti hatóságot.
 
@@ -331,7 +331,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 - a) a települési önkormányzat jegyzője az e törvényben meghatározott feltételek szerint
   - aa) időskorúak járadékát,
-  - ab) bérpótló juttatást,
+  - ab) foglalkoztatást helyettesítő támogatást,
   - ac) rendszeres szociális segélyt,
   - ad) a 41. § (1) bekezdésében és a 43/A. § (1) bekezdésében foglalt ápolási díjat;
 - b) a települési önkormányzat képviselő-testülete az e törvényben, illetve az önkormányzat rendeletében meghatározott feltételek szerint
@@ -345,7 +345,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 (4) A jogosultságot megállapító szerv
 
 - a) az időskorúak járadékára, a rendszeres szociális segélyre és az ápolási díjra (a továbbiakban együtt: havi rendszeres szociális ellátás) való jogosultság feltételeinek fennállását kétévente,
-- b) a bérpótló juttatásra való jogosultság feltételeinek fennállását évente
+- b) a foglalkoztatást helyettesítő támogatásra való jogosultság feltételeinek fennállását évente
 
 legalább egyszer felülvizsgálja, és ha a felülvizsgálat során megállapítást nyer, hogy a feltételek továbbra is fennállnak, az ellátást a felülvizsgálatnak megfelelő összegben tovább folyósítja.
 
@@ -356,7 +356,7 @@ legalább egyszer felülvizsgálja, és ha a felülvizsgálat során megállapí
 
 kell folyósítani.
 
-(6) A havi rendszeres szociális ellátás összegét, valamint a bérpótló juttatásra való jogosultság jövedelmi feltételének fennállását felül kell vizsgálni, ha az ellátás megállapításának alapjául szolgáló jövedelemben tartós változás történt, vagy az ellátás megállapításánál figyelembe vett, egy háztartásban élő családtagok létszáma megváltozott.
+(6) A havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultság jövedelmi feltételének fennállását felül kell vizsgálni, ha az ellátás megállapításának alapjául szolgáló jövedelemben tartós változás történt, vagy az ellátás megállapításánál figyelembe vett, egy háztartásban élő családtagok létszáma megváltozott.
 
 (7) Tartós jövedelemváltozásnak kell tekinteni
 
@@ -379,14 +379,14 @@ figyelemmel kell elvégezni.
 
 kell folyósítani.
 
-(10) Ha a (4)–(6) bekezdés szerinti felülvizsgálat eredményeként a havi rendszeres szociális ellátásra vagy a bérpótló juttatásra való jogosultság megszűnik, akkor az ellátás folyósítását a határozat meghozatala hónapjának utolsó napjával meg kell szüntetni.
+(10) Ha a (4)–(6) bekezdés szerinti felülvizsgálat eredményeként a havi rendszeres szociális ellátásra vagy a foglalkoztatást helyettesítő támogatásra való jogosultság megszűnik, akkor az ellátás folyósítását a határozat meghozatala hónapjának utolsó napjával meg kell szüntetni.
 
-(11) A (7) bekezdés b)–c) pontja alkalmazásában nem minősül keresőtevékenységnek a bérpótló juttatásra jogosult személy közfoglalkoztatásban való részvétele.
+(11) A (7) bekezdés b)–c) pontja alkalmazásában nem minősül keresőtevékenységnek a foglalkoztatást helyettesítő támogatásra jogosult személy közfoglalkoztatásban való részvétele.
 
 (12) A jövedelemszámításnál
 
 - a) a (4)–(6) bekezdés szerinti felülvizsgálat során annak a havi rendszeres szociális ellátásnak az összegét, amelynek összegére vagy jogosultsági feltételeinek fennállására a felülvizsgálat vonatkozik,
-- b) a bérpótló juttatásra való jogosultság, vagy a jogosultság jövedelmi feltételének (4) és (6) bekezdés szerinti felülvizsgálata során a bérpótló juttatásra jogosult közfoglalkoztatásban való részvételéből származó jövedelmet
+- b) a foglalkoztatást helyettesítő támogatásra való jogosultság, vagy a jogosultság jövedelmi feltételének (4) és (6) bekezdés szerinti felülvizsgálata során a foglalkoztatást helyettesítő támogatásra jogosult közfoglalkoztatásban való részvételéből származó jövedelmet
 
 figyelmen kívül kell hagyni.
 
@@ -504,7 +504,7 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 
 (5) Aktív korúak ellátására egy családban egyidejűleg – a (6) bekezdésben meghatározott kivétellel – csak egy személy jogosult.
 
-(6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a bérpótló juttatás, míg a másik személy a rendszeres szociális segély feltételeinek felel meg.
+(6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a foglalkoztatást helyettesítő támogatás, míg a másik személy a rendszeres szociális segély feltételeinek felel meg.
 
 34. § (1) Nem állapítható meg az aktív korúak ellátására való jogosultság annak a személynek, aki
 
@@ -523,21 +523,21 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 - b) aki az aktív korúak ellátására való jogosultság feltételeinek vagy az annak keretében megállapított pénzbeli ellátás összegének felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza,
 - c) aki keresőtevékenységet folytat, kivéve, ha a keresőtevékenység alapjául szolgáló jogviszonyt 90 napot meg nem haladó időtartamra létesítette, továbbá ide nem értve a közfoglalkoztatást, az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát,
 - d) akire vonatkozóan az aktív korúak ellátására való jogosultság fennállása alatt a munkaügyi hatóság a jogellenes munkavégzés tényét két éven belül ismételten jogerősen megállapította, vagy
-- e) akinek a 36. § (2) bekezdése alapján a bérpótló juttatásra, vagy a 37/B. § (2) bekezdése alapján a rendszeres szociális segélyre való jogosultságát meg kell szüntetni.
+- e) akinek a 36. § (2) bekezdése alapján a foglalkoztatást helyettesítő támogatásra, vagy a 37/B. § (2) bekezdése alapján a rendszeres szociális segélyre való jogosultságát meg kell szüntetni.
 
 (3) Az aktív korú személy részére az aktív korúak ellátására való jogosultság a megszüntetéstől számított harminchat hónapon belül – ide nem értve a (2) bekezdés b), d) és e) pontja szerinti megszüntetési eseteket – az előzetes együttműködési kötelezettség teljesítése nélkül ismételten megállapítható, amennyiben a jogosultsági feltételek egyébként fennállnak.
 
 (4) A jegyző a jogellenesen munkát végző aktív korúak ellátására jogosult személy ellátásának folyósítását – a munkaügyi hatóságnak a jogsértés tényét első ízben megállapító jogerős és végrehajtható határozata alapján, a határozat jogerőre emelkedéséről szóló értesítés megérkezését követő hónap első napjától – egy hónap időtartamra felfüggeszti.
 
-35. § (1) Az a személy, akinek az aktív korúak ellátására való jogosultságát megállapították – a 37. §-ban foglaltak szerinti kivétellel – bérpótló juttatásra jogosult.
+35. § (1) Az a személy, akinek az aktív korúak ellátására való jogosultságát megállapították – a 37. §-ban foglaltak szerinti kivétellel – foglalkoztatást helyettesítő támogatásra jogosult.
 
 (2) A települési önkormányzat rendeletében a bérpótló juttatásra való jogosultság egyéb feltételeként előírhatja, hogy a kérelem benyújtója, illetve az ellátás jogosultja a lakókörnyezete rendezettségének biztosítására vonatkozó, a rendeletében megállapított feltételeket teljesítse. A lakókörnyezet rendezettségének biztosítása körében a kérelmező vagy jogosult által életvitelszerűen lakott lakás vagy ház és annak udvara, kertje, a kerítéssel kívül határos terület, járda tisztán tartása, az ingatlan állagának és rendeltetésszerű használhatóságának, valamint higiénikus állapotának biztosítására irányuló kötelezettség írható elő. A rendeletben megállapított feltételek teljesítésére a kérelmezőt, illetve a jogosultat megfelelő, de legalább ötnapos határidő tűzésével a jegyzőnek – az elvégzendő tevékenységek konkrét megjelölésével – fel kell szólítania.
 
-(3) A bérpótló juttatásra jogosult személy az állami foglalkoztatási szervnél kéri az álláskeresőként történő nyilvántartásba vételét, valamint köteles az állami foglalkoztatási szervvel együttműködni.
+(3) A foglalkoztatást helyettesítő támogatásra jogosult személy az állami foglalkoztatási szervnél kéri az álláskeresőként történő nyilvántartásba vételét, valamint köteles az állami foglalkoztatási szervvel együttműködni.
 
-(4) A bérpótló juttatás havi összege az öregségi nyugdíj mindenkori legkisebb összege.
+(4) A foglalkoztatást helyettesítő támogatás havi összege az öregségi nyugdíj mindenkori legkisebb összege.
 
-(5) Közfoglalkoztatásban részt vevő személy esetében a bérpótló juttatásnak a 25. § (4)–(6) bekezdése szerinti felülvizsgálatát a közfoglalkoztatás megszűnését követően kell lefolytatni.
+(5) Közfoglalkoztatásban részt vevő személy esetében a foglalkoztatást helyettesítő támogatásnak a 25. § (4)–(6) bekezdése szerinti felülvizsgálatát a közfoglalkoztatás megszűnését követően kell lefolytatni.
 
 36. § (1) Ha a jogosult
 
@@ -545,23 +545,23 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 - b) közfoglalkoztatásban vesz részt, a közfoglalkoztatásban való részvétel időtartama alatt, vagy
 - c) olyan képzésben vesz részt, amelynek keretében képzési támogatásként keresetpótló juttatásban részesül, a keresetpótló juttatás folyósításának időtartama alatt
 
-a bérpótló juttatás folyósítása szünetel.
+a foglalkoztatást helyettesítő támogatás folyósítása szünetel.
 
-(2) A 34. § (2) bekezdésében foglaltakon túl meg kell szüntetni az aktív korúak ellátására való jogosultságát annak a bérpótló juttatásra jogosult személynek
+(2) A 34. § (2) bekezdésében foglaltakon túl meg kell szüntetni az aktív korúak ellátására való jogosultságát annak a foglalkoztatást helyettesítő támogatásra jogosult személynek
 
-- a) aki az állami foglalkoztatási szervvel való együttműködés keretében számára felajánlott munkalehetőséget nem fogadja el, vagy közfoglalkoztatásra irányuló jogviszonyát jogellenesen megszünteti, továbbá akinek a közfoglalkoztatásra irányuló jogviszonyát a munkáltató rendkívüli felmondással szüntette meg;
+- a) aki az állami foglalkoztatási szervvel való együttműködés keretében számára felajánlott, az Flt. 54. § (10a)–(10c) bekezdésében foglaltak szerinti munkalehetőséget nem fogadja el, vagy a közfoglalkoztatásra irányuló jogviszonyát jogellenesen megszünteti, továbbá, akinek a közfoglalkoztatásra irányuló jogviszonyát a munkáltató rendkívüli felmondással szüntette meg;
 - b) akit az állami foglalkoztatási szerv – neki felróható okból – törölt az álláskeresők nyilvántartásából;
 - c) aki az állami foglalkoztatási szervnél az aktív korúak ellátásának megállapításáról szóló határozatban foglalt határidőig nem kérelmezi az álláskeresőként történő nyilvántartásba vételét;
-- d) aki a 35. § (2) bekezdés szerinti feltételeknek – a felszólítás ellenére – nem tesz eleget; vagy
-- e) aki a bérpótló juttatásra való jogosultságának a 25. § (4) bekezdés b) pontja szerinti éves felülvizsgálata során nem igazolja, hogy a felülvizsgálat időpontját megelőző egy évben, a bérpótló juttatásra való jogosultságának fennállása alatt legalább 30 nap időtartamban
-  - ea) közfoglalkoztatásban vett részt, vagy
-  - eb) keresőtevékenységet – ideértve az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát – folytatott, vagy
-  - ec) munkaerő-piaci programban vett részt, vagy
-  - ed) az Flt. szerinti, és legalább hat hónap időtartamra meghirdetett képzésben vett részt, vagy az ilyen képzésben való részvétele folyamatban van.
+- d) aki a 33. § (7) bekezdés szerinti feltételeknek – a felszólítás ellenére – nem tesz eleget; vagy
+- e) aki a foglalkoztatást helyettesítő támogatásra való jogosultságának a 25. § (4) bekezdés b) pontja szerinti éves felülvizsgálata során, a felülvizsgálat időpontját megelőző egy évben a foglalkoztatást helyettesítő támogatásra való jogosultságának fennállása alatt legalább 30 nap időtartamban
+  - ea) közfoglalkoztatásban nem vett részt, vagy
+  - eb) kereső tevékenységet – ideértve az egyszerűsített foglalkoztatásról szóló törvény szerint létesített munkaviszony keretében végzett, valamint a háztartási munkát is – nem folytatott, vagy
+  - ec) munkaerőpiaci programban nem vett részt, vagy
+  - ed) az Flt. szerinti és legalább hat hónap időtartamra meghirdetett képzésben nem vett részt vagy ilyen képzésben való részvétele nincs folyamatban.
 
 (3) A (2) bekezdés e) pontjában meghatározott 30 napos időtartam számításakor az eb)–ed) alpontok szerinti tevékenységeknek a felülvizsgálat időpontját megelőző évben teljesített időtartamát össze kell számítani. Amennyiben a jogosult az e) pont szerinti feltételt így sem tudja teljesíteni, a 30 nap számításánál a közérdekű önkéntes tevékenységének időtartamát is figyelembe kell venni.
 
-36/A-36/D. §
+36/A–36/D. §
 
 37. § (1) Az az aktív korúak ellátására jogosult személy, aki az ellátásra való jogosultság kezdő napján
 
@@ -607,7 +607,7 @@ a rendszeres szociális segély folyósítása szünetel.
 
 37/C. § (1) A hajléktalan személy részére megállapított aktív korúak ellátására való jogosultságról rendelkező határozatot közölni kell a főjegyzővel.
 
-(2) A főjegyző az aktív korúak ellátására jogosult hajléktalanokról a 18. §-ban szabályozott nyilvántartást vezeti és gondoskodik a bérpótló juttatásnak vagy a rendszeres szociális segélynek a hajléktalan személy által meghatározott, határozatban foglalt címre történő folyósításáról.
+(2) A főjegyző az aktív korúak ellátására jogosult hajléktalanokról a 18. §-ban szabályozott nyilvántartást vezeti és gondoskodik a foglalkoztatást helyettesítő támogatásnak vagy a rendszeres szociális segélynek a hajléktalan személy által meghatározott, határozatban foglalt címre történő folyósításáról.
 
 (3) Ha a hajléktalan személy a (2) bekezdés szerint folyósított ellátást három hónapos időtartamon keresztül nem veszi át, a főjegyző szünetelteti a folyósítást és az erről szóló végzését az ellátást megállapító jegyzővel közli, aki dönt az ellátás fenntartásáról, illetve megszüntetéséről.
 
@@ -615,16 +615,16 @@ a rendszeres szociális segély folyósítása szünetel.
 
 (5) A fővárosban az aktív korúak ellátására való jogosultság megállapítása a hajléktalan személyek vonatkozásában a főjegyző feladata.
 
-(6) A bérpótló juttatásra jogosult hajléktalan személy együttműködési kötelezettsége az ellátást megállapító jegyző székhelye szerint illetékes állami foglalkoztatási szervvel áll fenn.
+(6) A foglalkoztatást helyettesítő támogatásra jogosult hajléktalan személy együttműködési kötelezettsége az ellátást megállapító jegyző székhelye szerint illetékes állami foglalkoztatási szervvel áll fenn.
 
 (7) A rendszeres szociális segélyre jogosult hajléktalan személy együttműködési kötelezettsége azzal a települési önkormányzat által együttműködésre kijelölt szervvel áll fenn, amely jegyzőjének határozata alapján a főjegyző a rendszeres szociális segélyt folyósítja.
 
 (8) Amennyiben az aktív korúak ellátására való jogosultságot a főjegyző állapította meg, a (6)–(7) bekezdésben foglaltaktól eltérően
 
-- a) a bérpótló juttatásra jogosult hajléktalan személy együttműködési kötelezettsége az általa megjelölt tartózkodási helye szerint illetékes állami foglalkoztatási szervvel áll fenn,
+- a) a foglalkoztatást helyettesítő támogatásra jogosult hajléktalan személy együttműködési kötelezettsége az általa megjelölt tartózkodási helye szerint illetékes állami foglalkoztatási szervvel áll fenn,
 - b) a rendszeres szociális segélyre jogosult hajléktalan személy együttműködési kötelezettsége a fővárosi önkormányzat által kijelölt szervvel áll fenn.
 
-(9) A főjegyző által az (1)–(4) bekezdés szerint folyósított bérpótló juttatás vagy rendszeres szociális segély, valamint a közfoglalkoztatás szervezéséhez a külön törvényben foglaltak szerint nyújtott támogatás összegét a helyi önkormányzatokért felelős miniszter megtéríti a fővárosi önkormányzat részére.
+(9) A főjegyző által az (1)–(4) bekezdés szerint folyósított foglalkoztatást helyettesítő támogatás vagy rendszeres szociális segély, valamint a közfoglalkoztatás szervezéséhez a külön törvényben foglaltak szerint nyújtott támogatás összegét a helyi önkormányzatokért felelős miniszter megtéríti a fővárosi önkormányzat részére.
 
 37/D. §
 
@@ -644,9 +644,26 @@ a rendszeres szociális segély folyósítása szünetel.
 - b) az adósságkezelési szolgáltatásban részesülő személynek,
 - c) az önkormányzat rendeletében meghatározott feltételek szerinti jogosultnak (a továbbiakban: helyi lakásfenntartási támogatás).
 
-(2) Normatív lakásfenntartási támogatásra jogosult az a személy, akinek a háztartásában az egy főre jutó havi jövedelem nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 150%-át, feltéve, hogy a lakásfenntartás elismert havi költsége a háztartás havi összjövedelmének 20%-át meghaladja.
+(1a) A lakásfenntartási támogatást elsősorban természetbeni szociális ellátás formájában, és a lakásfenntartással összefüggő azon rendszeres kiadásokhoz kell nyújtani, amelyek megfizetésének elmaradása a kérelmező lakhatását a legnagyobb mértékben veszélyezteti.
 
-(3) A normatív lakásfenntartási támogatás esetében a lakásfenntartás elismert havi költsége az elismert lakásnagyság és az egy négyzetméterre jutó elismert költség szorzata. Az egy négyzetméterre jutó elismert havi költség 2004. évben 400 Ft. A 2004. évet követően az egy négyzetméterre jutó elismert havi költség összegét az éves központi költségvetésről szóló törvény – a várható energiaárak emelkedésére figyelemmel – határozza meg.
+(2) Normatív lakásfenntartási támogatásra jogosult az a személy, akinek a háztartásában az egy fogyasztási egységre jutó havi jövedelem nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 250%-át, és a háztartás tagjai egyikének sincs vagyona. Az egy fogyasztási egységre jutó havi jövedelem megegyezik a háztartás összjövedelmének és a fogyasztási egységek összegének hányadosával.
+
+(2a) A lakásfenntartási támogatás tekintetében fogyasztási egység a háztartás tagjainak a háztartáson belüli fogyasztási szerkezetet kifejező arányszáma, ahol
+
+- a) a háztartás első nagykorú tagjának arányszáma 1,0,
+- b) a háztartás második nagykorú tagjának arányszáma 0,9,
+- c) a háztartás minden további nagykorú tagjának arányszáma 0,8,
+- d) a háztartás első és második kiskorú tagjának arányszáma személyenként 0,8,
+- e) a háztartás minden további kiskorú tagjának arányszáma tagonként 0,7.
+
+(2b) Ha a háztartás
+
+- a) (2a) bekezdés a)–c) pontja szerinti tagja magasabb összegű családi pótlékban vagy fogyatékossági támogatásban részesül, vagy
+- b) (2a) bekezdés d) vagy e) pontja szerinti tagjára tekintettel magasabb összegű családi pótlékot folyósítanak, a rá tekintettel figyelembe vett arányszám 0,2-del növekszik.
+
+(2c) Ha a háztartásban gyermekét egyedülállóként nevelő szülő – ideértve a gyámot, a nevelőszülőt és a hivatásos nevelőszülőt – él, a rá tekintettel figyelembe vett arányszám 0,2-del növekszik.
+
+(3) A normatív lakásfenntartási támogatás esetében a lakásfenntartás elismert havi költsége az elismert lakásnagyság és az egy négyzetméterre jutó elismert költség szorzata. Az egy négyzetméterre jutó elismert havi költség összegét – az energiaárak várható alakulására figyelemmel – az éves központi költségvetésről szóló törvény határozza meg.
 
 (4) A normatív lakásfenntartási támogatás esetében elismert lakásnagyság
 
@@ -662,14 +679,14 @@ de legfeljebb a jogosult által lakott lakás nagysága.
 
 (6) A normatív lakásfenntartási támogatás egy hónapra jutó összege
 
-- a) a lakásfenntartás elismert havi költségének 30%-a, ha a jogosult háztartásában az egy főre jutó havi jövedelem nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 50%-át,
-- b) az a) pont szerinti mértéket meghaladó egy főre jutó havi jövedelem esetén a lakásfenntartás elismert havi költségének és a támogatás mértékének (a továbbiakban: TM) szorzata,
+- a) a lakásfenntartás elismert havi költségének 30%-a, ha a jogosult háztartásában az egy fogyasztási egységre jutó havi jövedelem nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 50%-át,
+- b) a lakásfenntartás elismert havi költségének és a támogatás mértékének (a továbbiakban: TM) szorzata, ha a jogosult háztartásában az egy fogyasztási egységre jutó havi jövedelem az a) pont szerinti mértéket meghaladja,
 
-de nem kevesebb, mint 2500 forint. A támogatás összegét 100 forintra kerekítve kell meghatározni.
+de nem lehet kevesebb, mint 2500 forint, azzal, hogy a támogatás összegét 100 forintra kerekítve kell meghatározni.
 
 (7) A (6) bekezdés b) pontja szerinti TM kiszámítása a következő módon történik:
 
-ahol a J a jogosult háztartásában egy főre jutó havi jövedelmet, az NYM pedig az öregségi nyugdíj mindenkori legkisebb összegét jelöli. A TM-et századra kerekítve kell meghatározni.
+ahol a J a jogosult háztartásában egy fogyasztási egységre jutó havi jövedelmet, az NYM pedig az öregségi nyugdíj mindenkori legkisebb összegét jelöli. A TM-et századra kerekítve kell meghatározni.
 
 | TM = 0,3 – | J– 0,5 NYM | × 0,15 |  |
 | --- | --- | --- | --- |
@@ -677,15 +694,14 @@ ahol a J a jogosult háztartásában egy főre jutó havi jövedelmet, az NYM pe
 
 (8) A normatív lakásfenntartási támogatást egy évre kell megállapítani.
 
-(9) A települési önkormányzat rendeletében határozza meg a helyi lakásfenntartási támogatás jogosultsági feltételeit, eljárási szabályait és a támogatás összegét. A helyi lakásfenntartási támogatást a települési önkormányzat a normatív, illetve az (5) bekezdésben meghatározott lakásfenntartási támogatás kiegészítéseként és/vagy önálló ellátásként nyújtja. Az önálló ellátásként nyújtott helyi lakásfenntartási támogatás esetében
+(9) A települési önkormányzat rendeletében határozza meg a helyi lakásfenntartási támogatás jogosultsági feltételeit, eljárási szabályait és a támogatás összegét. A helyi lakásfenntartási támogatást a települési önkormányzat a normatív, illetve az (5) bekezdésben meghatározott lakásfenntartási támogatás kiegészítéseként vagy önálló ellátásként nyújtja. Az önálló ellátásként nyújtott helyi lakásfenntartási támogatás esetében
 
-- a) a lakásfenntartási támogatásra való jogosultságnak a háztartásban az egy főre számított havi jövedelmi határát úgy kell szabályozni, hogy az önkormányzat rendelete az öregségi nyugdíj mindenkori legkisebb összegének 200%-ánál alacsonyabb jövedelmet jogosultsági feltételként nem írhat elő,
-- b) a lakásfenntartás havi költségének a háztartás havi összjövedelméhez viszonyított arányát úgy kell szabályozni, hogy az önkormányzat rendelete a jövedelem 30%-át meghaladó költséghányadot jogosultsági feltételként nem írhat elő,
-- c) a támogatás összegét úgy kell szabályozni, hogy annak az egy hónapra jutó összege nem lehet kevesebb 2500 forintnál,
-- d) az igénylés menetét úgy kell szabályozni, hogy a kérelem évente legalább két alkalommal benyújtható legyen,
-- e) a lakásfenntartási támogatás megállapításánál figyelembe vett költséget úgy kell szabályozni, hogy az önkormányzat
-  - ea) az egy négyzetméterre jutó helyben elismert havi költség összegét határozza meg a (10) bekezdésben szereplő – a településen jellemző – költségek figyelembevételével, vagy
-  - eb) tételesen határozza meg a költség típusait, melynek során legalább a (10) bekezdésben szereplő költségeket figyelembe kell venni.
+- a) a lakásfenntartási támogatásra való jogosultságnak a háztartásban az egy fogyasztási egységre számított havi jövedelmi határát úgy kell szabályozni, hogy az önkormányzat rendelete az öregségi nyugdíj mindenkori legkisebb összegének 250%-ánál alacsonyabb jövedelmet jogosultsági feltételként nem írhat elő;
+- b) a támogatás összegét úgy kell szabályozni, hogy annak az egy hónapra jutó, 100 forintra kerekített összege nem lehet kevesebb 2500 forintnál;
+- c) az igénylés menetét úgy kell szabályozni, hogy a kérelem évente legalább két alkalommal benyújtható legyen;
+- d) a lakásfenntartási támogatás megállapításánál figyelembe vett költséget úgy kell szabályozni, hogy az önkormányzat
+  - da) az egy négyzetméterre jutó helyben elismert havi költség összegét határozza meg a (10) bekezdésben szereplő – a településen jellemző – költségek figyelembevételével, vagy
+  - db) tételesen határozza meg a költség típusait, melynek során legalább a (10) bekezdésben szereplő költségeket figyelembe kell venni.
 
 (10) Költségeken a helyi lakásfenntartási támogatás esetében lakbért vagy albérleti díjat, a lakáscélú pénzintézeti kölcsön törlesztő részletét, a távhő-szolgáltatási díjat, a közös költséget, a csatorna használati díjat, a szemétszállítás költségeit, valamint a villanyáram, a víz- és gázfogyasztás, valamint a tüzelőanyag költségeit kell érteni.
 
@@ -933,7 +949,7 @@ a jegyző a kérelmet érdemi vizsgálat nélkül elutasítja.
 
 (2) A havi rendszeres gyógyító ellátási szükségletet a háziorvos, illetve – személyes gondoskodást nyújtó átmeneti és bentlakásos szociális intézményben vagy gyermek- és ifjúságvédő intézetben, nevelőotthonban elhelyezett jogosult esetén – az intézmény orvosa (a továbbiakban együtt: háziorvos) igazolja.
 
-(3) Az igazolás tartalmazza a kérelmező természetes személyazonosító adatait, lakóhelyét és tartózkodási helyét, TAJ számát, a tartósan fennálló betegségének a betegségek nemzetközi osztályozása szerinti kódját (a továbbiakban: BNO kód). Az igazolás tartalmazza továbbá az alkalmazandó terápiához szükséges gyógyító ellátások megnevezését, mennyiségét, gyógyszerek esetében a gyógyszer megnevezését és a külön jogszabályban meghatározott azonosító adatait, a gyógyszer formáját, mennyiségét, valamint a kívánt terápiás hatás eléréséhez szükséges napi mennyiségét és az adagolást. A csak szakorvos által vagy csak szakorvosi javaslatra rendelhető gyógyszereket az igazoláson a szakorvos nevének, pecsétszámának feltüntetésével külön meg kell jelölni. A szakorvos – a kérelmező igénye esetén – az általa rendelt havi rendszeres gyógyító ellátásokról a háziorvost tájékoztatja.
+(3) Az igazolás tartalmazza a kérelmező természetes személyazonosító adatait, lakóhelyét és tartózkodási helyét, Társadalombiztosítási Azonosító Jelét, a tartósan fennálló betegségének a betegségek nemzetközi osztályozása szerinti kódját (a továbbiakban: BNO kód). Az igazolás tartalmazza továbbá az alkalmazandó terápiához szükséges gyógyító ellátások megnevezését, mennyiségét, gyógyszerek esetében a gyógyszer megnevezését és a külön jogszabályban meghatározott azonosító adatait, a gyógyszer formáját, mennyiségét, valamint a kívánt terápiás hatás eléréséhez szükséges napi mennyiségét és az adagolást. A csak szakorvos által vagy csak szakorvosi javaslatra rendelhető gyógyszereket az igazoláson a szakorvos nevének, pecsétszámának feltüntetésével külön meg kell jelölni. A szakorvos – a kérelmező igénye esetén – az általa rendelt havi rendszeres gyógyító ellátásokról a háziorvost tájékoztatja.
 
 (4) A háziorvos igazolását a jegyző öt napon belül továbbítja az egészségbiztosítási szervnek. Az 50. § (2)–(3) bekezdése alapján közgyógyellátást kérelmező személy esetében az igazolást a jegyző csak akkor továbbítja, ha a kérelmező megfelel az előírt jövedelmi feltételeknek.
 
@@ -976,7 +992,7 @@ a jegyző a kérelmet érdemi vizsgálat nélkül elutasítja.
 (3) A nyilvántartás tartalmazza
 
 - a) a jogosult nevét, lakóhelyét és tartózkodási helyét,
-- b) a jogosult TAJ számát,
+- b) a jogosult Társadalombiztosítási Azonosító Jelét,
 - c) a közgyógyellátásra való jogosultság kezdő és befejező időpontját,
 - d) a közgyógyellátásra való jogosultság megállapításáról döntést hozó szerv megnevezését és határozatának számát,
 - e) a jogosult betegségének BNO kódját,
@@ -1022,7 +1038,7 @@ a jegyző a kérelmet érdemi vizsgálat nélkül elutasítja.
 
 nem haladja meg, és családjának vagyona nincs.
 
-(2) A szociális rászorultság igazolásáról a jegyző hatósági bizonyítványt (a továbbiakban: bizonyítvány) állít ki. A bizonyítvány hatályossága 1 év. A bizonyítvány tartalmazza: a rászoruló személy nevét, lakcímét, TAJ számát, a rászorultság tényét, az igazolás hatályosságát. A bizonyítvány az (1) bekezdésben megjelölt feltételek fennállta esetén ismételten kiállítható.
+(2) A szociális rászorultság igazolásáról a jegyző hatósági bizonyítványt (a továbbiakban: bizonyítvány) állít ki. A bizonyítvány hatályossága 1 év. A bizonyítvány tartalmazza: a rászoruló személy nevét, lakcímét, Társadalombiztosítási Azonosító Jelét, a rászorultság tényét, az igazolás hatályosságát. A bizonyítvány az (1) bekezdésben megjelölt feltételek fennállta esetén ismételten kiállítható.
 
 (3) A szociálisan rászorult személyekről a jegyző nyilvántartást vezet és a külön jogszabály szerint bejelentési kötelezettséget teljesít az egészségbiztosítási szerv felé.
 
@@ -2614,7 +2630,7 @@ nyújtó intézmények esetén.
 
 (2)
 
-124. § (1) A bérpótló juttatás folyósított összegének 80%-át, a rendszeres szociális segély folyósított összegének 90%-át, a hajléktalan személy részére folyósított bérpótló juttatás és rendszeres szociális segély teljes összegét a központi költségvetés megtéríti.
+124. § (1) A foglalkoztatást helyettesítő támogatás folyósított összegének 80%-át, a rendszeres szociális segély folyósított összegének 90%-át, a hajléktalan személy részére folyósított foglalkoztatást helyettesítő támogatás és rendszeres szociális segély teljes összegét a központi költségvetés megtéríti.
 
 (2)
 
@@ -2791,7 +2807,11 @@ kell elvégezni.
 
 140/D. § E törvénynek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel megállapított 92/M. § (1) bekezdés a) pontját a bírság összegének meghatározása során abban az esetben kell alkalmazni, ha a jogsértést 2011. január 14-ét követően követték el, vagy a jogsértő állapot 2011. január 14-ét követően fennáll, egyéb esetben a 92/L. § (1) bekezdés a) pontja szerinti jogsértés miatt kiszabható bírság legmagasabb összege 200 000 forint. A 92/L. § (1) bekezdés h) pontja alapján állami fenntartóval szemben bírság akkor szabható ki, ha a jogsértő állapot 2011. január 14-ét követően fennáll.
 
+140/E. § E törvénynek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel megállapított 38. § (1a)–(3) bekezdését, valamint (6) és (9) bekezdését a lakásfenntartási támogatás megállapítása iránt 2011. augusztus 31-ét követően indult eljárásokban kell alkalmazni.
+
 140/F. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 49. § (2) bekezdésében foglaltakat 2011. október 1-jétől kell alkalmazni. Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvény hatálybalépését megelőző napon hatályos 49. § (2) bekezdésében foglalt rendelkezéseket 2011. szeptember 30-áig kell alkalmazni.
+
+140/G. § Azt az aktív korúak ellátására jogosult személyt, akinek 2011. augusztus 31-én bérpótló jogosultsága áll fenn, 2011. szeptember 1-jétől foglalkoztatást helyettesítő támogatásra jogosultnak kell tekinteni.
 
 ### Az Európai Unió jogának való megfelelés
 
