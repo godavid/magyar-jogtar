@@ -44,7 +44,8 @@ Abból a célból, hogy az Alkotmányban biztosított tanuláshoz való jog az �
 (2) A Kormány felhatalmazást kap arra, hogy a felnőttképzéssel kapcsolatos feladatai körében rendeletben határozza meg
 
 - a) a felnőttképzést folytató intézmények és a felnőttképzési programok akkreditációjának, illetve a külföldi szolgáltatók akkreditációja tekintetében az átjárhatóság és a kölcsönös elismerés biztosításának;
-- b) a felnőttképzési normatív támogatások igénybevételének és a IV. rész szerint támogatott képzést folytató intézménynek az állami támogatással kapcsolatos kötelezettségeinek
+- b) a felnőttképzési normatív támogatások igénybevételének és a IV. rész szerint támogatott képzést folytató intézménynek az állami támogatással kapcsolatos kötelezettségeinek;
+- c) az intézmény-, vagy programakkreditációs tanúsítvány adataiban bekövetkezett változás bejelentésének elmulasztása miatt fizetendő bírság mértékét, valamint a bírságfizetési kötelezettség részletes
 
 szabályait.
 
@@ -180,6 +181,10 @@ szabályait.
 (9) A FAT a közoktatási feladatot ellátó – más jogszabályban meghatározott – közoktatási intézmény intézményakkreditációs kérelme esetén egyszerűsített eljárást folytat le. Az egyszerűsített intézményakkreditációs eljárás alapjául szolgáló egyéb esetek körét és az eljárás részletes szabályait kormányrendelet határozza meg.
 
 (10) Az akkreditációs eljárásért a felnőttképzést folytató intézmény külön jogszabályban meghatározott eljárási díjat köteles fizetni.
+
+12/A. § (1) Ha a felnőttképzést folytató intézmény az intézményakkreditációs tanúsítvány adataiban bekövetkezett változás átvezetését a jogszabályban meghatározott határidőben nem kezdeményezi, vele szemben a FAT bírságot szab ki. A bírság mértékét és a fizetési kötelezettség részletes szabályait kormányrendelet állapítja meg. Amennyiben az intézmény az adatváltozásnak a tanúsítványon való átvezetését a FAT bírságot megállapító határozata ellenére továbbra sem kezdeményezi, a FAT az intézményakkreditációt visszavonja.
+
+(2) Az (1) bekezdésben meghatározott rendelkezéseket az adatváltozásnak a programakkreditációs tanúsítványon történő átvezetésére is alkalmazni kell.
 
 ### A Felnőttképzési Akkreditáló Testület
 
