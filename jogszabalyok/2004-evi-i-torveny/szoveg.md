@@ -929,6 +929,8 @@ kezeli.
 
 (4) A sportigazgatási szerv írásbeli megkeresésére, annak kézhezvételétől számított harminc napon belül az állami adóhatóság tájékoztatást köteles nyújtani a sportszervezetek, illetve a sportszövetségek köztartozásairól.
 
+57/A. § A Kormány a sporteredmények anyagi támogatása céljából az e törvényben meghatározott támogatások mellett további támogatási formákat is meghatározhat.
+
 ### A Gerevich Aladár-sportösztöndíj
 
 58. § (1) Az olimpián és a speciális világjátékokon kiemelkedő sporteredmény elérése érdekében az olimpiai és a speciális világjáték-válogatott kerettag sportolók, továbbá az azok felkészítésében közreműködő sportszakemberek részére – legfeljebb négy évre – Gerevich Aladár-sportösztöndíj adható. A sportösztöndíj a nemzeti válogatott kerettag sportoló tanulmányainak elősegítésére is biztosítható.
@@ -1370,7 +1372,7 @@ adatokat továbbítja.
 
 78/A. § (1) A sportról szóló 2004. évi I. törvény módosításáról szóló 2011. évi LIV. törvény (a továbbiakban: módosító törvény) 2. §-ával megállapított 62. § (1) bekezdése szerinti javaslattétel szabályait első alkalommal a módosító törvény hatálybalépését követően, a Nemzet Sportolói létszáma 12 fő alá csökkenése esetén kell alkalmazni.
 
-(2) A sportközalapítvány a módosító törvény 1. §-ával megállapított 48. (2) bekezdése szerinti, az eredményességi támogatás mértékére és a támogatásra jogosultság feltételeire vonatkozó szabályzatát a módosító törvény hatálybalépésétől számított 30 napon belül köteles meghatározni.
+(2)
 
 ### Felhatalmazó rendelkezések
 
@@ -1388,6 +1390,7 @@ adatokat továbbítja.
   - bh) az állami sportinformációs rendszerre vonatkozó részletes szabályokat és
   - bi) a Magyar Köztársaság területén rendezett gépjárműversenyen vagy edzésen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre vonatkozó részletes szabályokat,
   - bj) a biztonságtechnikai fejlesztésre kötelezettek körét, és
+  - bj) az 57/A. § szerinti támogatás mértékét, a támogatásban részesíthető személyek körét és feltételeit, valamint a támogatás nyújtásának eljárásrendjét.
   - bk) a sportrendezvény térítés ellenében végzett biztosítására vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
