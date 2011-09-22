@@ -11,10 +11,10 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 - 1. devizakölcsön: a természetes személy mint adós vagy adóstárs és a pénzügyi intézmény között létrejött olyan kölcsönszerződés alapján fennálló tartozás, amelynél
   - a) a kölcsön nyilvántartási pénzneme euró, svájci frank vagy japán jen,
   - b) a törlesztési kötelezettséget a hiteladós forintban teljesíti, és
-  - c) a kölcsön fedezete a Magyar Köztársaság területén lévő lakóingatlanon alapított zálogjog;
+  - c) a kölcsön fedezete a Magyar Köztársaság területén lévő lakóingatlanon alapított zálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség;
 - 2. fedezeti ingatlan: lakáshitel-szerződésből eredő hiteltartozás biztosítására jelzálogjoggal terhelt lakóingatlan, ha a lakáshitel-szerződésből eredő lejárt tartozás megfizetése tekintetében több mint 90 napos késedelem áll fenn;
 - 3. fizetéskönnyítő program: devizakölcsön alapján fennálló fizetési kötelezettség átmeneti csökkentése érdekében a pénzügyi intézmény és a hiteladós között létrejött olyan – nem e törvény hatálya alá tartozó – megállapodás, amelynek eredményeként a hiteladóst egy meghatározott időtartamra a megállapodás megkötése előtt fennálló havi törlesztési kötelezettségénél kisebb havi törlesztési kötelezettség terheli;
-- 4. gyűjtőszámlahitel: gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés alapján a devizakölcsön törlesztése során a rögzített árfolyam alkalmazása miatt a hiteladós által meg nem fizetett törlesztőrészlet-hányad finanszírozására, a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézmény által a hiteladósnak forintban, a devizakölcsön ingatlanfedezetével azonos ingatlanra érvényesíthető jelzálogjog fedezete mellett a rögzített árfolyam alkalmazásának időszaka alatt folyósított kölcsön;
+- 4. gyűjtőszámlahitel: gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés alapján a devizakölcsön törlesztése során a rögzített árfolyam alkalmazása miatt a hiteladós által meg nem fizetett törlesztőrészlet-hányad finanszírozására, a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézmény által a hiteladósnak forintban, a devizakölcsön ingatlanfedezetével azonos ingatlanra érvényesíthető jelzálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség fedezete mellett a rögzített árfolyam alkalmazásának időszaka alatt folyósított kölcsön;
 - 5. hiteladós: az a természetes személy, aki pénzügyi intézménnyel devizakölcsönre vonatkozóan kölcsönszerződést kötött és e szerződésből eredően tartozása áll fenn;
 - 6. hitelező: lakáshitel-szerződésből eredő követeléssel rendelkező személy;
 - 7. kényszerértékesítés kezdeményezése:
@@ -34,7 +34,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 (2) A pénzügyi intézmény a rögzített árfolyam alkalmazási időszaka alatt svájci frank esetén a 180 HUF/CHF, euró esetén a 250 HUF/EUR, japán jen esetén a 200 HUF/100 JPY árfolyamot alkalmaz. A rögzített árfolyam alkalmazási időszaka
 
 - a) kezdő időpontja a felek által kötött, a gyűjtőszámlahitelre vonatkozó hitelkeretszerződés alapján a hiteladós által tett, közjegyzői okiratba foglalt tartozáselismerő nyilatkozat pénzügyi intézmény részére történő átadás időpontját követő, a devizakölcsön törlesztésére vonatkozó soron következő második törlesztési esedékességi nap,
-- b) záró időpontja a kezdő időponttól számított 36 hónap, de legkésőbb 2014. december 31. napja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 90 napot meghaladó késedelembe esik, akkor a késedelem 91. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
+- b) záró időpontja a kezdő időponttól számított 36 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, de legkésőbb 2014. december 31. napja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 90 napot meghaladó késedelembe esik, akkor a késedelem 91. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja.
 
 (3) Amennyiben a hitelező a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény alapján összevont alapú felügyelet hatálya alá tartozik, akkor a 6–9. §-ban foglaltak alkalmazása során az összevont alapú felügyelet hatálya alá tartozó hitelezők egyetlen hitelezőnek minősülnek.
 
@@ -42,10 +42,12 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 #### 2. Állami kezességvállalás
 
-2. § (1) Ha a pénzügyi intézmény a kezességvállalás iránt igényt jelentett be, a Magyar Állam
+2. § (1) Ha a pénzügyi intézmény a kezességvállalás iránt igényt jelentett be, a Magyar Állam az (1a) bekezdésben meghatározott eltéréssel
 
-- a) készfizető kezesként felel a gyűjtőszámlahitelből eredő tartozások 100%-áért a rögzített árfolyam alkalmazási időszaka alatt,
+- a) készfizető kezesként felel a gyűjtőszámlahitelből eredő tartozások 100%-áért, ha a pénzügyi intézmény a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést az 1. § (2) bekezdésében meghatározott időszakban a 2. § (3) bekezdés a) pontjában meghatározott okból felmondta,
 - b) egyszerű kezesként felel a gyűjtőszámlahitelből eredő, legfeljebb a rögzített árfolyam alkalmazási időszaka záró időpontjában fennálló tartozások 25%-áért a rögzített árfolyam alkalmazási időszaka záró időpontját követően.
+
+(1a) Ha a gyűjtőszámlahitelhez a 4. § (4a) bekezdése szerinti állami kezességvállalás kapcsolódik, az (1) bekezdés alapján vállalt kezesség kizárólag a 4. § (4a) bekezdés alapján vállalt kezességgel nem fedezett gyűjtőszámlahitelből eredő tartozások tekintetében érvényesíthető.
 
 (2) A kezességvállalásért a gyűjtőszámlahitelt nyújtó pénzügyi intézmény a Magyar Állam részére kezességvállalási díjat fizet. A pénzügyi intézmény a kezességvállalási díjat semmilyen módon nem háríthatja át a hiteladósra. Az Európai Unió állami támogatási szabályainak való megfelelés érdekében a kezességvállalási díj támogatástartalmat nem tartalmaz, mértékét, számításának és megfizetésének módját kormányrendelet határozza meg.
 
@@ -64,7 +66,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 - a) a hiteladós devizakölcsönből származó fizetési késedelme nem haladja meg 90 napot,
 - b) a hiteladós nem áll fizetéskönnyítő program hatálya alatt,
-- c) a devizakölcsön végső lejárata 2014. december 31. napját követő időpont,
+- c)
 - d) a fedezetül szolgáló, zálogjoggal terhelt lakóingatlan pénzügyi intézmény által meghatározott forgalmi értéke a fedezetként történő elfogadáskor nem haladta meg a 30 millió forintot,
 - e) amennyiben a devizakölcsön fedezetéül szolgáló lakóingatlant több pénzügyi intézmény által alapított jelzálogjog terhel, e zálogjog által biztosított valamennyi követelés tekintetében nem áll fenn 90 napot meghaladó késedelem, és
 - f) a devizakölcsön fedezetéül szolgáló lakóingatlanra vezetett végrehajtás nincs folyamatban.
@@ -148,6 +150,8 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 (3) A 2–5. §, a 15. § és a 16. § a kihirdetést követő 45. napon lép hatályba.
 
 (4) A 6–9. § 2011. október 1-jén lép hatályba.
+
+12/A. § A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény módosításáról szóló 2011. évi CXVI. törvény 1. §-ával megállapított 1. § (1) bekezdés 1. pont c) alpontjában, 1. § (1) bekezdés 4. pontjában, 1. § (2) bekezdés b) pontjában, 2. §-ával megállapított 2. § (1a) bekezdésében, valamint 3. §-ával megállapított 4. § (4a) bekezdésében foglaltakat az e rendelkezések hatálybalépését megelőzően kötött gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésre és devizakölcsön-szerződésre, valamint devizakölcsön-szerződés módosításra is alkalmazni kell.
 
 13. § A 2. § szerinti kezességvállalás iránti igényt a pénzügyi intézmény a 2. § (2) bekezdés szerinti kormányrendelet hatálybalépését követő 15 napon belül írásban bejelenti az államháztartásért felelős miniszternek.
 
