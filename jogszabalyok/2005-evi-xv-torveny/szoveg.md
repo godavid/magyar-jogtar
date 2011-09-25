@@ -106,13 +106,17 @@ Vhr. 2. § (1) Az üzemeltető köteles a kibocsátási engedély hatálya alá 
 
 (4) Ha az üzemeltető vagy a légijármű üzemben tartó határidőre nem nyújtott be hitelesített jelentést, vagy a jelentés nem felel meg az e törvényben vagy az e törvény végrehajtására kiadott jogszabályokban előírt követelményeknek, vagy nem a kibocsátási engedélynek vagy a jóváhagyott nyomonkövetési tervnek megfelelően készült, a környezetvédelmi hatóság a 17. §-ban meghatározott jogkövetkezmények alkalmazása mellett a teljes kibocsátást a rendelkezésére álló adatok alapján állapítja meg. A környezetvédelmi hatóság az üzemeltető vagy a légijármű üzemben tartó teljes kibocsátásának megállapítására az eljárás során jogosult az üzemeltető vagy légijármű üzemben tartó költségére bejegyzett hitelesítőt megbízni.
 
-### A kibocsátási egység kereskedelmi rendszerbe 2013-tól bekapcsolódó létesítményekkel kapcsolatos adatszolgáltatási kötelezettség
+### A kibocsátási egység kereskedelmi rendszer 2013-tól kezdődő kereskedési időszakára vonatkozó adatszolgáltatási kötelezettség
 
 Vhr. 2/A. § (1) E rendelet 8. mellékletében felsorolt tevékenységet folytató létesítmény üzemeltetője a 2005–2008-as évekre vonatkozóan a tüzelőanyag-felhasználás és a technológiai adatok alapján kiszámítja az erre az időszakra vonatkozó üvegházhatású gáz kibocsátási adatokat, és azokat 2010. április 30-ig a környezetvédelmi hatóságnak elektronikus adathordozón vagy elektronikus levélben benyújtja. A kibocsátási adatokhoz mellékelni kell az azok kiszámításához felhasznált dokumentumokra, adatokra és az alkalmazott számítási módszerre vonatkozó tájékoztatást.
 
 (2) Ha az (1) bekezdés szerinti kibocsátási adatok azért nem állapíthatók meg, mert az azok kiszámításához szükséges adatok nem állnak az üzemeltető rendelkezésre, az üzemeltető az erre vonatkozó nyilatkozatát 2010. április 30-ig megküldi a környezetvédelmi hatóságnak.
 
 (3) Ha a környezetvédelmi hatóság megállapítja, hogy a benyújtott adatok megalapozottak, 2010. június 30-ig megküldi azokat az Európai Bizottságnak (a továbbiakban: Bizottság).
+
+Vhr. 2/B. § (1) E rendelet 1. és 8. számú mellékletében felsorolt tevékenységet folytató létesítmény üzemeltetője a 2005. január 1. és 2008. december 31. közötti időszak vagy a 2009. január 1. és 2010. december 31. közötti időszak valamennyi évére vonatkozóan adatokat szolgáltat. Az adatok köre tartalmazza a 2011/278/EU bizottsági határozatban (a továbbiakban: 2011/278/EU határozat) meghatározott terjedelemben, az ott megadott időtartamra vonatkozó adatokat létesítményrészenként, az adatok meghatározására és összeállítására vonatkozó módszertani jelentést, továbbá a hitelesítésre vonatkozó információkat, a hitelesítési szakvéleményt, a hitelesítési módszertant és a hitelesítői záradékot. Az adatszolgáltatást a minisztérium honlapján közzétett adatlapon kell teljesíteni.
+
+(2) Az adatszolgáltatási táblázatot az üzemeltető elektronikusan és írásban, 2011. szeptember 30-ig nyújtja be a miniszternek. A miniszter az adatszolgáltatási táblázatot a kézhezvételt követő 45 napon belül ellenőrzi. Hiányos adatszolgáltatás esetén a miniszter az üzemeltetőt 15 napos határidő kitűzésével hiánypótlásra szólítja fel. Az üzemeltető az adatszolgáltatás hiányosságát indokolhatja.
 
 Üht. 5/A. § (1) Hitelesítőként a környezetvédelmi hatóság engedélyével rendelkező vagy az (5) bekezdés szerinti bejelentést tevő természetes személy vagy szervezet vehető igénybe.
 
@@ -584,7 +588,9 @@ Vhr. 19. § (1) Amennyiben az üzemeltető az 1. mellékletben meghatározott ü
 
 (9) A bírság összegének megállapítása során a Magyar Nemzeti Bank által megállapított, a visszaadás napján közzétett hivatalos devizaárfolyamot kell figyelembe venni.
 
-(10) [Üht. 17. §] (2) Az (1) bekezdés szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető a jelentési és hitelesítési kötelezettségének, illetőleg a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig nem jogosult kibocsátási egységek értékesítésére.
+(10) A második kereskedési időszakot követően nem részesülhet ingyenes kiosztásban az a létesítmény, amely a 2/B. § szerinti adatszolgáltatás során a létesítményre vonatkozó adatokat nem hitelesítette.
+
+[Üht. 17. §] (2) Az (1) bekezdés szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető a jelentési és hitelesítési kötelezettségének, illetőleg a kibocsátási egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig nem jogosult kibocsátási egységek értékesítésére.
 
 (3) Az (1) bekezdés szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető a jelentési és hitelesítési kötelezettségének, illetőleg a kibocsátási egységek visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság az üzemeltető nevét és a kötelességszegés tényét nyilvánosságra hozza.
 
@@ -601,6 +607,8 @@ Vhr. 19. § (1) Amennyiben az üzemeltető az 1. mellékletben meghatározott ü
 Vhr. 20. § (1) A miniszter az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv végrehajtására vonatkozó jelentések alapjául szolgáló kérdőív létrehozásáról szóló 2005/381/EK bizottsági határozatnak megfelelően évente jelentést készít a kibocsátási egységkereskedelmi rendszer működéséről. A jelentést a miniszter a tárgyévet követő év június 30-ig küldi meg a Bizottság részére.
 
 (2) A miniszter 2011. szeptember 30-ig közleményben közzéteszi a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a minisztérium honlapján, valamint megküldi a Bizottságnak e rendelet 1. és 8. mellékletében felsorolt tevékenységet folytató létesítmények listáját és a részükre ingyenesen kiosztani tervezett kibocsátásiegység- mennyiséget.
+
+(3) A (2) bekezdés szerinti jelentéstételhez a miniszter a 2/B. §-ban meghatározott, ellenőrzött adatok alapján a 2011/278/EU határozatban foglaltaknak megfelelően összeállítja a Nemzeti Végrehajtási Intézkedést, amit jóváhagyás céljából megküld az Európai Bizottságnak.
 
 [Üht. 18. §] (2) A 14. § (1) bekezdésben megjelölt projekttevékenységeknek a Magyar Köztársaság területén történő megvalósításával kapcsolatos nemzetközi jelentéstételi kötelezettség teljesítése a miniszter feladata.
 
@@ -676,6 +684,8 @@ Vhr. 22. § (1) Ez a rendelet a következő uniós jogi aktusoknak való megfele
 - b) a Bizottság 2004/156/EK határozata (2004. január 29.) a 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátásainak nyomon követésére és jelentésére vonatkozó iránymutatások létrehozásáról.
 
 (2) Ez a rendelet a 2003/87/EK európai parlamenti és tanácsi irányelv és a 280/2004/EK európai parlamenti és tanácsi határozat szerinti kibocsátásforgalmi-jegyzékek egységesített és biztonságos rendszeréről szóló, 2004. december 21-i 2216/2004/EK bizottsági rendelet 8. cikke (1) bekezdésének, 38. cikke (1) és (2) bekezdésének, 44. cikke (1) és (2) bekezdésének, valamint 74. cikkének a végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(3) Ez a rendelet a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló, 2011. április 27-i 2011/278/EU bizottsági határozat végrehajtását szolgálja.
 
 ### 1. számú melléklet a 2005. évi XV. törvényhez
 
