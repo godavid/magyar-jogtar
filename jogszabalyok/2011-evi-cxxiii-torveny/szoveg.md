@@ -16,6 +16,6 @@ az általános forgalmi adóról szóló 2007. évi CXXVII. törvény jogharmoni
 
 3. § Az Áfa tv. e törvénnyel hatályon kívül helyezett 186. § (2)–(4) bekezdése, továbbá az általános forgalmi adóról szóló 1992. évi LXXIV. törvény 48. §-a (7) bekezdése az e törvény hatálybalépésekor folyamatban lévő ügyekben és az e törvény hatálybalépését követően indult ügyekben nem alkalmazható.
 
-4. § Az Áfa tv. 186. § (1) bekezdésében a „különbözetnek – a (2) bekezdés szerint korrigált – összege” szövegrész helyébe a „különbözet összege” szöveg lép.
+4. §
 
-5. § Hatályát veszti az Áfa tv. 186. § (2)–(4) bekezdése.
+5. §
