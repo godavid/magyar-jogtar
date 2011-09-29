@@ -3768,7 +3768,7 @@ Az említett államok küldöttségei szerint, hivatkozással a Kolumbiai Közt�
 
 (4) Az 1. §-ban meghatározott módosítások, valamint e törvény 2–5. §-ai hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(5) A (2) és a (3) bekezdésben meghatározott időpontok közül a későbbi bekövetkeztének napján hatályát veszti a Nemzetközi Távközlési Egyesület 1992. évi genfi Meghatalmazottak Rendkívüli Értekezletén aláírt Záróokmányok kihirdetéséről szóló 191/1997. (XI. 4.) Korm. rendelet.
+(5)
 
 (6) E törvény végrehajtásához szükséges intézkedésekről az elektronikus hírközlésért felelős miniszter gondoskodik.
 
