@@ -2774,7 +2774,7 @@ c) a költségtérítést és a jövedelmet helyettesítő kártérítést is ta
 
 7.15. az elengedett követelés akkor, ha az
 
-a) a fogyasztóvédelemről szóló törvényben meghatározott közüzemi szolgáltatás szolgáltatója, valamint a hitelintézet, pénzügyi vállalkozás által – az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával – részben vagy egészben elengedett követelés (akkor is, ha egyezség keretében történik), amennyiben az adós nyilatkozata szerint az ő és családja megélhetési ellehetetlenülését előzi meg;
+a) a fogyasztóvédelemről szóló törvényben meghatározott közüzemi szolgáltatás szolgáltatója, valamint a hitelintézet, pénzügyi vállalkozás által – az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával – részben vagy egészben elengedett követelés (akkor is, ha egyezség keretében történik), feltéve, hogy a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét;
 
 b) hitelintézet, befektetési szolgáltató, pénzügyi vállalkozás pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból, befektetési szolgáltatásból vagy azt kiegészítő szolgáltatásból származó 10 000 forintot meg nem haladó követelése, feltéve, hogy az elengedéssel a hitelintézetnek, befektetési szolgáltatónak, pénzügyi vállalkozásnak az adott szolgáltatásból származó követelése a magánszeméllyel szemben végérvényesen megszűnik;
 
@@ -2788,9 +2788,23 @@ b) a befektetési eszköz hozama, kivéve az osztalékból származó jövedelme
 
 7.18. jogszabály alapján hitelintézetnél elhelyezett gyámhatósági betét kamata, a gyámhatóság döntése, kötelezése alapján befektetési szolgáltatónál elhelyezett értékpapír kamatjövedelemnek minősülő hozama;
 
-7.19.
+7.19. a szociálisan rászorult magánszemély hiteladósok lakhatásának biztosítása érdekében
 
-7.20.
+a) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggésben törvény rendelkezése alapján elengedett, megszűnt kötelezettség, valamint az előbbi ügyletben keletkezett, a magánszemélyt megillető, ingatlan értékesítéséből származó jövedelem;
+
+b) az a) pontban említett hiteladósnak (illetve vele közös háztartásban élő hozzátartozójának) lakás bérletéhez helyi önkormányzat vagy a Nemzeti Eszközkezelő Zrt. által megállapított kedvezményes bérleti díj formájában juttatott bevétel;
+
+c) az a) pontban említett hiteladósnak – mint volt tulajdonosnak – törvény alapján a lakás visszavásárlására biztosított vételi opciós jog formájában juttatott bevétel;
+
+d) a c) pontban említett opciós jog érvényesítésekor a magánszemély által megszerzett jövedelem;
+
+7.20. a devizában felvett lakáscélú hitel adósa által teljesített, törvényben rögzített árfolyamon történő végtörlesztés miatt megszűnő kötelezettség;
+
+7.21. a pénzügyi intézmény által elengedett devizában felvett lakáscélú hitelből származó követelés feltéve, hogy
+
+a) a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét vagy
+
+b) a követelés biztosítékául szolgáló, a magánszemély tulajdonában álló lakásra a követelés elengedését megelőzően végrehajtási eljárás keretében árverést folytattak le.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
