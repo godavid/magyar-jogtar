@@ -113,7 +113,12 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 32/C. § (1) Tárgyánál fogva díjmentes:
 
-- a)
+aa) a Magyar Állam a szociálisan rászorult természetes személy hiteladósok lakhatásának biztosításáról szóló törvény alapján történő lakásvásárlásával, valamint a devizában felvett lakáscélú hitelből származó követelés törvényben rögzített árfolyamon történő végtörlesztésével összefüggésben kezdeményezett jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás,
+
+ab) a szociálisan rászorult természetes személy hiteladósok lakhatásának biztosításáról szóló törvény szerinti vételi jog bejegyzésére irányuló eljárás,
+
+ac) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás;
+
 - b) a kiskorú javára megállapított tartásdíj biztosítására szolgáló jelzálogjog bejegyzésére irányuló eljárás;
 - c) a jogosult nevének és lakcímének (székhelyének, üzemi központjának) bejelentése;
 - d) a lakáscélú közvetlen állami támogatás igénybevétele esetén
