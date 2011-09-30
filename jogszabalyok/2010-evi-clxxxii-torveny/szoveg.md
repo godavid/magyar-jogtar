@@ -10,6 +10,8 @@ a következő törvényt alkotja:
 
 1. § (1) A Bethlen Gábor Alap (a továbbiakban: Alap) elkülönített állami pénzalap. Célja a határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében támogatások nyújtása.
 
+(1a) Az Alap fedezetet nyújt a Magyarország határain belül és kívül élő magyar közösségek kölcsönös megismerése, valamint a nemzeti teljesítmény legfontosabb példáinak bemutatása, továbbá a magyarságismereti és nemzetpolitikai kutatások elősegítése érdekében létrehozott Magyarság Háza működéséhez.
+
 (2) A támogatás kedvezményezettje lehet az (1) bekezdésben foglalt célok megvalósítása érdekében tevékenykedő:
 
 - a) a Magyar Köztársaság területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
@@ -23,7 +25,7 @@ a következő törvényt alkotja:
 
 2. § (1) E törvény rendelkezéseit a Magyar Köztársaság nemzetközi szerződésben vállalt kötelezettségeivel, illetve a szomszédos államok és a Magyar Köztársaság között fennálló kétoldalú szerződésekkel összhangban, továbbá a nemzetközi jog általánosan elismert elveinek tiszteletben tartásával kell alkalmazni, a szerződések kötelező erejének és jóhiszemű végrehajtásának, az államok közötti baráti kapcsolatoknak, valamint az emberi jogok tiszteletben tartásának elvére, beleértve a hátrányos megkülönböztetés tilalmának elvét is.
 
-(2) E törvényben foglalt támogatások nem érintik a hatályos jogszabályok által a világ bármely más részén élő, magyar állampolgársággal nem rendelkező, magyar nemzetiségű személyeknek jelenleg is biztosított kedvezményeket és támogatásokat, nem érintik továbbá a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) alapján nyújtott támogatásokat.
+(2) E törvényben foglalt támogatások nem érintik a hatályos jogszabályok által a világ bármely más részén élő, magyar állampolgársággal nem rendelkező, magyar nemzetiségű személyeknek biztosított kedvezményeket és támogatásokat, nem érintik továbbá – az oktatási-nevelési támogatások kivitelével – a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) alapján nyújtott támogatásokat.
 
 #### 2. Az Alapból nyújtandó támogatások lehetséges céljai (a teljesíthető kiadások köre)
 
@@ -75,7 +77,7 @@ a következő törvényt alkotja:
 
 (2) A 9 fős Kollégium tagjait, valamint a tagok közül a Kollégium elnökét a Bizottság nevezi ki.
 
-(3) A Kollégium a tevékenységét a MÁÉRT elvi iránymutatásai és a támogatási célok figyelembevételével, a szakmai szempontok érvényre juttatásával végzi. Munkája során a Kollégium nem utasítható a MÁÉRT, illetve az Alap kezelő szervezete részéről.
+(3) A Kollégium a tevékenységét a MÁÉRT elvi iránymutatásai és a támogatási célok figyelembevételével, a szakmai szempontok érvényre juttatásával végzi. Munkája során a Kollégium nem utasítható a MÁÉRT, illetve az Alap kezelő szerve részéről.
 
 (4) A Kollégium tagjainak megbízatása négy évre szól.
 
@@ -83,7 +85,7 @@ a következő törvényt alkotja:
 
 - a) magyarországi, vagy határon túli politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet tisztségviselője;
 - b) a MÁÉRT munkájában részt vevő – nem magyar közigazgatási szerv által delegált –személy, illetve annak közeli hozzátartozója;
-- c) az Alap kezelő szervezetének vezetője, igazgatóságának tagja, felügyelő bizottságának tagja, továbbá az a személy, aki a kezelő szervezettel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, vagy más, a Polgári törvénykönyvről szóló törvény szerinti szerződéses jogviszonyban áll;
+- c) az Alap kezelő szervének vezetője, felügyelő bizottságának tagja, továbbá az a személy, aki a kezelő szervvel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, vagy más magánjogi jogviszonyban áll;
 - d) a Bizottság tagja vagy annak közeli hozzátartozója;
 - e) az Alapból támogatásban részesülő természetes személy, illetve támogatott szervezet képviselője, vagy annak közeli hozzátartozója.
 
@@ -105,15 +107,23 @@ a következő törvényt alkotja:
 
 8. § A Kollégium tagjait és elnökét tevékenységükért díjazás nem illeti meg, viszont jogosultak az Alap tevékenységével közvetlenül összefüggő, igazolt költségeik megtérítésére.
 
-9. § (1) Az Alapból megítélt támogatások folyósításával, felhasználásának ellenőrzésével és nyilvántartásával összefüggő, illetve az államháztartásról szóló 1992. évi XXXVIII. törvény 54/A. §-a szerinti feladatokat az Alap kezelő szervezeteként a magyar állam tulajdonában lévő Bethlen Gábor Alapkezelő Nonprofit Zrt. látja el. Az Alap kezelő szervezete végzi az önkormányzatok, valamint a civil szervezetek közötti határon átnyúló magyar–magyar kapcsolatok regisztrációját és nyilvántartását. Az Alap kezelő szervezete felett a kormányzati tevékenység összehangolásáért felelős miniszter gyakorolja a tulajdonosi jogokat. Az Alap feladatának teljesítése és céljainak elérése érdekében az Alap kezelő szervezete az e törvényben meghatározott, támogatott kedvezményezettek köréről nyilvántartást készít, és azt – a támogatott kedvezményezettek hozzájárulása alapján – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény szerint kezeli.
+9. § (1) Az Alapból megítélt támogatások folyósításával, felhasználásának ellenőrzésével és nyilvántartásával összefüggő, illetve az államháztartásról szóló 1992. évi XXXVIII. törvény 54/A. §-a szerinti feladatokat az Alap kezelő szerveként a magyar állam tulajdonában lévő Bethlen Gábor Alapkezelő Nonprofit Zrt. látja el.
 
-(2) Az Alap kezelő szervezetének vezetője, illetve a szervezettel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
+(2) Az Alap kezelő szerve felett a tulajdonosi jogokat a magyar állam nevében a kormányzati tevékenység összehangolásáért felelős miniszter gyakorolja.
+
+(3) Az Alap kezelő szerve feladatainak hatékony ellátása érdekében a pályáztatási feladatok vagy azok egy részének ellátása érdekében más szervezetet is létrehozhat vagy megbízhat.
+
+9/A. § Az Alap kezelő szervének vezetője, illetve az Alap kezelő szervével munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
 
 - a) politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet tisztségviselője;
 - b) a MÁÉRT tagja, vagy annak közeli hozzátartozója;
-- c) a Kollégium elnöke, tagja, illetve azok közeli hozzátartozója;
+- c) a Kollégium elnöke, tagja, vagy azok közeli hozzátartozója;
 - d) a Bizottság tagja, vagy annak közeli hozzátartozója;
-- e) az Alapból támogatásban részesülő természetes személy, illetve támogatott szervezet képviselője, vagy annak közeli hozzátartozója.
+- e) az Alapból támogatásban részesülő természetes személy, az Alapból támogatásban részesülő szervezet képviselője, vagy annak közeli hozzátartozója.
+
+9/B. § (1) Az Alap kezelő szerve végzi az önkormányzatok, valamint a civil szervezetek közötti határon átnyúló magyar–magyar kapcsolatok regisztrációját és nyilvántartását.
+
+(2) Az Alap feladatának teljesítése és céljainak elérése érdekében az Alap kezelő szerve az Alapból támogatásban részesülő kedvezményezettekről – a hozzájárulásuk alapján – nyilvántartást vezet, és azt a személyes adatok védelmére vonatkozó törvényi szabályok szerint kezeli.
 
 #### 5. Az Alap működése
 
@@ -129,7 +139,7 @@ a következő törvényt alkotja:
 
 11. § (1) A Kollégium ülései nyilvánosak, de a Kollégium zárt ülés tartását is elhatározhatja. A zárt ülésről készült jegyzőkönyvet is nyilvánosságra kell hozni.
 
-(2) Az Alap működésének nyilvánosságát az Alap internetes honlapja (a továbbiakban: honlap) is biztosítja. A honlapon közzé kell tenni a Bizottság Alappal kapcsolatos döntéseit, azok meghozatalától (elfogadásától) számított 15 napon belül. A honlapon hozzáférhetővé kell tenni továbbá az Alap működésével kapcsolatos legfontosabb jogszabályokat, az Alap és kezelő szervezetének működésére vonatkozó valamennyi rendelkezést, valamint a Bizottság és a Kollégium tagjainak nevét. A döntések nyilvánosságra hozataláról a Bizottság az Alap kezelő szerve útján gondoskodik.
+(2) Az Alap működésének nyilvánosságát az Alap internetes honlapja (a továbbiakban: honlap) is biztosítja. A honlapon közzé kell tenni a Bizottság Alappal kapcsolatos döntéseit, azok meghozatalától (elfogadásától) számított 15 napon belül. A honlapon hozzáférhetővé kell tenni továbbá az Alap működésével kapcsolatos legfontosabb jogszabályokat, az Alap és kezelő szervének működésére vonatkozó valamennyi rendelkezést, valamint a Bizottság és a Kollégium tagjainak nevét. A döntések nyilvánosságra hozataláról a Bizottság az Alap kezelő szerve útján gondoskodik.
 
 #### 6.
 
@@ -139,7 +149,7 @@ a következő törvényt alkotja:
 
 15. § (1) Ez a törvény 2011. január 1-jén lép hatályba.
 
-(2)
+(2) A 9. § az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított (3) bekezdését a hatálybalépését megelőzően benyújtott nyilvános pályázatok és egyedi kérelmek alapján a hatálybalépését követően megkötésre kerülő támogatási szerződések vonatkozásában is alkalmazni kell.
 
 16. §
 
@@ -150,7 +160,7 @@ a következő törvényt alkotja:
 - a) az Alap működésének, forrásai kezelésének és felhasználásának részletes szabályait, a nyújtható támogatások rendező elveit, valamint a támogatási szerződés kötelező tartalmi elemeit, a vezetendő nyilvántartások tartalmát,
 - b) az e törvény szerinti vállalkozások fejlesztési és más támogatásának céljait, feltételeit,
 - c) az e törvény alapján nyújtott, az Európai Unió működéséről szóló szerződés 107. cikke szerint állami támogatásnak minősülő támogatások uniós joggal való összeegyeztethetőségét biztosító szabályokat,
-- d) az Alappal való rendelkezésre, a Kollégium feladataira és működésére, az Alap kezelő szervezetének működésére és felügyeletére, valamint az Alapból nyújtott támogatások nyilvántartására vonatkozó részletes szabályokat,
+- d) az Alappal való rendelkezésre, a Kollégium feladataira és működésére, az Alap kezelő szervének működésére és felügyeletére, valamint az Alapból nyújtott támogatások nyilvántartására vonatkozó részletes szabályokat,
 - e) az Alapból az Alap működésére fordítható kiadások mértékét rendeletben határozza meg.
 
 (2) Felhatalmazást kap a nemzetpolitikáért felelős miniszter, hogy a költségvetési törvény Közigazgatási és Igazságügyi Minisztérium fejezetében lévő, a határon túli magyarok programjainak támogatására meghatározott fejezeti kezelésű előirányzatokat az Alap javára átcsoportosítsa.
