@@ -4,7 +4,7 @@ egyes gazdasági tárgyú törvények módosításáról
 
 #### 1. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
-1–2. §
+1. §
 
 #### 2. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló2003. évi CXXVII. törvény módosítása
 
@@ -94,9 +94,9 @@ c) a képzés azonosítója és kreditpontértéke.”
 
 23. § (1) Az Szt. 177. §-a a következő (18)–(19) bekezdésekkel egészül ki:
 
-„(18) A könyvviteli szolgáltatást végzők a 2011. évi továbbképzési kötelezettségüknek a 2011. április 1-jén akkreditációval rendelkező szervezeteknél, a 2011. április 1-jén hatályos szabályok szerint lebonyolított továbbképzések teljesítésével kötelesek eleget tenni.
+„(18) A könyvviteli szolgáltatást végzők a 2012. évi továbbképzési kötelezettségüknek a 2012. április 1-jén akkreditációval rendelkező szervezeteknél, a 2012. április 1-jén hatályos szabályok szerint lebonyolított továbbképzések teljesítésével kötelesek eleget tenni.
 
-(19) A 152. § alapján a 2011. évben kreditrendszerű továbbképzések teljesítésével megszerzett kreditpontok a 2012. évi továbbképzési kötelezettség vonatkozásában vehetők figyelembe.”
+(19) A 152. § alapján a 2012. évben kreditrendszerű továbbképzések teljesítésével megszerzett kreditpontok a 2013. évi továbbképzési kötelezettség vonatkozásában vehetők figyelembe.”
 
 (2) Az Szt. 177. §-a a következő (20) bekezdéssel egészül ki:
 
@@ -166,9 +166,11 @@ lép.
 
 (4) A 42. § 2011. szeptember 1-jén lép hatályba.
 
-(5) A 16. § (2)–(4) bekezdése, a 18. §, a 21. § és a 22. §, valamint a 23. § (1) bekezdése 2011. október 1-jén lép hatályba.
+(5) A 16. § (2)–(4) bekezdése, valamint a 18. § 2011. október 1-jén lép hatályba.
 
 (6) A 23. § (2) bekezdése, valamint a 25. § i) pontja 2012. január 1-jén lép hatályba.
+
+(6a) A 21. § és a 22. §, valamint a 23. § (1) bekezdése 2012. október 1-jén lép hatályba.
 
 (7) A 23. § (3) bekezdése, valamint a 25. § j) pontja 2014. január 1-jén lép hatályba.
 

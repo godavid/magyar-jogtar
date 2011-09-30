@@ -188,7 +188,7 @@ Az Országgyűlés annak érdekében, hogy az államháztartási rendszer újras
 
 (3) Fizetési kötelezettséget előírni, a fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmények, mentességek körét és mértékét, továbbá előlegfizetési kötelezettséget megállapítani – a díj és a bírság kivételével – csak törvényben, illetve törvény felhatalmazása alapján önkormányzati rendeletben lehet.
 
-(4) Fizetési kötelezettségekre, fizetésre kötelezettek körére, a fizetési kötelezettség mértékére vonatkozó törvények kihirdetése és hatálybalépése között legalább negyvenöt – az országgyűlési képviselők általános választásának évében legalább negyven – napnak kell eltelnie, kivéve, ha a törvény a fizetési kötelezettséget mérsékli és a fizetési kötelezettségek, valamint a fizetésre kötelezettek körét nem bővíti.
+(4) Fizetési kötelezettségekre, fizetésre kötelezettek körére, a fizetési kötelezettség mértékére vonatkozó törvények kihirdetése és hatálybalépése között legalább harminc napnak kell eltelnie, kivéve, ha a törvény a fizetési kötelezettséget mérsékli és a fizetési kötelezettségek, valamint a fizetésre kötelezettek körét nem bővíti.
 
 (5) A fizetési kötelezettség részletes szabályait — ha törvény másként nem rendelkezik — a Kormány állapítja meg.
 
