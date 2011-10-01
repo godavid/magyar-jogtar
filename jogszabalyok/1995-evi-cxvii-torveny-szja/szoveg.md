@@ -1925,9 +1925,7 @@ kell figyelembe venni.
 
 71. § (1) Béren kívüli juttatásnak minősül – ha a juttató a munkáltató – a munkavállalónak
 
-- a) személyére és közeli hozzátartozói személyére tekintettel
-  - aa) üdülési csekk/csekkek formájában juttatott jövedelemből – több juttatótól származóan együttvéve – vagy
-  - ab) a munkáltató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
+- a) személyére és közeli hozzátartozói személyére tekintettel a munkáltató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 - b) étkezőhelyi vendéglátásnak, munkahelyi étkeztetésnek vagy közétkeztetésnek minősülő szolgáltatás keretében megvalósuló ételfogyasztás vagy fogyasztásra kész étel révén juttatott jövedelemből (ideértve a kizárólag az előzőek igénybevételére jogosító utalvány, készpénz-helyettesítő fizetési eszköz formában az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 18 000 forintot meg nem haladó rész;
 - c) az adóévben Széchenyi Pihenő Kártya számlájára utalt, külön jogszabályban meghatározott célra felhasználható – több juttatótól származóan együttvéve – legfeljebb 300 ezer forint támogatás;
 - d) legfeljebb havi 5000 forintot meg nem haladó összegben
@@ -1939,13 +1937,9 @@ kell figyelembe venni.
 
 (2) Béren kívüli juttatásnak minősül
 
-- a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának
-  - aa) üdülési csekk/csekkek formájában juttatott jövedelemből – több juttatótól származóan együttvéve – vagy
-  - ab) a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
+- a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 - b) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek étkezőhelyi vendéglátásnak, munkahelyi étkeztetésnek vagy közétkeztetésnek minősülő szolgáltatás keretében megvalósuló ételfogyasztás vagy fogyasztásra kész étel révén juttatott jövedelemből (ideértve a kizárólag az előzőek igénybevételére jogosító utalvány, készpénz-helyettesítő fizetési eszköz formájában az adóéven belül utólagosan adva is) a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára a havi 18 000 forintot meg nem haladó rész;
-- c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának
-  - ca) üdülési csekk/csekkek formájában juttatott jövedelemből – több juttatótól származóan együttvéve – vagy
-  - cb) üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
+- c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 - d) a szövetkezet közösségi alapjából a szövetkezet magánszemély tagja részére a szövetkezetekről szóló törvényben foglaltaknak megfelelően az adóévben nem pénzben juttatott – egyébként adóköteles – jövedelem együttes értékéből személyenként a minimálbér havi összegének 50 százalékát meg nem haladó rész.
 
 (3) Béren kívüli juttatásnak minősül a magánszemély javára átutalt munkáltatói/foglalkoztatói havi hozzájárulásból
@@ -2497,6 +2491,8 @@ megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezt
 84/O. § Az 1. számú melléklet 3.2. pontjának a személyi jövedelemadóról szóló 1995. évi CXVII. törvény, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény módosításáról szóló 2011. évi LXIV. törvénnyel megállapított 3.2.6. alpontját a 2011. január 1-jét követően megszerzett jövedelemre és keletkezett adókötelezettségre kell alkalmazni.
 
 84/P. § Az 1. számú mellékletnek a személyi jövedelemadóról szóló 1995. évi CXVII. törvény, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény módosításáról szóló 2011. évi LXIV. törvénnyel megállapított 4.5. pontját a hatálybalépését megelőzően, de 2011. január 1-jét követően megszerzett, pénzjutalomra is alkalmazni kell.
+
+84/Q. § A 2011. október 1-jét megelőzően üdülési csekk formájában megszerzett bevétel adókötelezettségére e törvénynek a bevétel megszerzése időpontjában hatályos rendelkezéseit kell alkalmazni.
 
 84/R. § A 28. § (20)–(22) bekezdéseinek rendelkezéseit nem kell alkalmazni arra a jövedelemre, amelyre az adózó legkésőbb 2012. december 31-ig a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény 82. §-a szerinti szabályokat alkalmazza.
 
