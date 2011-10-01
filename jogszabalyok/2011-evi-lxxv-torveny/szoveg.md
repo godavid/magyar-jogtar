@@ -110,7 +110,28 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 #### 4. A lakáshitelek fedezetéül szolgáló lakóingatlanok kényszerértékesítésének rendje
 
-6–9. §
+6. § A hitelező 2011. október 1-jétől 2014. december 31-éig csak annak a fedezeti ingatlannak a kényszerértékesítését kezdeményezheti, amelyet ilyen célra e törvény szerint kijelölt.
+
+7. § (1) A hitelező által a megyében, fővárosban kényszerértékesítésre negyedévenként kijelölt fedezeti ingatlanok számának a hitelezőnek a megyében, fővárosban a tárgynegyedév első napján meglévő összes fedezeti ingatlana számához viszonyított aránya nem haladhatja meg az e törvény 1. mellékletében az adott megyére, fővárosra meghatározott kényszerértékesítési kvótát. Ha a kényszerértékesítési kvóta alapján e törvény szerint kényszerértékesítésre kijelölhető fedezeti ingatlanok száma tört szám, a tört számot követő egész számnak megfelelő számú fedezeti ingatlan jelölhető ki kényszerértékesítésre.
+
+(2) A tárgynegyedév első napján meglévő fedezeti ingatlanként nem lehet figyelembe venni azt a fedezeti ingatlant, amelyet a hitelező (jogelődje) a megelőző negyedévekben kényszerértékesítésre már kijelölt, vagy amelynek az 1. § (1) bekezdés 7. pont b) alpontja szerinti kényszerértékesítését a törvény hatályba lépése előtt kezdeményezte.
+
+(3) Ha a hitelező a lakáshitel-szerződésből eredő követelést olyan személyre vagy szervezetre engedményezi, akinek a tevékenységének ellenőrzése nem tartozik a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) hatáskörébe, az e követelést biztosító zálogjoggal terhelt, kényszerértékesítésre kijelölt fedezeti ingatlan a kijelölést követő valamennyi negyedévben beleszámítandó az adott megyében, fővárosban kényszerértékesítésre kijelölt fedezeti ingatlanok számába.
+
+8. § (1) A hitelező minden tárgynegyedév első napján megyei, fővárosi szinten megállapítja az összes fedezeti ingatlanának a számát és a 7. §-ban foglaltak szerint kijelöli azokat, amelyek tekintetében kényszerértékesítést kezdeményez.
+
+(2) A kényszerértékesítésre kijelölt fedezeti ingatlan kényszerértékesítését a hitelezőnek a tárgynegyedév végéig kezdeményeznie kell.
+
+(3) Ha a fedezeti ingatlan kényszerértékesítésére vagy kényszerértékesítésének kezdeményezésére utóbb a lakáshitel-szerződésből eredő hiteltartozás megszűnése miatt nem kerül sor, a hitelező ehelyett – az e törvényben foglalt feltételeknek megfelelő – másik fedezeti ingatlant jelölhet ki kényszerértékesítésre a kényszerértékesítési kvótát meghaladóan.
+
+9. § (1) A hitelező a fedezeti ingatlanok kényszerértékesítésre történt kijelöléséről a tárgynegyedév 15. napjáig a következő adatok közlésével tájékoztatja a Felügyeletet:
+
+- a) a megyében, fővárosban a tárgynegyedév első napján meglévő összes fedezeti ingatlanának száma,
+- b) a kényszerértékesítésre kijelölt fedezeti ingatlanok fekvése (település megnevezése), helyrajzi száma, lakáshitel-szerződésben meghatározott (ilyen szerződési feltétel hiányában a hitelfolyósításkori) forgalmi értéke és alapterülete ingatlanonkénti bontásban.
+
+(2) Az a hitelező, akinek a tevékenységének ellenőrzése nem tartozik a Felügyelet hatáskörébe, az (1) bekezdés szerinti adatszolgáltatást a fogyasztóvédelmi hatóság részére teljesíti.
+
+(3) A fogyasztóvédelmi hatóság jogosult eljárni a (2) bekezdés szerinti hitelezőkkel szemben a kényszerértékesítési kvótára vonatkozó szabályok (6–8. §) és a (2) bekezdés megsértése esetén. A fogyasztóvédelmi hatóság a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban Fgytv.) szabályai szerint jár el. E rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
 10. § (1) A kötelezett által lakott, lakáshitel-szerződésből eredő tartozást biztosító zálogjoggal terhelt lakóingatlan a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 257. § (2) és (3) bekezdése szerinti megállapodás alapján, a Ptk. 257. és 258. § alkalmazásával 2011. október 1-jéig csak akkor értékesíthető és tehető közzé az árverési hirdetmény az állami adóhatóság által üzemeltetett elektronikus árverési felületen, ha
 

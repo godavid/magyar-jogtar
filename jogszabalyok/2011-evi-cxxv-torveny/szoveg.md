@@ -320,21 +320,9 @@ c) a pénznyerő automata tételes játékadójára részletfizetés vagy fizet�
 
 #### 4. Az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvény módosítása
 
-34. § Az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvény (a továbbiakban: Gtv.) 23. §-ának (1) bekezdése a következő szöveggel lép hatályba:
+34. §
 
-„23. § (1) Az Szt. 177. §-a a következő (18)–(19) bekezdésekkel egészül ki:
-
-„(18) A könyvviteli szolgáltatást végzők a 2012. évi továbbképzési kötelezettségüknek a 2012. április 1-jén akkreditációval rendelkező szervezeteknél, a 2012. április 1-jén hatályos szabályok szerint lebonyolított továbbképzések teljesítésével kötelesek eleget tenni.
-
-(19) A 152. § alapján a 2012. évben kreditrendszerű továbbképzések teljesítésével megszerzett kreditpontok a 2013. évi továbbképzési kötelezettség vonatkozásában vehetők figyelembe.””
-
-35. § (1) A Gtv. 44. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A 16. § (2)–(4) bekezdése, valamint a 18. § 2011. október 1-jén lép hatályba.”
-
-(2) A Gtv. 44. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A 21. § és a 22. §, valamint a 23. § (1) bekezdése 2012. október 1-jén lép hatályba.”
+35. §
 
 #### 5. Az illetékekről szóló 1990. évi XCIII. törvény és a személyi jövedelemadóról szóló1995. évi CXVII. törvény módosítása
 
@@ -396,31 +384,17 @@ tb) a követelés biztosítékául szolgáló, a magánszemély tulajdonában á
 
 #### 11. A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosítása
 
-45. § (1) A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény (a továbbiakban: Bgatv.) 1. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az Alap fedezetet nyújt a Magyarország határain belül és kívül élő magyar közösségek kölcsönös megismerése, valamint a nemzeti teljesítmény legfontosabb példáinak bemutatása, továbbá a magyarságismereti és nemzetpolitikai kutatások elősegítése érdekében létrehozott Magyarság Háza működéséhez.”
+45. § (1)
 
 (2) A Bgatv. 1. §-a a következő (1b) bekezdéssel egészül ki:
 
 „(1b) Az Alap célja a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok ellátásának összehangolása.”
 
-46. § A Bgatv. 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+46. §
 
-„(2) E törvényben foglalt támogatások nem érintik a hatályos jogszabályok által a világ bármely más részén élő, magyar állampolgársággal nem rendelkező, magyar nemzetiségű személyeknek biztosított kedvezményeket és támogatásokat, nem érintik továbbá – az oktatási-nevelési támogatások kivitelével – a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) alapján nyújtott támogatásokat.”
+47. §
 
-47. § A Bgatv. 6. § (5) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[Nem lehet a Kollégium tagja]
-
-„c) az Alap kezelő szervének vezetője, felügyelő bizottságának tagja, továbbá az a személy, aki a kezelő szervvel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, vagy más magánjogi jogviszonyban áll;”
-
-48. § (1) A Bgatv. 9. §-a helyébe a következő rendelkezés lép:
-
-„9. § (1) Az Alapból megítélt támogatások folyósításával, felhasználásának ellenőrzésével és nyilvántartásával összefüggő, illetve az államháztartásról szóló 1992. évi XXXVIII. törvény 54/A. §-a szerinti feladatokat az Alap kezelő szerveként a magyar állam tulajdonában lévő Bethlen Gábor Alapkezelő Nonprofit Zrt. látja el.
-
-(2) Az Alap kezelő szerve felett a tulajdonosi jogokat a magyar állam nevében a kormányzati tevékenység összehangolásáért felelős miniszter gyakorolja.
-
-(3) Az Alap kezelő szerve feladatainak hatékony ellátása érdekében a pályáztatási feladatok vagy azok egy részének ellátása érdekében más szervezetet is létrehozhat vagy megbízhat.”
+48. § (1)
 
 (2) A Bgatv. 9. §-a kiegészül a következő (4) és (5) bekezdéssel:
 
@@ -428,27 +402,9 @@ tb) a követelés biztosítékául szolgáló, a magánszemély tulajdonában á
 
 (5) Az Alap kezelő szerve a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok ellátásának összehangolása érdekében más szervezetet is létrehozhat vagy megbízhat.”
 
-49. § A Bgatv. a következő 9/A. §-sal és 9/B. §-sal egészül ki:
+49. §
 
-„9/A. § Az Alap kezelő szervének vezetője, illetve az Alap kezelő szervével munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
-
-a) politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet tisztségviselője;
-
-b) a MÁÉRT tagja, vagy annak közeli hozzátartozója;
-
-c) a Kollégium elnöke, tagja, vagy azok közeli hozzátartozója;
-
-d) a Bizottság tagja, vagy annak közeli hozzátartozója;
-
-e) az Alapból támogatásban részesülő természetes személy, az Alapból támogatásban részesülő szervezet képviselője, vagy annak közeli hozzátartozója.
-
-9/B. § (1) Az Alap kezelő szerve végzi az önkormányzatok, valamint a civil szervezetek közötti határon átnyúló magyar–magyar kapcsolatok regisztrációját és nyilvántartását.
-
-(2) Az Alap feladatának teljesítése és céljainak elérése érdekében az Alap kezelő szerve az Alapból támogatásban részesülő kedvezményezettekről – a hozzájárulásuk alapján – nyilvántartást vezet, és azt a személyes adatok védelmére vonatkozó törvényi szabályok szerint kezeli.”
-
-50. § (1) A Bgatv. 15. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) A 9. § az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított (3) bekezdését a hatálybalépését megelőzően benyújtott nyilvános pályázatok és egyedi kérelmek alapján a hatálybalépését követően megkötésre kerülő támogatási szerződések vonatkozásában is alkalmazni kell.”
+50. § (1)
 
 (2) A Bgatv. 15. §-a a következő (3) bekezdéssel egészül ki:
 
@@ -472,14 +428,9 @@ e) az Alapból támogatásban részesülő természetes személy, az Alapból t�
 
 (8) Hatályát veszti a Szülőföld Alapról szóló 2005. évi II. törvény módosításáról szóló 2006. évi CXXXIV. törvény.
 
-(9) A Bgatv.
+(9)
 
-- a) 6. § (3) bekezdésében a „kezelő szervezete” szövegrész helyébe a „kezelő szerve” szöveg,
-- b) 11. § (2) bekezdésében és 18. § (1) bekezdés d) pontjában a „kezelő szervezetének” szövegrész helyébe a „kezelő szervének” szöveg
-
-lép.
-
-(10) Nem lép hatályba az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 83. § (30) bekezdése.
+(10)
 
 ### 1. melléklet a 2011. évi CXXV. törvényhez
 
