@@ -21,10 +21,12 @@ Az Országgyűlés a felhasználók biztonságos, megfelelő minőségű és gaz
 
 rendelkezéseivel összhangban kell alkalmazni.
 
-(4) Nem tartozik e törvény hatálya alá
+(4) Nem tartozik – a 4. § (2)–(3) bekezdésében és az 57/F. §-ban foglaltak kivételével – e törvény hatálya alá az a termelő, amely a távhőt távhőszolgáltató közbeiktatása nélkül, egyedi szerződés alapján, közvetlenül nem lakossági felhasználónak termeli (a továbbiakban: egyedi szerződés alapján termelő).
 
-- a) a saját felhasználási célra hőt termelő létesítmény, valamint az a távhőtermelő tevékenység, amit a termelő, szolgáltató közbeiktatása nélkül, közvetlenül a nem lakossági felhasználónak, egyedi szerződés alapján végez;
-- b) a központi költségvetési szervek vagyonkezelésében lévő távhőtermelő és hőszolgáltató létesítmény.
+(5) E törvény rendelkezései – a 4. § (2)–(3) bekezdésében és az 57/F. §-ban foglaltak kivételével – nem alkalmazhatók
+
+- a) a saját felhasználási célra hőt termelő létesítményre és
+- b) a központi költségvetési szervek vagyonkezelésében lévő távhőtermelő és hőszolgáltató létesítményre.
 
 ### Általános követelmények
 
@@ -37,7 +39,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 - a) csatlakozási pont: a szolgáltatói és a felhasználói berendezés határán, találkozási pontján beépített elzáró szerelvénynek a felhasználó felé eső oldala, elzáró szerelvény hiányában a felhasználási helyet magában foglaló ingatlan (épület, építmény, telek) tulajdoni határa;
 - b) díjfizető: épületrészenkénti díjmegosztás esetén az épületrésznek a közüzemi szerződésben megnevezett tulajdonosa, az e törvényben meghatározott esetekben az épület, építmény vagy az épületrész bérlője, használója;
 - c) engedélyes: a távhőtermelő létesítmény létesítésére, távhőtermelésre, valamint a távhőszolgáltatásra engedéllyel rendelkező;
-- d) engedélyező: hatáskörének megfelelően a Magyar Energia Hivatal, a területileg illetékes települési önkormányzat jegyzője, illetve a fővárosban a fővárosi önkormányzat főjegyzője;
+- d)
 - e) épületrész: e törvény alkalmazásában a távhővel ellátott épületnek, építménynek, ingatlannak funkcionálisan önálló, külön vagy közös tulajdonban lévő része (lakás, üzlethelyiség, lépcsőház stb.);
 - f) felhasználási hely: a felhasználó tulajdonában lévő, a közüzemi szerződés tárgyát képező olyan épület, építmény, épületrész, amelynek távhőfogyasztása önállóan mérhető;
 - g) felhasználó: a távhővel ellátott épületnek, építménynek, a törvényben meghatározott esetben az épületrésznek a távhőszolgáltatóval a távhő mérés szerint történő szolgáltatására vonatkozóan közüzemi szerződéses jogviszonyban álló tulajdonosa, több tulajdonos esetén a tulajdonosok közössége [a társasház, a lakásszövetkezet, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) szerinti közös tulajdon esetén a tulajdonostársak]. Abban az esetben, ha a távhőfelhasználás a több személy tulajdonában lévő épület valamennyi épületrészében mérhető, a felhasználó az egyes épületrészek tulajdonosa is lehet. A felhasználó lehet lakossági vagy egyéb felhasználó:
@@ -74,13 +76,17 @@ rendelkezéseivel összhangban kell alkalmazni.
 - a) kiadja, módosítja vagy visszavonja a távhőtermelő létesítmény létesítésére vonatkozó engedélyt és a távhőtermelői működési engedélyt, ha a létesítményben a hőenergiát – részben vagy egészben – távhő-szolgáltatási célra termelik, valamint a távhő-szolgáltatói működési engedélyt;
 - b) ellenőrzi a távhőtermelő és távhőszolgáltató működési engedélyében előírt követelmények, feltételek betartását, e tekintetben együttműködik a fogyasztóvédelmi hatósággal, továbbá a felhasználói érdekképviseletekkel;
 - c) jóváhagyja az engedélyezési hatáskörébe tartozó engedélyes átalakulását, valamint az engedélyesekben történő befolyásszerzés, illetőleg a jegyzett tőke értékének változását;
-- d) ellátja az ármegállapítással összefüggő, e törvényben meghatározott feladatokat.
+- d) ellátja az ármegállapítással összefüggő, e törvényben meghatározott feladatokat;
+- e) ellátja a távhőszolgáltatási támogatással összefüggő, e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatokat; és
+- f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) a 4. § (3) bekezdés szerinti ellenőrzés során tudomására jutott és az 57/D. § (5) bekezdés szerinti kötelező adatszolgáltatás révén rendelkezésére álló adatokról.
 
-(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, illetve távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő) a jogszabályban és az engedélyes engedélyében foglalt előírások és követelmények megtartását, azok megszegése esetén a kormány rendeletében megállapított összegű bírságot szabhat ki.
+(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
 
-(3) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult az engedélyestől, illetve az értékesítőtől eseti és rendszeres információt kérni, e törvényben előírt kötelezettségével és az engedélyhez kötött tevékenységével kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is.
+(3) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult a (2) bekezdésben meghatározottaktól eseti és rendszeres információt kérni, jogszabályban vagy hatósági döntésben előírt kötelezettségével, engedélyhez kötött tevékenységével vagy a távhőszolgáltatási támogatással kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is. A Hivatal ellenőrzési feladatainak teljesítése érdekében éves ellenőrzési tervet készít.
 
-5. § (1) A Hivatal eljárására a Vet.-ben a Hivatal eljárására vonatkozó általános szabályokat és a Vet. 74/A. §-ában foglaltakat kell alkalmazni azzal, hogy a 4. § (1) bekezdés a) pontjában meghatározott engedély iránti kérelem kizárólag elektronikus úton nyújtható be.
+(4) Bírósági felülvizsgálat iránti kérelem esetén a határozat végrehajtása felfüggesztésének nincs helye, ha a Hivatal a távhőszolgáltatási támogatás igénybevételének jogszerűsége tárgyában döntött.
+
+5. § (1) A Hivatal eljárására a Vet.-ben a Hivatal eljárására vonatkozó általános szabályokat kell alkalmazni. A Hivatal eljárásának megindítását kérelmező elektronikus úton nem jogosult a Hivatallal kapcsolatot tartani.
 
 (2) A Hivatal működését saját bevételeiből fedezi. A Hivatal részére felügyeleti tevékenységéért a hatáskörébe tartozó engedélyesek felügyeleti díjat kötelesek fizetni, amelynek mértéke az engedélyes tevékenysége előző évi nettó árbevételének 0,05%-a.
 
@@ -105,9 +111,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 (2) Az önkormányzat képviselő-testülete:
 
 - a) rendeletben határozza meg a távhőszolgáltató és a felhasználó közötti jogviszony részletes szabályait, valamint a hőmennyiségmérés helyét, ideértve a mérés technológiai helyét is;
-- b) rendeletben
-  - ba) határozza meg az 57. § (3) bekezdés szerinti díjat és díjfizetési feltételeket, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatásra vonatkozó, az 57/D. § (1) bekezdés szerinti miniszteri rendeletben nem szabályozott díjfizetési feltételeket, továbbá
-  - bb) határozhatja meg a szolgáltatói hőközponti, a felhasználói hőközponti, valamint hőfogadó állomási mérés közötti eltérésekre való tekintettel az e mérésekre vonatkozó külön díjalkalmazási feltételeket határozhat meg;
+- b) rendeletben határozza meg a távhőszolgáltatási csatlakozási díjat, a távhőszolgáltatási csatlakozási díj fizetési feltételeit, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatásra vonatkozó, az 57/D. § (1) bekezdés szerinti miniszteri rendeletben nem szabályozott díjalkalmazási és díjfizetési feltételeket.
 - c) rendeletben kijelöli azokat a területeket, ahol területfejlesztési, környezetvédelmi és levegő-tisztaságvédelmi szempontok alapján célszerű a távhőszolgáltatás fejlesztése;
 - d) megállapítja a távhőszolgáltatás szüneteltetésének és a felhasználók korlátozásának feltételeit, a korlátozás szabályait és sorrendjét, valamint a távhőszolgáltató azzal kapcsolatos jogait és kötelezettségeit;
 - e) rendeletben határozza meg az új vagy növekvő távhőigénnyel jelentkező felhasználási hely tulajdonosától kérhető csatlakozási díjat;
@@ -130,7 +134,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 - d) jogosult a távhőszolgáltatótól a c) pont szerinti ellenőrzési feladatainak teljesítése érdekében, annak mértékéig eseti és rendszeres információt kérni, az iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is; és
 - e) határozatában elrendelheti – az 51. § (8) bekezdésében foglalt esetekben – a felhasználási helyre történő bejutást.
 
-(2) Az önkormányzat jegyzőjének eljárásában az ügyintézés határideje két hónap, engedélyezési eljárások esetében három hónap. Az önkormányzat jegyzőjének határozata ellen nincs helye fellebbezésnek. A bíróság az önkormányzat jegyzőjének határozatát jogosult megváltoztatni.
+(2) Az önkormányzat jegyzőjének eljárása során az ügyintézési határidő két hónap. Az önkormányzat jegyzőjének döntése ellen nincs helye fellebbezésnek. A bíróság az önkormányzat jegyzőjének döntését jogosult megváltoztatni.
 
 ### Fogyasztóvédelem
 
@@ -153,7 +157,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 - a) megküldi előzetes véleményezésre a fogyasztóvédelmi hatóságnak és a felhasználói érdek-képviseleteknek a távhőszolgáltatást érintő képviselő-testületi előterjesztések tervezetét.
 - b)
 
-11. § (1) A távhőszolgáltató a szükséges adatok és információk rendelkezésre bocsátásával köteles együttműködni az engedélyező hatósággal, valamint a lakossági felhasználókat, illetve a természetes személy díjfizetőket érintő kérdésekben a fogyasztóvédelmi hatósággal és a felhasználói érdek-képviseletekkel.
+11. § (1) A távhőszolgáltató a szükséges adatok és információk rendelkezésre bocsátásával köteles együttműködni a Hivatallal és az önkormányzat jegyzőjével, valamint a lakossági felhasználókat, illetve a természetes személy díjfizetőket érintő kérdésekben a fogyasztóvédelmi hatósággal és a felhasználói érdek-képviseletekkel.
 
 (2) A távhőszolgáltató köteles az általános szerződési feltételeit – kiemelve a távhőszolgáltatás igénybevételének feltételeit, azok változását, a számlázás rendjét és a szolgáltatás minőségi követelményeit – az ügyfélszolgálatán könnyen hozzáférhető helyen kifüggeszteni, valamint a felhasználó és a díjfizető kívánságára azt ingyenesen rendelkezésre bocsátani.
 
@@ -163,7 +167,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (2) Az 5 MW vagy annál nagyobb névleges hőteljesítményű távhőtermelő létesítmény létesítése, bővítése, átalakítása, teljesítményének növelése és csökkentése, tüzelőanyagának megváltoztatása (a továbbiakban együtt: létesítés), továbbá megszüntetése engedélyköteles tevékenység.
 
-(3) A távhőtermelő létesítmény távhőtermelésének tervezett megszüntetése előtt legalább egy évvel az engedélyes engedélyt köteles kérni a megszüntetésre az engedélyező hatóságtól, az érintett önkormányzat egyidejű értesítésével.
+(3) A távhőtermelő létesítmény távhőtermelésének tervezett megszüntetése előtt legalább egy évvel az engedélyes engedélyt köteles kérni a megszüntetésre a Hivataltól az érintett önkormányzat egyidejű értesítésével.
 
 (4) A távhőtermelő tevékenység megszüntetése megtagadható vagy feltételhez köthető, ha az a távhőszolgáltatás biztonságát, vagy az e törvényben meghatározott ellátási kötelezettség teljesítését veszélyezteti.
 
@@ -175,7 +179,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 13. § (1) A létesítési és működési engedély tartalmi követelményeit, az engedélyezési eljárás szabályait és az engedély kiadásának rendjét a kormány e törvény végrehajtásáról szóló rendeletben határozza meg.
 
-(2) Az engedélyező az engedély kiadását akkor tagadhatja meg, ha:
+(2) A Hivatal az engedély kiadását akkor tagadhatja meg, ha:
 
 - a) a jogszabályi feltételek hiányoznak;
 - b) a kérelmező csőd- vagy felszámolási eljárás alatt áll;
@@ -190,7 +194,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 és a működésére vonatkozó engedély
 
-14. § (1) A távhőtermelő létesítmény létesítéséhez és működéséhez szükséges engedély iránti kérelmet a 4. § (1) bekezdés a) pontja, illetőleg a 7. § a) és b) pontja szerinti engedélyező hatósághoz kell benyújtani. Ha az engedélyeztetni kívánt tevékenység megkezdéséhez környezetvédelmi vagy egységes környezethasználati engedély szükséges, az engedélyt a kérelemhez mellékelni kell.
+14. § (1) A távhőtermelő létesítmény létesítéséhez és működéséhez szükséges engedély iránti kérelmet a Hivatalhoz kell benyújtani. Ha az engedélyeztetni kívánt tevékenység megkezdéséhez környezetvédelmi vagy egységes környezethasználati engedély szükséges, az engedélyt a kérelemhez mellékelni kell.
 
 (2)
 
@@ -222,34 +226,34 @@ működési engedély
 - b) az e törvény szerinti ellátási kötelezettségnek eleget tenni;
 - c) a folyamatos és biztonságos szolgáltatáshoz szükséges üzemeltetési és fenntartási feladatokat ellátni;
 - d) az új vagy növekvő igények kielégítésére e törvényben részletezett feltételek mellett a szükséges fejlesztéseket elvégezni;
-- e) az engedélyező által előírt tartalomban és formában az engedélyhez kötött tevékenységgel és a felhasználói érdekekkel kapcsolatos adatokat és információkat az engedélyezőnek, valamint – felhasználói panaszok esetén – a fogyasztóvédelmi hatóságnak és a felhasználói érdekképviseleteknek megadni és hozzáférhetővé tenni.
+- e) a Hivatal által előírt tartalomban és formában az engedélyhez kötött tevékenységével és a felhasználói érdekekkel kapcsolatos adatokat és információkat a Hivatalnak, valamint – felhasználói panaszok esetén – a fogyasztóvédelmi hatóságnak és a felhasználói érdekképviseleteknek megadni és hozzáférhetővé tenni.
 
 ### Társaság átalakulása, alaptőke-változás,
 
 befolyásszerzés engedélyezése
 
-19. § (1) Az engedélyező jóváhagyó határozata szükséges az engedélyes társaságnak a gazdasági társaságokról szóló törvény (a továbbiakban: Gt.) szerinti
+19. § (1) A Hivatal jóváhagyó határozata szükséges az engedélyes társaságnak a gazdasági társaságokról szóló törvény (a továbbiakban: Gt.) szerinti
 
 - a) egyesüléséhez, és
 - b) szétválásához (a továbbiakban együttesen: átalakulás),
 - c) valamint alaptőkéjének, illetve törzstőkéjének legalább egynegyed résszel történő leszállításához, valamint
 - d) bármely engedélyes vállalkozásban történő, a szavazatok 25 százalékát, 50 százalékát, illetve 75 százalékát meghaladó befolyás szerzéséhez és az ehhez fűződő jogok gyakorlásához.
 
-(2) Az engedélyező nem tagadhatja meg az alaptőke, illetve a törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára külön jogszabály kötelezővé teszi. A cégjegyzékbe való bejegyzésre irányuló kérelmet a cégbírósághoz az engedélyező határozatával együtt kell benyújtani.
+(2) A Hivatal nem tagadhatja meg az alaptőke, illetve a törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára külön jogszabály kötelezővé teszi. A cégjegyzékbe való bejegyzésre irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt kell benyújtani.
 
-(3) Az engedélyező a jóváhagyást megtagadhatja, illetőleg feltételhez kötheti, ha az (1) bekezdés szerinti változások végrehajtása a távhőellátás biztonságát, az e törvényben meghatározott ellátási kötelezettség teljesítését, illetőleg a felhasználók érdekeit sérti.
+(3) A Hivatal a jóváhagyást megtagadhatja, illetőleg feltételhez kötheti, ha az (1) bekezdés szerinti változások végrehajtása a távhőellátás biztonságát, az e törvényben meghatározott ellátási kötelezettség teljesítését, illetőleg a felhasználók érdekeit sérti.
 
-(4) Az engedélyező hatóság határozatának hiányában az (1) bekezdés rendelkezéseivel kapcsolatos, a részvényesre és tagra vonatkozó változások a részvénykönyvbe nem jegyezhetők be, illetve a tagjegyzékbe nem tüntethetők fel és erre a társaságban jogot alapítani nem lehet.
+(4) A Hivatal határozatának hiányában az (1) bekezdés rendelkezéseivel kapcsolatos, a részvényesre és tagra vonatkozó változások a részvénykönyvbe nem jegyezhetők be, illetve a tagjegyzékbe nem tüntethetők fel és erre a társaságban jogot alapítani nem lehet.
 
-(5) Az (1) bekezdésben meghatározott egyesüléssel járó, valamint az (1) bekezdésben meghatározott tőkekoncentráció, illetve befolyásszerzés jóváhagyásához vagy annak megtagadásához az engedélyező köteles kikérni a Gazdasági Versenyhivatal véleményét.
+(5) Az (1) bekezdésben meghatározott egyesüléssel járó, valamint az (1) bekezdésben meghatározott tőkekoncentráció, illetve befolyásszerzés jóváhagyásához vagy annak megtagadásához a Hivatal köteles kikérni a Gazdasági Versenyhivatal véleményét.
 
-(6) Ha az engedélyes a Hivatal engedélyezési hatáskörébe tartozik, és a Hivataltól villamosenergia-termelésre működési engedéllyel is rendelkezik, az (1) bekezdés a)–d) pontjában szabályozott esetekben a Vet. rendelkezéseit is alkalmazni kell.
+(6) Ha az engedélyes villamosenergia-termelési működési engedéllyel is rendelkezik, az (1) bekezdésben szabályozott esetekben a Vet. rendelkezéseit is alkalmazni kell.
 
 ### A működési engedély visszavonása,
 
 a távhőellátás fenntartása
 
-20. § (1) Az engedélyező a működési engedélyt köteles visszavonni:
+20. § (1) A Hivatal a működési engedélyt köteles visszavonni:
 
 - a) ha az engedélyes nem tesz eleget törvényes, illetve a működési engedélyben előírt kötelezettségeinek, vagy tevékenységét megszünteti;
 - b) ha az engedélyes a távhőtermelői vagy a szolgáltatói berendezést felhívás ellenére a távhőszolgáltatás biztonságát, az élet-, az egészség- és a vagyonbiztonságot, a környezetet, továbbá a felhasználói érdekeket súlyosan veszélyeztető módon üzemelteti, illetve a működési engedélyben előírt kötelezettségeinek – erre irányuló felszólítás után – nem tesz eleget.
@@ -258,11 +262,11 @@ a távhőellátás fenntartása
 
 (3) A folyamatos és biztonságos ellátás érdekében a működési engedélyben foglalt tevékenységet folyamatosan fenn kell tartani, a távhőtermelő létesítmény, vagy az engedélyköteles tevékenység megszüntetésével kapcsolatos eljárás, a felszámolás vagy a végelszámolás befejezéséig.
 
-(4) Az engedélyező felszámolás vagy végelszámolás esetén, vagy ha az engedélyben foglalt tevékenységet nem az engedélyben meghatározott módon folytatják és az a távhőellátás jelentős zavarát idézheti elő, a folyamatos ellátásra más engedélyest is kijelölhet.
+(4) A Hivatal felszámolás vagy végelszámolás esetén, vagy ha az engedélyben foglalt tevékenységet nem az engedélyben meghatározott módon folytatják és az a távhőellátás jelentős zavarát idézheti elő, a folyamatos ellátásra más engedélyest is kijelölhet.
 
-(5) Az engedélyező más engedélyes kijelölése esetén az engedélyest kötelezheti arra, hogy az engedélyező által meghatározott, a folyamatos és biztonságos távhőtermeléshez és szolgáltatáshoz szükséges eszközeit a kijelölt engedélyesnek ellenszolgáltatás ellenében üzemeltetésre adja át, és a tevékenység gyakorlásához szükséges nyilvántartásokat, adatokat bocsássa rendelkezésre.
+(5) A Hivatal más engedélyes kijelölése esetén az engedélyest kötelezheti arra, hogy a Hivatal által meghatározott, a folyamatos és biztonságos távhőtermeléshez és szolgáltatáshoz szükséges eszközeit a kijelölt engedélyesnek ellenszolgáltatás ellenében üzemeltetésre adja át, és a tevékenység gyakorlásához szükséges nyilvántartásokat, adatokat bocsássa rendelkezésre.
 
-(6) Az engedélyező a (4)–(5) bekezdések alapján hozott határozatainak fellebbezésre tekintet nélküli végrehajtását rendelheti el, az energiaellátás folyamatos biztosítása érdekében.
+(6) A Hivatal a (4)–(5) bekezdések alapján hozott határozatainak fellebbezésre tekintet nélküli végrehajtását rendelheti el, az energiaellátás folyamatos biztosítása érdekében.
 
 ### IV. Fejezet — JOGOK IDEGEN INGATLANON
 
@@ -315,7 +319,7 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 - a) a föld alatti és különösen indokolt esetben a föld feletti távhővezeték-hálózatot és az ahhoz szükséges tartószerkezetet létesíthet, illetve helyezhet el;
 - b) az a) pont szerint elhelyezett létesítményeket üzemeltetheti, karbantarthatja, kijavíthatja, átalakíthatja, eltávolíthatja;
 - c) a távhővezeték-hálózat mentén levő, annak épségét közvetlenül veszélyeztető fákat, bokrokat, azok ágait, gyökereit – kártérítési kötelezettség mellett – eltávolíthatja;
-- d) a távhővezeték-hálózattal – az energiapolitikáért felelős miniszternek (a továbbiakban: miniszter) a szabályozásban érdekelt miniszterrel egyetértésben kiadott, az e törvény végrehajtásáról szóló rendeletében meghatározott módon – más építményt és nyomvonalas műtárgyat megközelíthet, illetve keresztezhet.
+- d) a távhővezeték-hálózattal – a miniszternek a szabályozásban érdekelt miniszterrel egyetértésben kiadott, az e törvény végrehajtásáról szóló rendeletében meghatározott módon – más építményt és nyomvonalas műtárgyat megközelíthet, illetve keresztezhet.
 
 24. § Távhővezeték-hálózat részét képező vezeték az ingatlantulajdonossal, az ingatlan kezelőjével, illetőleg a közterület tulajdonosával kötött szerződés alapján is létesíthető és üzemeltethető.
 
@@ -488,7 +492,7 @@ a szolgáltatást korlátozni. A korlátozás általános feltételeit a kormán
 - a) a közüzemi szerződés hatálybalépésétől, a közüzemi szerződés megszűnése után a követelések elévülési idejéig a felhasználók és a díjfizetők adatai közül azokat kezelni, amelyek a felhasználók és a díjfizetők azonosításához, a közüzemi szerződés teljesítéséhez szükségesek. Ennek keretében jogosult a felhasználók és a díjfizetők azonosító adatai közül természetes személyek vonatkozásában a névre, lakcímre, születési időre és helyre vonatkozó adatokat, egyéb szervezetek vonatkozásában a névre, székhelyre, képviselő nevére vonatkozó adatokat, és mindkét esetben a felhasználási helyre, a fogyasztásra, a számlázásra és a díjfizetésre vonatkozó adatokat a közüzemi szerződésen alapuló kötelezettségeinek teljesítése, jogainak gyakorlása céljából kezelni. Ugyanezen adatkezelői jogok illetik meg a felhasználók képviselőit, a felhasználók és a díjfizetők előbbiekben megjelölt adatai tekintetében;
 - b) az általa kezelt adatok közül azokat, amelyek a tevékenységgel összefüggő adatkezelés céljából szükségesek, átadni azoknak, akik a távhőszolgáltató megbízásából a díjak számlázását és beszedését, a követelések kezelését vagy az ügyfél-tájékoztatást végzik.
 
-(2) Az (1) bekezdés szerinti jogok megilletik azt az engedélyest is, akit a 20. § (4) bekezdés alapján az engedélyező a folyamatos távhőellátásra kijelöl.
+(2) Az (1) bekezdés szerinti jogok megilletik azt az engedélyest is, akit a 20. § (4) bekezdés alapján a Hivatal a folyamatos távhőellátásra kijelöl.
 
 (3) Amennyiben az adatkezelés nem az (1) bekezdés a) pontjában meghatározott célból történt, az adatkezelő a kezelt személyes adatot haladéktalanul törli.
 
@@ -640,7 +644,7 @@ meghatározott szerződésszegést követi el.
 
 ### VII. Fejezet — ÁRMEGÁLLAPÍTÁS
 
-57. § (1) A távhő legmagasabb hatósági árának megállapításával kapcsolatos szabályokat az árak megállapításáról szóló 1990. évi LXXXVII. törvény (a továbbiakban: Ámt.) tartalmazza.
+57. § (1) A távhőszolgáltatás csatlakozási díjának megállapítása során – az 57/A–57/B. §-ban foglalt eltéréssel – az árak megállapításáról szóló törvényt kell alkalmazni.
 
 (2) A távhőszolgáltatónak értékesített távhő árát, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás díját a költségekre, árakra, díjakra vonatkozó összehasonlító elemzések felhasználásával, a következő szempontokra is figyelemmel kell meghatározni:
 
@@ -649,7 +653,7 @@ meghatározott szerződésszegést követi el.
 
 (3) A távhőszolgáltatás csatlakozási díját külön jogszabályban meghatározott szempontok szerint úgy kell meghatározni, hogy az a hatékonyan működő vállalkozó szükséges és indokoltan felmerült ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, és a legkisebb költség elvének érvényre juttatása érdekében e vállalkozásokat gazdálkodásuk hatékonyságának és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
 
-(4) Az engedélyes köteles nyilvántartási és elszámolási rendszerét úgy kialakítani, hogy az megfeleljen az Ámt.-ben és a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben előírtaknak, és tegye lehetővé az árak és díjak átláthatóságát.
+(4) Az engedélyes köteles nyilvántartási és elszámolási rendszerét úgy kialakítani, hogy az megfeleljen a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben előírtaknak, és tegye lehetővé az árak és díjak átláthatóságát.
 
 57/A. § (1) A távhőszolgáltatás csatlakozási díjának megváltoztatását a távhőszolgáltató kezdeményezi.
 
@@ -690,7 +694,7 @@ meghatározott szerződésszegést követi el.
 - b) a költségtételek megjelölése és mértéke, a figyelembevétel módja,
 - c) a díjtételek megjelölése és mértéke, a figyelembevétel módja,
 - d) az elvárt nyereség meghatározása,
-- e) a kapcsolt és a megújuló energiaforrással történő energiatermelés kimutatható környezetvédelmi és gazdasági előnyei – az 57. § (2) bekezdés c) pontja szerinti – figyelembevételének módja, és
+- e) a kapcsolt és a megújuló energiaforrással történő energiatermelés kimutatható környezetvédelmi és gazdasági előnyei – az 57. § (2) bekezdés b) pontja szerinti – figyelembevételének módja, és
 - f) minden egyéb olyan adat, amely az árképzés, illetve a díjmegállapítás alapjául szolgál.
 
 (4) A távhőszolgáltató – az (1) bekezdésben foglaltakon túl – a honlapján közzéteszi
@@ -702,19 +706,29 @@ meghatározott szerződésszegést követi el.
 - e) külön jogszabályban meghatározott információkat,
 - f) a távhőszolgáltató szolgáltatási területén elérhető, a távhőszolgáltatással kapcsolatos támogatások feltételeit, pályázatok adatait.
 
-57/D. § (1) A távhőszolgáltatónak értékesített távhő árát, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díját – mint legmagasabb hatósági árat – (a továbbiakban együtt: ár) és azok szerkezetét a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg. Az ár megállapításakor rendelkezni kell arról, hogy az ár mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
+57/D. § (1) A távhőszolgáltatónak értékesített távhő árát, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díját – mint legmagasabb hatósági árat (a továbbiakban együtt: hatósági ár) –, a hatósági ár szerkezetét és alkalmazási feltételeit a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg.
 
 (2) A Hivatal az ármegállapítással, árváltozással kapcsolatos javaslatát a miniszter részére minden év augusztus 31-ig küldi meg.
 
-(3) A hatósági árat a miniszter a (2)–(3) bekezdés szerinti kezdeményezés hiányában is megállapíthatja. Ebben az esetben a miniszter megkeresheti a Hivatalt, hogy 90 napon belül tegye meg javaslatát.
+(3) A hatósági árat a miniszter a (2) bekezdés szerinti javaslat hiányában is megállapíthatja. Ebben az esetben a miniszter megkeresheti a Hivatalt, hogy 90 napon belül tegye meg javaslatát.
 
-(4) A Hivatal a (2)–(4) bekezdés szerinti javaslata kialakításához bekéri az érintett önkormányzatok képviselőtestületének ármegállapítással, árváltoztatással kapcsolatos állásfoglalását. A képviselőtestület a Hivatal által megjelölt, 30 napnál nem rövidebb határidőn belül adja meg állásfoglalását. A (4) bekezdés szerinti határidőbe a képviselőtestület állásfoglalása kiadásának időtartama nem számít be.
+(4) A Hivatal a (2) és (3) bekezdés szerinti javaslata kialakításához bekéri az érintett önkormányzatok képviselőtestületének ármegállapítással, árváltoztatással kapcsolatos állásfoglalását. A képviselőtestület a Hivatal által megjelölt, 30 napnál nem rövidebb határidőn belül adja meg állásfoglalását. A (3) bekezdés szerinti határidőbe a képviselőtestület állásfoglalása kiadásának időtartama nem számít be.
 
-(5) Az engedélyes, illetve az értékesítő köteles a Hivatalnak minden olyan tájékoztatást és adatot megadni, amely a Hivatal árfelügyeleti és hatósági árelőkészítő tevékenységéhez szükséges. Az engedélyes, illetve az értékesítő a Hivatal által megjelölt, 30 napnál nem rövidebb határidőn belül adja meg tájékoztatását, illetve szolgáltat adatokat. Az értékesítő az adatszolgáltatással egyidejűleg legalább a távhőárra és a távhőmennyiségre vonatkozó adatokat az érintett távhőszolgáltató részére is megküldi.
+(5) Az engedélyes, illetve az értékesítő köteles a Hivatalnak minden olyan tájékoztatást és adatot megadni, amely a Hivatal árfelügyeleti és hatósági árelőkészítő tevékenységéhez szükséges. Az engedélyes, illetve az értékesítő a Hivatal által megjelölt, 15 napnál nem rövidebb határidőn belül adja meg tájékoztatását, illetve szolgáltat adatokat. Az értékesítő az adatszolgáltatással egyidejűleg legalább a távhőárra és a távhőmennyiségre vonatkozó adatokat az érintett távhőszolgáltató részére is megküldi.
 
-(6) A miniszter rendeletben szabályozhatja az engedélyes, illetve az értékesítő által a Magyar Energia Hivatal részére teljesítendő tájékoztatás és adatszolgáltatás rendjét.
+(6) A miniszter rendeletben szabályozhatja az engedélyes, illetve az értékesítő által a Hivatal részére teljesítendő tájékoztatás és adatszolgáltatás rendjét.
 
 (7) Ha az engedélyes, értékesítő és a képviselőtestület az (5)–(6) bekezdésben foglalt határidőn belül nem nyújt tájékoztatást, szolgáltat adatot vagy foglal állást, a Hivatal a tájékoztatás, adatszolgáltatás, állásfoglalás hiányában is javaslatot tehet a miniszter részére.
+
+57/E. § (1) A hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. A hatósági árat kell alkalmazni abban az esetben, ha a felek az árban nem állapodtak meg, vagy ha jogszabály megsértésével más árban állapodtak meg.
+
+(2) A hatósági ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon lehet eltérni.
+
+(3) A hatósági árnak a szerződés megkötése után bekövetkező változása esetén a megváltozott hatósági ár az érvényes szerződés részévé válik, a felek azonban az új ártól lefelé – közös megegyezéssel – eltérhetnek.
+
+(4) E § alkalmazásában szerződés alatt az értékesítő és a távhőszolgáltató közötti szerződést, valamint a távhőszolgáltató által a lakossági felhasználóval vagy a külön kezelt intézménnyel kötött közüzemi szerződést kell érteni.
+
+57/F. § Távhőszolgáltatási támogatásban részesülhet az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározottaknak megfelelő távhőszolgáltató és külön kezelt intézmény.
 
 ### VIII. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -724,7 +738,7 @@ meghatározott szerződésszegést követi el.
 
 (3) A távhőszolgáltató jogosult az e törvény hatálybalépésekor meglévő vezetékjogot és használati jogot a jog létrejöttekor hatályos jogszabályok előírásainak megfelelően gyakorolni.
 
-(4) A távhőszolgáltató a villamos energia termeléséről, szállításáról és szolgáltatásáról szóló 1994. évi XLVIII. törvény hatálybalépését megelőzően idegen ingatlanon megépült és üzembe helyezett, közterületnek nem minősülő idegen ingatlanon működő távhővezeték-hálózat vagy annak részét képező vezeték tekintetében, amennyiben azok elhelyezésére a vezetékjog alapítása az ingatlan-nyilvántartásba is bejegyzett módon nem történt meg, a műszaki biztonsági szervtől 2010. december 31-ig kérheti, hogy fennmaradási engedélyt adjon ki, amelyben a vezetékjog fennálltát, és a keletkezésének időpontját a műszaki biztonsági szerv megállapítja. A műszaki biztonsági szerv jelen rendelkezés szerinti eljárására az Étv. 48. §-ában foglalt rendelkezések megfelelően irányadók, azzal az eltéréssel, hogy a műszaki biztonsági szerv műszaki-biztonsági okokból jogosult átalakítási kötelezettséget előírni, továbbá, hogy a távhőszolgáltatónak nem kell igazolnia építési jogosultságát. A műszaki biztonsági szerv vezetékjog fennálltát megállapító fennmaradási engedélye az ingatlan-nyilvántartásba történő bejegyzésre alkalmas okirat.
+(4)
 
 59. § (1) Az e törvény hatálybalépésekor érvényben lévő távhőtermelői és szolgáltatói működési engedélyek a (2)–(4) bekezdésekben foglalt eseteket kivéve hatályban maradnak.
 
@@ -738,7 +752,7 @@ meghatározott szerződésszegést követi el.
 
 (2) Az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény 223. §-ának rendelkezéseit a hatálybalépését megelőzően indult díjmegállapítási, díjmegváltoztatási eljárásokban (ügyekben) is alkalmazni kell.
 
-59/B. § (1) Az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény 223. §-ának hatálybalépésekor hatályos működési engedéllyel rendelkező távhőszolgáltató, és a hatályos, Hivatal által kiadott működési engedéllyel nem rendelkező távhőtermelő köteles 2011. december 31-ig működési engedély iránti kérelmet benyújtani a Hivatalhoz.
+59/B. § (1) Az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény 223. §-ának hatálybalépésekor hatályos működési engedéllyel rendelkező távhőszolgáltató, és hatályos, Hivatal által kiadott működési engedéllyel nem rendelkező távhőtermelő köteles 2011. december 31-ig működési engedély iránti kérelmet benyújtani a Hivatalhoz.
 
 (2) Az (1) bekezdés szerinti távhőtermelő kérelmező mentesül az igazgatási szolgáltatási díjfizetési kötelezettsége alól.
 
@@ -760,16 +774,18 @@ meghatározott szerződésszegést követi el.
 - j) az előmunkálati jog engedélyezésének részletes szabályait,
 - k) a műszaki biztonsági szerv vagy szervek kijelölését,
 - l) a központi fűtés és melegvíz-szolgáltatás feltételeire, a jogviszonyban lévők jogaira, kötelezettségeire, a szolgáltatás díjának megállapítására vonatkozó szabályokat,
-- m) a fűtési célra és a használati melegvíz készítéséhez felhasznált hőmennyiség és díjának épületrészek közötti megosztására szolgáló szétosztási arányok meghatározására, valamint a fűtési költségmegosztók alkalmazására vonatkozó szabályokat.
+- m) a fűtési célra és a használati melegvíz készítéséhez felhasznált hőmennyiség és díjának épületrészek közötti megosztására szolgáló szétosztási arányok meghatározására, valamint a fűtési költségmegosztók alkalmazására vonatkozó szabályokat;
+- n) a folyamatos távhőellátás fenntartása érdekében történő kijelölési eljárásra, a kijelöléssel érintettek jogaira és kötelezettségeire, a kijelölés következtében fizetendő ellenszolgáltatásra és az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat (20. §).
 
 (2) Az miniszter rendeletben
 
 - a) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a Hivatal részére fizetendő díjak mértékét és a díjak fizetésére vonatkozó részletes szabályokat;
-- b) állapítja meg a távhőszolgáltatónak értékesített távhő árszerkezetét, legmagasabb árait és azok alkalmazásának időpontját, továbbá a lakossági felhasználónak és a külön kezelt intézmények nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjainak szerkezetét, legmagasabb díjait és azok alkalmazásának időpontját;
+- b) állapítja meg a távhőszolgáltatónak értékesített távhő árszerkezetét, legmagasabb árait és azok alkalmazásának időpontját, valamint a nyereség korlátozására és megosztására vonatkozó szabályokat, továbbá a lakossági felhasználónak és a külön kezelt intézmények nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjainak szerkezetét, legmagasabb díjait és azok alkalmazásának időpontját, valamint a nyereség korlátozására és megosztására vonatkozó szabályokat;
 - c) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 - d) az államháztartásért felelős miniszterrel egyetértésben meghatározza az 57. § (3) bekezdése szerinti szempontokat,
-- e) állapítja meg az 57. § (3) bekezdése szerinti távhőszolgáltatási csatlakozási díj megállapítása érdekében kötelezően benyújtandó adatok körét;
-- f) az engedélyes és az értékesítő által a Hivatal részére teljesítendő adatszolgáltatásra vonatkozó részletes szabályokat.
+- e) állapíthatja meg az 57. § (3) bekezdése szerinti távhőszolgáltatási csatlakozási díj megállapítása érdekében kötelezően benyújtandó adatok körét;
+- f) állapíthatja meg az engedélyes, az értékesítő, az egyedi szerződés alapján termelő, valamint a külön kezelt intézmény által a Hivatal részére teljesítendő adatszolgáltatásra vonatkozó szabályokat;
+- g) állapítja meg a távhőszolgáltatási támogatás mértékét, továbbá a távhőszolgáltatási támogatásra való jogosultság feltételeire, a távhőszolgáltatási támogatással kapcsolatos adatszolgáltatásra, adatkezelésre, a távhőszolgáltatási támogatás kezelésére, nyilvántartására, kifizetésére, elszámolására, felülvizsgálatára és ellenőrzésének rendjére, valamint az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat.
 
 (3) Az önkormányzat képviselő-testülete rendeletben szabályozza a 6. § (2)–(4) bekezdésében, a 45. § (6) bekezdésében és az 52. § (2) bekezdésében meghatározott, hatáskörébe utalt feladatokat.
 
