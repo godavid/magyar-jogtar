@@ -326,21 +326,11 @@ c) a pénznyerő automata tételes játékadójára részletfizetés vagy fizet�
 
 #### 5. Az illetékekről szóló 1990. évi XCIII. törvény és a személyi jövedelemadóról szóló1995. évi CXVII. törvény módosítása
 
-36. § Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 17. § (1) bekezdésének s)–t) pontjai helyébe a következő rendelkezések lépnek:
-
-[Mentes az ajándékozási illeték alól:]
-
-„s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés, ha az a törvényben rögzített árfolyamon végtörlesztő magánszeméllyel szemben végérvényesen megszűnik,
-
-t) a pénzügyi intézmény által elengedett, lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés feltéve, hogy
-
-ta) a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kötelezett nyilatkozata alapján, a nyilatkozattétel hónapját megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét vagy
-
-tb) a követelés biztosítékául szolgáló, a magánszemély tulajdonában álló lakásra a követelés elengedését megelőzően végrehajtási eljárás keretében árverést folytattak le.”
+36. §
 
 #### 6. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-37. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 1. számú melléklete e törvény 2. melléklete szerint módosul.
+37. §
 
 #### 7. A pénzmosás és terrorizmus finanszírozás megelőzéséről és megakadályozásáról szóló2007. évi CXXXVI. törvény módosítása
 
@@ -441,19 +431,3 @@ Az Art. 2. számú melléklet 6. pontja helyébe a következő rendelkezés lép
 A játékautomata éves adóját az adózó az erre vonatkozó bevallással egyidejűleg fizeti meg. A pénznyerő automata üzemeltetése után fizetendő százalékos mértékű játékadót az adózó a tárgynegyedévet követő hónap 20. napjáig vallja be és fizeti meg.”
 
 ### 2. melléklet a 2011. évi CXXV. törvényhez
-
-1. Az Szja tv. 1. számú melléklet 7.15. pontja a) alpontja helyébe a következő rendelkezés lép:
-
-[7.15. az elengedett követelés akkor, ha az]
-
-„a) a fogyasztóvédelemről szóló törvényben meghatározott közüzemi szolgáltatás szolgáltatója, valamint a hitelintézet, pénzügyi vállalkozás által – az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával – részben vagy egészben elengedett követelés (akkor is, ha az elengedés egyezség keretében történik), feltéve, hogy a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kötelezett nyilatkozata alapján, a nyilatkozattétel hónapját megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét;”
-
-2. Az Szja tv. 1. számú melléklet 7.20. és 7.21. pontjai helyébe a következő rendelkezések lépnek:
-
-„7.20. lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsön adósa által teljesített, törvényben rögzített árfolyamon történő végtörlesztés miatt megszűnő kötelezettség;
-
-7.21. a pénzügyi intézmény által elengedett, lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés feltéve, hogy
-
-a) a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kötelezett nyilatkozata alapján, a nyilatkozattétel hónapját megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét vagy
-
-b) a követelés biztosítékául szolgáló, a magánszemély tulajdonában álló lakásra a követelés elengedését megelőzően végrehajtási eljárás keretében árverést folytattak le.”
