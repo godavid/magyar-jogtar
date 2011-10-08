@@ -2886,7 +2886,7 @@ feltéve, hogy az Európai Unión belüli árubeszerzések vagy szolgáltatások
 
 251. § (1) Az ajánlattételi határidőt az ajánlatkérő nem határozhatja meg az ajánlattételi felhívást tartalmazó hirdetmény feladásának napjától számított húsz napnál rövidebb időtartamban.
 
-(2) Ha az árubeszerzés vagy szolgáltatás becsült értéke nem éri el a huszonöt millió forintot, vagy az építési beruházás becsült értéke nem éri el a nyolcvan millió forintot, az ajánlatkérő a 249. § (1) bekezdése szerinti közzététel helyett legalább három ajánlattevőnek köteles egyidejűleg, közvetlenül írásbeli – a 249. § (2) bekezdésében foglaltakat tartalmazó – ajánlattételi felhívást küldeni. Ilyen esetben az ajánlattételi határidő minimális időtartama a felhívás megküldésétől számított tizenöt nap.
+(2) Ha az árubeszerzés vagy szolgáltatás becsült értéke nem éri el a huszonöt millió forintot, vagy az építési beruházás becsült értéke nem éri el a százötven millió forintot, az ajánlatkérő a 249. § (1) bekezdése szerinti közzététel helyett legalább három ajánlattevőnek köteles egyidejűleg, közvetlenül írásbeli – a 249. § (2) bekezdésében foglaltakat tartalmazó – ajánlattételi felhívást küldeni. Az ajánlatkérő köteles olyan gazdasági szereplők részére ajánlattételi felhívást küldeni, amelyek mikro-, kis-, vagy középvállalkozásnak minősülnek, és amelyek a szerződés teljesítésére való alkalmasság feltételeit megítélése szerint feltehetőleg teljesíteni tudják. Ilyen esetben az ajánlattételi határidő minimális időtartama a felhívás megküldésétől számított tizenöt nap.
 
 (3) Az ajánlatkérő azonban a (2) bekezdés szerinti esetben is jogosult a 249. § (1) bekezdés alkalmazására.
 
@@ -4175,6 +4175,8 @@ megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket
 (4) E törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 250. § (4) bekezdését a 2011. április 15-ét követően megkezdett beszerzésekre, tervpályázati eljárásokra és ezen eljárások alapján megkötött szerződésekre, továbbá az ezen eljárásokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra, illetőleg kérelmezett előzetes vitarendezési eljárásokra kell alkalmazni. E törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel hatályon kívül helyezett 231. §-ának (2) bekezdését és 237. §-ának (2) bekezdését a 2011. április 15-ét követően megkezdett beszerzésekre nem kell alkalmazni.
 
 403/D. § Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény 73. §-ával megállapított 60. § (1) bekezdés g) pontját a 2011. július 20-át követően megkezdett közbeszerzési eljárásokra kell alkalmazni.
+
+403/E. § E törvénynek a közbeszerzésekről szóló 2003. évi CXXIX. törvény módosításáról szóló 2011. évi CXXIX. törvénnyel (a továbbiakban: Módtv.) megállapított 251. § (2) bekezdését a Módtv. hatálybalépését követően megkezdett közbeszerzési eljárásokra kell alkalmazni.
 
 ### Felhatalmazás
 
