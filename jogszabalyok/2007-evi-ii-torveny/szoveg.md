@@ -981,6 +981,12 @@ miatt utasított ki.
 
 (5) Ha az előállítás időtartama alatt a harmadik országbeli állampolgár tartózkodásának jogcíme vagy a harmadik országbeli állampolgár személyazonossága nem állapítható meg, a harmadik országbeli állampolgárral szemben legfeljebb tizenkét óra időtartamra visszatartás intézkedést kell alkalmazni, amely ellen panasznak van helye.
 
+### A harmadik országbeli állampolgárok ellenőrzése a Vízuminformációs Rendszerben
+
+67/A. § (1) Az idegenrendészeti hatóság a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) tárolt adatokkal történő összevetés céljából a VIS rendelet 19., illetve 20. cikke alapján történő ellenőrzés céljából a harmadik országbeli állampolgár ujjnyomatát rögzítheti.
+
+(2) Az idegenrendészeti hatóság a (1) bekezdésben meghatározott célból rögzített ujjnyomat-adatot kizárólag a VIS rendelet 19., illetve 20. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.
+
 ### A személykörözés elrendelése
 
 68. § (1) Az idegenrendészeti hatóság a körözését rendelheti el annak az ismeretlen helyen tartózkodó harmadik országbeli állampolgárnak, aki
@@ -1217,6 +1223,12 @@ szerinti állam vonatkozásában.
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság vízumkérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) vízum esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
 
+(3) A Vízumkódex VI. fejezete alapján a Magyar Köztársaság közúti, légi vagy vízi határátkelőhelyén előterjesztett vízumkérelem esetén a kérelmező ujjnyomatát rögzítő idegenrendészeti hatóság az ujjnyomat-adatot a vízumkérelem elbírálásáért felelős idegenrendészeti hatóságnak továbbítja, abból a célból, hogy a vízumkérelem elbírálásáért felelős idegenrendészeti hatóság azt – a VIS rendelet 9. cikke alapján – a Vízuminformációs Rendszerbe bevigye.
+
+(4) Az ujjnyomat-adatot a kérelmező ujjnyomatát rögzítő idegenrendészeti hatóság kizárólag az ujjnyomat-adatnak a vízumkérelem elbírálásáért felelős idegenrendészeti hatóságnak történő továbbításáig kezelheti. Az ujjnyomat-adatot ezt követően haladéktalanul törölni kell.
+
+(5) Az ujjnyomat-adatot a vízumkérelem elbírálásáért felelős idegenrendészeti hatóság kizárólag az ujjnyomat-adatnak a Vízuminformációs Rendszerbe történő beviteléig kezelheti. Az ujjnyomat-adatot ezt követően haladéktalanul törölni kell.
+
 96. § (1) Az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem és a kiadott tartózkodási engedély alapján a harmadik országbeli állampolgár következő adatait kezeli:
 
 - a) a természetes személyazonosító adatok;
@@ -1376,6 +1388,8 @@ részére továbbíthat adatot.
 107. § (1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból külföldi bűnüldöző, határőrizeti, idegenrendészeti és igazságszolgáltatási szervnek, nemzetközi szervezetnek, illetve közvetlenül alkalmazandó közösségi jogi aktussal létrehozott közösségi szervnek közvetlenül alkalmazandó közösségi jogi aktus vagy nemzetközi szerződés alapján – az azokban meghatározott adatkörben – továbbíthat adatot.
 
 (2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott szervektől, szervezetektől közvetlenül alkalmazandó közösségi jogi aktus vagy nemzetközi szerződés alapján – az azokban meghatározott adatkörben – vehet át adatot.
+
+(3) A Vízuminformációs Rendszerhez a VIS rendelet 15–20. cikke szerinti célokból a külön jogszabályban meghatározott idegenrendészeti hatóságok rendelkeznek hozzáféréssel.
 
 108. § (1) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és azokról személyazonosításra alkalmatlan módon a központi idegenrendészeti nyilvántartást kezelő szerv statisztikai célra adatokat szolgáltathat.
 

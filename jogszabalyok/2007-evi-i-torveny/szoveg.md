@@ -339,6 +339,12 @@ ha a haláleset vagy a névváltoztatást eredményező tény a Magyar Köztárs
 
 (3) Az eljáró hatóság a (2) bekezdésben meghatározott célból rögzített ujjnyomatadatot kizárólag a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában foglaltak megállapítása céljából, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.
 
+### A harmadik ország állampolgárságával rendelkező családtag ellenőrzése a Vízuminformációs Rendszerben
+
+35/A. § (1) Az eljáró hatóság a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) tárolt adatokkal történő összevetés céljából a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 19., illetve 20. cikke alapján történő ellenőrzés céljából a harmadik ország állampolgárságával rendelkező családtag ujjnyomatát rögzítheti.
+
+(2) Az eljáró hatóság az (1) bekezdésben meghatározott célból rögzített ujjnyomat-adatot kizárólag a VIS rendelet 19., illetve 20. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.
+
 ### A beléptetés megtagadása és a visszairányítás
 
 36. § (1) A határforgalmat ellenőrző hatóság a beutazni kívánó EGT-állampolgár, illetve a családtag államhatáron történő beléptetését megtagadhatja, ha nem felel meg a 3. §-ban meghatározott beutazási feltételeknek, vagy beutazási és tartózkodási tilalom hatálya alatt áll.
@@ -752,6 +758,12 @@ bírálja el.
 
 77. § A tartózkodási jogot igazoló okmányokról vezetett résznyilvántartásokban az adatok a tartózkodási jog megszűnésétől vagy a tartózkodási jog gyakorlásával való felhagyás megállapításától számított öt évig kezelhetők.
 
+77/A. § (1) A Vízumkódex VI. fejezete alapján a Magyar Köztársaság közúti, légi vagy vízi határátkelőhelyén előterjesztett vízumkérelem esetén a kérelmező ujjnyomatát rögzítő idegenrendészeti hatóság az ujjnyomat-adatot a vízumkérelem elbírálásáért felelős idegenrendészeti hatóságnak továbbítja abból a célból, hogy a vízumkérelem elbírálásáért felelős idegenrendészeti hatóság azt – a VIS rendelet 9. cikke alapján – a Vízuminformációs Rendszerbe bevigye.
+
+(2) Az ujjnyomat-adatot a kérelmező ujjnyomatát rögzítő idegenrendészeti hatóság kizárólag az ujjnyomat-adatnak a vízumkérelem elbírálásáért felelős idegenrendészeti hatóságnak történő továbbításáig kezelheti. Az ujjnyomat-adatot ezt követően haladéktalanul törölni kell.
+
+(3) Az ujjnyomat-adatot a vízumkérelem elbírálásáért felelős idegenrendészeti hatóság kizárólag az ujjnyomat-adatnak a Vízuminformációs Rendszerbe történő beviteléig kezelheti. Az ujjnyomat-adatot ezt követően haladéktalanul törölni kell.
+
 78. § (1) A kiutasítás, illetve a beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása a következő adatokat tartalmazza:
 
 - a) az EGT-állampolgár és a családtag nevét, születési helyét és idejét, anyja nevét, állampolgárságát, személyazonosító jelét,
@@ -795,6 +807,8 @@ bírálja el.
 (3) Nemzetközi szerződés vagy az Európai Unió közvetlenül alkalmazandó európai közösségi jogi aktusa alapján az abban meghatározott adatátvételre jogosult szerv részére szolgáltatható adat.
 
 (4) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és azokról személyazonosításra alkalmatlan módon a központi idegenrendészeti nyilvántartást kezelő szerv statisztikai célra adatokat szolgáltathat. A 75. § (1) bekezdés a)–c) és g) pontjában foglalt adatokból a Központi Statisztikai Hivatal részére statisztikai célú adatkezelés érdekében az adatok személyazonosításra alkalmas módon is átadhatók.
+
+(5) A Vízuminformációs Rendszerhez a VIS rendelet 15–20. cikke szerinti célokból a külön jogszabályban meghatározott idegenrendészeti hatóságok rendelkeznek hozzáféréssel.
 
 82. § (1) Az eljáró hatóság – a (2) bekezdésben foglalt kivétellel – az EGT-állampolgár, valamint a családtag tartózkodási joga fennállásának ellenőrzése céljából adatot igényelhet:
 

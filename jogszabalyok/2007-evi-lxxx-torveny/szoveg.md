@@ -387,6 +387,8 @@ a menedékjogról a következő törvényt alkotja:
 
 (9) Az elismerés iránti közös kérelem a cselekvőképes vagy korlátozottan cselekvőképes családtagra akkor terjed ki, ha a közös kérelmezéshez előzetesen vagy legkésőbb személyes meghallgatásakor írásban hozzájárul. Az elismerés iránti közös kérelem a cselekvőképtelen családtagra a törvényes képviselő vagy az ügygondnok írásbeli hozzájárulásával terjed ki.
 
+(10) A menekültügyi hatóság az elismerés iránti kérelem benyújtásakor intézkedik az elismerését kérő arcképmásának, valamint ujjnyomatának rögzítése iránt.
+
 35/A. § A fogvatartott elismerését kérő ügyében a menekültügyi eljárást soron kívül kell lefolytatni.
 
 ### Az elismerését kérő eljárási jogai és kötelezettségei
@@ -431,7 +433,7 @@ a menedékjogról a következő törvényt alkotja:
 39. § Az elismerését kérő a menekültügyi eljárás során köteles tűrni
 
 - a) csomagjának, ruházatának, járművének átvizsgálását;
-- b) arcképmásának, továbbá – a tizennegyedik életévét betöltött külföldi esetében – ujjnyomatának rögzítését.
+- b) arcképmásának, továbbá ujjnyomatának rögzítését.
 
 ### A bizonyítás szabályai
 
@@ -893,11 +895,18 @@ céljából a menekültügyi nyilvántartásban kezeli.
 - a) az (1) bekezdés a)–o) és q)–r) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől,
 - b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és külön jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől számított tíz évig kezeli.
 
-(3) Az ujjnyomat rögzítésének és tárolásának célja az elismerését kérő azonosítása és a kérelem többszöri benyújtásának megállapítása. Az eljáró hatóság a rögzített ujjnyomatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja a (4) bekezdés szerinti adatfeldolgozó szervnek.
+(3) Az ujjnyomat-adat rögzítésének és tárolásának célja
 
-(4) A (3) bekezdésben meghatározott adatkör tekintetében adatfeldolgozó a miniszter rendeletében meghatározott szerv. Az adatoknak az Eurodac központi egységéhez történő továbbításáért, az adatok fogadásáért, illetve azok összehasonlításáért az adatkezelő felel.
+- a) a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról szóló, 2000. december 11-i 2725/2000/EK tanácsi rendelet 4. cikkében foglaltak végrehajtása;
+- b) a tizenkettedik életévét betöltött elismerését kérő esetében a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 21. és 22. cikke szerinti hozzáférés biztosítása.
 
-(5) Az e törvény alapján kiadott okmányok a menekültügyi nyilvántartásban szereplő adatok közül azokat tartalmazzák, amelyek a jogosult személyazonosságának megállapításához, valamint az okmány által biztosított jogosultság fennállásának igazolásához szükségesek.
+(4) A menekültügyi hatóság a (3) bekezdés a) pontjában meghatározott célból rögzített ujjnyomat-adatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja az (5) bekezdés szerinti adatfeldolgozó szervnek.
+
+(5) A (4) bekezdésben meghatározott adatkör tekintetében adatfeldolgozó a miniszter rendeletében meghatározott szerv. Az adatoknak az Eurodac központi egységéhez történő továbbításáért, az adatok fogadásáért, illetve azok összehasonlításáért az adatkezelő felel.
+
+(6) A menekültügyi hatóság a (3) bekezdés b) pontjában meghatározott célból rögzített ujjnyomat-adatot kizárólag a VIS rendelet 21. és 22. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.
+
+(7) Az e törvény alapján kiadott okmányok a menekültügyi nyilvántartásban szereplő adatok közül azokat tartalmazzák, amelyek a jogosult személyazonosságának megállapításához, valamint az okmány által biztosított jogosultság fennállásának igazolásához szükségesek.
 
 (8) A menekültügyi hatóság a menedékesként elismert harmadik országbeli állampolgárnak a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás- és ujjnyomatadatait kezeli.
 
