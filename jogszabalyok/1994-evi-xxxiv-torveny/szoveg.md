@@ -437,6 +437,10 @@ igazolja.
 
 (8) E § alkalmazásában személyazonosító adaton az érintett személy nevét, születési helyét, születési idejét és anyja születési családi és utónevét kell érteni.
 
+29/A. § (1) Ha az igazoltatott személyazonossága a 29. § (2) bekezdése alapján nem állapítható meg, – a 29. § (4) bekezdésében meghatározottakon túl – a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) tárolt adatokkal történő összevetés céljából a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 20. cikke alapján történő ellenőrzés céljából az igazoltatottól ujjnyomat vehető.
+
+(2) Az (1) bekezdésben meghatározott célból rögzített ujjnyomat-adat – a 29. § (7) bekezdésétől eltérően – kizárólag a VIS rendelet 20. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelhető, ezt követően haladéktalanul törölni kell.
+
 ### Fokozott ellenőrzés, ruházat, csomag és jármű átvizsgálása
 
 30. § (1) A rendőrség a bűncselekmény elkövetőjének elfogása és előállítása, vagy a közbiztonságot veszélyeztető cselekmény vagy esemény megelőzése, megakadályozása érdekében a rendőri szerv vezetője által meghatározott nyilvános helyen vagy a közterület kijelölt részén az oda belépőket vagy az ott tartózkodókat igazoltathatja.
@@ -504,7 +508,11 @@ igazolja.
 
 (3) A rendőrség a határforgalom ellenőrzése során engedélyezi a határátlépés jogszabályban meghatározott feltételeivel rendelkező személyek határátlépését, illetve megtagadja a határátlépés feltételeivel nem rendelkező személyek határátléptetését.
 
-35/B–35/C. §
+35/B. § (1) A Rendőrség a határforgalom-ellenőrzés során a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK rendelet – az 562/2006/EK rendeletnek a vízuminformációs rendszer (VIS) Schengeni határ-ellenőrzési kódex keretében való alkalmazása tekintetében történő módosításáról szóló, 2009. január 14-i 81/2009/EK európai parlamenti és tanácsi rendelettel módosított – 7. cikk (3) bekezdése szerinti ellenőrzések lefolytatása céljából a vízumbélyeg sorszáma ellenőrzésével végez keresést a Vízuminformációs Rendszerben.
+
+(2) A Rendőrség az (1) bekezdés szerinti ellenőrzések lefolytatása céljából a vízumbélyeg sorszámának és a vízumbirtokos ujjnyomatának együttes ellenőrzésével is végezhet keresést a Vízuminformációs Rendszerben.
+
+35/C. §
 
 36. §
 
@@ -850,6 +858,13 @@ törölni kell.
 (2) Az (1) bekezdés a) és b) pontja alapján a határrendészeti feladatokat ellátó szerv tagja a szolgálati helye szerinti államban rendszeresített kényszerítő eszközt vagy lőfegyvert alkalmazhat, ha annak a Magyar Köztársaság területén történő alkalmazását jogszabály nem tiltja.
 
 (3) Az (1) bekezdés szerinti intézkedések és kényszerítő eszközök alkalmazásának feltételeire a külföldi állam határrendészeti feladatokat ellátó szervének tagját ki kell oktatni.
+
+(4) Az (1) bekezdés szerinti állam határrendészeti feladatokat ellátó szervének tagja a Magyar Köztársaság területén történő átutazása esetén is magánál tarthatja kényszerítő eszközét, illetve szolgálati fegyverét.
+
+(5) Az (1) bekezdésben meghatározott határrendészeti feladatokat ellátó szerv tagja a Magyar Köztársaság területén a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlamenti és tanácsi rendelet 6. cikk (8) bekezdésében, valamint az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (8) bekezdésében meghatározott keretek között hozzáférhet
+
+- a) a Schengeni Információs Rendszerhez, valamint
+- b) a Vízuminformációs Rendszerhez.
 
 ### Az Európai Unió más tagállama rendészeti feladatokat ellátó hatóságának közös műveletben részt vevő tagjára vonatkozó rendelkezések
 
@@ -1322,6 +1337,8 @@ részére.
 - i) a szabálysértésekről vezetett nyilvántartás.
 
 (2) A szabad mozgás és tartózkodás jogával rendelkező személyek államhatáron történő átlépésekor az (1) bekezdésben felsorolt nyilvántartásokban történő ellenőrzést szúrópróbaszerűen alkalmazzák.
+
+(2) A Rendőrség a határforgalom ellenőrzése során az államhatáron átlépő vízumkötelezett harmadik országbeli állampolgár által bemutatott okmányok adatait és e személy ujjnyomatát összeveti a Vízuminformációs Rendszerrel.
 
 91/L. § (1) A rendőrség a jogszerű tartózkodás időtartamának ellenőrzése céljából a határátlépéstől számított öt évig a határrendészeti adatállományban kezeli a határon átlépő, külön törvény szerinti harmadik országbeli állampolgárok
 

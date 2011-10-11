@@ -829,7 +829,8 @@ igazolását.
 - a) a módosított alapszabályt,
 - b) az üzleti tervet,
 - c) a tevékenység megkezdéséhez szükséges személyi és tárgyi feltételek igazolását,
-- d) annak igazolását, hogy a jelzáloghitelezési tevékenység megkezdése után a szükséges szavatoló tőkével rendelkezik.
+- d) annak igazolását, hogy a jelzálog-hitelezési tevékenység megkezdése után a szükséges szavatoló tőkével rendelkezik, valamint
+- e) a külön törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozatot.
 
 (2) A Felügyelet az engedély kiadását megtagadja, ha valószínűsíthető, hogy a biztosító a jelzáloghitelezési tevékenység megkezdése után a biztosítási szerződéseiből eredő kötelezettségeit nem képes teljesíteni.
 

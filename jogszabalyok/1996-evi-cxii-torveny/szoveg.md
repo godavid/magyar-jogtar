@@ -46,7 +46,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - d) a Magyar Nemzeti Vagyonkezelő Zrt.-re,
 - e)
 - f)
-- g) a 130/A–130/D. §, a 130/H–130/O. §, a 2. számú melléklet V. fejezete és a 3. számú melléklet II. fejezetének 1.1–1.3 pontja kivételével a külön jogszabály alapján létrehozott Diákhitel Központra,
+- g) a külön jogszabály alapján létrehozott Diákhitel Központra.
 - h) a 130/A–130/D. §, a 130/H–130/O. §, a 2. melléklet V. fejezete és a 3. melléklet II. fejezetének 1.1–1.3 pontja kivételével kereskedelmi kölcsönt nyújtó hitelezőre.
 
 (3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások engedélyezése, valamint az engedélyek visszavonása, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
@@ -605,7 +605,7 @@ engedélyezését, a kérelmet az EU-szintű hitelintézeti anyavállalatnak vag
 - e) az anyavállalat – az illetékes felügyeleti hatósága hozzájárulásával – egyetemleges felelősséget vállal a pénzügyi vállalkozás kötelezettségéért, és
 - f) a pénzügyi vállalkozás az anyavállalatával összevont felügyelet alatt áll.
 
-(6) Kizárólag csoportfinanszírozást végző pénzügyi vállalkozásként történő működés megkezdésére vonatkozó engedély iránti kérelmet pénzügyi intézménynek nem minősülő vállalkozás az alapítása után is benyújthat azzal, hogy az engedély megadásának nem feltétele a központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozat.
+(6) Kizárólag csoportfinanszírozást végző pénzügyi vállalkozásként történő működés megkezdésére vonatkozó engedély iránti kérelmet pénzügyi intézménynek nem minősülő vállalkozás az alapítása után is benyújthat azzal, hogy az engedély megadásának nem feltétele a külön törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozat.
 
 15/A. § A Felügyelet engedélye szükséges pénzforgalmi intézmény
 
@@ -740,7 +740,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - i) számviteli politikájának, részletes számviteli rendszerének tervezetét,
 - j) valamely, a hitelintézetek közötti fizetési rendszerhez való közvetlen csatlakozásról szóló nyilatkozatot és a csatlakozást biztosító informatikai rendszer könyvvizsgálói igazolását, vagy a közvetve történő csatlakozás elfogadásáról adott nyilatkozatot,
 - k)
-- l) a központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozatot, továbbá
+- l) a külön törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozatot, továbbá
 - m)
 - n) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó – a hitelintézet igazgatósága által elfogadott – eljárás rendjét,
 - o) a szervezeti felépítését, az irányítási, döntési és ellenőrzési rendjét, illetőleg a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza.
@@ -767,7 +767,7 @@ fióktelep a 3. § (6) bekezdése szerinti engedélyt akkor kaphatja meg, ha iga
 - m) a kérelmező harminc napnál nem régebbi okirati igazolását arról, hogy személyes joga szerinti hatáskörrel rendelkező adóhatósággal, vámhatósággal, társadalombiztosítási szervvel szemben nincs tartozása, azzal, hogy az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban,
 - n) a kérelmező nyilatkozatát arról, hogy egyéb üzleti tevékenysége nem veszélyezteti a pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény működését,
 - o) a kérelmező harminc napnál nem régebbi okirati igazolását arról, hogy a személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben kizáró ok nem áll fenn,
-- p) a 6/B. §-ban, illetve a 6/D. §-ban foglalt hitel- és pénzkölcsön nyújtására, valamint készpénz-helyettesítő fizetési eszköz kibocsátására vonatkozó kérelem esetén a kérelmező központi hitelinformációs rendszerhez történő csatlakozásáról szóló nyilatkozatát,
+- p) a 6/B. §-ban, illetve a 6/D. §-ban foglalt hitel- és pénzkölcsön nyújtására, valamint készpénz-helyettesítő fizetési eszköz kibocsátására vonatkozó kérelem esetén a kérelmező külön törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásáról szóló nyilatkozatát,
 - q) nyilatkozatot arról, hogy milyen – a számviteli törvény szerinti – függő és jövőbeni kötelezettségei vannak,
 - r) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
@@ -1633,7 +1633,7 @@ van összefüggésben.
 
 - a) az olyan összesített adatok szolgáltatása, amelyből az egyes ügyfelek személye vagy üzleti adata nem állapítható meg,
 - b) a pénzforgalmi számlatulajdonos nevére, pénzforgalmi számlájának számára vonatkozó adatszolgáltatás, továbbá téves utalás esetén a teljesített átutalási megbízás megbízója, illetve a megbízó számlavezetője javára történő adatátadás, a megbízás szerint kedvezményezett, nem pénzforgalmi számlatulajdonos nevére, címére vonatkozóan,
-- c) a 3. § (1) bekezdésének b)–c), illetve e)–g) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, valamint a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy részéről a központi hitelinformációs rendszerbe, illetve e rendszerből a 2. számú melléklet V. fejezetének 3. pontja szerinti referenciaadat-szolgáltató részére nyújtott, a XX/A. Fejezetben meghatározott adatszolgáltatás,
+- c) a 3. § (1) bekezdésének b)–g) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, valamint a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy részéről a külön törvényben meghatározott központi hitelinformációs rendszerbe, illetve e rendszerből a külön törvényben meghatározott referenciaadat-szolgáltató részére nyújtott referenciaadat-szolgáltatás,
 - d) a pénzügyi intézmény által felhatalmazott könyvvizsgálóknak, a megbízott vagyonellenőrnek, jogi vagy egyéb szakértőnek, valamint a pénzügyi intézmény részére biztosítási fedezetet nyújtó biztosítónak a biztosítási szerződés teljesítéséhez szükséges mértékben történő adatátadás,
 - e) a pénzügyi intézmény igazgatóságának írásbeli hozzájárulásával a pénzügyi intézményben minősített befolyással rendelkező tulajdonosnak vagy az ilyen befolyást szerezni kívánó személy (társaság), az üzletág átvételét tervező társaság, illetve az ilyen tulajdonos vagy esetleges jövőbeni tulajdonos által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő adatátadás,
 - f) a bíróság megkeresése esetén a peres fél számlája felett rendelkezésre jogosultak aláírásmintájának bemutatása,
@@ -3528,171 +3528,41 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 130. § Az önkéntes alap a betétek befagyása miatt, illetve a kifizetés elkerülése érdekében tervezett intézkedéseiről tájékoztatja a Felügyeletet.
 
-### XX/A. Fejezet — A központi hitelinformációs rendszer
+### XX/A. Fejezet
 
-130/A. § (1) A központi hitelinformációs rendszer (a továbbiakban: KHR) olyan zárt rendszerű adatbázis, amelynek célja a hitelképesség differenciáltabb megítélésének és ezáltal a hitelezésnek szélesebb körű lehetővé tétele, valamint a referenciaadat-szolgáltatók biztonságosabb működése érdekében a hitelezési kockázat csökkentésének elősegítése.
+130/A. §
 
-(2) A KHR-ben kizárólag az e törvényben meghatározott referenciaadatok kezelhetők.
-
-(3) A KHR-t kezelő pénzügyi vállalkozás kizárólag a referenciaadat-szolgáltató által átadott referenciaadatot veheti át, és kizárólag az általa kezelt referenciaadatot adhatja át a referenciaadat-szolgáltatónak.
-
-(4) Az adatkérési igényben megjelölt, – a 2. számú melléklet V. fejezetének 1. pontjában meghatározott – nyilvántartottra vonatkozó referenciaadaton kívül a KHR-ből a referenciaadat-szolgáltató részére egyéb adat nem adható át. Természetes személy referenciaadataira vonatkozó adatkérési igény kizárólag a 3. § (1) bekezdésének b)–c) és e)–g) pontjában foglalt pénzügyi szolgáltatásra irányuló szerződés, vagy a kereskedelmi kölcsön nyújtására irányuló szerződés, vagy a Bszt.-ben meghatározott befektetési hitel nyújtására, illetőleg a Tpt.-ben meghatározott értékpapír-kölcsönzésre vonatkozó szerződés megkötését megalapozó döntés meghozatalához vagy a 130/J. § (3) bekezdése szerinti tájékoztatás megadásának céljára használható fel.
-
-(5) A KHR-ből a Diákhitel Központ részére – a 130/J. § (4) bekezdésében foglaltakon kívül – referenciaadat nem adható át.
-
-(6) A KHR-t kezelő pénzügyi vállalkozás nyilvántartja a referenciaadatot továbbító referenciaadat-szolgáltató nevét, székhelyét, telephelyét, fióktelepét és a kapcsolattartásra jogosult személy nevét.
-
-(7) Az egymás között történő adatátadás tényéről, időpontjáról és az átadott adatok köréről mind a KHR-t kezelő pénzügyi vállalkozásnak, mind a referenciaadat-szolgáltatónak nyilvántartást kell vezetnie. E nyilvántartást a referenciaadatok nyilvántartására vonatkozó, 130/I. §-ban meghatározott időpontig kell kezelni.
-
-(8) A KHR-t kezelő pénzügyi vállalkozás felelős a referenciaadatok teljes körű és naprakész nyilvántartásáért, az adatbázis teljességéért és folyamatos fenntartásáért.
-
-(9) A referenciaadat-szolgáltató haladéktalanul köteles az általa kezelt referenciaadatokat a KHR-t kezelő pénzügyi vállalkozás részére átadni. A referenciaadat-szolgáltató adatátadási kötelezettsége a már átadott referenciaadatok módosulása esetén is fennáll, ha azokról tudomása van.
-
-(10) A KHR-t kezelő pénzügyi vállalkozás megkülönböztetésmentesen köteles biztosítani a KHR-hez történő csatlakozás lehetőségét a kereskedelmi kölcsönt nyújtó hitelező számára, valamint az Európai Unió másik tagállamában székhellyel rendelkező hitelező (a továbbiakban: más tagállambeli hitelező) számára, ha Magyarországon határon átnyúló szolgáltatást végez.
-
-(11) Más tagállambeli hitelező részére kizárólag a határon átnyúló tevékenysége vonatkozásában, a KHR-t kezelő pénzügyi vállalkozás a KHR-ben kezelt adatot csak akkor továbbíthat, ha:
-
-- a) ezt a más tagállambeli hitelező a KHR-hez történő csatlakozásról szóló írásbeli nyilatkozattal kérelmezi,
-- b) a csatlakozási nyilatkozatban kötelezettséget vállal arra, hogy a KHR-t kezelő pénzügyi vállalkozástól igényelt adatokat kizárólag az e törvényben meghatározottaknak megfelelően használja fel és
-- c) írásban nyilatkozik arról, hogy mind az ügyfél, mind a KHR-t kezelő pénzügyi vállalkozás tekintetében az e törvényben a referenciaadat-szolgáltatóra meghatározott szabályoknak megfelelően jár el és teljesíti a tájékoztatási, adatátadási és egyéb kötelezettségeket.
-
-(12) Más tagállambeli hitelező KHR részére teljesítendő adatátadási kötelezettsége a határon átnyúló szolgáltatást igénybevevő nyilvántartottnak a határon átnyúló szolgáltatással összefüggő a 3. sz. mellékletben meghatározott adataira terjed ki.
-
-130/B. § (1) A KHR kezelésére engedélyt az kaphat, aki a 17. §-ban foglalt feltételeken túl az alábbi feltételeknek is megfelel:
-
-- a) részvénytársasági formában működő pénzügyi vállalkozás,
-- b) legalább kétszázmillió forint saját tőkével rendelkezik,
-- c) a hitelreferencia szolgáltatást kizárólagos tevékenységként végzi,
-- d) részvényeinek tulajdonosa kizárólag pénzügyi intézmény vagy befektetési társaság,
-- e) a hitelinformációs rendszeréhez történő csatlakozási szándékát a referenciaadat-szolgáltatók legalább hetven százaléka kinyilvánította, és ezen referenciaadat-szolgáltatók legalább nyolcvan százalékával rendelkeznek az összes referenciaadat-szolgáltató tárgyévet megelőző év éves beszámolója alapján kiszámított kockázatvállalásának.
-
-(2) A Felügyelet a KHR kezelésére vonatkozó engedélyt visszavonja, ha
-
-- a) a pénzügyi vállalkozás nem vitatott tartozását az esedékességet követő öt napon belül nem egyenlítette ki, illetőleg vagyona (eszközei) az ismert hitelezők követelésének kielégítésére nem nyújtana fedezetet,
-- b) hitelezői kérelemre a bíróság elrendeli a pénzügyi vállalkozás felszámolását.
-
-(3) A Felügyelet a KHR kezelésére vonatkozó engedélyt a 29. §-ban foglalt eseteken kívül akkor is visszavonhatja, ha
-
-- a) a 13/C. §-ban meghatározott, az informatikai rendszer biztonságával kapcsolatos szabályozási rendszer előírásainak nem tesz eleget,
-- b) a pénzügyi vállalkozás súlyosan vagy ismételten megsérti az adatvédelemre vonatkozó egyéb jogszabályok előírásait,
-- c) a KHR-t kezelő pénzügyi vállalkozás nem tesz eleget a Felügyelet határozatában foglalt, a jogszerű működés helyreállítására vonatkozó előírásoknak.
-
-(4) A KHR kezelésére vonatkozó engedély visszavonásával egyidejűleg a Felügyelet köteles a KHR kezelésére egy másik pénzügyi vállalkozást kijelölni, és az engedély visszavonására vonatkozó határozatban foglalt határidő bekövetkezéséig az adatkezelés végzésére felügyeleti biztost kirendelni.
-
-(5) A felügyeleti biztos (4) bekezdésben meghatározott kirendelése esetén a 163. § (3) bekezdésében és a 164–167. §-ban foglalt előírásokat megfelelően alkalmazni kell.
-
-(6) A (4) bekezdésben meghatározott kijelölés esetén a Felügyelet azt a pénzügyi vállalkozást jelölheti ki a KHR kezelőjeként, amely kötelezettséget vállal arra, hogy az (1) bekezdés a)–d) pontjaiban foglalt feltételeknek százhúsz napon belül megfelel.
-
-(7) Az a pénzügyi vállalkozás, amelynek a KHR kezelésre vonatkozó engedélyét a Felügyelet visszavonta, köteles az engedély visszavonására vonatkozó határozatban foglalt határidő bekövetkezéséig kezelt referenciaadatokat az engedély visszavonására vonatkozó határozatban foglalt időpontban átadni annak a pénzügyi vállalkozásnak, amelyet a Felügyelet a KHR új kezelőjeként kijelöl. Az a pénzügyi vállalkozás, amelynek a KHR kezelésére vonatkozó engedélyét a Felügyelet visszavonta, az engedély visszavonására vonatkozó határozatban foglalt határidőtől kezdődően referenciaadatot nem kezelhet.
-
-(8) A KHR-t kezelő pénzügyi vállalkozás üzletszabályzatának elfogadásához a Felügyelet jóváhagyása szükséges.
+130/B. §
 
 ### A KHR-be történő adatátadás és a KHR-ben történő adatkezelés szabályai
 
-130/C. § (1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1–1.2 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–g) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződésben, kereskedelmi kölcsönszerződésben, valamint a külön jogszabályban meghatározott hallgatói hitelszerződésben vállalt fizetési kötelezettségének oly módon nem tesz eleget, hogy a lejárt és meg nem fizetett tartozásának összege meghaladja a késedelembe esés időpontjában érvényes legkisebb összegű havi minimálbért és ezen minimálbérösszeget meghaladó késedelem folyamatosan, több mint kilencven napon keresztül fennállt.
+130/C. §
 
-(2) Ugyanazon személy (1) bekezdés szerinti szerződésszegését több jogviszony egyidejű fennállása esetén jogviszonyonként külön-külön kell figyelembe venni.
+130/D. §
 
-130/D. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1 és 1.3 pontja szerinti referenciaadatait, aki a 3. § (1) bekezdésének b)–c) és e)–g) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződés, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés megkötésének kezdeményezése során valótlan adatot közöl, hamis vagy hamisított okiratot használ, ha mindez okirattal bizonyítható.
+130/E. §
 
-130/E. § A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a természetes személynek a 3. számú melléklet II. fejezetének 1.1 és 1.4 pontja szerinti referenciaadatait,
+130/F. §
 
-- a) aki a készpénz-helyettesítő fizetési eszközre vonatkozó azon bejelentését követően, miszerint a készpénz-helyettesítő fizetési eszköz kikerül a birtokából, vagy a készpénz-helyettesítő fizetési eszköz használatához szükséges személyazonosító, illetve egyéb kódja vagy más hasonló azonosító adata jogosulatlan harmadik személy tudomására jutott, a bejelentett fizetési eszközzel tranzakciót hajt végre,
-- b) aki a készpénz-helyettesítő fizetési eszköz használata során jogosulatlanul más személy személyazonosító vagy egyéb kódját, illetve más azonosító adatát használja fel,
-- c) akivel szemben a készpénz-helyettesítő fizetési eszköz használata miatt a bíróság jogerős határozatában a Btk. 313/C. §-ában meghatározott bűncselekmény elkövetését állapítja meg.
+130/G. §
 
-130/F. § (1) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja a 2. számú melléklet V. fejezete 4. pontja szerinti vállalkozásoknak a 3. § (1) bekezdésének b)–c) és e)–g) pontjában foglalt pénzügyi szolgáltatásra vonatkozó szerződésével kapcsolatos, a 3. számú melléklet II. fejezetének 2.1 és 2.2 pontja szerinti referenciaadatait.
+130/H. §
 
-(2) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a vállalkozásnak a 3. számú melléklet II. fejezetének 2.1 és 2.3 pontja szerinti referenciaadatait, amelynek fizetési számlájával szemben – fedezethiány miatt – harminc napot meghaladó időszak alatt, megszakítás nélkül, egy millió forintnál nagyobb összegű sorba állított követelést tartanak nyilván.
-
-(3) A referenciaadat-szolgáltató a KHR-t kezelő pénzügyi vállalkozás részére átadja annak a vállalkozásnak a 3. számú melléklet II. fejezetének 2.1 és 2.4 pontja szerinti referenciaadatait, amely készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződésben vállalt kötelezettségét megszegte, és emiatt a készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződését a referenciaadat-szolgáltató felmondta vagy felfüggesztette.
-
-130/G. § (1) A 130/C. §-ban foglalt rendelkezések alkalmazása során a lejárt és meg nem fizetett tartozás összegének és időtartamának számítását abban az esetben is folyamatosan kell végezni, ha az adatszolgáltatással kapcsolatos szerződésből eredő követelés egy másik referenciaadat-szolgáltató részére átruházásra kerül.
-
-(2) A szerződésből eredő követelést átruházó referenciaadat-szolgáltató köteles a feladat teljesítéséhez szükséges valamennyi okiratot és információt átadni a követelést átvevő referenciaadat-szolgáltató részére.
-
-130/H. § A KHR-t kezelő pénzügyi vállalkozás a részére átadott referenciaadatot „átruházás referenciaadat-szolgáltató részére” megjegyzéssel látja el, és feltünteti az átvevő referenciaadat-szolgáltató adatait, ha a referenciaadat-szolgáltató az adatszolgáltatással kapcsolatos szerződésből eredő követelést egy másik referenciaadat-szolgáltató részére ruházta át.
-
-130/I. § (1) A KHR-t kezelő pénzügyi vállalkozás – a (3)–(5) bekezdésben foglalt kivétellel – a referenciaadatokat a (2) bekezdésben meghatározott időponttól számított öt évig kezeli. Az öt év letelte után a KHR-t kezelő pénzügyi vállalkozás a referenciaadatokat véglegesen és vissza nem állítható módon törli.
-
-(2) Az (1) bekezdésben meghatározott határidő számításának kezdete:
-
-- a) a késedelmes tartozás megszűnésének időpontja a 130/C. § szerinti esetben,
-- b) az adat átadásának időpontja a 130/D. §, a 130/E. § és a 130/F. § (3) bekezdése szerinti esetben,
-- c) a követelések sorba állításának megszűnési időpontja a 130/F. § (2) bekezdése szerinti esetben,
-- d) a szerződés megszűnésének időpontja a 130/F. § (1) bekezdése szerinti esetben.
-
-(3) A KHR-t kezelő pénzügyi vállalkozás haladéktalanul és vissza nem állítható módon törli a referenciaadatot, ha a referenciaadat-szolgáltató jogutód nélkül megszűnt és az adatszolgáltatással kapcsolatos szerződésből eredő követelésnek másik referenciaadat-szolgáltató részére történő átruházására nem került sor, vagy ha a referenciaadat-szolgáltató az adatszolgáltatással kapcsolatos szerződésből eredő követelést nem referenciaadat-szolgáltató részére ruházta át.
-
-(4) A KHR-t kezelő pénzügyi vállalkozás haladéktalanul és vissza nem állítható módon törli a referenciaadatot, ha az jogellenesen került a KHR-be.
-
-(5) A KHR-t kezelő pénzügyi vállalkozás az adatszolgáltatással kapcsolatos szerződésből eredő késedelmes tartozás teljesítése esetén a teljesítéstől számított egy év elteltével haladéktalanul és vissza nem állítható módon törli a referenciaadatot.
+130/I. §
 
 ### Ügyfélvédelem
 
-130/J. § (1) A referenciaadat-szolgáltató a természetes személyek részére – az adatátadás céljának, az átadható adatok körének, a jogorvoslati lehetőségnek, valamint annak a megjelölésével, hogy a KHR-be történt adatátadást követően a referenciaadatokat a KHR-t kezelő pénzügyi vállalkozás a 130/A. § (4) bekezdésében meghatározott célból további referenciaadat-szolgáltatók részére is átadhatja – írásbeli tájékoztatást köteles adni:
+130/J. §
 
-- a) a szerződés megkötésének kezdeményezését megelőzően arról, hogy a 130/D. §-ban meghatározott esetben adatai bekerülhetnek a KHR-be,
-- b) a szerződés megkötését megelőzően arról, hogy a 130/C. §-ban és a 130/E. §-ban meghatározott esetben – ismertetve a konkrét okokat – adatai bekerülhetnek a KHR-be,
-- c) az adatátadás tervezett végrehajtását harminc nappal megelőzően arról, hogy a 130/C. §-ban meghatározott esetben adatai bekerülnek a KHR-be, ha nem tesz eleget a szerződésben foglalt kötelezettségének, és
-- d) az adatátadást követően legfeljebb nyolc napon belül, annak megtörténtéről.
+130/K. §
 
-(2) A referenciaadat-szolgáltató a vállalkozások részére – az adatátadás céljának, az átadandó adatok körének, valamint annak a megjelölésével, hogy a KHR-be történt adatátadást követően a referenciaadatokat a KHR-t kezelő pénzügyi vállalkozás a 130/A. § (4) bekezdésében meghatározott célból további referenciaadat-szolgáltatók részére is átadhatja – a szerződés megkötését megelőzően írásbeli tájékoztatást köteles adni arról, hogy a 130/F. §-ban meghatározott esetben referenciaadatai bekerülnek a KHR-be.
+130/L. §
 
-(3) Bármely referenciaadat-szolgáltatónál bárki jogosult tájékoztatást kérni arról, hogy milyen adatai szerepelnek a KHR-ben, és ezen adatait mely referenciaadat-szolgáltató adta át.
+130/M. §
 
-(4) A referenciaadat-szolgáltató a tájékoztatás iránti kérelmet a KHR-t kezelő pénzügyi vállalkozásnak haladéktalanul, de legkésőbb két munkanapon belül továbbítja, amely öt napon belül a kért adatokat zárt módon megküldi a referenciaadat-szolgáltatónak, amely azt, a kézhezvételt követően ugyancsak zárt módon, kézbesítési bizonyítvánnyal feladott irat formájában haladéktalanul, de legkésőbb két munkanapon belül eljuttatja a kérelmezőnek.
+130/N. §
 
-(5) A tájékoztatás a kérelmező számára évente egy alkalommal díjtalan. További tájékoztatás kérése esetén a kérelmezőnek költségtérítést kell fizetnie, amely legfeljebb a kapcsolódó közvetlen költségek ellenértékét tartalmazhatja.
-
-(6) A megfizetett költségtérítést a referenciaadatokat jogellenesen átadó referenciaadat-szolgáltató, illetve a 130/K. § (6) bekezdése szerinti esetben a KHR-t kezelő pénzügyi vállalkozás köteles visszafizetni a nyilvántartott részére, ha a referenciaadatot jogellenesen kezelik, vagy a 130/K. § (1) bekezdésében meghatározott kifogásolást követően az adatot helyesbíteni vagy törölni kell.
-
-130/K. § (1) A nyilvántartott kifogást emelhet referenciaadatainak a KHR-t kezelő pénzügyi vállalkozás részére történt átadása, azoknak a KHR-t kezelő pénzügyi vállalkozás által történő kezelése ellen, és kérheti a referenciaadat-helyesbítését, illetve törlését.
-
-(2) A nyilvántartott az (1) bekezdésben foglalt kifogást
-
-- a) a kifogásolt referenciaadatot a KHR-t kezelő pénzügyi vállalkozásnak átadó referenciaadat-szolgáltatóhoz, vagy
-- b) a KHR-t kezelő pénzügyi vállalkozáshoz
-
-nyújthatja be.
-
-(3) A KHR-t kezelő pénzügyi vállalkozás a kifogást – a nyilvántartott egyidejű értesítése mellett – haladéktalanul, de legkésőbb két munkanapon belül köteles ahhoz a referenciaadat-szolgáltatóhoz megküldeni, amely a kifogásolt referenciaadatot a KHR-t kezelő pénzügyi vállalkozásnak átadta, kivéve, ha a referenciaadat-szolgáltató jogutód nélkül megszűnt, és az adatszolgáltatással kapcsolatos szerződésből eredő követelés átruházására másik referenciaadat-szolgáltató részére nem került sor, vagy a referenciaadat-szolgáltató személye nem állapítható meg.
-
-(4) A referenciaadat-szolgáltató, illetőleg a KHR-t kezelő pénzügyi vállalkozás köteles a kifogást annak kézhezvételét követő tizenöt napon belül kivizsgálni, és a vizsgálat eredményéről a nyilvántartottat írásban, kézbesítési bizonyítvánnyal feladott irat formájában haladéktalanul, de legkésőbb két munkanapon belül tájékoztatni.
-
-(5) Ha a referenciaadat-szolgáltató a kifogásnak helyt ad, haladéktalanul, de legkésőbb két munkanapon belül köteles a helyesbített vagy törlendő referenciaadatot – a nyilvántartott egyidejű értesítése mellett – a KHR-t kezelő pénzügyi vállalkozás részére átadni, amely a változást haladéktalanul, de legkésőbb két munkanapon belül köteles átvezetni.
-
-(6) A KHR-t kezelő pénzügyi vállalkozás – a nyilvántartott egyidejű értesítése mellett – akkor is köteles a változást haladéktalanul, de legkésőbb két munkanapon belül átvezetni, ha a referenciaadat-szolgáltató jogutód nélkül megszűnt és az adatszolgáltatással kapcsolatos szerződésből eredő követelés átruházására másik referenciaadat-szolgáltató részére nem került sor, vagy a referenciaadat-szolgáltató személye nem állapítható meg és így a benyújtott kifogást a KHR-t kezelő pénzügyi vállalkozás vizsgálta ki, és annak helyt adott.
-
-(7) A KHR-t kezelő pénzügyi vállalkozás a helyesbítésről vagy törlésről haladéktalanul, de legkésőbb két munkanapon belül köteles értesíteni valamennyi olyan referenciaadat-szolgáltatót, amely a nyilvántartottról a helyesbítést vagy törlést megelőző egy éven belül referenciaadatot kért.
-
-130/L. § (1) A nyilvántartott referenciaadatainak átadása és kezelése miatt, illetőleg azok helyesbítése vagy törlése céljából a referenciaadat-szolgáltató és a KHR-t kezelő pénzügyi vállalkozás ellen keresetet indíthat. A keresetlevelet a 130/K. § (4) bekezdésében meghatározott tájékoztató kézhezvételét követő harminc napon belül a nyilvántartott lakóhelye szerint illetékes helyi bírósághoz kell benyújtani vagy ajánlott küldeményként postára adni. E határidő elmulasztása miatt igazolásnak van helye.
-
-(2) A nyilvántartottat az (1) bekezdés szerinti keresetindítási jog akkor is megilleti, ha a referenciaadat-szolgáltató, illetve a KHR-t kezelő pénzügyi vállalkozás a 130/J. § (4), vagy a 130/K. § (4) bekezdésében meghatározott tájékoztatási kötelezettségének nem tett eleget. A keresetlevél benyújtására nyitva álló határidőt ez esetben a tájékoztatási kötelezettségre megállapított határidő leteltétől kell számítani.
-
-(3) Az (1)–(2) bekezdés szerinti perre a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezéseit az e törvényben foglalt eltéréssel kell alkalmazni.
-
-(4) A bíróság a keresetlevelet a Pp. 124. §-ának (1) bekezdésében meghatározottak tekintetében haladéktalanul, de legkésőbb a bírósághoz érkezésétől számított tizenöt napon belül megvizsgálja és – amennyiben a keresetlevél a tárgyalás kitűzésére alkalmas – intézkedik a tárgyalási határnap kitűzéséről. A tárgyalást úgy kell kitűzni, hogy az első tárgyalás legkésőbb az iratoknak a bírósághoz való érkezését követő harminc napon belül megtartható legyen. Ha a keresetlevél csak a bíróság intézkedése alapján válik alkalmassá a tárgyalás kitűzésére (Pp. 124. §) a tárgyalás kitűzésére előírt határidő kezdő időpontját ettől az időponttól kell számítani. A tárgyalás elhalasztása esetén a folytatólagos tárgyalást harminc napon belül kell megtartani.
-
-130/M. § (1) A KHR-t kezelő pénzügyi vállalkozás a per megindítását az eljárás jogerős befejezéséig a vitatott referenciaadattal együtt köteles nyilvántartani.
-
-(2) A bíróság végzésével már a tárgyalás előkészítése során elrendelheti a referenciaadatok kezelésének felfüggesztését, ha a rendelkezésre álló adatok alapján a kereseti kérelem megalapozottsága valószínűnek mutatkozik. A végzés fellebbezésre tekintet nélkül előzetesen végrehajtható.
-
-(3) Ha a bíróság a referenciaadatok kezelésének felfüggesztését rendelte el, akkor az erre vonatkozó határozat kézhezvételét követően haladéktalanul, de legkésőbb két munkanapon belül a referenciaadatokat a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 2. §-ának 13. pontjában meghatározottak szerint zárolni kell.
-
-(4) A perben a keresetet más keresettel összekapcsolni vagy a pert más perrel egyesíteni nem lehet, továbbá a perben viszontkeresetnek nincs helye.
-
-(5) A perben az eljárás szünetelésének csak a Pp. 137. § (1) bekezdésének c) és d) pontja esetében van helye.
-
-130/N. § (1) A referenciaadat-szolgáltatót, illetőleg a KHR-t kezelő pénzügyi vállalkozást terheli annak bizonyítása, hogy a referenciaadat átadásának, illetve KHR-ben történő kezelésének e törvényben meghatározott feltételei fennálltak. E körben a bizonyítás elmaradása vagy eredménytelensége a referenciaadat-szolgáltatót, illetőleg a KHR-t kezelő pénzügyi vállalkozást terheli.
-
-(2) Az ítélet jogerőre emelkedéséig a referenciaadat kezelését akkor is fel kell függeszteni, ha az elsőfokú ítélet a referenciaadat törlését rendelte el.
-
-(3) A referenciaadat kezelésének felfüggesztését, a kezelés felfüggesztésének megszüntetését, illetve a referenciaadat helyesbítését, törlését a bíróság erre vonatkozó jogerős határozatának kézhezvételét követően haladéktalanul, de legkésőbb két munkanapon belül végre kell hajtani.
-
-(4) A bíróság a referenciaadat módosítására vagy törlésére vonatkozó jogerős határozatát a Felügyeletnek is megküldi.
-
-130/O. § A 130/L–130/N. §-ban foglalt rendelkezések a másodfokú eljárásban is megfelelően irányadók.
+130/O. §
 
 ### XX/B. Fejezet — Fizetési rendszerhez történő hozzáférés
 
@@ -5205,7 +5075,7 @@ c) az elektronikuspénz-kibocsátó intézmény által az elektronikus pénz kib
 
 a) banktitkot nem sértő bankinformáció díjazás ellenében történő nyújtása vagy
 
-b) a KHR-t kezelő pénzügyi vállalkozás által történő adatkezelés.
+b) a külön törvényben meghatározott Központi Hitelinformációs Rendszert kezelő pénzügyi vállalkozás által történő adatkezelés.
 
 5.1 Készpénz-helyettesítő fizetési eszköz:
 
@@ -5719,14 +5589,6 @@ e) szövetkezeti hitelintézetnél a szövetkezeti tagi hozzájárulást.
 
 V. A XX/A. Fejezetre vonatkozó fogalommeghatározások
 
-1. Nyilvántartott: valamennyi olyan természetes személy, illetve vállalkozás, akinek vagy amelynek referenciaadatait a központi hitelinformációs rendszert kezelő pénzügyi vállalkozás kezeli.
-
-2. Referenciaadat: bármely olyan adat, ideértve a nyilvántartott személyazonosító adatait is, amelyet a központi hitelinformációs rendszert kezelő pénzügyi vállalkozás e törvény alapján kezelhet.
-
-3. Referenciaadat-szolgáltató: a 3. § (1) bekezdésének b)–c), illetve e)–g) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, a Diákhitel Központ, a kizárólag garanciavállalással, illetőleg készfizető kezesség vállalásával foglalkozó jogi személy, a Bszt. 5. §-a (2) bekezdésének c) pontjában foglalt tevékenységet végző hitelintézet, befektetési vállalkozás, valamint a Tpt. szerinti értékpapír-kölcsönzést végző hitelintézet, befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító. Referenciaadat-szolgáltató a kereskedelmi kölcsönt nyújtó hitelező, valamint a határon átnyúló szolgáltatást végző más tagállambeli hitelező, ha a KHR-hez csatlakozott.
-
-4. Vállalkozás: a gazdasági társaság, az európai részvénytársaság, a szövetkezet, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót. Vállalkozásnak minősül a referenciaadat-szolgáltató, ha kereskedelmi kölcsönt nyújt.
-
 ### 3. számú melléklet az 1996. évi CXII. törvényhez
 
 I. Az azonosító adatok
@@ -5738,112 +5600,6 @@ I. Az azonosító adatok
 3–5.
 
 II. A központi hitelinformációs rendszerben nyilvántartható adatok
-
-1. Természetes személyekkel kapcsolatban nyilvántartható adatok:
-
-1.1 azonosító adatok:
-
-a) név,
-
-b) születési név,
-
-c) születési idő, hely,
-
-d) anyja születési neve,
-
-e) személyi igazolvány (útlevél) szám vagy egyéb, a személyazonosság igazolására a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint alkalmas igazolvány száma,
-
-f) lakcím,
-
-g) levelezési cím.
-
-1.2. a 3. § (1) bekezdésének b)–c) és e)–g) pontjában meghatározott szolgáltatásra, kereskedelmi kölcsönre, valamint a hallgatói hitelre vonatkozó szerződési adatok:
-
-a) a szerződés típusa és azonosítója (száma),
-
-b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
-
-c) a szerződés összege és devizaneme,
-
-d) a 130/C. § (1) bekezdésében meghatározott feltételek bekövetkezésének időpontja,
-
-e) a 130/C. § (1) bekezdésében meghatározott feltételek bekövetkezésekor fennálló lejárt és meg nem fizetett tartozás összege,
-
-f) a lejárt és meg nem fizetett tartozás megszűnésének módja és időpontja,
-
-g) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés.
-
-1.3. a 3. § (1) bekezdésének b)–c) és e)–g) pontjában foglalt szolgáltatásra vonatkozó szerződés, a kereskedelmi kölcsönszerződésre, valamint a külön jogszabályban meghatározott hallgatói hitelszerződés kezdeményezésére vonatkozó adatok:
-
-a) az igénylés elutasításának időpontja, indoka,
-
-b) okirati bizonyítékok,
-
-c) perre utaló megjegyzés.
-
-1.4 a készpénz-helyettesítő fizetési eszköz használatával kapcsolatos adatok:
-
-a) a készpénz-helyettesítő fizetési eszköz típusa és azonosítója (száma),
-
-b) a letiltás időpontja,
-
-c) a letiltott készpénz-helyettesítő fizetési eszközzel végrehajtott műveletek időpontja, száma, összege,
-
-d) a jogosulatlan felhasználások száma,
-
-e) az okozott kár összege,
-
-f) a bírósági határozat jogerőre emelkedésének időpontja,
-
-g) perre utaló megjegyzés.
-
-2. Vállalkozásokkal kapcsolatban nyilvántartható adatok:
-
-2.1 azonosító adatok:
-
-a) cégnév, név,
-
-b) székhely,
-
-c) cégjegyzékszám, egyéni vállalkozói nyilvántartási szám,
-
-d) adószám.
-
-2.2 a 3. § (1) bekezdésének b)–c) és e)–f) pontjában foglalt szolgáltatásra vonatkozó szerződési adatok:
-
-a) a szerződés típusa és azonosítója (száma),
-
-b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
-
-c) a szerződés megszűnésének módja,
-
-d) a szerződés összege és devizaneme,
-
-e) a lejárt és meg nem fizetett tartozás esedékességének időpontja és összege,
-
-f) a lejárt és meg nem fizetett tartozás megszűnésének időpontja és módja,
-
-g) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés.
-
-2.3 azon bankszámlákkal kapcsolatos adatok, amelyeken sorba állított követeléseket tartottak nyilván:
-
-a) a szerződés azonosítója (száma),
-
-b) a bankszámla száma,
-
-c) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
-
-d) a sorba állított követelések összege és devizaneme,
-
-e) a követelések sorba állításának kezdő és megszűnési időpontja,
-
-f) perre utaló megjegyzés.
-
-2.4 a készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződésre vonatkozó adatok:
-
-a) a szerződés megkötésének, lejáratának, megszűnésének, felfüggesztésének időpontja,
-
-b) perre utaló megjegyzés.
 
 ### 4. számú melléklet az 1996. évi CXII. törvényhez
 

@@ -75,7 +75,8 @@ Az Országgyűlés az áru- és pénzforgalmi viszonyok fejlesztése, a termelé
 - h) a közraktár vezetőinek szakmai képesítésére, állampolgárságára és alkalmazására vonatkozó okiratokat;
 - i)
 - j)
-- k) nyilatkozatot a közraktár telefon és fax számáról, valamint e-mail címéről.
+- k) nyilatkozatot a közraktár cégjegyzékszámáról, adószámáról, telefon és fax számáról, valamint e-mail címéről, továbbá
+- l) zálogkölcsön-nyújtás esetén a külön törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozatot.
 
 (3) A kérelmező a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges közraktári engedélyt kaphat, ha
 
