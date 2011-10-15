@@ -4398,13 +4398,13 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 (5) E § rendelkezéseit nem kell alkalmazni arra az esetre, ha a törlesztőrészlet fizetésére devizában kerül sor.
 
-200/B. § (1) A Magyar Köztársaság területén lévő lakóingatlanon alapított zálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség fedezetével fogyasztóval kötött deviza alapú kölcsönszerződés alapján teljesített teljes előtörlesztés (a továbbiakban: végtörlesztés) esetén a pénzügyi intézmény – amennyiben a (2) bekezdésben meghatározott feltételek teljesülnek – a végtörlesztés forint összegének meghatározásakor svájci frank esetén 180 HUF/CHF, euró esetén 250 HUF/EUR, japán jen esetén 200 HUF/100 JPY árfolyamot alkalmaz.
+200/B. § (1) A Magyar Köztársaság területén lévő lakóingatlanon alapított zálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség fedezetével fogyasztóval kötött deviza alapú kölcsönszerződés alapján teljesített teljes előtörlesztés (a továbbiakban: végtörlesztés) esetén a kölcsönszerződésből eredő követeléssel rendelkező pénzügyi intézmény – amennyiben a (2) bekezdésben meghatározott feltételek teljesülnek – a végtörlesztés forint összegének meghatározásakor svájci frank esetén 180 HUF/CHF, euró esetén 250 HUF/EUR, japán jen esetén 200 HUF/100 JPY árfolyamot alkalmaz.
 
 (2) Az (1) bekezdésben meghatározott árfolyam alkalmazására a pénzügyi intézmény abban az esetben köteles, ha
 
 - a) a végtörlesztéssel érintett deviza alapú kölcsön folyósításánál alkalmazott árfolyam az (1) bekezdésben meghatározott árfolyamnál nem volt magasabb,
 - b) a kölcsönszerződést a pénzügyi intézmény a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény hatálybalépésének napjáig nem mondta fel,
-- c) a végtörlesztésre vonatkozó írásbeli igénybejelentését a hitelfelvevő 2011. december 30. napjáig a végtörlesztéssel érintett deviza alapú kölcsönt nyújtó pénzügyi intézmény részére benyújtja,
+- c) a végtörlesztésre vonatkozó írásbeli igénybejelentését a hitelfelvevő 2011. december 30. napjáig az (1) bekezdés szerinti pénzügyi intézmény részére benyújtja,
 - d) a végtörlesztéssel érintett deviza alapú kölcsönhöz közvetlenül kapcsolódik áthidaló vagy gyűjtőszámlahitelből eredő tartozás, annak végtörlesztését a hitelfelvevő a c) pont szerinti igénybejelentéssel egyidejűleg vállalja, valamint
 - e) a végtörlesztés a c) pont szerinti igénybejelentés napját követő 60. napig megtörténik.
 
@@ -4413,6 +4413,12 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 (4) A pénzügyi intézmény az (1) bekezdésben és a (2) bekezdés d) pontjában meghatározott végtörlesztésért a fogyasztónak nyújtott hitelről szóló törvényben meghatározott költségtérítést és egyéb díjat vagy jutalékot nem számíthat fel.
 
 (5) A végtörlesztés egészben vagy részben történő teljesítése érdekében nyújtott kölcsönre vonatkozó pénzügyi szolgáltatás közvetítéséért a közvetítő díjazást nem jogosult érvényesíteni megbízójával szemben.
+
+(6) A végtörlesztés egészben vagy részben történő teljesítése érdekében nyújtott kölcsön kizárólag forinthitel lehet.
+
+(7) Ha a deviza alapú kölcsön folyósítása több részletben történt, a (2) bekezdés a) pontjában foglaltak alkalmazása során a folyósításoknál alkalmazott árfolyamok súlyozott átlagát kell figyelembe venni.
+
+(8) E § alkalmazásában deviza alapú kölcsönszerződésnek minősül az a kölcsön is, ahol a törlesztés is devizában történik azzal, hogy ebben az esetben a végtörlesztést a fogyasztó forintban teljesítheti.
 
 ### A reklámtevékenységre vonatkozó különös rendelkezések
 
@@ -4942,7 +4948,9 @@ esetében kell alkalmazni.
 
 234/E. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2010. évi CLIX. törvény hatálybalépésekor már meglévő, a hitelintézet által visszavásárolt és a mérlegben eszközök között kimutatott saját kibocsátású alapvető kölcsöntőke, járulékos vagy alárendelt kölcsöntőke könyv szerinti értékét 2011. december 31-ig nem kell levonni a szavatoló tőke kiszámításakor.
 
-234/F. § A pénzügyi intézmény az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény 4. § (2) bekezdésével megállapított 200/B. §-nak és 4. § (3) bekezdésével megállapított 210. § (5a) bekezdésnek való megfelelés érdekében egyoldalúan is módosíthatja a rendelkezések hatálybalépését megelőzően kötött deviza alapú kölcsönszerződés végtörlesztésre, valamint a költségek és díjak felszámítására vonatkozó rendelkezéseit az üzletszabályzat vagy az általános szerződési feltételek módosításával. Ebben az esetben az üzletszabályzat vagy az általános szerződési feltételek vonatkozó rendelkezése válik a szerződés részévé.
+234/F. § (1) A pénzügyi intézmény az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény 4. § (2) bekezdésével, valamint az otthonvédelmi intézkedések kiterjesztése kapcsán a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény módosításáról szóló 2011. évi CXXX. törvény (a továbbiakban: Módtv.) 1. és 2. §-aival megállapított 200/B. §-nak és az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény 4. § (3) bekezdésével megállapított 210. § (5a) bekezdésének való megfelelés érdekében egyoldalúan is módosíthatja a rendelkezések hatálybalépését megelőzően kötött deviza alapú kölcsönszerződés végtörlesztésre, valamint a költségek és díjak felszámítására vonatkozó rendelkezéseit az üzletszabályzat vagy az általános szerződési feltételek módosításával. Ebben az esetben az üzletszabályzat vagy az általános szerződési feltételek vonatkozó rendelkezése válik a szerződés részévé.
+
+(2) A Módtv. 2. §-ával megállapított 200/B. § (6) bekezdését nem kell alkalmazni azon kölcsönre, amelynél a 200/B. § (2) bekezdés c) pontja szerinti írásbeli igénybejelentés a Módtv. hatálybalépése előtt megtörtént.
 
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 

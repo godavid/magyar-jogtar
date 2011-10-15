@@ -1386,6 +1386,8 @@ hatályos. A b) pontban foglaltak alkalmazása esetén – a felek eltérő meg�
 
 (3)
 
+137/A. § Ha annak a bírónak szűnik meg a szolgálati viszonya, aki a rá irányadó öregségi nyugdíjkorhatárt betöltötte vagy 2012. december 31-ig tölti be, az így megüresedő bírói álláshelyre 2012. január 1-jéig pályázat nem írható ki.
+
 138. §
 
 138/A. § E törvénynek a Módtv.
