@@ -3040,6 +3040,8 @@ Budapest Kortárstánc Főiskola, Budapest
 
 Budapesti Kommunikációs és Üzleti Főiskola, Budapest
 
+Edutus Főiskola, Tatabánya
+
 Egri Hittudományi Főiskola, Eger
 
 Esztergomi Hittudományi Főiskola, Esztergom
@@ -3052,13 +3054,9 @@ Golgota Teológiai Főiskola, Vajta
 
 Győri Hittudományi Főiskola, Győr
 
-Harsányi János Főiskola, Budapest
-
 IBS Nemzetközi Üzleti Főiskola, Budapest
 
 Kodolányi János Főiskola, Székesfehérvár
-
-Modern Üzleti Tudományok Főiskolája, Tatabánya
 
 Mozgássérültek Pető András Nevelőképző és Nevelőintézete, Budapest
 
