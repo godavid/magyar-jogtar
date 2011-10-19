@@ -75,41 +75,9 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 52. §
 
-53. § A felsőoktatásról szóló 2005. évi CXXXIX. törvény 1. számú melléklete a melléklet szerint módosul.
+53. §
 
-54. § (1) Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény (a továbbiakban: Áhtm.) 1. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az Országgyűlés, a Kormány, a minisztérium (miniszter), a központi államigazgatási szerv (vezetője) által önállóan, vagy a felsoroltak bármelyikével közösen (a továbbiakban: állami alapító) alapított alapítványt (közalapítványt), továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítványt (közalapítványt) az állami alapító kérelmére a bíróság – nemperes eljárásban – akkor is megszünteti, ha azt az állami alapító arra hivatkozással kéri, hogy az alapítvány (közalapítvány) céljainak megvalósítása, feladatának további ellátása központi költségvetési szerv, kizárólagos állami tulajdonban álló közhasznú nonprofit gazdasági társaság, illetve egyéb közfeladatot ellátó szervezet által hatékonyabban megvalósítható. Ez esetben a megszűnt alapítvány (közalapítvány) vagyonát – cél szerinti feladatainak további ellátása érdekében – az állami alapító a megszüntetési kérelemben megjelölt központi költségvetési szerv, kizárólagos állami tulajdonban álló közhasznú nonprofit gazdasági társaság, illetve egyéb közfeladatot ellátó szervezet rendelkezésére bocsátja (nonprofit gazdasági társaság esetében apportként).”
-
-(2) Az Áhtm. 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés szerint megszüntetett alapítvány (közalapítvány) vagyona – a megszüntetésre irányuló eljárás kezdő időpontjában lejárt tartozások kiegyenlítését követően – a kérelemben megjelölt jogi személyiséggel rendelkező nonprofit gazdasági társaság vagyonának részévé válik (apport). Az alapítvány (közalapítvány) vagyoni jogai és a megszüntetésre irányuló eljárás kezdő időpontját követően esedékessé váló kötelezettségei a nonprofit gazdasági társaságra szállnak át. A nonprofit gazdasági társaság vagyonává váló volt alapítványi (közalapítványi) vagyon kizárólag a megszűnt alapítvány (közalapítvány) célja szerinti tevékenységre fordítható, és a társaság megszűnése esetén is – a tagok (részvényesek) közötti felosztása nélkül – csak e céloknak megfelelően használható fel.”
-
-(3) Az Áhtm. 2. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-„(5) Az (1) bekezdés, valamint az 1. § (6) bekezdése szerinti nonprofit gazdasági társaság (3) bekezdés szerinti megalapítására az alapítvány (közalapítvány) megszüntetésétől függetlenül kerül sor. Az (1) bekezdés szerinti nonprofit gazdasági társaság alapításáról az állami alapító (1) bekezdés szerinti alapítvány (közalapítvány) megszüntetésének kezdeményezését megelőzően intézkedik. A cégbíróság az (1) bekezdés szerinti nonprofit gazdasági társaság megalapítása körében nem vizsgálja az (1) bekezdés szerinti alapítvány (közalapítvány) megszűnését és annak jogkövetkezményeit.
-
-(6) Az (1) bekezdés, valamint az 1. § (6) bekezdése szerinti nonprofit gazdasági társaság megalapítására és cégnyilvántartásba történő bejegyzésére gazdasági társaságokról szóló törvényben foglaltak alapján és a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti cégbejegyzési eljárás szabályainak megfelelően kerül sor. A cégbíróság a cégbejegyzési kérelmet kizárólag a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény nonprofit közhasznú gazdasági társaságokra irányadó előírásai szerint bírálja el, aminek során az eljáró cégbíróság kizárólag cégbejegyzési kérelemben, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 1., illetve 2 . számú mellékletében felsorolt, az adott cégformára vonatkozó, a gazdasági társaság megalapításakor szükséges mellékletekben foglaltak alapján dönt. A cégbejegyzési kérelemhez egyéb melléklet, nyilatkozat, vagy okirat csatolását az eljáró cégbíróság hiánypótlásra felhívó végzésben sem írhatja elő. Az eljáró cégbíróság a gazdasági társaságot a cégjegyzékbe a kérelemben foglalt adatokkal bejegyzi, amennyiben a kérelem, valamint annak az előbbiek szerinti mellékletei a törvényben foglaltaknak megfelelnek.”
-
-(4) Az Áhtm. a következő 2/A. §-sal egészül ki:
-
-„2/A. § (1) Ha a Kormány a 2. § (1) bekezdésében meghatározottak szerint az általa vagy államháztartáson kívüli más alapítóval közösen alapított alapítvány (közalapítvány) megszüntetéséről dönt, az alapítvány (közalapítvány) nevében tett kötelezettséget vállaló vagy egyébként a vagyonát terhelő jognyilatkozatok érvényességéhez, ide értve a bankszámla feletti rendelkezést is, a Kormány erre vonatkozó – (3) bekezdés szerinti – döntése esetén a Kormány által kijelölt személy jóváhagyása szükséges.
-
-(2) Az (1) bekezdésben foglaltakat a megszüntetési döntéssel érintett alapítvány (közalapítvány) által alapított egyszemélyes gazdasági társaság jognyilatkozatai tekintetében is alkalmazni kell.
-
-(3) A Kormány nyilvános határozatában dönthet az (1) bekezdés szerinti személy kijelöléséről. A Kormány erre vonatkozó döntése esetén az (1) bekezdés szerinti személy az (1) és (2) bekezdésben meghatározott jogkörét a Kormány erre vonatkozó nyilvános határozatának közzétételét követően gyakorolja.”
-
-(5) Az Áhtm. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az állami alapító kérelmére az 1. § (4) bekezdése, az 1. § (6) bekezdése, valamint a 2. § (1) bekezdése szerint megindított megszüntetési eljárást a kérelem benyújtásától számított 15 napon belül kell lefolytatni.”
-
-(6) Az Áhtm. 4. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az állami alapító kérelmére az általa alapított alapítvány (közalapítvány), továbbá az állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány (közalapítvány) 1. § (4) bekezdése, 1. § (6) bekezdése, valamint 2. § (1) bekezdése szerinti megszüntetése esetén az állami alapító felelőssége a megszűnt alapítvány (közalapítvány) vagyonáról e törvényben foglaltak szerint gondoskodni. A megszüntetési eljárás során az eljáró bíróság a megszüntetésre kerülő alapítvány (közalapítvány) vagyonát kizárólag az alapítvány (közalapítvány) utolsó éves beszámolója, közhasznúsági jelentése, valamint az állami alapító nyilatkozata alapján vizsgálhatja. Az állami alapító áll helyt, ha az általa tett nyilatkozatban foglaltak valótlansága miatt az alapítvány (közalapítvány) hitelezőjét kár éri.”
-
-(7) Az Áhtm. a következő 7. §-sal egészül ki:
-
-„7. § E törvénynek a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított 1. § (6) bekezdését, 2. § (2), (5)–(6) bekezdését, 2/A. §-át, 4. § (4) bekezdését az 1. módosító törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+54. §
 
 55. §
 
@@ -118,71 +86,3 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 56. §
 
 ### Melléklet a 2011. évi CXXXII. törvényhez
-
-A felsőoktatásról szóló 2005. évi CXXXIX. törvény 1. számú melléklet „Nem állami főiskolák” része helyébe a következő rendelkezés lép:
-
-„Nem állami főiskolák
-
-A Tan Kapuja Buddhista Főiskola, Budapest
-
-Adventista Teológiai Főiskola, Pécel
-
-Általános Vállalkozási Főiskola, Budapest
-
-Apor Vilmos Katolikus Főiskola, Vác
-
-Baptista Teológiai Akadémia, Budapest
-
-Bhaktivedanta Hittudományi Főiskola, Budapest
-
-Budapest Kortárstánc Főiskola, Budapest
-
-Budapesti Kommunikációs és Üzleti Főiskola, Budapest
-
-Edutus Főiskola, Tatabánya
-
-Egri Hittudományi Főiskola, Eger
-
-Esztergomi Hittudományi Főiskola, Esztergom
-
-Gábor Dénes Főiskola, Budapest
-
-Gál Ferenc Hittudományi Főiskola, Szeged
-
-Golgota Teológiai Főiskola, Vajta
-
-Győri Hittudományi Főiskola, Győr
-
-IBS Nemzetközi Üzleti Főiskola, Budapest
-
-Kodolányi János Főiskola, Székesfehérvár
-
-Mozgássérültek Pető András Nevelőképző és Nevelőintézete, Budapest
-
-Pápai Református Teológiai Akadémia, Pápa
-
-Pécsi Püspöki Hittudományi Főiskola, Pécs
-
-Pünkösdi Teológiai Főiskola, Budapest
-
-Sapientia Szerzetesi Hittudományi Főiskola, Budapest
-
-Sárospataki Református Teológiai Akadémia, Sárospatak
-
-Sola Scriptura Teológiai Főiskola, Budapest
-
-Szent Atanáz Görög Katolikus Hittudományi Főiskola, Nyíregyháza
-
-Szent Bernát Hittudományi Főiskola, Zirc
-
-Szent Pál Akadémia, Budapest
-
-Tomori Pál Főiskola, Kalocsa
-
-Veszprémi Érseki Hittudományi Főiskola, Veszprém
-
-Wekerle Sándor Üzleti Főiskola, Budapest
-
-Wesley János Lelkészképző Főiskola, Budapest
-
-Zsigmond Király Főiskola, Budapest”
