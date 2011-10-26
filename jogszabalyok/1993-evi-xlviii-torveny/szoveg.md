@@ -423,6 +423,18 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 - a) az igény kielégítésére alkalmas szabad kapacitás rendelkezésre áll, és
 - b) az ásványi nyersanyag a használni tervezett rendszer működésében nem okoz zavart.
 
+24/A. § (1) A kőolaj szállítóvezeték üzemeltetésére engedéllyel rendelkező üzemeltető (a továbbiakban: kőolaj szállítóvezeték üzemeltető) a kőolaj szállítóvezeték szerződéssel le nem kötött kapacitásait és a szállításhoz szükséges tárolói kapacitásokat, továbbá a szerződéssel lekötött kapacitás felett rendelkező személy a szállítóvezeték fel nem használt kapacitásait és a szállításhoz szükséges tárolói kapacitásokat köteles – átláthatóan és diszkriminációmentesen – értékesítésre felajánlani.
+
+(2) A szerződéssel lekötött, de fel nem használt kapacitások értékesítése esetén a kapacitás-értékesítési díj nem lehet magasabb, mint az adott kapacitás lekötésért fizetett díj.
+
+(3) A behozott kőolaj és kőolajtermék biztonsági készletezéséről szóló törvény szerinti kőolaj- és kőolajtermék-ellátási válsághelyzetben, vagy ha annak bekövetkezése valószínűsíthető, a kőolaj szállítóvezeték és a szállításhoz szükséges tároló szerződéssel lekötött, de fel nem használt kapacitásai felett a kőolaj szállítóvezeték üzemeltetője rendelkezik. A kőolaj szállítóvezeték üzemeltetője köteles a szerződéssel lekötött, de fel nem használt kapacitásokat a hazai tényleges szállítást igénylők részére – átláthatóan és diszkriminációmentesen – értékesítésre felajánlani.
+
+(4) A kőolaj szállítóvezeték üzemeltetője és a szerződéssel lekötött, de fel nem használt kapacitások felett rendelkező személy közötti, a (3) bekezdésben foglaltak alapján szükséges pénzügyi elszámolás szabályairól a felek a kapacitás-lekötésről szóló szerződésben rendelkeznek.
+
+(5) A (3) bekezdés szerinti esetben, ha a szerződéssel le nem kötött, és a szerződéssel lekötött, de fel nem használt kapacitásokat meghaladó igények merülnek fel, a kapacitásokat – a (3) bekezdésben foglaltakra figyelemmel – az igényelt mennyiségek arányában kell értékesíteni.
+
+(6) Jogszabállyal kihirdetett nemzetközi szerződés rendelkezése esetén a (3)–(5) bekezdés szerint kell eljárni a részes fél területén bekövetkező, a szerződésben meghatározott kőolaj- és kőolajtermék-ellátási válsághelyzetben, a válsághelyzet beálltáról szóló szerződés szerinti értesítést követően.
+
 ### Földtani adatszolgáltatás és az adatok kezelése
 
 25. § (1) A bányavállalkozó a bányászati tevékenység során nyert földtani adatokat évente köteles az állami földtani feladatokat ellátó szervnek megküldeni.
