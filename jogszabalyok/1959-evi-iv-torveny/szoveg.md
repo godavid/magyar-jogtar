@@ -1784,7 +1784,13 @@ Ptké.35. § A szolgáltatásnak (vagyoni előnynek) az állam javára való meg
 
 Ptké.36. § Az állam javára megítélt szolgáltatások behajtásával és elszámolásával kapcsolatos pénzügyi kérdéseket az adópolitikáért felelős miniszter az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-Ptké.36/A. § Az ügyész keresetet indíthat a semmis szerződéssel a közérdekben okozott sérelem megszüntetése érdekében a szerződés semmisségének megállapítása iránt.
+Ptké.36/A. § Az ügyész
+
+a) a semmis szerződéssel a közérdekben okozott sérelem megszüntetése érdekében, továbbá
+
+b) uzsorás szerződés esetén
+
+a szerződés semmisségének megállapítása és az érvénytelenség jogkövetkezményeinek alkalmazása iránt keresetet indíthat.
 
 Ptk.238. § (1) Érvénytelen szerződés érvényessé nyilvánítása esetén a szerződő felek a szerződésszegésért úgy felelnek, mintha a szerződés kezdettől fogva érvényes lett volna.
 
@@ -2894,7 +2900,13 @@ Ptké.35. § A szolgáltatásnak (vagyoni előnynek) az állam javára való meg
 
 Ptké.36. § Az állam javára megítélt szolgáltatások behajtásával és elszámolásával kapcsolatos pénzügyi kérdéseket az adópolitikáért felelős miniszter az igazságügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-Ptké.36/A. § Az ügyész keresetet indíthat a semmis szerződéssel a közérdekben okozott sérelem megszüntetése érdekében a szerződés semmisségének megállapítása iránt.
+Ptké.36/A. § Az ügyész
+
+a) a semmis szerződéssel a közérdekben okozott sérelem megszüntetése érdekében, továbbá
+
+b) uzsorás szerződés esetén
+
+a szerződés semmisségének megállapítása és az érvénytelenség jogkövetkezményeinek alkalmazása iránt keresetet indíthat.
 
 Ptk.362. § Az életfenntartás céljára adott és arra felhasznált juttatást visszakövetelni nem lehet, kivéve, ha jogszabály másként rendelkezik, vagy a juttatást bűncselekmény útján szerezték meg.
 
