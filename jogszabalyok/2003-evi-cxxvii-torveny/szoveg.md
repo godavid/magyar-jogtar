@@ -1400,8 +1400,8 @@ minősül.
 
 - a) a 2710 11 31, a 2710 11 41, a 2710 11 45 és a 2710 11 49 vámtarifaszám alatti ólmozatlan benzinre 120 000 Ft/ezer liter,
 - b) a 2710 11 31, a 2710 11 51 és a 2710 11 59 vámtarifaszám alatti ólmozott benzinre és a 2710 19 21 vámtarifaszám alatti petróleumra 124 200 Ft/ezer liter,
-- c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, fűtőanyag célú gázolajra 97 350 Ft/ ezer liter,
-- d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra 97 350 Ft/ezer liter,
+- c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, fűtőanyag célú gázolajra 110 350 Ft/ezer liter,
+- d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra 110 350 Ft/ezer liter,
 - e) a 2710 19 61 vámtarifaszámú fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 4425 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ezer kg; a 2710 19 63, a 2710 19 65 és a 2710 19 69 vámtarifaszám alá tartozó fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 40 000 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ ezer kg,
 - f) a 2711 12, a 2711 13, a 2711 14 00, a 2711 19 00 vámtarifaszám alatti gáz termékekből arra a cseppfolyósított szénhidrogénre, amelyet közúti járművek üzemanyagaként értékesítenek, importálnak vagy használnak fel, 47 900 Ft/ezer kg, egyéb motorikus célú értékesítés, importálás vagy felhasználás esetén 12 095 Ft/ezer kg, egyébként 0 Ft/ezer kg,
 - g) a 2711 21 00 és a 2711 29 00 vámtarifaszám alatti gáz termékekből arra a sűrített gáz halmazállapotú szénhidrogénre, amelyet közúti járművek üzemanyagaként értékesítenek, importálnak vagy használnak fel, 0 Ft/nm3,
@@ -1507,7 +1507,7 @@ ténylegesen felhasznált, adózottan beszerzett 2710 11 31 vámtarifaszámú re
 57/C. § (1) A beszerzéskor megfizetett adóból
 
 - a) az üzemanyagtöltő-állomáson forgalmi rendszámra szóló üzemanyagkártyával megvásárolt,
-- b) a (2) bekezdés szerinti adó-visszaigénylésre jogosult magyarországi telephelyén üzemanyag-tárolásra rendszeresített – a tankolt mennyiséget rendszámonként, valamint a tankoló jármű kilométeróra állását rögzítő – üzemanyag-tankoló automatával ellátott üzemanyagtartályból elektronikus mérőeszközön keresztül betöltött kereskedelmi gázolaj után literenként 6,50 Ft visszaigényelhető.
+- b) a (2) bekezdés szerinti adó-visszaigénylésre jogosult magyarországi telephelyén üzemanyag-tárolásra rendszeresített – a tankolt mennyiséget rendszámonként, valamint a tankoló jármű kilométeróra állását rögzítő – üzemanyag-tankoló automatával ellátott üzemanyagtartályból elektronikus mérőeszközön keresztül betöltött kereskedelmi gázolaj után literenként 19,50 Ft visszaigényelhető.
 
 (2) Az (1) bekezdés szerinti adó-visszaigénylésre – figyelemmel a (3) bekezdés rendelkezésére is – a 7. § 51. pontjában meghatározott gépjármű vagy nyerges járműszerelvény (a továbbiakban együtt: kereskedelmi jármű) vámhatóság által e célból nyilvántartásba vett üzembentartója, illetve – bérelt kereskedelmi jármű esetében – bérbe vevője jogosult. A jogosult a nyilvántartásba vétel iráni kérelmet az adóvisszaigénylési jogosultság első ízben történő érvényesítése előtt legalább 30 nappal köteles benyújtani a vámhatósághoz. A kérelemnek tartalmaznia kell a jogosult adószámát, valamint képviselője természetes személyazonosító adatait, személyazonosításra alkalmas okmányának számát. A jogosult a vámhatóság által nyilvántartásba vett adatok változását haladéktalanul köteles a vámhatósághoz bejelenteni.
 
@@ -1754,12 +1754,12 @@ terméket kell érteni.
 
 64. § (1) Az adó alapja az alkoholtermék 100 térfogatszázalékos etilalkohol (a továbbiakban: tiszta szesz) tartalommal hektoliterben meghatározott, 20 °C-on mért mennyisége, illetve a magánfőzésben előállított párlat esetében a vámhatósághoz bejelentett alapanyag tömegben (szőlőbor esetén térfogatban) kifejezett mennyiségéből a 3. számú melléklet szerinti kihozatali arányszámmal számított tiszta szesz mennyisége, hektoliterben.
 
-(2) Az adó mértéke – a (3) bekezdésben foglalt eltéréssel – az (1) bekezdés szerinti adóalapra 276 100 forint.
+(2) Az adó mértéke a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről, és földrajzi jelzéseinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 110/2008/EK rendelet) II. mellékletében felsorolt termékek, valamint az olyan szeszes italok esetében, amelyek alkoholtartalma kizárólag a 110/2008/EK rendelet II. mellékletének 6. és 9. pontja szerinti termékből származik, és ízesítésükre mézet, vagy az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló 2008. december 16-i 1334/2008/EK európai parlamenti és tanácsi rendelet 3. cikke (2) bekezdésének c) és d) pontjaiban meghatározott aroma anyagot használnak, – a (3) bekezdésben foglalt eltéréssel – az (1) bekezdés szerinti adóalapra 289 900 forint, egyéb szeszes italok esetében 414 150 Ft.
 
 (3) A szeszfőzdében bérfőzés keretében, a bérfőzető alapanyagából előállított párlat (a továbbiakban: bérfőzött párlat) adója az (1) bekezdés szerinti adóalapra számítva egy bérfőzető részére évente
 
 - a) legfeljebb 50 liter mennyiségig 0 forint,
-- b) az 50 litert meghaladó mennyiségre 276 100 forint.
+- b) az 50 litert meghaladó mennyiségre 289 900 forint.
 
 (4) Nem kell alkalmazni az (1)–(2) bekezdés rendelkezését a 63. § (1) bekezdés c) pontja szerinti alkoholtermékre, amennyiben
 
@@ -1767,9 +1767,9 @@ terméket kell érteni.
 - b) az abban lévő etilalkoholra megfizették az e törvény szerinti adót vagy arra végleges mentesülés következett be,
 - c) az az 52. § (1)–(2) bekezdés szerinti adómérték alá esik.
 
-(5) A (3) bekezdésben foglaltaktól eltérően az eladásra szánt bérfőzött párlat – kivéve az alkoholtermék-adóraktár engedélyese részére értékesítésre kerülő bérfőzött párlatot – adója az (1) bekezdés szerinti adóalapra számítva 276 100 forint.
+(5) A (3) bekezdésben foglaltaktól eltérően az eladásra szánt bérfőzött párlat – kivéve az alkoholtermék-adóraktár engedélyese részére értékesítésre kerülő bérfőzött párlatot – adója az (1) bekezdés szerinti adóalapra számítva 289 900 forint.
 
-(6) A magánfőzés keretében a magánfőző által évente 50 litert meghaladó mennyiségben előállított párlat, valamint a magánfőző által előállított 50 liter mennyiségen belül a 9. § (3) bekezdés rendelkezése alá nem eső párlat adója az (1) bekezdés szerinti adóalapra számítva 276 100 forint.
+(6) A magánfőzés keretében a magánfőző által évente 50 litert meghaladó mennyiségben előállított párlat, valamint a magánfőző által előállított 50 liter mennyiségen belül a 9. § (3) bekezdés rendelkezése alá nem eső párlat adója az (1) bekezdés szerinti adóalapra számítva 289 900 forint.
 
 (7) Egy tárgyéven belül a természetes személy vagy bérfőzetőként vagy magánfőzőként jogosult párlatot előállíttatni, illetve előállítani, és egy háztartáson belül vagy csak bérfőzetőként vagy csak magánfőzőként lehet előállíttatni, illetve előállítani párlatot.
 
@@ -1828,7 +1828,7 @@ terméket kell érteni.
 
 68. § (1) Adómentes felhasználás az alkoholterméknek a felhasználása
 
-- a) a külön jogszabályban meghatározott hatóság által forgalomba hozatalra engedélyezett gyógyszerek, továbbá a gyógyszeranyagok, gyógyszeripari intermedierek külön jogszabály szerinti engedéllyel végzett ipari előállításához (beleértve e termékek gyártóberendezéseinek a technológiai előírásokban rögzített tisztítási eljárásához való felhasználást is), nem értve ide a 2207 vámtarifaszámú alkoholtermék és a víz keverékének előállítását, kiszerelését,
+- a) a külön jogszabályban meghatározott hatóság által forgalomba hozatalra engedélyezett gyógyszerek, valamint a külön jogszabály szerint nyilvántartásba vett, gyógyszernek nem minősülő gyógyhatású készítmények (a szájon át fogyasztható alkoholtartalmú termékek esetében 40 ml-t meg nem haladó összes napi fogyasztási dózisnak megfelelő összetételben előállított készítmények), továbbá a gyógyszeranyagok, gyógyszeripari intermedierek külön jogszabály szerinti engedéllyel végzett ipari előállításához (beleértve e termékek gyártóberendezéseinek a technológiai előírásokban rögzített tisztítási eljárásához való felhasználást is), ide nem értve a 2207 vámtarifaszámú alkoholtermék és a víz keverékének előállítását, kiszerelését,
 - b) a 2209 vámtarifaszám alá tartozó ecet, az élelmiszerek, az 1,2 térfogatszázaléknál nem magasabb alkoholtartalmú italok aromáinak, illetve egyéb, a 1302 19 30, a 2106 90 20 és a 3302 vámtarifaszám alá tartozó aromák vagy – a c) pontban megjelölt csokoládék előállítása céljára – alkoholos gyümölcs gyártásához,
 - c) a legfeljebb 8,5 liter tisztaszesz/100 kg alkoholtartalmú csokoládék vagy – az alkoholtartalmú italok kivételével – a legfeljebb 5 liter tisztaszesz/100 kg alkoholtartalmú más élelmiszerek gyártásához,
 - d) denaturálva vegyipari és kozmetikai termékek, illetve más, nem emberi fogyasztásra szolgáló termék előállításához.
@@ -2010,8 +2010,8 @@ követő napon köteles a felhelyezés, a fogadás, a beszállítás, illetve a 
 
 (3) Az adó hektoliterre vetítve
 
-- a) Balling- (Plató-) fokonként 633 forint,
-- b) alkoholfokonként 1400 forint.
+- a) Balling-(Plató-) fokonként 665 forint,
+- b) alkoholfokonként 1470 forint.
 
 ### Adómentes felhasználás
 
@@ -2078,7 +2078,7 @@ de adóraktáranként, illetve a több adóraktárral rendelkező engedélyes es
 
 80. § (1) Az adó alapja a bor mennyisége, hektoliterben mérve.
 
-(2) Az adó mértéke hektoliterenként a szőlőborra 0 forint, az egyéb borra 9400 forint.
+(2) Az adó mértéke hektoliterenként a szőlőborra 0 forint, az egyéb borra 9870 forint.
 
 (3) Adómentes
 
@@ -2211,7 +2211,7 @@ adható.
 
 89. § (1) Az adó alapja a pezsgő mennyisége, hektoliterben mérve.
 
-(2) Az adó mértéke hektoliterenként 14 250 forint.
+(2) Az adó mértéke hektoliterenként 14 960 forint.
 
 ### Adómentes felhasználás
 
@@ -2259,7 +2259,7 @@ adható.
 
 93. § (1) Az adó alapja a köztes alkoholtermék mennyisége, hektoliterben mérve.
 
-(2) Az adó mértéke hektoliterenként 22 100 forint.
+(2) Az adó mértéke hektoliterenként 23 200 forint.
 
 ### Köztes alkoholtermék adóraktár
 
@@ -2308,10 +2308,10 @@ kell tekinteni.
 
 (2) Az adó mértéke
 
-- a) a cigarettára 9750 forint ezer darabonként és a kiskereskedelmi eladási ár 28,4 százaléka, de legalább 18 080 forint/ezer darab,
-- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 28,5 százaléka;
-- c) a finomra vágott fogyasztási dohányra a kiskereskedelmi eladási ár 52 százaléka, de legalább 7860 forint/kilogramm,
-- d) és az egyéb fogyasztási dohányra a kiskereskedelmi eladási ár 32,5 százaléka, de legalább 7860 forint/kilogramm.
+- a) a cigarettára 10 550 forint ezer darabonként és a kiskereskedelmi eladási ár 28,4 százaléka, de legalább 19 530 forint/ezer darab,
+- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 28,5 százaléka,
+- c) a finomra vágott fogyasztási dohányra a kiskereskedelmi eladási ár 52 százaléka, de legalább 8790 forint/kilogramm,
+- d) és az egyéb fogyasztási dohányra a kiskereskedelmi eladási ár 32,5 százaléka, de legalább 8790 forint/kilogramm.
 
 (3) A tételes adómérték alapjaként a cigaretta darabszámát kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de rövidebb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – 11 centiméter vagy annál nagyobb, de rövidebb, mint 14 centiméter, és így tovább.
 
@@ -2344,7 +2344,14 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 (6) A fizetési kötelezettség halasztására jogosult az adóraktár engedélyese, a bejegyzett kereskedő és az importáló, amennyiben biztosítékot nyújt. A dohánygyártmány adóraktár engedélyese által a 100. § szerint nyújtott jövedéki biztosíték a halasztott fizetési kötelezettség biztosítékaként figyelembe veendő azzal, hogy az adóraktárába betárolásra kerülő, más tagállamban gyártott dohánygyártmányra általa átvett adójegy utáni fizetési kötelezettségre külön jövedéki biztosítékot kell nyújtani a 24. § (7) bekezdése szerint meghatározott összegben, de figyelembe véve a 19. § (2) bekezdésének a dohánygyártmányokra vonatkozó rendelkezését is. A 24. § (1) bekezdés szerinti bejegyzett kereskedő által a 24. § (7) bekezdése szerint nyújtott jövedéki biztosíték a halasztott fizetési kötelezettség biztosítékának minősül. Az importáló és az eseti bejegyzett kereskedő a fizetési kötelezettség halasztására abban az esetben jogosult, ha az átvett adójegy értékének megfelelő nagyságú biztosítékot nyújt.
 
-(7) A halasztott fizetési kötelezettséget a tárgyhóban átvett adójegyekre a tárgyhónapot követő második hónap 25. napjáig kell teljesíteni.
+(7) A halasztott fizetési kötelezettséget a tárgyhóban átvett adójegyek vonatkozásában
+
+- a) havonta legfeljebb kétmilliárd forint összeghatárig a tárgyhónapot követő második hónap huszonötödik napjáig,
+- b) az a) pontban írt összeghatárt meghaladó összegre a tárgyhónapot követő hónap tizenötödik napjáig
+
+kell teljesíteni.
+
+E bekezdés alkalmazása során az adóalany által a tárgyhóban különböző időpontokban átvett adójegyei után fizetendő adóösszeget együttesen kell figyelembe venni úgy, hogy ha az adóalany összesített halasztott fizetési kötelezettsége a tárgyhóban meghaladja a kétmilliárd forintot, akkor a kétmilliárd forintot meghaladó összegre az adóalany halasztott fizetési kötelezettsége már a b) pontban foglaltak szerint alakul.
 
 (8) Az adóraktár engedélyesének és a bejegyzett kereskedőnek havonta el kell számolnia – a külön jogszabály rendelkezései szerint – az átvett adójegy mennyiségével.
 
@@ -2364,32 +2371,14 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 (17)
 
-98/A. § (1) Az adóraktár engedélyese és a 24. § (1) bekezdés szerinti bejegyzett kereskedő havonta nem rendelhet és részére a vámhatóság nem adhat ki a cigarettára és a fogyasztási dohányra
+98/A. § (1) A dohánygyártmány az adómérték változásának hatálybalépését követően csak az új adómértéknek megfelelő adójeggyel bocsátható szabad forgalomba, illetve importálható a szabad forgalom számára és hozható be más tagállamból.
 
-- a) minden év szeptember 1-jétől december 31-éig tartó időszakában, illetve
-- b) ha az adó mértéke január 1-jétől eltérő időpontban emelkedik, akkor az új adómérték hatálybalépését megelőző 4 hónapban – amennyiben ennél az új adómérték kihirdetése és hatálybalépése közötti időszak rövidebb, ez utóbbi időszak alatt – is [a továbbiakban a) és b) pont: referencia-időszak] a (2) bekezdésben meghatározottnál több adójegyet.
+(2) Adómérték-változás hatálybalépését követő
 
-(2) A referencia-időszakban havonta rendelhető adójegyek mennyisége nem lehet több, mint
+- a) 30. napon túl a jövedéki engedélyes kereskedő, az importáló
+- b) 60. napon túl a nem jövedéki engedélyes kereskedő kizárólag a hatályos adómértéknek megfelelő adójeggyel ellátott dohánygyártmányt értékesíthet, birtokolhat.
 
-- a) – az (1) bekezdés a) pont esetén – az adott év első 8 hónapjában,
-- b) – az (1) bekezdés b) pont esetén – a referencia-időszak kezdő hónapját megelőző 12 hónap közül a (3) bekezdés szerinti 10 hónapban [a továbbiakban a) és b) pont: bázisidőszak] az adóraktár engedélyese és a 24. § (1) bekezdés szerinti bejegyzett kereskedő által átvett és a bázisidőszakban visszahozott adójegyekkel csökkentett adójegyek mennyiségéből a bázisidőszakra számított egyhavi átlag 1,1-szerese a cigaretta esetében, illetve 1,15-szöröse a fogyasztási dohány esetében.
-
-(3) A (2) bekezdés b) pont esetében a 10 hónapot a referencia-időszak kezdő hónapját megelőző 12 hónapból annak a 2 hónapnak a figyelmen kívül hagyásával kell meghatározni, amely 2 hónapban a legnagyobb volt az adójegyek (2) bekezdés szerint meghatározott mennyisége.
-
-(4) Abban az esetben is a (2) bekezdés b) pont rendelkezését kell alkalmazni, ha az (1) bekezdés b) pont szerinti esetben a referencia-időszak egyes hónapjai az (1) bekezdés a) pont szerinti referencia-időszakba esnek.
-
-(5) Az (1)–(4) bekezdés rendelkezéseit az importáló és az eseti bejegyzett kereskedő esetében is alkalmazni kell azzal az eltéréssel, hogy
-
-- a) az átvett adójegyek egyhavi átlagát a bázisidőszak azon hónapjaira kell számítani, amelyben az importáló, illetve az eseti bejegyzett kereskedő adójegyet vett át,
-- b) amennyiben az a) pont szerinti hónapok száma az (1) bekezdés b) pont szerinti esetben kisebb, mint négy, a (3) bekezdés rendelkezését nem kell alkalmazni.
-
-(6) Amennyiben az adóraktár engedélyese, a bejegyzett kereskedő és az importáló (a továbbiakban együtt: adójegy-felhasználó) a tevékenységét az új adómérték kihirdetésének hónapját megelőző 12 hónapnál rövidebb, de 6 hónapnál hosszabb ideig folytatta, a referencia-időszakban rendelhető, illetve kiadható adójegy mennyiségének meghatározásához figyelembe veendő egyhavi átlagot ezen időszakra vonatkozóan kell a (2)–(5) bekezdés rendelkezéseinek értelemszerű alkalmazásával megállapítani. Amennyiben az adójegy-felhasználó a tevékenységét az új adómérték kihirdetésének hónapját megelőzően 6 hónapot meg nem haladó ideig folytatta, vagy tevékenységét az új adómérték kihirdetését követően kezdte meg, számára a vámhatóság a referencia-időszakban nem adhat ki több adójegyet, mint a legalább 12 hónapja működő adójegy-felhasználók esetében számított kiadható mennyiségek közül a legkisebb mennyiség.
-
-(6a) Vis maior helyzetben a vámhatóság kérelemre engedélyezheti a referencia-időszakban a (2) bekezdésben meghatározottnál több – kizárólag a vis maior által érintett mennyiségű, fajtájú és kiskereskedelmi eladási árú – adójegy megrendelését és kiadását.
-
-(7) A dohánygyártmány az adómérték változásának hatálybalépését követően csak az új adómértéknek megfelelő adójeggyel bocsátható szabad forgalomba, illetve importálható a szabad forgalom számára és hozható be más tagállamból.
-
-(8) A más tagállamból beszerzett dohánygyártmányra az adójegyet a bejegyzett kereskedőnek legkésőbb a dohánygyártmány fogadásának napján kell átvennie, és legkésőbb a dohánygyártmány fogadásának napját követő öt munkanapon belül kell felhelyeznie.
+(3) A más tagállamból beszerzett dohánygyártmányra az adójegyet a bejegyzett kereskedőnek legkésőbb a dohánygyártmány fogadásának napján kell átvennie, és legkésőbb a dohánygyártmány fogadásának napját követő öt munkanapon belül kell felhelyeznie.
 
 99. § (1) Az adójegyet a dohánygyártmányok egyedi fogyasztói csomagolási egységére oly módon kell felragasztani, hogy sérülésmentesen ne legyen eltávolítható és a csomagolás kinyitásakor eltépődjön.
 
@@ -2405,8 +2394,8 @@ kell érteni.
 (3) Az adójegy tartalmazza
 
 - a) a dohánygyártmány megnevezését (cigaretta, szivar, szivarka, finomra vágott fogyasztási dohány, egyéb fogyasztási dohány),
-- b) a dohánygyártmány egyedi fogyasztói csomagolási egységben foglalt mennyiségét (darab, kilogramm),
-- c) az egyedi fogyasztói csomag kiskereskedelmi eladási árát,
+- b) a dohánygyártmány fogyasztói csomagolási egységben foglalt mennyiségét (darab, kilogramm) – darabonként csomagolt szivar kivételével –,
+- c) a fogyasztói csomag kiskereskedelmi eladási árát,
 - d) az adójegy sorszámát, valamint
 - e) annak – külön jogszabályban foglalt módon való – jelölését, hogy az adójegy által képviselt fizetési kötelezettség milyen időpontban hatályba lépett (lépő) adómérték alapján került meghatározásra.
 
@@ -2915,6 +2904,8 @@ lefoglalja.
 
 120. § (1) A lefoglalt termékeket, zárjegyet, továbbá a 119. § (2) bekezdésének e)–f) pontjában említett eszközt el kell kobozni, ha a jövedéki ügyben jogerősen jövedéki bírság kerül kiszabásra.
 
+(1a) A 98/A. § (1) vagy (2) bekezdésében foglalt előírások megsértésével szabadforgalomba bocsátott, importált, más tagállamból behozott, értékesített, birtokolt dohánygyártmányt el kell kobozni, ha a kötelezettség megsértése miatt mulasztási bírság kerül kiszabásra.
+
 (2) A felhasználásra, tárolásra és szállításra használt eszközt a (3) bekezdésben foglaltakra tekintet nélkül el kell kobozni, ha azon a jövedéki törvénysértés elkövetését célzó átalakítást végeztek.
 
 (3) A felhasználásra, tárolásra és szállításra használt, a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a jogerősen kiszabott adót, jövedéki bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított öt munkanapon belül benyújtott kérelem alapján – nem engedélyeztek.
@@ -3099,11 +3090,13 @@ határozatban állapítja meg az adót.
 
 (5) Amennyiben e törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/C. § (2)–(3) bekezdése szerinti jogosult az adóvisszaigénylési jogosultságát 2011. első negyedévére is érvényesíteni kívánja, akkor e törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/C. § (2) bekezdése szerinti nyilvántartásba vételi kérelmet legkésőbb 2011. február 15-éig kell benyújtania a vámhatósághoz.
 
+128/D. § E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 57/C. § (1) bekezdésének rendelkezéseit azokban az esetekben kell alkalmazni először, amelyekben az adó-visszaigénylési jogosultság 2011. november 1. napján vagy azt követően keletkezik.
+
 ### Felhatalmazás
 
 129. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg
 
-- a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, a gyep, a halastó művelési ágban, valamint az erdőfelújításban felhasznált, de évente hektáronként legfeljebb 97 liter gázolaj jövedéki adója 80 százalékának a külön jogszabály szerint nyilvántartásba vett mezőgazdasági termelő részére történő visszatérítését, a visszatérítés feltételeit és szabályait,
+- a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, a gyep, a halastó művelési ágban, valamint az erdőfelújításban felhasznált, de évente hektáronként legfeljebb 97 liter gázolaj jövedéki adója 82 százalékának a külön jogszabály szerint nyilvántartásba vett mezőgazdasági termelő részére történő visszatérítését, a visszatérítés feltételeit és szabályait,
 - b)
 - c) a központi kapcsolattartó szerv, a vegyvizsgáló szerv vagy szervek, valamint a csomagküldő kereskedő nyilvántartásba vételét végző szerv kijelölését.
 

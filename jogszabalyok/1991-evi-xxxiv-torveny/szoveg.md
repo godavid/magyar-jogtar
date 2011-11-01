@@ -295,6 +295,8 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 26. § (1) Pénznyerő automatának minősül a tétfizetés fejében játék céljára alkalmas mechanikusan vagy elektronikusan vezérelt berendezés, ha nyerés esetén a játékos bármely formában vagyoni értékű nyereményre válhat jogosulttá. Az állami adóhatóság dönt abban a kérdésben, hogy valamely berendezés pénznyerő automatának minősül-e.
 
+(1a) Szerver alapú pénznyerő automatának minősül az a pénznyerő automata, amely az internet mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és melynek játékprogramja a központi szerveren egy zárt, ellenőrzött rendszeren működik, a hozzá csatlakoztatott gépek (műszaki egységek) pedig a játékteremben, játékkaszinóban találhatók.
+
 (2) Az állami adóhatóság az engedélyben a pénznyerő automatát I. vagy II. kategóriába sorolja:
 
 - a) I. kategóriába tartozó pénznyerő automatának az a berendezés minősül, amely 1. 100 000 játékonként az összes tét legalább 80%-át nyereményként kiadja, 2. az e kategóriára jogszabályban előírt szempontok alapján hitelesíthető, és 3. biztosítja, hogy egy tét megtételével, egy játék alkalmával — a játékkaszinóban elhelyezett pénznyerő automatát kivéve — a nyeremény a tét kétszázszorosát nem haladja meg;
@@ -355,6 +357,12 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 (20) A játékteremben jackpot rendszer üzemeltethető. Jackpot rendszerbe kizárólag ugyanabban a játékteremben üzemelő I. kategóriába sorolt pénznyerő automaták köthetők.
 
 (21) A szerencsejáték-szervező negyedévenként pénznyerő automata kategóriánként elkülönített időszaki elszámolást készít az állami adóhatóság részére, amelyet a negyedévet követő hónap tizenötödik és utolsó napja között köteles gépi adathordozón benyújtani.
+
+(22) Az I. kategóriába tartozó játékteremben és a II. kategóriába tartozó játékteremben – az (5) bekezdésben foglalt korlátozás figyelembe vételével – kizárólag szerver alapú pénznyerő automata üzemeltethető.
+
+(23) Az elektronikus kaszinóban szerver alapú pénznyerő automata is üzemeltethető. Az elektronikus kaszinóban üzemeltetett pénznyerő automata ellenőrző készülékét abban az esetben is online kapcsolati módon a szerver alapú pénznyerő automatákat üzemeltető szerverhez kell csatlakoztatni, ha a pénznyerő automata nem minősül szerver alapú pénznyerő automatának.
+
+(24) Szerver alapú pénznyerő automatákat üzemeltető szerver működtetésére – az e törvényben és külön jogszabályban a pénznyerő automata üzemeltetésére előírt feltételek teljesítésén túl – engedély annak a Magyarországon bejegyzett székhellyel, legalább 50 millió forint jegyzett tőkével, magyar állampolgár vezető tisztségviselővel rendelkező gazdasági társaságnak adható, amelynek tagja (részvényese) a kérelem benyújtását megelőzően legalább 10 éven át Magyarországon szerencsejáték szervezésével foglalkozott és egyébként megfelel az e törvényben előírt feltételeknek.
 
 26/A. § Ha megállapítást nyer, hogy az üzletben engedély nélkül pénznyerő automatát működtetnek, akkor a települési önkormányzat jegyzője köteles az üzletet legalább 30 napra – ismételt jogsértés esetén legalább 90 napra – ideiglenesen bezáratni.
 
@@ -524,24 +532,30 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 ### Pénznyerő- és játékautomaták játékadója
 
-33. § (1) A pénznyerő automata játékadója játékhelyenként – a játékkaszinóban üzemeltetett pénznyerő automata kivételével – az I. és II. kategóriájú játékteremben üzemelő pénznyerő automata esetén havonta 100 000 forint, az elektronikus kaszinóban üzemeltetett pénznyerő automata esetén havonta 120 000 forint. A játékadót minden megkezdett hónap után meg kell fizetni.
+33. § (1) A pénznyerő automata tételes játékadója játékhelyenként – a játékkaszinóban üzemeltetett pénznyerő automata kivételével – az I. és II. kategóriájú játékteremben üzemelő pénznyerő automata esetén havonta 500 000 forint, az elektronikus kaszinóban üzemeltetett pénznyerő automata esetén havonta 700 000 forint. A tételes játékadót minden megkezdett hónap után meg kell fizetni.
 
-(2) A pénznyerő automata üzemeltetése után nem kell játékadót fizetni, ha az állami adóhatóság megállapította, hogy
+(2) A pénznyerő automata üzemeltetője (szerencsejáték-szervező) negyedévente százalékos mértékű játékadó fizetésére is köteles, ha a pénznyerő automata tiszta játékbevétele a tárgynegyedévben a 900 000 forintot eléri vagy meghaladja. A százalékos mértékű játékadó a pénznyerő automata tárgynegyedévi tiszta játékbevétele 900 000 forintot meghaladó részének 20%-a. Több játékhellyel működtetett pénznyerő automata esetén a 900 000 forint és a játékhelyek számának szorzatát kell a százalékos mértékű játékadó-fizetési kötelezettség keletkezését jelentő összeghatár számításánál figyelembe venni.
+
+(3) A (2) bekezdés alkalmazásában tárgynegyedéven belül törtidőszaki üzemeltetés esetén a százalékos mértékű játékadó-fizetési kötelezettség keletkezését jelentő összeghatár arányos részét kell figyelembe venni azzal, hogy egy üzemeltetéssel érintett naptári napra a százalékos mértékű játékadó-fizetési kötelezettség keletkezését jelentő összeghatár kilencvened részét kell alapul venni. A (2) bekezdés rendelkezéseit játékkaszinóban üzemeltetett pénznyerő automatára nem lehet alkalmazni.
+
+(4) A pénznyerő automata üzemeltetése után nem kell az (1)–(3) bekezdésben meghatározott játékadót fizetni, ha az állami adóhatóság megállapította, hogy
 
 - a) a pénznyerő automata megsemmisült, vagy tartósan üzemképtelenné vált,
 - b) a jogszabály szerinti üzemeltetés nem lehetséges.
 
-(3) A pénznyerő automaták játékadójára az adózás rendjéről szóló törvény rendelkezéseit a következő eltérésekkel kell alkalmazni:
+(5) A pénznyerő automaták tételes játékadójára az adózás rendjéről szóló törvény rendelkezéseit a következő eltérésekkel kell alkalmazni:
 
-- a) a szerencsejáték-szervező a játékadót havonta köteles bevallani;
-- b) a játékadó befizetése a bevallással egy időben esedékes;
-- c) a pénznyerő automata játékadójára részletfizetés vagy fizetési halasztás nem engedélyezhető.
+- a) a szerencsejáték-szervező a tételes játékadót havonta köteles bevallani;
+- b) a tételes játékadó befizetése a bevallással egy időben esedékes;
+- c) a pénznyerő automata tételes játékadójára részletfizetés vagy fizetési halasztás nem engedélyezhető.
 
-(4)
+(6) A százalékos mértékű játékadóra az adózás rendjéről szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a pénznyerő automata üzemeltetője (szerencsejáték-szervező) a százalékos mértékű játékadót negyedévente vallja be az állami adóhatósághoz az adó egyidejű megfizetése mellett. A százalékos mértékű játékadóra részletfizetés vagy fizetési halasztás nem engedélyezhető.
 
-(5) Az adóbefizetési kötelezettség elmulasztása esetén az állami adóhatóság a szerencsejáték-szervező engedélyeit köteles visszavonni. Ez a határozat a jogorvoslatra tekintet nélkül azonnal végrehajtható.
+(7) Az adófizetési kötelezettség elmulasztása esetén az állami adóhatóság a szerencsejáték-szervező engedélyeit köteles visszavonni. Ez a határozat a jogorvoslatra tekintet nélkül azonnal végrehajtható.
 
-(6) A szerencsejáték-szervező játékadó-fizetési kötelezettsége a pénznyerő automata üzemeltetésére jogosító engedély átvételét követő naptól keletkezik.
+(8) A szerencsejáték-szervező játékadó-fizetési kötelezettsége a pénznyerő automata üzemeltetésére jogosító engedély átvételét követő naptól keletkezik.
+
+(9) A szerver alapú pénznyerő automata esetén a szerencsejáték szervező mentesül az (1)–(3) bekezdésben meghatározott játékadó megfizetésének kötelezettsége alól, helyette a tiszta játékbevétel 33%-nak megfizetésére köteles.
 
 33/A. § (1) A játékautomata éves adója gépenként 60 000 forint. A játékautomata üzemeltetője köteles az első féléves adóösszeget a gép nyilvántartásba vétele iránti kérelem benyújtását megelőzően, a további időszakokra vonatkozó adóösszeget pedig félévente előre bevallani, és ezzel egyidejűleg megfizetni. Ha a nyilvántartásba vétel a hitelesítési bizonyítvány érvényessége miatt nem lehetséges teljes 6 hónapra, akkor a játékadó arányos részét kell bevallani és megfizetni.
 
@@ -641,15 +655,24 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - c) a játéktervvel,
 - d) a sorsolásos játékokkal és a fogadásokkal,
 - e) a pénznyerő automaták, játékautomaták, játéktermek, kártyatermek és játékkaszinók üzemeltetésével, a játéktermek szüneteltetésével, valamint
-- f)
+- f) szerver alapú pénznyerő automata üzemeltetésének és a szerver alapú pénznyerő automatákat üzemeltető szerver működtetésének, valamint az állami adóhatóság által felügyelt központi adatbázis részletes személyi, pénzügyi, műszaki, informatikai feltételeit;
 - g) a szerencsejátékok szervezésének engedélyezéséért, ellenőrzéséért, illetve az állami adóhatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjakkal,
-- h) a szerencsejátékra vonatkozó koncessziós eljárással, így különösen a Pályázati Értékelő Bizottság létrehozásával, összetételével és eljárásával. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak jogszabályban történő megállapítására.
+- h) a szerencsejátékra vonatkozó koncessziós eljárással, így különösen a Pályázati Értékelő Bizottság létrehozásával, összetételével és eljárásával,
+- i) a távszerencsejátékok szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival, kapcsolatos részletes szabályokat jogszabályban határozza meg. Felhatalmazást kap az agrárpolitikáért felelős miniszter a ló- és agárversenyzés szabályainak jogszabályban történő megállapítására.
 
 (3)
 
 (4) Felhatalmazást kap a miniszter és a kereskedelemért felelős miniszter, hogy rendeletben határozza meg azon vendéglátóipari üzletek körét, amelyben II. kategóriájú játékterem működtetésére engedély adható.
 
-39–40. §
+39. § (1) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 33. § (1), (4)–(5), (7)–(8) bekezdéseit első alkalommal 2011. november tárgyhónapra kell alkalmazni.
+
+(2) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 33. § (2), (3), (6) bekezdéseit 2012. január 1. napjától és első alkalommal a 2012. január–március tárgynegyedévre kell alkalmazni.
+
+40. § (1) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 2. §-a (4) bekezdésének b) és d) pontját és 2. §-a (5) és (8) bekezdését a 2012. január 1. napját követően megindított engedélyezési, illetve személyi megfelelőség megállapítására irányuló eljárásokban kell alkalmazni.
+
+(2) A 2011. december 31-én távszerencsejátéknak minősülő szerencsejáték szervezésére engedéllyel rendelkező szervező tevékenységét a részére kiadott engedély érvényességéig a korábbi jogszabályi feltételek és játékterv alapján végezheti.
+
+(3) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított Szjtv. 26. § (1a) bekezdését, 26. § (22), (23) és (24) bekezdését, 38. § (2) bekezdés f) pontját a 2011. október 31. napját követően indult eljárásokban kell alkalmazni. Az I. kategóriába tartozó játékteremben és a II. kategóriába tartozó játékteremben, valamint elektronikus kaszinóban pénznyerő automata üzemeltetésére 2011. november 1. napja előtt indult eljárásban kiadott engedélyek az Szjtv. 2011. december 31. napján hatályos rendelkezései szerint és az engedélyben foglalt időtartamban, de legfeljebb 2012. december 31. napjáig érvényesek és ezen engedélyek alapján a pénznyerő automaták az engedélyben foglaltak szerint üzemeltethetők.
 
 41. § (1)–(2)
 
