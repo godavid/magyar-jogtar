@@ -4,133 +4,39 @@ az államháztartás stabilitását elősegítő egyes adótörvények módosít
 
 #### 1. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló2003. évi CXXVII. törvény módosítása
 
-1. § A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 52. § (1) bekezdésének c)–d) pontja helyébe a következő rendelkezés lép:
+1. §
 
-[Az adó mértéke – figyelemmel a (3)–(4) bekezdés rendelkezéseire is –:]
+2. §
 
-„c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, fűtőanyag célú gázolajra 110 350 Ft/ezer liter,
+3. §
 
-d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra 110 350 Ft/ezer liter,”
+4. §
 
-2. § A Jöt. 57/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §
 
-„(1) A beszerzéskor megfizetett adóból
+6. §
 
-a) az üzemanyagtöltő-állomáson forgalmi rendszámra szóló üzemanyagkártyával megvásárolt,
+7. §
 
-b) a (2) bekezdés szerinti adó-visszaigénylésre jogosult magyarországi telephelyén üzemanyag-tárolásra rendszeresített – a tankolt mennyiséget rendszámonként, valamint a tankoló jármű kilométeróra állását rögzítő – üzemanyag-tankoló automatával ellátott üzemanyagtartályból elektronikus mérőeszközön keresztül betöltött
+8. §
 
-kereskedelmi gázolaj után literenként 19,50 Ft visszaigényelhető.”
-
-3. § (1) A Jöt. 64. § (2)–(3) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az adó mértéke a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről, és földrajzi jelzéseinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 110/2008/EK rendelet) II. mellékletében felsorolt termékek, valamint az olyan szeszes italok esetében, amelyek alkoholtartalma kizárólag a 110/2008/EK rendelet II. mellékletének 6. és 9. pontja szerinti termékből származik, és ízesítésükre mézet, vagy az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló 2008. december 16-i 1334/2008/EK európai parlamenti és tanácsi rendelet 3. cikke (2) bekezdésének c) és d) pontjaiban meghatározott aroma anyagot használnak, – a (3) bekezdésben foglalt eltéréssel – az (1) bekezdés szerinti adóalapra 289 900 forint, egyéb szeszes italok esetében 414 150 Ft.
-
-(3) A szeszfőzdében bérfőzés keretében, a bérfőzető alapanyagából előállított párlat (a továbbiakban: bérfőzött párlat) adója az (1) bekezdés szerinti adóalapra számítva egy bérfőzető részére évente
-
-a) legfeljebb 50 liter mennyiségig 0 forint,
-
-b) az 50 litert meghaladó mennyiségre 289 900 forint.”
-
-(2) A Jöt. 64. § (5)–(6) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A (3) bekezdésben foglaltaktól eltérően az eladásra szánt bérfőzött párlat – kivéve az alkoholtermék-adóraktár engedélyese részére értékesítésre kerülő bérfőzött párlatot – adója az (1) bekezdés szerinti adóalapra számítva 289 900 forint.
-
-(6) A magánfőzés keretében a magánfőző által évente 50 litert meghaladó mennyiségben előállított párlat, valamint a magánfőző által előállított 50 liter mennyiségen belül a 9. § (3) bekezdés rendelkezése alá nem eső párlat adója az (1) bekezdés szerinti adóalapra számítva 289 900 forint.”
-
-4. § A Jöt. 68. §-a (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
-
-[Adómentes felhasználás az alkoholterméknek a felhasználása]
-
-„a) a külön jogszabályban meghatározott hatóság által forgalomba hozatalra engedélyezett gyógyszerek, valamint a külön jogszabály szerint nyilvántartásba vett, gyógyszernek nem minősülő gyógyhatású készítmények (a szájon át fogyasztható alkoholtartalmú termékek esetében 40 ml-t meg nem haladó összes napi fogyasztási dózisnak megfelelő összetételben előállított készítmények), továbbá a gyógyszeranyagok, gyógyszeripari intermedierek külön jogszabály szerinti engedéllyel végzett ipari előállításához (beleértve e termékek gyártóberendezéseinek a technológiai előírásokban rögzített tisztítási eljárásához való felhasználást is), ide nem értve a 2207 vámtarifaszámú alkoholtermék és a víz keverékének előállítását, kiszerelését,”
-
-5. § A Jöt. 76. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az adó hektoliterre vetítve
-
-a) Balling-(Plató-) fokonként 665 forint,
-
-b) alkoholfokonként 1470 forint.”
-
-6. § A Jöt. 80. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az adó mértéke hektoliterenként a szőlőborra 0 forint, az egyéb borra 9870 forint.”
-
-7. § A Jöt. 89. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az adó mértéke hektoliterenként 14 960 forint.”
-
-8. § A Jöt. 93. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az adó mértéke hektoliterenként 23 200 forint.”
-
-9. § A Jöt. 97. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az adó mértéke
-
-a) a cigarettára 10 550 forint ezer darabonként és a kiskereskedelmi eladási ár 28,4 százaléka, de legalább 19 530 forint/ezer darab,
-
-b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 28,5 százaléka,
-
-c) a finomra vágott fogyasztási dohányra a kiskereskedelmi eladási ár 52 százaléka, de legalább 8790 forint/kilogramm,
-
-d) és az egyéb fogyasztási dohányra a kiskereskedelmi eladási ár 32,5 százaléka, de legalább 8790 forint/kilogramm.”
+9. §
 
 10. §
 
 11. §
 
-12. § A Jöt 98. § (7) bekezdése helyébe a következő rendelkezés lép:
+12. §
 
-„(7) A halasztott fizetési kötelezettséget a tárgyhóban átvett adójegyek vonatkozásában
+13. §
 
-a) havonta legfeljebb kétmilliárd forint összeghatárig a tárgyhónapot követő második hónap huszonötödik napjáig,
+14. §
 
-b) az a) pontban írt összeghatárt meghaladó összegre a tárgyhónapot követő hónap tizenötödik napjáig
+15. §
 
-kell teljesíteni.
+16. §
 
-E bekezdés alkalmazása során az adóalany által a tárgyhóban különböző időpontokban átvett adójegyei után fizetendő adóösszeget együttesen kell figyelembe venni úgy, hogy ha az adóalany összesített halasztott fizetési kötelezettsége a tárgyhóban meghaladja a kétmilliárd forintot, akkor a kétmilliárd forintot meghaladó összegre az adóalany halasztott fizetési kötelezettsége már a b) pontban foglaltak szerint alakul.”
-
-13. § A Jöt. 98/A. §-a helyébe a következő rendelkezés lép:
-
-„98/A. § (1) A dohánygyártmány az adómérték változásának hatálybalépését követően csak az új adómértéknek megfelelő adójeggyel bocsátható szabad forgalomba, illetve importálható a szabad forgalom számára és hozható be más tagállamból.
-
-(2) Adómérték-változás hatálybalépését követő
-
-a) 30. napon túl a jövedéki engedélyes kereskedő, az importáló
-
-b) 60. napon túl a nem jövedéki engedélyes kereskedő kizárólag a hatályos adómértéknek megfelelő adójeggyel ellátott dohánygyártmányt értékesíthet, birtokolhat.
-
-(3) A más tagállamból beszerzett dohánygyártmányra az adójegyet a bejegyzett kereskedőnek legkésőbb a dohánygyártmány fogadásának napján kell átvennie, és legkésőbb a dohánygyártmány fogadásának napját követő öt munkanapon belül kell felhelyeznie.”
-
-14. § A Jöt. 99. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az adójegy tartalmazza
-
-a) a dohánygyártmány megnevezését (cigaretta, szivar, szivarka, finomra vágott fogyasztási dohány, egyéb fogyasztási dohány),
-
-b) a dohánygyártmány fogyasztói csomagolási egységben foglalt mennyiségét (darab, kilogramm) – darabonként csomagolt szivar kivételével –,
-
-c) a fogyasztói csomag kiskereskedelmi eladási árát,
-
-d) az adójegy sorszámát, valamint
-
-e) annak – külön jogszabályban foglalt módon való – jelölését, hogy az adójegy által képviselt fizetési kötelezettség milyen időpontban hatályba lépett (lépő) adómérték alapján került meghatározásra.”
-
-15. § A Jöt. 120. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A 98/A. § (1) vagy (2) bekezdésében foglalt előírások megsértésével szabadforgalomba bocsátott, importált, más tagállamból behozott, értékesített, birtokolt dohánygyártmányt el kell kobozni, ha a kötelezettség megsértése miatt mulasztási bírság kerül kiszabásra.”
-
-16. § A Jöt. a következő 128/D. §-sal egészül ki:
-
-„128/D. § E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 57/C. § (1) bekezdésének rendelkezéseit azokban az esetekben kell alkalmazni először, amelyekben az adó-visszaigénylési jogosultság 2011. november 1. napján vagy azt követően keletkezik.”
-
-17. § A Jöt. 129. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg]
-
-„a) a mezőgazdasági ágazatban a szántó, a kert, a gyümölcsös, a szőlő, a gyep, a halastó művelési ágban, valamint az erdőfelújításban felhasznált, de évente hektáronként legfeljebb 97 liter gázolaj jövedéki adója 82 százalékának a külön jogszabály szerint nyilvántartásba vett mezőgazdasági termelő részére történő visszatérítését, a visszatérítés feltételeit és szabályait,”
+17. §
 
 #### 2. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
@@ -208,17 +114,7 @@ c) a szolgáltatás Magyarország területén lévő igénybe vevők felé irán
 
 „(7) Ha a szerencsejáték-szervező a személyi megfelelőség meghosszabbítása iránti kötelezettségének jogszabályban meghatározott határidőben nem tesz eleget, vagy személyi megfelelősége nem áll fenn, az állami adóhatóság a szerencsejáték-szervező részére kiállított engedélyek érvénytelenségét és a szerencsejáték-szervezői tevékenység megszűnését megállapítja. Az állami adóhatóság a szerencsejáték-szervezői tevékenység megszűnéséig benyújtott engedély iránti kérelmek alapján indult eljárásokat megszünteti. A személyi megfelelőség hivatalból indult vizsgálata esetében a 2. § (4) bekezdésének d) pontjában és a 2. § (5) bekezdésében meghatározott időtartamokat az eljárás hivatalból történő megindításától kell számítani.”
 
-24. § (1) Az Szjtv. 26. §-a a következő új (1a) bekezdéssel egészül ki:
-
-„(1a) Szerver alapú pénznyerő automatának minősül az a pénznyerő automata, amely az internet mint távközlési rendszer felhasználásával működtetett szerver alapú rendszerben üzemeltethető, és melynek játékprogramja a központi szerveren egy zárt, ellenőrzött rendszeren működik, a hozzá csatlakoztatott gépek (műszaki egységek) pedig a játékteremben, játékkaszinóban találhatók.”
-
-(2) Az Szjtv. 26. §-a a következő új (22)–(24) bekezdésekkel egészül ki:
-
-„(22) Az I. kategóriába tartozó játékteremben és a II. kategóriába tartozó játékteremben – az (5) bekezdésben foglalt korlátozás figyelembe vételével – kizárólag szerver alapú pénznyerő automata üzemeltethető.
-
-(23) Az elektronikus kaszinóban szerver alapú pénznyerő automata is üzemeltethető. Az elektronikus kaszinóban üzemeltetett pénznyerő automata ellenőrző készülékét abban az esetben is online kapcsolati módon a szerver alapú pénznyerő automatákat üzemeltető szerverhez kell csatlakoztatni, ha a pénznyerő automata nem minősül szerver alapú pénznyerő automatának.
-
-(24) Szerver alapú pénznyerő automatákat üzemeltető szerver működtetésére – az e törvényben és külön jogszabályban a pénznyerő automata üzemeltetésére előírt feltételek teljesítésén túl – engedély annak a Magyarországon bejegyzett székhellyel, legalább 50 millió forint jegyzett tőkével, magyar állampolgár vezető tisztségviselővel rendelkező gazdasági társaságnak adható, amelynek tagja (részvényese) a kérelem benyújtását megelőzően legalább 10 éven át Magyarországon szerencsejáték szervezésével foglalkozott és egyébként megfelel az e törvényben előírt feltételeknek.”
+24. §
 
 25. § Az Szjtv. az alábbi új 29/C. §-sal és azt megelőzően a következő címmel egészül ki:
 
@@ -250,35 +146,7 @@ c) a szolgáltatás Magyarország területén lévő igénybe vevők felé irán
 
 „(5) A távszerencsejátékok játékadója a tiszta játékbevétel 20 %-a.”
 
-27. § Az Szjtv. 33. §-a helyébe a következő rendelkezés lép:
-
-„33. § (1) A pénznyerő automata tételes játékadója játékhelyenként – a játékkaszinóban üzemeltetett pénznyerő automata kivételével – az I. és II. kategóriájú játékteremben üzemelő pénznyerő automata esetén havonta 500 000 forint, az elektronikus kaszinóban üzemeltetett pénznyerő automata esetén havonta 700 000 forint. A tételes játékadót minden megkezdett hónap után meg kell fizetni.
-
-(2) A pénznyerő automata üzemeltetője (szerencsejáték-szervező) negyedévente százalékos mértékű játékadó fizetésére is köteles, ha a pénznyerő automata tiszta játékbevétele a tárgynegyedévben a 900 000 forintot eléri vagy meghaladja. A százalékos mértékű játékadó a pénznyerő automata tárgynegyedévi tiszta játékbevétele 900 000 forintot meghaladó részének 20%-a. Több játékhellyel működtetett pénznyerő automata esetén a 900 000 forint és a játékhelyek számának szorzatát kell a százalékos mértékű játékadó-fizetési kötelezettség keletkezését jelentő összeghatár számításánál figyelembe venni.
-
-(3) A (2) bekezdés alkalmazásában tárgynegyedéven belül törtidőszaki üzemeltetés esetén a százalékos mértékű játékadó-fizetési kötelezettség keletkezését jelentő összeghatár arányos részét kell figyelembe venni azzal, hogy egy üzemeltetéssel érintett naptári napra a százalékos mértékű játékadó-fizetési kötelezettség keletkezését jelentő összeghatár kilencvened részét kell alapul venni. A (2) bekezdés rendelkezéseit játékkaszinóban üzemeltetett pénznyerő automatára nem lehet alkalmazni.
-
-(4) A pénznyerő automata üzemeltetése után nem kell az (1)–(3) bekezdésben meghatározott játékadót fizetni, ha az állami adóhatóság megállapította, hogy
-
-a) a pénznyerő automata megsemmisült, vagy tartósan üzemképtelenné vált,
-
-b) a jogszabály szerinti üzemeltetés nem lehetséges.
-
-(5) A pénznyerő automaták tételes játékadójára az adózás rendjéről szóló törvény rendelkezéseit a következő eltérésekkel kell alkalmazni:
-
-a) a szerencsejáték-szervező a tételes játékadót havonta köteles bevallani;
-
-b) a tételes játékadó befizetése a bevallással egy időben esedékes;
-
-c) a pénznyerő automata tételes játékadójára részletfizetés vagy fizetési halasztás nem engedélyezhető.
-
-(6) A százalékos mértékű játékadóra az adózás rendjéről szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a pénznyerő automata üzemeltetője (szerencsejáték-szervező) a százalékos mértékű játékadót negyedévente vallja be az állami adóhatósághoz az adó egyidejű megfizetése mellett. A százalékos mértékű játékadóra részletfizetés vagy fizetési halasztás nem engedélyezhető.
-
-(7) Az adófizetési kötelezettség elmulasztása esetén az állami adóhatóság a szerencsejáték-szervező engedélyeit köteles visszavonni. Ez a határozat a jogorvoslatra tekintet nélkül azonnal végrehajtható.
-
-(8) A szerencsejáték-szervező játékadó-fizetési kötelezettsége a pénznyerő automata üzemeltetésére jogosító engedély átvételét követő naptól keletkezik.
-
-(9) A szerver alapú pénznyerő automata esetén a szerencsejáték szervező mentesül az (1)–(3) bekezdésben meghatározott játékadó megfizetésének kötelezettsége alól, helyette a tiszta játékbevétel 33%-nak megfizetésére köteles.”
+27. §
 
 28. § Az Szjtv. 37. §-a a következő 23–25. ponttal egészül ki:
 
@@ -288,35 +156,17 @@ c) a pénznyerő automata tételes játékadójára részletfizetés vagy fizet�
 
 25. Biztosíték: EGT-állam területén székhellyel rendelkező hitelintézetnél vagy befektetési szolgáltatónál elhelyezett pénz vagy állampapír, EGT-állam területén székhellyel rendelkező hitelintézet által nyújtott bankgarancia és a biztosítási szerződés alapján kiállított kötelezvény.”
 
-29. § (1) Az Szjtv. 38. § (2) bekezdése f) pontja helyébe a következő rendelkezés lép:
+29. §
 
-„f) szerver alapú pénznyerő automata üzemeltetésének és a szerver alapú pénznyerő automatákat üzemeltető szerver működtetésének, valamint az állami adóhatóság által felügyelt központi adatbázis részletes személyi, pénzügyi, műszaki, informatikai feltételeit;”
-
-(2) Az Szjtv. 38. § (2) bekezdése a következő i) ponttal egészül ki:
-
-„i) a távszerencsejátékok szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és az állami adóhatóság feladataival,”
-
-30. § Az Szjtv. 38. §-át követően a következő új 39. és 40. §-sal egészül ki:
-
-„39. § (1) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 33. § (1), (4)–(5), (7)–(8) bekezdéseit első alkalommal 2011. november tárgyhónapra kell alkalmazni.
-
-(2) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 33. § (2), (3), (6) bekezdéseit 2012. január 1. napjától és első alkalommal a 2012. január–március tárgynegyedévre kell alkalmazni.”
-
-40. § (1) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 2. §-a (4) bekezdésének b) és d) pontját és 2. §-a (5) és (8) bekezdését a 2012. január 1. napját követően megindított engedélyezési, illetve személyi megfelelőség megállapítására irányuló eljárásokban kell alkalmazni.
-
-(2) A 2011. december 31-én távszerencsejátéknak minősülő szerencsejáték szervezésére engedéllyel rendelkező szervező tevékenységét a részére kiadott engedély érvényességéig a korábbi jogszabályi feltételek és játékterv alapján végezheti.
-
-(3) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított Szjtv. 26. § (1a) bekezdését, 26. § (22), (23) és (24) bekezdését, 38. § (2) bekezdés f) pontját a 2011. október 31. napját követően indult eljárásokban kell alkalmazni. Az I. kategóriába tartozó játékteremben és a II. kategóriába tartozó játékteremben, valamint elektronikus kaszinóban pénznyerő automata üzemeltetésére 2011. november 1. napja előtt indult eljárásban kiadott engedélyek az Szjtv. 2011. december 31. napján hatályos rendelkezései szerint és az engedélyben foglalt időtartamban, de legfeljebb 2012. december 31. napjáig érvényesek és ezen engedélyek alapján a pénznyerő automaták az engedélyben foglaltak szerint üzemeltethetők.”
+30. §
 
 31. § Az Szjtv. 26. §-ának (18) bekezdése és a 29/B. § (2) bekezdésének utolsó mondata hatályát veszti.
 
 #### 3. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-32. § Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) a következő új 188. §-sal egészül ki:
+32. §
 
-„188. § E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 2. számú melléklete 6. pontját 2012. január 1. napjától és első alkalommal a 2012. január–március tárgynegyedévre kell alkalmazni.”
-
-33. § Az Art. 2. számú melléklete e törvény 1. melléklete szerint módosul.
+33. §
 
 #### 4. Az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvény módosítása
 
@@ -423,11 +273,5 @@ c) a pénznyerő automata tételes játékadójára részletfizetés vagy fizet�
 (10)
 
 ### 1. melléklet a 2011. évi CXXV. törvényhez
-
-Az Art. 2. számú melléklet 6. pontja helyébe a következő rendelkezés lép:
-
-„6. Az adózó – a játékautomata után fizetendő játékadó és a pénznyerő automata üzemeltetése után fizetendő százalékos mértékű játékadó kivételével – a játékadót a tárgyhót követő hó 20. napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó 20. napjáig vallja be és fizeti meg.
-
-A játékautomata éves adóját az adózó az erre vonatkozó bevallással egyidejűleg fizeti meg. A pénznyerő automata üzemeltetése után fizetendő százalékos mértékű játékadót az adózó a tárgynegyedévet követő hónap 20. napjáig vallja be és fizeti meg.”
 
 ### 2. melléklet a 2011. évi CXXV. törvényhez
