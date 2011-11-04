@@ -974,7 +974,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (4) A Vám- és Pénzügyőrség hivatásos állományú tagja vonatkozásában 2010. december 31-ig elkövetett, három évig terjedő szabadságvesztéssel büntetendő közélet tisztasága elleni bűncselekmények tekintetében a Be. 201. § (2) bekezdés b) pontjának 2010. december 31-ig hatályos rendelkezését 2010. december 31-ét követően is alkalmazni kell.
 
-98. § (1) Az Adó- és Pénzügyi Ellenőrzési Hivatal, illetve a Vám- és Pénzügyőrség által rendszeresített azon nyomtatványok, melyek tartalmuk alapján 2010. december 31-ét követően is megfelelőek, a meglévő készletek erejéig – de legkésőbb 2011. december 31-ig – tovább használhatók attól függetlenül, hogy azok az Adó- és Pénzügyi Ellenőrzési Hivatalra, illetve a Vám- és Pénzügyőrségre utalnak.
+98. § (1) Az Adó- és Pénzügyi Ellenőrzési Hivatal, illetve a Vám- és Pénzügyőrség által rendszeresített azon nyomtatványok, amelyek tartalmuk alapján 2010. december 31-ét követően is megfelelőek, a meglévő készletek erejéig – de legkésőbb 2011. december 31-ig – tovább használhatók attól függetlenül, hogy azok az Adó- és Pénzügyi Ellenőrzési Hivatalra, illetve a Vám- és Pénzügyőrségre utalnak, ide nem értve azokat az Adó- és Pénzügyi Ellenőrzési Hivatalra, illetve a Vám- és Pénzügyőrségre utaló nyomtatványokat, amelyek a korábbi évek önellenőrzéséhez használandók. E nyomtatványok az elévülési időn belül továbbra is használhatók.
 
 (2) Az Adó- és Pénzügyi Ellenőrzési Hivatal, illetve a Vám- és Pénzügyőrség szolgálati igazolványait fokozatosan kell a Nemzeti Adó- és Vámhivatal szolgálati igazolványára cserélni a következők szerint:
 
