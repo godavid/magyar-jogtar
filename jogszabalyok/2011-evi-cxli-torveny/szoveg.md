@@ -476,9 +476,7 @@ g) a pénzügyőrök részére szolgálati és kiegészítő igazolványok, vala
 
 (2) Felhatalmazást kap a kijelölt miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg azon fertőző betegségek körét, amelyek esetében – egyes szolgálati feladatokhoz kapcsolódóan – védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait.”
 
-38. § A NAV tv. 98. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„98. § (1) Az Adó- és Pénzügyi Ellenőrzési Hivatal, illetve a Vám- és Pénzügyőrség által rendszeresített azon nyomtatványok, amelyek tartalmuk alapján 2010. december 31-ét követően is megfelelőek, a meglévő készletek erejéig – de legkésőbb 2011. december 31-ig – tovább használhatók attól függetlenül, hogy azok az Adó- és Pénzügyi Ellenőrzési Hivatalra, illetve a Vám- és Pénzügyőrségre utalnak, ide nem értve azokat az Adó- és Pénzügyi Ellenőrzési Hivatalra, illetve a Vám- és Pénzügyőrségre utaló nyomtatványokat, amelyek a korábbi évek önellenőrzéséhez használandók. E nyomtatványok az elévülési időn belül továbbra is használhatók.”
+38. §
 
 39. § A NAV tv. a következő 98/A. §-sal egészül ki:
 
@@ -504,7 +502,7 @@ g) a pénzügyőrök részére szolgálati és kiegészítő igazolványok, vala
 
 „98/C. § (1) E törvénynek a NAV Mód. tv. 20. §-ával megállapított 26. § (2) bekezdését a 2011. december 31-én személyi illetményben részesülő kormánytisztviselők és pénzügyőrök tekintetében is alkalmazni kell.
 
-(2) A munkáltató jogkör gyakorlója a 82/A. § a) pontja alapján kiadott rendelet hatálybalépését követő 30 napon belül – a pénzügyőr által ellátott feladatok jelleggének megfelelően – 2012. január 1-jei hatállyal megállapítja a pénzügyőr munkakörét.
+(2) A munkáltató jogkör gyakorlója a 82/A. § (1) bekezdés a) pontja alapján kiadott rendelet hatálybalépését követő 30 napon belül – a pénzügyőr által ellátott feladatok jelleggének megfelelően – 2012. január 1-jei hatállyal megállapítja a pénzügyőr munkakörét.
 
 (3) A munkáltató jogkör gyakorlója 2012. február 15-éig – 2012. január 1-jei hatállyal – felülvizsgálja és megállapítja a 2011. december 31-én nyelvpótlékban részesülő kormánytisztviselő és pénzügyőr nyelvpótlékra való jogosultságát a 26/A. §-ban foglaltakra tekintettel.
 
@@ -549,7 +547,7 @@ lép.
 - 2. 38. § (2) bekezdése,
 - 3. 69. § (2) bekezdésében a „ , továbbá a NAV vámszerveinek az Európai Unió külső vámhatárán működő, nyomozóhatósági hatáskörrel felruházott kirendeltségei az e jogkörükben foganatosított eljárásukkal kapcsolatos adatokat továbbítják a NAV bűnüldözési adatkezelő rendszerei felé” szövegrész,
 - 4. 76. § (1) bekezdés g) pontja,
-- 5. 81. § c) pontja,
+- 5. 81. § (1) bekezdés c) pontja,
 - 6. 94. §-a.
 
 ### II. Fejezet — A NEMZETI ADÓ- ÉS VÁMHIVATALRÓL SZÓLÓ 2010. ÉVI CXXII. TÖRVÉNY MÓDOSÍTÁSÁHOZ KAPCSOLÓDÓ TÖRVÉNYMÓDOSÍTÁSOK
@@ -618,25 +616,7 @@ lép.
 
 #### 10. A Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény módosítása
 
-54. § (1) A Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Magyar Köztársaság címerét (a továbbiakban: címer) az Országgyűlés, az országgyűlési képviselő, a köztársasági elnök, az Alkotmánybíróság, az Alkotmánybíróság tagja, az alapvető jogok biztosa, az Állami Számvevőszék, a Magyar Nemzeti Bank, a Kormány, a Kormány tagja, a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal, a helyi önkormányzat, a helyi kisebbségi önkormányzat, a bíróság, az ügyészség, a rendvédelmi szervek és a közigazgatási feladatot ellátó szervek, továbbá ezek hivatalai, illetőleg a felsoroltak képviseletére jogosult személyek a hivatali feladataik ellátása során külön engedély nélkül használhatják, illetőleg helyezhetik el az épületeiken és helyiségeikben.”
-
-(2) A Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény 5/A. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[Azokon a középületeken, illetőleg középületek előtt, amelyeket]
-
-„a) az állam és a helyi önkormányzatok választott testületei, közigazgatási feladatokat ellátó szervei, a Nemzeti Adó- és Vámhivatal, valamint az állam, illetve a helyi önkormányzat által fenntartott, közfeladatokat ellátó intézmények,”
-
-[feladatuk ellátása során használnak, a zászlót vagy a lobogót állandó jelleggel ki kell tűzni, illetőleg fel kell vonni.]
-
-(3) A Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény 5/A. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-[Azokon a középületeken, illetőleg középületek előtt, amelyeket]
-
-„e) az Állami Számvevőszék, a Magyar Nemzeti Bank, az alapvető jogok biztosa és hivatala,”
-
-[feladatuk ellátása során használnak, a zászlót vagy a lobogót állandó jelleggel ki kell tűzni, illetőleg fel kell vonni.]
+54. §
 
 #### 11. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
@@ -666,9 +646,9 @@ lép.
 
 59. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 1. § (3) bekezdésében az „a rendvédelmi szervek hivatásos szolgálati viszonyban álló” szövegrész helyébe az „a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos szolgálati viszonyban álló” szöveg lép.
 
-#### 15. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
+#### 15.
 
-60. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 1. § (3) bekezdésében az „a rendvédelmi szervek, valamint” szövegrész helyébe az „a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, valamint” szöveg lép.
+60. §
 
 #### 16. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
@@ -706,7 +686,7 @@ lép.
 
 #### 21. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-66. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+66. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § d) pontja helyébe a következő rendelkezés lép:
 
 [E törvény alkalmazásában]
 
@@ -784,7 +764,7 @@ a) közszolgálatban álló személy:]
 
 #### 31. A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény módosítása
 
-76. § Hatályát veszti a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény 1. § b) pontjában az „a Vám- és Pénzügyőrség,” szövegrész és a 19. § (3) bekezdésben az „az állami adóhatóság, a Vám- és Pénzügyőrség,” szövegrész.
+76. §
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
