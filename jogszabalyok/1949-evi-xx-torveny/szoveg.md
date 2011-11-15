@@ -70,7 +70,7 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 12. § (1) Az állam támogatja az önkéntes társuláson alapuló szövetkezeteket, elismeri a szövetkezetek önállóságát.
 
-(2) Az állam tiszteletben tartja az önkormányzatok tulajdonát.
+(2) Helyi önkormányzati tulajdonnak az állam vagy helyi önkormányzat részére történő ingyenes átadásáról törvény rendelkezhet.
 
 13. § (1) A Magyar Köztársaság biztosítja a tulajdonhoz való jogot.
 

@@ -104,7 +104,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 5. § (1) Ha a hiteladós előtörlesztést teljesít, az előtörlesztett összeget – amennyiben a devizakölcsönből eredő tartozása a hiteladósnak még fennáll – a devizakölcsön előtörlesztéseként kell elszámolni. A pénzügyi intézmény a devizakölcsönre vonatkozó teljes előtörlesztést abban az esetben fogadja el, ha az előtörlesztett összeg a gyűjtőszámlahitelre vonatkozó hitelkeretszerződésből eredő tartozás teljes megfizetését is fedezi. A devizakölcsön részleges vagy teljes előtörlesztésére – törvény eltérő rendelkezése hiányában – annak tényleges elszámolásakor a pénzügyi intézmény által alkalmazott törlesztési árfolyamon kerülhet sor.
 
-(2) A pénzügyi intézmény a devizakölcsön fedezetéül kikötött, ingatlanon alapított jelzálogjog törlésére vonatkozó engedélyt akkor adja ki a zálogkötelezettnek, ha a hiteladós a devizakölcsönből és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésből eredő tartozását maradéktalanul megfizette.
+(2) A devizakölcsön fedezetéül kikötött, ingatlanon alapított jelzálogjog törlésére vonatkozó engedélyt a pénzügyi intézmény akkor köteles kiadni a zálogkötelezettnek, ha a hiteladós a devizakölcsönből és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződésből eredő tartozását maradéktalanul megfizette.
 
 (3) A pénzügyi intézmény devizakölcsönre és a hozzá kapcsolódó gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést kizárólag együtt mondhatja fel.
 
