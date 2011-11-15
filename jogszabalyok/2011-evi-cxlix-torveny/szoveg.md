@@ -2,7 +2,53 @@
 
 a kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosításáról
 
-1–4. §
+1. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 7. §-a a következő 27–30. pontokkal egészül ki:
+
+[E törvény alkalmazásában:]
+
+„27. Történelmi emlékhely: a nemzet vagy valamely velünk élő nemzetiség történelmében meghatározó jelentőséggel bíró helyszín, amelyet a Kormány rendelettel történelmi emlékhellyé nyilvánít.
+
+28. Nemzeti emlékhely: a nemzet történelmében meghatározó jelentőséggel bíró helyszín, amely a magyar, illetve a magyar és az ország területén élő nemzetiségek összetartozását erősítő és identitásképző jellegénél fogva a nemzet önképében kiemelkedő fontossággal bír, továbbá amely országos jelentőségű állami megemlékezés színhelye lehet, és amelyet az Országgyűlés törvénnyel nemzeti emlékhellyé nyilvánít.
+
+29. Előzetes régészeti dokumentáció: valamely terület régészeti érintettségének egyértelmű tisztázására, a régészeti örökségi elemekre vonatkozó ismeretek (különösen a lelőhely jellegének, korának, kiterjedésének és intenzitásának) megszerzésére és pontosítására szolgáló, valamint az ebből következően elvégzendő régészeti feladatellátás formájának, idő- és költségvonzatainak meghatározásához hozzájáruló, a lelőhely állapotában maradandó változással nem járó műszeres lelőhely-, illetve leletfelderítés és terepbejárás vagy próbafeltárás alkalmazásával készült dokumentum.
+
+30. Kiemelt nemzeti emlékhely: a nemzet és a Magyar Állam történelmében kiemelkedő jelentőségű nemzeti emlékhely, amelyet az Országgyűlés törvénnyel kiemelt nemzeti emlékhellyé nyilvánít.”
+
+2. § A Kötv. 19. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A régészeti feltárások költségeit – a mentő feltárás, valamint a 20/A. § (3) bekezdésében és a 23/E. § (1) bekezdésében foglalt esetek kivételével – a 10. § (1) bekezdésére figyelemmel annak kell fedeznie, akinek érdekében a feltárás szükségessé vált.”
+
+3. § A Kötv. a következő 20/A. §-sal és azt megelőzően a következő alcímmel egészül ki:
+
+„Előzetes régészeti dokumentáció
+
+20/A. § (l) A külön jogszabályban meghatározott nagyberuházás, valamint részben vagy egészben európai uniós forrásból megvalósuló beruházás (a továbbiakban: nagyberuházás) esetén előzetes régészeti dokumentációt kell készíteni. Egyéb esetekben előzetes régészeti dokumentáció készíthető különösen a földterület-kiválasztás során, a hatósági engedélyezési eljárásokat megelőzően.
+
+(2) Az előzetes régészeti dokumentáció nem pótolja a 22. § (2) bekezdése szerinti próbafeltárást.
+
+(3) Az előzetes régészeti dokumentáció elkészítéséhez szükséges régészeti feltárások költségei – nemzetgazdasági szempontból indokolt esetekben – a központi költségvetésből fedezhetőek.”
+
+4. § A Kötv. a 23/A. §-át követően a következő alcímmel egészül ki:
+
+„Állami nagyberuházás esetén folytatott próbafeltárás és megelőző feltárás
+
+23/B. § Állami nagyberuházás, valamint a kisajátításról szóló törvény szerinti közérdekű cél megvalósítása esetén folytatott próbafeltárásra és megelőző feltárásra a próbafeltárásra és a megelőző feltárásra vonatkozó szabályokat a 23/C–23/E. §-ban foglalt eltérésekkel kell alkalmazni.
+
+23/C. § (1) Állami nagyberuházás, valamint a kisajátításról szóló törvény szerinti közérdekű cél megvalósítása esetén a próbafeltárás időtartama a beruházótól a fölmunkával járó változással érintett munkaterületnek régészeti munkavégzésre alkalmas állapotban, állapotrögzítő jegyzőkönyvvel történő átvételétől számított legfeljebb 30 – jogszabályban meghatározott – régészeti feltárás végzésére alkalmas nap, kivéve, ha a beruházó és a feltárást végző intézmény ennél hosszabb időtartamban állapodnak meg. A próbafeltáráshoz kapcsolódó gépi földmunka időtartama a próbafeltárás időtartamába nem számít bele.
+
+(2) A próbafeltárás eredményei alapján a feltárást végző intézmény kérelmet nyújt be a hatóság részére a további régészeti feladatellátásról. A kérelemnek tartalmaznia kell az arra vonatkozó szakmai javaslatot, hogy mely területek esetén van szükség a megelőző feltárás elvégzésére, illetve mely területek elfedése indokolt.
+
+(3) A további régészeti feladatellátásról – a 23/E. §-ban foglalt költségkorlát figyelembevételével – a hatóság dönt. A döntés ellen fellebbezésnek nincs helye.
+
+23/D. § (1) A hatóság döntése alapján elvégzett megelőző feltárás vagy elfedés időtartama a beruházótól a földmunkával járó változással érintett munkaterületnek régészeti munkavégzésre alkalmas állapotban, állapotrögzítő jegyzőkönyvvel történő átvételétől számított legfeljebb 30 – jogszabályban meghatározott – régészeti feltárás végzésére alkalmas nap, kivéve, ha a beruházó és a feltárást végző intézmény ennél hosszabb időtartamban állapodnak meg. A megelőző feltáráshoz kapcsolódó gépi földmunka időtartama a megelőző feltárás időtartamába nem számít bele.
+
+(2) A régészeti lelőhely elfedésére a hatóság döntésében meghatározott módon kerülhet sor. A régészeti lelőhely elfedése a lelőhely fizikai állapotromlását nem eredményezheti.
+
+23/E. § (1) A beruházó a teljes próbafeltárás, a megelőző feltárás és az elfedés költségei – ide értve a hatóság által előírt régészeti megfigyelés eredményeként felmerült megelőző feltárás költségét is – de legfeljebb a beruházás teljes bekerülési költsége 1 százalékának megfelelő összeg viselésére köteles, amely összeg – a (2) bekezdésben foglaltak kivételével – nem haladhatja meg a 200 millió forintot.
+
+(2) Az (1) bekezdésben meghatározott összeg – a hatóság javaslatára, a kultúráért felelős miniszter előterjesztésére – a Kormány döntése szerint magasabb értékben is megállapítható, ha az előzetes régészeti dokumentáció, a próbafeltárás vagy a megelőző feltárás eredményeként megállapítható, hogy a beruházással érintett lelőhely hazánk múltjának kiemelkedő jelentőségű, egyedi vagy pótolhatatlan forrása, vagy az elfedés a beruházás jellege miatt műszakilag lehetetlen, vagy az a lelőhely fizikai állapotromlását eredményezné.
+
+(3) A próbafeltárás költségei az (1) bekezdésben meghatározott összeg 50 százalékát nem haladhatják meg.”
 
 5. § A Kötv. II. Része a következő 4. fejezettel egészül ki:
 
@@ -80,7 +126,11 @@ d) a magyar összetartozást vagy a nemzetiségeinknek a magyarsággal való ös
 
 (2) A nemzeti emlékhelyekkel kapcsolatos költségvetési pénzeszközöket az e törvényben megjelölt, a nemzeti emlékhelyekkel kapcsolatos állami feladatok költségeire figyelemmel kell meghatározni.”
 
-6. §
+6. § A Kötv. a következő 92/A. §-sal egészül ki:
+
+„92/A. § (1) E törvénynek a kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosításáról szóló 2011. évi CXLIX. törvénnyel megállapított 23/B–23/E. §-aiban foglaltaknak megfelelően a törvény hatályba lépésekor már megkötött szerződéseket a törvény hatályba lépésétől számított 30 napon belül módosítani szükséges azzal, hogy a beruházó köteles az addig elvégzett régészeti feladatok ellenértékét megtéríteni, a feltárást végző intézmény köteles a megkezdett próbafeltárást befejezni, valamint a 23/C. § (2) bekezdése szerinti kérelmet 2011. december 31-ig benyújtani.
+
+(2) A feltárást végző intézmény a hatóság 23/C. § (3) bekezdésében írt döntésének kézhezvételétől számított 15 napon belül köteles a feltárási engedély módosítása iránti kérelmet benyújtani.”
 
 7. § A Kötv. 93. § (1) bekezdése a következő e)–g) pontokkal egészül ki:
 
@@ -94,13 +144,21 @@ g) határozza meg a történelmi emlékhelyeket.”
 
 8. § A Kötv. az e törvény melléklete szerinti 2. melléklettel egészül ki.
 
-9. § (1)–(2)
+9. § (1) A Kötv. 20. § (2) bekezdésében a „Magyar Tudományos Akadémia Régészeti Intézete” szövegrész helyébe a „Magyar Tudományos Akadémia Régészeti Intézete, illetve a hatóság” szöveg lép.
 
-(3)–(4)
+(2) A Kötv. 29. § (3) bekezdésében a „műemléki jelentőségű területen és műemléki környezetben” szövegrész helyébe a „műemléki jelentőségű területen, műemléki környezetben és történeti táj területén” szöveg lép.
+
+(3) A Kötv. 33. §-ában az „az e törvény mellékletében” szövegrész helyébe az „az 1. mellékletben” szöveg lép.
+
+(4) A Kötv. mellékletének jelölése „1. melléklet a 2001. évi LXIV. törvényhez” szövegre változik.
 
 10. § Hatályát veszti a Kötv. 5/B. §-a és 5/C. §-a.
 
-11. §
+11. § A helyi önkormányzatokról szóló 1990. évi LXV. törvény 79. § (2) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+
+[A törzsvagyon körébe tartozó tulajdon forgalomképtelen vagy korlátozottan forgalomképes:]
+
+„a) forgalomképtelenek a helyi közutak és műtárgyaik, a terek, a parkok, továbbá a helyi önkormányzat kizárólagos tulajdonában álló, a 9. § (5) bekezdése szerinti gazdasági társaságban fennálló részesedés – a 68/D. §-ban foglalt kivétellel – és minden más ingatlan és ingó dolog, amelyet törvény vagy a helyi önkormányzat forgalomképtelennek nyilvánít. A helyi önkormányzat tulajdonában álló forgalomképtelen törzsvagyon birtokát, használatát, hasznai szedésének jogát a helyi önkormányzat – törvényben szabályozott módon – másnak átengedheti. A helyi önkormányzat forgalomképtelen törzsvagyonának tulajdonjogát kizárólag ingyenesen a Magyar Állam javára átruházhatja;”
 
 12. § (1) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 9. § (7) bekezdése helyébe a következő rendelkezés lép:
 
@@ -108,33 +166,21 @@ g) határozza meg a történelmi emlékhelyeket.”
 
 (2) Az Étv. a következő 9/D. §-sal egészül ki:
 
-„9/D. § (1) Kiemelt nemzeti emlékhely területére, illetve közvetlen környezetére vonatkozó településrendezési eszköz módosítása – amennyiben a kiemelt nemzeti emlékhely kialakítására vonatkozó előírást tartalmaz – (e §-on belül a továbbiakban: településrendezési eszköz) során a 9. § (2)–(6) bekezdéseitől eltérően e § (2)–(11) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+„9/D. § (1) Kiemelt nemzeti emlékhelyet érintő szabályozási terv (e §-on belül a továbbiakban: szabályozási terv) készítése, módosítása során a 9. § (3)–(4) és (6) bekezdésétől eltérően e § (2)–(5) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
-(2) A településrendezési eszköz
+(2) A szabályozási terv
 
-a) módosítását a kiemelt nemzeti emlékhely vagyonkezelője is kezdeményezheti; vagyonkezelői kezdeményezés esetén a településrendezési eszköz egyeztetésében és véleményezésében érintett szervek soron kívül járnak el,
+a) kidolgozását, módosítását a kiemelt nemzeti emlékhely vagyonkezelője kezdeményezheti; vagyonkezelői kezdeményezés esetén a területrendezésben érintett szerv soron kívül,
 
-b) módosítása során a 9. § (2)–(6) bekezdésében előírt egyeztetési, véleményeztetési eljárások lefolytatása a területileg illetékes megyei (fővárosi) kormánymegbízott feladat- és hatáskörébe tartozik (a továbbiakban: kormánymegbízott),
+b) kidolgozása, módosítása során a polgármester feladatkörébe sorolt, a 9. § (3) és (4) bekezdésében előírt egyeztetési, véleményeztetési eljárásokban a területileg illetékes megyei (fővárosi) kormányhivatal (a továbbiakban: kormányhivatal)
 
-c) módosítását megelőzően a vagyonkezelő és a kormánymegbízott az egyeztetési, véleményezési eljárás meggyorsítása érdekében az Étv. 30/A. § szerint településrendezési szerződést köthet.
+jár el.
 
-(3) A 9. § (2) bekezdése szerinti véleményezésre, észrevételezésre 8 munkanap áll rendelkezésre. A polgármester (főpolgármester), aki helyett a kormánymegbízott jár el, az egyeztetési eljárásban érintettnek tekintendő.
+(3) A készítés alatt lévő szabályozási tervet – külön jogszabályban meghatározottak szerint – a kormányhivatalnak véleményeztetnie kell az 5. § (4) bekezdésében említett tervtanáccsal, amely véleményét 10 napon belül közli a kormányhivatallal. Az elkészített szabályozási tervet a jóváhagyás előtt a kormányhivatal véleményezteti a külön jogszabályban meghatározott közigazgatási, az érintett települési önkormányzati és az érdek-képviseleti szervekkel, valamint a társadalmi szervezetekkel, amelyek 10 napon belül adhatnak írásos véleményt. Az eltérő vélemények tisztázása érdekében a kormányhivatal egyeztető tárgyalást tart, amelyre a véleményezési eljárás érdekeltjeit a tárgyalás előtt legalább 8 nappal a hely és az időpont megjelölésével hívja meg. Az egyeztető tárgyalásról jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell valamennyi elfogadott és el nem fogadott véleményt azok indokolásaival együtt.
 
-(4) A kormánymegbízott a módosítás alatti településrendezési eszköz tervezetét véleményezésre megküldi a központi tervtanács részére, amely a véleményét az üléstől számított 5 munkanapon belül adja meg.
+(4) A szabályozási tervet – annak elfogadása előtt – szakmai véleményezésre a kormányhivatal küldi meg az állami főépítésznek, aki véleményét a kormányhivatallal 15 napon belül közli.
 
-(5) A módosított településrendezési eszközt a jóváhagyás előtt a kormánymegbízott véleményezteti a külön jogszabályban meghatározott közigazgatási, az érintett települési önkormányzati és az érdek-képviseleti szervekkel, valamint az egyesületekkel, amelyek 10 napon belül adhatnak írásos véleményt. Az eltérő vélemények tisztázása érdekében a kormánymegbízott egyeztető tárgyalást tart, amelyre a véleményezési eljárás érdekeltjeit a tárgyalás előtt legalább 5 nappal a hely és az időpont megjelölésével hívja meg. Az egyeztető tárgyalásról jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell valamennyi elfogadott és el nem fogadott véleményt azok indokolásaival együtt.
-
-(6) Azt az érdekeltet, aki a véleményezési eljárás során írásbeli – államigazgatási szerv esetében jogszabályon alapuló – véleményt nem adott, vagy adott, de az egyeztető tárgyaláson szabályos meghívás ellenére nem vett részt, a továbbiakban kifogást nem emelő véleményezőnek kell tekinteni.
-
-(7) A 9. § (6) bekezdése szerinti, helyben szokásos módon történő közzététel időtartama 15 nap, amely időtartama alatt érkező észrevételeket a döntésre jogosulttal ismertetni kell.
-
-(8) Amennyiben több településrendezési eszköz módosítása szükséges, akkor azok 9/D. § (3)–(5) bekezdések szerinti egyeztetése egyidejűleg (egy összevont eljárásban) lefolytatható.
-
-(9) A településrendezési eszköz módosítását – annak elfogadása előtt – szakmai véleményezésre a kormánymegbízott küldi meg a településfejlesztésért és településrendezésért felelős miniszternek, aki véleményét a kormánymegbízottal 10 napon belül közli, ha e határidőn belül nem nyilatkozik, úgy véleményét megadottnak kell tekinteni.
-
-(10) A kormánymegbízott a településrendezési eszköz módosításának tervezetét az egyeztetési eljárás irataival együtt megküldi a területileg illetékes polgármesternek (főpolgármesternek), aki 15 napon belül előterjeszti a jóváhagyó testületnek.
-
-(11) A településrendezési eszköz módosítása az elfogadástól számított 10. napot követően hatályba léptethető.”
+(5) A szabályozási terv módosítása az elfogadástól számított 15. napot követően is hatályba léptethető.”
 
 13. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 41. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
 
@@ -170,7 +216,7 @@ ic) a nemzeti emlékhely megközelítése másként nem lehetséges,
 
 id) korábban összefüggő történeti együttes része volt, és az eredeti egységbe való visszahelyezése és együttes használata örökségvédelmi szempontból indokolt;”
 
-18. §
+18. § Hatályát veszti a kisajátításról szóló 2007. évi CXXIII. törvény 2. § p) pontja és 4. § (1) bekezdés m) pontja.
 
 19. § (1) E törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba, és 2012. január 2-án hatályát veszti.
 

@@ -27,7 +27,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - m) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfásítás és közérdekű erdőtelepítés;
 - n) építésügyi korlátozások felszámolása;
 - o) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentősen korlátozó, vagy megszüntető közérdekű használati jogok, szolgalmak miatti hátrányok megszüntetése;
-- p) munkahelyteremtő beruházás megvalósítása.
+- p)
 
 3. § (1) Kisajátításnak akkor van helye, ha
 
@@ -84,8 +84,8 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - ke) a közcélú vízilétesítmény, illetve vízbázisok (távlati vízbázisok) belső védőövezetének biztosítása érdekében szükséges;
 - l) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfásítás és közérdekű erdőtelepítés céljából, ha
   - la) a tulajdonos az erdejében olyan tevékenységet folytat, amely kisajátítás hiányában az erdő kipusztulását eredményezi,
-  - lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna,
-- m) munkahelyteremtő beruházás megvalósítása céljából, ha a beruházás legalább 2 milliárd forint teljes költségigényű és legalább 100 új munkahely megteremtését biztosítja.
+  - lb) az erdőtelepítés (fásítás) a tulajdonos közreműködésével eredményesen nem valósítható meg, vagy aránytalan nagy költséggel járna.
+- m)
 
 (2) A 3. § (1) bekezdésének d) pontját e paragrafus (1) bekezdés da), db) és ka) pontjai szerinti beruházások esetében nem kell alkalmazni.
 

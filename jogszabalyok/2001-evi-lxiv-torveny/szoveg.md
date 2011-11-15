@@ -72,6 +72,10 @@ a következő törvényt alkotja:
 - 24. Tárgyegyüttes: több elemből álló, egymással lényegileg összefüggő kulturális javak összessége, amely kivételes kulturális jelentőségét ebben az állapotában őrzi, és amely kulturális érték tekintetében meghaladja egyes elemeinek együttes értékét.
 - 25. Terepbejárás: minden olyan felszínen végzett kutatás, adatgyűjtés és kiértékelő dokumentálás, amely nem ismert régészeti örökségi elem felfedezésére vagy a régészeti lelőhely állapotának ellenőrzésére, illetve azonosítására irányul, függetlenül attól, hogy együtt jár-e a leletek összegyűjtésével, vagy sem.
 - 26. Védett örökségi elem: az e törvény erejénél fogva védelem alatt álló, illetve miniszteri rendelettel vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem.
+- 27. Történelmi emlékhely: a nemzet vagy valamely velünk élő nemzetiség történelmében meghatározó jelentőséggel bíró helyszín, amelyet a Kormány rendelettel történelmi emlékhellyé nyilvánít.
+- 28. Nemzeti emlékhely: a nemzet történelmében meghatározó jelentőséggel bíró helyszín, amely a magyar, illetve a magyar és az ország területén élő nemzetiségek összetartozását erősítő és identitásképző jellegénél fogva a nemzet önképében kiemelkedő fontossággal bír, továbbá amely országos jelentőségű állami megemlékezés színhelye lehet, és amelyet az Országgyűlés törvénnyel nemzeti emlékhellyé nyilvánít.
+- 29. Előzetes régészeti dokumentáció: valamely terület régészeti érintettségének egyértelmű tisztázására, a régészeti örökségi elemekre vonatkozó ismeretek (különösen a lelőhely jellegének, korának, kiterjedésének és intenzitásának) megszerzésére és pontosítására szolgáló, valamint az ebből következően elvégzendő régészeti feladatellátás formájának, idő- és költségvonzatainak meghatározásához hozzájáruló, a lelőhely állapotában maradandó változással nem járó műszeres lelőhely-, illetve leletfelderítés és terepbejárás vagy próbafeltárás alkalmazásával készült dokumentum.
+- 30. Kiemelt nemzeti emlékhely: a nemzet és a Magyar Állam történelmében kiemelkedő jelentőségű nemzeti emlékhely, amelyet az Országgyűlés törvénnyel kiemelt nemzeti emlékhellyé nyilvánít.
 
 ## II. RÉSZ
 
@@ -164,13 +168,21 @@ a következő törvényt alkotja:
 
 (2) A régészeti örökség elemei a régészeti érdekű területekről vagy a régészeti lelőhelyről csak régészeti feltárás keretében mozdíthatók el. Amennyiben a feltáráson előkerülő régészeti leletek a helyszínen nem őrizhetők meg, azokat elsősorban a feltárást végző illetékes múzeumban vagy országos szakmúzeumban kell elhelyezni.
 
-(3) A régészeti feltárások költségeit – a 10. § (1) bekezdésére figyelemmel – a mentő feltárások kivételével annak kell fedeznie, akinek érdekében a feltárás szükségessé vált.
+(3) A régészeti feltárások költségeit – a mentő feltárás, valamint a 20/A. § (3) bekezdésében és a 23/E. § (1) bekezdésében foglalt esetek kivételével – a 10. § (1) bekezdésére figyelemmel annak kell fedeznie, akinek érdekében a feltárás szükségessé vált.
 
 20. § (1) Régészeti feltárás – amennyiben a jogszabály másképpen nem rendelkezik – feltárási engedély alapján végezhető. Az engedélyt a hatóság adja ki. A hatóság régészeti örökségvédelmi indokok alapján az engedélyt fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 
-(2) Régészeti feltárást a területileg illetékes megyei múzeum (a fővárosban a Budapesti Történeti Múzeum), valamint a Magyar Nemzeti Múzeum és más régészeti gyűjtőkörrel rendelkező múzeum, a régészeti tanszékkel rendelkező egyetemek és a Magyar Tudományos Akadémia Régészeti Intézete végezhetnek. Az ország területén lévő régészeti lelőhely tudományos terv szerinti komplex feltárására a Magyar Nemzeti Múzeumnak elsőbbsége van.
+(2) Régészeti feltárást a területileg illetékes megyei múzeum (a fővárosban a Budapesti Történeti Múzeum), valamint a Magyar Nemzeti Múzeum és más régészeti gyűjtőkörrel rendelkező múzeum, a régészeti tanszékkel rendelkező egyetemek és a Magyar Tudományos Akadémia Régészeti Intézete, illetve a hatóság végezhetnek. Az ország területén lévő régészeti lelőhely tudományos terv szerinti komplex feltárására a Magyar Nemzeti Múzeumnak elsőbbsége van.
 
 (3) A hatóság a régészeti feltárásra vonatkozó engedélyét visszavonja, ha a jogszabályi és a feltárási engedélyben foglalt előírásokat megszegik.
+
+### Előzetes régészeti dokumentáció
+
+20/A. § (1) A külön jogszabályban meghatározott nagyberuházás, valamint részben vagy egészben európai uniós forrásból megvalósuló beruházás (a továbbiakban: nagyberuházás) esetén előzetes régészeti dokumentációt kell készíteni. Egyéb esetekben előzetes régészeti dokumentáció készíthető különösen a földterület-kiválasztás során, a hatósági engedélyezési eljárásokat megelőzően.
+
+(2) Az előzetes régészeti dokumentáció nem pótolja a 22. § (2) bekezdése szerinti próbafeltárást.
+
+(3) Az előzetes régészeti dokumentáció elkészítéséhez szükséges régészeti feltárások költségei – nemzetgazdasági szempontból indokolt esetekben – a központi költségvetésből fedezhetőek.
 
 ### A régészeti feltárások egyes formáira vonatkozó különleges előírások
 
@@ -191,6 +203,26 @@ a következő törvényt alkotja:
 (2) A megelőző feltárásokkal kapcsolatban felmerült vitás szakmai kérdésekben a hatóság álláspontja az irányadó.
 
 23/A. § A régészeti örökség védelme és a fejlesztések, beruházások hatékonyabb megvalósítása érdekében a régészeti lelőhelyen kívüli földmunka esetén a régészeti feltárásra a 22. § (3) bekezdésében foglalt követelmények szerinti szerződés köthető.
+
+### Állami nagyberuházás esetén folytatott próbafeltárás és megelőző feltárás
+
+23/B. § Állami nagyberuházás, valamint a kisajátításról szóló törvény szerinti közérdekű cél megvalósítása esetén folytatott próbafeltárásra és megelőző feltárásra a próbafeltárásra és a megelőző feltárásra vonatkozó szabályokat a 23/C–23/E. §-ban foglalt eltérésekkel kell alkalmazni.
+
+23/C. § (1) Állami nagyberuházás, valamint a kisajátításról szóló törvény szerinti közérdekű cél megvalósítása esetén a próbafeltárás időtartama a beruházótól a fölmunkával járó változással érintett munkaterületnek régészeti munkavégzésre alkalmas állapotban, állapotrögzítő jegyzőkönyvvel történő átvételétől számított legfeljebb 30 – jogszabályban meghatározott – régészeti feltárás végzésére alkalmas nap, kivéve, ha a beruházó és a feltárást végző intézmény ennél hosszabb időtartamban állapodnak meg. A próbafeltáráshoz kapcsolódó gépi földmunka időtartama a próbafeltárás időtartamába nem számít bele.
+
+(2) A próbafeltárás eredményei alapján a feltárást végző intézmény kérelmet nyújt be a hatóság részére a további régészeti feladatellátásról. A kérelemnek tartalmaznia kell az arra vonatkozó szakmai javaslatot, hogy mely területek esetén van szükség a megelőző feltárás elvégzésére, illetve mely területek elfedése indokolt.
+
+(3) A további régészeti feladatellátásról – a 23/E. §-ban foglalt költségkorlát figyelembevételével – a hatóság dönt. A döntés ellen fellebbezésnek nincs helye.
+
+23/D. § (1) A hatóság döntése alapján elvégzett megelőző feltárás vagy elfedés időtartama a beruházótól a földmunkával járó változással érintett munkaterületnek régészeti munkavégzésre alkalmas állapotban, állapotrögzítő jegyzőkönyvvel történő átvételétől számított legfeljebb 30 – jogszabályban meghatározott – régészeti feltárás végzésére alkalmas nap, kivéve, ha a beruházó és a feltárást végző intézmény ennél hosszabb időtartamban állapodnak meg. A megelőző feltáráshoz kapcsolódó gépi földmunka időtartama a megelőző feltárás időtartamába nem számít bele.
+
+(2) A régészeti lelőhely elfedésére a hatóság döntésében meghatározott módon kerülhet sor. A régészeti lelőhely elfedése a lelőhely fizikai állapotromlását nem eredményezheti.
+
+23/E. § (1) A beruházó a teljes próbafeltárás, a megelőző feltárás és az elfedés költségei – ide értve a hatóság által előírt régészeti megfigyelés eredményeként felmerült megelőző feltárás költségét is – de legfeljebb a beruházás teljes bekerülési költsége 1 százalékának megfelelő összeg viselésére köteles, amely összeg – a (2) bekezdésben foglaltak kivételével – nem haladhatja meg a 200 millió forintot.
+
+(2) Az (1) bekezdésben meghatározott összeg – a hatóság javaslatára, a kultúráért felelős miniszter előterjesztésére – a Kormány döntése szerint magasabb értékben is megállapítható, ha az előzetes régészeti dokumentáció, a próbafeltárás vagy a megelőző feltárás eredményeként megállapítható, hogy a beruházással érintett lelőhely hazánk múltjának kiemelkedő jelentőségű, egyedi vagy pótolhatatlan forrása, vagy az elfedés a beruházás jellege miatt műszakilag lehetetlen, vagy az a lelőhely fizikai állapotromlását eredményezné.
+
+(3) A próbafeltárás költségei az (1) bekezdésben meghatározott összeg 50 százalékát nem haladhatják meg.
 
 ### Mentő feltárás
 
@@ -251,7 +283,7 @@ a következő törvényt alkotja:
 - e) más jogszabály alapján is védett vagy védendő érték esetében a hatáskörrel bíró illetékes hatóságot (pl. a természetvédelmi hatóságot);
 - f) a védetté nyilvánítás kezdeményezőjét.
 
-(3) A védelem alá vonni tervezett műemléki jelentőségű területen és műemléki környezetben álló ingatlanok tulajdonosait a védetté nyilvánítás előkészítésének megindításáról a hatóság megkeresésére az érintett ingatlan fekvése szerinti települési önkormányzat a helyben szokásos módon (hirdetmény útján) értesíti.
+(3) A védelem alá vonni tervezett műemléki jelentőségű területen, műemléki környezetben és történeti táj területén álló ingatlanok tulajdonosait a védetté nyilvánítás előkészítésének megindításáról a hatóság megkeresésére az érintett ingatlan fekvése szerinti települési önkormányzat a helyben szokásos módon (hirdetmény útján) értesíti.
 
 ### Elővédelem
 
@@ -781,6 +813,10 @@ kulturális javakat.
 91. § E törvény nem érinti a kulturális örökség elemeinek a korábbi jogszabályok alapján megállapított védettségét.
 
 92. §
+
+92/A. § (1) E törvénynek a kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosításáról szóló 2011. évi CXLIX. törvénnyel megállapított 23/B–23/E. §-aiban foglaltaknak megfelelően a törvény hatályba lépésekor már megkötött szerződéseket a törvény hatályba lépésétől számított 30 napon belül módosítani szükséges azzal, hogy a beruházó köteles az addig elvégzett régészeti feladatok ellenértékét megtéríteni, a feltárást végző intézmény köteles a megkezdett próbafeltárást befejezni, valamint a 23/C. § (2) bekezdése szerinti kérelmet 2011. december 31-ig benyújtani.
+
+(2) A feltárást végző intézmény a hatóság 23/C. § (3) bekezdésében írt döntésének kézhezvételétől számított 15 napon belül köteles a feltárási engedély módosítása iránti kérelmet benyújtani.
 
 ### Felhatalmazások
 
