@@ -2496,6 +2496,8 @@ megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezt
 
 84/R. § A 28. § (20)–(22) bekezdéseinek rendelkezéseit nem kell alkalmazni arra a jövedelemre, amelyre az adózó legkésőbb 2012. december 31-ig a Magyar Köztársaság 2011. évi költségvetését megalapozó egyes törvények módosításáról szóló 2010. évi CLIII. törvény 82. §-a szerinti szabályokat alkalmazza.
 
+84/S. § Az 1. számú mellékletnek az otthonvédelmi intézkedésekkel kapcsolatos egyes törvények módosításáról szóló 2011. évi CXLVII. törvénnyel megállapított 7.20. pontjában foglalt rendelkezés az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény hatálybalépésének napjától alkalmazható.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -2794,7 +2796,7 @@ c) az a) pontban említett hiteladósnak – mint volt tulajdonosnak – törvé
 
 d) a c) pontban említett opciós jog érvényesítésekor a magánszemély által megszerzett jövedelem;
 
-7.20. lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsön adósa által teljesített, törvényben rögzített árfolyamon történő végtörlesztés miatt megszűnő kötelezettség;
+7.20. lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsön (ideértve a deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelést is) adósa által teljesített, törvényben rögzített árfolyamon történő végtörlesztés miatt megszűnő kötelezettség;
 
 7.21. a pénzügyi intézmény által elengedett, lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből származó követelés feltéve, hogy
 
