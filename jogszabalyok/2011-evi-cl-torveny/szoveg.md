@@ -4,19 +4,13 @@ az egyes büntető vonatkozású törvények módosításáról
 
 1–79. §
 
-80. § A Be. 604. § (2) bekezdése a következő s) ponttal egészül ki:
-
-(Felhatalmazást kap az igazságügyért felelős miniszter, hogy)
-
-„s) a tizennegyedik életévét be nem töltött személy meghallgatására szolgáló rendőrségi helyiség kialakítására vonatkozó szabályokat a rendészetért felelős miniszter egyetértésével kiadott”
-
-(rendeletben szabályozza.)
+80. §
 
 81–91. §
 
 #### 13. Hatályba nem lépésről szóló rendelkezés
 
-92. § Nem lép hatályba a Büntető Törvénykönyvről szóló 1978. évi IV. törvény és egyes törvények pénzügyi bűncselekményekkel összefüggő módosításáról szóló 2011. évi LXIII. törvény 6. § (3) bekezdése.
+92. §
 
 #### 14. Záró rendelkezések
 
