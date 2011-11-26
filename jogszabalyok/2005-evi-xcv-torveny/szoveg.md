@@ -214,6 +214,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) Amennyiben a gyógyszertár a készletéből az igényelt gyógyszert azonnal kiadni nem tudja, tájékoztatni köteles a beteget a gyógyszer beszerzésének várható időpontjáról.
 
+(5) Intézeti gyógyszertár a 16. § (2) bekezdésben foglalt esetben a gyógyszerhiánnyal érintett gyógyszert másik intézeti gyógyszertártól is beszerezheti.
+
 13. §
 
 14. §
@@ -250,15 +252,19 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 ### A forgalomba hozatali engedély jogosultjának, a gyógyszer-nagykereskedelmi engedély jogosultjának, illetve a gyógyszertár működtetőjének gyógyszerellátásra vonatkozó felelőssége
 
-16. § (1) Ha a forgalomba hozatali engedély jogosultja a gyógyszert a Magyar Köztársaság területén nem kívánja forgalmazni, ezt a tényt a forgalmazás várható megszüntetését megelőző legalább három hónappal – legkésőbb azonban az utolsó gyártási tétel gyógyszer-nagykereskedőnek történő átadásakor – a vele szerződéses jogviszonyban álló gyógyszer-nagykereskedőkkel, a gyógyszerészeti államigazgatási szervvel és az egészségbiztosítási szervvel tudatni köteles.
+16. § (1) Ha a forgalomba hozatali engedély jogosultja a gyógyszert Magyarország területén nem kívánja forgalmazni, ezt a tényt az utolsó gyártási tétel gyógyszer-nagykereskedőnek történő átadásakor, de legkésőbb a forgalmazás várható megszüntetése előtt három hónappal a vele szerződéses jogviszonyban álló gyógyszer-nagykereskedőkkel, a gyógyszerészeti államigazgatási szervvel és az egészségbiztosítási szervvel tudatni köteles, úgy, hogy a forgalmazás várható idejének megszűnéséig a gyógyszer addigi felhasználásából számított szükséges mennyiség rendelkezésre állását biztosítja. A forgalomba hozatali engedély jogosultja által bejelentett és az ellátáshoz szükséges készlet rendelkezésre állását a gyógyszerészeti államigazgatási szerv vizsgálja.
 
-(2) Ha a forgalomba hozatali engedély jogosultja a gyógyszert a Magyar Köztársaság területén legalább három hónapig nem tudja forgalmazni, a forgalomba hozatali engedély jogosultja ezt a tényt, valamint a forgalmazás szünetelésének időtartamát, a vele szerződéses jogviszonyban álló gyógyszer-nagykereskedőkkel, a gyógyszerészeti államigazgatási szervvel és az egészségbiztosítási szervvel haladéktalanul tudatni köteles.
+(2) Ha a forgalomba hozatali engedély jogosultja Magyarországon a gyógyszerrel a folyamatos ellátást nem tudja biztosítani és a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátásról szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 21. § (4) bekezdésében foglalt gyógyszerhiány esete áll fenn vagy az előreláthatólag bekövetkezik, a forgalomba hozatali engedély jogosultja ezt a tényt, valamint ennek időtartamát, az ezen idő alatt is elérhető mennyiség nagyságrendjét a vele szerződéses jogviszonyban álló gyógyszer-nagykereskedőkkel, a gyógyszerészeti államigazgatási szervvel és az egészségbiztosítási szervvel haladéktalanul tudatni köteles.
 
 (3) A gyógyszer-nagykereskedelmi engedély jogosultja köteles azon gyógyszereket beszerezni és forgalmazni, amelyek forgalmazására nagykereskedelmi tevékenységi engedélyt kapott.
 
 (4) A gyógyszertár működtetőjének ellátási felelősségéről a gyógyszertárak létesítéséről és működésük egyes szabályairól külön jogszabály rendelkezik.
 
-(5)
+(5) A forgalomba hozatali engedély jogosultjának biztosítania kell, hogy a Magyarországon vele szerződésben álló gyógyszer-nagykereskedők együttesen az egészségügyért felelős miniszter rendeletében meghatározott hatóanyagú gyógyszerekből az ott meghatározott mennyiségű készlettel folyamatosan rendelkezzenek. Az érintett hatóanyagok köre a gyógyszerészeti államigazgatási szerv javaslata alapján kerül meghatározásra.
+
+(6) Az (2) bekezdés szerinti gyógyszerhiányra vonatkozó bejelentést a gyógyszerészeti államigazgatási szerv honlapján közzéteszi és erről az állami egészségügyi, katasztrófa- és védelmi készlet kezelőjét és az egészségbiztosítási szervet értesíti.
+
+(7) Az (2) bekezdés szerinti gyógyszerhiány esetében a forgalomba hozatali engedély jogosultja és a gyógyszer-nagykereskedő a gyógyszerhiány kezelése érdekében az egészségügyért felelős miniszter rendeletében foglaltak szerint köteles együttműködni az állami egészségügyi, katasztrófa- és védelmi készlet kezelőjével, a gyógyszerészeti államigazgatási szervvel és az egészségbiztosítási szervvel.
 
 ### A gyógyszerek és a gyógyszerellátáshatósági ellenőrzése
 
@@ -361,7 +367,7 @@ kártérítést fizet.
 
 25. § (1) Gyógyszert rendelni az egészségügyről szóló 1997. évi CLIV. törvény 129. §-ában foglaltakra figyelemmel – az e törvényben és az annak végrehajtására megalkotott rendeletben foglalt kivétellel – csak a forgalomba hozatali engedélyében jóváhagyott alkalmazási előírásban szereplő – a Vényminták Gyűjteményében szereplő készítmény esetén az ott közölt – javallatban lehet. Gyógyszer rendelésére jogosult minden orvos és fogorvos (a továbbiakban együtt: orvos), aki az orvosi oklevélhez kötött tevékenység folytatására jogosult, és a külön jogszabályban meghatározott, gyógyszerrendelésre jogosító bélyegzővel rendelkezik.
 
-(2) Azt a gyógyszert, amely az EGT-megállapodásban részes államban nem, de más országban forgalomba hozatali engedéllyel rendelkezik, különleges esetben gyógyászati célra akkor lehet alkalmazni, ha a felhasználását különös méltánylást érdemlő betegellátási érdek indokolja, és alkalmazását – a külön jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte. Azt a gyógyszert, amelyet az EGT-megállapodásban részes államban forgalomba hozatalra engedélyeztek, gyógyászati célra akkor lehet alkalmazni, ha azt a külön jogszabályban foglaltaknak megfelelően a gyógyszerészeti államigazgatási szervnek bejelentették.
+(2) Azt a gyógyszert, amely az EGT-megállapodásban részes államban nem, de más országban forgalomba hozatali engedéllyel rendelkezik, különleges esetben gyógyászati célra akkor lehet alkalmazni, ha felhasználását különös méltánylást érdemlő betegellátási érdek vagy a Gyftv. 21. § (4) bekezdésében foglalt gyógyszerhiány indokolja, és alkalmazását – a külön jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte. Azt a gyógyszert, amelyet az EGT-megállapodásban részes államban forgalomba hozatalra engedélyeztek, gyógyászati célra akkor lehet alkalmazni, ha azt a külön jogszabályban foglaltaknak megfelelően a gyógyszerészeti államigazgatási szervnek bejelentették.
 
 (3) Az orvosi gyógyszerrendelés részletes szabályait külön jogszabály állapítja meg.
 
@@ -377,6 +383,12 @@ kártérítést fizet.
 - a) az adott beteg kezelése más forgalomban lévő gyógyszer alkalmazási előírása szerint nem lehetséges vagy eredménytelen, és a külön jogszabály szerinti bizonyítékok alapján az adott gyógyszer indikáción túli alkalmazásával esély van a gyógyszeres kezelés sikerességére, illetve a beteg állapotának javítására vagy stabilizálására,
 - b) az adott gyógyszer Magyarországon vagy más országban forgalomba hozatalra engedéllyel rendelkezik, és
 - c) az adott terápiás terület szakorvosi szakképesítéssel rendelkező orvosa a külön jogszabályban foglalt feltételeknek megfelelően a gyógyszer indikáción túli alkalmazását az adott betegre nézve a gyógyszerészeti államigazgatási szervtől kérelmezte és azt a gyógyszerészeti államigazgatási szerv egyedileg engedélyezte.
+
+(6a) Gyógyszert a (6) bekezdésben foglaltakon túl akkor is lehet indikáción túli gyógyszerrendelés keretében rendelni, illetve alkalmazni, ha
+
+- a) az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagymértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet,
+- b) jogszabály szerinti bizonyítékok alapján az adott gyógyszer indikáción túli alkalmazásával esély van a gyógyszeres kezelés sikerességére, illetve a beteg állapotának javítására vagy stabilizálására, és
+- c) a (6) bekezdés b)–c) pontjában foglaltak teljesülnek.
 
 (7) Amennyiben a gyógyszer rendelése a forgalomba hozatali engedélyének alkalmazási előírása alapján az adott esetben ellenjavallt, nem lehet indikáción túli gyógyszerrendelés keretében sem alkalmazni.
 
@@ -462,7 +474,7 @@ rendeletben szabályozza.
 - d) a klinikai vizsgálatok szakmai feltételeit, a klinikai vizsgálatok engedélyezéséhez szükséges dokumentációt, az engedélyezési eljárás részletes szabályait, a kutatásetikai bizottság eljárását, valamint a klinikai vizsgálatok végzésének és ezek ellenőrzésének szakmai feltételeit,
 - e) a gyógyszernek nem minősülő gyógyhatású anyag vagy termék gyógyszerré történő átminősítésének feltételeit,
 - f) a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenység végzésének részletes szabályait,
-- g) az orvosi gyógyszerrendelés, valamint a sürgős szükség esetén indokolt indikáción túli gyógyszerrendelés szabályait
+- g) az orvosi, a sürgős szükség esetén indokolt indikáción túli, valamint a gyógyszerhiány esetén történő gyógyszerrendelés szabályait,
 - h) az intézeti gyógyszerellátás szabályait,
 - i) a gyógyszergyártásnál, valamint a gyógyszer-nagykereskedelmi tevékenység folytatásánál közreműködő meghatalmazott személyek szakképesítési követelményeit,
 - j) a kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszerek orvosi rendelésének, gyógyszertári forgalmazásának – ideértve a gyógyszertári tárolás, nyilvántartás, valamint a gyógyszertárból történő kiadást is – szabályait, továbbá gyógyintézeti felhasználásának és nyilvántartásának rendjét,
@@ -474,6 +486,9 @@ rendeletben szabályozza.
 - p) a gyógyszerek ártalmatlanításának módját és a követendő eljárás rendjét, a kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszerek esetén alkalmazandó fokozott biztonsági rendszabályokat, valamint a környezetvédelmi előírások betartásának ellenőrzését,
 - q) a fejlett terápiás gyógyszerkészítmények kórházi eseti gyártásának engedélyezési szabályait,
 - r) a gyógykezelt személy által a határátlépés során a gyógykezeléshez szükséges, kábítószerként vagy pszichotróp anyagként minősített gyógyszerekről kiállítandó kezelőorvosi igazolás nemzetközi előírásoknak megfelelő tartalmi és formai követelményeit,
+- s) a 16. § (5) bekezdése szerinti, a folyamatos ellátás biztosításához szükséges készletek mennyiségét, és hatóanyagok körét,
+- t) a farmakovigilanciával kapcsolatos szabályokat,
+- u) a gyógyszerhiány kezelése érdekében a gyógyszerhiánnyal érintett gyógyszer forgalomba hozatali engedély jogosultja, a gyógyszer-nagykereskedő, az állami egészségügyi, katasztrófa- és védelmi készlet kezelője, az egészségbiztosítási szerv, valamint a gyógyszerészeti államigazgatási szerv közötti együttműködésre vonatkozó szabályokat
 
 rendeletben szabályozza.
 

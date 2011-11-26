@@ -81,7 +81,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 
 (4) A csődeljárásban az adóst, a hitelezőt és a vagyonfelügyelőt, a felszámolási eljárásban az adóst, a hitelezőt és a felszámolót kell félnek tekinteni. Ha a vagyonfelügyelő vagy a felszámoló tevékenysége vagy mulasztása harmadik személy jogát, jogos érdekét is érinti, az e személy által benyújtott kifogás (51. §) elbírálása során a kifogás előterjesztője is félnek minősül.
 
-(5) 2011. december 5-étől a bíróság és a felek közötti írásbeli közlésekre a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglaltakat kell alkalmazni. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
+(5) 2012. június 30-ától a bíróság és a felek közötti írásbeli közlésekre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezéseit kell alkalmazni. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
 
 6/A. § (1) Csődeljárás és felszámolási eljárás nem indítható meg, ha a büntetőügyben a jogi személlyel szemben intézkedés alkalmazásának lehet helye, és erről a büntetőügyben eljáró bíróság vagy ügyész a bíróságot [6. § (1) bekezdés] értesítette.
 
@@ -129,7 +129,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 
 (4) A hitelező akkor nyújthat be az adós elleni csődeljárás iránti kérelmet, ha az adóssal szemben a 27. § (2) bekezdésében foglaltak szerinti követeléssel rendelkezik, azonban felszámolási eljárás helyett csődeljárásban kívánja az igényét érvényesíteni.
 
-(5) A csődeljárás iránti (1) és (4) bekezdés szerinti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell benyújtani, amely 2011. december 5-étől – ide nem értve a természetes személyek kérelmeit – kizárólag elektronikus nyomtatvány lehet.
+(5) A csődeljárás iránti (1) és (4) bekezdés szerinti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell benyújtani, amely 2012. június 30-ától – ide nem értve a természetes személyek kérelmeit – kizárólag elektronikus nyomtatvány lehet.
 
 8. § (1) A 7. § szerinti kérelem benyújtásához – ha azt az adós nyújtja be – az adós gazdálkodó szervezet alapítói (tagsági) jogait gyakorló legfőbb szerv előzetes egyetértése szükséges. Egyéni cég esetében a kérelmet a cégtulajdonos saját döntése alapján nyújthatja be. A kérelem benyújtásáról a munkavállalókat, az Mt. 18. §-ában meghatározott szakszervezeteket, az üzemi tanácsot (üzemi megbízottat) tájékoztatni kell.
 
