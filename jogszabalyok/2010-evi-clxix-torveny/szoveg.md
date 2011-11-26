@@ -8,9 +8,9 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2011. évi
 
-- a) bevételi főösszegét 12 970 820,9 millió forintban,
-- b) kiadási főösszegét 14 155 070,1 millió forintban,
-- c) hiányát 1 184 249,2 millió forintban állapítja meg.
+- a) bevételi főösszegét 12 974 191,6 millió forintban,
+- b) kiadási főösszegét 14 491 291,2 millió forintban,
+- c) hiányát 1 517 099,6 millió forintban állapítja meg.
 
 2. § (1) Az 1. §-ban megállapított kiadási és bevételi főösszegeknek, valamint a saját bevétellel nem fedezett kiadásokhoz nyújtott költségvetési támogatási előirányzatoknak fejezetek, címek, alcímek, jogcím-csoportok, jogcímek szerinti – a belső és külső tételeket együttesen tartalmazó – részletezését az 1. melléklet tartalmazza.
 
@@ -47,6 +47,8 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 (4) Az (1) bekezdés szerinti céltartalék terhére a Kormány engedélyével támogathatók a Költségvetési Tanács Titkárságának megszűntetésével elért valós létszámcsökkenésekkel kapcsolatos személyi kifizetések.
 
 (5) Az (1) bekezdés szerinti céltartalék terhére támogatható a költségvetési szerveknél foglalkoztatottak részére a 2011. évben – jogszabály alapján – járó többlet személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulékok kifizetése. Az előirányzatok átcsoportosítására a Kormány kap felhatalmazást.
+
+(6) Az (1) bekezdés szerinti céltartalék terhére támogatható a központi költségvetési szerveknél a feladatok változásával, a szervezetek, szervezetrendszerek korszerűsítésével, a feladatellátás ésszerűsítésével megvalósuló, kiadás- és költségvetési támogatás-megtakarítást eredményező létszámcsökkentések személyi és munkaadókat terhelő járulék kifizetése. Az előirányzatok átcsoportosítására a Kormány kap felhatalmazást.
 
 ### Az állam vagyonával kapcsolatos rendelkezések
 
@@ -284,7 +286,7 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 
 (9) A Közigazgatási és Igazságügyi Minisztérium fejezet, 15. cím 3. alcím 14. Nemzeti Civil Alapprogram jogcímcsoport 2011. június 30-ig időarányosan, ezt követően a Kormány döntése szerint használható fel.
 
-31. § (1) A Nemzeti Adó- és Vámhivatal fejezet, 1. Nemzeti Adó- és Vámhivatal Igazgatása cím, 1. Működési költségvetés előirányzat-csoport, 1. Személyi juttatások kiemelt előirányzatán legfeljebb 25 000,0 millió forint, a 2. Munkaadókat terhelő járulékok kiemelt előirányzatán legfeljebb 6750,0 millió forint előirányzat-módosítás engedélyezhető, ha A költségvetés közvetlen bevételei és kiadásai fejezet 2. cím, 1. Általános forgalmi adó alcím előirányzata, 2. Jövedéki adó alcím előirányzata a 3. cím, 1. Személyi jövedelemadó alcím előirányzata, a Nyugdíjbiztosítási Alap fejezet, 1. cím, 1. Munkáltatói nyugdíjbiztosítási járulék alcím előirányzata, a 2. alcím, 1. Biztosított által fizetett nyugdíjjárulék jogcím-csoport előirányzata, az Egészségbiztosítási Alap fejezet, 1. cím, 1. Munkáltatói egészségbiztosítási járulék alcím előirányzata, a 2. Biztosítotti egészségbiztosítási járulék alcím előirányzata együttesen legalább 101,0%-ban teljesül.
+31. § (1) A Nemzeti Adó- és Vámhivatal fejezet, 1. Nemzeti Adó- és Vámhivatal Igazgatása cím, 1. Működési költségvetés előirányzat-csoport, 1. Személyi juttatások kiemelt előirányzatán legfeljebb 18 000,0 millió forint, a 2. Munkaadókat terhelő járulékok kiemelt előirányzatán legfeljebb 4860,0 millió forint előirányzat-módosítás engedélyezhető, ha a költségvetés közvetlen bevételei és kiadásai fejezet 2. cím, 1. Általános forgalmi adó alcím előirányzata, 2. Jövedéki adó alcím előirányzata a 3. cím, 1. Személyi jövedelemadó alcím előirányzata, a Nyugdíjbiztosítási Alap fejezet, 1. cím, 1. Munkáltatói nyugdíjbiztosítási járulék alcím előirányzata, a 2. alcím, 1. Biztosított által fizetett nyugdíjjárulék jogcím-csoport előirányzata, az Egészségbiztosítási Alap fejezet, 1. cím, 1. Munkáltatói egészségbiztosítási járulék alcím előirányzata, a 2. Biztosítotti egészségbiztosítási járulék alcím előirányzata együttesen legalább 101,0%-ban teljesül.
 
 (2) Az államháztartásért felelős miniszter negyedévente előirányzat-módosítást engedélyezhet az (1) bekezdés szerinti személyi juttatások és munkaadókat terhelő járulékok előirányzatok terhére, amennyiben az általa meghatározott negyedéves bevételi tervei teljesülnek. Az év közben engedélyezett előirányzat-módosítás nem haladhatja meg a negyedéves bevételi terven felül teljesülő előirányzatok összegét.
 
@@ -339,7 +341,7 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 
 (2) Amennyiben a 13. §, illetve a 42. § szerinti normatív hozzájárulásokra és támogatásokra jogosult év közben feladatot ad át a feladat ellátására kötelezett helyi önkormányzat részére, az így felszabaduló előirányzattal az érintett fejezet előirányzata csökken, a helyi önkormányzatot megillető normatív hozzájárulás és támogatás előirányzata megemelkedik a 3. és 8. melléklet igényjogosultsági szabályai alapján.
 
-(3) Ha a helyi önkormányzat normatív hozzájárulásról és támogatásról való lemondása olyan – nem helyi önkormányzat részére történő – feladatellátással függ össze, amelyre a feladatot átvevő jogosult a 13. §, illetve a 42. § szerinti normatív hozzájárulás és támogatás igénybevételére, a feladatátadással év közben felszabaduló összeggel a helyi önkormányzatokat megillető normatív hozzájárulás és támogatás előirányzatát csökkenteni kell, és az annak további folyósításáról gondoskodó minisztériumi fejezet ilyen célú előirányzatát meg kell emelni.
+(3) Ha a helyi önkormányzat normatív hozzájárulásról és támogatásról való lemondása olyan – nem helyi önkormányzat részére történő – feladatellátással függ össze, amelyre a feladatot átvevő jogosult a 13. §, illetve a 42. § szerinti normatív hozzájárulás és támogatás igénybevételére, a feladatátadással év közben felszabaduló összeggel a helyi önkormányzatokat megillető normatív hozzájárulás és támogatás, illetve az Önkormányzati fejezeti tartalék előirányzatát csökkenteni kell, és az annak további folyósításáról gondoskodó minisztériumi fejezet ilyen célú előirányzatát meg kell emelni.
 
 (4) A települési és területi kisebbségi önkormányzatok feladatarányos támogatása – az (1) bekezdés a) pontja szerinti támogatásokon felül, központosított előirányzatként – a kisebbségi önkormányzatoknak a központi költségvetésből nyújtott feladatarányos támogatások feltételrendszeréről és elszámolásának rendjéről szóló kormányrendelet szerinti rendben, a Közigazgatási és Igazságügyi Minisztérium fejezet, 21. Települési és területi kisebbségi önkormányzatok támogatása cím előirányzatából vehető igénybe azzal, hogy a támogatások igénylése során, illetőleg a döntéshozatali eljárásban nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt.
 
@@ -364,7 +366,9 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 
 (4) Az illetékbeszedéssel kapcsolatos kiadásokra a Fővárosi Önkormányzattól a területén beszedett illetékbevétel 4%-a, a megyei és a megyei jogú városi önkormányzattól a területén beszedett illetékbevétel 8,5%-a visszatartásra kerül.
 
-(5) A (2) és (3) bekezdés szerinti illetékbevételt a Kincstár a tárgyhónapot követő hónap 20-áig utalja át a fővárosi, a megyei és a megyei jogú városi önkormányzatok pénzforgalmi számlájára.
+(5) A (2) és (3) bekezdés szerinti illetékbevételt a Kincstár – a (6) bekezdésben foglalt kivétellel – a tárgyhónapot követő hónap 20-áig utalja át a fővárosi, a megyei, és a megyei jogú városi önkormányzatok pénzforgalmi számlájára.
+
+(6) A (3) bekezdés alapján a megyei önkormányzatokat a 2011. december 1-jétől beszedett illetékből megillető részesedés – a NAV kimutatása alapján – a központi költségvetés bevételét képezi.
 
 40. § (1) A gépjárműadóról szóló 1991. évi LXXXII. törvény alapján a belföldi gépjárművek után a települési önkormányzat által beszedett adó 100%-a az önkormányzatot illeti meg.
 
@@ -668,11 +672,13 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 
 (2) Az (1) bekezdés szerinti követelés-elengedés alapján elszámolt összeg a kamat összegével eltérhet az előirányzattól.
 
-(3) Az Országgyűlés elengedi a Várpalota és Régiója Környezetvédelmi Rehabilitációs Programra létrehozott céltársulásnak (Várpalota, Berhida, Pétfürdő, Öskü, Ősi, Tés, Balatonalmádi) a Programban meghatározott beruházáshoz kapcsolódó, 2011. év folyamán esedékes kölcsöntartozások 50%-át, azaz 158 321 826 forintot. Az elengedett összegek 2011. májusában: Balatonalmádi: 11 541 084 forint, Berhida: 6 147 052 forintot, Ősi: 6 098 859 forint, Öskü: 3 822 472 forint, Pétfürdő: 5 176 623 forint, Tés: 1 957 657 forint, Várpalota: 43 144 709 forint, illetve 2011. novemberében: Balatonalmádi: 11 945 022 forint, Berhida: 6 362 199 forint, Ősi: 6 312 319 forint, Öskü: 3 956 258 forint, Pétfürdő: 5 176 623 forint, Tés: 2 026 175 forint, Várpalota: 44 654 774 forint.
+(3) Az Országgyűlés 2011. december 1-jei hatállyal lemond a Magyar Államnak a Várpalota és Régiója Környezetvédelmi Rehabilitációs Programra létrehozott céltársulásban részt vevő Balatonalmádi, Berhida, Ősi, Öskü, Pétfürdő, Tés, és Várpalota települések önkormányzataival szemben fennálló kölcsön követelés tőke- és kamatösszegéről.
 
 (4) Az Országgyűlés elengedi a Magyar Televízió Zártkörűen Működő Részvénytársaságnak a központi költségvetéssel szemben, 2011. január 1. napján fennálló adó-, illeték-, valamint járuléktartozását.
 
 (5) Az Országgyűlés felhatalmazza az Országos Foglalkoztatási Közalapítványt, hogy a „Tulajdonosi jogok gyakorlása” című központi program keretében nyújtott tulajdonosi kölcsönnel kapcsolatos követelését 2011. január 5-ei hatállyal elengedje.
+
+(6) Az Országgyűlés hozzájárul, hogy a Magyar Állam legkésőbb 2011. december 30-i hatállyal ellenérték nélkül átvállaljon a MÁV Magyar Államvasutak Zrt. (a továbbiakban: MÁV Zrt.) hitelviszonyon alapuló tartozásaiból legfeljebb 64 000,0 millió forint tőkeösszegű adósságot és annak járulékait. A MÁV Zrt.-t ezen tartozás-átvállalás tekintetében nem terheli illetékkötelezettség. Az átvállalandó adósság részleteit a Kormány állapítja meg. A Magyar Államot az átvállalás során az államháztartásért felelős miniszter képviseli.
 
 76. § (1) Az Országgyűlés jóváhagyja, hogy az államháztartásért felelős miniszter a Magyar Állam nevében 2011. június 30-ig a Nemzetközi Újjáépítési és Fejlesztési Bank részére a korábbi alaptőke-hozzájárulás nemzeti valutában befizetett hányada értékállóságának biztosítására 2 158 188 977 forint összegű fizetési ígérvényt bocsásson ki.
 
@@ -681,7 +687,24 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 - a) 7 980 000 euró összeg az Európai Újjáépítési és Fejlesztési Bank tartalékai terhére a Magyar Állam részére történő jóváírás formájában a befizetett tőkerészt,
 - b) 71 130 000 euró összeg a Magyar Állam feltételes fizetési kötelezettségvállalásával a lehívható tőkerészt növeli.
 
+(3) Az Országgyűlés jóváhagyja, hogy az államháztartásért felelős miniszter a Magyar Állam nevében kötelezettséget vállaljon az Európa Tanács Fejlesztési Bank (a továbbiakban: CEB) 2011. évi 386. számú határozatában szereplő 17 904 000 euró összegnek megfelelő alaptőke emelésre. A tőkeemelésből
+
+- a) 2 004 000 euró összeg a CEB tartalékai terhére, Magyarország részére történő jóváírásként valósul meg,
+- b) 15 900 000 euró összeg a Magyar Állam feltételes fizetési kötelezettségvállalásával a lehívható tőkerészt növeli.
+
+(4) Az Országgyűlés jóváhagyja, hogy az államháztartásért felelős miniszter a Magyar Állam nevében kötelezettséget vállaljon a Nemzetközi Újjáépítési és Fejlesztési Bank (a továbbiakban: Világbank) 2011. évi 613. számú határozatában szereplő 274 565 260 USD összegnek megfelelő alaptőke emelésre. A tőkeemelésből
+
+- a) 16 473 915,6 USD összegű fizetési kötelezettséget a Világbank felé nemzeti valutában, a 2012–2016. években, egyenlő részletekben kell teljesíteni,
+- b) 258 091 344,4 USD összeg a Magyar Állam feltételes fizetési kötelezettségvállalásával a lehívható tőkerészt növeli.
+
+(5) Az Országgyűlés
+
+- a) jóváhagyja a Világbank felé Magyarország által a korábbi években, nemzeti valutában vállalt kötelezettségek USD összegre történő átalakítását, amely a Magyar Állam számára a 2012–2017. évek között 26 502 569,06 USD-nak megfelelő összeg nemzeti valutában teljesítendő fizetési kötelezettséget eredményez,
+- b) felhatalmazza az államháztartásért felelős minisztert, hogy az átalakítás végrehajtását szabályozó visszavásárlási megállapodást a Világbankkal megkösse.
+
 77. § Az I. Országgyűlés fejezeten belül megtervezett, a volt köztársasági elnökök közéletben történő részvétele, közcélú felajánlásai, adományai vállalásai költségeinek fedezetéül szolgáló 2011. évre megtervezett előirányzat összegéből a volt köztársasági elnökök részére 80,0–80,0 millió forint áll rendelkezésre.
+
+77/A. § A Magyar Állam a Magyar Fejlesztési Bank Zrt.-nek nyújtandó tőkeemelést állampapírok átadásával is teljesítheti.
 
 ### KILENCEDIK Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -2315,7 +2338,8 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 |  |  |  |  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 011,1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 9 |  |  |  |  |  |  |  |  | Fejezeti tartalék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  | Fejezeti általános tartalék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 500,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 500,0 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1–16. cím összesen: |  |  |  |  | 341 846,2 |  |  |  |  |  |  |  |  | 93 619,1 |  |  |  |  |  | 248 227,1 |  |  |  |  |  |
+|  |  | 18 |  |  |  |  |  |  |  |  |  | MFB tőkeemelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 60 000,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 60 000,0 |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1–16. cím összesen: |  |  |  |  | 401 846,2 |  |  |  |  |  |  |  |  | 93 619,1 |  |  |  |  |  | 308 227,1 |  |  |  |  |  |
 | 17 |  |  |  |  |  |  |  |  |  |  | Vállalkozások folyó támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  |  |  |  |  | Egyedi támogatások, ellentételezések |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 2 |  |  |  |  |  |  |  |  | Bányabezárás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 000,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -2328,7 +2352,7 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 |  |  | 2 |  |  |  |  |  |  |  |  |  | Kutatási és Technológiai Innovációs Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 179,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 20 |  |  |  |  |  |  |  |  |  |  | K-600 hírrendszer működtetésére |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 55,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 21 |  |  |  |  |  |  |  |  |  |  | Peres ügyek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 800,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | XVII. fejezet összesen: |  |  |  |  |  |  | 574 228,0 |  |  |  |  |  |  |  |  | 94 239,1 |  |  |  |  |  | 248 227,1 |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | XVII. fejezet összesen: |  |  |  |  |  |  | 634 228,0 |  |  |  |  |  |  |  |  | 94 239,1 |  |  |  |  |  | 308 227,1 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XVIII. KÜLÜGYMINISZTÉRIUM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  |  |  |  |  |  | Külügyminisztérium központi igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6 548,3 |  |  |  |
@@ -2766,7 +2790,7 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  | Országos Orvosi Rehabilitációs Intézet beruházásának befejezése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 100,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 100,0 |  |  |  |
 |  |  | 2 |  |  |  |  |  |  |  |  |  | Normatív finanszírozás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 1 |  |  |  |  |  |  |  |  | Felsőoktatási intézmények hallgatóinak juttatásai központi előirányzata |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 525,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 525,0 |  |  |  |
-|  |  |  |  | 3 |  |  |  |  |  |  |  |  | Közoktatási célú humánszolgáltatás és kiegészítő támogatás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 638,1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 103 638,1 |  |  |  |  |  |
+|  |  |  |  | 3 |  |  |  |  |  |  |  |  | Közoktatási célú humánszolgáltatás és kiegészítő támogatás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 107 575,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 107 575,0 |  |  |  |  |  |
 |  |  |  |  | 7 |  |  |  |  |  |  |  |  | Hallgatói létszám képzési többlete (állami felsőoktatás) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 200,0 |  |  |
 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 120,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3076,14 +3100,14 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Intézményi beruházási kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 38,8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Egyéb intézményi felhalmozási kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 46,6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 19 |  |  |  |  |  |  |  |  |  | Szociális célú humánszolgáltatások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  | 1 |  |  |  |  |  |  |  |  | Szociális célú humánszolgáltatások normatív állami támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 34 035,1 |  |  |  |  |
+|  |  |  |  | 1 |  |  |  |  |  |  |  |  | Szociális célú humánszolgáltatások normatív állami támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 37 562,1 |  |  |  |  |
 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 16,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  | 34 019,1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  | 3 |  |  |  |  |  |  |  |  | Egyházi szociális intézményi normatíva kiegészítése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 13 400,0 |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  | 37 546,1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 3 |  |  |  |  |  |  |  |  | Egyházi szociális intézményi normatíva kiegészítése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 715,5 |  |  |  |  |
 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 7,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  | 13 393,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 708,5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 4 |  |  |  |  |  |  |  |  | Támogató szolgáltatások, közösségi ellátások, és jelzőrendszeres házi segítségnyújtás finanszírozása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 7 275,2 |  |  |  |
 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Működési költségvetés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 72,1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3352,7 +3376,7 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 |  |  |  |  |  |  |  |  |  |  | 2 |  |  |  |  |  |  | Munkaadókat terhelő járulékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 3 |  |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 20,7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 48,5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1–20. cím összesen: |  |  |  |  | 898 302,2 |  |  |  |  |  |  |  | 366 856,1 |  |  |  |  |  |  | 531 446,1 |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1–20. cím összesen: |  |  |  |  | 907 081,6 |  |  |  |  |  |  |  | 366 856,1 |  |  |  |  |  |  | 540 225,5 |  |  |  |  |  |
 | 21 |  |  |  |  |  |  |  |  |  |  | Családi támogatások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  |  |  |  |  | Családi pótlék |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 357 726,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  |  |  |  |  | Anyasági támogatás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 941,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3378,7 +3402,7 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 |  |  |  |  | 2 |  |  |  |  |  |  |  |  | Egészségügyi feladatok ellátásával kapcsolatos hozzájárulás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 000,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | 3 |  |  |  |  |  |  |  |  | Terhesség-megszakítás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 400,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 4 |  |  |  |  |  |  |  |  |  | Folyósított ellátások utáni térítés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 600,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | XX. fejezet összesen: |  |  |  |  | 1 526 591,2 |  |  |  |  |  |  |  |  | 366 856,1 |  |  |  |  |  |  | 531 446,1 |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | XX. fejezet összesen: |  |  |  |  | 1 535 370,6 |  |  |  |  |  |  |  |  | 366 856,1 |  |  |  |  |  |  | 540 225,5 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XXX. GAZDASÁGI VERSENYHIVATAL |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  |  |  |  |  |  | Gazdasági Versenyhivatal igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 275,8 |  |  |  |
@@ -3657,8 +3681,8 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 | 4 |  |  |  |  |  |  |  |  |  |  | Tőke követelések visszatérülése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  |  |  |  |  | Kormányhitelek visszatérülése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 336,1 |  |  |  |  |  |  |  |  |
 |  |  | 2 |  |  |  |  |  |  |  |  |  | Nemzetközi pénzügyi szervezetek és külföldi pénzintézetek belföldre kihelyezett hiteleinek tőke-visszatérülése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  | 3 |  |  |  |  |  |  |  |  | OECF hitel tőke-visszatérülése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 316,6 |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | XLI. fejezet összesen: |  |  |  |  | 1 079 416,7 |  |  |  |  |  |  |  |  |  | 59 535,3 |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 3 |  |  |  |  |  |  |  |  | OECF hitel tőke-visszatérülése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 687,3 |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | XLI. fejezet összesen: |  |  |  |  | 1 079 416,7 |  |  |  |  |  |  |  |  |  | 62 906,0 |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  |  |  |  |  |  | Vállalkozások költségvetési befizetései |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3758,8 +3782,12 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 |  |  | 4 |  |  |  |  |  |  |  |  |  | Hollandia és Svédország számára teljesítendő bruttó GNI csökkentés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 833,3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 38 |  |  |  |  |  |  |  |  |  |  | Adósság-átvállalás és tartozás-elengedés |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  |  |  |  |  |  |  | Várgondnokság Nonprofit Kft. tartozás-elengedése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 216,2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | 3 |  |  |  |  |  |  |  |  |  | Várpalota és Régiója Környezetvédelmi Rehabilitácíós Programra létrehozott céltársulás 2011. évi kölcsöntörlesztésének elengedése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 158,3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 194 458,5 |  |  |  |  |  |  |  | 6 152 102,5 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 3 |  |  |  |  |  |  |  |  |  | Várpalota és Régiója Környezetvédelmi Rehabilitációs Programra létrehozott céltársulás kölcsönének elengedése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 600,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 4 |  |  |  |  |  |  |  |  |  | A megyei önkormányzatoktól és a Fővárosi Önkormányzattól átvállalt adósság |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 1 |  |  |  |  |  |  |  |  | Adósság-átvállalás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 70 000,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 2 |  |  |  |  |  |  |  |  | Hitelviszonyt megtestesítő értékpapírból eredő fizetési kötelezettség teljesítése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 130 000,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 5 |  |  |  |  |  |  |  |  |  | A MÁV Zrt.-től átvállalt adósság |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 64 000,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 461 900,2 |  |  |  |  |  |  |  | 6 152 102,5 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | XLIII. AZ ÁLLAMI VAGYONNAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -4100,9 +4128,9 @@ Az Országgyűlés a Magyar Köztársaság 2011. évi költségvetéséről az �
 |  |  |  |  |  |  |  |  |  |  | 5 |  |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 175,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5. cím összesen: |  |  |  | 9 910,1 |  |  |  |  |  |  |  |  |  | 424,6 |  |  |  |  | 9 485,5 |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | LXXII. fejezet összesen: |  |  |  |  |  |  | 1 458 559,9 |  |  |  |  |  |  |  | 1 370 936,7 |  |  |  |  |  |  |  |  |  | 9 485,5 |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | K I A D Á S I F Ő Ö S S Z E G : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 155 070,1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | B E V É T E L I F Ő Ö S S Z E G : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 12 970 820,9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | A FŐÖSSZEGEK EGYENLEGE : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | –1 184 249,2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | K I A D Á S I F Ő Ö S S Z E G : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 14 491 291,2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | B E V É T E L I F Ő Ö S S Z E G : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 12 974 191,6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | A FŐÖSSZEGEK EGYENLEGE : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | –1 517 099,6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -6945,6 +6973,12 @@ Korkedvezmény-biztosítási járulék címen átadott pénzeszköz (35. cím, 1
 Nemzetközi elszámolások kiadásai (36. cím)
 
 Hozzájárulás az EU költségvetéséhez (37. cím)
+
+Várpalota és Régiója Környezetvédelmi Rehabilitációs Programra létrehozott céltársulás kölcsönének elengedése (38. cím, 3. alcím)
+
+A megyei önkormányzatoktól és a Fővárosi Önkormányzattól átvállalt adósság (38. cím, 4. alcím)
+
+A MÁV Zrt.-től átvállalt adósság (38. cím, 5. alcím)
 
 XLIII. AZ ÁLLAMI VAGYONNAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK
 
