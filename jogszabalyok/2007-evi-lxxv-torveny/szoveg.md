@@ -179,6 +179,8 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 (7) A díjfizetés tárgyára az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. §-ának (2) és (3) bekezdésében foglaltakat, a díjfizetésre kötelezettek körének megállapítására az Itv. 31. §-a (1) bekezdésének első mondatában, a díj visszafizetésére az Itv. 32. §-ában foglaltakat, a mulasztási bírságra az Itv. 82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített állami adóhatóság helyett a kamarát, az illeték helyett díjat kell érteni.
 
+9/A. § A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek minőségellenőrzése esetében hozott elsőfokú döntés ellen az ügyfél a miniszternél fellebbezhet. A fellebbezés során a 8–9. §-ban foglaltakat kell alkalmazni azzal az eltéréssel, hogy a kamara elnöksége helyett a minisztert, és a Magyar Könyvvizsgálói Kamara központi számlája helyett a miniszter által vezetett minisztérium Magyar Államkincstárnál vezetett számláját kell érteni.
+
 ### II. Fejezet — A KAMARAI TAG KÖNYVVIZSGÁLÓ
 
 ### Kamarai tagság keletkezése
@@ -903,9 +905,9 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 ### Képzési idő
 
-89. § (1) Az okleveles könyvvizsgálói képzés képzési ideje legfeljebb 4 tanév.
+89. § (1) Az okleveles könyvvizsgálói képzés képzési ideje legfeljebb 5 naptári év, az összes vizsga teljesítését is beleértve. A képzési idő kezdő napjának az okleveles könyvvizsgálói képzési program keretében szervezett tanfolyami képzés indításának napja minősül.
 
-(2) A képzési időt a tanulmányok 95. §-ban meghatározott elismerése megfelelően csökkenti.
+(2) A képzési idő kérelemre egy alkalommal – 1 év időtartammal – meghosszabbítható. A kérelem tekintetében a kamara oktatási bizottsága jár el.
 
 ### A képzés főbb tanulmányi területei
 
@@ -916,7 +918,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 - c) közgazdaságtan és pénzügyek,
 - d) szervezeti és vezetési ismeretek,
 - e) számvitel és elemzés,
-- f) számvitel-szervezés,
+- f) számviteli információs rendszerek,
 - g) könyvvizsgálat és ellenőrzés.
 
 ### Felvétel az okleveles könyvvizsgálói képzési programba
@@ -1451,7 +1453,7 @@ szerezte.
 
 ### Okleveles Könyvvizsgálókat Képesítő Testület
 
-140. § (1) Az OKKT 9 főből álló testület. A testület elnökének és tagjainak kinevezése legalább 3, legfeljebb 5 évre szól. Ugyanazon természetes személy legfeljebb két alkalommal nevezhető ki az OKKT tagjává.
+140. § (1) Az OKKT legalább 7, legfeljebb 9 főből álló testület. A testület elnökének és tagjainak kinevezése legalább 3, legfeljebb 5 évre szól. Ugyanazon természetes személy legfeljebb két alkalommal nevezhető ki az OKKT tagjává.
 
 (2) Az OKKT tagjainak névsorát a kamara lapjában és a kamara honlapján közzé kell tenni.
 
@@ -2120,6 +2122,14 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 (2) Az (1) bekezdés szerint engedélyezett könyvvizsgáló cég 2008. január 1-jétől az e törvény 50. § (3) bekezdése szerint megszerzett minősítéssel rendelkező könyvvizsgáló cégnek minősül azon minősítések vonatkozásában, amelyekkel a könyvvizsgáló cégként nyilvántartásba vett egyéni vállalkozó 2008. január 1-jén rendelkezett.
 
 (3) A kamara az (1)–(2) bekezdésben foglaltak végrehajtásához szükséges hatósági eljárásokat hivatalból folytatja le.
+
+208/C. § (1) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel módosított 9. § (2) bekezdése e) pontját a 2012. január 1-jét követően benyújtott kérelmekre vonatkozóan kell alkalmazni.
+
+(2) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel módosított 9/A. §-át a kihirdetés napját követően benyújtott fellebbezések esetében kell alkalmazni.
+
+(3) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel módosított 89. §-át a kihirdetést követő napon folyamatban lévő, valamint az azt követően induló okleveles könyvvizsgálói képzési programok esetében kell alkalmazni.
+
+(4) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel módosított 90. § f) pontját a 2012. január 1-jét követően induló okleveles könyvvizsgálói képzési programok esetében kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 

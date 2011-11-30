@@ -136,7 +136,7 @@ kell alkalmazni.
 - 38. üzemanyagtartály: a jármű gyártója által a járműbe szilárdan beépített azon tartály(ok), amely(ek) az üzemanyagnak közvetlenül a gépjármű motorjában való felhasználását teszi(k) lehetővé a jármű haladásához, illetve a jármű hűtő- és klímaberendezésének működését biztosítják. Üzemanyagtartály továbbá a járművek azon szilárdan beépített gáztartálya is, amely közvetlenül a gázzal való üzemelést teszi lehetővé, valamint az egyéb berendezések tartályai, amelyekkel adott esetben a gépjárművet felszerelik;
 - 39. kiegészítő üzemanyagtartály: a jármű gyártója által a konténerbe szilárdan beépített olyan tartály, amely a hűtőberendezések vagy a speciális konténerek egyéb berendezéseinek szállítás közbeni működéséhez az üzemanyag közvetlen felhasználását biztosítja;
 - 40. speciális konténer: minden olyan tartály megfelelő berendezésekkel ellátva, amelyek speciálisan a hűtő-, oxigénellátó, hőszigetelő rendszerekhez vagy más rendszerekhez szükségesek;
-- 41. jelölt gázolaj: az Európai Bizottságnak a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló 2006/428/EK határozata szerinti jelölőanyaggal megjelölt, a 2710 19 41, 2710 19 45 és 2710 19 49 vámtarifaszám alá tartozó gázolaj;
+- 41. jelölt gázolaj: az Európai Bizottságnak a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló 2011/544/EU határozata szerinti jelölőanyaggal megjelölt, a 2710 19 41, 2710 19 45 és 2710 19 49 vámtarifaszám alá tartozó gázolaj;
 - 42. ömlesztett szállítás: ásványolajtermék közúti tankautóban, vasúti tartálykocsiban, tartályhajóban, tankkonténerben vagy 210 liternél nagyobb űrtartalmú kiszerelésben való szállítása;
 - 43. pénzügyi biztosíték: az Európai Unió tagállamában, illetőleg az Európai Gazdasági Térségről szóló megállapodásban részes államban székhellyel rendelkező hitelintézet által nyújtott bankgarancia és a biztosítási szerződés alapján kiállított kötelezvény;
 - 44. háztartás: az egy lakásban életvitelszerűen együtt élő, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége;
@@ -1420,6 +1420,8 @@ minősül.
 
 (4) A (3) bekezdés rendelkezését nem kell alkalmazni a külön jogszabály szerinti hulladékból a külön jogszabály szerinti hulladékkezelés során egyébásványolaj-gyártó adóraktárban előállított egyéb ellenőrzött ásványolajra és olajtermékre, ide nem értve az üzemanyagként előállított terméket.
 
+(5) A (2) bekezdés b) pontja szerinti adómérték a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.
+
 ### Adómentes felhasználás
 
 53. § (1) Adómentes célú felhasználásnak minősül
@@ -1484,7 +1486,32 @@ ténylegesen felhasznált, adózottan beszerzett 2710 11 31 vámtarifaszámú re
 
 (3) Az adó-visszaigénylés érvényesítésekor a vámhatóság a (2) bekezdésben meghatározott dokumentumokon hitelt érdemlő módon köteles feltüntetni az adó-visszatérítés alapjaként figyelembe vett ásványolaj mennyiségét, fajtáját, valamint a visszatérített adó összegét.
 
-57. §
+57. § (1) Minősített földgázellátási üzemzavar esetén a felhasználó jogosult a földgázfelhasználása kiváltására a minősített földgázellátási üzemzavar fennállása alatt és azt követően még két munkanapon (a továbbiakban: felhasználási időszak) felhasznált gázolaj megfizetett adójából literenként 104,20 Ft-ot visszaigényelni, ha azt
+
+- a) a minősített földgázellátási üzemzavar fennállása alatt, illetve azt legfeljebb öt munkanappal megelőzően, ásványolaj-adóraktárból szerezte be, és
+- b) olyan felhasználási helyén használta fel, amelyen legalább 500 m3/óra földgáz-teljesítményt kötött le, és ott olyan gázfogyasztó készülékben vagy gázfelhasználó-technológia céljára használta fel, amelyet a (3) bekezdés b) pontja szerint a vámhatóságnak bejelentett (a továbbiakban: jogosított felhasználó).
+
+(2) E § alkalmazásában
+
+- a) felhasználó: a földgázellátásról szóló 2008. évi XL. törvényben (a továbbiakban: GET.) meghatározott felhasználó;
+- b) felhasználási hely: a GET.-ben meghatározott felhasználási hely;
+- c) minősített földgázellátási üzemzavar:
+  - ca) a GET. 96. § (1) bekezdésében meghatározott földgázellátási üzemzavarnak külön jogszabályban megállapított esete, amelynek következtében a felhasználók jelentős részének földgázzal történő ellátása csak a nagyfelhasználók földgázvételezésének csökkentésével vagy megszüntetésével biztosítható, vagy amely a felhasználók jelentős részének földgázzal történő ellátását közvetett módon veszélyezteti, valamint
+  - cb) a GET. 97. §-ában meghatározott földgázellátási válsághelyzet;
+- d) minősített földgázellátási üzemzavar fennállása: a minősített földgázellátási üzemzavar külön jogszabályban megállapított bekövetkezése és külön jogszabályban megállapított megszűnése közötti időtartam;
+- e) nagyfelhasználó: egy telephelyen 500 m3/óra vagy azt meghaladó lekötött teljesítményű felhasználó.
+
+(3) A jogosított felhasználó, ha élni kíván az adó-visszaigénylési jogával, akkor ezt köteles a felhasználási időszakban történt első gázolaj-felhasználást követően haladéktalanul, de legkésőbb a felhasználás napját követő munkanapon a vámhatósághoz írásban bejelenteni. Az adó-visszaigénylési jog érvényesítésének érdekében köteles továbbá a bejelentésével egyidejűleg
+
+- a) csatolni a földgázkereskedővel kötött szerződés másolatát,
+- b) csatolni a földgázellátási üzemzavar bekövetkezésének hónapját megelőző hónapra számított átlagos napi földgázfelhasználásának (m3/nap) levezetését azokra a felhasználási helyekre (ezen belül gázfogyasztó készülékenkénti és gázfelhasználó-technológia céljára történt felhasználásonkénti részletezésben) lebontva és összesítve, ahol földgáz helyett gázolajat használ fel,
+- c) megadni a felhasználási időszak kezdő napján meglevő gázolaj-nyitókészletet a b) pont szerinti bontásban és összesen.
+
+(4) Az adó-visszaigénylési jog érvényesítésének érdekében a jogosított felhasználó köteles a felhasználási időszakban történt utolsó gázolaj-felhasználást követően haladéktalanul, de legkésőbb a felhasználási időszak utolsó napját követő második munkanapon a vámhatósághoz írásban bejelenteni a felhasználási időszak alatt felhasznált gázolaj mennyiségét, valamint a felhasználási időszak utolsó napján meglévő gázolaj-zárókészletet a (3) bekezdés b) pontja szerinti bontásban és összesen.
+
+(5) Az adó-visszaigénylésre az 56. § rendelkezéseit kell értelemszerűen alkalmazni azzal, hogy a gázolaj földgáz helyett történő felhasználását belső bizonylatokkal kell dokumentálni.
+
+(6) Az adó-visszaigénylés a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.
 
 57/A. § (1) A motorfejlesztést megvalósító személy az e tevékenységéhez helyhez kötött, próbapadon tesztelt motorokban felhasznált 52. § (1) bekezdés a), d), f) pont szerinti ásványolajok, az E85, valamint az egyéb bioetanol tartalmú üzemanyagok és a biodízel után a beszerzéskor megfizetett adót a (2) bekezdésben foglalt mértékig visszaigényelheti.
 
@@ -1524,6 +1551,8 @@ ténylegesen felhasznált, adózottan beszerzett 2710 11 31 vámtarifaszámú re
 
 - a) évente, legkorábban a tárgyévet követő év január hónapjának 20. napjától, vagy
 - b) negyedévente, legkorábban a tárgynegyedévet követő hónap 20. napjától igényelheti.
+
+(7) Az adó-visszaigénylés a csoportmentességi rendelet 25. cikke alapján környezeti adók csökkentése formájában nyújtott támogatásnak minősül.
 
 ### Ásványolaj-adóraktár
 
@@ -2969,8 +2998,9 @@ a megtérítés időpontjáig eltelt időre számított mindenkori jegybanki ala
 - i) a Tanács 1999/81/EK irányelve (1999. július 29.) a cigaretták adójának közelítéséről szóló 92/79/EGK irányelv, a cigarettán kívüli dohánygyártmányok adójának közelítéséről szóló 92/80/EGK irányelv és a dohánygyártmányok fogyasztását érintő, a forgalmi adón kívüli egyéb adókról szóló 95/59/EK irányelv módosításáról,
 - j) a Tanács 2002/10/EK irányelve (2002. február 12.) a feldolgozott dohányra kivetett jövedéki adók szerkezete és adókulcsai tekintetében a 92/79/EGK, a 92/80/EGK és a 95/59/EK irányelv módosításáról,
 - k) a Tanács 2007/74/EK irányelve (2007. december 20.) a harmadik országokból beutazó személyek által importált termékek után fizetendő hozzáadottérték-adó és jövedéki adó alóli mentesítésről,
-- l) a Tanács 2008/55/EK irányelve (2008. május 26.) az egyes lefölözésekből, vámokból, adókból és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról,
-- m) a Tanács 2010/12/EU irányelve (2010. február 16.) a dohánygyártmányra kivetett jövedéki adók szerkezete és adókulcsai tekintetében a 92/79/EGK, a 92/80/EGK és a 95/59/EK irányelv módosításáról, valamint a 2008/118/EK irányelv módosításáról.
+- l) a Tanács 2010/24/EU irányelve (2010. március 16.) az adókból, vámokból, illetékekből és egyéb intézkedésekből eredő követelések behajtására irányuló kölcsönös segítségnyújtásról,
+- m) a Tanács 2011/64/EU irányelve (2011. június 21.) a dohánygyártmányra alkalmazott jövedéki adó szerkezetéről és adókulcsáról,
+- n) a Bizottság 2011/545/EU számú végrehajtási határozata (2011. szeptember 16.) a 2008/118/EK irányelv ellenőrzésre és szállításra vonatkozó rendelkezéseinek a 3811 KN-kód alá tartozó termékek tekintetében való, a 2003/96/EK tanácsi irányelv 20. cikkének (2) bekezdésével összhangban történő alkalmazásáról.
 
 ### Hatályba léptető rendelkezések
 
@@ -3078,7 +3108,7 @@ határozatban állapítja meg az adót.
 
 128/A. §
 
-128/B. § E törvény jogutódláshoz kapcsolódó rendelkezését [48/C. §] kell értelemszerűen alkalmazni, amennyiben az e törvény szerint kiadott, 2009. június 30-án érvényes engedélyek esetében az engedélyes személyének változására a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 144. § (6) bekezdése szerint, a Get.-ben meghatározott határidőn belül végrehajtott szervezeti átalakítás (szétválasztás) miatt kerül sor. Az új engedélyes a korábbi engedélyes e törvényben és a felhatalmazása alapján kiadott külön jogszabályban meghatározott jogai és kötelezettségei tekintetében a korábbi engedélyes általános jogutódjának minősül.
+128/B. § E törvény jogutódláshoz kapcsolódó rendelkezését [48/C. §] kell értelemszerűen alkalmazni, amennyiben az e törvény szerint kiadott, 2009. június 30-án érvényes engedélyek esetében az engedélyes személyének változására a GET. 144. § (6) bekezdése szerint, a GET.-ben meghatározott határidőn belül végrehajtott szervezeti átalakítás (szétválasztás) miatt kerül sor. Az új engedélyes a korábbi engedélyes e törvényben és a felhatalmazása alapján kiadott külön jogszabályban meghatározott jogai és kötelezettségei tekintetében a korábbi engedélyes általános jogutódjának minősül.
 
 128/C. § (1) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/A. §-a szerinti adó-visszaigénylési jog a 2010. december 31-ét követően beszerzett ásványolajtermékek után érvényesíthető.
 
@@ -3091,6 +3121,10 @@ határozatban állapítja meg az adót.
 (5) Amennyiben e törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/C. § (2)–(3) bekezdése szerinti jogosult az adóvisszaigénylési jogosultságát 2011. első negyedévére is érvényesíteni kívánja, akkor e törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel megállapított 57/C. § (2) bekezdése szerinti nyilvántartásba vételi kérelmet legkésőbb 2011. február 15-éig kell benyújtania a vámhatósághoz.
 
 128/D. § E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 57/C. § (1) bekezdésének rendelkezéseit azokban az esetekben kell alkalmazni először, amelyekben az adó-visszaigénylési jogosultság 2011. november 1. napján vagy azt követően keletkezik.
+
+128/E. § (1) Annak a 2012. január 1-jét megelőzően sörfőzde adóraktárat működtető engedélyesnek, aki ezt a tevékenységét 2011. december 31-ét követően is folytatni kívánja, 2011. december 28-ig teljes bizonyító erejű magánokiratba foglalt nyilatkozatot kell benyújtania a vámhatósághoz a 2012. január 1-jén hatályos Jöt. 78. § (1) bekezdés a) pontjában szereplő jogi és gazdasági függetlenség követelményének történő megfelelésről, továbbá arról, hogy nem licencia alapján működik.
+
+(2) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 57/C. § (1) bekezdésének rendelkezéseit azokban az esetekben kell alkalmazni először, amelyekben az adó-visszaigénylési jogosultság 2012. január 1. napján vagy azt követően keletkezik.
 
 ### Felhatalmazás
 
@@ -3107,9 +3141,9 @@ határozatban állapítja meg az adót.
 - c) az e törvényben előírt nyilvántartások vezetésére, a vámhatóság felé a nyilvántartások alapján teljesítendő adatszolgáltatás tartalmára, módjára és technikai feltételeire, a bizonylatok kiállítására, az adófelfüggesztéssel végzett szállítások során használt okmányok EK rendelet szerint kötelezően kitöltendővé tehető rovatainak meghatározására, a 40. § (1) bekezdés a) pont ab) alpont szerinti bizonylatok adataira, valamint ezen bizonylatok adatainak a 40. § (9) bekezdésben előírt megküldésére, az e-TKO tervezet és az elektronikus átvételi elismervény EK rendeleten felüli kiegészítő adattartalmára, a jövedéki termékek és a megfigyelt termékek elszámolására, valamint az alkoholtermék-készletforgalmi szabályzatra vonatkozó részletes szabályokat;
 - d) az adófizetési kötelezettség, adó-visszaigénylés elszámolására, a motorfejlesztésről történő bejelentés tartalmára és benyújtásának módjára, a hatósági felügyelet ellátásának esetleges különleges módjára és feltételeire, a jövedéki ellenőrzésre, a lefoglalásra, elkobzásra, az elkobzott termék felhasználására, illetve megsemmisítésére vonatkozó részletes szabályokat;
 - e) a gázolaj jelölésével kapcsolatos egyes rendelkezéseket;
-- f) a zárjegy, valamint a hordós és kannás kiszerelésű borra előírt hivatalos zár alkalmazásának, a zárjegy megrendelésének, a zárjeggyel való elszámolásnak, a zárjegy felhasználásával, illetve a zárjegykészlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának, az adójegy igénylésének, visszavételének, alkalmazásának részletes szabályait;
+- f) a zárjegy, valamint a hordós és kannás kiszerelésű borra előírt hivatalos zár alkalmazásának, a zárjegy megrendelésének, a zárjeggyel való elszámolásnak, a zárjegy felhasználásával, illetve a zárjegykészlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának, az adójegy igénylésének, visszavételének, alkalmazásának, az adójegy felhasználásával, illetve az adójegy-készlet egyéb változásaival kapcsolatos napi adatszolgáltatás tartalmának részletes szabályait;
 - g) a denaturált alkohol előállításához felhasználható denaturáló szer alkalmazására és az alkohol denaturálási eljárására vonatkozó szabályokat, valamint a desztillálókészülék előállítására, birtokban tartására vonatkozó szabályokat;
-- h) a bérfőzött párlat bérfőzető részére történő kiadásának és a bérfőzető általi továbbértékesítésének szabályait, a 67/A. § (1) bekezdés szerinti bejelentés részletes szabályait, valamint a magánfőző részére kiadásra kerülő származási igazolvány adattartalmára és kiállítására vonatkozó részletes szabályokat;
+- h) a bérfőzött párlat bérfőzető részére történő kiadásának és a bérfőzető általi továbbértékesítésének szabályait, a 67/A. § (1) és (5) bekezdés szerinti bejelentés, részletes szabályait, valamint a magánfőző részére kiadásra kerülő származási igazolvány adattartalmára és kiállítására vonatkozó részletes szabályokat;
 - i) a terítőjáratok működési és adminisztrációs rendjére vonatkozó egyes rendelkezések részletes szabályait;
 - j) a más tagállamban szabadforgalomba bocsátott jövedéki termék ugyanazon adóalany általi rendszeres beszerzésére vonatkozó egyszerűsített eljárás szabályait;
 - k) a kötelező érvényű vámtarifabesorolással kapcsolatos eljárás részletes szabályait;
@@ -3124,6 +3158,7 @@ határozatban állapítja meg az adót.
 - u) a jövedékiadó-bevallás, valamint a vámhatóság felé teljesítendő, e törvényben előírt adatszolgáltatások, elszámolások, bejelentések (értesítések), illetve a zárjegy- és adójegy-megrendelések elektronikus úton történő benyújtásának módját és technikai feltételeit;
 - v) az e-TKO tervezet és az elektronikus átvételi elismervény, illetve a 40. § (9) bekezdés szerinti okmányok, bizonylatok 20. § (1) bekezdés szerinti módon történő benyújtásához, továbbításához szükséges eljárás részletes szabályait;
 - w) az 57/C. §-ban említett vámhatósági nyilvántartásba vétel részletes eljárási szabályait és a nyilvántartásba vétel iránti kérelem adattartalmát.
+- x) a 62/A. § szerinti bejelentési kötelezettségre vonatkozó részletes szabályokat és annak adattartalmát.
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a honvédelemért felelős miniszter egyetértésével kiadott rendeletben határozza meg
 

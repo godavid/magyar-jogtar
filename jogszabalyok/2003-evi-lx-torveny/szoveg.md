@@ -1455,7 +1455,9 @@ a jogszabálysértés, az érdeksérelem, a hiba, illetve a hiányosság megszü
 
 (2)
 
-110. § A biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának és adatszolgáltatásának szabályait a Felügyelet elnöke rendeletben állapítja meg.
+110. § (1) A biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának szabályait a miniszter rendeletben állapítja meg.
+
+(2) A biztosító kötelező gépjármű-felelősségbiztosítási terméke adatszolgáltatásának szabályait a Felügyelet elnöke rendeletben állapítja meg.
 
 ## ÖTÖDIK RÉSZ — A BIZTOSÍTÓ TULAJDONOSAIRA, VALAMINT VEZETŐIRE ÉS ALKALMAZOTTAIRA VONATKOZÓ SZABÁLYOK
 
@@ -3184,7 +3186,7 @@ rendeletben állapítsa meg.
 - f) a biztosítástechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét,
 - g) a befektetési egységhez kötött életbiztosítások esetén az ügyfeleknek szóló adatszolgáltatás formáját és tartalmát,
 - h) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat,
-- i)
+- i) a biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának szabályait,
 - j) a nagykockázatok és a nagykárok határértékeit,
 - k)
 - l)
@@ -3197,12 +3199,7 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-235/A. § Felhatalmazást kap a Felügyelet elnöke, hogy
-
-- a) a technikai kamatláb legnagyobb mértékét,
-- b) a biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolásának szabályait
-
-rendeletben állapítsa meg.
+235/A. § Felhatalmazást kap a Felügyelet elnöke, hogy a technikai kamatláb legnagyobb mértékét rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 

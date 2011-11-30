@@ -873,9 +873,9 @@ Tbj. 56/B. § A kincstár számfejtési körébe tartozó központi költségvet
 
 ### Különös eljárási szabályok a magán-nyugdíjpénztári visszalépésekre és a tagdíjak elszámolására vonatkozóan
 
-Tbj. 56/C. § (1) A kincstár által vezetett, magánnyugdíjpénztáranként megnyitott tagdíjbeszedési-, késedelmi- és önellenőrzési pótlék számlákra 2011. május 31-ig teljesített valós túlfizetés és téves befizetés összegét a foglalkoztató az Art. szabályai szerint az adóhatóságtól kérheti vissza. Az állami adóhatóság a téves befizetés, illetve túlfizetés kiutalását a vonatkozó adónem számlák terhére teljesíti. A kiutalásról az adóhatóság az Art. szabályai szerint intézkedik. A 2011. május 31-ét követően magán-nyugdíjpénztári számlára teljesített olyan befizetést, amely nem a pénztárat illeti a befizető közvetlenül a pénztártól igényelheti vissza.
+Tbj. 56/C. § (1) A kincstár által vezetett, magánnyugdíjpénztáranként megnyitott tagdíjbeszedési-, késedelmi- és önellenőrzési pótlék számlákra 2011. december 1-jét megelőző időszakra vonatkozóan teljesített valós túlfizetés és téves befizetés összegét a foglalkoztató az Art. szabályai szerint az adóhatóságtól kérheti vissza. Az állami adóhatóság a téves befizetés, illetve túlfizetés kiutalását a Magyar Államkincstárnál vezetett, Nyugdíjbiztosítási Alapot megillető bevételek beszedési számla terhére teljesíti. A kiutalásról az adóhatóság az Art. szabályai szerint intézkedik. A tagnak visszajáró túlfizetést az állami adóhatóság a foglalkoztatón keresztül fizeti vissza.
 
-(2) A túlfizetésként jelentkező összeget az állami adóhatóság a foglalkoztatón keresztül fizeti vissza a tagnak.
+(2) A magán-nyugdíjpénztári számlára teljesített olyan befizetést, amely nem a pénztárt illet meg, a pénztár havonta köteles átutalni közvetlenül a Nyugdíjbiztosítási Alap bevételi számlájára.
 
 Tbj. 56/D. § (1) A Tbj. 51. § (6) bekezdése negyedik mondatában foglalt rendelkezést megfelelően alkalmazni kell akkor is, ha a biztosítottól a foglalkoztatója tagdíj címén vonta le a járulékot annak ellenére, hogy a magánszemély nem volt magánnyugdíjpénztár tagja, feltéve, hogy tagdíj-kiegészítés miatt nem mutatkozik különbözet.
 
@@ -894,6 +894,10 @@ Tbj. 56/G. § Ha a biztosított pénztártagsági jogviszonya a társadalombizto
 Tbj. 56/H. § (1) A társadalombiztosítási nyugdíjrendszerbe visszalépett tagokhoz kötődő követelésérvényesítés biztosítása végett, a magánnyugdíjpénztáraknak 2011. augusztus 31. napjáig vissza kell vonniuk az állami adóhatóságnak átadott, mindazon – 2006. december 31. napja előtti biztosítási jogviszonyhoz kötődő követelésükre irányuló – végrehajtási megkereséseiket, melyekben az adott foglalkoztatóval szemben még van fennálló, végrehajtás alatti követelésük, és egyben nyilatkozatot tesznek, hogy ezen felül egyéb végrehajtási eljárás kezdeményezéshez kapcsolódó követelésük nem áll fenn a Nemzeti Adó- és Vámhivatallal szemben.
 
 (2) A magánnyugdíjpénztárak legkésőbb 2011. október 31. napjáig – foglalkoztatónkénti bontásban – átadják a Nemzeti Adó- és Vámhivatalnak végrehajtási eljárás lefolytatása végett a szervezetük nyilvántartásába felvett hátralékos kötelezettségekre vonatkozó adatokat. A Nemzeti Adó- és Vámhivatalhoz csak olyan követelések adhatók át, melyekhez kötődően az adó-végrehajtás lefolytatásához való jog még nem évült el.
+
+(3) A magánnyugdíjpénztárak 2011. december 12-éig átadják az állami adóhatóságnak – foglalkoztatókra és biztosítottakra lebontva – azon még el nem évült tagdíj (bírság, pótlék) hátralékra vonatkozó adatokat, amelyek a társadalombiztosítási nyugdíjrendszerbe visszalépett tagokat érintenek, és amelyekre irányuló végrehajtási megkereséseiket az (1) bekezdés alapján visszavontak. A pénztár által átadott adatok alapján az állami adóhatóság végrehajtási eljárást folytat le, és a befolyt összeget a Nyugdíjbiztosítási Alap bevételi számlájára utalja át.
+
+(4) A felszámolási eljárás során a magánnyugdíjpénztár által érvényesített és – a Nyugdíjreform és Adósságcsökkentő Alap részére teljesített vagyonátadást követően – megtérült, a társadalombiztosítási nyugdíjrendszerbe visszalépett tagot érintő, 2007. január 1-jét megelőző időszakra vonatkozó tagdíjjal (bírság, pótlék) összefüggő követelés jogosultja a Nyugdíjbiztosítási Alap.
 
 Tbj. 56/I. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2006. évi LXI. törvény 251. § (9) bekezdése a társadalombiztosítási nyugdíjrendszerbe visszalépett tag esetében nem alkalmazható.
 
