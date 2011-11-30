@@ -1029,7 +1029,7 @@ azzal, hogy a ca)–cb) pont és a b) pont alapján az átutalás összege az ad
 
 (5) A (2) bekezdés alkalmazásában
 
-- a) az adóalap-kiegészítés összege az adóelőleg-alap számításnál figyelembe vett jövedelem után a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerinti, a társadalombiztosítási járulék általános mértékével megállapított összeg, illetve biztosítási kötelezettség hiányában az egészségügyi hozzájárulásról szóló törvény szerinti, az összevont adóalapba tartozó jövedelmet terhelő egészségügyi hozzájárulás mértékével megállapított összeg;
+- a) az adóalap-kiegészítés összege az adóelőleg-alap számításnál figyelembe vett jövedelem után 27 százalékkal megállapított összeg,
 - b) ha a jövedelem után a magánszemély kötelezett a társadalombiztosítási járulék, az egészségügyi hozzájárulás megfizetésére (kivéve, ha azt költségként számolja el, vagy azt számára megtérítették), az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 78 százaléka minősül.
 
 ### Az adóelőleg-nyilatkozat
@@ -1987,6 +1987,7 @@ kell figyelembe venni.
 - l) pénzügyi szolgáltatás, kiegészítő pénzügyi szolgáltatás üzletszerű nyújtására jogosult kifizető e tevékenysége keretében nyilvánosan meghirdetett feltételek mellett nyújtott hitel (ide nem értve a belső hitelt) esetében;
 - m) a Munka Törvénykönyve szerint a munkavállaló kártérítési felelőssége körébe tartozó hiánnyal összefüggésben fennálló követelés;
 - n) a külföldi kiküldetésre, külszolgálatra tekintettel adott előleg, elszámolásra kiadott összeg, feltéve, hogy annak a kifizetővel való elszámolása a visszaérkezést követő 30 napon belül megtörténik.
+- o) a munkáltató által munkavállalójának a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 200/B. § (1) bekezdésében meghatározott végtörlesztéshez kamatmentesen nyújtott kölcsön, feltéve, hogy a magánszemély a hitelintézet által kiadott igazolással bizonyítja a kölcsönt biztosító munkáltató felé a végtörlesztésként kiegyenlíteni kívánt tartozás fennálló összegét.
 
 72/A. §
 
@@ -2552,6 +2553,12 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 2.7. a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet vagy a Magyar Államkincstár útján, annak igazolása alapján nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú felhasználásra nyújtott kölcsön elengedett összegét is) a vételár vagy a teljes építési költség 30 százalékáig, de több munkáltató esetén is a folyósítás évét megelőző négy évben ilyenként folyósított összegekkel együtt legfeljebb 5 millió forintig terjedő összegben, feltéve, hogy a lakás nem haladja meg a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározott méltányolható lakásigényt (lakáscélú munkáltatói támogatás).
 
+2.8. a munkáltató által munkavállalójának a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 200/B. § (1) bekezdésében meghatározott végtörlesztéshez adott vissza nem térítendő támogatás 7 millió 500 ezer forintot meg nem haladó része, feltéve, hogy
+
+a) a munkáltató a támogatást – a követelés jogosultjának igazolása alapján – közvetlenül a követelés jogosultja részére utalja (vezeti) át;
+
+b) – amennyiben a munkavállaló a végtörlesztést a munkáltatói támogatás nyújtását megelőzően teljesítette – a munkavállaló a végtörlesztésre vonatkozó, a pénzügyi intézmény által befogadott igénybejelentéssel, valamint a hitelfelvevő végtörlesztéshez kapcsolódó fizetési kötelezettségének teljesítését hitelt érdemlően igazoló dokumentummal (pl. banki átutalást igazoló bankszámlakivonat) igazolja a végtörlesztés megtörténtét, azzal, hogy ilyen esetben a támogatás utalása (átvezetése) közvetlenül a munkavállaló által megjelölt bankszámlára is történhet.
+
 3. A közcélú juttatások körében adómentes:
 
 3.1. a közhasznú, kiemelkedően közhasznú alapítványból, közalapítványból annak alapszabályban rögzített közhasznú céljával összhangban a magánszemély részére kifizetett azon összeg, amelyet az oktatási intézményekben folytatott tanulmányokra, kutatásra, külföldi tanulmányútra (ösztöndíj címén) folyósítanak, a szociálisan rászoruló részére szociális segély címén folyósítanak, a diák- és szabadidősport résztvevőjének alkalmanként legfeljebb az 500 forintot meg nem haladóan folyósítanak;
@@ -2661,6 +2668,8 @@ b) a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből 
 4.20. a termőföldről szóló törvényben meghatározott mezőgazdasági termelő, annak segítő családtagja, alkalmazottja részére külön jogszabály alapján juttatott gazdaságátadási támogatás egy hónapra eső összegének a havi minimálbért meg nem haladó része;
 
 4.21. a magánszemély által külön jogszabály szerint felszolgálási díj címen megszerzett bevétel, valamint a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló.
+
+4.22. a Rezidens Támogatási Program keretében folyósított ösztöndíj, továbbá az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló kormányrendelet alapján az első szakképesítés megszerzésére irányuló képzésben történő részvétel során a támogatott jelöltnek a szakképzéssel kapcsolatos kiadások, dologi költségek megtérítésére az adott évre vonatkozó költségvetési törvényben meghatározott mértékű, utólagosan folyósított támogatás.
 
 5.
 

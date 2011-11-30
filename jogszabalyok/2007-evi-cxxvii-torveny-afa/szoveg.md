@@ -235,6 +235,7 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
   - eb) cselekvőképesség elvesztése esetében az egyéni vállalkozó, mezőgazdasági őstermelő nevében és javára a törvényes képviselője folytatja;
 - f) a 8. § (5), (9) és (12) bekezdéseiben említett eseteket.
 - g) a mezőgazdasági tevékenységét megszüntető természetes személy adóalanynak a mezőgazdasági tevékenységet tovább folytató, közeli hozzátartozónak [Ptk. 685. § b) pont] minősülő természetes személy részére történő gazdaságátadását, feltéve, hogy a gazdaságátadás az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatással történik.
+- h) költségvetési szerv államháztartásról szóló törvény szerinti átalakítását, vagy irányító (felügyeleti) szervének megváltozását.
 
 18. § (1) Az apport [17. § (1) bekezdése], illetőleg a jogutódlás [17. § (2) bekezdése] útján szerzett vagyon (vagyonrész) és vagyoni értékű jog (e § alkalmazásában a továbbiakban együtt: vagyon) tekintetében a szerzőnek a következő feltételeknek kell egyidejűleg megfelelnie:
 
