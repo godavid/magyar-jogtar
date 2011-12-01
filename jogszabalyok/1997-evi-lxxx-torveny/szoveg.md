@@ -10,17 +10,19 @@ Tbj. 1. § E törvény célja, hogy az egyéni felelősség és öngondoskodás 
 
 ### Alapelvek
 
-Tbj. 2. § (1) A társadalombiztosítás a Magyar Köztársaság állampolgárait, illetve – az e törvényben foglalt követelmények teljesítése esetében – a Magyar Köztársaság területén tartózkodó más természetes személyeket felölelő társadalmi kockázatközösség, amelyben törvényben megállapított szabályok szerint a részvétel kötelező.
+Tbj. 2. § (1) A társadalombiztosítás Magyarország állampolgárait és e törvény külön rendelkezése alapján más természetes személyeket az e törvényben meghatározott szabályok szerint magába foglaló, társadalmi szintű kockázatközösség.
 
-(2) A kötelező társadalombiztosítási rendszerben a biztosítási elv, a társadalmi szolidaritás és a tulajdonhoz fűződő jogok alkotmányos keretek közötti korlátozása együttesen érvényesül.
+(2) A társadalombiztosításban való részvétel a törvényben meghatározott szabályok szerint kötelező.
 
-(3) A biztosítottak egyes társadalombiztosítási ellátások igénybevételére való jogosultságát a társadalombiztosításban való részvételi kötelezettségük, illetve – törvényben meghatározott ellátások kivételével – társadalombiztosítási járulékfizetési kötelezettségük teljesítése alapozza meg. A pénzbeli társadalombiztosítási ellátások – ha törvény kivételt nem tesz – a biztosított járulékfizetésének alapjául szolgáló jövedelmével arányosak.
+(3) A kötelező társadalombiztosítás rendszerében a biztosított – e törvény vagy társadalombiztosítási ellátást megállapító törvény eltérő rendelkezése hiányában – az egyéni felelősség elvének megfelelően, az e törvényben meghatározott járulékfizetési kötelezettség alapján szerezhet jogot saját maga és törvényben meghatározott hozzátartozója javára az egyes társadalombiztosítási ellátásokra. A pénzbeli társadalombiztosítási ellátás összege – ha törvény kivételt nem tesz – arányban áll a biztosítottnak az ellátás fedezetére szolgáló járulék alapjául szolgáló jövedelmével.
 
 (4) A társadalombiztosítási rendszerhez kapcsolódó magánnyugdíj keretében járó ellátások fedezetére a biztosítottak – törvényben meghatározott mértékű – tagdíjat fizetnek.
 
 (5) A biztosítás az annak alapjául szolgáló jogviszonnyal egyidejűleg, a törvény erejénél fogva jön létre. Ennek érvényesítése érdekében a foglalkoztatót bejelentési, nyilvántartási, járulék-megállapítási és levonási, járulékfizetési, valamint bevallási kötelezettség terheli. E kötelezettség kiterjed arra a külföldi foglalkoztatóra is, aki a Magyar Köztársaság területén biztosítási kötelezettséggel járó jogviszony keretében foglalkoztat munkavállalót, továbbá arra a külföldi foglalkoztatóra, aki a Magyar Köztársaság területén kívül foglalkoztat olyan munkavállalót, aki a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet alapján e törvény hatálya alá tartozik.
 
 (6) A foglalkoztatót a társadalombiztosítás keretében nyújtott ellátások pénzügyi fedezetéhez törvényben meghatározott járulék- és hozzájárulásfizetési kötelezettségek terhelik.
+
+(6a) A társadalmi szolidaritás elvének megfelelően – a szociális biztonsághoz, valamint a testi és lelki egészséghez való jog érvényesítése, valamint az egységes állami nyugdíjrendszer fenntartása érdekében – törvény a társadalombiztosítás pénzügyi alapjainak költségvetését egészben vagy részben megillető olyan fizetési kötelezettséget is megállapíthat, amelynek megfizetése társadalombiztosítási ellátásra való jogot nem keletkeztet.
 
 (7) A társadalombiztosítási rendszer működésében érvényesülő közteherviselés érdekében törvény a biztosítottakat és a foglalkoztatókat mindazon adataik rendszeres vagy eseti közlésére kötelezi, amelyek társadalombiztosítási járulékfizetési és hozzájárulásfizetési kötelezettségeik megállapításához, ennek teljesítéséhez, ellenőrzéséhez és érvényesítéséhez szükségesek. A közteherviselés érvényesítéséhez és a jogosultságok megállapításához létrehozott nyilvántartások törvényben meghatározott módon egységes rendszert alkotnak.
 
@@ -250,7 +252,7 @@ Tbj. 18. § (1) A társadalombiztosítási ellátások és a munkaerő-piaci cé
 
 fizet.
 
-(2) A magánnyugdíjpénztár tagja nyugdíjjárulék és tagdíj fizetésére kötelezett.
+(2) A magánnyugdíjpénztár tagja tagdíj fizetésére kötelezett.
 
 (3) A külön törvényben meghatározott szolgálati nyugellátás, valamint a szolgálati rokkantsági nyugdíj járulékfizetéssel nem fedezett többletköltségeit a központi költségvetés fizeti.
 
@@ -265,7 +267,7 @@ Tbj. 19. § (1) A foglalkoztató és a biztosított egyéni vállalkozó által 
 (2) A biztosított által fizetendő nyugdíjjárulék mértéke
 
 - a) kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó biztosított esetében 10 százalék,
-- b) magánnyugdíjpénztár tagja esetében 2 százalék. A saját jogú nyugdíjas foglalkoztatott, valamint a kiegészítő tevékenységet folytató egyéni és társas vállalkozó magán-nyugdíjpénztári tagsága esetén is 10 százalék nyugdíjjárulékot fizet.
+- b) A saját jogú nyugdíjas foglalkoztatott, valamint a kiegészítő tevékenységet folytató egyéni és társas vállalkozó magán-nyugdíjpénztári tagsága esetén is 10 százalék nyugdíjjárulékot fizet.
 
 (3) A biztosított által fizetendő egészségbiztosítási- és munkaerő-piaci járulék mértéke 7,5 százalék. Az egészségbiztosítási- és munkaerő-piaci járulékon belül a természetbeni egészségbiztosítási járulék 4 százalék, a pénzbeli egészségbiztosítási járulék 2 százalék, a munkaerő-piaci járulék 1,5 százalék.
 
@@ -418,7 +420,7 @@ Tbj. 30. §
 
 Tbj. 30/A. § (1) A mezőgazdasági őstermelő – ideértve a tevékenységét a tárgyévben kezdő mezőgazdasági őstermelőt is – a minimálbérnek megfelelő összeg után fizeti meg a 19. § (1) bekezdésében meghatározott nyugdíj-biztosítási, természetbeni és pénzbeli egészségbiztosítási járulékot, a 19. § (3) bekezdésében meghatározott természetbeni és pénzbeli egészségbiztosítási járulékot, valamint a nyugdíjjárulékot (tagdíjat).
 
-(2) Az (1) bekezdéstől eltérően az a mezőgazdasági őstermelő, akinek az e tevékenységéből származó, tárgyévet megelőző évben elért bevétele nem haladja meg az Szja tv. szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatárt, az őstermelői tevékenységből származó, tárgyévet megelőző évi bevételének 20 százaléka után a 19. § (3) bekezdésében meghatározott mértékű természetbeni egészségbiztosítási járulékot és – a nyugdíj-biztosítási járulékot is magában foglaló – 10 százalék nyugdíjjárulékot fizet. Ha a mezőgazdasági őstermelő magánnyugdíjpénztár tagja, akkor 2,3 százalék tagdíjat és 7,7 százalék nyugdíjjárulékot fizet. Az Szja tv. szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatár számításánál figyelmen kívül kell hagyni a jogszabály vagy nemzetközi szerződés rendelkezése alapján folyósított, egyébként bevételnek számító támogatást.
+(2) Az (1) bekezdéstől eltérően az a mezőgazdasági őstermelő, akinek az e tevékenységéből származó, tárgyévet megelőző évben elért bevétele nem haladja meg az Szja tv. szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatárt, az őstermelői tevékenységből származó, tárgyévet megelőző évi bevételének 20 százaléka után a 19. § (3) bekezdésében meghatározott mértékű természetbeni egészségbiztosítási járulékot és – a nyugdíj-biztosítási járulékot is magában foglaló – 10 százalék nyugdíjjárulékot fizet. A magán-nyugdíjpénztári tag mezőgazdasági őstermelő 10 százalék tagdíjat fizet. Az Szja tv. szerinti mezőgazdasági kistermelőre vonatkozó bevételi értékhatár számításánál figyelmen kívül kell hagyni a jogszabály vagy nemzetközi szerződés rendelkezése alapján folyósított, egyébként bevételnek számító támogatást.
 
 (3) A mezőgazdasági őstermelő a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében az adóévre vonatkozóan nyilatkozattal vállalhatja, hogy a 19. § (1) bekezdésében meghatározott nyugdíj-biztosítási, természetbeni és pénzbeli egészségbiztosítási járulékot, a 19. § (3) bekezdésében meghatározott természetbeni és pénzbeli egészségbiztosítási járulékot, valamint a nyugdíjjárulékot (tagdíjat) az (1)–(2) bekezdésben meghatározott járulékalapnál magasabb összeg után fizeti meg. A mezőgazdasági őstermelő a magasabb járulékalap választásáról a tárgyév első negyedévére vonatkozó járulékbevallásában nyilatkozik az állami adóhatóságnak. A nyilatkozat az Art. szerinti végrehajtható okiratnak minősül.
 
@@ -452,7 +454,7 @@ Tbj. 32. §
 
 ### A magánnyugdíjrendszer keretében fizetendő tagdíj
 
-Tbj. 33. § (1) A magánnyugdíjpénztár tagja a nyugdíjjárulék alapja után 8 százalék tagdíjat fizet.
+Tbj. 33. § (1) A magánnyugdíjpénztár tagja 10 százalék tagdíjat fizet. A tagdíj alapjának meghatározására a nyugdíjjárulék-alapra vonatkozó rendelkezések irányadók.
 
 (2) A tagdíjfizetési kötelezettségre a nyugdíjjárulék-fizetési kötelezettségre vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal, hogy a túlfizetésként jelentkező összeget a magánnyugdíjpénztár a foglalkoztatón keresztül fizeti vissza a tagnak.
 
@@ -460,12 +462,12 @@ Tbj. 33. § (1) A magánnyugdíjpénztár tagja a nyugdíjjárulék alapja után
 
 ### Megállapodás társadalombiztosítási ellátásra
 
-Tbj. 34. § (1) Az a belföldi nagykorú személy, aki nem saját jogú nyugdíjas, és
+Tbj. 34. § (1) Az a belföldi nagykorú személy, aki nem magán-nyugdíjpénztári tag és nem saját jogú nyugdíjas, és
 
 - a) aki az 5. és a 13. §-ban említett biztosítási kötelezettséggel járó jogviszonyban nem áll, illetőleg akire a 11. § szerint a biztosítás nem terjed ki,
 - b) akinek biztosítása szünetel,
 
-nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából – magánnyugdíjpénztár tagja esetében a kötelező tagdíj mértékével csökkentett – 34 százalék nyugdíjbiztosítási és nyugdíjjárulék fizetésének vállalása mellett megállapodást köthet. A megállapodás megszűnik a tagdíjfizetésre kötött megállapodás megszűnésével.
+nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 34 százalék nyugdíjbiztosítási és nyugdíjjárulék fizetésének vállalása mellett megállapodást köthet. A megállapodás megszűnik a tagdíjfizetésre kötött megállapodás megszűnésével.
 
 (2) Az (1) bekezdés szerinti megállapodás szolgálati időre és nyugdíj alapjául szolgáló átlagkereset megszerzésére külön-külön nem köthető meg.
 
@@ -473,7 +475,7 @@ nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedel
 
 (4) Az (1) bekezdés alapján kötött megállapodás esetén a járulékfizetés alapja a megállapodást kötő személy által megjelölt jövedelem, legfeljebb azonban a megállapodás megkötésekor érvényes járulékfizetési felső határ napi összegének figyelembevételével a naptári hónapokra számított összeg, de legalább a megállapodás megkötése napján érvényes minimálbér összege. Amennyiben a megállapodást a minimálbér, vagy a járulékfizetési felső határ összegének figyelembevételével kötik meg, annak változása esetén a megállapodás alapján fizetendő nyugdíjbiztosítási és nyugdíjjárulékot, a változást követő hónap 12. napjáig kell a módosított összeg alapján megfizetni. Így kell eljárni akkor is, ha a megállapodást kötő személy az általa megjelölt jövedelmét módosítja. Ha a megállapodást kötő személy, kedvezményezett javára kötött megállapodás esetén a kedvezményezett a megállapodás időtartama alatt biztosítási kötelezettséggel járó jogviszonyban áll, a megállapodás alapján történő járulékfizetési kötelezettség szünetel.
 
-(5) Szolgálati idő szerzése érdekében megállapodást köthet a megállapodás megkötése napján érvényes minimálbér alapulvételével számított – magánnyugdíjpénztár tagja esetén a kötelező tagdíj mértékével csökkentett – 34 százalék nyugdíjbiztosítási és nyugdíjjárulék fizetésével az a nagykorú személy, aki
+(5) Szolgálati idő szerzése érdekében megállapodást köthet a megállapodás megkötése napján érvényes minimálbér alapulvételével számított 34 százalék nyugdíjbiztosítási és nyugdíjjárulék fizetésével az a nem magán-nyugdíjpénztári tag nagykorú személy, aki
 
 - a) felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányoknak a Tny. 41. §-a szerint figyelembe vehető idejét (ideértve a doktorandusz-képzést is),
 - b) a társadalombiztosítási öregségi teljes nyugdíjhoz a Tny.-ben meghatározott húsz év szolgálati idő, vagy – az igénylőre irányadó öregségi nyugdíjkorhatár 1997. december 31-e utáni betöltése esetén – az öregségi résznyugdíjhoz előírt tizenöt év szolgálati idő elérése érdekében kizárólag az említett öregségi résznyugdíjra, illetőleg öregségi teljes nyugdíjra jogosultsághoz szükséges hiányzó szolgálati idejét, legfeljebb azonban öt naptári évet

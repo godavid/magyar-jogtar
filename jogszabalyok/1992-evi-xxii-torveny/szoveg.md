@@ -198,7 +198,7 @@ kézbesítettnek kell tekinteni.
 - a) legalább félévente a munkáltató gazdasági helyzetét érintő alapvető kérdésekről, valamint
 - b) a munkáltató tevékenységi körének jelentős módosítására, illetve a munkáltató beruházásaira vonatkozó jelentős döntés tervezetéről,
 - c) legalább félévente a bérek, keresetek alakulásáról és a bérkifizetéssel összefüggő likviditásról, a foglalkoztatás jellemzőiről, a munkaidő felhasználásáról, a munkafeltételek jellemzőiről,
-- d) legalább félévente a munkáltatónál távmunkát végző munkavállalók számáról és munkakörük megnevezéséről.
+- d) legalább félévente a munkáltatónál távmunkát végző, valamint kölcsönzött munkavállalók számáról és munkakörük megnevezéséről.
 
 (3) A szakszervezet jogosult ellenőrizni a munkakörülményekre vonatkozó szabályok megtartását. Ennek keretében a munkaviszonyra vonatkozó szabályok végrehajtásáról az érintett szervtől tájékoztatást kérhet és a szükséges felvilágosítást, adatot rendelkezésére kell bocsátani.
 
@@ -2566,15 +2566,20 @@ kapcsolatos adatokat.
 
 ### XI. Fejezet — A munkaerő-kölcsönzés
 
-193/B. § (1) A kölcsönbeadóval munkaerő-kölcsönzés céljából létesített munkaviszonyra e törvény szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
+193/B. § (1) A kölcsönbeadóval munkaerő-kölcsönzés céljából létesített munkaviszonyra – függetlenül annak határozott vagy határozatlan idejű, teljes vagy részmunkaidőre létesített voltától – e törvény szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) A külön jogszabály szerinti alkalmi munkára munkaerő-kölcsönzés céljából munkaviszonyt létesíteni nem lehet.
+(2) Az (1) bekezdésben foglaltaktól eltérően nem kell alkalmazni e törvény 193/E. § (3) bekezdésében foglalt rendelkezéseket a helyi önkormányzat többségi tulajdonában lévő gazdasági társaság vagy közhasznú szervezet, valamint a nyilvántartásba vett közhasznú szervezet által végzett munkaerő-kölcsönzés esetén.
 
-193/C. § E törvény alkalmazásában
+193/C. § (1) E törvény alkalmazásában
 
-- a) munkaerő-kölcsönzés: az olyan tevékenység, amelynek keretében a kölcsönbeadó a vele kölcsönzés céljából munkaviszonyban álló munkavállalót ellenérték fejében munkavégzésre a kölcsönvevőnek átengedi (a továbbiakban: kölcsönzés);
-- b) kölcsönbeadó: az a munkáltató, aki a vele kölcsönzés céljából munkaviszonyban álló munkavállalót munkavégzésre, kölcsönzés keretében a kölcsönvevőnek átengedi és munkáltatói jogait, illetve kötelezettségeit a kölcsönvevővel megosztva gyakorolja (a továbbiakban: kölcsönbeadó);
-- c) kölcsönvevő: az a munkáltató, aki a kölcsönzés keretében átengedett munkavállalót foglalkoztatja és munkáltatói jogait, illetve kötelezettségeit a kölcsönbeadóval megosztva gyakorolja.
+- a) munkaerő-kölcsönzés: az olyan tevékenység, amelynek keretében a kölcsönbeadó a vele kölcsönzés céljából munkaviszonyban álló munkavállalót ellenérték fejében munkavégzésre a kölcsönvevőnek ideiglenesen átengedi (a továbbiakban: kölcsönzés);
+- b) kölcsönbeadó: az a munkáltató, aki a vele kölcsönzés céljából munkaviszonyban álló munkavállalót munkavégzésre, kölcsönzés keretében a kölcsönvevőnek ideiglenesen átengedi és munkáltatói jogait, illetve kötelezettségeit a kölcsönvevővel megosztva gyakorolja (a továbbiakban: kölcsönbeadó);
+- c) kölcsönvevő: az a munkáltató, aki a kölcsönzés keretében átengedett munkavállalót ideiglenesen foglalkoztatja és munkáltatói jogait, illetve kötelezettségeit a kölcsönbeadóval megosztva gyakorolja;
+- d) kölcsönzött munkavállaló: a kölcsönbeadóval kölcsönzés céljából munkaviszonyban álló munkavállaló, aki felett a kikölcsönzés időtartama alatt a munkáltatói jogokat és kötelezettségeket a kölcsönbeadó és az őt ideiglenesen foglalkoztató kölcsönvevő megosztva gyakorolja, illetve teljesíti;
+- e) kikölcsönzés: az az időszak, amely alatt a kölcsönzött munkavállalót ideiglenesen a kölcsönvevő foglalkoztatja és gyakorolja felette a 104. §-ban meghatározott jogokat;
+- f) kikölcsönzés ideiglenessége: a kölcsönbeadó és a kölcsönzött munkavállaló által – a kölcsönvevőnél elvégzendő munka jellegére, a munkakörülményekre, a felek korábbi nyilatkozataira, a felek között fennálló munkaviszonyból fakadó jogokra és kötelezettségekre tekintettel – megállapodásában meghatározott, legfeljebb öt évig terjedő időtartam. Vita esetén a kölcsönbeadót terheli a bizonyítási teher a munkaerő-kölcsönzés ideiglenessége tekintetében.
+
+(2) Az (1) bekezdés f) pontja szerinti kölcsönzési időtartam megállapítása során a kölcsönzött munkavállalónak azonos kölcsönvevőnél az előző foglalkoztatása megszűnésétől számított hat hónapon belül történő ismételt kikölcsönzése időtartamát egybe kell számítani, függetlenül attól, hogy a kölcsönzés ugyanazon vagy más kölcsönbeadóval kötött megállapodás alapján valósult meg.
 
 193/D. § (1) Kölcsönbeadó lehet
 
@@ -2585,7 +2590,8 @@ kapcsolatos adatokat.
 
 - a) jogszabály által meghatározott tilalomba ütköző munkavégzésre,
 - b) a kölcsönvevő olyan munkahelyén, illetve telephelyén történő munkavégzésre, ahol sztrájk van, a sztrájkot megelőző egyeztetés kezdeményezésétől a sztrájk befejezéséig, illetve
-- c) ha a kölcsönvevőnél a munkavállaló munkaviszonya – a munkáltató működésével összefüggő okra alapozott rendes felmondásával, illetve a próbaidő alatt azonnali hatályú megszüntetésével – legfeljebb hat hónapja szűnt meg.
+- c) ha a kölcsönvevőnél a munkavállaló munkaviszonya – a munkáltató működésével összefüggő okra alapozott rendes felmondásával, illetve a próbaidő alatt azonnali hatályú megszüntetésével – legfeljebb hat hónapja szűnt meg, vagy
+- d) a 193/C. § (1) bekezdés f) pontjában meghatározott időtartamot meghaladóan.
 
 (3) A kölcsönbeadó, a kölcsönvevő és a munkavállaló a jogok gyakorlása és a kötelezettségek teljesítése során köteles együttműködni.
 
@@ -2600,13 +2606,25 @@ kapcsolatos adatokat.
 193/E. § (1) Semmis a munkavállaló és a kölcsönbeadó között létrejött olyan megállapodás, amely
 
 - a) a munkaviszony megszűnése, illetve megszüntetése után a kölcsönvevővel való jogviszony létesítési tilalmat vagy korlátozást ír elő;
-- b) alapján a munkavállalónak a kölcsönbeadó javára díjazást (közvetítési díjat) kell fizetni, ha a kölcsönvevővel kíván jogviszonyt létesíteni.
+- b) alapján a munkavállalónak a kölcsönbeadó javára díjazást (közvetítési díjat) kell fizetni a kölcsönzésért, illetve azért, ha a kölcsönvevővel kíván jogviszonyt létesíteni.
 
 (2) A kölcsönzés során a munkáltatót megillető jogokat és kötelezettségeket a kölcsönbeadó és a kölcsönvevő – megállapodásuk szerint – megosztva gyakorolja. A munkaviszony megszüntetésének jogát kizárólag a kölcsönbeadó gyakorolhatja, a munkaviszony megszüntetésére irányuló jognyilatkozatot a munkavállaló a kölcsönbeadóval közli.
 
-(3) A munkavállalóra a kölcsönvevőnél irányadó munkarendre, munkaidőre, pihenőidőre vonatkozó rendelkezéseket kell alkalmazni.
+(3) A kölcsönzött munkavállalóra – a 193/B. § (2) bekezdésében foglalt esetek kivételével – a kölcsönvevőnél történő foglalkoztatás teljes időtartama alatt
 
-(4) Ha a munkaviszony nem kölcsönzés céljából jött létre, a munkaszerződés nem módosítható annak érdekében, hogy a munkáltató a munkavállalót kölcsönzés keretében foglalkoztassa.
+- a) a terhes és szoptató nők védelme,
+- b) a fiatal munkavállalók védelme,
+- c) a munkaidőre, pihenőidőre vonatkozó szabályok,
+- d) a munkabér összege és védelme, valamint
+- e) az egyenlő bánásmód követelménye vonatkozásában a kölcsönvevőre – jogszabály vagy kollektív szerződés alapján – irányadó rendelkezéseket kell alkalmazni.
+
+(4) Arra a kölcsönzött munkavállalóra, aki
+
+- a) a kölcsönbeadóval munkaerő-kölcsönzés céljából létesített határozatlan idejű munkaviszonyban áll, és kölcsönvevőnél történő foglalkoztatás hiányában, illetve kölcsönvevőhöz történő kikölcsönzések közötti időszakban is díjazásban részesül,
+- b) munkaviszonya alapján a kölcsönbeadónál összességében kedvezőbb díjazásban részesül, mint a kölcsönvevő azonos munkakörben foglalkoztatott saját munkavállalója, ideértve a kollektív szerződésben és a felek megállapodása alapján fizetett bérelemeket, valamint a szociális juttatásokat is, vagy
+- c) a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény 1. § (2) bekezdés 1. pontjában meghatározott munkaerőpiactól tartósan távollévő személynek minősül, és munkaerő-kölcsönzés keretében foglalkoztatják, a 142/A. §-nak az egyenlő, illetve az egyenlő értékűként elismert munka díjazására vonatkozó rendelkezéseit a 193/H. § (9)–(10) bekezdésében meghatározott időtartam lejártát követően, az ott meghatározott bérelemek tekintetében kell alkalmazni.
+
+(5) Ha a munkaviszony nem kölcsönzés céljából jött létre, a munkaszerződés nem módosítható annak érdekében, hogy a munkáltató a munkavállalót kölcsönzés keretében foglalkoztassa.
 
 193/F. § (1) A kölcsönbeadó munkabér-fizetési kötelezettségét nem érinti, ha a kölcsönvevő a kölcsönbeadónak járó díjat esedékességekor nem fizette meg.
 
@@ -2621,7 +2639,7 @@ kapcsolatos adatokat.
 - a) a munkaerő-kölcsönzés időtartamát,
 - b) a munkavégzés helyét,
 - c) az elvégzendő munka jellegét,
-- d) természetbeni munkabér, illetve juttatás esetén – ha ezeket a kölcsönvevő biztosítja – ezek ellentételezését. A kölcsönbeadó és a kölcsönvevő megállapodhatnak arról, hogy a természetbeni munkabért, illetve a 165–165/A. §-ban szabályozott szociális juttatásokat (a továbbiakban: közvetlenül adott szociális juttatás) a munkavállaló közvetlenül a kölcsönvevőtől kapja meg.
+- d) természetbeni munkabér, illetve juttatás esetén – ha ezeket a kölcsönvevő biztosítja – ezek ellentételezését. A kölcsönbeadó és a kölcsönvevő megállapodhatnak arról, hogy a természetbeni munkabért, illetve a 165–165/A. §-ban szabályozott szociális juttatásokat (a továbbiakban: közvetlenül adott szociális juttatás) a kölcsönzött munkavállaló közvetlenül a kölcsönvevőtől kapja meg.
 
 (2) Az (1) bekezdésben meghatározott megállapodásban foglaltakon túl a kölcsönvevő írásban köteles tájékoztatni a kölcsönbeadót:
 
@@ -2629,9 +2647,9 @@ kapcsolatos adatokat.
 - b) a munkáltatói jogkört gyakorló személy megnevezéséről [193/E. § (2) bekezdés],
 - c) a munkabérfizetés alapjául szolgáló adatok közlésének módjáról és határidejéről,
 - d) az elvégzendő munkára vonatkozó alkalmazási feltételekről, továbbá
-- e) minden olyan körülményről, amely a munkavállaló foglalkoztatása szempontjából lényeges.
+- e) minden olyan körülményről, amely a kölcsönzött munkavállaló foglalkoztatása szempontjából lényeges.
 
-(3) Eltérő megállapodás hiányában a kölcsönbeadó viseli a foglalkoztatással kapcsolatos jogszabályban meghatározott költségeket, így különösen a munkavállaló utazási költségeit és a munkavégzéshez szükséges egészségügyi alkalmassági vizsgálat díját. A kölcsönbeadó a kölcsönvevő kérése esetén köteles legkésőbb a munkavállaló munkába állásáig
+(3) Eltérő megállapodás hiányában a kölcsönbeadó viseli a foglalkoztatással kapcsolatos jogszabályban meghatározott költségeket, így különösen a kölcsönzött munkavállaló utazási költségeit és a munkavégzéshez szükséges egészségügyi alkalmassági vizsgálat díját. A kölcsönbeadó a kölcsönvevő kérése esetén köteles legkésőbb a kölcsönzött munkavállaló munkába állásáig
 
 - a) az adózás rendjéről szóló törvény szerint a munkáltató és a kifizető által foglalkoztatott személy adataira vonatkozó, a biztosítási jogviszony kezdetéről szóló, állami adóhatósághoz teljesített bejelentése másolatát, valamint
 - b) a külön jogszabály szerinti kölcsönbeadóként történt nyilvántartásba vételét igazoló okirat másolatát
@@ -2642,7 +2660,7 @@ a kölcsönvevő részére átadni.
 
 (5) A munkavégzés időtartama alatt a kölcsönvevő minősül munkáltatónak
 
-- a) a munkavállaló munkavédelmére,
+- a) a kölcsönzött munkavállaló munkavédelmére,
 - b) a nők, a fiatal munkavállalók, a megváltozott munkaképességűek foglalkoztatására,
 - c) az egyenlő bánásmód követelményére,
 - d) a munkavégzésre,
@@ -2650,16 +2668,19 @@ a kölcsönvevő részére átadni.
 - f) a munkaidőre és pihenőidőre, illetve ezek nyilvántartására vonatkozó szabályok betartása,
 - g) az (1) bekezdésben szereplő megállapodás megkötése esetén a természetbeni munkabér, valamint a közvetlenül adott szociális juttatás biztosítása tekintetében.
 
-(6) A 193/H. § (9)–(10) bekezdésébe foglalt rendelkezés alkalmazása érdekében a kölcsönbeadó – a kölcsönzött munkavállaló előzetes hozzájárulásával – köteles a kölcsönvevőt tájékoztatni különösen a munkavállaló szakképzettségéről és szakmai tapasztalatairól.
+(6) A 193/H. § (9)–(10) bekezdésébe foglalt rendelkezés alkalmazása érdekében a kölcsönbeadó – a kölcsönzött munkavállaló előzetes hozzájárulásával – köteles a kölcsönvevőt tájékoztatni különösen a kölcsönzött munkavállaló szakképzettségéről és szakmai tapasztalatairól.
 
-(7) Semmis a kölcsönbeadó és a kölcsönvevő között létrejött megállapodás, ha a felek a 106. § (1) bekezdésében meghatározott tulajdonosi kapcsolatban állnak egymással.
+(7) Semmis a kölcsönbeadó és a kölcsönvevő között létrejött megállapodás,
+
+- a) ha a felek a 106. § (1) bekezdésében meghatározott tulajdonosi kapcsolatban állnak egymással,
+- b) ha az a munkaviszony megszűnése, megszüntetése után a kölcsönvevővel történő munkaviszony-létesítési tilalmat vagy korlátozást ír elő. Nem minősül e törvény alapján korlátozásnak az olyan megállapodás, amely alapján, ha a kölcsönzés megszűnésétől számított három hónapon belül a kölcsönzött munkavállaló a kölcsönvevővel munkaviszonyt létesít, a kölcsönbeadó részére a kölcsönvevő díjazást fizet.
 
 (8) Ha a kölcsönvevőnél történő munkavégzés tényleges megkezdéséig
 
 - a) a kölcsönbeadó nem felel meg az e törvényben, illetve az egyéb jogszabályokban foglalt feltételeknek, vagy
 - b) a kölcsönbeadó nem köt a 193/H. § (1) bekezdés szerinti munkaszerződést,
 
-a munkaviszony a kölcsönvevő és a munkavállaló között jön létre a munkavégzés tényleges megkezdésének napjával, a 193/G. § (1) bekezdés a) pontja alapján meghatározott időtartamra.
+a munkaviszony a kölcsönvevő és a kölcsönzött munkavállaló között jön létre a munkavégzés tényleges megkezdésének napjával, a 193/G. § (1) bekezdés a) pontja alapján meghatározott időtartamra.
 
 (9) A (8) bekezdés a) pontja szerint létrejött munkaviszony esetén a munkaszerződés tartalmának megállapításakor
 
@@ -2686,10 +2707,10 @@ alapulvételével kell meghatározni a munkaszerződésben.
 193/H. § (1) A feleknek a munkaszerződésben meg kell állapodniuk
 
 - a) abban, hogy a munkaszerződés vagy a távmunkát végző foglalkoztatására irányuló munkaszerződés kölcsönzés céljából jön létre,
-- b) a munkavállaló személyi alapbérében,
+- b) a kölcsönzött munkavállaló személyi alapbérében,
 - c) a munkavégzés jellegében vagy a munkakörben.
 
-(2) A munkaszerződésnek tartalmaznia kell a felek nevét, illetve megnevezését, a kölcsönbeadó nyilvántartásba vételi számát, valamint a munkavállaló és a kölcsönbeadó lényeges adatait is.
+(2) A munkaszerződésnek tartalmaznia kell a felek nevét, illetve megnevezését, a kölcsönbeadó nyilvántartásba vételi számát, valamint a kölcsönzött munkavállaló és a kölcsönbeadó lényeges adatait is.
 
 (3) A munkáltató – ha a munkaszerződés nem tartalmaz tájékoztatást – legkésőbb a munkaszerződés megkötésétől számított két héten belül, ezen túlmenően a c) pont szerint, a (9) vagy (10) bekezdésben foglaltak alkalmazásakor, legkésőbb az e szabályok szerinti jogosultság megállapításának kezdetétől számított két héten belül köteles a kölcsönzött munkavállalót írásban tájékoztatni
 
@@ -2738,7 +2759,7 @@ meghaladja.
 
 (11) A (9)–(10) bekezdés rendelkezéseit nem kell alkalmazni a kölcsönzött munkavállalóra, ha munkaviszonyára a kölcsönbeadónál ennél kedvezőbb feltételek irányadóak.
 
-(12) A (9)–(10) bekezdés alkalmazásakor a munkavégzés folyamatosságát nem szakítja meg a 107. § szerinti munkavégzési kötelezettség alóli mentesülés időtartama. Ettől eltérően, a fizetés nélküli szabadság – a 138. § (5) bekezdésben és a 139. §-ban foglaltak kivételével – akkor nem érinti a munkavégzés folyamatosságát, ha ennek időtartama a harminc munkanapot nem haladja meg. A munkavégzés folyamatosságának feltétele, hogy a munkavégzési kötelezettség alóli mentesülés megszűnését követően a munkavállaló munkáját annál a kölcsönvevőnél folytassa, amelynél a mentesülés megkezdődött.
+(12) A (9)–(10) bekezdés alkalmazásakor a munkavégzés folyamatosságát nem szakítja meg a 107. § szerinti munkavégzési kötelezettség alóli mentesülés időtartama. Ettől eltérően, a fizetés nélküli szabadság – a 138. § (5) bekezdésben és a 139. §-ban foglaltak kivételével – akkor nem érinti a munkavégzés folyamatosságát, ha ennek időtartama a harminc munkanapot nem haladja meg. A munkavégzés folyamatosságának feltétele, hogy a munkavégzési kötelezettség alóli mentesülés megszűnését követően a kölcsönzött munkavállaló munkáját annál a kölcsönvevőnél folytassa, amelynél a mentesülés megkezdődött.
 
 (13) A (9) bekezdésben foglaltak alkalmazásával kapcsolatban a kölcsönbeadó írásbeli nyilatkozat megtételére kötelezheti a kölcsönzött munkavállalót arról, hogy a nyilatkozat átadását megelőző két évben mely kölcsönvevőnél, milyen időtartamban végzett munkát.
 
@@ -2755,36 +2776,36 @@ meghaladja.
 
 (2) A munkaviszony megszüntetésére irányuló nyilatkozatot írásba kell foglalni.
 
-193/J. § (1) A határozatlan időtartamú munkaviszonyt felmondással mind a kölcsönbeadó, mind a munkavállaló megszüntetheti.
+193/J. § (1) A határozatlan időtartamú munkaviszonyt felmondással mind a kölcsönbeadó, mind a kölcsönzött munkavállaló megszüntetheti.
 
 (2) A felmondást a kölcsönbeadónak indokolnia kell. Az indokolásból a felmondás okának világosan ki kell tűnnie. Vita esetén a felmondás indokolásának valóságát és okszerűségét a kölcsönbeadónak kell bizonyítania.
 
 (3) A kölcsönbeadó felmondással akkor szüntetheti meg a munkaviszonyt, ha
 
-- a) a munkavállaló nem végzi megfelelően a munkáját,
-- b) a munkavállaló munkaköri feladatainak ellátására alkalmatlan,
-- c) a kölcsönbeadó harminc napon belül nem tudta biztosítani a munkavállaló megfelelő foglalkoztatását, vagy
+- a) a kölcsönzött munkavállaló nem végzi megfelelően a munkáját,
+- b) a kölcsönzött munkavállaló munkaköri feladatainak ellátására alkalmatlan,
+- c) a kölcsönbeadó harminc napon belül nem tudta biztosítani a kölcsönzött munkavállaló megfelelő foglalkoztatását, vagy
 - d) a megszüntetésre a kölcsönbeadó működésével összefüggő okból kerül sor.
 
 (4) A felmondási idő mértéke tizenöt nap. Ha a munkaviszony időtartama eléri a háromszázhatvanöt napot, a felmondási idő mértéke harminc napra emelkedik.
 
-(5) Ha a kölcsönbeadó és a munkavállaló között a felmondás közlését megelőző két éven belül többször került sor munkaviszony létesítésére, a felmondási idő szempontjából ezek időtartamát össze kell számítani.
+(5) Ha a kölcsönbeadó és a kölcsönzött munkavállaló között a felmondás közlését megelőző két éven belül többször került sor munkaviszony létesítésére, a felmondási idő szempontjából ezek időtartamát össze kell számítani.
 
 (6) A kölcsönbeadó által közölt felmondás esetén – a felek eltérő írásbeli megállapodása hiányában – a felmondási idő tartama alatt a munkavállaló mentesül a munkavégzési kötelezettsége alól. A felmentési időre a munkavállalót átlagkeresete illeti meg.
 
-193/K. § (1) A határozott és a határozatlan időtartamú munkaviszonyt azonnali hatályú felmondással mind a kölcsönbeadó, mind a munkavállaló megszüntetheti.
+193/K. § (1) A határozott és a határozatlan időtartamú munkaviszonyt azonnali hatályú felmondással mind a kölcsönbeadó, mind a kölcsönzött munkavállaló megszüntetheti.
 
-(2) A munkavállaló akkor szüntetheti meg azonnali hatályú felmondással a munkaviszonyt, ha a kölcsönbeadó vagy a kölcsönvevő súlyosan megszegte a munkaviszonyra vagy a foglalkoztatásra vonatkozó szabályokat, illetve megállapodást.
+(2) A kölcsönzött munkavállaló akkor szüntetheti meg azonnali hatályú felmondással a munkaviszonyt, ha a kölcsönbeadó vagy a kölcsönvevő súlyosan megszegte a munkaviszonyra vagy a foglalkoztatásra vonatkozó szabályokat, illetve megállapodást.
 
-(3) A kölcsönbeadó akkor szüntetheti meg azonnali hatályú felmondással a munkaviszonyt, ha a munkavállaló a munkaviszonyból eredő lényeges kötelezettségeit vétkesen megszegi.
+(3) A kölcsönbeadó akkor szüntetheti meg azonnali hatályú felmondással a munkaviszonyt, ha a kölcsönzött munkavállaló a munkaviszonyból eredő lényeges kötelezettségeit vétkesen megszegi.
 
-(4) A kölcsönbeadó a nyilvántartásból való törlése esetén, az erről szóló határozat jogerőre emelkedését követően, e tényre történő hivatkozással, azonnali hatályú felmondással – a határozat kézhezvételétől számított hatvan napon belül – köteles a munkavállaló munkaviszonyát megszüntetni. Ha a kölcsönbeadó a munkaviszonyt határidőn belül nem szünteti meg, a munkaviszony a hatvanadik napon megszűnik.
+(4) A kölcsönbeadó a nyilvántartásból való törlése esetén, az erről szóló határozat jogerőre emelkedését követően, e tényre történő hivatkozással, azonnali hatályú felmondással – a határozat kézhezvételétől számított hatvan napon belül – köteles a kölcsönzött munkavállaló munkaviszonyát megszüntetni. Ha a kölcsönbeadó a munkaviszonyt határidőn belül nem szünteti meg, a munkaviszony a hatvanadik napon megszűnik.
 
 (5) Az azonnali hatályú felmondásra a 193/J. § (2) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-(6) Az azonnali hatályú felmondás jogát – a (4) bekezdésben meghatározott kivétellel – az okról való tudomásszerzéstől számított tizenöt napon belül, legfeljebb azonban az ok bekövetkezésétől számított hatvan napon belül lehet gyakorolni. A kölcsönvevő által közölt ok alapján az azonnali hatályú felmondásra akkor kerülhet sor, ha a kölcsönvevő a munkavállaló vétkes magatartásáról a tudomásszerzéstől számított öt munkanapon belül, írásban tájékoztatja a kölcsönbeadót. Ebben az esetben az azonnali hatályú felmondás gyakorlására nyitva álló tizenöt napos határidő az írásbeli tájékoztatás kézhezvételétől számít.
+(6) Az azonnali hatályú felmondás jogát – a (4) bekezdésben meghatározott kivétellel – az okról való tudomásszerzéstől számított tizenöt napon belül, legfeljebb azonban az ok bekövetkezésétől számított hatvan napon belül lehet gyakorolni. A kölcsönvevő által közölt ok alapján az azonnali hatályú felmondásra akkor kerülhet sor, ha a kölcsönvevő a kölcsönzött munkavállaló vétkes magatartásáról a tudomásszerzéstől számított öt munkanapon belül, írásban tájékoztatja a kölcsönbeadót. Ebben az esetben az azonnali hatályú felmondás gyakorlására nyitva álló tizenöt napos határidő az írásbeli tájékoztatás kézhezvételétől számít.
 
-(7) Ha a munkaviszonyt azonnali hatályú felmondással a kölcsönbeadó a (4) bekezdésben meghatározott okból szünteti meg, vagy az azonnali hatályú felmondás jogát a munkavállaló gyakorolja, a kölcsönbeadó köteles a munkavállaló számára megfizetni a 193/J. § (4) bekezdésében meghatározott időtartamra járó átlagkeresetét.
+(7) Ha a munkaviszonyt azonnali hatályú felmondással a kölcsönbeadó a (4) bekezdésben meghatározott okból szünteti meg, vagy az azonnali hatályú felmondás jogát a kölcsönzött munkavállaló gyakorolja, a kölcsönbeadó köteles a kölcsönzött munkavállaló számára megfizetni a 193/J. § (4) bekezdésében meghatározott időtartamra járó átlagkeresetét.
 
 (8) Azonnali hatályú felmondás esetén a felmondás szabályai nem alkalmazhatók.
 
@@ -2794,23 +2815,23 @@ meghaladja.
 
 193/M. § (1) A munkaviszony, ha azt a kölcsönbeadó jogellenesen szüntette meg, a jogellenességet megállapító bírósági határozat jogerőre emelkedése napján szűnik meg, kivéve, ha a jogvita elbírálásáig a határozott idejű jogviszony a jogellenes intézkedés nélkül is megszűnt volna.
 
-(2) Jogellenes megszüntetés esetén a bíróság a munkavállaló kérelmére – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelésével – a munkavállaló legalább egyhavi, legfeljebb hathavi átlagkeresetének megfelelő összeg megfizetésére kötelezheti a kölcsönbeadót.
+(2) Jogellenes megszüntetés esetén a bíróság a kölcsönzött munkavállaló kérelmére – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelésével – a kölcsönzött munkavállaló legalább egyhavi, legfeljebb hathavi átlagkeresetének megfelelő összeg megfizetésére kötelezheti a kölcsönbeadót.
 
-(3) Jogellenes megszüntetés esetén meg kell téríteni a munkavállaló elmaradt munkabérét, egyéb járandóságát, és felmerült kárát. Nem kell megtéríteni a munkabérnek, egyéb járandóságnak, illetve kárnak azt a részét, ami máshonnan megtérült.
+(3) Jogellenes megszüntetés esetén meg kell téríteni a kölcsönzött munkavállaló elmaradt munkabérét, egyéb járandóságát, és felmerült kárát. Nem kell megtéríteni a munkabérnek, egyéb járandóságnak, illetve kárnak azt a részét, ami máshonnan megtérült.
 
-(4) Ha a munkavállaló munkaviszonya nem felmondással került megszüntetésre, a (2) és (3) bekezdésben foglaltakon túlmenően megilleti a felmentési időre járó átlagkeresete is.
+(4) Ha a kölcsönzött munkavállaló munkaviszonya nem felmondással került megszüntetésre, a (2) és (3) bekezdésben foglaltakon túlmenően megilleti a felmentési időre járó átlagkeresete is.
 
-(5) A határozott idejű munkaviszony jogellenes megszüntetése esetén – a (2) és (4) bekezdés rendelkezéseitől eltérően – a bíróság a munkavállaló kérelmére a megszüntetés időpontjában a munkaviszonyból még hátralévő időre járó, legfeljebb azonban hathavi átlagkereset megfizetésére kötelezi a kölcsönbeadót.
+(5) A határozott idejű munkaviszony jogellenes megszüntetése esetén – a (2) és (4) bekezdés rendelkezéseitől eltérően – a bíróság a kölcsönzött munkavállaló kérelmére a megszüntetés időpontjában a munkaviszonyból még hátralévő időre járó, legfeljebb azonban hathavi átlagkereset megfizetésére kötelezi a kölcsönbeadót.
 
 ### Szabadság kiadása
 
 193/N. § (1) Kölcsönzés keretében történő foglalkoztatás időtartama alatt a szabadságot – eltérő megállapodás hiányában – a kölcsönvevő, egyébként a kölcsönbeadó adja ki. Az időpontot a kölcsönvevő csak rendkívül indokolt esetben változtathatja meg, és a kölcsönzött munkavállalónak az ezzel összefüggésben felmerült kárát, illetve költségeit köteles megtéríteni.
 
-(2) Az alapszabadság legalább egynegyedét – a foglalkoztatás első három hónapját kivéve – a munkavállaló kérésének megfelelő időpontban kell kiadni. A kölcsönzött munkavállalónak erre vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie.
+(2) Az alapszabadság legalább egynegyedét – a foglalkoztatás első három hónapját kivéve – a kölcsönzött munkavállaló kérésének megfelelő időpontban kell kiadni. A kölcsönzött munkavállalónak erre vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie.
 
 ### Kártérítési felelősség
 
-193/O. § (1) Ha a munkavállaló a foglalkoztatás körében kárt okoz a kölcsönvevőnek, az alkalmazott károkozásáért való felelősség szabályait kell alkalmazni [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 348. § (1) bekezdése].
+193/O. § (1) Ha a kölcsönzött munkavállaló a foglalkoztatás körében kárt okoz a kölcsönvevőnek, az alkalmazott károkozásáért való felelősség szabályait kell alkalmazni [a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 348. § (1) bekezdése].
 
 (2) A munkavégzés során a kölcsönzött munkavállalónak okozott kárért a kölcsönvevő és a kölcsönbeadó egyetemlegesen felel (Mt. 174–187. §).
 
@@ -2820,11 +2841,16 @@ meghaladja.
 
 193/P. § (1) Kölcsönzés esetén e törvény 3. §-ának (6) bekezdése, 76. §-ának (5)–(8) bekezdése, 76/B. §-a, 79. §-ának (5) bekezdése, 86/A–89. §-ai, 91–96. §-ai, 97. §-ának (2) bekezdése, 100. §-a, 106. §-a, 115–116. §-ai, 134. §-ának (1)–(2) és (6) bekezdése, 150. §-ának (1) bekezdése, 155. §-a (1) bekezdésének második mondata, a 167. §-ának (2)–(3) bekezdései, 170–170/D. §-a, a Harmadik részének X. fejezete, a 202. §-ának c)–d) pontja nem alkalmazhatók.
 
-(2) A kölcsönvevőnek a kölcsönzés keretében foglalkoztatott munkavállalók létszámáról és foglalkoztatási feltételeiről a nála működő üzemi tanácsot, illetve képviselettel rendelkező szakszervezetet rendszeresen, de legalább félévente egy alkalommal tájékoztatnia kell.
+(2) A kölcsönvevőnek
+
+- a) a kölcsönzés keretében foglalkoztatott munkavállalók létszámáról és foglalkoztatási feltételeiről,
+- b) a betöltetlen álláshelyekről a nála működő üzemi tanácsot, illetve képviselettel rendelkező szakszervezetet rendszeresen, de legalább félévente egy alkalommal, valamint a nála foglalkoztatott kölcsönzött munkavállalókat folyamatosan a helyben szokásos módon tájékoztatnia kell.
 
 (3) A kölcsönvevőnél történő foglalkoztatás során e törvény 83/A. §-ának, 102. §-a (1)–(3) bekezdésének, 104–105. §-ainak, 117–129/A. §-ainak, valamint – a 193/G. § (1) bekezdésben foglalt megállapodás esetén a természetbeni munkabér, illetve juttatás vonatkozásában – 193/G. §-a (4) bekezdésének és (5) bekezdése g) pontjának alkalmazásakor munkáltatón a kölcsönvevőt kell érteni.
 
 (4) E törvény 106/A–106/B. §-ainak alkalmazása során munkáltatón a kölcsönbeadót és a kölcsönvevőt is érteni kell.
+
+(5) A 165–165/A. § alkalmazásakor a kölcsönzött munkavállalók számára biztosítani kell különösen a kölcsönvevőnél a szociális juttatásokhoz való hozzáférés kapcsán az egyenlő bánásmód érvényesülését, valamint a kölcsönbeadó által biztosított szociális juttatásokhoz a kikölcsönzések közötti időtartam alatti hozzáférést.
 
 ### XII. Fejezet — A közigazgatási szerveknél foglalkoztatott munkavállalókra vonatkozó eltérő rendelkezések
 
@@ -3045,7 +3071,7 @@ időpontjában.
 
 (4) E törvény 117/C. §-ának 2010. december 31-ig hatályos szövege alapján létrejött, munkáltató és munkavállaló közötti megállapodásokat a Módtv. 8. §-ával bevezetett módosítása nem érinti.
 
-(5)
+(5) A 130. § (2) bekezdés c) pontja szerint a szabadságra jogosító idő szabályait a Módtv. hatálybalépését követően kezdődött fizetés nélküli szabadság esetében kell alkalmazni.
 
 (6) A 136. § (1) bekezdése szerinti, a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság első hat hónapjára járó szabadság pénzbeni megváltásáról szóló megállapodás a Módtv. hatálybalépését követően lejáró fizetés nélküli szabadság megszűnésekor köthető.
 
@@ -3062,7 +3088,8 @@ időpontjában.
 - c) a Tanács 91/533/EGK irányelve a munkáltatónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeiről való tájékoztatási kötelezettségéről;
 - d) a Tanács 98/59/EK irányelve a tagállamok csoportos létszámcsökkentésekre vonatkozó jogszabályainak közelítéséről;
 - e) a Tanács 91/383/EGK irányelve a határozott időtartamra foglalkoztatott, illetve az ideiglenes munkaszerződéses munkavállalók munkahelyi biztonságának és egészségvédelmének javítására irányuló intézkedések kiegészítéséről;
-- f) az Európai Parlament és a Tanács 2002/14/EK irányelve (2002. március 11.) az Európai Közösség munkavállalóinak tájékoztatása és a velük folytatott konzultáció általános keretének létrehozásáról.
+- f) az Európai Parlament és a Tanács 2002/14/EK irányelve (2002. március 11.) az Európai Közösség munkavállalóinak tájékoztatása és a velük folytatott konzultáció általános keretének létrehozásáról;
+- g) a munkaerő-kölcsönzés egyes szabályairól szóló 2008. november 19-i 2008/104/EK európai parlamenti és tanácsi irányelve.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
