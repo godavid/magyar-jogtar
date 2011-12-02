@@ -72,25 +72,11 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 83. §
 
-84. § A Jöt. 64. § (2) bekezdésének helyébe a következő rendelkezés lép:
-
-„(2) Az adó mértéke a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről, és földrajzi jelzéseinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 110/2008/EK rendelet) II . mellékletében felsorolt termékek, valamint az olyan szeszes italok esetében, amelyek alkoholtartalma kizárólag a 110/2008/EK rendelet II. mellékletének 6. és 9. pontja szerinti termékből származik, és ízesítésükre mézet, vagy az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló 2008. december 16-i 1334/2008/EK európai parlamenti és tanácsi rendelet 3. cikke (2) bekezdésének c) és d) pontjaiban meghatározott aroma anyagot használnak, továbbá a nem szeszes italnak minősülő alkoholtermék esetében – a (3) bekezdésben foglalt eltéréssel – az (1) bekezdés szerinti adóalapra 289 900 forint, egyéb szeszes italok esetében 414 150 forint.”
+84. §
 
 85–95. §
 
-96. § A Jöt. 98/A. §-a helyébe a következő rendelkezés lép:
-
-„98/A. § (1) A dohánygyártmány az adó- vagy az általánosforgalmiadó-mérték változásának hatálybalépését követően csak az új adó- és általánosforgalmiadó-mértéknek megfelelő adójeggyel bocsátható szabad forgalomba, illetve importálható a szabad forgalom számára és hozható be más tagállamból.
-
-(2) Adómérték-változás hatálybalépését követő
-
-a) 30. napon túl a jövedéki engedélyes kereskedő, az importáló,
-
-b) 60. napon túl a nem jövedéki engedélyes kereskedő
-
-kizárólag a hatályos adómértéknek megfelelő adójeggyel ellátott dohánygyártmányt értékesíthet.
-
-(3) A más tagállamból beszerzett dohánygyártmányra az adójegyet a bejegyzett kereskedőnek legkésőbb a dohánygyártmány fogadásának napján kell átvennie, és legkésőbb a dohánygyártmány fogadásának napját követő öt munkanapon belül kell felhelyeznie.”
+96. §
 
 97. § (1)–(2)
 
@@ -120,13 +106,7 @@ kizárólag a hatályos adómértéknek megfelelő adójeggyel ellátott dohány
 
 (4)
 
-(5) A Jöt.
-
-- 1. 52. § (2) bekezdés c) pontjában a „64. § (2) bekezdés szerinti adómérték” szövegrész helyébe a „64. § (2) bekezdés szerinti alacsonyabb adómérték” szöveg,
-- 2. 59. § (6) bekezdés b) pontjában a „64. § (2) bekezdése szerinti – adómérték” szövegrész helyébe a „64. § (2) bekezdése szerinti – alacsonyabb adómérték” szöveg,
-- 3. 66. § (7) bekezdésében a „64. § (2) bekezdése szerinti adómértékkel” szövegrész helyébe a „64. § (2) bekezdése szerinti alacsonyabb adómértékkel” szöveg,
-- 4. 74. § (3) bekezdésében a „64. § (2) bekezdésében megjelölt adómérték” szövegrész helyébe a „64. § (2) bekezdésében megjelölt alacsonyabb adómérték” szöveg,
-- 5. 114. § (5) bekezdésében a „64. § (2) bekezdésében meghatározott, a bírság megállapításakor hatályos adómérték” szövegrész helyébe a „64. § (2) bekezdésében meghatározott, a bírság megállapításakor hatályos alacsonyabb adómérték” szöveg lép.
+(5)
 
 110. § (1)
 
@@ -184,23 +164,11 @@ kizárólag a hatályos adómértéknek megfelelő adójeggyel ellátott dohány
 
 #### 13. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
-198. § (1) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 2. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A társadalombiztosítás Magyarország állampolgárait és e törvény külön rendelkezése alapján más természetes személyeket az e törvényben meghatározott szabályok szerint magába foglaló, társadalmi szintű kockázatközösség.
-
-(2) A társadalombiztosításban való részvétel a törvényben meghatározott szabályok szerint kötelező.
-
-(3) A kötelező társadalombiztosítás rendszerében a biztosított – e törvény vagy társadalombiztosítási ellátást megállapító törvény eltérő rendelkezése hiányában – az egyéni felelősség elvének megfelelően, az e törvényben meghatározott járulékfizetési kötelezettség alapján szerezhet jogot saját maga és törvényben meghatározott hozzátartozója javára az egyes társadalombiztosítási ellátásokra. A pénzbeli társadalombiztosítási ellátás összege – ha törvény kivételt nem tesz – arányban áll a biztosítottnak az ellátás fedezetére szolgáló járulék alapjául szolgáló jövedelmével.”
-
-(2) A Tbj. 2. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A társadalmi szolidaritás elvének megfelelően – a szociális biztonsághoz, valamint a testi és lelki egészséghez való jog érvényesítése, valamint az egységes állami nyugdíjrendszer fenntartása érdekében – törvény a társadalombiztosítás pénzügyi alapjainak költségvetését egészben vagy részben megillető olyan fizetési kötelezettséget is megállapíthat, amelynek megfizetése társadalombiztosítási ellátásra való jogot nem keletkeztet.”
+198. §
 
 199–207. §
 
-208. § A Tbj. 30/A. § (2) bekezdés második mondata helyébe a következő rendelkezés lép:
-
-„A magán-nyugdíjpénztári tag mezőgazdasági őstermelő 10 százalék tagdíjat fizet.”
+208. §
 
 209–210. §
 
@@ -216,15 +184,11 @@ kizárólag a hatályos adómértéknek megfelelő adójeggyel ellátott dohány
 
 215–216. §
 
-217. § (1) A Tbj 34. § (1) bekezdésében az „aki nem saját jogú nyugdíjas” szövegrész helyébe az „aki nem magán-nyugdíjpénztári tag és nem saját jogú nyugdíjas” szöveg, (5) bekezdésében az „a nagykorú személy” szövegrész helyébe az „a nem magán-nyugdíjpénztári tag nagykorú személy” szöveg lép.
+217. § (1)
 
 (2)
 
-218. § (1) Hatályát veszíti a Tbj.
-
-- 1. 18. § (2) bekezdésében a „nyugdíjjárulék és” szövegrész,”
-- 2. 34. (1) bekezdésében a „ – magánnyugdíjpénztár tagja esetében a kötelező tagdíj mértékével csökkentett –” szövegrész, és a bekezdés utolsó mondata,
-- 3. 34. § (5) bekezdésében a „ – magánnyugdíjpénztár tagja esetén a kötelező tagdíj mértékével csökkentett –” szövegrész.
+218. § (1)
 
 (2)
 
@@ -394,17 +358,7 @@ kizárólag a hatályos adómértéknek megfelelő adójeggyel ellátott dohány
 
 #### 36. A közbeszerzésekről szóló 2003. évi CXXIX. törvény módosítása
 
-414. § (1) A közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 387. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A kérelmező a 66–68. § és a 69. § (1)–(3) bekezdése körébe tartozó minősítési szempontoknak megfelelhet úgy is, hogy más szervezet erőforrására is támaszkodik. Ebben az esetben az erőforrást nyújtó szervezet a Tanács által meghatározott és meghirdetett minősítési szempontok és azok igazolási módjai szerint az ajánlattevővel kapcsolatban előírt igazolási módokkal azonos módon köteles igazolni az adott minősítési szempontnak történő megfelelést, továbbá köteles nyilatkozni, hogy a szerződés teljesítéséhez szükséges erőforrások rendelkezésre állnak majd a minősített ajánlattevők hivatalos jegyzékén történő szereplés időtartama alatt.”
-
-(2) A Kbt. a következő 403/F. §-sal egészül ki:
-
-„403/F. § (1) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel (a továbbiakban: Módtv2.) megállapított 387. § (3) bekezdését a Módtv. hatálybalépését követően kérelmezett, a minősített ajánlattevők jegyzékbe vételére vonatkozó eljárásban kell alkalmazni.
-
-(2) E törvénynek a Módtv2. által hatályon kívül helyezett 4. § 3/E. pontját a Módtv2. hatálybalépését követően megkezdett közbeszerzési eljárásokra nem kell alkalmazni.
-
-(3) Hatályát veszti a Kbt. 4. § 3/E. pontja.”
+414. §
 
 #### 37. Az egyes ágazatokat terhelő különadóról szóló 2010. évi XCIV. törvény módosítása
 

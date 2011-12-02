@@ -87,7 +87,7 @@ a Nemzeti Kulturális Alapról
 
 (3) A támogatás törzstőke-, illetve alaptőke-emelésre, valamint egyéb befektetési célra nem fordítható.
 
-7/C. § A miniszter által közvetlenül felhasználható keret a 4. § (1) bekezdés a) pontja szerinti bevétel – a 7. § (2) bekezdésben foglalt költségekkel csökkentett – összegének 25%-a (a továbbiakban: miniszteri keret).
+7/C. § A miniszter által közvetlenül felhasználható keret a 4. § (1) bekezdés a) pontja szerinti bevétel – a 7. § (2) bekezdésben foglalt költségekkel csökkentett – összegének legfeljebb 25%-a (a továbbiakban: miniszteri keret). A tárgyévi miniszteri keret pontos mértékét a miniszter a tárgyévet megelőző év december 15-éig állapítja meg.
 
 8. § (1) Az Alapból természetes és jogi személyek, jogi személyiség nélküli gazdasági társaságok, társasházak, egyéni cégek, valamint egyéni vállalkozók igényelhetnek támogatást.
 
