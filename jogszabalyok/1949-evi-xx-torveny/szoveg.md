@@ -874,4 +874,4 @@ Ennek megfelelően egyetlen párt sem irányíthat semmiféle állami szervet. A
 
 (2) A Kormány köteles az Alkotmány végrehajtásához szükséges törvényjavaslatokat az Országgyűlés elé terjeszteni.
 
-79. §
+79. § Az Országgyűlés az Alaptörvény 26. cikk (3) bekezdésében meghatározottak szerint 2011. december 31-ig megválasztja a Kúria elnökét.
