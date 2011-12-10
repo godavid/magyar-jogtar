@@ -241,7 +241,7 @@ a termőföld védelméről
 - f) 2 hektárt meg nem haladó nagyságú területen települési vagy megyei (fővárosi) szociális intézmény, egészségügyi, sportlétesítmény építése, temető létesítése, bővítése,
 - g) vízkárelhárítási töltés és műtárgyai létesítése vagy bővítése,
 - h) állandó jellegű hegy- és dombvidéki vízkárelhárítási tározó létesítése vagy bővítése,
-- i) belterületbe vonás esetén az önkormányzati bérlakásépítés megvalósítása,
+- i) belterületbe vonás esetén állami, önkormányzati bérlakásépítés megvalósítása céljából,
 - j) belterületbe vonás esetén új község alakítása, településegyesítés megszüntetése céljából,
 - k) magánszemély tulajdonos (haszonélvező) részére, 400 négyzetméternél nem nagyobb területre,
 - l) külön jogszabály szerinti ügyfél-nyilvántartásban regisztrált mezőgazdasági termelő magánszemély tulajdonos (haszonélvező) részére, mezőgazdasági tevékenység céljára és 1000 négyzetméternél nem nagyobb területre, illetve
@@ -641,6 +641,8 @@ b) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez 
 - b) a kisajátításról szóló 1976. évi 24. törvényerejű rendelet végrehajtásáról szóló 33/1976. (IX. 5.) MT rendelet 32. § (1) bekezdése az alábbi mondattal egészül ki:
 
 „E rendelkezés alkalmazásának nincs helye a termőföld földhivatali engedély nélküli más célú hasznosítása esetén.”
+
+67. § E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 21. § (3) bekezdés i) pontját a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ### 1. melléklet a 2007. évi CXXIX. törvényhez
 

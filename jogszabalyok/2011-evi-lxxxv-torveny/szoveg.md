@@ -82,7 +82,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 
 19. § (1) Az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: OHÜ) a hulladékká vált termékdíjköteles termékek hasznosításának az érdekében a környezetvédelemért felelős miniszter által alapított, a magyar állam kizárólagos tulajdonában álló társaság, amelynek üzletrésze forgalomképtelen.
 
-(2) Az OHÜ felett a szakmai felügyeletet, valamint a magyar államot megillető tulajdonosi jogok és kötelezettségek összességét a környezetvédelemért felelős miniszter gyakorolja.
+(2) Az OHÜ felett a szakmai felügyeletet, valamint a magyar államot megillető tulajdonosi jogok és kötelezettségek összességét a környezetvédelemért felelős miniszter gyakorolja. Az OHÜ felügyelő bizottsága legfeljebb öt tagból áll.
 
 (3)
 
@@ -96,12 +96,12 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - d) támogatja a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodás fejlesztését;
 - e) közreműködik a lakosság környezettudatos nevelésével kapcsolatos teendők ellátásában;
 - f) ellenőrzi a vele szerződéses kapcsolatban állók, illetve a pályázatok, illetve szolgáltatás megrendelések kedvezményezettek által a termékdíjköteles termékből képződött hulladékokkal kapcsolatban folytatott tevékenységét;
-- g) közreműködik – a törvény végrehajtására kiadott rendeletben foglaltak szerint – a kötelezettek ellenőrzésében;
+- g) közreműködik – a törvény végrehajtására kiadott rendeletben foglaltak szerint – a kötelezettek, ellenőrzésében;
 - h) innovációs tevékenységet folytat a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodási tevékenység fejlesztése érdekében.
 
-(2) Az OHÜ az (1) bekezdés e) pontjának teljesítése érdekében a 37. § (1) bekezdése alapján befolyt összeg szerinti hulladékgazdálkodási feladatok támogatásának legalább 7%-át a lakosság környezettudatos nevelésére fordítja.
+(2) Az OHÜ az (1) bekezdés e) pontjának teljesítése érdekében az OHÜ által szolgáltatás megrendelés és pályázat útján továbbfolyósított forrás költségvetési során meghatározott összegének legalább 7%-át a lakosság környezettudatos nevelésére fordítja.
 
-(3) Az OHÜ az (1) bekezdés f) pontjában foglalt ellenőrzése során, az ellenőrzés alá vont az ellenőrzés tűrésére, illetve az ellenőrzést végzőkkel való együttműködésre, az ellenőrzés eredményes végrehajtásának segítésére köteles.
+(3) Az OHÜ az (1) bekezdés f) pontjában foglalt ellenőrzése során, az ellenőrzés alá vont és teljesítési segédje, alvállalkozója (a továbbiakban együtt: ellenőrzött) az ellenőrzés tűrésére, illetve az ellenőrzést végzőkkel való együttműködésre, az ellenőrzés eredményes végrehajtásának segítésére köteles.
 
 (4) Az (1) bekezdés f) pontja keretében végzett ellenőrzés során az OHÜ jogosult:
 
@@ -110,7 +110,8 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - c) a termékdíjköteles termékkel kapcsolatos hulladékok fizikai, kémiai, fizikai-kémiai tulajdonságait – szükség szerint mintavételezéssel – megvizsgálni és elemezni, továbbá az így képződött adatokból idősorokat képezni, monitoring tevékenységet folytatni,
 - d) a termékdíjköteles termékkel kapcsolatos hulladékokkal összefüggő munkafolyamatokat megtekinteni,
 - e) a termékdíjköteles termékkel kapcsolatos hulladékokra vonatkozó nyilvántartásokat, okiratokat, bizonylatokat megtekinteni, arról feljegyzést, másolatot készíteni,
-- f) olyan adatgyűjtést, feldolgozást elvégezni, amelyből a tevékenységet jellemző anyagmérleg meghatározható.
+- f) olyan adatgyűjtést, feldolgozást elvégezni, amelyből a tevékenységet jellemző anyagmérleg meghatározható,
+- g) az ellenőrzésről jegyzőkönyvet készíteni.
 
 (5) Az OHÜ a (4) bekezdés alapján tudomására jutott üzleti titkot köteles megőrizni, azt – arra feljogosított hatóság, ügyészség, vagy bíróság kivételével – másnak nem adhatja át, annak tartalmáról tájékoztatást nem adhat.
 
@@ -160,7 +161,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - a) közbeszerzési eljárás nélkül mint teljesen önkormányzati tulajdonban lévő szervezetet;
 - b) külön jogszabályban meghatározott eredményes pályázat alapján;
 - c) közbeszerzési eljárás eredményes lefolytatását követően;
-- d) egyéb törvényes jogcímen válogatott, illetve szelektív települési szilárd hulladékkezelést ellátó közszolgáltatóként kijelölt. Kétség esetén az OHÜ megkeresésére a települési önkormányzat jegyzője nyilatkozik arról, hogy az adott településen ki tekinthető közszolgáltatónak.
+- d) egyéb törvényes jogcímen települési szilárd hulladékkezelést ellátó közszolgáltatóként kijelölt. Kétség esetén az OHÜ megkeresésére a települési önkormányzat jegyzője nyilatkozik arról, hogy az adott településen ki tekinthető közszolgáltatónak.
 
 (8) Az (1) bekezdés szerinti szerződési feltételekben objektíven meghatározott feltételeken alapuló, eltérő környezetvédelmi, hulladékgazdálkodási színvonalat teljesítő közszolgáltatók tekintetében – az eltérés mértékével arányos – eltérő díj határozható meg. A szerződési feltételekben, vagy az egyedi szerződésekben meghatározott egyéb díjeltérés semmis.
 
@@ -239,7 +240,7 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 38. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a termékdíj-kötelezettség, a termékdíj átvállalásának, visszaigénylésének, a készletre vétel részletes szabályait,
-- b) a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodási pályáztatás, illetve szolgáltatás-megrendelés, szerződéskötés, felbontás, felmondás részletes szabályait,
+- b) a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodási pályáztatás, illetve közbeszerzés útján történő szolgáltatás-megrendelés, szerződéskötés, felbontás, felmondás részletes szabályait,
 - c) az OHÜ által folytatott ellenőrzések, valamint az OHÜ ellenőrzésekben szakértői, szaktanácsadói részvételére vonatkozó részletes szabályokat, továbbá a közvetítésre vonatkozó részletes szabályokat, valamint az OHÜ és az egyes hatóságok közötti együttműködés, adat-, és információcsere részletes szabályait,
 - d) a veszélyes hulladéknak minősülő csomagolási hulladékok hulladékkezelési rendszerében a közvetítői feladatok ellátására jogosult szervet és a közvetítői feladatok ellátásának rendjét,
 - e) a csomagolószerként is felhasználható áruk katalógusát (csomagolószer-katalógus) és a besorolás és alkalmazás részletes szabályait,
@@ -272,19 +273,21 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 
 (4) Az OHÜ 2012. március 15-ig köti meg a 2012-es teljes évre vonatkozó szerződéseket a pályázatok, illetve a közbeszerzési eljárás nyerteseivel.
 
-(5) Az e törvény szerinti egyéni hulladékkezelést teljesítő, vagy a készletre vétellel fizetést választó [6. § (1) bekezdés] kötelezett 2012-ben január 15-ig bejelentést tesz a vámhatóságnál. A 2012. január 15-i határidő elmulasztása jogvesztő. A további kötelezettek a bejelentést 2012. április 20-ig teljesítik.
+(5) Az e törvény szerinti egyéni hulladékkezelést teljesítő kötelezett 2012-ben január 15-ig bejelentést tesz a vámhatóságnál. A 2012. január 15-i határidő elmulasztása jogvesztő. A további kötelezettek a bejelentést 2012. április 20-ig teljesítik.
 
 (6) A 2012. január 1. előtt kiadott mentességi engedélyek 2012. január 1-jén érvényüket vesztik.
 
 (7) A 2012. január 1. előtt megkötött termékdíj-fizetési kötelezettség szerződéses átvállalása esetén, ha a mentességgel rendelkező koordináló szervezet nem teljesíti a mentességi engedélyben foglalt kötelezettségét, az eredeti kötelezett a befizetési kötelezettség időpontjában érvényes jegybanki alapkamat kétszeresével növelt mértékben köteles a termékdíjat 2012. február 15-ig befizetni. A fizetendő termékdíjból levonható a mentességi engedély érvényességi idejéig hasznosított hulladékmennyiség alapján meghatározott összeg.
 
-(8) E törvény szerinti kötelezettnek tekintendő az is, aki 2012. január 1. előtt szerezte be és 2012-ben vagy azt követően fogja forgalomba hozni, felhasználni a csomagolószert, illetve a reklámhordozó papírt. Termékdíj befizetési kötelezettségét – az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – úgy kell teljesítenie, hogy a 2012. január 1. előtt hatályos jogszabályok szerinti, ténylegesen megfizetett termék-, és hasznosítási díjat a 2012. évi termékdíjtételek alapján számított és fizetendő termékdíjból – legfeljebb 2012. első negyedévében – levonhatja és csak a különbözetet köteles megfizetni.
+(8) E törvény szerinti kötelezettnek tekintendő az is, aki 2012. január 1. előtt szerezte be és 2012-ben vagy azt követően fogja forgalomba hozni, felhasználni a csomagolószert – kivéve a külföldről behozott áru csomagolásának részét képező csomagolószert –, illetve a reklámhordozó papírt. Termékdíj befizetési kötelezettségét – az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – úgy kell teljesítenie, hogy a 2012. január 1. előtt hatályos jogszabályok szerinti, ténylegesen megfizetett termék-, és hasznosítási díjat a 2012. évi termékdíjtételek alapján számított és fizetendő termékdíjból – legfeljebb 2012. első negyedévében – levonhatja és csak a különbözetet köteles megfizetni.
 
-(9) A 2012. január 1. előtt hatályos jogszabályok szerinti csomagolásra vonatkozó számlás átvállalás esetére, a (8) bekezdés rendelkezéseit – a törvény végrehajtására kiadott kormányrendeletben meghatározott eltérésekkel – kell megfelelően alkalmazni.
+(9) A 2012. január 1. előtt hatályos jogszabályok szerinti csomagolásra vonatkozó számlás átvállalás esetére a (8) bekezdés rendelkezéseit – a törvény végrehajtására kiadott kormányrendeletben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (10) A környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény (a továbbiakban: Kt.) hatálya alá tartozó kötelezett a 2011. évre vonatkozó, de 2012-ben teljesítendő termékdíjjal kapcsolatos kötelezettségét a Kt. és végrehajtására kiadott jogszabályok szerinti tartalommal, határidőre és fizetési kötelezettség mértékével teljesíti.
 
-(11) A Kt. és végrehatására kiadott jogszabályok, valamint a külön jogszabályok szerinti hasznosítást koordináló szervezet a 2011. évre vonatkozó és 2011-ben hatályos jogszabályok szerinti kötelezettségét ezen jogszabályok szerinti tartalommal és határidőre teljesíti. Az adatszolgáltatási, tájékoztatási, bevallási kötelezettséget – ezen határidőn belül – az OHÜ felé is teljesíti.
+(11) A Kt. és végrehajtására kiadott jogszabályok, valamint a külön jogszabályok szerinti hasznosítást koordináló szervezet a 2011. évre vonatkozó és 2011-ben hatályos jogszabályok szerinti kötelezettségét ezen jogszabályok szerinti tartalommal és határidőre teljesíti. Az adatszolgáltatási, tájékoztatási, bevallási kötelezettséget – ezen határidőn belül – az OHÜ felé is teljesíti.
+
+(12) Az a kötelezett, aki a termékdíj-kötelezettség készletre vétellel történő teljesítését választja, a 2012-es naptári évben bejelentési és bevallási kötelezettségét a 2012. január 1-jén készletén lévő termékdíjköteles termékek után április 20-ig teljesíti.
 
 #### 31. Bejelentés az Európai Unió részére
 
