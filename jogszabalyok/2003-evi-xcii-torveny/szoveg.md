@@ -415,7 +415,7 @@ előtt adóazonosító jelének közlése végett az állami adóhatóságnál a
 
 (11) A Tbj. 44/B. § vagy 44/C. §-a alapján teljesített adatszolgáltatásban az adóhatóságnak átadott azon személyek adatait, akiket az adóhatóság beazonosítani nem tud, mert az egészségbiztosítási szerv által ismert és közölt természetes személyazonosító adatok és lakcím alapján az nem lehetséges, az adóhatóság „nem beazonosítható” jelzéssel visszaküldi az egészségbiztosítási szerv részére.
 
-20/A. § (1) A külön törvényben meghatározott feltételekkel rendelkező magánszemélyek foglalkoztatása esetére a foglalkoztatót megillető járulékkedvezmény igénybevételéhez szükséges, jogosultságot igazoló kártyát az állami adóhatóság a magánszemély kérelmére a 20. §-ban meghatározott eljárás alapján állítja ki.
+20/A. § (1) A külön törvényben meghatározott feltételekkel rendelkező magánszemélyek foglalkoztatása esetére a foglalkoztatót megillető adókedvezmény igénybevételéhez szükséges, jogosultságot igazoló kártyát az állami adóhatóság a magánszemély kérelmére a 20. §-ban meghatározott eljárás alapján állítja ki.
 
 (2) Az adóigazolványt kiegészítő kártya a következő adatokat tartalmazza:
 
@@ -1246,7 +1246,7 @@ szükséges,
 
 (14) Ha az állami adóhatóság az adózónál be nem jelentett alkalmazottat talál, a foglalkoztatotti jogviszony rendezése érdekében a jogerős határozata egy példányának megküldésével tájékoztatja a munkaügyi hatóságot és az egészségbiztosítási szervet. Az adóhatóság a hónap folyamán jogerőssé vált határozatokat a következő hónap 10. napjáig elektronikus úton továbbítja a munkaügyi hatóságnak és az egészségbiztosítási szervnek.
 
-(15) Ha az állami adóhatóság a biztosítottat terhelő járulékkötelezettséget (tagdíjat) a magánszeméllyel szemben állapítja meg, akkor annak megtérülése esetén az erről szóló határozatot a megtérüléstől számított 30 napon belül, a nyugellátás megállapítása céljából megküldi a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, illetőleg magánnyugdíjpénztári tag esetén az illetékes magánnyugdíjpénztár részére is.
+(15) Ha az állami adóhatóság a biztosítottat terhelő járulékkötelezettséget (tagdíjat) a magánszeméllyel szemben állapítja meg, akkor annak megtérülése esetén az erről szóló határozatot a megtérüléstől számított 30 napon belül, a nyugellátás megállapítása céljából megküldi a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervnek, illetőleg magánnyugdíjpénztári tag esetén az illetékes magánnyugdíjpénztár részére is.
 
 54/A. § Az állami adóhatóság az ingatlan forgalmi értékének megállapításához szükséges adatokat (a továbbiakban: összehasonlító értékadat) tartalmazó nyilvántartásából, az abban szereplő ingatlanok forgalmi értékéről – az ingatlantulajdonos személyazonosságának megállapítására alkalmatlan módon – kérelemre igazgatási szolgáltatási díj ellenében adatszolgáltatást teljesít.
 

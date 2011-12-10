@@ -3073,6 +3073,8 @@ időpontjában.
 
 (5) A 130. § (2) bekezdés c) pontja szerint a szabadságra jogosító idő szabályait a Módtv. hatálybalépését követően kezdődött fizetés nélküli szabadság esetében kell alkalmazni.
 
+(5a) Az (5) bekezdésre tekintettel a szabadságra jogosító időt a 130. § (2) bekezdés c) pontja szerint kell megállapítani akkor is, ha a munkavállaló a gyermek gondozása vagy ápolása miatt kapott fizetés nélküli szabadság [138. § (5) bekezdés] igénybevételét 2011. augusztus 1-je és 2011. november 30-a között kezdte meg.
+
 (6) A 136. § (1) bekezdése szerinti, a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság első hat hónapjára járó szabadság pénzbeni megváltásáról szóló megállapodás a Módtv. hatálybalépését követően lejáró fizetés nélküli szabadság megszűnésekor köthető.
 
 (7) A XI. fejezetnek a Módtv. 15–20. §-ával módosított rendelkezéseit első alkalommal a 2011. december 1-jét követően létesített munkaviszonyokra kell alkalmazni. E rendelkezések végrehajtása érdekében a kollektív szerződéseket legkésőbb 2011. december 31-ig felül kell vizsgálni.

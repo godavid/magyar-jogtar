@@ -1110,9 +1110,7 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 59/A. § 2011. január 1. előtt a Munkaerőpiaci Alap rehabilitációs alaprész terhére megkötött támogatási szerződésekből eredő követelések, illetve az alaprészt terhelő kötelezettségek a XX. Nemzeti Erőforrás Minisztérium fejezet „Megváltozott munkaképességűek foglalkoztatásával összefüggő bértámogatás” nevű fejezeti kezelésű előirányzatot illetik meg, illetve terhelik.
 
-59/B. § (1) 2011. december 31-én hatályát veszti a 41/A. §, az azt megelőző fejezet cím, valamint a 42/A. §.
-
-(2) E § 2012. január 1-jén hatályát veszti.
+#### 59/B. §
 
 59/C. § (1) A 2011. augusztus 31-én folyósított, illetve szünetelő álláskeresési járadékot, álláskeresési segélyt a megállapítása idején hatályos szabályok szerint kell tovább folyósítani.
 

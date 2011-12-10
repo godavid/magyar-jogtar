@@ -296,6 +296,13 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (3)
 
+(4) Az Art.
+
+- 1. 20/A. § (1) bekezdésében a „járulékkedvezmény” szövegrész helyébe az „adókedvezmény” szöveg;
+- 2. 54. § (15) bekezdésében a „szerv” szövegrész helyébe a „szervnek” szöveg
+
+lép.
+
 361–362. §
 
 #### 24. Az ügyvédekről szóló 1998. évi XI. törvény módosítása
@@ -536,7 +543,11 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (11) E törvény 414. §-a az építési beruházásra, az árubeszerzésre és a szolgáltatás-megrendelésre irányuló közbeszerzési eljárások összehangolásáról szóló 2004. március 31-i 2004/18/EK európai parlamenti és tanácsi irányelvnek, valamint a vízügyi, energiaipari, közlekedési és postai ágazatban működő ajánlatkérők beszerzési eljárásainak összehangolásáról szóló 2004. március 31-i 2004/17/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-478. § A környezetvédelmi termékdíjról szóló törvény tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
+478. § E törvény 417–445. §-aiban foglalt rendelkezéseinek
+
+- 1. a csomagolásról és a csomagolási hulladékról szóló, 1994. december 20-i 94/62/EK európai parlamenti és tanácsi irányelv 16. cikk (1) és (2) bekezdése,
+- 2. a 98/48/EK európai parlamenti és tanácsi irányelvvel, továbbá a 2006/96/EK tanácsi irányelvvel módosított, a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8. cikke, és
+- 3. a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
 ### 1. melléklet a 2011. évi CLVI. törvényhez
 
