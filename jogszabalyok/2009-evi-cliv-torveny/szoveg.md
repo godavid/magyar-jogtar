@@ -343,9 +343,9 @@ szöveg lép.
 
 „(3) A (2) bekezdés szerinti kérelmet – a (11) bekezdés szerinti csoportos kérelem kivételével – kizárólag az egészségbiztosítási szerv 32/B. § szerinti szállítójegyzékében szereplő minősített forgalomba hozó nyújthatja be az egészségbiztosítási szervhez.”
 
-128. § (1) Az Ebtv. 10–17. §-a szerinti egészségügyi szolgáltatásokra 2011. december 31-ig – 2012. január 1-jei hatálybalépéssel – az e törvényben foglaltaknak megfelelő új finanszírozási szerződést kell kötni. Az új finanszírozási szerződések hatályának beálltával egyidejűleg a korábbi finanszírozási szerződések a törvény erejénél fogva megszűnnek.
+128. § (1)
 
-(2) Az Ebtv. 30. § (2) bekezdése alapján az e törvényben foglaltaknak megfelelő új szerződéseket 2011. december 31-ig – 2012. január 1-jei hatálybalépéssel – kell megkötni a gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával, gyógyászati ellátás nyújtójával. Az új szerződések hatályának beálltával egyidejűleg a korábbi szerződések a törvény erejénél fogva megszűnnek.
+(2) Az Ebtv. 30. § (2) bekezdése alapján az e törvényben foglaltaknak megfelelő új szerződéseket 2012. december 31-ig – 2013. január 1-jei hatálybalépéssel – kell megkötni a gyógyszer kiszolgáltatójával, gyógyászati segédeszköz forgalmazójával, gyógyászati ellátás nyújtójával. Az új szerződések hatályának beálltával egyidejűleg a korábbi szerződések a törvény erejénél fogva megszűnnek.
 
 (3) A 2010. január 1-jét megelőzően elszenvedett úti balesetnek minősülő üzemi baleset esetén az Ebtv. 56. §-ának (5) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
 
