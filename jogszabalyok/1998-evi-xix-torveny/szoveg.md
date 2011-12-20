@@ -177,7 +177,7 @@ a büntetőeljárásról
 
 (8) Az elkövetőre illetékes bíróság illetékessége a bűnpártolóra és az orgazdára is kiterjed.
 
-(9) Az eljárásra kiemelt ügyekben (Be. 554/B. §) az a bíróság is illetékes, ahol az ügyész – a legfőbb ügyész döntése alapján – az eljárás ésszerű időn belül való, illetve soron kívüli elbírálásának biztosítása végett vádat emel.
+(9)
 
 18. § (1) A Magyar Köztársaság határain kívül elkövetett bűncselekmény elbírálására az a bíróság illetékes, amelynek a területén a terhelt lakik, vagy tartózkodik, ennek hiányában az a bíróság, amelynek a területén fogva tartják.
 
@@ -1075,7 +1075,7 @@ bírálja el.
 
 ### A tanú személyi adatainak zárt kezelése
 
-96. § (1) A bíróság, az ügyész, illetve a nyomozó hatóság hivatalból elrendelheti, illetve a tanú, vagy az érdekében eljáró ügyvéd kérelmére elrendeli, hogy a tanú személyi adatait [85. § (2) bekezdés] az iratok között elkülönítve, zártan kezeljék. Ezekben az esetekben a tanú zártan kezelt adatait csak az ügyben eljáró bíróság, az ügyész, illetve a nyomozó hatóság tekintheti meg. Ha az e törvényben meghatározott feladata másként nem teljesíthető, a bíróság, az ügyész, valamint a nyomozó hatóság a tanú egyes, a feladat ellátásához szükséges személyi adata zárt kezelését mellőzi.
+96. § (1) A bíróság, az ügyész, illetve a nyomozó hatóság hivatalból elrendelheti, illetve a tanú, vagy az érdekében eljáró ügyvéd kérelmére elrendeli, hogy a tanú személyi adatait [85. § (2) bekezdés] az iratok között elkülönítve, zártan kezeljék. Ezekben az esetekben a tanú zártan kezelt adatait csak az ügyben eljáró bíróság, az ügyész, illetve a nyomozó hatóság tekintheti meg.
 
 (2) Ha a tanú személyi adatainak zárt kezelését rendelték el, ettől kezdve
 
@@ -2539,7 +2539,7 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 
 ### Általános eljárási szabályok
 
-209. § (1) A nyomozási bíró eljárására a bírósági eljárás általános szabályai az e címben foglalt eltérésekkel alkalmazandók azzal, hogy a nyomozási bíró eljárásában köteles figyelemmel lenni a nyomozó hatóság és az ügyész speciális, kizárólag a nyomozás során érvényesíthető nyomozástaktikai szempontjaira, így különösen arra, hogy a gyanúsított és a védő a nyomozás adatait, tényeit és bizonyítékait csak a nyomozásra irányadó szabályok alapján ismerhetik meg.
+209. § (1) A nyomozási bíró eljárására a bírósági eljárás általános szabályai az e címben foglalt eltérésekkel alkalmazandók.
 
 (2) Az ügyek egyesítésének és elkülönítésének nincs helye.
 
@@ -5519,7 +5519,7 @@ az ügyész vádat emel.
 
 ### Eljárás a külföldön tartózkodó terhelt távollétében
 
-532. § (1) Ha a terhelt külföldön ismert helyen tartózkodik, az ügyész a vádiratban indítványozhatja, hogy a tárgyalást a vádlott távollétében tartsák meg.
+532. § (1)
 
 (2) Ha a bírósági eljárásban állapítják meg, hogy a vádlott külföldön ismert helyen tartózkodik, a bíróság felhívhatja az ügyészt, hogy kívánja-e indítványozni a tárgyalásnak a vádlott távollétében történő folytatását.
 
@@ -5770,7 +5770,7 @@ az ügyész vádat emel.
 
 ### Az őrizetbe vétel
 
-554/G. § Kiemelt jelentőségű ügyben elrendelt őrizet legfeljebb százhúsz óráig tarthat. Az őrizet első negyvennyolc órájában a terhelt és a védő érintkezése a konkrét ügy egyedi körülményei alapján az ügyész intézkedésére megtiltható. Az intézkedés ellen jogorvoslatnak nincs helye.
+554/G. §
 
 ### Az óvadék
 
@@ -5782,7 +5782,7 @@ az ügyész vádat emel.
 
 ### A gyanúsított kihallgatása
 
-554/J. § Kiemelt jelentőségű ügyben fogva lévő gyanúsítottat hetvenkét órán belül ki kell hallgatni. Ha a kihallgatásra az őrizet első negyvennyolc óráján belül kerül sor, a védő a kihallgatáson akkor is részt vehet, ha az ügyész az 554/G. § alapján a terhelt és a védő érintkezését megtiltotta.
+554/J. § Kiemelt jelentőségű ügyben fogva lévő gyanúsítottat hetvenkét órán belül ki kell hallgatni.
 
 ### A tárgyalás kitűzése
 
