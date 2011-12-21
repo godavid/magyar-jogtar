@@ -400,9 +400,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 220–230. §
 
-231. § A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 5. § (4) bekezdés f) pontjában a „kisebbségi önkormányzati képviselőjelöltként” szövegrész a „nemzetiségi önkormányzati képviselőjelöltként” szöveggel lép hatályba.
-
-232. § Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 3.§ 3. pont a) alpontja a „nemzeti és etnikai kisebbséghez” szövegrész helyett a „nemzetiséghez” szöveggel lép hatályba.
+231–232. §
 
 233. §
 
@@ -414,7 +412,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 236–240. §
 
-241. § Hatályát veszti a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi C. törvény.
+241. §
 
 242. § E törvény 50-72. §-a rendelkezéseit első alkalommal a hatályba lépését követő általános nemzetiségi önkormányzati választásokon kell alkalmazni.
 
