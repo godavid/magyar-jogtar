@@ -36,7 +36,7 @@ Az Országgyűlés annak érdekében, hogy az Európai Unió Közös Agrárpolit
 - 18. krízislepárlási támogatás: a bor termékpálya gazdasági évét követően a felhalmozódott borkészletek levezetésére külön jogszabályban meghatározott módon adható támogatás;
 - 19.
 - 20. magántárolási támogatás: az egyes termékpálya-szabályozásokban meghatározott módon, a tárolási költségek csökkentését célzó támogatási forma;
-- 21. terméktanács: a törvény hatálya alá tartozó azonos vagy hasonló terméket termelő, feldolgozó, viszonteladó és forgalmazó szervezetek és személyek az egyesülési jogról szóló 1989. évi II. törvény alapján létrehozott, bírósági nyilvántartásba vett és az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által 2002. december 31-ig elismert, nem nyereségérdekelt szervezete. A hegyközségekről szóló 1994. évi CII. törvény alapján köztestületként alakult hegyközségek országos szervezetét az általa képviselt termékpálya vonatkozásában – külön miniszteri elismerés nélkül –, terméktanácsnak kell tekinteni;
+- 21. terméktanács: a törvény hatálya alá tartozó azonos vagy hasonló terméket termelő, feldolgozó, viszonteladó és forgalmazó szervezetek és személyek az egyesülési jogról szóló törvény alapján létrehozott, bírósági nyilvántartásba vett és az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által 2002. december 31-ig elismert, nem nyereségérdekelt szervezete. A hegyközségekről szóló 1994. évi CII. törvény alapján köztestületként alakult hegyközségek országos szervezetét az általa képviselt termékpálya vonatkozásában – külön miniszteri elismerés nélkül –, terméktanácsnak kell tekinteni;
 - 22. forgalmazó: aki a törvény hatálya alá tartozó terméket fogyasztói forgalomba hoz;
 - 23. fogyasztói forgalom: a törvény hatálya alá tartozó termékeknek közvetlenül a fogyasztó, mint végső felhasználó részére történő forgalmazása;
 - 24. viszonteladó: aki a törvény hatálya alá tartozó terméknek nem a fogyasztói forgalomban történő kereskedelmi értékesítését folytatja;
@@ -143,6 +143,8 @@ Az Országgyűlés annak érdekében, hogy az Európai Unió Közös Agrárpolit
 (2)
 
 8/A. § Semmis az olyan szerződéses kikötés, amely szerint a maga termelte mezőgazdasági termény szolgáltatására elháríthatatlan külső ok (vis maior) miatt egészben vagy részben nem képes termelő a hiányzó mezőgazdasági terményt teljesítés céljára mástól beszerezni, vagy helyette más szolgáltatást nyújtani köteles. E kikötés semmissége a szerződés egyéb rendelkezéseinek érvényességét akkor sem érinti, ha a felek e nélkül nem szerződtek volna.
+
+8/B. § A választottbíráskodásról szóló 1994. évi LXXI. törvény 55. § (2) bekezdés b) pontja szerinti közrendbe ütközőnek kell tekinteni az olyan választottbírósági ítéletet, amely a maga termelte mezőgazdasági termény szolgáltatására elháríthatatlan külső ok (vis maior) miatt egészben vagy részben képtelen termelőt a hiányzó mezőgazdasági termény – teljesítés céljából való – pótlására, beszerzésére vagy helyette más szolgáltatás, illetve biztosíték nyújtására kötelezi.
 
 9. § (1) Az e törvény hatálya alá tartozó termékek termelési sajátosságaihoz igazodó, kvótával történő mennyiségi szabályozásra kerülhet sor.
 

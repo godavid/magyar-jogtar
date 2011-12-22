@@ -1189,7 +1189,7 @@ szerinti állam vonatkozásában.
 
 92. § Az e törvényben szabályozott hivatalból indult eljárás során – halaszthatatlan esetben – tolmácsot az eljáró hatóság kirendelő végzés hiányában is igénybe vehet a hatóság és a tolmács között létrejött szerződés alapján.
 
-92/A. § A harmadik országbeli állampolgárnak a kiutasítással kapcsolatos idegenrendészeti eljárásokban lehetőséget kell biztosítani arra, hogy saját költségén jogi segítséget vegyen igénybe, jogi képviselőt bízzon meg, vagy elfogadja valamely jogvédelemmel foglalkozó bejegyzett társadalmi szervezet jogi segítségét. A hatóság a jogvédelemmel foglalkozó bejegyzett társadalmi szervezet által végzett tanácsadáshoz – szükség esetén tolmács biztosítása útján – segítséget nyújt.
+92/A. § A harmadik országbeli állampolgárnak a kiutasítással kapcsolatos idegenrendészeti eljárásokban lehetőséget kell biztosítani arra, hogy saját költségén jogi segítséget vegyen igénybe, jogi képviselőt bízzon meg, vagy elfogadja valamely jogvédelemmel foglalkozó bejegyzett egyesület jogi segítségét. A hatóság a jogvédelemmel foglalkozó bejegyzett egyesület által végzett tanácsadáshoz – szükség esetén tolmács biztosítása útján – segítséget nyújt.
 
 ### X. Fejezet — A HARMADIK ORSZÁGBELI ÁLLAMPOLGÁROK ADATAINAK KEZELÉSÉRE VONATKOZÓ SZABÁLYOK
 

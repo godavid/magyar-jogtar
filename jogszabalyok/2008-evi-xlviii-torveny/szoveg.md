@@ -231,7 +231,7 @@ vonatkoznak.
 
 26. § (1) A fogyasztóvédelmi hatóság eljárására az e törvényben meghatározott eltérésekkel a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) rendelkezéseit kell alkalmazni.
 
-(2) A dohánytermék reklámjára, valamint a dohánytermékkel összefüggő szponzorálásra vonatkozó rendelkezések megsértése miatti eljárásban a nemdohányzók védelmét ellátó társadalmi szervezetet az ügyfél jogai illetik meg.
+(2) A dohánytermék reklámjára, valamint a dohánytermékkel összefüggő szponzorálásra vonatkozó rendelkezések megsértése miatti eljárásban a nemdohányzók védelmét ellátó egyesületet az ügyfél jogai illetik meg.
 
 (3) Az eljáró hatóság ellenőrzése keretében kérheti az 5. § (3) bekezdése, valamint a 6. § (5) bekezdése szerinti nyilvántartás bemutatását.
 

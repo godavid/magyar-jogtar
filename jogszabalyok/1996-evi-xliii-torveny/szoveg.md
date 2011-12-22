@@ -205,11 +205,11 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 (2) A hivatásos állomány tagja nem csatlakozhat olyan szervezethez, amelynek tevékenysége a fegyveres szerv feladataival ellentétes.
 
-(3) A hivatásos állomány tagja köteles a hivatásával össze nem függő társadalmi szervezettel fennálló, illetőleg az újonnan létesülő tagsági viszonyát előzetesen az állományilletékes parancsnoknak szóban vagy írásban bejelenteni. Az állományilletékes parancsnok a tagsági viszony fenntartását vagy létesítését írásban megtilthatja, ha az a hivatással vagy a szolgálati beosztással nem egyeztethető össze, illetőleg a szolgálat érdekeit sérti vagy veszélyezteti.
+(3) A hivatásos állomány tagja köteles a hivatásával össze nem függő civil szervezettel fennálló, illetőleg az újonnan létesülő tagsági viszonyát előzetesen az állományilletékes parancsnoknak szóban vagy írásban bejelenteni. Az állományilletékes parancsnok a tagsági viszony fenntartását vagy létesítését írásban megtilthatja, ha az a hivatással vagy a szolgálati beosztással nem egyeztethető össze, illetőleg a szolgálat érdekeit sérti vagy veszélyezteti.
 
 (4) A hivatásos állomány tagja kamarai tagsághoz kötött tevékenység esetén tagja az illetékes szakmai kamarának.
 
-21/A. § A 21. § rendelkezéseit megfelelően alkalmazni kell az egyesülési jog alapján létrehozott, társadalmi szervezeteknek nem minősülő, de szervezett politikai tevékenységet folytató közösséghez, valamint a tömegmozgalomhoz történő csatlakozásra és részvételre is.
+21/A. § A 21. § rendelkezéseit megfelelően alkalmazni kell az egyesülési jog alapján létrehozott, szervezett politikai tevékenységet folytató közösséghez, történő csatlakozásra és részvételre is.
 
 ### Az anyanyelv használata
 
@@ -876,7 +876,7 @@ távolléti díjnak megfelelő összeg.
 
 (4) Nem kell engedélyeztetni a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenység folytatását.
 
-(5) Nem adható engedély, ha a munkavégzéssel járó egyéb jogviszony, a társadalmi szervezetben való részvétel vagy tisztségviselés ellentétes a fegyveres szerv feladataival, vagy a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, illetve a fegyveres szerv tekintélyét veszélyezteti.
+(5) Nem adható engedély, ha a munkavégzéssel járó egyéb jogviszony, a civil szervezetben való részvétel vagy tisztségviselés ellentétes a fegyveres szerv feladataival, vagy a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, illetve a fegyveres szerv tekintélyét veszélyezteti.
 
 (6) A hivatásos állomány tagja az 59. § (1) bekezdés c) pontjában meghatározott tisztséget nem tölthet be.
 

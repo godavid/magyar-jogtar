@@ -72,7 +72,7 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 (2) A bíróság a hegyközség nyilvántartásba vételéről szóló határozatát az agrárpolitikáért felelős miniszterrel is közli.
 
-(3) A hegyközség nyilvántartásba vételére egyebekben a társadalmi szervezetekre irányadó szabályokat kell alkalmazni.
+(3) A hegyközség nyilvántartásba vételére egyebekben az egyesületekre irányadó szabályokat kell alkalmazni.
 
 ### Az alapszabály
 

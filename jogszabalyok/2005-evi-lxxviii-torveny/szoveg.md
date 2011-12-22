@@ -50,7 +50,7 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 
 (2) A Testület a tagok önkéntes tagságán alapuló köztestület, amely e törvény rendelkezései szerint kizárólagos jogkörrel működteti a nemzeti akkreditálás rendszerét.
 
-(3) A Testületet a Fővárosi Bíróság veszi nyilvántartásba, a társadalmi szervezetek nyilvántartásba vételére irányadó rendelkezések szerint.
+(3) A Testületet a Fővárosi Bíróság veszi nyilvántartásba, az egyesületek nyilvántartásba vételére irányadó rendelkezések szerint.
 
 (4) A Testület jogosult a Magyar Köztársaság címerének használatára.
 
@@ -129,7 +129,7 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 - f) a Magyar Szabványügyi Testület, a mérésügyi szerv, az országos kamarák,
 - g) a tudományos és műszaki egyesületek,
 - h) az agrár, informatika, jogi és igazgatási, gazdaságtudományok, műszaki, orvos- és egészségtudomány, természettudomány képzési területen képzést folytató felsőoktatási intézmények,
-- i) a gyártók, a forgalmazók és a fogyasztók érdek-képviseleti szervezetei, a szakmai érdek-képviseleti szervezetek, a minőségüggyel foglalkozó társadalmi szervezetek.
+- i) a gyártók, a forgalmazók és a fogyasztók érdek-képviseleti szervezetei, a szakmai érdek-képviseleti szervezetek, a minőségüggyel foglalkozó egyesületek.
 
 (2) A tagsági jogviszony az (1) bekezdésben felsoroltak kérésére az első tagdíj megfizetésének napjával jön létre.
 

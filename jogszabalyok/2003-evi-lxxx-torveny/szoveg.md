@@ -43,7 +43,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - b) jogi tanácsadásra a következő területeken: 1. pénzintézet által folyósított kölcsön felvételének feltételei, 2. olyan jogügylet tárgyában, amelyben a jognyilatkozatot csak ügyvéd által ellenjegyzett okiratba vagy közjegyzői okiratba foglaltan lehet tenni, kivéve, ha a jogügylet a fél és családja lakhatását szolgáló ingatlan elidegenítése vagy megterhelése,
 - c) alkotmányjogi panasszal kapcsolatban,
 - d) a magánszemély vállalkozási, befektetési jellegű tevékenységével kapcsolatos ügyben, kivéve 1. az (1) bekezdés g) pontja szerinti ügyeket, ha az elkövetett bűncselekmény e tevékenységgel kapcsolatos, 2. a tevékenység folytatásáért járó díj érvényesítésével összefüggő ügyeket, ha a vállalkozási jellegű jogviszonyra vonatkozó szerződés természetes személy által végzendő tevékenység folytatására vonatkozik alvállalkozó igénybevételének kizárásával, a munkavégzés helyének meghatározásával és a díj részletekben történő megfizetésével,
-- e) társadalmi szervezet létrehozásával és működésével kapcsolatos ügyben,
+- e) civil szervezet létrehozásával és működésével kapcsolatos ügyben,
 - f) vámügyekkel kapcsolatban.
 
 (4) Bűncselekmény áldozata részére a büntetőeljárásbeli jogairól és kötelezettségeiről szóló általános tájékoztatást külön törvény szerint az áldozatsegítő szolgálat adja meg.
@@ -146,7 +146,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - a) a 4. § (1) bekezdése szerinti feltételeknek megfelelő fél;
 - b) a menekültügyi eljárásban hozott határozat bírósági felülvizsgálata iránt kérelmet benyújtó személy;
 - c) külföldi fél olyan perben, amelyben tárgyi költségfeljegyzési jog áll fenn;
-- d) a 15. § alapján nyújtott támogatás esetében a kiemelkedően közhasznú szervezet és a munkavállalói érdek-képviseleti szervezet az általa közérdekből, külön jogszabály felhatalmazása alapján indított perben.
+- d) a 15. § alapján nyújtott támogatás esetében a közhasznú szervezet és a munkavállalói érdek-képviseleti szervezet az általa közérdekből, külön jogszabály felhatalmazása alapján indított perben.
 
 14. § A támogatásra rászorultnak tekintendő
 
@@ -557,7 +557,7 @@ tart.
 
 66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kötő
 
-- a) jogvédelemmel foglalkozó társadalmi szervezet, alapítvány, kisebbségi önkormányzat, jogi oktatást végző egyetem (a továbbiakban e Fejezetben együtt: jogi segítő szervezet),
+- a) jogvédelemmel foglalkozó egyesület, alapítvány, kisebbségi önkormányzat, jogi oktatást végző egyetem (a továbbiakban e Fejezetben együtt: jogi segítő szervezet),
 - b) ügyvéd, ügyvédi iroda és a tevékenységét Magyarországon állandó jelleggel végző európai közösségi jogász (a továbbiakban együtt: ügyvéd).
 - c)
 

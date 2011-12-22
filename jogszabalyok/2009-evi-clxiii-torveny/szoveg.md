@@ -170,7 +170,7 @@ a következő törvényt alkotja:
 
 (7) Az ügyvéd és a közjegyző kivételével a tanú meghallgatható az ügyfélnek a vizsgálati eljárás szempontjából jelentős védett adatának minősülő tényről akkor is, ha nem kapott felmentést a titoktartás alól.
 
-(8) Az eljárás lefolytatására kijelölt személy az eljárását kizáró okként köteles bejelenteni a Hivatal elnökének, ha olyan ügyben jelölték ki az eljárásra, amelyben saját maga vagy közeli hozzátartozója az ügyben érintett gazdasági társaságban tulajdoni részesedéssel rendelkezik; gazdasági társaság, alapítvány, társadalmi szervezet, egyház vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, a társadalmi szervezet, az egyház vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
+(8) Az eljárás lefolytatására kijelölt személy az eljárását kizáró okként köteles bejelenteni a Hivatal elnökének, ha olyan ügyben jelölték ki az eljárásra, amelyben saját maga vagy közeli hozzátartozója az ügyben érintett gazdasági társaságban tulajdoni részesedéssel rendelkezik; gazdasági társaság, alapítvány, egyesület vagy egyház, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület vagy az egyház ügyintéző vagy képviseleti szervének tagja.
 
 ### Az eljárási bírság
 
@@ -267,7 +267,7 @@ a következő törvényt alkotja:
 
 18. § (1) A Hivatal elemzi a korrupcióval összefüggő társadalmi és gazdasági folyamatokat, és a korrupció elleni kormányzati politika hatékonyságát. A Hivatal e feladataival összefüggésben rendszeresen elemzi különösen azokat a döntéshozatali folyamatokat, amelyek korrupciós kockázatot jelentenek, és javaslatot tesz a kockázatok csökkentésére.
 
-(2) A Hivatal – az érintett szakmai és társadalmi szervezetek és szakértők bevonásával előkészített – középtávú, legalább ötéves ciklusokra tervezett korrupcióellenes stratégia kialakítására tesz javaslatot a Kormány részére.
+(2) A Hivatal – az érintett szakmai és egyesületek és szakértők bevonásával előkészített – középtávú, legalább ötéves ciklusokra tervezett korrupcióellenes stratégia kialakítására tesz javaslatot a Kormány részére.
 
 (3) A Hivatal a Kormány által elfogadott stratégia végrehajtásával kapcsolatos kormányzati feladatokra tekintettel javaslatot dolgoz ki:
 

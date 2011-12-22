@@ -539,7 +539,7 @@ tegye közzé.
 
 ### A jelölő szervezet bejelentése
 
-51. § (1) Azt a jelölő szervezetet, amely jelöltet vagy listát kíván állítani, a társadalmi szervezetek bírósági nyilvántartásából a választás kitűzését követően kiállított kivonat csatolásával kell bejelenteni az alábbiak szerint:
+51. § (1) Azt a jelölő szervezetet, amely jelöltet vagy listát kíván állítani, az egyesületek bírósági nyilvántartásából a választás kitűzését követően kiállított kivonat csatolásával kell bejelenteni az alábbiak szerint:
 
 - a) ha a jelölő szervezet több megye, illetőleg a főváros és valamely megye területén is jelöltet vagy listát kíván állítani, az Országos Választási Bizottságnál,
 - b) ha a jelölő szervezet csak egy megye, illetőleg a főváros területén belül, de több országgyűlési egyéni választókerületben, illetőleg több településen kíván jelöltet állítani, a területi választási bizottságnál,
@@ -601,7 +601,7 @@ tegye közzé.
 
 (3) Az ajánlószelvényeket, valamint a technikai nyilvántartást az illetékes választási iroda a szavazás napján megsemmisíti.
 
-(4) A jelölő szervezet jelölési jogosultságát a választási bizottság a bíróság által bejegyzett társadalmi szervezetek nyilvántartásában ellenőrizheti.
+(4) A jelölő szervezet jelölési jogosultságát a választási bizottság a bíróság által bejegyzett egyesületek nyilvántartásában ellenőrizheti.
 
 60. § A jelöltnek a be nem nyújtott ajánlószelvényeket a benyújtásukra rendelkezésre álló határidő lejártát követő három napon belül meg kell semmisítenie, s erről jegyzőkönyvet kell készítenie. A jegyzőkönyvet három napon belül a választási bizottságnak át kell adni.
 
@@ -2048,7 +2048,7 @@ tekinthet be. A kisebbségi választói jegyzékbe történt betekintésről nyi
 - d) hozzátartozó: az egyeneságbeli rokon és ennek házastársa, az örökbefogadó és a nevelőszülő, az örökbefogadott és a nevelt gyermek, a testvér, a házastárs, az élettárs, a házastárs egyeneságbeli rokona, testvére, valamint a testvér házastársa,
 - e) jegyző: a települési jegyző, a körjegyző,
 - f) jelölési fajta: az országgyűlési képviselők választásán az egyéni választókerületi, a területi listás, az országos listás jelölés; az Európai Parlament tagjainak választásán a listás jelölés; a helyi önkormányzati képviselők és polgármesterek választásán a polgármester-/főpolgármester-, az egyéni listás, az egyéni választókerületi, a kompenzációs listás, a fővárosi/megyei listás jelölés; a kisebbségi önkormányzati képviselők választásán a települési kisebbségi önkormányzati, a területi kisebbségi önkormányzati, az országos kisebbségi önkormányzati jelölés,
-- g) jelölő szervezet: a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény szerint bejegyzett párt, valamint az egyesülési jogról szóló 1989. évi II. törvény szerint bejegyzett társadalmi szervezet; a közös jelöltet, listát állító jelölő szervezetek egy jelölő szervezetnek számítanak,
+- g) jelölő szervezet: a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény szerint bejegyzett párt, valamint az egyesülési jogról szóló törvény szerint bejegyzett egyesület; a közös jelöltet, listát állító jelölő szervezetek egy jelölő szervezetnek számítanak,
 - h) képviselő: az országgyűlési képviselő, az Európai Parlament tagja, a települési önkormányzat képviselő-testületének tagja, a megyei közgyűlés tagja, a fővárosi közgyűlés tagja, a kisebbségi önkormányzat tagja,
 - i) kezdeményezést benyújtók: népszavazás állampolgári kezdeményezése, valamint népi kezdeményezés esetén azok a szervezetek, illetve magánszemélyek, amelyek, illetve akik a kezdeményezést benyújtották,
 - j)

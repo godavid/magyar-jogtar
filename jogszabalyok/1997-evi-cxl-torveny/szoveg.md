@@ -602,7 +602,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 82. § A közművelődés helyi, lakossági képviselete érdekében településenként, fővárosi kerületenként legfeljebb hároméves időtartamra egy-egy Közművelődési Tanács (a továbbiakban: Tanács) alakítható. A Tanács elsődlegesen a lakossági igények megjelenítésének, a kulturális érdekérvényesítésnek és a közművelődési tevékenységek önkéntes összehangolásának rendszeres és folyamatos helyi fóruma.
 
-83. § (1) A Tanácsot azok a közművelődési célú társadalmi szervezetek hozhatják létre, melyeknek bejegyzett székhelye az adott település, s amelyeknek legfelsőbb szerve írásos határozatban jelzi ez irányú szándékát.
+83. § (1) A Tanácsot azok a közművelődési célú egyesületek hozhatják létre, melyeknek bejegyzett székhelye az adott település, s amelyeknek legfelsőbb szerve írásos határozatban jelzi ez irányú szándékát.
 
 (2) A Tanács megalakítását célzó határozatokat a település jegyzőjéhez kell benyújtani, aki azokat a helyben szokásos módon teszi közzé. A közzétételtől számított 30 napon belül az (1) bekezdésben foglaltak szerint további szervezetek nyújthatják be a jegyzőhöz csatlakozási szándékot tartalmazó határozataikat.
 
@@ -612,7 +612,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (5) A jegyző a Tanács működési idejének lejártát 30 nappal korábban, a helyben szokásos módon közzéteszi.
 
-(6) A Tanács tagja lehet minden jogi személyiséggel rendelkező, helyben működő közművelődési társadalmi szervezet, valamint a helyi közművelődést támogató gazdasági vállalkozás képviselője.
+(6) A Tanács tagja lehet minden jogi személyiséggel rendelkező, helyben működő közművelődési egyesület, valamint a helyi közművelődést támogató gazdasági vállalkozás képviselője.
 
 (7) Az (1) bekezdésben foglaltaknak megfelelő szervezetek csatlakozása a Tanácshoz nem utasítható el. Az alapító és csatlakozó tagok jogai egyenlők.
 

@@ -28,7 +28,7 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - d) az állami megbízásból vagy állami garanciával végzett exporthitel-biztosítási tevékenységre,
 - e) az önkéntes kölcsönös biztosító pénztárak és a magánnyugdíjpénztárak tevékenységére,
 - f) a nemzetközi gépjármű-biztosítási megállapodásból (Zöld Kártya Egyezmény) eredő feladatok ellátására,
-- g) azon egyesületek tevékenységére, amelyeknél az alapszabály pótlólagos befizetésre, illetve a szolgáltatások csökkentésére hívja fel tagjait, és üzleti tevékenységük kizárólag az 1. számú melléklet A) részének 19. ágazatában szereplő kockázatra terjed ki, és a biztosítási díjbevétel és a tagsági hozzájárulás együttes összege nem haladhatja meg az évi 50 millió forintot, és az összes bevételnek legalább a felét az egyesület tagjai fizették be,
+- g) azon egyesületek tevékenységére, amelyeknél az alapszabály pótlólagos befizetésre, illetve a szolgáltatások csökkentésére hívja fel tagjait, és üzleti tevékenységük kizárólag az 1. számú melléklet A) részének 19. ágazatában szereplő kockázatra terjed ki, és a biztosítási díjbevétel és a tagdíjbevétel együttes összege nem haladja meg az évi 50 millió forintot, és az összes bevételnek legalább a felét az egyesület tagjai fizették be,
 - h) azon szervezetek tevékenységére, amelyek kizárólag halál esetére vállalják szolgáltatás nyújtását, ha a szolgáltatás összege nem haladja meg az egy halálesetre jutó, helyben szokásos temetési költséget, vagy a szolgáltatásokat természetben nyújtják,
 - i) a jogi személyiséggel nem rendelkező azon szervezetek tevékenységére, amelyek célja az, hogy tagjaik számára bárminemű díj fizetése, vagy technikai tartalékok képzése nélkül kölcsönös védelmet nyújtsanak,
 - j) a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap tevékenységére.
@@ -232,7 +232,7 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 
 - a) biztosító részvénytársaság esetén a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.),
 - b) biztosító szövetkezet esetén a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Szvt.),
-- c) biztosító egyesület esetén az egyesülési jogról szóló 1989. évi II. törvény (a továbbiakban: Et.),
+- c) kölcsönös biztosító egyesület esetén a Ptk. és az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Etv.),
 - d) fióktelep esetén a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) fióktelepre vonatkozó előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 ### A biztosító részvénytársaság
@@ -279,73 +279,130 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 
 (3) A volt tag (örököse) a vele való elszámolásig részesedik a szövetkezet eredményéből.
 
-### A biztosító egyesület
+### A kölcsönös biztosító egyesület
 
-19. § A biztosító egyesület olyan önkéntesen létrehozott, kölcsönösségi alapon működő szervezet, amely kizárólag tagjai részére, nyereségérdekeltség nélkül, a tagsági hozzájárulás ellenében, a biztosítási feltételekben meghatározott biztosítási események bekövetkezése esetében, biztosítástechnikai elvek alapján, előre meghatározott szolgáltatást nyújt.
+19. § (1) A kölcsönös biztosító egyesület olyan kölcsönösségi alapon működő egyesület, amely kizárólag tagjával kötött szerződés alapján, biztosítási díj ellenében, a biztosítási feltételekben meghatározott biztosítási események bekövetkezése esetében, biztosítástechnikai elvek alapján, előre meghatározott szolgáltatást nyújt.
 
-20. § (1) Biztosító egyesületet természetes személyek, jogi személyek, valamint ezek jogi személyiséggel nem rendelkező szervezetei hozhatnak létre és működtethetnek.
+(2) A kölcsönös biztosító egyesületbe történő belépés feltétele a biztosítási szerződés létrejötte.
 
-(2) A 66. § szerinti induló tőkén belül a pénzbeli hozzájárulásnak legalább 70 százalékot kell elérnie.
+(3) A biztosítási szerződés megszűnésével – ha az egyesület alapszabálya másként nem rendelkezik – a tagsági jogviszony nem szűnik meg, feltéve, ha
 
-(3) Biztosító egyesület a tevékenységi engedélyét kizárólag akkor kaphatja meg, ha az induló tőke pénzbeli hozzájárulási részét teljes egészében befizették.
+- a) a tag eleget tesz a tagdíjfizetési kötelezettségének,
+- b) a tagdíjfizetésre nem kötelezett tag eleget tesz a tagsági jogviszonyából eredő egyéb kötelezettségének és egy éven belül új biztosítást köt.
 
-(4) A biztosító egyesület elnevezésében köteles egyértelműen utalni arra, hogy egyesületi formában tevékenykedik.
+20. § (1) A kölcsönös biztosító egyesület esetében a 66. § szerinti induló tőkén belül a pénzbeli hozzájárulásnak legalább 70 százalékot kell elérnie.
 
-21. § A biztosító egyesület hitel-, illetve kezesi biztosítási, valamint viszontbiztosításba vételi tevékenységet nem végezhet.
+(2) A kölcsönös biztosító egyesület a tevékenységi engedélyét kizárólag akkor kaphatja meg, ha az induló tőke pénzbeli hozzájárulási részét teljes egészében befizették.
 
-22. § (1) A biztosító egyesület alapszabályában rendelkezni kell:
+(3) A biztosító egyesület elnevezésében köteles egyértelműen utalni arra, hogy kölcsönös biztosító egyesületi formában tevékenykedik.
 
-- a) az egyesület nevéről és székhelyéről,
-- b) céljáról és tevékenységi köréről,
-- c) a tagsági jogviszony keletkezésének és megszűnésének módjáról,
-- d) az egyesület szervezetéről,
-- e) induló tőkéjéről és annak befizetési módjáról,
-- f) a tagsági hozzájárulás kialakítási elveiről, biztosítási ágazatonként meghatározott mértékéről, fizetésének módjáról,
-- g) az eredmény felhasználási elveiről,
-- h) a veszteség rendezésének módjáról,
-- i) a szolgáltatás csökkentéséről, illetve a tagok által teljesítendő kötelező pótlólagos befizetésről, arra az esetre, ha más források nem elégségesek az egyesület tárgyévi kötelezettségeinek teljesítésére;
-- j) megszűnés esetén az egyesületi vagyon felhasználásáról, a fennálló kötelezettségek, ezen belül a biztosítási kötelezettségek elkülönített rendezéséről.
+21. § A kölcsönös biztosító egyesület hitel-, illetve kezesi biztosítási, valamint viszontbiztosításba vételi tevékenységet nem végezhet.
 
-(2) Felelősségbiztosítási szerződés esetén az (1) bekezdés i) pontjában foglaltak szerinti szolgáltatáscsökkentésre nincs lehetőség.
+22. § (1) A kölcsönös biztosító egyesület alapszabályában – a Ptk.-ban foglaltakon túl – rendelkezni kell:
 
-(3) A százfős taglétszámot egy naptári éven keresztül átlagosan meghaladó biztosító egyesület a következő évi rendes közgyűlésén köteles
+- a) a kölcsönös biztosító egyesület tevékenységi köréről,
+- b) induló tőkéjéről és annak befizetési módjáról,
+- c) a tagdíj kialakításának elveiről, mértékéről, fizetésének módjáról,
+- d) az eredmény felhasználási elveiről,
+- e) a veszteség rendezésének módjáról,
+- f) a tagok által teljesítendő kötelező pótlólagos befizetésről, továbbá – a (2) bekezdésben meghatározott esetet kivéve – a szolgáltatás csökkentéséről arra az esetre, ha más források nem elégségesek az egyesület tárgyévi kötelezettségeinek teljesítésére,
+- g) megszűnés esetén az egyesületi vagyon felhasználásáról, a fennálló kötelezettségek, ezen belül a biztosítási kötelezettségek elkülönített rendezéséről,
+- h) a kölcsönös biztosító egyesület átalakulására – beleértve a 27. § (1) bekezdésben foglalt esetet is –, feloszlására vonatkozó – legfőbb szervhez intézett – indítvány előterjesztésének szabályairól.
 
-- a) legalább öt, legfeljebb tizenegy tagú igazgatóságot és
-- b) legalább három, legfeljebb tizenöt tagú felügyelő bizottságot
+(2) A kölcsönös biztosító egyesület által kötött felelősségbiztosítási szerződés esetén az (1) bekezdés f) pontjában foglaltak szerinti szolgáltatáscsökkentésre nincs lehetőség.
 
-választani.
+(3) A százfős taglétszámot egy naptári éven keresztül átlagosan meghaladó kölcsönös biztosító egyesület legfőbb szerve a következő évi rendes ülésén köteles
+
+- a) páratlan számú, de legalább három, legfeljebb tizenegy tagú igazgatótanácsot és
+- b) páratlan számú, de legalább három, legfeljebb tizenöt tagú felügyelőbizottságot választani.
 
 (4) A (3) bekezdés alkalmazásában az alapszabályban foglalt elnevezéstől függetlenül
 
-- a) igazgatóság alatt az egyesület ügyvezetését,
-- b) felügyelő bizottság alatt az egyesület ellenőrzését
+- a) igazgatótanács alatt az egyesület ügyintéző és képviseleti szerve,
+- b) felügyelő bizottság alatt az egyesület ügyintéző és képviseleti szervének ellenőrzését ellátó testület értendő.
 
-ellátó testület értendő.
+(5) Az igazgatótanács és a felügyelő bizottság tagjait – az alapszabály eltérő rendelkezése hiányában – a legfőbb szerv titkos szavazással, az alapszabályban meghatározott időtartamra választja meg. Az igazgatótanács és a felügyelőbizottság tagjainak a megbízatása az érintett személy elfogadó nyilatkozatával jön létre.
 
-23. § A tárgyévi nyereségnek az alapszabályban meghatározott részét az alapszabályban meghatározott módon és mértékben kell visszajuttatni a biztosítottaknak.
+(6) A legfőbb szervet az alapszabályban meghatározott módon, a tagjainak küldött meghívó útján kell összehívni. Az alapszabály rendelkezhet úgy is, hogy azoknak a tagoknak, akik ezt kívánják, a legfőbb szerv üléséről szóló meghívót elektronikus úton kell megküldeni.
 
-24. § (1) A biztosító egyesület legfelsőbb szerve állapítja meg a 22. § (1) bekezdés i) pontjában meghatározott szolgáltatáscsökkentést, illetve a pótlólagos befizetési kötelezettséget, beleértve azok mértékét.
+(7) Az ezerfős taglétszámot egy naptári éven keresztül átlagosan meghaladó kölcsönös biztosító egyesület esetében a legfőbb szerv a legfeljebb ötventagú küldöttgyűlés. A küldötteket a tagok, a tagok köréből létszámarányosan öt évre választják. A küldöttek választásának és visszahívásának eljárási szabályait a kölcsönös biztosító egyesület alapszabálya tartalmazza. Az alapszabályban rendelkezni kell az újonnan belépő tagok képviseletéről.
 
-(2) Ha a biztosító egyesület az e törvényben meghatározottak szerinti szükséghelyzetbe került, a Felügyelet jogosult – a 216. § (2) bekezdésében foglaltak mellett – a pótlólagos befizetési kötelezettség megállapítására, feltéve, ha a Felügyelet erre irányuló felhívásának a biztosító egyesület legfelsőbb szerve nem tett eleget.
+(8) A küldöttválasztó közgyűlést az alapszabályban meghatározott módon, de legalább a kölcsönös biztosító egyesület honlapján és két országos napilapban közzétett hirdetmény útján kell összehívni. Az alapszabály előírhatja, hogy azokat a tagokat, akik ezt kívánják, küldöttválasztó közgyűlés összehívásáról a nyomtatott sajtóban és honlapon történt közlés mellett elektronikus úton is értesíteni kell. A hirdetmény és a tag részére elektronikus úton küldött értesítés közötti eltérés esetén a hirdetményben foglaltak az irányadók.
 
-(3) A pótlólagos befizetési kötelezettség alapján a biztosító egyesület tagja által teljesítendő befizetés nem haladhatja meg a biztosító egyesület tagja által a pótlólagos befizetési kötelezettség teljesítése nélkül a biztosító egyesület részére bármilyen jogcímen évente teljesített befizetések 100 százalékát.
+23. § A tárgyévi nyereségnek az alapszabályban meghatározott része az alapszabályban meghatározott módon és mértékben visszajuttatható a tagoknak, abban az esetben, ha a visszajuttatást követően a szavatoló tőke összege meghaladja a minimális szavatoló tőke szükséglet kétszeresét, vagy – amennyiben magasabb – a minimális biztonsági tőke kétszeresét.
 
-(4) A tagdíjakat és pótlólagos befizetéseket, valamint az egyesületnek a tagsági hozzájárulás alapján nyújtott biztosítói szolgáltatásait az alapszabályban kell megállapítani, azonos feltételek esetén azonos alapelvek szerint.
+24. § (1) A kölcsönös biztosító egyesület igazgatótanácsa állapítja meg a 22. § (1) bekezdés f) pontjában meghatározott szolgáltatáscsökkentést, illetve a pótlólagos befizetési kötelezettséget, beleértve azok mértékét.
 
-25. § (1) A Felügyelet a biztosító egyesület biztonságos működése érdekében legfeljebb 90 százalékos viszontbiztosításba adási kötelezettséget írhat elő.
+(2) Ha a kölcsönös biztosító egyesület az e törvényben meghatározottak szerinti szükséghelyzetbe került, a Felügyelet jogosult – a 216. § (2) bekezdésében foglaltak mellett – a pótlólagos befizetési kötelezettség megállapítására, feltéve, ha a Felügyelet erre irányuló felhívásának a kölcsönös biztosító egyesület igazgatótanácsa nem tett eleget.
 
-(2) A biztosító egyesület az általa vállalt kockázatot nem adhatja teljes egészében viszontbiztosításba.
+(3) A pótlólagos befizetési kötelezettség alapján a kölcsönös biztosító egyesület tagja által teljesítendő befizetés nem haladhatja meg a kölcsönös biztosító egyesület tagja által a pótlólagos befizetési kötelezettség teljesítése nélkül a kölcsönös biztosító egyesület részére bármilyen jogcímen évente teljesített befizetések száz százalékát.
 
-26. § A biztosító egyesület – az Et.-ben meghatározott eseteken túlmenően – megszűnik, ha
+(4) A kölcsönös biztosító egyesület igazgatótanácsa pótlólagos befizetési kötelezettséget az egyesület korábbi tagjára is előírhat, feltéve, hogy a korábbi tag tagsági jogviszonya a pótlólagos befizetési kötelezettség megállapítását megelőző egy éven belül szűnt meg.
 
-- a) az alapszabályban a működésére meghatározott időszak eltelt,
-- b) alapítási vagy tevékenységi engedélyét a Felügyelet visszavonja.
+(5) Az igazgatótanács a pótlólagos befizetési kötelezettséget, valamint a szolgáltatások csökkentését a kölcsönös biztosító egyesület minden tagjára, vagy a tagok – biztosítási ágak, ágazatok szerint – elkülönült csoportjára állapíthat meg.
 
-27. § (1) A biztosító egyesület tagjai legalább háromnegyedének hozzájárulása szükséges az egyesület feloszlásához, egyesüléséhez (beolvadásához vagy összeolvadásához).
+25. § A tagdíjakat, a pótlólagos befizetések és a szolgáltatások csökkentésének lehetőségét, valamint esetköreit az alapszabályban kell meghatározni, azonos feltételek esetén azonos alapelvek szerint.
 
-(2) Biztosító egyesület feloszlása esetén a tagok biztosítási jogviszonya a biztosító egyesület megszűnésének időpontjában szűnik meg.
+26. § (1) A Felügyelet a kölcsönös biztosító egyesület biztonságos működése érdekében legfeljebb 90 százalékos viszontbiztosításba adási kötelezettséget írhat elő.
+
+(2) A kölcsönös biztosító egyesület az általa vállalt kockázatot nem adhatja teljes egészében viszontbiztosításba.
+
+27. § (1) A kölcsönös biztosító egyesület – a Ptk.-ban foglaltakon túl – jogutódlással megszűnik, ha a kölcsönös biztosító egyesület biztosító részvénytársasággá átalakul.
+
+(2) A kölcsönös biztosító egyesület átalakulásához – beleértve az (1) bekezdésben foglalt esetet is –, feloszlásához, a legfőbb szerv tagjai legalább háromnegyedének hozzájárulása szükséges.
+
+(3) A kölcsönös biztosító egyesület feloszlása, továbbá a bírósági feloszlatása esetén a feloszlásra vonatkozó döntésben rendelkezni kell a tagok biztosítási jogviszonyának megszüntetéséről.
 
 28. § Az évközben belépő vagy kiváló tag részére időarányos tagdíjat, illetőleg pótlólagos befizetést lehet előírni. Pótlólagos befizetést csak olyan mértékben lehet előírni, amilyen mértékben az év folyamán a tagdíjak növelésére vagy a szolgáltatások leszállítására került sor.
+
+28/A. § (1) Kölcsönös biztosító egyesület biztosító részvénytársasággá alakulhat át. Az átalakulásra a gazdasági társaságokról szóló törvény (a továbbiakban: Gt.), valamint a számvitelről szóló törvény előírásait kell alkalmazni az e §-ban, továbbá a 28/B–28/C. §-ban foglalt eltérésekkel azzal, hogy Gt. vonatkozó szabályai tekintetében a jogelőd gazdasági társaságon a jogelőd kölcsönös biztosító egyesületet kell érteni.
+
+(2) A kölcsönös biztosító egyesület átalakulásával létrejövő részvénytársaság csak zártkörűen alapítható.
+
+(3) A részvénytársasággá történő átalakulással megszűnő kölcsönös biztosító egyesület azon tagjai, akik – az átalakulást előkészítő, első ülést megelőző harmincadik napig – úgy nyilatkoznak, hogy nem kívánnak a létrejövő részvénytársaság tagjaivá válni, tagsági jogviszonyuk az egyesület megszűnésével egyidejűleg megszűnik, őket a saját tőke felosztásakor figyelembe venni nem kell. Az egyesületi tagsági jogviszonyuk megszűnése a biztosítási szerződéses jogviszonyukat nem érinti.
+
+(4) Nem alkalmazhatók a Gt. 70. § (3)–(6) bekezdésében, a 71. § (2)–(3) és (5) bekezdéseiben foglalt rendelkezések.
+
+28/B. § (1) Az igazgatótanács köteles a legfőbb szerv előkészítő ülése elé olyan indítványt terjeszteni, amely
+
+- a) tájékoztatást ad az átalakulással elérni kívánt gazdasági célról, az ahhoz szükséges eszközökről, az egyesületi tagok és a munkavállalók jövőbeni helyzetéről;
+- b) ismerteti az indítványozók és az igazgatótanács álláspontját.
+
+(2) Az igazgatótanács köteles a legfőbb szerv átalakulást előkészítő ülését megelőzően az alapszabályban meghatározott módon, de legalább a kölcsönös biztosító egyesület honlapján és két országos napilapban közzétett hirdetmény útján a (2) bekezdés a) és b) pontjában foglaltakról a tagokat tájékoztatni. Az alapszabály előírhatja, hogy azokat a tagokat, akik ezt kívánják, a nyomtatott sajtóban és honlapon történt közlés mellett elektronikus úton is tájékoztatni kell. A hirdetmény és a tag részére elektronikus úton küldött tájékoztatás közötti eltérés esetén a hirdetményben foglaltak az irányadók. Az igazgatótanács a tájékoztatási kötelezettségének úgy tesz eleget, hogy a kölcsönös biztosító egyesület tagjainak legalább tizenöt nap álljon rendelkezésére a 28/A. § (3) bekezdésében meghatározott nyilatkozat megtételére.
+
+(3) Az előkészítő ülésen hozott, átalakulásról szóló első döntésnek tartalmaznia kell:
+
+- a) az átalakulás szándékát,
+- b) az átalakulást kezdeményező kölcsönös biztosító egyesület és a létrejövő részvénytársaság nevét, székhelyét,
+- c) a létrejövő részvénytársaságban résztvevő egyesületi tagok adatait,
+- d) az átalakuló kölcsönös biztosító egyesület és a létrejövő részvénytársaság vagyonmérleg-tervezetének fordulónapját,
+- e) az átalakulás könyvvizsgálójának adatait.
+
+(4) Az átalakulásról szóló második döntésnek tartalmaznia kell:
+
+- a) az átalakuló kölcsönös biztosító egyesület és a létrejövő részvénytársaság vagyonmérleg-tervezetét,
+- b) a létrejövő részvénytársaság alapszabályának tervezetét,
+- c) az átalakulás időpontját,
+- d) a létrejövő részvénytársaság vezető tisztségviselőinek, a felügyelőbizottság tagjainak nevét és lakóhelyét,
+- e) a megszűnő kölcsönös biztosító egyesület vagyonmérleg-tervezete alapján a részvénytársaság egyes tagjainak vagyoni részesedésére jutó saját tőke értékét, és az annak megfelelő részvény névértéket,
+- f) a részvények darabszámát, névértékét, az egyes részvényfajták ismertetését.
+
+(5) A jogutód szervezet (szervezetek) cégbejegyzésével egyidejűleg a jogelőd kölcsönös biztosító egyesületet törölni kell a nyilvántartásból a jogutód feltüntetésével.
+
+(6) Az átalakulással létrejövő szervezet(ek) cégbejegyzését követő harmadik hónap utolsó napjáig mind a jogelődre, mind a jogutódra vonatkozóan a cégbejegyzés napjával végleges vagyonmérleget kell készíteni. E vagyonmérleg és az átalakulási vagyonmérleg-tervezet szerint megállapított saját tőke közötti pozitív különbözetet a jegyzett tőkén felüli vagyonként kell figyelembe venni, negatív különbözet esetén pedig – ha arra a jegyzett tőkén felüli vagyon nem nyújt fedezetet, és a fedezetről a tagok a Gt.-ben meghatározottak szerint nem gondoskodtak – a jegyzett tőkét le kell szállítani.
+
+28/C. § (1) Az átalakulás során az egyesületi tagok vagyoni részesedésére jutó saját tőke értékének meghatározásakor a jogutód szervezet végleges vagyonmérlege szerinti adatokat kell figyelembe venni. Az érték meghatározásakor a biztosítási állományhoz kapcsolódó biztosítástechnikai tartalékok és azok fedezete nem vehetők figyelembe.
+
+(2) Az egyes egyesületi tagoknak a jogutód részvénytársaság saját tőkéből történő vagyoni részesedését a legfőbb szerv határozza meg.
+
+(3) A (2) bekezdés szerinti részesedés arányának meghatározása a tagsági viszonnyal rendelkező tagok között a következő formában történhet:
+
+- a) a kölcsönös biztosító egyesületi vagyonból minden tag egyenlő mértékben részesül, vagy
+- b) a kölcsönös biztosító egyesületi vagyonból minden tag egyenlő mértékben részesül, azon tag kivételével, aki az egyesület saját tőkéjéhez közvetlenül – a tagdíjon kívül – vagyoni hozzájárulást teljesített. Ez utóbbi tag részesedésének aránya az alapszabályban rögzített módon, a vagyoni hozzájárulással arányosan határozható meg.
+
+(4) A 228. § (2) bekezdésében meghatározott biztosító egyesület esetében, amennyiben az egyes tagok által a maradékjoggal rendelkező biztosításokra befizetett biztosítási díjak aránya az életbiztosítási ág biztosítástechnikai tartalékának hozamában, és ennek megfelelően közvetetten a tőkeszerkezetben is nyomon követhető, úgy ezen hozzájárulást az azon elért időarányos hozammal és az esetleges szolgáltatási kifizetésekkel együtt kell figyelembe venni.
+
+(5) Az egyesület legfelsőbb szerve a (3) bekezdés b) pontja és a (4) bekezdés alapján történő részesedésmeghatározási mód esetén nem határozhatja el az egyesületi tagok részesedése meghatározásának olyan formáját, amely a döntésben kisebbségben lévő tagok jogos érdekeinek lényeges sérelmével jár.
 
 ### A harmadik országbeli biztosítómagyarországi fióktelepe
 
@@ -668,7 +725,7 @@ A független biztosításközvetítő biztosítási szaktanácsot is adhat. A f�
 - c) a független biztosításközvetítői tevékenység végzéséhez, illetve a vezérügynök foglalkoztatásához,
 - d) a biztosítási tevékenység módosításához (92. §),
 - e) a biztosítási állomány átruházásához (93–95. §),
-- f) a biztosító átalakulásához, egyesüléséhez, szétválásához,
+- f) a biztosító átalakulásához (egyesülés, szétválás, részvénytársasággá történő átalakulás),
 - g) a biztosító biztosítástechnikai tartalékainak e törvényben meghatározott mértéket meghaladó befektetéséhez, illetve az eszközkategóriáktól való eltéréshez,
 - h) a belföldi biztosító által harmadik országban működő biztosító, független biztosításközvetítő alapításához, vagy harmadik országban székhellyel rendelkező biztosítóban, független biztosításközvetítői tevékenységet folytató gazdasági társaságban részesedés megszerzéséhez, harmadik országban fióktelep létesítéséhez,
 - i) a belföldi független biztosításközvetítő által harmadik országban működő független biztosításközvetítői tevékenységet folytató gazdasági társaság alapításához, továbbá abban, vagy biztosítóban minősített befolyás szerzéséhez, illetve harmadik országban fióktelep létesítéséhez,
@@ -684,11 +741,20 @@ A független biztosításközvetítő biztosítási szaktanácsot is adhat. A f�
 
 (3) A Felügyelet az engedélyezés tárgyában e törvény rendelkezései, a biztosításra vonatkozó egyéb jogszabályok alapján, továbbá az ügyfelek érdekeire és a biztosító kötelezettségei teljesítésére tekintettel dönt.
 
-(4) Az (1) bekezdés f) pontja szerinti esetekben a Felügyelet mindazon feltételek meglétét vizsgálja, amelyeket a tevékenység megkezdésének engedélyezése során.
+(4) Az (1) bekezdés f) pontja szerinti esetekben a biztosító átalakulásának lebonyolítását bemutató átalakulási tervet kell készíteni, amelyet a Felügyelet részére be kell nyújtani. Az átalakulási tervnek – a tevékenység megkezdésének engedélyezése során vizsgált feltételeken, illetve a Gt. átalakulásra vonatkozó szabályainál meghatározottakon túl – tartalmaznia kell:
 
-(5) Az (1) bekezdés h) és i) pontjai, valamint – ha a biztosítási állományt harmadik országban, illetve tagállamban bejegyzett biztosítótól veszik át – e) pontjának tárgyában kiadott felügyeleti engedély nem mentesíti a kérelmezőt a kockázatviselés helye szerinti ország előírásai által megkívánt egyéb engedélyek megszerzésének kötelezettsége alól.
+- a) az átalakulás tervezett időpontját,
+- b) a jogutód biztosítóhoz (biztosítókhoz) kerülő biztosítási állomány pontos meghatározását és annak szerződési feltételeit,
+- c) a jogutód biztosítóhoz (biztosítókhoz) kerülő állományhoz kapcsolódó biztosítástechnikai tartalékok és azok fedezetének megjelölését,
+- d) annak bemutatását, hogy a jogutód biztosító rendelkezik a saját állományához tartozó minimális szavatoló tőkén túl az átvett állományhoz szükséges minimális szavatoló tőkével,
+- e) kölcsönös biztosító egyesület részvénytársasággá történő átalakulása esetén az egyes egyesületi tagoknak a részvénytársaság saját tőkéből történő vagyoni részesedését és annak meghatározásának elveit.
 
-(6)
+(5) A biztosító átalakulásának engedélyezése iránti kérelmet a Felügyelet elutasítja, ha
+
+- a) a (4) bekezdésben meghatározott feltételek nem teljesülnek,
+- b) egyébként valószínűsíthető, hogy az átalakulás következtében a biztosítottak – kölcsönös biztosító egyesület részvénytársasággá történő átalakulása esetén a tagok – érdeke sérülne.
+
+(6) Az (1) bekezdés h) és i) pontjai, valamint – ha a biztosítási állományt harmadik országban, illetve tagállamban bejegyzett biztosítótól veszik át – e) pontjának tárgyában kiadott felügyeleti engedély nem mentesíti a kérelmezőt a kockázatviselés helye szerinti ország előírásai által megkívánt egyéb engedélyek megszerzésének kötelezettsége alól.
 
 ### Biztosító alapításának engedélyezése
 
@@ -1643,7 +1709,7 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 (2) A szavatoló tőke a következő tőkeelemekből áll:
 
 - a) a befizetett jegyzett tőke, illetve biztosító egyesület vagy szövetkezet esetén a tényleges alaptőke, ha a következő feltételek fennállnak:
-  - aa) az egyesület, a szövetkezet alapszabályában rendelkezni kell arról, hogy a tulajdonosok, tagok részére a saját tőke terhére kizárólag olyan mértékben lehet kifizetést teljesíteni, amelynek következtében a szavatoló tőke összege nem csökken a minimális szavatoló tőke szintje alá; a biztosító megszűnése esetén akkor, ha a biztosító egyéb kötelezettségeit rendezte,
+  - aa) az egyesület, a szövetkezet alapszabályában rendelkezni kell arról, hogy a tulajdonosok, tagok részére a saját tőke terhére – a biztosítási szerződésből eredő kötelezettségeken kívül – kizárólag olyan mértékben lehet kifizetést teljesíteni, amelynek következtében a szavatoló tőke összege nem csökken a minimális szavatoló tőke szintjének kétszerese, vagy – amennyiben magasabb – a minimális biztonsági tőke kétszerese alá; a biztosító megszűnése esetén akkor, ha a biztosító egyéb kötelezettségeit rendezte,
   - ab) az egyesület vagy a szövetkezet alapszabályában rendelkezni kell arról, hogy minden tulajdonrész, tagi vagyonrész terhére történő, az egyesületi, a szövetkezeti tagsági viszony egyedi megszűnésétől eltérő okból bekövetkező kifizetésről a Felügyeletet legalább 1 hónappal a kifizetés előtt értesíteni kell, amely időtartamon belül a Felügyelet a kifizetést megtilthatja,
   - ac) az egyesület, a szövetkezet alapszabályában rendelkezik arról, hogy az aa)–ab) pontok szerinti előírásokat kizárólag a Felügyelet egyetértésével módosítják;
 - b) a tőketartalék;
@@ -1706,7 +1772,7 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 
 (4) A (2) bekezdésben meghatározott összeg helyett a minimális biztonsági tőke összege:
 
-- a) a (3) bekezdés szerinti egyesületnél – a b) pontban foglaltak kivételével – ha az egyesület éves díjbevételének és tagsági hozzájárulásának együttes összege az utolsó 3 üzleti évben:
+- a) a (3) bekezdés szerinti egyesületnél – a b) pontban foglaltak kivételével – ha az egyesület éves díjbevételének és tagdíjbevételének együttes összege az utolsó 3 üzleti évben:
   - aa) legalább egy alkalommal elérte az 1 milliárd 200 millió forintot, akkor a (2) bekezdésben meghatározott összeg 60 százaléka,
   - ab) egy alkalommal sem érte el az 1 milliárd 200 millió forintot, de legalább egy alkalommal elérte a 900 millió forintot, akkor a (2) bekezdésben meghatározott összeg 40 százaléka,
   - ac) egy alkalommal sem érte el a 900 millió forintot, de legalább egy alkalommal elérte a 600 millió forintot, akkor a (2) bekezdésben meghatározott összeg 20 százaléka,
@@ -2794,7 +2860,9 @@ tekintetében.
 
 (6) A felügyeleti biztos az általa megtett intézkedésekről a tulajdonosokat (tagokat) – írásbeli kérésükre – 3 napon belül írásban köteles tájékoztatni.
 
-(7)–(8)
+(7) Kölcsönös biztosító egyesület esetében, amennyiben az Etv. 11. § (3) bekezdésben foglalt körülmények valamelyike áll elő, a bíróság haladéktalanul értesíti a Felügyeletet.
+
+(8)
 
 200. §
 
@@ -2883,7 +2951,7 @@ tekintetében.
 - a) biztosító részvénytársaság és harmadik országbeli biztosító magyarországi fióktelepe esetén: negyven,
 - b) biztosító szövetkezet esetén: négy,
 - c) biztosító egyesület esetén: kettő,
-- d) a 126. § (4) bekezdésének b) pontja szerinti biztosító egyesület esetén, ha éves díjbevételének és tagsági hozzájárulásának együttes összege nem éri el a 126. § (4) bekezdésének bf) alpontjában meghatározott összeget: fél,
+- d) a 126. § (4) bekezdésének b) pontja szerinti biztosító egyesület esetén, ha éves díjbevételének és tagdíjbevételének együttes összege nem éri el a 126. § (4) bekezdésének bf) alpontjában meghatározott összeget: fél,
 - e) biztosítási szaktanácsadó, illetve külföldi biztosító, biztosításközvetítő, biztosítási szaktanácsadó magyarországi képviselete esetén: egy,
 - f) független biztosításközvetítő esetén legalább egy, de minden ötven – általa, továbbá a részéről megbízott gazdálkodó szervezet által alkalmazott, vagy megbízott – biztosításközvetítést végző természetes személy után: egy.
 
@@ -2967,19 +3035,21 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítottak érdekébe
 
 ### A csődeljárás, a felszámolási eljárásés végelszámolás közös szabályai
 
-217. § (1) A biztosító részvénytársaság és a biztosító szövetkezet elleni felszámolási eljárásra, továbbá a biztosító egyesület vagyonelszámolási eljárására (a továbbiakban együtt: felszámolás) az e fejezetben foglalt eltérésekkel a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) rendelkezéseit kell megfelelően alkalmazni azzal, hogy ahol a Cstv. gazdálkodó szervezetet, illetve gazdálkodó szervezet vezetőjét említ, azon a biztosító egyesületet, illetve a biztosító egyesület ügyvezetését is érteni kell.
+217. § (1) A biztosító részvénytársaság és a biztosító szövetkezet elleni felszámolási eljárásra – az e fejezetben foglalt eltérésekkel – a csődeljárásról és a felszámolási eljárásról szóló törvény (a továbbiakban: Cstv.) rendelkezéseit, a kölcsönös biztosító egyesület elleni felszámolási eljárásra – az e fejezetben foglalt eltérésekkel – az Etv. rendelkezéseit kell alkalmazni.
 
-(2) A biztosító részvénytársaság és a biztosító szövetkezet végelszámolási eljárására az e fejezetben foglalt eltérésekkel a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) rendelkezéseit kell alkalmazni.
+(2) A biztosító részvénytársaság és a biztosító szövetkezet végelszámolási eljárására – az e fejezetben foglalt eltérésekkel – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) rendelkezéseit, a kölcsönös biztosító egyesület elleni végelszámolási eljárásra – az e fejezetben foglalt eltérésekkel – az Etv. rendelkezéseit kell alkalmazni.
 
 (3) A fióktelep elleni felszámolási eljárásra a Cstv. I., III. és V. fejezeteiben és az Fkt.-ban foglaltakat kell az e fejezetben foglalt eltérésekkel alkalmazni.
 
-(4) A biztosító részvénytársaság, a fióktelep és a biztosító szövetkezet, továbbá a biztosító egyesület ellen csődeljárásnak helye nincs.
+(4) A biztosító részvénytársaság, a fióktelep és a biztosító szövetkezet, továbbá a kölcsönös biztosító egyesület ellen csődeljárásnak helye nincs.
 
 (5) Az Európai Unió másik tagállamában székhellyel rendelkező biztosító magyarországi fióktelepével szemben végelszámolásnak, illetve felszámolásnak nincs helye.
 
 (6) A Cstv. szerződések megtámadására vonatkozó szabályai nem alkalmazhatók abban az esetben, ha a szerződéssel jogot szerzett fél igazolja, hogy az adott szerződésre más tagállam joga az irányadó és ezen alkalmazandó jog szerint a szerződés megtámadhatósága kizárt.
 
 (7) Az Európai Unió tagállamaiban székhellyel rendelkező biztosítóval szemben lefolytatott csődeljárás, felszámolás és végelszámolás joghatásai tekintetében a biztosító székhelye szerinti jog az irányadó. Az ilyen eljárásokban hozott határozatokat minden további eljárás nélkül el kell ismerni.
+
+(8) A biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe, a biztosító szövetkezet és a – a 126. § (4) bekezdés b) pontjának eleget tevő kölcsönös biztosító egyesület kivételével – kölcsönös biztosító egyesület végelszámolásával és felszámolásával kapcsolatos eljárás lefolytatására a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik.
 
 218. § (1) A végelszámolási, illetve felszámolási eljárás ingatlanra vonatkozó szerződéssel kapcsolatos joghatásai tekintetében az ingatlan fekvési helyének joga az irányadó.
 
@@ -2991,19 +3061,13 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítottak érdekébe
 
 (3) A végelszámolásról vagy a felszámolásról és azok gyakorlati következményeiről a Felügyelet haladéktalanul tájékoztatja az Európai Unió tagállamainak felügyeleti hatóságait.
 
-(4) A végelszámolásról szóló döntés vagy a felszámolást elrendelő végzés Cégközlönyben történő közzétételét követően a Felügyelet soron kívül köteles annak tartalmát az Európai Közösségek Hivatalos Lapjában, valamint valamennyi tagállam legalább két országos napilapjában közzétenni a 220. § (7) bekezdésében meghatározott nyomtatványon.
+(4) A végelszámolásról szóló döntés vagy a felszámolást elrendelő végzés Cégközlönyben, valamint a Civil Információs Portálon történő közzétételét követően a Felügyelet soron kívül köteles annak tartalmát az Európai Közösségek Hivatalos Lapjában közzétenni a 220. § (7) bekezdésében meghatározott nyomtatványon.
 
 (5) Minden olyan hitelező esetében, akinek (amelynek) állandó lakóhelye, székhelye, telephelye az Európai Unió másik tagállamában található, a (4) bekezdés szerinti közzétételhez fűződnek a Cstv. 28. §-a szerinti közzétételhez kapcsolódó joghatások.
 
-219/A. § (1) Biztosító egyesület felszámolása esetén a biztosító egyesület az elnevezésében a „felszámolás alatt” – illetve „f. a.” – toldat használatára köteles.
+219/A. §
 
-(2) Biztosító egyesület felszámolása esetén a külön jogszabályban meghatározott nyilvántartásba – az eljáró bíróság értesítése alapján – be kell jegyezni a felszámolási eljárás tényét, annak kezdő, illetve befejező időpontját, továbbá a 220. § (1) bekezdésében meghatározott felszámolóra vonatkozó adatokat (név, székhely).
-
-(3) Biztosító egyesület felszámolását elrendelő végzést – a közzététel tartalmára vonatkozó szabályok megfelelő alkalmazásával – a Cégközlönyben kell közzétenni.
-
-(4) Ha a felszámolási eljárás lefolytatását követően a biztosító egyesület megszűnik, az erről szóló végzés jogerőre emelkedésének napjával a biztosító egyesületet – a bíróság értesítése alapján – törölni kell a nyilvántartásból.
-
-220. § (1) Biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe és a biztosító szövetkezet felszámolójának vagy végelszámolójának, továbbá a biztosító egyesület e törvény szerinti felszámolójának kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
+220. § (1) Biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe, biztosító szövetkezet és a kölcsönös biztosító egyesület felszámolójának vagy – a 126. § (4) bekezdés b) pontjának megfelelő kölcsönös biztosító egyesület végelszámolója kivételével – végelszámolójának, kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság rendelhető ki.
 
 (2) A felszámolót, végelszámolót a 153–165. §-okban előírt titoktartási kötelezettség terheli.
 
@@ -3026,7 +3090,7 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítottak érdekébe
 222. § (1) A felszámolás, illetve a végelszámolás kezdő időpontjában
 
 - a) a biztosítási szerződések a folyamatban lévő állományátruházás esetét kivéve megszűnnek;
-- b) a megszűnt biztosítási szerződések esetében az esedékes biztosítási díjak nem szedhetők be;
+- b) a megszűnt biztosítási szerződések esetében a megszűnés napjáig járó biztosítási díjak szedhetők be;
 - c) új biztosítási szerződés nem köthető és nem hosszabbítható meg, biztosítási állomány – saját elhatározásból – nem adható és nem vehető át.
 
 (2) A felszámolás, illetve a végelszámolás kezdő időpontját követő 15. napig a matematikai tartalékhoz tartozó és a befektetési egységekhez kötött életbiztosítások tartalékainak fedezetét képező eszközök listáját a felszámolás, illetve a végelszámolás kezdő időpontjának napjával le kell zárni és azt a felszámolónak, illetve a végelszámolónak át kell adni.
@@ -3037,20 +3101,28 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítottak érdekébe
 
 ### A felszámolás
 
-223. § A biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe, a biztosító szövetkezet és a biztosító egyesület elleni felszámolási eljárást – a miniszter egyidejű értesítése mellett – a Felügyelet megindítja, ha
+223. § (1) A biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe, a biztosító szövetkezet és a kölcsönös biztosító egyesület elleni felszámolási eljárás megindítását kizárólag a Felügyelet kezdeményezheti.
 
-- a) a felügyeleti intézkedés ellenére az esedékes és nem vitatott fizetési kötelezettségeinek pénzügyi fedezet hiánya miatt 5 munkanapon belül nem tesz eleget, vagy a szanálási tervét a Felügyelet által meghatározott időn belül nem tudja végrehajtani, vagy
+(2) A Felügyelet felszámolási eljárást abban az esetben kezdeményez, ha
+
+- a) a felügyeleti intézkedés ellenére az esedékes és nem vitatott fizetési kötelezettségeinek pénzügyi fedezet hiánya miatt 15 munkanapon belül nem tesz eleget, vagy a szanálási tervét a Felügyelet által meghatározott időn belül nem tudja végrehajtani, vagy
 - b) a biztosító részvénytársaság, a harmadik országbeli biztosító fióktelepe, a biztosító szövetkezet és a biztosító egyesület tartozásai saját tőkéjét tartósan meghaladják (túladósodás).
+
+(3) A kölcsönös biztosító egyesület felszámolása esetén az Etv. 10. § (3), (5) és (6) bekezdése nem alkalmazható.
+
+(4) A bíróság a felszámolás iránti kérelemről a benyújtástól számított nyolc napon belül határoz. A bíróság a felszámolást a Felügyelet által kezdeményezett felszámolási eljárásban a biztosító fizetésképtelenség megállapítása nélkül köteles elrendelni. A felszámolást elrendelő végzés fellebbezésre tekintet nélkül végrehajtható.
 
 224. § (1) A biztosító biztosítási szerződésből származó kötelezettségeit a Cstv. 57. § (1) bekezdésének a) és b) pontjában meghatározott követelések kielégítése után a c)–g) pontokban meghatározott követelések kielégítése előtt kell kielégíteni. Ez nem érinti a 222. § (3) bekezdésében foglaltakat.
 
 (2) A biztosító biztosítási szerződésből származó kötelezettségeit az alábbi sorrendben teljesíti:
 
-- a) az életbiztosítási és betegségbiztosítási szerződésből eredő kötelezettségek, továbbá a balesetbiztosítási szerződésből eredő, illetve a felelősségbiztosítási szerződésből eredő járadékfizetési kötelezettségek (a Kártalanítási Alapot megillető követelések kivételével),
-- b) a felszámolás kezdő időpontjáig bekövetkezett – és a Cstv.-ben meghatározott határidőn belül bejelentett – biztosítási események alapján elismert szolgáltatások,
-- c) a Kártalanítási Alapot az általa teljesített szolgáltatások alapján megillető követelések,
-- d) az előre fizetett biztosítási díjakból származó visszafizetési kötelezettségek,
-- e) az egyéb követelések.
+- a) betegségbiztosítási szerződésből eredő kötelezettségek, továbbá a balesetbiztosítási szerződésből eredő, a felelősségbiztosítási szerződésből eredő járadékfizetési kötelezettségek (a Kártalanítási Alapot, Kártalanítási Számlát megillető követelések kivételével),
+- b) az életbiztosítási szerződésből eredő kötelezettségek,
+- c) felelősségbiztosítási szerződésből eredő, a felszámolás kezdő időpontjáig bekövetkezett – és a Cstv.–ben meghatározott határidőn belül bejelentett – biztosítási események alapján elismert szolgáltatások (a Kártalanítási Alapot, Kártalanítási Számlát megillető követelések kivételével),
+- d) a felszámolás kezdő időpontjáig bekövetkezett – és a Cstv.-ben meghatározott határidőn belül bejelentett – biztosítási események alapján elismert szolgáltatások,
+- e) a Kártalanítási Alapot, Kártalanítási Számlát az általa teljesített szolgáltatások alapján megillető követelések,
+- f) az előre fizetett biztosítási díjakból származó visszafizetési kötelezettségek,
+- g) az egyéb követelések.
 
 (3) Biztosító felszámolása esetén az eljárás felfüggesztésének nincs helye.
 

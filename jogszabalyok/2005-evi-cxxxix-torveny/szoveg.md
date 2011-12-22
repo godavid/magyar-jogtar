@@ -2228,7 +2228,7 @@ támogatás. A központi költségvetésből biztosított normatív költségvet
 - o) tehetséggondozó tevékenységhez,
 - p) a Magyar Köztársaság területén kívül képzés indítása során, a képzés helye szerinti állam jogrendje szerinti engedélyezési, vagy más, a képzés indításának feltételéül meghatározott eljárás költségeihez,
 
-nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzájárulás elosztása pályázat útján történik. A pályázatot a felsőoktatási intézmény vezetője vagy a diákotthon fenntartója nyújthatja be. A k)–l) és o) pont alatt meghatározott feladatokhoz kiírt pályázaton részt vehetnek a társadalmi szervezetek és az alapítványok, közalapítványok is.
+nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzájárulás elosztása pályázat útján történik. A pályázatot a felsőoktatási intézmény vezetője vagy a diákotthon fenntartója nyújthatja be. A k)–l) és o) pont alatt meghatározott feladatokhoz kiírt pályázaton részt vehetnek az egyesületek és az alapítványok, közalapítványok is.
 
 (2) A miniszter megállapodás alapján támogatást adhat különösen
 
@@ -2480,7 +2480,7 @@ határozhatja meg.
 
 (4) A közhasznú szervezetként működő felsőoktatási intézmény vállalkozási tevékenységet is folytathat.
 
-(5) A cél szerinti tevékenység és a vállalkozási tevékenység tekintetében a közhasznú szervezetként működő felsőoktatási intézményt megilletik mindazok a kedvezmények, amelyet a közhasznú szervezetekről szóló 1997. évi CLVI. törvény (a továbbiakban: a közhasznú szervezetekről szóló törvény) 6. §-a meghatároz.
+(5) A cél szerinti tevékenység és a vállalkozási tevékenység tekintetében a közhasznú szervezetként működő felsőoktatási intézményt megilletik mindazok a kedvezmények, amelyet az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény 36. § (2) bekezdés meghatároz.
 
 139/B. § (1) A felsőoktatási intézmény közhasznú szervezetté minősítése, illetve a közhasznú nyilvántartásból való törlés iránti kérelmet az intézmény fenntartója a regisztrációs központnál jogosult benyújtani.
 
@@ -2490,10 +2490,10 @@ határozhatja meg.
 
 (2) A közhasznú szervezetként működő felsőoktatási intézmény működése nyilvános, a szenátus ülései – ha törvény eltérően nem rendelkezik – nyilvánosak. A nyilvánosság az intézmény szabályzatában foglaltak szerint korlátozható, ha az a személyiségi jogokat, az intézmény vállalkozási (nem közhasznú) tevékenységével kapcsolatos üzleti titkokat, illetve a szellemi alkotásokhoz fűződő jogos érdekeket veszélyezteti vagy sérti.
 
-(3) A közhasznú szervezetekről szóló törvény rendelkezéseit a közhasznú szervezetként működő felsőoktatási intézményekre a következő eltérésekkel kell alkalmazni,
+(3) Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (továbbiakban Civil tv.) közhasznú szervezetekre vonatkozó rendelkezéseit a közhasznú szervezetként működő felsőoktatási intézményekre a következő eltérésekkel kell alkalmazni:
 
-- a) a közhasznú szervezetekről szóló törvény 7. § (2) bekezdésének a)–b) és d) pontjában, valamint 7. § (3) bekezdésének a)–d) pontjaiban foglalt rendelkezéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell rögzíteni, azzal, hogy a szenátus legalább évi két alkalommal tart ülést,
-- b) a közhasznú szervezetekről szóló törvény 7. § (2) bekezdésének c) pontja esetében a felügyelő szerv működésére, hatáskörére vonatkozó szabályokat a fenntartó határozza meg az intézmény alapító okiratában, ahol kötelező gondoskodnia a felügyelő szerv létrehozásáról is.
+- a) a Civil tv. 37. § (2) bekezdésének a)–b) és d) pontjában, valamint 37. § (3) bekezdésének a)–d) pontjaiban foglalt rendelkezéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell rögzíteni, azzal, hogy a szenátus legalább évi két alkalommal tart ülést,
+- b) a Civil tv. 37. § (2) bekezdésének c) pontja esetében a felügyelő szerv működésére, hatáskörére vonatkozó szabályokat a fenntartó határozza meg az intézmény alapító okiratában, ahol kötelező gondoskodnia a felügyelő szerv létrehozásáról is.
 
 (4) A közhasznú jogállás megszerzését követően a szervezeti és működési szabályzat valamennyi módosítását a rektor küldi meg a regisztrációs központnak. Az alapító okirat módosításai akkor lépnek hatályba, ha az abban foglaltakat a regisztrációs központ jogerős határozatával nyilvántartásba vette.
 

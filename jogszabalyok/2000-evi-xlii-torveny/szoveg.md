@@ -861,7 +861,7 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 (2) Az (1) bekezdés b) pontjában meghatározottakon túl saját használatú az a kikötő is, amely
 
 - a) államigazgatási szerv, a Magyar Honvédség, rendvédelmi szerv tulajdonában, illetve használatában van, továbbá
-- b) társadalmi szervezet tulajdonában, illetve használatában van, ha a kikötő csak tagsági jogviszony alapján vehető igénybe.
+- b) egyesület tulajdonában, illetve használatában van, ha a kikötő csak tagsági jogviszony alapján vehető igénybe.
 
 80. § (1) Azt a közforgalmú kikötőt, amelynek földterülete állami tulajdonban vagy az állam meghatározó többségével létrehozott vagyonkezelő társaság kezelésében van, és amely alapvető közlekedési infrastukturális ellátottsága lehetővé teszi átrakodási, elosztási központként a vízi, vasúti és a közúti személy-, illetőleg áruforgalom összekapcsolását, országos közforgalmú kikötővé lehet nyilvánítani.
 

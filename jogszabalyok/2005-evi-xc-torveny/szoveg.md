@@ -187,7 +187,7 @@ történő közzétételéről.
 - a) az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv és – ha törvény kivételt nem tesz – az e minőségében eljáró személy családi és utónevét, illetve neveit (a továbbiakban együtt: nevét), továbbá beosztását, ha az adott személy az eljárásban közfeladatának ellátásával összefüggésben vett részt;
 - b) a meghatalmazottként vagy védőként eljárt ügyvéd nevét;
 - c) az alperesként pervesztes természetes személy nevét, továbbá jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és székhelyét, amennyiben a határozatot olyan ügyben hozták, amelyben jogszabály alapján közérdekű igényérvényesítésnek helye van;
-- d) a társadalmi szervezet vagy alapítvány nevét, székhelyét és képviselőjének nevét;
+- d) az egyesület vagy alapítvány nevét, székhelyét és képviselőjének nevét;
 - e) a közérdekből nyilvános adatokat.
 
 (3) Amennyiben a nyilvánosságot a tárgyalás egészéről vagy egy részéről kizárták, és a nyilvánosság kizárását megalapozó, törvényben meghatározott érdek védelme másképpen nem biztosítható, a határozat egyes részeinek vagy a határozat egészének a gyűjteményben való megjelentetését mellőzni, illetve a közzétett határozat egyes részeit vagy a határozat egészét a gyűjteményből törölni kell.

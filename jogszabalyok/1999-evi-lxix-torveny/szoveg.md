@@ -1511,7 +1511,7 @@ Vhr.32. § Az önkormányzati szabálysértési hatóságok ügyintézését ér
 
 (5) Ha az eljárás alapján a szabálysértési hatóság indokoltnak tartja, a fiatalkorú védelembe vételét kezdeményezheti a fiatalkorú lakóhelye szerint illetékes települési önkormányzat jegyzőjénél.
 
-### A tulajdon elleni szabálysértésekre, valamint a feloszlatott társadalmi szervezet tevékenységében való részvétel szabálysértésére vonatkozó külön rendelkezések
+### A tulajdon elleni szabálysértésekre, valamint a feloszlatott egyesület tevékenységében való részvétel szabálysértésére vonatkozó külön rendelkezések
 
 128/A. § (1) A 152/B. §-ban, valamint a 157. § (1)–(3) bekezdésében meghatározott szabálysértés miatt a feljelentést a rendőrségnél kell megtenni; ha máshol tették meg, azt a rendőrséghez kell haladéktalanul továbbítani.
 
@@ -1843,14 +1843,14 @@ százötvenezer forintig terjedő pénzbírsággal sújtható.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
-### Feloszlatott társadalmi szervezet tevékenységében való részvétel
+### Feloszlatott egyesület tevékenységében való részvétel
 
-152/B. § (1) Aki a bíróság által társadalmi szervezet feloszlatásáról hozott döntésében jogellenesnek nyilvánított tevékenységet végez, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
+152/B. § (1) Aki a bíróság által egyesület feloszlatásáról hozott döntésében jogellenesnek nyilvánított tevékenységet végez, elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható.
 
 (2) Elzárással vagy százötvenezer forintig terjedő pénzbírsággal sújtható, aki
 
-- a) a bíróság által feloszlatott társadalmi szervezet működésében a feloszlatás után részt vesz,
-- b) nyilvános rendezvényen a bíróság által feloszlatott társadalmi szervezet egyenruháját vagy formaruháját viseli, továbbá aki nyilvános rendezvényen olyan egyenruhát vagy formaruhát visel, amelyről – annak jellegzetes tulajdonságai miatt – bíróság által feloszlatott társadalmi szervezet egyenruhája, formaruhája ismerhető fel.
+- a) a bíróság által feloszlatott egyesület működésében a feloszlatás után részt vesz,
+- b) nyilvános rendezvényen a bíróság által feloszlatott egyesület egyenruháját vagy formaruháját viseli, továbbá aki nyilvános rendezvényen olyan egyenruhát vagy formaruhát visel, amelyről – annak jellegzetes tulajdonságai miatt – bíróság által feloszlatott egyesület egyenruhája, formaruhája ismerhető fel.
 
 (3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a bíróság hatáskörébe tartozik.
 

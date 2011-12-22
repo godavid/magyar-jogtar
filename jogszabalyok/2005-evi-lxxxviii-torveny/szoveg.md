@@ -23,7 +23,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 
 - a) a személy a tevékenységet maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója javára végzi,
 - b) a tevékenység jogszabályi kötelezésen, jogerős bírósági határozaton, illetve hatósági kötelezésen alapul,
-- c) a felek úgy állapodnak meg, hogy azt más jogviszony keretében végzik, így különösen polgári jogi jogviszonyban, társadalmi szervezet, illetve egyház tagjaként, alapítvány, közalapítvány kezelő szervének tagjaként vagy egyházi személyként.
+- c) a felek úgy állapodnak meg, hogy azt más jogviszony keretében végzik, így különösen polgári jogi jogviszonyban, egyesület, illetve egyház tagjaként, alapítvány, közalapítvány kezelő szervének tagjaként vagy egyházi személyként.
 
 (2) Ellenszolgáltatásnak minősül minden olyan vagyoni előny, amelyhez az önkéntes vagy közeli hozzátartozója a közérdekű önkéntes tevékenységhez kapcsolódóan jut.
 
@@ -48,7 +48,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 - a) a helyi önkormányzat, a helyi önkormányzatok társulása és a települési önkormányzatok többcélú kistérségi társulása az általa biztosított közszolgáltatások és katasztrófavédelmi feladatai körében;
 - b) a kisebbségi önkormányzat a jogszabályban meghatározott közfeladatai körében;
 - c) a költségvetési szerv az alaptevékenysége körében;
-- d) a magyarországi székhelyű közhasznú, kiemelkedően közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
+- d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
 - e) a magyarországi székhelyű egyházi jogi személy a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
 - f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybevevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
   - fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, illetve intézmény,
@@ -191,14 +191,14 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 (3) A bejelentéshez mellékelni kell
 
 - a) helyi önkormányzatok társulása esetén a társulási megállapodás másolatát;
-- b) közhasznú, kiemelkedően közhasznú szervezet esetében
+- b) civil szervezet, közhasznú szervezet esetében
   - ba) a hatályos létesítő okirat másolatát és
   - bb) a szervezet nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását a szervezet adatairól (hatályos kivonat, cégkivonat);
 - c) egyházi jogi személy esetén a nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását az egyházi jogi személy adatairól.
 
 (4) Fogadó intézmény, illetve annak fenntartója esetén a bejelentéshez mellékelni kell annak igazolását, hogy a fogadó intézmény jogszerűen működik, továbbá, ha a fogadó intézmény, illetve annak fenntartója
 
-- a) társadalmi szervezet, alapítvány, közalapítvány, egyházi jogi személy, gazdasági társaság vagy egyéni cég, a szervezet nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását a szervezet adatairól,
+- a) egyesület, alapítvány, közalapítvány, egyházi jogi személy, gazdasági társaság vagy egyéni cég, a szervezet nyilvántartásba vételére illetékes bíróság harminc napnál nem régebbi igazolását a szervezet adatairól,
 - b) egyéni vállalkozó, az egyéni vállalkozói tevékenység bejelentéséről az egyéni vállalkozóról szóló törvényben meghatározott igazolást.
 
 (5) Ha a fogadó szervezet egyházi jogi személy – annak alapszabályában jogi személynek nyilvánított, bírósági nyilvántartásba nem vett – szervezeti egysége, a kérelemhez mellékelni kell az egyházi jogi személy képviselőjének erre vonatkozó nyilatkozatát.

@@ -533,7 +533,7 @@ kezelheti, továbbíthatja, ha az adattovábbítás törvényi feltételei az ad
 
 31. § Az állami célú légiközlekedés tekintetében a katonai légiforgalmi irányító és a légvédelmi irányító szakszolgálat ellátásához szükséges szakmai ismeretekre vonatkozó képzést a honvédelemért felelős miniszter által kijelölt intézetek végzik. A képzés feltételeiről a honvédelemért felelős miniszter gondoskodik.
 
-32. § A lajstromozásra nem kötelezett légijárművek vezetőinek képzését — a légiközlekedési hatóság engedélyével — gazdálkodó szervezet vagy társadalmi szervezet (repülő vagy ejtőernyős egyesület) végzi, amely a képzés feltételeiről és követelményeiről is gondoskodik.
+32. § A lajstromozásra nem kötelezett légijárművek vezetőinek képzését — a légiközlekedési hatóság engedélyével — gazdálkodó szervezet vagy repülő vagy ejtőernyős egyesület végzi, amely a képzés feltételeiről és követelményeiről is gondoskodik.
 
 ### A nyilvános repülőrendezvény
 
@@ -551,7 +551,7 @@ kezelheti, továbbíthatja, ha az adattovábbítás törvényi feltételei az ad
 
 vagy légiközlekedéssel összefüggő tevékenység
 
-35. § A vállalati célú légiközlekedés, valamint a társadalmi szervezet (pl. egyesület) keretében folytatott nem gazdasági célú, légiközlekedési vagy légiközlekedéssel összefüggő tevékenység folytatásához a légiközlekedési hatóság engedélye szükséges. A tevékenység engedélyezése során a 23. § (1) bekezdésének a), c) és d) pontjait, valamint a 29—34. §-okat kell alkalmazni.
+35. § A vállalati célú légiközlekedés, valamint az egyesület keretében folytatott nem gazdasági célú, légiközlekedési vagy légiközlekedéssel összefüggő tevékenység folytatásához a légiközlekedési hatóság engedélye szükséges. A tevékenység engedélyezése során a 23. § (1) bekezdésének a), c) és d) pontjait, valamint a 29—34. §-okat kell alkalmazni.
 
 36. § A 35. § alkalmazásának szempontjából a légiközlekedési hatóság engedélyében foglaltak alapján a légisport szövetség a tagegyesületei és a tagjai vonatkozásában betöltheti a jogosult jogkörét. Ennek szakmai feltételeit az engedélyben kell meghatározni.
 

@@ -282,7 +282,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányának és nemzetközi jogi 
 
 (2) Az (1) bekezdés szerinti szerződés teljesítéséről, a juttatott eszközök felhasználásáról a rendőrség és az önkormányzat képviselő-testülete egymást kölcsönösen tájékoztatja. A szerződésben vállalt kötelezettség teljesítésének elmaradása esetén az önkormányzat a felettes rendőri szervhez fordulhat.
 
-10. § (1) A rendőrkapitány, a megyék (főváros) tekintetében a rendőrfőkapitány és az illetékességi területen működő önkormányzatok, a közbiztonsággal összefüggő feladatok ellátásának társadalmi segítésére és ellenőrzésére — a közbiztonság fenntartásában érintett állami és társadalmi szervezetek bevonásával — bűnmegelőzési és közbiztonsági bizottságot hozhatnak létre. A bizottság elnökét, tagjait együttesen bízzák meg az önkormányzat képviselő-testülete megbízatásának időtartamára.
+10. § (1) A rendőrkapitány, a megyék (főváros) tekintetében a rendőrfőkapitány és az illetékességi területen működő önkormányzatok, a közbiztonsággal összefüggő feladatok ellátásának társadalmi segítésére és ellenőrzésére — a közbiztonság fenntartásában érintett állami és egyesületek bevonásával — bűnmegelőzési és közbiztonsági bizottságot hozhatnak létre. A bizottság elnökét, tagjait együttesen bízzák meg az önkormányzat képviselő-testülete megbízatásának időtartamára.
 
 (2) A bizottság maga állapítja meg működésének részletes eljárási szabályait. A működéséhez szükséges költségeket a rendőrség és az önkormányzatok külön megállapodásban rögzített arányban viselik.
 
@@ -1173,7 +1173,7 @@ kezeli.
 - l)
 - m) a személyszállítást végző légi fuvarozóknak a légi közlekedésről szóló törvény alapján kezelt adatokat tartalmazó adatbázisából,
 - n) az ügyészség büntetőeljárási szakterületének ügyviteli nyilvántartásából,
-- o) a bíróságok által vezetett nyilvántartásokból (cégnyilvántartás, társadalmi szervezetek és alapítványok nyilvántartása, gondnokoltak névjegyzéke),
+- o) a bíróságok által vezetett nyilvántartásokból (cégnyilvántartás, civil szervezetek és alapítványok nyilvántartása, gondnokoltak névjegyzéke),
 - p) a bírósági ügyviteli nyilvántartásból,
 - r) az ingatlan-nyilvántartásból,
 - s) az egyéni vállalkozói igazolvánnyal rendelkező vállalkozók nyilvántartásából,
@@ -1426,7 +1426,7 @@ részére.
 
 (2) Akinek az intézkedés jogát vagy jogos érdekét érintette, panasszal fordulhat az intézkedést foganatosító rendőri szervhez.
 
-(3) Az (1) és (2) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó társadalmi szervezet vagy alapítvány, kisebbségi önkormányzat, jogi oktatatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
+(3) Az (1) és (2) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó egyesület vagy alapítvány, kisebbségi önkormányzat, jogi oktatatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
 
 (4) Az (1)–(2) bekezdésben meghatározott eljárások tárgyi költségmentesek.
 

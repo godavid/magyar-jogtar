@@ -57,7 +57,7 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 
 ### IV. Fejezet — A gazdasági versenyt korlátozó megállapodás tilalma
 
-11. § (1) Tilos a vállalkozások közötti megállapodás és összehangolt magatartás, valamint a vállalkozások társadalmi szervezetének, a köztestületnek, az egyesülésnek és más hasonló szervezetnek a döntése (a továbbiakban együtt: megállapodás), amely a gazdasági verseny megakadályozását, korlátozását vagy torzítását célozza, vagy ilyen hatást fejthet, illetve fejt ki. Nem minősül ilyennek a megállapodás, ha egymástól nem független vállalkozások között jön létre.
+11. § (1) Tilos a vállalkozások közötti megállapodás és összehangolt magatartás, valamint a vállalkozások egyesülési jog alapján létrejött szervezetének, köztestületének, egyesülésének és más hasonló szervezetének (a továbbiakban együtt: vállalkozások társulása) a döntése (a továbbiakban együtt: megállapodás), amely a gazdasági verseny megakadályozását, korlátozását vagy torzítását célozza, vagy ilyen hatást fejthet, illetve fejt ki. Nem minősül ilyennek a megállapodás, ha egymástól nem független vállalkozások között jön létre.
 
 (2) Ez a tilalom vonatkozik különösen:
 
@@ -901,7 +901,7 @@ ellenőrzése érdekében.
 
 (3)
 
-78. § (1) Az eljáró versenytanács bírságot szabhat ki azzal szemben, aki e törvény rendelkezéseit megsérti. A bírság összege legfeljebb a vállalkozás, illetve annak – a határozatban azonosított – vállalkozás-csoportnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételének tíz százaléka lehet, amelynek a bírsággal sújtott vállalkozás a tagja. A vállalkozások társadalmi szervezetével, a köztestülettel, az egyesüléssel és más hasonló szervezettel szemben kiszabott bírság összege legfeljebb a tag-vállalkozások előző üzleti évben elért nettó árbevételének tíz százaléka lehet.
+78. § (1) Az eljáró versenytanács bírságot szabhat ki azzal szemben, aki e törvény rendelkezéseit megsérti. A bírság összege legfeljebb a vállalkozás, illetve annak – a határozatban azonosított – vállalkozás-csoportnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételének tíz százaléka lehet, amelynek a bírsággal sújtott vállalkozás a tagja. A vállalkozások társulásával szemben kiszabott bírság összege legfeljebb a tag-vállalkozások előző üzleti évben elért nettó árbevételének tíz százaléka lehet.
 
 (2) Ha az (1) bekezdés szerinti vállalkozásoknak, illetve vállalkozás-csoportnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság maximumának meghatározásakor az utolsó hitelesen lezárt üzleti év árbevétele az irányadó.
 
@@ -911,7 +911,7 @@ ellenőrzése érdekében.
 
 (5) Ha a bírságot a vállalkozás-csoport jogsértést megvalósító tagja önként nem fizeti meg, és a végrehajtás sem vezet eredményre, az eljáró versenytanács külön végzéssel a vállalkozás-csoportnak a határozatban nevesített tagjait egyetemlegesen kötelezi a bírság, illetve annak be nem hajtott része megfizetésére.
 
-(6) Ha a vele szemben kiszabott bírságot a vállalkozások társadalmi szervezete, köztestülete, egyesülése vagy más hasonló szervezete önként nem fizeti meg, és a végrehajtás sem vezet eredményre, az eljáró versenytanács külön végzéssel a bírság megfizetésére a jogsértő döntés meghozatalában résztvevő, a határozatban ekként nevesített tag-vállalkozást egyetemlegesen kötelezi.
+(6) Ha a vele szemben kiszabott bírságot a vállalkozások társulása önként nem fizeti meg, és a végrehajtás sem vezet eredményre, az eljáró versenytanács külön végzéssel a bírság megfizetésére a jogsértő döntés meghozatalában résztvevő, a határozatban ekként nevesített tag-vállalkozást egyetemlegesen kötelezi.
 
 (7) Az (5) és (6) bekezdésben meghatározott végzés ellen a 82. § (3) bekezdése szerinti külön jogorvoslatnak van helye.
 

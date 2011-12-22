@@ -4,13 +4,13 @@ a Nemzeti Kulturális Alapról
 
 1. § A Nemzeti Kulturális Alap (a továbbiakban: Alap) az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) szerinti – a nemzeti és az egyetemes értékek létrehozásának, megőrzésének, valamint hazai és határon túli terjesztésének támogatása érdekében létrehozott – elkülönített állami pénzalap. Az Alap feletti rendelkezési jogot – ágazati stratégiai döntéseivel összhangban – a kultúráért felelős miniszter (a továbbiakban: miniszter) gyakorolja, és felel annak felhasználásáért.
 
-2. § (1) Az Alap céljainak megvalósítása érdekében a miniszter az elvi, irányító és koordináló döntések meghozatalára Nemzeti Kulturális Alap Bizottságot (a továbbiakban: Bizottság) létesít. A Bizottság tagjainak felét a miniszter saját hatáskörében, másik felét pedig az érintett szakmai, illetve társadalmi szervezetek javaslata alapján bízza meg. A Bizottság elnöke a miniszter vagy az általa megbízott személy.
+2. § (1) Az Alap céljainak megvalósítása érdekében a miniszter az elvi, irányító és koordináló döntések meghozatalára Nemzeti Kulturális Alap Bizottságot (a továbbiakban: Bizottság) létesít. A Bizottság tagjainak felét a miniszter saját hatáskörében, másik felét pedig az érintett szakmai, illetve egyesületek javaslata alapján bízza meg. A Bizottság elnöke a miniszter vagy az általa megbízott személy.
 
 (2) A Bizottság a miniszter által jóváhagyott éves munkaterv alapján látja el feladatát.
 
 (3) A miniszter az Alap forrásainak felhasználására állandó szakmai kollégiumokat hoz létre és kinevezi azok vezetőit. Az állandó szakmai kollégiumok hatáskörébe nem tartozó igények elbírálására a miniszter ideiglenes kollégiumot is létrehozhat.
 
-(4) A miniszter az állandó szakmai kollégiumok tagjainak felét saját hatáskörben kéri fel a szakmai, illetve társadalmi szervezetek véleményének meghallgatása után, másik felét pedig az érintett szakmai szervezetek delegálják. Az ideiglenes kollégium tagjainak kinevezésénél a miniszter – külön jogszabályban meghatározottak szerint – ezektől a feltételektől eltérhet.
+(4) A miniszter az állandó szakmai kollégiumok tagjainak felét saját hatáskörben kéri fel a szakmai, illetve egyesületek véleményének meghallgatása után, másik felét pedig az érintett szakmai szervezetek delegálják. Az ideiglenes kollégium tagjainak kinevezésénél a miniszter – külön jogszabályban meghatározottak szerint – ezektől a feltételektől eltérhet.
 
 (5) Az állandó szakmai és az ideiglenes kollégium (a továbbiakban együtt: kollégium) – a miniszteri keret kivételével – a Bizottság által meghatározott támogatási célok alapján, a Bizottság elnökének egyetértésével dönt a pályázatok kiírásáról. A Bizottság elnökének egyetértése hiányában a pályázat kiírásáról a Bizottság dönt.
 

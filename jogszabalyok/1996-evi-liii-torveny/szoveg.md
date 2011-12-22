@@ -773,7 +773,7 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 
 (3) Minden év május 10-e a Madarak és Fák Napja. E nap megemlékezéseinek, rendezvényeinek a lakosság – különösen az ifjúság – természet védelme iránti elkötelezettségét kell szolgálnia.
 
-65. § (1) A természeti területek és értékek jogellenes károsítása, veszélyeztetése esetén a természet védelme érdekében a természetvédelmi célú társadalmi szervezetek jogosultak fellépni, és
+65. § (1) A természeti területek és értékek jogellenes károsítása, veszélyeztetése esetén a természet védelme érdekében a természetvédelmi célú egyesületek jogosultak fellépni, és
 
 - a) állami szervektől, önkormányzatoktól a megfelelő és hatáskörükbe tartozó intézkedés megtételét kérni, vagy
 - b) a védett természeti érték, terület károsítója, veszélyeztetője ellen pert indítani.

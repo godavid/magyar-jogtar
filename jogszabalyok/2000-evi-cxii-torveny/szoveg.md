@@ -8,7 +8,7 @@ Az Országgyűlés – figyelemmel arra, hogy a Balaton Kiemelt Üdülőkörzet 
 
 ### A TÖRVÉNY CÉLJA ÉS HATÁLYA
 
-1. § A törvény célja a Balaton kiemelt üdülőkörzet területén az érintett önkormányzatok, szakmai, gazdasági és társadalmi szervezetek egyetértésével a területrendezés alapvető feladatainak és szabályainak megállapítása.
+1. § A törvény célja a Balaton kiemelt üdülőkörzet területén az érintett önkormányzatok, szakmai, gazdasági és egyesületek egyetértésével a területrendezés alapvető feladatainak és szabályainak megállapítása.
 
 2. § (1) A törvény hatálya a Balaton kiemelt üdülőkörzet területére terjed ki.
 

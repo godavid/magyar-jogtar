@@ -1640,7 +1640,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 85. § (1) A pénztárak érdekeik képviseletére és közös céljaik megvalósítására szövetséget hozhatnak létre.
 
-(2) A szövetség jogi személyként működő társadalmi szervezet.
+(2) A szövetség jogi személyként működő egyesület.
 
 (3) A szövetség a pénztárak működésére vonatkozóan szakmai ajánlásokat adhat ki.
 

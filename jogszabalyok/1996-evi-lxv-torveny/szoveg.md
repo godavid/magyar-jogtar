@@ -13,7 +13,7 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 sporttevékenységre használtak, és a sportszervezet rendeltetésszerű működtetéséhez szükséges;
 
-- b) sportszervezet: az a társadalmi szervezet, amelyet alapszabálya szerint sporttevékenység folytatására az egyesülési jogról szóló 1989. évi II. törvény, illetőleg az országos sportági szakszövetségekről szóló 1989. évi 9. törvényerejű rendelet alapján létesítettek.
+- b) sportszervezet: az az egyesület, amelyet alapszabálya szerint sporttevékenység folytatására az egyesülési jogról szóló törvény, illetőleg az országos sportági szakszövetségekről szóló 1989. évi 9. törvényerejű rendelet alapján létesítettek.
 
 (2) E törvény szempontjából a sportszervezetekre vonatkozó rendelkezéseket kell alkalmazni azokra a társadalmi szervezetekre, illetőleg az általuk létrehozott alapítványokra is, amelyek sportcélú ingatlant legalább az 1990. évi LXX. törvény hatálybalépése óta fenntartanak.
 

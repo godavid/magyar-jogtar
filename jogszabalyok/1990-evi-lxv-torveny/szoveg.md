@@ -153,7 +153,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 18. § (1) A képviselő-testület a működésének részletes szabályait a szervezeti és működési szabályzatról szóló rendeletében határozza meg.
 
-(2) A képviselő-testület meghatározza azoknak a fórumoknak a rendjét (község- várospolitikai fórum, városrész tanácskozás, falugyűlés stb.), amelyek a lakosság, a társadalmi szervezetek közvetlen tájékoztatását, a fontosabb döntések előkészítésébe való bevonását szolgálják. Ezek állásfoglalásáról és az ott felmerült kisebbségi véleményekről tájékoztatni kell a képviselő-testületet.
+(2) A képviselő-testület meghatározza azoknak a fórumoknak a rendjét (község- várospolitikai fórum, városrész tanácskozás, falugyűlés stb.), amelyek a lakosság, az egyesületek közvetlen tájékoztatását, a fontosabb döntések előkészítésébe való bevonását szolgálják. Ezek állásfoglalásáról és az ott felmerült kisebbségi véleményekről tájékoztatni kell a képviselő-testületet.
 
 (3) A képviselő-testület a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását. A képviselő-testület az új képviselő-testület alakuló üléséig, a polgármester az új polgármester megválasztásáig ellátja feladatát, gyakorolja hatáskörét. A képviselő-testület feloszlása nem mondható ki a választást követő hat hónapon belül, illetőleg az általános önkormányzati választásokat megelőző év október 1. napját követően. Az időközi választás költségét az önkormányzat viseli.
 
@@ -192,7 +192,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 24. § (1) A bizottság elnökét és tagjainak több, mint a felét a települési képviselők közül kell választani. A polgármester, az alpolgármester, a települési kisebbségi önkormányzat elnöke, a képviselő-testület hivatalának dolgozója nem lehet a bizottság elnöke vagy tagja.
 
-(2) A bizottságba indokolt beválasztani a települési kisebbségi önkormányzat tagját, a feladatköre szerinti területi szolgáltatást nyújtó jelentősebb szervezet képviselőjét, társadalmi szervezet küldöttjét, a szolgáltatást igénybe vevő más választópolgárt.
+(2) A bizottságba indokolt beválasztani a települési kisebbségi önkormányzat tagját, a feladatköre szerinti területi szolgáltatást nyújtó jelentősebb szervezet képviselőjét, egyesület küldöttjét, a szolgáltatást igénybe vevő más választópolgárt.
 
 25. § (1) A bizottságot a polgármester indítványára össze kell hívni.
 
@@ -433,7 +433,7 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 
 - a) a települési képviselők legalább egynegyede,
 - b) a képviselő-testület bizottsága,
-- c) a helyi társadalmi szervezet vezető testülete,
+- c) a helyi egyesület vezető testülete,
 - d) az önkormányzati rendeletében meghatározott számú választópolgár, ami nem lehet kevesebb a választópolgárok tíz százalékánál, és nem lehet több a választópolgárok huszonöt százalékánál.
 
 (2) A képviselő-testület köteles kitűzni a helyi népszavazást, ha azt az önkormányzati rendeletében meghatározott számú választópolgár kezdeményezte.

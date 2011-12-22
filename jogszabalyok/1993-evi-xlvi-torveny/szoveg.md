@@ -61,7 +61,7 @@ Stt.6. § (1) A KSH feladata:
 - f) az Országos Statisztikai Tanács bevonásával a statisztikai módszerek, fogalmak, osztályozások kialakítása, a számjelek meghatározása, készítése, nyilvánosságra hozatala, valamint használatuk kötelezővé tétele, statisztikai regiszter működtetése és ennek alapján névjegyzék készítése,
 - g) más információrendszerek, a nyilvános, a közhitelű és egyéb nyilvántartások, valamint a hatósági ellenőrzési, gazdasági vagy egyéb tevékenységgel járó adatgyűjtések fogalmi és osztályozási rendszerének kialakításában való közreműködés;
 - h) az Országgyűlés és a Kormány évenkénti tájékoztatása az ország társadalmi, gazdasági, népesedési adatairól;
-- i) statisztikai adatok szolgáltatása az államhatalom és a közigazgatás szervei, a társadalmi szervezetek, az érdekképviseletek, a helyi önkormányzatok, a köztestületek, a tudományos, a gazdasági szervezetek, a lakosság és a hírközlő szervek, valamint a nemzetközi szervezetek részére;
+- i) statisztikai adatok szolgáltatása az államhatalom és a közigazgatás szervei, az egyesületek, az érdekképviseletek, a helyi önkormányzatok, a köztestületek, a tudományos, a gazdasági szervezetek, a lakosság és a hírközlő szervek, valamint a nemzetközi szervezetek részére;
 - j) a Magyar Köztársaság Közigazgatási Helynévkönyvének vezetése, a Magyar Köztársaság Helységnévtárának kiadása;
 - k) részvétel nemzetközi szervezetek statisztikai munkájában, valamint kapcsolattartás külföldi nemzeti statisztikai hivatalokkal;
 - l) kötelespéldányra jogosult országos feladatkörű tudományos szakkönyvtár fenntartása, üzemeltetése;
@@ -303,7 +303,7 @@ Stt.17. § (1) A hivatalos statisztikai szolgálathoz tartozó szervek által v�
 
 Stt.18. § (1) Egyedi adat csak statisztikai célra használható, mással csak akkor közölhető, és abban az esetben adható át, valamint hozható nyilvánosságra, ha ehhez az adatszolgáltató előzetesen írásban hozzájárult. Ez a korlátozás nem vonatkozik az azonos szerven belül statisztikai tevékenységet végző személyek egymás közötti adatközlésére.
 
-(2) Közérdekű feladatot ellátó szerv, illetőleg társadalmi szervezet, valamint a költségvetési szerv ezen tevékenységére vonatkozó egyedi adat az adatszolgáltató írásbeli hozzájárulása nélkül is nyilvánosságra hozható.
+(2) Közérdekű feladatot ellátó szerv, illetőleg egyesület, valamint a költségvetési szerv ezen tevékenységére vonatkozó egyedi adat az adatszolgáltató írásbeli hozzájárulása nélkül is nyilvánosságra hozható.
 
 (3) Egyedi adat – az (1) bekezdésben foglaltakon túlmenően – csak statisztikai célból, statisztikai tevékenységgel foglalkozó nemzetközi szervezetnek, jogszabályban meghatározott nemzetközi kötelezettség teljesítése érdekében adható át az adatszolgáltató írásbeli hozzájárulása nélkül.
 

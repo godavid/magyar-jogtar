@@ -48,7 +48,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - 20. Tenyésztési hatóság: az állattenyésztési hatósági feladatok ellátásáért felelős szerv.
 - 21. Tenyésztési program: meghatározott gazdasági cél elérésére végzett tenyésztési tevékenységek sora és az ezek megvalósításához szükséges feltételrendszer (nyilvántartás, teljesítményvizsgálat, törzskönyvezés stb.).
 - 22. Tenyésztojás: olyan keltetésre alkalmas tojás, amelyet tenyészállat-előállítás céljára keltetnek és amelyből az utód továbbtenyésztésre kerülhet.
-- 23. Tenyésztő egyesület, illetve szövetség: a tenyésztők által létrehozott olyan társadalmi szervezet, amelyet a tenyésztési hatóság tenyésztő szervezetként elismer, és amely a tagjai által jóváhagyott és a tenyésztési hatóság által elismert tenyésztési programot hajt végre.
+- 23. Tenyésztő egyesület, illetve szövetség: a tenyésztők által létrehozott olyan egyesület, amelyet a tenyésztési hatóság tenyésztő szervezetként elismer, és amely a tagjai által jóváhagyott és a tenyésztési hatóság által elismert tenyésztési programot hajt végre.
 - 24. Tenyésztő szervezet: elismert tenyésztő egyesület, tenyésztő szövetség és tenyésztő vállalkozás.
 - 25. Tenyésztő vállalkozás: egy vagy több természetes, illetve jogi személy által létrehozott, gazdasági tevékenységet végző szervezet, amely a fajtaelismerés keretében jogot kapott tenyészállat és szaporítóanyag előállítására, forgalmazására, illetve keresztezési program végrehajtására.
 - 26. Törzskönyv: elismert tenyésztő szervezet által vezetett — a tenyésztési hatóság által hitelesített — közokirat, amely a tenyésztési programjába befogadott fajtatiszta tenyészállatok tenyésztési adatainak nyilvántartására és igazolására szolgál.

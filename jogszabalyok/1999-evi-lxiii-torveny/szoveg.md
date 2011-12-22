@@ -46,7 +46,7 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 5. § A felügyelő az intézkedés megkezdése előtt – ha az az intézkedés eredményességét veszélyezteti, az intézkedés befejezésekor – köteles felügyelői minőségét szóban közölni, magát hatósági szolgálati igazolvánnyal vagy egyedi azonosító számmal ellátott felügyelői jelvénnyel igazolni. A hatósági szolgálati igazolvány tartalmazza a felügyelő arcfényképét, nevét, a munkáltató szerv megnevezését és címét, továbbá a felügyelői jelvény sorszámát.
 
-6. § (1) A felügyelet a képviselő-testület által meghatározottak szerint együttműködik a rendőrséggel, a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos önkormányzati tűzoltósággal (a továbbiakban: rendvédelmi szervek), az egyéb állami ellenőrző és önkormányzati szervekkel, társadalmi szervezettel, így különösen a polgárőrség helyi szervezetével, valamint a feladatai ellátásához segítséget nyújtó egyéb szervezettel.
+6. § (1) A felügyelet a képviselő-testület által meghatározottak szerint együttműködik a rendőrséggel, a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos önkormányzati tűzoltósággal (a továbbiakban: rendvédelmi szervek), az egyéb állami ellenőrző és önkormányzati szervekkel, egyesülettel, így különösen a polgárőrség helyi szervezetével, valamint a feladatai ellátásához segítséget nyújtó egyéb szervezettel.
 
 (2) A rendvédelmi szervvel együtt eljáró felügyelő a rendvédelmi szerv segítője.
 

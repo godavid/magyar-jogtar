@@ -1011,7 +1011,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 ### A közös jogkezelés felügyelete
 
-93. § (1) A közös jogkezelési tevékenység felett – az egyesülési jogról szóló 1989. évi II. törvény 17. §-ával összhangban – gyakorolt felügyelet körében a Szellemi Tulajdon Nemzeti Hivatala évente, illetve szükség esetén ellenőrzi, hogy a nyilvántartásba vétel feltételei a jogkezelő szervezetnél folyamatosan megvalósulnak-e, továbbá, hogy az alapszabály, a felosztási szabályzat és más belső szabályzat rendelkezései nem ütköznek-e a szerzői jogi jogszabályokba.
+93. § (1) A közös jogkezelési tevékenység felett gyakorolt felügyelet körében a Szellemi Tulajdon Nemzeti Hivatala évente, illetve szükség esetén ellenőrzi, hogy a nyilvántartásba vétel feltételei a jogkezelő szervezetnél folyamatosan megvalósulnak-e, továbbá, hogy az alapszabály, a felosztási szabályzat és más belső szabályzat rendelkezései nem ütköznek-e a szerzői jogi jogszabályokba.
 
 (2) A közös jogkezelést végző – a 86–89. §-ok alapján nyilvántartásba vett – szervezet a felügyelet ellátásához megküldi a Szellemi Tulajdon Nemzeti Hivatalának
 

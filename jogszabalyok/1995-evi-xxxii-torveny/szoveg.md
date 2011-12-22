@@ -776,7 +776,7 @@ a szabadalmi ügyvivőkről
 
 (3)
 
-(4) Ha a szabadalmi ügyvivők társadalmi szervezete vagyonát ingyen ruházza át a Kamarára, a vagyont a Kamara adó- és illetékmentesen szerzi meg.
+(4) Ha a szabadalmi ügyvivők egyesülete vagyonát ingyen ruházza át a Kamarára, a vagyont a Kamara adó- és illetékmentesen szerzi meg.
 
 ### Felhatalmazások
 

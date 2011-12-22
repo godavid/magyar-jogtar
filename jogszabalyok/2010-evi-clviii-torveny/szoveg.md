@@ -1169,7 +1169,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (8) A keresetindítási jog az (1) és a (2)–(7) bekezdésben meghatározottak szerint megilleti
 
-- a) a fogyasztóvédelemről szóló törvényben meghatározott, fogyasztói érdekek képviseletét ellátó társadalmi szervezeteket, továbbá
+- a) a fogyasztóvédelemről szóló törvényben meghatározott, fogyasztói érdekek képviseletét ellátó egyesületeket, továbbá
 - b) azokat az Európai Gazdasági Térség bármely államának joga alapján létrejött feljogosított egységeket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesített igény az 5. § (1) bekezdésében felsorolt közösségi jogi rendelkezéseket átültető jogszabályi rendelkezések megsértésén alapul.
 
 ### VIII. Fejezet — FELHATALMAZÁSOK

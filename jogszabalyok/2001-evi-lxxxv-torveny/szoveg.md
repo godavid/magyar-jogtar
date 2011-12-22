@@ -279,7 +279,7 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 ### Az érintett támogatása
 
-35. § (1) A Szolgálat az érintett társadalmi beilleszkedésének elősegítése érdekében – ha arra más jogszabály szerint nem jogosult – az áldozatokat segítő társadalmi szervezetekkel együttműködve gondoskodik a védelem alatt álló mentális, szociális, gazdasági, humán támogatásáról, a jogi segítségnyújtás biztosításáról. A Szolgálat által nyújtott ellátások és támogatások biztosításának szabályait a Kormány rendeletben állapítja meg.
+35. § (1) A Szolgálat az érintett társadalmi beilleszkedésének elősegítése érdekében – ha arra más jogszabály szerint nem jogosult – az áldozatokat segítő egyesületekkel együttműködve gondoskodik a védelem alatt álló mentális, szociális, gazdasági, humán támogatásáról, a jogi segítségnyújtás biztosításáról. A Szolgálat által nyújtott ellátások és támogatások biztosításának szabályait a Kormány rendeletben állapítja meg.
 
 (2) Az érintett szociális és gazdasági támogatása a vagyoni gyarapodását nem szolgálhatja, az csak a létfenntartásához, társadalmi beilleszkedéséhez elengedhetetlenül szükséges mértékig terjedhet.
 
@@ -674,7 +674,7 @@ elérhetőség:
 
 az Önhöz fűződő kapcsolata (pl. rokon, barát, munkatárs stb.):
 
-– Van-e valamilyen társadalmi szervezetben, egyéb civil szervezetben tagsági viszonya, tisztsége stb.? Ha igen, hol és milyen kötelezettségekkel jár?
+– Van-e valamilyen civil szervezetben tagsági viszonya, tisztsége stb.? Ha igen, hol és milyen kötelezettségekkel jár?
 
 érintett:
 
