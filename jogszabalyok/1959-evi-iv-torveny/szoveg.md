@@ -10,7 +10,7 @@ a Magyar Köztársaság Polgári Törvénykönyvéről
 
 ### A törvény célja
 
-Ptk.1. § (1) Ez a törvény az állampolgárok, valamint az állami, önkormányzati, gazdasági és társadalmi szervezetek, továbbá más személyek vagyoni és egyes személyi viszonyait szabályozza. Az e viszonyokat szabályozó más jogszabályokat — ha eltérően nem rendelkeznek — e törvénnyel összhangban, e törvény rendelkezéseire figyelemmel kell értelmezni.
+Ptk.1. § (1) Ez a törvény az állampolgárok, valamint az állami, önkormányzati, gazdasági és civil szervezetek, továbbá más személyek vagyoni és egyes személyi viszonyait szabályozza. Az e viszonyokat szabályozó más jogszabályokat — ha eltérően nem rendelkeznek — e törvénnyel összhangban, e törvény rendelkezéseire figyelemmel kell értelmezni.
 
 (2) A törvény rendelkezéseit a Magyar Köztársaság gazdasági és társadalmi rendjével összhangban kell értelmezni.
 
@@ -262,7 +262,7 @@ Ptk.19/A. § (1) Gondnokká – ha ez az érdekeivel nem ellentétes – a gondn
 
 (2) A gondnok kirendelésénél az arra alkalmas személyek közül a szülőket, illetve a szülők által – a haláluk esetére – közokiratban vagy végrendeletben megnevezett személyt, ilyenek hiányában más hozzátartozókat – akik szükség esetén a személyes gondoskodást is el tudják látni – előnyben kell részesíteni.
 
-(3) Ha a gondnok az (1)–(2) bekezdésben foglaltak szerint nem rendelhető ki, a gondnokolt számára hivatásos gondnokot kell kirendelni. Hivatásos gondnok csak büntetlen előéletű személy lehet. Hivatásos gondnokul a fogyatékosokkal, szenvedélybetegekkel vagy pszichiátriai betegekkel foglalkozó társadalmi szervezet (pl. egyesület) által a tagjai közül ajánlott személy is kirendelhető.
+(3) Ha a gondnok az (1)–(2) bekezdésben foglaltak szerint nem rendelhető ki, a gondnokolt számára hivatásos gondnokot kell kirendelni. Hivatásos gondnok csak büntetlen előéletű személy lehet. Hivatásos gondnokul a fogyatékosokkal, szenvedélybetegekkel vagy pszichiátriai betegekkel foglalkozó egyesület által a tagjai közül ajánlott személy is kirendelhető.
 
 (4) Nem lehet gondnokul kirendelni azt, akinek a személye ellen a gondnokság alá helyezett kifejezetten tiltakozik.
 
@@ -506,22 +506,85 @@ Ptk.57–60. §
 
 #### 8. Az egyesület és a köztestület
 
-Ptk.61. § Az egyesület olyan önkéntesen létrehozott, önkormányzattal rendelkező szervezet, amely az alapszabályában meghatározott célra alakul, nyilvántartott tagsággal rendelkezik, és céljának elérésére szervezi tagjai tevékenységét. Az egyesület jogi személy.
+Ptk.61. § (1) Az egyesület olyan Magyarországon önkéntesen létrehozott, önkormányzattal rendelkező szervezet, amely az alapszabályában meghatározott célra alakul, nyilvántartott tagsággal rendelkezik, és céljának elérésére szervezi tagjai tevékenységét. Az egyesület jogi személy.
 
-Ptk.62. § (1) Az egyesület alapszabályában rendelkezni kell az egyesület nevéről, céljáról és székhelyéről, valamint szervezetéről.
+(2) Egyesület elsődlegesen gazdasági-vállalkozási tevékenység folytatása céljából nem hozható létre, ilyen tevékenységet csak a célja megvalósításának előmozdítása érdekében, kiegészítő jelleggel végezhet.
 
-(2) Az egyesület a bírósági nyilvántartásba vételével jön létre.
+(3) Az egyesület alapításához az szükséges, hogy legalább 10 alapító tag az egyesület megalakítását kimondja, az egyesület alapszabályát elfogadja, ügyintéző és képviseleti szerveit megválassza és Magyarországon székhellyel rendelkezik.
 
-(3) Az egyesület a vagyonával önállóan gazdálkodik. Egyesület elsődlegesen gazdasági tevékenység folytatására nem alapítható.
+(4) Az egyesület megalapítását követően kérni kell annak nyilvántartásba vételét. Az egyesület nyilvántartásba vétele nem tagadható meg, ha az egyesület
 
-(4) Az egyesület tartozásaiért saját vagyonával felel. A tagok — a tagdíj megfizetésén túl — az egyesület tartozásaiért saját vagyonukkal nem felelnek.
+- a) alapszabályában foglalt célok és tevékenységek nem ellentétesek az Alaptörvénnyel, és
+- b) alapítói eleget tettek a törvényben előírt követelményeknek.
 
-Ptk.63. § Az egyesület megszűnik, ha
+(5) Az egyesület alapszabálya az egyesület valamely szervezeti egységét jogi személlyé nyilváníthatja, ha annak önálló ügyintéző és képviseleti szerve van, továbbá rendelkezik a működéséhez szükséges vagyonnal.
 
-- a) feloszlását vagy más egyesülettel való egyesülését a legfelsőbb szerve kimondja;
-- b) az arra jogosult szerv feloszlatja, illetőleg megszűnését megállapítja.
+(6) Az egyesület a nyilvántartásba vételével jön létre. Az alapszabály módosítása esetén az egyesület nyilvántartásba vételére irányadó szabályokat kell alkalmazni.
 
-Ptk.64. § Az egyesülési jog alapján létrehozott társadalmi szervezetekre e törvény alkalmazásakor az egyesületre vonatkozó szabályok az irányadók.
+Ptk.62. § (1) Az egyesület alapszabályában rendelkezni kell a szervezet nevéről, céljáról és székhelyéről, szervezetéről, a tagsági jogviszony keletkezésének és megszűnésének módjáról és feltételeiről.
+
+(2) Az egyesület alapszabálya az abban meghatározott célkitűzéseknek megfelelően biztosítja a szervezet működését, elősegíti a tagok jogainak és kötelességeinek érvényesülését.
+
+(3) Az egyesület tagja
+
+- a) részt vehet az egyesület tevékenységében és rendezvényein;
+- b) választhat és választható az egyesület szerveibe;
+- c) köteles eleget tenni az alapszabályban meghatározott kötelességeinek;
+- d) nem veszélyeztetheti az egyesület céljának megvalósítását.
+
+(4) Az egyesület alapszabálya különleges jogállású tagságról (pártoló tag, tiszteletbeli tag) is rendelkezhet. A pártoló tag az egyesület tevékenységében csak vagyoni hozzájárulással vesz részt, a tiszteletbeli tagot az egyesület tagjai választják meg e tagságra. A különleges jogállású tagok az egyesület szerveibe nem választhatnak és az egyesületi szervek döntéshozatalában csak tanácskozási joggal vehetnek részt. Költségvetési szerv egyesület pártoló tagja nem lehet.
+
+(5) Az egyesület ügyintéző és képviseleti szervének tagja az lehet,
+
+- a) aki legalább korlátozottan cselekvőképes, kivéve, ha a cselekvőképességét a bíróság a képviseleti joggal érintett ügycsoportban korlátozta, és
+- b) a közügyek gyakorlásától nincs eltiltva, és
+- c) aki
+  - ca) magyar állampolgár, vagy
+  - cb) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgás és tartózkodás jogával rendelkezik, vagy
+  - cc) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és bevándorolt vagy letelepedett jogállású, illetve tartózkodási engedéllyel rendelkezik.
+
+(6) Az egyesület szervei által hozott jog- vagy alapszabálysértő határozat megsemmisítése iránt bármely tag – a határozat tudomására jutásáról számított harminc napos jogvesztő határidőben – pert indíthat. A perindítás a határozat végrehajtását nem gátolja, a bíróság azonban indokolt esetben – a tag kérelmére – a határozat végrehajtását felfüggesztheti. A per a törvényszék hatáskörébe tartozik.
+
+(7) A vallási tevékenységet is végző egyesületek esetében a vallási tevékenységgel összefüggően meghozott határozatokra nézve a (6) bekezdés rendelkezéseit nem kell alkalmazni.
+
+(8) Az egyesület a vagyonával önállóan gazdálkodik, tartozásaiért saját vagyonával felel. A tagok – a tagdíj megfizetésén túl – az egyesület tartozásaiért saját vagyonukkal nem felelnek.
+
+Ptk.63. § (1) Az egyesület legfőbb szerve a tagok összessége (taggyűlés) vagy a tagok által – az alapszabályban meghatározottak szerint – közvetlenül vagy közvetett úton legfőbb szervként választott testület.
+
+(2) Az egyesület legfőbb szervét szükség szerint, de legalább évenként egyszer össze kell hívni. A legfőbb szervet össze kell hívni akkor is, ha azt a bíróság elrendeli, illetve ha azt a tagok legalább egytizede vagy az alapszabályban ettől eltérően meghatározott hányada – az ok és a cél megjelölésével – kéri. A legfőbb szerv ülése személyes részvétellel elektronikus úton is lefolytatható, ha a legfőbb szerv tagjainak személyazonossága az igénybe vett elektronikus úton megfelelően igazolható, dokumentálható és ennek lehetőségét és módját a létesítő okirat rögzíti.
+
+(3) Az egyesület ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül vagy közvetett úton választott testület (elnökség) vagy személy.
+
+(4) Az egyesület legfőbb szervének hatáskörébe tartozik:
+
+- a) az alapszabály megállapítása és módosítása;
+- b) az éves költségvetés, illetve az előző évről szóló számviteli beszámoló elfogadása, ha törvény eltérően nem rendelkezik;
+- c) az ügyintéző és képviseleti szerv éves beszámolójának elfogadása;
+- d) az egyesület más egyesülettel való egyesülésének, szétválásának vagy feloszlásának kimondása;
+- e) az ügyintéző és képviseleti szerv tagjainak megválasztása és visszahívása,
+- f) döntés mindazokban az ügyekben, amelyeket az alapszabály a legfőbb szerv kizárólagos hatáskörébe utal.
+
+(5) Az egyesület éves költségvetésének megállapítását, a számviteli beszámoló elfogadását és az ügyintéző és képviseleti szerv éves beszámolójának megtárgyalását az alapszabály – a legfőbb szerv helyett – a szervezet más szervére bízhatja.
+
+(6) Az egyesület szervei határozatképesek, ha tagjainak több mint a fele jelen van, az alapszabály ennél magasabb jelenléti arányt is megállapíthat. Az egyesület szervei határozataikat a jelenlévők szótöbbségével hozzák mindazon kérdésben, amely tekintetében az alapszabály a szótöbbség magasabb arányát nem írja elő.
+
+(7) Ha az egyesület szerveinek ülése nem határozatképes, megismételt ülést kell tartani. A megismételt ülés legkorábban a határozatképtelen ülést követően, későbbi időpontra hívható össze. A megismételt ülés a legfőbb szerv esetében a megjelent tagok számától függetlenül, egyéb egyesületi szerv esetén pedig a (6) bekezdésben foglalt rendelkezés szerint határozatképes.
+
+Ptk.64. § (1) Az egyesület megszűnik, ha
+
+- a) a legfőbb szerv döntése alapján átalakul,
+- b) a legfőbb szerve a feloszlásáról határoz,
+- c) a bíróság feloszlatja,
+- d) a törvényességi ellenőrzési eljárás eredményeképpen a bíróság megszűnteti vagy megállapítja megszűnését,
+- e) a fizetésképtelensége miatt indult eljárásban a bíróság megszünteti, és az egyesületet a nyilvántartásból törlik.
+
+(2) Az (1) bekezdés b)–e) pontjaiban foglalt esetekben az egyesület jogutód nélkül szűnik meg. Az (1) bekezdés b) pontjában foglalt esetben végelszámolási eljárást, a c)–d) pontjában foglalt esetekben pedig kényszer-végelszámolást kell lefolytatni.
+
+(3) A legfőbb szerv nem dönthet az egyesület feloszlásáról, ha az egyesülettel szemben lefolytatott végrehajtás eredménytelen volt vagy az egyesület fizetésképtelenségét a bíróság megállapította.
+
+(4) Az egyesület alapszabálya vagy törvény eltérő rendelkezése hiányában a jogutód nélkül megszűnt egyesület – hitelezői igények kielégítése után – megmaradt vagyonát az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben meghatározott célra kell fordítani és az ott megjelölt módon kell nyilvánosságra hozni.
+
+(5) Az egyesület nyilvántartásból való törlésére az egyesület nyilvántartásba vételére vonatkozó szabályokat kell megfelelően alkalmazni.
 
 Ptk.65. § (1) A köztestület önkormányzattal és nyilvántartott tagsággal rendelkező szervezet, amelynek létrehozását törvény rendeli el. A köztestület a tagságához, illetőleg a tagsága által végzett tevékenységhez kapcsolódó közfeladatot lát el. A köztestület jogi személy.
 
@@ -648,9 +711,11 @@ Ptk.74/E. § (1) A bíróság az alapítványt a nyilvántartásból törli, ha 
 
 (4) A bíróság az alapítványt megszüntetheti, ha a kezelő szerv (szervezet) tevékenységével az alapítvány célját veszélyezteti és az alapító – a bíróság felhívása ellenére – a kijelölést nem vonja vissza és kezelőként más szervet (szervezetet) nem jelöl ki.
 
-(5) A megszűnt alapítvány vagyonát – az alapító okirat eltérő rendelkezése hiányában – a bíróság hasonló célú alapítvány támogatására köteles fordítani.
+(5) A megszűnt alapítvány vagyonát – az alapító okirat eltérő rendelkezése hiányában – a bíróság a Nemzeti Együttműködési Alap támogatására köteles fordítani.
 
 (6) A bíróság az érdekelt alapítók közös kérelmére — új alapítvány létrehozása vagy más alapítványhoz való csatlakozás céljából — elrendelheti az alapítványok egyesítését, ha ez az érintett alapítványok céljainak megvalósításával összhangban áll. Az alapítványok egyesítésére irányuló kérelemhez az új, illetőleg a megfelelően módosított – a megszűnt alapítvány jogutódlásáról is rendelkező – alapító okiratot is csatolni kell, egyebekben a bíróság eljárására az alapítvány nyilvántartásba vételére vonatkozó szabályokat kell alkalmazni.
+
+(7) Az alapítvány nyilvántartására, felügyeletére, törvényességi ellenőrzésére, továbbá csőd-, végelszámolási és felszámolási eljárására, megszüntetésére az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény rendelkezéseit kell alkalmazni az alapítványokra vonatkozó, ott meghatározott eltérésekkel.
 
 Ptk.74/F. § (1) Az alapítvány működése felett az ügyészség a reá irányadó szabályok szerint törvényességi felügyeletet gyakorol.
 
@@ -4256,6 +4321,12 @@ Ptk.578/H. § (1) Jogi személyiség nélküli gazdasági társaságok: a közke
 578/I. § (1) A társasház-tulajdon alapján a tulajdonostársaknak az épület fenntartására, felújítására alapító okirattal létrehozott szervezete gyakorolja a közös tulajdonnal kapcsolatos tulajdonosi jogokat, viseli a közös tulajdon terheit.
 
 (2) A társasházra vonatkozó részletes szabályokat külön törvény állapítja meg.
+
+#### 6. Civil társaság
+
+Ptk.578/J. § (1) Természetes személyek társaságot nem gazdasági érdekű közös céljaik előmozdítására és közösségi célú tevékenységük összehangolására vagyoni hozzájárulás nélkül is létrehozhatnak (civil társaság).
+
+(2) A civil társaságra a polgári jogi társaságra vonatkozó szabályokat azzal az eltéréssel kell alkalmazni, hogy a társaságot a társasági szerződésben ügyvitelre kijelölt tag kivételével bármely tag azonnali hatállyal indokolás nélkül felmondhatja, a tag halála, illetve felmondása esetén a társaság pedig csak akkor szűnik meg, ha ezáltal a tagok száma egy főre csökken.
 
 ### XLVII. Fejezet — Az ajándékozás
 
