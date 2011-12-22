@@ -515,7 +515,7 @@ megismerhetők.
 (2) Ha a cég tagja
 
 - a) belföldi cég, annak cégjegyzékszámát,
-- b) társadalmi szervezet vagy alapítvány, annak nyilvántartási számát,
+- b) egyesület vagy alapítvány, annak nyilvántartási számát,
 - c) külföldi cég vagy más szervezet, amennyiben ilyen adattal rendelkezik, nyilvántartási számát és a nyilvántartó hatóságot
 
 is fel kell tüntetni a cégjegyzékben.
@@ -1179,7 +1179,7 @@ megszüntetésére irányuló eljárás
 
 ### 2. CÍM — A végelszámolás elhatározása
 
-98. § (1) A cég legfőbb szerve – az erre irányadó jogszabályok szerint – határozatot hoz a cég jogutód nélküli megszűnéséről, illetve a végelszámolás elrendeléséről. A cég legfőbb szerve a határozatában megállapítja a végelszámolás kezdő időpontját és megválasztja a végelszámolót, illetve rendelkezik a cég vagyoni részesedésével működő jogalanyok, valamint a részvételével működő alapítvány vagy társadalmi szervezet sorsáról is.
+98. § (1) A cég legfőbb szerve – az erre irányadó jogszabályok szerint – határozatot hoz a cég jogutód nélküli megszűnéséről, illetve a végelszámolás elrendeléséről. A cég legfőbb szerve a határozatában megállapítja a végelszámolás kezdő időpontját és megválasztja a végelszámolót, illetve rendelkezik a cég vagyoni részesedésével működő jogalanyok, valamint a részvételével működő alapítvány vagy egyesület sorsáról is.
 
 (2) A végelszámolás kezdő időpontjában a cég vezető tisztségviselőjének megbízatása megszűnik. A végelszámolás kezdő időpontjától a cég önálló képviseleti joggal rendelkező vezető tisztségviselőjének a végelszámoló minősül.
 
@@ -1243,7 +1243,7 @@ megszüntetésére irányuló eljárás
 - d) a területileg illetékes állami munkaerő-piaci szervezetet,
 - e) az illetékes környezetvédelmi felügyelőséget arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, melyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások elhárításához, illetve terhek rendezéséhez szükséges kiadás származhat,
 - f) a cég pénzforgalmi számláit vezető valamennyi pénzforgalmi szolgáltatót,
-- g) a cég vagyoni részvételével működő jogalanyok vezető tisztségviselőit, illetve a cég részvételével működő társadalmi szervezeteket, alapítványokat,
+- g) a cég vagyoni részvételével működő jogalanyok vezető tisztségviselőit, illetve a cég részvételével működő egyesületeket, alapítványokat,
 - h) a cég által vagy ellen indított és folyamatban lévő hatósági és bírósági eljárásokban az eljáró hatóságot vagy bíróságot.
 
 ### 4. CÍM — A végelszámolás lefolytatása
@@ -1319,7 +1319,7 @@ megszüntetésére irányuló eljárás
 - b) a végelszámolás utolsó üzleti évéről készült számviteli törvény szerinti beszámolót, amelynek mérlegében – a (2) bekezdésben foglaltakra tekintettel – az eszközök, illetve az esetleges kötelezettségek piaci értéken szerepelnek, a piaci értéken történő értékelésnek az eredményre gyakorolt hatását az eredménykimutatás tartalmazza,
 - c) a vagyonfelosztási javaslatot, amelyben a végelszámoló díjának mértékére is indítványt tesz,
 - d) a végelszámolási időszak gazdasági eseményeinek bemutatásáról szóló összefoglaló értékelést (zárójelentést), valamint
-- e) a cég vagyoni részesedésével működő jogalanyok, illetve a részvételével működő társadalmi szervezetek, alapítványok sorsára vonatkozó javaslatot,
+- e) a cég vagyoni részesedésével működő jogalanyok, illetve a részvételével működő egyesületek, alapítványok sorsára vonatkozó javaslatot,
 - f)
 
 (2) A vagyonfelosztási javaslatban szereplő tételeket piaci értéken kell beállítani. A hitelezők kielégítése után fennmaradó vagyonnak a tagok (részvényesek) közötti természetbeni felosztására csak vagyonértékelés esetén van mód.
@@ -1775,7 +1775,7 @@ I. Ha a bejegyzési kérelem tartalmára tekintettel kötelező, valamennyi cég
 
 b) a cég idegen nyelvű elnevezésének hiteles fordítását tanúsító okirat;
 
-4. a) társadalmi szervezet tagról vezetett nyilvántartás adatait tartalmazó, három hónapnál nem régebbi kivonat,
+4. a) egyesület tagról vezetett nyilvántartás adatait tartalmazó, három hónapnál nem régebbi kivonat,
 
 b) önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
 
@@ -2027,7 +2027,7 @@ d) vezető tisztségviselői nyilatkozat a nem pénzbeli hozzájárulás rendelk
 
 9. ha a cég elnevezésében történelmi személyiség neve szerepel, vagy a cégnévhez másnak jogi érdeke fűződik, a Ctv. 4. §-ának (4) bekezdésében meghatározott személy vagy szervezet hozzájárulását tartalmazó okirat;
 
-10. társadalmi szervezet tagról vezetett nyilvántartás adatait tartalmazó három hónapnál nem régebbi kivonat;
+10. egyesület tagról vezetett nyilvántartás adatait tartalmazó három hónapnál nem régebbi kivonat;
 
 11. önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
 

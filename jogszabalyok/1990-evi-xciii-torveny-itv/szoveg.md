@@ -60,7 +60,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - a) a Magyar Állam,
 - b) a helyi önkormányzatok és azok társulásai,
 - c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., valamint a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság,
-- d) a társadalmi szervezet, a köztestület,
+- d) az egyesület, a köztestület,
 - e) az egyház, egyházak szövetsége, egyházi intézmény,
 - f) az alapítvány, ideértve a közalapítványt is,
 - g) a vízgazdálkodási társulat,
@@ -851,7 +851,7 @@ esetében.
 - b) a költségmentesség vagy az illetékfeljegyzési jog tárgyában hozott határozat elleni jogorvoslati eljárás;
 - c) a bontóperben a házasság vonatkozásában indított viszontkereset;
 - d) a holtnak nyilvánítással és a halál tényének megállapításával kapcsolatos eljárás, ha az eltűnés vagy a halál háborús esemény vagy természeti katasztrófa folytán következett be;
-- e) az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az európai területi együttműködési csoportosulás, továbbá a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény alapján létrehozott MRP szervezet nyilvántartásba vételére irányuló eljárás;
+- e) az alapítvány, a közalapítvány, az egyesület, a köztestület, az európai területi együttműködési csoportosulás, továbbá a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény alapján létrehozott MRP szervezet nyilvántartásba vételére irányuló eljárás;
 - f) a megszűnt cég törlése iránti kérelem, ideértve az egyszerűsített végelszámolásban – a végelszámoló személyének bejelentésével együtt – előterjesztett törlés iránti kérelmet;
 - g) a határozat kijavítása, illetve kiegészítése iránti kérelem;
 - h) a választói névjegyzékkel kapcsolatos eljárás;

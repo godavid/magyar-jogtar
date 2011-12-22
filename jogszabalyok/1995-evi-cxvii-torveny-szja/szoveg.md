@@ -2513,7 +2513,7 @@ a) baleseti járadék,
 
 b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltötte;
 
-1.3. az állami szociális rendszer keretében, illetőleg a helyi önkormányzat, továbbá az egyház és az egyházi karitatív szervezetek által nyújtott szociális segély, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott pénzbeli ellátások, a nevelési díj és a nevelőszülőt a nevelési díj mellett megillető külön ellátmány, valamint az utógondozói ellátás, a helyi önkormányzat által a szociális igazgatásról és szociális ellátásokról szóló törvény alapján nyújtott átmeneti segély, temetési segély, lakásfenntartási támogatás, adósságkezelési szolgáltatás, időskorúak járadéka, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, a vakok személyi járadéka, a rokkantsági járadék, a súlyosan mozgáskorlátozott magánszemély részére jogszabály alapján nyújtott közlekedési támogatás, a fogyatékossági támogatás, a hadigondozási pénzellátások, a nemzeti gondozásról szóló törvény alapján folyósított nemzeti gondozási díj, valamint a munkáltatótól, az érdekvédelmi szervezettől az elhunyt házastársa vagy egyeneságbeli rokona részére folyósított temetési segély, továbbá az önsegélyező feladatot is vállaló társadalmi szervezet, önsegélyező egyesület által nyújtott szociális segély azzal, hogy e rendelkezés alkalmazásában önsegélyező feladat ellátásának minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben felsorolt ellátásokat kiegészítő juttatások nyújtása;
+1.3. az állami szociális rendszer keretében, illetőleg a helyi önkormányzat, továbbá az egyház és az egyházi karitatív szervezetek által nyújtott szociális segély, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott pénzbeli ellátások, a nevelési díj és a nevelőszülőt a nevelési díj mellett megillető külön ellátmány, valamint az utógondozói ellátás, a helyi önkormányzat által a szociális igazgatásról és szociális ellátásokról szóló törvény alapján nyújtott átmeneti segély, temetési segély, lakásfenntartási támogatás, adósságkezelési szolgáltatás, időskorúak járadéka, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, a vakok személyi járadéka, a rokkantsági járadék, a súlyosan mozgáskorlátozott magánszemély részére jogszabály alapján nyújtott közlekedési támogatás, a fogyatékossági támogatás, a hadigondozási pénzellátások, a nemzeti gondozásról szóló törvény alapján folyósított nemzeti gondozási díj, valamint a munkáltatótól, az érdekvédelmi szervezettől az elhunyt házastársa vagy egyeneságbeli rokona részére folyósított temetési segély, továbbá az önsegélyező feladatot is vállaló egyesület, önsegélyező egyesület által nyújtott szociális segély azzal, hogy e rendelkezés alkalmazásában önsegélyező feladat ellátásának minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben felsorolt ellátásokat kiegészítő juttatások nyújtása;
 
 1.4. az intézeti vagy állami nevelésbe vett kiskorú családban való gondozásáért, neveléséért, valamint a gyógyintézet által ápolásra kihelyezett beteg gondozásáért a gyógyintézettől kapott díj, illetve térítés;
 
@@ -2561,7 +2561,7 @@ b) – amennyiben a munkavállaló a végtörlesztést a munkáltatói támogat�
 
 3. A közcélú juttatások körében adómentes:
 
-3.1. a közhasznú, kiemelkedően közhasznú alapítványból, közalapítványból annak alapszabályban rögzített közhasznú céljával összhangban a magánszemély részére kifizetett azon összeg, amelyet az oktatási intézményekben folytatott tanulmányokra, kutatásra, külföldi tanulmányútra (ösztöndíj címén) folyósítanak, a szociálisan rászoruló részére szociális segély címén folyósítanak, a diák- és szabadidősport résztvevőjének alkalmanként legfeljebb az 500 forintot meg nem haladóan folyósítanak;
+3.1. a közhasznú alapítványból, közalapítványból annak alapszabályban rögzített közhasznú céljával összhangban a magánszemély részére kifizetett azon összeg, amelyet az oktatási intézményekben folytatott tanulmányokra, kutatásra, külföldi tanulmányútra (ösztöndíj címén) folyósítanak, a szociálisan rászoruló részére szociális segély címén folyósítanak, a diák- és szabadidősport résztvevőjének alkalmanként legfeljebb az 500 forintot meg nem haladóan folyósítanak;
 
 3.2. az az összeg, amelyet
 
@@ -2573,17 +2573,17 @@ b) – amennyiben a munkavállaló a végtörlesztést a munkáltatói támogat�
 
 3.2.4. a Magyar Köztársaság nemzetközi szerződéses kötelezettségeiből eredően folyósított nemzetközi segélyből származó, erre vonatkozó nyilvántartással igazolt források terhére kap a magánszemély;
 
-3.2.5. vállalkozási tevékenységet nem folytató alapítványtól, közalapítványtól vagy egyéb társadalmi szervezettől – annak alapszabályában rögzített céljával összhangban – kap az 1989. október 23. napját megelőzően politikai okból üldözött személy;
+3.2.5. vállalkozási tevékenységet nem folytató alapítványtól, közalapítványtól vagy egyéb egyesülettől – annak alapszabályában rögzített céljával összhangban – kap az 1989. október 23. napját megelőzően politikai okból üldözött személy;
 
 3.2.6. oktatási intézményekben folytatott tanulmányokra, kutatásra, külföldi tanulmányútra ösztöndíj címén, vagy a szociálisan rászoruló részére szociális segély, valamint szociális ösztöndíj címén, illetve – alkalmanként 500 forintot meg nem haladó összegben – a diák- és szabadidősport résztvevőjének
 
 3.2.6.1. a Wekerle Sándor Alapkezelő intézmény közvetlenül vagy intézményen keresztül, vagy
 
-3.2.6.2. a Kormány döntése alapján az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvényben foglalt eljárás szerint megszűnő alapítvány, közalapítvány feladatát átvevő közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság az átvett feladatkörében
+3.2.6.2. a Kormány döntése alapján az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvényben foglalt eljárás szerint megszűnő alapítvány, közalapítvány feladatát átvevő közhasznú nonprofit gazdasági társaság az átvett feladatkörében
 
 nyújt.
 
-3.3. a közérdekű kötelezettségvállalásból, a közhasznú, kiemelkedően közhasznú társadalmi szervezetből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke, pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
+3.3. a közérdekű kötelezettségvállalásból, a közhasznú egyesületből, alapítványból, közalapítványból annak létesítő okiratában rögzített közhasznú céljával összhangban a közhasznú cél szerint címzett magánszemélynek, valamint munkavállalói-érdekképviseleti szervezet által magánszemélynek nem pénzben adott juttatás értéke, pénzben történő juttatás esetén legfeljebb a minimálbér 50 százalékát meg nem haladó összegben havonta adott támogatás, továbbá a 2008. január 1-je előtt alapított, a magyar kultúra, tudomány, művészet és sport érdekében kiemelkedő tevékenységet folytató és kimagasló eredményt elérő magánszemélynek nyilvános jelölés alapján odaítélt és nyilvánosan átadott szakmai díj;
 
 3.4. a 3.1–3.3. pontokban foglaltak esetében sem adómentes az a kifizetés (juttatás)
 
@@ -2871,7 +2871,7 @@ b) üzleti forgalmának növelése érdekében valamely termék megismertetése 
 
 8.17. összeghatártól függetlenül a sportversenyen vagy sportvetélkedőn nyert érem, serleg, trófea;
 
-8.18. a társadalmi szervezettől, az egyháztól évente egy alkalommal kapott tárgyjutalom értékéből az 5000 forintot meg nem haladó összeg, e rendelkezés alkalmazásában nem minősül tárgyjutalomnak az értékpapír;
+8.18. az egyesülettől, az egyháztól évente egy alkalommal kapott tárgyjutalom értékéből az 5000 forintot meg nem haladó összeg, e rendelkezés alkalmazásában nem minősül tárgyjutalomnak az értékpapír;
 
 8.19. a)
 
@@ -2919,7 +2919,7 @@ sporteseményre szóló belépőjegy, bérlet;
 
 8.34.
 
-8.35. a helyi és/vagy kisebbségi önkormányzat, a társadalmi szervezet, az alapítvány, a közalapítvány, az egyház által a lakosság, a közösség széles körét érintő (nem zártkörű), azonos részvételi feltételekkel szervezett kulturális, hagyományőrző, sport, szabadidős és más hasonló közösségi rendezvényen helyben nyújtott szolgáltatás, helyi fogyasztásra juttatott étel, ital, valamint – legfeljebb a rendezvény összes költségének 10 százalékáig terjedő együttes értékben – résztvevőnként azonos értékű, ajándék.
+8.35. a helyi és/vagy kisebbségi önkormányzat, az egyesület, az alapítvány, a közalapítvány, az egyház által a lakosság, a közösség széles körét érintő (nem zártkörű), azonos részvételi feltételekkel szervezett kulturális, hagyományőrző, sport, szabadidős és más hasonló közösségi rendezvényen helyben nyújtott szolgáltatás, helyi fogyasztásra juttatott étel, ital, valamint – legfeljebb a rendezvény összes költségének 10 százalékáig terjedő együttes értékben – résztvevőnként azonos értékű, ajándék.
 
 8.36. a könyvtári, a levéltári, a múzeumi, az egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet tevékenységi körébe tartozó ingyenesen nyújtott szolgáltatása (ide nem értve, ha azt más személy megrendelésére teljesíti);
 
@@ -3081,7 +3081,7 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 5. a nem megállapodás alapján befizetett saját társadalombiztosítási járulék;
 
-6. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az önálló tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó társadalmi szervezet számára tagdíj címén fizetett összeg;
+6. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az önálló tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
 7. a megrendelő, a vevő által igazolt szavatossági és jótállási költség;
 
@@ -3612,7 +3612,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 6. a nem megállapodás alapján befizetett saját társadalombiztosítási járulék, egészségügyi szolgáltatási járulék;
 
-7. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az egyéni vállalkozói tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó társadalmi szervezet számára tagdíj címén fizetett összeg;
+7. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az egyéni vállalkozói tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
 8. a megrendelő, a vevő által igazolt szavatossági és jótállási költség;
 

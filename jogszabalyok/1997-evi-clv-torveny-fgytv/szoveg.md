@@ -2,7 +2,7 @@
 
 a fogyasztóvédelemről
 
-Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, amely biztosítja a fogyasztói érdekek – különösen a biztonságos áruhoz és szolgáltatáshoz, a vagyoni érdekek védelméhez, a megfelelő tájékoztatáshoz és oktatáshoz, a hatékony jogorvoslathoz, továbbá a társadalmi szervezeteken keresztül történő fogyasztói érdekképviselethez fűződő érdekek – védelmét, valamint az érvényesítésükhöz szükséges intézményrendszer továbbfejlesztését, a következő törvényt alkotja:
+Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, amely biztosítja a fogyasztói érdekek – különösen a biztonságos áruhoz és szolgáltatáshoz, a vagyoni érdekek védelméhez, a megfelelő tájékoztatáshoz és oktatáshoz, a hatékony jogorvoslathoz, továbbá az egyesületeken keresztül történő fogyasztói érdekképviselethez fűződő érdekek – védelmét, valamint az érvényesítésükhöz szükséges intézményrendszer továbbfejlesztését, a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — ÁLTALÁNOS ÉS A FOGYASZTÓI ÉRDEKVÉDELMET BIZTOSÍTÓ RENDELKEZÉSEK
 
@@ -24,7 +24,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
   - ca) a terméknek az Európai Gazdasági Térségben letelepedett üzletszerű előállítója, termelője, helyreállítója vagy felújítója, illetve aki a terméken elhelyezett nevével, védjegyével vagy egyéb megkülönböztető jelzés alkalmazásával önmagát a termék gyártójaként tünteti fel; vagy
   - cb) a gyártónak az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője, ha maga a gyártó nem az Európai Gazdasági Térségben letelepedett; ilyen képviselő hiányában az importáló,
 - d) forgalmazó: az a vállalkozás, amely a terméket közvetlenül a fogyasztó részére forgalmazza,
-- e) fogyasztói érdekek képviseletét ellátó társadalmi szervezet: az egyesülési jogról szóló 1989. évi II. törvény alapján létrehozott társadalmi szervezet, ha az alapszabályában meghatározott célja a fogyasztók érdekeinek védelme, e célnak megfelelően legalább két éve működik, és természetes személy tagjainak száma legalább ötven fő, továbbá az ilyen társadalmi szervezetek szövetsége,
+- e) fogyasztói érdekek képviseletét ellátó egyesület: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja a fogyasztók érdekeinek védelme, e célnak megfelelően legalább két éve működik, és természetes személy tagjainak száma legalább ötven fő, továbbá az ilyen egyesületek szövetsége,
 - f) termék: minden birtokba vehető forgalomképes ingó dolog – ide nem értve a pénzt, az értékpapírt és a pénzügyi eszközt – és a dolog módjára hasznosítható természeti erő,
 - g) szolgáltatás: termék, ingatlan vagy vagyoni értékű jog értékesítésén kívül minden olyan – ellenszolgáltatás fejében végzett – tevékenység, amely a megrendelő, illetve megbízó igényének kielégítésére valamely eredmény létrehozását, teljesítmény nyújtását vagy más magatartás tanúsítását foglalja magában,
 - h) közüzemi szolgáltatás: külön törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozó vállalkozás által e kötelezettség alapján nyújtott közszolgáltatás,
@@ -174,11 +174,11 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (2) A fogyasztóvédelmi oktatás elsősorban állami feladat.
 
-(3) Az iskolai fogyasztóvédelmi oktatás a Nemzeti Alaptanterv részét képezi. A Nemzeti Alaptanterv fogyasztóvédelemmel kapcsolatos követelményeinek a Kormány részére történő benyújtása előtt be kell szerezni a fogyasztói érdekek országos képviseletét ellátó társadalmi szervezetek véleményét is.
+(3) Az iskolai fogyasztóvédelmi oktatás a Nemzeti Alaptanterv részét képezi. A Nemzeti Alaptanterv fogyasztóvédelemmel kapcsolatos követelményeinek a Kormány részére történő benyújtása előtt be kell szerezni a fogyasztói érdekek országos képviseletét ellátó egyesületek véleményét is.
 
 (4) A Nemzeti Alaptanterv elvei és követelményei szerint a fogyasztóvédelemért felelős miniszter közreműködik a közoktatás intézményei számára készülő fogyasztóvédelmi tantervi követelmények meghatározásában.
 
-(5) Az állam az iskolai fogyasztóvédelmi oktatással kapcsolatos feladatait az oktatási intézményeken keresztül, a fogyasztóvédelmi hatósággal és a fogyasztói érdekek képviseletét ellátó társadalmi szervezetekkel együttműködve látja el.
+(5) Az állam az iskolai fogyasztóvédelmi oktatással kapcsolatos feladatait az oktatási intézményeken keresztül, a fogyasztóvédelmi hatósággal és a fogyasztói érdekek képviseletét ellátó egyesületekkel együttműködve látja el.
 
 ### VI. Fejezet — A fogyasztói jogok érvényesítése
 
@@ -208,7 +208,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (5) A 17/A. §-tól eltérően az ügyfélszolgálat minden esetben köteles a vállalkozás panasszal kapcsolatos álláspontját és intézkedéseit indokolással ellátva írásba foglalni, és a fogyasztónak a panasz beérkezését követő tizenöt napon belül megküldeni, kivéve, ha a fogyasztó panaszát személyesen jelenti be és a vállalkozás az abban foglaltaknak nyomban eleget tesz.
 
-(6) Az ügyfélszolgálat a fogyasztói panaszok intézése és a fogyasztók tájékoztatása során köteles együttműködni a fogyasztói érdekek képviseletét ellátó társadalmi szervezetekkel.
+(6) Az ügyfélszolgálat a fogyasztói panaszok intézése és a fogyasztók tájékoztatása során köteles együttműködni a fogyasztói érdekek képviseletét ellátó egyesületekkel.
 
 17/C. § A 17/A. § és a 17/B. § alkalmazásában az írásbeliség követelményének levél, távirat, távgépíró vagy telefax útján, továbbá bármely egyéb olyan eszközzel is eleget lehet tenni, amely a címzett számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását, és a tárolt adatok változatlan formában és tartalommal történő megjelenítését.
 
@@ -236,11 +236,11 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 21. § (1) A békéltető testület elnökből, – szükség szerint – elnökhelyettesből és tagokból (a továbbiakban együtt: békéltető testületi tagok) áll.
 
-(2) A békéltető testületi tagokat – a Kormány rendeletében meghatározottak szerint – egyrészről a kamara és a megyei (fővárosi) agrárkamarák, másrészről a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek egyenlő arányban jelölik ki.
+(2) A békéltető testületi tagokat – a Kormány rendeletében meghatározottak szerint – egyrészről a kamara és a megyei (fővárosi) agrárkamarák, másrészről a fogyasztói érdekek képviseletét ellátó egyesületek egyenlő arányban jelölik ki.
 
 (3) A testületi tagok száma testületenként legalább tíz fő.
 
-(4) A kijelölés során biztosítani kell, hogy a testületnek mind a kamara, mind a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek által jelölt személyek között
+(4) A kijelölés során biztosítani kell, hogy a testületnek mind a kamara, mind a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt személyek között
 
 - a) legyen olyan tagja, aki megfelel a 25. § (4) bekezdésében meghatározott követelményeknek, továbbá
 - b)
@@ -303,7 +303,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - e) alkalmatlanná válása esetén,
 - f) halálával.
 
-(2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a tagot jelölő szervezet véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a békéltető testület tagjai közül választott, a kamara és a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek által jelölt tagokból álló háromfős testület állapítja meg.
+(2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a tagot jelölő szervezet véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a békéltető testület tagjai közül választott, a kamara és a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt tagokból álló háromfős testület állapítja meg.
 
 (3) Ha a békéltető testületi tag megbízatása e törvényben szabályozott bármely okból megszűnik, helyette a békéltető testületi tag jelölésére vonatkozó rendelkezések megfelelő alkalmazásával új testületi tagot kell kijelölni. Ha a békéltetőtestületi tag megbízatása az (1) bekezdés a) pontja alapján szűnik meg, az olyan folyamatban lévő ügyben, amelyben az eljáró tanács tagja, még eljár. Ha a békéltetőtestületi tag megbízatása az (1) bekezdés b)–f) pontja alapján szűnik meg, a folyamatban levő ügyekben a békéltető testület elnöke jelöli ki a megszűnt megbízatású tag helyett eljáró tagot.
 
@@ -313,11 +313,11 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 25. § (1) A békéltető testület – a (3) bekezdésben foglalt kivétellel – háromtagú tanácsban jár el.
 
-(2) Az eljáró tanács egyik tagját az eljárást megindító fogyasztó, egy másik tagját pedig az eljárással érintett vállalkozás jelöli ki a testületi tagok 23/A. §-ban meghatározott listájáról. Az eljáró tanács elnökét, továbbá ha a felek bármelyike a megadott határidőn belül nem él a jelölés lehetőségével, vagy ha más okból szükséges, az eljáró tanács hiányzó tagját a testület elnöke jelöli ki, figyelemmel arra, hogy legalább egy tag a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek által jelölt, egy másik tag pedig a kamara által kijelölt testületi tagok közül kerüljön ki, valamint minden olyan szempontra, amely nagy valószínűséggel biztosítja független és pártatlan testületi tag kijelölését.
+(2) Az eljáró tanács egyik tagját az eljárást megindító fogyasztó, egy másik tagját pedig az eljárással érintett vállalkozás jelöli ki a testületi tagok 23/A. §-ban meghatározott listájáról. Az eljáró tanács elnökét, továbbá ha a felek bármelyike a megadott határidőn belül nem él a jelölés lehetőségével, vagy ha más okból szükséges, az eljáró tanács hiányzó tagját a testület elnöke jelöli ki, figyelemmel arra, hogy legalább egy tag a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt, egy másik tag pedig a kamara által kijelölt testületi tagok közül kerüljön ki, valamint minden olyan szempontra, amely nagy valószínűséggel biztosítja független és pártatlan testületi tag kijelölését.
 
 (3) Ha a testület elnöke szerint a fogyasztói jogvita egyszerű megítélésű, az eljárás lefolytatására egyedül eljáró testületi tagot jelöl ki. Ha azonban mindkét fél – az általa az (1) bekezdés szerint jelölhető testületi tag megjelölésével – azt kéri, a békéltető testület ebben az esetben is háromtagú tanácsban jár el.
 
-(4) A (3) bekezdésben meghatározott esetben egyedül eljáró testületi tagként csak az jelölhető ki, aki jogi végzettséggel rendelkezik, és a megelőző három évben nem állt az őt jelölő kamarával, illetve fogyasztói érdekek képviseletét ellátó társadalmi szervezettel, vagy ezek tagjával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
+(4) A (3) bekezdésben meghatározott esetben egyedül eljáró testületi tagként csak az jelölhető ki, aki jogi végzettséggel rendelkezik, és a megelőző három évben nem állt az őt jelölő kamarával, illetve fogyasztói érdekek képviseletét ellátó egyesülettel, vagy ezek tagjával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
 
 (5) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említ, azon az egyedül eljáró testületi tagot is érteni kell.
 
@@ -507,7 +507,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 ### Keresetindítás
 
-39. § (1) Az ellen, akinek jogszabályba ütköző tevékenysége a fogyasztók széles körét érinti vagy jelentős nagyságú hátrányt okoz, a fogyasztóvédelmi hatóság, a fogyasztói érdekek képviseletét ellátó társadalmi szervezet vagy az ügyész pert indíthat a fogyasztók széles körének védelme, illetőleg a jelentős nagyságú hátrány kiküszöbölése érdekében. Ilyen per akkor is indítható, ha a sérelmet szenvedett fogyasztók személye nem állapítható meg.
+39. § (1) Az ellen, akinek jogszabályba ütköző tevékenysége a fogyasztók széles körét érinti vagy jelentős nagyságú hátrányt okoz, a fogyasztóvédelmi hatóság, a fogyasztói érdekek képviseletét ellátó egyesület vagy az ügyész pert indíthat a fogyasztók széles körének védelme, illetőleg a jelentős nagyságú hátrány kiküszöbölése érdekében. Ilyen per akkor is indítható, ha a sérelmet szenvedett fogyasztók személye nem állapítható meg.
 
 (2) Az (1) bekezdésben meghatározott kereset a jogsértés bekövetkezését követő egy éven belül nyújtható be.
 
@@ -521,7 +521,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 ### VII. Fejezet — A fogyasztóvédelem állami intézményrendszere
 
-39/A. § A Kormány – a tudatos fogyasztói magatartás és döntéshozatal kultúrájának fejlesztése, a fogyasztók minél magasabb színvonalú és tisztességes kiszolgálása, a fogyasztók biztonságát és tájékozott döntését előmozdító, fogyasztóbarát kereskedelmi gyakorlatok kialakítása, a vállalkozások és fogyasztók, illetve e szereplők és a fogyasztóvédelemmel összefüggő állami feladatot ellátó hatóságok közötti kapcsolatok javítása, a kiszámítható, következetes és egységes hatósági jogalkalmazás erősítése, a vállalkozások önszabályozási gyakorlata megerősítésének elősegítése céljából – ösztönzi az országos gazdasági kamarák, a vállalkozások szakmai érdek-képviseleti szervezetei, a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek, valamint a fogyasztóvédelemmel összefüggő állami feladatot ellátó hatóságok közös megegyezésén alapuló, a követendő elveket és legjobb gyakorlatokat rögzítő nyilatkozat létrehozását.
+39/A. § A Kormány – a tudatos fogyasztói magatartás és döntéshozatal kultúrájának fejlesztése, a fogyasztók minél magasabb színvonalú és tisztességes kiszolgálása, a fogyasztók biztonságát és tájékozott döntését előmozdító, fogyasztóbarát kereskedelmi gyakorlatok kialakítása, a vállalkozások és fogyasztók, illetve e szereplők és a fogyasztóvédelemmel összefüggő állami feladatot ellátó hatóságok közötti kapcsolatok javítása, a kiszámítható, következetes és egységes hatósági jogalkalmazás erősítése, a vállalkozások önszabályozási gyakorlata megerősítésének elősegítése céljából – ösztönzi az országos gazdasági kamarák, a vállalkozások szakmai érdek-képviseleti szervezetei, a fogyasztói érdekek képviseletét ellátó egyesületek, valamint a fogyasztóvédelemmel összefüggő állami feladatot ellátó hatóságok közös megegyezésén alapuló, a követendő elveket és legjobb gyakorlatokat rögzítő nyilatkozat létrehozását.
 
 40. § (1) A fogyasztóvédelemért felelős miniszter
 
@@ -568,15 +568,15 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 44. § (1) A helyi önkormányzatok képviselő-testületei
 
-- a) segíthetik a fogyasztók önszerveződéseit, támogathatják a fogyasztóvédelmi társadalmi szervezetek helyi érdekérvényesítő tevékenységét,
+- a) segíthetik a fogyasztók önszerveződéseit, támogathatják a fogyasztóvédelmi egyesületek helyi érdekérvényesítő tevékenységét,
 - b)
 - c) a lakosság igényeitől függően fogyasztóvédelmi tanácsadó irodát működtethetnek.
 
 (2)
 
-### IX. Fejezet — A fogyasztói érdekek képviseletét ellátó társadalmi szervezetek
+### IX. Fejezet — A fogyasztói érdekek képviseletét ellátó egyesületek
 
-45. § (1) Az állam és a helyi önkormányzatok előmozdítják és támogatják a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek arra irányuló tevékenységét, hogy
+45. § (1) Az állam és a helyi önkormányzatok előmozdítják és támogatják a fogyasztói érdekek képviseletét ellátó egyesületek arra irányuló tevékenységét, hogy
 
 - a) érdekfeltáró munkájukkal segítsék a fogyasztók gazdasági érdekeinek és fogyasztói jogainak érvényesítését, ennek keretében feltárják a fogyasztói problémákat, értékeljék a fogyasztói jogok érvényesülését,
 - b) figyelemmel kísérjék a fogyasztókkal szemben alkalmazott általános szerződési feltételeket,
@@ -592,7 +592,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (2)
 
-(3) Az állam a mindenkori éves költségvetésről szóló törvényben gondoskodik a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek támogatásáról.
+(3) Az állam a mindenkori éves költségvetésről szóló törvényben gondoskodik a fogyasztói érdekek képviseletét ellátó egyesületek támogatásáról.
 
 ### X. Fejezet — A fogyasztóvédelmi hatóság eljárása
 
@@ -618,7 +618,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (2) A fogyasztóvédelmi hatóság eljárásában az általuk védett fogyasztói érdekek védelme körében az ügyfél jogai illetik meg
 
-- a) a fogyasztói érdekek képviseletét ellátó társadalmi szervezeteket, illetve
+- a) a fogyasztói érdekek képviseletét ellátó egyesületeket, illetve
 - b) a 43/A. § (1) bekezdés a)–c), e) és f), valamint h)–k) pontjában említett irányelveket, továbbá a 2006/123/EK európai parlamenti és tanácsi irányelvet átültető jogszabályi rendelkezések megsértésére hivatkozással az Európai Gazdasági Térség bármely más államának joga alapján létrejött azon feljogosított egységeket is, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek.
 
 (3) A fogyasztóvédelmi hatóság eljárása a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
@@ -645,7 +645,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (6) Nincs helye az (1) bekezdés szerinti jogkövetkezmény alkalmazásának a fogyasztóvédelmi hatósággal hatósági szerződést kötő ügyféllel szemben a szerződésben megállapított teljesítési határidőn belül azon jogsértés miatt, amelynek megszüntetése érdekében a szerződés megkötésére sor került.
 
-(7) A fogyasztóvédelemért felelős miniszter az (1) bekezdés szerinti jogkövetkezmények alkalmazásának elveiről a fogyasztóvédelmi hatóság számára normatív utasítást ad ki. Az utasítás tervezetéről a jogszabályok előkészítésére vonatkozó szabályok megfelelő alkalmazásával a miniszter konzultációt folytat a vállalkozások szakmai érdek-képviseleti szervezeteivel és a fogyasztói érdekek képviseletét ellátó társadalmi szervezetekkel. Az utasítást a Magyar Közlönyben közzé kell tenni.
+(7) A fogyasztóvédelemért felelős miniszter az (1) bekezdés szerinti jogkövetkezmények alkalmazásának elveiről a fogyasztóvédelmi hatóság számára normatív utasítást ad ki. Az utasítás tervezetéről a jogszabályok előkészítésére vonatkozó szabályok megfelelő alkalmazásával a miniszter konzultációt folytat a vállalkozások szakmai érdek-képviseleti szervezeteivel és a fogyasztói érdekek képviseletét ellátó egyesületekkel. Az utasítást a Magyar Közlönyben közzé kell tenni.
 
 (8) A fogyasztóvédelmi hatóság az (1) bekezdés d), g), illetve h) pontja szerinti jogkövetkezmény megállapításáról szóló döntését közli az üzlet működési engedélyét kiadó kereskedelmi hatósággal.
 
@@ -718,7 +718,7 @@ nem képezi a központi költségvetés bevételét.
 
 (6) A jogerősen kiszabott bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
 
-(7) A (3) és a (4) bekezdés szerinti központi költségvetési bevételnek a Kormány által e törvény végrehajtására kiadott rendeletben meghatározott részét a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek támogatására kell fordítani.
+(7) A (3) és a (4) bekezdés szerinti központi költségvetési bevételnek a Kormány által e törvény végrehajtására kiadott rendeletben meghatározott részét a fogyasztói érdekek képviseletét ellátó egyesületek támogatására kell fordítani.
 
 49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra fellebbezésre tekintet nélkül végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
 
@@ -798,11 +798,11 @@ nem képezi a központi költségvetés bevételét.
 - c) a szállás időben megosztott használati joga, a hosszú távra szóló üdülési termék megszerzésére, ezek viszontértékesítésére és cseréjére irányuló, fogyasztóval kötött szerződésekre, valamint az ezekkel összefüggő tájékoztatási követelményekre,
 - d) az üzleten kívül fogyasztóval kötött szerződésekre,
 - e) a távollevők között létrejött szerződésekre,
-- f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és felhasználására, valamint a külön jogszabályok alapján az eljáró hatóságot megillető eljárási költség felhasználására, továbbá a fogyasztói érdekek képviseletét ellátó társadalmi szervezeteknek a fogyasztóvédelmi bírság meghatározott arányában történő támogatására,
+- f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és felhasználására, valamint a külön jogszabályok alapján az eljáró hatóságot megillető eljárási költség felhasználására, továbbá a fogyasztói érdekek képviseletét ellátó egyesületeknek a fogyasztóvédelmi bírság meghatározott arányában történő támogatására,
 - g) a békéltető testületi tagok díjazására,
 - h) a fogyasztóvédelmi hatóság vagy hatóságok kijelölésére, feladat- és hatáskörére,
 - i) a békéltető testületi tagok kijelölésére, valamint a 21. § (4) bekezdés b) pontjában említett végzettségre és szakismeretre,
-- j) a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének végrehajtása céljából a fogyasztói érdekek képviseletét ellátó társadalmi szervezeteknek az irányelv 4. cikk (3) bekezdésében meghatározott jegyzékre való felkerülése céljából lefolytatandó eljárásra,
+- j) a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének végrehajtása céljából a fogyasztói érdekek képviseletét ellátó egyesületeknek az irányelv 4. cikk (3) bekezdésében meghatározott jegyzékre való felkerülése céljából lefolytatandó eljárásra,
 - k) az Európai Fogyasztói Központok Hálózatában való részvételre
 - l)
 

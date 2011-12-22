@@ -30,7 +30,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 - d) az ügyvédi iroda, a végrehajtói iroda, a szabadalmi ügyvivői iroda, a közjegyzői iroda, az erdőbirtokossági társulat,
 - e) a Munkavállalói Résztulajdonosi Program szervezete (a továbbiakban: MRP),
 - f) a vízitársulat,
-- g) az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az egyház (ideértve e szervezetek alapszabályában, illetve alapító okiratában jogi személyiséggel felruházott szervezeti egységeket is), a lakásszövetkezet és az önkéntes kölcsönös biztosító pénztár,
+- g) az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház (ideértve e szervezetek alapszabályában, illetve alapító okiratában jogi személyiséggel felruházott szervezeti egységeket is), a lakásszövetkezet és az önkéntes kölcsönös biztosító pénztár,
 - h) a felsőoktatási intézmény (ideértve az általa létrehozott intézményt is), továbbá a diákotthon,
 - i) európai területi együttműködési csoportosulás,
 - j) az egyéni cég,
@@ -132,11 +132,11 @@ fejében a jogosult által kapott ellenérték;
 - 23/d. kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló a Bizottság 800/2008/EK rendelete (2008. augusztus 6.) 1–13. cikkei alapján megillető támogatás;
 - 24. mikro-, kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben ilyenként meghatározott vállalkozás, ideértve az említett törvényben előírt feltételeknek megfelelő ügyvédi irodát, végrehajtói irodát, szabadalmi ügyvivői irodát, és közjegyzői irodát is azzal, hogy kisvállalkozásnak minősül az említett törvény szerinti mikrovállalkozás is;
 - 24/a.
-- 25. munkáltatói és munkavállalói érdekképviseleti szervezet: az a társadalmi szervezetként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Országos Érdekegyeztető Tanácsnak, valamint e szervezet azon tagszervezete, amely megyei, régiós vagy szakmai szövetségként működik;
+- 25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Országos Érdekegyeztető Tanácsnak, valamint e szervezet azon tagszervezete, amely megyei, régiós vagy szakmai szövetségként működik;
 - 26. nyilvántartott értékvesztés: a követelésekre a számviteli előírások alapján elszámolt és adózás előtti eredménynövelésként figyelembe vett értékvesztés csökkentve az adózás előtti eredmény csökkentéseként számításba vett összeggel;
 - 27. külföldi személy: a külföldi jogszabályok alapján létrejött jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet;
 - 28.
-- 28/a. országos érdekképviseleti szervezet: az a társadalmi szervezetként bírósági nyilvántartásba vett társadalmi szervezetek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
+- 28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 - 29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei és rendkívüli bevételek;
 - 30. pályakezdő: a munkavállaló a középfokú nevelési-oktatási vagy a felsőoktatási intézménnyel nappali képzés keretében fennálló jogviszonya megszűnését, illetve a tanulói jogviszonya tankötelezettség címén való megszűnését követő egy naptári éven belül létesített első munkaviszonyában, illetve első munkavégzésre irányuló egyéb jogviszonyában;
 - 30/a. szabályozott ingatlanbefektetési elővállalkozás: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési elővállalkozásként nyilvántartásba vett gazdasági társaság;
@@ -192,7 +192,7 @@ fejében a jogosult által kapott ellenérték;
 
 (6) Ha a felszámolási eljárás (annak megfelelő eljárás) a cég cégnyilvántartásból való törlése nélkül fejeződik be, az adókötelezettség az eljárás megszűnésének napját követő naptól új adóévként folytatódik.
 
-(7) Az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, a felsőoktatási intézmény, a nonprofit gazdasági társaság és a szociális szövetkezet a közhasznú szervezetre, kiemelkedően közhasznú szervezetre vonatkozó rendelkezéseket először abban az adóévben alkalmazhatja, amely évben ilyen szervezetként besorolást nyert. Az adózó nem alkalmazhatja a közhasznú szervezetre, kiemelkedően közhasznú szervezetre vonatkozó rendelkezéseket – kivéve a törlés napjáig az igazolás kiadását – abban az adóévben, amelyben a közhasznúsági nyilvántartásból törölték. A közhasznú besorolás adóéven belüli változása esetén – kivéve az átsorolás napjáig az igazolás kiadását – az adóév utolsó napján érvényes besorolásnak megfelelő rendelkezéseket kell az adóév egészére alkalmazni.
+(7) Az alapítvány, a közalapítvány, az egyesület, a köztestület, a felsőoktatási intézmény, a nonprofit gazdasági társaság és a szociális szövetkezet a közhasznú szervezetre vonatkozó rendelkezéseket először abban az adóévben alkalmazhatja, amely évben ilyen szervezetként besorolást nyert. Az adózó nem alkalmazhatja a közhasznú szervezetre vonatkozó rendelkezéseket – kivéve a törlés napjáig az igazolás kiadását – abban az adóévben, amelyben a közhasznúsági nyilvántartásból törölték. A közhasznú besorolás adóéven belüli változása esetén – kivéve az átsorolás napjáig az igazolás kiadását – az adóév utolsó napján érvényes besorolásnak megfelelő rendelkezéseket kell az adóév egészére alkalmazni.
 
 (8) A társasági adóbevallást magyar nyelven, forintban kell elkészíteni. A beszámolót, könyvvezetést konvertibilis devizában készítő adózó a társasági adóbevallás adatait a Magyar Nemzeti Bank hivatalos – az adóév utolsó napján érvényes – devizaárfolyamának alapulvételével számítja át forintra. Olyan külföldi pénznem esetében, amelynek nincs a Magyar Nemzeti Bank által jegyzett árfolyama, a Magyar Nemzeti Bank által az adóév utolsó napjára vonatkozóan közzétett, euróban megadott árfolyamot kell a forintra történő átszámításkor figyelembe venni. Ugyanígy kell eljárni minden más esetben, ha az átszámításra a számviteli törvény előírása nem vonatkozik.
 
@@ -206,7 +206,7 @@ fejében a jogosult által kapott ellenérték;
 
 (3) A társasági adóalapja a szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság esetén a 15. §-ban, az ingatlannal rendelkező társaság tagja esetében a 15/A. §-ban meghatározott jövedelem.
 
-(4) Az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaság, a közhasznú, a kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza.
+(4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza.
 
 (5) Ha az adózó (2) bekezdés szerinti adózás előtti eredménye vagy az (1) bekezdés szerinti adóalapja közül a nagyobb érték nem éri el a jövedelem-(nyereség-)minimumot, akkor választása szerint
 
@@ -216,7 +216,7 @@ fejében a jogosult által kapott ellenérték;
 (6) Nem kell az (5) bekezdés rendelkezését alkalmaznia az adózónak
 
 - a) az előtársasági adóévben .és az azt követő adóévben, illetve az első adóévében, amennyiben az előtársasági időszakról külön beszámoló készítésére nem kötelezett, vagy
-- b) ha a 2. § (2) bekezdésének e)–h) pontja alapján adóalany, illetve, ha szociális szövetkezet, iskolaszövetkezet vagy közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, vagy
+- b) ha a 2. § (2) bekezdésének e)–h) pontja alapján adóalany, illetve, ha szociális szövetkezet, iskolaszövetkezet vagy közhasznú nonprofit gazdasági társaság, vagy
 - c) ha az adóévben vagy a megelőző adóévben elemi kár sújtotta és mértéke – több kár esetén azok együttes értéke – eléri az elemi kár bekövetkezését megelőző adóévi évesített árbevétel (átalakulással létrejött adózónál a jogelőd árbevételéből számított, az átalakulás formájától függően azzal egyező, összesített, megosztott árbevétel) legalább 15 százalékát.
 
 (7) Az (5) bekezdés alkalmazásában a jövedelem-(nyereség-)minimum a (8) bekezdésben foglaltakkal csökkentett és a (9) bekezdésben foglaltakkal növelt összes bevétel 2 százaléka.
@@ -363,7 +363,7 @@ végezte.
 - o) a forintról devizára, devizáról forintra, vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 - p) az adóellenőrzés, önellenőrzés során megállapított, adóévi költségként, ráfordításként (egyszeres könyvvitelt vezetőnél ideértve a kifizetett vásárolt készletek csökkenését is) vagy adóévi nettó árbevétel, bevétel, aktivált saját teljesítmény csökkentéseként elszámolt összeg,
 - r) a 7. § (1) bekezdésének gy) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett átalakulás alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
-- s) a 7. § (1) bekezdésének z) pontja alapján az adóévet megelőző év(ek)ben az adózás előtti eredmény csökkentéseként, a közhasznú szervezetekről szóló törvény szerinti tartós adományozásra tekintettel elszámolt azon többletkedvezmény, amelyre vonatkozóan az adózó az adóévben a tartós adományozásról szóló szerződésben vállaltakat a másik szerződő fél közhasznúsági nyilvántartásból való törlése vagy jogutód nélküli megszűnése miatt nem teljesítette, vagy ennek kétszerese, ha az adózó bármely más ok miatt nem teljesített a szerződésnek megfelelően,
+- s) a 7. § (1) bekezdésének z) pontja alapján az adóévet megelőző év(ek)ben az adózás előtti eredmény csökkentéseként, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti tartós adományozásra tekintettel elszámolt azon többletkedvezmény, amelyre vonatkozóan az adózó az adóévben a tartós adományozásról szóló szerződésben vállaltakat a másik szerződő fél közhasznúsági nyilvántartásból való törlése vagy jogutód nélküli megszűnése miatt nem teljesítette, vagy ennek kétszerese, ha az adózó bármely más ok miatt nem teljesített a szerződésnek megfelelően,
 - t) a 7. § (1) bekezdésének h) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
 - u) azon beruházás, szellemi termék bekerülési értékéből az adózás előtti eredmény csökkentéseként a 7. § (1) bekezdés zs) pontja alapján elszámolt összeg kétszerese,
   - ua) amely beruházást, szellemi terméket az adózó az adózás előtti eredmény csökkentésének adóévét követő negyedik adóév utolsó napjáig nem helyez üzembe, illetve nem vesz használatba, az említett negyedik adóévről készített bevallásban, kivéve, ha az üzembe helyezés, a használatbavétel elháríthatatlan külső ok miatti megrongálódás következtében maradt el,
@@ -390,14 +390,14 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (7) Abban az esetben, ha a részesedés nyilvántartásból történő kivezetése újabb kedvezményezett átalakulás vagy kedvezményezett részesedéscsere következtében történő részesedésszerzés miatt következik be, az adózónak nem kell az r) és t) pontban foglaltakat alkalmaznia. Az utóbbi részesedés szerzésére tekintettel adózás előtti eredmény csökkentésként számításba vett összegként kell azonban figyelembe vennie a korábbi kedvezményezett átalakulás vagy kedvezményezett részesedéscsere alapján érvényesített adózás előtti eredménycsökkentésből azt a részt, amelyet növelésként még nem vett számításba.
 
-### Az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, a közhasznú, kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény adóalapjának megállapítása
+### Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapjának megállapítása
 
-9. § (1) Az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület, az egyház, a lakásszövetkezet és az önkéntes kölcsönös biztosítópénztár, valamint a közhasznú szervezetként, kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény adóalapja a vállalkozási tevékenység adózás előtti eredménye, módosítva a (2)–(5) bekezdésben foglaltakkal és figyelemmel a (6)–(9) bekezdés rendelkezéseire.
+9. § (1) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet és az önkéntes kölcsönös biztosítópénztár, valamint a közhasznú szervezetként besorolt felsőoktatási intézmény adóalapja a vállalkozási tevékenység adózás előtti eredménye, módosítva a (2)–(5) bekezdésben foglaltakkal és figyelemmel a (6)–(9) bekezdés rendelkezéseire.
 
 (2) Csökkenteni kell az adózás előtti eredményt
 
 - a)
-- b) a közhasznú szervezetként, a kiemelkedően közhasznú szervezetként besorolt alapítványnak, közalapítványnak, társadalmi szervezetnek, köztestületnek és felsőoktatási intézménynek vállalkozási tevékenysége adózás előtti nyereségének 20 százalékával;
+- b) a közhasznú szervezetként besorolt alapítványnak, közalapítványnak, egyesületnek, köztestületnek és felsőoktatási intézménynek vállalkozási tevékenysége adózás előtti nyereségének 20 százalékával;
 - c) a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j), m), n), o), r), t), u) és v) pontja, továbbá a 7. § (3), (10) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
 - d)
 - e) a munkáltatói és munkavállalói érdekképviseleti szervezetnél a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével, amelyet az adóévben, az adóévet követő adóévben a szervezet alapítói okiratában, alapszabályában nevesített célszerinti tevékenysége bevételét meghaladó költsége, ráfordítása fedezetére használ fel.
@@ -405,17 +405,17 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 (3) Növelni kell az adózás előtti eredményt
 
 - a) a 8. § (1) bekezdés a), b), d), e), gy), h), j), m), p) és r) pontja, továbbá a 8. § (5) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
-- b) az alapítványnak, a közalapítványnak, a társadalmi szervezetnek, a köztestületnek és a közhasznú, kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézménynek a nem a vállalkozási tevékenységéhez kapott támogatás, juttatás
+- b) az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek és a közhasznú szervezetként besorolt felsőoktatási intézménynek a nem a vállalkozási tevékenységéhez kapott támogatás, juttatás
   - ba) teljes összegével, ha az adóév utolsó napján az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása van,
-  - bb) a közhasznú, a kiemelkedően közhasznú szervezet a (7) bekezdésben előírt aránnyal számított részével, ha nincs az adóév utolsó napján az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása, de a vállalkozási tevékenységből származó bevétele meghaladja a kedvezményezett mértéket.
+  - bb) a közhasznú szervezet a (7) bekezdésben előírt aránnyal számított részével, ha nincs az adóév utolsó napján az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása, de a vállalkozási tevékenységből származó bevétele meghaladja a kedvezményezett mértéket.
 
 (4) A (2) és (3) bekezdésben foglaltakat figyelembe véve kell alkalmazni a 16., a 18. és a 28. §-ok,valamint a VII. fejezet rendelkezéseit.
 
 (5) Az egyház az adóalap megállapításakor a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével is csökkentheti a vállalkozási tevékenység adózás előtti eredményét, amelyet az adóévben, az adóévet követő adóévben kulturális, nevelési, oktatási, felsőoktatási, szociális és egészségügyi, gyermek- és ifjúságvédelmi, sport, tudományos és műemlékvédelmi tevékenység, továbbá a hitéleti célú ingatlanfenntartás bevételt meghaladó költsége, ráfordítása fedezetére használ fel.
 
-(6) A közhasznú szervezetként, a kiemelkedően közhasznú szervezetként besorolt alapítvány, közalapítvány, társadalmi szervezet, köztestület és felsőoktatási intézmény adóalapja az (1)–(4) bekezdés alapján meghatározott összegnek a (7) bekezdésben előírt aránnyal számított része.
+(6) A közhasznú szervezetként besorolt alapítvány, közalapítvány, egyesület, köztestület és felsőoktatási intézmény adóalapja az (1)–(4) bekezdés alapján meghatározott összegnek a (7) bekezdésben előírt aránnyal számított része.
 
-(7) A kedvezményezett vállalkozási tevékenység mértéke közhasznú szervezet esetében az összes bevétele 10 százaléka, de legfeljebb 20 millió forint, kiemelkedően közhasznú szervezet esetében az összes bevétele 15 százaléka. A (3) bekezdés b) pontjában és a (6) bekezdésben foglaltak meghatározásához az arányt a kedvezményezett vállalkozási tevékenység mértékét meghaladóan elért vállalkozási bevétel és a vállalkozási tevékenység összes bevételének hányadosaként (két tizedesjegy pontossággal) kell számítani.
+(7) A kedvezményezett vállalkozási tevékenység mértéke közhasznú szervezet esetében az összes bevétele 15 százaléka. A (3) bekezdés b) pontjában és a (6) bekezdésben foglaltak meghatározásához az arányt a kedvezményezett vállalkozási tevékenység mértékét meghaladóan elért vállalkozási bevétel és a vállalkozási tevékenység összes bevételének hányadosaként (két tizedesjegy pontossággal) kell számítani.
 
 (8) Az országos érdek-képviseleti szervezet az adóalapot az (1)–(7) bekezdések szerint, a közhasznú szervezetre vonatkozó rendelkezések megfelelő alkalmazásával állapítja meg.
 
@@ -464,25 +464,25 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 13. §
 
-### A közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaság, a szociális szövetkezet és a vízitársulat adóalapja
+### A közhasznú nonprofit gazdasági társaság, a szociális szövetkezet és a vízitársulat adóalapja
 
-13/A. § (1) A közhasznú, a kiemelkedően közhasznú jogállással rendelkező nonprofit gazdasági társaság és a vízitársulat adóalapja az adózás előtti eredmény, csökkentve a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j), m), n), o), p), r), t), u), v) és y) pontjaiban és a 7. § (3), (10) és (18)–(20) bekezdésében foglaltakkal, növelve a 8. § (1) bekezdésének a), b), d), e), gy), h), j), m), o), p), r) és v) pontjaiban, valamint a 8. § (5)–(6) bekezdésében foglaltakkal, továbbá az előzőeket figyelembe véve alkalmazza a 16., 18. és a 28. §-ok, valamint a VII. fejezet rendelkezéseit.
+13/A. § (1) A közhasznú jogállással rendelkező nonprofit gazdasági társaság és a vízitársulat adóalapja az adózás előtti eredmény, csökkentve a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j), m), n), o), p), r), t), u), v) és y) pontjaiban és a 7. § (3), (10) és (18)–(20) bekezdésében foglaltakkal, növelve a 8. § (1) bekezdésének a), b), d), e), gy), h), j), m), o), p), r) és v) pontjaiban, valamint a 8. § (5)–(6) bekezdésében foglaltakkal, továbbá az előzőeket figyelembe véve alkalmazza a 16., 18. és a 28. §-ok, valamint a VII. fejezet rendelkezéseit.
 
-(2) A közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaságnak az (1) bekezdésben foglaltak mellett növelnie kell az adózás előtti eredményét
+(2) A közhasznú nonprofit gazdasági társaságnak az (1) bekezdésben foglaltak mellett növelnie kell az adózás előtti eredményét
 
 - a) jogutód nélküli megszűnése esetén, a tagsági viszony megszűnésekor, vagy a jegyzett tőke leszállításakor a társaság tagja részére kiadott vagyonnak a (3) bekezdés szerinti nyilvántartásban adózott saját tőkeként kimutatott értéket meghaladó részével,
 - b) egyesülése, szétválása esetén a jogutódnál – akkor, ha az átalakulás miatt a jogelőd bármely tagjával szemben vagyonhányad-kiadási kötelezettsége keletkezik – az (5) bekezdés szerint az adómentesen képzett saját tőke csökkentéseként elszámolt összeggel,
-- c) a közhasznú, a kiemelkedően közhasznú jogállásának megszűnése adóévében, illetve a jogutódnak, ha nem rendelkezik közhasznú, kiemelkedően közhasznú besorolással, első adóévében a (3) bekezdés szerint nyilvántartott adómentesen képzett saját tőke összegével,
+- c) a közhasznú jogállásának megszűnése adóévében, illetve a jogutódnak, ha nem rendelkezik közhasznú besorolással, első adóévében a (3) bekezdés szerint nyilvántartott adómentesen képzett saját tőke összegével,
 - d) a nem a vállalkozási tevékenységéhez kapott támogatás, juttatás teljes összegével, ha az adóév utolsó napján az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása van.
 
-(3) A (2) bekezdés a) pontjának alkalmazásához a közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaság (értékelési tartalék nélküli) saját tőkéjének az évenkénti változását köteles megbontani adózott és adómentesen képzett részekre, és ennek figyelembevételével meghatározni az adóévi (értékelési tartalék nélküli) saját tőke záró állományának az adózottan és az adómentesen képzett részét. Az adóévi változásból az adómentesen képződött rész javára (terhére) jutó értéket az adóévi kedvezményezett tevékenység bevételének az összes bevételhez viszonyított arányával számítva kell meghatározni. Az évenkénti változás megbontásakor figyelmen kívül kell hagyni a jegyzett tőkének, a tőketartaléknak, az eredménytartaléknak alapítás, tőkeemelés vagy tőkeleszállítás miatti változását, ugyanakkor a jogutódnak az átalakulást követő első adóévben figyelembe kell vennie az összevont átértékelési különbözet értékét. Az alapítás és a tőkeemelés során a jegyzett tőke és a tőketartalék növekedéseként megjelenő tagi hozzájárulást az adózottan képzett saját tőke javára kell elszámolni. A tőkeleszállításkor a társaság tagja részére kiadott vagyon értékét az adózottan képzett saját tőke csökkentéseként, ha az arra nem nyújt fedezetet, akkor a fennmaradó részt az adómentesen képzett saját tőke terhére kell elszámolni. Ha a gazdasági társaság közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaságként folytatja tevékenységét, akkor a közhasznú nyilvántartásba vétele napját megelőző napon kimutatott saját tőkét – az összevont átértékelési különbözet kivételével – az adózottan képzett saját tőke javára kell elszámolni, kivéve az e törvény valamely rendelkezése alapján adómentesen képzett eredménytartalékot, vagy adómentesen képzett saját tőkét, amelyet továbbra is adómentesen nyilvántartott saját tőkeként kell kimutatni.
+(3) A (2) bekezdés a) pontjának alkalmazásához a közhasznú nonprofit gazdasági társaság (értékelési tartalék nélküli) saját tőkéjének az évenkénti változását köteles megbontani adózott és adómentesen képzett részekre, és ennek figyelembevételével meghatározni az adóévi (értékelési tartalék nélküli) saját tőke záró állományának az adózottan és az adómentesen képzett részét. Az adóévi változásból az adómentesen képződött rész javára (terhére) jutó értéket az adóévi kedvezményezett tevékenység bevételének az összes bevételhez viszonyított arányával számítva kell meghatározni. Az évenkénti változás megbontásakor figyelmen kívül kell hagyni a jegyzett tőkének, a tőketartaléknak, az eredménytartaléknak alapítás, tőkeemelés vagy tőkeleszállítás miatti változását, ugyanakkor a jogutódnak az átalakulást követő első adóévben figyelembe kell vennie az összevont átértékelési különbözet értékét. Az alapítás és a tőkeemelés során a jegyzett tőke és a tőketartalék növekedéseként megjelenő tagi hozzájárulást az adózottan képzett saját tőke javára kell elszámolni. A tőkeleszállításkor a társaság tagja részére kiadott vagyon értékét az adózottan képzett saját tőke csökkentéseként, ha az arra nem nyújt fedezetet, akkor a fennmaradó részt az adómentesen képzett saját tőke terhére kell elszámolni. Ha a gazdasági társaság közhasznú nonprofit gazdasági társaságként folytatja tevékenységét, akkor a közhasznú nyilvántartásba vétele napját megelőző napon kimutatott saját tőkét – az összevont átértékelési különbözet kivételével – az adózottan képzett saját tőke javára kell elszámolni, kivéve az e törvény valamely rendelkezése alapján adómentesen képzett eredménytartalékot, vagy adómentesen képzett saját tőkét, amelyet továbbra is adómentesen nyilvántartott saját tőkeként kell kimutatni.
 
-(4) Közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaságok egyesülése, szétválása esetén a (3) bekezdés szerint nyilvántartott adózottan képződött saját tőkét – az átalakulás formájától függően – összesítéssel, illetve megosztással kell megállapítani, majd ezt az értéket
+(4) Közhasznú nonprofit gazdasági társaságok egyesülése, szétválása esetén a (3) bekezdés szerint nyilvántartott adózottan képződött saját tőkét – az átalakulás formájától függően – összesítéssel, illetve megosztással kell megállapítani, majd ezt az értéket
 
 - a) növelni kell az átalakulással egyidejűleg belépő új (külső) tag vagyoni hozzájárulásával, vagy a meglévő tag pótlólagosan teljesítendő vagyoni hozzájárulása miatti saját tőke növekedés értékével,
 - b) csökkenteni kell az átalakulással létrejött társaságban részt venni nem kívánó tag részére kiadásra kerülő eszközök és kötelezettségek értékének különbözete miatti saját tőke csökkenéssel, azonban e csökkentés miatt a nyilvántartott érték nem lehet negatív.
 
-(5) Közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaságok egyesülése, szétválása esetén a (3) bekezdés szerint nyilvántartott adómentesen képződött saját tőkét – az átalakulás formájától függően – összesítéssel, illetve megosztással kell megállapítani, majd ezt az értéket csökkenteni kell az átalakulással létrejött társaságban részt venni nem kívánó tag részére kiadásra kerülő eszközök és kötelezettségek értékének különbsége miatti saját tőke csökkenés értékének a (4) bekezdés b) pontja szerint figyelembe nem vett részével.
+(5) Közhasznú nonprofit gazdasági társaságok egyesülése, szétválása esetén a (3) bekezdés szerint nyilvántartott adómentesen képződött saját tőkét – az átalakulás formájától függően – összesítéssel, illetve megosztással kell megállapítani, majd ezt az értéket csökkenteni kell az átalakulással létrejött társaságban részt venni nem kívánó tag részére kiadásra kerülő eszközök és kötelezettségek értékének különbsége miatti saját tőke csökkenés értékének a (4) bekezdés b) pontja szerint figyelembe nem vett részével.
 
 (6) A szociális szövetkezet az adóalapot az (1)–(5) bekezdés megfelelő alkalmazásával állapítja meg azzal, hogy adózottan képződött saját tőkének kell tekintenie a szociális szövetkezeti működésének megkezdését megelőző napon kimutatott saját tőkét.
 
@@ -550,7 +550,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
   - cb) az adózás előtti eredményt növeli a kedvezményezett átalakulás alapján a 7. § (1) bekezdés gy) pontja szerint az adóévben vagy korábban az adózás előtti eredmény csökkentéseként elszámolt összegből az a rész, amellyel a 8. § (1) bekezdés r) pontja szerint korábban nem növelte adózás előtti eredményét,
   - cc) az adózás előtti eredményt növeli a 7. § (1) bekezdés h) pontja szerint az adóévben vagy korábban az adózás előtti eredmény csökkentéseként elszámolt összegből az a rész, amellyel a 8. § (1) bekezdés t) pontja szerint korábban nem növelte adózás előtti eredményét,
   - cd)
-  - ce) az adózás előtti eredményt növeli a 7. § (1) bekezdés z) pontja szerint az adóévben vagy korábban az adózás előtti eredmény csökkentéseként a közhasznú szervezetekről szóló törvény szerinti tartós adományozásra tekintettel elszámolt többletkedvezmény kétszerese, ha a szerződésben vállaltakat jogutód nélküli megszűnése miatt nem teljesítette a szerződésnek megfelelően,
+  - ce) az adózás előtti eredményt növeli a 7. § (1) bekezdés z) pontja szerint az adóévben vagy korábban az adózás előtti eredmény csökkentéseként az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti tartós adományozásra tekintettel elszámolt többletkedvezmény kétszerese, ha a szerződésben vállaltakat jogutód nélküli megszűnése miatt nem teljesítette a szerződésnek megfelelően,
   - cf) az adózás előtti eredményt növeli a 7. § (1) bekezdés zs) pontja szerint az adózás előtti eredmény csökkentéseként elszámolt összeg azon részének a kétszerese, amelyet a 8. § (1) bekezdésének u) pontja szerint nem számolt el az adózás előtti eredmény növeléseként, ha az adózó az adózás előtti eredmény csökkentésének adóévében, vagy az azt követő négy adóévben szűnik meg jogutód nélkül,
   - cg) egyszeres könyvvitel vezetése esetén az adózás előtti eredményt módosítja az egyszerűsített mérlegben kimutatott tartalék összege,
   - ch) az adózás előtti eredményt növeli a 8. § (1) bekezdés v) pontja szerint megállapított összegnek az a része, amellyel az adózó korábban nem növelte adózás előtti eredményét,
@@ -658,7 +658,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (4) A szokásos haszon az a haszon, amelyet összehasonlítható tevékenységet végző független felek összehasonlítható körülmények között elérnek.
 
-(5) Az adóév utolsó napján kisvállalkozásnak nem minősülő gazdasági társaság, egyesülés, európai részvénytársaság, szövetkezet, európai szövetkezet és külföldi vállalkozó (kivéve a közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaságot, és azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással), a bevallás benyújtásáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet előírásai szerint rögzíteni a szokásos piaci árat, az annak meghatározásánál általa alkalmazott módszert, valamint az azt alátámasztó tényeket és körülményeket.
+(5) Az adóév utolsó napján kisvállalkozásnak nem minősülő gazdasági társaság, egyesülés, európai részvénytársaság, szövetkezet, európai szövetkezet és külföldi vállalkozó (kivéve a közhasznú nonprofit gazdasági társaságot, és azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással), a bevallás benyújtásáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet előírásai szerint rögzíteni a szokásos piaci árat, az annak meghatározásánál általa alkalmazott módszert, valamint az azt alátámasztó tényeket és körülményeket.
 
 (6) Az alapítónak (ide nem értve az átalakulással történő alapítást), a tőkét befogadó, a vagyont kiadó adózónak, továbbá a tagnak (részvényesnek) az (1)–(5) bekezdés előírásait a jegyzett tőke nem pénzbeli hozzájárulással történő teljesítése, emelése, a jegyzett tőke tőkekivonással történő leszállítása esetén, továbbá a jogutód nélküli megszűnéskor a nem pénzben történő vagyonkiadásra, valamint az osztalék nem pénzbeli vagyoni értékű juttatásként történő teljesítésére is alkalmaznia kell, ha többségi befolyással rendelkező vagy az alapítással ilyenné váló tag (részvényes) teljesíti a nem pénzbeli hozzájárulást, illetve részesedik a vagyonból.
 
@@ -678,13 +678,13 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 20. § (1) Nem kell az adót megfizetnie
 
-- a) a közhasznú szervezetnek, kiemelkedően közhasznú szervezetnek nem minősülő alapítványnak, közalapítványnak, társadalmi szervezetnek – kivéve az országos érdekképviseleti szervezetet –, köztestületnek, továbbá a lakásszövetkezetnek, ha – a gazdálkodására vonatkozó külön jogszabályok előírása szerint és a 6. számú mellékletben foglaltakat figyelembe véve nyilvántartott – vállalkozási tevékenységéből elért bevétele legfeljebb 10 millió forint, de nem haladja meg az adóévben elért összes bevételének 10 százalékát,
+- a) a közhasznú szervezetnek nem minősülő alapítványnak, közalapítványnak, egyesületnek – kivéve az országos érdekképviseleti szervezetet –, köztestületnek, továbbá a lakásszövetkezetnek, ha – a gazdálkodására vonatkozó külön jogszabályok előírása szerint és a 6. számú mellékletben foglaltakat figyelembe véve nyilvántartott – vállalkozási tevékenységéből elért bevétele legfeljebb 10 millió forint, de nem haladja meg az adóévben elért összes bevételének 10 százalékát,
 - b)
 - c) az önkéntes kölcsönös biztosító pénztárnak, amennyiben a pénztár kiegészítő vállalkozási tevékenységből származó bevétele nem haladja meg a pénztár összes bevételének a 20 százalékát,
 - d) a vízitársulatnak az (5) bekezdésben – 2009. július 1-jétől a (6) bekezdésben – foglaltak szerinti adóalapra számított adónak olyan része után, amelyet a közfeladatként végzett tevékenységből elért bevétele képvisel az összes bevételen belül,
-- e) a közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaságnak és a szociális szövetkezetnek a (6) bekezdésben foglaltak szerinti adóalapra számított adónak olyan része után, amelyet a 6. számú melléklet E) fejezete alapján megállapított kedvezményezett tevékenységből elért bevétele képvisel az összes bevételen belül.
+- e) a közhasznú nonprofit gazdasági társaságnak és a szociális szövetkezetnek a (6) bekezdésben foglaltak szerinti adóalapra számított adónak olyan része után, amelyet a 6. számú melléklet E) fejezete alapján megállapított kedvezményezett tevékenységből elért bevétele képvisel az összes bevételen belül.
 
-(2) A szociális szövetkezet, közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság és a vízitársulat az adókedvezményeket az adómentességgel csökkentett adó arányában érvényesítheti.
+(2) A szociális szövetkezet, közhasznú nonprofit gazdasági társaság és a vízitársulat az adókedvezményeket az adómentességgel csökkentett adó arányában érvényesítheti.
 
 (3)
 
@@ -975,7 +975,7 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 
 (10) A kettős könyvvitelt vezető belföldi illetőségű adózónak és a külföldi vállalkozónak az adóelőleget az adóévben az adóévi várható fizetendő adó összegére ki kell egészítenie, azzal, hogy a várható fizetendő adó – ha az adózó az Európai Uniótól és/vagy a költségvetésből támogatást kap – e támogatások miatt elszámolt adóévi bevételből az adóév utolsó hónapjának 15. napjáig meg nem kapott összeg figyelembe vétele nélkül számított adóalap alapján megállapított adó összegével azonos. E rendelkezés nem vonatkozik arra az adózóra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg a 100 millió forintot.
 
-(11) Nem kell az (1)–(10) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, a közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, a társadalmi szervezetnek, a köztestületnek, az egyháznak, a lakásszövetkezetnek, a közhasznú szervezetként, kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek és az iskolaszövetkezetnek.
+(11) Nem kell az (1)–(10) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyháznak, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek és az iskolaszövetkezetnek.
 
 ## HARMADIK RÉSZ — OSZTALÉKADÓ
 
@@ -1042,7 +1042,7 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 - a) az 1998. január 1. napjától hatályos előírások választása esetén megelőző adóév árbevételének az adózó 1997. évi árbevételét kell tekinteni abban az esetben is, ha a hivatkozott rendelkezések 1997. december 31. napján hatályos előírása alapján adókedvezményt vett igénybe 1997. évi adójából,
 - b) a választásától az 1998. évet követő években nem térhet el.
 
-29/A. § (1) E törvény alkalmazásában az alapítvány, a közalapítvány, a társadalmi szervezet, a köztestület 1998. január 1-jétől a közhasznú szervezetekről szóló törvényben megjelölt időpontig közhasznú szervezetként, kiemelkedően közhasznú szervezetként besoroltnak tekintendő, ha megfelel a közhasznú szervezetekről szóló törvény 27. §-a (1) és (2) bekezdésében foglaltaknak. Az adományokról szóló igazolásban e szervezeteknek a besorolásig a közhasznú nyilvántartásba vételi kérelem bírósági ügyszámát kell szerepeltetni. Nem tekinthető 1998. évben közhasznú szervezetként, kiemelkedően közhasznú szervezetként besoroltnak az említett szervezetek közül az, amelynek a kérelmét a bíróság 1999. január 1-je előtt elutasította.
+29/A. § (1) E törvény alkalmazásában az alapítvány, a közalapítvány, az egyesület, a köztestület közhasznú szervezetként besoroltnak tekintendő, ha megfelel az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény VII. fejezetében foglaltaknak. Az adományokról szóló igazolásban e szervezeteknek a besorolásig a közhasznú nyilvántartásba vételi kérelem bírósági ügyszámát kell szerepeltetni. Nem tekinthető 1998. évben közhasznú szervezetként, kiemelkedően közhasznú szervezetként besoroltnak az említett szervezetek közül az, amelynek a kérelmét a bíróság 1999. január 1-je előtt elutasította.
 
 (2)-(8)
 
@@ -1491,7 +1491,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 4. az előzetesen felszámított, de az általános forgalmi adóról szóló törvény szerint le nem vonható általános forgalmi adó, feltéve, hogy a vállalkozás érdekében felmerült költséghez, ráfordításhoz kapcsolódik;
 
-5. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, valamint az alapszabálya szerint az adózó vállalkozási tevékenységével kapcsolatos érdekképviseleti feladatot is ellátó társadalmi szervezet számára tagdíj címen fizetett összeg;
+5. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, valamint az alapszabálya szerint az adózó vállalkozási tevékenységével kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címen fizetett összeg;
 
 6. az elektronikus hírközlési szolgáltatás (így különösen helyhez kötött telefonszolgáltatás és mobil rádiótelefon-szolgáltatás) használata, igénybevétele következtében felmerült költség, ráfordítás, továbbá a cégautó használata, fenntartása és üzemeltetése révén felmerült költség, ráfordítás (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is);
 
@@ -1521,7 +1521,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 - 1. a Magyar Nemzeti Bank,
 - 2. a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetek,
-- 3. a kizárólag a fogvatartottak foglalkoztatása céljából létesített közhasznú társaság, illetve a tevékenységét folytató közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság,
+- 3. a kizárólag a fogvatartottak foglalkoztatása céljából létesített közhasznú társaság, illetve a tevékenységét folytató közhasznú nonprofit gazdasági társaság,
 - 4. a Tartalék Gazdálkodási Közhasznú Társaság, illetve a tevékenységét folytató nonprofit gazdasági társaság,
 - 5. a Közlekedési, Hírközlési és Vízügyi Tartalékgazdálkodási Közhasznú Társaság, illetve a tevékenységét folytató nonprofit gazdasági társaság,
 - 6. a Magyar Nemzeti Vagyonkezelő Zrt.,
@@ -1535,19 +1535,19 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 ### 6. számú melléklet az 1996. évi LXXXI. törvényhez
 
-Alapítvány, közalapítvány, társadalmi szervezet, köztestület, lakásszövetkezet, közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, szociális szövetkezet és felsőoktatási intézmény által végzett kedvezményezett tevékenységek
+Alapítvány, közalapítvány, egyesület, köztestület, lakásszövetkezet, közhasznú nonprofit gazdasági társaság, szociális szövetkezet és felsőoktatási intézmény által végzett kedvezményezett tevékenységek
 
 A)
 
-Alapítvány, közalapítvány, társadalmi szervezet és köztestület által végzett kedvezményezett tevékenységek
+Alapítvány, közalapítvány, egyesület és köztestület által végzett kedvezményezett tevékenységek
 
-Az alapítvány, a közalapítvány, a társadalmi szervezet és a köztestület 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
+Az alapítvány, a közalapítvány, az egyesület és a köztestület 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
 
-1. a közhasznú tevékenység, vagy – ha nem minősül közhasznú szervezetnek, kiemelkedően közhasznú szervezetnek – az alapító okiratában, alapszabályában nevesített cél szerinti tevékenység, ideértve mindkét esetben az e tevékenységhez kapott támogatást, juttatást és a tagdíjat is;
+1. a közhasznú tevékenység, vagy – ha nem minősül közhasznú szervezetnek – az alapító okiratában, alapszabályában nevesített cél szerinti tevékenység, ideértve mindkét esetben az e tevékenységhez kapott támogatást, juttatást és a tagdíjat is;
 
-2. a kizárólag a közhasznú tevékenységet vagy – ha nem minősül közhasznú szervezetnek, kiemelkedően közhasznú szervezetnek – a cél szerinti tevékenységet szolgáló immateriális javak, tárgyi eszközök, készletek értékesítésének ellenértéke, bevétele;
+2. a kizárólag a közhasznú tevékenységet vagy – ha nem minősül közhasznú szervezetnek – a cél szerinti tevékenységet szolgáló immateriális javak, tárgyi eszközök, készletek értékesítésének ellenértéke, bevétele;
 
-3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység vagy – ha nem minősül közhasznú szervezetnek, kiemelkedően közhasznú szervezetnek – a cél szerinti tevékenység bevétele az összes bevételben képvisel, azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
+3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység vagy – ha nem minősül közhasznú szervezetnek – a cél szerinti tevékenység bevétele az összes bevételben képvisel, azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
 
 B)
 
@@ -1563,9 +1563,9 @@ C)
 
 D)
 
-A közhasznú szervezetként, kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény által végzett kedvezményezett tevékenységek
+A közhasznú szervezetként besorolt felsőoktatási intézmény által végzett kedvezményezett tevékenységek
 
-A közhasznú szervezetként, kiemelkedően közhasznú szervezetként besorolt felsőoktatási intézmény az 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
+A közhasznú szervezetként besorolt felsőoktatási intézmény az 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
 
 1. a közhasznú tevékenység, ideértve az e tevékenységhez kapott támogatást, juttatást is;
 
@@ -1575,9 +1575,9 @@ A közhasznú szervezetként, kiemelkedően közhasznú szervezetként besorolt 
 
 E)
 
-Közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság és szociális szövetkezet kedvezményezett tevékenysége
+Közhasznú nonprofit gazdasági társaság és szociális szövetkezet kedvezményezett tevékenysége
 
-A közhasznú, a kiemelkedően közhasznú nonprofit gazdasági társaság és a szociális szövetkezet 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló, vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
+A közhasznú nonprofit gazdasági társaság és a szociális szövetkezet 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló, vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
 
 1. a közhasznú tevékenységből származó bevételnek az a része, amely a társadalmi közös szükséglet kielégítéséért felelős szervvel – helyi önkormányzattal vagy a költségvetési törvényben meghatározott fejezettel, illetve a fejezeten belül önálló költségvetéssel rendelkező intézménnyel – folyamatos szolgáltatás teljesítésére megkötött, a szolgáltatásért felszámítható díj mértékét és a díj változtatásának feltételeit is tartalmazó szerződés alapján folytatott tevékenységből származik;
 

@@ -38,7 +38,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
 - 4. egyéb szervezet:
   - a) a lakásszövetkezet,
   - b) a társasház,
-  - c) a társadalmi szervezet, a köztestület,
+  - c) az egyesület, a köztestület,
   - d) az egyházi jogi személy,
   - e) az alapítvány, ideértve a közalapítványt is,
   - f) az ügyvédi iroda, a szabadalmi ügyvivő iroda, a végrehajtói iroda, a közjegyzői iroda,

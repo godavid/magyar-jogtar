@@ -2019,7 +2019,7 @@ költségének fedezetét.
 
 143. § Az egészségügy szervezésével és irányításával kapcsolatos feladatok ellátásáért, valamint az ezekkel összefüggő jogok gyakorlásáért és kötelezettségek teljesítéséért való felelősség – az e törvényben foglaltaknak megfelelően – az Országgyűlést, a Kormányt, a minisztert, az egészségügyi államigazgatási szervet, a helyi önkormányzatokat, az egészségügyi szolgáltatók további fenntartóit, az egészségbiztosítási szerveket, a Regionális Egészségügyi Tanácsokat (a továbbiakban: RET) terheli.
 
-144. § (1) Az állam a rendelkezésére álló eszközökkel támogatja és elősegíti az egészségügy területén működő szakmai kamaráknak és más köztestületeknek, valamint szakmai érdekképviseleti szerveknek, szakmai egyesületeknek és más társadalmi szervezeteknek az e törvényben foglaltakkal összhangban levő tevékenységét.
+144. § (1) Az állam a rendelkezésére álló eszközökkel támogatja és elősegíti az egészségügy területén működő szakmai kamaráknak és más köztestületeknek, valamint szakmai érdekképviseleti szerveknek, szakmai egyesületeknek és más civil szervezeteknek az e törvényben foglaltakkal összhangban levő tevékenységét.
 
 (2) Az állam az (1) bekezdés szerinti szervekkel együttműködik abból a célból, hogy a lakosság egészségi állapotának javítása, illetőleg a jobb életminőség érdekében elősegítse az e törvényben meghatározott célok és alapelvek érvényesülését, valamint az egészségkárosító környezeti, társadalmi és egyéb hatások elleni eredményes fellépést.
 
@@ -2216,7 +2216,7 @@ költségének fedezetét.
 - c) képviseli az érintett lakosság érdekeit az intézmény működésében,
 - d) figyelemmel kíséri az intézmény működését.
 
-(4) A kórházi felügyelő tanács három, hat, kilenc, tizenkettő vagy tizenöt tagból álló testület. A tagok több mint a felét az egészségügyi intézmény ellátási körzetében, az egészségügy területén működő társadalmi szervezetek küldötteiből, a többi tagot az intézmény küldötteiből kell megválasztani. A tanács elnökét a társadalmi szervezetek küldöttei közül kell megválasztani.
+(4) A kórházi felügyelő tanács három, hat, kilenc, tizenkettő vagy tizenöt tagból álló testület. A tagok több mint a felét az egészségügyi intézmény ellátási körzetében, az egészségügy területén működő egyesületek küldötteiből, a többi tagot az intézmény küldötteiből kell megválasztani. A tanács elnökét az egyesületek küldöttei közül kell megválasztani.
 
 (5) Az önkormányzati tulajdonban lévő egészségügyi intézmények esetében a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a tagok legfeljebb egyharmadát az egészségügyi intézmény ellátási körzetéhez tartozó települési önkormányzatok küldötteiből, a további tagok felét a (4) bekezdésben megjelölt társadalmi szervezetek küldötteiből, a többi tagot az intézmény küldötteiből kell megválasztani.
 
@@ -3081,7 +3081,7 @@ megítéléséhez szükséges.
 225. § (1) A gyógyításhoz szükséges vér és vérkészítmények biztosítása körében a vérellátás feladatát képezi
 
 - a) a szükségletek felmérése,
-- b) a Magyar Vöröskereszttel és más társadalmi szervezetekkel együttműködve a véradások szervezése,
+- b) a Magyar Vöröskereszttel és más civil szervezetekkel együttműködve a véradások szervezése,
 - c) a véradók kivizsgálása,
 - d) a vér levétele terápiás készítmény előállítása céljából,
 - e) a vérkészítmények előállítása, beszerzése és vizsgálata,
