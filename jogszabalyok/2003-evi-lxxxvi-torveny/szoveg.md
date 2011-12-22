@@ -380,7 +380,7 @@ A Tanács
 - a) a szakképesítésért felelős minisztériumok egy-egy képviselőjéből,
 - b) a civil szervezetek által javasolt személyből,
 - c) a szakképzés, a felnőttképzés és a felsőoktatás területén elismert egy-egy szakértőből,
-- d) a szakképzés területén működő szakmai társadalmi szervezet képviselőjéből,
+- d) a szakképzés területén működő szakmai civil szervezet képviselőjéből,
 - e) a felnőttképzést folytató intézmények érdek-képviseleti szervezeteinek képviselőjéből,
 - f) az Országos Érdekegyeztető Tanácsban (a továbbiakban: OÉT) képviselettel rendelkező országos munkaadói szövetségek kilenc, illetve az országos munkavállalói szövetségek hat képviselőjéből,
 - g) az országos gazdasági kamarák egy-egy képviselőjéből,

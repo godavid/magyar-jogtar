@@ -209,7 +209,7 @@ szabható ki.
 
 ### A sportegyesület
 
-16. § (1) Sportegyesület – az e törvényben megállapított eltérésekkel – az egyesülési jogról szóló törvény, illetve a Polgári Törvénykönyv szabályai szerint működő olyan társadalmi szervezet, amelynek alaptevékenysége a sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése.
+16. § (1) Sportegyesület – az e törvényben megállapított eltérésekkel – az egyesülési jogról szóló törvény, illetve a Polgári Törvénykönyv szabályai szerint működő olyan egyesület, amelynek alaptevékenysége a sporttevékenység szervezése, valamint a sporttevékenység feltételeinek megteremtése.
 
 (2) A sportegyesület a magyar sport hagyományos szervezeti alapegysége, a szabadidősport, a versenysport, a tehetséggondozás és az utánpótlás-nevelés műhelye. Sportegyesület közvetlenül is részesíthető állami (önkormányzati) támogatásban.
 
@@ -245,7 +245,7 @@ szabható ki.
 
 ### A sportszövetségek típusai
 
-19. § (1) A sportszövetségek meghatározott sporttevékenységek körében a sportversenyek szervezésére, a tagok érdekvédelmére és a részükre való szolgáltatásokra, valamint a nemzetközi kapcsolatok lebonyolítására létrehozott, jogi személyiséggel és önkormányzattal rendelkező társadalmi szervezetek.
+19. § (1) A sportszövetségek meghatározott sporttevékenységek körében a sportversenyek szervezésére, a tagok érdekvédelmére és a részükre való szolgáltatásokra, valamint a nemzetközi kapcsolatok lebonyolítására létrehozott, jogi személyiséggel és önkormányzattal rendelkező egyesületek.
 
 (2) Az országos sportági szakszövetségre a sportszövetségekre vonatkozó rendelkezéseket az e törvényben, valamint a Polgári Törvénykönyvben meghatározott eltérésekkel kell alkalmazni.
 
@@ -265,7 +265,7 @@ szabható ki.
 
 (2) A szakszövetségnek kizárólag olyan sportszervezetek és sportiskolák lehetnek tagjai, amelyek az adott sportág versenyrendszerében részt vesznek. A sportágban tevékenykedő sportszervezetek és sportiskolák felvétele a szakszövetségbe nem tagadható meg, ha a sportszervezet és a sportiskola magára nézve kötelezőnek elfogadja a szakszövetség alapszabályát.
 
-(3) A szakszövetségre – amennyiben e törvény eltérően nem rendelkezik – az Et. társadalmi szervezetekre és a Ptk. egyesületekre vonatkozó szabályait kell megfelelően alkalmazni. Egy sportágban csak egy szakszövetség működhet.
+(3) A szakszövetségre – amennyiben e törvény eltérően nem rendelkezik – az Et. egyesületekre és a Ptk. egyesületekre vonatkozó szabályait kell megfelelően alkalmazni. Egy sportágban csak egy szakszövetség működhet.
 
 (4) Szakszövetség csak olyan sportágban hozható létre:
 
@@ -280,7 +280,7 @@ szabható ki.
 
 21. § (1) A szakszövetséget a Fővárosi Bíróság hatáskörrel és kizárólagos illetékességgel külön jogi személy típusként veszi nyilvántartásba.
 
-(2) A szakszövetség jogosult elnevezésében a ,,magyar'' megjelölés, továbbá a Magyar Köztársaság címerének és zászlajának használatára. A szakszövetség a közhasznú szervezetekről szóló törvény szabályai alapján közhasznú, illetve kiemelkedően közhasznú szervezetnek minősíthető.
+(2) A szakszövetség jogosult elnevezésében a ,,magyar'' megjelölés, továbbá a Magyar Köztársaság címerének és zászlajának használatára. A szakszövetség az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (továbbiakban: Civil tv.) szabályai alapján közhasznú szervezetnek minősíthető.
 
 22. § (1) A szakszövetség alapvető feladata:
 
@@ -289,7 +289,7 @@ szabható ki.
 - c) részt venni a sportág nemzetközi szövetségének munkájában, szervezni a sportág részvételét a nemzetközi sportkapcsolatokban,
 - d) működtetni a nemzeti válogatott kereteket, elősegíteni a sportágához tartozó sportolók részvételét a nemzetközi sporteseményeken,
 - e) meghatározni a sportág stratégiai fejlesztési koncepcióit (ideértve az utánpótlás-nevelés fejlesztését is) és gondoskodni ezek megvalósításáról,
-- f) képviselni a sportág érdekeit az állami szervek, a Nemzeti Sportszövetség, a Magyar Olimpiai Bizottság, a többi sportszövetség, illetve más társadalmi szervezetek előtt, valamint a nemzetközi sportéletben,
+- f) képviselni a sportág érdekeit az állami szervek, a Nemzeti Sportszövetség, a Magyar Olimpiai Bizottság, a többi sportszövetség, illetve más egyesületek előtt, valamint a nemzetközi sportéletben,
 - g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagjainak, közreműködni a tagok közötti viták rendezésében, elősegíteni a sportágában működő sportszakemberek képzését és továbbképzését,
 - h) meghatározni a sportág utánpótlás-fejlesztési koncepcióját és gondoskodni annak végrehajtásáról.
 
@@ -365,7 +365,7 @@ szabható ki.
 - b) a területi szervezet részére olyan vezetési-szervezeti rendet állapíthat meg, mely szerint a szakszövetség adott területen székhellyel rendelkező tagjai gyűlésükön maguk választhatják meg a szervezeti egység vezetőit,
 - c) a területi szervezet illetékességi területén székhellyel rendelkező tagjai tagdíját a területi szervezet rendelkezésére bocsáthatja, és ezáltal is biztosíthatja a szervezeti egység önálló gazdálkodásának lehetőségét,
 - d) lehetővé teheti, hogy a területi szervezetek saját nevükben szponzorálási szerződéseket, illetve a helyi (települési, területi) önkormányzatokkal támogatási szerződéseket kössenek, és az ebből származó bevételekkel maguk rendelkezzenek,
-- e) lehetővé teheti, hogy más szakszövetségek (sportszövetségek) területi szervezeti egységeivel területi jellegű társadalmi szervezeteket hozzanak létre.
+- e) lehetővé teheti, hogy más szakszövetségek (sportszövetségek) területi szervezeti egységeivel területi jellegű egyesületeket hozzanak létre.
 
 (4) A területi szervezeti egységekre megállapított szabályokat megfelelően alkalmazni kell a szakszövetség jogi személy szervezeti egységgé nyilvánított tagozataira, testületeire és szakágaira is.
 
@@ -392,7 +392,7 @@ szabható ki.
 
 ### A sportági szövetségek
 
-28. § (1) A sportági szövetség az Et. alapján működő társadalmi szervezetek szövetsége, amelynek tagjai kizárólag sportszervezetek, sportiskolák lehetnek. Sportági szövetség országos jelleggel is működhet. Egy sportágban csak egy országos sportági szövetség működhet.
+28. § (1) A sportági szövetség az Et. alapján működő egyesületek szövetsége, amelynek tagjai kizárólag sportszervezetek, sportiskolák lehetnek. Sportági szövetség országos jelleggel is működhet. Egy sportágban csak egy országos sportági szövetség működhet.
 
 (2) A szakszövetségnek az e törvényben és a külön jogszabályokban meghatározott feladatait az országos sportági szövetség akkor láthatja el, ha nem felel meg a 20. § (4)–(5) bekezdésében meghatározott feltételeknek és:
 
@@ -401,7 +401,7 @@ szabható ki.
 - c) a b) pont szerinti sportági szakszövetség tagja,
 - d) legalább a sportágában tevékenykedő tíz sportszervezet taggal rendelkezik, és versenyrendszerében rendszeresen legalább száz – versenyengedéllyel rendelkező – versenyző vesz részt,
 - e) legalább három éve folyamatosan országos jellegű versenyrendszert működtet,
-- f) szerepel az illetékes bíróság társadalmi szervezeti nyilvántartásában, és alapszabályán kívül rendelkezik az e törvényben és a külön jogszabályokban megállapított, a szakszövetségek részére kötelezővé tett szabályzatokkal.
+- f) szerepel az illetékes bíróság egyesületi nyilvántartásában, és alapszabályán kívül rendelkezik az e törvényben és a külön jogszabályokban megállapított, a szakszövetségek részére kötelezővé tett szabályzatokkal.
 
 (3) Az országos sportági szövetséget megfelelően megilletik és terhelik a szakszövetségekre e törvényben és más jogszabályokban meghatározott jogok és kötelezettségek.
 
@@ -593,7 +593,7 @@ kezeli.
 
 ### A Magyar Paralimpiai Bizottság
 
-40. § (1) A Magyar Paralimpiai Bizottság (a továbbiakban: MPB) köztestület, amely a közhasznú szervezetekről szóló törvény szerinti közhasznú társasági nyilvántartásba vétel nélkül kiemelkedően közhasznú szervezetnek minősül. Az MPB-t a sportigazgatási szerv tartja nyilván. Az MPB jogosult a Magyar Köztársaság címerének és zászlajának használatára.
+40. § (1) A Magyar Paralimpiai Bizottság (a továbbiakban: MPB) köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. Az MPB-t a sportigazgatási szerv tartja nyilván. Az MPB jogosult a Magyar Köztársaság címerének és zászlajának használatára.
 
 (2) Az MPB feletti törvényességi felügyeletet az ügyészség gyakorolja.
 
@@ -657,13 +657,13 @@ kezeli.
 
 ### A Nemzeti Sportszövetség
 
-42. § (1) A Nemzeti Sportszövetség a szakszövetségek, illetve az országos sportági szövetségek önkéntes részvételével működő – a közhasznú szervezetekről szóló törvény szerinti közhasznú társasági nyilvántartásba vétel nélkül kiemelkedően közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
+42. § (1) A Nemzeti Sportszövetség a szakszövetségek, illetve az országos sportági szövetségek önkéntes részvételével működő – a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
 
 (2) A szakszövetségek – a Nemzeti Sportszövetség alapszabályának elfogadása esetén – alanyi jogon, az országos sportági szövetségek pedig a Nemzeti Sportszövetség közgyűlésének az össztaglétszám kétharmados többségével hozott határozata alapján lehetnek tagjai a Nemzeti Sportszövetségnek.
 
 (3) A Nemzeti Sportszövetség:
 
-- a) képviseli tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség, illetve más társadalmi szervezetek előtt,
+- a) képviseli tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség, illetve más egyesületek előtt,
 - b) összehangolja tagjai tevékenységét, illetve versenyrendszerét, összeállítja az országos összesített versenynaptárt, valamint sportszakmai, gazdasági, jogi és egyéb szolgáltatásokat nyújt, és pályázatokat ír ki tagjai részére,
 - c) együttműködik a sportigazgatási szervvel, a MOB-bal, az MPB-vel és a további két nemzeti sportszövetséggel a magyar sport fejlesztése érdekében,
 - d) véleményt nyilvánít sportpolitikai kérdésekben, kezdeményezi kormányzati intézkedések megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,
@@ -683,11 +683,11 @@ kezeli.
 
 ### A Nemzeti Szabadidősport Szövetség
 
-43. § (1) A Nemzeti Szabadidősport Szövetség az országos szabadidősport szövetségek önkéntes részvételével működő – a közhasznú szervezetekről szóló törvény szerinti közhasznú társasági nyilvántartásba vétel nélkül kiemelkedően közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
+43. § (1) A Nemzeti Szabadidősport Szövetség az országos szabadidősport szövetségek önkéntes részvételével működő – a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
 
 (2) A Nemzeti Szabadidősport Szövetség:
 
-- a) képviseli a szabadidősport, illetve tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség és más társadalmi szervezetek előtt,
+- a) képviseli a szabadidősport, illetve tagjai közös érdekeit az állami szervek, az önkormányzatok, a MOB, az MPB, a további két nemzeti sportszövetség és más egyesületek előtt,
 - b) összehangolja tagjai tevékenységét, továbbá sportszakmai, gazdasági, jogi és más szolgáltatásokat nyújt, pályázatokat ír ki részükre,
 - c) véleményt nyilvánít sportpolitikai kérdésekben, kezdeményezi kormányzati intézkedések megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,
 - d) részt vesz a szabadidősporttal kapcsolatos nemzetközi együttműködésben,
@@ -704,11 +704,11 @@ kezeli.
 
 ### A Fogyatékosok Nemzeti Sportszövetsége
 
-44. § (1) A Fogyatékosok Nemzeti Sportszövetsége a fogyatékosok sportja területén működő országos sportszövetségek önkéntes részvételével működő – a közhasznú szervezetekről szóló törvény szerinti közhasznú társasági nyilvántartásba vétel nélkül kiemelkedően közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
+44. § (1) A Fogyatékosok Nemzeti Sportszövetsége a fogyatékosok sportja területén működő országos sportszövetségek önkéntes részvételével működő – a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősülő – köztestület, amelyet a sportigazgatási szerv tart nyilván.
 
 (2) A Fogyatékosok Nemzeti Sportszövetsége:
 
-- a) képviseli az állami szervek, az önkormányzatok, a további két nemzeti sportszövetség, és más társadalmi szervezetek előtt a fogyatékosok sportjának érdekeit,
+- a) képviseli az állami szervek, az önkormányzatok, a további két nemzeti sportszövetség, és más egyesületek előtt a fogyatékosok sportjának érdekeit,
 - b) összehangolja tagjai tevékenységét, továbbá sportszakmai, gazdasági, jogi és más szolgáltatásokat nyújt, pályázatokat ír ki tagjai részére,
 - c) részt vesz a fogyatékosok nemzetközi sportszervezeteinek tevékenységében,
 - d) véleményt nyilvánít sportpolitikai kérdésekben, kezdeményezi kormányzati intézkedések megtételét, véleményezi a sporttal kapcsolatos jogszabálytervezeteket,

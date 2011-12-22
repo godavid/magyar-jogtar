@@ -307,7 +307,7 @@ A Magyar Köztársaság területi épségének, függetlenségének, alkotmányo
 
 (2) Az állomány tagja nem csatlakozhat olyan szervezethez, amelynek tevékenysége a Honvédség feladataival ellentétes.
 
-(3) Az állomány tagja köteles a hivatásával össze nem függő társadalmi szervezettel fennálló, illetőleg az újonnan létesülő tagsági viszonyát előzetesen az állományilletékes parancsnoknak szóban vagy írásban bejelenteni. Az állományilletékes parancsnok a tagsági viszony fenntartását vagy létesítését írásban megtiltja, ha az a hivatással vagy a szolgálati beosztással nem egyeztethető össze, illetőleg megtilthatja, ha a szolgálat érdekeit sérti vagy veszélyezteti.
+(3) Az állomány tagja köteles a hivatásával össze nem függő egyesülettel fennálló, illetőleg az újonnan létesülő tagsági viszonyát előzetesen az állományilletékes parancsnoknak szóban vagy írásban bejelenteni. Az állományilletékes parancsnok a tagsági viszony fenntartását vagy létesítését írásban megtiltja, ha az a hivatással vagy a szolgálati beosztással nem egyeztethető össze, illetőleg megtilthatja, ha a szolgálat érdekeit sérti vagy veszélyezteti.
 
 (4) Az állomány tagja kamarai tagsághoz kötött tevékenység esetén – a külön törvényben meghatározott feltételek szerint – lehet az illetékes szakmai kamara tagja.
 
@@ -589,7 +589,7 @@ A Magyar Köztársaság területi épségének, függetlenségének, alkotmányo
 - g) a központi és a helyi közigazgatási szerveknél (a szerződéses állomány kivételével),
 - h) a nem katonai felsőoktatási intézményeknél,
 - i) a tudományos (kutató) és kulturális intézményeknél,
-- j) a honvédelmi vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervezetnél, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetnél, illetve társadalmi szervezetnél,
+- j) a honvédelmi vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervezetnél, továbbá a Honvédség tevékenységét elősegítő közhasznú szervezetnél, illetve egyesületnél,
 - k) a bíróságoknál és az Országos Igazságszolgáltatási Tanács Hivatalában,
 - l) az egészségügyi intézményeknél
 
@@ -3091,7 +3091,7 @@ Ezek különösen az alábbiak:
 
 233. § A nyugállomány tagja érdemeinek elismerése megegyezik a hivatásos állományéval, az adományozás rendjét külön jogszabály tartalmazza.
 
-234. § A nyugállomány tagja jogosultságainak érvényesítését, a velük való kapcsolattartást felvállaló társadalmi szervezetek támogathatók. A nyugállomány tagja ügyeinek intézése, az alap- és szakosított ellátások, szolgáltatások igénybevételének biztosítása, a miniszter által kijelölt központi szerv, illetve a lakóhely szerint illetékes hadkiegészítő parancsnokságok feladata.
+234. § A nyugállomány tagja jogosultságainak érvényesítését, a velük való kapcsolattartást felvállaló egyesületek támogathatók. A nyugállomány tagja ügyeinek intézése, az alap- és szakosított ellátások, szolgáltatások igénybevételének biztosítása, a miniszter által kijelölt központi szerv, illetve a lakóhely szerint illetékes hadkiegészítő parancsnokságok feladata.
 
 ### XVIII. Fejezet — SZOCIÁLIS ÉS KEGYELETI GONDOSKODÁS
 

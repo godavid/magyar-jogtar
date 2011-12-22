@@ -4,7 +4,7 @@ a szakszervezeti vagyon védelméről, a munkavállalók szervezkedési és szer
 
 Az elmúlt társadalmi rendszerben hozott döntések következtében tisztázatlanná váltak a munkavállalói érdekképviseleti és érdekvédelmi szervezetek vagyoni viszonyai. A jogilag rendezetlen helyzet veszélyezteti e szervek működőképességét és gátolja a szervezkedési szabadság alkotmányos jogának érvényesülését. A helyzet megoldása érdekében az Országgyűlés az alábbi törvényt alkotja:
 
-1. § E törvény hatálya kiterjed az egyesülési jogról szóló 1989. évi II. törvény alapján nyilvántartásba vett valamennyi munkavállalói érdekképviseleti szervezetre (a továbbiakban: szakszervezet).
+1. § E törvény hatálya kiterjed az egyesülési jogról szóló törvény alapján nyilvántartásba vett valamennyi munkavállalói érdekképviseleti szervezetre (a továbbiakban: szakszervezet).
 
 2. § (1) A szakszervezetek kötelesek a vagyonukkal elszámolni.
 

@@ -462,7 +462,7 @@ vízkészleteket fokozott védelemben kell részesíteni.
 
 (3) A Tanácsban egyenlő arányban vesznek részt
 
-- a) a környezetvédelmi céllal bejegyzett társadalmi szervezetek, valamint
+- a) a környezetvédelmi céllal bejegyzett egyesületek, valamint
 - b) a szakmai és gazdasági érdekképviseleti szervek a maguk által meghatározott módon választott,
 - c) a tudományos élet, a Magyar Tudományos Akadémia elnöke által e tisztségre megbízott
 
@@ -483,7 +483,7 @@ képviselői.
 - a) biztosítja a környezet védelmét szolgáló jogszabályok végrehajtását, ellátja a hatáskörébe utalt hatósági feladatokat;
 - b) önálló települési környezetvédelmi programot dolgoz ki a 48/E. §-ban foglaltak szerint, amelyet képviselő-testülete (közgyűlése) hagy jóvá;
 - c) a környezetvédelmi feladatok megoldására önkormányzati rendeletet bocsát ki, illetőleg határozatot hoz;
-- d) együttműködik a környezetvédelmi feladatot ellátó egyéb hatóságokkal, más önkormányzatokkal, társadalmi szervezetekkel;
+- d) együttműködik a környezetvédelmi feladatot ellátó egyéb hatóságokkal, más önkormányzatokkal, egyesületekkel;
 - e) elemzi, értékeli a környezet állapotát illetékességi területén, és arról szükség szerint, de legalább évente egyszer tájékoztatja a lakosságot;
 - f) a fejlesztési feladatok során érvényesíti a környezetvédelem követelményeit, elősegíti a környezeti állapot javítását.
 
@@ -1193,12 +1193,12 @@ A KÖRNYEZETVÉDELEMBEN
 (3) A részvétel joga gyakorolható:
 
 - a) személyesen vagy képviselő útján,
-- b) társadalmi szervezetek révén,
+- b) egyesületek révén,
 - c) települési önkormányzatok útján.
 
-### A környezetvédelmi társadalmi szervezetek jogai
+### A környezetvédelmi egyesületek jogai
 
-98. § (1) A környezetvédelmi érdekek képviseletére létrehozott egyesületeket és más, politikai pártnak, érdekképviseletnek nem minősülő – a hatásterületen működő – társadalmi szervezeteket (a továbbiakban: szervezet) a környezetvédelmi államigazgatási eljárásokban a működési területükön az ügyfél jogállása illeti meg.
+98. § (1) A környezetvédelmi érdekek képviseletére létrehozott politikai pártnak és érdekképviseletnek nem minősülő, a hatásterületen működő egyesületeket (a továbbiakban: szervezet) a környezetvédelmi államigazgatási eljárásokban a működési területükön az ügyfél jogállása illeti meg.
 
 (2) A szervezet joga továbbá, hogy tagsága érdekeit képviselve
 

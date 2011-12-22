@@ -6,7 +6,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 ### I. Fejezet — A törvény hatálya
 
-1. § E törvény hatálya azokra a társadalmi szervezetekre terjed ki, amelyek nyilvántartott tagsággal rendelkeznek, és amelyek a nyilvántartásba vételüket végző bíróság előtt kinyilvánítják, hogy e törvény rendelkezéseit magukra nézve kötelezőnek ismerik el.
+1. § E törvény hatálya azokra a egyesületekre terjed ki, amelyek nyilvántartott tagsággal rendelkeznek, és amelyek a nyilvántartásba vételüket végző bíróság előtt kinyilvánítják, hogy e törvény rendelkezéseit magukra nézve kötelezőnek ismerik el.
 
 ### II. Fejezet — A párt működése
 
@@ -26,9 +26,9 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (2) A bíróság az ügyészség indítványára megállapítja a párt megszűnését, ha az tevékenységével felhagy és vagyonáról nem rendelkezik.
 
-(3) A bíróság az ügyészség indítványára — a párt társadalmi szervezetként való további működésének érintetlenül hagyásával — megállapítja a párt működésének megszűnését, ha a párt egymást követő két általános országgyűlési képviselői választáson nem állít jelöltet.
+(3) A bíróság az ügyészség indítványára — a párt egyesületként való további működésének érintetlenül hagyásával — megállapítja a párt működésének megszűnését, ha a párt egymást követő két általános országgyűlési képviselői választáson nem állít jelöltet.
 
-(4) A (3) bekezdésben említett esetben a társadalmi szervezet megszűnésének vagyoni következményeire továbbra is e törvény rendelkezései az irányadóak.
+(4) A (3) bekezdésben említett esetben a egyesület megszűnésének vagyoni következményeire továbbra is e törvény rendelkezései az irányadóak.
 
 (5) A párt feloszlása esetén a párt bejegyzett képviselője a következő tartalmú közleményt köteles megjelentetni a Magyar Közlönyben:
 
@@ -86,7 +86,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (2) A pénzügyi kimutatásban az egy naptári év alatt adott, ötszázezer forintot meghaladó hozzájárulásokat, illetve a százezer forintnak megfelelő értéket meghaladó külföldről származó hozzájárulásokat — a hozzájárulást adó megnevezésével és az összeg megjelölésével — külön kell feltüntetni.
 
-(3) A párt gazdálkodására egyebekben a társadalmi szervezetek gazdálkodására vonatkozó általános szabályokat kell alkalmazni.
+(3) A párt gazdálkodására egyebekben a egyesületek gazdálkodására vonatkozó általános szabályokat kell alkalmazni.
 
 ### IV/A. Fejezet — A párt működését segítő, tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítvány
 
@@ -131,9 +131,9 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 14. § Az e törvény hatálybalépésekor működő pártoknak a törvény hatálybalépésétől számított három hónapon belül kell kérniük nyilvántartásba vételüket. E pártok bejegyzése nem érinti jogi személyiségük jogfolytonosságát.
 
-15. § Ha már bejegyzett társadalmi szervezet pártként kíván működni, köteles bejelenteni a bíróságnak, hogy a pártok működéséről és gazdálkodásáról szóló törvényt magára nézve kötelezőnek ismeri el, és alapszabályát egyidejűleg a bíróságnak benyújtani.
+15. § Ha már bejegyzett egyesület pártként kíván működni, köteles bejelenteni a bíróságnak, hogy a pártok működéséről és gazdálkodásáról szóló törvényt magára nézve kötelezőnek ismeri el, és alapszabályát egyidejűleg a bíróságnak benyújtani.
 
-16. § Pártként az a társadalmi szervezet működhet, amely bejegyzési kérelmével, illetőleg a 15. §-ban említett bejelentésével egyidejűleg a 2. számú mellékletben meghatározottak szerinti vagyonmérlegét a bírósághoz benyújtotta.
+16. § Pártként az a egyesület működhet, amely bejegyzési kérelmével, illetőleg a 15. §-ban említett bejelentésével egyidejűleg a 2. számú mellékletben meghatározottak szerinti vagyonmérlegét a bírósághoz benyújtotta.
 
 17. §
 

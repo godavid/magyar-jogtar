@@ -136,7 +136,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
   - bb) a nők és férfiak esélyegyenlőségéért küzdő országos szervezetek egy állandó képviselője;
 - c) meghívottként, a tevékenységüket, illetve szervezetüket érintő napirendek tárgyalásán tanácskozási joggal részt vesznek mindazon szervezetek vezetői, amelyeket a Tanács döntése közvetlenül érint. A Tanács az ügyrendjében dönthet az állandó meghívottakról.
 
-(3) Konzultációs joggal rendelkeznek mindazon bírósági nyilvántartásba vett országos társadalmi szervezetek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre. Az egyeztető fórum véleményét a Tanács ülésén az adott napirend tárgyalásakor ismertetni kell.
+(3) Konzultációs joggal rendelkeznek mindazon bírósági nyilvántartásba vett országos egyesületek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre. Az egyeztető fórum véleményét a Tanács ülésén az adott napirend tárgyalásakor ismertetni kell.
 
 (4) A Tanács
 
@@ -170,7 +170,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - c) a 17. § (8) bekezdésében foglalt régió területén működő szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirat szerinti tevékenységét legalább egy megyére kiterjedően végzi, és ezt jogszabályban meghatározott módon, hitelt érdemlően igazolja;
 - d) a 10/D. § (2) bekezdésében foglalt kistérségben működő szervezetnek a szervezetet abban az esetben kell tekinteni, ha a létesítő okirat szerinti tevékenységét legalább a kistérség településeinek több mint felében vagy a népesség több mint felét jelentő településeken végzi, és ezt jogszabályban meghatározott módon, hitelt érdemlően igazolja.
 
-(10) A (9) bekezdés alkalmazásában szervezet alatt a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény 14. § b) pontjában foglalt civil szervezeteket kell érteni.
+(10) A (9) bekezdés alkalmazásában szervezet alatt az egyesülési jogról, közhasznúságról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezetet kell érteni.
 
 ### A miniszter és más miniszterek feladatai
 
@@ -261,12 +261,12 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
   - bb) a megyei területfejlesztési tanács képviselője,
   - bc) a megyei munkaügyi tanácsba delegálási joggal rendelkező munkaadói és munkavállalói szervezetek egy-egy kistérségi illetékességű képviselője,
   - bd) az iparosok és kiskereskedők országos szakmai érdekvédelmi szervezeteinek egy kistérségi illetékességű képviselője,
-  - be) a társadalmi szervezetek fóruma által delegált, a civil szervezetek egy képviselője,
+  - be) az egyesületek fóruma által delegált, a civil szervezetek egy képviselője,
   - bf) a Kormány általános hatáskörű területi államigazgatási szerve képviselője,
   - bg) a kincstár képviselője;
 - c) meghívottként az e szervezeteket (személyeket) érintő napirendek tárgyalásán tanácskozási joggal vesznek részt mindazon gazdasági, társadalmi és egyéb szervezetek képviselői, amelyeket a kistérségi fejlesztési tanács döntése közvetlenül érint vagy amelyeket (akit) az ülésen való részvételre felkérnek. A kistérségi fejlesztési tanács a szervezeti és működési szabályzatában szabályozhatja a kisebbségi önkormányzatok részvételét a tanács munkájában.
 
-(2) Konzultációs joggal rendelkeznek a kistérségben működő mindazon bírósági nyilvántartásba vett társadalmi szervezetek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre, és a kistérségi fejlesztési tanácsnál jelzik együttműködési szándékukat. Az egyeztető fórum véleményét az adott napirend tárgyalásakor ismertetni kell.
+(2) Konzultációs joggal rendelkeznek a kistérségben működő mindazon bírósági nyilvántartásba vett egyesületek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre, és a kistérségi fejlesztési tanácsnál jelzik együttműködési szándékukat. Az egyeztető fórum véleményét az adott napirend tárgyalásakor ismertetni kell.
 
 (3) A kistérségi fejlesztési tanács polgármester tagjainak megbízatása polgármesteri megbízatásuk időtartamára szól. Egy polgármester külön – az érintett képviselőtestületek által adott állandó vagy eseti – meghatalmazással több polgármestert is képviselhet. A többi tagot delegáló szerv a képviselő személyéről, illetve annak megváltoztatásáról szabadon dönthet.
 
@@ -295,9 +295,9 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 10/F. § (1) A kistérségi fejlesztési tanács szakmai munkaszervezet létrehozásával vagy más módon biztosítja a feladatainak végrehajtásához és döntéseinek előkészítéséhez kapcsolódó alábbi feladatok ellátását:
 
 - a) előkészíti a kistérségi fejlesztési tanács üléseit, döntéseit, elsősorban a kistérség területfejlesztési koncepcióját, programját és az ebben foglaltak megvalósítását szolgáló projekteket;
-- b) a kistérségben összegyűjti és további előkészítésre alkalmassá teszi a gazdasági és társadalmi szervezeteknek a fejlesztési programokkal, projektekkel kapcsolatos elképzeléseit;
+- b) a kistérségben összegyűjti és további előkészítésre alkalmassá teszi a gazdasági szervezeteknek és egyesületeknek a fejlesztési programokkal, projektekkel kapcsolatos elképzeléseit;
 - c) folyamatos kapcsolatot tart a megyei területfejlesztési tanács munkaszervezetével, a regionális fejlesztési ügynökséggel, a kistérségi megbízottakkal, a kistérségben működő közigazgatási szervezetekkel, intézményekkel a fejlesztési szükségletek és a bevonható helyi források feltárása érdekében;
-- d) közreműködik a társadalmi szervezetek fórumának működtetésében;
+- d) közreműködik az egyesületek fórumának működtetésében;
 - e) közreműködik a kistérségi fejlesztési tanács által a központi és regionális forrásokra benyújtandó pályázatok elkészítésében, az ezzel kapcsolatos szervezési feladatok ellátásában;
 - f) a kistérségben lévő egyes önkormányzatoktól, önkormányzati társulásoktól és vállalkozásoktól a pályázatok kidolgozásához, a fejlesztések lebonyolításához megbízást vállalhat, mely az a)–e) pontokban meghatározott feladatai ellátását nem veszélyeztetheti.
 
@@ -388,7 +388,7 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 
 (3) A megyei területfejlesztési tanács elnöke a megyei közgyűlés elnöke, alelnökét két évre a megyei területfejlesztési tanács maga választja. A megyei területfejlesztési tanácsot az elnök – akadályoztatása esetén az alelnök – képviseli.
 
-(4) Konzultációs joggal rendelkeznek mindazon a megye területén működő bírósági nyilvántartásba vett területfejlesztési-, környezetvédelmi-, természetvédelmi társadalmi szervezetek, valamint a nők és férfiak esélyegyenlőségéért küzdő szervezetek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre és a megyei területfejlesztési tanácsnál jelzik együttműködési szándékukat. Az egyeztető fórum véleményét az adott napirend tárgyalásakor ismertetni kell.
+(4) Konzultációs joggal rendelkeznek mindazon a megye területén működő bírósági nyilvántartásba vett területfejlesztési-, környezetvédelmi-, természetvédelmi egyesületek, valamint a nők és férfiak esélyegyenlőségéért küzdő szervezetek, amelyek a területfejlesztést érintő kérdések megtárgyalására egyeztető fórumot hoznak létre és a megyei területfejlesztési tanácsnál jelzik együttműködési szándékukat. Az egyeztető fórum véleményét az adott napirend tárgyalásakor ismertetni kell.
 
 (5) A 14. § (1) bekezdésének d) pontjában meghatározott kistérségi képviselő megválasztására, és a megyei területfejlesztési tanács napirendjével kapcsolatos álláspont kialakítására a 17. § (10) bekezdésében foglaltakat kell alkalmazni.
 
@@ -496,7 +496,7 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 (3) A közhasznú társaság feladatai különösen:
 
 - a) kidolgozza – az Országos Területfejlesztési Koncepcióval összhangban – a régió hosszú és középtávú területfejlesztési koncepcióját, illetve a régió fejlesztési programját és annak stratégiai és operatív munkarészeit;
-- b) a régióban – a külön jogszabályban foglaltak figyelembevételével – összegyűjti az önkormányzatok, gazdasági és társadalmi szervezeteknek a fejlesztési projektelképzeléseit, részt vesz azok projektjavaslattá történő előkészítésében;
+- b) a régióban – a külön jogszabályban foglaltak figyelembevételével – összegyűjti az önkormányzatok, gazdasági szervezeteknek és egyesületeknek a fejlesztési projektelképzeléseit, részt vesz azok projektjavaslattá történő előkészítésében;
 - c) folyamatos kapcsolatot tart a régióban működő közigazgatási szervezetekkel, intézményekkel a fejlesztési szükségletek és a bevonható helyi források feltárása érdekében;
 - d) közreműködik regionális fejlesztési tanács által a központi és regionális forrásokra benyújtandó pályázatok elkészítésében, az ezzel kapcsolatos szervezési feladatok ellátásában;
 - e) pénzügyi tervet készít a fejlesztési programok megvalósítása érdekében, szervezi a programok megvalósítását, részt vesz a programok – külön jogszabályban meghatározott – pénzügyi finanszírozási feladataiban, a programok megvalósításáról, a pénzügyi felhasználásról naprakész nyilvántartást vezet;
@@ -539,7 +539,7 @@ rendszeresen, de évente legalább egyszer köteles beszámolni.
 
 (16) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a Kormány általános hatáskörű területi államigazgatási szervét.
 
-17. § (1) A regionális fejlesztési tanács feladatainak ellátásában együttműködik a kistérségi fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, a térségi fejlesztési tanáccsal, a régió fejlesztésében közvetlenül és közvetve közreműködő területi államigazgatási szervekkel, a területi gazdasági kamarákkal, továbbá a régió területén működő társadalmi szervezetekkel.
+17. § (1) A regionális fejlesztési tanács feladatainak ellátásában együttműködik a kistérségi fejlesztési tanácsokkal, a megyei területfejlesztési tanácsokkal, a térségi fejlesztési tanáccsal, a régió fejlesztésében közvetlenül és közvetve közreműködő területi államigazgatási szervekkel, a területi gazdasági kamarákkal, továbbá a régió területén működő egyesületekkel.
 
 (2) A regionális fejlesztési tanács
 
@@ -747,7 +747,7 @@ rendszere.
 
 ### A területrendezési terv készítésére és elfogadására vonatkozó eljárási szabályok
 
-23/C. § (1) A kiemelt térség és a megye területrendezési tervét (a továbbiakban együtt: tervjavaslatot) egyeztetni kell a külön jogszabályban meghatározott államigazgatási, önkormányzati és érdekképviseleti szervekkel, valamint az érdekelt társadalmi szervezetekkel. A véleményezésre legalább két hónap határidőt kell biztosítani.
+23/C. § (1) A kiemelt térség és a megye területrendezési tervét (a továbbiakban együtt: tervjavaslatot) egyeztetni kell a külön jogszabályban meghatározott államigazgatási, önkormányzati és érdekképviseleti szervekkel, valamint az érdekelt egyesületekkel. A véleményezésre legalább két hónap határidőt kell biztosítani.
 
 (1a) A területrendezési tervek rajzi munkarészeit a területrendezési terv tartalmi követelményeiről szóló kormányrendeletben meghatározott digitális formában kell elkészíteni.
 

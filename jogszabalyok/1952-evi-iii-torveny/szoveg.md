@@ -1066,7 +1066,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 - a) törvény eltérő rendelkezésének hiányában az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó személy nevét és beosztását, ha az adott személy az eljárásban közfeladatának ellátásával összefüggésben vett részt;
 - b) a meghatalmazottként eljárt jogi képviselő nevét;
-- c) a társadalmi szervezet vagy alapítvány képviselőjének nevét;
+- c) az egyesület vagy alapítvány képviselőjének nevét;
 - d) a közérdekből nyilvános adatokat.
 
 (9) Nem adható másolat a (7) bekezdés alapján az olyan határozatról, mely az (1) és (2) bekezdésben meghatározott titkot tartalmaz, továbbá azon határozatról, melyet a XV–XVIII. Fejezetben meghatározott vagy olyan perben hoztak, amelyben a bíróság a nyilvánosságot a tárgyalásról vagy annak egy részéről kizárta.
@@ -2904,7 +2904,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - e) az államháztartásról szóló törvény,
 - f) a területfejlesztésről és a területrendezésről szóló törvény,
 - g) az Országos Területrendezési Tervről szóló törvény,
-- h) a Nemzeti Civil Alapprogramról szóló törvény,
+- h) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény,
 - i) az árak megállapításáról szóló törvény,
 - j) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény,
 - k) a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló törvény,

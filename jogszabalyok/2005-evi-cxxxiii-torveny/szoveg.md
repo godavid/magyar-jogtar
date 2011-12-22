@@ -375,7 +375,7 @@ meg kell semmisíteni.
 
 ### IV. Fejezet — A SZEMÉLY-, VAGYONVÉDELMI ÉS MAGÁNNYOMOZÓI SZAKMAI KAMARA
 
-36. § (1) A kamara a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység folytatására jogosult természetes személyek önkormányzattal rendelkező, közfeladatot és általános szakmai érdekképviseleti feladatokat ellátó köztestülete, amely – a közhasznú szervezetekről szóló törvényben írt feltételek szerint – kiemelkedően közhasznú szervezetté minősíthető.
+36. § (1) A kamara a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység folytatására jogosult természetes személyek önkormányzattal rendelkező, közfeladatot és általános szakmai érdekképviseleti feladatokat ellátó köztestülete, amely – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben írt feltételek szerint – közhasznú szervezetté minősíthető.
 
 (2) A kamara a feladatait
 

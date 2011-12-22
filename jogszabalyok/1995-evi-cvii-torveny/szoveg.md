@@ -72,7 +72,7 @@ a büntetés-végrehajtási szervezetről
 - c) bv. szervezet költségvetésének keretei között biztosítja a bv. szervek feladatainak ellátásához szükséges feltételeket;
 - d) a fogvatartottak foglalkoztatását végző gazdasági társaságok (a továbbiakban: gazdasági társaságok) és a fogvatartottak foglalkoztatására létrehozott költségvetési szervek működésével kapcsolatban ellátja a miniszter által meghatározott büntetés-végrehajtási feladatokat;
 - e) végzi a honvédelemmel, a polgári és katasztrófavédelmi tevékenységgel, a munkavédelemmel és a tűzvédelemmel kapcsolatos központi feladatokat;
-- f) együttműködik a büntetések és az intézkedések végrehajtásában közreműködő, illetve a végrehajtást segítő állami szervekkel és társadalmi szervezetekkel, egyházakkal, alapítványokkal és személyekkel, továbbá az érintett nemzetközi szervezetekkel;
+- f) együttműködik a büntetések és az intézkedések végrehajtásában közreműködő, illetve a végrehajtást segítő állami szervekkel és egyesületekkel, egyházakkal, alapítványokkal és személyekkel, továbbá az érintett nemzetközi szervezetekkel;
 - g) ellátja a szervezeti és működési szabályzatban meghatározott egyéb feladatokat.
 
 ### A büntetés-végrehajtási intézetek és intézmények
@@ -140,7 +140,7 @@ a büntetés-végrehajtási szervezetről
 
 ### Együttműködési, tájékoztatási és segítségnyújtási kötelezettség
 
-13. § (1) A bv. szervezet a jogszabályok keretei között együttműködik a fogvatartás körülményeinek a figyelemmel kísérésére, a szabadulás után a társadalomba való beilleszkedés elősegítésére, a karitatív tevékenység végzésére, továbbá az egyéb büntetés-végrehajtási feladatok segítésére alakult börtönmissziókkal és társadalmi szervezetekkel, az ilyen tevékenységet ellátó egyházakkal, alapítványokkal és személyekkel. Ha az ilyen szervezetek vagy személy a bv. szervezet rendjére és biztonságára vonatkozó jogszabályokat, vagy a bv. szervezettel kötött megállapodásban foglaltakat megszegik, a bv. szervezet az együttműködést megszüntetheti.
+13. § (1) A bv. szervezet a jogszabályok keretei között együttműködik a fogvatartás körülményeinek a figyelemmel kísérésére, a szabadulás után a társadalomba való beilleszkedés elősegítésére, a karitatív tevékenység végzésére, továbbá az egyéb büntetés-végrehajtási feladatok segítésére alakult börtönmissziókkal és egyesületekkel, az ilyen tevékenységet ellátó egyházakkal, alapítványokkal és személyekkel. Ha az ilyen szervezetek vagy személy a bv. szervezet rendjére és biztonságára vonatkozó jogszabályokat, vagy a bv. szervezettel kötött megállapodásban foglaltakat megszegik, a bv. szervezet az együttműködést megszüntetheti.
 
 (2) Intézet alapítása előtt ki kell kérni az érintett települési önkormányzat, Budapesten az illetékes önkormányzat képviselő-testületének a véleményét. Ugyancsak ki kell kérni e testületek véleményét az intézet jellegének a megváltoztatásáról, a lakosságot érintő egyéb lényeges intézkedésekről pedig e szerveket előzetesen tájékoztatni kell.
 

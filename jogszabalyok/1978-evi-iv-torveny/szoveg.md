@@ -502,7 +502,7 @@ feltéve, ha az elkövetőnek az országban tartózkodása a közbiztonságot je
 - a) nem vehet részt népképviseleti szerv tagjainak választásában, népszavazásban és népi kezdeményezésben,
 - b) nem lehet hivatalos személy,
 - c) nem működhet népképviseleti szerv testületében (bizottságában),
-- d) nem viselhet tisztséget társadalmi szervezetben, köztestületben, közalapítványban,
+- d) nem viselhet tisztséget civil szervezetben, köztestületben, közalapítványban,
 - e) nem érhet el katonai rendfokozatot,
 - f) nem kaphat belföldi kitüntetést és külföldi kitüntetés elfogadására engedélyt.
 
@@ -719,7 +719,8 @@ ha annak eredményes elteltéhez az elkövető rendszeres figyelemmel kísérés
 - e) meghatározott helyen és időközönként, meghatározott szervnél vagy személynél jelentkezzék;
 - f) vegye fel a kapcsolatot az állami foglalkoztatási szervvel, vagy az önkormányzatnál közmunkára jelentkezzen be;
 - g) meghatározott tanulmányokat folytasson;
-- h) – hozzájárulása esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát; [i) vegyen részt a pártfogó felügyelő által szervezett csoportos foglalkozáson vagy a Pártfogó Felügyelői Szolgálat közösségi foglalkoztatójának programja szerinti más foglalkozáson.]
+- h) – hozzájárulása esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát;
+- i)
 
 (6) A bíróság, illetve az ügyész az (5) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedésének esélyeire.
 
@@ -2708,11 +2709,11 @@ követik el.
 
 (3) Az (1) és a (2) bekezdésben foglalt megkülönböztetés szerint két évtől nyolc évig, illetőleg öt évtől tíz évig terjedő szabadságvesztéssel büntetendő az elkövető, ha a jogtalan előnyért hivatali kötelességét megszegi, hatáskörét túllépi, vagy hivatali helyzetével egyébként visszaél, illetőleg ha a cselekményt bűnszövetségben vagy üzletszerűen követi el.
 
-251. § (1) A költségvetési szervnek, gazdálkodó szervezetnek vagy a társadalmi szervezetnek az a dolgozója, illetőleg tagja, aki a működésével kapcsolatban jogtalan előnyt kér, vagy a kötelességének megszegéséért az ilyen előnyt, illetve annak ígéretét elfogadja, vagy a jogtalan előny kérőjével vagy elfogadójával egyetért, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
+251. § (1) A költségvetési szervnek, gazdálkodó szervezetnek vagy a egyesületnek az a dolgozója, illetőleg tagja, aki a működésével kapcsolatban jogtalan előnyt kér, vagy a kötelességének megszegéséért az ilyen előnyt, illetve annak ígéretét elfogadja, vagy a jogtalan előny kérőjével vagy elfogadójával egyetért, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Ha az elkövető a jogtalan előnyért a kötelességét megszegi, bűntettet követ el, és egy évtől öt évig, fontosabb ügyben történt kötelességszegés esetén, illetőleg ha a cselekményt bűnszövetségben vagy üzletszerűen követi el, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
-252. § (1) A költségvetési szervnek, gazdálkodó szervezetnek vagy a társadalmi szervezetnek az az önálló intézkedésre jogosult dolgozója, illetve tagja, aki a működésével kapcsolatban jogtalan előnyt kér, avagy az ilyen előnyt vagy ennek ígéretét elfogadja, illetve a jogtalan előny kérőjével vagy elfogadójával egyetért, bűntettet követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+252. § (1) A költségvetési szervnek, gazdálkodó szervezetnek vagy a egyesületnek az az önálló intézkedésre jogosult dolgozója, illetve tagja, aki a működésével kapcsolatban jogtalan előnyt kér, avagy az ilyen előnyt vagy ennek ígéretét elfogadja, illetve a jogtalan előny kérőjével vagy elfogadójával egyetért, bűntettet követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az elkövető az előnyért a kötelességét megszegi.
 
@@ -2729,9 +2730,9 @@ követik el.
 
 (4) Vétség miatt két évig terjedő szabadságvesztéssel büntetendő a gazdálkodó szervezet vezetője, ellenőrzésre vagy felügyeletre feljogosított tagja vagy dolgozója, ha a (3) bekezdésben meghatározott bűncselekményt gondatlanságból követi el.
 
-254. § (1) Aki költségvetési szerv, gazdálkodó szervezet vagy társadalmi szervezet dolgozójának, illetve tagjának, vagy reá tekintettel másnak azért ad, vagy ígér jogtalan előnyt, hogy a kötelességét megszegje, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
+254. § (1) Aki költségvetési szerv, gazdálkodó szervezet vagy egyesület dolgozójának, illetve tagjának, vagy reá tekintettel másnak azért ad, vagy ígér jogtalan előnyt, hogy a kötelességét megszegje, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés bűntett miatt öt évig terjedő szabadságvesztés, ha a jogtalan előnyt költségvetési szerv, gazdálkodó szervezet vagy társadalmi szervezet önálló intézkedésre jogosult dolgozójának, illetve tagjának adják vagy ígérik.
+(2) A büntetés bűntett miatt öt évig terjedő szabadságvesztés, ha a jogtalan előnyt költségvetési szerv, gazdálkodó szervezet vagy egyesület önálló intézkedésre jogosult dolgozójának, illetve tagjának adják vagy ígérik.
 
 255. § (1) Aki azért, hogy más a bírósági vagy más hatósági eljárásban a törvényes jogait ne gyakorolja, vagy a kötelezettségeit ne teljesítse, neki vagy reá tekintettel másnak jogtalan előnyt ad, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
 
@@ -2759,8 +2760,8 @@ követik el.
 
 (3) Aki az (1) bekezdésben meghatározott bűncselekményt
 
-- a) gazdálkodó szervezet vagy társadalmi szervezet dolgozójával, illetve tagjával kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel,
-- b) gazdálkodó szervezet vagy társadalmi szervezet önálló intézkedésre jogosult dolgozójával, illetve tagjával kapcsolatban követi el, bűntett miatt három évig terjedő szabadságvesztéssel
+- a) gazdálkodó szervezet vagy egyesület dolgozójával, illetve tagjával kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel,
+- b) gazdálkodó szervezet vagy egyesület önálló intézkedésre jogosult dolgozójával, illetve tagjával kapcsolatban követi el, bűntett miatt három évig terjedő szabadságvesztéssel
 
 büntetendő.
 
@@ -3623,7 +3624,7 @@ vagyonát ténylegesen vagy színleg csökkenti, és ezzel hitelezőjének vagy 
 
 296/B. § (1) Aki a közbeszerzési eljárás, illetve a koncesszióköteles tevékenységre vonatkozóan kiírt nyílt vagy zártkörű pályázat eredményének befolyásolása érdekében az árak (díjak), illetőleg egyéb szerződési feltételek rögzítésére, illetve a piac felosztására irányuló megállapodást köt, vagy más összehangolt magatartást tanúsít, és ezzel a versenyt korlátozza, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Az (1) bekezdés szerint büntetendő az is, aki a közbeszerzési eljárás, illetve a koncesszióköteles tevékenységre vonatkozóan kiírt nyílt vagy zártkörű pályázat eredményének befolyásolása érdekében a vállalkozások társadalmi szervezete, a köztestület, az egyesülés és más hasonló szervezet olyan döntésének a meghozatalában vesz részt, amely a versenyt korlátozza.
+(2) Az (1) bekezdés szerint büntetendő az is, aki a közbeszerzési eljárás, illetve a koncesszióköteles tevékenységre vonatkozóan kiírt nyílt vagy zártkörű pályázat eredményének befolyásolása érdekében a vállalkozások egyesülete, a köztestület, az egyesülés és más hasonló szervezet olyan döntésének a meghozatalában vesz részt, amely a versenyt korlátozza.
 
 (3) A büntetés vétség miatt két évig terjedő szabadságvesztés, ha az (1) és (2) bekezdésben meghatározott cselekményt jelentős értéket meg nem haladó közbeszerzési értékre követik el.
 

@@ -46,7 +46,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 (2) A területi kamara képviseli tagjainak érdekeit a hatáskörébe tartozó mérnöki, illetve építészeti tevékenységgel összefüggő ügyekben. Ennek keretében:
 
 - a) támogatja a felsőoktatásban tanulók és a pályakezdők szakmai gyakorlaton való részvételét,
-- b) együttműködik a mérnöki, illetve építészeti tevékenységet érintő kérdésekben a területi érdekképviseleti és egyéb társadalmi szervezetekkel, ezen belül a műszaki tudományos egyesületekkel, valamint más köztestületekkel,
+- b) együttműködik a mérnöki, illetve építészeti tevékenységet érintő kérdésekben a területi érdekképviseleti és egyéb egyesületekkel, ezen belül a műszaki tudományos egyesületekkel, valamint más köztestületekkel,
 - c)
 - d) figyelemmel kíséri és nyilvántartja a tevékenységi körét érintő versenytárgyalások, tervpályázatok kiírását és lebonyolítását.
 

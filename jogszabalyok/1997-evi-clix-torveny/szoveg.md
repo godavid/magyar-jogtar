@@ -267,7 +267,7 @@ alkalmazhat, illetve használhat.
 
 (5) A rendőrség a panaszról a beérkezését követő naptól számított tizenöt napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
 
-10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, valamint a társadalmi szervezetekkel.
+10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, valamint az egyesületekkel.
 
 ### II. Fejezet — A természetvédelmi őrszolgálat
 
@@ -317,7 +317,7 @@ alkalmazhat, illetve használhat.
 
 (5) Ha a rendőrség a természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat illetékességi területét érintő fokozott ellenőrzést hajt végre, a fokozott ellenőrzés ideje alatt – a rendőrség kérésére – a természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat a feladatainak végrehajtását egyezteti a rendőrséggel.
 
-(6) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint a társadalmi szervezetekkel.
+(6) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
 
 15/A. § (1) A természetvédelmi őrnek és az önkormányzati természetvédelmi őrnek a tevékenysége folytatására való jogosultságát a természetvédelemért felelős miniszter által kiadott hatósági szolgálati igazolvány igazolja.
 
@@ -411,7 +411,7 @@ alkalmazhat, illetve használhat.
 
 (3) A mezőőr és a rendőrség közötti együttműködésre a 15. § (4) és (5) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
-(4) A mezőőr tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint a társadalmi szervezetekkel.
+(4) A mezőőr tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
 
 (5) Az (1)–(4) bekezdés előírásait kell megfelelően alkalmazni a külön törvényben meghatározott őrzési feladatokat ellátó halászati őrre.
 

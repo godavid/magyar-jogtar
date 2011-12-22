@@ -1353,7 +1353,7 @@ nyújthat.
 
 52. § (1) A pénztárak érdekeik képviseletére és közös céljaik megvalósítására szövetsége(ke)t hozhatnak létre.
 
-(2) A szövetség jogi személyként működő társadalmi szervezet.
+(2) A szövetség jogi személyként működő egyesület.
 
 (3) A szövetség a pénztárak működésére vonatkozóan szakmai ajánlásokat adhat ki.
 
@@ -1619,7 +1619,7 @@ nyújthat.
 
 71. § Ez a törvény kihirdetése napján lép hatályba.
 
-72. § (1) A törvény hatálybalépésekor társadalmi szervezetként működő és pénztárrá átszerveződő, valamint a pénztárak átalakulásával létrejövő pénztáraknak az átszerveződés, illetve átalakulás révén bekövetkező vagyonszerzése illetékmentes.
+72. § (1) A törvény hatálybalépésekor egyesületként működő és pénztárrá átszerveződő, valamint a pénztárak átalakulásával létrejövő pénztáraknak az átszerveződés, illetve átalakulás révén bekövetkező vagyonszerzése illetékmentes.
 
 (2) Ahol jogszabály munkavállalói nyugdíjalapot, illetve munkavállalói nyugdíjalapra vonatkozó külön törvényt említ, azon a továbbiakban az e törvény szerint létrehozott bármely típusú kiegészítő pénztárat, illetve e törvényt kell érteni.
 

@@ -38,9 +38,18 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 
 (4) Nonprofit gazdasági társaság más társasági formába csak nonprofit jellegének megtartásával alakulhat át, nonprofit gazdasági társasággal egyesülhet, illetve nonprofit gazdasági társaságokká válhat szét.
 
+(4a) A nonprofit gazdasági társaság külön törvényben meghatározottak szerint közhasznú jogállású lehet.
+
 (5) Külön törvény határozza meg, hogy a nonprofit gazdasági társaság milyen előfeltételek fennállása esetén minősül közhasznú szervezetnek, és ehhez milyen követelményeket kell teljesítenie. A közhasznú tevékenységet a társasági szerződésben (alapszabályban, alapító okiratban) meg kell határozni. A közhasznú szervezeti minőséget – a társaság alapításakor vagy később – kérelemre a cégjegyzéket vezető megyei (fővárosi) bíróság (a továbbiakban: cégbíróság) állapítja meg. A közhasznú szervezeti jelleget cégnevében a nonprofit gazdasági társaság feltüntetheti.
 
-(6) Ha a közhasznú szervezetnek minősülő nonprofit gazdasági társaság jogutód nélkül megszűnik, úgy a tartozások kiegyenlítése után a társaság tagjai (részvényesei) részére csak a megszűnéskori saját tőke összege adható ki, legfeljebb a tagok (részvényesek) vagyoni hányadának teljesítéskori értéke erejéig. Az ezt meghaladó vagyont a cégbíróság a társasági szerződés (alapszabály, alapító okirat) rendelkezései szerint fordítja közcélokra. Ilyen rendelkezés hiányában a cégbíróság a megmaradt vagyont a megszűnő nonprofit gazdasági társaság közhasznú tevékenységével azonos vagy ahhoz hasonló közérdekű célra fordítja.
+(6) Ha a közhasznú szervezetnek minősülő nonprofit gazdasági társaság jogutód nélkül megszűnik, úgy a tartozások kiegyenlítése után a társaság tagjai (részvényesei) részére csak a megszűnéskori saját tőke összege adható ki, legfeljebb a tagok (részvényesek) vagyoni hányadának teljesítéskori értéke erejéig. Az ezt meghaladó vagyont a cégbíróság a társasági szerződés (alapszabály, alapító okirat) rendelkezései szerint fordítja közcélokra. Ilyen rendelkezés hiányában a cégbíróság a megmaradt vagyont a Nemzeti Együttműködési Alap támogatására fordítja.
+
+(7) A nonprofit gazdasági társaság az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil tv.) 32. § (2)–(4) bekezdéstől eltérően a létrejöttét követően is kezdeményezheti közhasznú jogállásának megállapítását – amelyet a cégbíróság a létesítő okiratban tartalmi követelményeinek elbírálását követően – köteles nyilvántartásba venni, ha
+
+- a) közszolgáltatási szerződést kötött és
+- b) a kérelmező magánokiratban vállalja a Civil tv. szerinti közhasznúsági feltételek teljesítését.
+
+(8) Ha a szervezet két lezárt üzleti év adatai alapján a (7) bekezdés b) pontja szerinti vállalása ellenére sem teljesíti a Civil tv. szerinti feltételeket, a két év vonatkozásában – vagy ha a szervezet létrejöttét követő két éven belül jogutód nélkül megszűnik, a működés teljes időtartamára – visszamenőlegesen társasági adófizetési kötelezettsége keletkezik az összes bevételre, mint adóalapra vetítve, függetlenül a bevétel forrásától. Ezen adófizetési kötelezettség, valamint az adóalap semmilyen jogcímen nem csökkenthető.
 
 5. § (1) Természetes személy egyidejűleg csak egy gazdasági társaságban lehet korlátlanul felelős tag.
 

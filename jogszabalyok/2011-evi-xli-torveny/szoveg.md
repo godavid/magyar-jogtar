@@ -10,13 +10,11 @@ a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalma
 
 „c) közforgalmú intézmény: az érintettek számára közfeladatot, illetőleg közérdekű vagy egyéb szolgáltatást, ellátást (a továbbiakban együtt: szolgáltatás) végző természetes vagy jogi személynek, illetőleg jogi személyiség nélküli szervezetnek a szolgáltatás, illetve az azzal összefüggő tevékenység biztosítására szolgáló létesítménye vagy egyéb eszköze, függetlenül attól, hogy az oda történő belépés a nyilvánosság számára teljesen szabad vagy valamely feltétel teljesítéséhez kötött;”
 
-(2) Az Nvt. 1. §-a a következő f) és g) ponttal egészül ki:
+(2) Az Nvt. 1. §-a a következő f) ponttal egészül ki:
 
 [E törvény alkalmazásában]
 
-„f) kombinált figyelmeztetés: az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint fényképből vagy egyéb illusztrációból és kiegészítő figyelmeztetés megfelelő szövegéből álló figyelmeztetés;
-
-g) egészségvédelmi érdekek képviseletét ellátó társadalmi szervezet: az egyesülési jogról szóló 1989. évi II. törvény alapján létrehozott társadalmi szervezet, ha az alapszabályában meghatározott célja dohányzás visszaszorítása, e célnak megfelelően legalább két éve működik, továbbá az ilyen társadalmi szervezetek szövetsége.”
+„f) kombinált figyelmeztetés: az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint fényképből vagy egyéb illusztrációból és kiegészítő figyelmeztetés megfelelő szövegéből álló figyelmeztetés;”
 
 3. § Az Nvt. 2. §-a helyébe a következő rendelkezés lép:
 
@@ -124,7 +122,7 @@ b) 25%-át a bírságot kiszabó egészségügyi államigazgatási szerv száml�
 
 (9b) A (9) bekezdés a) pontja és a (9a) bekezdés alapján befolyt összeg egészségfejlesztési célra, így – tekintettel a népegészségügyi program prioritásaira is – különösen dohányzásmegelőzésre, a dohányzás leszokást támogató programokra, egészségmegőrzési célokra, valamint az egészségügyi ellátás színvonalát fejlesztő szakmai programok támogatására használható fel. A (9) bekezdés b) pontja alapján befolyt bírság a népegészségügyi hatósági felügyelet fejlesztésére és a népegészségügyi hatósági munka támogatására használható fel. A bírságok kirovásáról, behajtásáról és felhasználásáról az egészségügyi államigazgatási szerv nyilvántartást vezet, amelynek összefoglaló adatairól évente írásban tájékoztatja az egészségügyért felelős minisztert.
 
-(9c) A (9) bekezdés a) pontja szerinti központi költségvetési bevételnek a tárgyévet megelőző második költségvetési évben befolyt legfeljebb 10%-át az egészségvédelmi érdekek képviseletét ellátó társadalmi szervezetek támogatására kell fordítani. A támogatás – a (9b) bekezdésben meghatározott célokra figyelemmel kiírt – pályázatok útján történik a Kormány által e törvény végrehajtására kiadott rendeletben meghatározottak szerint.”
+(9c) A (9) bekezdés a) pontja szerinti központi költségvetési bevételnek a tárgyévet megelőző második költségvetési évben befolyt legfeljebb 10%-át az egészségvédelmi érdekek képviseletét ellátó civil szervezetek támogatására kell fordítani. A támogatás – a (9b) bekezdésben meghatározott célokra figyelemmel kiírt – pályázatok útján történik a Kormány által e törvény végrehajtására kiadott rendeletben meghatározottak szerint.”
 
 8. § Az Nvt. a következő 7/A. §-sal egészül ki:
 
@@ -134,13 +132,13 @@ b) 25%-át a bírságot kiszabó egészségügyi államigazgatási szerv száml�
 
 9. § Az Nvt. a következő 7/B. §-sal egészül ki:
 
-„7/B. § (1) Az ellen, akinek e törvénybe ütköző tevékenysége a lakosság széles körét érinti vagy jelentős népegészségügyi érdeksérelmet okoz, az egészségügyi államigazgatási szerv, az egészségvédelmi érdekek képviseletét ellátó társadalmi szervezet vagy az ügyész pert indíthat a lakosság széles körének védelme, illetőleg a jelentős népegészségügyi érdeksérelem kiküszöbölése érdekében. Ilyen per akkor is indítható, ha a sérelmet szenvedettek személye nem állapítható meg.
+„7/B. § (1) Az ellen, akinek e törvénybe ütköző tevékenysége a lakosság széles körét érinti vagy jelentős népegészségügyi érdeksérelmet okoz, az egészségügyi államigazgatási szerv, az egészségvédelmi érdekek képviseletét ellátó civil szervezet vagy az ügyész pert indíthat a lakosság széles körének védelme, illetőleg a jelentős népegészségügyi érdeksérelem kiküszöbölése érdekében. Ilyen per akkor is indítható, ha a sérelmet szenvedettek személye nem állapítható meg.
 
 (2) Az (1) bekezdésben meghatározott kereset a jogsértés bekövetkezését követő egy éven belül nyújtható be.
 
 (3) A bíróság az ítéletben feljogosíthatja az igény érvényesítőjét, hogy a jogsértő költségére az ítéletet országos napilapban közzétegye.
 
-(4) Az egészségvédelmi érdekek képviseletét ellátó társadalmi szervezetet az ügyfél jogai illetik meg
+(4) Az egészségvédelmi érdekek képviseletét ellátó civil szervezet az ügyfél jogai illetik meg
 
 a) az egészségügyi államigazgatási szervnek a 2–4/A. §-ban, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 38. §-ában foglalt rendelkezések megsértése miatt,
 
@@ -154,7 +152,7 @@ indult eljárásában.”
 
 a) a kombinált figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, továbbá a dohánytermékek előállításának, forgalmazásának és ellenőrzésének a jövedéki törvény szabályozási körébe nem tartozó egyéb feltételeit,
 
-b) az egészségvédelmi bírság befizetésére és felhasználására, továbbá az egészségvédelmi érdekek képviseletét ellátó társadalmi szervezeteknek az egészségvédelmi bírság meghatározott arányában történő támogatására vonatkozó részletes szabályokat.”
+b) az egészségvédelmi bírság befizetésére és felhasználására, továbbá az egészségvédelmi érdekek képviseletét ellátó civil szervezeteknek az egészségvédelmi bírság meghatározott arányában történő támogatására vonatkozó részletes szabályokat.”
 
 11. § Az Nvt. a következő 8/A. és 8/B. §-sal egészül ki:
 

@@ -13,6 +13,7 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 - c) közforgalmú intézmény: az érintettek számára közfeladatot, illetőleg közérdekű vagy egyéb szolgáltatást, ellátást (a továbbiakban együtt: szolgáltatás) végző természetes vagy jogi személynek, illetőleg jogi személyiség nélküli gazdasági társaságnak a szolgáltatás, illetve az azzal összefüggő tevékenység biztosítására szolgáló létesítménye vagy egyéb eszköze;
 - d) rendezvény: a gyülekezési jogról szóló 1989. évi III. törvény 2. §-ának (1) bekezdésében meghatározott, valamint gazdasági, kulturális, – nem szabadidős jellegű – sport, egyházi, érdekvédelmi céllal, legalább három személy egyidejű jelenlétével létrejött szervezett összejövetel, illetve esemény;
 - e) zárt légterű helyiség: valamely műszaki megoldással környezetétől fizikailag lehatárolt létesítmény, eszköz, amelynek a külső környezetből történő folyamatos légcseréje nem, vagy kizárólag nyílászárók, illetőleg egyéb műszaki berendezés útján biztosított.
+- g) egészségvédelmi érdekek képviseletét ellátó társadalmi szervezet: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja dohányzás visszaszorítása, e célnak megfelelően legalább két éve működik, továbbá az ilyen egyesületek szövetsége.
 
 ### A dohánytermékek fogyasztásának alapvető szabályai
 

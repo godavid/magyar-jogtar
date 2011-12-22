@@ -194,7 +194,7 @@ szabályait.
 
 (3) A FAT független szakmai testület.
 
-(4) A FAT legfeljebb 15 tagból áll. Tagjait a miniszter nevezi ki – az elnök kivételével – hároméves időtartamra. A FAT a miniszter, valamint az egyházak, a gazdasági kamarák, a munkaadók, a munkavállalók, a helyi önkormányzatok, a felnőttképzési szakmai szervezetek képviselőiből, továbbá a felnőttképzés elismert szakértői közül kinevezett személyekből áll. Nem lehet a FAT tagja, aki e törvény 3. § (1) bekezdés b) pontjában foglalt felnőttképzést folytató szervezetnek, illetve e szervezet jogi személyiséggel rendelkező szervezeti egységének vezető tisztségviselője, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, a társadalmi szervezet ügyintéző vagy képviseleti szervének tagja, gazdasági társaságnak bármilyen arányban tulajdonosa.
+(4) A FAT legfeljebb 15 tagból áll. Tagjait a miniszter nevezi ki – az elnök kivételével – hároméves időtartamra. A FAT a miniszter, valamint az egyházak, a gazdasági kamarák, a munkaadók, a munkavállalók, a helyi önkormányzatok, a felnőttképzési szakmai szervezetek képviselőiből, továbbá a felnőttképzés elismert szakértői közül kinevezett személyekből áll. Nem lehet a FAT tagja, aki e törvény 3. § (1) bekezdés b) pontjában foglalt felnőttképzést folytató szervezetnek, illetve e szervezet jogi személyiséggel rendelkező szervezeti egységének vezető tisztségviselője, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület ügyintéző vagy képviseleti szervének tagja, gazdasági társaságnak bármilyen arányban tulajdonosa.
 
 (5) A FAT tagjainak névsorát a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzé kell tenni.
 

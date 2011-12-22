@@ -44,7 +44,7 @@ Az Országgyűlés annak érdekében, hogy elősegítse a munkavállalók és a 
 
 5. § ÁPB-t – a 8. §-ban szereplő kivétellel – a 6–7. §-ban foglalt feltételeknek megfelelő, azonos ágazatba tartozó ágazati munkáltatói érdekképviseletek és ágazati szakszervezetek hozhatnak létre.
 
-6. § (1) E törvény alkalmazásában érdekképviselet, illetve érdekképviseleti szövetség az egyesülési jogról szóló törvény szerint létrejött társadalmi szervezet,
+6. § (1) E törvény alkalmazásában érdekképviselet, illetve érdekképviseleti szövetség az egyesülési jogról szóló törvény szerint létrejött egyesület,
 
 - a) amelynek alapszabályában szereplő elsődleges célja a munkavállalók munkaviszonnyal kapcsolatos érdekeinek előmozdítása és megvédése (a továbbiakban: szakszervezet), vagy
 - b) amelynek alapszabályában meghatározott céljai között szerepel a munkáltatók munkaviszonnyal kapcsolatos érdekeinek védelme és képviselete.

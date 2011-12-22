@@ -1228,7 +1228,7 @@ részletes jelentést tesznek közzé az államháztartás vagyoni és pénzügy
 
 58. § Az alap költségvetési tervezeteihez és az elfogadott költségvetéséhez szöveges indokolást kell mellékelni, amelyben az egyes előirányzatok megalapozottságát kell indokolni.
 
-59. § (1) Az alap terhére — ha törvény másként nem rendelkezik — alapítvány, egyházi jogi személy, társadalmi szervezet, közalapítvány, köztestület, gazdasági társaság — kivéve az alap pénzeszközeiből finanszírozott központi költségvetési szervek átalakítását ezen szervezeti formák valamelyikévé — nem alapítható, illetve gazdasági társaságban érdekeltség nem szerezhető.
+59. § (1) Az alap terhére — ha törvény másként nem rendelkezik — alapítvány, egyházi jogi személy, egyesület, közalapítvány, köztestület, gazdasági társaság — kivéve az alap pénzeszközeiből finanszírozott központi költségvetési szervek átalakítását ezen szervezeti formák valamelyikévé — nem alapítható, illetve gazdasági társaságban érdekeltség nem szerezhető.
 
 (2) Az (1) bekezdésben meghatározott szervezetek számára eseti, egyedi támogatás kizárólag az alap rendeltetése szerinti konkrét feladat megvalósítására adható.
 
@@ -1255,7 +1255,7 @@ részletes jelentést tesznek közzé az államháztartás vagyoni és pénzügy
 
 61/B. § Az elkülönített állami pénzalap előirányzatainak módosítására a fejezetet irányító szerv vezetője jogosult. Az előirányzatok átcsoportosításáról az alappal rendelkező miniszter vagy az előirányzatok felett külön törvény alapján döntési jogosultsággal rendelkező testület dönt. Fejezetek közötti átcsoportosításnál az érintett fejezetet irányító szervek megállapodása alapján kerülhet sor az átcsoportosításra.
 
-61/C. § Az elkülönített állami pénzalapokból – törvény vagy kormányrendelet eltérő rendelkezése hiányában – társadalmi szervezet, alapítvány, közalapítvány részére akkor nyújtható támogatás, ha a szervezet közhasznú vagy kiemelkedően közhasznú és a támogatás nyújtása pályázati úton történik. E rendelkezést nem kell alkalmazni az éves költségvetési törvényben név szerint (címzetten) nevesített társadalmi szervezetek, alapítványok, közalapítványok részére biztosított támogatásokra.
+61/C. § Az elkülönített állami pénzalapokból – törvény vagy kormányrendelet eltérő rendelkezése hiányában – egyesület, alapítvány, közalapítvány részére akkor nyújtható támogatás, ha a szervezet közhasznú vagy kiemelkedően közhasznú és a támogatás nyújtása pályázati úton történik. E rendelkezést nem kell alkalmazni az éves költségvetési törvényben név szerint (címzetten) nevesített egyesületek, alapítványok, közalapítványok részére biztosított támogatásokra.
 
 ### V. Fejezet — Az önkormányzatok költségvetése
 
@@ -1637,7 +1637,7 @@ kell érteni.
 
 (5) Az alapok kezelői, a Magyar Nemzeti Vagyonkezelő Zrt. és az állami adóhatóság közötti megállapodásban kell az (1) bekezdés szerinti vagyon átadás-átvételének, értékesítésének, valamint nyilvántartásának szabályait részletesen rögzíteni.
 
-(6) A társadalombiztosítás pénzügyi alapjainak terhére alapítvány, egyházi jogi szervek, társadalmi szervezet, közalapítvány, köztestület, gazdasági társaság nem alapítható, illetve gazdasági társaságban érdekeltség nem szerezhető.
+(6) A társadalombiztosítás pénzügyi alapjainak terhére alapítvány, egyházi jogi szervek, egyesület, közalapítvány, köztestület, gazdasági társaság nem alapítható, illetve gazdasági társaságban érdekeltség nem szerezhető.
 
 ### VII. Fejezet — A KÖLTSÉGVETÉSI SZERVEK MŰKÖDÉSE ÉS GAZDÁLKODÁSA, A FEJEZETI KEZELÉSŰ ELŐIRÁNYZATOK KEZELÉSE
 
@@ -1864,9 +1864,9 @@ kell érteni.
 
 100/H. § (1) Költségvetési szerv – a (2) bekezdésben foglalt kivétellel – társadalmi szervezetet, országos sportági szakszövetséget, köztestületet, alapítványt nem hozhat létre és ahhoz nem csatlakozhat.
 
-(2) A 66. §-ban foglalt költségvetési szerv az irányító szerv előzetes engedélyével hozhat létre társadalmi szervezetet vagy csatlakozhat társadalmi szervezethez. Az engedély megszerzéséhez be kell mutatni, hogy a társadalmi szervezet létrehozásához vagy az ahhoz való csatlakozáshoz milyen források állnak rendelkezésre.
+(2) A 66. §-ban foglalt költségvetési szerv az irányító szerv előzetes engedélyével hozhat létre társadalmi szervezetet vagy csatlakozhat egyesülethez. Az engedély megszerzéséhez be kell mutatni, hogy a egyesület létrehozásához vagy az ahhoz való csatlakozáshoz milyen források állnak rendelkezésre.
 
-(3) Törvény eltérő rendelkezése hiányában központi költségvetési szerv költségvetéséből társadalmi szervezet, alapítvány, közalapítvány nem támogatható.
+(3) Törvény eltérő rendelkezése hiányában központi költségvetési szerv költségvetéséből egyesület, alapítvány, közalapítvány nem támogatható.
 
 (4) A (3) bekezdésben foglaltak nem vonatkoznak a központi költségvetési szerv költségvetéséből a költségvetési szerv által foglalkoztatottak szakmai, munkavállalói érdek-képviseleti szervezetének, oktatási, kulturális, szociális és sportcélú tevékenységet végző vagy segítő szervezetének juttatott támogatásokra.
 
@@ -1882,7 +1882,7 @@ kell érteni.
 
 (2) A fejezetet irányító szerv vezetője a fejezeti kezelésű előirányzatok kezelésével, felhasználásával kapcsolatos szabályokat – a Kormány rendeletében foglaltak figyelembevételével – évente február 15-éig az adott költségvetési évre vonatkozóan az államháztartásért felelős miniszterrel egyetértésben kiadott rendeletében szabályozza, a jogszabály kiadását nem igénylő rendelkezéseket az államháztartásért felelős miniszter egyetértésével belső normában állapítja meg. Jogalkotási jog hiányában a fejezetet irányító szerv vezetője – az államháztartásért felelős miniszter egyetértésével – szabályzatot ad ki.
 
-(3) A fejezeti kezelésű előirányzatból – törvény, kormányrendelet, vagy a Kormány nyilvános határozata eltérő rendelkezése hiányában – társadalmi szervezet, alapítvány, közalapítvány részére akkor nyújtható támogatás, ha a szervezet közhasznú vagy kiemelkedően közhasznú és a támogatás nyújtása pályázati úton történik. E rendelkezést nem kell alkalmazni az éves költségvetési törvényben név szerint (címzetten) nevesített társadalmi szervezetek, alapítványok, közalapítványok részére biztosított támogatásokra.
+(3) A fejezeti kezelésű előirányzatból civil szervezet részére az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint nyújtható költségvetési támogatás.
 
 ### VII/A. Fejezet — KÖZFELADATOK GAZDÁLKODÓ SZERVEZETBEN VALÓ RÉSZVÉTELLEL TÖRTÉNŐ ELLÁTÁSA
 
@@ -2035,7 +2035,7 @@ szükséges.
 
 101/A. § (1) A fejezeti kezelésű előirányzatokból származó támogatások rendelkezésre bocsátása – a (2) bekezdésben foglalt kivétellel – finanszírozási terv alapján, teljesítésarányosan történik.
 
-(2) Fejezeti kezelésű előirányzatból – nem pályázat útján – működési célú támogatásban részesülő alapítvány, közalapítvány, társadalmi szervezet, gazdasági társaság, valamint a területfejlesztésről és a területrendezésről szóló törvény hatálya alá tartozó fejlesztési és területfejlesztési tanács finanszírozása – jogszabály eltérő rendelkezése hiányában – időarányosan történik.
+(2) Fejezeti kezelésű előirányzatból – nem pályázat útján – működési célú támogatásban részesülő alapítvány, közalapítvány, egyesület, gazdasági társaság, valamint a területfejlesztésről és a területrendezésről szóló törvény hatálya alá tartozó fejlesztési és területfejlesztési tanács finanszírozása – jogszabály eltérő rendelkezése hiányában – időarányosan történik.
 
 102. § (1) A kincstári körbe tartozó költségvetési szerv részére a központi költségvetési támogatás rendelkezésre bocsátása a jóváhagyott költségvetésben megállapított kiadási és bevételi előirányzatok különbözeteként, a Kormány rendeletében meghatározott módon megállapított előirányzat-felhasználási keret megnyitása útján történik.
 
@@ -2087,7 +2087,7 @@ szükséges.
 
 (3) A vagyonnal felelős módon, rendeltetésszerűen kell gazdálkodni.
 
-104/A. § (1) Az államháztartás alrendszereihez kapcsolódó vagyonból – közhasznú társaság csak a külön törvényben meghatározott közhasznú szervezetként hozható létre.
+104/A. § (1) Az államháztartás alrendszereihez kapcsolódó vagyonból – nonprofit gazdasági társaság csak a külön törvényben meghatározott közhasznú szervezetként hozható létre.
 
 (2)–(3)
 
@@ -2456,7 +2456,7 @@ szükséges.
 
 - a) a kormánydöntések végrehajtásának ellenőrzésére,
 - b) a központi költségvetés, az elkülönített állami pénzalapok, a társadalombiztosítás pénzügyi alapjai, és – a Kormány irányítása vagy felügyelete alá nem tartozó költségvetési szervek kivételével – a központi költségvetési szervek kormányzati ellenőrzésére,
-- c) a gazdálkodó szervezeteknek, a közalapítványoknak, a köztestületeknek, az alapítványoknak, a kistérségi, megyei, térségi és regionális területfejlesztési tanácsoknak és – a pártok kivételével – a társadalmi szervezeteknek a központi költségvetésből, alapokból juttatott pénzbeli és nem pénzbeli támogatások – ideértve a nemzetközi szerződések alapján kapott támogatásokat és segélyeket is –, és az említett szervezetek részére az állam által meghatározott célra ingyenesen juttatott vagyon felhasználásának ellenőrzésére,
+- c) a gazdálkodó szervezeteknek, a közalapítványoknak, a köztestületeknek, az alapítványoknak, a kistérségi, megyei, térségi és regionális területfejlesztési tanácsoknak és – a pártok kivételével – a egyesületeknek a központi költségvetésből, alapokból juttatott pénzbeli és nem pénzbeli támogatások – ideértve a nemzetközi szerződések alapján kapott támogatásokat és segélyeket is –, és az említett szervezetek részére az állam által meghatározott célra ingyenesen juttatott vagyon felhasználásának ellenőrzésére,
 - d) a tartósan állami tulajdonban lévő, valamint az olyan gazdasági társaságok – ide nem értve az MNB-t – ellenőrzésére, amelyekben az állam a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685/B. §-a szerint többségi befolyással rendelkezik,
 - e) a Kormány, a Kormány tagja, illetve az irányításuk vagy felügyeletük alá tartozó költségvetési szerv által alapított vagy támogatott alapítványok, közalapítványok ellenőrzésére,
 - f) az állami kezesség vállalása és beváltása jogosságának ellenőrzésére, ideértve a központi költségvetés, valamint a tartozás eredeti kötelezettjénél és jogosultjánál a kezességi szerződés feltételei betartásának ellenőrzését,

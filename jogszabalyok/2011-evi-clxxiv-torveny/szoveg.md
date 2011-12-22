@@ -44,11 +44,7 @@ a közigazgatási hatósági eljárás és szolgáltatás általános szabályai
 
 #### 8. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-17. § (1)
-
-(2)
-
-(3)
+17. §
 
 #### 9. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
@@ -110,13 +106,73 @@ a közigazgatási hatósági eljárás és szolgáltatás általános szabályai
 
 #### 23. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló2003. évi CXXV. törvény módosítása
 
-36. §
+36. § (1) Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény a következő IV. Fejezettel egészül ki:
+
+„IV. FEJEZET
+
+HELYI ESÉLYEGYENLŐSÉGI PROGRAMOK
+
+31. § (1) A község, a város és a főváros kerületeinek önkormányzata (a továbbiakban: települési önkormányzat) ötévente öt évre szóló helyi esélyegyenlőségi programot fogad el.
+
+(2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok – különös tekintettel a nők, a mélyszegénységben élők, romák, a fogyatékkal élő személyek, valamint a gyermekek és idősek csoportjára – oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve a helyzetelemzésen alapuló intézkedési tervben meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A helyzetelemzés és az intézkedési terv elfogadása során figyelembe kell venni a települési kisebbségi önkormányzatok véleményét. A helyi esélyegyenlőségi programot az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter által meghatározott részletes szabályok alapján kell elkészíteni. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a települési önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a közoktatási esélyegyenlőségi terv és az integrált településfejlesztési stratégia anti-szegregációs célkitűzéseinek összhangjáról.
+
+(3) A helyi esélyegyenlőségi program elkészítése során kiemelt figyelmet kell fordítani
+
+a) az egyenlő bánásmód, az esélyegyenlőség és a társadalmi felzárkózás követelményének érvényesülését segítő intézkedésekre,
+
+b) az oktatás és a képzés területén a jogellenes elkülönítés megelőzésére, illetve az azzal szembeni fellépésre, továbbá az egyenlő esélyű hozzáférés biztosításához szükséges intézkedésekre,
+
+c) a közszolgáltatásokhoz, valamint az egészségügyi szolgáltatásokhoz való egyenlő esélyű hozzáférés biztosításához szükséges intézkedésekre,
+
+d) olyan intézkedésekre, amelyek csökkentik a hátrányos helyzetűek munkaerő-piaci hátrányait, illetve javítják foglalkoztatási esélyeiket.
+
+(4) A helyi esélyegyenlőségi program időarányos megvalósulását, illetve a (2) bekezdésben meghatározott helyzet esetleges megváltozását kétévente át kell tekinteni, az áttekintés alapján szükség esetén a helyi esélyegyenlőségi programot felül kell vizsgálni, illetve a helyzetelemzést és az intézkedési tervet az új helyzetnek megfelelően kell módosítani.
+
+(5) A helyi esélyegyenlőségi programot a települési önkormányzati köztisztviselők vagy közalkalmazottak készítik el. Képzésüket, a helyi esélyegyenlőségi programok elkészültét és felülvizsgálatát esélyegyenlőségi mentorok segítik. A települési önkormányzati köztisztviselők, közalkalmazottak képzését a Kormány által rendeletben kijelölt szerv végzi.
+
+(6) A települési önkormányzat az államháztartás alrendszereiből, az európai uniós forrásokból, illetve a nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati úton odaítélt támogatásban csak akkor részesülhet, ha az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal rendelkezik.
+
+(7) A települési önkormányzatok jogi személyiséggel rendelkező társulása az államháztartás alrendszereiből, az európai uniós forrásokból, illetve a nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati úton odaítélt támogatásban csak akkor részesülhet, ha a társulást alkotó települési önkormányzatok mindegyike az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal rendelkezik.
+
+(8) Esélyegyenlőségi mentor tevékenységet az végezhet, aki
+
+a) rendelkezik felsőfokú végzettséggel,
+
+b) a külön jogszabályban meghatározott képzésen vett részt, és
+
+c) rendelkezik a külön jogszabályban meghatározott szakmai gyakorlattal.”
+
+(2) Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény a következő V. Fejezettel egészül ki:
+
+„V. FEJEZET
+
+EGYES TÁMOGATÁSOKRA VONATKOZÓ RENDELKEZÉSEK
+
+32. § (1) A társadalmi felzárkózást szolgáló európai uniós társfinanszírozású projektek keretében a projektgazda vagy konzorciumi partner – a külön jogszabályban meghatározottak szerint – a képzés időtartamára felzárkózást elősegítő megélhetési támogatást nyújthat a programba bevont személyek számára.
+
+(2) A támogatás összege nem haladhatja meg a megállapításakor hatályos közfoglalkoztatási bér összegét.”
+
+(3) Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény a következő 64/A. §-sal egészül ki:
+
+„64/A. § A 31. § (6) és (7) bekezdését a 2012. november 1-jét követően meghirdetett pályázatokra kell alkalmazni.”
+
+(4) Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény a következő 64/B. §-sal egészül ki:
+
+„64/B. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 31. § (1) bekezdése szerinti helyi esélyegyenlőségi program elkészítésének szempontjait és eljárását, a helyi esélyegyenlőségi program felülvizsgálatának módját, és az elkészítésében részt vevőkkel szembeni követelményekre vonatkozó részletes szabályokat.
+
+(2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a települési önkormányzatok helyi esélyegyenlőségi program elkészítésében részt vevő köztisztviselőinek, közalkalmazottainak képzésére, továbbá az esélyegyenlőségi mentorok tevékenységére vonatkozó szabályokat.
+
+(3) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a helyi esélyegyenlőségi program elkészítésében részt vevők képzését végző szervet.
+
+(4) Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy a helyi esélyegyenlőségi program elkészítésének részletes szabályait rendeletben határozza meg.
+
+(5) Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy a felzárkózást elősegítő megélhetési támogatásra vonatkozó részletes szabályokat rendeletben határozza meg.”
 
 37. §
 
 38–39. §
 
-40. §
+40. § Hatályát veszti az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 63/A. §-a.
 
 41. §
 
@@ -202,7 +258,7 @@ a közigazgatási hatósági eljárás és szolgáltatás általános szabályai
 
 #### 40. A Magyar Köztársaság 2010. évi költségvetését megalapozó egyes törvények módosításáról szóló 2009. évi CIX. törvény módosítása
 
-67. §
+67. § Hatályát veszti a Magyar Köztársaság 2010. évi költségvetését megalapozó egyes törvények módosításáról szóló 2009. évi CIX. törvény 30. §-a és az azt megelőző alcím, 50. § (8) bekezdése, 51. § (10) bekezdése.
 
 #### 41. A vízitársulatokról szóló 2009. évi CXLIV. törvény módosítása
 
@@ -238,11 +294,17 @@ a közigazgatási hatósági eljárás és szolgáltatás általános szabályai
 
 #### 49. Az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény módosítása
 
-78. §
+78. § Az agrárpiaci rendtartásról szóló 2003. évi XVI. törvény a következő 8/B. §-sal egészül ki:
+
+„8/B. § A választottbíráskodásról szóló 1994. évi LXXI. törvény 55. § (2) bekezdés b) pontja szerinti közrendbe ütközőnek kell tekinteni az olyan választottbírósági ítéletet, amely a maga termelte mezőgazdasági termény szolgáltatására elháríthatatlan külső ok (vis maior) miatt egészben vagy részben képtelen termelőt a hiányzó mezőgazdasági termény – teljesítés céljából való – pótlására, beszerzésére vagy helyette más szolgáltatás, illetve biztosíték nyújtására kötelezi.”
 
 #### 50. A népegészségügyi termékadóról szóló 2011. évi CIII. törvény módosítása
 
-79. §
+79. § A népegészségügyi termékadóról szóló 2011. évi CIII. törvény 2. § h) pontja helyébe a következő rendelkezés lép:
+
+[Adóköteles terméknek minősül az előrecsomagolt termékként forgalomba hozott,]
+
+„h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz).”
 
 #### 51. Záró rendelkezések
 
@@ -258,12 +320,8 @@ a közigazgatási hatósági eljárás és szolgáltatás általános szabályai
 
 (6) A 48. § és az 51. § 2014. január 1-jén lép hatályba.
 
-81–82. §
+81. § Nem lép hatályba az egyes migrációs tárgyú törvények jogharmonizációs célú módosításáról szóló 2010. évi CXXXV. törvény 73. § (2) bekezdése.
 
-83. §
+82. § Hatályát veszti az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2010. évi LXXVII. törvény.
 
-84. § Ahol jogszabály
-
-- a) központi elektronikus szolgáltató rendszert említ, ott a Kormány által kötelezően nyújtott szabályozott elektronikus ügyintézési szolgáltatások együttesét vagy az adott szövegkörnyezetben hivatkozott szolgáltatást,
-- b) ügyfélkaput vagy hivatali kaput említ, ott a Kormány által kötelezően nyújtott azonosítási és biztonságos kézbesítési szabályozott elektronikus ügyintézési szolgáltatást, továbbá
-- c) ügyfél tárhelyét, vagy bármely megfogalmazásban tárhelyére történő információ elhelyezést említ, ott a Kormány által kötelezően nyújtott biztonságos kézbesítési szabályozott elektronikus ügyintézési szolgáltatással történő kézbesítést kell érteni.
+83–84. §

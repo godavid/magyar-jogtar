@@ -2,7 +2,7 @@
 
 a menedékjogról
 
-Az Országgyűlés a hazájukat elhagyni kényszerülők emberi jogainak és alapvető szabadságainak védelmére,figyelemmel a Magyar Köztársaság nemzetközi kötelezettségeire, valamint a nemzetközi jog általánosan elismert alapelveire,az Európai Unió menekültpolitikája, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség létrehozásához fűződő érdek szem előtt tartásával,tiszteletben tartva a nemzeti migrációs hagyományokat és a nemzetközi közösség befogadó szellemiségét,elismerve és támogatva a védelemben részesülők segítésében részt vállaló társadalmi szervezetek tevékenységét,az Alkotmány 65. §-ában foglaltak végrehajtása érdekében
+Az Országgyűlés a hazájukat elhagyni kényszerülők emberi jogainak és alapvető szabadságainak védelmére,figyelemmel a Magyar Köztársaság nemzetközi kötelezettségeire, valamint a nemzetközi jog általánosan elismert alapelveire,az Európai Unió menekültpolitikája, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség létrehozásához fűződő érdek szem előtt tartásával,tiszteletben tartva a nemzeti migrációs hagyományokat és a nemzetközi közösség befogadó szellemiségét,elismerve és támogatva a védelemben részesülők segítésében részt vállaló egyesületek tevékenységét,az Alkotmány 65. §-ában foglaltak végrehajtása érdekében
 
 a menedékjogról a következő törvényt alkotja:
 
@@ -56,7 +56,7 @@ a menedékjogról a következő törvényt alkotja:
 - a) az e törvényben meghatározott feltételek szerint a Magyar Köztársaság területén való tartózkodásra, valamint a Magyar Köztársaság területén való tartózkodásra jogosító – külön jogszabályban meghatározott – engedélyre;
 - b) az e törvényben és külön jogszabályban meghatározott feltételek szerint ellátásra, támogatásra és szállásra;
 - c) az elismerés iránti kérelem benyújtásától számított egy éven belül a befogadó állomás területén, azt követően a külföldiekre vonatkozó általános szabályok szerint történő munkavégzésre;
-- d) a menekültügyi eljárás időtartama alatt az Egyesült Nemzetek Szervezete Menekültügyi Főbiztosságával, illetve más nemzetközi vagy társadalmi szervezettel való kapcsolat felvételére és fenntartására.
+- d) a menekültügyi eljárás időtartama alatt az Egyesült Nemzetek Szervezete Menekültügyi Főbiztosságával, illetve más nemzetközi vagy egyesülettel való kapcsolat felvételére és fenntartására.
 
 (2) Az elismerését kérő köteles
 
@@ -413,7 +413,7 @@ a menedékjogról a következő törvényt alkotja:
 
 (2) A tájékoztatást és annak tudomásulvételét jegyzőkönyvben kell rögzíteni.
 
-(3) Az elismerését kérőnek lehetőséget kell biztosítani arra, hogy saját költségén, illetve rászorultsága esetén – a jogi segítségnyújtásról szóló törvényben foglaltak szerint – díjmentesen jogi segítséget vegyen igénybe, vagy elfogadja valamely jogvédelemmel foglalkozó bejegyzett társadalmi szervezet ingyenes jogi segítségét.
+(3) Az elismerését kérőnek lehetőséget kell biztosítani arra, hogy saját költségén, illetve rászorultsága esetén – a jogi segítségnyújtásról szóló törvényben foglaltak szerint – díjmentesen jogi segítséget vegyen igénybe, vagy elfogadja valamely jogvédelemmel foglalkozó bejegyzett egyesület ingyenes jogi segítségét.
 
 (4) Az elismerését kérő által megbízott, jogi segítséget nyújtó személy
 

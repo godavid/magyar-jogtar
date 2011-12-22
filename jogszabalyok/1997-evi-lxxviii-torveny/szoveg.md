@@ -172,7 +172,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 - a) az egészséges lakó- és munkakörülmények, a népesség biztonságának általános követelményeit,
 - b) a népesség demográfiai fejlődését, a népesség lakásszükségletét,
-- c) a népesség fizikai, szellemi és lelki igényeit, különös tekintettel a családok, a fiatalok, az idősek, a fogyatékos személyek igényeire, az oktatás, a kultúra, a sport, a szabadidő és az üdülés, valamint a társadalmi szervezetek, egyházak működési feltételeinek lehetőségeire,
+- c) a népesség fizikai, szellemi és lelki igényeit, különös tekintettel a családok, a fiatalok, az idősek, a fogyatékos személyek igényeire, az oktatás, a kultúra, a sport, a szabadidő és az üdülés, valamint az egyesületek, egyházak működési feltételeinek lehetőségeire,
 - d) a megőrzésre érdemes történeti vagy településképi jelentőségű településrészek és az építészeti és régészeti örökség védelmét, felújítását és továbbfejlesztését, valamint az értékes építmény és tájrészlet látványát (rálátás), továbbá az ingatlanról feltáruló kilátás védelmét, annak mértékéig, hogy az az érintett telkek szabályos beépítését ne akadályozza,
 - e) a környezet-, a természetvédelem, a tájhasználat és a tájkép formálásának összehangolt érdekeit, különös tekintettel a víz, a levegő, a talaj, a klíma és az élővilág védelmére,
 - f) a népesség megélhetését biztosító gazdasági érdekeket, a munkahelyek megőrzésének és új munkahelyek teremtésének érdekeit, a mező- és az erdőgazdaság, a közlekedés, a posta és a hírközlés, a közüzemi ellátás, különösképpen az energia- és a vízellátás, a hulladékkezelés, a szennyvízelhelyezés és -kezelés, valamint a nyersanyaglelőhelyek biztosítását,
@@ -200,7 +200,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
   - ca) a rendezési feladat ellátásához szükséges – nyilvántartásuk részét képező – mindazon adatokat, amelyek a rendezés alá vont területtel kapcsolatosak, továbbá
   - cb) a hatáskörükbe tartozó kérdésekben a jogszabályon alapuló követelmények érvényre juttatásának feltételeit.
 
-(3) A készítés alatt lévő településrendezési tervet és helyi építési szabályzatot a polgármesternek (főpolgármesternek) – külön jogszabályban meghatározottak szerint – véleményeztetnie kell az 5. § (4) bekezdésében említett tervtanáccsal. Az elkészített helyi építési szabályzatot és településrendezési terveket a megállapítás, illetve a jóváhagyás előtt a polgármesternek (főpolgármesternek) véleményeztetnie kell a külön jogszabályban meghatározott közigazgatási, az érintett települési önkormányzati és az érdek-képviseleti szervekkel, valamint a társadalmi szervezetekkel, amelyek 22 munkanapon belül adhatnak írásos véleményt.
+(3) A készítés alatt lévő településrendezési tervet és helyi építési szabályzatot a polgármesternek (főpolgármesternek) – külön jogszabályban meghatározottak szerint – véleményeztetnie kell az 5. § (4) bekezdésében említett tervtanáccsal. Az elkészített helyi építési szabályzatot és településrendezési terveket a megállapítás, illetve a jóváhagyás előtt a polgármesternek (főpolgármesternek) véleményeztetnie kell a külön jogszabályban meghatározott közigazgatási, az érintett települési önkormányzati és az érdek-képviseleti szervekkel, valamint az egyesületekkel, amelyek 22 munkanapon belül adhatnak írásos véleményt.
 
 (4) Az eltérő vélemények tisztázása érdekében a polgármesternek (főpolgármesternek) egyeztető tárgyalást kell tartania, amelyre a hely és az időpont megjelölésével a véleményezési eljárás valamennyi érdekeltjét a tárgyalás előtt legalább 8 nappal meg kell hívnia. Az egyeztető tárgyalásról jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell valamennyi elfogadott és el nem fogadott véleményt azok indokolásával együtt.
 
@@ -1010,7 +1010,7 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 - d) minőségügyi, szabványosítási feladatok,
 - e) a helyi építészeti örökség védetté nyilvánítása, az építészeti örökség védelmével kapcsolatos nemzetközi egyezmények végrehajtása, az építészeti értékek bemutatása,
 - f) a tervtanácsok működésének,
-- g) a szakmai kamarák, társadalmi szervezetek építészeti és településrendezési szakmai feladatai, a szakmai kamarák által ellátott közigazgatási feladatok,
+- g) a szakmai kamarák, egyesületek építészeti és településrendezési szakmai feladatai, a szakmai kamarák által ellátott közigazgatási feladatok,
 - h) az építészeti kultúra kialakítása, fejlesztése, védelme, elterjesztése, oktatása, a védelemmel kapcsolatos elismerések,
 - i) az épített környezet alakításával és védelmével kapcsolatos oktatási, nevelési, továbbképzési programok kidolgozása, működtetése,
 - j) az építésügyet érintő képzési, szakoktatási célok kidolgozása, érvényesítése, szakmai továbbképzési feladatok ellátása,

@@ -3395,7 +3395,7 @@ megküldésével be kell jelenteni a Felügyeletnek.
 
 (7) Az önkéntes alap a bíróság nyilvántartásba vételével, az alakuló közgyűlés napjára visszamenő hatállyal jön létre.
 
-(8) Az önkéntes alap nyilvántartásba vételére egyebekben a társadalmi szervezetek nyilvántartásának ügyviteli szabályairól szóló jogszabályt kell megfelelően alkalmazni.
+(8) Az önkéntes alap nyilvántartásba vételére egyebekben a civil szervezetek nyilvántartásának ügyviteli szabályairól szóló jogszabályt kell megfelelően alkalmazni.
 
 ### A létesítő okirat
 

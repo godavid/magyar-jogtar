@@ -25,6 +25,8 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 
 (3) Az európai területi társulásban a helyi önkormányzat, a helyi önkormányzat jogi személyiséggel rendelkező társulása és a helyi önkormányzat költségvetési szerve felelőssége nem haladhatja meg vagyoni hozzájárulásának mértékét (korlátolt felelősség).
 
+(4) Ha az európai területi társulás tevékenysége, működése megfelel a külön törvényben előírt, a közhasznúság megállapítására vonatkozó feltételeknek, az európai területi társulás közhasznú jogállást szerezhet.
+
 ### II. Fejezet — AZ EURÓPAI TERÜLETI TÁRSULÁS ALAPÍTÁSA
 
 ### Alapítás

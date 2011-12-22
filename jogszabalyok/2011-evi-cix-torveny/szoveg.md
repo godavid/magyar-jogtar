@@ -20,7 +20,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (4) A Magyar Művészeti Akadémia név használatára kizárólag az e törvény szerint létrehozott köztestület jogosult.
 
-(5) Az MMA a közhasznú szervezetekről szóló törvény alapján közhasznú vagy kiemelkedően közhasznú szervezetnek minősíthető.
+(5) Az MMA az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény alapján közhasznú szervezetnek minősíthető.
 
 3. § (1) Az MMA a központi költségvetésben önálló fejezetet alkot, amely tartalmazza az MMA által irányított költségvetési szervek költségvetését is.
 
@@ -44,7 +44,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 - j) részt vesz a magyar kulturális értékek nemzeti nyilvántartásának megvalósításában,
 - k) együttműködik a magyarországi országos művészeti szervezetekkel, valamint a Magyar Tudományos Akadémiával,
 - l) együttműködik az országos audiovizuális közszolgálati médiaszolgáltatókkal,
-- m) támogathatja a különböző művészeti ágak országos társadalmi szervezeteit,
+- m) támogathatja a különböző művészeti ágak országos civil szervezeteit,
 - n) jogszabály vagy egyedi megkeresés, felkérés alapján képviseli a művészeket közfeladat ellátásában közreműködő különböző döntés-előkészítő, véleményező és egyéb testületekben, szervezetekben,
 - o) együttműködik a határon túli magyar művészeti szervezetekkel, és külföldi, hasonló rendeltetésű intézményekkel,
 - p) gondoskodik a magyar művészeti élet alkotóinak személyes megbecsüléséről,
@@ -87,9 +87,9 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 #### 4. A társult szervezet
 
-12. § (1) Az MMA elősegíti a művészeket összefogó magyarországi székhelyű társadalmi szervezetek szakmai és közéleti tevékenységének fenntartását és fejlesztését, valamint nyitott a velük való együttműködésre.
+12. § (1) Az MMA elősegíti a művészeket összefogó magyarországi székhelyű civil szervezetek szakmai és közéleti tevékenységének fenntartását és fejlesztését, valamint nyitott a velük való együttműködésre.
 
-(2) Az elnökség javaslatára a közgyűlés dönt az (1) bekezdés szerinti társadalmi szervezettel való együttműködésről, ennek keretében különösen a társult szervezeti státusz megadásáról és az együttműködés feltételeiről.
+(2) Az elnökség javaslatára a közgyűlés dönt az (1) bekezdés szerinti civil szervezettel való együttműködésről, ennek keretében különösen a társult szervezeti státusz megadásáról és az együttműködés feltételeiről.
 
 (3) Az MMA a társult szervezettel együttműködési megállapodást köt.
 
@@ -291,7 +291,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (3) A Szervező Bizottság feladata az alakuló közgyűlésen részt vevők minősítése és regisztrációja.
 
-(4) Az MMA alakuló közgyűlésén az 1992. január 31-én alapított Magyar Művészeti Akadémia társadalmi szervezet azon tagjai vehetnek részt, akik 2011. január 1-jén rendes tagjai voltak a társadalmi szervezetnek és megfelelnek a 7. § (1) bekezdésben támasztott feltételeknek, és amennyiben erre irányuló szándékukat a törvény hatálybalépését követő 45 napon belül a Szervező Bizottság felhívására és részére írásban kinyilvánítják.
+(4) Az MMA alakuló közgyűlésén az 1992. január 31-én alapított Magyar Művészeti Akadémia civil szervezet azon tagjai vehetnek részt, akik 2011. január 1-jén rendes tagjai voltak civil szervezeteknek és megfelelnek a 7. § (1) bekezdésben támasztott feltételeknek, és amennyiben erre irányuló szándékukat a törvény hatálybalépését követő 45 napon belül a Szervező Bizottság felhívására és részére írásban kinyilvánítják.
 
 (5) Az alakuló közgyűlést a (4) bekezdés szerinti körben az (1) bekezdésben meghatározottak szerint a Szervező Bizottság hívja össze. Az alakuló közgyűlés dönt az Alapszabály elfogadásáról, megválasztja az elnököt, a két alelnököt, a főtitkárt, a közgyűlés által választandó egyéb elnökségi tagokat és a felügyelő testület egy tagját.
 

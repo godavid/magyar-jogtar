@@ -284,7 +284,7 @@ az alábbi törvényt alkotja:
 
 (2) A 17. § (4) és (6) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el a fogyasztóvédelemről szóló törvényben meghatározott szabályok szerint.
 
-(3) Az (1) és (2) bekezdés szerinti eljárásban ügyfélnek minősülnek azok a társadalmi szervezetek is, amelyeknek a nyilvántartásba vett tevékenysége a betegek jogainak védelmére irányul.
+(3) Az (1) és (2) bekezdés szerinti eljárásban ügyfélnek minősülnek azok a civil szervezetek is, amelyeknek a nyilvántartásba vett tevékenysége a betegek jogainak védelmére irányul.
 
 (4) A fogyasztókkal szembeni kereskedelmi gyakorlat e törvényben és a rendeletben meghatározott szabályai betartásának hatósági ellenőrzésére
 

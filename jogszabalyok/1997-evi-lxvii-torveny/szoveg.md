@@ -1260,7 +1260,7 @@ hatályos. A b) pontban foglaltak alkalmazása esetén – a felek eltérő meg�
 
 (3) Az ülnökre a 22. § (1) bekezdése megfelelően irányadó.
 
-123. § (1) Az ülnököket a bíróság illetékességi területén lakóhellyel és választójoggal rendelkező magyar állampolgárok, a bíróság illetékességi területén működő helyi önkormányzatok és a társadalmi szervezetek – kivéve a pártokat – jelölik.
+123. § (1) Az ülnököket a bíróság illetékességi területén lakóhellyel és választójoggal rendelkező magyar állampolgárok, a bíróság illetékességi területén működő helyi önkormányzatok és az egyesületek – kivéve a pártokat – jelölik.
 
 (2) A fiatalkorúak büntető ügyeiben eljáró bíróság pedagógus ülnökeit a bíróság illetékességi területén működő alapfokú és középfokú nevelési-oktatási intézmények tantestületei jelölik.
 

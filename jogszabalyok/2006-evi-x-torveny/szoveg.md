@@ -39,6 +39,8 @@ a következő törvényt alkotja:
 
 (2) A szociális szövetkezetnek a nevében viselnie kell a szociális szövetkezet megnevezést, illetve – iskolaszövetkezet esetében – az iskolaszövetkezet megnevezést.
 
+(3) A szociális szövetkezet külön törvényben meghatározottak szerint közhasznú jogállású lehet.
+
 ### Jognyilatkozatokkal kapcsolatos rendelkezések
 
 9. § (1) Az e törvényben előírt jognyilatkozatokat és határozatokat írásban vagy más bizonyítható módon kell a címzett tudomására hozni, megtenni, illetve meghozni. Ha e törvény vagy az alapszabály valamely nyilatkozat megtételére vagy cselekmény elvégzésére határidőt nem állapít meg, a nyilatkozatot vagy a cselekményt haladéktalanul meg kell tenni, illetve haladéktalanul a címzett tudomására kell hozni.
@@ -906,7 +908,7 @@ a következő törvényt alkotja:
 
 (2) Az országos érdekképviseleti szervek létrehozhatják a magyar szövetkezeti mozgalom közös, országos érdekképviseleti szervét.
 
-(3) A szövetkezeti érdekképviseleti szervekre az egyesülési jogról szóló 1989. évi II. törvényben foglalt rendelkezéseket kell megfelelően alkalmazni.
+(3) A szövetkezeti érdekképviseleti szervekre az egyesülési jogról szóló törvényben foglalt rendelkezéseket kell megfelelően alkalmazni.
 
 (4) Az országos érdekképviseleti szervek a nemzetközi szervezetekben is képviselik az érintett magyar szövetkezeteket.
 

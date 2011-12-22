@@ -4,9 +4,9 @@ a Magyar Vöröskeresztről
 
 Az Országgyűlés a háborúk áldozatainak védelmére vonatkozóan Genfben, 1949. augusztus 12-én kötött Egyezmények, ezek 1977. június 8-án aláírt I. és II. kiegészítő jegyzőkönyvei, valamint a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalom 1986-ban elfogadott alapszabálya szellemében a Magyar Vöröskeresztről és annak tevékenységéről a következő törvényt alkotja:
 
-1. § (1) A Magyar Vöröskereszt (a továbbiakban: Vöröskereszt) a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalomhoz csatlakozó, a Nemzetközi Vöröskereszt alapelvei és elismerési feltételei szerint működő nemzeti humanitárius társadalmi szervezet.
+1. § (1) A Magyar Vöröskereszt (a továbbiakban: Vöröskereszt) a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalomhoz csatlakozó, a Nemzetközi Vöröskereszt alapelvei és elismerési feltételei szerint működő nemzeti humanitárius egyesület.
 
-(2) A Magyar Köztársaságban nyilvántartásba vett más társadalmi szervezet a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalomhoz nem csatlakozhat, elnevezésében a Vöröskereszttel való összetéveszthetőségre alkalmas megjelölést nem használhat.
+(2) A Magyar Köztársaságban nyilvántartásba vett más egyesület a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalomhoz nem csatlakozhat, elnevezésében a Vöröskereszttel való összetéveszthetőségre alkalmas megjelölést nem használhat.
 
 (3) A Vöröskereszt szervezetét és működésének szabályait az alapszabálya állapítja meg. Az alapszabályt, illetve annak módosítását a Vöröskereszt kongresszusa hagyja jóvá.
 
@@ -42,7 +42,7 @@ Az Országgyűlés a háborúk áldozatainak védelmére vonatkozóan Genfben, 1
 
 (5) A jelvénynek a (3)—(4) bekezdésben foglaltaktól eltérő használata — külön jogszabályban meghatározott — szabálysértésnek minősül.
 
-6. § (1) Az e törvényben nem szabályozott kérdésekben az egyesülési jogról szóló 1989. évi II. törvény rendelkezései irányadóak.
+6. § (1) Az e törvényben nem szabályozott kérdésekben az egyesülési jogról szóló törvény rendelkezései irányadóak.
 
 (2) A Vöröskereszt e törvény hatálybalépését követő 60 napon belül köteles kérni nyilvántartásba vételét a Fővárosi Bíróságtól.
 

@@ -41,7 +41,7 @@ Az Országgyűlés a közszférában töltött életpálya elismerésének és m
 együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani;
 
 - 5. nonprofit szervezet:
-  - a) a társadalmi szervezet,
+  - a) az egyesület,
   - b) az alapítvány,
   - c) a közalapítvány,
   - d) a közhasznú társaság,

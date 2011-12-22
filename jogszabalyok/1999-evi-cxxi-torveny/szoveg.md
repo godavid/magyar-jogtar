@@ -2,7 +2,7 @@
 
 a gazdasági kamarákról
 
-Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gazdasággal összefüggő közfeladatok egy részének a gazdálkodó szervezetek által köztestületi formában, önigazgatás útján történő ellátására. Az egyesülési jog alapján működő társadalmi szervezetek jogainak és érdekeinek tiszteletben tartásával, a gazdaság fejlesztésével, támogatásával, általános érdekeinek előmozdításával, az Európai Uniós integrációval, a regionális fejlesztéssel kapcsolatos tevékenységek elősegítése céljából, a gazdasági tevékenységet folytatók önkormányzat alakításához való jogát elismerve, az Országgyűlés a gazdasági kamarákról a következő törvényt alkotja:
+Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gazdasággal összefüggő közfeladatok egy részének a gazdálkodó szervezetek által köztestületi formában, önigazgatás útján történő ellátására. Az egyesülési jog alapján működő egyesületek jogainak és érdekeinek tiszteletben tartásával, a gazdaság fejlesztésével, támogatásával, általános érdekeinek előmozdításával, az Európai Uniós integrációval, a regionális fejlesztéssel kapcsolatos tevékenységek elősegítése céljából, a gazdasági tevékenységet folytatók önkormányzat alakításához való jogát elismerve, az Országgyűlés a gazdasági kamarákról a következő törvényt alkotja:
 
 ### I. Fejezet — BEVEZETŐ RENDELKEZÉSEK
 
@@ -14,7 +14,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - b) gazdasági kamara tagja: az a gazdálkodó szervezet, amely a tagsággal járó jogokat és kötelezettségeket önkéntesen vállalja, a gazdasági kamarába tagként felvették és a tagokról vezetett nyilvántartásba bejegyezték;
 - c) kézműipari tevékenység: az a tevékenység, amely a gazdálkodó szervezet vagyonának, forgalmának mértékét, üzemméretét, alkalmazottainak számát és szakképesítését, a termelő, a kereskedelmi, illetve a szolgáltató tevékenység jellegét, a gazdálkodó szervezet tagjának a munka végzésében való személyes közreműködését figyelembe véve a kézműipari szakmák jegyzékébe került felvételre, ideértve a művészi kézművességet is;
 - d) mezőgazdasági és erdőgazdasági tevékenység: a mezőgazdasági, erdőgazdasági, halászati és vadászati tevékenység, ideértve az ezekhez közvetlenül kapcsolódó feldolgozó, kereskedelmi, illetve szolgáltató tevékenységet, továbbá a mezőgazdasági gazdálkodó szervezetek által létrehozott, a termékek piacra jutását segítő szervezetek tevékenységét is;
-- e) országos gazdasági érdekképviseleti szervezet: az egyesülési jogról szóló törvény alapján gazdasági érdekképviseleti célra létrehozott az a társadalmi szervezet, illetve ezek szövetsége, amelynek legalább 10 megyére (fővárosra) kiterjedően van tagsága;
+- e) országos gazdasági érdekképviseleti szervezet: az egyesülési jogról szóló törvény alapján gazdasági érdekképviseleti célra létrehozott az az egyesület, illetve ezek szövetsége, amelynek legalább 10 megyére (fővárosra) kiterjedően van tagsága;
 - f) képviseletre jogosult természetes személy: az egyéni vállalkozó, a gazdálkodó szervezet tagja (részvényese), vezető tisztségviselője, illetőleg alkalmazottja, továbbá az egyéni vállalkozó alkalmazottja és segítő családtagja;
 - g) gazdasági kamara: a területi gazdasági kamara és az országos gazdasági kamara;
 - h) területi gazdasági kamaraterületi gazdasági kamara>: a megyei (fővárosi) és a megyeszékhelyen kívüli megyei jogú városi kamara.
@@ -36,7 +36,7 @@ kell alakítani.
 
 Másfajta gazdasági kamara nem hozható létre. A mezőgazdasági és erdőgazdasági tevékenységet folytató gazdálkodó szervezetekkel kapcsolatos kamarai közfeladatokat az agrárkamarák, a kereskedelmi, ipari és kézműipari tevékenységet folytató gazdálkodó szervezetekkel kapcsolatos kamarai közfeladatokat a kereskedelmi és iparkamarák látják el.
 
-(4) A gazdasági kamarák feladatainak ellátása nem érinti az egyesülési szabadság érvényesülését, így különösen nem korlátozza a társadalmi szervezetek ahhoz való jogát, hogy tevékenységük célját – az egyesülési jogról szóló törvény rendelkezéseivel összhangban – szabadon határozzák meg.
+(4) A gazdasági kamarák feladatainak ellátása nem érinti az egyesülési szabadság érvényesülését, így különösen nem korlátozza az egyesületek ahhoz való jogát, hogy tevékenységük célját – az egyesülési jogról szóló törvény rendelkezéseivel összhangban – szabadon határozzák meg.
 
 4. § (1) A területi gazdasági kamarák a megyékben, a megyeszékhelyen kívüli megyei jogú városokban és a fővárosban működnek.
 
@@ -50,7 +50,7 @@ Másfajta gazdasági kamara nem hozható létre. A mezőgazdasági és erdőgazd
 
 (2) Az országos gazdasági kamarák jogosultak a Magyar Köztársaság címerének használatára.
 
-6/A. § A gazdasági kamarát a székhelye szerint illetékes megyei (fővárosi) bíróság veszi nyilvántartásba a társadalmi szervezetek bírósági nyilvántartásba vételére irányadó rendelkezések szerint.
+6/A. § A gazdasági kamarát a székhelye szerint illetékes megyei (fővárosi) bíróság veszi nyilvántartásba az egyesületek bírósági nyilvántartásba vételére irányadó rendelkezések szerint.
 
 ### A területi gazdasági kamara megszűnése
 
@@ -486,14 +486,14 @@ Másfajta gazdasági kamara nem hozható létre. A mezőgazdasági és erdőgazd
 
 43. § (1) A ,,kamara'' elnevezés használatára csak az e törvényben szabályozott gazdasági kamarák, továbbá a külön törvényekben szabályozott szakmai kamarák jogosultak.
 
-(2) A ,,kamara'' elnevezés használatára azok a társadalmi szervezetek is jogosultak,
+(2) A ,,kamara'' elnevezés használatára azok az egyesületek is jogosultak,
 
 - a) amelyeket az (1) bekezdésben említett országos kamarák önállóan vagy külföldi kamarákkal közösen hoztak létre, vagy
 - b) amelyeket külföldi kamara a társadalmi szervezet tevékenységének jellege szerinti országos gazdasági kamara hozzájárulásával önállóan hozott létre
 
 kamarai feladatokkal összefüggő tevékenység folytatására. A névhasználatra való jogosultságot az alapító kamara igazolja. Külföldi alapító esetében azt is igazolni kell, hogy az alapító – személyes joga szerint – jogosult a ,,kamara'' elnevezés használatára.
 
-(3) Azok a társadalmi szervezetek, amelyeknek az (1) bekezdésben említett kamarák a tagjai, elnevezésükben e körülményre utalhatnak.
+(3) Azok az egyesületek, amelyeknek az (1) bekezdésben említett kamarák a tagjai, elnevezésükben e körülményre utalhatnak.
 
 44. § (1) E törvény – a (2) bekezdésben foglaltak kivételével – 2000. november 1. napján lép hatályba.
 

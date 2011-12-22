@@ -24,7 +24,7 @@ az országgyűlési képviselők választásáról
 
 ### II. Fejezet — A jelölés
 
-5. § (1) Az egyéni választókerületben a választópolgárok és azok a társadalmi szervezetek, amelyek megfelelnek a pártok működéséről és gazdálkodásáról szóló törvény rendelkezéseinek (a továbbiakban: párt) — a (2) bekezdésben foglalt feltételekkel — jelölhetnek. Két vagy több párt közösen is ajánlhat és jelölhet.
+5. § (1) Az egyéni választókerületben a választópolgárok és azok az egyesületek, amelyek megfelelnek a pártok működéséről és gazdálkodásáról szóló törvény rendelkezéseinek (a továbbiakban: párt) — a (2) bekezdésben foglalt feltételekkel — jelölhetnek. Két vagy több párt közösen is ajánlhat és jelölhet.
 
 (2) Az egyéni választókerületben a jelöléshez legalább hétszázötven választópolgárnak az aláírásával hitelesített ajánlása szükséges. A választópolgár csak egy egyéni választókerületi jelöltet ajánlhat és csak abban az egyéni választókerületben, amelyben a lakóhelye van.
 

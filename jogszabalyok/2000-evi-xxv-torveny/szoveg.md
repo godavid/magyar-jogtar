@@ -282,7 +282,7 @@ is legyen;
 
 (3) A tárcaközi bizottság javaslattételi, valamint véleményezési joggal részt vesz bármely, a kémiai biztonságot érintő jogszabály, illetőleg hatósági intézkedés előkészítésében, felülvizsgálatában.
 
-(4) A tárcaközi bizottság tagjai a Kormány rendeletében meghatározott miniszterek által kijelölt személyek, az országos tisztifőorvos vagy az általa kijelölt személy, továbbá a kémiai biztonság területén érintett társadalmi szervezetek által a Kormány rendeletében meghatározott módon delegált legfeljebb hat személy.
+(4) A tárcaközi bizottság tagjai a Kormány rendeletében meghatározott miniszterek által kijelölt személyek, az országos tisztifőorvos vagy az általa kijelölt személy, továbbá a kémiai biztonság területén érintett egyesületek által a Kormány rendeletében meghatározott módon delegált legfeljebb hat személy.
 
 (5) A tárcaközi bizottság operatív tevékenységét az egészségügyi államigazgatási szervnél működő titkárság segíti.
 
