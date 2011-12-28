@@ -26,7 +26,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - a) a villamos energia termelésére, átvitelére, elosztására, kereskedelmére, fogyasztására, továbbadására,
 - b) a villamosenergia-rendszer irányítására,
 - c) a villamosmű, az összekötő és a felhasználói berendezés, valamint a termelői vezeték, magánvezeték és a közvetlen vezeték építésére, üzemeltetésére, használatbavételére, fennmaradására és megszüntetésére,
-- d) az e törvény szerint engedélyköteles és az e törvényben szabályozott engedély nélkül végezhető tevékenységeket végzőkre, az e törvény szerint engedélyköteles tevékenység egy részét kiszervezés alapján végzőkre, az e törvény szerinti engedély vagy hozzájárulás iránti kérelmet benyújtókra a kérelem elbírálásáig, az e törvény szerint engedélyköteles tevékenységet engedély nélkül végzőkre, az integrált villamosenergia-ipari vállalkozásokra, a villamosenergia-felhasználókra, a villamosenergia-vételezőkre, a villamosenergia-ipari vállalkozásban részesedést, befolyást vagy irányítást szerezni kívánókra, amennyiben a tervezett jogügylet megvalósítását e törvény bejelentéshez vagy előzetes hivatali hozzájáruláshoz vagy jóváhagyáshoz köti, az átviteli hálózat tulajdonosára, valamint az e törvény hatálya alá eső természetes személyek, jogi személyek, jogi személyiség nélküli jogalanyok közötti jogviszonyokra.
+- d) az e törvény szerint engedélyköteles és az e törvényben szabályozott engedély nélkül végezhető tevékenységeket végzőkre, az e törvény szerint engedélyköteles tevékenység egy részét kiszervezés alapján végzőkre, az e törvény szerinti engedély vagy hozzájárulás iránti kérelmet benyújtókra a kérelem elbírálásáig, az e törvény szerint engedélyköteles tevékenységet engedély nélkül végzőkre, az integrált villamosenergia-ipari vállalkozásokra, a villamosenergia-felhasználókra, a villamosenergia-vételezőkre, a villamosenergia-ipari vállalkozásban részesedést, befolyást vagy irányítást szerezni kívánókra, amennyiben a tervezett jogügylet megvalósítását e törvény bejelentéshez vagy előzetes hivatali hozzájáruláshoz vagy jóváhagyáshoz köti, az átviteli hálózat tulajdonosára, az átviteli tevékenységhez szükséges kapacitású elektronikus hírközlő hálózati elemek, így különösen szálpárak (a továbbiakban együtt: elektronikus hírközlő hálózati elemek) tulajdonosára, valamint az e törvény hatálya alá eső természetes személyek, jogi személyek, jogi személyiség nélküli jogalanyok közötti jogviszonyokra.
 
 (2) Az atomerőműre e törvény rendelkezéseit az atomenergiáról szóló törvény különös szabályaival összhangban kell alkalmazni.
 
@@ -601,7 +601,7 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (4) Az elosztó az (1)–(2) bekezdésben meghatározott szabályok szerint köteles gondoskodni a magánvezetékre kapcsolódó felhasználók méréséről. A felhasználó a magánvezeték engedélyesével együttműködve gondoskodik a mérőhely kialakításáról és a mérés lehetővé tételéről, a kapcsolódási ponthoz tartozó kapcsoló és átalakító berendezések valamint a kapcsolódási pont kiépítésének kivételével.
 
-42. § A hálózati engedélyesek és a termelői engedélyesek tevékenységük ellátása, az átviteli és az elosztó hálózatok zavartalan, megbízható működtetése, a villamosenergia-igények folyamatos kielégítése, az üzemzavarok gyors, biztonságos elhárítása, valamint mérési adatok továbbítása érdekében nem nyilvános elektronikus hírközlő hálózatot létesíthetnek, tarthatnak fenn. Az átviteli rendszerirányító más részére elektronikus hírközlési szolgáltatást kizárólag a kormányzati célú hírközlési szolgáltató közreműködésével nyújthat.
+42. § A hálózati engedélyesek és a termelői engedélyesek tevékenységük ellátása, az átviteli és az elosztó hálózatok zavartalan, megbízható működtetése, a villamosenergia-igények folyamatos kielégítése, az üzemzavarok gyors, biztonságos elhárítása, valamint mérési adatok továbbítása érdekében nem nyilvános elektronikus hírközlő hálózatot létesíthetnek, tarthatnak fenn.
 
 43. § (1) A hálózati engedélyes köteles gondoskodni a villamosenergia-fogyasztásra vonatkozó számlázás alapjául szolgáló mérési adatok – beleértve a fogyasztásmérő berendezés kezdő és záró mérőállását – gyűjtéséről, számításáról és a villamosenergia-vásárlási szerződésben részes villamosenergia-kereskedőnek történő továbbításáról a 40. § (4) bekezdése szerinti ütemezésben, valamint a 47/B. § (5) bekezdésben meghatározott esetben. A felhasználók részére a hálózati engedélyesnek elszámolási időszakonként a Vhr.-ben meghatározott módon biztosítani kell a mérőállások különbségének és az elszámolás alapját képező mennyiségnek az egyezőségét.
 
@@ -1352,7 +1352,7 @@ esetében.
 
 (2) A Hivatal a jelen törvény szerint nem engedélyköteles kiserőmű üzemeltetőjével és a 2011. október 1-je előtt létesített nem engedélyköteles magánvezetéken és a 39. § (1) bekezdés b) és c) pontjában meghatározott célokból egy épületen belül létesített magánvezetéken villamos energiát továbbadó felhasználóval szemben a jogszabályban foglalt kötelezettségének megsértése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja, illetőleg a tevékenység végzőjét azonnali hatállyal eltilthatja a tevékenység folytatásától.
 
-(3) A Hivatal az integrált villamosenergia-ipari vállalkozás e törvény szerint nem engedélyköteles tagjával szemben az e törvényben vagy a felhatalmazása alapján kiadott külön jogszabályban foglalt kötelezettségeinek megszegése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
+(3) A Hivatal az integrált villamosenergia-ipari vállalkozás e törvény szerint nem engedélyköteles tagjával, továbbá az elektronikus hírközlő hálózati elemek tulajdonosával szemben az e törvényben vagy a felhatalmazása alapján kiadott külön jogszabályban foglalt kötelezettségeinek megszegése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 
 (3a) A Hivatal az átviteli hálózat tulajdonosával szemben az (1) bekezdésben meghatározott jogszabályokban és uniós jogi aktusokban, valamint a Hivatal által kiadott határozatokban foglalt kötelezettségeinek megszegése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 
@@ -1481,10 +1481,10 @@ kapcsolatban.
 (3) Az átviteli rendszerirányítónak rendelkeznie kell
 
 - a) tevékenysége gyakorlásához, valamint e törvény szerinti kötelezettségei teljesítéséhez szükséges műszaki és tárgyi eszközökkel, valamint személyi és pénzügyi erőforrásokkal,
-- b) az átviteli hálózat, a napi átviteli tevékenység végzéséhez szükséges eszközök, a rendszer- és üzemirányításhoz, a mérés-elszámoláshoz szükséges eszközök, és a tevékenységéhez szükséges informatikai eszközök tulajdonjogával, valamint az átviteli tevékenységhez szükséges kapacitású elektronikus hírközlő hálózati elemek (így különösen szálpárak) tulajdonjogával, és
+- b) az átviteli hálózat, a napi átviteli tevékenység végzéséhez szükséges eszközök, a rendszer- és üzemirányításhoz, a méréselszámoláshoz szükséges eszközök és a tevékenységhez szükséges informatikai eszközök tulajdonjogával, valamint az elektronikus hírközlő hálózati elemekkel, és
 - c) a napi átviteli rendszerirányítási tevékenység ellátásához és a vállalati jogi, könyvvezetési, valamint informatikai szolgáltatások biztosításához szükséges, saját alkalmazásában álló személyzettel.
 
-(4) Ha az átviteli rendszerirányításhoz a (3) bekezdés b) pontja szerinti mértéket meghaladó mértékben elektronikus hírközlő hálózat igénybevétele szükséges, azt a kormányzati célú hírközlési szolgáltató tulajdonában álló elektronikus hírközlési hálózaton keresztül kell biztosítani. A kormányzati célú hírközlési szolgáltató köteles az átviteli rendszerirányító elektronikus hírközlési igényeit kielégíteni.
+(4) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – a (3) bekezdés b) pontjában foglaltakra figyelemmel – az átviteli rendszerirányítóval a Vhr.-ben meghatározottak szerint szerződést köt.
 
 (5) Tilos a munkaerő-kölcsönzés az átviteli rendszerirányító és a vertikálisan integrált villamosenergia-ipari vállalkozás között.
 
@@ -1531,7 +1531,7 @@ kapcsolatban.
 
 103. § (1) A vertikálisan integrált villamosenergia-ipari vállalkozás bármikor jogosult az átviteli rendszerirányító teljes tulajdonosi szétválasztása mellett dönteni. A tanúsítást követően a teljes tulajdonosi szétválasztás eredményeképpen létrejött átviteli rendszerirányítónak meg kell felelnie az alábbi követelményeknek:
 
-- a) az átviteli rendszerirányítónak rendelkeznie kell az átviteli hálózat és az átviteli tevékenység végzéséhez szükséges valamennyi eszköz tulajdonjogával,
+- a) az átviteli rendszerirányítónak rendelkeznie kell az átviteli hálózat és az átviteli tevékenység végzéséhez szükséges valamennyi eszköz tulajdonjogával, valamint az elektronikus hírközlő hálózati elemekkel,
 - b) ugyanazon személy vagy személyek nem jogosultak
   - ba) közvetlenül vagy közvetve irányítást gyakorolni termeléssel vagy villamosenergia-kereskedelemmel foglalkozó vállalkozás felett, és közvetlenül vagy közvetve irányítást vagy bármely jogot gyakorolni átviteli rendszerirányító vagy átviteli hálózat felett, és
   - bb) közvetlenül vagy közvetve irányítást gyakorolni átviteli rendszerirányító vagy átviteli hálózat felett és közvetlenül vagy közvetve irányítást vagy bármely jogot gyakorolni termeléssel vagy villamosenergia-kereskedelemmel foglalkozó vállalkozás felett,
@@ -1548,6 +1548,8 @@ kapcsolatban.
 (3) Az (1) bekezdés b), c) és d) pontjában meghatározott feltétel teljesül abban az esetben is, ha egyrészt az átviteli rendszerirányító vagy az átviteli hálózat, másrészt a termelői engedélyes vagy a kereskedő felett az irányítást a Magyar Köztársaság nevében önálló, törvényben meghatározott gazdálkodó szervezetek vagy más állami szervek gyakorolják.
 
 (4) Azokat az üzleti titkokat, amelyek a korábban vertikálisan integrált villamosenergia-ipari vállalkozás részét képező átviteli rendszerirányító birtokában voltak, az átviteli rendszerirányító nem hozhatja a termeléssel vagy a villamosenergia-kereskedelemmel foglalkozó vállalkozás tudomására, továbbá az ilyen átviteli rendszerirányító alkalmazásában álló a 102/A. § (6) és (7) bekezdés szerinti személyeket munkaviszonyuk alatt és munkaviszonyuk megszűnését követő 4 évig, az átviteli rendszerirányítóval munkaviszonyukban álló egyéb személyeket 1 évig a termeléssel vagy villamosenergia-kereskedelemmel foglalkozó vállalkozás nem alkalmazhatja.
+
+(4a) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – az (1) bekezdés a) pontjában foglaltakra figyelemmel – az átviteli rendszerirányítóval a Vhr.-ben meghatározottak szerint szerződést köt.
 
 (5) Amennyiben a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy az átviteli rendszerirányító megfelel az e §-ban foglaltaknak, a Hivatal határozatának jogerőre emelkedését követően a 99. § (1a) és (1b) bekezdése, a 102. §–102/E. § és 104. § nem alkalmazható.
 
@@ -1567,10 +1569,12 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 104. § (1) Az átviteli rendszerüzemeltetőnek az alábbi feltételeknek kell megfelelnie:
 
 - a) teljesítenie kell a 103. § (1) bekezdés b), c) és d) pontjában foglalt követelményeket;
-- b) rendelkeznie kell a feladatok ellátásához szükséges műszaki és tárgyi eszközökkel, valamint pénzügyi és személyi erőforrásokkal;
+- b) rendelkeznie kell a feladatok ellátásához szükséges pénzügyi és személyi erőforrásokkal, valamint műszaki és tárgyi eszközökkel, ideértve az elektronikus hírközlő hálózati elemeket is,
 - c) meg kell felelnie a Hivatal által jóváhagyott hálózatfejlesztési tervnek;
 - d) a kizárólag adminisztratív és informatikai szolgáltatások kivételével nem vehet igénybe harmadik személyektől olyan szolgáltatásokat, amelyeket a harmadik személyek az átviteli hálózat tulajdonosa számára is nyújtanak; és
 - e) alkalmas a 714/2009/EK rendeletben az átviteli rendszerüzemeltetőkre előírt kötelezettségek teljesítésére.
+
+(1a) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – az (1) bekezdés b) pontjában foglaltakra figyelemmel – az átviteli rendszerüzemeltetővel a Vhr.-ben meghatározottak szerint szerződést köt.
 
 (2) Az átviteli hálózat tulajdonosa köteles
 
