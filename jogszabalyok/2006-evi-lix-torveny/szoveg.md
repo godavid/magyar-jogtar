@@ -62,7 +62,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
   - cd) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél 5,6 százalék,
   - ce) befektetési alapkezelőnél 0,028 százalék.
 
-(7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint kiszámított összegét, legfeljebb annak mértékéig, csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.
+(7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint, a (11)–(20) bekezdésben foglaltak figyelembevételével kiszámított összegét, legfeljebb annak mértékéig csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.
 
 (8)
 
@@ -76,6 +76,34 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 - d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást,
 - e) a biztosító az adóalap meghatározásakor számításba vett korrigált díjbevétel megállapítását tartalmazó kimutatást.
 
+(11) A hitelintézet, a pénzügyi vállalkozás (a továbbiakban együtt: pénzügyi intézmény) által 2011-re fizetendő különadó megállapításánál a (6) bekezdés szerint kiszámított különadót adó-visszatérítés címén csökkenti a fogyasztóval kötött deviza alapú kölcsönszerződés alapján teljesített előtörlesztés miatt, valamint a fogyasztóval kötött deviza alapú pénzügyi lízingszerződés alapján fennálló követelése teljesítése (ideértve különösen a finanszírozási összeg és maradványérték megfizetését) következtében
+
+- a) a pénzügyi intézmény által az előtörlesztés, illetőleg a teljesítés során törvény rendelkezése alapján kötelezően alkalmazott devizaárfolyam, valamint
+- b) a pénzügyi intézmény által a kölcsönszerződésből, illetőleg a pénzügyi lízingszerződésből eredő követelése könyveiben történő nyilvántartása során a számvitelről szóló törvény és a felhatalmazása alapján kiadott jogszabály rendelkezésének megfelelően alkalmazott devizaárfolyam eltérése következtében a pénzügyi intézmény által a 2011-ben kezdődő üzleti éve adózás előtti eredménye terhére elszámolt ráfordítások összegének (a számított veszteségnek) 30 százaléka.
+
+(12) Ha a pénzügyi intézményt a (11) bekezdés rendelkezése szerint megillető adó-visszatérítés meghaladja a 2011-re fizetendő különadója megállapításánál a (6) bekezdés szerint kiszámított különadót, különbözetüket a 2011. december 1-jén a pénzügyi intézmény kapcsolt vállalkozásának minősülő (egy vagy több) másik pénzügyi intézmény vagy biztosító (a továbbiakban együttesen: visszaigénylésre jogosult társaság) érvényesítheti (igényelheti vissza) a 2011-re fizetendő különadója megállapításánál. Ha a különbözetet egynél több visszaigénylésre jogosult társaság érvényesíti a fizetendő különadója megállapításánál, a visszaigénylésre jogosult társaságokat e jogcímen külön-külön megillető adó-visszatérítések összege nem haladhatja meg a különbözetet. Az e rendelkezések alapján a visszaigénylésre jogosult társaság által érvényesített (visszaigényelt) összeg nem haladhatja meg a (6) bekezdés szerint kiszámított különadójából az ugyanezt a visszaigénylésre jogosult társaságot a (11) bekezdés rendelkezései szerint megillető adó-visszatérítést meghaladó részt.
+
+(13) A pénzügyi intézményt a (11) bekezdésben, a visszaigénylésre jogosult társaságot a (12) bekezdésben foglaltak alapján megillető adó-visszatérítés(ek) összege nem haladhatja meg 2011-re fizetendő különadója megállapításánál a (6) bekezdés szerint kiszámított különadót.
+
+(14) A (11)–(13) bekezdés szerint meghatározott adó-visszatérítés teljesítését a pénzügyi intézmény és a visszaigénylésre jogosult társaság a 2011-re vonatkozó különadó-bevallása módosítása révén, az igény (a módosítást tartalmazó különadó-bevallás) benyújtásának napjától, de legkorábban 2012. január 31-étől jogosult az állami adóhatóságnál igényelni.
+
+(15) A (11)–(14) bekezdésben foglaltak alkalmazásának feltétele, hogy a pénzügyi intézmény, valamint a visszaigénylésre jogosult társaság a (11) bekezdés szerinti számított veszteségét a számvitelről szóló törvény és a felhatalmazása alapján kiadott jogszabály rendelkezéseinek megfelelően vezetett nyilvántartásai alapján megállapítja, valamint cégneve és adószáma feltüntetésével írásban rögzíti.
+
+(16) A (12) bekezdésben foglaltak alkalmazásának – a (15) bekezdésben foglaltak mellett – további feltétele, hogy az érintett pénzügyi intézmény, valamint a visszaigénylésre jogosult társaságok valamennyiük cégneve és adószáma feltüntetésével írásban közösen rögzítik:
+
+- a) az egyedi különadó-alapjukra a (6) bekezdés szerint kiszámított különadókat és ezek összegét;
+- b) egyedi számított veszteségeiket és ezek összegét;
+- c) egyedi számított veszteségeik 30 százalékát és ezek összegét;
+- d) a pénzügyi intézményt, valamint a visszaigénylésre jogosult társaságokat a (11)–(13) bekezdés rendelkezéseinek figyelembe vételével egyedileg megillető adó-visszatérítéseket és ezek összegét.
+
+(17) A (15)–(16) bekezdésben meghatározott iratokat az adózó az általa 2011-re fizetendő különadó bevallásának, illetőleg (függetlenül attól, hogy továbbra is egymás kapcsolt vállalkozásainak minősülnek-e) az érintett adózók a bármelyikük által 2011-re fizetendő különadó bevallásának önellenőrzése vagy utólagos ellenőrzése alapján, az önellenőrzés, illetőleg az utólagos ellenőrzés megállapítását figyelembe véve írásban módosíthatják. Ha az iratok módosítása érinti az adózót, illetőleg bármely adózót a (11)–(13) bekezdés szerint megillető adó-visszatérítés összegét, az adó megállapításához való jog elévüléséig az érintett adózó adóbevallását a változásnak megfelelő önellenőrzés révén ismételten módosíthatja, vagy – ha önellenőrzésre már nem jogosult – ismételt ellenőrzés megkezdése iránti kérelem előterjesztésével kezdeményezheti fizetendő adójának módosítását. A (15)–(16) bekezdésben meghatározott iratokat, valamint azok módosítását az adózó, illetőleg valamennyi érintett adózó az adó megállapításához való jog elévüléséig köteles megőrizni.
+
+(18) Az állami adóhatóság az igény (a módosítás) benyújtására olyan adóbevallási nyomtatványt is rendszeresíthet, amelyben az adózó a nyomtatvány rendszeresítésének napjától kezdve köteles a (15)–(17) bekezdésben meghatározott adatokat vagy azok egy részét feltüntetni.
+
+(19) Az állami adóhatóság az adózót megillető adó-visszatérítést vagy annak egy részét teljesítheti olyan állampapírnak az adózó értékpapír-számlájára (az adózó tulajdonába adása érdekében) történő továbbítása révén is, amely állampapír által megtestesített valamennyi kötelezettség teljesítése legkésőbb az állampapír továbbításának napját követő 366. napon esedékessé válik. Az adózó értékpapír-számlája számát a bevallásban, vagy az állami adóhatóság felszólítására közli az állami adóhatósággal. Ha az adó-visszatérítést az állami adóhatóság részben vagy egészben állampapírnak az adózó értékpapír-számlájára történő továbbítása révén teljesíti, kiutalás napjának az állampapír továbbításának napja számít. Az adó-visszatérítés teljesítésének megítélésekor az állampapírnak a továbbításakor ismert, a tőkepiacról szóló törvény szerinti szabályozott piacnak minősülő tőzsdén jegyzett árfolyama, valamint – szükség szerint – a Magyar Nemzeti Bank által ugyanerre a napra vonatkozóan közzétett hivatalos devizaárfolyam az irányadó; kétség esetén az állami adóhatóság köteles bizonyítani, hogy az adó-visszatérítés teljesítése e törvény rendelkezései szerint megtörtént. Az államháztartásért felelős miniszter rendeletében felhatalmazhatja az állami adóhatóságot, hogy az adó-visszatérítést ne közvetlenül, hanem a miniszteri rendeletben meghatározott más szervezet útján teljesítse állampapír átadásával, valamint ennek érdekében tájékoztassa a teljesítésben a rendelet szerint közreműködő másik szervezetet az adózó cégnevéről, adószámáról, értékpapír-számlájáról és az adózót megillető adó-visszatérítés összegéről; az így átadott adatokra az adózás rendjéről szóló törvénynek az adótitokra vonatkozó rendelkezései az irányadók.
+
+(20) A (11)–(13) bekezdésben meghatározott adó-visszatérítésre az adózás rendjéről szóló törvénynek az adó-visszatérítésre, az adó-visszaigénylésre irányadó rendelkezéseit, a (14) bekezdésben meghatározott adóbevallás-módosításra az adózás rendjéről szóló törvénynek az önellenőrzésre irányadó rendelkezéseit a (11)–(19) bekezdésben foglalt eltérések figyelembe vételével kell alkalmazni.
+
 ### A hitelintézetek különadója
 
 4/B. § (1) A hitelintézet a 2011-ben kezdődő üzleti évére (adóévére) vonatkozóan különadó megállapítására, bevallására és fizetésére kötelezett.
@@ -88,13 +116,17 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (5) A hitelintézet a (4) bekezdés rendelkezései szerinti bevallásában rendelkezik a pénzügyi szervezetek különadójára vonatkozóan benyújtott adóbevallásának a 4/A. § (7) bekezdésének megfelelő módosításáról, valamint az e módosítás következtében a módosító adóbevallás benyújtásának napjával, de legkorábban a (4) bekezdés szerint a módosító adóbevalláshoz kapcsolódó fizetési kötelezettsége esedékességének napjával keletkezett adótúlfizetésének az állami adóhatóság által az e § szerinti különadóról vezetett adószámla javára ugyanezzel a nappal történő átvezetéséről.
 
+(6) Ha az adózó a pénzügyi intézmények különadójára vonatkozóan benyújtott adóbevallását a különadóra vonatkozó bevallásának benyújtását követően módosítja, az adó megállapításához való jog elévüléséig köteles a már benyújtott különadó-bevallását is módosítani, vagy – ha önellenőrzésre már nem jogosult – ismételt ellenőrzés megindítása iránti kérelem előterjesztésével kezdeményezni fizetendő különadójának módosítását is.
+
+(7) Az állami adóhatóság a pénzügyi intézmények különadójára vonatkozóan utólagos adómegállapítás tárgyában hozott határozatában, ha az a pénzügyi intézmények különadója fizetendő összegét módosítja, rendelkezik a különadónak a (2)–(3) bekezdés rendelkezéseinek megfelelő módosításáról is. A jogkövetkezmények megállapításánál az egyik különadóra vonatkozóan megfizetett összeget a másik különadóra megfizetett összegként kell figyelembe venni.
+
 ### Vegyes rendelkezések
 
 5. § (1)
 
-(2) A 4. § alapján megállapított járadékot az adózás előtti eredmény terhére kell elszámolni. A 4/A. § alapján megállapított és bevallott különadót az adózás előtti eredmény terhére kell elszámolni, azzal, hogy a felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett pénzügyi szervezetnek az éves különadót időarányosan kell az évközi eredményben bemutatnia. A 4/B. § alapján megállapított és bevallott hitelintézeti különadó üzleti évre (adóévre) fizetett (fizetendő) összegét a társasági adó számviteli elszámolására vonatkozó szabályok szerint kell kimutatni. Az adóévre (az üzleti évre) fizetendő társasági adó alapjának megállapításánál elismert, csökkentő tételnek minősül a hitelintézeti különadó adóévet terhelő összege.
+(2) A 4. § alapján megállapított járadékot az adózás előtti eredmény terhére kell elszámolni. A 4/A. § alapján megállapított és bevallott különadót az adózás előtti eredmény terhére kell elszámolni, azzal, hogy a felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett pénzügyi szervezetnek az éves különadót időarányosan kell az évközi eredményben bemutatnia. A 4/B. § alapján megállapított és bevallott hitelintézeti különadó üzleti évre (adóévre) fizetett (fizetendő) összegét a társasági adó számviteli elszámolására vonatkozó szabályok szerint kell kimutatni. A hitelintézet által az adóévre (üzleti évre) fizetendő társasági adó alapjának megállapításánál az adózás előtti eredményt csökkenti a hitelintézetek különadója adóévre (üzleti évre) fizetett (fizetendő) összege.
 
-(3)
+(3) A pénzügyi intézményt, valamint a visszaigénylésre jogosult társaságot a 4/A. § (11)– (20) bekezdése alapján az adóévre megillető különadó-visszatérítés összegét a pénzügyi intézmény, valamint a visszaigénylésre jogosult társaság a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 26. §-ának (10) bekezdésében meghatározott adóelőleg-kiegészítési kötelezettségének teljesítésekor az adóévi várható fizetendő társasági adójának alapját képező számított adóalap megállapításánál nem köteles figyelembe venni.
 
 6. § (1)–(2)
 
