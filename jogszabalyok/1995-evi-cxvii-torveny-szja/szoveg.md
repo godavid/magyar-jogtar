@@ -2499,6 +2499,10 @@ megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezt
 
 84/S. § Az 1. számú mellékletnek az otthonvédelmi intézkedésekkel kapcsolatos egyes törvények módosításáról szóló 2011. évi CXLVII. törvénnyel megállapított 7.20. pontjában foglalt rendelkezés az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény hatálybalépésének napjától alkalmazható.
 
+84/U. § (1) A 72. § (4) bekezdésének az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított o) pontját az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény hatálybalépését követően, de legkésőbb 2011. december 31-ig folyósított, a munkáltató által végtörlesztéshez nyújtott kamatmentes kölcsön adókötelezettségének megállapítására lehet alkalmazni azzal, hogy a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény hatálybalépésének napjától az említett rendelkezés alkalmazásának feltétele, hogy a munkáltatói kölcsön biztosítása a következő évek javadalmazását nem érinti (előrehozott juttatást semmilyen formában nem valósít meg).
+
+(2) Az 1. számú mellékletnek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 2.8. pontjának rendelkezését az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény hatálybalépésének napja és a 2011. december 31. közötti időszakban folyósított, a munkáltató által végtörlesztés céljából adott vissza nem térítendő támogatásra lehet alkalmazni azzal, hogy a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény hatálybalépésének napjától biztosított vissza nem térítendő támogatás a következő évek javadalmazását nem érintheti (előrehozott juttatást semmilyen formában nem valósíthat meg).
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
