@@ -53,33 +53,9 @@ Az Országgyűlés Esztergom város polgárai közszolgáltatásokkal való ell�
 
 16. §
 
-17. § (1) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: MÖKtv.) 13. §-a az alábbi (6)–(7) bekezdéssel egészül ki:
+17. §
 
-„(6) A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) 6/C. § (1) bekezdésében foglaltaktól eltérően nem alakul át a köztisztviselő jogviszonya, ha az átvevő munkáltató e törvény rendelkezései alapján az átadással érintett köztisztviselő foglalkoztatásához nem járul hozzá. Ebben az esetben a közszolgálati jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a köztisztviselőt az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a köztisztviselő számára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 19. § alkalmazásával megállapított végkielégítést kell megfizetni.
-
-(7) A Ktjv. 6/B. § (1) bekezdésében foglaltaktól eltérően e szakasz (1) bekezdése alapján átkerülő közalkalmazott jogviszonya nem alakul át, ha az átvevő munkáltató e törvény rendelkezései alapján az átadással érintett közalkalmazott foglalkoztatásához nem járul hozzá. Ebben az esetben a közalkalmazotti jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a közalkalmazottat az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a közalkalmazott számára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 37. § (2) és (4)–(7) bekezdés alkalmazásával megállapított végkielégítést, határozott idejű jogviszony esetén – a Kjt. 27. § (2) bekezdésében megállapított átlagkeresetet kell megfizetni.”
-
-(2) A MÖKtv. 13. §-a az alábbi új (8)–(9) bekezdésekkel egészül ki:
-
-„(8) A megyei önkormányzat közgyűlése hivatalának foglalkoztatottai a kormánymegbízott és a megyei önkormányzat elnöke által meghatározott rendben közreműködnek a Kormány által rendeletben kijelölt szerv, valamint az ezen szerv által átvett intézmények 2012. évi intézményi költségvetésének előkészítésével kapcsolatos feladatok ellátásában.
-
-(9) A Kormány által rendeletben kijelölt szervnél és a kijelölt szervnél foglalkoztatottak a kormánymegbízott és a megyei önkormányzat elnöke által meghatározott rendben közreműködnek a megyei önkormányzatok 2011. évi költségvetésének végrehajtásáról készülő beszámolóval és az egyéb elszámolásokkal kapcsolatos feladatok ellátásában.”
-
-18. § (1) A MÖKtv. 1. § 2. pontja az alábbiak szerint módosul:
-
-„2. funkcionális feladat: az igazgatási funkciók szerinti munkamegosztás alapján kialakított szervezeti egységek által ellátott szervi működést szolgáló, – nem szakmai feladatellátáshoz kötődő – intézményfenntartási, valamint belső igazgatási feladat, különösen a humánpolitikai és humánerőforrás-gazdálkodási, költségvetési gazdálkodási, pénzügyi, jogi (peres képviseleti), nemzetközi kapcsolatok lebonyolítására szolgáló, ellenőrzési, koordinációs, saját szervi működtetését szolgáló informatikai és informatikai rendszerfenntartási, kommunikációs feladatok, valamint a személyi, tárgyi, műszaki, pénzügyi feltételek biztosítását szolgáló műveletek.”
-
-(2) A MÖKtv. 2. §-a az alábbi új, (2a) bekezdéssel egészül ki:
-
-„(2a) Amennyiben a megyei önkormányzat e szakasz (2) bekezdés d) pontjában meghatározott színháza és előadóművészeti szervezete a települési önkormányzat részére kerül átadásra, az intézmény ingó és ingatlan vagyona ellenérték nélkül kerül átruházásra.”
-
-(3) A MÖKtv. 2. § (5) bekezdése az alábbiak szerint módosul:
-
-„(5) Az (1) és (3) bekezdésekben meghatározottakat az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 18. § (1) bekezdésében leírt feltételeknek megfelel. Ezen rendelkezéseket abban az esetben is alkalmazni kell, amennyiben az e törvény alapján végbemenő intézményi konszolidációval összefüggésben 2012. január 31-ig a megyei önkormányzat egyes intézményei vagy vagyonelemei megállapodás alapján nem állami tulajdonba, illetve nem állami fenntartásba kerülnek át.”
-
-(4) A MÖKtv. 2. §-a az alábbi új, (6a) bekezdéssel egészül ki:
-
-„(6a) Az e szakasz (6) bekezdése alapján a megyei önkormányzatnak a szakképzés-szervezési társulásból történő kilépése esetén a közoktatásról szóló 1993. évi LXXIX. törvény 89/B. § (10) bekezdés rendelkezéseit nem kell alkalmazni.”
+18. §
 
 19. §
 
