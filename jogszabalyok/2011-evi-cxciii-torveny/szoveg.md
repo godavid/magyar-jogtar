@@ -380,7 +380,21 @@ a befektetési alapkezelőkről és a kollektív befektetési formákról
 
 173. § ”
 
-174. §
+174. § (1) A Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény (a továbbiakban: Kvtv.) 1. §-a helyébe a következő rendelkezés lép:
+
+„1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2011. évi
+
+a) bevételi főösszegét 13 034 191,6 millió forintban,
+
+b) kiadási főösszegét 14 551 291,2 millió forintban,
+
+c) hiányát 1 517 099,6 millió forintban állapítja meg.”
+
+(2) A Kvtv. 1. mellékletében
+
+„A XVII. Nemzeti Fejlesztési Minisztérium fejezet, 16. cím, 18. MFB tőkeemelése alcím támogatási és kiadási előirányzata 120 000,0 millió forintra változik.
+
+A XVII. fejezet, 1–16. cím összesen támogatási előirányzata 368 227,1 millió forintra, kiadási előirányzata 461 846,2 millió forintra, a XVII. fejezet összesen támogatási előirányzata 368 227,1 millió forintra, kiadási előirányzata 694 228,0 millió forintra változik.”
 
 #### 59. Egyes törvényeknek az Alaptörvénnyel összefüggő módosítása
 
@@ -388,95 +402,19 @@ a befektetési alapkezelőkről és a kollektív befektetési formákról
 
 #### 60. Egyes törvényeknek a végtörlesztéshez kapcsolódó módosításáról
 
-180. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 200/B. § (2) bekezdése a következő f) ponttal egészül ki:
-
-[Az (1) bekezdésben meghatározott árfolyam alkalmazására a pénzügyi intézmény abban az esetben köteles, ha]
-
-„f) a hitelfelvevő az (1) bekezdés szerinti pénzügyi intézmény részére 2012. január 30-ig
-
-1. a végtörlesztéshez szükséges teljes összegre vonatkozóan – ideértve a d) pont szerinti tartozásait is – szükséges forintösszeget maradéktalanul átutalja, vagy
-
-2. az 1. pont szerinti összegre illetőleg annak az átutalással nem fedezett hányadára a végtörlesztéshez hitelt nyújtó pénzügyi intézmény által szabályszerűen kiállított, feltétlen és visszavonhatatlan – legkésőbb a c) pont szerinti igénybejelentéstől számított 60 napon belüli időpontig teljesítendő folyósítási kötelezettséget vállaló – írásbeli nyilatkozattal igazolja a végtörlesztéshez szükséges fedezetet.”
-
-181. § (1) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvénynek a kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvénnyel (a továbbiakban: Módtv.) megállapított 234/H. § (2) bekezdése a következő szöveggel lép hatályba:
-
-„(2) A 2012. április 1. előtt fogyasztóval kötött egy évnél hosszabb hátralévő futamidejű jelzálog-hitelszerződés esetében – ha az nem felel meg a kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvény 4. §-ával megállapított 210/B. § rendelkezéseinek – a fogyasztó 2012. augusztus 31-ig egy alkalommal kérheti a szerződés – számára hozzáférhetővé tett feltételeknek megfelelő – módosítását, újrakötését vagy kiváltását, hogy az megfeleljen a kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvény 4. §-ával megállapított 210/B. § rendelkezéseinek azzal, hogy az új hitel
-
-a) forinthitel, ha az eredeti hitel forinthitel,
-
-b) euróhitel, euró alapú hitel vagy forinthitel lehet, ha az eredeti hitel euró alapú hitel, euróhitel vagy más – a c) pontban meg nem határozott – devizahitel,
-
-c) svájci frank hitel, svájci frank alapú hitel, euróhitel, euró alapú hitel vagy forinthitel lehet, ha az eredeti hitel svájci frank hitel vagy svájci frank alapú hitel.”
-
-(2) A Módtv. 9. §-a nem lép hatályba.
-
-(3) A Módtv. 2012. április 1-jén lép hatályba.
-
-182. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.). a következő 84/U. §-sal egészül ki:
-
-„84/U. § (1) A 72. § (4) bekezdésének az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított o) pontját az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény hatálybalépését követően, de legkésőbb 2011. december 31-ig folyósított, a munkáltató által végtörlesztéshez nyújtott kamatmentes kölcsön adókötelezettségének megállapítására lehet alkalmazni azzal, hogy a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény hatálybalépésének napjától az említett rendelkezés alkalmazásának feltétele, hogy a munkáltatói kölcsön biztosítása a következő évek javadalmazását nem érinti (előrehozott juttatást semmilyen formában nem valósít meg).
-
-(2) Az 1. számú mellékletnek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 2.8. pontjának rendelkezését az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény hatálybalépésének napja és a 2011. december 31. közötti időszakban folyósított, a munkáltató által végtörlesztés céljából adott vissza nem térítendő támogatásra lehet alkalmazni azzal, hogy a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény hatálybalépésének napjától biztosított vissza nem térítendő támogatás a következő évek javadalmazását nem érintheti (előrehozott juttatást semmilyen formában nem valósíthat meg).”
+180–182. §
 
 183. § 2012. január 1-jén hatályát veszti az Szja tv. 72. § (4) bekezdés o) pontja és 1. számú melléklet 2.8. pontja.
 
-184. § Nem lép hatályba az Szja tv. 84/T. §-ának az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított (5) és (7) bekezdése.
+184. §
 
-185. § (1) Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény (a továbbiakban: Különadó tv.) 4/A. §-ának (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint, a (11)–(20) bekezdésben foglaltak figyelembevételével kiszámított összegét, legfeljebb annak mértékéig csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.”
-
-(2) A Különadó tv. 4/A. §-a a következő (11)–(20) bekezdéssel egészül ki:
-
-„(11) A hitelintézet, a pénzügyi vállalkozás (a továbbiakban együtt: pénzügyi intézmény) által 2011-re fizetendő különadó megállapításánál a (6) bekezdés szerint kiszámított különadót adó-visszatérítés címén csökkenti a fogyasztóval kötött deviza alapú kölcsönszerződés alapján teljesített előtörlesztés miatt, valamint a fogyasztóval kötött deviza alapú pénzügyi lízingszerződés alapján fennálló követelése teljesítése (ideértve különösen a finanszírozási összeg és maradványérték megfizetését) következtében
-
-a) a pénzügyi intézmény által az előtörlesztés, illetőleg a teljesítés során törvény rendelkezése alapján kötelezően alkalmazott devizaárfolyam, valamint
-
-b) a pénzügyi intézmény által a kölcsönszerződésből, illetőleg a pénzügyi lízingszerződésből eredő követelése könyveiben történő nyilvántartása során a számvitelről szóló törvény és a felhatalmazása alapján kiadott jogszabály rendelkezésének megfelelően alkalmazott devizaárfolyam
-
-eltérése következtében a pénzügyi intézmény által a 2011-ben kezdődő üzleti éve adózás előtti eredménye terhére elszámolt ráfordítások összegének (a számított veszteségnek) 30 százaléka.
-
-(12) Ha a pénzügyi intézményt a (11) bekezdés rendelkezése szerint megillető adó-visszatérítés meghaladja a 2011-re fizetendő különadója megállapításánál a (6) bekezdés szerint kiszámított különadót, különbözetüket a 2011. december 1-jén a pénzügyi intézmény kapcsolt vállalkozásának minősülő (egy vagy több) másik pénzügyi intézmény vagy biztosító (a továbbiakban együttesen: visszaigénylésre jogosult társaság) érvényesítheti (igényelheti vissza) a 2011-re fizetendő különadója megállapításánál. Ha a különbözetet egynél több visszaigénylésre jogosult társaság érvényesíti a fizetendő különadója megállapításánál, a visszaigénylésre jogosult társaságokat e jogcímen külön-külön megillető adó-visszatérítések összege nem haladhatja meg a különbözetet. Az e rendelkezések alapján a visszaigénylésre jogosult társaság által érvényesített (visszaigényelt) összeg nem haladhatja meg a (6) bekezdés szerint kiszámított különadójából az ugyanezt a visszaigénylésre jogosult társaságot a (11) bekezdés rendelkezései szerint megillető adó-visszatérítést meghaladó részt.
-
-(13) A pénzügyi intézményt a (11) bekezdésben, a visszaigénylésre jogosult társaságot a (12) bekezdésben foglaltak alapján megillető adó-visszatérítés(ek) összege nem haladhatja meg 2011-re fizetendő különadója megállapításánál a (6) bekezdés szerint kiszámított különadót.
-
-(14) A (11)–(13) bekezdés szerint meghatározott adó-visszatérítés teljesítését a pénzügyi intézmény és a visszaigénylésre jogosult társaság a 2011-re vonatkozó különadó-bevallása módosítása révén, az igény (a módosítást tartalmazó különadó-bevallás) benyújtásának napjától, de legkorábban 2012. január 31-étől jogosult az állami adóhatóságnál igényelni.
-
-(15) A (11)–(14) bekezdésben foglaltak alkalmazásának feltétele, hogy a pénzügyi intézmény, valamint a visszaigénylésre jogosult társaság a (11) bekezdés szerinti számított veszteségét a számvitelről szóló törvény és a felhatalmazása alapján kiadott jogszabály rendelkezéseinek megfelelően vezetett nyilvántartásai alapján megállapítja, valamint cégneve és adószáma feltüntetésével írásban rögzíti.
-
-(16) A (12) bekezdésben foglaltak alkalmazásának – a (15) bekezdésben foglaltak mellett – további feltétele, hogy az érintett pénzügyi intézmény, valamint a visszaigénylésre jogosult társaságok valamennyiük cégneve és adószáma feltüntetésével írásban közösen rögzítik:
-
-a) az egyedi különadó-alapjukra a (6) bekezdés szerint kiszámított különadókat és ezek összegét;
-
-b) egyedi számított veszteségeiket és ezek összegét;
-
-c) egyedi számított veszteségeik 30 százalékát és ezek összegét;
-
-d) a pénzügyi intézményt, valamint a visszaigénylésre jogosult társaságokat a (11)–(13) bekezdés rendelkezéseinek figyelembe vételével egyedileg megillető adó-visszatérítéseket és ezek összegét.
-
-(17) A (15)–(16) bekezdésben meghatározott iratokat az adózó az általa 2011-re fizetendő különadó bevallásának, illetőleg (függetlenül attól, hogy továbbra is egymás kapcsolt vállalkozásainak minősülnek-e) az érintett adózók a bármelyikük által 2011-re fizetendő különadó bevallásának önellenőrzése vagy utólagos ellenőrzése alapján, az önellenőrzés, illetőleg az utólagos ellenőrzés megállapítását figyelembe véve írásban módosíthatják. Ha az iratok módosítása érinti az adózót, illetőleg bármely adózót a (11)–(13) bekezdés szerint megillető adó-visszatérítés összegét, az adó megállapításához való jog elévüléséig az érintett adózó adóbevallását a változásnak megfelelő önellenőrzés révén ismételten módosíthatja, vagy – ha önellenőrzésre már nem jogosult – ismételt ellenőrzés megkezdése iránti kérelem előterjesztésével kezdeményezheti fizetendő adójának módosítását. A (15)–(16) bekezdésben meghatározott iratokat, valamint azok módosítását az adózó, illetőleg valamennyi érintett adózó az adó megállapításához való jog elévüléséig köteles megőrizni.
-
-(18) Az állami adóhatóság az igény (a módosítás) benyújtására olyan adóbevallási nyomtatványt is rendszeresíthet, amelyben az adózó a nyomtatvány rendszeresítésének napjától kezdve köteles a (15)–(17) bekezdésben meghatározott adatokat vagy azok egy részét feltüntetni.
-
-(19) Az állami adóhatóság az adózót megillető adó-visszatérítést vagy annak egy részét teljesítheti olyan állampapírnak az adózó értékpapír-számlájára (az adózó tulajdonába adása érdekében) történő továbbítása révén is, amely állampapír által megtestesített valamennyi kötelezettség teljesítése legkésőbb az állampapír továbbításának napját követő 366. napon esedékessé válik. Az adózó értékpapír-számlája számát a bevallásban, vagy az állami adóhatóság felszólítására közli az állami adóhatósággal. Ha az adó-visszatérítést az állami adóhatóság részben vagy egészben állampapírnak az adózó értékpapír-számlájára történő továbbítása révén teljesíti, kiutalás napjának az állampapír továbbításának napja számít. Az adó-visszatérítés teljesítésének megítélésekor az állampapírnak a továbbításakor ismert, a tőkepiacról szóló törvény szerinti szabályozott piacnak minősülő tőzsdén jegyzett árfolyama, valamint – szükség szerint – a Magyar Nemzeti Bank által ugyanerre a napra vonatkozóan közzétett hivatalos devizaárfolyam az irányadó; kétség esetén az állami adóhatóság köteles bizonyítani, hogy az adó-visszatérítés teljesítése e törvény rendelkezései szerint megtörtént. Az államháztartásért felelős miniszter rendeletében felhatalmazhatja az állami adóhatóságot, hogy az adó-visszatérítést ne közvetlenül, hanem a miniszteri rendeletben meghatározott más szervezet útján teljesítse állampapír átadásával, valamint ennek érdekében tájékoztassa a teljesítésben a rendelet szerint közreműködő másik szervezetet az adózó cégnevéről, adószámáról, értékpapír-számlájáról és az adózót megillető adó-visszatérítés összegéről; az így átadott adatokra az adózás rendjéről szóló törvénynek az adótitokra vonatkozó rendelkezései az irányadók.
-
-(20) A (11)–(13) bekezdésben meghatározott adó-visszatérítésre az adózás rendjéről szóló törvénynek az adó-visszatérítésre, az adó-visszaigénylésre irányadó rendelkezéseit, a (14) bekezdésben meghatározott adóbevallás-módosításra az adózás rendjéről szóló törvénynek az önellenőrzésre irányadó rendelkezéseit a (11)–(19) bekezdésben foglalt eltérések figyelembe vételével kell alkalmazni.”
+185. § (1)–(2)
 
 (3)
 
-186. § A Különadó tv. 4/B. §-a a következő (6)–(7) bekezdéssel egészül ki:
+186. §
 
-„(6) Ha az adózó a pénzügyi intézmények különadójára vonatkozóan benyújtott adóbevallását a különadóra vonatkozó bevallásának benyújtását követően módosítja, az adó megállapításához való jog elévüléséig köteles a már benyújtott különadó-bevallását is módosítani, vagy – ha önellenőrzésre már nem jogosult – ismételt ellenőrzés megindítása iránti kérelem előterjesztésével kezdeményezni fizetendő különadójának módosítását is.
-
-(7) Az állami adóhatóság a pénzügyi intézmények különadójára vonatkozóan utólagos adómegállapítás tárgyában hozott határozatában, ha az a pénzügyi intézmények különadója fizetendő összegét módosítja, rendelkezik a különadónak a (2)–(3) bekezdés rendelkezéseinek megfelelő módosításáról is. A jogkövetkezmények megállapításánál az egyik különadóra vonatkozóan megfizetett összeget a másik különadóra megfizetett összegként kell figyelembe venni.”
-
-187. § (1) A Különadó tv. 5. §-a (2) bekezdésének negyedik mondata helyébe a következő rendelkezés lép:
-
-„A hitelintézet által az adóévre (üzleti évre) fizetendő társasági adó alapjának megállapításánál az adózás előtti eredményt csökkenti a hitelintézetek különadója adóévre (üzleti évre) fizetett (fizetendő) összege.”
-
-(2) A Különadó tv. 5. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A pénzügyi intézményt, valamint a visszaigénylésre jogosult társaságot a 4/A. § (11)– (20) bekezdése alapján az adóévre megillető különadó-visszatérítés összegét a pénzügyi intézmény, valamint a visszaigénylésre jogosult társaság a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 26. §-ának (10) bekezdésében meghatározott adóelőleg-kiegészítési kötelezettségének teljesítésekor az adóévi várható fizetendő társasági adójának alapját képező számított adóalap megállapításánál nem köteles figyelembe venni.”
+187. § (1)–(2)
 
 (3)
 
