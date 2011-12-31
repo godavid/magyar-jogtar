@@ -146,7 +146,7 @@ alapján illeti meg,
 
 4. § (1) Az ekho alapja a 3. § (2) bekezdésének rendelkezésében meghatározott bevétel, csökkentve – ha a magánszemély általános forgalmi adó fizetésére kötelezett – az általános forgalmi adóval.
 
-(2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhot fizet; ha azonban a magánszemély a kifizetést megelőzően nyilatkozik arról, hogy nyugdíjas, vagy az adóévben – minden más járulékalapot képező jövedelmét, valamint minden olyan ekhoalapot képező bevételét, amely után 15 százalék mértékű ekhot fizetett figyelembe véve – a nyugdíjjárulékot (magán-nyugdíjpénztári tagdíjat) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) előírása szerint a járulékfizetés felső határáig megfizette, az ekho mértéke 11,1 százalék. Ha a magánszemély az adott kifizetéssel lépi át a járulékfizetés felső határát, a nyilatkozatban a magánszemély megjelölheti az ekhoalapnak a járulékfizetés felső határa eléréséhez szükséges részét, ebben az esetben az ekhoalap fennmaradó részére alkalmazható a 11,1 százalékos ekhomérték. Szintén 11,1 százalék az ekho mértéke az ekhoalap azon része után, amely meghaladja az adott jogviszonyban a Tbj. szerint biztosítási kötelezettség időtartamaként figyelembe vehető napok és a kifizetés napján érvényes járulékfizetési felső határ napi összegének szorzatát.
+(2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhot fizet; ha azonban a magánszemély a kifizetést megelőzően nyilatkozik arról, hogy nyugdíjas, vagy az adóévben – minden más járulékalapot képező jövedelmét, valamint minden olyan ekhoalapot képező bevételét, amely után 15 százalék mértékű ekhot fizetett figyelembe véve – a nyugdíjjárulékot a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) előírása szerint a járulékfizetés felső határáig megfizette, az ekho mértéke 11,1 százalék. Ha a magánszemély az adott kifizetéssel lépi át a járulékfizetés felső határát, a nyilatkozatban a magánszemély megjelölheti az ekhoalapnak a járulékfizetés felső határa eléréséhez szükséges részét, ebben az esetben az ekhoalap fennmaradó részére alkalmazható a 11,1 százalékos ekhomérték. Szintén 11,1 százalék az ekho mértéke az ekhoalap azon része után, amely meghaladja az adott jogviszonyban a Tbj. szerint biztosítási kötelezettség időtartamaként figyelembe vehető napok és a kifizetés napján érvényes járulékfizetési felső határ napi összegének szorzatát.
 
 (3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 20 százalék ekhót fizet.
 
@@ -180,7 +180,7 @@ köteles adóbevallásában feltüntetni és a bevallás benyújtására előír
 
 ### A magánszemélyt terhelő ekho mértékének helyesbítése
 
-7. § Ha a magánszemély a 4. § (2) bekezdése szerinti nyilatkozattételi lehetőségével – annak feltételei fennállta ellenére – nem élt, illetőleg nyugdíjjárulék (magánnyugdíjpénztári tagdíj) fizetésére a Tbj. rendelkezései szerint nem volt kötelezett, a magánszemélyt terhelő ekho nyugdíjjáruléknak, magán-nyugdíjpénztári tagdíjnak minősülő részének megfelelő különbözetet a Tbj.-nek és Art.-nak a nyugdíjjárulék (magánnyugdíjpénztári tagdíj) különbözet visszaigénylésére vonatkozó szabályai alkalmazásával igényli vissza.
+7. § Ha a magánszemély a 4. § (2) bekezdése szerinti nyilatkozattételi lehetőségével – annak feltételei fennállta ellenére – nem élt, illetőleg nyugdíjjárulék fizetésére a Tbj. rendelkezései szerint nem volt kötelezett, a magánszemélyt terhelő ekho nyugdíjjáruléknak minősülő részének megfelelő különbözetet a Tbj.-nek és Art.-nak a nyugdíjjárulék különbözet visszaigénylésére vonatkozó szabályai alkalmazásával igényli vissza.
 
 ### Az ekhóval teljesített közterhek
 
@@ -198,7 +198,7 @@ kötelezettségek.
 
 - a) 1,6 százaléka természetbeni egészségbiztosítási járuléknak,
 - b) 9,5 százaléka személyi jövedelemadónak,
-- c) 3,9 százaléka – kivéve, ha a magánszemély nyugdíjas, vagy az adóévben a nyugdíjjárulékot a járulékfizetés felső határáig megfizette – nyugdíjjáruléknak; magánnyugdíjpénztár-tag magánszemély esetében az ekhoalap 0,1 százaléka nyugdíjjáruléknak, az ekhoalap 3,8 százaléka magán-nyugdíjpénztári tagdíjnak
+- c) 3,9 százaléka – kivéve, ha a magánszemély nyugdíjas, vagy az adóévben a nyugdíjjárulékot a járulékfizetés felső határáig megfizette – nyugdíjjáruléknak
 
 minősül.
 
@@ -221,8 +221,8 @@ minősül.
 
 11. § (1) Az állami adóhatóság a magánszemélyt terhelő 11,1 százalékos mértékkel levont ekho megfizetett összegéből 85,6 százalékot személyi jövedelemadóként tart nyilván, 14,4 százalékot természetbeni egészségbiztosítási járulékként az Egészségbiztosítási Alapnak utal át. Az EGT-államban biztosított személyt terhelő 9,5 százalékos mértékkel levont ekhot személyi jövedelemadóként tartja nyilván. A magánszemélyt terhelő 15 százalékos mértékkel levont ekho megfizetett összegéből az állami adóhatóság
 
-- a) 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százalékot a Nyugdíjbiztosítási Alapnak, 10,7 százalékot az Egészségbiztosítási Alapnak utal át,
-- b) a magánszemély magánnyugdíjpénztári tagsága esetén 63,3 százalékot személyi jövedelemadóként tart nyilván, 10,7 százalékot az Egészségbiztosítási Alapnak, 0,7 százalékot a Nyugdíjbiztosítási Alapnak, 25,3 százalékot a magánszemély magánnyugdíjpénztárának utal át.
+- a) 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százalékot a Nyugdíjbiztosítási Alapnak, 10,7 százalékot az Egészségbiztosítási Alapnak utal át.
+- b)
 
 (2) Az állami adóhatóság a kifizetőt terhelő, megfizetett ekho összegéből
 

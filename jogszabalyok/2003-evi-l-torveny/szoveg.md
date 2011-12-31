@@ -30,7 +30,7 @@ Az Országgyűlés elismeri a társadalmi szervezetek és alapítványok működ
 
 (2) Az Alapprogram bevételei:
 
-- a) 2012. évtől kezdődően a központi költségvetési támogatás összege a személyi jövedelemadóként ténylegesen befizetett összeg 1%-ából a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény 4. §-ában megjelölt kedvezményezetteknek a tárgyévet megelőző harmadik évben benyújtott, érvényes rendelkező nyilatkozatok alapján ténylegesen kiutalt jövedelemadó-hányaddal megegyező összeg. Az Alapprogram központi költségvetési támogatási összege a 2011. évben 3640 millió forint;
+- a) a központi költségvetésről szóló törvényben meghatározott összeg;
 - b) jogi személyek, jogi személyiség nélküli szervezetek és természetes személyek önkéntes befizetései, adományai;
 - c) költségvetési céltámogatások;
 - d) jogszabályban meghatározott egyéb bevételek.

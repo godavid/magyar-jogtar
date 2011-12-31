@@ -382,11 +382,11 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 #### 39. Az alacsony keresetű munkavállalók bérének emelését ösztönző egyes törvények módosításáról szóló 2011. évi XCIX. törvényt érintő módosítások
 
-446. § (1)
+446. § (1) Az alacsony keresetű munkavállalók bérének emelését ösztönző egyes törvények módosításáról szóló 2011. évi XCIX. törvény (a továbbiakban: T.) 1. §- a nem lép hatályba.
 
 (2)
 
-(3)
+(3) A T. 4. §-a nem lép hatályba.
 
 (4)
 
@@ -400,11 +400,15 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 #### 41. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény és egyes kapcsolódó törvények módosításáról szóló 2011. évi CXLI. törvény módosítása
 
-449. §
+449. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény és egyes kapcsolódó törvények módosításáról szóló 2011. évi CXLI. törvény
+
+- a) 41. §-a a „82/A. § a) pontja” szövegrész helyett a „82/A. § (1) bekezdés a) pontja” szöveggel,
+- b) 45. § 5. pontja a „81. § c) pontja” szövegrész helyett a „81. § (1) bekezdés c) pontja” szöveggel,
+- c) 66. §-a a „4. § (1) bekezdés d) pontja” szövegrész helyett a „4. § d) pontja” szöveggel lép hatályba.
 
 #### 42. Az Európai Rendőrségi Hivatallal, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységgel, a lőfegyverrel és a pirotechnikával kapcsolatos törvények jogharmonizációs célú módosításáról szóló 2011. évi XXIV. törvény módosítása
 
-450. §
+450. § Nem lép hatályba az Európai Rendőrségi Hivatallal, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységgel, a lőfegyverrel és a pirotechnikával kapcsolatos törvények jogharmonizációs célú módosításáról szóló 2011. évi XXIV. törvény 42. § a) pontjában a „2. §-ban,” szövegrész, az „ és 16. § (2)” szövegrész, és a 42. § f) pontja.
 
 #### 43. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény módosításáról
 

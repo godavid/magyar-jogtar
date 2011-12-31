@@ -2,7 +2,7 @@
 
 a magánnyugdíjról és a magánnyugdíjpénztárakról
 
-Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztosítási rendszer és az ehhez kapcsolódó magánnyugdíjrendszer útján gondoskodik időskor és megrokkanás esetén az állampolgárok biztonságáról. A magánnyugdíjrendszer létrehozása és működése érdekében az Országgyűlés a magánnyugdíjról és a magánnyugdíjpénztárakról a következő törvényt alkotja:
+A magánnyugdíjrendszer létrehozása és működése érdekében az Országgyűlés a magánnyugdíjról és a magánnyugdíjpénztárakról a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -24,23 +24,7 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 
 (3) A pénztárak részére vagyonkezelési és letétkezelési tevékenységet végző pénzügyi intézményekre, befektetési vállalkozásokra és befektetési alapkezelőkre, és az ilyen tevékenységet végző egyéb szervezetekre a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.), a tőkepiacról szóló törvényben foglaltakon kívül e törvény rendelkezéseit is alkalmazni kell.
 
-3. § (1)
-
-(2) Önkéntes döntése alapján pénztártaggá válhat az a természetes személy, aki
-
-- a) Magyarországon nyugdíjbiztosítási jogviszonyban áll, és nem töltötte be a 30. életévét;
-- b) első ízben létesít Magyarországon nyugdíjbiztosítási jogviszonyt;
-- c) a Tbj.-ben meghatározottak szerinti harmadik állam állampolgára, illetőleg hontalan, ha Magyarországon nyugdíjbiztosítási jogviszonyban áll.
-
-(3)
-
-(4) A (2) bekezdés alapján pénztártagságot létesítő személynek nyilatkoznia kell arról, hogy a pénztártagság létesítésének jogszabályi feltételei fennállnak.
-
-(5) A tagdíjfizetésre kötelezettek körét és a tagdíj alapjául szolgáló jövedelmek meghatározását a Tbj. tartalmazza. A társadalombiztosítási jogszabályokat kell alkalmazni – a törvényben foglalt eltérésekkel – a tagdíjfizetési kötelezettség teljesítésére, az ezzel összefüggő végrehajtási eljárásra, a bejelentési, nyilvántartási, adatszolgáltatási, tagdíjbevallási kötelezettségre, valamint e kötelezettség elmulasztására vagy nem szabályszerű teljesítésére, továbbá a jogalap nélkül felvett járadék visszafizetésére, az ezzel összefüggő felelősségi szabályokra, a késedelmi pótlékra, a mulasztási bírságra, az eljárási költségek megtérítésére, a követelés érvényesítésére, a mérséklésre és elengedésre, a jogorvoslati lehetőségekre.
-
-(6) A végrehajtási eljárás során a pénztári tagdíjkövetelés egy tekintet alá esik a társadalombiztosítási járuléktartozással.
-
-(7) A (2) bekezdésben meghatározott életkori feltételnek a tagsági jogviszony kezdeményezésének időpontjában kell fennállnia. A tagsági jogviszony kezdeményezésének időpontja a teljeskörűen kitöltött belépési nyilatkozat postára adásának, személyes benyújtás esetében pedig pénztári átvételének a napja.
+3. § Természetes személy önkéntes döntése alapján pénztártaggá válhat.
 
 ### Fogalmak
 
@@ -51,7 +35,7 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 - a) társadalombiztosítási nyugdíj: amit a Tny. társadalombiztosítási nyugellátásként megjelöl,
 - b) nyugdíjkorhatár: 1. az az életkor, melyet a Tny. az öregségi nyugdíjra való jogosultság feltételeként meghatároz, 2. a nyugdíjkorhatár betöltésével esik egy tekintet alá az az időpont, amelytől a pénztártag társadalombiztosítási nyugellátásban, így öregségi nyugdíjban (ideértve a korengedményes nyugdíjat, előnyugdíjat, bányásznyugdíjat, egyes művészeti tevékenységet folytatók öregségi nyugdíját, ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott öregségi nyugdíjat is, valamint a szolgálati nyugdíjat), a rokkantsági és baleseti rokkantsági nyugdíjban (ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott rendszeres rokkantsági segélyt is), továbbá növelt összegű öregségi és munkaképtelenségi járadékban részesül,
 - c) pénztártag: az a természetes személy, aki pénztárba belép és e törvény szerint tagdíjat fizet, illetve a pénztártól nyugdíjszolgáltatásban részesül,
-- d) tagdíj: az az összeg, amelyet a pénztár tagja, a pénztár számára köteles megfizetni, ideértve azt az összeget is, amellyel a Tbj. által kötelezően megállapított mértéket a pénztártag, vagy javára más személy vagy szervezet kiegészíti,
+- d) tagdíj: az az összeg, amelyet a pénztár tagja, a pénztár számára megfizet
 - e) egyéni számla: az a nyilvántartás, amelyen a felhalmozási időszakban a pénztártag követelése, illetve nyugdíjba vonuláskor a részére járó nyugdíjszolgáltatás megállapítása alapul,
 - f) szolgáltatási tartalékok: a folyósítás alatt álló ellátások szolgáltatástípusonkénti fedezete és annak nyilvántartása,
 - g) biztonsági tartalékok: az egyéni számlákhoz és a szolgáltatási tartalékokhoz kapcsolódó kockázatok kiegyenlítésére szolgáló tartalékok,
@@ -59,7 +43,7 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 - i) járadékos időszak: a nyugdíjszolgáltatás megállapításától kezdődően a szolgáltatás igénybevételének tartamával megegyező időszak,
 - j) nyugdíjszolgáltatás: a nyugdíjkorhatár elérésekor, vagy a pénztártag kérése alapján a nyugdíjkorhatár elérése után, továbbá ha a pénztártag munkaképesség-csökkenése eléri a rokkantsági nyugdíj megállapításához szükséges mértéket vagy egészségkárosodása eléri a rokkantsági nyugdíj megállapításához szükséges mértéket és nem rehabilitálható, illetőleg a pénztártag elhalálozása esetén hozzátartozója részére, az egyéni számláján nyilvántartott összeg mint fedezet alapján megállapított, a pénztártag által választott szolgáltatáshoz tartozó szolgáltatási tartalékból folyósított nyugdíjjáradék, a hozzátartozó, illetve kedvezményezett (a továbbiakban: kedvezményezett) járadéka, és az e törvényben szabályozott egy összegben történő pénzbeli kifizetés,
 - k) társadalombiztosítási jogszabályok: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.), a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.), valamint a Tbj. 13. §-ában hivatkozott külön jogszabály és nemzetközi egyezmény,
-- l) nyugdíjbiztosítási jogviszony: a Tbj. 5. §-ában és 26. § (1) bekezdésében meghatározott, nyugdíjjárulékfizetési kötelezettséggel járó jogviszony, valamint a Tbj. 34. § (1) bekezdése szerinti, nyugdíjbiztosítási jogosultság érdekében megkötött megállapodással létrejött jogviszony,
+- l)
 - m)
 - n) pénzügyi terv: a pénztár gazdálkodását és tartalékainak változását előre bemutató rövid távú (éves) és hosszú távú (öt évre szóló) terv,
 - o) biztosításmatematikai mérleg (aktuáriusi értékelés): a pénztár tartalékainak értékelése, amelynek során a tervezett bevételeket és kiadásokat összevetik a tényleges eredményekkel, valamint megvizsgálják, hogy a szolgáltatási tartalékok elégséges fedezetet biztosítanak-e a nyugdíjszolgáltatások kifizetéséhez,
@@ -88,7 +72,7 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 
 (3) E törvény alkalmazásában tagsági okirat: a pénztár által kiállított, legalább a belépési nyilatkozaton szereplő adatokat tartalmazó, teljes bizonyító erejű magánokirat.
 
-(4) Magánnyugdíjpénztári tevékenységnek minősül a pénztártagok felvétele, a tagok számára kötelezően fizetendő tagdíjak gyűjtése, a tagdíjakból származó vagyon befektetése, nyugdíjszolgáltatás nyújtása és egyösszegű kifizetés teljesítése egyéni számla vezetés alapján.
+(4) Magán-nyugdíjpénztári tevékenységnek minősül a pénztártagok felvétele, a tagok számára fizetendő tagdíjak gyűjtése, a tagdíjakból származó vagyon befektetése, nyugdíjszolgáltatás nyújtása és egyösszegű kifizetés teljesítése egyéni számla vezetés alapján.
 
 ### Működési alapelvek, alapvető rendelkezések
 
@@ -291,10 +275,9 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 
 (4) A pénztártag köteles
 
-- a) tagsági viszonyát – a Tbj. szerinti biztosítási jogviszonyának fennállása alatt – valamely általa választott pénztárban folyamatosan fenntartani,
+- a) tagsági jogviszonyát valamely általa választott pénztárban folyamatosan fenntartani,
 - b) adatszolgáltatási kötelezettségének eleget tenni,
-- c) tagdíjat fizetni,
-- d) foglalkoztatójának a biztosítási jogviszony létrejöttét követő 15. napon belül bejelenteni a pénztártagság tényét, annak a magánnyugdíjpénztárnak a megnevezését, címét és pénzforgalmi számlájának a számát, ahol a tagsági jogviszonya a bejelentésekor fennáll. A pénztártagság tényét a belépési nyilatkozat, vagy tagsági okirat bemutatásával kell igazolni.
+- c)–d)
 - e) a jogalap nélkül felvett szolgáltatás összegét, ezek kamatait, határidőben, maradéktalanul a pénztárnak visszafizetni,
 - f) betartani az SzMSz előírásait.
 
@@ -351,7 +334,7 @@ Az állam az Alkotmányban foglalt elvek szerint a kötelező társadalombiztos�
 - g) a törvény 3. § alapján magánnyugdíjpénztárba belépett személy – amennyiben a Tbj.-ben foglaltak alapján harmadik állam állampolgárának vagy hontalannak minősül – döntése szerint, a nyugdíjbiztosítási jogviszonya megszűnésének napjával;
 - h)
 - i) a 28. § (1) bekezdésének b) pontja szerinti egyösszegű szolgáltatás igénybevételével;
-- j)
+- j) a törvény 24. § (15) bekezdésében foglalt megszüntetéssel, a megszüntetés napjával
 
 szűnik meg.
 
@@ -372,11 +355,7 @@ szűnik meg.
 
 az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag követelésének egy ezreléket meghaladó részét, de legfeljebb ötezer forintot átlépési díjként érvényesít. Az átlépési díj nem engedhető el, a tag számára a befogadó pénztár által nem téríthető meg, a tagot illető tagdíjbefizetésből vagy a tag egyéni számlájának egyenlegéből nem vonható le.
 
-(4) Megállapodást köthet a pénztárral a tagdíjfizetésre az a pénztártag, aki nem rendelkezik a tagdíj alapjául a Tbj.-ben meghatározott járulékalapot képező jövedelemmel.
-
-(5) A tagdíjfizetésre kötött megállapodás a megkötése napján, legkorábban a tárgyhónap első napján jön létre. A megállapodásban rendelkezni kell a tagdíj alapjáról és összegéről, és az esetleges tagdíj-kiegészítés vállalásáról is. A megállapodás megkötését követően a tagdíjat a tárgyhónapot követő hónap 12. napjáig kell az érintett magánnyugdíjpénztárhoz megfizetni. A pénztártag a megállapodás megszűnését a magánnyugdíjpénztár részére írásban köteles bejelenteni. A tagdíj fizetését – támogatási megállapodás alapján – a tag helyett más is átvállalhatja. A támogatás jogosultja a pénztártag. A támogatás felhasználására a tagdíjra vonatkozó szabályokat kell alkalmazni.
-
-(6) Azt a pénztártagot, aki a tagdíj alapjául szolgáló jövedelemmel nem rendelkezik és tagdíj fizetésére megállapodást nem kötött, vagy részére támogatási megállapodást nem kötöttek (a továbbiakban: számlatulajdonos) a pénztártagok jogai illetik meg és kötelezettségei terhelik azzal, hogy a számlatulajdonos nem választhat és a pénztár szerveibe nem választható. Ez a szabály irányadó arra a rokkantsági nyugellátásban részesülő pénztártagra, aki a tagsági jogviszonyát fenn kívánja tartani.
+(4)–(6)
 
 (7) A 23. § (1) bekezdés d) pontja szerinti esetben a társadalombiztosítási nyugdíjrendszerbe történő visszalépési szándékáról a pénztártag a társadalombiztosítási nyugdíjigény benyújtásával egyidejűleg írásban nyilatkozik a nyugdíjbiztosítási igazgatási szerv részére. A nyugdíjbiztosítási igazgatási szerv a benyújtást követően írásban értesíti az érintett magánnyugdíjpénztárat a pénztártag visszalépési szándékának bejelentéséről és a nyugdíj megállapításának kezdő időpontjáról, valamint a megállapítást követően a társadalombiztosítási nyugellátás összegének a Tny. 12. § (7) bekezdése alapján számított összegéről. A nyugdíjbiztosítási igazgatási szervnek a társadalombiztosítási nyugellátás összegéről szóló értesítését követően a magánnyugdíjpénztár haladéktalanul, írásban tájékoztatja a pénztártagot az egyéni számlakövetelés alapján számított életjáradék várható összegéről. Amennyiben a pénztártag a visszalépésről dönt, a pénztárhoz benyújtja visszalépési kérelmét, melyet az haladéktalanul továbbít a nyugdíjbiztosítási igazgatási szerv részére. A visszalépési kérelem a nyugdíjigény elbírálása tárgyában hozott első fokú határozat közlését követő legfeljebb 30 napon belül nyújtható be.
 
@@ -402,6 +381,16 @@ az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag k
 
 kell alkalmazni.
 
+(15) Az a társadalombiztosítási nyugellátásban nem részesülő, e törvény hatálybalépését követően pénztártaggá vált természetes személy, aki teljes összegű társadalombiztosítási nyugellátásban kíván részesülni, 2012. március 31. napjáig kezdeményezheti tagsági jogviszonyának megszüntetését és egyéni számlaegyenlege 4. § (2) bekezdés zsk) pontja szerinti visszalépő tagi kifizetéssel csökkentett összegének a Nyugdíjreform és Adósságcsökkentő Alap részére történő átutalását.
+
+(16) A 23. § (1) bekezdés j) pontjában meghatározott esetben a tag tagsági jogviszonya megszüntetésének szándékát a (15) bekezdésben meghatározott időpontig annak a magánnyugdíjpénztárnak kell bejelentenie, amelyikben tagsági jogviszonnyal rendelkezik. A pénztár a tag tagsági jogviszonyát 2012. május 31-ével szünteti meg (a megszüntetés napja).
+
+(17) A 23. § (1) bekezdés j) pontjában meghatározott esetben a tagokkal való elszámolás során az átlépés szabályait kell megfelelőn alkalmazni. Az eszközöket – jogszabály ellenkező rendelkezése hiányában – a tagsági jogviszonyát megszüntető tag portfólióján belüli eszközök arányának megfelelően kell átadni.
+
+(18) A pénztár a tagsági jogviszony megszüntetésével kapcsolatos tényleges költségeket, legfeljebb azonban a tag követeléséből annak egy ezrelékét vonhatja le.
+
+(19) A tagsági jogviszonyát megszüntető tag jogosult a követelésének részét képező egyéni számla-egyenleg tagdíjbefizetése alapján kiszámított, 4. § (2) bekezdésének zsj) pontjában meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt befizetett tagdíjkiegészítés összegének felvételére (visszalépő tagi kifizetés), vagy annak az önkéntes nyugdíjpénztárnál vezetett tagi számláján, vagy a társadalombiztosítási nyugdíjrendszerben létrejövő egyéni számláján történő jóváírásra. A tag a tagsági jogviszony megszűnésének napjától (2012. május 31.) kérheti a visszalépő tagi kifizetés átutalását. Amennyiben a tag tagsági jogviszonya megszüntetésének időpontjáig nem rendelkezik a visszalépő tagi kifizetésekről, azokat a társadalombiztosítási nyugdíjrendszerben lévő egyéni számláján kell jóváírni.
+
 24/A. § (1) Amennyiben a pénztártag a 23. § (1) bekezdésének g) pontja szerinti választási lehetőségével élve magánnyugdíjpénztári tagsági jogviszonyát meg kívánja szüntetni és az egyéni számlán felhalmozott összeget – bármely országban működő – időskori megélhetést szolgáló megtakarítási formába kívánja utalni, arról a pénztár részére a nyugdíjbiztosítási jogviszony megszűnését követő 90 napon belül írásban nyilatkozik. A nyilatkozatban meg kell jelölni a pénztártag által választott megtakarítási formát, valamint az ezt működtető intézmény címét és pénzforgalmi számlájának számát.
 
 (2) A pénztár a pénztártag egyéni számláján nyilvántartott, az (1) bekezdés szerinti nyilatkozat pénztárhoz történő megérkezésének napját magában foglaló negyedév fordulónapi követelésének összegét – a (3) bekezdésben foglaltak figyelembevételével – a fordulónapot követő 50 napon belül köteles átutalni a tag nyilatkozatában megjelölt intézmény részére. Az átutalt összeg más jogszabályok alkalmazásában a magánnyugdíjpénztár által nyújtott nyugdíjszolgáltatással esik egy tekintet alá.
@@ -412,17 +401,7 @@ kell alkalmazni.
 
 ### A tagdíj
 
-26. § (1) A tagdíj alapja megegyezik a Tbj.-ben meghatározott nyugdíjjárulék-alappal.
-
-(2) A tagdíj mértékét a Tbj. határozza meg.
-
-(3)
-
-(4) A tagdíj bevallásának és megfizetésének módjáról a Tbj. rendelkezik.
-
-(5) A munkáltató egyoldalú, írásban történő kötelezettségvállalással munkavállalója tagdíját vagy a tag saját tagdíját együttesen a tagdíjalap 10 százalékáig kiegészítheti. Írásban történő kötelezettségvállalásnak minősül a tagdíj-kiegészítés Tbj. 50. §-a szerinti bevallása is. A munkáltató kötelezettségvállalása minden munkavállalóra azonos mértékben és egyforma feltételekkel vonatkozik.
-
-(6) Nem kell alkalmazni az (5) bekezdés második mondatának rendelkezéseit abban az esetben, ha a kölcsönbeadó a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 193/H. § (10) bekezdése alapján a tagdíj-kiegészítés bevallására és befizetésére a kölcsönvevőnél fennálló feltételek szerint kötelezett.
+26. § A tagdíj a pénztár szolgáltatásainak fedezetére, valamint a pénztárszervezet működtetésére a pénztártagok által önkéntesen vállalt, rendszeresen fizetett pénzbeli hozzájárulás. A tagdíj minden pénztártagra kötelező, legkisebb mértékét (a továbbiakban: egységes tagdíj) a pénztár alapszabálya határozza meg.
 
 ### V. Fejezet — A PÉNZTÁRI SZOLGÁLTATÁS
 

@@ -2,7 +2,23 @@
 
 a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól
 
-Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészségügyi mutatóira,– annak érdekében, hogy a dohánytermékek forgalmazásának részleges korlátozásával csökkentse ezen termékek kiskorúak számára történő hozzáférhetőségét,– kinyilvánítva abbéli szándékát, hogy a dohánytermékek elsősorban nyilvános helyeken történő fogyasztásának szabályozásával védelmet kell nyújtani a nemdohányzók, valamint az életkoruk vagy egészségi állapotuk miatt egyébként fokozott védelmet igénylő személyek részére a passzív dohányzás káros hatásaival szemben,– felismerve továbbá, hogy a nemdohányzók védelmére vonatkozó szabályozást az egészségtudatos szemléletmód elterjedésével párhuzamosan, rendszeres időközönként felül kell vizsgálni annak érdekében, hogy az állam a magánszféra mind újabb területein is védelmet biztosítson a passzív dohányzás káros hatásaival szemben,– a magánélethez fűződő jogok tiszteletben tartása mellett nyomatékosan hangsúlyozva, hogy kerülni kell a dohányzást különösen kiskorúak, várandós nők, betegek vagy mozgásukban bármilyen okból korlátozott személyek jelenlétében a magánélet színterein is, különösen a zárt légterű helyiségekben vagy gépkocsik zárt utasterében, mivel a dohányfüst minden esetben mérgező, annak nincs biztonságos egészségügyi határértéke,– elősegítve ezzel az egészséghez, valamint az egészséges környezethez fűződő alkotmányos jogok megvalósulását és védelmét,– figyelemmel – az ellentétes érdekek megfelelő egyeztetésével – a dohánytermékek fogyasztási kultúrája fejlesztésének szükségességre, a méltányolható fogyasztási szokásokat elismervea következő törvényt alkotja:
+Az Országgyűlés
+
+– tekintettel a magyar lakosság kedvezőtlen népegészségügyi mutatóira,
+
+– annak érdekében, hogy a dohánytermékek forgalmazásának részleges korlátozásával csökkentse ezen termékek kiskorúak számára történő hozzáférhetőségét,
+
+– kinyilvánítva abbéli szándékát, hogy a dohánytermékek elsősorban nyilvános helyeken történő fogyasztásának szabályozásával védelmet kell nyújtani a nemdohányzók, valamint az életkoruk vagy egészségi állapotuk miatt egyébként fokozott védelmet igénylő személyek részére a passzív dohányzás káros hatásaival szemben,
+
+– felismerve továbbá, hogy a nemdohányzók védelmére vonatkozó szabályozást az egészségtudatos szemléletmód elterjedésével párhuzamosan, rendszeres időközönként felül kell vizsgálni annak érdekében, hogy az állam a magánszféra mind újabb területein is védelmet biztosítson a passzív dohányzás káros hatásaival szemben,
+
+– a magánélethez fűződő jogok tiszteletben tartása mellett nyomatékosan hangsúlyozva, hogy kerülni kell a dohányzást különösen kiskorúak, várandós nők, betegek vagy mozgásukban bármilyen okból korlátozott személyek jelenlétében a magánélet színterein is, különösen a zárt légterű helyiségekben vagy gépkocsik zárt utasterében, mivel a dohányfüst minden esetben mérgező, annak nincs biztonságos egészségügyi határértéke,
+
+– elősegítve ezzel az egészséghez, valamint az egészséges környezethez fűződő alkotmányos jogok megvalósulását és védelmét,
+
+– figyelemmel – az ellentétes érdekek megfelelő egyeztetésével – a dohánytermékek fogyasztási kultúrája fejlesztésének szükségességre, a méltányolható fogyasztási szokásokat elismerve
+
+a következő törvényt alkotja:
 
 ### Értelmező rendelkezések
 
@@ -37,7 +53,8 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 (3) Az (1) bekezdésben foglaltaktól eltérően – ha tűzvédelmi előírás nem tiltja – dohányzóhely kijelölése nélkül is lehet dohányozni
 
 - a) szórakoztató, vendéglátó szolgáltatást nyújtó közforgalmú intézményeknek kizárólag élelmiszerek, illetve egyéb italáruk kiszolgálására a vendégforgalom számára nyitvaálló helyiségeiben, ha a helyiségben helyben történő fogyasztás céljából meleg- és hidegkonyhai, továbbá cukrászati készítményt nem, illetőleg – az üzletkörnek megfelelően – csak kiegészítő jelleggel hoznak forgalomba;
-- b) a dohánytermék kereskedelmi bemutatója, vagy egyéb okból történő fogyasztása céljából létrejött rendezvényeken, feltéve, hogy a dohányzást az e törvényben foglalt más rendelkezések egyébként nem tiltják.
+- b) a dohánytermék kereskedelmi bemutatója, vagy egyéb okból történő fogyasztása céljából létrejött rendezvényeken, feltéve, hogy a dohányzást az e törvényben foglalt más rendelkezések egyébként nem tiltják;
+- c) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 1. § (3) bekezdés c) pontja és 27–28. §-ai szerinti játékkaszinóban
 
 (4) A dohányzóhely ugyanabban a helyiségben nem jelölhető ki, kivéve, ha annak légtere a helyiség egyéb részétől elkülöníthető, vagy az elkülönítés megfelelő légtechnikai megoldás alkalmazásával megoldható. A dohányzásra kijelölt hely zárt légterű csak abban az esetben lehet, ha a megfelelő légcsere feltételei nyílászáró szerkezetekkel, vagy egyéb műszaki berendezés felszerelésével biztosítottak, és ott más, nemdohányzó személy benttartózkodása – a munkaköri feladatok ellátásán kívül, a munkavédelemről szóló 1993. évi XCIII. törvény rendelkezéseire is figyelemmel – a helyiség rendeltetéséből adódóan nem szükségszerű.
 
@@ -89,7 +106,9 @@ hozható meg.
 
 (4) Azon munkahelyek esetében, ahol dohányzóhely kijelölése a 2. § (2) bekezdése alapján tilos, illetve ahol dohányzóhely kijelölése a 2. § (3) bekezdése alapján nem kötelező, az (1)–(3) bekezdés nem alkalmazható. Az (1) bekezdés szerint nemdohányzóvá nyilvánított munkahelyen a (2)–(3) bekezdés szerinti szabályok megfelelő alkalmazásával lehet dohányzóhely kijelölését kezdeményezni.
 
-### A dohánytermékek forgalomba hozatalánakegyes korlátai
+### A dohánytermékek forgalomba hozatalának
+
+egyes korlátai
 
 5. § (1) Dohánytermék nem árusítható közoktatási intézményben, személyes gondoskodást nyújtó szociális intézményben, gyermekjóléti, gyermekvédelmi intézményben, valamint egészségügyi intézményben.
 
@@ -121,7 +140,11 @@ hozható meg.
 
 (6) Dohánytermék árusítása automatából nem megengedett.
 
-### A dohánytermékek fogyasztására,illetőleg forgalmazására vonatkozó tilalmak,valamint kötelezettségek megszegése
+### A dohánytermékek fogyasztására,
+
+illetőleg forgalmazására vonatkozó tilalmak,
+
+valamint kötelezettségek megszegése
 
 7. § (1) A dohányzással, a dohányzóhely kijelölésével összefüggő e törvényben, valamint a munkavédelemről szóló törvényben foglalt korlátozást, illetve kötelezettséget megszegő természetes vagy jogi személy, valamint jogi személyiség nélküli gazdasági társaság egészségvédelmi bírság, a dohánytermékek forgalmazására vonatkozó, e törvényben meghatározott tilalom megszegése esetén külön jogszabály szerint fogyasztóvédelmi bírság megfizetésére köteles, illetve vele szemben egyéb jogkövetkezmény alkalmazható.
 
