@@ -26,12 +26,7 @@ Az Országgyűlés az Alkotmányban foglalt elveknek megfelelően az időskorúa
 
 (5) Ha a biztosított élt a Tbj.-ben biztosított azon jogával, hogy a társadalombiztosítási nyugdíjrendszerben, valamint a magánnyugdíjrendszerben is részt vesz, és ennek megfelelően a magánnyugdíjrendszerben tagdíjat fizetett, illetőleg azt a foglalkoztató a keresetéből, a jövedelméből levonta, majd ennek összegét a társadalombiztosítási nyugdíjrendszer számára a biztosított döntése alapján átutalták, akkor nyugellátását, baleseti rokkantsági nyugdíját úgy kell megállapítani, mintha biztosítási idejének teljes tartama alatt kizárólag nyugdíjjárulék fizetésére lett volna kötelezett.
 
-(6) Az a személy, aki
-
-- a) 2011. január 31-ét követően létesít magán-nyugdíjpénztári tagsági jogviszonyt, a jogviszony létesítésének időpontjától, de legkorábban 2011. december 1-jétől kezdődően,
-- b) 2011. január 31-éig kezdeményezi a magán-nyugdíjpénztári tagsági jogviszonyának fenntartását, 2011. december 1-jétől kezdődően
-
-a társadalombiztosítási nyugdíjrendszerben további szolgálati időt nem szerez, és az ezt követően szerzett keresete, jövedelme a társadalombiztosítási nyugellátások megállapítása során nem vehető figyelembe, azonban a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 32/B. §-ában meghatározott feltételek szerint az időskorúak járadékára jogosult.
+(6)
 
 3. § (1) Az 1997. december 31-én hatályos jogszabályok alapján megszerzett jogosultságot megszüntetni, illetőleg korlátozni nem lehet.
 
