@@ -1123,8 +1123,9 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 - a) abban az esetben, ha a keresetindításra jogszabály hatvan napnál nem hosszabb határidőt állapít meg,
 - b) a Negyedik Részben meghatározott különleges eljárásokban,
-- c) a fizetési meghagyásos eljárást követő perben (315. §) vagy
-- d) külön törvény eltérő rendelkezése hiányában a nemperes eljárásokban.
+- c) a fizetési meghagyásos eljárást követő perben (315. §),
+- d) külön törvény eltérő rendelkezése hiányában a nemperes eljárásokban, vagy
+- e) az Ötödik Részben meghatározott kiemelt jelentőségű perekben.
 
 122. § (1) Marasztalásra irányuló kereseti kérelemnek csak lejárt követelés érvényesítése végett van helye.
 
@@ -3428,11 +3429,16 @@ alapított igény érvényesítése.
 
 (2) Az e Részben foglaltakat a XV–XXV. fejezet szerinti különleges eljárásokban nem kell alkalmazni.
 
+(3) A jelen fejezet rendelkezései alapján zajló perekben a jogi képviselet kötelező.
+
 386/B. § A jelen fejezet szerinti kiemelt jelentőségű pereknél az elsőfokú bíróság köteles erre irányuló kérelem hiányában is elrendelni az ügyek soron kívüli intézését. Az elsőfokú bíróság által elrendelt soronkívüliség az eljárás minden szakaszára, a rendes és rendkívüli perorvoslatokra is kiterjed.
 
 386/C. § (1) A kiemelt jelentőségű perekben a bíróság a keresetlevelet nyomban, de legkésőbb a bírósághoz érkezéstől számított nyolc napon belül megvizsgálja annak megállapítása érdekében, hogy nem kell-e azt a félnek hiánypótlásra visszaadni (95. §), nincs-e helye az ügy áttételének (129. §), illetőleg a keresetlevél idézés kibocsátása nélküli elutasításának (130. §), és a szükséges intézkedéseket megteszi. A bíróság a keresetlevél érkezésétől számított 60 napon belülre köteles a per első tárgyalását kitűzni, kivéve, ha a törvény a határidő kezdő időpontját illetően korábbi időpontot határoz meg. A tárgyalási időpontra vonatkozó rendelkezéseket nem kell alkalmazni, ha a fél részére a tárgyalásra szóló idézést külföldre kell kézbesíteni és a kézbesítéshez szükséges idő a tárgyalás határidőn belüli megtartását nem teszi lehetővé.
 
-(2) A folytatólagos tárgyalást az elhalasztott tárgyalás napját követő két hónapon belülre kell kitűzni, kivéve, ha a szakértői bizonyítás következtében ennél hosszabb tárgyalási időköz szükséges.
+(2) A folytatólagos tárgyalást az elhalasztott tárgyalás napját követő két hónapon belülre kell kitűzni, kivéve
+
+- a) ha a szakértői bizonyítás következtében ennél hosszabb tárgyalási időköz szükséges, vagy
+- b) ha a személyes megjelenésre kötelezett fél részére a tárgyalásra szóló idézést külföldre kell kézbesíteni, és jogszabály kötelezően ennél hosszabb kézbesítési határidőt állapít meg.
 
 386/D. § A bíróság a 177. § szerint elrendelt szakértői bizonyítás során, a szakvélemény elkészítésére legfeljebb 30 napos, különösen bonyolult ügyekben legfeljebb 60 napos határidőt engedhet. A határidő különösen indokolt esetben egyszer és legfeljebb az eredetileg meghatározott napok számával meghosszabbítható, kizárólag a szakértő indokolt kérelmére.
 

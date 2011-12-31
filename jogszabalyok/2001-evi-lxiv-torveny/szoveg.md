@@ -334,7 +334,7 @@ soron kívül legfeljebb egyéves időtartamra ideiglenes védelem alá helyezhe
 - e) a műemléknek a műemlékvédelmi bírság szerinti számítási kategóriájába sorolását,
 - f) a műemlék ingatlan (ingatlanrész) és a műemléki terület meghatározását, az azonosításához szükséges helyrajzi adatokkal.
 
-33. § Egyes jelentős történeti és kulturális értékű, illetve veszélyeztetett helyzetű műemlékek és műemlékegyüttesek fokozott védelmét biztosítani kell. Ezek közül az e törvény mellékletében egyedileg meghatározott műemlékeket, illetve műemlékegyütteseket kizárólagos állami tulajdonban kell tartani. Amennyiben tulajdonjoguk az ingatlan-nyilvántartásban nem az állam javára van bejegyezve, és az nem az ingatlan-nyilvántartás hiányosságának vagy jogszabálysértésnek az eredménye, a tulajdonjogot az állam javára meg kell szerezni.
+33. § Egyes jelentős történeti és kulturális értékű, illetve veszélyeztetett helyzetű műemlékek és műemlékegyüttesek fokozott védelmét biztosítani kell.
 
 34. § A műemléket, valamint indokolt esetben fontosabb megközelítési pontjain a védett területet a hatóság a jellemző adatokat ismertető ,,Műemlék'' feliratú táblával jelöli meg.
 
@@ -854,7 +854,7 @@ kulturális javakat.
 
 100. §
 
-### Melléklet a 2001. évi LXIV. törvényhez
+### 1. melléklet a 2001. évi LXIV. törvényhez
 
 #### Az állam kizárólagos tulajdonában tartandó műemlékek és műemlékegyüttesek jegyzéke
 

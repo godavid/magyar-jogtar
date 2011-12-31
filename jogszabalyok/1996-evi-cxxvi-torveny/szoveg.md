@@ -50,7 +50,6 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 - e) az országos szakmúzeumok;
 - f) az a könyvtári, levéltári, múzeumi, egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet, amely a rendelkező nyilatkozat évének első napja előtti három év valamelyikében a helyi önkormányzattól, az országos, illetve a helyi kisebbségi önkormányzattól vagy a központi költségvetéstől egyedi támogatásban részesült és nem tartozik az előző kategóriákba;
 - g) a felsőoktatásról szóló 2005. évi CXXXIX. törvény 1. számú mellékletében meghatározott felsőoktatási intézmény;
-- h) a Magyar Kármentő Alap.
 - h) a Nemzeti Együttműködési Alap.
 
 (2) Az (1) bekezdés a) pontjában megjelöltek közül kizárólag az a szervezet lehet kedvezményezett, amely
@@ -169,7 +168,7 @@ engedélyezheti az egymástól elkülönített adatok kódjel alapján történ�
 (8) A felhasználás abban az esetben tekinthető – a közcélú tevékenység szempontjából – megfelelőnek, amennyiben a költségvetési támogatást
 
 - a) a 4. § (1) bekezdés aa)–ac) pontja szerinti kedvezményezett az alapító okiratában, alapszabályában alaptevékenységként meghatározott – a Civil tv. szerinti – közhasznú tevékenység megvalósítására fordítja,
-- b) a 4. § (1) bekezdés b)–h) pontja szerinti kedvezményezett a létesítő okiratában és a rá vonatkozó külön jogszabályokban alaptevékenységként meghatározott közcélú, közérdekű, közhasznú tevékenység megvalósítására fordítja.
+- b) a 4. § (1) bekezdés b)–g) pontja szerinti kedvezményezett a létesítő okiratában és a rá vonatkozó külön jogszabályokban alaptevékenységként meghatározott közcélú, közérdekű, közhasznú tevékenység megvalósítására fordítja.
 
 (9) A kedvezményezett fenntartásával, működésével kapcsolatos költségek – a 6. § (3) bekezdés szerinti tartalékolás esetén, beleértve a tartalékolást követő években felmerült, ilyen jellegű költségeket is – együttes összege az évente kiutalt költségvetési támogatás harminc százalékát nem haladhatja meg. Működési költségként különösen az alábbiak vehetők figyelembe:
 

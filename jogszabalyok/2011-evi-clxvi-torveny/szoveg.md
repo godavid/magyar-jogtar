@@ -110,11 +110,21 @@ Magyarország 2012. évi költségvetését megalapozó egyes törvények módos
 
 #### 26. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásánakegyes szabályairól szóló 1999. évi XLII. törvény módosításáról szóló 2011. évi XLI. törvényegyes rendelkezéseinek eltérő szöveggel történő hatálybaléptetése
 
-26. §
+26. § A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosításáról szóló 2011. évi XLI. törvény 10. §-a a következő szöveggel lép hatályba:
 
-### II. Fejezet — VEGYES MÓDOSÍTÓ RENDELKEZÉSEK
+„10. § Az Nvt. 8. §-a a következő (5) bekezdéssel egészül ki:
 
-#### 27. A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet módosítása
+„(5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+a) a kombinált figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, továbbá a dohánytermékek előállításának, forgalmazásának és ellenőrzésének a jövedéki törvény szabályozási körébe nem tartozó egyéb feltételeit,
+
+b) az egészségvédelmi bírság befizetésének, nyilvántartásának részletes szabályait.”
+
+II. FEJEZET
+
+VEGYES MÓDOSÍTÓ RENDELKEZÉSEK
+
+27. A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet módosítása
 
 27. §
 
@@ -216,11 +226,15 @@ Magyarország 2012. évi költségvetését megalapozó egyes törvények módos
 
 #### 52. A társadalombiztosítás pénzügyi alapjai 2000. évi költségvetésének végrehajtásáról szóló2001. évi LXXXIV. törvény módosítása
 
-52. § A társadalombiztosítás pénzügyi alapjai 2000. évi költségvetésének végrehajtásáról szóló 2001. évi LXXXIV. törvény 14. § a) pontjában a „2011. december 31-ig” szövegrész helyébe a „2012. december 31-ig” szöveg lép.
+52. §
 
 #### 53. A Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény módosítása
 
-53. §
+53. § A Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény 2. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az Alapprogram bevételei:)
+
+„a) a központi költségvetésről szóló törvényben meghatározott összeg;”
 
 #### 54. A fogyasztói árkiegészítésről szóló 2003. évi LXXXVII. törvény módosítása
 
@@ -332,19 +346,97 @@ Magyarország 2012. évi költségvetését megalapozó egyes törvények módos
 
 #### 75. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásánakegyes szabályairól szóló 1999. évi XLII. törvény módosításáról szóló 2011. évi XLI. törvényeltérő szöveggel történő hatálybaléptetése
 
-75. §
+75. § A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosításáról szóló 2011. évi XLI. törvény 11. §-a a következő szöveggel lép hatályba:
 
-#### 76. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló2008. évi XCIX. törvény módosításáról szóló 2011. évi LXXXVI. törvény módosításaés eltérő szöveggel történő hatálybaléptetése
+„11. § Az Nvt. a következő 8/A. és 8/B. §-sal egészül ki:
 
-76. §
+„8/A. § (1) 2012. január 1-je és 2012. március 31-e között az egészségvédelmi bírság kiszabását az egészségügyi államigazgatási szerv mellőzi abban az esetben, ha a hatósági ellenőrzés során megállapított, e törvénybe ütköző jogsértést megvalósító cselekmény miatt e törvény 2011. december 31-én hatályos rendelkezései alapján bírság kiszabásának nem lett volna helye.
 
-#### 77. A közbeszerzésekről szóló 2011. évi CVIII. törvény eltérő szöveggel történő hatálybaléptetése
+(2) Az egészségügyi államigazgatási szerv (1) bekezdés szerinti eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. § (1) bekezdés a) pontjában foglaltak az irányadóak, azzal, hogy
 
-77. §
+a) a jogsértőt legalább húsz napos, de legkorábban 2012. április 1-jei határidővel kell a jogszabálysértés megszüntetésére kötelezni, és
+
+b) a (2) bekezdésben foglalt időszak alatt e törvénybe ütköző cselekményekkel összefüggésben a Ket. 94. § (2) bekezdés d) pontja nem alkalmazható.
+
+8/B. § Azok a cigaretta dohánytermékek, amelyek a 6. § 2011. december 31-én hatályos rendelkezéseinek megfelelnek, de nem felelnek meg a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosításáról szóló 2011. évi XLI. törvény (a továbbiakban: Módosító Tv.) által megállapított 6. § rendelkezéseinek, a 8. § (5) bekezdés a) pontjában foglalt felhatalmazás alapján kiadott jogszabály hatálybalépésétől számított
+
+a) nyolcadik hónap első napjától nem gyárthatóak és a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény rendelkezései szerint nem bocsáthatóak szabadforgalomba, továbbá
+
+b) tizenkettedik hónap első napjától nem hozhatók forgalomba és nem adhatók át a végső fogyasztónak.”
+
+76. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló2008. évi XCIX. törvény módosításáról szóló 2011. évi LXXXVI. törvény módosításaés eltérő szöveggel történő hatálybaléptetése
+
+76. § (1) Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosításáról szóló 2011. évi LXXXVI. törvény 24. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A 22. § (1) bekezdése 2012. január 1-jén lép hatályba.”
+
+(2) Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosításáról szóló 2011. évi LXXXVI. törvény 24. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A 7. § 2012. március 31-én lép hatályba.”
+
+(3) Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosításáról szóló 2011. évi LXXXVI. törvény 7. §-ának az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 9. § (2) bekezdését megállapító rendelkezése a következő szöveggel lép hatályba:
+
+„(2) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén az előadó-művészeti államigazgatási szerv az előadó-művészeti szervezet fenntartójával, ennek hiányában az előadó-művészeti szervezet képviselőjével szemben ötvenezer forint bírságot szab ki.”
+
+(4) Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosításáról szóló 2011. évi LXXXVI. törvény 7. §-ának az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 14. § (2) bekezdését megállapító rendelkezése a következő szöveggel lép hatályba:
+
+„(2) A 19. § (1) bekezdése, 20. § (3) bekezdése és 21. § (1) bekezdése szerinti pályázat keretében megkötött támogatási szerződés tartalmazza a közszolgálati szerződés 13. § (2) bekezdés a)–d) és f)–j) pontja szerinti rendelkezéseket is.”
+
+(5) Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosításáról szóló 2011. évi LXXXVI. törvény 12. §-a következő szöveggel lép hatályba:
+
+„12. § Az Emtv. 24. §-a helyébe a következő rendelkezés lép:
+
+„24. § (1) A központi költségvetésről szóló törvény meghatározza a nyilvántartott színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok elosztható támogatásának keretösszegeit. A központi költségvetésről szóló törvény
+
+a) nemzeti előadó-művészeti szervezeteket megillető művészeti támogatás és működési támogatás összegét az előadó-művészeti szervezetekre,
+
+b) a kiemelt előadó-művészeti szervezetek
+
+ba) működési támogatásának összegét a kiemelt előadó-művészeti szervezetet fenntartó vagy azokkal közszolgáltatási megállapodást kötő valamennyi önkormányzatra,
+
+bb) művészeti támogatásának összegét az egyes színházakra is
+
+lebontva határozza meg.
+
+(2) A központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
+
+a) a nyilvántartott színházak, balett- vagy táncegyüttesek önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
+
+b) a nyilvántartott zenekarok, énekkarok önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
+
+(3) A kultúráért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell biztosítani:
+
+a) a nyilvántartásba vett állami fenntartású színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
+
+b) a magyar állammal kötött közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezet támogatását,
+
+c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
+
+d) az előadó-művészeti államigazgatási szerv működéséhez szükséges előirányzatot.”
+
+77. A közbeszerzésekről szóló 2011. évi CVIII. törvény eltérő szöveggel történő hatálybaléptetése
+
+77. § (1)
+
+(2) A közbeszerzésekről szóló 2011. évi CVIII. törvény 174. § (2) és (3) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A beszedett igazgatási szolgáltatási díj teljes összege a Hatóság saját bevétele. A hirdetmények ellenőrzéséből származó bevételt a Hatóságnak részben az e törvényben foglalt feladatainak ellátásához szükséges informatikai háttér biztosítására kell fordítania.
+
+(3) A (2) bekezdés szerinti igazgatási szolgáltatási díjakat a Hatóság törvényben előírt feladatai teljesítése során felmerülő kiadásokra kell fordítani.”
 
 #### 78. A köztársasági elnök jogállásáról és javadalmazásáról szóló 2011. évi CX. törvényeltérő szöveggel történő hatálybaléptetése
 
-78. §
+78. § A köztársasági elnök jogállásáról és javadalmazásáról szóló 2011. évi CX. törvény 21. §-a a következő szöveggel lép hatályba:
+
+„21. § (1) A volt köztársasági elnök a közéletben történő részvétele, így közcélú felajánlások, adományozások céljából – a központi költségvetésről szóló törvényben az Országgyűlés fejezeten belül, külön soron tervezett – előirányzat feletti rendelkezésre jogosult.
+
+(2) Az (1) bekezdés szerinti előirányzatból pályázat útján vagy pályáztatás nélkül, egyedi döntés alapján nyújtható közcélú felajánlás, adomány.
+
+(3) Nem részesíthető az (1) bekezdés szerinti előirányzatból közcélú felajánlásban, adományban párt, pártnak anyagi támogatást nyújtó szervezet, valamint a közvetlen politikai tevékenységet folytató szervezet.
+
+(4) Az (1) bekezdés szerinti előirányzat a volt köztársasági elnök előzetes írásos kötelezettségvállalása alapján, a kedvezményezettel kötött külön szerződés nélkül felhasználható.
+
+(5) Az Országgyűlés Hivatala a honlapján a köztársasági elnök (4) bekezdés szerinti kötelezettségvállalásától számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.”
 
 #### 79. Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló2011. évi CLVI. törvény eltérő szöveggel történő hatálybaléptetése
 
@@ -413,9 +505,18 @@ Magyarország 2012. évi költségvetését megalapozó egyes törvények módos
 
 85. §
 
-86. §
+86. § Nem lép hatályba
 
-87. §
+- a) a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosításáról szóló 2011. évi XLI. törvény 3. §-a, valamint 7. § (2) és (3) bekezdése;
+- b) az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosításáról szóló 2011. évi LXXXVI. törvény 8. §-ának az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 16. § (6) bekezdését megállapító rendelkezése;
+- c) a Ktdt. 5. § (4) bekezdés a) pontja;
+- d) a Ktdt. 26. § (1) bekezdése;
+- e) az egyes agrár- és környezetvédelmi tárgyú törvények módosításáról szóló 2011. évi XCV. törvény 12. § (1) és (2) bekezdése;
+- f) az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 131. § 2. pontja, 360. § (1) bekezdés 28. pontja, 360. § (2) bekezdés 5. pontja, 419–420. §-a, 422. §-a, 424. §-a, 426. §-a, 429. §-a, 435–438. §-a.
+
+87. § (1) Nem lép hatályba az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 39. § (3) bekezdése.
+
+(2) Az (1) bekezdés az Alaptörvény VI. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 #### 85. A Munkaerőpiaci Alap névváltozásával összefüggő módosítások
 

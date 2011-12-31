@@ -16,11 +16,9 @@ a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi 
 
 ### 118–150.
 
-#### 151. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
+#### 151.
 
-257. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 2012. január 1-jén lép hatályba.
-
-258. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 97. §-a, 98. § (1) bekezdése, 98. § (6) bekezdése, 99. § (1) bekezdésében a „7. § (2) bekezdés e) pontjában az „akadályoztatása” szövegrész helyébe az „akadályoztatása és a 14 éven aluli polgár” szöveg,” szövegrész nem lép hatályba.
+257–258. §
 
 #### 152.
 
