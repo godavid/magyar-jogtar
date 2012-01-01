@@ -75,7 +75,7 @@ Az Országgyűlés annak érdekében, hogy az Európai Mezőgazdasági Vidékfej
 
 ### A törvény hatálya
 
-10. § (1) A Magyar Köztársaság területén székhellyel, telephellyel, lakóhellyel, szokásos tartózkodási hellyel rendelkező vagy egyébként itt tartózkodó és gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytató természetes személy, jogi személy, jogi személyiséggel nem rendelkező szervezet egyes intézkedésekben való részvételének rendjére, valamint az ezzel összefüggő közigazgatási hatósági eljárásban részt vevő személyre e törvény rendelkezéseit kell alkalmazni.
+10. § (1) A Magyarország területén székhellyel, telephellyel, lakóhellyel, szokásos tartózkodási hellyel rendelkező vagy egyébként itt tartózkodó és gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytató természetes személy, jogi személy, jogi személyiséggel nem rendelkező szervezet egyes intézkedésekben való részvételének rendjére, valamint az ezzel összefüggő közigazgatási hatósági eljárásban részt vevő személyre e törvény rendelkezéseit kell alkalmazni.
 
 (2) E törvény rendelkezéseit kell alkalmazni továbbá az Európai Unió bármely tagállamában székhellyel, telephellyel rendelkező jogi személyre, illetve jogi személyiséggel nem rendelkező szervezetre, továbbá az Európai Unió bármely tagállamában lakóhellyel, szokásos tartózkodási hellyel rendelkező arra a természetes személyre, aki (amely) Magyarországon gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytat, és a vonatkozó jogszabályok alapján:
 
@@ -319,7 +319,7 @@ feladatok ellátásáért.
 
 ### A támogatási adatok védelmére vonatkozókülön rendelkezések
 
-24. § (1) Nem nyilvános támogatási adat a mezőgazdasági és vidékfejlesztési támogatási szerv eljárásában készített vagy rögzített, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 19/A. §-a szerinti adat.
+24. § (1) Nem nyilvános támogatási adat a mezőgazdasági és vidékfejlesztési támogatási szerv eljárásában készített vagy rögzített, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti döntés megalapozását szolgáló adat.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv által kezelt támogatási adatok közül közérdekből nyilvános adat e törvény alapján a mezőgazdasági és vidékfejlesztési támogatási szerv által folyósított, a központi költségvetésből, illetve az EMGA-ból, az EMVA-ból, illetve EHA-ból finanszírozott támogatásban részesülő ügyfél:
 
@@ -416,6 +416,8 @@ feladatok ellátásáért.
 (6) Az (1) és (3) bekezdés szerinti nyilvántartásokban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét, valósággal egyezőségét vitatja.
 
 (7) A mezőgazdasági és vidékfejlesztési támogatási szerv az egyablakos vámügyintézés körébe tartozó eljárásokhoz kapcsolódó nyilvántartási rendszerek működtetése érdekében a vámhatóság részére a 26. § (1) bekezdés a)–b) pontja szerinti nyilvántartási rendszerekben szereplő adatokat az eljárások lefolytatásához és kiértékeléséhez szükséges mértékben átadja.
+
+(8) A mezőgazdasági és vidékfejlesztési támogatási szerv a kedvezőtlen éghajlati jelenségekre és más káreseményekre kötött mezőgazdasági biztosítás díjához nyújtott támogatással összefüggő biztosítási díj, illetve kár megállapítása érdekében a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvény szerint mezőgazdasági biztosítási szerződést kötő biztosító (a továbbiakban: biztosító) részére, a mezőgazdasági termelő hozzájárulása esetén, a biztosító kérelmére adatot szolgáltat a mezőgazdasági termelő által a tárgyévben benyújtott egységes kérelemben megjelölt területekről, valamint azok növénykultúrák szerinti hasznosításáról és MePAR szerinti azonosítóiról.
 
 26/A. § Az adóhatóság kérelemre tájékoztatja a mezőgazdasági és vidékfejlesztési támogatási szervet az adótitkot képező adatról vagy információról, ha az az ügyfél személyazonosításához, a támogatáshoz való jogosultság megállapításához, az intézkedésekhez kapcsolódó feltételek ellenőrzéséhez, az ügyfél kérelmére indult eljárás során pedig a tényállás tisztázásához szükséges.
 
@@ -613,7 +615,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (8) Az intézkedésekben való részvétel során az ügyfélnek kell a jogosultsági feltételek meglétét hitelt érdemlően bizonyítania. Az ügyfelet terheli továbbá a kérelemmel, illetve a pályázattal összefüggésben tett bármilyen nyilatkozatával, állításával, valamint mezőgazdasági és vidékfejlesztési támogatási szerv által megállapított ténnyel szemben a bizonyítási kötelezettség.
 
-(9) Az intézkedésben való részvételre vonatkozó kérelemben az ügyfélnek nyilatkoznia kell arról, hogy tudomásul veszi, hogy amennyiben az intézkedésekkel kapcsolatos lejárt tartozását nem egyenlíti ki, a fizetési számláját vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
+(9) Az agrárkár-enyhítési eljárás kivételével az intézkedésben való részvételre vonatkozó kérelemben az ügyfélnek nyilatkoznia kell arról, hogy tudomásul veszi, hogy amennyiben az intézkedésekkel kapcsolatos lejárt tartozását nem egyenlíti ki, a fizetési számláját vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
 
 ### A kérelem befogadása
 
@@ -835,7 +837,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 - h) a kérelem nem tartalmaz olyan adatot, dokumentumot, amely a kérelem benyújtására nyitva álló határidő leteltét követően nem pótolható;
 - i) ha a támogatást igénylő, a pénzügyi következményekkel járó intézkedésekben való részvétel iránti kérelmet, felszámolási, végelszámolási vagy adósságrendezési eljárás alatt álló ügyfél nyújtotta be, kivéve, ha jogszabály ettől eltérően rendelkezik;
 - j) amennyiben az intézkedésre vonatkozó jogszabály alapján a kérelmet nyomtatványon kell benyújtani, és az eljárás megindítására irányuló kérelem nem tartalmazza a főlapot vagy az intézkedésben való részvételre vonatkozó jogszabályban meghatározott betétlapokat, vagy bármelyiket az igény érvényesítésére jogosult aláírásával a nyomtatványon megjelölt helyen nem hitelesítette;
-- k) az ügyfél az intézkedésben való részvételre vonatkozó kérelemben nem nyilatkozik arról, hogy tudomásul veszi, hogy a fizetési számlát vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
+- k) az ügyfél – az agrárkár-enyhítési eljárás kivételével – az intézkedésben való részvételre vonatkozó kérelemben nem nyilatkozik arról, hogy tudomásul veszi, hogy a fizetési számlát vezető pénzforgalmi szolgáltató a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a végrehajtható okirat csatolása nélkül köteles teljesíteni.
 
 (3) A támogatás visszatartásáról, a mulasztási bírság kiszabásáról, valamint a hatósági szerződés felmondásáról szóló végzés ellen önálló fellebbezésnek van helye.
 
@@ -1111,15 +1113,23 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### Nem teljesítési bírság
 
-73/A. § (1) A közvetlen támogatási rendszer keretében közösségi jogi aktus felhatalmazása alapján egyes, jogszabályban meghatározott szerkezetátalakítási intézkedésekben való részvétel feltétele az ügyfél kötelezettség vállalása, hogy a jogszabályban meghatározottak szerinti mértékben élőmunka ráfordítást biztosítson.
+73/A. § (1) A közvetlen támogatási rendszer keretében közösségi jogi aktus felhatalmazása alapján egyes, jogszabályban meghatározott szerkezetátalakítási intézkedésekben való részvétel feltétele az ügyfél kötelezettségvállalása, hogy a jogszabályban meghatározottak szerinti mértékben élőmunka-ráfordítást biztosítson, továbbá az előírt elismert tevékenységből származó árbevételi, képzési és beruházási kötelezettségét teljesítse.
 
-(2) Az (1) bekezdésben vállalt kötelezettség megszegése esetén az ügyfelet – a (3)–(4) bekezdésben foglaltakra is figyelemmel – a mulasztással arányos nem teljesítési bírsággal kell sújtani. A bírság mértékének megállapításánál jogszabályban meghatározottak szerint munkaóránként legfeljebb 4,5 eurónak megfelelő forintösszeg vehető figyelembe. Az átváltásra a közösségi forrásból nyújtandó támogatásra vonatkozó szabályokat kell megfelelően alkalmazni.
+(2) Az (1) bekezdésben vállalt kötelezettség megszegése esetén az ügyfelet – a (6)–(7) bekezdésében foglaltakra is figyelemmel – a mulasztással arányos, euróban megállapított nem teljesítési bírsággal kell sújtani. Az átváltásra a közösségi forrásból nyújtandó támogatásra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(3) A nem teljesítési bírság kiszabásánál a 71. § (5) bekezdésében foglaltakat kell megfelelően alkalmazni.
+(3) A jogszabályban meghatározott élőmunka-ráfordítás nem vagy hiányos teljesítése esetén, a bírság mértékének megállapításánál jogszabályban meghatározottak szerint munkaóránként és támogatási évenként legfeljebb 4,5 eurónak megfelelő forintösszeg vehető figyelembe.
 
-(4) A nem teljesítési bírság mértéke hivatalból vagy kérelemre a jogszabályban meghatározottak szerint mérsékelhető, illetőleg kiszabása mellőzhető, ha az ügyfél mulasztását elháríthatatlan külső ok idézte elő és e körülmény fennállását a jogszabályban meghatározottak szerint igazolta.
+(4) A jogszabályban meghatározott elismert tevékenységből származó árbevétel nem vagy hiányos teljesítése esetén, a bírság mértékének megállapításánál jogszabályban meghatározottak szerint az árbevétel nem teljesített 300 forintos egységértékei esetében támogatási évenként legfeljebb 4 eurónak megfelelő forintösszeg vehető figyelembe.
 
-(5) A nem teljesítési bírság megállapítása nem érinti a késedelmi pótlékfizetési kötelezettséget.
+(5) Az állattenyésztéshez kapcsolódó intézkedések esetében a jogszabályban meghatározott élőmunka-ráfordítás, beruházási kötelezettség, illetőleg képzési kötelezettség nem vagy hiányos teljesítése esetén jogszabályban meghatározottak szerint a támogatás alapjául szolgáló állategységenként évenként legfeljebb 100 eurónak megfelelő forintösszeg vehető figyelembe.
+
+(6) A nem teljesítési bírság kiszabásánál a 71. § (5) bekezdésében foglaltakat kell megfelelően alkalmazni.
+
+(7) A nem teljesítési bírság mértéke hivatalból vagy kérelemre a jogszabályban meghatározottak szerint mérsékelhető, illetőleg kiszabása mellőzhető, ha az ügyfél mulasztását elháríthatatlan külső ok idézte elő és e körülmény fennállását a jogszabályban meghatározottak szerint igazolta.
+
+(8) A nem teljesítési bírság megállapítása nem érinti a késedelmi pótlékfizetési kötelezettséget.
+
+(9) Az (1) bekezdésben vállalt kötelezettségek ismételt megszegése esetén a bírság mértékének megállapításánál jogszabályban meghatározottak szerint a (3)–(5) bekezdésekben szereplő összegek legfeljebb kétszerese vehető figyelembe.
 
 ### VII. Fejezet — AZ ELJÁRÁS KÖLTSÉGEI
 

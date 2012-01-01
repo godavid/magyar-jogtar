@@ -8,16 +8,11 @@ a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény
 
 (2)
 
-(3) Aki előrehozott öregségi nyugdíjra, illetve csökkentett összegű előrehozott öregségi nyugdíjra jogosultságot szerzett, e jogosultságát bármikor érvényesítheti, a nyugdíjcsökkentésre a jogosultság megszerzésének időpontjában hatályos szabályokat és mértékeket kell alkalmazni, tekintet nélkül arra, hogy a nyugellátást mikor, illetve milyen időponttól kezdődően állapítják meg. Egyebekben az előrehozott öregségi nyugdíj és a csökkentett összegű előrehozott öregségi nyugdíj összegét azon rendelkezések szerint kell megállapítani, amelyek arra az időpontra alkalmazandóak, amelytől kezdődően a nyugellátást megállapítják.
+(3)
 
-(4) Azon személyek esetén, akik a korengedményes nyugdíjra vonatkozó megállapodást a munkáltatóval e törvény hatálybalépésig megkötötték, az előrehozott öregségi nyugdíjra, illetve csökkentett összegű előrehozott öregségi nyugdíjra való jogosultság megállapítására és a foglalkoztató fizetési kötelezettségére a nyugellátásra vonatkozó, a megállapodás megkötésekor hatályos rendelkezéseket kell alkalmazni.
+(4)
 
-(5) Azon személyek esetén,
-
-- a) akik a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) rendelkezései alapján legkésőbb e törvénymódosítás hatálybalépéséig beléptek a prémiumévek programba, és munkavégzésre irányuló jogviszonyukat ezzel összefüggésben határozott idejűvé módosították, valamint
-- b) akiknek e törvény rendelkezései alapján előrehozott öregségi nyugdíjra való jogosultságuk megszerzésének időpontja későbbi, mint az a) pontban említett kinevezés-, illetve munkaszerződés-módosításban szereplő, a munkavégzésre irányuló jogviszony megszűnésére meghatározott időpont,
-
-munkavégzésre irányuló jogviszonyuk megszűnése időpontjának – a kinevezés-, illetve munkaszerződés-módosításban foglaltaktól eltérően – az előrehozott öregségi nyugdíjra jogosultságuk megszerzésének időpontját kell tekinteni. Ez a rendelkezés nem zárja ki, hogy a munkavégzésre irányuló jogviszony ezen időpont előtt valamely, a Péptv.-ben szabályozott okból megszűnjön.
+(5)
 
 (6) A Tny. 39. §-a – e törvénnyel megállapított – (2) bekezdésének rendelkezéseit a mezőgazdasági őstermelő 2007. december 31-ét követően szerzett szolgálati idejének megállapítása során kell alkalmazni.
 

@@ -1901,13 +1901,9 @@ rendeletben állapítsa meg.”
 
 (10) A Ktv. 49/H. §-ának (3) bekezdésében az „A (2) bekezdésben foglalt korlátozás figyelembevételével a” szövegrész helyébe az „Az (1) bekezdésben foglalt” szöveg lép.
 
-(11) E törvény hatálybalépésével egyidejűleg az elektronikus információszabadságról szóló 2005. évi XC. törvény III. melléklet Gazdálkodási adatok 3. és 4. pontjának Frissítés oszlopában a „Negyedévente” szövegrész helyébe a „A döntés meghozatalát követő hatvanadik napig” szövegrész lép.
+(11)
 
-(12) E törvény hatálybalépésével egyidejűleg a Tny.:
-
-- a) 54. §-ának (3) bekezdésében az „unokának” szövegrész helyébe az „unokának (ideértve a dédunokát és ükunokát is)” szövegrész;
-- b) 81. §-ának (2) bekezdésében „a 88. § szerint megtérítésre kötelezett” szövegrész helyébe „a 88. § szerint megtérítésre kötelezett, tovább a 91. § szerinti mulasztási bírságra kötelezett” szövegrész;
-- c) 101. §-a (1) bekezdésének c) pontjában a „szolgálati időre és a nyugdíj alapját képező havi átlagkereset meghatározására, továbbá a rokkantsági nyugdíj” szövegrész helyébe „nyugellátás” szövegrész lép.
+(12)
 
 (13) E törvény kihirdetésével egyidejűleg a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 71. §-ának (3) bekezdésében „a nyugdíj-biztosítási igazgatási szerv” szövegrész helyébe „az egészségbiztosító” szövegrész lép.
 
@@ -1917,7 +1913,7 @@ rendeletben állapítsa meg.”
 
 (16) E törvény hatálybalépésével egyidejűleg az Áht.-nak a takarékos állami gazdálkodásról és a költségvetési felelősségről szóló 2008. évi LXXV. törvénnyel megállapított 8/B. §-ának jelölése 8/C. §-ra változik.
 
-(17) E törvény hatálybalépésével egyidejűleg a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosításáról szóló 2009. évi XL. törvény 8. §-ának (5) bekezdése a „A polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény 13/A-B. §-ának, illetve az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 10. §-ának alkalmazása során 2010. december 31-ig a Tny.-nek az e törvény 8. § (2) bekezdésében meghatározott időpontig hatályos rendelkezéseit kell alkalmazni, illetve öregségi nyugdíjra jogosító korhatárnak a Tny.-ben meghatározott öregségi nyugdíjkorhatárt, illetve az előrehozott, valamint a korkedvezménnyel csökkentett, az érintettre irányadó korhatárt kell tekinteni.” szövegrésszel egészül ki.
+(17)
 
 (18) E törvény hatálybalépésével egyidejűleg a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 41/A. §-ának (2) bekezdésében a „közhasznú” szövegrész helyébe a „közhasznú és a közcélú” szöveg lép.
 

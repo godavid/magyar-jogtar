@@ -2,7 +2,7 @@
 
 a műsorterjesztés és a digitális átállás szabályairól
 
-Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az információs társadalom elektronikus hírközlési infrastruktúrájának továbbfejlesztése, a műsorterjesztés digitalizációja, valamint a nemzeti kultúra műsorterjesztésen keresztüli megőrzése, védelme és támogatása, illetve a műsorterjesztési szolgáltatások előfizetőinek fokozott megóvása céljából, összhangban az Alkotmány 61. § (4) bekezdésével a következő törvényt alkotja:
+Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az információs társadalom elektronikus hírközlési infrastruktúrájának továbbfejlesztése, a műsorterjesztés digitalizációja, valamint a nemzeti kultúra műsorterjesztésen keresztüli megőrzése, védelme és támogatása, illetve a műsorterjesztési szolgáltatások előfizetőinek fokozott megóvása céljából a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -10,7 +10,7 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 
 1. § (1) A törvény hatálya kiterjed
 
-- a) a részben vagy egészben a Magyar Köztársaság területén telepített elektronikus hírközlő berendezéssel végzett műsorterjesztésre,
+- a) a részben vagy egészben Magyarország területén telepített elektronikus hírközlő berendezéssel végzett műsorterjesztésre,
 - b) a médiaszolgáltató a) pontban foglalt műsorterjesztéssel összefüggő műszaki tevékenységére,
 - c) a kiegészítő médiaszolgáltatást nyújtó a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére,
 - d) a gyártónak és a forgalomba hozatalért felelős személynek, a feltételes hozzáférési rendszeren és alkalmazási program interfészen fennálló jogi oltalom jogosultjának a) pontban foglalt műsorterjesztéssel összefüggő tevékenységére.
@@ -69,7 +69,7 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 
 ### Műsorterjesztés
 
-6. § (1) A Magyar Köztársaság területén bármely természetes, jogi személy vagy jogi személyiséggel nem rendelkező szervezet az e törvényben és az Eht.-ban meghatározott feltételek teljesítése esetén jogosult műsorterjesztési szolgáltatás nyújtására.
+6. § (1) Magyarország területén bármely természetes, jogi személy vagy jogi személyiséggel nem rendelkező szervezet az e törvényben és az Eht.-ban meghatározott feltételek teljesítése esetén jogosult műsorterjesztési szolgáltatás nyújtására.
 
 (2) A műsorterjesztési szolgáltatás, mint elektronikus hírközlési szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját a műsorterjesztőnek nyilvántartásba vétel céljából az Eht.-ban meghatározottak szerint be kell jelentenie a Hatósághoz. A műsorterjesztő olyan műsorokat terjeszthet, amelyek terjesztésére megfelelő szerződésen vagy jogszabályon alapuló jogosultsággal rendelkezik.
 
@@ -85,11 +85,11 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 
 ### Műsorterjesztéshez kapcsolódó egyes elektronikus hírközlési szolgáltatások
 
-7. § (1) Amennyiben az elektronikus hírközlési szolgáltató nem a Magyar Köztársaság területére irányuló műsorterjesztés érdekében valamely médiaszolgáltató műsorjelei átvitelét
+7. § (1) Amennyiben az elektronikus hírközlési szolgáltató a nem Magyarország területére irányuló műsorterjesztés érdekében valamely médiaszolgáltató műsorjelei átvitelét
 
 - a) a Hatóság által kijelölt frekvencia, vagy
-- b) a Magyar Köztársaság Kormányának rendelkezési jogába tartozó általa bérelt műholdkapacitás, vagy
-- c) a jelek műholdra történő feljuttatásához szükséges, a Magyar Köztársaság területén telepített elektronikus hírközlő berendezések
+- b) Kormány rendelkezési jogába tartozó általa bérelt műholdkapacitás, vagy
+- c) a jelek műholdra történő feljuttatásához szükséges, Magyarország területén telepített elektronikus hírközlő berendezések
 
 használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilvántartásba vétel céljából a szolgáltatás megkezdése előtt bejelenteni.
 
@@ -235,17 +235,11 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 (3) A földfelszíni digitális műsorszórás célját szolgáló frekvenciák után legfeljebb a digitális átállás 38. §-ban meghatározott céldátumáig a külön jogszabály alapján meghatározott kedvezményes használati díjat kell fizetni.
 
-### IV. Fejezet — A VÉLEMÉNYEK SOKSZÍNŰSÉGÉT SZOLGÁLÓ RENDELKEZÉSEK
-
-### Alkotmányos kötelezettségek
+### IV. Fejezet
 
 21–23. §
 
-### Továbbítási kötelezettség
-
 24–28. §
-
-### Adatszolgáltatás
 
 29. §
 
@@ -331,7 +325,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 ### Általános rendelkezések
 
-38. § (1) A digitális átállásnak 2012. december 31-ig kell megvalósulnia a digitális audiovizuális médiaszolgáltatások elérhetősége tekintetében a Magyar Köztársaság teljes területén úgy, hogy országosan a lakosság legalább kilencvennégy százalékát elérje a digitális televízió műsorszórási szolgáltatáson keresztül a közszolgálati médiaszolgáltatás, és a lakosság számára a kiskereskedelmi forgalomban elérhetőek legyenek a vételi eszközök (a továbbiakban: digitális átállás). Amennyiben az előzőekben meghatározott feltételek a megjelölt időpontig nem biztosíthatóak, az audiovizuális médiaszolgáltatások terjesztése digitális átállásának határnapja az előzőekben meghatározott feltételek teljesülésével esik egybe, azzal, hogy a digitális átállás határnapja legkésőbb 2014. december 31.
+38. § (1) A digitális átállásnak legkésőbb 2014. december 31-ig kell megvalósulnia a digitális audiovizuális médiaszolgáltatások elérhetősége tekintetében Magyarország teljes területén úgy, hogy országosan a lakosság legalább kilencvennégy százalékát elérje a digitális televízió műsorszórási szolgáltatáson keresztül a közszolgálati médiaszolgáltatás, és a lakosság számára a kiskereskedelmi forgalomban elérhetőek legyenek a vételi eszközök (a továbbiakban: digitális átállás).
 
 (2) A rádióműsorok műsorterjesztése digitális átállásának céldátuma 2014. december 31. Az átállás csak akkor lehetséges, amennyiben a megjelölt időpontig a lakosság legalább 94%-át eléri a digitális rádió műsorszórási szolgáltatáson keresztül a közszolgálati médiaszolgáltatás és a lakosság legalább 75%-a rendelkezik a digitális médiaszolgáltatás vételére alkalmas készülékkel. Amennyiben az előzőekben meghatározott feltételek a megjelölt időpontig nem biztosíthatóak, a rádióműsor terjesztés digitális átállásának határnapja az előzőekben meghatározott feltételek teljesülésével esik egybe.
 
@@ -372,7 +366,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 (5) A digitális televízió műsorszóró hálózat üzemeltetési jogosultságára vonatkozó pályázaton – kivéve a kizárólag mobil vételű digitális televízió műsorszóró hálózat üzemeltetési jogosultságára vonatkozó a 43. § (3) bekezdésében foglalt pályázatot – nem vehet részt olyan vállalkozás, vagy a vállalkozással irányítási viszonyban álló vállalkozás, amely
 
 - a) előfizetőinek összesített száma a televíziós műsorterjesztési piacokon a digitális televízió műsorszóró hálózattal végzett műsorterjesztés kivételével meghaladja a háromszázezret, vagy
-- b) az Mttv. hatálya alá tartozó, elsősorban a Magyar Köztársaság területére irányuló médiaszolgáltatást végez.
+- b) az Mttv. hatálya alá tartozó, elsősorban Magyarország területére irányuló médiaszolgáltatást végez.
 
 (6) A 43. § (2) bekezdésében foglalt pályázaton nem vehet részt országos rádiós médiaszolgáltató, vagy azzal irányítási viszonyban álló vállalkozás, kivéve az Mttv. szerinti közszolgálati rádiós médiaszolgáltatót, valamint országos közösségi médiaszolgáltatót.
 
@@ -607,10 +601,10 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 (2) Az (1) bekezdés alkalmazásában közfeladatnak az alábbiak minősülnek:
 
-- a) az Alkotmánynak megfelelően kihirdetett szükségállapot, az ország jelentős területét érintő elemi csapás, vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos műsorterjesztés,
+- a) az Alaptörvénynek megfelelően kihirdetett szükségállapot, az ország jelentős területét érintő elemi csapás, vagy ipari szerencsétlenség esetén történő és azzal kapcsolatos műsorterjesztés,
 - b) a valamely közösség speciális oktatási, kulturális, tájékoztatási, vagy az adott közösséget érintő meghatározott eseményhez kapcsolódó igényeinek műsorterjesztésen keresztüli szolgálata,
 - c) valamely közösség kultúrájának műsorterjesztésen keresztüli megőrzése, védelme és támogatása, vagy
-- d) a nemzeti, illetve etnikai kisebbségi nyelv műsorterjesztésen keresztüli ápolása.
+- d) a nemzetiségi nyelv műsorterjesztésen keresztüli ápolása.
 
 ### A közszolgálati műsorok műsorszórásának digitális átállása
 
@@ -622,7 +616,51 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 (4) A közszolgálati médiaszolgáltatók médiaszolgáltatásait a digitális televízió műsorszóró hálózat üzemeltetője a legnagyobb lakossági eléréssel rendelkező hálózaton és a mobil vételű digitális televízió műsorszóró hálózaton köteles terjeszteni.
 
-(5) A közszolgálati műsorok digitális vételének biztosítása érdekében a digitális vevődekóderek állami támogatására a közszolgálati analóg műsorszórás leállítását megelőzően legalább három hónapig, a közszolgálati analóg műsorszórás leállítását követően pedig legalább egy hónapig, versenysemleges módon, a kizárólag analóg földfelszíni műsorszórási vétellel rendelkező rászoruló háztartások részére, indokolt esetben és mértékben, kérelem alapján külön jogszabályban meghatározottak szerint kerülhet sor.
+(5) Az Mttv. 74. § (1) bekezdésében meghatározott közszolgálati médiaszolgáltatások digitális vételének ingyenesen, illetve az Mttv. 74. § (1) bekezdése szerinti díjon történő biztosítása érdekében a digitális vevődekóderek állami támogatására, illetve a vevődekóderek – helyszínen történő – beszerelésére, telepítésére, valamint az ehhez szükséges eszközök állami támogatására a közszolgálati analóg műsorszórás leállítását megelőzően legalább három hónapig, a közszolgálati analóg műsorszórás leállítását követően pedig legalább egy hónapig, versenysemleges módon, a kizárólag analóg földfelszíni műsorszórási vétellel rendelkező rászoruló háztartások részére, indokolt esetben és mértékben, kérelem alapján, a Hatóság elnöke rendeletében meghatározott módon kerülhet sor. Az állami támogatás részletes szabályait a Hatóság elnöke rendeletben határozza meg.
+
+### Adatkezelés a vevőeszköz-támogatás érdekében
+
+44/A. § (1) A Hatóság a digitális vevődekóderek állami támogatására vonatkozó közfeladat ellátása során a támogatásra jogosultság megállapítása és a támogatás felhasználása jogszerűségének ellenőrzése céljából jogosult a támogatási jogosultsággal összefüggő – a (4)–(6) bekezdésben meghatározott – személyes és különleges adatok kezelésére.
+
+(2) Az állami támogatásra való jogosultsággal összefüggő adatokat kezelő – a (3)–(6) bekezdés szerinti – állami, önkormányzati szerv a Hatóság megkeresésére 30 napon belül köteles adatot szolgáltatni a Hatóság részére. A megkeresés eljárási szabályait, az adatszolgáltatás teljesítésére vonatkozó rendelkezéseket a Hatóság elnöke – e törvény keretei között – az 53. § (2) bekezdésében foglalt felhatalmazás alapján kiadott rendeletében (e § alkalmazásában a továbbiakban: támogatási rendelet) határozza meg.
+
+(3) A Hatóság a támogatást igénylő jogosultakra vonatkozóan a nyugdíjbiztosítási igazgatási szervtől, a kincstártól és a települési önkormányzat jegyzőjétől kérhet adatszolgáltatást, a támogatási jogosultságot megalapozó ellátások szerinti csoportosításban.
+
+(4) A nyugdíjbiztosítási igazgatási szervtől a Hatóság a társadalombiztosítási ellátásokkal összefüggésben
+
+- a) természetes személyazonosító adatokat,
+- b) a lakóhely (tartózkodási hely) adatait,
+- c) a rokkantság, egészségkárosodás tényére és erre tekintettel megállapított ellátásra vonatkozó adatokat, és
+- d) a keresetre, jövedelemre (nyugdíjra) vonatkozó adatokat
+
+igényelhet megkeresésében.
+
+(5) A kincstártól a Hatóság a családtámogatási és fogyatékossági ellátásokkal összefüggésben
+
+- a) természetes személyazonosító adatokat,
+- b) a lakóhely (tartózkodási hely) adatait,
+- c) a fogyatékosság tényére, erre tekintettel megállapított ellátásra (fogyatékossági támogatás, vakok személyi járadéka) vonatkozó adatokat, valamint
+- d) családtámogatási ellátásra vonatkozó adatokat
+
+igényelhet megkeresésében.
+
+(6) A települési önkormányzat jegyzőjétől a Hatóság a szociális ellátásokkal összefüggésben
+
+- a) természetes személyazonosító adatokat,
+- b) a lakóhely (tartózkodási hely) adatait, valamint
+- c) a szociális ellátásra vonatkozó adatokat
+
+igényelhet megkeresésében.
+
+(7) Az adatkezelés során a Hatóság biztosítja, hogy az átadott adatok legalább olyan védelemben részesüljenek, mint amilyenben az átadó állami, önkormányzati szervnél részesülnek.
+
+(8) A Hatóság által az e § alapján kezelt adatokat kizárólag a Hatósággal közszolgálati jogviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban álló azon személy jogosult megismerni, aki a vevőeszköz-támogatási igénylés elbírálásával, a támogatás felhasználása jogszerűségének ellenőrzésével kapcsolatos feladatot lát el.
+
+(9) A Hatóság a vevőeszköz-támogatás ellenőrizhetősége és átláthatósága érdekében statisztikákat, összegzéseket, kimutatásokat készíthet a támogatásban részesülők köréről, a támogatás mértékéről. Ennek során a Hatóság biztosítja, hogy a kimutatásban személyes, illetve különleges adatok ne szerepeljenek.
+
+(10) A Hatóság az adatkezelésre a digitális átállással összefüggő állami vevőeszköz-támogatás igénylésére nyitva álló határidőt követően is, legfeljebb azonban a digitális átállást követő két évig jogosult. Ezt követően a Hatóság a részére átadott adatokat törli.
+
+(11) A Hatóság a támogatási jogosultsággal összefüggő, a (4) bekezdés a) és b) pontjában, az (5) bekezdés a) és b) pontjában, valamint a (6) bekezdés a) és b) pontjában meghatározott adatokat átadhatja a vevőeszköz-támogatás lebonyolítását végző szervezetnek, gazdasági társaságnak, amelynek keretében a Hatóság az átadott adatoknak legalább olyan védelmét biztosítja, mint amilyenben a Hatóságnál, illetve az átadó állami, önkormányzati szervnél részesülnek.
 
 ### A digitális átállás forrásai
 
@@ -638,7 +676,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 - a) digitális rádió- vagy televízió-műsorszóró hálózat, illetve az ehhez kapcsolódó jogosultságok pályáztatási költségének megelőlegezése;
 - b) a digitális műsorterjesztés vételére alkalmas készülékkel nem rendelkezők rászorultsági alapú, célhoz kötött támogatása a külön jogszabályban meghatározottak szerint; vagy
-- c) a digitális átállással kapcsolatos állami kommunikáció az (1) bekezdés a) pontjában meghatározott forrásból, pályázat útján; vagy
+- c) a digitális átállással kapcsolatos állami kommunikáció pályázat útján, vagy
 - d) egyéb, az 1014/2007. (III. 13.) Korm. határozat mellékletében (Digitális Átállás Stratégia) meghatározott célra.
 
 (3) A digitális rádió- vagy televízió-műsorszóró hálózat, illetve az ehhez kapcsolódó jogosultságok pályáztatási költségeit a Műsorszolgáltatás támogató és Vagyonkezelő Alapból kell fedezni.
@@ -689,7 +727,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 - e) a közszolgálati médiaszolgáltatások analóg műsorszórásának leállítására vonatkozó részletes szabályokat;
 - f) az analóg és digitális televíziós vételre alkalmas vevőkészülékek forgalomba hozatala műszaki feltételeinek és digitális műsorok vételére való alkalmasságának, az alkalmasság megjelölésének részletes szabályait.
 
-(2) Felhatalmazást kap a Hatóság elnöke, hogy az államháztartásért felelős miniszter véleményezését követően rendeletben állapítsa meg közszolgálati médiaszolgáltatások digitális vételének biztosítása érdekében a digitális vevődekóderek állami támogatására vonatkozó szabályokat.
+(2) Felhatalmazást kap a Hatóság elnöke, hogy az államháztartásért felelős miniszter véleményének kikérésével rendeletben állapítsa meg a közszolgálati médiaszolgáltatások digitális vételének biztosítása érdekében a digitális vevődekóderek, illetve a vevődekóderek helyszínen történő beszerelésére, telepítésére, valamint az ehhez szükséges eszközök állami támogatására vonatkozó szabályokat és az állami támogatásra való jogosultsággal összefüggő adatszolgáltatás rendjét.
 
 (3) Az Elnök jelen szakasz szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépéséig maradnak hatályban.
 

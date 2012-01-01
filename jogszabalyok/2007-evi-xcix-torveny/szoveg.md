@@ -41,8 +41,8 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 
 - a) az európai területi társulás tevékenysége vagy a kérelmező európai területi társulásban történő részvétele jogszabályba ütközik,
 - b) az állam kivételével a Kbt. 22. § (1) bekezdés a) és b) pontja szerinti kérelmező nem rendelkezik hozzájárulással arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet,
-- c) az országos kisebbségi önkormányzati költségvetési szerv, a helyi önkormányzati költségvetési szerv vagy a helyi kisebbségi önkormányzati költségvetési szerv kérelmező nem rendelkezik a képviselő-testület vagy közgyűlés hozzájárulásával arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet, vagy
-- d) a helyi vagy kisebbségi önkormányzat kérelmező nem rendelkezik az európai területi társulásban való részvételről szóló képviselő-testületi, közgyűlési döntéssel.
+- c) az országos nemzetiségi önkormányzati költségvetési szerv, a helyi önkormányzati költségvetési szerv vagy a helyi nemzetiségi önkormányzati költségvetési szerv kérelmező nem rendelkezik a képviselő-testület vagy közgyűlés hozzájárulásával arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet, vagy
+- d) a helyi vagy nemzetiségi önkormányzat kérelmező nem rendelkezik az európai területi társulásban való részvételről szóló képviselő-testületi, közgyűlési döntéssel.
 
 (3) A Hatóság az (1) bekezdés szerinti jóváhagyással rendelkező szervezetek adatairól nyilvántartást vezet. A nyilvántartásban az alábbi adatok szerepelnek:
 
@@ -61,9 +61,7 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 
 (3) A kérelemnek tartalmaznia kell a 6. § (2) bekezdés a)–f) pontjaiban meghatározott adatokat.
 
-(4) Az európai területi társulás nyilvántartásba vételére irányuló hiányos kérelem benyújtása esetén a kérelem beérkezésétől számított tizenöt napon belül postára adott, vagy a kérelmezőnek átadott végzésben a bíróság megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett hiánypótlásra hívja fel a kérelmezőt. A hiánypótlásra megfelelő – legfeljebb harminc napos – határidőt kell biztosítani, amely kérelemre, indokolt esetben tizenöt nappal meghosszabbítható.
-
-A hiánypótlás késedelmes vagy hiányos teljesítése miatt igazolási kérelemnek nincs helye. Ha a hiánypótlási határidőt elmulasztották, vagy a hiánypótlást hiányosan, illetve hibásan terjesztették elő, a bíróság a kérelmet végzéssel elutasítja.
+(4) Az európai területi társulás nyilvántartásba vételére irányuló hiányos kérelem benyújtása esetén a kérelem beérkezésétől számított tizenöt napon belül postára adott, vagy a kérelmezőnek átadott végzésben a bíróság megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett hiánypótlásra hívja fel a kérelmezőt.
 
 (5) A bíróság az eljárást megszünteti, ha a nyilvántartásba vétel iránti kérelmet az ügy érdeméről döntő végzés meghozataláig a kérelmező visszavonja.
 
@@ -116,7 +114,7 @@ A hiánypótlás késedelmes vagy hiányos teljesítése miatt igazolási kérel
 
 9. § Az európai területi társulás vagy annak szervezeti egysége által hozott határozatot az a tag, amelynek jogát vagy jogos érdekét a határozat sérti, annak meghozatalától számított harminc napos jogvesztő határidőn belül a Fővárosi Bíróságnál megtámadhatja. A perre a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) általános szabályait kell alkalmazni. A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a bíróság azonban a határozat végrehajtását felfüggesztheti.
 
-10. § (1) Az európai területi társulás működése felett az ügyész a reá irányadó szabályok szerint törvényességi felügyeletet gyakorol. Ha az európai területi társulás működésének törvényessége másképp nem biztosítható, az ügyész a Fővárosi Bírósághoz fordulhat.
+10. § (1) Az európai területi társulás működésének törvényességét az ügyészség az irányadó jogszabályok szerint ellenőrzi. Ha az európai területi társulás működésének törvényessége másképp nem biztosítható, az ügyész a Fővárosi Bírósághoz fordulhat.
 
 (2) A Fővárosi Bíróság az ügyész keresete alapján:
 
@@ -124,6 +122,8 @@ A hiánypótlás késedelmes vagy hiányos teljesítése miatt igazolási kérel
 - b) a működés törvényességének helyreállítása céljából összehívhatja az európai területi társulás közgyűlését.
 
 (3) Amennyiben az európai területi társulás az ítélet jogerőre emelkedését követő három hónapon belül nem tesz eleget az ítéletben foglaltaknak, és nem állítja helyre a működés törvényességét, az ügyész pert indíthat a Fővárosi Bíróság előtt az európai területi társulás megszüntetése iránt.
+
+(4) Amennyiben az európai területi társulás jogerős nyilvántartásba vételét követően megállapításra kerül, hogy a nyilvántartásba vételre az európai területi együttműködési csoportosulásról szóló 1082/2006/EK rendelet, vagy a jelen törvény rendelkezéseinek megsértésével került sor, a Fővárosi Törvényszék az ügyész keresete alapján az európai területi társulást törli a nyilvántartásból
 
 11. § (1) A Rendelet 6. cikke alkalmazásában illetékes hatóság – amennyiben törvény vagy kormányrendelet eltérően nem rendelkezik – az Állami Számvevőszék.
 

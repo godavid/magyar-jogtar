@@ -2,37 +2,39 @@
 
 a bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról
 
-1. § (1) A városi és kerületi bíróságok (a továbbiakban együtt: helyi bíróság), a munkaügyi bíróságok, továbbá a megyei bíróságok elnevezését és illetékességi területét az 1. melléklet tartalmazza.
+1. § (1) A városi és kerületi bíróságok (a továbbiakban együtt: helyi bíróság), a munkaügyi bíróságok, továbbá a törvényszékek elnevezését és illetékességi területét az 1. melléklet tartalmazza.
 
 (2) Az ítélőtáblák elnevezését és illetékességi területét a 2. melléklet tartalmazza.
 
-(3) A Legfelsőbb Bíróság illetékességi területe az ország egész területére kiterjed.
+(3) A Kúria illetékességi területe az ország egész területére kiterjed.
 
 2. § (1) A helyi és a munkaügyi bíróság székhelye – a (2) bekezdésben foglalt kivétellel – az elnevezésében megjelölt település.
 
 (2) A kerületi bíróságok székhelye Budapest.
 
-(3) A megyei bíróságok székhelyét az 1. melléklet tartalmazza.
+(3) A törvényszékek székhelyét az 1. melléklet tartalmazza.
 
 (4) Az ítélőtáblák székhelye az elnevezésükben megjelölt település, a Fővárosi Ítélőtábla esetében pedig Budapest.
 
-(5) A Legfelsőbb Bíróság székhelye Budapest.
+(5) A Kúria székhelye Budapest.
 
-3. § (1) Törvény által meghatározott ügyekben első fokon – a 3. mellékletben kijelölt megyei bíróságokon az ott meghatározott illetékességi területen – katonai tanácsok járnak el.
+3. § (1) Törvény által meghatározott ügyekben első fokon – a 3. mellékletben kijelölt törvényszékeken az ott meghatározott illetékességi területen – katonai tanácsok járnak el.
 
-(2) A kijelölt megyei bíróságokon működő katonai tanácsok által első fokon elbírált ügyekben másodfokon a Fővárosi Ítélőtábla katonai tanácsa jár el.
+(2) A kijelölt törvényszékeken működő katonai tanácsok által első fokon elbírált ügyekben másodfokon a Fővárosi Ítélőtábla katonai tanácsa jár el.
 
 4. § (1) E törvény 2011. március 1-jén lép hatályba.
 
-(2) A Zala Megyei Bíróság és a Zala Megyei Bíróság illetékességi területéhez tartozó helyi bíróságok határozata ellen a törvény hatálybalépését követően előterjesztett jogorvoslatot bírálja el a Pécsi Ítélőtábla.
+(2) A Zalaegerszegi Törvényszék és a Zalaegerszegi Törvényszék illetékességi területéhez tartozó helyi bíróságok határozata ellen a törvény hatálybalépését követően előterjesztett jogorvoslatot bírálja el a Pécsi Ítélőtábla.
 
 (3) Hatályát veszti az ítélőtáblák és a fellebbviteli ügyészi szervek székhelyének és illetékességi területének megállapításáról szóló 2002. évi XXII. törvény.
 
+(4) A Pest Megyei Munkaügyi Bíróság jogutódja a Budapest Környéki Munkaügyi Bíróság.
+
 ### 1. melléklet a 2010. évi CLXXXIV. törvényhez
 
-A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illetékességi területe
+A törvényszékek, a helyi bíróságok és a munkaügyi bíróságok illetékességi területe
 
-1. FŐVÁROSI BÍRÓSÁG (székhelye: Budapest)
+1. Fővárosi Törvényszék (székhelye: Budapest)
 
 1/1. Pesti Központi Kerületi Bíróság
 
@@ -73,7 +75,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Főváros területe |  |  |
 | --- | --- | --- |
 
-2. BARANYA MEGYEI BÍRÓSÁG (székhelye: Pécs)
+2. Pécsi Törvényszék (székhelye: Pécs)
 
 2/1. Pécsi Városi Bíróság
 
@@ -202,7 +204,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Baranya megye |  |  |
 | --- | --- | --- |
 
-3. BÁCS-KISKUN MEGYEI BÍRÓSÁG (székhelye: Kecskemét)
+3. Kecskeméti Törvényszék (székhelye: Kecskemét)
 
 3/1. Kecskeméti Városi Bíróság
 
@@ -278,7 +280,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Bács-Kiskun megye |  |  |
 | --- | --- | --- |
 
-4. BÉKÉS MEGYEI BÍRÓSÁG (székhelye: Gyula)
+4. Gyulai Törvényszék (székhelye: Gyula)
 
 4/1. Gyulai Városi Bíróság
 
@@ -340,7 +342,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Békés megye |  |  |
 | --- | --- | --- |
 
-5. BORSOD-ABAÚJ-ZEMPLÉN MEGYEI BÍRÓSÁG (székhelye: Miskolc)
+5. Miskolci Törvényszék (székhelye: Miskolc)
 
 5/1. Miskolci Városi Bíróság
 
@@ -505,7 +507,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Borsod-Abaúj-Zemplén megye |  |  |
 | --- | --- | --- |
 
-6. CSONGRÁD MEGYEI BÍRÓSÁG (székhelye: Szeged)
+6. Szegedi Törvényszék (székhelye: Szeged)
 
 6/1. Szegedi Városi Bíróság
 
@@ -554,7 +556,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Csongrád megye |  |  |
 | --- | --- | --- |
 
-7. FEJÉR MEGYEI BÍRÓSÁG (székhelye: Székesfehérvár)
+7. Székesfehérvári Törvényszék (székhelye: Székesfehérvár)
 
 7/1. Székesfehérvári Városi Bíróság
 
@@ -615,7 +617,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Fejér megye |  |  |
 | --- | --- | --- |
 
-8. GYŐR-MOSON-SOPRON MEGYEI BÍRÓSÁG (székhelye: Győr)
+8. Győri Törvényszék (székhelye: Győr)
 
 8/1. Győri Városi Bíróság
 
@@ -696,7 +698,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Győr-Moson-Sopron megye |  |  |
 | --- | --- | --- |
 
-9. HAJDÚ-BIHAR MEGYEI BÍRÓSÁG (székhelye: Debrecen)
+9. Debreceni Törvényszék (székhelye: Debrecen)
 
 9/1. Debreceni Városi Bíróság
 
@@ -752,7 +754,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Hajdú-Bihar megye |  |  |
 | --- | --- | --- |
 
-10. HEVES MEGYEI BÍRÓSÁG (székhelye: Eger)
+10. Egri Törvényszék (székhelye: Eger)
 
 10/1. Egri Városi Bíróság
 
@@ -822,7 +824,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Heves megye |  |  |
 | --- | --- | --- |
 
-11. JÁSZ-NAGYKUN-SZOLNOK MEGYEI BÍRÓSÁG (székhelye: Szolnok)
+11. Szolnoki Törvényszék (székhelye: Szolnok)
 
 11/1. Szolnoki Városi Bíróság
 
@@ -880,7 +882,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Jász-Nagykun-Szolnok megye |  |  |
 | --- | --- | --- |
 
-12. KOMÁROM-ESZTERGOM MEGYEI BÍRÓSÁG (székhelye: Tatabánya)
+12. Tatabányai Törvényszék (székhelye: Tatabánya)
 
 12/1. Tatabányai Városi Bíróság
 
@@ -930,7 +932,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Komárom-Esztergom megye |  |  |
 | --- | --- | --- |
 
-13. NÓGRÁD MEGYEI BÍRÓSÁG (székhelye: Balassagyarmat)
+13. Balassagyarmati Törvényszék (székhelye: Balassagyarmat)
 
 13/1. Balassagyarmati Városi Bíróság
 
@@ -994,7 +996,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Nógrád megye |  |  |
 | --- | --- | --- |
 
-14. PEST MEGYEI BÍRÓSÁG (székhelye: Budapest)
+14. Budapest Környéki Törvényszék (székhelye: Budapest)
 
 14/1. Budakörnyéki Bíróság (székhelye: Budapest)
 
@@ -1110,12 +1112,12 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Sóskút | Százhalombatta | Tárnok |
 | Törökbálint |  |  |
 
-14/13. Pest Megyei Munkaügyi Bíróság
+14/13. Budapest Környéki Munkaügyi Bíróság
 
 | Pest megye |  |  |
 | --- | --- | --- |
 
-15. SOMOGY MEGYEI BÍRÓSÁG (székhelye: Kaposvár)
+15. Kaposvári Törvényszék (székhelye: Kaposvár)
 
 15/1. Kaposvári Városi Bíróság
 
@@ -1229,7 +1231,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Somogy megye |  |  |
 | --- | --- | --- |
 
-16. SZABOLCS-SZATMÁR-BEREG MEGYEI BÍRÓSÁG (székhelye: Nyíregyháza)
+16. Nyíregyházi Törvényszék (székhelye: Nyíregyháza)
 
 16/1. Nyíregyházi Városi Bíróság
 
@@ -1338,7 +1340,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Szabolcs-Szatmár-Bereg megye |  |  |
 | --- | --- | --- |
 
-17. TOLNA MEGYEI BÍRÓSÁG (székhelye: Szekszárd)
+17. Szekszárdi Törvényszék (székhelye: Szekszárd)
 
 17/1. Szekszárdi Városi Bíróság
 
@@ -1404,7 +1406,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Tolna megye |  |  |
 | --- | --- | --- |
 
-18. VAS MEGYEI BÍRÓSÁG (székhelye: Szombathely)
+18. Szombathelyi Törvényszék (székhelye: Szombathely)
 
 18/1. Szombathelyi Városi Bíróság
 
@@ -1501,7 +1503,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Vas megye |  |  |
 | --- | --- | --- |
 
-19. VESZPRÉM MEGYEI BÍRÓSÁG (székhelye: Veszprém)
+19. Veszprémi Törvényszék (székhelye: Veszprém)
 
 19/1. Veszprémi Városi Bíróság
 
@@ -1602,7 +1604,7 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 | Veszprém megye |  |  |
 | --- | --- | --- |
 
-20. ZALA MEGYEI BÍRÓSÁG (székhelye: Zalaegerszeg)
+20. Zalaegerszegi Törvényszék (székhelye: Zalaegerszeg)
 
 20/1. Zalaegerszegi Városi Bíróság
 
@@ -1748,31 +1750,31 @@ A megyei bíróságok, a helyi bíróságok és a munkaügyi bíróságok illet�
 
 ### 3. melléklet a 2010. évi CLXXXIV. törvényhez
 
-#### A megyei bíróságok katonai tanácsai és illetékességi területük
+#### A törvényszékek katonai tanácsai és illetékességi területük
 
-- 1. FŐVÁROSI BÍRÓSÁG KATONAI TANÁCSA
+- 1. FŐVÁROSI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
 | Budapest főváros | Fejér megye | Heves megye |
 | --- | --- | --- |
 | Jász-Nagykun-Szolnok megye | Komárom-Esztergom megye | Nógrád megye |
 | Pest megye |  |  |
 
-- 2. CSONGRÁD MEGYEI BÍRÓSÁG KATONAI TANÁCSA
+- 2. SZEGEDI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
 | Bács-Kiskun megye | Békés megye | Csongrád megye |
 | --- | --- | --- |
 
-- 3. GYŐR-MOSON-SOPRON MEGYEI BÍRÓSÁG KATONAI TANÁCSA
+- 3. GYŐRI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
 | Győr-Moson-Sopron megye | Vas megye | Veszprém megye |
 | --- | --- | --- |
 
-- 4. HAJDÚ-BIHAR MEGYEI BÍRÓSÁG KATONAI TANÁCSA
+- 4. DEBRECENI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
 | Borsod-Abaúj-Zemplén megye | Hajdú-Bihar megye | Szabolcs-Szatmár-Bereg megye |
 | --- | --- | --- |
 
-- 5. SOMOGY MEGYEI BÍRÓSÁG KATONAI TANÁCSA
+- 5. KAPOSVÁRI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
 | Baranya megye | Somogy megye | Tolna megye |
 | --- | --- | --- |

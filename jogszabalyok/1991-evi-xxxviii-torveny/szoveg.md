@@ -155,7 +155,7 @@ a használati minták oltalmáról
 
 27. § (1) A Szellemi Tulajdon Nemzeti Hivatala a mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak.
+(2) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatalának a mintaoltalmi ügyekben hozott döntéseit a bíróság a 37. §-ban foglaltak szerint vizsgálja felül.
 
@@ -225,7 +225,7 @@ a használati minták oltalmáról
 
 ### A mintaoltalmi ügyek intézése
 
-36. § (1) A mintaoltalmi bejelentés elsőbbsége, bejelentési napja, vizsgálata, módosítása, megosztása, visszavonása, a mintaoltalmi bejelentésről való adatközlés, valamint a mintaoltalom megszűnésének megállapítása és újra érvénybe helyezése, megsemmisítése, továbbá a mintaoltalmi leírás értelmezése és a nemleges megállapítás tekintetében a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni.
+36. § (1) A mintaoltalmi bejelentés elsőbbsége, bejelentési napja, vizsgálata, módosítása, megosztása, visszavonása, valamint a mintaoltalom megszűnésének megállapítása és újra érvénybe helyezése, megsemmisítése, továbbá a mintaoltalmi leírás értelmezése és a nemleges megállapítás tekintetében a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (2)
 
@@ -233,7 +233,7 @@ a használati minták oltalmáról
 
 (4) A szabadalmi törvénynek az európai szabadalmi bejelentés hatályára vonatkozó rendelkezéseit megfelelően alkalmazni kell mintaoltalmi ügyekben is. Az európai szabadalmi bejelentés a szabadalmi törvény rendelkezéseinek megfelelő alkalmazásával nemzeti mintaoltalmi bejelentéssé is átalakítható.
 
-(5) A Szellemi Tulajdon Nemzeti Hivatala megjelölt vagy kiválasztott hivatalként való eljárására a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni, ha a bejelentő a Szabadalmi Együttműködési Szerződés 43. cikkével összhangban megjelöli, hogy nemzetközi bejelentése a Magyar Köztársaságban mint megjelölt vagy kiválasztott államban használati mintaoltalom megadására irányul.
+(5) A Szellemi Tulajdon Nemzeti Hivatala megjelölt vagy kiválasztott hivatalként való eljárására a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni, ha a bejelentő a Szabadalmi Együttműködési Szerződés 43. cikkével összhangban megjelöli, hogy nemzetközi bejelentése Magyarországon mint megjelölt vagy kiválasztott államban használati mintaoltalom megadására irányul.
 
 ### V. Fejezet — BÍRÓSÁGI ELJÁRÁS MINTAOLTALMI ÜGYEKBEN ÉS PEREKBEN
 
@@ -242,12 +242,12 @@ a használati minták oltalmáról
 37. § (1) A bíróság kérelemre megváltoztathatja a Szellemi Tulajdon Nemzeti Hivatalának
 
 - a) a 27. § (4) bekezdésében felsorolt döntéseit;
-- b) az eljárást felfüggesztő és a bejelentési nyilvántartásba vagy a mintaoltalmi lajstromba való bejegyzés tárgyában hozott döntését;
+- b) az eljárást felfüggesztő és a mintaoltalmi lajstromba való bejegyzés tárgyában hozott döntését;
 - c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye;
 - d) az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzését;
-- e) az eljárási bírságot kiszabó, valamint az eljárási költség megállapításának és viselésének kérdésében hozott végzését.
+- e) az eljárási bírságot kiszabó, valamint az eljárási költség megállapításának és viselésének kérdésében hozott döntését.
 
-(2) Az eljárási bírságot kiszabó, valamint az eljárási költség megállapításával és viselésével kapcsolatos végzés ellen előterjesztett megváltoztatási kérelemnek nincs halasztó hatálya a döntés többi – a megváltoztatási kérelemben nem támadott – rendelkezése tekintetében, és nem akadályozza meg azok jogerőre emelkedését.
+(2) Az eljárási bírságot kiszabó, valamint az eljárási költség megállapításával és viselésével kapcsolatos döntés ellen előterjesztett megváltoztatási kérelemnek nincs halasztó hatálya a döntés többi – a megváltoztatási kérelemben nem támadott – rendelkezése tekintetében, és nem akadályozza meg azok jogerőre emelkedését.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatalának az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett megváltoztatási kérelemben támadható meg.
 
@@ -266,7 +266,7 @@ a használati minták oltalmáról
 - a) ez a későbbi, mint a (6) bekezdés szerinti döntés közlésének napja, és
 - b) az eljárás folytatása iránti kérelmet vagy az igazolási kérelmet olyan mulasztás következményeinek az elhárítására terjesztették elő, amely közvetlenül a (6) bekezdés szerinti döntés alapjául szolgált.
 
-(8) Ha a Szellemi Tulajdon Nemzeti Hivatala döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kihirdetésétől számított harminc napra ismételten megnyílik.
+(8) Ha a Szellemi Tulajdon Nemzeti Hivatala döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kézbesítésétől számított harminc napra ismételten megnyílik.
 
 (9) A megváltoztatási kérelem a Szellemi Tulajdon Nemzeti Hivatalánál nyújtható be, amely azt a mintaoltalmi ügy irataival együtt – a (10) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű fél vett részt, a Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelem továbbításáról egyidejűleg az ellenérdekű felet is értesíti.
 
@@ -289,7 +289,7 @@ a használati minták oltalmáról
 
 (2) A mintaoltalmi perekre a szabadalmi perek szabályait kell alkalmazni.
 
-(3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a megyei (fővárosi) bíróság a szabadalmi jogvitákra irányadó szabályok szerint jár el.
+(3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a törvényszék a szabadalmi jogvitákra irányadó szabályok szerint jár el.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

@@ -20,9 +20,9 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (3) A területi kamarák az alapszabályukban (a továbbiakban: területi alapszabály) meghatározott módon és feltételek szerint helyi csoportokat alakíthatnak, melyek ellátják a területi kamara által rájuk átruházott kamarai feladatokat. A területi kamara alapszabálya a helyi csoportokat jogi személyiséggel ruházhatja fel.
 
-(4) Az országos kamarákon belül a Magyar Mérnöki Kamara legalább építési, tartószerkezeti, épületgépészeti, közlekedési, hírközlési, vízgazdálkodási, vízépítési, környezetvédelmi, földmérő és térképészeti, erdészeti és faipari, mezőgazdasági, gépészeti, hő- és villamosenergetikai, gázipari, elektrotechnikai, munkabiztonsági szakterületeken, illetve a jogosultsághoz kötött egyéb szakértői és tervezői mérnöki szakterületeken, a Magyar Építész Kamara legalább terület- és településrendezési, táj- és kertépítészeti, belsőépítészeti és műemlékvédelmi szakterületeken szakmai tagozatokat hoz létre .
+(4) Az országos kamarákon belül a Magyar Mérnöki Kamara legalább építési, tartószerkezeti, épületgépészeti, közlekedési, hírközlési, vízgazdálkodási, vízépítési, környezetvédelmi, földmérő és térképészeti, erdészeti és faipari, mezőgazdasági, gépészeti, hő- és villamosenergetikai, gázipari, elektrotechnikai, munkabiztonsági, tűzvédelmi szakterületeken, valamint a jogosultsághoz kötött egyéb szakértői és tervezői mérnöki szakterületeken, a Magyar Építész Kamara legalább terület- és településrendezési, táj- és kertépítészeti, belsőépítészeti, műemlékvédelmi és tűzvédelmi szakterületeken szakmai tagozatokat hoz létre.
 
-(5) Az országos és a területi kamara jogosult a Magyar Köztársaság címerének használatára.
+(5)
 
 (6) A területi kamara tagja jogosult hivatalos irataiban kamarai tagságának tényét feltüntetni.
 
@@ -32,7 +32,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 - a) névjegyzéket vezető szervként az adott tevékenység folytatására való jogosultságot szabályozó kormányrendeletben meghatározottak szerint első fokon engedélyezi a mérnöki, illetve építészeti tevékenység, valamint külön törvény vagy kormányrendelet alapján az egyéb szakmagyakorlási tevékenység folytatását, és vezeti az e tevékenységek folytatására jogosultak névjegyzékét,
 - b) figyelemmel kíséri, hogy az a) pont szerinti tevékenységet csak az arra jogosultak végezzék, ennek keretében érdekeltsége területén
-  - ba) a tervező jogosultságának megállapítása céljából – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény rendelkezéseit is figyelembe véve –: – az építési engedélyek nyilvántartásába betekinthet, – az építésügyi- és az építésfelügyeleti hatóság megkeresésére, vagy ha ezt a területi kamaráknál folyamatban lévő eljárás indokolja, a tervdokumentációk alapján véleményt nyilváníthat, – az építésfelügyeleti hatóságok éves ellenőrzési ütemtervének tartalmára javaslatot tehet, továbbá – az építésügyi-, illetve az építésfelügyeleti hatóság hatósági ellenőrzéseiben, célvizsgálataiban részt vehet,
+  - ba) a tervező jogosultságának megállapítása céljából: – az építési engedélyek nyilvántartásába betekinthet, – az építésügyi- és az építésfelügyeleti hatóság megkeresésére, vagy ha ezt a területi kamaráknál folyamatban lévő eljárás indokolja, a tervdokumentációk alapján véleményt nyilváníthat, – az építésfelügyeleti hatóságok éves ellenőrzési ütemtervének tartalmára javaslatot tehet, továbbá – az építésügyi-, illetve az építésfelügyeleti hatóság hatósági ellenőrzéseiben, célvizsgálataiban részt vehet,
   - bb) az illetékes hatóságtól tájékoztatást kérhet,
   - bc) szükség esetén az intézkedésre jogosult hatóságnál eljárást kezdeményezhet;
 - c) ellenőrzi, hogy tagjainak tevékenysége és annak minősége megfelel-e a vonatkozó jogszabályoknak, hatósági előírásoknak és a szakmai követelményeknek, szükség esetén saját hatáskörben eljár, vagy az intézkedésre jogosult hatóságnál eljárást kezdeményez,
@@ -54,7 +54,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 - a) megalkotja – e törvény és az országos alapszabály keretei között – a területi alapszabályt,
 - b) tagjaival szemben első fokon etikai-fegyelmi eljárást (a továbbiakban: fegyelmi eljárást) folytat le,
-- c) nyilvántartást vezet tagjairól és tagjelöltjeiről, ennek során a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek a személyes adatvédelemre vonatkozó szabályai szerint jár el,
+- c) nyilvántartást vezet tagjairól és tagjelöltjeiről,
 - d) tagjai mérnöki, illetve építészeti tevékenységével kapcsolatban egyéb szolgáltatásokat nyújt.
 
 (4) A területi kamarák az (1) bekezdés b), e) és f) pontjaiban meghatározott közfeladataikat erre felhatalmazással bíró tagjaik útján is elláthatják.
@@ -403,7 +403,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (3) A felvételt megtagadó határozat ellen a kérelmező a kézbesítéstől számított 15 napon belül az országos kamarához fellebbezhet. A fellebbezést 30 napon belül el kell bírálni.
 
-(4) Ha az országos kamara a felvételi kérelmet elutasította, e határozatot a kérelmező a határozat kézbesítésétől számított 30 napon belül a területi kamara székhelye szerint illetékes megyei (fővárosi) bíróság előtt keresettel támadhatja meg. A bíróság az eljárás során a polgári perrendtartásról szóló törvény rendelkezéseit alkalmazza.
+(4) Ha az országos kamara a felvételi kérelmet elutasította, e határozatot a kérelmező a határozat kézbesítésétől számított 30 napon belül a területi kamara székhelye szerint illetékes törvényszék előtt keresettel támadhatja meg. A bíróság az eljárás során a polgári perrendtartásról szóló törvény rendelkezéseit alkalmazza.
 
 26/A. § (1) Ha törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet alapján engedélyezéshez kötött tevékenység folytatásának egyben az e törvény szerinti kamarai tagság fennállása is feltétele, az aki a tevékenység folytatására engedélyt kapott, az engedély megadásával és a névjegyzékbevétellel egyidejűleg a kamara tagjává válik.
 

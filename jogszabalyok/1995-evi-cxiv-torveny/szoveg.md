@@ -124,9 +124,9 @@ az igazságügyi szakértői kamaráról
 
 ### II. Fejezet — A területi kamara
 
-5. § (1) A területi kamara jogi személy, amely képviseleti, ügyintézői szervezettel és önálló költségvetéssel rendelkezik, és a működési területén képviseli a szakértők érdekeit, gondoskodik a jogaik védelméről, ellátja az alapszabályban meghatározott feladatokat.
+5. § (1) A területi kamara jogi személy, amely képviseleti, ügyintézői szervezettel és önálló költségvetéssel rendelkezik, és a működési területén képviseli a szakértők érdekeit, gondoskodik a jogaik védelméről, ellátja az alapszabályban meghatározott feladatokat. A területi kamarát a törvényszék nem veszi nyilvántartásba.
 
-(2) A Magyar Köztársaság területén a következő területi kamarák működnek:
+(2) Magyarországon a következő területi kamarák működnek:
 
 - a) Budapesti Igazságügyi Szakértői Kamara: Budapest, Nógrád megye és Pest megye,
 - b) Debreceni Igazságügyi Szakértői Kamara: Hajdú-Bihar megye és Szabolcs-Szatmár-Bereg megye,
@@ -141,7 +141,7 @@ területén.
 
 (3) A területi kamara székhelye az elnevezésében szereplő város, illetve a területi kamara alapszabályában meghatározott hely.
 
-(4) A területi kamara jogosult az állami címer használatára.
+(4)
 
 ### A területi kamara szervei
 
@@ -239,11 +239,11 @@ területén.
 
 ### III. Fejezet — A Magyar Igazságügyi Szakértői Kamara
 
-14. § (1) A MISZK a szakértők országos szervezete, amely képviseli a szakértők érdekeit, véleményt nyilvánít a szakértőket érintő kérdésekben.
+14. § (1) A MISZK a szakértők országos szervezete, amely képviseli a szakértők érdekeit, véleményt nyilvánít a szakértőket érintő kérdésekben. A MISZK-et a törvényszék nem veszi nyilvántartásba.
 
 (2) A MISZK-et a területi kamarák alkotják; a székhelye: Budapest.
 
-(3) A MISZK jogosult az állami címer használatára.
+(3)
 
 15. § (1) A MISZK szervei
 
@@ -685,7 +685,7 @@ eltelt a kezdeményezés előterjesztése nélkül.
 
 (3) A másodfokú etikai tanácsnak az etikai eljárást befejező határozattal szemben előterjesztett fellebbezés folytán hozott határozata felülvizsgálatát – kivéve az elsőfokú határozatot hatályon kívül helyező és új eljárás lefolytatását elrendelő határozatot – a panaszolt szakértő (képviselője) és a tagság szerinti kamara elnöke a határozat kézbesítésétől számított 30 napon belül a MISZK-kel szemben indított polgári nemperes eljárásban kérheti.
 
-(4) A (3) bekezdés szerinti kérelem elbírálása a megyei (fővárosi) bíróság hatáskörébe tartozik. A kérelemről a bíróság az egyes közigazgatási nemperes eljárásokban alkalmazandó szabályokról szóló törvény rendelkezéseit alkalmazva határoz, a határozatot megváltoztathatja. A kérelemnek a határozat végrehajtására halasztó hatálya nincs.
+(4) A (3) bekezdés szerinti kérelem elbírálása a törvényszék hatáskörébe tartozik. A kérelemről a bíróság az egyes közigazgatási nemperes eljárásokban alkalmazandó szabályokról szóló törvény rendelkezéseit alkalmazva határoz, a határozatot megváltoztathatja. A kérelemnek a határozat végrehajtására halasztó hatálya nincs.
 
 48/G. § A másodfokú etikai eljárásban egyebekben az elsőfokú eljárás szabályait megfelelően alkalmazni kell.
 
@@ -718,7 +718,7 @@ eltelt a kezdeményezés előterjesztése nélkül.
 
 (2) Az érintett kamara elnöke köteles a megjelölt határidőn belül a jogsértés megszüntetése érdekében a szükséges intézkedéseket megtenni, vagy egyet nem értéséről az igazságügyért felelős minisztert tájékoztatni.
 
-(3) Ha az érintett kamara elnöke a megjelölt határidőn belül a szükséges intézkedéseket nem tette meg, vagy az igazságügyért felelős miniszter felhívásában foglaltakkal nem ért egyet, továbbá ha a megadott határidőn belül nem nyilatkozik, az érintett kamara ellen az igazságügyért felelős miniszter az elnök tájékoztatásának kézhezvételétől, illetve a felhívásában megjelölt határidő leteltétől számított 30 napon belül – a jogsértés megszüntetése érdekében – a polgári perrendtartásról szóló törvény általános szabályai szerint bírósághoz fordulhat. A per elbírálása a megyei (fővárosi) bíróság hatáskörébe tartozik.
+(3) Ha az érintett kamara elnöke a megjelölt határidőn belül a szükséges intézkedéseket nem tette meg, vagy az igazságügyért felelős miniszter felhívásában foglaltakkal nem ért egyet, továbbá ha a megadott határidőn belül nem nyilatkozik, az érintett kamara ellen az igazságügyért felelős miniszter az elnök tájékoztatásának kézhezvételétől, illetve a felhívásában megjelölt határidő leteltétől számított 30 napon belül – a jogsértés megszüntetése érdekében – a polgári perrendtartásról szóló törvény általános szabályai szerint bírósághoz fordulhat. A per elbírálása a törvényszék hatáskörébe tartozik.
 
 (4) Ha bíróság a (3) bekezdés alapján indított eljárás során a jogsértést megállapítja,
 

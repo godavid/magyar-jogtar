@@ -8,20 +8,21 @@ Az Országgyűlés az értékteremtő közfoglalkoztatás jogi kereteinek megter
 
 (2) Közfoglalkoztatási jogviszony olyan munkára létesíthető, amely
 
-- a) e törvényben meghatározott feladat, továbbá törvény által előírt állami feladat,
-- b) a helyi önkormányzatokról szóló 1990. évi LXV. törvény 8. § (1), valamint (3)–(4) bekezdésében, 63/A. §-ában, 70. § (1) bekezdésében foglalt, kötelező vagy önként vállalt feladat, vagy
-- c) a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 6/A. § (1) bekezdés 1. pontjában, a 30/A. § és 30/B. §-ban foglalt kötelező vagy önként vállalt feladat, vagy
-- d) a közhasznú szervezetekről szóló 1997. évi CLVI. törvény (a továbbiakban: Khszt.) 26. § c) pontjában meghatározott közhasznú tevékenység körébe tartozó feladat
+- a) e törvényben meghatározott feladat, továbbá törvény által előírt állami feladat vagy
+- b) a helyi önkormányzatokról szóló törvényben előírt kötelező vagy önként vállalt feladat, vagy
+- c) a nemzetiségek jogairól szóló törvényben előírt kötelező vagy önként vállalt feladat, vagy
+- d) a helyi vagy azon túlmutató közösségi – így különösen – egészségmegőrzési, szociális, nevelési, oktatási, kulturális, kulturális örökség megóvása, műemlékvédelmi, természet-, környezet- és állatvédelemi, gyermek- és ifjúságvédelemi, a munkaviszonyban és a polgári jogi jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével sport, közrend és közlekedésbiztonsági, ár- és belvízvédelemi célú, közforgalom számára megnyitott út, híd, alagút fejlesztéséhez, fenntartásához és üzemeltetéséhez kapcsolódó szükségletek kielégítését szolgáló feladat vagy
+- e) a Kormány által meghatározott közösségi célok megvalósítását elősegítő feladat
 
-ellátására irányul, és annak ellátására törvény nem ír elő közalkalmazotti, közszolgálati vagy kormánytisztviselői jogviszonyt.
+ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, közszolgálati vagy kormánytisztviselői jogviszonyt.
 
 (3) Közfoglalkoztató lehet:
 
-- a) helyi és kisebbségi önkormányzat, valamint ezek jogi személyiséggel rendelkező társulása,
+- a) helyi és nemzetiségi önkormányzat, valamint ezek jogi személyiséggel rendelkező társulása,
 - b) költségvetési szerv,
 - c) egyház,
-- d) a nemzeti civil alapprogramról szóló törvényben meghatározott civil szervezet,
-- e) közhasznú szervezet, a Khszt. 2. § (1) bekezdés h) és j) pontjában foglaltak kivételével,
+- d) közhasznú jogállású szervezet,
+- e) civil szervezet,
 - f) az állami és önkormányzati tulajdon kezelésével és fenntartásával megbízott, vagy erre a célra az állam, önkormányzat által létrehozott gazdálkodó szervezet,
 - g) vízitársulat,
 - h) erdőgazdálkodó, amennyiben a közfoglalkoztatás keretében
@@ -31,14 +32,17 @@ ellátására irányul, és annak ellátására törvény nem ír elő közalkal
   - hd) határjelek és környezetének karbantartására,
   - he) tűzpászták készítését és tűzmegelőzést szolgáló feladatok ellátására,
   - hf) kommunális hulladék gyűjtésére és elszállítására,
-  - hg) az erdőterület kommunális szennyeződéstől való tisztítására kerül sor,
-- i) szociális szövetkezet azon tevékenysége körében, amit a közhasznú szervezetekről szóló törvény közhasznú tevékenységnek ismer el,
+  - hg) az erdőterület kommunális szennyeződéstől való tisztítására
+
+kerül sor,
+
+- i) a (2) bekezdés d) pontjában meghatározott feladatok ellátása esetén a szociális szövetkezet,
 - j) a vasúti pályahálózat-működtető szervezet a vasúti pálya és környezete tisztántartásával, a kapcsolódó területek növényzetének karbantartásával, továbbá a vasúti üzemi létesítmények fenntartója az üzemi létesítmény állagmegóvásával kapcsolatos feladatai ellátásában.
 
 (4) Közfoglalkoztatottként az a természetes személy foglalkoztatható, aki
 
 - a) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki tizenhatodik életévét nem töltötte be, valamint
-- b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskereső.
+- b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskereső, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
 
 2. § (1) A közfoglalkoztatási jogviszonyra az Mt. szabályai alkalmazandók, a (2)–(5) bekezdésben meghatározott eltérésekkel.
 
@@ -48,7 +52,7 @@ ellátására irányul, és annak ellátására törvény nem ír elő közalkal
 
 (4) A közfoglalkoztatottat megillető munkabér összege megegyezik a teljesítményhez kötött tevékenységek kivételével a közfoglalkoztatási bérrel, a legalább középfokú iskolai végzettséget, szakképesítést igénylő munkakör betöltése esetén a közfoglalkoztatási garantált bérrel, azzal, hogy
 
-- a) a közfoglalkoztatási garantált bér el kell, hogy érje a közfoglalkoztatott számára a közfoglalkoztatást közvetlenül megelőzően folyósított álláskeresési járadék, illetve a foglalkoztatást helyettesítő támogatás havi összegét, és
+- a) a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér el kell, hogy érje a közfoglalkoztatott számára a közfoglalkoztatást közvetlenül megelőzően folyósított álláskeresési járadék, rehabilitációs ellátás, illetve a foglalkoztatást helyettesítő támogatás havi összegét, és
 - b) a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér összegét a közfoglalkoztatottat megillető munkabér csak többletteljesítés esetében haladhatja meg.
 
 (5) A közfoglalkoztatási jogviszony esetén az Mt. 193/P. §-ában foglaltakon túlmenően:
@@ -61,7 +65,7 @@ ellátására irányul, és annak ellátására törvény nem ír elő közalkal
 - f) az Mt. 81. §-a nem alkalmazható,
 - g) az Mt. munkáltatói jogállásváltozásra vonatkozó 86. § d) pontja nem alkalmazható; a munkáltató jogállásváltozása a közfoglalkoztatási jogviszony fennállását nem érinti,
 - h) az Mt.-nek a működési bizonyítványra vonatkozó 99. §-a nem alkalmazható,
-- i) az Mt. 101. §-át azzal az eltéréssel kell alkalmazni, hogy a közfoglalkoztatott nem kérheti a jogviszonyba történő visszahelyezését,
+- i) az Mt. 100. §-át azzal az eltéréssel kell alkalmazni, hogy a közfoglalkoztatott nem kérheti a jogviszonyba történő visszahelyezését,
 - j) az Mt.-nek a külföldi munkáltató munkavállalójára vonatkozó 106/A–106/B. §-a nem alkalmazható,
 - k) az Mt.-nek a munkavállaló által folytatott tanulmányokra vonatkozó 110–114. §-a nem alkalmazható,
 - l) az Mt.-nek a lakásépítés céljára biztosítandó fizetés nélküli szabadságra vonatkozó 140. §-a nem alkalmazható,
@@ -119,15 +123,41 @@ ellátására irányul, és annak ellátására törvény nem ír elő közalkal
 
 #### 19. §
 
-#### 20. §
+20. § Az Szt. 33. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A települési önkormányzat rendeletében az aktív korúak ellátására való jogosultság egyéb feltételeként előírhatja, hogy a kérelem benyújtója, illetve az ellátás jogosultja a lakókörnyezete rendezettségének biztosítására vonatkozó, a rendeletében megállapított feltételeket teljesítse. A lakókörnyezet rendezettségének biztosítása körében a kérelmező vagy jogosult által életvitelszerűen lakott lakás vagy ház és annak udvara, kertje, a kerítéssel kívül határos terület, járda tisztán tartása, az ingatlan állagának és rendeltetésszerű használhatóságának, valamint higiénikus állapotának biztosítására irányuló kötelezettség írható elő. A rendeletben megállapított feltételek teljesítésére a kérelmezőt, illetve a jogosultat megfelelő, de legalább ötnapos határidő tűzésével a jegyzőnek – az elvégzendő tevékenységek konkrét megjelölésével – fel kell szólítania.”
 
 #### 21. §
 
-#### 22. §
+22. § (1) Az Szt. 37. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-#### 23. §
+(Az az aktív korúak ellátására jogosult személy, aki az ellátásra való jogosultság kezdő napján)
 
-#### 24. §
+„b) a rá irányadó nyugdíjkorhatárt öt éven belül betölti, vagy”
+
+(2) Az Szt. 37. § (3)–(4) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha az (1) bekezdés a), c), illetve d) pontja szerinti valamely feltétel megszűnik, a feltétel megszűnését követő hónap első napjától a 35. § (1) bekezdése szerinti ellátást kell megállapítani és a 35. § (3) bekezdése szerinti kötelezettséget kell előírni. A feltétel megszűnésének hónapjára – amennyiben az aktív korúak ellátására való jogosultság továbbra is fennáll – rendszeres szociális segély jár.
+
+(4) A rendszeres szociális segély havi összege a családi jövedelemhatár összegének és a jogosult családja havi összjövedelmének különbözete, de nem haladhatja meg a közfoglalkoztatási bér mindenkori kötelező legkisebb összege személyi jövedelemadóval, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal csökkentett összegének (e § alkalmazásában: nettó közfoglalkoztatási bér) 90%-át azzal, hogy ha a rendszeres szociális segélyre jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, a rendszeres szociális segély összege nem haladhatja meg a nettó közfoglalkoztatási bér 90%-ának és a foglalkoztatást helyettesítő támogatás összegének különbözetét. A családi jövedelemhatár összege megegyezik a család fogyasztási egységeihez tartozó arányszámok összegének és az öregségi nyugdíj mindenkori legkisebb összege 90%-ának szorzatával.”
+
+23. § Az Szt. 37/B. § a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Amennyiben a rendszeres szociális segélyre jogosult személy a lakókörnyezete rendben tartására vonatkozó, a 33. § (7) bekezdése szerinti feltételeknek – a felszólítás ellenére – nem tesz eleget, a rendszeres szociális segély összegének folyósítását egy hónapra fel kell függeszteni.”
+
+24. § Az Szt. 58/A. §-a a következő (2) és (2a) bekezdéssel egészül ki:
+
+„(2) A 131/A. §-ban nem említett szociális szolgáltatások esetében
+
+a) az új szociális szolgáltató, intézmény,
+
+b) házi segítségnyújtásnál az új ellátotti létszám,
+
+c) nappali és – a külső férőhelyek kivételével – szakosított ellátásnál az új férőhelyek
+
+után az állami, egyházi és nem állami fenntartó normatív állami hozzájárulásra való jogosultságának további feltétele a szociális szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadás.
+
+(2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, ellátotti létszámnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó 2011. december 31-én nem rendelkezett jogerős működési engedéllyel és a szociális szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe nem nyert még befogadást, valamint 2012. július 1-jétől a nem állami fenntartású házi segítségnyújtás – ide nem értve az egyházi fenntartású házi segítségnyújtást – esetében a 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszám.”
 
 #### 25. §
 
@@ -137,11 +167,23 @@ ellátására irányul, és annak ellátására törvény nem ír elő közalkal
 
 28. § (1)–(3)
 
-(4)
+(4) Az Szt. 132. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza)
+
+„a) az aktív korúak ellátására jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,”
 
 #### 29. §
 
-#### 30. §
+30. § Az Szt. a következő 140/H. §-sal egészül ki:
+
+„140/H. § (1) Az Szt.-nek a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvénnyel megállapított 37. § (4) bekezdésében foglaltakat a 2012. január 1-jén folyamatban lévő, az aktív korúak ellátására való jogosultság megállapítása iránti kérelmek elbírálására irányuló eljárásokban is alkalmazni kell.
+
+(2) A jegyző a 2012. január 1-jét megelőzően megállapított rendszeres szociális segély összegét, valamint a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvénnyel megállapított, az Szt. 37. § (1) bekezdés b) pontja szerinti jogosultsági feltételeket 90 napon belül felülvizsgálja, és
+
+a) intézkedik arról, hogy első alkalommal az április hónapra járó rendszeres szociális segély a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvénnyel megállapított 37. § (4) bekezdésben foglaltak szerinti összegre figyelemmel kerüljön folyósításra,
+
+b) amennyiben a rendszeres szociális segélyre való jogosultságnak az Szt. 2012. január 1-jén hatályos 37. § (1) bekezdés b) pontja szerinti feltétele nem áll fenn, de az aktív korúak ellátására való jogosultsága egyébként fennáll, 2012. április 1-jétől a foglalkoztatást helyettesítő támogatásra való jogosultságot kell megállapítani azzal, hogy 2012. január–március hónapjaira a rendszeres szociális segélyt folyósítani kell.”
 
 ### A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
@@ -169,7 +211,17 @@ ellátására irányul, és annak ellátására törvény nem ír elő közalkal
 
 #### 39. §
 
-#### 40. §
+40. § A Gyvt. 145. §-a a következő (2) és (2a) bekezdéssel egészül ki:
+
+„(2) Az állami, egyházi és nem állami fenntartó normatív állami hozzájárulásra való jogosultságának feltétele a
+
+a) személyes gondoskodást nyújtó gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó új szolgáltatónak, intézménynek, hálózatnak,
+
+b) gyermekek napközbeni ellátása, gyermekek átmeneti gondozása, otthont nyújtó ellátás és – a külső férőhelyek kivételével – utógondozói ellátás esetében az új férőhelyeknek
+
+a gyermekjóléti és gyermekvédelmi szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása.
+
+(2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, hálózatnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó 2011. december 31-én nem rendelkezett jogerős működési engedéllyel és a gyermekjóléti és gyermekvédelmi szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe nem nyert még befogadást.”
 
 #### 41. §
 
@@ -227,6 +279,11 @@ ellátására irányul, és annak ellátására törvény nem ír elő közalkal
 
 58. § (1)
 
-(2)
+(2) Hatályát veszti az Szt.
+
+- a) 18. § h) pontjában a „(TAJ szám)” szövegrész,
+- b) 26/A. §-a,
+- c) 35. § (2) bekezdése,
+- d)
 
 59. § Nem lép hatályba az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény 24. § (1) bekezdése.

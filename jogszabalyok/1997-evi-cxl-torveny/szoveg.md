@@ -2,7 +2,7 @@
 
 a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről
 
-A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésének pótolhatatlan forrásai, a nemzeti és az egyetemes kulturális örökség egészének elválaszthatatlan összetevői; szellemi birtokbavételük minden ember alapvető joga. Az e fogalomkörbe tartozó értékek különös védelme, megőrzése és fenntartása, valamint a nyilvánosság számára történő széleskörű és egyenlő hozzáférhetővé tétele a mindenkori társadalom kötelezettsége.Az információs társadalom és a demokratikus jogállam működésének alapfeltétele a könyvtári rendszer, amelyen keresztül az információk szabadon, bárki számára hozzáférhetők. A könyvtári ellátás fenntartása és fejlesztése az állampolgárok és a társadalom egésze szempontjából szükséges, a könyvtári és információs szolgáltatás állami fenntartása stratégiai jelentőségű. A könyvtári rendszernek az állampolgárok érdekeit kell szolgálnia.A nemzeti, nemzetiségi és etnikai kisebbségi kulturális hagyományok megőrzése, méltó folytatása, a közösségi és egyéni művelődés személyi, szellemi, gazdasági feltételeinek javítása, a polgárok életminőségét javító, értékhordozó tevékenységek, valamint az ezek megvalósulására létrejött intézmények és szervezetek működésének elősegítése a társadalom közös érdeke.E célok megvalósítása érdekében az Országgyűlés a következő törvényt alkotja:
+A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésének pótolhatatlan forrásai, a nemzeti és az egyetemes kulturális örökség egészének elválaszthatatlan összetevői; szellemi birtokbavételük minden ember alapvető joga. Az e fogalomkörbe tartozó értékek különös védelme, megőrzése és fenntartása, valamint a nyilvánosság számára történő széleskörű és egyenlő hozzáférhetővé tétele a mindenkori társadalom kötelezettsége.Az információs társadalom és a demokratikus jogállam működésének alapfeltétele a könyvtári rendszer, amelyen keresztül az információk szabadon, bárki számára hozzáférhetők. A könyvtári ellátás fenntartása és fejlesztése az állampolgárok és a társadalom egésze szempontjából szükséges, a könyvtári és információs szolgáltatás állami fenntartása stratégiai jelentőségű. A könyvtári rendszernek az állampolgárok érdekeit kell szolgálnia.A nemzeti, nemzetiségi kulturális hagyományok megőrzése, méltó folytatása, a közösségi és egyéni művelődés személyi, szellemi, gazdasági feltételeinek javítása, a polgárok életminőségét javító, értékhordozó tevékenységek, valamint az ezek megvalósulására létrejött intézmények és szervezetek működésének elősegítése a társadalom közös érdeke.E célok megvalósítása érdekében az Országgyűlés a következő törvényt alkotja:
 
 ## I. RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -24,7 +24,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 4. § Mindenkinek joga, hogy
 
-- a) megismerhesse a kulturális örökség javait és ezek jelentőségét a történelem alakulásában, a nemzeti, nemzetiségi és etnikai kisebbségi önismeret formálásában, valamint az ezek védelmével kapcsolatos ismereteket a muzeális intézmények tevékenysége, a könyvtári szolgáltatások, az oktatás, a közművelődés, az ismeretterjesztés, a sajtó és a tömegtájékoztatás útján,
+- a) megismerhesse a kulturális örökség javait és ezek jelentőségét a történelem alakulásában, a nemzeti, nemzetiségi önismeret formálásában, valamint az ezek védelmével kapcsolatos ismereteket a muzeális intézmények tevékenysége, a könyvtári szolgáltatások, az oktatás, a közművelődés, az ismeretterjesztés, a sajtó és a tömegtájékoztatás útján,
 - b) igénybe vegye a nyilvános könyvtári ellátás rendszerét, a muzeális és közművelődési intézmények szolgáltatásait,
 - c) műveltségét, készségeit életének minden szakaszában gyarapítsa, közművelődési jogai érvényesítése céljából közösséget hozzon létre, s külön jogszabályban meghatározottak szerint szervezetet alapítson, működtessen,
 - d) e törvény szerint művelődési céljai megvalósításához közművelődési közösségi színteret (a továbbiakban: közösségi színtér), szervező, szervezeti és tartalmi segítséget kapjon.
@@ -161,7 +161,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (8) A működési engedélyben foglaltak betartását a miniszter által megbízott szakfelügyelő ellenőrzi.
 
-(9) Állami költségvetési támogatás a működési engedéllyel rendelkező muzeális intézmény számára adható.
+(9) Központi költségvetési támogatás a működési engedéllyel rendelkező muzeális intézmény számára adható.
 
 40. § A muzeális intézmény működési engedélyét a miniszter
 
@@ -192,7 +192,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 43. § (1) Az országos múzeum átfogó, egy vagy több alaptudományra támaszkodó, szakterületén kiemelkedő jelentőségű, művelődéstörténeti, tudományos teljességre törekvő gyűjteményt gondoz; gyűjtőterülete – a Budapesti Történeti Múzeum kivételével – az egész országra kiterjed.
 
-(2) Az országos múzeumok és irányító szerveik felsorolását e törvény 2. számú melléklete tartalmazza, alapító okirataikat irányító szervük adja ki.
+(2)
 
 (3) Az országos múzeum ellátja a miniszter által jogszabályban ráruházott szakmai feladatokat.
 
@@ -206,25 +206,39 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (3) Az országos szakmúzeum vezetője igazgató, akit a tulajdonos (fenntartó) – állami múzeum esetében az irányítási jogokat gyakorló miniszter – pályázat útján a miniszter véleményének kikérésével bíz meg, illetőleg vonja vissza megbízatását.
 
-### Megyei múzeum
+### A megyei múzeumi szervezet és a megyei múzeum
 
-45. § (1) A megye önkormányzata a kulturális javak gyűjtéséről, őrzéséről, tudományos feldolgozásáról és bemutatásáról, a régészeti örökség védelméről múzeumi szervezet fenntartásával gondoskodik.
+45. § (1) Az állam a megyék közigazgatási területén a kulturális javak gyűjtéséről, őrzéséről, tudományos feldolgozásáról, bemutatásáról és hozzáférhetővé tételéről, a régészeti örökség védelméről költségvetési szervként működő megyei múzeumi szervezet fenntartásával gondoskodik.
 
 (2) A megyei múzeumi szervezet az (1) bekezdésben meghatározott feladatok egységes ellátásának intézményrendszere, amelyen belül különböző szakmai besorolású, önálló működési engedéllyel rendelkező muzeális intézmények működnek.
 
-(3) A megyei múzeumi szervezet irányító intézménye a megyei múzeum; igazgatója egy személyben a megyei múzeumi szervezet vezetője. A megyei múzeum gyűjteményi anyagában több muzeológiai szakág magas színvonalon képviselt. Gyűjtőterülete az adott megye és az abban található megyei jogú város területére terjed ki. E gyűjtőterülettől – szakmai és tudományos indokok alapján – a működési engedélyben eltérés engedélyezhető.
+45/A. § (1) A megyei múzeumi szervezet székhelye az önálló működési engedéllyel rendelkező megyei múzeum (a továbbiakban: megyei múzeum). A megyei múzeum gyűjteményi anyagában legalább öt muzeológiai szakág jelenik meg. Gyűjtőterülete az adott megye és az abban található megyei jogú város közigazgatási területére terjed ki. E gyűjtőterülettől – szakmai és tudományos indokok alapján – a működési engedélyben eltérés engedélyezhető.
 
-(4) A megyei múzeum:
+(2) A megyei múzeum:
 
-- a) elősegíti a megyei múzeumi szervezet, illetőleg a területen tevékenykedő más muzeális intézmények szakmai együttműködését, munkájuk összehangolását, valamint az illetékességi területén lévő egyéb kulturális javak védelmét;
-- b) a megye közigazgatási területén és a megyében levő megyei jogú városban ellátja a régészeti lelőhelyek szakmai nyilvántartását, mentését és régészeti feltárásokat végez;
-- c) szakmai nyilvántartása alapján adatokat szolgáltat a régészeti lelőhelyekről;
-- d) a régészeti feltárás esetén kívül előkerült régészeti leletet, illetve lelőhelyet a múzeum köteles a kulturális örökségvédelmi hatóságnak (a továbbiakban: hatóság) haladéktalanul bejelenteni;
-- e) részt vesz a területén lévő régészeti emlékek és a műemlékek vissza nem építhető, illetőleg a helyszínen meg nem őrizhető töredékei és tartozékai muzeális közgyűjteményben történő elhelyezésében;
-- f) szakértőként részt vesz a régészetileg védett területek ellenőrzésében;
-- g) közreműködik a hatóság területi feladatainak ellátásában.
+- a) közreműködik a miniszter és a kulturális örökségvédelmi hatóság (a továbbiakban: hatóság) területi feladatainak ellátásában,
+- b) elősegíti a megyei múzeumi szervezet, illetőleg a megye közigazgatási területén tevékenykedő más muzeális intézmények szakmai együttműködését, munkájuk összehangolását, valamint az illetékességi területén lévő egyéb kulturális javak védelmét;
+- c) a megye közigazgatási területén és a megyében levő megyei jogú városban ellátja a régészeti lelőhelyek szakmai nyilvántartását, mentését és régészeti feltárásokat végez;
+- d) szakmai nyilvántartása alapján adatokat szolgáltat a régészeti lelőhelyekről;
+- e) a régészeti feltárás esetén előkerült régészeti leletet, illetve lelőhelyet a múzeum köteles a hatóságnak haladéktalanul bejelenteni;
+- f) részt vesz a megye közigazgatási területén lévő régészeti emlékek és a műemlékek vissza nem építhető, illetőleg a helyszínen meg nem őrizhető töredékei és tartozékai muzeális közgyűjteményben történő elhelyezésében;
+- g) szakértőként részt vesz a régészetileg védett területek ellenőrzésében;
+- h) ellátja továbbá a megyei múzeumi szervezet működésével kapcsolatos funkcionális feladatokat.
 
-(5) Megyei múzeumot az illetékes önkormányzat közgyűlése – a 39. § (2) bekezdés szerint – alapíthat, illetőleg jelölhet ki a fenntartásában lévő múzeumok közül. Vezetője igazgató, akit pályázat útján – a miniszter véleményének kikérésével – az önkormányzat bíz meg, illetőleg vonja vissza megbízatását.
+45/B. § (1) A megyei múzeumot – a 39. § (2) bekezdése szerint – a fenntartó jelölheti ki, a miniszter előzetes egyetértésével.
+
+(2) A megyei múzeumi szervezet (és egyben a megyei múzeum) vezetője a megyei múzeumigazgató, akit a fenntartó pályázat útján, a miniszter előzetes egyetértése esetén bíz meg, illetőleg vonja vissza megbízatását.
+
+(3) A megyei múzeumi szervezet alapító okiratának, szervezeti és működési szabályzatának elfogadásához és módosításához a miniszter előzetes egyetértése szükséges.
+
+(4) A megyei múzeumi szervezet 45. § (2) bekezdésében meghatározott tagintézményei esetén a 39. § (3) bekezdésében felsorolt adatok megváltoztatásához, valamint működési engedélyük visszavonásához és megszüntetésükhöz a miniszter előzetes egyetértése szükséges.
+
+(5) A megyei múzeumi szervezet
+
+- a) stratégiai terve, éves szakmai feladatainak meghatározása,
+- b) munkatervének, beszámolójának elfogadása,
+- c) költségvetésének feladatalapú tervezése,
+- d) fejlesztési és beruházásai feladatainak meghatározása során a miniszter véleményezési jogot gyakorol.
 
 ### Területi múzeumok
 
@@ -302,7 +316,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - f) statisztikai adatokat szolgáltat,
 - g) ellátja az 55. § (1) bekezdésében felsorolt alapfeladatokat.
 
-(2) A nyilvános könyvtárakról a muzeális intézményeket nyilvántartó hatóság jegyzéket vezet. Az állami költségvetési támogatás csak a jegyzékben szereplő nyilvános könyvtárakat, illetőleg fenntartóikat illeti meg a 71. § (1) bekezdésében felsoroltak figyelembevételével.
+(2) A nyilvános könyvtárakról a muzeális intézményeket nyilvántartó hatóság jegyzéket vezet. A központi költségvetési támogatás csak a jegyzékben szereplő nyilvános könyvtárakat, illetőleg fenntartóikat illeti meg a 71. § (1) bekezdésében felsoroltak figyelembevételével.
 
 (3) A fenntartónak az (1) bekezdésben foglaltak teljesítésére vonatkozó nyilatkozata és kérelme nélkül bekerülnek a nyilvános könyvtárak jegyzékébe: a nemzeti könyvtár, a helyi önkormányzatok által fenntartott települési könyvtárak, a megyei könyvtárak, a 3. számú melléklet szerinti országos szakkönyvtárak, illetőleg az állami egyetemek könyvtárai.
 
@@ -385,7 +399,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - b) a Magyarországon keletkezett sajtótermékek kötelespéldány-szolgáltatáson alapuló teljes körű gyűjtése, egyéb, Magyarországon keletkezett dokumentumok, valamint a külföldi hungarikumok gyűjtése, továbbá mindezek megőrzése bibliográfiai számbavétele és rendelkezésre bocsátása, továbbá a kötelespéldányok elosztása,
 - c) az országos dokumentumellátási rendszer működtetése,
 - d) a határon túli magyarok könyvtári ellátásának segítése,
-- e) a hazai nemzeti és etnikai kisebbségek könyvtári ellátásának segítése,
+- e) a hazai nemzetiségek könyvtári ellátásának segítése,
 - f) a nemzetközi szabványos dokumentumazonosító számok kiadása és nyilvántartása.
 
 (2) Az 59. § (1) és (4) bekezdésében és az e § (1) bekezdésében felsorolt, valamint további, a könyvtári rendszer működése és fejlesztése érdekében a miniszter által meghatározott szolgáltatásokat mindazokban az esetekben, amelyekben a jelen törvény erről nem rendelkezik, az a nyilvános könyvtár vagy intézmény teljesíti, amellyel a miniszter a feladat ellátására megállapodást köt.
@@ -445,13 +459,15 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 ### VI. Fejezet — Közkönyvtári ellátás:a települési és a megyei könyvtári ellátás
 
-64. § (1) A települési és a megyei könyvtári ellátás biztosítása a helyi önkormányzatok kötelező feladata.
+64. § (1) A települési könyvtári ellátás biztosítása a helyi önkormányzatok kötelező feladata.
 
-(2) Az (1) bekezdésben meghatározott feladatot a községi, városi, megyei jogú városi önkormányzat nyilvános könyvtár fenntartásával, vagy önkormányzatok közötti társulásban nyilvános könyvtár fenntartásával, vagy nyilvános könyvtár szolgáltatásának megrendelésével teljesítheti.
+(2) Az (1) bekezdésben meghatározott feladatot a községi, városi, megyei jogú városi önkormányzat nyilvános könyvtár fenntartásával, vagy nyilvános könyvtár szolgáltatásának megrendelésével teljesítheti.
 
-(3) Az (1) bekezdésben meghatározott feladatot a megyei és a fővárosi önkormányzat nyilvános könyvtár fenntartásával teljesíti.
+(3) Az (1) bekezdésben meghatározott feladatot a fővárosi önkormányzat nyilvános könyvtár fenntartásával teljesíti.
 
-(4) Amennyiben megállapodás alapján a megyei könyvtár székhelyén a települési könyvtári feladatokat is a megyei könyvtár látja el, a székhely szerinti és a megyei önkormányzat köteles a könyvtár működtetéséhez szükséges támogatást együttesen biztosítani.
+(4) A megyei könyvtár költségvetési szerv, fenntartása az állam feladata. A megyei könyvtár nyilvános könyvtár.
+
+(5) Amennyiben a megyei könyvtár székhelyén a települési könyvtári feladatokat is a megyei könyvtár látja el megállapodás alapján, a székhely szerinti önkormányzat és az állam köteles a könyvtár működtetéséhez szükséges támogatást együttesen biztosítani.
 
 65. § (1) A települési könyvtár a községi, városi, fővárosi könyvtár.
 
@@ -468,10 +484,11 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 - a) ellátja a kötelespéldányokkal és a könyvtárközi dokumentumellátással kapcsolatos feladatokat,
 - b) szervezi a területén működő könyvtárak együttműködését,
-- c) végzi, illetőleg szervezi a megye nemzeti és etnikai kisebbségéhez tartozó lakosainak könyvtári ellátását,
+- c) végzi, illetőleg szervezi a megye nemzetiséghez tartozó lakosainak könyvtári ellátását,
 - d) a települési könyvtárak tevékenységét segítő szolgáltatásokat nyújt,
 - e) szervezi a megyében működő nyilvános könyvtárak statisztikai adatszolgáltatását,
-- f) végzi az iskolán kívüli könyvtári továbbképzést és szakképzést.
+- f) végzi az iskolán kívüli könyvtári továbbképzést és szakképzést,
+- g) könyvtárellátási szolgáltatásokat nyújt a települési nyilvános könyvtári szolgáltatások megszervezéséhez.
 
 67. § (1) Városokban elsődlegesen önálló intézményben kell a nyilvános könyvtári ellátást biztosítani.
 
@@ -479,7 +496,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 ### VII. Fejezet — A könyvtárak fenntartása, irányítása
 
-68. § A fenntartó az e törvényben foglaltak alapján
+68. § (1) A fenntartó az e törvényben foglaltak alapján
 
 - a) meghatározza a könyvtár feladatait és használati szabályzatát,
 - b) kiadja alapító okiratát, jóváhagyja szervezeti és működési szabályzatát,
@@ -488,6 +505,16 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - e) az országos könyvtári szakértői névjegyzékben szereplő szakértők közreműködésével értékeli a könyvtár szakmai tevékenységét,
 - f) biztosítja a könyvtár szakmai önállóságát,
 - g) ellátja a könyvtár fenntartásával, irányításával kapcsolatos más jogszabályokban meghatározott feladatokat.
+
+(2) A megyei könyvtár alapító okiratának kiadásához, módosításához, szervezeti és működési szabályzatának jóváhagyásához, a könyvtár igazgatójának vezetői megbízásához és annak visszavonásához, az igazgató munkájának értékeléséhez a kultúráért felelős miniszter előzetes egyetértése szükséges.
+
+(3) A megyei könyvtár szakmai ellenőrzése a kultúráért felelős miniszter feladata, ennek keretében előzetesen véleményezi a megyei könyvtár
+
+- a) stratégiai tervét,
+- b) munkatervét és beszámolóját,
+- c) költségvetésének feladatalapú tervezését,
+- d) fejlesztési és beruházásai feladatainak meghatározását,
+- e) minőségpolitikai nyilatkozatát.
 
 69. § A miniszter ellátja a könyvtári tevékenység és a nyilvános könyvtárak ágazati irányítását. Ennek keretében
 
@@ -503,7 +530,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (2) A nyilvános könyvtári ellátásból adódó feladatok finanszírozásához a központi költségvetés járul hozzá:
 
-- a) a nemzeti könyvtár és az országos szakkönyvtárak esetében a Magyar Köztársaság költségvetéséről szóló törvényben,
+- a) a nemzeti könyvtár és az országos szakkönyvtárak esetében a központi költségvetésről szóló törvényben,
 - b) a helyi önkormányzatok támogatása – a közművelődési és közgyűjteményi normatív hozzájárulás keretében – a helyi önkormányzatokért felelős miniszter által vezetett minisztérium költségvetési fejezetében,
 - c) a helyi önkormányzatokért felelős miniszter által vezetett minisztérium költségvetési fejezete központosított előirányzatként a helyi önkormányzatok számára a települési és a megyei (fővárosi) könyvtárak állománygyarapítási kereteinek érdekeltségnövelő támogatását tartalmazza.
 
@@ -543,7 +570,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - c) az alaptevékenységéhez kapcsolódóan közművelődési feladatokat is ellátó önálló vagy többfunkciós, közös igazgatású kulturális és sportlétesítmény,
 - d) minden olyan egyéb közművelődési szolgáltatást ellátó intézmény, amely a polgárok közösségi művelődését szolgálja, fenntartójától, működtetőjétől függetlenül.
 
-75. § Közösségi színtér, illetve közművelődési intézmény működtetője települési önkormányzat, önkormányzati társulás, valamint közművelődési megállapodás keretében egyéb szervezet (egyesület, alapítvány stb.), illetőleg magánszemély lehet.
+75. § Közösségi színtér, illetve közművelődési intézmény működtetője az állam, települési önkormányzat, önkormányzati társulás, valamint közművelődési megállapodás keretében egyéb szervezet (egyesület, alapítvány stb.), illetőleg magánszemély lehet.
 
 ### II. Fejezet — A helyi közművelődés
 
@@ -635,23 +662,23 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 ### A megyei (fővárosi) közművelődési szakmai tanácsadás és szolgáltatás
 
-84. § (1) A megyei (fővárosi) önkormányzat a megye települései (a fővárosi kerületek) önkormányzatai, közművelődési intézményei, szervezetei és közösségei részére, a közművelődési tevékenységek elősegítése és fejlesztése érdekében közművelődési szakmai tanácsadásról és szolgáltatásról gondoskodik. E feladatok ellátására megyei művelődési központot működtethet.
+84. § (1) Az állam és a fővárosi önkormányzat a megye települési (a fővárosi kerületek) önkormányzatai, nemzetiségi önkormányzatai, közművelődési intézményei, szervezetei és közösségei részére, a közművelődési tevékenységek elősegítése és fejlesztése érdekében közművelődési szakmai tanácsadásról és szolgáltatásról gondoskodik. E feladatok ellátására közművelődési intézmény működtethető.
 
-(2) A megyei (fővárosi) önkormányzat számára az e törvény szerinti közművelődési szakmai tanácsadás és szolgáltatás működési feltételeinek biztosítása kötelező feladat.
+(2) Az állam és a fővárosi önkormányzat számára az e törvény szerinti közművelődési szakmai tanácsadás és szolgáltatás működési feltételeinek biztosítása kötelező feladat.
 
-85. § A megyei (fővárosi) önkormányzat a közművelődési szakmai tanácsadás és szolgáltatás feladatkörében
+85. § Az állam és a fővárosi önkormányzat a közművelődési szakmai tanácsadás és szolgáltatás feladatkörében
 
-- a) elősegíti a területén működő települési önkormányzatok, nemzeti és etnikai kisebbségi önkormányzatok és a megye területén működő közművelődési szervezetek művelődési céljainak megvalósulását,
-- b) együttműködik a közművelődési szakmai tanácsadó és szolgáltató szervvel, az országos szakmai érdekképviseleti szervezetekkel,
+- a) elősegíti a megye közigazgatási területén működő települési önkormányzatok, nemzetiségi önkormányzatai önkormányzatok és a megye közigazgatási területén működő közművelődési szervezetek művelődési céljainak megvalósulását,
+- b) együttműködik az országos közművelődési szakmai tanácsadást és szolgáltatást biztosító szervvel, az országos szakmai érdek-képviseleti szervezetekkel,
 - c) közművelődési tevékenységgel összefüggő elemzéseket és fejlesztő programokat készít és hasznosít,
-- d) részt vesz a térség nemzetközi, országos, megyei közművelődési rendezvényeinek szervezésében, gondozza a kistérségi, megyei, regionális, országos és nemzetközi kulturális kapcsolatokat,
+- d) részt vesz a térség nemzetközi, országos, megyei, fővárosi közművelődési rendezvényeinek szervezésében, gondozza a kistérségi, megyei, regionális, országos és nemzetközi kulturális kapcsolatokat,
 - e) gyűjti és összesíti a közművelődési információkat, megyei (fővárosi) adattárat kezel,
 - f) elősegíti a megye (főváros) környezeti, művészeti, közművelődési értékeinek, sajátosságainak bemutatását,
 - g) végzi a közművelődési tevékenységek szervezőinek, vezetőinek szakmai képzését és továbbképzését.
 
-86. § A megyei (fővárosi) önkormányzat a 85. § alapján rendeletben határozza meg:
+86. § A miniszter és a fővárosi önkormányzat a 85. § alapján rendeletben határozza meg:
 
-- a) közművelődési szakmai tanácsadó és szolgáltató feladatait, intézményi szervezeti kereteit, formáit, költségvetési támogatását,
+- a) a megyei, illetve a fővárosi közművelődési szakmai tanácsadó és szolgáltató feladatait, intézményi szervezeti kereteit, formáit, költségvetési támogatását,
 - b) a szakmai tanácsadás és a szolgáltatások díjköteles és díjmentességi körét.
 
 ### Az országos közművelődési szakmai tanácsadásés szolgáltatás
@@ -666,7 +693,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - b) kiadja a közművelődési feladatellátás biztosításához szükséges szakmai irányelveket, állásfoglalásokat,
 - c) kiadja a közép- és felsőfokú szakmai képzés, minősített szakmai továbbképzés követelményeit,
 - d) rendeletben határozza meg az egyes közművelődési munkakörök betöltéséhez szükséges képesítési feltételeket,
-- e) véleményezési jogot gyakorol a helyi önkormányzatok közművelődési intézményeinek létesítése, átszervezése, szüneteltetése, megszüntetése esetén,
+- e) véleményezési jogot gyakorol a települési önkormányzatok közművelődési intézményeinek létesítése, átszervezése, szüneteltetése, megszüntetése esetén,
 - f)
 - g) meghatározza a közművelődési statisztikai adatszolgáltatás tartalmát és rendjét,
 - h) felelősségi körében gondoskodik a felügyelete alatt működő, a közművelődést szolgáló központi költségvetési intézmény fenntartásáról, irányításáról,
@@ -676,7 +703,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 89. §
 
-90. § A települési és megyei (fővárosi) önkormányzatok a közművelődési feladataik ellátásához a költségvetési törvény szerint normatív állami hozzájárulásban részesülnek.
+90. § A fővárosi és a települési önkormányzatok a közművelődési feladataik ellátásához a költségvetési törvény szerint normatív állami hozzájárulásban részesülnek.
 
 91. § (1) A miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani
 
@@ -691,7 +718,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 92. § (1) A közművelődési és közgyűjteményi szakterületek feladatellátásához az állami, önkormányzati felelősségvállalás közérdekű jellegéből fakadóan e törvény és az Ltv. által előírt kötelezettségek teljesítéséhez a központi költségvetés hozzájárul.
 
-(2) A minisztérium költségvetési fejezetén belül támogatást kell előirányozni az e törvényben és Ltv.-ben meghatározott közvetlen állami feladatok ellátására, a közművelődési és a közgyűjteményi feladatfinanszírozásra, a közgyűjtemények és a közművelődési intézmények telematikai, információs feladatainak ellátására, a 94. § (4) bekezdésében meghatározott képzés támogatására, amelyek mértékét az éves költségvetési törvény határozza meg.
+(2) A minisztérium költségvetési fejezetén belül támogatást kell előirányozni az e törvényben és Ltv.-ben meghatározott közvetlen állami feladatok ellátására, a közművelődési és a közgyűjteményi feladatfinanszírozásra, a közgyűjtemények és a közművelődési intézmények telematikai, információs feladatainak ellátására, amelyek mértékét az éves költségvetési törvény határozza meg.
 
 (3)
 
@@ -710,9 +737,9 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (3) A szakképesítés alól jogszabályban meghatározott módon felmentés adható.
 
-(4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek hétévente szervezett képzésben vesznek részt. A miniszter rendeletben szabályozza a szervezett képzésnek minősülő képzési formák körét, a képzés alóli mentesítések lehetőségét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a szervezett képzéssel összefüggő igazgatási szolgáltatási díjak körét és azok mértékét.
+(4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben és szervezett képzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek és szervezett képzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben és szervezett képzésben való részvételéhez támogatás nyújtható.
 
-(5) Az e törvény hatálya alá tartozó intézményekben teljes munkaidőben, szakmai munkakörben foglalkoztatott munkavállalót megilleti az a jog, hogy – jogszabályban meghatározottak szerint – évenként, az éves költségvetési törvényben meghatározott összegű hozzájárulást vegyen igénybe dokumentum (nyomtatott, hangzó, elektronikus) vásárlására.
+(5)
 
 (6) Az e törvény hatálya alá tartozó intézményekben, szakmai munkakörökben foglalkoztatott, felsőfokú végzettségű munkavállalót kötelező bérpótlék illeti meg, ha tudományos, illetve kutatói munkakörben foglalkoztatják, továbbá ha tudományos fokozattal rendelkezik. Ennek mértéke a pótlékalap 50%-a.
 
@@ -792,11 +819,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (4)–(7)
 
-99. § (1) A 94. § (4)–(5) bekezdése 2011. január 1-jétől 2011. december 31-ig nem alkalmazható.
-
-(2) A 94. § (4) bekezdésében meghatározott időtartamba nem számít bele az az időtartam, amely alatt a rendelkezés e törvény alapján nem alkalmazható.
-
-(3) E § (1) bekezdése 2012. január 1-jén hatályát veszti.
+99. §
 
 ### Felhatalmazások
 
@@ -827,11 +850,11 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - f) a muzeális intézmények nyilvántartási szabályzatát,
 - g) a muzeális intézmények tevékenységével összefüggő szakmai követelményeket,
 - h)
-- i) a muzeális intézmények szakmai normatíváit, a továbbképzés rendszerét és követelményeit,
+- i) a muzeális intézmények szakmai normatíváit, a továbbképzés és a szervezett képzés rendszerét és követelményeit,
 - j) a kulturális örökség közgyűjteményekben őrzött javai sokszorosításának, másolásának, adatrögzítésének és adatfelhasználásának jogát,
 - k)
 - l) a muzeális intézményekre, a könyvtárakra és a közművelődési intézményekre vonatkozó szakfelügyelet rendjét,
-- m) a különböző típusú könyvtárak működését, szakmai követelményeit és normatíváit, a továbbképzés rendszerét,
+- m) a különböző típusú könyvtárak működését, szakmai követelményeit és normatíváit, a továbbképzés és a szervezett képzés rendszerét,
 - n)
 - o) a könyvtárak szervezeti és működési szabályzatának kötelező tartalmát,
 - p) a könyvtári dokumentumellátást,
@@ -841,16 +864,19 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - t) az összevont önkormányzati intézmények működését,
 - u) az önkormányzatok érdekeltségnövelő támogatását,
 - v) a közművelődési és közgyűjteményi feladatfinanszírozás és a közművelődési és közgyűjteményi telematikai feladatfinanszírozás minisztérium fejezeti kezelésű címe felhasználását,
-- w) a közép- és felsőfokú közművelődési továbbképzés és a minősített szakmai továbbképzés rendszerét és követelményeit,
+- w) a közép- és felsőfokú közművelődési továbbképzés, a minősített szakmai továbbképzés és a szervezett képzés rendszerét és követelményeit,
 - x) az egyes közművelődési munkakörök betöltéséhez szükséges képesítési feltételeket, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat,
 - y) a muzeális intézményekben foglalkoztatottak munkaköreinek betöltéséhez szükséges képesítési feltételeket, illetőleg az e feltételek alóli felmentésre vonatkozó szabályokat,
-- z) a továbbképzéssel összefüggő igazgatási szolgáltatási díjak körét és mértékét.
+- z)
 
 (4)
 
 (5) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a könyvtári dokumentumok védelmét és nyilvántartását.
 
-(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben szabályozza a szakmai továbbképzési programokkal összefüggő és a népi iparművészeti alkotások és a „Népi Iparművész” minősítésért fizetendő igazgatási szolgáltatási díjak körét, mértékét, befizetésének szabályait, a befolyt összeg kezelését, nyilvántartását, elszámolását, felhasználását.
+(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza
+
+- a) a szakmai továbbképzési és szervezett képzési programokkal összefüggő és
+- b) a népi iparművészeti alkotások és a Népi Iparművész minősítésért fizetendő igazgatási szolgáltatási díjak körét, mértékét, befizetésének szabályait, a befolyt összeg kezelését, nyilvántartását, elszámolását, felhasználását.
 
 101. §
 
@@ -904,7 +930,7 @@ m) Könyvtárközi dokumentumellátás:
 
 n) Könyvtárközi kölcsönzés: valamely dokumentum szolgáltatása egyik könyvtárból a másikba, beleértve az eredeti dokumentum kölcsönzését, a másolatok szolgáltatását, valamint a könyvtárközi dokumentumszolgáltatásra vonatkozó kérések közvetítését is.
 
-o) Közgyűjtemény: az állam, a helyi önkormányzat, valamint az országos kisebbségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, illetve hangarchívumok.
+o) Közgyűjtemény: az állam, a helyi önkormányzat, valamint az országos nemzetiségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, illetve hangarchívumok.
 
 p) Közművelődési intézmény: a lakosság közösségi közművelődési tevékenységéhez erre a célra alapított, fenntartott, működtetett, megfelelő szakmai, személyi, infrastrukturális feltételekkel és alapító okirattal rendelkező költségvetési szerv vagy egyéb fenntartású intézmény.
 
@@ -929,34 +955,6 @@ x) Nyilvános könyvtári ellátás: a nyilvános könyvtárak által nyújtott 
 zs)
 
 ### 2. számú melléklet az 1997. évi CXL. törvényhez
-
-Az országos múzeumok és irányító szerveik felsorolása
-
-Budapesti Történeti Múzeum – Budapest Főváros Önkormányzata
-
-Hadtörténeti Múzeum – honvédelemért felelős miniszter
-
-Iparművészeti Múzeum – kultúráért felelős miniszter
-
-Magyar Műszaki és Közlekedési Múzeum – kultúráért felelős miniszter
-
-Magyar Nemzeti Galéria – kultúráért felelős miniszter
-
-Petőfi Irodalmi Múzeum – kultúráért felelős miniszter
-
-Magyar Nemzeti Múzeum – kultúráért felelős miniszter
-
-Magyar Természettudományi Múzeum – kultúráért felelős miniszter
-
-Mezőgazdasági Múzeum – agrárpolitikáért felelős miniszter
-
-Néprajzi Múzeum – kultúráért felelős miniszter
-
-Semmelweis Orvostörténeti Múzeum, Könyvtár és Levéltár – kultúráért felelős miniszter
-
-Szabadtéri Néprajzi Múzeum – kultúráért felelős miniszter
-
-Szépművészeti Múzeum – kultúráért felelős miniszter
 
 ### 3. számú melléklet az 1997. évi CXL. törvényhez
 

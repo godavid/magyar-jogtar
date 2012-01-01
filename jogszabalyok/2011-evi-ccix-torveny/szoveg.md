@@ -399,68 +399,115 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 89. § (1)–(2)
 
-(3) Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény 33. § (1) bekezdésének az országgyűlési képviselők javadalmazásáról szóló 1990. évi LVI. törvény 10/A. §-át megállapító rendelkezése a „tiszteletdíjának” szövegrész helyett a „pótdíjának” szöveggel lép hatályba.
+(3)
 
-90. § (1)–(2)
+90. § (1) Az egészségügyről szóló 1997. évi CLIV törvény XIV. Fejezete helyébe a következő rendelkezés lép:
 
-(3) Nem lép hatályba
+„XIV. FEJEZETKATASZTRÓFA-EGÉSZSÉGÜGYI ELLÁTÁS
 
-- a) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 154. § (1) bekezdése, 154. § (3) bekezdésében az „a 230. § (4) bekezdésének a) pontjában, a 231. § (2) bekezdésében, a 232. § (1) bekezdésében” szövegrész, 154. § (4)–(6) bekezdése,
-- b) az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvény 58. §-a.
+228. § (1) Egészségügyi válsághelyzet idején a betegek ellátása a katasztrófa-egészségügyi ellátás keretében történik.
 
-(4)
+(2) E törvény alkalmazásában egészségügyi válsághelyzetnek minősül
 
-91. § A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 2. § (3) bekezdése a következő c) ponttal egészül ki:
+a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét vagy az egészségügyi szolgáltatók működését veszélyezteti vagy károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, függetlenül attól, hogy erre különleges jogrend idején vagy azon kívül kerül sor,
 
-[(3) Az (1) bekezdés a) pontjában foglaltaktól eltérően dohányzóhely kijelölése nélkül is lehet dohányozni]
+b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.
 
-„c) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 1. § (3) bekezdés c) pontja és 27–28. §-ai szerinti játékkaszinóban”
+(3) Különleges jogrend bevezetésekor a katasztrófa-egészségügyi ellátásra vonatkozó rendelkezéseket kell alkalmazni, azonban ez esetben nem szükséges az egészségügyi válsághelyzet kihirdetése.
 
-92. § A befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény 185. § (3) bekezdése a következő szöveggel lép hatályba:
+(4) Különleges jogrenden kívül valamely eseményt
 
-„(3) A Különadó tv. 4/A. §-a a következő (21)–(29) bekezdéssel egészül ki:
+a) – ha az egy megye területét érinti – a megyei vagy fővárosi tisztifőorvos javaslatára az egészségügyi védelmi bizottság,
 
-„(21) A fogyasztóval kötött, jelzáloggal fedezett deviza alapú kölcsönszerződésnek a pénzügyi intézmény és a fogyasztó által megkötött megállapodás révén forint alapú kölcsönszerződéssé történő módosítása (forintra történő átváltása) miatt, továbbá az így fennálló követelése (ideértve a követeléshez kapcsolódó bevétele alapján az aktív időbeli elhatárolások között kimutatott összeget is) részleges elengedése következtében a pénzügyi intézmény által a 2012-ben kezdődő üzleti éve adózás előtti eredménye terhére elszámolt ráfordítások összegének (a számított veszteségnek) 30 százaléka a pénzügyi intézmény által 2012-re fizetendő különadó megállapításánál a (6) bekezdés szerint kiszámított különadót adójóváírás címén csökkenti, feltéve, hogy
+b) – ha az több megye vagy az ország teljes területét érinti – az országos tisztifőorvos javaslatára a Kormány
 
-a) a kölcsönszerződés megkötésekor a fedezetül szolgáló (a kölcsönszerződés alapján jelzáloggal megterhelt) ingatlan(ok együttes) értéke nem haladta meg a 20 millió forintot,
+minősítheti egészségügyi válsághelyzetnek.
 
-b) a követelésből legalább 78 ezer forint összegű esedékessé vált rész tekintetében az adós késedelme 2011. szeptember 30-án már meghaladta a kilencven napot,
+229. § (1) Egészségügyi válsághelyzet idején az e törvényben meghatározott betegjogok csak akkor és kizárólag olyan mértékben gyakorolhatók, amikor és amennyiben nem veszélyeztetik az egészségügyi válsághelyzet felszámolásának eredményességét. A beteg emberi méltósághoz való joga azonban ebben az esetben sem korlátozható.
 
-c) a kölcsönszerződés forintra történő átváltása valamint a követelés részletes elengedése legkésőbb 2012. május 15-én hatályossá válik,
+(2) Egészségügyi válsághelyzet idején az egészségügyi ellátórendszerre, az egészségügyi szolgáltatás szakmai követelményeire, valamint az egészségügyi dolgozók jogaira és kötelezettségeire előírt rendelkezéseket az e fejezetben, továbbá az egészségügyi válsághelyzet idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
-d) a forintra történő átváltásra a pénzügyi intézmény és a fogyasztó a Magyar Nemzeti Bank által a 2012. március 15-étől 2012. április 15-éig terjedő időszakra vonatkozóan közzétett hivatalos devizaárfolyamok átlagának megfelelően történik, ha a kölcsönszerződés forintra történő átváltása 2012. március 14-ét követően válik hatályossá,
+(3) Kormányrendeletben meghatározottak szerint megyei szintű egészségügyi válsághelyzet idején az egészségügyi védelmi bizottság, országos szintű egészségügyi válsághelyzet esetén a miniszter jogosult – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozót az ország más helységébe egészségügyi tevékenység végzésére kirendelni.
 
-e) a követelés részleges elengedése – legkorábban a kölcsönszerződés forintra történő átváltásának napján – legalább a követelésnek a forintra történő átváltása szerinti árfolyamnak megfelelő, az értékvesztés figyelembe vétele nélkül megállapított könyv szerinti (nyilvántartás szerinti) értéke 25 százalékáig terjedő mértékben megtörténik.
+(4) A Kormány 228. § (4) bekezdés b) pontja szerinti döntésében határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
 
-(22) Ha a pénzügyi intézményt a (21) bekezdés rendelkezése szerint megillető adójóváírások összege meghaladja a 2012-re fizetendő különadója megállapításánál a (6) bekezdés szerint kiszámított különadót, különbözetüket a 2012-ben a visszaigénylésre jogosult társaság érvényesítheti (vonhatja le) a 2012-re fizetendő különadója megállapításánál. Ha a különbözetet egynél több visszaigénylésre jogosult társaság érvényesíti fizetendő különadója megállapításánál, az egyes visszaigénylésre jogosult társaságokat e jogcímen külön-külön megillető adójóváírások összege nem haladhatja meg a különbözetet. Az e rendelkezések alapján a visszaigénylésre jogosult társaság által érvényesített (levont) összeg nem haladhatja meg a (6) bekezdés szerint kiszámított különadójából az ugyanezt a visszaigénylésre jogosult társaságot a (21) bekezdés rendelkezései szerint megillető adójóváírás összegét meghaladó részt.
+230. § (1) A katasztrófa-egészségügyi ellátás biztosítása és finanszírozása állami feladat.
 
-(23) A pénzügyi intézményt a (21) bekezdésben, a visszaigénylésre jogosult társaságot a (22) bekezdésben foglaltak alapján megillető adójóváírások összege nem haladhatja meg 2012-re fizetendő különadója megállapításánál a (6) bekezdés szerint kiszámított különadót.
+(2) A katasztrófa-egészségügyi ellátás biztosításának állami kötelezettsége magába foglalja az erre történő felkészülési tevékenység, valamint a tényleges működés megszervezését és lebonyolítását.
 
-(24) A (21)–(23) bekezdés szerint meghatározott adó-visszatérítés teljesítését a pénzügyi intézmény vagy a visszaigénylésre jogosult társaság a 2012-re vonatkozó különadó-bevallása módosítása révén, az igény (a módosítást tartalmazó különadó-bevallás) benyújtásának napjától, de legkorábban 2012. május 31-étől jogosult az állami adóhatóságnál igényelni.
+(3) A katasztrófa-egészségügyi ellátásra történő felkészülési tevékenység kiterjed
 
-(25) A (21)–(24) bekezdésben foglaltak alkalmazásának feltétele, hogy a pénzügyi intézmény a (21) bekezdés szerinti számított veszteségét a számvitelről szóló törvény és a felhatalmazása alapján kiadott jogszabály rendelkezéseinek megfelelően vezetett nyilvántartásai alapján megállapítja, valamint cégneve és adószáma feltüntetésével írásban rögzíti.
+a) a tervezési feladatok ellátására,
 
-(26) A (22) bekezdésben foglaltak alkalmazásának – a (25) bekezdésben foglaltak mellett – további feltétele, hogy a pénzügyi intézmény, valamint a visszaigénylésre jogosult társaságok valamennyiük cégneve és adószáma feltüntetésével írásban közösen rögzítik:
+b) az irányítás és vezetés rendjének meghatározására,
 
-a) az egyedi különadó-alapjukra a (6) bekezdés szerint kiszámított különadókat és ezek összegét;
+c) az ágazati és területi együttműködés rendjének meghatározására,
 
-b) egyedi számított veszteségeiket és ezek összegét;
+d) a jogi és igazgatási szabályozás kidolgozására,
 
-c) egyedi számított veszteségeik 30 százalékát és ezek összegét;
+e) az egészségügyi készletek tartalékolására,
 
-d) az egyes pénzügyi intézményt, valamint a visszaigénylésre jogosult társaságokat a (21)–(23) bekezdés rendelkezéseinek figyelembe vételével egyedileg megillető adójóváírásokat és ezek összegét.
+f) a speciális képzési feladatok ellátására, és
 
-(27) A (25)–(26) bekezdésben meghatározott iratokat az adózó az általa 2012-re fizetendő különadó bevallásának, illetőleg (függetlenül attól, hogy továbbra is egymás kapcsolt vállalkozásainak minősülnek-e) az érintett adózók a bármelyikük által 2012-re fizetendő különadó bevallásának önellenőrzése vagy utólagos ellenőrzése alapján, az önellenőrzés, illetőleg az utólagos ellenőrzés megállapítását figyelembe véve írásban módosíthatják. Ha az iratok módosítása érinti az adózót, illetőleg bármely adózót a (21)–(23) bekezdés szerint megillető adójóváírás összegét, az adó megállapításához való jog elévüléséig az érintett adózó adóbevallását a változásnak megfelelő önellenőrzés révén ismételten módosíthatja, vagy – ha önellenőrzésre már nem jogosult – ismételt ellenőrzés megkezdése iránti kérelem előterjesztésével kezdeményezheti fizetendő adójának módosítását. A (25)–(26) bekezdésben meghatározott iratokat, valamint azok módosítását az adózó, illetőleg valamennyi érintett adózó az adó megállapításához való jog elévüléséig köteles megőrizni.
+g) a katasztrófa-egészségügyi ellátási gyakorlatok végrehajtására.
 
-(28) Az állami adóhatóság az adóbevallás módosításának benyújtására olyan adóbevallási nyomtatványt is rendszeresíthet, amelyben az adózó a nyomtatvány rendszeresítésének napjától kezdve köteles a (25)–(26) bekezdésben meghatározott adatokat vagy azok egy részét feltüntetni.
+(4) A katasztrófa-egészségügyi ellátás tényleges működése kiterjed
 
-(29) A (24) bekezdésben meghatározott adóbevallás-módosításra az adózás rendjéről szóló törvénynek az önellenőrzésre irányadó rendelkezéseit a (21)–(28) bekezdésben foglalt eltérések figyelembe vételével kell alkalmazni.”
+a) a kizárólag az egészségügyi válsághelyzet idején hatályos jogszabályok bevezetésére,
 
-28. Hatályon kívül helyező rendelkezések”
+b) az egészségügyi ellátó rendszer szervezetének és működésének szükséges mértékű átalakítására,
 
-93. § (1) Hatályát veszti az Ártv. mellékletének „I. Legmagasabb ár” pont „A) Termékek” alpontjában foglalt táblázat 1441–1–2 (ITJ) termékszámú sora.
+c) az egészségügyi válsághelyzet felszámolásához szükséges irányítási és vezetési rend bevezetésére,
 
-(2) Hatályát veszti az Ártv. mellékletének „I. Legmagasabb ár” pont „B) Szolgáltatások” alpontjában foglalt táblázat 05511 (SZTJ) szolgáltatásszámú és „Az önkormányzati tulajdonú víziközműből szolgáltatott ivóvíz díja” megnevezésű sora, 18111–1–2 (SZTJ) szolgáltatásszámú és „Az önkormányzati tulajdonú víziközmű által biztosított szennyvízelvezetés, szennyvíztisztítás és -kezelés díja” megnevezésű sora, 05511 (SZTJ) szolgáltatásszámú és „Az állami tulajdonú víziközműből szolgáltatott ivóvíz díja” megnevezésű sora, 18111–1–2 (SZTJ) szolgáltatásszámú és „Az állami tulajdonú víziközmű által biztosított szennyvízelvezetés, szennyvíztisztítás és -kezelés díja” megnevezésű sora.
+d) a betegek egészségügyi ellátására,
+
+e) időszakosan működő gyógyintézetek működtetésére,
+
+f) pótlólagos kapacitások és készletek bevonására,
+
+g) gyógyintézet időszakos működtetésére, valamint a gyógyintézet működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére.
+
+(5) A katasztrófa-egészségügyi ellátásban részt vevő egészségügyi szolgáltatóknak az egészségbiztosítás által fedezett összegen felül felmerülő költségeit a központi költségvetés téríti meg.
+
+231. § (1) A katasztrófa-egészségügyi ellátáshoz szükséges, az egészségügyi szolgáltatók, valamint az együttműködő szervezetek készleteit meghaladó eszközöket és anyagokat az Állami Egészségügyi Tartalékból kell biztosítani.
+
+(2) Az Állami Egészségügyi Tartalék egészségügyi válsághelyzet idején való kimerülése esetén a szükséges mértékig gondoskodni kell a készletek pótlólagos feltöltéséről. Ez esetben az eszközök és anyagok beszerzése nem tartozik a közbeszerzésekre vonatkozó rendelkezések hatálya alá.
+
+232. § (1) A miniszter köteles gondoskodni arról, hogy az adott egészségügyi válsághelyzet idején hatályba léptethető egészségügyi jogszabályok kihirdetésre alkalmas állapotban rendelkezésre álljanak.
+
+(2) A miniszter által kijelölt egészségügyi szolgáltatók a felkészülés keretében katasztrófatervet kötelesek készíteni. A katasztrófa tervek tartalmi követelményeit a miniszter rendeletben határozza meg.
+
+232/A. § A 228. § (2) bekezdés b) pontja szerinti esetben a 229. § (1) és (2) bekezdése, a 230. § (1) bekezdése, (4) bekezdés a) pontja, a 231. § és a 232. § nem alkalmazható.
+
+232/B. § Az egészségügyi válsághelyzet kezeléséhez szükséges feladatok összehangolt koordinálását és irányítását – kormányrendeletben meghatározottak szerint –
+
+a) a 228. § (4) bekezdés a) pontja szerinti egészségügyi válsághelyzet esetén az egészségügyi védelmi bizottság,
+
+b) a 228. § (4) bekezdés b) pontja szerinti egészségügyi válsághelyzet esetén a Kormány és a miniszter
+
+látja el.”
+
+(2) Az egészségügyről szóló 1997. évi CLIV törvény 247. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„e) a katasztrófa-egészségügyi ellátásra vonatkozó részletes szabályokat, a Kormány 232/B. § szerinti feladat- és hatásköreit, az egészségügyi védelmi bizottság összetételére, feladat- és hatáskörére, illetékességére vonatkozó szabályokat,”
+
+(rendeletben megállapítsa.)
+
+(3)
+
+(4) A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény Oktatás, képzés, tájékoztatás alcíme a következő 31. §-sal egészül ki:
+
+„31. § A 4. § (1) bekezdés b) pontja szerinti hatóság kérelemre igazolást ad ki a Magyarországon köztermesztés céljára engedélyezett géntechnológiával módosított növényfajtákról, illetve ezek hiányában ennek tényéről. E hatósági igazolás nem alkalmas egy adott szaporítóanyagnak, takarmánynak vagy élelmiszernek szánt árutétel genetikailag módosított fajtától való mentességének igazolására. Ennek tényét a hatósági igazolás szövegszerűen is tartalmazza.”
+
+#### 91. §
+
+#### 92. §
+
+#### 28. Hatályon kívül helyező rendelkezések
+
+93. § (1)–(2)
 
 (3) E törvény 58. §-ának hatálybalépésével egyidejűleg hatályát veszti a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Kormány rendelet 9. § (3) bekezdése.
 

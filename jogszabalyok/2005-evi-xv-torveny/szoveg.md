@@ -6,19 +6,19 @@ az üvegházhatású gázok kibocsátási egységeinek kereskedelméről[a végr
 
 Az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló 2005. évi XV. törvény (a továbbiakban: Üht.) 20. §-a (5) bekezdésének a) és c) pontjában és a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 36. §-ban kapott felhatalmazás alapján a Kormány a következőket rendeli el:
 
-### A törvény célja
+### E törvény célja
 
-Üht. 1. § A törvény célja, hogy az Európai Közösség kibocsátási egységkereskedelmi rendszerében, valamint más, nemzetközi együttműködéssel megvalósuló projekttevékenységekben való részvétel feltételeinek megteremtésével a Magyar Köztársaság csökkentse az emberi tevékenység hatására bekövetkező éghajlatváltozás kockázatát.
+Üht. 1. § E törvény célja, hogy az Európai Közösség kibocsátási egységkereskedelmi rendszerében, valamint más, nemzetközi együttműködéssel megvalósuló projekttevékenységekben való részvétel feltételeinek megteremtésével Magyarország csökkentse az emberi tevékenység hatására bekövetkező éghajlatváltozás kockázatát.
 
-### A törvény hatálya
+### E törvény hatálya
 
-Üht. 2. § (1) A törvény hatálya
+Üht. 2. § (1) E törvény hatálya
 
 – a (2) bekezdésben megjelölt kivételekkel – az 1. számú mellékletben meghatározott üvegházhatású gázkibocsátással járó tevékenységekre, az 1. számú melléklet XI. pontja szerinti tevékenység esetében csak olyan légijármű üzemben tartóra, amely tekintetében a Magyar Köztársaság az adminisztrációért felelős tagállam,
 
 - b) a kibocsátási egységek és a légiközlekedési kibocsátási egységek (a továbbiakban együtt: ÜHG-egység) kereskedelmére terjed ki.
 
-(2) Nem terjed ki a törvény hatálya a kizárólag kutatásra, fejlesztésre, valamint új termékek és eljárások kipróbálására irányuló tevékenységekre.
+(2) Nem terjed ki e törvény hatálya a kizárólag kutatásra, fejlesztésre, valamint új termékek és eljárások kipróbálására irányuló tevékenységekre.
 
 ### Alapfogalmak
 
@@ -294,6 +294,10 @@ Vhr. 8. § (1) A Kiosztási Lista tervezetét a miniszter – a gazdaságpolitik
 
 (2) A fennmaradó kibocsátási egységek felhasználásáról a kormány külön jogszabály szerint rendelkezik.
 
+(3) A harmadik kereskedési időszakban felhasználható kibocsátási egységek értékesítéséből származó bevétel felét hazai, illetve harmadik országokban megvalósuló, üvegházhatású gázkibocsátás csökkentésével kapcsolatos intézkedésekre, valamint hazai és harmadik országokban bekövetkező éghajlatváltozás kezelésére kell felhasználni.
+
+(4) A (3) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával és az Éghajlatváltozási Programmal összhangban történő felhasználásáról a miniszter gondoskodik.
+
 Üht. 9. § (1) A Kiosztási Tervben szereplő, kibocsátási engedéllyel rendelkező létesítmény üzemeltetője – a Kiosztási Lista alapján – kibocsátási egységekre jogosult e törvényben és végrehajtási rendeleteiben foglalt feltételek szerint.
 
 (2) Az új belépő a Kiosztási Tervnek megfelelően kibocsátási egységekre jogosult.
@@ -561,7 +565,7 @@ vonatkozó adatok környezeti információnak minősülnek.
 
 (6) Amennyiben a légijármű üzemben tartó nem tesz eleget az e törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben előírt követelményeknek, és az e törvényben meghatározott egyéb jogkövetkezmény alkalmazása sem vezet eredményre, a miniszter kérelemmel fordul a Bizottsághoz, hogy az érintett légijármű üzemben tartóra vonatkozóan működési tilalmat állapítson meg.
 
-(7) Az (1) és (2) bekezdés szerinti bírság a környezetvédelmi hatóság bevétele.
+(7)
 
 ### Jogkövetkezmények
 
@@ -610,7 +614,7 @@ Vhr. 20. § (1) A miniszter az üvegházhatást okozó gázok kibocsátási egys
 
 (3) A (2) bekezdés szerinti jelentéstételhez a miniszter a 2/B. §-ban meghatározott, ellenőrzött adatok alapján a 2011/278/EU határozatban foglaltaknak megfelelően összeállítja a Nemzeti Végrehajtási Intézkedést, amit jóváhagyás céljából megküld az Európai Bizottságnak.
 
-[Üht. 18. §] (2) A 14. § (1) bekezdésben megjelölt projekttevékenységeknek a Magyar Köztársaság területén történő megvalósításával kapcsolatos nemzetközi jelentéstételi kötelezettség teljesítése a miniszter feladata.
+[Üht. 18. §] (2) A 14. § (1) bekezdésben megjelölt projekttevékenységeknek Magyarország területén történő megvalósításával kapcsolatos nemzetközi jelentéstételi kötelezettség teljesítése a miniszter feladata.
 
 ### Felügyeleti díj
 
@@ -741,7 +745,7 @@ A Kiosztási Terv elkészítésének alapelvei
 
 1. Az adott kereskedési időszakra kiosztható kibocsátási egységek teljes mennyiségének összhangban kell lennie:
 
-a) a Magyar Köztársaságnak a Kiotói Jegyzőkönyv szerinti kibocsátáscsökkentési kötelezettségével, figyelembe véve egyfelől azt, hogy a nem e törvény hatálya alá tartozó forrásokból származó kibocsátásokhoz képest a kibocsátási egységek a teljes kibocsátás mekkora hányadát képviselik, másfelől pedig a nemzeti energiapolitikát;
+a) Magyarországnak a Kiotói Jegyzőkönyv szerinti kibocsátáscsökkentési kötelezettségével, figyelembe véve egyfelől azt, hogy a nem e törvény hatálya alá tartozó forrásokból származó kibocsátásokhoz képest a kibocsátási egységek a teljes kibocsátás mekkora hányadát képviselik, másfelől pedig a nemzeti energiapolitikát;
 
 b) a nemzeti éghajlat-változási programmal.
 

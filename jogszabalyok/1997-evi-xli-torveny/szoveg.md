@@ -12,7 +12,7 @@ A halászatról és a horgászatról szóló 1997. évi XLI. törvény (a továb
 
 ### A törvény tárgya és hatálya
 
-Hhtv. 1. § (1) E törvény a halászati jog gyakorlásának feltételeit, a Magyar Köztársaság területén levő vizeken és halászatra alkalmas vízilétesítményeken folyó, a halgazdálkodással, a hal és élőhelyének védelmével összefüggő tevékenységeket, az ezeket végző személyek jogait és kötelezettségeit, valamint a halászati igazgatással összefüggő feladat- és hatásköröket szabályozza.
+Hhtv. 1. § (1) E törvény a halászati jog gyakorlásának feltételeit, Magyarország területén levő vizeken és halászatra alkalmas vízilétesítményeken folyó, a halgazdálkodással, a hal és élőhelyének védelmével összefüggő tevékenységeket, az ezeket végző személyek jogait és kötelezettségeit, valamint a halászati igazgatással összefüggő feladat- és hatásköröket szabályozza.
 
 (2) E törvény hatálya a horgászat, a tiltott eszközök és módok, a halászati őrzés, a halállományt, illetőleg táplálékforrását veszélyeztető vad gyérítése, a külföldről származó egyedek telepítése vonatkozásában a haltenyésztési létesítményre (halastó) is kiterjed.
 
@@ -788,7 +788,7 @@ Hhtv. 51. § (1) A halgazdálkodási, illetve halvédelmi bírság mértékét a
 
 (2) A halgazdálkodási, illetve halvédelmi bírságot az azt kiszabó határozat jogerőre emelkedésétől számított harminc napon belül kell megfizetni a miniszter által külön jogszabályban meghatározott számlára.
 
-Hhtv. 51/A. § A határidőre meg nem fizetett halgazdálkodási bírság és halvédelmi bírság adók módjára behajtandó köztartozás.
+Hhtv. 51/A. §
 
 Vhr. 31. § A halgazdálkodási, illetve halvédelmi bírság összegét – a halászati hatóság határozatának jogerőre emelkedésétől számított harminc napon belül – a halászati hatóság határozatához mellékelt készpénz-átutalási megbízáson kell megfizetni az MgSzH 10032000-00289782-00000000 számú számlájára. A kiadott készpénz-átutalási megbízáson a halászati hatóság feltünteti a fizetendő bírság jogcímét és összegét, valamint a határozat számát.
 
@@ -814,7 +814,7 @@ kapcsolatos személyi és dologi költségek részbeni vagy teljes fedezésére 
 - a) az államot megillető halászati jog haszonbérbe adásából,
 - b) az állami halászjegy és az állami horgászjegy kiadásáért fizetett díjának megfizetéséből,
 - c) a halászvizsga és a horgászvizsga díjának megfizetéséből,
-- d) a halgazdálkodási bírság és a halvédelmi bírság befizetéséből,
+- d)
 - e) a halászat céljainak megvalósítását elősegítő egyéb önkéntes befizetésekből,
 - f) jogszabály által előírt egyéb befizetésekből származó bevételek.
 
@@ -879,7 +879,8 @@ Hhtv. 56. § (1) Felhatalmazást kap a miniszter arra, hogy:
 - j) a pénzügyi források befizetésének, felhasználásának feltételeit és módját,
 - k) a tudományos kutatási célú halászati engedély kiadásának részletes szabályait,
 - l) az idegen és nem honos halfajok telepítésének szabályait,
-- m) a halászati hatóság által vezetett nyilvántartások tartalmával és vezetésével kapcsolatos részletes szabályokat
+- m) a halászati hatóság által vezetett nyilvántartások tartalmával és vezetésével kapcsolatos részletes szabályokat,
+- n) a halgazdálkodási, illetve halvédelmi bírság megfizetésére vonatkozó szabályokat
 
 rendeletben határozza meg.
 

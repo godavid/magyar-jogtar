@@ -14,7 +14,7 @@ a társadalmi szervezetek által használt állami tulajdonú ingatlanok jogi he
 
 3–6. §
 
-7. § (1) A tulajdonba adott ingatlant – a (2) bekezdés és a 22. § (2) bekezdése alapján tulajdonba adott ingatlanok kivételével – a szerződés megkötésétől számított 15 éven belül nem lehet elidegeníteni és megterhelni. Az elidegenítési és terhelési tilalmat az ingatlan-nyilvántartásba a MNV Zrt. javára be kell jegyezni.
+7. § (1) A tulajdonba adott ingatlant – a (2) bekezdés és a 22. § (2) bekezdése alapján tulajdonba adott ingatlan kivételével – a tulajdonjog megszerzésétől számított tizenöt éven belül nem lehet elidegeníteni és megterhelni. Az elidegenítési és terhelési tilalmat az ingatlan-nyilvántartásba az MNV Zrt. javára be kell jegyezni.
 
 (2) A MNV Zrt. hozzájárulásával az ingatlan a felújítását, korszerűsítését szolgáló hitelfelvétel érdekében megterhelhető, azonos vagy hasonló célú más ingatlan vásárlása, építése érdekében elidegeníthető, vagy más ingatlanra cserélhető. Az így szerzett újabb ingatlanra az e törvény alapján tulajdonba kapott ingatlanra vonatkozó szabályokat kell alkalmazni.
 
@@ -84,7 +84,7 @@ a társadalmi szervezetek által használt állami tulajdonú ingatlanok jogi he
 
 (2) Az 1990. március 2-a előtt a Szakszervezetek Országos Tanácsa és az ahhoz tartozó ágazati-szakmai szakszervezetek kezelésében volt állami tulajdonú ingatlanok – a Nemzeti Üdülési Alapítványhoz került ingatlanok kivételével – az e törvény, továbbá a Szit. tv. együttes alkalmazásával meghozott döntések alapján kerülnek tulajdonba.
 
-23. §
+23. § Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 7. § (1) bekezdését az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor fennálló elidegenítési és terhelési tilalom tekintetében is alkalmazni kell.
 
 ### Hatálybalépés
 

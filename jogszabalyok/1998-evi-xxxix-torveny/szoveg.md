@@ -21,7 +21,7 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 (3) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv – a fővárosi és megyei kormányhivatalok szakigazgatási szerveiként működő társadalombiztosítási igazgatási szervek kivételével – társadalombiztosítási költségvetési szervek, amelyek költségvetését a társadalombiztosítás pénzügyi alapjainak költségvetésében kell meghatározni.
 
-3. § Az Alapokhoz tartozó vagyon és a biztosítási önkormányzatok vagyona állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat a Kormány az 1. § (2) bekezdése szerinti személyek útján gyakorolja azzal, hogy egyebekben a vagyonnal való gazdálkodásra az államháztartásról szóló 1992. évi XXXVIII. törvény rendelkezései az irányadók.
+3. § Az alapokhoz tartozó vagyon állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat a Kormány az 1. § (2) bekezdés szerinti személyek útján gyakorolja azzal, hogy az alapokhoz tartozó működési vagyonnal kapcsolatos tulajdonosi joggyakorlók az alapokat kezelő szervek vezetői.
 
 4. §
 
@@ -64,7 +64,7 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 (4) A Testület tagjait az Országgyűlés elnöke kéri és menti fel. A megbízatás a felkérés elfogadásával keletkezik, és három évre szól. A tagok egy alkalommal ismételten felkérhetők.
 
-(5) A Testület tagjává olyan, büntetlen előéletű, a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választójoggal rendelkező, felsőfokú végzettségű személy kérhető fel, aki az adott testület feladatköre által érintett biztosítási ág tekintetében kiemelkedő szakismerettel rendelkezik és széles körű szakmai tapasztalatokat szerzett.
+(5) A Testület tagjává olyan, büntetlen előéletű, a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választható, felsőfokú végzettségű személy kérhető fel, aki az adott testület feladatköre által érintett biztosítási ág tekintetében kiemelkedő szakismerettel rendelkezik és széles körű szakmai tapasztalatokat szerzett.
 
 (6) Nem kérhető fel a Testület tagjává az, aki
 

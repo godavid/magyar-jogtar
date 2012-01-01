@@ -244,7 +244,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 17/E. § (1) Ha a cél-kitermelőhely engedélyese, vagy megbízásából a tevékenységet végző a tevékenységet engedély nélkül, az engedélyben foglaltaktól eltérő módon vagy szabályellenesen gyakorolja, a bányafelügyelet az engedélyest, illetve a tevékenységet végzőt bírsággal sújthatja, és kötelezi a szabályellenes állapot megszüntetésére. Amennyiben az engedélyes, illetve a tevékenységet végző tevékenységével veszélyhelyzetet idéz elő, a bányafelügyelet a tevékenység folytatását felfüggesztheti, ismételt esetben az engedélyt visszavonhatja és elrendelheti az eredeti állapot helyreállítását, vagy ha ez már nem lehetséges, a tájrendezést.
 
-(2) Az (1) bekezdés szerinti bírság összegének felső határa 10 000 000 Ft. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a kitűzött határidőre nem szünteti meg, a bírság ismételten kiszabható. Az ismételt bírság felső határa 30 000 000 Ft. A bírság összege az eljáró bányafelügyeleti hatóságot illeti meg. A bírság adók módjára behajtandó köztartozásnak minősül.
+(2) Az (1) bekezdés szerinti bírság összegének felső határa 10 000 000 Ft. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a kitűzött határidőre nem szünteti meg, a bírság ismételten kiszabható. Az ismételt bírság felső határa 30 000 000 Ft.
 
 ### IV. Fejezet — Átmeneti és záró rendelkezések
 
@@ -262,7 +262,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 - f) az építési engedély kiadása,
 - g) az út forgalomba helyezése.
 
-(4) A gyorsforgalmi utak esetében – kivéve a magántőke bevonásával megvalósított utakat – az államháztartásról szóló 1992. évi XXXVIII. törvény 22. §-a (1) bekezdésének második és harmadik mondatában, valamint (2) bekezdésében foglaltakat nem kell alkalmazni.
+(4)
 
 (5)
 

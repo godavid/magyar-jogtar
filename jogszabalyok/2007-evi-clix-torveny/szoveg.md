@@ -8,7 +8,7 @@ a viszontbiztosítókról
 
 1. § (1) Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed:
 
-- a) a Magyar Köztársaság területén a viszontbiztosítók által végzett viszontbiztosítási és azzal közvetlenül összefüggő tevékenységre, illetve a Magyar Köztársaság területén székhellyel rendelkező viszontbiztosító által e törvény felhatalmazása alapján végzett viszontbiztosítási és azzal közvetlenül összefüggő tevékenységre;
+- a) Magyarország területén a viszontbiztosítók által végzett viszontbiztosítási és azzal közvetlenül összefüggő tevékenységre, illetve a Magyarország területén székhellyel rendelkező viszontbiztosító által e törvény felhatalmazása alapján végzett viszontbiztosítási és azzal közvetlenül összefüggő tevékenységre;
 - b) a külföldi viszontbiztosító magyarországi képviselete által folytatott tevékenységre;
 - c) a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) által ellátott – e törvényben meghatározott – felügyeleti tevékenységre; valamint
 - d) azon vállalkozások – e törvényben meghatározott – kötelezettségeire, amelyekre az összevont alapú, illetőleg a kiegészítő felügyelet kiterjed.
@@ -64,7 +64,7 @@ a viszontbiztosítókról
 - 25. határon átnyúló szolgáltatás: az a szolgáltatás, amely esetében a viszontbiztosító tevékenységéhez kapcsolódó kötelezettségvállalás tagállama nem azonos azzal a tagállammal, ahol a viszontbiztosító székhelye, telephelye, főirodája található;
 - 26. jegyzett tőke, saját tőke: a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: Szmt.) foglalt meghatározások szerinti fogalmak;
 - 27. kapcsolt vállalkozás: a leányvállalat vagy az a vállalkozás, amelyben egy másik vállalkozás (részesedő vállalkozás) részesedési viszonnyal rendelkezik;
-- 28. kézbesítési megbízott: a Magyar Köztársaság területén bejegyzett ügyvéd, ügyvédi iroda vagy a kérelmező Magyar Köztársaság területén bejegyzett biztosítója, viszontbiztosítója, biztosításközvetítője vagy biztosítási szaktanácsadója, illetve az e törvény szerinti képviselete;
+- 28. kézbesítési megbízott: a Magyarország területén bejegyzett ügyvéd, ügyvédi iroda vagy a kérelmező Magyarország területén bejegyzett biztosítója, viszontbiztosítója, biztosításközvetítője vagy biztosítási szaktanácsadója, illetve az e törvény szerinti képviselete;
 - 29. kockázatnak kitett összeg: a halál esetén kifizetendő összeg, levonva belőle a fő kockázat matematikai tartalékát, illetve befektetési egységekhez kötött életbiztosítási szerződés esetén a befektetési egységekhez kötött (unitlinked) életbiztosítások tartalékát;
 - 30. közvetett tulajdon: egy vállalkozás (a továbbiakban: eredeti vállalkozás) tulajdoni hányadainak, illetve szavazatainak a vállalkozásban tulajdoni részesedéssel, illetve szavazati joggal rendelkező más vállalkozás (a továbbiakban: köztes vállalkozás) tulajdoni hányadain, illetve szavazati jogán keresztül történő – az 1. számú melléklet szerint figyelembe vett – birtoklása vagy gyakorlása;
 - 31. külföldi: a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ának 2. pontjában meghatározott fogalom;
@@ -101,14 +101,15 @@ a viszontbiztosítókról
 - 60. zárt viszontbiztosító: olyan viszontbiztosító, amelynek célja viszontbiztosítási fedezet biztosítása kizárólag azon vállalkozás vagy vállalkozások kockázatai tekintetében, amelyeknek a zárt viszontbiztosító tulajdonát képezi, vagy azon csoport vállalkozása vagy vállalkozásainak kockázatai tekintetében, amelynek a zárt viszontbiztosító a tagja;
 - 61. ÁÉKBV: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott fogalom;
 - 62. közeli hozzátartozó: a Ptk.-ban meghatározott fogalom és az élettárs.
+- 63. büntetlen előéletű: akinek e törvényben külön nevesített tevékenység végzéséhez és vezető állás betöltéséhez feltétel a büntetlen előélet, annak büntetlen előéletét a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (Btk. 233. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238. §), a hamis tanúzásra felhívás (Btk. 242. §), a mentő körülmény elhallgatása (Btk. 243. §), a bűnpártolás (Btk. 244. §), a Btk. XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (Btk. 261. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §), a bűnszervezetben részvétel (Bt. 263/C. §), a visszaélés atomenergia alkalmazásával (Btk. 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §), az önbíráskodás (Btk. 273. §), a Btk. XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a Btk. XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények tekintetében kell – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvánnyal – igazolnia.
 
 (2) Az Európai Unió, illetőleg az Európai Unió tagállama kifejezésen az Európai Gazdasági Térséget, illetőleg az Európai Gazdasági Térségről szóló megállapodásban részes államot is érteni kell.
 
 ### A viszontbiztosítási tevékenység alapfeltételei
 
-4. § (1) Viszontbiztosítási tevékenység és azzal közvetlenül összefüggő tevékenység a Magyar Köztársaság területén – a (2) bekezdésben foglaltak kivételével – a Felügyelet, illetve a székhely tagállam felügyeleti hatósága által kiadott engedéllyel végezhető.
+4. § (1) Viszontbiztosítási tevékenység és azzal közvetlenül összefüggő tevékenység Magyarország területén – a (2) bekezdésben foglaltak kivételével – a Felügyelet, illetve a székhely tagállam felügyeleti hatósága által kiadott engedéllyel végezhető.
 
-(2) Harmadik országbeli viszontbiztosító a Magyar Köztársaság területén magyarországi fióktelepen keresztül, illetve nemzetközi szerződés alapján, fióktelep közbeiktatása nélkül végezhet viszontbiztosítási tevékenységet.
+(2) Harmadik országbeli viszontbiztosító Magyarország területén magyarországi fióktelepen keresztül, illetve nemzetközi szerződés alapján, fióktelep közbeiktatása nélkül végezhet viszontbiztosítási tevékenységet.
 
 5. § (1) Viszontbiztosítási tevékenységet kizárólag biztosító és viszontbiztosító végezhet.
 
@@ -130,7 +131,7 @@ a viszontbiztosítókról
 
 ### A viszontbiztosítók
 
-7. § (1) A Magyar Köztársaság területén viszontbiztosító részvénytársaság, szövetkezet, vagy harmadik országbeli viszontbiztosító magyarországi fióktelepe formájában létesíthető.
+7. § (1) Magyarország területén viszontbiztosító részvénytársaság, szövetkezet, vagy harmadik országbeli viszontbiztosító magyarországi fióktelepe formájában létesíthető.
 
 (2) Az egyes szervezeti formákra
 
@@ -199,7 +200,7 @@ a viszontbiztosítókról
 
 ### A külföldi viszontbiztosító magyarországi képviselete
 
-20. § (1) A külföldi viszontbiztosító a Magyar Köztársaság területén tartós képviseletet (a továbbiakban: képviselet) létesíthet.
+20. § (1) A külföldi viszontbiztosító Magyarország területén tartós képviseletet (a továbbiakban: képviselet) létesíthet.
 
 (2) A képviselet által végezhető tevékenységekre, a képviselet megnevezésére, vezetőjére és bejelentési kötelezettségeire a Bit. 55–56. §-ait kell megfelelően alkalmazni.
 
@@ -332,7 +333,7 @@ a viszontbiztosítókról
 31. § (1) Harmadik országbeli viszontbiztosító fióktelepe esetén a tevékenység megkezdésére vonatkozó engedély iránti kérelemnek – a 26. §-ban és a 29. §-ban foglaltak igazolásán túl – tartalmaznia kell:
 
 - a) a harmadik országban székhellyel rendelkező vállalkozás alapító okiratát, tevékenységi engedélyének másolatát, az előző 3 év auditált mérlegét,
-- b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról, hogy a Magyar Köztársaság területén történő fióktelep-alapítás nem ütközik a székhely szerinti állam jogszabályaiba, illetve nem veszélyezteti a kérelmező viszontbiztosító működését.
+- b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról, hogy a Magyarország területén történő fióktelep-alapítás nem ütközik a székhely szerinti állam jogszabályaiba, illetve nem veszélyezteti a kérelmező viszontbiztosító működését.
 
 (2) A harmadik országbeli viszontbiztosító fióktelepe esetén a tevékenységi engedélyt az (1) bekezdésben foglalt feltételek teljesülésén túl a Felügyelet abban az esetben adja meg, ha
 
@@ -340,8 +341,8 @@ a viszontbiztosítókról
 - b) a kérelmező viszontbiztosító székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi előírásokkal,
 - c) a kérelmező viszontbiztosító rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 - d) a kérelmező viszontbiztosító nyilatkozik arról, hogy helytáll a fióktelep útján keletkezett kötelezettségeiért,
-- e) a kérelmező viszontbiztosító nyilatkozatban kötelezi magát arra, hogy a Magyar Köztársaság területén folytatott tevékenységre vonatkozó számláját magyarországi hitelintézetnél vezeti,
-- f) a kérelmező viszontbiztosító nyilatkozatban kötelezi magát arra, hogy a Magyar Köztársaság területén folytatott tevékenységére vonatkozó nyilvántartásokat a Magyar Köztársaság területén vezeti,
+- e) a kérelmező viszontbiztosító nyilatkozatban kötelezi magát arra, hogy a Magyarország területén folytatott tevékenységre vonatkozó számláját magyarországi hitelintézetnél vezeti,
+- f) a kérelmező viszontbiztosító nyilatkozatban kötelezi magát arra, hogy a Magyarország területén folytatott tevékenységére vonatkozó nyilvántartásokat a Magyarország területén vezeti,
 - g) a kérelmező viszontbiztosító a 68. §-ban foglalt minimális biztonsági tőke összegével azonos értékű vagyoni eszközökkel rendelkezik és ennek egynegyedét biztosítékként letétbe helyezi,
 - h) a kérelmező viszontbiztosító benyújtja az általa alkalmazni kívánt általános szerződési feltételeket,
 - i) a kérelmező viszontbiztosító a Felügyelet által engedélyezésre kerülő általános képviselőt jelöl ki,
@@ -349,7 +350,7 @@ a viszontbiztosítókról
 
 (3) A harmadik országban székhellyel rendelkező viszontbiztosító által létesített fióktelep általános képviselője kizárólag az a személy lehet, aki megfelel a Bit. 70. §-ának (3) bekezdésében foglalt feltételeknek.
 
-(4) A harmadik országbeli viszontbiztosító fióktelepe köteles a biztonsági tőke fedezetét képező vagyoni eszközeit a Magyar Köztársaság területén elhelyezni, a minimális szavatoló tőke további fennmaradó részét fedező eszközöket pedig jogosult bármely tagállamban elhelyezni. Az (5) bekezdésben foglaltak alapján a választott felügyeleti hatóság jogosult ellenőrizni a fióktelep szavatoló tőke követelmény teljesítését valamennyi érintett tagállamban.
+(4) A harmadik országbeli viszontbiztosító fióktelepe köteles a biztonsági tőke fedezetét képező vagyoni eszközeit Magyarország területén elhelyezni, a minimális szavatoló tőke további fennmaradó részét fedező eszközöket pedig jogosult bármely tagállamban elhelyezni. Az (5) bekezdésben foglaltak alapján a választott felügyeleti hatóság jogosult ellenőrizni a fióktelep szavatoló tőke követelmény teljesítését valamennyi érintett tagállamban.
 
 (5) Ha a harmadik országban székhellyel rendelkező viszontbiztosító több tagállamban kért vagy kapott engedélyt fióktelep létesítésére, akkor kérelmezheti, hogy a (2) bekezdés g) pontjában meghatározott letétet kizárólag az érintett tagállamok egyikében helyezze el. Ennek feltétele
 
@@ -506,9 +507,9 @@ köteles foglalkoztatni.
 
 ### Az állományátruházás
 
-50. § (1) A viszontbiztosítási állomány – az átadó és az átvevő viszontbiztosító közötti megállapodás alapján – a Felügyelet engedélyével, a viszontbiztosítási szerződések feltételeinek változatlanul hagyása mellett, részben vagy egészben átruházható a Magyar Köztársaság területén székhellyel rendelkező viszontbiztosítóra, másik tagállamban székhellyel rendelkező viszontbiztosítóra, annak fióktelepére, valamint harmadik országban székhellyel rendelkező viszontbiztosító tagállamban létesített fióktelepére. Az állományátruházáshoz nem szükséges a viszontbiztosítóval szerződéses viszonyban álló biztosítók, illetve ezek ügyfeleinek hozzájárulása. Az állományátruházással – a Felügyelet engedélyének időpontjától – a viszontbiztosítási állományt átvevő vállalkozás válik a szerződés alanyává, illetve az állományátruházással érintett személyes adatok és üzleti titkok tekintetében adatkezelővé, illetve titoktartásra kötelezetté.
+50. § (1) A viszontbiztosítási állomány – az átadó és az átvevő viszontbiztosító közötti megállapodás alapján – a Felügyelet engedélyével, a viszontbiztosítási szerződések feltételeinek változatlanul hagyása mellett, részben vagy egészben átruházható a Magyarország területén székhellyel rendelkező viszontbiztosítóra, másik tagállamban székhellyel rendelkező viszontbiztosítóra, annak fióktelepére, valamint harmadik országban székhellyel rendelkező viszontbiztosító tagállamban létesített fióktelepére. Az állományátruházáshoz nem szükséges a viszontbiztosítóval szerződéses viszonyban álló biztosítók, illetve ezek ügyfeleinek hozzájárulása. Az állományátruházással – a Felügyelet engedélyének időpontjától – a viszontbiztosítási állományt átvevő vállalkozás válik a szerződés alanyává, illetve az állományátruházással érintett személyes adatok és üzleti titkok tekintetében adatkezelővé, illetve titoktartásra kötelezetté.
 
-(2) A másik tagállamban székhellyel rendelkező viszontbiztosító Magyar Köztársaság területén lévő fióktelepének viszontbiztosítási állománya részben vagy egészben átruházható a másik tagállam felügyeleti hatóságának engedélyével.
+(2) A másik tagállamban székhellyel rendelkező viszontbiztosító Magyarország területén lévő fióktelepének viszontbiztosítási állománya részben vagy egészben átruházható a másik tagállam felügyeleti hatóságának engedélyével.
 
 51. § (1) Az állományátruházás engedélyezése iránti kérelemnek tartalmaznia kell
 
@@ -516,7 +517,7 @@ köteles foglalkoztatni.
 - b) az átruházó és az átvevő állományátadásra és -átvételre irányuló jognyilatkozatát,
 - c) az átruházandó állományhoz kapcsolódó biztosítástechnikai tartalékok és azok fedezetének megjelölését,
 - d) az állományátruházás időpontját, ellenértékét,
-- e) abban az esetben, ha az átvevő viszontbiztosító vagy biztosító székhelye a Magyar Köztársaság területén van, annak bemutatását, hogy az átvevő viszontbiztosító vagy biztosító rendelkezik a saját állományához tartozó minimális szavatoló tőkén túl az átvett állományhoz szükséges minimális szavatoló tőkével.
+- e) abban az esetben, ha az átvevő viszontbiztosító vagy biztosító székhelye a Magyarország területén van, annak bemutatását, hogy az átvevő viszontbiztosító vagy biztosító rendelkezik a saját állományához tartozó minimális szavatoló tőkén túl az átvett állományhoz szükséges minimális szavatoló tőkével.
 
 (2) Az állományátruházást engedélyező Felügyelet megkeresi az átvevő viszontbiztosító vagy biztosító felügyeleti hatóságát, kérve annak igazolását, hogy az átvevő viszontbiztosító vagy biztosító szavatoló tőkéje az állomány átvétele után is eléri a minimális szavatoló tőke szintjét.
 
@@ -535,7 +536,7 @@ köteles foglalkoztatni.
 
 (8) Tagállamból érkező állományátruházással kapcsolatos megkeresés esetén a Felügyelet 3 hónapon belül tájékoztatja a tagállam felügyeleti hatóságát arról, hogy az átruházáshoz hozzájárul-e, valamint, hogy az átvevő rendelkezik-e az állomány átvétele után is az előírt szavatoló tőkével.
 
-52. § (1) A szerződésállományt átvevő viszontbiztosító vagy biztosító az engedélyező határozat kézhezvételétől, viszontbiztosítók egyesülése esetén a cégbírósági vagy megyei (fővárosi) bírósági nyilvántartásba való bejegyzéstől számított 30 napon belül köteles az átadásról minden érintett szerződő felet írásban értesíteni a szerződéskötés nyelvén. A szerződő fél az értesítés kézhezvételétől számított 30 napon belül az átvevő viszontbiztosítóhoz intézett írásbeli nyilatkozatával a szerződését – 30 napra – felmondhatja.
+52. § (1) A szerződésállományt átvevő viszontbiztosító vagy biztosító az engedélyező határozat kézhezvételétől, viszontbiztosítók egyesülése esetén a cégbírósági vagy törvényszéki nyilvántartásba való bejegyzéstől számított 30 napon belül köteles az átadásról minden érintett szerződő felet írásban értesíteni a szerződéskötés nyelvén. A szerződő fél az értesítés kézhezvételétől számított 30 napon belül az átvevő viszontbiztosítóhoz intézett írásbeli nyilatkozatával a szerződését – 30 napra – felmondhatja.
 
 (2) Viszontbiztosítók egyesülése, beolvadása, szétválása esetén az értesítési kötelezettség és a felmondási jog szempontjából az állományátruházásra vonatkozó szabályokat kell alkalmazni.
 
@@ -602,7 +603,7 @@ a Felügyelet kikéri az a)–c) pontokban meghatározottak székhelye szerint �
 
 55. § (1) Az 53. § (1) bekezdésében meghatározott engedély megadását a Felügyelet elutasítja, ha a kérelmező
 
-- a) természetes személy büntetett előéletű;
+- a) természetes személy nem büntetlen előéletű;
 - b) jogállása, tulajdonosi háttere nem tisztázott, vagy nem állapítható meg;
 - c) vagyoni, üzleti helyzete nem szilárd;
 - d) súlyosan vagy ismételten megsértette e törvény vagy más, a biztosítási tevékenységre vonatkozó jogszabály előírásait és emiatt vele szemben a Felügyelet 5 évnél nem régebben kelt jogerős határozatában a kiszabható legmagasabb összegű bírságot alkalmazta, illetve a bíróság 5 évnél nem régebben kelt jogerős határozatában felelősségét megállapította;
@@ -939,8 +940,11 @@ köteles arról 30 napon belül írásban értesíteni a Felügyeletet.
 - l) az állományátruházás keretében átadásra kerülő viszontbiztosítási szerződési állomány tekintetében az átvevő biztosítóval, illetve viszontbiztosítóval,
 - m) a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
 - n) fióktelep esetében – ha a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a harmadik országbeli viszontbiztosító székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal – a harmadik országbeli viszontbiztosítóval,
-- o) a feladatkörében eljáró országgyűlési biztossal,
-- p) a feladatkörében eljáró könyvvizsgálóval.
+- o) a feladatkörében eljáró alapvető jogok biztosával,
+- p) a feladatkörében eljáró könyvvizsgálóval,
+- q) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
+
+szemben.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, illetve, ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 
@@ -1018,7 +1022,7 @@ alapján, az abban foglalt kötelezettség teljesítése érdekében tájékozta
 - e) Gazdasági Versenyhivatallal,
 - f) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, a Kormány által kijelölt belső ellenőrzési szervvel,
 - g) vagyonellenőrrel,
-- h) adatvédelmi biztossal
+- h) Nemzeti Adatvédelmi és Információszabadság Hatósággal
 
 szemben.
 
@@ -1365,27 +1369,27 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 124. §
 
-### Az Európai Unió másik tagállamában székhellyel rendelkező viszontbiztosító fióktelep útján,illetve határon átnyúló szolgáltatás keretébena Magyar Köztársaság területén végzetttevékenységének felügyelete
+### Az Európai Unió másik tagállamában székhellyel rendelkező viszontbiztosító fióktelep útján,illetve határon átnyúló szolgáltatás keretébenMagyarország területén végzetttevékenységének felügyelete
 
-125. § (1) A Magyar Köztársaság területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében viszontbiztosítási tevékenységet végző, másik tagállamban székhellyel rendelkező viszontbiztosító felügyeleti hatósága, illetve az erre általa felhatalmazott személy jogosult, hogy – a Felügyelet előzetes értesítését követően – a Magyar Köztársaság területén a határon átnyúló szolgáltatást, a fióktelepet ellenőrizze.
+125. § (1) A Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében viszontbiztosítási tevékenységet végző, másik tagállamban székhellyel rendelkező viszontbiztosító felügyeleti hatósága, illetve az erre általa felhatalmazott személy jogosult, hogy – a Felügyelet előzetes értesítését követően – a Magyarország területén a határon átnyúló szolgáltatást, a fióktelepet ellenőrizze.
 
 (2) Az (1) bekezdés szerinti ellenőrzésben a Felügyelet is részt vehet.
 
-126. § (1) Ha a Magyar Köztársaság területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében tevékenységet végző, másik tagállamban székhellyel rendelkező viszontbiztosító megsérti a Magyar Köztársaság területén hatályos előírásokat, illetve működésében a Felügyelet hiányosságokat észlel, a Felügyelet kötelezi a fióktelepet, illetve a viszontbiztosítót a szabályellenes helyzet megszüntetésére. Egyidejűleg tájékoztatja a székhely szerinti felügyeletet.
+126. § (1) Ha a Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében tevékenységet végző, másik tagállamban székhellyel rendelkező viszontbiztosító megsérti a Magyarország területén hatályos előírásokat, illetve működésében a Felügyelet hiányosságokat észlel, a Felügyelet kötelezi a fióktelepet, illetve a viszontbiztosítót a szabályellenes helyzet megszüntetésére. Egyidejűleg tájékoztatja a székhely szerinti felügyeletet.
 
 (2) Ha a fióktelep, illetve a viszontbiztosító a Felügyelet határozatában foglalt kötelezésnek határidőben nem tesz eleget, a Felügyelet értesíti a székhely szerinti tagállam felügyeleti hatóságát, illetve kezdeményezi a szükséges intézkedések megtételét.
 
-127. § (1) Ha a Felügyelet a rendelkezésére álló információk alapján úgy ítéli meg, hogy a másik tagállamban székhellyel rendelkező viszontbiztosító a Magyar Köztársaság területén fióktelepe útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenysége veszélyezteti a viszontbiztosító pénzügyi biztonságát, értesíti a viszontbiztosító székhelye szerinti tagállam illetékes felügyeleti hatóságát.
+127. § (1) Ha a Felügyelet a rendelkezésére álló információk alapján úgy ítéli meg, hogy a másik tagállamban székhellyel rendelkező viszontbiztosító Magyarország területén fióktelepe útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenysége veszélyezteti a viszontbiztosító pénzügyi biztonságát, értesíti a viszontbiztosító székhelye szerinti tagállam illetékes felügyeleti hatóságát.
 
 (2) Ha a másik tagállamban székhellyel rendelkező viszontbiztosító fióktelepének székhely szerinti felügyeleti hatósága a viszontbiztosító tevékenységi engedélyét visszavonta és erről a Felügyeletet értesítette, a Felügyelet köteles megtenni a szükséges intézkedéseket, hogy megakadályozza az érintett viszontbiztosítót a további viszontbiztosítási tevékenység folytatásában.
 
 (3) Ha a fióktelep tevékenysége veszélyezteti a viszontbiztosító pénzügyi biztonságát, a székhely szerinti tagállam felügyeleti hatóságának kérésére a Felügyelet a fióktelep pénzügyi eszközök feletti szabad rendelkezését korlátozhatja, illetve megtilthatja. A székhely szerinti tagállam felügyeleti hatósága az intézkedés iránti kérelmében köteles megjelölni az intézkedéssel érinteni kívánt pénzügyi eszközöket.
 
-(4) Az illetékes felügyeleti hatóság kérelmére a Felügyelet jogosult a másik tagállamban székhellyel rendelkező viszontbiztosítónak a Magyar Köztársaság területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint a viszontbiztosítótól adatszolgáltatást kérni.
+(4) Az illetékes felügyeleti hatóság kérelmére a Felügyelet jogosult a másik tagállamban székhellyel rendelkező viszontbiztosítónak a Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint a viszontbiztosítótól adatszolgáltatást kérni.
 
-### A Magyar Köztársaság területén székhellyel rendelkező viszontbiztosító fióktelep útján, illetve határon átnyúló szolgáltatás keretében más tagállam területén végzett tevékenységének felügyelete
+### Magyarország területén székhellyel rendelkező viszontbiztosító fióktelep útján, illetve határon átnyúló szolgáltatás keretében más tagállam területén végzett tevékenységének felügyelete
 
-128. § (1) Ha a Magyar Köztársaság területén székhellyel rendelkező viszontbiztosító másik tagállamban lévő fióktelepének tevékenysége veszélyezteti a viszontbiztosító pénzügyi biztonságát, a Felügyelet kérelemmel fordulhat a fióktelep tagállamának illetékes felügyeleti hatóságához, hogy az a fióktelep pénzügyi eszközök feletti szabad rendelkezését korlátozza, illetve megtiltsa. A Felügyelet kérelmében köteles megjelölni az intézkedéssel érinteni kívánt pénzügyi eszközöket.
+128. § (1) Ha a Magyarország területén székhellyel rendelkező viszontbiztosító másik tagállamban lévő fióktelepének tevékenysége veszélyezteti a viszontbiztosító pénzügyi biztonságát, a Felügyelet kérelemmel fordulhat a fióktelep tagállamának illetékes felügyeleti hatóságához, hogy az a fióktelep pénzügyi eszközök feletti szabad rendelkezését korlátozza, illetve megtiltsa. A Felügyelet kérelmében köteles megjelölni az intézkedéssel érinteni kívánt pénzügyi eszközöket.
 
 (2) A Felügyelet kérelmére az illetékes felügyeleti hatóság jogosult a másik tagállamban lévő fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységet a helyszínen ellenőrizni, valamint a viszontbiztosítótól adatszolgáltatást kérni.
 
@@ -1393,9 +1397,9 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 129. § (1) A Felügyelet intézkedéseket tehet, ha a harmadik országbeli viszontbiztosító székhelye szerinti felügyeleti hatóság az adott viszontbiztosítóval, vagy annak bármely államban működő fióktelepével szemben olyan ok miatt alkalmazott intézkedést, amely a magyarországi fióktelep biztonságos működését érinti.
 
-(2) Ha az illetékes felügyeleti hatóság kéri, a Felügyelet jogosult a Magyar Köztársaság területén fiókteleppel rendelkező harmadik országbeli viszontbiztosító tevékenységét a helyszínen ellenőrizni, valamint attól adatszolgáltatást kérni.
+(2) Ha az illetékes felügyeleti hatóság kéri, a Felügyelet jogosult a Magyarország területén fiókteleppel rendelkező harmadik országbeli viszontbiztosító tevékenységét a helyszínen ellenőrizni, valamint attól adatszolgáltatást kérni.
 
-(3) Viszonosság fennállásának esetén, illetve érvényben lévő felügyeleti együttműködési megállapodás alapján a Felügyelet hozzájárulhat, hogy a harmadik országbeli viszontbiztosító székhelye szerinti felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő a Magyar Köztársaság területén lévő fióktelep tevékenységét a helyszínen ellenőrizze.
+(3) Viszonosság fennállásának esetén, illetve érvényben lévő felügyeleti együttműködési megállapodás alapján a Felügyelet hozzájárulhat, hogy a harmadik országbeli viszontbiztosító székhelye szerinti felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő a Magyarország területén lévő fióktelep tevékenységét a helyszínen ellenőrizze.
 
 ## NYOLCADIK RÉSZ — A SZÜKSÉGHELYZET, A FELSZÁMOLÁS ÉS A VÉGELSZÁMOLÁS SAJÁTOS SZABÁLYAI
 
@@ -1415,7 +1419,7 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítási piac bizton
 
 (3) Ha a Felügyeletnek a 125–126. §-ok szerinti intézkedése nem vezetett eredményre, azaz a viszontbiztosító a székhely szerinti tagállam felügyeleti hatósága által megtett intézkedések ellenére, vagy a nem megfelelő intézkedés, vagy az intézkedés elmaradása miatt a továbbiakban is jogszabálysértő magatartást folytat, a Felügyelet – a székhely szerinti állam felügyeleti hatóságának értesítését követően – lépéseket tehet a további jogszabálysértés megakadályozására, beleértve a viszontbiztosító megakadályozását abban, hogy újabb viszontbiztosítási szerződéseket kössön.
 
-(4) Ha a jogszabálysértést elkövető viszontbiztosító a Magyar Köztársaság területén valamely vállalkozásban tulajdonosi részesedéssel, illetve vagyoni értékű joggal rendelkezik, ez esetben a Felügyelet által alkalmazott intézkedés alapján – a hatályos jogi szabályozással összhangban – végrehajtás e vállalkozásra, vagy vagyoni értékű jogra vezethető.
+(4) Ha a jogszabálysértést elkövető viszontbiztosító Magyarország területén valamely vállalkozásban tulajdonosi részesedéssel, illetve vagyoni értékű joggal rendelkezik, ez esetben a Felügyelet által alkalmazott intézkedés alapján – a hatályos jogi szabályozással összhangban – végrehajtás e vállalkozásra, vagy vagyoni értékű jogra vezethető.
 
 ### A csődeljárás, a felszámolási eljárás és végelszámolás közös szabályai
 

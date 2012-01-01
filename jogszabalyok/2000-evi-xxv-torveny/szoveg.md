@@ -97,31 +97,29 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 ### Bejelentés
 
-6. § (1) A veszélyes anyagokat és a veszélyes keverékeket – a (2) bekezdésben foglaltak kivételével – a Magyarország területén gyártó, illetve forgalmazó az azokkal kapcsolatos gyártási, illetve forgalomba hozatali tevékenység megkezdésével egyidejűleg, külön jogszabályban foglaltak szerint, a biztonsági adatlap, illetve a külön jogszabályban meghatározott esetben a címketerv 7. § szerinti csatolásával bejelenti, ha a veszélyes anyag az 5. § (3) bekezdése szerinti magyarországi jegyzékben, illetve a veszélyes keverék a termék-nyilvántartásban még nem szerepel.
+6. § (1) A veszélyes anyagokat és a veszélyes keverékeket – a (2) bekezdésben foglaltak kivételével – Magyarország területén gyártó, forgalmazó az azokkal kapcsolatos gyártási, forgalomba hozatali tevékenység megkezdésével egyidejűleg, az egészségügyért felelős miniszter 34. § (4) bekezdés a) pontjában foglalt felhatalmazás alapján kiadott rendeletében foglaltak szerint, a biztonsági adatlap, vagy a biztonsági adatlap és a címketerv csatolásával köteles elektronikus úton bejelenteni az egészségügyi államigazgatási szervnek, ha a veszélyes anyag az 5. § (3) bekezdése szerinti magyarországi jegyzékben, illetve a veszélyes keverék a terméknyilvántartásban még nem szerepel. A bejelentő köteles az általa bejelentett veszélyes anyag és keverék biztonsági adatlapjának változását és a forgalmazás megszüntetését is elektronikus úton jelenteni.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően nem kell bejelenteni a kizárólag ellenőrzött körülmények között végzett kutatási és fejlesztési célra, kísérleti gyártásra és nem termelőüzemi méretű kipróbálásra gyártott, illetőleg forgalmazott veszélyes anyagokat vagy veszélyes keverékeket. A magyarországi gyártó, illetőleg forgalmazó a rendelkezésre álló, a veszélyesség meghatározása, a tevékenységet végző egészségének biztonsága szempontjából lényeges adatokat és információkat ebben az esetben is köteles a tevékenységet végző rendelkezésére bocsátani. Minden olyan magyarországi gyártónak vagy forgalmazónak, aki (amely) a bejelentés mellőzésével élni kíván, az egészségügyi államigazgatási szerv által hozzáférhető írásbeli nyilvántartást kell vezetnie a gyártott, illetőleg forgalomba hozott veszélyes anyagról vagy veszélyes keverékről, a feliratozási és mennyiségi adatokról. A magyarországi gyártót, illetve forgalmazót a bejelentés mellőzésének lehetősége a gyártástól, illetőleg a forgalomba hozataltól vagy ezek megkezdésétől számított egy évig illeti meg, amely az egészségügyi államigazgatási szerv engedélyével egy évig meghosszabbítható, ha a magyarországi gyártó, illetve forgalmazó a meghosszabbítás szükségességét indokolja.
 
 ### Veszélyes anyag bejelentése
 
-7. § (1) A veszélyes anyagokat az egészségügyért felelős miniszter rendeletében meghatározott bejelentőlapon kell bejelenteni az egészségügyi államigazgatási szerv részére.
+7. § (1)–(2)
 
-(2) A bejelentő a bejelentőlaphoz csatolja a biztonsági adatlapot, illetve külön jogszabályban meghatározott esetben a címketervet. Az egészségügyi államigazgatási szerv további adatszolgáltatásra hívhatja fel a bejelentőt.
+(3) A veszélyes anyag bejelentésével kapcsolatos valamennyi adatszolgáltatásért, az adatok hitelességéért a bejelentő a felelős. Az egészségügyi államigazgatási szerv a veszélyes anyag egészségügyi kockázataira vonatkozóan – a biztonsági adatlap jogszabályban meghatározott adatkörében – további adatszolgáltatásra hívhatja fel a bejelentőt.
 
-(3) A veszélyes anyag bejelentésével kapcsolatos valamennyi adatszolgáltatásért, az adatok hitelességéért a bejelentő a felelős.
-
-(4) A bejelentés tudomásulvételéről az egészségügyi államigazgatási szerv az előírt mellékletekkel rendelkező bejelentőlap beérkezését követő naptól számított tizenöt napon belül, az (1) bekezdés szerinti bejelentőlap igazoló szelvényének megküldésével értesíti a bejelentőt. A bejelentett veszélyes anyagot az egészségügyi államigazgatási szerv felveszi az 5. § (3) bekezdése szerinti magyarországi jegyzékbe.
+(4) A bejelentés tudomásulvételét az egészségügyi államigazgatási szerv a formai és tartalmi követelményeknek megfelelő bejelentés beérkezésétől számított 15 napon belül elektronikus úton visszaigazolja. A bejelentett veszélyes anyagot az egészségügyi államigazgatási szerv felveszi az 5. § (3) bekezdése szerinti magyarországi jegyzékbe.
 
 ### Veszélyes keverékek bejelentése
 
-8. § (1) A veszélyes keverékeket az egészségügyért felelős miniszter által meghatározott bejelentőlapon kell bejelenteni. A bejelentő a bejelentőlaphoz köteles csatolni a veszélyes keverékek biztonsági adatlapját.
+8. § (1)
 
 (2)
 
-(3) A veszélyes keverékek bejelentésével kapcsolatosan megkövetelt adatok hitelességéért a bejelentő a felelős.
+(3) A veszélyes keverékek bejelentésével kapcsolatosan megkövetelt adatok hitelességéért a bejelentő a felelős. Az egészségügyi államigazgatási szerv a veszélyes keverék egészségügyi kockázataira vonatkozóan – a biztonsági adatlap jogszabályban meghatározott adatkörében – további adatszolgáltatásra hívhatja fel a bejelentőt.
 
 (4)
 
-(5) A bejelentés tudomásulvételéről az egészségügyi államigazgatási szerv az előírt mellékletekkel rendelkező bejelentőlap beérkezését követő naptól számított tizenöt napon belül, a bejelentőlap igazoló szelvényének megküldésével értesíti a bejelentőt.
+(5) A bejelentés tudomásulvételét az egészségügyi államigazgatási szerv a formai és tartalmi követelményeknek megfelelő bejelentés beérkezésétől számított 15 napon belül elektronikus úton visszaigazolja. A bejelentett veszélyes keveréket az egészségügyi államigazgatási szerv felveszi a 23. § szerinti terméknyilvántartásba.
 
 ### A forgalomba hozatalra és a közösségi jegyzékben nem szereplő anyagokkal kapcsolatos adatok felkutatására vonatkozó előírások
 
@@ -218,7 +216,7 @@ is legyen;
 
 (3)–(4)
 
-(5) A veszélyes anyaggal, illetőleg a veszélyes keverékkel tevékenységet végző a kockázat kezelése, csökkentése érdekében intézkedéseket dolgoz ki. Ez a kötelezettség nem érinti az Mvt.-ben, illetőleg a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvényben, valamint a REACH-ben foglalt egyéb követelmények teljesítését.
+(5) A veszélyes anyaggal, és a veszélyes keverékkel tevékenységet végző a kockázat kezelése, csökkentése érdekében intézkedéseket dolgoz ki. Ez a kötelezettség nem érinti az Mvt.-ben, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvényben, valamint a REACH-ben foglalt egyéb követelmények teljesítését.
 
 (6) Az (1)–(2), valamint az (4)–(5) bekezdésben foglalt rendelkezéseket nem kell alkalmazni a magáncéllal, nem foglalkozás körében végzett tevékenység megkezdését megelőzően.
 
@@ -258,7 +256,7 @@ is legyen;
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés szerinti országos nyilvántartást, illetve – veszélyes keverékek esetén a terméknyilvántartást – a bejelentett adatok alapján vezeti. A veszélyes anyagok, illetve a veszélyes keverékek törzskönyvezését, jegyzékbe vételét, illetőleg nyilvántartásba vételét végző szerv az (1) bekezdésben megjelölt adatokat az egészségügyi államigazgatási szervnek megküldi.
 
-(3) Az egészségügyi államigazgatási szerv a veszélyes anyagokra, illetve a veszélyes keverékekre vonatkozó, általa nyilvántartott adatokról – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvénynek a közérdekű adatok nyilvánosságára irányadó rendelkezései szerint – megkeresésre felvilágosítást ad. Az egészségügyi államigazgatási szerv biztosítja az ezen adatokhoz történő folyamatos – napi 24 órás hozzáférés lehetőségét.
+(3) Az egészségügyi államigazgatási szerv a veszélyes anyagokra, illetve a veszélyes keverékekre vonatkozó, általa nyilvántartott adatokról – a közérdekű adatok nyilvánosságára vonatkozó törvényi előírások szerint – megkeresésre felvilágosítást ad. Az egészségügyi államigazgatási szerv biztosítja az ezen adatokhoz történő folyamatos – napi 24 órás hozzáférés lehetőségét.
 
 (4) Az egészségügyi államigazgatási szerv az (1) bekezdésben meghatározott adatokon kívül megkeresésre felvilágosítást ad az ELINCS és az EINECS, valamint az Európai Közösség (EU) e törvény alkalmazásával összefüggő irányelveinek tartalmáról.
 
@@ -304,7 +302,7 @@ is legyen;
 
 (3) A veszélyes anyagokkal, illetőleg a veszélyes keverékekkel foglalkozásszerűen végzett tevékenység a felhasznált anyag vagy keverék adatait tartalmazó biztonsági adatlap, egyéb tevékenység a használati utasítás birtokában kezdhető meg.
 
-29. § (1) E törvény hatálybalépését követően a hatálya alá tartozó tevékenységet folytatni kívánó természetes vagy jogi személy – a (3)–(4) bekezdésben foglalt kivételekkel – a tevékenység megkezdésével egyidejűleg ezt köteles bejelenteni az egészségügyi államigazgatási szervnek.
+29. § (1) Az e törvény hatálya alá tartozó tevékenységet folytatni kívánó természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező szervezet – a (3) és (4) bekezdésben foglalt kivételekkel – a tevékenység megkezdésével egyidejűleg ezt köteles bejelenteni az egészségügyi államigazgatási szervnek. A bejelentést az egészségügyért felelős miniszter rendeletében meghatározottak szerint, elektronikus úton kell megtenni a telephely, illetve ennek hiánya esetén a székhely szerint illetékes egészségügyi államigazgatási szervnek.
 
 (2) A bejelentést meg kell ismételni a bejelentő, illetőleg a bejelentett tevékenység azonosításához szükséges bármely adat megváltozása esetén.
 
@@ -355,9 +353,9 @@ végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 
 (2) Az (1) bekezdés szerinti bírság konkrét összegét az eset összes körülményeire – így különösen az emberi egészség, illetőleg a környezet sérelmének, illetve a veszélyeztetésének mértékére, a jogsértő magatartás időtartamára, esetleges ismételt tanúsítására, valamint a hatékonyság, az arányosság és a visszatartó hatás elvére – tekintettel kell meghatározni.
 
-(3) A bírságot az egészségügyi államigazgatási szervnek a kincstárnál vezetett számlájára kell befizetni. A bírság megfizetéséből származó bevétel kizárólag a kémiai biztonság hazai fejlesztésének, továbbá kutatásának, oktatásának, informatikai rendszerének bővítése érdekében szükséges állami, helyi önkormányzati vagy egyéb kezdeményezésű beruházások, más intézkedések költségvetési támogatásához használható fel.
+(3) A bírságot az egészségügyi államigazgatási szervnek a kincstárnál vezetett számlájára kell befizetni.
 
-(4) A bírságot meg nem fizetése esetén adók módjára kell behajtani.
+(4)
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -380,7 +378,8 @@ végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 - a) a kémiai biztonság területén működő tárcaközi bizottság összetételét és működésének,
 - b) a kémiai terhelési bírság alkalmazásának
 - c) a veszélyes anyagokkal és készítményekkel kapcsolatos egyes tevékenységek gyakorlásához, valamint a veszélyes anyagokkal és készítményekkel folytatott tevékenységekkel kapcsolatos kockázat-becslés végzéséhez szükséges feltételek, ideértve a képesítési feltételeket is,
-- d) a mosó- és tisztítószerekről szóló 648/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának
+- d) a mosó- és tisztítószerekről szóló 648/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának,
+- e) a veszélyes anyagok és a veszélyes keverékek környezetkárosító és -szennyező hatásai megelőzésének
 
 részletes szabályait rendeletben meghatározza.
 
@@ -406,7 +405,7 @@ részletes szabályait rendeletben meghatározza.
 - h) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel, valamint a környezetvédelemért felelős miniszterrel egyetértésben a biocid anyagok – ideértve a faanyag-védőszereket, az irtószereket, valamint a fertőtlenítő szereket – előállításának, gyártásának, forgalomba hozatalának, felhasználásának részletes szabályait,
 - i) az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 31/A. § szerinti, kémiai biztonsági és biocid termékekkel és hatóanyagokkal kapcsolatos igazgatási szolgáltatási díjak körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket,
 - j) a környezetvédelemért felelős miniszter, hogy
-  - ja) a veszélyes anyagok, illetve a veszélyes keverékek, valamint a veszélyes anyagot tartalmazó hulladékok környezetkárosító és -szennyező hatásainak megelőzését,
+  - ja)
   - jb) a környezetbe kerülő, szennyezést okozó veszélyes anyagok nyilvántartásának rendjét,
 - k) a honvédelemért felelős miniszter, hogy
   - ka) a honvédségnél alkalmazott veszélyes anyagokkal, illetve veszélyes keverékekkel munkahelyen végzett tevékenység kémiai biztonsággal összefüggő szabályait,
@@ -435,7 +434,8 @@ rendeletben meghatározza.
 - e) az Európai Parlament és a Tanács 2004/9/EK irányelve (2004. február 11.) a helyes laboratóriumi gyakorlat (GLP) ellenőrzéséről és felülvizsgálatáról,
 - f) a Tanács 98/24/EK irányelve (1998. április 7.) a munkájuk során vegyi anyagokkal kapcsolatos kockázatoknak kitett munkavállalók egészségének és biztonságának védelméről (tizennegyedik egyedi irányelv a 89/391/EGK irányelv 16. cikkének (1) bekezdése értelmében),
 - g) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról, 9. cikk (a törvény 33/A. §-a),
-- h) az Európai Parlament és a Tanács 2008/112/EK irányelve (2008. december 16.) a 76/768/EGK, a 88/378/EGK, az 1999/13/EK tanácsi irányelveknek, és a 2000/53/EK, a 2002/96/EK és 2004/42/EK európai parlamenti és tanácsi irányelveknek az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK rendelethez való hozzáigazítása céljából történő módosításáról, 4. és 5. cikk (a törvény 1. § c) és d) pontja).
+- h) az Európai Parlament és a Tanács 2008/112/EK irányelve (2008. december 16.) a 76/768/EGK, a 88/378/EGK, az 1999/13/EK tanácsi irányelveknek, és a 2000/53/EK, a 2002/96/EK és 2004/42/EK európai parlamenti és tanácsi irányelveknek az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK rendelethez való hozzáigazítása céljából történő módosításáról, 4. és 5. cikk (a törvény 1. § c) és d) pontja),
+- i) az Európai Parlament és a Tanács 2011/65/EU irányelve (2011. június 8.) egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról.
 
 (2) Ez a törvény a 34. § (3) bekezdésének b) pontjában, a 34. § (4) bekezdés a) pontjának aj) alpontjában, valamint a 34. § (5) bekezdésében foglalt felhatalmazás alapján kiadott végrehajtási rendeleteivel együtt
 

@@ -12,7 +12,7 @@ A privatizáció gyorsítása és annak előmozdítása érdekében, hogy a munk
 
 (3) Az MRP-ben azok a munkavállalók vehetnek részt, akik a (2) bekezdésben foglalt feltételeknek megfelelnek és részvételi szándékukat a szervezőbizottságnak írásban bejelentik [2. § (1) bekezdés], megalakult szervezet esetén pedig az ügyintéző és képviselő szerv (a továbbiakban: ügyintéző szerv) által – részvételi jogosultságuk megnyíltakor – részükre haladéktalanul megküldött alapszabályt írásbeli nyilatkozatukkal elfogadják.
 
-(4) A munkaviszony megszűnésével a munkavállaló MRP-ben való részvételi jogosultsága is megszűnik, kivéve, ha a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 87/A. §-ának (1) bekezdése szerint nyugdíjasnak minősülő munkavállaló a munkaviszonyának rendes felmondással, közös megegyezéssel vagy az Mt. 88. §-ának (2) bekezdése szerint történő megszüntetése esetén a részvételi jogosultságának fenntartása mellett dönt. Az alapszabály a nyugdíjas résztvevő további részesedési és döntéshozatali jogosultságát szabályozhatja, azt feltételhez kötheti. Ennek során a nyugdíjas résztvevő számára legalább olyan mértékű részesedést kell biztosítani, amely őt a nyugdíjazásának évében vagy – ha a nyugdíjas ezt kívánja – az ezt megelőző 1–3 évben kapott rendszeres havi munkabér [9. § (2) bekezdés] átlagos összegének 25%-a alapján megilletné. A nyugdíjas résztvevő számára legalább ugyanilyen arányú szavazati jogot is biztosítani kell. Az alapszabály ugyanakkor előírhatja, hogy a közgyűlésről távol maradt nyugdíjas résztvevőt a határozatképesség megállapítása során figyelmen kívül kell hagyni.
+(4) A munkaviszony megszűnésével a munkavállaló MRP-ben való részvételi jogosultsága is megszűnik, kivéve, ha a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 87/A. §-ának (1) bekezdése szerint nyugdíjasnak minősülő, vagy legkésőbb a munkaviszony megszűnését követő naptól kezdődően korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő (a továbbiakban együtt: nyugdíjas) munkavállaló a munkaviszonyának rendes felmondással, közös megegyezéssel vagy az Mt. 88. §-ának (2) bekezdése szerint történő megszüntetése esetén a részvételi jogosultságának fenntartása mellett dönt. Az alapszabály a nyugdíjas résztvevő további részesedési és döntéshozatali jogosultságát szabályozhatja, azt feltételhez kötheti. Ennek során a nyugdíjas résztvevő számára legalább olyan mértékű részesedést kell biztosítani, amely őt a nyugdíjazásának évében vagy – ha a nyugdíjas ezt kívánja – az ezt megelőző 1–3 évben kapott rendszeres havi munkabér [9. § (2) bekezdés] átlagos összegének 25%-a alapján megilletné. A nyugdíjas résztvevő számára legalább ugyanilyen arányú szavazati jogot is biztosítani kell. Az alapszabály ugyanakkor előírhatja, hogy a közgyűlésről távol maradt nyugdíjas résztvevőt a határozatképesség megállapítása során figyelmen kívül kell hagyni.
 
 (5) Ha a munkavállaló munkaviszonya a munkáltató személyében bekövetkező jogutódlás eredményeként más munkáltatónál folytatódik, a munkavállalónak a jogelőd munkáltatónál fennálló MRP-ben való részvételi jogosultsága abban az esetben marad fenn, ha a jogutódlás időpontjában a jogelőd munkáltatót vagy ennek a számviteli törvény szerint konszolidálásba bevont vállalkozását a szavazatok több mint fele megilleti a jogutód munkáltató döntéshozó szervében.
 
@@ -56,7 +56,7 @@ A privatizáció gyorsítása és annak előmozdítása érdekében, hogy a munk
 
 (2) A szervezet nyilvántartásba vétele nem tagadható meg, ha alapítói az e törvényben foglalt feltételeknek eleget tettek. A szervezet a nyilvántartásba vétellel válik jogi személlyé.
 
-6. § (1) A szervezetet a székhelye szerint illetékes megyei bíróság, illetve a Fővárosi Bíróság (a továbbiakban együtt: bíróság) veszi nyilvántartásba.
+6. § (1) A szervezetet a székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) veszi nyilvántartásba.
 
 (2) A bíróság a nyilvántartásba vételről nemperes eljárásban soron kívül határoz. A bíróság a nyilvántartásba vételről szóló határozatot megküldi az ügyészségnek.
 
@@ -139,7 +139,7 @@ A privatizáció gyorsítása és annak előmozdítása érdekében, hogy a munk
 
 (2) A határozat megtámadása a határozat végrehajtását nem gátolja, a bíróság azonban indokolt esetben a határozat végrehajtását felfüggesztheti.
 
-11. § A szervezet felett az ügyészség a reá irányadó szabályok szerint törvényességi felügyeletet gyakorol. Ha a működés törvényessége másként nem biztosítható az ügyész a bírósághoz fordulhat.
+11. § A szervezet működésének törvényességét az ügyészség az irányadó jogszabályok szerint ellenőrzi. Ha a működés törvényessége másként nem biztosítható az ügyészség a bírósághoz fordulhat.
 
 12. § A bíróság az ügyész és a résztvevő keresete alapján:
 

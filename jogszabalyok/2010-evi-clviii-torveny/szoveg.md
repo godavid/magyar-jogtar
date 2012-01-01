@@ -8,7 +8,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 ### A Pénzügyi Szervezetek Állami Felügyeletének jogállása
 
-1. § (1) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) a Magyar Köztársaság pénzügyi közvetítő rendszerét felügyelő, ellenőrző hatósági feladatokat ellátó és szabályozó, országos hatáskörű közigazgatási szerv, amely csak a törvénynek van alárendelve.
+1. § (1) A Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) Magyarország pénzügyi közvetítő rendszerét felügyelő, ellenőrző hatósági feladatokat ellátó önálló szabályozó szerv, amely csak a törvénynek van alárendelve.
 
 (2) A Felügyelet székhelye Budapest.
 
@@ -48,7 +48,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (7) A Felügyelet feladatai végrehajtása során mérlegeli döntéseinek a többi érintett tagállam pénzügyi rendszerének stabilitására gyakorolt hatását.
 
-(8) A Felügyelet a kormányzati ellenőrzési szerv rendelkezésére bocsátja mindazon adatokat, amelyek kezelésére a kormányzati ellenőrzési szerv az államháztartásról szóló 1992. évi XXXVIII. törvény 120/B. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott feladatai ellátásához törvény alapján jogosult.
+(8) A Felügyelet a kormányzati ellenőrzési szerv rendelkezésére bocsátja mindazon adatokat, amelyek kezelésére a kormányzati ellenőrzési szerv az államháztartásról szóló 2011. évi CXCV. törvény 63. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott feladatai ellátásához törvény alapján jogosult.
 
 4. § (1) Ha törvény eltérően nem rendelkezik, a Felügyelet látja el
 
@@ -68,7 +68,8 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 - n) a viszontbiztosítókról szóló 2007. évi CLIX. törvény (a továbbiakban: Vbit.),
 - o) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény,
 - p) a 7. § p) pontjában meghatározottak szerint a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Gfbt.),
-- q) hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
+- q)
+- r) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvény hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 
 (2) A Felügyelet látja el a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény hatálya alá tartozó tevékenysége tekintetében.
 
@@ -90,6 +91,8 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 (4) A Felügyelet látja el a 924/2009/EK európai parlamenti és tanácsi rendelet végrehajtását.
 
 (5) Az 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése szerinti illetékes hatóságként a Felügyelet látja el az 1060/2009/EK európai parlamenti és tanácsi rendelet végrehajtását.
+
+(6) A Felügyelet látja el a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvényben meghatározott feladatkörében az 583/2010/EU bizottsági rendelet, valamint az 584/2010/EU bizottsági rendelet végrehajtását.
 
 7. § A Felügyelet feladata
 
@@ -151,38 +154,70 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (4) A Felügyelet az (1) bekezdésben meghatározott közzététel során köteles a személyes adatok védelmére, a banktitokra, fizetési titokra, az értékpapírtitokra, a pénztártitokra, a biztosítási titokra, foglalkoztatói nyugdíjtitokra és az üzleti titokra vonatkozó jogszabályokat betartani.
 
-### Kapcsolat az Európai Bizottsággal
+### Kapcsolat az Európai Bizottsággal és az Európai Felügyeleti Hatóságokkal
 
-11. § (1) A Felügyelet írásban bejelenti az Európai Bizottságnak
+11. § (1) A Felügyelet együttműködik
 
-- a) hitelintézet, befektetési vállalkozás, biztosító vagy viszontbiztosító részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
-- b) harmadik országban székhellyel rendelkező hitelintézet, elektronikuspénz- kibocsátó intézmény, befektetési vállalkozás, biztosító vagy viszontbiztosító magyarországi fióktelepe részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
-- c) olyan európai befektetési alapot kezelő alapkezelő számára kiadott engedélyt, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
+- a) az Európai Bizottsággal,
+- b) az Európai Felügyeleti Hatóságokkal, azaz az Európai Bankhatósággal, az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal, az Európai Értékpapír-piaci Hatósággal,
+- c) az Európai Rendszerkockázati Testülettel,
+- d) az Európai Biztosítási és Foglalkoztatói-nyugdíj Bizottsággal, valamint
+- e) az Európai Bankbizottsággal.
+
+(2) A Felügyelet teljesíti az (1) bekezdésben meghatározott hatóságok irányában fennálló bejelentési kötelezettségeket.
+
+(3) A Felügyelet írásban bejelenti az Európai Bizottságnak
+
+- a) biztosító vagy viszontbiztosító részére kiadott tevékenységi engedélyt, illetve annak visszavonását,
+- b) harmadik országban székhellyel rendelkező hitelintézet, befektetési vállalkozás, biztosító vagy viszontbiztosító magyarországi fióktelepe részére kiadott tevékenységi engedélyt,
+- c) az olyan ÁÉKBV-alapkezelő számára kiadott engedélyt, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
 - d) harmadik országban bejegyzett hitelintézet által Magyarországon bejegyzett hitelintézetben történő olyan részesedésszerzést, amelynek eredményeképpen a hitelintézet harmadik országbeli hitelintézet leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 - e) harmadik országban bejegyzett biztosító által Magyarországon bejegyzett biztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a biztosító harmadik országbeli biztosító leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 - f) harmadik országban bejegyzett viszontbiztosító által Magyarországon bejegyzett viszontbiztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a viszontbiztosító harmadik országbeli viszontbiztosító leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 - g) pénzügyi holding társaság összevont alapú felügyelet alá tartozását, illetve annak megszűnését,
 - h) a Hpt. 32/A. §-ának (5) bekezdése szerinti határozatot,
 - i) összevont alapú felügyelet során – a Hpt. 96/B. §-ának (3)–(5) bekezdése tekintetében – alkalmazott eljárásokat,
-- j) a Hpt. 96/C. §-ának (5) bekezdése és a Tpt. 181/J. §-ának (5) bekezdése szerinti megállapodást, ha a megállapodás eredményeként a Felügyelet látja el az összevont alapú felügyeletet,
+- j) a Tpt. 181/J. §-ának (5) bekezdése szerinti megállapodást, ha a megállapodás eredményeként a Felügyelet látja el az összevont alapú felügyeletet,
 - k) valamely csoportnak pénzügyi konglomerátummá történő minősítését és koordinátor kijelölését,
-- l) a Magyar Köztársaság területén bejegyzett biztosító vagy viszontbiztosító harmadik országban történő letelepedése vagy tevékenysége akadályba ütközésének tényét,
-- m) a Hpt. 168/A. §-ának (2) bekezdése, a Tpt. 404. §-ának (2) bekezdése és a Bszt. 177. §-ának (2) bekezdése szerinti intézkedését,
-- n) a Magyarországon székhellyel rendelkező szabályozott piacok jegyzékét, illetve ennek változását,
-- o) a biztosításkötési kötelezettséget előíró jogszabályokat, illetve azok módosítását, valamint
-- p) az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 30/A. §-ának alkalmazásával kapcsolatban bejelentett eseteket, a kockázatelemzéseket, az azokra vonatkozó adatokat és az adatok közzétételi helyeit.
+- l) a Magyarország területén bejegyzett biztosító vagy viszontbiztosító harmadik országban történő letelepedése vagy tevékenysége akadályba ütközésének tényét,
+- m) a Hpt. 168/A. §-ának (3) bekezdése, a Tpt. 404. §-ának (2) bekezdése és a Bszt. 177. §-ának (2) bekezdése szerinti intézkedését,
+- n) a hatáskörök átruházása tekintetében megkötött megállapodásait, beleértve az ilyen átruházást szabályozó pontos feltételeket is,
+- o) a biztosításkötési kötelezettséget előíró jogszabályokat, illetve azok módosítását,
+- p) az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 30/A. §-ának alkalmazásával kapcsolatban bejelentett eseteket, a kockázatelemzéseket, az azokra vonatkozó adatokat és az adatok közzétételi helyeit,
+- q) azokra a kötvényekre, jelzálog-levelekre, továbbá ezek kibocsátóira vonatkozó adatokat, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
+- r) a hitelintézet részére kiadott tevékenységi (működési) engedély visszavonását.
 
-(2) Az (1) bekezdés a) pontja szerinti bejelentésben jelezni kell, ha a tevékenységi engedélyt olyan hitelintézetnek, befektetési vállalkozásnak vagy biztosítónak adták ki, amely közvetlenül vagy közvetve egy vagy több, harmadik országban bejegyzett vállalkozás leányvállalata, és részletesen be kell mutatni ebben az esetben a vállalatcsoport szerkezetét.
+(4) A Felügyelet tájékoztatja
 
-(3) Az (1) bekezdés b) pontja szerinti hitelintézetre vonatkozó bejelentést a 2004/10/EK bizottsági határozattal létrehozott Európai Bankbizottságnak is meg kell küldeni.
+- a) az Európai Értékpapír-piaci Hatóságot
+  - aa) a piaci visszaélésekkel, valamint a befektetési vállalkozásokra és az árutőzsdei szolgáltatókra vonatkozó jogszabályi rendelkezések megsértésével kapcsolatban kiszabott közigazgatási intézkedésről vagy szankcióról a nyilvánosságra hozatalt követően, valamint évente összesítő jelleggel,
+  - ab) az értékpapírt kibocsátó, az ajánlattevő vagy a szabályozott piacra történő bevezetést kérő személy értesítésével egyidejűleg a tájékoztató és annak bármely kiegészítése jóváhagyásáról, amellyel egyidejűleg a tájékoztató és a tájékoztató kiegészítő jegyzékeinek egy példányát is megküldi,
+  - ac) a befektetési szolgáltatási tevékenység végzésére jogosító engedély, tőzsde alapítására vonatkozó engedély, tőzsdei tevékenység végzésére, befektetési alapkezelési tevékenység végzésére jogosító engedély kiadásáról és visszavonásáról,
+  - ad) a Magyarországon székhellyel rendelkező szabályozott piacokról, amelynek jegyzékét megküldi, illetve a jegyzék változásáról,
+  - ae) azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokról, amelyek a 4. §-ban meghatározott személyek és szervezetek rendelkezésére állnak,
+  - af) azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
+  - ag) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról;
+- b) az Európai Bankhatóságot
+  - ba) a hitelintézet számára kiadott tevékenységi (működési) engedélyről, valamint annak visszavonásáról,
+  - bb) a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
+  - bc) a Hpt. 38/A. § (5) bekezdése szerinti határozatáról,
+  - bd) a pénzügyi holding társaság összevont alapú felügyelet alá tartozásáról és annak megszűnéséről,
+  - be) a Hpt. 96/C. § (5) bekezdése szerinti megállapodást, ha a megállapodás eredményeként a Felügyelet látja el az összevont alapú felügyeletet,
+  - bf) a Hpt. 168/A. § (3) bekezdése szerinti intézkedéséről, valamint
+  - bg) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról;
+- c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
+  - ca) a Pmt. 12. § (2) bekezdése, 18. § (7) bekezdése, 27. § (6) bekezdése és 30. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
+  - cb) a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról.
 
-(4) Az (1) bekezdés c) pontja szerinti bejelentésben részletesen be kell mutatni a vállalatcsoport szerkezetét.
+(5) A (3) bekezdés a) pontja szerinti bejelentésben jelezni kell, ha a tevékenységi engedélyt olyan biztosítónak adták ki, amely közvetlenül vagy közvetve egy vagy több, harmadik országban bejegyzett vállalkozás leányvállalata, és részletesen be kell mutatni ebben az esetben a vállalatcsoport szerkezetét.
 
-(5) Az (1) bekezdés g) és n) pontja szerinti bejelentést az Európai Gazdasági Térség állama pénzügyi felügyeleti hatóságainak is meg kell küldeni.
+(6) A (3) bekezdés b) pontja szerinti hitelintézetre vonatkozó bejelentést a 2004/10/EK bizottsági határozattal létrehozott Európai Bankbizottságnak is meg kell küldeni.
 
-(6) A Felügyelet az Fnytv.-ben meghatározott feladatai ellátása érdekében együttműködik a 2004/9/EK bizottsági határozattal létrehozott Európai Biztosítási és Foglalkoztatói-nyugdíj Bizottsággal, valamint az Európai Bizottsággal.
+(7) A (3) bekezdés c) pontja szerinti bejelentésben részletesen be kell mutatni a vállalatcsoport szerkezetét.
 
-(7) A Pénzügyi Békéltető Testület köteles tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást adni.
+(8) A (3) bekezdés g) és n) pontja szerinti bejelentést az Európai Gazdasági Térség állama pénzügyi felügyeleti hatóságainak is meg kell küldeni.
+
+(9) A Pénzügyi Békéltető Testület köteles tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást adni.
 
 ### Felügyeleti kollégium
 
@@ -211,13 +246,13 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 ### A Felügyelet elnöke, alelnökei és a Pénzügyi Békéltető Testület elnöke
 
-13. § (1) A Felügyelet elnökét a miniszterelnök javaslatára a köztársasági elnök hat évre nevezi ki. A Felügyelet két alelnökét a Felügyelet elnökének javaslatára a miniszterelnök hat évre nevezi ki.
+13. § (1) A Felügyelet elnökét a miniszterelnök javaslatára a köztársasági elnök hat évre nevezi ki. A Felügyelet két alelnökét a Felügyelet elnöke hat évre nevezi ki.
 
 (2) A Pénzügyi Békéltető Testület elnökét a Felügyelet elnöke nevezi ki hat évre.
 
 (3) A Felügyelet elnökének közszolgálati jogviszonyával összefüggő munkáltatói intézkedéseket – az e §-ban és a 15. §-ban meghatározott esetekben az ott megjelölt döntés alapján – a helyettesítésére kijelölt alelnök teszi meg.
 
-(4) A Felügyelet alelnöke felett a munkáltatói jogokat – a kinevezés és a felmentés kivételével – a Felügyelet elnöke gyakorolja.
+(4) A Felügyelet alelnöke felett a munkáltatói jogokat a Felügyelet elnöke gyakorolja.
 
 (5) A Felügyelet elnökét annak akadályoztatása esetén az általa kijelölt alelnök helyettesíti, illetve az új elnök kinevezéséig a Felügyelet elnöke által a helyettesítésére kijelölt alelnök gyakorolja az elnök hatáskörét, ha az elnöki tisztség nincs betöltve.
 
@@ -245,25 +280,25 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (2) A Felügyelet elnöke megbízatásának megszűnését az (1) bekezdés a)–c) pontja esetén a miniszterelnök előterjesztésére a köztársasági elnök állapítja meg.
 
-(3) A Felügyelet alelnöke megbízatásának megszűnését az (1) bekezdés a)–c) pontja esetén Felügyelet elnökének előterjesztésére a miniszterelnök állapítja meg.
+(3) A Felügyelet alelnöke megbízatásának megszűnését az (1) bekezdés a)–c) pontja esetén a Felügyelet elnöke állapítja meg.
 
 (4) A Pénzügyi Békéltető Testület elnöke megbízatásának megszűnését az (1) bekezdés a)–c) pontja esetén a Felügyelet elnöke állapítja meg.
 
 16. § (1) A Felügyelet elnökének lemondását írásban, a miniszterelnök útján kell közölni a köztársasági elnökkel. Lemondás esetén a Felügyelet elnöke megbízatása megszűnésének időpontját a miniszterelnök javaslatára a köztársasági elnök határozza meg, az azonban nem lehet későbbi a lemondásnak a miniszterelnökhöz történő eljuttatását követő hatvanadik napnál.
 
-(2) A Felügyelet alelnökének lemondását írásban, a Felügyelet elnöke útján kell közölni a miniszterelnökkel. Lemondás esetén a Felügyelet alelnöke megbízatása megszűnésének időpontját a Felügyelet elnökének javaslatára a miniszterelnök határozza meg, az azonban nem lehet későbbi a lemondásnak a Felügyelet elnökéhez történő eljuttatását követő hatvanadik napnál.
+(2) A Felügyelet alelnökének lemondását írásban kell közölni a Felügyelet elnökével. Lemondás esetén a Felügyelet alelnöke megbízatása megszűnésének időpontját a Felügyelet elnöke határozza meg, az azonban nem lehet későbbi a lemondásnak a Felügyelet elnökéhez történő eljuttatását követő hatvanadik napnál.
 
 (3) A Pénzügyi Békéltető Testület elnökének lemondását írásban kell közölni a Felügyelet elnökével. Lemondás esetén a Pénzügyi Békéltető Testület elnöke megbízatása megszűnésének időpontját a Felügyelet elnöke határozza meg, az azonban nem lehet későbbi a lemondásnak a Felügyelet elnökéhez történő eljuttatását követő hatvanadik napnál.
 
 17. § (1) A Felügyelet elnökének összeférhetetlenségét a miniszterelnök előterjesztésére a köztársasági elnök mondja ki.
 
-(2) A Felügyelet alelnökének összeférhetetlenségét a Felügyelet elnökének előterjesztésére a miniszterelnök mondja ki.
+(2) A Felügyelet alelnökének összeférhetetlenségét a Felügyelet elnöke mondja ki.
 
 (3) A Pénzügyi Békéltető Testület elnökének összeférhetetlenségét a Felügyelet elnöke mondja ki.
 
 (4) Ha az összeférhetetlenség kimondását megelőzően az összeférhetetlenséget megalapozó körülmény megszűnik, az összeférhetetlenség kimondását mellőzni kell.
 
-18. § (1) A Felügyelet elnökét – a miniszterelnök előterjesztésére – a köztársasági elnök, a Felügyelet alelnökét – a Felügyelet elnökének előterjesztésére – a miniszterelnök, a Pénzügyi Békéltető Testület elnökét a Felügyelet elnöke
+18. § (1) A Felügyelet elnökét – a miniszterelnök előterjesztésére – a köztársasági elnök, a Felügyelet alelnökét a Felügyelet elnöke, a Pénzügyi Békéltető Testület elnökét a Felügyelet elnöke
 
 - a) felmenti, ha a közszolgálati jogviszony létesítéséhez szükséges, a köztisztviselők jogállásáról szóló törvényben meghatározott feltételeknek nem felel meg, vagy vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl, illetve
 - b) felmentheti, ha
@@ -274,7 +309,9 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (3) A Felügyelet elnöke összeférhetetlenségének kimondására vagy a felmentésére vonatkozó kezdeményezés a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően küldhető meg a köztársasági elnöknek. A köztársasági elnök határozatával szemben jogorvoslatnak vagy közszolgálati jogvita kezdeményezésének nincs helye.
 
-(4) A (2)–(3) bekezdésekben foglaltakat az alelnökök esetében is alkalmazni kell, azzal, hogy a miniszterelnök helyett a Felügyelet elnökét, a köztársasági elnök helyett a miniszterelnököt kell érteni.
+(4) A Felügyelet alelnöke összeférhetetlenségének kimondására vagy felmentésére vonatkozó kezdeményezést az összeférhetetlenség kimondását vagy a felmentést megelőzően meg kell küldeni a Felügyelet alelnöke részére, aki a közszolgálati jogvitára vonatkozó törvényi rendelkezések szerint öt munkanapon belül munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet a Felügyelet alelnöke a Felügyelet elnökének haladéktalanul megküldi.
+
+(4a) A Felügyelet alelnöke összeférhetetlenségének kimondására vagy felmentésére a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a kezdeményezés tekintetében meghozott bírósági döntés jogerőre emelkedését követően kerülhet sor. A Felügyelet elnökének határozatával szemben jogorvoslatnak vagy közszolgálati jogvita kezdeményezésének nincs helye.
 
 (5) A (2)–(3) bekezdésekben foglaltakat a Pénzügyi Békéltető Testület elnöke esetében is alkalmazni kell, azzal, hogy a bíróság által érkeztetett keresetlevelet, illetve a jogerős bírósági döntést a Felügyelet elnökének kell megküldeni.
 
@@ -291,6 +328,8 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 - a) nem létesíthet munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt olyan vállalkozással,
 - b) nem létesíthet rendszeres gazdasági kapcsolatot vállalkozás vezető tisztségviselőjeként vagy tulajdonosaként olyan vállalkozással,
 - c) nyilvánosan működő részvénytársaság kivételével nem szerezhet részesedést olyan vállalkozásban, amelynek jogát vagy jogos érdekét a Felügyelet döntése a megbízatás megszűnését megelőző három évben érintette.
+
+(5) A (4) bekezdésben foglaltakra figyelemmel a (2)–(3) bekezdés szerinti juttatás kizárólag társadalombiztosítási járulék, egészségbiztosítási hozzájárulás, valamint egészségbiztosítási és nyugdíjjárulék alapjául szolgáló jövedelem.
 
 21. § A Felügyelet elnöke:
 
@@ -537,7 +576,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 47. § (1) A bíróság a Felügyelet döntését – a 60. § (1) bekezdésében és a 70. § bekezdésében meghatározott kivétellel – megváltoztathatja.
 
-(2) A Felügyelet mulasztása esetén az ügyfél kérelmére a Fővárosi Bíróság kötelezi a Felügyeletet az eljárás lefolytatására.
+(2) A Felügyelet mulasztása esetén az ügyfél kérelmére a Fővárosi Törvényszék kötelezi a Felügyeletet az eljárás lefolytatására.
 
 ### A felügyeleti biztos
 
@@ -552,7 +591,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
   - ba) a 4. § a) pontjában foglalt törvényben meghatározott pénztárnál,
   - bb) a 4. § c) pontjában foglalt törvényben meghatározott hitelintézetnél vagy pénzügyi vállalkozásnál,
   - bc) a 4. § f) pontjában foglalt törvényben meghatározott pénztárnál,
-  - bd) a 4. § h) pontjában foglalt törvényben meghatározott befektetési alapkezelőnél, a kockázati tőkealap-kezelőnél, a tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, központi értéktárnál,
+  - bd) a 4. § h) és r) pontjában foglalt törvényben meghatározott befektetési alapkezelőnél, a kockázati tőkealap-kezelőnél, a tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, központi értéktárnál, szerzett vezetői gyakorlattal rendelkezik.
   - be) a 4. § i) pontjában foglalt törvényben meghatározott biztosítónál,
   - bf) a 4. § k) pontjában foglalt törvényben meghatározott foglalkoztatói nyugdíjszolgáltató intézménynél,
   - bg) a 4. § l) pontjában foglalt törvényben meghatározott befektetési vállalkozásnál,
@@ -817,9 +856,9 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 ### Piacfelügyeleti eljárás
 
-75. § (1) Felügyeleti engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealap-kezelési, központi értéktári, elszámolóházi, önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári, viszontbiztosítási, biztosítási, biztosítási szaktanácsadói, foglalkoztatói nyugdíjszolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység, illetve bennfentes kereskedelem vagy piacbefolyásolás észlelése esetén, valamint a vállalatfelvásárlásra vonatkozó szabályok (a továbbiakban: piacfelügyeleti rendelkezések) ellenőrzése céljából a Felügyelet ellenőrzési eljárást indít (a továbbiakban együtt: piacfelügyeleti eljárás).
+75. § (1) Felügyeleti engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealap-kezelési, központi értéktári, elszámolóházi, önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári, viszontbiztosítási, biztosítási, biztosítási szaktanácsadói, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység, illetve bennfentes kereskedelem vagy piacbefolyásolás észlelése esetén, továbbá a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok, valamint a vállalatfelvásárlásra vonatkozó szabályok (a továbbiakban: piacfelügyeleti rendelkezések) ellenőrzése céljából a Felügyelet ellenőrzési eljárást indít (a továbbiakban együtt: piacfelügyeleti eljárás).
 
-(2) Az engedély nélküli vagy bejelentés hiányában végzett tevékenység, a bennfentes kereskedelem, illetve piacbefolyásolás megállapítására irányuló eljárásban, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése során az ügyintézési határidő az eljárás hivatalból történő megindításának napjától számított hat hónap. Az ügyintézési határidő indokolt esetben, egy alkalommal, legfeljebb három hónappal meghosszabbítható.
+(2) Az engedély nélküli vagy bejelentés hiányában végzett tevékenység, a bennfentes kereskedelem, illetve piacbefolyásolás megállapítására, valamint a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzésére irányuló eljárásban, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése során az ügyintézési határidő az eljárás hivatalból történő megindításának napjától számított hat hónap. Az ügyintézési határidő indokolt esetben, egy alkalommal, legfeljebb három hónappal meghosszabbítható.
 
 (3) A Felügyelet – az ok és a cél megjelölésével megküldött – felhívására a 4. §-ban meghatározott szervezetek és személyek kötelesek az általuk kezelt, a piacfelügyeleti eljárás ügyfelére vonatkozó és az üggyel kapcsolatos
 
@@ -835,7 +874,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 - b) az ellenőrzést lezáró, de intézkedést nem tartalmazó határozat jogerőre emelkedéséig, intézkedést elrendelő határozat végrehajtásáig, illetőleg a végrehajthatóság elévüléséig,
 - c) ha a Felügyelet döntésének bírósági felülvizsgálatát kérték vagy a Felügyelet büntetőeljárást kezdeményez, akkor – ha rendkívüli jogorvoslattal nem éltek – a bírósági eljárás jogerős befejezéséig kezelheti, és ezt követően haladéktalanul, de legfeljebb két munkanapon belül megsemmisíti.
 
-76. § (1) A Felügyelet az engedély nélkül végzett tevékenység, bennfentes kereskedelem, illetve piacbefolyásolás megállapítására irányuló piacfelügyeleti eljárása során jogosult feladatának ellátása érdekében az eljárása alá vont ügyfélre vonatkozó,
+76. § (1) A Felügyelet az engedély nélkül végzett tevékenység, bennfentes kereskedelem, illetve piacbefolyásolás megállapítására, valamint a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzésére irányuló piacfelügyeleti eljárása során jogosult feladatának ellátása érdekében az eljárása alá vont ügyfélre vonatkozó,
 
 - a) az értékpapír-, ügyfél- és fizetési számla-forgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával, valamint
 - b) az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával és kezdő időpontjával kapcsolatos személyes adat (családi és utónév, születési név, lakóhely, tartózkodási hely) megismerésére és kezelésére.
@@ -864,7 +903,8 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 (4) Piacfelügyeleti eljárás során
 
 - a) az engedély nélkül vagy bejelentés hiányában végzett szolgáltatás esetén a piacfelügyeleti bírság összege százezer forinttól ötszázmillió forintig,
-- b) a bennfentes kereskedelemre, piacbefolyásolásra és a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a bírság összege százezer forinttól ötszázmillió forintig terjedhet.
+- b) a bennfentes kereskedelemre, piacbefolyásolásra és a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a bírság összege százezer forinttól ötszázmillió forintig
+- c) a bennfentes személyre vonatkozó bejelentési kötelezettség megsértése esetén a bírság összege százezer forinttól ötmillió forintig terjedhet.
 
 (5) A kiszabható piacfelügyeleti bírság felső határa a (4) bekezdés b) pontjától eltérően az elért árfolyamnyereség, illetőleg elkerült árfolyamveszteség négyszáz százaléka, amennyiben az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint a (4) bekezdés b) pontjában meghatározott bírságtétel felső határa.
 
@@ -873,6 +913,10 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 (7) Ha a Felügyelet a piacfelügyeleti rendelkezések megsértését ellenőrzési eljárás során észleli, akkor e rendelkezések megsértése miatt az (1)–(5) bekezdésekben meghatározott intézkedéseket alkalmazhatja.
 
 (8) Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 61. § (1) bekezdés a)–c) pontjaiban meghatározott esetkörök mellett piacfelügyeleti rendelkezések megsértése is megvalósult, a Felügyelet valamennyi jogsértésre egységes intézkedést is alkalmazhat, amely a 61–62. §-okban meghatározottakon kívül kiterjed az (1)–(5) bekezdésekben foglalt intézkedésekre is.
+
+(9) Ha a Felügyelet a 4. §-ban meghatározott szervezetekre és személyekre vonatkozó jogszabályi rendelkezések, vagy a felügyelet által hozott határozatban, vagy a 4. §-ban meghatározott szervezetek és személyek belső szabályzatában foglaltak megsértését piacfelügyeleti eljárás során észleli, akkor e rendelkezések megsértése miatt a 61. §-ban meghatározott intézkedéseket alkalmazhatja.
+
+(10) A piacfelügyeleti eljárás során az ellenőrzési eljárás szabályai – az 54. § (1) és (3)–(8) bekezdései, az 55. §, az 57. § és a 62. § kivételével – megfelelően alkalmazandóak.
 
 ### V. Fejezet — A PÉNZÜGYI BÉKÉLTETŐ TESTÜLET
 
@@ -1020,13 +1064,13 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (2) A kötelezést tartalmazó határozat, illetve ajánlás ellen fellebbezésnek nincs helye, annak hatályon kívül helyezése azonban kérhető a bíróságtól a (3) bekezdésben meghatározottak szerint.
 
-(3) A fél a kötelezést tartalmazó határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül keresettel annak hatályon kívül helyezését kérheti a Fővárosi Bíróságtól, ha
+(3) A fél a kötelezést tartalmazó határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül keresettel annak hatályon kívül helyezését kérheti a Fővárosi Törvényszéktől, ha
 
 - a) a tanács összetétele vagy eljárása nem felelt meg e törvény rendelkezéseinek,
 - b) a Pénzügyi Békéltető Testületnek nem volt hatásköre az eljárásra,
 - c) a kérelem meghallgatás nélküli elutasításának lett volna helye.
 
-(4) A 4. §-ban meghatározott szervezet vagy személy az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Bíróságtól, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
+(4) A 4. §-ban meghatározott szervezet vagy személy az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Törvényszéktől, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
 
 98. § (1) A pert a Pénzügyi Békéltető Testülettel szemben kell megindítani. A Pénzügyi Békéltető Testület e perben perbeli jogképességgel és cselekvőképességgel rendelkezik.
 
@@ -1119,7 +1163,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (2) A felügyeleti együttműködés keretében nyújtott, illetve szerzett egyedi adatok harmadik fél részére – ha az adattovábbítás egyéb feltételei fennállnak – az adatszolgáltató hatóság előzetes írásos hozzájárulása alapján továbbíthatóak.
 
-(3) A Felügyelet által kezelt adatok csak akkor adhatók ki külföldi pénzügyi felügyeleti hatóságnak, ha az megfelelő, a magyar szabályozással legalább egyenértékű jogi védelmet képes garantálni a részére nyújtott adatok kezeléséhez. Az Európai Gazdasági Térség államaiban pénzügyi felügyeleti feladatokat ellátó hatóságoknak történő adattovábbítást automatikusan úgy kell tekinteni, mintha a Magyar Köztársaság területén belüli és azzal egyenértékű jogi védelmet biztosító adattovábbításra kerülne sor.
+(3) A Felügyelet által kezelt adatok csak akkor adhatók ki külföldi pénzügyi felügyeleti hatóságnak, ha az megfelelő, a magyar szabályozással legalább egyenértékű jogi védelmet képes garantálni a részére nyújtott adatok kezeléséhez. Az Európai Gazdasági Térség államaiban pénzügyi felügyeleti feladatokat ellátó hatóságoknak történő adattovábbítást automatikusan úgy kell tekinteni, mintha Magyarország területén belüli és azzal egyenértékű jogi védelmet biztosító adattovábbításra kerülne sor.
 
 (4) A Felügyelet az e törvény, illetve a 4. § szerinti törvények alapján birtokába került személyes adatokat az adott személy utolsó, – a 4. § szerinti törvényekben meghatározott – engedélyezési, nyilvántartásba vételi kötelezettség alá eső jogviszonyának megszűnésétől számított legfeljebb öt évig kezelheti.
 
@@ -1218,6 +1262,12 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (6) 2011. január 1-jén már folyamatban lévő eljárásokra, és folyamatban lévő megismételt eljárásokra a 2010. december 31-én hatályos szabályokat kell alkalmazni.
 
+(7) Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló törvény (a továbbiakban: 1. módosító törvény) nem érinti a Felügyelet hivatalban lévő alelnökeinek megbízatását azzal, hogy az 1. módosító törvénnyel megállapított 13. § (4) bekezdését, 15. § (3) bekezdését, 16. § (2) bekezdését, 17. § (2) bekezdését, 18. § (1) bekezdését, valamint 18. § (4) és (4a) bekezdését a Felügyelet hivatalban lévő alelnökeire is alkalmazni kell.
+
+### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+119/A. § E törvény 1–4. §-a, 7. §-a, 13–35. §-a, 78–82. §-a, 113–115. §-a és 117. §-a az Alaptörvény 23. cikke és 42. cikke alapján sarkalatosnak minősül.
+
 ### Az Európai Unió jogának való megfelelés
 
 120. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
@@ -1230,7 +1280,11 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 - f) az Európai Parlament és a Tanács 2005/68/EK irányelve (2005. november 16.) a viszontbiztosításról és a 73/239/EGK, a 92/49/EGK tanácsi irányelv, valamint a 98/78/EK és a 2002/83/EK irányelv módosításáról,
 - g) az Európai Parlament és a Tanács 2006/48/EK irányelve (2006. június 14.) a hitelintézetek tevékenységének megkezdéséről és a folytatásáról (átdolgozott szöveg), 144. cikk [a 9. § (1) bek. e), f) és g) pontja és a 9. § (2)–(3) bek.],
 - h) az Európai Parlament és a Tanács 2006/49/EK irányelve (2006. június 14.) a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg), 37. cikk [a 9. § (1) bek. e), f) és g) pontja és a 9. § (2)–(3) bek.],
-- i) az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/111/EK irányelve a 2006/48/EK, a 2006/49/EK és a 2007/64/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke-elemek, nagykockázat-vállalások, felügyeleti szabályok és válságkezelés tekintetében történő módosításáról, 1. cikk [a 12. §].
+- i) az Európai Parlament és Tanács 2009/11/EK irányelve (2009. szeptember 16.) a 2006/48/EK, a 2006/49/EK és a 2006/74/EK irányelvnek a központi hitelintézetek kapcsolt bankjai, egyes szavatolótőke elemek, nagykockázat-vállalások, felügyeletei szabályok és válságkezelés tekintetében történő módosításáról, 1. cikk [a 12. §],
+- j) az Európai Parlament és Tanács 2009/65/EK irányelve (2010. július 13.) az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról (átdolgozás),
+- k) a Bizottság 2010/43/EK irányelve (2010. július 1.) a 2009/65/EK európai parlamenti és tanácsi irányelvnek a szervezeti követelmények, az összeférhetetlenség, az üzletvitel, a kockázatkezelés, valamint a letétkezelő és az alapkezelő társaság közötti megállapodás tartalma tekintetében történő végrehajtásáról,
+- l) a Bizottság 2010/44/EK irányelve (2010. július 1.) a 2009/65/EK európai parlamenti és tanácsi irányelvnek az alapok egyesülésére, a master-feeder struktúrákra és a bejelentési eljárásokra vonatkozó különös rendelkezései tekintetében történő végrehajtásáról,
+- m) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
 
 121. § (1) E törvény 5. §-ának (1) bekezdése, a 70. §-a, 71. § (1) bekezdés a)–c) pontja és a 73. §-a a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikke (1) és (6) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet feladatkörében és eljárásában.
 
@@ -1242,7 +1296,9 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 - b) (2) bekezdése a 2004/39/EK európai parlamenti és tanácsi rendeletnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló, 2006. augusztus 10-i 1287/2006/EK bizottsági rendelet,
 - c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
 - d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének,
-- e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet feladatkörében és eljárásában.
+- e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése,
+- f) (6) bekezdése a 2009/65/EK európai parlamenti és tanácsi irányelvnek a bejelentő levél és az ÁÉKBV-igazolás formája és tartalma, a bejelentés céljára az illetékes hatóságok közötti elektronikus kommunikáció használata, valamint a helyszíni ellenőrzésekre és vizsgálatokra és az illetékes hatóságok közötti információcserére vonatkozó eljárások tekintetében történő végrehajtásáról szóló, 2010. július 1-i 584/2010/EU bizottsági rendelet, valamint
+- g) a Bizottság 2010. július 1-i, 2009/65/EK európai parlamenti és tanácsi irányelvnek a kiemelt befektetői információk tekintetében, valamint a papírtól eltérő tartós adathordozón vagy weboldalon rendelkezésre bocsátott kiemelt befektetői információk vagy tájékoztató esetében teljesítendő különleges feltételek tekintetében történő végrehajtásáról szóló 583/2010/EU rendelet végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet feladatkörében és eljárásában.
 
 (4) A pénzügyi fogyasztói jogvita tekintetében
 

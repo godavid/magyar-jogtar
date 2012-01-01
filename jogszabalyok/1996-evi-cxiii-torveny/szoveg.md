@@ -8,7 +8,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 ### A törvény hatálya
 
-1. § E törvény rendelkezéseit kell alkalmazni a Magyar Köztársaság területén az e törvényben meghatározott lakástakarékpénztárak által folytatott tevékenységre, e tevékenység felügyeletére.
+1. § E törvény rendelkezéseit kell alkalmazni a lakástakarékpénztárak e törvényben meghatározott tevékenységére és annak felügyeletére.
 
 ### Fogalmak
 
@@ -144,7 +144,7 @@ törvényt alkot a lakástakarékpénztárakról.
 12. § (1) A lakás-takarékpénztár a 7. §-ban meghatározott szerződés szerinti betétgyűjtésen és hitelnyújtáson, valamint áthidaló kölcsön nyújtásán kívül kizárólag a következő tevékenységeket végezheti:
 
 - a) a lakás-takarékpénztár szavatoló tőkéjének összesen 10%-át meg nem haladó mértékig tulajdoni részesedést szerezhet a Hpt. szerinti járulékos vállalkozásokban,
-- b) a lakás-takarékpénztár a Felügyelet engedélyével – a (2) bekezdésben meghatározott feltételek teljesülése esetén – a szavatoló tőkéjének összesen 20%-át meg nem haladó mértékig tulajdoni részesedést szerezhet a Magyar Köztársaság területén székhellyel rendelkező lakás-takarékpénztárban, vagy olyan devizakülföldinek minősülő hitelintézetben, amelynek fő tevékenysége lakás-előtakarékossági szerződés alapján történő betétgyűjtés és hitelnyújtás,
+- b) a lakás-takarékpénztár a Felügyelet engedélyével – a (2) bekezdésben meghatározott feltételek teljesülése esetén – a szavatoló tőkéjének összesen 20%-át meg nem haladó mértékig tulajdoni részesedést szerezhet Magyarország területén székhellyel rendelkező lakás-takarékpénztárban, vagy olyan devizakülföldinek minősülő hitelintézetben, amelynek fő tevékenysége lakás-előtakarékossági szerződés alapján történő betétgyűjtés és hitelnyújtás,
 - c) lakáscélú finanszírozáshoz közvetlenül kapcsolódóan más pénzügyi intézmény, illetve biztosítóintézet részére pénzügyi szolgáltatás közvetítését (ügynöki tevékenységet) végezhet,
 - d) a 10. és a 11. §-ban meghatározott hitelnyújtáshoz kapcsolódóan ingatlanértékelési tevékenységet végezhet.
 
@@ -214,10 +214,10 @@ törvényt alkot a lakástakarékpénztárakról.
 
 21. § (1) A (2) bekezdésben meghatározott lakás-előtakarékoskodót, illetve a kedvezményezettet – legfeljebb az első tíz megtakarítási év során – a lakás-előtakarékoskodó által az adott megtakarítási évben befizetett betét összegéhez igazodó mértékben állami támogatás illeti meg, amelyet a lakás-előtakarékoskodónak a lakás-takarékpénztárnál – a szerződéskötéskor vagy később – benyújtott kérelme alapján a központi költségvetés évente nyújt. A lakás-előtakarékoskodó jogosult az állami támogatás iránti kérelmét a megtakarítási év utolsó napjáig a teljes megtakarítási évre vonatkozóan módosítani. Az állami támogatás igénylésének, folyósításának, elszámolásának és a felhasználás ellenőrzésének rendjét a kormány rendeletben határozza meg.
 
-(2) A lakás-előtakarékosság állami támogatására az a lakás-előtakarékoskodó jogosult, aki a Magyar Köztársaság területén lakóhellyel rendelkező
+(2) A lakás-előtakarékosság állami támogatására az a lakás-előtakarékoskodó jogosult, aki Magyarország területén lakóhellyel rendelkező
 
 - a) magyar állampolgár, vagy
-- b) a szabad mozgás és tartózkodás jogával rendelkező személy beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorló személy, vagy
+- b) a szabad mozgás és tartózkodás jogával rendelkező személy beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorló személy, vagy
 - c) bevándorolt, vagy letelepedett jogállású, vagy menekültként elismert személy.
 
 (3) Az állami támogatás feltétele, hogy a lakáselőtakarékoskodóval kötött szerződésben szereplő lakáskölcsön kamatának mértéke ne haladja meg a 10%-ot.
@@ -246,7 +246,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (2) Az állami támogatás összegének meghatározásánál nem minősül betétbefizetésnek az előző megtakarítási évben betétként elhelyezett összeg alapján a tárgyévben betétként jóváírt állami támogatás összege, a lakástakarékpénztár által a 7. § (8) bekezdése szerint fizetett késedelmi kamat, valamint az az összeg, amelyre mint lakáscélú megtakarításra korábban adókedvezményt vettek igénybe.
 
-24. § (1) Az állami támogatásra való jogosultságot elveszti a lakás-előtakarékoskodó, ha a megtakarítási ideje a betét felvételekor nem érte el a négy évet, vagy a támogatással és kamatokkal növelt betétjét nem a Magyar Köztársaság területén megvalósuló lakáscélra (e § alkalmazásában a továbbiakban: lakáscél) használja fel. Amennyiben a betét felvételekor a megtakarítási idő még nem érte el a négy évet, a lakástakarékpénztár a lakás-előtakarékoskodó betétszámlájáról levonja a jóváírt összes állami támogatást az arra jóváírt betéti kamattal, és a levont összeget átutalja a központi költségvetésnek.
+24. § (1) Az állami támogatásra való jogosultságot elveszti a lakás-előtakarékoskodó, ha a megtakarítási ideje a betét felvételekor nem érte el a négy évet, vagy a támogatással és kamatokkal növelt betétjét nem Magyarország területén megvalósuló lakáscélra (e § alkalmazásában a továbbiakban: lakáscél) használja fel. Amennyiben a betét felvételekor a megtakarítási idő még nem érte el a négy évet, a lakástakarékpénztár a lakás-előtakarékoskodó betétszámlájáról levonja a jóváírt összes állami támogatást az arra jóváírt betéti kamattal, és a levont összeget átutalja a központi költségvetésnek.
 
 (2) Ha a természetes személy lakáselőtakarékoskodó, illetőleg a kedvezményezett javára, vagy a nem természetes személy lakáselőtakarékoskodó által ugyanarra az épületre kötött szerződésre a szerződés(ek) módosításának, illetőleg átruházásának következtében ugyanazon naptári évben korábban több szerződés után jóváírták az állami támogatást, a lakáselőtakarékoskodót – saját választása alapján – csak az egyik szerződése után illeti meg az állami támogatás a 9. § (3) bekezdésében foglalt eltéréssel. A többi szerződés után jóváírt állami támogatást az arra jóváírt betéti kamattal együtt a lakástakarékpénztár a betétszámlá(k)ról levonja azokra az évekre vonatkozóan, amikor több szerződés után átutalták a támogatást, és a levont összeget átutalja a központi költségvetésnek.
 

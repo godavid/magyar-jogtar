@@ -57,9 +57,9 @@ Az Országgyűlés az államháztartás egyensúlyának javítása érdekében, 
 
 ### Eljárási rendelkezések
 
-8. § (1) Az adó alanya adókötelezettségét az adóévet követő év 150. napjáig állapítja meg és vallja be az e célra rendszeresített nyomtatványon az állami adóhatósághoz.
+8. § (1) Az adó alanya adókötelezettségét az adóév utolsó napját követő ötödik hónap utolsó napjáig állapítja meg és vallja be az e célra rendszeresített nyomtatványon az állami adóhatósághoz.
 
-(2) Az adóalany az adóévre – a (3) bekezdés a)–b) pontja szerinti esetben az adóév 150. napjáig, a (3) bekezdés c)–d) pontja szerinti esetben a 2. § szerinti tevékenység megkezdését követő 15 napon belül az erre a célra rendszeresített nyomtatványon – az állami adóhatósághoz adóelőleget köteles bevallani. Nem kell adóelőleget bevallani az előtársaságnak.
+(2) Az adóalany az adóévre – a (3) bekezdés a)–b) pontja szerinti esetben az adóév ötödik hónapjának utolsó napjáig, a (3) bekezdés c)–d) pontja szerinti esetben a 2. § szerinti tevékenység megkezdését követő 15 napon belül az erre a célra rendszeresített nyomtatványon – az állami adóhatósághoz adóelőleget köteles bevallani. Nem kell adóelőleget bevallani az előtársaságnak.
 
 (3) Az adóelőleg összege
 

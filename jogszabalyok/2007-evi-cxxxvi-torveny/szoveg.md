@@ -8,7 +8,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### A törvény hatálya
 
-1. § (1) E törvény hatálya – a (3)–(5) bekezdésben foglalt kivételekkel – kiterjed arra, aki a Magyar Köztársaság területén
+1. § (1) E törvény hatálya – a (3)–(5) bekezdésben foglalt kivételekkel – kiterjed arra, aki Magyarország területén
 
 - a) pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási tevékenységet folytat;
 - b) befektetési szolgáltatási tevékenységet folytat, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást nyújt;
@@ -43,7 +43,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 2. § A 22. § hatálya azon szolgáltatóra terjed ki, aki
 
 - a) az e törvény 1. § (1) bekezdés a)–b) és e) pontjában meghatározott tevékenységet folytat, és
-- b) a Magyar Köztársaság területén a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) 2. cikkének 7. pontja szerinti pénzátutalási szolgáltatást nyújt.
+- b) Magyarország területén a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) 2. cikkének 7. pontja szerinti pénzátutalási szolgáltatást nyújt.
 
 ### Értelmező rendelkezések
 
@@ -88,7 +88,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 - a) az államfő, a kormányfő, a miniszter, az államtitkár,
 - b) az országgyűlési képviselő,
-- c) a legfelsőbb bíróság, alkotmánybíróság és olyan bírói testület tagja, melynek ítélete ellen fellebbezésnek helye nincs,
+- c) a Kúria, alkotmánybíróság és olyan bírói testület tagja, melynek ítélete ellen fellebbezésnek helye nincs,
 - d) a számvevőszék elnöke, a számvevőszék testületének tagja, a központi bank igazgatóságának tagja,
 - e) a nagykövet, az ügyvivő és a fegyveres szervek hivatásos állományú, főtiszti vagy tábornoki rendfokozatú tagjai,
 - f) a többségi állami tulajdonú vállalkozás ügyviteli, igazgatási vagy felügyelő testületének tagja.
@@ -201,7 +201,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (4) Az 1. § (1) bekezdés a) pontjában meghatározott tevékenységet végző és fizetési számlanyitásra jogosult szolgáltató jogosult a fizetési számla megnyitására, feltéve hogy biztosítja, hogy az ügyfél és a tényleges tulajdonos személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél, a meghatalmazott, a rendelkezésre jogosult és a képviselő nem végezhet műveletet.
 
-(5) Az 1. § (1) bekezdés l) pontjában meghatározott tevékenységet végző szolgáltató jogosult az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) szerinti egyéni számla megnyitására, feltéve, hogy biztosítja, hogy az ügyfél és a tényleges tulajdonos személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél és a kedvezményezett nem részesülhet szolgáltatásban.
+(5) Az 1. § (1) bekezdés l) pontjában meghatározott tevékenységet végző szolgáltató jogosult az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) szerinti egyéni számla megnyitására, feltéve, ha biztosítja, hogy az ügyfél és a tényleges tulajdonos személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél és a kedvezményezett nem részesülhet szolgáltatásban. Az 1. § (1) bekezdés c) pontjában meghatározott foglalkoztatói nyugdíjszolgáltatási tevékenységet végző szolgáltató jogosult a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény (a továbbiakban: Fnyt.) szerinti tagi számla megnyitására, feltéve, ha biztosítja, hogy a tag, illetve a tényleges tulajdonos személyazonossága igazoló ellenőrzésének lefolytatásáig a tag, a járadékos és a kedvezményezett nem részesülhet szolgáltatásban.
 
 (6) Ha a szolgáltató nem tudja végrehajtani a 7–9. §-okban meghatározott ügyfél-átvilágítást, akkor az érintett ügyfélre vonatkozóan köteles megtagadni az ügyfél megbízása alapján fizetési számlán keresztül művelet végzését, üzleti kapcsolat létesítését és ügyleti megbízás teljesítését, vagy köteles megszüntetni a vele fennálló üzleti kapcsolatot.
 
@@ -273,14 +273,14 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### Más szolgáltató által elvégzett ügyfél-átvilágítási intézkedések
 
-18. § (1) A szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást – a készpénzátutalás és pénzváltási tevékenységet folytató szolgáltató kivételével – az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet a Magyar Köztársaság területén folytató szolgáltató végezte el.
+18. § (1) A szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást – a készpénzátutalás és pénzváltási tevékenységet folytató szolgáltató kivételével – az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet Magyarország területén folytató szolgáltató végezte el.
 
 (2) A szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást – a készpénzátutalás és pénzváltási tevékenységet folytató szolgáltató kivételével – az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott tevékenységet
 
 - a) az Európai Unió más tagállamában folytató szolgáltató végezte el, vagy
 - b) olyan harmadik országban folytató szolgáltató végezte el, amely megfelel a (6) bekezdésben és a 19. §-ban meghatározott követelményeknek.
 
-(3) Az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet folytató szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet a Magyar Köztársaság területén folytató szolgáltató végezte el.
+(3) Az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet folytató szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet Magyarország területén folytató szolgáltató végezte el.
 
 (4) Az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet folytató szolgáltató jogosult elfogadni a 7–9. §-okban meghatározott ügyfél-átvilágítás eredményét, ha az ügyfél-átvilágítást az 1. § (1) bekezdés g)–h) és m) pontjában meghatározott tevékenységet
 
@@ -329,7 +329,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (9) A Rendelet 4. cikkének (2) bekezdésében meghatározott „nemzeti azonosító szám” alatt a 7. § (2) bekezdése a) pontjának ad) alpontjában és a b) pontjának bc) alpontjában meghatározottak értendők.
 
-(10) A szolgáltató nem köteles alkalmazni a Rendelet előírásait az olyan, Magyar Köztársaságon belüli pénzátutalásokra, amelyek megfelelnek a Rendelet 3. cikk (6) bekezdésében meghatározott feltételeknek.
+(10) A szolgáltató nem köteles alkalmazni a Rendelet előírásait az olyan, Magyarországon belüli pénzátutalásokra, amelyek megfelelnek a Rendelet 3. cikk (6) bekezdésében meghatározott feltételeknek.
 
 ### A bejelentési kötelezettség
 
@@ -382,7 +382,7 @@ intézkedést.
 
 25. § Ha az 5. §-ban meghatározott felügyeletet ellátó szervnek hatósági ellenőrzése során a 23. § (1) bekezdésében meghatározott bejelentés alapjául szolgáló adat, tény vagy körülmény jut tudomására, arról haladéktalanul tájékoztatja a pénzügyi információs egységként működő hatóságot.
 
-26. § (1) A pénzügyi információs egységként működő hatóság az e törvény alapján tudomására jutott információt kizárólag a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint a terrorcselekmény [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 261. §], a jogosulatlan pénzügyi tevékenység (Btk. 298/D. §), a pénzmosás (Btk. 303–303/A. §), a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 303/B. §), az adócsalás (Btk. 310. §), a sikkasztás (Btk. 317. §), a csalás (Btk. 318. §) és a hűtlen kezelés (Btk. 319. §) bűncselekményének felderítése céljából használhatja fel, valamint továbbíthatja más nyomozó hatóság, az ügyész, a nemzetbiztonsági szolgálat vagy a külföldi pénzügyi információs egységként működő hatóság részére.
+26. § (1) A pénzügyi információs egységként működő hatóság az e törvény alapján tudomására jutott információt kizárólag a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint a terrorcselekmény [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 261. §], a jogosulatlan pénzügyi tevékenység (Btk. 298/D. §), a pénzmosás (Btk. 303–303/A. §), a pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 303/B. §), az költségvetési csalás (Btk. 310. §), a 2011. december 31-ig hatályban volt adócsalás, a sikkasztás (Btk. 317. §), a csalás (Btk. 318. §) és a hűtlen kezelés (Btk. 319. §) bűncselekményének felderítése céljából használhatja fel, valamint továbbíthatja más nyomozó hatóság, az ügyész, a nemzetbiztonsági szolgálat vagy a külföldi pénzügyi információs egységként működő hatóság részére.
 
 (2) A pénzügyi információs egységként működő hatóság az (1) bekezdés alapján továbbított információról adattovábbítási nyilvántartást köteles vezetni. Az adattovábbítási nyilvántartást az információ továbbításától számított öt évig meg kell őrizni.
 
@@ -476,7 +476,7 @@ intézkedést.
 
 34. § (1) Az 5. § a)–c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a felügyeleti tevékenység gyakorlása során biztosítja a szolgáltató e törvény rendelkezéseinek való megfelelését.
 
-(2) A felügyelet ellátása során az 5. § c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Psztv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény rendelkezései szerint jár el az e törvényben meghatározott eltérésekkel.
+(2) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Psztv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Magyar Nemzeti Bankról szóló törvény rendelkezései szerint jár el.
 
 (3) A felügyelet ellátása során az 5. § d) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: könyvvizsgálói törvény) rendelkezései szerint jár el.
 
@@ -494,12 +494,7 @@ intézkedést.
 
 (2)
 
-(3) Az 5. § c), f) és g) pontjaiban meghatározott felügyeletet ellátó szerv által kiszabott bírságokból származó bevétel kizárólag a következő célokra fordítható:
-
-- a) szakemberek képzése;
-- b) az 5. § c), f) és g) pontjaiban meghatározott felügyeleti tevékenységgel kapcsolatos tanulmányok készítésének és közzétételének támogatása;
-- c) a szolgáltató ügyfeleinek tájékoztatása;
-- d) a pénzügyi információs egységként működő hatóság munkatársainak – az e törvénnyel kapcsolatos speciális ismeretekre vonatkozó – továbbképzése.
+(3)
 
 (4) A szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet és a szolgáltató vezetője a szolgáltató javára sérti meg e törvény rendelkezéseit.
 

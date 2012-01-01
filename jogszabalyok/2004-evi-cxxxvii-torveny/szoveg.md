@@ -19,61 +19,61 @@ a következő törvényt alkotja:
 
 2. § E törvény alkalmazásában
 
-- a) műsorszámhoz kapcsolódó dokumentum: a műsorszám előállításához, bemutatásához szükséges dokumentum (1. melléklet), és a műsorszám azonosító adatait (2. melléklet) rögzítő dokumentum;
+- a) műsorszámhoz kapcsolódó dokumentum: a műsorszám előállításához, bemutatásához szükséges dokumentum (1. melléklet), és a műsorszámnak a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) elnökének rendelete szerinti azonosító adatait rögzítő dokumentum;
 - b) archiválás: a műsorszámnak az archívum gyűjteményében történő tartós rögzítése, amelynek során a műsorszámhoz hozzárendelik az előállítására és azonosítására vonatkozó információkat;
 - c) felújítás: az archivált példányok állagának – a külön jogszabályban meghatározott módon és feltételek mellett történő – javítása, eredeti állapotának helyreállítása, ideértve az archiválási célból történő másolatkészítést is;
-- d) audiovizuális kötelespéldány: a közszolgálati médiaszolgáltatók és az országos földfelszíni terjesztésű televíziós médiaszolgáltatók által nyilvánossághoz közvetített, e törvény hatálya alá tartozó műsorszám.
+- d) audiovizuális kötelespéldány: a közszolgálati médiaszolgáltatók és – az NMHH elnökének rendelete szerinti műsorszámok esetében – az országos földfelszíni terjesztésű televíziós médiaszolgáltatók által nyilvánossághoz közvetített, az e törvény hatálya alá tartozó műsorszám.
 
 ### II. Fejezet — A Nemzeti Audiovizuális Archívum
 
-3. § A Nemzeti Audiovizuális Archívum (a továbbiakban: NAVA) az e törvény hatálya alá tartozó műsorszámok gyűjtését, nyilvántartását, archiválását és külön jogszabályban meghatározott módon a nyilvánosság számára történő hozzáférhetővé tételét biztosító országos gyűjtőkörű közgyűjteménynek minősülő audiovizuális archívum.
+3. § A Nemzeti Audiovizuális Archívum (a továbbiakban: NAVA) az e törvény hatálya alá tartozó műsorszámok gyűjtését, nyilvántartását, archiválását és a nyilvánosság számára az NMHH elnökének rendeletében meghatározott módon történő hozzáférhetővé tételét biztosító, állami tulajdonban lévő országos gyűjtőkörű közgyűjteménynek minősülő audiovizuális archívum.
 
-4. §
+4. § (1) A NAVA-t az NMHH a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: Alap) keretei között működteti, a NAVA feletti törvényességi és szakmai felügyeletet az NMHH Médiatanácsa (a továbbiakban: Médiatanács) gyakorolja.
+
+(2) A NAVA kezelésének, fenntartásának, működtetésének és az Alap a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 100. § (3) bekezdése szerinti archívumával való integrációjának részletes szabályait – a Médiatanács jóváhagyásával – az Alap vezérigazgatója határozza meg a NAVA működési szabályzatában. Az Alap vezérigazgatója a NAVA működési szabályzatát az Alap honlapján közzéteszi.
+
+(3) A NAVÁ-t érintő jogok gyakorlása, érvényesítése és kötelezettségek teljesítése során harmadik személy felé az Alap vagy a keretei között működő szervezet jár el a NAVA működési szabályzata szerint.
+
+4/A. § (1) A NAVA-val összefüggő tulajdonosi jogok és kötelezettségek összességét – a NAVA Alap részére történt átadását követően – az Alap gyakorolja az Alap tulajdonosi joggyakorlására vonatkozó jogszabályoknak, így különösen az Mttv. 136. § (17) bekezdésében foglaltaknak megfelelően.
+
+(2) Az Alap az Mttv. 100. § (3) bekezdése szerinti archívuma keretei között gondoskodik a NAVA tárolásáról, megőrzéséről és jogszerű felhasználásáról.
+
+(3) A NAVA tekintetében alkalmazni kell az Mttv. 100. § (2), (5) és (7)–(10) bekezdését.
+
+4/B. § Ha az Alapban nem áll rendelkezéshez a működtetéshez szükséges forrás, a NAVA az audiovizuális kötelespéldányok gyűjtése és archiválása körébe nem tartozó – e törvény és az NMHH elnökének rendelete által meghatározott – feladatokat a Médiatanács 14. §-a szerinti határozatában megállapított módon látja el. A rendelkezésre álló forrást az Alap vezérigazgatója az Alap keretei között működő szervezet részére a feladatellátással arányosan átadhatja.
+
+4/C. § (1) Az Alap a NAVA-t érintő és az e törvényben nem szabályozott feladatok ellátására – ideértve a Magyar Nemzeti Digitális Archívum és Filmintézettel való együttműködésből eredő feladatokat is – a Médiatanács jóváhagyásával megállapodást köthet.
+
+(2) Az e törvényben nem szabályozott feladatellátás kizárólag a Médiatanács által jóváhagyott megállapodás szerint valósulhat meg. A megállapodásban rendelkezni kell más költségvetési szerv szerződő fél esetén a költségtérítésről, egyéb szerződő fél esetén megfelelő szolgáltatási díjról. Az így befolyó bevételeket az Alap köteles a NAVA feladataira fordítani.
 
 ### A NAVA feladatai
 
 5. § A NAVA alapszolgáltatásai körében biztosítja
 
-- a) az általa nyilvántartásba vett műsorszámok 2. mellékletben meghatározott azonosító adatairól történő folyamatos, mindenki számára hozzáférhető tájékoztatást, azzal, hogy a 2. melléklet 12. pontjában meghatározott adatok alapján az archívumból adatszolgáltatás nem teljesíthető;
+- a) az általa nyilvántartásba vett műsorszámoknak az NMHH elnökének rendeletében meghatározott azonosító adatairól történő folyamatos, mindenki számára hozzáférhető tájékoztatást;
 - b) az általa archivált műsorszámoknak a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) 38. §-ának (5) bekezdésében említett célból, a külön jogszabályban meghatározott módon a nyilvánosság számára történő hozzáférhetővé tételét.
 
-6. § A NAVA a médiaszolgáltatók adataira is kiterjedő módon országos nyilvántartást vezet
-
-- a) a kötelespéldányként szolgáltatott műsorszámok azonosító adatairól,
-- b) a rendelkezésére bocsátott egyéb műsorszámok azonosító adatairól,
-- c) a más archívumok által gyűjtött és őrzött műsorszámok azonosító adatairól, amennyiben azok rendelkezésére állnak.
+6. § A NAVA a médiaszolgáltatók adataira is kiterjedő módon az NMHH elnökének rendeletében meghatározottak szerinti országos nyilvántartást vezet az egyes műsorszámok azonosító adatairól.
 
 7. § (1) A NAVA gyűjti és archiválja az audiovizuális kötelespéldányokat.
 
-(2) A NAVA – annak érdekében, hogy megvalósuljon a kötelespéldány-szolgáltatás körén kívül eső műsorszámok nyilvántartása, megőrzése és felújítása – az Szjt. előírásainak megfelelően gyűjti és egyedi döntés alapján archiválja a rendelkezésére bocsátott, kötelespéldány-szolgáltatási kötelezettség alá nem tartozó műsorszámokat, különösen:
+(2) A NAVA – a kötelespéldány-szolgáltatás körén kívül eső műsorszámok nyilvántartásának, megőrzésének és felújításának megvalósítása érdekében – az Szjt.-nek megfelelően az NMHH elnökének rendelete szerint gyűjti és egyedi döntés alapján archiválja a rendelkezésére bocsátott, kötelespéldány-szolgáltatási kötelezettség alá nem tartozó műsorszámokat.
 
-- a) az e törvény hatálybalépése előtt nyilvánossághoz közvetített műsorszámokat;
-- b) azokat a műsorszámokat, amelyeket nem e törvény hatálya alá tartozó médiaszolgáltatók közvetítettek a nyilvánossághoz;
-- c) olyan audiovizuális műsorszámokat, amelyeket nem közvetítettek a nyilvánossághoz.
-
-(3) A NAVA rendszeresen és folyamatosan felújítja az általa archivált műsorszámokat.
+(3) A NAVA az NMHH elnökének rendelete szerint rendszeresen és folyamatosan felújítja az általa archivált műsorszámokat.
 
 (4) A NAVA által archiválási céllal rögzített műsorszámok az Szjt. 35. § (7) bekezdése szempontjából rendkívüli dokumentációs értékkel bíró rögzítésnek minősülnek.
 
-8. § Az 5–7. §-ban foglaltakon túlmenően a NAVA feladatai különösen:
+8. § A NAVA 5–7. §-ban nem szabályozott egyéb feladatait az NMHH elnökének rendelete határozza meg.
 
-- a) a tevékenységi körébe tartozó tudományos kutatások végzése;
-- b) a műsorszámok archiválására vonatkozó szabályzat megalkotása, ennek keretében a technikai előírások kidolgozása;
-- c) minőségi előírások kidolgozása a műsorszámok archiválása területén;
-- d) a szabad felhasználás körén kívül eső közhasznú szolgáltatások nyújtása a médiaszolgáltatókkal, az érintett közös jogkezelő szervezetekkel, szükség szerint az érintett egyéb jogosultakkal történő együttműködés alapján;
-- e) vállalkozási tevékenység keretében, ellenszolgáltatás fejében szolgáltatások nyújtása harmadik személyeknek, a médiaszolgáltatókkal, az érintett közös jogkezelő szervezetekkel, szükség szerint az érintett egyéb jogosultakkal kötött felhasználási (licencia) szerződések alapján;
-- f) nemzetközi és szakmai szervezetekkel való együttműködés;
-- g) a szerzői jogi védelem alá már nem tartozó állománya hálózati elérésének megteremtése.
-
-9. § Az e törvényben foglalt célok hatékony megvalósítása érdekében a NAVA – a kötelespéldány-szolgáltatásra vonatkozó kérdéseken túl – együttműködést kezdeményez a kötelespéldány-szolgáltatásra kötelezett médiaszolgáltatókkal, valamint más médiaszolgáltatókkal és archívumokkal, könyvtárakkal.
+9. § Az e törvényben foglalt célok hatékony megvalósítása érdekében a NAVA – a kötelespéldány-szolgáltatásra vonatkozó feladatokon túl – együttműködést kezdeményezhet a kötelespéldány-szolgáltatásra kötelezett médiaszolgáltatókkal, valamint más médiaszolgáltatókkal és archívumokkal, könyvtárakkal.
 
 ### A kötelespéldány-szolgáltatás
 
-10. § (1) Az e törvény hatálybalépését követően nyilvánossághoz közvetített audiovizuális kötelespéldányt és a 2. mellékletben meghatározott azonosító adatokat archiválási célra – a külön jogszabályban meghatározott formában – a NAVA rendelkezésére kell bocsátani.
+10. § (1) A nyilvánossághoz közvetített audiovizuális kötelespéldányt és az NMHH elnökének rendeletében meghatározott azonosító adatokat archiválási célra – az NMHH elnökének rendelete meghatározott formában – a NAVA rendelkezésére kell bocsátani.
 
-(2) Az audiovizuális kötelespéldányt a NAVA közvetlenül a műsorszórásból rögzíti. Ha ez technikai akadályok miatt vagy egyéb okból nem lehetséges, a műsorszámot a médiaszolgáltató a NAVA felszólítására legkésőbb 60 napon belül külön hordozón köteles rendelkezésre bocsátani.
+(2) Az audiovizuális kötelespéldányt a NAVA jogosult közvetlenül a műsorszórásból rögzíteni. Ha a NAVA a közvetlen rögzítés jogával nem élt, a médiaszolgáltató az Alap vagy a keretei között működő szervezet – a műsor vetítésétől számított 60 napon belül közölt – felhívására legkésőbb 60 napon belül a műsorszámot a az NMHH Elnökének rendelete szerinti hordozón és módon rendelkezésre bocsátja.
 
-(3) A műsorszámok 2. melléklet szerinti azonosító adatait a médiaszolgáltató köteles rendelkezésre bocsátani, a műsorszám nyilvánossághoz közvetítését követő három napon belül. Változatlan formában történő ismételt nyilvánossághoz közvetítés esetén csak az azonosító adatokban esetlegesen bekövetkezett változásokat kell közölni a kötelespéldány archívummal. A 2. melléklet 15. pontjában meghatározott személyes adatokat csak az érintettek előzetes, önkéntes és tájékozott hozzájárulása esetén lehet a NAVA rendelkezésére bocsátani.
+(3) A műsorszámok NMHH elnökének rendelete szerinti azonosító adatait a médiaszolgáltató a műsorszám nyilvánossághoz közvetítését követő három napon belül a NAVA rendelkezésére bocsátja. Változatlan formában történő ismételt nyilvánossághoz közvetítés esetén csak az azonosító adatokban bekövetkezett változásokat kell a kötelespéldány archívummal közölni.
 
 11. § A kiemelkedő jelentőségű és pótolhatatlan értékű műsorszám, vagy az azt tartalmazó hordozó megsemmisülésének, elveszésének, megrongálódásának, károsodásának veszélye esetén a műsorszámot tartalmazó hordozó birtokosát a NAVA felszólítja, hogy azt – archiválás céljából – 30 napon belül bocsássa rendelkezésre.
 
@@ -83,7 +83,7 @@ a következő törvényt alkotja:
 
 (2) A NAVA szolgáltatási szerződést köt a nála önkéntesen elhelyezett műsorszámokra és kapcsolódó dokumentumokra vonatkozó jogokról és kötelezettségekről, így különösen a felújítás részletszabályairól, a nyilvánosság számára történő hozzáférhetővé tételről és hasznosításról, a műsorszámok archívumból történő ideiglenes kiemeléséről, a műsorszámokban bekövetkezett károsodás miatt fennálló felelősségről és a helyreállítás feltételeiről.
 
-13. § A NAVA együttműködést kezdeményez más archívumokkal és – megállapodás vagy viszonosság alapján – más országok archívumaival, különösen az alábbi területeken:
+13. § A NAVA együttműködést kezdeményezhet más archívumokkal és – megállapodás vagy viszonosság alapján – más országok archívumaival, különösen az alábbi területeken:
 
 - a) információcsere műsorszámokról;
 - b) európai audiovizuális dokumentációs adatbázis felállítása;
@@ -93,28 +93,22 @@ a következő törvényt alkotja:
 - f) a szolgáltatási kötelezettség teljesítésének ellenőrzése;
 - g) a veszélyeztetett műsorszámok feltárása és archiválásuk kezdeményezése a NAVA-nál.
 
-### III. Fejezet — Az Audiovizuális Örökség Tanácsadó Testület
+13/A. § A NAVA az Alap Mttv. 100. § (3) bekezdése szerinti archívumával az Alap vezérigazgatója által meghatározott, a Médiatanács által jóváhagyott integrált rendszerben működik.
 
-14. § (1) A NAVA-t az e törvényben meghatározott feladatok ellátásában az Audiovizuális Örökség Tanácsadó Testület (a továbbiakban: Testület) segíti.
+### III. Fejezet — A Médiatanács feladatai
 
-(2) A Testület feladatai különösen:
+14. § (1) A Médiatanács törvényességi és szakmai felügyeletet gyakorol a NAVA működtetése felett.
 
-- a) javaslatot tesz az audiovizuális kulturális örökség megőrzésére, így különösen a műsorszámok védelmét szolgáló szakmai programokra, továbbá – a kötelespéldányok körén kívül – a műsorszámok gyűjtendő körének meghatározására (bővítésére, szűkítésére);
-- b) javaslatot tesz a 7. § (2) bekezdésében meghatározott műsorszámok archiválására;
-- c) javaslatot tesz a kiemelkedő jelentőségűnek vagy pótolhatatlannak minősülő műsorszámok körére;
-- d) közreműködik az audiovizuális kulturális örökség védelmére irányuló nemzetközi együttműködésben;
-- e) évente jelentést tesz közzé az audiovizuális kulturális örökség védelmének helyzetéről;
-- f) véleményt nyilvánít a NAVA gyűjteményének nyilvánosság számára történő hozzáférhetővé tételét érintő kérdésekben.
+(2) Az Mttv. 136. § (6) bekezdésére tekintettel, ha az Alap nem rendelkezik a NAVA működtetéséhez szükséges megfelelő forrással a Médiatanács határozatában – kizárólag a korlátozásra okot adó körülmény megszűnéséig – ideiglenesen korlátozhatja a NAVA működését a 4/B. § szerint. Az Alap vezérigazgatója jogosult e körben a Médiatanács döntését kezdeményezni, illetve előterjesztést tenni.
 
-15. § (1) A Testület tizenegy – az audiovizuális örökség védelme és a szerzői jog területén szakértelemmel rendelkező, független – tagból áll. A Testület tagjait a miniszter bízza meg.
+(3) A Médiatanács
 
-(2) A Testületbe egy-egy tagot a miniszter, a kultúráért felelős miniszter, az igazságügyért felelős miniszter, a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa és a Szellemi Tulajdon Nemzeti Hivatala delegál. Öt tag személyére a kötelespéldány-szolgáltatásra kötelezett médiaszolgáltatók, egy tag személyére a gyűjtemény hozzáférhetőségét biztosító intézmények képviseletében a kultúráért felelős miniszter tesz javaslatot.
+- a) dönt az audiovizuális kulturális örökség megőrzését, így különösen a műsorszámok védelmét szolgáló szakmai programokról, továbbá – a kötelespéldányok körén kívül – a műsorszámok gyűjtendő körének meghatározásáról (bővítéséről, szűkítéséről);
+- b) közreműködik az audiovizuális kulturális örökség védelmére irányuló nemzetközi együttműködésben;
+- c) évente jelentést tesz közzé az audiovizuális kulturális örökség védelmének helyzetéről;
+- d) véleményt nyilvánít a NAVA gyűjteményének nyilvánosság számára történő hozzáférhetővé tételét érintő kérdésben.
 
-(3) A Testület tagjainak megbízatása ötéves időtartamra szól, amely további öt évre meghosszabbítható.
-
-16. § (1) A Testület a miniszter által jóváhagyott Ügyrend szerint működik. A Testület döntéseit egyszerű szótöbbséggel hozza, szavazategyenlőség esetén az elnök szavazata dönt.
-
-(2) A Testület elnökét a tagok maguk közül választják.
+15–16. §
 
 ### IV. Fejezet — Záró rendelkezések
 
@@ -124,10 +118,42 @@ a következő törvényt alkotja:
 
 ### Felhatalmazások
 
-18. § Felhatalmazást kap a miniszter, hogy a kultúráért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg:
+18. § Felhatalmazást kap az NMHH Elnöke, hogy rendeletben határozza meg
 
-- a) az audiovizuális kötelespéldányok szolgáltatásának részletes szabályait,
-- b) a műsorszámok felújításának, valamint szolgáltatásának műszaki, minőségi és egyéb követelményeit.
+- a) az országos földfelszíni terjesztésű televíziós médiaszolgáltatók által nyilvánossághoz közvetített, az e törvény hatálya alá tartozó műsorszámok közül az audiovizuális kötelespéldányok körét, valamint az audiovizuális kötelespéldányok szolgáltatásának részletes szabályait;
+- b) a műsorszámok felújításának, valamint szolgáltatásának műszaki, minőségi és egyéb követelményeit;
+- c) a NAVA részére történő kötelező adatszolgáltatás körét, módját, az adatok nyilvánosságra hozatalának szabályait;
+- d) a NAVA-hoz kapcsolódó országos nyilvántartás adattartalmát, vezetésének, nyilvánosságának szabályait;
+- e) a kötelespéldány-szolgáltatási kötelezettség alá nem tartozó műsorszámok gyűjtésének és archiválásának módját és szabályait;
+- f) a NAVA által ellátandó egyéb közszolgáltatásokat, feladatokat.
+
+### Átmeneti rendelkezések
+
+19. § (1) A NAVA-t mint országos közgyűjteményt – ide nem értve a (2) bekezdés szerinti vagyont – a Magyar Nemzeti Vagyonkezelő Zrt. nemzeti vagyonként nyilvántartásba veszi, és a tulajdonosi jogok gyakorlását a NAVA-hoz mint országos közgyűjteményhez tartozó vagyonelemek tételes nyilvántartásával e bekezdés hatálybalépését követő 60 napon belül átadja az Alapnak azzal, hogy az Alap az e bekezdés hatálybalépésétől jogosult a NAVA-hoz mint országos közgyűjteményhez kapcsolódó tulajdonosi jogokat gyakorolni, illetve az Mttv.-ben és az e törvényben foglalt célok keretében és érdekében működtetni a NAVA-t. A Magyar Nemzeti Vagyonkezelő Zrt. az átadással egyidejűleg, az törvényhelyre való hivatkozással kivezeti a NAVA-t mint országos közgyűjteményt a nyilvántartásából.
+
+(2) A NAVA működtetés céljára nyújtott állami támogatásból a Neumann János Digitális Könyvtár és Multimédia Központ Nonprofit Kft.-nél (a továbbiakban: Társaság) keletkezett, a NAVA megfelelő színvonalon történő működtetését szolgáló, az (1) bekezdés hatálya alá nem tartozó vagyon, ideértve a NAVA működtetéséhez kapcsolódó vagyoni jogokat és követeléseket is, az e bekezdés hatálybalépésével teljes egészében és térítésmentesen állami tulajdonba kerül. E vagyon tekintetében a tulajdonosi jogok és kötelezettségek összességét az e bekezdés hatálybalépésétől az Alap gyakorolja az Alap tulajdonosi joggyakorlására vonatkozó jogszabályok, így különösen az Mttv. 136. § (17) bekezdés szerint.
+
+(3) Nem minősül a (2) bekezdés szerinti vagyonátadásnak az általános forgalmi adóról szóló törvény hatálya alá tartozó ellenérték fejében teljesített termékértékesítés.
+
+(4) A (2) bekezdés alapján vagyonnak a számvitelről szóló 2000. évi C. törvény szerinti bekerülési értéke megegyezik a vagyonnak az átadás időpontjában a Társaság által vezetett könyv szerinti értékével.
+
+(5) A (2) bekezdés szerint átadott vagyon kizárólag a NAVA e törvény és az NMHH elnökének rendelete szerinti feladatainak, illetve az Alap Mttv. 100. § szerinti Archívumával összefüggő feladatok teljesítéséhez használható fel.
+
+(6) A (2) bekezdés szerint átadott vagyont, vagy annak egy részét, az ahhoz fűződő egyes jogosultságokat illetve kötelezettségeket az Alap vezérigazgatója az Alap keretei között működő, a NAVA működtetését végző szervezet részére a (4) szerinti feltételekkel átadhatja. E törvény alkalmazásában az Alap keretei között működő szervezetnek minősül az Alap kizárólagos tulajdonában álló gazdálkodó szervezet.
+
+(7) A (2) bekezdés szerinti vagyonátadás adómentes.
+
+20. § (1) Az Alap jogosult a NAVA működtetését az Alap keretei között működő szervezet útján ellátni. Az Alap vagy az Alap keretei között a NAVA működtetését végző szervezet a NAVA fenntartásával, működtetésével közvetlenül összefüggő polgári jogi és munkajogi jogviszonyokban a Társaság jogutódjának minősül. A jogutód személyéről az Alap vezérigazgatója írásban értesíti az érintetteket.
+
+(2) A Társaság e rendelkezés hatálybalépése előtt létrejött, a NAVA működtetésével összefüggő szerződéses jogviszonyaiból eredő jogok és kötelezettségek a maguk egészében és változatlan feltételekkel szállnak át a (3) bekezdés szerinti jogutódra. Az alanyváltozás nem érinti a szerződő felek eredeti jogait és kötelezettségeit. Erre tekintettel a szerződéses jogviszonyokban megvalósuló alanyváltozás tekintetében a közbeszerzésekről szóló törvény szerződésmódosításra vonatkozó szabályai nem alkalmazandók.
+
+(3) A vagyonátadás során a Társaságot terhelő, már teljesített szerződésekhez, a Társaságot terhelő, már teljesített kötelezettségvállalásokhoz kapcsolódó, el nem évült mellékkövetelések továbbra is a Társaságot terhelik. Ilyen jellegű igények az Alappal, illetve az NAVA működtetését végző, az Alap keretei között működő szervezettel szemben nem érvényesíthetők.
+
+21. § Az NMHH elnökének e törvény felhatalmazása alapján megalkotott rendelete hatálybalépéséig az azonos tárgykörben alkotott miniszteri rendeletet kell alkalmazni.
+
+Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+22. § E törvény III. Fejezetének A Médiatanács feladatai alcíme az Alaptörvény IX. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2004. évi CXXXVII. törvényhez
 
@@ -141,94 +167,3 @@ a következő törvényt alkotja:
 | egyéb (pl. kritika, műismertető, filmográfia, forgatókönyvek, fotók) |  |
 
 ### 2. melléklet a 2004. évi CXXXVII. törvényhez
-
-#### I. KÖTELEZŐ ADATSZOLGÁLTATÁS
-
-A törvény 10. §-ának (1) bekezdése alapján a kötelespéldány-szolgáltatással egyidejűleg a szolgáltató a következő adatokat köteles eljuttatni a sugárzást követő három napon belül:
-
-|  | A műsorszám adatai | Meghatározás* |
-| --- | --- | --- |
-|  |  |  |
-| 1. | Cím | A műsorszámban szereplő szó, kifejezés vagy egyéb jelcsoport, amely a műsorszám megnevezésére szolgál |
-|  |  |  |
-| 2. | Sorozatcím | A sorozat keretében megjelent műsorszámoknak a sorozatra vonatkozó főcíme |
-|  |  |  |
-| 3. | Eredeti cím | A műsorszám eredeti nyelvű első kiadásának címe |
-|  |  |  |
-| 4. | Kiadó | Az a természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki/amely anyagi és/vagy irányítási, igazgatási felelősséget vállal a műsorszám nyilvánossághoz közvetítéséért |
-|  |  |  |
-| 5. | Nyilvánosságra hozó (médiaszolgáltató) csatorna megnevezése |  |
-|  |  |  |
-| 6. | Nyelv | A műsorszámban előforduló szövegek nyelve |
-|  |  |  |
-| 7. | Adásnap | Az a naptári nap, amikor adott adásmenet alapján a nyilvánossághoz közvetítik a műsorszámot |
-|  |  |  |
-| 8. | A műsorszám sugárzásának időpontja (óra, perc) |  |
-|  |  |  |
-| 9. | Adásidő | Az adáshossz |
-|  |  |  |
-| 10. | Műfaj (típus) | A műsorszám típusát, műfaját, általánosabb sajátosságait jelölő kifejezés vagy besorolási szám (EBU–TV) |
-|  |  |  |
-| 11. | Létrehozó/alkotó | Az a természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki/amely a műsorszám vagy annak fő része tartalmának alkotója, aki/amely a tartalomért felelős |
-| 11*1 | Író, költő |  |
-| 11*2 | Műfordító |  |
-| 11*3 | Forgatókönyvíró |  |
-| 11*4 | Szövegíró (R) |  |
-| 11*5 | Publicista (R) |  |
-| 11*6 | Fordító |  |
-| 11*7 | Dramaturg |  |
-| 11*8 | Rendező |  |
-| 11*9 | Zeneszerző |  |
-| 11*10 | Zenei rendező (R) |  |
-| 11*11 | Felelős szerkesztő |  |
-| 11*12 | Operatőr (TV) |  |
-| 11*13 | Híradó blokk operatőre (TV) |  |
-| 11*14 | Díszlettervező (TV) |  |
-| 11*15 | Bábtervező (TV) |  |
-| 11*16 | Jelmeztervező (TV) |  |
-| 11*17 | Animátor (TV) |  |
-| 11*18 | Koreográfus (TV) |  |
-| 11*19 | Átdolgozó (R) |  |
-| 11*20 | Feldolgozó (R) |  |
-| 11*21 | Hangszerelő (R) |  |
-| 11*22 | Összeállító (R) |  |
-| 11*23 | Hírszerkesztő (R) |  |
-| 11*24 | Híradó blokk riportere (TV) |  |
-| 11*25 | Riporter |  |
-| 11*26 | Rádióra alkalmazó (R) |  |
-| 11*27 | Tudósító |  |
-| 11*28 | Műsorvezető |  |
-| 11*29 | Producer (TV) | Az a személy vagy testület, aki vagy amely a műsorszám létrehozásáért anyagi felelősséget vállal, és magát producerként nevezi meg |
-| 11*30 | Szerkesztő |  |
-| 11*31 | Előadó |  |
-| 11*32 | Színész |  |
-|  |  |  |
-| 12. | Közreműködő | Az a természetes vagy jogi személy, aki/amely a műsorszám szellemi tartalmának létrehozásában részt vesz, és a létrehozóhoz képest alárendelt, illetve járulékos szerepet tölt be, illetve aki/amely a műsorszám valamely járulékos részének létrehozója |
-| 12*1 | Vágó (TV) |  |
-| 12*2 | Főgyártásvezető (TV) |  |
-| 12*3 | Gyártásvezető (TV) |  |
-| 12*4 | Műsorszervező (R) |  |
-| 12*5 | Zenei szerkesztő |  |
-| 12*6 | Zenei munkatárs (R) |  |
-|  |  | * Az NDA terminológiai meghatározása |
-|  |  | ** Reklámok esetében a fenti adatszolgáltatás nem kötelező. |
-
-#### II. ÖNKÉNTES ADATSZOLGÁLTATÁS
-
-Nem kötelező az adatszolgáltatás az alább felsoroltakra, de a médiaszolgáltatónál meglévő adatot a NAVA befogadja:
-
-|  | A műsorszám adatai | Meghatározás* |
-| --- | --- | --- |
-|  |  |  |
-| 12. | Közreműködő: |  |
-|  | Hangmérnök |  |
-|  | Műszaki vezető |  |
-|  | Fővilágosító |  |
-|  |  |  |
-| 13. | Tartalom, cselekmény leírása |  |
-|  |  |  |
-| 14. | A felvételi helyszínek leírása |  |
-|  |  |  |
-| 15. | Riportalany/ok |  |
-|  |  |  |
-| 16. | Kapcsolat | Hivatkozás egy kapcsolódó forrásra, kapcsolat más műsorszámokkal |

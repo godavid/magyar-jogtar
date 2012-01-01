@@ -19,7 +19,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (5) Az országos szervezet székhelye: Budapest.
 
-(6) Az országos szervezet jogosult a Magyar Köztársaság címerének használatára.
+(6)
 
 (7) A ,,vadászkamara'' elnevezés használatára, valamint az e törvényben írt közfeladat ellátására kizárólag a kamara jogosult.
 

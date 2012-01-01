@@ -6,7 +6,7 @@ a házasságról, a családról és a gyámságról
 
 [A vastag betűs szedés az 1952. évi IV. törvény (Csjt.), a normál betűs vastag § jeles, [] jelekkel határolt szedés a 12/1995. (VI. 22.) IM rendeletnek az 1952. évi IV. törvényhez kapcsolódó szövege.]
 
-Csjt. 1. § (1) A házasságról, a családról és a gyámságról szóló törvénynek az a célja, hogy a Magyar Köztársaság Alkotmányának megfelelően szabályozza és védje a házasság és a család intézményét, biztosítsa a házasságban és a családi életben a házastársak egyenjogúságát, fokozza a gyermekekért való felelősséget és előmozdítsa az ifjúság fejlődését és nevelését.
+Csjt. 1. § (1) A házasságról, a családról és a gyámságról szóló törvénynek az a célja, hogy az Alaptörvénynek megfelelően szabályozza és védje a házasság és a család intézményét, biztosítsa a házasságban és a családi életben a házastársak egyenjogúságát, fokozza a gyermekekért való felelősséget és előmozdítsa az ifjúság fejlődését és nevelését.
 
 (2) E törvény alkalmazása során mindenkor a kiskorú gyermek érdekére figyelemmel, jogait biztosítva kell eljárni.
 
@@ -774,9 +774,11 @@ Csjt. 96. § (1) Nevezett gyám nemlétében a gyámhatóság elsősorban a gyá
 
 (2) Azt a személyt,
 
-- a) akinél a gyámhivatal a gyermeket ideiglenes hatállyal elhelyezte [91. § (2) bek.];
+- a) akinél a gyámhivatal a gyermeket ideiglenes hatállyal elhelyezte [91. § (2) bek.],
 - b) akinél a bíróság a gyermeket elhelyezte [72/A. § (1) bek.],
-- c) aki a gyermeket a gyámhatóság hozzájárulásával családba fogadta a gyermek gyámjául kell rendelni.
+- c) aki a gyermeket a gyámhatóság hozzájárulásával családba fogadta a gyermek gyámjául, családbafogadó gyámjául kell rendelni.
+
+(3) A gyámhatóság családbafogadó gyámként rendeli ki a (2) bekezdés a)–c) pontjában meghatározott személyt, kivéve, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el.
 
 Csjt. 97. § (1) A gyámhatóság rendszerint minden kiskorú részére külön gyámot rendel.
 

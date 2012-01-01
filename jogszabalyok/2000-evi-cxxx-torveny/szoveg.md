@@ -12,7 +12,7 @@ A törvények tükrözik a jogalkotó értékrendjét. Az Országgyűlés koráb
 
 - a) az eljárás – a terhelt halála után hozzátartozójának (Btk. 137. § 6. pont) indítványára is megindul;
 - b) az a) pont esetében a bíróság határozata ellen a hozzátartozó is fellebbezhet;
-- c) a Legfelsőbb Bíróságnak az igazolást megtagadó határozata ellen fellebbezésnek nincs helye;
+- c) a Kúriának az igazolást megtagadó határozata ellen fellebbezésnek nincs helye;
 - d) Be. 356. § (2) bekezdésének d) pontjában foglalt eljárás megszüntetési ok nem alkalmazható;
 - e) a bűnügyi költséget az állam viseli.
 

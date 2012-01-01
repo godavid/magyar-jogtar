@@ -4,7 +4,7 @@ a jogellenesen kivitt kulturális javak visszaszolgáltatásáról
 
 ### A törvény hatálya
 
-1. § E törvény hatálya kiterjed az Európai Gazdasági Térség valamely tagállamának (a továbbiakban: tagállam) területéről jogellenesen kivitt és a Magyar Köztársaság területén lévő kulturális javak visszaszolgáltatására, valamint az ezzel kapcsolatos eljárási rendre.
+1. § E törvény hatálya kiterjed az Európai Gazdasági Térség valamely tagállamának (a továbbiakban: tagállam) területéről jogellenesen kivitt és Magyarország területén lévő kulturális javak visszaszolgáltatására, valamint az ezzel kapcsolatos eljárási rendre.
 
 ### Értelmező rendelkezések
 
@@ -14,7 +14,7 @@ a jogellenesen kivitt kulturális javak visszaszolgáltatásáról
   - a) azok a javak, melyeket a tagállam területéről történő jogellenes kivitel előtt vagy azt követően nemzeti jogszabály vagy államigazgatási eljárás keretében hozott hatósági határozat az Európai Közösséget létrehozó szerződés 30. (ex. 36.) Cikke szerinti ,,művészi, történelmi vagy régészeti értéket képviselő nemzeti kincsek'' közé sorol, és
   - b) amelyek a melléklet szerinti kategóriák valamelyikébe tartoznak, vagy egyik ilyen kategóriába sem tartoznak, de szerves részét képezik: – muzeális intézmények, levéltárak, valamint könyvtárak megőrzendő állományi leltárában szereplő közgyűjteménynek, – egyházi intézmények leltárának;
 - 2. közgyűjtemény: az a gyűjtemény, mely a tagállam, annak helyi vagy regionális hatósága, illetve olyan intézmény tulajdonát képezi, mely a tagállam területén található és a tagállam jogszabálya szerint közintézménynek minősül, továbbá a tagállam, illetve egy helyi vagy regionális hatóság tulajdona, vagy finanszírozását jelentős mértékben azok biztosítják;
-- 3. jogellenes kivitel: a kulturális javaknak a tagállam területéről a kulturális javak védelméről szóló tagállami jogszabályok vagy a kulturális javak kiviteléről szóló 3911/92/EGK tanácsi rendelet megsértésével történt kivitele, illetve a jogszerű ideiglenes kivitelre vonatkozó feltételek megszegéséből adódó jogsértés is;
+- 3. jogellenes kivitel: a kulturális javaknak a tagállam területéről a kulturális javak védelméről szóló tagállami jogszabályok vagy a kulturális javak kiviteléről szóló 116/2009/EK tanácsi rendelet megsértésével történt kivitele, illetve a jogszerű ideiglenes kivitelre vonatkozó feltételek megszegéséből adódó jogsértés is;
 - 4. kérelmező állam: az a tagállam, amelynek területéről a kulturális javakat jogellenesen kivitték;
 - 5. kérelmezett állam: az a tagállam, amelynek területén egy másik tagállam területéről jogellenesen kivitt kulturális javak megtalálhatóak;
 - 6. visszaszolgáltatás: a kulturális javak visszaszállítása a kérelmező állam területére.
@@ -56,9 +56,9 @@ eltelt.
 
 ### Eljárási szabályok
 
-6. § (1) A kérelmező állam a területéről jogellenesen kivitt kulturális javak visszaszolgáltatását igényelheti, ha az adott tárgy a Magyar Köztársaság területén van. E joga érvényesítése iránti keresetet a tárgyat ténylegesen birtokában tartó személy ellen kell megindítani, tekintet nélkül arra, hogy az adott személy azt a saját nevében vagy harmadik személy nevében tartja magánál.
+6. § (1) A kérelmező állam a területéről jogellenesen kivitt kulturális javak visszaszolgáltatását igényelheti, ha az adott tárgy Magyarország területén van. E joga érvényesítése iránti keresetet a tárgyat ténylegesen birtokában tartó személy ellen kell megindítani, tekintet nélkül arra, hogy az adott személy azt a saját nevében vagy harmadik személy nevében tartja magánál.
 
-(2) A bírósági eljárás lefolytatása a Fővárosi Bíróság hatáskörébe és kizárólagos illetékességébe tartozik.
+(2) A bírósági eljárás lefolytatása a Fővárosi Törvényszék hatáskörébe és kizárólagos illetékességébe tartozik.
 
 (3) A kérelmező állam nevében a perindításra a tagállamok által a tagállamok területéről jogellenesen kivitt kulturális tárgyak visszaszolgáltatásáról szóló 93/7/EGK tanácsi irányelv 3. Cikke alapján kijelölt, és az Európai Bizottság által az Európai Unió Hivatalos Lapjában közzétett listán szereplő központi szerv jogosult.
 
@@ -70,12 +70,12 @@ eltelt.
 
 ### A központi szerv és feladatai
 
-7. § (1) A kulturális javak visszaszolgáltatásával kapcsolatos állami feladatokat – a Magyar Köztársaság központi szerveként – a kulturális örökségvédelmi hatóság (a továbbiakban: hatóság) látja el.
+7. § (1) A kulturális javak visszaszolgáltatásával kapcsolatos állami feladatokat – Magyarország központi szerveként – a kulturális örökségvédelmi hatóság (a továbbiakban: hatóság) látja el.
 
 (2) Az (1) bekezdésben meghatározott jogkörében eljárva a hatóság a Magyar Állam képviseletében fellép a jogellenesen kivitt kulturális javak visszaszolgáltatása érdekében, együttműködik más tagállamok központi szerveivel, és előmozdítja a velük történő egyeztetést, így különösen
 
 - a) a kérelmező állam – a kutatás elősegítéséhez szükséges valamennyi információt, így különösen a tárgy tényleges vagy vélhető feltalálási helyét tartalmazó – kérelme alapján felkutatja a jogellenesen kivitt kulturális javakat és azonosítja annak birtokosát,
-- b) értesíti az érintett tagállamokat, ha alapos a gyanú, hogy olyan kulturális javak találhatóak a Magyar Köztársaság területén, amelyeket jogellenesen juttattak ki másik tagállam területéről,
+- b) értesíti az érintett tagállamokat, ha alapos a gyanú, hogy olyan kulturális javak találhatóak Magyarország területén, amelyeket jogellenesen juttattak ki másik tagállam területéről,
 - c) a b) pontban való értesítéstől számított két hónapon belül lehetővé teszi a kérelmező állam központi szerve számára annak ellenőrzését, hogy a kérdéses tárgyak kulturális javaknak minősülnek-e,
 - d) az érintett tagállamok központi szerveivel együttműködve és azok költségére megteszi a szükséges intézkedéseket a kulturális javak állagának megóvása érdekében,
 - e) a jogellenesen kivitt kulturális javak – azonnal végrehajthatóvá nyilvánított határozattal történő – közgyűjteményben való ideiglenes elhelyezésével megakadályozhatja a visszaszolgáltatás meghiúsítására alkalmas vagy a visszaszolgáltatást veszélyeztető cselekményeket,

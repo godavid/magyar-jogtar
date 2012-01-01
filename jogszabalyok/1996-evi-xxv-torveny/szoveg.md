@@ -17,14 +17,14 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - e) adósságrendezésbe nem vonható vagyon:
   - ea) az állam tulajdonából a helyi önkormányzat tulajdonába került lakások és nem lakás céljára szolgáló helyiségek;
   - eb) olyan feladat ellátásához kapcsolódó vagyon, melyhez az állam támogatást, hozzájárulást biztosít;
-  - ec) az adósságrendezés alatt álló helyi önkormányzat részvételével működő, az adósságrendezés alá vont helyi önkormányzat költségvetésében megjelenő helyi önkormányzati társulások bevételei és pénzeszközei; az adósságrendezés alá vont helyi önkormányzat költségvetésében megjelenő helyi kisebbségi önkormányzat(ok) bevételei és pénzeszközei;
+  - ec) az adósságrendezés alatt álló helyi önkormányzat részvételével működő, az adósságrendezés alá vont helyi önkormányzat költségvetésében megjelenő helyi önkormányzati társulások bevételei és pénzeszközei; az adósságrendezés alá vont helyi önkormányzat költségvetésében megjelenő helyi nemzetiségi önkormányzat bevételei és pénzeszközei;
   - ed) az adósságrendezés alá vont helyi önkormányzat vagy költségvetési szerve gesztori közreműködése mellett támogatásban részesített, a megvalósítás szakaszában álló, pályázaton elnyert, kizárólagosan célhoz kötötten – törvényben meghatározott kötelező feladat ellátásához kapcsolódóan – felhasználható fejlesztési és működési források önerő- és támogatásrésze;
   - ee) a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 1991. évi XXXII. törvény és a Magyar Katolikus Egyház számára 2004. évben rendezésre javasolt ingatlanokból, és az e célra elkülönített költségvetési keret felosztásáról szóló 1049/2004. (V. 14.) Korm. határozat alapján a volt egyházi ingatlanok tulajdoni helyzetének rendezése céljából helyi önkormányzat részére juttatott, elkülönítetten kezelt összeg, függetlenül attól, hogy azok az adósságrendezési eljárást megelőzően, vagy az eljárás alatt kerülnek az adósságrendezéssel érintett helyi önkormányzathoz, helyi önkormányzati költségvetési szervhez;
 - f) adósságrendezésbe vonható vagyon: törvényben meghatározott forgalomképtelen törzsvagyon feletti, valamint a hatósági feladatok és az alapvető lakossági szolgáltatások ellátásához szükséges vagyon feletti forgalomképes vagyonrész;
 - g) adósságrendezésbe vonható bevétel: a helyi önkormányzatot megillető az Ötv. 82. § (1) bekezdésében meghatározott saját bevételek tárgyévben beszedett, vagy követelésként fennálló összege, valamint az Ötv. 83. §-ban szereplő átengedett központi adókból származó bevétel az adósságrendezési eljárás megindításától a bejelentett hitelezői követelések megtérüléséig;
 - h) reorganizációs hitel: a reorganizációs költségvetés és a hitelezői egyezség létrejöttének biztosításához szükséges hitel, beleértve az adósságrendezési eljárás alatt álló helyi önkormányzat lejárttá tett hiteleinek és kötvényeinek kiváltására szolgáló hitelt is.
 
-3. § (1) Az adósságrendezési eljárás a helyi önkormányzat székhelye szerint illetékes megyei (fővárosi) bíróság hatáskörébe tartozó nem peres eljárás.
+3. § (1) Az adósságrendezési eljárás a helyi önkormányzat székhelye szerint illetékes törvényszék hatáskörébe tartozó nem peres eljárás.
 
 (2) Ha e törvényből és az eljárás nemperes jellegéből más nem következik, az eljárások lefolytatása során a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait megfelelően kell alkalmazni azzal, hogy az eljárásban felfüggesztésnek, félbeszakadásnak nincs helye. Szünetelésnek csak az adósságrendezés megindításának időpontjáig, az eljárásban részt vevő felek közös kérelmére van helye. Az eljárás megszüntetésének az adósságrendezés megindításának időpontjáig van helye.
 
@@ -39,7 +39,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - b) elismert tartozását az esedékességet követő 60 napon belül nem fizette ki;
 - c) jogerős és végrehajtható bírósági (hatósági) határozatban foglalt fizetési kötelezettségét nem teljesítette;
 - d) fizetési kötelezettségét a korábban lefolytatott adósságrendezési eljárásban kötött egyezség ellenére nem teljesítette;
-- e) az államháztartás más alrendszereivel szemben fennálló köztartozását az államháztartásról szóló 1992. évi XXXVIII. törvény 63. §-ának (7) bekezdése szerinti felhatalmazáson alapuló beszedési megbízás benyújtását követő 60 napon belül nem teljesíti;
+- e) az államháztartás más alrendszereivel szemben fennálló köztartozását az államháztartásról szóló 2011. évi CXCV. törvény 83. § (4) bekezdése szerinti felhatalmazáson alapuló beszedési megbízás benyújtását követő 60 napon belül nem teljesíti;
 - f) más helyi önkormányzattal szemben fennálló tartozását – ideértve a külön jogszabály szerint létrehozott társulás keretében vállalt fizetési kötelezettségének nem teljesítését is – az önkormányzattal kötött vagy társulási megállapodáson alapuló beszedési megbízás benyújtását követő 60 napon belül nem teljesíti.
 
 5. § (1) A polgármester (a főpolgármester), megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) a 4. § (2) bekezdésének a)–d) pontjaiban foglalt helyzet fennállásáról – ha ilyet korábban a képviselő-testület létrehozott – a pénzügyi bizottságot haladéktalanul tájékoztatja, és a képviselő-testületet, illetve a közgyűlést (a továbbiakban együtt: képviselő-testület) 8 napon belül összehívja. A képviselő-testület a fizetési kötelezettségek rendezésére határozatot hoz, vagy felhatalmazza a polgármestert az adósságrendezési eljárás azonnali kezdeményezésére.
@@ -77,7 +77,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (3) Nem jelölhető ki pénzügyi gondnoknak
 
-- a) aki az önkormányzat polgármestere, képviselő-testületének tagja, költségvetési intézményének vezetője és dolgozója, illetve ezek hozzátartozója [a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pont], e minősége fennállása alatt, illetve annak megszűnésétől számított 3 évig;
+- a) aki az önkormányzat polgármestere, képviselő-testületének tagja, költségvetési intézményének vezetője és dolgozója, illetve ezek, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti hozzátartozója, e minősége fennállása alatt, illetve annak megszűnésétől számított 3 évig;
 - b) aki az önkormányzat hitelezője, vagy akinek az önkormányzat a hitelezője, illetve akinél az önkormányzat tulajdonosi jogosultsággal rendelkezik. E szabályok irányadóak a kijelölt pénzügyi gondnok munkavállalóira is;
 - c) aki az önkormányzat által megbízott könyvvizsgáló, belső ellenőr;
 - d) aki a képviselő-testület bizottságának nem képviselő tagja;
@@ -137,7 +137,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 13. § (1) Az adósságrendezés megindításának időpontjától a helyi önkormányzat
 
-- a) többlet vagyoni kötelezettségvállalással járó döntést nem hozhat,
+- a) vagyoni kötelezettségvállalással járó döntést kizárólag külön törvényi felhatalmazás alapján hozhat,
 - b) vállalkozást nem alapíthat,
 - c) vállalkozásban visszterhesen tulajdont nem szerezhet,
 - d) a korábban vállalt fizetési kötelezettségeit nem teljesítheti, kivéve a 31. § (1) bekezdés a) pontjában meghatározott kötelezettségeket, valamint – a válságköltségvetésben és a válságtervben – a törvény 11. § (1) és 18. § (2)–(3) bekezdéseiben foglaltak alapján – megjelölt kötelezettségeket
@@ -356,7 +356,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 34/A. § A közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) alkalmazása során az adósságrendezés elrendelése a felek által előre nem látható és elháríthatatlan oknak minősül, melyre a Kbt.-ben meghatározott jogkövetkezményeket lehet alkalmazni.
 
-34/B. § Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 96. § (1) bekezdésében a költségvetési szervek átalakítására, megszüntetésére vonatkozó döntés (átalakító-, megszüntető okirat) kihirdetésére, közzétételére előírt, az átalakítás, megszüntetés kérelmezett napját megelőző, az Áht. 96. § (1) bekezdésében rögzített határidő mellőzhető.
+34/B. § Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig az államháztartásról szóló törvényben a költségvetési szervek átalakítására, megszüntetésére vonatkozó döntés kihirdetésére, közzétételére előírt határidő mellőzhető.
 
 34/C. § Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig a közoktatásról szóló 1993. évi LXXIX. törvény 102. § (9) és (11) bekezdéseiben a fenntartói döntések meghozatalára meghatározott időkorlátok nem alkalmazhatóak, amennyiben a fenntartói döntés az elfogadott válságköltségvetésnek és reorganizációs tervben foglaltaknak megfelel, és az nem sérti, vagy nem veszélyezteti a gyermekek, tanulók érdekét. Ez utóbbi feltétel megállapításához a közoktatási feladatkörében eljáró oktatási hivatal által kijelölt, az adósságrendezés alá vont helyi önkormányzat által megbízott közoktatási szakértő szakvéleménye szükséges.
 
@@ -400,9 +400,9 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - 7. A közvilágítási berendezés üzemeltetése (1991. évi XX. törvény).
 - 8. Az állati hullák ártalmatlanná tétele, az emberre egészségügyi szempontból veszélyes, valamint az állatállomány egészségét veszélyeztető, betegség tüneteit mutató, vagy betegségre gyanús ebek és macskák kártalanítás nélküli kiirtása, az ebek veszettség elleni kötelező védőoltásának megszervezése (2005. évi CLXXVI. törvény).
 - 9. A tűzoltás és a műszaki mentés biztosítása (1973. évi 13. törvényerejű rendelet).
-- 10. Az óvodai nevelés, az általános iskolai nevelés és oktatás, továbbá a nemzeti és etnikai kisebbségek által lakott településen a nemzeti vagy etnikai kisebbséghez tartozók óvodai nevelése, általános iskolai nevelése és oktatása (1993. évi LXXIX. törvény).
+- 10. Az óvodai nevelés, az általános iskolai nevelés és oktatás, továbbá a nemzetiségek által lakott településen a nemzetiséghez tartozók óvodai nevelése, általános iskolai nevelése és oktatása (a nemzetiségek jogairól szóló törvény).
 - 11. A többi gyermekkel, tanulóval együtt nevelhető, oktatható testi, érzékszervi, enyhe értelmi, beszéd- és más fogyatékos tanulók ellátása (1993. évi LXXIX. törvény).
-- 12. A kollégiumi és a nemzeti és etnikai kisebbségi kollégiumi ellátás, a középiskolai és a szakiskolai ellátás, a nemzeti és etnikai kisebbségek középiskolai és szakiskolai ellátása, a felnőttoktatás, a nevelési tanácsadás, a logopédiai szolgáltatás (1993. évi LXXIX. törvény).
+- 12. A kollégiumi és a nemzetiségi kollégiumi ellátás, a középiskolai és a szakiskolai ellátás, a nemzetiségek középiskolai és szakiskolai ellátása, a felnőttoktatás, a nevelési tanácsadás, a logopédiai szolgáltatás (a nemzetiségek jogairól szóló törvény).
 - 13. Az egészségügyi intézményekben tartós gyógykezelés alatt álló gyermekek tankötelezettségének teljesítéséhez szükséges oktatás, a többi gyermekkel, tanulóval együtt nem foglalkoztatható, illetőleg oktatható testi, érzékszervi, értelmi, beszéd- vagy más fogyatékos gyermekek, tanulók óvodai, iskolai, továbbá kollégiumi ellátása azoknak a tanulóknak, akiknek az állandó lakóhelyén a tankötelezettség végéig nem biztosítottak az iskolai nevelés és oktatás feltételei, a képzési kötelezettség, teljesítéséhez szükséges feltételek, a különbözeti vizsga, vagy évfolyamismétlés nélküli iskolaváltás, a korai fejlesztő tanácsadó és gondozó szolgálat, a tanulási képességet vizsgáló szakértői és rehabilitációs tevékenység, a konduktív pedagógiai ellátás, a középiskolai, szakiskolai felvételekkel összefüggő tájékoztató tevékenység, a területi pedagógiai szakmai szolgáltatás (1993. évi LXXIX. törvény).
 - 14. Az egészségügyi alapellátás (háziorvosi, házi gyermekorvosi, fogorvosi) és a védőnői ellátás (1997. évi CLIV. törvény).
 - 15. A járó- és fekvőbeteg-szakellátás, gondozást nyújtó egészségügyi intézmények által ellátott feladatok (1997. évi CLIV. törvény).

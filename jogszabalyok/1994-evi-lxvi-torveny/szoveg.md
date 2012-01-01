@@ -16,7 +16,7 @@ Az Országgyűlés a munkavállalók szociális biztonságának elősegítése �
 
 (3) A pénzügyi támogatás (a továbbiakban: támogatás) a felszámolás kezdő időpontja előtt megszűnt munkaviszonyból származó bértartozások fedezetéül is szolgál.
 
-(4) A támogatás forrásául a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. §-a (3) bekezdésének d) pontja alapján a Munkaerőpiaci Alap bérgarancia alaprésze szolgál.
+(4) A támogatás forrásául a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. §-a (3) bekezdésének d) pontja alapján a Nemzeti Foglalkoztatási Alap bérgarancia alaprésze szolgál.
 
 2. § (1) Ha a felszámoló a felszámolás alatt álló gazdálkodó szervezetnél foglalkoztatott, szokásos magyarországi munkavégzési hellyel rendelkező munkavállalókkal szemben fennálló bértartozást a felszámolás kezdő időpontját követően a felszámolási költségek fedezetét jelentő bevételek hiánya miatt a bérfizetési napon – ideértve a 7. § (4) bekezdésében meghatározott esetet is – nem tudja kielégíteni, haladéktalanul kérelmet nyújt be az állami foglalkoztatási szervhez visszatérítendő pénzügyi támogatás iránt. Ettől eltérően, a 7. § (2) bekezdésében foglalt esetben a felszámoló a feltételek fennállása esetén kérelmet nyújthat be.
 
@@ -45,7 +45,7 @@ Az Országgyűlés a munkavállalók szociális biztonságának elősegítése �
 
 (2) Az állami foglalkoztatási szerv a támogatásról a kérelem benyújtását követő nyolc napon belül határozattal dönt.
 
-5. § (1) Támogatás nyújtása esetén az állami foglalkoztatási szerv a kérelem átvételétől számított 15 napon belül intézkedik annak a Munkaerőpiaci Alap bérgarancia alaprészéből történő átutalásáról.
+5. § (1) Támogatás nyújtása esetén az állami foglalkoztatási szerv a kérelem átvételétől számított 15 napon belül intézkedik annak a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből történő átutalásáról.
 
 (2) A támogatás kamatmentes.
 
@@ -62,9 +62,9 @@ Az Országgyűlés a munkavállalók szociális biztonságának elősegítése �
 
 jogosultanként további, legfeljebb kettő havi bruttó átlagkeresetnek megfelelő támogatást igényelhet a felszámoló, ha annak e törvényben meghatározott egyéb feltételei fennállnak.
 
-(3) A Munkaerőpiaci Alap bérgarancia alaprészéből – a (4) bekezdésben foglalt kivétellel – legfeljebb olyan mértékű támogatás igényelhető, amennyivel a gazdálkodó szervezetnek a munkavállalóval szemben a bérfizetés napján fennálló bértartozása meghaladja a gazdálkodó szervezetnél a bérfizetés napjáig és azt követően – a kérelem benyújtásáig – keletkezett forrás együttes összegét.
+(3) A Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből – a (4) bekezdésben foglalt kivétellel – legfeljebb olyan mértékű támogatás igényelhető, amennyivel a gazdálkodó szervezetnek a munkavállalóval szemben a bérfizetés napján fennálló bértartozása meghaladja a gazdálkodó szervezetnél a bérfizetés napjáig és azt követően – a kérelem benyújtásáig – keletkezett forrás együttes összegét.
 
-(4) Azon munkavállalókkal szembeni bértartozást, akiknek a munkaviszonya a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 86. §-ának b) pontja alapján a munkáltató jogutód nélküli megszűnése miatt szűnik meg, illetőleg azt a bértartozást, amely a gazdálkodó szervezet jogutód nélküli megszűnésének időpontjában válik esedékessé, a felszámoló köteles rendelkezésre álló fedezet hiányában – a munkavállaló külön igénybejelentése nélkül – a felszámolási zárómérleg elkészítését megelőzően a Munkaerőpiaci Alap bérgarancia alaprészéből megigényelni, és a bérköveteléssel érintett munkavállaló részére kifizetni.
+(4) Azon munkavállalókkal szembeni bértartozást, akiknek a munkaviszonya a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 86. §-ának b) pontja alapján a munkáltató jogutód nélküli megszűnése miatt szűnik meg, illetőleg azt a bértartozást, amely a gazdálkodó szervezet jogutód nélküli megszűnésének időpontjában válik esedékessé, a felszámoló köteles rendelkezésre álló fedezet hiányában – a munkavállaló külön igénybejelentése nélkül – a felszámolási zárómérleg elkészítését megelőzően a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből megigényelni, és a bérköveteléssel érintett munkavállaló részére kifizetni.
 
 8. § (1) A jogosulatlanul igénybe vett vagy nem jogszerűen felhasznált támogatást a támogatás iránti kérelem benyújtásának időpontjában hatályos jegybanki alapkamat kétszeresével megnövelt összegben kell visszafizetni.
 
@@ -199,7 +199,7 @@ ADATLAPa Bérgarancia Alapból igényelhető támogatás számításához
 
 (A ........... év ........................ hó .........-i bérfizetési napon – a gazdálkodó szervezetnél – fennálló adatok alapján)
 
-| 1. Sor- szám | 2. Munkavállaló neve | 3. Társadalom- biztosítási azonosító jel | 4. A munkavállaló után az adott felszámolási eljárásban korábban kapott támogatás összege |  | 5. A bér- és végkielégítés- tartozás együttes összege | 6. A tartozás Munkaerőpiaci Alap bérgarancia alaprészéből igényelhető összege |
+| 1. Sor- szám | 2. Munkavállaló neve | 3. Társadalom- biztosítási azonosító jel | 4. A munkavállaló után az adott felszámolási eljárásban korábban kapott támogatás összege |  | 5. A bér- és végkielégítés- tartozás együttes összege | 6. A tartozás Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összege |
 | --- | --- | --- | --- | --- | --- | --- |
 | 4.1 a törvény 7. § (1) bekez- dése alapján | 4.2 a törvény 7. § (2) bekez- dése alapján |
 | 1. |  |  |  |  |  |  |

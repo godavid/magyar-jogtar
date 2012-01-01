@@ -2,17 +2,15 @@
 
 az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről
 
-Az Országgyűlés– elismerve a magyarországi egyházaknak a nemzet életében és érdekében kifejtett évezredes munkálkodását,– tudatában a vallásos meggyőződés jelentőségének a magyar társadalomban,– folytatva a vallásszabadságot szolgáló 1848. évi XX., az 1895. évi XLIII. és az 1947. évi XXXIII. törvénycikkben, valamint az 1990. évi IV. törvényben testet öltő évszázados hagyományt,– figyelembe véve, hogy a magyarországi egyházakat 1945 után jogfosztó intézkedések sújtották,– az Alkotmány 60. §-ával összhangban, szem előtt tartva állam és egyház elválasztásának követelményét,– eleget téve a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 1991. évi XXXII. törvény 23. §-ában vállalt kötelezettségének
+Az Országgyűlés– elismerve a magyarországi egyházaknak a nemzet életében és érdekében kifejtett évezredes munkálkodását,– tudatában a vallásos meggyőződés jelentőségének a magyar társadalomban,– figyelembe véve, hogy a magyarországi egyházakat 1945 után jogfosztó intézkedések sújtották,– szem előtt tartva állam és egyház elválasztásának, de a közösségi célok érdekében történő együttműködés követelményét,a következő törvényt alkotja:
 
-a következő törvényt alkotja:
+1. § E törvényt a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) szerint nyilvántartásba vett egyházra, vallásfelekezetre és vallási közösségre (a továbbiakban együtt: egyház) kell alkalmazni.
 
-1. § E törvényt alkalmazni kell a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény szerint a bíróság által nyilvántartásba vett egyházra, vallásfelekezetre és vallási közösségre (a továbbiakban: egyház).
-
-2. § (1) Az egyház a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény 18. §-ának rendelkezései szerint saját bevételre tehet szert, gazdasági-vállalkozási tevékenységet folytathat. Az egyház belső szabályai szerint szedett egyház-fenntartói járulékról, gyűjtött adományokról az állami, önkormányzati és közigazgatási szervek adatokat nem kérhetnek, és nyilvántartást nem vezethetnek.
+2. § (1)
 
 (2) Az egyház a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet rendelkezéseinek megfelelően, elkülönítetten köteles nyilvántartani gazdasági-vállalkozási tevékenységének bevételeit, költségeit és ráfordításait, továbbá – ha a közcélú adományról a személyi jövedelemadóról szóló törvény, illetve az adományról a társasági adóról és osztalékadóról szóló törvény rendelkezései szerinti kedvezmény igénybevételére jogosító igazolást állít ki – a kapott adományt (közcélú adományt) és annak felhasználását.
 
-(3) Az egyház, valamint a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény 13. § (2) és (3) bekezdésében szereplő egyéb egyházi jogi személy – figyelemmel az (5) bekezdésben foglaltakra – a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény szerinti adomány, valamint a személyi jövedelemadóról szóló 1995. évi CXVII. törvény szerinti közcélú adomány utáni kedvezmény igénybevételére jogosító igazolás kiállítására jogosult.
+(3) Az egyház, a belső egyházi jogi személy a társasági adóról és az osztalékadóról szóló törvény szerinti adomány, valamint a személyi jövedelemadóról szóló törvény szerinti közcélú adomány utáni kedvezmény igénybevételére jogosító igazolás kiállítására jogosult.
 
 (4)
 
@@ -20,27 +18,13 @@ a következő törvényt alkotja:
 
 (6) A (2) bekezdés szerinti adomány (közcélú adomány) összegét és annak felhasználásának adatait a személyes adatok védelmét biztosító jogszabályok, valamint a közérdekű adatok nyilvánosságának szabályai szerint bárki megtekintheti és arról saját költségére másolatot készíthet.
 
-(7) Az egyház esetében nem minősül gazdasági-vállalkozási tevékenységnek:
+(7)
 
-- a) hitéleti, nevelési-oktatási, kulturális, felsőoktatási, szociális és egészségügyi, sport, gyermek-és ifjúságvédelmi intézmény működtetése, valamint az említett tevékenységek folytatása,
-- b) üdülő hasznosítása egyházi személy részére történő szolgáltatásnyújtás révén,
-- c) hitélethez szükséges kiadvány, kegytárgy előállítása, értékesítése,
-- d) egyházi célra használt ingatlan (ideértve annak tartozékait is) részleges hasznosítása,
-- e) temető fenntartása,
-- f) a kizárólag hitéleti, nevelési-oktatási, kulturális, felsőoktatási, szociális és egészségügyi, sport, gyermek- és ifjúságvédelmi tevékenységet szolgáló immateriális jószág, tárgyi eszköz és készlet értékesítése (ideértve a munkaruha megtérítését is),
-- g) hitéleti, nevelési-oktatási, kulturális, felsőoktatási, szociális és egészségügyi, sport, gyermek- és ifjúságvédelmi tevékenységet szolgáló eszköz nem nyereségszerzési célú hasznosítása.
+(8)
 
-(8) Az egyház önálló képviseleti szervvel rendelkező, jogi személynek minősülő szervezeti egysége (a továbbiakban: egyházi intézmény) esetében nem minősül gazdasági-vállalkozási tevékenységnek a (7) bekezdés szerinti tevékenységek, vagy – választása szerint – a következő tevékenységek végzése:
+(9)
 
-- a) hitéleti, nevelési-oktatási, kulturális, felsőoktatási, szociális és egészségügyi, sport, gyermek- és ifjúságvédelmi tevékenység folytatása, és az ilyen tevékenységhez kapcsolódó kiegészítő szolgáltatásnyújtás,
-- b) az államtól vagy önkormányzattól átvállalt közfeladat ellátása során létrehozott termék, jegyzet tankönyv, kiadvány tanulmány előállítása és értékesítése,
-- c) kulturális, nevelési-oktatási, felsőoktatási, szociális és egészségügyi, sport, gyermek-és ifjúságvédelmi tevékenységet végző egyházi intézmény alkalmazottainak étkeztetését is biztosító épület bérbeadása vendéglátó-ipari vállalkozás részére üzemeltetés céljából,
-- d) a kizárólag hitéleti, kulturális, nevelési-oktatási, felsőoktatási, szociális és egészségügyi, sport, gyermek- és ifjúságvédelmi tevékenységet szolgáló immateriális jószág, tárgyi eszköz és készlet értékesítése (ideértve a munkaruha megtérítését is),
-- e) hitéleti, nevelési-oktatási, kulturális, felsőoktatási, szociális és egészségügyi, sport, gyermek- és ifjúságvédelmi tevékenységet szolgáló eszköz nem nyereségszerzési célú hasznosítása.
-
-(9) A (7)–(8) bekezdésben meghatározott tevékenység bevétele, különösen a szolgáltatás ellenértéke, díja, térítése, az említett tevékenységhez kapcsolódó kártalanítás, kártérítés, kötbér, bánatpénz, bírság és adóvisszatérítés, valamint az említett tevékenységhez visszafizetési kötelezettség nélkül kapott – pénzügyileg rendezett – támogatás, juttatás.
-
-(10) Nem minősül a gazdasági-vállalkozási tevékenység bevételének a szabad pénzeszközök betétbe, értékpapírba elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a gazdasági-vállalkozási tevékenységnek nem minősülő tevékenység bevétele az összes bevételben képvisel, a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
+(10)
 
 3. § (1) A volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 1991. évi XXXII. törvény (Etv.) hatálya alá tartozó, az egyház által nem természetben visszakért, számára át nem adott, vagy az Etv. 2. § (4) bekezdése szerint nem rendezett egyházi ingatlanokra vonatkozó pénzbeli igény közös megegyezés esetében járadék forrásává alakítható, amely az egyház hitéleti és közcélú tevékenységének finanszírozására használható fel. A járadék folyósítása az igénylő egyház jogutód nélküli megszűnéséig tart.
 
@@ -92,8 +76,8 @@ a következő törvényt alkotja:
 
 10. § A Kormány jogosult az egyházat közcélú tevékenysége folytatásához szükséges ingatlan megszerzéséhez segíteni.
 
-11. § A költségvetési támogatási összegek felhasználásának ellenőrzése az államháztartásról szóló 1992. évi XXXVIII. törvény 120/A. §-ának (1) bekezdése alapján történik.
+11. §
 
 12. § Ez a törvény 1998. január 1-jén lép hatályba azzal, hogy a 4. § (1) bekezdését először az 1997. évi adóbevallások során kell alkalmazni.
 
-13. §
+13. § Az Ehtv. 34. § (1) bekezdése szerinti szervezet a 2012. évben jogosult a 4. § (3) bekezdésében meghatározott kiegészítésre, ha 2012. május 20-áig az Országgyűlés egyházként elismerte.

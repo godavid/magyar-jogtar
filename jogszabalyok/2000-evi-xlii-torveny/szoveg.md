@@ -8,7 +8,7 @@ Az Országgyűlés a környezetkímélő és energiatakarékos víziközlekedés
 
 ### A törvény hatálya
 
-1. § (1) A törvény hatálya a Magyar Köztársaság területén:
+1. § (1) E törvény hatálya Magyarország területén
 
 - a) folytatott hajózási tevékenységre, az azt szolgáló vagy annak folytatását befolyásoló, a mederben és a parton lévő létesítményekre, az úszólétesítményekre, a víziutakra és kikötőkre,
 - b) hajózási tevékenység folytatásában részt vevő természetes és jogi személyekre, jogi személyiséggel nem rendelkező gazdálkodó szervezetekre,
@@ -65,7 +65,7 @@ látja el.
 3. § (1) A települési önkormányzatok feladata
 
 - a) a helyi közszolgáltatást megvalósító komp- és révközlekedés – önkormányzati hatáskörbe tartozó – működőképességének és fejlesztésének biztosítása,
-- b) a rendezési tervek készítésénél és elfogadásánál a létesítendő kikötő működtetéséhez szükséges és megfelelő parti terület kijelölése, az igénybevétel feltételeinek tervezhető módon, hosszú távra történő meghatározása, a megyei területfejlesztési tanács – a fővárosban a Közép-Magyarországi Regionális Fejlesztési Tanács – bevonásával.
+- b) a rendezési tervek készítésénél és elfogadásánál a létesítendő kikötő működtetéséhez szükséges és megfelelő parti terület kijelölése, az igénybevétel feltételeinek tervezhető módon, hosszú távra történő meghatározása, a megyei önkormányzat – a fővárosban a fővárosi önkormányzat – bevonásával.
 
 (2) Személyforgalomban menetrend szerinti helyi közszolgáltatást végző hajózási engedélyes részére az érintett települési önkormányzat működési támogatást nyújthat, amellyel kapcsolatos jogokat és kötelezettségeket szerződésben kell rögzíteni.
 
@@ -77,11 +77,18 @@ látja el.
 
 (3) A hajózási hatóság eljárásáért miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-(4) Az ország határain kívül a Magyar Köztársaság konzuli tisztviselője első fokú hajózási hatósági jogkörben jár el a képesítő okmányok, a szolgálati könyvek ideiglenes pótlása, meghosszabbítása, valamint – a hajózási hatóság felkérésére – a hajóokmányok érvényességi idejének ideiglenes meghosszabbítása tekintetében. Ellátja továbbá a nemzetközi szerződésekben meghatározott, hajózással kapcsolatos egyéb konzuli feladatokat.
+(4) Az ország határain kívül Magyarország konzuli tisztviselője első fokú hajózási hatósági jogkörben jár el a képesítő okmányok, a szolgálati könyvek ideiglenes pótlása, meghosszabbítása, valamint – a hajózási hatóság felkérésére – a hajóokmányok érvényességi idejének ideiglenes meghosszabbítása tekintetében. Ellátja továbbá a nemzetközi szerződésekben meghatározott, hajózással kapcsolatos egyéb konzuli feladatokat.
 
 (5) A hajózási hatóságnál kezdeményezett eljárásokban a Kormány által rendeletben meghatározott dokumentum elektronikus úton nem terjeszthető elő.
 
 5. § A hajózással kapcsolatos rendőrhatósági és határrendészeti tevékenységet a rendészetért felelős miniszter és a határrendészetért felelős miniszter – a rendőrség vízirendészeti feladatokat ellátó szervei útján – a vízirendészettel és a víziközlekedéssel kapcsolatos rendőri feladatokról szóló jogszabályban foglaltak alapján látja el.
+
+5/A. § (1) A veszélyes vagy szennyező áru belvízi szállításának hatósági ellenőrzését a veszélyes áruk belvízi szállításának ellenőrzésére vonatkozó jogszabályokban meghatározottak szerint a hajózási hatóság, a rendőrség vízirendészeti szerve és a hivatásos katasztrófavédelmi szerv látja el.
+
+(2) Az (1) bekezdésben hivatkozott jogszabályokban meghatározottak mellett a katasztrófavédelmi szerv feladat- és hatáskörébe tartozik:
+
+- a) a veszélyes áruk belvízi szállítására történő előkészítésének, valamint a belvízi úton beérkezett veszélyes áruk továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése,
+- b) a veszélyes áruk kikötők területén végzett átrakásának, tárolásának ellenőrzése.
 
 6. § A hajózás egészségügyi és közegészségügyi-járványügyi hatósági felügyeletét az egészségügyért felelős miniszter – az egészségügyi államigazgatási szerv útján – látja el.
 
@@ -156,6 +163,8 @@ lajstromban tartja nyilván.
 
 (2) A lajstrom megtekintése során a tulajdonosról nevének, székhelyének (címének) kivételével egyéb azonosító adat nem juthat a betekintő tudomására. A lajstrom egyes részeiről kiadott másolaton a nevén és székhelyén (címén) kívül a tulajdonosról egyéb azonosító adat nem tüntethető fel.
 
+10/A. § A katonai igazgatás területi szerve a technikai eszközök igénybevételének tervezése, igénybevételi célú kijelölése céljából a 10. § (1) bekezdés a)–d) pontja szerinti adatokat igényelheti.
+
 11. § (1) A nyilvántartásba vételre kötelezett úszólétesítmény tulajdonjogának átruházásához az erre irányuló szerződésen vagy más jogcímen felül a tulajdonosváltozásnak a lajstromba történő bejegyzése is szükséges.
 
 (2) Többszöri eladás esetén az a vevő követelheti a tulajdonjognak a lajstromba való bejegyzését, aki elsőnek jóhiszeműen birtokba lépett, ha pedig ilyen nincs, a korábbi vevő, kivéve, ha a későbbi vevő tulajdonjogát a lajstromba bejegyezték. Ezt a rendelkezést kell alkalmazni többszöri ajándékozás esetén is.
@@ -170,11 +179,13 @@ lajstromban tartja nyilván.
 - f) elő- vagy visszavásárlási jog és vételi jog,
 - g) végrehajtási jog.
 
+(3a) Motoros vízi sporteszköz esetén – a (3) bekezdésben foglaltaktól eltérően – a tulajdonjogot és az üzembentartói jogot kell bejegyeztetni a kishajólajstromba.
+
 (4) A lajstromba bejegyezhető tényeket és az úszólétesítményre vonatkozó – a 10. § (1) bekezdésében nem említett – egyéb adatokat az úszólétesítmények lajstromozásáról szóló jogszabály állapítja meg.
 
 (5) A hajózási hatóság bejegyzése hozza létre átruházás esetén a tulajdonjogot, továbbá a szerződésen alapuló üzemben tartói jogot, haszonélvezeti jogot.
 
-(6) A lajstromba bejegyzett úszólétesítményt terhelő jelzálogjogot a lajstromba be kell jegyeztetni. A lajstromba bejegyzett úszólétesítményt terhelő jelzálogjogot csak külön jogszabályban meghatározott közjegyzői okiratba foglalt zálogszerződés vagy a zálogjogviszony létesítésére irányuló bírósági vagy más hatósági döntés alapján lehet bejegyeztetni.
+(6) Amennyiben az úszólétesítményt – a motoros vízi sporteszköz kivételével – jelzálog terhelheti, a jelzálogjogot a lajstromba be kell jegyeztetni.
 
 (7) Valamely jognak vagy ténynek a lajstromba való bejegyzését annak kell kérnie, aki a bejegyzéssel jogosulttá válik, vagy akinek ez a bejegyzett jogát érinti.
 
@@ -193,7 +204,7 @@ lajstromban tartja nyilván.
 13. § (1) E törvény lajstromozási szabályainak alkalmazásában magyar, illetve közösségi tulajdon:
 
 - a) a magyar állampolgár, az Európai Unió tagállama vagy Európai Gazdasági Térségről szóló megállapodásban részes más állam állampolgára, illetve az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személy tulajdona;
-- b) olyan jogi személy, valamint jogi személyiség nélküli gazdasági társaság tulajdona, amely a Magyar Köztársaságban, az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban rendelkezik székhellyel, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez (a továbbiakban együtt: EGT-állam).
+- b) olyan jogi személy, valamint jogi személyiség nélküli gazdasági társaság tulajdona, amely Magyarországon, az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban rendelkezik székhellyel, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez (a továbbiakban együtt: EGT-állam).
 
 (2) A magyar, illetve a közösségi tulajdont okmányokkal kell igazolni.
 
@@ -338,7 +349,7 @@ lajstromban tartja nyilván.
 
 31/A. § Úszólétesítményen – amennyiben jogszabály eltérően nem rendelkezik – az úszómű kivételével tizenhatodik életévét be nem töltött személy munkát nem végezhet. Tizennyolcadik életévét be nem töltött személy úszólétesítményen éjszakai munkát csak kivételesen – kiképzési célból, havária vagy más úszólétesítmény mentése esetén – végezhet. Úszóművön a tizennyolcadik életévüket be nem töltött személyek éjszakai munkavégzésére az általános szabályok irányadóak.
 
-32. § A magyar lobogó alatt közlekedő tengeri nagyhajón, továbbá a Magyar Köztársaság területét elhagyó belvízi nagyhajón alkalmazott munkavállaló javára a munkáltató élet- és balesetbiztosítást köteles kötni.
+32. § A magyar lobogó alatt közlekedő tengeri nagyhajón, továbbá Magyarország területét elhagyó belvízi nagyhajón alkalmazott munkavállaló javára a munkáltató élet- és balesetbiztosítást köteles kötni.
 
 33. § A közforgalmú hajózási tevékenységet folytató gazdálkodó szervezet munkavállalóját, nyugdíjasát és ezek hozzátartozóit – a saját üzemeltetésben lévő hajókon – utazási és fuvarozási kedvezmény illeti meg.
 
@@ -353,7 +364,7 @@ lajstromban tartja nyilván.
 (4) Nem lehet hajóparancsnok, aki
 
 - a) büntetett előéletű,
-- b) büntetlen előéletű, de akinek büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. cselekmény, XI. fejezetében meghatározott emberiség elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, 170. § (2)–(6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, lelkiismereti és vallásszabadság megsértése, közösség tagja elleni erőszak, egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése, személyi szabadság megsértése, emberrablás, emberkereskedelem, a 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, vasúti, légi vagy vízi közlekedés veszélyeztetése, a 189. § (2) bekezdése szerinti járművezetés tiltott átengedése, erőszakos közösülés, szemérem elleni erőszak, a 207. § (3) bekezdés b) pontja szerinti kerítés, XV. fejezet IV. címében meghatározott hivatali bűncselekmény, V. címében meghatározott hivatalos személy elleni bűncselekmény, embercsempészés, államtitoksértés, szolgálati titoksértés, a 259. § (1)–(3) bekezdés szerinti közveszélyokozás, közérdekű üzem működésének megzavarása, terrorcselekmény, nemzetközi gazdasági tilalom megszegése, légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, bűnszervezetben részvétel, a visszaélés radioaktív anyaggal, visszaélés nemzetközi szerződés által tiltott fegyverrel, közveszéllyel fenyegetés, garázdaság, önbíráskodás, közokirat-hamisítás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, számítástechnikai rendszer és adatok elleni bűncselekmény, számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása, pénzhamisítás, pénzhamisítás elősegítése, csempészet, készpénz-helyettesítő eszköz hamisítása, visszaélés készpénz-helyettesítő eszközzel, lopás, sikkasztás, csalás, hűtlen kezelés, rablás, kifosztás, zsarolás, rongálás, orgazdaság, jármű önkényes elvétele vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el
+- b) büntetlen előéletű, de akinek büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. cselekmény, XI. fejezetében meghatározott emberiség elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, 170. § (2)–(6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, lelkiismereti és vallásszabadság megsértése, közösség tagja elleni erőszak, egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése, személyi szabadság megsértése, emberrablás, emberkereskedelem, a 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, vasúti, légi vagy vízi közlekedés veszélyeztetése, a 189. § (2) bekezdése szerinti járművezetés tiltott átengedése, erőszakos közösülés, szemérem elleni erőszak, a 207. § (3) bekezdés b) pontja szerinti kerítés, XV. fejezet IV. címében meghatározott hivatali bűncselekmény, V. címében meghatározott hivatalos személy elleni bűncselekmény, embercsempészés, államtitoksértés, szolgálati titoksértés, a 259. § (1)–(3) bekezdés szerinti közveszélyokozás, közérdekű üzem működésének megzavarása, terrorcselekmény, nemzetközi gazdasági tilalom megszegése, légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, bűnszervezetben részvétel, a visszaélés radioaktív anyaggal, visszaélés nemzetközi szerződés által tiltott fegyverrel, közveszéllyel fenyegetés, garázdaság, önbíráskodás, közokirat-hamisítás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, számítástechnikai rendszer és adatok elleni bűncselekmény, számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása, pénzhamisítás, pénzhamisítás elősegítése, költségvetési csalás, a 2011. december 31-ig hatályban volt csempészet, készpénz-helyettesítő eszköz hamisítása, visszaélés készpénz-helyettesítő eszközzel, lopás, sikkasztás, csalás, hűtlen kezelés, rablás, kifosztás, zsarolás, rongálás, orgazdaság, jármű önkényes elvétele vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el
   - ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig,
   - bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
   - bc) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
@@ -491,7 +502,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 ### Személyzeti jegyzék
 
-47. § (1) A Magyar Köztársaság államhatárát átlépő, magyar lobogó alatt közlekedő hajó vezetője – a belvízi kedvtelési célú kishajó kivételével – a hajón szolgálatot teljesítő személyek nevét, születési helyét és születési időpontját, szolgálati beosztását, továbbá útiokmányának számát a hajózási hatóság által hitelesített személyzeti jegyzékbe köteles bejegyezni.
+47. § (1) Magyarország államhatárát átlépő, magyar lobogó alatt közlekedő hajó vezetője – a belvízi kedvtelési célú kishajó kivételével – a hajón szolgálatot teljesítő személyek nevét, születési helyét és születési időpontját, szolgálati beosztását, továbbá útiokmányának számát a hajózási hatóság által hitelesített személyzeti jegyzékbe köteles bejegyezni.
 
 (2) A személyzeti jegyzékbe be kell jegyezni a személyzet tagjaival együtt utazó házastárs és gyermek nevét, születési helyét és születési időpontját, továbbá útiokmányának számát is.
 
@@ -708,13 +719,13 @@ révkalauzt kell igénybe venni.
 
 (3) Az engedély nélkül végzett árufuvarozás vagy személyszállítás engedély nélkül történő továbbfolytatása esetén a bírság ismételten is kiszabható.
 
-(4) A beszedett bírság összege a hajózási hatóságot illeti meg.
+(4)
 
 (5) Amennyiben jogosulatlan árufuvarozás esetén a fuvardíj összege nem állapítható meg, a bírság alapja az engedély nélkül végzett árufuvarozás időpontjában az adott közlekedési viszonylatban leggyakrabban érvényesülő (szokásos) fuvardíj.
 
-(6) A hajózási hatóság és a rendőrség vízirendészeti szerve jogosult ellenőrizni, hogy a Magyar Köztársaság területén engedélykötelesnek minősített hajózási tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel rendelkezik-e. Amennyiben az engedélyköteles tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel nem rendelkezik, az ellenőrzést végző rendőri szerv haladéktalanul értesíteni köteles a hajózási hatóságot.
+(6) A hajózási hatóság és a rendőrség vízirendészeti szerve jogosult ellenőrizni, hogy Magyarország területén engedélykötelesnek minősített hajózási tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel rendelkezik-e. Amennyiben az engedélyköteles tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel nem rendelkezik, az ellenőrzést végző rendőri szerv haladéktalanul értesíteni köteles a hajózási hatóságot.
 
-(7) Az illetékes vámhatóság az úszólétesítmények Magyar Köztársaság területén történő ellenőrzése, vámkezelése során köteles meggyőződni arról, hogy a belvízi hajózásról szóló nemzetközi szerződések szerinti engedélyköteles forgalomban részt vevő úszólétesítmények – a nemzetközi szerződésben részes felek lobogója alatt közlekedő úszólétesítmény kivételével – rendelkeznek-e az adott nemzetközi szerződésben meghatározott árufuvarozási, illetve személyszállítási engedélyekkel. Amennyiben az országba belépni vagy az országból kilépni kívánó úszólétesítmény az árufuvarozásra és személyszállításra jogosító engedéllyel nem rendelkezik, a határvámhivatal köteles haladéktalanul értesíteni a hajózási hatóságot, és az árufuvarozásra, illetve személyszállításra jogosító engedély megszerzéséig az úszólétesítménynek, személyzetének, továbbá az úszólétesítményen lévő árunak a be-, illetve kiléptetését megtagadni.
+(7) Az illetékes vámhatóság az úszólétesítmények Magyarország területén történő ellenőrzése, vámkezelése során köteles meggyőződni arról, hogy a belvízi hajózásról szóló nemzetközi szerződések szerinti engedélyköteles forgalomban részt vevő úszólétesítmények – a nemzetközi szerződésben részes felek lobogója alatt közlekedő úszólétesítmény kivételével – rendelkeznek-e az adott nemzetközi szerződésben meghatározott árufuvarozási, illetve személyszállítási engedélyekkel. Amennyiben az országba belépni vagy az országból kilépni kívánó úszólétesítmény az árufuvarozásra és személyszállításra jogosító engedéllyel nem rendelkezik, a határvámhivatal köteles haladéktalanul értesíteni a hajózási hatóságot, és az árufuvarozásra, illetve személyszállításra jogosító engedély megszerzéséig az úszólétesítménynek, személyzetének, továbbá az úszólétesítményen lévő árunak a be-, illetve kiléptetését megtagadni.
 
 (8)
 
@@ -736,7 +747,19 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 
 (2) A bírság összege legfeljebb a miniszter rendeletében megállapított hatósági eljárási díj tízszerese. Amennyiben külön jogszabály az adott tevékenységgel kapcsolatban eljárási díjat nem állapít meg, a bírság összege legfeljebb az általános tételű államigazgatási eljárási illeték húszszorosa.
 
-(3) A beszedett bírság összege a hajózási hatóságot illeti meg.
+(3)
+
+60/A. § (1) Ha a veszélyes áruk belvízi szállításáról szóló törvényben meghatározott előírások megsértőivel szemben a hivatásos katasztrófavédelmi szerv az ellenőrzése során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és 50 000 forinttól 1 000 000 forintig terjedő bírságot alkalmaz.
+
+(2) Az e § alapján tett jogszerű intézkedésből eredő kárért a hivatásos katasztrófavédelmi szerv a jogszabálysértővel szemben felelősséggel nem tartozik.
+
+(3) Ugyanazon jogszabálysértésért a hajózási, a vízirendészeti hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.
+
+60/B. § (1) Nincs helye a hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+
+(2) A hivatásos katasztrófavédelmi szerv által kiszabott bírság kivetésével és behajtásával kapcsolatos hatósági eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+
+(3) Az e törvény 60/A. §-a alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
 
 ### XII. Fejezet — VÍZIKÖZLEKEDÉSI BALESET SZAKMAI VIZSGÁLATA
 
@@ -757,6 +780,12 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 (4) A honvédség, a rendvédelmi szervek vagy a rendvédelmi feladatokat ellátó szervek úszólétesítményeivel való közlekedés során bekövetkezett víziközlekedési balesetekkel és víziközlekedési eseményekkel kapcsolatos szakmai vizsgálat az illetékes üzemben tartó által kijelölt szakmai bizottság feladata.
 
 (5) A (4) bekezdés szerinti szakmai bizottság létrehozására, tagjaira, valamint a bizottság eljárására vonatkozó szabályokat külön jogszabály állapítja meg.
+
+62/A. § (1) Az üzembentartói vizsgálatot a víziközlekedési balesettel és a víziközlekedési eseménnyel érintett hajózási vállalkozás – e törvény 52. § (6) bekezdésében meghatározott – vezetője végzi.
+
+(2) A hajózási hatóság – a 61. § (1) bekezdésében meghatározott szakmai vizsgálattal összefüggésben történő kapcsolattartás biztosítása céljából – tájékoztatja a közlekedésbiztonsági szervet az általa kibocsátott hajózási engedélyek jogosultjairól és az 52. § (6) bekezdésében meghatározott vezető személyéről.
+
+(3) Az 52. § (6) bekezdésében meghatározott vezetőnek a víziközlekedési balesetek és víziközlekedési események vizsgálatával kapcsolatos feladatait a víziközlekedési balesetek és víziközlekedési események vizsgálatának részletes szabályairól szóló rendelet állapítja meg.
 
 63. § A hajóútban, a kikötőben, illetőleg ezek létesítményeiben, a környezetben, továbbá más úszólétesítményekben okozott kár, továbbá testi sérüléssel vagy halállal járó baleset, valamint a hajózás biztonságának veszélyeztetése esetén, a felelősség tisztázása érdekében az eseményben részt vevő úszólétesítményt a rendőrhatósági, a határőrizeti vagy a vámszervek feltartóztathatják.
 
@@ -926,7 +955,7 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 - 22. kitűzés: a hajóút megjelölésére szolgáló tevékenység és eszközrendszer;
 - 23. kombinált forgalom: több közlekedési alágazat (pl. vízi- és közúti közlekedés) igénybevételével végzett személyszállítás vagy árufuvarozás;
 - 24. komp: vízen történő közútpótló átkelésre szolgáló, személyeket és közúti járműveket szállító, a hajózási hatóság által kompnak (önjáró, nem önjáró, köteles komp, továbbá a révhajó és a révcsónak) minősített vízijármű;
-- 25. konzuli tisztviselő: a Magyar Köztársaság diplomáciai vagy konzuli képviseletén konzuli feladatok végzésével megbízott személy;
+- 25. konzuli tisztviselő: Magyarország diplomáciai vagy konzuli képviseletén konzuli feladatok végzésével megbízott személy;
 - 26. külföldi: akit (amit) a devizajogszabályok külföldinek tekintenek;
 - 27. nagyhajó: az a belvízi hajó, amelynek a hajótesten mért hossza 20 méter vagy annál nagyobb, valamint az a tengeri hajó, amelynek hajótesten mért hossza 24 méter vagy annál nagyobb;
 - 28. nemzeti víziút: az ország határain belül lévő és nemzetközi víziúttá nem nyilvánított víziút;
@@ -968,6 +997,8 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 - j) a folyami információs szolgáltatások működtetési és fejlesztési feladatainak, valamint a térítésmentes alapszolgáltatások körének,
 - k) a hajókról származó szennyezés és az azzal összefüggő jogkövetkezmények részletes szabályainak,
 - l) az e törvény szerinti szakértői tevékenység folytatása részletes feltételeinek, a szakértői tevékenység bejelentése és a szakértők nyilvántartása személyes adatot nem tartalmazó adattartalmának, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályoknak, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek
+- m) a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
+- n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak
 
 rendeletben történő megállapítására.
 
@@ -992,7 +1023,7 @@ rendeletben történő megállapítására.
 - q) a havaria vizsgálata rendjének a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben,
 - r) a hajózási egészségi alkalmasság feltételeinek és vizsgálati rendjének az egészségügyért felelős miniszter egyetértésével kiadott,
 - s) a hajózási képesítések megszerzése feltételeinek és rendjének, valamint a kiadandó okmányok (bizonyítványok) formai és tartalmi követelményeinek az oktatási, valamint a rádiószolgálatok állomáskezelőire vonatkozó követelmények meghatározása tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben,
-- t) a hajózási bírság kivetése részletes szabályainak és a bírság felhasználása rendjének az adópolitikáért felelős miniszterrel egyetértésben,
+- t) a hajózási bírság kiszabása, megfizetése és kezelése részletes szabályainak az adópolitikáért felelős miniszterrel egyetértésben,
 - u) a hajózási hatósági eljárások díjainak, valamint e díjaknak az eljáró hatóság, illetve a felügyeleti és irányítási feladatot ellátó szervezetek közötti megosztása szabályainak, továbbá a hajózási képesítő vizsgák díjainak az adópolitikáért felelős miniszterrel egyetértésben,
 - v) az utasnyilvántartás vezetése részletes szabályainak,
 - w) a Belvízi Hajózási Alapprogram működtetése részletes szabályainak,
@@ -1010,7 +1041,7 @@ rendeletben történő megállapítására.
 (6) Felhatalmazást kap az államháztartásért felelős miniszter
 
 - a) a határkikötők fenntartásával és működtetésével kapcsolatos szabályoknak, a miniszterrel és a határrendészetért felelős miniszterrel egyetértésben,
-- b) a hajó-felelősségbiztosítási szerződésre vonatkozó részletes szabályoknak
+- b)
 
 rendeletben történő megállapítására.
 

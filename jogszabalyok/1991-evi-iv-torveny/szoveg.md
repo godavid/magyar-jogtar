@@ -2,7 +2,7 @@
 
 a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról
 
-A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a munka és a foglalkozás szabad megválasztásához. E jogok gyakorlásának elősegítése, a foglalkoztatási feszültségek feloldása, valamint az álláskeresők támogatásának biztosítása érdekében az Országgyűlés a következő törvényt alkotja.
+A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának elősegítése, a foglalkoztatási feszültségek feloldása, valamint az álláskeresők támogatásának biztosítása érdekében az Országgyűlés a következő törvényt alkotja.
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -20,7 +20,7 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 
 (4) Az állami foglalkoztatási szerv tevékenységét humánszolgáltatásként, a munkanélküliség lélektani és társadalmi összefüggéseinek figyelembevételével végzi.
 
-(5) Az állami foglalkoztatási szerv a tevékenysége során – az Európai Unió és a Magyar Köztársaság jogszabályaiban foglaltaknak megfelelően – együttműködik az EGT tagállamainak foglalkoztatási szolgálataival, valamint az Európai Koordinációs Hivatallal.
+(5) Az állami foglalkoztatási szerv a tevékenysége során együttműködik az EGT tagállamainak foglalkoztatási szolgálataival, valamint az Európai Koordinációs Hivatallal.
 
 4. § (1) Minden munkavállalásra jogosultnak és munkaadónak joga van az állami foglalkoztatási szerv e törvény 13/A. §-a (2) bekezdésének a) és c) pontjában meghatározott szolgáltatásának ingyenes igénybevételéhez.
 
@@ -43,11 +43,11 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 
 (5) A magán munkaközvetítő tevékenység hatósági ellenőrzését ellátó szerv, valamint a munkaadók és a munkavállalók érdekképviseleti szervei az ellenőrzés céljainak meghatározásában és tapasztalatainak értékelésében együttműködnek.
 
-7. § (1) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár (a továbbiakban: harmadik országbeli állampolgár) a Magyar Köztársaság területén a 2. § (2) bekezdésében, valamint a (2) bekezdésben meghatározott kivétellel a munkavállalási engedély, vagy a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedély (a továbbiakban: EU Kék Kártya) alapján létesíthet foglalkoztatásra irányuló jogviszonyt. Az engedélyezési kötelezettség alá tartozó foglalkoztatásra irányuló jogviszony létesítéséhez szükséges szerződés csak a munkavállalási engedély vagy az EU Kék Kártya beszerzését követően köthető meg.
+7. § (1) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár (a továbbiakban: harmadik országbeli állampolgár) a Magyarország területén a 2. § (2) bekezdésében, valamint a (2) bekezdésben meghatározott kivétellel a munkavállalási engedély, vagy a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedély (a továbbiakban: EU Kék Kártya) alapján létesíthet foglalkoztatásra irányuló jogviszonyt. Az engedélyezési kötelezettség alá tartozó foglalkoztatásra irányuló jogviszony létesítéséhez szükséges szerződés csak a munkavállalási engedély vagy az EU Kék Kártya beszerzését követően köthető meg.
 
 (2) A Kormány a 2. § (2) bekezdésében foglaltakon túlmenően, rendeletben mentességi eseteket határozhat meg.
 
-(3) Felhatalmazást kap a Kormány, hogy a Magyar Köztársaság nemzetközi kötelezettségeire, a harmadik országbeli állampolgár személyi, családi és egyéb körülményeire figyelemmel, valamint munkaerőpiaci szempontok alapján egyes tevékenységeket érintően az (1) bekezdés szerinti engedélyezési kötelezettség alóli mentesség eseteit rendeletben állapítsa meg.
+(3) Felhatalmazást kap a Kormány, hogy a Magyarország nemzetközi kötelezettségeire, a harmadik országbeli állampolgár személyi, családi és egyéb körülményeire figyelemmel, valamint munkaerőpiaci szempontok alapján egyes tevékenységeket érintően az (1) bekezdés szerinti engedélyezési kötelezettség alóli mentesség eseteit rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a Kormány, hogy a szabad mozgás és tartózkodás jogával rendelkező személy foglalkoztatása tekintetében, nemzetközi szerződésben vagy európai közösségi jogi aktusban foglaltak szerint a 2. § (2) bekezdésében meghatározott egyenlő bánásmód követelményétől eltérő szabályokat állapítson meg.
 
@@ -92,7 +92,7 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 
 - a) érdekképviseleti szervei útján részt vesz a foglalkoztatási érdekegyeztetésben,
 - b) segíti az állami foglalkoztatási szerv munkáját, ennek keretében munkaerőigényéről és annak megszűnéséről folyamatosan, de legkésőbb a betöltés esedékességekor — a miniszter által meghatározott módon — tájékoztatja az állami foglalkoztatási szervet,
-- c) járulék fizetésével hozzájárul az álláskeresők támogatásához.
+- c) szociális hozzájárulási adó fizetésével hozzájárul az álláskeresők ellátásához.
 
 (7) A munkavállaló:
 
@@ -107,8 +107,6 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 ### Országos Érdekegyeztető Tanács
 
 #### 9. §
-
-### A Munkaerőpiaci Alap Irányító Testülete
 
 #### 10. §
 
@@ -149,7 +147,7 @@ A Magyar Köztársaság Alkotmánya mindenki számára biztosítja a jogot a mun
 - a) aki álláskereső,
 - b) aki 25. életévét – felsőfokú végzettségű személy esetén a 30. életévét – nem töltötte be, és a tanulói, hallgatói jogviszonya megszűnését követően álláskeresési járadékra és álláskeresési segélyre nem szerzett jogosultságot,
 - c) aki gyermekgondozási segélyben, gyermeknevelési támogatásban, illetőleg terhességi gyermekágyi segélyben, gyermekgondozási díjban vagy ápolási díjban részesül,
-- d) aki rehabilitációs járadékban részesül,
+- d) aki rehabilitációs ellátásban részesül,
 - e) akinek munkaviszonya várhatóan egy éven belül megszűnik, és ezt a munkaadó a munkavállalóval és az állami foglalkoztatási szervvel előzetesen írásban közölte, vagy
 - f) aki közfoglalkoztatásban vesz részt, és a képzésben való részvételt vállalja, továbbá
 - g) aki munkaviszonyban áll és rendszeres foglalkoztatása képzés nélkül nem biztosítható.
@@ -172,15 +170,15 @@ adható.
 
 (5) A keresetkiegészítés a képzést megelőzően elért átlagkereset és a képzés alatt elért kereset különbözetéig terjedhet.
 
-(6) A keresetpótló juttatás összege nem lehet alacsonyabb a megállapításakor hatályos kötelező legkisebb munkabér 60 százalékánál, és nem haladhatja meg a megállapításakor hatályos kötelező legkisebb munkabér összegét.
+(6) A keresetpótló juttatás összege nem lehet alacsonyabb a megállapításakor hatályos közfoglalkoztatási bér 60 százalékánál, és nem haladhatja meg a megállapításakor hatályos közfoglalkoztatási bér összegét.
 
 (7)
 
 (8)
 
-(9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben részt vevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget.
+(9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben résztvevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget. Ebben az esetben a keresetpótló juttatást – erről szóló külön határozat nélkül – a mulasztás napjára járó keresetpótló juttatás összegével csökkentett összegben kell folyósítani.
 
-(10) A (8) bekezdésben meghatározott ellátást, illetve támogatást – erről szóló külön határozat nélkül – a mulasztás, illetve a munkavégzés napjára járó keresetpótló juttatás összegével csökkentett összegben kell folyósítani.
+(10)
 
 (11) A képzéssel kapcsolatos költségek részben vagy teljes mértékben megtéríthetők.
 
@@ -211,6 +209,10 @@ adható.
 
 (2) Az (1) bekezdésben meghatározott támogatás legfeljebb egyévi időtartamra, a legalább huszonnégy hónapja álláskeresőként nyilvántartott személy foglalkoztatásához legfeljebb kétévi időtartamra nyújtható.
 
+(3) Ha a munkaadó a szövetkezetekről szóló törvény szerinti szociális szövetkezet, a támogatás mértéke a munkabér és járuléka legfeljebb 70 százalékáig terjedhet feltéve, hogy a munkaadó vállalja a hátrányos helyzetű személy továbbfoglalkoztatását legalább a támogatás folyósítási időtartama 50 százalékának megfelelő időtartamra.
+
+(4) A (3) bekezdésben meghatározott támogatás esetén a támogatás és a továbbfoglalkoztatás együttes időtartama legfeljebb egy év, a legalább huszonnégy hónapja álláskeresőként nyilvántartott személy foglalkoztatása esetén legfeljebb két év lehet.
+
 ### Közhasznú munkavégzés támogatása
 
 #### 16/A. §
@@ -221,7 +223,7 @@ adható.
 
 ### Az álláskeresők vállalkozóvá válását elősegítő támogatás
 
-17. § Támogatás nyújtható annak az álláskeresőnek, valamint rehabilitációs járadékban részesülő személynek, aki munkaviszonyon kívüli tevékenységgel gondoskodik önmaga foglalkoztatásáról, ideértve azt is, aki vállalkozást indít, vagy vállalkozáshoz csatlakozik.
+17. § Támogatás nyújtható annak az álláskeresőnek, valamint rehabilitációs ellátásban részesülő személynek, aki munkaviszonyon kívüli tevékenységgel gondoskodik önmaga foglalkoztatásáról, ideértve azt is, aki vállalkozást indít, vagy vállalkozáshoz csatlakozik.
 
 ### Munkahelyteremtés és munkahelymegőrzés támogatása
 
@@ -233,17 +235,15 @@ adható.
 
 (2)
 
-### A megváltozott munkaképességű személyek foglalkoztatásának támogatása
-
 19. § (1)
 
-(2) Felhatalmazást kap a miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért felelős miniszter egyetértésével kiadott rendeletben a megváltozott munkaképességű személyek foglalkozási rehabilitációjának elősegítése érdekében foglalkoztatásuk támogatására e törvényben foglaltaknál kedvezőbb szabályokat állapítson meg, továbbá meghatározza a támogatások és szolgáltatások nyújtásával kapcsolatos eljárást.
+(2)
 
 #### 19/A. §
 
 ### Munkaerőpiaci programok támogatása
 
-19/B. § (1) A Munkaerőpiaci Alap előre meghatározott, összetett célok érdekében biztosíthatja olyan programok megvalósításának pénzügyi fedezetét, amelyek térségi foglalkoztatási célok megvalósítására, munkaerőpiaci folyamatok befolyásolására, valamint a munkaerőpiacon hátrányos helyzetben lévő rétegek foglalkoztatásának elősegítésére irányulnak.
+19/B. § (1) A Nemzeti Foglalkoztatási Alap előre meghatározott, összetett célok érdekében biztosíthatja olyan programok megvalósításának pénzügyi fedezetét, amelyek térségi foglalkoztatási célok megvalósítására, munkaerőpiaci folyamatok befolyásolására, valamint a munkaerőpiacon hátrányos helyzetben lévő rétegek foglalkoztatásának elősegítésére irányulnak.
 
 (2) Az (1) bekezdésben meghatározott programok keretében a munkaerőpiaci szolgáltatások és foglalkoztatást elősegítő támogatások egyidejűleg és egymásra épülve is nyújthatók. A programokon aktívan részt vevő álláskereső számára a különböző jogcímeken megállapítható támogatás, támogatások helyett egységes támogatás állapítható meg. Ha a program által elérni kívánt cél megvalósítása érdekében indokolt, a foglalkoztatást elősegítő támogatásokra vonatkozó szabályoktól – a 20. § (2) bekezdése szerinti jogszabályban meghatározott feltételekkel és módon – a támogatást nyújtó szerv eltekinthet.
 
@@ -257,9 +257,9 @@ adható.
 
 ### A foglalkoztatást elősegítő támogatások közös szabályai
 
-20. § (1) A 13/A. § (3) bekezdésében, a 14–16/A. §-ban, a 17–19/C. §-ban, valamint a 22. §-ban meghatározott támogatások a Munkaerőpiaci Alap foglalkoztatási alaprészéből nyújthatók.
+20. § (1) A 13/A. § (3) bekezdésében, a 14–16/A. §-ban, a 17–19/C. §-ban, valamint a 22. §-ban meghatározott támogatások a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből nyújthatók.
 
-(2) A 16/B. §-ban meghatározott támogatás a Munkaerőpiaci Alapba a 39. § (13) bekezdése szerint átcsoportosított pénzeszközből nyújtható. E támogatással kapcsolatos, a 2010. költségvetési éven túl áthúzódó kötelezettségvállalás fedezetét a Munkaerőpiaci Alap foglalkoztatási alaprész központi kerete finanszírozza.
+(2)
 
 (3) A 13/A. § (1)–(2) bekezdésében meghatározott szolgáltatások, a 14. §-ban, a 16–18. §-okban, valamint a 19/B–19/C. §-okban meghatározott támogatások a Társadalmi Megújulás Operatív Program keretében az állami foglalkoztatási szerv közreműködésével megvalósításra kerülő munkaerő-piaci programokban is nyújthatók.
 
@@ -290,7 +290,7 @@ adható.
 
 (3) Ha a támogatásban részesülő a hatósági szerződésben foglaltakat megszegi, a támogatás további folyósítását meg kell szüntetni, és a támogatásban részesülő köteles a támogatást a (4) bekezdésben foglaltak szerint visszafizetni.
 
-(4) Ha a Munkaerőpiaci Alapból nyújtott támogatást a (3) bekezdésben foglaltak alapján vissza kell követelni, a támogatást a kötelezettségszegés napjától a visszakövetelésről rendelkező határozat meghozatalának napjáig a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a késedelmi pótlék mértékére vonatkozó rendelkezése szerint kiszámított késedelmi pótlékkal növelt összegben kell visszafizetni. Amennyiben a kötelezett visszafizetési kötelezettségének a visszakövetelésről rendelkező határozatban megjelölt határidőig nem tesz eleget, e határidő elmulasztásának napjától a befizetés napjáig a támogatás összegének alapulvételével kiszámított késedelmi pótlékot is köteles fizetni.
+(4) Ha a Nemzeti Foglalkoztatási Alapból nyújtott támogatást a (3) bekezdésben foglaltak alapján vissza kell követelni, a támogatást a kötelezettségszegés napjától a visszakövetelésről rendelkező határozat meghozatalának napjáig a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a késedelmi pótlék mértékére vonatkozó rendelkezése szerint kiszámított késedelmi pótlékkal növelt összegben kell visszafizetni. Amennyiben a kötelezett visszafizetési kötelezettségének a visszakövetelésről rendelkező határozatban megjelölt határidőig nem tesz eleget, e határidő elmulasztásának napjától a befizetés napjáig a támogatás összegének alapulvételével kiszámított késedelmi pótlékot is köteles fizetni.
 
 (5) A támogatást nyújtó hatóság vezetője – erre irányuló kérelem esetén – különös méltánylást érdemlő esetben eltekinthet a késedelmi pótlék felszámításától, illetve dönthet a már felszámított késedelmi pótlék részben vagy egészben történő elengedéséről, továbbá – a munkaadónak nem minősülő természetes személy részére nyújtott támogatás esetén – a visszakövetelt támogatás visszafizetésének részben vagy egészben történő elengedéséről.
 
@@ -304,17 +304,17 @@ adható.
 
 #### 23. §
 
-### V. Fejezet — ÁLLÁSKERESŐK TÁMOGATÁSA
+### V. Fejezet — ÁLLÁSKERESŐK ELLÁTÁSA
 
-24. § Az álláskereső részére – az e törvényben meghatározott feltételek szerint – álláskeresési támogatásként álláskeresési járadék, nyugdíj előtti álláskeresési segély, valamint költségtérítés jár.
+24. § Az álláskereső részére – az e törvényben meghatározott feltételek szerint – álláskeresési ellátásként álláskeresési járadék, nyugdíj előtti álláskeresési segély, valamint költségtérítés jár.
 
 ### Álláskeresési járadék
 
 25. § (1) Álláskeresési járadék illeti meg azt, aki
 
 - a) álláskereső,
-- b) az álláskeresővé válását megelőző öt éven belül legalább 360 nap – a 27. § (1) bekezdésében meghatározott – jogosultsági idővel rendelkezik,
-- c) rokkantsági, baleseti rokkantsági nyugdíjra nem jogosult, továbbá táppénzben nem részesül,
+- b) az álláskeresővé válását megelőző három éven belül legalább 360 nap – a 27. § (1) bekezdésében meghatározott – jogosultsági idővel rendelkezik,
+- c) megváltozott munkaképességű személyek ellátására nem jogosult, továbbá táppénzben nem részesül,
 - d) munkát akar vállalni, de önálló álláskeresése nem vezetett eredményre, és számára az állami foglalkoztatási szerv sem tud megfelelő munkahelyet felajánlani.
 
 (2) Az (1) bekezdés d) pontjában előírt feltételek alkalmazásában a munkahely akkor megfelelő, ha
@@ -327,15 +327,16 @@ adható.
 
 (3) A megváltozott munkaképességű álláskereső esetében az (1) bekezdés d) pontjában előírt feltétel alkalmazásában a munkahely akkor megfelelő, ha megfelel a (2) bekezdés a)–c) és e) pontjában foglalt feltételeknek, és a munkahely és a lakóhely közötti naponta – a megváltozott munkaképességű álláskereső által igénybe vehető közlekedési eszközzel – történő oda- és visszautazás ideje a két órát nem haladja meg.
 
-(4) Az (1) bekezdés b) pontjában meghatározott munkaviszony időtartamába nem számítható be a fizetés nélküli szabadság harminc napot meghaladó időtartama, kivéve, ha annak igénybevételére
+(4) Az (1) bekezdés b) pontjában meghatározott jogosultsági idő időtartamába nem számítható be a fizetés nélküli szabadság harminc napot meghaladó időtartama, kivéve, ha annak igénybevételére
 
 - a) háromévesnél – ha a munkavállaló a gyermek gondozása céljából gyermekgondozási segélyben részesül, tizennégy évesnél – fiatalabb gyermek gondozása, vagy tizenkét évesnél fiatalabb beteg gyermek otthoni ápolása [a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 138. § (5) bek.], valamint
 - b) közeli hozzátartozó ápolása [Mt. 139. § (1) bek.], továbbá
 - c) saját részére magánerőből lakás építése [Mt. 140. § (1) bek.]
+- d) önkéntes tartalékos katonai tényleges szolgálatteljesítés
 
 miatt kerül sor.
 
-(5) Az álláskereső részére a (2) bekezdésben foglalt feltételeknek megfelelő, rövid időtartamú munkalehetőség (ideértve a közfoglalkoztatást is) felajánlható.
+(5) Az álláskereső részére a (2) bekezdésben foglalt feltételeknek megfelelő, rövid időtartamú munkalehetőség felajánlható.
 
 (6) Az álláskeresési járadék folyósításának időtartama alatt folytatott alkalmi foglalkoztatásnak minősülő munkaviszony időtartama az álláskeresési járadék folyósítási idejének kimerítését vagy megszüntetését követően megállapított álláskeresési járadék esetében nem vehető figyelembe jogosultsági időként.
 
@@ -351,7 +352,7 @@ miatt kerül sor.
 
 (5) Az álláskeresési járadék napi összege a (4) bekezdés alapján meghatározott járadékalap 60 százaléka, legfeljebb a jogosultság kezdő napján hatályos kötelező legkisebb munkabér napi összegének megfelelő összeg.
 
-(6) Az álláskeresési járadék napi összege a folyósítási időtartam második szakaszában az álláskeresési járadékra való jogosultság kezdő napján hatályos kötelező legkisebb munkabér napi összegének 60 százaléka. Ha a járadék számításánál figyelembe vett összeg nem éri el a minimálbért, akkor mindkét szakaszban az álláskeresési járadék napi összege az (1) és (3)–(4) bekezdés szerint számított összeg 60 százaléka.
+(6)
 
 (7) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó személyek esetében az Európai Gazdasági Térség másik tagállamában szerzett bért, szakmai jövedelmet vagy átlagkeresetet az (1) bekezdésben meghatározott járulékalapként kell figyelembe venni.
 
@@ -359,13 +360,13 @@ miatt kerül sor.
 
 ### Álláskeresési járadék folyósításának időtartama
 
-27. § (1) Az álláskeresési járadék folyósításának időtartamát (a továbbiakban: folyósítási idő) – a 25. § (4) bekezdésében foglaltak figyelembevételével – annak az időtartamnak az alapulvételével kell megállapítani, amely alatt az álláskereső az álláskeresővé válást megelőző öt év alatt munkaviszonyban, közfoglalkoztatási jogviszonyban töltött, vagy egyéni, illetőleg társas vállalkozói tevékenységet folytatott, feltéve ez utóbbi esetben, hogy vállalkozói tevékenysége alatt járulékfizetési kötelezettségének eleget tett (a továbbiakban együtt: jogosultsági idő). A jogosultsági idő tartamába nem számítható be az az időtartam, amely alatt az álláskereső álláskeresési járadékban vagy vállalkozói járadékban részesült. Az előbbiekben meghatározott ötéves időtartam meghosszabbodik a következő időtartamokkal vagy azok egy részével, ha ezen időtartamok alatt munkaviszony, közfoglalkoztatási jogviszony nem állt fenn, vagy az álláskereső jogosultsági időnek minősülő vállalkozói tevékenységet nem folytatott:
+27. § (1) Az álláskeresési járadék folyósításának időtartamát (a továbbiakban: folyósítási idő) – a 25. § (4) bekezdésében foglaltak figyelembevételével – annak az időtartamnak az alapulvételével kell megállapítani, amely alatt az álláskereső az álláskeresővé válást megelőző három év alatt munkaviszonyban, közfoglalkoztatási jogviszonyban töltött, vagy egyéni, illetőleg társas vállalkozói tevékenységet folytatott, feltéve ez utóbbi esetben, hogy vállalkozói tevékenysége alatt járulékfizetési kötelezettségének eleget tett (a továbbiakban együtt: jogosultsági idő). A jogosultsági idő tartamába nem számítható be az az időtartam, amely alatt az álláskereső álláskeresési járadékban vagy vállalkozói járadékban részesült. Az előbbiekben meghatározott ötéves időtartam meghosszabbodik a következő időtartamokkal vagy azok egy részével, ha ezen időtartamok alatt munkaviszony, közfoglalkoztatási jogviszony nem állt fenn, vagy az álláskereső jogosultsági időnek minősülő vállalkozói tevékenységet nem folytatott:
 
 - a) a sor-, valamint tartalékos katonai szolgálat, továbbá a polgári szolgálat,
 - b) a keresőképtelenséggel járó betegség,
 - c) a beteg gyermek ápolására igénybe vett táppénzes állomány,
 - d) a terhességi-gyermekágyi segély, a gyermekgondozási díj, a gyermekgondozási segély folyósítása,
-- e) a rehabilitációs járadék, a rokkantsági és a baleseti rokkantsági nyugdíj, a rendszeres szociális járadék, az átmeneti járadék, továbbá a bányászok egészségkárosodási járadéka folyósításának,
+- e) a megváltozott munkaképességű személyek ellátásai, a rehabilitációs járadék, a rokkantsági és a baleseti rokkantsági nyugdíj, a rendszeres szociális járadék, az átmeneti járadék, a bányászok egészségkárosodási járadéka folyósításának,
 - f) az előzetes letartóztatás, valamint a szabadságvesztés, és az elzárás büntetés,
 - g) az ápolási díj és a gyermeknevelési támogatás folyósítása,
 - h) a nappali tagozaton történő tanulmányok folytatásának
@@ -378,7 +379,7 @@ időtartamával.
 
 (4) Az álláskeresési járadék folyósításának kezdő napja az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezésének napja.
 
-(5) Ha a munkaviszonyt az álláskeresővé válást megelőző 90 napon belül a munkavállaló rendes felmondással, továbbá a munkaadó rendkívüli felmondással szüntette meg, az álláskereső részére álláskeresési járadék az előbbiekben meghatározott módon megszüntetett munkaviszony megszűnését követő 90 nap elteltével folyósítható, tekintet nélkül arra, hogy az álláskeresési járadék folyósításához szükséges feltételekkel rendelkezik.
+(5)
 
 (6) A folyósítási idő számítása szempontjából a jogosultsági idő csak egyszer vehető figyelembe. Ha az álláskereső az álláskeresési járadék folyósításának számára meghatározott időtartamát teljes mértékben nem vette igénybe, az ismételt folyósításnál a járadékfolyósítás időtartamának alapját képező jogosultsági időt a tényleges járadékfolyósítási időtartamnak megfelelően csökkenteni kell. Ezt a rendelkezést alkalmazni kell a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó személy által, az Európai Gazdasági Térség másik tagállamában igénybevett munkanélküli ellátás tekintetében is.
 
@@ -394,7 +395,7 @@ időtartamával.
 
 (11) Ha az álláskereső részére az állami foglalkoztatási szerv (illetőleg annak kirendeltsége) a (8) bekezdésben meghatározott összeget kifizette, úgy kell tekinteni, hogy az álláskereső az álláskeresési járadék folyósítási idejét kimerítette.
 
-(12) Ha az állami foglalkoztatási szerv a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó álláskereső részére ideiglenes ellátást állapít meg, az ellátás addig folyósítható, amíg az – álláskeresési járadék vagy álláskeresési segély megállapításához szükséges – az Európai Gazdasági Térség másik tagállamában szerzett jogosultsági időre, valamint szakmai jövedelemre, bérre vagy átlagkeresetre, valamint az igénybe vett munkanélküli ellátásra vonatkozó bizonyíték rendelkezésre nem áll. Az ideiglenes ellátás folyósításának időtartama nem haladhatja meg a 180 napot.
+(12) Ha az állami foglalkoztatási szerv a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó álláskereső részére ideiglenes ellátást állapít meg, az ellátás addig folyósítható, amíg az – álláskeresési járadék vagy álláskeresési segély megállapításához szükséges – az Európai Gazdasági Térség másik tagállamában szerzett jogosultsági időre, valamint szakmai jövedelemre, bérre vagy átlagkeresetre, valamint az igénybe vett munkanélküli ellátásra vonatkozó bizonyíték rendelkezésre nem áll. Az ideiglenes ellátás folyósításának időtartama nem haladhatja meg a 60 napot.
 
 ### Álláskeresési járadék folyósításának megszüntetése és szüneteltetése
 
@@ -402,13 +403,13 @@ időtartamával.
 
 - a) kéri,
 - b) álláskeresési járadékban részesül, és törlik a nyilvántartásból,
-- c) rokkantsági, baleseti rokkantsági nyugdíjra válik jogosulttá,
+- c) megváltozott munkaképességű személyek ellátására válik jogosulttá,
 - d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatási jogviszonyban foglalkoztatottakat,
 - e) olyan képzési lehetőséget fogad el, amelynek során a mindenkori kötelező legkisebb munkabér összegét elérő rendszeres támogatásban részesül,
 - f) oktatási intézmény nappali tagozatán folytat tanulmányokat,
 - g) meghalt,
 - h) az álláskeresési járadék folyósítási idejét kimerítette,
-- i) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozik, az Európai Gazdasági Térség másik tagállamába távozik, és legfeljebb a távozás időpontjától számított három hónap elteltével a Magyar Köztársaság területére nem tér vissza.
+- i)
 
 (2) Ha az álláskeresési járadék folyósításának megszüntetése az (1) bekezdés b) pontjában meghatározott ok miatt, valamint a keresőtevékenység folytatása miatt úgy történik, hogy az álláskereső 36. § (1) bekezdése szerinti bejelentést elmulasztotta, az álláskereső részére álláskeresési járadék csak a folyósítás megszüntetésének kezdő napjától számított 90 nap elteltével folyósítható még akkor is, ha a jogosultsághoz szükséges feltételekkel egyébként rendelkezik.
 
@@ -419,6 +420,7 @@ időtartamával.
 - c) a 25. § (5) bekezdésében meghatározott közfoglalkoztatás alatt,
 - d) rövid időtartamú, legfeljebb kilencven napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével – feltéve, hogy bejelentési kötelezettségének eleget tett.
 - e) a 14. § (6) bekezdésében meghatározott keresetpótló juttatásban részesül.
+- f) az önkéntes tartalékos katonai szolgálat keretében tényleges szolgálatot teljesít, ezen időszak teljes időtartamára.
 
 (2) Ha az álláskeresési járadék folyósítása szünetelésének oka megszűnik, és fennállnak a 25. § (1) bekezdésében meghatározott feltételek, az álláskeresési járadékot a megállapító határozatban meghatározott feltételekkel tovább kell folyósítani.
 
@@ -429,13 +431,14 @@ időtartamával.
 30. § (1) Az álláskereső kérelmére nyugdíj előtti álláskeresési segélyt (a továbbiakban: álláskeresési segély) kell megállapítani, ha
 
 - a) rendelkezik a 25. § (1) bekezdésének c)–d) pontjában, meghatározott feltételekkel, és
-- b) a kérelem benyújtásának időpontjában a reá irányadó öregségi nyugdíjkorhatár betöltéséhez legfeljebb öt év hiányzik, és 90 napon át álláskeresési járadékban részesült, és az álláskeresési járadék folyósítása időtartamát kimerítette, és
+- b) a kérelem benyújtásának időpontjában a reá irányadó öregségi nyugdíjkorhatár betöltéséhez legfeljebb öt év hiányzik, és 45 napon át álláskeresési járadékban részesült, és az álláskeresési járadék folyósítása időtartamát kimerítette, és
 - c) az álláskeresési járadék folyósításának kimerítését követően három éven belül betöltötte a b) pontjában meghatározott életkort, és
-- d) rendelkezik az öregségi nyugdíjhoz szükséges szolgálati idővel.
+- d) rendelkezik az öregségi nyugdíjhoz szükséges szolgálati idővel, és,
+- e) korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban és átmeneti bányászjáradékban nem részesül.
 
 (2) Az álláskeresési segély összege a kérelem benyújtásának időpontjában hatályos kötelező legkisebb munkabér 40 százaléka. Ha a 26. § (1)–(3) bekezdése szerinti járadékalap az előbbi összegnél alacsonyabb volt, az álláskeresési segély összege a járadékalappal megegyező összeg.
 
-(3) Az álláskeresési segély az álláskereső öregségi, rokkantsági, baleseti rokkantsági nyugdíj jogosultságának megszerzéséig terjedő időtartamra folyósítható.
+(3) Az álláskeresési segély az álláskereső öregségi nyugdíj, megváltozott munkaképességű személyek ellátása jogosultságának megszerzéséig terjedő időtartamra folyósítható.
 
 (4) Az álláskeresési segély folyósításának kezdő napja az álláskeresési segély iránti kérelem benyújtását követő nap. Töredék hónap esetén az egy napra járó álláskeresési segély összege a (2) bekezdésben meghatározott összeg harmincad része.
 
@@ -454,7 +457,7 @@ időtartamával.
 
 ### Költségtérítés
 
-31. § Az álláskereső részére járó járadék vagy segély megállapításával, valamint a munkahelykereséssel kapcsolatos (ideértve a lakóhelyétől a az állami foglalkoztatási szervhez történő oda- és visszautazást, valamint az állami foglalkoztatási szerv által kezdeményezett foglalkozás-egészségügyi szakvélemény beszerzéséhez szükséges utazást is), a tömegközlekedési eszköz igénybevételével felmerült indokolt helyközi utazási költséget meg kell téríteni. Jogszabály az álláskereső részére az e §-ban felsorolt okokból felmerült, indokolt helyi utazási költségek megtérítéséről is rendelkezhet.
+#### 31. §
 
 32. § Az álláskereső részére járó álláskeresési járadék, álláskeresési segély megállapításával, valamint a munkahelykereséssel kapcsolatos (ideértve a lakóhelyétől az állami foglalkoztatási szervhez történő oda- és visszautazást, valamint az állami foglalkoztatási szerv által kezdeményezett foglalkozás-egészségügyi szakvélemény beszerzéséhez szükséges utazást is), a tömegközlekedési eszköz igénybevételével felmerült indokolt helyközi utazási költséget meg kell téríteni. Jogszabály az álláskereső részére az e §-ban felsorolt okokból felmerült, indokolt helyi utazási költségek megtérítéséről is rendelkezhet.
 
@@ -488,7 +491,7 @@ időtartamával.
 
 (5) Az állami foglalkoztatási szerv vezetője – erre irányuló kérelem esetén – különös méltánylást érdemlő esetben dönthet a jogalap nélkül felvett és visszakövetelt munkanélküli ellátás visszafizetésének részben vagy egészben történő elengedéséről.
 
-(6) Ha a bíróság jogerősen megállapította, hogy a munkaadó a munkavállaló munkaviszonyát jogellenesen szüntette meg, a munkaadó köteles a bíróság határozatának jogerőre emelkedéséig az érintett részére kifizetett munkanélküli járadék és annak járulékai összegét a Munkaerőpiaci Alap szolidaritási alaprészébe befizetni. A bíróság a jogerős határozatot az állami foglalkoztatási szervnek megküldi, amely ennek alapján határoz.
+(6) Ha a bíróság jogerősen megállapította, hogy a munkaadó a munkavállaló munkaviszonyát jogellenesen szüntette meg, a munkaadó köteles a bíróság határozatának jogerőre emelkedéséig az érintett részére kifizetett munkanélküli járadék és annak járulékai összegét a Nemzeti Foglalkoztatási Alap szolidaritási alaprészébe befizetni. A bíróság a jogerős határozatot az állami foglalkoztatási szervnek megküldi, amely ennek alapján határoz.
 
 (7) Az (5) bekezdésben meghatározott méltányosság szempontjából a 21. § (6) bekezdésében foglaltakat kell figyelembe venni.
 
@@ -502,25 +505,25 @@ időtartamával.
 
 ÉS A FOGLALKOZTATÁST ELŐSEGÍTŐ TÁMOGATÁSOK FEDEZETE
 
-### Munkaerőpiaci Alap
+### Nemzeti Foglalkoztatási Alap
 
-39. § (1) A Munkaerőpiaci Alap a Munkanélküliek Szolidaritási Alapja, a Foglalkoztatási Alap, a Szakképzési Alap, a Rehabilitációs Alap, valamint a Bérgarancia Alap összevonásával létrehozott elkülönített állami pénzalap. Az összevonásra került alapok követelései és tartozásai a Munkaerőpiaci Alapot illetik meg, illetőleg terhelik.
+39. § (1) A Munkaerőpiaci Alap, mint elkülönített állami pénzalap elnevezése Nemzeti Foglalkoztatási Alapra módosul.
 
-(2) A Munkaerőpiaci Alap célja a foglalkoztatáshoz, a munkanélküliséghez, a képzési rendszer fejlesztéséhez kapcsolódó pénzeszközök összevonásával, egységes kezelésével
+(2) A Nemzeti Foglalkoztatási Alap célja a foglalkoztatáshoz, a munkanélküliséghez, a képzési rendszer fejlesztéséhez kapcsolódó pénzeszközök összevonásával, egységes kezelésével
 
-- a) az álláskeresők támogatásának biztosítása,
+- a) az álláskeresők ellátásának biztosítása,
 - b) a munkaerő alkalmazkodásának, az álláskeresők munkához jutásának támogatása,
 - c) a felszámolás alatt álló gazdálkodó szervezetek munkavállalói szociális biztonságának elősegítése,
 - d) a képzési rendszer fejlesztésének támogatása,
 - e)
-- f) hozzájárulás a korengedményes nyugdíjak kifizetésének részbeni finanszírozásához,
+- f) hozzájárulás a korengedményes nyugdíj helyébe lépő korhatár előtti ellátás kifizetésének részbeni finanszírozásához,
 - g) az egyes alaprészekből finanszírozott ellátások, támogatások működtetésével kapcsolatos kiadások fedezetének biztosítása, valamint
 - h)
 - i) az Európai Foglalkoztatási Szolgálat működési és fejlesztési kiadásainak finanszírozásához történő hozzájárulás.
 
-(3) A Munkaerőpiaci Alapon belül – a pénzeszközök felhasználásának célja szerint – a következő alaprészeket kell elkülöníteni:
+(3) A Nemzeti Foglalkoztatási Alapon belül – a pénzeszközök felhasználásának célja szerint – a következő alaprészeket kell elkülöníteni:
 
-- a) szolidaritási alaprészt az álláskeresési járadék, az álláskeresési segély, a munkanélküli járadék, a pályakezdők munkanélküli segélye, az előnyugdíj, a nyugdíj előtti munkanélküli segély, az álláskeresést ösztönző juttatás, a költségtérítés (31. §), valamint ezek juttatásával kapcsolatos postaköltség, továbbá a kifizetett ellátásokat terhelő, a társadalombiztosítási szabályokban meghatározott járulék finanszírozására, valamint a válság miatt létszámleépítéssel érintett munkavállalók foglalkoztatásának – az álláskeresési támogatás folyósítása helyett történő – elősegítésére;
+- a) szolidaritási alaprészt az álláskeresési járadék, a nyugdíj előtti álláskeresési segély, az álláskeresési segély, a munkanélküli járadék, a pályakezdők munkanélküli segélye, az előnyugdíj, a nyugdíj előtti munkanélküli segély, az álláskeresést ösztönző juttatás, a költségtérítés (31. §), valamint ezek juttatásával kapcsolatos postaköltség finanszírozására;
 - b)
 - c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által az alap- és középfokú oktatási intézményben pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
 - d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás finanszírozására;
@@ -528,26 +531,23 @@ időtartamával.
 - f)–g)
 - h)
 
-(4) Az egyes alaprészek terhére elszámolhatók a Munkaerőpiaci Alap beszámolóját megalapozó informatikai szolgáltatás és könyvvizsgálati ellenőrzés díja arányosan, valamint az alaprészből finanszírozott ellátások, támogatások igénybevételének hirdetésével, közzétételével kapcsolatos kiadások, szakértői díjak, valamint az alaprészek pénzeszközei visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek.
+(4) Az egyes alaprészek terhére elszámolhatók a Nemzeti Foglalkoztatási Alap beszámolóját megalapozó informatikai szolgáltatás és könyvvizsgálati ellenőrzés díja arányosan, az alaprészből finanszírozott ellátások, támogatások igénybevételének hirdetésével, közzétételével kapcsolatos kiadások, szakértői díjak, valamint az alaprészek pénzeszközei visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek, elszámolható továbbá az alaprészből finanszírozott ellátásokkal, támogatásokkal kapcsolatos nyilvántartás működtetéséhez szükséges informatikai fejlesztések költsége.
 
-(5) A Munkaerőpiaci Alap külön előirányzataiból finanszírozott támogatások igénybevételének hirdetésével, közzétételével kapcsolatos kiadásokra, szakértői díjakra az alaprészekből finanszírozott támogatásokkal kapcsolatos ilyen jellegű kiadásokra vonatkozó szabályokat kell megfelelően alkalmazni.
+(5) A Nemzeti Foglalkoztatási Alap külön előirányzataiból finanszírozott támogatások igénybevételének hirdetésével, közzétételével kapcsolatos kiadásokra, szakértői díjakra az alaprészekből finanszírozott támogatásokkal kapcsolatos ilyen jellegű kiadásokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(6) Felhatalmazást kap
-
-- a) a Kormány, hogy rendeletben határozza meg 1. a megváltozott munkaképességű munkavállalókat foglalkoztató munkaadók akkreditációjának, továbbá az akkreditált munkaadók ellenőrzésének szabályait; 2. a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatás feltételeit, módját és mértékét;
-- b) a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy rendeletben szabályozza 1. az akkreditációs eljárás és követelményrendszer; 2. a megváltozott munkaképességű személyek foglalkoztatásához nyújtható költségvetési támogatás további feltételeinek, igénylésének, folyósításának, nyilvántartásának, megszüntetésének és visszakövetelésének, valamint ellenőrzésének részletes szabályait.
+(6)
 
 (7)
 
-(8) Az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás tekintetében a Munkaerőpiaci Alap mint központi programok kedvezményezettje finanszírozza az előbbiekben említett intézkedések végrehajtása érdekében teljesített kifizetéseket.
+(8) Az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás tekintetében a Nemzeti Foglalkoztatási Alap mint központi programok kedvezményezettje finanszírozza az előbbiekben említett intézkedések végrehajtása érdekében teljesített kifizetéseket.
 
-(9) A Munkaerőpiaci Alap bevételét képező járulék, illetőleg hozzájárulás beszedése érdekében igénybe vett szolgáltatás díja a Munkaerőpiaci Alapnak azt az alaprészét terheli, amelynek kiadásai finanszírozása érdekében a járulék fizetése történik.
+(9) A Nemzeti Foglalkoztatási Alap bevételét képező járulék, szociális hozzájárulási adó költségvetési törvényben meghatározott hányada, illetőleg hozzájárulás beszedése érdekében igénybe vett szolgáltatás díja a Nemzeti Foglalkoztatási Alapnak azt az alaprészét terheli, amelynek kiadásai finanszírozása érdekében a járulék és szociális hozzájárulási adó fizetése történik.
 
-(10) A Munkaerőpiaci Alap alaprészeinek központi pénzügyi kerete által finanszírozott program esetében a programhoz közvetlenül kapcsolódó igazolt költségek az érintett keret terhére elszámolhatók, illetve abból megtéríthetők.
+(10) A Nemzeti Foglalkoztatási Alap alaprészeinek központi pénzügyi kerete által finanszírozott program esetében a programhoz közvetlenül kapcsolódó igazolt költségek az érintett keret terhére elszámolhatók, illetve abból megtéríthetők.
 
 (11) Az elkülönített alaprészek bevételeit és kiadásait az éves költségvetési törvény címenként, illetve alcímenként tartalmazza.
 
-(12) A Munkaerőpiaci Alap költségvetésében külön előirányzat tartalmazza:
+(12) A Nemzeti Foglakoztatási Alap költségvetésében külön előirányzat tartalmazza:
 
 - a) a külön jogszabályban meghatározott járulékkedvezmény megtérítésére szolgáló pénzeszközöket,
 - b) az európai uniós operatív programok előfinanszírozásának céljára szolgáló pénzeszközöket,
@@ -562,12 +562,11 @@ időtartamával.
 
 (13)
 
-39/A. § (1) A Munkaerőpiaci Alappal a miniszter rendelkezik. Rendelkezési jogát
+39/A. § (1) A Nemzeti Foglalkoztatási Alappal – a képzési alaprész kivételével – a miniszter rendelkezik. A miniszter rendelkezési jogát a 39. § (12) bekezdés d) pontjában meghatározott előirányzat tekintetében a (2) bekezdés szerint a közfoglalkoztatásért felelős miniszterrel megosztva gyakorolja. A Nemzeti Foglalkoztatási Alap képzési alaprésze feletti rendelkezési jogra, valamint a képzési alaprész felhasználására vonatkozó szabályokat a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény határozza meg.
 
-- a)
-- b) a Munkaerőpiaci Alap képzési alaprésze tekintetében – a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározottak szerint – az oktatásért felelős miniszterrel megosztva gyakorolja.
+(2) A 39. § (12) bekezdés d) pontjában meghatározott előirányzat fő felhasználási céljait – kormányrendeletben foglaltak alapulvételével – a foglalkoztatáspolitikáért felelős miniszter és a közfoglalkoztatásért felelős miniszter együttesen határozza meg. Országos közfoglalkoztatási program indítására és az azzal kapcsolatos egyedi kötelezettségvállalásra a közfoglalkoztatásért felelős miniszter jogosult.
 
-(2)–(4)
+(3)–(4)
 
 (5)
 
@@ -575,47 +574,47 @@ időtartamával.
 
 (7)
 
-(8) A miniszter a Munkaerőpiaci Alap év végi egyenlegének megóvása érdekében dönthet
+(8) A miniszter a Nemzeti Foglalkoztatási Alap év végi egyenlegének megóvása érdekében dönthet
 
 - a) a keletkezett többletbevételek felhasználásának mértékéről,
 - b) a kiadások évközi ütemezésének módosításáról,
-- c) a Munkaerőpiaci Alap 39. § (3) bekezdésének c), valamint e)–g) pontjaiban meghatározott alaprészek tekintetében a kiadások csökkentéséről.
+- c) a Nemzeti Foglalkoztatási Alap 39. § (3) bekezdésének c) és e) pontjában meghatározott alaprészek tekintetében a kiadások csökkentéséről.
 
-(9) A Munkaerőpiaci Alap pénzeszközeinek felhasználásáról e törvény, valamint külön jogszabály szerint a miniszter, valamint az állami foglalkoztatási szervek gondoskodnak.
+(9) A Nemzeti Foglalkoztatási Alap pénzeszközeinek felhasználásáról e törvény, valamint külön jogszabály szerint a miniszter, valamint az állami foglalkoztatási szervek gondoskodnak.
 
-(10) A Munkaerőpiaci Alap bevételi és kiadási előirányzatát és annak alaprészek közötti megosztását az Országgyűlés címenként és alcímenként a költségvetési törvényben hagyja jóvá. Az alaprészen belüli további jogcímeket a miniszter állapítja meg.
+(10) A Nemzeti Foglalkoztatási Alap bevételi és kiadási előirányzatát és annak alaprészek közötti megosztását az Országgyűlés címenként és alcímenként a költségvetési törvényben hagyja jóvá. Az alaprészen belüli további jogcímeket a miniszter állapítja meg.
 
 (11)
 
-39/B. § (1) A Munkaerőpiaci Alap egyes alaprészeinek pénzeszközei a miniszter döntése szerint egymás közt átcsoportosíthatók, feltéve, ha erre az eredeti előirányzatokon felül képződő többletbevételek fedezetet biztosítanak, vagy az egyes alaprészek tényleges kiadásainak az előirányzatoktól való elmaradása várhatóan fedezetet nyújt.
+39/B. § (1) A Nemzeti Foglalkoztatási Alap egyes alaprészeinek pénzeszközei a miniszter döntése szerint egymás közt átcsoportosíthatók, feltéve, ha erre az eredeti előirányzatokon felül képződő többletbevételek fedezetet biztosítanak, vagy az egyes alaprészek tényleges kiadásainak az előirányzatoktól való elmaradása várhatóan fedezetet nyújt.
 
 (2)–(3)
 
 (4)
 
-(5) A Munkaerőpiaci Alap foglalkoztatási alaprésze terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékig vállalható, amely nem haladhatja meg a tárgyévi eredeti, előirányzat-módosítás esetén a módosított kiadási előirányzat 40 százalékát.
+(5) A Nemzeti Foglalkoztatási Alap foglalkoztatási alaprésze terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékig vállalható, amely nem haladhatja meg a tárgyévi eredeti, előirányzat-módosítás esetén a módosított kiadási előirányzat 40 százalékát.
 
-(6) A Munkaerőpiaci Alap közfoglalkoztatási támogatások előirányzata terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékben, legfeljebb a tárgyévi költségvetési támogatás összegének 40%-os mértékéig vállalható.
+(6) A Nemzeti Foglalkoztatási Alap közfoglalkoztatási támogatások előirányzata terhére tárgyéven túli fizetési kötelezettség a miniszter által meghatározott mértékben, legfeljebb a tárgyévi költségvetési támogatás összegének 40%-os mértékéig vállalható.
 
-39/C. § (1) A Munkaerőpiaci Alap bevétele:
+39/C. § (1) A Nemzeti Foglalkoztatási Alap bevétele:
 
 - a) a Tbj.-ben meghatározott munkaerő-piaci járulék;
-- b)
+- b) a szociális hozzájárulási adónak a költségvetési törvényben meghatározott százaléka.
 - c)
 - d)
 - e) a szakképzési hozzájárulásról és a képzési rendszer fejlesztésének támogatásáról szóló törvényben meghatározott szakképzési hozzájárulás;
 - f) a központi költségvetési támogatás;
 - g) az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás végrehajtása érdekében befolyó bevételek;
 - h)
-- i) egyéb bevételek: a Munkaerőpiaci Alap javára teljesített visszafizetés, a hatósági eljárás alapján befolyt bevétel, bírság, késedelmi pótlék, kamatbevétel, a Munkaerőpiaci Alap javára teljesített önkéntes befizetés, támogatás, valamint a működésével összefüggő bevétel;
+- i) egyéb bevételek: a Nemzeti Foglalkoztatási Alap javára teljesített visszafizetés, a hatósági eljárás alapján befolyt bevétel, késedelmi pótlék, kamatbevétel, a Nemzeti Foglalkoztatási Alap javára teljesített önkéntes befizetés, támogatás, valamint a működésével összefüggő bevétel;
 - j) uniós forrás terhére megvalósuló operatív program finanszírozására szolgáló előleg;
 - k) az Európai Globalizációs Alkalmazkodási Alaptól az 1927/2006 EK rendelet alapján társfinanszírozás címen befolyó bevétel.
 
-(2) A Munkaerőpiaci Alapba teljesített visszafizetések azt az alaprészt növelik, amelyből a támogatást, illetőleg az ellátást folyósították.
+(2) A Nemzeti Foglalkoztatási Alapba teljesített visszafizetések azt az alaprészt növelik, amelyből a támogatást, illetőleg az ellátást folyósították.
 
-(3) A Munkaerőpiaci Alapba önkéntes befizetések is teljesíthetők, amelyek közérdekű kötelezettségvállalásnak minősülnek.
+(3) A Nemzeti Foglalkoztatási Alapba önkéntes befizetések is teljesíthetők, amelyek közérdekű kötelezettségvállalásnak minősülnek.
 
-(4) A Munkaerőpiaci Alap javára fennálló követelések a követelést nyilvántartó szervek döntése alapján behajthatatlannak minősíthetők. E szervek a behajthatatlan követeléseket törlik a nyilvántartásaikból.
+(4) A Nemzeti Foglalkoztatási Alap javára fennálló követelések a követelést nyilvántartó szervek döntése alapján behajthatatlannak minősíthetők. E szervek a behajthatatlan követeléseket törlik a nyilvántartásaikból.
 
 (5) A (4) bekezdés alkalmazásában az a követelés behajthatatlan
 
@@ -627,28 +626,28 @@ időtartamával.
 - f) amely a hatályos jogszabályok alapján elévült,
 - g) amelyet az állami foglalkoztatási szerv a közösségi jog alapján migráns ellátásként kifizetett és az ellátás megtérítése érdekében tett intézkedés az érintett tagállam illetékes intézménye felé nem vezetett eredményre.
 
-(6) A (4)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell a 39. § (3) bekezdésében meghatározott alaprészekkel szemben a Munkaerőpiaci Alap létrejöttét megelőzően keletkezett követelésekre is.
+(6) A (4)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell a 39. § (3) bekezdésében meghatározott alaprészekkel szemben a Nemzeti Foglalkoztatási Alap létrejöttét megelőzően keletkezett követelésekre is.
 
 (7)
 
-39/D. § (1) A Munkaerőpiaci Alap rendelkezésére álló pénzeszközök tárgyév végi záró állománya nem lehet kevesebb a tárgyévi költségvetési támogatással fedezett kiadások nélkül számított kiadási főösszeg eredeti előirányzatának 25/365 részénél (a továbbiakban: likviditási tartalék).
+39/D. § (1) A Nemzeti Foglalkoztatási Alap rendelkezésére álló pénzeszközök tárgyév végi záró állománya nem lehet kevesebb a tárgyévi költségvetési támogatással fedezett kiadások nélkül számított kiadási főösszeg eredeti előirányzatának 25/365 részénél (a továbbiakban: likviditási tartalék).
 
-(2) Amennyiben a Munkaerőpiaci Alap záróállománya nem éri el az (1) bekezdésben meghatározott minimális szintet, úgy ennek eléréséhez fel kell tölteni a likviditási tartalékot.
+(2) Amennyiben a Nemzeti Foglalkoztatási Alap záróállománya nem éri el az (1) bekezdésben meghatározott minimális szintet, úgy ennek eléréséhez fel kell tölteni a likviditási tartalékot.
 
 (3) A feltöltés ütemezése a költségvetési törvény előírásai szerint történik. A feltöltés további lehetséges forrásai:
 
 - a) tervezett mértéket meghaladó bevételek;
 - b) kiadási előirányzatok tárgyévben fel nem használt része.
 
-(4) Amennyiben a tárgyévet megelőző év végén a Munkaerőpiaci Alap megállapított záró állománya a likviditási tartalék szintjét meghaladta, úgy az e szint fölötti rész tárgyévi felhasználásáról a miniszter az államháztartásért felelős miniszter egyetértésével dönt az (1) bekezdésben foglaltakra figyelemmel.
+(4) Amennyiben a tárgyévet megelőző év végén a Nemzeti Foglalkoztatási Alap megállapított záró állománya a likviditási tartalék szintjét meghaladta, úgy az e szint fölötti rész tárgyévi felhasználásáról a miniszter az államháztartásért felelős miniszter egyetértésével dönt az (1) bekezdésben foglaltakra figyelemmel.
 
-(5) A rendszeres szociális segély átalakításával összefüggő, a Társadalmi Megújulás Operatív Program keretében uniós forrás terhére megvalósuló program finanszírozása érdekében a Munkaerőpiaci Alap záró állományában jelentkező, tárgyévben fel nem használt pénzeszköz – a miniszternek az államháztartásért felelős miniszterrel egyetértésben meghozott döntése alapján – a tárgyévet követően felhasználható.
+(5) A Társadalmi Megújulás Operatív Program keretében uniós forrás terhére megvalósuló program finanszírozása érdekében a Nemzeti Foglalkoztatási Alap záró állományában jelentkező, tárgyévben fel nem használt pénzeszköz – a miniszternek az államháztartásért felelős miniszterrel egyetértésben meghozott döntése alapján – a tárgyévet követően felhasználható.
 
-### A Munkaerőpiaci Alap egyes alaprészei felhasználására vonatkozó sajátos szabályok
+### A Nemzeti Foglalkoztatási Alap egyes alaprészei felhasználására vonatkozó sajátos szabályok
 
 40. § (1) A foglalkoztatási alaprész központi keretre és az állami foglalkoztatási szervek által felhasználható (decentralizált) keretre osztható fel.
 
-(2) A Munkaerőpiaci Alap foglalkoztatási alaprészének központi kerete felhasználható
+(2) A Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének központi kerete felhasználható
 
 - a) központi foglalkoztatási, képzési és munkaerőpiaci integrációs programok és kutatások támogatására;
 - b) a 18. §-ban meghatározott munkahely-teremtési támogatásra;
@@ -657,64 +656,29 @@ időtartamával.
 - e) a PHARE, majd az Európai Szociális Alap társfinanszírozásával megvalósuló programok hazai finanszírozására;
 - f) 1996. január 1-je előtt a Foglalkoztatási Alap terhére vállalt kötelezettségek teljesítéséből adódó kifizetésekre.
 
-(3) A Munkaerőpiaci Alap közfoglalkoztatási támogatások előirányzata központi és decentralizált keretre osztható fel. A közfoglalkoztatási támogatások előirányzata terhére megvalósuló programokkal összefüggésben legfeljebb a költségvetési támogatás 0,5%-ának megfelelő mértékben számolható el működtetéssel kapcsolatos kiadás.
+(3) A Nemzeti Foglalkoztatási Alap közfoglalkoztatási támogatások előirányzata központi és decentralizált keretre osztható fel. A közfoglalkoztatási támogatások előirányzata terhére megvalósuló programokkal összefüggésben legfeljebb a költségvetési támogatás 0,5%-ának megfelelő mértékben számolható el működtetéssel kapcsolatos kiadás.
 
-(4) Felhatalmazást kap a Kormány, hogy a Munkaerőpiaci Alapból finanszírozható további, törvényben nem szabályozott támogatásokat rendeletben állapítson meg.
+(4) Felhatalmazást kap a Kormány, hogy a Nemzeti Foglalkoztatási Alapból finanszírozható további, törvényben nem szabályozott támogatásokat rendeletben állapítson meg.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg az állami foglalkoztatási szerv által, európai uniós források felhasználásával nyújtható foglalkoztatást elősegítő támogatásokat.
 
-41. § (1) A Munkaerőpiaci Alap képzési alaprészének forrása a szakképzési hozzájárulásról és a képzési rendszer fejlesztésének támogatásáról szóló törvényben előírt szakképzési hozzájárulás, valamint az alaprész javára teljesített visszafizetések, önkéntes befizetések, támogatások, továbbá működésével összefüggő bevételek.
+41. § (1) A Nemzeti Foglalkoztatási Alap képzési alaprészének forrása a szakképzési hozzájárulásról és a képzési rendszer fejlesztésének támogatásáról szóló törvényben előírt szakképzési hozzájárulás, valamint az alaprész javára teljesített visszafizetések, önkéntes befizetések, támogatások, továbbá működésével összefüggő bevételek.
 
-(2) Az állami foglalkoztatási szervek közreműködésével, az Európai Globalizációs Alkalmazkodási Alap bevonásával megvalósuló programok tekintetében a Munkaerőpiaci Alap a támogatásokat elő- és társfinanszírozza. Az előfinanszírozott összeget terheli az Európai Globalizációs Alap által meg nem térített kiadás.
+(2) Az állami foglalkoztatási szervek közreműködésével, az Európai Globalizációs Alkalmazkodási Alap bevonásával megvalósuló programok tekintetében a Nemzeti Foglalkoztatási Alap a támogatásokat elő- és társfinanszírozza. Az előfinanszírozott összeget terheli az Európai Globalizációs Alap által meg nem térített kiadás.
 
-(3) Az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás tekintetében a Munkaerőpiaci Alap mint központi programok kedvezményezettje a támogatásokat előfinanszírozza, amelyet az Európai Unió az intézkedések végrehajtásáról szóló elszámolás elfogadását követően megtérít. Az Európai Unió felé elszámolt, de az Európai Unió által meg nem térített összegek közötti különbözet a Munkaerőpiaci Alapot terheli.
+(3) Az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás tekintetében a Nemzeti Foglalkoztatási Alap mint központi programok kedvezményezettje a támogatásokat előfinanszírozza, amelyet az Európai Unió az intézkedések végrehajtásáról szóló elszámolás elfogadását követően megtérít. Az Európai Unió felé elszámolt, de az Európai Unió által meg nem térített összegek közötti különbözet a Nemzeti Foglalkoztatási Alapot terheli.
 
-(4) A rendszeres szociális segély átalakításával összefüggő, a Társadalmi Megújulás Operatív Program keretében az állami foglalkoztatási szervek közreműködésével megvalósuló programot a Munkaerőpiaci Alap, mint a központi program kedvezményezettje előfinanszírozhatja, illetve az uniós források terhére finanszírozhatja. Az Európai Unió felé elszámolt, de az Európai Unió által meg nem térített összegek közötti különbözet a Munkaerőpiaci Alapot terheli.
+(4) A rendszeres szociális segély átalakításával összefüggő, a Társadalmi Megújulás Operatív Program keretében az állami foglalkoztatási szervek közreműködésével megvalósuló programot a Nemzeti Foglalkoztatási Alap, mint a központi program kedvezményezettje előfinanszírozhatja, illetve az uniós források terhére finanszírozhatja. Az Európai Unió felé elszámolt, de az Európai Unió által meg nem térített összegek közötti különbözet a Nemzeti Foglalkoztatási Alapot terheli.
 
-### VI/A. Fejezet — REHABILITÁCIÓS HOZZÁJÁRULÁS
+### VI/A. Fejezet
 
-41/A. § (1) A munkaadó a megváltozott munkaképességű személyek foglalkozási rehabilitációjának elősegítése érdekében rehabilitációs hozzájárulás fizetésére köteles, ha az általa foglalkoztatottak létszáma a 20 főt meghaladja, és az általa foglalkoztatott megváltozott munkaképességű személyek száma nem éri el a létszám 5 százalékát (kötelező foglalkoztatási szint).
+#### 41/A. §
 
-(2) A munkaadó létszámának megállapításakor figyelmen kívül kell hagyni
+#### 42. §
 
-- a) közfoglalkoztatási jogviszonyban, valamint a közfoglalkoztatás támogatásáról szóló kormányrendelet szerint támogatott munkaviszonyban foglalkoztatott személyeket,
-- b) az egyszerűsített foglalkoztatás szabályai szerint jogszerűen alkalmazott munkavállalót,
-- c) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény, illetve a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó munkavállalót, ideértve az önkéntes tartalékos szolgálati viszonnyal rendelkező munkavállalót is, és
-- d) az Mt. 150. § (1) bekezdése alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót.
+#### 42/A. §
 
-(3) A rehabilitációs hozzájárulás éves összege a kötelező foglalkoztatási szintből hiányzó létszám, valamint az (5) bekezdésben meghatározott rehabilitációs hozzájárulás szorzata.
-
-(4) Az (1)–(3) bekezdés alkalmazásában létszámon a – Központi Statisztikai Hivatal munkaügy-statisztikai adatszolgáltatáshoz kiadott útmutatójában foglaltak szerinti – tárgyévi átlagos statisztikai állományi létszámot kell érteni. A statisztikai állományi létszámot egy tizedes jegyre kerekítve a kerekítés általános szabályai szerint kell meghatározni.
-
-(5) A rehabilitációs hozzájárulás mértéke 2010-ben 964 500 Ft/fő/év. A rehabilitációs hozzájárulás mértékét 2011. január 1-jétől kezdődően az adott naptári évre vonatkozó költségvetési törvény határozza meg.
-
-(6)
-
-42. § A 41/A. § alkalmazásában megváltozott munkaképességű a munkavállaló, ha
-
-- a) munkaképesség-csökkenése – az Országos Rehabilitációs és Szociális Szakértői Intézet (a továbbiakban: ORSZI), 2007. augusztus 15-ét megelőzően az Országos Egészségbiztosítási Pénztár Országos Orvosszakértői Intézete (a továbbiakban: OOSZI) szakvéleménye, 2001. január 1-jét megelőzően vasutas biztosítottak esetében a Magyar Államvasutak Orvosszakértői Intézetének szakvéleménye szerint – 50–100 százalékos mértékű,
-- b) egészségkárosodása az ORSZI szakvéleménye szerint 40 százalékos vagy azt meghaladó mértékű,
-- c) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Ftv.) 23. § (1) bekezdés a) pontja alapján látási fogyatékosnak minősül, vagy vakok személyi járadékában részesül,
-- d) az Ftv. 23. § (1) bekezdés d) pontja alapján a személyiség egészét érintő fejlődés átható zavara miatt fogyatékossági támogatásban részesül,
-- e) külön jogszabály szerint súlyos értelmi fogyatékosnak minősül, és erre tekintettel a személyi jövedelemadóról szóló törvény szerint adókedvezményre jogosult,
-- f) siket vagy súlyosan nagyothalló, és halláskárosodása audiológiai szakvélemény szerint a 60 decibel hallásküszöb értékét eléri vagy meghaladja, vagy
-- g) a súlyos mozgáskorlátozottak közlekedési kedvezményeiről szóló kormányrendelet szerint súlyos mozgáskorlátozottnak minősül, és a munkaszerződése szerinti munkaideje a napi négy órát eléri.
-
-42/A. § (1) A rehabilitációs hozzájárulást a fizetésére kötelezett munkaadó maga vallja be, állapítja meg, és közvetlenül fizeti be az állami adóhatóságnál vezetett számla javára.
-
-(2) A rehabilitációs hozzájárulásra év közben negyedévenként előleget kell fizetni. Az előleg mértéke a mindenkori tárgynegyedévre vonatkozó tényadatok alapján kiszámított éves rehabilitációs hozzájárulás fizetési kötelezettség huszonöt százaléka. Az előleg összegét a munkaadó maga állapítja meg, vallja be és fizeti be. A negyedik negyedévre előleget fizetni nem kell. A tevékenységét megkezdő kötelezett az első teljes negyedév után köteles először bevallást és előlegfizetést teljesíteni.
-
-(3) A rehabilitációs hozzájárulás e törvény által nem szabályozott kérdéseiben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni
-
-(4) A rehabilitációs hozzájárulás fizetésének e törvényben nem szabályozott kérdéseiben az Art. rendelkezéseit megfelelően alkalmazni kell. A rehabilitációs hozzájárulás a központi költségvetés bevételét képezi.
-
-42/B. § A megváltozott munkaképességet igazolja
-
-- a) a 42. § a) és b) pontja tekintetében: az ORSZI, OOSZI, Magyar Államvasutak Orvosszakértői Intézetének szakvéleménye, a rehabilitációs járadék megállapításáról szóló határozat, vagy a rokkantsági, baleseti rokkantsági nyugellátás megállapításáról szóló határozat,
-- b) a 42. § c) pontja tekintetében: az ORSZI, OOSZI szakvéleménye, a kincstár fogyatékossági támogatást megállapító határozata vagy vakok személyi járadékának megállapításáról szóló határozata,
-- c) a 42. § d) és e) pontja tekintetében: az ORSZI szakvéleménye, az összevont adóalap adóját csökkentő kedvezmény igénybevételére jogosító igazolás vagy a kincstár fogyatékossági támogatást megállapító határozata,
-- d) a 42. § f) pontja tekintetében: az OOSZI, ORSZI szakvéleménye, az audiológiai állomás szakorvosának szakvéleménye, az összevont adóalap adóját csökkentő kedvezmény igénybevételére jogosító igazolás vagy a kincstár fogyatékossági támogatás megállapításáról szóló határozata,
-- e) a 42. § g) pontja tekintetében: az elsőfokú szakorvosi (háziorvosi) szakvélemény, az ORSZI másodfokú szakvéleménye, az a)–e) pontokban említett szakvélemény, igazolás vagy határozat érvényességi idején belül.
+#### 42/B. §
 
 #### 43. §
 
@@ -746,19 +710,9 @@ időtartamával.
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg az állami foglalkoztatási szerv által álláskeresőként nyilvántartott személyek létszáma megállapítására, valamint közzétételének módjára vonatkozó részletes szabályokat.
 
-48. § Azt a személyt, akinek a települési önkormányzat közfoglalkoztatást ajánlott fel, az állami foglalkoztatási szerv küldi el a közfoglalkoztatáshoz szükséges foglalkozás-egészségügyi vizsgálatra. A foglalkozás-egészségügyi vizsgálat térítési díját az állami foglalkoztatási szerv téríti meg a vizsgálatot végző szerv részére.
+48. § Annak a személynek az esetében, akinek a települési önkormányzat közfoglalkoztatást ajánlott fel, a foglalkozás-egészségügyi vizsgálat térítési díját az állami foglalkoztatási szerv téríti meg – a 39. § (12) bekezdés d) pontjában meghatározott előirányzatból – a vizsgálatot végző szerv részére.
 
-49. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály a foglalkozási rehabilitáció szakterületén foglalkozási rehabilitációs szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll foglalkozási rehabilitációs szakértői tevékenység folytatását kizáró foglalkozástól eltiltás alatt, rendelkezik a társadalmi esélyegyenlőség előmozdításáért felelős miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
-
-(2) Aki az (1) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a társadalmi esélyegyenlőség előmozdításáért felelős miniszternek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
-
-(3) A társadalmi esélyegyenlőség előmozdításáért felelős miniszter a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
-
-(4) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy rendeletben határozza meg a foglalkozási rehabilitációs szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
-
-(5) A társadalmi esélyegyenlőség előmozdításáért felelős miniszter a foglalkoztatási rehabilitációs szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű-e és nem áll-e a szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a társadalmi esélyegyenlőség előmozdításáért felelős miniszter adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a foglalkoztatási rehabilitációs szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
-
-(6) Az (5) bekezdés alapján megismert személyes adatokat a társadalmi esélyegyenlőség előmozdításáért felelős miniszter a foglalkoztatási rehabilitációs szakértő nyilvántartásának törléséig kezeli.
+#### 49. §
 
 #### 50. §
 
@@ -772,7 +726,7 @@ időtartamával.
 
 (3) A jegyző az (1) bekezdésben meghatározott ellátás folyósítása alatt történő kereső tevékenység folytatásáról és annak bizonyítékairól írásban tájékoztatja az állami foglalkoztatási szervet.
 
-(4) Amennyiben az (1) bekezdésben meghatározott ellenőrzés eredményeként a munkanélküli járadék, a pályakezdők munkanélküli segélyének folyósítását az állami foglalkoztatási szerv megszünteti, a települési önkormányzat ezen ellátások — a 28. § (2) bekezdésében meghatározott időtartamra járó — összegének megfelelő támogatásban részesül. A támogatást a Munkaerőpiaci Alap foglalkoztatási alaprészének központi pénzügyi keretéből kell folyósítani, és az a 16/A. §-ban, valamint 17. §-ban meghatározott célokra használható fel.
+(4) Amennyiben az (1) bekezdésben meghatározott ellenőrzés eredményeként a munkanélküli járadék, a pályakezdők munkanélküli segélyének folyósítását az állami foglalkoztatási szerv megszünteti, a települési önkormányzat ezen ellátások — a 28. § (2) bekezdésében meghatározott időtartamra járó — összegének megfelelő támogatásban részesül. A támogatást a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének központi pénzügyi keretéből kell folyósítani, és az a 16/A. §-ban, valamint 17. §-ban meghatározott célokra használható fel.
 
 (5) Az (1) bekezdésben meghatározott megállapodásban az önkormányzat vállalja, hogy az e címen kapott támogatást elkülönítetten kezeli, és félévenként tájékoztatja az állami foglalkoztatási szervet annak felhasználásáról.
 
@@ -784,7 +738,7 @@ időtartamával.
 
 (9) Az álláskeresőt az (1) bekezdésben meghatározott ellenőrzés során a jegyzővel szemben is terheli a jelentkezési és rendszeres kapcsolattartási kötelezettség.
 
-52. § Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy rendeletben meghatározza az állami felnőttképzési intézmény feladatait, az állami felnőttképzési intézmény irányítását ellátó szervet, az állami felnőttképzési intézmény vezetőjének jogállását, kinevezésének rendjét, az állami felnőttképzési intézmény irányításának rendjét és szabályait. Az állami felnőttképzési intézmény és az állami foglalkoztatási szerv – a Munkaerőpiaci Alapból támogatott – munkaerőpiaci képzések lebonyolításával kapcsolatos együttműködését, az állami felnőttképzési intézmény feladatai ellátásának finanszírozását, a képzési keret felhasználásának szabályait a miniszter az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben állapítja meg.
+52. § Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy rendeletben meghatározza az állami felnőttképzési intézmény feladatait, az állami felnőttképzési intézmény irányítását ellátó szervet, az állami felnőttképzési intézmény vezetőjének jogállását, kinevezésének rendjét, az állami felnőttképzési intézmény irányításának rendjét és szabályait. Az állami felnőttképzési intézmény és az állami foglalkoztatási szerv – a Nemzeti Foglalkoztatási Alapból támogatott – munkaerőpiaci képzések lebonyolításával kapcsolatos együttműködését, az állami felnőttképzési intézmény feladatai ellátásának finanszírozását, a képzési keret felhasználásának szabályait a miniszter az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben állapítja meg.
 
 53. § (1)–(2)
 
@@ -819,7 +773,7 @@ időtartamával.
 
 - a)
 - b) az állami foglalkoztatási szervnél az általa meghatározott időpontban, de legalább három havonta jelentkezik, és
-- c) az 58. § (5) bekezdés d) pontjának 1–4. alpontjaiban bekövetkezett változást – annak bekövetkezésétől számított 8 napon belül – bejelenti az állami foglalkoztatási szervnek, és
+- c) az 58. § (5) bekezdés d) pontjának 1–4. alpontjaiban bekövetkezett változást – annak bekövetkezésétől számított 15 napon belül – bejelenti az állami foglalkoztatási szervnek, és
 - d) maga is aktívan keres munkahelyet, és
 - e) az állami foglalkoztatási szerv által felajánlott munkaerő-piaci szolgáltatást, valamint az állami foglalkoztatási szerv által támogatott képzési lehetőséget elfogadja, illetőleg igénybe veszi,
 - f) részt vesz a megfelelő munkahelyhez jutást elősegítő munkaerő-piaci programban,
@@ -862,6 +816,8 @@ időtartamával.
 - a) a munkaügyi központ által támogatott képzésben vesz részt,
 - b) rövid, 90 napot meg nem haladó időtartamú kereső tevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat, továbbá
 - c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész.
+- d) terhességi-gyermekágyi segélyre, gyermekgondozási díjra vagy gyermekgondozási segélyre való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély esetén a jogosultság megállapításának napjától,
+- e) önkéntes tartalékos katonai tényleges szolgálatot teljesít, a szolgálatteljesítés időtartama alatt.
 
 (15) Az állami foglalkoztatási szerv hatósági ellenőrzési tevékenységére a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy az állami foglalkoztatási szerv a személyazonosság megállapítására alkalmas okmány felmutatására szólíthatja fel azt az ügyfelet, akinek személyazonosságát meg kell állapítania.
 
@@ -879,7 +835,7 @@ időtartamával.
 
 (5) Az igény érvényesítésére irányuló írásbeli felszólítás, az igénynek a bíróság előtti érvényesítése, megegyezéssel történő módosítása, az egyezségkötés, valamint a kötelezett elismerése az elévülést megszakítja. Az elévülés megszakadása, illetőleg az elévülés megszakítását előidéző eljárás jogerős befejezése után az elévülési idő újra kezdődik. Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést csak a végrehajtási cselekmények szakítják meg.
 
-55. § (1) Ha a támogatás pénzügyi fedezetéül a Munkaerőpiaci Alap foglalkoztatási alaprészének, valamint a közfoglalkoztatási támogatások előirányzatának
+55. § (1) Ha a támogatás pénzügyi fedezetéül a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének, valamint a közfoglalkoztatási támogatások előirányzatának
 
 - a) központi kerete szolgál, a miniszter vagy az állami foglalkoztatási szerv,
 - b) a decentralizált pénzügyi kerete szolgál, az állami foglalkoztatási szerv
@@ -888,9 +844,9 @@ köt a támogatásban részesülővel hatósági szerződést.
 
 (2)
 
-56. § (1) A Munkaerőpiaci Alap javára fennálló – a jogszabályban meghatározott kis összegű követelés értékhatárát meghaladó – tartozás adók módjára behajtandó köztartozás.
+56. § (1) A Nemzeti Foglalkoztatási Alap javára fennálló – a jogszabályban meghatározott kis összegű követelés értékhatárát meghaladó – tartozás adók módjára behajtandó köztartozás.
 
-(2) A Munkaerőpiaci Alap Pénzeszközeinek hatékony felhasználása, valamint az azokból történő téves kifizetések elkerülése érdekében, ha a tényállás tisztázott,
+(2) A Nemzeti Foglalkoztatási Alap Pénzeszközeinek hatékony felhasználása, valamint az azokból történő téves kifizetések elkerülése érdekében, ha a tényállás tisztázott,
 
 - a) az álláskeresési járadék és álláskeresési segély iránti kérelemnek helyt adó,
 - b) az álláskeresési járadék és álláskeresési segély folyósítását szüneteltető, valamint megszüntető, továbbá
@@ -909,15 +865,13 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 
 (2) A rendbírság összege 5000 forinttól 500 000 forintig terjedhet. Az (1) bekezdés b) pontjában meghatározott esetben a rendbírságot munkavállalónként kell kiszabni.
 
-(3) A befizetett rendbírság hatvan százaléka a Munkaerőpiaci Alap foglalkoztatási alaprészét növeli, negyven százaléka a rendbírság kiszabására jogosult szerv saját bevétele, amely személyi juttatásokra nem használható fel.
-
-(4) A rendbírság kiszabására, továbbá a törvény végrehajtásához szükséges nyilvántartások vezetésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
+(3)–(4)
 
 57. § Az állami foglalkoztatási szerv határozata – ide nem értve az 56. § (3) bekezdése szerinti határozatot – bíróság által megváltoztatható. Az 56. § (3) bekezdésében meghatározott esetben a bíróság a jogsértő határozatot hatályon kívül helyezi, és a hatóságot új eljárás lefolytatására utasítja.
 
 ### Adatvédelmi rendelkezések
 
-57/A. § (1) A miniszter, az állami foglalkoztatási szerv és a munkaügyi hatóság az álláskeresési támogatással, a foglalkoztatást elősegítő támogatásokkal, a munkaerőpiaci szolgáltatásokkal, továbbá a külföldiek magyarországi foglalkoztatásával kapcsolatos tevékenysége, valamint hatósági ellenőrzése során, valamint a munkaügyi adatszolgáltatásra kötelezett munkaadó e tevékenységével összefüggésben a külön jogszabályban meghatározott TAJ-számot alkalmazhatja.
+57/A. § (1) A miniszter, az állami foglalkoztatási szerv és a munkaügyi hatóság az álláskeresési ellátással, a foglalkoztatást elősegítő támogatásokkal, a munkaerőpiaci szolgáltatásokkal, továbbá a külföldiek magyarországi foglalkoztatásával kapcsolatos tevékenysége, valamint hatósági ellenőrzése során, valamint a munkaügyi adatszolgáltatásra kötelezett munkaadó e tevékenységével összefüggésben a külön jogszabályban meghatározott TAJ-számot alkalmazhatja.
 
 (2) Az (1) bekezdésben meghatározott szervek a jogszabályban meghatározott feladataik ellátásával összefüggésben a következő adatok nyilvántartására jogosultak:
 
@@ -929,7 +883,8 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 - f) iskolai végzettség(ek), szakképzettség(ek),
 - g) jövedelemre vonatkozó adatok,
 - h) a megváltozott munkaképességgel kapcsolatos adatok,
-- i) munkáltató adatai (név, cím, székhely, telephely, gazdálkodási forma, adószám, TB nyilvántartási szám, TAJ szám, KSH szám).
+- i) munkáltató adatai (név, cím, székhely, telephely, gazdálkodási forma, adószám, TB nyilvántartási szám, TAJ szám, KSH szám),
+- j) az arra vonatkozó adatok, hogy az álláskereső korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e.
 
 (3) Az (2) bekezdés alapján nyilvántartásba vett adatokból
 
@@ -952,11 +907,15 @@ szerinti adatok igénylésére jogosult.
 
 (9) Az (1) bekezdésben meghatározott szervek kötelesek adatvédelmi szabályzatot kiadni.
 
-(10) A megváltozott munkaképességű munkavállalót foglalkoztató munkaadó nyilvántartást vezet, amely tartalmazza a megváltozott munkaképességű munkavállaló természetes személyazonosító adatait, a társadalombiztosítási és adóazonosító jelét, a munkaképesség változásának mértékét, illetőleg a fogyatékosság tényét, továbbá az ezek igazolására szolgáló okirat másolatát. A nyilvántartást a munkáltató a foglalkoztatás megszűnését követő öt évig köteles megőrizni.
+(10)
+
+(11) Az állami foglalkoztatási szerv – a (2) bekezdés a)–c) pontja szerinti adatok és a TAJ megküldésével – hivatalból értesíti a nyugdíjfolyósító szervet, ha korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek állapít meg vagy szüntet meg álláskeresési járadékot.
+
+(11) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, az (1) bekezdés szerinti szervek által e törvény szerint kezelt személyes és különleges adatokat.
 
 ### Foglalkoztatási és Közfoglalkoztatási Adatbázis
 
-57/B. § (1) Az állami foglalkoztatási szerv az Szt. szerint foglalkoztatást helyettesítő támogatásra jogosult személyekről, valamint a közfoglalkoztatásban résztvevő személyekről a munkaerőpiaci helyzetük javítása, a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása, a közfoglalkoztatásért felelős miniszter, az állami foglakoztatási szerv, valamint a jegyző ezzel összefüggő feladatai eredményes ellátásának elősegítése, továbbá a szociális ellátásokra való jogosultságot megállapító törvényben meghatározott jogosultsági feltételek fennállásának ellenőrzése céljából elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
+57/B. § (1) Az állami foglalkoztatási szerv az Szt. szerint foglalkoztatást helyettesítő támogatásra jogosult személyekről, rehabilitációs ellátásban részesülő személyekről, valamint a közfoglalkoztatásban résztvevő személyekről a munkaerőpiaci helyzetük javítása, a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása, a közfoglalkoztatásért felelős miniszter, az állami foglalkoztatási szerv, a rehabilitációs hatóság, valamint a jegyző ezzel összefüggő feladatai eredményes ellátásának elősegítése, továbbá a szociális ellátásokra való jogosultságot megállapító törvényben meghatározott jogosultsági feltételek fennállásának ellenőrzése céljából elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
 
 (2) Az állami foglalkoztatási szerv az adatbázissal kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
@@ -968,11 +927,11 @@ szerinti adatok igénylésére jogosult.
   - c) a munkaerőpiaci helyzetükkel összefüggő, következő adatokat: ca) munkaerőpiaci képzésben történő részvétel, cb) munkaerőpiaci programban történő részvétel, cc) bértámogatással létesített munkaviszony keretében történő foglalkoztatás, cd) közfoglalkoztatásban való részvétel, ce) munkaviszony – támogatás nélkül történő – létesítése, cf) állami foglalkoztatási szerv szolgáltatásainak igénybevétele, cg) egyszerűsített foglalkoztatásban történő részvétel,
   - d) az álláskeresőként történő nyilvántartással összefüggő következő adatokat: da) a nyilvántartásba vétel időpontja, db) a nyilvántartásból történő törlés, illetve a nyilvántartás szünetelésének időpontja és indoka;
 - 2. a közfoglalkoztatottak tekintetében
-  - a) a közfoglalkoztatottra vonatkozó adatok körében aa) az adatbázisba való felvétel időpontját, ab) a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, állampolgárságát (hontalan státuszát), bevándorolt, letelepedett vagy menekült, oltalmazott, menedékes, befogadotti, szabad mozgás és tartózkodás jogával rendelkező státuszát, valamint önkéntes adatszolgáltatás alapján telefonszámát, e-mail címét, ac) legmagasabb iskolai végzettségét, szakképzettségét, ad) foglalkozás-egészségügyi alkalmassága mértékét, és ez alapján esetleg kizárt munkakört, ae) eddig betöltött munkaköreit, af) a munkaügyi központtal történő együttműködésére vonatkozó adatokat, ag) a (4) bekezdés alapján megállapított prioritási szintjét,
+  - a) a közfoglalkoztatottra vonatkozó adatok körében aa) az adatbázisba való felvétel időpontját, ab) a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, állampolgárságát (hontalan státuszát), bevándorolt, letelepedett vagy menekült, oltalmazott, menedékes, befogadotti, szabad mozgás és tartózkodás jogával rendelkező státuszát, valamint önkéntes adatszolgáltatás alapján telefonszámát, e-mail címét, ac) legmagasabb iskolai végzettségét, szakképzettségét, ad) foglalkozás-egészségügyi alkalmassága mértékét, és ez alapján esetleg kizárt munkakört, ae) eddig betöltött munkaköreit, af) a munkaügyi központtal történő együttműködésére vonatkozó adatokat, ag) a (4) bekezdés alapján megállapított prioritási szintjét, ah) a rehabilitációs ellátásban részesülő személy által betölthető munkakörök leírását (FEOR kód),
   - b) a közfoglalkoztatási jogviszonyra vonatkozó adatok körében ba) a közfoglalkoztatás jellegét, azaz hogy 1. tényleges közfoglalkoztatott-e
 - 2. képzésben vesz-e részt
-- 3. foglakoztatást helyettesítő támogatásban részesül-e, bb) a közfoglalkoztatási jogviszony időtartamát, bc) a napi munkaidő mértékét (4, 6 vagy 8 óra), bd) a közfoglalkoztatási bér összegét, be) a közfoglalkoztatási jogviszonyban betöltött munkakört, bf) a közfoglalkoztató megnevezését és adószámát;
-- 3. a közfoglalkoztatásra vonatkozó adatok tekintetében
+- 3. foglakoztatást helyettesítő támogatásban részesül-e,
+- 4. rehabilitációs ellátásban részesül-e. bb) a közfoglalkoztatási jogviszony időtartamát, bc) a napi munkaidő mértékét (4, 6 vagy 8 óra), bd) a közfoglalkoztatási bér összegét, be) a közfoglalkoztatási jogviszonyban betöltött munkakört, bf) a közfoglalkoztató megnevezését és adószámát; 3. a közfoglalkoztatásra vonatkozó adatok tekintetében
   - a) a munkát felajánló, a munkát szervező és a közreműködő közfoglalkoztató nevét, cégjegyzékszámát, az adószám első nyolc jegyét (törzsszámát), elérhetőségét,
   - b) a munka jellegét, statisztikai kódját (FEOR kód), leírását,
   - c) a munkavégzés helyét,
@@ -992,27 +951,32 @@ szerinti adatok igénylésére jogosult.
   - c) 50 éven felüli személy, vagy
   - d) egy vagy több eltartottal egyedül élő felnőtt, vagy
   - e) valamely tagállam olyan ágazatában vagy szakmájában dolgozik, amelyben 25%-kal nagyobb a nemi egyensúlyhiány, mint e tagállam valamennyi gazdasági ágazatára jellemző átlagos egyensúlyhiány, és ezen alulreprezentált nemi csoportba tartozik, vagy
-  - f) egy tagállam etnikai kisebbségéhez tartozik, és akinek szakmai, nyelvi képzésének vagy szakmai tapasztalatának megerősítésére van szüksége ahhoz, hogy javuljanak munkába állási esélyei egy biztos munkahelyen;
+  - f) egy tagállam nemzetiséghez tartozik, és akinek szakmai, nyelvi képzésének vagy szakmai tapasztalatának megerősítésére van szüksége ahhoz, hogy javuljanak munkába állási esélyei egy biztos munkahelyen;
 - 2. Súlyosan hátrányos helyzetű munkavállaló, aki legalább 24 hónapja munkanélküli;
 - 3. Fogyatékkal élő munkavállaló, aki
   - a) a nemzeti jog szerint fogyatékosnak elismert, vagy
   - b) elismerten fizikai, elmebeli vagy pszichológiai károsodásban szenved.
+- 4. Megváltozott munkaképességű munkavállaló, aki
+  - a) rehabilitációs ellátásban részesül,
+  - b) aki 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, rendszeres szociális járadékban részesült.
 
 (5) A (3) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
 
-(6) A (3) bekezdés 1. pont a) alpont szerinti adatokat a települési önkormányzat jegyzője rögzíti az adatbázisban.
+(6) A (3) bekezdés 1. pont a) alpontja szerinti adatokat a települési önkormányzat jegyzője rögzíti az adatbázisban. A települési önkormányzat jegyzője rögzítheti a (3) bekezdés 3. pont g) alpontja szerinti adatokat is.
 
 (7) A (4) bekezdés 1. pont d) és f) alpontjában és 3. pontjában szereplő adatok a közfoglalkoztatott, illetve korlátozottan cselekvőképes személy esetén törvényes képviselője írásbeli kérésére, önkéntes adatszolgáltatása alapján vehetők fel az adatbázisba.
 
 (8) Felhatalmazást kap a Kormány, hogy (3) bekezdés 3. pont g) alpontja szerint az adatbázisba felvételre kerülő adatok körét rendeletben állapítsa meg.
 
-57/C. § (1) Az állami foglalkoztatási szerv az 57/B. § (1) bekezdésében meghatározott célok teljesülése érdekében folyamatos elektronikus adatkapcsolat keretében biztosítja a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a (3) bekezdésben meghatározott adatbetekintéshez, valamint a regionális képző központ számára a (4) bekezdésben meghatározott adatbetekintéshez szükséges hozzáférést.
+57/C. § (1) Az állami foglalkoztatási szerv az 57/B. § (1) bekezdésében meghatározott célok teljesülése érdekében folyamatos elektronikus adatkapcsolat keretében biztosítja a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a (3) bekezdésben meghatározott adatbetekintéshez, a rehabilitációs hatóság számára a (3a) bekezdésben meghatározott adatbetekintéshez, valamint az állami felnőttképzési intézmény számára a (4) bekezdésben meghatározott adatbetekintéshez szükséges hozzáférést.
 
 (2) A közfoglalkoztatásért felelős miniszter az adatkezelő tevékenysége feletti felügyelet gyakorlása és a közfoglalkoztatás szervezésével kapcsolatos feladatai eredményes ellátása érdekében az 57/B. § (3) bekezdésének 2–3. pontjaiban meghatározott adatokba betekinthet.
 
 (3) A települési önkormányzat jegyzője a szociális juttatásokra való jogosultság feltételeinek megállapításához szükséges ellenőrzési feladatai érdekében az adatbázisnak az 57/B. § (3) bekezdés 1. pont b), ca)–ce), cg) és d) alpontjában, valamint a 2. pont ab) és af) alpontjában szereplő adataiba tekinthet be.
 
-(4) A regionális képző központ a képzési igények felmérése és a képzések szervezésének területi összehangolása, valamint a közfoglalkoztatás szervezése érdekében az adatbázisnak az 57/B. § (3) bekezdés 2. pont a)–b) alpontjaiban és 3. pont a)–e) alpontjaiban szereplő adataiba tekinthet be.
+(3a) A rehabilitációs hatóság a rehabilitációs ellátásra való jogosultság feltételeinek megállapításához szükséges ellenőrzési feladatai ellátása érdekében az adatbázisnak az 57/B. § (3) bekezdés 2. pont a) és b) pontjában szereplő adataiba tekinthet be.
+
+(4) az állami felnőttképzési intézmény a képzési igények felmérése és a képzések szervezésének területi összehangolása, valamint a közfoglalkoztatás szervezése érdekében az adatbázisnak az 57/B. § (3) bekezdés 2. pont a)–b) alpontjaiban és 3. pont a)–e) alpontjaiban szereplő adataiba tekinthet be.
 
 (5) A közfoglalkoztatott bérének a központi költségvetés által finanszírozott része folyósítása feltételeinek ellenőrzése érdekében a Magyar Államkincstár az adatbázisnak az 57/B. § (3) bekezdés 2. pont ab), ba), bb), bd) és bf) alpontjában, továbbá a 3. pont a) alpontjában szereplő adataiba tekinthet be.
 
@@ -1042,16 +1006,19 @@ is érteni kell.
 - a) munkaviszonyon: a magyar jog hatálya alá tartozó munkaviszonyt, közszolgálati jogviszonyt, közalkalmazotti jogviszonyt, bírósági és igazságügyi, valamint ügyészségi szolgálati viszonyt, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszonyt, a hivatásos nevelő szülői jogviszonyt, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonyát, – ide nem értve az iskolai szövetkezet nappali tagozatos tanuló, hallgató tagját – fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonyát kell érteni,
 - b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban áll,
 - c) munkaadó: az a jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, illetve magánszemély és annak jogi személyiséggel nem rendelkező társasága, aki munkavállalót foglalkoztat, vagy foglalkoztatni kíván.
-- d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, valamint rehabilitációs járadékban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
+- d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, valamint rehabilitációs járadékban, rehabilitációs ellátásban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, és egyéb kereső tevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
 - e) kereső tevékenység: – az 1–4. pontban foglaltak figyelembevételével – minden olyan munkavégzés, amelyért díjazás jár, továbbá kereső tevékenységet folytatónak kell tekinteni azt a személyt is, aki külön törvény szerint egyéni vállalkozónak minősül, valamint aki gazdasági társaság tevékenységében személyes közreműködés vagy mellékszolgáltatás keretében történő munkavégzés útján vesz részt, illetve aki a társaság vezető tisztségviselője vagy a társasági szerződésben közreműködési/munkavégzési kötelezettsége/joga fel van tüntetve. 1. Az olyan munkavégzés, amelyért jogszabály alapján tiszteletdíj jár, akkor minősül kereső tevékenységnek, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát meghaladja. 2. A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység akkor minősül kereső tevékenységnek, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál figyelembe kell venni. 3. A külön törvény alapján végzett közérdekű önkéntes tevékenység nem minősül kereső tevékenységnek. 4. A külön törvény alapján nevelőszülői jogviszony keretében végzett tevékenység nem minősül kereső tevékenységnek,
 - f) magas szintű képzettséget igénylő munkavállalás: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § p) pontja szerinti munkavállalás,
 - g) kötelező legkisebb munkabér, minimálbér: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
-- h) öregségi nyugdíjkorhatár: a személyre irányadó öregségi nyugdíjkorhatár, a társadalombiztosítási jogszabályok által egyes munkakörökben biztosított korkedvezmény figyelembevételével,
-- i) öregség nyugdíjra jogosult személy: aki a reá irányadó öregségi nyugdíjkorhatárt – a társadalombiztosítási nyugellátásról szóló jogszabályok által egyes munkakörökben biztosított korkedvezmény figyelembevételével – elérte, és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik, továbbá az is, aki előrehozott öregségi nyugdíjban, korengedményes nyugdíjban, bányásznyugdíjban, egyes művészeti tevékenységet folytatók öregségi nyugdíjában, a Magyar Alkotóművészeti Közalapítványtól öregségi nyugdíjban, valamint szolgálati nyugdíjban részesül,
+- h) öregségi nyugdíjkorhatár: a személyre irányadó öregségi nyugdíjkorhatár,
+- i) öregségi nyugdíjra jogosult személy: aki
+  - ia) az öregségi nyugdíjkorhatárt elérte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik, vagy
+  - ib) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül, vagy
+  - ic) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban, öregségi járadékban vagy növelt összegű öregségi járadékban részesül,
 - j) munkaközvetítő tevékenység: olyan szolgáltatások összessége, amelynek célja a munkát keresők és a munkát kínálók találkozásának elősegítése,
 - k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha munkanélküli járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki 1. terhességi-gyermekágyi segélyben, gyermekgondozási díjban, illetőleg gyermekgondozási segélyben részesül, 2. előzetes letartóztatásban van, szabadságvesztés, illetve elzárás büntetését tölti, 3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
 - l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 90 napot nem haladja meg,
-- m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahely-megtartási esélyei testi vagy szellemi károsodása miatt csökkennek; a rehabilitációs hozzájárulás fizetési kötelezettség megállapítása szempontjából a 42. §-ban meghatározott személy,
+- m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahely-megtartási esélyei testi vagy szellemi károsodása miatt csökkennek,
 - n) alkalmi foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,
 - o) közhasznú tevékenység: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység,
 - p) háztartás: az Szt. 4. §-a (1) bekezdésének f) pontjában meghatározott személyek,
@@ -1075,27 +1042,25 @@ is érteni kell.
 - a) – az államháztartásért felelős miniszterrel egyetértésben – az álláskeresési járadék összege kiszámításának, ennek keretében a 26. § (1) bekezdésében meghatározott járulékalap havi átlagos összege meghatározásának, valamint az álláskeresési járadék és álláskeresési segély folyósításának
 - b) az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántartásból való törlés részletes feltételeinek,
 - c) az EGT tagállamaiban történő munkahelykereséssel kapcsolatos költségtérítés feltételeinek és odaítélésének,
-- d)
-- e)
+- d) a rendbírság kiszabásának, megfizetésének és kezelésének,
+- e) az e törvényben meghatározott nyilvántartások vezetésének
 - f)
 - g) az adópolitikáért felelős miniszterrel egyetértésben a munkaerőpiaci szolgáltatásokat nyújtó szervezetek akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj
 
 szabályait.
 
-(8a) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályait.
-
-(9) A 39. § (3) bekezdés a) pontja szerinti kiegészítő segélyre az 1999. évben munkanélküli járadékban részesülők a járadék folyósításával megegyező időtartamra, de legfeljebb 1999. december 31-ig jogosultak. A kiegészítő segély egy napra járó összege 33 forint. A kiegészítő segélyt a munkanélküli járadékkal együtt – a segély megállapítására irányuló külön határozat nélkül – kell kifizetni. A kiegészítő segélyt a személyi jövedelemadóról szóló, 1998. évi LXV. törvénnyel módosított 1995. évi CXVII. törvény 1. számú mellékletének 1.3. pontjában meghatározott állami szociális rendszer keretében nyújtott szociális segélynek kell tekinteni.
+(8a)
 
 (9) Ahol e törvény
 
-- a) gyermekgondozási díjat, gyermekgondozási segélyt, terhességi gyermekágyi segélyt, gyermeknevelési támogatást, ápolási díjat, öregségi nyugdíjat, rokkantsági, valamint baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot, továbbá bányászok egészségkárosodási járadékát,
+- a) gyermekgondozási díjat, gyermekgondozási segélyt, terhességi gyermekágyi segélyt, gyermeknevelési támogatást, ápolási díjat, öregségi nyugdíjat, rokkantsági, valamint baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot, megváltozott munkaképességű személyek ellátásait, továbbá bányászok egészségkárosodási járadékát,
 - b) munkaviszonyt
 
 említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tagállamaiban hatályos jogszabályok szerinti megfelelő ellátásokat és jogviszonyokat is érteni kell.
 
 (10) Felhatalmazást kap a Kormány, hogy az e törvény szerinti magán-munkaközvetítési tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a magán-munkaközvetítői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
 
-(11) A rehabilitációs hozzájárulást – a 2011. január 1-jétől 2011. június 30-ig terjedő időszak tekintetében – a 42. §-ban foglaltaktól eltérően a törvény 2010. december 31-én hatályos 58. § (5) bekezdés m) pontjában foglaltak figyelembevételével kell megfizetni.
+(11)
 
 59. § (1) E törvény rendelkezéseit az Európai Gazdasági Térség tagállamai tekintetében az Európai Közösségben migráns munkavállalókról, önálló vállalkozókról, diákokról, nyugdíjasokról és magukat önerőből eltartókról, valamint családtagjaikról szóló közösségi jogszabályok szerint kell alkalmazni.
 
@@ -1112,9 +1077,11 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 #### 59/B. §
 
-59/C. § (1) A 2011. augusztus 31-én folyósított, illetve szünetelő álláskeresési járadékot, álláskeresési segélyt a megállapítása idején hatályos szabályok szerint kell tovább folyósítani.
+59/C. § (1) A 2011. augusztus 31-én folyósított, illetve szünetelő álláskeresési járadékot és álláskeresési segélyt a megállapítása idején hatályos szabályok szerint kell tovább folyósítani. Az álláskeresési járadék – a folyósítási idő lejártát megelőzően létesített munkaviszony miatt – egy összegben történő kifizetésére az álláskeresési járadék megállapítása idején hatályos szabályokat kell alkalmazni.
 
 (2) A 25. § (1) bekezdés b) pont és a 26. § (5) bekezdés rendelkezéseit, a 27. § (1) bekezdésének bevezető szövegrészét, a 27. § (2) és (3) bekezdése és a 30. § rendelkezéseit a 2011. szeptember 1-jét követően benyújtott kérelmekre kell alkalmazni. A hatályba lépést megelőzően, álláskeresési járadék, valamint álláskeresési segély megállapítása iránt benyújtott kérelmeket a kérelem benyújtásának időpontjában hatályos szabályok szerint kell elbírálni.
+
+(3) A 2011. december hónapra vonatkozóan kifizetett ellátások után a Tbj. 2011. december 31-én hatályos 22. §-a alapján fizetendő társadalombiztosítási járulékot a szolidaritási alaprészből kell megfizetni.
 
 59/D. § (1) A Foglalkoztatási és Szociális Adatbázisban a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény hatályba lépése napján lévő adatállomány tekintetében jogutód az állami foglalkoztatási szerv. Az adatállományból történő adatszolgáltatásra az 57/A. § (3) bekezdés rendelkezései alkalmazhatók.
 

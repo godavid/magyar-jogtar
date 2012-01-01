@@ -2,7 +2,7 @@
 
 a tankönyvpiac rendjéről
 
-A tankönyvellátás a Magyar Köztársaság Alkotmánya 70/F. §-ában meghatározott művelődéshez való jog érvényesülését szolgáló olyan közfeladat, amelyben a tankönyvek előállítása és a tanulókhoz történő eljuttatása piaci viszonyok között valósul meg. A tankönyvpiac sajátossága, hogy a fogyasztó – a szülő és a tanuló – nem döntheti el szabadon, kíván-e vevő lenni. A tankönyv ugyanis olyan áru, amely nélkül az iskolai tanulmányok megkezdése és sikeres folytatása nem valósulhat meg. Ezért biztosítani kell annak lehetőségét, hogy a tankönyv kiválasztásában, képviselőik útján közreműködjenek a szülők és a tanulók.
+A tankönyvellátás a művelődéshez való jog érvényesülését szolgáló olyan közfeladat, amelyben a tankönyvek előállítása és a tanulókhoz történő eljuttatása piaci viszonyok között valósul meg. A tankönyvpiac sajátossága, hogy a fogyasztó – a szülő és a tanuló – nem döntheti el szabadon, kíván-e vevő lenni. A tankönyv ugyanis olyan áru, amely nélkül az iskolai tanulmányok megkezdése és sikeres folytatása nem valósulhat meg. Ezért biztosítani kell annak lehetőségét, hogy a tankönyv kiválasztásában, képviselőik útján közreműködjenek a szülők és a tanulók.
 
 A tankönyvhöz való hozzáférés nem függhet a család anyagi, jövedelmi helyzetétől. Az iskolának fontos szerepe van abban, hogy minden tanulója tankönyvhöz jusson. Az államnak támogatnia kell a tanulói tankönyvvásárlást. Az iskolai tankönyvtámogatás és tankönyvbeszerzés rendszerének pedig biztosítania kell, hogy a tankönyv minden tanulónak rendelkezésére álljon.
 
@@ -12,7 +12,7 @@ Az Országgyűlés e célok elérése érdekében a következő törvényt alkot
 
 ### A törvény hatálya
 
-1. § E törvény rendelkezéseit kell alkalmazni a Magyar Köztársaság területén – az általános iskolában, gimnáziumban, szakközépiskolában, szakmunkásképző iskolában, szakiskolában, alapfokú művészetoktatási intézményben, gyógypedagógiai nevelési-oktatási intézményben, továbbá a kiegészítő kisebbségi oktatást végző iskolában – alkalmazott tankönyv jóváhagyására, kiválasztására, illetve az e feladatok végrehajtásában közreműködőkre, a tankönyv kiadását és forgalmazását végző természetes és jogi személyekre, valamint ezek jogi személyiség nélküli társaságaira (a továbbiakban: tankönyvkiadók, tankönyvforgalmazók), továbbá a tankönyvkiadók és tankönyvforgalmazók e törvény alapján létrehozott köztestületére.
+1. § E törvény rendelkezéseit kell alkalmazni Magyarország területén – az általános iskolában, gimnáziumban, szakközépiskolában, szakmunkásképző iskolában, szakiskolában, alapfokú művészetoktatási intézményben, gyógypedagógiai nevelési-oktatási intézményben, továbbá a kiegészítő nemzetiségi oktatást végző iskolában – alkalmazott tankönyv jóváhagyására, kiválasztására, illetve az e feladatok végrehajtásában közreműködőkre, a tankönyv kiadását és forgalmazását végző természetes és jogi személyekre, valamint ezek jogi személyiség nélküli társaságaira (a továbbiakban: tankönyvkiadók, tankönyvforgalmazók), továbbá a tankönyvkiadók és tankönyvforgalmazók e törvény alapján létrehozott köztestületére.
 
 ### A tankönyvjóváhagyás és a tankönyvjegyzék
 
@@ -28,7 +28,7 @@ Az Országgyűlés e célok elérése érdekében a következő törvényt alkot
 
 (6) A szakképzés szakmai tankönyveit a szakképesítésért felelős miniszter nyilvánítja tankönyvvé, illetve dönt a tankönyvvé nyilvánítás megszüntetéséről. A szakképesítésért felelős miniszter ezt a jogát az általa felügyelt államigazgatási szervre, illetve az oktatásért felelős miniszterrel kötött megállapodással a közoktatási feladatkörében eljáró oktatási hivatalra átruházhatja. Az eljárásban – ideértve az oktatásért felelős miniszter ágazatába tartozó szakképesítések szakmai tankönyveinek jóváhagyását is, miniszteri rendeletben meghatározottak szerint – közreműködik a Szakképzési Tankönyv és Taneszköz Tanács.
 
-3. § (1) Az oktatásért felelős miniszter az e törvényben meghatározottak szerint ellenőrzi a tankönyvkiadók és tankönyvforgalmazók tevékenységét, indokolt esetben intézkedést kezdeményez, illetve intézkedést hoz.
+3. § (1) Az oktatásért felelős miniszter szakmai ellenőrzés keretében az e törvényben meghatározottak szerint ellenőrzi a tankönyvkiadók és tankönyvforgalmazók tevékenységét, indokolt esetben intézkedést kezdeményez, illetve intézkedést hoz.
 
 (2) A szakképesítésért felelős miniszter – költségvetésének terhére – az ágazatába tartozó szakképesítések tekintetében kidolgoztatja a szakmai tantárgyak tankönyveit (a továbbiakban: szakmai tankönyv). A szakképesítésért felelős miniszter a kis példányszámú szakmai tankönyvekből történő tankönyvellátás biztosítása céljából
 
@@ -41,7 +41,7 @@ Az Országgyűlés e célok elérése érdekében a következő törvényt alkot
 - b) megállapodást köthet tankönyvkiadóval a tankönyv előállítására, illetve tankönyvforgalmazóval a kis példányszámú nemzetiségi tankönyveknek az iskolák részére történő értékesítésére (a továbbiakban: kis példányszámú nemzetiségi tankönyvforgalmazás),
 - c) megállapodást köthet tankönyvkiadóval, illetve tankönyvforgalmazóval külföldi tankönyvek beszerzésére és az iskolák részére történő értékesítésére.
 
-(4) A (3) bekezdés a) pontjában szabályozott – a nemzetiségi oktatást érintő – nyilvános pályázatot az Országos Kisebbségi Bizottság egyetértésével kell kiírni. A benyújtott pályázatokról az oktatásért felelős miniszter az Országos Kisebbségi Bizottság javaslata alapján dönt.
+(4) A (3) bekezdés a) pontjában szabályozott – a nemzetiségi oktatást érintő – nyilvános pályázatot az Országos Nemzetiségi Bizottság egyetértésével kell kiírni. A benyújtott pályázatokról az oktatásért felelős miniszter az Országos Nemzetiségi Bizottság javaslata alapján dönt.
 
 (5) Az oktatásért felelős miniszter – költségvetésének terhére – a sajátos nevelési igényű tanulók kis példányszámú tankönyvekkel történő tankönyvellátásának biztosítása céljából
 
@@ -215,7 +215,7 @@ foglaltakat kell alkalmazni.
 - c) saját tevékenységének elemzése, fejlesztése céljából, illetve megkeresésre véleményezi a tankönyvkiadást, -gyártást és -forgalmazást, a kiadók és terjesztők szakmai tevékenységét, a Testület feladatait és működését közvetlenül érintő gazdasági intézkedések és jogszabályok tervezetét,
 - d) közreműködik a vitás kérdések békés, bírósági eljáráson kívüli megoldásában,
 - e) segíti a tankönyvkiadói és tankönyvforgalmazói tevékenység fejlesztését,
-- f) segíti a Magyarországon élő nemzeti és etnikai kisebbséghez tartozók, továbbá a külföldön élő magyar kisebbségek tankönyvkiadását és ellátását,
+- f) segíti a Magyarországon élő nemzetiségekhez tartozók, továbbá a külföldön élő magyar kisebbségek tankönyvkiadását és ellátását,
 - g) ellátja mindazokat az ügyeket, amelyeket jogszabály a feladatkörébe utal.
 
 (2) A Testület nyilvántartást vezet a tankönyvkiadással és tankönyvforgalmazással összefüggő tevékenységről, az üzleti érdekek tiszteletben tartásával. Összegyűjti a tankönyvkiadásra és tankönyvforgalmazásra vonatkozó közérdekű adatokat, és hozzáférhetővé teszi azokat. A Testület által e körben nyilvántartott és kezelt adatokat e törvény melléklete tartalmazza. A Testület tagjai kötelesek a Testület részére az e bekezdésben meghatározottak szerint adatot szolgáltatni.
@@ -287,13 +287,13 @@ foglaltakat kell alkalmazni.
 - b) az elnökhelyettesek,
 - c) a bizottságok elnökei.
 
-(3) A Testület körbélyegzőjén, hivatalos iratain és hivatali helyiségeiben használhatja a Magyar Köztársaság címerét.
+(3)
 
 ### A közgyűlés
 
 15. § (1) A közgyűlésen a Testület minden tagjának egy képviselője tanácskozási és szavazati joggal jogosult részt venni. Minden tagnak egy szavazati joga van.
 
-(2) A közgyűlés ülésén – az alapszabályban meghatározottak szerint – tanácskozási joggal részt vehet az Országos Köznevelési Tanács, a Közoktatás-politikai Tanács, az Országos Szakképzési Tanács, az Országos Kisebbségi Bizottság, az Országos Diákjogi Tanács, az Országos Szülői Érdekképviseleti Tanács, az oktatásért felelős miniszter és a szakképesítésért felelős miniszter egy-egy képviselője.
+(2) A közgyűlés ülésén – az alapszabályban meghatározottak szerint – tanácskozási joggal részt vehet az Országos Köznevelési Tanács, a Közoktatás-politikai Tanács, az Országos Szakképzési Tanács, az Országos Nemzetiségi Bizottság, az Országos Diákjogi Tanács, az Országos Szülői Érdekképviseleti Tanács, az oktatásért felelős miniszter és a szakképesítésért felelős miniszter egy-egy képviselője.
 
 (3) A közgyűlés hatáskörébe tartozik
 
@@ -453,7 +453,7 @@ foglaltakat kell alkalmazni.
 
 ### A Testület közhasznú szervezetté nyilvánítása
 
-27. § (1) A Testület az alapszabályának megküldésével egyidejűleg a Fővárosi Bíróságtól kérheti közhasznú szervezetté minősítését és nyilvántartásba vételét.
+27. § (1) A Testület az alapszabályának megküldésével egyidejűleg a Fővárosi Törvényszéktől kérheti közhasznú szervezetté minősítését és nyilvántartásba vételét.
 
 (2) Ha a Testület kéri a közhasznú szervezetté minősítését, az alapszabályában kell meghatároznia azokat a kérdéseket, amelyeket e törvény nem szabályoz, és az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény alapján az alapító okiratnak tartalmaznia kellene.
 

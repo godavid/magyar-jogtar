@@ -5554,7 +5554,7 @@ adóév adókötelezettségére alkalmazhatja.
 
 475. § A települési önkormányzat, illetve a fővárosban a fővárosi önkormányzat a luxusadó tv. 5. §-a (3) bekezdésének utolsó mondatában foglaltaktól eltérően 2007. évben az értékövezeteket és a települési, településrészi átlagértékeket csak a 2008. évre határozza meg.
 
-476. § (1) E törvény hatálybalépésének napjától bejelentkezhetnek azok az adózók, amelyek a Magyar Köztársaság területén cégbejegyzéshez, illetőleg egyéni vállalkozói igazolványhoz nem kötött általános forgalmi adó köteles tevékenységüket a bejelentkezésüket megelőzően megkezdték. A késedelmesen teljesített bevallásban levonási jogukat az adóköteles tevékenység tényleges megkezdésétől gyakorolhatják, fizetési kötelezettségüket pedig kötelesek teljesíteni.
+476. § (1) E törvény hatálybalépésének napjától bejelentkezhetnek azok az adózók, amelyek Magyarország területén cégbejegyzéshez vagy egyéni vállalkozói igazolványhoz nem kötött általános forgalmi adó köteles tevékenységüket a bejelentkezésüket megelőzően megkezdték. A késedelmesen teljesített bevallásban levonási jogukat az adóköteles tevékenység tényleges megkezdésétől gyakorolhatják, fizetési kötelezettségüket pedig kötelesek teljesíteni.
 
 (2) Azok a cégbejegyzéshez, illetőleg egyéni vállalkozói igazolványhoz nem kötött általános forgalmi adó köteles tevékenységet folytató adózók, amelyeknek az adóhatóság tevékenységük tényleges megkezdésének időpontjára visszamenőleges hatállyal adószámot nem állapított meg, ezért levonási jogukat a bejelentkezés előtti időszakra nem gyakorolhatták, illetve fizetési kötelezettségüket nem teljesítették, önellenőrzéssel vagy bevallás benyújtásával ezt pótolhatják.
 

@@ -264,7 +264,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 20. § (1) Az Országgyűlés állapítja meg az Akadémia fejezet költségvetését és fogadja el az Akadémia költségvetési beszámolóját.
 
-(2) Az Akadémia költségvetésében a kiadási és a bevételi előirányzatok főösszegének évközi csökkentésére az Országgyűlés jogosult, kivéve az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 46. §-ában meghatározott intézkedéseket.
+(2) Az Akadémia költségvetésében a kiadási és a bevételi előirányzatok főösszegének évközi csökkentésére az Országgyűlés jogosult, kivéve az államháztartásról szóló 2011. évi CXCV. törvény 40. § (4) bekezdésében meghatározott intézkedéseket.
 
 (3) Az Akadémia fejezet költségvetése külön előirányzaton tartalmazza az Országos Tudományos Kutatási Alapprogramok (továbbiakban: OTKA) és az OTKA Iroda költségvetését is.
 
@@ -337,7 +337,7 @@ a közfeladatokkal arányosan – jogszabályban meghatározott feltételek szer
 
 (5) Az Akadémia az ingatlan vagyon adásvételével kapcsolatos pénzforgalom lebonyolítására a Magyar Államkincstárnál elkülönített pénzforgalmi számlát köteles nyitni. Az Akadémia a vagyonhasznosítás átmenetileg szabad pénzeszközeit a Magyar Államkincstár hálózatában értékesített állampapírok vásárlásával hasznosíthatja.
 
-(6) Az Akadémia, valamint – engedélyével – az akadémiai költségvetési szerv a vagyonából, az államháztartáson kívüli bevételének a kiadások után fennmaradt részéből, vállalkozási tartalékából zártkörűen működő részvénytársaságot, korlátolt felelősségű társaságot alapíthat, vagy ilyenekben részesedést szerezhet, ha a cég üzleti terve szerint három éven belül nyereségessé válik, továbbá a hiányt a célelszámolási számlán kezelt összegből, vagyonból finanszírozza. Az Akadémia mint köztestület gazdasági társaságaira az akadémiai költségvetési szervek gazdasági társaságaira vonatkozó szabályok, illetve az Áht. VII/A fejezetében foglaltak megfelelően alkalmazandók, azzal, hogy a tulajdonosi jogokat az elnök gyakorolja.
+(6) Az Akadémia, valamint – engedélyével – az akadémiai költségvetési szerv a vagyonából, az államháztartáson kívüli bevételének a kiadások után fennmaradt részéből, vállalkozási tartalékából zártkörűen működő részvénytársaságot, korlátolt felelősségű társaságot alapíthat, vagy ilyenekben részesedést szerezhet, ha a cég üzleti terve szerint három éven belül nyereségessé válik, továbbá a hiányt a célelszámolási számlán kezelt összegből, vagyonból finanszírozza. Az Akadémia mint köztestület gazdasági társaságaira az akadémiai költségvetési szervek gazdasági társaságaira vonatkozó szabályok megfelelően alkalmazandók, azzal, hogy a tulajdonosi jogokat az elnök gyakorolja.
 
 (7) Az Akadémia vagyonával kapcsolatos végrehajtási jogkört és az elszámolási, valamint a nyilvántartási feladatokat az MTA Titkárságán belül működő Vagyonkezelő Szervezet látja el. Az Akadémia vagyonával kapcsolatos véleményezési, döntés-előkészítő jogkör a Vagyonkezelő Testület hatáskörébe tartozik.
 

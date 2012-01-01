@@ -28,7 +28,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 4. § (1) A földkiadó bizottság üléseit az elnök, vagy akadályoztatása esetén a bizottság által erre kijelölt tag vezeti. Az ülésen az érintett termőföldet használó szövetkezet képviselője tanácskozási és javaslattételi joggal vesz részt.
 
-(2) A földkiadó bizottság a tagok legalább felének jelenléte esetén határozatképes. Határozatait — ha e törvény másként nem rendelkezik — egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök (az ülés vezetőjének ) szavazata dönt. A bizottság tagja a saját vagy hozzátartozója [Ptk. 685. § b) pont] ügyében nem járhat el. A bizottság ügyrendjét egyebekben maga állapítja meg, működési feltételeit az érintett önkormányzatok biztosítják az állami költségvetés terhére.
+(2) A földkiadó bizottság a tagok legalább felének jelenléte esetén határozatképes. Határozatait — ha e törvény másként nem rendelkezik — egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök (az ülés vezetőjének ) szavazata dönt. A bizottság tagja a saját vagy hozzátartozója [Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk) 685. § b) pontja] ügyében nem járhat el. A bizottság ügyrendjét egyebekben maga állapítja meg, működési feltételeit az érintett önkormányzatok biztosítják a központi költségvetés terhére.
 
 (3) A földkiadó bizottságot a bíróság és más hatóság előtt, valamint harmadik személlyel szemben a bizottság elnöke, vagy a bizottság által az erre kijelölt tag képviseli.
 
@@ -69,7 +69,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 5/A. § (1) A kiadásra kerülő föld ingatlan-nyilvántartási bejegyzésével kapcsolatos eljárás illetékmentes.
 
-(2) Ha a tulajdonos kötelezettséget vállal arra, hogy az e törvény alapján kiadott földjét öt évig nem idegeníti el, továbbá nem vonja ki a mezőgazdasági termelésből — kivéve, ha az mezőgazdasági termeléssel összefüggő célból történik — a részére kiadott föld önálló ingatlanná alakításával kapcsolatos költségeit az állami költségvetés terhére részben vissza kell téríteni.
+(2) Ha a tulajdonos kötelezettséget vállal arra, hogy az e törvény alapján kiadott földjét öt évig nem idegeníti el, továbbá nem vonja ki a mezőgazdasági termelésből — kivéve, ha az mezőgazdasági termeléssel összefüggő célból történik — a részére kiadott föld önálló ingatlanná alakításával kapcsolatos költségeit a központi költségvetés terhére részben vissza kell téríteni.
 
 (3) A költségtérítés mértéke a költség 50%-a, de legfeljebb
 
@@ -77,15 +77,9 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 - b) 5—10 ha-ig 9 000 Ft és 5 ha felett 1 200 Ft/ha.
 - c) 10 ha felett 15 000 Ft és 10 ha felett 1 000 Ft/ha lehet.
 
-(4) Ha a tulajdonos a (2) bekezdésben vállalt kötelezettségét megszegi, a kiadott föld önálló ingatlanná alakításával kapcsolatos — részére az állami költségvetésből megtérített — költségeket a föld elidegenítésének vagy mezőgazdasági termelésből kivonásának időpontjában köteles a költségvetésnek visszatéríteni.
+(4) Ha a tulajdonos a (2) bekezdésben vállalt kötelezettségét megszegi, a kiadott föld önálló ingatlanná alakításával kapcsolatos — részére a központi költségvetésből megtérített — költségeket a föld elidegenítésének vagy mezőgazdasági termelésből kivonásának időpontjában köteles a költségvetésnek visszatéríteni.
 
-5/B. § (1) Minden olyan részarány-tulajdonos, aki még kiadatlan AK értékkel rendelkezik, a törvény hatálybalépését, illetve a földalapot kijelölő határozat jogerőre emelkedését követő 60 napon belül kérelmet nyújthat be a mezőgazdasági igazgatási szervhez részarány-tulajdona önálló ingatlanként vagy osztatlan közös tulajdonban történő kiadására vonatkozóan, amennyiben e törvény alapján erre korábban jogosult lett volna.
-
-(2) Az a részarány-tulajdonos, aki a jogszabályban előírt határidőn belül már benyújtott kérelmet, de még kiadatlan AK érték képezi a tulajdonát, úgy a korábbi kérelmét az (1) bekezdés szerint módosíthatja. Ennek hiányában a korábban benyújtott kérelmet kell elbírálni.
-
-(3) A kérelmet írásban kell benyújtani. A kérelemnek tartalmaznia kell a részarány-tulajdonos személyi adatait (név, leánykori név, névváltozást megelőző név, születési hely, idő, anyja neve), lakcímét és a részarány-tulajdonos földjét használó szövetkezet (jogutódja, illetőleg a felszámoló) nevét és székhelyét.
-
-(4) A kérelem benyújtására megszabott határidő elmulasztása jogvesztéssel jár, és a mulasztás miatt igazolásnak nincs helye.
+5/B. §
 
 6. § (1) A földkiadó bizottság az 5. § (1) bekezdése szerinti határidő elteltét követően a földkiadási kérelmeket az igényelt föld fekvését figyelembe véve településenként csoportosítja és meghatározza a teljesítési sorrendet.
 
@@ -161,7 +155,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 ### A részarány-földtulajdon helyének meghatározása
 
-9. § (1) Ha a tulajdonos az 5. § (1) bekezdés szerinti határidőben nem kérte részarány-földtulajdonának kiadását, a földkiadó bizottság nyilvános sorsolással állapítja meg a részarány-földtulajdon fedezetéül szolgáló földrészletet. A földkiadó bizottság a sorsolásról jegyzőkönyvet készít.
+9. § (1)
 
 (2)–(3)
 
@@ -190,25 +184,21 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (7) Ha a földkiadáskor a tényleges művelési ág nem azonos az ingatlan-nyilvántartás szerintivel, és az eltérés már a földalap-kijelölés időpontjában is fennállt, a földkiadás alapját a tényleges művelési ág szerinti AK érték képezi.
 
-9/C. § (1) Azon részarány-tulajdonosok részére, akik az 5/B. § (1)–(2) bekezdése szerinti határidőben kérték részarány-tulajdonuk önálló ingatlanként történő kiadását a mezőgazdasági igazgatási szerv nyilvános sorsolást tart a földek kiadását illetően, amelynek során a nyilvántartott AK értékeik figyelembevételével a földrészletek vonatkozásában kizárólag a kiosztási sorrendet állapítja meg.
+9/C. § (1) A mezőgazdasági igazgatási szerv a még kiadatlan részaránytulajdonok vonatkozásában a részarány-tulajdonosok nyilvántartott AK értékei alapján nyilvános sorsolással állapítja meg a részarány-földtulajdon fedezetéül szolgáló földrészletet. A mezőgazdasági igazgatási szerv a sorsolásról jegyzőkönyvet készít.
 
-(2) A sorsolási jegyzőkönyv alapján 2004. január 1-jétől kezdődően az ingatlanügyi hatóság – az állami költségvetés terhére – változási vázrajzot készít.
+(2) A sorsolást a helyrajzi számok növekvő sorrendjében kell végrehajtani.
 
-(3) A sorsolási jegyzőkönyv szerint készített változási vázrajz, kiosztási földkönyv és egyéb műszaki munkarészek alapján kialakított önálló földrészleteket az ingatlanügyi hatóság az ingatlan-nyilvántartásban átvezeti. A kialakított önálló helyrajzi számú földrészletekre a mezőgazdasági igazgatási szerv ingatlan-nyilvántartási bejegyzésre alkalmas végleges földkiadási határozatot hoz.
+(3) A sorsolás szabálytalan lebonyolítása ellen az, akinek jogos érdekét érinti vagy sérti, törvénysértésre hivatkozással a sorsolás lebonyolítását követő 48 órán belül kifogást nyújthat be a mezőgazdasági igazgatási szervhez.
 
-(4) Az ingatlanügyi hatóság a földkiadási határozattal a részarány-tulajdonos részére kiadott földrészletet kitűzi és az ingatlant a tulajdonosnak – a tulajdonos aláírásával igazolt módon – birtokba adja.
+(4) Ha a sorsolás lebonyolítása ellen kifogás nem érkezett, illetve a kifogással kapcsolatos jogorvoslati eljárás jogerősen befejeződött, a mezőgazdasági igazgatási szerv a sorsolási jegyzőkönyvet megküldi a földrészlet fekvése szerint illetékes ingatlanügyi hatóságnak.
 
-(5) Azon részarány-tulajdonosok esetében, akik az 5/B. § (1)–(2) bekezdése szerinti határidőben osztatlan közös tulajdonban kérték részarány-tulajdonaik kiadását, illetőleg önálló ingatlanként kérték, de az egyes részarány-tulajdonosok részére még kiadható AK érték nem teszi lehetővé földjeik önálló ingatlanként történő kiadását, a mezőgazdasági igazgatási szerv által lefolytatott sorsolás eredménye szerint a részarány-tulajdonosokat megillető AK érték arányában a földrészleten a Polgári Törvénykönyv szerinti közös tulajdon keletkezik.
+(5) A központi költségvetés terhére – a 12/E. § (2) bekezdése, a 12/G. § (2) bekezdése, a 12/H. § (1)–(6) bekezdése és az e törvény felhatalmazása alapján kiadott, a részarány földkiadás során keletkezett osztatlan közös tulajdonok megszüntetésének részletes szabályairól szóló rendelet szerint – gondoskodni kell az érintett földrészlet előkészítéséről, a megosztás kiindulási helyének és az osztás irányának a meghatározásáról. A részaránytulajdonosokat a földrészlet meghatározott részéhez kell rendelni.
 
-(6) A kialakítandó új, önálló földrészletek 3000 m2-nél kisebb területűek nem lehetnek. Az 1994. július 27-ig hatályban volt jogszabályok alapján zártkertnek minősült területen a kialakítandó önálló földrészlet legkisebb területe 1500 m2 lehet.
+(6) A kialakítandó új, önálló földrészletek 3000 m2-nél kisebb területűek nem lehetnek. Az 1994. július 27-éig hatályban volt jogszabályok alapján zártkertnek minősült területen a kialakítandó önálló földrészlet legkisebb területe 1500 m2 lehet.
 
-(7) A mezőgazdasági igazgatási szerv a (5) bekezdés szerinti nyilvános sorsolás eredményéről és a tulajdonba adásról ingatlan-nyilvántartási bejegyzésre alkalmas földkiadási határozatot hoz.
+(7) Az ingatlanügyi hatóság a 12/H. § (1) bekezdése szerinti egyezséget tartalmazó okiratot vagy a sorsolási jegyzőkönyvet, továbbá az elkészített változási vázrajzot és az egyéb munkarészeket megküldi a mezőgazdasági igazgatási szerv részére, amely ezek alapján meghozza az ingatlan-nyilvántartási bejegyzésre alkalmas földkiadási határozatot.
 
-(8) A sorsolást a helyrajzi számok növekvő sorrendjében kell végrehajtani.
-
-(9) A sorsolást a részarány-tulajdonuk önálló ingatlankénti kiadását kérelmezőkkel kell kezdeni.
-
-(10) A sorsolás szabálytalan lebonyolítása ellen az, akinek jogos érdekét érinti vagy sérti, törvénysértésre hivatkozással a sorsolás lebonyolítását követő 48 órán belül kifogást nyújthat be a mezőgazdasági igazgatási szervhez.
+(8) Az ingatlan-nyilvántartási bejegyzést, illetve a (7) bekezdés szerinti határozat jogerőssé válását követően gondoskodni kell a keletkező új földrészletek kitűzéséről, és azok helyszíni birtokbaadásáról. A birtokbaadásról jegyzőkönyvet kell készíteni.
 
 9/D. § (1) Ha a részarány-tulajdon rendezésére elkülönített földalapok AK értéke, valamint a szövetkezet gazdálkodási területén részarány-földtulajdon kiadására felhasználható egyéb területek [6. § (4) bek., 12. § (5) bek.] nem fedezik az igényeket, a kiadatlan részarány-tulajdonnal rendelkező személyek – választásuk szerint – a Nemzeti Földalap földkészletéből termőföldet igényelhetnek vagy kártalanításra tarthatnak igényt 4000 Ft/AK értékben. A részarány-tulajdonost a kérelemre induló eljárás során a választás joga egyszer illeti meg. A kérelmet a szövetkezet gazdálkodási területén fekvő földrészletek kiadása céljából megtartásra kerülő utolsó sorsolás napját követő 6 hónapon belül lehet benyújtani. E határidő elmulasztása esetén a részarány-tulajdonos részére a mezőgazdasági igazgatási szerv pénzbeli kártalanításról dönt.
 
@@ -303,37 +293,39 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 ### A közös tulajdon megszüntetésénekkülön szabályai
 
-12/E. § (1) A részarány-tulajdonnak megfelelő föld kiadása, illetve a részarány-földtulajdon helyének meghatározására irányuló eljárás eredményeként kialakított földrészleten fennálló közös tulajdon megszüntetésére e törvény rendelkezéseit kell alkalmazni, ha a tulajdonostársak a közös tulajdont szerződéssel nem szüntetik meg, s az – a tulajdonostársak nagy számánál vagy más körülménynél fogva – nem várható.
+12/E. § (1) A részarány-tulajdonnak megfelelő föld kiadása, illetve a részarány-földtulajdon helyének meghatározására irányuló eljárás eredményeként kialakított földrészleten fennálló közös tulajdon megszüntetésére e törvény rendelkezéseit kell alkalmazni, ha a tulajdonostársak a közös tulajdont szerződéssel nem szüntetik meg.
 
-(2) E fejezet rendelkezései nem alkalmazhatók az erdőkre, kivéve az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 4. §-a (1) bekezdésének b) pontjában meghatározottakat.
+(2) E fejezet rendelkezései nem alkalmazhatók az erdőkre, kivéve az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 4. §-a (1) bekezdésének b) pontjában meghatározottakat.
 
-12/F. § (1) Amennyiben a földkiadási eljárás eredményeként létrejött osztatlan közös tulajdon tulajdonostársait megillető tulajdoni hányadokat az ingatlan-nyilvántartásba már jogerősen bejegyezték, az ingatlanügyi hatóságnál bármely tulajdonostárs kérelmével e törvény hatálybalépésétől számított 60 napon belül, a továbbiakban évente március 1-ig kezdeményezheti az ingatlan megosztását annak érdekében, hogy saját tulajdoni hányadát önálló ingatlanként kaphassa meg.
+12/F. § (1) Ha a földkiadási eljárás eredményeként létrejött osztatlan közös tulajdon tulajdonostársait megillető tulajdoni hányadokat az ingatlan-nyilvántartásba jogerősen bejegyezték, bármely tulajdonostárs kezdeményezheti az ingatlan megosztását annak érdekében, hogy saját tulajdoni hányadát önálló ingatlanként kaphassa meg. Az önálló ingatlan kialakítása iránti kérelmet legkésőbb 2012. június 1-jéig lehet benyújtani az ingatlanügyi hatósághoz. E határidő elmulasztása esetén a közös tulajdon megszüntetésére a Ptk. rendelkezéseit kell alkalmazni.
 
-(2) Az ingatlannyilvántartásba osztatlan közös tulajdonként bejegyzett ingatlanok esetében a megosztások költségeit 2004. január 1-jétől kezdődően az állam viseli. Az ingatlanügyi hatóság illetékességi területén lefolytatott eljárás során elsőbbséget élvez az a kérelmező, aki a megosztással kialakított önálló ingatlanát sajátjaként műveli. A megosztás költségeit a kérelmező megelőlegezheti. A költségek viselésének és megtérítésének módját a Kormány rendeletben szabályozza.
+(2) Az (1) bekezdésben megjelölt határidőig azon tulajdonostársak is benyújthatják önálló ingatlan kialakítása iránti kérelmüket, akik a 12/H. § (8) bekezdése alapján a visszamaradó földrészleten tulajdonközösségben maradtak.
 
-(3) Az önálló ingatlan kialakítására vonatkozó kérelmet írásban az ingatlanügyi hatóság által erre rendszeresített nyomtatványon kell benyújtani. A kérelmet több tulajdonostárs együttesen is benyújthatja, és kérhetik az önálló ingatlan osztatlan közös tulajdonban történő kiadását.
+(3) Az ingatlan-nyilvántartásba osztatlan közös tulajdonként bejegyzett ingatlanok esetében a megosztások költségeit – a (4) bekezdésben meghatározott kivétellel – az állam viseli.
 
-(4) A kérelem alapján az ingatlanügyi hatóság meghatározza a földrészlet megosztásának módját, megállapítja a megosztás kiindulási helyét és irányát figyelemmel a talajvédelmi szempontokra is.
+(4) Soron kívüli eljárás abban az esetben folytatható le, ha az eljárás költségeit a soronkívüliséget igénylő, kérelmező tulajdonostárs magára vállalja. A soron kívüli eljárás részletes szabályait a Kormány rendeletben állapítja meg.
 
-(5) Az ingatlanügyi hatóság az (1) bekezdés szerinti határidő letelte után a tulajdonostársak közötti egyezség hiányában sorsolással dönt a kiosztás sorrendjéről.
+12/G. § (1) Az önálló ingatlan kialakítására vonatkozó kérelmet írásban az ingatlanügyi hatóság által erre rendszeresített nyomtatványon kell benyújtani. A kérelmet több tulajdonostárs együttesen is benyújthatja, és kérhetik az önálló ingatlan osztatlan közös tulajdonban történő kiadását.
 
-(6) Az ingatlanügyi hatóság a sorsolással az adott földrészlet vonatkozásában a kiosztási sorrendet állapítja meg, és a földrészlet meghatározott részéhez rendeli a tulajdonosokat tulajdoni hányaduknak megfelelően.
+(2) A kérelem alapján az ingatlanügyi hatóság meghatározza a megosztás kiindulási helyét és irányát figyelemmel a talajvédelmi szempontokra és a kialakult helyszíni használatra. A megosztás módját, kiindulási helyét és irányát meghatározó határozatot az ingatlanügyi hatóság és a település polgármesteri hivatalának hirdetőtábláján nyolc napra történő kifüggesztéssel kell az érintettekkel közölni. Ezen időtartamon belül a döntés ellen fellebbezésnek van helye.
 
-(7) Az önálló földrészlet kialakítására a 9/C. § (6) bekezdésében foglaltak az irányadóak.
+12/H. § (1) A kérelmező tulajdonostársak közötti egyezség hiányában az adott földrészlet vonatkozásában a kiosztás sorrendjét sorsolással kell megállapítani. Az egyezségnek vagy a kisorsolt sorrendnek megfelelően a tulajdonostársakat tulajdoni hányaduknak megfelelően a földrészlet meghatározott részéhez kell rendelni.
 
-(8) A sorsolás során a 9/C. § (10) bekezdésének szabályai értelemszerűen alkalmazandók, azzal az eltéréssel, hogy a sorsolás ellen az ingatlanügyi hatóságnál kifogás nyújtható be.
+(2) A sorsolást az ingatlanügyi hatóság által létrehozott sorsolási bizottság bonyolítja le.
 
-(9) A földrészlet megosztására csak abban az esetben kerülhet sor, ha ahhoz a megosztandó ingatlant terhelő és az ingatlan-nyilvántartásba bejegyzett jogok jogosultjai hozzájárultak.
+(3) A sorsolás során a 9/C. § (3) bekezdését kell alkalmazni azzal az eltéréssel, hogy a sorsolás ellen az ingatlanügyi hatóságnál kifogás nyújtható be.
 
-(10) Az ingatlanügyi hatóság a sorsolást követően elkészíti a változási vázrajzot, s ennek, valamint a sorsolási jegyzőkönyvnek az alapján a tulajdonjogot bejegyzi az ingatlan-nyilvántartásba.
+(4) Az önálló földrészlet kialakítására a 9/C. § (6) bekezdését kell alkalmazni.
 
-(11) Akik önálló földrészlet kialakítását nem kérték a visszamaradó földrészleten tulajdonközösségben maradnak.
+(5) A földrészlet megosztást követően az egyes tulajdoni hányadokra vonatkozó, illetve azokat terhelő, az ingatlan-nyilvántartásba bejegyzett jogok és feljegyzett tények – a keletkező önálló földrészletekre történő – visszajegyzéséről az ingatlanügyi hatóság gondoskodik.
 
-(12) Az önálló ingatlanná alakításról szóló határozatok közlésére az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény vonatkozó rendelkezései az irányadók.
+(6) Ha törvény úgy rendelkezik, a megosztási vázrajzot – határidő kitűzésével – ellenjegyzésre közölni kell az ingatlan-nyilvántartásba bejegyzett jog jogosultjával. Ha a jogosult az ellenjegyzést határidőben nem teljesíti, úgy azt megadottnak kell tekinteni.
 
-12/G. §
+(7) Az ingatlanügyi hatóság a sorsolást követően az elkészített változási vázrajz, valamint a sorsolási jegyzőkönyv vagy az egyezségi okirat alapján a tulajdonjogot bejegyzi az ingatlan-nyilvántartásba.
 
-12/H. §
+(8) Akik önálló földrészlet kialakítását nem kérték a visszamaradó földrészleten tulajdonközösségben maradnak.
+
+(9) Az önálló ingatlanná alakításról szóló határozatok közlésére az ingatlan-nyilvántartásról szóló törvényt kell alkalmazni.
 
 12/I. §
 
@@ -375,8 +367,10 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (5) A szövetkezet a földhasználati jogával terhelt földeket a földalap elkülönítési tervezetet jóváhagyó határozat jogerőre emelkedése után egy évnél hosszabb időre haszonbérbe nem adhatja.
 
-15. § Felhatalmazást kap a Kormány, hogy az egységes eljárás érdekében az osztatlan közös tulajdon megszüntetésével kapcsolatos ingatlan-nyilvántartási eljárás részletes szabályait, az Fkbt. 12/F. § (1) bekezdése szerint 2002. március 1-jéig benyújtott kérelmek teljesítésének ütemezése érdekében szükséges intézkedésekre vonatkozó szabályokat, a költségviselés és megtérítés szabályait rendeletben megállapítsa.
+15. § Felhatalmazást kap a Kormány, hogy az egységes eljárás érdekében a részarány földkiadás során keletkezett osztatlan közös tulajdonok megszüntetésének részletes szabályait, továbbá a 12/F. § (4) bekezdésében meghatározott soronkívüli eljárás szabályait rendeletben állapítsa meg.
 
 16. § Felhatalmazást kap a Kormány, hogy az 5/A. § (3) bekezdése szerinti költségtérítés igénylésének, kifizetésének, ellenőrzésének és visszatérítésének eljárási rendjét rendeletben állapítsa meg.
 
 17. § Felhatalmazást kap a földügyért felelős miniszter, hogy a földkiadó bizottságok által lefolytatott közigazgatási hatósági eljárásokban a szakértő kirendelésére, valamint a szakértői névjegyzék összeállítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
+
+18. § E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 12/H. § (5) és (6) bekezdése az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor folyamatban lévő eljárásban csak akkor alkalmazhatóak, ha a 12/G. § (2) bekezdése szerinti határozat az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépéséig nem emelkedett jogerőre.

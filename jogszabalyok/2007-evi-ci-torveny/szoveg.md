@@ -12,7 +12,7 @@ a döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztos�
 
 – Felismerve e feladatok teljesítésére irányuló törekvések elősegítésének szükségességét, az Országgyűlés a következő törvényt alkotja:
 
-1. § A költségvetési szerv és a többségi állami tulajdonban lévő gazdálkodó szervezet (a továbbiakban: adatkezelő) a kezelésében lévő közérdekű adatot 15 napon belül, költségtérítés megállapítása nélkül továbbítja az ezt igénylő központi államigazgatási szervnek, illetve a Pénzügyi Szervezetek Állami Felügyeletének.
+1. § A költségvetési szerv és a többségi állami tulajdonban lévő gazdálkodó szervezet (a továbbiakban: adatkezelő) a kezelésében lévő közérdekű adatot 15 napon belül, költségtérítés megállapítása nélkül továbbítja az ezt igénylő központi államigazgatási szervnek.
 
 2. § (1) Az állami vezető és a kormányhivatal vezetője jelentős társadalmi, vagy gazdasági hatású, és különösen az európai uniós kötelezettségek teljesítését érintő döntések előkészítése érdekében kérheti, hogy az adatkezelő a kezelésében lévő személyes adatról, adótitokról, vagy egyedi statisztikai adatról készített másolatot visszafordíthatatlan módon úgy módosítsa, hogy az az érintettel ne legyen kapcsolatba hozható, és kérheti a személyes vagy bizalmas jellegétől így megfosztott adat 1. § szerinti átadását.
 
@@ -54,7 +54,7 @@ a döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztos�
 
 (6) Az adatbázis létrehozásáért felelős szervnek az összekapcsolást követően az anonim kapcsolati kód és az átvett adatok közötti kapcsolatot helyreállíthatatlanul meg kell szüntetnie és az anonim kapcsolati kódot haladéktalanul törölnie kell.
 
-6. § Az adatbázis létrehozásáért felelős szerv tevékenységét, az adatigénylés, adatátadás és adat-összekapcsolás jogszerűségét és az anonim kapcsolati kód képzésének módszerét az adatvédelmi biztos a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott eljárásban előzetesen is ellenőrizheti.
+6. § Az adatbázis létrehozásáért felelős szerv tevékenységét, az adatigénylés, adatátadás és adat-összekapcsolás jogszerűségét és az anonim kapcsolati kód képzésének módszerét a Nemzeti Adatvédelmi és Információszabadság Hatóság előzetesen is ellenőrizheti.
 
 7. § (1) A 2. § szerinti adatkérés esetén az adatkezelő, a 4. § szerinti kapcsolás esetén az adatbázis létrehozásáért felelős szerv az adatok átadása előtt a természetes személy lakcímére vonatkozó adatot úgy módosítja, hogy abból az érintett lakóhelye a kistérségnél pontosabban ne legyen megállapítható.
 

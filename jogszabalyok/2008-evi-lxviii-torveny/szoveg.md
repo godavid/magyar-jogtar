@@ -6,7 +6,7 @@ Az Országgyűlés a harmadik országokból beutazó személyek által importál
 
 ### Alkalmazási hatály
 
-1. § Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) és a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) alkalmazásában mentes – az e törvényben meghatározottak szerint – az általános forgalmi adó és a jövedéki adó alól a harmadik államból vagy az azzal egy tekintet alá eső területről a Magyar Köztársaság államterületére (a továbbiakban: belföld) beutazó természetes személy (a továbbiakban: utas) személyi poggyászában levő termék vagy termékek nem kereskedelmi jellegű importja.
+1. § Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) és a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) alkalmazásában mentes – az e törvényben meghatározottak szerint – az általános forgalmi adó és a jövedéki adó alól a harmadik államból vagy az azzal egy tekintet alá eső területről Magyarország területére (a továbbiakban: belföld) beutazó természetes személy (a továbbiakban: utas) személyi poggyászában levő termék vagy termékek nem kereskedelmi jellegű importja.
 
 2. § (1) E törvény rendelkezéseit kell alkalmazni abban az esetben is, ha az utas útja során egy harmadik állam területén átutazik, vagy útja harmadik állammal egy tekintet alá eső területen kezdődik, és az utas nem tudja igazolni, hogy
 

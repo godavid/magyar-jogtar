@@ -2,9 +2,7 @@
 
 a szomszédos államokban élő magyarokról
 
-Az Országgyűlés– a Magyar Köztársaságnak az Alkotmány 6. § (3) bekezdésében foglalt, a határon kívül élő magyarokért viselt felelősségének érvényesítése érdekében, Magyarországgal való sokoldalú kapcsolataik ápolásának és fejlesztésének előmozdítása céljából,– figyelemmel a Magyar Köztársaságnak az Európai Unióhoz való csatlakozására, továbbá a nemzetközi szervezeteknek, különösen az Európa Tanácsnak az emberi jogok tiszteletben tartásával, a kisebbségi jogok védelmével kapcsolatos alapelveire,– tekintettel a nemzetközi jog általánosan elfogadott szabályaira és a Magyar Köztársaság által vállalt nemzetközi jogi kötelezettségekre,– tekintettel a közép-európai térségen belüli partneri és jószomszédi viszonyra, különösen a Magyar Köztársaságnak a szomszédos államokkal a jószomszédi kapcsolatok és együttműködés, valamint a kisebbséghez tartozó személyek jogainak biztosítása tárgyában kötött kétoldalú nemzetközi szerződéseire, továbbá a regionális együttműködés fejlesztésére, Magyarország stabilizáló szerepének erősítésére,– a szomszédos államokban élő magyarságnak a szülőföldjén való boldogulásának, Magyarországgal való kapcsolatai fenntartásának, magyar nemzeti azonosságtudata megerősítésének, valamint a magyar kulturális örökséghez való kötődésének, mint a magyar nemzethez való tartozása kifejezésre juttatásának érdekében,– a Magyar Állandó Értekezlet – mint a szomszédos államokban élő magyar közösségek nemzeti önazonosságtudatának megőrzése és erősítése érdekében működő egyeztető testület – kezdeményezésére és javaslatai alapján,– a világ más részein a határon kívül élő magyar nemzetiségű személyek számára jogszabályban biztosított kedvezmények és támogatások érintése nélkül
-
-a következő törvényt alkotja:
+Az Országgyűlés– Magyarországnak a határon kívül élő magyarokért viselt felelőssége érvényesítésének érdekében, Magyarországgal való sokoldalú kapcsolataik ápolásának és fejlesztésének előmozdítása céljából,– figyelemmel Magyarországnak az Európai Unióhoz való csatlakozására, továbbá a nemzetközi szervezeteknek, különösen az Európa Tanácsnak az emberi jogok tiszteletben tartásával, a kisebbségi jogok védelmével kapcsolatos alapelveire,– tekintettel a nemzetközi jog általánosan elfogadott szabályaira és a Magyarország által vállalt nemzetközi jogi kötelezettségekre,– tekintettel a közép-európai térségen belüli partneri és jószomszédi viszonyra, különösen Magyarországnak a szomszédos államokkal a jószomszédi kapcsolatok és együttműködés, valamint a kisebbséghez tartozó személyek jogainak biztosítása tárgyában kötött kétoldalú nemzetközi szerződéseire, továbbá a regionális együttműködés fejlesztésére, Magyarország stabilizáló szerepének erősítésére,– a szomszédos államokban élő magyarságnak a szülőföldjén való boldogulásának, Magyarországgal való kapcsolatai fenntartásának, magyar nemzeti azonosságtudata megerősítésének, valamint a magyar kulturális örökséghez való kötődésének, mint a magyar nemzethez való tartozása kifejezésre juttatásának érdekében,– a Magyar Állandó Értekezlet – mint a szomszédos államokban élő magyar közösségek nemzeti önazonosság tudatának megőrzése és erősítése érdekében működő egyeztető testület – kezdeményezésére és javaslatai alapján,– a világ más részein a határon kívül élő magyar nemzetiségű személyek számára jogszabályban biztosított kedvezmények és támogatások érintése nélküla következő törvényt alkotja:
 
 ### I. Fejezet — Általános rendelkezések
 
@@ -16,13 +14,13 @@ a következő törvényt alkotja:
 
 - a) aki magyar állampolgárságát önként tett nyilatkozata alapján veszítette el;
 - b) akinek magyar állampolgárságát azért vonták vissza, mert azt csalárd módon szerezte meg;
-- c) aki a Magyar Köztársaság területén bevándorolt, letelepedett, menekült vagy menedékes jogállást szerzett.
+- c) aki Magyarország területén bevándorolt, letelepedett, menekült vagy menedékes jogállást szerzett.
 
-2. § (1) A szülőföldön való megmaradást és gyarapodást, továbbá a kulturális és nyelvi azonosságtudat megőrzését a Magyar Köztársaság a törvény hatálya alatt álló, magát magyar nemzetiségűnek valló személyeknek vagy szervezeteiknek az e törvényben meghatározott kedvezmények nyújtásával és támogatások folyósításával kívánja elősegíteni.
+2. § (1) A szülőföldön való megmaradást és gyarapodást, továbbá a kulturális és nyelvi azonosságtudat megőrzését Magyarország a törvény hatálya alatt álló, magát magyar nemzetiségűnek valló személyeknek vagy szervezeteiknek az e törvényben meghatározott kedvezmények nyújtásával és támogatások folyósításával kívánja elősegíteni.
 
-(2) A törvény rendelkezéseit a Magyar Köztársaság nemzetközi szerződésben vállalt kötelezettségeivel összhangban, továbbá a nemzetközi jog általánosan elismert elveinek tiszteletben tartásával kell alkalmazni, különös tekintettel az államok területi szuverenitásának, a szerződések kötelező erejének és jóhiszemű végrehajtásának, az államok közötti baráti kapcsolatoknak, valamint az emberi jogok tiszteletben tartásának elvére, beleértve a hátrányos megkülönböztetés tilalmának elvét is.
+(2) A törvény rendelkezéseit Magyarország nemzetközi szerződésben vállalt kötelezettségeivel összhangban, továbbá a nemzetközi jog általánosan elismert elveinek tiszteletben tartásával kell alkalmazni, különös tekintettel az államok területi szuverenitásának, a szerződések kötelező erejének és jóhiszemű végrehajtásának, az államok közötti baráti kapcsolatoknak, valamint az emberi jogok tiszteletben tartásának elvére, beleértve a hátrányos megkülönböztetés tilalmának elvét is.
 
-3. § (1) A törvény hatálya alá tartozó személy a Magyar Köztársaság területén, az e törvényben meghatározott feltételek szerint biztosított kedvezményekkel élhet, és támogatásban részesülhet.
+3. § (1) A törvény hatálya alá tartozó személy Magyarország területén, az e törvényben meghatározott feltételek szerint biztosított kedvezményekkel élhet, és támogatásban részesülhet.
 
 (2) A törvény hatálya alá tartozó, magát magyar nemzetiségűnek valló személy, kulturális és nyelvi azonosságtudata megőrzése érdekében, a szomszédos államban lévő állandó lakóhelyén, kulturális és oktatási célú támogatásban részesülhet. Ha nemzetközi szerződés másként nem rendelkezik, a szomszédos államok területén igényelhető támogatások folyósításának rendjére e törvényt kell alkalmazni.
 
@@ -32,7 +30,7 @@ a következő törvényt alkotja:
 
 ### Művelődés, kultúra, tudomány
 
-4. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személyeknek a Magyar Köztársaság a területén biztosítja különösen:
+4. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személyeknek Magyarország a területén biztosítja különösen:
 
 - a) a közművelődési intézmények használatának jogát és ezen intézmények szolgáltatásai igénybevételének lehetőségét,
 - b) a kulturális javak hozzáférhetővé tételét a nyilvánosság és a kutatás számára,
@@ -57,7 +55,7 @@ a következő törvényt alkotja:
 
 ### Kitüntetés, ösztöndíj
 
-6. § (1) A Magyar Köztársaság biztosítja annak lehetőségét, hogy a magyarság szolgálatában, a magyar és az egyetemes emberi értékek gyarapításában kifejtett kimagasló, példamutató tevékenységük elismeréséül a törvény hatálya alá tartozó személyek a Magyar Köztársaság állami kitüntetéseiben, illetőleg a miniszterek által alapított kitüntető címekben, díjakban, oklevelekben részesüljenek.
+6. § (1) Magyarország biztosítja annak lehetőségét, hogy a magyarság szolgálatában, a magyar és az egyetemes emberi értékek gyarapításában kifejtett kimagasló, példamutató tevékenységük elismeréséül a törvény hatálya alá tartozó személyek Magyarország állami kitüntetéseiben, illetve a miniszterek által alapított kitüntető címekben, díjakban, oklevelekben részesüljenek.
 
 (2) Az állami ösztöndíjak feltételeinek megállapításakor a törvény hatálya alá tartozó személyek számára biztosítani kell az ösztöndíjak odaítélésének a lehetőségét.
 
@@ -67,7 +65,7 @@ a következő törvényt alkotja:
 
 ### Utazási kedvezmények
 
-8. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személy – a törvény céljaival összhangban, a magyar kultúrához való kötödés erősítésének érdekében – a Magyar Köztársaság területén a belföldi helyi és helyközi menetrend szerinti tömegközlekedési eszközön – vasúti utazás esetén annak 2. kocsiosztályán – utazási kedvezményekben részesül.
+8. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személy – a törvény céljaival összhangban, a magyar kultúrához való kötödés erősítésének érdekében – Magyarország területén a belföldi helyi és helyközi menetrend szerinti tömegközlekedési eszközön – vasúti utazás esetén annak 2. kocsiosztályán – utazási kedvezményekben részesül.
 
 (2) Korlátlan számú díjmentes utazásra jogosult
 
@@ -85,7 +83,7 @@ a következő törvényt alkotja:
 
 ### Oktatás
 
-9. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személy a Magyar Köztársaság felsőoktatási intézményeiben külön jogszabály szerint jogosult magyar nyelven
+9. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó személy Magyarország felsőoktatási intézményeiben külön jogszabály szerint jogosult magyar nyelven
 
 - a) alap- és mesterképzésben,
 - b)
@@ -98,13 +96,13 @@ részt venni.
 
 (2)
 
-(3) Az e törvény hatálya alá tartozó személyek államilag finanszírozott képzés keretében az oktatásért felelős miniszter által évente meghatározott számban folytathatnak tanulmányokat a Magyar Köztársaság felsőoktatási intézményeiben.
+(3) Az e törvény hatálya alá tartozó személyek államilag finanszírozott képzés keretében az oktatásért felelős miniszter által évente meghatározott számban folytathatnak tanulmányokat Magyarország felsőoktatási intézményeiben.
 
 (4) Nem államilag finanszírozott képzésben részt vevő, az 1. § (1) és (2) bekezdésének hatálya alá tartozó hallgatók magyarországi tartózkodásukkal és tanulmányaikkal kapcsolatos költségeik részben vagy egészben történő megtérítését, külön jogszabály szerint, pályázat útján igényelhetik.
 
 ### Diákkedvezmények
 
-10. § Az 1. § (1)–(2) bekezdésének hatálya alá tartozó, alap-, közép- és felsőfokú oktatási intézményben tanulmányokat folytató kiskorúak vagy hallgatók a Magyar Köztársaság területén diákkedvezményekre jogosultak. A kedvezményekre való jogosultságot az előírt módon érvényesített „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány” igazolja. A kedvezményeket és az azok igénybevételével összefüggő részletes szabályokat külön jogszabály tartalmazza.
+10. § Az 1. § (1)–(2) bekezdésének hatálya alá tartozó, alap-, közép- és felsőfokú oktatási intézményben tanulmányokat folytató kiskorúak vagy hallgatók Magyarország területén diákkedvezményekre jogosultak. A kedvezményekre való jogosultságot az előírt módon érvényesített „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány” igazolja. A kedvezményeket és az azok igénybevételével összefüggő részletes szabályokat külön jogszabály tartalmazza.
 
 ### Pedagógusok és oktatók támogatása
 
@@ -120,15 +118,15 @@ igényelheti.
 
 (3) Az (1) bekezdésben meghatározott pedagógusok továbbképzésére vonatkozó részletes szabályokat külön jogszabály tartalmazza.
 
-12. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, óvodai, alap-, közép- és felsőfokú oktatási intézményben tanító pedagógus és oktató a Magyar Köztársaság területén pedagógus-, illetve oktatói kedvezményre jogosult. A kedvezményekre való jogosultságot az előírt módon érvényesített „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány” igazolja. A kedvezményeket és az azok igénybevételével összefüggő részletes szabályokat külön jogszabály tartalmazza.
+12. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, óvodai, alap-, közép- és felsőfokú oktatási intézményben tanító pedagógus és oktató Magyarország területén pedagógus-, illetve oktatói kedvezményre jogosult. A kedvezményekre való jogosultságot az előírt módon érvényesített „Magyar igazolvány” és a „Magyar hozzátartozói igazolvány” igazolja. A kedvezményeket és az azok igénybevételével összefüggő részletes szabályokat külön jogszabály tartalmazza.
 
 ### Határon túli kihelyezett képzés
 
-13. § (1) A Magyar Köztársaság a határon túli magyarság anyanyelvének, kultúrájának, nemzeti azonosságtudatának megőrzését azzal is elősegíti, hogy támogatja az akkreditált magyar felsőoktatási intézmények tagozatának a szomszédos államokba történő kihelyezését, szervezését és működését.
+13. § (1) Magyarország a határon túli magyarság anyanyelvének, kultúrájának, nemzeti azonosságtudatának megőrzését azzal is elősegíti, hogy támogatja az akkreditált magyar felsőoktatási intézmények tagozatának a szomszédos államokba történő kihelyezését, szervezését és működését.
 
-Az ezek megvalósításához biztosítható pénzügyi támogatás összegét a Magyar Köztársaság költségvetése célelőirányzatként határozza meg. A támogatásra rendelkezésre álló keret felhasználásáról az oktatásért felelős miniszter dönt a külön jogszabályban foglaltak szerint.
+Az ezek megvalósításához biztosítható pénzügyi támogatás összegét a központi költségvetésről szóló törvény célelőirányzatként határozza meg. A támogatásra rendelkezésre álló keret felhasználásáról az oktatásért felelős miniszter dönt a külön jogszabályban foglaltak szerint.
 
-(2) A Magyar Köztársaság támogatja a szomszédos államban magyar nyelvű képzést folytató, az adott államban akkreditációt vállaló felsőoktatási intézmény (tagozat, szak) létesítését, működését, fejlesztését. A megvalósításhoz szükséges pénzügyi fedezet a külföldi szervezettől [25. § (1) bekezdés] pályázat útján igényelhető.
+(2) Magyarország támogatja a szomszédos államban magyar nyelvű képzést folytató, az adott államban akkreditációt vállaló felsőoktatási intézmény (tagozat, szak) létesítését, működését, fejlesztését. A megvalósításhoz szükséges pénzügyi fedezet a külföldi szervezettől [25. § (1) bekezdés] pályázat útján igényelhető.
 
 ### A szomszédos államokban nyújtható oktatási támogatás
 
@@ -140,7 +138,7 @@ Az ezek megvalósításához biztosítható pénzügyi támogatás összegét a 
 
 ### Munkavállalás
 
-15. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti harmadik országbeli állampolgárnak a Magyar Köztársaság területén történő munkavállalására a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére vonatkozó általános szabályokat kell alkalmazni. Nemzetközi szerződés az általános szabályoktól eltérően rendelkezhet.
+15. § Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti harmadik országbeli állampolgárnak Magyarország területén történő munkavállalására a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére vonatkozó általános szabályokat kell alkalmazni. Nemzetközi szerződés az általános szabályoktól eltérően rendelkezhet.
 
 16. §
 
@@ -154,11 +152,11 @@ Ezek az információk szolgálják
 - b) a tárgyilagos kép kialakítását a világról, Magyarországról és a magyarságról,
 - c) a kisebbségben élő magyar nemzeti közösségek azonosságtudatának, anyanyelvének, kultúrájának megőrzését.
 
-(2) A Magyar Köztársaság a határon túli magyarság számára közszolgálati televízió-műsor készítését és sugárzását a határokat átlépő televíziózásról szóló európai egyezménnyel összhangban, az e célt szolgáló szervezet létrehozásával és működtetésével biztosítja. Az ehhez szükséges pénzügyi forrásokat a központi költségvetés fedezi.
+(2) Magyarország a határon túli magyarság számára közszolgálati televízió-műsor készítését és sugárzását a határokat átlépő televíziózásról szóló európai egyezménnyel összhangban, az e célt szolgáló szervezet létrehozásával és működtetésével biztosítja. Az ehhez szükséges pénzügyi forrásokat a központi költségvetés fedezi.
 
 ### Határon túli szervezetek támogatása
 
-18. § (1) A Magyar Köztársaság támogatja a szomszédos államokban élő magyar nemzeti közösségek azonosságtudatának, anyanyelvének és kultúrájának megőrzését elősegítő, a szomszédos államokban működő szervezeteket.
+18. § (1) Magyarország támogatja a szomszédos államokban élő magyar nemzeti közösségek azonosságtudatának, anyanyelvének és kultúrájának megőrzését elősegítő, a szomszédos államokban működő szervezeteket.
 
 (2) A támogatás elnyerése érdekében a külföldi szervezethez [25. § (1) bekezdése] pályázatot nyújthat be az (1) bekezdésben meghatározott szervezet, amelynek célja különösen
 
@@ -173,7 +171,7 @@ Ezek az információk szolgálják
 
 19. § (1) Az e törvényben meghatározott egyes kedvezményekre való jogosultságot az 1. § (1) és (2) bekezdésének hatály alá tartozó személyek esetében a ,,Magyar igazolvány'', illetőleg a ,,Magyar hozzátartozói igazolvány'' igazolja.
 
-(2) A Magyar Köztársaság Kormánya által erre kijelölt magyar központi közigazgatási szervtől (a továbbiakban: elbíráló hatóság)
+(2) A Kormány által erre kijelölt magyar központi közigazgatási szervtől (a továbbiakban: elbíráló hatóság)
 
 - a) arcképes ,,Magyar igazolvány'' kiadását kérheti az 1. § (1) bekezdésének hatálya alá tartozó, magát magyar nemzetiségűnek valló személy, kiskorú esetén törvényes képviselője útján;
 - b) ha nemzetközi szerződés ettől eltérően nem rendelkezik arcképes ,,Magyar hozzátartozói igazolvány'' kiadását kérheti az 1. § (2) bekezdésének hatálya alá tartozó hozzátartozó (kiskorú esetén törvényes képviselője).
@@ -235,7 +233,7 @@ Ezek az információk szolgálják
 - b) annak tulajdonosa bevándorolt vagy letelepedett jogállást kapott; vagy
 - c) annak tulajdonosa Magyarországon lakóhelyet létesített; vagy
 - d) annak tulajdonosát a menekültügyi hatóság menekültként, menedékesként elismerte; vagy
-- e) annak tulajdonosát a Magyar Köztársaság területéről kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el; vagy
+- e) annak tulajdonosát Magyarország területéről kiutasították vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el; vagy
 - f) az igazolványt jogosulatlanul használták fel vagy meghamisították; vagy
 - g) a „Magyar hozzátartozói igazolvány”-ra jogosító családi kapcsolat megszűnt vagy attól a személytől, akire tekintettel a „Magyar hozzátartozói igazolvány”-t kérték „Magyar igazolvány”-át visszavonják; vagy
 - h) az igazolvány tulajdonosa ezt maga kéri.
@@ -274,11 +272,9 @@ Ezek az információk szolgálják
 
 (3) Az elbíráló hatóság eljárásának részletes szabályairól, valamint a kiállított igazolványok nyilvántartásának rendjéről, továbbá az igazolvány adattartalmáról és formájáról külön jogszabály rendelkezik.
 
-### A kedvezmények biztosítása a Magyar Köztársaság területén
+### A kedvezmények biztosítása Magyarország területén
 
 23. § Az e törvény szerinti kedvezményeket nyújtó állami fenntartású szervezetek és intézmények, valamint az utazási kedvezményeket nyújtó gazdálkodó szervezetek számára a kedvezmények biztosításához szükséges pénzügyi fedezetről a központi költségvetés gondoskodik.
-
-### A Magyar Köztársaságban igénybe vehető támogatások igénylésének rendje
 
 24. §
 
@@ -312,7 +308,7 @@ Ezek az információk szolgálják
 
 27. § (1) Ez a törvény 2002. január 1-jén lép hatályba.
 
-(2) E törvény rendelkezéseit a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésétől az Európai Unió közösségi vívmányaival összhangban kell alkalmazni.
+(2)
 
 (3) Nemzetközi szerződés alapján a 10. és 14. § rendelkezéseit alkalmazni kell arra a személyre is, aki a szomszédos állam óvodai, alap- vagy középfokú oktatási intézményében tanulói jogviszonyban áll és magyar nyelven tanul, továbbá arra a hallgatóra is, aki a szomszédos állam felsőoktatási intézményében magyar nyelven vagy a magyar kultúra tárgyában tanulmányokat folytat.
 

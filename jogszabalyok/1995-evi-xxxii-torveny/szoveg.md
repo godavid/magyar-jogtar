@@ -38,7 +38,7 @@ a szabadalmi ügyvivőkről
 
 (3) A Kamarába való felvételhez rendelkezni kell
 
-- a) a Magyar Köztársaság területére kiterjedő hatályú szabadalmi ügyvivői felelősségbiztosítással, kivéve, ha a szabadalmi ügyvivő kizárólag a 6. § (2) bekezdése szerinti gazdálkodó szervezetnél működik;
+- a) Magyarország területére kiterjedő hatályú szabadalmi ügyvivői felelősségbiztosítással, kivéve, ha a szabadalmi ügyvivő kizárólag a 6. § (2) bekezdése szerinti gazdálkodó szervezetnél működik;
 - b) a szabadalmi ügyvivői tevékenység folytatásához megfelelő irodahelyiséggel, kivéve, ha a szabadalmi ügyvivő a 6. § (2) bekezdése szerint gazdálkodó szervezetnél, illetve a 6/A. §, a 7. § (2) bekezdése vagy a 10. § (2) bekezdése alapján alkalmazott szabadalmi ügyvivőként működik.
 
 (4) Nem vehető fel a Kamarába
@@ -79,7 +79,9 @@ a szabadalmi ügyvivőkről
 
 3. § (1) A szabadalmi ügyvivőnek a kamarai felvételétől számított egy hónapon belül a Kamara elnöke előtt esküt kell tennie.
 
-(2) A szabadalmi ügyvivői eskü szövege a következő: ,,Én………………………… esküszöm, hogy a Magyar Köztársasághoz hű leszek; szabadalmi ügyvivői hivatásomat ügyfeleim érdekében az Alkotmány és az alkotmányos jogszabályok megtartásával lelkiismeretesen gyakorlom, az ennek során tudomásomra jutott titkot megőrzöm, a rám bízott ügyeket legjobb tudásom szerint intézem, és semmit el nem mulasztok, ami azok sikeres ellátásához és ügyfeleim jogos érdekeinek megóvásához szükséges.''
+(2) Az eskü szövege az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
+
+(2a) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: szabadalmi ügyvivő.
 
 (3) Ha a szabadalmi ügyvivő nem magyar állampolgár, működését a (2) bekezdésben foglalttól a szükséges mértékben eltérő, a Kamara által megállapított szövegű eskü letételét követően kezdheti meg.
 
@@ -442,7 +444,7 @@ a szabadalmi ügyvivőkről
 
 (3) Ha a fegyelmi eljárás lefolytatása olyan előzetes kérdés elbírálásától függ, amelynek tárgyában az eljárás más hatóság hatáskörébe tartozik, a fegyelmi eljárást ennek az eljárásnak a jogerős befejezéséig fel lehet függeszteni.
 
-24/G. § (1) A fegyelmi tanács határozata ellen az eljárás alá vont szabadalmi ügyvivő a kézbesítéstől számított harminc napon belül keresettel fordulhat a bírósághoz. Az eljárásra a Fővárosi Bíróság kizárólagos illetékességgel rendelkezik, és arra a közigazgatási perekre irányadó rendelkezéseket (Pp. XX. fejezet) kell alkalmazni.
+24/G. § (1) A fegyelmi tanács határozata ellen az eljárás alá vont szabadalmi ügyvivő a kézbesítéstől számított harminc napon belül keresettel fordulhat a bírósághoz. Az eljárásra a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik, és arra a közigazgatási perekre irányadó rendelkezéseket (Pp. XX. fejezet) kell alkalmazni.
 
 (2) A kereset a határozat végrehajtására halasztó hatályú.
 
@@ -524,7 +526,7 @@ a szabadalmi ügyvivőkről
 - a) a szabadalmi ügyvivőjelölti tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
 - b) a szabadalmi ügyvivőjelölti tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-27. § (1) A szabadalmi ügyvivőjelölt munkáltatójának utasítása szerint jogosult a bíróság és egyéb hatóság előtt eljárni; ennek során a Kamara által kiállított fényképes hatósági igazolvánnyal igazolja magát. A szabadalmi ügyvivőjelölt a Legfelsőbb Bíróság előtt nem járhat el.
+27. § (1) A szabadalmi ügyvivőjelölt munkáltatójának utasítása szerint jogosult a bíróság és egyéb hatóság előtt eljárni; ennek során a Kamara által kiállított fényképes hatósági igazolvánnyal igazolja magát. A szabadalmi ügyvivőjelölt a Kúria előtt nem járhat el.
 
 (2) A szabadalmi ügyvivőjelölt kötelezettségeire és fegyelmi felelősségére a szabadalmi ügyvivőkre vonatkozó előírásokat kell megfelelően alkalmazni, azzal az eltéréssel, hogy a fegyelmi vétséget elkövető szabadalmi ügyvivőjelölttel szemben kiszabható fegyelmi büntetések a következők:
 
@@ -534,11 +536,11 @@ a szabadalmi ügyvivőkről
 
 ### Az európai közösségi hivatásos iparjogvédelmiképviselő
 
-27/A. § (1) Az európai közösségi hivatásos iparjogvédelmi képviselőnek a Magyar Köztársaság területén folytatott szabadalmi ügyvivői tevékenységére e törvény rendelkezéseit a 27/B–27/I. §-okban foglalt eltérésekkel kell alkalmazni.
+27/A. § (1) Az európai közösségi hivatásos iparjogvédelmi képviselőnek Magyarország területén folytatott szabadalmi ügyvivői tevékenységére e törvény rendelkezéseit a 27/B–27/I. §-okban foglalt eltérésekkel kell alkalmazni.
 
 (2) E törvény alkalmazásában európai közösségi hivatásos iparjogvédelmi képviselő (a továbbiakban: közösségi képviselő) az, aki valamely más EGT-államban szabadalmi ügyvivői tevékenység folytatására jogosult, és ott ténylegesen szabadalmi ügyvivői tevékenységet folytat.
 
-27/B. § (1) Aki a Magyar Köztársaság területén közösségi képviselőként állandó jelleggel, vagy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott határon átnyúló szolgáltatásnyújtás keretében kíván szabadalmi ügyvivői tevékenységet folytatni (a továbbiakban: eseti jellegű szolgáltatásnyújtás), köteles az erre irányuló szándékát a Kamarának bejelenteni.
+27/B. § (1) Aki Magyarország területén közösségi képviselőként állandó jelleggel, vagy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott határon átnyúló szolgáltatásnyújtás keretében kíván szabadalmi ügyvivői tevékenységet folytatni (a továbbiakban: eseti jellegű szolgáltatásnyújtás), köteles az erre irányuló szándékát a Kamarának bejelenteni.
 
 (2)
 
@@ -571,7 +573,7 @@ a szabadalmi ügyvivőkről
 27/D. § (1) A közösségi képviselők névjegyzékébe felvett közösségi képviselőt kérelmére a Kamarába szabadalmi ügyvivőként fel kell venni, ha
 
 - a) megfelel a 2. § (2) bekezdésének a)–c) pontjaiban és a 2. § (3) bekezdésében foglalt feltételeknek, és nem esik a 2. § (4) bekezdésében meghatározott kizáró okok alá;
-- b) hitelt érdemlően – különösen az általa ellátott ügyek számára és jellegére vonatkozó iratokkal vagy a Kamara felhívására más módon – bizonyítja, hogy a magyar joggal kapcsolatos szabadalmi ügyvivői tevékenységet folytatott a Magyar Köztársaság területén megszakítás nélkül három éven át; és
+- b) hitelt érdemlően – különösen az általa ellátott ügyek számára és jellegére vonatkozó iratokkal vagy a Kamara felhívására más módon – bizonyítja, hogy a magyar joggal kapcsolatos szabadalmi ügyvivői tevékenységet folytatott Magyarország területén megszakítás nélkül három éven át; és
 - c) a Kamara által meghatározott módon bizonyítja, hogy rendelkezik a szabadalmi ügyvivői tevékenység folytatásához szükséges magyar nyelvtudással és a magyar jogban való jártassággal.
 
 (2)
@@ -583,7 +585,7 @@ a szabadalmi ügyvivőkről
 27/E. § (1) A közösségi képviselőt a Kamara törli a közösségi képviselők névjegyzékéből, ha
 
 - a) nem felel meg azoknak a feltételeknek, amelyeknek az igazolását a 27/B. § (3) bekezdése előírja;
-- b) jogerős határozattal a szabadalmi ügyvivői tevékenységnek a Magyar Köztársaság területén való folytatásától történő eltiltás fegyelmi büntetéssel sújtották;
+- b) jogerős határozattal a szabadalmi ügyvivői tevékenységnek Magyarország területén való folytatásától történő eltiltás fegyelmi büntetéssel sújtották;
 - c)
 - d) felvették a Kamarába;
 - e) kéri a névjegyzékből való törlését; vagy
@@ -603,7 +605,7 @@ a szabadalmi ügyvivőkről
 
 (6) A közösségi képviselő működése során köteles betartani e törvény rendelkezéseit, valamint az ügyfelek képviselete tekintetében a szabadalmi ügyvivői etikai szabályzat rendelkezéseit; egyéb tevékenységére annak a tagállamnak az előírásait kell alkalmazni, amelyben a szabadalmi ügyvivői tevékenység folytatására jogosultsággal rendelkezik.
 
-(7) E törvénynek a fegyelmi felelősségre vonatkozó rendelkezéseit, valamint a szabadalmi ügyvivői fegyelmi szabályzatot a közösségi képviselőre is alkalmazni kell, azzal, hogy fegyelmi büntetésként a Kamarából történő kizárás helyett a szabadalmi ügyvivői tevékenységnek a Magyar Köztársaság területén való folytatásától történő eltiltás alkalmazható. Fegyelmi eljárásnak van helye akkor is, ha a közösségi képviselő azt a látszatot kelti, hogy szabadalmi ügyvivő vagy a szabadalmi ügyvivői cím használatára jogosult. A Kamara fegyelmi jogkörét azzal szemben gyakorolja, aki a fegyelmi eljárás megindításakor a közösségi képviselőként szolgáltatást nyújtott. A közösségi képviselő fegyelmi büntetését és a mentesítés időpontját fel kell tüntetni a közösségi képviselők névjegyzékében.
+(7) E törvénynek a fegyelmi felelősségre vonatkozó rendelkezéseit, valamint a szabadalmi ügyvivői fegyelmi szabályzatot a közösségi képviselőre is alkalmazni kell, azzal, hogy fegyelmi büntetésként a Kamarából történő kizárás helyett a szabadalmi ügyvivői tevékenységnek Magyarország területén való folytatásától történő eltiltás alkalmazható. Fegyelmi eljárásnak van helye akkor is, ha a közösségi képviselő azt a látszatot kelti, hogy szabadalmi ügyvivő vagy a szabadalmi ügyvivői cím használatára jogosult. A Kamara fegyelmi jogkörét azzal szemben gyakorolja, aki a fegyelmi eljárás megindításakor a közösségi képviselőként szolgáltatást nyújtott. A közösségi képviselő fegyelmi büntetését és a mentesítés időpontját fel kell tüntetni a közösségi képviselők névjegyzékében.
 
 27/G. § (1) A közösségi képviselő működhet alkalmazottként vagy foglalkoztatható gazdálkodó szervezetnél. A közösségi képviselő ilyen tevékenységére egyebekben e törvénynek a szabadalmi ügyvivő alkalmazottra, illetve a gazdálkodó szervezetnél történő foglalkoztatásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
@@ -627,7 +629,7 @@ a szabadalmi ügyvivőkről
 
 (2) A Kamara az ország egész területére kiterjedő illetékességgel jár el, székhelye Budapest.
 
-(3) A Kamara jogosult a Magyar Köztársaság címerének használatára.
+(3)
 
 (4) A Kamara ellátja a törvényben meghatározott közfeladatokat, valamint képviseli a szabadalmi ügyvivők érdekeit, védi a szabadalmi ügyvivők jogait, őrködik a szabadalmi ügyvivői kötelezettségek teljesítésén, és őrzi a szabadalmi ügyvivői kar tekintélyét.
 
@@ -675,6 +677,8 @@ a szabadalmi ügyvivőkről
 (4) Kamarai hatósági ügyben a Kamara elnöksége jár el.
 
 (5) A kamarai tagság megszűnésének megállapítása, a szabadalmi ügyvivőjelölt, illetve a közösségi képviselő névjegyzékből való törlése és a szabadalmi ügyvivői iroda, illetve a szabadalmi ügyvivői társaság nyilvántartásból való törlése iránti eljárást hivatalból meg kell indítani, ha a Kamara megszűnési, illetve törlési okról szerez tudomást. A Kamara az így megindított eljárásban az ügyfelet nyilatkozattételre hívhatja fel és kötelezheti az érdemi döntéshez szükséges adatok közlésére.
+
+(5a) A szabadalmi ügyvivői iroda nyilvántartásból a 9. § (2) bekezdés a) pontja alapján való törlése iránti eljárás során a megszüntetésre irányuló döntés meghozatalának feltétele az állami adóhatóság és a vámhatóság – erre a célra rendszeresített nyomtatványon kiadott – nyilatkozata arról, hogy az iroda adóbevallási kötelezettségeinek eleget tett, adótartozása, jogerős határozatban megállapított adófizetési kötelezettsége nincs, az irodánál adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást az állami adóhatóság illetőleg a vámhatóság nem kezdeményez. Az adóhatósági nyilatkozat beszerzése érdekében a kamarai hatósági eljárás során a kamara megkeresi az adóhatóságot, a nyilatkozat beszerzéséig eltelt idő az döntés meghozatalára nyitva álló határidőbe nem tartozik bele.
 
 (6) A Kamara a szabadalmi ügyvivő részére „Szabadalmi Ügyvivői Igazolvány”-t állít ki, amelynek a következő adatokat kell tartalmaznia:
 
@@ -728,7 +732,7 @@ a szabadalmi ügyvivőkről
 
 (4) A Kamara a szabadalmi ügyvivői működést érintő egyéb kérdésekben — a jogszabályok keretei között — további szabályzatokat adhat ki.
 
-33/A. § A Kamara törvénysértő határozata ellen – a fegyelmi ügyekben (22–25. §-ok) és a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatálya alá tartozó ügyekben (30. §) hozott határozatai, illetve döntései kivételével – a Kamara tagja a határozat közlésétől számított harminc napon belül keresettel fordulhat a bírósághoz. Ezek a perek a Fővárosi Bíróság kizárólagos illetékessége alá tartoznak, és azokra a Pp. általános szabályait kell alkalmazni.
+33/A. § A Kamara törvénysértő határozata ellen – a fegyelmi ügyekben (22–25. §-ok) és a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatálya alá tartozó ügyekben (30. §) hozott határozatai, illetve döntései kivételével – a Kamara tagja a határozat közlésétől számított harminc napon belül keresettel fordulhat a bírósághoz. Ezek a perek a Fővárosi Törvényszék kizárólagos illetékessége alá tartoznak, és azokra a Pp. általános szabályait kell alkalmazni.
 
 ### Törvényességi felügyelet
 
@@ -745,7 +749,7 @@ a szabadalmi ügyvivőkről
 
 35. § (1) Ha a Kamara alapszabálya, fegyelmi szabályzata, egyéb szabályzata jogszabályba, illetve a Kamara határozata jogszabályba vagy kamarai szabályzatba ütközik, a Szellemi Tulajdon Nemzeti Hivatala elnöke — határidő kitűzésével — felhívja a Kamarát a jogszabálysértés megszüntetésére.
 
-(2) Ha a Kamara a megadott határidőn belül nem intézkedik a jogszabálysértés megszüntetésére, a Szellemi Tulajdon Nemzeti Hivatala elnöke a határidő lejártától számított harminc napon belül keresettel fordulhat a bírósághoz. Ezek a perek a Fővárosi Bíróság hatáskörébe tartoznak, és azokra a Pp. általános szabályait kell alkalmazni.
+(2) Ha a Kamara a megadott határidőn belül nem intézkedik a jogszabálysértés megszüntetésére, a Szellemi Tulajdon Nemzeti Hivatala elnöke a határidő lejártától számított harminc napon belül keresettel fordulhat a bírósághoz. Ezek a perek a Fővárosi Törvényszék hatáskörébe tartoznak, és azokra a Pp. általános szabályait kell alkalmazni.
 
 (3) A bíróság a Szellemi Tulajdon Nemzeti Hivatala elnökének keresete alapján
 

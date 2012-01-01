@@ -50,6 +50,8 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 
 4. § (1) Egyszerűsített foglalkoztatás céljára létesített munkaviszonyra az Mt., valamint a kötelező legkisebb munkabérről és a garantált bérminimumról szóló külön jogszabály rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
+(1a) Az egyszerűsített foglalkoztatás céljára létesített munkaviszony alapján személyi alapbérként, illetve teljesítménybérként – a meghatározott feltételeknek megfelelően – legalább a kötelező legkisebb munkabér 85%-a, garantált bérminimum esetén 87%-a jár.
+
 (2) Egyszerűsített foglalkoztatás esetén nem lehet alkalmazni az Mt.-nek
 
 - a) a munkaviszony időtartamára vonatkozó 79. § (4) és (6)–(7) bekezdését,
@@ -115,7 +117,7 @@ kiadása érdekében.
 
 (5) Az (1) bekezdésben foglaltaktól eltérően, ha
 
-- a) a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyar Köztársaság által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetőleg egyezményben részes másik államban biztosított és
+- a) a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyarország által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetve egyezményben részes másik államban biztosított és
 - b) a 11. § (4) bekezdés szerinti igazolással, vagy az egyezmény alapján kiállított, az egyezményben részes másik államban fennálló biztosítást tanúsító igazolással rendelkezik,
 
 a munkáltató közterhet nem fizet.
@@ -156,7 +158,7 @@ a munkáltató közterhet nem fizet.
 - c) az egyszerűsített foglalkoztatás 1. § (1) bekezdése szerinti jellege,
 - d) a munkaviszony napjainak száma.
 
-(4) Amennyiben a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyar Köztársaság által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetőleg egyezményben részes másik államban biztosított és ezt a munkáltató előtt igazolta, az egyszerűsített foglalkoztatásra irányuló jogviszony létesítésekor ezen körülményt az illetékes állami adóhatóságnak a munkáltató az egyszerűsített foglalkoztatás bejelentésével egyidejűleg bejelenteni köteles.
+(4) Amennyiben a munkavállaló a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, vagy a Magyarország által kötött kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján másik tagállamban, illetve egyezményben részes másik államban biztosított és ezt a munkáltató előtt igazolta, az egyszerűsített foglalkoztatásra irányuló jogviszony létesítésekor ezen körülményt az illetékes állami adóhatóságnak a munkáltató az egyszerűsített foglalkoztatás bejelentésével egyidejűleg bejelenteni köteles.
 
 (5) A munkáltató az (1) bekezdés a)–b) pontjaiban meghatározott esetekben a tárgyhót követő hó 12-éig az egyszerűsítetten foglalkoztatott munkavállaló foglalkoztatásával járó közteher-fizetési kötelezettségének tesz eleget. Bevallási kötelezettségét ezen időpontig az ügyfélkapun történő bevallás benyújtásával teljesíti.
 
@@ -175,7 +177,7 @@ van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezett
 
 12. § (1) A munkáltató az egyszerűsített foglalkoztatással összefüggő bevallási kötelezettségét az Art. 31. §-ának (2) bekezdése szerint az ügyfélkapun keresztül teljesíti.
 
-(2) Az (1) bekezdéstől eltérően – a magánszemély munkáltató kivételével – a munkáltató választhatja azt, hogy bevallási kötelezettségét az Art. 31. § (2) bekezdésében meghatározott adattartalommal papír alapon havonta, a tárgyhót követő hó 12-éig teljesíti.
+(2) Az (1) bekezdéstől eltérően – az Art. 31. § (2) bekezdése szerinti bevallásra elektronikusan kötelezettek kivételével – a munkáltató választhatja azt, hogy bevallási kötelezettségét az Art. 31. § (2) bekezdésében meghatározott adattartalommal papír alapon havonta, a tárgyhót követő hó 12-éig teljesíti.
 
 13. § (1) A munkáltató a közteher-fizetési kötelezettséget az Art. 38. §-a rendelkezéseinek megfelelően a tárgyhót követő hó 12-éig, az állami adóhatóság által erre a célra meghatározott beszedési számla javára teljesíti.
 
@@ -271,6 +273,8 @@ b) a hatóság az iratot, illetve a bejelentés eredményességéről szóló vi
 - b) az Flt. 14. § (8) bekezdése, 29. § (3) bekezdése és 36. § (2) bekezdése.
 
 24. § Az Eftv. 15. § (2) bekezdés c) pontja nem lép hatályba.
+
+25. § Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló, 2009. szeptember 16-ai 987/2009/EK európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja.
 
 ### Melléklet a 2010. évi LXXV. törvényhez
 

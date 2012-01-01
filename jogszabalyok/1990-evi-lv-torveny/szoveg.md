@@ -2,7 +2,7 @@
 
 az országgyűlési képviselők jogállásáról
 
-Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajtására a következő törvényt alkotja:
+Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 4. cikk (5) bekezdése alapján a következő törvényt alkotja:
 
 ### I. Fejezet — A képviselőjelöltek munkajogi éstársadalombiztosítási jogállása
 
@@ -16,7 +16,7 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 
 ### A képviselők munkajogi éstársadalombiztosítási jogállása
 
-2. § (1) A képviselő megbízatásának időtartama alatt — az Alkotmányban és e törvényben írt összeférhetetlenségi eseteket kivéve — munkaviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban állhat, illetőleg kereső foglalkozást folytathat.
+2. § (1) A képviselő megbízatásának időtartama alatt — az összeférhetetlenségi eseteket kivéve — munkaviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban állhat, illetőleg kereső foglalkozást folytathat.
 
 (2) A képviselőt mandátuma igazolásától a munkáltató — a dolgozó kérésének megfelelően — a képviselői megbízatásának időtartamára vagy annak egy részére köteles fizetés nélküli szabadságban részesíteni.
 
@@ -24,7 +24,7 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 
 (4) Ha a képviselő a megválasztása előtt ügyész, közigazgatási szerv köztisztviselője, fegyveres szervek hivatásos állományú tagja, valamint e törvény 9. § a) pontjában felsorolt hivatali alkalmazott volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
 
-(5) Ha a képviselő a megválasztása előtt bíró volt és az országgyűlési képviselői megbízatásának megszűnésekor úgy nyilatkozott, hogy ismét bíróvá történő kinevezését kéri és a bírói kinevezéséhez szükséges feltételekkel rendelkezik (ide nem értve a pályaalkalmassági vizsgálaton való részvételt) akkor őt kérelmére, pályázat kiírása nélkül, a köztársasági elnök – az Országos Igazságszolgáltatási Tanács javaslatára – határozatlan időre bíróvá kinevezi. A bírói munkakörbe történő beosztásánál az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra vonatkozó rendelkezésnek megfelelően kell eljárni.
+(5)
 
 3. § (1)
 
@@ -68,7 +68,7 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 
 (2) Az Országgyűlés által létrehozott vizsgálóbizottság tagja a bizottság döntése alapján, külön felhasználói engedély nélkül jogosult a minősített adat felhasználására, ha a vizsgálóbizottság létrehozásáról szóló országgyűlési határozat a vizsgálóbizottság feladatának ellátásához szükséges minősített adat felhasználásához a felhatalmazást megadta. A vizsgálóbizottság tagja a vizsgálóbizottság felhatalmazása alapján járhat el.
 
-(3) Az Országgyűlés Honvédelmi Bizottságának tagja a bizottság döntése alapján, külön felhasználói engedély nélkül jogosult a bizottságnak az Alkotmányban és a honvédelemről szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására. Ez a jogosultság a Katonai Biztonsági Hivatal és a Katonai Felderítő Hivatal működése körében keletkezett minősített adatok vonatkozásában a nemzetbiztonsági szolgálatokról szóló törvény 17. §-a keretei között érvényesül.
+(3) Az Országgyűlés Honvédelmi Bizottságának tagja a bizottság döntése alapján, külön felhasználói engedély nélkül jogosult a bizottságnak az Alaptörvényben és a honvédelemről szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására. Ez a jogosultság a Katonai Nemzetbiztonsági Szolgálat működése körében keletkezett minősített adatok vonatkozásában a nemzetbiztonsági szolgálatokról szóló törvény 17. §-a keretei között érvényesül.
 
 (4) Az Országgyűlés Nemzetbiztonsági Bizottságának tagja a bizottság döntése alapján, külön felhasználói engedély nélkül jogosult a bizottságnak a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladatai ellátása érdekében elengedhetetlenül szükséges minősített adat felhasználására.
 
@@ -76,15 +76,15 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 
 (5) Az országgyűlési képviselő – a (2)–(4) bekezdésben foglaltak kivételével – a feladatai ellátásához szükséges minősített adatokat csak a minősített adat védelméről szóló törvényben foglaltak szerinti felhasználói engedély alapján használhatja fel.
 
-(6) A képviselői igazolvány az államigazgatás valamennyi szervéhez, továbbá a közintézetekhez és közintézményekhez belépésre jogosít. A képviselő — a hatáskörrel rendelkező miniszter által szabályozott módon — jogosult a Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi szervek működésére szolgáló területre is belépni.
+(6) A képviselői igazolvány az államigazgatás valamennyi szervéhez, továbbá a közintézetekhez és közintézményekhez belépésre jogosít. A képviselő – a hatáskörrel rendelkező miniszter által szabályozott módon – jogosult a Magyar Honvédség, a nemzetbiztonsági szolgálatok, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve és nyomozó hatósága működésére szolgáló területre is belépni.
 
 ### III. Fejezet — ÖSSZEFÉRHETETLENSÉGI SZABÁLYOK
 
 ### A képviselői tisztség összeférhetetlensége
 
-9. § A képviselő – az Alkotmány 20. §-ának (5) bekezdésében foglalt eseteken túlmenően – nem lehet
+9. § A képviselő nem lehet
 
-- a) az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, valamint az állampolgári jogok országgyűlési biztosa hivatali szervezetének az alkalmazottja;
+- a) az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, valamint az alapvető jogok biztosa hivatali szervezetének az alkalmazottja;
 - b) a Magyar Nemzeti Bank elnöke, alelnöke, ügyvezető igazgatója, igazgatóságának tagja;
 - c) a Magyar Nemzeti Vagyonkezelő Zrt. alkalmazottja, illetve igazgatóságának vagy felügyelő bizottságának tagja;
 - d) a Közbeszerzések Tanácsa tagja;
@@ -137,10 +137,9 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 
 17. § Összeférhetetlenség miatt meg kell szüntetni annak a képviselőnek a mandátumát,
 
-- a) akit a közügyek gyakorlásától jogerősen eltiltottak,
-- b) akit szándékos bűntett miatt jogerősen szabadságvesztésre ítéltek,
+- a)–b)
 - c) akinek az állammal szemben – a lehetséges jogorvoslati eljárások kimerítését követően – köztartozása áll fenn, és azt az erről szóló értesítés kézhezvételétől számított hatvan napon belül – részletfizetés vagy fizetési halasztás esetén az ezt engedélyező határozat rendelkezéseinek megfelelően – nem rendezi,
-- d) akinek kényszergyógykezelését a bíróság jogerősen elrendelte.
+- d)
 
 ### Bejelentési kötelezettség alá eső tevékenységekés jövedelmek
 
@@ -183,7 +182,7 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 
 (3) A képviselővel közös háztartásban élő házas- vagy élettársának, valamint gyermekének vagyonnyilatkozatába csak az Országgyűlés Mentelmi, összeférhetetlenségi és mandátumvizsgáló bizottságának tagjai tekinthetnek be a képviselő vagyonnyilatkozatával kapcsolatos eljárás során.
 
-(4) A képviselő vagyonnyilatkozatával kapcsolatos eljárást az Országgyűlés elnökénél bárki kezdeményezheti. A vagyonnyilatkozattal kapcsolatos eljárás célja a vagyonnyilatkozatban foglaltak valóságtartalmának ellenőrzése. Az eljárás kezdeményezése esetén az Országgyűlés elnöke haladéktalanul átadja az ügyet megvizsgálásra az Országgyűlés Mentelmi, összeférhetetlenségi és mandátumvizsgáló bizottságának. A bizottság eljárására a Magyar Köztársaság Országgyűlésének Házszabálya az irányadó.
+(4) A képviselő vagyonnyilatkozatával kapcsolatos eljárást az Országgyűlés elnökénél bárki kezdeményezheti. A vagyonnyilatkozattal kapcsolatos eljárás célja a vagyonnyilatkozatban foglaltak valóságtartalmának ellenőrzése. Az eljárás kezdeményezése esetén az Országgyűlés elnöke haladéktalanul átadja az ügyet megvizsgálásra az Országgyűlés Mentelmi, összeférhetetlenségi és mandátumvizsgáló bizottságának. A bizottság eljárására az Országgyűlés Házszabálya az irányadó.
 
 (5) A vagyonnyilatkozattal kapcsolatos eljárás lefolytatásának a vagyonnyilatkozat konkrét tartalmára vonatkozó tényállítás esetén van helye. Ha az eljárásra irányuló kezdeményezés nem jelöli meg konkrétan a vagyonnyilatkozat kifogásolt részét és tartalmát, a Mentelmi bizottság elnöke felhívja a kezdeményezőt a hiány pótlására. Ha a kezdeményező tizenöt napon belül nem tesz eleget a felhívásnak vagy ha a kezdeményezés nyilvánvalóan alaptalan, a Mentelmi bizottság elnöke az eljárás lefolytatása nélkül elutasítja a kezdeményezést.
 
@@ -203,11 +202,27 @@ Az Országgyűlés az Alkotmány 20. §-a (5) és (6) bekezdésének végrehajt�
 - d) befolyásoló részesedés: 1. az olyan közvetlen és közvetett tulajdon egy vállalkozásban, amely összességében a vagyoni vagy a szavazati jogok huszonöt százalékát meghaladó mértékű befolyást biztosít; a közeli hozzátartozók közvetlen és közvetett tulajdoni részesedését egybe kell számítani, 2. az olyan helyzet, amely a vállalkozásban szerződés, alapító okirat (alapszabály) vagy elsőbbségi részvény alapján, a döntéshozó vagy a felügyelő szervek tagjai kinevezése (elmozdítása) útján, vagy egyéb módon jelentős befolyást tesz lehetővé;
 - e) közvetett tulajdon: a vállalkozásban tulajdoni részesedéssel, illetve szavazatokkal rendelkező másik vállalkozás (a továbbiakban: köztes vállalkozás) tulajdonosait megillető tulajdoni, illetve szavazati jog. Ha a tulajdoni arány és a szavazati arány eltér, a nagyobb arányt kell figyelembe venni. A közvetett tulajdon arányának megállapításához a köztes vállalkozásban fennálló tulajdoni vagy szavazati hányadot meg kell szorozni a köztes vállalkozásnak az eredeti vállalkozásban fennálló tulajdoni vagy szavazati hányadával. Ha a köztes vállalkozásban a vállalkozásnak többségi tulajdona van, ezt egy egészként kell figyelembe venni. Természetes személyek esetében a közeli hozzátartozók által birtokolt, illetve gyakorolt tulajdoni vagy szavazati hányadokat egybe kell számítani
 
+### III/A. Fejezet — A képviselői megbízatás megszűnése
+
+23/A. § (1) A képviselő az Országgyűlés elnökéhez benyújtott írásbeli nyilatkozatával lemondhat megbízatásáról.
+
+(2) A képviselő képviselői megbízatása a lemondás benyújtásával szűnik meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+(3) Az Országgyűlés elnöke a képviselő lemondásáról haladéktalanul tájékoztatja az Országgyűlést.
+
+23/B. § Az Országgyűlés a képviselő megválasztásához szükséges feltételek fenn nem állásáról bármely képviselő írásbeli indítványára – a Mentelmi, összeférhetetlenségi és mandátumvizsgáló bizottság véleményének kikérése után – az indítvány kézhezvételétől számított harminc napon belül határoz.
+
+23/C. § (1) A képviselő megbízatása az Alaptörvény 4. cikk (3) bekezdés f) pontja alapján akkor szűnik meg, ha a képviselő egy éven keresztül nem vesz részt az Országgyűlés határozatainak meghozatalában.
+
+(2) Az Országgyűlés annak megállapításáról, hogy a képviselő egy éven keresztül nem vett részt az Országgyűlés munkájában bármely képviselő írásbeli indítványára – a Mentelmi, összeférhetetlenségi és mandátumvizsgáló bizottság véleményének kikérése után – az indítvány kézhezvételétől számított harminc napon belül határoz.
+
 ### IV. Fejezet — Záró rendelkezések
 
 24. § (1) Ez a törvény a kihirdetése napján lép hatályba.
 
-(2) A 18. §-ban meghatározott bejelentést, valamint a 19. §-ban meghatározott vagyonnyilatkozatot a törvény hatálybalépését követő 30 napon belül kell megtenni az Országgyűlés elnökénél. Ha azonban e tisztségek valamelyike a képviselői mandátum ideje alatt megszűnik, akkor újabb összeférhetetlen tisztség nem létesíthető.
+(2)
+
+25. § E szakasz kivételével e törvény az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 ### Melléklet az 1990. évi LV. törvényhez
 

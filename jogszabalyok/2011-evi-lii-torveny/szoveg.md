@@ -12,7 +12,7 @@ a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény mó
 
 (3) A méltatlanság jogcímén történő felmentés jogát az ennek alapjául szolgáló okról való tudomásszerzéstől számított tizenöt napon belül, legfeljebb azonban az ok bekövetkeztétől számított egy éven belül, bűncselekmény elkövetése esetén a büntethetőség elévüléséig lehet gyakorolni. Ha a méltatlanság jogcímén történő felmentés jogát testület jogosult gyakorolni, a tudomásszerzés időpontjának azt kell tekinteni, amikor a felmentés okáról a testületet – mint a munkáltatói jogkört gyakorló szervet – tájékoztatják. A hivatalára méltatlanná vált kormánytisztviselő kormánytisztviselői jogviszonyát felmentési idő nélkül (azonnali hatállyal) kell megszüntetni.
 
-(4) A sérelmezett munkáltatói intézkedés végrehajtására a közszolgálati panasz benyújtásának nincs halasztó hatálya.
+(4)
 
 8/B. § (1) A 8. § (2) bekezdés b) pontjában foglalt felmentésre akkor kerülhet sor, ha
 
@@ -26,7 +26,7 @@ b) az államigazgatási szervnél nincs másik felajánlható munkakör, vagy a 
 
 (4) Ha a kormánytisztviselő a felajánlott állást elutasítja, vagy ha az államigazgatási szervnél a (2) bekezdésben meghatározott munkakör nincs, akkor a kormánytisztviselőt a 8. § (2) bekezdés b) pontja alapján fel kell menteni.
 
-(5) A kormánytisztviselő a munkaértékelés tartalmának, illetve a felajánlott munkakör megfelelőségének vizsgálata iránt a Kormánytisztviselői Döntőbizottsághoz fordulhat. A Kormánytisztviselői Döntőbizottság határozatával szemben kizárólag jogi tények vizsgálata tekintetében, jogszabálysértésre hivatkozással – hibás vagy valótlan ténymegállapításának megsemmisítése iránt – a kormánytisztviselő közszolgálati jogvitát kezdeményezhet a bíróságnál.
+(5)
 
 8/C. § (1) Bizalomvesztésnek minősül, ha a kormánytisztviselő a Ktv. 37. § (4) bekezdésében meghatározott kötelezettségének nem tesz eleget.
 

@@ -40,7 +40,7 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 
 (4a) A nonprofit gazdasági társaság külön törvényben meghatározottak szerint közhasznú jogállású lehet.
 
-(5) Külön törvény határozza meg, hogy a nonprofit gazdasági társaság milyen előfeltételek fennállása esetén minősül közhasznú szervezetnek, és ehhez milyen követelményeket kell teljesítenie. A közhasznú tevékenységet a társasági szerződésben (alapszabályban, alapító okiratban) meg kell határozni. A közhasznú szervezeti minőséget – a társaság alapításakor vagy később – kérelemre a cégjegyzéket vezető megyei (fővárosi) bíróság (a továbbiakban: cégbíróság) állapítja meg. A közhasznú szervezeti jelleget cégnevében a nonprofit gazdasági társaság feltüntetheti.
+(5) Külön törvény határozza meg, hogy a nonprofit gazdasági társaság milyen előfeltételek fennállása esetén minősül közhasznú szervezetnek, és ehhez milyen követelményeket kell teljesítenie. A közhasznú tevékenységet a társasági szerződésben (alapszabályban, alapító okiratban) meg kell határozni. A közhasznú szervezeti minőséget – a társaság alapításakor vagy később – kérelemre a cégjegyzéket vezető törvényszék (a továbbiakban: cégbíróság) állapítja meg. A közhasznú szervezeti jelleget cégnevében a nonprofit gazdasági társaság feltüntetheti.
 
 (6) Ha a közhasznú szervezetnek minősülő nonprofit gazdasági társaság jogutód nélkül megszűnik, úgy a tartozások kiegyenlítése után a társaság tagjai (részvényesei) részére csak a megszűnéskori saját tőke összege adható ki, legfeljebb a tagok (részvényesek) vagyoni hányadának teljesítéskori értéke erejéig. Az ezt meghaladó vagyont a cégbíróság a társasági szerződés (alapszabály, alapító okirat) rendelkezései szerint fordítja közcélokra. Ilyen rendelkezés hiányában a cégbíróság a megmaradt vagyont a Nemzeti Együttműködési Alap támogatására fordítja.
 
@@ -153,9 +153,9 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 
 15. § (1) A gazdasági társaság a társasági szerződés ellenjegyzésének vagy közokiratba foglalásának napjától a létrehozni kívánt gazdasági társaság előtársaságaként működhet.
 
-(2) A létrehozni kívánt gazdasági társaságnak a társasági szerződésben kijelölt vezető tisztségviselői a létrehozni kívánt gazdasági társaság cégbejegyzéséig annak nevében és javára járnak el, az előtársasági jelleget azonban a cégbejegyzési eljárás alatt a gazdasági társaság iratain és a megkötött jogügyletek során a társaság elnevezéséhez fűzött „bejegyzés alatt” („b.a.”) toldattal kell jelezni. Az előtársasági jelleg feltüntetésének elmulasztása esetén a megkötött jogügyletek – ha a cégbíróság a társaságot nem jegyzi be – az alapítók által együttesen megkötött ügyleteknek minősülnek.
+(2) A létrehozni kívánt gazdasági társaságnak a társasági szerződésben kijelölt vezető tisztségviselői a létrehozni kívánt gazdasági társaság cégbejegyzéséig annak nevében és javára járnak el, az előtársasági jelleget azonban a cégbejegyzési eljárásban az adószám megállapítását követően a gazdasági társaság iratain és a megkötött jogügyletek során a társaság elnevezéséhez fűzött „bejegyzés alatt” („b.a.”) toldattal kell jelezni. Az előtársasági jelleg feltüntetésének elmulasztása esetén a megkötött jogügyletek – ha a cégbíróság a társaságot nem jegyzi be – az alapítók által együttesen megkötött ügyleteknek minősülnek.
 
-(3) Az előtársaság üzletszerű gazdasági tevékenységet csak a gazdasági társaság cégbejegyzése iránti kérelem benyújtását követően folytathat azzal, hogy a cégbejegyzésig hatósági engedélyhez kötött tevékenységet nem végezhet.
+(3) Az előtársaság üzletszerű gazdasági tevékenységet csak a gazdasági társaság adószámának megállapítását követően folytathat azzal, hogy a cégbejegyzésig hatósági engedélyhez kötött tevékenységet nem végezhet.
 
 16. § (1) A létrehozni kívánt gazdasági társaság cégneve alatt az előtársasági létszakaszában is jogképes. Az előtársaságra a létrehozni kívánt gazdasági társaságra irányadó szabályokat kell alkalmazni azzal az eltéréssel, hogy
 
@@ -1108,6 +1108,8 @@ kell alkalmazni.
 - a) a számviteli törvény szerinti – e célból készített – közbenső mérleg alapján megállapítható, hogy a társaság rendelkezik az osztalék fizetéséhez szükséges fedezettel; azzal, hogy a kifizetés nem haladhatja meg az utolsó számviteli törvény szerinti beszámoló szerinti üzleti év könyveinek lezárása óta keletkezett eredménynek a számviteli törvényben foglaltak alapján megállapított, illetve a szabad eredménytartalékkal kiegészített összegét és a társaságnak a számviteli törvény szerint helyesbített saját tőkéje a kifizetés folytán nem csökkenhet a törzstőke összege alá, továbbá
 - b) a tagok vállalják az osztalékelőleg visszafizetését, amennyiben utóbb a számviteli törvény szerinti beszámoló alapján – a 131. § (1) bekezdésben foglaltakra figyelemmel – az osztalékfizetésre nem lenne jogszabályi lehetőség.
 
+Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közbenső mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni. Osztalékelőleg a mérleg fordulónapját követő hat hónapon belül a számviteli törvény szerinti beszámoló alapján is fizethető.
+
 134. § A 131. § (4) bekezdésben foglaltak megfelelően alkalmazandók abban az esetben is, ha a tag polgári jogi szerződés alapján, nem tagsági jogviszonyára tekintettel, olyan kifizetésben részesült, amelyre a 131. § (1) bekezdésben foglaltak egyébként nem adnának lehetőséget, és amely a felelős társasági gazdálkodás követelményével összeegyeztethetetlen.
 
 135. § (1) A társaság a saját üzletrészét a törzstőkén felüli vagyonából vásárolhatja meg. Csak azok az üzletrészek vásárolhatók meg, amelyekre a törzsbetétek teljes összegét befizették, illetőleg teljesítették.
@@ -1763,6 +1765,8 @@ számítandó.
 - a) a számviteli törvény szerint készített közbenső mérleg alapján megállapítható, hogy a részvénytársaság rendelkezik az osztalékelőleg fizetéséhez szükséges fedezettel. A kifizetés azonban nem haladhatja meg az utolsó számviteli törvény szerinti beszámoló szerinti üzleti év könyveinek lezárása óta keletkezett eredménynek a számviteli törvényben foglaltak alapján megállapított, illetve a szabad eredménytartalékkal kiegészített összegét és a részvénytársaságnak a számviteli törvény szerint helyesbített saját tőkéje a kifizetés folytán nem csökkenhet az alaptőke összege alá, továbbá
 - b) a részvényesek vállalják az osztalékelőleg visszafizetését, amennyiben utóbb a számviteli törvény szerinti beszámoló alapján – a 219. § (1) bekezdésben foglaltakra figyelemmel – az osztalékfizetésre nem lenne jogszabályi lehetőség.
 
+Az osztalékelőleg fizetése során a közbenső mérlegben foglaltakat a közbenső mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni. Osztalékelőleg a mérleg fordulónapját követő hat hónapon belül a számviteli törvény szerinti beszámoló alapján is fizethető.
+
 (2) Az alapszabály felhatalmazhatja az igazgatóságot arra, hogy a felügyelőbizottság előzetes jóváhagyása mellett a közgyűlés helyett határozzon osztalékelőleg fizetéséről.
 
 222. § (1) A 219. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell akkor is, ha a részvényes, bár nem tagsági jogviszonyára tekintettel, olyan kifizetésben részesült, amelyre a 219. § (1) bekezdésben foglaltak egyébként nem adnának lehetőséget, és amely a felelős társasági gazdálkodás követelményével összeegyeztethetetlen.
@@ -2400,16 +2404,20 @@ kerül sor.
 
 311. § (1) A nyilvánosan működő részvénytársaságoknál legalább háromtagú audit bizottságot kell létrehozni, amelynek tagjait a közgyűlés az igazgatótanács, illetve ahol felügyelőbizottság működik, a felügyelőbizottság független tagjai közül választja.
 
-(2) Az audit bizottság hatáskörébe tartozik:
+(2) Az audit bizottság legalább egy tagjának számviteli és/vagy könyvvizsgálói szakképzettséggel kell rendelkeznie.
+
+(3) Az audit bizottság hatáskörébe tartozik:
 
 - a) a számviteli törvény szerinti beszámoló véleményezése;
-- b) javaslattétel a könyvvizsgáló személyére és díjazására;
-- c) a könyvvizsgálóval megkötendő szerződés előkészítése, az alapszabály felhatalmazása alapján a részvénytársaság képviseletében a szerződés aláírása;
-- d) a könyvvizsgálóval szembeni szakmai követelmények és összeférhetetlenségi előírások érvényre juttatásának figyelemmel kísérése, a könyvvizsgálóval való együttműködéssel kapcsolatos teendők ellátása, valamint – szükség esetén – az igazgatótanács vagy a felügyelőbizottság számára intézkedések megtételére való javaslattétel;
-- e) a pénzügyi beszámolási rendszer működésének értékelése és javaslattétel a szükséges intézkedések megtételére; valamint
-- f) az igazgatótanács, illetve a felügyelőbizottság munkájának segítése a pénzügyi beszámolási rendszer megfelelő ellenőrzése érdekében.
+- b) a számviteli törvény szerinti beszámoló könyvvizsgálatának nyomon követése;
+- c) javaslattétel a könyvvizsgálóra és díjazására;
+- d) a könyvvizsgálóval megkötendő szerződés előkészítése, az alapszabály felhatalmazása alapján a részvénytársaság képviseletében a szerződés aláírása;
+- e) a könyvvizsgálóval szembeni szakmai követelmények, összeférhetetlenségi és függetlenségi előírások érvényre juttatásának figyelemmel kísérése, a könyvvizsgálóval való együttműködéssel kapcsolatos teendők ellátása, a könyvvizsgáló által a számviteli törvény szerinti beszámoló könyvvizsgálatán kívül a részvénytársaság részére nyújtott egyéb szolgáltatások figyelemmel kísérése, valamint – szükség esetén – az igazgatótanács vagy a felügyelőbizottság számára intézkedések megtételére való javaslattétel;
+- f) a pénzügyi beszámolási rendszer működésének értékelése és javaslattétel a szükséges intézkedések megtételére;
+- g) az igazgatótanács, illetve a felügyelőbizottság munkájának segítése a pénzügyi beszámolási rendszer megfelelő ellenőrzése érdekében; valamint
+- h) a belső ellenőrzési és kockázatkezelési rendszer hatékonyságának a figyelemmel kísérése.
 
-(3) Az alapszabály további feladatokat utalhat az audit bizottság hatáskörébe.
+(4) Az alapszabály és külön jogszabály további feladatokat utalhat az audit bizottság hatáskörébe.
 
 312. § (1) Ha a részvénytársaság részvényei a Budapesti Értéktőzsdén bevezetésre kerültek, az igazgatóság az éves rendes közgyűlésen a számviteli törvény szerinti beszámolóval együtt terjeszti a közgyűlés elé a felelős társaságirányítási jelentést.
 

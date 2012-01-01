@@ -16,6 +16,6 @@ az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. t�
 
 33. § (1)–(2)
 
-(3)
+(3) Hatályát veszti az egészségügyi dolgozók rendtartásáról szóló 30/2007. (VI. 22.) EüM rendelet.
 
 34–38. §

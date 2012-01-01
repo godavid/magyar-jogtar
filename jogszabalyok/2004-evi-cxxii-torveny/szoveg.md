@@ -17,7 +17,7 @@ Az Országgyűlés a közszférában töltött életpálya elismerésének és m
 (3) E törvény közszférában indított prémiumévek programra, illetve különleges foglalkoztatási állományra vonatkozó rendelkezéseit megfelelően alkalmazni kell
 
 - a) arra a 2006. június 30-án közigazgatási vagy helyettes államtitkári kinevezéssel rendelkező személyre (a továbbiakban: állami vezető) is, akinek államtitkári állami vezetői szolgálati jogviszonya, közigazgatási államtitkári vagy helyettes államtitkári jogviszonya felmentéssel történő megszűnésére kerülne sor, és megfelel a 3. § (1) bekezdés a), b) és d) pontjában foglalt feltételeknek,
-- b) az autonóm államigazgatási szerv vezetőjére, helyettesére, testületi formában működő autonóm államigazgatási szerv esetében a testület tagjára, a Pénzügyi Szervezetek Állami Felügyeletének elnökére és alelnökeire, ha jogviszonya a határozott idejű kinevezése lejártára tekintettel szűnik meg, feltéve, hogy megfelel a 3. § (1) bekezdésének a) és b) pontjában foglalt feltételeknek.
+- b) az autonóm államigazgatási szerv vezetőjére, helyettesére, testületi formában működő autonóm államigazgatási szerv esetében a testület tagjára, az önálló szabályozó szerv vezetőjére és helyetteseire, ha jogviszonya a határozott idejű kinevezése lejártára tekintettel szűnik meg, feltéve, hogy megfelel a 3. § (1) bekezdésének a) és b) pontjában foglalt feltételeknek.
 
 (4) E törvény közszférában indított prémiumévek programra vonatkozó rendelkezéseit kell alkalmazni az (1) bekezdés d) pontjában szereplő munkáltatókra és munkavállalókra, valamint a (3) bekezdés b) pontjában meghatározott személyre és a vonatkozásában a 3. § (7) bekezdése alapján munkáltatónak minősülő szervre.
 
@@ -89,7 +89,7 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 4. § (1) A 3. § (1) bekezdés d) pontja szerinti határozott időre szóló foglalkoztatásra irányuló jogviszony nem szüntethető meg felmentéssel a 3. § (1) bekezdés c) pontjában szereplő okból. A foglalkoztatásra irányuló jogviszonyra vonatkozó jogszabályokban foglaltakon túl a jogviszony megszűnik továbbá
 
-- a) a programban részt vevő előrehozott öregségi, illetőleg öregségi nyugdíjra való jogosultsága életkori, valamint szolgálati időre vonatkozó feltételeinek megszerzésével, vagy rokkantsági, illetve baleseti rokkantsági nyugdíj részére történő megállapításával, vagy
+- a) a programban részt vevő öregségi nyugdíjra való jogosultsága életkori, valamint szolgálati időre vonatkozó feltételeinek megszerzésével, vagy
 - b) új munkaviszony, közalkalmazotti, közszolgálati jogviszony, állami vezetői szolgálati viszony létesítésével, kivéve a munkáltató jogutód nélküli megszűnése miatti, a megszűnést megelőzően legfeljebb 30 nappal végrehajtott áthelyezés esetét.
 - c) a programban részt vevő a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt jogosultsága feltételeinek megszerzésével.
 
@@ -145,9 +145,9 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 (3) Ha a munkáltató saját forrása terhére vállalja, hogy a prémiumévek program költségeihez legalább 15 százalékban hozzájárul, a (2) bekezdésben említett határidő 12 hónap.
 
-6/A. § (1) A 4/A. §-ban szabályozott prémiumévek programhoz, illetve a munka világából való fokozatos kivonuláshoz kapcsolódó nyugdíjjárulék-, nyugdíjbiztosítási járulék-, illetve magánnyugdíjpénztári tagdíj-kiegészítés mértéke a programban részt vevőnek a munkaszerződés módosítását közvetlenül megelőzően érvényes havi bruttó munkabére utáni, valamint a 4/A. § (1) bekezdés db) pontjában meghatározott munkabére után számított nyugdíjjárulék, nyugdíjbiztosítási járulék, illetve magánnyugdíjpénztári tagdíj különbözete, de személyenként legfeljebb az igényléskor érvényes, teljes munkaidőre járó kötelező legkisebb munkabér kétszerese után számított nyugdíjjárulék, nyugdíjbiztosítási járulék, illetve magánnyugdíjpénztári tagdíj fele, megtérítésének forrása a Munkaerőpiaci Alap foglalkoztatási alaprésze.
+6/A. § (1) A 4/A. §-ban szabályozott prémiumévek programhoz, illetve a munka világából való fokozatos kivonuláshoz kapcsolódó nyugdíjjárulék-, nyugdíjbiztosítási járulék-, illetve magánnyugdíjpénztári tagdíj-kiegészítés mértéke a programban részt vevőnek a munkaszerződés módosítását közvetlenül megelőzően érvényes havi bruttó munkabére utáni, valamint a 4/A. § (1) bekezdés db) pontjában meghatározott munkabére után számított nyugdíjjárulék, nyugdíjbiztosítási járulék, illetve magánnyugdíjpénztári tagdíj különbözete, de személyenként legfeljebb az igényléskor érvényes, teljes munkaidőre járó kötelező legkisebb munkabér kétszerese után számított nyugdíjjárulék, nyugdíjbiztosítási járulék, illetve magánnyugdíjpénztári tagdíj fele, megtérítésének forrása a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprésze.
 
-(2) Ha a munkáltató neki felróható okból nem felel meg a prémiumévek programhoz, illetve a munka világából való fokozatos kivonuláshoz kapcsolódó nyugdíjjárulék-, nyugdíjbiztosítási járulék-, illetve magánnyugdíjpénztári tagdíj-kiegészítés külön jogszabályban meghatározott feltételeinek, az ok bekövetkezésétől számított időre megállapított járulék-, illetve tagdíj-kiegészítést a Munkaerőpiaci Alap foglalkoztatási alaprészének köteles megtéríteni.
+(2) Ha a munkáltató neki felróható okból nem felel meg a prémiumévek programhoz, illetve a munka világából való fokozatos kivonuláshoz kapcsolódó nyugdíjjárulék-, nyugdíjbiztosítási járulék-, illetve magánnyugdíjpénztári tagdíj-kiegészítés külön jogszabályban meghatározott feltételeinek, az ok bekövetkezésétől számított időre megállapított járulék-, illetve tagdíj-kiegészítést a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének köteles megtéríteni.
 
 (3) A prémiumévek programhoz, illetve a munka világából való fokozatos kivonuláshoz kapcsolódó nyugdíjjárulék-, nyugdíjbiztosítási járulék-, illetve magánnyugdíjpénztári tagdíj-kiegészítés megállapítása érdekében a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 41. §-a (5) bekezdésének a)–c) pontjában meghatározott adatok kezelhetők.
 
@@ -169,4 +169,6 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 (8) Felhatalmazást kapnak a miniszterek, hogy az államháztartásért felelős miniszterrel egyetértésben kiadott rendeletükkel a prémiumévek programot kiterjesszék az 1. § (1) bekezdés d) pontjában meghatározott munkáltatókra és azok munkavállalóira.
 
-8–12. §
+8. § A programban 2012. január 1-jén részt vevő személy munkavégzésre irányuló jogviszonya – a kinevezés-, illetve munkaszerződés-módosításban foglaltaktól eltérően – akkor is az öregségi nyugdíjra való jogosultság megszerzésének időpontjában szűnik meg, ha ez későbbi, mint a programba történő belépés miatt szükségessé vált kinevezés-, illetve munkaszerződés-módosításban szereplő, a munkavégzésre irányuló jogviszony megszűnésére meghatározott időpont. Ez a rendelkezés nem zárja ki, hogy a munkavégzésre irányuló jogviszony ezen időpont előtt valamely, e törvényben szabályozott egyéb okból megszűnjön.
+
+9–12. §

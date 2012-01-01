@@ -20,7 +20,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - b) adózással kapcsolatos nyilvántartás: az adózás rendjéről szóló törvény (a továbbiakban: Art.) 10. §-ának (1) bekezdésében felsorolt adóhatóságoknak az adó megállapításával, beszedésével, végrehajtásával kapcsolatos nyilvántartásai;
 - c) archív nyilvántartás: a személyazonosító jel használatára 1996. december 31-ig feljogosított szerv nyilvántartásaiban az érintett polgár 1997. január 1-je előtt rögzített adatai;
 - d) kapcsolati kód: a különböző célú adatkezelések közötti törvényes kapcsolat elősegítésére, megvalósítására képzett ideiglenes számjegysor;
-- e) társadalombiztosítási szerv: az egészségbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 58. §-ának (2) bekezdése alapján a Kormány rendeletében meghatározott társadalombiztosítási feladatokat ellátó szervek;
+- e) társadalombiztosítási szerv: az egészségbiztosítási szerv, rehabilitációs hatóság, a nyugdíjbiztosítási igazgatási szerv, valamint a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 58. §-ának (2) bekezdése alapján a Kormány rendeletében meghatározott társadalombiztosítási feladatokat ellátó szervek;
 - f) egészségügyi ellátóhálózat szerve: az egészségügyi szolgáltatást nyújtó szerv vagy polgár, függetlenül attól, hogy tevékenységét milyen szervezeti vagy tulajdoni formában végzi;
 - g) szociális igazgatás szerve: a települési és a megyei (fővárosi) önkormányzat képviselő-testülete, a jegyző és főjegyző, a szociális hatóság, a szociális intézmény vezetője;
 - h) munkaügyi igazgatás szerve: az állami foglalkoztatási szerv és a munkaügyi hatóság.
@@ -131,7 +131,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - d) a nyomozó hatóság, az ügyész által jóváhagyott megkeresés alapján, ha az adóazonosító jel megismerése a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
 - e) a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 - f) az okmányirodák kijelöléséről és illetékességi területéről szóló kormányrendeletben meghatározott – körzetközponti feladatokat ellátó – települési (fővárosi kerületi) önkormányzat jegyzője az egyéni vállalkozóról szóló törvényben meghatározott feladatai ellátásához;
-- g) a kincstár az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 18/C. §-ának (11) bekezdésében meghatározott feladata teljesítéséhez, valamint az energiafelhasználási támogatás megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett támogatás visszakövetelésével összefüggésben;
+- g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, a családtámogatási és fogyatékossági ellátásokkal, az energiafelhasználási támogatásokkal, valamint a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, a hozzájárulások, támogatások, ellátások megállapításával, érvényesítésével, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
 - h) a Pénzügyi Szervezetek Állami Felügyelete és a magánnyugdíjpénztár a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX., továbbá a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvényben meghatározott feladatai ellátásához;
 - i) az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, valamint a nyugdíjbiztosítási igazgatási szerv a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII., illetőleg a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben meghatározott feladatai ellátásához;
 - j) a Diákhitel Központ a hallgatói hitelek folyósításával, nyilvántartásával és törlesztésével összefüggésben;
@@ -177,8 +177,11 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - e) a szociális igazgatás szerve, a szociális intézmény vezetője, a szociális ellátás megállapításával és folyósításával összefüggésben;
 - f) a munkaügyi igazgatás szerve a munkanélküli ellátással, a foglalkoztatást elősegítő támogatással és munkaerő-piaci szolgáltatással kapcsolatos, valamint a foglalkoztatottakkal összefüggő, jogszabályban meghatározott egyéb tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett foglalkoztató e tevékenysége körében.);
 - g) a fogva tartó szerv, a fogvatartott egészségügyi szolgáltatásra jogosultsága keletkezésével, megszűnésével összefüggő adatszolgáltatás, illetve a fogvatartott nem büntetés-végrehajtási egészségügyi intézményben való ellátása érdekében;
-- h) a kincstár az Áht. 18/C. §-ának (11) bekezdésében meghatározott feladata teljesítéséhez.
+- h) a kincstár a 20. § (2) bekezdés g) pontjában meghatározott feladata teljesítéséhez.
 - i) a kincstár, a családtámogatási kifizetőhely a családtámogatási ellátások, illetőleg a fogyatékossági támogatás megállapítása feladatkörében a külön törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettség teljesítése során.
+- j) a kincstár a helyi önkormányzatokat megillető, a központi költségvetésből származó források igénybevételének és elszámolásának szabályszerűsége megállapításához, valamint a nem állami intézmények fenntartói részére folyósított humánszolgáltatások normatív támogatási előirányzataival kapcsolatos adatszolgáltatási, folyósítási és ellenőrzési feladatai ellátása érdekében.
+- j) a Magyar Honvédség a törvényben meghatározott hadkiegészítési és érdekvédelmi feladatai ellátásához.
+- j) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben.
 
 24. § A TAJ szám továbbítására jogosultak:
 
@@ -192,7 +195,8 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - h) a 23. § e) pontja szerinti szervek egymás között, továbbá az állami foglalkoztatási szerv, a 23. § e) pontja szerinti szervek részére a szociális ellátás megállapításával és folyósításával összefüggésben;
 - i) a munkaügyi igazgatás szerve, a munkanélküli ellátással, a foglalkoztatást elősegítő támogatással és munkaerő-piaci szolgáltatással kapcsolatos tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett munkáltató, e tevékenységével összefüggésben;
 - j) a fogva tartó szervek egymás között, továbbá az egészségügyi ellátó hálózat szervének a fogvatartott egészségügyi szolgáltatásra jogosultságának keletkezésével, megszűnésével összefüggő adatszolgáltatása, illetve a fogvatartott nem büntetés-végrehajtási egészségügyi intézményben való ellátása érdekében;
-- k) a kincstár az Áht. 18/C. §-ának (11) bekezdésében meghatározott feladata teljesítéséhez.
+- k) a kincstár a 20. § (2) bekezdés g) pontjában meghatározott feladata teljesítéséhez.
+- l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a katonai igazgatás területi szervei egymás között a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához.
 
 25. § A 23–24. §-okban meghatározott szerv kérésére a polgár – személyazonosságának hitelt érdemlő igazolása mellett – TAJ számát köteles megismerhetővé tenni.
 
@@ -227,8 +231,8 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - c) az anyakönyvvezető, az Nytv.-ben meghatározott adatszolgáltatási kötelezettsége teljesítéséhez, valamint a személyi azonosító anyakönyvbe történő bejegyzéséhez;
 - d) a külképviseleti hatóság, olyan ügy intézéséhez, amelyben a személyi azonosító kezelésére az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult;
 - e) az állami ingatlan-nyilvántartás szerve, belső azonosítóként, a külön törvényben meghatározottak szerint, az ingatlantulajdonosok, illetve az ingatlannal kapcsolatos bármely joggal vagy kötelezettséggel összefüggésben, a nyilvántartásba bejegyzett polgár azonosításához;
-- f) a hadkiegészítő parancsnokság, a katonai szolgálat teljesítésének időtartama alatt az állományilletékes katonai szervezet, valamint a Honvéd Vezérkar illetékes adatfeldolgozó szerve, a honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Hvt.) 73. §-a szerinti katonai nyilvántartás vezetéséhez, valamint a háborús veszteség nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez;
-- g) a választási szerv a népszavazásról és a népi kezdeményezésről szóló törvényekben és önkormányzati rendeletekben, továbbá a népszámlálásról szóló törvényben, valamint az országgyűlési, a helyi önkormányzati és kisebbségi önkormányzati képviselő, az országos kisebbségi önkormányzati közgyűlés tagjai és a polgármesterek választásáról szóló törvényekben meghatározott feladatai ellátásához;
+- f) a katonai igazgatás szervei és a Magyar Honvédség központi irattározásra kijelölt szerve, továbbá a katonai szolgálat teljesítésének időtartama alatt a tényleges állomány vonatkozásában az állományilletékes katonai szervezet a törvény szerinti hadköteles nyilvántartás vezetéséhez, az önkéntes tartalékos és kiképzett tartalékos állomány katonai szolgálata tervezése érdekében, valamint a háborús veszteség nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez;
+- g) a választási szerv a népszavazásról és a népi kezdeményezésről szóló törvényekben és önkormányzati rendeletekben, továbbá a népszámlálásról szóló törvényben, valamint az országgyűlési, a helyi önkormányzati és nemzetiségi önkormányzati képviselő, az országos nemzetiségi önkormányzati közgyűlés tagjai és a polgármesterek választásáról szóló törvényekben meghatározott feladatai ellátásához;
 - h) a választójoggal nem rendelkező polgárok nyilvántartását vezető, valamint a neki adatot szolgáltató szerv, a választójoggal nem rendelkezők nyilvántartásának vezetéséhez;
 - i) a polgármester (főpolgármester), a népiülnök-választási eljárásban a választójogosultság ellenőrzéséhez;
 - j) az idegenrendészeti szerv és a központi menekültügyi szerv a törvényben meghatározott feladataik ellátásához;
@@ -243,7 +247,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 33. § A polgár a személyi azonosítóját – személyazonosságának hitelt érdemlő igazolása mellett – a 32. § a)–k) és n)–o) pontjaiban felsorolt szerveknek az ott megjelölt feladataik ellátásához köteles megismerhetővé tenni.
 
-34. § (1) A polgár a személyi azonosítóját a népszavazási kezdeményezés, népi kezdeményezés támogatására aláírást, illetőleg a választási eljárásban jelöltajánlást gyűjtő szervnek és polgárnak kezdeményezési, jelöltállítási jogának gyakorlásakor köteles átadni.
+34. § (1) A polgár a személyi azonosítóját a népszavazási kezdeményezés, népi kezdeményezés, európai polgári kezdeményezés támogatására aláírást, illetőleg a választási eljárásban jelöltajánlást gyűjtő szervnek és polgárnak kezdeményezési, jelöltállítási jogának gyakorlásakor köteles átadni.
 
 (2) Az (1) bekezdésben megjelölt szerv és polgár az aláírások gyűjtése során jogosult a személyi azonosító kezelésére.
 
@@ -256,14 +260,14 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - a) a személyiadat- és lakcímnyilvántartás szerve akkor, ha az adatszolgáltatást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
 - b) a 32. § b) pontja szerint adatot szolgáltató szerv vagy polgár, a személyiadat- és lakcímnyilvántartás illetékes szervének;
 - c) az adatkezelő, ha törvény alapján a személyi azonosító alkalmazásával a személyiadat- és lakcímnyilvántartásból adatszolgáltatás igénylésére jogosult, a személyiadat- és lakcímnyilvántartástól történő adatszolgáltatás igényléséhez;
-- d) a népszavazási kezdeményezést, népi kezdeményezést szervező az összegyűjtött aláírásoknak az Országos Választási Bizottság elnöke, illetőleg a polgármester (főpolgármester) részére történő átadásakor;
+- d) a népszavazási kezdeményezést, népi kezdeményezést, európai polgári kezdeményezést szervező az összegyűjtött aláírásoknak az Országos Választási Bizottság elnöke, illetőleg a polgármester (főpolgármester) részére történő átadásakor;
 - e) a választójoggal nem rendelkező polgárok nyilvántartásának vezetéséhez adatszolgáltatásra kötelezett szerv, e kötelezettsége teljesítésekor;
-- f) a választójoggal nem rendelkezők nyilvántartását vezető szerv, a népi kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek, a munkacsoportnak és a bíróságnak teljesített adatszolgáltatáskor;
+- f) a választójoggal nem rendelkezők nyilvántartását vezető szerv, a népi kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek és a bíróságnak teljesített adatszolgáltatáskor;
 - g) a polgármester (főpolgármester) a népiülnök-választási eljárásban, a választójoggal nem rendelkezők nyilvántartását vezető szervtől történő adatszolgáltatás igényléséhez;
 - h) a választójoggal nem rendelkezők nyilvántartását vezető szerv a népiülnök-választási eljáráshoz a polgármesternek (főpolgármesternek) teljesített adatszolgáltatáskor;
 - i) az idegenrendészeti szervek, a törvényben meghatározott feladataik ellátásához egymás között, valamint a nyomozó hatóság részére;
 - j) a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a nyomozó hatóság részére;
-- k) a 32. § f) pontjában felsorolt szervek egymás között, a Hvt.-ben meghatározott feladataik ellátásához;
+- k) a 32. § f) pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;
 - l) a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keretében a hatáskörrel rendelkező hazai hatóságnak;
 - m)
 - n) a helyi népi kezdeményezés, népszavazás-kezdeményezés összegyűjtött aláírásainak átvételére önkormányzati rendeletben feljogosított személy, az aláírások hitelesítésre történő megküldésekor,
@@ -285,7 +289,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 (2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
 
-- a) a honvédelmi igazgatás szervének, a katonai nyilvántartásban szereplő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, ideiglenesen külföldön tartózkodásának tényéről vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról, továbbá a honvédelmi kötelezettség alá eső polgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, személyi azonosítójáról, családi állapotáról és lakcíméről;
+- a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a katonai nyilvántartásban szereplő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, ideiglenesen külföldön tartózkodásának tényéről, vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról, továbbá a honvédelmi kötelezettség alá eső polgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, személyi azonosítójáról, családi állapotáról és lakcíméről;
 - b) az idegenrendészeti szervnek, a bevándorolt és a letelepedett polgár családi és utónevének (beleértve a születési családi és utónevet is), anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének – ennek hiányában tartózkodási helyének – változásáról, ideiglenesen külföldön tartózkodásának tényéről vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról;
 - c) a bűntettesek nyilvántartását kezelő szervnek, a bűntettesek nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének változásáról, továbbá az érintett elhalálozásáról;
 - d) a közúti közlekedési nyilvántartást vezető szervnek a nyilvántartás hatálya alá tartozó polgár családi és utónevének (nők esetében a leánykori családi és utónevet is), anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
@@ -314,7 +318,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 40. § (1)
 
-(2) Az e törvényben nem szabályozott kérdésekben a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, továbbá az adatkezelőre vonatkozó törvény rendelkezései az irányadók.
+(2) Az e törvényben nem szabályozott kérdésekben az információs önrendelkezési jogról és az információszabadságról szóló törvény, továbbá az adatkezelőre vonatkozó törvény rendelkezései az irányadók.
 
 (3)
 

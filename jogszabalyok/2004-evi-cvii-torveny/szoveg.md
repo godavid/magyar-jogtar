@@ -8,7 +8,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 
 (2) A többcélú kistérségi társulás létrehozásához szükséges, hogy
 
-- a) a többcélú kistérségi társulási megállapodást a kistérségbe tartozó települések képviselő-testületeinek több mint a fele, de legalább két képviselő-testület, míg a területfejlesztési feladatok vállalása esetén a kistérségbe tartozó települések képviselő-testületeinek mindegyike (a továbbiakban: a társulás tagja) jóváhagyja;
+- a) a többcélú kistérségi társulási megállapodást a kistérségbe tartozó települések képviselő-testületeinek több mint a fele, de legalább két képviselő-testület (a továbbiakban: a társulás tagja) jóváhagyja;
 - b) a többcélú kistérségi társulási megállapodást jóváhagyó települések együttes lakosságszáma meghaladja a kistérség lakosságszámának 60%-át, illetve 50%-át, ha a társulás tagjainak száma eléri a kistérségbe tartozó települések számának 60%-át;
 - c) megalakulását követően a kincstár nyilvántartásba vegye.
 
@@ -52,7 +52,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 - q) belső ellenőrzés;
 - r) területfejlesztés.
 
-(2) Amennyiben a többcélú kistérségi társulás legalább az (1) bekezdés a), b), c) és r) pontokban meghatározott feladatkörbe tartozó egyes feladat- és hatáskörök ellátásáról gondoskodik, akkor ezekhez a központi költségvetés az éves költségvetési törvényben ösztönző támogatást biztosít.
+(2) Ha a többcélú kistérségi társulás legalább az (1) bekezdés a)–c) pontjában meghatározott feladatkörbe tartozó egyes feladat- és hatáskörök ellátásáról gondoskodik, akkor ezekhez a központi költségvetés az éves költségvetési törvényben ösztönző támogatást biztosít.
 
 (3) A kistérségi társulás által ellátható feladatok megvalósításának szakmai minimum követelményeit az ágazati törvények határozzák meg.
 
@@ -81,7 +81,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 - e) a helyi adókból származó bevétel megosztásának módját;
 - f) a társulási tanács elnökségének feladatait;
 - g) a lakosság önszerveződő közösségei tájékoztatásának módját, valamint az együttműködés rendjét;
-- h) a megyei önkormányzattal, a területfejlesztési tanácsokkal való együttműködés, kapcsolattartás rendjét;
+- h) a megyei önkormányzattal, a térségi fejlesztési tanácsokkal való együttműködés, kapcsolattartás rendjét;
 - i) a társulási tanács és a társulás tagjai, valamint más települési önkormányzatok képviselő-testületei közötti kapcsolat rendszerét, a kölcsönös tájékoztatás, a döntés-előkészítés menetét, az egyes képviselő-testületeket megillető kezdeményezési jogot;
 - j) azt, hogy a többcélú kistérségi társulás keretében több intézményi társulás működik;
 - k) azt, amiben a társulás tagjai megállapodnak.
@@ -123,7 +123,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 - a) szükség szerint, de évente legalább négy alkalommal;
 - b) a többcélú kistérségi társulási megállapodásban vagy a társulási tanács által meghatározott esetben;
 - c) a társulás tagjai egynegyedének – napirendet tartalmazó – indítványára, annak kézhezvételétől számított tizenöt napon belül;
-- d) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kezdeményezésére, annak kézhezvételétől számított tizenöt napon belül.
+- d) a fővárosi és megyei kormányhivatal kezdeményezésére, annak kézhezvételétől számított tizenöt napon belül.
 
 (4) A társulási tanács ülése nyilvános.
 
@@ -132,7 +132,7 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 - a) zárt ülést tart választás, kinevezés, felmentés, vezetői megbízatás adása, illetőleg visszavonása, fegyelmi eljárás megindítása, fegyelmi büntetés kiszabása és állásfoglalást igénylő személyi ügy tárgyalásakor, ha az érintett a nyilvános tárgyalásba nem egyezik bele, továbbá önkormányzati hatósági ügy tárgyalásakor;
 - b) zárt ülést rendelhet el a vagyonával való rendelkezés és az általa kiírt pályázat tárgyalásakor, ha a nyilvános tárgyalás üzleti érdeket sértene.
 
-(6) A társulási tanács üléséről jegyzőkönyvet kell készíteni, melyre a képviselő-testület üléséről készített jegyzőkönyvre vonatkozó szabályokat kell alkalmazni azzal, hogy a jegyzőkönyvet az elnök és a társulási tanács által felhatalmazott tag írja alá. A jegyzőkönyvet a társulási tanács elnöke az ülést követő tizenöt napon belül megküldi a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek és a társulás tagjainak.
+(6) A társulási tanács üléséről jegyzőkönyvet kell készíteni, melyre a képviselő-testület üléséről készített jegyzőkönyvre vonatkozó szabályokat kell alkalmazni azzal, hogy a jegyzőkönyvet az elnök és a társulási tanács által felhatalmazott tag írja alá. A jegyzőkönyvet a társulási tanács elnöke az ülést követő tizenöt napon belül megküldi a fővárosi és megyei kormányhivatalnak és a társulás tagjainak.
 
 8. § (1) A társulási tanács akkor határozatképes, ha ülésén a társulási megállapodásban meghatározott számú, de legalább a szavazatok több mint felével rendelkező tag jelen van és a jelen lévő tagok által képviselt települések lakosságszáma meghaladja a többcélú kistérségi társulást alkotó települések lakosságszámának egyharmadát. A javaslat elfogadásához a megállapodásban meghatározott számú, de legalább annyi tag igen szavazata szükséges, amely meghaladja a jelen lévő tagok szavazatainak a felét és az általuk képviselt települések lakosságszámának egyharmadát.
 
@@ -159,15 +159,15 @@ Az Országgyűlés a települési önkormányzatok többcélú kistérségi tár
 
 (3) A társulási tanács a többcélú kistérségi társulás tevékenységének és gazdálkodásának ellenőrzése céljából pénzügyi bizottságot hoz létre. A pénzügyi bizottság elnökét és tagjai több mint a felét a társulási tanács tagjai közül kell választani.
 
-12. § (1) A többcélú kistérségi társulási megállapodást a többcélú kistérségi társulás megalakulását követő tizenöt napon belül a társulási tanács elnöke megküldi a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek, aki arra tizenöt napon belül törvényességi észrevételt tehet.
+12. § (1) A többcélú kistérségi társulási megállapodást a többcélú kistérségi társulás megalakulását követő tizenöt napon belül a társulási tanács elnöke megküldi a fővárosi és megyei kormányhivatalnak, aki arra tizenöt napon belül törvényességi észrevételt tehet.
 
-(2) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogkörében vizsgálja, hogy a többcélú kistérségi társulás döntése, szervezete, működése és döntéshozatali eljárása megfelel-e a jogszabályoknak, a többcélú kistérségi társulási megállapodásban, valamint a társulási tanács szervezeti és működési szabályzatában foglaltaknak. A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv összehívja a társulási tanács ülését, ha a 7. § (3) bekezdés c) pontja szerint tett indítványnak a társulási tanács elnöke tizenöt napon belül nem tesz eleget.
+(2) A fővárosi és megyei kormányhivatal törvényességi ellenőrzési jogkörében vizsgálja, hogy a többcélú kistérségi társulás döntése, szervezete, működése és döntéshozatali eljárása megfelel-e a jogszabályoknak, a többcélú kistérségi társulási megállapodásban, valamint a társulási tanács szervezeti és működési szabályzatában foglaltaknak. A fővárosi és megyei kormányhivatal összehívja a társulási tanács ülését, ha a 7. § (3) bekezdés c) pontja szerint tett indítványnak a társulási tanács elnöke tizenöt napon belül nem tesz eleget.
 
 (3)
 
 (4) Az európai uniós és költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, a Kormány által kijelölt szerv, a fejezetek ellenőrzési szervezetei, a kincstár, illetve az európai uniós támogatások irányító hatóságai és a kifizető hatóság képviselői is ellenőrzik.
 
-13. § (1) A törvény mellékletében megjelölt kistérségi lehatárolás megváltoztatását a helyi önkormányzatokért felelős miniszter útján az érintett képviselő-testület(ek) az önkormányzati általános választásokat követő hat hónapon belül – a társulási tanács, a megyei területfejlesztési tanács véleményének csatolásával – kezdeményezheti(k). A kezdeményezést a helyi önkormányzatokért felelős miniszter a Kormányhoz nyújtja be.
+13. § (1) A törvény mellékletében megjelölt kistérségi lehatárolás megváltoztatását a helyi önkormányzatokért felelős miniszter útján az érintett képviselő-testület(ek) az önkormányzati általános választásokat követő hat hónapon belül – a társulási tanácsvéleményének csatolásával – kezdeményezheti(k). A kezdeményezést a helyi önkormányzatokért felelős miniszter a Kormányhoz nyújtja be.
 
 (2) E törvény alkalmazása során a költségvetési törvényben meghatározott normatív támogatásoknál figyelembe vett lakosságszám az irányadó.
 
@@ -1112,7 +1112,6 @@ A kistérségek, a kistérségekbe tartozó települések és a kistérségek sz
 |  |  | Etyek |  |
 |  |  | Felcsút |  |
 |  |  | Gánt |  |
-|  |  | Kajászó |  |
 |  |  | Mány |  |
 |  |  | Óbarok |  |
 |  |  | Szár |  |
@@ -1206,9 +1205,10 @@ A kistérségek, a kistérségekbe tartozó települések és a kistérségek sz
 |  |  | Perkáta |  |
 |  |  | Pusztaszabolcs |  |
 |  |  | Szabadegyháza |  |
-|  | Ercsi | Baracska | Ercsi |
+|  | Martonvásári | Baracska | Martonvásár |
 |  |  | Ercsi |  |
 |  |  | Gyúró |  |
+|  |  | Kajászó |  |
 |  |  | Martonvásár |  |
 |  |  | Ráckeresztúr |  |
 |  |  | Tordas |  |
@@ -1458,7 +1458,7 @@ A kistérségek, a kistérségekbe tartozó települések és a kistérségek sz
 |  |  | Sárrétudvari |  |
 |  |  | Szerep |  |
 |  |  | Tetétlen |  |
-|  | Derecske-Létavértesi | Álmosd | Létavértes |
+|  | Derecske-Létavértesi | Álmosd | Derecske |
 |  |  | Bagamér |  |
 |  |  | Derecske |  |
 |  |  | Hajdúbagos |  |

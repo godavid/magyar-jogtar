@@ -360,7 +360,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 28. § E rész alkalmazásában a következő fogalmak esetén az alábbi meghatározásokat kell alkalmazni.
 
-(1) Tagállamnak minősül a Magyar Köztársaság kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szakképesítések elismerése vagy – a X. fejezet alkalmazásában – a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogokat élvez.
+(1) Tagállamnak minősül Magyarország kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szakképesítések elismerése vagy – a X. fejezet alkalmazásában – a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogokat élvez.
 
 (2) A tagállam állampolgárával azonos megítélés alá esik:
 
@@ -428,7 +428,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (19) Letelepedés szerinti tagállam az a tagállam, ahol az önálló vállalkozó gazdasági tevékenységét ténylegesen és tartós, huzamos jelleggel, erre a célra szolgáló vagy rendszeresített létesítmény, telep, iroda, üzlet vagy egyéb hely, rögzített felszerelés vagy berendezés útján folytatja.
 
-(20) Határon átnyúló szolgáltatásnyújtásnak minősül a tevékenységnek a Magyar Köztársaság területén letelepedés nélkül, átmeneti vagy alkalmi jelleggel történő folytatása.
+(20) Határon átnyúló szolgáltatásnyújtásnak minősül a tevékenységnek Magyarország területén letelepedés nélkül, átmeneti vagy alkalmi jelleggel történő folytatása.
 
 ### VII. Fejezet — A KÉPZÉS SIKERES ELVÉGZÉSÉT TANÚSÍTÓ OKIRATOK ELISMERÉSÉNEK ÁLTALÁNOS RENDSZERE
 
@@ -513,17 +513,17 @@ az eljáró hatóság csak akkor ismeri el az (1) bekezdés szerint a képzés e
 
 ### X. Fejezet — A HATÁRON ÁTNYÚLÓ SZOLGÁLTATÁSNYÚJTÁS SZABADSÁGA
 
-38. § (1) A valamely más tagállamban letelepedett, ott meghatározott szakma gyakorlásával járó szolgáltatási tevékenységet jogszerűen folytató személy határon átnyúló szolgáltatási tevékenysége keretében e fejezet rendelkezéseinek megfelelően jogosult a Magyar Köztársaság területén az ugyanazon szakma gyakorlásával járó szolgáltatási tevékenységet folytatni, és e tevékenysége – az e fejezetben meghatározott esetek kivételével – a szakmai képesítésre vonatkozó jogszabályi követelmények alapján nem korlátozható.
+38. § (1) A valamely más tagállamban letelepedett, ott meghatározott szakma gyakorlásával járó szolgáltatási tevékenységet jogszerűen folytató személy határon átnyúló szolgáltatási tevékenysége keretében e fejezet rendelkezéseinek megfelelően jogosult Magyarország területén az ugyanazon szakma gyakorlásával járó szolgáltatási tevékenységet folytatni, és e tevékenysége – az e fejezetben meghatározott esetek kivételével – a szakmai képesítésre vonatkozó jogszabályi követelmények alapján nem korlátozható.
 
 (2) Ha a letelepedés szerinti tagállamban az adott szakma nem szabályozott szakma, az (1) bekezdés szerinti jog csak azt a szolgáltatásnyújtót illeti meg, aki a letelepedés szerinti tagállamban a szolgáltatásnyújtást megelőző tíz év folyamán legalább két évig folytatta a tevékenységet.
 
 (3) A (2) bekezdés szerinti kétéves szakmai tapasztalat akkor sem követelhető meg a szolgáltatásnyújtótól, ha a letelepedés szerinti tagállamban a szakma gyakorlására felkészítő képzés szabályozott képzésnek minősül.
 
-(4) Az (1) bekezdés szerint folytatott szolgáltatási tevékenységre alkalmazni kell a Magyar Köztársaság területén letelepedett szolgáltatásnyújtók tevékenységére alkalmazandó, a szakmai képesítéssel közvetlenül összefüggő, így különösen a szakmához tartozó tevékenységi kör meghatározására, a szakmai címek használatára, a szolgáltatást igénybe vevők biztonságával és érdekeinek védelemével közvetlenül és kifejezetten összefüggő súlyos mulasztások esetén irányadó fegyelmi rendelkezésekre vonatkozó jogszabályi, közigazgatási és szakmai magatartási szabályokat.
+(4) Az (1) bekezdés szerint folytatott szolgáltatási tevékenységre alkalmazni kell Magyarország területén letelepedett szolgáltatásnyújtók tevékenységére alkalmazandó, a szakmai képesítéssel közvetlenül összefüggő, így különösen a szakmához tartozó tevékenységi kör meghatározására, a szakmai címek használatára, a szolgáltatást igénybe vevők biztonságával és érdekeinek védelemével közvetlenül és kifejezetten összefüggő súlyos mulasztások esetén irányadó fegyelmi rendelkezésekre vonatkozó jogszabályi, közigazgatási és szakmai magatartási szabályokat.
 
 ### A szolgáltatásnyújtó mentességei
 
-39. § (1) A 38. § szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó a Magyar Köztársaság területén folytatott, határon átnyúló szolgáltatásnyújtása tekintetében mentesül az alábbi, más jogszabály által előírt követelmények teljesítése alól:
+39. § (1) A 38. § szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó Magyarország területén folytatott, határon átnyúló szolgáltatásnyújtása tekintetében mentesül az alábbi, más jogszabály által előírt követelmények teljesítése alól:
 
 - a) valamely szakmai szervezet vagy testület engedélyének beszerzése, szakmai szervezet vagy testület általi nyilvántartásba vétel, vagy szakmai szervezetben vagy testületben tagság betöltése,
 - b) társadalombiztosítási szervnél történő nyilvántartásba vétel a biztosított személyek javára végzett tevékenységekre vonatkozó elszámolás céljából.
@@ -536,7 +536,7 @@ az eljáró hatóság csak akkor ismeri el az (1) bekezdés szerint a képzés e
 
 ### A határon átnyúló szolgáltatásnyújtás bejelentése, a külföldi és a hazai szakmai cím használata, a szolgáltatásnyújtó szakmai képesítésének ellenőrzése
 
-40. § (1) A 38. § szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó a Magyar Köztársaság területén való, határon átnyúló, a Kormány rendeletében meghatározott szolgáltatási tevékenység folytatására irányuló szándékát annak első alkalommal való megkezdése előtt köteles bejelenteni az adott szabályozott szakma tekintetében az elismerésért felelős hatóságnak, illetve a 41. § szerinti előzetes ellenőrzést végző hatóságnak.
+40. § (1) A 38. § szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó Magyarország területén való, határon átnyúló, a Kormány rendeletében meghatározott szolgáltatási tevékenység folytatására irányuló szándékát annak első alkalommal való megkezdése előtt köteles bejelenteni az adott szabályozott szakma tekintetében az elismerésért felelős hatóságnak, illetve a 41. § szerinti előzetes ellenőrzést végző hatóságnak.
 
 (2) Az (1) bekezdés szerinti bejelentés tartalmát, a bejelentés esetleges megújítása szabályait, valamint a bejelentéssel együtt benyújtandó iratokat a Kormány rendeletben állapítja meg.
 
@@ -544,7 +544,7 @@ az eljáró hatóság csak akkor ismeri el az (1) bekezdés szerint a képzés e
 
 (4) A szolgáltatásnyújtó a megfelelő hazai szakmai címet használva folytathatja tevékenységét, ha az a IX. Fejezet hatálya alá tartozik.
 
-41. § (1) A szolgáltatásnyújtó a Kormány rendeletében meghatározott, népegészségügyi vagy a szolgáltatás igénybe vevőjének vagy más személyeknek az életét, testi épségét érintő kockázatokat magában hordozó szabályozott szakma gyakorlását – ide nem értve a IX. Fejezet hatálya alá tartozó szabályozott szakmát – csak azt követően kezdheti meg, hogy azt az előzetes ellenőrzést végző hatóság a 40. § szerinti bejelentés alapján a Magyar Köztársaság területén való, határon átnyúló szolgáltatási tevékenysége első alkalommal való megkezdése előtt a szolgáltatásnyújtó szakmai képesítésének ellenőrzését követően engedélyezi (előzetes ellenőrzés). Az előzetes ellenőrzés során a hatóság csak azt vizsgálhatja – a feltétlenül szükséges mértékben –, hogy a szolgáltatásnyújtó szakmai felkészültsége megfelelő-e annak elkerülésére, hogy a szolgáltatás igénybe vevője vagy más személy életét, testi épségét súlyos károsodás vagy sérelem érje.
+41. § (1) A szolgáltatásnyújtó a Kormány rendeletében meghatározott, népegészségügyi vagy a szolgáltatás igénybe vevőjének vagy más személyeknek az életét, testi épségét érintő kockázatokat magában hordozó szabályozott szakma gyakorlását – ide nem értve a IX. Fejezet hatálya alá tartozó szabályozott szakmát – csak azt követően kezdheti meg, hogy azt az előzetes ellenőrzést végző hatóság a 40. § szerinti bejelentés alapján Magyarország területén való, határon átnyúló szolgáltatási tevékenysége első alkalommal való megkezdése előtt a szolgáltatásnyújtó szakmai képesítésének ellenőrzését követően engedélyezi (előzetes ellenőrzés). Az előzetes ellenőrzés során a hatóság csak azt vizsgálhatja – a feltétlenül szükséges mértékben –, hogy a szolgáltatásnyújtó szakmai felkészültsége megfelelő-e annak elkerülésére, hogy a szolgáltatás igénybe vevője vagy más személy életét, testi épségét súlyos károsodás vagy sérelem érje.
 
 (2)
 
@@ -737,7 +737,7 @@ A SZAKKÉPZETTSÉG ÉS A SZAKKÉPESÍTÉS FELTÉTEL NÉLKÜLI ELISMERÉSE
 
 (4) A szakmai vizsga lebonyolításáért az oktatási intézmény a kérelmező által fizetendő díjat szabhat meg, amely azonban nem haladhatja meg az eljárási díj tízszeresét.
 
-(5) A külföldi oktatási intézményben szerzett és a Magyar Köztársaságban nemzetközi szerződéssel vagy jogszabály által a magyar általános iskolai, szakképesítő vagy érettségi bizonyítvánnyal egyenértékűnek elismert bizonyítvány egyenértékűségéről szóló hatósági bizonyítvány kiállításáért az eljárási díj felét kell az eljáró hatóság számlájára befizetni.
+(5) A külföldi oktatási intézményben szerzett és Magyarországon nemzetközi szerződéssel vagy jogszabály által a magyar általános iskolai, szakképesítő vagy érettségi bizonyítvánnyal egyenértékűnek elismert bizonyítvány egyenértékűségéről szóló hatósági bizonyítvány kiállításáért az eljárási díj felét kell az eljáró hatóság számlájára befizetni.
 
 (6) Az e §-ban szabályozott díjat a kérelmező részére vissza kell téríteni, ha kérelmét a határozat meghozatala vagy a hatósági bizonyítvány kiállítása előtt visszavonja.
 
@@ -764,7 +764,7 @@ A SZAKKÉPZETTSÉG ÉS A SZAKKÉPESÍTÉS FELTÉTEL NÉLKÜLI ELISMERÉSE
 - a) oklevelét 1995. május 1-je előtt szerezte, vagy
 - b) tanulmányait 1995. május 1-je előtt kezdte meg és 2000. május 1-jét megelőzően fejezte be.
 
-67. § (1) Felhatalmazást kap a Kormány, hogy a külföldi bizonyítványok és oklevelek elismeréséért, valamint a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, valamint a 4/A. §-ban meghatározott információs szolgálatot vagy szolgálatokat rendeletben kijelölje, továbbá rendeletben állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyar Köztársaság területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve amelyek előzetes ellenőrzés alá esnek, valamint az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, valamint a bejelentéssel együtt benyújtandó iratok körét.
+67. § (1) Felhatalmazást kap a Kormány, hogy a külföldi bizonyítványok és oklevelek elismeréséért, valamint a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, valamint a 4/A. §-ban meghatározott információs szolgálatot vagy szolgálatokat rendeletben kijelölje, továbbá rendeletben állapítsa meg azon szabályozott szakmák körét, amelyek esetében Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve amelyek előzetes ellenőrzés alá esnek, valamint az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, valamint a bejelentéssel együtt benyújtandó iratok körét.
 
 (2) Felhatalmazást kap az oktatásért felelős miniszter, hogy rendeletben hirdesse ki
 

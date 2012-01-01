@@ -2,7 +2,7 @@
 
 a hulladékgazdálkodásról
 
-Az Országgyűlés a környezet védelme érdekében, különös tekintettel a Magyar Köztársaságnak az Európai Unióval fennálló és más nemzetközi megállapodásokból adódó kötelezettségeire,
+Az Országgyűlés a környezet védelme érdekében, különös tekintettel Magyarországnak az Európai Unióval fennálló és más nemzetközi megállapodásokból adódó kötelezettségeire,
 
 – a fenntartható fejlődés, a jövő generációk létfeltételeinek, lehetőségeinek biztosítása,
 
@@ -10,7 +10,7 @@ Az Országgyűlés a környezet védelme érdekében, különös tekintettel a M
 
 – az emberi egészség, a természeti és épített környezet, hulladék okozta terhelésének mérséklése
 
-érdekében – az Alkotmánnyal összhangban – a következő törvényt alkotja:
+érdekében – az Alaptörvénnyel összhangban – a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -52,7 +52,7 @@ csak annyiban terjed ki, amennyiben azokról jogszabály másképp nem rendelkez
 - b) veszélyes hulladék: a 2. számú mellékletben felsorolt tulajdonságok közül eggyel vagy többel rendelkező, illetve ilyen anyagokat vagy összetevőket tartalmazó, eredete, összetétele, koncentrációja miatt az egészségre, a környezetre kockázatot jelentő hulladék;
 - c) települési hulladék: a háztartásokból származó szilárd vagy folyékony hulladék, illetőleg a háztartási hulladékhoz hasonló jellegű és összetételű, azzal együtt kezelhető más hulladék;
 - d) folyékony hulladék: az a hulladékká vált folyadék, amelyet nem vezetnek el, és nem bocsátanak ki szennyvízelvezető hálózaton, illetve szennyvíztisztító telepen keresztül;
-- e) gyártó: a termék előállítója, nem a Magyar Köztársaság területén történő előállítás esetén az, aki a terméket gazdasági tevékenysége keretében a Magyar Köztársaság területére behozza;
+- e) gyártó: a termék előállítója, nem Magyarország területén történő előállítás esetén az, aki a terméket gazdasági tevékenysége keretében Magyarország területére behozza;
 - f) termelő: akinek a tevékenysége során a hulladék keletkezik vagy tevékenysége következtében a hulladék jellege és összetétele megváltozik;
 - g) hulladékkezelő: aki a hulladékot gazdasági tevékenysége körében a hulladék birtokosától átveszi, kezeli;
 - h) hulladékgazdálkodás: a hulladékkal összefüggő tevékenységek rendszere, beleértve a hulladék keletkezésének megelőzését, mennyiségének és veszélyességének csökkentését, kezelését, ezek tervezését és ellenőrzését, a kezelő berendezések és létesítmények üzemeltetését, bezárását, utógondozását, a működés felhagyását követő vizsgálatokat, valamint az ezekhez kapcsolódó szaktanácsadást és oktatást;
@@ -157,11 +157,18 @@ csak annyiban terjed ki, amennyiben azokról jogszabály másképp nem rendelkez
 
 ### A gyártóra és a forgalmazóra vonatkozóközös szabályok
 
-11. § (1) A gyártók és a forgalmazók a 6–10. §-ban foglalt kötelezettségeik ellátása érdekében önálló koordináló szervezetet hozhatnak létre vagy ilyen koordináló szervezetet bízhatnak meg, amely szervezet a kötelezettségeket a gyártóktól és forgalmazóktól díjfizetés ellenében, szerződésben rögzített feltételek mellett átvállalja, és a tevékenységi körébe tartozó hulladékok begyűjtését és hasznosítását vagy ártalmatlanítását szervezi és koordinálja.
+11. § (1) A gyártók és a forgalmazók a 6–10. §-ban foglalt kötelezettségeik ellátása érdekében – a (2) bekezdésben meghatározott kivétellel – önálló koordináló szervezetet hozhatnak létre vagy ilyen koordináló szervezetet bízhatnak meg, amely a kötelezettségeket a gyártóktól és forgalmazóktól díjfizetés ellenében, szerződésben rögzített feltételek mellett átvállalja, és a tevékenységi körébe tartozó hulladékok begyűjtését és hasznosítását vagy ártalmatlanítását szervezi és koordinálja.
 
-(2) Az (1) bekezdés szerinti hulladékkezelési kötelezettség ellátására létrehozott koordináló szervezet tevékenységének folytatásához a környezetvédelmi hatóság engedélye szükséges.
+(2) A gyártó a 6–10. §-ban foglalt kötelezettségét a környezetvédelmi termékdíjról szóló törvény (a továbbiakban: Ktdt.) hatálya alá tartozó termékdíjköteles termékből képződött hulladékok tekintetében
 
-(3) A környezetvédelmi hatóság az engedéllyel rendelkező koordináló szervezetekről nyilvántartást vezet.
+- a) a Ktdt.-ben meghatározott egyéni teljesítéssel, vagy
+- b) a Ktdt.-ben meghatározott termékdíjtétel megfizetésével az Országos Hulladékgazdálkodási Ügynökség kollektív teljesítésével
+
+teljesítheti.
+
+(3) Az (1) bekezdés szerinti hulladékkezelési kötelezettség ellátására létrehozott koordináló szervezet tevékenységének folytatásához a környezetvédelmi hatóság engedélye szükséges.
+
+(4) A környezetvédelmi hatóság az engedéllyel rendelkező koordináló szervezetekről nyilvántartást vezet.
 
 ### A felhasználó kötelezettségei
 
@@ -685,7 +692,11 @@ kell csökkenteni.
 
 (11) A (9)–(10) bekezdésekben meghatározottak a törvény kihirdetése és hatálybalépése között létrejött szerződésekre nem alkalmazhatóak.
 
-57–58. §
+57. § (1) A hulladékkezelési közszolgáltatási díj legmagasabb mértéke 2012. évben nem haladhatja meg a települési önkormányzat képviselő-testülete által rendeletben 2011. évre megállapított hulladékkezelési közszolgáltatási díj legmagasabb mértékét.
+
+(2) Ha az egységnyi díjtétel mértéke nem éri el 2011. évre a települési önkormányzat képviselő-testülete által rendeletben megállapított közszolgáltatási díj legmagasabb mértékét, a közszolgáltatási díj legmagasabb mértéke 2012. évben nem haladhatja meg a 2011. december 31-én alkalmazott díjat.
+
+58. §
 
 ### Felhatalmazó rendelkezések
 
@@ -734,7 +745,7 @@ kell csökkenteni.
   - ba) a humán gyógyszerek és csomagolásuk hulladékai kezelésének részletes szabályait,
   - bb) az egészségügyi hulladék kezelésének részletes szabályait,
   - bc) a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi követelményeket;
-- c) a bányászati ügyekért felelős miniszter, hogy az ásványi alapanyagok kitermeléséből származó hulladék kezelésének részletes szabályait;
+- c)
 - d)
 
 rendeletben állapítsa meg.

@@ -2,7 +2,7 @@
 
 a szövetkezetekről
 
-Az Országgyűlés– kiindulva az Alkotmány 12. §-ából, amely szerint az állam támogatja az önkéntes társuláson alapuló szövetkezeteket,– felismerve, hogy a szövetkezeti forma nagymértékben képes társadalmi erőforrásokat mozgásba hozni, az elkülönült gazdasági szereplők helyzetét megerősíteni, közösségi szükségleteket kielégíteni, ösztönözni kívánja a szövetkezést és állami eszközökkel támogatást kíván nyújtani a szövetkezeti mozgalom továbbfejlődéséhez,
+Az Országgyűlésfelismerve, hogy a szövetkezeti forma nagymértékben képes társadalmi erőforrásokat mozgásba hozni, az elkülönült gazdasági szereplők helyzetét megerősíteni, közösségi szükségleteket kielégíteni, ösztönözni kívánja a szövetkezést és állami eszközökkel támogatást kíván nyújtani a szövetkezeti mozgalom továbbfejlődéséhez,
 
 a következő törvényt alkotja:
 
@@ -10,7 +10,7 @@ a következő törvényt alkotja:
 
 ### A törvény alkalmazási köre
 
-1. § (1) Ez a törvény szabályozza a Magyar Köztársaság területén székhellyel rendelkező szövetkezetek alapítását, szervezetét, működését, felelősségét, egyesülését, szétválását, gazdasági társasággá való átalakulását, jogutód nélküli megszűnését, valamint tagjainak jogait, kötelezettségeit.
+1. § (1) Ez a törvény szabályozza a Magyarország területén székhellyel rendelkező szövetkezetek alapítását, szervezetét, működését, felelősségét, egyesülését, szétválását, gazdasági társasággá való átalakulását, jogutód nélküli megszűnését, valamint tagjainak jogait, kötelezettségeit.
 
 (2) Ez a törvény szabályozza a szövetkezeti szövetségek létesítésének szövetkezeteket érintő szabályait.
 
@@ -126,7 +126,7 @@ a következő törvényt alkotja:
 
 ### A szövetkezet nyilvántartásba vétele
 
-15. § (1) A szövetkezet alapítását az alapszabály elfogadásától számított 30 napon belül – bejegyzés és közzététel céljából – be kell jelenteni a szövetkezet székhelye szerint illetékes megyei (fővárosi) bírósághoz, mint cégbírósághoz (a továbbiakban: cégbíróság). A szövetkezet a cégbejegyzés iránti kérelem benyújtását követően végezhet gazdasági tevékenységet.
+15. § (1) A szövetkezet alapítását az alapszabály elfogadásától számított 30 napon belül – bejegyzés és közzététel céljából – be kell jelenteni a szövetkezet székhelye szerint illetékes törvényszékhez, mint cégbírósághoz (a továbbiakban: cégbíróság). A szövetkezet a cégbejegyzés iránti kérelem benyújtását követően végezhet gazdasági tevékenységet.
 
 (2) A tagok a részjegytőke alapszabályban meghatározott mértékét, de legalább harminc százalékát az alapítást követő 8 napon belül kötelesek befizetni, illetőleg a nem pénzbeli hozzájárulás teljes egészét szolgáltatni kell. A szövetkezetet csak a befizetési (szolgáltatási) kötelezettség teljesítését követően szabad bejegyezni. Aki e kötelezettségét határidőben nem teljesíti, nem válik a szövetkezet tagjává. A cégbejegyzés során e személyt figyelmen kívül kell hagyni.
 
@@ -150,7 +150,7 @@ a következő törvényt alkotja:
 
 18. § (1) Bármely tag kérheti a bíróságtól a szövetkezet, illetőleg annak testületei által hozott olyan határozat felülvizsgálatát, amely e törvény rendelkezéseibe, más jogszabályba vagy a szövetkezet alapszabályába ütközik.
 
-(2) A határozat felülvizsgálatára irányuló keresetet a határozathozatalról való tudomásszerzéstől számított harminc napos jogvesztő határidő alatt kell megindítani a szövetkezet ellen, a szövetkezet székhelye szerinti megyei (fővárosi) bíróságnál. A keresetindításnak – a tag kizárását kimondó határozat esetét kivéve – nincs halasztó hatálya, de a bíróság a határozat végrehajtását felfüggesztheti.
+(2) A határozat felülvizsgálatára irányuló keresetet a határozathozatalról való tudomásszerzéstől számított harminc napos jogvesztő határidő alatt kell megindítani a szövetkezet ellen, a szövetkezet székhelye szerinti törvényszéknél. A keresetindításnak – a tag kizárását kimondó határozat esetét kivéve – nincs halasztó hatálya, de a bíróság a határozat végrehajtását felfüggesztheti.
 
 (3) A határozat felülvizsgálata nyomán hozott bírósági határozat hatálya azokra a tagokra is kiterjed, akik a bírósági eljárásban nem vettek részt.
 

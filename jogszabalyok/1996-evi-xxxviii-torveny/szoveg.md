@@ -6,7 +6,7 @@ a nemzetközi bűnügyi jogsegélyről
 
 1. § E törvény célja, hogy szabályozza a büntetőügyekben más államokkal folytatott együttműködést.
 
-2. § (1) A jogsegély iránti megkeresés nem teljesíthető és nem terjeszthető elő, ha csorbítja a Magyar Köztársaság felségjogait, veszélyezteti biztonságát, sérti közrendjét.
+2. § (1) A jogsegély iránti megkeresés nem teljesíthető és nem terjeszthető elő, ha csorbítja Magyarország felségjogait, veszélyezteti biztonságát, sérti közrendjét.
 
 (2) Az (1) bekezdésben foglaltak vizsgálata az igazságügyért felelős miniszter (a továbbiakban: miniszter), illetve a legfőbb ügyész hatáskörébe tartozik.
 
@@ -33,9 +33,9 @@ a nemzetközi bűnügyi jogsegélyről
 
 (4) Ha egy külföldi hatóság olyan cselekmény miatt terjeszt elő bűnügyi jogsegély iránti megkeresést, amely államának joga szerint bűncselekmény, de a magyar jog szerint szabálysértés, a központi hatóság erről értesíti a megkereső külföldi hatóságot. Ha a külföldi hatóság az értesítésre adott nyilatkozatában a jogsegély teljesítése iránti kérelmét fenntartja, a kérelem teljesítésekor a szabálysértési jogsegélyről szóló törvényt kell alkalmazni.
 
-7. § A jogsegély iránti megkeresés teljesítését a miniszter, illetőleg a legfőbb ügyész megfelelő garanciákhoz kötheti, a garanciavállalás elutasítása esetén pedig megtagadhatja a teljesítést, ha feltételezhető, hogy a külföldön folyó eljárás, a várható büntetés vagy annak végrehajtása nincs összhangban az Alkotmánynak, továbbá a nemzetközi jognak az emberi jogok védelmére vonatkozó rendelkezéseivel és alapelveivel.
+7. § A jogsegély iránti megkeresés teljesítését a miniszter, illetőleg a legfőbb ügyész megfelelő garanciákhoz kötheti, a garanciavállalás elutasítása esetén pedig megtagadja a teljesítést, ha feltételezhető, hogy a külföldön folyó eljárás, a várható büntetés vagy annak végrehajtása nincs összhangban az Alaptörvénynek, továbbá a nemzetközi jognak az emberi jogok védelmére vonatkozó rendelkezéseivel és alapelveivel.
 
-8. § A más állam által a magyar bűnügyi jogsegélykérelem teljesítéséül szabott azokat a feltételeket, melyek e törvény alapján a külföldi jogsegélykérelmek teljesítésének feltételéül szabhatók, a Magyar Köztársaság nevében a miniszter, illetőleg a legfőbb ügyész elvállalhatja. Az igazságszolgáltatás megfelelő működésének érdekében egyéb ésszerű, és a 2. § rendelkezéseivel nem ellentétes feltétel is elvállalható. A külföldi állam által a jogsegélykérelem teljesítéséül szabott, és a Magyar Köztársaság által elvállalt feltételeket teljesíteni kell.
+8. § A más állam által a magyar bűnügyi jogsegélykérelem teljesítéséül szabott azokat a feltételeket, melyek e törvény alapján a külföldi jogsegélykérelmek teljesítésének feltételéül szabhatók, Magyarország nevében a miniszter, illetve a legfőbb ügyész elvállalhatja. Az igazságszolgáltatás megfelelő működésének érdekében egyéb ésszerű, és a 2. § rendelkezéseivel nem ellentétes feltétel is elvállalható. A külföldi állam által a jogsegélykérelem teljesítéséül szabott, és Magyarország által vállalt feltételeket teljesíteni kell.
 
 9. § Ha a jogsegély iránti megkeresésnek helyt adnak, az útlevél-, vízum-, deviza- és vámjogszabályok rendelkezései nem képezhetik akadályát a személyek ki- és beutazásának, valamint a tárgyak átadásának és átvételének.
 
@@ -58,7 +58,7 @@ Kiadatás Magyarországról
 - c) a megkereső államban a büntetőeljárás lefolytatásához szükséges magánindítványt, vagy más ezzel azonos hatályú indítványt nem terjesztették elő, illetve hozzájárulást nem adtak meg,
 - d) magyar bíróság a kiadatás alapjául szolgáló cselekményt jogerősen elbírálta.
 
-13. § (1) Magyar állampolgár kiadatásának csak akkor van helye, ha a kiadni kért személy egyidejűleg más állam állampolgára, és a Magyar Köztársaság területén nem rendelkezik lakóhellyel.
+13. § (1) Magyar állampolgár kiadatásának csak akkor van helye, ha a kiadni kért személy egyidejűleg más állam állampolgára, és Magyarország területén nem rendelkezik lakóhellyel.
 
 (2) Az (1) bekezdés rendelkezéseire tekintet nélkül kiadatási eljárás lefolytatásának mellőzésével továbbadható külföldi államnak az a magyar állampolgár, akinek kiadatását Magyarország részére azzal a feltétellel engedélyezték, hogy a vele szemben lefolytatott büntetőeljárás, illetőleg kiszabott büntetés végrehajtásának befejezését követően e külföldi állam kiadatási kérelme teljesítésének céljából sor kerül továbbadására.
 
@@ -79,15 +79,15 @@ Kiadatás Magyarországról
 
 17. § Ha ugyanazon személy kiadatása iránt több állam terjeszt elő kérelmet, a kiadatásról szóló döntésnél figyelemmel kell lenni különösen az elkövetés helyére, a kiadni kért személy állampolgárságára, a megkeresések érkezési sorrendjére, és ha a megkeresések különböző bűncselekményekre vonatkoznak, azok súlyára.
 
-18. § (1) A kiadatás iránti megkereséseket a miniszter fogadja, és ha a 2. § nem zárja ki annak teljesítését, haladéktalanul megküldi a Fővárosi Bíróságnak.
+18. § (1) A kiadatás iránti megkereséseket a miniszter fogadja, és ha a 2. § nem zárja ki annak teljesítését, haladéktalanul megküldi a Fővárosi Törvényszéknek.
 
-(2) Az e Cím alapján bírósági hatáskörbe tartozó ügyben kizárólag a Fővárosi Bíróság jár el egyesbíróként. Határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, melyet a Fővárosi Ítélőtábla bírál el tanácsülésen. A fellebbezésnek nincs halasztó hatálya.
+(2) Az e Cím alapján bírósági hatáskörbe tartozó ügyben kizárólag a Fővárosi Törvényszék jár el egyesbíróként. Határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, melyet a Fővárosi Ítélőtábla bírál el tanácsülésen. A fellebbezésnek nincs halasztó hatálya.
 
-19. § (1) Ha a kiadni kért személy ismeretlen helyen tartózkodik, a Fővárosi Bíróság elrendeli a kiadni kért személy felkutatását. Ha ez az intézkedés sikerre vezet, a rendőrség a kiadni kért személyt őrizetbe veszi, és a Fővárosi Bíróság elé állítja. A kiadatási őrizet legfeljebb hetvenkét óráig tarthat.
+19. § (1) Ha a kiadni kért személy ismeretlen helyen tartózkodik, a Fővárosi Törvényszék elrendeli a kiadni kért személy felkutatását. Ha ez az intézkedés sikerre vezet, a rendőrség a kiadni kért személyt őrizetbe veszi, és a Fővárosi Törvényszék elé állítja. A kiadatási őrizet legfeljebb hetvenkét óráig tarthat.
 
-(2) Ha a megkereső állam ezt kéri, a Fővárosi Bíróság elrendeli a 30. § (1) bekezdésében megjelölt tárgyaknak a rendőrség általi felkutatását és lefoglalását.
+(2) Ha a megkereső állam ezt kéri, a Fővárosi Törvényszék elrendeli a 30. § (1) bekezdésében megjelölt tárgyaknak a rendőrség általi felkutatását és lefoglalását.
 
-20. § (1) A Fővárosi Bíróság
+20. § (1) A Fővárosi Törvényszék
 
 - a) a kiadni kért személlyel kapcsolatos iratokat indítványtétel végett megküldi az ügyésznek;
 - b) ha az eljárásban a védő részvétele kötelező, és a kiadni kért személynek nincs meghatalmazott védője, védőt rendel ki számára;
@@ -101,9 +101,9 @@ Kiadatás Magyarországról
 
 21. §
 
-22. § (1) A kiadatási letartóztatás legfeljebb hat hónapig tarthat, azt a Fővárosi Bíróság egy alkalommal legfeljebb hat hónappal meghosszabbíthatja. Ha a kiadatást szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtása céljából kérik, a kiadatási letartóztatás tartama nem haladhatja meg a végrehajtandó szabadságvesztés vagy szabadságelvonással járó intézkedés tartamát.
+22. § (1) A kiadatási letartóztatás legfeljebb hat hónapig tarthat, azt a Fővárosi Törvényszék egy alkalommal legfeljebb hat hónappal meghosszabbíthatja. Ha a kiadatást szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtása céljából kérik, a kiadatási letartóztatás tartama nem haladhatja meg a végrehajtandó szabadságvesztés vagy szabadságelvonással járó intézkedés tartamát.
 
-(2) A kiadatási letartóztatást a Fővárosi Bíróság haladéktalanul megszünteti, ha
+(2) A kiadatási letartóztatást a Fővárosi Törvényszék haladéktalanul megszünteti, ha
 
 - a) a kiadatást a miniszter megtagadta,
 - b) a kiadatási kérelmet visszavonták,
@@ -113,7 +113,7 @@ Kiadatás Magyarországról
 
 (4) Ha a kiadni kért személy a kiadatási letartóztatás vagy az ideiglenes kiadatási letartóztatás elrendelésének időpontjában előzetes letartóztatásban van, vagy szabadságvesztését tölti, illetőleg vele szemben szabadságelvonással járó intézkedést hajtanak végre, a kiadatási letartóztatást, illetve az ideiglenes kiadatási letartóztatást attól az időponttól kezdődően kell foganatba venni, amikor az előzetes letartóztatás megszűnik, illetőleg a szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtása befejeződik.
 
-23. § (1) A Fővárosi Bíróság az ideiglenes kiadatási letartóztatás elrendelése során, amennyiben a kiadatás feltételei a rendelkezésre álló adatok alapján megállapíthatóak, tájékoztatja a kiadni kért személyt, hogy ha a kiadatáshoz hozzájárul, a 16. §-ban foglalt rendelkezéseket, valamint a nemzetközi szerződések ennek megfelelő rendelkezéseit nem alkalmazzák, és a miniszter a kiadatáshoz hozzájárulhat a kiadatási kérelem megérkezése előtt is; a kioktatást és a kiadni kért személy nyilatkozatát jegyzőkönyvben rögzíti (egyszerűsített kiadatás).
+23. § (1) A Fővárosi Törvényszék az ideiglenes kiadatási letartóztatás elrendelése során, amennyiben a kiadatás feltételei a rendelkezésre álló adatok alapján megállapíthatóak, tájékoztatja a kiadni kért személyt, hogy ha a kiadatáshoz hozzájárul, a 16. §-ban foglalt rendelkezéseket, valamint a nemzetközi szerződések ennek megfelelő rendelkezéseit nem alkalmazzák, és a miniszter a kiadatáshoz hozzájárulhat a kiadatási kérelem megérkezése előtt is; a kioktatást és a kiadni kért személy nyilatkozatát jegyzőkönyvben rögzíti (egyszerűsített kiadatás).
 
 (2) Az (1) bekezdésben meghatározott hozzájárulás nem vonható vissza.
 
@@ -121,7 +121,7 @@ Kiadatás Magyarországról
 
 24. § (1) Sürgős esetben – különösen ha szökés veszélye áll fenn – a megkereső állam a kiadatási kérelem előterjesztése előtt is kérheti azon személy ideiglenes kiadatási letartóztatásának elrendelését, akinek kiadatása iránt megkeresést szándékozik előterjeszteni.
 
-(2) Az ideiglenes kiadatási letartóztatás iránti megkeresést a Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) útján is elő lehet terjeszteni. A NEBEK intézkedik a keresett személy kiadatás céljából történő őrizetbe vétele és a Fővárosi Bíróság elé állítása iránt. Az őrizet tartama legfeljebb hetvenkét óra lehet.
+(2) Az ideiglenes kiadatási letartóztatás iránti megkeresést a Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) útján is elő lehet terjeszteni. A NEBEK intézkedik a keresett személy kiadatás céljából történő őrizetbe vétele és a Fővárosi Törvényszék elé állítása iránt. Az őrizet tartama legfeljebb hetvenkét óra lehet.
 
 25. § (1) Az ideiglenes kiadatási letartóztatást meg kell szüntetni, ha annak elrendelésétől számított negyven napon belül a kiadatás iránti megkeresés nem érkezik meg. Ha a kiadatás iránti megkeresést utóbb előterjesztik, az ideiglenes kiadatási letartóztatás megszüntetése nem zárja ki a 20. § (1) bekezdésének h) pontja szerinti kiadatási letartóztatás elrendelését.
 
@@ -143,7 +143,7 @@ Kiadatás Magyarországról
 
 (2) Ha a kiadott személy átadását a miniszter az (1) bekezdés rendelkezései alapján elhalasztotta, a megkereső állam kérésére engedélyezheti, hogy sürgős eljárási cselekmény lefolytatása érdekében ideiglenesen átadják a megkereső államnak. A kiadni kért személy akkor adható át ideiglenesen, ha biztosított, hogy őt a megkereső államban őrizetben tartják, és meghatározott időn belül visszaadják.
 
-30. § (1) A kiadatási eljárás során a Fővárosi Bíróság engedélyezheti olyan tárgyak átadását a megkereső állam részére, amelyek a kiadatás iránti megkeresés alapjául szolgáló bűncselekmény eszközéül szolgáltak, vagy azokat az elkövető e bűncselekmény útján szerezte meg, illetőleg a bűncselekmény útján megszerzett tárgyak helyébe léptek, vagy tárgyi bizonyítás eszközéül szolgálhatnak.
+30. § (1) A kiadatási eljárás során a Fővárosi Törvényszék engedélyezheti olyan tárgyak átadását a megkereső állam részére, amelyek a kiadatás iránti megkeresés alapjául szolgáló bűncselekmény eszközéül szolgáltak, vagy azokat az elkövető e bűncselekmény útján szerezte meg, illetőleg a bűncselekmény útján megszerzett tárgyak helyébe léptek, vagy tárgyi bizonyítás eszközéül szolgálhatnak.
 
 (2) E tárgyak átadását akkor is engedélyezni lehet, ha a kiadatást engedélyezték, de a kiadni kért személy átadására nem került sor.
 
@@ -170,7 +170,7 @@ Külföldi állam megkeresése kiadatás iránt
 
 (4) A nemzetközi elfogatóparancsot a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye – ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye – szerint illetékes rendőrkapitányságnak is meg kell küldeni.
 
-(5) A nemzetközi elfogatóparancs hatálya kiterjed a Magyar Köztársaság területére is.
+(5) A nemzetközi elfogatóparancs hatálya kiterjed Magyarország területére is.
 
 (6) A nemzetközi elfogatóparancsot haladéktalanul vissza kell vonni, ha a kibocsátásának oka megszűnt. A nemzetközi elfogatóparancs visszavonásáról szóló végzést a kibocsátó haladéktalanul megküldi a miniszternek. A nemzetközi elfogatóparancs visszavonásáról szóló végzést a terhelt bejelentett lakóhelye, ennek hiányában bejelentett tartózkodási helye – ha a terhelt egyikkel sem rendelkezik, a kibocsátó bíróság székhelye – szerint illetékes rendőrkapitányságnak is meg kell küldeni.
 
@@ -204,9 +204,9 @@ A büntetőeljárás átadása
 37/A. § A büntetőeljárás átadása kötelező, ha a magyar büntető joghatóság alá tartozó ügyben (Btk. 3. és 4. §), a külföldi által
 
 - a) belföldön, valamint
-- b) a Magyar Köztársaság határain kívül tartózkodó magyar hajón vagy magyar légi járművön
+- b) Magyarország határain kívül tartózkodó magyar hajón vagy magyar légi járművön
 
-elkövetett bűncselekmény üldözéséről a Magyar Köztársaság törvénnyel kihirdetett nemzetközi szerződésben lemondott.
+elkövetett bűncselekmény üldözéséről Magyarország törvénnyel kihirdetett nemzetközi szerződésben lemondott.
 
 38. § A büntetőeljárás átadását a vádirat benyújtásáig az ügyész a legfőbb ügyésznél, azt követően a bíróság a miniszternél kezdeményezi. A büntetőeljárás átadásáról a legfőbb ügyész, illetőleg a miniszter dönt. A döntésről a külföldi hatóságoknak a büntetőeljárás átadása céljából történő megkeresésével egyidejűleg az ügyészt, illetőleg a bíróságot értesíteni kell.
 
@@ -248,7 +248,7 @@ Feljelentés külföldi államnál
 
 ### Általános szabályok
 
-46. § (1) A külföldi ítélet érvénye elismerésének alapjául szolgáló értesítéseket, illetve a szabadságvesztés büntetés, a szabadságelvonással járó intézkedés, valamint a vagyonelkobzás vagy az elkobzás végrehajtásának átadása iránti külföldi megkereséseket az igazságügyért felelős miniszter fogadja, és ha a 2. § nem zárja ki annak teljesítését, megküldi a bíróságnak. A külföldi bíróság ítélete érvényének elismerésére, illetve annak vizsgálatára, hogy a szabadságvesztés büntetés, a szabadságelvonással járó intézkedés, valamint a vagyonelkobzás vagy az elkobzás végrehajtásának e törvény szerinti feltételei fennállnak-e, a Fővárosi Bíróságnak van hatásköre és illetékessége.
+46. § (1) A külföldi ítélet érvénye elismerésének alapjául szolgáló értesítéseket, illetve a szabadságvesztés büntetés, a szabadságelvonással járó intézkedés, valamint a vagyonelkobzás vagy az elkobzás végrehajtásának átadása iránti külföldi megkereséseket az igazságügyért felelős miniszter fogadja, és ha a 2. § nem zárja ki annak teljesítését, megküldi a bíróságnak. A külföldi bíróság ítélete érvényének elismerésére, illetve annak vizsgálatára, hogy a szabadságvesztés büntetés, a szabadságelvonással járó intézkedés, valamint a vagyonelkobzás vagy az elkobzás végrehajtásának e törvény szerinti feltételei fennállnak-e, a Fővárosi Törvényszéknek van hatásköre és illetékessége.
 
 (2) Az Európai Unió más tagállamának erre kijelölt központi hatósága által megküldött ítéletek elismerési eljárását a tagállami ítéletről szóló tájékoztatásban meghatározott mentesítés beálltának idejéig meg kell indítani.
 
@@ -284,11 +284,11 @@ KÜLFÖLDI ÍTÉLET ÉRVÉNYÉNEK ELISMERÉSE
 
 KÜLFÖLDI BÍRÓSÁG ÁLTAL KISZABOTT SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK ÁTVÉTELE
 
-49. § (1) Külföldi bíróság által kiszabott végrehajtandó, illetve részben felfüggesztett szabadságvesztés végrehajtását át lehet venni, ha az elítélt a végrehajtás átvételéhez hozzájárult, és az átvétel iránti kérelemnek az igazságügyért felelős miniszterhez történő érkezésekor az elítéltnek legalább egy év letöltendő büntetése van hátra, vagy ha a büntetés határozatlan időre szól, feltéve, hogy az elítélt magyar állampolgár és állandó lakóhelye Magyarországon van, illetőleg Magyarországra bevándorolt, letelepedett, vagy a Magyar Köztársaság által menekültként elismert nem magyar állampolgár.
+49. § (1) Külföldi bíróság által kiszabott végrehajtandó, illetve részben felfüggesztett szabadságvesztés végrehajtását át lehet venni, ha az elítélt a végrehajtás átvételéhez hozzájárult, és az átvétel iránti kérelemnek az igazságügyért felelős miniszterhez történő érkezésekor az elítéltnek legalább egy év letöltendő büntetése van hátra, vagy ha a büntetés határozatlan időre szól, feltéve, hogy az elítélt magyar állampolgár és állandó lakóhelye Magyarországon van, illetve Magyarországra bevándorolt, letelepedett, vagy Magyarország által menekültként elismert nem magyar állampolgár.
 
-(2) Azt a külföldi bíróság által végrehajtandó vagy részben felfüggesztett szabadságvesztésre elítélt magyar állampolgárt, illetőleg Magyarországra bevándorolt, letelepedett, vagy a Magyar Köztársaság által menekültként elismert nem magyar állampolgárt, aki a büntetés végrehajtása előtt Magyarországra visszatért, úgy kell tekinteni, mint aki a végrehajtás átvételéhez hozzájárult.
+(2) Azt a külföldi bíróság által végrehajtandó vagy részben felfüggesztett szabadságvesztésre elítélt magyar állampolgárt, illetve Magyarországra bevándorolt, letelepedett, vagy Magyarország által menekültként elismert nem magyar állampolgárt, aki a büntetés végrehajtása előtt Magyarországra visszatért, úgy kell tekinteni, mint aki a végrehajtás átvételéhez hozzájárult.
 
-(3) A (2) bekezdés nem alkalmazható azzal a magyar állampolgárral, illetőleg Magyarországra bevándorolt, letelepedett, vagy a Magyar Köztársaság által menekültként elismert nem magyar állampolgárral szemben, akit a külföldi bíróság a távollétében ítélt végrehajtandó szabadságvesztésre, vagy a próbaidőre felfüggesztett szabadságvesztés végrehajtását a külföldi bíróság azért rendelte el, mert a büntetés végrehajtása előtt Magyarországra visszatért.
+(3) A (2) bekezdés nem alkalmazható azzal a magyar állampolgárral, illetve Magyarországra bevándorolt, letelepedett, vagy Magyarország által menekültként elismert nem magyar állampolgárral szemben, akit a külföldi bíróság a távollétében ítélt végrehajtandó szabadságvesztésre, vagy a próbaidőre felfüggesztett szabadságvesztés végrehajtását a külföldi bíróság azért rendelte el, mert a büntetés végrehajtása előtt Magyarországra visszatért.
 
 (4) A bíróság a végrehajtás átvételét megtagadó határozat jogerőre emelkedése után a 28. §-ban foglaltak szerint jár el.
 
@@ -304,7 +304,7 @@ KÜLFÖLDI BÍRÓSÁG ÁLTAL KISZABOTT SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK ÁT
 
 (3) A felfüggesztésről, illetőleg a megszüntetésről az az ügyész vagy az a bíróság dönt, amely előtt a büntetőeljárás folyamatban van.
 
-53. § (1) A büntetés végrehajtásának átvételéről szóló megállapodásról az igazságügyért felelős miniszter értesíti a Fővárosi Bíróságot. Az elítélt átvételéről az Interpol a rendőrség közreműködésével gondoskodik.
+53. § (1) A büntetés végrehajtásának átvételéről szóló megállapodásról az igazságügyért felelős miniszter értesíti a Fővárosi Törvényszéket. Az elítélt átvételéről az Interpol a rendőrség közreműködésével gondoskodik.
 
 (2) A külföldi bíróság által kiszabott szabadságvesztés végrehajtására átvett elítéltet az 51. §-ban szabályozott eljárás befejezéséig a büntetés végrehajtás szervezetét irányító miniszter által kijelölt büntetés végrehajtási intézetben kell fogva tartani. Az elítélt fogva tartására az előzetes letartóztatás végrehajtására vonatkozó szabályokat kell alkalmazni.
 
@@ -312,7 +312,7 @@ KÜLFÖLDI BÍRÓSÁG ÁLTAL KISZABOTT SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK ÁT
 
 54. § Az ügyben külföldön fogva tartásban töltött időt, valamint az 53. § (2) bekezdése alapján történő fogva tartás idejét a bíróság által megállapított büntetésbe be kell számítani.
 
-55. § A külföldi ítéletnek a Fővárosi Bíróság határozatával elrendelt végrehajtását haladéktalanul meg kell szüntetni, ha a külföldi ítélet végrehajthatósága megszűnt, vagy azt felfüggesztették, illetve félbeszakították.
+55. § A külföldi ítéletnek a Fővárosi Törvényszék határozatával elrendelt végrehajtását haladéktalanul meg kell szüntetni, ha a külföldi ítélet végrehajthatósága megszűnt, vagy azt felfüggesztették, illetve félbeszakították.
 
 ### 3. Cím
 
@@ -393,9 +393,9 @@ Eljárási jogsegély nyújtása külföldi hatóság részére
 
 67. § Jogsegély iránti megkeresés alapján tárgyaknak és eredeti ügyiratoknak, valamint egyéb eredeti okiratoknak a megkereső hatóság részére történő megküldése feltételéül szabható, hogy azokat az átadáskorival azonos állapotban fogják visszaszolgáltatni. A tárgyak megküldése nem érinti az azokon fennálló tulajdonjogot és egyéb jogokat.
 
-68. § A miniszter engedélyezheti, hogy a nem magyar állampolgárokat, továbbá azokat a magyar állampolgárokat, akik egyúttal más államnak is állampolgárai és állandó lakóhelyük vagy szokásos tartózkodási helyük külföldön van, külföldi államok közötti bűnügyi jogsegély teljesítése céljából a Magyar Köztársaság területén a magyar rendőrség őrizete alatt átszállítsák.
+68. § A miniszter engedélyezheti, hogy a nem magyar állampolgárokat, továbbá azokat a magyar állampolgárokat, akik egyúttal más államnak is állampolgárai és állandó lakóhelyük vagy szokásos tartózkodási helyük külföldön van, külföldi államok közötti bűnügyi jogsegély teljesítése céljából Magyarország területén a magyar rendőrség őrizete alatt átszállítsák.
 
-69. § (1) Ha az átszállítást légi úton, leszállás nélkül tervezik, és a Magyar Köztársaság területén előre nem látott közbenső leszállás történik, az átszállítandó személyt a magyar rendőrség őrizetében kell tartani.
+69. § (1) Ha az átszállítást légi úton, leszállás nélkül tervezik, és Magyarország területén előre nem látott közbenső leszállás történik, az átszállítandó személyt a magyar rendőrség őrizetében kell tartani.
 
 (2) Ha az átszállítás leszállással, vagy nem légi úton történik, az átszállítás engedélyezésekor meg kell határozni mindazokat a feltételeket, melyek mellett az átszállítás történik, így különösen az igénybe vehető határátkelőhelyeket.
 
@@ -474,7 +474,7 @@ Külföldi hatóság megkereséseeljárási jogsegély iránt
 
 83. § (1) Személyeknek kiadatás, ideiglenes átadás [29. § (2) bekezdés], büntetőeljárás átadása, szabadságvesztés – vagy szabadságelvonással járó intézkedés végrehajtásának átadása, letartóztatásban levő – vagy szabadságvesztést töltő személyek tanúkénti meghallgatás (66. §) céljából történő ideiglenes átadása, valamint nem légi úton történő átszállítása [69. § (2) bekezdés] költségei a megkereső külföldi államot terhelik. Ugyanezen célból külföldön tartózkodó személyek Magyarországra szállításának költségei, a 82. § alkalmazásával felmerült költségek, valamint a külföldi bíróság által kiszabott szabadságvesztés vagy a szabadságelvonással járó intézkedés végrehajtásának átvétele (IV. Fejezet 1. és 3. Cím) esetén a külföldi hatóság által megküldött idegen nyelvű iratok magyar nyelvre történő fordításának és a kirendelt védőnek a díja bűnügyi költség.
 
-(2) Az eljárási jogsegély nyújtásával kapcsolatos egyéb költségek a Magyar Köztársaságot terhelik, feltéve, hogy a viszonosság e tekintetben is biztosított. Ha azonban a külföldi hatóság által kért eljárási jogsegély jelentős költségekkel jár, teljesítésének feltételéül szabható a költségek teljes vagy részleges megtérítése.
+(2) Az eljárási jogsegély nyújtásával kapcsolatos egyéb költségek Magyarországot terhelik, feltéve, hogy a viszonosság e tekintetben is biztosított. Ha azonban a külföldi hatóság által kért eljárási jogsegély jelentős költségekkel jár, teljesítésének feltételéül szabható a költségek teljes vagy részleges megtérítése.
 
 (3) Ha az ügyész vagy a bíróság külföldről eljárási jogsegély keretében tanút vagy szakértőt idéz, részükre az utazás és a magyarországi tartózkodás költségének fedezésére előleg folyósítható.
 

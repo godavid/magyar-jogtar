@@ -7,7 +7,7 @@ Az Országgyűlés elismeri a társadalom tagjainak szolidaritásán alapuló, a
 1. § (1) A törvény hatálya
 
 - a) a 3. § (1) bekezdése szerinti természetes személynél, jogi személynél, illetve jogi személyiséggel nem rendelkező gazdasági társaságnál és egyéni cégnél (a továbbiakban: fogadó szervezet) Magyarországon végzett,
-- b) a magyar állampolgár által a 3. § (1) bekezdésének a)–e) pontja szerinti fogadó szervezetnél a Magyar Köztársaság területén kívül (a továbbiakban: külföld) végzett
+- b) a magyar állampolgár által a 3. § (1) bekezdésének a)–e) pontja szerinti fogadó szervezetnél Magyarország területén kívül (a továbbiakban: külföld) végzett
 
 közérdekű önkéntes tevékenységre terjed ki.
 
@@ -46,7 +46,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 3. § (1) Fogadó szervezet lehet
 
 - a) a helyi önkormányzat, a helyi önkormányzatok társulása és a települési önkormányzatok többcélú kistérségi társulása az általa biztosított közszolgáltatások és katasztrófavédelmi feladatai körében;
-- b) a kisebbségi önkormányzat a jogszabályban meghatározott közfeladatai körében;
+- b) a nemzetiségi önkormányzat a jogszabályban meghatározott közfeladatai körében;
 - c) a költségvetési szerv az alaptevékenysége körében;
 - d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
 - e) a magyarországi székhelyű egyházi jogi személy a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
@@ -265,7 +265,7 @@ közérdekű önkéntes tevékenység bejelentésére
   - b) székhelye:
   - c) adószáma:
   - d) költségvetési szerv törzskönyvi nyilvántartási száma:
-  - e) típusa:* ⬜ helyi önkormányzat, azok társulása ⬜ közoktatási intézmény ⬜ kisebbségi önkormányzat ⬜ felsőoktatási intézmény ⬜ költségvetési szerv ⬜ muzeális intézmény ⬜ közhasznú szervezet ⬜ nyilvános könyvtár ⬜ egyházi jogi személy ⬜ közlevéltár ⬜ szociális, gyermekjóléti, gyermekvédelmi szolgáltató, ⬜ nyilvános magánlevéltár intézmény ⬜ közművelődési intézmény ⬜ egészségügyi szolgáltató
+  - e) típusa:* ⬜ helyi önkormányzat, azok társulása ⬜ közoktatási intézmény ⬜ nemzetiségi önkormányzat ⬜ felsőoktatási intézmény ⬜ költségvetési szerv ⬜ muzeális intézmény ⬜ közhasznú szervezet ⬜ nyilvános könyvtár ⬜ egyházi jogi személy ⬜ közlevéltár ⬜ szociális, gyermekjóléti, gyermekvédelmi szolgáltató, ⬜ nyilvános magánlevéltár intézmény ⬜ közművelődési intézmény ⬜ egészségügyi szolgáltató
 - 2. Az önkéntesek közreműködésével ellátni kívánt tevékenységi körök:
 - 3. Kíván-e építésiengedély-köteles munkában való részvételre önkéntest foglalkoztatni? ⬜ igen ⬜ nem Az építési tevékenység helye:
 - 4. Kíván-e tizennyolcadik életévét be nem töltött önkéntest, illetve korlátozottan cselekvőképes nagykorú önkéntest foglalkoztatni? ⬜ igen ⬜ nem

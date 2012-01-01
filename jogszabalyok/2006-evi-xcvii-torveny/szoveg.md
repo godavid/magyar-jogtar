@@ -255,17 +255,27 @@ adja ki.
 - c) aki cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll,
 - d) a 25. § (1) bekezdés f) pontja szerinti kizárás fegyelmi büntetés jogerőre emelkedésétől számított két évig az, akit a kamarából kizártak.
 
-14/A. § (1) Egészségügyi tevékenységet – jogszabályban megállapított egyéb feltételek mellett – a (2) bekezdésben meghatározott kivételekkel csak az végezhet, aki tagja az adott tevékenység végzésének feltételeként előírt szakképesítés szerint illetékes szakmai kamarának.
+14/A. § (1) Egészségügyi tevékenységet – jogszabályban megállapított egyéb feltételek mellett – a (2) és (2a) bekezdésben meghatározott kivételekkel csak az végezhet, aki tagja az adott tevékenység végzésének feltételeként előírt szakképesítés szerint illetékes szakmai kamarának.
 
 (1a) A nem orvos- és egészségtudomány képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzés keretében egészségügyi szakképesítést szerzett egészségügyi dolgozók esetében az (1) bekezdés szerint illetékes szakmai kamara a Magyar Orvosi Kamara.
 
+(1b) A Magyar Orvosi Kamara kérelemre az (1a) bekezdés szerinti szakképesítéssel rendelkező személlyel – amennyiben a kamarai tagság e törvényben meghatározott további feltételei fennállnak – abban az esetben is tagsági viszonyt létesít, ha a kérelmező nem minősül egészségügyi dolgozónak.
+
 (2) Kamarai tagság nélkül is végezhető az (1) bekezdésben meghatározott tevékenység, ha azt olyan személy végzi, aki külön jogszabályban meghatározottak szerint ideiglenes működési nyilvántartásba vétellel, tevékenységre jogosító engedély kiadásával vagy előzetes bejelentés alapján jogot szerzett arra, hogy a működési nyilvántartásba történő felvétel nélkül egészségügyi tevékenységet végezzen Magyarországon.
+
+(2a) Az egészségügyi szakképesítéssel nem rendelkező egészségügyi dolgozó az egészségügyi tevékenység végzése során – ha ennek feltételei az Eütv., valamint az egészségügyi tevékenység végzésének egyes kérdéseiről szóló törvény alapján fennállnak – kamarai tagság nélkül valamely egészségügyi szakképesítés megszerzéséig működhet közre a szakképesítéssel rendelkező egészségügyi dolgozók által ellátandó feladatokban.
 
 (3) Aki egészségügyi tevékenységet köztisztviselői vagy kormánytisztviselői (a továbbiakban együtt: közszolgálati) jogviszony keretében eljárva, nem kizárólag egészségügyi képesítéshez kötött munkakörben végez, kérheti kamarai tagsága szüneteltetését, vagy – amennyiben kamarai tagsággal nem rendelkezik – e jogviszonya keretében az egészségügyi tevékenységet kamarai tagság nélkül is végezheti. Ha a közszolgálati jogviszonyban álló személy további – nem közszolgálati – jogviszonyban is egészségügyi tevékenységet végez vagy kíván végezni, e további jogviszonyában az egészségügyi tevékenység végzés feltétele a kamarai tagság. Ez utóbbi esetben a közszolgálati jogviszony keretében végzett egészségügyi tevékenységgel összefüggésben valamennyi kamarai tagságból eredő jog és kötelezettség szünetel.
 
 (4) A (3) bekezdésben foglaltaktól eltérően az, akinek közszolgálati jogviszonyban munkaköri feladatai körébe tartozik a szakmai kamara véleményezési jogával érintett jogszabály, illetve egyéb döntés meghozatala vagy érdemi előkészítése, e jogviszonya fennállása alatt kamarai tagsága e törvény erejénél fogva szünetel.
 
 (5) Az (1) bekezdésben szereplő rendelkezés nem érinti az egészségügyi dolgozó külön törvényben meghatározott elsősegély-nyújtási kötelezettségét, valamint a külön jogszabály szerinti pro família végezhető egészségügyi tevékenység gyakorlásának lehetőségét.
+
+14/B. § (1) A területi szervezet a 14/A. §-ban foglalt eseteken túlmenően írásbeli kérelem alapján határozattal szünetelteti a tagsági viszonyát annak a kamarai tagnak, aki ezt kéri.
+
+(2) A szüneteltetés ideje alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel. A kamarai tagságát szüneteltető egészségügyi dolgozó – a 14/A. § eltérő rendelkezése hiányában – egészségügyi tevékenységet nem végezhet.
+
+(3) Az (1) bekezdés alapján szüneteltetett tagsági viszonyt a területi szervezet a tag írásbeli kérelmére határozattal helyreállítja.
 
 15. § (1) A szakmai kamara tagjának joga, hogy
 
@@ -291,13 +301,13 @@ adja ki.
 
 17. § (1) A területi szervezet írásbeli indokolt határozattal felfüggeszti a tagsági viszonyát annak,
 
-- a) aki ezt kéri,
+- a)
 - b) akit a kamarai tagságának alapjául szolgáló foglalkozástól jogerős ítélettel határozott időre eltiltottak, az eltiltás időtartamára, ha a kamarából a 25. § (1) bekezdés e) pontjában szereplő etikai büntetésként nem zárták ki,
-- c) aki a 25. § (1) bekezdés d) pontjában meghatározott jogerős etikai büntetésben részesült.
+- c)
 
 (2) A felfüggesztés ideje alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel.
 
-(3) Az (1) bekezdés a) pontja alapján felfüggesztett tagsági viszonyt a területi szervezet a tag kérésére írásbeli határozattal helyreállítja, a b)–c) pontok alapján felfüggesztett tagsági viszony pedig a jogerős bírói ítéletben, illetve etikai határozatban megállapított idő lejártát követő napon helyreáll.
+(3) A 25. § (1) bekezdés d) pontjában meghatározott, a tagsági jogviszony felfüggesztésére irányuló jogerős etikai büntetés tartama alatt a kamarai tagsági viszony e törvény erejénél fogva felfüggesztés alatt áll. A tagság felfüggesztésére irányuló etikai büntetést kiszabó határozatban arról is rendelkezni kell, hogy a tag kamarai tagsági viszonya a határozat jogerőre emelkedésének napjától a felfüggesztés etikai büntetés tartama alatt felfüggesztés alatt áll. A tagsági viszony felfüggesztése az etikai büntetés lejártát vagy – a jogerős etikai határozattal szemben eredményesen érvényesített jogorvoslat esetén – az etikai büntetés alkalmazhatóságát kizáró döntés jogerőre emelkedését követő napon hatályát veszti.
 
 18. § (1) Megszűnik a tagsági viszonya annak, aki
 
@@ -319,7 +329,7 @@ adja ki.
 
 (6) Ha a tagsági viszony az (1) bekezdés b)–d) pontjai alapján szűnt meg, a kérelmező a kamara tagjai közé ismét felvehető. A kérelem benyújtásával egyidejűleg a kérelmezőnek igazolnia kell, hogy a megszüntetés oka már nem áll fenn, szabadságvesztés büntetését kitöltötte, illetőleg őt a bíróság foglalkozásának gyakorlására ismételten alkalmasnak találta. Az egészségügyi tevékenység jogszabályban meghatározott időtartamot meghaladó megszakítása esetén igazolni kell az ilyen esetre előírt vizsga sikeres letételét is.
 
-19. § A tagsági viszony felfüggesztéséről, illetőleg megszüntetéséről szóló döntést hozó szerv a jogerős határozatát megküldi az érintett személy egészségügyi tevékenységének megfelelő működési nyilvántartást vezető szervnek, az egészségügyi dolgozót foglalkoztató munkáltatónak, továbbá azon egészségügyi szolgáltató működési engedélyezésére jogosult szervnek, amely egészségügyi szolgáltatónál az egészségügyi dolgozó egészségügyi tevékenységet végez.
+19. § A tagsági viszony felfüggesztéséről, szüneteltetéséről, illetőleg megszüntetéséről szóló döntést hozó szerv a jogerős határozatát megküldi az érintett személy egészségügyi tevékenységének megfelelő működési nyilvántartást vezető szervnek, az egészségügyi dolgozót foglalkoztató munkáltatónak, továbbá azon egészségügyi szolgáltató működési engedélyezésére jogosult szervnek, amely egészségügyi szolgáltatónál az egészségügyi dolgozó egészségügyi tevékenységet végez.
 
 19/A. § (1) A szakmai kamara a tagnyilvántartási adatok körében, a 2. § m) pontjában, valamint a 2/A. és 2/B. §-ban meghatározott feladatai ellátása céljából kezeli
 
@@ -336,7 +346,7 @@ adja ki.
 
 - a) felvétel a szakmai kamarába,
 - b) a kamarai tagság megszüntetése, kivéve, ha a kamarai tagság kizárás vagy az egészségügyi dolgozó halála miatt szűnik meg,
-- c) a kamarai tagság szüneteltetése.
+- c) a kamarai tagság szüneteltetése, valamint a szüneteltetett tagsági viszony helyreállítása.
 
 (2) Ha a szakmai kamara a kamarai tagság megszűnési okáról tudomást szerez, az (1) bekezdés b) pontja alapján a kamarai tagság megszüntetése iránti eljárást hivatalból megindítja.
 

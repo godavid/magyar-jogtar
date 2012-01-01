@@ -13,7 +13,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 #### 2. A fővárosi és megyei kormányhivatal
 
-2. § (1) A fővárosi és megyei kormányhivatal a Kormány általános hatáskörű területi államigazgatási szerve.
+2. § (1)
 
 (2) A fővárosi és megyei kormányhivatal működésének költségeit az Országgyűlés a költségvetési törvénynek a fővárosi és megyei kormányhivatal irányítására kijelölt miniszter által vezetett minisztérium fejezetében biztosítja.
 
@@ -67,22 +67,22 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (2) A kormánymegbízottat a közigazgatás-szervezésért felelős miniszter javaslatára a miniszterelnök nevezi ki és menti fel. A kormánymegbízott felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a közigazgatás-szervezésért felelős miniszter gyakorolja.
 
-(3) Kormánymegbízottá olyan büntetlen előéletű személy nevezhető ki, aki az országgyűlési képviselők választásán választójoggal rendelkezik.
+(3) Kormánymegbízottá olyan büntetlen előéletű személy nevezhető ki, aki az országgyűlési képviselők választásán választható.
 
-(4) A kormánymegbízott a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
+(4) A kormánymegbízott a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép. A kinevezett kormánymegbízott a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 
 (5) A kormánymegbízott megbízatása megszűnik:
 
-- a) a Kormány megbízatásának megszűnésével,
+- a) a miniszterelnök megbízatásának megszűnésével,
 - b) lemondásával,
 - c) felmentésével,
 - d) halálával,
-- e) választójogának elvesztésével,
+- e) ha az országgyűlési képviselők választásán már nem választható,
 - f) összeférhetetlenségének megállapításával.
 
-(6) Ha a kormánymegbízott megbízatása a Kormány megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
+(6) Ha a kormánymegbízott megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
 
-11. § (1) A kormánymegbízott további munkavégzésre irányuló jogviszonyt nem létesíthet, nem lehet helyi önkormányzati képviselő, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, kisebbségi önkormányzat elnöke és kisebbségi önkormányzati képviselő.
+11. § (1) A kormánymegbízott további munkavégzésre irányuló jogviszonyt nem létesíthet, nem lehet helyi önkormányzati képviselő, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
 (2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a kormánymegbízott országgyűlési képviselő legyen, valamint tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen.
 
@@ -118,7 +118,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 #### 8. A munkáltatói jogok gyakorlása
 
-15. § (1) A törzshivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat a kormánymegbízott gyakorolja.
+15. § (1) A törzshivatal kormánytisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha jogszabály kivételt nem tesz – a kormánymegbízott gyakorolja. A törzshivatalnál szolgálatot teljesítő katonák, fegyveres szervek hivatásos állományú tagjai, illetve a Honvédelmi Minisztérium és a Belügyminisztérium állományába tartozó, de a törzshivatalnál munkát végző kormánytisztviselők esetében a munkáltatói jogok gyakorlásának szabályait külön jogszabály határozza meg.
 
 (2) A szakigazgatási szerv kormánytisztviselői és munkavállalói felett a munkáltatói jogokat a szakigazgatási szerv vezetője gyakorolja.
 
@@ -156,13 +156,13 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (3) A fővárosi és megyei kormányhivatal a (2) bekezdésben foglalt intézkedések eredménytelensége esetén az érintett döntést hozó szerv felügyeleti szerve és a feladatkörrel rendelkező miniszter egyidejű tájékoztatása mellett kezdeményezi a közigazgatás-szervezésért felelős miniszternél a (4) bekezdésben foglalt intézkedés megtételét.
 
-(4) Ha a törvénysértés másként nem orvosolható, a közigazgatás-szervezésért felelős miniszter javaslata alapján a Kormány az Alkotmány 35. § (4) bekezdése szerint jár el.
+(4)
 
 (5) A fővárosi és megyei kormányhivatal az általa megismerhető iratokban foglalt, valamint a részére nyújtott tájékoztatás alapján tudomására jutott személyes adatok kezelésére az (1)–(4) bekezdésben meghatározott eljárás lefolytatása céljából addig az időpontig jogosult, amíg az feladata ellátásához szükséges.
 
 20. § A fővárosi és megyei kormányhivatal
 
-- a) döntés-előkészítő és javaslattevő szervként közreműködik a Kormánynak az Alkotmány 19. § (3) bekezdés l) pontja szerinti javaslattételi jogosultsága, a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 95. § d) és e) pontjában, a helyi önkormányzatokért felelős miniszternek az Ötv. 96. § c) és d) pontjában, a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszternek az Ötv. 96/A. §-ában, valamint a szakmai irányító miniszternek az Ötv. 97. §-ában meghatározott feladatai ellátásában, a Kormánynak a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény (a továbbiakban: Nektv.) 60/M. § c)–e) pontjában, a Kormány által kijelölt miniszternek a Nektv. 60/N. § a) pontjában, valamint a feladat- és hatáskör szerinti miniszternek a Nektv. 60/O. § a) pontjában meghatározott feladatai ellátásában,
+- a) döntés-előkészítő és javaslattevő szervként közreműködik a Kormánynak az Alaptörvény 35. cikk (5) bekezdése szerinti indítványtételi jogosultsága, a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 95. § d) és e) pontjában, a helyi önkormányzatokért felelős miniszternek az Ötv. 96. § c) és d) pontjában, a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszternek az Ötv. 96/A. §-ában, valamint a szakmai irányító miniszternek az Ötv. 97. §-ában meghatározott feladatai ellátásában, a Kormánynak nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 150. § d)–e) pontjában, a nemzetiségpolitikáért felelős miniszternek a 151. § a) pontjában, a feladat- és hatáskör szerinti miniszternek a 152. § a) pontjában meghatározott feladatai ellátásában,
 - b) a szakigazgatási szerveket érintő funkcionális feladatokat lát el,
 - c) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – ellenőrzési feladatokat lát el, különös tekintettel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény végrehajtásának és a hatósági tevékenység jogszerűségének ellenőrzésére,
 - d) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – gondoskodik a területi államigazgatási szervek ellenőrzési tevékenységének összehangoltságáról,

@@ -18,6 +18,6 @@ a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény, a köztisztvis
 
 (3) Ha az e törvény által megállapított Mt. 87/A. § (1) bekezdés b)–c) és g) pontja, illetve a Ktv. 19/A. § (1) bekezdés b)–c) és g) pontja, vagy a Kjt. 37/B. § (1) bekezdés b)–c) és g) pontja szerinti munkavállaló (köztisztviselő, közalkalmazott) jogviszonyának megszüntetésére irányuló jognyilatkozatot e törvény hatálybalépése előtt közölték, a végkielégítésre való jogosultság tekintetében a jognyilatkozat közlésekor hatályos jogot kell alkalmazni.
 
-(4) E törvény 6. §-ában és 8. §-ában foglalt rendelkezéseket azon köztisztviselők tekintetében lehet alkalmazni, akik az előrehozott (csökkentett összegű előrehozott) öregségi nyugellátást e törvény hatálybalépését követően vették igénybe.
+(4)
 
 (5) E törvény 14. §-ával megállapított Kjt. 78. §-a (4) bekezdését akkor lehet alkalmazni, ha a jogviszony megszűnésére vezető körülmény e törvény hatálybalépését követően következett be, vagy a jogviszony megszüntetését kiváltó jognyilatkozatot e törvény hatálybalépését követően tették.

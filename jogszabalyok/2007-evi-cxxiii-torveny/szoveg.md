@@ -69,10 +69,11 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - gb) a bányászati tevékenység az ingatlan rendeltetésszerű használatát megszünteti,
   - gc) szénhidrogén szállítóvezetékek, valamint ezek tartozékai és alkotórészei elhelyezése és üzemeltetése céljából szolgalmi jog alapításában a tulajdonos és az engedélyes, illetve a vezeték tulajdonosa között nem jött létre megállapodás, illetve – az ingatlan használatának jelentős akadályozása, illetve megszüntetése miatt – a szolgalmi jogot az illetékes hatóság nem engedélyezte;
 - h) elektronikus hírközlési szolgáltatás céljából, ha az elektronikus hírközlési építmény elhelyezése és üzemeltetése céljából közérdekű használati jog alapításában az ingatlan tulajdonos és az engedélyes között nem jött létre megállapodás, illetve – az ingatlan használatának jelentős akadályozása, illetve megszüntetése miatt – a használati jogot az illetékes hatóság nem engedélyezte;
-- i) kulturális örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely, vagy műemlék örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
-  - ia) az érintett ingatlan tulajdonosa olyan magatartást folytat, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy a műemlék megsemmisülését eredményezi,
+- i) kulturális örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
+  - ia) az érintett ingatlan tulajdonosa olyan magatartást folytat, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely megsemmisülését eredményezi,
   - ib) a védetté nyilvánított régészeti lelőhely vagy műemlék feltárása, védőövezetének kialakítása, megközelítése másként nem lehetséges,
-  - ic) korábban összefüggő történeti együttes része volt, és az eredeti egységbe való visszahelyezése és együttes használata örökségvédelmi szempontból indokolt;
+  - ic) a nemzeti emlékhely megközelítése másként nem lehetséges,
+  - id) korábban összefüggő történeti együttes része volt, és az eredeti egységbe való visszahelyezése és együttes használata örökségvédelmi szempontból indokolt;
 - j) természetvédelem céljából, ha
   - ja) a tulajdonos a védett természeti területen, a védelem céljával oly mértékig össze nem egyeztethető tevékenységet folytat, amely a kisajátítás hiányában a védett természeti terület elpusztulását eredményezi,
   - jb) a védett természeti területek természetvédelmi kezeléséért felelős szerv – külön törvény rendelkezése szerint – a védett természeti területek védettségi szintjének helyreállítása érdekében kezdeményezi;
@@ -350,7 +351,7 @@ kell figyelembe venni.
 32. § (1) A kisajátítási határozat bírósági felülvizsgálata során a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
 
 - a) a pert a kisajátítást kérő ellen is meg kell indítani;
-- b) a közigazgatási perben az ingatlan fekvése szerint illetékes megyei bíróság jár el;
+- b) a közigazgatási perben az ingatlan fekvése szerint illetékes törvényszék jár el;
 - c) a bíróságnak a keresetlevél beérkezését követő 45 napon belül tárgyalást kell tartania;
 - d) a bíróságnak a jogalap tekintetében három hónapon belül közbenső ítélettel döntést kell hoznia, kivéve, ha az ügyben igazságügyi szakértő kirendelése szükséges és a szakértői vélemény előterjesztésére ezen időszak alatt az ügy bonyolultsága miatt nem kerülhet sor, vagy ha a keresetet elutasítja;
 - e) a bíróság – kérelemre – ideiglenes intézkedéssel rendelkezhet az ingatlan birtokba adásáról, amennyiben a kártalanítás igazságügyi szakértő által megállapított összegének a birtokbaadással egyidejű megfizetését a kisajátítást kérő vállalja. A pert – a felek megegyezésének hiányában – a kártalanítás összegszerűsége tekintetében tovább kell folytatni;

@@ -37,7 +37,7 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 
 4. § Magatartási kódex nem ösztönözhet olyan magatartásra, amely e törvény rendelkezéseibe ütközik.
 
-5. § (1) Reklám akkor tehető közzé, ha a reklámozó a reklám megrendelésekor a reklámszolgáltató – ennek hiányában a reklám közzétételének megrendelésekor a reklám közzétevője – részére megadja a cégnevét, illetve nevét, a székhelyét, ennek hiányában lakóhelyét, továbbá az adószámát.
+5. § (1) Reklám akkor tehető közzé, ha a reklámozó a reklám megrendelésekor a reklámszolgáltató – ennek hiányában a reklám közzétételének megrendelésekor a reklám közzétevője – részére megadja a cégnevét, illetve nevét, a székhelyét, ennek hiányában lakóhelyét, továbbá az adószámát és a szerencsejátékot népszerűsítő reklám esetén az állami adóhatóság által szerencsejáték szervezésére jogosító engedélyt.
 
 (2) A külön jogszabályban meghatározott előzetes minőségvizsgálati vagy megfelelőségtanúsítási kötelezettség alá tartozó termékre vonatkozó reklám esetén a reklámozó köteles a reklámszolgáltatónak – ennek mellőzése esetén a reklám közzétevőjének – nyilatkozni arról, hogy a vizsgálatot elvégezték és annak alapján a termék forgalomba hozható. Ha a termék nem tartozik előzetes minőségvizsgálati vagy megfelelőségtanúsítási kötelezettség alá, a nyilatkozatnak ezt kell tartalmaznia. Ilyen nyilatkozat hiányában a reklám nem tehető közzé.
 
@@ -191,6 +191,10 @@ vonatkoznak.
 
 (2) Tilos közzétenni szerencsejátékhoz kapcsolódó reklámot olyan sajtótermékben, amely alapvetően gyermek-, illetve fiatalkorúakhoz szól.
 
+(3) Tilos közzétenni olyan reklámot, amely az állami adóhatóság engedélye nélkül szervezett szerencsejátékot népszerűsíti.
+
+(4) Tilos olyan reklámban szerepelni, amely az állami adóhatóság engedélye nélkül Magyarország területén szervezett szerencsejátékot népszerűsít.
+
 22. § (1) Tilos közzétenni temetkezési szolgáltatás reklámját egészségügyi intézmény területén, épületének falán és kerítésén, valamint – az erre a célra kijelölt hely kivételével – temető területén. E korlátozás nem vonatkozik a temetkezési szolgáltatók nevét és telephelyének címét, elérhetőségét, valamint a nyújtott szolgáltatás teljeskörűségére utaló megjegyzést az egyes szolgáltatók megkülönböztetése nélkül, ábécésorrendben tartalmazó, az egészségügyi intézmény információs irodájában elhelyezett tájékoztatóra.
 
 (2) Temetkezési szolgáltatásról szóló reklámban – a szolgáltató honlapján közzétett reklám kivételével – csak a szolgáltató neve, megkülönböztető megjelölése, elérhetőségének módja és időtartama, valamint a „temetkezés” szó, illetve a nyújtott szolgáltatásoknak és azok díjának tárgyszerű – kegyeleti jogokat nem sértő – felsorolása tüntethető fel.
@@ -215,6 +219,8 @@ vonatkoznak.
 
 (7) A 20. §-ban foglalt rendelkezések megsértéséért a szponzorálást nyújtó és a szponzorálást elfogadó vállalkozás egyaránt felelős.
 
+(8) A 21. § (4) bekezdésében foglalt rendelkezés megsértéséért a reklámban szerepet vállaló személy felelős.
+
 ### Eljárás a törvény rendelkezéseinek megsértése esetén
 
 24. § (1) A gazdasági reklámtevékenységre, továbbá a tiltott szponzorálásra vonatkozó rendelkezések megsértése esetén – a (2)–(4) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság vagy – a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény és az abban meghatározott törvények alapján a Pénzügyi Szervezetek Állami Felügyelete által felügyelt tevékenység reklámja és az erre vonatkozó magatartási kódex tekintetében – a Pénzügyi Szervezetek Állami Felügyelete jár el.
@@ -237,7 +243,7 @@ vonatkoznak.
 
 (4) E törvény rendelkezései – a 24. § (2) és (4) bekezdésében meghatározottak kivételével – az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(5) A médiaszolgáltatóval szemben kiszabott bírságot a Médiaszolgáltatás-támogató és Vagyonkezelő Alapba kell befizetni.
+(5)
 
 26/A. § (1) A Pénzügyi Szervezetek Állami Felügyelete eljárására az e törvényben meghatározott eltérésekkel a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény rendelkezéseit kell alkalmazni.
 

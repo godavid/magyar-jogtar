@@ -8,7 +8,7 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 
 1. § (1) Ez a törvény állapítja meg az áruhoz kapcsolódó, a kereskedelmi ügylet lebonyolítását megelőzően, annak során és azt követően a fogyasztóval szemben alkalmazott kereskedelmi gyakorlatokra, valamint az ilyen kereskedelmi gyakorlat tekintetében alkalmazott magatartási kódexekre vonatkozó követelményeket, és az azok megsértésével szembeni eljárás szabályait.
 
-(2) A törvény hatálya arra a kereskedelmi gyakorlatra terjed ki, amely a Magyar Köztársaság területén valósul meg, továbbá arra is, amely a Magyar Köztársaság területén bárkit fogyasztóként érint.
+(2) E törvény hatálya arra a kereskedelmi gyakorlatra terjed ki, amely Magyarország területén valósul meg, továbbá arra is, amely Magyarország területén bárkit fogyasztóként érint.
 
 (3) Nem terjed ki e törvény hatálya
 

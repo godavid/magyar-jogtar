@@ -4,13 +4,11 @@ egyes gazdasági tárgyú törvények módosításáról
 
 #### 1. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
-1. §
+1–2. §
 
 #### 2. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló2003. évi CXXVII. törvény módosítása
 
-3–4. §
-
-5. §
+3–5. §
 
 #### 3. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
@@ -24,11 +22,35 @@ egyes gazdasági tárgyú törvények módosításáról
 
 16. § (1)
 
-(2)–(4)
+(2) Az Szja tv. 71. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[Béren kívüli juttatásnak minősül – ha a juttató a munkáltató – a munkavállalónak]
+
+„a) személyére és közeli hozzátartozói személyére tekintettel a munkáltató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;”
+
+(3) Az Szja tv. 71. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[Béren kívüli juttatásnak minősül]
+
+„a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;”
+
+(4) Az Szja tv. 71. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+[Béren kívüli juttatásnak minősül]
+
+„c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;”
+
+(5) Az Szja tv. 77/A. § (2) bekezdés kiegészül a következő h) ponttal:
+
+[Nem minősül bevételnek a magánszemély által értékpapír formájában megszerzett vagyoni érték, ha a magánszemély:]
+
+„h) az értékpapírt visszterhes jogügylet keretében más magánszemélytől szerezte, feltéve, hogy az ellenérték összege (értéke) az értékpapír névértékét (névérték hiányában az értékpapír kibocsátójának jegyzett tőkéjéből az értékpapírra arányosan jutó rész összegét) eléri; e rendelkezés nem érinti e törvény adómentességet megállapító egyéb rendelkezéseinek alkalmazhatóságát.”
 
 17. §
 
-18. §
+18. § Az Szja tv. a következő 84/Q. §-sal egészül ki:
+
+„84/Q. § A 2011. október 1-jét megelőzően üdülési csekk formájában megszerzett bevétel adókötelezettségére e törvénynek a bevétel megszerzése időpontjában hatályos rendelkezéseit kell alkalmazni.”
 
 19. §
 
@@ -156,7 +178,7 @@ lép.
 
 (3) E törvény 30. §-a a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló 2006/73/EK bizottsági irányelv 5. cikk (5) bekezdésének, 41. és 44. cikkének való megfelelést szolgálja.
 
-46. § A Rega tv. szerint egyébként fizetendő regisztrációs adó 50%-át nem kell megfizetni azon, külföldi forgalmi rendszámmal ellátott gépjármű után, amely 2011. június 15-én az adózó tulajdonában állt, feltéve, hogy a regisztrációs adómegállapítási eljárást az adózó e törvény kihirdetése napjától 2011. december 31-ig terjedő időszakban kezdeményezi.
+46. § A Rega tv. szerint egyébként fizetendő regisztrációs adó 50%-át nem kell megfizetni azon, külföldi forgalmi rendszámmal ellátott gépjármű után, amely 2011. június 15-én az adózó tulajdonában állt, feltéve, hogy a regisztrációs adómegállapítási eljárást adózó, vagy ha az adóalany székhelye, állandó telephelye vagy lakóhelye, illetve szokásos tartózkodási helye külföldön van, az adózó, vagy az adó alanya által az adókötelezettség teljesítése érdekében megbízott belföldön lakóhellyel vagy székhellyel rendelkező üzembentartó vagy, az Art.-ban meghatározott pénzügyi képviselő 2011. november 1-jétől 2012. január 15-ig terjedő időszakban kezdeményezi.
 
 ### 1. melléklet a 2011. évi XCVI. törvényhez
 

@@ -32,8 +32,8 @@ származó, egyedi döntés alapján nyújtott, pályázati úton vagy pályáza
 - c) döntéshozó: az a természetes személy, aki
   - ca) feladat- és hatásköre alapján a támogatási döntés meghozatalára jogosult, vagy az erre jogosult szerv vezetője vagy testület tagja,
   - cb) feladat- és hatásköre alapján támogatási döntésre érdemi befolyással rendelkezik, így különösen, ha a támogatási döntéshez kapcsolódóan egyetértési, vétó-, hozzájárulási, illetve jóváhagyási joggal rendelkezik, vagy ilyen joggal rendelkező szerv vezetője vagy testület tagja;
-- d) kizárt közjogi tisztségviselő: a Kormány tagja, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a regionális fejlesztési tanács elnöke, a fejlesztéspolitikai ügyekben feladatkörrel rendelkező központi hivatal vezetője, a regionális fejlesztési tanács által törvény előírása alapján létrehozott társaság vezető tisztségviselői, felügyelő bizottsága tagjai, illetve az Ágazati Operatív Programok Közreműködő szervezetei vezető tisztségviselői és ellenőrző szervének tagjai;
-- e) nem kizárt közjogi tisztségviselő: a köztársasági elnök, az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő, az országgyűlési és az európai parlamenti képviselő, a polgármester, az alpolgármester, a főpolgármester, a főpolgármester-helyettes, a helyi önkormányzati képviselő, a helyi önkormányzat képviselő-testülete bizottságának tagja, a központi államigazgatási szerv – a d) pont alá nem tartozó – vezetője és helyettesei, a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei, a regionális fejlesztési tanács tagja;
+- d) kizárt közjogi tisztségviselő: a Kormány tagja, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a megyei közgyűlés elnöke, a fővárosi közgyűlés esetében a főpolgármester, a területfejlesztésről és a területrendezésről szóló törvény által meghatározott regionális fejlesztési ügynökség vezető tisztségviselői, felügyelő bizottsága tagjai, illetve az Ágazati Operatív Programok Közreműködő szervezetei vezető tisztségviselői és ellenőrző szervének tagjai;
+- e) nem kizárt közjogi tisztségviselő: a köztársasági elnök, az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő, az országgyűlési és az európai parlamenti képviselő, a polgármester, az alpolgármester, a főpolgármester, a főpolgármester-helyettes, a helyi önkormányzati képviselő, a helyi önkormányzat képviselő-testülete bizottságának tagja, a központi államigazgatási szerv – a d) pont alá nem tartozó – vezetője és helyettesei;
 - f) közeli hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) által meghatározott közeli hozzátartozó;
 - g) vezető tisztségviselő: a gazdasági társaságokról szóló törvény által meghatározott vezető tisztségviselő.
 
@@ -54,7 +54,7 @@ kell érteni.
   - ca) legalább 5%-os tulajdonában álló nyilvánosan működő részvénytársaság,
   - cb) bármilyen arányú tulajdonában álló gazdasági társaság (ide nem értve a nyilvánosan működő részvénytársaságot).
 
-(5) Az (1) bekezdés d)–e) pontját nem kell alkalmazni arra, aki tisztségét nem a Magyar Köztársaság joghatósága alapján kibocsátott jogszabályban meghatározott eljárásban nyerte el.
+(5) Az (1) bekezdés d)–e) pontját nem kell alkalmazni arra, aki tisztségét nem Magyarország joghatósága alapján kibocsátott jogszabályban meghatározott eljárásban nyerte el.
 
 (6) Nem minősül az (1) bekezdés b) pontja szerinti közreműködésnek, ha a természetes személy
 
@@ -87,7 +87,7 @@ felkérésére kizárólag a pályázat kiírásáról hozott döntés meghozata
 
 (4) A pályázatot befogadó szerv törli az (1)–(3) bekezdés alapján közzétett adatokat a támogatás igényléséhez való jog megnyílása naptári évének utolsó napjától számított öt év elteltével.
 
-(5) Az (1)–(4) bekezdést nem kell alkalmazni az e törvény hatálya alá tartozó, a Munkaerőpiaci Alapból természetes személyek számára nyújtott támogatások esetében.
+(5) Az (1)–(4) bekezdést nem kell alkalmazni az e törvény hatálya alá tartozó, a Nemzeti Foglalkoztatási Alapból természetes személyek számára nyújtott támogatások esetében.
 
 (6) A honlapon bárki számára, ingyenesen biztosítani kell a közzétett adatok kereshetőségét, pályázatonként, pályázónként, összeghatár szerint és más módon csoportosított lekérdezhetőségét.
 
@@ -100,12 +100,12 @@ felkérésére kizárólag a pályázat kiírásáról hozott döntés meghozata
 - c) az a)–b) pont alá tartozó személy közeli hozzátartozója,
 - d) az a)–c) pontban megjelölt személy tulajdonában álló gazdasági társaság,
 - e) olyan gazdasági társaság, alapítvány, egyesület, egyház vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont alá tartozó személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyház vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja,
-- f) az egyesület, egyház vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező azon szervezeti egysége,
+- f) az az egyesület, egyház vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező azon szervezeti egysége,
   - fa) amely a pályázat kiírását megelőző öt évben együttműködési megállapodást kötött vagy tartott fenn Magyarországon bejegyzett párttal (a továbbiakban: párt),
   - fb) amely a pályázat kiírását megelőző öt évben párttal közös jelöltet állított országgyűlési, európai parlamenti vagy helyi önkormányzati választáson,
 - g) akinek a részvételből való kizártságának tényét a 13. § alapján a honlapon közzétették.
 
-(2) Az (1) bekezdés e) pontját nem kell alkalmazni a regionális fejlesztési tanács által törvény előírása alapján létrehozott társaságra, ha a támogatás célja a fejlesztési támogatások elosztása intézményrendszere működésének támogatása, továbbá olyan támogatás, amelynek előkészítésében, lebonyolításában a társaság nem vesz részt, illetve a támogatással kapcsolatos döntésre befolyással nem rendelkezik.
+(2) Az (1) bekezdés e) pontját nem kell alkalmazni a területfejlesztésről és a területrendezésről szóló törvény által meghatározott regionális fejlesztési ügynökségre, ha a támogatás célja a fejlesztési támogatások elosztása intézményrendszere működésének támogatása, továbbá olyan támogatás, amelynek előkészítésében, lebonyolításában a regionális fejlesztési ügynökség nem vesz részt, illetve a támogatással kapcsolatos döntésre befolyással nem rendelkezik.
 
 (3) A Nemzeti Együttműködési Alap tanácsa és kollégiumai, valamint a Nemzeti Kulturális Alap bizottsága és kollégiumai által elbírált pályázatok tekintetében az (1) bekezdés e) pontja nem akadálya annak, hogy olyan egyesület, alapítvány, illetve ezek önálló jogi személyiséggel rendelkező szervezeti egysége, illetve a Nemzeti Kulturális Alap tekintetében az előzőek mellett olyan gazdasági társaság, egyház vagy szakszervezet pályázzon, amelyben a pályázati eljárásban döntés-előkészítőként közreműködő vagy döntéshozó személy, vagy ennek közeli hozzátartozója vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyház vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
 
@@ -113,9 +113,9 @@ felkérésére kizárólag a pályázat kiírásáról hozott döntés meghozata
 
 (5) Az (1) bekezdés e) pontja alkalmazásában nem minősül alapítványnak a külön törvény alapján létrehozott, a párt működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítvány.
 
-7. § (1) Ha a pályázatot helyi önkormányzat, kisebbségi önkormányzat, helyi önkormányzati költségvetési szerv, országos kisebbségi önkormányzati költségvetési szerv vagy ezek tulajdonában álló gazdasági társaság vagy közhasznú társaság nyújtotta be, a helyi önkormányzati képviselőtestület tagja, a kisebbségi önkormányzati testület tagja, valamint a projekt megvalósulásával érintett megye (főváros) területén fekvő választókerületben megválasztott vagy a projekt megvalósulásával érintett településen lakóhellyel rendelkező országgyűlési képviselő a támogatási döntés meghozatalában nem vehet részt, de – ha a döntésre testület jogosult – a testület ülésén részt vehet.
+7. § (1) Ha a pályázatot helyi önkormányzat, nemzetiségi önkormányzat, helyi önkormányzati költségvetési szerv, országos nemzetiségi önkormányzati költségvetési szerv vagy ezek tulajdonában álló gazdasági társaság vagy közhasznú társaság nyújtotta be, a helyi önkormányzati képviselőtestület tagja, a nemzetiségi önkormányzati testület tagja, valamint a projekt megvalósulásával érintett megye (főváros) területén fekvő választókerületben megválasztott vagy a projekt megvalósulásával érintett településen lakóhellyel rendelkező országgyűlési képviselő a támogatási döntés meghozatalában nem vehet részt, de – ha a döntésre testület jogosult – a testület ülésén részt vehet.
 
-(2) Az (1) bekezdés nem akadálya annak, hogy a regionális fejlesztési tanács elnöke vagy tagja a támogatási döntés meghozatalát megelőzően a pályázat előzetes véleményezésében részt vegyen.
+(2) Az (1) bekezdés nem akadálya annak, hogy a megyei közgyűlés elnöke vagy tagja, a fővárosi közgyűlés esetében a főpolgármester vagy a fővárosi közgyűlés tagja a támogatási döntés meghozatalát megelőzően a pályázat előzetes véleményezésében részt vegyen.
 
 8. § (1) Ha a pályázó
 
@@ -180,7 +180,7 @@ köteles kezdeményezni e körülménynek a honlapon történő közzétételét
 17. § (1) A pályázat érvénytelenségét megállapító vagy a pályázatot a kezdeményezés ellenére érvényesnek nyilvánító határozat felülvizsgálatát a határozat meghozatalától számított 30 napon belül
 
 - a) ha a határozatot közigazgatási eljárás keretében hozták, az erre irányadó törvényi rendelkezések szerint,
-- b) egyéb esetben a pályázati eljárásban igénybe vehető jogorvoslati lehetőségek kimerítését követően a határozatot hozó szerv ellen indított polgári nemperes eljárásban a határozatot hozó szerv székhelye szerint illetékes megyei bíróságtól
+- b) egyéb esetben a pályázati eljárásban igénybe vehető jogorvoslati lehetőségek kimerítését követően a határozatot hozó szerv ellen indított polgári nemperes eljárásban a határozatot hozó szerv székhelye szerint illetékes törvényszéktől
 
 lehet kérni.
 

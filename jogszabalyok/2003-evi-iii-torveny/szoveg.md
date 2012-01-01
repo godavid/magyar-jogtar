@@ -2,7 +2,7 @@
 
 az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról
 
-Az Országgyűlés hozzá kíván járulni az elmúlt rendszer állambiztonsági szolgálatai tevékenységének megismeréséhez és az áldozatok információs kárpótlásához. Erre tekintettel az érintettek információs önrendelkezési jogának garantálása, a közérdekű adatok megismeréséhez fűződő alkotmányos jog érvényesülése érdekében – figyelemmel a Magyar Köztársaság szuverenitásához és alkotmányos rendjének garantálásához fűződő alkotmányos érdekre, valamint a jogállam nemzetbiztonsági érdekeire – az Országgyűlés a következő törvényt alkotja:
+Az Országgyűlés hozzá kíván járulni az elmúlt rendszer állambiztonsági szolgálatai tevékenységének megismeréséhez és az áldozatok információs kárpótlásához. Erre tekintettel az érintettek információs önrendelkezési jogának garantálása, a közérdekű adatok megismeréséhez fűződő alkotmányos jog érvényesülése érdekében – figyelemmel Magyarország szuverenitásához és törvényes rendjének garantálásához fűződő érdekre, valamint a jogállam nemzetbiztonsági érdekeire – az Országgyűlés a következő törvényt alkotja:
 
 1. § (1) A törvény hatálya kiterjed azokra az iratokra és adatokra, amelyek 1944. december 21. és 1990. február 14. között az állambiztonsági tevékenységet végző magyar állami szervek működésével összefüggésben
 
@@ -37,19 +37,19 @@ keletkeztek és irattári anyagába tartoztak.
 - a) olyan személyre vonatkozik, aki 1990. február 15-e és 2002. május 26-a közötti időszakban vagy annak egy részében a nemzetbiztonsági szolgálatok állományába tartozott, vagy azokkal titkosan együttműködött,
 - b) olyan, az 1. §-ban meghatározott szerveknél végzett tevékenységre vonatkozik, amely miatt az érintettet külföldön kiutasítás, beutazási tilalom vagy büntetőeljárás fenyegetné,
 - c) olyan személyre vonatkozik, akinek az 1. §-ban meghatározott szerveknél végzett tevékenysége miatt alaposan feltehető, hogy személyének felfedése esetén e tevékenysége miatt ellene vagy hozzátartozójával szemben az életet, a testi épséget, illetve a személyes szabadságot súlyosan sértő vagy veszélyeztető bűncselekményt követnek el,
-- d) olyan hálózati személy vagy operatív kapcsolat személyazonosságának felfedéséhez vezet, akinek megismerése nyilvánvalóan vagy kimutathatóan sértené a Magyar Köztársaság nemzetbiztonsági érdekeit,
+- d) olyan hálózati személy vagy operatív kapcsolat személyazonosságának felfedéséhez vezet, akinek megismerése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetbiztonsági érdekeit,
 - e) az egyes fontos, valamint közbizalmi és közvélemény-formáló tisztségeket betöltő személyek ellenőrzését végző bírák eljárása során keletkezett, amennyiben az eljárás eredményeként annak alanya lemondott vagy felmentését kezdeményezte.
 
 (3) Fenntartható továbbá az államtitok minősítése a Ttv. alapján az államtitokkörbe tartozó azon adat tekintetében, amely
 
 - a) az azt jogszerűen birtokló szerv törvényben meghatározott feladatai ellátásához rendszeresen és elengedhetetlenül szükséges,
-- b) a titkos információgyűjtés olyan eszközének vagy módszerének felfedéséhez vezet, amelynek megismerése nyilvánvalóan vagy kimutathatóan sértené a Magyar Köztársaság nemzetbiztonsági érdekeit,
-- c) nyilvánosságra kerülése esetén nyilvánvalóan vagy kimutathatóan károsítaná a Magyar Köztársaság rejtjelrendszerét vagy rejtjeltevékenységét,
-- d) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan sértené a Magyar Köztársaság nemzetközi kötelezettségvállalását,
-- e) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan sértené a Magyar Köztársaság és más állam közötti viszonyt, vagy károsítaná a Magyar Köztársaság külpolitikai céljainak érvényesítését,
-- f) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan sértené a Magyar Köztársaságnak az Alkotmány 6. § (3) bekezdésében foglalt, a határon kívül élő magyarokért viselt felelősségének érvényesítéséhez fűződő érdekeit,
-- g) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan károsítaná a Magyar Köztársaság védelempolitikai céljainak megvalósulását, a Magyar Honvédség nemzetközi kapcsolatait vagy hadrafoghatóságát,
-- h) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan sértené a Magyar Köztársaság nemzetgazdasági érdekeit.
+- b) a titkos információgyűjtés olyan eszközének vagy módszerének felfedéséhez vezet, amelynek megismerése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetbiztonsági érdekeit,
+- c) nyilvánosságra kerülése esetén nyilvánvalóan vagy kimutathatóan károsítaná Magyarország rejtjelrendszerét vagy rejtjeltevékenységét,
+- d) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetközi kötelezettségvállalását,
+- e) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan sértené Magyarország és más állam közötti viszonyt, vagy károsítaná Magyarország külpolitikai céljainak érvényesítését,
+- f) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan sértené Magyarországnak, a határon kívül élő magyarokért viselt felelőssége érvényesítéséhez fűződő érdekeit,
+- g) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan károsítaná Magyarország védelempolitikai céljainak megvalósulását, a Magyar Honvédség nemzetközi kapcsolatait vagy hadrafoghatóságát,
+- h) nyilvánosságra kerülése nyilvánvalóan vagy kimutathatóan sértené Magyarország nemzetgazdasági érdekeit.
 
 3. § (1) A megfigyelt, a harmadik személy, a hivatásos alkalmazott, az operatív kapcsolat és a hálózati személy megismerheti és nyilvánosságra hozhatja a Levéltárban kezelt iratban szereplő, kizárólag vele kapcsolatba hozható személyes adatokat.
 
@@ -57,7 +57,7 @@ keletkeztek és irattári anyagába tartoztak.
 
 (3) A megfigyelt személy, illetve a harmadik személy megismerheti és a harmadik személy, illetve a megfigyelt személy hozzájárulásával nyilvánosságra hozhatja a megfigyelt és a harmadik személy között történt személyes érintkezéseket rögzítő vagy leíró adatokat (pl. személyes találkozásról, beszélgetésről gyűjtött adatok).
 
-4. § (1) A tudományos kutató a Levéltárban kezelt iratokban foglalt adatokat a (2)–(3) bekezdésben foglalt korlátok között megismerheti, és a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 32. §-a szerint felhasználhatja.
+4. § (1) A tudományos kutató a Levéltárban kezelt iratokban foglalt adatokat a (2)–(3) bekezdésben foglalt korlátok között megismerheti, és az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint felhasználhatja.
 
 (2) A tudományos kutató az egészségi állapotra, kóros szenvedélyre és szexuális életre vonatkozó adatokat az érintett halálozási évét követő harminc év után ismerheti meg. Ha a halálozás éve nem ismert, a védelmi idő az érintett születésétől számított kilencven év, ha pedig a születés és a halálozás időpontja sem ismert, a levéltári anyag keletkezésétől számított hatvan év.
 
@@ -78,7 +78,7 @@ keletkeztek és irattári anyagába tartoztak.
 
 (5) A nem anonimizált adatokat bárki nyilvánosságra hozhatja.
 
-(6) Ha a kérelmező közszereplő hálózati személy, hivatásos alkalmazott vagy operatív kapcsolat azonosításához szükséges adatokat kíván megismerni, a Levéltár az érintett közszereplőt nyilatkozat tételére hívja fel a tekintetben, hogy közszereplő minőségét elismeri-e. Amennyiben a felhívás kézhezvételétől számított tizenöt napon belül az érintett olyan nyilatkozatot tesz, mely szerint közszereplői minőségét nem ismeri el, a Levéltár az adat megismerésére irányuló kérelmet elutasítja; ellenkező esetben a megismerési kérelemnek eleget tesz. A Levéltár döntésével szemben az Ltv. 29. §-ának rendelkezései szerint jogorvoslatnak van helye, melynek során a bíróság az érintett közszereplői minőségéről állást foglal. Az ügyben a Fővárosi Bíróság e feladatra kijelölt bírája jár el. Ha a bíróság az érintettet közszereplőnek minősíti, a Levéltár a megismerési kérelemnek eleget tesz.
+(6) Ha a kérelmező közszereplő hálózati személy, hivatásos alkalmazott vagy operatív kapcsolat azonosításához szükséges adatokat kíván megismerni, a Levéltár az érintett közszereplőt nyilatkozat tételére hívja fel a tekintetben, hogy közszereplő minőségét elismeri-e. Amennyiben a felhívás kézhezvételétől számított tizenöt napon belül az érintett olyan nyilatkozatot tesz, mely szerint közszereplői minőségét nem ismeri el, a Levéltár az adat megismerésére irányuló kérelmet elutasítja; ellenkező esetben a megismerési kérelemnek eleget tesz. A Levéltár döntésével szemben az Ltv. 29. §-ának rendelkezései szerint jogorvoslatnak van helye, melynek során a bíróság az érintett közszereplői minőségéről állást foglal. Az ügyben a Fővárosi Törvényszék e feladatra kijelölt bírája jár el. Ha a bíróság az érintettet közszereplőnek minősíti, a Levéltár a megismerési kérelemnek eleget tesz.
 
 6. § (1) A megfigyelt és a harmadik személy írásos nyilatkozatban legfeljebb az adat keletkezésétől számított kilencven évre megtilthatja az adat 4–5. § szerinti kutatását.
 
@@ -168,9 +168,9 @@ keletkeztek és irattári anyagába tartoztak.
 
 (3) Azok az irategyüttesek, amelyek egyaránt tartalmaznak olyan adatokat, amelyek minősítését a minősítő megszüntette, illetve fenntartotta, továbbra is az irategyüttest kezelő szerv kezelésében maradnak. Az irategyüttes azon részéről, amely olyan adatot tartalmaz, amelynek minősítését a minősítő megszüntette, az irategyüttest kezelő szerv hiteles másolatot készít, és azt átadja a Levéltárnak.
 
-(4) Át kell adni a Levéltárnak azon iratok jegyzékét, amelyek minősítését a minősítő fenntartotta. A jegyzék minősített adatot nem tartalmazhat. Amennyiben a Levéltár nem találja indokoltnak valamely, a jegyzékben szereplő irat minősítésének fenntartását, a Fővárosi Bírósághoz fordulhat a minősítés megszüntetésére való kötelezés érdekében. A minősítés fenntartásának jogszerűségét a minősítőnek kell bizonyítania. A bíróság az ügyben harminc napon belül, polgári nem peres eljárásban dönt. Az ügyben a Fővárosi Bíróság e feladatra kijelölt bírája – ,,C'' típusú nemzetbiztonsági ellenőrzését követően – jár el. A felek és meghatalmazottaik nem lehetnek jelen egymás meghallgatásán. Az eljárás minden szakaszában biztosítani kell a minősített adat védelmére vonatkozó előírások betartását. A Fővárosi Bíróság végzése ellen fellebbezésnek nincs helye. A bíróság végzése minősített adatot nem tartalmazhat.
+(4) Át kell adni a Levéltárnak azon iratok jegyzékét, amelyek minősítését a minősítő fenntartotta. A jegyzék minősített adatot nem tartalmazhat. Amennyiben a Levéltár nem találja indokoltnak valamely, a jegyzékben szereplő irat minősítésének fenntartását, a Fővárosi Törvényszékhez fordulhat a minősítés megszüntetésére való kötelezés érdekében. A minősítés fenntartásának jogszerűségét a minősítőnek kell bizonyítania. A bíróság az ügyben harminc napon belül, polgári nem peres eljárásban dönt. Az ügyben a Fővárosi Törvényszék e feladatra kijelölt bírája – ,,C'' típusú nemzetbiztonsági ellenőrzését követően – jár el. A felek és meghatalmazottaik nem lehetnek jelen egymás meghallgatásán. Az eljárás minden szakaszában biztosítani kell a minősített adat védelmére vonatkozó előírások betartását. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye. A bíróság végzése minősített adatot nem tartalmazhat.
 
-(5) A felülvizsgálati eljárás során a 2. § (2)–(3) bekezdésben meghatározott adatokat tartalmazó iratok közül a nemzetbiztonsági érdek védelme szempontjából kiemelkedően fontos iratokról a nemzetbiztonsági szolgálat főigazgatója külön jegyzéket állít össze, amelyet a Legfelsőbb Bíróság e feladatra kijelölt bírája – ,,C'' típusú nemzetbiztonsági ellenőrzését követően – hagy jóvá. A (4) bekezdésében meghatározott iratjegyzékben a jelen bekezdés alapján összeállított külön jegyzékben szereplő iratokat nem kell feltüntetni.
+(5) A felülvizsgálati eljárás során a 2. § (2)–(3) bekezdésben meghatározott adatokat tartalmazó iratok közül a nemzetbiztonsági érdek védelme szempontjából kiemelkedően fontos iratokról a nemzetbiztonsági szolgálat főigazgatója külön jegyzéket állít össze, amelyet a Kúria e feladatra kijelölt bírája – ,,C'' típusú nemzetbiztonsági ellenőrzését követően – hagy jóvá. A (4) bekezdésében meghatározott iratjegyzékben a jelen bekezdés alapján összeállított külön jegyzékben szereplő iratokat nem kell feltüntetni.
 
 (6) Amennyiben a minősítő az 1970 előtt keletkezett iratnak a Ttv. 28. § (2) bekezdése szerint fenntartott minősítését a törvény hatályba lépését követő száznyolcvan napon belül nem erősíti meg, az irat minősítése megszűnik, és azt harminc napon belül át kell adni a Levéltárnak.
 

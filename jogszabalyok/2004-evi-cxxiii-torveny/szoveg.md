@@ -10,7 +10,8 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 - b) a (2) bekezdés 1. pontjában meghatározott munkaerőpiactól tartósan távollévő személyre,
 - c) a kedvezmény érvényesítése során eljáró hatóságra,
 - d) az ösztöndíjas foglalkoztatottra, valamint az őt foglalkoztatóra,
-- e) a 8/B. § (1) bekezdésében meghatározott munkavállalókra.
+- e) a 8/B. § (1) bekezdésében meghatározott munkavállalókra,
+- f) a 16/A. § (1) bekezdése szerinti megváltozott munkaképességű személyre.
 
 (2) E törvény alkalmazásában
 
@@ -32,7 +33,7 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 (3) Az álláskeresőként történő nyilvántartásnak a (2) bekezdés 9. pontjában meghatározott időtartamába a külön jogszabályban meghatározott rendszeres szociális segélyben részesülő személy esetében be kell számítani azt az időtartamot is, amely alatt a rendszeres szociális segélyben részesülő személy a települési önkormányzat által kijelölt szervvel együttműködött.
 
-(4) A START PLUSZ, illetve a START EXTRA kártyát az igénylő legkésőbb 2011. december 31-éig válthatja ki, és ezek alapján a munkaadót legfeljebb 2013. december 31-éig illeti meg az e törvény szerinti járulékkedvezmény.
+(4)
 
 ### I. Fejezet — A PÁLYAKEZDŐ FIATALOK, VALAMINT A GYERMEK GONDOZÁSÁT, ILLETVE CSALÁDTAG ÁPOLÁSÁT KÖVETŐEN, TOVÁBBÁ A GYERMEK GONDOZÁSA MELLETT MUNKÁT KERESŐK ÉS A TARTÓSAN ÁLLÁSKERESŐK FOGLALKOZTATÁSÁNAK KEDVEZMÉNYE
 
@@ -56,7 +57,7 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 ### Gyermekgondozási segély, gyermekgondozási díj, gyermeknevelési támogatás, valamint ápolási díj folyósításának megszűnését követő foglalkoztatás, a gyermekgondozási segély folyósítása melletti foglalkoztatás, valamint a tartósan álláskeresők foglalkoztatásának kedvezménye
 
-4. § (1) Az 1. § (2) bekezdése 1. pontjának b)–c) alpontjában meghatározott személy – az 1. § (2) bekezdése 1. pontjának c) alpontjában szereplő személyek vonatkozásában a 6. §-ban meghatározott kivétellel – az Art. szerinti START PLUSZ kártya kiváltására jogosult.
+4. § (1) 2011. december 31-éig az 1. § (2) bekezdése 1. pontjának b)–c) alpontjában meghatározott személy – az 1. § (2) bekezdése 1. pontjának c) alpontjában szereplő személyek vonatkozásában a 6. §-ban meghatározott kivétellel – az Art. szerinti START PLUSZ kártya kiváltására jogosult.
 
 (2) A munkaadót az 1. § (2) bekezdése 1. pontjának b)–c) alpontjaiban meghatározott személy foglalkoztatásának időtartamára a START PLUSZ kártya érvényességi idején belül illeti meg az 5. §-ban meghatározott kedvezmény abban az esetben is, ha a foglalkoztatás időtartama azt meghaladja.
 
@@ -74,41 +75,36 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 ### A pályakezdő fiatal foglalkoztatásához kapcsolódó kedvezmény szabályai
 
-4/A. § (1) Pályakezdő fiatal foglalkoztatása után a munkaadót járulékkedvezmény illeti meg a következők szerint:
+4/A. § (1) Pályakezdő fiatal foglalkoztatása után a munkaadót a szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg a következők szerint:
 
-- a) alap- és középfokú végzettséggel rendelkező vagy végzettséggel nem rendelkező pályakezdő fiatal foglalkoztatásakor a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék összege helyett a foglalkoztatás első évében a bruttó munkabér tíz százalékának, második évében húsz százalékának megfelelő, továbbá
-- b) felsőfokú végzettségű pályakezdő fiatal foglalkoztatásakor a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék összege helyett a foglalkoztatás első kilenc hónapjában a bruttó munkabér tíz százalékának, azt követő három hónapjában húsz százalékának megfelelő fizetési kötelezettség.
+- a) alap- és középfokú végzettséggel rendelkező vagy végzettséggel nem rendelkező pályakezdő fiatal foglalkoztatásakor a részkedvezmény egyenlő az érvényes START kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér másfélszeresének tizenhét százalékával a foglalkoztatás első évében, illetve hét százalékával a foglalkoztatás második évében, továbbá
+- b) felsőfokú végzettségű pályakezdő fiatal foglalkoztatásakor a részkedvezmény egyenlő az érvényes START kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének tizenhét százalékával a foglalkoztatás első kilenc hónapjában, illetve hét százalékával a foglalkoztatás azt követő három hónapjában.
 
-(2) A munkaadó az (1) bekezdésben meghatározott kedvezményt az alap- és középfokú végzettséggel rendelkező vagy végzettséggel nem rendelkező pályakezdő fiatal esetében legfeljebb a kötelező legkisebb munkabér (a továbbiakban: minimálbér) másfélszeres, felsőfokú végzettségű pályakezdő fiatal esetében a minimálbér kétszeres összegének megfelelő járulékalap után érvényesítheti.
+(2) A munkaadó által az (1) bekezdés alapján befizetett összeget az állami adóhatóság a költségvetési törvényben meghatározott arányban utalja át Nemzeti Foglalkoztatási Alap, a Nyugdíjbiztosítási Alap, illetve az Egészségbiztosítási Alap javára.
 
-(3) A munkaadó által az (1) bekezdés alapján befizetett összeget az állami adóhatóság a Tbj.-ben meghatározott járulékmértékek arányában utalja át a Munkaerőpiaci Alap, a Nyugdíjbiztosítási Alap, illetve az Egészségbiztosítási Alap javára.
+(3) Az (1) bekezdésben meghatározott kedvezmény a munkaadót abban az esetben illeti meg, ha a pályakezdő a munkába lépést megelőző napon rendelkezik START-kártyával vagy azt helyettesítő igazolással.
 
-(4) Az (1) bekezdésben meghatározott kedvezmény a munkaadót abban az esetben illeti meg, ha a pályakezdő a munkába lépést megelőző napon rendelkezik START-kártyával vagy azt helyettesítő igazolással.
-
-(5) Az (1) bekezdésben említett járulékkedvezmény figyelembevétele nélkül a munkaadót terhelő társadalombiztosítási járulék összege és a munkaadó által a járulékkedvezmény figyelembevételével megfizetett összeg közötti különbözetet meg kell téríteni az Egészségbiztosítási Alap és a Nyugdíjbiztosítási Alap számára. A különbözet fedezetét a Munkaerőpiaci Alap költségvetésének „Aktív támogatások” cím, „Járulékkedvezmény megtérítés” alcíme tartalmazza.
+(4) Az (1) bekezdésben említett részkedvezményként érvényesített összeget meg kell téríteni az Egészségbiztosítási Alap és a Nyugdíjbiztosítási Alap számára. A különbözet fedezetét a Nemzeti Foglalkoztatási Alap költségvetésének „Aktív támogatások” cím, „Szociális hozzájárulási adókedvezmény megtérítése” alcíme tartalmazza.
 
 ### Gyermekgondozási segély, gyermekgondozási díj, gyermeknevelési támogatás, valamint ápolási díj folyósításának megszűnését követő foglalkoztatás, a gyermekgondozási segély folyósítása melletti foglalkoztatás, valamint a tartósan álláskeresők foglalkoztatása kedvezményének szabályai
 
-5. § (1) Az érvényes START PLUSZ kártyával rendelkező személy foglalkoztatása után a munkaadót – a 6. §-ban meghatározott kivétellel – a járulékkedvezmény a következők szerint illeti meg:
+5. § (1) Az érvényes START PLUSZ kártyával rendelkező személy foglalkoztatása után a munkaadót – a 6. §-ban meghatározott kivétellel – szociális hozzájárulási adóból igénybe vehető részkedvezmény legfeljebb 2013. december 31-ig a következők szerint illeti meg:
 
-- a)
-- b) a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék összege helyett a foglalkoztatás első évében a bruttó munkabér tíz százalékának, második évében húsz százalékának megfelelő fizetési kötelezettség terheli.
+a részkedvezmény egyenlő az érvényes START PLUSZ kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének tizenhét százalékával a foglalkoztatás első évében, illetve hét százalékával a foglalkoztatás második évében.
 
-(2) A munkaadó az (1) bekezdés b) pontjában meghatározott kedvezményt legfeljebb a kötelező legkisebb munkabér kétszeresének megfelelő járulékalap erejéig érvényesítheti. Ha a munkavállaló munkabére a kötelező legkisebb munkabér kétszeresét meghaladja, az azt meghaladó összeg tekintetében az általános járulékfizetési szabályokat kell alkalmazni.
+(2) A munkaadó az (1) bekezdésben meghatározott kedvezményre abban az esetben jogosult, ha a foglalkoztatás időtartama a harminc napot meghaladja és a munkaidő legalább a napi négy órát eléri.
 
-(3) A munkaadó az (1) bekezdésben meghatározott kedvezményre abban az esetben jogosult, ha a foglalkoztatás időtartama a harminc napot meghaladja és a munkaidő legalább a napi négy órát eléri.
+(3) Ha a START PLUSZ kártya érvényességének időtartama két évnél rövidebb, az érvényességi időtartam első tizenkét hónapjára az (1) bekezdésben a foglalkoztatás első évében meghatározott részkedvezmény vehető igénybe.
 
-(4) Ha a START PLUSZ kártya érvényességének időtartama két évnél rövidebb, az érvényességi időtartam első tizenkét hónapjára az (1) bekezdés b) pontjában meghatározott kedvezőbb járulékfizetési lehetőséget kell alkalmazni.
+(4) A START PLUSZ kártyával rendelkező személyt foglalkoztatóra a 4/A. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-(5) A START PLUSZ kártyával rendelkező személyt foglalkoztatóra a 4/A. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(5) A munkaadó által az (1) bekezdés alapján befizetett összeget az állami adóhatóság a költségvetési törvényben meghatározott arányban utalja át a Munkaerőpiaci Alap, a Nyugdíjbiztosítási Alap, illetve az Egészségbiztosítási Alap javára.
 
-(6) A munkaadó által az (1) bekezdés b) pontja alapján befizetett összeget az állami adóhatóság a Tbj.-ben meghatározott járulékmértékek arányában utalja át a Munkaerőpiaci Alap, a Nyugdíjbiztosítási Alap, illetve az Egészségbiztosítási Alap javára.
-
-(7) Az (1) bekezdésben említett járulékkedvezmény figyelembevétele nélkül a munkaadót terhelő társadalombiztosítási járulék összege és a járulékkedvezmény figyelembevételével megfizetett összeg közötti különbözetet meg kell téríteni az Egészségbiztosítási Alap és a Nyugdíjbiztosítási Alap számára. A különbözet fedezetét a Munkaerőpiaci Alap költségvetése, valamint az Európai Szociális Alap forrásai biztosítják.
+(6) Az (1) bekezdésben említett részkedvezményként érvényesített összeget meg kell téríteni az Egészségbiztosítási Alap és a Nyugdíjbiztosítási Alap számára. A különbözet fedezetét a Nemzeti Foglalkoztatási Alap költségvetése, valamint az Európai Szociális Alap forrásai biztosítják.
 
 ### II. Fejezet — A MUNKAERŐPIACON HALMOZOTTAN HÁTRÁNYOS HELYZETBEN LÉVŐ ÁLLÁSKERESŐK FOGLALKOZTATÁSÁNAK KEDVEZMÉNYE
 
-6. § (1) Az Art. szerinti START EXTRA kártya kiváltására jogosult
+6. § (1) 2011. december 31-éig az Art. szerinti START EXTRA kártya kiváltására jogosult
 
 - a) a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőzően legalább 3 hónapig álláskeresőként nyilvántartott személy, ha ötvenedik életévét betöltötte, vagy életkorra való tekintet nélkül legfeljebb alapfokú iskolai végzettséggel rendelkezik, vagy
 - b) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső.
@@ -119,14 +115,28 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 (4) A START EXTRA kártya kiváltására a 4. § (6) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-(5) A START EXTRA kártyával rendelkező személyt foglalkoztató munkáltatóra a 4. § (7) bekezdésében, valamint a 4/A. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(5) A START EXTRA kártyával rendelkező személyt foglalkoztató munkáltatóra a 4. § (7) bekezdésében, valamint a 4/A. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-7. § (1) Az érvényes START EXTRA kártyával rendelkező személy foglalkoztatása esetén a munkaadót a következők szerint illeti meg járulékkedvezmény:
+7. § (1) Legfeljebb 2013. december 31-ig az érvényes START EXTRA kártyával rendelkező személy foglalkoztatása után a munkaadót a következők szerint illeti meg a szociális hozzájárulási adóból igénybe vehető részkedvezmény:
 
-- a)
-- b) Az a) pontban foglaltakon túlmenően a foglalkoztatás első évében a munkaadó mentesül a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék megfizetése alól. A munkaadót a START EXTRA kártya tulajdonosa foglalkoztatásának második évében a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék összege helyett a bruttó munkabér tíz százalékának megfelelő járulékfizetési kötelezettség terheli.
+a részkedvezmény egyenlő az érvényes START EXTRA kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének huszonhét százalékával a foglalkoztatás első évében, illetve tizenhét százalékával a foglalkoztatás második évében.
 
-(2) A START EXTRA kártyával rendelkező személy foglalkoztatásához kapcsolódó járulékkedvezmény érvényesítésére, a járulékkülönbözet megtérítésére, valamint a munkáltató által befizetett járulékok elszámolására az 5. § (2)–(7) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(2) A START EXTRA kártyával rendelkező személy foglalkoztatásához kapcsolódó, a szociális hozzájárulási adóból igénybe vehető részkedvezmény érvényesítésére, a kedvezmény megtérítésére, valamint a munkaadó által befizetett szociális hozzájárulási adó, illetve részkedvezmény elszámolására az 5. § (3)–(6) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+7/A. § (1) 2012. december 31-éig az Art. szerinti START BÓNUSZ kártya kiváltására jogosult
+
+- a) a START BÓNUSZ kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját közvetlenül megelőzően legalább 3 hónapig álláskeresőként folyamatosan nyilvántartott személy, vagy
+- b) az 1. § (2) bekezdésének 1. b) pontjában meghatározott személy, feltéve, hogy nem rendelkezik érvényes START, START PLUSZ vagy START EXTRA kártyával.
+
+(2) A munkaadót az (1) bekezdésben meghatározott személy foglalkoztatásának időtartamára a START BÓNUSZ kártya érvényességi idején belül illeti meg a (4)–(6) bekezdésben meghatározott, szociális hozzájárulási adóból igénybe vehető részkedvezmény. E rendelkezést kell alkalmazni abban az esetben is, ha a foglalkoztatás időtartama a START BÓNUSZ kártya érvényességi időtartamát meghaladja.
+
+(3) A START BÓNUSZ kártyával rendelkező személyt foglalkoztató munkaadóra a 4. § (7) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+(4) A részkedvezmény egyenlő az érvényes START BÓNUSZ kártyával rendelkező természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér másfélszeresének huszonhét százalékával a foglalkoztatás első évében.
+
+(5) A START BÓNUSZ kártyával rendelkező személy foglalkoztatásához kapcsolódó részkedvezmény érvényesítésére, a részkedvezmény megtérítésére, valamint a munkaadó által befizetett szociális hozzájárulási adó elszámolására az 5. § (2), valamint (5) és (6) bekezdéseiben foglaltakat megfelelően alkalmazni kell.
+
+(6) A (4) bekezdésben meghatározott kedvezmény a munkaadót abban az esetben illeti meg, ha a foglalkoztatott személy a munkába lépést megelőző napon rendelkezik START BÓNUSZ kártyával vagy azt helyettesítő igazolással.
 
 8. § Az Flt. 18/A. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
 
@@ -136,17 +146,15 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 III. fejezet
 
-8/A. § (1) Az önkormányzati közfoglalkoztatás, valamint az országos közfoglalkoztatási program keretében költségvetési szerv által történő foglalkoztatás esetén a munkaadó mentesül a Tbj. 19. §-ának (1) bekezdésében meghatározott társadalombiztosítási járulék 50 százalékának megfizetése alól.
+8/A. § (1) Az önkormányzati közfoglalkoztatás, valamint az országos közfoglalkoztatási program keretében költségvetési szerv által történő foglalkoztatás esetén a munkaadót a szociális hozzájárulási adóból igénybe vehető részkedvezményt illeti meg. A részkedvezmény egyenlő a közfoglalkoztatott természetes személy (munkavállaló) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér 130 százalékának tizenhárom és fél százalékával.
 
-(2) A munkaadó az (1) bekezdésben meghatározott kedvezményt – teljes munkaidőben történő foglalkoztatás esetén – legfeljebb a kötelező legkisebb munkabér 130 százalékának, részmunkaidőben történő foglalkoztatás esetén ezen összeg időarányos részének megfelelő járulékalap után érvényesítheti.
+(2) Az (1) bekezdésben meghatározott kedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után, egyidejűleg nem vehető igénybe.
 
-(3) Az (1) bekezdésben meghatározott kedvezmény és egyéb, törvény alapján járó foglalkoztatási célú járulékkedvezmény ugyanazon személy után, egyidejűleg nem vehető igénybe.
-
-(4) A kedvezmény jogosulatlan érvényesítése esetén a társadalombiztosítási járulék megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az Art. alapján kerül sor.
+(3) A kedvezmény jogosulatlan érvényesítése esetén a szociális hozzájárulási adó megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az Art. alapján kerül sor.
 
 A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
 
-8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint járulékkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 138. § (5) bek. a) pont] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt terhességi-gyermekágyi segélyben, gyermekgondozási segélyben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
+8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 138. § (5) bek. a) pont] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt terhességi-gyermekágyi segélyben, gyermekgondozási segélyben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
 
 a) a gyermekgondozási szabadságról visszatérő munkavállaló és emellett
 
@@ -156,27 +164,23 @@ ba) időtartama alatt e munkavállaló munkakörének ellátására létesített
 
 bb) lejártát követően vele azonos vagy hasonló munkakör ellátására létesített munkaviszonyban foglalkoztatott munkavállaló
 
-heti 20-20 órás részmunkaidős munkaviszony keretében látják el.
+heti 20–20 órás részmunkaidős munkaviszony keretében látják el.
 
-(2) A munkaadó – az (1) bekezdésben meghatározott mindkét munkavállaló után – a Tbj. 19. § (1) bekezdésében meghatározott mértékű társadalombiztosítási járulék helyett 20 százalékos mértékű társadalombiztosítási járulék fizetésére köteles (amelyből a nyugdíjbiztosítási járulék 18 százalék, az egészségbiztosítási és munkaerő-piaci járulék 2 százalék, az egészségbiztosítási és munkaerő-piaci járulékon belül a természetbeni egészségbiztosítási járulék 1 százalék, a pénzbeli egészségbiztosítási járulék 0,3 százalék, a munkaerő-piaci járulék 0,7 százalék).
+(2) A részkedvezmény egyenlő az (1) bekezdésben meghatározott két természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének hét százalékával. (3) Ugyanabban a munkakörben foglalkoztatott munkavállalók után részkedvezmény csak abban az esetben jár, ha az (1) bekezdésben meghatározott feltételek a gyermekgondozási szabadságról visszatérő munkavállaló munkába állását követően legalább 1 évig fennállnak. A kedvezmény az (1)–(4) bekezdésében meghatározott feltételek fennállása alatt, legfeljebb azonban 3 évig jár.
 
-(3) Ugyanabban a munkakörben foglalkoztatott munkavállalók után járulékkedvezmény csak abban az esetben jár, ha az (1) bekezdésben meghatározott feltételek a gyermekgondozási szabadságról visszatérő munkavállaló munkába állását követően legalább 1 évig fennállnak. A kedvezmény az (1)–(5) bekezdésében meghatározott feltételek fennállása alatt, legfeljebb azonban 3 évig jár.
+(3) Az adókedvezmény a munkaadót csak abban az esetben illeti meg, ha a létszámát a részmunkaidős foglalkoztatás kezdetét megelőző hónap átlagos statisztikai állományi létszámához képest növeli, és azt a részmunkaidős foglalkoztatás időtartama alatt nem csökkenti.
 
-(4) A járulékkedvezmény a munkaadót csak abban az esetben illeti meg, ha a létszámát a részmunkaidős foglalkoztatás kezdetét megelőző hónap átlagos statisztikai állományi létszámához képest növeli, és azt a részmunkaidős foglalkoztatás időtartama alatt nem csökkenti.
-
-(5) Nem minősül az állományi létszám csökkentésének, ha a létszám olyan munkavállalóval csökken, aki
+(4) Nem minősül az állományi létszám csökkentésének, ha a létszám olyan munkavállalóval csökken, aki
 
 a) a statisztikai előírások szerint nem tartozik az átlagos statisztikai állományi létszámba, vagy
 
 b) munkaviszonyát rendes vagy rendkívüli felmondással szüntette meg.
 
-(6) A járulékkedvezmény kedvezményezett munkavállalónként legfeljebb a kötelező legkisebb munkabér kétszeresének megfelelő járulékalap után érvényesíthető.
+(5) Ez a részkedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után egyidejűleg nem vehető igénybe.
 
-(7) E járulékkedvezmény és egyéb, törvény alapján járó foglalkoztatási célú járulékkedvezmény ugyanazon személy után egyidejűleg nem vehető igénybe.
+(6) A részkedvezmény jogosulatlan érvényesítése esetén azaz adó, befizetésére és bevallására, a bírság és pótlék megállapítására az Art. szabályai alapján kerül sor.
 
-(8) A járulékkedvezmény jogosulatlan érvényesítése esetén a társadalombiztosítási járulék megállapítására, befizetésére és bevallására, a bírság és pótlék megállapítására az Art. szabályai alapján kerül sor.
-
-(9) A járulékkülönbözet megtérítésére az 4/A. § (5) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(7) A részkedvezmény megtérítésére a 4/A. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 III/A. fejezet
 
@@ -281,22 +285,55 @@ ad ki.
 
 16. § Az ösztöndíjas foglalkoztatott foglalkoztatóját az ösztöndíjas START-kártyájának érvényességi ideje alatt megilleti a 4/A. §-ban meghatározott kedvezmény.
 
+### III/B. Fejezet — A megváltozott munkaképességű személyek foglalkoztatása
+
+16/A. § (1) Rehabilitációs kártyára az a megváltozott munkaképességű személy jogosult, akinek a rehabilitációs hatóság által végzett komplex minősítés szerint
+
+- a) foglalkoztathatósága rehabilitációval helyreállítható, vagy
+- b) tartós foglalkozási rehabilitációt igényel.
+
+(2) Rehabilitációs kártyára az a személy is jogosult, aki
+
+- a) 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, rendszeres szociális járadékban részesült, vagy
+- b) rehabilitációs járadékban részesül.
+
+(3) A rehabilitációs kártyára való jogosultság megszűnik, ha a rehabilitációs hatóság megállapítja, hogy az (1) bekezdés vagy a (2) bekezdés b) pontja szerinti feltétel nem teljesül.
+
+(4) A jogosult kérelmére a rehabilitációs hatóság gondoskodik a Rehabilitációs kártya igénylésével kapcsolatos eljárás megindításáról, ennek keretében adatot szolgáltat az állami adóhatóság részére a rehabilitációs kártyára való jogosultság fennállásáról.
+
+(5) A jogosult közli a rehabilitációs hatósággal az adóazonosító jelét, melyet a rehabilitációs hatóság kezelhet a Rehabilitációs kártyára való jogosultság fennállásával és megszűnésével kapcsolatos, az állami adóhatóság felé történő adatszolgáltatás céljából.
+
+(6) A Rehabilitációs kártya érvényességének
+
+- a) kezdő időpontja az a nap, amikor az állami adóhatóság a kártyát kiállította,
+- b) záró időpontja a kártya visszavonásának napja.
+
+(7) A rehabilitációs hatóság a Rehabilitációs kártyára való jogosultság megszűnése esetén gondoskodik a Rehabilitációs kártya visszavonásával kapcsolatos eljárás megindításáról, ennek keretében adatot szolgáltat az állami adóhatóság részére a jogosultság megszűnéséről, valamint a Rehabilitációs kártyát letétbe helyező munkaadó nevéről, adószámáról, székhelyéről, telephelyéről.
+
+(8) Az állami adóhatóság a Rehabilitációs kártyára való jogosultság megszűnése esetén a kártyát visszavonja. A Rehabilitációs kártyával rendelkező személy a visszavont kártyát az állami adóhatóságnak visszaszolgáltatja.
+
+(9) A Rehabilitációs kártyával kapcsolatos eljárások során az adózás rendjéről szóló törvény rendelkezéseit e törvény rendelkezései figyelembevételével kell alkalmazni.
+
+16/B. § (1) A munkaadó az őt az érvényes Rehabilitációs kártyával rendelkező megváltozott munkaképességű személlyel fennálló adófizetési kötelezettséget eredményező munkaviszonyra tekintettel terhelő számított adóból adókedvezményt vehet igénybe, melynek mértéke az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb a minimálbér kétszeresének 27 százaléka.
+
+(2) Az (1) bekezdés szerinti kedvezményre egy megváltozott munkaképességű személy után egyszerre csak egy munkaadó jogosult, és csak arra az időszakra, amelyben a Rehabilitációs kártyát letétben tartotta.
+
+(3) Ha az állami adóhatóság a Rehabilitációs kártyát visszavonja, erről értesíti a Rehabilitációs kártyát letétben tartó munkaadót. A munkaadó az értesítés átvételét követő naptól nem jogosult az (1) bekezdésben meghatározott kedvezményre.
+
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 17. § (1) E törvény 2005. január 1-jén lép hatályba.
 
-(2) Felhatalmazást kap az egészségbiztosítási járulékfizetés szabályozásáért felelős miniszter és a nyugdíjjárulék- és nyugdíjbiztosítási járulék-fizetés szabályozásáért felelős miniszter, hogy
+(2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy
 
-- a) az állami adóhatóság és a Munkaerőpiaci Alap, a Nyugdíjbiztosítási Alap, valamint az Egészségbiztosítási Alap közötti elszámolás tartalmát és részletes szabályait,
-- b) a START kártya, a START PLUSZ kártya és a START EXTRA kártya felhasználásának és – a (4) bekezdésben foglaltak kivételével – az azokhoz kapcsolódó járulékkedvezmény érvényesítésének részletes szabályait
-
-a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben megállapítsa.
+- a) az állami adóhatóság és Nemzeti Foglalkoztatási Alap, a Nyugdíjbiztosítási Alap, valamint az Egészségbiztosítási Alap közötti elszámolás tartalmát és részletes szabályait,
+- b) a START kártya, a START PLUSZ kártya, a START EXTRA kártya és a START BÓNUSZ kártya felhasználásának és – a (4) bekezdésben foglaltak kivételével – az azokhoz kapcsolódó szociális hozzájárulási kedvezmény érvényesítésének részletes szabályait a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben megállapítsa.
 
 (3) Felhatalmazást kap a Kormány, hogy a 8. § (1) bekezdésének a) pontjában meghatározott kistérségek, települések körét – a 2. számú mellékletben meghatározott szempontok alapján – rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap az egészségbiztosítási járulékfizetés szabályozásáért felelős miniszter, a nyugdíjjárulék- és nyugdíjbiztosítási járulékfizetés szabályozásáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter, hogy a 8–8/A. §-ban meghatározott járulékkedvezmények érvényesítésének és ellenőrzésének részletes feltételeit és szabályait, valamint az érvényesítés során elkövetett szabálytalanság jogkövetkezményeit rendeletben megállapítsa.
+(4) Felhatalmazást kap az adópolitikáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter, hogy a 8/A. §-ban meghatározott adókedvezmény érvényesítésének és ellenőrzésének részletes feltételeit és szabályait, valamint az érvényesítés során elkövetett szabálytalanság jogkövetkezményeit rendeletben megállapítsa.
 
-(5)
+(5) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért, a szociál- és nyugdíjpolitikáért, valamint az egészségbiztosítási járulék-fizetés szabályozásáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a Rehabilitációs kártya felhasználásának és az ehhez kapcsolódó kedvezmény érvényesítésének részletes szabályait.
 
 (6)
 

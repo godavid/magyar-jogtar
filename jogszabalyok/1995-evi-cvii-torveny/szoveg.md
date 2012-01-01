@@ -98,11 +98,11 @@ a büntetés-végrehajtási szervezetről
 
 (2) A gazdasági társaságok részére az elítéltek foglalkoztatásából eredő sajátos és indokolt többletkiadásokat – a mindenkori költségvetési törvényben meghatározott mértékben – a központi költségvetés megtéríti.
 
-9/A. § (1) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – az átadás-átvétel és az ellentételezés miniszteri rendeletben meghatározott rendje szerint – a büntetés-végrehajtási szervezetet a miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek részére ellátási kötelezettség terhelheti.
+9/A. § (1) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – az átadás-átvétel és az ellentételezés miniszteri rendeletben meghatározott rendje szerint – a büntetés-végrehajtási szervezetet a miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek részére ellátási kötelezettség terheli.
 
-(2) Az (1) bekezdés alapján miniszteri rendeletben meghatározott termékek és szolgáltatások tekintetében – az átadás-átvétel és az ellentételezés kormányrendeletben meghatározott rendje szerint – a büntetés-végrehajtási szervezetet kormányrendeletben meghatározott központi államigazgatási szervek és rendvédelmi szervek részére is ellátási kötelezettség terhelheti.
+(2) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – kormányrendeletben foglaltak szerint – a büntetés-végrehajtási szervezetet a Magyar Honvédség, a kormányrendeletben meghatározott központi államigazgatási szerv, az egészségügyért felelős miniszter irányítása alatt álló, az egészségügy területén működő országos intézet, az állam tulajdonába, illetve fenntartásába tartozó fekvőbeteg-szakellátás vagy fekvőbeteg- és hozzá kapcsolódó járóbeteg-szakellátást végző egészségügyi szolgáltató, valamint a szociál- és nyugdíjpolitikáért felelős miniszter irányítása és felügyelete alá tartozó szociális intézmény részére is ellátási kötelezettség terheli.
 
-(3) Az (1)–(2) bekezdésben meghatározott ellátási kötelezettség teljesítésére irányuló tevékenységét a büntetés-végrehajtási szervezet az Európai Bizottság által rendeletben megállapított, a közbeszerzési eljárásokban irányadó értékhatárt el nem érő beszerzések körében kizárólagos jog alapján végzi.
+(3) A büntetés-végrehajtási szervezetet nem terheli a (2) bekezdésben meghatározott ellátási kötelezettség a Magyar Honvédség tekintetében, ha a honvédelemért felelős miniszter rendelkezése alapján a Magyar Honvédség egyéb beszerzési eljárást folytat le.
 
 ### A bv. szervezet személyi állománya
 
@@ -344,22 +344,32 @@ alkalmazható.
 - c) telefonszámára és
 - d) kapcsolattartói minőségére.
 
-29. § (1) Az adatkezelő szerv a nyilvántartott adatokról és iratokról (a továbbiakban: adatok) teljes körű tájékoztatást ad
+29. § (1) Az adatkezelő szerv az általa kezelt adatokat továbbítja, valamint az iratokról teljes körű tájékoztatást ad
 
 - a) a miniszter,
 - b) a bíróság,
 - c) az ügyészség,
 - d) a rendőrség és az egyéb nyomozó hatóságok,
 - e) a nemzetbiztonsági szolgálatok,
-- f) az adatvédelmi biztos
+- f) a Nemzeti Adatvédelmi és Információszabadság Hatóság
 
 részére.
 
-(2) Az (1) bekezdésben nem említett állami szervek, nemzetközi és egyéb szervezetek, továbbá az állampolgárok részére — törvényben meghatározott esetben hivatalból, egyébként kérelemre — a feladataik ellátásához, illetve a jogaik érvényesítéséhez szükséges adatokról az adatkezelő szerv tájékoztatást ad.
+(2) Az (1) bekezdésben nem említett állami szervek, nemzetközi és egyéb szervezetek, továbbá az állampolgárok részére — törvényben meghatározott esetben hivatalból, egyébként kérelemre — a feladataik ellátásához, illetve a jogaik érvényesítéséhez szükséges adatokat az adatkezelő szerv továbbítja, valamint az iratokról tájékoztatást ad.
 
 (3) Az adatszolgáltatásra irányuló kérelemnek az adatkérés indokát, jogszabályi alapját, illetve az adatszolgáltatáshoz fűződő érdek igazolását kell tartalmaznia.
 
 (4) A fogvatartott adatai — személyazonosításra alkalmatlan módon — statisztikai és tudományos célra felhasználhatók.
+
+29/A. § (1) A büntetés-végrehajtási szervezet által kezelt személyes adat az Európai Unió tagállamai, valamint az Európai Unió által létrehozott nemzetközi bűnüldöző szervezetek részére az Európai Unió jogi aktusának végrehajtását szolgáló törvény, illetve két- vagy többoldalú nemzetközi szerződés alapján az e törvényben meghatározott célból adható át.
+
+(2) Amennyiben lehetséges, az adattovábbítás esetén csatolni kell azon információkat, amelyek lehetővé teszik az átvevő számára, hogy megítélje az adatok pontosságát, teljességét, naprakészségét és megbízhatóságát.
+
+(3) Az adattovábbítás során utalni kell a személyes adat kezelése során érvényesítendő korlátozásokra, valamint az adatkezelés adatkezelő szerv által meghatározott lehetséges időtartamára.
+
+(4) Harmadik ország hatósága, valamint az (1) bekezdésben megjelölt nemzetközi szervezeteken kívüli nemzetközi szervezet részére nemzetközi szerződés alapján az e törvényben meghatározott célból az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott feltételek fennállása esetén is csak akkor továbbítható személyes adat, ha a harmadik ország átvevő hatósága vagy az átvevő nemzetközi szerv feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása.
+
+(5) Az Európai Unió tagállamának illetékes hatósága, az Európai Unió által létrehozott nemzetközi bűnüldöző szervezet, illetve harmadik ország illetékes hatóságai, valamint az (1) bekezdésben megjelölt nemzetközi szervezeteken kívüli más nemzetközi szervezet által továbbított vagy hozzáférhetővé tett személyes adat harmadik ország, valamint az (1) bekezdésben megjelölt nemzetközi szervezeteken kívüli nemzetközi szervezet részére a (4) bekezdésben meghatározott feltételek megléte esetén akkor továbbítható, ha az adatot átadó hatóság, szervezet – nemzeti jogának, illetve nemzetközi szerződésben foglaltaknak megfelelően – hozzájárult az adat átadásához.
 
 30. § (1) A fogvatartott adatait a bv. szervezet, illetve az adatokról tájékoztatást kérő szervek, szervezetek és állampolgárok kizárólag a jogszabályban meghatározott feladataik törvényes ellátásához, illetve a kérelemben említett jog érvényesítéséhez használhatják fel.
 
@@ -371,7 +381,9 @@ részére.
 
 31. § Az adatkezelő szerv gondoskodik a nyilvántartott adatok védelméről, az arra jogosultak megfelelő tájékoztatásáról, az adatokhoz való illetéktelen hozzáférés, közlés, megváltoztatás vagy törlés megakadályozásáról.
 
-32. § A fogvatartottról felvett adatokat az adatkezelő szerv a büntetés, intézkedés végrehajtásától, vagy a végrehajthatóság megszűnésétől számított huszonöt évig köteles megőrizni.
+32. § (1) A fogvatartottról felvett adatokat az adatkezelő szerv a büntetés, intézkedés végrehajtásától vagy a végrehajthatóság megszűnésétől számított huszonöt évig köteles megőrizni.
+
+(2) A fogvatartott szabadulásakor a kapcsolattartó adatait a kapcsolattartók nyilvántartásából törölni kell.
 
 33. §
 
@@ -414,3 +426,7 @@ a kiadásait kell érteni.
 ### Hatálybalépés
 
 46. § Ez a törvény a kihirdetését követő harmadik hónap első napján lép hatályba.
+
+### Az Európai Unió jogának való megfelelés
+
+47. § E törvény 29. §-a, 29/A. §-a és 32. §-a a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározatnak való megfelelést szolgálja.

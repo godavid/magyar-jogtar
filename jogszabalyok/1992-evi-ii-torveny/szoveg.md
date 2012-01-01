@@ -89,7 +89,7 @@ amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától szám�
 - b) e földeken, valamint a szövetkezet közös használatában álló földeken belül az azonos művelési ágú, illetve a művelés alól kivett területek mennyisége arányaiban feleljen meg egymásnak;
 - c) e földek egy hektárra vonatkozó összesített átlagos AK értéke, legfeljebb tízszázalékos eltéréssel, feleljen meg a részarány-földtulajdonosok tulajdonaként nyilvántartott földek egy hektárra számított átlagos AK értékének.
 
-(3) Ha a tulajdonosnak az e törvény és a Kpt. alapján többféle jogcímen és földalapból keletkezett részerány-tulajdona van, a részarány-tulajdonokat az illetékes földhivatal a tulajdonos kezdeményezésére – az ingatlannyilvántartás szabályainak figyelembevételével – összevonja.
+(3) Ha a tulajdonosnak az e törvény és a Kpt. alapján többféle jogcímen és földalapból keletkezett részerány-tulajdona van, a részarány-tulajdonokat az ingatlanügyi hatóság a tulajdonos kezdeményezésére – az ingatlannyilvántartás szabályainak figyelembevételével – összevonja.
 
 15. § (1) A 13. § (3) bekezdésének a), b) és d) pontjában meghatározott földeket a 14. §-ban meghatározottakon túlmenően úgy kell kijelölni, hogy
 
@@ -125,30 +125,32 @@ amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától szám�
 
 (3) A fórum munkájában a helyi önkormányzat(ok) megbízottja(i), a kárpótlási igényt bejelentők közül a képviselő-testület által megválasztott 3—11 személy, a szövetkezet megbízottja és a részarány-földtulajdonosok képviselője vesz részt. A fórumban a nem helyben lakók képviseletét is biztosítani kell.
 
-(4) A fórum ügyrendjét maga állapítja meg, működési feltételeit a megalakító önkormányzat biztosítja az állami költségvetés terhére.
+(4) A fórum ügyrendjét maga állapítja meg, működési feltételeit a megalakító önkormányzat biztosítja a központi költségvetés terhére.
 
 21. § (1) A szövetkezet a 13. § szerinti földalapok elkülönítésének tervezetét a Kpt. 15. §-a (1) bekezdésében meghatározott kötelezettségének megfelelően — az értesítéstől számított harminc napon belül — köteles a fórumnak véleményezésre megküldeni, amely nyolc napon belül tehet észrevételt a tervezetre.
 
-(2) A szövetkezet az (1) bekezdés szerinti tervezet elkészítése során összeállítja a kijelölt földrészletek (táblák) jegyzékét és azokat a földhivatal által előzetes rendelkezésre bocsátott 1:10 000 méretarányú átnézeti térképen ábrázolja.
+(2) A szövetkezet az (1) bekezdés szerinti tervezet elkészítése során összeállítja a kijelölt földrészletek (táblák) jegyzékét és azokat az ingatlanügyi hatóság által előzetes rendelkezésre bocsátott 1:10 000 méretarányú átnézeti térképen ábrázolja.
 
-(3) Ha a szövetkezet nem ért egyet a fórum észrevételével, a felek az észrevétel közlésétől számított nyolc napon belül megkísérlik az egyezség létrehozását. A megkötött egyezséget meg kell küldeni jóváhagyás végett a szövetkezet székhelye szerint illetékes megyei kárrendezési hivatalnak.
+(3) Ha a szövetkezet nem ért egyet a fórum észrevételével, a felek az észrevétel közlésétől számított nyolc napon belül megkísérlik az egyezség létrehozását. A megkötött egyezséget meg kell küldeni jóváhagyás végett a kárpótlási hatósághoz.
 
-(4) Ha a (3) bekezdésben említett egyezség nem jött létre, akkor a szövetkezet az egyezségkötésre nyitva álló határidő utolsó napjától számított nyolc napon belül köteles a tervezetet és az észrevételeket megküldeni a székhelye szerint illetékes megyei kárrendezési hivatalnak.
+(4) Ha a (3) bekezdésben említett egyezség nem jött létre, a szövetkezet az egyezségkötésre nyitva álló határidő utolsó napjától számított nyolc napon belül a tervezetet és az észrevételeket a kárpótlási hatóságnak megküldi.
 
-(5) A kárrendezési hivatal az észrevételek alapján tizenöt napon belül határozatot hoz, amelyben
+(5) A kárpótlási hatóság az észrevételek alapján a (4) bekezdés szerinti dokumentumok benyújtásától számított tizenöt napon belül határozatot hoz, amelyben
 
 - a) helybenhagyja a szövetkezet által készített tervezetet, vagy
-- b) megállapítja, hogy a tervezet sérti a Kpt. és e törvény földkijelölésre vonatkozó szabályait, és megfelelő határidő kitűzésével kötelezi a szövetkezetet a törvénysértés megszüntetésére.
+- b) megállapítja, hogy a tervezet sérti a Kpt. és e törvény földkijelölésre vonatkozó szabályait, és megfelelő határidő kitűzésével a szövetkezetet a törvénysértés megszüntetésére kötelezi.
 
 (6)
 
-(7) A határozat ellen a szövetkezet, illetve a fórum vagy a részarány-földtulajdonosok képviselője fellebbezhet az Országos Kárrendezési és Kárpótlási Hivatalhoz. Ha a Hivatal jogerős határozatának bírósági felülvizsgálását kérik, a bíróság a határozatot megváltoztathatja. (8) Ha a szövetkezet a jogerős határozatban foglaltaknak az előírt határidőn belül nem tesz eleget, a kijelölést a határozat alapján a szövetkezet költségére a földhivatal végzi el.
+(7) A határozat ellen a szövetkezet, illetve a fórum vagy a részarány-földtulajdonosok képviselője nyújthat be fellebbezést az igazságügyért felelős miniszterhez. Ha az igazságügyért felelős miniszter jogerős határozatának bírósági felülvizsgálását kérik, a bíróság a határozatot megváltoztathatja.
 
-22. § Ha a szövetkezet közös használatában lévő földek AK értéke kisajátítás, nem értékarányos földcsere, művelési ág változás vagy más ok miatt kevesebb mint a részarány-földtulajdonosot az ingatlannyilvántartás szerint megillető AK érték, ez utóbbi AK értéket és a tulajdonként kimutatott területnagyságot a tényleges állapotnak megfelelően tulajdonosonként arányosan csökkenteni, és erről a földhivatalt értesíteni kell. A részarány-földtulajdonost — legfeljebb 2000 Ft/AK érték alapulvételével, a szövetkezet választása szerint készpénzben vagy szövetkezeti üzletrész formájában — kártalanítani kell.
+(8) Ha a szövetkezet a jogerős határozatban foglaltaknak az előírt határidőn belül nem tesz eleget, a kijelölést a határozat alapján a szövetkezet költségére az ingatlanügyi hatóság végzi el.
 
-23. § (1) A szövetkezet köteles a földkijelölés egyeztetett (megállapított) tervezetét a székhelye szerint illetékes megyei (fővárosi) kárrendezési hivatalhoz, továbbá a földhivatalhoz haladéktalanul megküldeni.
+22. § Ha a szövetkezet közös használatában lévő földek AK értéke kisajátítás, nem értékarányos földcsere, művelési ág változás vagy más ok miatt kevesebb mint a részarány-földtulajdonosot az ingatlannyilvántartás szerint megillető AK érték, ez utóbbi AK értéket és a tulajdonként kimutatott területnagyságot a tényleges állapotnak megfelelően tulajdonosonként arányosan csökkenteni, és erről az ingatlanügyi hatóságot értesíteni kell. A részarány-földtulajdonost — legfeljebb 2000 Ft/AK érték alapulvételével, a szövetkezet választása szerint készpénzben vagy szövetkezeti üzletrész formájában — kártalanítani kell.
 
-(2) A földhivatal a részére megküldött térkép és táblakijelölés alapján — az állami költségvetés célelőirányzatából — gondoskodik az árverésre kijelölt táblák földmérési és földminősítési szempontú előkészítéséről. Ennek során a helyszínen ellenőrzi a kijelölt táblák adatainak az ingatlannyilvántartás adataival való megegyezését, és érvényesíti a földminőségben és a művelési ágban bekövetkezett — a gazdálkodó szerv által be nem jelentett — változásokat.
+23. § (1) A szövetkezet a földkijelölés egyeztetett (megállapított) tervezetét a kárpótlási hatóságnak, továbbá az ingatlanügyi hatóságnak haladéktalanul megküldi.
+
+(2) Az ingatlanügyi hatóság a részére megküldött térkép és táblakijelölés alapján — a központi költségvetés célelőirányzatából — gondoskodik az árverésre kijelölt táblák földmérési és földminősítési szempontú előkészítéséről. Ennek során a helyszínen ellenőrzi a kijelölt táblák adatainak az ingatlannyilvántartás adataival való megegyezését, és érvényesíti a földminőségben és a művelési ágban bekövetkezett — a gazdálkodó szerv által be nem jelentett — változásokat.
 
 24. § A szövetkezet közös használatából kikerült erdőben és legelőn — ha jogszabály másként nem rendelkezik — osztatlan közös gazdálkodást kell folytatni.
 

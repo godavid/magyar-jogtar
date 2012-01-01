@@ -8,57 +8,253 @@ Az Országgyűlés Magyarország címerének és zászlajának használatát a n
 
 #### 1. A címer
 
-#### 1–5. §
+1. § (1) Magyarország címerét (a továbbiakban: címer) az Országgyűlés, az országgyűlési képviselő, a köztársasági elnök, az Alkotmánybíróság, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék, a Magyar Nemzeti Bank, a Kormány tagja, a központi államigazgatási szervek, a Magyar Honvédség, a bíróság, az Országos Bírósági Hivatal, az ügyészség és a közigazgatási feladatot ellátó szervek, továbbá ezek hivatalai, a helyi önkormányzat, a nemzetiségi önkormányzat, a köztestületek, valamint a felsoroltak képviseletére jogosult személyek a hivatali feladataik ellátása során engedély nélkül használhatják, továbbá helyezhetik el az épületeiken és helyiségeikben.
+
+(2) A köztársasági elnök a két angyallal mint pajzstartóval ellátott, a miniszterelnök a cserfaággal és olajággal övezett címer használatára is jogosult.
+
+(3) Az (1) bekezdés hatálya alá nem tartozó költségvetési szervek címerhasználatának eseteit, illetőleg a címernek e szervek épületein, helyiségeiben való elhelyezését a tevékenységi körük szerint feladatkörrel rendelkező miniszter rendeletben határozza meg.
+
+2. § (1) A Magyar Közlöny címfeliratán a címert fel kell tüntetni.
+
+(2) A címert a bankjegyen fel kell tüntetni, az állampapíron és a pénzérmén fel lehet tüntetni.
+
+3. § Az 1. §-ban megjelölt szerv, illetve személy által használt címeres körbélyegzőn a címer körül a szerv nevét, illetve a címert használó személy hivatalának (tisztségének) megnevezését fel kell tüntetni.
+
+4. § (1) A helyi önkormányzat és a nemzetiségi önkormányzat címerének Magyarország címerétől jól megkülönböztethetőnek kell lennie.
+
+(2) A helyi önkormányzati és a nemzetiségi önkormányzati címerek szakszerű és a címertani hagyományoknak megfelelő megalkotásának elősegítése érdekében a Kormány Nemzeti Címer Bizottságot (a továbbiakban: Bizottság) működtet. A helyi önkormányzat és a nemzetiségi önkormányzat a címerének megalkotása vagy módosítása előtt kikéri a Bizottság véleményét.
+
+(3) Ha a címer vagy a címeres körbélyegző használata kötelező, a helyi önkormányzati címer vagy címeres körbélyegző egyidejűleg nem használható.
+
+5. § (1) Természetes személy a foglalkozásának, hivatásának gyakorlása során, jogi személy vagy jogi személyiség nélküli szervezet – az 1. §-ban említett szerveken és személyeken kívül – a tevékenysége során, szervezeti jelképként vagy ennek részeként a címert nem használhatja. Törvény vagy törvény felhatalmazása alapján jogszabály személy vagy személyek meghatározott csoportja tekintetében ettől eltérően rendelkezhet.
+
+(2) Az (1) bekezdést kell alkalmazni – a Magyar Közlöny kivételével – a sajtótermékek címfeliratára is.
+
+(3) Az (1) és (2) bekezdést a címer elkülöníthető elemeire (Szent Korona, címerpajzs) is alkalmazni kell.
+
+(4) A nem állami szervek miniszteri rendeletben meghatározott esetekben a feladatkörükben kiadott okiratokon a címert és a címeres körbélyegzőt kötelesek használni.
 
 #### 2. A zászló és a lobogó
 
-#### 6–8. §
+6. § A nemzeti ünnepeken Magyarország lobogóját (a továbbiakban: lobogó) ünnepélyes keretek között, katonai tiszteletadással az Országház előtt fel kell vonni.
+
+7. § (1) Azokon a középületeken, vagy azok előtt, amelyeket
+
+- a) az Országgyűlés,
+- b) a köztársasági elnök,
+- c) az Alkotmánybíróság, a bíróságok, az Országos Bírósági Hivatal és az ügyészségek,
+- d) az Állami Számvevőszék, a Magyar Nemzeti Bank, az alapvető jogok biztosa,
+- e) a központi államigazgatási szervek,
+- f) a Magyar Honvédség,
+- g) az a)–f) pontban nem szereplő állami szervek, a helyi önkormányzatok képviselő-testületei, valamint az állam, illetve a helyi önkormányzat által fenntartott, közfeladatokat ellátó intézmények
+
+a feladatuk ellátása során használnak, Magyarország zászlaját (a továbbiakban: zászló) vagy a lobogót állandó jelleggel ki kell tűzni, illetve fel kell vonni.
+
+(2) Ha az (1) bekezdésben felsorolt szerv több épületben fejti ki tevékenységét, a zászló (lobogó) elhelyezésének kötelezettsége a központi épületre irányadó.
+
+(3) Az Országgyűlés, az Alkotmánybíróság és a Kúria épületére, illetve épülete előtt, továbbá a köztársasági elnök és a miniszterelnök hivatali épületére, illetve épülete előtt elhelyezett zászlót (lobogót) napnyugtától napkeltéig meg kell világítani.
+
+(4) Szélsőséges időjárási viszonyok között – annak időtartamára – a szerv vezetője elrendelheti a zászló bevonását, illetőleg a lobogó levonását. Ez a rendelkezés az Országgyűlés, az Alkotmánybíróság és a Kúria épülete, valamint a köztársasági elnök és a miniszterelnök hivatali épülete tekintetében, továbbá nemzeti ünnepek idején nem alkalmazható.
+
+(5) A helyi önkormányzat képviselő-testülete kormányrendeletben megállapított előírások és feltételek szerint a helyi önkormányzat közigazgatási területén Országzászló felállításáról dönthet.
+
+(6) A közterületeket a nemzeti ünnepeken önkormányzati rendeletben meghatározott módon fel kell lobogózni.
+
+8. § A magyar tengeri és folyami hajók, továbbá egyéb vízi járművek az állami felségjog jelzésére a lobogót használják a hajózásról szóló nemzetközi szerződések irányadó rendelkezéseivel összhangban.
 
 #### 3. A címer és a zászló engedélyhez kötött használata
 
-#### 9–10. §
+9. § (1) Nemzetközi vásáron (különösen kiállításon, árubemutatón), nemzetközi kulturális vagy társadalmi jellegű rendezvényen az ilyen esemény rendezésére vagy azon hivatalos részvételre jogosultak részére a címer eseti használatát a kormányzati tevékenység összehangolásáért felelős miniszter engedélyezheti, ha a jogosult az esemény rendezéséhez vagy azon való részvételhez állami támogatásban részesült, és a nemzetközi vásár, rendezvény, valamint a rendező vagy a részvételre jogosult tevékenységének jelentősége a címer használatát indokolja.
+
+(2) A kormányzati tevékenység összehangolásáért felelős miniszter az (1) bekezdés szerinti engedély megadása előtt kikéri
+
+- a) nemzetközi vásár (különösen kiállítás, árubemutató) esetén a külpolitikáért felelős miniszter,
+- b) nemzetközi kulturális vagy társadalmi rendezvény esetén a külpolitikáért felelős miniszter és a rendezvény jellege szerint feladatkörrel rendelkező miniszter
+
+véleményét.
+
+10. § (1) A címert vagy a zászlót tartalmazó védjegy vagy ilyen formatervezési minta oltalmának megadásához szükséges engedély megadásáról – kérelemre, a védjegybejelentésben megjelölt árujegyzék szerinti áruk, szolgáltatások, illetve a minta szerinti termék tekintetében feladatkörrel rendelkező miniszter véleményének kikérése után – a kormányzati tevékenység összehangolásáért felelős miniszter dönt. A kérelem elbírálása során a kormányzati tevékenység összehangolásáért felelős miniszter mérlegeli, hogy az áru, szolgáltatás sajátos nemzeti jellege, a kérelmező tevékenységének nemzetgazdasági jelentősége és kiviteli nagyságrendje indokolttá teszi-e a címernek vagy a zászlónak a védjegy vagy formatervezési mintaoltalom részeként való használatát.
+
+(2) Az (1) bekezdés alkalmazásában a nemzeti színek használata engedélyhez nem kötött, ha az ábrázolás nem minősül címer- vagy zászlóhasználatnak.
 
 #### 4. A címer és a zászló engedélyhez nem kötött használata
 
-#### 11. §
+11. § (1) A nemzethez tartozás kinyilvánítása céljából magánszemély a címert és a zászlót (lobogót) az e törvényben foglalt korlátozások megtartásával használhatja.
+
+(2) A címernek és a zászlónak (lobogónak) a nemzeti ünnepek, az ezekhez kapcsolódó és egyéb társadalmi (különösen politikai, gazdasági, tudományos) rendezvény, nemzeti jellegű más megemlékezés, valamint katonai tiszteletadás alkalmával történő eseti használata megengedett.
+
+(3) A címerrel ellátott zászló, lobogó használata az (1) és (2) bekezdés szerinti esetekben megengedett.
 
 #### 5. Közös szabályok
 
-#### 12. §
+12. § A címer és a zászló (lobogó) használata során mindenki köteles megőrizni azok tekintélyét és méltóságát.
 
 ### II. Fejezet — AZ ÁLLAMI KITÜNTETÉSEK
 
-#### 13–20. §
+13. § Magyarország Országgyűlése az állami szuverenitásból következően a kimagasló teljesítmények megbecsülésére és elismerésére az alábbi állami kitüntetéseket és rendjeleket (a továbbiakban: állami kitüntetések) alapítja, illetve megújítja:
+
+- a) Magyar Szent István Rend;
+- b) Magyar Corvin-lánc;
+- c) Magyar Becsület Rend;
+- d) Magyar Érdemrend és Magyar Érdemkereszt.
+
+14. § A Magyar Szent István Rend (a továbbiakban: Szent István Rend) – a Mária Terézia magyar királynő által 1764. május 5-én alapított Szent István Rend megújításaként – Magyarország érdekében tett legkiemelkedőbb különleges érdemek, kimagasló életművek, nemzetközi téren szerzett jelentős értékek elismerésére szolgál.
+
+15. § (1) A Magyar Corvin-lánc (a továbbiakban: Corvin-lánc) a magyar tudomány és művészet, valamint a magyar oktatás és művelődés fellendítése terén szerzett kimagasló érdemek elismerésére szolgál.
+
+(2) A Corvin-lánc kitüntetéssel adományozottak alkotják a Magyar Corvin-lánc Testületet (a továbbiakban: Corvin-lánc Testület).
+
+(3) A Corvin-lánccal kapcsolatos feladatokat a Miniszterelnökség keretében működő Magyar Corvin-lánc Iroda (a továbbiakban: Corvin-lánc Iroda) látja el.
+
+16. § A Magyar Becsület Rend Magyarország és a nemzet érdekében teljesített kiemelkedő szolgálat vagy tanúsított hősiesség elismerésére szolgál.
+
+17. § A Magyar Érdemrend és Magyar Érdemkereszt a nemzet szolgálatában, az ország fejlődésének elősegítésében, a haza érdekeinek előmozdításában és az egyetemes emberi értékek gyarapításában végzett kimagasló, példamutató tevékenység elismerésére szolgál.
+
+18. § (1) Magyarország állami kitüntetéseit a miniszterelnök előterjesztésére a köztársasági elnök adományozza.
+
+(2) A Magyar Érdemkereszt adományozására a miniszter tesz javaslatot a miniszterelnöknek az előterjesztésre.
+
+(3) Külföldi állampolgár esetében a külpolitikáért felelős miniszter tesz javaslatot a miniszterelnöknek az előterjesztésre.
+
+(4) Magyar állampolgár számára külföldi állami kitüntetés viselését a külpolitikáért felelős miniszter előterjesztése alapján a köztársasági elnök megtilthatja.
+
+(5) Annak, akit bűncselekmény elkövetése miatt jogerősen elítéltek – függetlenül attól, hogy az elítéléshez fűződő jogkövetkezmények alól mentesült-e –, csak kivételes méltánylást érdemlő esetben lehet kitüntetést adományozni.
+
+19. § (1) Az állami kitüntetéseket a köztársasági elnök vagy személyes megbízottja adja át ünnepélyes körülmények között.
+
+(2) A kitüntetett az adományozást igazoló okiratot és igazolványt kap.
+
+(3) Az állami kitüntetések adományozásáról szóló határozatot a Magyar Közlönyben közzé kell tenni.
+
+(4) A miniszterelnöki előterjesztéssel kapcsolatos teendőket a Miniszterelnökség látja el. Az állami kitüntetések adományozásával összefüggő további teendőket a Köztársasági Elnöki Hivatal látja el, az ezekkel összefüggő kiadások fedezetét a Köztársasági Elnöki Hivatal költségvetésében kell biztosítani.
+
+20. § Az állami kitüntetésekre és adományozásuk előkészítésére vonatkozó alapvető közös szabályokat az 1. melléklet, az egyes állami kitüntetésekkel kapcsolatos részletes szabályokat a 2. melléklet tartalmazza.
 
 ### III. Fejezet — EGYÉB DÍJAK, ELISMERÉSEK
 
-#### 21–23. §
+21. § A Kormány
+
+- a) díjat alapíthat és adományozhat azok elismerésére, akik Magyarország hírnevének öregbítése, a reális és korszerű Magyarország-kép kialakítása és terjesztése érdekében kiemelkedő tevékenységet folytatnak;
+- b) művészeti díjat alapíthat és adományozhat;
+- c) életmentő emlékérmet alapíthat és adományozhat az életmentés során tanúsított hősies magatartás elismerésére.
+
+22. § (1) A feladatkörével összefüggő egyes kiemelkedő tevékenységek, teljesítmények elismerésére kitüntető címet, díjat, oklevelet, plakettet vagy más elismerést (a továbbiakban: elismerés) alapíthat és adományozhat
+
+- a) a köztársasági elnök, az Alkotmánybíróság elnöke, az Országgyűlés elnöke, az alapvető jogok biztosa, az Országos Bírói Tanács, az Állami Számvevőszék elnöke, a legfőbb ügyész, az autonóm államigazgatási szerv vezetője,
+- b) a Kormány tagja,
+- c) a Magyar Nemzeti Bank elnöke, az önálló szabályozó szerv vezetője,
+- d) a helyi önkormányzat képviselő-testülete.
+
+(2) Az (1) bekezdés szerinti elismerés elnevezésében és külső formájában nem hasonlíthat az állami kitüntetésekhez, valamint a Kossuth-díjhoz és a Széchenyi-díjhoz.
+
+23. § (1) A 22. § (1) bekezdése szerint elismerés alapítására és adományozására jogosult elismerést akkor adományozhat, ha
+
+- a) az elismerés elnevezését, fajtáit (osztályait),
+- b) az elismerésben részesíthető személyek körét,
+- c) az évente adományozható elismerések számát,
+- d) az elismerés adományozásának feltételeit és rendjét, valamint
+- e) az elismerés leírását
+
+a 22. § (1) bekezdés b)–d) pontja szerinti jogosult rendeletben meghatározta, illetve a 22. § (1) bekezdés a) pontja szerinti jogosult a Hivatalos Értesítőben közzétette.
+
+(2) A 21–22. § szerinti elismerést az adományozásra jogosult egyedi határozattal adományozza. Az adományozásról szóló közleményt – a 22. § (1) bekezdés d) pontja szerinti jogosult által kiadott határozat kivételével – a Hivatalos Értesítőben közzé kell tenni.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-#### 24. §
+24. § (1) Felhatalmazást kap a Kormány, hogy
+
+- a) a 7. §-ban felsoroltak zászló- és lobogóhasználata esetére a zászló (lobogó), illetve a lobogó felvonására szolgáló árboc lehetséges méreteit és más jellemzőit, továbbá azok gondozására, cseréjére vonatkozó követelményeket, valamint
+- b) a helyi önkormányzat képviselő-testületének döntése alapján felállításra kerülő Országzászlóra vonatkozó előírásokat és feltételeket,
+- c) a Nemzeti Címer Bizottság tagjaira, működésére, feladataira és eljárására vonatkozó előírásokat
+
+rendeletben szabályozza.
+
+(2) Felhatalmazást kap a Kormány, hogy rendeletben
+
+- a) díjat alapítson azok elismerésére, akik Magyarország hírnevének öregbítése, a reális és korszerű Magyarország-kép kialakítása és terjesztése érdekében kiemelkedő tevékenységet folytatnak, és meghatározza az adományozás feltételeit és szabályait,
+- b) művészeti díjat alapítson, és meghatározza az adományozás feltételeit és szabályait,
+- c) életmentő emlékérmet alapítson, és meghatározza az adományozás feltételeit és szabályait,
+- d) állapítsa meg az e törvény, a Kormány és a miniszterelnök által alapított kitüntetések, díjak adományozására vonatkozó részletes eljárási szabályokat, valamint
+- e) állapítsa meg a Corvin-lánc adományozásával, a Corvin-lánccal kapcsolatos jogosultságokkal, kötelezettséggel és feladatokkal, valamint a Corvin-lánc Testülettel és a Corvin-lánc Irodával kapcsolatos részletes szabályokat.
+
+(3) Felhatalmazást kapnak a miniszterek, hogy rendeletben szabályozzák
+
+- a) az 1. § (3) bekezdésében megjelölt költségvetési szervek címerhasználatát,
+- b) a nem állami szervek által feladatkörükben kiadott okiratokon a címer és a címeres körbélyegző kötelező használatát.
+
+(4) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben szabályozza a címert vagy a zászlót tartalmazó védjegy és formatervezési minta oltalmának megadásához szükséges engedély megadásának részletes feltételeit és az engedélyezés különös eljárási szabályait.
+
+(5) Felhatalmazást kap a települési önkormányzat – Budapesten a fővárosi önkormányzat – képviselő-testülete, hogy a közterületeknek a nemzeti ünnepeken történő fellobogózását rendeletben szabályozza.
+
+(6) Felhatalmazást kap a Kormány tagja, hogy rendeletben szabályozza az elismerés alapítását, az elismerés elnevezését, fajtáit, az elismerésben részesíthető személyek körét, az évente adományozható elismerések számát, az elismerés leírását, az adományozás feltételeit és rendjét, valamint az elismerés viselésének rendjét, továbbá a díjjal járó jutalom mértékét, formáját és járadék esetében annak időtartamát.
+
+(7) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy rendeletben szabályozza az elismerés alapítását, az elismerés elnevezését, fajtáit, az elismerésben részesíthető személyek körét, az évente adományozható elismerések számát, az elismerés leírását, az adományozás feltételeit és rendjét, valamint az elismerés viselésének rendjét, továbbá a díjjal járó jutalom mértékét, formáját és járadék esetében annak időtartamát.
+
+(8) Felhatalmazást kap az önálló szabályozó szerv vezetője, hogy rendeletben szabályozza az elismerés alapítását, az elismerés elnevezését, fajtáit, az elismerésben részesíthető személyek körét, az évente adományozható elismerések számát, az elismerés leírását, az adományozás feltételeit és rendjét, valamint az elismerés viselésének rendjét, továbbá a díjjal járó jutalom mértékét, formáját és járadék esetében annak időtartamát.
+
+(9) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben szabályozza az elismerés alapítását, az elismerés elnevezését, fajtáit, az elismerésben részesíthető személyek körét, az évente adományozható elismerések számát, az elismerés leírását, az adományozás feltételeit és rendjét, valamint az elismerés viselésének rendjét, továbbá a díjjal járó jutalom mértékét, formáját és járadék esetében annak időtartamát.
 
 25. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) Az 1–24. §, a 26. §, a 27. §, a 28. § (1) bekezdése, valamint a 29–32. § 2012. január 1. napján lép hatályba.
 
-#### 26–27. §
+26. § Az e törvény hatálybalépését megelőzően adományozott kitüntetések és elismerések tovább viselhetők, kivéve a Munkás-Paraszt Hatalomért Érdemérmet, az 1956 után adományozott Szabadság Érdemrendet, valamint azokat a kitüntetéseket, amelyeknek viselését jogszabály megtiltotta.
 
-28. § (1)
+27. § (1) Az I. és II. Fejezet, a 24. § (1) bekezdése, a 24. § (2) bekezdés d) és e) pontja, a 24. § (3)–(5) bekezdése, a 25. §, a 26. § és a 31. § az Alaptörvény I) cikk (4) bekezdése alapján sarkalatosnak minősül.
 
-(2) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 81. § (2) bekezdése a következő o) ponttal kiegészülve lép hatályba:
+(2) A 28. § (2) bekezdése az Alaptörvény 45. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
-(Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza)
+28. § (1) A polgári perrendtartásról szóló 1952. évi III. törvény 326. § (12) bekezdés l) pontja helyébe a következő rendelkezés lép:
 
-„o) a katonai jelképek leírását, adományozását és használatát.”
+[Az illetékesség megállapításánál a (2) és (5) bekezdés szabályait kell alkalmazni a következő törvények alapján indult felülvizsgálati eljárásokban:]
 
-#### 29–32. §
+„l) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény,”
 
-33. § (1) Nem lép hatályba a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény és egyes kapcsolódó törvények módosításáról szóló 2011. évi CXLI. törvény 54. §-a.
+(2)
 
-(2) Nem lép hatályba az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 268. § 1. pontjában a „4. § (3) bekezdésében,” szövegrész.
+29. § (1) A Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény 4/A. §-ában a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvénynek a Magyar Köztársaság Érdemrendje” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénynek a Magyar Érdemrend” szöveg lép.
 
-(3) Nem lép hatályba a sportról szóló 2004. évi I. törvény módosításáról szóló 2011. évi CLXXII. törvény 35. §-ának a sportról szóló 2004. évi I. törvény 38. § (1) bekezdését megállapító rendelkezésében az „A MOB jogosult Magyarország címerének és zászlajának használatára.” szövegrész.
+(2) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 63. § (2) bekezdésében a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény” szöveg lép.
+
+(3) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 122. § (1) bekezdés e) pontjában a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvénnyel” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel” szöveg lép.
+
+(4) A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 287. § (2) bekezdés a) pontjának ac) alpontjában a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény” szöveg lép.
+
+(5) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 342. § (2) bekezdés 5. pontjában a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény” szöveg lép.
+
+30. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4.6. pontjában a „Magyar Köztársasági Érdemrend és Érdemkereszt tárgyiasult formája” szövegrész helyébe a „Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája” szöveg lép.
+
+31. § Hatályát veszti
+
+- a) a Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény,
+- b) a Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény módosításáról szóló 2000. évi XXXVIII. törvény,
+- c) a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény,
+- d) az 1956-os Emlékérem és Emléklap alapításáról szóló 1991. évi XLIII. törvény,
+- e) a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló 2/2001. (VIII. 14.) ME rendelet,
+- f) a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény, valamint a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény módosításáról szóló 2000. évi XI. törvény.
+
+32. § (1) Hatályát veszti
+
+- a) a nemzeti szabványosításról szóló 1995. évi XXVIII. törvény 7. § (3) bekezdése,
+- b) a szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény 28. § (3) bekezdése,
+- c) a Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény 1. § (6) bekezdése,
+- d) az igazságügyi szakértői kamaráról szóló 1995. évi CXIV. törvény 5. § (4) bekezdése és 14. § (3) bekezdése,
+- e) a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 2. § (5) bekezdése,
+- f) az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 1. § (6) bekezdése,
+- g) az ügyvédekről szóló 1998. évi XI. törvény 109. § (5) bekezdése,
+- h) a gazdasági kamarákról szóló 1999. évi CXXI. törvény 6. § (2) bekezdése,
+- i) a Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 1. § (6) bekezdése,
+- j) a tankönyvpiac rendjéről szóló 2001. évi XXXVII. törvény 14. § (3) bekezdése,
+- k) a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló 2005. évi LXXVIII. törvény 4. § (4) bekezdése,
+- l) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 4. § (3) bekezdése.
+
+(2) Hatályát veszti
+
+- a) a közjegyzőkről szóló 1991. évi XLI. törvény 14. § (1) bekezdésében a „jogosultak az állami címer használatára” szövegrész,
+- b) a sportról szóló 2004. évi I. törvény 38. § (1) bekezdésében az „A MOB jogosult a Magyar Köztársaság címerének és zászlajának használatára.” szövegrész, 40. § (1) bekezdésében az „Az MPB jogosult a Magyar Köztársaság címerének és zászlajának használatára.” szövegrész,
+- c) a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 36. § (5) bekezdésében az „Az országos szervezet jogosult a Magyar Köztársaság címerének használatára.” szövegrész.
+
+#### 33. §
 
 ### 1. melléklet a 2011. évi CCII. törvényhez
 

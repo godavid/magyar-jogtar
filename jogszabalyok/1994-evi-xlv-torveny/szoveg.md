@@ -25,7 +25,7 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 - d) kötelező katonai előképzés: leventekötelezettség teljesítése;
 - e) légitámadás és hadművelet: az ország területén vagy azon kívül lezajló légitámadás (beleértve a levegőből vagy a levegőben bekövetkező bármely légicsapást), illetőleg a következményeinek felszámolásával kapcsolatos tevékenység, továbbá bármely hadművelet (harci cselekmény);
 - f) visszamaradt robbanóanyag felrobbanása: a háborúból, megszállásból, fegyveres konfliktusokból vagy ezekkel összefüggésben egyéb módon visszamaradt, illetőleg akár a megszállók, akár a magyar fegyveres alakulatok által elhagyott robbanóanyag vagy robbanó szerkezet felrobbanása, kivéve, ha a robbanás hivatásszerűen (tűzszerész) végzett mentesítés során történt;
-- g) hadieredetű fogyatkozás (hadirokkantak esetében): a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény 1. §-ának a) pontja szerinti egészségkárosodás (a továbbiakban: egészségkárosodás), valamint a szolgálattal össze nem függő egészségkárosodásnak a szolgálat folytán bekövetkező súlyosbodása;
+- g) hadieredetű fogyatkozás (hadirokkantak esetében): a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti egészségkárosodás (a továbbiakban: egészségkárosodás), valamint a szolgálattal össze nem függő egészségkárosodásnak a szolgálat folytán bekövetkező súlyosbodása;
 - h) veszteség: a hadigondozásra való jogosultságot megalapozó bármely hátrány.
 
 ### A hadirokkantak járadékosztályba sorolása
@@ -70,7 +70,7 @@ Az Országgyűlés — eleget téve a honvédelemről szóló 1993. évi CX. tö
 
 8. § (1) Nem jogosult hadigondozásra:
 
-- a) aki rokkantságát szándékosan maga okozta;
+- a) aki rokkantságát, egészségkárosodását szándékosan maga okozta;
 - b) az a hozzátartozó, aki a hadigondozott halálát szándékosan okozta.
 
 (2) Az a nemzeti gondozásban részesülő személy, aki ugyanazon hátrány miatt e törvény feltételei szerint igazoltan hadigondozásra lenne jogosult — ha ez részére kedvezőbb —, kérheti hadigondozottá történő átminősítését és a továbbiakban a nemzeti gondozásról szóló 1992. évi LII. törvény alapján őt megillető jogosultságok helyett e törvényen alapuló jogosultságoknak a részére történő megállapítását.
@@ -127,7 +127,7 @@ III. járadékosztályba sorolt hadirokkant esetén 180%,
 
 IV. járadékosztályba sorolt hadirokkant esetén 155%,
 
-V. járadékosztályba sorolt hadirokkant esetén 70%.
+V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 (3) Ha a hadirokkant a hadigondozotti pénzellátáson kívül (hadirokkant-járadék) nem rendelkezik egyéb jövedelemmel, akkor a megfelelő járadékosztály szerinti pénzellátás havi összegét növelni kell az öregségi nyugdíj mindenkori legkisebb összegével.
 
@@ -175,7 +175,7 @@ V. járadékosztályba sorolt hadirokkant esetén 70%.
 
 - a) orvosi alapellátás (gyógykezelés),
 - b) állami, önkormányzati intézményi ellátás (kórház, szanatórium, gyógyfürdő, terápiás ellátások),
-- c) fogászati ellátás,
+- c) fogászati alapellátás,
 - d) szociális intézményi ellátás.
 
 (2) Az (1) bekezdésben meghatározott térítésmentes ellátásokra való jogosultság a hadirokkant egészségbiztosítási és nyugdíjjárulék fizetési kötelezettségét nem érinti.
@@ -222,9 +222,7 @@ V. járadékosztályba sorolt hadirokkant esetén 70%.
 
 ### Televízió előfizetési díjkedvezmény
 
-23. § (1) A hadirokkant és hadiözvegy mentes a televízió előfizetési díjának megfizetése alól.
-
-(2) Ez a kedvezmény háztartásonként egy televízió műsorvevő készülékre terjed ki.
+#### 23. §
 
 ### Mentesség a helypénz megfizetése alól
 
@@ -236,11 +234,11 @@ V. járadékosztályba sorolt hadirokkant esetén 70%.
 
 25. § (1) Az e törvényben meghatározott pénzbeli juttatások, természetbeni ellátások és kedvezmények fedezetét, valamint az ezekkel kapcsolatos működési, ügyviteli költségeket — ideértve a postaköltséget is — a központi költségvetés biztosítja.
 
-(2) A természetbeni ellátások és kedvezmények (17., 18., 22., 23. és 24. §) költségeként az ezen szolgáltatások igénybevételéért az azokra vonatkozó szabályok alapján az igénybe vevő személy részére egyébként megállapítható térítés számolható el.
+(2) A természetbeni ellátások és kedvezmények (17., 18., 22. és 24. §) költségeként az ezen szolgáltatások igénybevételéért az azokra vonatkozó szabályok alapján az igénybe vevő személy részére egyébként megállapítható térítés számolható el.
 
 (3) A hadigondozás költségeinek kezelésére a Kormány közalapítványt hoz létre. A közalapítvány céljára rendelt vagyon a központi költségvetésből a hadigondozás finanszírozására elkülönített összeg.
 
-(4) A közalapítvány a hadigondozással kapcsolatos költségeket és kiadásokat az Egészségbiztosítási Alapnak, Nyugdíjbiztosítási Alapnak, önkormányzati intézmények esetében az önkormányzatoknak, illetőleg a szolgáltatást nyújtóknak — külön megállapodás szerint — havonta megtéríti.
+(4) A Közalapítvány a hadigondozással kapcsolatos költségeket és kiadásokat az Egészségbiztosítási Alapnak, Nyugdíjbiztosítási Alapnak állami, önkormányzati intézményeknek, illetőleg a szolgáltatást nyújtónak – külön megállapodás szerint – havonta megtéríti.
 
 ### Eljárási szabályok
 

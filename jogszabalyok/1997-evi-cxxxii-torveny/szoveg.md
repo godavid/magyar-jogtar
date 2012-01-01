@@ -2,7 +2,7 @@
 
 a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről
 
-A nemzetközi gazdasági együttműködés fejlesztése, a tőkeáramlás segítése, ezen belül a külföldi működő tőke gazdaságunkban való tartós megjelenésének, valamint az ezzel összefüggő gazdasági célú letelepedési formák kibővítése és elismerése, a befektetések biztonságával összefüggő garanciális szabályok érvényesítése, továbbá a Magyar Köztársaság által nemzetközi szerződésekben vállalt kötelezettségek teljesítése érdekében az Országgyűlés a következő törvényt alkotja:
+A nemzetközi gazdasági együttműködés fejlesztése, a tőkeáramlás segítése, ezen belül a külföldi működő tőke gazdaságunkban való tartós megjelenésének, valamint az ezzel összefüggő gazdasági célú letelepedési formák kibővítése és elismerése, a befektetések biztonságával összefüggő garanciális szabályok érvényesítése, továbbá Magyarország által nemzetközi szerződésekben vállalt kötelezettségek teljesítése érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — Általános rendelkezések
 
@@ -12,7 +12,7 @@ A nemzetközi gazdasági együttműködés fejlesztése, a tőkeáramlás segít
 
 2. § E törvény alkalmazásában:
 
-- a) külföldi vállalkozás: a Magyar Köztársaság államterületén kívül székhellyel rendelkező, főtevékenységként vállalkozási tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező szervezet, a III. fejezet vonatkozásában, továbbá más olyan vállalkozó is, aki külföldön céggel rendelkezik, illetve gazdasági nyilvántartásban szerepel;
+- a) külföldi vállalkozás: Magyarország területén kívül székhellyel rendelkező, főtevékenységként vállalkozási tevékenységet folytató jogi személy, jogi személyiséggel nem rendelkező szervezet, a III. fejezet vonatkozásában, továbbá más olyan vállalkozó is, aki külföldön céggel rendelkezik, illetve gazdasági nyilvántartásban szerepel;
 - b) fióktelep: a külföldi vállalkozás jogi személyiséggel nem rendelkező, gazdálkodási önállósággal felruházott olyan szervezeti egysége, amelyet önálló cégformaként a belföldi cégnyilvántartásban a külföldi vállalkozás fióktelepeként bejegyeztek;
 - c) kereskedelmi képviselet: a külföldi vállalkozás saját nevében vállalkozási tevékenységet nem folytató, a belföldi cégnyilvántartásba önálló cégformaként bejegyzett olyan szervezeti egysége, amely – a külföldi vállalkozás nevében és javára – szerződések közvetítésével, előkészítésével, megkötésével, az üzletfelek tájékoztatásával és a velük való kapcsolattartással összefüggő feladatokat lát el;
 - d) vállalkozási tevékenység: önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági tevékenység;
@@ -53,7 +53,7 @@ személyek láthatják el.
 
 9. § (1) Ha e törvény másképp nem rendelkezik, a külföldi vállalkozás a fióktelepének létesítése és működtetése során a belföldi székhelyű gazdálkodó szervezetekkel azonos elbánásban részesül.
 
-(2) A Magyar Köztársaság nemzetközi kötelezettségvállalásaival összhangban törvény a fióktelepre
+(2) Magyarország nemzetközi kötelezettségvállalásaival összhangban törvény a fióktelepre
 
 - a) a közrend, a közbiztonság, a közegészségügy, a pénzügyi rendszer stabilitása, valamint a hitelezők, betétesek, befektetők és biztosítottak másképpen nem érvényesíthető, jogos érdekei védelmében, valamint
 - b) a külföldi vállalkozás fióktelepe és a belföldi székhelyű gazdálkodó szervezet fióktelepe közötti jogi és technikai különbségek miatt indokolt körben és mértékben
@@ -91,7 +91,7 @@ eltérő szabályozást állapíthat meg.
 17. § (1) Az EGT-államnak nem minősülő államban bejegyzett külföldi vállalkozásnak a magyarországi fióktelepe által folytatott vállalkozási tevékenységhez szükséges ingatlan tulajdonának megszerzéséhez nem szükséges engedély
 
 - a) nemzetközi szerződésben meghatározott esetekben, vagy
-- b) ha a külföldi vállalkozás székhelye szerinti állam és a Magyar Köztársaság között erre vonatkozóan viszonosság áll fenn.
+- b) ha a külföldi vállalkozás székhelye szerinti állam és Magyarország között erre vonatkozóan viszonosság áll fenn.
 
 (2) Az (1) bekezdés szerinti nemzetközi szerződés, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter tájékoztatót tesz közzé.
 
@@ -115,11 +115,11 @@ eltérő szabályozást állapíthat meg.
 
 (2) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi eljárás a magyarországi fióktelepre nemzetközi szerződés vagy viszonosság esetében, továbbá a Tanácsnak a fizetésképtelenségi eljárásról szóló 1346/2000/EK rendeletében foglaltak szerint terjed ki.
 
-(3) Ha a külföldi vállalkozás ellen külföldön – személyes joga alapján indított – fizetésképtelenségi eljárás a (2) bekezdésben említett nemzetközi szerződés, illetve viszonosság hiányában a fióktelepre nem terjed ki, vagy az 1346/2000/EK rendeletben foglaltakat kell alkalmazni, a fióktelep bejegyzésének helye szerinti megyei bíróság – a cégbíróság értesítése alapján (az 1346/2000/EK rendelet hatálya alá eső eljárásokban pedig a külföldön indult fizetésképtelenségi eljárásban eljáró felszámoló értesítése alapján) – hivatalból rendeli el a fióktelep felszámolását.
+(3) Ha a külföldi vállalkozás ellen külföldön – személyes joga alapján indított – fizetésképtelenségi eljárás a (2) bekezdésben említett nemzetközi szerződés, illetve viszonosság hiányában a fióktelepre nem terjed ki, vagy az 1346/2000/EK rendeletben foglaltakat kell alkalmazni, a fióktelep bejegyzésének helye szerinti törvényszék – a cégbíróság értesítése alapján (az 1346/2000/EK rendelet hatálya alá eső eljárásokban pedig a külföldön indult fizetésképtelenségi eljárásban eljáró felszámoló értesítése alapján) – hivatalból rendeli el a fióktelep felszámolását.
 
 (4) A fióktelep felszámolására irányuló eljárásra a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi IL. törvény (a továbbiakban: Cstv.) I., III. és IV. fejezetében foglaltakat kell alkalmazni 22. § és az 1346/2000/EK rendelet szerinti eltérésekkel. Az eljárás befejeződése után fennmaradó vagyonnal a külföldi vállalkozás, illetve a külföldi fizetésképtelenségi eljárásban eljáró – a vállalkozás vagyonával kapcsolatosan jognyilatkozatok tételére jogosult – felszámoló rendelkezik.
 
-20. § (1) Ha a külföldi vállalkozás a magyarországi fióktelep útján folytatott vállalkozási tevékenységével összefüggésben fizetésképtelenné válik, és a fizetésképtelenségi eljárásokra nézve a külföldi vállalkozás államával nincs nemzetközi szerződés vagy viszonossági gyakorlat, a hitelezők a fióktelep felszámolását kérhetik a fióktelep bejegyzése szerinti megyei bíróságtól. Az eljárásra a Cstv. I., III. és V. fejezetében foglaltakat kell alkalmazni a 22. § szerinti eltérésekkel. A felszámolási eljárást a bíróság megszünteti, ha a külföldi vállalkozás vagy a fióktelep az eljárásban bejelentett hitelezői igények kielégítésére biztosítékot nyújt.
+20. § (1) Ha a külföldi vállalkozás a magyarországi fióktelep útján folytatott vállalkozási tevékenységével összefüggésben fizetésképtelenné válik, és a fizetésképtelenségi eljárásokra nézve a külföldi vállalkozás államával nincs nemzetközi szerződés vagy viszonossági gyakorlat, a hitelezők a fióktelep felszámolását kérhetik a fióktelep bejegyzése szerinti törvényszéktől. Az eljárásra a Cstv. I., III. és V. fejezetében foglaltakat kell alkalmazni a 22. § szerinti eltérésekkel. A felszámolási eljárást a bíróság megszünteti, ha a külföldi vállalkozás vagy a fióktelep az eljárásban bejelentett hitelezői igények kielégítésére biztosítékot nyújt.
 
 (2) Az eljárás befejeződése után fennmaradó vagyonnal a külföldi vállalkozás az általános szabályok szerint rendelkezik.
 
@@ -152,7 +152,7 @@ eltérő szabályozást állapíthat meg.
 - c) nincs a fióktelepein keresztül folytatott tevékenységével összefüggésben a külföldi vállalkozás ellen Magyarországon hatósági vagy bírósági eljárás (ideértve a választottbírósági eljárást is) folyamatban, vagy a folyamatban levő eljárásokban a vagyoni igények kielégítésére a fióktelep vagy a külföldi vállalkozás biztosítékot nyújtott,
 - d) nincs fizetésképtelenségi eljárás folyamatban a külföldi vállalkozás, illetve a fióktelep ellen.
 
-(3) A fióktelep kérelemre történő törlésének nem feltétele a (2) bekezdés a)–c) pontjaiban meghatározott feltételek fennállása, ha a külföldi vállalkozás székhelye (bejegyzése) szerinti államnak a Magyar Köztársasággal nemzetközi szerződése van a polgári és kereskedelmi ügyekre nézve a bírósági joghatóságról és a bírósági határozatok végrehajtásáról, valamint a köztartozások behajtásáról, vagy ezeket a kérdéseket európai közösségi jogi szabályozás rendezi. A fióktelepnek azonban ebben az esetben is közleményt kell közzétennie a Cégközlönyben a megszüntetéséről azzal, hogy a hitelezők követeléseiket harminc napon belül a fióktelepnél jelentsék be, továbbá tájékoztatást kell adnia arról is, hogy a ki nem elégített követeléseket a hitelezők milyen eljárásban érvényesíthetik.
+(3) A fióktelep kérelemre történő törlésének nem feltétele a (2) bekezdés a)–c) pontjaiban meghatározott feltételek fennállása, ha a külföldi vállalkozás székhelye (bejegyzése) szerinti államnak Magyarországgal nemzetközi szerződése van a polgári és kereskedelmi ügyekre nézve a bírósági joghatóságról és a bírósági határozatok végrehajtásáról, valamint a köztartozások behajtásáról, vagy ezeket a kérdéseket európai közösségi jogi szabályozás rendezi. A fióktelepnek azonban ebben az esetben is közleményt kell közzétennie a Cégközlönyben a megszüntetéséről azzal, hogy a hitelezők követeléseiket harminc napon belül a fióktelepnél jelentsék be, továbbá tájékoztatást kell adnia arról is, hogy a ki nem elégített követeléseket a hitelezők milyen eljárásban érvényesíthetik.
 
 (4) A külföldi vállalkozás jogutód nélküli megszűnésére tekintettel a fióktelep törlését is kérelmezni kell a cégbíróságtól. A (2) bekezdés a)–c) pontjában, valamint a (3) bekezdésben foglaltakat ebben az esetben is alkalmazni kell.
 
@@ -223,7 +223,7 @@ személyek jegyezhetik.
 - b) a kereskedelmi képviselet a Cégközlönyben a megszüntetésről felhívást tett közzé azzal, hogy a hitelezők követeléseiket harminc napon belül nála jelentsék be, de ilyen tartalmú bejelentés nem érkezett, vagy a hitelező követelése kielégítésre került, illetve arra biztosítékot nyújtottak, és
 - c) nincs a kereskedelmi képviseletei tevékenységével összefüggésben a külföldi vállalkozás ellen Magyarországon bírósági vagy hatósági eljárás folyamatban.
 
-(2) A kereskedelmi képviselet kérelemre történő törlésének nem feltétele az (1) bekezdés a)–c) pontjaiban meghatározott feltételek fennállása, ha a külföldi vállalkozás székhelye (bejegyzése) szerinti államnak a Magyar Köztársasággal nemzetközi szerződése van a polgári és kereskedelmi ügyekre nézve a bírósági joghatóságról és a bírósági határozatok végrehajtásáról, valamint a köztartozások behajtásáról, vagy ezeket a kérdéseket európai közösségi jogi szabályozás rendezi. A kereskedelmi képviseletnek azonban ebben az esetben is közzé kell tennie a megszüntetéséről a Cégközlönyben közleményt azzal, hogy a hitelezők követeléseiket harminc napon belül a kereskedelmi képviseletnél jelentsék be, továbbá tájékoztatást kell adnia arról is, hogy a ki nem elégített követeléseket a hitelezők milyen eljárásban érvényesíthetik.
+(2) A kereskedelmi képviselet kérelemre történő törlésének nem feltétele az (1) bekezdés a)–c) pontjaiban meghatározott feltételek fennállása, ha a külföldi vállalkozás székhelye (bejegyzése) szerinti államnak Magyarországgal nemzetközi szerződése van a polgári és kereskedelmi ügyekre nézve a bírósági joghatóságról és a bírósági határozatok végrehajtásáról, valamint a köztartozások behajtásáról, vagy ezeket a kérdéseket európai közösségi jogi szabályozás rendezi. A kereskedelmi képviseletnek azonban ebben az esetben is közzé kell tennie a megszüntetéséről a Cégközlönyben közleményt azzal, hogy a hitelezők követeléseiket harminc napon belül a kereskedelmi képviseletnél jelentsék be, továbbá tájékoztatást kell adnia arról is, hogy a ki nem elégített követeléseket a hitelezők milyen eljárásban érvényesíthetik.
 
 (3) A külföldi vállalkozás jogutód nélküli megszűnésére tekintettel a kereskedelmi képviselet törlését is kérelmezni kell a cégbíróságtól. Az (1)–(2) bekezdésben foglaltakat ebben az esetben is alkalmazni kell.
 

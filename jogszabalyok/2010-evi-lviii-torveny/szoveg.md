@@ -2,12 +2,12 @@
 
 a kormánytisztviselők jogállásáról
 
-A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszerető, a Magyar Köztársaság érdekeit és a közjót a legmegfelelőbben szolgáló központi közigazgatás kialakítása érdekében az Alkotmány 40. § (3) bekezdésében foglalt felhatalmazás alapján az Országgyűlés a következő törvényt alkotja:
+A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszerető, Magyarország érdekeit és a közjót a legmegfelelőbben szolgáló központi közigazgatás kialakítása érdekében az Országgyűlés a következő törvényt alkotja:
 
 1. § E törvény hatálya
 
 - a) a Miniszterelnökség, a minisztériumok, a kormányhivatalok, a központi hivatalok (a továbbiakban: központi államigazgatási szerv),
-- b) a kormányhivatalok és a központi hivatalok területi, helyi szerve, a megyei, fővárosi kormányhivatal, a Rendőrség, a büntetésvégrehajtás és a katasztrófavédelem szervei [a továbbiakban a)–b) pont együtt: államigazgatási szerv] kormánytisztviselőinek és kormányzati ügykezelőinek (a továbbiakban: kormánytisztviselő, ügykezelő) kormánytisztviselői jogviszonyára, továbbá a minisztérium és a Miniszterelnökség közigazgatási államtitkárainak és helyettes államtitkárainak (a továbbiakban: szakmai vezető) jogviszonyára terjed ki.
+- b) a kormányhivatalok és a központi hivatalok területi, helyi szerve, a megyei, fővárosi kormányhivatal, a Rendőrség, a büntetésvégrehajtás és a katasztrófavédelem szervei, valamint a Kormány által intézményfenntartásra kijelölt szerv [a továbbiakban a)–b) pont együtt: államigazgatási szerv] kormánytisztviselőinek és kormányzati ügykezelőinek (a továbbiakban: kormánytisztviselő, ügykezelő) kormánytisztviselői jogviszonyára, továbbá a minisztérium és a Miniszterelnökség közigazgatási államtitkárainak és helyettes államtitkárainak (a továbbiakban: szakmai vezető) jogviszonyára terjed ki.
 
 1/A. § A 6/A. § hatálya – az ott meghatározottak szerint – kiterjed a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó munkáltatóra és közalkalmazottra, ha a munkáltató egésze vagy egy része jogszabály rendelkezése folytán e törvény hatálya alá kerül.
 
@@ -128,9 +128,9 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 - c) a kormánytisztviselő egészségügyi okból feladatai ellátására alkalmatlan;
 - d) a 6/A. § (1) bekezdésében meghatározott kinevezés-módosítás esetén a kormánytisztviselő azt kérelmezi;
 - e) a kormánytisztviselő vezetőjének bizalmát elveszti (8/C. §);
-- f) a rokkantsági (baleseti rokkantsági) nyugdíjjogosultság (6) bekezdés szerinti feltételeivel rendelkező kormánytisztviselő azt kérelmezi;
-- g) az előrehozott öregségi nyugdíjjogosultság életkori, valamint szolgálati idővel kapcsolatos feltételeivel a felmentési idő leteltekor rendelkező kormánytisztviselő a (8) bekezdés szerint kérelmezi;
-- h) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételekkel a felmentési idő leteltekor rendelkező kormánytisztviselő kérelmezi.
+- f)
+- g)
+- h) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő kormánytisztviselő kérelmezi.
 
 (3) A munkáltató a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 
@@ -138,11 +138,11 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (5) A (2) bekezdés f) pontjában foglalt jogcímen a kormánytisztviselő kezdeményezésére csak egy alkalommal kötelező a felmentés.
 
-(6) Ha a kormánytisztviselő rokkantsági (baleseti rokkantsági) nyugdíj iránti igényét érvényesíti és ezen eljárás során a rokkantság (baleseti rokkantság) tényéről és a szükséges szolgálati idő megszerzéséről az illetékes nyugdíjbiztosítási igazgatási szerv értesíti, akkor az általa kezdeményezett ellátás igénybevétele érdekében a kormánytisztviselői jogviszonyát – kérelmére – a (2) bekezdés f) pontja alapján felmentéssel meg kell szüntetni.
+(6)
 
 (7) Ha az államigazgatási szerv jogutód nélkül szűnik meg, akkor a kormánytisztviselői jogviszony megszüntetésével, valamint a Ktv. 20/A. § (2), (5) bekezdésében meghatározott feladatokkal kapcsolatos munkáltatói intézkedéseket – ha jogszabály eltérően nem rendelkezik – az államigazgatási szerv felügyeleti szerve hozza meg.
 
-(8) Az előrehozott öregségi nyugdíj megállapításához szükséges szolgálati időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.
+(8)
 
 (9) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételek megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.
 
@@ -177,7 +177,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (5) A kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés idejére járó átlagkeresetre havonta egyenlő részletekben jogosult.
 
-10. § (1) A kormánytisztviselői jogviszony tekintetében a Ktv. 6. § (1) bekezdése, a 11. § (1)–(6) bekezdése, a 16. § (2) bekezdése, 16/A–17. §-a, 17/B–E. §-a, 18. §-a, a 19. § (8) bekezdésének c) pontja, 19/A. § (1) bekezdésének j) és k) pontja és (4) bekezdése nem alkalmazható.
+10. § (1) A kormánytisztviselői jogviszony tekintetében a Ktv. 6. § (1) bekezdése, a 11. § (1)–(6) bekezdése, a 16. § (2) bekezdése, 16/A–17. §-a, 17/B–E. §-a, 18. §-a, a 19. § (8) bekezdésének c) pontja, 19/A. § (1) bekezdés d) pontja nem alkalmazható.
 
 (2) A kormánytisztviselői jogviszony tekintetében a Ktv. 14. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy áthelyezésen
 
@@ -189,7 +189,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 - a) méltatlanság címén mentették fel [8. § (2) bekezdés a) pont];
 - b) felmentésére a 8. § (2) bekezdés b) pontjában meghatározott okból került sor.
 
-(4) A Ktv. 19/A. §-ban foglaltakon túlmenően, e törvény alkalmazásában nyugdíjasnak minősül az a kormánytisztviselő, aki az előrehozott öregségi nyugdíj feltételeivel rendelkezik, és felmentésére a 8. § (2) bekezdés g) pontja alapján kerül sor.
+(4)
 
 (5) A Ktv. 19/A. §-ban foglaltakon túlmenően, e törvény alkalmazásában nyugdíjasnak minősül az a kormánytisztviselő, aki a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt feltételekkel rendelkezik, és felmentésére a 8. § (2) bekezdés h) pontja alapján kerül sor.
 
@@ -210,7 +210,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (11) A kormánytisztviselői jogviszony tekintetében a Ktv. 14. § (1) bekezdés második mondatában foglaltakon túl a 6/A. §-ban meghatározottak alapján is módosíthatja a munkáltató egyoldalúan a kormánytisztviselő kinevezését.
 
-(12) A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 28. § (2) bekezdés a) pontja a kormánytisztviselői jogviszony tekintetében nem alkalmazható. A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 28. § (4) bekezdése azzal az eltéréssel alkalmazható, hogy a védelem a tisztségviselőt a megbízatása megszűnését követően nem illeti meg.
+(12) A Ktv. 66/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közvetlen felsőbb szakszervezeti szerv egyetértése szükséges a szakszervezetnél választott tisztséget betöltő és a szakszervezet által megjelölt kormánytisztviselő kormánytisztviselői jogviszonyának az államigazgatási szerv által felmentéssel történő megszüntetéséhez – kivéve a 8. § (2) bekezdés a) pontjában meghatározott felmentést –, valamint – a Ktv. 66/A. § (1) bekezdésében felsoroltakon kívül – a kormányzati érdekből történő kirendeléséhez is.
 
 ### A kormánytisztviselői jogviszony megszűnése
 
@@ -234,7 +234,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (6) A tartós külszolgálat időtartamára – a (4) bekezdésben foglaltaktól eltérően – vezetői kinevezés határozott időre is adható.
 
-13. § (1) A Miniszterelnökségen a Miniszterelnökséget vezető államtitkár miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban a miniszter kormányfőtanácsadói és kormánytanácsadói, a miniszteri kabinetben a miniszter miniszteri főtanácsadói, miniszteri tanácsadói (a továbbiakban együtt: főtanácsadó, tanácsadó) munkaköröket létesíthet.
+13. § (1) A Miniszterelnökségen a Miniszterelnökséget vezető államtitkár miniszterelnökségi főtanácsadói, miniszterelnökségi tanácsadói, a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban a miniszter kormányfőtanácsadói és kormánytanácsadói, a miniszteri kabinetben a miniszter miniszteri főtanácsadói, miniszteri tanácsadói (a továbbiakban együtt: főtanácsadó, tanácsadó) munkaköröket létesíthet.
 
 (2) A főtanácsadói, tanácsadói munkakör betöltésére szóló kinevezés határozatlan időre szól. A főtanácsadói vagy tanácsadói munkakörben foglalkoztatott kormánytisztviselő – tekintet nélkül a kormánytisztviselői jogviszonyban eltöltött idejére – vezető-főtanácsosi vagy főtanácsosi besorolást kap. A vezető-főtanácsosi besorolású kormánytisztviselő főosztályvezetői, a főtanácsosi besorolású kormánytisztviselő főosztályvezető-helyettesi illetményre jogosult.
 
@@ -308,7 +308,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, valamint a megyei, fővárosi kormányhivatalnál, továbbá az Országos Nyugdíjbiztosítási Főigazgatóság központi igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
-(3) A központi államigazgatási szerv legalább megyei illetékességű területi szervénél, valamint, a rendőrség, a katasztrófavédelem és a büntetésvégrehajtás, és az Országos Egészségbiztosítási Pénztár legalább megyei illetékességű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
+(3) A központi államigazgatási szerv legalább megyei illetékességű területi szervénél, a Kormány által intézményfenntartásra kijelölt szervnél, valamint a rendőrség, a katasztrófavédelem és a büntetésvégrehajtás, és az Országos Egészségbiztosítási Pénztár legalább megyei illetékességű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
 
 (4) A (3) bekezdésben felsorolt államigazgatási szerv, továbbá a Kormány általános hatáskörű területi államigazgatási szerv helyi és körzeti (nem megyei) illetékességű, valamint az Országos Nyugdíjbiztosítási Főigazgatóság és az Országos Egészségbiztosítási Pénztár legalább helyi illetékességű belső szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
 
@@ -318,9 +318,11 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (3) A 19. § (3) bekezdésében felsorolt szervnél, amennyiben a szervezet legalább tízezer főt foglalkoztat – ide nem értve a szerv vezetőjét – négy vezetői szint létesíthető. A szerv vezetője – ha törvény vagy kormányrendelet eltérően nem rendelkezik – főosztályvezetői, szervezeti egységének vezetője főosztályvezetői vagy főosztályvezető-helyettesi vagy osztályvezetői alapilletményre jogosult. A szerv vezetője és helyettese a Ktv. 46. § (2) bekezdésének b) pontjától eltérően 30%-os vezetői illetménypótlékra jogosult.
 
-21. § (1) Testület által vezetett szerv esetében a testület elnökének és tagjainak, valamint a megyei, fővárosi kormányhivatal főigazgatójának és igazgatójának az illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnyolcszorosát nem haladhatja meg.
+21. § (1) Testület által vezetett szerv esetében a testület elnökének és tagjainak az illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnyolcszorosát nem haladhatja meg. A megyei, fővárosi kormányhivatal főigazgatójának és igazgatójának az illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy a főigazgató esetében az illetmény az illetményalap huszonhatszorosát, igazgató esetében az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.
 
-(2) A regionális államigazgatási szerv, valamint a megyei, fővárosi kormányhivatal szakigazgatási szerve–
+(2) A Kormány által intézményfenntartásra kijelölt szerv vezetőjének az illetményét a kinevezési jogkör gyakorlója – a kormánymegbízott javaslatára – állapítja meg azzal, hogy az illetmény az illetményalap huszonhatszorosát nem haladhatja meg. A Kormány által intézményfenntartásra kijelölt szerv vezető-helyettesének az illetményét a kinevezési jogkör gyakorlója – az intézményfenntartásra kijelölt szerv vezetőjének a javaslatára – állapítja meg azzal, hogy az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.
+
+(3) A regionális államigazgatási szerv, valamint a megyei, fővárosi kormányhivatal szakigazgatási szerve–
 
 - a) vezetőjének illetményét az államigazgatási szervet közvetlenül irányító vagy felügyelő miniszter, ennek hiányában a kinevezési jogkör gyakorlója – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter egyetértésével – legfeljebb az illetményalap 22-szeresében,
 - b) vezető-helyettesének illetményét a munkáltatói jogkör gyakorlója legfeljebb az illetményalap 17-szeresében, a szervezet feladat- és hatásköreinek, létszámának, valamint az általa vezetett szervezeti egységek számának figyelembevételével állapítja meg.
@@ -372,7 +374,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 - c) a 35 év kormánytisztviselői jogviszony után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító szolgálati idejéből 3 év vagy ennél kevesebb van hátra,
 - d) a 40 év kormánytisztviselői jogviszony után járó jubileumi jutalmat, ha a jubileumi jutalomra jogosító szolgálati idejéből 4 év vagy ennél kevesebb van hátra.
 
-(6) Arra a kormánytisztviselőre, akinek a 8. § (2) bekezdés g) vagy h) pontja alapján szűnik meg a jogviszonya, nem alkalmazható az (5) bekezdés.
+(6) Arra a kormánytisztviselőre, akinek a 8. § (2) bekezdés h) pontja alapján szűnik meg a jogviszonya, nem alkalmazható az (5) bekezdés.
 
 24. § (1) A kormánytisztviselői jogviszony tekintetében a Ktv. 31. §-a, a 34. § (3), (5) és (6) bekezdése, a 40. § (5) bekezdése, a 41/A. § (9) bekezdése, a 43. § (1) és (6), valamint (8) bekezdése, a 44. § (1) bekezdése, a 45. § (5) bekezdése, továbbá a 49/E. § nem alkalmazható.
 
@@ -458,7 +460,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (2) A szakmai vezető megbízatásának időtartama közszolgálati jogviszonyban töltött időnek és nyugdíjra jogosító szolgálati időnek számít.
 
-32. § (1) Ha a szakmai vezető megbízatása megszűnik, jogosult az e megbízatására utaló megnevezést használni, feltéve, hogy megbízatása nem választójogának elvesztése, összeférhetetlenségének megállapítása vagy hivatalvesztés fegyelmi büntetés miatt szűnt meg.
+32. § (1) Ha a szakmai vezető megbízatása megszűnik, jogosult az e megbízatására utaló megnevezést használni, feltéve, hogy megbízatása nem összeférhetetlenségének megállapítása, hivatalvesztés fegyelmi büntetés miatt, vagy azért szűnt meg, mert az országgyűlési képviselők választásán már nem választható.
 
 (2) A szakmai vezető a jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított tizenöt napon belül köteles visszafizetni.
 
@@ -483,7 +485,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 ### A közigazgatási államtitkár
 
-36. § Közigazgatási államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választójoggal rendelkező személy kinevezhető, aki állam- és jogtudományi doktori vagy okleveles közgazdász képesítéssel vagy okleveles közigazgatási menedzser szakképesítéssel vagy a feladat- és hatáskörének megfelelő szakirányú felsőfokú végzettséggel rendelkezik.
+36. § Közigazgatási államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki állam- és jogtudományi doktori vagy okleveles közgazdász képesítéssel vagy okleveles közigazgatási menedzser szakképesítéssel vagy a feladat- és hatáskörének megfelelő szakirányú felsőfokú végzettséggel rendelkezik.
 
 37. § (1) A közigazgatási államtitkárt a miniszterelnöknek a miniszter véleménye kikérését követően tett javaslatára a köztársasági elnök határozatlan időre nevezi ki. A miniszter véleményét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter útján terjeszti a miniszterelnök elé. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a véleményre észrevételt tehet.
 
@@ -494,7 +496,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 39. § (1) A közigazgatási államtitkár jogviszonya megszűnik:
 
 - a) halálával,
-- b) választójogának elvesztésével,
+- b) ha az országgyűlési képviselők választásán már nem választható,
 - c) összeférhetetlenségének megállapításával vagy
 - d) országgyűlési, helyi önkormányzati képviselővé, polgármesterré vagy politikai vezetővé történő megválasztásával, illetve kinevezésével.
 
@@ -543,7 +545,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 ### A helyettes államtitkár
 
-46. § Helyettes államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választójoggal rendelkező személy kinevezhető, aki állam- és jogtudományi doktori vagy okleveles közgazdász képesítéssel vagy okleveles közigazgatási menedzser szakképesítéssel vagy a feladat- és hatáskörének megfelelő szakirányú felsőfokú végzettséggel rendelkezik.
+46. § Helyettes államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki állam- és jogtudományi doktori vagy okleveles közgazdász képesítéssel vagy okleveles közigazgatási menedzser szakképesítéssel vagy a feladat- és hatáskörének megfelelő szakirányú felsőfokú végzettséggel rendelkezik.
 
 47. § (1) A helyettes államtitkárt a miniszter javaslatára a miniszterelnök határozatlan időre nevezi ki. A Miniszterelnökségen működő helyettes államtitkárt a Miniszterelnökséget vezető államtitkár javaslatára nevezi ki a miniszterelnök.
 
@@ -560,7 +562,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 49. § (1) A helyettes államtitkár jogviszonya megszűnik:
 
 - a) halálával,
-- b) választójogának elvesztésével,
+- b) ha az országgyűlési képviselők választásán már nem választható,
 - c) összeférhetetlenségének megállapításával vagy
 - d) országgyűlési, helyi önkormányzati képviselővé, polgármesterré, politikai vezetővé vagy érdek-képviseleti szervezet tisztségviselőjévé történő megválasztásával, illetve kinevezésével.
 
@@ -611,7 +613,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (5) A (2)–(4) bekezdésekben meghatározott munkakörök száma nem haladhatja meg az államigazgatási szervnél foglalkoztatott kormánytisztviselők létszámának nyolc százalékát. Az (1)–(3) bekezdésekben foglaltak szerint megállapított munkaköröket a szervezeti és működési szabályzat (ügyrend) mellékletében kell feltüntetni.
 
-(6) Politikai főtanácsadói, politikai tanácsadói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és a Ktv. 7. § (1) bekezdésben előírt egyéb feltételekkel rendelkezik. A kinevezés a Kormány, a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére szól. A politikai főtanácsadó, politikai tanácsadó felett a munkáltatói jogokat
+(6) Politikai főtanácsadói, politikai tanácsadói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és a Ktv. 7. § (1) bekezdésben előírt egyéb feltételekkel rendelkezik. A kinevezés a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére szól. A politikai főtanácsadó, politikai tanácsadó felett a munkáltatói jogokat
 
 - a) az (1) bekezdés esetében a Miniszterelnökséget vezető államtitkár,
 - b) a (2) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
@@ -620,7 +622,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 
 (7) A politikai főtanácsadó, politikai tanácsadó – a kormánytisztviselői jogviszonyban eltöltött idejére tekintet nélkül – vezető-főtanácsos vagy főtanácsos besorolást kap, illetményét a besorolásától függetlenül a (6) bekezdés a)–d) pontjában meghatározott munkáltatói jogkör gyakorlója állapítja meg. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
-(8) Ha a politikai főtanácsadó, politikai tanácsadó kormánytisztviselői jogviszonya a Kormány, a miniszterelnök, a miniszter vagy az államtitkár megbízatásának megszűnése következtében szűnik meg, végkielégítés címén kéthavi illetményére jogosult, feltéve, hogy a politikai főtanácsadói, politikai tanácsadói jogviszonya legalább két évig folyamatosan fennállt.
+(8) Ha a politikai főtanácsadó, politikai tanácsadó kormánytisztviselői jogviszonya a miniszterelnök, a miniszter vagy az államtitkár megbízatásának megszűnése következtében szűnik meg, végkielégítés címén kéthavi illetményére jogosult, feltéve, hogy a politikai főtanácsadói, politikai tanácsadói jogviszonya legalább két évig folyamatosan fennállt.
 
 (9) A végkielégítés megfizetésére a jogviszony megszűnését követő 31. napon kell intézkedni.
 
@@ -639,7 +641,7 @@ A hatékony és költségtakarékos, demokratikus, pártsemleges és hazaszeret�
 - a) a Ktv. 4–7. §-ában, 9. §-ában, 11. § (7)–(8) bekezdésében, 11/B. §-ában, 12–16. §-ában, 19. §-ában foglaltakat a (8) bekezdés c) pontja kivételével, továbbá a 21–22/A. §-ában, 33. §-ában, 37–40/B. §-ában foglaltakat a 40. § (5) bekezdése kivételével, valamint a 41. § (7)–(9) bekezdésében, 41/A–42. §-ában foglaltakat a 41/A. § (9) bekezdése kivételével, a 43. § (2)–(3) és (7) bekezdéseiben, 47. §-ában, 48. § (1)–(5) bekezdésében, 49/A–49/N. §-ában,
 - b) a Ktv. IV., V., VI. és IX. fejezetében foglalt rendelkezéseket az e törvény szerinti eltérésekkel kell megfelelően alkalmazni.
 
-(2) Az ügykezelő kormánytisztviselői jogviszonyában a Ktv. 19/A. §-át a 10. § (4)–(6) bekezdésben foglalt eltérő szabályokkal együttesen kell alkalmazni.
+(2) Az ügykezelő kormánytisztviselői jogviszonyában a Ktv. 19/A. §-át a 10. § (5) és (6) bekezdésben foglalt eltérő szabályokkal együttesen kell alkalmazni.
 
 (3) A 19. §-ban meghatározott szerveknél kinevezett ügykezelő a középiskolai végzettségű kormánytisztviselőre irányadó illetménykiegészítésre jogosult.
 

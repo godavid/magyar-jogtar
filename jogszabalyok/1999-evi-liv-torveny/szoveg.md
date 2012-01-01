@@ -68,7 +68,7 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 10. § (1) A NEBEK vezetője, illetőleg az adattovábbításban érintett hazai adatkezelő szerv vezetője gondoskodik a nemzetközi szervezet által meghatározott, illetőleg a külön törvényben, az Európai Unió jogi aktusában vagy nemzetközi szerződésben foglalt adatvédelmi, adatbiztonsági és titokvédelmi követelmények betartásáról.
 
-(2) A NEBEK vezetője a Magyar Köztársaság által kötött nemzetközi szerződés hatálya alá tartozó adat esetében feladat- és hatáskörében minősítésre jogosult.
+(2) A NEBEK vezetője a Magyarország által kötött nemzetközi szerződés hatálya alá tartozó adat esetében feladat- és hatáskörében minősítésre jogosult.
 
 (3) A NEBEK tevékenységével kapcsolatos közérdekű adat nyilvánosságra hozatalát a NEBEK vezetője megtagadhatja, ha ezt bűnüldözési, bűnmegelőzési cél feltétlenül indokolttá teszi, ha külön törvény, az Európai Unió jogi aktusa vagy nemzetközi szerződés így rendelkezik, vagy ha a nemzetközi szervezet ezt kéri.
 
@@ -82,7 +82,7 @@ Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a 
 
 (2) E törvénynek a magyar bűnüldöző szerv és az EUROPOL közötti együttműködésre vonatkozó rendelkezései a Magyar Köztársaság által az EUROPOL-lal kötött nemzetközi szerződést kihirdető törvénnyel egyidejűleg lépnek hatályba.
 
-(3) E törvénynek a magyar együttműködő szerv és a Schengeni Információs Rendszer együttműködésére vonatkozó rendelkezései az Európai Unió Tanácsának a Schengeni Információs Rendszer alkalmazását a Magyar Köztársaság számára lehetővé tevő határozatában meghatározott napon lépnek hatályba.
+(3) E törvénynek a magyar együttműködő szerv és a Schengeni Információs Rendszer együttműködésére vonatkozó rendelkezései az Európai Unió Tanácsának a Schengeni Információs Rendszer alkalmazását a Magyarország számára lehetővé tevő határozatában meghatározott napon lépnek hatályba.
 
 17. § Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a NEBEK jogállását, részletes feladat- és hatáskörét.
 

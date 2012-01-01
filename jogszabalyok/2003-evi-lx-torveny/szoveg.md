@@ -10,8 +10,8 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 
 1. § (1) Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed:
 
-- a) a Magyar Köztársaság területén végzett biztosítási és azzal közvetlenül összefüggő tevékenységre, illetve a Magyar Köztársaság területén székhellyel rendelkező biztosító által e törvény felhatalmazása alapján végzett biztosítási és azzal közvetlenül összefüggő tevékenységre;
-- b) a Magyar Köztársaság területén végzett biztosításközvetítői és biztosítási szaktanácsadói tevékenységre, illetve a Magyar Köztársaság területén székhellyel rendelkező független biztosításközvetítő biztosítással vagy biztosításközvetítői tevékenységgel közvetlenül összefüggő tevékenységére;
+- a) Magyarország területén végzett biztosítási és azzal közvetlenül összefüggő tevékenységre, illetve Magyarország területén székhellyel rendelkező biztosító által e törvény felhatalmazása alapján végzett biztosítási és azzal közvetlenül összefüggő tevékenységre;
+- b) Magyarország területén végzett biztosításközvetítői és biztosítási szaktanácsadói tevékenységre, illetve Magyarország területén székhellyel rendelkező független biztosításközvetítő biztosítással vagy biztosításközvetítői tevékenységgel közvetlenül összefüggő tevékenységére;
 - c) a külföldi biztosító, biztosításközvetítő és szaktanácsadó magyarországi képviselete által folytatott tevékenységre;
 - d) kizárólag a kiszervezett tevékenységre a kiszervezett tevékenységet végzőnél;
 - e) Kártalanítási Számla, továbbá a Kártalanítási Alap kezelésével foglalkozó szervezetnek a Számla kezelésével kapcsolatos tevékenységére;
@@ -95,12 +95,12 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - 26. induló tőke: a biztosító egyesület alapításkori jegyzett tőkéje;
 - 27. Információs Központ: a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. tv.-ben (a továbbiakban: Gfbt.) meghatározott fogalom;
 - 28. jegyzett tőke, saját tőke: a számvitelről szóló 2000. évi C. törvényben (a továbbiakban: Szmt.) foglalt meghatározások szerinti fogalmak;
-- 29. jelzáloghitel: a biztosító részvénytársaság által életbiztosítási ügyfeleinek közokiratban foglalt szerződés alapján nyújtott olyan pénzkölcsön, amelynek fedezete – az adott ügyfél által megkötött, életbiztosítási szerződés alapján teljesítendő biztosítási összeg mellett – a Magyar Köztársaság területén lévő ingatlanon (a termőföldet kivéve) alapított jelzálogjog;
+- 29. jelzáloghitel: a biztosító részvénytársaság által életbiztosítási ügyfeleinek közokiratban foglalt szerződés alapján nyújtott olyan pénzkölcsön, amelynek fedezete – az adott ügyfél által megkötött, életbiztosítási szerződés alapján teljesítendő biztosítási összeg mellett – Magyarország területén lévő ingatlanon (a termőföldet kivéve) alapított jelzálogjog;
 - 30. kapcsolt vállalkozás: a leányvállalat vagy az a vállalkozás, amelyben egy másik vállalkozás (részesedő vállalkozás) részesedési viszonnyal rendelkezik;
 - 31. kárrendezési megbízott: a Gfbt.-ben meghatározott fogalom;
 - 32. Kártalanítási Számla: a Gfbt.-ben meghatározott fogalom;
 - 33. Kártalanítási Szervezet: a Gfbt.-ben meghatározott fogalom;
-- 34. kézbesítési megbízott: a Magyar Köztársaság területén bejegyzett ügyvéd, ügyvédi iroda vagy a kérelmező Magyar Köztársaság területén bejegyzett biztosítója, biztosításközvetítője, vagy biztosítási szaktanácsadója, illetve az e törvény szerinti képviselete;
+- 34. kézbesítési megbízott: Magyarország területén bejegyzett ügyvéd, ügyvédi iroda vagy a kérelmező Magyar Köztársaság területén bejegyzett biztosítója, biztosításközvetítője, vagy biztosítási szaktanácsadója, illetve az e törvény szerinti képviselete;
 - 35. kockázatnak kitett összeg: a halál esetén kifizetendő összeg, levonva belőle a fő kockázat matematikai tartalékát, illetve befektetési egységekhez kötött életbiztosítási szerződés esetén a befektetési egységekhez kötött (unit-linked) életbiztosítások tartalékát;
 - 36. kötelezettségvállalás tagállama: az a tagállam, ahol
   - a) az életbiztosítási ághoz tartozó biztosítási ágazatok esetén: aa) a természetes személy szerződő állandó lakóhelye van, vagy ab) a gazdálkodó szervezet szerződő esetén a szerződésben meghatározott székhelye található;
@@ -172,7 +172,8 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - 92. ÁÉKBV: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott fogalom;
 - 93. közeli hozzátartozó: a Ptk.-ban meghatározott fogalom és az élettárs;
 - 94. kapcsolt vállalkozás: a Tpt.-ben meghatározott fogalom;
-- 95. Kártalanítási Alap: a Gfbt.-ben meghatározott fogalom.
+- 95. Kártalanítási Alap: a Gfbt.-ben meghatározott fogalom;
+- 96. büntetlen előéletű: akinek e törvényben külön nevesített tevékenység végzéséhez és vezető állás betöltéséhez feltétel a büntetlen előélet, annak büntetlen előéletét a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (Btk. 233. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238. §), a hamis tanúzásra felhívás (Btk. 242. §), a mentő körülmény elhallgatása (Btk. 243. §), a bűnpártolás (Btk. 244. §), a Btk. XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (Btk. 261. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §), a bűnszervezetben részvétel (Bt. 263/C. §), a visszaélés atomenergia alkalmazásával (Btk. 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §), az önbíráskodás (Btk. 273. §), a Btk. XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a Btk. XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények tekintetében kell – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvánnyal – igazolnia.
 
 (2) Az Európai Unió, illetőleg az Európai Unió tagállama kifejezésen az Európai Gazdasági Térséget, illetőleg az Európai Gazdasági Térségről szóló megállapodásban részes államot is érteni kell (a továbbiakban: EGT-állam), kivéve a 227. § (1) bekezdését. A nem-életbiztosítási ág tekintetében Svájcra az EGT-államra vonatkozó rendelkezéseket kell alkalmazni.
 
@@ -180,11 +181,11 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 
 4. § A biztosítási tevékenység biztosítási szerződésen, jogszabályon vagy tagsági jogviszonyon alapuló kötelezettségvállalás, amely során a tevékenységet végző megszervezi az azonos vagy hasonló kockázatoknak kitett személyek közösségét (veszélyközösség), matematikai és statisztikai eszközökkel felméri a biztosítható kockázatokat, megállapítja és beszedi a kötelezettségvállalás ellenértékét (díját), meghatározott tartalékokat képez, a létrejött jogviszony alapján a kockázatot átvállalja és teljesíti a szolgáltatásokat.
 
-5. § (1) Biztosítási, független biztosításközvetítői tevékenység és biztosítási tevékenységgel összefüggő tevékenység a Magyar Köztársaság területén – a (2) bekezdésben foglaltak kivételével – a Felügyelet engedélyével végezhető.
+5. § (1) Biztosítási, független biztosításközvetítői tevékenység és biztosítási tevékenységgel összefüggő tevékenység Magyarország területén – a (2) bekezdésben foglaltak kivételével – a Felügyelet engedélyével végezhető.
 
-(2) A tagállamban székhellyel rendelkező biztosító, biztosításközvetítő, biztosítási szaktanácsadó tevékenységét a Magyar Köztársaság területén határon átnyúló szolgáltatásként vagy magyarországi fióktelepe útján akkor végezheti, ha erre a saját államában jogosult.
+(2) A tagállamban székhellyel rendelkező biztosító, biztosításközvetítő, biztosítási szaktanácsadó tevékenységét Magyarország területén határon átnyúló szolgáltatásként vagy magyarországi fióktelepe útján akkor végezheti, ha erre a saját államában jogosult.
 
-(3) Harmadik országbeli biztosító, biztosításközvetítő és biztosítási szaktanácsadó tevékenységét a Magyar Köztársaság területén – a (7) bekezdésben meghatározott kivétellel – kizárólag magyarországi fióktelepen keresztül végezheti.
+(3) Harmadik országbeli biztosító, biztosításközvetítő és biztosítási szaktanácsadó tevékenységét Magyarország területén – a (7) bekezdésben meghatározott kivétellel – kizárólag magyarországi fióktelepen keresztül végezheti.
 
 (4) Biztosítási tevékenységet kizárólag biztosító végezhet.
 
@@ -198,7 +199,8 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - d) a jelzáloghitelezés,
 - e) a Tpt.-ben foglaltak szerint végzett értékpapír-kölcsönzés,
 - f) a biztosító által a biztosító anyavállalata, leányvállalata vagy részesedési viszonya alatt álló vállalkozása részére a biztosítási üzem működése és fenntartása körébe eső szolgáltatások nyújtása,
-- g) a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapról szóló 2003. évi LVIII. törvény 9. § (4) bekezdése szerinti tevékenység.
+- g) a Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapról szóló 2003. évi LVIII. törvény 9. § (4) bekezdése szerinti tevékenység,
+- h) az önkéntes kölcsönös biztosító pénztárakról szóló törvényben meghatározott tagszervezési tevékenység.
 
 (7) Harmadik országbeli biztosító – nemzetközi szerződés alapján – fióktelep közbeiktatása nélkül
 
@@ -226,7 +228,7 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 
 ### A biztosítók
 
-10. § (1) A Magyar Köztársaság területén biztosító részvénytársaság, szövetkezet, egyesület, vagy harmadik országbeli biztosító magyarországi fióktelepe formájában létesíthető.
+10. § (1) Magyarország területén biztosító részvénytársaság, szövetkezet, egyesület, vagy harmadik országbeli biztosító magyarországi fióktelepe formájában létesíthető.
 
 (2) Az egyes szervezeti formákra
 
@@ -418,7 +420,7 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 
 31. § A másik tagállamban székhellyel rendelkező biztosító magyarországi fióktelepének a biztosítási szerződés megkötését, illetve fennállását tanúsító okiratokat – ideértve a szerződési feltételeket – magyar nyelven kell kiállítania.
 
-32. § (1) Ha a Felügyeletet másik tagállam felügyeleti hatósága tájékoztatja arról, hogy a tagállamban székhellyel rendelkező biztosító fióktelepet kíván létesíteni a Magyar Köztársaság területén, akkor a Felügyelet a tájékoztatás kézhezvételétől számított 2 hónapon belül tájékoztatja a tagállam felügyeleti hatóságát a biztosítási tevékenység magyarországi végzésének feltételeiről.
+32. § (1) Ha a Felügyeletet másik tagállam felügyeleti hatósága tájékoztatja arról, hogy a tagállamban székhellyel rendelkező biztosító fióktelepet kíván létesíteni Magyarország területén, akkor a Felügyelet a tájékoztatás kézhezvételétől számított 2 hónapon belül tájékoztatja a tagállam felügyeleti hatóságát a biztosítási tevékenység magyarországi végzésének feltételeiről.
 
 (2) A másik tagállamban székhellyel rendelkező biztosító magyarországi fióktelepe tevékenységét a Felügyelet tájékoztatásának kézhezvételét követően, illetve a tájékoztatásra rendelkezésre álló 2 hónapos időtartam lejártát követően kezdheti meg.
 
@@ -684,11 +686,11 @@ A független biztosításközvetítő biztosítási szaktanácsot is adhat. A f�
 
 (4) A független biztosításközvetítő tevékenységét a másik tagállamban a Felügyelet (2) bekezdésben foglalt tájékoztatásának kézhezvételét követően, illetve a tájékoztatásra rendelkezésre álló 1 hónapos időtartam lejártát követően kezdheti meg.
 
-(5) Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a tagállam területén biztosításközvetítői tevékenységre jogosult első alkalommal kíván biztosításközvetítői tevékenységet végezni a Magyar Köztársaság területén, a Felügyelet a felügyeleti tájékoztatás kézhezvételétől számított 1 hónapon belül tájékoztatja a biztosításközvetítőt a tevékenységvégzésre vonatkozó magyar szabályozásról.
+(5) Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága arról tájékoztatja a Felügyeletet, hogy a tagállam területén biztosításközvetítői tevékenységre jogosult első alkalommal kíván biztosításközvetítői tevékenységet végezni Magyarország területén, a Felügyelet a felügyeleti tájékoztatás kézhezvételétől számított 1 hónapon belül tájékoztatja a biztosításközvetítőt a tevékenységvégzésre vonatkozó magyar szabályozásról.
 
 ### A külföldi biztosító, biztosításközvetítő, szaktanácsadó magyarországi képviselete
 
-55. § (1) A külföldi biztosító (biztosításközvetítő, szaktanácsadó) a Magyar Köztársaság területén tartós képviseletet (a továbbiakban: képviselet) létesíthet.
+55. § (1) A külföldi biztosító (biztosításközvetítő, szaktanácsadó) Magyarország területén tartós képviseletet (a továbbiakban: képviselet) létesíthet.
 
 (2) A képviselet a képviselt biztosító (biztosításközvetítő, szaktanácsadó) nevében annak tevékenységét ismerteti.
 
@@ -921,7 +923,7 @@ igazolását.
 70. § (1) Harmadik országbeli biztosító, független biztosításközvetítő fióktelepe esetén a tevékenység megkezdésére vonatkozó engedély iránti kérelemnek – a 38. §-ban, az 50. §-ban, a 63. §-ban és a 66. §-ban foglaltak igazolásán túl – tartalmaznia kell:
 
 - a) a harmadik országban székhellyel rendelkező vállalkozás alapító okiratát, tevékenységi engedélyének másolatát, az előző 3 év auditált mérlegét,
-- b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról, hogy a Magyar Köztársaság területén történő fióktelep-alapítás nem ütközik a székhely szerinti állam jogszabályaiba, illetve nem veszélyezteti a kérelmező biztosító, biztosításközvetítő, szaktanácsadó működését.
+- b) a székhely szerinti állam felügyeleti hatóságának nyilatkozatát arról, hogy Magyarország területén történő fióktelep-alapítás nem ütközik a székhely szerinti állam jogszabályaiba, illetve nem veszélyezteti a kérelmező biztosító, biztosításközvetítő, szaktanácsadó működését.
 
 (2) A harmadik országbeli biztosító, független biztosításközvetítő fióktelepe esetén a tevékenységi engedélyt az (1) bekezdésben foglalt feltételeken túl a Felügyelet abban az esetben adja meg, ha
 
@@ -930,8 +932,8 @@ igazolását.
 - c) a kérelmező biztosító, biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi előírásokkal,
 - d) a kérelmező biztosító, biztosításközvetítő rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 - e) a kérelmező biztosító, biztosításközvetítő nyilatkozik arról, hogy helytáll a fióktelep útján keletkezett kötelezettségeiért,
-- f) a kérelmező biztosító, biztosításközvetítő nyilatkozatban kötelezi magát arra, hogy a Magyar Köztársaság területén folytatott tevékenységre vonatkozó pénzforgalmi számláját magyarországi pénzforgalmi szolgáltatónál vezeti,
-- g) a kérelmező biztosító, biztosításközvetítő nyilatkozatban kötelezi magát arra, hogy a Magyar Köztársaság területén folytatott tevékenységére vonatkozó nyilvántartásokat a Magyar Köztársaság területén vezeti,
+- f) a kérelmező biztosító, biztosításközvetítő nyilatkozatban kötelezi magát arra, hogy Magyarország területén folytatott tevékenységre vonatkozó pénzforgalmi számláját magyarországi pénzforgalmi szolgáltatónál vezeti,
+- g) a kérelmező biztosító, biztosításközvetítő nyilatkozatban kötelezi magát arra, hogy Magyarország területén folytatott tevékenységére vonatkozó nyilvántartásokat Magyarország területén vezeti,
 - h) a kérelmező biztosító a 126. § (6) bekezdésében foglalt minimális biztonsági tőke összegével azonos értékű vagyoni eszközökkel rendelkezik és ennek egynegyedét biztosítékként letétbe helyezi,
 - i) a kérelmező biztosító benyújtja az általa alkalmazni kívánt általános szerződési feltételeket,
 - j) a Felügyelet által engedélyezésre kerülő általános képviselőt jelöl ki,
@@ -944,7 +946,7 @@ igazolását.
 - c) legalább 5 éves biztosítási vagy állami gazdálkodási, illetve az államigazgatás pénzügyi és gazdasági területén szerzett vezetői gyakorlattal rendelkezik,
 - d) egyetemi vagy főiskolai végzettséggel rendelkezik.
 
-(4) A harmadik országbeli biztosító fióktelepe köteles a biztonsági tőke fedezetét képező vagyoni eszközeit a Magyar Köztársaság területén elhelyezni, a minimális szavatoló tőke további fennmaradó részét fedező eszközöket pedig jogosult bármely tagállamban elhelyezni. Az (5) bekezdésben foglaltak alapján a választott felügyeleti hatóság jogosult ellenőrizni a fióktelep szavatoló tőke követelmény teljesítését valamennyi érintett tagállamban.
+(4) A harmadik országbeli biztosító fióktelepe köteles a biztonsági tőke fedezetét képező vagyoni eszközeit Magyarország területén elhelyezni, a minimális szavatoló tőke további fennmaradó részét fedező eszközöket pedig jogosult bármely tagállamban elhelyezni. Az (5) bekezdésben foglaltak alapján a választott felügyeleti hatóság jogosult ellenőrizni a fióktelep szavatoló tőke követelmény teljesítését valamennyi érintett tagállamban.
 
 (5) Ha a harmadik országban székhellyel rendelkező biztosító több tagállamban kért vagy kapott engedélyt fióktelep létesítésére, akkor kérelmezheti, hogy a (2) bekezdés h) pontjában meghatározott letétet kizárólag az érintett tagállamok egyikében helyezze el. Ennek feltétele
 
@@ -1301,9 +1303,9 @@ köteles foglalkoztatni.
 
 ### Az állományátruházás
 
-93. § (1) A biztosítási állomány – az átadó és az átvevő biztosító közötti megállapodás alapján – a Felügyelet engedélyével, a biztosítási szerződések feltételeinek változatlanul hagyása mellett, részben vagy egészben átruházható a Magyar Köztársaság területén székhellyel rendelkező biztosítóra, másik tagállamban székhellyel rendelkező biztosítóra, annak fióktelepére, valamint harmadik országban székhellyel rendelkező biztosító tagállamban létesített fióktelepére. Az állományátruházáshoz nem szükséges a biztosítottak, szerződő felek hozzájárulása. Az állományátruházással – a Felügyelet engedélyének időpontjától – a biztosítási állományt átvevő biztosító válik a szerződés alanyává, illetve az ügyfelek személyes adatai és üzleti titkai tekintetében adatkezelővé.
+93. § (1) A biztosítási állomány – az átadó és az átvevő biztosító közötti megállapodás alapján – a Felügyelet engedélyével, a biztosítási szerződések feltételeinek változatlanul hagyása mellett, részben vagy egészben átruházható Magyarország területén székhellyel rendelkező biztosítóra, másik tagállamban székhellyel rendelkező biztosítóra, annak fióktelepére, valamint harmadik országban székhellyel rendelkező biztosító tagállamban létesített fióktelepére. Az állományátruházáshoz nem szükséges a biztosítottak, szerződő felek hozzájárulása. Az állományátruházással – a Felügyelet engedélyének időpontjától – a biztosítási állományt átvevő biztosító válik a szerződés alanyává, illetve az ügyfelek személyes adatai és üzleti titkai tekintetében adatkezelővé.
 
-(2) A másik tagállamban székhellyel rendelkező biztosító Magyar Köztársaság területén lévő fióktelepének biztosítási állománya részben vagy egészben átruházható a másik tagállam felügyeleti hatóságának engedélyével.
+(2) A másik tagállamban székhellyel rendelkező biztosító Magyarország területén lévő fióktelepének biztosítási állománya részben vagy egészben átruházható a másik tagállam felügyeleti hatóságának engedélyével.
 
 94. § (1) Az állományátruházás engedélyezése iránti kérelemnek tartalmaznia kell
 
@@ -1311,7 +1313,7 @@ köteles foglalkoztatni.
 - b) az átruházó és az átvevő állományátadásra és -átvételre irányuló jognyilatkozatát,
 - c) az átruházandó állományhoz kapcsolódó biztosítástechnikai tartalékok és azok fedezetének megjelölését,
 - d) az állományátruházás időpontját, ellenértékét,
-- e) abban az esetben, ha az átvevő biztosító székhelye a Magyar Köztársaság területén van, annak bemutatását, hogy az átvevő biztosító rendelkezik a saját állományához tartozó minimális szavatoló tőkén túl az átvett állományhoz szükséges minimális szavatoló tőkével.
+- e) abban az esetben, ha az átvevő biztosító székhelye Magyarország területén van, annak bemutatását, hogy az átvevő biztosító rendelkezik a saját állományához tartozó minimális szavatoló tőkén túl az átvett állományhoz szükséges minimális szavatoló tőkével.
 
 (2) Az állományátruházást engedélyező felügyeleti hatóság megkeresi az átvevő biztosító felügyeleti hatóságát, kérve annak igazolását, hogy az átvevő biztosító szavatoló tőkéje az állomány átvétele után is eléri a minimális szavatoló tőke szintjét.
 
@@ -1332,7 +1334,7 @@ köteles foglalkoztatni.
 
 95. § (1) A Felügyelet az állományátruházás engedélyezéséről szóló határozatát köteles 2 országos napilapban közzétenni.
 
-(2) A szerződésállományt átvevő biztosító – az engedélyező határozat kézhezvételétől, biztosítók egyesülése esetén a cégbírósági vagy megyei (fővárosi) bírósági nyilvántartásba való bejegyzéstől számított 30 napon belül – köteles az átadásról minden érintett szerződő felet írásban értesíteni a szerződéskötés nyelvén. A szerződő fél az értesítés kézhezvételétől számított 30 napon belül az átvevő biztosítóhoz intézett írásbeli nyilatkozatával a szerződését – 30 napra – felmondhatja.
+(2) A szerződésállományt átvevő biztosító – az engedélyező határozat kézhezvételétől, biztosítók egyesülése esetén a cégbírósági vagy törvényszéki nyilvántartásba való bejegyzéstől számított 30 napon belül – köteles az átadásról minden érintett szerződő felet írásban értesíteni a szerződéskötés nyelvén. A szerződő fél az értesítés kézhezvételétől számított 30 napon belül az átvevő biztosítóhoz intézett írásbeli nyilatkozatával a szerződését – 30 napra – felmondhatja.
 
 (3) Biztosítók egyesülése, beolvadása, szétválása esetén az értesítési kötelezettség és a felmondási jog szempontjából az állományátruházásra vonatkozó szabályokat kell alkalmazni.
 
@@ -1584,7 +1586,7 @@ akkor a Felügyelet kikéri a befektetési vállalkozás, a hitelintézet, a biz
 
 112. § (1) A 111. § (1) bekezdésében meghatározott engedély megadását a Felügyelet elutasítja, ha a kérelmező
 
-- a) természetes személy büntetett előéletű;
+- a) természetes személy nem büntetlen előéletű;
 - b) jogállása, tulajdonosi háttere nem tisztázott, vagy nem állapítható meg;
 - c) vagyoni, üzleti helyzete nem szilárd;
 - d) súlyosan vagy ismételten megsértette e törvény vagy más, a biztosítási tevékenységre vonatkozó jogszabály előírásait és emiatt vele szemben a Felügyelet 5 évnél nem régebben kelt jogerős határozatában a kiszabható legmagasabb összegű bírságot alkalmazta, illetve a bíróság 5 évnél nem régebben kelt jogerős határozatában felelősségét megállapította;
@@ -2157,11 +2159,12 @@ köteles arról 30 napon belül írásban tájékoztatni a Felügyeletet.
 - n) a kárrendezéshez és a megtérítési igény érvényesítéséhez szükséges adatok tekintetében, továbbá ezek egymásközti átadásával kapcsolatban a Kártalanítási Számlát, illetve a Kártalanítási Alapot kezelő szervezettel, a Nemzeti Irodával, a levelezővel, az Információs Központtal, a Kártalanítási Szervezettel, kárrendezési megbízottal és a kárképviselővel, illetve a károkozóval, amennyiben az önrendelkezési jogával élve a közúti közlekedési balesetével kapcsolatos kárrendezés kárfelvételi jegyzőkönyvéből a balesetben érintett másik jármű javítási adataihoz kíván hozzáférni,
 - o) a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
 - p) fióktelep esetében – ha a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a harmadik országbeli biztosító székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal – a harmadik országbeli biztosítóval, biztosításközvetítővel, szaktanácsadóval,
-- q) a feladatkörében eljáró országgyűlési biztossal,
-- r)
+- q) a feladatkörében eljáró alapvető jogok biztosával,
+- r) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
 - s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval
+- t) a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel
 
-szemben, ha az a)–j), n), és s) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k), l), m), p) és q) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
+szemben, ha az a)–j), n), és s) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k), l), m), p), q) és r) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, illetve, ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 
@@ -2229,6 +2232,7 @@ van összefüggésben.
 - f) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző Kormány által kijelölt belső ellenőrzési szervvel,
 - g) vagyonellenőrrel,
 - h) Információs Központtal
+- i) , – a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében – az agrárkár-megállapító szervvel, agrárkár-enyhítési szervvel, mezőgazdasági igazgatási szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel
 
 szemben.
 
@@ -2367,7 +2371,7 @@ szemben.
 
 megküldeni.
 
-173. § A független biztosításközvetítő köteles a cégbíróságnál letétbe helyezettel egyező éves beszámolót a Felügyeletnek a mérlegfordulónapot követő 150 napon belül megküldeni.
+173. § A független biztosításközvetítő köteles a cégbíróságnál letétbe helyezettel egyező éves beszámolót a Felügyeletnek a mérlegfordulónapot követő ötödik hónap utolsó napjáig megküldeni.
 
 174–176. §
 
@@ -2597,14 +2601,14 @@ között kölcsönös finanszírozás eredményeként keletkezett.
 
 számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgáltatási, mind a banki és befektetési szolgáltatási ágazatban. A számítások során a banki és a befektetési szolgáltatási ágazat egy ágazatnak tekintendő.
 
-(5) A pénzügyi ágazaton belüli ágazatok közötti tevékenység jelentősnek minősül, ha a (4) bekezdés szerinti számítások alapján legkisebb ágazat mérlegfőösszege is meghaladja az egyezerhatszázmilliárd forintot.
+(5) A pénzügyi ágazaton belüli ágazatok közötti tevékenység jelentősnek minősül, ha a (4) bekezdés szerinti számítások alapján legkisebb ágazat mérlegfőösszege is meghaladja a hatmilliárd eurót.
 
 (6) A Felügyelet mint koordinátor az érdekelt felügyeleti hatóságokkal együttműködve pénzügyi konglomerátumnak tekinthet egy csoportot, és előírhatja a 189/F–189/G. § rendelkezéseinek betartását, ha
 
 - a) a legkisebb pénzügyi ágazat nagysága meghaladja az öt százalékot 1. a (4) bekezdés alapján számított átlag tekintetében vagy 2. ezen ágazat mérlegfőösszege és a pénzügyi ágazat mérlegfőösszegének arányában vagy 3. ezen ágazat tőkekövetelménye és a pénzügyi ágazat összesített tőkekövetelményének arányában; vagy
 - b) a banki vagy a befektetési szolgáltatási ágazatban a mérlegfőösszeg és a biztosítási szolgáltatási ágazatban a bruttó díjbevétel alapján számított piaci részesedés Magyarországon meghaladja az öt százalékot.
 
-(7) Ha valamely mutató értéke a (3)–(5) bekezdésben megadott érték alá csökken, de a (3) bekezdés szerinti érték a harmincöt százalékot, a (4) bekezdés szerinti érték a nyolc százalékot, illetőleg az (5) bekezdés szerinti érték az egyezerháromszázmilliárd forintot eléri, akkor a csoportot ezt követően még három évig pénzügyi konglomerátumnak kell tekinteni.
+(7) Ha valamely mutató értéke a (3)–(5) bekezdésben megadott érték alá csökken, de a (3) bekezdés szerinti érték a harmincöt százalékot, a (4) bekezdés szerinti érték a nyolc százalékot, illetőleg az (5) bekezdés szerinti érték az ötmilliárd eurót eléri, akkor a csoportot ezt követően még három évig pénzügyi konglomerátumnak kell tekinteni.
 
 (8) Ha a Felügyelet látja el a koordinátori feladatokat, akkor az érdekelt felügyeleti hatóságokkal együttműködve a (7) bekezdésben említett hároméves időtartam alatt bármikor dönthet a kiegészítő felügyelet gyakorlásának megszüntetéséről.
 
@@ -2701,7 +2705,8 @@ számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgált
 
 - a) a pénzügyi konglomerátumra vonatkozó kockázatkezelési elvek és stratégiák alapján megvalósuló vállalatirányítást,
 - b) azon tőkemegfelelési elveket, amelyek biztosítják az üzleti stratégia kockázatra és tőkemegfelelésre gyakorolt hatásának figyelembevételét,
-- c) a kockázatellenőrző rendszerek szervezethez történő igazodását, amely rendszerek összehangoltan működnek annak érdekében, hogy mérni és ellenőrizni lehessen a pénzügyi konglomerátum szintjén a kockázatokat.
+- c) a kockázatellenőrző rendszerek szervezethez történő igazodását, amely rendszerek összehangoltan működnek annak érdekében, hogy mérni és ellenőrizni lehessen a pénzügyi konglomerátum szintjén a kockázatokat,
+- d) azokat a legalább évente felülvizsgált szabályokat, amelyek a megfelelő helyreállítási és szanálási intézkedésekhez és tervekhez való hozzájárulást és – szükség esetén – azok kidolgozását célozzák.
 
 (3) A belső kontroll rendszer magában foglalja:
 
@@ -2739,7 +2744,8 @@ számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgált
 - d) ellenőrzi a 189/G. §-ban foglalt, a pénzügyi konglomerátum belső kontroll rendszerére és kockázatkezelésére vonatkozó rendelkezések betartását,
 - e) az érintett felügyeleti hatóságokkal együttműködve megtervezi és összehangolja a felügyeleti feladatok ellátását,
 - f) a kiegészítő felügyelet céljának elérése érdekében felmerülő egyéb feladatokat ellátja, a szükséges intézkedéseket megteszi, és a döntéseket meghozza,
-- g) értesíti a pénzügyi konglomerátum élén álló vállalkozást, az érintett felügyeleti hatóságokat, a vegyes pénzügyi holding társaság székhelye szerinti tagállam felügyeleti hatóságát és az Európai Bizottságot valamely csoportnak pénzügyi konglomerátummá történő minősítéséről és a koordinátor kijelöléséről.
+- g) értesíti a pénzügyi konglomerátum élén álló vállalkozást, az érintett felügyeleti hatóságokat, a vegyes pénzügyi holding társaság székhelye szerinti tagállam felügyeleti hatóságát és az Európai Bizottságot valamely csoportnak pénzügyi konglomerátummá történő minősítéséről és a koordinátor kijelöléséről,
+- g) értesíti a pénzügyi konglomerátum élén álló vállalkozást, az érintett felügyeleti hatóságokat, a vegyes pénzügyi holding társaság székhelye szerinti tagállam felügyeleti hatóságát és az európai felügyeleti hatóságok vegyes bizottságát valamely csoportnak pénzügyi konglomerátummá történő minősítéséről és a koordinátor kijelöléséről.
 
 (2) A kiegészítő felügyelet elősegítése és megvalósítása érdekében a Felügyelet mint koordinátor az érintett felügyeleti hatóságokkal, valamint szükség esetén más érdekelt felügyeleti hatóságokkal együttműködési megállapodást köt.
 
@@ -2758,7 +2764,7 @@ számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgált
 - g) a pénzügyi konglomerátum szabályozott vállalkozásának működését kedvezőtlenül befolyásoló változás figyelemmel kísérésére,
 - h) a felügyeleti hatóság által hozott szankciókról és kivételes intézkedésekről történő tájékoztatásra.
 
-(3) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében az Európai Unió tagállamainak jegybankjaival, az Európai Központi Bankkal és a Központi Bankok Európai Rendszerével is folytathat információcserét.
+(3) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében az Európai Unió tagállamainak jegybankjaival, az Európai Központi Bankkal, és a Központi Bankok Európai Rendszerével és az Európai Rendszerkockázati Testülettel is folytathat információcserét.
 
 (4) A Felügyeletnek – a határozata meghozatalát megelőzően – egyeztetnie kell azon érintett felügyeleti hatósággal, amely felügyeleti feladatának ellátását a döntés érintheti
 
@@ -2785,7 +2791,7 @@ tekintetében.
 
 189/M. § (1) A 189/B. § (3) bekezdésének b) és c) pontjában említett biztosítót tartalmazó pénzügyi konglomerátum esetében a pénzügyi konglomerátum élén álló harmadik országbeli anyavállalat figyelmen kívül hagyásával kell az érintett hatóságoknak kijelölniük a koordinátort.
 
-(2) Ha az (1) bekezdés szerint a Felügyelet a koordinátor, akkor megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak. A vizsgálat során az érintett felügyeleti hatóságokkal egyeztet a Pénzügyi Konglomerátumok Bizottsága (Financial Conglomerates Committee) által kiadott iránymutatásokat is figyelembe véve. Az egyeztetést követően a Felügyelet mint koordinátor dönt a jogrend megfelelőségéről.
+(2) Ha az (1) bekezdés szerint a Felügyelet a koordinátor, akkor megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak. A vizsgálat során az érintett felügyeleti hatóságokkal egyeztet és mindent elkövet, hogy az európai felügyeleti hatóságok vegyes bizottsága által készített alkalmazandó iránymutatást betartson. Az egyeztetést követően a Felügyelet mint koordinátor dönt a jogrend megfelelőségéről.
 
 (3) Ha a harmadik ország jogrendje megfelel az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak, akkor az olyan pénzügyi konglomerátum kiegészítő felügyeletét, amelynek élén a 189/B. § (3) bekezdésének b), illetőleg c) pontjában meghatározott biztosító harmadik országbeli anyavállalata áll, nem a Felügyelet látja el.
 
@@ -2926,7 +2932,7 @@ tekintetében.
 
 ### A Felügyelet tájékoztatási kötelezettsége
 
-206. § (1) A Felügyelet az általa kiadott alapítási és biztosítási tevékenységi engedélyről, annak módosításáról vagy visszavonásáról szóló határozatát haladéktalanul megküldi a miniszternek, az MNB-nek, a cégbíróságnak, az egyesületek nyilvántartását végző fővárosi (megyei) bíróságnak, a Gazdasági Versenyhivatalnak és a biztosítók szakmai érdekképviseleti szervezeteinek.
+206. § (1) A Felügyelet az általa kiadott alapítási és biztosítási tevékenységi engedélyről, annak módosításáról vagy visszavonásáról szóló határozatát haladéktalanul megküldi a miniszternek, az MNB-nek, a cégbíróságnak, az egyesületek nyilvántartását végző törvényszéknek, a Gazdasági Versenyhivatalnak és a biztosítók szakmai érdekképviseleti szervezeteinek.
 
 (2)
 
@@ -2973,13 +2979,13 @@ tekintetében.
 
 208. §
 
-### Az Európai Unió másik tagállamában székhellyel rendelkező biztosító, független biztosításközvetítő és szaktanácsadó fióktelep útján, illetve határon átnyúló szolgáltatás keretében a Magyar Köztársaság területén végzett tevékenységének felügyelete
+### Az Európai Unió másik tagállamában székhellyel rendelkező biztosító, független biztosításközvetítő és szaktanácsadó fióktelep útján, illetve határon átnyúló szolgáltatás keretében Magyarország területén végzett tevékenységének felügyelete
 
-209. § (1) A Magyar Köztársaság területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében biztosítási, független biztosításközvetítői, szaktanácsadói tevékenységet végző, másik tagállamban székhellyel rendelkező biztosító, független biztosításközvetítő, szaktanácsadó felügyeleti hatósága, illetve az erre általa felhatalmazott személy jogosult, hogy – a Felügyelet előzetes értesítését követően – a Magyar Köztársaság területén a határon átnyúló szolgáltatást, a fióktelepet ellenőrizze.
+209. § (1) Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében biztosítási, független biztosításközvetítői, szaktanácsadói tevékenységet végző, másik tagállamban székhellyel rendelkező biztosító, független biztosításközvetítő, szaktanácsadó felügyeleti hatósága, illetve az erre általa felhatalmazott személy jogosult, hogy – a Felügyelet előzetes értesítését követően – Magyarország területén a határon átnyúló szolgáltatást, a fióktelepet ellenőrizze.
 
 (2) Az (1) bekezdés szerinti ellenőrzésben a Felügyelet is részt vehet.
 
-210. § (1) Ha a Magyar Köztársaság területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében tevékenységet végző, másik tagállamban székhellyel rendelkező biztosító, független biztosításközvetítő, szaktanácsadó megsérti a Magyar Köztársaság területén hatályos előírásokat, illetve működésében a Felügyelet hiányosságokat észlel, a Felügyelet kötelezi a fióktelepet, illetve a biztosítót, a független biztosításközvetítőt, a szaktanácsadót a szabályellenes helyzet megszüntetésére.
+210. § (1) Ha a Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében tevékenységet végző, másik tagállamban székhellyel rendelkező biztosító, független biztosításközvetítő, szaktanácsadó megsérti a Magyarország területén hatályos előírásokat, illetve működésében a Felügyelet hiányosságokat észlel, a Felügyelet kötelezi a fióktelepet, illetve a biztosítót, a független biztosításközvetítőt, a szaktanácsadót a szabályellenes helyzet megszüntetésére.
 
 (2) Ha a fióktelep, illetve a biztosító, a független biztosításközvetítő, a szaktanácsadó a Felügyelet határozatában foglalt kötelezésnek határidőben nem tesz eleget, a Felügyelet értesíti a székhely szerinti tagállam felügyeleti hatóságát, illetve kezdeményezi a szükséges intézkedések megtételét.
 
@@ -2987,17 +2993,17 @@ tekintetében.
 
 (4) A Felügyelet az új biztosítási szerződések létrejöttének megakadályozása érdekében a magyar jogszabályok megsértése esetén – az (1)–(3) bekezdések mellőzésével – közvetlenül is intézkedhet, ha a jogszabálysértő helyzet fennállása súlyosan veszélyezteti a biztosítási piac biztonságát, illetve az ügyfelek érdekeit.
 
-211. § (1) Ha a Felügyelet a rendelkezésére álló információk alapján úgy ítéli meg, hogy a másik tagállamban székhellyel rendelkező biztosító a Magyar Köztársaság területén fióktelepe útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenysége veszélyezteti a biztosító pénzügyi biztonságát, értesíti a biztosító székhelye szerinti tagállam illetékes felügyeleti hatóságát.
+211. § (1) Ha a Felügyelet a rendelkezésére álló információk alapján úgy ítéli meg, hogy a másik tagállamban székhellyel rendelkező biztosító Magyarország területén fióktelepe útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenysége veszélyezteti a biztosító pénzügyi biztonságát, értesíti a biztosító székhelye szerinti tagállam illetékes felügyeleti hatóságát.
 
 (2) Ha a másik tagállamban székhellyel rendelkező biztosító fióktelepének székhely szerinti felügyeleti hatósága a biztosító tevékenységi engedélyét visszavonta és erről a Felügyeletet értesítette, a Felügyelet köteles megtenni a szükséges intézkedéseket, hogy megakadályozza az érintett biztosítót a további biztosítási tevékenység folytatásában.
 
 (3) Ha a fióktelep tevékenysége veszélyezteti a biztosító pénzügyi biztonságát, a székhely szerinti tagállam felügyeleti hatóságának kérésére a Felügyelet a fióktelep pénzügyi eszközök feletti szabad rendelkezését korlátozhatja, illetve megtilthatja. A székhely szerinti tagállam felügyeleti hatósága az intézkedés iránti kérelmében köteles megjelölni az intézkedéssel érinteni kívánt pénzügyi eszközöket.
 
-(4) Az illetékes felügyeleti hatóság kérelmére a Felügyelet jogosult a másik tagállamban székhellyel rendelkező biztosítónak a Magyar Köztársaság területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint a biztosítótól adatszolgáltatást kérni.
+(4) Az illetékes felügyeleti hatóság kérelmére a Felügyelet jogosult a másik tagállamban székhellyel rendelkező biztosítónak Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint a biztosítótól adatszolgáltatást kérni.
 
-### A Magyar Köztársaság területén székhellyel rendelkező biztosító fióktelep útján, illetve határon átnyúló szolgáltatás keretében más tagállam területén végzett tevékenységének felügyelete
+### Magyarország területén székhellyel rendelkező biztosító fióktelep útján, illetve határon átnyúló szolgáltatás keretében más tagállam területén végzett tevékenységének felügyelete
 
-212. § (1) Ha a Magyar Köztársaság területén székhellyel rendelkező biztosító másik tagállamban lévő fióktelepének tevékenysége veszélyezteti a biztosító pénzügyi biztonságát, a Felügyelet kérelemmel fordulhat a fióktelep tagállamának illetékes felügyeleti hatóságához, hogy az a fióktelep pénzügyi eszközök feletti szabad rendelkezését korlátozza, illetve megtiltsa. A Felügyelet kérelmében köteles megjelölni az intézkedéssel érinteni kívánt pénzügyi eszközöket.
+212. § (1) Ha Magyarország területén székhellyel rendelkező biztosító másik tagállamban lévő fióktelepének tevékenysége veszélyezteti a biztosító pénzügyi biztonságát, a Felügyelet kérelemmel fordulhat a fióktelep tagállamának illetékes felügyeleti hatóságához, hogy az a fióktelep pénzügyi eszközök feletti szabad rendelkezését korlátozza, illetve megtiltsa. A Felügyelet kérelmében köteles megjelölni az intézkedéssel érinteni kívánt pénzügyi eszközöket.
 
 (2) A Felügyelet kérelmére az illetékes felügyeleti hatóság jogosult a másik tagállamban lévő fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységet a helyszínen ellenőrizni, valamint a biztosítótól adatszolgáltatást kérni.
 
@@ -3005,13 +3011,13 @@ tekintetében.
 
 ### A harmadik országban székhellyel rendelkező biztosító, független biztosításközvetítő, szaktanácsadó magyarországi fióktelepének felügyelete
 
-214. § A Magyar Köztársaság területén fiókteleppel rendelkező harmadik országbeli biztosító, független biztosításközvetítő, szaktanácsadó a saját joga alapján elkészített és könyvvizsgálóval hitelesített mérlegének és eredmény kimutatásának hivatalos magyar nyelvű fordítását a jóváhagyást követő 30 napon belül 2 országos napilapban köteles közzétenni.
+214. § Magyarország területén fiókteleppel rendelkező harmadik országbeli biztosító, független biztosításközvetítő, szaktanácsadó a saját joga alapján elkészített és könyvvizsgálóval hitelesített mérlegének és eredmény kimutatásának hivatalos magyar nyelvű fordítását a jóváhagyást követő 30 napon belül 2 országos napilapban köteles közzétenni.
 
 215. § (1) A Felügyelet intézkedéseket tehet, ha a harmadik országbeli biztosító, független biztosításközvetítő, szaktanácsadó székhelye szerinti felügyeleti hatóság az adott biztosítóval, független biztosításközvetítővel, szaktanácsadóval, vagy annak bármely államban működő fióktelepével szemben olyan ok miatt alkalmazott intézkedést, amely a magyarországi fióktelep biztonságos működését érinti.
 
-(2) Ha az illetékes felügyeleti hatóság kéri, a Felügyelet jogosult a Magyar Köztársaság területén fiókteleppel rendelkező harmadik országbeli biztosító, független biztosításközvetítő, szaktanácsadó tevékenységét a helyszínen ellenőrizni, valamint azoktól adatszolgáltatást kérni.
+(2) Ha az illetékes felügyeleti hatóság kéri, a Felügyelet jogosult Magyarország területén fiókteleppel rendelkező harmadik országbeli biztosító, független biztosításközvetítő, szaktanácsadó tevékenységét a helyszínen ellenőrizni, valamint azoktól adatszolgáltatást kérni.
 
-(3) Viszonosság fennállásának esetén, illetve érvényben lévő felügyeleti együttműködési megállapodás alapján a Felügyelet hozzájárulhat, hogy a harmadik országbeli biztosító, független biztosításközvetítő, szaktanácsadó székhelye szerinti felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő a Magyar Köztársaság területén lévő fióktelep tevékenységét a helyszínen ellenőrizze.
+(3) Viszonosság fennállásának esetén, illetve érvényben lévő felügyeleti együttműködési megállapodás alapján a Felügyelet hozzájárulhat, hogy a harmadik országbeli biztosító, független biztosításközvetítő, szaktanácsadó székhelye szerinti felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő Magyarország területén lévő fióktelep tevékenységét a helyszínen ellenőrizze.
 
 ## KILENCEDIK RÉSZ — A SZÜKSÉGHELYZET, A FELSZÁMOLÁS ÉS A VÉGELSZÁMOLÁS SAJÁTOS SZABÁLYAI
 
@@ -3029,9 +3035,9 @@ a Felügyelet a felszámolás elkerülése, valamint a biztosítottak érdekébe
 
 (2) Szükséghelyzetben a Felügyelet a 195. §-ban meghatározott intézkedéseket teheti.
 
-(3) Ha a Felügyeletnek a 210–211. §-ok szerinti intézkedése nem vezetett eredményre, azaz a biztosító a székhely szerinti tagállam felügyeleti hatósága által megtett intézkedések ellenére, vagy a nem megfelelő intézkedés, vagy az intézkedés elmaradása miatt a továbbiakban is jogszabálysértő magatartást folytat, a Felügyelet – a székhely szerinti állam felügyeleti hatóságának értesítését követően – lépéseket tehet a további jogszabálysértés megakadályozására, beleértve a biztosító megakadályozását abban, hogy a Magyar Köztársaság területén újabb biztosítási szerződéseket kössön.
+(3) Ha a Felügyeletnek a 210–211. §-ok szerinti intézkedése nem vezetett eredményre, azaz a biztosító a székhely szerinti tagállam felügyeleti hatósága által megtett intézkedések ellenére, vagy a nem megfelelő intézkedés, vagy az intézkedés elmaradása miatt a továbbiakban is jogszabálysértő magatartást folytat, a Felügyelet – a székhely szerinti állam felügyeleti hatóságának értesítését követően – lépéseket tehet a további jogszabálysértés megakadályozására, beleértve a biztosító megakadályozását abban, hogy Magyarország területén újabb biztosítási szerződéseket kössön.
 
-(4) Ha a jogszabálysértést elkövető biztosító a Magyar Köztársaság területén valamely vállalkozásban tulajdonosi részesedéssel, illetve vagyoni értékű joggal rendelkezik, ez esetben a Felügyelet által alkalmazott intézkedés alapján – a hatályos jogi szabályozással összhangban – végrehajtás e vállalkozásra, vagy vagyoni értékű jogra vezethető.
+(4) Ha a jogszabálysértést elkövető biztosító Magyarország területén valamely vállalkozásban tulajdonosi részesedéssel, illetve vagyoni értékű joggal rendelkezik, ez esetben a Felügyelet által alkalmazott intézkedés alapján – a hatályos jogi szabályozással összhangban – végrehajtás e vállalkozásra, vagy vagyoni értékű jogra vezethető.
 
 ### A csődeljárás, a felszámolási eljárásés végelszámolás közös szabályai
 
@@ -3251,7 +3257,7 @@ rendeletben állapítsa meg.
 235. § Felhatalmazást kap a miniszter, hogy
 
 - a)
-- b) a függő és a független biztosításközvetítői hatósági képzés szabályait, a hatósági képzés során szerzett, függő és független biztosításközvetítői tevékenység folytatására feljogosító okirat megszerzésének követelményeit, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére vonatkozó szabályokat,
+- b) a Felügyelet függő és a független biztosításközvetítői hatósági képzéssel összefüggő feladataira vonatkozó szabályokat, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére vonatkozó szabályokat,
 - c) a jelzáloghitelezési tevékenységgel kapcsolatos kockázatok megállapításának, elemzésének, értékelésének, behatárolásának, kezelésének, csökkentésének és a kockázatvállalás ellenőrzésének részletes szabályait,
 - d)
 - e)
@@ -3271,7 +3277,12 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-235/A. § Felhatalmazást kap a Felügyelet elnöke, hogy a technikai kamatláb legnagyobb mértékét rendeletben állapítsa meg.
+235/A. § Felhatalmazást kap a Felügyelet elnöke, hogy
+
+- a) a technikai kamatláb legnagyobb mértékét,
+- b) a függő és független biztosításközvetítői hatósági képzés részletes szabályait, a hatósági képzés során szerzett, a Felügyelet által kiadott pénzügyi szolgáltatás közvetítésére feljogosító tanúsítvány megszerzésének feltételeire és érvényességének követelményeire vonatkozó szabályokat,
+- c) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére, valamint az egyes biztosítási termékekre vonatkozó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat,
+- d) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező ajánlat tartalmának a szerződés írásba foglalásáig vagy az írásos visszaigazolásáig történő rögzítésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -4404,6 +4415,8 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 34. Az Európai Parlament és a Tanács 2005. november 16-i 2005/68/EK irányelve a viszontbiztosításról és a 73/239/EGK, a 92/49/EGK tanácsi irányelv, valamint a 98/78/EK és a 2002/83/EK irányelv módosításáról.
 
 35. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
+
+36. Az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
 
 ### 13. számú melléklet a 2003. évi LX. törvényhez
 

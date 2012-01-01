@@ -56,7 +56,7 @@ legalább 50%-os mértékű egészségkárosodást szenvedett, havi 21972 Ft nem
 
 ### Eljárási szabályok
 
-6. § (1) A kérelmet — a rendelkezésre álló bizonyítékokkal és esetleges további bizonyítási indítványokkal együtt — a kárpótlási hatóság által rendszeresített formanyomtatványon a kárpótlási hatósághoz lehet benyújtani.
+6. § (1) A kérelmet – a rendelkezésre álló bizonyítékokkal és esetleges további bizonyítási indítványokkal együtt – a kárpótlási hatóság által rendszeresített formanyomtatványon a kárpótlási hatósághoz 2012. március 30-ig lehet benyújtani. A határidő elmulasztása jogvesztéssel jár, a mulasztás miatt igazolásnak nincs helye.
 
 (2) A kérelmet a kárpótlási hatóság bírálja el.
 
@@ -66,11 +66,15 @@ legalább 50%-os mértékű egészségkárosodást szenvedett, havi 21972 Ft nem
 
 (5) A jogosultság elbírálásához szükséges orvosi szakértői véleményt — amennyiben az nem áll az érintett rendelkezésére, vagy nem tükrözi a véglegesen kialakult állapotot — orvosszakértői szerv adja ki.
 
+(6) A kérelmező nem jogosult a kárpótlási hatósággal elektronikus úton kapcsolatot tartani.
+
 7. § (1) A kárpótlási hatóság a kérelemnek helyt adó határozatot megküldi a nyugdíjfolyósító szervnek.
 
 (2) A nemzeti gondozási díjat a nyugdíjfolyósító szerv havonta a nyugdíjjal együtt — ennek hiányában önállóan — folyósítja.
 
 (3) A (2) bekezdés szerint folyósított nemzeti gondozási díj összegét a költségvetés a Nyugdíjbiztosítási Alapnak megtéríti. A megtérítésre vonatkozó eljárást az államháztartásért felelős miniszter és a Nyugdíjbiztosítási Alap kezelője megállapodásban rögzíti.
+
+7/A. § Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
 
 ### Záró rendelkezések
 

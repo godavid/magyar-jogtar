@@ -39,8 +39,8 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - 10. Harmadik országbeli könyvvizsgáló gazdálkodó: jogi formájától függetlenül olyan szervezet, amely nem könyvvizsgáló cég, és harmadik országban rendelkezik jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosító engedéllyel.
 - 11. IFAC: Nemzetközi Könyvvizsgálói Szövetség (International Federation of Accountants).
 - 12. Jogsegélyszolgálat: a kamarai tagok egyéni érdekvédelmét elősegítő kamarai szolgáltatás.
-- 13. Kamarai tag könyvvizsgáló: az a természetes személy, aki a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult a Magyar Köztársaság területén.
-- 14. Könyvvizsgáló cég: jogi formájától függetlenül az a gazdálkodó szervezet (szervezet), amely a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult a Magyar Köztársaság területén.
+- 13. Kamarai tag könyvvizsgáló: az a természetes személy, aki a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
+- 14. Könyvvizsgáló cég: jogi formájától függetlenül az a gazdálkodó szervezet (szervezet), amely a kamara engedélyével jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
 - 15. Könyvvizsgáló cég kapcsolt vállalkozása: jogi formájától függetlenül bármely olyan gazdálkodó szervezet (szervezet), amely közös tulajdonlás, ellenőrzés vagy vezetés révén kapcsolatban áll a könyvvizsgáló céggel.
 - 16. Könyvvizsgáló jelölt: a szakmai kompetencia vizsga előfeltételeként előírt szakmai gyakorlatát teljesítő, okleveles könyvvizsgálói szakképesítéssel rendelkező természetes személy.
 - 17. Könyvvizsgálói hálózat: az a nagyobb kiterjedésű struktúra, – amelynek célja az együttműködés, és amelyhez a kamarai tag könyvvizsgáló, a könyvvizsgáló cég tartozik, valamint – amelynek célja egyértelműen a nyereség vagy a költségek megosztása, vagy amely közös tulajdonban működik, közös ellenőrzéssel vagy vezetéssel, közös minőségellenőrzési politikával és eljárásokkal, közös üzletstratégiával rendelkezik, közös márkanevet használ, vagy megosztja a szakmai erőforrások meghatározó részét.
@@ -48,13 +48,14 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - 19. Közérdeklődésre számot tartó gazdálkodó:
   - a) az a gazdálkodó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták,
   - b) minden olyan, az a) pont hatálya alá nem tartozó gazdálkodó, amelyet jogszabály közérdeklődésre számot tartónak minősít.
-- 20. Különbözeti vizsga: olyan vizsga, amelyet magyar nyelven kell teljesíteni, és amely a Magyar Köztársaság területén folytatott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásához szükséges ismeretek ellenőrzésére terjed ki.
+- 20. Különbözeti vizsga: olyan vizsga, amelyet magyar nyelven kell teljesíteni, és amely a Magyarország területén folytatott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásához szükséges ismeretek ellenőrzésére terjed ki.
 - 21. Mentor: az a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgáló, aki a könyvvizsgáló jelöltet a szakmai tapasztalatok elsajátításában segíti.
 - 22. Nemzetközi könyvvizsgálati standardok: a Nemzetközi Könyvvizsgálati és Bizonyosságot Nyújtó Szolgáltatási Standardok Testület [International Auditing and Assurance Standard Board (IAASB)] által kibocsátott és elfogadott Nemzetközi Könyvvizsgálati Standardok [International Standards on Auditing (ISA)] és kapcsolódó állásfoglalások, valamint egyéb standardok, amelyek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységhez kapcsolódnak.
 - 23. Szabályozott piac: a tőkepiacról szóló törvényben meghatározott fogalom.
 - 24. Szakmai kompetencia vizsga: annak ellenőrzése, hogy a könyvvizsgáló jelölt a számára előírt szakmai gyakorlati idő alatt megfelelő szakmai tapasztalatot szerzett és ismereteit képes valós körülmények között alkalmazni.
 - 25. Szakmai szolgáltatás: a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység és az egyéb szakmai szolgáltatás.
 - 26. Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
+- 27. Munkaviszony jellegű jogviszony: minden olyan, munkaviszonynak, közalkalmazotti, köztisztviselői jogviszonynak, szolgálati viszonynak nem minősülő jogviszony, melyben a munkaviszonyra jellemző tartalmi elemek meghatározó jelleggel érvényesülnek. Munkaviszonyra jellemző tartalmi elemek különösen: a folyamatos és személyes munkavégzési jelleg, a rendszeres díjazási jogosultság, a rendelkezésre állási kötelezettség, az alá-fölé rendeltségi viszony (betagozódás a szervezeti hierarchiába), az irányítási, utasításadási és ellenőrzési jog (vezetői jellegű jogviszony esetén), a munkavégzés időtartamának, a munkaidő beosztásának meghatározása, a munkavégzés helyének megjelölése, a munkaeszközök és nyersanyagok, valamint a munkavégzés egyéb feltételeinek biztosítása.
 
 ### A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység
 
@@ -77,7 +78,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 (2) A kamara országos hatáskörű jogi személy, amely feladatainak ellátására jogi személyiséggel nem rendelkező központi szerveket és területi szervezeteket hoz létre.
 
-(3) A kamara jogosult arra, hogy a Magyar Köztársaság címerét a kamara épületein, helyiségeiben elhelyezze, valamint hivatalos iratain és bélyegzőin feltüntesse.
+(3)
 
 (4) A 2006/43/EK irányelv alkalmazásában a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásának engedélyezése, a kamarai tagok és a könyvvizsgáló cégek nyilvántartásba vétele, a minőségbiztosítás, a fegyelmi eljárások, a harmadik országbeli könyvvizsgálók és harmadik országbeli könyvvizsgáló gazdálkodók jegyzékbe vétele tekintetében a kamara minősül illetékes hatóságnak.
 
@@ -167,7 +168,8 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - a) a kamarai tagsági viszony, valamint a könyvvizsgáló cég engedélye megszűnésének megállapításáért,
 - b) a kamarai tag könyvvizsgáló, könyvvizsgáló cég 49. § szerinti minősítésének visszavonásáért,
 - c) a harmadik országbeli könyvvizsgálók és a harmadik országbeli könyvvizsgáló gazdálkodók jegyzékéből történő törlésért,
-- d) a könyvvizsgáló jelöltek névjegyzékéből való törlésért indított kamarai hatósági eljárásért.
+- d) a könyvvizsgáló jelöltek névjegyzékéből való törlésért,
+- e) a 70 év feletti kamarai tag könyvvizsgálóknak a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység szüneteltetésének engedélyezéséért indított kamarai hatósági eljárásért.
 
 (3) Az a kamarai tag könyvvizsgáló, aki egyéni vállalkozóként kéri a 35. § szerinti eljárás lefolytatását, mentesül ezen eljárás tekintetében az igazgatási szolgáltatási díjfizetés alól.
 
@@ -185,19 +187,19 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 ### Kamarai tagság keletkezése
 
-10. § (1) Természetes személyként jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet a Magyar Köztársaság területén az végezhet, aki a kamara tagja és rendelkezik az ezt igazoló könyvvizsgálói igazolvánnyal.
+10. § (1) Természetes személyként jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet Magyarország területén az végezhet, aki a kamara tagja és rendelkezik az ezt igazoló könyvvizsgálói igazolvánnyal.
 
 (2) A kamarai tagfelvétel tekintetében a kamara felvételi bizottsága jár el.
 
 11. § (1) A kamarába – kérelem alapján – tagként fel kell venni azt a természetes személyt, aki megfelel a következő feltételeknek:
 
-- a) a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet kíván folytatni,
+- a) Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet kíván folytatni,
 - b) rendelkezik az e törvényben meghatározott okleveles könyvvizsgálói szakképesítéssel,
 - c) a kérelem benyújtását megelőző egy éven belül sikeresen teljesítette a szakmai kompetencia vizsgát, ha e kötelezettség alól a 104. § (2) bekezdése alapján nem mentesül,
 - d)
 - e) vállalja, hogy más kamarai tag könyvvizsgálónál, könyvvizsgáló cégnél létesített munkaviszonyán kívüli munkaviszonyban, továbbá közalkalmazotti, köztisztviselői jogviszonyban, szolgálati viszonyban, munkaviszony jellegű jogviszonyban a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megkezdésének időpontjától nem áll [ide nem értve a (2) bekezdés szerinti jogviszonyt],
 - f) vállalja, hogy könyvvizsgáló cégen kívül más gazdálkodó szervezetben (szervezetben) személyes közreműködésre tagként, vezető tisztségviselőként a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megkezdésének időpontjától nem lesz kötelezett [ide nem értve a (2) bekezdés szerinti jogviszonyt],
-- g) a kamara alapszabályában meghatározott mértékű, a Magyar Köztársaság területén végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó könyvvizsgálói felelősségbiztosítással rendelkezik,
+- g) a kamara alapszabályában meghatározott mértékű, Magyarország területén végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó könyvvizsgálói felelősségbiztosítással rendelkezik,
 - h) a kamara alapszabályában és a kamara önkormányzati szabályzataiban foglaltakat magára kötelezőnek ismeri el,
 - i) vállalja a kamarai tagdíj megfizetését,
 - j) nem esik a 12. §-ban felsorolt kizáró okok alá,
@@ -256,7 +258,7 @@ feltéve, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevé
 
 (2) Az eskü szövege a következő:
 
-„Én, ....................................... esküszöm, hogy könyvvizsgálói tevékenységemet a Magyar Köztársaság Alkotmánya, a jogszabályok rendelkezései, a szakmai és etikai követelmények szerint lelkiismeretesen, legjobb tudásom szerint végzem és e tevékenységem során tudomásomra jutott minősített adatot, hivatásbeli és üzleti titkot megőrzöm.
+„Én, ....................................... esküszöm, hogy könyvvizsgálói tevékenységemet az Alaptörvény és a jogszabályok rendelkezései, a szakmai és etikai követelmények szerint lelkiismeretesen, legjobb tudásom szerint végzem és e tevékenységem során tudomásomra jutott minősített adatot, hivatásbeli és üzleti titkot megőrzöm.
 
 (Az eskütevő meggyőződése szerint:)
 
@@ -433,7 +435,7 @@ Isten engem úgy segéljen!”
 
 ### Jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezése gazdálkodó szervezetnek (szervezetnek)
 
-34. § (1) Gazdálkodó szervezet (szervezet) a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet akkor végezhet, ha azt a kamara a 35. § alapján engedélyezte és arról igazolást adott [az engedéllyel és igazolással rendelkező gazdálkodó szervezet (szervezet) a továbbiakban: könyvvizsgáló cég].
+34. § (1) Gazdálkodó szervezet (szervezet) Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet akkor végezhet, ha azt a kamara a 35. § alapján engedélyezte és arról igazolást adott [az engedéllyel és igazolással rendelkező gazdálkodó szervezet (szervezet) a továbbiakban: könyvvizsgáló cég].
 
 (2) Az (1) bekezdés szerinti igazolás tanúsítja a jogosultságot a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére.
 
@@ -443,13 +445,13 @@ Isten engem úgy segéljen!”
 
 35. § Kérelem alapján jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére engedélyt kell adni annak a gazdálkodó szervezetnek (szervezetnek), amely megfelel az alábbi követelményeknek:
 
-- a) a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet kíván folytatni,
+- a) Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet kíván folytatni,
 - b) a gazdálkodó szervezet (szervezet) legfőbb szervében a szavazati jogok többségével az Európai Gazdasági Térség valamely államában jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult könyvvizsgáló(k) vagy könyvvizsgáló cég(ek) rendelkezik (rendelkeznek),
 - c) a gazdálkodó szervezet (szervezet) legfőbb irányító (vezető) szerve tagjainak többsége az Európai Gazdasági Térség valamely államában jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult könyvvizsgáló vagy könyvvizsgáló cég. Ha a legfőbb irányító (vezető) szerv tagjainak száma nem haladja meg a kettőt, akkor legalább az egyik tagnak teljesítenie kell ezt a követelményt,
 - d) a gazdálkodó szervezet (szervezet) nevében kamarai tag könyvvizsgáló(k) végzi(k) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet,
 - e) a gazdálkodó szervezet (szervezet) jó üzleti hírnévvel rendelkezik,
 - f) nem végez olyan tevékenységet, amely akadályozná a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátásában,
-- g) a kamara alapszabályában meghatározott mértékű, a Magyar Köztársaság területén végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó könyvvizsgálói felelősségbiztosítással rendelkezik,
+- g) a kamara alapszabályában meghatározott mértékű, Magyarország területén végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó könyvvizsgálói felelősségbiztosítással rendelkezik,
 - h) a kamara alapszabályában és a kamara önkormányzati szabályzataiban foglaltakat magára kötelezőnek ismeri el,
 - i) vállalja a kamara alapszabályában meghatározott hozzájárulási díj fizetését,
 - j) nem esik a 36. §-ban felsorolt kizáró okok alá,
@@ -562,7 +564,7 @@ Isten engem úgy segéljen!”
 
 (2) Kérelem alapján minősítést a kamarai tag könyvvizsgáló akkor kaphat, ha igazolja, hogy a minősítés megadása iránti kérelem benyújtását megelőző 5 éven belül
 
-- a) legalább három éven át a minősítésnek megfelelő tevékenységet végző gazdálkodóra vonatkozóan számviteli, ellenőrzési tevékenységet végzett (ideértve az ehhez kapcsolódó szabályozási és felügyeleti feladatokat is) és legalább két éves gyakorlata van a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, vagy
+- a) legalább három éven át a minősítésnek megfelelő tevékenységet végző (IFRS minősítés esetén a beszámolóját a nemzetközi számviteli standardok szerint összeállító) gazdálkodóra vonatkozóan számviteli, ellenőrzési tevékenységet végzett (ideértve az ehhez kapcsolódó szabályozási és felügyeleti feladatokat is) és legalább két éves gyakorlata van a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, vagy
 - b) legalább három éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és adott minősítésű kamarai tag könyvvizsgáló mellett legalább két évig közreműködött olyan gazdálkodó tekintetében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, amelyre vonatkozóan jogszabály az adott minősítés meglétét előírja.
 
 (3) Kérelem alapján minősítést a könyvvizsgáló cég akkor kaphat, ha megfelel az alábbi feltételeknek:
@@ -620,7 +622,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (5) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem fizethet jutalékot ügyfélszerzésért, és nem kaphat jutalékot azért, hogy harmadik félnek ügyfelet ajánljon.
 
-(6) A kamara a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásáért járó díjak meghatározásának elveire, elsődleges szempontjaira ajánlást adhat ki.
+(6) A kamara a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásáért járó díjak meghatározásának elveire, elsődleges szempontjaira, a díjtételek alsó határaira ajánlást adhat ki.
 
 ### A közérdeklődésre számot tartó gazdálkodó tekintetében ellátott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység különös szabályai
 
@@ -724,7 +726,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 ### Jegyzékbe vétel
 
-68. § (1) Amennyiben a harmadik országbeli illetőséggel rendelkező gazdálkodó (szervezet) átruházható értékpapírjainak kereskedelme engedélyezett a Magyar Köztársaság szabályozott piacán, az éves beszámolójáról és az összevont (konszolidált) éves beszámolójáról kiadott könyvvizsgálói jelentés abban az esetben minősül a Magyar Köztársaságban hatályos jogszabályoknak megfelelő könyvvizsgálói jelentésnek, ha a könyvvizsgálói jelentést kibocsátó harmadik országbeli könyvvizsgáló, harmadik országbeli könyvvizsgáló gazdálkodó szerepel a kamara – e célból vezetett – jegyzékében.
+68. § (1) Amennyiben a harmadik országbeli illetőséggel rendelkező gazdálkodó (szervezet) átruházható értékpapírjainak kereskedelme engedélyezett Magyarország szabályozott piacán, az éves beszámolójáról és az összevont (konszolidált) éves beszámolójáról kiadott könyvvizsgálói jelentés abban az esetben minősül a Magyarországon hatályos jogszabályoknak megfelelő könyvvizsgálói jelentésnek, ha a könyvvizsgálói jelentést kibocsátó harmadik országbeli könyvvizsgáló, harmadik országbeli könyvvizsgáló gazdálkodó szerepel a kamara – e célból vezetett – jegyzékében.
 
 (2) Az (1) bekezdés nem vonatkozik arra a könyvvizsgálói jelentésre, amelyet olyan harmadik országbeli illetőséggel rendelkező gazdálkodó (szervezet) éves beszámolójáról és összevont (konszolidált) éves beszámolójáról adtak ki, amely
 
@@ -796,7 +798,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (2) Az (1) bekezdés szerinti jegyzékekbe történő felvételről a kamara igazolást ad. A kamara gondoskodik arról, hogy az érvényben lévő igazolások mintája a kamara honlapján folyamatosan és bárki számára szabadon megtekinthető legyen.
 
-(3) Az (1) bekezdés szerinti jegyzékekben egyértelműen jelezni kell, hogy a jegyzékben szereplő harmadik országbeli könyvvizsgálók, harmadik országbeli könyvvizsgáló gazdálkodók nem jogosultak a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végezni.
+(3) Az (1) bekezdés szerinti jegyzékekben egyértelműen jelezni kell, hogy a jegyzékben szereplő harmadik országbeli könyvvizsgálók, harmadik országbeli könyvvizsgáló gazdálkodók nem jogosultak Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végezni.
 
 (4) Az (1) bekezdés szerinti jegyzékek tartalmazzák a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek (hatóságok) nevét és címét is. Ezek közérdekből nyilvános adatok, melyekről bárki tájékoztatást kaphat.
 
@@ -808,7 +810,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 75. § (1) A harmadik országbeli könyvvizsgálók, harmadik országbeli könyvvizsgáló gazdálkodók jegyzékéből való törlést megállapító határozat jogerőre emelkedése napjával a könyvvizsgálót, a könyvvizsgáló gazdálkodót törölni kell a jegyzékből, egyidejűleg vissza kell vonni a jegyzékbe vételről kiállított igazolását is.
 
-(2) A jegyzékből való törlés (1) bekezdés szerinti határozatban foglalt időpontját követően a harmadik országbeli könyvvizsgáló, a harmadik országbeli könyvvizsgáló gazdálkodó által kibocsátott könyvvizsgálói jelentés nem minősül a Magyar Köztársaságban hatályos jogszabályoknak megfelelő könyvvizsgálói jelentésnek.
+(2) A jegyzékből való törlés (1) bekezdés szerinti határozatban foglalt időpontját követően a harmadik országbeli könyvvizsgáló, a harmadik országbeli könyvvizsgáló gazdálkodó által kibocsátott könyvvizsgálói jelentés nem minősül a Magyarországon hatályos jogszabályoknak megfelelő könyvvizsgálói jelentésnek.
 
 (3) A jegyzékből való törlést követően az érintett adatait a kamara 10 évig köteles megőrizni külön nyilvántartás keretében, a törlés okának és időpontjának megjelölésével.
 
@@ -818,7 +820,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 ### A jegyzékbe vett harmadik országbeli könyvvizsgálókra és harmadik országbeli könyvvizsgáló gazdálkodókra vonatkozó közös szabályok
 
-76. § A kamara jegyzékébe való felvétel a harmadik országbeli könyvvizsgálót, a harmadik országbeli könyvvizsgáló gazdálkodót a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására nem jogosítja fel.
+76. § A kamara jegyzékébe való felvétel a harmadik országbeli könyvvizsgálót, a harmadik országbeli könyvvizsgáló gazdálkodót Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására nem jogosítja fel.
 
 77. § (1) A jegyzékbe vett harmadik országbeli könyvvizsgálóra és harmadik országbeli könyvvizsgáló gazdálkodóra e törvénynek a fegyelmi eljárásokra, valamint a könyvvizsgálói közfelügyeletre vonatkozó rendelkezéseit alkalmazni kell.
 
@@ -834,7 +836,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 79. § (1) Az okleveles könyvvizsgálói szakképesítés államilag elismert, iskolarendszeren kívüli felsőfokú szakképesítés.
 
-(2) A Magyar Köztársaságban az okleveles könyvvizsgálói szakképesítést igazoló oklevelet – a kamara nevében – az Okleveles Könyvvizsgálókat Képesítő Testület (a továbbiakban: OKKT) jogosult kiadni.
+(2) Magyarországon az okleveles könyvvizsgálói szakképesítést igazoló oklevelet – a kamara nevében – az Okleveles Könyvvizsgálókat Képesítő Testület (a továbbiakban: OKKT) jogosult kiadni.
 
 (3) Az OKKT okleveles könyvvizsgálói szakképesítést igazoló oklevelet ad annak a természetes személynek, aki teljesítette az e törvényben, továbbá a kamara alapszabályában, valamint okleveles könyvvizsgálói szakképzési és vizsgaszabályzatában meghatározott követelményeket.
 
@@ -842,7 +844,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 80. § Az okleveles könyvvizsgálói képzés államilag elismert iskolarendszeren kívüli képzés.
 
-81. § (1) Okleveles könyvvizsgálói képzést a pályázat útján megszerzett engedéllyel arra feljogosított felnőttképzést folytató intézmény (a továbbiakban: szakképző hely) szervezhet és folytathat. Az engedélyezési eljárás tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el.
+81. § (1) Okleveles könyvvizsgálói képzést a pályázat útján megszerzett engedéllyel arra feljogosított felnőttképzést folytató intézmény (a továbbiakban: szakképző hely) szervezhet és folytathat. Az engedélyezési eljárás tekintetében a kamara oktatási bizottsága jár el.
 
 (2) Kérelem alapján engedélyt kell adni okleveles könyvvizsgálói képzés szervezésére és folytatására annak a felnőttképzést folytató intézménynek, amely megfelel az alábbi feltételeknek:
 
@@ -875,7 +877,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (4) A képzési szerződést a képzés lezárulását követően a szerződő feleknek – jogszabály eltérő rendelkezése hiányában – legalább 5 évig meg kell őrizniük.
 
-84. § A kamara oktatási bizottsága – az OKKT-val együttműködve – jogosult ellenőrizni a szakképző helyen folytatott okleveles könyvvizsgálói képzést.
+84. § Az OKKT jogosult ellenőrizni a szakképző helyen folytatott okleveles könyvvizsgálói képzést.
 
 85. § (1) Vissza kell vonni az engedélyt attól a szakképző helytől, amely
 
@@ -883,7 +885,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 - b) a kamara felszólítására nem teljesíti az elfogadott pályázatában vállalt, továbbá az e törvényben, valamint a kamara okleveles könyvvizsgálói szakképzési és vizsgaszabályzatában meghatározott kötelezettségeit,
 - c) megszűnt.
 
-(2) Az engedély visszavonása tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el. Az oktatási bizottság – az OKKT egyetértésével – hivatalból megindítja az eljárást, ha az (1) bekezdésben foglaltak a tudomására jutnak.
+(2) Az engedély visszavonása tekintetében a kamara oktatási bizottsága jár el. Az oktatási bizottság hivatalból megindítja az eljárást, ha az (1) bekezdésben foglaltak a tudomására jutnak.
 
 (3) Az engedély visszavonása során a kamara oktatási bizottsága rendelkezik arról, hogy az érintett szakképző helyen tanulók a tanulmányaikat mely szakképző helyen folytathatják tovább.
 
@@ -891,7 +893,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 ### Minősített oktató
 
-87. § (1) Okleveles könyvvizsgálói képzésben oktatási tevékenységet a pályázat útján megszerzett engedéllyel arra feljogosított természetes személy oktató (a továbbiakban: minősített oktató) végezhet. Az engedélyezési eljárás tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el.
+87. § (1) Okleveles könyvvizsgálói képzésben oktatási tevékenységet a pályázat útján megszerzett engedéllyel arra feljogosított természetes személy oktató (a továbbiakban: minősített oktató) végezhet. Az engedélyezési eljárás tekintetében a kamara oktatási bizottsága jár el.
 
 (2) A pályázatra és az engedély megadására a 81. § előírásait kell megfelelően alkalmazni.
 
@@ -901,7 +903,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 - b) a kamara felszólítására nem teljesíti az elfogadott pályázatában vállalt, továbbá az e törvényben, valamint a kamara okleveles könyvvizsgálói szakképzési és vizsgaszabályzatában meghatározott kötelezettségeit,
 - c) elhalálozott.
 
-(2) Az engedély visszavonása tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el. Az oktatási bizottság – az OKKT egyetértésével – hivatalból megindítja az eljárást, ha az (1) bekezdésben foglaltak a tudomására jutnak.
+(2) Az engedély visszavonása tekintetében a kamara oktatási bizottsága jár el. Az oktatási bizottság hivatalból megindítja az eljárást, ha az (1) bekezdésben foglaltak a tudomására jutnak.
 
 ### Képzési idő
 
@@ -923,11 +925,11 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 ### Felvétel az okleveles könyvvizsgálói képzési programba
 
-91. § (1) Az okleveles könyvvizsgálói képzési programban az a természetes személy vehet részt, akit a képzési programba felvettek. A felvételi eljárás tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el.
+91. § (1) Az okleveles könyvvizsgálói képzési programban az a természetes személy vehet részt, akit a képzési programba felvettek. A felvételi eljárás tekintetében a kamara oktatási bizottsága jár el.
 
 (2) Kérelem alapján fel kell venni az okleveles könyvvizsgálói képzési programba azt, aki megfelel az alábbi feltételeknek:
 
-- a) a felsőoktatásról szóló törvény szerint a Magyar Köztársaságban államilag elismert felsőoktatási intézményben szerzett oklevéllel rendelkezik,
+- a) a felsőoktatásról szóló törvény szerint Magyarországon államilag elismert felsőoktatási intézményben szerzett oklevéllel rendelkezik,
 - b) mérlegképes könyvelői vagy azzal egyenértékű szakképesítéssel rendelkezik és szakképesítését oklevéllel, bizonyítvánnyal igazolja,
 - c) számviteli, pénzügyi, ellenőrzési szakterületen az a) pont szerinti végzettség megszerzését követően, de a felvételi kérelmének benyújtását megelőző három éven belül teljesített, legalább egy éves, igazolt szakmai gyakorlattal rendelkezik,
 - d) nem áll fenn vele szemben a 12. § a) pontjában meghatározott kizáró ok,
@@ -942,7 +944,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 szerezte.
 
-(2) A külföldi oklevélnek, bizonyítványnak az okleveles könyvvizsgálói képzési programban történő elismerését kérelmezni kell. Az elismerés tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el.
+(2) A külföldi oklevélnek, bizonyítványnak az okleveles könyvvizsgálói képzési programban történő elismerését kérelmezni kell. Az elismerés tekintetében a kamara oktatási bizottsága jár el.
 
 (3) Hazai felsőoktatási intézményben megszerezhető főiskolai vagy egyetemi végzettségi szintet tanúsító oklevélként a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott külföldi oklevél ismerhető el.
 
@@ -954,7 +956,7 @@ szerezte.
 
 (2) A vizsgabizottság 2 tagból álló független szakmai testület. A vizsgabizottság tagjai: a vizsgabizottság elnöke és a – minősített oktatók közül felkért – vizsgáztató.
 
-(3) Az okleveles könyvvizsgálói képzési program részét képező vizsga letételére engedélyt kell kérni. Az engedélyezés tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el.
+(3) Az okleveles könyvvizsgálói képzési program részét képező vizsga letételére engedélyt kell kérni. Az engedélyezés tekintetében a kamara oktatási bizottsága jár el.
 
 (4) A (3) bekezdés szerinti vizsga díjköteles. A vizsga díját a kamara állapítja meg és a díjat a vizsgára jelentkezéskor a kamara központi számlájára kell megfizetni.
 
@@ -966,7 +968,7 @@ szerezte.
 
 95. § (1) A szakképzést folytató szervezetben (intézményben), a felsőoktatási intézményben folytatott tanulmányokat az okleveles könyvvizsgálói képzési programban előírt – megegyező tartalmú – követelmények (modulok vagy azokon belül egyes résztanulmányok) teljesítéseként el lehet ismerni.
 
-(2) Az (1) bekezdés szerinti elismerést kérelmezni kell. Az elismerés tekintetében – az OKKT egyetértésével – a kamara oktatási bizottsága jár el. Az elismerésre vonatkozóan külön jogszabály további előírásokat is megállapíthat.
+(2) Az (1) bekezdés szerinti elismerést kérelmezni kell. Az elismerés tekintetében a kamara oktatási bizottsága jár el. Az elismerésre vonatkozóan külön jogszabály további előírásokat is megállapíthat.
 
 ### Az okleveles könyvvizsgálói szakképzési és vizsgaszabályzat
 
@@ -1004,7 +1006,7 @@ szerezte.
 
 - a) megfelel a 11. § (1) bekezdésének b) pontjában meghatározott feltételeknek,
 - b) nem esik a 12. §-ban meghatározott kizáró ok alá,
-- c) vállalja, hogy a Magyar Köztársaság területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel a képzési programnak megfelelő – a kamara mentori szabályzata szerinti – munkaviszonyt, munkaviszony jellegű jogviszonyt létesít,
+- c) vállalja, hogy Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel a képzési programnak megfelelő – a kamara mentori szabályzata szerinti – munkaviszonyt, munkaviszony jellegű jogviszonyt létesít,
 - d) magára nézve kötelezőnek ismeri el a kamara vonatkozó szabályzatának rendelkezéseit,
 - e) az előírt igazgatási szolgáltatási díjat megfizette.
 
@@ -1045,7 +1047,7 @@ szerezte.
 - a) a könyvvizsgálójelöltek névjegyzékébe való felvétel iránti eljárás jogerős befejezéséig, vagy
 - b) a könyvvizsgálójelöltek névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
-102. § Ha a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló vagy könyvvizsgáló cég elveszíti jogosultságát a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére a Magyar Köztársaság területén, akkor a könyvvizsgáló jelölt által a munkaviszony, munkaviszony jellegű jogviszony keretében végzett tevékenység a továbbiakban nem minősül könyvvizsgáló jelölti tevékenységnek.
+102. § Ha a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló vagy könyvvizsgáló cég elveszíti jogosultságát a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére Magyarország területén, akkor a könyvvizsgáló jelölt által a munkaviszony, munkaviszony jellegű jogviszony keretében végzett tevékenység a továbbiakban nem minősül könyvvizsgáló jelölti tevékenységnek.
 
 103. § A kamara a könyvvizsgáló jelöltek képzésével összefüggő további jogokat és kötelezettségeket, valamint eljárási szabályokat a mentori szabályzatában határozza meg.
 
@@ -1065,7 +1067,7 @@ szerezte.
 
 105. § (1) Különbözeti vizsgát az a természetes személy tehet, aki igazolja, hogy külföldön jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására jogosító, érvényes engedéllyel rendelkezik.
 
-(2) A különbözeti vizsga a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységgel összefüggő, a Magyar Köztársaság területén hatályos jogszabályok és egyéb előírások ismeretének ellenőrzésére terjed ki.
+(2) A különbözeti vizsga a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységgel összefüggő, Magyarország területén hatályos jogszabályok és egyéb előírások ismeretének ellenőrzésére terjed ki.
 
 (3) A különbözeti vizsga letételére engedélyt kell kérni. Az engedélyezés tekintetében a kamara oktatási bizottsága jár el. Az engedélyt meg kell adni a természetes személynek, ha az megfelel az (1) bekezdésben foglaltaknak.
 
@@ -1261,7 +1263,7 @@ szerezte.
 
 (2) A kamarai tag könyvvizsgálónak – a 124. § (2) bekezdésében foglalt kivétellel – egyidejűleg legfeljebb egy kamarai tisztségviselői jogviszonya állhat fenn.
 
-(3) A 119. § a)–f) pontja szerinti tisztségviselővé a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgáló választható.
+(3) A 119. § a)–f) pontja szerinti tisztségviselővé a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető, 70 év alatti kamarai tag könyvvizsgáló választható.
 
 (4) A 119. § e) pontja szerinti tisztségviselővé a területi szervezet illetékességi területéhez tartozó kamarai tag könyvvizsgáló választható. A tisztségviselőt a területi szervezet taggyűlése választja, titkos szavazással.
 
@@ -1479,7 +1481,7 @@ szerezte.
 
 (4) Az OKKT gondoskodik a kamara okleveles könyvvizsgálói szakképzési és vizsgaszabályzatának kidolgozásáról, a szabályzatot jóváhagyásra az elnökségnek megküldi.
 
-142. § (1) Az OKKT – a kamara oktatási bizottságának egyetértésével – javaslatot tesz a kamara elnökségének a 94. § (1) bekezdése szerinti vizsgabizottság elnökeinek és tagjainak névjegyzékére.
+142. § (1) Az OKKT javaslatot tesz a kamara elnökségének a 94. § (1) bekezdése szerinti vizsgabizottság elnökeinek és tagjainak névjegyzékére.
 
 (2) Vizsgabizottság elnöke és vizsgáztató tagja olyan szakember lehet, aki a vizsga tárgyában megfelelő elméleti tudással és gyakorlati tapasztalatokkal rendelkezik.
 
@@ -1861,7 +1863,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) A Könyvvizsgálói Közfelügyeleti Bizottság megtagadja az illetékes hatóságtól érkezett, (2) és (3) bekezdés szerinti megkeresés teljesítését, ha
 
-- a) az információ átadása, a vizsgálat lefolytatása hátrányosan érintheti a Magyar Köztársaság szuverenitását, biztonságát, közrendjét vagy sérti a nemzetbiztonsági szabályokat, vagy
+- a) az információ átadása, a vizsgálat lefolytatása hátrányosan érintheti Magyarország szuverenitását, biztonságát, közrendjét vagy sérti a nemzetbiztonsági szabályokat, vagy
 - b) ugyanezen intézkedések tekintetében és ugyanazon kamarai tag könyvvizsgálóval, könyvvizsgáló céggel szemben Magyarországon bírósági eljárást indítottak, vagy
 - c) a magyar hatóságok már jogerős ítéletet hoztak ugyanezen tevékenységekért, ugyanazon kamarai tag könyvvizsgálóval, könyvvizsgáló céggel szemben.
 

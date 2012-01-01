@@ -2,9 +2,9 @@
 
 a Magyar Köztársaság minisztériumainak felsorolásáról
 
-Az Országgyűlés az Alkotmány 34. §-a alapján a következő törvényt alkotja:
+Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 17. cikk (1) bekezdése alapján a következő törvényt alkotja:
 
-1. § A Magyar Köztársaság minisztériumai a következők:
+1. § Magyarország minisztériumai a következők:
 
 - a) Belügyminisztérium,
 - b) Honvédelmi Minisztérium,
@@ -64,6 +64,8 @@ Az Országgyűlés az Alkotmány 34. §-a alapján a következő törvényt alko
 - f) a Pénzügyminisztérium esetén a Nemzetgazdasági Minisztériumot,
 - g) a Szociális és Munkaügyi Minisztérium esetén a Nemzeti Erőforrás Minisztériumot kell tekinteni.
 
+(4) Az e törvény hatálybalépését követően a más miniszterhez vagy az 1. §-ban meghatározott más minisztériumhoz átkerülő feladat- és hatáskörök tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 34. § (3) és (4) bekezdése és a 35. § (4) és (5) bekezdése az irányadó.
+
 3. § (1) Ez a törvény – a (2) bekezdésben foglalt kivételekkel – az országgyűlési képviselők 2010. évi általános választását követően megalakult Országgyűlés által választott miniszterelnök megválasztásával egyidejűleg lép hatályba.
 
 (2) E törvény 4. §-ának (1)–(2) bekezdése, 6. §-a és mellékletei a kihirdetés napján lépnek hatályba.
@@ -86,7 +88,7 @@ Az Országgyűlés az Alkotmány 34. §-a alapján a következő törvényt alko
 
 (2) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 14. § (1) bekezdés c) pontjának alkalmazása szempontjából a 2. §-ban megjelölt minisztériumot, illetve közigazgatási szervet kell közigazgatási szervnek tekinteni.
 
-6. § (1) A miniszterelnök, miniszter és a nem miniszter irányítása alá tartozó központi államigazgatási szerv – az autonóm államigazgatási szervek kivételével – vezetője (a továbbiakban: átadó) tisztségének megszűnése esetén, a hatásköre gyakorlása megszűnésének napján jegyzőkönyv felvétele mellett személyesen adja át munkakörét, feladat- és hatásköreinek gyakorlását, továbbá az általa vezetett szervet a jogszabály alapján az átadó munkakörébe kinevezett személy, illetve az átadó által vezetett szervnek az e törvényben meghatározott általános jogutódjának minősülő szerv kinevezett vezetője, illetve annak helyettese, valamint azok meghatalmazottai részére (a továbbiakban: átvevő) a (2)–(15) bekezdésekben meghatározott módon.
+6. § (1) A miniszterelnök, miniszter és a nem miniszter irányítása alá tartozó központi államigazgatási szerv – az autonóm államigazgatási szervek és az önálló szabályozó szervek kivételével – vezetője (a továbbiakban: átadó) tisztségének megszűnése esetén, a hatásköre gyakorlása megszűnésének napján jegyzőkönyv felvétele mellett személyesen adja át munkakörét, feladat- és hatásköreinek gyakorlását, továbbá az általa vezetett szervet a jogszabály alapján az átadó munkakörébe kinevezett személy, illetve az átadó által vezetett szervnek az e törvényben meghatározott általános jogutódjának minősülő szerv kinevezett vezetője, illetve annak helyettese, valamint azok meghatalmazottai részére (a továbbiakban: átvevő) a (2)–(15) bekezdésekben meghatározott módon.
 
 (2) Az átadás-átvételi eljárás levezetője az átvevő. Az átvevő dönt az átadás-átvétel pontos helyéről, időpontjáról, továbbá az átvevőn kívüli jelenlévőkről, az átadás-átvételről készített jegyzőkönyv (a továbbiakban: jegyzőkönyv) hitelesítésének módjáról, egyes részletek zárt kezeléséről, illetve titkosításáról, szó szerinti jegyzőkönyv felvételéről, továbbá adott esetben a nevében és helyette eljáró meghatalmazott személyről. A jegyzőkönyvet az átadó és az átvevő írja alá, a jegyzőkönyv mintáját és tartalmi követelményeit e törvény 1. számú melléklete tartalmazta.
 

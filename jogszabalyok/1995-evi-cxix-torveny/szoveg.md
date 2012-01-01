@@ -2,7 +2,7 @@
 
 a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről
 
-Az Országgyűlés — kiindulva abból, hogy az Alkotmány szerint a Magyar Köztársaság biztosítja a személyes adatok védelméhez való jogot, valamint a tudományos kutatás szabadságát, a szabad véleménynyilvánítás és a piacgazdaság feltételeit; figyelembe véve a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, az Európa Tanács 108. számú Egyezményét a személyiségnek személyes adatok automatikus kezelésével kapcsolatos védelméről, valamint az Európa Tanács Ajánlásait — a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről a következő törvényt alkotja:
+Az Országgyűlés a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről a következő törvényt alkotja:
 
 #### I.
 
@@ -54,7 +54,7 @@ szerinti megoszlásban.
 
 ### Adatvédelem és adatbiztonság
 
-5. § (1) A tudományos kutatás, a közvélemény-kutatás és piackutatás, valamint a közvetlen üzletszerzés céljára történő adatkezelés során — az Avtv.-ben, valamint az e törvényben foglaltaknak megfelelően — biztosítani kell az érintett jogát a személyes adatainak védelméhez. Így különösen:
+5. § (1) A tudományos kutatás, a közvélemény-kutatás és piackutatás, valamint a közvetlen üzletszerzés céljára történő adatkezelés során — az információs önrendelkezési jogról és az információszabadságról szóló törvényben, valamint az e törvényben foglaltaknak megfelelően — biztosítani kell az érintett jogát a személyes adatainak védelméhez. Így különösen:
 
 - a) a kapcsolatfelvétellel egyidejűleg az érintettet írásban tájékoztatni kell arról, hogy a megkereső az adatokat milyen forrásból szerezte; az adatfelhasználás céljáról, módjáról, időtartamáról, az adatkezelés során közreműködő (megbízott) igénybevételéről és az esetleges későbbi adatátadási szándékról; az adatkezelésre jogosult szerv vagy személy nevéről és címéről, valamint arról, hogy az adatszolgáltatás önkéntes, és jogában áll adatainak a megjelölt célra vagy annak egy részére történő kezelésének a megszüntetését kérni;
 - b) biztosítani kell számára azt a jogot, hogy a további együttműködést bármikor indokolás nélkül megtagadhatja, és erről írásban tájékoztatni kell;
@@ -76,7 +76,7 @@ szerinti megoszlásban.
 
 (2) Az (1) bekezdésben meghatározott intézkedésekről és azok kötelező betartásáról az adatkezelőket és az adatok kezelésében részt vevő személyeket (alkalmazott, megbízott) tájékoztatni kell.
 
-(3) Az adatkezelő az e törvény hatálya alá tartozó adatkezeléseket — kivéve, ha az tudományos kutatás célját szolgálja, és nem hozzák nyilvánosságra [Avtv. 30. § h) pont] — a tevékenység megkezdése előtt az Avtv. 28. §-ának (1) bekezdése alapján köteles az adatvédelmi biztosnak bejelenteni.
+(3) Az adatkezelő az e törvény hatálya alá tartozó adatkezeléseket a tevékenység megkezdése előtt az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint köteles a Nemzeti Adatvédelmi és Információszabadság Hatóságnak bejelenteni.
 
 #### II.
 
@@ -153,7 +153,7 @@ szerinti megoszlásban.
 
 (3) A kapcsolatfelvételi, illetve üzletszerzési lista nem kapcsolható össze piackutatás céljára gyűjtött adatállománnyal.
 
-19. § Külföldi közvetlen üzletszerző szerv, ha e törvény hatálya alá tartozó adatkezelést kíván végezni, illetőleg, ha a belföldi közvetlen üzletszerző szerv az adatkezelési tevékenységet külföldi megbízás alapján végzi, erről a tényről az érintettet köteles írásban tájékoztatni. Név- és lakcímadat külföldre csak adatfeldolgozás céljára, vagy abban az esetben továbbítható, ha az adat átadásához az érintett írásban hozzájárult; és az Avtv. szerinti harmadik országba csak abban az esetben, ha az adatvédelmi követelmények az adatátvevőnél is biztosítottak. A külföldre történő adatátadást az adatvédelmi biztosnak előzetesen be kell jelenteni.
+19. § Külföldi közvetlen üzletszerző szerv, ha e törvény hatálya alá tartozó adatkezelést kíván végezni, illetőleg, ha a belföldi közvetlen üzletszerző szerv az adatkezelési tevékenységet külföldi megbízás alapján végzi, erről a tényről az érintettet köteles írásban tájékoztatni. Név- és lakcímadat külföldre csak adatfeldolgozás céljára, vagy abban az esetben továbbítható, ha az adat átadásához az érintett írásban hozzájárult; és az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti harmadik országba csak abban az esetben, ha az adatvédelmi követelmények az adatátvevőnél is biztosítottak. A külföldre történő adatátadást a Nemzeti Adatvédelmi és Információszabadság Hatóságnak előzetesen be kell jelenteni.
 
 ### Az érintett jogai
 

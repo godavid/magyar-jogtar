@@ -10,14 +10,14 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 2. § (1) Az egészségügyi államigazgatási szerv felügyeletet gyakorol az ország közegészségügyi-járványügyi (a továbbiakban együtt: közegészségügyi) viszonyai felett. Ennek keretében
 
-- a) az ország egész területén – a honvédelemért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek, a Magyar Honvédség katonai szervezetei és a rendvédelmi szervek (ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit) tevékenységének kivételével – közegészségügyi ellenőrzést végez;
+- a) az ország egész területén – a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek (ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit) tevékenységének kivételével – közegészségügyi ellenőrzést végez;
 - b) biztosítja a vasúti, a vízi és a közúti határforgalom, valamint a nemzetközi légiforgalom közegészségügyi ellenőrzését;
 - c) ellenőrzi a közegészségügyi szabályok érvényesülését;
 - d) végrehajtja a külön jogszabályokban hatáskörébe utalt feladatokat.
 
 (2)
 
-(3) A honvédelemért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek, továbbá a Magyar Honvédség katonai szervezetei közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a Magyar Honvédség kijelölt szerve végzi.
+(3) A Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, valamint a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a Magyar Honvédség kijelölt szerve végzi.
 
 (3a) A rendészetért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek az (1) bekezdés a) pontjában foglaltak figyelembevételével, továbbá a rendvédelmi szervek személyi állományára vonatkozó közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a rendvédelmi szervek egészségügyi szolgálatai végzik.
 
@@ -138,6 +138,16 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (5) Az egészségügyi államigazgatási szerv jogosult az ellenőrzéshez szükséges vizsgálatokat elvégezni, illetve külön jogszabályban meghatározottak szerint elvégeztetni.
 
+(6) Az egészségügyi államigazgatási szerv a hatósági ellenőrzés során próbavásárlást – ideértve az interneten történő vásárlást is – végezhet.
+
+(7) A próbavásárláshoz az egészségügyi államigazgatási szerv közreműködő személyt vehet igénybe.
+
+(8) A közreműködő személy részére a közreműködést igénybe vevő egészségügyi államigazgatási szerv megbízólevelet állít ki, amely tartalmazza a közreműködő személy nevét, továbbá azt, hogy mely közreműködő személy milyen típusú ellenőrzésben vehet részt.
+
+(9) A közreműködő személyre az egészségügyi államigazgatási szerv ügyintézőjére vonatkozó kizárási szabályokat kell alkalmazni.
+
+(10) Próbavásárlás esetén az egészségügyi államigazgatási szerv az ellenőrzési jogosultságát a próbavásárlás befejezésekor igazolja, ezzel egyidejűleg az ellenőrzött személy képviseletében eljáró személy a termék visszavétele mellett köteles a vételárat visszatéríteni. Ha a próbavásárlással lefolytatott hatósági ellenőrzés során a termék véglegesen elvonásra kerül, károsodik, illetve részben vagy egészben megsemmisül, a vételár eljárási költségnek minősül.
+
 11. § (1) Az egészségügyi államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
 (2) Az egészségügyi államigazgatási szerv elrendeli
@@ -213,11 +223,11 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (2) Az egészségügyi bírságot az azt kiszabó jogerős határozat közlésétől számított harmincadik napig meg kell fizetni.
 
-(3) A jogerősen kiszabott és határidőben meg nem fizetett egészségügyi bírságot és késedelmi pótlékot adók módjára kell behajtani, amelyről az egészségügyi államigazgatási szerv megkeresésére az állami adóhatóság gondoskodik.
+(3)
 
-(4) Az egészségügyi bírság összegét az egészségügyi államigazgatási szerv külön jogszabályban megjelölt számlájára kell befizetni, amely annak saját bevétele.
+(4) Az egészségügyi bírság összegét az egészségügyi államigazgatási szerv külön jogszabályban megjelölt számlájára kell befizetni.
 
-(5) A befolyt összeg – a miniszter jóváhagyásával – az egészségügyi államigazgatási szerv hatósági ellenőrzésének és vizsgálati módszereinek folyamatos fejlesztésére, szakembereinek képzésére, valamint szakfelügyeleti és közegészségügyi-járványügyi tevékenységére használható fel.
+(5)
 
 14. § Az egészségügyi államigazgatási szervnek
 
@@ -246,11 +256,14 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (2)–(3)
 
-(4) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki az egészségügyi államigazgatási szervet vagy szerveket.
+(4) Felhatalmazást kap a Kormány, hogy rendeletben
+
+- a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket,
+- b) jelölje ki a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket.
 
 (5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-(6) Felhatalmazást kap honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
+(6) Felhatalmazást kap honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
 (7) Felhatalmazás kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a menekülteket befogadó állomásokra, valamint a Rendőrség átmeneti szállásaira vonatkozó közegészségügyi követelményeket, a közegészségügyi ellenőrzés, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
@@ -259,7 +272,8 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 (9) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben
 
 - a) a munkavállalók fizikai tényezők (mesterséges optikai sugárzás) hatásának való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményeket,
-- b) a munkavállalók fizikai tényezők (elektromágneses terek) hatásából keletkező kockázatoknak való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményeket
+- b) a munkavállalók fizikai tényezők (elektromágneses terek) hatásából keletkező kockázatoknak való expozíciójára vonatkozó egészségügyi és biztonsági minimumkövetelményeket,
+- c) a kórházakban és más egészségügyi szolgáltatóknál az éles vagy hegyes eszközök által okozott sérülések megelőzésére, az éles vagy hegyes eszközök használatából eredő kockázatok kezelésére, valamint az egészségügyi tevékenységet végző személyek tájékoztatására és képzésére vonatkozó követelményeket
 
 rendeletben állapítsa meg.
 

@@ -24,7 +24,7 @@ a Kossuth-díjról és a Széchenyi-díjról
 
 4. § A Díjban részesített személy jogosult a Kossuth-díjas, illetőleg a Széchenyi-díjas cím használatára.
 
-4/A. § A Díj adományozására és visszavonására a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvénynek a Magyar Köztársaság Érdemrendje adományozására, illetőleg visszavonására vonatkozó eljárási szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.
+4/A. § A Díj adományozására és visszavonására a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénynek a Magyar Érdemrend adományozására, illetőleg visszavonására vonatkozó eljárási szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 5. § (1) A Díjat a köztársasági elnök adományozza.
 

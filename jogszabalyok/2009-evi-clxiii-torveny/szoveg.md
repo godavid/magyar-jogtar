@@ -8,7 +8,7 @@ kinyilvánítva elkötelezettségét a demokratikus jogállam értékei, a köz�
 
 megerősítve – ezen értékek megvalósítása érdekében – a korrupció elleni küzdelem fontosságát;
 
-tekintettel a Magyar Köztársaságnak a korrupció elleni fellépéssel összefüggésben vállalt nemzetközi kötelezettségeire és a nemzetközi szervezetek által megfogalmazott ajánlásokra;
+tekintettel Magyarország korrupció elleni fellépéssel összefüggésben vállalt nemzetközi kötelezettségeire és a nemzetközi szervezetek által megfogalmazott ajánlásokra;
 
 kinyilvánítva elkötelezettségét a foglalkoztatottak védelmére a közérdeksérelem veszélyét vagy megvalósulását feltáró bejelentések miatt a magánszférában és a közszférában egyaránt;
 
@@ -160,7 +160,7 @@ a következő törvényt alkotja:
 
 (2) A Hivatal felhívására az ügyfél köteles közölni a tényállás tisztázásához szükséges adatokat, ideértve a természetes személyazonosító adatait. Az ügyfél nem köteles a saját, vagy a vizsgálat tárgyát képező eljárásra vonatkozó törvény szerinti hozzátartozója jogsértését beismerő nyilatkozatot tenni.
 
-(3) A Hivatal – az érintett hozzájárulása vagy kifejezett kérelme hiányában, a különleges adatok kivételével – a vizsgált magatartással összefüggésben jogosult kezelni az ügyfél és az eljárás más résztvevőjének természetes személyazonosító adatait és a vizsgálati eljárás e törvényben meghatározott céljával kapcsolatos, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben meghatározott feltételeknek megfelelően megismert személyes adatait, amelyek felhasználása az eljárás eredményes lefolytatásához szükségesek. Ha a bizonyítási eszköz az eljárás e törvényben meghatározott céljával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a Hivatal az ilyen adatot haladéktalanul felismerhetetlenné teszi.
+(3) A Hivatal – az érintett hozzájárulása vagy kifejezett kérelme hiányában, a különleges adatok kivételével – a vizsgált magatartással összefüggésben jogosult kezelni az ügyfél és az eljárás más résztvevőjének természetes személyazonosító adatait és a vizsgálati eljárás e törvényben meghatározott céljával kapcsolatos, az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott feltételeknek megfelelően megismert személyes adatait, amelyek felhasználása az eljárás eredményes lefolytatásához szükségesek. Ha a bizonyítási eszköz az eljárás e törvényben meghatározott céljával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a Hivatal az ilyen adatot haladéktalanul felismerhetetlenné teszi.
 
 (4) A Hivatal az ügyfél és az eljárás más résztvevőjének a (3) és a (4) bekezdésben megjelölt személyes adatait a tisztességes eljárás követelményeit sértő magatartás bizonyítása céljából kezelheti. Az adatkezelés határideje az eljárás jogerős befejezésétől számított két év; ha a Hivatal döntése ellen jogorvoslati eljárás indult, e határidőt a bíróság jogerős határozatának jogerőre emelkedésétől kell számítani.
 
@@ -225,7 +225,7 @@ a következő törvényt alkotja:
 
 (8) Az (5) bekezdés szerinti peres eljárásban
 
-- a) az ítélőtábla székhelye szerinti megyei bíróság – az ítélőtábla illetékességi területén – jár el,
+- a) az ítélőtábla székhelye szerinti törvényszék – az ítélőtábla illetékességi területén – jár el,
 - b) a bíróság soron kívül jár el.
 
 ### Bírság az alaptalan bejelentés esetén
@@ -352,9 +352,7 @@ a következő törvényt alkotja:
 
 27. § Az e törvényben meghatározott joghátrány alkalmazására csak olyan cselekmény miatt kerülhet sor, amelyet e törvény hatálybalépését követően követtek el, vagy az a törvény hatálybalépését követően fejeződött be. A törvény hatálybalépését megelőzően elkövetett (befejezett) cselekmények esetében a Hivatal nem folytat vizsgálati eljárást, azonban a tudomására jutott információk alapján szükség esetén feljelentést tehet, illetőleg más szerv eljárását kezdeményezheti, továbbá a bejelentőt védelemben részesítheti e törvény szabályai szerint.
 
-28. § (1) Az e törvény alapján kiszabott és megfizetett bírság a központi költségvetést illeti meg.
-
-(2) A meg nem fizetett bírság, eljárási költségek és késedelmi pótlékok adók módjára behajtandó köztartozásnak minősülnek.
+28. §
 
 ### Módosító rendelkezések
 

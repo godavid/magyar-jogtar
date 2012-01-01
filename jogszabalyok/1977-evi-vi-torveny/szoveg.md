@@ -65,7 +65,7 @@ Az Országgyűlés az állami vállalatok feladatairól, szervezetéről, műkö
 - b) az önállósodott gazdasági egységnél foglalkoztatott dolgozók munkaviszonyával kapcsolatos kérdések rendezéséről;
 - c) a jogutódlással összefüggő kérdésekről, ideértve a hitelezői követelések kielégítését is.
 
-(5) A vállalat létesítését a határozat kiadásától számított harminc napon belül be kell jelenteni a cégjegyzéket vezető megyei bíróságnak (a továbbiakban: cégbíróság). A vállalat a cégjegyzékbe való bejegyzéssel jön létre. A bejegyzés csak akkor tagadható meg, ha a létesítő határozat jogszabályba ütközik.
+(5) A vállalat létesítését a határozat kiadásától számított harminc napon belül be kell jelenteni a cégjegyzéket vezető törvényszéknek (a továbbiakban: cégbíróság). A vállalat a cégjegyzékbe való bejegyzéssel jön létre. A bejegyzés csak akkor tagadható meg, ha a létesítő határozat jogszabályba ütközik.
 
 (6) A cégbírósághoz intézett bejelentésnek tartalmaznia kell minden adatot, amelynek bejegyzését a bírósági cégnyilvántartásról szóló jogszabályok előírják. A cégbírósághoz intézett bejelentés megtétele annak a szervnek a feladata, amely a vállalat létesítésére, illetőleg a kötelezően bejegyzendő más változásra vonatkozó határozatot hozta.
 
@@ -186,7 +186,8 @@ jogok és kötelességek
 - a) alapítói jogok gyakorlása,
 - b) vállalati tanács, illetőleg a dolgozók közgyűlése általános vezetése alatt álló vállalatok esetében törvényességi felügyelet,
 - c) államigazgatási felügyelet alatt álló vállalatok esetében felügyeleti irányítás és ellenőrzés,
-- d)–f)
+- d)
+- f)
 
 (2) Az alapítói jogokat, a felügyeleti irányítást és ellenőrzést az erre jogosult szerv az e jogok gyakorlására jogosult más szervre — megállapodásuk alapján — átruházhatja.
 

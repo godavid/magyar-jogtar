@@ -20,6 +20,6 @@ a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról sz�
 
 (4) Azt a személyt, akinek munkanélküli járadékra való jogosultságát 1998. január 1-jét megelőzően állapították meg, és a járadék folyósítása a munkaadótól kapott végkielégítés miatt későbbi időpontban kezdődik meg, a jogosultság megállapítása és a járadékfolyósítás megkezdése közötti időszakban a munkanélkülit egyébként megillető jogosultságok (ideértve a társadalombiztosítási szabályok szerinti jogosultságokat is) és kötelezettségek szempontjából úgy kell tekinteni, mintha ezalatt munkanélküli járadékban részesült volna.
 
-(5) A (4) bekezdésben meghatározott időtartamra a munkaügyi központ által fizetett társadalombiztosítási és nyugdíjjárulék a Munkaerőpiaci Alap szolidaritási alaprészét terheli.
+(5) A (4) bekezdésben meghatározott időtartamra a munkaügyi központ által fizetett társadalombiztosítási és nyugdíjjárulék a Nemzeti Foglalkoztatási Alap szolidaritási alaprészét terheli.
 
 (6)–(7)

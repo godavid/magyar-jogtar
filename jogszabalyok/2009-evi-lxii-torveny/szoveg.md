@@ -10,16 +10,16 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 1. § Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed:
 
-- a) minden magyarországi telephelyű gépjármű üzemben tartójára, továbbá más tagállami telephelyű gépjármű – ha annak rendeltetés helye szerinti tagállama a Magyar Köztársaság – tulajdonosára, és az általuk kötött kötelező gépjármű-felelősségbiztosítási szerződésre;
-- b) a külföldi telephelyű gépjármű a Magyar Köztársaság területére történő belépésének, valamint a Magyar Köztársaság területén a fogalomban történő részvételének feltételeire;
+- a) minden magyarországi telephelyű gépjármű üzemben tartójára, továbbá más tagállami telephelyű gépjármű – ha annak rendeltetés helye szerinti tagállama Magyarország – tulajdonosára, és az általuk kötött kötelező gépjármű-felelősségbiztosítási szerződésre;
+- b) a külföldi telephelyű gépjármű Magyarország területére történő belépésének, valamint Magyarország területén a fogalomban történő részvételének feltételeire;
 - c) a biztosítók, a kárrendezési megbízott, kárképviselő, a levelező, a Kártalanítási Számla, a Kártalanítási Alap, a Nemzeti Iroda, a Kártalanítási Szervezet, az Információs Központ, valamint a Magyar Biztosítók Szövetségének (a továbbiakban: MABISZ) e törvényben szabályozott tevékenységére;
 - d) a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet), a biztosító felszámolójának, a kötelező gépjármű-felelősségbiztosítást igazoló okirat (a kötvényt is beleértve) adatait, valamint egyéb vonatkozó adatokat nyilvántartó szervnek (a továbbiakban: kötvénynyilvántartó szerv), a kárnyilvántartással kapcsolatos feladatokat ellátó kárnyilvántartó szervnek, a külön jogszabályban meghatározott, közlekedési igazgatási hatóságnak (a továbbiakban: jegyző) és a vámhatóságnak e törvényben szabályozott tevékenységére.
 
 2. § E törvény hatálya nem terjed ki:
 
 - a) a nemzetközi gépjármű-biztosítási – a tagállamok és más államok nemzeti irodái közötti – megállapodásból és a kapcsolódó megállapodásokból eredő – e törvényben nem szabályozott – feladatok ellátására;
-- b) a Magyar Köztársaság területén rendezett gépjárműversenyen (edzésen) részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre;
-- c) arra az esetre, ha az e törvényben foglaltaktól a Magyar Köztársaság területén állomásozó vagy áthaladó külföldi katonai gépjárművek vonatkozásában jogszabály eltérő szabályokat állapít meg.
+- b) Magyarország területén rendezett gépjárműversenyen (edzésen) részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre;
+- c) arra az esetre, ha az e törvényben foglaltaktól Magyarország területén állomásozó vagy áthaladó külföldi katonai gépjárművek vonatkozásában jogszabály eltérő szabályokat állapít meg.
 
 ### Értelmező rendelkezések
 
@@ -27,7 +27,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 - 1. Belső Szabályzat: a Bizottság 2003. július 28-i, a 72/166/EGK tanácsi irányelvnek a gépjármű-felelősségbiztosítás ellenőrzésére vonatkozó alkalmazásáról szóló 2003/564/EK határozatának függelékében foglalt, a nemzeti irodák egymás közötti kapcsolatait rendező szabályzat;
 - 2. biztosítási időszak: a határozatlan tartamú szerződések esetében – a díjfizetés gyakoriságától függetlenül – az az időtartam, amelyre a megállapított díj vonatkozik;
-- 3. biztosító: a biztosítókról és biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és a Magyar Köztársaság területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
+- 3. biztosító: a biztosítókról és biztosítási tevékenységről szóló 2003. évi LX. törvényben (a továbbiakban: Bit.) meghatározott szervezet, amely a székhely szerinti tagállamában engedélyt kapott a gépjármű-felelősségbiztosítási tevékenység végzésére, és Magyarország területén az e törvényben foglaltaknak megfelelően a kötelező gépjármű-felelősségbiztosítási (a továbbiakban: biztosítás) tevékenység folytatására jogosult;
 - 4. biztosított: a gépjármű biztosítással rendelkező üzemben tartója és a gépjárművet vezető személy;
 - 5. díjtarifa: külön rendeletben meghatározott gépjármű-kategóriánként, és – a flotta kivételével – bonus-malus osztályonként, egy meghatározott naptári évre vonatkozóan a biztosító által megállapított alapdíjak és a díj meghatározásánál alkalmazható valamennyi korrekciós tényező összessége;
 - 6. egyedi szerződés: adott üzemben tartó által, egy meghatározott gépjárműre kötött, e törvénynek megfelelő biztosítási szerződés;
@@ -46,7 +46,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 - 19. károsult: a gépjárművel okozott kár esetén kártérítésre jogosult személy vagy szervezet;
 - 20. kárrendezési megbízott: a gépjármű-felelősségbiztosítási tevékenységet végző biztosító székhely szerinti tagállamától eltérő tagállamban működő megbízottja, aki a biztosító által biztosított gépjármű üzemeltetésével kapcsolatban felmerült kárigényeket a károsult lakóhelye (székhelye) szerinti tagállamban kezeli és rendezi, valamint a biztosítót a károsulttal szemben képviseli;
 - 21. Kártalanítási Alap: az e törvény szerinti biztosítók által létrehozott és finanszírozott pénzalap, mely azon biztosítónál (a továbbiakban: felszámolás alatt álló biztosító) a károkozás időpontjában biztosítási fedezettel rendelkező üzemben tartó gépjárművével okozott károk megtérítését fedezi, mellyel szemben a Bit. szerinti felszámolási eljárás megindult;
-- 22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése, amennyiben a kötelezettségvállalás országa a Magyar Köztársaság;
+- 22. Kártalanítási Számla (Garanciaalap): az e törvény szerinti biztosítók által létrehozott és folyamatosan finanszírozott pénzalap, amelynek feladata a biztosítási kötelezettség ellenére biztosítással nem rendelkező üzemben tartó gépjárműve által vagy az e törvényben meghatározott korlátozásokkal az ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése, amennyiben a kötelezettségvállalás országa Magyarország;
 - 23. kártalanítási szervezet: a gépjármű-felelősségbiztosítási tevékenységet végző biztosítók által a székhelyük szerinti tagállamban működtetett szervezet, amelynek feladata a belföldi károsult más tagállam területén telephellyel rendelkező gépjármű üzemeltetéséből eredően a zöldkártyarendszer valamely országában elszenvedett kára kapcsán a károkozó biztosítója vagy annak kárrendezési megbízottja kárrendezésének elmaradása esetén a kárigények elbírálása és kielégítése e törvényben meghatározott esetekben;
 - 24. kötelezettségvállalás országa: bármely fajta gépjármű biztosítása esetén a
   - a) telephely szerinti ország, vagy
@@ -76,7 +76,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 ### A biztosítási kötelezettség
 
-4. § (1) Minden magyarországi telephelyű gépjármű üzemben tartója köteles az e törvény szerinti biztosítóval a gépjármű üzemeltetése során okozott károk fedezetére, az e törvényben meghatározott feltételek szerinti biztosítási szerződést kötni, és azt díjfizetéssel hatályban tartani (biztosítási kötelezettség).
+4. § (1) Minden magyarországi telephelyű gépjármű üzemben tartója köteles – a külön jogszabály alapján mentesített gépjárművek kivételével – az e törvény szerinti biztosítóval a gépjármű üzemeltetése során okozott károk fedezetére, az e törvényben meghatározott feltételek szerinti biztosítási szerződést kötni, és azt díjfizetéssel hatályban tartani (biztosítási kötelezettség).
 
 (2) A biztosítási kötelezettség, ha jogszabály másként nem rendelkezik, a mindenkori üzemben tartót a gépjármű hatósági engedéllyel és jelzéssel való ellátásának időpontjától – a szünetelés kivételével – a gépjármű forgalomból történő kivonásáig, illetve a külön jogszabályban meghatározott forgalomba helyezésre nem kötelezett gépjármű esetében a forgalomban történő részvétel kezdetétől a részvétel végleges megszüntetéséig terheli.
 
@@ -88,11 +88,11 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (6) Az üzemben tartó halála esetén, ha a biztosítási kötelezettség címzettje nem állapítható meg, a szerződés legkésőbb a hagyatéki eljárást lezáró határozat jogerőre emelkedésétől számított 30 napig tartható hatályban, amennyiben a gépjármű birtokosa a halál tényét a biztosítónak bejelentette, és a szerződést díjfizetéssel hatályban tartja.
 
-(7) Más tagállami telephelyű gépjármű tulajdonosa – ha a gépjármű rendeltetés helye szerinti tagállama a Magyar Köztársaság – köteles a tulajdonszerzést követően a rendelkezésre bocsátástól számított harmincnapos időtartamra az e törvény szerinti biztosítással rendelkezni.
+(7) Más tagállami telephelyű gépjármű tulajdonosa – ha a gépjármű rendeltetés helye szerinti tagállama Magyarország – köteles a tulajdonszerzést követően a rendelkezésre bocsátástól számított harmincnapos időtartamra az e törvény szerinti biztosítással rendelkezni.
 
 ### A szerződés létrejötte és megszűnése
 
-5. § (1) A biztosító a magyarországi telephelyű gépjármű üzemben tartójának, valamint azon gépjármű tulajdonosának, melynek rendeltetés helye szerinti tagállama a Magyar Köztársaság, az e törvényben meghatározott feltételek szerinti biztosítási szerződés megkötésére vonatkozó – a biztosító díjtarifájának megfelelő – ajánlatát a 13. § (1) bekezdésében meghatározott összeghatárok szerint köteles elfogadni.
+5. § (1) A biztosító a magyarországi telephelyű gépjármű üzemben tartójának, valamint azon gépjármű tulajdonosának, melynek rendeltetés helye szerinti tagállama a Magyarország, az e törvényben meghatározott feltételek szerinti biztosítási szerződés megkötésére vonatkozó – a biztosító díjtarifájának megfelelő – ajánlatát a 13. § (1) bekezdésében meghatározott összeghatárok szerint köteles elfogadni.
 
 (2) Ha a biztosítási szerződés a biztosítási időszak tartama alatt a 21. § (4) bekezdésében meghatározottak szerint (díjnemfizetés) szűnik meg, az üzemben tartónak az adott biztosítási időszak hátralévő részére fedezetet nyújtó szerződés megkötésére vonatkozó ajánlatát kizárólag az a biztosító jogosult és köteles elfogadni, amelynél a szerződés az adott biztosítási időszakban díjnemfizetéssel szűnt meg.
 
@@ -279,7 +279,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (5) A biztosító köteles a biztosítási feltételeit, az adott naptári évben alkalmazandó, valamint október 30-át követően a következő évben alkalmazandó díjtarifáját az ügyfélfogadásra rendelkezésre álló helyiségeiben és a honlapján folyamatosan hozzáférhetővé tenni.
 
-(6) Ha a biztosító a gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében nyújtja és a Magyar Köztársaság területén szervezeti egységgel nem rendelkezik, köteles gondoskodni arról, hogy az (5) bekezdésben említett információk a kárképviselő székhelyén vagy lakóhelyén betekintés céljából kifüggesztésre kerüljenek.
+(6) Ha a biztosító a gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében nyújtja és Magyarország területén szervezeti egységgel nem rendelkezik, köteles gondoskodni arról, hogy az (5) bekezdésben említett információk a kárképviselő székhelyén vagy lakóhelyén betekintés céljából kifüggesztésre kerüljenek.
 
 24. § (1) A határozatlan tartamú szerződés fennállása alatt a biztosítás díja a következő biztosítási időszak első napjától kezdődő hatállyal a 23. § (1)–(2) bekezdéseiben meghatározottak szerint módosul.
 
@@ -315,7 +315,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 28. § (1) A károsult kártérítési igényét e törvény alapján, a biztosítási szerződés keretei között a károkozó gépjármű üzemben tartójának biztosítójával szemben közvetlenül, illetve az e törvényben meghatározott esetekben a Kártalanítási Számla kezelőjével szemben jogosult érvényesíteni.
 
-(2) A más tagállam területén lakóhellyel (székhellyel) rendelkező károsult keresetet indíthat a károkozó Magyar Köztársaság területén székhellyel rendelkező biztosítójával szemben a lakóhelye (székhelye) szerinti tagállamban, vagy a baleset bekövetkezésének helye szerinti tagállamban, amennyiben a baleset a zöldkártyarendszer valamely, a károsult lakóhelyétől (székhelyétől) eltérő országában következett be.
+(2) A más tagállam területén lakóhellyel (székhellyel) rendelkező károsult keresetet indíthat a károkozó Magyarország területén székhellyel rendelkező biztosítójával szemben a lakóhelye (székhelye) szerinti tagállamban, vagy a baleset bekövetkezésének helye szerinti tagállamban, amennyiben a baleset a zöldkártyarendszer valamely, a károsult lakóhelyétől (székhelyétől) eltérő országában következett be.
 
 (3) A biztosítóval szemben támasztott követeléseket a károsult választása szerint a kárképviselővel szemben is érvényesítheti a biztosítóra kiterjedő joghatállyal.
 
@@ -367,7 +367,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (6) A 32/A. § (2) bekezdésében, valamint a (2)–(5) bekezdésben foglaltak nem érintik azt a lehetőséget, hogy a biztosító a 32/A. § (1) bekezdés szerint előzetesen kalkulált nettó összeg, illetve értékcsökkenés 60%-ának megfelelő összegű szolgáltatási előleget nyújtson.
 
-(7) Az (1)–(6) bekezdésekben meghatározottakat nem kell alkalmazni, ha a kárt szenvedett gépjármű telephely szerinti országa nem a Magyar Köztársaság.
+(7) Az (1)–(6) bekezdésekben meghatározottakat nem kell alkalmazni, ha a kárt szenvedett gépjármű telephely szerinti országa nem Magyarország.
 
 ### Törvényi engedmény
 
@@ -397,9 +397,9 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 ### A Kártalanítási Számla helytállási kötelezettsége
 
-35. § (1) A károsult a biztosítási kötelezettség ellenére szerződéssel nem rendelkező, vagy ismeretlen üzemben tartó gépjárműve által vagy az ismeretlen gépjárművel a Magyar Köztársaság területén okozott, vagy a 26. §-ban meghatározott szünetelés ideje alatt bekövetkezett kárának megtérítése iránti igényét az e törvényben foglaltak alapján – a 36. §-ban foglalt kivételekkel – a Kártalanítási Számla kezelőjével szemben is érvényesítheti. A Kártalanítási Számla kezelője a 13. § (1) bekezdésében meghatározott összeghatárokig köteles helytállni. A károsult kárát a Kártalanítási Számla kezelője akkor is köteles megtéríteni, ha a kárt forgalomba nem helyezett vagy a forgalomból kivont gépjárművel okozták.
+35. § (1) A károsult a biztosítási kötelezettség ellenére szerződéssel nem rendelkező, vagy ismeretlen üzemben tartó gépjárműve által vagy az ismeretlen gépjárművel Magyarország területén okozott, vagy a 26. §-ban meghatározott szünetelés ideje alatt bekövetkezett kárának megtérítése iránti igényét az e törvényben foglaltak alapján – a 36. §-ban foglalt kivételekkel – a Kártalanítási Számla kezelőjével szemben is érvényesítheti. A Kártalanítási Számla kezelője a 13. § (1) bekezdésében meghatározott összeghatárokig köteles helytállni. A károsult kárát a Kártalanítási Számla kezelője akkor is köteles megtéríteni, ha a kárt forgalomba nem helyezett vagy a forgalomból kivont gépjárművel okozták.
 
-(2) Ha biztosítási fedezettel nem rendelkező üzemben tartó magyarországi telephelyű gépjárművével más tagállam területén kárt okoz, vagy ha a károkozó gépjármű rendeltetés helye szerinti tagállama a Magyar Köztársaság, a Kártalanítási Számla kezelője a 13. § (2) bekezdésében meghatározott mértékig megtéríti a károsult kárát, vagy a külföldi nemzeti iroda, illetve tagja, a tagállam kártalanítási szervezete, vagy garanciaalapja visszakövetelési igényét. Nem tagállam területén okozott károk esetében a Kártalanítási Számla kezelőjét e kötelezettség a nemzeti irodák közötti ez irányú megállapodás alapján terheli.
+(2) Ha biztosítási fedezettel nem rendelkező üzemben tartó magyarországi telephelyű gépjárművével más tagállam területén kárt okoz, vagy ha a károkozó gépjármű rendeltetés helye szerinti tagállama Magyarország, a Kártalanítási Számla kezelője a 13. § (2) bekezdésében meghatározott mértékig megtéríti a károsult kárát, vagy a külföldi nemzeti iroda, illetve tagja, a tagállam kártalanítási szervezete, vagy garanciaalapja visszakövetelési igényét. Nem tagállam területén okozott károk esetében a Kártalanítási Számla kezelőjét e kötelezettség a nemzeti irodák közötti ez irányú megállapodás alapján terheli.
 
 (3) A Kártalanítási Számla kezelője a biztosítók bármelyikét megbízhatja a károk rendezésével és perbeli képviselete ellátásával.
 
@@ -431,19 +431,19 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 ### A kárrendezési megbízott
 
-37. § (1) A Magyar Köztársaság területén székhellyel rendelkező biztosító a (2) bekezdésben meghatározott feladatok ellátására kárrendezési megbízottat jelöl ki.
+37. § (1) A Magyarország területén székhellyel rendelkező biztosító a (2) bekezdésben meghatározott feladatok ellátására kárrendezési megbízottat jelöl ki.
 
-(2) Ha a zöldkártyarendszer valamely, a károsult lakóhelyétől (székhelyétől) eltérő országában magyarországi telephelyű gépjármű üzemeltetésével kárt okoznak, és a károkozónak a Magyar Köztársaság területén székhellyel rendelkező biztosítójával szemben a más tagállam területén lakóhellyel (székhellyel) rendelkező károsultnak e károk miatt kártérítési igénye keletkezik, a károsult kártérítési igényét lakóhelye (székhelye) szerinti tagállam területén a károkozó biztosítója által kijelölt kárrendezési megbízottjához is benyújthatja. A károsult igényét választása szerint a károkozóval vagy a károkozó biztosítójával szemben közvetlenül is érvényesítheti.
+(2) Ha a zöldkártyarendszer valamely, a károsult lakóhelyétől (székhelyétől) eltérő országában magyarországi telephelyű gépjármű üzemeltetésével kárt okoznak, és a károkozónak a Magyarország területén székhellyel rendelkező biztosítójával szemben a más tagállam területén lakóhellyel (székhellyel) rendelkező károsultnak e károk miatt kártérítési igénye keletkezik, a károsult kártérítési igényét lakóhelye (székhelye) szerinti tagállam területén a károkozó biztosítója által kijelölt kárrendezési megbízottjához is benyújthatja. A károsult igényét választása szerint a károkozóval vagy a károkozó biztosítójával szemben közvetlenül is érvényesítheti.
 
-(3) A Magyar Köztársaság területén székhellyel rendelkező biztosító kárrendezési megbízottja a kártérítési igényekkel kapcsolatban köteles összegyűjteni a kárigények rendezéséhez szükséges valamennyi információt, és köteles a kárrendezés elintézéséhez szükséges minden intézkedést megtenni, valamint a kárrendezési eljárást a károsult lakóhelye, illetve székhelye szerinti tagállam hivatalos nyelvén lefolytatni.
+(3) A Magyarország területén székhellyel rendelkező biztosító kárrendezési megbízottja a kártérítési igényekkel kapcsolatban köteles összegyűjteni a kárigények rendezéséhez szükséges valamennyi információt, és köteles a kárrendezés elintézéséhez szükséges minden intézkedést megtenni, valamint a kárrendezési eljárást a károsult lakóhelye, illetve székhelye szerinti tagállam hivatalos nyelvén lefolytatni.
 
-(4) Ha – a Magyar Köztársaság területén kívül – a zöldkártyarendszer valamely országában más tagállam területén telephellyel rendelkező gépjármű (nem magyarországi telephelyű gépjármű) üzemeltetésével kárt okoznak, és a Magyar Köztársaság területén lakóhellyel (székhellyel) rendelkező károsultnak e károk miatt a károkozó gépjármű-felelősségbiztosítójával szemben kártérítési igénye keletkezik („szenvedett kár”), kártérítési igényét a károkozó gépjármű-felelősségbiztosítója által Magyarországra kijelölt kárrendezési megbízottjához is benyújthatja. A károsult igényét választása szerint a károkozóval vagy a károkozó gépjármű-felelősségbiztosítójával szemben közvetlenül is érvényesítheti.
+(4) Ha – Magyarország területén kívül – a zöldkártyarendszer valamely országában más tagállam területén telephellyel rendelkező gépjármű (nem magyarországi telephelyű gépjármű) üzemeltetésével kárt okoznak, és a Magyarország területén lakóhellyel (székhellyel) rendelkező károsultnak e károk miatt a károkozó gépjármű-felelősségbiztosítójával szemben kártérítési igénye keletkezik („szenvedett kár”), kártérítési igényét a károkozó gépjármű-felelősségbiztosítója által Magyarországra kijelölt kárrendezési megbízottjához is benyújthatja. A károsult igényét választása szerint a károkozóval vagy a károkozó gépjármű-felelősségbiztosítójával szemben közvetlenül is érvényesítheti.
 
 ### A kárképviselő
 
-38. § (1) A Magyar Köztársaság területén székhellyel vagy fiókteleppel nem rendelkező biztosító gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében a Magyar Köztársaság területén csak akkor nyújthat, ha a tevékenység folytatásához kárképviselőt bízott meg.
+38. § (1) A Magyarország területén székhellyel vagy fiókteleppel nem rendelkező biztosító gépjármű-felelősségbiztosítást határon átnyúló szolgáltatás keretében Magyarország területén csak akkor nyújthat, ha a tevékenység folytatásához kárképviselőt bízott meg.
 
-(2) A kárképviselőnek a Magyar Köztársaság területén állandó lakóhellyel vagy székhellyel kell rendelkeznie.
+(2) A kárképviselőnek Magyarország területén állandó lakóhellyel vagy székhellyel kell rendelkeznie.
 
 (3) Az (1) bekezdésben meghatározott biztosítónak a kárképviselővel kapcsolatos adatokat, annak kijelölését, illetve az adataiban, valamint a személyében bekövetkezett változásokat 8 napon belül a Felügyeletnek be kell jelentenie.
 
@@ -483,28 +483,28 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 ### Külföldi telephelyű gépjárművekre vonatkozó rendelkezések
 
-41. § A külföldi telephelyű gépjármű a Magyar Köztársaság területére harmadik ország, valamint a Rendszámegyezményhez nem csatlakozott tagállam területéről csak akkor léphet be, illetve a Magyar Köztársaság területén akkor vehet részt a forgalomban, ha
+41. § A külföldi telephelyű gépjármű Magyarország területére harmadik ország, valamint a Rendszámegyezményhez nem csatlakozott tagállam területéről csak akkor léphet be, illetve Magyarország területén akkor vehet részt a forgalomban, ha
 
 - a) üzemben tartója (vezetője) érvényes gépjármű-felelősségbiztosítási fedezetet igazoló nemzetközi igazolvánnyal rendelkezik, vagy
 - b) a gépjármű olyan ország hatósági jelzéseit és országjelét viseli, amely a Rendszámegyezmény részese.
 
-42. § (1) Ha a külföldi telephelyű gépjármű üzemben tartója (vezetője) az érvényes gépjármű-felelősségbiztosítási fedezetet fennállását a 41. §-ban meghatározott módon nem igazolja, a Magyar Köztársaság területére való belépéskor köteles az e törvény szerinti biztosítóval, vagy biztosítók e célra létrehozott csoportjával határozott időre szóló szerződést (határbiztosítást) kötni, azt a tartózkodás idején folyamatosan fenntartani, s az ezt tanúsító okiratot magánál tartani. E szerződésre a magyar jogot kell alkalmazni és fedezetet kell nyújtania a tagállamok területén okozott károkra.
+42. § (1) Ha a külföldi telephelyű gépjármű üzemben tartója (vezetője) az érvényes gépjármű-felelősségbiztosítási fedezet fennállását a 41. §-ban meghatározott módon nem igazolja, Magyarország területére való belépéskor köteles az e törvény szerinti biztosítóval, vagy biztosítók e célra létrehozott csoportjával határozott időre szóló szerződést (határbiztosítást) kötni, azt a tartózkodás idején folyamatosan fenntartani, s az ezt tanúsító okiratot magánál tartani. E szerződésre a magyar jogot kell alkalmazni és fedezetet kell nyújtania a tagállamok területén okozott károkra.
 
 (2) Az (1) bekezdés szerinti okiratra (határbiztosítás) nincs szükség olyan gépjárművek esetében, amelyeknek telephelye a Rendszámegyezményhez csatlakozott országban van, vagy ha a forgalmi engedélyre nem kötelezett gépjármű állandó telephelye a Rendszámegyezményhez csatlakozott országban van.
 
-(3) Az (1) bekezdésben foglaltakat nem kell alkalmazni a Magyar Köztársaság területén állomásozó vagy áthaladó külföldi katonai gépjárművek esetében, ha azok vonatkozásában nemzetközi egyezmény, illetve jogszabály e törvénytől eltérő szabályokat állapít meg.
+(3) Az (1) bekezdésben foglaltakat nem kell alkalmazni a Magyarország területén állomásozó vagy áthaladó külföldi katonai gépjárművek esetében, ha azok vonatkozásában nemzetközi egyezmény, illetve jogszabály e törvénytől eltérő szabályokat állapít meg.
 
-(4) A külföldi telephelyű gépjárművek Magyar Köztársaság területére történő belépésekor a vámhatóság ellenőrzi a 41. §-ban foglaltak fennállását.
+(4) A külföldi telephelyű gépjárművek Magyarország területére történő belépésekor a vámhatóság ellenőrzi a 41. §-ban foglaltak fennállását.
 
 (5) A (2) bekezdés szerinti gépjárművek esetében abban az esetben végezhetnek a jogszabályokban a biztosítás ellenőrzésére feljogosított szervek a biztosításra vonatkozó ellenőrzést, ha az nem rendszeres és nem megkülönböztető jellegű, és olyan ellenőrzés részeként végzik, amely nem kizárólag a biztosítás ellenőrzésére irányul.
 
 ### Nemzeti Iroda
 
-43. § (1) Ha a Magyar Köztársaság területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt, a kártérítési igényt – a 13. § (1) bekezdésében meghatározott értékhatárt figyelembe véve – a Nemzeti Irodával szemben is lehet érvényesíteni. A Nemzeti Iroda a károk rendezésével és perbeli képviselete ellátásával bármelyik biztosítót, illetve annak jogi képviselőjét megbízhatja. Ha a károkozó gépjármű-felelősségbiztosítója – a Nemzeti Iroda hozzájárulásával – a biztosítottjai által a Magyar Köztársaság területén okozott károk rendezésére a levelezővel megállapodást kötött, a károk rendezését és a Nemzeti Iroda perbeli képviselete ellátását – a Nemzeti Iroda ellentétes rendelkezése hiányában – e levelező, illetőleg képviselője végzi.
+43. § (1) Ha Magyarország területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt, a kártérítési igényt – a 13. § (1) bekezdésében meghatározott értékhatárt figyelembe véve – a Nemzeti Irodával szemben is lehet érvényesíteni. A Nemzeti Iroda a károk rendezésével és perbeli képviselete ellátásával bármelyik biztosítót, illetve annak jogi képviselőjét megbízhatja. Ha a károkozó gépjármű-felelősségbiztosítója – a Nemzeti Iroda hozzájárulásával – a biztosítottjai által Magyarország területén okozott károk rendezésére a levelezővel megállapodást kötött, a károk rendezését és a Nemzeti Iroda perbeli képviselete ellátását – a Nemzeti Iroda ellentétes rendelkezése hiányában – e levelező, illetve képviselője végzi.
 
 (2) A Nemzeti Iroda ellátja a Kártalanítási Szervezet és az Információs Központ e jogszabályban meghatározott feladatait.
 
-(3) Ha a Magyar Köztársaság területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt és a külföldi károsult szokásos tartózkodási helye nem valamely tagállam területén van, a külföldi károsult a Nemzeti Irodával szemben az (1) bekezdés alapján kártérítési igényt kizárólag abban az esetben érvényesíthet, ha országában a baleset időpontjában a magyar károsultat hasonló jog illette meg.
+(3) Ha Magyarország területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt és a külföldi károsult szokásos tartózkodási helye nem valamely tagállam területén van, a külföldi károsult a Nemzeti Irodával szemben az (1) bekezdés alapján kártérítési igényt kizárólag abban az esetben érvényesíthet, ha országában a baleset időpontjában a magyar károsultat hasonló jog illette meg.
 
 (4) A Nemzeti Iroda haladéktalanul tájékoztatja a Felügyeletet, ha
 
@@ -528,7 +528,7 @@ változás következik be.
 
 45. § (1) A biztosítási fedezet fennállásának az ellenőrzésre jogosult hatóság eljárása során történő tanúsítására a külön rendeletben meghatározott igazolóeszköz szolgál.
 
-(2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi negyedéves összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes jegyző a külön jogszabályban meghatározott módon a gépjárművet kivonja a forgalomból.
+(2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi negyedéves összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes jegyző a külön jogszabályban meghatározott módon – az 57/A. § (1) bekezdésének megfelelően mentesített gépjárművek kivételével – a gépjárművet kivonja a forgalomból.
 
 (3) A Magyar Honvédség által üzemben tartott gépjárművek biztosítási fedezetének igazolására a Magyar Honvédség nevére kiállított forgalmi engedély szolgál.
 
@@ -670,6 +670,8 @@ késedelem nélkül megkapja.
 
 (7) Az Információs Központ a biztosítók kárrendezési megbízottainak adatait, illetve az azokban bekövetkezett változásokat haladéktalanul köteles közölni a többi tagállam információs központjaival, illetve erre irányuló együttműködési szerződés esetén harmadik ország információs központjával. Az adatok helytállóságáért a kárrendezési megbízottat jelölő biztosító a felelős. A kárrendezési megbízottak jegyzékét az interneten a MABISZ honlapján keresztül is elérhetővé kell tenni.
 
+(8) Ha a káreseményben részes gépjármű a káresemény időpontjában az 57/A. § (1) bekezdésének megfelelően mentesített volt, az Információs Központ a mentesített gépjármű által okozott károkkal kapcsolatban a károk megtérítésére kötelezett, továbbá a kárrendezést végző szerv nevét és elérhetőségét a megkeresővel közli.
+
 55. § A kárnyilvántartó szerv feladatait az Információs Központ látja el.
 
 ### IV. Fejezet — A MABISZ ÁLTAL A KÖTELEZŐ GÉPJÁRMŰ-FELELŐSSÉGBIZTOSÍTÁS RENDSZERÉBEN ELLÁTOTT FELADATOK
@@ -689,6 +691,21 @@ késedelem nélkül megkapja.
 (2) A Kártalanítási Számla és a Kártalanítási Alap kezelője és a Nemzeti Iroda feladatainak az ellátója köteles legkésőbb a tárgyévet követő január 31-ig a biztosítók részére a befizetett összegekről kimutatást készíteni.
 
 (3) A Kártalanítási Számla és a Kártalanítási Alap kezelője köteles minden évben a külön jogszabályban meghatározottak szerint a Felügyelet részére adatszolgáltatást teljesíteni.
+
+### V. Fejezet — ÁLLAMI GÉPJÁRMŰVEK MENTESÍTÉSE
+
+57/A. § (1) Mentesek az e törvényben meghatározott biztosítási szerződés megkötésének kötelezettsége alól azon gépjárművek üzemben tartói, amelyeket az üzemben tartói jogokat gyakorló minisztériumot vezető miniszter, vagy az üzemben tartói jogokat gyakorló szervezet felett irányítási vagy felügyeleti jogot gyakorló miniszter (a továbbiakban: vagyonkezelésért felelős miniszter) rendeletében a biztosítási kötelezettség alól mentesített.
+
+(2) A vagyonkezelésért felelős miniszter akkor mentesítheti az (1) bekezdésben meghatározott gépjárművek üzemben tartóit, ha a mentesítés hatályának a kezdetét megelőzően meghozatalra kerülnek az intézkedések a mentesítésre kerülő gépjárművekkel kapcsolatos jövőben bekövetkező károk rendezéséről, továbbá a károk és annak rendezésének fedezetéről, amelynek keretében
+
+- a) össze kell állítani és naprakészen kell tartani a mentesített gépjárművek jegyzékét, illetve biztosítani kell a mentesített gépjárművek nyilvántartásával kapcsolatos intézkedéseket, illetve az ahhoz való hozzáférést az Információs Központ feladatait ellátó Nemzeti Iroda számára,
+- b) Magyarország, továbbá más tagállam területén ki kell jelölni a mentesített gépjárművek által az okozott károk rendezését és megtérítését végző szervet,
+- c) biztosítani kell a b) pontban meghatározott szervezetnél a feladatellátáshoz szükséges személyi és tárgyi feltételeket,
+- d) meg kell tenni a szükséges intézkedéseket, hogy a mentesített gépjárművek által az okozott károk rendezését és megtérítését végző szerv a Belső Szabályzatban foglaltaknak megfelelően teljesíteni tudja a károkkal kapcsolatos megtérítési kötelezettségét, illetve a mentesített gépjárművek igazolóeszközzel legyenek ellátva.
+
+(3) A miniszter a mentesítést megelőzően közli az Európai Bizottsággal, a tagállamokkal és az Információs Központ feladatait ellátó Nemzeti Irodával a mentesített gépjárművek jegyzékét, a mentesített gépjárművek által okozott károkkal kapcsolatban a károk megtérítésére kötelezett, továbbá a kárrendezést végző szerv nevét és elérhetőségét.
+
+(4) Ha a Nemzeti Iroda, illetve a Kártalanítási Szervezet – a külföldi nemzeti iroda, illetve kártalanítási szervezet megtérítési igénye alapján – a kárt megtérítette, a károsult követelésének kielégítésével kapcsolatban felmerült összes ráfordítása és – átalányösszegben is megállapítható – költsége megtérítését követelheti – a Belső Szabályzatban foglalt feltételek szerint – a mentesített gépjármű üzemben tartójától.
 
 ## NEGYEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -753,6 +770,8 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy a közlekedésrendészetért felelős miniszterrel egyetértésben rendeletben állapítsa meg a magyarországi telephelyű gépjárművek, továbbá más tagállami telephelyű és magyarországi rendeltetési hellyel rendelkező gépjárművek kötelező gépjármű-felelősségbiztosítási fedezetének fennállását tanúsító igazolóeszközökre vonatkozó szabályokat.
 
+(3) Felhatalmazást kap a kormány tagja, hogy rendeletben megállapíthassa a biztosítási kötelezettség alól mentes gépjárművek körét, ezek nyilvántartására vonatkozó szabályokat, gépjárművek által okozott károk megtérítését és rendezését végző szerv kijelölését, a szerv működésére vonatkozó szabályokat és a mentesített gépjárművek igazolóeszközzel történő ellátására vonatkozó szabályokat.
+
 ### Az Európai Unió jogának való megfelelés
 
 70. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
@@ -763,4 +782,5 @@ rendeletben állapítsa meg.
 - d) a Tanács 1990. május 14-i 90/232/EGK harmadik irányelve a gépjármű-használattal kapcsolatos polgári jogi felelősség biztosítására vonatkozó tagállami jogszabályok közelítéséről,
 - e) a Tanács 1990. november 8-i 90/618/EGK irányelve az életbiztosítás körén kívül eső közvetlen biztosítási tevékenységekre vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 73/239/EGK és 88/357/EGK irányelvnek elsősorban a gépjármű-felelősségbiztosítás tekintetében történő módosításáról,
 - f) az Európai Parlament és a Tanács 2000. május 16-i 2000/26/EK irányelve a tagállamok gépjármű-felelősségbiztosításra vonatkozó jogszabályainak közelítéséről, valamint a 73/239/EGK és a 88/357/EGK tanácsi irányelv módosításáról (negyedik gépjármű-biztosítási irányelv),
-- g) az Európai Parlament és a Tanács 2005. május 11-i 2005/14/EK irányelve a gépjármű-felelősségbiztosításra vonatkozó 72/166/EGK, 84/5/EGK, 88/357/EGK és 90/232/EGK tanácsi irányelv, valamint a 2000/26/EK európai parlamenti és tanácsi irányelv módosításáról.
+- g) az Európai Parlament és a Tanács 2005. május 11-i 2005/14/EK irányelve a gépjármű-felelősségbiztosításra vonatkozó 72/166/EGK, 84/5/EGK, 88/357/EGK és 90/232/EGK tanácsi irányelv, valamint a 2000/26/EK európai parlamenti és tanácsi irányelv módosításáról,
+- h) az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/103/EK irányelve a a gépjármű-felelősségbiztosításról és a biztosítási kötelezettség ellenőrzéséről.

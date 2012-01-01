@@ -65,11 +65,11 @@ a következő törvényt alkotja:
 
 (4) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően befektetési alap által kibocsátott befektetési jegyet és kockázati tőkealap által kibocsátott kockázati tőkealap-jegyet vásárolhat.
 
-(5) Az e törvény 1. számú mellékletében meghatározott gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonos jogait – e törvény erejénél fogva – a Magyar Állam nevében az MFB Zrt. gyakorolja (tulajdonosi jogok gyakorlása). A tulajdonosi jogok gyakorlására a Gt. és a Ptk. rendelkezéseit e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.
+(5) Az e törvény 1. számú mellékletében meghatározott gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonos jogait – e törvény erejénél fogva – a Magyar Állam nevében az MFB Zrt. gyakorolja (a továbbiakban: tulajdonosi jogok gyakorlása). A tulajdonosi jogok gyakorlására a Gt. és a Ptk. rendelkezéseit a nemzeti vagyonról szóló törvényben, valamint az e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.
 
 (6) Kizárólag az (5) bekezdésben meghatározott társasági részesedések tulajdonjogának – az erre feljogosított szervezet által történő – átruházása, biztosítékul adása vagy más módon történő megterhelése, a részesedésekre vételi jog, elővásárlási jog szerződéssel történő alapítása, illetve a gazdálkodó szervezet végelszámolással történő megszüntetése esetén kell az állami vagyonról szóló 2007. évi CVI. törvény, valamint annak végrehajtására kiadott más jogszabályok rendelkezéseit alkalmazni.
 
-(7) Az (5) bekezdésben meghatározott társasági részesedések elidegenítésére, biztosítékul adására vagy más módon történő megterhelésére, a részesedésekre vételi jog, elővásárlási jog szerződéssel történő alapítására, illetve a gazdálkodó szervezet végelszámolással történő megszüntetésére az erre feljogosított szervezet és az MFB Zrt. közötti egyeztetést követően kerül sor.
+(7)
 
 (8)
 
@@ -132,7 +132,7 @@ a következő törvényt alkotja:
 
 (4) Az MFB Zrt. idegen devizában meghatározott, éven túli lejáratú forrásbevonását az államháztartásért felelős miniszterrel és a tulajdonosi jogokat gyakorló miniszterrel egyeztetve végzi.
 
-(5) Az (1) bekezdésben szereplő kezességek beváltására, nyilvántartására és a hozzájuk kapcsolódó adatszolgáltatási kötelezettségre az államháztartásról szóló 1992. évi XXXVIII. törvényt, illetve annak felhatalmazása alapján kiadott jogszabályokat kell alkalmazni.
+(5) Az (1) bekezdésben szereplő kezességek beváltására, nyilvántartására és a hozzájuk kapcsolódó adatszolgáltatási kötelezettségre az államháztartásról szóló 2011. évi CXCV. törvényt, illetve annak felhatalmazása alapján kiadott jogszabályokat kell alkalmazni.
 
 ### Az MFB Zrt. kormányzati kapcsolatai
 
@@ -244,7 +244,7 @@ szerezhet.
 
 (2) A vezérigazgató felett a munkáltatói jogokat – a kinevezés és felmentés jogával együtt – a tulajdonosi jogok gyakorlója gyakorolja. A vezérigazgató az igazgatóság tagja és elnöke, aki jogosult az elnök-vezérigazgató cím használatára.
 
-(3) Amennyiben az igazgatóság tagja, vagy a vezérigazgató a megválasztása, illetve munkaviszonya létesítését megelőző 6 hónapon belül a Magyar Nemzeti Bank felügyelő bizottságának tagja volt, úgy rá a Magyar Nemzeti Bankról szóló 2001. évi LVIII.törvény 58/B. §-ban hivatkozott 58. § (7) bekezdésében foglaltakat nem kell alkalmazni.
+(3) Amennyiben az igazgatóság tagja, vagy a vezérigazgató a megválasztása, illetve munkaviszonya létesítését megelőző 6 hónapon belül a Magyar Nemzeti Bank felügyelőbizottságának tagja volt, úgy rá a Magyar Nemzeti Bankról szóló törvény 55. § (8) bekezdésében hivatkozott 55. § (7) bekezdésében foglaltakat nem kell alkalmazni.
 
 ### A felügyelő bizottság
 
@@ -416,4 +416,4 @@ Magyar Követeléskezelő Zrt.
 
 MFB Invest Befektetési és Vagyonkezelő Zrt.
 
-KIKSZ Közlekedésfejlesztési Zrt.
+VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft.

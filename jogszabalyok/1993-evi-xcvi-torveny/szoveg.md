@@ -51,12 +51,12 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 - d) kiegészítő vállalkozási tevékenység: a pénztár szervezetében folytatott mindazon gazdálkodási tevékenység, amelyet az alaptevékenységként megjelölt szolgáltatások szervezéséhez és nyújtásához kapcsolódóan, arra visszahatóan, a pénztár szolgáltatási kötelezettségén felül, ellenszolgáltatás fejében nyújt;
 - e) kihelyezés: a pénztár feladatkörébe tartozó tevékenységének e tevékenység ellátásával üzletszerűen foglalkozó szervezet (szolgáltató) által, szerződés alapján történő megvalósítása,
 - f) kiszervezés: tevékenység olyan kihelyezése, melynek során adatkezelés vagy adatfeldolgozás is megvalósul,
-- g) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatkezelési tevékenység,
-- h) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatfeldolgozási tevékenység.
+- g) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatkezelési tevékenység,
+- h) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatfeldolgozási tevékenység.
 
 (5) E törvény alkalmazásában a kiegészítő nyugdíjpénztárnál
 
-- a) nyugdíjkorhatár: az életkor, melynek betöltését a társadalombiztosítási jogszabályok az öregségi nyugdíjra való jogosultság feltételéül előírják. E törvény alkalmazásában a nyugdíjkorhatár betöltésének minősül, ha a pénztártag előrehozott öregségi nyugdíjban, csökkentett összegű előrehozott öregségi nyugdíjban, szolgálati nyugdíjban, korengedményes nyugdíjban, előnyugdíjban, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 30. § (1) bekezdésének c) pontjában meghatározott jogosultságon alapuló álláskeresési segélyben, bányásznyugdíjban, egyes művészeti tevékenységet folytatók öregségi nyugdíjában, rokkantsági, baleseti rokkantsági nyugdíjban vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül. A nyugdíjkorhatár betöltése után a pénztártag a várakozási idő időtartamától függetlenül jogosulttá válik a nyugdíjszolgáltatásra;
+- a) nyugdíjkorhatár: a társadalombiztosítási nyugellátásról szóló törvény szerinti öregségi nyugdíjkorhatár, továbbá az az időpont, amelytől a pénztártag öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), növelt összegű öregségi, munkaképtelenségi járadékban vagy nyugdíj előtti álláskeresési segélyben részesül. A nyugdíjkorhatár betöltése után a pénztártag a várakozási idő időtartamától függetlenül jogosulttá válik a nyugdíjszolgáltatásra;
 - b) felhalmozási időszak: a tagsági viszonynak a belépéstől a c) pont szerinti nyugdíjszolgáltatás megnyílásáig terjedő időszaka;
 - c) nyugdíjszolgáltatás (kiegészítő nyugdíj): A nyugdíjkorhatár elérése után a pénztártag részére, az egyéni számláján nyilvántartott összeg terhére, az alapszabályban rögzített módozatoknak megfelelően választása szerint egy összegben vagy járadék formájában, illetőleg e kettő kombinációjaként történő pénzbeni kifizetés;
 - d) értékelési különbözet céltartaléka: az önkéntes kölcsönös nyugdíjpénztárak befektetési és gazdálkodási tevékenységéről szóló jogszabályban felsorolt eszközcsoportokba tartozó eszközök esetében az üzleti év mérleg-fordulónapjára, illetve a negyedév utolsó napjára meghatározott felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében képzett céltartalék. Az értékelési különbözet az adott eszközcsoportokon belül elkülönítetten, a források között a működési, a fedezeti (választható befektetési portfóliót biztosító rendszert működtető pénztárak esetén választható befektetési portfóliónként), illetve a likviditási céltartalékon belül értékelési különbözetből képzett céltartalékként jelenik meg;
@@ -133,7 +133,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 6. § (1) A pénztár jogi személy.
 
-(2) A pénztárt a székhelye szerint illetékes megyei (fővárosi) bíróság veszi nyilvántartásba. A nyilvántartásba vétel iránti kérelmet az alakuló közgyűlést követő 30 napon belül kell benyújtani a bírósághoz. A kérelemhez mellékelni kell az alakuló közgyűlés által elfogadott alapszabályt, az alakuló közgyűlés jegyzőkönyvét, a jelenléti ívet, valamint a kérelem beadását követően a számlavezetésre feljogosított pénzforgalmi szolgáltató igazolását pénzforgalmi számla megnyitásáról. A bíróság a nyilvántartásba vételről nem peres eljárásban határoz és határozatáról a kérelmezővel egyidejűleg az illetékes ügyészséget és a Pénzügyi Szervezetek Állami Felügyeletét (a továbbiakban: Felügyelet) is értesíti.
+(2) A pénztárt a székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) veszi nyilvántartásba. A nyilvántartásba vétel iránti kérelmet az alakuló közgyűlést követő 30 napon belül kell benyújtani a bírósághoz. A kérelemhez mellékelni kell az alakuló közgyűlés által elfogadott alapszabályt, az alakuló közgyűlés jegyzőkönyvét, a jelenléti ívet, valamint a kérelem beadását követően a számlavezetésre feljogosított pénzforgalmi szolgáltató igazolását pénzforgalmi számla megnyitásáról. A bíróság a nyilvántartásba vételről nemperes eljárásban határoz és határozatát a kérelmezővel egyidejűleg kézbesíti az ügyész részére, továbbá megküldi a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet).
 
 (3) A pénztár a bírósági nyilvántartásba vétellel jön létre, az alakuló közgyűlés időpontjára visszaható hatállyal. A pénztár nyilvántartásba vételének meghiúsulása esetén a felek egymás közötti jogviszonyaira a Polgári Törvénykönyvről szóló többször módosított 1959. évi IV. törvény (a továbbiakban: Ptk.) rendelkezései az irányadók.
 
@@ -143,7 +143,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (3) Ha a pénztár a nyilvántartásba vétel előtt jogot szerez vagy kötelezettséget vállal, a nyilvántartásba vétel hiányára nem hivatkozhat.
 
-8. § A pénztárak törvényességi felügyeletét az ügyészség a rá irányadó jogszabályok szerint, állami felügyeletét e törvény VI. Fejezete alapján a Pénzügyi Szervezetek Állami Felügyelete látja el.
+8. § A pénztárak működésének törvényességét az ügyészség az irányadó jogszabályok szerint ellenőrzi. Ha a működés törvényessége másképpen nem biztosítható az ügyészség keresettel a bírósághoz fordulhat. A pénztárak állami felügyeletét e törvény VI. fejezete alapján a Pénzügyi Szervezetek Állami Felügyelete látja el.
 
 9. § (1) A pénztár a 10. § (1) bekezdésében meghatározott tevékenységet a Felügyelet jogerős tevékenységi engedélye birtokában kezdheti meg. A tevékenység engedélyezésének eljárási szabályait a 60—64. §-ok tartalmazzák.
 
@@ -459,7 +459,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (2) A közgyűlésen jelenléti ívet kell felvenni, és jegyzőkönyvet kell vezetni. A jegyzőkönyv tartalmazza az elhangzott felszólalások lényegét és a hozott határozatokat. A jegyzőkönyvhöz csatolni kell az igazgatótanács és az ellenőrző bizottság beszámolójának egy példányát. A jegyzőkönyv egy példányát a csatolt iratokkal együtt — a közgyűlést követő harminc napon belül — meg kell küldeni a Felügyeletnek. A jelenléti ívre és a jegyzőkönyvre az 5. § (3) bekezdésében foglaltak irányadók.
 
-23/A. § A közgyűlési határozatok ellen a pénztártagok, illetve a küldöttek, valamint a Felügyelet a határozat meghozatalától számított 90 napon belül keresetet nyújthatnak be a pénztár székhelye szerint illetékes megyei bíróságon.
+23/A. § A közgyűlési határozatok ellen a pénztártagok, illetve a küldöttek, valamint a Felügyelet a határozat meghozatalától számított 90 napon belül keresetet nyújthatnak be a pénztár székhelye szerint illetékes törvényszéken.
 
 ### Az igazgatótanács feladata és hatásköre
 
@@ -736,7 +736,7 @@ kell helyezni.
 
 40. § (1) A pénztár beszámolási kötelezettségét, a beszámolót alátámasztó könyvvezetési kötelezettségét — e törvény alapján és a számviteli törvényben foglaltakra figyelemmel — kormányrendelet szabályozza.
 
-(2) A könyvszakértővel hitelesített pénztári beszámolót a pénzügyi év lejártát követő 150 napon belül közgyűlés elé kell terjeszteni.
+(2) A könyvszakértővel hitelesített pénztári beszámolót a pénzügyi év lejártát követő ötödik hónap utolsó napjáig közgyűlés elé kell terjeszteni.
 
 (3) Járadékszolgáltatást is nyújtó nyugdíjpénztárnak, valamint közösségi szolgáltatást nyújtó önsegélyező pénztárnak kormányrendeletben megállapított rendszerességgel és tartalommal az éves beszámoló részeként biztosításmatematikai mérleget kell készítenie, amelyet biztosításmatematikus ír alá.
 
@@ -780,12 +780,12 @@ kell helyezni.
 
 - a) Felügyelettel,
 - b) az Állami Számvevőszékkel,
-- c) a pénztárak törvényességi felügyeletét ellátó ügyészséggel,
+- c) a pénztárak működése törvényességének ellenőrzésére jogosult ügyészséggel,
 - d) a folyamatban levő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
 - e) külön törvényben meghatározott feltételek megléte esetén a titkos információ gyűjtésre felhatalmazott szervvel,
 - f) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
-- h) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben a csőd-, felszámolási eljárás és a helyi önkormányzatok adósságrendezési eljárása keretében a bírósággal,
+- h) a büntető-, valamint polgári ügyben, továbbá a csőd-, felszámolási eljárás és a helyi önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 - i) a gazdálkodás nyilvántartásához szükséges adatok tekintetében a gazdálkodás nyilvántartását végző szolgáltatóval, továbbá a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
 - j) az adókötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében, valamint a pénztári befizetések kedvezménye tekintetében eljáró adóhatósággal,
 - k) a Gazdasági Versenyhivatallal,
@@ -940,7 +940,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 - c) a módosított alapszabályt (a módosítások megjelölésével, egységes szerkezetben),
 - d) a jogutód képviseletére jogosult személyek listáját, vagy nyilatkozatot arról, hogy abban nem történt változás.
 
-(2) A bíróság az átalakulás átvezetéséről, a hiánypótlás elrendeléséről a kérelem beérkezésétől számított 8 napon belül határoz. A nyilvántartásba vételt elrendelő határozatot a bíróság a Felügyeletnek és az illetékes ügyészségnek is megküldi. Az átalakulás a bírósági nyilvántartásba vétellel történik meg, az átalakulás napjára visszamenőleges hatállyal. A bíróság a határozatában az átalakulás napját feltünteti.
+(2) A bíróság az átalakulás átvezetéséről, a hiánypótlás elrendeléséről a kérelem beérkezésétől számított 8 napon belül határoz. A nyilvántartásba vételt elrendelő határozatot a bíróság a Felügyeletnek megküldi és az illetékes ügyésznek kézbesíti. Az átalakulás a bírósági nyilvántartásba vétellel történik meg, az átalakulás napjára visszamenőleges hatállyal. A bíróság a határozatában az átalakulás napját feltünteti.
 
 42/B. § (1) Az átalakulás meghiúsul, ha
 
@@ -1241,9 +1241,9 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
   - ac) a gyermekgondozási segély és a gyermeknevelési támogatás összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
 - b) az 50/B. § (1) bekezdésének b) pontjában meghatározott ellátások közül a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskeresési járadék, álláskeresési segély összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
 - c) az 50/B. § (1) bekezdésének d) pontjában meghatározott ellátások közül
-  - ca) a táppénz, baleseti táppénz, rokkantsági, baleseti rokkantsági nyugellátás, valamint a baleseti járadék kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
-  - cb) az átmeneti járadék, valamint a bányász dolgozók egészségkárosodási járadéka összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
-  - cc) a rokkantsági járadék, ápolási díj, valamint a rendszeres szociális járadék összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
+  - ca) a táppénz, baleseti táppénz, a baleseti járadék valamint a megváltozott munkaképességű személyek ellátásai kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
+  - cb) a bányász dolgozók egészségkárosodási járadéka, valamint a bányászok egészségkárosodási járadéka összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
+  - cc) a rokkantsági járadék valamint az ápolási díj összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
 - d) az 50/B. § (1) bekezdésének e) pontjában meghatározott ellátások közül a temetés igazolt költségeinek támogatása;
 - e)
 - f) az 50/B. § (1) bekezdésének g) pontjában meghatározott ellátás;
@@ -1290,32 +1290,30 @@ nyújthat.
 - b)
 - c) otthoni gondozás, amelyet a pénztártag vagy közeli hozzátartozója részére a helyi önkormányzat által kiadott működési engedéllyel rendelkező szolgáltató nyújthat;
 - d) gyógytorna, gyógymasszázs és fizioterápiás kezelés igénybevételének támogatása;
-- e) fürdőszolgáltatás támogatása, melynek keretében a gyógyfürdő, mozgásszervi betegeket ellátó nappali kórház, gyógyfürdőkórház, szanatórium, éghajlati gyógyintézet, klímagyógyintézet, gyógyvíz-ivócsarnok és gyógybarlang (barlangterápiás intézet) egészségügyi szolgáltatásai, gyógyellátásai igénybevételének támogatása, vagy közfürdők fürdőgyógyászati részlege által nyújtott gyógykezelések igénybevételének támogatása nyújtható;
+- e)
 - f) látássérült személyek életvitelét elősegítő szolgáltatás, mely a Braille írással készült könyvek, magazinok árának, a vakvezető kutyával összefüggő költségek támogatása, valamint vak pénztártag, vagy pénztártag vak közeli hozzátartozója részére hangoskönyv és elektronikus könyv vásárlásának támogatása lehet;
 - g) életvitelt elősegítő szolgáltatás, amely mozgáskorlátozott vagy fogyatékos személyek életvitelét megkönnyítő speciális eszközök árának, lakókörnyezetük szükségleteikhez igazodó átalakítása költségeinek támogatása (így különösen korlátok, kapaszkodók felszerelése, ajtók, kijárók, folyosók szélesítése, emelőeszközök beszerelése) lehet;
 - h) a szenvedélybetegségről való leszoktatásra irányuló kezelések támogatása, mely igénybe vehető egészségügyi szolgáltatónál, illetve az 51/C. § a) pontjában foglalt szolgáltatásként;
 - i) a gyógyszer és gyógyászati segédeszköz árának támogatása;
 - j) pénzbeli kiegészítő egészségbiztosítási szolgáltatások, amely a pénztártag kieső jövedelemének teljes vagy részbeni pótlásaként az Ebtv. 44. §-a szerinti keresőképtelenség esetén, valamint a megváltozott munkaképesség miatt keresettel nem rendelkező személyek részére nyújthatók;
 - k) hátramaradottak segélyezése: a pénztártag halála esetén;
-- l) gyógyüdülés támogatása, melynek keretében a természetes gyógytényezőkről szóló jogszabályban meghatározottak szerinti gyógyüdülőben, vagy gyógyszállóban igénybe vett, egészségügyi szolgáltatást is tartalmazó gyógyüdülés igénybevétele támogatható;
-- m) egészségügyi üdülés támogatása, melynek keretében a kereskedelmi és fizetővendéglátó szálláshelyek osztályba sorolásáról szóló jogszabályban meghatározottak szerinti szállodában vagy üdülőházban, valamint a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú mellékletének 8.33. pontjában meghatározott üdülőben igénybe vett olyan üdülés igénybevétele támogatható, melynek során a szálloda, az üdülőház, illetve az üdülő saját gyógyászati részlegén, illetve más gyógyintézet szolgáltatásainak bevonásával – a pénztárral egészségügyi szolgáltatóként kötött szerződésben foglaltak szerint – egészségügyi szolgáltatást nyújt;
-- n) a sporttevékenységhez közvetlenül kapcsolódó kiadások támogatása, melynek keretében különösen pálya-, uszoda-, teremhasználatra, illetve foglalkozáson való részvételre jogosító bérletjegy megvásárlása támogatható. Nem tekinthető a sporttevékenységhez közvetlenül kapcsolódó kiadásnak az utazás, a szállás, a sportruházat, sportlábbeli és az étkezés költsége. Fogyatékos személyek esetén a sporttevékenységhez kapcsolódó kiadásnak minősül a fogyatékkal élő személy sportolásához szükséges sportruházat, sportlábbeli, utazás, szállás költsége, ideértve a fogyatékos személy sportolásához szükséges kísérő(k) utazásának és szállásának költségét. A sporttevékenységhez közvetlenül kapcsolódó kiadások támogatása személyenként és naptári évenként legfeljebb a tárgyév január 1-jén érvényes minimálbér havi összegének mértékéig vehető igénybe.
+- l)–n)
 
-(2) Az (1) bekezdés l) és m) pontjában foglalt szolgáltatások naptári évenként együttesen legfeljebb 160 ezer forint összegben, több szolgáltatásra jogosult személy által történő együttes igénybevétel esetén naptári évenként együttesen legfeljebb 240 ezer forint összegben vehetők igénybe.
+(2)
 
 ### Az egészségpénztárak által nyújtható életmódjavító egészségpénztári szolgáltatások köre
 
 51/C. § Az egészségpénztár életmódjavító egészségpénztári szolgáltatásként a következő szolgáltatásokat nyújthatja:
 
 - a) természetgyógyászati szolgáltatás, amely a természetgyógyászati tevékenység gyakorlásának egyes kérdéseiről szóló jogszabályban felsorolt, az ott meghatározott feltételeknek megfelelő szolgáltató által nyújtott – az 51/B. § (1) bekezdésében meghatározott szolgáltatási körbe nem tartozó – szolgáltatások igénybevételének támogatása lehet;
-- b) rekreációs üdülés, melynek keretében a kereskedelmi és a fizető-vendéglátó szálláshelyek osztályba sorolásáról szóló jogszabályban meghatározottak szerinti wellness hotelben igénybe vett, szállodai szolgáltatással egybekötött egészségügyi szolgáltatást tartalmazó üdülés támogatható;
+- b)
 - c) sporteszköz vásárlásának támogatása, melynek keretében az aktív testmozgást segítő sporteszköz (ideértve a sporttevékenység során a testi épséget közvetlenül védő kiegészítő eszközöket is, mint kar-, könyök-, térd- és fejvédő) vásárlása, illetve bérlése támogatható;
-- d) életmódváltozást elősegítő szolgáltatás, melynek keretében az alábbi, egészségügyi szolgáltató vagy természetgyógyász által nyújtott – az 51/B. § (1) bekezdésében meghatározott szolgáltatási körbe nem tartozó – szolgáltatások igénybevétele támogatható: 1. méregtelenítő kúra, 2. léböjtkúra, 3. preventív kúra mozgásszervi panaszok megelőzésére, 4. fogyókúraprogram;
+- d)
 - e) gyógyteák, fog- és szájápolók megvásárlásának támogatása.
 
 51/D. § (1) Az 51/B–51/C. §-ban meghatározott szolgáltatások igénybevételéről – a (2)–(3) bekezdésekben foglalt eltérésekkel – a pénztártag rendelkezik.
 
-(2) A 2. § (6) bekezdés g) pontjának 7. alpontjában meghatározott szolgáltatások közül a hallásjavító eszközök, valamint a látás javítását elősegítő fénytani eszközök megvásárlásának támogatása (feltéve, hogy a vásárlás társadalombiztosítási támogatás igénybevétele nélkül történik és a megvásárolt termék nem vényköteles), valamint az 51/B. § (1) bekezdésének c) és e) pontjaiban nevesített szolgáltatások orvosi javaslat, vagy – kizárólag a látás javítását elősegítő fénytani eszközök megvásárlása esetén – működési engedéllyel rendelkező, szakképzett optometrista javaslata alapján vehetők igénybe.
+(2) A 2. § (6) bekezdés g) pontjának 7. alpontjában meghatározott szolgáltatások közül a hallásjavító eszközök, valamint a látás javítását elősegítő fénytani eszközök megvásárlásának támogatása (feltéve, hogy a vásárlás társadalombiztosítási támogatás igénybevétele nélkül történik és a megvásárolt termék nem vényköteles), valamint az 51/B. § (1) bekezdésének c) pontjában nevesített szolgáltatások orvosi javaslat, vagy – kizárólag a látás javítását elősegítő fénytani eszközök megvásárlása esetén – működési engedéllyel rendelkező, szakképzett optometrista javaslata alapján vehetők igénybe.
 
 (3) Az 51/B. § (1) bekezdésének f)–g) pontjában meghatározott szolgáltatások az indokoltságot alátámasztó hatósági igazolás alapján vehetők igénybe.
 
@@ -1330,9 +1328,9 @@ nyújthat.
 - c) az állapotfelmérést végző szakorvos által az a) és b) pont vizsgálatai alapján javasolt további állapotfelmérő vizsgálatok eredménye;
 - d) az a)–c) pontban végzett vizsgálatok összefoglaló értékelése;
 - e) a d) pont alapján készült javaslat a további vizsgálatokra és ellenőrzésekre, esetleges gondozásba vételre;
-- f) a d) pont alapján készült életvezetési javaslat, amely kiterjed 1. a táplálkozási javaslatokra; 2. az esetlegesen javasolt sporttevékenységekre; 3. az esetlegesen javasolt gyógyászati szolgáltatásokra; 4. az esetlegesen javasolt, az 51/B. § (1) bekezdésének h) pontjában és az 51/C. § d) pontjában felsorolt kúraszerű ellátásokra.
+- f) a d) pont alapján készült életvezetési javaslat, amely kiterjed 1. a táplálkozási javaslatokra; 2. az esetlegesen javasolt sporttevékenységekre; 3. az esetlegesen javasolt gyógyászati szolgáltatásokra; 4. az esetlegesen javasolt, az 51/B. § (1) bekezdésének h) pontjában felsorolt kúraszerű ellátásokra.
 
-(4) A személyes egészségterv alapján indokolt, az egészség megőrzését és a megbetegedések megelőzését elősegítő – az orvosi javaslat alapján – igénybe vehető szolgáltatások közül az 51/B. § (1) bekezdésének d)–e) és n) pontjaiban felsorolt szolgáltatások prevenciós szolgáltatásnak minősülnek.
+(4) A személyes egészségterv alapján indokolt, az egészség megőrzését és a megbetegedések megelőzését elősegítő – az orvosi javaslat alapján – igénybe vehető szolgáltatások közül az 51/B. § (1) bekezdésének d) pontjában felsorolt szolgáltatások prevenciós szolgáltatásnak minősülnek.
 
 (5) Prevenciós szolgáltatásnak minősülnek az elkerülhető megbetegedések korai felismerésére irányuló, az 51/B. § (1) bekezdésének a) pontjában foglaltaknak megfelelő orvosi javaslatra igénybe vett szűrővizsgálatok, ideértve az OEP által nem finanszírozott, működési engedéllyel rendelkező szakorvos által végzett szűrést, így különösen
 
@@ -1345,7 +1343,7 @@ nyújthat.
 - g) mentális zavarok korai felismerését célzó szűrés;
 - h) fogászati szűrés.
 
-(6) Ha az a (2) bekezdés alapján készített személyes egészségterv alapján indokolt, prevenciós szolgáltatásnak minősülnek az 51/B. § (1) bekezdésének h) pontjában és az 51/C. § d) pontjában felsorolt szolgáltatások is.
+(6) Ha az a (2) bekezdés alapján készített személyes egészségterv alapján indokolt, prevenciós szolgáltatásnak minősülnek az 51/B. § (1) bekezdésének h) pontjában felsorolt szolgáltatások is.
 
 (7) A (2), (4) és (6) bekezdésben meghatározott szolgáltatások csak akkor minősülnek prevenciós szolgáltatásnak, ha a pénztártag a (3) bekezdés f) pontja szerinti javaslat megértését, a javaslatok elfogadását és a megvalósításban való együttműködő készségét aláírásával igazolja és – a (4) és (6) bekezdésben meghatározott szolgáltatások esetén – a (2) bekezdésben meghatározott személyes egészségterv a szolgáltatás igénybevételének időpontját megelőző két éven belül készült.
 
@@ -1647,7 +1645,7 @@ nyújthat.
 
 (5) Felhatalmazást kap a kormány, hogy a nemi hovatartozás szerint eltérő szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjét, tartalmát rendeletben szabályozza.
 
-79. §
+79. § Felhatalmazást kap a Felügyelet elnöke, hogy a pénztári tagsági jogviszony létesítésére irányuló belépési nyilatkozat megtétele előtt, tagsági jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 80. § (1)–(2)
 
@@ -1666,6 +1664,8 @@ nyújthat.
 (7) Az egészségpénztáraknak biztosítani kell, hogy a tagsági jogviszony 2003. december 31-ét követő megszűnése esetén a jogosult részére az egyéni számlán nyilvántartott – egyéb jogszabályban meghatározott mértéket meg nem haladó összeggel csökkenthető – teljes összeg kifizetésre, illetve átutalásra kerüljön.
 
 (8) A nyugdíjpénztár tagja által tett, 2003. december 31-én hatályos kedvezményezett-jelölés a 16/A. §-a (1) és (2) bekezdésében foglaltaktól függetlenül 2003. december 31-e után is érvényes, azonban azokra is alkalmazandók 16/A. § (3)–(10) bekezdéseinek előírásai.
+
+(9) Az e törvény 2011. december 31-én hatályos 51/B. § (1) bekezdés e), l), m) és n) pontjaiban és az 51/C. § b) és d) pontjaiban említett, 2012. január 1-je előtt igénybe vett szolgáltatások számlái az önkéntes egészségpénztárban 2012. június 30-ig az e törvény 2011. december 31-én hatályos rendelkezései szerint elszámolhatók. E szolgáltatások adókötelezettségére az Szja tv. és az Eho tv. 2011. december 31-én hatályos rendelkezéseit kell értelemszerűen alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 

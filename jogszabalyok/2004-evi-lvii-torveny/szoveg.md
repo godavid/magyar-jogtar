@@ -2,13 +2,13 @@
 
 az Európai Parlament magyarországi képviselőinek jogállásáról
 
-A Magyar Köztársaság csatlakozása az Európai Unióhoz megköveteli, hogy az Országgyűlés megalkossa az Európai Parlamentben a Magyar Köztársaság képviselői részére fenntartott parlamenti helyekre jelölt személyek, illetve megválasztott képviselők jogállását szabályozó törvényt. Ezért az Országgyűlés a Magyar Köztársaság Európai Parlamentbe megválasztott képviselői jogállásának szabályozására az alábbi törvényt alkotja.
+Magyarország csatlakozása az Európai Unióhoz megköveteli, hogy az Országgyűlés megalkossa az Európai Parlamentben Magyarország képviselői részére fenntartott parlamenti helyekre jelölt személyek, illetve megválasztott képviselők jogállását szabályozó törvényt. Ezért az Országgyűlés Magyarország Európai Parlamentbe megválasztott képviselői jogállásának szabályozására az alábbi törvényt alkotja.
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
 ### A törvény hatálya
 
-1. § (1) A törvény hatálya kiterjed az Európai Parlament tagjainak megválasztásáról szóló törvény alapján az Európai Parlamentben a Magyar Köztársaság részére fenntartott képviselői helyekre megválasztott, mandátumot szerzett képviselőkre (a továbbiakban: európai parlamenti képviselő).
+1. § (1) A törvény hatálya kiterjed az Európai Parlament tagjainak megválasztásáról szóló törvény alapján az Európai Parlamentben Magyarország részére fenntartott képviselői helyekre megválasztott, mandátumot szerzett képviselőkre (a továbbiakban: európai parlamenti képviselő).
 
 (2) A törvény hatálya az 5. §, valamint 11–12. § alkalmazása esetében kiterjed az európai parlamenti képviselők választásán jelölt személyekre (a továbbiakban: európai parlamenti képviselő-jelölt) is.
 
@@ -18,14 +18,14 @@ A Magyar Köztársaság csatlakozása az Európai Unióhoz megköveteli, hogy az
 
 ### Az Európai Parlamenti Képviselők Fóruma
 
-3. § Az Európai Parlamenti Képviselők Fóruma az európai parlamenti képviselők konzultatív testülete, amelynek tagja minden európai parlamenti képviselő. Feladata az Európai Parlament napirendjén szereplő, a Magyar Köztársaság számára különösen fontos, stratégiai jelentőségű kérdésekben történő véleménycsere biztosítása. A Fórum eredményes munkájához a Magyar Köztársaság Európai Unió melletti állandó képviselete tájékoztatást nyújt.
+3. § Az Európai Parlamenti Képviselők Fóruma az európai parlamenti képviselők konzultatív testülete, amelynek tagja minden európai parlamenti képviselő. Feladata az Európai Parlament napirendjén szereplő, Magyarország számára különösen fontos, stratégiai jelentőségű kérdésekben történő véleménycsere biztosítása. A Fórum eredményes munkájához Magyarország Európai Unió melletti állandó képviselete tájékoztatást nyújt.
 
 ### Az európai parlamenti képviselői megbízatás megszűnése
 
 4. § Az Európai Parlament tagjának megbízatása megszűnik:
 
 - a) halálával,
-- b) választójoga elvesztésével,
+- b) ha az európai parlamenti választáson már nem választható,
 - c) lemondással,
 - d) az összeférhetetlenség kimondásával,
 - e) az Európai Parlament közgyűlése megbízatásának megszűnésével.
@@ -46,7 +46,7 @@ A Magyar Köztársaság csatlakozása az Európai Unióhoz megköveteli, hogy az
 
 (4) Ha az európai parlamenti képviselő a megválasztása előtt ügyész, igazságügyi alkalmazott, közigazgatási szerv köztisztviselője, fegyveres szervek hivatásos állományú tagja volt, az európai parlamenti képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
 
-(5) Ha az európai parlamenti képviselő a megválasztása előtt bíró volt és képviselői megbízatásának megszűnésekor úgy nyilatkozott, hogy ismét bíróvá történő kinevezését kéri, valamint a bírói kinevezéséhez szükséges feltételeknek eleget tesz – ide nem értve a pályaalkalmassági vizsgálaton való részvételt – akkor őt kérelmére, pályázat kiírása nélkül, a köztársasági elnök – az Országos Igazságszolgáltatási Tanács javaslatára – határozatlan időre bíróvá kinevezi. A bírói munkakörbe történő beosztásánál az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra vonatkozó rendelkezésnek megfelelően kell eljárni.
+(5)
 
 (6) A 2004–2009. közötti európai parlamenti ciklusban az Európai Parlamenthez tartozó és a 2009-től kezdődő ciklusban újból megválasztott képviselő a tiszteletdíj, az átmeneti ellátás és a nyugdíjak tekintetében – az Európai Parlament 2005/684/EK, Euratom határozatban foglaltak szerint – dönthet úgy, hogy tevékenysége teljes időtartamára e törvény 7. §-a, 13. §-a, 14. §-a szerinti ellátásokra válik jogosulttá.
 
@@ -58,9 +58,9 @@ E döntést az e törvény hatálybalépését követő 30 napon belül írásbe
 
 (2) Amennyiben az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, megbízásának időtartama – ideértve a 14. §-ban meghatározott hat hónapra folyósított ellátás időtartamát is – munkaviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a közszolgálati, hivatásos szolgálati, közalkalmazotti, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani.
 
-(3) Öregségi nyugdíjra jogosult az az európai parlamenti képviselő – az egyéb feltételek fennállása esetén –, akinek e megbízatása az Európai Parlament működésének befejezésével szűnik meg, és a volt európai parlamenti képviselő az ezt követő ötödik naptári év végéig az öregségi nyugdíjra jogosító korhatárt betölti. E nyugdíjazással kapcsolatban az Országgyűlés hivatali szervezetét költségvetési befizetés nem terheli.
+(3)
 
-(4) Ha az európai parlamenti képviselő az Európai Parlament működésének befejezése után újra jelölteti magát, öregségi nyugdíj a (3) bekezdés szerint – legkorábban a mandátumok igazolását követő naptól – akkor illeti meg, ha európai parlamenti képviselőnek nem választják meg újra.
+(4)
 
 (5) Az Európai Parlament állandó bizottságának elnöki, alelnöki, az európai parlamenti képviselőcsoport háromnál több tagból álló nemzeti csoportjának (képviselőcsoport) vezetői, vezető-helyettesi tisztségek betöltése vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
 
@@ -76,16 +76,16 @@ A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti ké
 
 8. § (1) Az európai parlamenti képviselő nem lehet
 
-- a) az Európai Közösségek Bizottságának tagja,
-- b) az Európai Közösségek Bíróságának vagy az Elsőfokú Bíróság bírája, főtanácsnoka vagy hivatalvezetője,
-- c) az Európai Központi Bank igazgatótanácsának tagja,
-- d) az Európai Közösségek Számvevőszékének tagja,
-- e) az Európai Közösségek ombudsmanja,
-- f) az Európai Gazdasági Közösség és az Európai Atomenergia Közösség Gazdasági és Szociális Bizottságának tagja,
+- a) az Európai Bizottság tagja,
+- b) az Európai Unió Bíróságának bírája, főtanácsnoka vagy hivatalvezetője,
+- c) az Európai Központi Bank Igazgatóságának tagja,
+- d) a Számvevőszék tagja,
+- e) az Európai Unió ombudsmanja,
+- f) a Gazdasági és Szociális Bizottság tagja,
 - g) a Régiók Bizottságának tagja,
-- h) az Európai Gazdasági Közösséget és az Európai Atomenergia Közösséget létrehozó szerződések alapján a Közösség pénzügyi alapjainak kezelésére vagy állandó jellegű közvetlen igazgatási feladatok ellátására létrehozott bizottság vagy egyéb testület tagja,
+- h) az Európai Unió működéséről szóló szerződés és az Európai Atomenergia-közösséget létrehozó szerződés alapján az Európai Unió pénzügyi alapjainak kezelésére vagy állandó jellegű közvetlen igazgatási feladatok ellátására létrehozott bizottság vagy egyéb testület tagja,
 - i) az Európai Beruházási Bank Igazgatótanácsának, Igazgatási Bizottságának tagja, illetve az Európai Beruházási Bank személyzetének tagja,
-- j) az Európai Közösségek intézményeinek vagy a hozzájuk kapcsolódó szakosított szerveknek vagy az Európai Központi Banknak az aktív tisztviselője vagy alkalmazottja.
+- j) az Európai Unió intézményeinek vagy a hozzájuk kapcsolódó szakosított szerveknek az aktív tisztviselője vagy alkalmazottja.
 
 (2) Az európai parlamenti képviselő nem lehet továbbá
 
@@ -94,13 +94,14 @@ A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti ké
 - c) országgyűlési képviselő,
 - d) a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár,
 - e) az Alkotmánybíróság tagja,
-- f) az országgyűlési biztos,
+- f) az alapvető jogok biztosa, az alapvető jogok biztosának helyettese,
 - g) az Állami Számvevőszék elnöke, alelnöke és számvevője,
 - h) a Magyar Nemzeti Bank elnöke, alelnöke, a Monetáris Tanács tagja,
 - i) bíró,
 - j) ügyész,
 - k) igazságügyi alkalmazott, közigazgatási szerv köztisztviselője, munkavállalója,
-- l) a Magyar Honvédség hivatásos és szerződéses állományú tagja, a rendőrség és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja.
+- l) a Magyar Honvédség hivatásos és szerződéses állományú tagja, a rendőrség és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja,
+- m) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese.
 
 (3) Szakmai vagy üzleti ügyben az európai parlamenti képviselői minőségre hivatkozni nem lehet.
 
@@ -146,7 +147,7 @@ A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti ké
 
 ### Az európai parlamenti képviselők tiszteletdíja
 
-13. § (1) Az európai parlamenti képviselő megválasztásának időpontjától megbízatásának megszűnéséig havonta tiszteletdíjra jogosult, amelyet számára az Országgyűlés Hivatala folyósít. A tiszteletdíj alapdíjból és pótdíjból áll. A képviselőt megillető tiszteletdíj kifizetése az általa meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
+13. § (1) A 6. § (6) bekezdése szerinti nyilatkozatot tett európai parlamenti képviselő megválasztásának időpontjától megbízatásának megszűnéséig havonta tiszteletdíjra jogosult, amelyet számára az Országgyűlés Hivatala folyósít. A tiszteletdíj alapdíjból és pótdíjból áll. A képviselőt megillető tiszteletdíj kifizetése az általa meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
 
 (2) Az alapdíj a mindenkori főtisztviselői alapilletmény 2,5-szerese.
 
@@ -203,11 +204,7 @@ A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti ké
 
 25–29. §
 
-30. § A polgári védelemről szóló 1996. évi XXXVII. törvény 21. §-a a következő új b) ponttal egészül ki, a pontok jelölése értelemszerűen változik:
-
-[A polgári védelmi kötelezettségét munkaköre ellátásával, közmegbízatása gyakorlásával teljesíti:]
-
-„b) az európai parlamenti képviselő”
+30. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

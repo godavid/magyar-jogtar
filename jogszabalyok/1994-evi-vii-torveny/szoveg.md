@@ -2,7 +2,7 @@
 
 egyes iparjogvédelmi és szerzői jogi jogszabályok módosításáról
 
-A Magyar Köztársaság nemzetközi kötelezettségvállalásainak teljesítése, a szellemi tulajdon különböző formáira vonatkozó szabályozás korszerűsítése érdekében az Országgyűlés a következő törvényt alkotja:
+Magyarország nemzetközi kötelezettségvállalásainak teljesítése, a szellemi tulajdon különböző formáira vonatkozó szabályozás korszerűsítése érdekében az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet
 

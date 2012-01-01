@@ -2,7 +2,7 @@
 
 az Európai Unióról szóló szerződés és az Európai Közösséget létrehozó szerződés módosításáról szóló lisszaboni szerződés kihirdetéséről
 
-Az Országgyűlés, megemlékezve arról, hogy Magyarország 2004. május 1-jén csatlakozott az Európai Unióhoz; egyúttal felidézve Európa népeinek elhatározását, hogy egymással mind szorosabb egységre lépve egy közös jövő megteremtésére törekednek; valamint kinyilvánítva akaratát, hogy a Köztársaság polgárai egy átláthatóbb, hatékonyabb és demokratikusabb Európai Unióban élhessenek; arra való tekintettel, hogy 2007. december 13-án Lisszabonban aláírták az Európai Unióról szóló szerződés és az Európai Közösséget létrehozó szerződés módosításáról szóló lisszaboni szerződést; egyúttal az Alkotmány 2/A. § (2) bekezdésére is figyelemmel a következő törvényt alkotja:
+Az Országgyűlés, megemlékezve arról, hogy Magyarország 2004. május 1-jén csatlakozott az Európai Unióhoz; egyúttal felidézve Európa népeinek elhatározását, hogy egymással mind szorosabb egységre lépve egy közös jövő megteremtésére törekednek; valamint kinyilvánítva akaratát, hogy a Köztársaság polgárai egy átláthatóbb, hatékonyabb és demokratikusabb Európai Unióban élhessenek; arra való tekintettel, hogy 2007. december 13-án Lisszabonban aláírták az Európai Unióról szóló szerződés és az Európai Közösséget létrehozó szerződés módosításáról szóló lisszaboni szerződést; a következő törvényt alkotja:
 
 1. § Az Országgyűlés e törvénnyel felhatalmazást ad a 2007. december 13-án aláírt, az Európai Unióról szóló szerződés és az Európai Közösséget létrehozó szerződés módosításáról szóló lisszaboni szerződés (a továbbiakban: Lisszaboni Szerződés) kötelező hatályának elismerésére.
 

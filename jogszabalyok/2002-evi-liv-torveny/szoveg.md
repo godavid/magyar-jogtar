@@ -28,7 +28,7 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 4. § (1) Az Európai Unió tagállamának bűnüldöző szervével történő információcsere iránti megkeresés kivételével az együttműködés iránti megkeresés nem teljesíthető és nem terjeszthető elő, ha
 
 - a) az a magyar jog szabályaival ellentétes,
-- b) veszélyezteti a Magyar Köztársaság biztonságát, sérti közrendjét, vagy
+- b) veszélyezteti Magyarország biztonságát, sérti közrendjét, vagy
 - c) politikai vagy katonai bűncselekményre vonatkozik.
 
 (2) Ha e törvény másként nem rendelkezik, az együttműködés iránti megkeresés a szabadságvesztéssel büntetendő bűncselekmények megelőzése és felderítése érdekében terjeszthető elő, vagy teljesíthető.
@@ -89,9 +89,7 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 - a) az e törvényben meghatározott együttműködési formák során történő felhasználás végett;
 - b) más, az e törvényben meghatározott együttműködési formákhoz közvetlenül kapcsolódó büntető-, illetve szabálysértési eljárásban való felhasználás végett.
 
-(3) Az e törvény keretei között megszerzett személyes vagy különleges adat továbbítása harmadik személy vagy szerv részére csak az átadó szerv előzetes hozzájárulásával lehetséges.
-
-(4) A személyes, illetve különleges adat kezelésénél az átadó szerv által meghatározott feltételek figyelembevételével kell eljárni.
+(3)–(4)
 
 11/A. § (1) A magyar bűnüldöző szerv a bűncselekmények megelőzésének és felderítésének elősegítése érdekében az Európai Unió tagállamának bűnüldöző szervével történő információcsere során minden olyan személyes adatot továbbíthat az Európai Unió tagállamának bűnüldöző szerve részére, amelyet bűnüldözési feladatai ellátásához kezel, vagy amelyet e célból átvehet.
 
@@ -427,7 +425,7 @@ határidőt határozhat meg.
 - b) ha nem áll fenn az érintett tagállamban válsághelyzet, valamint
 - c) ha az intervenciós egységben való közreműködésre kijelölt szerv a kérést technikai, vagy személyi feltételek hiányában nem tudja teljesíteni és más segítséget sem tud felajánlani, és erről az érintett tagállamot a NEBEK-en keresztül haladéktalanul tájékoztatja.
 
-(5) A segítségnyújtás különösen az érintett tagállam megkeresésére felszerelés, valamint szakértők biztosításából vagy az érintett tagállam által – a Magyar Köztársaság területén a magyar intervenciós egység felügyelete és irányítása mellett – a 8. § a)–k) pontjában meghatározott műveletek végrehajtásából áll.
+(5) A segítségnyújtás különösen az érintett tagállam megkeresésére felszerelés, valamint szakértők biztosításából vagy az érintett tagállam által – Magyarország területén a magyar intervenciós egység felügyelete és irányítása mellett – a 8. § a)–k) pontjában meghatározott műveletek végrehajtásából áll.
 
 (6) A megkeresésben foglaltak elfogadása vagy más jellegű segítség felajánlása esetén a segítségnyújtás végrehajtásáról az érintett tagállammal az országos rendőrfőkapitány, valamint a terrorizmust elhárító szerv főigazgatója megállapodást köt, amely tartalmazza:
 
@@ -443,7 +441,7 @@ határidőt határozhat meg.
 
 42/C. § (1) A rendőrség a válsághelyzet megoldása érdekében a NEBEK-en keresztül kérheti az Európai Unió más tagállama intervenciós egységének – a segítség természetének, valamint az ebből következő műveleti szükségleteknek a meghatározásával – segítségét.
 
-(2) A megkeresett tagállam különleges intervenciós egységének a tagja (a továbbiakban: beavatkozó személy) eljárása során a Magyar Köztársaság területén okozott kárért a magyar jog szerint felel. Ha a kárt a beavatkozó személy súlyos gondatlanságból vagy szándékos kötelességszegéssel okozta, akkor a rendészetért felelős miniszter az érintett tagállamtól kérheti azon összeg megtérítését, amelyet a beavatkozó személy eljárása miatt a sértettnek vagy a nevében eljárni jogosult személynek kifizettek.
+(2) A megkeresett tagállam különleges intervenciós egységének a tagja (a továbbiakban: beavatkozó személy) eljárása során Magyarország területén okozott kárért a magyar jog szerint felel. Ha a kárt a beavatkozó személy súlyos gondatlanságból vagy szándékos kötelességszegéssel okozta, akkor a rendészetért felelős miniszter az érintett tagállamtól kérheti azon összeg megtérítését, amelyet a beavatkozó személy eljárása miatt a sértettnek vagy a nevében eljárni jogosult személynek kifizettek.
 
 42/D. § A 42/A. § (5) bekezdés szerinti megállapodás eltérő rendelkezése hiányában az érintett tagállam viseli a magyar intervenciós egység alkalmazásával kapcsolatos valamennyi költséget, beleértve a szállítási és szállásköltségeket.
 
@@ -683,13 +681,11 @@ A törvény 29. § (1) bekezdésének b) pontjában meghatározott bűncselekmé
 - 18. áru hamis megjelölése (Btk. 296. §);
 - 19. pénzmosás (Btk. 303–303/A. §);
 - 20. pénzhamisítás (Btk. 304–304/A. §);
-- 21. adócsalás [Btk. 310. § (2)–(5) bekezdés];
-- 22. visszaélés jövedékkel [Btk. 311. § (2)–(4) bekezdés];
-- 23. jövedéki orgazdaság [Btk. 311/A. § (2)–(4) bekezdés];
-- 24. csempészet súlyosabban minősülő esetei [Btk. 312. § (2)–(4) bekezdés];
+- 21. költségvetési csalás [Btk. 310. § (2)–(7) bekezdés], amelyen érteni kell a 2011. december 31-ig hatályban volt adócsalást, visszaélés jövedékkel bűncselekményt, valamint a csempészet súlyosabban minősülő eseteit is;
+- 22–24.
 - 25. lopás, ha annak tárgya gépjármű (Btk. 316. §), illetve a dolog elleni erőszakkal elkövetett lopás [Btk. 316. § (5) bekezdés b) pontja, a (6) bekezdés b) pontja, valamint a (7) bekezdés b) pontja] szerint minősülő esetei;
 - 26. rablás (Btk. 321. §);
 - 27. zsarolás (Btk. 323. §);
-- 28. az orgazdaság súlyosabban minősülő esetei [Btk. 326. § (3)–(5) bekezdés];
+- 28. az orgazdaság súlyosabban minősülő esetei [Btk. 326. § (3)–(5) bekezdés], amelyen érteni kell a 2011. december 31-ig hatályban volt jövedéki orgazdaságot is;
 - 29. szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 329/A. § (2)–(3) bekezdés];
 - 30. iparjogvédelmi jogok megsértése [Btk. 329/D. § (2)–(3) bekezdés].

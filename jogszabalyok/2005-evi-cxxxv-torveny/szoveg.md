@@ -8,14 +8,14 @@ Annak érdekében, hogy a bűncselekményt elszenvedett és emiatt életminősé
 
 ### A törvény hatálya
 
-1. § (1) E törvény alkalmazásában áldozat a Magyar Köztársaság területén elkövetett bűncselekmény sértettje, valamint az a természetes személy, aki a bűncselekmény közvetlen következményeként sérelmet, így különösen testi vagy lelki sérülést, érzelmi megrázkódtatást, illetve vagyoni kárt szenvedett el, ha
+1. § (1) E törvény alkalmazásában áldozat Magyarország területén elkövetett bűncselekmény sértettje, valamint az a természetes személy, aki a bűncselekmény közvetlen következményeként sérelmet, így különösen testi vagy lelki sérülést, érzelmi megrázkódtatást, illetve vagyoni kárt szenvedett el, ha
 
 - a) magyar állampolgár,
 - b) az Európai Unió bármely tagállamának állampolgára,
 - c) az Európai Unión kívüli államnak az Európai Unióban jogszerűen tartózkodó állampolgára,
-- d) a Magyar Köztársaság területén jogszerűen tartózkodó hontalan személy,
+- d) Magyarország területén jogszerűen tartózkodó hontalan személy,
 - e) emberkereskedelem áldozata,
-- f) az állampolgársága szerinti államnak a Magyar Köztársasággal kötött nemzetközi megállapodása vagy viszonosság alapján erre jogosult.
+- f) az állampolgársága szerinti államnak Magyarországgal kötött nemzetközi megállapodása vagy viszonosság alapján erre jogosult.
 
 (2) A viszonosság fennállása tekintetében az igazságügyért felelős miniszter nyilatkozata az irányadó.
 
@@ -434,7 +434,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 ### Együttműködés és kapcsolattartás
 
-43. § (1) Az áldozatsegítő szolgálat feladatai ellátása során együttműködik és kapcsolatot tart a rendőrség áldozatvédelmi hálózatával, a nyomozó hatósággal, az ügyészséggel, a bírósággal, a bevándorlási és állampolgársági hivatallal, a konzuli szolgálattal, a helyi és kisebbségi önkormányzatokkal, az egészségügyi intézményekkel, az ifjúságvédelmi szervezetekkel, a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi intézményekkel, a családsegítő szolgálatokkal, az alap- és szakellátást nyújtó szociális szolgáltatókkal és intézményekkel, a közoktatási intézményekkel, a polgárőrséggel, a civil szervezetekkel és az egyházakkal.
+43. § (1) Az áldozatsegítő szolgálat feladatai ellátása során együttműködik és kapcsolatot tart a rendőrség áldozatvédelmi hálózatával, a nyomozó hatósággal, az ügyészséggel, a bírósággal, a bevándorlási és állampolgársági hivatallal, a konzuli szolgálattal, a helyi és nemzetiségi önkormányzatokkal, az egészségügyi intézményekkel, az ifjúságvédelmi szervezetekkel, a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi intézményekkel, a családsegítő szolgálatokkal, az alap- és szakellátást nyújtó szociális szolgáltatókkal és intézményekkel, a közoktatási intézményekkel, a polgárőrséggel, a civil szervezetekkel és az egyházakkal.
 
 (2) Az áldozatsegítő szolgálat abban az esetben, ha munkája során kiskorú veszélyeztetettségéről szerez tudomást, haladéktalanul jelzi azt a kiskorú tényleges tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak. Ha a feltárt körülmény a kiskorú életét, testi épségét súlyosan veszélyezteti, a jelzéssel egyidejűleg gyámhatósági eljárást kezdeményez.
 

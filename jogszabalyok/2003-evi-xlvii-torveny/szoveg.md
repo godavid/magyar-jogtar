@@ -2,7 +2,7 @@
 
 a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról
 
-Az Országgyűlés a pártok Alkotmányban biztosított, a népakarat kialakításában és kinyilvánításában történő közreműködésének elősegítése, az állampolgári tájékoztatás szélesítése, a politikai kultúra fejlesztése érdekében történő politikai képzés, kutatás, tudományos és ismeretterjesztő tevékenység támogatására a következő törvényt alkotja:
+Az Országgyűlés a pártok Alaptörvényben biztosított, a népakarat kialakításában és kinyilvánításában történő közreműködésének elősegítése, az állampolgári tájékoztatás szélesítése, a politikai kultúra fejlesztése érdekében történő politikai képzés, kutatás, tudományos és ismeretterjesztő tevékenység támogatására a következő törvényt alkotja:
 
 1. § A pártok a politikai kultúra fejlesztése érdekében tudományos, ismeretterjesztő, kutatási és oktatási tevékenységük elősegítésére a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvényben meghatározott költségvetési támogatásra jogosult alapítványt (a továbbiakban: alapítvány) hozhatnak létre.
 
@@ -67,4 +67,4 @@ Az Országgyűlés a pártok Alkotmányban biztosított, a népakarat kialakít�
 
 (5)
 
-(6) A Ptk. hatálybalépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet 91/A. §-ának (2) bekezdését az e törvény szerinti alapítványok nyilvántartásba vételénél azzal az eltéréssel kell alkalmazni, hogy a nyilvántartásba vételről vagy a kérelem elutasításáról szóló döntés meghozatalára nyitva álló határidőbe a hiánypótlásra felhívó végzés postára adásától (átadásától) a hiányok pótlásáig, illetőleg a hiánypótlás elmaradása esetén a hiánypótlásra biztosított határidő lejártáig eltelt időt is be kell számítani. A hiányok pótlására legalább tizenöt napot kell biztosítani.
+(6) A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény rendelkezéseit az e törvény szerinti alapítványok nyilvántartásba vételénél azzal az eltéréssel kell alkalmazni, hogy a nyilvántartásba vételről vagy a kérelem elutasításáról szóló döntés meghozatalára nyitva álló határidőbe a hiánypótlásra felhívó végzés postára adásától (átadásától) a hiányok pótlásáig, illetőleg a hiánypótlás elmaradása esetén a hiánypótlásra biztosított határidő lejártáig eltelt időt is be kell számítani. A hiányok pótlására legalább tizenöt napot kell biztosítani.

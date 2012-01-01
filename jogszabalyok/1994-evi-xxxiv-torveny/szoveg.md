@@ -170,7 +170,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányának és nemzetközi jogi 
 
 - a) a vonatkozó jogszabályok alapján ellátja a hivatásos állományba jelentkezőnél, valamint a hivatásos állomány tagjánál a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 - b) elvégzi
-  - ba) a rendőrség, a büntetés-végrehajtási szervezet, az állami és hivatásos önkormányzati tűzoltóság, a polgári védelem, a katasztrófavédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai,
+  - ba) a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai,
   - bb) a ba) pontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró, Kormány által kijelölt szerv a Szervezett Bűnözés Elleni Koordinációs Központ kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai, valamint
   - bc) a ba) és bb) pontban meghatározott szervek irányítását ellátó minisztériumok a ba) és bb) pontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá a ba) és bb) pontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai (a továbbiakban: védett állomány) megbízhatósági vizsgálatát,
 - c) felderíti a b) pontban megjelölt szerveknél a jogszabályban meghatározott bűncselekményeket.
@@ -186,6 +186,8 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányának és nemzetközi jogi 
 7/A. § (1) A megbízhatósági vizsgálat célja annak megállapítása, hogy az azzal érintett eleget tesz-e a jogszabályban előírt hivatali kötelezettségének. Ennek megállapítása érdekében a megbízhatósági vizsgálatot végző szerv a munkakör ellátása során a valóságban is előforduló vagy feltételezhető élethelyzeteket hoz mesterségesen létre. A megbízhatósági vizsgálat során feltárt jogsértés alapján fegyelmi vagy szabálysértési eljárás nem indítható.
 
 (2) A megbízhatósági vizsgálatot a szükségességének indokolásával a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője határozattal rendeli el. A megbízhatósági vizsgálat elrendeléséről és befejezéséről – az arra vonatkozó határozat, valamint elrendelés esetén a részletes terv megküldésével – az ügyészt haladéktalanul tájékoztatni kell. A határozat és a megbízhatósági vizsgálat végrehajtásáról szóló részletes terv alapján az ügyész a megbízhatósági vizsgálat elrendelését 2 munkanapon belül jóváhagyja, vagy a jóváhagyást megtagadja.
+
+(2a) A megbízhatósági vizsgálat befejezéséről szóló határozat kézhezvételétől számított 8 munkanapon belül az ügyész megvizsgálja annak törvényességét, majd visszaküldi az elrendelő szervnek. Jogszabálysértés megállapítása esetén írásba foglalt indokolt határozatával új határozat hozatalára utasítja a megbízhatósági vizsgálatot folytató szervet, ha pedig azt állapítja meg, hogy a megbízhatósági vizsgálat végrehajtására a részletes tervtől eltérően került sor, felelősségre vonást is kezdeményez.
 
 (3) A védett állomány megbízhatósági vizsgálattal érintett tagját a megbízhatósági vizsgálat megindításáról nem, befejezéséről három munkanapon belül kell tájékoztatni.
 
@@ -204,7 +206,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányának és nemzetközi jogi 
 
 (3) A megbízhatósági vizsgálat befejezéséről szóló határozatot annak meghozatalát követő 2 év elteltével kell selejtezni. A megbízhatósági vizsgálat befejezéséről szóló határozat tartalmazza a vizsgálat minden lényeges adatát, így különösen az ügyész törvényességi felügyelet gyakorlásához, valamint az eljárás alá vont érdekeinek védelme szempontjából jelentőséggel bíró adatot.
 
-(4) Az ügyész a megbízhatósági vizsgálat egész folyamata fölött a rá vonatkozó szabályok szerint felügyeletet gyakorol.
+(4) Az ügyész az e törvényben foglalt jogosítványok mellett a megbízhatósági vizsgálat törvényességének ellenőrzése során az ügyészségről szóló törvényben szabályozott jogokat gyakorolja.
 
 (5) A megbízhatósági vizsgálatra vonatozó részletes eljárási szabályokat a Kormány rendeletben szabályozza.
 
@@ -938,7 +940,7 @@ törölni kell.
 
 (3) Az e törvényben meghatározott feladatok ellátása érdekében a rendőrség – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet a (2) bekezdés hatálya alá tartozó szervezeteknél.
 
-(4) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, az Országgyűlési Biztosok Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
+(4) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Országgyűlési Biztosok Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
 
 (5) A foglalkoztatás rendőri jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a rendőrség és az érintett szervezet külön megállapodása tartalmazza.
 
@@ -1000,7 +1002,7 @@ törölni kell.
 
 (3) Ha a fedőintézmény megszűnik, vagyona a rendőrséget illeti.
 
-(4) Az államháztartásról szóló 1992. évi XXXVIII. törvény rendelkezései a fedőintézményre nem vonatkoznak.
+(4) Az államháztartásról szóló 2011. évi CXCV. törvény rendelkezései a fedőintézményre nem vonatkoznak.
 
 68/C. § A rendőrség a 68/A. § (2) bekezdésében meghatározott körben külön korlátozás nélkül valutát kezelhet.
 
@@ -1124,13 +1126,15 @@ kezeli.
 
 (2) A rendőrségi adatkezelő szerv, illetőleg a megbízási szerződés keretei között az adatfeldolgozó szerv [91/A. § (2) bekezdés] vezetője köteles gondoskodni arról, hogy a személyes adatok védelmének biztosítása érdekében
 
-- a) az érintett a rendőri szerv által kezelt, illetőleg továbbított adatairól – ha törvény kivételt nem tesz – kérelmére tájékoztatást kapjon, illetőleg gyakorolhassa a helyesbítéshez vagy a törléshez való jogát,
+- a) az érintett – az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott módon –
+  - aa) a rendőri szerv által kezelt, illetve továbbított személyes adatairól kérelmére tájékoztatást kapjon, valamint
+  - ab) gyakorolhassa a helyesbítéshez, illetve a kötelező adatkezelés kivételével a törléshez és a zároláshoz való jogát,
 - b) a helytelen adatok kijavításra kerüljenek,
-- c) a tárolt adatokat töröljék, ha azok kezelése jogellenes, az adatok tárolásának törvényben meghatározott határideje lejárt, illetve a törlést a bíróság vagy az adatvédelmi biztos elrendelte.
+- c) a tárolt adatokat töröljék, ha azok kezelése jogellenes, az adatok tárolásának törvényben meghatározott határideje lejárt, illetve a törlést a bíróság vagy a Nemzeti Adatvédelmi és Információszabadság Hatóság elrendelte.
 
-(3) A hozzáférési, helyesbítési és törlési jog gyakorlása csak akkor korlátozható, ha azt e törvény vagy az eljárásra irányadó törvény lehetővé teszi.
+(3)
 
-(4) A (2) bekezdés a) pontjában meghatározott jogok gyakorlásának megtagadását vagy korlátozását írásban indokolni kell. Az indokolás csak akkor mellőzhető, ha azt e törvény lehetővé teszi. Az érintett a korlátozás vagy az indokolás mellőzésének indokolatlanságára tekintettel a döntés felülvizsgálatát kérheti az adatvédelmi biztostól, illetőleg a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény alapján a bírósághoz fordulhat. Erről az érintettet tájékoztatni kell.
+(4) A (2) bekezdés a) pontjában meghatározott jogok gyakorlásának megtagadását vagy korlátozását írásban indokolni kell. Az indokolás csak akkor mellőzhető, ha azt e törvény lehetővé teszi. Az érintett a korlátozás vagy az indokolás mellőzésének indokolatlanságára tekintettel a Nemzeti Adatvédelmi és Információszabadság Hatósághoz vagy a bírósághoz fordulhat. Erről az érintettet tájékoztatni kell.
 
 ### A rendőrségi feladatok ellátásához szükségesadatok köre
 
@@ -1188,15 +1192,29 @@ kezeli.
 
 (2) A rendőrség a Központi Statisztikai Hivatal részére az (1) bekezdésben meghatározott adatokat statisztikai célra személyazonosításra alkalmatlan módon átadhatja.
 
-(3) A rendőrségnek a bűnügyi és egyéb rendőrségi kriminalisztikai tudományos kutatás végzésére felhatalmazott szerve a rendőrségi adatokat – kivéve a titkos információgyűjtésben érintett személyek, a fedett nyomozók, a védett tanúk és egyéb közreműködők adatait – tudományos kutatási célra a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek a tudományos kutatás céljára felvett vagy tárolt adatok kezelésére vonatkozó rendelkezéseinek figyelembevételével felhasználhatja. A személyazonosításra alkalmas adatokat a kriminalisztikai kutatás befejezésekor törölni kell.
+(3) A rendőrségnek a bűnügyi és egyéb rendőrségi kriminalisztikai tudományos kutatás végzésére felhatalmazott szerve a rendőrségi adatokat – kivéve a titkos információgyűjtésben érintett személyek, a fedett nyomozók, a védett tanúk és egyéb közreműködők adatait – tudományos kutatási célra a személyes adatok tudományos kutatás céljára való kezelésére vonatkozó törvényi előírások figyelembevételével felhasználhatja. A személyazonosításra alkalmas adatokat a kriminalisztikai kutatás befejezésekor törölni kell.
 
-86. § (1) rendőrségi adat a schengeni vívmányokat alkalmazó államok, valamint az Európai Unió által létrehozott nemzetközi bűnüldöző szervezetek részére az Európai Unió jogi aktusának végrehajtását szolgáló törvény, illetőleg két- vagy többoldalú nemzetközi szerződés alapján az e törvényben meghatározott célból adható át.
+86. § (1) Rendőrségi adat az Európai Unió tagállamai, valamint az Európai Unió által létrehozott nemzetközi bűnüldöző szervezetek részére az Európai Unió jogi aktusának végrehajtását szolgáló törvény, illetve két- vagy többoldalú nemzetközi szerződés alapján az e törvényben meghatározott célból adható át.
 
-(2) Az (1) bekezdés szerinti adattovábbítást megelőzően az adatátadónak meg kell tennie a szükséges intézkedéseket annak érdekében, hogy időszerűtlen vagy pontatlan adatok ne kerülhessenek továbbításra.
+(2) Amennyiben lehetséges, az adattovábbítás esetén csatolni kell azon információkat, amelyek lehetővé teszik az átvevő számára, hogy megítélje az adatok pontosságát, teljességét, naprakészségét és megbízhatóságát.
 
-87. § rendőrségi adat harmadik ország, valamint a 86. § (1) bekezdése szerinti nemzetközi szervezeteken kívüli nemzetközi szervezet részére nemzetközi szerződés vagy nemzetközi megállapodás alapján az e törvényben meghatározott célból és csak akkor továbbítható, ha a harmadik ország, illetőleg nemzetközi szervezet a személyes adatok megfelelő védelmét biztosítja.
+(3) Az adattovábbítás során utalni kell a rendőrségi adat
 
-88. § (1) A rendőrségi adatkezelőnek az adatátadásokról adattovábbítási nyilvántartást kell vezetnie. Az adattovábbítási nyilvántartás célja az érintett tájékozódási jogának, illetve az adatátadások jogszerűsége ellenőrzésének biztosítása.
+- a) vonatkozásában fennálló, a tájékoztatáshoz, a helyesbítéshez, a törléshez és a zároláshoz való jog korlátozására, valamint
+- b) kezelésének a rendőrségi adatkezelő szerv által meghatározott lehetséges időtartamára.
+
+87. § (1) A (2) bekezdésben meghatározott körbe nem tartozó rendőrségi adat harmadik ország, valamint a 86. § (1) bekezdése szerinti nemzetközi szervezeteken kívüli nemzetközi szervezet részére nemzetközi szerződés alapján az e törvényben meghatározott célból az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott feltételek fennállása esetén is csak akkor továbbítható, ha a harmadik ország átvevő hatósága vagy az átvevő nemzetközi szerv feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása.
+
+(2) Az Európai Unió tagállamának illetékes hatósága, az Európai Unió által létrehozott nemzetközi bűnüldöző szervezet, illetve harmadik ország illetékes hatóságai, valamint a 86. § (1) bekezdése szerinti nemzetközi szervezeteken kívüli más nemzetközi szervezet által továbbított vagy hozzáférhetővé tett rendőrségi adat harmadik ország, valamint a 86. § (1) bekezdése szerinti nemzetközi szervezeteken kívüli nemzetközi szervezet részére az (1) bekezdésben meghatározott feltételek megléte esetén akkor továbbítható, ha az adatot átadó hatóság, szervezet – nemzeti jogának, illetve nemzetközi szerződésben foglaltaknak megfelelően – hozzájárult az adat átadásához.
+
+87/A. § (1) A 86. § (1) bekezdésében és a 87. § (1) bekezdésében meghatározott országtól, illetve szervezettől átvett vagy az általa hozzáférhetővé tett rendőrségi adat az e törvényben foglalt feltételek fennállása esetén jogi személynek, jogi személyiséggel nem rendelkező szervezetnek vagy magánszemélynek akkor továbbítható, ha
+
+- a) az adatot átadó hatóság, szervezet – nemzeti jogának, illetve nemzetközi szerződésnek megfelelően – hozzájárult az adat átadásához és
+- b) az adattovábbítás nem ütközik az érintett jogos érdekével.
+
+(2) Az adatok továbbításakor meg kell jelölni az adatok felhasználásának lehetséges célját.
+
+88. § (1) A rendőrségi adatkezelő az adatátadásokról az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint adattovábbítási nyilvántartást vezet.
 
 (2) Az adattovábbítási nyilvántartás tartalmazza:
 
@@ -1208,7 +1226,7 @@ kezeli.
 (3) Az adattovábbítási nyilvántartásból adat továbbítható:
 
 - a) az érintettnek saját adata tekintetében, kivéve, ha a törvény a tájékoztatást kizárta vagy korlátozta,
-- b) az adatvédelmi biztosnak,
+- b) a Nemzeti Adatvédelmi és Információszabadság Hatóságnak,
 - c) az adatvédelmi ellenőrzésre feljogosított szerv képviselőjének,
 - d) az adatkezelő szerv vezetőjének,
 - e) az adatátvevő szerv vezetőjének a szerv részéről adatátvételt végzők tevékenységének ellenőrzése céljából,
@@ -1250,7 +1268,7 @@ kezeli.
 
 (2) Az (1) bekezdés szerinti adatállományok tekintetében adatfeldolgozóként csak államigazgatási szervvel köthető megbízási szerződés.
 
-91/B. § A rendőrségi adatkezelő szerv vezetője a 91/A. § (1) bekezdés e)–h) pontjaiban meghatározott adatok tekintetében – ha bűnüldözési célból elengedhetetlen, továbbá ha az érintett vagy mások jogainak védelme érdekében szükséges – az érintett személy tájékozódási, helyesbítési és törlési jogának gyakorlását – írásban, indokolással ellátva – megtagadhatja vagy korlátozhatja. Az indokolás mellőzhető, ha az a Rendőrség bűnüldözési feladatának ellátását akadályozza, vagy mások jogainak sérelmével jár. Az indokolás mellőzése esetén a megtagadás okaként e rendelkezésre kell hivatkozni. Az adat-hozzáférési, helyesbítési és törlési jog korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogainak gyakorlását.
+91/B. § A rendőrségi adatkezelő szerv vezetője a 91/A. § (1) bekezdés e)–h) pontjában meghatározott adatok tekintetében – ha bűnüldözési célból elengedhetetlen, továbbá ha az érintett vagy mások jogainak védelme érdekében szükséges – az érintett személy tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jogának gyakorlását – írásban, a bírósági jogorvoslat, továbbá a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulás lehetőségére vonatkozó tájékoztatást is tartalmazó indokolással ellátva – megtagadhatja vagy korlátozhatja. Az indokolás mellőzhető, ha az a rendőrség bűnüldözési feladatának ellátását akadályozza, vagy mások jogainak sérelmével jár. Az indokolás mellőzése esetén a megtagadás okaként az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 19. §-ában foglalt rendelkezés mellett e §-ra kell hivatkozni. A tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jog korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogainak gyakorlását.
 
 91/C. § (1) A rendőrség bűnüldözési célból jogosult átvenni és az egyedi ügyhöz kapcsolódóan kezelni a 84. § (2) bekezdés h) pontja szerinti nyilvántartásban szereplő adatokat, valamint a hatáskörébe tartozó üggyel összefüggésben a 84. § (2) bekezdésében foglaltakon túlmenően egyéb, általa jogszerűen kezelhető adatot igényelhet bármely adatkezelő szervtől. A rendőrség az adatszolgáltatás teljesítésére határidőt jelölhet meg. A megkeresett adatkezelő szerv – ha törvény eltérően nem rendelkezik – köteles a rendőrség jogszerű adatszolgáltatás iránti igényét teljesíteni.
 
@@ -1273,7 +1291,7 @@ kezeli.
 
 (6) Ha a rendőrség más adatállományból bűnüldözési célból adatot vesz át, erről az érintett tájékoztatására – a (2) bekezdés szerinti jelzéselhelyezés kivételével – a 91/B. § rendelkezései az irányadóak. A jelzés elhelyezéséről, annak okáról és a jelzés alapján tett intézkedésről – a rendőrség bűnüldözési feladata teljesítésének biztosítása érdekében – a rendőrség és a jelzést tartalmazó nyilvántartást kezelő szerv az érintettet nem tájékoztathatja. A tájékoztatási korlátozásról a rendőri szerv köteles az adatigényléssel, illetőleg a jelzés elhelyezésével egyidejűleg tájékoztatni az adatszolgáltatót.
 
-91/D. § A rendőrség bűnüldözési adatállományába csak a rendőrség hozzáférési jogosultsággal rendelkező munkatársa, a rendőrség működését ellenőrző szerv erre felhatalmazott tagja, az irányító minisztériumnak a miniszter által kijelölt munkatársa, az adatvédelmi biztos és munkatársa, az ügyész, továbbá törvény által feljogosított más szerv képviselője tekinthet be, kérhet felvilágosítást vagy értesítést.
+91/D. § A rendőrség bűnüldözési adatállományába csak a rendőrség hozzáférési jogosultsággal rendelkező munkatársa, a rendőrség működését ellenőrző szerv erre felhatalmazott tagja, az irányító minisztériumnak a miniszter által kijelölt munkatársa, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke, elnökhelyettese és köztisztviselője, az ügyész, továbbá törvény által feljogosított más szerv képviselője tekinthet be, kérhet felvilágosítást vagy értesítést.
 
 91/E. § (1) A bűnüldözési adatállományból más bűnüldöző szerv részére – kérelemre – az adatigénylő hatáskörébe és illetékességébe tartozó feladatai ellátásához szükséges és törvény alapján általa kezelhető adatok továbbíthatók.
 
@@ -1297,7 +1315,7 @@ részére.
 - b) az a) pontban foglaltaktól eltérő célra is, ha a továbbítás a közbiztonságot súlyosan vagy közvetlenül fenyegető veszély elhárításához szükséges, továbbá,
 - c) ha az adattovábbításra minden kétséget kizáróan az érintett érdekében kerül sor, és ahhoz hozzájárult.
 
-91/F. § (1) A rendőrség bűnüldözési adatot a schengeni vívmányokat alkalmazó állam bűnüldöző és igazságszolgáltatási szervei részére bűnüldözési, bűnmegelőzési és büntetés-végrehajtási célból, valamint továbbfelhasználás céljából a 91/E. § (4) bekezdésében foglaltak szerint továbbíthat.
+91/F. § (1) A rendőrség bűnüldözési adatot az Európai Unió tagállamának bűnüldöző és igazságszolgáltatási szervei részére bűnüldözési, bűnmegelőzési és büntetés-végrehajtási célból, valamint továbbfelhasználás céljából a 91/E. § (4) bekezdésében foglaltak szerint továbbíthat.
 
 (2) A rendőrség bűnüldözési adatot harmadik ország részére bűnüldözési, bűnmegelőzési vagy büntetés-végrehajtási célból – a 87. §-ban meghatározottak alapján – továbbíthat.
 
@@ -1426,7 +1444,7 @@ részére.
 
 (2) Akinek az intézkedés jogát vagy jogos érdekét érintette, panasszal fordulhat az intézkedést foganatosító rendőri szervhez.
 
-(3) Az (1) és (2) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó egyesület vagy alapítvány, kisebbségi önkormányzat, jogi oktatatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
+(3) Az (1) és (2) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó egyesület vagy alapítvány, nemzetiségi önkormányzat, jogi oktatatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
 
 (4) Az (1)–(2) bekezdésben meghatározott eljárások tárgyi költségmentesek.
 
@@ -1544,7 +1562,8 @@ részére.
 - a) az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az elővezetés és a kísérés végrehajtásával kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait,
 - b) a honvédelemért felelős miniszterrel egyetértésben rendeletben állapítsa meg a katonai alakulatok és szállítmányok államhatáron történő átléptetésének rendjét,
 - c) a közlekedésért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben jelölje ki azokat a vasútvonalakat és vízi utakat, amelyeken a menet közbeni ellenőrzés végezhető,
-- d) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a határátlépés ellenőrzésének szabályait a nemzetközi forgalom számára ideiglenesen megnyitott repülőtéren.
+- d) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a határátlépés ellenőrzésének szabályait a nemzetközi forgalom számára ideiglenesen megnyitott repülőtéren,
+- e) az államháztartásért felelős miniszter és az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a végrehajtási eljárásban ellenszegülés megszüntetése érdekében történő rendőri közreműködéssel, valamint a gyermek átadására irányuló bírósági végrehajtás során szükséges előállítással kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait.
 
 (3) A titkos információgyűjtés eszközei, módszerei alkalmazásának részletes szabályait a miniszter utasításban állapítja meg.
 
@@ -1585,7 +1604,8 @@ részére.
 - o) az 562/2006/EK rendeletnek a vízuminformációs rendszer (VIS) Schengeni határ-ellenőrzési kódex keretében való alkalmazása tekintetében történő módosításáról szóló, 2009. január 14-i 81/2009/EK európai parlamenti és tanácsi rendelet 1. cikk 1. pontja [35/B. §],
 - p) az Európai Unió tagállamainak különleges intervenciós egységei közötti együttműködés javításáról válsághelyzetekben szóló, 2008. június 23-i 2008/617/IB tanácsi határozat 2–4. cikke,
 - q) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 12. és 17–23. cikkei, valamint e határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat 17. cikke,
-- r) a Tanács határozata (2009. szeptember 21.) egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról.
+- r) a Tanács határozata (2009. szeptember 21.) egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról,
+- s) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat.
 
 105. §
 

@@ -413,7 +413,7 @@ tartalmazza.
 
 (2) Az ellenőrzésre jogosult hatóság géntechnológiai bírság megfizetését írhatja elő, ha a géntechnológiai tevékenység ellenőrzése során az (1) bekezdés a) vagy b) pontjában foglaltakat észleli.
 
-(3) A bírság az azt kiszabó hatóság bevétele, amelyet az e törvényben és annak végrehajtására kiadott rendeletekben meghatározott feladataival kapcsolatban felmerülő költségei fedezésére használhat fel.
+(3)
 
 (4) Az ellenőrzésre jogosult hatóság az elvégzett ellenőrzésről, valamint az annak során alkalmazott intézkedéséről a géntechnológiai hatóságot az ellenőrzési jegyzőkönyvnek az ellenőrzéstől számított 3 napon belüli megküldésével értesíti, és javaslatot tesz a géntechnológiai tevékenységre vonatkozó, nemzeti hatáskörben megadott engedély módosítására vagy visszavonására, közösségi hatáskörbe tartozó engedély esetén pedig az engedély módosításának vagy visszavonásának kezdeményezésére.
 
@@ -471,7 +471,7 @@ tartalmazza.
 
 30. § Az állami feladatok ellátása során a Kormány gondoskodik arról, hogy a géntechnológiával módosított szervezetek felhasználóival, fogyasztóival az iskolai és az iskolán kívüli oktatás, képzés, tájékoztatás keretében ismertetésre kerüljön a géntechnológia lényege és alkalmazásai, az így módosított szervezetek használatának környezeti, egészségügyi, gazdasági, társadalmi hatásai és kockázatai.
 
-31. §
+31. § A 4. § (1) bekezdés b) pontja szerinti hatóság kérelemre igazolást ad ki a Magyarországon köztermesztés céljára engedélyezett géntechnológiával módosított növényfajtákról, illetve ezek hiányában ennek tényéről. E hatósági igazolás nem alkalmas egy adott szaporítóanyagnak, takarmánynak vagy élelmiszernek szánt árutétel genetikailag módosított fajtától való mentességének igazolására. Ennek tényét a hatósági igazolás szövegszerűen is tartalmazza.
 
 ### V. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 

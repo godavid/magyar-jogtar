@@ -2,7 +2,7 @@
 
 a sajtószabadságról és a médiatartalmak alapvető szabályairól
 
-Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve a társadalom integritásának előmozdítása, a demokratikus berendezkedés megfelelő működésének és a nemzeti, valamint kulturális identitás megerősítésének szempontja, a nemzetközi jogi és európai uniós normák, valamint a technológiai fejlődés indokolttá teszik új szabályozás megalkotását, az Országgyűlés a véleménynyilvánítás és a szólás, valamint a sajtó szabadságát, a médiaszolgáltatások kiemelkedő kulturális, társadalmi és gazdasági jelentőségét és a médiapiaci verseny biztosításának fontosságát figyelembe véve – tekintettel az Alkotmány 61. §-ára – megalkotja a sajtószabadságról, a médiatartalmak alapvető szabályairól, valamint a médiatartalom-szolgáltatók és a közönség alapvető jogairól és kötelességeiről szóló alábbi törvényt:
+Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve a társadalom integritásának előmozdítása, a demokratikus berendezkedés megfelelő működésének és a nemzeti, valamint kulturális identitás megerősítésének szempontja, a nemzetközi jogi és európai uniós normák, valamint a technológiai fejlődés indokolttá teszik új szabályozás megalkotását, az Országgyűlés a véleménynyilvánítás és a szólás, valamint a sajtó szabadságát, a médiaszolgáltatások kiemelkedő kulturális, társadalmi és gazdasági jelentőségét és a médiapiaci verseny biztosításának fontosságát figyelembe véve, a sajtószabadságról, a médiatartalmak alapvető szabályairól, valamint a médiatartalom-szolgáltatók és a közönség alapvető jogairól és kötelességeiről következő törvényt alkotja:
 
 ### I. CÍM — FOGALOMMEGHATÁROZÁSOK
 
@@ -34,23 +34,23 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 ### II. CÍM — A TÖRVÉNY HATÁLYA
 
-2. § (1) E törvény hatálya kiterjed a Magyar Köztársaságban letelepedett médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra és kiadott sajtótermékre.
+2. § (1) E törvény hatálya kiterjed a Magyarországon letelepedett médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra és kiadott sajtótermékre.
 
-(2) E törvény alkalmazásában a médiatartalom-szolgáltató akkor minősül a Magyar Köztársaság területén letelepedettnek, ha:
+(2) E törvény alkalmazásában a médiatartalom-szolgáltató akkor minősül Magyarország területén letelepedettnek, ha:
 
-- a) az általa nyújtott médiaszolgáltatás analóg terjesztése a Magyar Köztársaság tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen a Magyar Köztársaság felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,
-- b) központi ügyvezetésének helye a Magyar Köztársaság területén található és a médiaszolgáltatással, sajtótermékkel összefüggő szerkesztői döntéseket a Magyar Köztársaság területén hozzák,
-- c) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de a médiatartalom-szolgáltató munkaerejének jelentős része a Magyar Köztársaság területén dolgozik,
-- d) ha a Magyar Köztársaság területén és más országban is dolgozik a médiatartalom-szolgáltató munkaerejének jelentős része, akkor, ha a központi ügyvezetés helye a Magyar Köztársaság területén található, vagy
-- e) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található a Magyar Köztársaság területén, de tevékenységét a Magyar Köztársaság területén kezdte meg, és folyamatos, tényleges kapcsolatot tart fenn a magyar gazdasággal.
+- a) az általa nyújtott médiaszolgáltatás analóg terjesztése Magyarország tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen Magyarország felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,
+- b) központi ügyvezetésének helye Magyarország területén található és a médiaszolgáltatással, sajtótermékkel összefüggő szerkesztői döntéseket Magyarország területén hozzák,
+- c) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található Magyarország területén, de a médiatartalom-szolgáltató munkaerejének jelentős része Magyarország területén dolgozik,
+- d) ha Magyarország területén és más országban is dolgozik a médiatartalom-szolgáltató munkaerejének jelentős része, akkor, ha a központi ügyvezetés helye Magyarország területén található, vagy
+- e) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található Magyarország területén, de tevékenységét Magyarország területén kezdte meg, és folyamatos, tényleges kapcsolatot tart fenn a magyar gazdasággal.
 
-(3) E törvény hatálya kiterjed azon médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra, amelyre az (1)–(2) bekezdés rendelkezései nem alkalmazhatók, ha a Magyar Köztársaság területén található műholdas feladó-állomást használ, vagy a műholdnak a Magyar Köztársaság tulajdonában álló átviteli kapacitását használja.
+(3) E törvény hatálya kiterjed azon médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra, amelyre az (1)–(2) bekezdés rendelkezései nem alkalmazhatók, ha a Magyarország területén található műholdas feladó-állomást használ, vagy a műholdnak a Magyarország tulajdonában álló átviteli kapacitását használja.
 
-(4) Ha az (1)–(3) bekezdés alapján nem állapítható meg, hogy a médiatartalom-szolgáltató a Magyar Köztársaság vagy más tagállam joghatósága alá tartozik-e, a médiatartalom-szolgáltató azon állam joghatósága alá tartozik, amelyben az Európai Unió működéséről szóló szerződés 49–55. cikke alapján letelepedettnek minősül.
+(4) Ha az (1)–(3) bekezdés alapján nem állapítható meg, hogy a médiatartalom-szolgáltató Magyarország vagy más tagállam joghatósága alá tartozik-e, a médiatartalom-szolgáltató azon állam joghatósága alá tartozik, amelyben az Európai Unió működéséről szóló szerződés 49–55. cikke alapján letelepedettnek minősül.
 
-3. § (1) E törvény hatálya a 2. § (1)–(4) bekezdés alá nem eső, de a Magyar Köztársaság területére irányuló, illetve a Magyar Köztársaság területén terjesztett vagy közzétett médiaszolgáltatásra és sajtótermékre a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 176–180. §-aiban foglalt feltételekkel terjed ki.
+3. § (1) E törvény hatálya a 2. § (1)–(4) bekezdés alá nem eső, de Magyarország területére irányuló, illetve Magyarország területén terjesztett vagy közzétett médiaszolgáltatásra és sajtótermékre a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 176–180. §-aiban foglalt feltételekkel terjed ki.
 
-(2) E törvény hatálya kiterjed azon médiatartalom-szolgáltató Magyar Köztársaság területére irányuló, illetve a Magyar Köztársaság területén terjesztett vagy közzétett médiaszolgáltatására és sajtótermékére, amely az Európai Gazdasági Térség egyetlen tagállamában sem minősül letelepedettnek, és amelynek médiaszolgáltatása vagy sajtóterméke felett egyik tagállam joghatósága sem állapítható meg.
+(2) E törvény hatálya kiterjed azon médiatartalom-szolgáltató Magyarország területére irányuló, illetve a Magyarország területén terjesztett vagy közzétett médiaszolgáltatására és sajtótermékére, amely az Európai Gazdasági Térség egyetlen tagállamában sem minősül letelepedettnek, és amelynek médiaszolgáltatása vagy sajtóterméke felett egyik tagállam joghatósága sem állapítható meg.
 
 (3) E törvény hatálya kiterjed a 2. § és az (1)–(2) bekezdés alapján a törvény hatálya alá tartozó médiaszolgáltatást nyújtó, vagy sajtóterméket kiadó médiatartalom-szolgáltatóra.
 
@@ -58,7 +58,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 ### III. CÍM — A SAJTÓ SZABADSÁGA
 
-4. § (1) A Magyar Köztársaság jogrendje elismeri és védi a sajtó szabadságát, valamint biztosítja sokszínűségét.
+4. § (1) Magyarország elismeri és védi a sajtó szabadságát és sokszínűségét.
 
 (2) A sajtószabadság kiterjed az államtól, valamint bármely szervezettől és érdekcsoporttól való függetlenségre is.
 
@@ -86,9 +86,9 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 ### IV. CÍM — A KÖZÖNSÉG JOGAI
 
-10. § Mindenkinek joga van arra, hogy megfelelően tájékoztassák a helyi, az országos és az európai közélet ügyeiről, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről. A médiarendszer egészének feladata a hiteles, gyors, pontos tájékoztatás ezen ügyekről és eseményekről.
+10. § Mindenkinek joga van arra, hogy megfelelően tájékoztassák a helyi, az országos és az európai közélet ügyeiről, valamint Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről. A médiarendszer egészének feladata a hiteles, gyors, pontos tájékoztatás ezen ügyekről és eseményekről.
 
-11. § A Magyar Köztársaságban közszolgálati médiaszolgáltatás működik a nemzeti önazonosság és az európai identitás, a nemzeti, családi, etnikai, vallási közösségek megőrzése és megerősítése, a magyar és a kisebbségi nyelvek és kultúra ápolása, gazdagítása, az állampolgárok tájékozódási és kulturális igényeinek kielégítése céljából.
+11. § Magyarországon közszolgálati médiaszolgáltatás működik a nemzeti önazonosság és az európai identitás, a nemzeti, családi, etnikai, vallási közösségek megőrzése és megerősítése, a magyar és a nemzetiségi nyelvek és kultúra ápolása, gazdagítása, az állampolgárok tájékozódási és kulturális igényeinek kielégítése céljából.
 
 ### V. CÍM — SAJTÓ-HELYREIGAZÍTÁSI JOG
 
@@ -98,7 +98,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 ### VI. CÍM — A SAJTÓ KÖTELEZETTSÉGEI
 
-13. § A tájékoztatási tevékenységet végző lineáris médiaszolgáltatások kötelesek a közérdeklődésre számot tartó helyi, országos, nemzeti és európai, valamint a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről, vitatott kérdésekről az általuk közzétett tájékoztató, illetve híreket szolgáltató műsorszámokban sokoldalúan, tényszerűen, időszerűen, tárgyilagosan és kiegyensúlyozottan tájékoztatni. E kötelezettség részletes szabályait törvény az arányosság és a demokratikus közvélemény biztosítása követelményeinek megfelelően állapítja meg.
+13. § A tájékoztatási tevékenységet végző lineáris médiaszolgáltatások kötelesek a közérdeklődésre számot tartó helyi, országos, nemzeti és európai, valamint Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről, vitatott kérdésekről az általuk közzétett tájékoztató, illetve híreket szolgáltató műsorszámokban sokoldalúan, tényszerűen, időszerűen, tárgyilagosan és kiegyensúlyozottan tájékoztatni. E kötelezettség részletes szabályait törvény az arányosság és a demokratikus közvélemény biztosítása követelményeinek megfelelően állapítja meg.
 
 14. § (1) A médiatartalom-szolgáltatónak az általa közzétett médiatartalmakban, illetve azok készítése során tiszteletben kell tartania az emberi méltóságot.
 
@@ -111,10 +111,10 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 (3) A nyilatkozat közzétételéhez történt hozzájárulás a médiatartalom-szolgáltató (1) bekezdésben szereplő visszaélése esetén jogkövetkezmény nélkül visszavonható, amennyiben
 
 - a) azt a nyilatkozó nem a helyi, országos vagy európai közélet eseményével összefüggésben tette,
-- b) az nem a Magyar Köztársaság polgárai és a magyar nemzet tagjai számára jelentőséggel bíró valamely eseménnyel kapcsolatos, vagy
+- b) az nem Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró valamely eseménnyel kapcsolatos, vagy
 - c) a visszavonásra irányuló nyilatkozatot nem hivatalos vagy közfeladatot ellátó személy, vagy politikai közszereplő közmegbízatása ellátásával összefüggésben tette, feltéve, hogy a visszavonás a közzétételt megelőzően kellő időben történik, és így nem okoz a médiatartalom-szolgáltató számára aránytalan sérelmet. Az e jogot korlátozó szerződéses kikötés semmis.
 
-16. § A médiatartalom-szolgáltató köteles tiszteletben tartani a Magyar Köztársaság alkotmányos rendjét, tevékenysége során nem sértheti az emberi jogokat.
+16. § A médiatartalom-szolgáltató köteles tiszteletben tartani az alkotmányos rendet, tevékenysége során nem sértheti az emberi jogokat.
 
 17. § (1) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely egyház vagy vallási csoport elleni gyűlölet keltésére.
 
@@ -144,11 +144,11 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (6) A médiatartalomban közzétett kereskedelmi közlemény nem ösztönözhet az egészségre, a biztonságra és a környezetre ártalmas magatartásra.
 
-(7) Nem szabad médiatartalomban közzétenni dohányárut, fegyvert, lőszert, robbanóanyagot, kizárólag orvosi rendelvényre igénybe vehető gyógyszert, továbbá gyógyászati eljárást népszerűsítő, ismertető kereskedelmi közleményt. E korlátozás nem terjed ki a gazdasági reklámtevékenységről szóló törvényben, illetve más jogszabályban foglalt kivételekre.
+(7) Nem szabad médiatartalomban közzétenni dohányárut, fegyvert, lőszert, robbanóanyagot, az állami adóhatóság engedélye nélkül szervezett szerencsejátékot, kizárólag orvosi rendelvényre igénybe vehető gyógyszert, továbbá gyógyászati eljárást népszerűsítő, ismertető kereskedelmi közleményt. E korlátozás nem terjed ki a gazdasági reklámtevékenységről szóló törvényben, illetve más jogszabályban foglalt kivételekre.
 
 (8) A médiatartalom támogatóját a közzététellel egyidejűleg, illetve azt közvetlenül megelőzően vagy azt követően meg kell nevezni. Audiovizuális médiaszolgáltatás vagy annak műsorszáma más audiovizuális médiaszolgáltatást végző, illetve audiovizuális műsorszámok vagy filmalkotások készítésével foglalkozó vállalkozás által nem támogatható.
 
-(9) A médiaszolgáltatásban közzétett, támogatott médiatartalom nem ösztönözhet, és nem hívhat fel a támogató vagy az általa meghatározott harmadik személy termékének beszerzésére vagy szolgáltatásának igénybevételére, illetőleg az attól való tartózkodásra.
+(9) A médiaszolgáltatásban közzétett, támogatott médiatartalom nem ösztönözhet, és nem hívhat fel a támogató vagy az általa meghatározott harmadik személy termékének beszerzésére vagy szolgáltatásának igénybevételére, illetve az attól való tartózkodásra.
 
 (10) A támogató a médiatartalom-szolgáltató felelősségét, illetve szerkesztői szabadságát érintő módon a médiatartalmat vagy annak közzétételét nem befolyásolhatja.
 
@@ -167,6 +167,8 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 23. § (1) E törvény 2011. január 1-jén lép hatályba.
 
 (2) E törvény 22. §-a a törvény hatálybalépését követő napon hatályát veszti.
+
+23/A. § E törvény 1–9. §-a és 12–21. §-a az Alaptörvény IX. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 ### X. CÍM — A törvény rövidített megjelölése
 

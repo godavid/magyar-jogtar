@@ -96,7 +96,7 @@ az európai uniós csatlakozással összefüggő egyes törvénymódosításokr�
 
 (2) E fejezet hatálya kiterjed azokra
 
-a) a minisztériumokra, tárca nélküli miniszterek hivatali szerveire, központi költségvetésben önálló fejezettel rendelkező országos hatáskörű és egyéb szervekre, továbbá más, fejezeti jogosítványokkal felhatalmazott szervekre – ideértve a Magyar Tudományos Akadémiát mint köztestületet is – és személyekre, valamint a felügyeletük alá tartozó költségvetési szervekre; helyi önkormányzatokra és helyi kisebbségi önkormányzatokra, valamint a felügyeletük alá tartozó költségvetési szervekre; elkülönített állami pénzalapokra és azok kezelőire; a társadalombiztosítás pénzügyi alapjaira és a társadalombiztosítási költségvetési szervekre; a vagyonkezelő szervezetekre; az országos kisebbségi önkormányzatokra és országos kisebbségi önkormányzati költségvetési szervekre,
+a) a minisztériumokra, tárca nélküli miniszterek hivatali szerveire, központi költségvetésben önálló fejezettel rendelkező országos hatáskörű és egyéb szervekre, továbbá más, fejezeti jogosítványokkal felhatalmazott szervekre – ideértve a Magyar Tudományos Akadémiát mint köztestületet is – és személyekre, valamint a felügyeletük alá tartozó költségvetési szervekre; helyi önkormányzatokra és helyi nemzetiségi önkormányzatokra, valamint a felügyeletük alá tartozó költségvetési szervekre; elkülönített állami pénzalapokra és azok kezelőire; a társadalombiztosítás pénzügyi alapjaira; a vagyonkezelő szervezetekre; az országos nemzetiségi önkormányzatokra és országos nemzetiségi önkormányzati költségvetési szervekre,
 
 b) a területfejlesztésről és területrendezésről szóló törvény hatálya alá tartozó jogi személyiségű területfejlesztési és fejlesztési tanácsokra és munkaszervezeteikre,
 
@@ -168,7 +168,7 @@ be) alapító okirat,
 
 bf) képviseletre jogosult neve.
 
-128. § (1) Az OLAF Koordinációs Iroda az OLAF megkereséseinek, illetőleg az európai közösségi jogi normákban előírt jelentéstételi kötelezettség teljesítése céljából a büntetőeljárás megindításának, felfüggesztésének, illetve befejezésének tényéről, illetve a büntetett előélethez fűződő hátrányos következmények alóli mentesítés bekövetkeztéig bűnügyi személyes adatot az alábbi bűncselekmények esetében kezelhet: vesztegetés [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 250–255. §)], vesztegetés nemzetközi kapcsolatban (Btk. 258/B–258/D. §), a számvitel rendjének megsértése (Btk. 289. §), csődbűncselekmény (Btk. 290. §), hitelezési csalás (Btk. 297/A. §), gazdálkodó szervezet vezető állású személyének visszaélése (Btk. 298/A. §), saját tőke csorbítása (Btk. 298/B. §), gazdasági adatszolgáltatási kötelezettség elmulasztása (Btk. 299. §), tőkebefektetési csalás (Btk. 299/B. §), pénzmosás (Btk. 303. és 303/A. §), pénzhamisítás (Btk. 304. §), pénzhamisítás elősegítése (Btk. 304/A. §), adócsalás (Btk. 310. §), visszaélés jövedékkel (Btk. 311. §), jövedéki orgazdaság (Btk. 311/A. §), jövedékkel visszaélés elősegítése (Btk. 311/B. §), csempészet (Btk. 312. §), az Európai Közösségek pénzügyi érdekeinek megsértése (Btk. 314. §), sikkasztás (Btk. 317. §), csalás (Btk. 318. §), hűtlen kezelés (Btk. 319. §), hanyag kezelés (Btk. 320. §), orgazdaság (Btk. 326. §).
+128. § (1) Az OLAF Koordinációs Iroda az OLAF megkereséseinek, illetőleg az európai közösségi jogi normákban előírt jelentéstételi kötelezettség teljesítése céljából a büntetőeljárás megindításának, felfüggesztésének, illetve befejezésének tényéről, illetve a büntetett előélethez fűződő hátrányos következmények alóli mentesítés bekövetkeztéig bűnügyi személyes adatot az alábbi bűncselekmények esetében kezelhet: vesztegetés [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 250–255. §)], vesztegetés nemzetközi kapcsolatban (Btk. 258/B–258/D. §), a számvitel rendjének megsértése (Btk. 289. §), csődbűncselekmény (Btk. 290. §), hitelezési csalás (Btk. 297/A. §), gazdálkodó szervezet vezető állású személyének visszaélése (Btk. 298/A. §), saját tőke csorbítása (Btk. 298/B. §), gazdasági adatszolgáltatási kötelezettség elmulasztása (Btk. 299. §), tőkebefektetési csalás (Btk. 299/B. §), pénzmosás (Btk. 303. és 303/A. §), pénzhamisítás (Btk. 304. §), pénzhamisítás elősegítése (Btk. 304/A. §), költségvetési csalás (Btk. 310. §), jövedékkel visszaélés elősegítése (Btk. 311/B. §), a 2011. december 31-ig hatályban volt adócsalás, visszaélés jövedékkel, jövedéki orgazdaság, csempészet és az Európai Közösségek pénzügyi érdekeinek megsértése, sikkasztás (Btk. 317. §), csalás (Btk. 318. §), hűtlen kezelés (Btk. 319. §), hanyag kezelés (Btk. 320. §), orgazdaság (Btk. 326. §).
 
 (2) A megkeresés, illetőleg a jelentéstételi kötelezettség teljesítését követően a jelentésben szereplő adatokat az OLAF Koordinációs Iroda vezetője haladéktalanul megsemmisíti.
 
@@ -218,7 +218,7 @@ c) Tanács 1074/1999/EURATOM rendeletével az Európai Csalásellenes Hivatal (O
 
 egyes rendelkezések
 
-140. § (1) Az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kivitelét, behozatalát, valamint azoknak a Magyar Köztársaság területén történő átszállítását nemzetközi szerződéssel és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseivel összhangban az Országgyűlés vagy a Kormány által alkotott jogszabály korlátozhatja.
+140. § (1) Az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kivitelét, behozatalát, valamint azoknak Magyarország területén történő átszállítását nemzetközi szerződéssel és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseivel összhangban az Országgyűlés vagy a Kormány által alkotott jogszabály korlátozhatja.
 
 (2) Ha a Kormány az (1) bekezdés szerint korlátozást rendel el, akkor rendeletében meghatározza a korlátozásokhoz kapcsolódó feltételeket, az egyes korlátozásokkal kapcsolatos engedélyezési és más hatósági feladatokat, azok általános szabályoktól eltérő eljárási szabályait.
 
@@ -260,11 +260,9 @@ g) az állami adóhatóságnak adóellenőrzési célra.
 
 (3) A bírság kiszabásának elévülési ideje az elkövetés időpontjától számított öt év. Ha a jogsértő magatartás folyamatos, az elévülési idő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, az elévülési idő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
-(4) A bírság a Magyar Köztársaság központi költségvetésének bevétele. Beszedéséről a kirovó hatóság gondoskodik.
+(4)–(5)
 
-(5) A meg nem fizetett bírság adók módjára behajtandó köztartozásnak minősül.
-
-140/E. § (1) Felhatalmazást kap a Kormány, hogy a 140. § (1) bekezdése szerinti – az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kivitelével, behozatalával, valamint azoknak a Magyar Köztársaság területén történő átszállításával összefüggő – korlátozásokat, az azokhoz kapcsolódó feltételeket, valamint az egyes korlátozásokkal összefüggő engedélyezési és más hatósági feladatokat, ezek eljárási szabályait rendeletben határozza meg.
+140/E. § (1) Felhatalmazást kap a Kormány, hogy a 140. § (1) bekezdése szerinti – az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kivitelével, behozatalával, valamint azoknak Magyarország területén történő átszállításával összefüggő – korlátozásokat, az azokhoz kapcsolódó feltételeket, valamint az egyes korlátozásokkal összefüggő engedélyezési és más hatósági feladatokat, ezek eljárási szabályait rendeletben határozza meg.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a nemzeti külkereskedelmi államigazgatási szervet.
 

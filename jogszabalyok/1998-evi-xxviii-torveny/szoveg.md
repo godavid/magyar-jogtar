@@ -2,7 +2,7 @@
 
 az állatok védelméről és kíméletéről
 
-Az Országgyűlés– annak tudatában, hogy az állatok érezni, szenvedni és örülni képes élőlények, tiszteletben tartásuk, jó közérzetük biztosítása minden ember erkölcsi kötelessége,– elismerve azt a megkülönböztetetten nagy értéket, amelyet az állatvilág egésze és annak egyedei jelentenek az emberiség számára,– kifejezve azon szándékát, hogy a Magyar Köztársaság tevékeny módon részt vállaljon az állatok védelme és kímélete érdekében kifejtett nemzetközi erőfeszítésekből,
+Az Országgyűlés– annak tudatában, hogy az állatok érezni, szenvedni és örülni képes élőlények, tiszteletben tartásuk, jó közérzetük biztosítása minden ember erkölcsi kötelessége,– elismerve azt a megkülönböztetetten nagy értéket, amelyet az állatvilág egésze és annak egyedei jelentenek az emberiség számára,– kifejezve azon szándékát, hogy Magyarország tevékeny módon részt vállaljon az állatok védelme és kímélete érdekében kifejtett nemzetközi erőfeszítésekből,
 
 az állatok ésszerű védelmének és kíméletének biztosítása érdekében az alábbi törvényt alkotja:
 
@@ -24,11 +24,11 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 - d) a pásztorebekre, az őrző-, védő-, mentő-, jelző-, vakvezető, rokkantsegítő és terápiás kutyákra;
 - e) a vadászatra alkalmazott állatokra, ha jogszabály másképpen nem rendelkezik;
 - f) a mutatványos vagy bemutatási célra szolgáló állatokra;
-- g) a Magyar Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok és a közfeladatokat ellátó őrszolgálatok feladatainak ellátását szolgáló állatokra;
+- g) a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, a nemzetbiztonsági szolgálatok és a közfeladatokat ellátó őrszolgálatok feladatainak ellátását szolgáló állatokra;
 - h) a kedvtelésből tartott állatokra;
 - i) a veszélyes állatokra, a háziasított állatok gazdátlan egyedeire (kóborállat), az állatkertekben, a vadaskertekben és a vadasparkokban élő (tenyésző) állatokra, továbbá a vadon élő fajok bármilyen célból fogva tartott egyedeire, ha külön jogszabály másként nem rendelkezik.
 
-(2) E törvénynek az állat kíméletére, az állatkínzás és az állatkárosítás tilalmára, valamint a jó gazda gondosságára vonatkozó rendelkezéseit a vadon élő állatokra is alkalmazni kell. A vadászható vadfajokra, valamint a halászható, horgászható halfajokra és a természetvédelmi oltalom alatt álló, illetőleg nemzetközi természetvédelmi egyezmény hatálya alá tartozó állatokra külön jogszabály eltérő rendelkezéseket is megállapíthat.
+(2) E törvénynek az állat kíméletére, az állatkínzás és az állatkárosítás tilalmára, valamint a jó gazda gondosságára vonatkozó rendelkezéseit a vadon élő állatokra is alkalmazni kell. A halászható, horgászható halfajokra és a természetvédelmi oltalom alatt álló, illetőleg nemzetközi természetvédelmi egyezmény hatálya alá tartozó állatokra jogszabály eltérő rendelkezéseket is megállapíthat. E törvény rendelkezéseit a vadászható állatfajok tekintetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben szereplő eltérésekkel kell alkalmazni.
 
 ### Alapfogalmak
 
@@ -36,7 +36,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 - 1. állattartó: az állat tulajdonosa, illetve aki az állatot vagy az állatállományt gondozza, felügyeli;
 - 2. állat károsítása: az állat testi épségének, szervezetének, pszichikai állapotának vagy viselkedésének tartós, hátrányos megváltoztatása;
-- 3. állatkert: a természet- és állatvédelmet szolgáló, megfelelő engedéllyel rendelkező állandó létesítmény, ahol az állatokat évente folyamatosan hét napnál hosszabb időn keresztül a nagyközönség részére való bemutatás céljából tartják, és amely az ismeretterjesztést, oktatást és nevelést az ott élő állatok folyamatos és szakszerű bemutatásával, valamint tájékoztatással biztosítja; nem minősül állatkertnek a cirkuszi menazséria és az állatkereskedés;
+- 3. állatkert: a természet- és állatvédelmet szolgáló állandó létesítmény, ahol az állatokat évente folyamatosan hét napnál hosszabb időn keresztül a nagyközönség részére való bemutatás céljából tartják, és amely az ismeretterjesztést, oktatást és nevelést az ott élő állatok folyamatos és szakszerű bemutatásával, valamint tájékoztatással biztosítja; nem minősül állatkertnek a cirkuszi menazséria és az állatkereskedés;
 - 4. állatkínzás: az állat szükségtelen, fájdalmat okozó bántalmazása, vagy olyan hatást eredményező beavatkozás, bánásmód, valamint szükségleteinek olyan mértékű korlátozása, amely tartós félelmet vagy egészségkárosodást okozhat, továbbá az öröklődő betegségben szenvedő – nem kísérleti célra szánt – állategyed tenyésztése, szaporítása;
 - 5. állatpanzió: olyan intézmény, amely díjazás ellenében vállalja állat meghatározott időre szóló megőrzését, felelősséget vállalva annak jó gazda gondosságával történő tartásáért, egészségéért, valamint az állatok és a környezetükben lévő emberek biztonságáért;
 - 6. állatmenhely: az elkobzott vagy ideiglenesen megfigyelés alatt tartott állatok kivételével a gazdátlan állatok ideiglenes vagy állandó, ellenszolgáltatás nélkül történő elhelyezésének céljából működtetett intézmény;
@@ -44,7 +44,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 - 8. jó gazda gondossága: az az emberi tevékenység, amely arra irányul, hogy az állat számára olyan életkörülményeket biztosítson, amely az annak fajára, fajtájára és nemére, korára jellemző fizikai, élettani, tenyésztési és etológiai sajátosságainak, egészségi állapotának megfelel, tartási, takarmányozási igényeit kielégíti (elhelyezés, táplálás, gyógykezelés, tisztán tartás, nyugalom, gondozás, kiképzés, nevelés, felügyelet).
 - 9. állatkísérlet: állat kísérleti vagy egyéb tudományos célból való felhasználása, amely esetleg az állatnak fájdalmat, szenvedést, tartós nélkülözést vagy maradandó károsodást okozhat – beleértve bármely olyan tevékenységet is a kísérlet során, amely állat születését eredményezi ilyen körülmények közé – és amely az állat kísérletre való előkészítésével kezdődik, és akkor fejeződik be, amikor további megfigyelést már nem végeznek a kísérlet érdekében; az állat ilyen felhasználása akkor is kísérletnek minősül, ha a fájdalom, szenvedés, tartós nélkülözés vagy maradandó károsodás kiküszöbölése céljából végzett altatást, fájdalomcsillapítást vagy egyéb módszert sikeresen alkalmaznak; nem minősül állatkísérletnek a nem kísérleti jellegű, mezőgazdasági vagy állatorvosi tevékenység, illetve az állatok leölésének vagy megjelölésének a természettudományok által elfogadott korszerű, kevéssé fájdalmasnak tartott módszereinek alkalmazása;
 - 10. állat életének megengedett módon való kioltása: az állat életének a legkisebb szenvedés okozásával, valamint a faj adottságainak figyelembevételével történő szakszerű és gyors kioltása;
-- 11. cirkuszi menazséria: olyan, állatok tartására szolgáló létesítmény, amelyet cirkuszi előadásra, mutatványra betanított, illetve betanítandó állatokból álló állatsereglet tartására – hatósági engedély alapján – létesítettek, illetve tartanak fenn, és amely az állatok tartására a jogszabályi és a hatósági előírásoknak megfelelő létesítménnyel, berendezésekkel és eszközökkel, továbbá az állatok ellátására, betanítására, felügyeletére az ilyen előírásoknak megfelelő szakszemélyzettel rendelkezik.
+- 11. cirkuszi menazséria: olyan, állatok tartására szolgáló létesítmény, amelyet cirkuszi előadásra, mutatványra betanított, illetve betanítandó állatokból álló állatsereglet tartására létesítettek, illetve tartanak fenn, és amely az állatok tartására a jogszabályi és a hatósági előírásoknak megfelelő létesítménnyel, berendezésekkel és eszközökkel, továbbá az állatok ellátására, betanítására, felügyeletére az ilyen előírásoknak megfelelő szakszemélyzettel rendelkezik.
 
 ### II. Fejezet — AZ ÁLLAT VÉDELMÉNEK ÁLTALÁNOS SZABÁLYAI
 
@@ -70,7 +70,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 ### Az állat kímélete, az állatkínzás tilalma
 
-6. § (1) Az állatnak tilos indokolatlan vagy elkerülhető fájdalmat, szenvedést vagy sérülést okozni, így különösen az állatot nem szabad:
+6. § (1) Az állatnak tilos indokolatlan vagy elkerülhető fájdalmat, szenvedést vagy sérülést okozni, az állatot károsítani, így különösen az állatot nem szabad:
 
 - a) kínozni,
 - b) emberre vagy állatra uszítani, illetőleg állatviadalra idomítani,
@@ -79,7 +79,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 - e) a teljesítőképességét felismerhetően meghaladó teljesítményre kényszeríteni,
 - f) természetellenes és önpusztító tevékenységre szoktatni.
 
-(2) Az (1) bekezdés a) pontja nem terjed ki az érett libatoll házilagos vagy az engedélyezett technológia szerint végzett tépésére, illetve c) pontja a házilagos vagy az engedélyezett technológia szerinti liba- és kacsatömésre.
+(2) Az (1) bekezdés a) pontja nem terjed ki az érett libatoll házilagos vagy az engedélyezett technológia szerint végzett szedésére, illetve c) pontja a házilagos vagy az engedélyezett technológia szerinti liba- és kacsatömésre.
 
 (3) A 2. § (1) bekezdésének g) pontjában meghatározott állatok esetében az (1) bekezdés b) pontját a külön jogszabályban meghatározottak szerint kell alkalmazni.
 
@@ -88,11 +88,13 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 (2) Tilos állatviadal céljára
 
 - a) állatot tartani, tenyészteni, kiképezni, idomítani, valamint más személynek átadni, vagy forgalmazni;
-- b) építményt vagy földterületet, anyagi eszközt más személy rendelkezésére bocsátani.
+- b) építményt, földterületet vagy egyéb helyet, anyagi eszközt más személy rendelkezésére bocsátani.
 
-(3) Az (1) bekezdésben foglalt tilalom nem vonatkozik a vadászatra alkalmazott állatnak külön jogszabály alapján történő kiképzésére, vadászaton való alkalmazására.
+(3) Az (1) bekezdésben foglalt tilalom nem vonatkozik a vadászatra alkalmazott állatnak jogszerűen történő kiképzésére, vadászaton való alkalmazására.
 
 8. § Az ember környezetében tartott állat, valamint a veszélyes állat tulajdonjogával, tartásával felhagyni nem szabad. Az állat elűzése, elhagyása vagy kitétele tilos.
+
+8/A. § Élő állatot nyereményjáték díjaként csak e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint lehet használni, amennyiben az állat elhelyezésének és tartásának feltételei biztosítottak.
 
 ### Beavatkozás az állaton
 
@@ -102,13 +104,17 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 (3)
 
-10. § (1) Az állat küllemének megváltoztatása érdekében, továbbá más, nem az állat egészsége vagy későbbi egészségkárosodásának megelőzése céljából történő sebészeti beavatkozás – az ivartalanítás, valamint kutya esetében a tenyésztési hatóság által elismert tenyésztő szervezet tenyésztési programjában meghatározott küllemi előírások kialakítását biztosító sebészeti beavatkozás (fül-, illetve farokkorrekció) kivételével – nem végezhető.
+10. § (1) Az állaton minden olyan beavatkozást el kell végezni, amelynek elmulasztása az állat fájdalmát, szenvedését idézi elő, az állatnak sérülést okoz, vagy az állat károsodásához vezet.
 
-(2) Az állat megjelölésénél az állat számára legkisebb fájdalommal járó megoldást kell alkalmazni.
+(2) Az állaton küllemének megváltoztatása érdekében, továbbá más, nem az állat egészsége vagy későbbi egészségkárosodásának megelőzése céljából történő sebészeti beavatkozás – az ivartalanítás, valamint e törvény végrehajtására kiadott jogszabályban meghatározott további beavatkozás kivételével – nem végezhető.
+
+(3) Az állat megjelölésénél az állat számára a legkisebb fájdalommal járó megoldást kell alkalmazni.
 
 ### Az állat életének kioltása
 
-11. § Az állat életét elfogadható ok vagy körülmény nélkül kioltani nem szabad. Elfogadható oknak, körülménynek minősül különösen az élelmezési cél vágóállat esetében, a prém termelése a hagyományosan e célból tartott állat esetében, az állományszabályozás, a gyógyíthatatlan betegség, illetve sérülés, a fertőző betegségek kontrollja, valamint az azok ellen való védekezés, a kártevők irtása, a másként el nem hárítható támadás megakadályozása és a tudományos kutatás. Kutya és macska tekintetében az élelmezési cél, illetve a prém termelése nem minősül elfogadható oknak, körülménynek.
+11. § (1) Az állat életét elfogadható ok vagy körülmény nélkül kioltani nem szabad. Elfogadható oknak, körülménynek minősül különösen az élelmezési cél vágóállat esetében, a prém termelése, az állományszabályozás, a gyógyíthatatlan betegség, illetve sérülés, a fertőző betegségek felszámolása, valamint az azok ellen való védekezés, a kártevők irtása, a másként el nem hárítható támadás megakadályozása, a tudományos kutatás, valamint közegészségügyi veszély elhárítása. Eb és macska tekintetében az élelmezési cél, illetve a prém termelése nem minősül elfogadható oknak, körülménynek, továbbá tilos e fajok élelmiszerként és prémként történő felhasználása.
+
+(2) Tilos macska vagy eb prémjét, valamint az ilyen prémet tartalmazó terméket forgalomba hozni, értékesítés céljából tartani, értékesítésre felajánlani vagy terjeszteni, vagy azt az ország területére behozni, illetve onnan kivinni, kivéve, ha az valamely közösségi jogi aktus alapján oktatási vagy preparálási célból engedélyezett.
 
 12. § (1) Az állat életének kioltása – a (2) bekezdésben foglaltak kivételével – kizárólag kábítás után történhet.
 
@@ -144,6 +150,12 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 - b) kényszervágás, ha a kábításra nincs lehetőség;
 - c) prémes állatok, tenyésztett vad leölése;
 - d) rituális vágás.
+
+### A szőrméjükért tenyésztett fajok tartása
+
+19/A. § (1) Állatot szőrméjéért tartani, tenyészteni, szaporítani csak e törvény végrehajtására kiadott rendeletben meghatározott fajok esetében és feltételekkel szabad.
+
+(2) Az (1) bekezdésben foglaltak megszegésével tartott állatot az állatvédelmi hatóság elkobozza, majd – amennyiben állatkertben történő elhelyezésük nem megoldható – az állat tulajdonosának költségére gondoskodik az állat életének megengedett módon történő kioltásáról.
 
 ### A veszélyes állat tartása és szaporítása
 
@@ -186,55 +198,67 @@ haladéktalanul köteles bejelenteni.
 
 24. § A veszélyes állat tartójának felelősségére a Polgári Törvénykönyvnek a fokozott veszéllyel járó tevékenységet folytatókra vonatkozó szabályait kell alkalmazni.
 
-### Veszélyes ebek tartása és az állatviadalok tilalma
+### Eb által okozott fizikai sérülés, eb veszélyesnek minősítése és a veszélyes eb tartása
 
-24/A. § (1) Veszélyes ebnek minősül a Kormány által rendeletben meghatározott, az életre és a testi épségre természetes hajlamainál fogva fokozottan veszélyes eb.
+24/A. § (1) Az állatvédelmi hatóság az ebet egyedileg veszélyesnek minősítheti, amennyiben
 
-(2) Tilos a veszélyes eb bármely módon való szaporítása, tenyésztése – ideértve a vétlen szaporulatot is –, az országba való behozatala, kivitele, elidegenítése, bármely formában történő versenyeztetése, őrző-védő feladatokra való tartása, képzése és alkalmazása.
+- a) az eb fizikai sérülést okozott, és megvalósulnak a veszélyesnek minősítés e törvény végrehajtására kiadott jogszabályban meghatározott feltételei, vagy
+- b) az eb fizikai vagy pszichikai állapota alapján feltételezhető, hogy az embernek fizikai sérülést okozhat, és ez a veszélyhelyzet kizárólag az eb veszélyesnek minősítésével hárítható el.
 
-(3) Az (1) bekezdésben foglaltakon túl az állatvédelmi hatóság embernek vagy állatnak – ingerlése nélkül – okozott súlyos sérülés miatt egyedileg ebet veszélyesnek minősíthet (a továbbiakban: veszélyesnek minősített eb).
+(2) Veszélyes eb az állatvédelmi hatóság által egyedileg veszélyesnek minősített eb.
 
-(4) A veszélyes és a veszélyesnek minősített eb kizárólag az állatvédelmi hatóság által kiadott engedéllyel, kormányrendeletben meghatározott feltételek esetén és módon, egyedi azonosítóval ellátva tartható.
+(3) Az (1) bekezdés b) pontja szerinti eljárásba be kell vonni az ebek viselkedésének megítélésében jártas szakértőt.
 
-(5) A veszélyes és veszélyesnek minősített ebet polgári jogi szempontból vadállatnak kell tekinteni.
+(4) Veszélyes eb kizárólag az állatvédelmi hatóság által kiadott engedéllyel, az e törvény végrehajtására kiadott jogszabályban meghatározott feltételekkel és módon, ivartalanítva és elektronikus azonosítóval (a továbbiakban: transzponder) megjelölve tartható.
 
-24/B. § (1) Tilos az állatok között olyan viadal, az állatok egymás elleni uszításával olyan küzdelem (a továbbiakban együtt: állatviadal) szervezése, tartása, amely az állatok sérülését vagy elpusztulását okozhatja. Tilos továbbá az állatviadalra fogadás szervezése, az állatviadalon való közreműködés, részvétel, fogadáskötés.
+(5) Tilos veszélyes ebnek bármely módon való szaporítása, tenyésztése – ideértve a vétlen szaporulatot is –, kiállítása, bármely formában történő versenyeztetése, őrző-védő feladatokra való tartása, képzése és alkalmazása, az országba való behozatala, az országból történő kivitele.
 
-(2) Tilos állatviadal céljára
+(6) A veszélyes ebet polgári jogi szempontból vadállatnak kell tekinteni.
 
-- a) állatot tartani, tenyészteni, kiképezni, idomítani, valamint más személynek átadni, vagy forgalmazni;
-- b) épületet vagy egyéb helyet, anyagi eszközt más személy rendelkezésére bocsátani.
+(7) Az e törvény és a végrehajtására kiadott jogszabály szerinti eljárásokban az ebek viselkedésének megítélésében jártas szakértőként az a személy járhat el, aki az állatvédelmi hatóságtól erre engedélyt kapott. Az engedélyezéssel egyidejűleg az állatvédelmi hatóság nyilvántartásba veszi a szakértőt. A nyilvántartás tartalmazza az ebek viselkedésének megítélésében jártas szakértők természetes személyazonosító adatait. Az állatvédelmi hatóság a honlapján közzéteszi a szakértői névjegyzékben szereplő személy nevét, telefonos elérhetőségét, valamint elektronikus levélcímét.
 
-(3) Az (1) bekezdésben foglalt tilalom nem vonatkozik a külön jogszabályok alapján az állatoknak vadászaton való alkalmazására.
+(8) A település jegyzője kérheti az állatvédelmi hatóságtól az eb egyedi veszélyessé minősítését.
 
-24/C. § Az állatvédelmi hatóság a 24/A. § (4) bekezdése szerinti engedélyezési eljárásban jogosult kezelni
+24/B. § (1) Az állatvédelmi hatóság a 24/A. § szerinti engedélyezési eljárásban jogosult kezelni
 
-- a) az ebtartó nevét, születési helyét és idejét, lakcímét,
-- b) az ebtartó nyilatkozatát, hogy nem áll cselekvőképességet kizáró vagy korlátozó gondnokság alatt,
-- c) az eb tartási helyét (a település neve, kerület, házszám).
+- a) az eb tulajdonosának nevét és címét,
+- b) az eb felügyeletét ellátó természetes személy (a továbbiakban: ebtartó) nevét, születési helyét és idejét, lakcímét, telefonszámát, elektronikus levélcímét,
+- c) az eb tartási helyét (település, kerület, utca, házszám),
+- d) az eb fajtáját, születési idejét, nemét, színét, hívónevét,
+- e) a transzponder sorszámát,
+- f) az ivartalanítás időpontját,
+- g) az eb egyéb egyedi jellemzőit.
 
-24/D. § (1) Az állatvédelmi hatóság a veszélyes ebekről és a veszélyessé minősített ebekről nyilvántartást vezet, amely az alábbi adatokat tartalmazza:
+(2) Az állatvédelmi hatóság az (1) bekezdésben foglalt adatokról a veszélyes ebek hatékony azonosítása érdekében nyilvántartást vezet.
 
-- a) az ebtartó nevét, születési helyét és idejét, lakcímét,
-- b) az eb tartási helyét,
-- c) az eb fajtáját, születési idejét, nemét, színét, nevét, egyedi jelét (mikrochip számát) és marmagasságát,
-- d) az eb egyéb egyedi jellemzőit,
-- e) ivartalanított eb esetén az ivartalanítás időpontját.
+(3) Az (1) bekezdésben foglalt adatokat az eb elpusztulásától, elvesztésétől, valamint tulajdonosváltásától számított három évig kell nyilvántartani.
 
-(2) Az (1) bekezdésben foglalt adatokat az eb elpusztulásától, elvesztésétől, tulajdonosváltozásától számított három évig kell nyilvántartani.
+(4) Az ebet veszélyesnek minősítő állatvédelmi hatóság a veszélyesnek minősítés tényét 8 napon belül köteles bejelenteni a transzponderrel megjelölt ebek adatait nyilvántartó országos elektronikus adatbázis működtetőjének.
 
-24/E. § (1) Ha a veszélyes ebre vonatkozó ebtartás szabályait megszegik és emiatt az eb embernek vagy állatnak sérülést okoz, az állatvédelmi hatóság elrendeli az eb életének kioltását.
+24/C. § (1) Az állatvédelmi hatóság elrendeli az eb életének kioltását, amennyiben az halálos kimenetelű sérülést okoz embernek, és az ebek viselkedésének megítélésében jártas szakértő megállapítja, hogy az eb viselkedése egyértelműen a sérülés okozására irányult.
 
-(2) Ha a veszélyesnek minősített ebre vonatkozó ebtartás szabályait megszegik és emiatt az eb
+(2) Az (1) bekezdésben meghatározottakon túl az állatvédelmi hatóság elrendeli a veszélyes eb életének kioltását, amennyiben
 
-- a) embernek 8 napon belül gyógyuló sérülést vagy állatnak kisebb sérülést okoz, az eb ivartalanítását,
-- b) embernek vagy állatnak ismételten az a) pont szerinti sérülést okoz, vagy embernek 8 napon túl gyógyuló sérülést, illetve állatnak súlyos sérülést okoz, az eb életének kioltását
+- a) a veszélyesnek minősítő határozat jogerőre emelkedését követő 15 napon belül nem kérelmezik az eb tartásának engedélyezését,
+- b) a tartási engedélyében meghatározott biztonságos tartási feltételek az engedélyben előírt határidőig, de legkésőbb az engedély kiadásától számított 30. napig nem teljesülnek,
+- c) az eb ivartalanítása és transzponderrel való megjelölése a tartási engedély kiadásától számított 30 napon belül nem történik meg,
+- d) az eb a tartási engedélyben meghatározott biztonságos tartási feltételek teljesítéséig embernek fizikai sérülést okoz,
+- e) az ebre vonatkozó tartási szabályokat megszegik, és emiatt az eb embernek fizikai sérülést okoz,
+- f) az ebet az engedélyezett tartási helyen, és az ebtartó felügyeletén kívül fogják be második alkalommal, vagy
+- g) annak tulajdonosa vagy az ebtartó ellen indított büntető- vagy szabálysértési eljárás során az állatot jogerős határozattal elkobozzák.
 
-elrendeli az állatvédelmi hatóság.
+(3) Az állatvédelmi hatóság elrendelheti az eb életének kioltását, amennyiben az súlyos vagy maradandó sérülést okoz embernek, tartója 14 napon belül nem válik ismertté, viselkedésproblémáinak megfelelő kezelése nem biztosított, és az ebek viselkedésének megítélésében jártas szakértő megállapítja, hogy az eb viselkedése egyértelműen a sérülés okozására irányult.
 
-(3) A veszélyes vagy veszélyessé minősített eb tulajdonosa ellen indított büntető- vagy szabálysértési eljárás során jogerős határozattal elkobzott eb életének kioltását el kell rendelni.
+(4) Az állatvédelmi hatóság az eb azonnali elkobzását, elszállítását és megfelelő helyen való tartását, valamint transzponderrel való megjelölését
 
-(4) A jogerős határozattal elrendelt ivartalanítás, tartós egyedi azonosítás, továbbá a lefoglalás, az elkobzás és az eb élete kioltásának költségei az eb tulajdonosát terhelik.
+- a) rendelheti el, amennyiben az súlyos vagy maradandó kimenetelű sérülést okoz embernek;
+- b) rendeli el, amennyiben az halálos kimenetelű sérülést okoz embernek, vagy amennyiben az ebtartó veszélyes eb tartási engedélyét visszavonják.
+
+(5) A jogerős határozattal elrendelt ivartalanítás, transzponderrel történő megjelölés, elkobzás, szállítás, tartás és az eb élete kioltásának költségei az eb tulajdonosát terhelik.
+
+24/D. §
+
+24/E. §
 
 ### Az ország őshonos növény-, illetve állatvilágára ökológiai szempontból veszélyes állatokkal kapcsolatos tilalmak
 
@@ -406,7 +430,7 @@ teszi szükségessé.
 
 (5) Az állatotthonok létesítésére vonatkozó részletes szabályokat külön jogszabály állapítja meg.
 
-### VIII. Fejezet — AZ ÁLLATVÉDELMI FELADATOK PÉNZÜGYI FEDEZETE, AZ ÁLLATVÉDELMI BÍRSÁG
+### VIII. Fejezet — AZ ÁLLATVÉDELMI FELADATOK PÉNZÜGYI FEDEZETE, AZ EBNYILVÁNTARTÁS, AZ EBRENDÉSZETI HOZZÁJÁRULÁS, AZ ÁLLATVÉDELMI BÍRSÁG
 
 42. § (1) Az e törvény szerinti állami feladatok ellátásának, valamint az önkormányzati feladatok támogatásának állami pénzügyi forrásai:
 
@@ -416,15 +440,105 @@ teszi szükségessé.
 
 (2) Az állatok védelmével kapcsolatos feladatok ellátásához állatvédelmi hozzájárulást kell fizetni. Az állatvédelmi hozzájárulásra kötelezett termékek körét, a hozzájárulás mértékét, valamint fizetésének és felhasználásának szabályait külön törvény állapítja meg.
 
-43. § (1) Aki tevékenységével vagy mulasztásával az állatok védelmére, kíméletére vonatkozó jogszabály vagy hatósági határozat előírását megsérti, magatartásának súlyához, ismétlődéséhez igazodó mértékű állatvédelmi bírságot köteles fizetni. Állatvédelmi bírság kiszabása helyett, illetve azzal egyidejűleg az állattartót a hiányosságok kijavítására, illetve pótlására kell kötelezni.
+42/A. § (1) A transzponderrel megjelölt ebek adatait országos elektronikus adatbázisban (a továbbiakban: adatbázis) kell nyilvántartani az állat tartója és más személyek jogainak, személyi biztonságának és tulajdonának védelme céljából.
 
-(2) Az állatvédelmi bírságot az élelmiszerlánc-felügyeleti szerv szabja ki.
+(2) Az adatbázisba való regisztrációért e törvény végrehajtására kiadott jogszabályban meghatározott díjat kell fizetni, mely díj az adatbázis működtetőjének a bevétele. Az eb transzponderrel történő megjelöléséért legfeljebb 3500 Ft összeg kérhető az állat tartójától, amely magában foglalja a transzponder árát, a beültetés díját és az adatbázisba való regisztráció díját.
 
-(3) Az állatvédelmi bírság kiszabására az élelmiszerlánc-felügyeleti szervnek az (1) bekezdésben meghatározott magatartásról történt tudomásszerzését követő egy éven túl nincs lehetősége. Az elkövetéstől számított öt éven túl nem szabható ki bírság, kivéve, ha a magatartás jogszerűtlen állapot fenntartásával valósul meg. Ebben az esetben az elévülés mindaddig nem kezdődik meg, amíg a jogszerűtlen állapot fennáll.
+(3) Az (1) bekezdés szerinti adatbázist az élelmiszerlánc-felügyeleti szerv működteti.
+
+(4) Az adatbázisnak az alábbi adatokat kell tartalmaznia:
+
+- a) az eb tulajdonosának nevét, címét,
+- b) az ebtartó nevét, lakcímét, telefonszámát, elektronikus levélcímét,
+- c) az eb fajtáját, nemét, születési idejét, színét, hívónevét,
+- d) az eb tartási helyét,
+- e) a beültetett transzponder sorszámát, a beültetés időpontját, a beültetést végző magánállatorvos nevét, kamarai bélyegzője számát,
+- f) ivartalanított eb esetén az ivartalanítás időpontját, az ivartalanítást végző magánállatorvos nevét, kamarai bélyegzője számát,
+- g) az eb oltási könyvének számát, az azt kiadó magánállatorvos nevét, kamarai bélyegzője számát,
+- h) az eb veszettség elleni védőoltásainak időpontját,
+- i) az eb veszettség elleni védőoltásai során használt oltóanyagot, annak gyártási számát, valamint az oltást végző magánállatorvos nevét, kamarai bélyegzője számát,
+- j) a veszettség szempontjából aggályos eb megfigyelési státuszának tényét, időpontját,
+- k) kisállatútlevéllel rendelkező eb esetén az útlevél számát, kiállításának időpontját, a kiállító magánállatorvos nevét, kamarai bélyegzője számát,
+- l) az eb veszélyessé minősítésének tényére és időpontjára vonatkozó adatot.
+
+(5) Az adatbázis működtetője jogosult kezelni a (4) bekezdésben meghatározott adatokat.
+
+(6) Az eb tulajdonosa és tartója köteles a (4) bekezdés szerinti adatokat az eb transzponderrel történő megjelölését és regisztrációját végző állatorvos rendelkezésére bocsátani.
+
+(7) Az adatbázis működtetője biztosítja a (4) bekezdés c), h) és l) pontja szerinti adatokhoz való nyilvános hozzáférést az állatba ültetett transzponder sorszáma alapján.
+
+(8) Jogszabályban meghatározott közfeladat ellátása érdekében az adatbázis működtetője az adatbázishoz
+
+- a) hozzáférést biztosít a települési, fővárosban a kerületi önkormányzat részére,
+- b) hozzáférést biztosíthat bíróság, ügyészség, nyomozó hatóság és más közigazgatási szerv részére.
+
+(9) Az adatbázisban szereplő adatok tulajdonjogot nem igazolnak.
+
+42/B. § (1) A tartás helye szerint illetékes települési, fővárosban a kerületi önkormányzat ebrendészeti feladatainak elvégzése érdekében, illetve a veszettség elleni oltás járványvédelmi vonatkozásaira való tekintettel három évente legalább egy alkalommal ebösszeírást végez.
+
+(2) Az ebösszeírás során a települési, fővárosban a kerületi önkormányzat jogosult kezelni a 42/A. § (4) bekezdés szerinti adatokat.
+
+(3) A települési, fővárosban a kerületi önkormányzat az ebösszeírás alapján a (2) bekezdésben foglalt adatokról helyi elektronikus nyilvántartást vezet, az állat tulajdonosa, tartója és más személyek jogainak, személyes biztonságának és tulajdonának védelme, valamint ebrendészeti és állatvédelmi feladatainak hatékony ellátása céljából.
+
+(4) Az adatbázis működtetőjének kérésére a települési, fővárosban a kerületi önkormányzat, valamint a Magyar Állatorvosi Kamara köteles a nyilvántartott ebekről adatot szolgáltatni.
+
+(5) Az eb tulajdonosa és tartója az ebösszeíráskor köteles a (2) bekezdés szerinti adatokat a települési, fővárosban a kerületi önkormányzat rendelkezésére bocsátani.
+
+42/C. § (1) Az ebtartás helye szerint illetékes települési, fővárosban a kerületi önkormányzat az adott év első napjáig négy hónapos kort betöltött eb után az eb tulajdonosától évente ebrendészeti hozzájárulást szedhet be.
+
+(2) Az adott évi ebrendészeti hozzájárulás tekintetében az eb tulajdonosának az év első napján az oltási könyvben tulajdonosként feltüntetett természetes vagy jogi személyt, jogi személyiség nélküli szervezetet kell tekinteni.
+
+(3) Az éves ebrendészeti hozzájárulás mértékét a tartás helye szerint illetékes települési, fővárosban a kerületi önkormányzat
+
+- a) az eb tartási céljának,
+- b) az eb tartásának állatjóléti és ebrendészeti jellemzőinek (tartási hely típusa, mérete, tartott ebek száma),
+- c) az ebtartó szociális helyzetének figyelembe vételével állapítja meg, de az nem haladhatja meg ebenként veszélyes eb vonatkozásában a húszezer, más eb esetében a hatezer forintot.
+
+(4) Nem szedhető ebrendészeti hozzájárulás
+
+- a) a védett őshonos vagy veszélyeztetett, magas genetikai értéket képviselő tenyésztett magyar állatfajták nemzeti kinccsé nyilvánításáról szóló 32/2004. (IV. 19.) OGY határozat mellékletében felsorolt magyar kutyafajtákba tartozó törzskönyvezett,
+- b) a mentő-, jelző-, vakvezető, rokkantsegítő vagy terápiás,
+- c) a Magyar Honvédségben, rendvédelmi szervben, nemzetbiztonsági szolgálatban vagy közfeladatot ellátó őrszolgálatban alkalmazott,
+- d) – a veszélyes eb kivételével – az ivartalanított,
+- e) az ismert tartóval nem rendelkező és állatmenhelyen, ebrendészeti telepen vagy állatvédelmi szervezet gondozásában tartott, valamint
+- f) állatmenhelyről, ebrendészeti telepről vagy állatvédelmi szervezettől örökbefogadott
+
+eb után.
+
+(5) Az állatvédelmi szervezet gondozásában tartás tényét az állatvédelmi szervezet vezetője írásban igazolja.
+
+(6) Az állatmenhelyről, ebrendészeti telepről vagy állatvédelmi szervezettől történő örökbefogadás tényét az örökbeadó intézmény vagy szervezet vezetője írásban igazolja.
+
+(7) A települési, fővárosban a kerületi önkormányzat köteles a befolyt ebrendészeti hozzájárulás teljes összegét az ebek ivartalanításának támogatására, az állatmenhelyek és az ebrendészeti telepek fenntartására, állatvédelmi szervezetek támogatására, valamint az ebösszeírás vagy egyéb, az ebtartással kapcsolatos állatjóléti és közegészségügyi intézkedések finanszírozására fordítani.
+
+(8) A határidőre meg nem fizetett ebrendészeti hozzájárulás adók módjára behajtandó köztartozás.
+
+43. § (1) Aki tevékenységével vagy mulasztásával az állatok védelmére, kíméletére vonatkozó jogszabály vagy hatósági határozat előírását megsérti vagy annak nem tesz eleget, magatartásának súlyához, ismétlődéséhez, és különösen az állatnak okozott sérelem jellegéhez, időtartamához igazodó mértékű állatvédelmi bírságot köteles fizetni.
+
+(2) Az állatvédelmi bírságot az állatvédelmi hatóság szabja ki.
+
+(3) Az állatvédelmi bírság kiszabására az állatvédelmi hatóságnak az (1) bekezdésben meghatározott magatartásról történt tudomásszerzését követő egy éven túl nincs lehetősége. Az elkövetéstől számított öt éven túl nem szabható ki bírság, kivéve, ha a magatartás jogszerűtlen állapot fenntartásával valósul meg. Ebben az esetben az elévülés mindaddig nem kezdődik meg, amíg a jogszerűtlen állapot fennáll.
 
 (4) A bírság megfizetése nem mentesít más jogkövetkezmények alól.
 
 (5) Az állatvédelmi bírság mértékét, megállapításának módját, a kiszabására és felhasználására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+
+(6) Állatvédelmi bírság kiszabása helyett vagy azzal egyidejűleg az állattartót a hiányosságok kijavítására, pótlására kell kötelezni, továbbá az állatok gondozásával, a velük való helyes bánásmóddal kapcsolatos állatvédelmi oktatáson (a továbbiakban: állatvédelmi képzés) való részvételre kötelezhető.
+
+(7) Ha az állatvédelmi képzésen való részvételre kötelezett állattartó a kötelezettségének önként nem tesz eleget, az állatvédelmi képzés, illetőleg annak hátralévő része helyébe állatvédelmi bírság lép.
+
+(8) A határidőre meg nem fizetett állatvédelmi bírság adók módjára behajtandó köztartozás.
+
+(9) Ha kedvtelésből tartott állat tartója az állatok védelmére vonatkozó jogszabályok vagy hatósági határozat rendelkezésének szándékos vagy ismételt megsértésével állatának maradandó egészségkárosodását vagy elpusztulását okozza, és a kedvtelésből tartott vagy a jövőben tartandó állat jóléte állatvédelmi bírság kiszabásával és az állatvédelmi képzésen való részvételre kötelezéssel sem biztosítható, az állatvédelmi hatóság – állatvédelmi bírság kiszabása mellett – az állattartót állat kedvtelésből való tartásától a jogsértés súlyától függően 2–8 évre eltiltja.
+
+(10) Ha nem kedvtelésből tartott állat tartója az állatvédelemre vonatkozó jogszabályok vagy hatósági határozat rendelkezésének szándékos és ismételt megsértésével állatának maradandó egészségkárosodását vagy elpusztulását okozza, és a tartott vagy a jövőben tartandó állat jóléte állatvédelmi bírság kiszabásával és az állatvédelmi képzésen való részvételre kötelezéssel sem biztosítható, az állatvédelmi hatóság – állatvédelmi bírság kiszabása mellett – az állattartót az érintett állatfaj tartásától a jogsértés súlyától függően 2–8 évre eltiltja.
+
+(11) Ha nem kedvtelésből tartott állat tartója az állatvédelemre vonatkozó jogszabályok vagy hatósági határozat rendelkezéseinek szándékos vagy ismételt megsértésével állatának maradandó egészségkárosodását vagy elpusztulását okozza, és a tartott vagy a jövőben tartandó állat jóléte állatvédelmi bírság kiszabásával és az állatvédelmi képzésen való részvételre kötelezéssel sem biztosítható, az állatvédelmi hatóság – állatvédelmi bírság kiszabása mellett – az állattartót a jogsértés súlyától függően 2–8 évre
+
+- a) az állatok tartása, egészségi állapota tekintetében rendszeres jelentéstételre kötelezheti, vagy
+- b) az érintett állatfaj vonatkozásában tartási gyakorlattal rendelkező személy igénybevételére kötelezheti.
+
+(12) Ha az állattartó a (11) bekezdés szerinti kötelezettségeit megsérti, az állatvédelmi hatóság a (10) bekezdésben foglalt jogkövetkezményt alkalmazhatja.
 
 ### IX. Fejezet — AZ ÁLLATVÉDELMI OKTATÁS
 
@@ -449,13 +563,16 @@ teszi szükségessé.
 
 ### XI. Fejezet — Záró rendelkezések
 
-45. § (1) Az állatvédelmi hatóság köteles az állat életének fájdalom nélküli kioltásáról gondoskodni, ha annak továbbélése megszüntethetetlen vagy csillapíthatatlan szenvedéssel járna, az állat meggyógyulása nem várható, az állat tartója ismeretlen, továbbá vadon élő állat esetében az egyed a szabadon élésre alkalmatlan. Az állat életének kioltásával kapcsolatban felmerült igazolt költségeket – védett állatfaj esetében is – az állattartó, illetve vadászható állatfaj esetében a vadászatra jogosult köteles megtéríteni.
+45. § (1) Amennyiben az állat továbbélése megszüntethetetlen vagy csillapíthatatlan szenvedéssel járna és gyógyulása nem várható, továbbá
+
+- a) az állat tartója ismeretlen, vagy
+- b) vadon élő, nem vadászható állat esetében az egyed a szabadon élésre vagy fogságban tartásra alkalmatlan, az állatvédelmi hatóság köteles az állat életének fájdalom nélküli kioltásáról gondoskodni. Az állat életének kioltásával kapcsolatban felmerült igazolt költségeket a települési, fővárosban a kerületi önkormányzat köteles megtéríteni. Vadászható állatfaj esetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló, védett állatfaj esetében a természet védelméről szóló törvény szabályait kell alkalmazni.
 
 (2) Állat életének a kioltását az állat tulajdonosa, illetve a természetvédelmi hatóság kezdeményezheti.
 
 45/A. § Az e törvényben foglaltak végrehajtását – feladat- és hatáskörében eljárva – az állatvédelmi hatóság, az élelmiszerlánc-felügyeleti szerv, illetve a természetvédelmi hatóság ellenőrzi.
 
-45/B. § (1) Ha az állattartó az e törvényben, illetve a külön jogszabályban foglalt rendelkezéseket nem vagy nem megfelelően teljesíti és ez által az állat egészségét súlyosan veszélyezteti, az állatvédelmi hatóság az állat tulajdonosának költségére elrendelheti – a feltételek biztosításáig – az állat megfelelő helyre való szállítását és a várható tartási költségek tulajdonos általi megelőlegezését.
+45/B. § (1) Ha az állattartó az e törvényben, illetve a külön jogszabályban foglalt rendelkezéseket nem vagy nem megfelelően teljesíti és ez által az állat vagy ember egészségét súlyosan veszélyezteti, az állatvédelmi hatóság az állat tulajdonosának költségére elrendelheti – a feltételek biztosításáig – az állat megfelelő helyre való szállítását és a várható tartási költségek tulajdonos általi megelőlegezését.
 
 (2) Ha az állattartó az állatvédelmi hatóság által előírt időpontig gondoskodik a jogszabályszerű állattartási feltételek biztosításáról, úgy az (1) bekezdés szerint elszállított állatot részére vissza kell szolgáltatni, ellenkező esetben az állatvédelmi hatóság az állatot elkobozza. Az állatvédelmi hatóság gondoskodik az állat tulajdonjogának átruházásáról, ha ezt jogszabály kizárja vagy az eredménytelen, az állat végleges elhelyezéséről. Az állat a korábbi tulajdonosának, illetve korábbi tartási helyére nem adható ki. Ha az állat végleges elhelyezése csak rendszeres költségráfordítással biztosítható, a korábbi tulajdonos a jogsértés súlyától, ismétlődésétől függően legfeljebb 12 hónapra jutó költség fizetésére kötelezhető. Az elhelyezés eredménytelensége esetén – hat hónap elteltével – az állat életét megengedett módon ki lehet oltani.
 
@@ -493,21 +610,28 @@ teszi szükségessé.
 - d) az állatkísérletek végzésének részletes szabályait,
 - e) a cirkuszi menazséria létesítése és működtetése engedélyezésének, fenntartásának, valamint a nyilvántartás vezetésének részletes szabályait, továbbá a nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 - f) a kedvtelésből tartott állatok kereskedése létesítésének és működtetésének engedélyezésére, működésére vonatkozó szabályokat, a nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, a kereskedelmi hatóság kijelölését, valamint a kedvtelésből tartott állatok kereskedése működésének ellenőrzésére, továbbá a kedvtelésből tartott állatok tartására, forgalmazására és tulajdonjogának nem kereskedelmi célú átruházására vonatkozó részletes szabályokat,
-- g) a település belterületén a kóbor állatok befogásával, tulajdonjogának átruházásával és elhelyezésével kapcsolatos feladatok ellátásának részletes szabályait
+- g) a település belterületén a kóbor állatok befogásával, tulajdonjogának átruházásával és elhelyezésével kapcsolatos feladatok ellátásának részletes szabályait,
+- h) az eb okozta fizikai sérülés, illetve ennek veszélye keletkezésekor felmerülő hatósági feladatokat, valamint a veszélyesnek minősített eb tartásának és a tartás engedélyezésének részletes szabályait,
+- i) a transzponderrel megjelölt ebek adatait nyilvántartó országos adatbázis működési feltételeit, valamint az adatbázisba történő regisztráció díját,
+- j) az ebek viselkedésének megítélésében jártas szakértők engedélyezésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap
 
 - a) a miniszter, hogy a szakértői testület létrehozására, működtetésére vonatkozó részletes szabályokat, a mezőgazdasági haszonállatok sajátos tartási szabályait, a vágóállatok körét, az állatok levágásának és leölésének részletes szabályait,
-- b) a természetvédelemért felelős miniszter, hogy a miniszter és a rendészetért felelős miniszter egyetértésével a veszélyes állatok körét, tartásuk és szaporításuk részletes feltételeit, a veszélyes állattá nyilvánítás feltételeit, valamint az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
+- b) a természetvédelemért felelős miniszter, hogy a miniszter és a rendészetért felelős miniszter egyetértésével a veszélyes állatok körét, tartásuk és szaporításuk részletes feltételeit, a veszélyes állattá nyilvánítás feltételeit, a veszélyes vagy veszélyesnek nyilvánított állatok adatait nyilvántartó országos adatbázis működési feltételeit, valamint az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
 - c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állatok elkábítására szolgáló eszközök, lövedékek körét, az állatok elkábításának részletes szabályait,
 - d)
 - e) a miniszter, hogy a természetvédelemért felelős miniszterrel egyetértésben a kísérleti célú állattenyésztés, -tartás tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket
 - f) a miniszter, hogy az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás részletes szabályait,
-- g) a miniszter, hogy az Európai Gazdasági Térség más szerződő államaiban megszerzett, az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó képesítést igazoló bizonyítványok elismerésének feltételeit és rendjét
+- g) a miniszter, hogy az Európai Gazdasági Térség más szerződő államaiban megszerzett, az állatok tartása során alkalmazandó állatvédelmi előírásokra vonatkozó képesítést igazoló bizonyítványok elismerésének feltételeit és rendjét,
+- h) a miniszter, hogy a veszélyes eb tartása engedélyezésének igazgatási szolgáltatási díját, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
+- i) a miniszter, hogy a szőrméjükért tartott állatfajok körét, tartásuk, tenyésztésük és szaporításuk különleges szabályait
 
 rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a települési, fővárosban a kerületi önkormányzat képviselő-testülete, hogy az ebrendészeti hozzájárulás mértékét, kiszabásának feltételeit, a kedvezmények, mentességek körét, illetve a megfizetésének szabályait rendeletben határozza meg.
 
 50. § Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban – a végrehajtására kiadott jogszabályokkal együtt – az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
 
@@ -529,4 +653,8 @@ rendeletben állapítsa meg.
 
 – a Tanács 98/58/EK irányelve az állatok védelméről a mezőgazdasági haszonállattartás során,
 
-– a Tanács 99/22/EK irányelve a vadon élő állatok állatkertben való tartásáról.
+– a Tanács 99/22/EK irányelve a vadon élő állatok állatkertben való tartásáról,
+
+– az Európai Parlament és Tanács 1523/2007/EK rendelete a macska- és kutyaprém, valamint az ilyen prémet tartalmazó termékek forgalomba hozatalának, a Közösségbe történő behozatalának, illetve onnan történő kivitelének tilalmáról.
+
+51. § E törvény 42/C. § (4) bekezdésének a) pontja tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.

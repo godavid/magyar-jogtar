@@ -62,7 +62,7 @@ e) azon erők hosszabb távon történő fejlesztése, amelyek alkalmasabbak az 
 
 6. §
 
-7. § A Kormány a Keretdokumentum végrehajtása körében nemzetközi szerződéseket köt a Magyar Köztársaságban tartózkodó külföldi és a külföldön tartózkodó magyar fegyveres erők és tagjaik jogállásának, valamint a minősített katonai információk védelmének szabályozására.
+7. § A Kormány a Keretdokumentum végrehajtása körében nemzetközi szerződéseket köt a Magyarországon tartózkodó külföldi és a külföldön tartózkodó magyar fegyveres erők és tagjaik jogállásának, valamint a minősített katonai információk védelmének szabályozására.
 
 8. §
 

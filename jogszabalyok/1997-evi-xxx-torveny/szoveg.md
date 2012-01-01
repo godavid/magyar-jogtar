@@ -6,7 +6,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 ## I. RÉSZ — A TÖRVÉNY HATÁLYA
 
-1. § E törvény rendelkezéseit kell alkalmazni a Magyar Köztársaság területén alapított és működő jelzálog-hitelintézetre, valamint a jelzáloglevélre.
+1. § E törvény rendelkezéseit kell alkalmazni Magyarországon alapított és működő jelzálog-hitelintézetre, valamint a jelzáloglevélre.
 
 ## II. RÉSZ — JELZÁLOG-HITELINTÉZET
 
@@ -146,7 +146,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 11. § (1) A jelzáloglevél kizárólag a jelzálog-hitelintézet által e törvény alapján kibocsátott névre szóló, átruházható értékpapír.
 
-(2) A Magyar Köztársaság területén előállított jelzáloglevélre a kötvényről szóló jogszabály rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A Magyarország területén előállított jelzáloglevélre a kötvényről szóló jogszabály rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) A jelzáloglevélnek tartalmaznia kell:
 

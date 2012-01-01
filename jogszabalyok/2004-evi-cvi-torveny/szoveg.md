@@ -2,11 +2,11 @@
 
 a Kiváló Művész, az Érdemes Művész és a Népművészet Mestere járadékáról
 
-1. § (1) Az a személy, aki a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény hatálybalépése előtt a „Magyar Népköztársaság Kiváló Művésze”, a „Magyar Köztársaság Kiváló Művésze”, valamint a „Magyar Népköztársaság Érdemes Művésze”, a „Magyar Köztársaság Érdemes Művésze” kitüntető címben részesült, ha saját jogú nyugellátásban részesül – ideértve az egyes művészeti tevékenységet folytatók öregségi nyugdíját is –, vagy a reá irányadó öregségi nyugdíjkorhatárt elérte, kiváló, illetve érdemes művészi járadékra jogosult.
+1. § (1) Az a személy, aki a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény hatálybalépése előtt a „Magyar Népköztársaság Kiváló Művésze”, a „Magyar Köztársaság Kiváló Művésze”, valamint a „Magyar Népköztársaság Érdemes Művésze”, a „Magyar Köztársaság Érdemes Művésze” kitüntető címben részesült, ha saját jogú nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesül, vagy a reá irányadó öregségi nyugdíjkorhatárt elérte, kiváló, illetve érdemes művészi járadékra jogosult.
 
 (2) A „Magyar Népköztársaság Kiváló Művésze” és a „Magyar Köztársaság Kiváló Művésze” érdemes művészi járadékra nem jogosult.
 
-2. § Az a személy, aki e törvény hatálybalépése előtt a Népművészet Mestere kitüntető díjban részesült, ha saját jogú nyugellátásban részesül, vagy a reá irányadó öregségi nyugdíjkorhatárt elérte, a népművészet mestere járadékra jogosult.
+2. § Az a személy, aki e törvény hatálybalépése előtt a Népművészet Mestere kitüntető díjban részesült, ha saját jogú nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesül, vagy a reá irányadó öregségi nyugdíjkorhatárt elérte, a népművészet mestere járadékra jogosult.
 
 3. § A kitüntető cím vagy díj jogosultjának özvegye vagy élettársa a járadék fele részének megfelelő özvegyi járadékra jogosult, feltéve, hogy a reá irányadó öregségi nyugdíjkorhatárt elérte, továbbá a kitüntető díj jogosultjával halálakor, annak házastársaként vagy élettársaként közös háztartásban élt.
 

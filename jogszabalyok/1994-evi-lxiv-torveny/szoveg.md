@@ -15,11 +15,11 @@ a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormán
 
 (4) A polgármestert kérésére — foglalkoztatási jogviszonyának időtartamára — a megválasztásakor fennálló munkaviszonya, közalkalmazotti jogviszonya szerinti munkáltatója — közalkalmazottak esetében az intézményvezetői megbízás egyidejű visszavonásával — köteles fizetés nélküli szabadságban részesíteni. E rendelkezést a szövetkezet és tagja között létrejött munkaviszony jellegű jogviszonyra is alkalmazni kell.
 
-(5) Ha a polgármester megválasztása előtt ügyész, köztisztviselő, a Magyar Honvédség, a rendvédelmi szervek hivatásos állományú tagja volt, a polgármesteri tisztség megszűnésétől számított 30 napon belül benyújtott írásbeli kérelmére őt közszolgálati, illetve hivatásos szolgálati viszonyába vissza kell helyezni.
+(5) Ha a polgármester megválasztása előtt ügyész, köztisztviselő, a Magyar Honvédség, a rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja volt, a polgármesteri tisztség megszűnésétől számított 30 napon belül benyújtott írásbeli kérelmére őt közszolgálati, illetve hivatásos szolgálati viszonyába vissza kell helyezni.
 
 (6) A polgármesteri foglalkoztatási jogviszonyban töltött időtartam közszolgálati, illetve hivatásos szolgálati jogviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít.
 
-(7) A polgármester a megválasztását követően a képviselő-testület előtt a melléklet szerinti szöveggel esküt vagy fogadalmat tesz, és erről okmányt ír alá.
+(7)
 
 2. § (1) A polgármester e tisztsége megszűnik:
 
@@ -123,7 +123,7 @@ Szorzószám
 
 (3) A kedvezmények és juttatások csökkentése, illetőleg megvonása, valamint az illetménynek és tiszteletdíjnak a csökkentése egy évnél hosszabb időszakra nem vonatkozhat.
 
-7. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága és a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv jogosult.
+7. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága és a fővárosi és megyei kormányhivatal jogosult.
 
 (2) A fegyelmi eljárás során vizsgálatot kell tartani, amelynek lefolytatására a képviselő-testület tagjai közül háromtagú vizsgáló bizottságot kell megbízni. A száznál kevesebb lakosú községekben a fegyelmi vizsgálatot a képviselő-testület folytatja le.
 
@@ -162,19 +162,11 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 (4) Ahol jogszabály munkaviszonyt említ, ott — eltérő rendelkezés hiányában — a foglalkoztatási jogviszonyt is érteni kell.
 
-(5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv vezetője írja alá. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a munkaügyi bírósághoz fordulhat.
+(5) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a fővárosi és megyei kormányhivatal vezetője írja alá. A 2. § (5) bekezdése szerinti összeg akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén a polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, s a munkaköri átadás megtörtént. Vita esetén az érintett a munkaügyi bírósághoz fordulhat.
 
-13/A. § (1) Öregségi nyugdíjra jogosult az a polgármester – az egyéb jogosultsági feltételek esetén –, akinek a megbízatása a 2. § (1) bekezdés a) vagy c) pontja szerint szűnik meg, feltéve, hogy
+13/A. §
 
-- a) folyamatosan legalább három éve polgármesteri tisztséget tölt be, és a tisztségének megszűnését követő harmadik naptári év végéig a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny.) meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri,
-- b) két választási ciklus – de legalább hét év – során polgármesteri vagy alpolgármesteri tisztséget tölt be, és a tisztségének megszűnését követő ötödik naptári év végéig az a) pontban meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri,
-- c) három vagy ennél több választási ciklus – de legalább tizenegy év – során polgármesteri vagy alpolgármesteri tisztséget tölt be, és a tisztségének megszűnését követő hetedik naptári év végéig az a) pontban meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri.
-
-(2) Az (1) bekezdésben foglalt jogosultság igénybevételéről a polgármester a tisztségének megszűnésétől számított három hónapon belül dönthet.
-
-(3) Az (1) bekezdés szerinti nyugdíjkorhatár eléréséig a polgármester nyugdíjának megfelelő összeget a központi költségvetés biztosítja.
-
-13/B. § (1) Közszolgálati járadékra jogosult az a foglalkoztatási jogviszonyban álló polgármester, akinek a megbízatása a 2. § (1) bekezdés a) vagy c) pontja szerint szűnik meg, feltéve, hogy legalább három választási ciklus – de legalább tizenegy év – során foglalkoztatási jogviszonyban polgármesteri vagy foglalkoztatási jogviszonyban alpolgármesteri tisztséget tölt be, és a foglalkoztatási jogviszonyának megszűnését követő tizenkettedik naptári év végéig a Tny.-ben meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt eléri, s megfelel a Tny. egyéb jogosultsági feltételeinek.
+13/B. § (1) Közszolgálati járadékra jogosult az a foglalkoztatási jogviszonyban álló polgármester, akinek a megbízatása a 2. § (1) bekezdés a) vagy c) pontja szerint szűnik meg, feltéve, hogy legalább három választási ciklus – de legalább tizenegy év – során foglalkoztatási jogviszonyban polgármesteri vagy foglalkoztatási jogviszonyban alpolgármesteri tisztséget tölt be, és a foglalkoztatási jogviszonyának megszűnését követő tizenkettedik naptári év végéig a Tny.-ben meghatározott öregségi nyugdíjkorhatárt, eléri, s megfelel a Tny. egyéb jogosultsági feltételeinek, továbbá öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, rokkantsági ellátásban és rehabilitációs ellátásban nem részesül.
 
 (2) A közszolgálati járadék összege:
 
@@ -187,7 +179,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 (4) A közszolgálati járadék folyósítását meg kell szüntetni, ha a volt polgármester
 
 - a) bármilyen munkavégzésre irányuló jogviszonyt létesít, vagy
-- b) öregségi, rokkantsági (baleseti rokkantsági) nyugdíjban részesül.
+- b) öregségi nyugdíjban részesül.
 
 (5) Az (1) bekezdésben foglalt jogosultság igénybevételéről a polgármester a tisztségének megszűnésétől számított három hónapon belül dönthet.
 
@@ -243,16 +235,8 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 19. § (1) E törvény a helyi önkormányzati képviselők és polgármesterek 1994. évi általános választásának napján lép hatályba. Rendelkezéseit az 1994. évi önkormányzati általános választásokon és azt követő választásokon megválasztottakra kell alkalmazni.
 
-(2) Felhatalmazást kap a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszter, hogy a polgármester tisztségének megszűnése esetére a munkakör-átadási jegyzőkönyv tartalmára vonatkozó szabályokat rendeletben állapítsa meg.
+(2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy a polgármester tisztségének megszűnése esetére a munkakör-átadási jegyzőkönyv tartalmára vonatkozó szabályokat rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a Kormány, hogy a polgármester öregségi nyugdíja, valamint közszolgálati járadéka megállapításának és folyósításának részletes szabályait rendeletben állapítsa meg.
+(3) Felhatalmazást kap a Kormány, hogy a polgármester közszolgálati járadéka megállapításának és folyósításának részletes szabályait rendeletben állapítsa meg.
 
 ### Melléklet a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvényhez
-
-A polgármester esküjének és fogadalmának szövege
-
-„Én, (a polgármester neve) esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt a többi jogszabállyal együtt megtartom és megtartatom; a tudomásomra jutott titkot megőrzöm; (a tisztség megnevezése) tisztségemből eredő feladataimat a (megye/település/kerület) fejlődésének előmozdítása és az Alkotmány érvényesülése érdekében lelkiismeretesen teljesítem.
-
-(A megválasztott önkormányzati tisztségviselő meggyőződése szerint)
-
-Isten engem úgy segéljen!”

@@ -10,7 +10,7 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 
 7. § (1) A Tv. 2. §-a (1) bekezdésének c) és d) pontja, továbbá 3. §-a (1) bekezdésének c) pontja alapján lefolytatásra kerülő eljárásra az 1991. évi XXV. törvény 10–12. §-ában foglaltak az irányadók, a (2)–(8) bekezdésben meghatározott eltérésekkel.
 
-(2) Aki a Tv. 2. §-a (1) bekezdésének c) és d) pontja, illetőleg 3. §-a (1) bekezdésének c) pontja alapján jogosult kárpótlásra, e törvény hatálybalépésétől számított 4 hónapon belül a Központi Kárrendezési Irodához (a továbbiakban: KKI) nyújthatja be kárpótlás iránti kérelmét. A kérelmet első fokon a KKI bírálja el.
+(2) Aki a Tv. 2. §-a (1) bekezdésének c) és d) pontja, illetőleg 3. §-a (1) bekezdésének c) pontja alapján jogosult kárpótlásra, e törvény hatálybalépésétől számított 4 hónapon belül a kárpótlási hatósághoz nyújthatja be kárpótlás iránti kérelmét.
 
 (3) Ha a Tv. 3. §-a (1) bekezdésének c) pontja alapján kárpótlásra jogosult 1992. július 2-át követően meghalt, mielőtt e törvény szerint kérelmét benyújthatta volna, a jogosultnak járó kárpótlás megállapítását – a sérelmet szenvedett halála esetén túlélő házastárs (Tv. 5. §) hiányában – bármelyik örökös kérheti a (2) bekezdésben meghatározott határidőn belül.
 
@@ -23,6 +23,10 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 (7) A hivatalból indult eljárás ügyintézési határideje azonos a kérelemre indult eljáráséval, a határidő kezdete e törvény hatálybalépésének napja.
 
 (8) A KKI határozatának felülvizsgálata során eljáró bíróság illetékességére a Tv. 14. §-ának d) pontját kell alkalmazni.
+
+7/A. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését aközigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
+
+(2) Ha az eljárás során az ügyfél az eljárás jogerős befejezése előtt elhunyt, a jogutódlásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény jogutódlásra vonatkozó szabályait kell alkalmazni.
 
 ### Egyéb rendelkezések
 

@@ -8,7 +8,7 @@ a statisztikáról
 
 ### A törvény célja
 
-Stt.1. § A statisztika feladata és célja, hogy valósághű, tárgyilagos képet adjon a társadalom, a gazdaság, a tulajdonviszonyok, a környezet állapotáról és változásairól az államhatalmi és a közigazgatási szervek, valamint a társadalom szervezetei és tagjai számára. A cél elérése érdekében e törvény — összhangban a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvénnyel — az adatok statisztikai módszerekkel történő felvételét, feldolgozását, tárolását, átadását, átvételét, elemzését, szolgáltatását, közlését, valamint közzétételét (a továbbiakban: statisztikai tevékenység) szabályozza.
+Stt.1. § A statisztika feladata és célja, hogy valósághű, tárgyilagos képet adjon a társadalom, a gazdaság, a tulajdonviszonyok, a környezet állapotáról és változásairól az államhatalmi és a közigazgatási szervek, valamint a társadalom szervezetei és tagjai számára. A cél elérése érdekében e törvény az adatok statisztikai módszerekkel történő felvételét, feldolgozását, tárolását, átadását, átvételét, elemzését, szolgáltatását, közlését, valamint közzétételét (a továbbiakban: statisztikai tevékenység) szabályozza.
 
 ### A törvény hatálya
 
@@ -25,7 +25,7 @@ Stt.3. § (1) E törvényben meghatározott statisztikai tevékenység ellátás
 
 - a) a Központi Statisztikai Hivatal;
 - b) a minisztériumok és a Miniszterelnökség;
-- c) Az Országos Igazságszolgáltatási Tanács Hivatala,
+- c) Az Országos Bírósági Hivatal elnöke,
 - d) a Legfőbb Ügyészség;
 - e) a Magyar Nemzeti Bank;
 - f) a Gazdasági Versenyhivatal;
@@ -62,7 +62,7 @@ Stt.6. § (1) A KSH feladata:
 - g) más információrendszerek, a nyilvános, a közhitelű és egyéb nyilvántartások, valamint a hatósági ellenőrzési, gazdasági vagy egyéb tevékenységgel járó adatgyűjtések fogalmi és osztályozási rendszerének kialakításában való közreműködés;
 - h) az Országgyűlés és a Kormány évenkénti tájékoztatása az ország társadalmi, gazdasági, népesedési adatairól;
 - i) statisztikai adatok szolgáltatása az államhatalom és a közigazgatás szervei, az egyesületek, az érdekképviseletek, a helyi önkormányzatok, a köztestületek, a tudományos, a gazdasági szervezetek, a lakosság és a hírközlő szervek, valamint a nemzetközi szervezetek részére;
-- j) a Magyar Köztársaság Közigazgatási Helynévkönyvének vezetése, a Magyar Köztársaság Helységnévtárának kiadása;
+- j) a Magyarország Közigazgatási Helynévkönyvének vezetése, a Magyarország Helységnévtárának kiadása;
 - k) részvétel nemzetközi szervezetek statisztikai munkájában, valamint kapcsolattartás külföldi nemzeti statisztikai hivatalokkal;
 - l) kötelespéldányra jogosult országos feladatkörű tudományos szakkönyvtár fenntartása, üzemeltetése;
 - m) részvétel a statisztikával összefüggő jogszabályok előkészítésében.
@@ -93,7 +93,7 @@ Stt.7. § (1) A hivatalos statisztikai szolgálat működésének, munkája öss
 - b) a munkáltatók érdekképviseletei által kijelölt két, az országos gazdasági kamarák által kijelölt egy-egy, a munkavállalók érdekképviseletei által kijelölt egy, valamint a helyi önkormányzatok képviseletei által kijelölt három tag; c) a társadalombiztosítás szervei által kijelölt egy tag, továbbá
 - d) a tudományos élet képviselői közül, a Magyar Tudományos Akadémia Statisztikai Bizottsága által javasolt és a KSH elnöke által felkért legfeljebb öt szakember.
 
-(3) Az OST ülésein az adatvédelmi biztos állandó meghívottként vesz részt.
+(3) Az OST ülésein a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke állandó meghívottként vesz részt.
 
 (4) A tagokat és az elnököt határozott időtartamra a miniszterelnök bízza meg. A megbízásra az előterjesztést – a KSH elnökének javaslata alapján – a KSH felett felügyeletet gyakorló miniszter teszi meg.
 
@@ -235,9 +235,9 @@ Vhr.7. § (1) A helyi önkormányzatot terhelő adatszolgáltatás teljesítés�
 
 Stt.10. § (1) A népmozgalmi statisztika körében megfigyelésre kerül minden Magyarországon bekövetkezett születés, haláleset, házasságkötés, bejegyzett élettársi kapcsolat létesítése, élettársi nyilatkozat nyilvántartásba vétele, házasság felbontása, valamint érvénytelenné nyilvánítása, bejegyzett élettársi kapcsolat felbontása, megszüntetése, a nyilvántartott élettársi kapcsolat megszűnése (a továbbiakban együtt: népmozgalmi esemény), valamint lakcímváltozás.
 
-(2) A népmozgalmi események statisztikai felmérése céljából a KSH a következő személyes adatokat gyűjti: név, lakcím, állampolgárság, születési hely és idő, nem, családi állapot, iskolai végzettség, gazdasági aktivitás, foglalkozás, munkahely, gyermekek száma, a népmozgalmi eseménnyel összefüggő egészségi állapot, az anyakönyvezés helye, az anyakönyvi bejegyzés folyószáma, a népmozgalmi esemény és a kapcsolódó népmozgalmi események helye és ideje.
+(2) A népmozgalmi események statisztikai felmérése céljából a KSH a következő személyes adatokat gyűjti: név, lakcím, társadalombiztosítási azonosító jel, állampolgárság, születési hely és idő, nem, családi állapot, iskolai végzettség, gazdasági aktivitás, foglalkozás, munkahely, gyermekek száma, a népmozgalmi eseménnyel összefüggő egészségi állapot, az anyakönyvezés helye, az anyakönyvi bejegyzés folyószáma, a népmozgalmi esemény és a kapcsolódó népmozgalmi események helye és ideje.
 
-(3) A népmozgalmi eseménnyel, valamint a lakcímváltozással kapcsolatban gyűjtött adatok közül a nevet és a lakcímet az adatok teljessége és összefüggése ellenőrzésének befejezését követő nyolc napon belül törölni kell.
+(3) A népmozgalmi eseménnyel, valamint a lakcímváltozással kapcsolatban gyűjtött adatok közül a nevet, a lakcímet és a társadalombiztosítási azonosító jelet az adatok teljessége és összefüggése ellenőrzésének befejezését követő nyolc napon belül törölni kell.
 
 (4) A (2) bekezdés szerinti adatokat a népmozgalmi esemény helye szerint illetékes anyakönyvvezetők, egészségügyi szervek, bíróságok és a közjegyzők kötelesek szolgáltatni. A lakcím adatokat a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a reá vonatkozó szabályok szerint szolgáltatja.
 
@@ -313,7 +313,7 @@ Stt.19. § (1) A természetes személy személyére vonatkozó adatgyűjtésnél
 
 (2) Az (1) bekezdés szerinti adatokat érintő, egy évnél hosszabb időszakra vonatkozó idősoros vizsgálatok esetében az adatállományt belső azonosítóval kell ellátni, amelyből az érintett személyazonossága nem állapítható meg. Az érintett személyazonosító adatait az adatállománytól elkülönítetten kell kezelni. Az adatok feldolgozásáról, annak áttekinthetőségének biztosítására az adatkezelő részletes nyilvántartást vezet.
 
-(3) Új adatoknak az adatállományhoz csatolása, valamint az azonos célú statisztikai adatgyűjtés céljából történt mintavételes eljárás végrehajtásának idejére, a személyazonosító adatok az adatállománnyal ideiglenesen összekapcsolhatók. Az összekapcsolás szabályait az adatvédelmi biztos állásfoglalásának figyelembevételével kell meghatározni, és véleményezésre az OST elé kell terjeszteni.
+(3) Új adatoknak az adatállományhoz csatolása, valamint az azonos célú statisztikai adatgyűjtés céljából történt mintavételes eljárás végrehajtásának idejére, a személyazonosító adatok az adatállománnyal ideiglenesen összekapcsolhatók. Az összekapcsolás szabályait a Nemzeti Adatvédelmi és Információszabadság Hatóság állásfoglalásának figyelembevételével kell meghatározni, és véleményezésre az OST elé kell terjeszteni.
 
 (4) A (2) és (3) bekezdésben foglaltak külön törvény szerint alkalmazhatók a lakosság egészére kiterjedő adatszolgáltatásnál.
 
@@ -486,6 +486,8 @@ családi állapota:
 neve:
 
 születési ideje:
+
+társadalombiztosítási azonosító jele:
 
 lakcíme:
 

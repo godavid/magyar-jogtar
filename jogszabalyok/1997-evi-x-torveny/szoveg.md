@@ -6,9 +6,9 @@ A Párizsi Békeszerződésről szóló 1947. évi XVIII. törvény 27. Cikke 2.
 
 1. § (1) Felhatalmazást kap a Kormány, hogy a 89/1996. (X. 30.) OGY határozatban foglalt célra 4 milliárd forint címletértékű kárpótlási jegyet felhasználjon.
 
-(2) A kárpótlási jegyet az (1) bekezdésben meghatározott címletértékre egy példányban kiállítva, zárt sorozatjellel ellátva az Országos Kárrendezési és Kárpótlási Hivatal (a továbbiakban: OKKH) bocsátja ki, amelyen fel kell tüntetni, hogy az csak e törvény szerinti életjáradékra átváltva használható fel. A kárpótlási jegy címletét illetően az 1991. évi XXV. törvény 6. §-a (1) bekezdésének g) pontját nem kell alkalmazni.
+(2) A kárpótlási jegyet az (1) bekezdésben meghatározott címletértékre egy példányban kiállítva, zárt sorozatjellel ellátva a kárpótlási hatóság bocsátja ki, amelyen fel kell tüntetni, hogy az csak e törvény szerinti életjáradékra átváltva használható fel. A kárpótlási jegy címletét illetően az 1991. évi XXV. törvény 6. §-a (1) bekezdésének g) pontját nem kell alkalmazni.
 
-(3) Az (1) bekezdésben meghatározott címletértékű kárpótlási jegyet a teljes összegű átváltásig az OKKH őrzi, elszámolására, bevonására és megsemmisítésére, a többször módosított 104/1991. (VIII. 3.) Korm. rendelet 13/B. és 13/C. §-aiban foglalt rendelkezések az irányadók.
+(3) Az (1) bekezdésben meghatározott címletértékű kárpótlási jegyet a teljes összegű átváltásig a kárpótlási hatóság őrzi, elszámolására, bevonására és megsemmisítésére, a többször módosított 104/1991. (VIII. 3.) Korm. rendelet 13/B. és 13/C. §-aiban foglalt rendelkezések az irányadók.
 
 2. § (1) Az 1. § (1) bekezdésében írt kárpótlási jegy, illetve a helyébe lépő keret, amelynek fedezeti értéke 250 millió forint, annak az állandó jelleggel (életvitelszerűen) Magyarországon élő, magyar állampolgárnak javára váltható át életjáradékra, aki a Párizsi Békeszerződésről szóló 1947. évi XVIII. törvény 27. Cikkének 2. pontja szerint támogatásban részesíthető.
 
@@ -24,7 +24,7 @@ A Párizsi Békeszerződésről szóló 1947. évi XVIII. törvény 27. Cikke 2.
 
 3. § (1) A közalapítvány az életjáradékot megállapító döntésében azonos elvek szerint rendelkezik az életjáradék induló összegéről és az annak megfelelően átváltott kárpótlási jegy címletértékéről, illetőleg a 2. § (1) bekezdésében írt keretből való felhasználás mértékéről.
 
-(2) Az (1) bekezdés szerinti döntést meg kell küldeni a jogosultnak, a nyugdíjfolyósító szervnek és az OKKH-nak.
+(2) Az (1) bekezdés szerinti döntést meg kell küldeni a jogosultnak, a nyugdíjfolyósító szervnek és a kárpótlási hatóságnak.
 
 (3) A közalapítvány által megállapított életjáradékot a nyugdíjfolyósító szerv folyósítja.
 

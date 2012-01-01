@@ -109,7 +109,7 @@ Az Országgyűlés felismerve, hogy az emberek biztonságos élelmiszerrel tört
 
 (3) Aki az (1) bekezdés szerinti gombaszakellenőri tevékenységet kíván folytatni, köteles az erre irányuló szándékát az élelmiszerlánc-felügyeleti szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-8/B. § (1) Ionizáló energiával kezelt élelmiszert a Magyar Köztársaság területén első alkalommal forgalomba hozni az élelmiszerlánc-felügyeleti szerv engedélyével lehet.
+8/B. § (1) Ionizáló energiával kezelt élelmiszert Magyarország területén első alkalommal forgalomba hozni az élelmiszerlánc-felügyeleti szerv engedélyével lehet.
 
 (2) Az (1) bekezdést nem kell alkalmazni az Európai Unió valamely tagállamában (a továbbiakban: tagállam) vagy az Európai Gazdasági térség valamely szerződő államában jogszerűen forgalomba hozott termékre.
 
@@ -187,7 +187,7 @@ Az Országgyűlés felismerve, hogy az emberek biztonságos élelmiszerrel tört
 
 (2) Az élelmiszerlánc valamennyi szereplője köteles az (1) bekezdés szerinti dokumentációs rendszer adatait felhívásra az élelmiszerlánc-felügyeleti szerv rendelkezésére bocsátani az élelmiszer-biztonságot és azzal összefüggésben az állatvédelmet közvetlenül vagy közvetve befolyásoló veszélyelemzés és a nyomon követés biztosítása érdekében.
 
-(3) Az állatgyógyászati készítmény forgalomba hozója az e törvény végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást köteles vezetni, amely a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény hatálya alá tartozó adatkörben tartalmazza az állatgyógyászati készítmény beszállítójának és vevőjének nevét és címét.
+(3) Az állatgyógyászati készítmény forgalomba hozója az e törvény végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást köteles vezetni, amely az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben tartalmazza az állatgyógyászati készítmény beszállítójának és vevőjének nevét és címét.
 
 ### A termelő, a földhasználó és a növényvédőszer-engedély jogosultjának kötelezettségei
 
@@ -355,7 +355,7 @@ terheli.
 
 - a) ellátja a növényi károsítók előfordulásának, járványos fellépésének leküzdésével kapcsolatos, az e törvény végrehajtására kiadott jogszabályban meghatározott feladatokat;
 - b) az Európai Unió Bizottságánál kezdeményezi az állat- és növény-egészségügyi határállomások kijelölését;
-- c) kezdeményezheti rendkívüli élelmiszerlánc-események esetén a térítés ellenében történő közcélú munkavégzés, a létesítmény, a szállító-, növényvédő és más eszközök, valamint anyagok igénybevételének, továbbá a rendvédelmi szervek közreműködésének elrendelését;
+- c) kezdeményezheti rendkívüli élelmiszerlánc-események esetén a térítés ellenében történő közcélú munkavégzés, a létesítmény, a szállító-, növényvédő és más eszközök, valamint anyagok igénybevételének, továbbá a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal vámszerve közreműködésének elrendelését;
 - d) nagy nemzetgazdasági kárral fenyegető vagy közegészségügyi szempontból veszélyes állatbetegségek felszámolására állami pénzeszközökkel támogatott, az állatállományoknak a betegségtől való mentesítésére országos programot, valamint a betegség előfordulásának felmérésére ellenőrző, illetve monitoring-vizsgálati programot rendelhet el;
 - e) működteti a FAO/WHO Codex Alimentarius nemzeti rendszerét;
 - f) kiadja az élelmiszerkönyvi irányelveket, és gondoskodik a Magyar Élelmiszerkönyv összeállításáról és közzétételéről;
@@ -1028,15 +1028,15 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 
 (2) A forgalmazó által okozott hiba miatt kiszabott bírság a terméket a forgalmazónak kereskedelmi céllal értékesítő személyre (beszállító) nem hárítható át.
 
-(3) A bírságot és a késedelmi pótlékot adók módjára kell behajtani, amelyről az élelmiszerlánc-felügyeleti szerv megkeresésére az állami adóhatóság gondoskodik.
+(3)
 
 (4) Ha a jogi személyre, vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezet kötelezettségeiért a törvény alapján felel.
 
 (5) A bírság kiszabásáról rendelkező határozat fellebbezésre tekintet nélküli végrehajtása rendelhető el.
 
-(6) A bírság összegét az azt kiszabó szerv számlájára kell befizetni, amely annak saját bevétele.
+(6) A bírság összegét az azt kiszabó szerv számlájára kell befizetni.
 
-(7) A befolyt összeget az élelmiszerlánc-felügyeleti szerv – a miniszter engedélyével – kizárólag az állat-egészségügyi és élelmiszer-ellenőrző szolgálat, illetve a növény- és talajvédelmi szolgálat adott szakterülete ellenőrzésének és vizsgálati módszereinek folyamatos fejlesztésére, szakembereinek képzésére, valamint a 24. § (3) bekezdésében foglalt feladatok teljesítéséhez használhatja fel.
+(7)
 
 ### VII. Fejezet — KÖTELEZŐ ELŐÍRÁSOK ÉS AJÁNLOTT SZAKMAI IRÁNYELVEK GYŰJTEMÉNYEI
 
@@ -1078,7 +1078,7 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 
 ### Adatok nyilvánossága a növényvédő szer engedélyezés során
 
-70. § (1) A növényvédő szerrel kapcsolatos engedélyezési eljárások során a kérelmező által benyújtott – és a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény hatálya alá nem tartozó – adatok – a (2) bekezdésben meghatározott adatok kivételével – kizárólag az e törvény végrehajtására kiadott jogszabályban meghatározott védelmi idő lejártával és módon vagy az engedély iránti kérelmet elsőként benyújtó írásbeli hozzájárulásával használhatók fel.
+70. § (1) A növényvédő szerrel kapcsolatos engedélyezési eljárások során a kérelmező által benyújtott – és az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá nem tartozó – adatok – a (2) bekezdésben meghatározott adatok kivételével – kizárólag az e törvény végrehajtására kiadott jogszabályban meghatározott védelmi idő lejártával és módon vagy az engedély iránti kérelmet elsőként benyújtó írásbeli hozzájárulásával használhatók fel.
 
 (2) Közérdekből nyilvános, illetve közérdekű adat a növényvédő szerrel kapcsolatos engedélyezési eljárás során nyert vagy szolgáltatott alábbi adat:
 
@@ -1274,7 +1274,7 @@ E törvény alkalmazásában:
 - 6. állat-járványügy: a fertőzésközvetítő útján vagy egyéb módon terjesztett, állatra, vagy az emberre veszélyes kórokozó – a kizárólag emberről emberre terjedő kórokozók kivételével –, illetve az általa okozott betegség elleni védekezésre, annak felismerésére, felszámolására hozható intézkedések és azok végrehajtása;
 - 7. állatorvos: külön jogszabály szerinti állatorvosi oklevéllel rendelkező személy;
 - 8. állattartó: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) az állat ellátásáért és felügyeletéért felelős állandó vagy ideiglenes jelleggel, beleértve a szállítás, forgalomba hozatal alatti időszakot is;
-- 9. behozatal: áru harmadik országból a Magyar Köztársaság területére történő behozatala, beleértve az importot is;
+- 9. behozatal: áru harmadik országból Magyarország területére történő behozatala, beleértve az importot is;
 - 10. élelmiszer: az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, az Európai Parlament és a Tanács 2002. január 28-i 178/2002/EK rendelete (a továbbiakban: 178/2002/EK rendelet) 2. cikke szerinti fogalom;
 - 11. élelmiszer-biztonság: az élelmiszer emberi egészségre ártalmatlansága és emberi fogyasztásra alkalmassága a 178/2002/EK rendeletnek megfelelő fogalom;
 - 12. élelmiszer-higiénia: a 852/2004/EK rendelet 2. cikkének a) pontja szerinti fogalom;
@@ -1299,7 +1299,7 @@ E törvény alkalmazásában:
 - 30/A. gyógynövény termék: olyan vadon termett vagy termesztett – a Magyar Élelmiszerkönyvben gyógynövényként szereplő – növény vagy növény feldolgozásával előállított – külön jogszabály szerint gyógyszernek nem minősülő – előnyös élettani hatással rendelkező termék, amelyet emberi fogyasztásra szánnak, illetve amelyet várhatóan emberek fogyasztanak el;
 - 31. gyógyszeres takarmány: olyan takarmány, amely az állatgyógyászati készítményekre vonatkozó jogszabályokban meghatározott anyagot is tartalmaz;
 - 32. harmadik ország: az Európai Unión kívüli ország;
-- 33. import: áru harmadik országból a Magyar Köztársaság területére forgalomba hozatal céljából történő beszállítása;
+- 33. import: áru harmadik országból Magyarország területére forgalomba hozatal céljából történő beszállítása;
 - 34. integrált növényvédelem: biológiai, biotechnológiai, kémiai, termesztési vagy növénynemesítési intézkedések ésszerű alkalmazása, amelyek során a kémiai növényvédő szerek használata arra a szorosan vett legalacsonyabb értékre korlátozódik, amely a károsító populációnak egy gazdaságilag elfogadhatatlan kárt vagy veszteséget okozó szint alatt való tartásához szükséges;
 - 35. ivóvíz: a 852/2004/EK rendelet 2. cikkének g) pontja szerinti fogalom;
 - 36. járványos állatbetegség: állatról állatra terjedő fertőző állatbetegség;

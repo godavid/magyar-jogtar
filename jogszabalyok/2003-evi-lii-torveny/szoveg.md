@@ -28,7 +28,7 @@ Az Országgyűlés – felismerve, hogy a magas színvonalú növénytermesztés
   - c) továbbszaporítása során tulajdonságait változatlanul megőrzi, és ezáltal ugyanazon egységnek tekinthető.
 - 4. Oltalom alatt álló növényfajta: a nemzeti növényfajta-oltalomban, illetve a közösségi fajtaoltalomban részesített növényfajta.
 - 5. Állami fajtaelismerés: hivatalos vizsgálatok és eljárások rendszere, amelynek eredményeként a növényfajta, illetve a szőlő klón a Nemzeti Fajtajegyzékbe bejegyzésre kerül.
-- 6. Nemzeti Fajtajegyzék: a Magyar Köztársaságban állami elismerésben részesített fajták, valamint a szőlő klónok lényeges adatait tartalmazó, évente közzétett jegyzék.
+- 6. Nemzeti Fajtajegyzék: Magyarországon állami elismerésben részesített fajták, valamint a szőlő klónok lényeges adatait tartalmazó, évente közzétett jegyzék.
 - 7. Leíró Fajtajegyzék: a Nemzeti Fajtajegyzékben felsorolt egyes növényfajták leírását és lényeges jellemzőit tartalmazó jegyzék.
 - 8. Ajánlott Fajták Jegyzéke: a Nemzeti vagy a Közösségi Fajtajegyzékben felsorolt növényfajták közül a szakmai és civil szervezetek által szélesebb körű összehasonlító fajtavizsgálatok alapján meghatározott termőhelyre és termesztési célra javasolt növényfajták jegyzéke.
 - 9. Szállítói Fajtajegyzék: gyümölcs és dísznövény szaporítóanyag előállítók és forgalmazók által benyújtott fajtaleírás alapján a növénytermesztés biológiai alapjaival összefüggő feladatokat ellátó hatóságnál (a továbbiakban: növénytermesztési hatóság) vezetett és közzétett fajtajegyzék.
@@ -59,7 +59,7 @@ Az Országgyűlés – felismerve, hogy a magas színvonalú növénytermesztés
 - 30. Szaporítóanyag minősítés: hazai és nemzetközi előírások szerinti és a külön jogszabályban meghatározott módon, állami felügyelettel végzett ellenőrzési eljárás.
 - 31. Fémzárolás: a minősített szaporítóanyag-tétel csomagolási egységének oly módon történő lezárása fémzár vagy azt helyettesítő más anyag vagy módszer alkalmazásával, hogy a csomagolási egység megsértése nélkül a tételhez hozzáférni ne lehessen.
 - 32. Szaporítóanyag előállítási zárt körzet: a szaporítóanyag előállítás genetikai és növényegészségügyi tisztaságának megőrzése céljából e törvényben és külön jogszabályban előírt korlátozásokkal elrendelt termesztési körzet; ide tartoznak a külön jogszabályban meghatározott nagyságú törzsültetvények is.
-- 33. Céltermeltetés: tagállamokon kívüli ország természetes vagy jogi személyével, illetve jogi személyiség nélküli gazdasági társaságával kötött szerződés alapján a Magyar Köztársaság területén szaporítóanyag termesztése azzal a céllal, hogy az előállított szaporítóanyag teljes mennyiségét az Európai Unió területéről kiszállítsák.
+- 33. Céltermeltetés: tagállamokon kívüli ország természetes vagy jogi személyével, illetve jogi személyiség nélküli gazdasági társaságával kötött szerződés alapján Magyarország területén szaporítóanyag termesztése azzal a céllal, hogy az előállított szaporítóanyag teljes mennyiségét az Európai Unió területéről kiszállítsák.
 - 34. Védőtávolság:
   - a) elválasztó sáv: az a távolság, amely a vetőmag előállítás mechanikai keveredés-mentességét szolgálja,
   - b) izolációs távolság: az a távolság, amely az idegen beporzás-, valamint növényegészségügyi fertőzésmentes szaporítóanyag előállítást szolgálja.
@@ -76,7 +76,7 @@ Az Országgyűlés – felismerve, hogy a magas színvonalú növénytermesztés
 
 ### A növényfajták állami elismerése
 
-5. § (1) A Magyar Köztársaságban a Nemzeti Fajtajegyzékbe való felvétel céljából a külön jogszabályban felsorolt növényfajok fajtáit állami elismerésben kell részesíteni. Egyéb növényfajok fajtái esetében állami elismerés adható.
+5. § (1) Magyarországon a Nemzeti Fajtajegyzékbe való felvétel céljából a külön jogszabályban felsorolt növényfajok fajtáit állami elismerésben kell részesíteni. Egyéb növényfajok fajtái esetében állami elismerés adható.
 
 (2) Az állami elismerésre bejelentett növényfajta meghatározott ideig, legfeljebb az állami elismerés időpontjáig kaphat egyedi szaporítási engedélyt. Az engedély kiadásának feltételeit külön jogszabály határozza meg.
 
@@ -93,7 +93,7 @@ Az Országgyűlés – felismerve, hogy a magas színvonalú növénytermesztés
 
 (2) A növényfajta
 
-- a) megkülönböztethető, ha egy vagy több lényeges tulajdonsága tekintetében határozottan eltér minden más növényfajtától, melynek létezése közismert a bejelentés benyújtásának időpontjában; a növényfajta közismert, ha azt a Magyar Köztársaságban vagy valamely tagállamban nemzeti fajtajegyzékre vétel céljából bejelentették, vagy ha a bejelentés eredményeként nemzeti fajtajegyzékre vették, illetve a Közösségi Fajtajegyzékben szerepel,
+- a) megkülönböztethető, ha egy vagy több lényeges tulajdonsága tekintetében határozottan eltér minden más növényfajtától, melynek létezése közismert a bejelentés benyújtásának időpontjában; a növényfajta közismert, ha azt Magyarországon vagy valamely tagállamban nemzeti fajtajegyzékre vétel céljából bejelentették, vagy ha a bejelentés eredményeként nemzeti fajtajegyzékre vették, illetve a Közösségi Fajtajegyzékben szerepel,
 - b) egyöntetű (egynemű), ha a szaporítási sajátosságai következtében várható variabilitástól eltekintve megfelelően egységes a megkülönböztethetőség vizsgálata során értékelt, valamint a fajtaleírásban közzétett lényeges tulajdonságaiban,
 - c) állandó, ha a megkülönböztethetőség vizsgálata során értékelt, valamint a fajtaleírásban közzétett lényeges tulajdonságai változatlanok maradnak az ismételt szaporítást követően, vagy minden egyes szaporítási ciklus végén.
 
@@ -108,13 +108,13 @@ Az Országgyűlés – felismerve, hogy a magas színvonalú növénytermesztés
 (2) Bejelentést tehet
 
 - a) a nemesítő,
-- b) a Magyar Köztársaságban, az Európai Unióban, vagy valamely tagállamban nemzeti vagy közösségi növényfajta-oltalomban részesített növényfajta jogosultja, vagy a növényfajta-oltalomra bejelentett növényfajta igényjogosultja,
+- b) Magyarországon, az Európai Unióban, vagy valamely tagállamban nemzeti vagy közösségi növényfajta-oltalomban részesített növényfajta jogosultja, vagy a növényfajta-oltalomra bejelentett növényfajta igényjogosultja,
 - c) a fajtafenntartó.
 
 (3) Képviselő lehet
 
 - a) magyar természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság, vagy
-- b) más tagállam természetes vagy jogi személye, illetve jogi személyiség nélküli gazdasági társasága, akinek (amelynek) lakóhelye vagy székhelye a Magyar Köztársaság vagy valamely tagállam területén van.
+- b) más tagállam természetes vagy jogi személye, illetve jogi személyiség nélküli gazdasági társasága, akinek (amelynek) lakóhelye vagy székhelye Magyarország vagy valamely tagállam területén van.
 
 (4) Nem tagállam természetes vagy jogi személye, illetve jogi személyiség nélküli gazdasági társasága csak képviselő útján jelenthet be növényfajtát állami elismerésre.
 
@@ -122,7 +122,7 @@ Az Országgyűlés – felismerve, hogy a magas színvonalú növénytermesztés
 
 8. § A növényfajta állami elismerésre való bejelentésekor nyilatkozni kell arról, hogy a bejelentett növényfajta géntechnológiával módosított szervezet-e, és a módosítás milyen célra irányult. A géntechnológiával módosított növényfajták esetében a növénytermesztési hatóság csak a külön jogszabályban foglalt előírások teljesítését követően kezdheti meg a kísérleti vizsgálatokat.
 
-9. § (1) Az állami elismeréshez és a növényfajta-oltalomhoz szükséges vizsgálatok elvégzéséről a Magyar Köztársaságban a növénytermesztési hatóság gondoskodik. A növénytermesztési hatóság a DUS-vizsgálatok módszereit a vonatkozó nemzetközi előírások, a gazdasági értékvizsgálat módszereit pedig a minősítő intézet által az Európai Unió vonatkozó előírásai figyelembevételével kidolgozott és a Fajtaminősítő Bizottság által jóváhagyott módszer szerint határozza meg. Az egyes növényfajok fajtáinak állami elismeréséhez szükséges kísérleti vizsgálatok számát és időtartamát külön jogszabály határozza meg.
+9. § (1) Az állami elismeréshez és a növényfajta-oltalomhoz szükséges vizsgálatok elvégzéséről Magyarországon a növénytermesztési hatóság gondoskodik. A növénytermesztési hatóság a DUS-vizsgálatok módszereit a vonatkozó nemzetközi előírások, a gazdasági értékvizsgálat módszereit pedig a minősítő intézet által az Európai Unió vonatkozó előírásai figyelembevételével kidolgozott és a Fajtaminősítő Bizottság által jóváhagyott módszer szerint határozza meg. Az egyes növényfajok fajtáinak állami elismeréséhez szükséges kísérleti vizsgálatok számát és időtartamát külön jogszabály határozza meg.
 
 (2) Az állami elismerésre bejelentett növényfajta fajtavizsgálatának eredményeit a növénytermesztési hatóság a javaslatával együtt a ,,Fajtaminősítő Bizottság'' elé terjeszti.
 
@@ -169,7 +169,7 @@ Az Országgyűlés – felismerve, hogy a magas színvonalú növénytermesztés
 
 ### A szaporítóanyagok előállítása és forgalomba hozatala
 
-15. § (1) A Magyar Köztársaságban
+15. § (1) Magyarországon
 
 - a) a Nemzeti Fajtajegyzékben,
 - b) a Szállítói Fajtajegyzékben,
@@ -183,7 +183,7 @@ szereplő faj, növényfajta szaporítóanyagát szabad forgalomba hozatal célj
 
 (3) Ha jogszabály másként nem rendelkezik, az (1) bekezdés alá nem tartozó növényfajok, illetve -fajták szabadon előállíthatók, forgalomba hozhatók, továbbszaporíthatók és árutermesztésre, árutermesztő ültetvény létesítésére felhasználhatók.
 
-(4) A Magyar Köztársaság területén tilos szaporítóanyagként felhasználni céltermeltetésből bármilyen okból visszamaradt szaporítóanyagot.
+(4) Magyarország területén tilos szaporítóanyagként felhasználni céltermeltetésből bármilyen okból visszamaradt szaporítóanyagot.
 
 (5) Az oltalom alatt álló növényfajta szaporítóanyagát csak a 15. § (1) bekezdésében meghatározott feltételek szerint lehet termeszteni és forgalomba hozni.
 
@@ -201,9 +201,9 @@ szereplő faj, növényfajta szaporítóanyagát szabad forgalomba hozatal célj
 
 16. § (1) Az Európai Unióból történő kivitel (a továbbiakban: export) esetén csak a nemzetközi egyezmények, illetve az importáló ország előírásainak megfelelően ellenőrzött, a külön jogszabályban meghatározott kísérő okmánnyal rendelkező szaporítóanyag tétel mutatható be kiviteli ellenőrzésre.
 
-(2) A Magyar Köztársaság területén való felhasználás vagy forgalomba hozatal céljából szaporítóanyagnak a tagállamokon kívüli országból történő behozatala (a továbbiakban: import) a 15. § (1) bekezdésében, illetve (2) bekezdésében foglaltak betartása esetén megengedett. Az import okmányokhoz mellékelni kell az exportőr nyilatkozatát arról, hogy a szaporítóanyag géntechnológiával módosított-e.
+(2) Magyarország területén való felhasználás vagy forgalomba hozatal céljából szaporítóanyagnak a tagállamokon kívüli országból történő behozatala (a továbbiakban: import) a 15. § (1) bekezdésében, illetve (2) bekezdésében foglaltak betartása esetén megengedett. Az import okmányokhoz mellékelni kell az exportőr nyilatkozatát arról, hogy a szaporítóanyag géntechnológiával módosított-e.
 
-(3) Az importból származó szaporítóanyagot csak annak minősítését követően lehet szaporítóanyagként a Magyar Köztársaság területén forgalomba hozni és felhasználni.
+(3) Az importból származó szaporítóanyagot csak annak minősítését követően lehet szaporítóanyagként Magyarország területén forgalomba hozni és felhasználni.
 
 17. § Szaporítóanyag előállítására, termesztésére, feldolgozására, kiszerelésére, forgalomba hozatalára, illetve az ezekhez kapcsolódó tárolására a külön jogszabályban meghatározott személyi és tárgyi feltételekkel rendelkező, olyan természetes vagy jogi személy, illetve jogi személyiség nélküli gazdasági társaság jogosult, aki a termékpálya szerinti terméktanács tagja.
 
@@ -223,7 +223,7 @@ szereplő faj, növényfajta szaporítóanyagát szabad forgalomba hozatal célj
 
 19. § (1) Az állami elismerésben részesített szőlő-, gyümölcs-, fásszárú dísznövény- és erdészeti fajták minőségi szaporításának biztosítására törzskönyvezett növényállományt kell létrehozni. Ezeket törzskönyvezés céljából be kell jelenteni a növénytermesztési hatóságnak.
 
-(2) Aki a Magyar Köztársaság területén szőlő-, gyümölcs- és erdészeti fajta vetőmagját, vegetatív szaporító alapanyagát állítja elő, annak külön jogszabályban meghatározott feltételek szerint törzsültetvényt, illetve anyanövény-állományt kell létesítenie. A törzsültetvény létesítését a növénytermesztési hatóság engedélyezi.
+(2) Aki Magyarország területén szőlő-, gyümölcs- és erdészeti fajta vetőmagját, vegetatív szaporító alapanyagát állítja elő, annak külön jogszabályban meghatározott feltételek szerint törzsültetvényt, illetve anyanövény-állományt kell létesítenie. A törzsültetvény létesítését a növénytermesztési hatóság engedélyezi.
 
 (3) A központi és üzemi törzsültetvények fenntartását, ellenőrzési rendjét, azok szerepét a növényfajták szaporításában külön jogszabály szabályozza.
 
@@ -345,9 +345,9 @@ a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatár
 
 (2) A minőségvédelmi bírság mértékét külön jogszabály szerint kell megállapítani.
 
-(3) A minőségvédelmi bírságot a növénytermesztési hatóság előirányzat-felhasználási keretszámlájára kell befizetni. A befolyt összeget a miniszter döntése alapján a vizsgálati módszerek korszerűsítésére, a szaporítóanyagok minősítésének javítására, valamint a hatósági ellenőrzést elősegítő intézkedésekre lehet felhasználni.
+(3) A minőségvédelmi bírságot a növénytermesztési hatóság előirányzat-felhasználási keretszámlájára kell befizetni.
 
-(4) A bírságot és a késedelmi pótlékot adók módjára kell behajtani, amelyről az állami adóhatóság gondoskodik.
+(4)
 
 ### Záró rendelkezések
 

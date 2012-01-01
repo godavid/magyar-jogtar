@@ -44,7 +44,7 @@ a polgári perrendtartásról
 
 6. § (1) A bírósági eljárás nyelve a magyar. A magyar nyelv nem tudása miatt senkit hátrány nem érhet.
 
-(2) A bírósági eljárásban – nemzetközi egyezményben meghatározott körben – mindenki jogosult anyanyelvét, regionális vagy kisebbségi nyelvét használni.
+(2) A bírósági eljárásban – nemzetközi egyezményben meghatározott körben – mindenki jogosult anyanyelvét, regionális vagy nemzetiségi nyelvét használni.
 
 (3) A bíróság köteles tolmácsot alkalmazni, ha az az (1)–(2) bekezdésben foglalt elvek érvényesülése érdekében szükséges.
 
@@ -76,7 +76,7 @@ a polgári perrendtartásról
 
 (4) Abban a perben, amelynek megindítására külön törvény jogosítja fel az ügyészt, vagy amelyet ellene lehet indítani, az ügyész a fél jogait gyakorolja.
 
-(5) A pert az az ügyész indíthatja meg, illetve a perben az az ügyész léphet fel, aki a perre illetékes bíróság területén működik.
+(5) A bíróság előtt az ügyészségről szóló törvény szabályai szerint illetékes ügyész jár el.
 
 ### II. Fejezet — Bíróságok
 
@@ -84,17 +84,17 @@ a polgári perrendtartásról
 
 10. § (1) Első fokon ítélkeznek:
 
-a helyi bíróság (városi bíróság, kerületi bíróság) és a megyei bíróság (Fővárosi Bíróság).
+a helyi bíróság (városi bíróság, kerületi bíróság) és a törvényszék.
 
 (2) Másodfokon ítélkeznek:
 
-- a) a helyi bírósághoz (városi bírósághoz, kerületi bírósághoz) tartozó ügyekben a megyei bíróság (Fővárosi Bíróság),
-- b) a megyei bírósághoz (Fővárosi Bírósághoz) tartozó ügyekben az ítélőtábla,
-- c) az ítélőtáblához tartozó ügyekben (233/A. §), továbbá a 235. § (3) bekezdésében meghatározott esetben a Legfelsőbb Bíróság.
+- a) a helyi bírósághoz (városi bírósághoz, kerületi bírósághoz) tartozó ügyekben a törvényszék,
+- b) a törvényszékhez tartozó ügyekben az ítélőtábla,
+- c) az ítélőtáblához tartozó ügyekben (233/A. §), továbbá a 235. § (3) bekezdésében meghatározott esetben a Kúria.
 
-(3) Felülvizsgálati ügyekben a Legfelsőbb Bíróság jár el.
+(3) Felülvizsgálati ügyekben a Kúria jár el.
 
-(4) Ahol a törvény helyi bíróságról rendelkezik, ott ezen városi bíróságot és kerületi bíróságot, ahol pedig megyei bíróságról rendelkezik, ott ezen a Fővárosi Bíróságot is érteni kell.
+(4) Ahol a törvény helyi bíróságról rendelkezik, ott ezen városi bíróságot és kerületi bíróságot is érteni kell.
 
 ### A bíróságok összetétele
 
@@ -106,7 +106,7 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a megyei bír�
 
 (4) A másodfokon eljáró bírósági tanács három hivatásos bíróból áll.
 
-(5) A Legfelsőbb Bíróság a felülvizsgálati eljárás során három hivatásos bíróból álló tanácsban ítélkezik. Ha az ügy különös bonyolultsága indokolja, a Legfelsőbb Bíróság elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanácsban járjon el.
+(5) A Kúria a felülvizsgálati eljárás során három hivatásos bíróból álló tanácsban ítélkezik. Ha az ügy különös bonyolultsága indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanácsban járjon el.
 
 (6) Törvény indokolt esetben az eljáró bíróság összetételét az (1)–(5) bekezdésekben meghatározottaktól eltérően is megállapíthatja.
 
@@ -142,7 +142,7 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a megyei bír�
 
 (2) Az (1) bekezdés alkalmazásában hozzátartozó az egyeneságbeli rokon és annak házastársa, az örökbe fogadó és a nevelőszülő, az örökbe fogadott és a nevelt gyermek, a testvér, a házastárs a jegyes és az élettárs, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa.
 
-14. § A perben az a helyi bíróság, megyei bíróság, illetőleg ítélőtábla sem járhat el, amelynek vezetője a 13. § (1) bekezdésének a), b) vagy c) pontja értelmében ki van zárva.
+14. § A perben az a helyi bíróság, törvényszék, illetőleg ítélőtábla sem járhat el, amelynek vezetője a 13. § (1) bekezdésének a), b) vagy c) pontja értelmében ki van zárva.
 
 15. § (1) A per másodfokú elintézéséből ki van zárva az a bíró is, aki a per első fokú elintézésében részt vett.
 
@@ -160,7 +160,7 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a megyei bír�
 
 18. § (1) Ha a kizárás kérdését igazgatási ügykörben nem intézik el, a bíró kizárása felől ugyanannak a bíróságnak ugyanazon a fokon eljáró másik tanácsa tárgyaláson kívül is határozhat.
 
-(2) Ha ugyanannak a bíróságnak nincs olyan tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok a 14. § értelmében az egész bíróságra kiterjed, a kizárás kérdésében a másodfokú bíróság, a megyei bíróságot mint másodfokú bíróságot és a munkaügyi bíróságot érintő ok esetében az ítélőtábla, az ítélőtáblát mint másodfokú bíróságot érintő ok esetében a Legfelsőbb Bíróság határoz.
+(2) Ha ugyanannak a bíróságnak nincs olyan tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok a 14. § értelmében az egész bíróságra kiterjed, a kizárás kérdésében a másodfokú bíróság, a törvényszéket mint másodfokú bíróságot és a munkaügyi bíróságot érintő ok esetében az ítélőtábla, az ítélőtáblát mint másodfokú bíróságot érintő ok esetében a Kúria határoz.
 
 (3) Ha a bejelentést nem maga a bíró tette, nyilatkozatát döntés előtt be kell szerezni.
 
@@ -184,11 +184,11 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a megyei bír�
 
 ### Hatáskör
 
-22. § (1) A helyi bíróság hatáskörébe tartoznak mindazok a perek, amelyek elbírálását törvény nem utalja a megyei bíróságok hatáskörébe.
+22. § (1) A helyi bíróság hatáskörébe tartoznak mindazok a perek, amelyek elbírálását törvény nem utalja a törvényszék hatáskörébe.
 
 (2) A munkaügyi bíróság hatáskörébe tartoznak a 349. §-ban meghatározott munkaügyi perek.
 
-23. § (1) A megyei bíróság hatáskörébe tartoznak:
+23. § (1) A törvényszék hatáskörébe tartoznak:
 
 - a) azok a vagyonjogi perek, amelyek tárgyának értéke a tízmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
 - b) azok a perek, amelyeket a közigazgatási jogkörben eljáró személyek által hivatalos eljárásukban okozott károk megtérítése iránt indítanak;
@@ -201,7 +201,7 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a megyei bír�
   - ed) a cégek és tagjaik (volt tagjaik) közötti, illetve a tagok (volt tagok) egymás közti a tagsági jogviszonyon alapuló perek,
   - ee) a gazdasági társaságban történő befolyásszerzéssel kapcsolatos perek, továbbá
   - ef) a társaság tartozásaiért korlátozott felelősséggel tartozó tag (részvényes) felelősségének korlátlanná minősítése iránti perek;
-- f) a megyei bíróság által nyilvántartásba vett, cégnek nem minősülő szervezetekkel kapcsolatos perek közül:
+- f) a törvényszék által nyilvántartásba vett, cégnek nem minősülő szervezetekkel kapcsolatos perek közül:
   - fa) az ilyen szervezetek ellen a törvényességi felügyeletet gyakorló szerv által indított perek,
   - fb) az ilyen szervezetek és tagjaik (volt tagjaik) közötti, illetve a tagok (volt tagok) egymás közti a tagsági jogviszonyon alapuló perek;
 - g) a személyhez fűződő jogok megsértése miatt keletkezett polgári jogi igények érvényesítése iránt indított perek, ideértve az e jogok megsértése miatt indított kártérítési pereket is, ha az előbbiekkel együtt vagy azok folyamán indítják meg;
@@ -212,9 +212,9 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a megyei bír�
 - l) azok a megállapításra irányuló (123. §) perek, amelyek esetében a per tárgyának értéke – ha a marasztalás kérhető lenne – meghaladná az a) pontban meghatározott értéket;
 - m) a 2. § (3) bekezdésében meghatározott kártérítési perek;
 - n) az egészségügyi szolgáltatókkal kötött finanszírozási szerződésből eredő perek;
-- o) azok a perek, amelyeket törvény a megyei bíróság hatáskörébe utal.
+- o) azok a perek, amelyeket törvény a törvényszék hatáskörébe utal.
 
-(2) Ha valamelyik pertársra a megyei bíróságnak van hatásköre, a per a megyei bíróság hatáskörébe tartozik.
+(2) Ha valamelyik pertársra a törvényszéknek hatásköre, a per a törvényszék hatáskörébe tartozik.
 
 23/A. §
 
@@ -238,7 +238,7 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a megyei bír�
 
 (3) Ha egy vagy több felperes ugyanabban a keresetlevélben egy vagy több alperes elleni követeléseit érvényesíti, a pertárgy értékének megállapításánál az összes követeléseket össze kell adni.
 
-(4) A főkövetelés járulékai (kamat, költség stb.) az érték megállapításánál figyelmen kívül maradnak.
+(4) A főkövetelés járulékai (kamat, költség stb.) – kivéve az önállóan érvényesített kamat- és egyéb járulékkövetelést – az érték megállapításánál figyelmen kívül maradnak; a pertárgy értékébe a pénzkövetelés után járó, és azzal együtt érvényesített kamatkövetelés akkor sem számítandó be, ha e kamatköveteléssel egyidejűleg a kamatkövetelés után járó újabb kamatkövetelést is érvényesítenek.
 
 26. § A per tárgyának értékét, a 24–25. §-ok rendelkezéseinek megfelelően, a felperesnek kell megjelölnie; ha ez az érték a köztudomással vagy a bíróság hivatalos tudomásával ellenkezik, vagy egyébként valószínűtlen, úgyszintén, ha azt az alperes vitássá teszi, a per tárgyának értékét a bíróság határozza meg.
 
@@ -327,7 +327,7 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a megyei bír�
 
 (6) Vagyonjogi ügyek tekintetében a felek a felmerült jogvitájukra vagy a meghatározott jogviszonyból eredő jövőbeli jogvitájuk esetére nem köthetik ki
 
-- a) a megyei bíróság hatáskörébe tartozó ügyben a Fővárosi Bíróság és a Pest Megyei Bíróság;
+- a) a törvényszék hatáskörébe tartozó ügyben a Fővárosi Törvényszék és a Budapest Környéki Törvényszék;
 - b) a helyi bíróság hatáskörébe tartozó ügyben a Pesti Központi Kerületi Bíróság
 
 illetékességét.
@@ -352,15 +352,15 @@ illetékességét.
 
 (2) A kijelölés kérdésében
 
-- a) a megyei bíróság határoz, ha az összeütközés a területén levő helyi bíróságok között merült fel, valamint ha a területén levő helyi bíróság kizárása esetén a területén levő másik helyi bíróság kijelölhető;
-- b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén levő helyi, megyei, illetve munkaügyi bíróságok között merült fel, továbbá ha a területén levő helyi, megyei vagy munkaügyi bíróság kizárása esetén a területén levő másik helyi, megyei vagy munkaügyi bíróság kijelölhető;
-- c) az a) és b) pont alá nem tartozó esetekben a Legfelsőbb Bíróság dönt.
+- a) a törvényszék határoz, ha az összeütközés a területén levő helyi bíróságok között merült fel, valamint ha a területén levő helyi bíróság kizárása esetén a területén levő másik helyi bíróság kijelölhető;
+- b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén levő helyi bíróságok, törvényszékek illetve munkaügyi bíróságok között merült fel, továbbá ha a területén levő helyi bíróság, törvényszék vagy munkaügyi bíróság kizárása esetén a területén levő másik helyi bíróság, törvényszék vagy munkaügyi bíróság kijelölhető;
+- c) az a) és b) pont alá nem tartozó esetekben a Kúria dönt.
 
 46. § (1) Ha az illetékes bíróság nem állapítható meg, a fél a kijelölés iránti kérelmet bármelyik bíróságnál előterjesztheti; egyébként a kijelölés iránt a perben eljárt bíróság hivatalból köteles előterjesztést tenni.
 
 (2) A kijelölés tárgyában a bíróság a felek meghallgatása nélkül is határozhat.
 
-47. § (1) A Legfelsőbb Bíróság az Országos Igazságszolgáltatási Tanács elnökének indítványára az illetékes bíróság helyett más, azonos hatáskörű bíróságot jelöl ki az ügy vagy a bíróságra adott időszakban érkezett ügyek meghatározott csoportjának elbírálására, ha a bíróság rendkívüli munkaterhe miatt az ügyek ésszerű időn belül való elbírálása más módon nem biztosítható, és a kijelölés nem jár a kijelölt bíróság aránytalan megterhelésével.
+47. § (1) Az Országos Bírósági Hivatal elnöke az illetékes bíróság helyett más, azonos hatáskörű bíróságot jelöl ki az ügy vagy a bíróságra adott időszakban érkezett ügyek meghatározott csoportjának elbírálására, ha a bíróság rendkívüli munkaterhe miatt az ügyek ésszerű időn belül való elbírálása más módon nem biztosítható, és a kijelölés nem jár a kijelölt bíróság aránytalan megterhelésével.
 
 (2) Az e § szerinti kijelölésre a külön törvényekben szabályozott nemperes eljárásokban csak akkor kerülhet sor, ha külön törvény így rendelkezik.
 
@@ -471,8 +471,8 @@ illetékességét.
   - eb) a polgármesternek (főpolgármesternek, megyei közgyűlés elnökének, a kerületi hivatal vezetőjének) az őt e minőségében érintő pereiben: a helyi önkormányzat képviselő-testületének (közgyűlésének, a kerületi képviselő-testületnek) a tagja, a jegyző (főjegyző) és a polgármesteri hivatal (főpolgármesteri hivatal, megyei közgyűlés hivatala, kerületi hivatal) alkalmazottja;
   - ec) a jegyzőnek (főjegyzőnek) az őt e minőségében érintő pereiben: a polgármesteri hivatal (főpolgármesteri hivatal, megyei közgyűlés hivatala, kerületi hivatal) alkalmazottja;
   - ed) a helyi önkormányzat szerveinek, valamint e szervek vezetőinek az őket e minőségükben érintő pereiben: a szerv alkalmazottja, a jegyző (főjegyző) és a polgármesteri hivatal (főpolgármesteri hivatal, megyei közgyűlés hivatala, kerületi hivatal) alkalmazottja;
-  - ee) a kisebbségi önkormányzatnak, valamint annak vezetőjének az őt e minőségében érintő pereiben: a kisebbségi önkormányzat tagja, a kisebbségi önkormányzat szervének vezetője és alkalmazottja;
-  - ef) a kisebbségi önkormányzat szerveinek, valamint e szervek vezetőinek az őket e minőségükben érintő pereikben: a kisebbségi önkormányzat tagja, a kisebbségi önkormányzat szervének vezetője és alkalmazottja;
+  - ee) a nemzetiségi önkormányzatnak, valamint annak vezetőjének az őt e minőségében érintő pereiben: a nemzetiségi önkormányzat tagja, a nemzetiségi önkormányzat szervének vezetője és alkalmazottja;
+  - ef) a nemzetiségi önkormányzat szerveinek, valamint e szervek vezetőinek az őket e minőségükben érintő pereikben: a nemzetiségi önkormányzat tagja, a nemzetiségi önkormányzat szervének vezetője és alkalmazottja;
 - f) a szakszervezet a saját tagjának perében, valamint a külön jogszabályban meghatározott perekben;
 - g) az érdek-képviseleti célra alapított szervezet saját tagjának olyan perében, amelynek tárgya a szervezet alapszabályában meghatározott érdek-képviseleti célok körébe vonható;
 - h) a szövetkezet ügyintézésre jogosult tagja vagy alkalmazottja a szövetkezet pereiben;
@@ -481,7 +481,7 @@ illetékességét.
 
 (2) A perben a jogi személy és egyéb gazdálkodó szervezet jogtanácsosát (jogi előadóját) az ügyvéd jogállása illeti meg.
 
-(3) Ügyvédjelölt (jogi előadó) az ítélőtábla és a Legfelsőbb Bíróság előtt – a 119. §-ban szabályozott esetet kivéve – nem járhat el.
+(3) Ügyvédjelölt (jogi előadó) az ítélőtábla és a Kúria előtt – a 119. §-ban szabályozott esetet kivéve – nem járhat el.
 
 (4) Ha törvény másként nem rendelkezik, a törvényben szabályozott eljárásokban a jogi képviselet nem kötelező.
 
@@ -525,8 +525,8 @@ illetékességét.
 
 73/A. § (1) A jogi képviselet kötelező:
 
-- a) az ítélőtábla előtti eljárásban az ítélet, valamint az ügy érdemében hozott végzések ellen fellebbezést (csatlakozó fellebbezést), továbbá a Legfelsőbb Bíróság előtti eljárásban a 235. § (3) bekezdésében meghatározott fellebbezést (csatlakozó fellebbezést) és a felülvizsgálati kérelmet (csatlakozó felülvizsgálati kérelmet) előterjesztő fél számára,
-- b) a megyei bíróság elsőfokú hatáskörébe tartozó perekben, a per minden szakaszában, a jogorvoslati eljárás során is, kivéve
+- a) az ítélőtábla előtti eljárásban az ítélet, valamint az ügy érdemében hozott végzések ellen fellebbezést (csatlakozó fellebbezést), továbbá a Kúria előtti eljárásban a 235. § (3) bekezdésében meghatározott fellebbezést (csatlakozó fellebbezést) és a felülvizsgálati kérelmet (csatlakozó felülvizsgálati kérelmet) előterjesztő fél számára,
+- b) a törvényszék elsőfokú hatáskörébe tartozó perekben, a per minden szakaszában, a jogorvoslati eljárás során is, kivéve
   - ba) a 23. § (1) bekezdés a) pontjában meghatározott vagyonjogi perek közül azokat, melyekben a per tárgyának értéke a harmincmillió forintot nem haladja meg,
   - bb) a 23. § (1) bekezdés b), e) pontjának ec) alpontjában, f), g), i), j), m) és o) pontjában meghatározott pereket,
   - bc) a 23. § (1) bekezdés l) pontjában meghatározott megállapításra irányuló perek közül azokat, amelyek esetében a per tárgyának értéke – ha a marasztalás kérhető lenne – a harmincmillió forintot nem haladná meg,
@@ -744,7 +744,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (3) Ügyvédi képviselet esetében az ügyvédnek a beadvány minden példányát aláírásával kell ellátnia; egyébként a beadvány első példányát a 196. §-nak megfelelően kell kitölteni.
 
-94. § (1) A keresetet, valamint a per megindítását megelőző kérelmet az ügyvéd által nem képviselt fél bármely helyi bíróságnál vagy a perre illetékes megyei bíróságnál is jegyzőkönyvbe mondhatja. A felet ilyenkor a szükséges útbaigazítással is el kell látni, és az esetleges hiányok pótlására (95. §) nyomban fel kell hívni; ha a fél a hiányok pótlását figyelmeztetés ellenére is elmulasztja, a keresetet, illetőleg a kérelmet jegyzőkönyvbe kell foglalni.
+94. § (1) A keresetet, valamint a per megindítását megelőző kérelmet az ügyvéd által nem képviselt fél bármely helyi bíróságnál vagy a perre illetékes törvényszéknél is jegyzőkönyvbe mondhatja. A felet ilyenkor a szükséges útbaigazítással is el kell látni, és az esetleges hiányok pótlására (95. §) nyomban fel kell hívni; ha a fél a hiányok pótlását figyelmeztetés ellenére is elmulasztja, a keresetet, illetőleg a kérelmet jegyzőkönyvbe kell foglalni.
 
 (2) A jegyzőkönyvre a 93. § megfelelően irányadó.
 
@@ -869,7 +869,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (5) Hirdetményi kézbesítés esetében az iratot – amennyiben a bíróság másként nem rendelkezik – a bíróság hirdetőtábláján való kifüggesztéstől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
-(6) A hirdetményi kézbesítésről az eljáró bíróság számítógépes nyilvántartást vezet, amelyben rögzíti a bíróság nevét, az ügy számát, az utolsó ismert lakóhely (székhely) megjelölésével a fél nevét, akinek részére a kézbesítés hirdetmény útján történt, továbbá azt az okot, amelynek következtében a kézbesítés szükségessé vált, illetve a kézbesítés megtörténtére vonatkozó vélelem beálltának időpontját. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Igazságszolgáltatási Tanács Hivatala kezeli, az abban foglalt adatokról az Országos Igazságszolgáltatási Tanács Hivatala jogszabályban meghatározott költségtérítés ellenében a felvilágosítást kérő személyére vonatkozóan, kérelmére felvilágosítást ad.
+(6) A hirdetményi kézbesítésről az eljáró bíróság számítógépes nyilvántartást vezet, amelyben rögzíti a bíróság nevét, az ügy számát, az utolsó ismert lakóhely (székhely) megjelölésével a fél nevét, akinek részére a kézbesítés hirdetmény útján történt, továbbá azt az okot, amelynek következtében a kézbesítés szükségessé vált, illetve a kézbesítés megtörténtére vonatkozó vélelem beálltának időpontját. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Bírósági Hivatal elnöke kezeli, az abban foglalt adatokról az Országos Bírósági Hivatal elnöke jogszabályban meghatározott költségtérítés ellenében a felvilágosítást kérő személyére vonatkozóan, kérelmére felvilágosítást ad.
 
 (7) Más személy kérelmére felvilágosítás csak akkor adható, ha az bíróság, ügyészség, nemperes eljárást lefolytató közjegyző vagy közigazgatási szerv törvényben meghatározott feladatainak teljesítéséhez, illetve a felvilágosítást kérő személynek törvényben biztosított jogai gyakorlásához szükséges. A törvényes jogcímet valószínűsíteni kell. Ilyen esetben az adatszolgáltatás tényét a számítógépes rendszerben oly módon kell rögzíteni, hogy az adatszolgáltatás időpontja, jogcíme és az adat felhasználója megállapítható maradjon. A jogellenes adatkérés és felhasználás jogkövetkezményeit a felvilágosítást kérő viseli.
 
@@ -995,7 +995,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (2) Ha az ügyben eljáró bíróság a kifogást nem tartja alaposnak, a kifogást tartalmazó beadványt megküldi az ellenfél részére, aki észrevételeit a kézbesítéstől számított nyolc napon belül terjesztheti elő. A határidő elteltét követően a bíróság az iratokat – az esetleg benyújtott észrevételekkel együtt – nyolc napon belül felterjeszti a kifogás elbírálására hatáskörrel rendelkező bírósághoz. A felterjesztésben a bíróság számot ad arról, hogy a hiányolt eljárási cselekmény elvégzésére vagy határozat meghozatalára milyen okból nem került sor.
 
-(3) A helyi bíróság mulasztásával szemben benyújtott kifogást a megyei bíróság három hivatásos bíróból álló tanácsa, a megyei bíróság mulasztásával szemben benyújtott kifogást az ítélőtábla három hivatásos bíróból álló tanácsa, az ítélőtábla mulasztásával szemben benyújtott kifogást a Legfelsőbb Bíróság három hivatásos bíróból álló tanácsa, a Legfelsőbb Bíróság mulasztásával szemben benyújtott kifogást a Legfelsőbb Bíróság másik tanácsa az iratok felterjesztésétől számított tizenöt napon belül tárgyaláson kívül bírálja el.
+(3) A helyi bíróság mulasztásával szemben benyújtott kifogást a törvényszék három hivatásos bíróból álló tanácsa, a törvényszék mulasztásával szemben benyújtott kifogást az ítélőtábla három hivatásos bíróból álló tanácsa, az ítélőtábla mulasztásával szemben benyújtott kifogást a Kúria három hivatásos bíróból álló tanácsa, a Kúria mulasztásával szemben benyújtott kifogást a Kúria másik tanácsa az iratok felterjesztésétől számított tizenöt napon belül tárgyaláson kívül bírálja el.
 
 (4) Ha a kifogást elbíráló bíróság a kifogásban foglaltaknak helyt ad, a mulasztó bíróságot határidő tűzésével a 114/A. § (2) bekezdésének a) és c) pontjában foglalt esetekben az ügy továbbviteléhez szükséges intézkedés megtételére, a 114/A. § (2) bekezdésének b) pontjában foglalt esetben pedig az adott ügyben leghatékonyabb intézkedés foganatosítására hívja fel. A felhívásban – a 114/A. § (2) bekezdésének a) pontjában foglalt esetet kivéve – a kifogást elbíráló bíróság az eljáró bíróságot meghatározott eljárási cselekmény lefolytatására nem utasíthatja. A kifogás alaptalansága esetén azt indokolt határozattal elutasítja. A határozat ellen további jogorvoslatnak nincs helye.
 
@@ -1416,7 +1416,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 147. § (1) Az első fokú ítélet hozatalát megelőző tárgyalás berekesztéséig az alperes a felperes ellen viszontkeresetet indíthat, ha az ekként érvényesíteni kívánt jog a felperes keresetével azonos vagy azzal összefüggő jogviszonyból ered, vagy ha a viszontkereset tárgyául szolgáló követelés a felperes kereseti követelésével szemben beszámításra alkalmas. A bíróság érdemi tárgyalás nélkül végzéssel elutasíthatja a viszontkeresetet, ha nyilvánvaló, hogy a fél azt azért terjesztette elő késedelmesen, hogy a per befejezését hátráltassa.
 
-(2) A helyi bíróság előtt olyan viszontkeresetet, amely a követelés egész összegére tekintettel a megyei bíróság hatáskörébe tartoznék, csak akkor lehet indítani, ha e viszontkeresettel érvényesített követelés beszámításra is alkalmas, és a követelés összegének a felperes kereseti követelését meghaladó részére a helyi bíróságnak hatásköre van.
+(2) A helyi bíróság előtt olyan viszontkeresetet, amely a követelés egész összegére tekintettel a törvényszék hatáskörébe tartoznék, csak akkor lehet indítani, ha e viszontkeresettel érvényesített követelés beszámításra is alkalmas, és a követelés összegének a felperes kereseti követelését meghaladó részére a helyi bíróságnak hatásköre van.
 
 (3) Vagyonjogi perben a per bírósága a viszontkeresetre egyéb illetékességi ok hiányában is illetékes.
 
@@ -1446,7 +1446,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (2) A bíróság együttes tárgyalás és eldöntés végett elrendelheti az előtte folyamatban levő olyan perek egyesítését, amelyeknek tárgya egymással összefügg.
 
-(3) A gazdálkodó szervezetek egymás közötti pereiben az azonos hatáskörű helyi bíróságok előtt folyamatban lévő perek egyesítésének is helye van; a megyei (fővárosi) bíróság az előtte indított perhez a területén működő helyi bíróság előtt folyamatban lévő pert is egyesítheti. Ha az egyesítést több, azonos hatáskörű helyi bíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
+(3) A gazdálkodó szervezetek egymás közötti pereiben az azonos hatáskörű helyi bíróságok előtt folyamatban lévő perek egyesítésének is helye van; a törvényszék az előtte indított perhez a területén működő helyi bíróság előtt folyamatban lévő pert is egyesítheti. Ha az egyesítést több, azonos hatáskörű helyi bíróság is elrendelte, a továbbiakban az jár el, amely az egyesítésről korábban határozott.
 
 (4) A felek közösen előterjesztett kérelmére a bíróság – ha annak feltételei fennállnak – a pereket egyesíti. A kérelmet elutasító végzés ellen fellebbezésnek van helye. Ha a bíróság a felek kérelmére a pereket egyesítette, utóbb az egyesítést nem mellőzheti.
 
@@ -1489,6 +1489,24 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 (2) Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezéséről a bíróság végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti. A bíróság a végzésben meghatározza azt a kérdést, amely az Európai Bíróság előzetes döntését igényli, valamint – a feltett kérdés megválaszolásához szükséges mértékben – ismerteti a tényállást és az érintett magyar jogszabályokat. A bíróság végzését az Európai Bíróság számára való kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter részére is.
 
 (3) Az előzetes döntéshozatali eljárást kezdeményező végzés és az előzetes döntéshozatali eljárás kezdeményezésére irányuló kérelem elutasítása ellen nincs helye külön fellebbezésnek.
+
+### Az Alkotmánybíróság eljárásának kezdeményezése, továbbá a Kúria eljárásának kezdeményezése önkormányzati rendelet felülvizsgálata iránt
+
+155/B. § (1) A bíróság az Alkotmánybíróságnak a jogszabály, jogszabályi rendelkezés, közjogi szervezetszabályozó eszköz vagy jogegységi határozat alaptörvény-ellenességének megállapítására, továbbá nemzetközi szerződésbe ütközésének megállapítására irányuló eljárását az Alkotmánybíróságról szóló törvényben foglalt szabályok szerint hivatalból vagy kérelemre kezdeményezheti.
+
+(2) A bíróság (1) bekezdés szerinti eljárását az a fél vagy beavatkozó kezdeményezheti, aki szerint a folyamatban lévő ügyében alkalmazandó jogszabály alaptörvény-ellenes vagy nemzetközi szerződésbe ütközik.
+
+(3) Az Alkotmánybíróság eljárásának kezdeményezéséről a bíróság végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti.
+
+(4) Az Alkotmánybíróság eljárását kezdeményező és az eljárást felfüggesztő végzés, valamint az Alkotmánybíróság eljárásának kezdeményezésére irányuló kérelem elutasítása ellen nincs helye külön fellebbezésnek.
+
+155/C. § (1) A bíróság a Kúriának az önkormányzati rendelet felülvizsgálatára vonatkozó nemperes eljárását a bíróságok szervezetéről és igazgatásáról szóló törvényben foglalt szabályok szerint hivatalból vagy kérelemre kezdeményezheti.
+
+(2) A bíróság (1) bekezdés szerinti eljárását az a fél vagy beavatkozó kezdeményezheti, aki szerint a folyamatban lévő ügyében alkalmazandó önkormányzati rendelet jogszabályba ütközik.
+
+(3) A Kúria eljárásának kezdeményezéséről a bíróság végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti.
+
+(4) A Kúria eljárását kezdeményező és az eljárást felfüggesztő végzés, valamint a Kúria eljárásának kezdeményezésére irányuló kérelem elutasítása ellen nincs helye külön fellebbezésnek.
 
 ### Ideiglenes intézkedések
 
@@ -1758,7 +1776,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (4) Az (1) és (2) bekezdés alapján hozott határozat ellen, továbbá az olyan határozat ellen, amely az (1) és (2) bekezdés alapján hozott határozat hatályon kívül helyezése iránt előterjesztett kérelmet elutasítja, a tanú, illetve a szakértő fellebbezéssel élhet.
 
-(5) Ha a Magyar Honvédség vagy a rendvédelmi szervek tagjával szemben kellene pénzbírságot alkalmazni, vagy ilyen személy elővezetését kellene elrendelni, a fegyelmi eljárás lefolytatása végett a bíróság a tanú, illetőleg a szakértő elöljárójához fordul.
+(5) Ha a Magyar Honvédség vagy a rendvédelmi szervek tagjával, illetve a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjával szemben kellene pénzbírságot alkalmazni, vagy ilyen személy elővezetését kellene elrendelni, a fegyelmi eljárás lefolytatása végett a bíróság a tanú, illetőleg a szakértő elöljárójához fordul.
 
 ### A tanúk és a szakértők díjazása
 
@@ -1953,7 +1971,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 212. § (1) A bíróság a per érdemében ítélettel, a per során felmerült minden más kérdésben – ideértve a per megszüntetését is – végzéssel határoz.
 
-(2) A bíróság ítéletét „A Magyar Köztársaság nevében” hozza.
+(2)
 
 ### Ítélet
 
@@ -1967,7 +1985,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 214. § (1) A bíróság a határozatát – ha tanácsban jár el – zárt tanácskozás után szavazással hozza meg. Egyhangúság hiányában a határozatot szavazattöbbséggel dönti el.
 
-(2) A fiatalabb bíró az idősebbet megelőzően szavaz, az elnök utolsónak adja le szavazatát. A szavazásnál kisebbségben maradó bíró jogosult írásba foglalt különvéleményét zárt borítékban az okirathoz csatolni. A tanácskozásról készült jegyzőkönyvet és a különvéleményt csak a perorvoslat tárgyában eljáró bíróság, a fegyelmi eljárás kezdeményezésére jogosult személy, – fegyelmi eljárás során – a fegyelmi bíróság, valamint a Legfelsőbb Bíróság jogegységi eljárás kezdeményezésére jogosult, illetve a jogegységi eljárást lefolytató tanácsa tekintheti meg.
+(2) A fiatalabb bíró az idősebbet megelőzően szavaz, az elnök utolsónak adja le szavazatát. A szavazásnál kisebbségben maradó bíró jogosult írásba foglalt különvéleményét zárt borítékban az okirathoz csatolni. A tanácskozásról készült jegyzőkönyvet és a különvéleményt csak a perorvoslat tárgyában eljáró bíróság, a fegyelmi eljárás kezdeményezésére jogosult személy, – fegyelmi eljárás során – a fegyelmi bíróság, valamint a Kúria jogegységi eljárás kezdeményezésére jogosult, illetve a jogegységi eljárást lefolytató tanácsa tekintheti meg.
 
 ### Az érdemi döntés korlátai
 
@@ -2165,9 +2183,9 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (2) Ha a fellebbezés nem felel meg a törvény rendelkezéseinek, vagy más okból kiegészítésre vagy kijavításra szorul, a 95. §-ban az elnök hatáskörébe utalt intézkedéseket az első fokon eljárt tanács elnöke teszi meg.
 
-(3) Ha a határozatot első fokon a megyei bíróság hozta, a jogi képviselővel eljáró felek a határozat ellen benyújtott fellebbezéshez mellékelt közös kérelemben indítványozhatják, hogy az anyagi jogszabály megsértésére alapított fellebbezést közvetlenül a Legfelsőbb Bíróság bírálja el. Vagyonjogi ügyben a felek akkor indítványozhatják a Legfelsőbb Bíróság eljárását, ha a fellebbezésben vitatott érték (illetve annak a 24. § alapján megállapított értéke) az ötszázezer forintot meghaladja.
+(3) Ha a határozatot első fokon a törvényszék hozta, a jogi képviselővel eljáró felek a határozat ellen benyújtott fellebbezéshez mellékelt közös kérelemben indítványozhatják, hogy az anyagi jogszabály megsértésére alapított fellebbezést közvetlenül a Kúria bírálja el. Vagyonjogi ügyben a felek akkor indítványozhatják a Kúria eljárását, ha a fellebbezésben vitatott érték (illetve annak a 24. § alapján megállapított értéke) az ötszázezer forintot meghaladja.
 
-(4) A (3) bekezdésben meghatározott fellebbezésben új tényre, illetve új bizonyítékra hivatkozni nem lehet. A fellebbezés elbírálása tárgyaláson kívül, a felülvizsgálati eljárásra irányadó szabályok megfelelő alkalmazásával történik, így a fellebbezés elbírálása során a Legfelsőbb Bíróság a rendelkezésre álló iratok alapján dönt. A határozat ellen felülvizsgálatnak nincs helye.
+(4) A (3) bekezdésben meghatározott fellebbezésben új tényre, illetve új bizonyítékra hivatkozni nem lehet. A fellebbezés elbírálása tárgyaláson kívül, a felülvizsgálati eljárásra irányadó szabályok megfelelő alkalmazásával történik, így a fellebbezés elbírálása során a Kúria a rendelkezésre álló iratok alapján dönt. A határozat ellen felülvizsgálatnak nincs helye.
 
 236. § A fellebbezésnek a határozat végrehajtására halasztó hatálya van, kivéve ha a törvény vagy a törvény alapján a bíróság másként rendelkezik.
 
@@ -2243,7 +2261,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 249. § (1) A fellebbezési tárgyaláson előterjeszthető tényállítások és bizonyítási indítványok tekintetében a 235. § rendelkezései megfelelően irányadók.
 
-(2) Ha a másodfokú bíróság akár a fellebbezési (csatlakozó fellebbezési) kérelem vagy a fellebbezési ellenkérelem folytán, bizonyítást rendel el, ezt közvetlenül vagy megkeresés útján foganatosítja. Az eljárásra a 201. § azzal az eltéréssel irányadó, hogy az ítélőtábla a bizonyítási eljárás lefolytatása végett az elsőfokon eljárt megyei bíróságot, illetőleg ennek a székhelyén levő helyi bíróságot is megkeresheti.
+(2) Ha a másodfokú bíróság akár a fellebbezési (csatlakozó fellebbezési) kérelem vagy a fellebbezési ellenkérelem folytán, bizonyítást rendel el, ezt közvetlenül vagy megkeresés útján foganatosítja. Az eljárásra a 201. § azzal az eltéréssel irányadó, hogy az ítélőtábla a bizonyítási eljárás lefolytatása végett az elsőfokon eljárt törvényszéket, illetőleg ennek a székhelyén levő helyi bíróságot is megkeresheti.
 
 (3) Azokban az esetekben, amikor bizonyítást a törvény szerint az elsőfokú bíróság helyett az elnök is lefolytathat, a másodfokú bíróság a bizonyítás lefolytatásával a tanács bármely tagját megbízhatja.
 
@@ -2361,7 +2379,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 262. § Az ítélet elleni perújításra vonatkozó rendelkezések megfelelő alkalmazásával perújításnak a bíróság által jóváhagyott egyezség ellen is helye van, a 260. § (1) bekezdésének a) pontja alapján azonban csak akkor, ha a perújító fél a perújítás alapjául szolgáló tényről vagy bizonyítékról (ítéletről, határozatról) az egyezség megkötésekor nem tudott.
 
-262/A. § A jogerős ítélet ellen a Legfelsőbb Bíróság határozata alapján a XXIV. Fejezetben meghatározottak szerint perújításnak van helye, ha az Alkotmánybíróság az alkotmányellenessé nyilvánított jogszabálynak a konkrét esetben történő alkalmazhatósága visszamenőleges kizárásával ad helyt alkotmányjogi panasznak.
+262/A. § A jogerős ítélet ellen a Kúria határozata alapján a XXIV. Fejezetben meghatározottak szerint perújításnak van helye a 361. § a) pontja szerinti esetben.
 
 ### A perújítási kérelem előterjesztése és elbírálása
 
@@ -2393,9 +2411,9 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 ### XIV. Fejezet — Felülvizsgálat
 
-270. § (1) Ha törvény másként nem rendelkezik, a felülvizsgálati eljárás során a Legfelsőbb Bíróság az általános szabályok megfelelő alkalmazásával jár el.
+270. § (1) Ha törvény másként nem rendelkezik, a felülvizsgálati eljárás során a Kúria az általános szabályok megfelelő alkalmazásával jár el.
 
-(2) A jogerős ítélet vagy az ügy érdemében hozott jogerős végzés felülvizsgálatát a Legfelsőbb Bíróságtól – jogszabálysértésre hivatkozással – a fél, a beavatkozó, valamint a rendelkezés reá vonatkozó része ellen az kérheti, akire a határozat rendelkezést tartalmaz.
+(2) A jogerős ítélet vagy az ügy érdemében hozott jogerős végzés felülvizsgálatát a Kúriától – jogszabálysértésre hivatkozással – a fél, a beavatkozó, valamint a rendelkezés reá vonatkozó része ellen az kérheti, akire a határozat rendelkezést tartalmaz.
 
 (3) A (2) bekezdésben foglaltak megfelelő alkalmazásával van helye felülvizsgálati kérelemnek a keresetlevelet a 130. § (1) bekezdésének a)–h) pontjai alapján idézés kibocsátása nélkül elutasító és a pert a 157. § a) és g) pontja szerint megszüntető jogerős végzés ellen.
 
@@ -2405,7 +2423,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 - b) ha a fél a fellebbezési jogával nem élt és a másik fél fellebbezése alapján a másodfokú bíróság az elsőfokú határozatot helybenhagyta;
 - c) a jogerős határozatnak csupán a kamatfizetésre, illetve a perköltségre vonatkozó rendelkezései ellen, kivéve ha a fellebbezés is kizárólag az elsőfokú határozat e rendelkezései ellen irányult;
 - d) a jogerős határozatnak csupán a teljesítési határidőre, illetve a részletfizetésre vonatkozó rendelkezései ellen;
-- e) ha a határozatot a Legfelsőbb Bíróság hozta;
+- e) ha a határozatot a Kúria hozta;
 - f) a házasságot érvénytelenítő vagy felbontó ítélet ellen az érvénytelenítés vagy a felbontás kérdésében;
 - g) az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében –, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg, illetve ha a gyermek anyjának utólagos házasságkötése folytán az anya férjét kell a gyermek apjának tekinteni;
 - h) az egyezséget jóváhagyó végzés ellen;
@@ -2428,25 +2446,25 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (3) A felülvizsgálati kérelemhez – ha arra korábban nem került sor – csatolni kell a jogi képviselő meghatalmazását is.
 
-(4) Ha a felülvizsgálati kérelem benyújtására nyitva álló határidő valamennyi féllel szemben lejárt, illetve ha a felülvizsgálati kérelmet valamennyi fél benyújtotta, az elsőfokú határozatot hozó bíróság azt az ügy irataival együtt haladéktalanul felterjeszti a Legfelsőbb Bírósághoz, a jogerős határozatot hozó bíróságot pedig a felülvizsgálati kérelem másolatának megküldésével értesíti az eljárás megindításáról. Ha a végrehajtás elrendelése már megtörtént, illetve ha végrehajtás felfüggesztése iránti kérelmet terjesztettek elő, a felülvizsgálati kérelmet a beérkezését követően haladéktalanul fel kell terjeszteni.
+(4) Ha a felülvizsgálati kérelem benyújtására nyitva álló határidő valamennyi féllel szemben lejárt, illetve ha a felülvizsgálati kérelmet valamennyi fél benyújtotta, az elsőfokú határozatot hozó bíróság azt az ügy irataival együtt haladéktalanul felterjeszti a Kúriához, a jogerős határozatot hozó bíróságot pedig a felülvizsgálati kérelem másolatának megküldésével értesíti az eljárás megindításáról. Ha a végrehajtás elrendelése már megtörtént, illetve ha végrehajtás felfüggesztése iránti kérelmet terjesztettek elő, a felülvizsgálati kérelmet a beérkezését követően haladéktalanul fel kell terjeszteni.
 
-273. § (1) A Legfelsőbb Bíróság a jogi képviselő által előterjesztett felülvizsgálati kérelmet hivatalból elutasítja, ha az nem felel meg a 272. § (2) bekezdésében előírtaknak, vagy ha ennek megfelelő kiegészítése a kérelem benyújtására biztosított törvényes határidőn belül nem történt meg.
+273. § (1) A Kúria a jogi képviselő által előterjesztett felülvizsgálati kérelmet hivatalból elutasítja, ha az nem felel meg a 272. § (2) bekezdésében előírtaknak, vagy ha ennek megfelelő kiegészítése a kérelem benyújtására biztosított törvényes határidőn belül nem történt meg.
 
-(2) A felülvizsgálati kérelmet a Legfelsőbb Bíróság az eljárás bármely szakában akkor is hivatalból elutasítja, ha
+(2) A felülvizsgálati kérelmet a Kúria az eljárás bármely szakában akkor is hivatalból elutasítja, ha
 
 - a) felülvizsgálati kérelemnek nincs helye,
 - b) azt nem az arra jogosult nyújtotta be, vagy
 - c) a kérelmet előterjesztő fél megadott lakóhelyéről (székhelyéről) nem idézhető, illetve onnan ismeretlen helyre költözött.
 
-(3) A felülvizsgálati kérelem benyújtásának a határozat végrehajtására nincs halasztó hatálya, de a határozat végrehajtását a Legfelsőbb Bíróság kérelemre kivételesen felfüggesztheti. A végrehajtás felfüggesztéséről szóló végzés meghozatala során a bíróságnak különösen arra kell figyelemmel lennie, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajtás felfüggesztésének elmaradása járna. A fél kérelmére – ha annak jogszabályi feltételei fennállnak – a felülvizsgálati kérelem benyújtásáról a Legfelsőbb Bíróság értesíti az ingatlanügyi hatóságot.
+(3) A felülvizsgálati kérelem benyújtásának a határozat végrehajtására nincs halasztó hatálya, de a határozat végrehajtását a Kúria kérelemre kivételesen felfüggesztheti. A végrehajtás felfüggesztéséről szóló végzés meghozatala során a bíróságnak különösen arra kell figyelemmel lennie, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajtás felfüggesztésének elmaradása járna. A fél kérelmére – ha annak jogszabályi feltételei fennállnak – a felülvizsgálati kérelem benyújtásáról a Kúria értesíti az ingatlanügyi hatóságot.
 
-(4) Közbenső ítélet elleni felülvizsgálati kérelem esetében – ha annak sikere valószínűnek mutatkozik – a Legfelsőbb Bíróság a per tárgyalásának folytatását hivatalból is felfüggesztheti. A bíróság a felfüggesztés tárgyában hozott határozatát utóbb megváltoztathatja.
+(4) Közbenső ítélet elleni felülvizsgálati kérelem esetében – ha annak sikere valószínűnek mutatkozik – a Kúria a per tárgyalásának folytatását hivatalból is felfüggesztheti. A bíróság a felfüggesztés tárgyában hozott határozatát utóbb megváltoztathatja.
 
-(5) A felülvizsgálati kérelmet nem lehet megváltoztatni; a kérelem mindaddig visszavonható, amíg a Legfelsőbb Bíróság a határozatát meg nem hozta, illetve – tárgyalás tartása esetén – a határozathozatal céljából vissza nem vonult. Az ezzel kapcsolatban felmerült költségek viseléséről a Legfelsőbb Bíróság határoz.
+(5) A felülvizsgálati kérelmet nem lehet megváltoztatni; a kérelem mindaddig visszavonható, amíg a Kúria a határozatát meg nem hozta, illetve – tárgyalás tartása esetén – a határozathozatal céljából vissza nem vonult. Az ezzel kapcsolatban felmerült költségek viseléséről a Kúria határoz.
 
 (6) A csatlakozó felülvizsgálati kérelem és az ellenkérelem előterjesztésére a 244. § és a 257. § rendelkezéseit megfelelően alkalmazni kell. Csatlakozó felülvizsgálati kérelmet a fél csak akkor terjeszthet elő, ha maga is jogosult lett volna felülvizsgálatot kérni.
 
-274. § (1) A Legfelsőbb Bíróság a felülvizsgálati kérelmet tárgyaláson kívül bírálja el, kivéve ha a felek bármelyike tárgyalás tartását kéri, vagy a Legfelsőbb Bíróság a tárgyaláson való elbírálást szükségesnek tartja. Végzés ellen benyújtott felülvizsgálati kérelem esetében tárgyalás tartása nem kérhető.
+274. § (1) A Kúria a felülvizsgálati kérelmet tárgyaláson kívül bírálja el, kivéve ha a felek bármelyike tárgyalás tartását kéri, vagy a Kúria a tárgyaláson való elbírálást szükségesnek tartja. Végzés ellen benyújtott felülvizsgálati kérelem esetében tárgyalás tartása nem kérhető.
 
 (2) Tárgyalás tartását a felülvizsgálati kérelmet előterjesztő fél a felülvizsgálati kérelmében, illetve az ellenfél csatlakozó felülvizsgálati kérelmének kézhezvételétől számított nyolc napon belül, az ellenfél pedig a felülvizsgálati kérelem kézhezvételétől számított nyolc napon belül kérheti. A határidő elmulasztása miatt igazolásnak nincs helye.
 
@@ -2456,19 +2474,25 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (5) Ha a felülvizsgálati kérelem elbírálása során az eljáró tanács jogegységi eljárást kezdeményez [Bsz. 29. § (2) bekezdés b) pont], ezzel egyidejűleg az ügy elbírálását a jogegységi eljárás befejezéséig felfüggeszti. A jogegységi eljárás befejezése után a bíróság a jogkérdést elvi jelleggel eldöntő jogegységi határozatnak megfelelő határozatot hoz.
 
-275. § (1) A felülvizsgálati eljárásban bizonyítás felvételének helye nincs. A Legfelsőbb Bíróság a felülvizsgálati kérelem elbírálása során a rendelkezésre álló iratok alapján dönt.
+(6) A tanács elnöke jogkérdésben az iratok megküldése mellett, határidő tűzésével a legfőbb ügyészt álláspontjának kifejtésére hívhatja fel.
 
-(2) A Legfelsőbb Bíróság a jogerős határozatot csak a felülvizsgálati kérelem és a csatlakozó felülvizsgálati kérelem keretei között vizsgálhatja felül, kivéve, ha a pert hivatalból megszünteti, vagy ha a határozatot hozó bíróság nem volt szabályszerűen megalakítva, illetve a határozat meghozatalában olyan bíró vett részt, akivel szemben a törvény értelmében kizáró ok áll fenn.
+(7) A legfőbb ügyész álláspontját a felekkel közölni kell, és arra a tanács elnöke által tűzött határidőn belül észrevételt tehetnek. Ezt a szabályt kell alkalmazni akkor is, ha a legfőbb ügyész nem a tanács elnökének kezdeményezésére fejti ki álláspontját.
 
-(3) Ha a felülvizsgálni kért határozat a jogszabályoknak megfelel, vagy olyan eljárási szabálysértés történt, amelynek az ügy érdemi elbírálására lényeges kihatása nem volt, a Legfelsőbb Bíróság a megtámadott határozatot hatályában fenntartja.
+(8) Abban az eljárásban, amelyben a legfőbb ügyész álláspontját kifejtette, részére a Kúria felülvizsgálati határozatát meg kell küldeni.
 
-(4) Ha a határozat – a (3) bekezdésben foglalt eljárási szabály megsértésének kivételével – jogszabályt sért, a Legfelsőbb Bíróság a jogszabálysértő határozatot egészben vagy részben hatályon kívül helyezi, és ha a döntéshez szükséges tények megállapíthatók, helyette a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
+275. § (1) A felülvizsgálati eljárásban bizonyítás felvételének helye nincs. A Kúria a felülvizsgálati kérelem elbírálása során a rendelkezésre álló iratok alapján dönt.
 
-(5) Ha a Legfelsőbb Bíróság az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja, a hatályon kívül helyező végzésben az új eljárás lefolytatására vonatkozóan kötelező utasításokat ad. Ebben az esetben csak a felülvizsgálati eljárásban felmerült költség összegét állapítja meg, annak viseléséről az új határozatot hozó bíróság dönt.
+(2) A Kúria a jogerős határozatot csak a felülvizsgálati kérelem és a csatlakozó felülvizsgálati kérelem keretei között vizsgálhatja felül, kivéve, ha a pert hivatalból megszünteti, vagy ha a határozatot hozó bíróság nem volt szabályszerűen megalakítva, illetve a határozat meghozatalában olyan bíró vett részt, akivel szemben a törvény értelmében kizáró ok áll fenn.
 
-(6) Ha a Legfelsőbb Bíróság a másodfokú bíróságot utasítja új eljárásra, határozatát a másodfokú bíróság, egyébként pedig az elsőfokú bíróság közli a felekkel, és intézkedik – a határozathoz képest – a végrehajtásnak vagy a végrehajtás felfüggesztésének megszüntetése, illetve korlátozása iránt.
+(3) Ha a felülvizsgálni kért határozat a jogszabályoknak megfelel, vagy olyan eljárási szabálysértés történt, amelynek az ügy érdemi elbírálására lényeges kihatása nem volt, a Kúria a megtámadott határozatot hatályában fenntartja.
 
-(7) Új eljárásra utasítás esetében a tárgyalás a Legfelsőbb Bíróság határozatának ismertetésével kezdődik; a bíróság a továbbiakban a reá nézve irányadó szabályok szerint folytatja le az eljárást.
+(4) Ha a határozat – a (3) bekezdésben foglalt eljárási szabály megsértésének kivételével – jogszabályt sért, a Kúria a jogszabálysértő határozatot egészben vagy részben hatályon kívül helyezi, és ha a döntéshez szükséges tények megállapíthatók, helyette a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
+
+(5) Ha a Kúria az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja, a hatályon kívül helyező végzésben az új eljárás lefolytatására vonatkozóan kötelező utasításokat ad. Ebben az esetben csak a felülvizsgálati eljárásban felmerült költség összegét állapítja meg, annak viseléséről az új határozatot hozó bíróság dönt.
+
+(6) Ha a Kúria a másodfokú bíróságot utasítja új eljárásra, határozatát a másodfokú bíróság, egyébként pedig az elsőfokú bíróság közli a felekkel, és intézkedik – a határozathoz képest – a végrehajtásnak vagy a végrehajtás felfüggesztésének megszüntetése, illetve korlátozása iránt.
+
+(7) Új eljárásra utasítás esetében a tárgyalás a Kúria határozatának ismertetésével kezdődik; a bíróság a továbbiakban a reá nézve irányadó szabályok szerint folytatja le az eljárást.
 
 ## NEGYEDIK RÉSZ — KÜLÖNLEGES ELJÁRÁSOK
 
@@ -2719,7 +2743,7 @@ kérdésében.
 
 310. § (1) A gondnokság alá helyezés iránti perben a bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti.
 
-(2) A bíróság az alperes elmeállapotának vizsgálatára igazságügyi elmeorvosszakértőt rendel ki. A szakértő kirendelése csak a 309. § (3) bekezdésében meghatározott okokból mellőzhető. Ha a szakértői vizsgálattal kapcsolatban az alperes hosszabb ideig tartó megfigyelésére van szükség, vagy az alperes a szakértői vizsgálaton ismételt idézés ellenére sem jelenik meg, a bíróság elrendelheti az alperes megfelelő fekvőbeteg-gyógyintézetben való – legfeljebb harminc nap időtartamú – elhelyezését. Az erre vonatkozó határozat ellen külön fellebbezésnek van helye.
+(2) A bíróság az alperes elmeállapotának vizsgálatára, valamint a választási eljárásról szóló 1997. évi C. törvény 11/A. §-ában meghatározott kérdés megítélésére igazságügyi elmeorvosszakértőt rendel ki. Az elmeorvosszakértő kirendelése csak a 309. § (3) bekezdésében meghatározott okból mellőzhető. Ha a szakértői vizsgálattal kapcsolatban az alperes hosszabb ideig tartó megfigyelésére van szükség, vagy az alperes a szakértői vizsgálaton ismételt idézés ellenére sem jelenik meg, a bíróság elrendelheti az alperes megfelelő fekvőbeteg-gyógyintézetben való – legfeljebb harminc nap időtartamú – elhelyezését. Az erre vonatkozó határozat ellen külön fellebbezésnek van helye.
 
 (3) A perben a tanú a 170. § (1) bekezdésének a) pontja alapján, a tanúként kihallgatott orvos pedig ugyanezen rendelkezés c) pontja alapján a tanúvallomást nem tagadhatja meg.
 
@@ -2727,29 +2751,29 @@ kérdésében.
 
 ### Határozat a gondnokság alá helyezésről
 
-311. § (1) A gondnokság alá helyezés hatálya a gondnokság alá helyezésről rendelkező ítélet jogerőre emelkedését követő napon kezdődik. Az ítélet mindenkivel szemben hatályos.
+311. § (1) A gondnokság alá helyezés, valamint a választójogból való kizárás hatálya a gondnokság alá helyezésről rendelkező ítélet jogerőre emelkedését követő napon kezdődik. Az ítélet mindenkivel szemben hatályos.
 
 (2) Az alperes gondnokság alá helyezését elrendelő jogerős ítéletet az elsőfokú bíróság a gondnok kirendelése és az esetleg szükséges egyéb intézkedések megtétele végett közli a gyámhatósággal.
 
 (3) Ha az alperesnek ingatlana van, vagy ingatlanon haszonélvezeti joga áll fenn, az elsőfokú bíróság hivatalból intézkedik a gondnokság alá helyezésnek az ingatlan-nyilvántartásba való feljegyzése iránt, kivéve, ha az ingatlannal való rendelkezés tekintetében a bíróság az alperes teljes cselekvőképességét fenntartotta.
 
-(4) A gondnokság alá helyezést be kell vezetni a gondnokoltakról a bíróság által vezetett névjegyzékbe. Cselekvőképességet korlátozó gondnokság alá helyezés esetén a névjegyzékben fel kell tüntetni, ha a bíróság csak egyes ügycsoportok tekintetében korlátozta a gondnokság alá helyezett személy cselekvőképességét. Ha az ítélet erről rendelkezik, a névjegyzéknek tartalmaznia kell a gondnokság alá helyezés felülvizsgálatának bíróság által megállapított időpontját is. A névjegyzék adatairól csak azok kaphatnak felvilágosítást, akik az ehhez fűződő jogi érdeküket igazolják.
+(4) A gondnokság alá helyezést, valamint a választójogból való kizárást be kell vezetni a gondnokoltakról a bíróság által vezetett névjegyzékbe. Cselekvőképességet korlátozó gondnokság alá helyezés esetén a névjegyzékben fel kell tüntetni, ha a bíróság csak egyes ügycsoportok tekintetében korlátozta a gondnokság alá helyezett személy cselekvőképességét. Ha az ítélet erről rendelkezik, a névjegyzéknek tartalmaznia kell a gondnokság alá helyezés felülvizsgálatának bíróság által megállapított időpontját is. A névjegyzék adatairól csak azok kaphatnak felvilágosítást, akik az ehhez fűződő jogi érdeküket igazolják.
 
-(5) A bíróság a gondnokság alá helyezettek névjegyzékének adatairól számítógépes nyilvántartást vezet. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Igazságszolgáltatási Tanács Hivatala kezeli. A Hivatal jogszabályban meghatározott költségtérítés ellenében az országos névjegyzék adatairól – a (4) bekezdésben meghatározottak szerint – felvilágosítást ad. Az adatszolgáltatás tényét a számítógépes rendszerben olyan módon kell rögzíteni, hogy az adatszolgáltatás időpontja, jogcíme és az adatkérő személye megállapítható maradjon. A jogellenes adatkérés, illetve adatfelhasználás jogkövetkezményeit a felvilágosítást kérő viseli.
+(5) A bíróság a gondnokság alá helyezettek névjegyzékének adatairól számítógépes nyilvántartást vezet. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Bírósági Hivatal elnöke kezeli. Az elnök jogszabályban meghatározott költségtérítés ellenében az országos névjegyzék adatairól – a (4) bekezdésben meghatározottak szerint – felvilágosítást ad. Az adatszolgáltatás tényét a számítógépes rendszerben olyan módon kell rögzíteni, hogy az adatszolgáltatás időpontja, jogcíme és az adatkérő személye megállapítható maradjon. A jogellenes adatkérés, illetve adatfelhasználás jogkövetkezményeit a felvilágosítást kérő viseli.
 
 (6) A gondnokság alá helyezés iránti perben a feleket jövedelmi és vagyoni viszonyaikra tekintet nélkül teljes költségmentesség (84. §) illeti meg.
 
 ### A gondnokság alá helyezés módosítása, illetve megszüntetése
 
-312. § (1) A gondnokság alá helyezés megszüntetése, cselekvőképességet korlátozó gondnokság esetén azon ügycsoportok módosítása, amelyek vonatkozásában a bíróság a gondnokolt cselekvőképességét korlátozta, a cselekvőképességet korlátozó gondnokság cselekvőképességet kizáró gondnoksággá változtatása, valamint a cselekvőképességet kizáró gondnokság cselekvőképességet korlátozó gondnokság alá helyezésre módosítása iránt a keresetet az ellen kell megindítani, akinek keresete folytán a bíróság a gondnokságot elrendelte, ha pedig a gondnokság megszüntetését vagy módosítását az kéri, a gondnokolt ellen. Ha az, akinek keresete folytán a bíróság a gondnokságot elrendelte, meghalt vagy ismeretlen helyen, illetve külföldön tartózkodik, a keresetet a bíróság által kirendelt ügygondnok ellen kell megindítani.
+312. § (1) A gondnokság alá helyezés megszüntetése, cselekvőképességet korlátozó gondnokság esetén azon ügycsoportok módosítása, amelyek vonatkozásában a bíróság a gondnokolt cselekvőképességét korlátozta, a cselekvőképességet korlátozó gondnokság cselekvőképességet kizáró gondnoksággá változtatása, a cselekvőképességet kizáró gondnokság cselekvőképességet korlátozó gondnokság alá helyezésre módosítása, a választójogból való kizárás, valamint a választójogból való kizárás megszüntetése iránt a keresetet az ellen kell megindítani, akinek keresete folytán a bíróság a gondnokságot elrendelte, ha pedig a gondnokság megszüntetését vagy módosítását, a választójogból való kizárást vagy a választójogból való kizárás megszüntetését az kéri, a gondnokolt ellen. Ha az, akinek keresete folytán a bíróság a gondnokságot elrendelte, meghalt vagy ismeretlen helyen, illetve külföldön tartózkodik, a keresetet a bíróság által kirendelt ügygondnok ellen kell megindítani.
 
 (2) Ha a bíróság a gondnokság alá helyezésről rendelkező ítéletében a gondnokság alá helyezés kötelező felülvizsgálatát írta elő a Ptk. 14/A. §-ának megfelelően, a gyámhatóság keresete az (1) bekezdésben meghatározottakon kívül a gondnokság alá helyezés fenntartására is irányulhat.
 
 (3) Az eljárásra a 304–311. §-ok rendelkezései megfelelően irányadók. A gondnokság alá helyezett a perben teljes perbeli cselekvőképességgel rendelkezik.
 
-(4) Ha a bíróság a gondnokság alá helyezést módosítja, illetve megszünteti, a gondnokoltak névjegyzékében az alperesre vonatkozó adatokat az ítéletnek megfelelően módosítani kell.
+(4) Ha a bíróság a gondnokság alá helyezést módosítja, megszünteti, a választójogból kizár, vagy a választójogból való kizárást megszünteti, a gondnokoltak névjegyzékében az alperesre vonatkozó adatokat az ítéletnek megfelelően módosítani kell.
 
-(5) A gondnokság alá helyezés hatályában való fenntartása, módosítása és megszüntetése, valamint a gondnokság alá helyezés kötelező felülvizsgálata iránt indított perben a feleket jövedelmi és vagyoni viszonyaikra tekintet nélkül teljes költségmentesség (84. §) illeti meg.
+(5) A gondnokság alá helyezés hatályában való fenntartása, módosítása, megszüntetése, a választójogból való kizárás, a választójogból való kizárás megszüntetése, valamint a gondnokság alá helyezés kötelező felülvizsgálata iránt indított perben a feleket jövedelmi és vagyoni viszonyaikra tekintet nélkül teljes költségmentesség (84. §) illeti meg.
 
 ### XIX. Fejezet — A BÍRÓSÁG FIZETÉSI MEGHAGYÁSOS ELJÁRÁSSAL ÖSSZEFÜGGŐ FELADATAI
 
@@ -2881,13 +2905,13 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (5) Ha az első fokon eljárt közigazgatási szerv illetékességi területe több megyére terjed ki (megye alatt értve a fővárost is), de a felperesnek nincsen belföldi lakóhelye, tartózkodási helye, illetve székhelye, és az illetékes bíróság a (3) és (4) bekezdés alapján sem állapítható meg, a perben az első fokon eljárt közigazgatási szerv székhelye szerint illetékes bíróság jár el.
 
-(6) A Magyar Köztársaság területére történő beutazásra és az ott való tartózkodásra vonatkozó ügyekben hozott közigazgatási határozatok felülvizsgálata iránti perekben az illetékességet az első fokon eljárt közigazgatási szerv székhelye alapozza meg. Ha az eljárt hatóság székhelye alapján az illetékesség nem állapítható meg, a perre a Fővárosi Bíróság kizárólagosan illetékes.
+(6) A Magyarország területére történő beutazásra és az ott való tartózkodásra vonatkozó ügyekben hozott közigazgatási határozatok felülvizsgálata iránti perekben az illetékességet az első fokon eljárt közigazgatási szerv székhelye alapozza meg. Ha az eljárt hatóság székhelye alapján az illetékesség nem állapítható meg, a perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
-(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12)–(13) bekezdésben foglalt kivétellel – a perre a Fővárosi Bíróság kizárólagosan illetékes.
+(7) Ha az első fokon eljárt közigazgatási szerv illetékessége az egész országra kiterjed – a (12)–(13) bekezdésben foglalt kivétellel – a perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 (8) Ha ugyanazon közigazgatási határozat felülvizsgálata iránt több bíróság előtt indítanak pert, az az illetékes bíróság jár el, amelyhez a keresetlevelet elsőként továbbították. A közigazgatási szerv az utóbb továbbított keresetlevélre a 330. § (2) bekezdése szerint megtett nyilatkozatában felhívja a bíróság figyelmét arra, hogy korábban az adott határozat ellen másik keresetlevelet nyújtottak be, és azt az abban megjelölt másik illetékes bírósághoz továbbították. Az a bíróság, amelynek a közigazgatási szerv utóbb továbbított keresetlevelet, a 129. § szerint jár el.
 
-(9) Közigazgatási perekben a megyei bíróság által első fokon hozott határozatok tekintetében – ha törvény a fellebbezést megengedi – a másodfokú eljárásra a Fővárosi Ítélőtábla kizárólagosan illetékes.
+(9) Közigazgatási perekben a törvényszék által első fokon hozott határozatok tekintetében – ha törvény a fellebbezést megengedi – a másodfokú eljárásra a Fővárosi Ítélőtábla kizárólagosan illetékes.
 
 (10) A közigazgatási perekben jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, továbbá ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot a Fővárosi Ítélőtábla jelöli ki.
 
@@ -2909,7 +2933,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - i) az árak megállapításáról szóló törvény,
 - j) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény,
 - k) a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló törvény,
-- l) a Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló törvény,
+- l) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény,
 - m) a külföldre utazásról szóló törvény,
 - n) a tankönyvpiac rendjéről szóló törvény,
 - o) a szomszédos államokban élő magyarokról szóló törvény,
@@ -2918,7 +2942,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - r) a közbeszerzésekről szóló törvény, ha a közbeszerzési eljárásban az ajánlatkérő nem a törvényben meghatározott központi költségvetési szerv,
 - s) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvény.
 
-(13) A menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult felülvizsgálati eljárásokban a felperes belföldi lakóhelye, ha lakóhelye nincs, tartózkodási helye, ezek hiányában – a menekültügyi nyilvántartás szerinti – szálláshelye szerint illetékes ítélőtábla székhelye szerinti megyei bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Bíróság – jár el. Ha a felperesnek nincs belföldi lakóhelye, tartózkodási helye, illetve szálláshelye, az utolsó belföldi lakóhelye, ha lakóhelye nem volt, utolsó tartózkodási helye, ennek hiányában – a menekültügyi nyilvántartás szerinti – utolsó szálláshelye szerint illetékes ítélőtábla székhelye szerinti megyei bíróság – a Fővárosi Ítélőtábla esetében a Fővárosi Bíróság – jár el.
+(13) A menedékjogról szóló törvény, valamint a végrehajtásáról szóló kormányrendelet alapján indult felülvizsgálati eljárásokban a felperes belföldi lakóhelye, ha lakóhelye nincs, tartózkodási helye, ezek hiányában – a menekültügyi nyilvántartás szerinti – szálláshelye szerint illetékes ítélőtábla székhelye szerinti a törvényszék – a Fővárosi Ítélőtábla esetében a Fővárosi Törvényszék – jár el. Ha a felperesnek nincs belföldi lakóhelye, tartózkodási helye, illetve szálláshelye, az utolsó belföldi lakóhelye, ha lakóhelye nem volt, utolsó tartózkodási helye, ennek hiányában – a menekültügyi nyilvántartás szerinti – utolsó szálláshelye szerint illetékes ítélőtábla székhelye szerinti a törvényszék – a Fővárosi Ítélőtábla esetében a Fővárosi Törvényszék – jár el.
 
 ### Felek
 
@@ -2933,13 +2957,13 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (4) A perben fél lehet az is, akit a közigazgatási jog szabályai szerint jogok illethetnek és kötelezettségek terhelhetnek, továbbá az a közigazgatási szerv is, amelynek egyébként nincs perbeli jogképessége.
 
-327/A. § (1) Az ügyész akkor kérheti a közigazgatási határozat bírósági felülvizsgálatát, ha az ügyészi óvás folytán hozott határozat továbbra sem felel meg a jogszabályok rendelkezéseinek.
+327/A. § (1) Az ügyész akkor kérheti a közigazgatási határozat bírósági felülvizsgálatát, ha a határozat az ügyészségről szóló törvény szerinti ügyészi felhívásban (a továbbiakban: ügyészi felhívás) a törvénysértés orvoslására megállapított határidő elteltét követően sem felel meg a jogszabályok rendelkezéseinek.
 
 (2) Az (1) bekezdés alapján indult eljárás során a 332/A. § b) pontját nem lehet alkalmazni.
 
 328. § (1) Ha a közigazgatási szerv, amely a határozatot hozta, megszűnik, vagy az ügy időközben más közigazgatási szerv hatáskörébe került, azt a közigazgatási szervet kell alperesként perbe vonni, amelynek hatáskörébe az új rendelkezés szerint a közigazgatási határozat meghozatala tartozik.
 
-(2) Ha nem állapítható meg, hogy melyik közigazgatási szervet kell perbe vonni, a fél ennek megállapítására irányuló kérelmét – a per megindítása előtt – bármelyik megyei bíróságnál előterjesztheti (94. §). A kérelemhez csatolni kell a keresetlevelet. Ha a fél a kérelmet nem az illetékes bíróságnál terjesztette elő, az a bíróság, amelynél a kérelmet benyújtotta, köteles azt a keresetlevéllel együtt az illetékes bírósághoz továbbítani.
+(2) Ha nem állapítható meg, hogy melyik közigazgatási szervet kell perbe vonni, a fél ennek megállapítására irányuló kérelmét – a per megindítása előtt – bármelyik törvényszéknél előterjesztheti (94. §). A kérelemhez csatolni kell a keresetlevelet. Ha a fél a kérelmet nem az illetékes bíróságnál terjesztette elő, az a bíróság, amelynél a kérelmet benyújtotta, köteles azt a keresetlevéllel együtt az illetékes bírósághoz továbbítani.
 
 (3) A bíróság a felügyeleti szervet keresi meg annak közlése iránt, hogy a határozat meghozatala melyik közigazgatási szerv hatáskörébe tartozik. Ha ilyen közigazgatási szerv nincs, a felügyeleti szerv kijelöli az alperesként perbe vonható közigazgatási szervet.
 
@@ -2979,7 +3003,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 - c) írásban közli a közigazgatási szerv nyilatkozatát a felperessel;
 - d) az alperes kérelmére elrendeli a keresettel megtámadott környezetvédelmi bírság bírói letétbe helyezését.
 
-(2) Ha a keresettel felülvizsgálni kért határozatot a közigazgatási szerv ügyészi óvás folytán hozta, a bíróság a perről az ügyészt értesíti.
+(2) Ha a keresettel felülvizsgálni kért határozatot a közigazgatási szerv ügyészi felhívás folytán hozta, a bíróság a perről az ügyészt értesíti.
 
 (3) Ha a keresetlevél a közigazgatási határozat végrehajtásának felfüggesztésére irányuló kérelmet tartalmaz, a bíróság annak tárgyában az iratoknak a bírósághoz való érkezését követő nyolc napon belül határoz. A későbbiek során a bíróság a közigazgatási határozat végrehajtásának felfüggesztését – már a tárgyalás kitűzése előtt is – kérelemre bármikor elrendelheti. A végrehajtás felfüggesztéséről szóló végzés meghozatala során a bíróságnak figyelemmel kell lennie arra, hogy a végrehajtást követően az eredeti állapot helyreállítható-e, vagy hogy a végrehajtás elmaradása nem okoz-e súlyosabb károsodást, mint amilyennel a végrehajtás felfüggesztésének elmaradása járna.
 
@@ -3056,15 +3080,15 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (2) Közigazgatási perben szakértőként nem járhat el az a személy sem, akivel szemben a 325. § (1) bekezdésének a), b) és c) pontjában felsorolt kizáró ok áll fenn.
 
-### Eljárás óvás, illetőleg felügyeleti intézkedés esetén
+### Eljárás ügyészi felhívás, illetve felügyeleti intézkedés esetében
 
-337. § (1) Ha a bíróság tudomást szerez arról, hogy a közigazgatási szerv felülvizsgálni kért határozata ellen az ügyész óvást nyújtott be, vagy pedig a felettes közigazgatási szerv a határozatnak felügyeleti úton való felülvizsgálata iránt intézkedett, a tárgyalást az óvás elbírálásáig, illetőleg a felügyeleti intézkedéssel elrendelt újabb határozat meghozataláig – legfeljebb azonban harminc napra – felfüggeszti. A harminc nap eltelte után a tárgyalást akkor is folytatni kell, ha a közigazgatási szerv érdemi határozatot még nem hozott.
+337. § (1) Ha a bíróság tudomást szerez arról, hogy a közigazgatási szerv felülvizsgálni kért határozata ellen az ügyész felhívással élt, vagy pedig a felettes közigazgatási szerv a határozatnak felügyeleti úton való felülvizsgálata iránt intézkedett, a tárgyalást az ügyészi felhívás elbírálásáig, illetve a felügyeleti intézkedéssel elrendelt újabb határozat meghozataláig – legfeljebb azonban harminc napra – felfüggeszti. A harminc nap eltelte után a tárgyalást akkor is folytatni kell, ha a közigazgatási szerv érdemi határozatot még nem hozott.
 
-(2) Ha az óvás vagy a felügyeleti intézkedés, illetőleg a határozatnak hivatalból vagy kérelemre történt visszavonása vagy módosítása folytán hozott új közigazgatási határozat a kereseti kérelemben foglaltaknak eleget tesz, a bíróság a pert megszünteti, és a közigazgatási szervet a perköltség megfizetésére kötelezi.
+(2) Ha az ügyészi felhívás vagy a felügyeleti intézkedés, illetőleg a határozatnak hivatalból vagy kérelemre történt visszavonása vagy módosítása folytán hozott új közigazgatási határozat a kereseti kérelemben foglaltaknak eleget tesz, a bíróság a pert megszünteti, és a közigazgatási szervet a perköltség megfizetésére kötelezi.
 
-(3) Ha az óvás vagy a felügyeleti intézkedés folytán hozott új közigazgatási határozat a kereseti kérelemben foglaltak egy részének tesz csak eleget, a bíróság a pert csak ebben a részben szünteti meg, a tárgyalást pedig folytatja azokra a kereseti kérelmekre vonatkozóan, amelyek felől az új közigazgatási határozat egyáltalán nem, vagy nem a kereseti kérelemnek megfelelően döntött. A felperes a keresetét az új közigazgatási határozatra tekintettel megváltoztathatja. A per részben való megszüntetése folytán a közigazgatási szervet terhelő költségek megfizetéséről a bíróság az eljárást befejező határozatában dönt.
+(3) Ha az ügyészi felhívás vagy a felügyeleti intézkedés folytán hozott új közigazgatási határozat a kereseti kérelemben foglaltak egy részének tesz csak eleget, a bíróság a pert csak ebben a részben szünteti meg, a tárgyalást pedig folytatja azokra a kereseti kérelmekre vonatkozóan, amelyek felől az új közigazgatási határozat egyáltalán nem, vagy nem a kereseti kérelemnek megfelelően döntött. A felperes a keresetét az új közigazgatási határozatra tekintettel megváltoztathatja. A per részben való megszüntetése folytán a közigazgatási szervet terhelő költségek megfizetéséről a bíróság az eljárást befejező határozatában dönt.
 
-(4) Ha a közigazgatási szerv az ügyészi óvással nem ért egyet, az ügyész az erre vonatkozó határozat közlésétől számított harminc napon belül keresettel fordulhat a bírósághoz.
+(4)
 
 ### A per elbírálása tárgyaláson kívül
 
@@ -3126,7 +3150,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 340. § (1) A bíróság ítélete ellen fellebbezésnek – a (2) bekezdésben meghatározott kivétellel – nincs helye.
 
-(2) A bíróság ítélete ellen fellebbezésnek van helye, ha a közigazgatási pert olyan elsőfokú határozat bírósági felülvizsgálata iránt indították, amely ellen közigazgatási úton nincs helye fellebbezésnek és e határozatot a bíróság törvény alapján megváltoztathatja. E rendelkezés nem vonatkozik a menekültügyi per tárgyában hozott bírósági döntésre.
+(2) A bíróság ítélete ellen fellebbezésnek van helye, ha a közigazgatási pert olyan elsőfokú határozat bírósági felülvizsgálata iránt indították, amely ellen közigazgatási úton nincs helye fellebbezésnek és e határozatot a bíróság törvény alapján megváltoztathatja. E rendelkezés nem vonatkozik a menekültügyi per tárgyában hozott bírósági döntésre, továbbá e rendelkezést közbeszerzési ügyekben a közbeszerzésekről szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3)
 
@@ -3138,9 +3162,9 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 340/A. § (1) A 271. § (1) bekezdésének a) pontja közigazgatási perben nem alkalmazható, ha az ítélet ellen a 340. § alapján fellebbezésnek nincs helye.
 
-(2) A Legfelsőbb Bíróság a felülvizsgálati kérelem tárgyában a kérelemnek a Legfelsőbb Bírósághoz való beérkezésétől számított százhúsz napon belül dönt.
+(2) A Kúria a felülvizsgálati kérelem tárgyában a kérelemnek a Kúriához való beérkezésétől számított százhúsz napon belül dönt.
 
-(3) Ha a jogerős határozat ellen a fél perújítással élt, az első fokú bíróság, ha pedig a határozat ellen felülvizsgálati kérelmet nyújtottak be, a Legfelsőbb Bíróság erről – az eljárás felfüggesztéséről való döntés érdekében – értesíti az eljáró közigazgatási szervet.
+(3) Ha a jogerős határozat ellen a fél perújítással élt, az első fokú bíróság, ha pedig a határozat ellen felülvizsgálati kérelmet nyújtottak be, a Kúria erről – az eljárás felfüggesztéséről való döntés érdekében – értesíti az eljáró közigazgatási szervet.
 
 (4) A perújítás, illetve a felülvizsgálati kérelem elbírálását követően, ha a bíróság a határozatot megváltoztatta, a közigazgatási szerv a határozatnak megfelelően a közigazgatási eljárást tovább folytatja, vagy megszünteti.
 
@@ -3155,6 +3179,18 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - e) ha az elsőfokú határozatot hozó közigazgatási szerv illetékessége az egész országra kiterjed, továbbá ha az ügyben a fővárosi székhelyű közigazgatási szerv kizárólagos illetékességgel jár el, a perre – törvény eltérő rendelkezése hiányában – a Fővárosi Munkaügyi Bíróság kizárólagosan illetékes,
 - f) a bíróság a társadalombiztosítási határozatot – a méltányossági jogkörben hozott határozat kivételével – megváltoztathatja,
 - g)
+
+### Az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránti per
+
+341/A. § Az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránt indított perekre ennek a fejezetnek a rendelkezéseit a következő eltérésekkel kell alkalmazni:
+
+- a) a perre az a bíróság illetékes, amelynek területén a kötelezettséget elmulasztó helyi önkormányzat székhelye található,
+- b) a keresetlevelet az illetékességgel rendelkező bíróságnál kell benyújtani,
+- c) a keresetlevélnek a 121. §-ban meghatározottakon túl a Magyarország helyi önkormányzatairól szóló törvényben foglaltakat kell tartalmaznia,
+- d) a bíróság a keresetlevelet 30 napos határidő tűzésével megküldi a helyi önkormányzatnak a keresetlevélben foglaltakra vonatkozó nyilatkozata beszerzése céljából,
+- e) a perindítás hatályai a keresetnek az alperessel való közlésével állnak be,
+- f) tárgyalás tartását a felperes – a 338. § (8) bekezdés b) pontját ide nem értve – a keresetlevélben, az alperes a keresetlevélben foglaltakra vonatkozó nyilatkozatában kérheti; ennek elmulasztása miatt igazolásnak nincs helye,
+- g) a bíróság ítélete ellen fellebbezésnek van helye.
 
 ### XXI. Fejezet — A sajtó-helyreigazítási eljárás
 
@@ -3265,7 +3301,7 @@ alapított igény érvényesítése.
 
 ### Fellebbezés, felülvizsgálat
 
-358. § (1) A fellebbezést a munkaügyi bíróság székhelye szerint illetékes megyei bíróság bírálja el.
+358. § (1) A fellebbezést a munkaügyi bíróság székhelye szerint illetékes törvényszék bírálja el.
 
 (2)
 
@@ -3279,24 +3315,43 @@ alapított igény érvényesítése.
 
 359/A. § Ha a munkaügyi per által érintett munkaviszonyból származó átlagkereset nem haladja meg a külön jogszabályban meghatározott mértéket, a perben félként résztvevő munkavállaló munkavállalói költségkedvezményre jogosult. A felet a munkavállalói költségkedvezmény alapján – jogszabály eltérő rendelkezése hiányában – a keresetlevél előterjesztésétől kezdve, a per egész tartamára, valamint a végrehajtási eljárásra is kiterjedően teljes költségmentesség illeti meg. A munkavállalói költségkedvezményre vonatkozó adatokat a keresetlevélben fel kell tüntetni, illetve ahhoz csatolni kell a szükséges iratokat. A fél jogosultságát a bíróság a csatolt iratok alapján hivatalból vizsgálja.
 
-### XXIV. Fejezet — Alkotmányjogi panasz alapján alkotmányellenessé nyilvánított jogszabály konkrét esetben történő alkalmazhatóságának visszamenőleges kizárására irányuló eljárás
+### XXIV. Fejezet — Az alkotmányjogi panasz esetén követendő eljárás
 
-360. § Ha az Alkotmánybíróság az alkotmányellenessé nyilvánított jogszabálynak a konkrét esetben történő alkalmazhatósága visszamenőleges kizárásával ad helyt alkotmányjogi panasznak, az alkotmányjogi panasz orvoslásának eljárási eszközét – az Alkotmánybíróság határozata alapján és a vonatkozó eljárási szabályok megfelelő alkalmazásával – a Legfelsőbb Bíróság állapítja meg.
+359/B. § (1) Ha a fél az Alkotmánybíróságról szóló törvényben foglaltak szerint alkotmányjogi panaszt terjeszt elő, azt az elsőfokú bíróság haladéktalanul továbbítja az Alkotmánybírósághoz.
 
-361. § A Legfelsőbb Bíróság az alkotmányjogi panasz orvoslása érdekében az alábbiak szerint határoz:
+(2) Ha a bíróság a 213. § (2) bekezdése alapján részítéletet hozott és a fél alkotmányjogi panaszt terjesztett elő, a bíróság a részítélettel el nem bírált kereseti kérelem, illetve keresetrész tárgyalását – ha az ügy körülményei indokolják – az Alkotmánybíróság eljárásának befejezéséig felfüggesztheti.
+
+(3) Ha a bíróság a 213. § (3) bekezdése alapján közbenső ítéletet hozott és a fél alkotmányjogi panaszt terjesztett elő, a bíróság a per tárgyalását a követelés összegére (mennyiségére) vonatkozóan – ha az ügy körülményei indokolják – az Alkotmánybíróság eljárásának befejezéséig felfüggesztheti.
+
+(4) A felfüggesztést rendelő bírósági határozat ellen külön fellebbezésnek van helye; a bíróság e határozatot maga is megváltoztathatja.
+
+359/C. § (1) Az első fokon eljárt bíróság az alkotmányjogi panaszban támadott határozat végrehajtását az Alkotmánybíróság eljárásának befejezéséig felfüggesztheti, e határozat ellen külön fellebbezésnek van helye.
+
+(2) Az első fokon eljárt bíróság az alkotmányjogi panaszban támadott határozat végrehajtását az Alkotmánybíróság eljárásának befejezéséig felfüggeszti, ha az Alkotmánybíróság erre hívja fel a bíróságot. E határozat ellen fellebbezésnek nincs helye.
+
+(3) A bíróság a felfüggesztésről szóló jogerős végzést megküldi az Alkotmánybíróságnak.
+
+360. § Ha az Alkotmánybíróság
+
+- a) alkotmányjogi panasz eljárásban a jogszabályt vagy jogszabályi rendelkezést megsemmisíti, és ezért az – az Alkotmánybíróság eltérő döntése hiányában – az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható, vagy
+- b) megállapítja a bírói döntés alaptörvény-ellenességét és a bírósági határozatot megsemmisíti, az alkotmányjogi panasz orvoslásának eljárási eszközét – az Alkotmánybíróság határozata alapján és a vonatkozó eljárási szabályok megfelelő alkalmazásával – a Kúria állapítja meg.
+
+361. § A Kúria az alkotmányjogi panasz orvoslása érdekében az alábbiak szerint határoz:
 
 - a) ha az Alkotmánybíróság anyagi jogszabályt vagy rendelkezést semmisített meg, és az ügyben kizárólag per (vagy nemperes eljárás) volt folyamatban, értesíti a panasz indítványozóját, hogy harminc napon belül perújítási kérelmet terjeszthet elő a perben eljárt elsőfokú bíróságnál;
-- b) ha az Alkotmánybíróság eljárási jogszabályt vagy rendelkezést semmisített meg, megállapítja az Alkotmánybíróság határozatából következő eljárási jog gyakorolhatóságát a vonatkozó eljárási szabályok megfelelő alkalmazásával, s szükség esetén az eljárás azon szakaszának újbóli lefolytatását rendeli el az azt befejező határozat egyidejű hatályon kívül helyezésével, melynek kimenetelére az alkotmányellenes jogszabály alkalmazása hatással lehetett.
+- b) ha az Alkotmánybíróság eljárási jogszabályt vagy rendelkezést semmisített meg, megállapítja az Alkotmánybíróság határozatából következő eljárási jog gyakorolhatóságát a vonatkozó eljárási szabályok megfelelő alkalmazásával, s szükség esetén az eljárás azon szakaszának újbóli lefolytatását rendeli el az azt befejező határozat egyidejű hatályon kívül helyezésével, melynek kimenetelére az alaptörvény-ellenes jogszabály alkalmazása hatással lehetett;
+- c) ha az Alkotmánybíróság a bíróság határozatát megsemmisítette, az Alkotmánybíróság határozatából következően – a d) pontban foglalt kivétellel – az első vagy a másodfokon eljárt bíróságot új eljárásra és új határozat hozatalára utasítja, vagy a felülvizsgálati kérelem tárgyában új határozat hozatalát rendeli el;
+- d) ha az Alkotmánybíróság a bíróság határozatának megsemmisítése esetén a bírósági határozattal felülvizsgált más hatóság által hozott döntést is megsemmisítette, a megsemmisített döntést hozó hatóságot értesíti a szükséges intézkedések megtétele érdekében az Alkotmánybíróság határozatának egyidejű megküldése mellett, és erről a panasz indítványozóját is tájékoztatja.
 
-362. § (1) Az eljárás az indítványozó – az Alkotmánybíróság határozatának részére történő kézbesítésétől számított harminc napon belül előterjeszthető – kérelmére indul. A Legfelsőbb Bíróság nemperes eljárásban határoz.
+362. § (1) Az eljárás a 361. § a) és b) pontjában meghatározott esetben az indítványozó – az Alkotmánybíróság határozatának részére történő kézbesítésétől számított harminc napon belül előterjeszthető – kérelmére, a 361. § c) és d) pontjában meghatározott esetben hivatalból indul. A 361. § c) és d) pontjában meghatározott esetben az elsőfokú határozatot hozó bíróság az Alkotmánybíróság döntését az ügy irataival együtt haladéktalanul felterjeszti a Kúriához. A Kúria nemperes eljárásban határoz.
 
-(2) A Legfelsőbb Bíróság indokolt esetben az alkotmányjogi panasz indítványozóját, illetve az Alkotmánybíróság határozatában megjelölt ügyben lefolytatott eljárásban részt vevő ellenérdekű felet meghallgatja. A szabályszerűen megidézettek vagy valamelyikük elmaradása az ügy elintézését nem gátolja.
+(2) A Kúria indokolt esetben az alkotmányjogi panasz indítványozóját, illetve az Alkotmánybíróság határozatában megjelölt ügyben lefolytatott eljárásban részt vevő ellenérdekű felet meghallgatja. A szabályszerűen megidézettek vagy valamelyikük elmaradása az ügy elintézését nem gátolja.
 
-(3) A Legfelsőbb Bíróság határozata ellen jogorvoslatnak nincs helye.
+(3) A Kúria határozata ellen jogorvoslatnak nincs helye.
 
 363. § (1) Az eredményes alkotmányjogi panasz alapján indított eljárásokat soron kívül kell lefolytatni.
 
-(2) Ha e Fejezet másként nem rendelkezik, eljárása során a Legfelsőbb Bíróság az általános szabályok megfelelő alkalmazásával jár el.
+(2) Ha e Fejezet másként nem rendelkezik, eljárása során a Kúria az általános szabályok megfelelő alkalmazásával jár el.
 
 364. §
 
@@ -3308,7 +3363,7 @@ alapított igény érvényesítése.
 
 366. § Ha a végrehajtás megszüntetésére, illetőleg korlátozására a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 41. vagy 56. §-a szerint a bírósági végrehajtási eljárás keretében nincs lehetőség, az az adós, aki a végrehajtást sérelmesnek tartja, végrehajtás megszüntetési, illetőleg korlátozási pert indíthat a végrehajtást kérő ellen.
 
-367. § A végrehajtás megszüntetési, illetőleg korlátozási perre kizárólag az a bíróság illetékes, amely a végrehajtási eljárást elrendelte; ha pedig a végrehajtási eljárást a megyei bíróság vagy a munkaügyi bíróság, illetve a közjegyző rendelte el, kizárólag az adós lakóhelye szerinti helyi bíróság illetékes.
+367. § A végrehajtás megszüntetési, illetőleg korlátozási perre kizárólag az a bíróság illetékes, amely a végrehajtási eljárást elrendelte; ha pedig a végrehajtási eljárást a törvényszék vagy a munkaügyi bíróság, illetve a közjegyző rendelte el, kizárólag az adós lakóhelye szerinti helyi bíróság illetékes.
 
 368. § A végrehajtási lappal és a vele egy tekintet alá eső végrehajtható okirattal elrendelt végrehajtás megszüntetése és korlátozása iránt pert akkor lehet indítani, ha a perben közölni kívánt tény
 
@@ -3422,7 +3477,7 @@ alapított igény érvényesítése.
 
 ### XXVI. Fejezet
 
-386/A. § (1) Az I–XIV. fejezet szabályait az e Részben foglalt eltérésekkel kell alkalmazni a megyei bíróság hatáskörébe tartozó
+386/A. § (1) Az I–XIV. fejezet szabályait az e Részben foglalt eltérésekkel kell alkalmazni a törvényszék hatáskörébe tartozó
 
 - a) a 23. § (1) bekezdés a) pontja szerinti – a 24. § és 25. § rendelkezései szerint számítva 400 millió forintot meghaladó – követelések érvényesítésére indított perekben,
 - b) azokban a megállapításra irányuló perekben (123. §), amelyek esetében a per tárgyának értéke – ha marasztalás kérhető lenne – meghaladná az a) pontban meghatározott értéket.
@@ -3609,7 +3664,7 @@ alapított igény érvényesítése.
 - a) ha a vállalkozások közötti perben kötelező a jogi képviselet, a keresetlevél és minden egyéb beadvány, okirati bizonyíték benyújtására kizárólag elektronikus úton, a jogi képviselő hivatali kapuján keresztül kerülhet sor, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti; az elektronikus úton benyújtott keresetlevelet a bíróság az alperes részére papír alapú okiratként kézbesíti azzal a kiegészítő tájékoztatással, hogy az eljárásban kötelező a jogi képviselet, ezért védekezését, nyilatkozatát jogi képviselővel eljárva, kizárólag elektronikus úton nyújthatja be;
 - b) kötelező jogi képviselet esetén az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás; a papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti;
 - c) kötelező jogi képviselet esetén, ha a fél – bármely okból – nem rendelkezik jogi képviselővel, akkor a bíróság a jogi képviselő képviseleti jogosultságának igazolásáig a félnek papír alapon kézbesíti a hivatalos iratokat;
-- d) a megyei bíróság elsőfokú hatáskörébe tartozó ügyekben a fél, illetve a jogi képviselő az elektronikus kézbesítést vállalhatja akkor is, ha nem kötelező a jogi képviselet; ha jogi képviselő nélkül eljáró fél vállalta az elektronikus kézbesítést, indokolt kérelmében az eljárás során egy alkalommal kérheti a papír alapú kézbesítésre való áttérést; a fél e jogát nem gyakorolhatja visszaélésszerűen;
+- d) a törvényszék elsőfokú hatáskörébe tartozó ügyekben a fél, illetve a jogi képviselő az elektronikus kézbesítést vállalhatja akkor is, ha nem kötelező a jogi képviselet; ha jogi képviselő nélkül eljáró fél vállalta az elektronikus kézbesítést, indokolt kérelmében az eljárás során egy alkalommal kérheti a papír alapú kézbesítésre való áttérést; a fél e jogát nem gyakorolhatja visszaélésszerűen;
 - e) ha az eljárásban nem kötelező az elektronikus kézbesítés, akkor a fél jogutódjára nem vonatkozik az, hogy a jogelőd az elektronikus kézbesítést vállalta, kivéve, ha a jogi képviselő vállalta az elektronikus kézbesítést, és a jogi képviselő személye nem változott;
 - f) ha a fél, illetve a jogi képviselő – a kötelező jogi képviselet esetét nem számítva – nem vállalja az elektronikus kézbesítést, de az elektronikus kézbesítést a másik fél, illetve jogi képviselője vállalta, akkor a bíróság a papír alapú okiratot benyújtó fél hivatalos iratait papír alapon kézbesíti a másik fél, illetve jogi képviselője számára.
 
@@ -3631,7 +3686,7 @@ alapított igény érvényesítése.
 
 ### Elektronikus kommunikáció a szakértővel
 
-394/D. § (1) E § rendelkezéseit 2013. március 31-ig csak a megyei bíróságok első fokú hatáskörébe tartozó, 2012. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2013. április 1. napjától az ezen időpont után indult, a helyi bíróságok előtti polgári perekben is alkalmazni kell.
+394/D. § (1) E § rendelkezéseit 2013. március 31-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2012. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2013. április 1. napjától az ezen időpont után indult, a helyi bíróságok előtti polgári perekben is alkalmazni kell.
 
 (2) Ha a szakértő az igazságügyi szakértői névjegyzék adatai alapján az elektronikus kézbesítést vállalja, a polgári perben a hivatalos és egyéb iratokat, ide értve a szakvéleményt, az előzetes munkatervet és a díjjegyzéket is, – a (3) bekezdésben foglalt kivétellel – elektronikusan kézbesíti a bíróság részére, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a szakértőnek. A szakértő ebben az esetben nem kötelezhető arra, hogy a bírósághoz benyújtott hivatalos és egyéb iratot a felek és más perbeli személyek számára papír alapon megküldje.
 
@@ -3668,7 +3723,7 @@ alapított igény érvényesítése.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-- a) a bírósági ügyvitel rendjét az Országos Igazságszolgáltatási Tanács véleményének kikérésével;
+- a) a bírósági ügyvitel rendjét az Országos Bírósági Hivatal elnöke véleményének kikérésével;
 - b) az ügygondnok részére járó díjazást az adópolitikáért felelős miniszterrel egyetértésben;
 - c) a bírósági letétkezelés szabályait;
 - d)

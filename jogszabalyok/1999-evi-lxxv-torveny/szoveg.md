@@ -16,7 +16,7 @@ Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egye
 
 2. §
 
-3. § Az e törvény alapján kirótt közrendvédelmi bírságot (12. §), valamint a légijármű üzemeltetőjével szemben a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint kiszabható közrendvédelmi bírságot kormányrendeletben meghatározott eljárási szabályok szerint, az ott megjelölt célra lehet felhasználni.
+3. §
 
 ### Értelmező rendelkezések
 
@@ -47,7 +47,7 @@ Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egye
   - sd) a Btk. 250–254. §-aiba ütköző vesztegetés minősített esetei bűntette, a Btk. 255. §-ába ütköző vesztegetés bűntette, a Btk. 256. §-ába ütköző befolyással üzérkedés minősített eseteinek bűntette, valamint a Btk. 258/B–258/D. §-aiba ütköző vesztegetés nemzetközi kapcsolatban minősített eseteinek bűntette,
   - se) a Btk. 259. §-ába ütköző közveszélyokozás bűntette, a Btk. 261. §-ába ütköző terrorcselekmény bűntette, a Btk. 262. §-ába ütköző légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése bűntette, a Btk. 263/A. §-ának (1) és (3) bekezdésébe ütköző visszaélés lőfegyverrel vagy lőszerrel bűntette, a Btk. 263/B. §-ába ütköző visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, a Btk. 264. §-ába ütköző visszaélés radioaktív anyaggal bűntette, a Btk. 264/C. §-ába ütköző visszaélés nemzetközi szerződés által tiltott fegyverrel bűntette, a Btk. 270/A. §-ának (3) bekezdésébe ütköző közveszéllyel fenyegetés bűntette, a Btk. 274. §-ának (1) bekezdésébe ütköző közokirat-hamisítás bűntette, a Btk. 282–282/B. §-ába ütköző visszaélés kábítószerrel bűncselekmény,
   - sf) a Btk. 303–303/A. §-ába ütköző pénzmosás bűntette, a Btk. 304. §-ába ütköző pénzhamisítás bűntette és a Btk. 304/A. §-ába ütköző pénzhamisítás elősegítésének vétsége,
-  - sg) a bűnszövetségben elkövetett emberi test tiltott felhasználása [Btk. 173/I. § (3) bekezdés b) pont], emberrablás [Btk. 175/A. § (2) bekezdés a) pont], közérdekű üzem működésének megzavarása [Btk. 260. § (2) bekezdés], visszaélés robbanóanyaggal vagy robbantószerrel [Btk. 263. § (3) bekezdés b) pont], visszaélés nukleáris létesítmény üzemeltetésével [Btk. 264/A. § (2) bekezdés], egyedi azonosító jel meghamisítása [Btk. 277/A. § (2) bekezdés b) pont], bélyeghamisítás [Btk. 307. § (3) bekezdés a) pont], csempészet [Btk. 312. § (3) bekezdés b) pont, (4) bekezdés b) pont], készpénz-helyettesítő fizetési eszközzel visszaélés [Btk. 313/C. § (4) bekezdés b) pont, (5) bekezdés b) pont], rablás [Btk. 321. § (3) bekezdés c) pont, (4) bekezdés b) és c) pontjai], illetve zsarolás [Btk. 323. § (2) bekezdés a) pontja] bűntette.
+  - sg) a bűnszövetségben elkövetett emberi test tiltott felhasználása [Btk. 173/I. § (3) bekezdés b) pont], emberrablás [Btk. 175/A. § (2) bekezdés a) pont], közérdekű üzem működésének megzavarása [Btk. 260. § (2) bekezdés], visszaélés robbanóanyaggal vagy robbantószerrel [Btk. 263. § (3) bekezdés b) pont], visszaélés nukleáris létesítmény üzemeltetésével [Btk. 264/A. § (2) bekezdés], egyedi azonosító jel meghamisítása [Btk. 277/A. § (2) bekezdés b) pont], bélyeghamisítás [Btk. 307. § (3) bekezdés a) pont], költségvetési csalás [Btk. 310. § (3) bekezdés b) pont, (4) bekezdés b) pont, (5) bekezdés b) pont], a 2011. december 31-ig hatályban volt csempészet, készpénz-helyettesítő fizetési eszközzel visszaélés [Btk. 313/C. § (4) bekezdés b) pont, (5) bekezdés b) pont], rablás [Btk. 321. § (3) bekezdés c) pont, (4) bekezdés b) és c) pontjai], illetve zsarolás [Btk. 323. § (2) bekezdés a) pontja] bűntette.
 - t) felderítés alá vont személy: akivel szemben az együttműködő szervek a szervezett bűnözéssel összefüggő bűncselekmény gyanúja miatt felderítő tevékenységet végeznek;
 - u) együttműködő szerv: a 4/A. § (3) bekezdésében meghatározott szerv.
 
@@ -77,8 +77,8 @@ Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egye
 - e) az Alkotmányvédelmi Hivatal,
 - f) az Információs Hivatal,
 - g) a Nemzetbiztonsági Szakszolgálat,
-- h) a Katonai Biztonsági Hivatal és
-- i) a Katonai Felderítő Hivatal
+- h) Katonai Nemzetbiztonsági Szolgálat
+- i)
 
 szolgáltat adatokat, és jogosult onnan adatok igénylésére.
 
@@ -130,7 +130,7 @@ szolgáltat adatokat, és jogosult onnan adatok igénylésére.
 (2) A szervezett bűnözés elleni koordinációs központ által kezelt adatot haladéktalanul törölni kell, ha
 
 - a) a törvény 4/C. §ának (3) bekezdésében meghatározott adatkezelési idő letelt,
-- b) bíróság vagy az adatvédelmi biztos az adatvédelmi eljárás során az adat törlését elrendelte,
+- b) bíróság vagy a Nemzeti Adatvédelmi és Információszabadság Hatóság az adat törlését elrendelte,
 - c) az adat kezelése szükségtelen vagy jogellenes.
 
 (3) Az adatkezeléssel érintett személynek a róla kezelt adatok megismerésére irányuló kérelmének teljesítését a szervezett bűnözés elleni koordinációs központ bűnüldözési, illetve nemzetbiztonsági érdekből megtagadhatja.
@@ -229,11 +229,9 @@ szolgáltat adatokat, és jogosult onnan adatok igénylésére.
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-### VIII. Fejezet
-
 60. §
 
-### Hatályba léptető és átmeneti rendelkezések
+### VIII. Fejezet — Hatályba léptető és átmeneti rendelkezések
 
 61. § (1) Ez a törvény – a (2)–(3) bekezdésben foglalt eltéréssel – a kihirdetését követő második hónap első napján lép hatályba, rendelkezéseit – a II., III. és az V. fejezetben foglaltak kivételével – a folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -247,7 +245,7 @@ szolgáltat adatokat, és jogosult onnan adatok igénylésére.
 
 ### Felhatalmazó szabályok
 
-62. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg, hogy a közrendvédelmi bírságokból befolyó pénzösszegeket milyen célra lehet felhasználni, továbbá e pénzösszegek felhasználásának eljárási szabályait.
+62. § (1)
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy – a prostitúció kezelésének közrendvédelmi szabályai érvényesülése érdekében – rendeletben szabályozza az egészségügyi vizsgálatok, illetve az ilyen vizsgálatokat folytató egészségügyi intézmények körét, a nemi úton terjedő betegségek létét vagy hiányát tanúsító orvosi igazolás tartalmi követelményét, kiadásának rendjét.
 

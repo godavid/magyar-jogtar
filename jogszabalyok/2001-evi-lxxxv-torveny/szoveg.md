@@ -69,7 +69,7 @@ E törvény célja, hogy védelmet nyújtson a büntetőeljárásban résztvevő
 
 (3) A Program a megállapodás megkötésével kezdődik. A megállapodásban a 2. számú mellékletben meghatározottakról rendelkezni kell.
 
-(4) A megállapodásból származó viták rendezése érdekében a felek egyeztetést kötelesek folytatni. Amennyiben az egyeztetés keretében három napon belül a vitás kérdést nem sikerül rendezni, a felek bármelyike bírósághoz fordulhat. Az eljárás lefolytatására kizárólag a Fővárosi Bíróság az illetékes, amely a felek közötti jogvitát peren kívüli eljárásban bírálja el. Szükség esetén a bíróság a feleket személyesen is meghallgathatja.
+(4) A megállapodásból származó viták rendezése érdekében a felek egyeztetést kötelesek folytatni. Amennyiben az egyeztetés keretében három napon belül a vitás kérdést nem sikerül rendezni, a felek bármelyike bírósághoz fordulhat. Az eljárás lefolytatására kizárólag a Fővárosi Törvényszék az illetékes, amely a felek közötti jogvitát peren kívüli eljárásban bírálja el. Szükség esetén a bíróság a feleket személyesen is meghallgathatja.
 
 (5) A megállapodás egy hiteles másolatát bírósági eljárás kezdeményezése esetén a Szolgálatnak az eljáró bíróságnál letétbe kell helyeznie.
 
@@ -102,7 +102,7 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 12. § (1) A Szolgálat az érintett nyugellátásának megállapítása érdekében adatokat kérhet be az adatkezelő szervtől és a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény szerint a nyugellátásra való jogosultságot és annak összegét határozattal megállapíthatja. A megállapított nyugellátásról a nyugdíjfolyósító szervet a Szolgálat a határozat megküldésével értesíti.
 
-(2) A határozat ellen a kézbesítéstől számított 15 napon belül a rendészetért felelős miniszterhez (a továbbiakban: miniszter) fellebbezés nyújtható be. A miniszter határozata ellen a kézbesítéstől számított 30 napon belül keresettel a bírósághoz lehet fordulni. Az eljárás lefolytatására a Fővárosi Bíróság az illetékes. A bíróság a felek közötti jogvitát zárt tárgyaláson bírálja el.
+(2) A határozat ellen a kézbesítéstől számított 15 napon belül a rendészetért felelős miniszterhez (a továbbiakban: miniszter) fellebbezés nyújtható be. A miniszter határozata ellen a kézbesítéstől számított 30 napon belül keresettel a bírósághoz lehet fordulni. Az eljárás lefolytatására a Fővárosi Törvényszék az illetékes. A bíróság a felek közötti jogvitát zárt tárgyaláson bírálja el.
 
 (3) A Szolgálat az egészségügyi szolgáltatások, illetve ellátások igénybevétele, valamint a társadalombiztosítási juttatások összegének megállapítása érdekében adatokat kérhet be az adatkezelő szervtől, és a megállapított társadalombiztosítási juttatásra való jogosultságról, illetve annak mértékéről az egészségbiztosítási szervet értesíti. A jogorvoslati jogosultságra vonatkozóan a (2) bekezdésben foglaltakat kell alkalmazni.
 

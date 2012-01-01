@@ -228,6 +228,36 @@ működési engedély
 - d) az új vagy növekvő igények kielégítésére e törvényben részletezett feltételek mellett a szükséges fejlesztéseket elvégezni;
 - e) a Hivatal által előírt tartalomban és formában az engedélyhez kötött tevékenységével és a felhasználói érdekekkel kapcsolatos adatokat és információkat a Hivatalnak, valamint – felhasználói panaszok esetén – a fogyasztóvédelmi hatóságnak és a felhasználói érdekképviseleteknek megadni és hozzáférhetővé tenni.
 
+### Számviteli szétválasztás
+
+18/A. § (1) Az engedélyes beszámolási és könyvvezetési kötelezettségére, a beszámoló összeállítására, a könyvek vezetésére, valamint a nyilvánosságra hozatalra és közzétételre a számvitelről szóló törvény rendelkezéseit az e törvény szerinti eltérésekkel kell alkalmazni.
+
+(2) Az engedélyes köteles olyan számviteli szétválasztási szabályokat kidolgozni, és az egyes tevékenységeire olyan elkülönült nyilvántartást vezetni, amely biztosítja az egyes tevékenységek átláthatóságát és a diszkriminációmentességet, kizárja a keresztfinanszírozást és a versenytorzítást.
+
+(3) Az engedélyes köteles
+
+- a) a kapcsolt villamos energia termelést és a távhőtermelést telephelyenkénti bontásban,
+- b) a távhőszolgáltató tevékenységet településenként szétválasztva,
+- c) az egyéb tevékenységeit a számviteli éves beszámolója kiegészítő mellékletében oly módon bemutatni, mintha azt önálló vállalkozás keretében végezte volna, amelynek esetében az engedélyes tevékenység elkülönült bemutatása az a) pont alá eső esetben telephelyenként, a b) pont alá eső esetben településenként önálló mérleget és eredmény-kimutatást jelent.
+
+(4) A több tevékenységre engedéllyel rendelkező engedélyes számviteli éves beszámolója kiegészítő mellékletében köteles a (3) bekezdés szerint a különböző engedélyes tevékenységeit oly módon bemutatni, mintha azokat önálló vállalkozások keretében végezték volna, amelynek esetében az engedélyes tevékenységek elkülönült bemutatása legalább az eszközök, kötelezettségek, időbeli elhatárolások szétválasztott bemutatását és önálló eredmény-kimutatást jelent.
+
+(5) Ha az engedélyes a számvitelről szóló törvény szerinti összevont (konszolidált) számviteli éves beszámoló készítésére kötelezett, az összevont (konszolidált) számviteli éves beszámolója kiegészítő mellékletében köteles az egyes engedélyes tevékenységeket önállóan is bemutatni. Az engedélyes tevékenységek elkülönült bemutatása halmozott önálló mérleget és halmozott eredmény-kimutatást jelent.
+
+(6) A Hivatal jogosult az engedélyes pénzügyi-számviteli kimutatásaiba, és az ahhoz kapcsolódó bizonylatokba és iratokba betekinteni.
+
+18/B. § (1) Az engedélyes könyvvizsgálója az éves beszámolóhoz, illetve az összevont (konszolidált) éves beszámolóhoz kiadott független könyvvizsgálói jelentésben köteles igazolni, hogy a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok, valamint az egyes tevékenységek közötti tranzakciók árazása biztosítják a vállalkozás tevékenységei közötti keresztfinanszírozás-mentességet.
+
+(2) Minden engedélyes köteles az auditált számviteli éves beszámolóját a könyvvizsgálói jelentéssel együtt a Hivatalnak a számvitelről szóló törvény szerinti letétbe helyezéssel egyidejűleg megküldeni.
+
+(3) A több engedéllyel rendelkező vállalkozás esetén a tevékenységekre szétválasztott beszámolókat is tartalmazó számviteli éves beszámolót csak egy példányban kell a Hivatalnak benyújtani.
+
+(4) Az engedélyes összevont (konszolidált) számviteli beszámolóját a vállalkozás konszolidációra kötelezett tagja küldi meg a Hivatalnak.
+
+18/C. § (1) Az értékesítő, valamint a távhőszolgáltató tárgyévi auditált éves számviteli beszámolójában szereplő, az e törvény hatálya alá tartozó tevékenységéből származó adózás előtti eredménye nem haladhatja meg az ármegállapítás során figyelembe vett könyv szerinti bruttó eszközérték és az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott nyereségtényező szorzatának mértékét (a továbbiakban: nyereségkorlát).
+
+(2) Ha a Hivatal ellenőrzése során megállapítja, hogy az értékesítő, valamint a távhőszolgáltató (1) bekezdés szerinti adózás előtti eredménye meghaladja a nyereségkorlátot, dönt a nyereségkorláton felüli összeg megosztásáról az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározottak szerint.
+
 ### Társaság átalakulása, alaptőke-változás,
 
 befolyásszerzés engedélyezése
@@ -483,7 +513,7 @@ a szolgáltatást korlátozni. A korlátozás általános feltételeit a kormán
 
 (2) Ha a hőközponti mérés szerinti szolgáltatás egy hőközponti mérőn keresztül több felhasználó részére történik, valamennyi felhasználó megegyezése esetén a távhőszolgáltató az érintettekkel egy közüzemi szerződést is köthet. E szerződésben a felhasználók egymás közötti jogviszonyával, különösen a hőellátás mértékével, feltételeivel és a szolgáltatás díjának megosztásával, valamint a felhasználók közös megbízottjának jogaival és kötelezettségeivel kapcsolatos kérdéseket is rendezni kell.
 
-(3) Az épület, építmény, épületrész tulajdonosa és a bérlő vagy a használó együttes kérelmére a távhőszolgáltató a díjat közvetlenül a bérlő vagy a használó részére számlázza. A távhő-szolgáltatási díj a bérlő vagy a használó által történő megfizetéséért a tulajdonos helytállási kötelezettséggel tartozik. A 37. § (6) bekezdésében foglaltak erre az esetre is vonatkoznak.
+(3) Az épület, építmény, épületrész tulajdonosa és a bérlő vagy a használó együttes kérelmére a távhőszolgáltató a díjat közvetlenül a bérlő vagy a használó részére számlázza. A távhő-szolgáltatási díj a bérlő vagy a használó által történő megfizetéséért a tulajdonos egyszerű (sortartó) kezesként felel. A 37. § (6) bekezdésében foglaltak erre az esetre is vonatkoznak.
 
 (4) A távhőszolgáltatással kapcsolatos díjfizetési kötelezettség és más pénztartozás a társasház tulajdonostársait és a lakásszövetkezet tagjait nem terheli egyetemlegesen. Épületrészenként külön-külön történő díjfizetés esetén a felhasználó az egyes díjfizetők, továbbá a díjfizető más díjfizetők díjtartozásának megfizetéséért nem tartozik felelősséggel.
 
@@ -597,6 +627,26 @@ meghatározott szerződésszegést követi el.
 
 (9) Az önkormányzat jegyzője a (8) bekezdés szerinti határozatát az energiaellátás folyamatos biztosítása érdekében fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 
+### A közüzemi szerződés felmondása alóli mentesség
+
+51/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi vagy közoktatási intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a távhőszolgáltatónál a közüzemi szerződés – távhőszolgáltatás díjára vonatkozó fizetési késedelem miatt történő – felmondása alóli mentesség (a továbbiakban: moratórium) biztosítását.
+
+(2) A moratórium a közintézményi felhasználó kezdeményezése szerinti időszakra, de legfeljebb az adott év október 15. és az azt követő év április 15. közötti időszakra terjed ki.
+
+(3) Ha a közintézményi felhasználó az e törvényben és az (1) bekezdés szerinti kormányrendeletben meghatározott feltételeknek megfelel, a távhőszolgáltató köteles a moratóriumot a közintézményi felhasználó kezdeményezésében meghatározott időszakra biztosítani.
+
+(4) Ha a közintézményi felhasználó az e törvényben és az (1) bekezdés szerinti kormányrendeletben meghatározott kötelezettségeknek eleget tesz, a közintézményi felhasználó közüzemi szerződésének fizetési késedelem miatti felmondása a moratórium alatt nem kezdeményezhető, amely azonban nem érinti a távhőszolgáltató azon jogát, hogy követelését bírósági vagy egyéb törvényes úton érvényesíthesse.
+
+(5) A közintézményi felhasználó akkor kezdeményezheti ismételten moratórium biztosítását, ha a korábbi fizetési késedelemből eredő, fizetési, valamint a korábbi moratóriumból származó kötelezettségeinek maradéktalanul eleget tett.
+
+(6) A moratóriumot biztosító távhőszolgáltató a moratórium következtében felmerülő költségét nem háríthatja át más felhasználókra. E költségek a távhőszolgáltató által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számíthatók be, illetve külön nem számlázhatók ki. E költségek terhét – a közintézményi felhasználó számára teljesített, a közintézményi felhasználó által fizetendő termékértékesítés, szolgáltatás díja és kamata kivételével – a távhőszolgáltató viseli.
+
+(7) Ha a közintézményi felhasználó a moratórium biztosítását e törvénynek és az (1) bekezdésben meghatározott kormányrendeletnek megfelelően kezdeményezte, a távhőszolgáltató a közüzemi szerződést fizetési késedelemre történő hivatkozással nem mondhatja fel.
+
+(8) Moratórium esetén a közintézményi felhasználó fenntartója a közintézményi felhasználó moratórium alatt keletkezett tartozásaiért a Ptk. 274. § (1) bekezdése szerint egyszerű kezesként felel.
+
+(9) A moratórium részletes feltételeit, a moratóriummal érintett felek jogait és kötelezettségeit a Kormány rendeletben állapítja meg.
+
 ### A Távhő-szolgáltatási Közüzemi Szabályzat
 
 és az üzletszabályzat
@@ -653,7 +703,7 @@ meghatározott szerződésszegést követi el.
 
 (3) A távhőszolgáltatás csatlakozási díját külön jogszabályban meghatározott szempontok szerint úgy kell meghatározni, hogy az a hatékonyan működő vállalkozó szükséges és indokoltan felmerült ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, és a legkisebb költség elvének érvényre juttatása érdekében e vállalkozásokat gazdálkodásuk hatékonyságának és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
 
-(4) Az engedélyes köteles nyilvántartási és elszámolási rendszerét úgy kialakítani, hogy az megfeleljen a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben előírtaknak, és tegye lehetővé az árak és díjak átláthatóságát.
+(4) Az engedélyes köteles nyilvántartási és elszámolási rendszerét úgy kialakítani, hogy az megfeleljen az információs önrendelkezési jogról és az információszabadságról szóló törvényben előírtaknak, és tegye lehetővé az árak és díjak átláthatóságát.
 
 57/A. § (1) A távhőszolgáltatás csatlakozási díjának megváltoztatását a távhőszolgáltató kezdeményezi.
 
@@ -775,17 +825,19 @@ meghatározott szerződésszegést követi el.
 - k) a műszaki biztonsági szerv vagy szervek kijelölését,
 - l) a központi fűtés és melegvíz-szolgáltatás feltételeire, a jogviszonyban lévők jogaira, kötelezettségeire, a szolgáltatás díjának megállapítására vonatkozó szabályokat,
 - m) a fűtési célra és a használati melegvíz készítéséhez felhasznált hőmennyiség és díjának épületrészek közötti megosztására szolgáló szétosztási arányok meghatározására, valamint a fűtési költségmegosztók alkalmazására vonatkozó szabályokat;
-- n) a folyamatos távhőellátás fenntartása érdekében történő kijelölési eljárásra, a kijelöléssel érintettek jogaira és kötelezettségeire, a kijelölés következtében fizetendő ellenszolgáltatásra és az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat (20. §).
+- n) a folyamatos távhőellátás fenntartása érdekében történő kijelölési eljárásra, a kijelöléssel érintettek jogaira és kötelezettségeire, a kijelölés következtében fizetendő ellenszolgáltatásra és az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat (20. §);
+- o) a közüzemi szerződés felmondása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit.
 
 (2) Az miniszter rendeletben
 
 - a) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a Hivatal részére fizetendő díjak mértékét és a díjak fizetésére vonatkozó részletes szabályokat;
-- b) állapítja meg a távhőszolgáltatónak értékesített távhő árszerkezetét, legmagasabb árait és azok alkalmazásának időpontját, valamint a nyereség korlátozására és megosztására vonatkozó szabályokat, továbbá a lakossági felhasználónak és a külön kezelt intézmények nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjainak szerkezetét, legmagasabb díjait és azok alkalmazásának időpontját, valamint a nyereség korlátozására és megosztására vonatkozó szabályokat;
+- b) állapítja meg a távhőszolgáltatónak értékesített távhő árszerkezetét, legmagasabb árait és azok alkalmazásának időpontját, valamint a lakossági felhasználónak és a külön kezelt intézmények nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjainak szerkezetét, legmagasabb díjait és azok alkalmazásának időpontját;
 - c) az adópolitikáért felelős miniszterrel egyetértésben megállapítja a műszaki biztonsági hatóság eljárásáért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 - d) az államháztartásért felelős miniszterrel egyetértésben meghatározza az 57. § (3) bekezdése szerinti szempontokat,
 - e) állapíthatja meg az 57. § (3) bekezdése szerinti távhőszolgáltatási csatlakozási díj megállapítása érdekében kötelezően benyújtandó adatok körét;
 - f) állapíthatja meg az engedélyes, az értékesítő, az egyedi szerződés alapján termelő, valamint a külön kezelt intézmény által a Hivatal részére teljesítendő adatszolgáltatásra vonatkozó szabályokat;
-- g) állapítja meg a távhőszolgáltatási támogatás mértékét, továbbá a távhőszolgáltatási támogatásra való jogosultság feltételeire, a távhőszolgáltatási támogatással kapcsolatos adatszolgáltatásra, adatkezelésre, a távhőszolgáltatási támogatás kezelésére, nyilvántartására, kifizetésére, elszámolására, felülvizsgálatára és ellenőrzésének rendjére, valamint az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat.
+- g) állapítja meg a távhőszolgáltatási támogatás mértékét, továbbá a távhőszolgáltatási támogatásra való jogosultság feltételeire, a távhőszolgáltatási támogatással kapcsolatos adatszolgáltatásra, adatkezelésre, a távhőszolgáltatási támogatás kezelésére, nyilvántartására, kifizetésére, elszámolására, felülvizsgálatára és ellenőrzésének rendjére, valamint az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat,
+- h) állapítja meg az engedélyesek nyereségének korlátozására és megosztására vonatkozó részletes szabályokat.
 
 (3) Az önkormányzat képviselő-testülete rendeletben szabályozza a 6. § (2)–(4) bekezdésében, a 45. § (6) bekezdésében és az 52. § (2) bekezdésében meghatározott, hatáskörébe utalt feladatokat.
 

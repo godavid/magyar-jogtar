@@ -6,7 +6,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 ### I. Fejezet — BEVEZETŐ RENDELKEZÉSEK
 
-1. § E törvény hatálya a Magyar Köztársaság területén székhellyel vagy fiókteleppel rendelkező gazdálkodó szervezetekre, a gazdasági kamarákra, valamint – az érdekképviseleti jogok gyakorlása tekintetében – a gazdasági érdekképviseleti szervezetekre terjed ki.
+1. § E törvény hatálya Magyarország területén székhellyel vagy fiókteleppel rendelkező gazdálkodó szervezetekre, gazdasági kamarákra, valamint – az érdek-képviseleti jogok gyakorlása tekintetében – gazdasági érdek-képviseleti szervezetekre terjed ki.
 
 2. § E törvény alkalmazásában
 
@@ -48,9 +48,9 @@ Másfajta gazdasági kamara nem hozható létre. A mezőgazdasági és erdőgazd
 
 6. § (1) Országos gazdasági kamaraként a kereskedelmi és iparkamaráknak a Magyar Kereskedelmi és Iparkamarát, az agrárkamaráknak a Magyar Agrárkamarát kell megalakítaniuk.
 
-(2) Az országos gazdasági kamarák jogosultak a Magyar Köztársaság címerének használatára.
+(2)
 
-6/A. § A gazdasági kamarát a székhelye szerint illetékes megyei (fővárosi) bíróság veszi nyilvántartásba az egyesületek bírósági nyilvántartásba vételére irányadó rendelkezések szerint.
+6/A. § A gazdasági kamarát a székhelye szerint illetékes törvényszék veszi nyilvántartásba az egyesületek bírósági nyilvántartásba vételére irányadó rendelkezések szerint.
 
 ### A területi gazdasági kamara megszűnése
 
@@ -75,7 +75,14 @@ Másfajta gazdasági kamara nem hozható létre. A mezőgazdasági és erdőgazd
 
 - a) küldöttnek, testületi szerv tagjának, illetve a kamara elnökének (alelnökének) válasszák;
 - b) a kamarában tisztséget viseljen;
-- c) küldöttként részt vegyen az országos gazdasági kamara küldöttgyűlésén és a képviseletében eljáró természetes személy a kamarai tagok közül megválassza az országos gazdasági kamara testületi szerveit, elnökét és tisztségviselőit.
+- c) küldöttként részt vegyen az országos gazdasági kamara küldöttgyűlésén és a képviseletében eljáró természetes személy a kamarai tagok közül megválassza az országos gazdasági kamara testületi szerveit, elnökét és tisztségviselőit,
+- d) igénybe vegye a területi kereskedelmi és iparkamara e törvényben és az országos kereskedelmi és iparkamara alapszabályában rögzített térítésmentes és egyéb szolgáltatásait.
+
+(2a) A kamarai nyilvántartásba bejegyzett gazdálkodó szervezet részére kötelezően nyújtandó térítésmentes kamarai alapszolgáltatások a következők:
+
+- a) tanácsadás gazdasági, pénzügyi, adózási, hitelhez jutási kérdésekben;
+- b) üzleti partnerkeresés;
+- c) pályázatfigyelés.
 
 (3) A gazdasági kamara tagjának kötelezettsége, hogy
 
@@ -91,6 +98,30 @@ Másfajta gazdasági kamara nem hozható létre. A mezőgazdasági és erdőgazd
 és törlik a tagokról vezetett nyilvántartásból.
 
 (5) Nem lehet a gazdasági kamara tagja a kizárásról rendelkező határozat, illetve bírósági felülvizsgálat esetén az ítélet jogerőre emelkedésétől számított egy évig az a gazdálkodó szervezet, amelynek tagsága a (4) bekezdés c) pontjában meghatározott okból szűnt meg.
+
+### A gazdálkodó szervezetek kamarai nyilvántartása
+
+8/A. § (1) A cégbejegyzésre kötelezett gazdálkodó szervezet a cégjegyzékbe való bejegyzését, az egyéni vállalkozó a külön jogszabályban meghatározott bejelentés alapján történő nyilvántartásba vételét követő öt munkanapon belül – a (2) bekezdésben meghatározott kivétellel – köteles a székhelye szerint illetékes, a (2) bekezdés szerinti területi gazdasági kamaránál a kamarai nyilvántartásba való bejegyzését kérni.
+
+(2) A 2. § d) pont szerinti gazdasági tevékenységet főtevékenységként folytató gazdálkodó szervezet és mezőgazdasági termelő az (1) bekezdés szerinti bejegyzés kérésére nem köteles, az egyéb gazdasági tevékenységet főtevékenységként folytató gazdálkodó szervezet a kereskedelmi és iparkamaránál köteles kérni a kamarai nyilvántartásba való bejegyzését. Az agrárkamara az (1) bekezdés szerinti kamarai nyilvántartást nem vezet, az agrárkamarára a 8. § (2a) bekezdése a 34. § (1) bekezdés b) pontja és a 34/A. § nem alkalmazandó.
+
+(3) A kamarai nyilvántartás a gazdálkodó szervezet alábbi adatait tartalmazza:
+
+- a) név;
+- b) székhely;
+- c) telephely(ek);
+- d) fióktelep(ek);
+- e) főtevékenység;
+- f) ténylegesen végzett egyéb tevékenység(ek);
+- g) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti besorolás.
+
+(4) A kamarai nyilvántartásba az a gazdálkodó szervezet jegyezhető be, amely a (3) bekezdésben meghatározott adatait tartalmazó kamarai adatlapot kitöltve és cégszerűen aláírva a (2) bekezdésben meghatározott területi gazdasági kamara részére elektronikus úton vagy papíralapon benyújtotta, valamint a 34/A. §-ban meghatározott kamarai hozzájárulást megfizette.
+
+(5) Amennyiben a területi gazdasági kamara azt állapítja meg, hogy a gazdálkodó szervezet az e törvény szerinti kamarai nyilvántartásban nem szerepel, felszólítja, hogy e kötelezettségének öt munkanapon belül tegyen eleget. A felszólítás eredménytelensége esetén a gazdálkodó szervezetet a főtevékenysége szerint illetékes területi gazdasági kamara a kamarai nyilvántartásba bejegyzi és intézkedik a kamarai hozzájárulás összegének behajtása iránt.
+
+(6) A gazdálkodó szervezet a megszűnése, vagy a kamarai nyilvántartásban szereplő adataiban történt változás esetén köteles öt munkanapon belül a nyilvántartást vezető területi gazdasági kamaránál a kamarai nyilvántartásból való törlését, illetve az adatmódosítást kezdeményezni. A kamarai nyilvántartásból való törlésért, illetve a változás-bejelentés alapján történő adatmódosításért díjat nem kell fizetni.
+
+(7) A gazdálkodó szervezetek kamarai nyilvántartásában szereplő adatok nyilvánosak. Az elektronikus regisztrációra, a nyilvántartás vezetésére és annak a (3) bekezdésben foglaltakon felüli, önkéntes adatszolgáltatáson alapuló adattartalmára vonatkozó részletes szabályokat az országos gazdasági kamara alapszabálya állapítja meg.
 
 ### III. Fejezet — A GAZDASÁGI KAMARÁK FELADATAI
 
@@ -145,7 +176,7 @@ Másfajta gazdasági kamara nem hozható létre. A mezőgazdasági és erdőgazd
 
 (3) A gazdálkodó szervezetek széles körét érintő jogszabályok, szabályozási koncepciók tárgyában a miniszterelnök által kijelölt miniszterek és az országos gazdasági kamarák évente legalább kétszer szakmai konzultációt tartanak.
 
-(4) A kamarai közfeladatok ellátása, valamint a 31. § (1) bekezdés szerinti névjegyzék vezetése érdekében a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat, illetve az egyéni vállalkozóik nyilvántartását vezető szerv – a hálózat használatával kapcsolatos kiadások megtérítése mellett – elektronikus úton hozzáférést biztosít az országos kamarák számára a Ctv.-ben, illetve az egyéni vállalkozásról szóló törvényben meghatározott nyilvános adatokhoz.
+(4) A kamarai közfeladatok ellátása, a 8/A. § szerinti kamarai nyilvántartás, valamint a 31. § (1) bekezdés szerinti névjegyzék vezetése érdekében a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat, illetve az egyéni vállalkozók nyilvántartását vezető szerv – a hálózat használatával kapcsolatos kiadások megtérítése mellett – elektronikus úton hozzáférést biztosít az országos kamarák számára a Ctv.-ben, illetve az egyéni vállalkozásról szóló törvényben meghatározott nyilvános adatokhoz.
 
 (5) A kamarai közfeladatok ellátásához, valamint az (1) bekezdés b) pont szerinti elemzések elkészítéséhez a gazdasági kamarák jogosultak a gazdálkodó szervezetekről vezetett hatósági nyilvántartások nyilvános adataihoz való hozzáférésre, az adatszolgáltatással kapcsolatban felmerült költségek megtérítése mellett.
 
@@ -411,16 +442,31 @@ Másfajta gazdasági kamara nem hozható létre. A mezőgazdasági és erdőgazd
 34. § (1) A gazdasági kamarák a közfeladataik ellátásával, illetve működésükkel járó költségeket a következő bevételekből fedezik:
 
 - a) tagdíjakból;
-- b) a kamara szolgáltatásaiért fizetett díjakból;
-- c) a kamarák által alapított társaságok tevékenységéből származó bevételből;
-- d) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulásokat is;
-- e) a költségvetési törvényben megállapított támogatásból.
+- b) kamarai hozzájárulásból;
+- c) a kamara szolgáltatásaiért fizetett díjakból;
+- d) a kamarák által alapított társaságok tevékenységéből származó bevételből;
+- e) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulásokat is;
+- f) a költségvetési törvényben megállapított támogatásból.
 
-(2) Az (1) bekezdés e) pontjában megállapított, a gazdasági kamarák közfeladatainak ellátásához kapcsolódó költségvetési támogatást azon költségvetési fejezetekben kell megtervezni, amelyekben feltüntetett költségvetési szervek feladatköréhez kapcsolódóan végzik a gazdasági kamarák közfeladataikat.
+(2) Az (1) bekezdés f) pontjában megállapított, a gazdasági kamarák közfeladatainak ellátásához kapcsolódó költségvetési támogatás felhasználásáról a Magyar Kereskedelmi és Iparkamara Küldöttgyűlése dönt, amelynek célját, módját és ellenőrzését a gazdaságpolitikáért felelős miniszter és a Magyar Kereskedelmi és Iparkamara által kötött szerződés határozza meg.
 
 (3) A költségvetési támogatás felhasználásáról a gazdásági kamarák évente beszámolnak a fejezetet irányító szervnek, amely a költségvetési támogatás felhasználását és hatékonyságát évente köteles ellenőrizni.
 
 (4) A gazdasági kamarák részére közfeladatot abban az esetben lehet átadni, ha az adott közfeladatot a kamarák más szervezeteknél költséghatékonyabban látják el.
+
+### Kamarai hozzájárulás
+
+34/A. § (1) A kamarai közfeladatok ellátásához történő hozzájárulásként a gazdálkodó szervezet köteles kamarai hozzájárulást fizetni.
+
+(2) A kamarai hozzájárulás összege évi 5000 forint.
+
+(3) A kamarai hozzájárulást a tárgyév március 31-ig kell megfizetni a kamarai nyilvántartást vezető területi kamara részére. A kamara tagja a kamarai hozzájárulás összegét a kamarai tagdíjból levonhatja.
+
+(4) A kamarai hozzájárulás fizetésének részletes szabályait az országos gazdasági kamara alapszabálya határozza meg.
+
+(5) A meg nem fizetett kamarai hozzájárulás köztartozás. A kamarai hozzájárulás meg nem fizetése esetén azt az állami adóhatóság adók módjára hajtja be.
+
+(6) A (2) bekezdés szerinti összeg 10%-a az országos gazdasági kamarát, 90%-a a területi gazdasági kamarát illeti meg. A területi gazdasági kamara az országos kamarának járó részt tárgyév április 30-ig köteles megfizetni.
 
 ### Társaság alapítása
 
@@ -501,7 +547,9 @@ kamarai feladatokkal összefüggő tevékenység folytatására. A névhasznála
 
 (3)–(4)
 
-45. §
+45. § (1) Az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény (a továbbiakban: Módtv.) hatálybalépésekor már működő gazdálkodó szervezetek 2012. január 1-jétől számított 60 napon belül kötelesek a 8/A. § (1)–(3) bekezdés rendelkezéseinek megfelelően kamarai nyilvántartásba vételüket kezdeményezni.
+
+(2) A gazdasági kamarák kötelesek a gazdálkodó szervezetek kamarai nyilvántartásában szereplő adatok nyilvánosságát 2012. június 1-jétől biztosítani.
 
 46. § Ahol jogszabály területi kereskedelmi és iparkamarát, vagy területi kézműves kamarát, illetve Magyar Kereskedelmi és Iparkamarát, vagy Magyar Kézműves Kamarát említ, azon 2000. március 31. napjától a kereskedelmi és iparkamarát, illetve Magyar Kereskedelmi és Iparkamarát kell érteni.
 

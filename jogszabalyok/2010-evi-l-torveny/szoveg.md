@@ -12,6 +12,8 @@ a helyi önkormányzati képviselők és polgármesterek választásáról
 
 (3) A választópolgár bármely választókerületben választható.
 
+(4) A helyi önkormányzati képviselők és polgármesterek választásán nem választható, aki jogerős ítélet alapján szabadságvesztés büntetését vagy büntetőeljárásban elrendelt intézeti kényszergyógykezelését tölti.
+
 #### 2. Értelmező rendelkezések
 
 2. § E törvény alkalmazásában lakosságszám: azon személyek száma, akiknek a polgárok személyi és lakcím adatait tartalmazó nyilvántartásban szereplő lakóhelye, lakóhely hiányában tartózkodási helye az adott település (fővárosi kerület), a főváros, a megye közigazgatási területén található, vagy akiknek a lakóhelye csak az adott település (fővárosi kerület) megnevezését tartalmazza.
@@ -91,6 +93,13 @@ jelöltnek ajánlott.
 
 (4) Főpolgármester jelölt az, akit a főváros választópolgárainak 2%-a ajánlott.
 
+9/A. § A polgármester-választáson és a települési önkormányzat képviselő-testülete tagjainak választásán nemzetiségi jelöltnek minősül a nemzetiségek jogairól szóló törvény szerinti nemzetiségi szervezet jelöltje – vagy több, azonos nemzetiséget képviselő nemzetiségi szervezet által állított közös jelölt – a település nemzetiségi névjegyzékében szerepel, magyar állampolgár, továbbá nyilatkozatot tesz arról, hogy
+
+- a) a nemzetiség képviseletét vállalja,
+- b) a legutóbbi két választáson nem volt más nemzetiség önkormányzatának jelöltje,
+- c) a legutóbbi két polgármester-választáson vagy települési önkormányzat képviselő-testülete tagjainak választásán nem indult más nemzetiség jelöltjeként, továbbá
+- d) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
+
 10. § (1) A 10 000-nél több lakosú településen kompenzációs listát az a jelölő szervezet állíthat, amely a település egyéni választókerületeinek több mint felében jelöltet állított.
 
 (2) A fővárosi közgyűlés tagjainak megválasztásánál Budapesten fővárosi listát az a jelölő szervezet állíthat, amely a fővárosi kerületek több mint felében kompenzációs listát állított.
@@ -102,6 +111,8 @@ jelöltnek ajánlott.
 (2) Azok a jelölő szervezetek, amelyek a fővárosi kerületek több mint felében közös kompenzációs listát állítottak, közös fővárosi listát állíthatnak.
 
 (3) Azok a jelölő szervezetek, amelyek a megyei választókerületben lévő települések választópolgárai 1%-ának, de legalább 2000 választópolgár közös ajánlását összegyűjtötték, közös megyei listát állíthatnak.
+
+11/A. § Nemzetiségenként külön-külön nemzetiségi kompenzációs listára kell venni valamennyi, az egyéni választókerületben indult nemzetiségi jelöltet, azok kivételével, akiket olyan nemzetiségi szervezet állított, amely a 10. § (1) bekezdése vagy a 11. § (1) bekezdése alapján önálló vagy közös kompenzációs listát állított.
 
 ### IV. Fejezet — A VÁLASZTÁS RENDSZERE ÉS AZ EREDMÉNY MEGÁLLAPÍTÁSA
 
@@ -123,11 +134,13 @@ jelöltnek ajánlott.
 
 14. § Az egyéni választókerületben az a jelölt lesz képviselő, aki a legtöbb érvényes szavazatot kapta.
 
-15. § (1) A kompenzációs lista a választókerületben összesített töredékszavazatok arányában kap mandátumot.
+15. § (1) A kompenzációs lista és a nemzetiségi kompenzációs lista a választókerületben összesített töredékszavazatok arányában kap mandátumot.
 
 (2) Töredékszavazatnak minősül az egyéni választókerületekben a jelölő szervezet jelöltjére leadott minden olyan szavazat, amellyel nem szereztek mandátumot.
 
 (3) A közös jelöltekre leadott töredékszavazatnak minősülő szavazatok a közös jelöltet állító jelölő szervezetek közös kompenzációs listájára kerülnek.
+
+(3a) A nemzetiségi kompenzációs listára az azon szereplő jelöltekre az egyéni választókerületben leadott azon szavazatok kerülnek töredékszavazatként, amelyekkel nem szereztek mandátumot.
 
 (4) A kompenzációs mandátum számítás módja:
 
@@ -135,7 +148,7 @@ jelöltnek ajánlott.
 - b) Meg kell keresni a táblázatban előforduló legnagyobb számot, és amelyik lista számoszlopában találjuk meg azt, az a lista kap egy mandátumot. Ezt követően meg kell keresni a következő legnagyobb számot. Amelyik lista oszlopában találjuk, az a lista kap egy mandátumot. Ezt az eljárást kell folytatni mindaddig, míg kiosztásra kerül az összes mandátum.
 - c) Ha a táblázatban előforduló legnagyobb szám keresésekor egyenlő legnagyobb számok vannak, akkor az a lista kap mandátumot, amelyik addig még nem szerzett mandátumot, vagy amelyik kevesebb mandátumot kapott, végezetül, amelyik a listasorsolásnál kisebb sorszámot kapott.
 
-(5) Ha egy kompenzációs lista több mandátumot kap, mint a listán szereplő személyek száma, a mandátum betöltetlen marad.
+(5) Ha egy kompenzációs lista vagy nemzetiségi kompenzációs lista több mandátumot kap, mint a listán szereplő személyek száma, a mandátum betöltetlen marad.
 
 16. § (1) A kompenzációs listáról a jelöltek a bejelentés sorrendjében kapnak mandátumot. A kieső jelölt helyébe a sorrendben utána következő jelölt lép.
 
@@ -145,6 +158,10 @@ jelöltnek ajánlott.
 
 - a) a jelölő szervezet kompenzációs listája, ha az azt állító jelölő szervezet jelöltjei a települési szinten összesített kompenzációs szavazatok öt százalékát nem érték el, vagy
 - b) a közös kompenzációs lista, ha a közös listát állító jelölő szervezetek közös jelöltjei a települési szinten összesített kompenzációs szavazatok tíz százalékát, kettőnél több jelölő szervezet által állított közös kompenzációs lista esetében tizenöt százalékát nem érték el.
+
+(4) A nemzetiség kompenzációs listáról a jelöltek az egyéni választókerületben megszerzett szavazataik száma szerinti sorrendben szereznek mandátumot. Szavazategyenlőség esetén sorsolás dönt.
+
+(5) A (3) bekezdést a nemzetiségi kompenzációs listára nem kell alkalmazni.
 
 #### 4. A fővárosi közgyűlés tagjainak választása
 
@@ -202,16 +219,43 @@ jelöltnek ajánlott.
 
 (4) Ha az egyéni listán, a megyei listán vagy a fővárosi listán megválasztott képviselők száma a képviselő-testület vagy a közgyűlés működéséhez szükséges létszám alá csökken, akkor az üres helyekre időközi választást kell kitűzni.
 
+### V/A. Fejezet — A kedvezményes nemzetiségi mandátum
+
+21/A. § (1) Az általános önkormányzati választáson, valamint a képviselő-testület egészének megválasztása céljából kitűzött időközi választáson az egyéni listán a nemzetiségi jelölt kedvezményes módon szerezhet mandátumot, feltéve, hogy a választás kitűzésekor a névjegyzékben szereplő választópolgárok legalább ötven százaléka az adott nemzetiség nemzetiségi névjegyzékében is szerepelt.
+
+(2) Ha sem a polgármester-választáson, sem az egyéni listán nem szerez mandátumot adott nemzetiség egyetlen jelöltje sem, meg kell állapítani az egyéni listán legkevesebb szavazattal mandátumhoz jutó jelöltre leadott érvényes szavazatok kétharmadát. Kedvezményes mandátumhoz jut a nemzetiségnek az a jelöltje, aki az így megállapított szavazatszámnál többet ér el. Ha egy nemzetiséghez tartozó több ilyen jelölt is van, akkor a legtöbb szavazatot elért nemzetiségi jelölt jut kedvezményes mandátumhoz, szavazategyenlőség esetén sorsolás dönt a kedvezményes mandátumról.
+
+(3) A (2) bekezdésben meghatározott módon elnyert kedvezményes mandátummal bővül a képviselő-testület 4.§-ban meghatározott létszáma.
+
+(4) Ha a kedvezményes mandátumot szerző képviselő mandátuma megszűnik, helyébe az ugyanazon nemzetiség következő legtöbb szavazatot elért jelöltje lép, feltéve, hogy a (2) bekezdés szerinti szavazatszámot ő is elérte.
+
+(5) Ha a megüresedett mandátum 21. § (1) bekezdése alapján történő betöltésekor a kedvezményes mandátumhoz jutott képviselő rendelkezik a következő legtöbb szavazatszámmal, akkor mandátumát a 21.§ (1) bekezdésében foglalt jogcímen megtartja, és a nemzetiség kedvezményes mandátuma megszűnik.
+
+(6) Ha időközi választáson ugyanazon nemzetiség jelöltje polgármesteri vagy egyéni listás mandátumot szerez, a kedvezményes mandátum megszűnik.
+
+21/B. § (1) Az általános önkormányzati választáson, valamint a képviselő-testület egészének megválasztása céljából kitűzött időközi választáson a kompenzációs listán a nemzetiségi jelölt kedvezményes módon szerezhet mandátumot, feltéve, hogy a választás kitűzésekor a névjegyzékben szereplő választópolgárok legalább huszonöt százaléka az adott nemzetiség nemzetiségi névjegyzékében is szerepelt.
+
+(2) Ha sem a polgármester-választáson, sem egyéni választókerületben, sem kompenzációs listán (a nemzetiségi kompenzációs listát is beleértve) nem szerez mandátumot adott nemzetiség egyetlen jelölje sem,
+
+- a) meg kell állapítani az egyéni választókerületekben mandátumot szerzett képviselőkre leadott érvényes szavazatok száma átlagának kétharmadát,
+- b) a nemzetiségi kompenzációs lista, ha arra az a) pontban megállapított számnál több töredékszavazat jut, egy kedvezményes mandátumot kap. A mandátumot a 16. § (4) bekezdése szerinti jelölt szerzi meg.
+
+(3) A (2) bekezdésben meghatározott módon elnyert kedvezményes mandátummal bővül a képviselő-testület 5. §-ban meghatározott létszáma.
+
+(4) Ha a nemzetiségi kompenzációs listáról megválasztott képviselő helye üresedik meg, helyére az egyéni választókerületben a következő legtöbb szavazatot elért jelölt lép a nemzetiségi kompenzációs listáról.
+
+(5) Ha az időközi választáson ugyanazon nemzetiség jelöltje polgármesteri vagy egyéni választókerületi mandátumot szerez, a nemzetiségi kedvezményes mandátuma megszűnik.
+
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 22. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a lakosságszám-adatot nyilvántartó központi szervet.
 
 23. § E törvény a kihirdetése napján lép hatályba, rendelkezéseit a helyi önkormányzati képviselők és a polgármesterek 2010. évi általános választása során kell először alkalmazni.
 
-#### 24. §
+24. § E törvénynek a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvénnyel (a továbbiakban: Mód. tv.) megállapított rendelkezéseit a helyi önkormányzati képviselők és polgármesterek Mód. tv. hatályba lépését követően kitűzött általános választásán kell először alkalmazni.
+
+24/A. § E törvény I-V/A. Fejezete, 22. §-a és 24. §-a az Alaptörvény XXIII. cikk (4) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 25. § Ez a törvény a Tanács 1994. december 19-i 94/80/EK az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának a helyhatósági választásokon történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló irányelvének való megfelelést szolgálja.
 
-26. § (1) Hatályát veszti a 24. § a helyi önkormányzati képviselők és polgármesterek 2010. évi választásának napján.
-
-(2) E törvény hatálybalépésével egyidejűleg hatályát veszti a helyi önkormányzati képviselők és polgármesterek választásáról szóló 1990. évi LXIV. törvény.
+#### 26. §

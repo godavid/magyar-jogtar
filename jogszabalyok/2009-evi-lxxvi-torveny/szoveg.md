@@ -8,19 +8,20 @@ Az Országgyűlés a vállalkozások, különösen a kis- és középvállalkoz�
 
 ### A törvény hatálya
 
-1. § (1) A Magyar Köztársaságban vagy más EGT-államban honos vállalkozás szolgáltatási tevékenységének megkezdésére és folytatására e törvény rendelkezéseit kell alkalmazni.
+1. § (1) A Magyarországon vagy más EGT-államban honos vállalkozás szolgáltatási tevékenységének megkezdésére és folytatására e törvény rendelkezéseit kell alkalmazni.
 
 (2) Nem kell alkalmazni e törvény rendelkezéseit
 
 - a) a következő pénzügyi szolgáltatásokra:
   - aa) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi szolgáltatás és kiegészítő pénzügyi szolgáltatás,
-  - ab) a tőkepiacról szóló törvény szerinti befektetési alapkezelési tevékenység, ideértve az átruházható értékpapírokba kollektív alapon befektető vállalkozások tevékenységét is, központi értéktári tevékenység, központi szerződő fél tevékenysége, szabályozott piac működtetése,
+  - ab) a tőkepiacról szóló törvény szerinti központi értéktári tevékenység, központi szerződő fél tevékenysége, szabályozott piac működtetése,
   - ac) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési szolgáltatási tevékenység és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatás,
   - ad) a biztosítókról és a biztosítási tevékenységről szóló törvény szerinti biztosítási tevékenység, valamint biztosításközvetítői és viszontbiztosítás-közvetítői tevékenység,
   - ae) a viszontbiztosítókról szóló törvény szerinti viszontbiztosítási tevékenység,
   - af) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény szerinti magánnyugdíjpénztári tevékenység,
-  - ag) az önkéntes kölcsönös biztosító pénztárakról szóló törvény szerinti pénztári tevékenység, valamint
-  - ah) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltatási tevékenység;
+  - ag) az önkéntes kölcsönös biztosító pénztárakról szóló törvény szerinti pénztári tevékenység,
+  - ah) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltatási tevékenység, valamint,
+  - ai) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvény szerinti befektetési alapkezelési tevékenység;
 - b) a következő közlekedési szolgáltatásokra:
   - ba) a vasúti közlekedésről szóló törvényben meghatározott vasúti közlekedési tevékenység,
   - bb) a vízi közlekedésről szóló törvényben meghatározott gazdasági célú hajózási tevékenység, valamint kikötő üzemeltetése,
@@ -75,16 +76,16 @@ jogszerűen nem kezdhető meg és nem folytatható, vagy a szolgáltatás jogsze
 
 3. § Ha az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó külön törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet – közérdeken alapuló kényszerítő indok alapján – kifejezetten eltérően nem rendelkezik, a szolgáltató szolgáltatási tevékenységének letelepedés keretében történő megkezdéséhez, folytatásához és igénybevételéhez nincs szükség engedélyezésre vagy a szolgáltatási tevékenység megkezdésének a bejelentésére.
 
-4. § (1) A valamely más EGT-államban honos szolgáltató letelepedés keretében a Magyar Köztársaságban honos szolgáltatókkal azonos feltételek szerint kezdheti meg és folytathatja szolgáltatási tevékenységét, és vele szemben a Magyar Köztársaságban honos szolgáltatókkal azonos követelményeket kell alkalmazni.
+4. § (1) A valamely más EGT-államban honos szolgáltató letelepedés keretében Magyarországon honos szolgáltatókkal azonos feltételek szerint kezdheti meg és folytathatja szolgáltatási tevékenységét, és vele szemben a Magyarországon honos szolgáltatókkal azonos követelményeket kell alkalmazni.
 
 (2) A valamely más EGT-államban honos szolgáltatónak a szolgáltatási tevékenység letelepedés keretében történő megkezdésére és folytatására való jogosultsága nem korlátozható az alapján, hogy
 
-- a) nem magyar állampolgár, vagy hogy – szervezet esetén – székhelye nem a Magyar Köztársaság területén van,
-- b) tagjainak (részvényeseinek), alkalmazottainak, vezető tisztségviselőinek vagy felügyelőbizottsági tagjainak bármelyike nem magyar állampolgár vagy lakóhelye nem a Magyar Köztársaság területén van,
-- c) üzletszerű gazdasági tevékenységének fő helye nem a Magyar Köztársaság területén van,
+- a) nem magyar állampolgár, vagy – szervezet esetén – székhelye nem Magyarország területén van,
+- b) tagjainak (részvényeseinek), alkalmazottainak, vezető tisztségviselőinek vagy felügyelőbizottsági tagjainak bármelyike nem magyar állampolgár vagy lakóhelye nem Magyarország területén van,
+- c) üzletszerű gazdasági tevékenységének fő helye nem Magyarország területén van,
 - d) a letelepedés mely formáját választotta,
 - e) a szolgáltatási tevékenységet letelepedés keretében egyidejűleg más EGT-államban is folytatja, vagy hogy e célból egyidejűleg más EGT-állam nyilvántartásában is be van jegyezve, vagy más EGT-állam szakmai szervezetének is tagja, vagy
-- f) folytatott-e vagy mennyi ideig folytatott korábban a Magyar Köztársaság területén szolgáltatási tevékenységet, vagy e célból szerepelt-e vagy mennyi ideig szerepelt korábban valamely nyilvántartásban.
+- f) folytatott-e vagy mennyi ideig folytatott korábban Magyarország területén szolgáltatási tevékenységet, vagy e célból szerepelt-e vagy mennyi ideig szerepelt korábban valamely nyilvántartásban.
 
 5. § Ha jogszabály külföldi szolgáltatóra vonatkozóan valamely, a szolgáltatási tevékenység megkezdésével vagy folytatásával összefüggő követelmény tekintetében a szolgáltató honossága szerinti állammal való viszonosság feltételét írja elő, a valamely EGT-államban honos szolgáltató vonatkozásában a viszonossági feltétel nem alkalmazható.
 
@@ -99,11 +100,11 @@ eltérően nem rendelkezik, a szolgáltató szabadon választhatja meg az által
 
 ### Határon átnyúló szolgáltatásnyújtás szabadsága
 
-7. § (1) A valamely más EGT-államban letelepedett, ott jogszerűen szolgáltatási tevékenységet folytató szolgáltatónak (a továbbiakban: a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató) a Magyar Köztársaság területén való, határon átnyúló szolgáltatásnyújtásához – ha az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó külön törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet a közrend védelme, a közbiztonság, a nemzetbiztonsági és honvédelmi érdekek védelme érdekében, továbbá közegészségügyi vagy környezetvédelmi követelmények érvényesítése céljából a határon átnyúló szolgáltatásnyújtásra vonatkozóan kifejezetten eltérően nem rendelkezik – nincs szükség engedélyezésre, a szolgáltatási tevékenység megkezdésének a bejelentésére vagy bármilyen tanúsítvány, hatósági bizonyítvány vagy igazolvány meglétére.
+7. § (1) A valamely más EGT-államban letelepedett, ott jogszerűen szolgáltatási tevékenységet folytató szolgáltatónak (a továbbiakban: a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató) Magyarország területén való, határon átnyúló szolgáltatásnyújtásához – ha az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó külön törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet a közrend védelme, a közbiztonság, a nemzetbiztonsági és honvédelmi érdekek védelme érdekében, továbbá közegészségügyi vagy környezetvédelmi követelmények érvényesítése céljából a határon átnyúló szolgáltatásnyújtásra vonatkozóan kifejezetten eltérően nem rendelkezik – nincs szükség engedélyezésre, a szolgáltatási tevékenység megkezdésének a bejelentésére vagy bármilyen tanúsítvány, hatósági bizonyítvány vagy igazolvány meglétére.
 
-(2) A szabad szolgáltatásnyújtás jogával rendelkező szolgáltatónak a Magyar Köztársaság területén való, határon átnyúló szolgáltatásnyújtása – a (3) bekezdésben meghatározott rendelkezések, valamint a 10. §-ban meghatározott esetek kivételével – nem korlátozható, és vele szemben a szolgáltatási tevékenység megkezdésére és folytatására vonatkozó, jogszabályban előírt és egyéb, jogszabály alapján kötelező követelmények nem alkalmazhatók.
+(2) A szabad szolgáltatásnyújtás jogával rendelkező szolgáltatónak Magyarország területén való, határon átnyúló szolgáltatásnyújtása – a (3) bekezdésben meghatározott rendelkezések, valamint a 10. §-ban meghatározott esetek kivételével – nem korlátozható, és vele szemben a szolgáltatási tevékenység megkezdésére és folytatására vonatkozó, jogszabályban előírt és egyéb, jogszabály alapján kötelező követelmények nem alkalmazhatók.
 
-(3) A szabad szolgáltatásnyújtás jogával rendelkező szolgáltatónak a Magyar Köztársaság területén való, határon átnyúló szolgáltatásnyújtására alkalmazni kell
+(3) A szabad szolgáltatásnyújtás jogával rendelkező szolgáltatónak Magyarország területén való, határon átnyúló szolgáltatásnyújtására alkalmazni kell
 
 - a) a külön törvényben vagy kormányrendeletben a közrend védelme, a közbiztonság, a nemzetbiztonsági és honvédelmi érdekek védelme érdekében, továbbá közegészségügyi vagy környezetvédelmi okokból előírt követelményeket,
 - b) a külföldi bizonyítványok és oklevelek elismeréséről szóló törvénynek a határon átnyúló szolgáltatásnyújtás szabadságára vonatkozó rendelkezéseiben meghatározott követelményeket, valamint jogszabályban meghatározott egyéb olyan követelményeket, amelyek egy tevékenység folytatását kizárólag egy meghatározott szabályozott szakma gyakorlóinak engedik meg,
@@ -113,14 +114,14 @@ eltérően nem rendelkezik, a szolgáltató szabadon választhatja meg az által
 - f) a szellemi alkotásokhoz fűződő jogok létrejöttére, fennállására és érvényesítésére vonatkozó rendelkezéseket,
 - g) a külföldiek beutazására és magyarországi tartózkodására vonatkozó követelményeket,
 - h) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti követelményeket,
-- i) a munkavállalónak külföldi munkáltató által a Magyar Köztársaság területén kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében történő foglalkoztatása esetén a munka törvénykönyvéről szóló törvény szerint alkalmazandó szabályokat, valamint
+- i) a munkavállalónak külföldi munkáltató által Magyarország területén kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében történő foglalkoztatása esetén a munka törvénykönyvéről szóló törvény szerint alkalmazandó szabályokat, valamint
 - j) a külföldi tulajdonú gépjárművek belföldi közúti forgalomban való részvételével összefüggő jogszabályi rendelkezéseket.
 
 ### Szolgáltatás igénybevételének szabadsága
 
-8. § (1) A szabad szolgáltatásnyújtás jogával rendelkező szolgáltató szolgáltatásai szabadon, az adott esetben a Magyar Köztársaság területén letelepedett szolgáltatók szolgáltatásainak igénybevételére előírtakkal azonos feltételek szerint vehetők igénybe.
+8. § (1) A szabad szolgáltatásnyújtás jogával rendelkező szolgáltató szolgáltatásai szabadon, az adott esetben Magyarország területén letelepedett szolgáltatók szolgáltatásainak igénybevételére előírtakkal azonos feltételek szerint vehetők igénybe.
 
-(2) Ha jogszabály valamely meghatározott szolgáltatás igénybevételéhez az igénybe vevőnek bármilyen támogatást biztosít, a támogatásra való jogosultság tekintetében a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató szolgáltatásainak igénybevétele az igénybevevő számára nem lehet hátrányosabb, mint a Magyar Köztársaság területén letelepedett szolgáltató szolgáltatásának igénybevétele.
+(2) Ha jogszabály valamely meghatározott szolgáltatás igénybevételéhez az igénybe vevőnek bármilyen támogatást biztosít, a támogatásra való jogosultság tekintetében a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató szolgáltatásainak igénybevétele az igénybevevő számára nem lehet hátrányosabb, mint Magyarország területén letelepedett szolgáltató szolgáltatásának igénybevétele.
 
 9. § A 7. és 8. §-ban foglalt rendelkezéseket nem kell alkalmazni
 
@@ -130,7 +131,7 @@ eltérően nem rendelkezik, a szolgáltató szabadon választhatja meg az által
 
 ### A határon átnyúló szolgáltatásnyújtáseseti korlátozása
 
-10. § (1) Ha a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében a Magyar Köztársaság területén folytatott szolgáltatási tevékenysége során
+10. § (1) Ha a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében Magyarország területén folytatott szolgáltatási tevékenysége során
 
 - a) megsérti az adott szolgáltatási tevékenységre vonatkozó, jogszabályban előírt vagy egyéb, jogszabály alapján kötelező követelményeket, és ez a szolgáltatás igénybe vevőjének vagy más személyeknek az életét, testi épségét vagy vagyonát sérti vagy veszélyezteti, vagy
 - b) a szolgáltatási tevékenység folytatása körülményeinek rendkívülisége folytán a szolgáltatás igénybe vevője vagy más személy életének, testi épségének vagy vagyonának sérelme intézkedés hiányában másként nem lenne elhárítható, és jogszabály ilyen intézkedésre lehetőséget ad,
@@ -196,7 +197,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 ### Szakmai biztosítékok kölcsönös elismerése
 
-17. § (1) Ha valamely szolgáltató már rendelkezik a Magyar Köztársaság területén vagy valamely más EGT-államban letelepedett hitelintézetnél, biztosítótársaságnál vagy egyéb szakmai biztosítást nyújtó szervezetnél a fedezett kockázatok, a kockázatok fedezésére meghatározott összeg vagy annak felső határa és a kockázatviselés esetleges korlátai alapján a célja és tartalma tekintetében az adott szolgáltatási tevékenységet szabályozó jogszabályban a szolgáltatási tevékenység megkezdésének vagy folytatásának feltételeként előírt szakmai biztosítékkal megegyező vagy egyenértékű szakmai biztosítékkal, az ilyen szakmai biztosítékot el kell fogadni, további szakmai biztosíték csak a (2) bekezdés szerinti esetben követelhető.
+17. § (1) Ha valamely szolgáltató már rendelkezik Magyarország területén vagy valamely más EGT-államban letelepedett hitelintézetnél, biztosítótársaságnál vagy egyéb szakmai biztosítást nyújtó szervezetnél a fedezett kockázatok, a kockázatok fedezésére meghatározott összeg vagy annak felső határa és a kockázatviselés esetleges korlátai alapján a célja és tartalma tekintetében az adott szolgáltatási tevékenységet szabályozó jogszabályban a szolgáltatási tevékenység megkezdésének vagy folytatásának feltételeként előírt szakmai biztosítékkal megegyező vagy egyenértékű szakmai biztosítékkal, az ilyen szakmai biztosítékot el kell fogadni, további szakmai biztosíték csak a (2) bekezdés szerinti esetben követelhető.
 
 (2) Ha a szolgáltató rendelkezésére álló szakmai biztosíték egyenértékűsége csak részleges, a szolgáltatás felügyeletét ellátó hatóság előírhatja kiegészítő szakmai biztosíték biztosítását.
 
@@ -215,9 +216,9 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 (2) Ha az érintett személy az adott szolgáltatási tevékenység folytatóiból álló olyan szervezet vagy köztestület tagja, amelyet külön törvény vagy kormányrendelet jogosít fel közigazgatási hatósági jogkör gyakorlására, e szervezet vagy köztestület hatósági eljárásában az (1) bekezdés szerinti kizárási ok nem alkalmazható.
 
-### A Magyar Köztársaságban letelepedett, más EGT-államban határon átnyúló szolgáltatásnyújtást folytató szolgáltató ellenőrzése
+### A Magyarországon letelepedett, más EGT-államban határon átnyúló szolgáltatásnyújtást folytató szolgáltató ellenőrzése
 
-20. § A Magyar Köztársaság területén letelepedett szolgáltató szolgáltatási tevékenységének ellenőrzése során a szolgáltató valamely más EGT-állam területén folytatott szolgáltatási tevékenységét és a szolgáltatási tevékenységének valamely másik EGT-államban adott esetben bekövetkező hátrányos következményét is figyelembe kell venni, ha a szolgáltatóra alkalmazandó jogszabályi rendelkezések és hatósági döntések megsértése a szolgáltató ilyen tevékenységére hatással lehet vagy az ilyen következményekkel összefügghet.
+20. § A Magyarország területén letelepedett szolgáltató szolgáltatási tevékenységének ellenőrzése során a szolgáltató valamely más EGT-állam területén folytatott szolgáltatási tevékenységét és a szolgáltatási tevékenységének valamely másik EGT-államban adott esetben bekövetkező hátrányos következményét is figyelembe kell venni, ha a szolgáltatóra alkalmazandó jogszabályi rendelkezések és hatósági döntések megsértése a szolgáltató ilyen tevékenységére hatással lehet vagy az ilyen következményekkel összefügghet.
 
 ### Bejelentés
 
@@ -232,7 +233,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 (2) Ha jogszabály az adott szolgáltatási tevékenység megkezdésére vagy folytatására való jogosultság feltételeként szakmai biztosíték meglétét írja elő, a bejelentés tartalmazza a szolgáltató nyilatkozatát arról, hogy rendelkezik-e megfelelő szakmai biztosítékkal, valamint a szakmai biztosítékot nyújtó szervezet nevéről és a szakmai biztosítékot megalapozó szerződés azonosításhoz szükséges adatokról, a szakmai biztosítékkal fedezett kockázatokról, a szakmai biztosíték területi hatályáról és a szakmai biztosíték összegéről vagy az abban foglalt garancia felső határáról.
 
-(3) A szabad szolgáltatásnyújtás jogával rendelkező szolgáltatónak a Magyar Köztársaság területén határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységére vonatkozó bejelentés az (1) bekezdésben meghatározottakon túl tartalmazza
+(3) A szabad szolgáltatásnyújtás jogával rendelkező szolgáltatónak a Magyarország területén határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységére vonatkozó bejelentés az (1) bekezdésben meghatározottakon túl tartalmazza
 
 - a) a szolgáltató állampolgárságát, más EGT-államban honos, ott nyilvántartásba vett jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén a honossága szerinti EGT-állam nyilvántartásának megnevezését és a szolgáltató nyilvántartási számát,
 - b) a szolgáltató letelepedésének helye szerinti EGT-állam megjelölését,
@@ -396,7 +397,7 @@ formájában kell az igénybe vevők rendelkezésére bocsátani.
 
 (3) A panasz elutasítása esetén a szolgáltató köteles az igénybe vevőt írásban tájékoztatni ennek indokairól és arról, hogy panaszával – annak jellege szerint – mely hatóságnál kezdeményezhet eljárást, továbbá milyen egyéb nem hatósági vagy bírósági vitarendezési módokat vehet igénybe, az ilyen eljárás megindításához vagy vitarendezési mód igénybevételéhez szükséges információkkal együtt.
 
-36. § A Magyar Köztársaság területén letelepedett szolgáltatókra az e fejezetben foglalt, a szolgáltatás díjáról való tájékoztatásra, valamint a panaszkezelésre vonatkozó rendelkezéseket a fogyasztóvédelemről szóló törvény szerinti fogyasztók tekintetében a fogyasztóvédelemről szóló törvényben meghatározott eltérésekkel kell alkalmazni.
+36. § A Magyarország területén letelepedett szolgáltatókra az e fejezetben foglalt, a szolgáltatás díjáról való tájékoztatásra, valamint a panaszkezelésre vonatkozó rendelkezéseket a fogyasztóvédelemről szóló törvény szerinti fogyasztók tekintetében a fogyasztóvédelemről szóló törvényben meghatározott eltérésekkel kell alkalmazni.
 
 37. § (1) A szolgáltatás felügyeletét ellátó hatóság ellenőrzi az e fejezetben előírt követelmények betartását, és – a (2) és (3) bekezdésben meghatározott kivétellel – az adott szolgáltatási tevékenység megkezdését és folytatását szabályozó jogszabályban meghatározottak szerint eljár e követelmények megsértése esetén.
 
@@ -441,11 +442,11 @@ formájában kell az igénybe vevők rendelkezésére bocsátani.
 
 (4) A más EGT-állam illetékes hatósága az érintett egyéb magyar hatóságokra vonatkozó feltételek szerint jogosult a 26. §, a 27. §, valamint a 29. § szerinti nyilvántartások, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti nyilvántartás adatainak megismerésére.
 
-43. § (1) A más EGT-állam területén határon átnyúló szolgáltatást nyújtó, a Magyar Köztársaság területén letelepedett szolgáltatók tekintetében a megkeresett hatóság a másik EGT-állam illetékes hatóságának kérésére igazolja, hogy a szolgáltató valóban letelepedett, és eltérő tudomása hiányában azt is, hogy a Magyar Köztársaság területén szolgáltatási tevékenységét jogszerűen folytatja.
+43. § (1) A más EGT-állam területén határon átnyúló szolgáltatást nyújtó, Magyarország területén letelepedett szolgáltatók tekintetében a megkeresett hatóság a másik EGT-állam illetékes hatóságának kérésére igazolja, hogy a szolgáltató valóban letelepedett, és eltérő tudomása hiányában azt is, hogy Magyarország területén szolgáltatási tevékenységét jogszerűen folytatja.
 
-(2) Ha a más EGT-állam területén határon átnyúló szolgáltatást nyújtó, a Magyar Köztársaság területén letelepedett szolgáltatóval összefüggő tájékoztatás iránti megkeresés teljesítéséhez olyan adatra van szükség, amely csak az érintett szolgáltatónál áll rendelkezésre, a megkeresett hatóság hivatalból indított ellenőrzési eljárás keretében intézkedik a szükséges adatok beszerzéséről.
+(2) Ha a más EGT-állam területén határon átnyúló szolgáltatást nyújtó, Magyarország területén letelepedett szolgáltatóval összefüggő tájékoztatás iránti megkeresés teljesítéséhez olyan adatra van szükség, amely csak az érintett szolgáltatónál áll rendelkezésre, a megkeresett hatóság hivatalból indított ellenőrzési eljárás keretében intézkedik a szükséges adatok beszerzéséről.
 
-(3) A szolgáltató letelepedésének helye szerinti EGT-állam illetékes hatóságának megkeresésére a hatóság a szükséges mértékben ellenőrzi a szolgáltató által a Magyar Köztársaság területén határon átnyúló szolgáltatásnyújtás keretében folytatott szolgáltatási tevékenységet, és – a 7. §-ban és a 10. §-ban foglalt rendelkezésekre figyelemmel – megteszi a szükséges intézkedéseket, valamint az ellenőrzés eredményéről és a megtett intézkedésekről tájékoztatja a megkereső hatóságot.
+(3) A szolgáltató letelepedésének helye szerinti EGT-állam illetékes hatóságának megkeresésére a hatóság a szükséges mértékben ellenőrzi a szolgáltató által Magyarország területén határon átnyúló szolgáltatásnyújtás keretében folytatott szolgáltatási tevékenységet, és – a 7. §-ban és a 10. §-ban foglalt rendelkezésekre figyelemmel – megteszi a szükséges intézkedéseket, valamint az ellenőrzés eredményéről és a megtett intézkedésekről tájékoztatja a megkereső hatóságot.
 
 ### Más EGT-állam illetékes hatóságának megkeresése
 
@@ -459,7 +460,7 @@ formájában kell az igénybe vevők rendelkezésére bocsátani.
 
 46. § (1) Ha a szolgáltatás felügyeletét ellátó hatóság eljárása során azt állapítja meg, hogy
 
-- a) a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a Magyar Köztársaság területén való, határon átnyúló szolgáltatásnyújtása során a 10. § szerinti jogsértést követett el, vagy
+- a) a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató Magyarország területén való, határon átnyúló szolgáltatásnyújtása során a 10. § szerinti jogsértést követett el, vagy
 - b) a szolgáltatási tevékenység folytatása körülményeinek rendkívülisége folytán a szolgáltatás igénybe vevője vagy más személy életének, testi épségének vagy vagyonának sérelme intézkedés hiányában másként nem lenne elhárítható,
 
 a jogsértést megállapító határozat, vagy – a b) pont szerinti esetben – az intézkedés szükségességét és az intézkedést megállapító határozat egyidejű megküldésével megkeresi a szolgáltató letelepedési helye szerinti másik EGT-államnak a szolgáltatás felügyeletét ellátó illetékes hatóságát a szükséges intézkedések megtétele érdekében.
@@ -479,7 +480,7 @@ a jogsértést megállapító határozat, vagy – a b) pont szerinti esetben �
 
 ### Riasztási mechanizmus
 
-47. § Ha a hatóság tudomást szerez valamely szolgáltatónak a szolgáltatási tevékenység folytatásával összefüggő olyan jogsértő magatartásáról, amely a Magyar Köztársaság területén vagy más EGT-államban a szolgáltatás igénybe vevőjének vagy más személynek az életét, testi épségét súlyosan sérti vagy veszélyezteti, vagy amely a környezetben súlyos kárt okoz vagy ilyen kár veszélyével fenyeget, a külön jogszabályban meghatározottak szerint értesíti az Európai Bizottságot és – ha a szolgáltató más EGT-államban letelepedett – a szolgáltató letelepedésének helye szerinti EGT-államot, valamint az érintett többi EGT-államot.
+47. § Ha a hatóság tudomást szerez valamely szolgáltatónak a szolgáltatási tevékenység folytatásával összefüggő olyan jogsértő magatartásáról, amely Magyarország területén vagy más EGT-államban a szolgáltatás igénybe vevőjének vagy más személynek az életét, testi épségét súlyosan sérti vagy veszélyezteti, vagy amely a környezetben súlyos kárt okoz vagy ilyen kár veszélyével fenyeget, a külön jogszabályban meghatározottak szerint értesíti az Európai Bizottságot és – ha a szolgáltató más EGT-államban letelepedett – a szolgáltató letelepedésének helye szerinti EGT-államot, valamint az érintett többi EGT-államot.
 
 ### Adatkezelési szabályok
 
@@ -527,7 +528,7 @@ az Európai Bizottság részére történő bejelentéséről.
 - b) a szolgáltató meghatározott jogi formában való működésére vonatkozó előírás,
 - c) a szolgáltató gazdasági társaságban való részesedésszerzésére vonatkozó követelmény,
 - d) egyéb, a szabályozott szakmák tekintetében külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben vagy a valamely kötelező európai uniós jogi aktus végrehajtása céljából más jogszabályban meghatározottakon kívüli bármely olyan követelmény, amely az érintett szolgáltatási tevékenység folytatására való jogosultságot – a tevékenység sajátos természete alapján – bizonyos szolgáltatók számára tartja fenn,
-- e) a Magyar Köztársaság területén egynél több telephellyel való rendelkezésre vonatkozó tilalom,
+- e) a Magyarország területén egynél több telephellyel való rendelkezésre vonatkozó tilalom,
 - f) a szolgáltató alkalmazottainak minimális számát előíró követelmény,
 - g) valamely szolgáltatási tevékenység tekintetében az alkalmazható legalacsonyabb vagy legmagasabb díjat meghatározó előírás, valamint
 - h) az adott szolgáltatási tevékenységgel együtt egyéb szolgáltatások nyújtására vonatkozó kötelező előírás.

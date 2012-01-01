@@ -22,7 +22,7 @@ Az Országgyűlés fájdalommal emlékezik meg arról, hogy a második világhá
 
 4. § (1) Ha a bíróság az igazolást megtagadja, a határozat ellen a kérelmező fellebbezéssel élhet. A fellebbezésre a Be-nek a végzés elleni fellebbezés elintézésére vonatkozó szabályait (X. fejezet III. cím) kell alkalmazni.
 
-(2) A Legfelsőbb Bíróságnak az igazolást megtagadó határozata ellen fellebbezésnek nincs helye.
+(2) A Kúriának az igazolást megtagadó határozata ellen fellebbezésnek nincs helye.
 
 5. § Ez a törvény nem alkalmazható az 1989. évi XXXVI. törvény hatálya alá eső elítélésekre.
 

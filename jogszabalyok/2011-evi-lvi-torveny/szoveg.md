@@ -1690,4 +1690,4 @@ Aláírások”
 
 (4)
 
-(5) E törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik. Az Egyezmény 15. cikke alapján a nemzeti kapcsolattartó pont feladatait a Nemzetközi Bűnügyi Együttműködési Központ látja el. Az Egyezmény 33. cikke alapján a nemzeti adatvédelmi felügyeletet – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben biztosított hatáskörében – az adatvédelmi biztos látja el.
+(5) E törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik. Az Egyezmény 15. cikke alapján a nemzeti kapcsolattartó pont feladatait a Nemzetközi Bűnügyi Együttműködési Központ látja el. Az Egyezmény 33. cikke alapján a nemzeti adatvédelmi felügyeletet a Nemzeti Adatvédelmi és Információszabadság Hatóság látja el.

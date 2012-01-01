@@ -21,7 +21,7 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 
 (5) A területi szervezet elnevezésben utalni kell annak működési területére.
 
-(6) Az országos szervezet jogosult a Magyar Köztársaság címerének használatára.
+(6)
 
 (7) Az országos szervezet székhelye: Budapest.
 

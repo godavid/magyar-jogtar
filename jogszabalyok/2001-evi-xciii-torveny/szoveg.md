@@ -4,9 +4,7 @@ a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvé
 
 Az Országgyűlés a piacgazdaság kiépítésének következményeként, a forint konvertibilitását teljessé téve, az Európai Unióhoz történő csatlakozásra való felkészülés érdekében törvényt alkot a devizakorlátozások megszüntetéséről, a tőke szabad áramlásának elősegítéséről.
 
-1. § (1) A Magyar Köztársaság törvényes fizetőeszköze a forint. A forintban történő teljesítés belföldön nem utasítható vissza.
-
-(2) Ha jogszabály eltérően nem rendelkezik, a Magyar Állam részére forintban kell teljesíteni az államháztartásról szóló 1992. évi XXXVIII. törvény 10. §-ában megfogalmazott közterheket, továbbá bíróság, büntető ügyekben eljáró más hatóság vagy szabálysértési hatóság által határozatban megállapított fizetési kötelezettséget (így különösen pénzbüntetést, pénzmellékbüntetést, pénzbírságot, rendbírságot).
+1. § (1)–(2)
 
 (3) Amennyiben törvény vagy kormányrendelet másként nem rendelkezik
 

@@ -2,7 +2,7 @@
 
 a formatervezési minták oltalmáról
 
-A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervezési kultúra fejlesztése, valamint a formatervező alkotók erkölcsi és anyagi elismerése érdekében – összhangban a Magyar Köztársaságnak a szellemi tulajdon védelme terén fennálló nemzetközi és európai közösségi jogi kötelezettségeivel – az Országgyűlés a formatervezési minták oltalmáról a következő törvényt alkotja:
+A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervezési kultúra fejlesztése, valamint a formatervező alkotók erkölcsi és anyagi elismerése érdekében – összhangban Magyarországnak a szellemi tulajdon védelme terén fennálló nemzetközi és európai közösségi jogi kötelezettségeivel – az Országgyűlés a formatervezési minták oltalmáról a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — A FORMATERVEZÉSI MINTA ÉS OLTALMA
 
@@ -89,15 +89,15 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 12. § (1) A minta szerzője az, aki a mintát megalkotta.
 
-(2) Amíg jogerős bírósági ítélet mást nem állapít meg, azt a személyt kell a minta szerzőjének tekinteni, aki az elismert bejelentési napon benyújtott bejelentésben szerzőként szerepel.
+(2) Amíg jogerős bírósági ítélet mást nem állapít meg, azt a személyt kell a minta szerzőjének tekinteni, aki a mintaoltalmi bejelentésben eredetileg szerzőként szerepelt, vagy akit a mintaoltalmi lajstrom az erre vonatkozó bejegyzés módosítását követően szerzőként feltüntet.
 
-(3) Ha többen közösen alkották a mintát, a szerzőségi részarányt – ellenkező megjelölés hiányában – egyenlőnek kell tekinteni.
+(3) Ha többen közösen alkották a mintát, a szerzőségi részarányt – a mintaoltalmi bejelentésben eredetileg megadott ellenkező megjelölés hiányában – egyenlőnek kell tekinteni.
 
-(4) Amíg jogerős bírósági ítélet mást nem állapít meg, az elismert bejelentési napon benyújtott bejelentésben megjelölt, illetve a (3) bekezdés szerinti szerzőségi arányt kell irányadónak tekinteni.
+(4) Amíg jogerős bírósági ítélet mást nem állapít meg, a mintaoltalmi bejelentésben eredetileg megjelölt, a (3) bekezdés szerinti vagy a mintaoltalmi lajstromban az erre vonatkozó bejegyzés módosítását követően feltüntetett szerzőségi arányt kell irányadónak tekinteni.
 
 (5) A szerzőt megilleti az a jog, hogy a mintaoltalmi iratok őt e minőségében feltüntessék. Mellőzni kell a szerző nevének a feltüntetését a nyilvánosságra kerülő mintaoltalmi iratokon, ha azt a minta szerzője írásban kéri.
 
-(6) A szerző a Polgári Törvénykönyv szabályai szerint léphet fel azzal szemben, aki e minőségét kétségbe vonja, vagy a mintával kapcsolatos személyhez fűződő jogát egyébként megsérti.
+(6)
 
 (7) A mintaoltalom megadása előtt a mintát csak a szerző, illetve jogutódja hozzájárulásával szabad nyilvánosságra hozni.
 
@@ -245,6 +245,16 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 29. § Ha a mintaoltalom keletkezésére visszaható hatállyal szűnik meg, a mintaoltalom jogosultja és a szerző által felvett díjnak csak azt a részét lehet visszakövetelni, amelyet a minta hasznosításából származó gazdasági előnyök nem fedeztek.
 
+### IV/A. Fejezet — A POLGÁRI TÖRVÉNYKÖNYV RENDELKEZÉSEINEK ALKALMAZÁSA
+
+29/A. § (1) Az e törvényben nem szabályozott kérdésekben a Polgári Törvénykönyv (a továbbiakban: Ptk.) rendelkezései az irányadók
+
+- a) a mintához kapcsolódó és a mintaoltalomból eredő jogok átszállására, átruházására, megterhelésére, a közös mintaoltalmi igényre és a közös mintaoltalomra;
+- b) a hasznosítási szerződésre; valamint
+- c) a formatervezési mintákkal összefüggő egyéb személyi és vagyoni viszonyokban.
+
+(2) A szerző a Ptk. szabályai szerint léphet fel azzal szemben, aki e minőségét kétségbe vonja, vagy a mintával kapcsolatos személyhez fűződő jogát egyébként megsérti.
+
 ## MÁSODIK RÉSZ — A SZELLEMI TULAJDON NEMZETI HIVATALÁNAK ELJÁRÁSA MINTAOLTALMI ÜGYEKBEN
 
 ### V. Fejezet — A MINTAOLTALMI ELJÁRÁSOK ÁLTALÁNOS SZABÁLYAI
@@ -278,7 +288,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### Jogorvoslatok
 
-32/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi óvásnak.
+32/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti felhívásnak.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatalának a mintaoltalmi ügyekben hozott döntéseit a bíróság a IX. fejezetben szabályozott nem peres eljárásban vizsgálja felül.
 
@@ -290,7 +300,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 - d) a mintaoltalom megszűnésének megállapítása;
 - e) a mintaoltalom megsemmisítése;
 - f) a nemleges megállapítás;
-- g) a nemzetközi lajstromozás hatályának elutasítása a Magyar Köztársaság területére kiterjedően.
+- g) a nemzetközi lajstromozás hatályának elutasítása Magyarország területére kiterjedően.
 
 (4) A szabadalmi törvény eltérő rendelkezése hiányában a (3) bekezdés e) és f) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
@@ -565,11 +575,11 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (6) A megsemmisítési kérelem visszavonása esetén az eljárást hivatalból folytatni lehet, kivéve, ha a megsemmisítést csak a 10. § vagy a 28. § (1) bekezdésének d) pontja alapján kérték. A Szellemi Tulajdon Nemzeti Hivatala ilyen esetben is a kérelem keretei között, a felek által korábban tett nyilatkozatok és állítások figyelembevételével jár el.
 
-(7) A megsemmisítési eljárás költségeinek viselésére a vesztes felet kell kötelezni.
+(7) A megsemmisítési eljárás költségeinek viselésére a vesztes felet kell kötelezni. Ha a mintaoltalom jogosultja a megsemmisítési eljárásra okot nem adott, és a mintaoltalomról – több mintára adott oltalom esetén legalább az érintett minták vonatkozásában – az (1) bekezdés szerinti nyilatkozattételre kitűzött határidő lejárta előtt lemond, az eljárási költséget a kérelmező viseli.
 
 (8) A mintaoltalom megsemmisítését, változtatással való fenntartását vagy korlátozását be kell jegyezni a mintaoltalmi lajstromba (34. §), és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában (35. §).
 
-58/A. § (1) A megsemmisítési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha a mintaoltalom bitorlása miatt pert indítottak és ezt igazolják.
+58/A. § (1) A megsemmisítési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha a mintaoltalom bitorlása miatt pert indítottak vagy a keresetlevél benyújtását megelőzően ideiglenes intézkedés iránti kérelmet terjesztettek elő, és ezt igazolják.
 
 (2) A gyorsított eljárás iránti kérelemért külön jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
 
@@ -631,9 +641,9 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### Közösségi mintaoltalmi bíróság
 
-60/E. § (1) A Magyar Köztársaságban a Fővárosi Bíróság jár el első fokon – a 63. § (2) bekezdése alapján meghatározott összetételben – a közösségi mintaoltalmi rendelet 80. cikkének (1) bekezdésében meghatározott közösségi mintaoltalmi bíróságként.
+60/E. § (1) Magyarországon a Fővárosi Törvényszék jár el első fokon – a 63. § (2) bekezdése alapján meghatározott összetételben – a közösségi mintaoltalmi rendelet 80. cikkének (1) bekezdésében meghatározott közösségi mintaoltalmi bíróságként.
 
-(2) A Fővárosi Bíróság határozata elleni fellebbezés elbírálása – másodfokon eljáró közösségi mintaoltalmi bíróságként – a Fővárosi Ítélőtábla hatáskörébe tartozik.
+(2) A Fővárosi Törvényszék határozata elleni fellebbezés elbírálása – másodfokon eljáró közösségi mintaoltalmi bíróságként – a Fővárosi Ítélőtábla hatáskörébe tartozik.
 
 ### VIII/B. Fejezet — A NEMZETKÖZI IPARI MINTAOLTALMI BEJELENTÉSEKRE VONATKOZÓ RENDELKEZÉSEK
 
@@ -651,13 +661,13 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### A Szellemi Tulajdon Nemzeti Hivatala útján benyújtott nemzetközi ipari mintaoltalmi bejelentések
 
-60/J. § (1) A Szellemi Tulajdon Nemzeti Hivatala azokkal a nemzetközi ipari mintaoltalmi bejelentésekkel kapcsolatban jár el a Megállapodás szerinti továbbítás érdekében, amelyekben a bejelentő szerződő államaként a Magyar Köztársaságot tüntették fel.
+60/J. § (1) A Szellemi Tulajdon Nemzeti Hivatala azokkal a nemzetközi ipari mintaoltalmi bejelentésekkel kapcsolatban jár el a Megállapodás szerinti továbbítás érdekében, amelyekben a bejelentő szerződő államaként Magyarországot tüntették fel.
 
 (2) A nemzetközi ipari mintaoltalmi bejelentés továbbításáért a Szellemi Tulajdon Nemzeti Hivatalához külön jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi ipari mintaoltalmi bejelentéssel kapcsolatban a Megállapodásban meghatározott díjat kell fizetni a Megállapodásban előírt határidőn belül és az ott megszabott módon.
 
-### A Magyar Köztársaságot megjelölő nemzetközi ipari mintaoltalmi bejelentések
+### A Magyarországot megjelölő nemzetközi ipari mintaoltalmi bejelentések
 
-60/K. § (1) A Magyar Köztársaságot megjelölő nemzetközi ipari mintaoltalmi bejelentés a nemzetközi lajstromozás napjától azonos hatályú a Szellemi Tulajdon Nemzeti Hivatalához szabályszerűen benyújtott mintaoltalmi bejelentéssel (37. §).
+60/K. § (1) A Magyarországot megjelölő nemzetközi ipari mintaoltalmi bejelentés a nemzetközi lajstromozás napjától azonos hatályú a Szellemi Tulajdon Nemzeti Hivatalához szabályszerűen benyújtott mintaoltalmi bejelentéssel (37. §).
 
 (2)
 
@@ -667,7 +677,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (5) Az értesítésben meg kell jelölni az értesítés alapjául szolgáló okokat, és fel kell hívni a bejelentőt arra, hogy az értesítésben foglaltakkal kapcsolatban – az értesítésben kitűzött határidőn belül – nyilatkozatot tehet. A bejelentő nyilatkozatát a nemzetközi lajstromozás hatályának elutasítására vonatkozó döntés meghozatalakor figyelembe kell venni.
 
-(6) Ha a bejelentő az értesítésben foglalt nyilatkozattételi felhívásra a megadott határidőn belül nem válaszol, vagy ha a nemzetközi ipari mintaoltalmi bejelentés a bejelentőnek a megadott határidőben tett nyilatkozata ellenére sem felel meg a vizsgált követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala a nemzetközi lajstromozás hatályát a Magyar Köztársaság területére kiterjedően elutasítja.
+(6) Ha a bejelentő az értesítésben foglalt nyilatkozattételi felhívásra a megadott határidőn belül nem válaszol, vagy ha a nemzetközi ipari mintaoltalmi bejelentés a bejelentőnek a megadott határidőben tett nyilatkozata ellenére sem felel meg a vizsgált követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala a nemzetközi lajstromozás hatályát Magyarország területére kiterjedően elutasítja.
 
 (7) Ha a Szellemi Tulajdon Nemzeti Hivatala a bejelentő nyilatkozata alapján úgy találja, hogy a (4) bekezdésben említett értesítésben foglaltak – részben vagy egészben – alaptalanok, az értesítést – részben vagy egészben – visszavonja. A Szellemi Tulajdon Nemzeti Hivatala a visszavonásról szóló határozat jogerőre emelkedését követően a Nemzetközi Irodát értesíti.
 
@@ -708,7 +718,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 - a) ez a későbbi, mint a (6) bekezdés szerinti döntés közlésének napja, és
 - b) az igazolási kérelmet olyan mulasztás következményeinek az elhárítására terjesztették elő, amely közvetlenül a (6) bekezdés szerinti döntés alapjául szolgált.
 
-(8) Ha a Szellemi Tulajdon Nemzeti Hivatala döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kihirdetésétől számított harminc napra ismételten megnyílik.
+(8) Ha a Szellemi Tulajdon Nemzeti Hivatala döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kézbesítésétől számított harminc napra ismételten megnyílik.
 
 (9) A megváltoztatási kérelem a Szellemi Tulajdon Nemzeti Hivatalánál nyújtható be, amely azt a mintaoltalmi ügy irataival együtt – a (10) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű fél vett részt, a Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelem továbbításáról egyidejűleg az ellenérdekű felet is értesíti.
 
@@ -730,7 +740,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (2) A mintaoltalmi perekre a szabadalmi perek szabályait kell megfelelően alkalmazni.
 
-(3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a megyei bíróság (Fővárosi Bíróság) a szabadalmi jogvitákra irányadó szabályok megfelelő alkalmazásával jár el.
+(3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a törvényszék a szabadalmi jogvitákra irányadó szabályok megfelelő alkalmazásával jár el.
 
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

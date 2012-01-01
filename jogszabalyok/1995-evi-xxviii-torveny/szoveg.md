@@ -2,7 +2,7 @@
 
 a nemzeti szabványosításról
 
-Az Országgyűlés annak érdekében, hogy elősegítse a nemzetgazdaság szereplőinek a piacképességhez szükséges korszerű műszaki ismeretekkel való ellátását és a Magyar Köztársaság által kötött nemzetközi megállapodásokban vállalt, szabványosításra vonatkozó kötelezettségek végrehajtását, a nemzeti szabványosításról a következő törvényt alkotja:
+Az Országgyűlés annak érdekében, hogy elősegítse a nemzetgazdaság szereplőinek a piacképességhez szükséges korszerű műszaki ismeretekkel való ellátását és a Magyarország által kötött nemzetközi megállapodásokban vállalt, szabványosításra vonatkozó kötelezettségek végrehajtását, a nemzeti szabványosításról a következő törvényt alkotja:
 
 ### A nemzeti szabványosítás célja
 
@@ -45,7 +45,7 @@ Az Országgyűlés annak érdekében, hogy elősegítse a nemzetgazdaság szerep
 
 5. § (1) A nemzeti szabvány olyan szabvány, amelyet a nemzeti szabványügyi szervezet alkotott meg, vagy fogadott el, és tett a nyilvánosság számára hozzáférhetővé.
 
-(2) A nemzetközi és az európai szabványokat szabványként közzétenni a Magyar Köztársaságban csak nemzeti szabványként lehet.
+(2) A nemzetközi és az európai szabványokat szabványként közzétenni Magyarországon csak nemzeti szabványként lehet.
 
 (3) A nemzeti szabvány nem lehet jogszabállyal ellentétes.
 
@@ -67,11 +67,11 @@ Az Országgyűlés annak érdekében, hogy elősegítse a nemzetgazdaság szerep
 
 ### A Magyar Szabványügyi Testület
 
-7. § (1) A Magyar Köztársaság nemzeti szabványügyi szervezete a Magyar Szabványügyi Testület (a továbbiakban: MSZT).
+7. § (1) Magyarország nemzeti szabványügyi szervezete a Magyar Szabványügyi Testület (a továbbiakban: MSZT).
 
 (2) Az MSZT köztestület (Ptk. 65. §), amely az alapszabályának megfelelően működik. Köztestületként a nemzeti szabványosítással összefüggő közfeladatokat kizárólagos jogkörrel látja el e törvény felhatalmazása alapján.
 
-(3) Az MSZT jogosult a Magyar Köztársaság címerének a használatára.
+(3)
 
 ### Az MSZT feladatai
 

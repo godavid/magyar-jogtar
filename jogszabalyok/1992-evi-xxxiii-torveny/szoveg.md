@@ -141,6 +141,8 @@ tervezetét.
 
 (2) Az Mt. 39. §-ának (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a „33. § (5) bekezdése” szövegrészen e törvény 12/A. § (4) bekezdését kell érteni.
 
+(3) Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 4–12. §-ban foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A fegyveres szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a fegyveres szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a fegyveres szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
+
 ### A közalkalmazottak részvételi jogai
 
 14. § (1) A részvételi jogokat a munkáltatóval közalkalmazotti jogviszonyban álló közalkalmazottak közössége nevében az általuk közvetlenül választott közalkalmazotti tanács, illetve közalkalmazotti képviselő gyakorolja.
@@ -163,7 +165,7 @@ tekintetében.
 - a) a munkáltató gazdálkodásából származó bevétel felhasználásának tervezetét,
 - b) a munkáltató belső szabályzatának tervezetét,
 - c) a közalkalmazottak nagyobb csoportját érintő munkáltatói intézkedés tervezetét,
-- d) a korengedményes nyugdíjazásra és az egészségkárosodott, megváltozott munkaképességű közalkalmazottak rehabilitációjára vonatkozó elképzeléseket,
+- d) az egészségkárosodott, megváltozott munkaképességű közalkalmazottak rehabilitációjára vonatkozó elképzeléseket,
 - e) a közalkalmazottak képzésével összefüggő terveket, valamint
 - f) a munkáltató munkarendjének kialakítását és az éves szabadságolási tervet.
 
@@ -582,8 +584,8 @@ kell alkalmazni.
 - b) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szerv vezetője, a központi költségvetési szerv vezetője vagy az önkormányzati képviselő-testület döntése alapján a munkáltatónál létszámcsökkentést, illetve átszervezést kell végrehajtani, és emiatt a közalkalmazott további foglalkoztatására nincs lehetőség;
 - c) a közalkalmazott munkaköri feladatainak ellátására tartósan alkalmatlanná vált vagy munkáját nem végzi megfelelően;
 - d) a közalkalmazott a felmentés közlésének, illetőleg legkésőbb a felmentési idő kezdetének napján nyugdíjasnak minősül (37/B. §);
-- e) az előrehozott öregségi nyugdíjjogosultság életkori, valamint szolgálati idővel kapcsolatos feltételeivel legkésőbb a felmentési idő utolsó napján rendelkező közalkalmazott azt írásban kérelmezi; vagy
-- f) a negyven éves szolgálati idővel igénybe vehető öregségi teljes nyugdíj [a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés] feltételével legkésőbb a felmentési idő utolsó napján rendelkező közalkalmazott nő azt írásban kérelmezi.
+- e)
+- f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő közalkalmazott kérelmezi.
 
 (2) A munkáltató a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie, és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 
@@ -778,7 +780,7 @@ kell megfelelően alkalmazni.
 
 átlagkeresetének megfelelő összeg.
 
-(7) A végkielégítés a (6) bekezdésben meghatározott mértéke négyhavi átlagkereset összegével emelkedik, ha a közalkalmazott közalkalmazotti jogviszonya az öregségi nyugdíjra [37/B. § (1) bekezdés a) pont] vagy a korkedvezményes öregségi nyugdíjra való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a közalkalmazottat, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült.
+(7) A végkielégítés a (6) bekezdésben meghatározott mértéke négyhavi átlagkereset összegével emelkedik, ha a közalkalmazott közalkalmazotti jogviszonya az öregségi nyugdíjra [37/B. § (1) bekezdés a) pont] való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a közalkalmazottat, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült.
 
 (8) A végkielégítés mértéke a (6)—(7) bekezdésben foglaltak kétszeresének megfelelő összeg, ha a közalkalmazotti jogviszony rendkívüli lemondás folytán szűnt meg.
 
@@ -805,23 +807,14 @@ kell megfelelően alkalmazni.
 
 37/B. § (1) E törvény alkalmazása szempontjából a közalkalmazott akkor minősül nyugdíjasnak, ha
 
-- a) a társadalombiztosítási nyugellátásról szóló törvény szerinti öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság), illetve
-- b) az a) pontban említett korhatár betöltése előtt öregségi nyugdíjban, vagy
-- c) korkedvezményes öregségi nyugdíjban, vagy
-- d) előrehozott (csökkentett összegű előrehozott) öregségi nyugdíjban, vagy
-- e) szolgálati nyugdíjban, vagy
-- f) korengedményes nyugdíjban, vagy
-- g) más, az öregségi nyugdíjjal egy tekintet alá eső nyugellátásban, illetőleg
-- h) rokkantsági (baleseti rokkantsági) nyugdíjban
+- a) az öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság),
+- b) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül,
+- c) az öregségi nyugdíjkorhatárt betöltötte, és a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban, öregségi, munkaképtelenségi járadékban, növelt összegű öregségi, munkaképtelenségi járadékban, vagy rokkantsági ellátásban részesül, vagy
+- d) a felmentésére a 30. § (1) bekezdés f) pontja alapján kerül sor.
 
-részesül.
+(2) A közalkalmazott akkor részesül az (1) bekezdés b) vagy c) pontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
 
-(2) A közalkalmazott akkor részesül az (1) bekezdés b)–h) pontokban felsorolt nyugellátásban, amikor a nyugellátást kérelmére megállapították.
-
-(3) Az (1) bekezdésben foglaltakon túlmenően, e törvény alkalmazásában nyugdíjasnak minősül az a közalkalmazott, aki
-
-- a) az előrehozott nyugdíj feltételeivel rendelkezik és felmentésére a 30. § (1) bekezdés e) pontja alapján kerül sor,
-- b) a negyven éves szolgálati idővel igénybe vehető öregségi teljes nyugdíj feltételével rendelkezik, és felmentésére a 30. § (1) bekezdés f) pontja alapján kerül sor.
+(3)
 
 (4) A közalkalmazott köteles tájékoztatni a munkáltatót, ha az (1) bekezdés hatálya alá esik.
 
@@ -1154,11 +1147,11 @@ alapszabadság illeti meg.
 
 (2)
 
-58. § (1) A pótszabadság a közalkalmazottat alapszabadságán felül – a (3) bekezdésben foglalt kivételekkel – egyszerre többféle jogcímen is megilleti.
+58. § (1) A pótszabadság a közalkalmazottat alapszabadságán felül – a (2)–(3) bekezdésben foglalt kivételekkel – egyszerre többféle jogcímen is megilleti.
 
 (2) A fizetési fokozathoz kapcsolódó [57. § (1) bekezdés] és a munkakör [57. § (3) bekezdése] alapján járó pótszabadság közül a magasabb mértékű pótszabadság jár.
 
-(3)
+(3) A munkakör és a beosztás [57. § (2) bekezdése] alapján járó pótszabadság közül a magasabb mértékű pótszabadság jár.
 
 58/A. § A közalkalmazottnak – kérelmére – a külszolgálat időtartamára fizetés nélküli szabadságot kell engedélyezni, ha a közalkalmazott házastársa külszolgálatot teljesít.
 
@@ -1217,7 +1210,7 @@ alapszabadság illeti meg.
 
 63. § (1) A közalkalmazott fizetési osztályát (besorolását) – a 61. § (1) bekezdésében foglaltak figyelembevételével – az ellátandó munkakör betöltésére előírt annak a legmagasabb iskolai végzettségnek, illetve szakképesítésnek, szakképzettségnek, doktori címnek, tudományos fokozatnak alapján kell meghatározni, amellyel a közalkalmazott rendelkezik.
 
-(2) A művészeti területen foglalkoztatottak esetében az „F” fizetési osztály helyett a „G” fizetési osztályba, a „H” fizetési osztály helyett az „I” fizetési osztályba kell besorolni azt a közalkalmazottat, aki a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény vagy a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja-díjjal vagy a kultúráért felelős miniszter által jogszabály alapján adományozható művészeti díjjal rendelkezik. E rendelkezést kell alkalmazni a korábban hatályos jogszabályok alapján Kossuth-díjban vagy állami díjban, illetve a jelenleg hatályos jogszabályokban szereplőkkel azonos elnevezésű művészeti díjban vagy kitüntető címben részesült, művészeti területen foglalkoztatott közalkalmazottak besorolásánál is.
+(2) A művészeti területen foglalkoztatottak esetében az „F” fizetési osztály helyett a „G” fizetési osztályba, a „H” fizetési osztály helyett az „I” fizetési osztályba kell besorolni azt a közalkalmazottat, aki a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény vagy a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja-díjjal vagy a kultúráért felelős miniszter által jogszabály alapján adományozható művészeti díjjal rendelkezik. E rendelkezést kell alkalmazni a korábban hatályos jogszabályok alapján Kossuth-díjban vagy állami díjban, illetve a jelenleg hatályos jogszabályokban szereplőkkel azonos elnevezésű művészeti díjban vagy kitüntető címben részesült, művészeti területen foglalkoztatott közalkalmazottak besorolásánál is.
 
 (3) Nem érinti a 61. § (1) bekezdése szerinti besorolást, ha a munkakör ellátásához az iskolai végzettségen, illetve szakképesítésen, szakképzettségen, doktori címen, tudományos fokozaton, valamint akadémiai tagságon túl egyéb más képesítés is szükséges.
 
@@ -1358,9 +1351,9 @@ alapszabadság illeti meg.
 - b) harminc év közalkalmazotti jogviszony esetén háromhavi,
 - c) negyven év közalkalmazotti jogviszony esetén öthavi illetményének megfelelő összeg.
 
-(3) Ha a közalkalmazott jogviszonya a 30. § (1) bekezdés d), e) vagy f) pontja alapján szűnik meg, részére a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni.
+(3) Ha a közalkalmazott jogviszonya a 30. § (1) bekezdés d) vagy f) pontja alapján szűnik meg, részére a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni.
 
-(4) Ha a közalkalmazott közalkalmazotti jogviszonya – a fegyelmi elbocsátás büntetés vagy a 25. § (2) bekezdés b) 1. pontja szerinti áthelyezés kivételével – megszűnik és legkésőbb a megszűnés időpontjában nyugdíjasnak minősül [37/B. § (1), illetve (3) bekezdés], továbbá legalább harmincöt évi közalkalmazotti jogviszonnyal rendelkezik, a negyvenéves közalkalmazotti jogviszonnyal járó jubileumi jutalmat részére a jogviszony megszűnésekor ki kell fizetni.
+(4) Ha a közalkalmazott közalkalmazotti jogviszonya – a fegyelmi elbocsátás büntetés vagy a 25. § (2) bekezdés b) 1. pontja szerinti áthelyezés kivételével – megszűnik és legkésőbb a megszűnés időpontjában nyugdíjasnak minősül [37/B. § (1) bekezdés], továbbá legalább harmincöt évi közalkalmazotti jogviszonnyal rendelkezik, a negyvenéves közalkalmazotti jogviszonnyal járó jubileumi jutalmat részére a jogviszony megszűnésekor ki kell fizetni.
 
 (5) A (4) bekezdésben szereplő rendelkezést a közalkalmazott örököse tekintetében megfelelően alkalmazni kell akkor is, ha a közalkalmazott jogviszonya elhalálozása miatt szűnik meg.
 
@@ -1399,6 +1392,28 @@ alapszabadság illeti meg.
 (11) Amennyiben az állam a készfizető kezességvállalás alapján a közalkalmazott helyett a kezességvállalással biztosított – a hitelintézetnek meg nem térülő – összeget kifizette, illetve a (6) bekezdés szerinti egyszeri kezességvállalási díj megfizetését a közalkalmazott elmulasztotta, akkor a közalkalmazott ezen tartozásai a Magyar Állammal szembeni köztartozásnak minősülnek, amelyet az állami adóhatóság adók módjára hajt be.
 
 (12)
+
+78/B. § (1) A közalkalmazott részére a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 200/B. § (1) bekezdésében meghatározott végtörlesztéséhez kizárólag visszterhes munkáltatói kölcsön nyújtható.
+
+(2) Az (1) bekezdésben meghatározott munkáltatói kölcsön összege a közalkalmazott háztartásában eltartott gyermekek számától függően:
+
+- a) egy gyermek esetén legfeljebb 6 millió forint,
+- b) két gyermek esetén legfeljebb 8 millió forint,
+- c) három gyermek esetén legfeljebb 10 millió forint,
+- d) minden további gyermek után legfeljebb gyermekenként további 1 millió forint.
+
+(3) E § szempontjából gyermek:
+
+- a) a közalkalmazott vér szerinti és örökbe fogadott gyermeke,
+- b) a közalkalmazott háztartásában legalább egy éve nevelt mostoha gyermek,
+- c) a közalkalmazott gyámsága alatt álló legalább egy éve vele együttélő és általa eltartott gyermek,
+- d) az átmeneti vagy tartós nevelésbe vett gyermek, aki a gyermek-és ifjúságvédő intézettel kötött megállapodás alapján legalább egy éve él a köztisztviselőnél, mint nevelőszülőnél.
+
+(4) E § szempontjából eltartottnak minősül a gyermek, ha
+
+- a) a 16. életévét még nem töltötte be,
+- b) a 16. életévét már betöltötte, de oktatási intézmény nappali tagozatán tanul és 25. életévét még nem töltötte be,
+- c) a 16. életévét már betöltötte, de munkaképesség-csökkenést, illetve egészségkárosodást szenvedett személy és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg.
 
 79. § (1) Végrehajtási rendelet előírhatja a munka jellegére tekintettel biztosítandó formaruha-juttatást.
 
@@ -1574,7 +1589,7 @@ alapszabadság illeti meg.
   - fk) azt a magasabb vezető és vezető beosztást, amelynek a betöltéséhez a munkakör ellátásához szükséges magyar nyelvtudás előírható;
 - g) a testnevelési és sportintézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében munkakörönként a napi munkaidőből a kötelezően a munkahelyen töltendő időt.
 
-(4) Felhatalmazást kap az elektronikus hírközlésért, a honvédelemért, a katonai nemzetbiztonsági szolgálatok irányításáért, a környezetvédelemért, a vízügyért, a természetvédelemért, az oktatásért, a kultúráért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, az államháztartásért, a nemzetpolitikáért, a kisebbségpolitikáért, a c) pont kivételével az agrár-vidékfejlesztésért, az e) pont kivételével a katasztrófák elleni védekezésért, az a) pont utolsó fordulata és a c) pont kivételével a polgári nemzetbiztonsági szolgálatok irányításáért, a polgári hírszerzési tevékenység irányításáért, a b) és g) pont kivételével a közlekedésért, az energiapolitikáért, a bányászati ügyekért és a postaügyért (a továbbiakban: a közlekedésért), az a) pont utolsó fordulata és az e) pont kivételével a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, továbbá valamennyi pont tekintetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
+(4) Felhatalmazást kap az elektronikus hírközlésért, a honvédelemért, a Katonai Nemzetbiztonsági Szolgálat irányításáért, a környezetvédelemért, a vízügyért, a természetvédelemért, az oktatásért, a kultúráért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, az államháztartásért, a nemzetpolitikáért, a nemzetiségpolitikáért, a c) pont kivételével az agrár-vidékfejlesztésért, az e) pont kivételével a katasztrófák elleni védekezésért, az a) pont utolsó fordulata és a c) pont kivételével a polgári nemzetbiztonsági szolgálatok irányításáért, a polgári hírszerzési tevékenység irányításáért, a b) és g) pont kivételével a közlekedésért, az energiapolitikáért, a bányászati ügyekért és a postaügyért (a továbbiakban: a közlekedésért), az a) pont utolsó fordulata és az e) pont kivételével a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, továbbá valamennyi pont tekintetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
 
 - a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 - b) azt a munkakört, amelyben nem kötelező pályázat kiírása a közalkalmazotti jogviszony létesítéséhez,
@@ -1592,7 +1607,7 @@ alapszabadság illeti meg.
 - d) a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, az államháztartásért, valamint a honvédelemért felelős miniszter, hogy a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 - e)
 - f) a honvédelemért, valamint a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért felelős miniszter, hogy munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
-- g) a honvédelemért, katonai nemzetbiztonsági szolgálatok irányításáért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért, a katasztrófák elleni védekezésért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért felelős miniszter, hogy a gyakornoki idő kikötése alól mentes munkaköröket,
+- g) a honvédelemért, Katonai Nemzetbiztonsági Szolgálat irányításáért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért, a katasztrófák elleni védekezésért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért felelős miniszter, hogy a gyakornoki idő kikötése alól mentes munkaköröket,
 - h) a honvédelemért felelős miniszter, hogy a gyakornoki követelmények ágazati szakmai tartalmát,
 - i) a honvédelemért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért, a katasztrófák elleni védekezésért, valamint az államháztartásért felelős miniszter, hogy azokat a munkaköröket, illetve munkakörönként – a kinevezéshez szükséges iskolai végzettséggel, szakképesítéssel, illetve szakképzettséggel egyenértékű – azon iskolai végzettséget, szakképesítést, illetve szakképzettséget, amellyel a közalkalmazott által korábban ellátott, a 22. § (3) bekezdés szerinti jogviszony tartamát a szakmai gyakorlat idejébe be kell számítani,
 - j) a honvédelemért, az elektronikus hírközlésért, a foglalkoztatáspolitikáért, a felnőttképzésért és a szakképzésért, a szociál- és családpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
@@ -1697,7 +1712,7 @@ eltöltött időt.
 
 (2) Az (1) bekezdés nem alkalmazható, ha a vezetői megbízás mellett ellátandó munkakört külön jogszabály alapján csak felsőfokú végzettséggel lehet betölteni.
 
-91. § Az e törvénynek a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvénnyel (a továbbiakban: Módtv.) megállapított 25/E. §-át a Módtv. hatálybalépésekor folyamatban lévő ügyekben akkor kell alkalmazni, ha az alapító szerv a költségvetési szervként működő többcélú intézmény átalakítására, illetve megszüntetésére irányuló, az államháztartásról szóló 1992. évi XXXVIII. törvény 95. § (1) bekezdése szerinti döntését meghozta és a Módtv. hatálybalépésekor a költségvetési szerv megszüntetésére még nem került sor.
+91. § Az e törvénynek a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvénnyel (a továbbiakban: Módtv.) megállapított 25/E. §-át a Módtv. hatálybalépésekor folyamatban lévő ügyekben akkor kell alkalmazni, ha az alapító szerv a költségvetési szervként működő többcélú intézmény átalakítására, illetve megszüntetésére irányuló, az államháztartásról szóló 2011. évi CXCV. törvény szerinti döntését meghozta és a Módtv. hatálybalépésekor a költségvetési szerv megszüntetésére még nem került sor.
 
 92. § (1)
 
@@ -1705,11 +1720,7 @@ eltöltött időt.
 
 (3)
 
-93. § (1)
-
-(2)—(3)
-
-(4)–(6)
+93. § Ha a közalkalmazotti jogviszony 2011. december 31-ét követően szűnik meg, és a munkáltató a felmentést, a munkáltató jogutód nélküli megszűnését vagy a munkavállaló a rendkívüli lemondást a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény hatálybalépését megelőzően közölte, a közalkalmazott a közléskor hatályos szabályokban foglaltaknak megfelelően, ezt követő közlés esetén a megszűnéskor hatályos szabályokban foglaltaknak megfelelően minősül nyugdíjasnak.
 
 94. § E törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
 

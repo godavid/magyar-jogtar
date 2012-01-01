@@ -12,7 +12,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 (2) A tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles és nem hiteles tulajdonilap-másolatért igazgatási szolgáltatási díjat kell fizetni (a továbbiakban: elektronikus adatszolgáltatási díj). Az elektronikus adatszolgáltatási díj az ingatlan-nyilvántartásért felelős miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott arányban az ingatlanügyi hatóságot és a rendeletben meghatározott szervet illeti. Az elektronikus adatszolgáltatási díjon kívül egyéb fizetési kötelezettség a tulajdonilap-másolat szolgáltatással összefüggésben nem írható elő.
 
-28. § (1) A tulajdoni lapról kiállított hiteles másolatért 6250 forint összegű díjat kell fizetni.
+28. § (1) A tulajdoni lapról kiállított papír alapú hiteles másolatért 6250 forint összegű díjat kell fizetni.
 
 (2) A tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolatért 3600 forint, a nem hiteles másolatért 1000 forint elektronikus adatszolgáltatási díjat kell fizetni.
 
@@ -20,9 +20,9 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 29. § (1) A díjat, valamint az elektronikus adatszolgáltatási díjat annak kell megfizetnie, aki a tulajdonilap-másolat szolgáltatását kéri, illetve amely szerv az erre irányuló megkeresést előterjeszti.
 
-(2) A 28. § (1) és (3) bekezdése szerinti díjfizetési kötelezettség az ingatlanügyi hatóság pénztárába történő készpénzbefizetéssel, amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő átutalási megbízással teljesíthető.
+(2) A 28. § (1) és (3) bekezdése szerinti díjfizetési kötelezettség az ingatlanügyi hatóság pénztárába történő készpénzbefizetéssel, amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, a kérelem előterjesztésével egyidejűleg bankkártyával vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással vagy átutalási megbízással teljesíthető.
 
-(3) A díj átutalási megbízással történő megfizetése esetén a tulajdonilap-másolat kiállítása iránti kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot vagy annak másolatát.
+(3) A díj készpénz-átutalási megbízással vagy átutalási megbízással történő megfizetése esetén a tulajdonilap-másolat kiállítása iránti kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló bizonylatot vagy annak másolatát.
 
 (4) A díj megfizetésének, illetve a megfizetés igazolásának elmulasztása esetén – ha az ügyfél a hiányt felszólítás ellenére nyolc napon belül nem pótolja – az ingatlanügyi hatóság a tulajdonilap-másolat kiállítása iránti kérelmet elutasítja. A hiánypótlásra történő felszólításban az ügyfelet figyelmeztetni kell a mulasztás jogkövetkezményeire.
 
@@ -33,7 +33,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 30. § (1) Teljes személyes díjmentességben részesül:
 
 - a) a Magyar Állam,
-- b) az egyház, egyházak szövetsége, egyházi intézmény.
+- b) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint nyilvántartásba vett belső egyházi jogi személy;
 
 (2) Az (1) bekezdés b) pontjában meghatározott szervezet ingatlanonként évente egy alkalommal részesülhet a tulajdonilap-másolat díjának megfizetése alól személyes díjmentességben.
 
@@ -41,13 +41,13 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 31. § (1) Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése, ha az
 
-- a) hagyatéki eljáráshoz,
+- a) hagyatéki eljárás lefolytatásához,
 - b) gyámügyi, szociális vagy kisajátítási eljáráshoz,
 - c) részarány-földtulajdonnal kapcsolatos eljáráshoz,
 - d) a földmérési és térképészeti tevékenységről szóló törvényben meghatározott állami alapmunkák végzéséhez,
 - e) a földmérési és térinformatikai államigazgatási szerv hatósági feladatai ellátásához szükséges, illetve ha azt
 - f) az eljáró szerv
-  - fa) közigazgatási eljáráshoz,
+  - fa) közigazgatási hatósági eljáráshoz,
   - fb) közérdekű bejelentés, javaslat és panasz elbírálására irányuló eljáráshoz,
   - fc) gondnokság alá helyezés iránti eljáráshoz,
 - g) a közigazgatási perben eljáró bíróság eljárásához,
@@ -56,7 +56,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 - j) a nyomozó hatóság és a nemzetbiztonsági szolgálatok feladatai ellátása érdekében,
 - k) a helyi önkormányzat, illetve azok társulásai közszolgáltatásait érintő beruházások megvalósítása érdekében benyújtandó közösségi, illetőleg nemzeti forrásból nyújtott támogatással megvalósuló pályázatok dokumentációjának elkészítéséhez kéri.
 
-(2) Tárgyánál fogva díjmentes a hiteles tulajdonilap-másolat kiállítása, valamint az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése, ha az igazolhatóan birtok-összevonási célú önkéntes földcsere megszervezése iránt indított eljáráshoz szükséges.
+(2) Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat lekérdezése, ha az igazolhatóan birtok-összevonási célú önkéntes földcsere megszervezése iránt indított eljáráshoz szükséges.
 
 (3) Az (1) bekezdés f) pontjának fa) alpontja nem vonatkozik arra az esetre, ha a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltak szerint az ügyfél köteles az adatszolgáltatásért járó díjat megfizetni.
 
@@ -66,7 +66,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 (6) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a díjmentesség igénybevételére jogszerűtlenül került sor, továbbá az (5) bekezdésben foglaltak megsértése esetén az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi. A döntés ellen közigazgatási eljárás keretében nincs helye fellebbezésnek.
 
-32. § (1) A díjat vissza kell téríteni, ha a kérelem visszavonásáról az ingatlanügyi hatóság az érdemi intézkedést megelőzően tudomást szerzett. A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a felülvizsgált hatósági döntés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
+32. § (1) A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a tulajdonilap-másolat kiállítása iránti kérelmet elutasító döntés az ügyfél hátrányára jogszabálysértőnek bizonyult.
 
 (2) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
 
@@ -76,7 +76,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 32/A. § (1) Az elsőfokú eljárásért – ha e törvény másként nem rendelkezik – változással érintett ingatlanonként 6600 forint összegű díjat kell fizetni.
 
-(2) A jelzálogjog bejegyzése, valamint a bejegyzés módosítása iránti eljárás díja változással érintett ingatlanonként 12 600 forint.
+(2) A jelzálogjog bejegyzése, valamint – ide nem értve a jelzálogjog törlését – a bejegyzés módosítása iránti eljárás díja változással érintett ingatlanonként 12 600 forint.
 
 (3)
 
@@ -92,20 +92,22 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 (9) A (7) és (8) bekezdés rendelkezéseit a lakásszövetkezet esetén is megfelelően alkalmazni kell.
 
-(10) Az ingatlan-nyilvántartási eljárásért fizetett díj az ingatlanügyi hatóság saját bevételét képezi, amely az ingatlan-nyilvántartásért felelős miniszter által az e törvény felhatalmazása alapján az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. Az ingatlan-nyilvántartási eljárásért fizetendő díjbevétel 25%-át az ingatlan-nyilvántartásért felelős miniszter jogosult központosítani, amely kizárólag a földügyi szakigazgatáson belüli bevétel kiegyenlítésére fordítható.
+(9a) Az ingatlan közigazgatási címének közterület-név változás miatt történő átvezetése iránti megkeresés alapján indult eljárás díja közterületenként 2 600 forint.
+
+(10) Az ingatlan-nyilvántartási eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely az ingatlan-nyilvántartásért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. Az ingatlan-nyilvántartási eljárásért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.
 
 32/B. § (1) Az ingatlan-nyilvántartási eljárás díja alól teljes személyes díjmentességben részesül:
 
 - a) a Magyar Állam,
 - b)–d)
-- e) az egyház, egyházak szövetsége, egyházi intézmény,
+- e) az egyház, a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint nyilvántartásba vett belső egyházi jogi személy;
 - f)–j)
-- k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az 1995. évi LXVII. törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az említett fegyveres erők alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében;
+- k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az Észak-atlanti Szerződés Szervezetével aláírt „Békepartnerség” program Keretdokumentumának törvénybe iktatásáról, és annak a Magyar Köztársaság által történő végrehajtásáról szóló törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az azok alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében.
 - l)
 
-(2) Az (1) bekezdés e) pontjában említett szervezetet a díjmentesség csak abban az esetben illeti meg, ha az eljárás megindítását megelőző naptári évben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége nem keletkezett.
+(2) Az (1) bekezdés e) pontjában említett szervezetet a díjmentesség csak abban az esetben illeti meg, ha az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége nem keletkezett.
 
-(3) A díjmentességnek a (2) bekezdésben meghatározott feltétele meglétéről a szervezet az eljárás megindításakor írásban köteles nyilatkozni. A nyilatkozatnak tartalmaznia kell, hogy a szervezet – az eljárás megindítását megelőző naptári évben folytatott vállalkozási tevékenységéből származó jövedelme után, vagy ilyen tevékenység hiányában – társasági adó fizetésére nem volt kötelezett.
+(3) A díjmentességnek a (2) bekezdésben meghatározott feltétele meglétéről a szervezet az eljárás megindításakor írásban köteles nyilatkozni. A nyilatkozatnak tartalmaznia kell, hogy a szervezet – az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után, vagy ilyen tevékenység hiányában – társasági adó fizetésére nem volt kötelezett.
 
 (4) Nemzetközi szervezet, ennek tisztségviselői és családtagjaik, idegen állam, idegen állam magyarországi diplomáciai, konzuli és egyéb képviselete, ezek tagjai és családtagjaik díjmentességére nézve nemzetközi szerződés, ennek hiányában a viszonosság az irányadó.
 
@@ -138,7 +140,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.
 
-32/D. § Ha egy ingatlanügyi hatóságnál egyazon ingatlanra vonatkozóan a kérelmező többféle jog vagy tény keletkezésének, módosulásának vagy megszüntetésének a bejegyzését vagy a bejegyzett ilyen jog vagy tény törlését egy eljárásban kéri, azt az értéket kell a díjfizetés alapjául venni, amely után a legmagasabb díj jár.
+32/D. § Ha az ingatlanügyi hatóságnál ugyanazon ingatlanra vonatkozóan a kérelmező többféle, egymástól különböző típusú jog vagy tény keletkezésének, módosulásának vagy megszüntetésének a bejegyzését, feljegyzését, vagy a bejegyzett ilyen jog vagy feljegyzett ilyen tény törlését egy eljárásban kéri, a díjat csak egyszer, a legmagasabb díjtételnek megfelelő összegben kell megfizetni.
 
 32/E. § (1) A díjat annak kell megfizetnie, aki az ingatlan-nyilvántartási eljárás lefolytatását kéri, illetve amely szerv az erre irányuló megkeresést előterjeszti. Ha a kérelmet vagy a megkeresést előterjesztő és a bejegyzés, feljegyzés, vagy törlés által jogot szerző, illetve a jogosult nem azonos, a díjat annak kell megfizetni:
 
@@ -149,19 +151,19 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 (2) Több fizetésre kötelezett esetén a feleket egyetemleges díjfizetési kötelezettség terheli.
 
-(3) Ha a megkeresést előterjesztő és a díj megfizetésére kötelezett nem azonos, a megkeresést előterjesztő – amennyiben a díj megfizetésére kötelezett a díj megfizetését nála igazolta – a díj megfizetését igazoló okiratot, vagy annak másolatát a megkeresésével együtt továbbítja az eljáró ingatlanügyi hatóságnak.
+(3) Ha a megkeresést előterjesztő és a díj megfizetésére kötelezett nem azonos, a megkeresést előterjesztő – amennyiben a díj megfizetésére kötelezett a díj megfizetését nála igazolta – a díj megfizetését igazoló bizonylatot, vagy annak másolatát a megkeresésével együtt továbbítja az eljáró ingatlanügyi hatóságnak.
 
 (4) A (3) bekezdésben foglaltak hiányában a megkeresést előterjesztő legkésőbb a megkeresés előterjesztésével egyidejűleg a díj összegének, valamint az eljáró ingatlanügyi hatóságnak a megjelölésével tájékoztatja a díj megfizetésére kötelezettet, hogy a díj megfizetését a (9) bekezdés szerinti határidőben az eljáró ingatlanügyi hatóságnál igazolnia kell, és erről a tájékoztatásról a megkeresésében az ingatlanügyi hatóságot tájékoztatja.
 
 (5) A díjfizetésre kötelezett személyének megállapításához szükséges adatok hiányában az ingatlanügyi hatóság a megkereső szervet hívja fel a (9) bekezdés szerinti hiánypótlásra.
 
-(6) A díjnak a másodfokú ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot vagy annak másolatát.
+(6) A díjnak a másodfokú ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló bizonylatot vagy annak másolatát.
 
 (7) Átutalással történő fizetési mód esetén az átutalási megbízáson fel kell tüntetni a külön jogszabályban meghatározott kincstári tranzakciós kódot, valamint az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát. Készpénz-átutalási megbízással történő fizetés esetén a készpénz-átutalási megbízás „Közlemény” rovatában fel kell tüntetni az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát.
 
 (8) Ha e törvény másként nem rendelkezik a díjfizetési kötelezettség (ideértve a fellebbezés díját is) az ingatlanügyi hatóságnál – a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel, ha az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával – vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető.
 
-(9) A díj megfizetésének elmulasztása, valamint a (7) bekezdésben megjelölt adatok hiányában nem beazonosítható díjbefizetés esetén a hiánypótlási felhívás kézhezvételétől számított tíz munkanapon belül kell megfizetni a díjat és igazolni annak megfizetését.
+(9) A díj megfizetésének elmulasztása, valamint a (7) bekezdésben megjelölt adatok hiányában nem beazonosítható díjbefizetés esetén a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül kell megfizetni a díjat és igazolni annak megfizetését.
 
 (10) Ha jogerős hagyatékátadó végzés, bírósági és hatósági határozat, illetve bírósági, bírósági végrehajtói vagy hatósági megkeresés alapján induló eljárás esetén a díj megfizetésére kötelezett nem tesz eleget a (9) bekezdés szerinti hiánypótlási felhívásban foglaltaknak, az ingatlanügyi hatóság az eljárást lefolytatja, azonban a meg nem fizetett díj és annak járulékai adók módjára behajtandó köztartozásnak minősülnek.
 
@@ -174,15 +176,17 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 (12) Ha a díj megfizetését a végrehajtást kérő az (1) bekezdés szerint, vagy a (9) bekezdés alapján történő fizetést követően a végrehajtási eljárásban igazolta, továbbá utólagos díjfizetés igénybevétele esetén a díjat a végrehajtási eljárásban végrehajtási költségként kell behajtani.
 
-(13) A 32/A. § (4) bekezdésében meghatározott díjat a soron kívüli eljárás lefolytatása iránti kérelem előterjesztésével egyidejűleg kell az ingatlanügyi hatóság pénztárába befizetni, vagy amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával megfizetni, illetve a díj készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén mellékelni kell a kérelemhez a díj megfizetését igazoló okiratot vagy annak másolatát.
+(13) A 32/A. § (4) bekezdésében meghatározott díjat a soron kívüli eljárás lefolytatása iránti kérelem előterjesztésével egyidejűleg kell az ingatlanügyi hatóság pénztárába befizetni, vagy amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával megfizetni, illetve a díj készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén mellékelni kell a kérelemhez a díj megfizetését igazoló bizonylatot vagy annak másolatát.
 
 (14) A (9) bekezdésben foglaltak nem teljesítése esetén a soronkívüliség, illetve a hitelesített vagy hitelesítés nélküli iratmásolat, illetőleg kivonat iránti kérelem nem teljesíthető.
 
 32/F. § (1) A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a felülvizsgált hatósági döntés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
 
-(2) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
+(2) Ha a kérelem és a befizetést igazoló bizonylatok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
 
 (3) A visszatérítést hivatalból kell elrendelni, és annak teljesítéséről harminc napon belül intézkedni kell.
+
+32/G. § Az Inytv. 75. § (1) bekezdése szerinti TAKARNET engedélyezési eljárásért 3 000 forint összegű díjat kell megfizetni.
 
 ### ZÁRÓ RENDELKEZÉSEK
 
@@ -198,7 +202,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 (6)
 
-(7) Felhatalmazást kap az ingatlan-nyilvántartásért felelős miniszter, hogy a díj és az elektronikus adatszolgáltatási díj befizetésére, kezelésére és nyilvántartására, valamint felhasználására vonatkozó szabályokat – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.
+(7) Felhatalmazást kap a földügyért felelős miniszter, hogy a díj és az elektronikus adatszolgáltatási díj megfizetésére, kezelésére, nyilvántartására és felhasználására, valamint a fővárosi és megyei kormányhivatalon belüli elszámolásra vonatkozó részletes szabályokat a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 33/A. § (1) Az államháztartás alrendszereiből, európai uniós forrásokból, illetve nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati vagy pályázati rendszeren kívüli támogatások odaítélésére irányuló eljárásban mellékletként nem lehet tulajdonilap-másolat csatolását kérni.
 

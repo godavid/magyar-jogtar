@@ -124,17 +124,22 @@ a járművezető
 - f) székhelyének (telephelyének) címét,
 - g) cégjegyzék-, illetőleg nyilvántartási számát.
 
+(1a) A járműnyilvántartás tulajdonváltozás esetén – a tulajdonszerző bejelentéséig – tartalmazza a régi tulajdonos által teljesített bejelentés (tulajdonátruházási szerződés) alapján a tulajdonszerzőre vonatkozó 9. § (1) bekezdése szerinti adatokat.
+
 (2) A járműnyilvántartás a külön jogszabályban meghatározottak szerint tartalmazza a jármű
 
 - a) azonosító és műszaki adatait, valamint motorjának egyedi azonosító jelét, illetve kódját,
 - b) forgalomban tarthatóságának feltételeit,
 - c) forgalmazási korlátozására vonatkozó adatokat, ideértve az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására elrendelt zárlatra vonatkozó adatokat is,
 - d) a járműokmányok és a hatósági igazolványok, bizonyítványok, tanúsítványok okmányazonosító jelére, kiadására, érvényességére, cseréjére, visszavonására,
-- e) vonatkozásában a járműokmányoknak és a jármű hatósági jelzésének az elvesztésére, eltulajdonítására, megsemmisülésére, találására, megkerülésére, valamint a forgalmi engedély okmány, illetve a jármű hatósági jelzése tekintetében a figyelmeztető jelzés elhelyezésére vonatkozó adatokat.
+- e) vonatkozásában a járműokmányoknak és a jármű hatósági jelzésének az elvesztésére, eltulajdonítására, megsemmisülésére, találására, megkerülésére, valamint a forgalmi engedély okmány, illetve a jármű hatósági jelzése tekintetében a figyelmeztető jelzés elhelyezésére vonatkozó adatokat,
+- f) kilométerszámláló műszere által jelzett értéket (km-óra állást) és a km-óra állás rögzítésének időpontját.
 
 (3) A járműnyilvántartás tartalmazza a külön jogszabályban meghatározottak szerint a régi tulajdonos (átruházó) tulajdonjog-változáshoz kapcsolódó bejelentési kötelezettség-teljesítésének időpontját.
 
 (4) A járműtulajdonos (üzemben tartó) kérésére a járműnyilvántartás tartalmazza a járműtulajdonos (üzemben tartó) rövid szöveges üzenet fogadására szolgáló elérhetőségét, telefonszámát vagy elektronikus levélcímét.
+
+(5) 3,5 tonna össztömeget meghaladó tehergépjárművet, autóbuszt üzemeltető tulajdonos (üzembentartó) az (1) bekezdés f) pontja szerinti székhely, telephely címként csak olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék tartalmaz és e járművek számára ténylegesen tárolási helyül szolgál. Azt a tényt, hogy a települési cím szerinti ingatlan alkalmas a járművek tárolására a települési önkormányzat jegyzője igazolja.
 
 9/A. § (1) A származás-ellenőrzési nyilvántartás tartalmazza:
 
@@ -194,7 +199,7 @@ bizonyítvány a 9/B. § (1) bekezdésének a), f) és h) pontjaiban meghatároz
 - a) a természetes személy (a továbbiakban: polgár) bejelentése alapján a 8. § a)–e) és g) pontjaiban megjelölt adatokról, valamint a 8. § a), b), g) pontjaiban megjelölt adatok megváltozásáról;
 - b) a 8. § i)–l) pontjaiban megjelölt adatokról, azok változásáról, és az annak alapjául szolgáló okmányokban foglalt adatokról;
 - c) a vizsgálatot végző szerv tájékoztatása alapján a 8. § e) pontjában megjelölt adatokról, azok változásáról;
-- d) a tulajdonos (üzembentartó) bejelentése alapján a 9. § (1) bekezdésében és a 9. § (2) bekezdés e) pontjában megjelölt, illetve a külön jogszabályban meghatározott egyéb adatokról és azok változásáról.
+- d) a tulajdonos (üzembentartó) bejelentése alapján a 9. § (1) bekezdésében és a 9. § (2) bekezdés e) és f) pontjában megjelölt, illetve a külön jogszabályban meghatározott egyéb adatokról és – ha külön jogszabály eltérően nem rendelkezik – azok változásáról.
 
 (2) A nyilvántartót értesíti:
 
@@ -202,7 +207,7 @@ bizonyítvány a 9/B. § (1) bekezdésének a), f) és h) pontjaiban meghatároz
 - b) a személyiadat- és lakcímnyilvántartás szerve a polgár nyilvántartásba bejegyzett adatai megváltozásáról, illetve elhalálozásának idejéről;
 - c) a külön jogszabályban meghatározott hatóság a 8. § h) pontjában megjelölt adatokról;
 - d) a parkolási igazolványt kiállító hatóság a 8/A. §-ban meghatározott adatokról.
-- e) a közlekedési hatóság a járművezetőnek a 8. § a)–d), az e) pontban meghatározott pályaalkalmasságára és utánképzésére vonatkozó, továbbá a k) és l) pontjaiban, valamint a jármű típus-, illetve műszaki vizsgálatát követően a 9. § (2) bekezdésének a), b) és d) pontjaiban meghatározott adatairól;
+- e) a közlekedési hatóság a járművezetőnek a 8. § a)–d), az e) pontban meghatározott pályaalkalmasságára és utánképzésére vonatkozó, továbbá a k) és l) pontjaiban, valamint a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a járműhonosítási eljárásban megállapított, a 9. § (2) bekezdésének a), b), d) és f) pontjaiban meghatározott adatairól;
 - f) a biztosító a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól.
 
 14/A. § A közlekedési igazgatási hatóságot értesíti
@@ -259,7 +264,7 @@ igényelhető.
 - a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat;
 - b) a közúti közlekedési ügyekben eljáró hatóságok a külön jogszabályban megjelölt feladataik ellátásához szükséges adatokat;
 - c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
-- d) a honvédelmi igazgatás szerve a hadkötelesek nyilvántartásához a 8. § a), b), f), i), k) pontjaiban megjelölt adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a hadkiegészítő parancsnokság, a Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1) bekezdésében, valamint 9. § (2) bekezdés a) pontjában meghatározott adatokat;
+- d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § a), b), f), i), k) pontjaiban megjelölt adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a hadkiegészítő parancsnokság, a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozóhatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1) bekezdésében, valamint 9. § (2) bekezdés a) pontjában meghatározott adatokat;
 - e) a települési önkormányzat jegyzője
   - ea) gépjármű-adóztatási feladatok ellátásához a 9. §-ban és a 9/A. § (1) bekezdésében megjelölt adatokat,
   - eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § a), d), f)–i) és k) pontjaiban, a 9. § (1) bekezdésének a), b), e) és f) pontjaiban, a 9. § (2) bekezdésének a), b), d) és e) pontjaiban, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdésének a)–e) pontjaiban megjelölt adatokat;
@@ -279,7 +284,7 @@ igényelhető.
 - a) a 8. § c), d) pontjaiban megjelölt adatok kivételével
   - aa) a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához,
   - ab) a közúti közlekedés ellenőrzésére jogosult hatóságok jogszabályban meghatározott feladataik ellátásához;
-- b) a hivatásos polgári védelmi szerv, a megyei közgyűlés elnöke, a főpolgármester és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § c), d), g), h) és a 9. § (1) bekezdés c), d), g) pontjaiban megjelölt adatok kivételével.
+- b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § c), d), g), h) és a 9. § (1) bekezdés d), g) pontjaiban megjelölt adatok kivételével.
 
 (3) A külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata adatszolgáltatást igényelhet az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről.
 
@@ -369,7 +374,7 @@ igényelhető.
 
 (3) Az érintett személy az adattovábbítási nyilvántartásból – törvény eltérő rendelkezése hiányában – jogosult megismerni, hogy mely adatszolgáltatások alanya volt.
 
-(4) Az adattovábbítási nyilvántartásba – ha törvény eltérően nem rendelkezik – feladatkörében betekinthet, abból adatot kérhet az adatvédelmi biztos, a közlekedésrendészetért felelős miniszter, az általa ellenőrzésre kijelölt köztisztviselő, a nyomozó hatóság és törvényben feljogosított szerv.
+(4) Az adattovábbítási nyilvántartásba – ha törvény eltérően nem rendelkezik – feladatkörében betekinthet, abból adatot kérhet a Nemzeti Adatvédelmi és Információszabadság Hatóság, a közlekedésrendészetért felelős miniszter, az általa ellenőrzésre kijelölt köztisztviselő, a nyomozó hatóság és törvényben feljogosított szerv.
 
 (5) Az e törvény 27/A. §-a alapján teljesített adatátvételről és adattovábbításról, a találatról és annak hiányáról nyilvántartást kell vezetni, amely tartalmazza:
 
@@ -383,9 +388,9 @@ igényelhető.
 
 (6) Az (5) bekezdés alapján vezetett adattovábbítási nyilvántartást az adattovábbítástól számított két évig meg kell őrizni.
 
-(7) Az (5) bekezdésben szereplő adatokat az adatvédelmi biztos kérésére haladéktalanul közölni kell.
+(7) Az (5) bekezdésben szereplő adatokat a Nemzeti Adatvédelmi és Információszabadság Hatóság kérésére haladéktalanul közölni kell.
 
-(8) Az adatvédelmi biztos az ellenőrzések eredményét további ellenőrzés céljából 18 hónapig megőrzi, amit ezen időtartam lejárta után haladéktalanul töröl.
+(8) A Nemzeti Adatvédelmi és Információszabadság Hatóság az ellenőrzések eredményét további ellenőrzés céljából 18 hónapig megőrzi, amit ezen időtartam lejárta után haladéktalanul töröl.
 
 32/A. § (1) Az átvett személyes adatok kizárólag az adatok átadásának az Európai Unió kötelező jogi aktusában meghatározott célból kezelhetők. Bármilyen más célból való felhasználás csak az eredeti adatállományt kezelő tagállam előzetes engedélyével lehetséges.
 

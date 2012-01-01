@@ -34,7 +34,7 @@ az egyes egészségügyi tárgyú törvények módosításáról
 
 ### Egyéb, az egészségüggyel összefüggő törvények módosítása
 
-84–88. §
+84. §
 
 ### Záró rendelkezések
 

@@ -1250,5 +1250,5 @@ Készült Hágában, az 1999. év március hó 26. napján, egyetlen példányba
 
 (3) Felhatalmazást kap a miniszter, hogy rendeletben hirdesse ki:
 
-- a) a kulturális javak fegyveres összeütközés esetén való védelméről szóló 1954. évi Hágai Egyezmény 8. Cikke szerinti, a Magyar Köztársaság területén különleges védelem alatt álló kulturális javak listáját, valamint a jelen Jegyzőkönyv 10. Cikke szerinti, a Magyar Köztársaság területén kiemelt védelem alatt álló kulturális javak listáját,
+- a) a kulturális javak fegyveres összeütközés esetén való védelméről szóló 1954. évi Hágai Egyezmény 8. Cikke szerinti, Magyarország területén különleges védelem alatt álló kulturális javak listáját, valamint a jelen Jegyzőkönyv 10. Cikke szerinti, Magyarország területén kiemelt védelem alatt álló kulturális javak listáját,
 - b) a kulturális javak fegyveres összeütközés esetén való védelméről szóló 1954. évi Hágai Egyezmény 8. Cikkének 6. pontjában említett különleges védelem alatt álló kulturális javak nemzetközi jegyzékét, valamint a jelen Jegyzőkönyv 27. Cikke 1. pontjának b) bekezdésében említett kiemelt védelem alatt álló kulturális javak listáját.

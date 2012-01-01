@@ -2,7 +2,7 @@
 
 a környezet védelmének általános szabályairól
 
-Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környezeti értékek a nemzeti vagyon részei, amelyeknek megőrzése és védelme, minőségének javítása alapfeltétel az élővilág, az ember egészsége, életminősége szempontjából; e nélkül nem tartható fenn az emberi tevékenység és a természet közötti harmónia, elmulasztása veszélyezteti a jelen generációk egészségét, a jövő generációk létét és számos faj fennmaradását, ezért az Alkotmányban foglaltakkal összhangban a következő törvényt alkotja:
+Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környezeti értékek a nemzeti vagyon részei, amelyeknek megőrzése és védelme, minőségének javítása alapfeltétel az élővilág, az ember egészsége, életminősége szempontjából; e nélkül nem tartható fenn az emberi tevékenység és a természet közötti harmónia, elmulasztása veszélyezteti a jelen generációk egészségét, a jövő generációk létét és számos faj fennmaradását, ezért az Alaptörvényben foglaltakkal összhangban a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -96,7 +96,7 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 - 30. elővigyázatosság: a környezeti kockázatok mérsékléséhez, a környezet jövőbeni károsodásának megelőzéséhez vagy csökkentéséhez szükséges döntés és intézkedés;
 - 31. megelőzés:: a környezethasználat káros környezeti hatásai elkerülésének érdekében a leghatékonyabb megoldások, továbbá a külön jogszabályban meghatározott tevékenységek esetén az elérhető legjobb technika alkalmazása a döntéshozatal legkorábbi szakaszától;
 - 32. környezetvédelem: olyan tevékenységek és intézkedések összessége, amelyeknek célja a környezet veszélyeztetésének, károsításának, szennyezésének megelőzése, a kialakult károk mérséklése vagy megszüntetése, a károsító tevékenységet megelőző állapot helyreállítása.
-- 33. téradat: elektronikus formában rendelkezésre álló, a Nemzeti Környezeti Térinformatikai Rendszer létrehozásának és működtetésének szabályairól szóló jogszabályban meghatározott tárgykörbe tartozó, különösen a geodéziai, a természet-, a gazdaság-, a település-, illetve a népességföldrajzi adat, amely közvetlenül vagy közvetve vonatkozik a Magyar Köztársaság területén fekvő helyre vagy földrajzi területre;
+- 33. téradat: elektronikus formában rendelkezésre álló, a Nemzeti Környezeti Térinformatikai Rendszer létrehozásának és működtetésének szabályairól szóló jogszabályban meghatározott tárgykörbe tartozó, különösen a geodéziai, a természet-, a gazdaság-, a település-, illetve a népességföldrajzi adat, amely közvetlenül vagy közvetve vonatkozik Magyarország területén fekvő helyre vagy földrajzi területre;
 - 34. téradatkészlet: téradatok térinformatikai eszköz útján azonosítható gyűjteménye;
 - 35. metaadat: téradatnak nem minősülő, ahhoz kapcsolódó, a téradatkészleteket és téradat-szolgáltatásokat leíró elektronikus információ, amely lehetővé teszi a téradatkészletek és téradat-szolgáltatások elérését, nyilvántartását és felhasználását;
 - 36. téradat-szolgáltatás: téradaton vagy metaadaton térinformatikai eszközzel elvégezhető művelet;
@@ -136,7 +136,7 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 
 (2) Az együttműködéssel járó jogokat és kötelezettségeket e törvény, illetve az önkormányzat rendeletben állapítja meg.
 
-11. § (1) A környezetvédelmi érdekek érvényesítését a Magyar Köztársaság két- vagy többoldalú nemzetközi környezetvédelmi és más, a környezetvédelemmel összefüggő együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíteni köteles, különösen a szomszédos országokkal való kapcsolatában.
+11. § (1) A környezetvédelmi érdekek érvényesítését Magyarország két- vagy többoldalú nemzetközi környezetvédelmi és más, a környezetvédelemmel összefüggő együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíteni köteles, különösen a szomszédos országokkal való kapcsolatában.
 
 (2) Nemzetközi szerződés hiányában is figyelemmel kell lenni más államok környezeti érdekeire, az országhatárokon átterjedő környezetterhelés, illetőleg környezetveszélyeztetés csökkentésére, a környezetszennyezés és a környezetkárosítás megelőzésére.
 
@@ -212,7 +212,7 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 
 (6) Ha a vizek egy elkülönített részére több azonos tárgyú környezeti célkitűzést szolgáló követelmény vonatkozik, akkor a legszigorúbbat kell alkalmazni.
 
-(7) A jó állapot eléréséhez szükséges intézkedéseket vízgyűjtő gazdálkodási tervben kell meghatározni.
+(7) A vizek jó állapotának eléréséhez szükséges intézkedéseket – a Kormány nyilvános egyedi határozatával közzétett – vízgyűjtő-gazdálkodási tervben kell meghatározni.
 
 19. § (1) A víz — mint alapvető életfeltétel és korlátozottan előforduló erőforrás — kitermelésének és felhasználásának feltételeit vízkészlettípusonként a területi adottságoknak megfelelően, igénybevételi határérték figyelembevételével kell megállapítani.
 
@@ -362,7 +362,7 @@ vízkészleteket fokozott védelemben kell részesíteni.
 
 (3) A Kormánynak a Program megújítására irányuló előterjesztés benyújtásakor az Országgyűlés előtt be kell számolnia a Program végrehajtásáról és a végrehajtás során szerzett tapasztalatokról.
 
-(4) A Programban foglaltakat az ország társadalmi-gazdasági tervének [Alkotmány 19. § (3) bek. c) pont] meghatározása, a gazdaságpolitikai döntések kialakítása, a terület- és településfejlesztés, a regionális tervezés, továbbá a nemzetgazdaság bármely ágában megvalósuló állami tervezési és végrehajtási tevékenység során érvényre kell juttatni.
+(4) A Programban foglaltakat a gazdaságpolitikai döntések kialakítása, a terület- és településfejlesztés, a regionális tervezés, továbbá a nemzetgazdaság bármely ágában megvalósuló állami tervezési és végrehajtási tevékenység során érvényre kell juttatni.
 
 (5) A Kormány a Program elkészítésekor fennálló feltételek módosulása, illetve a végrehajtás helyzetének alakulásától függően javaslatot tehet a Program felülvizsgálatára. A felülvizsgálat során a Program tervezésére vonatkozó előírásokat kell alkalmazni.
 
@@ -753,7 +753,7 @@ véleményezésre megküldi.
 
 (6) A környezet igénybevétetelével, terhelésével, szennyezésével érintett települési önkormányzat kezdeményezheti a (2) bekezdés a), b) és c) pontja szerinti bevétellel rendelkezni jogosult települési önkormányzatnál a bevétel arányos megosztását a hatásterületen lévő települési önkormányzatok között. Igényének mértékét adatokkal alá kell támasztania.
 
-(7) Ha a (6) bekezdés szerinti megosztás kérdésében, illetőleg mértékében az érintett települési önkormányzatok között nem jön létre egyezség, a kezdeményező települési önkormányzat a megyei bíróság székhelyén működő városi bírósághoz, a fővárosban a Pesti Központi Kerületi Bírósághoz keresetet nyújthat be. Az eljárás illetékmentes.
+(7) Ha a (6) bekezdés szerinti megosztás kérdésében, illetőleg mértékében az érintett települési önkormányzatok között nem jön létre egyezség, a kezdeményező települési önkormányzat a törvényszék székhelyén működő városi bírósághoz, a fővárosban a Pesti Központi Kerületi Bírósághoz keresetet nyújthat be. Az eljárás illetékmentes.
 
 ### A környezet használata után fizetendő díjak
 
@@ -1164,9 +1164,7 @@ adja ki.
 
 95/A. § A környezetvédelmi és természetvédelmi hatóság által lefolytatott egyes közigazgatási eljárásokért (ideértve a szakhatósági eljárásokat, az igazgatási jellegű szolgáltatásokat, továbbá a bejelentéseket) igazgatási szolgáltatási díjat kell fizetni.
 
-96. § (1)
-
-(2)
+96. § A védett természeti területek természetvédelmi kezeléséért felelős szerveknek – a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.
 
 96/A. § A közigazgatási hatósági eljárás során felmerülő mintavételi, laboratóriumi, illetve az egyéb műszeres vizsgálatok költségei, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek.
 
@@ -1318,9 +1316,14 @@ A KÖRNYEZETVÉDELEMBEN
 
 106. § (1) Aki jogszabályban, hatósági határozatban, közvetlenül alkalmazandó közösségi jogi aktusban megállapított, közvetlenül vagy közvetve a környezet védelmét szolgáló előírást megszeg, illetve határértéket túllép, a jogsértő magatartás súlyához – így különösen az általa okozott környezetszennyezés, illetőleg környezetkárosítás mértékéhez, időtartamához és ismétlődéséhez – igazodó környezetvédelmi bírságot köteles fizetni.
 
-(2) A környezetvédelmi bírságot a környezet igénybevételi járulékon és a környezetterhelési díjon felül kell megfizetni. A környezetvédelmi bírság adók módjára behajtandó köztartozás.
+(2) A környezetvédelmi bírságot a környezet igénybevételi járulékon és a környezetterhelési díjon felül kell megfizetni.
 
-(3) A környezetvédelmi hatóság által jogerősen kiszabott környezetvédelmi bírság teljes összege – ha a bírság kiszabását megalapozó esemény miatt veszélyhelyzet kihirdetésére került sor – a központi költségvetés központosított bevétele.
+(3)
+
+(4) Kormány nyilvános határozatában engedélyezheti, hogy az állam a tulajdonosi joggyakorló szervezete útján a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben jogerősen kiszabott és határidőben meg nem fizetett környezetvédelmi bírságból eredő követelés vagy annak egy része ellenében – a követelés behajtása helyett, legfeljebb a kormányhatározatban megjelölt összegben és feltételek szerint – a bírság megfizetésére köteles gazdasági társaságban részesedéssel rendelkezőkkel való megállapodással a gazdasági társaságban való részesedést megtestesítő részvényt vagy üzletrészt szerezzen, ha
+
+- a) a pénzbeli teljesítés nem vagy csak részben lehetséges és
+- b) arra a követelés összegét meghaladó vagyoni hátrány megakadályozása érdekében vagy kiemelt nemzetgazdasági érdekből kerül sor.
 
 107. § A környezetvédelmi bírság nem mentesít a büntetőjogi, a szabálysértési, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a megfelelő védekezés kialakítására, a természetes vagy korábbi környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
 
@@ -1342,7 +1345,7 @@ A KÖRNYEZETVÉDELEMBEN
 
 (2) Környezeti veszélyeztetés esetén az ügyész is jogosult keresetet indítani a tevékenységtől való eltiltás, illetőleg a környezetveszélyeztető tevékenységgel okozott kár megtérítése iránt.
 
-(3) Az ügyész törvényességi felügyeleti jogkörében eljárva, a rá vonatkozó jogszabályok alapján közreműködik a környezetvédelmi hatóságok eljárásai és döntései törvényességének biztosításában.
+(3) Az ügyészség az irányadó jogszabályok szerint közreműködik a környezetvédelmi hatóságok eljárásai és döntései törvényességének biztosításában.
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1415,7 +1418,7 @@ kapcsolatos részletes szabályokat.
 
 (11) Felhatalmazást kap a miniszter, hogy a vízgazdálkodásért, a földművelésügyért, valamint az egészségügyért felelős miniszterrel egyetértésben – az ivóvizek, ásvány- és gyógyvizek védelmére vonatkozó területek kivételével – a vízvédelmi szempontból kiemelt védelemben részesítendő felszíni vizeket és azok vízgyűjtő területeinek határait rendeletben állapítsa meg.
 
-(12) Felhatalmazást kap a miniszter, hogy az érdekelt miniszterekkel egyetértésben a vízgyűjtő-gazdálkodási tervet rendelettel hirdesse ki.
+(12)
 
 (13) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg:
 

@@ -6,7 +6,7 @@ a Munka Törvénykönyvéről
 
 ### A törvény hatálya
 
-1. § (1) E törvény hatálya – ha a nemzetközi magánjog szabályai eltérően nem rendelkeznek – kiterjed minden olyan munkaviszonyra, amelynek alapján a munkát a Magyar Köztársaság területén végzik, továbbá, amelynél a magyar munkáltató munkavállalója a munkát ideiglenes jelleggel külföldön végzi.
+1. § (1) E törvény hatálya – ha a nemzetközi magánjog szabályai eltérően nem rendelkeznek – kiterjed minden olyan munkaviszonyra, amelynek alapján a munkát a Magyarország területén végzik, továbbá, amelynél a magyar munkáltató munkavállalója a munkát ideiglenes jelleggel külföldön végzi.
 
 (2)–(4)
 
@@ -155,7 +155,8 @@ kézbesítettnek kell tekinteni.
 17. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
 - a) a foglalkoztatás érdekében a munkavállalók nagyobb csoportját érintő gazdasági okból történő munkaviszony-megszüntetéssel kapcsolatban az e törvénytől eltérő szabályokat,
-- b) a kötelező legkisebb munkabér és a munkavállaló által betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum mértékét.
+- b) a kötelező legkisebb munkabér és a munkavállaló által betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum mértékét,
+- c) a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés elvárt mértékét, a béren kívüli juttatás ennek keretében figyelembe vehető mértékét, valamint a munkabéremelés elvárt mértékével kapcsolatos részletes szabályokat.
 
 (2)–(4)
 
@@ -348,7 +349,7 @@ kézbesítettnek kell tekinteni.
 
 41. § A szűkebb hatályú kollektív szerződés a tágabb hatályúhoz képest csak annyiban térhet el, amennyiben az a munkavállalóra nézve kedvezőbb szabályokat állapít meg.
 
-41/A. § (1) A kollektív szerződést a szerződő felek együttesen kötelesek a miniszternek a megkötést követő harminc napon belül nyilvántartásba vételre bejelenteni és a kapcsolódó adatszolgáltatást elektronikus úton teljesíteni (a továbbiakban együtt: bejelentési kötelezettség) a Kormány hivatalos tájékoztató honlapján és a kormányzati portálon közzétett elektronikus adatlapon.
+41/A. § (1) A kollektív szerződést a szerződő felek együttesen kötelesek az állami foglalkoztatási szervnek a megkötést követő harminc napon belül nyilvántartásba vételre bejelenteni és a kapcsolódó adatszolgáltatást elektronikus úton teljesíteni (a továbbiakban együtt: bejelentési kötelezettség) az állami foglalkoztatási szerv honlapján közzétett elektronikus adatlapon.
 
 (2) Az (1) bekezdésben foglaltak szerint a felek kötelesek továbbá bejelenteni a kollektív szerződés
 
@@ -357,7 +358,7 @@ kézbesítettnek kell tekinteni.
 - c) hatályának az ágazatra történő kiterjesztésével, illetve a kiterjesztés bármely okból való megszűnésével összefüggő, valamint a 36. §-ban foglaltakat érintő változását, továbbá
 - d) hatályának megszűnését.
 
-(3) Az (1) bekezdésben, valamint a (2) bekezdés a) és c) pontjában előírt bejelentési kötelezettség teljesítésével egyidejűleg a több munkáltatóra kiterjedő hatályú kollektív szerződésnek a szerződést kötő felek eredeti aláírásával ellátott példányát a miniszternél letétbe kell helyezni.
+(3) Az (1) bekezdésben, valamint a (2) bekezdés a) és c) pontjában előírt bejelentési kötelezettség teljesítésével egyidejűleg a több munkáltatóra kiterjedő hatályú kollektív szerződésnek a szerződést kötő felek eredeti aláírásával ellátott példányát az állami foglakoztatási szervnél letétbe kell helyezni.
 
 (4) Felhatalmazást kap a miniszter, hogy – az Országos Érdekegyeztető Tanáccsal folytatott konzultáció alapján – rendeletben határozza meg:
 
@@ -614,12 +615,13 @@ tekintetében.
 
 - a) a munkavállalók nagyobb csoportját érintő munkáltatói intézkedések tervezetét, így különösen a munkáltató átszervezésére, átalakítására, szervezeti egység önálló szervezetté alakulására, privatizálására, korszerűsítésére vonatkozó elképzeléseket;
 - b) a személyügyi nyilvántartás rendszerének kialakítására, a nyilvántartandó adatok körére, a 77. §-ban meghatározott adatlap tartalmára vonatkozó elképzeléseit, illetve a személyügyi tervet;
-- c) a munkavállalók képzésével összefüggő terveket, a foglalkoztatást elősegítő támogatások igénybevételére, illetve a korengedményes nyugdíjazásra vonatkozó elképzeléseket;
+- c) a munkavállalók képzésével összefüggő terveket, a foglalkoztatást elősegítő támogatások igénybevételére vonatkozó elképzeléseket;
 - d) a külön jogszabályban meghatározott egészségkárosodott, megváltozott munkaképességű munkavállalók rehabilitációjára vonatkozó intézkedések tervezetét;
 - e) az éves szabadságolási tervet;
 - f) az új munkaszervezési módszerek és a teljesítménykövetelmények bevezetését;
 - g) a munkavállalók lényeges érdekeit érintő belső szabályzatainak tervezetét;
-- h) a munkáltató által meghirdetett anyagi vagy erkölcsi elismeréssel járó pályázatot.
+- h) a munkáltató által meghirdetett anyagi vagy erkölcsi elismeréssel járó pályázatot;
+- i) a családi élet és a munkatevékenység összehangolását érintő munkáltatói intézkedések tervezetét.
 
 (4) A munkáltató köteles tájékoztatni az üzemi tanácsot:
 
@@ -658,7 +660,7 @@ tekintetében.
 
 foglalkoztatási helyzetének – így különösen azok bérének, munkakörülményeinek, szakmai előmenetelének, képzésének, illetve a gyermekneveléssel és a szülői szereppel kapcsolatos kedvezményeinek – elemzését, valamint a munkáltatónak az esélyegyenlőség biztosítására vonatkozó, az adott évre megfogalmazott céljait és az azok eléréséhez szükséges eszközöket, így különösen a képzési, munkavédelmi, valamint a munkáltatónál rendszeresített, a foglalkoztatás feltételeit érintő bármely programokat.
 
-(3) Az esélyegyenlőségi terv elkészítéséhez szükséges különleges személyes adatok csak a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezései szerint, az érintett önkéntes adatszolgáltatása alapján az esélyegyenlőségi terv által érintett időszak utolsó napjáig kezelhetőek.
+(3) Az esélyegyenlőségi terv elkészítéséhez szükséges különleges személyes adatok az érintett önkéntes adatszolgáltatása alapján az esélyegyenlőségi terv által érintett időszak utolsó napjáig kezelhetőek.
 
 (4) Az esélyegyenlőségi tervnek rendelkeznie kell
 
@@ -675,7 +677,7 @@ foglalkoztatási helyzetének – így különösen azok bérének, munkakörül
 
 72. § (1) Munkaviszonyt munkavállalóként az létesíthet, aki tizenhatodik életévét betöltötte.
 
-(2) Korlátozottan cselekvőképes személy törvényes képviselőjének hozzájárulása nélkül is létesíthet munkaviszonyt.
+(2) A törvényes képviselő hozzájárulása szükséges a korlátozottan cselekvőképes személy olyan jognyilatkozatához, amely a munkaszerződés megkötésére, módosítására, megszüntetésére, vagy kötelezettségvállalásra irányul. A cselekvőképtelen személy nevében törvényes képviselője tesz jognyilatkozatot.
 
 (3) A munkaviszony szempontjából fiatal munkavállaló az, aki tizennyolcadik életévét még nem töltötte be.
 
@@ -1006,18 +1008,11 @@ hatálya alá tartozó munkáltató számára történő átadására kerül sor
 
 87/A. § (1) E törvény alkalmazása szempontjából a munkavállaló akkor minősül nyugdíjasnak, ha
 
-- a) a társadalombiztosítási nyugellátásról szóló törvény szerinti öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság), illetve
-- b) az a) pontban említett korhatár betöltése előtt öregségi nyugdíjban, vagy
-- c) korkedvezményes öregségi nyugdíjban, vagy
-- d) előrehozott (csökkentett összegű előrehozott) öregségi nyugdíjban, vagy
-- e) szolgálati nyugdíjban, vagy
-- f) korengedményes nyugdíjban, vagy
-- g) más, az öregségi nyugdíjjal egy tekintet alá eső nyugellátásban, illetőleg
-- h) rokkantsági (baleseti rokkantsági) nyugdíjban
+- a) az öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság),
+- b) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül, vagy
+- c) az öregségi nyugdíjkorhatárt betöltötte, és a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban, öregségi, munkaképtelenségi járadékban, növelt összegű öregségi, munkaképtelenségi járadékban, vagy rokkantsági ellátásban részesül.
 
-részesül.
-
-(2) A munkavállaló akkor részesül az (1) bekezdés b)–h) pontokban felsorolt nyugellátásban, amikor a nyugellátást kérelmére megállapították.
+(2) A munkavállaló akkor részesül az (1) bekezdés b) vagy c) pontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
 
 (3) A munkavállaló köteles tájékoztatni a munkáltatót, ha az (1) bekezdés hatálya alá esik.
 
@@ -1039,11 +1034,11 @@ részesül.
 
 (5) A munkavállaló munkavégzésére vagy magatartására hivatkozással történő munkáltatói felmondás előtt lehetőséget kell adni a vele szemben felhozott kifogások elleni védekezésre, kivéve, ha az eset összes körülményeiből következően ez a munkáltatótól nem várható el.
 
-(6) A munkáltató a rendes felmondását nem köteles indokolni, ha a munkavállaló a 87/A. § (1) bekezdésének a)–g) pontjai értelmében nyugdíjasnak minősül.
+(6) A munkáltató a rendes felmondását nem köteles indokolni, ha a munkavállaló a 87/A. § (1) bekezdésének értelmében nyugdíjasnak minősül.
 
-(7) A munkáltató a munkavállaló munkaviszonyát rendes felmondással – kivéve, ha egyébként nyugellátásban részesül [87/A. § (1) bekezdés b)–h) pont] – a rá irányadó öregségi nyugdíjkorhatár betöltését megelőző öt éven belül a 87/A. § (1) bekezdés a) pontjában meghatározott életkor eléréséig csak különösen indokolt esetben szüntetheti meg.
+(7) A munkáltató a munkavállaló munkaviszonyát rendes felmondással – kivéve, ha egyébként nyugellátásban részesül [87/A. § (1) bekezdés b) és c) pont] – a rá irányadó öregségi nyugdíjkorhatár betöltését megelőző öt éven belül a 87/A. § (1) bekezdés a) pontjában meghatározott életkor eléréséig csak különösen indokolt esetben szüntetheti meg.
 
-(8) A (7) bekezdésben foglaltakat megfelelően alkalmazni kell rehabilitációs járadékban részesülő, nem keresőképtelen munkavállaló munkaviszonyának rendes felmondással történő megszüntetésére is. E rendelkezés alkalmazása szempontjából különösen indokolt esetnek kell tekinteni a 91. §-ban meghatározott indok fennállását is.
+(8) A (7) bekezdésben foglaltakat megfelelően alkalmazni kell rehabilitációs járadékban, rehabilitációs ellátásban részesülő, nem keresőképtelen munkavállaló munkaviszonyának rendes felmondással történő megszüntetésére is. E rendelkezés alkalmazása szempontjából különösen indokolt esetnek kell tekinteni a 91. §-ban meghatározott indok fennállását is.
 
 90. § (1) A munkáltató nem szüntetheti meg rendes felmondással a munkaviszonyt az alábbiakban meghatározott időtartam alatt:
 
@@ -1053,7 +1048,7 @@ részesül.
 - d) a külön törvény szerinti emberi reprodukciós eljárással összefüggő kezelés, a terhesség, a szülést követő három hónap, illetve a szülési szabadság [138. § (1) bekezdés],
 - e) a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadságnak [138. § (5) bekezdés], illetve – a fizetés nélküli szabadság igénybevétele nélkül is – a gyermek hároméves koráig terjedő,
 - f) a sor- vagy tartalékos katonai szolgálatnak a behívóparancs, a polgári szolgálatnak a teljesítésre vonatkozó felhívás kézhezvételétől számított,
-- g) a külön törvény szerinti rehabilitációs járadékban részesülő személy esetén a keresőképtelenség teljes,
+- g) a külön törvény szerinti rehabilitációs járadékban, rehabilitációs ellátásban részesülő személy esetén a keresőképtelenség teljes,
 - h) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az örökbe fogadni szándékozó munkavállalót – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás
 
 időtartama.
@@ -1073,7 +1068,7 @@ elteltével kezdődhet el.
 
 (6) Az (1) bekezdés e) pontja szerinti védelem a fizetés nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki a fizetés nélküli szabadságot utoljára igénybe vette.
 
-91. § A munkáltató a rehabilitációs járadékban részesülő munkavállaló munkaviszonyát a 90. § (1) bekezdésének g) pontjában foglalt felmondási védelem leteltét követően rendes felmondással egészségügyi alkalmatlansága miatt akkor szüntetheti meg, ha a munkavállaló eredeti munkakörében nem foglalkoztatható tovább, és a munkáltatónál egészségi állapotának megfelelő másik munkakör nem biztosítható, illetve, ha a munkavállaló az ilyen másik munkakörben történő foglalkoztatáshoz szükséges munkaszerződése módosításához nem járul hozzá.
+91. § A munkáltató a rehabilitációs járadékban, rehabilitációs ellátásban részesülő munkavállaló munkaviszonyát a 90. § (1) bekezdésének g) pontjában foglalt felmondási védelem leteltét követően rendes felmondással egészségügyi alkalmatlansága miatt akkor szüntetheti meg, ha a munkavállaló eredeti munkakörében nem foglalkoztatható tovább, és a munkáltatónál egészségi állapotának megfelelő másik munkakör nem biztosítható, illetve, ha a munkavállaló az ilyen másik munkakörben történő foglalkoztatáshoz szükséges munkaszerződése módosításához nem járul hozzá.
 
 91/A. §
 
@@ -1214,12 +1209,7 @@ meghosszabbodik.
 
 átlagkereset összege.
 
-(5) A végkielégítésnek a (4) bekezdésben meghatározott mértéke háromhavi átlagkereset összegével emelkedik, ha a munkavállaló munkaviszonya az (1) bekezdésben meghatározott módon
-
-- a) az öregségi nyugdíjra [87/A. § (1) bekezdés a) pont], továbbá
-- b) a korkedvezményes öregségi nyugdíjra
-
-való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a munkavállalót, ha az a) vagy a b) pontban foglaltak alapján korábban már emelt összegű végkielégítésben részesült.
+(5) A végkielégítésnek a (4) bekezdésben meghatározott mértéke háromhavi átlagkereset összegével emelkedik, ha a munkavállaló munkaviszonya az (1) bekezdésben meghatározott módon az öregségi nyugdíjra való jogosultság [87/A. § (1) bekezdés a) pont] megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a munkavállalót, ha az e bekezdésben foglaltak alapján korábban már emelt összegű végkielégítésben részesült.
 
 ### Rendkívüli felmondás
 
@@ -1381,7 +1371,7 @@ szűnik meg, a munkáltató legkésőbb a jognyilatkozat közlésétől, illetve
 
 (6) Kirendelés esetén a 83/A. § (2)–(3) bekezdésének, továbbá a 105. § (3), valamint (6)–(8) bekezdésének rendelkezéseit megfelelően alkalmazni kell.
 
-106/A. § (1) Ha külföldi munkáltató munkavállalója – harmadik féllel kötött megállapodás alapján, a 105. §, a 106. §, illetve a XI. fejezet szabályai szerint – a Magyar Köztársaság területén végez munkát, a munkavállalóra
+106/A. § (1) Ha külföldi munkáltató munkavállalója – harmadik féllel kötött megállapodás alapján, a 105. §, a 106. §, illetve a XI. fejezet szabályai szerint – a Magyarország területén végez munkát, a munkavállalóra
 
 - a) a leghosszabb munkaidő, illetve a legrövidebb pihenőidő mértéke,
 - b) a fizetett éves szabadság legalacsonyabb mértéke,
@@ -1794,6 +1784,16 @@ rendelhető el.
 
 (6) Az (1)–(5) bekezdés rendelkezéseitől eltérni nem lehet.
 
+### A cselekvőképtelen munkavállalóra vonatkozó rendelkezések
+
+129/B. § (1) A cselekvőképtelen munkavállaló csak olyan munkakörre létesíthet munkaviszonyt, amelyet egészségi állapotánál fogva tartósan és folyamatosan képes ellátni.
+
+(2) A munkavállaló munkakörét az ahhoz tartozó feladatok részletes leírásával kell meghatározni. A munkavállalóra vonatkozó egészségügyi alkalmassági vizsgálat kiterjed a részletes munkaköri feladatok ellátására.
+
+(3) A munkavállaló munkavégzését folyamatosan és oly módon kell felügyelni, hogy az az egészséges és biztonságos munkafeltételek megtartását biztosítsa.
+
+(4) A cselekvőképtelen munkavállaló esetében a Harmadik Rész VIII. fejezetének szabályai nem alkalmazhatók, egyebekben a fiatal munkavállalóra vonatkozó rendelkezések megfelelően irányadók.
+
 ### Rendes szabadság
 
 130. § (1) A munkavállalót minden munkaviszonyban töltött naptári évben rendes szabadság illeti meg, amely alap- és pótszabadságból áll.
@@ -1828,11 +1828,13 @@ munkanapra emelkedik.
 
 132. § (1) A fiatal munkavállalónak évenként öt munkanap pótszabadság jár, utoljára abban az évben, amelyben a fiatal munkavállaló a tizennyolcadik életévét betölti.
 
-(2) A szülők döntése alapján gyermeke nevelésében nagyobb szerepet vállaló munkavállalót vagy a gyermekét egyedül nevelő szülőt évenként a tizenhat évnél fiatalabb
+(2) A munkavállalónak a tizenhat évesnél fiatalabb
 
 - a) egy gyermeke után kettő,
 - b) két gyermeke után négy,
-- c) kettőnél több gyermeke után összesen hét munkanap pótszabadság illeti meg. A pótszabadság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
+- c) kettőnél több gyermeke után összesen hét
+
+munkanap pótszabadság jár. A pótszabadság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
 
 (3) A vak munkavállalónak évenként öt munkanap pótszabadság jár.
 
@@ -1910,7 +1912,9 @@ adja ki, ha az esedékesség éve eltelt. E rendelkezésektől érvényesen elt�
 
 ### Egyéb munkaidő-kedvezmények
 
-138. § (1) A terhes, illetőleg a szülő nőt huszonnégy hét szülési szabadság illeti meg. Ezt úgy kell kiadni, hogy négy hét lehetőleg a szülés várható időpontja elé essen.
+138. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult. A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette. A szülési szabadságot – eltérő megállapodás hiányában – úgy kell kiadni, hogy legfeljebb négy hét a szülés várható időpontja elé essen.
+
+(1a) A szülési szabadság tartamát – a kifejezetten munkavégzéshez kapcsolódó jogosultságot kivéve – munkában töltött időnek kell tekinteni azzal, hogy a 84. § rendelkezéseit is megfelelően alkalmazni kell.
 
 (2) A szülési szabadság megszűnik:
 
@@ -1935,13 +1939,15 @@ adja ki, ha az esedékesség éve eltelt. E rendelkezésektől érvényesen elt�
 
 (6) A nőnek a szoptatás első hat hónapjában naponta kétszer egy óra, ezt követően a kilencedik hónap végéig egy óra munkaidőkedvezmény jár. Ikrek esetében a munkaidőkedvezmény az ikrek számának megfelelő mértékben jár.
 
+(7) A munkavállaló mentesül rendelkezésre állási vagy munkavégzési kötelezettségének teljesítése alól a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára. A munkaidő-kedvezmény tartamára távolléti díj jár.
+
 138/A. § (1) Gyermeke születése esetén öt munkanap munkaidő-kedvezmény illeti meg az apát, melyet legkésőbb a születést követő második hónap végéig kérésének megfelelő időpontban köteles a munkáltató kiadni. A munkaidő-kedvezmény tartamára távolléti díj jár.
 
 (2) Az (1) bekezdésben foglalt kedvezmény abban az esetben is megilleti az apát, ha gyermeke halva születik, vagy meghal.
 
 (3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vérszerinti vagy örökbefogadó apát kell érteni.
 
-(4) A munkaidő-kedvezmény tartamára járó távolléti díj kifizetése – az állami költségvetés terhére – kormányrendelet alapján történik.
+(4) A munkaidő-kedvezmény tartamára járó távolléti díj kifizetése – a központi költségvetés terhére – kormányrendelet alapján történik.
 
 139. § (1) A munkavállónak — kérelmére — a tartós (előreláthatólag harminc napot meghaladó) ápolásra vagy gondozásra (a továbbiakban: ápolásra) szoruló közeli hozzátartozója otthoni ápolása céljából az ápolás idejére, de legfeljebb két évre a munkáltató fizetés nélküli szabadságot köteles engedélyezni, ha a munkavállaló az ápolást személyesen végzi. A tartós otthoni ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
 
@@ -2407,13 +2413,13 @@ tagjai.
 
 - a) az átlagkereset és a táppénz;
 - b) az átlagkereset és a sérelem folytán csökkent kereset, valamint
-- c) az átlagkereset és a rokkantsági nyugdíj különbözetének megtérítése iránti igényt. Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban esedékes újabb elkülönülő kárigény származik, ezek elévülési idejét egymástól függetlenül, az egyes igények esedékessé válásától kezdődően, külön-külön kell számítani.
+- c) az átlagkereset és a rokkantsági nyugdíj, megváltozott munkaképességű személyek ellátása különbözetének megtérítése iránti igényt. Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban esedékes újabb elkülönülő kárigény származik, ezek elévülési idejét egymástól függetlenül, az egyes igények esedékessé válásától kezdődően, külön-külön kell számítani.
 
 (2) Az elévülési idő az (1) bekezdésben foglalt megkülönböztetéssel
 
 - a) a táppénz első fizetésének napjától;
-- b) attól az időponttól, amikor a sérelem folytán bekövetkezett munkaképesség-csökkenés első ízben vezetett jövedelemkiesésben megmutatkozó károsodásra, végül
-- c) a rokkantsági nyugállományba helyezés időpontjától
+- b) attól az időponttól, amikor a sérelem folytán bekövetkezett munkaképesség megváltozása, egészségkárosodás első ízben vezetett jövedelemkiesésben megmutatkozó károsodásra, végül
+- c) a rokkantsági nyugállományba helyezés, megváltozott munkaképességű személyek ellátása folyósításának időpontjától
 
 kezdődik.
 
@@ -2601,7 +2607,7 @@ kapcsolatos adatokat.
 
 (6) Az (1)–(5) bekezdés rendelkezéseitől érvényesen eltérni nem lehet.
 
-(7) E § alkalmazásában EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes, Magyar Köztársaságon kívüli más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a letelepedés és a szolgáltatásnyújtás tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+(7) E § alkalmazásában EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes, Magyarországon kívüli más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a letelepedés és a szolgáltatásnyújtás tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
 193/E. § (1) Semmis a munkavállaló és a kölcsönbeadó között létrejött olyan megállapodás, amely
 
@@ -3077,11 +3083,17 @@ időpontjában.
 
 (6) A 136. § (1) bekezdése szerinti, a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság első hat hónapjára járó szabadság pénzbeni megváltásáról szóló megállapodás a Módtv. hatálybalépését követően lejáró fizetés nélküli szabadság megszűnésekor köthető.
 
+(6a) A 2011. augusztus 1-je után kezdődő és az azt követően lejáró fizetés nélküli szabadságok megszűnésekor a (6) bekezdés szerint köthető megállapodás alapján a fizetés nélküli szabadság első hat hónapjára járó szabadságot lehet csak pénzben megváltani abban az esetben is, ha az igénybevett fizetés nélküli szabadság [138. § (5) bekezdés] első évére jár a munkavállaló részére szabadság.
+
 (7) A XI. fejezetnek a Módtv. 15–20. §-ával módosított rendelkezéseit első alkalommal a 2011. december 1-jét követően létesített munkaviszonyokra kell alkalmazni. E rendelkezések végrehajtása érdekében a kollektív szerződéseket legkésőbb 2011. december 31-ig felül kell vizsgálni.
+
+(7a) A kikölcsönzés ideiglenességére vonatkozó rendelkezéseket a 2011. december 1-jét megelőzően létesített határozatlan idejű munkaviszonyokban történő kikölcsönzés esetén is alkalmazni kell azzal, hogy a kikölcsönzés időtartamának számítása során kezdő időpontnak 2011. december 1-jét kell tekinteni.
 
 (8) A Módtv.-vel megállapított XII/A. fejezet rendelkezései nem érintik a Módtv. hatálybalépésének időpontjában az iskolaszövetkezet és tagja között fennálló munkaszerződéseket, valamint e szerződések alapján a harmadik személynél történő munkavégzést.
 
 211/A. § E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű gazdálkodó szervezetek csődeljárásának és felszámolásának különleges szabályairól és az azzal összefüggő törvénymódosításokról szóló törvénnyel megállapított rendelkezéseit a hatálybalépést követően kezdeményezett csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
+
+211/B. § Ha a munkaviszony 2011. december 31-ét követően szűnik meg, és a munkáltató a felmondást, a munkáltató jogutód nélküli megszűnését vagy a munkavállaló a rendkívüli felmondást a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény hatálybalépését megelőzően közölte, a munkavállaló a közléskor hatályos szabályokban foglaltaknak megfelelően, ezt követő közlés esetén a megszűnéskor hatályos szabályokban foglaltaknak megfelelően minősül nyugdíjasnak.
 
 212. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -3091,7 +3103,8 @@ időpontjában.
 - d) a Tanács 98/59/EK irányelve a tagállamok csoportos létszámcsökkentésekre vonatkozó jogszabályainak közelítéséről;
 - e) a Tanács 91/383/EGK irányelve a határozott időtartamra foglalkoztatott, illetve az ideiglenes munkaszerződéses munkavállalók munkahelyi biztonságának és egészségvédelmének javítására irányuló intézkedések kiegészítéséről;
 - f) az Európai Parlament és a Tanács 2002/14/EK irányelve (2002. március 11.) az Európai Közösség munkavállalóinak tájékoztatása és a velük folytatott konzultáció általános keretének létrehozásáról;
-- g) a munkaerő-kölcsönzés egyes szabályairól szóló 2008. november 19-i 2008/104/EK európai parlamenti és tanácsi irányelve.
+- g) a munkaerő-kölcsönzés egyes szabályairól szóló 2008. november 19-i 2008/104/EK európai parlamenti és tanácsi irányelve;
+- h) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keret-megállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010. március 8-i 2010/18/EU tanácsi irányelv.
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

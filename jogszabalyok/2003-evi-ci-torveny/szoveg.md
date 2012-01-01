@@ -23,7 +23,7 @@ A gazdaság és a lakosság biztonságos, megfelelő minőségű és hozzáférh
 
 ### A törvény hatálya
 
-2. § (1) A törvény hatálya a Magyar Köztársaság területén végzett vagy igénybe vett postai tevékenységekre, az e tevékenységet végzőkre és igénybe vevőkre, valamint a postai ágazatot irányító állami szervezetekre és a Nemzeti Média- és Hírközlési Hatóságra (a továbbiakban: hírközlési hatóság) terjed ki.
+2. § (1) E törvény hatálya a Magyarország területén végzett vagy igénybe vett postai tevékenységekre, az e tevékenységet végzőkre és igénybe vevőkre, valamint a postai ágazatot irányító állami szervezetekre és a Nemzeti Média- és Hírközlési Hatóságra (a továbbiakban: hírközlési hatóság) terjed ki.
 
 (2) Az országhatárt átlépő postai küldeményekkel kapcsolatos postai szolgáltatásra, valamint az országhatárt átlépő egyéb postai tevékenységekre e törvény rendelkezéseit annyiban kell alkalmazni, amennyiben nemzetközi szerződés, vagy az Egyetemes Postaegyesület Alapokmánya alapján kötött külön megállapodás eltérően nem rendelkezik.
 
@@ -45,7 +45,7 @@ A gazdaság és a lakosság biztonságos, megfelelő minőségű és hozzáférh
 - 12. Igénybevevő: a feladó és a címzett, továbbá a postai készpénzátutalási tevékenység, a postai pénzforgalmi közvetítő tevékenység, illetve a postautalvány-szolgáltatás igénybevevője.
 - 13. Integrált posta: olyan postai szolgáltatás, amely a postai küldeménynek a feladó által is nyomon követhető kezelése és személyes kézbesítése mellett kiegészül az igénybe vevő választása esetén és választása szerint a következő postai különszolgáltatások legalább egyikével: a küldeménynek a feladó által megjelölt helyen történő felvétele; garantált kézbesítési idejű szolgáltatás; a címzett megváltoztatása esetén a küldemény új címre történő kézbesítése; a kézbesítés igazolása; személyre szabott szolgáltatás.
 - 14. Könyvelt küldemény: olyan postai küldemény, amelynek felvételét a postai szolgáltató írásban elismeri és kézbesítését a címzett, illetve az egyéb jogosult átvevő aláírásával vagy más módon okirattal kimutatja.
-- 15. Minősített időszak: az az időszak, amely az Alkotmány alapján rendkívüli állapotnak, szükségállapotnak vagy veszélyhelyzetnek minősül.
+- 15. Minősített időszak: az az időszak, amely az Alaptörvény alapján rendkívüli állapotnak, szükségállapotnak vagy veszélyhelyzetnek minősül.
 - 16. Postabélyeg: az egyetemes postai szolgáltató által kibocsátott, a postai küldemények bérmentesítési díjának lerovására használható postai értékcikk, amely tartalmazza a ,,Magyarország'' vagy ,,Magyar Posta'' –, illetve ezek idegen nyelvű fordításának megfelelő – feliratot, és utal a bérmentesítés díjára.
 - 17.
 - 18. Postai berendezés: a postai szolgáltatás díjlerovására, érték vagy érvényesítő lenyomat készítésére, illetve árusítására alkalmas gép, technikai eszköz, a levélgyűjtő szekrény vagy egyéb, a postai küldemények felvételére szolgáló technikai eszköz, továbbá a közutak mentén – a postai szolgáltató által – címhelyként telepített, a létesítést végző vagy a vele szerződéses jogviszonyban álló szolgáltató küldeményeinek kézbesítésére szolgáló támponti levélszekrény.
@@ -72,7 +72,7 @@ A gazdaság és a lakosság biztonságos, megfelelő minőségű és hozzáférh
 - 34. Távirat: a külön jogszabályban meghatározott előírások alapján az igénybevevő által – az elektronikus hírközlő hálózat vagy postai szolgáltató útján – feladott szöveges közlemény, amelyet a szolgáltatók postai kézbesítés útján vagy elektronikus hírközlő végberendezés közvetítésével juttatnak el a címzetthez.
 - 35. Tértivevény szolgáltatás: olyan – könyvelt küldeményekhez igénybe vehető – postai különszolgáltatás, amelynek keretében a szolgáltató a postai küldemény kézbesítését a címzettel (illetve az egyéb jogosult átvevővel) az erre szolgáló okiraton elismerteti, és az okiratot a feladónak visszaküldi, illetve a felek megállapodása esetén annak digitalizált képét vagy adattartalmát elektronikus úton, illetőleg adathordozón átadja.
 - 36. Vakok írását tartalmazó küldemény: kizárólag a vakok használatára szolgáló, dombornyomású írásokat, véseteket, hangfelvételeket, különleges papírokat vagy mágneslemezeket és egyéb információhordozókat tartalmazó postai küldemény, amelynek feladója vagy címzettje vak személy, illetőleg a vakok hivatalosan elismert intézete.
-- 37. Veszélyeztetettségi időszak: a minősített időszak kihirdetését közvetlenül megelőző – annak várható bekövetkezését feltételező – állapot (helyzet), amely a kialakult veszélyeztetettségi körülmények alapján hátrányos hatást gyakorol az ország biztonságára, stabilitására, alkotmányos rendjére, a rend- és közbiztonságra, a lakosság élet- és vagyonbiztonságára, a természetes és épített környezetre, és ami miatt rendkívüli kormányzati intézkedések megtétele, gazdasági, pénzügyi erőforrások tervszerű megteremtése szükséges.
+- 37. Veszélyeztetettségi időszak: a minősített időszak kihirdetését közvetlenül megelőző – annak várható bekövetkezését feltételező – állapot (helyzet), amely a kialakult veszélyeztetettségi körülmények alapján hátrányos hatást gyakorol az ország biztonságára, stabilitására, törvényes rendjére, a rend- és közbiztonságra, a lakosság élet- és vagyonbiztonságára, a természetes és épített környezetre, és ami miatt rendkívüli kormányzati intézkedések megtétele, gazdasági, pénzügyi erőforrások tervszerű megteremtése szükséges.
 - 38. Posta Elszámoló Központ: egyetemes postai szolgáltató által lebonyolított pénzforgalmi szolgáltatások feldolgozását, pénzforgalmi szolgáltatókkal történő elszámolását, valamint fizetési rendszeren keresztüli pénzügyi rendezését végző a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) szerinti fizetési rendszer működtetőjének nem minősülő szervezet.
 - 39. Nyomon követhető kezelés: a postai szolgáltató a postai küldemény egyedi azonosító jelzése alapján internetes honlapján lekérdezhető információként küldeményenként tájékoztatást ad a küldemény felvételének helyéről és dátumáról, a kézbesítésének dátumáról, az átvevő státuszáról, illetve sikertelen kézbesítési kísérlet esetén a küldemény további kezeléséről.
 
@@ -134,7 +134,7 @@ oly módon kell ellátnia, hogy az – a jogszabályban meghatározott kivétele
 (2) Az egyetemes postai szolgáltatás korlátozható vagy szüneteltethető:
 
 - a) az egyetemes postai szolgáltatást végző működési körén kívül eső elháríthatatlan ok (vis maior) esetén,
-- b) a Magyar Köztársaság honvédelmi, nemzetbiztonsági, közegészségügyi és közbiztonsági érdekeinek védelmében,
+- b) Magyarország honvédelmi, nemzetbiztonsági, közegészségügyi és közbiztonsági érdekeinek védelmében,
 
 a jogszabályok által előírt módon.
 
@@ -282,7 +282,7 @@ kezeli.
 
 ### A postai szolgáltatási szerződés
 
-14. § (1) A postai szolgáltatási szerződésre a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) szerződésekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+14. § (1) A postai szolgáltatási szerződésre a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) szerződésekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
 
 (2) E törvényben foglaltaktól a postai szolgáltató az általános szerződési feltételeiben (a továbbiakban: üzletszabályzat) csak akkor térhet el, ha e törvény az eltérést megengedi. Ez a rendelkezés nem zárja ki azt, hogy a postai szolgáltató az üzletszabályzatában olyan szolgáltatásokat és különszolgáltatásokat is meghirdessen, amelyeket e törvény nem szabályoz.
 
@@ -467,7 +467,7 @@ okozta.
 
 ### Személyes adatok védelme, titokvédelmi kötelezettség
 
-30. § (1) A postai szolgáltató a postai szolgáltatás teljesítésével kapcsolatos, illetve a szolgáltatás teljesítése során tudomására jutott adatokat – a (2)–(6) bekezdésben foglalt eltérésekkel – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben foglaltak figyelembevételével kezelheti, dolgozhatja fel és továbbíthatja.
+30. § (1) A postai szolgáltató a postai szolgáltatás teljesítésével kapcsolatos, illetve a szolgáltatás teljesítése során tudomására jutott adatokat – a (2)–(6) bekezdésben foglalt eltérésekkel – az információs önrendelkezési jogról és az információszabadságról szóló törvényben foglaltak figyelembevételével kezelheti, dolgozhatja fel és továbbíthatja.
 
 (2) A postai szolgáltató az általa továbbított küldemény tartalmát csak a szolgáltatás teljesítéséhez szükséges mértékben ismerheti meg.
 
@@ -669,7 +669,7 @@ tehető.
 43. § A Kormány az állami feladatok közül:
 
 - a) kialakítja a nemzeti postapolitikát, a postai tevékenységek és a szolgáltatások alapvető elveit és feltételeit, valamint a postai infrastruktúra fejlesztésére irányuló állami programokat;
-- b) megköti a postaszolgálattal összefüggő nemzetközi szerződéseket, gondoskodik a Magyar Köztársaság képviseletéről a postaszolgálattal kapcsolatos különböző nemzetközi szervezetekben;
+- b) megköti a postaszolgálattal összefüggő nemzetközi szerződéseket, gondoskodik Magyarország képviseletéről a postaszolgálattal kapcsolatos különböző nemzetközi szervezetekben;
 - c) gondoskodik – a fogyasztóvédelemért felelős miniszteren keresztül – a fogyasztói érdekek érvényre juttatásáról;
 - d) meghatározza a postai szolgáltatások biztonságának, a veszélyeztetettségi és minősített időszaki felkészítésének rendszerét, biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit;
 - e) meghatározza a postaszolgálat területén az általános és speciális nemzetbiztonsági érdekek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat;
@@ -682,7 +682,7 @@ tehető.
 - a) előterjeszti a Kormány számára a nemzeti posta-politikára vonatkozó javaslatot, és gondoskodik az erről szóló határozat végrehajtásáról;
 - b) koordinálja a postai ágazattal kapcsolatos polgári, kormányzati, nemzetbiztonsági, igazságszolgáltatási, rendvédelmi és védelmi tevékenységet;
 - c) kijelöli a védelmi feladatok ellátásában részt vevő postai szolgáltatót, meghatározza a veszélyeztetettségi és minősített időszaki helyzetekre történő felkészüléssel kapcsolatos feladatokat;
-- d) irányítja a postaszolgálattal összefüggő nemzetközi feladatok ellátását, előkészíti a Kormány postai ágazattal kapcsolatos nemzetközi tevékenységét, gondoskodik a nemzetközi kötelezettségek végrehajtásáról, ellátja a Magyar Köztársaság képviseletét a postai ágazattal kapcsolatos nemzetközi szervezetekben, továbbá olyan nemzetközi együttműködési megállapodásokat köt, amelyek nem tartoznak az Országgyűlés vagy a Kormány hatáskörébe;
+- d) irányítja a postaszolgálattal összefüggő nemzetközi feladatok ellátását, előkészíti a Kormány postai ágazattal kapcsolatos nemzetközi tevékenységét, gondoskodik a nemzetközi kötelezettségek végrehajtásáról, ellátja Magyarország képviseletét a postai ágazattal kapcsolatos nemzetközi szervezetekben, továbbá olyan nemzetközi együttműködési megállapodásokat köt, amelyek nem tartoznak az Országgyűlés vagy a Kormány hatáskörébe;
 - e) részt vesz – külön jogszabályok alapján – a postai ágazat nemzetbiztonsági és védelmi jellegű feladatainak végrehajtásában;
 - f) jóváhagyja az éves bélyeg kibocsátási tervet;
 - g) gondoskodik – a statisztikáról szóló törvényben meghatározottak szerint – a feladat- és hatáskörével kapcsolatos statisztikai információrendszer kialakításáról, működtetéséről és fejlesztéséről;

@@ -469,7 +469,7 @@ kezelt ujj- és tenyérnyomattal állapítja meg.
 44. § (1) A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában annak a büntetőeljárás alá vont személynek az ujj- és tenyérnyomatát kell nyilvántartani, akit
 
 - a) ötévi vagy ezt meghaladó szabadságvesztés büntetéssel fenyegetett szándékos bűncselekmény elkövetésének megalapozott gyanúja vagy
-- b) öt évet el nem érő szabadságvesztés büntetéssel fenyegetett szándékos, testi sértés (Btk. 170. §), segítségnyújtás elmulasztása (Btk. 172. §), személyi szabadság megsértése (Btk. 175. §), emberkereskedelem (Btk. 175/B. §), magánlaksértés (Btk. 176. §), közlekedés biztonsága elleni bűncselekmény (Btk. 184. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 185. §), közúti veszélyeztetés (Btk. 186. §), cserbenhagyás (Btk. 190. §), megrontás (Btk. 201. §), tiltott pornográf felvétellel visszaélés (Btk. 204. §), üzletszerű kéjelgés elősegítése (Btk. 205. §), kitartottság (Btk. 206. §), kerítés (Btk. 207. §), beutazási és tartózkodási tilalom megsértése (Btk. 214. §), embercsempészés (Btk. 218. §), hivatali visszaélés (Btk. 225. §), bántalmazás hivatalos eljárásban (Btk. 226. §), hivatalos személy elleni erőszak (Btk. 229. §), közfeladatot ellátó személy elleni erőszak (Btk. 230. §), hamis vád (Btk. 233. §), bűnpártolás (Btk. 244. §), vesztegetés (Btk. 250. §), befolyással üzérkedés (Btk. 256. §), közveszélyokozás (Btk. 259. §), terrorcselekmény (Btk. 261. §), visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), közveszéllyel fenyegetés (Btk. 270/A. §), garázdaság (Btk. 271. §), rendbontás (Btk. 271/A. §), közokirat-hamisítás (Btk. 274. §), magánokirat-hamisítás (Btk. 276. §), egyedi azonosító jel meghamisítása (Btk. 277/A. §), visszaélés kábítószerrel (Btk. 282–282/C. §), számítástechnikai rendszer és adatok elleni bűncselekmény (Btk. 300/C. §), pénzhamisítás (Btk. 304. §), adócsalás (Btk. 310. §), csempészet (Btk. 312. §), készpénz-helyettesítő fizetőeszközzel visszaélés (Btk. 313/B. §), lopás (Btk. 316. §), sikkasztás (Btk. 317. §), csalás (Btk. 318. §), rongálás (Btk. 324. §), jármű önkényes elvétele (Btk. 327. §) bűncselekmény elkövetésének megalapozott gyanúja
+- b) öt évet el nem érő szabadságvesztés büntetéssel fenyegetett szándékos, testi sértés (Btk. 170. §), segítségnyújtás elmulasztása (Btk. 172. §), személyi szabadság megsértése (Btk. 175. §), emberkereskedelem (Btk. 175/B. §), magánlaksértés (Btk. 176. §), közlekedés biztonsága elleni bűncselekmény (Btk. 184. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 185. §), közúti veszélyeztetés (Btk. 186. §), cserbenhagyás (Btk. 190. §), megrontás (Btk. 201. §), tiltott pornográf felvétellel visszaélés (Btk. 204. §), üzletszerű kéjelgés elősegítése (Btk. 205. §), kitartottság (Btk. 206. §), kerítés (Btk. 207. §), beutazási és tartózkodási tilalom megsértése (Btk. 214. §), embercsempészés (Btk. 218. §), hivatali visszaélés (Btk. 225. §), bántalmazás hivatalos eljárásban (Btk. 226. §), hivatalos személy elleni erőszak (Btk. 229. §), közfeladatot ellátó személy elleni erőszak (Btk. 230. §), hamis vád (Btk. 233. §), bűnpártolás (Btk. 244. §), vesztegetés (Btk. 250. §), befolyással üzérkedés (Btk. 256. §), közveszélyokozás (Btk. 259. §), terrorcselekmény (Btk. 261. §), visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), közveszéllyel fenyegetés (Btk. 270/A. §), garázdaság (Btk. 271. §), rendbontás (Btk. 271/A. §), közokirat-hamisítás (Btk. 274. §), magánokirat-hamisítás (Btk. 276. §), egyedi azonosító jel meghamisítása (Btk. 277/A. §), visszaélés kábítószerrel (Btk. 282–282/C. §), számítástechnikai rendszer és adatok elleni bűncselekmény (Btk. 300/C. §), pénzhamisítás (Btk. 304. §), költségvetési csalás (Btk. 310. §), a 2011. december 31-ig hatályban volt adócsalás és csempészet, készpénz-helyettesítő fizetőeszközzel visszaélés (Btk. 313/B. §), lopás (Btk. 316. §), sikkasztás (Btk. 317. §), csalás (Btk. 318. §), rongálás (Btk. 324. §), jármű önkényes elvétele (Btk. 327. §) bűncselekmény elkövetésének megalapozott gyanúja
 
 miatt büntetőeljárás alá vontak.
 
@@ -695,11 +695,12 @@ miatt indítottak büntetőeljárást.
 - a) az igazságügyért felelős miniszter a kegyelmi kérelem felterjesztésének előkészítése során a bűntettesek nyilvántartásában, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában, valamint a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok,
 - b) az állampolgársági ügyekért felelős miniszter az állampolgársági eljárásban a honosítás és visszahonosítás törvényi feltételeinek vizsgálata során a bűntettesek nyilvántartásában és a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok.
 
-(5) A Magyar Honvédség központi adatfeldolgozó szerve, valamint rendkívüli állapot idején és a megelőző védelmi helyzetben a hadkiegészítő parancsnokság a hadkötelezettség feltételei fennállásának megállapítása céljából jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
+(5) A hadkötelezettség bevezetését követően a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a hadkötelezettség feltételei fennállásának megállapítása céljából jogosultak közvetlen hozzáféréssel átvenni a következő adatokat:
 
-- a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
-- b) a 23. § c), f) és g) pontjában meghatározott adatok, valamint
-- c) a 28. § b) és c) pontjában meghatározott adatok.
+- a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
+- b) a 16. § (2) bekezdés a) pontjában meghatározott adatok,
+- c) a 23. § c), f) és g) pontjában meghatározott adatok, valamint
+- d) a 28. § b) és c) pontjában meghatározott adatok.
 
 (6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -965,18 +966,18 @@ továbbítja.
 
 ### Az érintett tájékoztatása
 
-87. § (1) Az érintett az e törvény hatálya alá tartozó nyilvántartásokban szereplő adatai kezelésére vonatkozó, a személyes adatok védelméről szóló törvény szerinti tájékoztatásra, valamint az adatok törlésére, helyesbítésére irányuló kérelmét ügyfélkapun keresztül elektronikus úton is előterjesztheti.
+87. § (1) Az érintett az e törvény hatálya alá tartozó nyilvántartásokban szereplő adatai kezelésére vonatkozó, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatásra, valamint az adatok törlésére, helyesbítésére irányuló kérelmét ügyfélkapun keresztül elektronikus úton is előterjesztheti.
 
-(2) Az adatkezelő az érintettet a személyes adatok védelméről szóló törvény szerint megillető tájékoztatásból az adatai továbbítására vonatkozó tájékoztatását mellőzi, ha az e törvény szerint az adatok átvételére jogosult az adatok átvételével egyidejűleg jelzi, hogy az adattovábbításra vonatkozó adatok közlésének teljesítése
+(2) Az adatkezelő az érintettet az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint megillető tájékoztatásból az adatai továbbítására vonatkozó tájékoztatását mellőzi, ha az e törvény szerint az adatok átvételére jogosult az adatok átvételével egyidejűleg jelzi, hogy az adattovábbításra vonatkozó adatok közlésének teljesítése
 
 - a) a bűncselekmények megelőzésének, felderítésének, a büntetőeljárás lefolytatásának, büntetés és intézkedés végrehajtásának eredményességét veszélyezteti vagy e tevékenységek folytatását akadályozza,
 - b) nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátását, azok eredményességét veszélyezteti.
 
-(3) A tájékoztatás (2) bekezdés szerinti mellőzését írásban kell indokolni, annak megjelölésével, hogy a tájékoztatás mellőzésére a személyes adatok védelméről szóló törvény mely rendelkezése alapján került sor, valamint tájékoztatni kell az érintettet a rendelkezésére álló jogorvoslati lehetőségekről.
+(3) A tájékoztatás (2) bekezdés szerinti mellőzését írásban kell indokolni, annak megjelölésével, hogy a tájékoztatás mellőzésére az információs önrendelkezési jogról és az információszabadságról szóló törvény mely rendelkezése alapján került sor, valamint tájékoztatni kell az érintettet a rendelkezésére álló jogorvoslati lehetőségekről.
 
 88. § (1) Ha a bűnügyi nyilvántartó szerv vagy a szakértői nyilvántartó szerv megállapítja, hogy a nyilvántartott adatok helytelenek vagy pontatlanok, az adatokat helyesbíti.
 
-(2) A bűnügyi nyilvántartó szerv a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény, továbbá személyes adatok kezelésére vonatkozó törvényi rendelkezés betartásának ellenőrzésére vonatkozó jogkörében eljáró adatvédelmi biztos, valamint az e törvény hatálya alá tartozó nyilvántartások feletti törvényességi felügyeleti jogkörében eljáró ügyész részére a nyilvántartásokba való betekintést biztosítja.
+(2) A bűnügyi nyilvántartó szerv a személyes adatok kezelésére vonatkozó törvényi rendelkezések betartásának ellenőrzésére vonatkozó jogkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint az e törvény hatálya alá tartozó nyilvántartások feletti törvényességi felügyeleti jogkörében eljáró ügyész részére a nyilvántartásokba való betekintést biztosítja.
 
 (3) A (2) bekezdés szerinti betekintés tényéről, valamint a betekintés eredményeként tett megállapításokról jegyzőkönyvet kell felvenni.
 
@@ -1002,7 +1003,7 @@ továbbítja.
 
 - a) az adatkezelés jogszerűségének ellenőrzése céljából a bűnügyi nyilvántartó szerv irányításáért felelős szerv vagy a szakértői nyilvántartó szerv irányításáért felelős szerv,
 - b) a törvényességi felügyelet gyakorlása során az adatkezelés jogszerűségének ellenőrzése céljából a legfőbb ügyész,
-- c) az adatvédelmi biztos,
+- c) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
 - d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, továbbá
 - e) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
@@ -1018,9 +1019,9 @@ továbbítja.
 - f) az automatikus találati adathozzáféréssel érintett adatokat,
 - g) az automatikus találati adathozzáférés eredményét.
 
-(2) Az (1) bekezdésben meghatározott adatokat a szakértői nyilvántartó szerv a keletkezésüktől számított két évig kezeli, és azokat az adatvédelmi biztossal – kérésére – haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított négy héten belül közli.
+(2) Az (1) bekezdésben meghatározott adatokat a szakértői nyilvántartó szerv a keletkezésüktől számított két évig kezeli, és azokat a Nemzeti Adatvédelmi és Információszabadság Hatósággal – kérésére – haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított négy héten belül közli.
 
-(3) Az adatvédelmi biztos az (1) bekezdésben meghatározott nyilvántartással összefüggő ellenőrzése eredményét 18 hónapig megőrzi, ezen időtartam lejártát követően haladéktalanul törli.
+(3) A Nemzeti Adatvédelmi és Információszabadság Hatóság az (1) bekezdésben meghatározott nyilvántartással összefüggő ellenőrzése eredményét 18 hónapig megőrzi, ezen időtartam lejártát követően haladéktalanul törli.
 
 ### X. Fejezet — MINTAVÉTEL RENDJE
 

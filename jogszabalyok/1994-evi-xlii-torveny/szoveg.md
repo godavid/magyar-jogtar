@@ -107,7 +107,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 8. § Az e törvény alapján vállalt jogszabályi állami kezességgel kapcsolatosan az Állam kezességvállalási díjat nem számol fel.
 
-8/A. § (1) Az Eximbank a költségvetés terhére vállalható garanciaügyletek beváltásából eredő követeléseket, valamint a követelések után járó kamatot és késedelmi kamatot, a Mehib Rt. a kormányrendeletben előírt feltételekkel biztosított követelések és a jogelődöktől átvett biztosítási szerződések alapján keletkező kárkintlévőségeket az állam megbízásából a központi költségvetés javára köteles behajtani.Az Eximbank és a Mehib Rt. a követelés behajtása során az államháztartásról szóló 1992. évi XXXVIII. törvény 108/A. §-ában foglaltak figyelembevételével köteles eljárni.
+8/A. § (1) Az Eximbank a költségvetés terhére vállalható garanciaügyletek beváltásából eredő követeléseket, valamint a követelések után járó kamatot és késedelmi kamatot, a Mehib Rt. a kormányrendeletben előírt feltételekkel biztosított követelések és a jogelődöktől átvett biztosítási szerződések alapján keletkező kárkintlévőségeket az állam megbízásából a központi költségvetés javára köteles behajtani.Az Eximbank és a Mehib Rt. a követelés behajtása során az államháztartásról szóló 2011. évi CXCV. törvényben és a végrehajtására kiadott rendeletben a külföldi követelésekkel kapcsolatban megfogalmazottak figyelembevételével köteles eljárni.
 
 (2) A befolyt követelések után az Eximbankot és a Mehib Rt.-t az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a kamat és késedelmi kamat nélkül befolyt követelés.
 

@@ -21,7 +21,7 @@ Az Országgyűlés abból a célból, hogy az állatorvosok önkormányzati elve
 
 (5) Az országos szervezet székhelye Budapest.
 
-(6) Az országos szervezet jogosult a Magyar Köztársaság címerének használatára.
+(6)
 
 (7) Az ,,állatorvosi kamara'', illetőleg ,,Magyar Állatorvosi Kamara'' elnevezés használatára, valamint e törvényben írt közfeladat ellátására kizárólag a területi szervezet és az országos szervezet jogosult.
 

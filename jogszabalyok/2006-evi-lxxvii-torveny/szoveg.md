@@ -7616,10 +7616,10 @@ Amennyiben két vagy több tagállam között a nemzetközi forgalomban használ
 
 (2) E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
 
-(3) A Bernben, az 1980. évi május hó 9. napján kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) kihirdetéséről szóló 1986. évi 2. törvényerejű rendelet rendelkezéseit a Magyar Köztársaságban azon államok tekintetében kell alkalmazni, amelyek nem részes felei a jelen törvénnyel kihirdetett, Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyvnek.
+(3) A Bernben, az 1980. évi május hó 9. napján kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) kihirdetéséről szóló 1986. évi 2. törvényerejű rendelet rendelkezéseit Magyarország területén azon államok tekintetében kell alkalmazni, amelyek nem részes felei a jelen törvénnyel kihirdetett, Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyvnek.
 
 (4) A Jegyzőkönyv, valamint az 1986. évi 2. törvényerejű rendelettel kihirdetett, Bernben, az 1980. évi május hó 9. napján kelt Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) Részes Államainak köréről és az abban bekövetkezett változásokról a külpolitikáért felelős miniszter közleményben ad tájékoztatást.
 
-(5) Ha a CIV Egységes Szabályok és CIM Egységes Szabályok végrehajtása érdekében a részes vasúttársaságok a COTIF 10. Cikkének megfelelően kiegészítő határozmányokban állapodnak meg, azokat honlapjukon oldalhű szöveggel közzéteszik, és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben meghirdetik.
+(5) Ha a CIV Egységes Szabályok és CIM Egységes Szabályok végrehajtása érdekében a részes vasúttársaságok a COTIF 10. Cikkének megfelelően kiegészítő határozmányokban állapodnak meg, azokat honlapjukon oldalhű szöveggel közzéteszik, és Magyarország hivatalos lapjában meghirdetik.
 
 20060000000077_1

@@ -20,13 +20,13 @@ az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézked�
 
 ### A pénzügyi és vagyoni korlátozó intézkedés végrehajtása
 
-3. § (1) A pénzügyi és vagyoni korlátozó intézkedés elrendeléséről szóló uniós jogi aktus hatálybalépésétől számított 30 napon belül a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv megvizsgálja, hogy a pénzügyi és vagyoni korlátozó intézkedés alanya rendelkezik-e a Magyar Köztársaság területén a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó pénzeszközzel vagy gazdasági erőforrással.
+3. § (1) A pénzügyi és vagyoni korlátozó intézkedés elrendeléséről szóló uniós jogi aktus hatálybalépésétől számított 30 napon belül a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv megvizsgálja, hogy a pénzügyi és vagyoni korlátozó intézkedés alanya rendelkezik-e Magyarország területén a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó pénzeszközzel vagy gazdasági erőforrással.
 
-(2) Az (1) bekezdésben meghatározott vizsgálatot követően, a pénzügyi és vagyoni korlátozó intézkedés hatályának tartama alatt a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv folyamatosan figyelemmel kíséri, hogy a pénzügyi és vagyoni korlátozó intézkedés alanya rendelkezik-e a Magyar Köztársaság területén a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó pénzeszközzel vagy gazdasági erőforrással.
+(2) Az (1) bekezdésben meghatározott vizsgálatot követően, a pénzügyi és vagyoni korlátozó intézkedés hatályának tartama alatt a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv folyamatosan figyelemmel kíséri, hogy a pénzügyi és vagyoni korlátozó intézkedés alanya rendelkezik-e Magyarország területén a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó pénzeszközzel vagy gazdasági erőforrással.
 
-(3) Ha a pénzügyi és vagyoni korlátozó intézkedés alanya rendelkezik a Magyar Köztársaság területén a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó pénzeszközzel vagy gazdasági erőforrással, valamint ha a pénzügyi és vagyoni korlátozó intézkedés alanyának valamely ügyletből vagyoni előnye származna, erről a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv az alkalmazandó uniós jogi aktus vonatkozó rendelkezésére hivatkozva, az (1)–(2) bekezdések, illetve a 10. § (3)–(4) bekezdés szerinti vizsgálat eredményének és a (4) bekezdés szerinti adatok megküldésével, a vizsgálat befejezését követően haladéktalanul értesíti
+(3) Ha a pénzügyi és vagyoni korlátozó intézkedés alanya rendelkezik a Magyarország területén a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó pénzeszközzel vagy gazdasági erőforrással, valamint ha a pénzügyi és vagyoni korlátozó intézkedés alanyának valamely ügyletből vagyoni előnye származna, erről a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv az alkalmazandó uniós jogi aktus vonatkozó rendelkezésére hivatkozva, az (1)–(2) bekezdések, illetve a 10. § (3)–(4) bekezdés szerinti vizsgálat eredményének és a (4) bekezdés szerinti adatok megküldésével, a vizsgálat befejezését követően haladéktalanul értesíti
 
-- a) a vagyon fekvése szerint illetékes megyei (fővárosi) bíróságot (a továbbiakban: bíróság),
+- a) a vagyon fekvése szerint illetékes törvényszéket (a továbbiakban: bíróság),
 - b) az illetékes cégbíróságot,
 - c) az adópolitikáért felelős minisztert, valamint
 - d) ha a pénzügyi és vagyoni korlátozó intézkedés alanya vagyoni nyilvántartásban nyilvántartott gazdasági erőforrással rendelkezik, az adott vagyoni nyilvántartást vezető illetékes szervet.
@@ -64,7 +64,7 @@ az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézked�
 
 ### Adatkezelés és megkeresés
 
-7. § (1) A pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv abból a célból, hogy megállapítsa, hogy a pénzügyi és vagyoni korlátozó intézkedés alanya rendelkezik-e a Magyar Köztársaság területén a pénzügyi és vagyoni korlátozó intézkedés hatálya alá eső pénzeszközzel vagy gazdasági erőforrással, jogosult kezelni
+7. § (1) A pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szerv abból a célból, hogy megállapítsa, hogy a pénzügyi és vagyoni korlátozó intézkedés alanya rendelkezik-e Magyarország területén a pénzügyi és vagyoni korlátozó intézkedés hatálya alá eső pénzeszközzel vagy gazdasági erőforrással, jogosult kezelni
 
 - a) a pénzügyi és vagyoni korlátozó intézkedés alanyának születési és házassági nevét, születési idejét, születési helyét, lakóhelyét és tartózkodási helyét, továbbá a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktus által közzétett egyéb azonosító adatait,
 - b) a pénzügyi és vagyoni korlátozó intézkedés hatálya alá eső pénzeszközön, valamint gazdasági erőforráson a pénzügyi és vagyoni korlátozó intézkedés végrehajtását korlátozó jogosultsággal rendelkező természetes személy születési és házassági nevét, születési idejét, születési helyét, lakóhelyét és tartózkodási helyét.
@@ -109,7 +109,7 @@ a 3. § (4) bekezdésében és a 7. § (1) bekezdésében foglalt adatokat igén
 
 ### A szolgáltatók, valamint a vagyoni nyilvántartást vezető szervek kötelezettségei és az alkalmazandó intézkedések
 
-10. § (1) A pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény hatálya alá tartozó személy vagy szervezet (a továbbiakban: szolgáltató), valamint a vagyoni nyilvántartást vezető szervek kötelesek – a 7. § (1) bekezdése szerinti személyes adatok közlésével – haladéktalanul bejelenteni a pénzügyi és vagyoni korlátozás foganatosításáért felelős szervnek minden olyan adatot, tényt, körülményt, amely arra utal, hogy a pénzügyi és vagyoni korlátozó intézkedés alanya a Magyar Köztársaság területén a pénzügyi és vagyoni korlátozó intézkedés hatálya alá eső pénzeszközzel vagy gazdasági erőforrással rendelkezik.
+10. § (1) A pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény hatálya alá tartozó személy vagy szervezet (a továbbiakban: szolgáltató), valamint a vagyoni nyilvántartást vezető szervek kötelesek – a 7. § (1) bekezdése szerinti személyes adatok közlésével – haladéktalanul bejelenteni a pénzügyi és vagyoni korlátozás foganatosításáért felelős szervnek minden olyan adatot, tényt, körülményt, amely arra utal, hogy a pénzügyi és vagyoni korlátozó intézkedés alanya Magyarország területén a pénzügyi és vagyoni korlátozó intézkedés hatálya alá eső pénzeszközzel vagy gazdasági erőforrással rendelkezik.
 
 (2) A szolgáltató, valamint a vagyoni nyilvántartást vezető szervek kötelesek – a 7. § (1) bekezdése szerinti személyes adatok közlésével – haladéktalanul bejelenteni a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szervnek minden olyan ügyletre vonatkozó adatot, tényt vagy körülményt, amely arra utal, hogy az adott ügyletből a pénzügyi és vagyoni korlátozó intézkedés alanyának vagyoni előnye származik.
 
