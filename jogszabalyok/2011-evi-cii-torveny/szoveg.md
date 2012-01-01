@@ -2,7 +2,7 @@
 
 a szabályozott ingatlanbefektetési társaságokról
 
-1. § Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed a Magyar Köztársaság területén székhellyel rendelkező, e törvény szerinti szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság működésére és felügyeletére, valamint az e törvény szerinti projekttársaságra.
+1. § Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed a Magyarország területén székhellyel rendelkező, e törvény szerinti szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság működésére és felügyeletére, valamint az e törvény szerinti projekttársaságra.
 
 2. § E törvény alkalmazásában
 

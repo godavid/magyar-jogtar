@@ -148,6 +148,8 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 
 (4) A házirend szabályait – a használat jogcímétől függetlenül – a lakás és a nem lakás céljára szolgáló helyiség mindenkori használója köteles betartani.
 
+(5) A házirend – az összes lakásszövetkezeti tag szavazatának legalább négyötödös többségével megállapított – eltérő rendelkezése hiányában tilos dohányozni a lakásszövetkezeti lakóépület közös használatra szolgáló, zárt légterű épületrészeiben, területein, illetve helyiségeiben.
+
 14/A. § (1) A lakásszövetkezet tulajdonában álló, közös használatra szolgáló épületrészek, helyiségek és területek megfigyelését szolgáló, zárt rendszerű műszaki megoldással kiépített elektronikus megfigyelő rendszer (a továbbiakban: kamerarendszer) létesítéséről és üzemeltetéséről a közgyűlés, vagy a kamerarendszer kiépítésével közvetlenül érintett épület (épületek) részközgyűlése a tag és nem tag tulajdonosok legalább kétharmados többségének igenlő szavazatával dönthet. Ebben az esetben a lakásszövetkezet alapszabályának vagy más belső szabályzatának tartalmaznia kell a kamerarendszer üzemeltetéséhez szükséges – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény rendelkezéseivel összhangban megállapított – adatkezelési szabályokat.
 
 (2) A kamerarendszer üzemeltetője az igazgatóság által kötött szerződés alapján e tevékenységgel megbízott – a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvényben meghatározott – személy lehet.
@@ -447,7 +449,7 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 
 40/B. § (1) Nyugdíjasházi szövetkezet esetén a lakások a szövetkezet tulajdonában állnak, a tagot a lakás állandó használatának joga illeti meg.
 
-(2) Nyugdíjasházi szövetkezetbe tagként az vehető fel, aki a lakásszövetkezeti tagság 34. §-ban előírt feltételeinek megfelel, és nyugdíjas vagy külön jogszabályban meghatározott nyugdíjszerű rendszeres szociális ellátásban részesül, vagy az öregségi nyugdíjkorhatárt elérte.
+(2) Nyugdíjasházi szövetkezetbe tagként az vehető fel, aki a lakásszövetkezeti tagság 34. §-ban előírt feltételeinek megfelel, és nyugdíjas vagy külön jogszabályban meghatározott nyugdíjszerű ellátásban részesül, vagy az öregségi nyugdíjkorhatárt elérte.
 
 (3) A tag a lakásba csak a (2) bekezdésben előírt feltételeknek megfelelő személyt fogadhat be. Más személy befogadása a tagsági viszonyt megszünteti, kivéve, ha a befogadott személy a tag házastársa.
 
@@ -658,6 +660,7 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 - 6. A lakásszövetkezet vállalkozási tevékenysége: a lakásszövetkezetnek az 5. pontban meghatározott tevékenysége körébe nem tartozó minden más olyan tevékenysége, amelynek adózott eredményét felhasználhatja az építés és a fenntartás feladatainak ellátására.
 - 7. Eredménytelen írásbeli szavazás: a lakásonként (használati egységenként) számított érvényes szavazatok összessége nem éri el a tagok több mint a felének, vagy a törvényben, az alapszabályban vagy a közgyűlés által meghatározott minősített szavazatarány szerint számított többségének azonos írásbeli szavazatát.
 - 8. Beszámoló: a számviteli szabályok szerint elkészített beszámoló.
+- 9. nyugdíjszerű ellátás: a korhatár előtti ellátás, a szolgálati járandóság és az átmeneti bányászjáradék, továbbá mindaz az ellátás, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik, vagy amely ellátást a nyugdíjemelésre vonatkozó rendelkezések szerint kell emelni.
 
 (2) A számvitelről szóló törvény alkalmazása során a lakásszövetkezet küldöttgyűlésének döntését a közgyűlés döntésével azonos módon kell figyelembe venni.
 

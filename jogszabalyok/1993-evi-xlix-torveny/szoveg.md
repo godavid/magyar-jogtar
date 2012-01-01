@@ -53,7 +53,7 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 - a) amelyet a Magyar Honvédség használ fel vagy saját felhasználásra tartalékol,
 - b) azon mennyiség után, amelyet az e törvényben előírt készletezési kötelezettség teljesítése céljából hoznak be,
-- c) amelyet más állam készletezési céllal a Magyar Köztársaság területén tárol,
+- c) amelyet más állam készletezési céllal Magyarország területén tárol,
 - d) amelyet az Észak-atlanti Szerződés tagállamai és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részt vevő államai Magyarországon tartózkodó fegyveres erői és polgári állománya által a szolgálati járművek, légijárművek és hajók üzemanyagaként használnak fel vagy saját felhasználásra tartalékolnak,
 - e) továbbá azon kőolajtermék mennyiség után, amelyet vegyipari, kenéstechnikai, korrózióvédelmi célra hoztak be kiskereskedelmi forgalom számára kiszerelve, 200 kg-ot nem meghaladó egyedi tömegben.
 
@@ -80,9 +80,9 @@ a behozott kőolaj és kőolajtermékek biztonsági készletezéséről
 
 7. § (1) A biztonsági készletet működésre engedélyezett, műszakilag ellenőrzött, a biztonságtechnikai és környezetvédelmi jogszabályok előírásainak megfelelő, olyan tárolótérben kell raktározni, amely alkalmas arra, hogy a készletezett kőolaj, illetve kőolajtermék minőségét megőrizze.
 
-(2) A Szövetség kormányközi megállapodás alapján biztonsági készletet tárolhat más tagállam területén, illetve más állam szervezetei biztonsági készletet tárolhatnak a Magyar Köztársaság területén.
+(2) A Szövetség kormányközi megállapodás alapján biztonsági készletet tárolhat más tagállam területén, illetve más állam szervezetei biztonsági készletet tárolhatnak Magyarország területén.
 
-(3) A Magyar Köztársaság területén más állam által tárolt biztonsági készletek felett az adott állam készletező szervezeteinek rendelkezési joga érvényesül.
+(3) Magyarország területén más állam által tárolt biztonsági készletek felett az adott állam készletező szervezeteinek rendelkezési joga érvényesül.
 
 8. § (1) Abban az esetben, ha a kőolaj- és kőolajtermék ellátás és a fogyasztás egyensúlya felbomlik, a felhasználási igények meghaladják a beszerzés lehetőségeit, az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a szabályozásban érdekelt miniszterekkel egyetértésben kiadott rendeletben fogyasztást korlátozó intézkedéseket rendelhet el.
 

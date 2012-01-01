@@ -16,15 +16,15 @@ A családok életében kitüntetett jelentőséggel bírnak a nemzedékeken át�
 
 Az állam segíti a munkavállalás és a családi élet összeegyeztetését.
 
-A családok védelme és a családok jólétének erősítése az állam, az önkormányzatok, a civil szervezetek, a médiaszolgáltatók és a gazdasági élet szereplőinek egyaránt feladata. E célok megvalósítására a vallási közösségek is kiemelt figyelmet fordítanak.
+A családok védelme és a családok jólétének erősítése az állam, az önkormányzatok, a civil szervezetek, a médiaszolgáltatók és a gazdasági élet szereplőinek egyaránt feladata. E célok megvalósítására az egyházak is kiemelt figyelmet fordítanak.
 
 Az Országgyűlés mindezen értékek megőrzése és erősítése céljából, valamint annak érdekében, hogy a családok védelmére és jólétének növelésére kiszámítható és biztonságot nyújtó szabályozási környezetet teremtsen, az Alaptörvény végrehajtására, az Alaptörvény L) cikk (3) bekezdése alapján a következő törvényt alkotja:
 
 ### I. Fejezet — CÉLOK ÉS ALAPELVEK
 
-1. § (1) Az állam – önmagukban vett méltóságuk és értékük miatt is – védi a család és a házasság intézményét, különös tekintettel a családi kapcsolat alapját képező szülő-gyermek viszonyra, melyben az anya nő, az apa férfi.
+1. § (1) Az állam – önmagukban vett méltóságuk és értékük miatt is – védi a család és a házasság intézményét.
 
-(2) A rendezett családi viszonyok védelme és a gyermekek születési nemének megfelelő önazonossághoz való jogának érvényesülése különös jelentőséggel bír a testi, a szellemi és a lelki egészség megóvása érdekében.
+(2) A rendezett családi viszonyok védelme különös jelentőséggel bír a testi, a szellemi és a lelki egészség megóvása érdekében.
 
 (3) Az állam a nemzet fennmaradását biztosító népesedési folyamatok érdekében külön törvényekben foglaltak szerint támogatja a gyermekvállalást, és segíti a szülők gyermekvállalási szándékainak megvalósulását.
 
@@ -45,8 +45,6 @@ Az Országgyűlés mindezen értékek megőrzése és erősítése céljából, 
 (3) Az állam kiemelten ösztönzi és támogatja a kiskorú gyermekek kis közösségekben, családias körülmények között történő napközbeni gondozását és felügyeletét.
 
 5. § E törvényben foglalt célok és a gyermekek védelme érdekében a médiaszolgáltatók kötelesek szolgáltatásaikat a házasság intézményének, valamint a család és a gyermeknevelés értékének tiszteletben tartásával nyújtani. Az állam ösztönzi a család és a gyermeknevelés értékét közvetítő műsorok, médiatartalmak bemutatását. A médiaszolgáltatók által elkövetett jogsértések esetén alkalmazható jogkövetkezményekről külön törvény rendelkezik.
-
-5/A. § E törvényben foglalt célok és a gyermekek védelme érdekében tilos tizennyolc éven aluliak számára pornográf, valamint olyan tartalmat elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, valamint a homoszexualitást népszerűsíti, jeleníti meg.
 
 6. § (1) Az állam elősegíti és támogatja a családbarát szemlélet kialakulását és fenntartását a társadalmi és a gazdasági élet valamennyi területén.
 
@@ -121,10 +119,7 @@ esetén.
 
 (2) A várandós, illetve egy évesnél fiatalabb gyermeket nevelő nőt csak az egészségi állapotának megfelelő olyan munkakörben lehet foglalkoztatni, amelyhez hozzájárult, és amelyben alapbére nem kevesebb, mint a megelőző munkakörében. A megfelelő munkakör felajánlása vagy kialakítása a foglalkoztató feladata. Amennyiben a foglalkoztató nem tud ilyet biztosítani, a nőt a munkavégzés alól fel kell menteni, és részére külön törvényben foglaltak szerint alapbért kell folyósítani.
 
-17. § A szülőt külön törvény szerinti fizetés nélküli szabadság illeti meg a gyermeke otthoni
-
-- a) gondozása céljából legalább a gyermek harmadik életéve, illetve tartósan beteg, súlyosan fogyatékos gyermek, ikergyermekek nevelése esetén a külön törvény szerinti korhatár betöltéséig,
-- b) ápolása céljából legalább a gyermek tizenkettedik életéve betöltéséig, illetve ezt követően a személyes ápolás indokoltságának igazolása alapján.
+#### 17. §
 
 18. § A szülő külön törvény szerinti felmondási védelem alatt áll, ha
 
@@ -132,7 +127,7 @@ esetén.
 - b) beteg gyermekét ápolja,
 - c) várandós, szülési szabadságon vagy a gyermek otthoni gondozása céljából igénybe vett fizetés nélküli szabadságon van, illetve emberi reprodukciós eljárással összefüggő kezelésben vagy gyermek örökbefogadására irányuló eljárásban vesz részt.
 
-19. § A gyermek gondozása céljából igénybe vett ellátásból a foglalkoztatásba visszatérő szülőt kérésére – legalább a gyermek harmadik életévének betöltéséig – külön törvény szerinti részmunkaidőben kell foglalkoztatni.
+#### 19. §
 
 20. § (1) A család gyermekvállalással és gyermekneveléssel kapcsolatos feladatai ellátásának segítésére – külön törvényben foglaltak szerint –
 
@@ -178,4 +173,24 @@ jogosult.
 
 #### 7. Módosuló jogszabályok
 
-#### 28–29. §
+28. § (1) A házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 96. § (2) bekezdés helyébe a következő rendelkezés lép:
+
+„(2) Azt a személyt,
+
+a) akinél a gyámhivatal a gyermeket ideiglenes hatállyal elhelyezte [91. § (2) bek.],
+
+b) akinél a bíróság a gyermeket elhelyezte [72/A. § (1) bek.],
+
+c) aki a gyermeket a gyámhatóság hozzájárulásával családba fogadta
+
+a gyermek gyámjául, családbafogadó gyámjául kell rendelni.”
+
+(2) A házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 96. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A gyámhatóság családbafogadó gyámként rendeli ki a (2) bekezdés a)–c) pontjában meghatározott személyt, kivéve, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el.”
+
+29. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
+
+- a) 20/B. § (2) bekezdésében, 71. § (3) bekezdésében és 80. § (1) bekezdés záró szövegében a „gyám” szövegrész helyébe a „családbafogadó gyám” szöveg,
+- b) 71. § (2) bekezdésében a „gyámul” szövegrész helyébe a „családbafogadó gyámul” szöveg,
+- c) 75. § b) pontjában és 75/A. § b) pontjában a „gyámjául” szövegrész helyébe a „családbafogadó gyámjául” szöveg lép.

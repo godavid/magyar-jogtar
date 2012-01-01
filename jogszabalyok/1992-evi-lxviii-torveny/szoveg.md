@@ -42,7 +42,7 @@ a Polgári perrendtartásról szóló 1952. évi III. törvényben és az ehhez 
 
 (3) E törvény hatálybalépése előtt emelt törvényességi óvás elbírálására az e törvény hatálybalépése előtt hatályos rendelkezéseket kell alkalmazni.
 
-(4) A megyei bíróság a helyi bíróságnak küldi meg azokat az ügyeket, amelyek e törvény alapján a helyi bíróság hatáskörébe tartoznak, ha az ügyben a perindítás hatályai még nem álltak be. Ez a rendelkezés nem vonatkozik arra az esetre, ha a keresetlevelet idézés kibocsátása nélkül elutasították.
+(4) A törvényszék a helyi bíróságnak küldi meg azokat az ügyeket, amelyek e törvény alapján a helyi bíróság hatáskörébe tartoznak, ha az ügyben a perindítás hatályai még nem álltak be. Ez a rendelkezés nem vonatkozik arra az esetre, ha a keresetlevelet idézés kibocsátása nélkül elutasították.
 
 (5) A (4) bekezdés rendelkezéseit kell alkalmazni a fizetési meghagyás kibocsátása iránti kérelmekre, ha a fizetési meghagyás kibocsátására e törvény hatálybalépéséig nem került sor.
 
@@ -50,7 +50,7 @@ a Polgári perrendtartásról szóló 1952. évi III. törvényben és az ehhez 
 
 (2) E törvény 14. §-ában foglalt szabályokat a folyamatban lévő ügyekben akkor kell alkalmazni, ha a bíróság a törvény hatálybalépésekor az elsőfokú határozatot még nem hozta meg.
 
-(3) Ha a Legfelsőbb Bíróság e törvény hatálybalépését követően hatályon kívül helyezi a megyei bíróságnak a korábbi hatásköri szabályok alapján hozott határozatát, de az új hatásköri szabályok szerint az ügy a helyi bíróság hatáskörébe tartozik, a Legfelsőbb Bíróság a helyi bíróságot utasítja új eljárás lefolytatására.
+(3) Ha a Kúria e törvény hatálybalépését követően hatályon kívül helyezi a törvényszéknek a korábbi hatásköri szabályok alapján hozott határozatát, de az új hatásköri szabályok szerint az ügy a helyi bíróság hatáskörébe tartozik, a Kúria a helyi bíróságot utasítja új eljárás lefolytatására.
 
 30. § (1) Ahol jogszabály a társadalombiztosítási határozat felülvizsgálata iránti perekre vonatkozóan munkaügyi bíróságot említ, ott azon a Pp. 326. §-ában megjelölt bíróságot kell érteni.
 

@@ -69,7 +69,7 @@ Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárak
 
 (5) Az Alap működtetésében részt vevő személy a tudomására jutott minősített adatot, banktitkot, értékpapírtitkot és üzleti titkot megőrzi.
 
-(6) Az (1)–(5) bekezdésben az összeférhetetlenségre vonatkozó előírásokat az ÁKK és az általa igénybevett harmadik személy esetén is alkalmazni kell.
+(6)
 
 #### 3. Az Alap működése, gazdálkodása
 
@@ -77,7 +77,7 @@ Az Országgyűlés a pénzügyi stabilitás valamint a magánnyugdíjpénztárak
 
 7. § Az Alap vagyonát képező eszközökből származó bevételt
 
-- a) a Nyugdíjbiztosítási Alap fejezetnek és a központi költségvetésnek a Magyar Köztársaság költségvetéséről szóló törvényben meghatározott előirányzata javára kell befizetni,
+- a) a központi költségvetésről szóló törvényben meghatározott előirányzat javára kell a központi költségvetésbe befizetni,
 - b) az államadósság csökkentésére kell fordítani,
 - c) a társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártag természetes személyeket megillető, az Mpt. 4. § (2) bekezdés zsk) pontja szerinti visszalépő tagi kifizetésekre kell fordítani,
 - d) a beazonosított függő tételek miatti visszafizetésekre kell fordítani,

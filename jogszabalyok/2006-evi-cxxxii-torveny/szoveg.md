@@ -8,10 +8,10 @@ megalkotja a szakellátó hálózat megújítását és folyamatosan magas szín
 
 1. § (1) E törvény hatálya
 
-- a) az egészségügyi közszolgáltatások közül a szakellátási kötelezettség keretében nyújtott járóbeteg- és fekvőbeteg-szakellátásokra (a továbbiakban együtt: egészségügyi szakellátás),
-- b) a közfinanszírozásban részesülő egészségügyi szolgáltatók fenntartóira és működtetőire, valamint a fenntartásukban működő egészségügyi szolgáltatókra,
-- c) az egészségügyért és az egészségbiztosításért felelős miniszterre (a továbbiakban együtt: egészségügyért felelős miniszter), az egészségügyi államigazgatási szervre és az egészségbiztosítóra,
-- d)
+- a) az egészségügyi közszolgáltatások közül a járóbeteg- és fekvőbeteg-szakellátásokra (a továbbiakban együtt: egészségügyi szakellátás),
+- b) a közfinanszírozásban részesülő egészségügyi szolgáltatók tulajdonosaira, fenntartóira és működtetőire, valamint a fenntartásukban működő egészségügyi szolgáltatókra,
+- c) az egészségügyért felelős miniszterre, az egészségügyi államigazgatási szervre, az egészségbiztosítóra, valamint a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatos e törvény szerinti eljárásokban – a kormány által kijelölt – véleményadásra jogosult szakértői szervre,
+- d) a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatos e törvény szerinti eljárásokkal érintett egészségügyi szolgáltatókra és fenntartóikra
 
 terjed ki.
 
@@ -19,40 +19,50 @@ terjed ki.
 
 - a) egészségbiztosító: az egészségbiztosítási szerv;
 - b) egészségügyi közszolgáltatás: a részben vagy egészben a központi költségvetés és az Egészségbiztosítási Alap terhére finanszírozott egészségügyi szolgáltatás;
-- c) egészségügyi közszolgáltatásért felelős szerv: annak az egészségügyi szolgáltatónak a fenntartója/tulajdonosa, aki lekötött kapacitással rendelkezik;
+- c) egészségügyi közszolgáltatásért felelős szerv: annak az egészségügyi szolgáltatónak a fenntartója, aki lekötött kapacitással rendelkezik;
 - d) lekötött kapacitás: az az i) pont szerinti szakellátási kapacitás, amire érvényes finanszírozási szerződés kiterjed;
 - e) rendelési óra: az egészségbiztosító által az egészségbiztosítás keretében finanszírozott óraszám;
 - f) régió: a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 5. §-ának e) pontjában meghatározott régióval megegyező terület;
-- g)
+- g) egészségügyi térség: megközelítőleg 0,9–1,6 millió biztosított ellátásáért felelős olyan térség, amelyhez tartozó egészségügyi intézményekben a finanszírozható szakmák többségében a progresszivitás minden szintjén ellátás nyújtható;
 - h) sürgősségi ellátás: az Eütv. 3. §-ának i) pontja szerinti sürgős szükség fennállásának megállapítására irányuló vizsgálatokat, valamint a sürgős szükséget elhárító beavatkozásokat magában foglaló egészségügyi szolgáltatás;
 - i) szakellátási kapacitás:
-  - ia) a járóbeteg-szakellátásban a szakorvosi és nem szakorvosi órák száma, egy napos ellátások finanszírozott szolgáltatási egységei,
+  - ia) a járóbeteg-szakellátásban a szakorvosi és nem szakorvosi órák száma, a nappali, kúraszerű és az egynapos ellátások finanszírozott szolgáltatási egységei,
   - ib) a fekvőbeteg-ellátásban az aktív és krónikus ellátási ágyak száma,
   - ic) jogszabályban előírt bármely más finanszírozott szolgáltatási egység, ideértve a CT, MRI, PET/CT, illetve egyéb, külön jogszabályban meghatározott eszközök finanszírozott szolgáltatási egységét, a művesekezelés finanszírozott szolgáltatási egységét;
-- j) területi szakellátási kötelezettség: az egészségügyi szolgáltató fenntartójának, illetve tulajdonosának (a továbbiakban együtt: fenntartó), valamint az egészségügyi szolgáltatónak az a kötelezettsége, hogy az egészségügyi szakellátásban az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitásai felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerint egészségügyi szolgáltatásokat nyújtson;
+- j) szakellátási kötelezettség: az egészségügyről szóló 1997. évi CLIV. törvény 141. § (3) bekezdése alapján a Magyar Államnak az a kötelezettsége, hogy biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti járóbeteg- és fekvőbeteg-szakellátásokat;
 - k) alapszakma: belgyógyászat, gyermekgyógyászat, sebészet, szülészet-nőgyógyászat;
-- l)
-- m) ellátási terület: az a földrajzi terület, amelyre kiterjed az egészségügyi szolgáltatónak, illetve az egészségügyi szolgáltató fenntartójának/tulajdonosának a j) pontban meghatározott kötelezettsége.
+- l) egészségügyi szakellátási intézményműködtetési kötelezettség: a helyi önkormányzatoknak az egészségügyről szóló 1997. évi CLIV. törvény 152. § (3) bekezdése szerinti kötelezettsége;
+- m) ellátási terület: az a földrajzi terület, amelyre kiterjed az egészségügyi szolgáltatónak az n) pont szerinti kötelezettsége;
+- n) területi ellátási kötelezettség: a lekötött kapacitással rendelkező egészségügyi szolgáltatónak az a kötelezettsége, hogy a kapacitásai felhasználásával az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen élő, a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára külön jogszabályban foglaltak szerinti járóbeteg-, illetve fekvőbeteg-szakellátásokat nyújtson;
+- o) szakellátási feladat: a nem állami és nem helyi önkormányzati tulajdonban/fenntartásban lévő egészségügyi szolgáltató által az e törvény alapján lekötött kapacitásokon végzett, ellátási érdekből közfinanszírozott feladat.
 
 (3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
 
+(3a) E törvény alkalmazása során a fenntartó alatt a tulajdonost kell érteni abban az esetben, ha az egészségügyi szolgáltató tekintetében a fenntartói jogokat – az egészségügyi szolgáltató alapító dokumentumában rögzítettek szerint – az egészségügyi szolgáltató tulajdonosa gyakorolja.
+
 2. § (1) Az egészségügyi közszolgáltatásért felelős szervek közül
 
-- a) a települési és megyei önkormányzatok (a továbbiakban együtt: helyi önkormányzat) a külön törvény szerinti egészségügyi szakellátási kötelezettségüket,
-- b) az a) pont alá nem tartozó szervek az e törvényen alapuló szakellátási feladataikat a 2010. december 31-én lekötött kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti ellátási területen teljesítik.
+- a) a helyi önkormányzat az egészségügyi szakellátási intézményműködtetési kötelezettségét,
+- b) a magyar állam az egészségügyi szakellátási kötelezettségét,
+- c) az a) és a b) pont alá nem tartozó szerv a szakellátási feladatát a 2011. december 31-én lekötött kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen teljesíti.
 
-(2) Amennyiben az (1) bekezdés b) pontja alá tartozó szerv e törvényen alapuló szakellátási feladatát nem teljesíti, az illetékes helyi önkormányzat köteles a külön törvény szerinti szakellátási kötelezettsége alapján az adott szakellátási feladat ellátásáról gondoskodni, kivéve, ha a 8/A. § szerinti eljárás során másik közszolgáltatásért felelős szervhez kerül a szakellátási feladat.
+(2) Amennyiben az (1) bekezdés a), illetve c) pontja alá tartozó szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve a szakellátási feladatát nem teljesíti, a magyar állam köteles a külön törvény szerinti szakellátási kötelezettsége alapján az adott szakellátási feladat ellátásáról gondoskodni, kivéve, ha a 8/A. § szerinti eljárás során másik közszolgáltatásért felelős szervhez kerül a szakellátási feladat.
 
-(3) A egészségügyi közszolgáltatásért felelős szerv egészségügyi szakellátási kötelezettségének, illetve szakellátási feladatának (a továbbiakban együtt: ellátási kötelezettség) teljesítése érdekében
+(3) Az egészségügyi közszolgáltatásért felelős szerv az egészségügyi szakellátási kötelezettségének, illetve az egészségügyi szakellátási intézményműködtetési kötelezettségének vagy a szakellátási feladatának (a továbbiakban együtt: ellátási kötelezettség) teljesítése érdekében
 
-- a) más egészségügyi közszolgáltatásért felelős szervvel vagy más fenntartóval az ellátási kötelezettség teljesítéséről megállapodást, vagy
-- b) egészségügyi ellátási szerződést köthet.
+- a) más egészségügyi közszolgáltatásért felelős szervvel vagy más fenntartóval az ellátási kötelezettség teljesítéséről megállapodást vagy
+- b) egészségügyi ellátási szerződést
 
-(4) A megállapodás vagy az egészségügyi ellátási szerződés megkötése az egészségügyi közszolgáltatásért felelős szerv (1) bekezdés szerinti ellátási kötelezettségét és felelősségét nem érinti, kivéve, ha az egészségügyi közszolgáltatatásért felelős nem helyi önkormányzat másik egészségügyi közszolgáltatásért felelős szervvel köt megállapodást.
+köthet.
 
-(5) Az egészségügyi ellátási szerződést az egészségügyi közszolgáltatásért felelős szerv köti a feladat ellátását vállaló, nem a saját fenntartásában vagy tulajdonában álló egészségügyi szolgáltatóval. Az egészségügyi ellátási szerződés érvényességéhez az egészségügyi szolgáltató fenntartójának/tulajdonosának hozzájárulása szükséges.
+(4) A megállapodás vagy az egészségügyi ellátási szerződés megkötése az egészségügyi közszolgáltatásért felelős szerv (1) bekezdés szerinti ellátási kötelezettségét és felelősségét nem érinti, kivéve, ha az (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatatásért felelős szerv másik egészségügyi közszolgáltatásért felelős szervvel köt megállapodást.
 
-(6)
+(5) Az egészségügyi ellátási szerződést az egészségügyi közszolgáltatásért felelős szerv köti a feladat ellátását vállaló, nem a saját fenntartásában vagy tulajdonában álló egészségügyi szolgáltatóval.
+
+(6) Az egészségügyi ellátási szerződés érvényességéhez szükséges
+
+- a) a feladat ellátását vállaló egészségügyi szolgáltató fenntartójának hozzájárulása, és
+- b) az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötéséig ellátó egészségügyi szolgáltató tulajdonosának hozzájárulása, amennyiben a szerződés nem tartalmazza a 2/A. § (2) bekezdés k) pontja szerinti nyilatkozatot.
 
 (7) Az az egészségügyi közszolgáltatásért felelős szerv vagy más fenntartó, aki a (3) bekezdés a) pontja szerinti megállapodás alapján ellátási kötelezettséget teljesít, ugyanarra az ellátási kötelezettségre további megállapodást vagy egészségügyi ellátási szerződést nem köthet.
 
@@ -71,7 +81,8 @@ terjed ki.
 - g) annak előírását, hogy az egészségügyi szolgáltatónak az E. Alapból származó bevételét terhelő, annak mértékét meghaladó kötelezettségvállalása csak abban az esetben érvényes, ha ahhoz az egészségügyi közszolgáltatásért felelős szerv előzetesen hozzájárult,
 - h) az egészségügyi szolgáltató azon kötelezettségét, hogy a tulajdont és a szervezetet érintő bármely változásról az egészségügyi közszolgáltatásért felelős szervet tájékoztatja,
 - i) a szerződés megkötésekor meglévő vagyonról szóló tételes listát, és a szerződés megszűnésekor irányadó vagyonelszámolási szabályokat,
-- j) a külön jogszabály szerinti folyamatos ellátás biztosítására vonatkozó szabályokat.
+- j) a külön jogszabály szerinti folyamatos ellátás biztosítására vonatkozó szabályokat,
+- k) az ellátási kötelezettsége teljesítése érdekében egészségügyi ellátási szerződést kötő egészségügyi közszolgáltatásért felelős szerv nyilatkozatát arról, hogy a szerződés megkötésére fenntartóként jogosult a fenntartásában működő – az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötését megelőzően ellátó – egészségügyi szolgáltató tulajdonosának hozzájárulása nélkül.
 
 (3)
 
@@ -87,9 +98,9 @@ terjed ki.
 - d) amelynek a tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény szerint a bíróság jogerős ítéletében korlátozta, a korlátozás időtartama alatt, vagy a szerződés megkötését megelőző három éven belül ugyanezen törvény alapján pénzbírság megfizetésére kötelezte,
 - e) amelynek egészségügyi közszolgáltatásra vonatkozó egészségügyi ellátási szerződését – az újabb szerződés megkötését megelőző három éven belül – szerződésszegés miatt azonnali hatállyal felmondták.
 
-(2) Az (1) bekezdés a) és c)–e) pontjában felsorolt körülményekről az egészségügyi szolgáltatónak nyilatkoznia kell, a b) pontban foglaltakról pedig az állami adóhatóság igazolását kell a pályázathoz csatolni.
+(2) Az (1) bekezdés a) és c)–e) pontjában felsorolt körülményekről az egészségügyi szolgáltatónak nyilatkoznia kell, a b) pontban foglaltakról pedig az állami adóhatóság igazolását kell csatolni.
 
-2/D. § (1) Az egészségügyi ellátási szerződés alapján ellátást nyújtó egészségügyi szolgáltató köteles vagyoni biztosítékot adni. A vagyoni biztosíték módját és mértékét az egészségügyi ellátási szerződés tartalmazza.
+2/D. § (1) A szakellátási kötelezettséggel rendelkező fenntartóhoz tartozó egészségügyi szolgáltató kivételével az egészségügyi ellátási szerződés alapján ellátást nyújtó egészségügyi szolgáltató köteles vagyoni biztosítékot adni. A vagyoni biztosíték módját és mértékét az egészségügyi ellátási szerződés tartalmazza.
 
 (2)
 
@@ -164,7 +175,7 @@ terjed ki.
 
 (2)
 
-3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség a 2010. december 31-én
+3. § (1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség a 2011. december 31-én
 
 - a) lekötött, és
 - b) az egészségügyi államigazgatási szervnek bejelentve szüneteltetett szakellátási kapacitások összessége.
@@ -175,7 +186,7 @@ terjed ki.
 
 (4) Kormányrendelet határozza meg azokat a szakmákat, amelyekre az egészségügyi szakellátás körében finanszírozási szerződés köthető.
 
-(5) A 2. § (1) bekezdés és az (1) bekezdés szerinti kapacitásmennyiség kizárólag az e törvény szerinti eljárások során változhat.
+(5) Az (1) bekezdés szerinti kapacitásmennyiség kizárólag az e törvény szerinti eljárások során változhat.
 
 (6) Ha a költségvetési szerv formájában működő finanszírozott egészségügyi szolgáltató egészségügyi tevékenységét gazdasági társaság működési formában szándékozik a továbbiakban ellátni, a költségvetési szerv formájában működő finanszírozott egészségügyi szolgáltató helyébe – a költségvetési szerv megszűnésével egyidejűleg – lépő, az ellátási kötelezettséget és meglévő szerződéses kapacitások továbbvitelét vállaló gazdasági társaság a költségvetési szerv kapacitásai tekintetében a költségvetési szerv jogutódja.
 
@@ -187,37 +198,29 @@ terjed ki.
 
 (2) Az egészségbiztosító az (1) bekezdés szerinti vizsgálat eredménye, valamint a 4/A. §-ban meghatározott szempontokra vonatkozó előző évi adatok alapján régiónként javaslatot készít a kapacitásfelosztás módosítására. A javaslatot háromévente szeptember 1-jéig kell az illetékes egészségügyi államigazgatási szervnek megküldeni.
 
-(3) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti javaslat és a 4/A. §-ban meghatározott szempontok alapján hatvan napon belül dönt a kapacitásfelosztás módosításáról.
+(3) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti javaslat és a 4/A. §-ban meghatározott szempontok alapján – a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – hatvan napon belül dönt a kapacitásfelosztás módosításáról.
 
 (4) Az egészségügyi államigazgatási szerv a jogerős határozatot megküldi az egészségügyért felelős miniszternek, a határozat jogerőre emelkedéséről tájékoztatja az egészségbiztosítót.
 
-(5) Az (1)–(4) bekezdés szerinti eljárásban ügyfél az egészségügyi szolgáltató, annak fenntartója/tulajdonosa, az egészségbiztosító és az ellátási kötelezettséggel érintett helyi önkormányzat.
+(5) Az (1)–(4) bekezdés szerinti eljárásban ügyfél az egészségügyi szolgáltató, annak fenntartója, az egészségbiztosító és az ellátási kötelezettséggel érintett helyi önkormányzat.
 
 4/A. § (1)
 
-(2) A 4. § szerinti döntés során előnyben kell részesíteni
+(2)
 
-- a) az aktív fekvőbeteg-szakellátási kapacitások felosztásának vonatkozásában azt az egészségügyi szolgáltatót, amelyik sürgősségi betegellátásra megfelelő szakmai felkészültséggel rendelkezik,
-- b) azt az egészségügyi szolgáltatót, amelyik fenntartója intézményfenntartói társulás vagy többcélú kistérségi társulás, vagy ennek az egészségügyi államigazgatási szerv döntéséig történő létrehozását nyilatkozatban vállalja, illetve olyan fenntartó, amely több járóbeteg-szakellátást, illetve fekvőbeteg-szakellátást nyújtó szolgáltatót tart fenn,
-- c) azt az egészségügyi szolgáltatót, amelynek tulajdonosa vagy működtetője az egészségügyi szolgáltató orvosai és más alkalmazottai részvételével létrehozott gazdasági társaság.
+(3) A 4. § szerinti és a 7. § szerinti eljárások során a kapacitásmódosítás az alábbi szempontoknak az e törvény végrehajtásáról szóló kormányrendeletben foglaltak szerinti értékelése alapján kerül meghatározásra:
 
-(3) A 4. § szerinti és a 7. § szerinti eljárások során a kapacitásmódosítás az alábbi szempontok szerinti értékelés alapján kerül meghatározásra:
-
-- a) az adott régió megbetegedési és halálozási mutatói,
+- a) az adott térség megbetegedési és halálozási mutatói,
 - b) az ellátandó lakosság száma,
 - c) az egy ágyra jutó betegforgalmi adatok szakterületenként,
 - d) az egy esetre jutó ápolási idő szakterületenként,
 - e) a külön jogszabály szerinti esetösszetételi index (CMI) szakterületenként,
 - f) az ágykihasználtsági mutatók szakterületenként,
-- g) a sürgős és nem sürgős esetek aránya,
-- h) szakterületenként az elvégzett beavatkozások aránya,
-- i) a továbbküldött betegek aránya,
-- j) az átvett betegek aránya,
-- k) a várólistára és a betegfogadási listára vonatkozó adatok,
-- l) a külön jogszabály szerinti járóbeteg-szakellátásban szakterületenként az egy órában átlagosan ellátható esetszám,
-- m) a progresszivitásban betöltött szerep,
-- n) a területen kívülről ellátott betegek aránya,
-- o) az elérhetőség szempontjából a helyi tömegközlekedési viszonyok.
+- g) a továbbküldött betegek aránya,
+- h) az átvett betegek aránya,
+- i) a külön jogszabály szerinti járóbeteg-szakellátásban szakterületenként az egy órában átlagosan ellátható esetszám,
+- j) a progresszivitásban betöltött szerep,
+- k) az elérhetőség szempontjából a helyi közúti közlekedési viszonyok, amennyiben ez alapján nem állapítható meg az elérhetőség egyértelműen, akkor a helyi tömegközlekedési viszonyok.
 
 (4) Az aktív fekvőbeteg-szakellátási kapacitásokat érintő döntéshozatal során az (1)–(3) bekezdésben foglaltakon túl biztosítani kell, hogy
 
@@ -227,20 +230,20 @@ terjed ki.
 
 (5) A járóbeteg-szakellátási kapacitásokat érintő döntéshozatal során biztosítani kell, hogy az érintett lakosság legalább 90%-a számára, legalább az alapszakmákban ellátást nyújtó járóbeteg-szakellátó intézmény elvi elérhetősége 30 percnél kevesebb legyen.
 
-(6) A (4) bekezdés a) pontjának és az (5) bekezdés alkalmazásában elvi elérhetőség alatt azt az időtartamot kell érteni, ami az átlagos közlekedési viszonyok mellett a 4. számú melléklet sebességhatáraival számítva az egészségügyi szolgáltató közúti megközelítéséhez szükséges.
+(6) A (4) bekezdés a) pontjának és az (5) bekezdés alkalmazásában elvi elérhetőség alatt azt az időtartamot kell érteni, ami az átlagos közlekedési viszonyok mellett az e törvény végrehajtásáról szóló kormányrendeletben meghatározott sebességhatárokkal számítva az egészségügyi szolgáltató közúti megközelítéséhez szükséges.
 
-5. § (1) A fenntartó a szolgáltatói kapacitások tartós kihasználatlansága esetén a 2. § szerinti egészségügyi szakellátási kötelezettségének mértékét – az egészségügyi szolgáltató szakmai véleményének kikérését követően – csökkentheti az átlagtól való eltérés mértékében, illetve szakmai összetételét a 7. § (1)–(4) bekezdés szerinti eljárások során megváltoztathatja, amennyiben a döntést megelőző évben folyamatosan
+5. § (1) A fenntartó – az érintett egészségügyi szolgáltató szakmai véleményének kikérését követően – a fenntartásában működő egészségügyi szolgáltatónál jelentkező tartós ellátási igény csökkenés esetén a 2. § (1) bekezdése szerinti ellátási kötelezettsége teljesítéséhez szükséges kapacitások mértékének csökkentését kezdeményezheti az átlagtól való eltérés mértékében, illetve szakmai összetételének a 7. § (1)–(4) bekezdés szerinti eljárások során történő megváltoztatását kezdeményezheti, amennyiben a döntést megelőző évben folyamatosan
 
-- a) járóbeteg-szakellátás esetén az egy rendelési órára jutó esetek száma az adott szakma vonatkozásában az előző év átlagában alacsonyabb az adott szakma országos átlagánál,
-- b) fekvőbeteg-gyógyintézeti ellátás esetén – a fertőző osztály kivételével – az ágykihasználtság az adott szakma vonatkozásában az előző év átlagában alacsonyabb az adott szakma országos átlagánál.
+- a) járóbeteg-szakellátás esetén az egy rendelési órára jutó esetek száma az adott szakma vonatkozásában az előző év átlagában legalább 10 százalékkal alacsonyabb az adott szakma országos átlagánál,
+- b) fekvőbeteg-gyógyintézeti ellátás esetén – a fertőző osztály kivételével – az ágykihasználtság az adott szakma vonatkozásában az előző év átlagában legalább 15 százalékkal alacsonyabb az adott szakma országos átlagánál.
 
-(2) A kapacitások tartós kihasználatlanságának tényét az (1) bekezdésben foglalt feltételek fennállása esetén az egészségügyi államigazgatási szerv a szakellátásra kötelezett kérelmére hatósági bizonyítvánnyal igazolja.
+(2) Az ellátási igény tartós csökkenése esetén a fenntartónak (1) bekezdés szerinti kezdeményezése alapján az egészségügyi államigazgatási szerv engedélyezi a kapacitások mértékének csökkentését, illetve a szakmai összetételének megváltoztatását.
 
-(3) Az egészségbiztosító a kapacitások kihasználtságát folyamatosan vizsgálja, amennyiben észleli a kapacitások tartós kihasználatlanságát, az érintett fenntartót erről szükség szerint, de évente legalább egyszer tájékoztatja. Ha a fenntartó ezen tájékoztatást követően sem jár el az (1) bekezdésben foglaltak szerint, az egészségbiztosító erről tájékoztatja az egészségügyi szolgáltató székhelye szerint illetékes egészségügyi államigazgatási szervet.
+(3) Az egészségbiztosító a kapacitások kihasználtságát folyamatosan vizsgálja, amennyiben észleli a kapacitások tartós kihasználatlanságát, az érintett fenntartót erről szükség szerint, de évente legalább egyszer tájékoztatja. Ha a fenntartó ezen tájékoztatást követően sem jár el az (1) bekezdésben foglaltak szerint, az egészségbiztosító erről tájékoztatja egészségügyi államigazgatási szervet.
 
 (4)
 
-(5) Az egészségügyi államigazgatási szerv ellátási érdekből az egészségbiztosítótól kapott tájékoztatás alapján megállapíthatja a kapacitás tartós kihasználatlanságát.
+(5) Az egészségügyi államigazgatási szerv – az egészségbiztosítótól kapott tájékoztatás alapján – ellátási érdekből, az (1) bekezdésben meghatározott feltételek fennállása esetén – a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – hivatalból dönthet a kapacitások csökkentéséről.
 
 (6) Az e § szerint felszabaduló kapacitás a 4. § szerinti eljárásban adható át más szolgáltatónak.
 
@@ -250,13 +253,15 @@ terjed ki.
 
 (3) Az ellátási területeket úgy kell meghatározni, hogy azok – a (9) bekezdésben foglalt kivétellel – átfedés- és hézagmentesen megfeleljenek az adott régió területének, azzal, hogy az (5) bekezdés és a (9) bekezdés b) pontja szerinti esetben az ellátási terület a régióhatáron túlterjedhet. Amennyiben az adott régióban valamely szakmában ellátást nyújtó egészségügyi szolgáltató nincs, egy másik régióban működő, a hiányzó szakma vonatkozásában megfelelő kapacitással rendelkező szolgáltató ellátási területe a régióhatáron túlterjedhet.
 
-(4) Amennyiben az egészségügyi szolgáltató ellátási területe a nyújtott szolgáltatások tekintetében nem egységes, az ellátási területet külön járó- és külön a fekvőbeteg-szakellátásban, szakmánként, illetve progresszivitási szinteknek megfelelő bontásban kell megadni.
+(4) Amennyiben az egészségügyi szolgáltató ellátási területe a nyújtott szolgáltatások tekintetében nem egységes, az ellátási területet külön járó- és külön a fekvőbeteg-szakellátásban, az e törvény végrehajtásáról szóló rendeletben meghatározott ellátások kivételével szakmánként, illetve progresszivitási szinteknek megfelelő bontásban kell megadni.
 
 (5) A progresszivitás magasabb szintjét képviselő ellátásokat nyújtó egészségügyi szolgáltatók esetében az ellátási terület meghatározása során figyelembe kell venni a szolgáltató régióhatárokon túlnyúló ellátási területét.
 
 (6) Az ellátási terület megállapítása során a (2)–(5) bekezdésben foglaltakon túl figyelembe kell venni a 4/A. § (4) bekezdésének a) pontjában és az (5) bekezdésében foglaltakat.
 
 (7) Az érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltatók ellátási területéről a hozzájuk tartozó kapacitásokkal együtt – egészségügyi szolgáltatónként – az egészségügyi államigazgatási szerv nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a nyilvántartásba.
+
+(7a) A kapacitásokat és az ellátási területeket érintő változásokat a (7) bekezdés szerinti nyilvántartáson a változás hatálybalépésével egyidejűleg át kell vezetni.
 
 (8) A (7) bekezdés szerinti nyilvántartás – az egészségügyi szolgáltató bejelentése alapján – tartalmazza azokat a kapacitásokat is, amelyeket az egészségügyi szolgáltató – a fenntartója egyetértésével – szüneteltet, valamint azt, hogy a szünetelő kapacitáshoz tartozó feladatot mely egészségügyi szolgáltató látja el.
 
@@ -266,40 +271,48 @@ terjed ki.
 - b) a speciális ellátotti kör részére ellátást nyújtó, valamint
 - c) uniós fejlesztési pályázat alapján befogadásra kerülő, az alapellátáshoz integrált járóbeteg-szakellátási kapacitásokon ellátást nyújtó egészségügyi szolgáltatók ellátási területének meghatározásakor.
 
-(10) Uniós fejlesztési pályázat alapján megvalósuló kapacitásokon ellátást nyújtó egészségügyi szolgáltató ellátási területét az egészségügyi államigazgatási szerv a pályázatban foglalt nyilatkozat alapján állapítja meg, ennek során a (3) és (6) bekezdésben foglaltakat nem kell alkalmaznia. Az ezt követő egy éven belül az érintett ellátási területeket az egészségügyi államigazgatási szerv a (3) és (6) bekezdésben foglaltak figyelembevételével hivatalból felülvizsgálja, illetve szükség esetén – az uniós fejlesztési pályázatban vállalt kötelezettségekre figyelemmel – módosítja.
+(10) Uniós fejlesztési pályázat alapján megvalósuló kapacitásokon ellátást nyújtó egészségügyi szolgáltató ellátási területét az egészségügyi államigazgatási szerv a pályázatban foglalt nyilatkozat alapján állapítja meg, ennek során a (3) és (6) bekezdésben foglaltakat nem kell alkalmaznia. Az ezt követő egy éven belül az érintett ellátási területeket az egészségügyi államigazgatási szerv a (3) és (6) bekezdésben foglaltak figyelembevételével hivatalból felülvizsgálja, illetve szükség esetén – az uniós fejlesztési pályázatban vállalt kötelezettségekre figyelemmel – módosítja. Amennyiben az ellátási terület e bekezdés szerinti megállapításakor a pályázatban foglalt nyilatkozat kétoldalúan a párhuzamos ellátások megszüntetésére irányul, a felülvizsgálat során az államigazgatási szerv az ellátási területet a hozzá tartozó kapacitásokkal együtt tekinti át, illetve módosító döntése a kapacitásokra is irányulhat.
 
-5/B. § (1) Az 5/A. § (7) bekezdés szerinti nyilvántartásban szereplő ellátási területet az érintett egészségügyi szolgáltatók fenntartói/tulajdonosai megállapodásukban módosíthatják az 5/A. § (2)–(6) bekezdésben foglaltak figyelembevételével. A megállapodást az azt aláíró fenntartók/tulajdonosok az aláírástól számított 5 napon belül kötelesek megküldeni az egészségügyi államigazgatási szervnek.
+5/B. § (1) Az 5/A. § (7) bekezdés szerinti nyilvántartásban szereplő ellátási területet az érintett egészségügyi szolgáltatók fenntartói megállapodásukban módosíthatják az 5/A. § (2)–(6), (9) és (10) bekezdésben foglaltak figyelembevételével. A megállapodást az azt aláíró fenntartók az aláírástól számított 5 napon belül kötelesek jóváhagyás céljából megküldeni az egészségügyi államigazgatási szervnek.
 
-(2) Az (1) bekezdés szerinti megállapodás akkor eredményezheti az egészségügyi szolgáltatók ellátási területének a régióhatáron történő túlterjeszkedését, ha azt ellátási érdek indokolja. Az ellátási érdek fennállását az egészségügyi államigazgatási szerv állapítja meg a megállapodás kézhezvételét követő naptól számított harminc napon belül.
+(1a) A fenntartó a fenntartásában működő egészségügyi szolgáltatóinak az 5/A. § (7) bekezdés szerinti nyilvántartásban szereplő ellátási területeit módosíthatja az 5/A. § (2)–(6), (9) és (10) bekezdésben foglaltak figyelembevételével, amennyiben a módosítás nem érinti a más fenntartóhoz tartozó egészségügyi szolgáltatók ellátási területeit. A fenntartó a módosításról szóló döntését követő 5 napon belül kezdeményezi az egészségügyi államigazgatási szervnél a jóváhagyást.
 
-(3) Amennyiben az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási terület módosítása ellátási érdekből szükséges, az egészségügyi államigazgatási szerv felhívja az érintett egészségügyi szolgáltatók fenntartóit/tulajdonosait az ellátási terület (1) bekezdésben foglaltak szerinti módosítására. Ha a fenntartók/tulajdonosok a felhívástól számított 30 napon belül nem állapodnak meg az ellátási terület módosításáról, és a módosítás elmaradása az ellátás biztonságát súlyosan veszélyeztetné, az egészségügyi államigazgatási szerv a megállapodás megkötésére rendelkezésre álló határidő lejártát követő harminc napon belül módosíthatja az ellátási területet.
+(1b) Az ellátási területnek az (1), illetve az (1a) bekezdés alapján történő módosítása akkor érvényes, ha azt az egészségügyi államigazgatási szerv jóváhagyta. Az egészségügyi államigazgatási szerv nem tagadhatja meg a jóváhagyást, amennyiben az ellátási terület módosítása megfelel az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben foglalt feltételeknek. Az egészségügyi államigazgatási szerv a jóváhagyás iránti kérelem kézhezvételétől számított 15 napon belül a Kormány által kijelölt szerv szakértői véleményének figyelembevételével dönt a jóváhagyásról.
 
-(4) A települési önkormányzat ellátási érdekből kezdeményezheti az érintett egészségügyi szolgáltató fenntartójánál/tulajdonosánál az egészségügyi szolgáltató 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási területének (1) bekezdés szerinti módosítását. Amennyiben az egészségügyi szolgáltató fenntartója/tulajdonosa a kezdeményezéstől számított 30 napon belül nem állapodik meg az ellátási terület módosításáról annak az egészségügyi szolgáltatónak a fenntartójával/tulajdonosával, akit a települési önkormányzat a kezdeményezésben megjelölt, az egészségügyi államigazgatási szerv a kezdeményező települési önkormányzat kérelmére a megállapodás megkötésére rendelkezésre álló határidő lejártát követő harminc napon belül módosíthatja az ellátási területet, ha
+(2) Az (1), (1a), (3)–(5) bekezdés szerinti módosítás – az 5/A. § (3) bekezdésében foglaltakon túl – akkor eredményezheti az egészségügyi szolgáltatók ellátási területének a régióhatáron történő túlterjeszkedését, ha azt ellátási érdek indokolja. Az ellátási érdek fennállását az egészségügyi államigazgatási szerv állapítja meg a megállapodás jóváhagyása, illetve az ellátási terület módosítása során.
+
+(3) Amennyiben az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási terület módosítása ellátási érdekből szükséges, az egészségügyi államigazgatási szerv felhívja az érintett egészségügyi szolgáltatók fenntartóit az ellátási terület (1) bekezdésben foglaltak szerinti módosítására. Ha a fenntartók a felhívástól számított 30 napon belül nem állapodnak meg az ellátási terület módosításáról, és a módosítás elmaradása az ellátás biztonságát súlyosan veszélyeztetné, az egészségügyi államigazgatási szerv a megállapodás megkötésére rendelkezésre álló határidő lejártát követő harminc napon belül módosíthatja az ellátási területet.
+
+(4) A települési önkormányzat ellátási érdekből kezdeményezheti az érintett egészségügyi szolgáltató fenntartójánál az egészségügyi szolgáltató 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási területének (1) bekezdés szerinti módosítását. Amennyiben az egészségügyi szolgáltató fenntartója a kezdeményezéstől számított 30 napon belül nem állapodik meg az ellátási terület módosításáról annak az egészségügyi szolgáltatónak a fenntartójával, akit a települési önkormányzat a kezdeményezésben megjelölt, az egészségügyi államigazgatási szerv a kezdeményező települési önkormányzat kérelmére a megállapodás megkötésére rendelkezésre álló határidő lejártát követő harminc napon belül módosíthatja az ellátási területet, ha
 
 - a) a módosítás az érintett településen élők szakellátáshoz való hozzájutását javítja, és
-- b) a módosítással egyetért annak az egészségügyi szolgáltatónak a fenntartója/tulajdonosa, amelyik ellátási területe adott szakma tekintetében a módosítás következtében a módosítást kezdeményező településre ki fog terjedni.
+- b) a módosítással egyetért annak az egészségügyi szolgáltatónak a fenntartója, amelyik ellátási területe adott szakma tekintetében a módosítás következtében a módosítást kezdeményező településre ki fog terjedni.
 
 (5) Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, valamint hivatalból módosítja az 5/A. § (7) bekezdése szerinti nyilvántartást abban az esetben, ha az jogszabályváltozás, vagy a kapacitást érintő e törvény szerinti módosulás miatt szükséges.
 
-(6) Az 5/A. § szerinti és (1)–(5) bekezdés szerinti eljárásban ügyfél az egészségügyi szolgáltató, annak fenntartója/tulajdonosa, az egészségbiztosító, valamint annak a településnek az önkormányzata, amelyikre az egészségügyi szolgáltató területi ellátási kötelezettsége kiterjed.
+(6) Az 5/A. § szerinti és (1)–(5) bekezdés szerinti eljárásban ügyfél az egészségügyi szolgáltató, annak fenntartója, az egészségbiztosító, valamint annak a településnek az önkormányzata, amelyikre az egészségügyi szolgáltató területi ellátási kötelezettsége kiterjed.
 
-(7)
+(7) Az egészségügyi államigazgatási szerv a (3)–(5) bekezdés szerinti eljárásban az 5/A. § (2)–(6), (9) és (10) bekezdésben foglaltak és a Kormány által kijelölt szerv szakértői véleményének figyelembevételével dönt.
 
-6. §
+6. § (1) A kapacitásokat és az ellátási területet e törvény szerinti eljárásokban megállapító, módosító határozatok ellen fellebbezésnek nincs helye, azok jogerőre emelkedésével, illetve ha ettől eltérő teljesítési határidő kerül megállapításra, a teljesítési határidővel egyidejűleg az adott szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott határozatok hatályukat vesztik.
 
-7. § (1) Az egészségügyi szolgáltató a fenntartója egyetértésével kezdeményezheti az e törvény végrehajtására kiadott kormányrendeletben meghatározott ellátási formában lekötött kapacitásának az e törvény végrehajtására kiadott kormányrendeletben meghatározott, más ellátási formába történő átcsoportosítását.
+(2)
 
-(2) Az egészségügyi szolgáltató a fenntartója egyetértésével kezdeményezheti a lekötött krónikus fekvőbeteg-szakellátási kapacitásainak a krónikus szakmák közötti átcsoportosítását.
+(3) A szakellátási kapacitások, illetve az ellátási területek megállapítására, illetve módosítására irányuló eljárásokban a Kormány által kijelölt szakértő szervet díjazás és költségtérítés nem illeti meg.
 
-(3) Az egészségügyi szolgáltató a fenntartója egyetértésével a (2) bekezdésben foglaltak figyelembevételével – az ellátási forma megváltoztatása nélkül – kezdeményezheti a finanszírozási szerződése szerinti szakmáihoz tartozó kapacitásai más, a finanszírozási szerződésében szereplő, illetve abban nem szereplő szakmákba – külön jogszabály szerinti mértékben – történő átcsoportosítását, azzal, hogy az egészségügyi szolgáltató rendelkezésére bocsátott kapacitásainak száma összességében nem változhat.
+7. § (1) A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató e törvény végrehajtására kiadott kormányrendeletben meghatározott ellátási formában lekötött kapacitásának az e törvény végrehajtására kiadott kormányrendeletben meghatározott, más ellátási formába történő átcsoportosítását.
+
+(2) A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató lekötött krónikus fekvőbeteg-szakellátási kapacitásainak a krónikus szakmák közötti átcsoportosítását.
+
+(3) A fenntartó – a (2) bekezdésben foglaltak figyelembevételével, az ellátási forma megváltoztatása nélkül – kezdeményezheti a fenntartásában működő egészségügyi szolgáltató kapacitásainak más, a szolgáltató finanszírozási szerződésében szereplő, illetve abban nem szereplő szakmákba – külön jogszabály szerinti mértékben – történő átcsoportosítását, azzal, hogy az egészségügyi szolgáltató rendelkezésére bocsátott kapacitásainak száma összességében nem változhat.
 
 (4) A fenntartó kezdeményezheti a saját fenntartásában lévő szolgáltatói közötti kapacitásátcsoportosítást, azzal, hogy az átcsoportosítás a szolgáltatók összkapacitásának mennyiségét nem változtathatja meg.
 
 (5) Az (1)–(4) bekezdés szerinti átcsoportosítás részletes feltételeit a Kormány rendeletben állapítja meg.
 
-(6) Az egészségügyi szolgáltató, illetve a fenntartó az (1)–(4) bekezdés szerinti kérelmek mindegyikét évente csak két alkalommal nyújthatja be.
+(6) A fenntartó az (1)–(4) bekezdés szerinti kérelmek mindegyikét szolgáltatónként évente csak két alkalommal nyújthatja be.
 
-(7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító véleményét. Az egészségügyi államigazgatási szerv hatvan napon belül dönt.
+(7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító és a Kormány által kijelölt szerv véleményét. Az egészségügyi államigazgatási szerv hatvan napon belül dönt.
 
 (8)
 
@@ -313,7 +326,7 @@ terjed ki.
 - b)–c)
 - d) a 16. § (7) bekezdésében meghatározott kapacitáson nyújtott szakellátás,
 - e) a külön jogszabály szerinti eljárásban előzetesen befogadott kapacitásokon nyújtott szakellátások, valamint
-- f) az e törvény alapján létrehozott, illetve befogadott kapacitásokon nyújtott szakellátások
+- f) az e törvény és a végrehajtásáról szóló kormányrendelet alapján létrehozott, illetve befogadott kapacitásokon nyújtott szakellátások
 
 Egészségbiztosítási Alap terhére történő külön jogszabály szerinti finanszírozásáért.
 
@@ -327,7 +340,7 @@ Egészségbiztosítási Alap terhére történő külön jogszabály szerinti fi
 
 amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatározott feltételeknek.
 
-(3) Az egészségügyi szolgáltatóval a (2) bekezdés alapján azt követően köthető finanszírozási szerződés, hogy ellátási területe megállapításra került.
+(3) Az egészségügyi szolgáltatóval a (2) bekezdés alapján azt követően köthető finanszírozási szerződés, hogy ellátási területe megállapításra került. A kapacitás, illetve az ahhoz kapcsolódó ellátási terület megállapítása, illetve módosítása esetén a finanszírozási szerződés megköthető, illetve módosítható a még nem jogerős határozat, illetve működési engedély módosítás alapján is, azzal, hogy a finanszírozási szerződés, illetve annak módosítása leghamarabb a határozat, illetve a működési engedély módosítás jogerőre emelkedése napján válhat hatályossá.
 
 8/A. § (1) Amennyiben az egészségbiztosító megállapítja, hogy az érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltatónál a finanszírozási szerződés tárgyát képező egészségügyi szolgáltatás nyújtásának minősége nem éri el az érvényes finanszírozási eljárásrendben, illetve ennek hiányában a szakmai eljárásrendben meghatározott követelményeket, külön jogszabályban foglaltak szerint felszólítja az egészségügyi szolgáltatót a legalább az érvényes finanszírozási protokollnak megfelelő szolgáltatásnyújtásra. A felszólításról egyidejűleg értesíteni kell a szolgáltató fenntartóját, az egészségügyi államigazgatási szervet és az egészségügyért felelős minisztert is. Az egészségbiztosító egyidejűleg tájékoztatja a felszólított szolgáltatót és fenntartóját az (5) bekezdés szerinti lehetséges következményekről.
 
@@ -345,7 +358,7 @@ amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatá
 
 10. § (1)
 
-(2) Amennyiben azt váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet jelentkezése indokolja, az egészségügyi államigazgatási szerv az egészségügyért felelős miniszter és a államháztartásért felelős miniszter jóváhagyásával az egészségbiztosítónál kezdeményezheti – az egészségügyi szolgáltató megjelölésével egyidejűleg – a lekötött kapacitásokon felüli kapacitásra történő finanszírozási szerződés megkötését.
+(2) Amennyiben azt váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet jelentkezése indokolja, az egészségügyi államigazgatási szerv, az érintett egészségügyi szolgáltató fenntartója, az egészségügyért felelős miniszter és a államháztartásért felelős miniszter jóváhagyásával az egészségbiztosítónál kezdeményezheti – az egészségügyi szolgáltató megjelölésével egyidejűleg – a lekötött kapacitásokon felüli kapacitásra történő finanszírozási szerződés megkötését.
 
 (3) Az egészségbiztosító a (2) bekezdés alapján megkötött finanszírozási szerződést a váratlan esemény vagy az előre nem látható módon bekövetkezett ellátási szükséglet megszűnését követően felmondja, illetve legkésőbb 6 hónap elteltével – és ezt követően hathavonként – felülvizsgálja.
 
@@ -375,15 +388,25 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (2) Az (1) bekezdésben foglaltak alól kivételt képeznek az egészségtudományi centrumok, az egyetemi klinikai központok és klinikák vezetői, valamint a rektorok.
 
-14. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 3. § (1) bekezdése alkalmazásában lekötött kapacitásnak minősül
+14. § (1)
 
-- a) a többletkapacitás-befogadási eljárásban, illetve a már támogatott fejlesztéshez kapcsolódó, előzetes többletkapacitás-befogadási eljárásban 2010. december 31-ig befogadott kapacitás,
-- b) a 2010. december 31-én hatályos 4. § alapján 2010. december 31-éig lefolytatott kapacitás-felosztási eljárás során hozott jogerős határozatban megállapított kapacitás, valamint
-- c) a (3) bekezdés szerinti eljárásban megállapított kapacitás, amelyre finanszírozási szerződést még nem kötöttek.
-
-(2) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 4. §-t 2011. január 1-jét követően első alkalommal 2013-ban kell alkalmazni.
+(2) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel megállapított 4. §-t 2011. január 1-jét követően első alkalommal 2015-ben kell alkalmazni.
 
 (3) A 2010. december 31-én hatályos 4. § alapján 2011. január 1-jén folyamatban lévő eljárásokat a 2010. december 31-én hatályos szabályok alapján kell lefolytatni.
+
+(4) Az egészségügyi államigazgatási szerv – a Kormány által kijelölt szerv szakvéleményének figyelembevételével – 2012. november 30-áig az e törvény végrehajtására megállapított rendeletben foglaltak szerint megállapítja az egészségügyi szolgáltatók járóbeteg-szakellátási kapacitásait és az azokhoz tartozó ellátási terültet. A megállapított kapacitások és ellátási területek alapján az egészségbiztosító 2012. december 31-éig módosítja, illetve megköti az egészségügyi szolgáltatók finanszírozási szerződéseit.
+
+(5) A járóbeteg-szakellátási kapacitások és a hozzá kapcsolódó ellátási területek megállapítása, átcsoportosítása, módosítása során – a (4) bekezdésben foglalt eset kivételével – 2012. december 31-éig az egészségügyi államigazgatási szerv nem hozhat elutasító döntést arra hivatkozással, hogy az egészségügyi térséghatároknak nem felel meg a kapacitás, illetve az ellátási terület megállapítása, átcsoportosítása, módosítása, azzal, hogy a térséghatárokat lehetőség szerint figyelembe kell venni.
+
+(6) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 7. § (2) bekezdése alapján felosztásra kerülő fekvőbeteg-szakellátási kapacitások, illetve a (4) bekezdés alapján felosztásra kerülő járóbeteg-szakellátási kapacitások mennyisége nem haladhatja meg – az egészségügyi államigazgatási szerv nyilvántartása szerint – a 2011. december 31-én finanszírozási szerződéssel lekötött, valamint a finanszírozási szerződéssel még le nem kötött, de a felosztásról szóló döntéshozatalig már befogadott (ideértve az előzetesen befogadott), illetve határozattal megállapított fekvőbeteg-szakellátási, illetve járóbeteg-szakellátási kapacitások összességét. A döntés során a felosztási eljárás megindításakor folyamatban lévő kapacitás-átcsoportosítási és többletkapacitás-befogadási kérelmekben, illetve pályázatokban foglaltakra tekintettel kell lenni.
+
+(7) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 7. § (2) bekezdésére tekintettel 2012. január 1. és 2012. április 30. között a fekvőbeteg-szakellátási kapacitások és ellátási területek tekintetében nem lehet alkalmazni az 5. §-t, az 5/B. §-t, a 7. §-t és az e törvény végrehajtásáról szóló kormányrendelet szerinti többlet-kapacitásbefogadási eljárásokat, kivéve, ha
+
+- a) az eljárás 2011. december 31-én már folyamatban volt,
+- b) az eljárás az uniós pályázatokban foglaltakra tekintettel kezdeményezett kapacitás-módosításra irányul, vagy
+- c) az alkalmazást rendkívüli ellátási érdek indokolja. Az ellátási érdek fennállásáról az egészségügyi államigazgatási szerv dönt.
+
+(8) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 7. § (2) bekezdése szerinti eljárásban kiosztásra nem kerülő fekvőbeteg-szakellátási kapacitások, illetve a (4) bekezdés alapján kiosztásra nem kerülő járóbeteg-szakellátási kapacitások tartalékkapacitásnak minősülnek. A tartalékkapacitások terhére történő kapacitás kiosztásról, felhasználásáról – az e törvény végrehajtásáról szóló kormányrendeletben meghatározott eljárás során – az egészségügyi államigazgatási szerv dönt.
 
 15. §
 
@@ -418,7 +441,14 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 - g) a váratlan helyzet vagy előre nem látható módon bekövetkező ellátási szükséglet jelentkezése esetére vonatkozó részletes szabályokat,
 - h) a többletkapacitás fogalmát, befogadásának eseteit, eljárásrendjét, mértékét és feltételeit, továbbá az új szolgáltatók befogadásának szabályait,
 - i) a vagyoni biztosítékkal kapcsolatos részletes szabályokat,
-- j) a speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatói kört.
+- j) a speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatói kört,
+- k) az egészségügyi ellátás térségi felosztásának szabályait, az egészségügyi ellátási térségeket,
+- l) azoknak az ellátásoknak a körét, amelyek vonatkozásában az ellátási terület megállapítása során a szakmánkénti megállapítás követelményét nem kell figyelembe venni.
+- m) a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatosan eljáró államigazgatási szervet és az ezekben az eljárásokban véleményadásra jogosult szakértői szervet,
+- n) a szakellátási kapacitások és az ahhoz tartozó ellátási területek nyilvántartásának tartalmát és kezelésére vonatkozó szabályokat,
+- o) a tartalékkapacitások kiosztásának és felhasználásának szabályait.
+- p) a szakellátási kapacitások felosztása, átcsoportosítása, módosítása során figyelembeveendő szempontok alkalmazására, értékelésére vonatkozó szabályokat,
+- r) az elérési szabályoknál figyelembeveendő sebességhatárokat.
 
 (15)
 
@@ -432,15 +462,3 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 ### 3. számú melléklet a 2006. évi CXXXII. törvényhez
 
 ### 4. számú melléklet a 2006. évi CXXXII. törvényhez
-
-Az elvi elérhetőség vizsgálatánál figyelembe vett sebességértékek
-
-| Út típusa | Kalkulált sebesség |
-| --- | --- |
-| Autópálya | 110 km/h |
-| Autóút | 90 km/h |
-| M0 | 80 km/h |
-| I. rendű út | 75 km/h |
-| II. rendű út | 70 km/h |
-| III. rendű út | 65 km/h |
-| Bekötő út | 40 km/h |

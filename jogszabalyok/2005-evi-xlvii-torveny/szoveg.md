@@ -38,7 +38,7 @@ az igazságügyi szakértői tevékenységről
 - b) a kérelmében megjelölt szakterületen az igazságügyi szakértői tevékenység folytatásához meghatározott képesítéssel és – ha a miniszter rendelete eltérően nem rendelkezik – a képesítés megszerzésétől számított, legalább ötéves szakirányú szakmai gyakorlattal rendelkezik,
 - c) a szakterületén működő szakmai kamara tagja, ha a tevékenység folytatásához a kötelező kamarai tagságot jogszabály előírja,
 - d) kötelezettséget vállal arra, hogy a hatósági kirendelésnek – a jogszabályban meghatározott eseteket kivéve – eleget tesz,
-- e) választójoggal rendelkezik,
+- e) cselekvőképes, és nem áll közügyektől való eltiltás hatálya alatt,
 - f) a névjegyzékbe való felvételét követően tagja – törvény eltérő rendelkezésének hiányában – a lakóhelye szerint illetékes területi igazságügyi szakértői kamarának (a továbbiakban: szakértői kamara).
 
 (4) Nem vehető fel az igazságügyi szakértői névjegyzékbe az, akivel szemben büntetőeljárás – magánvád és a pótmagánvád esetét kivéve – van folyamatban.
@@ -151,19 +151,35 @@ az igazságügyi szakértői tevékenységről
 
 ### A szakértő jogai és kötelezettségei, a szakértő kirendelése
 
-12. § (1) A szakértőt a tevékenysége során tudomására jutott tényekre és adatokra nézve titoktartási kötelezettség terheli, az ügyre vonatkozó tényekről és adatokról csak az ügyben eljáró hatóság, továbbá törvényben meghatározott szerv (személy) részére nyújthat tájékoztatást.
+12. § (1) A szakértő a tevékenysége során rendelkezésére bocsátott vagy tudomására jutott személyes adatokat a kirendelés vagy megbízás teljesítése, valamint tevékenységének szakmai, módszertani, etikai és a jogszabályoknak való megfelelőségének ellenőrizhetősége céljából jogosult kezelni.
 
-(2) Ha jogszabály másként nem rendelkezik, az (1) bekezdésben foglaltak nem zárják ki a szakértői vizsgálat során feltárt tényeknek és adatoknak tudományos vagy oktatási célra – az érintettek személyes adatai védelméhez fűződő jogának és személyiségi jogainak sérelme nélkül – történő felhasználását.
+(2) A szakértőt a tevékenysége során tudomására jutott tényekre és adatokra nézve titoktartási kötelezettség terheli, az ügyre vonatkozó tényekről és adatokról csak az ügyben eljáró hatóság, továbbá az adatok kezelésére jogosult más szerv vagy személy részére nyújthat tájékoztatást.
 
-(3) Ha a szakértő a vizsgálat során az adott eljárás tárgyát nem képező, személy elleni erőszakos bűncselekmény elkövetésére utaló körülményről, vagy olyan bűncselekmény elkövetésének szándékáról szerez tudomást, amely más személy életét, testi épségét vagy egészségét veszélyeztetné, köteles a tudomására jutott adatokat a nyomozó hatóságnak bejelenteni.
+(3) Ha jogszabály másként nem rendelkezik, az (1) bekezdésben foglaltak nem zárják ki a szakértői vizsgálat során feltárt tényeknek és adatoknak tudományos vagy oktatási célra – személyazonosításra alkalmatlan módon – történő felhasználását.
 
-(4)
-
-(5) Az igazságügyi szakértő tevékenységét – ha törvény kifejezetten eltérően nem rendelkezik – a kamara engedélyével szüneteltetheti.
+(4) Ha a szakértő a vizsgálat során az adott eljárás tárgyát nem képező, személy elleni erőszakos bűncselekmény elkövetésére utaló körülményről vagy olyan bűncselekmény elkövetésének szándékáról szerez tudomást, amely más személy életét, testi épségét vagy egészségét veszélyeztetné, köteles a tudomására jutott adatokat a nyomozó hatóságnak bejelenteni.
 
 12/A. § (1) A társaság, a szakértői testület és – az önálló tevékenységként és az egyéni vállalkozóként végzett tevékenysége tekintetében – az igazságügyi szakértő köteles a szakértői tevékenységéről, annak figyelemmel kísérése céljából nyilvántartást vezetni. A nyilvántartás adatait e törvény 3. számú melléklete tartalmazza.
 
 (2) A nyilvántartásban szereplő adatokat kizárólag az igazságügyi névjegyzéket vezető hatóság részére, a kirendelések teljesítésének ellenőrzése céljából lehet továbbítani, amely az adatokat az eljárás befejezéséig kezeli.
+
+12/B. § (1) A szakértő a tevékenysége során általa kezelt személyes adatokat – ha törvény másképp nem rendelkezik – a kirendelés vagy megbízás befejezését követően haladéktalanul zárolja.
+
+(2) A befejezett kirendelést vagy megbízást követően a szakértő az általa kezelt, zárolt személyes adatokat tevékenysége szakmai, módszertani, etikai megfelelőségének, valamint jogszabályszerűségének ellenőrizhetősége céljából a zárolástól számított 10 évig tárolja, és azokat kizárólag a kirendelő, megbízó, az igazságügyi szakértőkkel szemben etikai eljárás lefolytatására jogosult, valamint a személyes adatok kezelésére jogosult más szerv vagy személy részére továbbíthatja.
+
+(3) A szakértő az (1) bekezdés szerint zárolt személyes adatokat a zárolástól számított 10 év elteltével törli.
+
+(4) Az (1) bekezdés alkalmazásában befejezettnek minősül a kirendelés vagy megbízás, ha
+
+- a) a szakértői tevékenységért járó díj megfizetésre kerül,
+- b) a szakértőt a kirendelő szerv a kirendelés alól felmenti, vagy a kirendelés alapját képező ügyből kizárja, vagy
+- c) a megbízás külön jogszabályban foglaltak alapján megszűnik.
+
+(5) A szakértő az érintettet az információs önrendelkezési jogról és az információszabadságról szóló törvény (a továbbiakban: Info tv.) szerint megillető, a szakértő által kezelt adatokra (ideértve az átadott adatokat, a vizsgálat alatt keletkezett adatokat, az adatok forrását, az adatkezelés célját, jogalapját, időtartamát, az adatfeldolgozó nevét, címét és az adatkezeléssel összefüggő tevékenységét, továbbá – az érintett személyes adatainak továbbítása esetén – az adattovábbítás jogalapját és címzettjét) vonatkozó tájékoztatás kiadását – a kirendelő vagy megbízó bűncselekmények megelőzése vagy üldözése, továbbá az érintett vagy mások jogainak védelme érdekében tett utasítására – megtagadja.
+
+(6) A szakértő az általa vezetett adattovábbítási nyilvántartás adatait az adattovábbítástól számított 20 évig köteles megőrizni.
+
+12/C. § Az igazságügyi szakértő a tevékenységét – ha törvény eltérően nem rendelkezik – a kamara engedélyével szüneteltetheti.
 
 13. § (1) A kirendelésnek tartalmaznia kell:
 
@@ -177,7 +193,8 @@ az igazságügyi szakértői tevékenységről
 - h) a szakvélemény előterjesztésére meghatározott határidőt, az esetleges soronkívüliségre való utalást és az előterjesztés módjára vonatkozó felhívást,
 - i) több szakértő egyidejű kirendelése esetén a többi szakértő személyére vonatkozó tájékoztatást,
 - j) személy vizsgálatával járó kirendelés esetén a szakkonzultáns személyéhez történő hozzájárulás beszerzésének kötelezettségét és
-- k) a kirendelő előzetes hozzájárulását a vizsgálati tárgy megváltozásával vagy megsemmisülésével járó vizsgálat elvégzéséhez, ha a hozzájárulásra a miniszter rendelete alapján szükség van.
+- k) a kirendelő előzetes hozzájárulását a vizsgálati tárgy megváltozásával vagy megsemmisülésével járó vizsgálat elvégzéséhez, ha a hozzájárulásra a miniszter rendelete alapján szükség van,
+- l) – indokolt esetben – a kirendelő arra vonatkozó utasítását, hogy a szakértő az érintett részére az általa kezelt adatokra vonatkozó, az Info tv. szerinti tájékoztatást megtagadni köteles.
 
 (2) A szakértő a (4) bekezdésben foglalt kivételekkel köteles eljárni a hatóság kirendelése alapján.
 
@@ -280,7 +297,7 @@ az igazságügyi szakértői tevékenységről
 - d) a 3. § (3) bekezdésének d) pontjában, vagy a 23. § (2) bekezdésében meghatározott kötelezettségének ismételten, felhívás ellenére nem tesz eleget,
 - e) azt a társaság kéri.
 
-24/A. § A vállalkozás az igazságügyi szakértői tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles az igazságügyi szakértői névjegyzéket vezető hatóságnak bejelenteni. A vállalkozás az igazságügyi szakértői tevékenységet határon átnyúló szolgáltatásnyújtás keretében a Magyar Köztársaság területén e tevékenység folytatására jogosult tagja vagy alkalmazottja útján folytathatja.
+24/A. § A vállalkozás az igazságügyi szakértői tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles az igazságügyi szakértői névjegyzéket vezető hatóságnak bejelenteni. A vállalkozás az igazságügyi szakértői tevékenységet határon átnyúló szolgáltatásnyújtás keretében Magyarország területén e tevékenység folytatására jogosult tagja vagy alkalmazottja útján folytathatja.
 
 ### Az igazságügyi szakértői intézmények
 
@@ -339,11 +356,9 @@ az igazságügyi szakértői tevékenységről
 
 (3) A Testület szakértőként vélemény nyilvánítására eseti bizottságot hoz létre. A bizottság három, legfeljebb öt tagú, eljárása során független, munkájáért külön díjazásban részesül. A Testület és a bizottság eljárásának részletes szabályait külön jogszabály állapítja meg.
 
-(4) A Testület tagjai a miniszter vagy képviselője jelenlétében esküt tesznek. A szakértői eskü szövege: „Én ................................ esküszöm, hogy az Alkotmányt és a jogszabályokat megtartom; a minősített adatot, valamint a tevékenységem során tudomásomra jutott tényeket és adatokat megőrzöm; szakértői tevékenységem során részrehajlás nélkül, lelkiismeretesen, a jogszabályoknak és a szakmai szabályoknak megfelelően járok el.”
+(4) A Testület tagjai a miniszter vagy képviselője jelenlétében esküt tesznek. A szakértői eskü az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
 
-(Az eskütevő meggyőződése szerint:)
-
-„Isten engem úgy segéljen!”
+(4a) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: igazságügyi szakértői testületi tag.
 
 (5) A jogi személy Testület a vagyonával önállóan gazdálkodik, üzletszerű gazdasági tevékenységet csak a feladatai ellátásához vagy ahhoz közvetlenül kapcsolódó mértékben folytathat. A Testület tartozásaiért a saját vagyonával felel, a tagok a Testület tartozásaiért saját vagyonukkal nem felelnek.
 
@@ -449,7 +464,9 @@ vonatkozó részletes szabályokat.
 
 (7)–(9)
 
-33. §
+### Az Európai Unió jogának való megfelelés
+
+33. § E törvény 12. § (1) bekezdése, 12/B. §-a és 13. § (1) bekezdés l) pontja a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározat végrehajtásához szükséges rendelkezéseket állapít meg.
 
 34. §
 

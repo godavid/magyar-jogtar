@@ -6,7 +6,7 @@ Az Országgyűlés az állam és a társadalom egészének a veszélyeztetett te
 
 ### A törvény célja
 
-1. § A Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap (a továbbiakban: Alap) az ár- és belvízkárok megtérítésében való önkéntes részvételre ösztönző elkülönített állami pénzalap, amelybe a Magyar Köztársaság területén a veszélyeztetett területeken lakóingatlan tulajdonnal rendelkező természetes személyek szerződés alapján befizetést teljesíthetnek, ezáltal jogosulttá válnak a káresemények utáni kártalanításra.
+1. § A Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap (a továbbiakban: Alap) az ár- és belvízkárok megtérítésében való önkéntes részvételre ösztönző elkülönített állami pénzalap, amelybe a Magyarország területén veszélyeztetett területeken lakóingatlan tulajdonnal rendelkező természetes személyek szerződés alapján befizetést teljesíthetnek, ezáltal jogosulttá válnak a káresemények utáni kártalanításra.
 
 2. § E törvény alkalmazásában
 
@@ -79,7 +79,7 @@ használhatók fel.
 
 (5) Az Alap bevétele és év végi maradványa nem vonható el.
 
-8. § Az Alappal az államháztartásért felelős miniszter e törvény, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény előírásai szerint rendelkezik.
+8. § Az Alappal az államháztartásért felelős miniszter e törvény, valamint az államháztartásról szóló 2011. évi CXCV. törvény előírásai szerint rendelkezik.
 
 9. § (1) Az Alapot a kincstár (a továbbiakban: Alapkezelő) kezeli.
 

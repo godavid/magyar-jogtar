@@ -15,8 +15,8 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 - a) behívhatósági korhatár: 1. a Magyar Honvédségnél (a továbbiakban: Honvédség) hivatásos, szerződéses vagy önkéntes tartalékos katonai szolgálatot teljesítettek esetén a katonai szolgálat felső korhatára, 2. más hadkötelesek és a potenciális hadkötelesek esetén annak az évnek a december 31. napja, amelyben 40. életévét betölti,
 - b) hadköteles: a hadkötelezettség bevezetését követően a magyarországi lakóhellyel rendelkező magyar állampolgárságú férfi,
 - c) igénybevevő: a Honvédség, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § r) pontjában meghatározott rendvédelmi szervek és a Hvt. 18. § (2) bekezdésében meghatározott honvédelemben közreműködő szervek,
-- d) igénybevételi hatóság: az ország egész területére, vagy több megyét érintő részére a Kormány, vagy a Kormány felhatalmazása alapján az adott tevékenységért felelős miniszter, az ország egy közigazgatási területére a megyei, fővárosi védelmi bizottság elnöke, valamint a járási hivatal vezetője, törvényben meghatározott esetben és feltételek szerint a katonai igazgatás szervének vezetője,
-- e) katonai igazgatás: a közigazgatás része, a közigazgatási szervek (állami, katonai) jogilag szabályozott olyan tevékenysége, amely a haza fegyveres védelme feltételeinek megteremtése és megvalósítása érdekében, törvény alapján létrehozott jogalanyok és a természetes személyek honvédelmi kötelezettségeinek és önként vállalt honvédelmi feladatainak tervezésére, valamint a kötelezettségek és a vállalt feladatok végrehajtására irányul.
+- d) igénybevételi hatóság: az ország egész területére, vagy több megyét érintő részére a Kormány, vagy a Kormány felhatalmazása alapján az adott tevékenységért felelős miniszter, az ország egy közigazgatási területére a megyei, fővárosi védelmi bizottság elnöke, valamint a polgármester, törvényben meghatározott esetben és feltételek szerint a katonai igazgatás szervének vezetője,
+- e) katonai igazgatás: a közigazgatás része, a közigazgatási szervek (állami, önkormányzati, katonai) jogilag szabályozott olyan tevékenysége, amely a haza fegyveres védelme feltételeinek megteremtése és megvalósítása érdekében, törvény alapján létrehozott jogalanyok és a természetes személyek honvédelmi kötelezettségeinek és önként vállalt honvédelmi feladatainak tervezésére, valamint a kötelezettségek és a vállalt feladatok végrehajtására irányul.
 
 ### II. Fejezet — A KATONAI IGAZGATÁS SZERVEZETI FELÉPÍTÉSE, FELADATAI
 
@@ -118,7 +118,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 (5) A rehabilitációs szakértői szerv az (1) bekezdés szerinti személy legalább 36%-ot elérő munkaképesség-csökkenéséről, valamint a legalább 29%-ot elérő egészségkárosodásáról minden év január 31. napjáig szolgáltat adatot.
 
-(6) Az állampolgársági ügyekben eljáró szerv az állampolgárságról való lemondásról minden év január 31. napjáig szolgáltat adatot.
+(6) Az állampolgársági ügyekért felelős miniszter az állampolgárságról való lemondásról minden év január 31. napjáig szolgáltat adatot.
 
 (7) A Honvédség központi személyügyi szerve, valamint a rendvédelmi szervek a hivatásos, szerződéses, vagy önkéntes tartalékos állományba felvettekről, valamint szolgálati viszonyuk megszűnéséről a hadkötelezettség fennállása idején a rájuk vonatkozó behívhatósági korhatárig minden hónap 5. napjáig szolgáltat adatot.
 
@@ -132,7 +132,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 (4) A személyiadat- és lakcímnyilvántartás központi szerve a hadköteles nyilvántartásban nyilvántartott adatok pontosításához adatot szolgáltat az (1) bekezdés szerinti személy elhalálozásáról minden hónap 5. napjáig.
 
-(5) Az állampolgársági ügyekért ügyekben eljáró szerv az állampolgárságról való lemondásról minden hónap 5. napjáig szolgáltat adatot.
+(5) Az állampolgársági ügyekért felelős miniszter az állampolgárságról való lemondásról minden hónap 5. napjáig szolgáltat adatot.
 
 #### 7. Egyedi adatszolgáltatások
 
@@ -149,16 +149,16 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 #### 8. Megkeresésre történő adatszolgáltatások
 
-13. § A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) vezetője közreműködik
+13. § A jegyző közreműködik
 
-- a) a Honvédség katonai igazgatási és központi adatfeldolgozó szervének megkeresésére az illetékességi területén bejelentett lakóhellyel rendelkező kiképzett tartalékosok, potenciális hadkötelesek lakcím- és anyakönyvi adatainak pontosításában,
-- b) a hadkötelezettség fennállása idején a sorozó központ megkeresésére az illetékességi területén bejelentett lakóhellyel rendelkező hadkötelesek személyazonosító, lakcím- és anyakönyvi adatainak pontosításában.
+- a) a Honvédség katonai igazgatási és központi adatfeldolgozó szervének megkeresésére a települési önkormányzat illetékességi területén bejelentett lakóhellyel rendelkező kiképzett tartalékosok, potenciális hadkötelesek lakcím- és anyakönyvi adatainak pontosításában,
+- b) a hadkötelezettség fennállása idején a sorozó központ megkeresésére a települési önkormányzat illetékességi területén bejelentett lakóhellyel rendelkező hadkötelesek személyazonosító, lakcím- és anyakönyvi adatainak pontosításában.
 
 14. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve megkeresésére, a megkeresésben szereplő személyekről 8 napon belül adatot szolgáltat a nyilvántartás pontosításához
 
 - a) a személyiadat- és lakcímnyilvántartás központi szerve, a 10. § (2) bekezdésében meghatározott adatokról,
 - b) a rendvédelmi szerv az állományában hivatásos szolgálatot teljesítők 10. § (4) bekezdésben meghatározott adatairól,
-- c) az állampolgársági ügyekért ügyekben eljáró szerv a 10. § (6) bekezdésében meghatározott adatokról,
+- c) az állampolgársági ügyekért felelős miniszter a 10. § (6) bekezdésében meghatározott adatokról,
 - d) a Honvédség központi személyügyi szerve, valamint a rendvédelmi szerv a 11. § (7) bekezdése szerinti adatokról,
 - e) a választási szerv a 11. § (3) bekezdése szerinti adatokról,
 - f) a jogszabály alapján meghagyásba bevont szervezet a meghagyásban érintett személyek 12. § (2) bekezdés b) pontjában meghatározott adatairól,
@@ -172,7 +172,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 16. § A 6–8. alcímben szolgáltatott adatokat
 
-- a) a személyi azonosító alkalmazásával, annak hiányában a természetes személyazonosító adatokkal szolgáltatja az állampolgársági ügyekért ügyekben eljáró szerv, a személyiadat- és lakcímnyilvántartás központi szerve és a Honvédség központi személyügyi szerve,
+- a) a személyi azonosító alkalmazásával, annak hiányában a természetes személyazonosító adatokkal szolgáltatja az állampolgársági ügyekért felelős miniszter, a személyiadat- és lakcímnyilvántartás központi szerve és a Honvédség központi személyügyi szerve,
 - b) a természetes személyazonosító adatokkal szolgáltatja minden további adatszolgáltató.
 
 ## MÁSODIK RÉSZ — A KATONAI SZOLGÁLATI KÖTELEZETTSÉG JÁRULÉKOS KÖTELEZETTSÉGEI
@@ -181,7 +181,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 #### 10. Személyes adatszolgáltatási kötelezettség
 
-17. § A hadkötelezettség bevezetését követően a rá vonatkozó behívhatósági korhatárt be nem töltött hadköteles a nyilvántartott adatok pontosításához a lakóhelye szerint illetékes járási hivatal vezetőjének és a katonai igazgatási központnak – azok megkeresésére – köteles adatot szolgáltatni a katonai szolgálat tervezését és teljesítését befolyásoló, az 1. melléklet A)–F) és T) pontjában meghatározott adatairól.
+17. § A hadkötelezettség bevezetését követően a rá vonatkozó behívhatósági korhatárt be nem töltött hadköteles a nyilvántartott adatok pontosításához a lakóhelye szerint illetékes jegyzőnek és a katonai igazgatási központnak – azok megkeresésére – köteles adatot szolgáltatni a katonai szolgálat tervezését és teljesítését befolyásoló, az 1. melléklet A)–F) és T) pontjában meghatározott adatairól.
 
 #### 11. Bejelentési kötelezettség
 
@@ -195,7 +195,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 19. § (1) A hadkötelesnek a sorozó központ felhívására a megjelölt helyen és időben meg kell jelennie adatainak ellenőrzése és egyeztetése, katonai alkalmasságának megállapítása, orvosi vizsgálat, valamint gyógykezelés céljából.
 
-(2) A rá vonatkozó behívhatósági korhatárt be nem töltött hadköteles a katonai szolgálatra való egészségi alkalmasság elbírálásával összefüggő orvosi, szakorvosi vizsgálatnak köteles magát alávetni, és e célból a sorozó központ, a sorozóbizottság, vagy a járási hivatal vezetője által meghatározott gyógyintézetben és időpontban megjelenni.
+(2) A rá vonatkozó behívhatósági korhatárt be nem töltött hadköteles a katonai szolgálatra való egészségi alkalmasság elbírálásával összefüggő orvosi, szakorvosi vizsgálatnak köteles magát alávetni, és e célból a sorozó központ, a sorozóbizottság, vagy a jegyző által meghatározott gyógyintézetben és időpontban megjelenni.
 
 (3) A hadköteles a sorozó központ felhívására köteles megjelenni a katonai okiratok átvétele, illetve visszaadása céljából. A hadköteles az okiratok átvételét, megőrzését, és visszaadását nem tagadhatja meg.
 
@@ -318,7 +318,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 (2) A katonai igazgatási központ megkeresése alapján adatszolgáltatást teljesít az 5. és 6. mellékletben meghatározott adatokról
 
 - a) a gazdasági és anyagi szolgáltatásra törvényben meghatározottak szerint kötelezett ingatlan, szolgáltatás, technikai eszköz tulajdonosa, birtokosa, az azzal rendelkezni jogosult,
-- b) a járási hivatal vezetője az illetékességi területén lévő ingatlanokra és szolgáltatásokra vonatkozóan a gazdasági és anyagi szolgáltatásra kötelezett adatszolgáltatása alapján.
+- b) a jegyző az illetékességi területén lévő ingatlanokra és szolgáltatásokra vonatkozóan a gazdasági és anyagi szolgáltatásra kötelezett adatszolgáltatása alapján.
 
 28. § Az adatszolgáltatás során – a rendkívüli állapot és szükségállapot időszakán kívül – nem kérhető a szolgáltatásra kötelezettől az üzletvitelével kapcsolatos olyan adat, amely nem függ össze a szolgáltatás teljesítésével. Nem kérhetők különösen
 
@@ -397,7 +397,7 @@ adatok.
 - a) a 38. §-ban foglalt esetben a belgyógyász sorozó szakorvos,
 - b) a hadköteles személyes megjelenéssel történő sorozása esetén a belgyógyász és a sebész sorozó szakorvos, valamint a pszichológus.
 
-(3) Az elsőfokú sorozóbizottság munkájában a sorozó központ vezetője igényének megfelelően a sorozás helye szerinti település szerint illetékes járási hivatal vezetője által határozatban kijelölt kisegítő személyek vesznek részt.
+(3) Az elsőfokú sorozóbizottság munkájában a sorozó központ vezetője igényének megfelelően a sorozás helye szerinti település polgármestere, a fővárosban a főpolgármester által határozatban kijelölt kisegítő személyek vesznek részt.
 
 (4) Az elsőfokú sorozóbizottság orvos tagjait a sorozó központ vezetőjének megkeresése alapján az orvost foglalkoztató egészségügyi intézet vezetője, illetve a területileg illetékes egészségügyi államigazgatási szerv jelöli ki.
 
@@ -441,39 +441,6 @@ adatok.
 
 42. § A sorozás lebonyolításához, a hadköteles nyilvántartás egyeztetéséhez és ellenőrzéséhez megfelelően berendezett helyiséget a sorozó központ megkeresése alapján a polgármester biztosítja.
 
-### IX/A. Fejezet — HONVÉDELMI BÍRSÁG
-
-42/A. § (1) A fővárosi, megyei kormányhivatal (a továbbiakban: kormányhivatal) honvédelmi bírságot szab ki
-
-- a) ha valaki a hadkötelezettség teljesítésével összefüggésben elrendelt orvosi vizsgálatnak magát nem veti alá,
-- b) ha a hadköteles a katonai igazolványát vagy a behívó parancsát másra átruházza, más őrizetére bízza, biztosítékul adja vagy külföldre viszi, az arra jogosult személy felszólítására nem mutatja fel,
-- c) ha valaki a talált katonai igazolványt vagy behívó parancsot a katonai igazgatás szervének vagy a rendőrségnek 5 napon belül nem szolgáltatja be,
-- d) ha a gazdasági és anyagi szolgáltatásra kötelezett a honvédelemmel vagy a katasztrófavédelemmel kapcsolatos gazdasági és anyagi szolgáltatási kötelezettségének nem tesz eleget, vagy a technikai eszköz igénybevételéről szóló határozat átvételét megtagadja,
-- e) ha valaki a honvédelmi vagy katasztrófavédelmi célból kijelölt ingatlannal, ingóval, szolgáltatással kapcsolatban elrendelt adatszolgáltatási kötelezettségének nem, vagy nem megfelelően tesz eleget, vagy azokkal kapcsolatos karbantartási kötelezettségét elmulasztja,
-- f) ha valaki a nála lévő hadiruházatot, katonai felszerelési tárgyat a rendeltetésétől eltérő célra használja vagy másnak használatra átadja.
-
-(2) A kormányhivatal a honvédelmi bírság kiszabásával kapcsolatos eljárást a Magyar Honvédség katonai igazgatási szerve kezdeményezése alapján folytatja le.
-
-(3) A honvédelmi bírság kiszabására irányuló eljárás a Magyar Honvédség katonai igazgatási szerve kezdeményezésének a kormányhivatalhoz történt megérkezésétől számított negyvenöt napon belül, de legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg.
-
-42/B. § (1) A honvédelmi bírság legkisebb összege százezer forint, legmagasabb összege hárommillió forint, természetes személy esetében háromszázezer forint.
-
-(2) A honvédelmi bírság összegét a kormányhivatal a törvényi keretek között a honvédelmi érdek sérelmének vagy veszélyeztetettségének nagyságával arányosan, a jogsértés súlyához és ismétlődéséhez igazodva állapítja meg.
-
-(3) A honvédelmi bírság kiszabása nem mentesít a kötelezettség teljesítése alól.
-
-(4) A honvédelmi bírság ugyanazon kötelezettség ismételt megszegése esetén újra kiszabható.
-
-(5) A kormányhivatal a katonai igazgatási szerv értesítése alapján a honvédelmi bírság megfizetése alól mentesíti azt, aki a kötelezettségének az annak kiszabását elrendelő határozat jogerőre emelkedéséig önként eleget tett. Ebben az esetben a kormányhivatal a határozatot visszavonja.
-
-42/C. § (1) A honvédelmi bírság összegét a kiszabását elrendelő határozat jogerőre emelkedésétől számított 30 napon belül kell befizetni.
-
-(2) A honvédelmi bírság megfizetésére a kormányhivatal a teljesítési határidő lejárta előtt előterjesztett kérelemre legfeljebb 12 havi részletfizetést engedélyezhet, ha a megfizetésre kötelezett hitelt érdemlően igazolja, hogy számára a teljesítés aránytalan nehézséget jelent. Egy részlet megfizetésének elmaradása esetén a teljes összeg megfizetése azonnal esedékessé válik.
-
-(3) A honvédelmi bírság befizetési határidejének elmulasztását követő nyolc napon belül a kormányhivatal a végrehajtás érdekében megkeresi a hatáskörrel és illetékességgel rendelkező adóhatóságot. Ha a bírságfizetésre kötelezett a végrehajtás elrendelését követően a honvédelmi bírság befizetését hitelt érdemlően igazolja, a hatóság nyolc napon belül intézkedik a végrehajtás megszüntetéséről.
-
-(4) A jogerősen kiszabott és be nem fizetett honvédelmi bírság adók módjára behajtandó köztartozásnak minősül.
-
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 ### X. Fejezet — A TÖRVÉNY HATÁLYBALÉPÉSE ÉS VÉGREHAJTÁSA
@@ -493,29 +460,174 @@ adatok.
 
 #### 26. Módosító rendelkezések
 
-45. §
+45. § (1) A Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény (a továbbiakban: Küfetv.) preambuluma helyébe a következő rendelkezés lép:
 
-46. §
+„Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők, és a Magyarország területén felállított nemzetközi katonai parancsnokságok és állományuk jogállásának teljes körű biztosítása érdekében a következő törvényt alkotja:”
 
-47. §
+(2) A Küfetv. 1. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-48. §
+„(1) E törvényben foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erőkre, a Magyarország területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira, továbbá – a rájuk vonatkozó rendelkezések tekintetében – az állomány tagjainak Magyarország területén tartózkodó hozzátartozóira.”
 
-49. §
+(3) A Küfetv. 3. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
 
-50. §
+„(1) Külföldi fegyveres erőnek Magyarország területére történő belépését és tartózkodását szolgálati célúnak kell tekinteni, ha az az Alaptörvény 47. cikk (1)–(3) bekezdése alapján engedélyezett.
 
-51. §
+(2) Szolgálati célúnak minősül a külföldi fegyveres erő állománya tagjának Magyarország területére történő belépése,
 
-52. §
+a) ha az Alaptörvény 47. cikk (1)–(3) bekezdése alapján engedélyezett, vagy
 
-53. §
+b) – amennyiben az nem tartozik az Alaptörvény 47. cikk (1)–(3) bekezdés hatálya alá – ha az az állomány tagjának hivatalos vagy szolgálati feladatai ellátása érdekében történik, és a belépésről, valamint a szolgálati célról az állományt küldő állam illetékes hatósága a honvédelemért felelős miniszter által vezetett minisztériumot katonadiplomáciai úton, a belépés tervezett idejét legalább 3 nappal megelőzően értesíti.”
 
-54. §
+(4) A Küfetv. 4. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
 
-55. §
+(A Magyar Honvédség központi adatfeldolgozó szerve nyilvántartást vezet)
 
-56. §
+„d) a Magyarország területén felállított nemzetközi katonai parancsnokságokról és az azokhoz tartozó, és Magyarország területén szolgálatot teljesítő állomány tagjairól a nemzetközi katonai parancsnokságnak Magyarország által nemzetközi szervezetként történő elismeréséig.”
+
+(5) A Küfetv. 4. § (5) bekezdés nyitó szövegrésze helyébe a következő rendelkezés lép:
+
+„Az (1) bekezdés d) pontjában meghatározott nyilvántartás a Magyarország területén felállított nemzetközi katonai parancsnokságokhoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja alábbi adatait tartalmazza:”
+
+(6) A Küfetv. 4. § (7) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+[Az (1) bekezdésben meghatározott nyilvántartás vezetésének célja:)]
+
+„c) Magyarországnak a külföldi fegyveres erők Magyarország területén történő tartózkodásával összefüggő honvédelmi és nemzetbiztonsági védelmének hatékony ellátása.”
+
+(7) A Küfetv. 5. § (1) bekezdés helyébe a következő rendelkezés lép:
+
+„(1) A Magyar Honvédség központi adatfeldolgozó szerve a NATO- és PfP-állomány, a Magyarország területén felállított nemzetközi katonai parancsnoksághoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja részére e jogállásának igazolására, valamint egyes, a nemzetközi jog és a magyar jogszabályok által biztosított jogosultságainak és mentességeinek érvényesítéséhez az állomány tagjának erre vonatkozó írásbeli kérelmére, a 4. §-ban foglalt nyilvántartás adatai alapján igazolványt állít ki. Az igazolvány az abban foglalt adatokat közhitelűen igazolja.”
+
+(8) A Küfetv. 6. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[A 4. § (1) bekezdés d) pontjában meghatározott, a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira vonatkozó nyilvántartásokban foglalt adatokat, amennyiben a nemzetközi katonai parancsnokságot a Magyar Köztársaság nemzetközi szervezetként nem ismerte el, ]
+
+„b) a Magyarország területén felállított, azonban Magyarország által nemzetközi szervezetként el nem ismert nemzetközi katonai parancsnokság vagy annak magyarországi székhelyének, illetve képviseletének megszűnéséről szóló, a honvédelemért felelős miniszter által vezetett minisztérium által kiállított nyilatkozat kézhezvételéig”
+
+(kell megőrizni.)
+
+(9) A Küfetv. 6. § (4) és (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Amennyiben a Magyarország területén felállított nemzetközi katonai parancsnokságot Magyarország nemzetközi szervezetként ismeri el, a Magyar Honvédség központi adatfeldolgozó szerve a 4. § (1) bekezdés d) pontjában meghatározott nyilvántartásokban foglalt adatokat – a (3) bekezdés a) pontjában hivatkozott értesítés kézhezvételét követően, az adatok megsemmisítését megelőzően – átadja a külpolitikáért felelős miniszter által vezetett minisztérium részére.
+
+(5) A Magyarország területén felállított, és Magyarország által nemzetközi szervezetként elismert nemzetközi katonai parancsnokságokat a külpolitikáért felelős miniszter által vezetett minisztérium a Magyarországon képviselettel rendelkező nemzetközi szervezetek jegyzékében, azok állományának tagjait pedig a Magyarországon képviselettel rendelkező nemzetközi szervezetek tisztviselőinek jegyzékében tartja nyilván.”
+
+(10) A Küfetv. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 4. § (1) bekezdésben meghatározott nyilvántartásokban foglalt adatok – a (2) bekezdésben foglaltak kivételével – a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők és azok állománya, valamint a Magyarország területén felállított nemzetközi katonai parancsnokságok nemzetbiztonsági védelmének, valamint Magyarország honvédelmi érdekeinek biztosítása, továbbá a nemzetközi katonai parancsnokságok felállításában érintett nemzetközi szervezetekkel történő kapcsolattartásra tekintettel nem hozhatók nyilvánosságra.”
+
+(11) A Küfetv. 7. § (2) bekezdés c) és d) pontja helyébe a következő rendelkezés lép:
+
+[Az (1) bekezdés alapján nem korlátozható a következő adatok nyilvánossága, amennyiben azok nem képeznek minősített adatot:)]
+
+„c) a Magyarország területén felállított, és Magyarország által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok megnevezése;
+
+d) a Magyarország területén felállított, és Magyarország által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok Magyarország területén lévő szervezetének teljes létszáma.”
+
+(12) A Küfetv. 9. § (1) bekezdés helyébe a következő rendelkezés lép:
+
+„(1) A külföldi fegyveres erő Magyarország területén, magyar hajón vagy magyar légi járművön szolgálati céllal tartózkodó, valamint a Magyarország területén felállított és Magyarország által nemzetközi szervezetként el nem ismert nemzetközi katonai parancsnokság állományának tagjai és azoknak a Magyarország területén, magyar hajón vagy magyar légi járművön tartózkodó hozzátartozói Magyarország joghatósága alá tartoznak.”
+
+(13) A Küfetv. 10. § (1) bekezdés helyébe a következő rendelkezés lép:
+
+„(1) A külföldi fegyveres erő, valamint a Magyarország területén felállított nemzetközi katonai parancsnokság állományának tagjai szolgálati fegyvereiket Magyarország területén, valamint a magyar hajón vagy magyar légi járművön a jogos védelemre és a végszükségre vonatkozó jogszabályi rendelkezéseknek megfelelően használhatják.”
+
+(14) A Küfetv. 11. § (2) bekezdés helyébe a következő rendelkezés lép:
+
+„(2) A kizárólag Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erő, valamint a Magyarország területén felállított nemzetközi katonai parancsnokság külföldi állománya tagjának egészségügyi ellátását végző, a külföldi fegyveres erő vagy a nemzetközi katonai parancsnokság állományába tartozó személy e tevékenységének végzése erejéig mentesül az egészségügyi tevékenység végzéséhez jogszabályban előírt engedélyezési feltételek teljesítése alól.”
+
+46. § A Küfetv.
+
+- a) 1. § (2) és (3) bekezdésében, 4. § (1) bekezdés a) és c) pontjában, 4. § (3) és (4) bekezdésének nyitó szövegrészében, 5. § (4) bekezdésében, 6. § (1) bekezdésében, 7. § (2) bekezdés a) és b) pontjában, 9. § (2) bekezdésében,10. § (2) bekezdésében és 5. alcímében a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
+- b) 3. § (3) bekezdésében, 4. § (1) bekezdés b) pontjában, 4. § (3) bekezdés c) és g) pontjában, 4. § (4) bekezdés c) és e) pontjában, 4. § (6) bekezdésében, 6. § (2) bekezdésében,7. § (3) bekezdés a), c) és i) pontjában, 13. § (1) bekezdés a) pontjában, 13. § (5) bekezdésében és 14. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
+- c) 5. § (2) bekezdés e) pontjában és 11. § (1) bekezdésében a „Magyar Köztársaság” szövegrészek helyébe a „Magyarország” szöveg,
+- d) 6. § (3) bekezdés nyitó szövegrészében, 7. § (3) bekezdés b) pontjában az „a Magyar Köztársaság” szövegrészek helyébe a „Magyarország” szöveg,
+- e) 17. § b) pontjában az „Alkotmány 19. § (3) bekezdés j) pont vagy 40/C. § (1) bekezdés” szövegrész helyébe az „Alaptörvény 47. cikk (1)–(3) bekezdése” szöveg,
+- f) 8. §-ában az „államnak a Magyar Köztársaság” szövegrész helyébe az „állam Magyarország” szöveg
+
+lép.
+
+47. § 2012. május 1-jén hatályát veszti a Küfetv. 18. § (3) bekezdése.
+
+48. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 68. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A hadkötelezettség bevezetését követően a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a hadkötelezettség feltételei fennállásának megállapítása céljából jogosultak közvetlen hozzáféréssel átvenni a következő adatokat:
+
+a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
+
+b) a 16. § (2) bekezdés a) pontjában meghatározott adatok,
+
+c) a 23. § c), f) és g) pontjában meghatározott adatok, valamint
+
+d) a 28. § b) és c) pontjában meghatározott adatok.”
+
+49. § A víziközlekedésről szóló 2000. évi XLII. törvény a következő 10/A. §-sal egészül ki:
+
+„10/A. § A katonai igazgatás területi szerve a technikai eszközök igénybevételének tervezése, igénybevételi célú kijelölése céljából a 10. § (1) bekezdés a)–d) pontja szerinti adatokat igényelheti.”
+
+50. § A választási eljárásról szóló 1997. évi C. törvény a következő 52/A. §-sal egészül ki:
+
+„52/A. § A Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelezettség bevezetése után a behívás alóli mentesség megállapítása céljából igényelheti a feladat- és hatáskörrel rendelkező választási szervtől a jelöltként nyilvántartásba vett személy családi és utónevét, személyi azonosítóját, és lakcímét.”
+
+51. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény
+
+- a) 23. §-a a következő j) ponttal egészül ki:
+
+(A TAJ számot a következő szervek az alábbiakban meghatározott célból kezelhetik:)
+
+„j) a Magyar Honvédség a törvényben meghatározott hadkiegészítési és érdekvédelmi feladatai ellátásához.”
+
+- b) 24. §-a a következő l) ponttal egészül ki:
+
+(A TAJ szám továbbítására jogosultak:)
+
+„l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a katonai igazgatás területi szervei egymás között a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához.”
+
+- c) 32. § f) pontja helyébe a következő rendelkezés lép:
+
+(A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult)
+
+„f) a katonai igazgatás szervei és a Magyar Honvédség központi irattározásra kijelölt szerve, továbbá a katonai szolgálat teljesítésének időtartama alatt a tényleges állomány vonatkozásában az állományilletékes katonai szervezet a törvény szerinti hadköteles nyilvántartás vezetéséhez, az önkéntes tartalékos és kiképzett tartalékos állomány katonai szolgálata tervezése érdekében, valamint a háborús veszteség nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez;”
+
+- d) 36. § k) pontja helyébe a következő rendelkezés lép:
+
+(A személyi azonosító továbbítására jogosult:)
+
+„k) a 32. § f) pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;”
+
+- e) 37. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:)
+
+„a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a katonai nyilvántartásban szereplő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, ideiglenesen külföldön tartózkodásának tényéről, vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról, továbbá a honvédelmi kötelezettség alá eső polgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, személyi azonosítójáról, családi állapotáról és lakcíméről;”
+
+52. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 22. §-ának b) pontja helyébe a következő rendelkezés lép:
+
+[E törvény felhatalmazása alapján a 17. § c) pontja szerinti adatok igénylésére jogosultak:]
+
+„b) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a katonai igazgatás illetékes területi szervei és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;”
+
+53. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (1) bekezdés d) pontjában a „honvédelmi igazgatás szerve” szövegrész helyébe a „Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve” szöveg lép.
+
+54. § A magyar állampolgárságról szóló 1993. évi LV. törvény 19. § (2) bekezdésében a „a Magyar Honvédség központi adatfeldolgozó szervét” szövegrész helyébe a „Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve” szöveg lép.
+
+55. § A közúti közlekedésről 1988. évi I. törvény a következő 28/A. §-al egészül ki:
+
+„28/A. § (1) E törvény rendelkezéseit a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyarország területén felállított nemzetközi katonai parancsnokságok Magyarországon szolgálatot teljesítő állományának tagjaira (a továbbiakban: külföldi állomány), valamint azoknak a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény 2. § (2) bekezdésében meghatározott hozzátartozójára az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A külföldi állomány tagja, valamint az (1) bekezdés szerinti hozzátartozója a saját tulajdonában lévő, és a saját részére, vagy hozzátartozója személyes használatára – szolgálati célú tartózkodása idejére ideiglenesen – behozott gépjárművét (a továbbiakban: külföldi állomány gépjárműve) külföldi hatósági engedéllyel és jelzéssel is használhatja Magyarország területén.
+
+(3) Ahol e törvény vagy a közúti közlekedési igazgatásról szóló jogszabály lakóhelyet, lakcímet vagy tartózkodási helyet említ, ott a külföldi állomány tekintetében az igazolt elhelyezési helyet is érteni kell.
+
+(4) A külföldi állomány gépjárműve – a közlekedésbiztonsági üzemeltetési műszaki feltételek kivételével – mentesül a közúti járművek forgalomba helyezésére és forgalomban tartására vonatkozó jogszabályban meghatározott üzemeltetési műszaki feltételek alól.”
+
+56. § (1) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 23. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+[A következő szervek írásbeli megkeresésére a kezelést végző orvos az érintett egészségügyi és a megkereső szerv által törvény alapján kezelhető, az azonosításhoz szükséges személyazonosító adatait átadja a megkereső szervnek. A megkeresésben a 4. § (4) bekezdésének megfelelően fel kell tüntetni a megismerni kívánt egészségügyi és személyazonosító adatokat. A megkereső szervek a következők lehetnek:]
+
+„c) potenciális hadköteles és hadköteles személy esetén az illetékes jegyző, a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,”
+
+(2) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 23. § (1) bekezdés e) pontjában a „Magyar Honvédség központi adatfeldolgozó szerve” szövegrész helyébe a „Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve” szöveg lép.
 
 #### 27. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

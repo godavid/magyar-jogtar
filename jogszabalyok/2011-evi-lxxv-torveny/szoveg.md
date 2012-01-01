@@ -11,7 +11,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 - 1. devizakölcsön: a természetes személy mint adós vagy adóstárs és a pénzügyi intézmény között létrejött olyan kölcsönszerződés alapján fennálló tartozás, amelynél
   - a) a kölcsön nyilvántartási pénzneme euró, svájci frank vagy japán jen,
   - b) a törlesztési kötelezettséget a hiteladós forintban teljesíti, és
-  - c) a kölcsön fedezete a Magyar Köztársaság területén lévő lakóingatlanon alapított zálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség;
+  - c) a kölcsön fedezete a Magyarország területén lévő lakóingatlanon alapított zálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség;
 - 2. fedezeti ingatlan: lakáshitel-szerződésből eredő hiteltartozás biztosítására jelzálogjoggal terhelt lakóingatlan, ha a lakáshitel-szerződésből eredő lejárt tartozás megfizetése tekintetében több mint 90 napos késedelem áll fenn;
 - 3. fizetéskönnyítő program: devizakölcsön alapján fennálló fizetési kötelezettség átmeneti csökkentése érdekében a pénzügyi intézmény és a hiteladós között létrejött olyan – nem e törvény hatálya alá tartozó – megállapodás, amelynek eredményeként a hiteladóst egy meghatározott időtartamra a megállapodás megkötése előtt fennálló havi törlesztési kötelezettségénél kisebb havi törlesztési kötelezettség terheli;
 - 4. gyűjtőszámlahitel: gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés alapján a devizakölcsön törlesztése során a rögzített árfolyam alkalmazása miatt a hiteladós által meg nem fizetett törlesztőrészlet-hányad finanszírozására, a devizakölcsön tekintetében hitelezőnek minősülő pénzügyi intézmény által a hiteladósnak forintban, a devizakölcsön ingatlanfedezetével azonos ingatlanra érvényesíthető jelzálogjog vagy a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-a alapján vállalt állami készfizető kezesség fedezete mellett a rögzített árfolyam alkalmazásának időszaka alatt folyósított kölcsön;
@@ -22,12 +22,12 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
   - b) végrehajtási kérelem előterjesztése a lakáshitel-szerződésből eredő tartozás behajtására irányuló bírósági végrehajtás elrendelésére; kivéve, ha a hitelező a végrehajtási kérelemben kifejezetten kizárja 2014. december 31. előtt a fedezeti ingatlanra vezetett végrehajtást és e nyilatkozatának későbbi megváltoztatását;
 - 8. lakáshitel-szerződés: magyarországi lakóingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 2. számú melléklet III. Egyéb meghatározások 4. pontja szerinti fogyasztó és pénzügyi intézmény által kötött hitel- vagy kölcsönszerződés;
 - 9. lakóingatlan: lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel, továbbá az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese;
-- 10. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, a Magyar Köztársaság területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is;
+- 10. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező és ott jogszerűen tevékenységet végző, Magyarország területén határon átnyúló szolgáltatást nyújtó pénzügyi intézményt is;
 - 11. rögzített árfolyam: a devizakölcsön törlesztése körében a pénzügyi intézmény által a forinttal szemben alkalmazott átváltási árfolyam;
 - 12. rögzített árfolyam alkalmazási időszaka: azon időszak, amely alatt a pénzügyi intézmény a devizakölcsön törlesztési kötelezettség hiteladóst terhelő hányadának meghatározása során a rögzített árfolyamot alkalmazza, és a keletkező különbözetre gyűjtőszámlahitelt folyósít;
 - 13. természetes személy:
   - a) a magyar állampolgár és az a személy, akit külön törvény alapján a magyar állampolgár jogai illetnek meg,
-  - b) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint – a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik,
+  - b) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik,
   - c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben (a továbbiakban: Tv.) foglaltak szerint bevándorolt vagy letelepedett jogállással rendelkezik,
   - d) a hontalan, ha a Tv.-ben foglaltak alapján ilyen jogállásúnak ismerték el.
 
@@ -120,7 +120,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 8. § (1) A hitelező minden tárgynegyedév első napján megyei, fővárosi szinten megállapítja az összes fedezeti ingatlanának a számát és a 7. §-ban foglaltak szerint kijelöli azokat, amelyek tekintetében kényszerértékesítést kezdeményez.
 
-(2) A kényszerértékesítésre kijelölt fedezeti ingatlan kényszerértékesítését a hitelezőnek a tárgynegyedév végéig kezdeményeznie kell.
+(2) A kényszerértékesítésre kijelölt fedezeti ingatlan kényszerértékesítését a hitelezőnek a tárgynegyedév végéig kezdeményeznie kell, kivéve, ha a hitelező pénzügyi intézmény a lakáshitel fedezetéül szolgáló lakóingatlan tulajdonjogának – a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény szerinti – átruházásához hozzájárult.
 
 (3) Ha a fedezeti ingatlan kényszerértékesítésére vagy kényszerértékesítésének kezdeményezésére utóbb a lakáshitel-szerződésből eredő hiteltartozás megszűnése miatt nem kerül sor, a hitelező ehelyett – az e törvényben foglalt feltételeknek megfelelő – másik fedezeti ingatlant jelölhet ki kényszerértékesítésre a kényszerértékesítési kvótát meghaladóan.
 
@@ -176,11 +176,11 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 13. § A 2. § szerinti kezességvállalás iránti igényt a pénzügyi intézmény a 2. § (2) bekezdés szerinti kormányrendelet hatálybalépését követő 15 napon belül írásban bejelenti az államháztartásért felelős miniszternek.
 
-14. §
+#### 14. §
 
-15–16. §
+#### 15–16. §
 
-17. §
+#### 17. §
 
 ### 1. melléklet a 2011. évi LXXV. törvényhez
 

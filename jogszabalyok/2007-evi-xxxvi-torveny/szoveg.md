@@ -19,9 +19,9 @@ a szabálysértési jogsegélyről
 
 (3) Pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásának átadására a mellékletben meghatározott szabálysértések miatt hozott határozatok esetén kerülhet sor.
 
-3. § (1) A szabálysértési jogsegély iránti megkeresés nem teljesíthető és nem terjeszthető elő, ha veszélyezteti a Magyar Köztársaság biztonságát, sérti közrendjét.
+3. § (1) A szabálysértési jogsegély iránti megkeresés nem teljesíthető és nem terjeszthető elő, ha veszélyezteti Magyarország biztonságát, sérti közrendjét.
 
-(2) A szabálysértési jogsegély iránti megkeresésben foglaltak teljesítését meg kell tagadni, ha az a Magyar Köztársaságnak az emberi jogok védelmére vonatkozó nemzetközi kötelezettségvállalásával, így különösen az emberi jogok és alapvető szabadságok védelméről szóló Egyezménnyel, illetve az Emberi Jogok Európai Bírósága ítéleteivel ellentétes.
+(2) A szabálysértési jogsegély iránti megkeresésben foglaltak teljesítését meg kell tagadni, ha az Magyarországnak az emberi jogok védelmére vonatkozó nemzetközi kötelezettségvállalásával, így különösen az emberi jogok és alapvető szabadságok védelméről szóló Egyezménnyel, illetve az Emberi Jogok Európai Bírósága ítéleteivel ellentétes.
 
 (3) Az (1) és (2) bekezdésben foglaltak vizsgálata a központi hatóság hatáskörébe tartozik.
 
@@ -103,7 +103,7 @@ a szabálysértési jogsegélyről
 
 ### Költségviselési szabályok
 
-11. § (1) Az eljárási jogsegély nyújtásával kapcsolatos költségek a Magyar Köztársaságot terhelik.
+11. § (1) Az eljárási jogsegély nyújtásával kapcsolatos költségek Magyarországot terhelik.
 
 (2) A külföldi hatóság vagy bíróság szabálysértési ügyben hozott pénzbírságot kiszabó jogerős határozatának (a továbbiakban: külföldi határozat) végrehajtásával kapcsolatban felmerült költség az elkövetőt terheli.
 
@@ -246,7 +246,7 @@ a szabálysértési jogsegélyről
 
 - a) a magyar törvény szerint a büntetés elévült,
 - b) a külföldi határozat alapjául szolgáló cselekményt a magyar szabálysértési hatóság vagy a bíróság már jogerősen elbírálta,
-- c) a külföldi határozat alapjául szolgáló cselekményt külföldi hatóság már jogerősen elbírálta, és az erről szóló határozat végrehajtását a Magyar Köztársaság már átvette,
+- c) a külföldi határozat alapjául szolgáló cselekményt külföldi hatóság már jogerősen elbírálta, és az erről szóló határozat végrehajtását Magyarország már átvette,
 - d) a tagállami hatóság által megküldött tanúsítvány nyilvánvalóan nem az ahhoz mellékelt határozatra vonatkozik,
 - e) a külföldi határozatban meghatározott összeg a határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva nem haladja meg a 70 eurót.
 
@@ -264,7 +264,7 @@ a szabálysértési jogsegélyről
 
 (2) Ha az elkövető igazolja, hogy a külföldi határozatban megjelölt összeget részben vagy egészben megfizette, a jegyző értesítése alapján a központi hatóság az eljárást felfüggeszti, és egyidejűleg megkeresi a határozatot kibocsátó külföldi hatóságot, hogy a megfizetés tényéről harminc napon belül nyilatkozzon. Ha a megadott határidőn belül a külföldi hatóság a megkeresésre nem válaszol, az eljárást meg kell szüntetni.
 
-32. § A külföldi pénznemben kiszabott pénzbírság és az eljárási költség végrehajtását magyar forintban kell teljesíteni. Az átváltásnál a pénzbírságot kiszabó határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyam alapján a feltüntetett középárfolyamot kell figyelembe venni.
+32. § A külföldi pénznemben kiszabott pénzbírság és az eljárási költség végrehajtását Magyarország hivatalos pénznemében kell teljesíteni. Az átváltásnál a pénzbírságot kiszabó határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyam alapján a feltüntetett középárfolyamot kell figyelembe venni.
 
 33. § Az illetékbélyegben lerótt pénzbírság és eljárási költség összege a központi költségvetés közvetlen bevétele, míg a közvetlen letiltás útján, vagy adók módjára behajtott pénzbírság és az eljárási költség összege a végrehajtó települési önkormányzatot illeti meg.
 

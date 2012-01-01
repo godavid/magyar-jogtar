@@ -9,7 +9,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 1. § E törvény alkalmazásában:
 
 - 1. alakuló gyűlés: az érdekeltek fóruma a társulat megalakítása céljából;
-- 2. állami hozzájárulás: a társulati művek fejlesztését, működtetését, ezeken a műveken a vizek kártételei elleni védekezést szolgáló, a Magyar Köztársaság költségvetéséről szóló törvényben évenként megállapított költségvetési hozzájárulás;
+- 2. állami hozzájárulás: a társulati művek fejlesztését, működtetését, ezeken a műveken a vizek kártételei elleni védekezést szolgáló, a központi költségvetésről szóló törvényben évenként megállapított költségvetési hozzájárulás;
 - 3. beolvadás: egyesülési folyamat, amelyben a beolvadó társulat megszűnik, és annak vagyona az átvevő társulatra, mint jogutódra száll át;
 - 4. elkülönített vagyon: a társulat nyilvántartásában kimutatott társulati művek, valamint a közfeladatok ellátásához a tárgyévben juttatott pénzeszköz, továbbá saját vagyonból a társulati művek értékének 8%-a;
 - 5. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki, illetve amely a társulat működési területéhez nem tartozó ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
@@ -25,7 +25,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - 15. küldött: a társulat tagjainak képviseletét ellátó személy, akit az alakuló gyűlés vagy a területi egység tagjai választanak;
 - 16. küldöttgyűlés: a társulat legfőbb szerve, a társulat küldöttjeinek és tisztségviselőinek összessége;
 - 17. küldött jelölt: területi egységenként az érdekeltek által jelölt személy, akit az alakuló gyűlés választ meg küldöttnek;
-- 18. működési terület: a vízgyűjtő-gazdálkodási tervezési alegységekre és az érintett környezetvédelmi és vízügyi igazgatóság működési területére figyelemmel, elsősorban a legalább 100 000 ha nagyságú földrajzi terület, amelyen a társulat működik, vagy amely területen a társulat legalább 500 km-nyi közcélú vonalas létesítményt tart fent és üzemeltet;
+- 18. működési terület: a vízgyűjtő-gazdálkodási tervezési alegységekre és az érintett vízügyi igazgatási szerv működési területére figyelemmel, elsősorban a legalább 100 000 ha nagyságú földrajzi terület, amelyen a társulat működik, vagy amely területen a társulat legalább 500 km-nyi közcélú vonalas létesítményt tart fent és üzemeltet;
 - 19. önkormányzati hozzájárulás: a társulati művek körébe tartozó önkormányzati tulajdonban lévő vizek és vízilétesítmények fejlesztését, működtetését, a vizek kártételei elleni védekezést szolgáló, a települési önkormányzatok évenként megállapított költségvetési hozzájárulása;
 - 20. összeolvadás: egyesülési folyamat, amelynek során az egyesülő társulatok megszűnnek, és vagyonuk az átalakulással létrejövő új társulatra, mint jogutódra száll át;
 - 21. részvízgyűjtő: a társulat működési területének alapszabályban földrajzilag meghatározott része;
@@ -76,7 +76,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 (2) A társulat a vízrendezési feladatok ellátása érdekében közcélú vízgazdálkodási létesítményeket (csatornákat, szivattyútelepeket, tározókat) létesít, fejleszt, újít fel, tart fenn és üzemeltet, továbbá vízfolyásokat tart fenn és üzemeltet.
 
-(3) A társulat a vizek kártételei ellen a küldöttgyűlés által elfogadott vízkárvédelmi terve alapján a társulati műveken önálló védelmi tevékenységet végez: belvízvédekezik, területi vízkárelhárítást végez, védekezik a kisvízfolyások árhullámaival szemben. A védelmi feladatokat társulati hozzájárulásból, a művek tulajdonosainak hozzájárulásaiból és a vízgazdálkodásért felelős miniszter által vezetett minisztérium Vízkárelhárítási Szabályzatában foglaltak szerint az állami védelmi forrásokból finanszírozza. A társulati műveken a vizek kártételei elleni védelem érdekében szükséges feladatok ellátása – a művek építése, fejlesztése, fenntartása, üzemeltetése, valamint a védekezés – a társulatok kötelezettsége.
+(3) A társulat a vizek kártételei ellen a küldöttgyűlés által elfogadott vízkárvédelmi terve alapján a társulati műveken önálló védelmi tevékenységet végez: belvízvédekezik, területi vízkárelhárítást végez, védekezik a kisvízfolyások árhullámaival szemben. A védelmi feladatokat társulati hozzájárulásból, a művek tulajdonosainak hozzájárulásaiból és a vízügyi igazgatási szervek irányításáért felelős miniszter által vezetett minisztérium Vízkárelhárítási Szabályzatában foglaltak szerint az állami védelmi forrásokból finanszírozza. A társulati műveken a vizek kártételei elleni védelem érdekében szükséges feladatok ellátása – a művek építése, fejlesztése, fenntartása, üzemeltetése, valamint a védekezés – a társulatok kötelezettsége.
 
 (4) A társulat tagjai részére mezőgazdasági vízhasznosítást, a táblán, illetve üzemen belüli meliorációs és mezőgazdasági vízszolgáltatást, természetvédelmi célú vízvisszatartást végezhet, amelyet a szolgáltatást igénybe vevők differenciált érdekeltségi hozzájárulással is finanszírozhatják.
 
@@ -223,7 +223,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 (3) A jogerős cégbejegyzést követően az alapszabály érvénytelenségének megállapítása nem érinti azon kötelezettségek fennállását, amelyek a társulat terhére vagy javára az érvénytelenség megállapításáig keletkeztek.
 
-(4) Ha a cégbíróság a társulat bejegyzését megtagadta, a társulat tevékenységét a jogerős határozat kézhezvétele után meg kell szüntetni. Az alakuló gyűléstől a tevékenység megszüntetéséig terjedő időszakra vonatkozóan a tagok kötelesek egymással elszámolni. Az új társulat megalakulásig a társulati művek működtetéséről a vízgazdálkodásért felelős illetékes állami szervezet, illetve az önkormányzat gondoskodik.
+(4) Ha a cégbíróság a társulat bejegyzését megtagadta, a társulat tevékenységét a jogerős határozat kézhezvétele után meg kell szüntetni. Az alakuló gyűléstől a tevékenység megszüntetéséig terjedő időszakra vonatkozóan a tagok kötelesek egymással elszámolni. Az új társulat megalakulásig a társulati művek működtetéséről a vízügyi igazgatási szerv, illetve az önkormányzat gondoskodik.
 
 22. § A társulatra, valamint a társulat tagjaira, vezető tisztségviselőire vonatkozó, a cégnyilvántartás részét képező jogok, tények és adatok nyilvánosak.
 
@@ -427,7 +427,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 40. § (1) A társulat felett a törvényességi felügyeletet a cégbíróság látja el.
 
-(2) A társulat közfeladatainak ellátása feletti szakmai felügyeletet a vízgazdálkodásért felelős miniszter, az irányítása alatt álló, a társulat működési területe szerinti környezetvédelmi és vízügyi igazgatóság útján látja el.
+(2) A társulat közfeladatainak ellátása feletti szakmai felügyeletet a vízügyi igazgatási szervek irányításáért felelős miniszter, az irányítása alatt álló, a társulat működési területe szerinti vízügyi igazgatási szerv útján látja el.
 
 (3) A társulatok közös érdekeinek érvényesítését és védelmét az egyesülési jogról szóló törvény szerint működő országos, illetve régiós hatáskörű társulati érdekképviseleti szervezet látja el. A társulatok az érdekképviseleti szervezetnek fizetett hozzájárulást az egyéb költségeik között számolhatják el.
 
@@ -449,7 +449,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 44. § A társulat a vállalkozási tevékenységből származó adózás előtti eredményét közfeladatai ellátására fordíthatja.
 
-45. § A társulati művek körébe tartozó állami, önkormányzati és egyéb tulajdonú vizekre és vízilétesítményekre vagyonkezelői, illetve használati (üzemeltetői) szerződést köt a tulajdonossal.
+45. § A társulati művek körébe tartozó állami, önkormányzati és egyéb tulajdonú vizekre és vízilétesítményekre használati (üzemeltetői) szerződést köt a tulajdonossal.
 
 46. § A társulat a tagjainál vagy harmadik személynél bekövetkezett vízkárokért csak akkor felel, ha a társulati és a közfeladatok elvégzéséhez bármely jogcímen kapott hozzájárulást nem a küldöttgyűlés döntései szerint használja fel.
 
@@ -563,7 +563,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 - c) a 62. §-ban előírt kötelezettség teljesítésének felhívás ellenére történő elmaradása esetén a felügyeleti szerv kezdeményezésére a cégbíróság megszűntnek nyilvánítja;
 - d) a cégbíróság hivatalból elrendeli a törlését.
 
-(2) A társulat megszűnését követően az új társulat megalakulásig a társulat elkülönített vagyonát a vízgazdálkodásért felelős illetékes állami szervezet felelős őrzésbe veszi át és külön törvény szerint gondoskodik a társulati művek működtetéséről. Ez a szervezet a megszűnt társulat működési területén megalakuló új társulat(ok) részére az elkülönített vagyont térítésmentesen, területarányosan adja át a közfeladat ellátási kötelezettségével.
+(2) A társulat megszűnését követően az új társulat megalakulásig a társulat elkülönített vagyonát a társulati mű fekvése szerint illetékes vízügyi igazgatási szerv felelős őrzésbe veszi át és külön törvény szerint gondoskodik a társulati művek működtetéséről. Ez a szervezet a megszűnt társulat működési területén megalakuló új társulat(ok) részére az elkülönített vagyont térítésmentesen, területarányosan adja át a közfeladat ellátási kötelezettségével.
 
 ### Átmeneti rendelkezések
 

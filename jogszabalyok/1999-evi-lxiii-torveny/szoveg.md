@@ -22,7 +22,7 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 - f) közreműködés a köztisztaságra vonatkozó jogszabályok végrehajtásának ellenőrzésében;
 - g) közreműködés állategészségügyi és ebrendészeti feladatok ellátásában.
 
-(5) A feladatkörében eljáró felügyelő hivatalos személy. A felügyelő az e törvényben meghatározott feladatkörében eljárva jogosult és köteles a közterületen ellenőrizni a jogszabályban előírt kötelezettségek megtartását, jogszabálysértés esetén eljárást kezdeményezni vagy az e törvényben meghatározott intézkedést megtenni. A felügyelőnek az e törvényben meghatározott tevékenység folytatására, valamint intézkedésére való jogosultságát a közterület-felügyelet szabályozásáért felelős miniszter (a továbbiakban: miniszter) által kiadott hatósági szolgálati igazolvány igazolja.
+(5) A feladatkörében eljáró felügyelő hivatalos személy. A felügyelő az e törvényben meghatározott feladatkörében eljárva jogosult és köteles a közterületen ellenőrizni a jogszabályban előírt kötelezettségek megtartását, jogszabálysértés esetén eljárást kezdeményezni vagy az e törvényben meghatározott intézkedést megtenni. A felügyelőnek az e törvényben meghatározott tevékenység folytatására, valamint intézkedésére való jogosultságát a közterület-felügyelet szabályozásáért felelős miniszter (a továbbiakban: miniszter) által kiadott szolgálati igazolvány igazolja.
 
 (6) A felügyeletnek, illetőleg a felügyelet részéről eljáró felügyelőnek feladatot – a (4) bekezdés keretei között – törvény, kormányrendelet, az önkormányzat rendelete állapíthat meg. Az önkormányzat rendelete olyan feladatot állapíthat meg, melyet törvény vagy kormányrendelet nem utal más szerv hatáskörébe.
 
@@ -44,11 +44,11 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 (2) A felügyelő szolgálata teljesítésekor egyenruhájára kitűzve viseli az országosan egységes, egyedi azonosító számmal ellátott felügyelői jelvényt. A felügyelő – a helyi önkormányzat rendeleti szabályozása esetén – a település jelképét karjelzésként viseli.
 
-5. § A felügyelő az intézkedés megkezdése előtt – ha az az intézkedés eredményességét veszélyezteti, az intézkedés befejezésekor – köteles felügyelői minőségét szóban közölni, magát hatósági szolgálati igazolvánnyal vagy egyedi azonosító számmal ellátott felügyelői jelvénnyel igazolni. A hatósági szolgálati igazolvány tartalmazza a felügyelő arcfényképét, nevét, a munkáltató szerv megnevezését és címét, továbbá a felügyelői jelvény sorszámát.
+5. § A felügyelő az intézkedés megkezdése előtt – ha az az intézkedés eredményességét veszélyezteti, az intézkedés befejezésekor – köteles felügyelői minőségét szóban közölni, magát szolgálati igazolvánnyal vagy egyedi azonosító számmal ellátott felügyelői jelvénnyel igazolni. A szolgálati igazolvány tartalmazza a felügyelő arcfényképét, nevét, a munkáltató szerv megnevezését és címét, továbbá a felügyelői jelvény sorszámát.
 
-6. § (1) A felügyelet a képviselő-testület által meghatározottak szerint együttműködik a rendőrséggel, a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos önkormányzati tűzoltósággal (a továbbiakban: rendvédelmi szervek), az egyéb állami ellenőrző és önkormányzati szervekkel, egyesülettel, így különösen a polgárőrség helyi szervezetével, valamint a feladatai ellátásához segítséget nyújtó egyéb szervezettel.
+6. § (1) A felügyelet a képviselő-testület által meghatározottak szerint együttműködik a rendőrséggel, a hivatásos katasztrófavédelmi szervvel (a továbbiakban: rendvédelmi szervek), a Nemzeti Adó- és Vámhivatallal, az egyéb állami ellenőrző és önkormányzati szervekkel, egyesülettel, így különösen a helyi polgárőr szervezettel, valamint a feladatai ellátásához segítséget nyújtó egyéb szervezettel.
 
-(2) A rendvédelmi szervvel együtt eljáró felügyelő a rendvédelmi szerv segítője.
+(2) A rendvédelmi szervvel, a Nemzeti Adó- és Vámhivatallal együtt eljáró felügyelő a rendvédelmi szerv, a Nemzeti Adó- és Vámhivatal segítője.
 
 (3) A felügyelet a rendőrséggel történő együttműködés keretében tevékenysége ellátásáról, annak körülményeiről a rendőrséget rendszeresen tájékoztatja. A tájékoztatás módját és tartalmát együttműködési megállapodásban kell rögzíteni.
 
@@ -121,16 +121,16 @@ haladéktalanul törli.
 
 12. § A felügyelet feladatkörébe tartozó szabálysértési és közigazgatási hatósági eljárásokkal összefüggő személyes adatok kezelésére a külön törvények rendelkezései az irányadók.
 
-13. § (1) A felügyelő részére a hatósági szolgálati igazolványt, valamint a felügyelői jelvényt a miniszter a jegyző, valamint az önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként létrehozott felügyelet esetén a költségvetési szerv vezetője kezdeményezésére az okmányiroda útján, hivatalból állítja ki.
+13. § (1) A felügyelő részére a szolgálati igazolványt, valamint a felügyelői jelvényt a miniszter a jegyző, valamint az önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként létrehozott felügyelet esetén a költségvetési szerv vezetője kezdeményezésére az okmányiroda útján, hivatalból állítja ki.
 
-(2) A jegyző, valamint az önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként létrehozott felügyelet esetén a költségvetési szerv vezetője haladéktalanul értesíti a minisztert arról, ha a felügyelő hatósági szolgálati igazolványának visszavonására okot adó körülmény bekövetkezett.
+(2) A jegyző, valamint az önálló költségvetési szervként vagy költségvetési szerv belső szervezeti egységeként létrehozott felügyelet esetén a költségvetési szerv vezetője haladéktalanul értesíti a minisztert arról, ha a felügyelő szolgálati igazolványának visszavonására okot adó körülmény bekövetkezett.
 
-(3) A miniszter haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a hatósági szolgálati igazolványt határozattal visszavonja, ha
+(3) A miniszter haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a szolgálati igazolványt határozattal visszavonja, ha
 
 - a) a felügyelő közszolgálati jogviszonya megszűnt,
-- b) a hatósági szolgálati igazolványban szereplő adatok megváltoztak.
+- b) a szolgálati igazolványban szereplő adatok megváltoztak.
 
-13/A. § (1) A miniszter a felügyelőkről, a számukra kiadott hatósági szolgálati igazolványról, valamint az egyedi azonosító számmal ellátott felügyelői jelvényről – a hatósági szolgálati igazolványok hitelességének és a felügyelők azonosításának céljából – nyilvántartást vezet.
+13/A. § (1) A miniszter a felügyelőkről, a számukra kiadott szolgálati igazolványról, valamint az egyedi azonosító számmal ellátott felügyelői jelvényről – a hatósági szolgálati igazolványok hitelességének és a felügyelők azonosításának céljából – nyilvántartást vezet.
 
 (2) A nyilvántartás tartalmazza
 
@@ -139,11 +139,11 @@ haladéktalanul törli.
   - ab) születési helyét és idejét,
   - ac) lakcímét,
 - b) a munkáltató szerv megnevezését és címét,
-- c) a hatósági szolgálati igazolvány és a felügyelői jelvény sorszámát.
+- c) a szolgálati igazolvány és a felügyelői jelvény sorszámát.
 
 (3) A nyilvántartásból adattovábbításra irányuló kérelmet teljesíteni nem lehet.
 
-(4) A miniszter a nyilvántartásban szereplő adatokat a hatósági szolgálati igazolvány visszavonásáig kezeli a nyilvántartásban.
+(4) A miniszter a nyilvántartásban szereplő adatokat a szolgálati igazolvány visszavonásáig kezeli a nyilvántartásban.
 
 (5) A felügyelő neve, a munkáltató szerv megnevezése és címe közérdekből nyilvános adat, amelyet a miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
@@ -260,7 +260,7 @@ alkalmazhat.
   - ba) a kerékbilincs alkalmazásával, a járművek elszállításával, valamint az ezen intézkedések során felmerült költségekkel kapcsolatos szabályokat;
   - bb) a felügyelői intézkedések, továbbá a testi erő, a könnygázszóró palack, a szolgálati kutya alkalmazásának eljárási szabályait, a könnygázszóró palack igénylésének rendjét, átvételének, illetve visszavételének szabályait, a térítés módját;
   - bc) az egyenruhára vonatkozó szabályokat;
-  - bd) a hatósági szolgálati igazolvány kiállítására, a felügyelői jelvénnyel és a felügyelőkkel kapcsolatos nyilvántartás vezetésének eljárási szabályait;
+  - bd) a szolgálati igazolvány kiállítására, a felügyelői jelvénnyel és a felügyelőkkel kapcsolatos nyilvántartás vezetésének eljárási szabályait;
   - be) a felügyelők szakmai és vizsgáztatási követelményrendszerét;
   - bf) a közterület-felügyelet által üzemeltetett képfelvevő technikai követelményeit.
 

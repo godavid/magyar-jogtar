@@ -2,7 +2,7 @@
 
 a menedékjogról
 
-Az Országgyűlés a hazájukat elhagyni kényszerülők emberi jogainak és alapvető szabadságainak védelmére,figyelemmel a Magyar Köztársaság nemzetközi kötelezettségeire, valamint a nemzetközi jog általánosan elismert alapelveire,az Európai Unió menekültpolitikája, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség létrehozásához fűződő érdek szem előtt tartásával,tiszteletben tartva a nemzeti migrációs hagyományokat és a nemzetközi közösség befogadó szellemiségét,elismerve és támogatva a védelemben részesülők segítésében részt vállaló egyesületek tevékenységét,az Alkotmány 65. §-ában foglaltak végrehajtása érdekében
+Az Országgyűlés a hazájukat elhagyni kényszerülők emberi jogainak és alapvető szabadságainak védelmére,figyelemmel Magyarország nemzetközi kötelezettségeire, valamint a nemzetközi jog általánosan elismert alapelveire,az Európai Unió menekültpolitikája, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség létrehozásához fűződő érdek szem előtt tartásával,tiszteletben tartva a nemzeti migrációs hagyományokat és a nemzetközi közösség befogadó szellemiségét,elismerve és támogatva a védelemben részesülők segítésében részt vállaló egyesületek tevékenységét,
 
 a menedékjogról a következő törvényt alkotja:
 
@@ -10,7 +10,7 @@ a menedékjogról a következő törvényt alkotja:
 
 ### A törvény hatálya
 
-1. § (1) E törvény szabályozza a Magyar Köztársaság által nyújtott menedékjog tartalmát, a menekültként, oltalmazottként, valamint menedékesként történő elismerés (a továbbiakban együtt: elismerés) feltételeit, továbbá az elismerésre, illetve annak visszavonására irányuló eljárást.
+1. § (1) E törvény szabályozza a Magyarország által nyújtott menedékjog tartalmát, a menekültként, oltalmazottként, valamint menedékesként történő elismerés (a továbbiakban együtt: elismerés) feltételeit, továbbá az elismerésre, illetve annak visszavonására irányuló eljárást.
 
 (2) E törvény rendelkezéseit arra a külföldire kell alkalmazni, aki elismerés iránti kérelmet nyújtott be, vagy menedékjogot élvez.
 
@@ -20,16 +20,16 @@ a menedékjogról a következő törvényt alkotja:
 
 - a) külföldi: a nem magyar állampolgár és a hontalan;
 - b) hontalan: akit saját joga szerint egyetlen állam sem ismer el állampolgárának;
-- c) menedékjog: jogcím a Magyar Köztársaság területén való tartózkodásra, egyidejű védelem a visszaküldés, a kiutasítás és a kiadatás ellen;
+- c) menedékjog: jogcím Magyarország területén való tartózkodásra, egyidejű védelem a visszaküldés, a kiutasítás és a kiadatás ellen;
 - d) kiegészítő védelem: az oltalmazottat megillető jogok és az őt terhelő kötelezettségek összessége;
 - e) ideiglenes védelem: a menedékest megillető jogok és az őt terhelő kötelezettségek összessége;
-- f) kísérő nélküli kiskorú: az a tizennyolcadik életévét be nem töltött külföldi, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett a Magyar Köztársaság területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
+- f) kísérő nélküli kiskorú: az a tizennyolcadik életévét be nem töltött külföldi, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett Magyarország területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
 - g) származási ország: az állampolgárság, illetve hontalan személy esetén a szokásos tartózkodási hely szerinti ország vagy országok;
 - h) biztonságos származási ország: az az ország, amely szerepel az Európai Unió Tanácsának a biztonságos származási országnak tekintendő harmadik országokról szóló minimumlistáján, illetve a Kormány rendeletében nemzeti szinten biztonságosnak nyilvánított származási országok listáján, vagy ezen listákon lévő országok egy része; a származási országnak bármelyik listán való szereplése az elismerést kérő személy tekintetében megdönthető vélelmet állít fel, amely szerint ebben az országban, illetőleg az ország egy részében általában és következetesen nem tapasztalható üldöztetés, nem alkalmaznak kínzást, sem kegyetlen, embertelen vagy megalázó bánásmódot vagy büntetést, és amely ország ezen jogok és szabadságok megsértése ellen hatékony jogorvoslati rendszert biztosít;
 - i) biztonságos harmadik ország: az az ország, amelyre vonatkozóan a menekültügyi hatóság meggyőződött arról, hogy a kérelmező az alábbi elvekkel összhangban lévő bánásmódban részesül:
   - ia) az életét és a szabadságát nem fenyegeti veszély faji, vallási okból, nemzeti hovatartozása, valamely társadalmi csoporthoz való tartozása vagy politikai meggyőződés miatt, illetve nincs kitéve súlyos sérelem veszélyének;
   - ib) a genfi egyezménnyel összhangban tiszteletben tartják a visszaküldés tilalmának elvét;
-  - ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol halálbüntetésnek, kínzásnak, kegyetlen, embertelen vagy megalázó bánásmódnak vagy büntetésnek lenne kitéve; és
+  - ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve; és
   - id) a menekültkénti elismerés kérelmezésének lehetősége biztosított, és a menekültkénti elismerés esetén biztosított a genfi egyezménnyel összhangban álló védelem;
 - j) családtag: a külföldi
   - ja) kiskorú gyermeke (ideértve az örökbefogadott és a nevelt gyermeket is),
@@ -41,7 +41,7 @@ a menedékjogról a következő törvényt alkotja:
 
 3. § (1) E törvény rendelkezéseit a menekültek helyzetére vonatkozó 1951. évi július hó 28. napján elfogadott egyezménnyel, valamint a menekültek helyzetére vonatkozóan az 1967. évi január hó 31. napján létrejött jegyzőkönyvvel (a továbbiakban: Genfi Egyezmény), valamint az emberi jogok és az alapvető szabadságok védelméről szóló, Rómában, 1950. november 4-én kelt Egyezménnyel összhangban kell alkalmazni.
 
-(2) A Magyar Köztársaság által menekültként, oltalmazottként, valamint menedékesként elismert személy menedékjogot élvez.
+(2) Magyarország által menekültként, oltalmazottként, valamint menedékesként elismert személy menedékjogot élvez.
 
 4. § (1) E törvény rendelkezéseinek alkalmazása során a gyermek mindenek felett álló érdekének és jogainak figyelembevételével kell eljárni.
 
@@ -53,7 +53,7 @@ a menedékjogról a következő törvényt alkotja:
 
 5. § (1) Az elismerését kérő jogosult
 
-- a) az e törvényben meghatározott feltételek szerint a Magyar Köztársaság területén való tartózkodásra, valamint a Magyar Köztársaság területén való tartózkodásra jogosító – külön jogszabályban meghatározott – engedélyre;
+- a) az e törvényben meghatározott feltételek szerint Magyarország területén való tartózkodásra, valamint Magyarország területén való tartózkodásra jogosító – külön jogszabályban meghatározott – engedélyre;
 - b) az e törvényben és külön jogszabályban meghatározott feltételek szerint ellátásra, támogatásra és szállásra;
 - c) az elismerés iránti kérelem benyújtásától számított egy éven belül a befogadó állomás területén, azt követően a külföldiekre vonatkozó általános szabályok szerint történő munkavégzésre;
 - d) a menekültügyi eljárás időtartama alatt az Egyesült Nemzetek Szervezete Menekültügyi Főbiztosságával, illetve más nemzetközi vagy egyesülettel való kapcsolat felvételére és fenntartására.
@@ -68,7 +68,7 @@ a menedékjogról a következő törvényt alkotja:
 
 ### III. Fejezet — A MENEKÜLT
 
-6. § (1) A Magyar Köztársaság menekültként ismeri el azt a külföldit, aki faji, illetve vallási okok, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, politikai meggyőződése miatti üldöztetése vagy az üldözéstől való megalapozott félelme miatt származási országán kívül tartózkodik, és nem tudja, vagy az üldözéstől való félelmében nem kívánja a származási országa védelmét igénybe venni.
+6. § (1) Magyarország menekültként ismeri el azt a külföldit, akinek az esetében az Alaptörvény XIV. cikk (3) bekezdésében meghatározott feltételek fennállnak.
 
 (2) Az üldözéstől való megalapozott félelem alapulhat olyan eseményeken is, amelyek azt követően következtek be, hogy a külföldi a származási országát elhagyta, vagy a külföldi olyan tevékenységén, amelyet a származási országa elhagyását követően fejtett ki.
 
@@ -80,7 +80,7 @@ a menedékjogról a következő törvényt alkotja:
 
 (2) A család egységének biztosítása céljából – a 8. § (1) bekezdésben foglalt kivétellel – kérelmére menekültként kell elismerni az (1) bekezdés alapján menekültként elismert külföldi családtagját is.
 
-(3) Ha a menekültként elismert külföldinek a Magyar Köztársaság területén gyermeke születik, kérelmére a gyermeket menekültként kell elismerni.
+(3) Ha a menekültként elismert külföldinek Magyarország területén gyermeke születik, kérelmére a gyermeket menekültként kell elismerni.
 
 (4) Az idegenrendészetért és menekültügyért felelős miniszter (a továbbiakban: miniszter) a menekültkénti elismerés feltételei fennállásának hiányában kivételes méltányosságból menekültként ismerheti el azt a külföldit, akinek az elismerését humanitárius ok indokolja, feltéve, hogy a külföldi menekültkénti elismerését kizáró ok nem áll fenn.
 
@@ -114,7 +114,7 @@ a menedékjogról a következő törvényt alkotja:
 
 - a) a menekültügyi hatósággal együttműködni;
 - b) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni;
-- c) a Magyar Köztársaság jogszabályait megtartani.
+- c) Magyarország jogszabályait megtartani.
 
 ### A menekült jogállás megszűnése
 
@@ -141,7 +141,7 @@ a menedékjogról a következő törvényt alkotja:
 
 ### IV. Fejezet — AZ OLTALMAZOTT
 
-12. § (1) A Magyar Köztársaság oltalmazottként kiegészítő védelemben részesíti azt a külföldit, aki nem felel meg a menekültkénti elismerés feltételeinek, de fennáll annak a veszélye, hogy származási országába történő visszatérése esetén őt súlyos sérelem érné, és nem tudja, vagy az e veszélytől való félelmében nem kívánja a származási országa védelmét igénybe venni.
+12. § (1) Magyarország oltalmazottként kiegészítő védelemben részesíti azt a külföldit, aki nem felel meg a menekültkénti elismerés feltételeinek, de fennáll annak a veszélye, hogy származási országába történő visszatérése esetén őt súlyos sérelem érné, és nem tudja, vagy az e veszélytől való félelmében nem kívánja a származási országa védelmét igénybe venni.
 
 (2) A súlyos sérelemtől vagy a sérelem veszélyétől való félelem alapulhat olyan eseményeken is, amelyek azt követően következtek be, hogy a külföldi a származási országát elhagyta, vagy a külföldi olyan tevékenységén, amelyet a származási országa elhagyását követően fejtett ki.
 
@@ -154,7 +154,7 @@ a menedékjogról a következő törvényt alkotja:
 - a) az elismerés iránt közös kérelmet nyújtottak be, vagy
 - b) a családtag az elismerés iránti kérelmet az oltalmazottként elismert külföldi hozzájárulásával, az őt oltalmazottként elismerő határozat meghozatala előtt nyújtotta be.
 
-(3) Ha az oltalmazottként elismert külföldinek a Magyar Köztársaság területén gyermeke születik, kérelmére a gyermeket oltalmazottként kell elismerni.
+(3) Ha az oltalmazottként elismert külföldinek Magyarország területén gyermeke születik, kérelmére a gyermeket oltalmazottként kell elismerni.
 
 14. § A menekültügyi hatóság az oltalmazottkénti elismerés feltételeinek fennállását az elismerést követően legalább ötévente felülvizsgálja.
 
@@ -166,13 +166,13 @@ a menedékjogról a következő törvényt alkotja:
   - aa) nemzetközi dokumentumokban meghatározott béke elleni, háborús vagy emberiesség elleni bűncselekményt követett el;
   - ab) olyan bűncselekményt követett el, amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli;
   - ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
-- b) akinek a Magyar Köztársaság területén való tartózkodása a nemzetbiztonságot sérti.
+- b) akinek Magyarország területén való tartózkodása a nemzetbiztonságot sérti.
 
 ### Oltalmazottak biztonságos származási országokból és biztonságos harmadik országokból
 
 16. § (1) Ha az elismerését kérő származási országa szerepel a biztonságos származási országok európai uniós vagy nemzeti listáján, az elismerését kérőnek kell bizonyítania, hogy az elismerését kérő vonatkozásában származási országa nem felel meg a biztonságos származási országokra meghatározott feltételeknek.
 
-(2) Ha az elismerését kérő a Magyar Köztársaság területére érkezését megelőzően biztonságos harmadik ország területén tartózkodott vagy átutazott, az elismerését kérőnek kell bizonyítania, hogy ebben az országban nem volt lehetősége hatékony védelemre a 2. § i) pontjában foglaltak értelmében.
+(2) Ha az elismerését kérő Magyarország területére érkezését megelőzően biztonságos harmadik ország területén tartózkodott vagy átutazott, az elismerését kérőnek kell bizonyítania, hogy ebben az országban nem volt lehetősége hatékony védelemre a 2. § i) pontjában foglaltak értelmében.
 
 ### Az oltalmazott jogállása
 
@@ -208,7 +208,7 @@ a menedékjogról a következő törvényt alkotja:
 
 ### V. Fejezet — A MENEDÉKES
 
-19. § A Magyar Köztársaság menedékesként ideiglenes védelemben részesíti azt a külföldit, aki a Magyar Köztársaság területére tömegesen menekülők olyan csoportjába tartozik, amelyet
+19. § Magyarország menedékesként ideiglenes védelemben részesíti azt a külföldit, aki Magyarország területére tömegesen menekülők olyan csoportjába tartozik, amelyet
 
 - a) az Európai Unió Tanácsa – a lakóhelyüket elhagyni kényszerült személyek tömeges beáramlása esetén nyújtandó átmeneti védelem minimumkövetelményeiről, valamint a tagállamok e személyek befogadása és a befogadás következményeinek viselése tekintetében tett erőfeszítései közötti egyensúly előmozdítására irányuló intézkedésekről szóló, 2001. július 20-i, 2001/55/EK tanácsi irányelvben (a továbbiakban: 2001/55/EK irányelv) meghatározott eljárás szerint – ideiglenes védelemre jogosultként elismert, vagy
 - b) az Országgyűlés ideiglenes védelemre jogosultként ismert el, mivel a csoportba tartozó személyek hazájukból fegyveres konfliktus, polgárháború vagy etnikai összecsapás, illetve az emberi jogok általános, módszeres vagy durva megsértése – így különösen kínzás, kegyetlen, embertelen vagy megalázó bánásmód – miatt elmenekülni kényszerültek.
@@ -225,9 +225,9 @@ a menedékjogról a következő törvényt alkotja:
 
 - a) akiről megalapozottan feltételezhető, hogy
   - aa) nemzetközi dokumentumokban meghatározott béke elleni, háborús vagy emberiesség elleni bűncselekményt követett el;
-  - ab) a menedékeskénti elismerés iránti kérelem benyújtását megelőzően, a Magyar Köztársaság területén kívül súlyos, nem politikai bűncselekményt követett el;
+  - ab) a menedékeskénti elismerés iránti kérelem benyújtását megelőzően, Magyarország területén kívül súlyos, nem politikai bűncselekményt követett el;
   - ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
-- b) akinek a Magyar Köztársaság területén való tartózkodása nemzetbiztonsági érdeket sért;
+- b) akinek Magyarország területén való tartózkodása nemzetbiztonsági érdeket sért;
 - c) akiről jogerős bírói ítélet megállapította, hogy olyan bűncselekményt követett el, amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
 
 (2) Az (1) bekezdés a) pont ab) alpontja alkalmazása során súlyos, nem politikai bűncselekménynek minősül az a cselekmény, amelynek elkövetésénél – figyelemmel az összes körülményre, így a bűncselekmény által elérni kívánt célra, a bűncselekmény indítékára, az elkövetés módjára, a felhasznált vagy felhasználni kívánt eszközre – a bűncselekmény köztörvényi jellege túlnyomó a politikai jelleghez képest, és amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
@@ -246,7 +246,7 @@ a menedékjogról a következő törvényt alkotja:
 - a) szálláshelyét, valamint annak megváltozását a menekültügyi hatóságnak bejelenteni;
 - b) a menekültügyi hatósággal együttműködni;
 - c) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni;
-- d) a Magyar Köztársaság jogszabályait megtartani.
+- d) Magyarország jogszabályait megtartani.
 
 (3) Az (1) bekezdés a) pontja szerinti okmány megfelel a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben foglaltaknak.
 
@@ -477,7 +477,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 ### A visszaküldés tilalmának vizsgálata
 
-45. § (1) A visszaküldés tilalma fennáll, ha az elismerését kérő származási országában faji, illetve vallási okok, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, avagy politikai meggyőződése miatt üldöztetés veszélyének vagy halálbüntetésnek, kínzásnak, kegyetlen, embertelen vagy megalázó bánásmódnak vagy büntetésnek lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja.
+45. § (1) A visszaküldés tilalma fennáll, ha az elismerését kérő származási országában faji, illetve vallási okok, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, avagy politikai meggyőződése miatt üldöztetés veszélyének vagy az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja.
 
 (2) A kísérő nélküli kiskorú esetében a visszaküldés tilalma akkor is fennáll, ha a család egyesítése, illetve az állami vagy más intézményi gondoskodás sem a származási országában, sem az őt befogadó más államban nem biztosított.
 
@@ -487,7 +487,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (5) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés iránti kérelmet elutasító döntésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról.
 
-(6) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés visszavonására vonatkozó döntésében rendelkezik a külföldi Magyar Köztársaság által kiadott úti okmányának, továbbá személyazonosító igazolványának, valamint személyi azonosítót és lakcímet igazoló hatósági igazolványának vagy személyazonosságát igazoló okmányának elvételéről.
+(6) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés visszavonására vonatkozó döntésében rendelkezik a külföldi Magyarország által kiadott úti okmányának, továbbá személyazonosító igazolványának, valamint személyi azonosítót és lakcímet igazoló hatósági igazolványának vagy személyazonosságát igazoló okmányának elvételéről.
 
 (7)–(9)
 
@@ -514,7 +514,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 48. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerését kérő külföldit (e fejezetben a továbbiakban: kérelmező) az előzetes vizsgálati eljárást lezáró döntés vagy a 49. § (4) bekezdés alapján a kérelmező átadásáról hozott végzés jogerőre emelkedéséig befogadó állomáson helyezi el, kivéve, ha a kérelmező
 
 - a) személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban korábban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, vagy
-- b) jogszerűen tartózkodik a Magyar Köztársaság területén és nem kéri befogadó állomáson történő elhelyezését.
+- b) jogszerűen tartózkodik Magyarország területén és nem kéri befogadó állomáson történő elhelyezését.
 
 (1a) A menekültügyi hatóság a kísérő nélküli kiskorú gyermekvédelmi intézményben történő elhelyezéséről intézkedik.
 
@@ -748,7 +748,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 ### Repülőtéri eljárás
 
-72. § (1) Ha a külföldi a kérelmét a Magyar Köztársaság területére történő beléptetés előtt, a nemzetközi légiforgalmi határátkelőhelyen nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+72. § (1) Ha a külföldi a kérelmét Magyarország területére történő beléptetés előtt, a nemzetközi légiforgalmi határátkelőhelyen nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A kérelmezőt a repülőtéri eljárás során nem illetik meg az 5. § (1) bekezdés a) és c) pontjában foglalt jogosultságok.
 
@@ -756,7 +756,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (4) A repülőtéri eljárásban az előzetes vizsgálati eljárást nyolc napon belül le kell folytatni. Az előzetes vizsgálati eljárás során hozott döntés közléséről a menekültügyi hatóság haladéktalanul gondoskodik.
 
-(5) A kérelmezőt a Magyar Köztársaság területére be kell léptetni, ha
+(5) A kérelmezőt Magyarország területére be kell léptetni, ha
 
 - a) az előzetes vizsgálati eljárás érdemi eljárásra utaló végzéssel zárul, vagy
 - b) a kérelem benyújtásától számított nyolc nap eltelt.
@@ -1036,7 +1036,7 @@ igényelhetnek adatot.
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat.
 
-(2) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a Magyar Köztársaság által nemzeti szinten biztonságosnak nyilvánított származási országok listáját.
+(2) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg Magyarország által nemzeti szinten biztonságosnak nyilvánított származási országok listáját.
 
 (2a) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a 7. § (5) bekezdése alapján évente menekültként elismerhető külföldiek számát.
 

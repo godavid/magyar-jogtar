@@ -116,10 +116,6 @@ kell alkalmazni.
 
 138. § Aki részére az e törvény hatálybalépését megelőzően ,,A'' vagy ,,B'' típusú nyelvvizsga alapján a Hszt. 104. § (4) bekezdésében meghatározott mértéket meghaladó nyelvtudási pótlékot állapítottak meg, az a törvény hatálybalépésétől számított két éven belül köteles az adott nyelvből ,,C'' típusú nyelvvizsgát tenni. Ennek elmulasztása esetén ezt követően a meglévő vizsga típusának megfelelő mértékű nyelvtudási pótlékot kell részére megállapítani.
 
-139. § (1) Öregségi nyugdíjra jogosult az a polgármester – az egyéb jogosultsági feltételek esetén –, akinek a megbízatása a 2002. október 20-i polgármesteri választások során a Ptv. 2. § (1) bekezdés a) pontja szerint szűnt meg, feltéve, hogy legalább három választási ciklus során – de legalább tizenegy évig – foglalkoztatási jogviszonyban polgármesteri vagy alpolgármesteri tisztséget töltött be, és a tisztségének megszűnését követő hetedik naptári év végéig a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 7. §-ának (1), (4) és (5) bekezdésében meghatározott öregségi nyugdíjkorhatárt, illetve a korkedvezménnyel csökkentett, reá irányadó korhatárt elérte.
-
-(2) Az (1) bekezdés hatálya nem terjed ki arra a társadalmi megbízatású polgármesterre, foglalkoztatási jogviszonyban álló vagy társadalmi megbízatású alpolgármesterre, akinek a megbízatása a 2002. október 20-i polgármesteri választások során szűnt meg.
-
-(3) Az (1) bekezdésben foglalt jogosultság igénybevételéről a polgármester e törvény hatálybalépésétől számított három hónapon belül dönthet.
+139. §
 
 ### 1–3. számú melléklet2003. évi XLV. törvényhez

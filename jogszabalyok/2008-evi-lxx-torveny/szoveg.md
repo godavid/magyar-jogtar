@@ -62,7 +62,7 @@ Az Országgyűlés a villamos energiáról szóló 2007. évi LXXXVI. törvény 
 
 (2) A Hivatal eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(3) Az (1) bekezdés b) pontja szerinti összeg befizetésére a Hivatal 60 napos határidőt állapít meg. Ha a teljesítésre megállapított határidő eredménytelenül telt el, a Hivatal haladéktalanul megkeresi az állami adóhatóságot, hogy az a végrehajtás iránt az államháztartásról szóló 1992. évi XXXVIII. törvény 13/A. § (11) bekezdésében foglaltak alapján járjon el.
+(3) Az (1) bekezdés b) pontja szerinti összeg befizetésére a Hivatal 60 napos határidőt állapít meg. Ha a teljesítésre megállapított határidő eredménytelenül telt el, a Hivatal haladéktalanul megkeresi az állami adóhatóságot, hogy az a végrehajtás iránt az államháztartásról szóló 2011. évi CXCV. törvény 99. §-ában foglaltak alapján járjon el.
 
 (4) A határozat ellen nincs helye fellebbezésnek, újrafelvételi eljárásnak és méltányossági eljárásnak. A határozat felülvizsgálatát a bíróságtól lehet kérni. A Hivatal határozatának végrehajtására a keresetlevél benyújtásának nincs halasztó hatálya. A bíróság a Hivatal határozatát nem változtathatja meg.
 

@@ -6,13 +6,25 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 1. §
 
-2. § (1)–(2)
+2. § (1) A Vkt. 11. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Motoros vízi sporteszköz esetén – a (3) bekezdésben foglaltaktól eltérően – a tulajdonjogot és az üzembentartói jogot kell bejegyeztetni a kishajólajstromba.”
+
+(2) A Vkt. 11. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Amennyiben az úszólétesítményt – a motoros vízi sporteszköz kivételével – jelzálog terhelheti, a jelzálogjogot a lajstromba be kell jegyeztetni.”
 
 (3)
 
 3–8. §
 
-9. §
+9. § A Vkt. a következő 62/A. §-sal egészül ki:
+
+„62/A. § (1) Az üzembentartói vizsgálatot a víziközlekedési balesettel és a víziközlekedési eseménnyel érintett hajózási vállalkozás – e törvény 52. § (6) bekezdésében meghatározott – vezetője végzi.
+
+(2) A hajózási hatóság – a 61. § (1) bekezdésében meghatározott szakmai vizsgálattal összefüggésben történő kapcsolattartás biztosítása céljából – tájékoztatja a közlekedésbiztonsági szervet az általa kibocsátott hajózási engedélyek jogosultjairól és az 52. § (6) bekezdésében meghatározott vezető személyéről.
+
+(3) Az 52. § (6) bekezdésében meghatározott vezetőnek a víziközlekedési balesetek és víziközlekedési események vizsgálatával kapcsolatos feladatait a víziközlekedési balesetek és víziközlekedési események vizsgálatának részletes szabályairól szóló rendelet állapítja meg.”
 
 10–14. §
 
@@ -26,7 +38,31 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 #### 4. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-44. §
+44. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) a 32. §-t követően a következő alcímmel és 32/A. §-sal egészül ki:
+
+„BIZTONSÁGI SZERVEZET
+
+32/A. § (1) A vasúti közlekedés biztonsága érdekében a vasúti társaság vezetője közvetlen irányításában biztonsági szervezetet tart fenn. A vasúti társaság a biztonsági szervezet működtetésére más vasúti társasággal szerződést köthet. A biztonsági szervezettel rendelkező vasúti társaságok a biztonsági szervezetük feladatainak hatékony ellátása érdekében együttműködési szerződést köthetnek.
+
+(2) Az országos vasúti pályahálózatot működtető vasúti társaság a biztonsági szervezetet maga működteti.
+
+(3) A vasúti társaság a biztonsági szervezet feladatait a biztonságirányítási rendszerben látja el. Vasútbiztonsági tanúsítvány és vasútbiztonsági engedély megszerzésére nem kötelezett vasúti társaság esetében a biztonsági szervezet feladatait a vasútüzem-vezető is elláthatja.
+
+(4) Amennyiben a biztonsági szervezet a biztonságirányítási rendszer részét képezi,
+
+a) azt pályahálózat működtető vasúti társaság és integrált vasút társaság esetében a vasútbiztonsági engedélyben,
+
+b) egyéb esetben a vasútbiztonsági tanúsítványban
+
+hagyja jóvá a közlekedési hatóság.
+
+(5) Amennyiben a biztonsági szervezet a biztonságirányítási rendszer létrehozására nem kötelezett vasúti társaságban működik, a vasúti társaság e tevékenységére vonatkozó belső szabályzatát a közlekedési hatóság hagyja jóvá.
+
+(6) A közlekedési hatóság – a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott szakmai vizsgálattal összefüggésben történő kapcsolattartás biztosítása céljából – tájékoztatja a közlekedésbiztonsági szervet a kiadott és visszavont vasútbiztonsági engedélyekről és vasútbiztonsági tanúsítványokról, valamint a jóváhagyott szabályzatokról.
+
+(7) A biztonsági szervezet gondoskodik a súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események haladéktalan bejelentéséről, valamint a szükséges intézkedések meghozataláról, továbbá – a biztonságirányítási rendszerben foglalt kötelezettségekkel összhangban – az üzembentartói vizsgálat lefolytatására eseményvizsgáló szolgálatot tart fenn.
+
+(8) A biztonsági szervezettel kapcsolatos részletes szabályokat a súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események vizsgálatának részletes szabályairól szóló jogszabály állapítja meg.”
 
 45. §
 

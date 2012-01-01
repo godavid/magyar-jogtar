@@ -6,18 +6,26 @@ Az Országgyűlés a jelentős gazdasági károkat okozó és a közszolgáltat�
 
 ### Általános rendelkezések
 
-1. § (1) A törvény hatálya a fémkereskedelmi engedélyköteles anyaggal a Magyar Köztársaság területén végzett fémkereskedelmi tevékenységre, a fémkereskedelmi tevékenység engedélyezésére, valamint a fémkereskedelmi engedélyköteles anyagnak a Magyar Köztársaság területén teljesített értékesítésére, felvásárlására, továbbá begyűjtésére és hasznosítására terjed ki.
+1. § (1) E törvény hatálya a fémkereskedelmi engedélyköteles anyaggal Magyarország területén végzett fémkereskedelmi tevékenységre, a fémkereskedelmi tevékenység engedélyezésére, valamint a fémkereskedelmi engedélyköteles anyagnak Magyarország területén teljesített értékesítésére, felvásárlására, továbbá begyűjtésére és hasznosítására terjed ki.
 
 (2) Az e törvényben foglalt rendelkezések megtartása nem mentesít a hulladékgazdálkodással kapcsolatban külön jogszabályban meghatározott kötelezettségek teljesítése alól.
 
-2. § E törvény alkalmazásában:
+2. § (1) E törvény alkalmazásában:
 
-- a) fémkereskedelmi engedélyköteles anyag: a fémtermékek előállítását üzletszerűen folytató jogi személy vagy jogi személyiség nélküli szervezet által előállított elsődleges alapanyag, félgyártmány, továbbá a gumiabroncs és a csomagolás kivételével az e törvény mellékletében meghatározott fémet, annak törmelékét vagy ötvözetét tartalmazó tárgy,
-- b) fémkereskedelmi tevékenység: fémkereskedelmi engedélyköteles anyagnak a fémkereskedő által – a fémkereskedő vagy más személy által történő hasznosítás céljából – történő felvásárlása, fuvarozása, tárolása, raktározása és értékesítése,
+- a) fémkereskedelmi engedélyköteles anyag: a fémtermékek előállítását üzletszerűen folytató jogi személy vagy jogi személyiség nélküli szervezet által előállított elsődleges alapanyag, félgyártmány, továbbá – a gumiabroncs és a csomagolás kivételével – az e törvény mellékletében meghatározott fémet, annak törmelékét vagy ötvözetét tartalmazó tárgy,
+- b) fémkereskedelmi tevékenység: a (2) bekezdésben foglaltak kivételével a fémkereskedelmi engedélyköteles anyagnak a fémkereskedő által – a fémkereskedő vagy más személy által történő hasznosítás céljából – történő felvásárlása, fuvarozása, tárolása, raktározása és értékesítése,
 - c) fémkereskedő: a fémkereskedelmi engedély jogosultja,
 - d) begyűjtés: fémkereskedelmi engedélyköteles anyag ellenérték fizetése nélküli összegyűjtése és fémkereskedelmi tevékenységnek nem minősülő beszerzése,
 - e) felvásárlás: fémkereskedelmi engedélyköteles anyag ellenérték fejében történő üzletszerű beszerzése,
 - f) hasznosítás: fémkereskedelmi engedélyköteles anyag fémtartalmának feldolgozása, beolvasztása, megmunkálása, átalakítása.
+
+(2) Nem minősül fémkereskedelmi tevékenységnek a vállalkozónak
+
+- a) a hulladékká vált gépjárművek, illetve motorkerékpárok (a továbbiakban: jármű) megvételére, átvételére irányuló tevékenysége, ha az a jármű rendeltetésszerű működését, illetve használatát szolgáló alkatrészeinek, tartozékainak, valamint felszereléseinek kinyerése érdekében történik azért, hogy azokat – rendeltetésüknek megfelelően, újrahasználat végett – értékesíthesse (a továbbiakban: termék),
+- b) e termékek rendeltetésszerű használatra alkalmassá tételét, állaguk megőrzését, illetve értékesítését közvetlenül szolgáló tevékenysége, különösen a termékek javítása, karbantartása, tárolása, raktározása,
+- c) e termék értékesítésére irányuló tevékenysége, függetlenül attól, hogy az értékesíthető alkatrészek, tartozékok és felszerelések kinyerése mellett fémet, annak törmelékét vagy ötvözetét tartalmazó dolog is marad.
+
+(3) A vállalkozó a (2) bekezdésben foglalt tevékenysége során – az értékesíthető alkatrészek, tartozékok és felszerelések kinyerése mellett megmaradt fémet, annak törmelékét vagy ötvözetét tartalmazó, de rendeltetése szerint már nem felhasználható dolgot kizárólag fémkereskedőnek értékesítheti.
 
 ### Fémkereskedelmi engedélyköteles anyag begyűjtése
 
@@ -206,6 +214,8 @@ fémkereskedelmi engedélyköteles anyag hasznosítását.
 
 (2) A fémkereskedelmi hatóság eljárására az e törvényben nem szabályozott kérdésekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
+(3) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. A nyilvántartásba vételre és nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
+
 ### Felhatalmazó rendelkezések
 
 14. § Felhatalmazást kap a Kormány, hogy
@@ -234,11 +244,11 @@ fémkereskedelmi engedélyköteles anyag hasznosítását.
 
 16–18. §
 
-19. § A törvény megalkotására irányuló törvényjavaslatnak a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
+19. § E törvény megalkotására irányuló törvényjavaslatnak a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
 
 ### Melléklet a 2009. évi LXI. törvényhez
 
-A törvény 2. § a) pontjában megjelölt fémek felsorolása
+A 2. § a) pontjában megjelölt fémek felsorolása
 
 1. Alumínium
 

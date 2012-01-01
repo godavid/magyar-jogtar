@@ -8,10 +8,10 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 1. § (1) E törvény rendelkezéseit kell alkalmazni:
 
-- a) a Magyar Köztársaság területéről nyújtott, valamint a Magyar Köztársaság területére irányuló információs társadalommal összefüggő szolgáltatásra;
+- a) a Magyarország területéről nyújtott, valamint a Magyarország területére irányuló információs társadalommal összefüggő szolgáltatásra;
 - b) az a) pontban meghatározott szolgáltatás tekintetében igénybevevőnek, illetve szolgáltatónak minősülő természetes, illetve jogi személyre vagy jogi személyiség nélküli szervezetre.
 
-(2) Az Európai Gazdasági Térségről szóló megállapodás más részes állama területén letelepedett, a Magyar Köztársaság területére irányuló szolgáltatást nyújtó szolgáltatókra a szabályozott területtel kapcsolatos követelmények nem terjednek ki.
+(2) Az Európai Gazdasági Térségről szóló megállapodás más részes állama területén letelepedett, Magyarország területére irányuló szolgáltatást nyújtó szolgáltatókra a szabályozott területtel kapcsolatos követelmények nem terjednek ki.
 
 (3) E törvény hatálya nem terjed ki a bírósági, illetőleg egyéb hatósági eljárásban nyújtott és felhasznált információs társadalommal összefüggő szolgáltatásra és nem érinti a személyes adatok védelmére vonatkozó jogszabályok alkalmazását.
 
@@ -27,8 +27,8 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 - d) Igénybevevő: az a természetes, illetve jogi személy vagy jogi személyiség nélküli szervezet, aki/amely információs társadalommal összefüggő szolgáltatást vesz igénybe;
 - e) Információ: bármely, elektronikus úton feldolgozható, tárolható, továbbítható adat, jel, kép tekintet nélkül arra, hogy annak tartalma jogi védelemben részesül-e;
 - f) Információs társadalommal összefüggő szolgáltatás: elektronikus úton, távollevők részére, rendszerint ellenszolgáltatás fejében nyújtott szolgáltatás, amelyhez a szolgáltatás igénybe vevője egyedileg fér hozzá;
-- g) Magyar Köztársaság területére irányuló szolgáltatás: minden olyan szolgáltatás, melyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybevevők számára kívánják elérhetővé tenni;
-- h) Magyar Köztársaság területéről nyújtott szolgáltatás: a Magyar Köztársaság területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
+- g) Magyarország területére irányuló szolgáltatás: minden olyan szolgáltatás, melyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybevevők számára kívánják elérhetővé tenni;
+- h) Magyarország területéről nyújtott szolgáltatás: Magyarország területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
 - i) Szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott szakma;
 - j)
 - k) Szolgáltató: az információs társadalommal összefüggő szolgáltatást nyújtó természetes, illetve jogi személy vagy jogi személyiség nélküli szervezet;
@@ -43,7 +43,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 - p)
 - q)
 - r)
-- s) Szabályozott terület: az információs társadalommal összefüggő szolgáltatásokra és a szolgáltatókra jogszabályban meghatározott általános vagy különös követelmények, amelyek a Magyar Köztársaság területén üzletszerű gazdasági tevékenység megkezdéséhez vagy folytatásához szükségesek;
+- s) Szabályozott terület: az információs társadalommal összefüggő szolgáltatásokra és a szolgáltatókra jogszabályban meghatározott általános vagy különös követelmények, amelyek Magyarország területén üzletszerű gazdasági tevékenység megkezdéséhez vagy folytatásához szükségesek;
 - t) Vállalkozás: a természetes személy, jogi személy, jogi személyiség nélküli szervezet – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is –, aki, illetve amely önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el;
 - v) Fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
 
@@ -58,7 +58,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 - a) az információs társadalommal összefüggő szolgáltatás útján végzett tevékenységre külön jogszabályban, nem az elektronikus úton történő szolgáltatásnyújtásra tekintettel előírt minősítési, képesítési, engedélyezési vagy bejelentési kötelezettséget; valamint
 - b) az elektronikus hírközlésről szóló törvényben, illetve a törvény felhatalmazása alapján megalkotott jogszabályban előírt engedélyezési, illetve bejelentési kötelezettséget.
 
-3/A. § (1) Az Európai Gazdasági Térségről szóló megállapodás más részes államai területén letelepedett szolgáltató által a Magyar Köztársaság területére irányuló szolgáltatás nem korlátozható, kivéve, ha az érintett hatóság vagy bíróság intézkedése
+3/A. § (1) Az Európai Gazdasági Térségről szóló megállapodás más részes államai területén letelepedett szolgáltató által a Magyarország területére irányuló szolgáltatás nem korlátozható, kivéve, ha az érintett hatóság vagy bíróság intézkedése
 
 - a) az alábbi érdekek valamelyikének védelmében szükséges:
   - aa) a közrend, különösen a bűncselekmények megelőzése, nyomozása, felderítése és üldözése, ideértve a kiskorúak védelmét és a faji, nemi, vallási vagy nemzeti alapú bármilyen gyűlöletre uszítás és az egyének emberi méltóságának megsértése elleni fellépést,
@@ -328,7 +328,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (2) Az elektronikus kereskedelmi bírság összegét az eset összes körülményeire – így különösen az igénybe vevők, illetve az elektronikus hirdetés címzettjei érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt jellegére – tekintettel kell meghatározni. A bírság többszörös jogsértés esetén ismételten is kiszabható.
 
-(3) Az elektronikus kereskedelmi bírságot a Hatóság számlájára kell megfizetni. A jogerősen kiszabott és be nem fizetett bírságot adók módjára és azokkal egy sorban kell behajtani.
+(3) Az elektronikus kereskedelmi bírságot a Hatóság számlájára kell megfizetni.
 
 (4) A Hatóság az ügydöntő határozat meghozataláig terjedő időtartamra végzésében azonnali hatállyal megtilthatja a jogsértő magatartás további folytatását, illetve elrendelheti a jogsértő állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme miatt – halaszthatatlanul szükség van. E döntését a Hatóság soron kívül hozza meg. A Hatóság végzése ellen önálló fellebbezésnek van helye, amelyet a Hatóság Tanácsának elnöke bírál el.
 
@@ -349,7 +349,7 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 - a) a közzététel e törvény szerinti jogcímét,
 - b) a megállapított tényállást,
 - c) a döntés rendelkező részét a jogorvoslat lehetőségéről szóló tájékoztatás kivételével, valamint
-- d) a határozattal szembeni bírósági felülvizsgálat, felügyeleti eljárás vagy ügyészi óvás tényét és – amennyiben rendelkezésre áll – azok eredményét.
+- d) a határozattal szembeni bírósági felülvizsgálat, felügyeleti eljárás vagy az ügyészi felhívás tényét és – amennyiben rendelkezésre áll – azok eredményét.
 
 (5) A Hatóság a 16/D. § (1) bekezdésének c) pontja szerinti hatósági szerződésről közleményt tesz közzé a honlapján. A közleménynek tartalmaznia kell:
 
@@ -375,7 +375,7 @@ látja el.
 17. § (1) Az informatikáért felelős miniszter köteles
 
 - a) tájékoztatni az Európai Bizottságot arról, hogy az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi kérdéseiről szóló 2000/31/EK európai parlamenti és tanácsi irányelv 9. cikk (2) bekezdés a)–d) pontjában meghatározott szerződések közül melyek nem köthetők meg érvényesen elektronikus úton (a továbbiakban: kivételek),
-- b) ötévenként jelentést tenni az Európai Bizottságnak a kivételek alkalmazásáról, és abban megindokolni, hogy miért tartja a Magyar Köztársaság szükségesnek bírósági, hatósági vagy egyéb közhatalmat gyakorló személyek jogszabályban előírt kötelező közreműködésével kötött szerződésekre a kivétel fenntartását.
+- b) ötévenként jelentést tenni az Európai Bizottságnak a kivételek alkalmazásáról, és abban megindokolni, hogy miért tartja Magyarország szükségesnek bírósági, hatósági vagy egyéb közhatalmat gyakorló személyek jogszabályban előírt kötelező közreműködésével kötött szerződésekre a kivétel fenntartását.
 
 (2) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 

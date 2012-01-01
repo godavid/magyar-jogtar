@@ -48,7 +48,7 @@ az egyes szociális tárgyú törvények módosításáról
 
 (4) Az Szt. 68. §-ának (4) bekezdésében meghatározott, idősek otthonán belüli intenzív gondozási részlegre, gondozási csoportra vonatkozó szabályt 2006. január 1-jétől kell alkalmazni.
 
-(5) Az Szt. 85/C. §-ának (5) bekezdésében meghatározott, megyei, fővárosi önkormányzat által kialakítandó speciális intézményre vonatkozó szabályt 2005. január 1-jétől kell alkalmazni.
+(5)
 
 (6) Az Szt. 90. §-ának (2) bekezdésében meghatározott, megyei jogú városok ellátási kötelezettségére vonatkozó szabályt 2005. január 1-jétől kell alkalmazni.
 

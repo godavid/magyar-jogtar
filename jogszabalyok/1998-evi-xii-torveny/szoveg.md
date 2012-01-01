@@ -2,13 +2,13 @@
 
 a külföldre utazásról
 
-Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezésekre figyelemmel – az Emberi Jogok Egyetemes Nyilatkozatával, a Polgári és Politikai Jogok Nemzetközi Egyezségokmányával, valamint az Emberi Jogok Európai Egyezményével összhangban – a külföldre utazásról és az úti okmányokról a következő törvényt alkotja:
+Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – az Emberi Jogok Egyetemes Nyilatkozatával, a Polgári és Politikai Jogok Nemzetközi Egyezségokmányával, valamint az Emberi Jogok Európai Egyezményével összhangban – a külföldre utazásról és az úti okmányokról a következő törvényt alkotja:
 
 ### I. Fejezet — Alapvető rendelkezések
 
-1. § (1) A Magyar Köztársaság területének elhagyása – beleértve a külföldi letelepedés szándékával történő kiutazást is – alkotmányos alapjog, amely minden magyar állampolgárt és az országban jogszerűen tartózkodó külföldit megillet. A külföldre utazás joga törvényben meghatározottak szerint gyakorolható, illetőleg korlátozható.
+1. § (1) Magyarország területét minden magyar állampolgár és az országban jogszerűen tartózkodó külföldi szabadon elhagyhatja, ide értve a külföldi letelepedés szándékával történő kiutazást is. A külföldre utazás joga törvényben meghatározottak szerint gyakorolható, illetve korlátozható.
 
-(2) A magyar állampolgár külföldről bármikor hazatérhet. A hazatérés joga e törvényben foglalt feltételek hiányában sem tagadható meg, nem korlátozható, illetőleg feltételhez nem köthető.
+(2) A magyar állampolgárt az Alaptörvény XIV. cikk (1) bekezdése alapján megillető hazatérés joga nem tagadható meg, nem korlátozható, feltételhez nem köthető.
 
 (3) A külföldre utazás joga érvényes úti okmánnyal gyakorolható. A magyar állampolgár érvényes személyazonosító igazolvánnyal is gyakorolhatja a külföldre utazás jogát EGT-állam területére történő beutazáskor, valamint nemzetközi szerződés alapján, illetve ha azt EGT-államnak nem minősülő állam belső joga biztosítja, amely tényt, illetve annak megszűnését az adott állam értesítését követően a külpolitikáért felelős miniszter a Hivatalos Értesítőben és honlapján haladéktalanul közzétesz.
 
@@ -27,7 +27,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezése
 4. § E törvény alkalmazásában
 
 - a) úti okmány: az útlevél, valamint nemzetközi szerződésben, továbbá a Kormány rendeletében meghatározott, a külföldre utazásra, illetőleg az onnan való visszatérésre jogosító hatósági igazolvány, bizonyítvány vagy irat;
-- b) útlevél: a Magyar Köztársaság tulajdonát képező hatósági igazolvány, amely birtokosának személyazonosságát és állampolgárságát, valamint a világ összes országába utazásra, illetőleg hazatérésre való jogosultságát hitelesen igazolja;
+- b) útlevél: Magyarország tulajdonát képező hatósági igazolvány, amely birtokosának személyazonosságát és állampolgárságát, valamint a világ összes országába utazásra, illetve hazatérésre való jogosultságát hitelesen igazolja;
 - c) útlevélhatóság: az úti okmány kiadására, visszavonására, az utazás e törvény szerint történő engedélyezésére, illetőleg korlátozására feljogosított közigazgatási szerv;
 - d) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
@@ -100,7 +100,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezése
 - a) annak a külföldön tartózkodó magyar állampolgárnak a hazatérése céljából, aki külföldre utazást korlátozó rendelkezés hatálya alatt áll, és nem rendelkezik személyazonosító igazolvánnyal,
 - b) annak a külföldön tartózkodó magyar állampolgárnak, akire nézve a tartózkodási helye szerinti külföldi állam illetékes hatósága az ország területének elhagyását rendelte el, és nem rendelkezik érvényes útlevéllel vagy személyazonosító igazolvánnyal.
 
-(4) Az ideiglenes magánútlevél a Magyar Köztársaság területére történő egyszeri beutazásra jogosít.
+(4) Az ideiglenes magánútlevél Magyarország területére történő egyszeri beutazásra jogosít.
 
 ### A hivatalos útlevél
 
@@ -108,24 +108,25 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezése
 
 (2) Hivatalos útlevél – a diplomata-útlevél kivételével – kizárólag hivatalos utazás céljára használható fel.
 
-(3) A hivatalos útlevél rendeltetésszerű felhasználásáról és kezeléséről az utazást elrendelő, illetőleg az útlevél kiadására javaslatot tevő szerv, az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke [12. § (1) bekezdés f) pont] diplomata-útlevele esetében az Országgyűlés Hivatala gondoskodik.
+(3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke [12. § (1) bekezdés f) pont] diplomata-útlevele esetében az Országgyűlés Hivatala – végzi.
 
 12. § (1) Diplomata-útlevélre jogosult
 
-- a) a köztársasági elnök, az Alkotmánybíróság elnöke, valamint a Legfelsőbb Bíróság elnöke;
+- a) a köztársasági elnök, az Alkotmánybíróság elnöke, valamint a Kúria elnöke;
 - b) az országgyűlési képviselő és az Európai Parlament magyarországi képviselője;
-- c) az országgyűlési biztos, a Legfelsőbb Bíróság elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei, a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei;
+- c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei, a Pénzügyi Szervezetek Állami Felügyeletének elnöke és alelnökei;
 - d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
-- e) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai vagy konzuli ranggal rendelkező munkatársa, a Magyar Köztársaság diplomáciai képviselete diplomáciai személyzetének tagja, a Magyar Köztársaság konzuli képviselete konzuli tisztviselője, nemzetközi jogon alapuló diplomáciai kiváltságot és mentességet élvező egyéb személy, diplomáciai és konzuli futár;
-- f) az a)–e) pontban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, eltartott gyermeke.
+- e) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai vagy konzuli ranggal rendelkező munkatársa, Magyarország diplomáciai képviselete diplomáciai személyzetének tagja, Magyarország konzuli képviselete konzuli tisztviselője, nemzetközi jogon alapuló diplomáciai kiváltságot és mentességet élvező egyéb személy, diplomáciai és konzuli futár;
+- f) az a)–e) pontban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, eltartott gyermeke;
+- g) a Honvéd Vezérkar főnöke és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és helyettesei, a katonai külképviseletek vezetői és helyetteseik, továbbá e személyekkel hivatalos célból együtt utazó, közös háztartásban élő házastárs.
 
 (2) Kizárólag utazásának időtartamára érvényes diplomata-útlevelet kaphat az a személy is, aki a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke vagy a külpolitikáért felelős miniszter megbízásából diplomáciai küldetéssel utazik külföldre, továbbá az, akinek az útlevéllel történő ellátását rendkívül indokolt esetben az irányítást (felügyeletet) gyakorló miniszter javaslatára a külpolitikáért felelős miniszter engedélyezte.
 
 13. § (1) Külügyi szolgálati útlevélre jogosult
 
 - a) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai ranggal nem rendelkező munkatársa;
-- b) a Magyar Köztársaság diplomáciai képviseletének igazgatási és műszaki személyzete, illetőleg kisegítő személyzetének tagja;
-- c) a Magyar Köztársaság konzuli képviselete konzuli alkalmazottja és kisegítő személyzetének tagja;
+- b) Magyarország diplomáciai képviseletének igazgatási és műszaki személyzete, illetőleg kisegítő személyzetének tagja;
+- c) Magyarország konzuli képviselete konzuli alkalmazottja és kisegítő személyzetének tagja;
 - d) a nemzetközi jogon alapuló mentességet élvező más személy;
 - e) az a)–d) pontok szerint jogosult személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa és eltartott gyermeke.
 
@@ -133,14 +134,16 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezése
 
 14. § (1) Az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában a szerv vagy hivatal vezetőjének javaslatára szolgálati útlevelet kaphatnak hivatalos célú utazásuk, illetőleg kiküldetésük idejére
 
-- a) a központi államigazgatási szerveknél, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alkotmánybíróság Hivatalánál, az Országgyűlési Biztos Hivatalánál, az Állami Számvevőszéknél foglalkoztatottak;
+- a) a központi államigazgatási szerveknél, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál foglalkoztatottak;
 - b) a bírák és az ügyészek;
 - c) a Magyar Nemzeti Bank vezető munkatársai;
-- d) a Pénzügyi Szervezetek Állami Felügyeletének vezető megbízatással rendelkező köztisztviselői.
+- d)
 
 (2) Szolgálati útlevelet kaphat az (1) bekezdés hatálya alá tartozó állampolgárral hivatalos célból együtt utazó, közös háztartásban élő házastársa és eltartott gyermeke.
 
 (3) Az irányítást (felügyeletet) gyakorló miniszter javaslatára szolgálati útlevelet kaphat a külföldi magyar kulturális intézetbe, kereskedelemfejlesztési irodába, illetőleg nemzeti idegenforgalmi képviselet irodájába tartós külszolgálatra kihelyezett személy, valamint a vele együtt utazó, közös háztartásban élő házastársa és eltartott gyermeke, amennyiben diplomáciai vagy nemzetközi jogon alapuló egyéb kiváltságot és mentességet nemzetközi szerződés vagy viszonosság alapján nem élvez.
+
+(4) Kizárólag utazásának időtartamára érvényes szolgálati útlevelet kaphat az a személy, akinek az útlevéllel történő ellátását – rendkívül indokolt esetben a személy vonatkozásában feladat- és hatáskörrel rendelkező miniszter javaslatára – az útlevélhatóság engedélyezi.
 
 15. § (1) Hajós szolgálati útlevél hivatalos utazás céljából adható
 
@@ -151,7 +154,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt rendelkezése
 
 ### III. Fejezet — Külföldre utazást korlátozó rendelkezések
 
-16. § (1) A 18. §-ban foglalt kivétellel nem utazhat külföldre,
+16. § (1) Nem utazhat külföldre,
 
 - a)
 - b) aki előzetes letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban van, illetve ideiglenes kényszergyógykezelés alatt áll;
@@ -194,16 +197,20 @@ visszatartja.
 20. § (1) Érvénytelen az úti okmány, ha
 
 - a) a személyazonosság megállapítására alkalmatlan, betelt, megrongálódott vagy meghamisították;
-- b)
+- b) az arra való jogosultság megszűnt;
 - c) azt nem az arra jogosult használja fel;
 - d) érvényességi ideje lejárt;
 - e) a használatára jogosult meghalt.
 
 (2) Az úti okmány érvényességét nem érinti, ha a tároló elem nem tartalmazza vagy hibásan tartalmazza a 7. § (2)–(3) bekezdésben foglalt adatokat.
 
+21. § A 20. § (1) bekezdés b) pontjában meghatározott okból érvénytelenné vált hivatalos útlevelet az útlevélhatóság az útlevél visszavonását elrendelő határozatában elveszettnek nyilvánítja és erről a Kormány által kijelölt központi útiokmány-nyilvántartó szervet (a továbbiakban: központi adatkezelő szerv) haladéktalanul értesíti.
+
 ### IV. Fejezet — Az eljárás alapvető szabályai
 
-21. §
+21/A. § (1) Az útlevélhatóság erre irányuló kérelemre a magánútlevelet, a második magánútlevelet, a szolgálati útlevelet, valamint a hajós szolgálati útlevelet soron kívüli, a magánútlevelet, valamint a második magánútlevelet sürgősségi vagy azonnali eljárás keretében adja ki. A magánútlevél, a második magánútlevél, a szolgálati útlevél, valamint a hajós szolgálati útlevél soron kívüli, valamint a magánútlevél és a második magánútlevél sürgősségi, illetve azonnali eljárásban történő kiadásának eljárási szabályait a Kormány rendeletben állapítja meg.
+
+(2) A magánútlevél, valamint a második magánútlevél soron kívüli, azonnali, illetve sürgősségi eljárásban történő kiadásáért az ügyfél az illetékekről szóló törvényben meghatározott illetéken felül igazgatási szolgáltatási pótdíjat köteles fizetni.
 
 22. § (1)
 
@@ -225,7 +232,7 @@ visszatartja.
 
 ### V. Fejezet — Adatkezelés és adatszolgáltatás
 
-24. § Az útlevél hatóság eljárása során, valamint a Kormány által kijelölt központi útiokmány-nyilvántartó szerv (a továbbiakban: központi adatkezelő szerv) az e törvényben meghatározott feladatai ellátásához a következő adatokat kezelheti:
+24. § Az útlevél hatóság eljárása során, valamint a központi adatkezelő szerv az e törvényben meghatározott feladatai ellátásához a következő adatokat kezelheti:
 
 - a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja nevét, nemét, állampolgárságát, menekült vagy bevándorolt jogállását (a továbbiakban: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetőleg lakcímét,
 - b) az állampolgár arcképmását és saját kezű aláírását,
@@ -250,17 +257,22 @@ visszatartja.
 
 25. § A központi adatkezelő szerv az útiokmány-nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
-26. § Az útlevélhatóság a kérelmező személyi és lakcím adatai azonosításához, illetőleg utazási jogosultsága megállapításához adatokat vehet át
+26. § (1) Az útlevélhatóság a kérelmező személyi és lakcímadatai azonosításához, illetve utazási jogosultsága megállapításához adatokat vehet át
 
 - a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
-- b) a központi adatkezelő szervtől a 24. § és a 25. § alapján kezelt adatokból, valamint
+- b) a központi adatkezelő szervtől a 16. § (2) bekezdés és a 24. § alapján kezelt adatokból, valamint
 - c) közvetlenül vagy a központi adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, valamint a menekültügyi hatóságtól.
+
+(2) Hivatalos útlevelek esetében
+
+- a) az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv értesíti az útlevélhatóságot, hogy a hivatalos útlevél használatára jogosult személy jogosultsága megszűnt,
+- b) az útlevélhatóság adatot kérhet a 11. § (3) bekezdésében meghatározott szervtől.
 
 27. § (1) Az útlevélhatóság, illetőleg a központi adatkezelő szerv – törvényben meghatározott feladataik ellátása céljából – a büntetőügyekben eljáró hatóságoknak, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, a vám- és pénzügyőrségnek, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekben eljáró szervnek, valamint a menekültügyi hatóságnak adhat át adatot.
 
 (2) A Rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át a központi adatkezelő szerv által a 24. § a)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
 
-(3) A központi adatkezelő szerv haladéktalanul a Schengeni Információs Rendszerbe továbbítja annak az útlevélnek az adatait, amelynek elvesztését, eltulajdonítását, megsemmisülését, illetve találását bejelentették, és ezt a tényt a központi útiokmány-nyilvántartásba bejegyezték.
+(3) A központi adatkezelő szerv haladéktalanul a Schengeni Információs Rendszerbe továbbítja annak az útlevélnek az adatait, amelynek elvesztését – ideértve a 21. § szerint elveszettnek nyilvánított hivatalos útlevelet is –, eltulajdonítását, megsemmisülését, illetve találását bejelentették és ezt a tényt a központi útiokmány-nyilvántartásba bejegyezték.
 
 (4) Az útlevél hatóság, illetőleg a központi adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja .
 
@@ -291,7 +303,7 @@ visszatartja.
 
 31. § (1) A 24. §-ban meghatározott adatokat az útlevélhatóság az eljárás befejezéséig, a központi adatkezelő szerv pedig az úti okmány érvényességi idejének lejártától számított öt évig kezelheti.
 
-(2) A központi adatkezelő szerv a 25. §-ban meghatározott adatokat a külföldre utazást korlátozó ok megszűnését követő egy évig kezelheti.
+(2) A központi adatkezelő szerv a 16. § (2) bekezdésében meghatározott adatokat a külföldre utazást korlátozó ok megszűnését követő egy évig kezelheti.
 
 32. § A hivatalos útlevéllel rendelkező állampolgár személyi adatait és a kiadott útlevél adatait az utazást elrendelő, illetőleg az útlevél kiadására javaslatot tevő szerv – diplomata- és külügyi szolgálati útlevél esetén a külpolitikáért felelős miniszter, az országgyűlési képviselő, továbbá házastársa, gyermeke [12. § (1) bekezdés f) pontja] diplomata-útlevele tekintetében az Országgyűlés Hivatala – az útlevélnek az arra való jogosultság megszűnését követő bevonásáig kezeli.
 
@@ -335,10 +347,11 @@ visszatartja.
 (2) Felhatalmazást kap a külföldre utazás szabályozásáért felelős miniszter – a b) és a d) pont tekintetében a külpolitikáért felelős miniszterrel, a c) pont tekintetében a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben – hogy rendeletben határozza meg
 
 - a) a diplomata- és a külügyi szolgálati útlevél kiadására jogosult útlevélhatóság kivételével az útlevélhatóságok székhelyét és illetékességi területét;
-- b) a Magyar Köztársaság útlevelének és egyéb úti okmányainak mintáját, az úti okmány iránti kérelem benyújtására szolgáló formanyomtatvány tartalmát;
+- b) Magyarország útlevelének és egyéb úti okmányainak mintáját, az úti okmány iránti kérelem benyújtására szolgáló formanyomtatvány tartalmát;
 - c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, és kijelölje a központi adatkezelő szervet, valamint kijelölje azokat az adatfeldolgozónak nem minősülő szerveket, amelyek az úti okmányok előállításában közreműködhetnek;
 - d) a külképviseleteknek az útlevél kiadásával, nyilvántartásával kapcsolatos feladatait;
-- e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét.
+- e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét;
+- f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi, valamint azonnali kiadásáért fizetendő igazgatási szolgáltatási pótdíj összegét és fizetendő igazgatási szolgáltatási pótdíj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (3) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az általa kiadott útlevelek kezelésének részletes szabályait.
 

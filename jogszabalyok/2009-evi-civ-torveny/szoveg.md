@@ -383,4 +383,4 @@ Várakozással tekintünk az Önökkel és a légiközlekedési ágazattal folyt
 
 (6)–(7)
 
-(8) Az e törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter, a közlekedésért felelős miniszter, valamint – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvényben biztosított hatáskörében – az adatvédelmi biztos gondoskodik.
+(8) Az e törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter, a közlekedésért felelős miniszter, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvényben biztosított hatáskörében – a Nemzeti Adatvédelmi és Információszabadság Hatóság gondoskodik.

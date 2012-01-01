@@ -43,7 +43,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (4) Az Éghajlatváltozási Program különösen az alábbiakat tartalmazza:
 
-- a) a Keretegyezményben, illetve a Jegyzőkönyvben az emberi eredetű üvegházhatású gázkibocsátás csökkentésére, illetve korlátozására, e gázok nyelőinek erősítésére irányuló, a Magyar Köztársaság által vállalt kötelezettségek teljesítésének fő intézkedéseit, ezek menetrendjét és fő finanszírozási forrásait;
+- a) a Keretegyezményben, illetve a Jegyzőkönyvben az emberi eredetű üvegházhatású gázkibocsátás csökkentésére, illetve korlátozására, e gázok nyelőinek erősítésére irányuló, Magyarország által vállalt kötelezettségek teljesítésének fő intézkedéseit, ezek menetrendjét és fő finanszírozási forrásait;
 - b) az éghajlatváltozás hazai hatásaihoz való alkalmazkodás szükséges lépéseit, az ahhoz szükséges főbb intézkedéseket és azok finanszírozási forrásait;
 - c) a hazai kibocsátások költséghatékony csökkentéséhez és az éghajlatváltozás hazai hatásaihoz kapcsolódó kutatási prioritásokat és a szükséges kutatások finanszírozási forrásait.
 
@@ -109,8 +109,8 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 10. § (1) A kibocsátási jogosultságok a következő módokon használhatók fel a Jegyzőkönyvvel és az azt követő döntésekkel összhangban:
 
-- a) a Magyar Köztársaságnak a Jegyzőkönyv alapján vállalt kibocsátás csökkentési céljaival összhangban a Magyar Köztársaság területén történt üvegházhatású gáz kibocsátások ellentételezésére, visszavonás által;
-- b) a Magyar Köztársaság mint fogadó ország területén megvalósuló együttes végrehajtási projektek keretében elért kibocsátás csökkentésnek megfelelő mennyiségű kibocsátás-csökkentési egység létrehozására. Az így keletkezett kibocsátás-csökkentési egységek teljes mennyisége vagy része az együttes végrehajtási projekt befektető országának kerül átutalásra.
+- a) Magyarországnak a Jegyzőkönyv alapján vállalt kibocsátás csökkentési céljaival összhangban Magyarország területén történt üvegházhatású gáz kibocsátások ellentételezésére, visszavonás által;
+- b) Magyarország mint fogadó ország területén megvalósuló együttes végrehajtási projektek keretében elért kibocsátás csökkentésnek megfelelő mennyiségű kibocsátás-csökkentési egység létrehozására. Az így keletkezett kibocsátás-csökkentési egységek teljes mennyisége vagy része az együttes végrehajtási projekt befektető országának kerül átutalásra.
 
 (2) A nemzetközi és európai kibocsátás-kereskedelem keretében a miniszter a Magyar Állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
@@ -124,13 +124,13 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 ### Részvétel nemzetközi rugalmassági mechanizmusokban
 
-11. § (1) A Magyar Köztársaság területén megvalósítandó együttes végrehajtásban jogi személyek a nemzetközi kötelezettségvállalásokkal összhangban, külön jogszabályban meghatározottak szerint a miniszter jóváhagyása alapján vehetnek részt.
+11. § (1) Magyarország területén megvalósítandó együttes végrehajtásban jogi személyek a nemzetközi kötelezettségvállalásokkal összhangban, külön jogszabályban meghatározottak szerint a miniszter jóváhagyása alapján vehetnek részt.
 
-(2) A Magyar Köztársaság területén a nemzetközi kötelezettségvállalásoknak, és a külön jogszabályban meghatározott feltételeknek megfelelően megvalósított együttes végrehajtás teljesítése után a miniszter kibocsátás-csökkentési egységeket állapít meg és ad át az együttes végrehajtásban résztvevő befektető országnak, illetve a befektető ország meghatalmazásával rendelkező szervezetnek.
+(2) Magyarország területén a nemzetközi kötelezettségvállalásoknak, és a külön jogszabályban meghatározott feltételeknek megfelelően megvalósított együttes végrehajtás teljesítése után a miniszter kibocsátás-csökkentési egységeket állapít meg és ad át az együttes végrehajtásban résztvevő befektető országnak, illetve a befektető ország meghatalmazásával rendelkező szervezetnek.
 
-12. § A Magyar Köztársaság területén kívül megvalósítandó együttes végrehajtásban vagy tiszta fejlesztési mechanizmusban magyarországi székhellyel rendelkező jogi személyek a nemzetközi kötelezettségvállalásokkal összhangban, külön jogszabályban meghatározott feltételek teljesítése esetén a miniszter jóváhagyása alapján vehetnek részt.
+12. § Magyarország területén kívül megvalósítandó együttes végrehajtásban vagy tiszta fejlesztési mechanizmusban magyarországi székhellyel rendelkező jogi személyek a nemzetközi kötelezettségvállalásokkal összhangban, külön jogszabályban meghatározott feltételek teljesítése esetén a miniszter jóváhagyása alapján vehetnek részt.
 
-13. § (1) A Magyar Köztársaság területén megvalósítandó együttes végrehajtásban részt vevő jogi személyek a miniszteri jóváhagyás kézhezvételétől számított 30 napon belül egyszeri felügyeleti díjat kötelesek fizetni. A miniszter a felügyeleti díjat a Nemzeti Nyilvántartási Rendszer működtetésével kapcsolatos tevékenységének fedezetére fordítja.
+13. § (1) Magyarország területén megvalósítandó együttes végrehajtásban részt vevő jogi személyek a miniszteri jóváhagyás kézhezvételétől számított 30 napon belül egyszeri felügyeleti díjat kötelesek fizetni. A miniszter a felügyeleti díjat a Nemzeti Nyilvántartási Rendszer működtetésével kapcsolatos tevékenységének fedezetére fordítja.
 
 (2) A felügyeleti díj mértékét az adott évre vonatkozó költségvetési törvény határozza meg.
 
@@ -191,7 +191,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 
 - a) az együttes végrehajtás-hitelesítői tevékenység folytatásának részletes feltételeit, a tevékenységre jogosító engedély kiadásának és a 13/C. § (2) bekezdése szerinti bejelentésnek a részletes szabályait, az együttes végrehajtás hitelesítő tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az együttes végrehajtás hitelesítői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket;
-- b) a Magyar Köztársaság területén megvalósuló együttes végrehajtási projekttevékenységek felügyeleti díj megfizetésének részletes szabályait;
+- b) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek felügyeleti díj megfizetésének részletes szabályait;
 - c) a kiotói egységek vagyonkezelésében közreműködő szervet [9. § (2) bekezdés].
 
 15. § (1) Az Áht. 108. § (1) bekezdése a következő h) ponttal egészül ki:

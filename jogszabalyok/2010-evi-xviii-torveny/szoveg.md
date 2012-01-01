@@ -20,7 +20,8 @@ a gondnokoltak nyilvántartásáról
 - d) ha a bíróság a cselekvőképességet korlátozó gondnokság alá helyezett személy cselekvőképességét egy ügycsoportra vagy egyes ügycsoportokra korlátozta, az ügycsoportok meghatározását,
 - e) a gondnokság cselekvőképességet kizáró vagy korlátozó jellegét,
 - f) a gondnokság alá helyezés kötelező felülvizsgálatának időpontját, ha a bíróság a felülvizsgálatról rendelkezett.
-- g)–k)
+- g) a választójogból való kizárás tényét, ha a bíróság a gondnokság alá helyezett személyt a választójogból kizárta.
+- h)–k)
 
 (3) A nyilvántartásban fel kell tüntetni
 
@@ -29,7 +30,7 @@ a gondnokoltak nyilvántartásáról
 
 (4) A (2) bekezdés b)–f) pontja szerinti adatokat a nyilvántartás közhitelesen tartalmazza.
 
-3. § A gondnokolt adatait az Országos Igazságszolgáltatási Tanács Hivatala (a továbbiakban: Hivatal) a gondnokság fennállása alatt, illetve a gondnokság megszűnését követő öt évig kezeli.
+3. § A gondnokolt adatait az Országos Bírósági Hivatal elnöke (a továbbiakban: OBH elnöke) a gondnokság fennállása alatt, illetve a gondnokság megszűnését követő öt évig kezeli.
 
 4. § (1) Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a nyilvántartásban kezelt adatok teljes körét jogosult átvenni a bíróság polgári peres, nemperes vagy büntetőeljárás lefolytatása céljából.
 
@@ -38,11 +39,11 @@ a gondnokoltak nyilvántartásáról
 - a) az önálló bírósági végrehajtó a bírósági végrehajtási cselekmények ellátása során a 2. § (2) bekezdés a), b), c), d), e) pontjában szereplő adatokat,
 - b) a közjegyző polgári nemperes eljárás lefolytatása céljából a 2. § (2) bekezdés a), b), c), d), e) pontjában szereplő adatokat,
 - c) a rendőrség a fogvatartott gondnokának értesítése, a fegyverengedély-ügyi és a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység végzésével összefüggő hatósági engedélyezési feladatok ellátása céljából a 2. § (2) bekezdés a), b), c), d), e), f) pontjában szereplő adatokat,
-- d) az ügyészség a gondnokság alá helyezés, annak megszüntetése, fenntartása vagy módosítása iránti per megindításával kapcsolatos feladatai ellátása során a 2. § (2) bekezdés a), b), c), d), e) pontjában szereplő adatokat,
-- e) a választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv a 2. § (2) bekezdés a) és c) pontjában szereplő adatokat,
+- d) az ügyészség a gondnokság alá helyezés, annak megszüntetése, fenntartása vagy módosítása, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindításával kapcsolatos feladatai ellátása során a 2. § (2) bekezdés a)–f) pontjában meghatározott adatokat,
+- e) a választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv a 2. § (2) bekezdés a), c) és g) pontjában szereplő adatokat,
 - f) a gyámhatóság
-  - fa) a gondnokok felügyeletével kapcsolatos feladata ellátása során a 2. § (2) bekezdés a), b), c), d), e) pontjában szereplő adatokat,
-  - fb) a gondnokság alá helyezési per megindítása, a gondnokság felülvizsgálata iránti per megindítása miatt a 2. § (2) bekezdés a), b), c), d), e), f) pontjában szereplő adatokat.
+  - fa) a gondnokok felügyeletével kapcsolatos feladata ellátása során a 2. § (2) bekezdés a)–e) és g) pontjában szereplő adatokat,
+  - fb) a gondnokság alá helyezési per megindítása, a gondnokság felülvizsgálata, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindítása miatt a 2. § (2) bekezdés a)–g) pontjában szereplő adatokat.
 
 (3) A közvetlen hozzáférésre jogosult szerv nevében csak az a személy vehet át adatokat, akinek a közvetlen hozzáférésre jogosult szerv erre felhatalmazást adott.
 
@@ -60,7 +61,7 @@ a gondnokoltak nyilvántartásáról
 
 ### A nyilvántartás kezelésének szabályai
 
-12. § (1) A Hivatal által bejegyzett változások, valamint a közvetlen hozzáféréssel történő adatszolgáltatás és a kérelemre történő adattovábbítás tekintetében a Hivatal az adatkezelő. A Hivatal adategyeztetés céljából az érintett személyre vonatkozó természetes személyazonosító és lakcím adatokat, illetve a halál tényére és időpontjára vonatkozó adatot igényelhet a személyiadat- és lakcímnyilvántartásból.
+12. § (1) Az OBH elnöke által bejegyzett változások, valamint a közvetlen hozzáféréssel történő adatszolgáltatás és a kérelemre történő adattovábbítás tekintetében az OBH elnöke az adatkezelő. Az OBH elnöke adategyeztetés céljából az érintett személyre vonatkozó természetes személyazonosító és lakcím adatokat, illetve a halál tényére és időpontjára vonatkozó adatot igényelhet a személyiadat- és lakcímnyilvántartásból.
 
 (2) A nyilvántartásba az adatokat a helyi bíróság jegyzi be. A bejegyzés alapja a gondnokság alá helyezésről, annak módosításáról, felülvizsgálatáról, megszüntetéséről szóló jogerős bírósági határozat.
 
@@ -86,15 +87,15 @@ a gondnokoltak nyilvántartásáról
 
 (2) A nyilvántartásban kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 
-16. § (1) A Hivatal a kérelmet nyolc napon belül bírálja el.
+16. § (1) Az OBH elnöke a kérelmet nyolc napon belül bírálja el.
 
 (2) A nyilvántartásból való adatszolgáltatás során csak az adatkérés céljának megvalósulásához elengedhetetlenül szükséges adat bocsátható a felvilágosítást kérő rendelkezésére.
 
-(3) A Hivatal a kérelmet elutasítja, ha a kérelem hiányait a felhívás ellenére sem pótolják, vagy a kérelmező a felvilágosításhoz fűződő jogi érdekét hitelt érdemlően nem igazolja, vagy a hivatkozott jogi érdek nem támasztja alá az adatfelhasználás céljának jogszerűségét.
+(3) Az OBH elnöke a kérelmet elutasítja, ha a kérelem hiányait a felhívás ellenére sem pótolják, vagy a kérelmező a felvilágosításhoz fűződő jogi érdekét hitelt érdemlően nem igazolja, vagy a hivatkozott jogi érdek nem támasztja alá az adatfelhasználás céljának jogszerűségét.
 
 (4)
 
-(5) A Hivatal döntése ellen közigazgatási úton jogorvoslatnak helye nincs.
+(5) Az OBH elnöke döntése ellen közigazgatási úton jogorvoslatnak helye nincs.
 
 ### Adatkezelési nyilvántartás
 
@@ -105,13 +106,13 @@ a gondnokoltak nyilvántartásáról
 
 (2) Az (1) bekezdés szerinti adatokat azok keletkezésétől számított öt évig kell megőrizni.
 
-(3) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok csak az érintettnek a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény 12. §-a alapján előterjesztett kérelme alapján történő tájékoztatása, valamint az adatvédelmi biztos által végzett adatvédelmi ellenőrzés céljából használhatók fel.
+(3) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok csak az érintettnek a kérelme alapján történő tájékoztatása, valamint a Nemzeti Adatvédelmi és Információszabadság Hatóság által végzett adatvédelmi ellenőrzés céljából használhatók fel.
 
 18. §
 
 ### Átmeneti rendelkezések
 
-19. § (1)
+19. § (1) Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor gondnokság alá helyezés hatálya alatt álló személy esetén e törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 2. § (2) bekezdés g) pontja szerinti adatként a nyilvántartásba hivatalból be kell jegyezni, hogy a gondnokság alá helyezés hatálya alatt álló személy a Magyarország Alaptörvényének Átmeneti Rendelkezései alapján a választójogból ki van zárva.
 
 (2)
 

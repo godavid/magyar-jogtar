@@ -2,7 +2,7 @@
 
 a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról
 
-A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, akik a mindenkit megillető jogokkal és lehetőségekkel csak jelentős nehézségek árán vagy egyáltalán nem képesek élni. A fogyatékos emberek hátrányainak enyhítése, esélyegyenlőségük megalapozása, illetve a társadalom szemléletmódjának alakítása érdekében az Országgyűlés – összhangban az Alkotmánnyal és a nemzetközi jog által általánosan elismert szabályaival – a következő törvényt alkotja:
+A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, akik a mindenkit megillető jogokkal és lehetőségekkel csak jelentős nehézségek árán vagy egyáltalán nem képesek élni. A fogyatékos emberek hátrányainak enyhítése, esélyegyenlőségük megalapozása, illetve a társadalom szemléletmódjának alakítása érdekében az Országgyűlés – összhangban az Alaptörvénnyel és a nemzetközi jog által általánosan elismert szabályaival – a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -34,9 +34,9 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - d) támogató szolgálat: a fogyatékos személy önálló életvitelét elősegítő, a mindennapi szükségletei kielégítését célzó – személyes közreműködés által megvalósuló – szolgáltatás;
 - e) lakóotthon: a fogyatékos személy önálló életvitelét elősegítő, kisközösséget befogadó lakhatási forma;
 - f) közszolgáltatás:
-  - fa) minden közhatalmi tevékenység – ideértve a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenységet –, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az országgyűlési biztosok, az ügyészség, valamint a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység,
+  - fa) minden közhatalmi tevékenység – ideértve a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenységet –, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az alapvető jogok biztosa, az ügyészség, valamint a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység,
   - fb) az állam által fenntartott intézmény által nyújtott közszolgálati médiaszolgáltatás, továbbá oktatási, közművelődési, közgyűjteményi, kulturális, tudományos, szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, sport-, ifjúsági, foglalkoztatási szolgáltatás, ellátás, illetve tevékenység,
-  - fc) a helyi és kisebbségi önkormányzat hatásköre gyakorlása során kifejtett minden tevékenység – ideértve különösen a hatósági és egyéb közigazgatási tevékenységet –, valamint a helyi és kisebbségi önkormányzat, a nem állami és egyházi fenntartó, illetőleg az általa fenntartott közfinanszírozásban részesülő intézmény által nyújtott fb) szerinti szolgáltatás, ellátás, tevékenység,
+  - fc) a helyi és nemzetiségi önkormányzat hatásköre gyakorlása során kifejtett minden tevékenység – ideértve különösen a hatósági és egyéb közigazgatási tevékenységet –, valamint a helyi és nemzetiségi önkormányzat, a nem állami és egyházi fenntartó, illetőleg az általa fenntartott közfinanszírozásban részesülő intézmény által nyújtott fb) szerinti szolgáltatás, ellátás, tevékenység,
   - fd) minden ügyfélszolgálati rendszerben működtetett szolgáltató tevékenység, továbbá
   - fe) minden olyan hatósági engedély vagy hatósági kötelezettség alapján végzett nyilvános szolgáltató tevékenység, amely település vagy településrész közellátását szolgálja, használata nem korlátozott, illetve nem korlátozható;
 - g) akadálymentesség: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. §-ának 1. pontjában meghatározott feltételeknek megfelelő épített környezet;
@@ -191,8 +191,8 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (2) Az (1) bekezdésben meghatározott támogatásra jogosult
 
-- a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát a Magyar Köztársaság területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel, valamint
-- b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek jogosulti körébe tartozó, a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel,
+- a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát Magyarország területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel, valamint
+- b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek jogosulti körébe tartozó, a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel,
 - c) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel és rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel.
 
 (3) A súlyosan fogyatékos személy nem jogosult fogyatékossági támogatásra ha
@@ -289,7 +289,9 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (3) A nyilvántartásból a fogyatékossági támogatásra való jogosultság megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat.
 
-(4) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat személyes azonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak. Az e törvény alapján elrendelt adatkezelésre és az adatok védelmére egyebekben a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, valamint az egészségügyi adatkezelésre vonatkozó törvény rendelkezései az irányadók.
+(4) Az e törvény felhatalmazása alapján nyilvántartást vezető szervek a nyilvántartásban kezelt adatokat személyes azonosító adatok nélkül statisztikai célra felhasználhatják, illetőleg azokból statisztikai célra adatot szolgáltathatnak.
+
+(5) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a kincstár által e törvény szerint kezelt személyes és különleges adatokat.
 
 ### VI. Fejezet — ORSZÁGOS FOGYATÉKOSÜGYI TANÁCS
 
@@ -396,6 +398,8 @@ tevékenységet végez.
 32. § (1) E törvény 29. §-a a légi járműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól szóló, 2006. július 5-i 1107/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) E törvény 15–16. §-ai a foglalkoztatás és a munkavégzés során alkalmazott egyenlő bánásmód általános kereteinek létrehozásáról szóló 2000/78/EK tanácsi irányelv 5. cikkének való megfelelést szolgálják.
+
+(3) Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Melléklet az 1998. évi XXVI. törvényhez
 

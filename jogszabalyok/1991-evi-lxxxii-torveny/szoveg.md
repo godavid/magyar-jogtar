@@ -8,9 +8,9 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Általános rendelkezés
 
-1. § (1) A belföldi érvényes rendszámtáblával ellátott gépjármű, pótkocsi, valamint a Magyar Köztársaság területén közlekedő, külföldön nyilvántartott tehergépjármű (a továbbiakban együtt: gépjármű) után gépjárműadót, a nem kizárólag magánhasználatú személygépkocsi után – a gépjárműadó fizetési kötelezettségtől függetlenül – a IV. fejezet szerinti adót (cégautóadó) kell fizetni.
+1. § (1) A magyar hatósági rendszámtáblával ellátott gépjármű, pótkocsi, valamint Magyarország területén közlekedő, külföldön nyilvántartott tehergépjármű (a továbbiakban együtt: gépjármű) után gépjárműadót, míg a nem kizárólag magánhasználatú személygépkocsi után – a gépjárműadó fizetési kötelezettségtől függetlenül – a IV. fejezet szerinti adót (cégautóadó) kell fizetni.
 
-(2) E törvény hatálya nem terjed ki a belföldi rendszámtáblával ellátott mezőgazdasági vontatóra, a lassú járműre és a lassú jármű pótkocsijára, a négykerekű segédmotoros kerékpárra, a külön jogszabály szerinti „méhesházas” gépjárművekre, a munkagépre, a CD, a CK, a DT, az OT és a Z betűjelű rendszámtáblával ellátott gépjárműre, valamint a külföldön nyilvántartott tehergépjárművek közül azokra, amelyek az Európai Unió valamely tagállamában vannak nyilvántartva.
+(2) E törvény hatálya nem terjed ki a magyar hatósági rendszámtáblával ellátott mezőgazdasági vontatóra, a lassú járműre és a lassú jármű pótkocsijára, a négykerekű segédmotoros kerékpárra, a külön jogszabály szerinti „méhesházas” gépjárműre, a munkagépre, a CD, a CK, a DT, az OT és a Z betűjelű rendszámtáblával ellátott gépjárműre, valamint a külföldön nyilvántartott tehergépjárművek közül azokra, amelyek az Európai Unió valamely tagállamában vannak nyilvántartva.
 
 #### II.
 
@@ -104,7 +104,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 (3)
 
-(4) Ha az adóalany az adóévben tehergépjárművével – fuvarokmánnyal igazoltan – olyan kombinált áruszállítást alkalmazott, amelynél a Magyar Köztársaság területén vasúton vagy belvízen megtett út járatonként 100 km-nél hosszabb volt, az (5) bekezdésben meghatározott adókedvezményre jogosult.
+(4) Ha az adóalany az adóévben tehergépjárművével – fuvarokmánnyal igazoltan – olyan kombinált áruszállítást alkalmazott, amelynél Magyarország területén vasúton vagy belvízen megtett út járatonként 100 km-nél hosszabb volt, az (5) bekezdésben meghatározott adókedvezményre jogosult.
 
 (5) Az adókedvezmény mértéke 30–60 járat teljesítése esetén a tehergépjármű után adóévre – az (1)–(2) bekezdés alapján megállapított – fizetendő adó 10%-a, 60 járat felett 20%-a. 2004. január 1-jétől az adókedvezmény mértéke 40 járat feletti teljesítés esetén a tehergépjármű után adóévre – az (1)–(2) bekezdés alapján megállapított – fizetendő adó 10%-a.
 
@@ -114,7 +114,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Az adó megállapítása és kezelése
 
-9. § (1) Az adóztatási feladatokat – a (3) bekezdésben foglalt kivétellel – a magánszemély adóalanynak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerinti nyilvántartásba (a továbbiakban: lakcímnyilvántartás), míg a nem magánszemély adóalanynak (ideértve az egyéni vállalkozót is) a hatósági nyilvántartásba bejegyzett lakcíme, székhelye, illetőleg telephelye szerint illetékes települési, a fővárosban a kerületi önkormányzati adóhatóság látja el. Ha a lakcímnyilvántartásban a lakcím, a hatósági nyilvántartásban a székhely, illetőleg a telephely megváltozik, az adóztatási feladatok ellátására a változást követő év első napjától az új lakcím, székhely, illetőleg telephely szerint illetékes adóhatóság jogosult. Gépjármű tulajdonátruházása esetén, ha a tulajdonátszállással érintett felek egyike sem tesz eleget a külön jogszabály által meghatározott bejelentési kötelezettségének, akkor a tulajdonátszállás bejelentése évének utolsó napjáig a 2. § (1) bekezdés szerinti tulajdonos lakcímnyilvántartásba bejegyzett lakcíme, illetve hatósági nyilvántartásba bejegyzett székhelye, illetőleg telephelye szerinti önkormányzati adóhatóság az illetékes a tulajdonváltozással érintett gépjármű adóztatására. Amennyiben a hatósági nyilvántartás a székhelyet és a telephelyet egyaránt tartalmazza, akkor a telephely szerint illetékes adóhatóság jogosult a gépjármű adóztatására. Amennyiben az adóalany a lakcímnyilvántartás szerint a naptári év első napján érvényes lakcímmel nem rendelkezik, akkor az adóalany utolsó érvényes lakcíme szerint illetékes önkormányzati adóhatóság látja el az adóztatási feladatokat.
+9. § (1) Az adóztatási feladatokat – a (3) bekezdésben foglalt kivétellel – a magánszemély adóalanynak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerinti nyilvántartásba bejegyzett lakóhelye, annak hiányában tartózkodási helye (e bekezdés alkalmazásában a továbbiakban együtt: lakcím), míg a nem magánszemély adóalanynak – ideértve az egyéni vállalkozót is – a hatósági nyilvántartás címadat-rovatába bejegyzett székhelye vagy telephelye szerint illetékes települési, a fővárosban a kerületi önkormányzati adóhatóság (a továbbiakban együtt: adóhatóság) látja el. Ha a nyilvántartásban a lakcím, a székhely, illetőleg a telephely megváltozik, az adóztatási feladatok ellátására a változást követő év első napjától az új lakcím, székhely, illetőleg telephely szerint illetékes adóhatóság jogosult. Gépjármű tulajdonátruházása esetén, ha a tulajdonváltozással érintett felek egyike sem tesz eleget a külön jogszabály által meghatározott bejelentési kötelezettségének, akkor a tulajdonváltozás bejelentése évének utolsó napjáig a 2. § (1) bekezdés szerinti tulajdonos nyilvántartásba bejegyzett lakcíme, székhelye, illetőleg telephelye szerinti önkormányzati adóhatóság az illetékes a tulajdonváltozással érintett gépjármű adóztatására.
 
 (2) Az (1) bekezdésben foglalt változások esetén a változást követő év első napjától esedékes adót kell az új cím szerint illetékes adóhatóságnál megfizetni.
 
@@ -132,11 +132,11 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Az adókötelezettség kezdete
 
-11. § Az adókötelezettség a Magyar Köztársaság területére való belépés napjával kezdődik.
+11. § Az adókötelezettség Magyarország területére való belépés napjával kezdődik.
 
 ### Az adókötelezettség megszűnése, szünetelése
 
-12. § (1) A gépjármű adókötelezettsége megszűnik azon a napon, amelyen a Magyar Köztársaság területét elhagyja.
+12. § (1) A gépjármű adókötelezettsége megszűnik azon a napon, amikor Magyarország területét elhagyja.
 
 (2)–(3)
 
@@ -146,7 +146,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 13. § (1)–(2)
 
-(3) Mentes az adó alól a kombinált árufuvarozásra nemzetközi viszonylatban alkalmazott, külföldön nyilvántartott tehergépjármű, amely az árut a Magyar Köztársaság területén
+(3) Mentes az adó alól a kombinált árufuvarozásra nemzetközi viszonylatban alkalmazott, külföldön nyilvántartott tehergépjármű, amely az árut Magyarország területén
 
 - a) a határátlépés helyétől vagy az áru feladási helyétől az útirány szerinti legközelebbi — attól légvonalban legfeljebb 70 kilométer távolságra levő — vasúti állomásra vagy belvízi kikötőbe közúton fuvarozza (előfuvarozás), illetőleg
 - b) a vasútállomásról vagy belvízi kikötőből az útirány szerinti legközelebbi — attól légvonalban legfeljebb 70 kilométer távolságra levő — határátlépés helyére vagy az áru rendeltetési helyére közúton elfuvarozza (utánfuvarozás).
@@ -171,15 +171,15 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 15. § (1) A 12 tonna össztömeget meg nem haladó, loco célra használt fuvarozási engedéllyel közlekedő gépjármű (e bekezdés alkalmazásában a járműszerelvény is) esetén az oda, illetve a visszaútra 10 000-10 000 Ft, míg a 12 tonna össztömeget meghaladó, loco célra használt fuvarozási engedéllyel közlekedő gépjármű esetén az oda, illetve a visszaútra 30 000-30 000 Ft adót kell fizetni. A 12 tonna össztömeget meg nem haladó, tranzit célra használt (ideértve a harmadik országos engedély ilyen felhasználását is) fuvarozási engedéllyel közlekedő gépjármű esetén az oda, illetve a visszaútra 20 000-20 000 Ft, míg a 12 tonna össztömeget meghaladó, tranzit célra használt fuvarozási engedéllyel közlekedő gépjármű esetén az oda, illetve a visszaútra 60 000–60 000 Ft adót kell fizetni. Az előzőek szerinti adófizetési kötelezettség akkor is fennáll, ha a fuvarozási engedély érvénytelen, illetve azt az adózó jogszerűtlenül használta fel, vagy fuvarozási engedély nélkül közlekedett.
 
-(2) Az (1) bekezdés szerinti adótételek oda-, illetőleg visszaútra, a fuvarozás időtartamára, legfeljebb 48-48 órára a Magyar Köztársaság területén való tartózkodásra vonatkoznak. Az előző időtartamot meghaladó tartózkodás esetén minden megkezdett 48 óránként kell az adót az (1) bekezdésben foglaltak figyelembevételével megfizetni. E bekezdés szerinti fuvarozási időtartamba (tartózkodási időbe) nem számít bele a külön jogszabályban meghatározott forgalomkorlátozási időszak.
+(2) Az (1) bekezdés szerinti adótételek oda-, illetőleg visszaútra, a fuvarozás időtartamára, legfeljebb 48-48 órára Magyarország területén való tartózkodásra vonatkoznak. Az előző időtartamot meghaladó tartózkodás esetén minden megkezdett 48 óránként kell az adót az (1) bekezdésben foglaltak figyelembevételével megfizetni. E bekezdés szerinti fuvarozási időtartamba (tartózkodási időbe) nem számít bele a külön jogszabályban meghatározott forgalomkorlátozási időszak.
 
-(3) Az (1) bekezdés szerinti adótételt illetékbélyeggel kell megfizetni, melyet a közúti fuvarozási engedélyre – loco fuvarozás esetén a fuvarozás teljes időtartamára vonatkozóan, tranzit fuvarozás esetén az oda- és visszaútra külön-külön – kell felragasztani a Magyar Köztársaság területére való belépéskor. Adózó a felragasztást követően köteles a belépés időpontját (év-hónap-nap-óra) az illetékbélyegekre rávezetni. Adóköteles fuvarozási engedéllyel fizetési kötelezettség teljesítése (illetékbélyeg) nélkül legfeljebb a Magyar Köztársaság területére való belépéstől számított 5 km-es körzethatáron belül lehet szankciómentesen közlekedni.
+(3) Az (1) bekezdés szerinti adótételt illetékbélyeggel kell megfizetni, melyet a közúti fuvarozási engedélyre – loco fuvarozás esetén a fuvarozás teljes időtartamára vonatkozóan, tranzit fuvarozás esetén az oda- és visszaútra külön-külön – kell felragasztani Magyarország területére való belépéskor. Adózó a felragasztást követően köteles a belépés időpontját (év-hónap-nap-óra) az illetékbélyegekre rávezetni. Adóköteles fuvarozási engedéllyel fizetési kötelezettség teljesítése (illetékbélyeg) nélkül legfeljebb Magyarország területére való belépéstől számított 5 km-es körzethatáron belül lehet szankciómentesen közlekedni.
 
 16. § Felhatalmazást kap a Kormány, hogy rendelettel a 15. §-ban meghatározott adótételtől eltérő adótételt állapítson meg, illetőleg a 13. § hatálya alá nem eső gépjárművet mentesítse az adó alól. Államokkal szemben az adómérséklés vagy az adómentesség feltétele a viszonosság.
 
 ### Az adó megfizetésének ellenőrzése
 
-17. § (1) A Magyar Köztársaság területén közlekedő külföldön nyilvántartott tehergépjármű esetében az adókötelezettség teljesítésének ellenőrzését a vámhatóság végzi. A vámhatóság az illetékbélyeget érvényteleníti, a tehergépjármű rendszámát és a lerótt illeték összegét nyilvántartásba veszi.
+17. § (1) Magyarország területén közlekedő külföldön nyilvántartott tehergépjármű esetében az adókötelezettség teljesítésének ellenőrzését a vámhatóság végzi. A vámhatóság az illetékbélyeget érvényteleníti, a tehergépjármű rendszámát és a lerótt illeték összegét nyilvántartásba veszi.
 
 (2) Ha az adózó az adófizetési kötelezettségét részben vagy egészben elmulasztotta, a vámhatóság az adóhiányt és annak ötszörösét adóbírság címén állapítja meg. A határozatot a vámhatóság kihirdetés útján közli, mely fellebbezésre tekintet nélkül azonnal végrehajtható.
 
@@ -235,10 +235,15 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Az adó mértéke
 
-17/E. § Az adó mértéke havonta:
+17/E. § Az adó havi mértéke személygépkocsinként, a személygépkocsi kW-ban kifejezett teljesítménye és környezetvédelmi osztály-jelzése alapján a következő:
 
-- a) 1600 cm3 hengerűrtartalmat vagy 1200 cm3 kamratérfogatot meg nem haladó hajtómotorral ellátott személygépkocsi esetén 7000 Ft,
-- b) az a) pont alá nem tartozó személygépkocsi esetén 15 000 Ft.
+| gépjármű hajtómotorjának teljesítménye (kW) | Környezetvédelmi osztály-jelzés |  |  |
+| --- | --- | --- | --- |
+| „0”–„4” osztályjelzések esetén | „6”–„10” osztályjelzések esetén | „5”; „14–15” osztályjelzések esetén |
+| 0–50 | 16 500 Ft | 8 800 Ft | 7 700 Ft |
+| 51–90 | 22 000 Ft | 11 000 Ft | 8 800 Ft |
+| 91–120 | 33 000 Ft | 22 000 Ft | 11 000 Ft |
+| 120 felett | 44 000 Ft | 33 000 Ft | 22 000 Ft |
 
 ### A kétszeres adóztatás kizárása
 
@@ -269,14 +274,14 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - 7. motorkerékpár: olyan gépjármű, amelynek két vagy három kereke van és a tervezési legnagyobb sebessége 45 km/óránál nagyobb, továbbá olyan négykerekű gépjármű, amelynek saját tömege legfeljebb 550 kg és motorteljesítménye nem haladja meg a 15 kilowattot,
 - 8. külföldön nyilvántartott az a gépjármű, amelynek forgalmi engedélyét és hatósági jelzését (rendszámát) nem magyar hatóság adta ki, kizárólag külföldön nyilvántartott gépjárművekből álló gépjárműszerelvény esetén az adó megállapítása a vontató honossága szerint történik, feltéve, ha nemzetközi egyezmény e kérdésben másként nem rendelkezik,
 - 9. használt gépjármű az, amely a gyártóüzem által történt kibocsátást követően közúti forgalomban részt vett,
-- 10. költségvetési szerv az államháztartásról szóló 1992. évi XXXVIII. törvény szerinti szerv,
+- 10. költségvetési szerv az államháztartásról szóló 2011. évi CXCV. törvény szerinti szerv,
 - 11. helyi és a helyközi tömegközlekedés lebonyolítását szolgálja a gépjármű (autóbusz), amellyel a vállalkozó kizárólag menetrendszerinti személyszállítást díjfizetés ellenében bárki által igénybe vehető módon végzi,
 - 12. súlyos mozgáskorlátozott az a személy, aki a súlyos mozgáskorlátozottak közlekedési kedvezményeinek rendszeréről szóló jogszabályban meghatározott állapota miatt súlyos mozgáskorlátozottnak minősül, és ezt a tényt az ott meghatározott orvosi szakvélemény igazolja,
 - 13. segédmotoros kerékpár: olyan két-, három- vagy négykerekű jármű, amelyet 50 cm3-t meg nem haladó lökettérfogatú belső égésű motor vagy legfeljebb 4 kW teljesítményű egyéb motor hajt, tervezési végsebessége 45 km/óránál nem nagyobb és saját tömege legfeljebb 350 kg,
 - 14. muzeális jellegű az a gépjármű, amelyet legalább 30 éve gyártottak, használata kizárólag a jellegével összefüggő célból történik, továbbá az eredeti műszaki jellemzőit nem változtatták meg, vagy annak megfelelően helyreállították. A jármű muzeális jellegének megállapítására és igazolására az 5/1990. (IV. 12.) KöHÉM rendeletben foglaltak az irányadók,
 - 15. személytaxi: a külön jogszabály szerinti személytaxi-szolgáltatás vagy a személygépkocsis személyszállító szolgáltatás végzésére jogosult vállalkozás személygépkocsija, amely a hatóság által kiadott taxiengedéllyel és meghatározott színű rendszámtáblával ellátott,
 - 16. mezőgazdasági vontató: mezőgazdasági munka végzésére készült, de pótkocsi vontatására is alkalmas, rakfelület nélküli olyan jármű, amelyet beépített erőgép hajt, és sík úton önerejéből 25 km/óra sebességnél gyorsabban haladni képes,
-- 17. külföldön nyilvántartott gépjármű és pótkocsi üzembentartója azon személyek egyike, akinek a nevére a forgalmi engedélyt kiállították; vagy akit a jogi személy vagy más személyi egyesülés nevére kiállított forgalmi engedélyben a jogi személy vagy a személyi egyesülés mellett feltüntettek; vagy aki a járművet a Magyar Köztársaság területén használja; vagy aki azt az ország területéről kilépteti,
+- 17. külföldön nyilvántartott gépjármű és pótkocsi üzembentartója azon személyek egyike, akinek a nevére a forgalmi engedélyt kiállították; vagy akit a jogi személy vagy más személyi egyesülés nevére kiállított forgalmi engedélyben a jogi személy vagy a személyi egyesülés mellett feltüntettek; vagy aki a járművet Magyarország területén használja; vagy aki azt az ország területéről kilépteti,
 - 18. gépjármű forgalomból való kivonásának minősül a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet szerinti forgalomból való kivonás,
 - 19. légrugós vagy azzal egyenértékű rugózási rendszerű gépjármű, pótkocsi: az a jármű, amelyik a Tanács 96/53/EK Irányelvének II. Melléklete szerinti légrugós vagy azzal egyenértékű rugózási rendszerrel rendelkezik. Amennyiben az önkormányzati adóhatóság az adómegállapítása során e tényt nem vette figyelembe, akkor az adóalany ezt a közlekedési hatóság által kiadott hatósági bizonyítvánnyal, az igazságügyi gépjármű-közlekedési műszaki szakértő szakvéleményével vagy „útkímélő tengely” bejegyzést tartalmazó forgalmi engedély bemutatásával igazolhatja,
 - 20. terhelhetőség (raksúly): a tehergépjármű esetében a hatósági nyilvántartásban feltüntetett megengedett legnagyobb össztömeg (összsúly) és a saját tömeg (önsúly) különbözete,
@@ -288,6 +293,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - 26. lassú jármű és a lassú jármű pótkocsija: a 35/2000. (XI. 30.) BM rendelet értelmében speciális rendszámtáblával – fehér alapon (3-3) piros betű- és számjellel, Y kezdő betűjellel – és igazolólappal ellátott jármű, amely a sík úton önerejéből (vagy vontatója által) 25 km/óra sebességnél gyorsabban haladni nem képes,
 - 27. nyergesvontató: olyan vontató, amely a rajta levő nyeregszerkezet útján a vontatott félpótkocsi tömegének jelentős részét átveszi,
 - 28. hybrid meghajtású az a jármű, amely elektromos és hagyományos belső égésű motorral van ellátva.
+- 29. környezetvédelmi osztály-jelzés: a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 2011. augusztus 15-én hatályos 5. számú melléklete II. alpontja szerinti környezetvédelmi osztály-jelzés (kód).
 
 ### Átmeneti és vegyes rendelkezések
 

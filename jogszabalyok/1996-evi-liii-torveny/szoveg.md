@@ -68,7 +68,7 @@ során.
 
 (3) A természet védelméhez fűződő érdekeket a nemzetgazdasági tervezés, szabályozás, továbbá a gazdasági, terület- és településfejlesztési, illetőleg rendezési döntések, valamint a hatósági intézkedések során figyelembe kell venni.
 
-(4) A Magyar Köztársaság a természet védelme érdekében együttműködik más államokkal és nemzetközi szervezetekkel, illetve nemzetközi természetvédelmi szerződések részesévé válik. A Magyar Köztársaság nemzetközi egyezmény hiányában is figyelembe veszi más államoknak a természet védelméhez fűződő érdekeit.
+(4) Magyarország a természet védelme érdekében együttműködik más államokkal és nemzetközi szervezetekkel, illetve nemzetközi természetvédelmi szerződések részesévé válik. Magyarország nemzetközi egyezmény hiányában is figyelembe veszi más államoknak a természet védelméhez fűződő érdekeit.
 
 ## II. RÉSZ — A TERMÉSZETI ÉRTÉKEK ÉS TERMÉSZETI TERÜLETEK ÁLTALÁNOS VÉDELME
 
@@ -617,7 +617,7 @@ engedélyezésekor.
 
 (6) A barlang (5) bekezdés szerinti fellelésétől a biztosítási munkák elvégzéséig, illetve annak kiépítéséig az ingatlanon folytatott tevékenység nem folytatható. Amennyiben a biztosítási munkák elvégzéséhez, illetve a barlang kiépítéséhez szükséges engedélyek jogerőssé válnak, valamint az (5) bekezdés szerinti költségek fedezete az igazgatóság részére átadásra kerül, akkor a természetvédelmi hatóság az ingatlanon végzett tevékenység folytatását engedélyezheti.
 
-51. § (1) A miniszter engedélye szükséges
+51. § (1) A természetvédelmi hatóság engedélye szükséges
 
 - a) barlang, barlangszakasz hasznosításához, illetve a hasznosítási mód megváltoztatásához;
 - b) barlang, barlangszakasz kiépítéséhez;
@@ -739,7 +739,7 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 
 (2) Természeti érték, terület, valamint védett természeti terület veszélyeztetése, károsítása esetén az ügyész keresetet indíthat a tevékenységtől való eltiltás, illetőleg a tevékenységgel okozott kár megtérítése iránt.
 
-(3) Az ügyész törvényességi felügyeleti jogkörében eljárva, a rá vonatkozó jogszabályok alapján különös figyelemmel közreműködik a természetvédelmi hatóságok eljárásai és döntései törvényességének biztosításában.
+(3) Az ügyészség az irányadó jogszabályok szerint közreműködik a természetvédelmi hatóságok eljárásai és döntései törvényességének biztosításában.
 
 ### Az önkormányzatok természetvédelmi feladatai
 
@@ -1000,7 +1000,7 @@ a kárviselésre vonatkozó szabályok
 
 természetvédelmi bírságot köteles fizetni.
 
-(2) A természetvédelmi bírságot a természetvédelmi hatóság szabja ki. A természetvédelmi bírság adók módjára behajtandó köztartozás.
+(2) A természetvédelmi bírságot a természetvédelmi hatóság szabja ki.
 
 (3) A bírság kiszabására a természetvédelmi hatóságnak az (1) bekezdésben meghatározott cselekményről való tudomásszerzésétől számított 1 éven túl nincs lehetősége. Az elkövetésétől számított öt éven túl nem szabható ki bírság, kivéve, ha a cselekmény jogszerűtlen állapot fenntartásával valósul meg. Ebben az esetben az elévülés mindaddig nem kezdődik meg, amíg a jogszerűtlen állapot fennáll.
 
@@ -1059,7 +1059,7 @@ természetvédelmi bírságot köteles fizetni.
 - 8. a szolgáltatási megállapodás kivételével a természetvédelmi kártalanítás részletes szabályait;
 - 9. a természeti érték állagára, állapotára veszélyt jelentő tevékenységek, továbbá a védett területre, Natura 2000 területre veszélyes anyagok körét, valamint a biztosíték formáját és mértékét, felhasználásának feltételeit, elszámolásának és nyilvántartásának szabályait, továbbá a biztosítás szabályait;
 - 10. az egyes külön jogszabályokban meghatározott fajoknak és élőhelyeiknek, költő- és pihenőhelyeinek, természetes élőhelyeknek, védett természeti területeknek és védett természeti értékeknek a veszélyeztetése, károsodása esetén a károsodás mértéke megállapításának szempontjait, valamint a környezetkárosodás megelőzésének és helyreállításának rendjét;
-- 11. a természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat;
+- 11. a természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját;
 - 12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza

@@ -4,7 +4,7 @@ a 2006 őszi tömegoszlatásokkal összefüggő elítélések orvoslásáról
 
 Az Országgyűlés, a demokratikus jogállamot és a polgárok alkotmányos alapjogait a 2006. év őszén ért sérelmek orvoslása érdekében a következő törvényt alkotja:
 
-1. § A 2006. szeptember 18. és október 24. között, a Magyar Köztársaság területén, a tömegoszlatásokhoz kapcsolódóan elkövetett hivatalos személy elleni erőszak, rongálás, illetve garázdaság miatti elítélések, továbbá a bíróság hatáskörébe tartozó rendzavarás, garázdaság és veszélyes fenyegetés szabálysértése elkövetésének megállapításai semmisnek tekintendők, amennyiben az elítélés vagy a megállapítás alapját kizárólag rendőri jelentés, illetőleg rendőri tanúvallomás képezte.
+1. § A 2006. szeptember 18. és október 24. között, Magyarország területén, a tömegoszlatásokhoz kapcsolódóan elkövetett hivatalos személy elleni erőszak, rongálás, illetve garázdaság miatti elítélések, továbbá a bíróság hatáskörébe tartozó rendzavarás, garázdaság és veszélyes fenyegetés szabálysértése elkövetésének megállapításai semmisnek tekintendők, amennyiben az elítélés vagy a megállapítás alapját kizárólag rendőri jelentés, illetve rendőri tanúvallomás képezte.
 
 2. § Az első fokon eljárt bíróság – az ügyész indítványára, illetve a terhelt vagy a szabálysértési eljárás alá vont személy, a védő, továbbá a terhelt vagy a szabálysértési eljárás alá vont személy hozzátartozója kérelmére – semmisnek
 

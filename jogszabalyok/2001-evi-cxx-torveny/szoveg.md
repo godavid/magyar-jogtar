@@ -10,30 +10,28 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 1. § Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed
 
-- a) a sorozatban kibocsátott értékpapír Magyar Köztársaság területén, valamint magyar kibocsátó által külföldön történő forgalomba hozatalára, a sorozatban kibocsátott értékpapír Magyar Köztársaság területén működő tőzsdére történő bevezetésére,
-- b) a Magyar Köztársaság területén székhellyel rendelkező vagy magyarországi szabályozott piacra bevezetett nyilvánosan működő társaságban történő befolyásszerzésre,
-- c) a Magyar Köztársaság területén székhellyel rendelkező befektetési alapkezelő külföldön alapított fióktelepe által végzett befektetési alapkezelési tevékenységére,
-- d) a Magyar Köztársaság területén végzett befektetési alapkezelési tevékenységre,
-- e) a Magyar Köztársaság területén székhellyel rendelkező befektetési alapkezelő határon át történő szolgáltatás nyújtására,
-- f) a Magyar Köztársaság területén székhellyel rendelkező tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységére,
-- g) a Magyar Köztársaság területén székhellyel rendelkező szabályozott piac, tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységet végző szervezet által végzett határon átnyúló szolgáltatásra,
+- a) a sorozatban kibocsátott értékpapír Magyarország területén történő forgalomba hozatalára, valamint magyar kibocsátó által – ide nem értve a magyar államot – az Európai Unió területén történő nyilvános forgalomba hozatalára, a sorozatban kibocsátott értékpapír Magyarország területén működő tőzsdére történő bevezetésére,
+- b) a Magyarország területén székhellyel rendelkező vagy magyarországi szabályozott piacra bevezetett nyilvánosan működő társaságban történő befolyásszerzésre,
+- c)–e)
+- f) a Magyarország területén székhellyel rendelkező tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységére,
+- g) a Magyarország területén székhellyel rendelkező szabályozott piac, tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységet végző szervezet által végzett határon átnyúló szolgáltatásra,
 - h) a Befektető-védelmi Alapra, illetőleg az Alap által nyújtott biztosításra,
 - i) a magyar hatóság által ellátott, e törvényben meghatározott felügyeleti tevékenységre,
 - j) a kiszervezett tevékenységet végző e törvény szerinti felügyeletére,
 - k) befektetési vállalkozásnak nem minősülő, az összevont alapú felügyelet hatálya alá tartozó befektetési vállalkozással, illetőleg pénzügyi holdingtársasággal szoros kapcsolatban álló vállalkozásra, vegyes tevékenységű holdingtársaságra,
 - l) befektetési vállalkozásnak nem minősülő, a kiegészítő felügyelet hatálya alá tartozó befektetési vállalkozással, illetőleg vegyes pénzügyi holding társasággal szoros kapcsolatban álló vállalkozásra, vegyes pénzügyi holding társaságra,
-- m) a Magyar Köztársaság területén lakóhellyel vagy székhellyel rendelkező személy vagy szervezet által készített, illetve terjesztett befektetési ajánlásra,
-- n) a Magyar Köztársaság területén végzett, e törvényben meghatározott kockázati tőkealap-kezelési tevékenységre, valamint a Magyar Köztársaság területén székhellyel rendelkező, e törvény szerinti kockázati tőkealapok, illetve kockázati tőkealap-kezelők alapítására, létrehozatalára, működésére és felügyeletére,
-- o) a Magyar Köztársaság területén székhellyel rendelkező kockázati tőkealap-kezelő külföldön alapított fióktelepe által végzett kockázati tőkealap-kezelési tevékenységre,
-- p) a Magyar Köztársaság területén székhellyel rendelkező kockázati tőkealap-kezelő határon át történő szolgáltatás nyújtására,
-- q) a Magyar Köztársaság területén a befektetési vállalkozás, a befektetési alapkezelő, a befektetési alap, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a központi szerződő fél, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott értékpapír-kölcsönzésre.
+- m) a Magyarország területén lakóhellyel vagy székhellyel rendelkező személy vagy szervezet által készített, illetve terjesztett befektetési ajánlásra,
+- n) a Magyarország területén végzett, e törvényben meghatározott kockázati tőkealap-kezelési tevékenységre, valamint a Magyarország területén székhellyel rendelkező, e törvény szerinti kockázati tőkealapok, illetve kockázati tőkealap-kezelők alapítására, létrehozatalára, működésére és felügyeletére,
+- o) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kezelő külföldön alapított fióktelepe által végzett kockázati tőkealap-kezelési tevékenységre,
+- p) a Magyarország területén székhellyel rendelkező kockázati tőkealap-kezelő határon át történő szolgáltatás nyújtására,
+- q) Magyarország területén a befektetési vállalkozás, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a központi szerződő fél, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott értékpapír-kölcsönzésre.
 
 2. § Nem tartozik a törvény hatálya alá
 
 - a) a szövetkezeti üzletrész, a csekk, a váltó, a kárpótlási jegy, a közraktárjegy forgalomba hozatala, és az állampapír zártkörű forgalomba hozatala,
 - b) az a pénzügyi holdingtársaság, amelynek leányvállalatai között van hitelintézet.
 
-3. § (1) Fióktelep formájában működő befektetési alapkezelő tekintetében a 355. §, a 11. számú mellékletnek a személyi feltételekre vonatkozó rendelkezéseit, fióktelep formájában működő tőzsde tekintetében a 307–310. §, a 355–357. §, fióktelep formájában működő elszámolóházi tevékenységet végző szervezet, központi szerződő fél tekintetében a 355–357. §, fióktelep formájában működő központi értéktár esetén a 342. §, 355–357. § rendelkezéseit nem kell alkalmazni.
+3. § (1) Fióktelep formájában működő tőzsde tekintetében a 307–310. §, a 355–357. §, fióktelep formájában működő elszámolóházi tevékenységet végző szervezet, központi szerződő fél tekintetében a 355–357. §, fióktelep formájában működő központi értéktár esetén a 342. §, 355–357. § rendelkezéseit nem kell alkalmazni.
 
 (2) A Hatodik részt nem kell alkalmazni azokra az ügyletekre, amelyeket devizatartalék-kezelés, monetáris, árfolyam- vagy államadósság-kezelési politikája következtében hajt végre az állam, az MNB, az ÁKK Zrt., a Központi Bankok Európai Rendszere vagy bármely más, erre feljogosított szerv, illetve a képviseletükben eljáró bármely személy.
 
@@ -56,13 +54,12 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 7. áru: minden vagyoni értékkel bíró forgalomképes birtokba vehető dolog, vagy dolog módjára hasznosítható természeti erő, valamint az üvegházhatású gáz kibocsátási egység és a légszennyező anyag kibocsátási jog, ide nem értve a pénzügyi eszközt,
 - 8. banki ágazat: hitelintézet, pénzügyi vállalkozás, illetőleg járulékos vállalkozás,
 - 9. befektetési ajánlás: pénzügyi eszközre, tőzsdei termékre vagy annak kibocsátójára vonatkozó olyan elemzés, javaslat vagy más információ, amelynek nyilvánosságra hozatala vagy mások számára oly módon történő hozzáférhetővé tétele, amely alapján az nyilvánosságra kerülhet, befolyásolhatja, hogy a befektető saját vagy más pénzét, egyéb vagyontárgyát részben vagy egészben a tőkepiac hatásaitól tegye függővé,
-- 10. befektetési alap: befektetési jegyek nyilvános vagy zártkörű kibocsátásával létrehozott és működtetett, jogi személyiséggel rendelkező vagyontömeg, amelyet a befektetési alapkezelő a befektetők általános megbízása alapján, azok érdekében kezel,
-- 11. befektetési alapkezelési tevékenység: a befektetési alapkezelő által, a meghirdetett befektetési elveknek megfelelő befektetési alap kialakítása és a befektetési alap portfóliójában lévő egyes eszközelemeknek (pénzügyi eszköz vagy ingatlan) a befektetési alapkezelő döntése alapján, a befektetési alap meghirdetett befektetési elveihez igazodó adásvétele,
-- 12. befektetési alapkezelő: befektetési alapkezelési tevékenység végzésére vonatkozó engedéllyel rendelkező részvénytársaság vagy fióktelep,
-- 13. befektetési alap saját tőkéje: a befektetési alap saját tőkéje induláskor a befektetési jegyek névértékének és darabszámának szorzatával egyezik meg, működése során a saját tőke a befektetési alap összesített nettó eszközértékével azonos,
-- 14. befektetési hitel nyújtása: a Bszt.-ben meghatározott szolgáltatás,
-- 15. befektetési jegy: befektetési alap nevében (javára és terhére) – e törvényben meghatározott módon és alakszerűséggel – sorozatban kibocsátott, vagyoni és egyéb jogokat biztosító, átruházható értékpapír,
-- 16. befektetési jegy folyamatos forgalmazása: a nyílt végű befektetési alapra kibocsátott befektetési jegyeknek a befektetési alap nevében történő folyamatos forgalomba hozatala és visszaváltása,
+- 10. befektetési alap: Batv.-ben meghatározott fogalom,
+- 11.
+- 12. befektetési alapkezelő: Batv.-ben meghatározott fogalom,
+- 13–14.
+- 15. befektetési jegy: Batv.-ben meghatározott fogalom,
+- 16.
 - 17. befektetési szolgáltatási ágazat: befektetési vállalkozás,
 - 18. befektetési tanácsadás: a Bszt.-ben meghatározott tevékenység,
 - 19. befektetési vállalkozás: a Bszt.-ben meghatározott vállalkozás,
@@ -106,9 +103,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 44. értékpapír-kölcsönzés: értékpapír tulajdonjogának olyan átruházása, amelynek keretében a kölcsönbe adó a kölcsönbe vevő részére azzal a kötelezettséggel ruház át értékpapírt, hogy a kölcsönbe vevő köteles azonos darabszámú és azonos sorozatú értékpapírt egy, a szerződésben vagy a kölcsönbe adó által meghatározott jövőbeni időpontban visszaadni a kölcsönbe adó vagy az általa megjelölt harmadik személy részére,
 - 45. értékpapír-sorozat: e törvény eltérő rendelkezése hiányában az azonos előállítású, azonos jogokat megtestesítő értékpapír egy meghatározott időpontban forgalomba hozott teljes mennyisége, illetve az eltérő időpontban forgalomba hozott értékpapírok valamely későbbi időpontban azonos jogokat megtestesítő teljes mennyisége,
 - 46. értékpapírszámla: a dematerializált értékpapírról és a hozzá kapcsolódó jogokról az értékpapír-tulajdonos javára vezetett nyilvántartás,
-- 47. felosztott hozam: a tőkenövekmény azon része, amelyet a befektetési alapkezelő a kezelési szabályzat szerint a befektetési alapkezelés eredményeképpen a befektetési jegyek után köteles kifizetni,
+- 47.
 - 48. felügyeleti hatóság: a külföldi befektetési vállalkozás, árutőzsdei szolgáltató, pénzügyi intézmény, befektetési alapkezelő, szabályozott piac, tőzsde, központi értéktár, elszámolóházi tevékenységet végző szervezet, központi szerződő fél tevékenységi felügyeletét ellátó külföldi szervezet,
-- 49. folyamatos kibocsátás: a hitelviszonyt megtestesítő értékpapír, valamint a nyílt végű befektetési alap befektetési jegyének olyan forgalomba hozatala, amikor az értékesítés hatvan napot meghaladó időszak alatt történik úgy, hogy az egyes értékpapírok futamideje értékesítésük időpontjától kezdődik,
+- 49.
 - 50. forgalomba hozatal: az értékpapír tulajdonjogának első ízben történő keletkeztetésére irányuló eljárás,
 - 51. forgalmazó: az értékpapír forgalomba hozatalában közreműködő befektetési vállalkozás, hitelintézet,
 - 52. főiroda: az a hely, ahol a vállalkozás üzleti tevékenységével kapcsolatos központi döntéshozatal történik,
@@ -118,9 +115,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 56. hátralévő átlagos futamidő: fix kamatozású kötvények esetén az egyes kifizetésekig hátralévő időtartamnak a – kifizetések lejáratig számított hozammal diszkontált jelenértékének a kötvény árfolyamához viszonyított arányával – súlyozott átlaga. Változó kamatozású kötvények esetén az átlagos hátralévő futamidő a következő kamatmegállapításig hátralévő időtartammal egyenlő (duration),
 - 57. hitelviszonyt megtestesítő értékpapír: minden olyan értékpapír, amelyben a kibocsátó (az adós) meghatározott pénzösszegnek a rendelkezésére bocsátását elismerve arra kötelezi magát, hogy a pénz (kölcsön) összegét, valamint kamatozó értékpapír esetén annak meghatározott módon számított kamatát vagy egyéb hozamát (a továbbiakban együtt: kamat), illetőleg az általa vállalt egyéb szolgáltatásokat az értékpapír birtokosának (a hitelezőnek) a megjelölt időben és módon megfizeti, illetve teljesíti,
 - 58. hosszú pozíció: minden olyan pozíció, amely esetében az érdekeltség az alapul szolgáló eszköz árváltozását tekintve, áremelkedés hatására értéknövekedésben nyilvánul meg,
-- 59. indexkövető befektetési alap: olyan befektetési alap, amely befektetési politikájában valamely szabályozott piac által meghirdetett index, illetve valamely, a lehetséges befektetők részére előre meghirdetett, a Felügyelet által jóváhagyott egyéb index leképezésére vállalkozott,
+- 59.
 - 60. intézményi befektető:
-  - a) a hitelintézet, a pénzügyi vállalkozás, a befektetési vállalkozás, a befektetési alap, a befektetési alapkezelő, a kockázati tőkealap, a kockázati tőkealap-kezelő, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egészségbiztosítási szerv és a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
+  - a) a hitelintézet, a pénzügyi vállalkozás, befektetési vállalkozás, a kollektív befektetési forma, befektetési alapkezelő, a kockázati tőkealap, a kockázati tőkealap-kezelő, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egészségbiztosítási szerv és a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
   - b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 - 61. ISIN azonosító: a központi értéktár által kiadott, az azonos jogokat megtestesítő értékpapírok, illetőleg tőzsdei termékek azonosítására szolgáló betű vagy számjel összessége, illetve ezek kombinációja,
 - 62. járulékos vállalkozás: olyan vállalkozás, amely kizárólagosan vagy elsődlegesen egy vagy több befektetési vállalkozás, elszámolóházi tevékenységet végző szervezet, központi értéktár, központi szerződő fél vagy befektetési alapkezelő üzletszerű tevékenységét kiegészítő tevékenységet, így különösen ingatlankezelést, adatfeldolgozást, pénzszállítást, biztonsági, illetőleg kommunikációs szolgáltatást végez,
@@ -140,10 +137,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 73. kockázati tőkealap-kezelési tevékenység: a kockázati tőkealap-kezelő által a meghirdetett befektetési elveknek megfelelő kockázati tőkealap kialakítása és a kockázati tőkealap vagyonának a kockázati tőkealap-kezelő döntése alapján a kockázati tőkealap alapkezelési szabályzatában meghirdetett befektetési elveknek megfelelő kezelése, befektetése,
 - 74. kockázati tőkealap-jegy: a kockázati tőkealap nevében (javára és terhére) – e törvényben meghatározott módon és alakszerűséggel – sorozatban kibocsátott, vagyoni és egyéb jogokat biztosító, átruházható értékpapír,
 - 75. konszolidált beszámoló: az Szmt. szerint meghatározott beszámoló,
-- 76. kollektív befektetési értékpapír:
-  - a) a befektetési jegy, továbbá
-  - b) az olyan külföldi intézményben való részvételt tanúsító – bemutatóra vagy névre szóló – okirat, amely intézmény alapító okiratában meghatározott célja – az egyes befektetésekkel járó kockázatviselést megosztva – az értékpapírokba vagy más eszközökbe történő befektetés,
-- 77. kollektív befektetési forma: a Bszt.-ben meghatározott fogalom,
+- 76. kollektív befektetési értékpapír: a Batv.-ben meghatározott fogalom,
+- 77. kollektív befektetési forma: a Batv.-ben meghatározott fogalom,
 - 78. közeli hozzátartozó: a Ptk.-ban meghatározott személy és az élettárs,
 - 79. központi értékpapír-nyilvántartás: a központi értéktár által vezetett, a belföldön kibocsátott értékpapírok adatait visszakereshető módon tartalmazó nyilvántartás,
 - 80. központi értékpapírszámla: a központi értéktár által a dematerializált értékpapírról sorozatonként vezetett összesített nyilvántartás,
@@ -159,18 +154,18 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 90. likvid eszköz: a pénz, hitelintézettel állampapírra kötött, felmondhatóságában nem korlátozott repó, az átruházhatóságában nem korlátozott, bármikor pénzzé tehető állampapír, továbbá a felmondhatóságában nem korlátozott bankbetét,
 - 91. másodlagos értékpapír: letétkezelő által a másodlagos értékpapír tulajdonosa (végső jogosult) részére kibocsátott, az elsődleges értékpapírra vonatkozó rendelkezési jogot, illetőleg az értékpapír által megtestesített jogok gyakorlását biztosító, sorozatban kibocsátott, névre szóló, átruházható értékpapír,
 - 92. minősített befektető:
-  - a) a pénzügyi piacokon működő, a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által engedélyezett vagy szabályozott jogi személy, ideértve a hitelintézetet, a pénzügyi vállalkozást, befektetési vállalkozást, biztosítót, befektetési alapot, befektetési alapkezelőt, önkéntes kölcsönös biztosító pénztárat, magánnyugdíjpénztárat, árutőzsdei szolgáltatót, valamint minden olyan jogi személyt, amelynek kizárólagos tevékenysége értékpapírokba vagy egyéb pénzügyi eszközökbe történő befektetés,
+  - a) a pénzügyi piacokon működő, a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által engedélyezett vagy szabályozott jogi személy, ideértve a hitelintézetet, a pénzügyi vállalkozást, befektetési vállalkozást, biztosítót, kollektív befektetési formát, befektetési alapkezelőt, önkéntes kölcsönös biztosító pénztárat, magánnyugdíjpénztárat, árutőzsdei szolgáltatót, valamint minden olyan jogi személyt, amelynek kizárólagos tevékenysége értékpapírokba vagy egyéb pénzügyi eszközökbe történő befektetés,
   - b) nemzeti és regionális kormányok, központi bankok, nemzetközi és nemzetek feletti pénzügyi szervezetek,
   - c) kis- és középvállalkozásnak nem minősülő vállalkozás,
   - d) olyan természetes személy, akit a Felügyelet, illetőleg a lakóhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága saját kérésére annak minősített, feltéve, hogy szerepel a lakóhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által vezetett nyilvántartásban,
   - e) olyan kis- és középvállalkozás, amelyet a Felügyelet, illetőleg a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága saját kérésére annak minősített, feltéve, hogy szerepel a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által vezetett nyilvántartásban,
-- 93. nettó eszközérték: a befektetési alap portfóliójában szereplő eszközök – ideértve a kölcsönbe adásból származó követeléseket is – értéke, csökkentve a portfóliót terhelő összes kötelezettséggel, beleértve a passzív időbeli elhatárolásokat is,
+- 93.
 - 94. nyilvános ajánlattétel: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
 - 95. nyilvános forgalomba hozatal: az értékpapír nem zártkörű forgalomba hozatala,
 - 96. nyilvános vételi ajánlat (vételi ajánlat): olyan, a céltársaság részvényeseihez szóló, a céltársaság részvényei vagy azok egy részének megszerzésére tett (nem a céltársaságtól származó) nyilvános felhívás, amelynek célja vagy eredménye a céltársaságban való befolyásszerzés, illetőleg a meglévő befolyás mértékének a növelése,
 - 97. nyilvántartott: a Hpt.-ben meghatározott fogalom,
 - 98. nyitva szállítás: olyan átruházható értékpapírral kapcsolatos ügylet, amelynek során az értékpapír és az ellenérték szolgáltatása (átutalása) nem azonos időpontban történik,
-- 99. nyílt végű befektetési alap: az olyan befektetési alap, amelynél visszaváltható befektetési jegyek kerülnek folyamatos forgalmazásra,
+- 99. nyílt végű befektetési alap: a Batv. szerinti befektetési alap,
 - 100. összehangoltan eljáró személyek: olyan természetes személyek, jogi személyek, illetőleg jogi személyiség nélküli egyéb szervezetek, akik/amelyek a céltársaságban történő befolyásszerzésre, a céltársaság irányításának megszerzésére vagy vételi ajánlat meghiúsítására irányuló megállapodás alapján működnek együtt,
 - 101. pénzpiaci eszköz: sorozatban kibocsátott, pénzkövetelésre szóló eszköz, amellyel a pénzpiacon kereskednek,
 - 102. pénzügyi ágazat: a banki ágazat, a befektetési szolgáltatási ágazat, a biztosítási szolgáltatási ágazat, illetőleg a vegyes pénzügyi holding társaság,
@@ -180,7 +175,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 106. portfóliókezelés: a Bszt.-ben meghatározott tevékenység,
 - 107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló pénzügyi ügyletből eredő tartozásoknak és követeléseknek az adott pénzügyi termék piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
 - 108. referenciaadat: a Hpt.-ben meghatározott fogalom,
-- 109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetőleg értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
+- 109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetve értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, kollektív befektetési forma, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
 - 110. repó- és fordított repóügylet: minden olyan megállapodás, amely értékpapír vagy áru tulajdonjogának, illetve az értékpapír vagy áru tulajdonjogához fűződő garantált jog átruházására vonatkozik – ha e garanciát olyan elismert tőzsde bocsátja ki, amely az értékpapírhoz vagy az áruhoz fűződő joggal rendelkezik –, és a megállapodás nem teszi lehetővé az eladó számára, hogy az adott értékpapírt vagy árut adott időpontban egyszerre több félnek ruházza át, illetőleg más ügylethez adja biztosítékul. A szerződéskötéssel egyidejűleg az értékpapírra vagy árura az eladó visszavásárlási kötelezettséget, a vevő az eladó részére történő viszonteladási kötelezettséget vállal a szerződésben meghatározott vagy az eladó által meghatározandó jövőbeli időpontban történő meghatározott visszavásárlási, illetve viszonteladási áron. A felek közötti megállapodás rendelkezhet úgy is, hogy az ügylet tárgyát képező és biztosítékul szolgáló értékpapír vagy áru más, egyenértékű értékpapírra vagy árura kicserélhető. Az ügylet az értékpapír vagy áru eladója szempontjából repóügyletnek, az értékpapír vagy áru vevője szempontjából fordított repóügyletnek tekintendő,
 - 111. részesedési viszony: a Hpt.-ben meghatározott fogalom,
 - 112. rövid pozíció: minden olyan pozíció, amely esetében az érdekeltség az alapul szolgáló eszköz árváltozását tekintve, árcsökkenés hatására értéknövekedésben nyilvánul meg,
@@ -206,7 +201,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 127. tulajdonosi megfeleltetés: a központi értéktár által az értékpapírszámla-vezetők közreműködésével végzett, a dematerializált részvény tulajdonosának azonosítását szolgáló eljárás,
 - 128. ügyfél: az a személy, aki e törvény hatálya alá tartozó szolgáltatást vesz igénybe,
 - 129. ügyfélcsoport: a Hpt.-ben meghatározott fogalom,
-- 130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, befektetési vállalkozás, hitelintézet, árutőzsdei szolgáltató által vezetett számla,
+- 130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, befektetési vállalkozás, hitelintézet, árutőzsdei szolgáltató, befektetési alapkezelő által vezetett számla,
 - 131. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
 - 132. vegyes pénzügyi holding társaság: olyan anyavállalat, amely nem szabályozott vállalkozás, és leányvállalataival – amelyek között van egy, az Európai Unió valamely tagállamában székhellyel rendelkező szabályozott vállalkozás –, valamint más vállalkozásaival együtt pénzügyi konglomerátumot alkot,
 - 133. vegyes tevékenységű holding társaság: olyan hitelintézetnek, befektetési vállalkozásnak, pénzügyi holding társaságnak és vegyes pénzügyi holding társaságnak nem minősülő vállalkozás, amelynek legalább egy befektetési vállalkozás leányvállalata van,
@@ -214,7 +209,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
   - a) a vállalkozás vezető tisztségviselője, felügyelő bizottsági tagja,
   - b) a fióktelep esetén a fióktelep vezetésére a külföldi vállalkozás által kinevezett személy és annak közvetlen helyettese, és
   - c) minden olyan személy, akit a vállalkozás alapszabálya, alapító okirata, társasági szerződése, szervezeti és működési szabályzata ilyenként határoz meg,
-- 135. zárt végű befektetési alap: az olyan befektetési alap, amelyre a futamidő lejáratának kivételével vissza nem váltható befektetési jegyek kerülnek kibocsátásra és forgalomba hozatalra,
+- 135.
 - 136. ellenőrzött vállalkozás: olyan vállalkozás,
   - a) amely esetén a szavazati jogok többségét egy személy gyakorolhatja,
   - b) amelynek egy tulajdonosa jogosult a vállalkozás döntéshozó, ügyvezető vagy felügyelő szervei, testületi tagjainak többségét kinevezni vagy felmenteni,
@@ -302,7 +297,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (4) Ha a benyújtott értékpapír zárolt alszámlán volt elhelyezve, a számlavezető köteles gondoskodni arról, hogy a dematerializált értékpapír változatlan feltételekkel, a folyamatosságot biztosítva zárolt értékpapír-alszámlán kerüljön jóváírásra.
 
-12. § (1) Az átalakítás napjával a kibocsátó az átalakított értékpapír-sorozatot érvénytelenné nyilvánítja, dematerializált értékpapírrá alakítja. Az átalakításra érvényesen be nem nyújtott értékpapírok sorszámát a kibocsátó nyilvántartásba veszi. Hitelviszonyt megtestesítő értékpapír és befektetési jegy átalakítása esetén a nyomdai úton előállított értékpapír tulajdonosa – az értékpapír benyújtásával és az értékpapírszámlát vezető befektetési vállalkozás, hitelintézet megjelölésével – az értékpapír lejáratáig, a befektetési jegyet kibocsátó befektetési alap megszűnéséig kérheti a dematerializált értékpapír értékpapírszámláján történő jóváírását. Részvény, egyéb tulajdonviszonyt megtestesítő értékpapír esetében a kibocsátó az átalakított értékpapírokat – az átalakítástól számított hat hónapon belül – befektetési vállalkozás, hitelintézet közreműködésével értékesíti. Az értékesítés szabályait a kibocsátó az átalakításról szóló hirdetményben jelenteti meg. Az értékesítés eredménytelensége esetén a kibocsátó az értékesítésre nyitva álló határidő lejártát követő első közgyűlésen az alaptőkét leszállítja.
+12. § (1) Az átalakítás napjával a kibocsátó az átalakított értékpapír-sorozatot érvénytelenné nyilvánítja, dematerializált értékpapírrá alakítja. Az átalakításra érvényesen be nem nyújtott értékpapírok sorszámát a kibocsátó nyilvántartásba veszi. Hitelviszonyt megtestesítő értékpapír és befektetési jegy átalakítása esetén a nyomdai úton előállított értékpapír tulajdonosa – az értékpapír benyújtásával és az értékpapírszámlát vezető befektetési vállalkozás, hitelintézet, befektetési alapkezelő megjelölésével – az értékpapír lejáratáig, a befektetési jegyet kibocsátó befektetési alap megszűnéséig kérheti a dematerializált értékpapír értékpapírszámláján történő jóváírását. Részvény, egyéb tulajdonviszonyt megtestesítő értékpapír esetében a kibocsátó az átalakított értékpapírokat – az átalakítástól számított hat hónapon belül – befektetési vállalkozás, hitelintézet közreműködésével értékesíti. Az értékesítés szabályait a kibocsátó az átalakításról szóló hirdetményben jelenteti meg. Az értékesítés eredménytelensége esetén a kibocsátó az értékesítésre nyitva álló határidő lejártát követő első közgyűlésen az alaptőkét leszállítja.
 
 (2) Az érvénytelenné nyilvánított értékpapír forgalom tárgya nem lehet, azonban annak bemutatásával tulajdonosa követelheti részére a dematerializált értékpapír kiadását, vagy ha az értékesítés megtörtént, illetőleg a hitelviszonyt megtestesítő értékpapír lejárt, vagy a befektetési jegyet kibocsátó befektetési alap megszűnt, az értékesített dematerializált értékpapír ellenértékét, illetőleg a lejáratkor esedékes összeget. Az értékesített értékpapír ellenértékét, illetve a lejáratkor esedékes összeget a tulajdonos jelentkezéséig a kibocsátó hitelintézetnél nyitott letéti számlán tartja. A benyújtási határidőt elmulasztó értékpapír-tulajdonos az igényének érvényesítéséig felmerült költségeket köteles megfizetni. Az értékpapír kiadása iránti követelés helyébe lépő pénzkövetelés elévülésére az értékpapírban megtestesített követelés elévülésére irányadó szabályok érvényesek.
 
@@ -336,10 +331,11 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (4)
 
-15. § Hitelviszonyt megtestesítő értékpapír zártkörű forgalomba hozatala esetén a Bszt. 5. §-a (1) bekezdésének f) és g) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozás, hitelintézet (e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató) igénybevétele kötelező, kivéve, ha
+15. § Hitelviszonyt megtestesítő értékpapír zártkörű forgalomba hozatala esetén a Bszt. 5. § (1) bekezdésének f) és g) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozás, hitelintézet (e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató) igénybevétele kötelező, kivéve, ha
 
 - a) hitelintézet, illetve befektetési vállalkozás saját kibocsátású értékpapírt hoz forgalomba, illetve az állampapír kibocsátója saját maga végzi a forgalomba hozatalt;
-- b) a külföldi hitelintézet, illetve a külföldi befektetési vállalkozás saját kibocsátású értékpapírját fióktelepe útján hozza forgalomba.
+- b) a külföldi hitelintézet, illetve a külföldi befektetési vállalkozás saját kibocsátású értékpapírját fióktelepe útján hozza forgalomba;
+- c) a befektetési alapkezelő az általa kezelt befektetési alap befektetési jegyét hozza forgalomba.
 
 16. § Értékpapír zártkörű forgalomba hozatala során a kibocsátó, illetve a forgalmazó köteles biztosítani, hogy minden befektető ugyanazokat a lényeges, a kibocsátó piaci, gazdasági, pénzügyi, jogi helyzetének és várható alakulásuknak, valamint az értékpapírhoz kapcsolódó jogoknak a befektetők részéről történő megalapozott megítéléséhez szükséges információkat megkapja, ideértve azokat az információkat is, amelyek a befektetőkkel személyesen folytatott megbeszélések keretében merültek fel.
 
@@ -423,12 +419,13 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (7) A Felügyelet a (2) és (5) bekezdésben meghatározott dokumentumban szereplő információknak a tájékoztatóban foglalt információkkal való egyenértékűségéről külön eljárásban tíz munkanapon belül dönt. Ha a Felügyelet a kérelmet nem bírálja el vagy hiánypótlást nem rendel el, akkor a dokumentum által tartalmazott információkat úgy kell tekinteni, hogy azok a tájékoztatóban foglalt információkkal egyenértékűek.
 
-23. § (1) Értékpapír nyilvános forgalomba hozatalának előkészítésével és lebonyolításával a kibocsátó, illetőleg az ajánlattevő befektetési szolgáltatót köteles megbízni, kivéve, ha
+23. § (1) Értékpapír nyilvános forgalomba hozatalának előkészítésével és lebonyolításával a kibocsátó, illetve az ajánlattevő befektetési szolgáltatót köteles megbízni, kivéve, ha
 
 - a) a nyilvános forgalomba hozatal szabályozott piacra történő bevezetéssel történik;
 - b) az állampapírt a kibocsátó saját maga hozza forgalomba;
-- c) hitelintézet, illetve befektetési vállalkozás saját kibocsátású értékpapírját hozza forgalomba, vagy
-- d) külföldi hitelintézet, illetve külföldi befektetési vállalkozás saját kibocsátású értékpapírját fióktelepe útján hozza forgalomba.
+- c) a befektetési alapkezelő az általa kezelt befektetési alap befektetési jegyét hozza forgalomba;
+- d) hitelintézet, illetve befektetési vállalkozás saját kibocsátású értékpapírját hozza forgalomba, vagy
+- e) külföldi hitelintézet, illetve külföldi befektetési vállalkozás saját kibocsátású értékpapírját fióktelepe útján hozza forgalomba.
 
 (2) Hitelviszonyt megtestesítő értékpapír nyilvános forgalomba hozatala kibocsátási program keretében is történhet. A kibocsátási program keretében különböző fajtájú hitelviszonyt megtestesítő értékpapírok is forgalomba hozhatók, illetőleg különböző forgalomba hozatali módok is alkalmazhatók.
 
@@ -562,9 +559,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (4) A (3) bekezdés szerinti reklámban meg kell jelölni, hogy az értékpapír nyilvános forgalomba hozatalával kapcsolatosan tájékoztató közzétételére került vagy kerül sor, és hogy a tájékoztató hol hozzáférhető.
 
-(5) A forgalomba hozatali eljárás lezárásáig, illetőleg a szabályozott piacon a kereskedés megkezdéséig a kereskedelmi kommunikáció tervezetét a Felügyelethez a nyilvánosságra hozatala előtt legalább öt munkanappal be kell nyújtani. A Felügyelet a kereskedelmi kommunikáció nyilvánosságra hozatalát megtiltja, ha annak tartalma ellentétes vagy félrevezető információt tartalmaz a benyújtott, illetve közzétételre engedélyezett tájékoztatóban foglaltakhoz képest, vagy egyébként a tisztességtelen kereskedelmi gyakorlat Fttv.-ben meghatározott tilalmába ütközik.
+(5) A forgalomba hozatali eljárás lezárásáig, illetőleg a szabályozott piacon a kereskedés megkezdéséig a kereskedelmi kommunikáció tervezetét a Felügyelethez a nyilvánosságra hozatalával egyidejűleg be kell nyújtani. A Felügyelet a kereskedelmi kommunikáció nyilvánosságra hozatalát megtiltja, ha annak tartalma ellentétes vagy félrevezető információt tartalmaz a benyújtott, illetve közzétételre engedélyezett tájékoztatóban foglaltakhoz képest, vagy egyébként a tisztességtelen kereskedelmi gyakorlat Fttv.-ben meghatározott tilalmába ütközik.
 
-(6) Ha a Felügyelet a kereskedelmi kommunikáció tervezetének benyújtását követő öt munkanapon belül nem nyilatkozik, úgy kell tekinteni, hogy annak nyilvánosságra hozatalát a Felügyelet – a feladat- és hatáskörébe tartozó jogszabályi előírások szempontjából – jóváhagyta.
+(6)
 
 36. § (1) A 26. §-ban meghatározott tájékoztató, illetve a 27. § (4) bekezdésében meghatározott alaptájékoztató, valamint a hirdetmény közzétételéhez – a (2)–(3) bekezdésben foglalt eltéréssel – a Felügyelet engedélye szükséges.
 
@@ -611,11 +608,11 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 (7) Ha a kérelmező az (1) bekezdés g) pontjában meghatározott adatokat nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
 
-39. § (1) A Felügyelet a benyújtott engedélykérelmet átadhatja engedélyezésre másik tagállam hatáskörrel rendelkező felügyeleti hatóságának. Az átadáshoz a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának hozzájárulása szükséges. Az engedélyezés átadásáról a Felügyelet a kérelmezőt a döntését követő három munkanapon belül értesíti.
+39. § (1) A Felügyelet a benyújtott engedélykérelmet átadhatja engedélyezésre másik tagállam hatáskörrel rendelkező felügyeleti hatóságának. Az átadáshoz a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának hozzájárulása és az Európai Értékpapír-piaci Hatóság előzetes értesítése szükséges. Erre az esetre a 1095/2010/EU rendelet 28. cikkének (4) bekezdése nem alkalmazandó. Az engedélyezés átadásáról a Felügyelet a kérelmezőt a döntését követő három munkanapon belül értesíti.
 
 (2) A Felügyelet másik tagállam hatáskörrel rendelkező felügyeleti hatóságának megkeresése esetén elvégezheti a másik tagállam hatáskörrel rendelkező felügyeleti hatóságához benyújtott kérelem alapján a tájékoztató vagy alaptájékoztató közzétételének engedélyezését. Az engedély megadásának vagy elutasításának határideje ebben az esetben attól a naptól kezdődően számítandó, amikor a másik tagállam hatáskörrel rendelkező felügyeleti hatósága a kérelmezőt az engedélykérelem átadásáról értesíti.
 
-40. § (1) A Felügyelet – ha tizenkét hónapnál nem régebben e törvény 26–27. §-a szerinti tájékoztató vagy alaptájékoztató közzétételét engedélyezte – a kérelmező kérésére hatósági bizonyítványt bocsát a másik tagállam hatáskörrel rendelkező felügyeleti hatósága rendelkezésére, amelyben igazolja, hogy a tájékoztató megfelel az Európai Unió szabályainak. A hatósági bizonyítvánnyal egyidejűleg a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának megküldi a tájékoztatót és – ha a másik tagállamban hatályos szabályok szerint szükséges – a kérelmező által benyújtott más nyelvre lefordított összefoglalót is.
+40. § (1) A Felügyelet – ha tizenkét hónapnál nem régebben e törvény 26–27. §-a szerinti tájékoztató vagy alaptájékoztató közzétételét engedélyezte – a kérelmező kérésére hatósági bizonyítványt bocsát a másik tagállam hatáskörrel rendelkező felügyeleti hatósága rendelkezésére, amelyben igazolja, hogy a tájékoztató megfelel az Európai Unió szabályainak. Erről a tényről értesíti az Európai Értékpapír-piaci Hatóságot is. A hatósági bizonyítvánnyal egyidejűleg a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának megküldi a tájékoztatót és – ha a másik tagállamban hatályos szabályok szerint szükséges – a kérelmező által benyújtott más nyelvre lefordított összefoglalót is.
 
 (2) Ha a Felügyelet a 27. § (5) bekezdése alapján valamely információnak a tájékoztatóból való elhagyását engedélyezte, ennek tényét, valamint indokát is megjelöli a hatósági bizonyítványban.
 
@@ -623,11 +620,11 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 (4) Az (1)–(3) bekezdésben foglaltakat kell alkalmazni a tájékoztató minden kiegészítésére is.
 
-41. § (1) A Felügyelet által közzétételre engedélyezett tájékoztató, alaptájékoztató, illetőleg annak módosítása feljogosítja a kérelmezőt arra, hogy az értékpapírt az Európai Unió bármely másik tagállamában nyilvánosan forgalomba hozza, illetve szabályozott piacra bevezesse. Az értékpapír másik tagállamban történő nyilvános forgalomba hozatalának, illetve szabályozott piacra történő bevezetésének feltétele, hogy a Felügyelet a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának a 40. § szerinti hatósági bizonyítványt elküldje.
+41. § (1) A Felügyelet által közzétételre engedélyezett tájékoztató, alaptájékoztató, illetőleg annak módosítása feljogosítja a kérelmezőt arra, hogy az értékpapírt az Európai Unió bármely másik tagállamában nyilvánosan forgalomba hozza, illetve szabályozott piacra bevezesse. Az értékpapír másik tagállamban történő nyilvános forgalomba hozatalának, illetve szabályozott piacra történő bevezetésének feltétele, hogy a Felügyelet a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának és az Európai Értékpapír-piaci Hatóságnak a 40. § szerinti hatósági bizonyítványt elküldje.
 
-(2) Ha a tájékoztató, illetve az alaptájékoztató közzétételének engedélyezése és a kérelmező 40. § (1) bekezdése szerinti kérelme között eltelt időben olyan új tény, körülmény jut a Felügyelet tudomására, ami a tájékoztató, illetve az alaptájékoztató kiegészítését teszi szükségessé, a Felügyelet kötelezi a kérelmezőt a tájékoztató kiegészítésére. A tájékoztató kiegészítését a másik tagállam hatáskörrel rendelkező felügyeleti hatósága is kezdeményezheti.
+(2) Ha a tájékoztató, illetve az alaptájékoztató közzétételének engedélyezése és a kérelmező 40. § (1) bekezdése szerinti kérelme között eltelt időben olyan új tény, körülmény jut a Felügyelet tudomására, ami a tájékoztató, illetve az alaptájékoztató kiegészítését teszi szükségessé, a Felügyelet kötelezi a kérelmezőt a tájékoztató kiegészítésére. Az Európai Értékpapír-piaci Hatóság és a másik tagállam hatáskörrel rendelkező felügyeleti hatósága is értesítheti a Felügyeletet a tájékoztató kiegészítésének szükségességéről.
 
-42. § A Felügyelet honlapján közzéteszi az általa közzétételre engedélyezett, e törvény 26–27. §-a szerinti tájékoztatókat és alaptájékoztatókat, vagy az általa közzétételre engedélyezett, a jelen törvény 26–27. §-a szerinti tájékoztatók és alaptájékoztatók listáját. Ha a Felügyelet honlapján a közzétételre engedélyezett tájékoztatók és alaptájékoztatók listáját teszi közzé, ezzel együtt – ha lehetséges – megadja a kibocsátó vagy a szabályozott piac honlapján közzétett tájékoztatóhoz a továbbutalást (hiperhivatkozást) is.
+42. § A Felügyelet honlapján közzéteszi az általa közzétételre engedélyezett, e törvény 26–27. §-a szerinti tájékoztatókat és alaptájékoztatókat, vagy az általa közzétételre engedélyezett, a jelen törvény 26–27. §-a szerinti tájékoztatók és alaptájékoztatók listáját. Ha a Felügyelet honlapján a közzétételre engedélyezett tájékoztatók és alaptájékoztatók listáját teszi közzé, ezzel együtt – ha lehetséges – megadja az Európai Unió másik tagállamának hatáskörrel rendelkező hatósága, a kibocsátó vagy a szabályozott piac honlapján közzétett tájékoztatóhoz a továbbutalást (hiperhivatkozást) is. A közzétett listát a Felügyelet naprakész állapotban tartja és biztosítja, hogy honlapján 12 hónapon át elérhető legyen.
 
 43. § (1) Ha a Magyarországon, illetőleg harmadik országban székhellyel rendelkező kérelmező az értékpapírt kizárólag Magyarországon kívánja nyilvánosan forgalomba hozni, illetve szabályozott piacra bevezetni, a tájékoztatót a Felügyelet által elfogadott nyelven kell elkészíteni.
 
@@ -670,7 +667,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 ### A forgalomba hozatal módja és általános szabályai
 
-47. § (1) A feltételhez kötött forgalomba hozatal semmis. A forgalomba hozatal során a befektető értékpapír megszerzésére vonatkozó nyilatkozata csak írásban, nyomtatott vagy minősített elektronikus aláírással ellátott elektronikus okirat formájában, illetőleg a Felügyelet által engedélyezett kereskedési rendszeren keresztül érvényes. A nyilatkozatban fel kell tüntetni azt, hogy a befektető a nyilatkozatát a tájékoztatóban (alaptájékoztatóban, ismertetőben) foglaltak ismeretében tette meg.
+47. § (1) A feltételhez kötött forgalomba hozatal semmis. A forgalomba hozatal során a befektető értékpapír megszerzésére vonatkozó nyilatkozatában fel kell tüntetni azt, hogy a befektető a nyilatkozatát a tájékoztatóban (alaptájékoztatóban, ismertetőben) foglaltak ismeretében tette meg.
 
 (2) Dematerializált értékpapír forgalomba hozatala esetén nyilatkozat csak olyan személytől fogadható el, aki értékpapír számlavezetésre szerződést kötött és az értékpapír megszerzésére vonatkozó nyilatkozatában az értékpapír-számlavezető azonosító adatait és értékpapírszámlája számát feltüntette. Valótlan adatok feltüntetése esetén az értékpapír megszerzésére vonatkozó nyilatkozat semmis.
 
@@ -773,7 +770,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 (3) A kibocsátó köteles megküldeni a szabályozott információt a hivatalosan kijelölt információtárolási rendszer számára, amely megfelel a biztonsággal, az információforrás bizonyosságával, az időpont rögzítésével és a végfelhasználók általi egyszerű hozzáféréssel kapcsolatos minimális minőségi előírásoknak, és azok összhangban vannak az elektronikus irattározási eljárással.
 
-(4) A kibocsátó rendszeres és rendkívüli tájékoztatást egyidejűleg a Felügyeletnél is köteles elektronikus úton bejelenteni, amelyet a Felügyelet közzétesz az általa üzemeltetett honlapon.
+(4) A kibocsátó a szabályozott információt egyidejűleg a Felügyeletnél is köteles elektronikus úton bejelenteni. A rendszeres és rendkívüli tájékoztatás körébe tartozó információkat a Felügyelet közzéteszi a hivatalosan kijelölt információtárolási rendszeren.
 
 (5) Az információterjesztésre, az információtárolási rendszerre, továbbá a Felügyelet felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat a miniszter rendeletben állapítja meg.
 
@@ -847,7 +844,7 @@ a tájékoztatóban foglalt információra, így különösen a kibocsátó pén
 
 a részvényes, a részvényes másik ellenőrzött vállalkozásának közvetlen, közvetett vagy bármely más módon adott utasítása alapján gyakorolhatja.
 
-(7) Az (1) bekezdés szerinti arány meghatározásakor nem kell figyelembe venni a részvényes ellenőrzött vállalkozásaként működő befektetési alapkezelő, ÁÉKBV-t kezelő vállalkozás, befektetési vállalkozás, hitelintézet szavazati jogát, ha a befektetési alapkezelő, az ÁÉKBV-t kezelő vállalkozás, a befektetési vállalkozás, a hitelintézet rendelkezik portfóliókezelési tevékenység végzésére jogosító engedéllyel, és
+(7) Az (1) bekezdés szerinti arány meghatározásakor nem kell figyelembe venni a részvényes ellenőrzött vállalkozásaként működő kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozás, befektetési vállalkozás, hitelintézet szavazati jogát, ha a kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozás, a befektetési vállalkozás, a hitelintézet rendelkezik portfóliókezelési tevékenység végzésére jogosító engedéllyel, és
 
 - a) papír alapú vagy elektronikus eszköz útján adott konkrét utasítása alapján,
 - b) a részvényestől függetlenül
@@ -856,10 +853,10 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 (8) A (7) bekezdésben foglaltak alkalmazásának további feltétele, hogy
 
-- a) a részvényes megküldi a Felügyeletnek az ellenőrzött vállalkozásaként működő befektetési alapkezelő, ÁÉKBV-t kezelő vállalkozás, befektetési vállalkozás, hitelintézet és a felügyeletüket ellátó, hatáskörrel rendelkező felügyeleti hatóság megnevezését,
+- a) a részvényes megküldi a Felügyeletnek az ellenőrzött vállalkozásaként működő kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozás, befektetési vállalkozás, hitelintézet és a felügyeletüket ellátó, hatáskörrel rendelkező felügyeleti hatóság megnevezését,
 - b) a részvényes megküldi a Felügyeletnek arra vonatkozó nyilatkozatát, hogy
-  - ba) az ellenőrzött vállalkozásaként működő befektetési alapkezelő, ÁÉKBV-t kezelő, befektetési vállalkozás, hitelintézet a részvényestől függetlenül gyakorolhatja az által kezelt portfólióhoz kapcsolódó szavazati jogokat, és
-  - bb) az ellenőrzött vállalkozásaként működő befektetési alapkezelőt, ÁÉKBV-t kezelő vállalkozást, befektetési vállalkozást, hitelintézetet megillető szavazati jog gyakorlásába közvetlen, közvetett utasítással vagy bármely más módon nem avatkozik be,
+  - ba) az ellenőrzött vállalkozásaként működő kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozás, befektetési vállalkozás, hitelintézet a részvényestől függetlenül gyakorolhatja az által kezelt portfólióhoz kapcsolódó szavazati jogokat, és
+  - bb) az ellenőrzött vállalkozásaként működő kollektív befektetési formát megillető szavazati jogot gyakorló vállalkozást, befektetési vállalkozást, hitelintézetet megillető szavazati jog gyakorlásába közvetlen, közvetett utasítással vagy bármely más módon nem avatkozik be,
 - c) a részvényes és az ellenőrzött vállalkozásai írásbeli eljárásrendet fogadnak el és tartanak be a szavazati jog gyakorlásával kapcsolatos egymás közötti információáramlás megakadályozása érdekében.
 
 (9) Az (1) bekezdés szerinti tájékoztatási kötelezettség terheli azt a személyt is, aki közvetlenül vagy közvetve olyan, a Bszt. szerinti pénzügyi eszköznek – ideértve a határidős, opciós szerződéseket is – van a birtokában, amely – a birtokos egyedüli saját kezdeményezésére vagy megállapodás alapján – a kibocsátó szavazati jogot biztosító részvényének és szavazati jogának megszerzését teszi lehetővé.
@@ -884,25 +881,15 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 (15) A Felügyelet a honlapján közzéteszi a szabályozott piac kereskedési napjainak beosztását.
 
-### VI. Fejezet — A KÖZÉRDEKLŐDÉSRE SZÁMOT TARTÓ SZEMÉLYRE VONATKOZÓ ELŐÍRÁSOK
+### VI. Fejezet — A KÖZÉRDEKLŐDÉSRE SZÁMOT TARTÓ KIBOCSÁTÓRA VONATKOZÓ ELŐÍRÁSOK
 
-62. § (1) A szabályozott piacra bevezetett értékpapír kibocsátójának legalább három tagú audit bizottságot kell létrehozni, amelynek tagjait a kibocsátó legfőbb szerve választja.
+62. § (1) Közérdeklődésre számot tartó kibocsátónak minősül a szabályozott piacra bevezetett értékpapír kibocsátója.
 
-(2) Az audit bizottság legalább egy tagjának függetlennek kell lennie és rendelkeznie kell számviteli és/vagy könyvvizsgálói szakképzettséggel. Az audit bizottság tagjává nem válaszható meg az igazgatóság azon tagja, aki a kibocsátóval munkaviszonyban áll.
+(2) A közérdeklődésre számot tartó kibocsátónak a Gt. 311. §-a szerinti audit bizottságot kell létrehoznia és működtetnie, figyelemmel arra, hogy a nem nyilvános részvénytársasági formában működő kibocsátó esetén ahol a Gt. részvénytársaságot és közgyűlést említ, ott az (1) bekezdés szerinti kibocsátót és annak legfőbb szervét kell érteni.
 
-(3) Az audit bizottság feladata:
+(3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha a közérdeklődésre számot tartó kibocsátó rendelkezik olyan testülettel, amely megfelel a Gt. 311. § (1)–(2) bekezdésében meghatározott feltételeknek, és a testület ellátja a Gt. 311. § (3)–(4) bekezdésében foglaltakat. A közérdeklődésre számot tartó kibocsátónak ebben az esetben saját honlapján nyilvánosságra kell hoznia, hogy melyik testület látja el a Gt. 311. § (3)–(4) bekezdésben foglaltakat, továbbá a testület összetételét.
 
-- a) a pénzügyi beszámolás folyamatának figyelemmel kísérése,
-- b) a belső ellenőrzési és kockázatkezelési rendszer hatékonyságának figyelemmel kísérése,
-- c) az éves beszámoló és az összevont (konszolidált) éves beszámoló könyvvizsgálatának nyomon követése,
-- d) a könyvvizsgáló, a könyvvizsgáló cég függetlenségének figyelemmel kísérése, ideértve a könyvvizsgáló, a könyvvizsgáló cég által az éves beszámoló és az összevont (konszolidált) éves beszámoló könyvvizsgálatán kívül a kibocsátónak nyújtott egyéb szolgáltatásokat is,
-- e) javaslattétel a könyvvizsgálóra, könyvvizsgáló cégre.
-
-(4) A könyvvizsgáló, könyvvizsgáló cég az éves beszámoló és az összevont (konszolidált) éves beszámoló könyvvizsgálatának során felmerülő kulcsfontosságú kérdésekről, így különösen a belső ellenőrzési, a pénzügyi beszámolási folyamattal kapcsolatos jelentős hiányosságokról köteles írásban tájékoztatni az audit bizottságot.
-
-(5) Az (1) bekezdésben foglaltakat nem kell alkalmaznia, ha a szabályozott piacra bevezetett értékpapír kibocsátója rendelkezik olyan testülettel, amelynek tagjai megfelelnek a (2) bekezdésben meghatározott feltételeknek és a testület feladata ellátni a (3) bekezdésben foglaltakat. A kibocsátónak ebben az esetben a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra kell hoznia, hogy melyik testület látja el a (3) bekezdésben foglaltakat, továbbá a testület összetételét.
-
-(6) E § rendelkezéseinek alkalmazása során a befektetési jegy kibocsátójának a befektetési alap alapkezelője minősül.
+(4) E § rendelkezéseinek alkalmazása során a befektetési jegy kibocsátójának a befektetési alap alapkezelője minősül.
 
 ### VI/A. Fejezet — SZABÁLYOZOTT PIACRA BEVEZETETT RÉSZVÉNY FORGALOMBAN TARTÁSÁNAK MEGSZÜNTETÉSÉVEL KAPCSOLATOS SZABÁLYOK
 
@@ -1278,9 +1265,11 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 (2) A Felügyelet a tagállamok felügyeleti hatóságainak kérésére haladéktalanul rendelkezésre bocsátja a befolyásszerzés tárgyában kért információkat.
 
-(3) Ha a Felügyelet tudomására jut, hogy az Európai Unió másik tagállamában befolyásszerzés szabályaival kapcsolatos szabálytalanságokat követnek vagy követtek el, értesíti az illetékes felügyeleti hatóságot.
+(3) Ha a Felügyelet tudomására jut, hogy az Európai Unió másik tagállamában a befolyásszerzés szabályaival kapcsolatos szabálytalanságokat követnek vagy követtek el, értesíti az illetékes felügyeleti hatóságot és az Európai Értékpapír-piaci Hatóságot.
 
 (4) A Felügyelet adatkezelésére, adatközlésére és adattovábbítására a 392–394. §-ban foglaltakat és külön jogszabály előírásait kell alkalmazni.
+
+(5) Ha az Európai Unió másik tagállamának illetékes felügyeleti hatósága által meghozott intézkedések ellenére, az ajánlattevő továbbra is megsérti a befolyásszerzésre vonatkozó jogszabályi rendelkezéseket, a Felügyelet az Európai Unió másik tagállama illetékes felügyeleti hatóságának és az Európai Értékpapír-piaci Hatóságnak a tájékoztatását követően meghoz minden megfelelő intézkedést a befektetők védelmében, és a megtett intézkedésekről haladéktalanul tájékoztatja az Európai Bizottságot és Európai Értékpapír-piaci Hatóságot.
 
 ## NEGYEDIK RÉSZ
 
@@ -1318,7 +1307,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 ### Az értékpapír-számla
 
-140. § (1) Az értékpapír-tulajdonos részére értékpapírszámlát a befektetési vállalkozás és a hitelintézet, a 335/A. § (1) bekezdésében meghatározott személyek tulajdonában álló értékpapírról értékpapírszámlát a központi értéktár vezet (a továbbiakban együtt: számlavezető).
+140. § (1) Az értékpapír-tulajdonos részére értékpapírszámlát a befektetési vállalkozás, a hitelintézet, a befektetési alapkezelő, a 335/A. § (1) bekezdésében meghatározott személyek tulajdonában álló értékpapírról értékpapírszámlát a központi értéktár vezet (a továbbiakban együtt: számlavezető).
 
 (2) Az értékpapír-számla értékpapír-számlaszerződéssel jön létre. Értékpapír-számlaszerződéssel a számlavezető kötelezettséget vállal arra, hogy a vele szerződő fél (számlatulajdonos) tulajdonában álló értékpapírt a számlavezetőnél megnyitott értékpapír-számlán nyilvántartja és kezeli, a számlatulajdonos szabályszerű rendelkezését teljesíti, valamint a számlán történt jóváírásról, terhelésről és a számla egyenlegéről a számlatulajdonost értesíti.
 
@@ -1375,9 +1364,9 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 ### XIV. Fejezet — ÜGYFÉLSZÁMLA
 
-147. § (1) A befektetési vállalkozás, a hitelintézet és az árutőzsdei szolgáltató – a 148. §-ban foglalt eset kivételével – ügyfélszámlát vezet. Az ügyfélszámlán kell nyilvántartani a számlatulajdonost megillető bevételt, és az ügyfélszámláról kell teljesíteni a számlatulajdonost terhelő kifizetést. Az ügyfélszámlán elkülönítetten kell nyilvántartani az azonnali, illetőleg az opciós és határidős ügyletekből eredő követeléseket és kötelezettségeket. A befektetési vállalkozás köteles ügyfélszámla-szerződést kötni azzal az ügyféllel, akinek a megbízásából portfóliókezelést, letéti őrzést, letétkezelést végez.
+147. § (1) A befektetési vállalkozás, a hitelintézet, a befektetési alapkezelő és az árutőzsdei szolgáltató – a 148. §-ban foglalt eset kivételével – ügyfélszámlát vezet. Az ügyfélszámlán kell nyilvántartani a számlatulajdonost megillető bevételt, és az ügyfélszámláról kell teljesíteni a számlatulajdonost terhelő kifizetést. Az ügyfélszámlán elkülönítetten kell nyilvántartani az azonnali, illetőleg az opciós és határidős ügyletekből eredő követeléseket és kötelezettségeket. A befektetési vállalkozás és a befektetési alapkezelő köteles ügyfélszámla-szerződést kötni azzal az ügyféllel, akinek a megbízásából portfóliókezelést, letéti őrzést, letétkezelést végez.
 
-(2) A befektetési vállalkozás, a hitelintézet és az árutőzsdei szolgáltató az ügyfelek tulajdonát képező ügyfélszámla-állományt – ha e törvény másként nem rendelkezik – letéti számlán köteles elhelyezni.
+(2) A befektetési vállalkozás, a hitelintézet, a befektetési alapkezelő és az árutőzsdei szolgáltató az ügyfelek tulajdonát képező ügyfélszámla-állományt – ha e törvény másként nem rendelkezik – letéti számlán köteles elhelyezni.
 
 (3) Az ügyfélszámla nyitásra és kezelésre vonatkozó szabályokat külön jogszabály állapítja meg.
 
@@ -1482,7 +1471,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 ### XVIII. Fejezet — ÉRTÉKPAPÍR KÖLCSÖNZÉS
 
-168. § (1) A befektetési vállalkozás, a befektetési alapkezelő, a befektetési alap, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a pénzügyi intézmény, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár és a biztosító a tevékenység megkezdését megelőzően bejelenti a Felügyeletnek, ha értékpapír-kölcsönzést kíván végezni. A bejelentéshez mellékelni kell a KHR igazolását a tagság fennállásáról, ha az értékpapír-kölcsönzést nem referenciaadat-szolgáltatók részére végzik.
+168. § (1) A befektetési vállalkozás, a befektetési alapkezelő, a kollektív befektetési forma, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a pénzügyi intézmény, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár és a biztosító a tevékenység megkezdését megelőzően bejelenti a Felügyeletnek, ha értékpapír-kölcsönzést kíván végezni. A bejelentéshez mellékelni kell a KHR igazolását a tagság fennállásáról, ha az értékpapír-kölcsönzést nem referenciaadat-szolgáltatók részére végzik.
 
 (2) Értékpapír kölcsönügylet tárgya akkor lehet, ha a kölcsönbe adó értékpapír feletti rendelkezési joga nem korlátozott. Forgalomképtelen, korlátozottan forgalomképes, elővásárlási, vételi, visszavásárlási, óvadéki és zálogjoggal terhelt értékpapír kölcsönügylet tárgya nem lehet. Nyomdai úton előállított, névre szóló értékpapír csak üres forgatmánnyal ellátva lehet kölcsönügylet tárgya.
 
@@ -1675,7 +1664,7 @@ az összevont alapú felügyelet ellátásáról az érintett (beleértve a pén
 
 - 1. az összevont felügyelet alá tartozó befektetési vállalkozás tulajdonosi szerkezetének feltárását, valamint a befektetési vállalkozás illetékes felügyeleti hatóságának azonosítását szolgálja,
 - 2. az összevont felügyelet alá tartozó befektetési vállalkozástól származó információk gyűjtésére és ellenőrzésére vonatkozó eljárásokat tartalmazza,
-- 3. olyan az összevont felügyelet alá tartozó hitelintézetet, befektetési vállalkozást, pénzügyi vállalkozást, befektetési alapkezelő társaságot vagy járulékos vállalkozást érintő válsághelyzetre utal, amely súlyosan érinti a befektetési vállalkozást,
+- 3. olyan, az összevont felügyelet alá tartozó hitelintézetet, befektetési vállalkozást, pénzügyi vállalkozást, befektetési alapkezelőt vagy járulékos vállalkozást érintő válsághelyzetre utal, amely súlyosan érinti a befektetési vállalkozást,
 - 4. a felügyeleti felülvizsgálat keretében előírt többlet-tőkekövetelményre, valamint a működési kockázat tőkekövetelményének fejlett mérési módszerrel történő számításának korlátozására vonatkozik, és
 - 5. befolyásolja a másik tagállam illetékes hatóságának felügyelete alá tartozó befektetési vállalkozás prudenciális helyzetét.
 
@@ -1685,8 +1674,8 @@ az összevont alapú felügyelet ellátásáról az érintett (beleértve a pén
 
 (15) Ha a Felügyelet látja el az összevont alapú felügyelet alá tartozó befektetési vállalkozás felügyeletét, és olyan válsághelyzet áll elő – ideértve a pénzügyi piacokon zajló kedvezőtlen folyamatokat is –, amely potenciálisan veszélyezteti a pénzügyi rendszer stabilitását azon tagállamok bármelyikében, amelyben
 
-- a) az ezen befektetési vállalkozás ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, vagy
-- b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik,
+- a) az ezen befektetési vállalkozás ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelőnek és pénzügyi vállalkozásnak, vagy
+- b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelőnek és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik,
 
 a székhelye van, vagy amely tagállamban olyan befektetési vállalkozás létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul köteles tájékoztatni az érintett tagállam központi kormányát, hatáskörrel rendelkező felügyeleti hatóságát, valamint központi bankját.
 
@@ -1825,7 +1814,8 @@ számtani átlaga meghaladja a tíz százalékot, mind a biztosítási szolgált
 
 - a) a pénzügyi konglomerátumra vonatkozó kockázatkezelési elvek és stratégiák alapján megvalósuló vállalatirányítást,
 - b) azon tőkemegfelelési elveket, amelyek biztosítják az üzleti stratégia kockázatra és tőkemegfelelésre gyakorolt hatásának figyelembevételét,
-- c) a kockázatellenőrző rendszerek szervezethez történő igazodását, amely rendszerek összehangoltan működnek annak érdekében, hogy mérni és ellenőrizni lehessen a pénzügyi konglomerátum szintjén a kockázatokat.
+- c) a kockázatellenőrző rendszerek szervezethez történő igazodását, amely rendszerek összehangoltan működnek annak érdekében, hogy mérni és ellenőrizni lehessen a pénzügyi konglomerátum szintjén a kockázatokat,
+- d) azokat a legalább évente felülvizsgált szabályokat, amelyek célja a megfelelő helyreállítási és szanálási intézkedések és tervek kidolgozása.
 
 (3) A belső kontroll rendszer magában foglalja:
 
@@ -1865,7 +1855,7 @@ valamint a pénzügyi konglomerátum legjelentősebb pénzügyi ágazata együtt
 - d) ellenőrzi a 181/R. §-ban foglalt, a pénzügyi konglomerátum belső kontroll rendszerére és kockázatkezelésére vonatkozó rendelkezések betartását,
 - e) az érintett felügyeleti hatóságokkal együttműködve megtervezi és összehangolja a felügyeleti feladatok ellátását,
 - f) a kiegészítő felügyelet céljának elérése érdekében felmerülő egyéb feladatokat ellátja, a szükséges intézkedéseket megteszi, és a döntéseket meghozza,
-- g) értesíti a pénzügyi konglomerátum élén álló vállalkozást, az érintett felügyeleti hatóságokat, a vegyes pénzügyi holding társaság székhelye szerinti tagállam felügyeleti hatóságát és az Európai Bizottságot valamely csoportnak pénzügyi konglomerátummá történő minősítéséről és a koordinátor kijelöléséről.
+- g) értesíti a pénzügyi konglomerátum élén álló vállalkozást, az érintett felügyeleti hatóságokat, a vegyes pénzügyi holding társaság székhelye szerinti tagállam felügyeleti hatóságát és európai felügyeleti hatóságok vegyes bizottságát valamely csoportnak pénzügyi konglomerátummá történő minősítéséről és a koordinátor kijelöléséről.
 
 (2) A kiegészítő felügyelet elősegítése és megvalósítása érdekében a Felügyelet mint koordinátor az érintett felügyeleti hatóságokkal, valamint szükség esetén más érdekelt felügyeleti hatóságokkal együttműködési megállapodást köt.
 
@@ -1884,7 +1874,7 @@ valamint a pénzügyi konglomerátum legjelentősebb pénzügyi ágazata együtt
 - g) a pénzügyi konglomerátum szabályozott vállalkozásának működését kedvezőtlenül befolyásoló változás figyelemmel kísérésére,
 - h) a felügyeleti hatóság által hozott szankciókról és kivételes intézkedésekről történő tájékoztatásra.
 
-(3) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében az Európai Unió tagállamainak jegybankjaival, az Európai Központi Bankkal és a Központi Bankok Európai Rendszerével is folytathat információcserét.
+(3) A Felügyelet a kiegészítő felügyeleti feladata ellátása érdekében az Európai Unió tagállamainak jegybankjaival, az Európai Központi Bankkal és a Központi Bankok Európai Rendszerével és az Európai Rendszerkockázati Testülettel is folytathat információcserét.
 
 (4) A Felügyeletnek – a határozata meghozatalát megelőzően – egyeztetnie kell azon érintett felügyeleti hatósággal, amely felügyeleti feladatának ellátását a döntés érintheti
 
@@ -1911,7 +1901,7 @@ tekintetében.
 
 181/X. § (1) A 181/M. § (3) bekezdésének b) és c) pontjában említett befektetési vállalkozást tartalmazó pénzügyi konglomerátum esetében a pénzügyi konglomerátum élén álló harmadik országbeli anyavállalat figyelmen kívül hagyásával kell az érintett hatóságoknak kijelölniük a koordinátort.
 
-(2) Ha az (1) bekezdés szerint a Felügyelet a koordinátor, akkor megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak. A vizsgálat során az érintett felügyeleti hatóságokkal egyeztet a Pénzügyi Konglomerátumok Bizottsága (Financial Conglomerates Committee) által kiadott iránymutatásokat is figyelembe véve. Az egyeztetést követően a Felügyelet mint koordinátor dönt a jogrend megfelelőségéről.
+(2) Ha az (1) bekezdés szerint a Felügyelet a koordinátor, akkor megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak. A vizsgálat során az érintett felügyeleti hatóságokkal egyeztet az európai felügyeleti hatóságok vegyes bizottsága által kiadott iránymutatásokat is figyelembe véve. Az egyeztetést követően a Felügyelet mint koordinátor dönt a jogrend megfelelőségéről.
 
 (3) Ha a harmadik ország jogrendje megfelel az Európai Parlament és a Tanács 2002/87/EK irányelvében foglalt szabályoknak, akkor az olyan pénzügyi konglomerátum kiegészítő felügyeletét, amelynek élén a 181/M. § (3) bekezdés b), illetőleg c) pontjában meghatározott befektetési vállalkozás harmadik országbeli anyavállalata áll, nem a Felügyelet látja el.
 
@@ -1933,8 +1923,8 @@ tekintetében.
 
 199. § E rész rendelkezéseit kell alkalmazni minden olyan pénzügyi eszközzel kapcsolatos cselekményre,
 
-- a) amelyet a Magyar Köztársaság területén követtek el, vagy
-- b) amelyeket külföldön követtek el, ha annak hatása a Magyar Köztársaság területén érvényesülhet.
+- a) amelyet Magyarország területén követtek el, vagy
+- b) amelyeket külföldön követtek el, ha annak hatása Magyarország területén érvényesülhet.
 
 ### Bennfentes kereskedelem és piacbefolyásolás tilalma
 
@@ -1979,23 +1969,7 @@ tekintetében.
 
 (5) Az árfolyam befolyásolására alkalmas információ: minden olyan információ, amely a befektető által nagy valószínűséggel felhasználásra kerülne befektetési döntése meghozatalakor.
 
-201/A. § Nem köthet ügyletet
-
-- a) a kibocsátónál vezető állású személy
-  - aa) a tárgyévi mérleg fordulónapjától az éves jelentés 56. § szerinti közzétételéig terjedő időszakban (a nyilvános forgalomba hozatal esetét kivéve);
-  - ab) ha a kibocsátó féléves jelentést készít, a féléves jelentés közzétételét megelőző tizenöt napon belül;
-  - ac) ha a kibocsátó negyedéves jelentést vagy időközi vezetőségi beszámolót készít, annak közzétételét megelőző tizenöt napon belül;
-  - ad) a rendkívüli tájékoztatási kötelezettségek körébe tartozó szerződéskötés közzétételét megelőző három napon belül
-
-a kibocsátó által forgalomba hozott értékpapírra;
-
-- b) a vagyonfelügyelő, az ideiglenes vagyonfelügyelő, a felszámoló, a pénzügyi gondnok és a végelszámoló az e tevékenységével érintett kibocsátó saját kibocsátású értékpapírjára, kivéve a feladatkörébe tartozó tevékenységet;
-- c) a kibocsátóval munkaviszonyban álló dolgozó és a 201. § (2) bekezdésének c) pontjában meghatározott személy,
-  - ca) ha az éves beszámoló készítésében közreműködik, a tárgyévi mérleg fordulónapjától az éves beszámoló 56. § szerinti közzétételéig terjedő időszakban (a nyilvános forgalomba hozatal esetét kivéve);
-  - cb) ha a féléves jelentés készítésében közreműködik, a féléves jelentés közzétételét megelőző tizenöt napon belül;
-  - cc) ha a negyedéves jelentés vagy az időközi vezetőségi beszámoló készítésében közreműködik, annak közzétételét megelőző tizenöt napon belül;
-
-a kibocsátó által forgalomba hozott értékpapírra.
+201/A. §
 
 201/B. § (1) A Felügyeletnek köteles az ügyletkötést haladéktalanul bejelenteni
 
@@ -2009,9 +1983,9 @@ ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, a
 
 (2) Az (1) bekezdés szerinti bejelentésnek tartalmaznia kell a bejelentésre kötelezett személy nevét, a bejelentési kötelezettség indokát, az érintett kibocsátó nevét, az ügyletben szereplő pénzügyi eszköz megnevezését, mennyiségét, árfolyamát, az ügylet jellegét (például vétel vagy eladás), az ügyletkötés időpontját és helyét, illetve az ügyletet lebonyolító befektetési vállalkozás, hitelintézet megnevezését.
 
-(3) A 201. § (2) bekezdésének a) pontja szerinti bennfentes személy a Felügyeletnek tett bejelentésben foglalt információkat a bejelentés megtételét követően köteles haladéktalanul az 56. § szerint közzétenni.
+(3) A 201. § (2) bekezdésének a) pontja szerinti bennfentes személy haladéktalanul, de legkésőbb két naptári napon belül tájékoztatja a kibocsátót az (1) bekezdés a) pontja szerinti ügyletkötésről, amennyiben az a (4) bekezdésben meghatározott ügyletkötési összértéket meghaladja.
 
-(4) A 201. § (2) bekezdés a) pontjában említett bennfentes személy nem köteles az ügyletkötést nyilvánosságra hozni, ha az adott naptári évben az ügyletkötések összértéke nem haladja meg az egymillió forintot. Az ügyletkötések összértékének számításánál figyelembe kell venni:
+(4) A 201. § (2) bekezdés a) pontjában említett bennfentes személy nem köteles az ügyletkötésről a kibocsátót tájékoztatni, ha az adott naptári évben az ügyletkötések összértéke nem haladja meg az egymillió forintot. Az ügyletkötések összértékének számításánál figyelembe kell venni:
 
 - a) a bennfentes személy, és
 - b) a vele közös háztartásban élő személy,
@@ -2029,6 +2003,8 @@ ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, a
 (4) A kibocsátó nevében vagy a javára eljáró személy, amennyiben másnak bennfentes információt bocsát rendelkezésre, ezzel egy időben erről köteles értesíteni a kibocsátót, aki az érintett információt honlapján az értesítést követően haladéktalanul, teljes mértékben nyilvánosságra hozza.
 
 (5) Nem kell alkalmazni a (3)–(4) bekezdésben foglaltakat, ha az információt megszerző személyt titoktartási kötelezettség terheli, függetlenül attól, hogy ez a kötelezettség jogszabályon, létesítő okirat rendelkezésén vagy szerződésbe foglalt megállapodáson alapul-e.
+
+(6) A kibocsátó a 201/B. § (3) bekezdése alapján hozzá érkezett bejelentést haladéktalanul, de legkésőbb két naptári napon belül köteles közzétenni az 56. §. szerint.
 
 201/D. § (1) A bennfentes kereskedelemhez kapcsolódó hatósági ellenőrzés elősegítése érdekében a kibocsátó, illetve a javára vagy nevében eljáró személy a munkaviszony vagy egyéb jogviszony alapján részére tevékenységet végző és bennfentes információhoz hozzáférő személyekről nyilvántartást vezet, amelyet a Felügyelet kérésére, a 378. § i) pontjában foglalt feladatának ellátása érdekében a nyilvántartást vezető személy köteles átadni.
 
@@ -2286,7 +2262,7 @@ ha személyesen vagy megbízott útján kötött ügyletet olyan részvényre, a
 
 (3) A Bszt. 5. §-a (1) bekezdésének a)–c) pontjában meghatározott tevékenységet végző árutőzsdei szolgáltató az Alaphoz csatlakozhat. Az Alaphoz nem csatlakozott árutőzsdei szolgáltató üzletszabályzatában és az ügyfélszámla-szerződésben köteles feltűnő módon feltüntetni azt a körülményt, hogy az ügyfélszámla-szerződésen alapuló ügyfél követelésre nem terjed ki az Alap védelme.
 
-(4) A Magyar Köztársaság területén székhellyel rendelkező biztosított tevékenységet végző szervezet külföldön létesített fióktelepére az Alap által nyújtott befektető-védelem terjed ki, kivéve, ha a fióktelep létesítésének helye szerinti ország szabályai ezt nem teszik lehetővé. A Magyar Köztársaság területén székhellyel rendelkező biztosított tevékenységet végző szervezetnek az Európai Unió másik tagállamában létesített fióktelepe kiegészítő biztosítás érdekében önként csatlakozhat az adott ország befektető-védelmi rendszeréhez. A biztosított tevékenységet végző szervezet a fióktelep létesítésének szándékáról a Felügyelet felé tett bejelentéssel, a befogadó ország befektető-védelmi rendszeréhez történő kötelező vagy önkéntes csatlakozásról, valamint a csatlakozás feltételeiről pedig a tudomásszerzéssel, illetve a kérelemmel egy időben köteles tájékoztatni az Alapot.
+(4) Magyarország területén székhellyel rendelkező biztosított tevékenységet végző szervezet külföldön létesített fióktelepére az Alap által nyújtott befektető-védelem terjed ki, kivéve, ha a fióktelep létesítésének helye szerinti ország szabályai ezt nem teszik lehetővé. Magyarország területén székhellyel rendelkező biztosított tevékenységet végző szervezetnek az Európai Unió másik tagállamában létesített fióktelepe kiegészítő biztosítás érdekében önként csatlakozhat az adott ország befektető-védelmi rendszeréhez. A biztosított tevékenységet végző szervezet a fióktelep létesítésének szándékáról a Felügyelet felé tett bejelentéssel, a befogadó ország befektető-védelmi rendszeréhez történő kötelező vagy önkéntes csatlakozásról, valamint a csatlakozás feltételeiről pedig a tudomásszerzéssel, illetve a kérelemmel egy időben köteles tájékoztatni az Alapot.
 
 211. § (1) Nem köteles az Alaphoz csatlakozni az Európai Unió másik tagállamában székhellyel rendelkező biztosított tevékenységet végző szervezet fióktelepe, ha tagsággal rendelkezik az Európai Parlament és a Tanács 97/9/EK irányelve által előírt befektető-védelmi rendszerben.
 
@@ -2400,7 +2376,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (3) Az Alap az e törvényben rögzített feltételek szerint akkor is fizet kártalanítást, ha a befektető részére kártalanítás a (2) bekezdésben írtak szerint nem állapítható meg, viszont követelését jogerős bírósági határozattal igazolja. Ebben az esetben a befektető a határozat jogerőre emelkedését követő kilencven napon belül terjesztheti elő igényét, amelyhez mellékelnie kell a követelést megalapozó határozatot.
 
-(4) Amennyiben az Alap csak hitelfelvétel útján képes biztosítani a kártalanítási kötelezettség fenti határidők szerinti teljesítését, a Kormány a kártalanítási fedezet biztosítása érdekében a hitelfelvételhez – az Áht. 33. §-ának (3) bekezdésére tekintettel – készfizető kezességet vállal.
+(4) Amennyiben az Alap csak hitelfelvétel útján képes biztosítani a kártalanítási kötelezettség fenti határidők szerinti teljesítését, a Kormány a kártalanítási fedezet biztosítása érdekében a hitelfelvételhez – az Áht. 92. §-ára tekintettel – készfizető kezességet vállal.
 
 ### A kifizetett követelések átszállása
 
@@ -2426,11 +2402,11 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (3) Az éves díj alapja a tárgyévet megelőző naptári évben az Alap kártalanítási kötelezettsége alá tartozó befektetők tulajdonát képező, az Alap tagjának kezelésében lévő pénz és értékpapír átlagos állománya. A befektetők tulajdonát képező pénz és értékpapír állomány után a díjfizetési kötelezettség azt a tagot terheli, amely a befektetővel biztosított tevékenység végzésére kötött szerződés alapján a letét kiadására köteles.
 
-(4) Az éves díj mértékét az igazgatóság állapítja meg a díjalap arányában, figyelembe véve a biztosított befektetők számát. Kiegészítő biztosítás esetén az éves díj megállapításakor figyelembe kell venni a követelés kiegészítő biztosítással érintett részének összegét, illetve a fióktelep székhely országának befektető-védelmi rendszere által nyújtott biztosítást.
+(4) Az éves díj mértékét az igazgatóság állapítja meg a díjalap arányában, figyelembe véve a teljes díjalapból az egyes befektetők kártalanítási összeghatárt meg nem haladó értékű pénz- és értékpapír-állományának összesített értékét. A díjalap arányában számított éves díj összegét az igazgatóság módosíthatja az Alap számára a tag tevékenységében rejlő kockázat mértéke alapján, azonban az ennek hatására bekövetkező díjváltozás nem haladhatja meg a díjalap arányában számított díj ötven százalékát. Kiegészítő biztosítás esetén az éves díj megállapításakor figyelembe kell venni a követelés kiegészítő biztosítással érintett részének összegét, illetve a fióktelep székhely országának befektető-védelmi rendszere által nyújtott biztosítást.
 
-(5) Az Alap tagja által fizetendő éves díj összege nem haladhatja meg a díjalap mértékének három ezrelékét, de az éves díj nem lehet kevesebb ötszázezer forintnál (minimumdíj). Az Alap igazgatósága szabályzatban a minimumdíj mértékét ötszázezer forintnál magasabb összegben is megállapíthatja, de a minimumdíj mértéke ekkor sem haladhatja meg a kétmillió forintot. Ha az Alap tagjának sem a tárgyévben, sem a tárgyévet megelőző naptári évben nincs az Alap kártalanítási kötelezettsége alá tartozó befektetője, csak a törvényi minimum fizetésére kötelezhető. A különböző tagok esetében – a minimumdíj fizetésének esetét kivéve – azonos mértékű díjalaphoz azonos mértékű díj tartozik.
+(5) Az Alap tagja által fizetendő éves díj összege nem haladhatja meg a díjalap mértékének három ezrelékét, de az éves díj nem lehet kevesebb ötszázezer forintnál (minimumdíj). Az Alap igazgatósága szabályzatban a minimumdíj mértékét ötszázezer forintnál magasabb összegben is megállapíthatja, de a minimumdíj mértéke ekkor sem haladhatja meg a kétmillió forintot. Ha az Alap tagjának sem a tárgyévben, sem a tárgyévet megelőző naptári évben nincs az Alap kártalanítási kötelezettsége alá tartozó befektetője, csak a törvényi minimum fizetésére kötelezhető.
 
-(6) Az Alap igazgatósága az éves díjat a tag kérelmére mérsékelheti, ha a tag által végzett biztosított tevékenység az Alap számára az átlagosnál kisebb kockázatot jelent. A díjmérséklés részletes szabályait az igazgatóság szabályzatban határozza meg.
+(6)
 
 (7) Az Alap igazgatósága rendkívüli befizetést rendel el, ha az Alap eszközei az esedékes vagy az előre látható kártalanítási kötelezettség teljesítését nem fedezik. Rendkívüli befizetés akkor is elrendelhető, ha az Alap az esedékes hiteltörlesztést, illetőleg annak kamatait nem képes határidőben teljesíteni. A rendkívüli befizetési kötelezettséget az igazgatóság által meghatározott módon és időben kell teljesíteni. A rendkívüli befizetés alapja megegyezik az éves díj alapjával, de az egy naptári évben rendkívüli befizetés jogcímén elrendelt fizetési kötelezettség nem haladhatja meg az utolsó megállapított éves díj mértékét.
 
@@ -2490,7 +2466,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 225. § (1) Az Alap igazgatósága szabályzatban határozza meg:
 
-- a) a tagok által fizetendő díjakra vonatkozó szabályokat, így különösen a díjalap és a díjmérték megállapítását, valamint a díjfizetés megállapításának és befizetésének eljárását, továbbá a befizetés ütemezését;
+- a) a tagok által fizetendő díjakra vonatkozó szabályokat, így különösen a díjalap és a díjmérték megállapítását, a tag tevékenységében rejlő kockázat meghatározásának és a díjalap arányában számított díj módosításának módját, valamint a díjfizetés megállapításának és befizetésének eljárását, továbbá a befizetés ütemezését;
 - b) az Alap kezelésének szabályait;
 - c) az Alapból történő kifizetés rendjét; és
 - d) az igazgatóság ügyrendjét.
@@ -2535,1076 +2511,163 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 ### XXV. Fejezet — BEFEKTETÉSI-ALAPKEZELŐKRE VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
-229. § (1) Befektetési alapkezelő kizárólag az alábbi tevékenységet végezheti a Felügyelet engedélyével:
+229–240. §
 
-- a) befektetési alapkezelés,
-- b) értékpapír-kölcsönzés,
-- c) a befektetési alapkezelő által kezelt befektetési alap befektetési jegyei esetén megbízás felvétele és továbbítása,
-- d) portfóliókezelés,
-- e) befektetési tanácsadás.
+240/A. §
 
-(2) Befektetési alapkezelő az (1) bekezdés a) pontjában meghatározott tevékenység folytatására köteles.
-
-(3)
-
-230. § (1) A Felügyelet a 229. § (1) bekezdésében meghatározott tevékenységek végzésére jogosító engedélyt az egyes tevékenységekre együtt vagy külön adja meg.
-
-(2) A 229. § (1) bekezdésének a) pontjában meghatározott tevékenység folytatására kizárólag befektetési alapkezelő kaphat engedélyt.
-
-(3) A 229. § (1) bekezdésének a) pontjában meghatározott tevékenység végzésére jogosító engedélyt a kérelmező akkor kaphat, ha rendelkezik
-
-- a) a tevékenység folytatásához szükséges, a 11. számú mellékletben meghatározott személyi, tárgyi, technikai feltételekkel;
-- b) a 12. számú mellékletben meghatározottak szerinti tartalommal elkészített működési szabályzattal;
-- c) a 13. számú mellékletben meghatározott eljárási szabályzattal.
-
-(4) A befektetési alapkezelő vezetését – a Gt. 247. §-ában meghatározott eset kivételével – legalább két vezető állású személynek munkaviszony keretében kell ellátnia.
-
-(5) A befektetési alapkezelőnek a 229. § (1) bekezdésének a) pontjában meghatározott tevékenység végzésére jogosító engedély iránti kérelméhez – a (3) bekezdésben foglaltak teljesítését igazoló dokumentumokon kívül – mellékelnie kell:
-
-- a) a szervezeti felépítését;
-- b) a vezető állású személyek nevét;
-- c) az üzleti tervét.
-
-(6) Ha a kérelmező portfóliókezelési tevékenység végzésére kér engedélyt, az engedélykérelemhez mellékelni kell a Befektető-védelmi Alap igazolását az Alaphoz történő csatlakozási kérelem benyújtásáról és a csatlakozási díj megfizetéséről.
-
-(7) A befektetési alapkezelő által alkalmazott eljárásoknak, rendszereknek és megoldásoknak biztosítaniuk kell az egyes alapokban és portfoliókban lévő értékpapírok, egyéb pénzpiaci eszközök, pénzeszközök, tőzsdei termékek illetőleg ingatlanok egymástól, illetőleg a befektetési alapkezelő tulajdonában lévő értékpapíroktól, egyéb pénzpiaci eszközöktől, pénzeszközöktől, tőzsdei termékektől illetőleg ingatlanoktól történő elkülönített kezelését, valamint a lebonyolított ügyletek adatainak (tárgy, időpont, szerződő partner) visszakeresését.
-
-(8) A befektetési alapkezelő számviteli, nyilvántartási, informatikai rendszereinek alkalmasnak kell lenniük
-
-- a) mindenkori pénzügyi helyzetének megállapítására;
-- b) az egyes, általa kezelt alapok és portfóliók részét képező befektetési eszközök, pénzeszközök, tőzsdei termékek és ingatlanok állományának minden időpontban történő megállapítására;
-- c) a jogszabályban, illetőleg saját szabályzataiban foglalt előírások betartásának folyamatos ellenőrzésére; valamint
-- d) jogszabályban előírt adatszolgáltatási kötelezettségének teljesítésére.
-
-(9) A befektetési alapkezelő a vezető állású személyekben bekövetkezett változásokat haladéktalanul jelenti a Felügyeletnek.
-
-231. § A Felügyelet a befektetési alapkezelő engedélyének megadásához előzetesen kikéri az Európai Unió másik tagállama hatáskörrel rendelkező felügyeleti hatóságának véleményét, ha az alapítani kívánt befektetési alapkezelő
-
-- a) az Európai Unió másik tagállamában székhellyel rendelkező befektetési vállalkozás, hitelintézet, befektetési alapkezelő vagy biztosítóintézet leányvállalata;
-- b) az Európai Unió másik tagállamában székhellyel rendelkező befektetési vállalkozás, hitelintézet, befektetési alapkezelő vagy biztosítóintézet anyavállalatának leányvállalata;
-- c) ellenőrző befolyással rendelkező természetes vagy jogi személy tulajdonosa az Európai Unió másik tagállamában székhellyel rendelkező befektetési vállalkozásban, hitelintézetben, befektetési alapkezelőben vagy biztosítóintézetben befolyásoló részesedéssel rendelkezik.
-
-232. § (1) Nem szükséges a Felügyelet 230. § (1) bekezdése szerinti engedélye az Európai Unió másik tagállamában székhellyel rendelkező intézmény által a 85/611/EGK számú irányelv szabályainak a székhely ország jogrendszerébe történő átvétele alapján létrehozott befektetési alap tekintetében végzett befektetési alapkezelési tevékenység és a 229. § (1) bekezdésének d) és e) pontjában meghatározott tevékenység, valamint a 242/A. § (1) bekezdésének a) és b) pontjában meghatározott tevékenység folytatásához, illetőleg a 85/611/EGK számú irányelv szabályainak a székhely ország jogrendszerébe történő átvétele alapján létrehozott fióktelep létesítéséhez, ha a székhelye szerinti ország hatáskörrel rendelkező felügyeleti hatóságának az irányelv szerinti engedélyével rendelkezik.
-
-(2) A Magyarországon bejegyzett befektetési alapkezelő által európai befektetési alap tekintetében végzett befektetési alapkezelési tevékenység és a 229. § (1) bekezdésének d) és e) pontjában meghatározott tevékenység, valamint a 242/A. § (1) bekezdésének a) és b) pontjában meghatározott tevékenység folytatása céljából történő fióktelep létesítése, illetőleg ilyen tevékenységek határon át történő nyújtása esetében a Bszt. 27. §-a (4)–(9) bekezdésének előírásait kell alkalmazni azzal, hogy ahol a jogszabály befektetési vállalkozást említ, az alatt befektetési alapkezelőt kell érteni, ahol befektetési szolgáltatási tevékenységet, kiegészítő szolgáltatást említ, az alatt befektetési alapkezelő által végzett tevékenységet kell érteni.
-
-(3) Harmadik országbeli befektetési alapkezelő fióktelepe európai befektetési alap alapkezelését és magánnyugdíjpénztár részére portfóliókezelést nem végezhet.
-
-233. § (1) A tevékenységre vonatkozó engedély iránti kérelmet a Felügyelet elutasítja, ha a kérelmező az e törvényben és más jogszabályokban előírt feltételeknek nem felel meg, illetőleg a feltételeknek való megfelelést hitelt érdemlő módon nem igazolta, valamint megtévesztő vagy valótlan adatot közölt.
-
-(2) A tevékenységre vonatkozó engedély iránti kérelmet a Felügyelet elutasítja, ha a befektetési alapkezelő és más személy között fennálló szoros kapcsolat, továbbá a befektetési alapkezelővel szoros kapcsolatban álló személyre vonatkozó harmadik országban alkalmazott jogszabályok akadályozzák a befektetési alapkezelő feletti hatékony hatósági felügyelet gyakorlását. Az e bekezdésben meghatározott feltételek ellenőrzéséhez szükséges információkat a Felügyelet rendelkezésére kell bocsátani.
-
-(3) A tevékenységre vonatkozó engedély iránti kérelmet fióktelep esetében a Felügyelet akkor is elutasítja, ha
-
-- a) nincs érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás a Felügyelet és a kérelmező székhelye szerinti felügyeleti hatóság között,
-- b) a kérelmező székhelye szerinti állam nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás elleni jogszabályi előírásokkal,
-- c) a kérelmező nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
-- d) a kérelmező nem nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért,
-- e) a kérelmező nem nyújtja be a székhelye szerinti felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, illetőleg hozzájáruló nyilatkozatát vagy tudomásulvételét,
-- f) a kérelmező székhelye szerinti állam jogszabályai nem biztosítják a prudens, biztonságos működést,
-- g) a kérelmező főirodája nem a székhelye szerinti országban van.
-
-234. § (1) A Felügyelet a tevékenység végzésére jogosító engedélyt visszavonja, ha
-
-- a) az engedély kiadásának feltételei már nem állnak fenn, és azok megfelelő határidőn belül nem pótolhatók;
-- b) a befektetési alapkezelő a befektetési jegy tulajdonossal szemben fennálló nem vitatott tartozását az esedékességet követő három napon belül nem egyenlítette ki, illetőleg vagyona (eszközei) az ismert hitelezők követelésének kielégítésére nem nyújtana fedezetet;
-- c) az engedéllyel rendelkező az engedélyezett tevékenységet tizenkét hónapon belül nem kezdi meg, vagy hat hónapot meghaladó időtartam alatt nem gyakorolja;
-- d) az engedéllyel rendelkező a tevékenység folytatásával felhagy;
-- e) az engedéllyel rendelkező a tevékenységre vonatkozó, az e törvényben és külön jogszabályban meghatározott előírásokat ismétlődően vagy súlyosan megszegi;
-- f) a fióktelep alapítójának az adott tevékenység végzésére vonatkozó engedélyét a székhely szerinti felügyeleti hatóság visszavonta;
-- g) a befektetési alapkezelő a saját tőke feltöltési kötelezettségének a Felügyelet által előírt határidőben nem tett eleget;
-- h) az engedélyt a Felügyelet megtévesztésével vagy más jogszabálysértő módon szerezték meg;
-- i) tudomására jut a befektetési alapkezelő és más személy között fennálló olyan típusú – megfelelő határidőn belül meg nem szüntetett – szoros kapcsolat, amely a befektetési alapkezelővel szoros kapcsolatban álló személyre vonatkozó harmadik országban alkalmazott jogszabályok szerint akadályozza a befektetési alapkezelő feletti hatékony hatósági felügyelet gyakorlását.
-
-(2) Az (1) bekezdés d), illetve e) pontja alapján a Felügyelet a tevékenység végzésére jogosító engedélyt akkor vonja vissza, ha az engedéllyel rendelkező az ügyfelével szemben fennálló elismert kötelezettségeinek eleget tett, vagy szerződéseinek teljesítését más befektetési alapkezelő átvállalta. A Felügyelet meghatározhatja azokat a feltételeket és előírásokat, amelyek teljesítéséig a befektetési alapkezelő tevékenységét – az arra vonatkozó szabályok szerint – köteles folytatni.
-
-(3) A Felügyelet a tevékenység végzésére jogosító engedélyt határozott időre felfüggeszti, ha az engedély kiadásának feltételei már nem állnak fenn, de azok megfelelő határidőn belül pótolhatók.
-
-235. § (1) Befektetési alapkezelő részvénytársaság vagy fióktelep formájában működhet.
-
-(2) A részvénytársasági formában működő befektetési alapkezelőre a gazdasági társaságokra vonatkozó törvényi rendelkezéseket, a fióktelep formájában működő befektetési alapkezelőre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
-
-(3) A befektetési alapkezelő jegyzett tőkéjének legkisebb összege – a (4) bekezdésben és a 242/C. §-ban foglalt eltéréssel – százmillió forint.
-
-(4) Ha a befektetési alapkezelő kétmilliárd forintot elérő vagy azt meghaladó értékben kezel magánnyugdíjpénztári vagyont, saját tőkéjének legkisebb összege kettőszázötvenmillió forint és a kezelt magánnyugdíjpénztári vagyon kettőmilliárd forintot meghaladó részének egy százaléka. Ha a befektetési alapkezelő saját tőkéje eléri az egymilliárd forintot, a kezelt magánnyugdíjpénztári vagyon növekedésével a saját tőkét nem szükséges tovább növelni.
-
-(5) Fióktelep formájában működő befektetési alapkezelő esetében jegyzett tőke alatt dotációs tőkét kell érteni.
-
-(6) A befektetési alapkezelő irányítását a belföldön létesített főirodában kell biztosítani.
-
-(7)
-
-(8) Nem vonatkozik a dotációs tőke követelmény az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő fióktelepére.
-
-236. § (1) A befektetési alap kezelése során az alap kezelésének különös szabályait a 16. számú mellékletnek megfelelő – a Felügyelet által jóváhagyott – kezelési szabályzatba kell foglalni, amely az alapkezelő és a befektetők közötti általános szerződési feltételeket tartalmazza. A befektető a befektetési jegyek vásárlásakor nyilatkozik arról, hogy ismeri a kezelési szabályzatban foglalt feltételeket.
-
-(2) Az alapkezelő az alap működtetése során a befektető érdekében a jogszabályoknak, működési szabályoknak és a mindenkor érvényes kezelési szabályzatnak megfelelően köteles eljárni.
-
-(3) A befektetési alapkezelő az egyenlő elbánás elve alapján köteles eljárni a befektetők tekintetében. Nem jelenti ezen elv sérelmét az ugyanazon alapon belüli különböző befektetési jegy sorozatokat alkotó befektetési jegyek által megtestesített jogok és kötelezettségek sorozatonkénti különbözősége és a befektetési alapkezelő ennek megfelelő, a jogszabályokkal és az alap kezelési szabályzatával összhangban álló eljárása.
-
-(4) A kezelési szabályzatnak tartalmaznia kell minden olyan információt, amely lehetővé teszi a befektetési alap működésének, befektetési elveinek és kezelésének megítélését.
-
-(5) A nyilvános alap tájékoztatójában és kezelési szabályzatában foglalt feltételeket az alapkezelő egyoldalúan a Felügyelet engedélyével módosíthatja. Nem szükséges a Felügyelet engedélye a módosításhoz, amennyiben az
-
-- a) az ügyfelet terhelő költségek egyoldalú csökkentését jelenti,
-- b) a forgalmazási helyek számának növelését vagy csökkentését tartalmazza, ha az új forgalmazó ilyen tevékenységre Felügyeleti engedéllyel már rendelkezik,
-- c) jogszabály-módosítás átvezetését jelenti, ha ez nem érinti az alap befektetési politikáját, kockázati jellegét,
-- d) piaci vagy mérlegadatok frissítését szolgálja,
-- e) az alapkezelő, illetőleg letétkezelő vezető állású személyei, a forgalmazó, illetve az ingatlanértékelő körében, cégadataiban bekövetkezett változás átvezetését jelenti,
-- f) az engedélyhez kötött változások esetében a Felügyelet az engedélyt korábban megadta.
-
-237. § (1) A befektetési alapkezelő az alap kezelésével összefüggő tevékenységért kezelési díjat számíthat fel.
-
-(2) Az alapkezelő a kezelési díjat nem terhelheti a nyilvános befektetési alapra, ha az alap átlagos saját tőkéje legalább három hónapon keresztül nem érte el az indulásakor érvényes törvényi minimum ötven százalékát, mindaddig, ameddig az utolsó három hónapra számított átlagos saját tőke ismételten el nem éri az indulásakor érvényes törvényi minimum ötven százalékát. A mentes időszakban felmerülő kezelési díj utólagosan sem terhelhető az alapra.
-
-238. § (1) A befektetési alapkezelő az alapkezelési tevékenység végzése során – a (2) bekezdésben foglalt eltéréssel – az alap nevében jár el.
-
-(2) A befektetési alapkezelő a befektetési eszközök, illetőleg az ingatlanok vételével és eladásával kapcsolatosan a megbízók javára összesítetten vagy külön-külön is eljárhat.
-
-239. § (1) A befektetési alapkezelő egymástól elkülönítetten több befektetési alapot is létrehozhat és kezelhet, és befektetési alaponként több, különböző befektetési jegy sorozatba tartozó befektetési jegy forgalomba hozásáról is dönthet.
-
-(2) A befektetési alapkezelő a befektetési alapok és az ügyfelek vagyonát a saját vagyonától elkülönítetten köteles kezelni és nyilvántartani.
-
-(3) A befektetési alapkezelő által kezelt portfolióban lévő eszközök nem képezik az alapkezelő tulajdonát.
-
-(4) A befektetési alapkezelő az általa kezelt vagyonról befektetési alaponként és ügyfelenként elkülönített nyilvántartást köteles vezetni.
-
-(5) A befektetési alapkezelő az általa kezelt alap javára nem szerezhet egyetlen kibocsátóban sem nyilvános vételi kötelezettséget eredményező befolyást.
-
-(6) Ingatlanalap kezelése esetén a befektetési alapkezelő köteles gondoskodni az alap portfóliójában lévő, biztosítható ingatlanokra vonatkozó, az alap mint kedvezményezett javára szóló, a teljes kockázati körre kiterjedő vagyonbiztosítás folyamatos fennállásáról.
-
-240. § (1) Befektetési alapkezelő a befektetési alap átadására kizárólag más befektetési alapkezelő részére jogosult.
-
-(2) A nyilvános befektetési alap átadására a Felügyelet engedélyével és az átadásról szóló nyilvános tájékoztatás alapján kerülhet sor. Zárt körű befektetési alap átadására a Ptk. tartozás-átvállalásra vonatkozó szabályait kell alkalmazni.
-
-(3) A befektetési alapkezelő a befektetési alapkezelési tevékenység végzéséhez kizárólag olyan alvállalkozót vehet igénybe, amely Magyarországon székhellyel rendelkező társaság esetén rendelkezik a portfóliókezelési, illetőleg a befektetési alapkezelési tevékenység végzésére vonatkozó engedéllyel, illetve külföldön székhellyel rendelkező társaság esetén rendelkezik az Európai Unió vagy az OECD tagállamának hasonló tevékenység végzésére vonatkozó engedélyével.
-
-(4) A befektetési alapkezelő az általa harmadik féltől igénybe vett befektetési alapkezelési tevékenységért mint sajátjáért felel, az ettől eltérő kikötés semmis.
-
-240/A. § A befektetési alapkezelő alkalmazhatja a Bszt. kiszervezésre vonatkozó rendelkezéseit azzal, hogy ahol a jogszabály befektetési vállalkozást említ, az alatt befektetési alapkezelőt, ahol befektetési szolgáltatási tevékenységet, kiegészítő szolgáltatást említ, az alatt a befektetési alapkezelő által végzett tevékenységet kell érteni.
-
-241. § (1) A befektetési alap nevében eljáró befektetési alapkezelő a tőke megóvására, illetve a hozamra vonatkozóan garanciát vállalhat (tőke-, illetve hozamgarancia). A hozamra vonatkozó garancia magában foglalja a tőke megóvására vonatkozó garanciát is. A tőkére, illetve a hozamra vonatkozó garanciát a befektetési alapkezelő köteles bankgaranciával biztosítani.
-
-(2) A befektetési alap nevében eljáró befektetési alapkezelő a tőke megóvására, illetve a hozamra vonatkozóan ígéretet tehet (tőke-, illetve hozamvédelem). A hozamra vonatkozó ígéret magában foglalja a tőke megóvására vonatkozó ígéretet is. A tőkére, illetve a hozamra vonatkozó ígéretet a befektetési alapkezelő köteles a tőke megóvását, illetve a hozamot biztosító pénzügyi eszközökre, tőzsdei termékekre vonatkozó befektetési politikával alátámasztani a befektető részletes tájékoztatása mellett.
+241. §
 
 ### Összeférhetetlenségi szabályok
 
-242. § (1) A befektetési alapkezelő vezető tisztségviselője, illetve a befektetési döntéshozatalban, végrehajtásban résztvevő alkalmazottja, munkavégzésre irányuló egyéb jogviszonyban álló személye nem lehet közvetlenül a befektetési alapkezeléshez kapcsolódó területen tevékenykedő alkalmazottja, munkavégzésre irányuló egyéb jogviszonyban álló személye
-
-- a) a 295. § (1) bekezdésében meghatározott letétkezelőnek,
-- b) a befektetési döntések végrehajtásában közreműködőnek, így különösen befektetési vállalkozásnak, hitelintézetnek, ingatlanértékelőnek, ingatlanforgalmazónak, másik befektetési alapkezelőnek, valamint
-- c) a befektetési alapkezelő ügyfelének.
-
-(2) Az a személy, aki esetében az előzőekben meghatározott összeférhetetlenség merül fel, köteles azt haladéktalanul a Felügyeletnek bejelenteni és az összeférhetetlenséget haladéktalanul megszüntetni.
+242. §
 
 ### Európai befektetési alapot kezelő befektetési alapkezelőre vonatkozó különleges szabályok
 
-242/A. § (1) A Tpt. XXIX. Fejezetében szabályozott európai befektetési alapot kezelő alapkezelő a 229. § (1) bekezdésében meghatározott tevékenységeken kívül az alábbi tevékenységeket is végezheti a Felügyelet engedélyével:
-
-- a) kollektív befektetési értékpapír letéti őrzése és nyilvántartása,
-- b) kollektív befektetési értékpapír letétkezelése.
-
-(2) Az európai befektetési alapot kezelő alapkezelő esetén alkalmazni kell a Bszt. IX. Fejezetében foglalt rendelkezéseket azzal, hogy ahol a jogszabály befektetési vállalkozást említ, az alatt befektetési alapkezelőt kell érteni.
-
-(3) Az európai befektetési alapot kezelő alapkezelő az (1) bekezdés a) és b) pontjában, továbbá befektetési tanácsadási tevékenység végzésére vonatkozó engedélyt akkor kaphat, ha rendelkezik portfóliókezelési tevékenyég végzésére vonatkozó engedéllyel.
-
-(4)
-
-(5) Ha az európai befektetési alapot kezelő alapkezelő az (1) bekezdés a) vagy b) pontjában meghatározott tevékenység végzésére engedélyt kér, az engedélykérelemhez mellékelni kell a Befektető-védelmi Alap igazolását az Alaphoz történő csatlakozási kérelem benyújtásáról és a csatlakozási díj megfizetéséről.
-
-(6) Az európai befektetési alapot kezelő alapkezelő – a törvény által meghatározott keretek között – szabályzatban határozza meg az alkalmazottak által, az alapkezelő által kibocsátott értékpapírokra kötött ügyletek bejelentési kötelezettségét és az alapkezelő általi nyilvántartási rendjét.
-
-(7)
-
-242/B. §
-
-242/C. § (1) Ha az európai befektetési alapot kezelő alapkezelő 60 milliárd forintot elérő, vagy azt meghaladó mértékben kezel befektetési alapot, saját tőkéjének legkisebb összege százmillió forint és a kezelt alapok nettó eszközértékének 60 milliárd forintot meghaladó részének két tizedezreléke. Ha az alapkezelő saját tőkéje eléri a 2,5 milliárd forintot, a saját tőkét nem szükséges tovább növelni.
-
-(2) Az (1) bekezdés és a 235. § (4) bekezdés együttes alkalmazása esetén a magasabb tőkekövetelménynek kell megfelelni.
-
-(3) Az (1) bekezdés alkalmazásánál figyelembe kell venni azokat a befektetési alapokat is, amelyek kezelésével az alapkezelő alvállalkozót bízott meg, nem kell figyelembe venni azonban azokat a befektetési alapokat, amelyeket az alapkezelő alvállalkozóként kezel.
-
-242/D. § (1) Az európai befektetési alapot kezelő alapkezelőnek – a működőképesség folytonosságának fenntartása és a befektetők védelme érdekében – az általa végzett tevékenység kockázatának fedezetét mindenkor biztosító, megfelelő nagyságú szavatoló tőkével kell rendelkeznie, amely nem csökkenhet
-
-- a) a 235. § (3)–(4) bekezdésében és a 242/C. §-ban meghatározott összeg alá;
-- b) az előző üzleti évben felmerült működési költségek összegének huszonöt százaléka alá.
-
-(2) A 229. § (1) bekezdés b) pontjában meghatározott tevékenység végzése esetén az európai befektetési alapot kezelő alapkezelő szavatoló tőkéje nem csökkenhet a kereskedési könyvben nyilvántartott pozíciók és kockázatvállalások piaci kockázatainak, árukockázatának és nagykockázatának, valamint az engedélyezett tevékenység egészében meglévő devizaárfolyam-kockázat, továbbá a hitelezési kockázat és az országkockázat fedezetére szükséges – külön jogszabály alapján meghatározott összegű – tőkekövetelmény együttes összege alá.
-
-(3) Az európai befektetési alapot kezelő alapkezelő szavatoló tőkéjének mindig el kell érnie az (1) bekezdés a)–b) pontja, illetőleg a (2) bekezdés alapján meghatározott legmagasabb összeget.
-
-(4) Amennyiben az előző üzleti évhez képest az európai befektetési alapot kezelő alapkezelő működésében nagymértékű változás következik be, a Felügyelet előírhatja, hogy az alapkezelő az (1) bekezdés b) pontja alapján megállapított szavatoló tőke összegét vizsgálja felül.
-
-242/E. § Az európai befektetési alapot kezelő alapkezelő az általa kezelt egyéni portfolióba nem vásárolhat az általa kezelt befektetési alap befektetési jegyéből, kivéve, ha a megbízó előzetesen ahhoz hozzájárul.
-
-242/F. § (1) A 240. § (3) bekezdése szerinti alvállalkozó igénybevételét az európai befektetési alapot kezelő alapkezelőnek a szerződés megkötését követő harminc napon belül be kell jelentenie a Felügyeletnek.
-
-(2) Az alvállalkozó igénybevétele
-
-- a) nem akadályozhatja az európai befektetési alapot kezelő alapkezelő feletti hatékony hatósági felügyelet gyakorlását;
-- b) nem járhat a befektetők érdekeinek sérelmével, és
-- c) nem akadályozhatja, hogy a befektetők érdekében az európai befektetési alapot kezelő alapkezelő utasításokat adjon az alvállalkozónak, vagy azonnali hatállyal felmondja a megbízási szerződést.
-
-(3) Alvállalkozó igénybevétele esetén biztosítani kell, hogy az európai befektetési alapot kezelő alapkezelő folyamatosan ellenőrizze az alvállalkozó tevékenységét.
-
-(4) Az alvállalkozó európai befektetési alapok kezelése esetén az alapkezelő mindenkor érvényes kezelési szabályzatának megfelelően köteles eljárni. Európai befektetési alapok kezelésénél az alvállalkozó nem lehet a befektetési alap letétkezelője, vagy olyan személy, akinek érdekei ellentétesek a befektetési jegy tulajdonosainak érdekeivel.
-
-242/G. § (1) Az európai befektetési alapot kezelő alapkezelőnek olyan kockázatkezelő eljárást kell kialakítania, amely biztosítja a pozíciók kockázatának, továbbá a befektetési alap teljes kockázatához való hozzájárulásának nyomon követését és mérését. Az európai befektetési alapot kezelő alapkezelőnek rendelkeznie kell a tőzsdén kívüli származtatott ügyletek kockázatának nyomon követését és mérését biztosító eljárással. Az európai befektetési alapot kezelő alapkezelőnek tájékoztatnia kell a Felügyeletet a származtatott ügyletekre vonatkozó korlátokról és az ilyen ügyletek kockázatának becsléséhez alkalmazott módszerekről. A kockázat becslésénél figyelembe kell venni a másik fél kockázatát, a várható piaci tendenciákat és a pozíció zárásáig hátralévő időt is.
-
-(2) A befektető kérésére kiegészítő tájékoztatást kell adni a kockázatkezelési eljárásokról, az egyes befektetési eszköz-típusok kockázatának és hozamának alakulásáról.
+242/A–242/G. §
 
 ### A befektetési jegy
 
-243. § (1) A befektetési jegy kötelező tartalmi kellékei:
-
-- a) a befektetési alap megnevezése és a befektetési jegy sorozat megjelölése;
-- b) a befektetési alap fajtája (zárt végű, nyílt végű), típusa (nyilvános vagy zártkörű), futamideje;
-- c) a befektetési jegy névértéke, értékpapír kódja és sorszáma;
-- d) a tulajdonos neve;
-- e) a tulajdonosnak, illetve a birtokosnak a befektetési jegyhez fűződő, a befektetési alap kezelési szabályzatában meghatározott jogai;
-- f) a kibocsátás időpontja;
-- g) az alap kezelését végző befektetési alapkezelő cégneve és székhelye;
-- h) az alap kezelését végző befektetési alapkezelő cégszerű aláírása.
-
-(2) A dematerializált befektetési jegy forgalomba hozatalához kiállított okirat a 7. § (2) bekezdésének c) és d) pontjában meghatározott adatokat nem tartalmazza.
-
-(3) A befektetőt a tulajdonában lévő, adott sorozatba tartozó befektetési jegy mennyisége után az alap kezelési szabályzata szerint az adott sorozatra eső felosztott hozam olyan arányban illeti meg, ahogy befektetési jegyei összesített névértéke a hozam felosztásakor az adott sorozatban forgalomban lévő befektetési jegyek összesített névértékéhez viszonyul.
+243. §
 
 ### A befektetési jegyek kibocsátása, forgalomba hozatala
 
-244. § (1) A nyílt végű befektetési alapra kibocsátott befektetési jegy kibocsátására, forgalomba hozatalára, a tájékoztatóra és a rövidített tájékoztatóra az e törvény Második Részében foglalt rendelkezéseket az e fejezetben meghatározott eltérésekkel kell alkalmazni.
-
-(2) Zárt végű befektetési alapra kibocsátott befektetési jegy kibocsátására, forgalomba hozatalára, a tájékoztatóra és a rövidített tájékoztatóra az e törvény Második Részében foglalt rendelkezéseket az e fejezetben az alapokra vonatkozó általános értelmű rendelkezésekkel együtt kell alkalmazni.
-
-(3) Zártkörű befektetési alap befektetési jegyeinek forgalomba hozatala esetén e törvény Második Részét az e fejezetben az alapokra vonatozó általános értelmű rendelkezésekkel, valamint a XXVI. Fejezet zártkörű befektetési alapokra vonatkozó rendelkezéseivel együtt kell alkalmazni.
-
-(4) A dematerializált formában előállított befektetési jegyeket a befektetési alapkezelő kezdeményezésére az általa megállapított értéknappal a központi értéktár keletkezteti, illetve törli. Nyílt végű befektetési alap által kibocsátott dematerializált formában előállított befektetési jegy esetében a központi értéktár naponta állítja elő, illetve vonja ki a forgalomból a befektetési jegyeket az alapkezelő utasítása alapján.
-
-(5) A nyílt végű befektetési alapra kibocsátott befektetési jegy tulajdonosát a jegyzési időszak kivételével nem illeti meg a 33. § (1) bekezdésében meghatározott elállási jog.
-
-(6) Egy befektetési alap nevében egy vagy több sorozatot alkotó, egyazon sorozaton belül azonos névértékű és azonos jogokat megtestesítő befektetési jegyek bocsáthatók ki. Az egyazon alapon belüli befektetési jegy sorozatok az alábbiak tekintetében különbözhetnek egymástól:
-
-- a) a felszámított díjak, költségek, jutalékok mértéke;
-- b) a befektetési jegyek névértéke, a forgalomba hozatal pénzneme;
-- c) a forgalomba hozatal módja, a forgalomba hozatal és a forgalmazás helye, az értékesíthető mennyiség minimuma;
-- d) a tőkenövekmény és a hozam megállapításának és kifizetésének szabályozása.
-
-(7) A már nyilvántartásba vett, nyílt végű befektetési alap által kibocsátott újabb befektetési jegy sorozat nyilvános forgalomba hozatalához jegyzési eljárás lefolytatása nem kötelező.
-
-245. § (1) A nyílt végű befektetési alapra kibocsátott befektetési jegy nyilvános forgalomba hozatalának feltétele, hogy az alapkezelő a forgalomba hozatali eljárást megelőzően, a Felügyelet által jóváhagyott, a 17. számú mellékletnek megfelelő tartalommal nyilvános tájékoztatót, illetve a 16. számú mellékletnek megfelelő tartalommal kezelési szabályzatot, valamint a 18. számú mellékletnek megfelelő tartalommal rövidített tájékoztatót és nyilvános ajánlattételt tegyen közzé a 34. § (3) bekezdésében meghatározott módon, azzal, hogy a nyilvános ajánlattételt valamely, a 34. § (4) bekezdésében meghatározott közzétételi helyen is közzé kell tenni. A nyilvános ajánlattétel tartalmazza
-
-- a) a tájékoztató közzétételét engedélyező felügyeleti határozat számát és időpontját;
-- b) a forgalomba hozandó értékpapír és a kibocsátó megnevezését;
-- c) a forgalomba hozandó értékpapír mennyiségét (darabszámát), névértékét és értékesítési árát vagy az ármeghatározás módját;
-- d) a forgalomba hozatali eljárás lebonyolítására rendelkezésre álló időtartamot, a forgalomba hozatali helyeket;
-- e) a forgalomba hozatal és a fizetés módját; és
-- f) a tájékoztató megjelentetésének, illetve megtekintésének helyét, idejét és módját. A nyilvános tájékoztató a befektetési alap megszűnéséig érvényes.
-
-(2) A befektetési jegyek zárt körben történő értékesítésének feltétele, hogy az alapkezelő a 16. számú mellékletnek megfelelő tartalommal kezelési szabályzatot tegyen hozzáférhetővé lehetséges befektetői számára.
-
-(3) Egy alapkezelő több alapja esetében az (1) bekezdésben meghatározott dokumentumok típusonként egységes szerkezetben is elkészíthetők.
-
-(4) A nyílt végű befektetési alapra kibocsátott befektetési jegynek az adott befektető számára első alkalommal történő értékesítésekor az alap kezelési szabályzatát és rövidített tájékoztatóját a befektetőknek térítésmentesen át kell adni, az alap tájékoztatóját, a legutóbbi éves és féléves jelentését a befektető kérésére térítésmentesen rendelkezésre kell bocsátani. A befektető külön nyilatkozatot tesz
-
-- a) a fenti dokumentumok átvételére vonatkozóan, vagy
-- b) arról, hogy a fenti dokumentumok részére történő átadásáról lemond, vagy
-- c) arról, hogy a dokumentumok átadását elektronikus úton kéri.
-
-(5) Egy alapkezelő által létrehozott több, azonos fajtájú [243. § (1) bekezdés b) pont], s – az értékpapíralapok esetében – az értékpapíralapokon belül az alapok ugyanazon válfajába [253. § (3) bekezdés] tartozó, nyilvános alapok esetében, amennyiben az alapok letétkezelője, forgalmazója azonos, a forgalomba hozatal és a forgalmazás módja, a befektetési jegyekhez fűződő jogok megegyeznek, az alapok egyazon alapsorozatba tartoznak. Alapsorozatba tartozó alapok esetében az alapkezelő kérheti, hogy ezen alapok nyilvános tájékoztatójának, kezelési szabályzatának és rövidített tájékoztatójának jóváhagyására, a nyilvános forgalomba hozatal engedélyezésére irányuló felügyeleti eljárás során a Felügyelet a 389. § (4) bekezdésében foglaltak alkalmazásával járjon el. Ezen kérelmet az alapkezelő alapsorozat indításakor, azaz az alapsorozatba tartozó első alap nyilvános forgalomba hozatalának engedélyezésére irányuló kérelemben terjesztheti elő, megjelölve az alapsorozatba tartozó alapok tervezett létrehozásával kapcsolatban rendelkezésre álló adatokat, terveket.
+244–245. §
 
 ### A nyílt végű befektetési alap által kibocsátott befektetési jegyek folyamatos forgalmazása
 
-246. § (1) A befektetési jegyeknek a befektetők felé való értékesítésére az alapkezelő forgalmazót bíz meg.
+246–248. §
 
-(2) A forgalmazó a befektetési jegyek értékesítésére ügynököt vehet igénybe. A forgalmazó az ügynök tevékenységéért a befektetők felé, mint sajátjáért felel.
-
-247. § (1) A nyilvános nyíltvégű alapok esetében az alap futamideje alatt az alapkezelő – a forgalmazó útján – minden forgalmazási napon köteles elfogadni és a kezelési szabályzatban meghatározott értéknapra megállapított egy jegyre jutó eszközértéken elszámolni a befektetési jegyre vonatkozó vételi és visszaváltási megbízásokat (e fejezet alkalmazásában előbbiek együttesen: befektetési jegyek folyamatos forgalmazása), kivéve a Felügyelet által engedélyezett zárva tartást, valamint a forgalmazás felfüggesztésének és szünetelésének eseteit, melyek időtartamába tartozó napok nem minősülnek forgalmazási napnak. Az engedélyezett zárva tartás vagy a forgalmazás felfüggesztése vagy a forgalmazás szünetelése előtt felvett és még el nem számolt megbízások elszámolására az alap kezelési szabályzata szerint irányadó határidő számításakor az előbbiek időtartama figyelmen kívül marad. Határozott futamidejű alap esetében a megbízások felvételére nyitva álló utolsó napot úgy kell meghatározni, hogy az e napon felvett megbízások elszámolására és a fizetésre az alap futamidejének eltelte előtt sor kerülhessen.
-
-(2) Az alap adott sorozata forgalmazási napjának tekintendő minden olyan nap, amely az alap adott sorozata forgalmazási helyén munkanapnak minősül, kivéve az (1) és (4) bekezdésben meghatározott eseteket.
-
-(3) A nyilvános nyíltvégű alapok befektetési jegyére vonatkozóan adott visszaváltási megbízások felvétele és az elszámolás értéknapja közti időköz – értékpapír-alap tekintetében – a (4) bekezdésben foglalt kivétellel – legfeljebb három, ingatlanalap tekintetében legfeljebb kilencven forgalmazási nap lehet. Az értéknap meghatározására, a megbízások elszámolására, valamint az elszámolásnál figyelembe vett egy jegyre jutó nettó eszközérték megállapítására vonatkozó egyéb szabályokat, közte a kifizetés napját az alap kezelési szabályzata tartalmazza.
-
-(4) A befektetési alapba befektető, a származtatott ügyletekbe fektető, továbbá a tőkegaranciát vagy tőkevédelmet kínáló nyilvános, nyílt végű alap és a zártkörű, nyílt végű alap esetében a befektetési jegyre vonatkozóan adott visszaváltási megbízások felvétele és az elszámolás értéknapja közti időköz legfeljebb harmincegy nap lehet. Ezen alapok tekintetében az alap kezelési szabályzata rendelkezhet akként, hogy egy meghatározott időszakon, de legfeljebb egy naptári hónapon belül felvett vételi vagy visszaváltási megbízások az időszak egy, előre meghatározott napjával – mint értéknappal – kerüljenek elszámolásra. Eltérő meghatározás hiányában az elszámolás értéknapja az időszak utolsó forgalmazási napja.
-
-(5) Ha a befektetési alapba befektető alap az eszközeinek több mint huszonöt százalékát ugyanazon alapba fekteti, választhatja azt, hogy a forgalmazási szabályai egyezzenek meg a portfóliójában több mint huszonöt százalékot képviselő alap forgalmazási szabályaival, amely esetben a visszaváltási megbízások felvétele és az elszámolás értéknapja közti időköz harmincegy napot meghaladó időtartam is lehet.
-
-(6) A nyílt végű befektetési jegyek forgalmazási árának alapja az egy befektetési jegyre jutó nettó eszközérték. A folyamatos forgalmazás során a befektető terhére eladási, illetve visszaváltási (vételi) jutalék számítható fel, amely – részben vagy egészben – az alapot, a forgalmazót vagy az alapkezelőt illetheti. A jutalék mértékéről a befektetőt előzetesen tájékoztatni kell.
-
-(7) A befektetési jegy eladása és visszaváltása, valamint a felosztott hozam kifizetése a forgalmazó feladata. Az értékesítésért kizárólag a forgalmazó felel.
-
-248. § A befektető részére a befektetési jegy folyamatos forgalmazása során a rövidített tájékoztatót, a tájékoztatót, a kezelési szabályzatot, a féléves vagy az éves jelentést, valamint a legfrissebb portfoliójelentést a befektető kérésére térítésmentesen rendelkezésre kell bocsátani, illetve szóbeli és elektronikus értékesítés során fel kell hívni a befektető figyelmét, hogy hol érheti el a felsorolt dokumentumokat.
-
-248/A. § (1) Ha az alapkezelő a nyílt végű befektetési alap tájékoztatójában és kezelési szabályzatában a forgalomba hozandó befektetési jegy mennyiségére felső korlátot állapított meg (kibocsátási maximum), és a forgalomban lévő befektetési jegyek mennyisége ezt a korlátot elérte, akkor a befektetési jegyek folyamatos forgalomba hozatala szünetel. Ha a törvény másként nem rendelkezik, a befektetési jegyek visszaváltása a folyamatos forgalomba hozatal szünetelése esetén sem korlátozható. Kibocsátási maximum a nyílt végű befektetési alap befektetési jegyének jegyzési eljárással történő forgalomba hozatalára is meghatározható.
-
-(2) A tájékoztatóban, rövidített tájékoztatóban közölni kell a kibocsátási maximum elérését követő allokáció módját, befejezésének időpontját, az allokációról való értesítés módját, valamint a folyamatos forgalomba hozatal újraindításának pontos feltételeit.
-
-(3) A kibocsátási maximum elérését, a befektetési jegyek folyamatos forgalomba hozatalának szüneteltetését, illetve újraindítását az alap hirdetményi helyein közzé kell tenni.
+248/A. §
 
 ### A befektetési jegyek folyamatos forgalmazásának felfüggesztése
 
-249. § (1) A nyílt végű befektetési alapra kibocsátott befektetési jegy adott sorozatába tartozó befektetési jegy folyamatos forgalmazását az alapkezelő kizárólag elháríthatatlan külső ok miatt, a befektetők érdekében, az alábbi rendkívüli esetekben, a Felügyelet haladéktalan tájékoztatása mellett felfüggesztheti, ha
-
-- a) az alap adott sorozata szerinti nettó eszközértéke nem állapítható meg, így különösen ha az alap saját tőkéje több mint tíz százalékára vonatkozóan az adott értékpapírok forgalmát felfüggesztik, vagy
-- b) a forgalmazás technikai feltételei legalább a forgalmazási helyek felén nem adottak.
-
-(2) A forgalmazást a kiváltó ok megszűnésével vagy a Felügyelet felhívására haladéktalanul folytatni kell.
-
-(3) Az alapkezelő az (1) bekezdésben meghatározott felfüggesztésről haladéktalanul tájékoztatja valamennyi olyan tagállam hatáskörrel rendelkező hatóságát, amelyben a befektetési jegyet forgalmazzák.
-
-250. § A befektetési jegyek folyamatos forgalmazását fel lehet függeszteni, ha a befektetési alap megszüntetését, illetve beolvadását jóváhagyó felügyeleti engedély ezt tartalmazza.
-
-251. § (1) A Felügyelet meghatározott időre, de legfeljebb tíz napra felfüggesztheti az adott sorozatot alkotó befektetési jegy folyamatos forgalmazását, ha az alapkezelő nem tesz eleget a tájékoztatási kötelezettségének.
-
-(2) A befektetési alapkezelő kérelmére a Felügyelet meghatározott időre, de legfeljebb száznyolcvan napra felfüggesztheti a befektetési alap által forgalomba hozott befektetési jegyek folyamatos visszaváltását, ha azt a befektetők érdekeinek védelme szükségessé teszi, így különösen, ha:
-
-- a) tíz egymást követő forgalmazási nap alatt a visszaváltott és visszaváltani kért befektetési jegyek összértéke eléri a befektetési alap – adott időszak első napján érvényes – nettó eszközértékének tíz százalékát, mely számítás során a visszaváltani kért, és még vissza nem váltott befektetési jegyet a visszaváltásra szóló megbízás felvétele napján érvényes nettó eszközértéken kell figyelembe venni,
-- b) húsz egymást követő forgalmazási nap alatt a forgalomban levő befektetési jegyek darabszáma tíz százalékkal csökkent, vagy
-- c) a befektetési jegyek visszaváltását biztosító likvid eszközök aránya a visszaváltások következtében a befektetési alap saját tőkéjének tizenöt százaléka alá csökkent. A befektetési alapkezelő a befektetési jegy folyamatos visszaváltás felfüggesztésére vonatkozó kérelmet az a)–c) pontban meghatározott valamelyik feltétel bekövetkeztét követő öt forgalmazási napon belül nyújthatja be.
-
-(2a) A befektető kérelmére a Felügyelet meghatározott időre, de legfeljebb száznyolcvan napra felfüggeszti a befektetési alap által forgalomba hozott befektetési jegyek folyamatos visszaváltását. A befektető akkor kérelmezheti a befektetési jegyek folyamatos visszaváltásának felfüggesztését, ha rendelkezik a befektetési alap által forgalomba hozott befektetési jegyek legalább ötven százalékával.
-
-(3) A Felügyelet a befektetők érdekében az (5) bekezdésben meghatározott határidőn belül bármikor, erre irányuló kérelem nélkül is dönthet a visszaváltás felfüggesztésének megszüntetéséről, meghatározva a visszaváltás kezdőnapját. Ha a felfüggesztés megszüntetését az alapkezelő az (5) bekezdésben meghatározott határidőn belül kéri, azt a Felügyelet elrendeli. (4) A Felügyelet a (2)–(3) bekezdés alapján előterjesztett kérelem elbírálásáról legkésőbb két forgalmazási napon belül dönt.
-
-(5) Ha a (2) bekezdés a)–c) pontjában meghatározott felfüggesztési feltételek bármelyike alapján elhatározott felfüggesztés fennállásának időtartama eléri a száznyolcvan napot, a Felügyelet elrendeli a befektetési alap megszüntetését.
+249–251. §
 
 ### Külföldön forgalomba hozott nyílt végű kollektív befektetési értékpapírok belföldi forgalomba hozatala és folyamatos forgalmazása
 
-252. § (1) A külföldön létrehozott befektetési alap vagy más kollektív befektetési forma által forgalomba hozott kollektív befektetési értékpapír nyilvános belföldi forgalomba hozatalához és forgalmazásához, illetőleg szabályozott piacra történő bevezetéséhez – az Európai Unió másik tagállamában létrehozott európai befektetési alap vagy annak megfelelő kollektív befektetési forma által forgalomba hozott kollektív befektetési értékpapír kivételével – a Felügyelet engedélye szükséges. Az engedélyezési eljárásra a befektetési jegy nyilvános forgalomba hozatalára vonatkozó szabályokat a (2)–(10) bekezdésben foglalt eltéréssel kell alkalmazni.
-
-(2) A forgalomba hozatal kezdő napját legkésőbb tíz munkanappal megelőzően a kibocsátó a (3) bekezdésben szereplő információval kibővített – a 17. számú mellékletnek megfelelő tartalommal elkészített – nyilvános tájékoztatót, a 16. számú mellékletnek megfelelő tartalommal elkészített kezelési szabályzatot és a 18. számú mellékletnek megfelelő tartalommal elkészített rövidített tájékoztatót és azok hiteles magyar fordítását és a székhelye szerinti felügyeleti hatóság engedélyét benyújtja a Felügyeletnek.
-
-(3) A nyilvános tájékoztatóban ki kell térni a magyar befektetők tájékoztatásának módjára, helyére és idejére, a forgalomba hozatali helyek megnevezésére, az értékpapírral kapcsolatos adófizetési kötelezettségre, a befektetés kockázatára vonatkozó információkra, valamint az alappal, illetőleg kollektív befektetési formával kapcsolatos – e törvény rendelkezéseitől eltérő – gyakorlatra.
-
-(4) Ha a kibocsátó rendelkezik a székhelye szerint hatáskörrel rendelkező felügyeleti hatóság által közzétételre engedélyezett tájékoztatóval, úgy a belföldi forgalomba hozatalhoz szükséges tájékoztatót a hatályos tájékoztató alapján kell elkészíteni, kiegészítve a belföldi forgalomba hozatal adataival, így különösen a (3) bekezdésben meghatározott részletekkel.
-
-(5) Az (1) bekezdésben meghatározott engedélyt a Felügyelet akkor adja meg, ha
-
-- a) a külföldi székhelyű kibocsátó a Felügyeletnek benyújtja a székhelyének joga által a forgalomba hozatalra meghatározott feltételek teljesítésére vonatkozó igazolást, illetve – ha a külföldön történő forgalomba hozatal a székhely szerinti államban engedélyköteles – az engedélyt és annak hiteles magyar nyelvű fordítását;
-- b) a befektető kibocsátóval szembeni jogérvényesítése megfelelően biztosított;
-- c) a kibocsátó teljesíti a befektetési jegyek belföldi nyilvános forgalomba hozatalára vonatkozó feltételeket;
-- d) a kibocsátó székhelye szerinti ország rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás elleni jogszabályi előírásokkal.
-
-(6) Nemzetközi szerződés vagy együttműködési megállapodás alapján a Felügyelet elfogadja a külföldi felügyeleti hatóság által megkövetelt és ott közzétételre engedélyezett tájékoztatót.
-
-(7) A külföldi kibocsátó kollektív befektetési értékpapírjának belföldön történő forgalomba hozatalára, illetőleg forgalmazására az Európai Unió tagállamában bejegyzett forgalmazó igénybevételével kerülhet sor.
-
-(8) A külföldi kibocsátó által készített, a Felügyelet által engedélyezett vagy elfogadott tájékoztatót magyar nyelven kell közzétenni.
-
-(9) A külföldi befektetési alap, illetőleg más kollektív befektetési forma köteles megfelelni a 245. § (4) bekezdésében, a 248. §-ban, a 289. §-ban, a 290. §-ban és a 293. §-ban meghatározott tájékoztatási követelményeknek, ideértve a folyamatos forgalmazásához készült tájékoztató tartalmi felépítésére és rendszeres közzétételére vonatkozó előírásokat is. A magyar ügyfelek tájékoztatását magyar nyelven kell biztosítani.
-
-(10) A Felügyelet a külföldi kollektív befektetési értékpapír nyilvános folyamatos forgalmazását felfüggeszti, ha az nem felel meg az (1) és a (9) bekezdésben előírt szabályoknak. A Felügyelet a folyamatos forgalmazást megtilthatja, ha a felfüggesztést követően harminc napon belül a folyamatos forgalmazás törvényi feltételei nem állnak helyre, illetve amennyiben második ízben kerülne sor a forgalmazás felfüggesztésére.
+252. §
 
 ### Nyílt végű befektetési alap által belföldön forgalomba hozott befektetési jegy külföldi forgalomba hozatala, szabályozott piacra történő bevezetése
 
-252/A. § (1) Nyílt végű befektetési alap által belföldön forgalomba hozott befektetési jegy külföldi forgalomba hozatalát, szabályozott piacra történő bevezetését a Felügyeletnek be kell jelenteni.
-
-(2) A bejelentéssel egyidejűleg a Felügyeletnek meg kell küldeni a forgalomba hozatal helyének joga által előírt tájékoztató tervezetét.
+252/A. §
 
 ### Befektetési alapok létrejötte
 
-253. § (1) A befektetési alap – az alapkezelő kérelmére – a Felügyelet által történő nyilvántartásba vétellel jön létre. A nyilvántartásba vételi kérelemhez csatolni kell a letétkezelő által kiállított igazolást arról, hogy a tájékoztatóban, illetőleg a kezelési szabályzatban meghatározott saját tőkét a befektetők befizették, illetve ingatlanapport esetében az ingatlan tulajdonjogának átruházására vonatkozó okiratokat az alap rendelkezésére bocsátották. A saját tőke eredményes befizetését követően az alapkezelő köteles haladéktalanul intézkedni a befektetési alap nyilvántartásba vétele iránt. Amennyiben több sorozatba tartozó befektetési jegy kerül forgalomba hozatalra, a jogszabályban, illetve a kezelési szabályzatban az alapra vonatkozóan meghatározott legkisebb induló saját tőke összegyűjtésére vonatkozó feltételt az esetben is teljesítettnek kell tekinteni, ha ezen tőkeösszeget a különböző sorozatokat alkotó befektetési jegyekre szóló, elfogadott jegyzésekre befizetett összegek, illetve – ingatlanapport esetén – teljesített hozzájárulások értékének együttes összege eléri.
-
-(2) Ha a befektetési alap saját tőkéjének összegyűjtésére nyitva álló időn belül nem sikerült a tőkét összegyűjteni, a forgalmazó a kezelési szabályzatban meghatározott időtartam lejártát követő öt napon belül köteles a befektetők által befizetett teljes összeget visszafizetni.
-
-(3) Befektetési alapot nyílt végű vagy zárt végű, értékpapír- vagy ingatlanalapként, nyilvánosan vagy zártkörűen lehet létrehozni. Az értékpapíralapokon belül különleges alapok, európai befektetési alap, alapokba befektető befektetési alap, származtatott ügyletekbe befektető befektetési alap és indexkövető befektetési alap is létrehozható.
-
-254. § (1) A nyilvános módon létrehozott befektetési alap legkisebb induló saját tőkéje:
-
-- a) értékpapíralap esetén kettőszázmillió forint;
-- b) ingatlanalap esetén egymilliárd forint.
-
-(2) A zárt körben létrehozott befektetési alap legkisebb induló saját tőkéje
-
-- a) értékpapíralap esetében egyszázmillió forint;
-- b) ingatlanalap esetén ötszázmillió forint.
-
-(3) A zártkörű ingatlanalap befektetési jegyei ingatlanapport ellenében is jegyezhetőek. Az apportálandó ingatlanokat részletesen be kell mutatni az alap kezelési szabályzatában. Az apportálandó ingatlanok értékét az alap könyvvizsgálója és az ingatlanértékelője együttesen állapítja meg. Az apport összértéke nem haladhatja meg az alap induló saját tőkéjének ötven százalékát.
+253–254. §
 
 ### Befektetési alap megszűnése
 
-255. § A befektetési alap a Felügyelet által vezetett nyilvántartásból való törléssel szűnik meg. A Felügyelet törli az alapot a nyilvántartásból
-
-- a) a pozitív saját tőkéjű, határozott futamidejű alap futamidejének lejáratakor a megszűnési jelentés Felügyelethez történő benyújtását követő nappal;
-- b) a pozitív saját tőkéjű alap megszüntetésekor a megszűnési jelentés Felügyelethez történő benyújtását követő nappal;
-- c) a negatív saját tőkéjű alap megszüntetésekor a vagyon értékesítéséből származó ellenérték teljes kifizetésekor;
-- d) más befektetési alapba történő beolvadás esetén a beolvadás napjával;
-- e) a nyílt végű befektetési alap esetében az összes befektetési jegy visszaváltásakor, az utolsó befektetési jegy visszaváltása napját követő nappal.
-
-256. § (1) Az alapkezelő jogutód nélküli megszűnésekor, illetőleg az alapkezelő tevékenységi engedélye visszavonásakor – ha az alapkezelést másik alapkezelő nem vállalja el – az alapot meg kell szüntetni.
-
-(2) A határozatlan futamidejű, pozitív saját tőkéjű befektetési alapot az alapkezelő a Felügyelet engedélyével megszüntetheti.
-
-(3) A nyilvános nyílt végű befektetési alapot az alapkezelő köteles megszüntetni, amennyiben az alap saját tőkéje három hónapon keresztül, átlagosan nem éri el a húszmillió forintot.
-
-(4) Az alap megszüntetését a Felügyelet elrendeli, ha az alap saját tőkéje negatív.
-
-(5) A befektetési alap (1)–(4) bekezdés szerinti megszüntetését az alapkezelő, illetőleg a letétkezelő a megszüntetésről szóló felügyeleti határozat kézhezvételét, illetve a (3) bekezdésben foglalt időszak elteltét követő kettő munkanapon belül köteles közzétenni.
-
-(6) Az (5) bekezdés szerinti közzététel napjától a nyílt végű befektetési jegyek visszaváltását és eladását fel kell függeszteni.
-
-(7) Az alap hitelezői az (5) bekezdés szerinti közzététel napjától számított harminc napos jogvesztő határidőn belül jelenthetik be követeléseiket a letétkezelőnél.
-
-(8) Amennyiben a megszüntetési eljárás során az alap saját tőkéje a (7) bekezdés szerint bejelentett kötelezettségek figyelembevételével együtt negatívvá válik, akkor a letétkezelő köteles azt a Felügyeletnek haladéktalanul bejelenteni.
-
-257. § (1) Ha e törvény másként nem rendelkezik, az alap megszűnésekor felmerülő feladatokat az alapkezelő, az alapkezelő akadályoztatása, illetve felszámolása esetén pedig a letétkezelő köteles elvégezni.
-
-(2) A 255. § a)–c) pontjában meghatározott esetben a portfólióban lévő ingatlant tizenkét hónapon belül, az egyéb eszközt egy hónapon belül kell értékesíteni.
-
-(3) Pozitív saját tőkével rendelkező befektetési alap esetében a befektetési eszközök értékesítését az alapkezelő maga is elvégezheti. Ennek hiányában a befektetési eszközök értékesítésével befektetési szolgáltatót kell megbízni, amelynek bizományosi díja megszűnési költségként az alapot terheli.
-
-(4) Pozitív saját tőkével rendelkező ingatlanalap megszűnésekor az ingatlanok értékesítését az alapkezelő maga is elvégezheti. Ennek hiányában az értékesítéssel ingatlanforgalmazó céget kell megbízni. Az értékeléshez, illetve az értékesítéshez igénybe vett ingatlanforgalmazó cég által felszámított díj megszűnési költségként az alapot terheli.
-
-(5) A (2) bekezdésben meghatározott határidő a Felügyelet engedélyével egy alkalommal meghosszabbítható, ingatlan esetén hat hónappal, egyéb eszköz esetében három hónappal.
-
-(6) Amennyiben az ingatlanalap portfóliójában lévő ingatlanokat a (2) és (5) bekezdésben meghatározott rendelkezésre álló időtartam alatt nem sikerül legalább az ingatlanértékelő szervezet által meghatározott értéken értékesíteni, akkor az ingatlanokat nyilvános árverésen kell értékesíteni. Az árverési felhívást az alap hivatalos közzétételi helyein az árverés időpontját legalább harminc nappal megelőzően meg kell jelentetni.
-
-(7) A befektetési alap tulajdonába tartozó vagyon értékesítését, az értékesítésből származó ellenérték befolyását, valamint a 256. § (7) bekezdésében foglalt határidő elteltét követően öt, ingatlanalap esetében tizenöt napon belül megszűnési jelentést kell készíteni, a Felügyelethez benyújtani és ezzel egyidejűleg a 34. § (3) bekezdésében meghatározott módon a befektetők rendelkezésére bocsátani. A letétkezelő ezt követően tíz napon belül köteles megkezdeni a rendelkezésre álló összeg kifizetését a befektetők részére. A megszűnési jelentés – a 19. számú mellékletben foglaltakon túlmenően – legalább az éves jelentés kötelező tartalmi elemeit tartalmazza. A kifizetés megkezdéséről rendkívüli közleményt kell közzétenni.
-
-(8) A befektetési alap eszközei értékesítéséből befolyt ellenértékből az alap tartozásai és kötelezettségei levonását követően rendelkezésre álló (pozitív összegű) tőke a befektetőket befektetési jegyei névértékének az összes forgalomban lévő befektetési jegy névértékéhez viszonyított arányában illeti meg.
-
-(9) A befektetők részére kifizetendő összeget a letétkezelő elkülönített letéti számlán köteles tartani a befektetők részére történő kifizetésig, illetve az elévülési idő elteltéig.
-
-258. § (1) Negatív saját tőkével rendelkező alap megszüntetését a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaság végzi.
-
-(2) A befektetési alap tulajdonába tartozó vagyon értékesítését, az értékesítésből származó ellenérték befolyását követően a nonprofit gazdasági társaság a hitelezők követeléseit a Cstv. előírásai szerinti kielégítési sorrendben egyenlíti ki.
+255–258. §
 
 ### A befektetési alapkezelő felszámolására vonatkozó különleges és eltérő szabályok
 
-259. § (1) A befektetési alapkezelő felszámolása során a Cstv. szabályait az e törvényben foglalt eltérésekkel kell alkalmazni. Befektetési alapkezelő társaság felszámolójának a bíróság kizárólag a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző, a Felügyelet által létrehozott nonprofit gazdasági társaságot rendelheti ki. Befektetési alapkezelő felszámolása esetén az eljárás felfüggesztésének nincs helye.
-
-(2) A befektetési alapkezelő által kezelt portfoliókban lévő eszközök nem képezik a befektetési alapkezelő tulajdonát, az a befektetési alapkezelő hitelezőinek kielégítésére nem vehető igénybe.
+259. §
 
 ### Befektetési alap átalakulása
 
-260. § (1) Átalakulásnak minősül a befektetési alap fajtájának, típusának vagy futamidejének megváltoztatása.
-
-(2) Nyíltvégű nyilvános befektetési alap – az ingatlanalap kivételével – nem alakulhat zártvégű nyilvános befektetési alappá.
-
-(3) Nyilvánosan létrehozott befektetési alap csak az összes befektető hozzájárulásával alakulhat át zártkörű befektetési alappá.
-
-(4) Zártvégű, határozott futamidejű befektetési alap nem alakulhat át zártvégű határozatlan futamidejű befektetési alappá.
-
-(5) Európai befektetési alap nem alakulhat át nem európai befektetési alappá.
-
-(6) Az alapkezelő az átalakulás indokát, napját és feltételeit tartalmazó tájékoztatót köteles a Felügyeletnek jóváhagyásra benyújtani. Az alapkezelő a Felügyeleti engedély megszerzését követően köteles az átalakulás tényét a befektetési alap hirdetményi lapjaiban, az átalakulás napját legalább harminc nappal megelőzően közzétenni.
-
-(7) A Felügyelet a befektetők érdekeinek védelme érdekében, különösen indokolt esetben az átalakulás feltételeit egyedileg is meghatározhatja.
-
-(8) Zártkörű befektetési alap az átalakulásáról kezelési szabályzatának módosításával a 265. § (3) bekezdése szerint határoz. A zártkörű alap nyilvános alappá történő átalakulása esetén az átalakulás napjára igazolnia kell a Felügyelet felé a 254. § (1) bekezdésében meghatározott legkisebb induló saját tőke meglétét.
-
-(9) A nyíltvégű nyilvános ingatlanalap zártvégű nyilvános ingatlanalappá történő átalakulása esetén az alapkezelő a (6) bekezdésben meghatározott tájékoztató Felügyelethez történő benyújtásával egyidejűleg dokumentálható módon tájékoztatja a befektetési jegyek tulajdonosait a zártvégűvé átalakulás indokáról, tervezett időpontjáról és feltételeiről.
-
-(10) A nyíltvégű nyilvános ingatlanalap az átalakulás napját megelőzően kezdeményezett befektetési jegyek visszaváltását követően alakulhat át zártvégű nyilvános ingatlanalappá.
-
-(11) A Felügyelet a nyíltvégű nyilvános ingatlanalap zártvégű nyilvános ingatlanalappá történő átalakulásához kiadott engedélyt visszavonhatja, ha azt a befektetők érdekeinek védelme egyébként szükségessé teszi.
+260. §
 
 ### Befektetési alapok beolvadása
 
-261. § (1) Az alapkezelő nyilvános befektetési alapok esetén beolvadási tájékoztató felügyeleti jóváhagyásával és nyilvánosságra hozatalával kezdeményezheti befektetési alapok beolvadását.
-
-(2) Kizárólag hasonló befektetési politikával rendelkező, valamint azonos fajtájú és típusú alapok olvadhatnak egybe. Európai befektetési alap csak európai befektetési alapba olvadhat be. A beolvadó alap befektetési politikája a jogutód alapéval hasonlónak minősül, amennyiben az alapok azonos, a 267. § (1) bekezdésének a)–d) pontjában meghatározott eszközökbe fektetnek, és a jogutód alap befektetési politikáját nem sérti a beolvadó alap portfóliójának összetétele.
-
-(3) A beolvadás során meg kell jelölni a jogutód alapot. Nyíltvégű nyilvános befektetési alapnak nem lehet a jogutóda zártvégű befektetési alap.
-
-(4) Ha a jogutód alap határozott futamidejű, akkor a beolvadás napjától számított hátralévő futamideje nem haladhatja meg a beolvadó alap futamidejét, és nem lehet rövidebb egy naptári évnél.
-
-(5) Zártkörű befektetési alapok beolvadásához a befektetési jegy tulajdonosok írásos, egyhangú jóváhagyó nyilatkozata szükséges.
-
-262. § (1) A beolvadásról szóló tájékoztatóban be kell mutatni a beolvadás indokát, a beolvadó alapok befektetési politikáját, a beolvadás határnapját, a beolvadás feltételeit, a befektetésijegy-tulajdonosok teendőit, valamint – befektetésijegy-sorozatonként – az alapok nettó eszközértékeinek és az egy jegyre jutó nettó eszközértékek alakulását, az értékelési szabályokat, és az átváltási névérték meghatározását. A beolvadási tájékoztatónak tartalmaznia kell a jogutód befektetési alap e törvény szerinti teljes kezelési szabályzatát.
-
-(2) A jogutód befektetési alap alapkezelője a felügyeleti engedély megszerzését követően a beolvadás napját legalább harminc nappal megelőzően köteles a beolvadás tényét a beolvadó befektetési alap hirdetményi lapjaiban közzétenni.
-
-(3) A beolvadás értéknapján befektetésijegy-sorozatonként meg kell állapítani a beolvadó alap befektetési jegyeinek – a jogutód befektetési alap befektetési jegyének névértékére átszámított – egy jegyre jutó napi nettó eszközértékét. Az alapkezelő és a forgalmazó a jogutód befektetési alap befektetési jegyeit – az érvényes egy jegyre jutó nettó eszközértékeknek megfelelő átváltási arányban – jóváírja a beolvadó befektetési alap befektetésijegy-tulajdonosainak a forgalmazónál vezetett értékpapírszámláján.
-
-(4) A jogutód alapkezelő a beolvadásról, a befektetési alapok beolvadásának napjára érvényes portfóliójáról jelentést készít, amelyet a beolvadást követő nyolc munkanapon belül köteles megküldeni a Felügyeletnek, közzétenni a jogutód befektetési alap forgalmazójának honlapján, valamint a befektetők rendelkezésére bocsátani mind a jogutód, mind a jogelőd befektetési alapra kibocsátott befektetési jegyek forgalmazási helyein. A jelentésnek tartalmaznia kell a portfóliókban lévő eszközök tételes felsorolását, azok értékét; továbbá – befektetési jegy sorozatonként – az összesített nettó eszközértékeket; a befektetési jegyek darabszámát, az egy befektetési jegyre jutó nettó eszközértéket, az átváltási arányt. A jelentést a jogutód befektetési alap letétkezelője és könyvvizsgálója is aláírja.
+261–262. §
 
 ### XXVI. Fejezet — EGYES KÜLÖNLEGES SZABÁLYOZÁST IGÉNYLŐ BEFEKTETÉSI ALAPOK
 
 ### Zárt végű befektetési alapok
 
-263. § (1) A zárt végű befektetési alapra forgalomba hozott befektetési jegy a befektetési alap futamidejének vége előtt nem váltható vissza.
-
-(2) A nyilvánosan működő zárt végű alapok esetében az alapkezelő köteles a befektetési alap létrehozatalát, a már nyilvántartásba vett befektetési alap által kibocsátott új sorozat forgalomba hozatalát, illetve a nyilvánossá válását követő egy hónapon belül a befektetési jegy szabályozott piacra történő bevezetését kezdeményezni.
-
-(3) Befektetési jegyek zárt végű befektetési alapra történő nyilvános forgalomba hozatala kibocsátási program keretében is történhet.
+263. §
 
 ### Zártkörű befektetési alapra vonatkozó eltérő rendelkezések
 
-264. § Befektetési alap zártkörű létrehozatalának minősül, ha a befektetési jegyek forgalomba hozatala kielégíti a 14. § (1) bekezdésének a)–e) pontjában foglalt feltételek valamelyikét.
-
-265. § (1) A zártkörű befektetési alap létrehozatalakor az alapkezelő kezelési szabályzatot köteles készíteni. A zártkörű befektetési alap kezelési szabályzatának kötelező tartalmi elemeit a 16. számú melléklet tartalmazza. A kezelési szabályzatot az alapkezelő a zártkörű alap nyilvántartásba vételére irányuló kérelemhez csatoltan, a kezelési szabályzatban meghatározott saját tőke rendelkezésre állását igazoló letétkezelői igazolással együtt benyújtja a Felügyelethez, amely ezek alapján nyilvántartásba veszi a zártkörű alapot.
-
-(2) A kezelési szabályzatot a forgalomba hozatali eljárás megkezdését megelőzően legalább hét nappal a kezelési szabályzatban meghatározott befektetői kör részére hozzáférhetővé kell tenni.
-
-(3) Ha a kezelési szabályzat módosítására kerül sor, a módosított kezelési szabályzatot öt nappal a módosítás hatálybalépését követően tájékoztatásul meg kell küldeni a Felügyeletnek.
-
-(4) A kezelési szabályzatban az alapkezelő a kezelési szabályzat módosítását a módosítással érintett befektetésijegy-sorozatot alkotó befektetési jegyek tulajdonosai kezelési szabályzatban meghatározottak szerint számított és ott meghatározott mértékű többségének jóváhagyásától teheti függővé.
-
-(5) A zártkörűen forgalomba hozott befektetési jegy az alap nyilvánossá válásáig kizárólag a kezelési szabályzatban meghatározott befektetők körében ruházható át, illetőleg nyílt végű befektetési alap esetén kizárólag e körben forgalmazható, minden esetben kizárólag a 14. § (1) bekezdésének a)–e) pontjaiban foglalt kereteken belül.
-
-(6) Az alapkezelő a zártkörű befektetési alap kezelési szabályzatában a 266. §-ban, valamint a 289–290. §-okban foglaltaktól eltérő módon határozhatja meg a befektetők részére nyújtandó rendszeres és rendkívüli, valamint a nettó eszközértékkel kapcsolatos tájékoztatási kötelezettségeit.
-
-(7) Zártkörű befektetési alap esetében az alapkezelő a 358. § (2) bekezdésében foglalt előírástól eltérően az alap éves beszámolójának ellenőrzésére nem köteles könyvvizsgálót megbízni. Erre a tényre a kezelési szabályzatban fel kell hívni a befektetők figyelmét.
+264–265. §
 
 ### XXVII. Fejezet — A BEFEKTETÉSI ALAPOKRA VONATKOZÓ ÉRTÉKELÉSI ÉS BEFEKTETÉSI SZABÁLYOK
 
 ### A nettó eszközérték kiszámításának és közzétételének szabályai
 
-266. § (1) A befektetési alap nettó eszközértékét a letétkezelő határozza meg.
+266. §
 
-(2) Az alap nettó eszközértékét befektetési jegy sorozatonként, az alap eszközeire vonatkozó lehető legfrissebb piaci árfolyam-információk alapján, az alap kezelési szabályzatában írtak szerint kell meghatározni.
+266/A. §
 
-(3) A nyílt végű befektetési alap nettó eszközértékét és az egy befektetési jegyre jutó nettó eszközértéket minden forgalmazási napra meg kell állapítani és a 34. § (4) bekezdésében meghatározott helyen közzé kell tenni, valamint a forgalmazási helyeken a befektetők számára hozzáférhetővé kell tenni.
+266/B. §
 
-(4) A nettó eszközértéket és az egy befektetési jegyre jutó nettó eszközértéket zárt végű értékpapír befektetési alap esetén legalább hetente, a zárt végű ingatlanalapok esetén pedig legalább havonta kell megállapítani és a 34. § (4) bekezdésében meghatározott helyen közzétenni.
+266/C. §
 
-(5) A befektetési alap nettó eszközértékét és az egy befektetési jegyre jutó nettó eszközértéket naponta kell megállapítani és a 34. § (4) bekezdésében meghatározott helyen közzétenni, ha az alap portfoliója származtatott eszközöket is tartalmaz.
-
-(6) A nyilvános befektetési alap nettó eszközértékét és az egy befektetési jegyre jutó nettó eszközértéket a megállapítását követő két munkanapon belül közzé kell tenni.
-
-(7) Az alapkezelő köteles minden, a befektetési alap nettó eszközértékének megállapításához szükséges dokumentumot késedelem nélkül, a nettó eszközérték megállapításának rendszerességéhez igazodva megküldeni a letétkezelőnek.
-
-(8) A befektetési alap nettó eszközértéke számításában bekövetkezett hiba esetén a hibás nettó eszközértéket a hiba feltárását követő legközelebbi nettó eszközérték megállapításkor a hiba bekövetkezésének időpontjára visszamenőleges hatállyal javítani kell. A javítás során a hibás nettó eszközértéket a helyes értékre kell módosítani minden olyan napra vonatkozóan, amelyen nettó eszközérték kiszámítására került sor, s amelyet a feltárt hiba érintett.
-
-(9) Ha hibás nettó eszközértéken befektetési jegy forgalmazására került sor, a hibás és a helyes nettó eszközérték szerint számított forgalmazási ár közötti különbséget a befektetővel legfeljebb harminc napon belül el kell számolni, kivéve ha
-
-- a) a hibás nettó eszközérték számítás miatt előállt, egy befektetési jegyre vonatkozó forgalmazási ár különbség mértéke nem éri el a helyes nettó eszközértéken egy befektetési jegyre számított forgalmazási ár egy ezrelékét, illetve – ha a kezelési szabályzat ennél kisebb értéket határoz meg – a kezelési szabályzatban megállapított értéket,
-- b) a hibás és a helyes nettó eszközértéken számított forgalmazási ár különbségből származó elszámolási kötelezettség összegszerűen nem haladja meg befektetőnként az ezer forintot, illetve – ha a kezelési szabályzat ennél kisebb értéket határoz meg – a kezelési szabályzatban megállapított összeget, vagy
-- c) az alapkezelő a kezelési szabályzatban úgy rendelkezett, hogy a nettó eszközérték számításában feltárt hiba esetén, annak javítása eredményeképpen a befektetési jegy forgalmazási árában keletkező különbségből adódó elszámolási kötelezettség kapcsán a befektetőt terhelő visszatérítési kötelezettségtől eltekint.
-
-(10)–(12)
-
-266/A. § (1) Az alapkezelő az ingatlanalap tulajdonában lévő ingatlanok értékének rendszeres megállapításával, legfeljebb ötéves időtartamra ingatlanértékelő természetes személyt, illetve ingatlanértékelő szervezetet – egyidejűleg megnevezve az alkalmazásában álló, az értékelést ténylegesen végző természetes személyt – bíz meg. A megbízás érvényességéhez a letétkezelő Ptk. 215. § (1) bekezdése szerinti beleegyezése, továbbá a Felügyelet jóváhagyása szükséges.
-
-(2) Az ingatlanértékelést végző természetes személynek és szervezetnek az általa végzett tevékenység felelősségbiztosítására mindenkor legalább káreseményenként 250 millió forint, illetve évente együttesen legalább 375 millió forint összegű felelősségbiztosítással kell rendelkeznie. A Felügyelet jóváhagyásának feltétele, hogy az ingatlanértékelő természetes személy, ingatlanértékelő szervezet igazolja a felelősségbiztosítási szerződés megkötését.
-
-(3) Az ingatlanértékelést végző természetes személy és szervezet felelősségbiztosítási szerződésének minimális tartalmi követelményeit a kormány rendeletben állapítja meg.
-
-(4) Az (1) bekezdés szerinti megbízás alapján az ingatlanértékelést végző természetes személy az lehet, aki
-
-- a) büntetlen előéletű,
-- b) nem áll tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt,
-- c) rendelkezik a külön jogszabályban meghatározott végzettséggel, szakképzettséggel, illetőleg szakmai gyakorlattal,
-- d) nem rendelkezik az alapkezelőben e törvény szerinti befolyásoló részesedéssel, és
-- e) az alapkezelővel szemben nincs tartozása.
-
-(5) Az ingatlanértékelést végző természetes személy az (1) bekezdés szerinti jogviszonyban egyidejűleg legfeljebb öt befektetési alapnál láthat el ingatlanértékelői feladatot.
-
-266/B. § (1) Az ingatlanalap tulajdonában lévő ingatlanok értékelése
-
-- a) piaci összehasonlításon alapuló módszerrel,
-- b) hozamszámításon alapuló módszerrel, vagy
-- c) újraelőállítási költségen alapuló módszerrel
-
-történhet azzal, hogy az értékelési módszer választását részletesen indokolni kell és a továbbiakban minden időszakban ugyanezen módszerrel kell az adott ingatlan esetében elvégezni.
-
-(2) Ha az ingatlanértékelő úgy ítéli meg, hogy az (1) bekezdés szerint kiválasztott és alkalmazott értékelési módszer a továbbiakban már nem alkalmas az ingatlan piaci értékének becslésére, és egy másik módszer alkalmazása a korábbiaknál pontosabb becslést eredményez, az adott ingatlan esetében az értékelési módszert meg kell változtatni, és az indokokat az értékelési szakvéleményben részletesen be kell mutatni.
-
-266/C. § (1) A 266/A. § (1) bekezdése szerinti ingatlanértékelő határozza meg
-
-- a) az ingatlan megvásárlásakor az ingatlanalap által kifizethető legmagasabb összeget,
-- b) az ingatlan eladásakor az ingatlanalap által elfogadható legalacsonyabb összeget,
-- c) az ingatlanalap tulajdonában lévő ingatlanok forgalmi értékét, valamint
-- d) az építés alatt álló ingatlanok értékét, egyúttal ellenőrzi a kivitelezési terv teljesülését,
-- e) ingatlan tulajdonának kölcsönös átruházása esetén (csere)
-  - ea) az ingatlanalap által tulajdonba adott ingatlan beszámítási értékének legalacsonyabb összegét,
-  - eb) az ingatlanalap által megszerzett ingatlan beszámítási értékének legmagasabb összegét.
-
-(2) Az ingatlanértékelő háromhavonta megállapítja az ingatlanalap tulajdonában lévő ingatlanok értékét, havonta pedig az építés alatt álló ingatlanok értékét.
-
-(3) A (2) bekezdésben foglaltakról
-
-- a) építés alatt álló ingatlan esetében legalább félévente,
-- b) egyéb ingatlan esetében legalább évente
-
-a (4) bekezdés szerinti szakvéleményt készít.
-
-(4) Az ingatlanértékelő az ingatlan értékelése során, szakvéleményében
-
-- a) ellenőrizhető módon feltünteti a felhasznált adatokat és azok forrását, valamint jelzi, ha valamely, az ingatlan értékelését befolyásoló körülmény megítéléséhez szükséges információhoz nem fér hozzá,
-- b) részletesen és ellenőrizhető módon bemutatja az értékelési módszertan lépéseit és az elvégzett számításokat,
-- c) ismerteti az ingatlanra vonatkozó, ingatlan-nyilvántartásban szereplő leírást (ideértve a még be nem jegyzett, széljegyként feltüntetett beadványok tartalmát), az ingatlan földrajzi és gazdasági környezetét, valamint – adatokkal alátámasztva – az ingatlanpiaci körülményeket,
-- d) ismerteti az ingatlan műszaki jellemzőit, és
-- e) mellékletként becsatolja az ingatlan tulajdoni lapjának harminc napnál nem régebbi, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 68. §-ának megfelelő másolatát, mindazon megállapodások, okiratok másolatát, amelyek az ingatlan jogi helyzetének megítéléséhez szükségesek, illetve amelyek az ingatlanértékelés során figyelembevételre kerültek, tekintet nélkül arra, hogy azok az ingatlan-nyilvántartási bejegyzés alapját képezték-e.
-
-(5) A (3) bekezdésben foglaltak szerint elkészített szakvélemények közötti időben készülő ingatlanértékelés alátámasztására az ingatlanértékelő egyszerűsített szakvéleményt készíthet, melyben mindazon jellemzők, adatok, dokumentumok esetében, amelyek a legutóbbi szakvéleményben foglaltakhoz képest változatlanok, egyértelműen és azonosítható módon hivatkozik a legutóbbi ingatlanértékelés megállapításaira és a megállapítások alátámasztására.
-
-266/D. § Az alapkezelő haladéktalanul tájékoztatja az ingatlanértékelőt minden olyan változásról, amely az alap tulajdonában lévő vagy az építés alatt álló ingatlanok értékét befolyásolhatja.
+266/D. §
 
 ### XXVIII. Fejezet — ÁLTALÁNOS BEFEKTETÉSI SZABÁLYOK
 
-267. § (1) A befektetési alap saját tőkéje kizárólag az alábbi eszközökben tartható:
+267–270. §
 
-- a) befektetési eszköz;
-- b) bankbetét;
-- c) deviza;
-- d) ingatlan.
-
-(2) Ingatlant kizárólag az ingatlanalap szerezhet.
-
-268. § (1) A befektetési alap egyetlen kibocsátóban sem szerezhet tíz százalékot meghaladó közvetlen, illetőleg közvetett tulajdoni részesedést, illetve tíz százalékot meghaladó szavazati jogot megtestesítő értékpapírt.
-
-(2) E törvény eltérő rendelkezésének hiányában az egy kibocsátótól származó értékpapírok és egyéb pénzpiaci eszközök nem haladhatják meg a befektetési alap saját tőkéjének húsz százalékát, kivéve az Európai Unió vagy az OECD tagállama által kibocsátott állampapírt és a nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapírt.
-
-(3) A befektetési alap nem szerezheti meg az egy kibocsátótól származó hitelviszonyt megtestesítő értékpapírok és egyéb pénzpiaci eszközök több mint húsz százalékát, kivéve az Európai Unió vagy az OECD tagállama által kibocsátott állampapírt és a nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapírt.
-
-(4) Az Európai Unió vagy az OECD tagállama által kibocsátott azonos sorozatú állampapírok és a nemzetközi pénzügyi intézmény által kibocsátott azonos sorozatú hitelviszonyt megtestesítő értékpapírok saját tőkére vetített összértéke – a 285/A. § (8) bekezdésében meghatározott kivétellel – nem haladhatja meg a befektetési alap saját tőkéjének harmincöt százalékát.
-
-269. § (1) Az e törvényben meghatározott befektetési szabályoknak vásárláskor kell megfelelni, az egyes portfolió-elemek ügyletkötéskori piaci értékének az alap ügyletkötéskori saját tőkéjére vetített aránya alapján.
-
-(2) Az alapkezelő köteles a befektetési korlátoknak megfelelő helyzetet harminc napon belül helyreállítani, ha e törvényben meghatározott befektetési korlátok az értékpapír forgalomba hozatalakor annak körülményei miatt előre nem látható okból nem évényesíthetők.
-
-(3) Ha nyíltvégű befektetési alap esetében az értékelési árak változása, illetve a visszaváltások következtében a befektetési alapban valamely portfólióelem aránya jelentősen (több mint huszonöt százalékkal) meghaladja a törvényi előírást, az alapkezelő köteles értékpapírok esetében harminc napon belül, ingatlanok esetében egy éven belül legalább a törvényben megengedett szintre csökkenteni az adott portfólióelem arányát.
-
-270. § (1) Az alapkezelő az alap saját tőkéjét nem fektetheti be az alap által kibocsátott befektetési jegybe.
-
-(2) Ha a befektetési alap saját tőkéjét olyan más kollektív befektetési forma kollektív befektetési értékpapírjába fektetik be, amelyet az adott befektetési alap alapkezelője, vagy azzal szoros kapcsolatban lévő másik alapkezelő kezel – ideértve azt az esetet is, amikor az alapkezelő alvállalkozóként kezeli az adott alapot –, a befektetéssel, illetve annak megszüntetésével kapcsolatosan az adott befektetési alapra eladási és visszaváltási jutalék nem terhelhető.
-
-270/A. § (1) Az alapkezelő az általa kezelt befektetési alap részére nem vásárolhat
-
-- a) saját maga által kibocsátott értékpapírt;
-- b) az alapkezelő kapcsolt vállalkozásai által kibocsátott értékpapírt, a nyilvános árjegyzéssel rendelkező értékpapírok kivételével, ideértve a tőzsdére bevezetendő értékpapírokat.
-
-(2) Az alapkezelő a tulajdonában lévő befektetési eszközöket az általa kezelt alapba nem helyezheti el, és nem vásárolhat befektetési eszközt az általa kezelt alapoktól.
-
-(3) Az alapkezelő a kapcsolt vállalkozásai tulajdonában lévő pénzügyi eszközöket az általa kezelt nyilvános alapba nem helyezheti el, a nyilvános árjegyzéssel rendelkező értékpapírok és a fél évnél rövidebb lejáratú állampapírok kivételével, ideértve a szabályozott piacra bevezetett értékpapírokat.
-
-(4) Az (1) bekezdés b) pontjában, illetve a (3) bekezdésben kivételként szereplő befektetési eszközökre kötött ügyleteknél, valamint az alapkezelő által kezelt alapok, portfoliók egymás közötti ügyleteinél az ügylet kötésekor érvényben lévő piaci árat dokumentálni kell.
+270/A. §
 
 ### Hitelfelvétel, eszközök megterhelése
 
-271. § (1) Az alapkezelő a befektetési alap portfóliójában lévő eszközöket – a (2)–(8) bekezdésben meghatározott eseteket kivéve – zálogjoggal vagy egyéb módon nem terhelheti meg, és a befektetési alap nevében kötvényt vagy más, hitelviszonyt megtestesítő értékpapírt nem bocsáthat ki.
-
-(2) Az alapkezelő a nyílt végű befektetési alap befektetési jegyeinek visszavásárlása céljából jogosult hitelt felvenni az alap nevében, az alap saját tőkéjének legfeljebb tíz százaléka erejéig, legfeljebb harmincnapos lejárati időszakra. Az alapkezelő jogosult a befektetési alap eszközei terhére az alap nevében óvadékot nyújtani a hitel fedezeteként.
-
-(3) Az alapkezelő az e törvényben előírt feltételekkel az értékpapíralap értékpapírjait legfeljebb a saját tőke harminc százaléka erejéig az alap nevében kölcsönadhatja.
-
-(4) Az alapkezelő
-
-- a) az alap származtatott ügyleteihez, valamint
-- b) ingatlanbefektetési alap halasztott fizetés mellett kötött ingatlan vételi ügyletei esetében, ha az óvadék nyújtásának feltétele, hogy az alap tulajdonjogának ingatlan-nyilvántartási bejegyzéséhez az eladó legkésőbb az óvadék rendelkezésre bocsátásával egyidejűleg hozzájáruljon,
-
-jogosult az alap nevében az alap eszközei terhére óvadékot nyújtani.
-
-(5) Az alapkezelő kizárólag a származtatott termékekbe befektető alap, illetve zártkörű alap javára jogosult értékpapírt kölcsönbe venni. Az alapkezelő jogosult a kölcsönvett értékpapírok fedezeteként az alap nevében az alap vagyona terhére óvadékot nyújtani.
-
-(6) Az alapkezelő az ingatlanbefektetési alap nettó eszközértékének számításakor figyelembe vehető ingatlanok, ingatlan beruházások összértékének ötven százalékáig ingatlanfinanszírozás, ingatlan-beruházás finanszírozása és likvid eszköz biztosítása céljából kölcsönt vehet fel az alap nevében, ha ez az alapkezelési szabályzatban foglalt általános feltételeknek megfelel. Az ilyen kölcsön fedezeteként az alap
-
-- a) a megterhelt ingatlanra kötött vagyonbiztosításon,
-- b) az adott ingatlanból befolyó bevételek hitelező bank számára történő engedményezésén,
-- c) óvadékon, vagy
-- d) jelzálogjogon
-
-túlmenően egyéb biztosítékot nem nyújthat.
-
-(7) Az alapkezelő jogosult nyilvános ingatlan értékesítési pályázatokon az ingatlanalap nevében részt venni, jogosult a pályázati kiírásban meghatározott bánatpénzt, óvadékot, bankgaranciát a pályázat kiírója javára, a pályázat kiírásának megfelelően rendelkezésére bocsátani, amennyiben a pályázaton meghirdetett ingatlan az alap számára az általános szabályok szerint megvásárolható. Az így megfizetésre kerülő bánatpénz vagy óvadék összege nem haladhatja meg az adott ingatlan ingatlanértékelő által meghatározott forgalmi értékének húsz százalékát.
-
-(8) Az alapkezelő jogosult hozzájárulni a vevőt terhelő jelzálogjog bejegyzéséhez az ingatlan befektetési alap tulajdonában lévő, de érvényes adásvételi szerződés alapján értékesített ingatlan esetében, feltéve, hogy a jelzálogjog bejegyzését a teljes vételárhátralék kielégítése céljából a vevő részére bankhitelt nyújtó hitelintézet előzetesen írásban kéri, és a vételárhátralék összegének megfelelő hitelösszeget a hitelintézet közvetlenül az alap – letétkezelőnél vezetett – bankszámlájára utalja át. Az alapkezelő érvényes adásvételi szerződés alapján jogosult hozzájárulni az alap tulajdonában lévő ingatlanra vonatkozó vételi, visszavásárlási és elővásárlási jog bejegyzéséhez.
-
-(9) A hitelviszonyt megtestesítő értékpapírok és egyéb pénzpiaci eszközök megvásárlását és a (3) bekezdésben foglaltakat kivéve az alapkezelő az alap eszközeinek terhére kölcsönt nem nyújthat és harmadik személy részére garanciát nem vállalhat.
-
-(10) Az óvadékba, illetve kölcsönbe adott – egyébként likvid eszköznek minősülő – értékpapír nem minősül a befektetési jegyek visszaváltását biztosító likvid eszköznek.
-
-(11) Az egyes értékpapírok saját tőkén belüli arányának számításakor figyelembe kell venni az alap nevében kölcsönadott értékpapírokat, nem vehető figyelembe azonban kölcsönvett értékpapír.
-
-(12) Az alapkezelő nem adhat el olyan értékpapírt és egyéb pénzpiaci eszközt, amely nincs az alap tulajdonában.
+271. §
 
 ### Származtatott ügyletekre vonatkozó szabályok
 
-272. § (1) Az alapkezelő a befektetési alap nevében származtatott ügyletet kizárólag a kezelési szabályzatban megfogalmazott befektetési célok elérése érdekében köthet, befektetési eszközre, devizára, illetve ingatlanra.
-
-(2) Az alapkezelő a befektetési alap nevében csak olyan származtatott ügyletet köthet, amely
-
-- a) csökkenti az egyes befektetésekből fakadó kockázatokat (fedezeti ügylet),
-- b) csökkenti az alap befektetési céljainak megfelelő portfolió kialakításának költségeit (portfolió hatékony kialakítása),
-- c) kockázatmentes bevételt eredményez (arbitrázs), vagy
-- d) nyitott származtatott ügylet lezárását eredményezi.
-
-(3) A tőzsdén kívüli származtatott ügylet lejárata nem haladhatja meg a határozott futamidejű alap hátralévő futamidejét.
-
-(4) A befektetési korlátokat az egyes értékpapírok 273. § szerinti nettó pozíciójára kell vonatkoztatni.
-
-(5) A befektetési korlátoknak való megfelelés szempontjából az értékpapírra, illetve indexre kötött határidős ügyleteket az alapul szolgáló eszköz piaci árfolyamán, az opciós szerződéseket pedig az alapul szolgáló eszköz piaci árfolyama és az opció delta-tényezőjének szorzatán kell figyelembe venni.
-
-(6) Az összetett származtatott ügyleteket az alaptermékekre felbontva kell kezelni.
-
-(7) A tőzsdei határidős ügyleteket és a tőzsdén kívüli határidős ügyleteket az alapul szolgáló eszköz és az ügylet által generált fiktív vagy valós pénzáramlás összetételeként kell kezelni.
-
-(8) A nem forintban denominált pozíciókat az alapkezelési szabályzatban meghatározott árfolyamon forintra átszámítva kell figyelembe venni.
-
-273. § (1) A devizák, az azonos jogokat megtestesítő értékpapírok, valamint az azonos devizára, illetve befektetési eszközre és lejáratra szóló határidős ügyletek, opciók, opciós utalványok hosszú (rövid) pozícióinak a rövid (hosszú) pozíciókkal szembeni többlete az adott befektetési eszköz nettó pozíciója.
-
-(2) A befektetési alapkezelő az alap devizában, illetve befektetési eszközben meglévő nem származtatott hosszú (rövid) pozícióját az ugyanezen devizán, illetve befektetési eszközön alapuló rövid (hosszú) származtatott pozíciójával szemben, valamint a származtatott – ugyanazon alapul szolgáló eszközben meglévő – hosszú és rövid pozíciókat egymással szemben nettósíthatja.
-
-(3) Ugyanazon alapul szolgáló értékpapíron meglévő pozíciók az alábbi feltételek egyidejű teljesülése esetén nettósíthatók:
-
-- 1. az értékpapírok kibocsátói, a névleges kamatláb, a lejárat időpontja megegyeznek, és
-- 2. az értékpapírok ugyanazon devizában denomináltak.
-
-(4) Az átváltható értékpapír pozíciója nem nettósítható olyan értékpapír ellentétes pozíciójával, amelyre az értékpapír átváltható.
-
-(5) A befektetési alap nettó pozícióját devizanemenként is meg kell állapítani. A nettó nyitott deviza pozíció a következő elemek együttes összege:
-
-- a) a nem származtatott ügyletekből eredő pozíció,
-- b) a nettó határidős pozíció (a határidős deviza ügyletek alapján fennálló követelések és fizetési kötelezettségek közötti különbség, ideértve a tőzsdei határidős devizaügyletek és a deviza swap-ügyletek tőkeösszegét is),
-- c) a felmerült – teljesen lefedezett –, de még nem esedékes jövőbeni bevételek/kiadások,
-- d) az ugyanazon devizára kötött opciós ügyletek nettó delta kockázata (A nettó delta kockázat a pozitív és a negatív deltakockázatok abszolút értékének különbsége. Valamely opciós ügylet delta kockázata az alapul szolgáló deviza piaci értékének és az opció delta tényezőjének szorzata),
-- e) egyéb, devizában denominált opciók piaci értéke.
-
-(6) Az indexre szóló származtatott ügylet nettósítható az indexkosárban szereplő értékpapírokkal, ha az értékpapírok összetétele legalább nyolcvan százalékban fedi az indexkosár összetételét.
-
-(7) A szállítási kötelezettséggel vagy annak vevő által választható lehetőségével járó rövid pozíció nem nettósítható nem-szállításos származtatott hosszú pozícióval.
-
-(8) A hitelfelvétel óvadékául szolgáló vagy kölcsönadott értékpapírok nem nettósíthatók származtatott rövid pozícióval.
-
-274. § (1) A 278. §-ban foglalt kivétellel az alapkezelő nem köthet a befektetési alap javára olyan ügyletet, amely a 273. § szerinti nettósítási szabályok alkalmazásával rövid nettó pozíciót eredményezne, kivéve az értékpapírok egyedi kockázatára a 273. § (6) bekezdése szerint vállalt rövid nettó pozíciót.
-
-(2) A befektetési alapnak folyamatosan rendelkeznie kell a származtatott hosszú pozíciói összesített kötési árfolyama és a már befizetett változóletét különbsége száz százalékának megfelelő beszámítási értékű likvid eszközzel, a befektetési jegyek visszaváltását biztosító likvid eszközökön felül. A beszámítási érték a látraszóló vagy legfeljebb harminc napra lekötött bankbetét esetén megegyezik a betét összegével; egyéb likvid eszköz esetén pedig a likvid eszköz piaci értéke nyolcvanöt százalékával.
-
-(3) Az alapkezelő az alap nevében csak abban az esetben köthet kötvényen, illetőleg kamatlábon alapuló, a 272. § (2) bekezdésének b)–c) pontja szerinti származtatott ügyletet, ha az alap kezelési szabályzata korlátozza az alap portfoliója maximális hátralévő átlagos futamidejét. Az alap portfoliójának átlagos hátralévő futamideje a származtatott ügyletek figyelembevételével sem haladhatja meg a kezelési szabályzatban meghatározott értéket.
-
-(4) A származtatott ügyletek nem nettósított, összesített – a kezelési szabályzat szerint számított – piaci értéke nem haladhatja meg az alap saját tőkéjének a harminc százalékát.
-
-(5) A (4) bekezdés szerinti korlátba nem számítandó bele
-
-- a) az árfolyamkockázat csökkentésére kötött származtatott ügylet;
-- a) a hitelintézettel állampapírra kötött repo ügylet.
+272–274. §
 
 ### XXIX. Fejezet — A NYILVÁNOS ÉRTÉKPAPÍR BEFEKTETÉSI ALAPOKRA VONATKOZÓ KÜLÖNLEGESÉS ELTÉRŐ SZABÁLYOK
 
-275. § (1) A nyilvános értékpapír befektetési alap saját tőkéje a 267. § (1) bekezdésében foglalt elemeken belül kizárólag az alábbi eszközökben tartható:
-
-- a) tőzsdén vagy más szabályozott piacon jegyzett értékpapír;
-- b) olyan értékpapír, amelynek kibocsátója kötelezettséget vállalt az adott értékpapírnak a kibocsátást követő egy éven belüli, bármely az a) pont szerinti piacok valamelyikére történő bevezetésére, és a bevezetésnek nincs törvényi vagy egyéb akadálya;
-- c) olyan, az a)–b) pontokban meghatározott feltételnek meg nem felelő tagsági jogokat megtestesítő értékpapír, amelyre a vételt megelőző harminc napon belül folyamatosan legalább két befektetési szolgáltató nyilvános módon visszavonhatatlan vételi kötelezettséget jelentő árfolyamot tett közzé;
-- d) az a)–b) pontokban meghatározott feltételnek meg nem felelő, legfeljebb kettő éves hátralévő futamidejű hitelviszonyt megtestesítő értékpapír;
-- e) állampapír;
-- f) kollektív befektetési értékpapír;
-- g) bankbetét;
-- h) deviza;
-- i) származtatott termék;
-- j) pénzpiaci eszköz.
-
-(2) A befektetési alap saját tőkéje kizárólag olyan pénzpiaci eszközbe fektethető be, amelynek a piaci ára naponta megbízható és ellenőrizhető módon megállapítható.
-
-276. § (1) Az egy kibocsátó által kibocsátott, tőzsdén vagy más szabályozott piacon jegyzett értékpapíroknak, illetve a 275. § b) pontja szerinti értékpapíroknak az alap saját tőkéjére vetített összértéke nem haladhatja meg a 20. számú melléklet táblázata „b” sorában az alap fajtája szerint meghatározott értéket, kivéve az Európai Unió vagy az OECD tagállama által kibocsátott állampapírokat, a nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapírokat, a (8) bekezdésben meghatározott kötvényeket és a (2) bekezdésben foglalt esetet.
-
-(2) Az Európai Unió vagy az OECD tagállama által kibocsátott állampapírok, a nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapírok és a (8) bekezdésben meghatározott kötvények kivételével az egy kibocsátó által kibocsátott, tőzsdén vagy más szabályozott piacon jegyzett, megfelelő likviditással rendelkező értékpapíroknak az alap saját tőkéjére vetített összértéke nem haladhatja meg a 20. számú melléklet táblázata „a” sorában az alap fajtája szerint meghatározott értéket. Megfelelő likviditással rendelkezőnek minősül az a tőzsdén jegyzett vagy szabályozott piacon forgalmazott értékpapír, amelynek az utolsó naptári negyedévben mért napi átlagos forgalma meghaladja a százmillió forintot.
-
-(3) Az (1) bekezdésben foglalt korlátot meghaladó (2) bekezdés szerinti értékpapírok saját tőkére vetített összértéke nem haladhatja meg a 20. számú melléklet táblázata „d” sorában az alap fajtája szerint meghatározott értéket.
-
-(4) Az Európai Unió vagy az OECD tagállama által kibocsátott állampapírok és a nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapírok kivételével az egy kibocsátó által kibocsátott, tőzsdén vagy más szabályozott piacon nem jegyzett értékpapíroknak és egyéb pénzpiaci eszközöknek az alap saját tőkéjére vetített összértéke nem haladhatja meg a 20. számú melléklet táblázata „c” sorában az alap fajtája szerint meghatározott értéket.
-
-(5) A (4) bekezdés szerinti értékpapírok és egyéb pénzpiaci eszközök saját tőkére vetített összértéke nem haladhatja meg a 20. számú melléklet táblázata „e” sorában az alap fajtája szerint meghatározott értéket.
-
-(6) A kollektív befektetési értékpapírok saját tőkére vetített összértéke nem haladhatja meg a 20. számú melléklet táblázata „f” sorában az alap fajtája szerint meghatározott értéket.
-
-(7) Az Európai Unió vagy az OECD tagállama által kibocsátott azonos sorozatba tartozó állampapírok és a nemzetközi pénzügyi intézmény által kibocsátott azonos sorozatba tartozó hitelviszonyt megtestesítő értékpapírok saját tőkére vetített összértéke nem haladhatja meg a 20. számú melléklet táblázata „g” sorában az alap fajtája szerint meghatározott értéket.
-
-(8) A befektetési alap saját tőkéjének legfeljebb 25 százaléka fektethető be Magyarországon székhellyel rendelkező ugyanazon jelzálog-hitelintézet által kibocsátott jelzáloglevélbe, vagy a 85/611/EGK irányelv 22. cikk (4) bekezdésének a székhely ország jogrendszerébe történő átvétele alapján engedélyezett, az Európai Unió másik tagállamában székhellyel rendelkező, ugyanazon kibocsátó kötvényeibe.
-
-(9) Az (1)–(6) bekezdésben foglaltak szempontjából a nyilvános nyílt végű kollektív befektetési értékpapírokra a tőzsdén jegyzett értékpapírokra vonatkozó befektetési szabályokat kell alkalmazni.
-
-(10) A 275. § b) pontja szerinti értékpapírok összesített aránya legfeljebb az alap saját tőkéjének harminc százaléka lehet.
-
-(11) A 275. § b) pontja szerinti értékpapírokra a tőzsdén kívüli értékpapírokra vonatkozó szabályok vonatkoznak, amennyiben a kibocsátó kötelezettségvállalása ellenére sem történik meg a kötelezettségvállalás időpontját követő egy éven belül az értékpapírnak a 275. § a) pont szerinti piacra történő bevezetése.
-
-(12) Az alapban lévő nyilvános, nyíltvégű, értékpapír alapú kollektív befektetési értékpapírok esetén az (1)–(5) és (7)–(8) bekezdésben meghatározott limitekbe nem kell beszámítani az alapban, illetőleg a kollektív befektetési formában lévő értékpapírokat.
+275–276. §
 
 ### Befektetési alapba befektető alapra vonatkozó eltérő szabályok
 
-277. § (1) Amennyiben a befektetési alap befektetési politikája szerint saját tőkéjének legalább nyolcvan százalékát kívánja kollektív befektetési értékpapírokba fektetni, az alap befektetési alapba befektető befektetési alapnak minősül, és ezt a tényt a tájékoztatóban és a rövidített tájékoztatóban feltűnő módon szerepeltetni kell.
-
-(2) A nyilvános módon létrehozott, befektetési alapba fektető alap portfoliójában lévő, nyilvános, nyíltvégű, értékpapír alapú kollektív befektetési értékpapírokat nem kell figyelembe venni a 268. § (1)–(2) bekezdésében és a 276. §-ban foglalt szabályok alkalmazása során.
-
-(3) Amennyiben a befektetési alapba fektető alap a saját tőkéjének legalább huszonöt százalékát meghaladó mértékben kíván befektetni egyetlen befektetési alapba, illetve kollektív befektetési formába, akkor ezen befektetési alap befektetési politikáját és ezen alapot terhelő költségeket az alap kezelési szabályzatában ismertetni kell.
-
-(4) A befektetési alapba befektető befektetési alap tájékoztatójában fel kell tüntetni az alapra, illetőleg a befektetéssel érintett másik kollektív befektetési formára terhelhető kezelési díj legnagyobb mértékét, éves jelentésében pedig az alapra, illetve a másik kollektív befektetési formára terhelt tényleges kezelési díj legnagyobb arányát.
-
-(5) Az alapkezelő a befektetési alapba befektető alap nevében kizárólag a 272. § (2) bekezdése a), c) és d) pontjának megfelelő származtatott ügyletet köthet.
+277. §
 
 ### Származtatott ügyletekbe befektető befektetési alapra vonatkozó eltérő szabályok
 
-278. § (1) Származtatott ügyletekbe fektető befektetési alap nevében fel kell tüntetni a ,,származtatott alap'' elnevezést.
-
-(2) Származtatott ügyletekbe fektető befektetési alap javára és terhére az alapkezelő a 267. §-ban felsorolt eszközökön túl tőzsdei árualapú származtatott ügyletet is köthet. Az ennek keretében létrejött ügylet ugyanakkor nem zárulhat fizikai teljesítéssel vagy közraktárjegy átadásával.
-
-(3) Származtatott ügyletekbe befektető befektetési alap esetében nem kell alkalmazni a 271. § (10) bekezdésében, a 272. § (2)–(3) bekezdésében, a 273. § (7) bekezdésében és a 274. § (1)–(4) bekezdésében foglaltakat.
-
-(4) A származtatott ügyletekbe fektető befektetési alap esetén a 273. § (1) bekezdése szerinti nettó pozíciók abszolút értékeinek összege nem haladhatja meg az alábbiak szerint számított korlátok egyikét sem:
-
-- a) a származtatott ügyletek nettó pozícióit a 3. számú mellékletben meghatározott szorzóval korrigált értéken figyelembe véve az alap saját tőkéjének kétszeresét,
-- b) a származtatott ügyletek nettó pozícióit a 3. számú melléklet szerinti korrekció nélkül számított értéken figyelembe véve az alap saját tőkéjének nyolcszorosát.
-
-(5) A származtatott ügyletekbe fektető befektetési alap származtatott ügylet, illetve kölcsönvett értékpapír eladása útján nettó eladási pozíciót vehet fel.
-
-(6) Ha a származtatott ügyletekbe fektető befektetési alap esetén az értékelési árak változása vagy a visszaváltások következtében a befektetési alapban valamely portfólióelem aránya jelentősen (több mint huszonöt százalékkal) meghaladja a törvényi előírást, az alapkezelő köteles három napon belül legalább a törvényben megengedett szintre csökkenteni az adott portfólióelem arányát.
-
-(7) Az e törvényben meghatározott befektetési korlátozásokat a nettó eladási pozíciók abszolút értékére is alkalmazni kell.
+278. §
 
 ### Indexkövető befektetési alapra vonatkozó eltérőszabályok
 
-279. § (1) Az indexkövető befektetési alap nevében szerepeltetni kell az indexkövető alap elnevezést.
+279. §
 
-(2) Indexkövető befektetési alap esetében az index kosarát alkotó eszközökre vonatkozóan nem kell alkalmazni a 268. §-ban és a 276. §-ban foglalt szabályokat.
-
-(3) Indexkövető befektetési alap – az állampapír kivételével – csak az indexkosárban szereplő értékpapírokat, valamint az indexre vagy indexkosárban szereplő értékpapírra szóló származtatott ügyleteket tartalmazhat.
-
-(4) Az indexkövető befektetési alap portfoliójában szereplő értékpapírok súlya az egyes értékpapírok indexbeli súlyától legfeljebb öt százalékponttal térhet el. A súlyok számításánál figyelembe kell venni a származtatott ügyletekből származó pozíciót is. A rövidített tájékoztatónak és az alap kezelési szabályzatának tartalmaznia kell az egyes értékpapírok indexbeli súlyától való eltérésének maximális nagyságát.
-
-(5) Az alapkezelőnek az indexkövető befektetési alap kezelése során úgy kell eljárnia, hogy a kezelési szabályzatban meghatározott index teljesítményét a portfolió teljesítménye mindenkor hűen kövesse.
-
-(6) Az indexkövető alap csak olyan index leképezésére jöhet létre, amelynek értéke legalább egy éven keresztül folyamatosan közzétételre került. Az index folyamatos közzététele megszűnésének esetén az indexkövető alapot kilencven napon belül meg kell szüntetni, illetve át kell alakítani. A határidőt a Felügyelet egy alkalommal, legfeljebb hatvan nappal meghosszabbíthatja.
-
-279/A. § (1) Nyíltvégű, nyilvános, indexkövető befektetési alap, illetve annak adott sorozata az alábbi feltételek együttes alkalmazásával is létrehozható:
-
-- a) az alapkezelő a befektetési jegyek általa meghatározott számát tömörítő forgalmazási egységet határozhat meg a jegyzés, illetve a folyamatos forgalomba hozatal céljaira, s az elsődleges forgalmazás során a befektető általi, egyazon alkalommal történő vásárlás, valamint a visszaváltás tárgyát csak a forgalmazási egységet vagy annak egész számú többszörösét kitevő befektetési jegyek képezhetik;
-- b) az a) pont szerinti forgalmazási egység ellenértéke (vételára, illetve visszaváltási ára) az alapkezelő által meghatározott összetételű értékpapír csomag szolgáltatásával is teljesíthető, ahol a megvásárolt vagy visszaváltott számú forgalmazási egységet kitevő darabszámú befektetési jegyek összértéke és az ellenértékként szolgáltatott értékpapír csomag összértéke közti különbözet készpénzben teljesítendő; és
-- c) az alapkezelő az intézményi befektetőkre korlátozhatja azon befektetők körét, amelyek a befektetési jegyeket az elsődleges forgalmazás során az a) pont szerinti forgalmazási egységenként megvásárolhatják, illetve visszaválthatják, ez esetben azonban az alap nyilvántartásba vételétől számított harminc napon belül köteles gondoskodni az alap adott sorozata szabályozott piacra való bevezetésének kezdeményezéséről.
-
-(2) Az (1) bekezdés szerinti esetben az alapkezelő minden forgalmazási napra köteles meghatározni az (1) bekezdés a) pontja szerinti forgalmazási egység ellenértékét kitevő értékpapír csomag összetételét. A folyamatos forgalmazás során ezen információ, valamint a nettó eszközérték közzétételére a 266. § (3) bekezdése megfelelően irányadó. A forgalmazásra az alapkezelő által az alap kezelési szabályzatában meghatározott rendszerességgel, de legalább havonként egy forgalmazási napon kerül sor.
-
-(3) Az (1) bekezdés szerinti indexkövető befektetési alap létrehozása esetén jegyzési összeg befizetésén a jegyzési ellenérték rendelkezésre bocsátása értendő.
+279/A. §
 
 ### Ingatlanalapokra vonatkozó eltérő befektetési szabályok
 
-280. § (1) Az ingatlanalap portfóliója az ingatlanokon felül kizárólag látra szóló és lekötött bankbetétet, az Európai Unió vagy az OECD tagállama által kibocsátott állampapírt, nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapírt, illetve más alapkezelő által kezelt, ingatlanokba fektető kollektív befektetési forma által kibocsátott kollektív befektetési értékpapírt – beleértve ezen értékpapírok repóügylettel történő vásárlását is –, valamint devizaárfolyamhoz kötött ingatlanügyletekből befolyó bevételek és az ingatlanügyletekhez kapcsolódó kiadások árfolyamkockázatának, továbbá hitelfinanszírozás deviza- és kamatkockázatainak fedezése céljából kötött származtatott ügyleteket tartalmazhat. Az ingatlanalap portfóliójában lévő kollektív befektetési értékpapírok aránya nem haladhatja meg az ingatlanalap saját tőkéjének húsz százalékát.
+280. §
 
-(2) A nyilvános, nyílt végű ingatlanalap saját tőkéjének legalább tizenöt százalékát likvid eszközökben kell tartani.
+280/A. §
 
-(3) Az ingatlanokra vonatkozó adásvételi, valamint az ingatlanok megterhelésére vonatkozó jelzálogkölcsön szerződések érvényességéhez a letétkezelő ellenjegyzése szükséges. A letétkezelő az adott ügyletet csak a befektetési alapokra vonatkozó jogszabályok szerint minősítheti, ellenjegyzése során az alapkezelő döntését üzleti megfontolások szempontjából nem értékeli.
-
-280/A. § (1) Ingatlanalap kizárólag az ingatlanok átruházása (elidegenítése, megszerzése) körében köthet adásvételi, csere, valamint más, adásvételre irányuló, azzal vegyes szerződéseket, így különösen a Ptk.-ban az adásvétel különös nemeiként nevesített szerződéseket, illetve időpont vagy feltétel bekövetkezésétől függő hatályú szerződéseket.
-
-(2) Az ingatlanok átruházására, valamint az ingatlanok megterhelésére vonatkozó szerződések érvényességéhez a letétkezelő ellenjegyzése szükséges. A letétkezelő az adott ügyletet csak a befektetési alapokra vonatkozó jogszabályok szerint minősítheti, ellenjegyzése során az alapkezelő döntését üzleti megfontolások szempontjából nem értékeli.
-
-281. § (1) Az ingatlanforgalmazó alap portfoliójában egyetlen ingatlan értéke sem haladhatja meg az alap saját tőkéjének húsz százalékát.
-
-(2) Az építés alatt álló ingatlanok értékének aránya nem haladhatja meg az ingatlanforgalmazó alap saját tőkéjének huszonöt százalékát.
-
-282. § (1) Ingatlanfejlesztő alap kizárólag zártvégű alapként hozható létre.
-
-(2) Az ingatlanfejlesztő alap portfoliójában egyetlen ingatlan értéke sem haladhatja meg az alap saját tőkéjének harminc százalékát.
-
-(3) Az építés alatt álló ingatlanok értékének aránya nem haladhatja meg az ingatlanfejlesztő alap saját tőkéjének hatvan százalékát.
-
-283. § (1) A befektetési szabályok vonatkozásában egy ingatlannak minősül az ingatlan-nyilvántartásban egy helyrajzi számon (alszámon) nyilvántartott, önállóan forgalomképes ingatlan.
-
-(2) Az olyan egybefüggő (telek) ingatlan, amelynek önálló ingatlanokként történő megosztását az illetékes építési hatóság jogerősen elbírálta vagy azt a hatályos Részletes Rendezési Terv előírja, a befektetési szabályok szempontjából annyi ingatlannak minősül, ahány ingatlanra az megosztásra kerül.
-
-(3) Az olyan felépítmény, amelyre az albetétek létrehozására vonatkozó társasházi alapító okiratot az ingatlanügyi hatósághoz benyújtották, a befektetési szabályok szempontjából annyi ingatlannak minősül, ahány különböző albetét kialakításra kerül.
-
-(4) Építés alatt állónak minősül az a telekingatlan, illetőleg felépítmény, amelyen az ingatlanalap kizárólag saját kockázatára, saját nevére szóló építési engedély alapján az építési naplót megnyitották és az ingatlanalap kivitelezési munkát folytat, illetve végeztet, és amelyre használatbavételi engedélyt még nem adtak ki. Az alap – az (5) bekezdésben írt kivétellel – kizárólag olyan ingatlanon folytathat, illetve végeztethet kivitelezési tevékenységet, amelyre a használatba vételt követően teljesül az (1) bekezdésben meghatározott feltétel.
-
-(5) Az alap a tulajdonát képező ingatlanokhoz funkcionálisan kapcsolódó, vagy azzal határos közterületen is folytathat, illetve végeztethet kivitelezési tevékenységet, ha erre vonatkozóan a tulajdonában álló ingatlanokra kiadott építési engedély rendelkezést tartalmaz vagy ha ezen munkák elvégzése az alap tulajdonában álló ingatlanok rendeltetésszerű használata feltételeinek biztosításához szükséges.
+281–283. §
 
 ### Az európai befektetési alapokra vonatkozó eltérő szabályok
 
-284. § Az európai befektetési alapot kezelő befektetési alapkezelő az általa kezelt alap letétkezelésével a Bszt. 5. §-a (2) bekezdésének b) pontjában meghatározott letétkezelési szolgáltatásra vonatkozó engedéllyel rendelkező magyarországi székhelyű befektetési vállalkozást és hitelintézetet vagy az Európai Unió másik tagállamában székhellyel rendelkező befektetési vállalkozás és hitelintézet fióktelepét köteles megbízni.
+284–285. §
 
-285. § (1) Az európai befektetési alap olyan nyilvános, nyíltvégű alap, amelynek saját tőkéje kizárólag a 275. § a)–b), e)–j) pontjában meghatározott eszközökbe fektethető be a (2)–(6) bekezdés rendelkezéseinek figyelembevételével.
+285/A. §
 
-(2) Az európai befektetési alap saját tőkéje kizárólag olyan pénzpiaci eszközbe fektethető be, amelynek piaci forgalma biztosítja, hogy az bármikor piaci áron értékesíthető, valamint a piaci ár naponta megbízható és ellenőrizhető módon megállapítható, és
-
-- a) szabályozott piacon kereskednek vele, vagy
-- b) kibocsátása szabályozott és felügyelt módon történik, vagy
-- c) prudenciális felügyelet alatt álló intézmény bocsátotta ki, vagy vállalt kezességet a kibocsátásra, vagy
-- d) valamely tagállam, annak regionális vagy helyi önkormányzata, jegybankja bocsátotta ki, vagy ezen intézmények valamelyike kezességével került kibocsátásra, vagy
-- e) az Európai Központi Bank, az Európai Unió, az Európai Beruházási Bank, illetőleg olyan nemzetközi intézmény bocsátotta ki, vagy vállalt kezességet a kibocsátására, amelynek legalább egy tagállam tagja, vagy
-- f) olyan vállalkozás bocsátotta ki, amely által kibocsátott más értékpapírral vagy pénzpiaci eszközzel valamely szabályozott piacon kereskedés folyik.
-
-(3) Az európai befektetési alap saját tőkéje kizárólag európai befektetési alap, illetve ennek az Európai Unió más tagállamában létrehozott megfelelője kollektív befektetési értékpapírjába, illetőleg olyan kollektív befektetési forma kollektív befektetési értékpapírjába fektethető be, amely
-
-- a) bármikor visszaváltható értékpapírokat hoz nyilvánosan forgalomba és befektetési eszközökbe fekteti a befektetők által átadott eszközöket;
-- b) tevékenységét engedélyezett és felügyelt módon végzi;
-- c) szabályozása biztosítja a kezelt vagyonok elkülönítését, a kockázatok e törvényben foglaltaknak megfelelő csökkentését;
-- d) rendszeres éves és féléves tájékoztatót tesz közzé;
-- e) kezelési szabályzata szerint ugyanazon kollektív befektetési forma kollektív befektetési értékpapírjába saját tőkéjének legfeljebb tíz százalékát fekteti be.
-
-(4) Az európai befektetési alap saját tőkéje kizárólag éven belüli lejárattal rendelkező, bármikor felmondható bankbetétben helyezhető el az Európai Unió valamely tagállamában székhellyel rendelkező, vagy olyan harmadik országbeli hitelintézetben, amelynek szabályozási és felügyeleti rendszere biztosítja a hitelintézet megfelelő biztonságos működését.
-
-(5) Az alapkezelő az európai befektetési alap tőkéjét kizárólag a hatékony portfolió kialakítása céljából, vagy árfolyam- és kamatlábkockázatok csökkentése érdekében helyezheti el származtatott eszközökbe, amennyiben nem tér el a kezelési szabályzatban meghatározott befektetési szabályoktól.
-
-(6) Az alapkezelő az európai befektetési alap nevében (javára, illetve terhére) kizárólag olyan származtatott ügyletet köthet, amely megfelel a következő feltételeknek:
-
-- a) az alapjául szolgáló befektetési eszköz olyan eszköz, amibe az európai befektetési alap saját tőkéje – e törvény, valamint az alap kezelési szabályzata szerint – befektethető, illetve index, kamatláb, devizaárfolyam vagy valuta;
-- b) napi értéke megbízható és ellenőrizhető módon megállapítható;
-- c) a pozíció az alapkezelő kezdeményezésére bármikor – piaci áron – lezárható vagy megszüntethető;
-- d) tőzsdén kívüli ügylet esetében az ügyletben résztvevő másik fél prudenciális felügyelet alatt álló intézmény.
-
-285/A. § (1) Az európai befektetési alap – a (3)–(13) bekezdésben és a 285/B. §-ban foglalt eltéréssel – saját tőkéjének legfeljebb tíz százalékát fektetheti be ugyanazon kibocsátó értékpapírjaiba, illetőleg egyéb pénzpiaci eszközeibe.
-
-(2) Azon értékpapírok és egyéb pénzpiaci eszközök összesített értéke, amelyek kibocsátójának értékpapírjaiból, illetőleg egyéb pénzpiaci eszközeiből az európai befektetési alap saját tőkéjének öt százalékát meghaladó mennyiségű értékpapírral, illetőleg egyéb pénzpiaci eszközzel rendelkezik, nem haladhatja meg az európai befektetési alap saját tőkéjének negyven százalékát.
-
-(3) Az európai befektetési alap – a (4) bekezdésben foglalt eltéréssel – saját tőkéjének legfeljebb harmincöt százaléka fektethető be az Európai Unió valamely tagállama, vagy olyan nemzetközi szervezet által kibocsátott vagy garantált értékpapírba, illetőleg egyéb pénzpiaci eszközbe, amelynek az Európai Unió legalább egy tagállama tagja.
-
-(4) Az európai befektetési alap saját tőkéjének harmincöt százalékát meghaladó mértékben fektethet be a (3) bekezdésben meghatározott értékpapírokba, illetőleg egyéb pénzpiaci eszközökbe, ha saját tőkéjét legalább hat különböző kibocsátásból származó értékpapírba, illetőleg egyéb pénzpiaci eszközbe helyezi, és egyetlen kibocsátásból származó értékpapír vagy egyéb pénzpiaci eszköz sem haladja meg a saját tőke harminc százalékát. A kezelési szabályzatban, a tájékoztatóban és valamennyi hirdetményben meg kell nevezni azokat a tagállamokat, illetőleg nemzetközi intézményeket, amelyek értékpapírjaiba, illetőleg egyéb pénzpiaci eszközeibe saját tőkéjének harmincöt százalékát meghaladóan fektetett be, vagy kíván befektetni.
-
-(5) Az európai befektetési alap saját tőkéjének legfeljebb huszonöt százaléka fektethető be
-
-- a) Magyarországon székhellyel rendelkező ugyanazon jelzálog-hitelintézet által kibocsátott – a Bizottságnak bejelentett – jelzáloglevélbe, vagy
-- b) a 85/611/EGK irányelv 22. cikk (4) bekezdésének a székhely ország jogrendszerébe történő átvétele alapján engedélyezett, az Európai Unió másik tagállamában székhellyel rendelkező ugyanazon kibocsátó kötvényeibe, amennyiben a kötvény típusát és a kibocsátó intézmény típusát a Bizottságnak bejelentették.
-
-(6) Amennyiben egy európai befektetési alap saját tőkéjének öt százalékát meghaladó mennyiségben rendelkezik az (5) bekezdésben meghatározott, egy kibocsátó által kibocsátott kötvényekkel, e kötvények összesített értéke nem haladhatja meg az európai befektetési alap saját tőkéjének nyolcvan százalékát.
-
-(7) Azon kollektív befektetési értékpapírok összesített értéke, amelyek nem európai befektetési alap, illetőleg ennek az Európai Unió más tagállamában létrehozott megfelelőjének kollektív befektetési értékpapírja, nem haladhatja meg az európai befektetési alap saját tőkéjének harminc százalékát.
-
-(8) Az európai befektetési alap saját tőkéjének legfeljebb húsz százaléka helyezhető el betétként egy hitelintézetnél.
-
-(9) Az európai befektetési alap által egy tőzsdén kívüli származtatott ügylet kapcsán egy ügyféllel kapcsolatban vállalt kockázat nem haladhatja meg
-
-- a) az alap saját tőkéjének tíz százalékát, ha az ügyfél hitelintézet;
-- b) az alap saját tőkéjének öt százalékát egyéb esetben.
-
-(10) Az európai befektetési alap összes, származtatott ügyletből származó kockázata nem haladhatja meg az alap saját tőkéjét.
-
-(11) A (3), (5), valamint a (8)–(9) bekezdésben meghatározott befektetéseket a (2) bekezdésben meghatározott korlátozás szempontjából nem kell figyelembe venni.
-
-(12) Az európai befektetési alap által az egy ügyféllel szemben
-
-- a) az (1), (2), (8) és (9) bekezdés szerint vállalt kockázatok együttes összege nem haladhatja meg az európai befektetési alap saját tőkéjének húsz százalékát,
-- b) az (1)–(6) és (8)–(9) bekezdések szerint vállalt kockázatok együttes összege nem haladhatja meg az európai befektetési alap saját tőkéjének harmincöt százalékát.
-
-(13) A befektetési korlátozások szempontjából egy ügyfélnek, illetőleg egy kibocsátónak kell tekinteni azokat a vállalkozásokat, amelyek az Szmt. szerint konszolidált beszámoló készítésére kötelezettek.
-
-285/B. § (1) Az európai befektetési alap – a (2) bekezdésben foglalt eltéréssel – saját tőkéjének legfeljebb húsz százalékát fektetheti be egy kibocsátó által kibocsátott részvénybe, illetőleg hitelviszonyt megtestesítő értékpapírba, ha az alapot indexkövető alapként hozták létre a 279. §-ban meghatározott feltételekkel.
-
-(2) Amennyiben az indexkövető európai befektetési alap olyan index leképezésére jött létre, amelyben egy kibocsátó által kibocsátott részvény, illetőleg hitelviszonyt megtestesítő értékpapír súlya meghaladja a húsz százalékot, az alapkezelő döntése alapján egy értékpapír esetén az (1) bekezdésben meghatározott korlát harmincöt százalékra emelhető.
-
-286. § (1) Az európai befektetési alapot kezelő alapkezelő az általa kezelt európai befektetési alapok portfoliójába nem szerezheti meg egy kibocsátó szavazati jogot biztosító részvényeinek olyan hányadát, amely jelentős befolyást biztosítana az alapkezelő számára.
-
-(2) Az európai befektetési alap egy kibocsátó szavazati jogot nem biztosító részvényeinek legfeljebb tíz százalékát szerezheti meg.
-
-(3) Az európai befektetési alap egy kibocsátó által kibocsátott hitelviszonyt megtestesítő értékpapíroknak legfeljebb tíz százalékát szerezheti meg.
-
-(4) Az európai befektetési alap egy kibocsátó által kibocsátott pénzpiaci eszközök legfeljebb tíz százalékát szerezheti meg.
-
-(5) Az európai befektetési alap egy kollektív befektetési forma kollektív befektetési értékpapírjainak legfeljebb huszonöt százalékát szerezheti meg.
-
-(6) A (3)–(4) bekezdésben foglalt korlátozást nem kell alkalmazni az állampapírok, az állam által garantált értékpapírok, illetőleg olyan nemzetközi intézmények által kibocsátott vagy garantált értékpapírok és egyéb pénzpiaci eszközök esetében, amelyeknek az Európai Unió legalább egy tagállama tagja.
-
-287. § (1) Az európai befektetési alap befektetési jegye az Európai Unió valamennyi tagállamában forgalmazható. Az alapkezelő köteles gondoskodni arról, hogy az Európai Unió másik tagállamában megfelelő forgalmazó helyek álljanak rendelkezésre a befektetési jegyek eladására, visszavásárlására, a befektetési jegyek tulajdonosai számára történő kifizetések lebonyolítására.
-
-(2) Az alapkezelő köteles gondoskodni arról, hogy az európai befektetési alap kezelési szabályzata, az európai befektetési alap alapkezelője által közzétett tájékoztató és rövidített tájékoztató, valamint az éves és féléves jelentés az adott ország egyik hivatalos nyelvén vagy az adott ország hatáskörrel rendelkező hatóságai által elismert nyelven a befektetők rendelkezésére álljon.
-
-(3) Ha egy európai befektetési alap befektetési jegyeit az Európai Unió másik tagállamában kívánja forgalmazni, a befektetési alapkezelő erről értesíti a Felügyeletet és a másik tagállam hatáskörrel rendelkező hatóságát. Az Európai Unió másik tagállamának hatáskörrel rendelkező hatósága számára meg kell küldeni:
-
-- a) a Felügyelet igazolását arra vonatkozóan, hogy a befektetési alap európai befektetési alap;
-- b) az alap kezelési szabályzatát;
-- c) a tájékoztatót és a rövidített tájékoztatót;
-- d) amennyiben rendelkezésre áll, a legutolsó éves beszámolót és az azt követő féléves jelentést; valamint
-- e) azon megállapodásokat, amelyek igazolják, hogy a befektetési jegyek forgalmazása az adott tagállamban biztosított.
-
-(4) Az európai befektetési alap befektetési jegyeinek forgalmazása az Európai Unió másik tagállamában a (3) bekezdés szerinti értesítés elküldését követő két hónap elteltével kezdhető meg, kivéve, ha az érintett tagállam hatáskörrel rendelkező felügyeleti hatósága határozatban állapítja meg, hogy azok nem felelnek meg a törvényi előírásoknak.
-
-(5) Ha egy európai befektetési alap befektetési jegyeit az Európai Unió másik tagállamában is forgalmazzák, vagy egy európai befektetési alapot kezelő befektetési alapkezelő fióktelepet nyit az Európai Unió másik tagállamában, a Felügyelet és az érintett tagország hatáskörrel rendelkező felügyeleti hatósága kölcsönösen megküldik egymásnak az adott befektetési alapkezelő tulajdonosára és vezetésére vonatkozó összes információt, amely elősegíti az alapkezelő ellenőrzését. A Felügyelet és a hatáskörrel rendelkező felügyeleti hatóságok együttműködnek annak érdekében, hogy a fogadó ország hatáskörrel rendelkező felügyeleti hatósága számára rendelkezésre álljanak a fogadó ország szabályainak való megfelelés ellenőrzéséhez szükséges információk.
-
-(6) Amennyiben az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő Magyarország területén fióktelepet létesít, a Felügyelet biztosítja, hogy az adott tagország hatáskörrel rendelkező felügyeleti hatósága a helyszínen ellenőrizhessék az (5) bekezdésben foglalt információkat a Felügyelet tájékoztatását követően. A Felügyelet az Európai Unió másik tagállama hatáskörrel rendelkező felügyeleti hatóságának kérésére lefolytatja az ellenőrzést.
-
-288. § (1) Az Európai Unió másik tagállamában létrehozott európai befektetési alap, vagy annak megfelelő kollektív befektetési forma az általa kibocsátott kollektív befektetési értékpapírt – a Felügyelet előzetes értesítésével – Magyarországon forgalomba hozhatja. Ebben az esetben a 252. § rendelkezéseit nem kell alkalmazni.
-
-(2) Az (1) bekezdésben meghatározott esetben a kibocsátó köteles gondoskodni a forgalmazás feltételeinek folyamatos biztosításáról, illetőleg arról, hogy a kezelési szabályzat, a tájékoztató, a rendszeres és rendkívüli jelentés a Felügyelet által elfogadott nyelven a befektetők rendelkezésére álljon. A kibocsátó a forgalmazás feltételeiről köteles hirdetményben tájékoztatni a magyarországi befektetőket, továbbá a forgalmazás feltételeinek biztosítását a Felügyeletnek is köteles igazolni.
-
-(3) A Felügyelet a részére megküldött értesítés kézhezvételét követő két hónapon belül a forgalmazás megkezdését megtilthatja, ha nem látja biztosítottnak a feltételek meglétét, így különösen a befektetők megfelelő tájékoztatását.
-
-(4) Amennyiben a Felügyelet a (3) bekezdés szerint rendelkezésére álló két hónapos időszak lejártát megelőzően határozatban megállapítja a forgalmazás feltételeinek meglétét, a kérelmező a megfelelőségről szóló határozat közlését követően akkor is elkezdheti az általa kibocsátott kollektív befektetési értékpapír forgalmazását, ha a (3) bekezdésben foglalt két hónapos időszak még nem járt le.
-
-(5) A Felügyelet a folyamatos forgalmazást felfüggeszti, ha az nem felel meg a (2) bekezdésben előírt szabályoknak. A Felügyelet a folyamatos forgalmazást megtilthatja, ha a felfüggesztést követően harminc napon belül a folyamatos forgalmazás feltételei nem állnak helyre, illetve amennyiben második ízben kerülne sor a forgalmazás felfüggesztésére.
+286–288. §
 
 ### XXX. Fejezet — TÁJÉKOZTATÁSI KÖTELEZETTSÉG
 
 ### Rendszeres tájékoztatási kötelezettség
 
-289. § (1) Az alapkezelő legalább félévenként, a tárgyfélév (pénzügyi félév) lezárása után negyvenöt – külföldi befektetési alapkezelő esetén hatvan – napon, tárgyév (pénzügyi év) lezárása esetén százhúsz napon belül az általa kezelt befektetési alapokról egyenként a 21. számú mellékletben foglaltak szerinti jelentést készít, és azt a Felügyeletnek megküldi. Az alapkezelő a jelentést a Felügyeletnek történő megküldéssel egyidejűleg közzéteszi a 34. § (3) bekezdésében meghatározott módon.
+289. §
 
-(2) Az alapkezelő köteles havonta az általa kezelt nyíltvégű befektetési alapok tekintetében, a hónap utolsó forgalmazási napjára vonatkozóan megállapított nettó eszközérték alapján portfoliójelentést készíteni, a Felügyeletnek megküldeni és a megállapítás napját követő tizedik forgalmazási naptól a forgalmazási helyeken és a saját székhelyén hozzáférhetővé tenni. A jelentésnek tartalmaznia kell a portfolióbefektetési eszközfajták, illetve a befektetési politikájában részletezett egyéb kategóriák szerinti bemutatását, a saját tőkét és az egy egységre jutó nettó eszközértéket.
-
-(3) A befektetési jegy esetén – a (4) bekezdésben meghatározott eltéréssel – az V. Fejezetben foglalt előírásokat nem kell alkalmazni.
-
-(4) A zárt végű, nyilvános befektetési alapra kibocsátott befektetési jegy esetén alkalmazni kell az 56. §-ban foglalt előírásokat.
-
-289/A. § A nyilvános ingatlanalap alapkezelője éves és féléves jelentésében a 289. § (1)–(2) bekezdéseiben foglaltakon túl a 24. számú mellékletben meghatározott információkat teszi közzé.
+289/A. §
 
 ### Rendkívüli tájékoztatási kötelezettség
 
-290. § (1) Az alapkezelő az általa kezelt alapok működésére vonatkozóan köteles a Felügyeletnek megküldeni, továbbá a 34. § (4) bekezdésében meghatározott helyen köteles közzétenni, és a befektetési jegyek forgalmazójánál hozzáférhetővé tenni:
-
-- a) az átalakulási, beolvadási hirdetményt, legkésőbb harminc nappal az átalakulás, beolvadás hatálybalépése előtt;
-- b) a befektetési szabályok változását, legkésőbb harminc nappal a hatálybalépés előtt;
-- c) a futamidőnek határozottá alakítását, a határozott futamidő csökkentését, legkésőbb harminc nappal a hatálybalépés előtt;
-- d) a befektetési jegy visszaváltásával kapcsolatos, a befektető fizetési kötelezettségének változását legkésőbb a hatálybalépés előtt harminc nappal;
-- e) a kezelési szabályzat egyéb módosítását legkésőbb a hatálybalépés napján;
-- f) az alapkezelő engedélyének visszavonását, két munkanapon belül;
-- g) a befektetési alapkezelési tevékenység átadását, legkésőbb tizenöt nappal a hatálybalépés előtt;
-- h) a tőke és a felosztott hozam (amennyiben a felosztott hozam kifizetése a kezelési szabályzat szerint nem automatikus) kifizetésének idejét, módját, legkésőbb az esedékesség napján;
-- i) a befektetési jegyek forgalmazásának felfüggesztését, illetve újraindítását, két munkanapon belül;
-- j) az alapkezelővel szembeni felszámolás megindítását két munkanapon belül;
-- k) a befektetési alap megszűnésekor a megszűnési jelentést, annak a Felügyelet részére történő benyújtásával egyidejűleg;
-- l) az egy jegyre jutó nettó eszközérték (hozamfizetés esetét kivéve) az előző nettó eszközértékhez képest, illetve napi számítás esetén három értékelési napon belül bekövetkezett jelentős (húsz százalékot meghaladó) mértékű csökkenésének okát, legkésőbb a felmerülést követő két munkanapon belül;
-- m) a közzétételi kötelezettségek teljesítésére igénybe vett közzétételi helyet két munkanapon belül;
-- n) a forgalmazási helyek felsorolásában bekövetkezett bármely változást, legkésőbb a változás napját megelőző munkanapon; és
-- o) az ügynökök felsorolásában bekövetkezett bármely változást, a felsorolás bővülése esetén legkésőbb a változás napját megelőző munkanapon, a felsorolás szűkülése esetén a legkésőbb a változás napját követő két munkanapon belül;
-- p) a befektetési jegyek visszaváltását érintő forgalmazási szabályok azon változásait, amelyek a 247. § (3) és (4) bekezdése szerinti időtartam növekedésével járnak, legkésőbb a hatálybalépés előtt harminc nappal;
-- q) a 247. § (5) bekezdése szerinti választás, illetőleg a választás megváltoztatása esetén a forgalmazási szabályok változásait, legkésőbb a hatálybalépés előtt harminc nappal.
-
-(2) A befektetési alapra mint kibocsátóra vonatkozó, az alapkezelőt terhelő tájékoztatási kötelezettség körében a 34. § (4) bekezdés b) pontja alkalmazásában a kibocsátó honlapja alatt az alapkezelő honlapja értendő.
-
-(3) Külföldi befektetési alapok esetén, amennyiben kollektív befektetési jegyeit Magyarországon forgalomba hozza, az alapkezelő a 290. § (1) bekezdésének a), b) és c) pontja szerinti módosításokról szóló bejelentést a módosításoknak a kibocsátás országának Felügyelete által történt jóváhagyása után haladéktalanul köteles közzétenni és a befektetési jegyek forgalmazójánál hozzáférhetővé tenni.
+290. §
 
 ### A Felügyelet tájékoztatása
 
-291. § (1) Az alapkezelő a rendkívüli tájékoztatás esetein kívül a Felügyeletnek köteles bejelenteni:
-
-- a) telephelyének és külföldi fióktelepének megnyitását és bezárását;
-- b) egy részvényesének az alaptőkében öt százalékot meghaladó részesedését és az ilyen tulajdonos minden újabb részesedés szerzését vagy részesedésének csökkenését;
-- c) a Felügyelet által adott engedélyben, illetve a jóváhagyott kezelési szabályzatban meghatározott feltételektől való eltérést;
-- d) az alapkezelő által a befektetési alap javára történő hitelfelvételt;
-- e) a nyílt végű befektetési alap esetében a befektetési jegyek visszavásárlásának ideiglenes felfüggesztését.
-
-(2) Az (1) bekezdés szerinti bejelentési kötelezettséget az alapkezelő az a) pont esetében a döntést követő két napon belül, a b) pont esetében a szerződéskötést követő két napon belül, a c) pont esetében az eltéréstől számított kettő napon belül, a d) és e) pont esetében haladéktalanul köteles teljesíteni.
-
-292. § A Felügyelet részére megküldendő jelentések részletes tartalmát, felépítését, az adatszolgáltatás módját külön jogszabály határozza meg.
+291–292. §
 
 ### A tájékoztatásra vonatkozó egyéb szabályok
 
-293. § (1) A befektetési alapra mint kibocsátóra vonatkozó tájékoztatási kötelezettségeknek az alap nevében az alapkezelő köteles eleget tenni.
-
-(2) A befektetési alapról, az alapkezelőről szóló, a befektetőknek szánt minden olyan kereskedelmi kommunikáció tervezetét, amely a befektetési jegyek nyilvános forgalomba hozatalával, forgalmazásával összefüggésbe hozható, a Felügyeletnek legkésőbb a befektetők részére való hozzáférést megelőzően öt nappal be kell nyújtani.
-
-(3) A Felügyelet a kereskedelmi kommunikáció nyilvánosságra hozatalát megtiltja, ha annak tartalma ellentétes vagy félrevezető információt tartalmaz a benyújtott, illetve közzétételre engedélyezett tájékoztatóban foglaltakhoz képest, vagy egyébként a tisztességtelen kereskedelmi gyakorlat Fttv.-ben meghatározott tilalmába ütközik.
-
-(4) A befektetési alapkezelő az elért hozam bemutatásánál, illetve közzétételénél a 15. számú mellékletben megfogalmazott elvek szerint köteles eljárni.
-
-(5) Tilos a tájékoztató és a kezelési szabályzat tartalmától eltérő adatok közlése, valamint a befektetési alap hozamára, tőkéjének növekedésére vonatkozó ígéret tétele a 241. §-ban foglalt esetek kivételével.
+293. §
 
 294. §
 
 ### XXXI. Fejezet — A LETÉTKEZELŐ
 
-295. § (1) A befektetési alapkezelő az általa kezelt alap letétkezelésével a Bszt. 5. §-a (2) bekezdésének b) pontjában meghatározott letétkezelési szolgáltatásra vonatkozó engedéllyel rendelkező magyarországi székhelyű befektetési vállalkozást és hitelintézetet (e fejezet alkalmazásában a továbbiakban: letétkezelő) köteles megbízni. A letétkezelési szerződés hatálybalépéséhez a Felügyelet jóváhagyása szükséges.
-
-(2) A letétkezelő tevékenysége során független módon, kizárólag a befektetők érdekében jár el.
-
-(3) Az értékpapírszámla és a befektetéshez kapcsolódó pénzmozgások lebonyolítására szolgáló számla vezetését az egyes alapok és portfóliók tekintetében kizárólag egyazon letétkezelő végezheti.
-
-(4) Befektetési alap részére végzett letétkezelés esetén a letétkezelő az alábbi feladatokat végzi:
-
-- a) meghatározza a befektetési alap összesített és az egy jegyre jutó nettó eszközértékét;
-- b) gondoskodik a befektetési alap összesített és egy jegyre jutó nettó eszközértékének közzétételéről, illetve a befektetők részére történő közléséről;
-- c) ellenőrzi, hogy a befektetési alapkezelő megfelel-e a jogszabályokban és az alapkezelési szabályzatban foglalt befektetési szabályoknak;
-- d) biztosítja, hogy az alap eszközeit érintő ügyletekből, valamint a befektetési jegyek forgalmazásából származó valamennyi ellenszolgáltatás a szokásos határidőn belül az alaphoz kerüljön.
-
-(5) A befektetési alap tulajdonában lévő értékpapírok kizárólag a letétkezelőnél vagy az általa nyitott számlákon helyezhetők el, kivéve az óvadékba helyezett értékpapírok esetét. A fel nem használt óvadékot kizárólag a letétkezelőhöz vagy az általa nyitott számlára lehet szállítani, transzferálni.
-
-(6) A befektetési alap kezelése során a letétkezelőnek adott megbízás felmondása esetén az új letétkezelő megbízását a Felügyelet hagyja jóvá.
-
-(7) Tevékenysége során a jogszabályokban, az alapkezelési szabályzatban foglalt bármilyen eltérésről, valamint az alap saját tőkéjének negatívvá válásáról a letétkezelő köteles írásban értesíteni az alapkezelőt, valamint a Felügyeletet.
-
-(8) A letétkezelő tevékenysége végzése során köteles visszautasítani a befektetési alapkezelő által adott minden olyan megbízást, amely ellentétes a jogszabályokkal, illetve az alapkezelési szabályzattal, és a befektetési alapkezelőt köteles a törvényes állapot helyreállítására felszólítani. Amennyiben a befektetési alapkezelő nem tesz meg mindent a jogszabályoknak és az alapkezelési szabályzatnak megfelelő állapot helyreállítása érdekében, úgy a letétkezelő haladéktalanul értesíti a Felügyeletet.
-
-296. § (1) A letétkezelő e törvényben foglalt kötelezettségeinek nemteljesítéséből adódó károkért felel, az ettől eltérő kitétel semmis.
-
-(2) A letétkezelő tevékenysége végzése során közreműködőt, így különösen alletétkezelőt vehet igénybe, amelynek a cselekedeteiért és mulasztásáért, mint sajátjaként felel. Alletétkezelőként kizárólag az e törvény előírásainak megfelelő másik letétkezelő, illetve ennek külföldi megfelelője vehető igénybe.
+295–296. §
 
 ## NYOLCADIK/A. RÉSZ — A KOCKÁZATI TŐKEALAPOK
 
@@ -3624,6 +2687,8 @@ túlmenően egyéb biztosítékot nem nyújthat.
 - c) az a)–b) pontban meghatározott személlyel közös háztartásban élő közeli hozzátartozónak
 
 részesedése van.
+
+(1a) Kockázati tőkealap-kezelőnél vezető állású személy az lehet, aki a (7) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű. Kockázati tőkealap-kezelési tevékenységet vezető személy az a (7) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű személy lehet, aki felsőfokú végzettséggel rendelkezik.
 
 (2) A kockázati tőkealap-kezelőnél vezető állású személy egyidejűleg legfeljebb három más, e törvény szerint alapított kockázati tőkealap-kezelőnél lehet vezető állású személy. A kockázati tőkealap-kezelő köteles az általa kezelt kockázati tőkealap befektetőit tájékoztatni, ha a vezető állású személlyel kapcsolatban e körülmény fennáll.
 
@@ -3646,6 +2711,8 @@ közvetlen vagy közvetett tulajdoni részesedéssel rendelkezik.
 
 eltöltött időt.
 
+(7) Az (1a) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni: a Btk. XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (Btk. 233. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238. §), a hamis tanúzásra felhívás (Btk. 242. §), a mentő körülmény elhallgatása (Btk. 243. §), a bűnpártolás (Btk. 244. §), a Btk. XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (Btk. 261. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §), a bűnszervezetben részvétel (Bt. 263/C. §), a visszaélés atomenergia alkalmazásával (Btk. 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §), az önbíráskodás (Btk. 273. §), a Btk. XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a Btk. XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények.
+
 296/C. § (1) A kockázati tőkealap-kezelőre a Gt., a fióktelepre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A kockázati tőkealap-kezelő kizárólag részvénytársaságként vagy fióktelepként működhet. A kockázati tőkealap-kezelő jegyzett tőkéje kizárólag pénzbeli hozzájárulásból állhat.
@@ -3660,9 +2727,11 @@ eltöltött időt.
 - f)
 - g) könyvvizsgálója nevét és engedélyének számát;
 - h) a könyvvizsgáló igazolását arra vonatkozóan, hogy a kérelmező informatikai rendszere, számviteli politikája és számviteli rendje mindenkori pénzügyi helyzetének megállapítására alkalmas;
-- i) a vezető állású személy esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt és a kockázati tőkealap-kezelési tevékenységet vezető személy felsőfokú végzettségét igazoló dokumentumot;
+- i) a kockázati tőkealap-kezelési tevékenységet vezető személy felsőfokú végzettségét igazoló dokumentumot;
 - j) az üzleti tervét; és
 - k) az e törvényben foglalt előírásoknak való megfelelést tanúsító egyéb okiratokat.
+
+(1a) A vezető állású személy és a kockázati tőkealap-kezelési tevékenységet vezető személy a kockázati tőkealap-kezelési tevékenység végzésére vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a kockázati tőkealap-kezelő felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 
 (2) A Felügyelet a tevékenységi engedély megadását csak akkor tagadhatja meg, ha a kérelmező
 
@@ -3882,6 +2951,8 @@ tevékenység.
 
 (3) Tőzsde árualapú ügyletek, deviza valamint határidős kamatláb ügyletek kereskedése esetén legalább egyszázötven millió, egyéb tőzsdei termék kereskedése esetén legalább ötszázmillió forint pénzben befizetett alaptőkével (jegyzett tőkével) alapítható.
 
+(4) Tőzsde alapító tagjaként az alapítás alatt lévő tőzsdében minősített befolyást csak olyan személy szerezhet, aki a 296/B. § (7) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és akinek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben tartozása nincs.
+
 300. § (1) A tőzsde alapítására vonatkozó engedély iránti kérelemhez mellékelni kell:
 
 - a) a tőzsde alapító okiratát;
@@ -3896,14 +2967,16 @@ tevékenység.
 
 - a) a cég alapító okiratát;
 - b) a cég három hónapnál nem régebbi cégkivonatát, külföldi cég esetében az eredeti cégkivonatot és annak hiteles magyar nyelvű fordítását vagy igazolást arról, hogy a céget a vállalati (gazdasági) nyilvántartásba bejegyezték;
-- c) a minősített befolyással rendelkező személy azonosítására alkalmas adatokat, természetes személy esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt, vagy a személyes joga szerinti ennek megfelelő okiratot;
-- d) természetes személy esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt, vagy a személyes joga szerinti ennek megfelelő okiratot;
+- c) a minősített befolyással rendelkező személy azonosítására alkalmas adatokat;
+- d)
 - e) harminc napnál nem régebbi igazolást arra vonatkozóan, hogy az alapításban részt vevő személynek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben tartozása nincs;
 - f) nyilatkozatot az erre vonatkozó okirati bizonyítékkal együtt arra, hogy a jegyzett tőke befizetéséhez szükséges összeg az alapításban részt vevő személy törvényes jövedelméből származik;
 - g) a gazdasági társaság előző három naptári évre vonatkozó, könyvvizsgáló által hitelesített éves beszámolóját;
 - h) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak;
 - i) az alapító tulajdonosi szerkezetének, valamint azon körülményeknek a részletes leírását, amelyek miatt az alapító kapcsolatban álló személyek csoportjához tartozónak minősül, továbbá az irányító vállalat előző évre vonatkozó konszolidált éves beszámolóját, ha az irányító vállalat konszolidált beszámoló készítésére kötelezett;
 - j) a kérelemben érintett személyek teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárulnak az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+
+(2a) Minősített befolyással rendelkező természetes személy a tőzsde alapítására vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (3) Ha az alapítók között minősített befolyást szerezni kívánó külföldi székhelyű pénzügyi intézmény, biztosító, befektetési vállalkozás van, az (1) és (2) bekezdésben foglaltakon kívül az engedély iránti kérelemhez be kell nyújtani a székhely szerinti ország hatáskörrel rendelkező felügyeleti hatóságának igazolását vagy nyilatkozatát arról, hogy a vállalkozás a prudens tevékenység végzésére vonatkozó szabályokat betartva működik.
 
@@ -3988,7 +3061,12 @@ tevékenység.
 
 307. § (1) Zártkörű részvénytársaságként működő tőzsde alapító okirata előírhatja az egy tulajdonos által gyakorolható szavazati jog legmagasabb mértékét.
 
-(2) Tőzsdében a (3) bekezdésben meghatározott részesedéssel rendelkező tulajdonos olyan személy lehet, aki (amely) elfogultságtól mentesen, az általános piaci érdekeket szem előtt tartva képes irányítani, illetve befolyásolni – mind szakmai, mind pénzügyi, gazdálkodási szempontból – a tőzsde megbízható, stabil, versenysemleges működését és akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok.
+(2) Tőzsdében a (3) bekezdésben meghatározott részesedéssel rendelkező tulajdonos olyan személy lehet,
+
+- a) aki – amennyiben természetes személy – a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és e tényt a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja,
+- b) aki – amennyiben nem természetes személy – igazolja, hogy a nála vezető tisztségviselői beosztásban lévő személlyel szemben a 357. § (1) bekezdésében meghatározott kizáró ok nem áll fenn és a vezető tisztségviselő a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű,
+- c) aki (amely) elfogultságtól mentesen, az általános piaci érdekeket szem előtt tartva képes irányítani, illetve befolyásolni – mind szakmai, mind pénzügyi, gazdálkodási szempontból – a tőzsde megbízható, stabil, versenysemleges működését, és
+- d) akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok.
 
 (3) Köteles a Felügyelettől előzetesen engedélyt kérni, aki tőzsdében részesedést úgy kíván szerezni, vagy azt úgy kívánja módosítani, hogy közvetlen vagy közvetett tulajdoni részesedése vagy szavazati joga elérje a harminchárom, ötven, hatvanhat, hetvenöt, vagy a száz százalékos határértéket. A Felügyelet tulajdonszerzésre vonatkozó engedélye nem pótolja a Gazdasági Versenyhivatal engedélyét.
 
@@ -3999,10 +3077,12 @@ tevékenység.
 - a) a kérelmező természetes vagy jogi személy megnevezését;
 - b) a megszerezni kívánt részesedés mértékét, arányát;
 - c) jogi személy társasági szerződését, alapító okiratát, alapszabályát, harminc napnál nem régebbi cégkivonatát;
-- d) a kérelmezőnél vezető tisztségviselői beosztásban lévő személy tekintetében a 357. § (1) bekezdésében meghatározott kizáró ok megítéléséhez szükséges tényeket és a 357. § (3) bekezdésében meghatározott büntetőeljárással kapcsolatos nyilatkozatot;
+- d)
 - e) nyilatkozatot az erre vonatkozó okirati bizonyítékkal együtt arra, hogy a tulajdonszerzéshez szükséges összeg a vásárolni szándékozó személy törvényes jövedelméből származik;
 - f) a kérelmező közvetlen és közvetett tulajdonában álló egyéb vállalkozások megjelölését;
-- g) természetes személy esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt, vagy a személyes joga szerinti ennek megfelelő okiratot.
+- g)
+
+(5a) Természetes személy kérelmező, valamint a kérelmezőnél vezető tisztségviselői beosztásban lévő személy a (3) bekezdés szerinti kérelem benyújtásával egyidejűleg a Felügyelet felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (6) A tulajdonszerzésre adott felügyeleti engedély harminc napig hatályos. Az engedély hatálya különösen indokolt esetben egy alkalommal további harminc napra meghosszabbítható.
 
@@ -4032,7 +3112,7 @@ tevékenység.
 - b) nem bizonyítható a részesedésszerzéshez felhasznált pénzeszközök eredetének törvényessége, vagy a pénzeszközök tulajdonosaként megjelölt személy adatainak valódisága, illetve
 - c) természetes személy esetén a 357. § (1) bekezdésben foglalt kizáró ok áll fenn.
 
-(3) Ha az engedély megtagadására okot adó körülmény nem áll fenn, de a jogi személy kérelmező minősített befolyással rendelkező természetes személy tulajdonosa, vezető tisztségviselője ellen, vagy a természetes személy kérelmező ellen a 357. § (3) bekezdésében meghatározott büntetőeljárás van folyamatban, a Felügyelet az engedélyezési eljárást felfüggeszti a büntetőeljárás befejezéséig. A Felügyelet az eljárást a büntetőeljárás jogerős lezárását követően folytatja.
+(3) Ha az engedély megtagadására okot adó körülmény nem áll fenn, de a jogi személy kérelmező minősített befolyással rendelkező természetes személy tulajdonosa, vezető tisztségviselője ellen vagy a természetes személy kérelmező ellen a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetőeljárás van folyamatban, a Felügyelet az engedélyezési eljárást felfüggeszti a büntetőeljárás befejezéséig. A Felügyelet az eljárást a büntetőeljárás jogerős lezárását követően folytatja.
 
 (4) Az (1)–(2) bekezdésben meghatározott tény, illetőleg körülmény ellenőrzése érdekében a Felügyelet az (1)–(2) bekezdésben felsorolt személyektől törvény felhatalmazása alapján kezelhető adatot, illetve tájékoztatást kérhet.
 
@@ -4204,9 +3284,11 @@ foglaltakat.
 
 (3) A Felügyelet felfüggeszti valamely értékpapír tőzsdei forgalmazását a jogsértő állapot megszüntetéséig, ha a kibocsátó megsérti az értékpapírok nyilvános forgalomba hozatalára, illetve a tájékoztatásra vonatkozó előírásokat.
 
+(4) A Felügyelet a magyarországi székhelyű szabályozott piacon és multilaterális kereskedési rendszeren felfüggeszti a kereskedését vagy törli a kereskedésből az olyan pénzügyi eszközt, amely kereskedését felfüggesztette vagy amelyet a kereskedésből törölt másik tagállam illetékes hatósága, kivéve, ha ez jelentős mértékben sértené a befektetők érdekeit vagy a belső piac rendezett működését.
+
 328. § A teljes tőzsdei forgalmazást érintő, tíz tőzsdenapnál hosszabb időtartamú felfüggesztéshez a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter (a továbbiakban: miniszter) jóváhagyása szükséges.
 
-329. § (1) A tőzsde, illetve a Felügyelet a felfüggesztésre vagy a kereskedés visszaállítására vonatkozó döntéséről haladéktalanul értesíti a másik felet és döntését a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza.
+329. § (1) A tőzsde, illetve a Felügyelet a felfüggesztésre vagy a kereskedés visszaállítására vonatkozó döntéséről haladéktalanul értesíti a másik felet és döntését a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza. A Felügyelet a felfüggesztésről értesíti a többi tagállam illetékes hatóságait és az Európai Értékpapír-piaci Hatóságot.
 
 (2) Ha a felfüggesztésre okot adó körülmény megszűnt, a felfüggesztést elrendelő haladéktalanul köteles intézkedni a forgalmazás visszaállítása iránt. Ha a felfüggesztést a tőzsde rendelte el és a forgalmazás visszaállítása iránt indokolatlanul nem intézkedik, a Felügyelet az intézkedést határozattal pótolja.
 
@@ -4315,7 +3397,7 @@ tevékenységet végezhet.
 - e) befektetési vállalkozásnak, ideértve a külföldi befektetési vállalkozást;
 - f) hitelintézetnek, ideértve a külföldi hitelintézetet;
 - g) árutőzsdei szolgáltatónak, ideértve a külföldi árutőzsdei szolgáltatót;
-- h) befektetési alapkezelőnek, ideértve a külföldi befektetési alapkezelőt, kizárólag az általa kezelt befektetési jegy vonatkozásában;
+- h) befektetési alapkezelőnek, kizárólag az általa kezelt befektetési jegy vonatkozásában;
 - i) törvény által meghatározott szervezett piac szereplőjének;
 - j) értékpapír-kibocsátónak, ideértve a külföldi értékpapír-kibocsátót;
 - k) a Magyar Állam számára;
@@ -4361,7 +3443,7 @@ folytathat.
 
 (4) Elszámolóház legalább kettőmilliárd forint induló tőkével alapítható.
 
-(5) Elszámolóházi tevékenység folytatására jogosító engedélyt az a Magyar Köztársaság területén székhellyel rendelkező kérelmező kaphat, amely megfelel a következő feltételeknek:
+(5) Elszámolóházi tevékenység folytatására jogosító engedélyt az a Magyarország területén székhellyel rendelkező kérelmező kaphat, amely megfelel a következő feltételeknek:
 
 - a) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással rendelkezik;
 - b) legalább egy tőzsdei tevékenységet végző szervezettel előszerződést kötött a részére nyújtandó szolgáltatásokról;
@@ -4417,7 +3499,7 @@ folytathat.
 
 340/A. § (1) A központi értéktári tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza. A Felügyelet az engedélyt a 336. § (1) bekezdésében foglalt tevékenységek teljes körére adja meg.
 
-(2) Központi értéktári tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyar Köztáraság területén székhellyel rendelkező, legalább egymilliárd forint jegyzett tőkével rendelkező részvénytársaságnak vagy központi szerződő fél tevékenységet nem végző elszámolóháznak adja meg, amely rendelkezik
+(2) Központi értéktári tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyarország területén székhellyel rendelkező, legalább egymilliárd forint jegyzett tőkével rendelkező részvénytársaságnak vagy központi szerződő fél tevékenységet nem végző elszámolóháznak adja meg, amely rendelkezik
 
 - a) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással,
 - b) a tevékenység folytatásához szükséges személyi, tárgyi, technikai és biztonsági feltételekkel,
@@ -4474,7 +3556,7 @@ folytathat.
 
 (2) A központi szerződő félként történő tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza.
 
-(3) A központi szerződő félként történő tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyar Köztársaság területén székhellyel rendelkező jogi személyiséggel rendelkező gazdasági társaságnak adja meg, amely rendelkezik
+(3) A központi szerződő félként történő tevékenység végzésére jogosító engedélyt a Felügyelet annak a Magyarország területén székhellyel rendelkező jogi személyiséggel rendelkező gazdasági társaságnak adja meg, amely rendelkezik
 
 - a) legalább 20 millió forint alaptőkével,
 - b) káreseményenként legalább százmillió forint, és évente összesen legalább százötvenmillió forint összegű felelősségbiztosítással,
@@ -4900,11 +3982,11 @@ folytathat.
 
 ### Vezető állású személyekre és minősített befolyással rendelkezőkre vonatkozó feltételek
 
-356. § (1) Befektetési alapkezelőnél, szabályozott piacnál, tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, illetve központi értéktárnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
+356. § (1) Szabályozott piacnál, tőzsdénél, elszámolóházi tevékenységet végző szervezetnél, illetve központi értéktárnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
 
 - a) felsőfokú végzettséggel rendelkezik;
 - b) legalább hároméves pénzügyi szakmai és pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
-- c) büntetlen előéletű;
+- c) a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja, hogy a 296/B. § (7) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 - d) akivel szemben a 357. §-ban meghatározott kizáró ok nem áll fenn.
 
 (2) A pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személynek az választható meg, aki megfelel az (1) bekezdésben meghatározott feltételeknek.
@@ -4917,10 +3999,7 @@ folytathat.
 
 (2) Az (1) bekezdés b) pontjában meghatározott esetben a személyre szóló bírságot csak akkor kell kizáró okként figyelembe venni, ha erre az elbírálást megelőző öt év alatt legalább három esetben került sor.
 
-(3) Ha az (1) bekezdésben meghatározott rendelkezésekkel érintett személy ellen a Btk. XV. Fejezetének VII. és VIII. Címében, illetve a XVII. és a XVIII. Fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, illetőleg külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárás befejezéséig
-
-- a) a büntetőeljárás alá vont személy befektetési alapkezelőnél, szabályozott piacnál, tőzsdénél, elszámolóházi tevékenységet végző szervezetnél a 11. számú melléklet 1–4. pontjában meghatározott tisztségéhez, munkaköréhez tartozó feladatokat nem láthat el, tőzsdénél, illetőleg elszámolóházi tevékenységet végző szervezetnél vezető állású személy nem lehet;
-- b) a Felügyelet a 307. § (2) bekezdésében, illetőleg a 343. § (2) bekezdésében meghatározott engedélyt – az egyéb feltételek megléte esetén – a tulajdonos szavazati jogának felfüggesztésével adja meg.
+(3)
 
 (4) Az (1)–(3) bekezdésben meghatározott kizáró okokat a kérelmező külföldi tevékenysége tekintetében is vizsgálni kell.
 
@@ -4928,58 +4007,44 @@ folytathat.
 
 ### Könyvvizsgálat
 
-358. § (1) Befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, illetve központi értéktár által – a Gt.-nek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak akkor adható az érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgálói társaság) részére megbízás, ha
+358. § (1) A nyilvánosan forgalomba hozott értékpapír kibocsátó, kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, illetve központi értéktár által – a Gt.-nek a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgáló (könyvvizsgáló cég) részére adható megbízás, amely rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel.
 
-- a) a könyvvizsgáló (könyvvizsgálói társaság) rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel;
-- b) a könyvvizsgáló nem rendelkezik a befektetési alapkezelőben, a kockázati tőkealap-kezelőben, a tőzsdében, az elszámolóházi tevékenységet végző szervezetben, illetve a központi értéktárban közvetlen vagy közvetett tulajdonnal;
-- c) a könyvvizsgálónak nincs a befektetési alapkezelővel, a kockázati tőkealap-kezelővel, a tőzsdével, az elszámolóházi tevékenységet végző szervezettel, illetve a központi értéktárral szemben fennálló tartozása; valamint
-- d) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár és annak minősített befolyással rendelkező tulajdonosa a könyvvizsgáló cégben közvetlen vagy közvetett tulajdonnal nem rendelkezik.
+(2)–(4)
 
-(2) Az alapkezelő a befektetési alap éves beszámolójának ellenőrzésével könyvvizsgálót köteles megbízni. Az alapkezelő által megbízott könyvvizsgáló köteles ellenőrizni azt is, hogy az alapkezelő a befektetési alap kezelése során betartja-e a kezelési szabályzatban foglalt előírásokat.
+(5) A nyilvánosan forgalomba hozott értékpapír kibocsátó, a tőzsde, illetve az elszámolóházi tevékenységet végző szervezet természetes személy könyvvizsgálójának megbízatása legfeljebb öt évig tarthat, és a megbízatás lejártát követő harmadik év után lehet újabb megbízási szerződést kötni ugyanazon könyvvizsgálóval. A könyvvizsgáló cég nevében könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló legfeljebb öt évig láthat el könyvvizsgálói feladatokat ugyanannál a nyilvánosan forgalomba hozott értékpapír kibócsátónál, tőzsdénél, illetve elszámolóházi tevékenységet végző szervezetnél, és a megbízatás lejártát követő 2 üzleti éven belül nem láthat el újra – ugyanannál a nyilvánosan forgalomba hozott értékpapír kibocsátónál, tőzsdénél, illetve elszámolóházi tevékenységet végző szervezetnél – könyvvizsgálói feladatot.
 
-(3) Az alapkezelő a (2) bekezdésben meghatározott feladat ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező, bejegyzett könyvvizsgáló (könyvvizsgálói társaság) részére akkor adhat megbízást, ha
+(6) Az (1) bekezdésben előírtakon túlmenően további követelmény a természetes személy könyvvizsgálóval szemben, hogy – egyidejűleg – legfeljebb öt azonos típusú intézménynél láthat el könyvvizsgálói feladatot, és az egy intézménytől származó jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) harminc százalékát. Az egy tulajdonosi csoportba tartozó nyilvánosan forgalomba hozott értékpapír kibocsátóktól, hitelintézetektől, pénzügyi vállalkozásoktól, befektetési vállalkozásoktól, befektetési alapkezelőtől, tőzsdétől és elszámolóházi tevékenységet végző szervezettől, illetve a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt kollektív befektetési formától származó összesített jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) hatvan százalékát.
 
-- a) a könyvvizsgáló (könyvvizsgálói társaság) rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel,
-- b) a könyvvizsgáló nem rendelkezik a befektetési alapkezelőben közvetlen vagy közvetett tulajdonnal,
-- c) a könyvvizsgálónak nincs a befektetési alapkezelővel szemben fennálló tartozása, valamint
-- d) a befektetési alapkezelő és annak befolyásoló részesedéssel rendelkező tulajdonosa a könyvvizsgáló cégben közvetlen vagy közvetett tulajdonnal nem rendelkezik.
-
-(4) Az (1) bekezdés b)–c) pontjaiban, valamint a (3) bekezdés b)–c) pontjaiban foglalt korlátozásokat a könyvvizsgáló közeli hozzátartozójára is alkalmazni kell.
-
-(5) A befektetési alapkezelő, a befektetési alap, a tőzsde, illetőleg az elszámolóházi tevékenységet végző szervezet természetes személy könyvvizsgálójának megbízatása legfeljebb öt évig tarthat, és az nem hosszabbítható meg. A könyvvizsgálói társaság által alkalmazott vagy megbízott könyvvizsgáló legfeljebb öt évig láthat el könyvvizsgálói feladatokat ugyanannál a befektetési alapkezelőnél, befektetési alapnál, tőzsdénél, illetőleg elszámolóházi tevékenységet végző szervezetnél.
-
-(6) Az (1), illetőleg a (3) bekezdésben előírtakon túlmenően további követelmény a természetes személy könyvvizsgálóval szemben, hogy egyidejűleg legfeljebb öt azonos típusú intézménynél, illetőleg öt befektetési alapnál láthat el könyvvizsgálói feladatot, és az egy intézménytől, illetőleg egy befektetési alapkezelőtől származó jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) harminc százalékát. Az egy tulajdonosi csoportba tartozó hitelintézetektől, pénzügyi vállalkozásoktól, befektetési vállalkozásoktól, befektetési alapkezelőtől, tőzsdétől és elszámolóházi tevékenységet végző szervezettől, illetőleg a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt befektetési alaptól származó összesített jövedelme (bevétele) nem haladhatja meg éves jövedelmének (bevételének) hatvan százalékát.
-
-(7) A könyvvizsgáló társaságokkal szemben az (1) és a (3) bekezdésben foglaltakon túlmenően további követelmény, hogy a könyvvizsgálói társaságon belül az (1), illetőleg a (3) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló – egyidejűleg – legfeljebb öt azonos típusú intézménynél, illetőleg öt befektetési alapnál láthat el könyvvizsgálói feladatot, és a könyvvizsgálói társaság egy intézménytől, illetőleg egy befektetési alaptól származó bevétele nem haladhatja meg éves nettó árbevételének tíz százalékát. A könyvvizsgáló társaságnak az egy tulajdonosi csoportba tartozó hitelintézetektől, pénzügyi vállalkozásoktól, befektetési vállalkozásoktól, befektetési alapkezelőtől, kockázati tőkealap-kezelőtől, tőzsdétől, elszámolóházi tevékenységet végző szervezettől, valamint központi értéktártól a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt befektetési alaptól származó összesített bevétele nem haladhatja meg éves nettó árbevételének harminc százalékát.
+(7) Az (1) bekezdésben foglaltakon túlmenően további követelmény a könyvvizsgáló céggel szemben, hogy a könyvvizsgáló cégen belül az (1) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló egyidejűleg legfeljebb öt azonos típusú intézménynél láthat el könyvvizsgálói feladatot, és a könyvvizsgáló cég egy intézménytől származó bevétele nem haladhatja meg az éves nettó árbevételének tíz százalékát. A könyvvizsgáló cégnek az egy tulajdonosi csoportba tartozó nyilvánosan forgalomba hozott értékpapír kibocsátóktól, hitelintézetektől, pénzügyi vállalkozásoktól, befektetési vállalkozásoktól, befektetési alapkezelőtől, kockázati tőkealap-kezelőtől, tőzsdétől, elszámolóházi tevékenységet végző szervezettől, valamint központi értéktártól a tulajdonosi csoportba tartozó befektetési alapkezelő által kezelt kollektív befektetési formától származó összesített bevétele nem haladhatja meg az éves nettó árbevételének harminc százalékát.
 
 359. §
 
-360. § (1) A befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár által választott, illetőleg a befektetési alapkezelő által a befektetési alap könyvvizsgálatával megbízott könyvvizsgáló a vizsgálatának eredményéről a vizsgált intézménnyel, illetőleg az alapkezelővel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
+360. § (1) A kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár által megbízott könyvvizsgáló a felülvizsgálatának eredményéről a vizsgált intézménnyel egyidejűleg a Felügyeletet – írásban – haladéktalanul tájékoztatja, ha olyan tényeket állapított meg, amelynek alapján
 
 - a) korlátozott vagy elutasító könyvvizsgálói záradék, illetve a záradék megadásának elutasítása válhat szükségessé;
-- b) bűncselekmény elkövetésére vagy a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár belső szabályzatának, illetőleg a befektetési alap, kockázati tőkealap kezelési szabályzatának súlyos megsértésére, illetőleg az előzőekben említettek súlyos veszélyére utaló körülményeket észlel;
-- c) e törvény vagy más jogszabályok, az MNB rendelkezései, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
-- d) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár kötelezettségeinek teljesítését, a rábízott vagyoni értékek megőrzését nem látja biztosítottnak;
-- e) úgy ítéli meg, hogy a befektetési alapkezelő, kockázati tőkealap-kezelő tevékenysége folytán a befektetők érdekei veszélyben forognak;
-- f) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár belső ellenőrzési rendszereinek súlyos hiányosságait vagy elégtelenségét állapítja meg;
-- g) jelentős véleménykülönbség alakult ki közte és a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár vezetése között a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár fizetőképességét, jövedelmét, adatszolgáltatását vagy könyvvezetését érintő, az intézmény működése szempontjából lényeges kérdésekben.
+- b) bűncselekmény elkövetésére vagy a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár belső szabályzatának, kockázati tőkealap kezelési szabályzatának súlyos megsértésére, illetve az előzőekben említettek súlyos veszélyére utaló körülményeket észlel;
+- c) e törvény vagy más jogszabályok, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár szabályzataiban foglalt előírások súlyos megsértésére utaló körülményeket észlel;
+- d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár kötelezettségeinek teljesítését, a rábízott vagyoni értékek megőrzését nem látja biztosítottnak;
+- e) úgy ítéli meg, hogy kockázati tőkealap-kezelő tevékenysége folytán a befektetők érdekei veszélyben forognak;
+- f) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár belső ellenőrzési rendszereinek súlyos hiányosságait vagy elégtelenségét állapítja meg;
+- g) jelentős véleménykülönbség alakult ki közte és a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár vezetése között a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár fizetőképességét, jövedelmét, adatszolgáltatását vagy könyvvezetését érintő, a működés szempontjából lényeges kérdésekben.
 
 (2)
 
 (3) Az (1) bekezdésben fel nem sorolt esetekben is
 
-- a) a könyvvizsgáló jogosult a Felügyelettel konzultálni, illetőleg a Felügyeletet vizsgálata eredményéről tájékoztatni,
-- b) a Felügyelet jogosult a könyvvizsgálótól vizsgálata megállapításairól közvetlenül tájékoztatást kérni és kapni.
+- a) a könyvvizsgáló jogosult a Felügyelettel konzultálni, illetőleg a Felügyeletet tájékoztatni,
+- b) a Felügyelet jogosult a könyvvizsgálótól közvetlenül tájékoztatást kérni és kapni.
 
-361. § Ha a könyvvizsgáló jogszabályban előírt kötelezettségeinek nem tesz eleget, a Felügyelet jogosult arra, hogy a befektetési alapkezelőt, a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetőleg a központi értéktárat más, a 358. §-ban meghatározott követelményeknek megfelelő könyvvizsgáló választására kötelezze. Ha a Felügyelet a 400. § (1) bekezdésének d) pontjában meghatározott intézkedésként a befektetési alapkezelő, a kockázati tőkealap-kezelő, a befektetési alap, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.
+361. § Ha a könyvvizsgáló a jogszabályban előírt kötelezettségeinek nem tesz eleget, a Felügyelet jogosult arra, hogy a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat más, a 358. §-ban meghatározott követelményeknek megfelelő könyvvizsgáló választására kötelezze. Ha a Felügyelet a 400. § (1) bekezdésének d) pontjában meghatározott intézkedésként a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár könyvvizsgálójának felmentését kezdeményezi, jogosult a könyvvizsgáló pénzügyi intézményi, illetve befektetési vállalkozási minősítésének visszavonását kezdeményezni.
 
 362. §
 
-363. § (1) A befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
+363. § (1) A kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár köteles a könyvvizsgálóval – az éves beszámoló könyvvizsgálatára – kötött szerződést és valamennyi, a könyvvizsgáló által az éves beszámolóval kapcsolatban készített jelentést a Felügyelet számára megküldeni.
 
-(2) A Felügyelet jogosult a könyvvizsgáló jelentésének alapján – az éves beszámoló jóváhagyása előtt – a befektetési alapkezelőnél, a kockázati tőkealap-kezelőnél, a tőzsdénél, az elszámolóházi tevékenységet végző szervezetnél, illetőleg a központi értéktárnál kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót vizsgáltassa felül, helyesbítse, gondoskodjon a helyesbített adatok könyvvizsgálóval történő hitelesítéséről.
+(2) A Felügyelet jogosult a könyvvizsgáló Tpt. 360. § (3) bekezdés b) pontja szerinti tájékoztatása alapján – az éves beszámoló jóváhagyása előtt – a kockázati tőkealap-kezelőnél, a tőzsdénél, az elszámolóházi tevékenységet végző szervezetnél, illetve a központi értéktárnál kezdeményezni, hogy a helytelen adatokat tartalmazó beszámolót helyesbítsék, gondoskodjanak a helyesbített adatok könyvvizsgálóval történő felülvizsgálatáról.
 
-(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a befektetési alapkezelőt, a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetőleg a központi értéktárat az adatok módosítására és könyvvizsgálóval való felülvizsgálatára. A módosított és a könyvvizsgáló által felülvizsgált adatot a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár köteles a Felügyeletnek bemutatni.
+(3) Ha az éves beszámoló jóváhagyását követően jutott a Felügyelet tudomására, hogy az éves beszámoló lényeges hibát tartalmaz, a Felügyelet kötelezheti a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat az adatok módosítására és könyvvizsgálóval való felülvizsgálatára az Szt.-ben foglalt, önellenőrzésre vonatkozó szabályok figyelembevételével. A módosított, könyvvizsgáló által felülvizsgált adatokat a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár köteles a Felügyeletnek bemutatni.
 
 ### Kereskedelmi kommunikációra vonatkozó külön rendelkezés
 
@@ -4997,7 +4062,7 @@ folytathat.
 
 368. § (1) E törvény alkalmazásában üzleti titok alatt a Ptk.-ban meghatározott fogalmat kell érteni.
 
-(2) A befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a központi szerződő fél tulajdonosa, az e szervezetekben részesedést szerezni kívánó személy, a vezető állású személy, valamint e szervezetek alkalmazottja köteles az e szervezetek működésével kapcsolatban tudomására jutott üzleti titkot időbeli korlátozás nélkül megtartani.
+(2) A kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár, a központi szerződő fél tulajdonosa, az e szervezetekben részesedést szerezni kívánó személy, a vezető állású személy, valamint e szervezetek alkalmazottja köteles az e szervezetek működésével kapcsolatban tudomására jutott üzleti titkot időbeli korlátozás nélkül megtartani.
 
 (3) A (2) bekezdésben meghatározott személyeknek és szervezeteknek a Bszt. üzleti titokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
@@ -5025,7 +4090,7 @@ folytathat.
 
 ### Összesített adatok átadása
 
-375. § A Felügyelet – törvény eltérő rendelkezése hiányában – más személynek vagy hatóságnak befektetési alapkezelőről, kockázati tőkealap-kezelőről, tőzsdéről, elszámolóházi tevékenységet végző szervezetről, központi értéktárról, központi szerződő félről vagy más személyről, illetve ezek tevékenységéről kizárólag egyedi azonosításra nem alkalmas, összesített adatokat adhat át.
+375. § A Felügyelet – törvény eltérő rendelkezése hiányában – más személynek vagy hatóságnak tőzsdéről, kockázati tőkealap-kezelőről, elszámolóházi tevékenységet végző szervezetről, központi értéktárról, központi szerződő félről vagy más személyről, illetve ezek tevékenységéről kizárólag egyedi azonosításra nem alkalmas, összesített adatokat adhat át.
 
 ### LII. Fejezet — A PÉNZ- ÉS TŐKEPIACI ÁLLANDÓ VÁLASZTOTTBÍRÓSÁG
 
@@ -5115,7 +4180,7 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 ### A felügyeleti díj
 
-380. § (1) A befektetési alap; a befektetési alapkezelő; a kockázati tőkealap; a kockázati tőkealap-kezelő; a szabályozott piac, a tőzsde, a központi értéktár, a központi szerződő fél, a külföldi székhelyű befektetési vállalkozás magyarországi képviselete a Felügyelet részére felügyeleti díjat fizet.
+380. § (1) A kockázati tőkealap, a kockázati tőkealap-kezelő, a szabályozott piac, a tőzsde, a központi értéktár, a központi szerződő fél, a külföldi székhelyű befektetési vállalkozás magyarországi képviselete a Felügyelet részére felügyeleti díjat fizet.
 
 (2) A felügyeleti díj a (3)–(4) bekezdés szerint számított alapdíj, valamint a 381. § (1)–(7) bekezdése szerint számított változó díj összege.
 
@@ -5123,17 +4188,17 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 (4) A szorzószám
 
-- a) befektetési alapkezelő, kockázati tőkealap-kezelő, szabályozott piac, tőzsde, központi értéktár, központi szerződő fél esetén: négy,
-- b) az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő, szabályozott piac, tőzsde, központi értéktár, központi szerződő fél magyarországi fióktelepe esetén: négy,
+- a) kockázati tőkealap-kezelő, szabályozott piac, tőzsde, központi értéktár, központi szerződő fél esetén: négy,
+- b) az Európai Unió másik tagállamában székhellyel rendelkező szabályozott piac, tőzsde, központi értéktár, központi szerződő fél magyarországi fióktelepe esetén: négy,
 - c) a külföldi székhelyű befektetési vállalkozás magyarországi képviselete esetén: egy.
 
-381. § (1) A befektetési alap és a kockázati tőkealap által fizetendő változó díj éves mértéke az alap nettó eszközértékének 0,25 ezreléke.
+381. § (1) A kockázati tőkealap által fizetendő változó díj éves mértéke az alap nettó eszközértékének 0,25 ezreléke.
 
-(2) A befektetési alapkezelő által fizetendő változó díj éves mértéke a portfóliókezelési tevékenység – ide nem értve az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a pénzügyi intézmény és a biztosító részére végzett portfóliókezelési tevékenységet – keretében kezelt, piaci értéken számított portfólió eszközértékének 0,25 ezreléke.
+(2)
 
 (3) A központi értéktár, a központi szerződő fél, a tőzsde által fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,2 ezreléke.
 
-(4) Ha az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a portfóliókezelési tevékenység – ide nem értve az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a pénzügyi intézmény és a biztosító részére végzett portfóliókezelési tevékenységet – keretében kezelt, piaci értéken számított portfólió eszközértékének 0,125 ezreléke.
+(4)
 
 (5) Ha az Európai Unió másik tagállamában székhellyel rendelkező központi értéktár, a központi szerződő fél, szabályozott piac, tőzsde magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,1 ezreléke.
 
@@ -5147,7 +4212,9 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 ### LIV. Fejezet — A FELÜGYELET ELJÁRÁSA
 
-388. §
+388. § (1) A kérelmező a nyilvános vételi ajánlat jóváhagyására irányuló eljárás, a 22. § (7) bekezdés, a 32. § (3) bekezdés, a 36. § (1) bekezdés, a 45. § (1) és (2) bekezdés, a 46. §, a 296/K. § (1) és (4) bekezdés, valamint a 296/M. § szerinti eljárások során köteles kérelmét az e célra rendszeresített elektronikus űrlapon benyújtani.
+
+(2) Ha a hiánytalanul rendelkezésre álló kérelem és mellékletei nem felelnek meg a jogszabályban foglalt feltételeknek, célszerűtlen vagy szakszerűtlen előírást tartalmaznak, a Felügyelet a hiánytalan beérkezést követő 10 munkanapon belül – megfelelő határidő megjelölése mellett – a kérelmezőt a kérelem vagy annak melléklete kiegészítésére, illetve módosítására hívja fel.
 
 389. § (1)–(2)
 
@@ -5165,23 +4232,23 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 391. § (1) A Felügyelet nyilvántartásba veszi a következő adatokat és az azokban bekövetkezett változásokat:
 
-- a) a befektetési alapkezelő, a befektetési alap, a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár neve, székhelye;
-- b) a befektetési alapkezelő, a befektetési alap, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár alapításának időpontja;
-- c) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár tevékenységi köre;
-- d) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár jegyzett tőkéjének mértéke;
-- e) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
-- f) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár vezető állású személyei;
+- a) a kockázati tőkealap-kezelő, a kockázati tőkealap, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár neve, székhelye;
+- b) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár alapításának időpontja;
+- c) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tevékenységi köre;
+- d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár jegyzett tőkéjének mértéke;
+- e) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
+- f) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár vezető állású személyei;
 - g)
-- h) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár tevékenysége megkezdésének időpontja;
-- i) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
-- j) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár fióktelepe létesítésének időpontja és helye;
-- k) a befektetési alapkezelő, a kockázati tőkealap-kezelő ügynökének neve, székhelye, fióktelepe;
+- h) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tevékenysége megkezdésének időpontja;
+- i) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
+- j) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, és a központi értéktár fióktelepe létesítésének időpontja és helye;
+- k) a kockázati tőkealap-kezelő ügynökének neve, székhelye, fióktelepe;
 - l) a kibocsátó neve, székhelye;
 - m) a kibocsátó alapításának időpontja;
 - n) a kibocsátó jegyzett tőkéjének nagysága;
 - o) a kibocsátó vezető állású személyeinek neve, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
 - p) a kibocsátó tulajdonosainak neve (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
-- q) a forgalomba hozatal adatai, befektetési alap esetében befektetésijegy-sorozatonként;
+- q) a forgalomba hozatal adatai;
 - r) a bennfentes személyek azonosító adatai;
 - s) a nyilvánosan működő részvénytársaság tulajdonosainak a 67. §-ban szabályozott, a befolyásszerzéshez kapcsolódó bejelentési kötelezettség alapján tudomására jutott adatai;
 - t)
@@ -5213,12 +4280,12 @@ a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbír
 
 394. § (1) A Felügyelet feladata ellátása érdekében kezelheti
 
-- a) a befektetési alapkezelő, a kockázati tőkealap-kezelő vezető állású személyének és alkalmazottjának, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár vezető állású személyeinek és alkalmazottainak a 356. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
+- a) a kockázati tőkealap-kezelő vezető állású személyének és alkalmazottjának, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár vezető állású személyeinek és alkalmazottainak a 356. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
 - b) a tőzsdében történő tulajdonszerzés engedélyezése iránti kérelmet benyújtó személy, illetve a tőzsde tulajdonosának a 308. §-ban előírt feltételek meglétének ellenőrzésére szolgáló adatait;
-- c) az általa folytatott eljárás keretében a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár ügyfelének adatait;
+- c) az általa folytatott eljárás keretében a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár ügyfelének adatait;
 - d) a bejelentésre kötelezett bennfentes személy adatait;
 - e) a Psztv. szerinti piacfelügyeleti eljárás során az eljárás alá vont ügyfélre vonatkozó értékpapír-, ügyfél- és fizetési számla-forgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával kapcsolatos természetes személyazonosító adatot, az állampolgárságát, a lakóhelyét, a tartózkodási helyét, ha a Felügyelet valószínűsíti, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges;
-- f) az összeférhetetlenségi szabályok betartásának ellenőrzése érdekében 1. a tőzsdére bevezetett értékpapír kibocsátójánál vezető állású személy, 2–3. 4. a tőzsde tisztségviselője és alkalmazottja, 5. az elszámolóházi tevékenységet végző szervezet illetőleg a központi értéktár vezető állású személye és alkalmazottja, 6. az ügynök, 7. a befektetési alapkezelési, a kockázati tőkealap-kezelési tevékenységet végző szervezet vezető állású személye és alkalmazottja, 8. a befektetési alapkezelési tevékenységet végző szervezet tevékenységéhez közvetlenül kapcsolódó letétkezelő, ingatlanértékelő, ingatlanforgalmazó vezető tisztségviselője, vezető állású személye és a befektetési alapkezeléshez kapcsolódó területen tevékenykedő alkalmazottja adatait;
+- f) az összeférhetetlenségi szabályok betartásának ellenőrzése érdekében 1. a tőzsdére bevezetett értékpapír kibocsátójánál vezető állású személy, 2–3. 4. a tőzsde tisztségviselője és alkalmazottja, 5. az elszámolóházi tevékenységet végző szervezet illetőleg a központi értéktár vezető állású személye és alkalmazottja, 6. az ügynök, 7. a kockázati tőkealap-kezelési tevékenységet végző szervezet vezető állású személye és alkalmazottja, 8. adatait;
 - g)
 - h) a befolyásszerzés mértékének ellenőrzése érdekében a nyilvánosan működő részvénytársaság tulajdonosainak adatait;
 - i) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozással szoros kapcsolatban álló személy adatait;
@@ -5257,19 +4324,18 @@ kezelheti.
 
 ### Adatszolgáltatás
 
-395. § (1) A befektetési alapkezelő, a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár a Felügyeletnek köteles bejelenteni és ezzel egyidejűleg – az i) és k) pontban foglaltak kivételével – közzétenni:
+395. § (1) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár a Felügyeletnek köteles bejelenteni és ezzel egyidejűleg – az i) és k) pontban foglaltak kivételével – közzétenni:
 
 - a) valamely engedélyezett tevékenység megkezdését;
 - b) a részvényesei nevét (cégnevét), illetve tulajdoni és szavazati hányadukat;
-- c) a járulékos vállalkozásban [5. § (1) bekezdés 54. pont] történő befolyásszerzést, illetőleg a befolyás megszűnését;
+- c) a járulékos vállalkozásban történő befolyásszerzést, illetve a befolyás megszűnését;
 - d) a 356. §-ban és a 11. számú mellékletben meghatározott személyi körben bekövetkezett változást;
 - e) az ügynökkel kötött szerződés megkötését, módosítását és megszűnését;
 - f) fióktelepének, képviseletének megnyitását és megszűnését;
 - g) a közgyűlésének összehívását a napirend közlésével, valamint a közgyűlés által hozott határozatokat, az utóbbiak lényeges tartalmának összefoglalásával;
 - h) az ügyfélfogadás szüneteltetésének tervét;
 - i) a cégjegyzékben nyilvántartott adatainak változását;
-- j) ha vele szemben törvényességi felügyeleti eljárás indult; és
-- k)
+- j) ha vele szemben törvényességi felügyeleti eljárás indult.
 
 (2) A fióktelep az (1) bekezdésben foglaltakon kívül köteles a Felügyeletnek bejelenteni és ezzel egyidejűleg nyilvánosságra hozni:
 
@@ -5277,7 +4343,7 @@ kezelheti.
 - b) ha az alapító vagy annak bármely államban működő fióktelepe fizetésképtelenné vált, vagy ellene csőd-, illetve felszámolási eljárás indult,
 - c) ha az alapító székhelye szerinti felügyeleti hatóság az adott intézménnyel, vagy bármely államban működő fióktelepével szemben intézkedést, illetve szankciót alkalmazott.
 
-(3) A befektetési alapkezelő, a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár köteles a Felügyeletnek megküldeni a közgyűlés által jóváhagyott auditált éves beszámolót és a könyvvizsgálói jelentést, valamint ezzel egyidejűleg közzétenni a közgyűlés által jóváhagyott auditált éves beszámolót és a könyvvizsgálói záradékot.
+(3) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár köteles a Felügyeletnek megküldeni és ezzel egyidejűleg közzétenni a közgyűlés által jóváhagyott, független könyvvizsgálói jelentéssel ellátott számviteli beszámolót.
 
 (4) A bejelentési kötelezettségének
 
@@ -5294,7 +4360,7 @@ kell eleget tenni.
 
 (5) Az MNB, a kincstár és az ÁKK Zrt. az (1) bekezdés a), e), f) és h) pontjában meghatározott adatok bejelentésére köteles.
 
-(6) A befektetési alapkezelő, a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
+(6) A kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet és a központi értéktár köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
 
 (7) A nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó szabályok betartásának ellenőrzése keretében a Felügyelet írásbeli megkeresésére a részvényesi jogok gyakorlója köteles e jogok gyakorlására kötött megállapodást feltárni, valamennyi e tárgyban keletkezett irat másolatát a Felügyelet rendelkezésére bocsátani, illetve megjelölni azt a személyt, akinek érdekében ténylegesen eljár.
 
@@ -5342,9 +4408,9 @@ kell eleget tenni.
 
 (2) A Felügyelet külföldi felügyeleti hatósággal kötött, tőzsdei kereskedési joggal rendelkező vállalkozások felügyeletére is kiterjedő nemzetközi együttműködési megállapodás alapján a külföldi felügyeleti hatóság kezdeményezésére külföldi jogszabályban, külföldi felügyeleti hatóság határozatában, külföldi tőzsde alapszabályában vagy szabályzatában, külföldi elszámolóház alapszabályában vagy szabályzatában, illetve külföldi központi értéktár alapszabályában vagy szabályzatában meghatározott előírások megsértése esetén is alkalmazhat intézkedéseket és szankciókat.
 
-(3) Ha a Felügyelet megállapítja, hogy valamely más tagállamban székhellyel rendelkező kibocsátó, illetőleg forgalmazó a nyilvános forgalomba hozatal szabályait megsértette, illetőleg hogy a Magyarországon szabályozott piacra bevezetett értékpapír más tagállamban székhellyel rendelkező kibocsátója megsértette a forgalomban tartással kapcsolatos kötelezettségeit, értesíti a székhely szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságát.
+(3) Ha a Felügyelet megállapítja, hogy valamely más tagállamban székhellyel rendelkező kibocsátó, illetőleg forgalmazó a nyilvános forgalomba hozatal szabályait megsértette, illetőleg hogy a Magyarországon szabályozott piacra bevezetett értékpapír más tagállamban székhellyel rendelkező kibocsátója megsértette a forgalomban tartással kapcsolatos kötelezettségeit, értesíti a székhely szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságát és az Európai Értékpapír-piaci Hatóságot.
 
-(4) Ha a székhely szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságának a (3) bekezdésben meghatározott értesítés alapján megtett intézkedése ellenére, vagy intézkedése hiányában a kibocsátó, illetőleg a forgalmazó nem szünteti meg jogsértő magatartását, a Felügyelet megteszi a szükséges intézkedést a befektetők védelme érdekében. Az intézkedésről, annak megtétele előtt tájékoztatja a másik tagállam hatáskörrel rendelkező felügyeleti hatóságát. A Felügyelet a megtett intézkedésről tájékoztatja az Európai Bizottságot.
+(4) Ha a székhely szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságának a (3) bekezdésben meghatározott értesítés alapján megtett intézkedése ellenére vagy intézkedése hiányában a kibocsátó, illetőleg a forgalmazó nem szünteti meg jogsértő magatartását, a Felügyelet megteszi a szükséges intézkedést a befektetők védelme érdekében. Az intézkedésről, annak megtétele előtt tájékoztatja a másik tagállam hatáskörrel rendelkező felügyeleti hatóságát. A Felügyelet a megtett intézkedésről tájékoztatja az Európai Bizottságot és az Európai Értékpapír-piaci Hatóságot.
 
 (5) A Felügyelet az intézkedést, illetve szankciót a rendelkezésére álló adatok és információk elemzése, illetőleg mérlegelése alapján, a szabály megsértésének, illetőleg a hiányosságnak
 
@@ -5358,25 +4424,25 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 400. § (1) A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:
 
-- a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt az értékpapírok forgalomba hozatalára, a tájékoztatási kötelezettségének teljesítésére, a befektetési alapkezelési tevékenységre, a letétkezelési tevékenységre, a tőzsdei tevékenységre, az elszámolóházi, illetőleg központi értéktári tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetőleg – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
-- b) az engedély nélküli befektetési alapkezelési, kockázati tőkealap-kezelési, tőzsdei, elszámolóházi, illetőleg központi értéktári tevékenység folytatását megtilthatja;
+- a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt az értékpapírok forgalomba hozatalára, a tájékoztatási kötelezettségének teljesítésére, a tőzsdei tevékenységre, az elszámolóházi, illetve központi értéktári tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
+- b) az engedély nélküli tőzsdei, elszámolóházi, illetve központi értéktári tevékenység folytatását megtilthatja;
 - c) a Felügyelet által kirendelt szakértő, illetve felügyeleti biztos közreműködésével kapcsolatban felmerült költségek megtérítésére kötelezhet;
-- d) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti;
-- e) kötelezheti a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár igazgatóságát rendkívüli közgyűlés összehívására, és arra kötelező napirend megtárgyalását írhatja elő;
-- f) a befektetési alapkezelőt, a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti;
-- g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező részvényest, befektetési alapkezelőt, a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;
-- h) a befektetési alapkezelési tevékenység, a tőzsdei tevékenység folytatását részben vagy egészben meghatározott időre felfüggesztheti;
+- d) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti;
+- e) kötelezheti a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár igazgatóságát rendkívüli közgyűlés összehívására, és arra kötelező napirend megtárgyalását írhatja elő;
+- f) a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat határidő meghatározásával helyreállítási terv kidolgozására és a Felügyelethez történő benyújtására kötelezheti;
+- g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban ötszázalékos vagy azt meghaladó befolyással rendelkező részvényest, a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat meghatározott tartalmú rendkívüli adatszolgáltatás teljesítésére kötelezheti;
+- h) a tőzsdei tevékenység folytatását részben vagy egészben meghatározott időre felfüggesztheti;
 - i) meghatározott időre felfüggesztheti a tőzsdei szekcióban történő kereskedést, illetve a teljes tőzsdei kereskedést, valamint előírhatja valamely tőzsdei termék kereskedésből történő kivezetését;
-- j) a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár tevékenységi engedélyét visszavonhatja;
-- k) a befektetési alapkezelőt és a kockázati tőkealap-kezelőt meglévő szerződéses kötelezettségeinek más szolgáltató részére történő átadására kötelezheti;
-- l) felügyeleti biztost rendelhet ki a befektetési alapkezelőhöz, a kockázati tőkealap-kezelőhöz, a tőzsdéhez, az elszámolóházi tevékenységet végző szervezethez, illetőleg a központi értéktárhoz;
+- j) a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár tevékenységi engedélyét visszavonhatja;
+- k) a kockázati tőkealap-kezelőt meglévő szerződéses kötelezettségeinek más szolgáltató részére történő átadására kötelezheti;
+- l) felügyeleti biztost rendelhet ki a kockázati tőkealap-kezelőhöz, a tőzsdéhez, az elszámolóházi tevékenységet végző szervezethez, illetve a központi értéktárhoz;
 - m) törvényben meghatározott esetben és mértékben bírságot szabhat ki;
 - n) meghatározott időszakra felfüggesztheti az értékpapír forgalomba hozatalát, a pénzügyi eszköz forgalmazását, a nyilvánosan működő részvénytársaságban történő befolyásszerzésre irányuló nyilvános vételi ajánlatra vonatkozó eljárást;
 - o) ha törvény alapján a részvényes a részvénytársasággal szemben tagsági jogait nem gyakorolhatja, ezt a tényt a Felügyelet határozatban megállapítja, és szükség esetén elrendelheti a tagsági jogok gyakorlásának felfüggesztését;
 - p) más illetékes hatóságnál eljárást kezdeményezhet;
 - q)
-- r) megtilthatja, korlátozhatja vagy feltételhez kötheti a befektetési alapkezelő, a kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár 1. osztalékának kifizetését, 2. vezető állású személyének történő kifizetést, 3. tulajdonosainak e szervezetektől való kölcsönfelvételét, illetőleg, hogy e szervezetek részükre kockázatvállalással járó szolgáltatást nyújtsanak, 4. tulajdonosainak és vezető tisztségviselőinek érdekeltségi körébe tartozó vállalkozások részére történő hitel, kölcsön nyújtását, illetve annak minősülő ügyletkötést, 5. hitel vagy kölcsönszerződésében foglalt határidők meghosszabbítását (prolongálását), 6. új fiókjának megnyitását, új tevékenységének, valamint új üzletágának megkezdését;
-- s) kötelezheti a befektetési alapkezelőt, a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetőleg a központi értéktárat 1. belső szabályzat kidolgozására vagy meghatározott szempontok szerinti átdolgozására, illetőleg alkalmazására, 2. az alkalmazottak (vezetők) szakmai továbbképzésére, illetőleg megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére, 3. a működési költségek csökkentésére, 4. megfelelő nagyságú tartalék képzésére;
+- r) megtilthatja, korlátozhatja vagy feltételhez kötheti a kockázati tőkealap-kezelő, tőzsde, elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár 1. osztalékának kifizetését, 2. vezető állású személyének történő kifizetést, 3. tulajdonosainak e szervezetektől való kölcsönfelvételét, illetve, hogy e szervezetek részükre kockázatvállalással járó szolgáltatást nyújtsanak, 4. tulajdonosainak és vezető tisztségviselőinek érdekeltségi körébe tartozó vállalkozások részére történő hitel, kölcsön nyújtását, illetve annak minősülő ügyletkötést, 5. hitel- vagy kölcsönszerződésében foglalt határidők meghosszabbítását (prolongálását), 6. új fiókjának megnyitását, új tevékenységének, valamint új üzletágának megkezdését;
+- s) kötelezheti a kockázati tőkealap-kezelőt, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, illetve a központi értéktárat 1. belső szabályzat kidolgozására vagy meghatározott szempontok szerinti átdolgozására, illetve alkalmazására, 2. az alkalmazottak (vezetők) szakmai továbbképzésére, illetve megfelelő szakmai ismeretekkel rendelkező alkalmazottak (vezetők) felvételére, 3. a működési költségek csökkentésére, 4. megfelelő nagyságú tartalék képzésére;
 - t) a tőzsde jogszabályba ütköző tevékenységét megtiltja, a tőzsdét új szabályzat kidolgozására vagy új határozat hozatalára kötelezi;
 - u)
 - v) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmény jut a tudomására, amely alapján a tájékoztató közzétételének engedélyezését meg kellett volna tagadni, vagy az a befektetői érdekeket súlyosan sérti, a Felügyelet a tájékoztató közzétételéhez adott engedélyét visszavonja és határidő kitűzésével kötelezi a kibocsátót, valamint a forgalmazót a forgalomba hozatali folyamat leállítására;
@@ -5402,13 +4468,13 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (7) A Felügyelet a tevékenység kiszervezését megtilthatja, ha nem felel meg a Bszt. kiszervezésre vonatkozó előírásainak.
 
-(8) A Felügyelet az (1) bekezdés r) pontja 1. alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a befektetési alapkezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár előírt tőkekövetelményeknek való megfelelése nem biztosított.
+(8) A Felügyelet az (1) bekezdés r) pontja 1. alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a tőzsde, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár előírt tőkekövetelményeknek való megfelelése nem biztosított.
 
 (9)
 
 ### A felügyeleti biztos
 
-401. § (1) A Felügyelet egy vagy több felügyeleti biztost rendelhet ki, különösen akkor, ha a befektetési alapkezelő, a kockázati tőkealap-kezelő, elszámolóházi tevékenységet végző szervezet, illetőleg központi értéktár
+401. § (1) A Felügyelet egy vagy több felügyeleti biztost rendelhet ki, különösen akkor, ha a kockázati tőkealap-kezelő, elszámolóházi tevékenységet végző szervezet, illetve központi értéktár
 
 - a) olyan helyzetbe kerül, amelyben fennáll annak a veszélye, hogy kötelezettségeinek nem tud eleget tenni;
 - b) igazgatósága (más vezető állású személye) nem tudja ellátni feladatát, és ez veszélyezteti a befektetők érdekeit;
@@ -5416,7 +4482,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (2) Az (1) bekezdés b) pontjában meghatározott helyzet különösen akkor áll fenn, ha
 
-- a) a tulajdonosok vagy a fióktelep alapítója a befektetési alapkezelő, a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár saját tőkéjét az előírt szintre nem emelik fel;
+- a) a tulajdonosok vagy a fióktelep alapítója a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár saját tőkéjét az előírt szintre nem emelik fel;
 - b) az igazgatóság a közgyűlést felügyeleti intézkedés ellenére nem hívja össze.
 
 (3) A Felügyelet a szabályozott piacra, tőzsdére felügyeleti biztost akkor rendelhet ki, ha a szabályozott piacnak, tőzsdének nincs a 317. § (4) bekezdés a)–d) és h) pontjaiban meghatározott érvényes szabályzata, vagy harminc napnál hosszabb időtartam alatt az igazgatóság megválasztására, illetve az ügyvezető kinevezésére nem kerül sor. A felügyeleti biztos feladatait és jogkörét a kirendelő határozat tartalmazza.
@@ -5425,18 +4491,18 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (5) A felügyeleti biztos javaslata alapján a Felügyelet harminc napon belül határozatot hoz a továbbiakban alkalmazandó intézkedésekről.
 
-402. § (1) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a befektetési alapkezelő, a kockázati tőkealap-kezelő, a szabályozott piac, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár igazgatósági tagjainak a gazdasági társaságokra vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
+402. § (1) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételéig a kockázati tőkealap-kezelő, a szabályozott piac, a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi értéktár igazgatósági tagjainak a gazdasági társaságokra vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
 
 (2) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja a gazdasági társaságokra vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
-(3) A (2) bekezdéstől eltérően az igazgatóság, illetőleg a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a befektetési alapkezelővel, a kockázati tőkealap-kezelővel, a szabályozott piaccal, a tőzsdével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral szemben hozott határozat ellen, e jogorvoslati eljárásban a befektetési alapkezelőt, a kockázati tőkealap-kezelőt, a szabályozott piacot, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat képviselheti vagy a képviselet ellátására megbízást adhat.
+(3) A (2) bekezdéstől eltérően az igazgatóság, és a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a kockázati tőkealap-kezelővel, a szabályozott piaccal, a tőzsdével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral szemben hozott határozat ellen, e jogorvoslati eljárásban a kockázati tőkealap-kezelőt, a szabályozott piacot, a tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat képviselheti vagy a képviselet ellátására megbízást adhat.
 
 (4) A felügyeleti biztos feladata:
 
-- a) a befektetési alapkezelő, a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár vagyoni helyzetének felmérése;
+- a) a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár vagyoni helyzetének felmérése;
 - b) az ügyfélkövetelések teljesíthetőségének felmérése;
-- c) az a) és b) pontban előírtakhoz szükséges mértékben a befektetési alapkezelő, a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár nyilvántartásának helyreállítása; és
-- d) a szükséges mértékben a befektetési alapkezelő, a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetőleg a központi értéktár cégként való működtetése.
+- c) az a) és b) pontban előírtakhoz szükséges mértékben a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár nyilvántartásának helyreállítása; és
+- d) a szükséges mértékben a kockázati tőkealap-kezelő, az elszámolóházi tevékenységet végző szervezet, illetve a központi értéktár működtetése.
 
 (5)
 
@@ -5444,7 +4510,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 ### Az Európai Unió másik tagállamában székhellyel rendelkező intézmények fióktelepének felügyelete
 
-404. § (1) Ha az Európai Unió másik tagállamában székhellyel rendelkező befektetési alapkezelő, kockázati tőkealap-kezelő, szabályozott piac, tőzsde, elszámolóház, illetőleg központi értéktár fióktelepe megsérti a Magyarországon hatályos előírásokat, illetve a Felügyelet hiányosságot észlel a fióktelep működésében, a Felügyelet felszólítja a fióktelepet a szabályellenes helyzet megszüntetésére.
+404. § (1) Ha az Európai Unió másik tagállamában székhellyel rendelkező kockázati tőkealap-kezelő, szabályozott piac, tőzsde, elszámolóház, illetve központi értéktár fióktelepe megsérti a Magyarországon hatályos előírásokat, illetve a Felügyelet hiányosságot észlel a fióktelep működésében, a Felügyelet felszólítja a fióktelepet a szabályellenes helyzet megszüntetésére.
 
 (2) Ha a fióktelep a felszólításnak nem tesz eleget, a Felügyelet értesíti az Európai Unió másik tagállamának illetékes felügyeleti hatóságát a szabályellenes helyzetről, illetőleg kezdeményezi, hogy a hatáskörrel rendelkező felügyeleti hatóság tegye meg a megfelelő intézkedést.
 
@@ -5462,7 +4528,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 ### A felügyeleti bírság
 
-405. § (1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a befektetési alapkezelőt, a kockázati tőkealap-kezelőt, tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat, a központi szerződő felet, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet és a piacbefolyásolást elkövető személyt az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá, ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.
+405. § (1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a kockázati tőkealap-kezelőt, tőzsdét, az elszámolóházi tevékenységet végző szervezetet, a központi értéktárat, a központi szerződő felet, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet és a piacbefolyásolást elkövető személyt az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá, ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.
 
 (2)
 
@@ -5644,12 +4710,12 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 - a)
 - b)
-- c) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének tartalmát, módját és gyakoriságát;
+- c)
 - d) az igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
 - e) a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség részletes szabályait;
 - f) a tőkemegfelelési és tőkeszükségleti követelményeknek konszolidált módon való megfelelésre vonatkozó részletes szabályokat,
 - g)
-- h) a befektetési alap befektetési szabályaira vonatkozó előírásokat;
+- h)
 - i)
 - j)
 - k) az elszámolóháznak nem minősülő elszámolóházi tevékenységet végző szervezet tartalékképzésének módját és mértékét;
@@ -5667,14 +4733,17 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 (3) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
 
 - a) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat;
-- b) az ISIN azonosítóra vonatkozó részletes szabályokat.
+- b) az ISIN azonosítóra vonatkozó részletes szabályokat;
+- c) a szabályozott piac, a tőzsde és az elszámolóházi tevékenységet végző szervezet tájékoztatási kötelezettségének tartalmára, módjára és gyakoriságára vonatkozó részletszabályokat;
+- d) a 388. § (1) bekezdésében meghatározott eljárások során használt elektronikus űrlap tartalmára, formájára, benyújtására vonatkozó részletszabályokat;
+- e) az információterjesztésre, az információtárolási rendszerre, továbbá a Felügyelet felé fennálló bejelentési kötelezettség teljesítésére vonatkozó részletszabályokat.
 
 ### 1. számú melléklet a 2001. évi CXX. törvényhez
 
 #### A törvényben hivatkozott jogszabályok rövidítései
 
 - 1. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
-- 2. Áht.: az államháztartásról szóló 1992. évi XXXVIII. törvény,
+- 2. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 - 3. Bit.: a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény,
 - 4. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,
 - 5. Btk.: a Büntető Törvénykönyvről szóló 1978. évi IV. törvény,
@@ -5686,12 +4755,14 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - 11. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény,
 - 12. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
 - 13. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
-- 14. MNB tv.: a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény;
+- 14.
 - 15. Pmt.: a pénzmosás megelőzéséről és megakadályozásáról szóló törvény,
 - 16. Psztv.: a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvény,
 - 17. Ptk.: a Polgári Törvénykönyvről szóló törvény,
 - 18. Szmt.: a számvitelről szóló 2000. évi C. törvény,
 - 19. Vbt.: a választottbíráskodásról szóló 1994. évi LXXI. törvény.
+- 20. Bnytv.: a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény,
+- 21. Batv.: a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény.
 
 ### 2. számú melléklet a 2001. évi CXX. törvényhez
 
@@ -6002,353 +5073,11 @@ III. Gazdasági tevékenységről szóló jelentés
 
 ### 10. számú melléklet a 2001. évi CXX. törvényhez
 
-### 11. számú melléklet a 2001. évi CXX. törvényhez
-
-#### A befektetési alapkezelési tevékenységet végzők személyi, tárgyi, technikai feltételei
-
-Személyi feltételek
-
-- 1. A tevékenység irányítására olyan szakembert kell alkalmazni, aki büntetlen előéletű, legalább ötéves szakmai gyakorlattal rendelkezik és akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok.
-- 2. Portfóliókezelésre, befektetési eszközök és tőzsdei termékek kereskedésére olyan szakembert kell alkalmazni, aki büntetlen előéletű, legalább kétéves szakmai gyakorlattal rendelkezik és akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok.
-- 3. A back office vezetésére olyan szakembert kell alkalmazni, aki büntetlen előéletű, legalább kétéves portfóliókezelési, befektetési alapkezelési vagy pénzintézeti szakmai gyakorlattal rendelkezik és akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok.
-- 4. Az 1–3. pont esetében befektetési alapkezelőnél, európai befektetési alap kezelőjénél, befektetési vállalkozásnál, hitelintézet/biztosító/nyugdíjpénztár befektetésekkel, illetve hitelintézet letétkezeléssel foglalkozó területén, a Magyar Nemzeti Banknál, a Felügyeletnél, a minisztériumban, szabályozott piacnál, tőzsdénél, az elszámolóháznál, az ÁKK Zrt.-nél, a kincstárnál, továbbá ingatlanalap-kezelő esetében ingatlanforgalmazónál, illetve ezek külföldi megfelelőinél munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak. Tárgyi feltételek A befektetési alapkezelési tevékenységet végzőnek rendelkeznie kell megfelelő irodai elhelyezéssel, kommunikációs rendszerrel (telefon, fax, elektronikus postacím). Technikai feltételek Befektetési alapkezelést végzőnek rendelkeznie kell
-  - a) olyan nyilvántartási rendszerrel, amely biztosítja, hogy az e törvényben előírt elkülönített kezelési és nyilvántartási követelménynek megfeleljen,
-  - b) olyan portfólió-nyilvántartási rendszerrel, amely alkalmas az általa kezelt portfóliók vagyonváltozásainak naprakész – és az információs kötelezettség teljesítését lehetővé tevő – kimutatására és a belső ellenőrzés, valamint a Felügyelet által történő ellenőrzés követelményeinek teljesítésére.
-
-### 12. számú melléklet a 2001. évi CXX. törvényhez
-
-#### A befektetési alapkezelési tevékenységet végző működési szabályzatának kötelező tartalmi elemei
-
-- 1. Az érdekellentétek megelőzésére és kezelésére vonatkozó szabályok.
-- 2. A befektetési alapkezelési tevékenység és a befektetési alapkezelési tevékenységet végző egyéb tevékenységei szétválasztásának szabályai.
-- 3. A front office és a back office tevékenységek szétválasztásának szabályai.
-- 4. A szervezeten belüli döntési jogkörök meghatározásának szabályai.
-- 5. Az adatok megőrzésének szabályai.
-- 6. A titoktartás szabályai.
-- 7. A befektetési alapkezelési tevékenységet végzőnek a befektetők általi elérhetőségének szabályai.
-
-### 13. számú melléklet a 2001. évi CXX. törvényhez
-
-#### A befektetési alapkezelést végző eljárási szabályzatának kötelező tartalmi elemei
-
-- 1. Az eszközök értékelésének elveire vonatkozó szabályok.
-- 2. A partner kockázatkezelésének elveire vonatkozó szabályok.
-- 3. A tevékenység átadásának, delegálásának elveire vonatkozó szabályok.
-- 4. A befektetők tájékoztatásának módjára és gyakoriságára vonatkozó szabályok.
-- 5. A teljesítménymérés elvei, szabályai.
-- 6. Az alkalmazottakra vonatkozó szakmai képzési követelmények.
-- 7. A vezető tisztségviselők és az alkalmazottak befektetéseire vonatkozó szabályok.
-- 8. Szétosztási szabályok.
+### 11–13. számú melléklet a 2001. évi CXX. törvényhez
 
 ### 14. számú melléklet a 2001. évi CXX. törvényhez
 
-### 15. számú melléklet a 2001. évi CXX. törvényhez
-
-#### A befektetési alapkezelési tevékenységet végző által a kezelt portfóliókon elért teljesítmény, illetve hozam számításának, bemutatásának, illetve közzétételének szabályai, elvei
-
-Jelen melléklet szerint elkészített kimutatások nem helyettesítik azon jelentéseket, amelyeket a befektetési alapkezelési tevékenységet végzőnek annak érdekében kell elkészítenie, hogy megbízója a saját jelentési kötelezettségének meg tudjon felelni.
-
-A teljesítményszámítási, bemutatási és közzétételi szabályok célja, hogy a befektetők biztosak lehessenek abban, hogy a teljesítményről szóló információk teljesek és helyesek. Ezen előírások betartása, illetve a hozamszámítási módszerek egységessége azt szolgálja, hogy az egyes portfóliók – ideértve a befektetési alapokat és az önkéntes kölcsönös biztosító és magán-nyugdíjpénztári vagyonokat is – teljesítményét minél inkább összehasonlíthatóvá tegye. Ezen célok megvalósulása érdekében:
-
-- 1. Minden olyan adatot és információt, amely egy portfólión elért teljesítmény bemutatásához és az előírt számítások elvégzéséhez szükséges, össze kell gyűjteni és meg kell őrizni.
-- 2. A portfólióértékelések forrásait és módszereit a befektető számára hozzáférhetővé kell tenni.
-- 3. A portfóliókat legalább havonta értékelni kell.
-- 4. A portfólió értékelését piaci értéken kell elvégezni.
-- 5. A kamatozó kötvény típusú értékpapírok, valamint minden olyan eszköz esetén, amelyből kamatjövedelem származik, az időarányos kamatokat figyelembe kell venni az értékelésnél.
-- 6. A pénzből és pénzjellegű eszközökből származó hozamokat bele kell foglalni a teljes hozam számításába.
-- 7. A kereskedés-napi elszámolás elvét kell alkalmazni.
-- 8. A portfólió hozamának számításakor – jogszabály eltérő rendelkezésének hiányában – havi tőkesúlyozott vagy napi idősúlyozott hozamszámítást kell alkalmazni.
-- 9. A realizált és nem realizált (árfolyam) nyereséget és a bevételeket is magába foglaló teljes hozamot kell kimutatni.
-- 10. Az időszakok hozamait mértani láncba kell állítani.
-- 11. Egy évnél rövidebb időszakok teljesítményét nem lehet évesíteni.
-- 12. Mindig meg kell jelölni, hogy mely időszakra vonatkozik a hozamadat.
-- 13. A teljesítményt a kereskedési költség levonása után kell kiszámítani.
-- 14. A hozamot az osztalékon, kamaton és árfolyamnyereségen keletkező vissza nem igényelhető forrásadó levonása után kell számítani. A visszaigényelhető forrásadót figyelembe kell venni.
-- 15. Meg kell jelölni azt is, hogy a teljesítményeket bruttó vagy nettó módon, azaz a befektető által a portfóliókezelési tevékenységet végzőnek vagy kapcsolt vállalkozásának fizetett díjat figyelembe véve számítják-e.
-- 16. Meg kell jelölni minden olyan tényt, kiegészítő információt, amely a teljesítmények megítéléséhez, illetve a bemutatott teljesítmény teljes értékű magyarázata szempontjából fontos lehet.
-- 17. A teljesítményadatok bemutatásánál a tőkeáttétel és a származékos termékek használatát, mértékét is be kell mutatni oly módon, amely lehetővé teszi a kockázatok azonosítását.
-- 18. Amennyiben a portfólióhoz, annak befektetési politikájában referenciaindexet is rendeltek, ezen referenciaindex hozamát ugyanarra (ugyanazokra) az időszakra (időszakokra) és ugyanolyan hozamszámítási módszert alkalmazva kell bemutatni, amelyekre a portfólió hozama bemutatásra kerül.
-- 19. A befektetési alapkezelési tevékenységet végző teljesítményeinek bemutatásakor a hozamadatokat lehetőleg öt évre visszamenően, illetve tevékenysége megkezdésétől – a naptári éveknek megfelelő bontásban – kell bemutatni.
-
-### 16. számú melléklet a 2001. évi CXX. törvényhez
-
-A befektetési alap kezelési szabályzatának kötelező tartalmi elemei
-
-I.
-
-1. A befektetési alap neve, típusa, futamideje.
-
-2. Garanciavállalás esetén a garanciavállalás pontos feltételei.
-
-3. A kezelési szabályzat jóváhagyásáról, módosításáról szóló felügyeleti és alapkezelői határozatok száma, ideje.
-
-4. Az alapkezelő, a letétkezelő és az ingatlanértékelő szervezet neve, székhelye, tevékenységi köre és legfontosabb gazdasági adatai.
-
-5. Igénybe venni kívánt alvállalkozó neve, székhelye, rövid bemutatása igénybevételének indoka.
-
-6. A befektetési alap részletes befektetési politikája, azon belül különösen:
-
-a) a befektetési stratégia;
-
-b) a portfolió lehetséges elemei, azok tervezett arányai,
-
-c) az egyes értékpapírfajták – beleértve az egy devizában denominált értékpapírok körének – maximális, illetve minimális vagy tervezett aránya, illetve annak figyelemkeltésre alkalmas módon történő feltüntetése, ha az alap harminc százalékot meghaladó mértékben kíván azonos devizában denominált értékpapírokba fektetni, kivéve a hazai fizetőeszközben denominált értékpapírokat,
-
-d)
-
-e) a származtatott termékek, illetve a származtatott ügyletek lehetséges köre, alkalmazásuk célja, feltételei, jelentős kockázati tényezők,
-
-f) ha a tőke-, illetve hozamígéret a befektetési alap befektetési politikájával van alátámasztva, akkor a mögöttes tervezett tranzakciók leírása,
-
-g) az ingatlanalap portfoliójában lévő ingatlanok megterhelésének lehetősége és szabályai.
-
-7. A befektetési jegyekhez fűződő jogok bemutatása.
-
-8. A befektetési jegyek forgalmazásának szabályai.
-
-9. A nyíltvégű befektetési alapra kibocsátott befektetési jegy folyamatos forgalmazásának az alapkezelő által történő felfüggesztésére vonatkozó szabályok.
-
-10. A tőkenövekmény és a kifizetendő hozam megállapításának és kifizetésének részletes szabályai.
-
-11. A befektetési alapot terhelő valamennyi díj és költség tételes felsorolása, a díjak és költségek összegére vagy számítási módjára, továbbá azok elszámolására vonatkozó részletes tájékoztatás.
-
-12. Az eladási, illetve visszaváltási jutalék, egyéb a befektetőket közvetlenül terhelő költségek.
-
-13. Az összesített és az egy befektetési jegyre jutó nettó eszközérték számítási módja, gyakorisága, közzétételének módja, helye, ideje, ideértve a hibás nettó eszközérték számítás miatt szükséges elszámolási kötelezettség részletes eljárási szabályait.
-
-14. Nyíltvégű befektetési alap befektetési jegyének az eladási és visszavásárlási árszámítási módszere.
-
-15. Befektetők rendszeres és rendkívüli tájékoztatásának szabályai, annak módja, helye, ideje.
-
-16. A befektetési alap megszűnésével, átalakulásával és beolvadásával kapcsolatos rendelkezések.
-
-17. A portfolió egyes elemei értékelésének részletes szabályai.
-
-18. A nyíltvégű alapok esetében a visszaváltás igények teljesítése céljára elkülönített likvid eszközök és hitelkeret együttes legkisebb aránya.
-
-19. Nyíltvégű alapok esetében a visszaváltási igények teljesítése céljára felvett hitelre vonatkozó szabályok.
-
-20. A befektetési alap tulajdonában lévő befektetési eszközök kölcsönzésének, az eszközök terhelhetőségének szabályai.
-
-21. Amennyiben az alap befektetési alapba fektető alap és a saját tőkéjének legalább huszonöt százalékát meghaladó mértékben kíván befektetni egyetlen befektetési alapba, akkor ezen befektetési alap befektetési politikája és működési költségei.
-
-22. A származtatott termékekbe befektető befektetési alap tájékoztatója, rövidített tájékoztatója, illetve kezelési szabályzata előlapján, figyelemkeltésre alkalmas módon fel kell hívni a befektetők figyelmét az alap szokásostól eltérő kockázati szintjére, külön megjelölve az alap által a származtatott ügyletek révén felvehető nettó pozíciók összértéke és az alap saját tőkéje hányadosának megengedett legnagyobb mértékét.
-
-23. A befektetési alap kezelési szabályzata hatálybalépésének időpontja.
-
-II.
-
-1. A zártkörű befektetési alap kezelési szabályzatában az előzőekben foglaltakon túlmenően fel kell tüntetni:
-
-a)
-
-b) a jegyzés kezdő és zárónapját,
-
-c) a befektetési jegyek lehetséges tulajdonosi körét.
-
-2. Azon ingatlanalap esetében, amely befektetési politikájában adott ingatlan-beruházás(ok) megvalósítását tűzte ki célul (projektalap), az adott ingatlan-beruházás(oka)t, megvalósításuk körülményeit, feltételeit részletesen be kell mutatni.
-
-3. Európai befektetési alap esetén, amennyiben a befektetési alap a befektetési politikájából adódóan az átlagosnál nagyobb kockázatot hordoz, egy erre utaló feltűnő nyilatkozat.
-
-### 17. számú melléklet a 2001. évi CXX. törvényhez
-
-A befektetési jegy nyilvános forgalomba hozatalához szükséges nyilvános tájékoztató kötelező tartalmi elemei
-
-I.
-
-1. A nyilvános ajánlattétel, eladási ajánlattétel adatai:
-
-a) a létrehozandó, eladásra kínált, illetve az újabb befektetésijegy-sorozatot kibocsátó befektetési alap rövid bemutatása;
-
-b) jegyzési hely meghatározása;
-
-c) fizetés módja, új alap létrehozatalát célzó befektetési- jegy-sorozat forgalomba hozatala esetén a jegyzés módja;
-
-d) jegyzési ár, vételi ár; forgalomba hozatali ár (az újabb sorozatot jegyzési eljárás lefolytatása nélkül kibocsátó befektetési alap esetében az első forgalmazási napon érvényes forgalomba hozatali ár);
-
-e) a jegyzési időszak kezdete és vége;
-
-f) túl-, illetve aluljegyzés esetén követendő eljárás, amennyiben a forgalomba hozatal jegyzési eljárással történik;
-
-g) a joghatóság, háttérszabályok megnevezése;
-
-h) a befektetési jegyekhez fűződő jogok bemutatása, sorozatonként.
-
-2. Ha az alapkezelő vagy a letétkezelő társasággal szemben a befektetési jegyek eladásának megkezdését megelőző három naptári éven belül csődeljárást rendeltek el, a tájékoztatónak tartalmaznia kell az erre vonatkozó adatokat is.
-
-3. Kifejezett garanciavállalás esetén a garanciavállaló bemutatása.
-
-4. Az ingatlanértékelő, könyvvizsgáló neve, székhelye.
-
-5. A befektetések lehetséges piacának bemutatása.
-
-6. Zártvégű ingatlanalap befektetési jegyeinek ingatlanapport ellenében történő lejegyzése esetén az apportálandó ingatlanok részletes bemutatása.
-
-7. A forgalmazó és – amennyiben a forgalmazó a befektetési jegyek értékesítéséhez ügynököt vesz igénybe –, a forgalmazás ezen módjának rövid bemutatása.
-
-8. Az alapkezelő bemutatása: neve, székhelye, az alapítás időpontja, a cégbejegyzés száma, helye és ideje, a tevékenységi kör meghatározása, a működés időtartama, az üzleti év, alaptőkéje, tulajdonosi köre, a vezető tisztségviselők fontosabb személyi és szakmai adatai, gazdálkodásának fontosabb adatai (előző három év mérlegeinek összehasonlító adatai, piaci helyzet bemutatása, alkalmazotti létszáma), az általa kezelt más befektetési alapok bemutatása (indulás dátuma, befektetési politika, méret, elért éves hozam), feladata.
-
-9. A letétkezelő bemutatása: neve, székhelye, az alapítás időpontja, a cégbejegyzés száma, helye és ideje, a tevékenységi kör meghatározása, a működés időtartama, az üzleti év, alaptőkéje, tulajdonosi köre, vezető tisztségviselők fontosabb személyi és szakmai adatai, gazdálkodásának fontosabb adatai (előző három év mérlege, alkalmazotti létszáma), feladata.
-
-10. Az ingatlanértékelő bemutatása: neve, székhelye, az alapítás időpontja, a cégbejegyzés száma, helye és ideje, a tevékenységi kör meghatározása, a működés időtartama, az üzleti év, alaptőkéje, tulajdonosi köre, a vezető tisztségviselők fontosabb személyi és szakmai adatai, gazdálkodásának fontosabb adatai (előző három év mérlege), alkalmazotti létszáma, feladata.
-
-11. A nyilvános tájékoztató kötelező melléklete a 16. számú melléklet alapján összeállított kezelési szabályzat.
-
-II.
-
-Európai befektetési alap esetén a tájékoztató további tartalmi elemei:
-
-1. Igénybe venni kívánt alvállalkozó neve, székhelye.
-
-2. A befektetési alap múltbeli teljesítménye, hozama.
-
-3. A befektetők azon típusának meghatározása, amelynek a befektetési alapot ajánlják.
-
-4. A befektetési alapra vonatkozó, befektetőket is érintő adózási szabályok rövid leírása.
-
-5. A tanácsadó megnevezése, bemutatása, a befektetési alapkezelővel kötött szerződésének lényeges elemei a díjazás kivételével.
-
-6. A vezető tisztségviselők más társaságban betöltött tisztsége és fennálló munkaviszonya.
-
-III.
-
-1. Amennyiben a fenti pontok közül az alapkezelő, a letétkezelő és az ingatlan értékelő bemutatását a társaságok éves jelentéseivel helyettesítik, akkor azt nem kell a tájékoztatóba foglalni.
-
-2. A portfolió egyes elemei értékelésének szabályaira vonatkozó értékelési szabályzatot a kezelési szabályzattól külön is át lehet adni a befektetőnek.
-
-### 18. számú melléklet a 2001. évi CXX. törvényhez
-
-A rövidített tájékoztató kötelező tartalmi elemei
-
-1. A rövidített tájékoztató egy rövid és közérthető tájékoztató, amely a befektetési döntés meghozatalához szükséges lényeges, naprakész információkat tartalmazza.
-
-2. A rövidített tájékoztatónak egyértelmű módon tartalmaznia kell a következőket:
-
-1. A befektetési alap célja, a befektetési politika által kitűzött befektetési cél bemutatása,
-
-2. Az alapkezelő megnevezése, bemutatása,
-
-3. A forgalmazó megnevezése, bemutatása,
-
-4. A letétkezelő megnevezése, bemutatása,
-
-5. A befektetés alapkezelő által javasolt legrövidebb befektetési időtartama,
-
-6. A befektető által adott megbízás felvétele és az elszámolás értéknapja közti időköz bemutatása,
-
-7. Az alap befektetési politikájával kapcsolatos kockázatok bemutatása,
-
-8. A befektetőt terhelő közvetlen és közvetett költségek, valamint ezek változtatási lehetőségének bemutatása,
-
-9. A befektetők érdekvédelme: garanciák és biztonsági elemek,
-
-10. Az alap múltbeli hozama,
-
-11. Az alap által nyilvánosságra hozott információk közzétételi helye,
-
-12. A befektetési politikának az alapkezelő által egyoldalúan módosítható elemeit.
-
-3. A rövidített tájékoztatónak kötelezően tartalmaznia kell az alábbi kitételt:
-
-,,Az alap múltbeli teljesítménye, hozama nem jelent garanciát a jövőbeni teljesítményre, hozamra.''
-
-4. Európai befektetési alap esetén a rövidített tájékoztató további tartalmi elemei:
-
-1. A befektetési alap létrehozásának ideje és országa;
-
-2. Az illetékes felügyeleti hatóság megnevezése;
-
-3. Igénybe venni kívánt alvállalkozó neve, székhelye;
-
-4. A befektetők azon típusának meghatározása, amelynek az alapot ajánlják;
-
-5. Zártvégű befektetési alap esetén a befektetési alap futamideje;
-
-6. A befektetési jegyek megvásárlásának és eladásának módja;
-
-7. Az eladási, illetve visszaváltási jutalék és egyéb költségek költségviselők szerint;
-
-8. A nettó eszközérték közzétételére, illetve elérhetőségére vonatkozó információk;
-
-9. A befektetési alapra vonatkozó, befektetőket is érintő adózási szabályok rövid leírása;
-
-10. A tájékoztató közzétételének dátuma;
-
-11. A befektetési alap múltbeli teljesítménye;
-
-12. Ha van hozamfizetés, annak ideje és módja.
-
-5. Európai befektetési alap esetén a rövidített tájékoztatónak tartalmaznia kell, hogy a befektető kérésére térítésmentesen rendelkezésére bocsátják a tájékoztatót, valamint az éves és féléves jelentéseket a szerződéskötés előtt, illetve után.
-
-Európai befektetési alap esetén a rövidített tájékoztatóban meg kell jelölni a kapcsolattartót (személy, osztály, ügyfélfogadási idő), ahova további információkért lehet fordulni.
-
-### 19. számú melléklet a 2001. évi CXX. törvényhez
-
-A megszűnési jelentés kötelező tartalmi elemei
-
-A megszűnési jelentésnek legalább az alábbiakat kell tartalmaznia:
-
-a) a futamidő lejártakor a portfolióban lévő eszközök nyilvántartási értékét, eszközönkénti bontásban,
-
-b) az egyes értékesített eszközök befolyt ellenértékét,
-
-c) az esetleges járulékos és egyéb bevételeket,
-
-d) a végelszámolás során felmerült költségeket és felszámított díjakat tételesen,
-
-e) a befektetők között felosztható tőkét,
-
-f) az egy befektetési jegyre kifizethető összeget, és
-
-g) a kifizetés kezdő napját és helyét.
-
-### 20. számú melléklet a 2001. évi CXX. törvényhez
-
-|  | Alap fajtája |  |
-| --- | --- | --- |
-| nyilvános, nyílt végű értékpapír | nyilvános, zárt végű értékpapír |
-| Saját tőkére vetített, egy kibocsátóra vonatkozó limit |  |  |
-| a) megfelelően likvid tőzsdei értékpapírok | 15% | 20% |
-| b) egyéb tőzsdei értékpapírok, a 275. § b) pontja szerinti értékpapírok, nyilvános nyílt végű kollektív befektetési értékpapírok | 10% | 10% |
-| c) tőzsdén nem jegyzett értékpapírok | 2% | 10% |
-| Saját tőkére vetített, összesített limit |  |  |
-| d) ,,b” sor szerinti limitet meghaladó, megfelelően likvid tőzsdei értékpapírok | 40% | 60% |
-| e) tőzsdén nem jegyzett értékpapírok | 10% | 30% |
-| f) kollektív befektetési értékpapírok, kivéve a nyilvános nyílt végű kollektív befektetési értékpapírokat | 5% | 20% |
-| Saját tőkére vetített, egyéb limit |  |  |
-| g) azonos sorozatba tartozó állampapírok | 35% | 35%” |
-
-### 21. számú melléklet a 2001. évi CXX. törvényhez
-
-#### A befektetési jegy nyilvános kibocsátása esetén készítendő féléves és éves jelentés kötelező tartalmi elemei
-
-Az éves és féléves jelentéseknek, az abban foglaltaknak alkalmasnak kell lennie arra, hogy az alap tevékenységét, kockázatait és eredményét meg lehessen ítélni.
-
-Az éves és féléves jelentésnek legalább a következő információkat kell tartalmaznia:
-
-- 1. a befektetési alap megnevezése, típusa, futamideje;
-- 2. az alapkezelő, az igénybe vett forgalmazó és a letétkezelő társaság neve és székhelye;
-- 3. a könyvvizsgáló és az ingatlanértékelő neve és székhelye;
-- 4. a befektetési eszköz-, illetve ingatlanállomány összetétele fajtánként, típusonként, illetve a befektetési politikában meghatározott kategóriák, illetve az ingatlanállomány esetében a 23. számú melléklet szerint részletezve az időszak elején és végén;
-- 5. a tárgyidőszak elején forgalomban lévő, a tárgyidőszakban eladott, a tárgyidőszakban visszaváltott, a tárgyidőszak végén forgalomban lévő befektetési jegyek száma, a portfolió összesített nettó eszközértéke és az egy befektetési jegyre jutó nettó eszközérték;
-- 6. az alap részére igénybe vett hitel feltételei;
-- 7. a tájékoztatási időszakban az alap saját tőkéjének és az egy jegyre jutó nettó eszközértékének a változása legalább havi bontásban, valamint a kifizetett hozamok;
-- 8. a tájékoztatási időszakban az alap és referenciahozamának hozamadatai öt évre visszamenően (rövidebb eltelt időszak esetén az alap indulásától), naptári éveknek megfelelő bontásban, a 15. számú mellékletben foglaltak alkalmazásával;
-- 9. az alapkezelő működésében bekövetkezett változások, valamint a befektetési politika alakulására ható fontosabb tényezők bemutatása;
-- 10. az éves jelentés esetén az alap könyvvizsgáló által hitelesített mérlege;
-- 11. az éves jelentés esetén a befektetési alapra vonatkozó könyvvizsgálói jelentés;
-- 12. az éves jelentés esetén:
-  - a) a befektetésekből származó bevételek,
-  - b) egyéb bevételek,
-  - c) a befektetési alapkezelőnek fizetett díjak,
-  - d) a letétkezelőnek fizetett díjak,
-  - e) egyéb díjak és adók,
-  - f) a kifizetett és újra befektetett bevételek,
-  - g) a befektetett eszközökre elszámolt értékvesztés,
-  - h) más, az eszközök értékét befolyásoló változások;
-- 13. az éves jelentés esetén:
-  - a) az alapnak az adott naptári évben számolt utolsó összesített nettó eszközértéke és az egy jegyre jutó nettó eszközértéke az utolsó három év végére vonatkozóan, ide nem értve a tárgyidőszakot,
-  - b) a származtatott ügyletekre vonatkozó adatok.
+### 15–21. számú melléklet a 2001. évi CXX. törvényhez
 
 ### 22. számú melléklet a 2001. évi CXX. törvényhez
 
@@ -6394,103 +5123,16 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 
 ### 24. számú melléklet a 2001. évi CXX. törvényhez
 
-Nyilvános ingatlanalapok éves és féléves jelentésében közzéteendő információk
-
-1. Az éves jelentésben az alábbi, ingatlanonkénti adatokat kell megadni:
-
-a) az ingatlan címe; helyrajzi száma; az alábbi 2. pont szerinti funkcionális kategóriák szerinti besorolása; bruttó, illetve nettó bérbeadható területe; az építés, használatba vétel éve; tervezett tartási időtávja. Az előbbi, ingatlanonkénti adatok társasházanként összevontan is megadhatóak,
-
-b) telek besorolású ingatlannál: övezeti besorolás; beépíthetőség; szintterületi mutató; építménymagasság, minimum zöldterületi mutató; közműellátottság; építési engedély rendelkezésre állása.
-
-2. Az éves és féléves jelentésben az ingatlanállomány elemeinek alábbi, funkcionális és földrajzi szempontú kategóriákba történő besorolására vonatkozó, az egyes kategóriák szerinti bontásban megadott összesített értékadatokat kell megadni:
-
-| Funkcionális kategóriák | Ingatlanérték (Ft) |  |  |  |
-| --- | --- | --- | --- | --- |
-| Budapest és környéke | Vidék | Külföld | Összesen |
-| Telek |  |  |  |  |
-| Lakóingatlan |  |  |  |  |
-| Irodaingatlan |  |  |  |  |
-| Kereskedelmi ingatlan |  |  |  |  |
-| Logisztikai ingatlan |  |  |  |  |
-| Ipari ingatlan |  |  |  |  |
-| Vegyes hasznosítású ingatlan |  |  |  |  |
-| Fejlesztés alatt álló ingatlan |  |  |  |  |
-| Egyéb ingatlan |  |  |  |  |
-| Összesen: |  |  |  |  |
-
-A „Budapest és környéke” kategóriába Budapest és a vele közvetlenül határos települések, „Vidék” kategóriába pedig a „Budapest és környéke” kategóriába nem sorolható, de belföldön található települések sorolandók.
-
-Amennyiben egy funkcionális kategóriába a portfólióból legalább két ingatlan (társasházak e tekintetben egy ingatlannak minősíthetők) tartozik, a funkcionális kategória adat kötelezően publikálandó. Egy ingatlan esetén az ingatlan az egyéb ingatlan kategóriába is besorolható, ebben az esetben funkcionális kategória adatként ez a megjelölés is feltüntethető. Adott funkcionális kategóriába tartozik egy ingatlan, amennyiben az adott funkció szerinti hasznosítás az ingatlan értékének vagy nettó bérterületének legalább 60%-át adja. Vegyes hasznosítású az ingatlan, amennyiben egyik funkció sem domináns a hasznosíthatóság szempontjából.
-
-3. Az éves és féléves jelentésben az alábbi adatokat és mutatószámokat, funkcionális kategóriánkénti bontásban, illetve összesített adatként kell megadni:
-
-a) az adott időszakra vonatkozó nettó (áfa nélküli, bérbeadó által viselt költségekkel csökkentett) bérleti díj bevétel, továbbá ezen díjbevétel devizális megoszlása,
-
-b) bérbeadottság (fordulónapi hatályos bérleti szerződésállomány szerinti nettó bérbe adott terület osztva a teljes nettó bérbe adható területtel),
-
-c) ingatlanjövedelmezőség (a fordulónapi hatályos szerződésállományban rögzített nettó évesített bérleti díj osztva az ingatlanállomány fordulónapi nettó eszközérték szerinti értékével),
-
-d) fajlagos bérletidíj-bevétel (nettó éves bérleti díj bevétel osztva az ingatlanok nettó bérbeadható területével),
-
-e) fajlagos ingatlanértékek (ingatlanállomány fordulónapi nettó eszközérték szerinti értéke osztva az ingatlanállomány teljes bruttó területével),
-
-f) ingatlanok adott időszaki piaci értékének százalékos változása (az ingatlanok adott időszak zárónapi és kezdőnapi piaci értékének különbsége csökkentve az időszaki értéknövelő beruházásokkal, osztva az ingatlanok időszak eleji nettó eszközérték szerinti piaci értékével).
-
-4. Az éves és féléves jelentésben az alábbi adatokat, a teljes ingatlanportfólióra vonatkozóan, összesített adatként kell megadni:
-
-a) időszak elején és végén az ingatlanportfólió aránya a nettó eszközértéken belül,
-
-b) bérleti szerződések átlagos futamideje (aktuális bérleti díjjal súlyozott futamidő, határozatlan idejű szerződések esetén futamidőként a felmondási periódus hosszát alkalmazva),
-
-c) bérlők, vevők száma,
-
-d) bérleti szerződések biztosítéki szintje (biztosítékok értéke osztva a havi nettó bérleti díj és üzemeltetési költség összegével),
-
-e) tőkeáttétel (fordulónapi teljes hitelállomány értéke osztva a fordulónapi nettó eszközértékkel).
-
-5. Az éves jelentésben a bevételeken, díjakon, költségeken belül kell megadni:
-
-a) ingatlanértékesítések nyeresége (ingatlan értékesítések nyeresége a nyilvántartási értékhez képest),
-
-b) fedezeti ügyletek nyeresége/vesztesége,
-
-c) kártérítés, bánatpénz címén befolyó bevételek, illetve ilyen címen kifizetett összegek,
-
-d) a befektetési jegyek forgalmazása kapcsán a befektetők által az alapnak fizetett díjak,
-
-e) ingatlanüzemeltetési költségek,
-
-f) ingatlan-közmű költségek,
-
-g) ingatlan-karbantartási költségek,
-
-h) ingatlanbiztosítási költségek,
-
-i) ingatlanadók,
-
-j) ingatlan-értékbecslési költségek,
-
-k) ingatlanügynöki jutalékok,
-
-l) jogi költségek,
-
-m) bankköltség,
-
-n) kamatköltség.
-
 ### 25. számú melléklet a 2001. évi CXX. törvényhez
 
 #### Az Európai Unió jogának való megfelelés
 
 Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- 1. A Tanács 1985. december 20-i 85/611/EGK irányelve az átruházható értékpapírokba kollektív alapon befektető vállalkozásokra (ÁÉKBV) vonatkozó törvények, rendeletek és közigazgatási rendelkezések összehangolásáról.
-- 2. A Tanács 1988. március 22-i 88/220/EGK irányelve, amely az átruházható értékpapírokba kollektív alapon befektető vállalkozásokra (ÁÉKBV) vonatkozó törvények, rendeletek és közigazgatási rendelkezések összehangolásáról szóló 85/611/EGK irányelvet módosítja bizonyos ÁÉKBV-k befektetési politikájának vonatkozásában.
-- 3. Az Európai Parlament és a Tanács 1995. június 29-i 95/26/EK irányelve, amely a prudenciális felügyelet megerősítése céljából módosítja a 77/780/EGK és a 89/646/EGK irányelvet a hitelintézetek területén, a 73/239/EGK és a 92/49/EGK irányelvet a nem-életbiztosítás területén, a 79/267/EGK és a 92/96/EGK irányelvet az életbiztosítás területén, a 93/22/EGK irányelvet a befektetési szolgáltatók területén, valamint a 85/611/EGK irányelvet az átruházható értékpapírokba kollektív alapon befektető vállalkozások (ÁÉKBV) területén.
+- 1–3.
 - 4. Az Európai Parlament és a Tanács 1997. március 3-i 97/9/EK irányelve a befektetővédelmi rendszerekről.
 - 5. Az Európai Parlament és a Tanács 2001. május 28-i, 2001/34/EK irányelve az értékpapírok hivatalos tőzsdei jegyzésre történő bevezetéséről és az ilyen értékpapírokról közzéteendő információról.
-- 6. Az Európai Parlament és a Tanács 2002. január 21-i, 2001/107/EK irányelve az átruházható értékpapírokba kollektív alapon befektető vállalkozásokra (ÁÉKBV) vonatkozó törvények, rendeletek és közigazgatási rendelkezések összehangolásáról szóló 85/611/EGK tanácsi irányelvnek a befektetési alapokat kezelő társaságok és egyszerűsített jegyzési felhívások szabályozása tekintetében történő módosításáról.
-- 7. Az Európai Parlament és a Tanács 2002. január 21-i 2001/108/EK irányelve az átruházható értékpapírokba kollektív alapon befektető vállalkozásokra (ÁÉKBV) vonatkozó törvények, rendeletek és közigazgatási rendelkezések összehangolásáról szóló 85/611/EGK tanácsi irányelvnek az ÁÉKBV befektetéseinek tekintetében történő módosításáról.
+- 6–7.
 - 8. Az Európai Parlament és a Tanács 2002. június 6-i 2002/47/EK irányelve a pénzügyi biztosítékokról szóló megállapodásokról.
 - 9. Az Európai Parlament és a Tanács 2002. december 16-i 2002/87/EK irányelve a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról.
 - 10. Az Európai Parlament és a Tanács 2003. november 4-i 2003/71/EK irányelve az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról és a 2001/34/EK irányelv módosításáról.
@@ -6506,8 +5148,9 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 20. Az Európai Parlament és a Tanács 2006. június 14-i 2006/49/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg).
 - 21. A Bizottság 2006. augusztus 10-i 2006/73/EK irányelve a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról.
 - 22. A Bizottság 2007. március 8-i 2007/14/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról.
-- 23. A Bizottság 2007. március 19-i 2007/16/EK irányelve az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 85/611/EGK tanácsi irányelv egyes fogalommeghatározások pontosítása tekintetében történő végrehajtásáról.
+- 23.
 - 24. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
+- 25. Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez
 

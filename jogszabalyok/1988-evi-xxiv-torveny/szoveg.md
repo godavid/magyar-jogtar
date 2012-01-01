@@ -18,12 +18,12 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 - a) külföldi: a devizakorlátozások megszüntetéséről szóló törvény szerinti devizakülföldi;
 - b) külföldiek magyarországi befektetései: a külföldit belföldi székhelyű gazdasági társaság, egyesülés vagy szövetkezet vagyonából a tagsági (részvényesi, üzletrész-tulajdonosi) jogviszonya alapján megillető hányad, továbbá a külföldi székhelyű vállalkozás magyarországi fióktelepének és kereskedelmi képviseletének, valamint az a) pont szerinti külföldi állampolgár önálló vállalkozásának a vagyona;
-- c) külföldiek gazdasági célú letelepedése: a Magyar Köztársaság területén önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági tevékenység ténylegesen és tartós, huzamos jelleggel történő folytatása az erre a célra szolgáló vagy rendszeresített létesítmény, telep, iroda, üzlet vagy egyéb hely, rögzített felszerelés vagy berendezés útján;
+- c) külföldiek gazdasági célú letelepedése: Magyarország területén önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági tevékenység ténylegesen és tartós, huzamos jelleggel történő folytatása az erre a célra szolgáló vagy rendszeresített létesítmény, telep, iroda, üzlet vagy egyéb hely, rögzített felszerelés vagy berendezés útján;
 - d) EGT-államban honos vállalkozás: az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára, továbbá valamely az Európai Gazdasági Térségről szóló megállapodásban részes állam joga szerint létrejött olyan jogi személy vagy jogi személyiséggel nem rendelkező egyéb jogalany, amelynek létesítő okirat szerinti székhelye, központi ügyvezetése vagy üzletszerű gazdasági tevékenységének fő helye valamely az Európai Gazdasági Térségről szóló megállapodásban részes államban van;
 - e) határon átnyúló szolgáltatásnyújtás: önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági tevékenység folytatása gazdasági célú letelepedés nélkül;
 - f) önfoglalkoztatás: minden olyan, a jogszabályok szerint önállóan végezhető és az egyéni vállalkozásról szóló törvény hatálya alá nem tartozó gazdasági tevékenység, amelynek gyakorlója az egészségbiztosítási, illetőleg a nyugdíj-biztosítási szolgáltatások fedezetéről az erről szóló jogszabályok rendelkezései szerint maga köteles gondoskodni.
 
-3. § (1) Külföldi a Magyar Köztársaság területén önálló, üzletszerű – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – gazdasági tevékenységet – a (2) bekezdésben foglaltak kivételével – gazdasági célú letelepedés keretében a következő letelepedési formák keretében végezhet:
+3. § (1) Külföldi Magyarország területén önálló, üzletszerű – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – gazdasági tevékenységet – a (2) bekezdésben foglaltak kivételével – gazdasági célú letelepedés keretében a következő letelepedési formák keretében végezhet:
 
 - a) önálló vállalkozóként a külön törvényben meghatározott egyéni vállalkozás, illetve az általa bejegyzett egyéni cég vagy önfoglalkoztatás formájában,
 - b) külön törvényben meghatározott fióktelep vagy kereskedelmi képviselet útján vagy
@@ -37,7 +37,7 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 - d) olyan tevékenység, amely a külföldi által külföldön megszerzett belföldön lévő termék értékesítésére, illetve szolgáltatás nyújtására korlátozódik, ha ez személyes jelenlét nélkül, és az általa külföldön kibocsátott kereskedelmi kártya felhasználásával történik, és
 - e) ingatlan és természeti erőforrás térítés ellenében történő hasznosítása, ingatlanhoz és természeti erőforráshoz kapcsolódó vagyoni értékű jog térítés ellenében történő átadása, értékesítése, apportálása.
 
-3/A. § (1) Külföldi – az EGT-államban letelepedett vállalkozás kivételével – határon átnyúló szolgáltatási tevékenységet akkor folytathat a Magyar Köztársaság területén, ha azt törvény vagy nemzetközi szerződés kifejezetten megengedi.
+3/A. § (1) Külföldi – az EGT-államban letelepedett vállalkozás kivételével – határon átnyúló szolgáltatási tevékenységet akkor folytathat Magyarország területén, ha azt törvény vagy nemzetközi szerződés kifejezetten megengedi.
 
 (2) Az EGT-államban letelepedett vállalkozás határon átnyúló szolgáltatási tevékenységét a külön törvényben meghatározottak szerint folytathatja.
 
@@ -148,9 +148,9 @@ A nemzetközi gazdasági együttműködés fejlesztése, különösen a külföl
 
 38. § A vámszabadterület a vám-, a devizajogszabályok és — a 39. §-ban szabályozott eltérésekkel — a külkereskedelmi jogszabályok alkalmazása szempontjából külföldnek, a vámszabadterületi társaság az említett jogszabályok alkalmazásában külföldinek minősül. Ennek megfelelően a vámszabadterületi társaságra nem alkalmazhatók az árszabályozásra, továbbá az állami ellenőrzésre vonatkozó jogszabályok.
 
-39. § (1) A Magyar Köztársaságra kötelező nemzetközi szerződések külkereskedelemre vonatkozó rendelkezései, valamint az egyes viszonylatokra vagy árukra megállapított kiviteli és behozatali előírások a vámszabadterületi társaságra is kiterjednek.
+39. § (1) Magyarországra kötelező nemzetközi szerződések külkereskedelemre vonatkozó rendelkezései, valamint az egyes viszonylatokra vagy árukra megállapított kiviteli és behozatali előírások a vámszabadterületi társaságra is kiterjednek.
 
-(2) A vámszabadterületi társaság a kereskedelemért felelős miniszter engedélyével folytathat külkereskedelmi tevékenységet olyan árukkal és olyan országok viszonylatában, amely árukra és viszonylatokban a Magyar Köztársaságnak a kivitelre vagy a behozatalra kerülő áruk fajtáját vagy mennyiségét meghatározó nemzetközi szerződése van.
+(2)
 
 40. § (1) Vámszabadterületi társaságoknak a cégjegyzékbe történő bejegyzéséhez a vámszervezet központi szervének határozatát be kell csatolni arról, hogy azt az ingatlant, amelyen a társaság székhelye található és működését tervezik, vámszabadterületté nyilvánították.
 

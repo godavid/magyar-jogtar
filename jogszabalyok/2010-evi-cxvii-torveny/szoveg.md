@@ -33,7 +33,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 #### 2. A megújuló energia közlekedési célú felhasználásának növelése
 
-2. § (1) A Magyar Köztársaság területén a megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált részaránya a közlekedési célra felhasznált végső energiafogyasztás legalább 10%-a, amely részarányt 2020-tól kell teljesíteni.
+2. § (1) Magyarország területén a megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált részaránya a közlekedési célra felhasznált végső energiafogyasztás legalább 10%-a, amely részarányt 2020-tól kell teljesíteni.
 
 (2) Az (1) bekezdés szerinti részarányt a közlekedésben felhasznált, megújuló energiaforrásokból előállított energia mennyiségének és a közlekedésben felhasznált energia teljes mennyiségének a hányadosaként kell meghatározni, ahol
 
@@ -99,7 +99,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 (3) Amennyiben az üzemanyag-forgalmazó azért hozott a tárgyhónapban a kötelező bioüzemanyag-részaránynak megfelelő mennyiségnél kevesebb bioüzemanyagot forgalomba, mert
 
 - a) az általa beszerzett bioüzemanyag fenntarthatósági követelményeknek való megfelelésére vonatkozóan számára valótlan igazolást állított ki az, akitől a bioüzemanyagot beszerezte, vagy
-- b) a fenntarthatósági követelményeknek való megfelelésről szóló igazolás kiállítója az igazolással összefüggő feladatainak nem tett eleget és emiatt az üzemanyag-forgalmazó nem igazolta, hogy a forgalmazott bioüzemanyag előállítása fenntartható módon történt,
+- b)
 
 a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti esetben a valótlan tartalmú igazolás miatt az igazolást kiállítóra kiszabható, a Kormány rendeletében meghatározott bírság alapjával vagy a b) pont szerinti esetben kiszabható bírságalap azon részével, mely az igazolás hiánya miatt keletkezett.
 
@@ -115,15 +115,24 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 
 (7) A (6) bekezdés a) és c) pontja szerinti események fennállásának tényét, annak kezdő és befejező időpontját – az érintett bioüzemanyag-típusok megjelölésével – az energiapolitikáért felelős miniszter közleményben állapítja meg.
 
-#### 5. A bírságokra vonatkozó közös szabályok
+#### 5.
 
-8. § A 3. § és 7. § szerint fizetendő bírságok a központi költségvetés bevételét képezik, és adók módjára behajtandó köztartozásnak minősülnek.
+8. §
 
 #### 6. A közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentése
 
-9. § (1) Az üzemanyag-forgalmazó köteles nyilvántartani, az energiapolitikáért felelős miniszter rendeletében meghatározottak szerinti tartalommal, az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátást.
+9. § (1) Az üzemanyag-forgalmazó köteles nyilvántartani az energiapolitikáért felelős miniszter rendeletében meghatározottak szerinti tartalommal az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátást.
 
-(2) Az üzemanyag-forgalmazó minden naptári évre vonatkozóan, a tárgyévet követő év március 31-éig jelentést nyújt be a vámhatóságnak az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, energiaegységre számított üvegházhatású gázkibocsátásról.
+(2) Az üzemanyag-forgalmazó minden naptári évre vonatkozóan, a tárgyévet követő év március 31-éig jelentést nyújt be a vámhatóságnak:
+
+- a) az általa forgalomba hozott üzemanyag és más közlekedési célú energiatermék tekintetében a forgalomba hozott teljes mennyiségről, a beszerzési helyről és a származás helyéről, valamint
+- b) az üzemanyagból vagy más közlekedési célú energiatermékből származó, a teljes életciklusra vonatkozó, energiaegységre számított üvegházhatású gázkibocsátásról.
+
+(3) A jelentést az üzemanyag-forgalmazó az energiapolitikáért felelős miniszter rendeletében meghatározott módon hitelesíti.
+
+(4) Amennyiben az üzemanyag-forgalmazó a (2) bekezdés szerinti jelentést az előírt határidőre nem nyújtja be, vagy nem a meghatározott tartalommal nyújtja be, a vámhatóság bírságot szab ki.
+
+(5) A (4) bekezdés szerinti esetben az üzemanyag-forgalmazó egyszázezer forinttól egymillió forintig terjedő bírsággal sújtható. A bírság kiszabása során figyelembe kell venni a forgalomba hozott üzemanyag vagy energiatermék azon mennyiségét, amelyre nézve a jelentéstételt elmulasztották, valamint a tárgyévben és az azt megelőző évben a mulasztás ismétlődését.
 
 10. § (1) Az üzemanyag-forgalmazó 2020. december 31-ig köteles az Európai Unió jogi aktusában meghatározott kiindulási értékhez képest 6%-kal csökkenteni az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó energiaegységre számított üvegházhatású gázkibocsátást.
 
@@ -167,7 +176,8 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 - k) a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére, valamint a 3. § és a 7. § szerinti bírság kiszabására jogosult hatóságokat,
 - l) a 3. § és a 7. § szerinti bírság megállapításával, mérséklésével és megfizetésével kapcsolatos részletes szabályokat,
 - m) a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás mértékét,
-- n) a bioüzemanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállításával, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét.
+- n) a bioüzemanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállításával, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét,
+- o) az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátásról szóló nyilvántartás, jelentéstétel és ezek elmulasztása esetén fizetendő bírság kiszabásának és megfizetésének részletes szabályait.
 
 (2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy
 
@@ -193,7 +203,7 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 
 - a) a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illetőleg az üvegházhatású gázok kibocsátott mennyiségének nyomon követését és mérséklését célzó mechanizmus bevezetése tekintetében a 98/70/EK irányelv módosításáról, a belvízi hajókban felhasznált tüzelőanyagokra vonatkozó követelmények tekintetében az 1999/32/EK irányelv módosításáról, valamint a 93/12/EGK irányelv hatályon kívül helyezéséről szóló 2009. április 23-i 2009/30/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2009/30/EK irányelv) 1. cikk 2. pont a) alpont ii) 6. és 7. pontjának,
 - b) a 2009/30/EK irányelv 1. cikke 2. pont a) alpont ii) 8. és 9. pontjának,
-- c) a 2009/30/EK irányelv 1. cikk 5. pont (2) alpontjának,
+- c) a 2009/30/EK irányelv 1. cikk 5. pontjának,
 - d) a 2009/28/EK irányelv 2. cikk i) pontjának,
 - e) a 2009/28/EK irányelv 3. cikk (4) bekezdés a)–c) pontjának,
 - f) a 2009/28/EK irányelv 5. cikk (1) bekezdés 3. albekezdésének,

@@ -22,7 +22,7 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 
 3. § (1) E törvény hatálya alá tartozik – a (2)–(3) bekezdésben foglalt kivétellel – a belföldi székhelyű, a számvitelről szóló 2000. évi C. törvény hatálya alá tartozó gazdasági társaság.
 
-(2) Nem tartozik e törvény hatálya alá a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (2)–(3) bekezdése szerint kis- vagy mikrovállalkozásnak minősülő gazdasági társaság, továbbá a Magyar Nemzeti Bank, a Magyar Nemzeti Vagyonkezelő Zrt., továbbá a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság.
+(2) Nem tartozik e törvény hatálya alá a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény szerint kis- vagy mikrovállalkozásnak minősülő gazdasági társaság, továbbá a Magyar Nemzeti Bank, a Magyar Nemzeti Vagyonkezelő Zrt., továbbá a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság.
 
 (3) Nem tartozik e törvény hatálya alá a cégbejegyzés évében a jogelőd nélkül alapított gazdasági társaság és annak előtársasága, továbbá a közhasznú nonprofit gazdasági társaság.
 
@@ -30,17 +30,11 @@ Az Országgyűlés, annak érdekében, hogy biztosítsa az ország versenyképes
 
 4. § (1) A járulék alapja a helyi adókról szóló, többször módosított 1990. évi C. törvény 39. § (1) bekezdése alapján meghatározott adóalap.
 
-(2) A járulék mértéke (a továbbiakban: a járulék éves bruttó összege) az (1) bekezdés szerinti vetítési alap 14. §-ban meghatározott százaléka.
+(2) A járulék mértéke (a továbbiakban: a járulék éves összege) az (1) bekezdés szerinti vetítési alap 14. §-ban meghatározott százaléka.
 
-(3) A járulék éves bruttó összegéből – e törvényben meghatározott körben és mértékig – levonható a gazdasági társaság saját tevékenysége körében végzett kutatásfejlesztési tevékenység közvetlen költsége, valamint a költségvetési gazdálkodási rendszerben működő és a kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény 4. § 4. pont c) alpontjában meghatározott nonprofit kutatóhelytől a saját tevékenységhez megrendelt kutatás-fejlesztési tevékenység költsége. A levonható költségeket mind a saját szervezetben végzett, mind a vásárolt kutatás-fejlesztés esetében csökkenteni kell a levonásnál figyelembe vett költségek fedezetéül szolgáló, az államháztartás valamely alrendszeréből nyújtott támogatással.
+(3)
 
-5. § (1) A járulékfizetésre kötelezett gazdasági társaság
-
-- a) a járulék éves bruttó összegét,
-- b) a 4. § (3) bekezdése szerint elszámolható módon és mértékben felmerült kötelezettségcsökkentő tételek éves összegét,
-- c) az a) és b) pont szerinti összegek különbözeteként megállapított éves nettó kötelezettségét (a továbbiakban: a járulék éves nettó összege)
-
-maga állapítja meg és vallja be az állami adóhatósághoz az adóévet követő adóév ötödik hónapja utolsó napjáig.
+5. § (1) A járulékfizetésre kötelezett gazdasági társaság a járulék éves összegét maga állapítja meg és vallja be az állami adóhatósághoz az adóévet követő adóév ötödik hónapja utolsó napjáig.
 
 (2) Az adóévben járulékfizetésre kötelezettnek háromhavonként (előlegfizetési időszak) előleget – amelynek mértéke e szakasz (4) bekezdése alapján meghatározott járulékelőleg egynegyede – kell fizetnie a harmadik hónapot követő hó 20. napjáig.
 
@@ -55,9 +49,9 @@ maga állapítja meg és vallja be az állami adóhatósághoz az adóévet köv
 
 (6) Nem kell járulékelőleget bevallania a járulékfizetésre kötelezettnek megszűnésekor, továbbá, ha járulékbevallást a cégbejegyzési eljárás befejezése miatt ad be.
 
-(7) A járulékfizetésre kötelezettnek a járulékfizetési kötelezettség keletkezésének évében az (1)–(4) bekezdés megfelelő alkalmazásával az adóévet megelőző adóév adatai alapján kell járulékelőlegét megállapítania és arról az adóév ötödik hónapjának utolsó napjáig járulékelőleg-bevallást benyújtania. A járulékfizetési kötelezettség keletkezése évének első két előlegfizetési időszakára vonatkozóan az adózó az előlegfizetéssel egyidejűleg bevallást tesz. Az előleg mértéke a járulék várható éves nettó összegének időarányos része. Nem lehet járulékelőleget bevallani arra a negyedévre, a negyedév azon naptári hónapjára, amelyre az adózó már vallott be járulékelőleget.
+(7) A járulékfizetésre kötelezettnek a járulékfizetési kötelezettség keletkezésének évében az (1)–(4) bekezdés megfelelő alkalmazásával az adóévet megelőző adóév adatai alapján kell járulékelőlegét megállapítania és arról az adóév ötödik hónapjának utolsó napjáig járulékelőleg-bevallást benyújtania. A járulékfizetési kötelezettség keletkezése évének első két előlegfizetési időszakára vonatkozóan az adózó az előlegfizetéssel egyidejűleg bevallást tesz. Az előleg mértéke a járulék várható éves összegének időarányos része. Nem lehet járulékelőleget bevallani arra a negyedévre, a negyedév azon naptári hónapjára, amelyre az adózó már vallott be járulékelőleget.
 
-(8) A befizetett előleg és a járulék éves nettó összege közötti különbözetet az adóévet követő adóév ötödik hónapja utolsó napjáig kell befizetni, illetőleg a többletbefizetést ettől az időponttól lehet visszaigényelni.
+(8) A befizetett előleg és a járulék éves összege közötti különbözetet az adóévet követő adóév ötödik hónapja utolsó napjáig kell befizetni, illetőleg a többletbefizetést ettől az időponttól lehet visszaigényelni.
 
 (9) A járulékfizetésre kötelezett bevallási, befizetési és elszámolási kötelezettségének e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az adózás rendjéről szóló 1990. évi XCI. törvény rendelkezéseit kell alkalmazni.
 
@@ -65,14 +59,14 @@ maga állapítja meg és vallja be az állami adóhatósághoz az adóévet köv
 
 6. § A járulékot az állami adóhatósághoz kell befizetni, amely a befizetett járulékot jogszabályban szabályozott módon utalja át az Alapnak a kincstárnál vezetett számlájára.
 
-7. § A 2. § b) pontjában meghatározott központi költségvetési támogatás éves mértéke nem lehet kevesebb, mint a járulék megfizetésére kötelezetteknek a tárgyévet két évvel megelőző évre elszámolt befizetéseinek összege.
+7. §
 
 ### Az Alap felhasználása
 
 8. § (1) Az Alap pénzeszközeit a pályázati úton kiválasztott kedvezményezettek a következő jogcímeken használhatják fel:
 
 - a) a kutatás-fejlesztés kiadásainak, a kutatás-fejlesztési eredmények hasznosításának fedezetéül, valamint új tudományos és technológiai eredmények alkalmazásának elterjesztésére, beleértve az országos kutatási-fejlesztési programok, projektek finanszírozását;
-- b) a kutatás-fejlesztés és a technológiai innováció infrastrukturális feltételeinek fejlesztésére, beleértve a nemzetközi kutatási-fejlesztési hálózatokhoz, infrastruktúrához való kapcsolódás megteremtésében és működtetésében történő részvételt, összhangban a Magyar Köztársaság nemzetközi kötelezettségvállalásaival;
+- b) a kutatás-fejlesztés és a technológiai innováció infrastrukturális feltételeinek fejlesztésére, beleértve a nemzetközi kutatási-fejlesztési hálózatokhoz, infrastruktúrához való kapcsolódás megteremtésében és működtetésében történő részvételt, összhangban Magyarország nemzetközi kötelezettségvállalásaival;
 - c) a kutatás-fejlesztést és a technológiai innovációt erősítő szolgáltatások, innovációs hídképző és hálózatépítő tevékenységek támogatására, beleértve konferenciák tartásának, szakkiállítások rendezésének, kiadványok készítésének költségeit;
 - d) a technológiai innováció ösztönzésére a régiókban és a kistérségekben; a régiók és a kistérségek innovációs képességének növelésére és innovációs forrásainak támogatására;
 - e) a nemzetközi tudományos és technológiai együttműködés támogatására, beleértve a nemzetközi pályázatoknál érvényesülő utófinanszírozással összefüggő likviditási problémák áthidalásának támogatását;
@@ -92,7 +86,7 @@ maga állapítja meg és vallja be az állami adóhatósághoz az adóévet köv
 
 (3) Az Alapból támogatás nyílt pályázati rendszerben nyerhető el. Pályázaton kívüli támogatás nyújtására, beleértve a (2) bekezdésben más jogszabályból, illetve nemzetközi szerződésből fakadó kötelezettségeket és támogatásokat – a fejlesztési célú beruházások kivételével – az Alap céljaival és felhasználásának jogcímeivel összhangban az Alap tárgyévi kiadási előirányzatának 3%-át meg nem haladó mértékben kerülhet sor.
 
-(4) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül az Alapból biztosítani kell a TéT attaséi hálózat működésének költségeit, feladatai ellátásához szükséges forrásokat.
+(4)
 
 (4a) A pályázaton kívüli támogatások (3) bekezdésben meghatározott mértékén felül
 
@@ -128,12 +122,14 @@ maga állapítja meg és vallja be az állami adóhatósághoz az adóévet köv
 
 12. § E törvény alkalmazásában
 
-- a) alapkutatás: az általános tudományos és technikai tudásanyag bővítése, amely nem kapcsolódik ipari vagy kereskedelmi célkitűzéshez,
-- b) kutatás-fejlesztés: az alapkutatás, ipari vagy alkalmazott kutatás, valamint kísérleti (pre-kompetitív) fejlesztés,
-- c) ipari vagy alkalmazott kutatás: új tudásanyag megszerzésére irányuló kutatás, amelynek célja, hogy az így megszerzett tudásanyag felhasználható legyen új termékek, eljárások vagy szolgáltatások kifejlesztéséhez, illetve jelentős javulást eredményezzen a már meglévő termékekben, eljárásokban vagy szolgáltatásokban,
-- d) kísérleti (pre-kompetitív) fejlesztés: az alkalmazott kutatás eredményének tervekbe foglalása, azaz új vagy továbbfejlesztett termékek, eljárások, szolgáltatások tervezése (idetartozik a kereskedelmi felhasználásra nem kerülő prototípus elkészítése is). Nem minősül kísérleti fejlesztésnek a termékeken, termelési eljárásokban, folyamatokban, létező szolgáltatásokon végzett rutinszerű változtatás, még ha az az adott termék, eljárás, folyamat vagy szolgáltatás fejlődését is eredményezi,
-- e) technológiai innováció: minden olyan tudományos, műszaki, szervezeti, pénzügyi és kereskedelmi jellegű tevékenység, beleértve az új ismeretanyagba történő befektetéseket is, amely ténylegesen vagy szándék szerint műszakilag új vagy továbbfejlesztett termékek, eljárások és szolgáltatások megvalósításához vezet,
+- a) alapkutatás: az Innovációs tv. 4. § 1. a) pontjában meghatározott alapkutatás;
+- b) kutatás-fejlesztés: az Innovációs tv. 4. § 1. d) pontjában meghatározott kutatás-fejlesztés;
+- c) alkalmazott kutatás: az Innovációs tv. 4. § 1. b) pontjában meghatározott alkalmazott kutatás;
+- d) kísérleti fejlesztés: az Innovációs tv. 4. § 1. c) pontjában meghatározott kísérleti fejlesztés;
+- e) technológiai innováció: az Innovációs tv. 4. § 2. pontjában meghatározott technológiai innováció.
 - f) TéT: tudomány- és technológiapolitika.
+- g) saját tevékenységi körben végzett kutatás-fejlesztési tevékenység: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körben végzett kutatás-fejlesztési tevékenység;
+- h) kutatás-fejlesztési megállapodás: az Innovációs törvény 4. § 10. pont szerinti kutatás-fejlesztési megállapodás.
 
 ### Záró rendelkezések
 
@@ -143,7 +139,7 @@ maga állapítja meg és vallja be az állami adóhatósághoz az adóévet köv
 
 (3) A 7. §-ban előírt kötelezettséget először a 2007. évi költségvetési törvényben kell érvényesíteni.
 
-14. § (1) A járulék éves bruttó összege a 4. § (1) bekezdésében meghatározott vetítési alap
+14. § (1) A járulék éves összege a 4. § (1) bekezdésében meghatározott vetítési alap
 
 - a) 0,2 százaléka 2004-ben,
 - b) 0,25 százaléka 2005-ben,

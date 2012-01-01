@@ -2,7 +2,7 @@
 
 a Nemzeti Gazdasági és Társadalmi Tanácsról
 
-Az Országgyűlés, elismerve a gazdasági és társadalmi párbeszéd szerepét, a nemzeti gazdasági és társadalompolitikai stratégiák megvitatására, a társadalom különböző érdekcsoportjai közötti konszenzus elősegítése érdekében, figyelembe véve az Európai Unió többi tagállamának tapasztalatait, valamint az Európai Uniónak a Magyar Köztársaságban a 2007. évi CLXIII. törvénnyel kihirdetett Lisszaboni Szerződésben foglalt alapelveit, az alábbi törvényt alkotja:
+Az Országgyűlés, elismerve a gazdasági és társadalmi párbeszéd szerepét, a nemzeti gazdasági és társadalompolitikai stratégiák megvitatására, a társadalom különböző érdekcsoportjai közötti konszenzus elősegítése érdekében, figyelembe véve az Európai Unió többi tagállamának tapasztalatait, valamint az Európai Unió működéséről szóló szerződés alapelveit, az alábbi törvényt alkotja:
 
 #### 1. A törvény hatálya
 
@@ -17,7 +17,7 @@ Az Országgyűlés, elismerve a gazdasági és társadalmi párbeszéd szerepét
 - a) a munkaadói és munkavállalói érdek-képviseleti szervezetek, illetve érdek-képviseleti szövetségek,
 - b) az országos gazdasági kamarák,
 - c) a nemzetpolitika területén tevékenykedő civil szervezetek,
-- d) a külön törvényben meghatározott történelmi egyházak, valamint
+- d) az egyházak, valamint
 - e) a tudomány
 
 hazai és határon túli magyar képviselőinek részvételével működik.
@@ -132,6 +132,8 @@ hazai és határon túli magyar képviselőinek részvételével működik.
 (6) A Tanács tagjai egységes oldalálláspontokat kötelesek kialakítani. Döntéshozatal esetén a Tanács minden oldala egy szavazattal rendelkezik. Amennyiben a Tanács Szervezeti és Működési Szabályzata (a továbbiakban: működési szabályzat) másként nem rendelkezik, a Tanács döntéseit egyszerű többséggel hozza.
 
 (7) A Tanács a működési szabályzatát, egyéb szabályzatait és munkatervét maga állapítja meg. A működési szabályzat elfogadásához és módosításához a Tanács tagjai kétharmadának szavazata szükséges.
+
+(8) Ha a Tanács oldalai az egyes jogszabályokban előírt delegálási kötelezettségeknek a delegálási határidő lejáratát követő harminc napon belül sem tesznek eleget, akkor a delegált tagok kijelölésére a Tanács jogosult.
 
 #### 8. A Tanács működésének nyilvánossága
 

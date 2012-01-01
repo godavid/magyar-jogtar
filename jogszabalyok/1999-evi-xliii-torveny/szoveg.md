@@ -14,7 +14,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 (3) A temetés módja lehet világi és egyházi. A világi temetés szertartásrendjét az eltemettetők határozzák meg. Az egyházi temetés az egyházak hitéleti tevékenységének, vallási szokásainak tiszteletben tartásával történik.
 
-(4) E törvényben foglalt rendelkezéseket a nemzeti és etnikai kisebbségek törvényben biztosított jogainak érvényesítésével kell végrehajtani.
+(4) E törvényben foglalt rendelkezéseket a nemzetiségek törvényben biztosított jogainak érvényesítésével kell végrehajtani.
 
 ### A törvény hatálya
 
@@ -22,14 +22,14 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 (2) A törvény rendelkezéseit alkalmazni kell
 
-- a) azoknak az egyházaknak, felekezeteknek és vallási közösségeknek (a továbbiakban együtt: egyház), települési önkormányzatoknak, kisebbségi önkormányzatoknak, gazdálkodó szervezeteknek [Ptk. 685. § c) pont], közhasznú szervezeteknek, amelyek tulajdonában, kezelésében, fenntartásában, üzemeltetésében működő vagy lezárt temető, illetőleg temetkezési emlékhely vagy halotthamvasztó van;
+- a) azoknak az egyházaknak, felekezeteknek és vallási közösségeknek (a továbbiakban együtt: egyház), települési önkormányzatoknak, nemzetiségi önkormányzatoknak, gazdálkodó szervezeteknek [Ptk. 685. § c) pont], közhasznú szervezeteknek, amelyek tulajdonában, kezelésében, fenntartásában, üzemeltetésében működő vagy lezárt temető, illetőleg temetkezési emlékhely vagy halotthamvasztó van;
 - b) a temető és temetkezési emlékhely fenntartását, üzemeltetését, valamint temetkezési szolgáltatási tevékenységet végző természetes és jogi személyeknek, illetőleg annak, akire nézve e tevékenységek során jogok keletkeznek, és kötelezettségek hárulnak.
 
 (3) A törvény rendelkezéseit a műemlékvédelem alatt álló temetők, temetkezési emlékhelyek és temetési helyek tekintetében a kulturális örökség védelméről szóló törvénnyel összhangban kell alkalmazni.
 
 (4) A halvaszületett és elvetélt magzatok, csonkolt testrészek, emberi szervek, szervmaradványok eltemetésével összefüggésben – ha jogszabály másként nem rendelkezik – e törvényben foglaltakat kell alkalmazni.
 
-(5) A hősi temetőre és hősi temetési helyre vonatkozó szabályokat kell alkalmazni a Magyar Köztársaság területén levő más nemzetek hősi temetőire, hősi temetési helyeire is.
+(5) A hősi temetőre és hősi temetési helyre vonatkozó szabályokat kell alkalmazni Magyarország területén levő más nemzetek hősi temetőire, hősi temetési helyeire is.
 
 ### Értelmező rendelkezések
 
@@ -49,7 +49,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 ### Általános szabályok
 
-4. § (1) A temető tulajdonosa az állam, a települési önkormányzat, az egyház, a helyi és országos kisebbségi önkormányzat, gazdálkodó szervezet [Ptk. 685. § c) pontja] és közhasznú szervezet lehet.
+4. § (1) A temető tulajdonosa az állam, a települési önkormányzat, az egyház, a helyi és országos nemzetiségi önkormányzat, gazdálkodó szervezet [Ptk. 685. § c) pontja] és közhasznú szervezet lehet.
 
 (2) Azon a településen, ahol nincs önkormányzati tulajdonú temető, gazdálkodó szervezet vagy közhasznú szervezet a temetőtulajdonban tulajdoni hányadot akkor szerezhet, ha az önkormányzat legalább 51%-os tulajdoni hányadban tulajdonosa lesz a temetőnek. Az önkormányzat tulajdoni hányada a működés során sem csökkenthető 51% alá.
 
@@ -106,7 +106,7 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 11. § (1) A nemzeti sírkert fennállásáig nem szüntethetők meg és nem helyezhetők át a benne található temetési helyek.
 
-(2) Hősi temető, hősi temetési hely megszüntetéséhez a honvédelemért felelős miniszter jóváhagyása is szükséges.
+(2)
 
 (3) Ha a nemzeti sírkert megszűnik, a temetési helyek áthelyezéséről kell gondoskodnia annak, akinek a megszüntetés az érdekkörébe tartozik.
 
@@ -118,7 +118,7 @@ a kormányrendeletben meghatározottak szerint köteles biztosítani.
 
 (2) A temető területén belüli közcélú zöldfelületek és utak területe újabb temetési helyek létesítésével nem csökkenthető.
 
-14. § A hősi temetőt, hősi temetési helyet nemzetközi egyezményben foglaltak szerint kell fenntartani, és megőrizni.
+14. §
 
 15. § (1) Nemzeti sírkerthez – ezen belül a nemzeti panteonba – tartozó temetőket, hősi temetőket, hősi temetési helyeket, temetkezési emlékhelyeket, kegyeleti emlékhelyeket, temetési helyeket a Nemzeti Kegyeleti Bizottság határozza meg.
 
@@ -371,6 +371,45 @@ csak engedélyezett telephelyen végezheti.
 
 (5) A települési önkormányzat képviselő-testülete, fővárosban a közgyűlés a díj megállapításakor kikéri a fogyasztók területileg illetékes érdekképviseleti szerveinek véleményét.
 
+### A hősi temetőre, hősi temetési helyre vonatkozó különös szabályok
+
+40/A. § A hősi temető, hősi temetési hely védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és önkormányzati szervek, az egyházak, a civil szervezetek, illetve a jogi és természetes személyek.
+
+40/B. § (1) Hősi temetővé, hősi temetési hellyé minősítésre, azok megnyitására, áthelyezésére, megszüntetésére, az azokból történő exhumálás, a sírokon emelt síremlékek létesítésének, felújításának, átépítésének és elbontásának engedélyezésére, valamint e tevékenységek végrehajtásának ellenőrzésére a honvédelemért felelős miniszter jogosult.
+
+(2) A hősi temetési hely feletti rendelkezési jogot a honvédelemért felelős miniszter gyakorolja.
+
+(3) A hősi temetési hely mentes a sírhelyre vonatkozó megváltási és újraváltási díj megfizetésének kötelezettsége alól.
+
+(4) A hősi temetési helyre a hősi halott hozzátartozóit a honvédelemért felelős miniszter hozzájárulásával lehet eltemetni, azonban ez a körülmény a sírhely minősítését és jogszabályban biztosított különleges státuszát nem érinti.
+
+(5) A honvédelemért felelős miniszter együttműködik a Nemzeti Emlékhely és Kegyeleti Bizottsággal, különös tekintettel a nemzeti sírkert részévé nyilvánított hősi temető, hősi temetési hely vonatkozásában. A Nemzeti Emlékhely és Kegyeleti Bizottság a nemzeti sírkert részévé nyilvánított hősi temető, hősi temetési hely tekintetében a rendelkezési jogot a honvédelemért felelős miniszter hozzájárulásával gyakorolja.
+
+(6) A honvédelemért felelős miniszter az oktatásért felelős miniszterrel együttműködve gondoskodik a hősi temetőhöz, hősi temetési helyhez fűződő nemzeti értéket hordozó örökség megismerését és bemutatását elősegítő oktatási, képzési, ismeretterjesztő programok kidolgozásáról és végrehajtásáról.
+
+40/C. § (1) A honvédelemért felelős miniszter által a hősi temető, hősi temetési hely kezelésének ellenőrzésére kijelölt szerv (a továbbiakban: ellenőrző szerv) felméri és folyamatosan figyelemmel kíséri a hősi temető, hősi temetési hely állapotát, továbbá megteszi azok fenntartásához és védelméhez szükséges intézkedéseket.
+
+(2) Az ellenőrző szerv képviselője – a hősi temető, hősi temetési helyen eltemetett személyekkel összefüggő adatok tekintetében –
+
+- a) a temetővel és a hősi halottakkal kapcsolatos nyilvántartásokba, az anyakönyvi nyilvántartásokba betekinthet, valamint azokból,
+- b) a hősi temetési hellyel kapcsolatban a temető tulajdonosától, kezelőjétől, üzemeltetőjétől vagy a temetőben szolgáltatást végzőktől adatokat kérhet.
+
+(3) A temető tulajdonosa, kezelője, üzemeltetője vagy a temetőben szolgáltatást végző köteles lehetővé tenni és segíteni az ellenőrző szerv tevékenységét, valamint köteles biztosítani a hősi temetési hely ellenőrzését és az adataihoz való hozzáférést.
+
+40/D. § (1) A hősi temetőkről, hősi temetési helyekről és a hősi halottakról az ellenőrző szerv nyilvántartást vezet. A nyilvántartásban szereplő adatok kizárólag a hősi temető, hősi temetési hely fenntartásával, gondozásával kapcsolatos, e törvényben meghatározott feladatokkal kapcsolatosan használhatók fel.
+
+(2) A hősi halott e törvényben meghatározottak szerint kezelt adatait tudományos kutatást végző szerv vagy személy, a történelmi eseményekről folytatott kutatások eredményeinek bemutatásához szükséges mértékben, az ellenőrző szerv engedélyével használhatja fel és hozhatja nyilvánosságra. Az ellenőrző szerv az 1945. május 8-a előtt, valamint a második világháborúval összefüggő események következtében elhunyt hősi halottak adatait az e célból létrehozott honlapon közzéteszi.
+
+(3) Az (1) bekezdés szerinti nyilvántartás a hősi halott személyére és temetési helyére vonatkozó tartalmazza
+
+- a) – ismert hősi halott esetében – a hősi halott nevét, anyja nevét, születési helyét és időpontját, halálozási helyét és időpontját, halálának okát, rendfokozatát, katonai alakulatát és állampolgárságát,
+- b) ismeretlen és utólag sem azonosítható hősi halott esetében – ha az erre vonatkozó információ rendelkezésre áll – azt az államot, amelynek fegyveres erejében a hősi halott szolgálatot teljesített,
+- c) a hősi halott maradványait őrző hősi temető, hősi temetési hely címét, valamit a sírhelytábla, sírhelysor, sírhelyszám adatait.
+
+40/E. § A központi költségvetésről szóló törvény a honvédelemért felelős miniszter által vezetett minisztérium költségvetési fejezetében a hősi temető, hősi temetkezési helyre fordítható előirányzatot állapíthat meg, amelyet a honvédelemért felelős miniszter hősi temető, hősi temetési hely létesítésére, ápolására, vagy ehhez kapcsolódó pályázati rendszer működtetése keretében használhat fel.
+
+40/F. § A hősi temető, hősi temetési hely fenntartására, ápolására és megőrzésére e törvény rendelkezéseit nemzetközi szerződés eltérő rendelkezésének hiányában kell alkalmazni.
+
 ### Felhatalmazások
 
 41. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -380,7 +419,7 @@ csak engedélyezett telephelyen végezheti.
 - c) a temetőfenntartás és üzemeltetés, a hamvasztóüzemi építmény működési, közegészségügyi szabályait;
 - d) a temetők létesítésével, bővítésével, lezárásával, megszüntetésével és ismételt használatbavételével, valamint az eltemetéssel, a hamvasztással, az urnaelhelyezéssel, hamvak szórásával, a sírnyitással, a rátemetéssel, az exhumálással kapcsolatos részletes rendelkezéseket;
 - e) a temető, a temetkezési emlékhely, továbbá a temetési hely építményei létesítésének építési szabályait;
-- f) a Nemzeti Kegyeleti Bizottság szervezetére, tagjaira, feladataira és működésére, továbbá annak Titkárságára vonatkozó szabályokat;
+- f) a Nemzeti Emlékhely és Kegyeleti Bizottság szervezetére, tagjaira, feladataira, működésére, és Titkárságára vonatkozó szabályokat, továbbá kijelölje a Bizottság létrehozásával és felügyeletével kapcsolatos feladatokat ellátó minisztert;
 - g) a temetőszabályzat kötelező tartalmi elemeit;
 - h) a Nemzeti Kegyeleti Bizottság javaslatára a ,,Nemzeti Gyásznap'' állandó vagy eseti meghatározására, a gyász nemzeti méretű kifejezésére és megformálására vonatkozó szabályokat.
 
@@ -399,6 +438,8 @@ csak engedélyezett telephelyen végezheti.
 41/A. § Felhatalmazást kap a Kormány, hogy a temetkezési szolgáltatásokat engedélyező hatóságot rendeletben jelölje ki.
 
 41/B. § Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a temetkezési szolgáltatási engedély kiadása iránt fizetendő igazgatási szolgáltatási díjat rendeletben állapítsa meg.
+
+41/C. § Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben kijelölje a hősi temető, hősi temetési hely kezelésének ellenőrzését végző szervet és meghatározza az általa ellátandó tevékenység további feltételeit.
 
 42. § Ahol az önkormányzat a köztemető fenntartására vonatkozó kötelezettségéről kegyeleti közszolgáltatási szerződés keretében gondoskodik, a temető használatának szabályait önkormányzati rendeletben kell megállapítani.
 

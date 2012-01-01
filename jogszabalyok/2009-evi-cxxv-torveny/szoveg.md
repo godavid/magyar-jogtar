@@ -14,9 +14,9 @@ Az Országgyűlés figyelembe véve, hogy a hallássérült, valamint a siketvak
 - b) siketvak személy: olyan egyidejűleg hallás- és látássérült személy, aki kommunikációja során speciális kommunikációs rendszert használ,
 - c) magyar jelnyelv: a hallássérült személyek által használt, vizuális nyelvi jelekből álló, saját nyelvtani rendszerrel és szabályokkal rendelkező, Magyarországon kialakult önálló, természetes nyelv,
 - d) speciális kommunikációs rendszer: a hallássérült, illetve siketvak személyek által használt, e törvény mellékletében felsorolt kommunikációs eszköz,
-- e) közszolgáltatási tevékenység: a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenység, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az országgyűlési biztosok, az ügyészség, a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység, valamint a társadalombiztosítás által finanszírozott egészségügyi szolgáltatás,
+- e) közszolgáltatási tevékenység: a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenység, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az alapvető jogok biztosa, az ügyészség, a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység, valamint a társadalombiztosítás által finanszírozott egészségügyi szolgáltatás,
 
-3. § (1) A Magyar Köztársaság a magyar jelnyelvet önálló, természetes nyelvnek ismeri el.
+3. § (1) Magyarország a magyar jelnyelvet önálló, természetes nyelvnek ismeri el.
 
 (2) A magyar jelnyelvet használó személyek közösségét mint nyelvi kisebbséget megilleti a magyar jelnyelv használatának, fejlesztésének és megőrzésének, a siketkultúra ápolásának, gyarapításának és átörökítésének joga.
 

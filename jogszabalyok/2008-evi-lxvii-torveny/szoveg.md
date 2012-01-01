@@ -2,8 +2,6 @@
 
 a távhőszolgáltatás versenyképesebbé tételéről
 
-Az Országgyűlés az Alkotmány 19. § (3) bekezdés b) pontja szerinti feladatkörében eljárva a következő törvényt alkotja:
-
 ### I. Fejezet — A TÁVHŐSZOLGÁLTATÁS HATÉKONYABBÁ TÉTELÉHEZ SZÜKSÉGES INTÉZKEDÉSEK
 
 1. § A távhő lakossági felhasználóit sújtó versenyhátrány csökkentésében és megszüntetésében való közreműködés állami feladat.

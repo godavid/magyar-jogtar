@@ -2,15 +2,15 @@
 
 az államhatárról
 
-### A Magyar Köztársaság határa
+### Magyarország államhatára
 
-1. § (1) A Magyar Köztársaság területét a Föld felszínén függőlegesen áthaladó képzeletbeli síkok összessége (a továbbiakban: államhatár) határolja.
+1. § (1) Magyarország területét a Föld felszínén függőlegesen áthaladó képzeletbeli síkok összessége (a továbbiakban: államhatár) határolja.
 
 (2) Az államhatárnak a Föld felszínén haladó vonalát nemzetközi szerződések határozzák meg, amelyeket törvényben kell kihirdetni.
 
 (3) Az államhatár és a Föld felszínének metszésvonala (a továbbiakban: határvonal) pontos kijelölését határokmányok tartalmazzák, amelyeket nemzetközi szerződésként törvényben ki kell hirdetni.
 
-(4) A határvonalat a természetben határjelek jelölik, amelyek közül a magyar állam tulajdonát képezik a Magyar Köztársaság területén elhelyezett határjelek. A határjel által elfoglalt földrészlet használati joga a földmérési és térképészeti tevékenységről szóló törvényben foglaltak szerint a magyar államot illeti meg.
+(4) A határvonalat a természetben határjelek jelölik, amelyek közül a magyar állam tulajdonát képezik a Magyarország területén elhelyezett határjelek. A határjel által elfoglalt földrészlet használati joga a földmérési és térképészeti tevékenységről szóló törvényben foglaltak szerint a magyar államot illeti meg.
 
 (5) A határvonalnak a határokmány felvételét követően a természeti környezet megváltozása miatt bekövetkezett módosulásait, valamint a határvonal megváltozásával nem járó esetben határjel elhelyezését, megszüntetését és elhelyezésének megváltozását az érintett szomszédos állammal együttesen készített jegyzőkönyvben vagy más okiratban (a továbbiakban együtt: határjegyzőkönyv) kell rögzíteni, amelyet a határrendészetért felelős miniszter rendelettel hagy jóvá.
 
@@ -21,7 +21,7 @@ az államhatárról
 - a) határátkelőhely: a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló 562/2006/EK rendelet (a továbbiakban: Közösségi Kódex) 2. cikk 8. pontjában meghatározott fogalom,
 - b) a határátkelőhely üzemeltetője: jogszabály eltérő rendelkezése hiányában a határátkelőhely ingatlan tulajdonosa, illetve szerződés vagy más jogcím alapján a határátkelőhely üzemben tartója,
 - c) határátlépési pont: személyforgalmat lebonyolító, határátkelőhelynek nem minősülő hely, amelyen az államhatáron átnyúló vagy annak közvetlen közelében levő területen található műemlék, természeti érték vagy más turisztikai látványosság megtekintése vagy rendezvény látogatása céljából lehet az államhatárt átlépni,
-- d) szomszédos állam: az az állam, amelynek államhatára a Magyar Köztársaság államhatárával részben megegyezik.
+- d) szomszédos állam: az az állam, amelynek államhatára Magyarország államhatárával részben megegyezik.
 
 ### Az államhatár rendjének fenntartását biztosítószabályok
 
@@ -58,12 +58,12 @@ az államhatárról
 
 (4) Ha nemzetközi szerződés lehetővé teszi, akkor a Rendőrség – a nemzetközi és a belső határon lévő vízi út kivételével – engedélyezi a szomszédos állam illetékes szerveivel együttműködve:
 
-- a) vízi járműnek a határvíz olyan szakaszán való áthaladását, ahol mindkét part a Magyar Köztársaság területe,
+- a) vízi járműnek a határvíz olyan szakaszán való áthaladását, ahol mindkét part Magyarország területe,
 - b) vízi járműnek a határvíz olyan szakaszára való átlépését, ahol mindkét part a szomszédos állam területe.
 
 8. § (1) Azonos állam területén lévő vasútállomások között, de a másik állam területén áthaladó vasútvonalon az államhatár átlépésére és a közlekedésre nemzetközi szerződés rendelkezése az irányadó.
 
-(2) Az (1) bekezdésben meghatározott forgalomban a Magyar Köztársaság területén áthaladó vonatra a nemzetközi szerződésben előírtak szerint szabad fel- vagy arról leszállni, illetve dolgot levenni vagy feltenni.
+(2) Az (1) bekezdésben meghatározott forgalomban Magyarország területén áthaladó vonatra a nemzetközi szerződésben előírtak szerint szabad fel- vagy arról leszállni, illetve dolgot levenni vagy feltenni.
 
 9. § (1) Az államhatáron átkóborolt háziállat, valamint az államhatáron elháríthatatlan ok következtében átkerült tárgy elhelyezéséről, tartásáról, illetve tárolásáról, annak visszaadásáig az illetékes települési önkormányzat jegyzője gondoskodik.
 
@@ -75,7 +75,7 @@ az államhatárról
 
 11. § Az államhatárt nemzetközi szerződésben és törvényben meghatározott feltételekkel – ha nemzetközi szerződés vagy az Európai Unió közvetlenül alkalmazandó jogi aktusa kivételt nem tesz – a forgalom számára megnyitott, a forgalom jellegének megfelelő közúti, vasúti, vízi vagy légi határátkelőhelyen vagy a határátlépési ponton, ellenőrzés mellett szabad átlépni.
 
-12. § (1) Rendkívül indokolt esetben a határrendészetért felelős miniszter a közbiztonság védelme érdekében rendeletével – legfeljebb harminc napra, az Alkotmány 58. § (1) bekezdésében meghatározott alapvető jog korlátozásaként – részleges határzárat rendelhet el, amellyel az államhatár átlépését meghatározott személyek, járművek és szállítmányok körére kiterjedően megtilthatja.
+12. § (1) Rendkívül indokolt esetben a határrendészetért felelős miniszter a közbiztonság védelme érdekében rendeletével – legfeljebb harminc napra, az Alaptörvény XXVII. cikk (1) bekezdésében meghatározott alapvető jog korlátozásaként – részleges határzárat rendelhet el, amellyel az államhatár átlépését meghatározott személyek, járművek és szállítmányok körére kiterjedően megtilthatja.
 
 (2) Ha a részleges határzár elrendelésére
 

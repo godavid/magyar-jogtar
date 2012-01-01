@@ -52,9 +52,9 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 - a) magyar állampolgár;
 - b) vízum kiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban, valamint a menekültügyi eljárásban részt vevő személy;
-- c) nem magyar állampolgár az államának a Magyar Köztársasággal kötött nemzetközi megállapodása vagy viszonosság alapján;
+- c) nem magyar állampolgár, az államának Magyarországgal kötött nemzetközi megállapodása vagy viszonosság alapján;
 - d) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogával rendelkezik;
-- e) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel rendelkezik a Magyar Köztársaság területén, az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
+- e) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és lakóhellyel vagy szokásos és jogszerű tartózkodási hellyel rendelkezik Magyarország területén, az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 - f) humanitárius célú tartózkodási engedéllyel rendelkezik.
 
 (2) A viszonosság fennállása tekintetében az igazságügyért felelős miniszter (a továbbiakban: miniszter) nyilatkozata irányadó.
@@ -327,7 +327,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (9) Az e törvény szerinti eljárás kezdeményezése iránti kérelem előterjesztése illeték- és díjfizetési kötelezettséggel nem jár; az eljárásban felmerült tolmácsolási és fordítási költségek viselésére azonban köteles a fél, kivéve
 
-- a) a kisebbségi szervezet nevében eljáró személy vagy a nemzeti és etnikai kisebbségek jogairól szóló törvény hatálya alá tartozó természetes személy által benyújtott kérelem tárgyában hozott döntés fordítási költségeinek viselésére, valamint, ha a hatóság nem magyar állampolgárságú, a magyar nyelvet nem ismerő személy ügyében – ideértve a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet megbízásából eljáró természetes személyt is – magyarországi tartózkodásának tartama alatt hivatalból indít azonnali intézkedéssel járó eljárást vagy a természetes személy ügyfél azonnali jogvédelemért fordult a hatósághoz,
+- a) a nemzetiségi szervezet nevében eljáró személy vagy a nemzetiségek jogairól szóló törvény hatálya alá tartozó természetes személy által benyújtott kérelem tárgyában hozott döntés fordítási költségeinek viselésére, valamint, ha a hatóság nem magyar állampolgárságú, a magyar nyelvet nem ismerő személy ügyében – ideértve a jogi személy, illetve jogi személyiséggel nem rendelkező szervezet megbízásából eljáró természetes személyt is – magyarországi tartózkodásának tartama alatt hivatalból indít azonnali intézkedéssel járó eljárást vagy a természetes személy ügyfél azonnali jogvédelemért fordult a hatósághoz,
 - b) ha a 28. § (2) bekezdésében foglaltak szerint kap tájékoztatást,
 - c) ha támogatásban részesül, vagy ha a támogatás iránti kérelmét nem a rászorultság hiánya miatt utasították el,
 - d) ha e törvény kifejezetten így rendelkezik.
@@ -557,7 +557,7 @@ tart.
 
 66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kötő
 
-- a) jogvédelemmel foglalkozó egyesület, alapítvány, kisebbségi önkormányzat, jogi oktatást végző egyetem (a továbbiakban e Fejezetben együtt: jogi segítő szervezet),
+- a) jogvédelemmel foglalkozó egyesület, alapítvány, nemzetiségi önkormányzat, jogi oktatást végző egyetem (a továbbiakban e Fejezetben együtt: jogi segítő szervezet),
 - b) ügyvéd, ügyvédi iroda és a tevékenységét Magyarországon állandó jelleggel végző európai közösségi jogász (a továbbiakban együtt: ügyvéd).
 - c)
 

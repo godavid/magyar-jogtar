@@ -120,20 +120,25 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
 
 ### Az állami erdőkre vonatkozó szabályok
 
-8. § (1) A védelmi és közjóléti elsődleges rendeltetésű, az állam kizárólagos tulajdonában álló erdő a kincstári vagyon részét képezi és forgalomképtelen.
+8. § (1) A nemzeti vagyonról szóló törvényben nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonként meghatározott
 
-(2) A gazdasági elsődleges rendeltetésű természetes erdő, természetszerű erdő és származék erdő természetességi állapotú, az állam kizárólagos tulajdonában álló, 5 hektárnál nagyobb, természetben összefüggő erdő a kincstári vagyon részét képezi és forgalomképtelen.
+- a) védelmi és közjóléti elsődleges rendeltetésű, az állam tulajdonában álló erdő, valamint
+- b) a gazdasági elsődleges rendeltetésű, természetes erdő, természetszerű erdő és származék erdő természetességi állapotú, az állam tulajdonában álló, 5 hektárnál nagyobb, természetben összefüggő erdő
 
-(3) Az (1) és (2) bekezdés hatálya alá nem tartozó, az állam kizárólagos tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület a kincstári vagyon részét képezi és korlátozottan forgalomképes.
+a kincstári vagyon részét képezi.
 
-(4) Az állam kizárólagos tulajdonában álló, gazdasági elsődleges rendeltetésű,
+(2)
+
+(3) Az (1) bekezdés hatálya alá nem tartozó, az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület a kincstári vagyon részét képezi és korlátozottan forgalomképes.
+
+(4) Az állam 100%-os tulajdonában álló, gazdasági elsődleges rendeltetésű,
 
 - a) 5 hektárnál nem nagyobb, természetben összefüggő, természetes erdő, természetszerű erdő és származék erdő természetességi állapotú erdő,
 - b) 5 hektárnál nagyobb, természetben összefüggő, átmeneti erdő, kultúrerdő és faültetvény természetességi állapotú erdő,
 
 állami tulajdonból történő kikerülésére kizárólag azonos vagy magasabb természetességi állapotú erdővel történő birtokösszevonási célú önkéntes földcsere vagy csere útján, az optimális állami birtokszerkezet kialakítása céljából kerülhet sor.
 
-(5) Az állam kizárólagos tulajdonában álló,
+(5) Az állam 100%-os tulajdonában álló,
 
 - a) gazdasági elsődleges rendeltetésű, 5 hektárnál nem nagyobb, természetben összefüggő, átmeneti erdő, kultúrerdő és faültetvény természetességi állapotú erdő,
 - b) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület,
@@ -142,7 +147,7 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
 
 (6) A (4)–(5) bekezdés szerinti földcseréhez, valamint vagyonátruházáshoz az erdő védelmi rendeltetése szerint feladat- és hatáskörrel rendelkező miniszter egyetértése szükséges.
 
-(7) Az állam kizárólagos tulajdonában álló erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonból csak abban az esetben kerülhet ki, ha nem szomszédos az állam kizárólagos tulajdonában álló erdővel.
+(7) Az állam 100%-os tulajdonában álló erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonból csak abban az esetben kerülhet ki, ha nem szomszédos az állam 100%-os tulajdonában álló erdővel.
 
 (8) Az optimális állami birtokszerkezet kialakítása során végrehajtott birtokösszevonási célú önkéntes földcsere továbbá csere esetén a védelmi és közjóléti elsődleges rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
 
@@ -475,7 +480,7 @@ lehet.
 - e) az egészségügyért felelős miniszter,
 - f) a honvédelemért felelős miniszter,
 - g) a határrendészetért felelős miniszter,
-- h) a vízgazdálkodásért felelős miniszter,
+- h) a vízügyi igazgatási szervek irányításáért felelős miniszter,
 - i) a közlekedésért felelős miniszter,
 - j) az érintett települési önkormányzat jegyzője,
 - k) a kultúráért felelős miniszter,
@@ -672,7 +677,7 @@ az e törvény végrehajtására kiadott jogszabályban meghatározott formában
 
 - a) az erdészeti magánút létesítése, bővítése,
 - b) védelmi és közjóléti elsődleges rendeltetésű erdőben az erdőterv módosítása,
-- c) védelmi és közjóléti, valamint az állam kizárólagos tulajdonában álló gazdasági elsődleges rendeltetésű erdőben a növedékfokozó gyérítés, a tarvágás, a fokozatos felújítóvágás, az egészségügyi fakitermelés és a szálaló vágás.
+- c) védelmi és közjóléti, valamint az állam 100%-os tulajdonában álló gazdasági elsődleges rendeltetésű erdőben a növedékfokozó gyérítés, a tarvágás, a fokozatos felújítóvágás, az egészségügyi fakitermelés és a szálaló vágás.
 
 (2) Az erdészeti hatóság köteles
 
@@ -1440,9 +1445,9 @@ AZ ERDŐ ŐRZÉSE
 - b) a fakitermeléssel érintett terület egészén vagy annak jól elkülönülő, 0,5 ha-t meghaladó nagyságú részén a visszamaradó faállomány egyedeinek tíz százaléka vagy annál nagyobb hányada megsérül,
 - c) az erdőgazdálkodó megszegi a fenyőgyanta gyűjtésének a 76. §-ban előírt feltételét.
 
-110. § Az erdőgazdálkodási bírság és az erdővédelmi bírság a költségvetési törvény szerinti központosított bevétel.
+#### 110. §
 
-111. § A határidőre meg nem fizetett erdővédelmi járulék, az erdőgazdálkodási és erdővédelmi bírság adók módjára behajtandó köztartozás.
+111. § A határidőre meg nem fizetett erdővédelmi járulék adók módjára behajtandó köztartozás.
 
 ### XIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

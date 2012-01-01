@@ -6,13 +6,21 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 ### I. Fejezet — A törvény hatálya
 
-1. § E törvény hatálya azokra a egyesületekre terjed ki, amelyek nyilvántartott tagsággal rendelkeznek, és amelyek a nyilvántartásba vételüket végző bíróság előtt kinyilvánítják, hogy e törvény rendelkezéseit magukra nézve kötelezőnek ismerik el.
+1. § E törvény hatálya azokra az egyesületekre terjed ki, amelyek nyilvántartott tagsággal rendelkeznek, és amelyek a nyilvántartásba vételüket végző bíróság előtt kinyilvánítják, hogy e törvény rendelkezéseit magukra nézve kötelezőnek ismerik el.
 
 ### II. Fejezet — A párt működése
 
 2. § (1) A pártok munkahelyen (szolgálati helyen, tanintézetben) szervezetet nem hozhatnak létre és nem működtethetnek.
 
-(2)
+(2) Pártnak csak természetes személy lehet a tagja.
+
+(3) Párt alapítója és tisztségviselője csak olyan személy lehet, aki az országgyűlési képviselők választásán vagy a helyi önkormányzati képviselők és polgármesterek választásán választható.
+
+(4) A párt tagja a párt szervei által hozott határozat ellen csak az egyesülési jogról szóló törvény és a Polgári törvénykönyv egyesületekre vonatkozó rendelkezései, vagy e törvény megsértése esetén indíthat pert.
+
+(5) A párt törvénysértése esetén az ügyész keresetet indít a párt ellen.
+
+(6) Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 11. § (3), (6) és (7) bekezdésének a civil szervezetekre irányadó rendelkezését a pártra is alkalmazni kell.
 
 ### III. Fejezet — A párt megszűnése
 
@@ -28,7 +36,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (3) A bíróság az ügyészség indítványára — a párt egyesületként való további működésének érintetlenül hagyásával — megállapítja a párt működésének megszűnését, ha a párt egymást követő két általános országgyűlési képviselői választáson nem állít jelöltet.
 
-(4) A (3) bekezdésben említett esetben a egyesület megszűnésének vagyoni következményeire továbbra is e törvény rendelkezései az irányadóak.
+(4) A (3) bekezdésben említett esetben az egyesület megszűnésének vagyoni következményeire továbbra is e törvény rendelkezései az irányadóak.
 
 (5) A párt feloszlása esetén a párt bejegyzett képviselője a következő tartalmú közleményt köteles megjelentetni a Magyar Közlönyben:
 
@@ -45,23 +53,23 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 ### IV. Fejezet — A párt vagyona és gazdálkodása
 
-4. § (1) A párt vagyona a tagok által fizetett díjakból, az állami költségvetésből juttatott támogatásból, az állam által e törvény 5. §-a alapján ingyenesen átadott ingatlanokból, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok és magánszemélyek vagyoni hozzájárulásaiból, végintézkedés alapján magánszemélyek hagyatékából, a pártnak a 6. §-ban meghatározott gazdálkodó tevékenységéből, illetőleg a párt által alapított vállalat és egyszemélyes korlátolt felelősségű társaság adózott nyereségéből képződik.
+4. § (1) A párt vagyona a tagok által fizetett díjakból, a központi költségvetésből juttatott támogatásból, az állam által e törvény 5. §-a alapján ingyenesen átadott ingatlanokból, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok és magánszemélyek vagyoni hozzájárulásaiból, végintézkedés alapján magánszemélyek hagyatékából, a pártnak a 6. §-ban meghatározott gazdálkodó tevékenységéből, illetőleg a párt által alapított vállalat és egyszemélyes korlátolt felelősségű társaság adózott nyereségéből képződik.
 
 (2) A párt részére — a 4. § (1) bekezdésében foglalt kivételektől eltekintve — költségvetési szerv, továbbá állami vállalat, állami részvétellel működő gazdasági társaság, közvetlen költségvetési támogatásban vagy költségvetési szervi támogatásban részesülő alapítvány vagyoni hozzájárulást nem adhat, a párt költségvetési szervtől, továbbá állami vállalattól, állami részvétellel működő gazdasági társaságtól, közvetlen költségvetési támogatásban vagy költségvetési szervi támogatásban részesülő alapítványtól vagyoni hozzájárulást nem fogadhat el.
 
 (3) A párt vagyoni hozájárulást más államtól nem fogadhat el. A párt névtelen adományt nem fogadhat el; az ilyen adományt be kell fizetni a 8. § (1) bekezdésében említett alapítvány céljaira.
 
-(4) Az a párt, amely a (2)—(3) bekezdésben foglalt szabályt megsértve vagyoni hozzájárulást fogadott el, köteles annak értékét — az Állami Számvevőszék felhívására — tizenöt napon belül az állami költségvetésnek befizetni. Késedelem esetén a tartozást adók módjára kell behajtani. A párt költségvetési támogatását ezen kívül az elfogadott vagyoni hozzájárulás értékét kitevő összeggel csökkenteni kell.
+(4) Az a párt, amely a (2)—(3) bekezdésben foglalt szabályt megsértve vagyoni hozzájárulást fogadott el, köteles annak értékét — az Állami Számvevőszék felhívására — tizenöt napon belül a központi költségvetésnek befizetni. Késedelem esetén a tartozást adók módjára kell behajtani. A párt költségvetési támogatását ezen kívül az elfogadott vagyoni hozzájárulás értékét kitevő összeggel csökkenteni kell.
 
 (5) Ha a párt részére a vagyoni hozzájárulást nem pénzben nyújtották, köteles annak értékeléséről (értékének meghatározásáról) gondoskodni. Ha a párt a (2) és (3) bekezdésben foglalt szabályt megsértve tiltott, nem pénzbeli hozzájárulást fogadott el, annak értékét az Állami Számvevőszék állapítja meg.
 
-5. § (1) E törvény alapján az állam tulajdonából — a (2) bekezdésben foglaltak szerint — állami költségvetési támogatásra jogosult pártok tulajdonába kerülnek ingyenesen a 3. számú mellékletben felsorolt ingatlanok az ott meghatározott tulajdoni hányadok szerint.
+5. § (1) E törvény alapján az állam tulajdonából — a (2) bekezdésben foglaltak szerint — költségvetési támogatásra jogosult pártok tulajdonába kerülnek ingyenesen a 3. számú mellékletben felsorolt ingatlanok az ott meghatározott tulajdoni hányadok szerint.
 
-(2) A párt e törvény rendelkezései szerint állami költségvetési támogatásra jogosult. Az állami költségvetésből a pártok támogatására fordítható összeg 25%-át — egyenlő arányban — az Országgyűlésben az országos listán mandátumot szerzett pártok között kell felosztani. A fennmaradó 75%-nak megfelelő összeg, az országgyűlési választások eredménye alapján a pártra, illetőleg a párt jelöltjeire az első érvényes fordulóban leadott szavazatok arányában illeti meg a pártokat. Nem jogosult költségvetési támogatásra az a párt, amely a szavazáson részt vett választók szavazatának 1%-át nem szerzi meg.
+(2) A párt e törvény rendelkezései szerint költségvetési támogatásra jogosult. A központi költségvetésről szóló törvényben a pártok támogatására fordítható összeg 25%-át — egyenlő arányban — az Országgyűlésben az országos listán mandátumot szerzett pártok között kell felosztani. A fennmaradó 75%-nak megfelelő összeg, az országgyűlési választások eredménye alapján a pártra, illetőleg a párt jelöltjeire az első érvényes fordulóban leadott szavazatok arányában illeti meg a pártokat. Nem jogosult költségvetési támogatásra az a párt, amely a szavazáson részt vett választók szavazatának 1%-át nem szerzi meg.
 
 (3) A költségvetési támogatás felosztása szempontjából a választás eredményét első ízben a képviselői megbízatás érvényességének megállapítását követő hónap első napjától kell figyelembe venni.
 
-(4) A pártok támogatására fordítandó összeget az állami költségvetésről szóló törvény állapítja meg. A költségvetési támogatások kifizetése negyedévenként történik, a negyedév első napján.
+(4) A pártok támogatására fordítandó összeget a központi költségvetésről szóló törvény állapítja meg. A költségvetési támogatások kifizetése negyedévenként történik, a negyedév első napján.
 
 6. § (1) A párt a költségeinek fedezése és vagyonának gyarapítása érdekében a következő gazdálkodó tevékenységeket folytathatja:
 
@@ -86,7 +94,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (2) A pénzügyi kimutatásban az egy naptári év alatt adott, ötszázezer forintot meghaladó hozzájárulásokat, illetve a százezer forintnak megfelelő értéket meghaladó külföldről származó hozzájárulásokat — a hozzájárulást adó megnevezésével és az összeg megjelölésével — külön kell feltüntetni.
 
-(3) A párt gazdálkodására egyebekben a egyesületek gazdálkodására vonatkozó általános szabályokat kell alkalmazni.
+(3) A párt gazdálkodására egyebekben az egyesületek gazdálkodására vonatkozó általános szabályokat kell alkalmazni.
 
 ### IV/A. Fejezet — A párt működését segítő, tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítvány
 
@@ -99,7 +107,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 - a) amelyet olyan párt alapított, amely az adott negyedév első napján az 5. § (2) bekezdése alapján költségvetési támogatásra jogosult, és
 - b) amelynek alapító okirat szerinti célja kizárólag az (1) bekezdés szerinti tevékenységre irányul.
 
-(4) A költségvetési támogatásra jogosult alapítványok támogatásának naptári évre számított összege nem lehet alacsonyabb, mint az állami költségvetésben a tárgyévet megelőző évben a pártok működését segítő, tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványok támogatására tervezett előirányzatok összege.
+(4) A költségvetési támogatásra jogosult alapítványok támogatásának naptári évre számított összege nem lehet alacsonyabb, mint a központi költségvetésről szóló törvényben a tárgyévet megelőző évben a pártok működését segítő, tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványok támogatására tervezett előirányzatok összege.
 
 (5) A költségvetési támogatás az alapítványt az azt alapító pártra, valamint e párt jelöltjeire az országgyűlési képviselők utolsó általános választásán az első érvényes fordulóban leadott szavazatok arányában illeti meg.
 
@@ -115,7 +123,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (2) Államigazgatási szerv a párt gazdasági-pénzügyi ellenőrzésre nem jogosult.
 
-(3) Az Állami Számvevőszék kétévenként ellenőrzi azoknak a pártoknak a gazdálkodását, amelyek rendszeres állami költségvetési támogatásban részesültek.
+(3) Az Állami Számvevőszék kétévenként ellenőrzi azoknak a pártoknak a gazdálkodását, amelyek rendszeres költségvetési támogatásban részesültek.
 
 (4) Ha az Állami Számvevőszék azt észleli, hogy a párt gazdálkodása körében jogellenesen járt el, felhívja a törvényes állapot helyreállítására. Súlyosabb törvénysértés esetén, vagy ha a párt nem tesz eleget a felhívásnak, az Állami Számvevőszék elnöke indítványozza a bíróság eljárását.
 
@@ -125,23 +133,19 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (2) E törvény hatálybalépésével egyidejűleg — a párt vagy annak tagja vonatkozásában — hatályát veszti minden olyan jogszabályi rendelkezés, amely valamely párt vagy annak tagjával kapcsolatban rendelkezést tartalmaz.
 
-12. §
+12. § Az I-IV. Fejezet, az V. Fejezet, a 15. §, a 16. § és az 1–3. számú melléklet az Alaptörvény VIII. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 13. §
 
-14. § Az e törvény hatálybalépésekor működő pártoknak a törvény hatálybalépésétől számított három hónapon belül kell kérniük nyilvántartásba vételüket. E pártok bejegyzése nem érinti jogi személyiségük jogfolytonosságát.
+14. §
 
 15. § Ha már bejegyzett egyesület pártként kíván működni, köteles bejelenteni a bíróságnak, hogy a pártok működéséről és gazdálkodásáról szóló törvényt magára nézve kötelezőnek ismeri el, és alapszabályát egyidejűleg a bíróságnak benyújtani.
 
-16. § Pártként az a egyesület működhet, amely bejegyzési kérelmével, illetőleg a 15. §-ban említett bejelentésével egyidejűleg a 2. számú mellékletben meghatározottak szerinti vagyonmérlegét a bírósághoz benyújtotta.
+16. § Pártként az az egyesület működhet, amely bejegyzési kérelmével, illetőleg a 15. §-ban említett bejelentésével egyidejűleg a 2. számú mellékletben meghatározottak szerinti vagyonmérlegét a bírósághoz benyújtotta.
 
 17. §
 
-18. § (1) Az a párt, amely a 6. § (3)—(4) bekezdésében meghatározott tilalom alá eső gazdasági tevékenységet folytat, 1989. december 31-ig köteles ezt a helyzetet megszűntetni.
-
-(2) A pártok szervezeteit a bíróságokon, az Országgyűlés hivatali szervezetében, az ügyészségeken a törvény hatálybalépésével egyidejűleg, az államigazgatási szerveknél 1989. december 31-ig, a fegyveres erőknél és a rendőrségen 1990. december 31-ig, az egyéb munkahelyeken az országgyűlési képviselői választások előtt legalább kilencven nappal kell megszűntetni.
-
-(3) A 2. § (2) bekezdésének rendelkezéseivel ellentétes helyzetet 1989. december 31-ig kell megszűntetni.
+18. §
 
 19. §
 
@@ -153,7 +157,7 @@ Bevételek:
 
 1. Tagdíjak
 
-2. Állami költségvetésből származó támogatás
+2. Központi költségvetésből származó támogatás
 
 3. Képviselői csoportnak nyújtott állami támogatás
 
@@ -231,7 +235,7 @@ A vagyon megnevezése Ft-ban
 - 326. Beruházási juttatás
 - 34. Szállítók
 - 35. Elszámolás a munkavállalókkal
-- 36. Elszámolás az állami költségvetéssel
+- 36. Elszámolás a központi költségvetéssel
 - 37. Egyéb elszámolások
 - 39. Átmenő passzívák
 - 4. Alapok

@@ -13,7 +13,11 @@ a kárpótlás iránti kérelmek benyújtásának határidejéről és az állam
 - c) a Kpt. I. 21. §-ának c) pontja alapján a kárpótlásra jogosult kizárólag az állandó lakóhelye szerinti településen árverésre kijelölt termőföldre árverezhet;
 - d) a Kpt. III. 2. §-a szerinti, az élet elvesztéséért járó egyösszegű kárpótlásban, illetőleg annak reá eső hányadában a kárpótlásra jogosult csak akkor részesülhet, ha a kárpótlás összegét a kárpótlási kérelmet a Kpt. III. 14. §-a alapján benyújtott hozzátartozók között még nem osztották fel.
 
-2–5. §
+2. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
+
+(2) Ha az eljárás során az ügyfél az eljárás jogerős befejezése előtt elhunyt, a jogutódlásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény jogutódlásra vonatkozó szabályait kell alkalmazni.
+
+3–5. §
 
 6. § (1) Ez a törvény a kihirdetését követő 30. napon lép hatályba.
 

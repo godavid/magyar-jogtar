@@ -10,11 +10,11 @@ A befektetési szolgáltatási tevékenység hazai és európai szabályainak eg
 
 1. § Ha nemzetközi szerződés vagy e törvény eltérően nem rendelkezik, e törvény hatálya kiterjed
 
-- a) a Magyar Köztársaság területén székhellyel rendelkező személy és szervezet által a Magyar Köztársaság területén végzett
+- a) a Magyarország területén székhellyel rendelkező személy és szervezet által Magyarország területén végzett
   - aa) befektetési szolgáltatási tevékenységre,
   - ab) befektetési szolgáltatási tevékenységet kiegészítő szolgáltatásra (a továbbiakban: kiegészítő szolgáltatás),
   - ac) árutőzsdei szolgáltatásra,
-- b) a Magyar Köztársaság területén székhellyel rendelkező vállalkozás az Európai Unió más tagállamában vagy az Európai Gazdasági Térséget létrehozó megállapodásban részes más állam területén végzett határon átnyúló vagy fióktelep formájában folytatott
+- b) a Magyarország területén székhellyel rendelkező vállalkozás az Európai Unió más tagállamában vagy az Európai Gazdasági Térséget létrehozó megállapodásban részes más állam területén végzett határon átnyúló vagy fióktelep formájában folytatott
   - ba) befektetési szolgáltatási tevékenységére, és
   - bb) kiegészítő szolgáltatására, és
 - c) az a) és b) pontban szereplők e törvény szerinti felügyeletére.
@@ -36,14 +36,14 @@ végez befektetési szolgáltatási tevékenységet,
 3. § (1) A 8. §, 13. §, 22. §, 24. §, 27–31. §, 37–39. §, 97–107. §, 121. §, 124–141. §, 155–170. § és 172–175. § kivételével a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni
 
 - a) a Magyar Nemzeti Banknak (a továbbiakban: MNB) az MNB tv.-ben meghatározott alapvető feladatain kívül végzett,
-- b) az Államadósság Kezelő Központ Zrt.-nek (a továbbiakban: ÁKK Zrt.) az Áht. 113/A. §-ának (5) bekezdése szerinti államadósság kezelésen kívül végzett, és
-- c) a Magyar Államkincstárnak (a továbbiakban: kincstár) az Áht. 113/A. §-ának (6) bekezdése szerinti
+- b) az Államadósság Kezelő Központ Zrt.-nek (a továbbiakban: ÁKK Zrt.) törvényben meghatározottak szerinti államadósság-kezelésen kívül végzett, és
+- c) az államkincstárnak (a továbbiakban: kincstár) az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett
 
 befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás nyújtására.
 
 (2) Ha e törvény eltérően nem rendelkezik, a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetre – a 8. § (5) bekezdése, 13. §, 15–16. §, 22. § (1)–(3) bekezdése, 25. § (1) bekezdése, 37–39. §, 60. §, 97–99. §, 100. § (1) bekezdés e) pont, 105–107. §, 121. §, 124–139. § és 4. melléklet kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet kell érteni.
 
-(3) A Tpt. szerinti befektetési alapkezelő befektetési szolgáltatási tevékenységet végezhet és kiegészítő szolgáltatást nyújthat azzal, hogy e tevékenysége, illetőleg szolgáltatása tekintetében – a 8. § (5) bekezdésének a)–e) pontja, 22. §, 24–26. §, 37–39. §, 73–75. §, 100–107. § és 124–139. § kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
+(3) A Batv. szerinti befektetési alapkezelő a Batv.-ben meghatározott körben befektetési szolgáltatási tevékenységet végezhet és kiegészítő szolgáltatást nyújthat azzal, hogy e tevékenysége, illetve szolgáltatása tekintetében – a 8. § (5) bekezdésének a)–e) pontja, 22. §, 24–26. §, 37–39. §, 73–75. §, 100–107. § és 124–139. § kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
 
 ### II. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -52,7 +52,7 @@ befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás 
 (2) E törvény és az e törvény felhatalmazása alapján kiadott jogszabályokban
 
 - 1. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
-- 2. ÁÉKBV: a Tanács 85/611/EGK irányelve alapján létrehozott, átruházható értékpapírokba kollektív alapon befektető forma,
+- 2. ÁÉKBV: a Batv-ben meghatározott fogalom,
 - 3. árjegyző: az a saját számlás kereskedést folytató befektetési vállalkozás, amely egy pénzügyi eszközre folyamatos vételi és eladási kötelezettséget vállal az általa meghatározott árakon,
 - 4. áru: minden vagyoni értékkel bíró, forgalomképes, birtokba vehető dolog, illetve dolog módjára hasznosítható természeti erő, ide nem értve a pénzügyi eszközt,
 - 5. átruházható értékpapír: a tőkepiacon forgalomképes értékpapír a fizetőeszköz kivételével,
@@ -96,10 +96,10 @@ befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás 
 - 33. jegyzési garanciavállalás: az értékpapír saját számlára történő lejegyzésére, illetve megvásárlására vonatkozó kötelezettségvállalás vagy a jegyzés vagy eladás meghiúsulásának elkerülése érdekében szerződésben vállalt mennyiségű értékpapír lejegyzésére, illetőleg megvásárlására vonatkozó kötelezettségvállalás,
 - 34. kereskedési szándékkal tartott pozíció: a rövid távú újraértékesítés szándékával vagy a vételi és eladási árak közötti tényleges vagy várható különbözetből, valamint egyéb ár- vagy kamatlábváltozásokból származó rövid távú haszonszerzés szándékával tartott pozíció, amelybe beletartoznak mind a saját számlás, mind az ügyfelek által adott megbízások végrehajtásából és az árjegyzésből származó pozíciók,
 - 35. kiszervezés: olyan megállapodás egy befektetési vállalkozás és egy harmadik személy között, amelynek keretében e harmadik személy olyan tevékenységet végez, amelyet egyébként a befektetési vállalkozás maga végezne,
-- 36. kollektív befektetési forma: az azonos szerződési feltételek mellett, az ügyfelek által átadott eszközök egymástól el nem különített, együttes kezelésével létrehozott és működtetett befektetési forma, amelynek célja, hogy az ügyfelek számára portfóliókezelési szolgáltatást nyújtson, illetőleg tagjaiként az ügyfelek közvetve vegyenek igénybe ilyen szolgáltatást,
+- 36. kollektív befektetési forma: a Batv-ben meghatározott fogalom,
 - 37. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer (a továbbiakban: KHR),
 - 38. központi szerződő fél: a Tpt.-ben meghatározott fogalom,
-- 39. külföldi befektetési vállalkozás: az a befektetési vállalkozás, amelynek székhelye nem a Magyar Köztársaság területén van,
+- 39. külföldi befektetési vállalkozás: az a befektetési vállalkozás, amelynek székhelye nem Magyarország területén van,
 - 40. különleges célú gazdasági egység: kizárólag a külön törvény szerinti értékpapírosítási ügylet végrehajtása céljából létrehozott jogalany, amely működhet alap (értékpapírosító alap) vagy társaság (értékpapírosító társaság) formájában,
 - 41. lakossági ügyfél: a szakmai ügyfélnek nem minősülő ügyfél,
 - 42. leányvállalat: az a vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol azzal, hogy a leányvállalat valamennyi leányvállalatát is az anyavállalat leányvállalatának kell tekinteni,
@@ -204,15 +204,15 @@ befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás 
 
 (2) Befektetési szolgáltatási tevékenység az e törvényben és külön jogszabályban meghatározott feltételek teljesítése esetén kezdhető meg és folytatható.
 
-(3) A harmadik országban székhellyel rendelkező befektetési vállalkozás tevékenységét a Magyar Köztársaság területén fióktelepén keresztül végezheti.
+(3) A harmadik országban székhellyel rendelkező befektetési vállalkozás tevékenységét Magyarország területén fióktelepén keresztül végezheti.
 
-(4) A más EGT-államban székhellyel rendelkező befektetési vállalkozás a Magyar Köztársaság területén határon átnyúló tevékenységet végezhet.
+(4) A más EGT-államban székhellyel rendelkező befektetési vállalkozás Magyarország területén határon átnyúló tevékenységet végezhet.
 
 8. § (1) Befektetési szolgáltatási tevékenység és kiegészítő szolgáltatás – a (2)–(4) bekezdésben foglaltak figyelembevételével – a Pénzügyi Szervezetek Állami Felügyelete (a továbbiakban: Felügyelet) engedélyével végezhető, illetve nyújtható.
 
 (2) A külföldi befektetési vállalkozás – ide nem értve a (3) bekezdésben foglalt befektetési vállalkozást – fióktelepe befektetési szolgáltatási tevékenységet akkor végezhet, illetőleg kiegészítő szolgáltatást akkor nyújthat, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével.
 
-(3) A más EGT-államban székhellyel rendelkező befektetési vállalkozás a Magyar Köztársaság területén határon átnyúló tevékenységet akkor végezhet vagy fióktelepet akkor létesíthet, ha rendelkezik a hatáskörrel bíró felügyeleti hatóságnak az adott tevékenység végzésére jogosító engedélyével és a 27. § (5) bekezdésében, illetőleg a 27. § (8) bekezdésében meghatározott feltételek teljesültek.
+(3) A más EGT-államban székhellyel rendelkező befektetési vállalkozás Magyarország területén határon átnyúló tevékenységet akkor végezhet vagy fióktelepet akkor létesíthet, ha rendelkezik a hatáskörrel bíró felügyeleti hatóságnak az adott tevékenység végzésére jogosító engedélyével és a 27. § (5) bekezdésében, illetve a 27. § (8) bekezdésében meghatározott feltételek teljesültek.
 
 (4) Kiegészítő szolgáltatás nyújtására vonatkozó engedély – kivéve ha a kérelmező a Tpt. szerinti elszámolóház vagy központi értéktár – befektetési szolgáltatási tevékenység végzésére jogosító engedély nélkül, önállóan nem szerezhető.
 
@@ -256,7 +256,7 @@ végezheti.
 
 teljesítése esetén nyújtható.
 
-(3) Külföldi befektetési vállalkozás árutőzsdei szolgáltatást a Magyar Köztársaság területén csak fióktelepén keresztül nyújthat.
+(3) Külföldi befektetési vállalkozás árutőzsdei szolgáltatást Magyarország területén csak fióktelepén keresztül nyújthat.
 
 11. § (1) Árutőzsdei szolgáltatás – a (2) bekezdésben foglaltak figyelembevételével – a Felügyelet engedélyével nyújtható.
 
@@ -362,7 +362,7 @@ induló tőkével kell rendelkeznie.
 
 (2) A gazdasági társasági formában működő befektetési vállalkozásra és árutőzsdei szolgáltatóra a Gt., a szövetkezeti formában működő árutőzsdei szolgáltatóra az Sztv., a külföldi vállalkozás fióktelepére az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(3) A befektetési vállalkozás, amelynek székhelye a Magyar Köztársaság területén található, a központi irodáját is a Magyar Köztársaság területén jelöli ki.
+(3) A befektetési vállalkozás, amelynek székhelye Magyarország területén található, a központi irodáját is Magyarország területén jelöli ki.
 
 17. § (1) A befektetési vállalkozás a szervezetén belül az egyes szervezeti egységeket és az ezek működésére és eljárására vonatkozó szabályzatokat úgy alakítja ki, hogy biztosítsa szervezeti egységeinek és szervezeti megoldásainak megfelelőségét és hatékonyságát, beleértve a hiányosságok kezelésére vonatkozó intézkedéseket, valamint hogy a létrejövő szervezeti felépítés és annak működése – összhangban a befektetési vállalkozás méretével, tevékenységének jellegével és összetettségével –
 
@@ -440,15 +440,17 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 
 ### VI. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁS ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK SZEMÉLYI FELTÉTELEI
 
-22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább két büntetlen előéletű, három év szakirányú szakmai gyakorlattal rendelkező természetes személy, munkaviszony keretében köteles ellátni.
+22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy, munkaviszony keretében köteles ellátni, aki a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (2) Fióktelep formájában működő befektetési vállalkozás – ide nem értve a más EGT-államban székhellyel rendelkező befektetési vállalkozás fióktelepét – vezető állású személyei között legalább egy olyan magyar állampolgárságú, devizabelföldi személynek kell lennie, aki legalább egy éve állandó belföldi lakóhellyel rendelkezik.
 
 (3) A befektetési vállalkozás a működésének és tevékenysége végzésének irányítására a vezető állású személyek közül első számú vezetőt nevez ki.
 
-(4) Az a hitelintézet, amely befektetési szolgáltatási tevékenységet végez, a befektetési szolgáltatási tevékenység irányítására olyan büntetlen előéletű személyt köteles kinevezni, aki legalább három év szakirányú szakmai gyakorlattal rendelkezik.
+(4) Az a hitelintézet, amely befektetési szolgáltatási tevékenységet végez, a befektetési szolgáltatási tevékenység irányítására olyan személyt köteles kinevezni, aki legalább három év szakirányú szakmai gyakorlattal rendelkezik, és aki a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
-23. § Az árutőzsdei szolgáltató az üzletág irányítására olyan büntetlen előéletű személyt nevez ki, aki legalább kettő év szakirányú szakmai gyakorlattal rendelkezik.
+(5) Az (1) és a (4) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni: Btk. XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (Btk. 233. §), a hatóság félrevezetése (Btk. 237. §), a hamis tanúzás (Btk. 238. §), a hamis tanúzásra felhívás (Btk. 242. §), a mentő körülmény elhallgatása (Btk. 243. §), a bűnpártolás (Btk. 244. §), a Btk. XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (Btk. 261. §), a nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), a légi jármű, vasúti, a vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §), a bűnszervezetben részvétel (Bt. 263/C. §), a visszaélés atomenergia alkalmazásával (Btk. 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §), az önbíráskodás (Btk. 273. §), a Btk. XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a Btk. XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények.
+
+23. § Az árutőzsdei szolgáltató az üzletág irányítására olyan személyt nevez ki, aki legalább kettő év szakirányú szakmai gyakorlattal rendelkezik, és aki a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján bizonyítja, hogy a 22. § (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 24. § (1) A 22. § (1) és (4) bekezdése, valamint a 23. § alkalmazása szempontjából szakmai gyakorlatként vehető figyelembe
 
@@ -533,7 +535,7 @@ tisztségviselőként, köztisztviselőként vagy alkalmazottként befektetési 
 - b) részvénykönyvének másolatát,
 - c) a meghatározott mértékű induló tőke befizetésének igazolását, nyilatkozatot az erre vonatkozó okirati bizonyítékkal együtt arra, hogy az induló tőke befizetéséhez szükséges összeg az alapításban részt vevő személy törvényes jövedelméből származik vagy a felelősségbiztosítási szerződést,
 - d) a végezni kívánt tevékenység megnevezését és a kérelmező döntési, irányítási rendszerét is tartalmazó szervezeti és működési szabályzatot,
-- e) egy nyilatkozatot arról, hogy a befektetési vállalkozás irányítása a Magyar Köztársaság területén létesítendő központi irodában történik,
+- e) egy nyilatkozatot arról, hogy a befektetési vállalkozás irányítása Magyarország területén létesítendő központi irodában történik,
 - f) több telephely esetén azon telephely tárgyi-technikai feltételeinek leírását, ahol a tevékenységet folytatni kívánja,
 - g) az olyan gazdasági társaság megnevezését, székhelyét és tevékenységi körét, amelyben a kérelmezőnek részesedése van, feltüntetve a részesedés mértékét,
 - h) számviteli politikájának és számviteli rendjének leírását,
@@ -687,13 +689,15 @@ tisztségviselőként, köztisztviselőként vagy alkalmazottként befektetési 
 - b) a minősített befolyás megszerzéséhez szükséges pénzügyi forrás törvényes eredetének igazolását,
 - c) harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti hatáskörrel rendelkező adóhatósággal, vámhatósággal, társadalombiztosítási szervvel szemben nincs tartozása,
 - d) annak igazolását, hogy egyéb tulajdonosi érdekeltsége és tevékenysége nem veszélyezteti a pénzügyi intézmény működését,
-- e) természetes személy kérelmező esetén a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítványt, vagy a személyes joga szerinti ennek megfelelő okiratot,
+- e)
 - f) a kérelmező arra vonatkozó nyilatkozatát, hogy megfelel a (4) és (5) bekezdésben meghatározott feltételeknek,
 - g) nem természetes személy kérelmező esetén a kérelem benyújtásakor hatályos létesítő okiratát, harminc napnál nem régebbi okirati igazolást arról, hogy a személyes joga szerinti bejegyzése, nyilvántartásba vétele megtörtént, nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, valamint vezető állású személyével szemben e törvényben meghatározott kizáró okok nem állnak fenn,
-- h) a kérelmező arra vonatkozó nyilatkozatát, hogy a minősített befolyás megszerzése a befektetési vállalkozás Magyar Köztársaság területén található központi irodából történő irányítását nem veszélyezteti,
+- h) a kérelmező arra vonatkozó nyilatkozatát, hogy a minősített befolyás megszerzése a befektetési vállalkozás Magyarország területén található központi irodából történő irányítását nem veszélyezteti,
 - i) nem természetes személy kérelmező esetén a kérelmező tulajdonosi szerkezetének részletes leírását,
 - j) a 28. § (1) bekezdésének t) és u) pontjában meghatározott nyilatkozatokat,
 - k) a minősített befolyás megszerzése következtében a befektetési vállalkozással szoros kapcsolatba kerülő természetes személy hozzájárulását a személyes adatainak az összevont alapú, vagy a kiegészítő felügyelet érdekében történő kezeléséhez.
+
+(2a) Természetes személy kérelmező az (1) bekezdés szerinti engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja azt a tényt, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (3) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
@@ -701,7 +705,8 @@ tisztségviselőként, köztisztviselőként vagy alkalmazottként befektetési 
 
 - a) akinek tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyása nem veszélyezteti a befektetési vállalkozás független, megbízható és körültekintő tulajdonosi irányítását,
 - b) akinek üzleti tevékenysége, kapcsolatainak jellege vagy más vállalkozásokkal fennálló közvetlen és közvetett tulajdoni részesedésének szerkezete a felügyeleti tevékenységet nem akadályozza,
-- c) aki jó üzleti hírnévvel rendelkezik.
+- c) aki jó üzleti hírnévvel rendelkezik,
+- d) aki – természetes személy esetén – a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és e tényt a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja.
 
 (5) A kérelmező, tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyása különösen akkor veszélyezteti a befektetési vállalkozás független, megbízható és körültekintő tulajdonosi irányítását, ha
 
@@ -1550,7 +1555,7 @@ elkészíti és írásban vagy más tartós adathordozón az ügyfél rendelkez�
 
 (4) Egy adott részvény piacaként az ezen részvényt érintő, az EGT-államok területén lévő végrehajtási helyszínen végrehajtott összes megbízást kell tekinteni, ide nem értve az adott részvény szokásos piaci ügyletméretét meghaladó méretű ügyleteket.
 
-(5) A Felügyelet azon részvény esetében, melynek likviditás szempontjából leginkább érintett piacát felügyeli, a Bizottság 1287/2006/EK rendeletében meghatározott feltételek alapján legalább évente meghatározza azt a részvényosztályt, amelybe az tartozik, az adott piacon az adott részvényre vonatkozóan végrehajtott megbízások számtani átlagértéke alapján. Ezt az információt honlapján az összes piaci résztvevő számára közzéteszi.
+(5) A Felügyelet azon részvény esetében, melynek likviditás szempontjából leginkább érintett piacát felügyeli, a Bizottság 1287/2006/EK rendeletében meghatározott feltételek alapján legalább évente meghatározza azt a részvényosztályt, amelybe az tartozik, az adott piacon az adott részvényre vonatkozóan végrehajtott megbízások számtani átlagértéke alapján. Ezt az információt honlapján az összes piaci résztvevő számára közzéteszi, valamint továbbítja az Európai Értékpapír-piaci Hatóságnak.
 
 (6) A rendszeres internalizáló a (2) bekezdés szerinti vételi és eladási árfolyamokat az érvényes piaci helyzetnek megfelelően alakítja ki, valamint
 
@@ -1851,16 +1856,9 @@ felelős azzal, hogy egyúttal biztosítja a működéshez és a tevékenység v
 
 ### Könyvvizsgálat
 
-97. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a könyvvizsgálói feladatok ellátására annak az érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgálónak ad megbízást, aki vagy amely a Gt. könyvvizsgálóra vonatkozó rendelkezéseinek megfelel és
+97. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a könyvvizsgálói feladatok ellátására annak az érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgálónak, illetve könyvvizsgáló cégnek ad megbízást, aki, illetve amely a Gt. könyvvizsgálóra vonatkozó rendelkezéseinek megfelel és rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel.
 
-- a) rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel,
-- b) nem rendelkezik a befektetési vállalkozásban, illetőleg árutőzsdei szolgáltatóban közvetlen vagy közvetett tulajdonnal,
-- c) közeli hozzátartozója nem rendelkezik a befektetési vállalkozásban, illetőleg árutőzsdei szolgáltatóban közvetlen vagy közvetett tulajdonnal,
-- d) nincs a befektetési vállalkozással, illetőleg az árutőzsdei szolgáltatóval szemben fennálló tartozása,
-- e) közeli hozzátartozójának nincs a befektetési vállalkozással, illetőleg az árutőzsdei szolgáltatóval szemben fennálló tartozása, és
-- f) a befektetési vállalkozás, az árutőzsdei szolgáltató minősített befolyással rendelkező tulajdonosa a könyvvizsgáló társaságban nem rendelkezik közvetlen vagy közvetett tulajdonnal.
-
-(2) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató természetes személy könyvvizsgálójának megbízatása legfeljebb öt évig tarthat, és nem hosszabbítható meg, valamint a könyvvizsgálói társaság által alkalmazott vagy megbízott könyvvizsgáló legfeljebb öt évig láthat el könyvvizsgálói feladatokat ugyanannál a befektetési vállalkozásnál, illetőleg árutőzsdei szolgáltatónál.
+(2) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató természetes személy könyvvizsgálójának megbízatása legfeljebb 5 évig tarthat és a megbízatás lejártát követő harmadik év után lehet újabb megbízási szerződést kötni ugyanazon könyvvizsgálóval. A könyvvizsgáló cég nevében könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló legfeljebb 5 évig láthat el könyvvizsgálói feladatokat ugyanannál a befektetési vállalkozásnál, illetőleg árutőzsdei szolgáltatónál, és a megbízatás lejártát követő 2 üzleti éven belül nem láthat el újra – ugyanannál a befektetési vállalkozásnál, illetőleg árutőzsdei szolgáltatónál – könyvvizsgálói feladatot.
 
 (3) A könyvvizsgáló egyidejűleg legfeljebb öt befektetési vállalkozásnál, illetőleg öt árutőzsdei szolgáltatónál láthat el könyvvizsgálói feladatot, és az egy befektetési vállalkozástól, illetőleg árutőzsdei szolgáltatótól származó jövedelme vagy árbevétele nem haladhatja meg az éves jövedelmének vagy árbevételének harminc százalékát azzal, hogy ha a könyvvizsgáló egy könyvvizsgáló társaság alkalmazottja vagy megbízottja, akkor ennek a könyvvizsgálói társaságnak az éves árbevételének legfeljebb tíz százaléka származhat egy befektetési vállalkozástól, illetőleg árutőzsdei szolgáltatótól.
 
@@ -2144,7 +2142,7 @@ teszi közzé.
 
 112. § (1) A befektetési vállalkozás a 111. § (1) bekezdése szerinti megállapodást azzal
 
-- a) a Magyar Köztársaság területén székhellyel, lakhellyel (tartózkodási hellyel) rendelkező függő ügynökkel köthet, amely szerepel a Felügyelet 159. § (2) bekezdésében meghatározott nyilvántartásában, vagy
+- a) a Magyarország területén székhellyel, lakhellyel (tartózkodási hellyel) rendelkező függő ügynökkel köthet, amely szerepel a Felügyelet 159. § (2) bekezdésében meghatározott nyilvántartásában, vagy
 - b) más EGT-államban székhellyel, lakóhellyel (tartózkodási hellyel) rendelkező függő ügynökkel köthet, amelyet a székhelye, lakóhelye (tartózkodási helye) szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága vagy a 159. § (3) bekezdése szerinti esetben a Felügyelet nyilvántartásba vett.
 
 (2) Az árutőzsdei szolgáltató a 111. § (1) bekezdése szerinti megállapodást az (1) bekezdés a) pontjában meghatározott függő ügynökkel köthet.
@@ -2158,7 +2156,7 @@ teszi közzé.
 
 114. § (1) Befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, illetőleg az árutőzsdei szolgáltatás közvetítésére irányuló tevékenységet függő ügynökként – a (2) bekezdésben foglalt kivétellel – az végezhet, aki szerepel a Felügyelet 159. § (2) bekezdése szerinti nyilvántartásában és megfelel a 111–116. §-ban foglalt rendelkezéseknek.
 
-(2) A más EGT-államban székhellyel rendelkező közvetítő a Magyar Köztársaság területén határon átnyúló tevékenységet akkor végezhet és fióktelepet akkor létesíthet, ha a hatáskörrel rendelkező felügyeleti hatósága, illetőleg a 159. § (3) bekezdésében meghatározott esetben a Felügyelet nyilvántartásba vette.
+(2) A más EGT-államban székhellyel rendelkező közvetítő Magyarország területén határon átnyúló tevékenységet akkor végezhet és fióktelepet akkor létesíthet, ha a hatáskörrel rendelkező felügyeleti hatósága, vagy a 159. § (3) bekezdésében meghatározott esetben a Felügyelet nyilvántartásba vette.
 
 (3) A Felügyelet – kérelmére – azt a függő ügynököt veszi nyilvántartásba, aki megfelel az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak.
 
@@ -2204,7 +2202,7 @@ teszi közzé.
 
 116. § (1) Természetes személy függő ügynök az lehet, aki
 
-- a) büntetlen előéletű,
+- a) a Bnytv. 72. § (3) bekezdése alapján kibocsátott hatósági bizonyítvány útján igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű,
 - b) nem áll tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt,
 - c) ellen a Felügyelet vagy más EGT-állam felügyeleti hatósága az elmúlt három évben, határozatában nem állapította meg a befektetési szolgáltatási tevékenységre vagy a kiegészítő szolgáltatásra, illetőleg az árutőzsdei szolgáltatásra vonatkozó jogszabályokban vagy jogszabály szerinti szabályzatokban foglaltak megsértését.
 
@@ -2261,7 +2259,7 @@ szemben.
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn
 
 - a) a hatáskörében eljáró Felügyelettel, Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal,
-- b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, az Áht. 120/B. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+- b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, az Áht. 63. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 - d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
 - e) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését folytató nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
@@ -2269,8 +2267,8 @@ szemben.
 - g) külön törvényben meghatározott feltételek teljesülése esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
 - h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 - i) az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal,
-- j) a feladatkörében eljáró országgyűlési biztossal
-- k)
+- j) a feladatkörében eljáró alapvető jogok biztosával
+- k) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
 
 szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsdei szolgáltatóhoz intézett írásbeli megkeresése esetén.
 
@@ -2434,7 +2432,7 @@ kell eleget tenni.
 
 (6) A befektetési vállalkozás és az árutőzsdei szolgáltató köteles a tevékenységéről, az általa megkötött ügyletekről külön jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek, és az MNB-nek adatot szolgáltatni.
 
-(7) A Magyar Köztársaság területén bejegyzett befektetési vállalkozás köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság lett vagy ezen viszony módosul, illetőleg megszűnik.
+(7) A Magyarország területén bejegyzett befektetési vállalkozás köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társasággá vagy vegyes pénzügyi holding társasággá válik, és ha ezen viszony módosul vagy megszűnik.
 
 ### XXII. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ JOGUTÓD NÉLKÜLI MEGSZŰNÉSE ÉS AZ ÁLLOMÁNY-ÁTRUHÁZÁS
 
@@ -2476,7 +2474,7 @@ kell eleget tenni.
 
 ### Felszámolás
 
-131. § A befektetési vállalkozás és az árutőzsdei szolgáltató felszámolásával kapcsolatos eljárás lefolytatásában a Fővárosi Bíróság kizárólagos illetékességgel rendelkezik.
+131. § A befektetési vállalkozás és az árutőzsdei szolgáltató felszámolásával kapcsolatos eljárás lefolytatásában a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik.
 
 132. § (1) A befektetési vállalkozás és az árutőzsdei szolgáltató felszámolási eljárásában az eljárás felfüggesztésének nincs helye.
 
@@ -2568,7 +2566,7 @@ nyilatkozatát az átadó befektetési vállalkozásnak, illetőleg árutőzsdei
 
 (2) A multilaterális kereskedési rendszer az e törvényben meghatározott feltételek teljesítése esetén létesíthető és működtethető.
 
-(3) Külföldi piacműködtető tevékenységét a Magyar Köztársaság területén – a (4) bekezdésben foglalt kivétellel – csak fióktelepén keresztül végezheti.
+(3) Külföldi piacműködtető tevékenységét Magyarország területén – a (4) bekezdésben foglalt kivétellel – csak fióktelepén keresztül végezheti.
 
 (4) A más EGT-államban székhellyel rendelkező piacműködtető határon átnyúló tevékenységet végezhet.
 
@@ -2576,7 +2574,7 @@ nyilatkozatát az átadó befektetési vállalkozásnak, illetőleg árutőzsdei
 
 (2) A külföldi piacműködtető – ide nem értve a (3) bekezdésben foglaltakat – fióktelepe multilaterális kereskedési rendszert akkor létesíthet vagy működtethet, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeletének az adott tevékenység végzésére jogosító engedélyével.
 
-(3) A más EGT-államban székhellyel rendelkező piacműködtető a Magyar Köztársaság területén határon átnyúló tevékenységet akkor végezhet, ha rendelkezik a hatáskörrel rendelkező felügyeleti hatóságnak az adott tevékenység végzésére jogosító engedélyével.
+(3) A más EGT-államban székhellyel rendelkező piacműködtető Magyarország területén határon átnyúló tevékenységet akkor végezhet, ha rendelkezik a hatáskörrel rendelkező felügyeleti hatóságnak az adott tevékenység végzésére jogosító engedélyével.
 
 144. § (1) A piacműködtető olyan kereskedési, nyilvántartási rendszerrel, eljárással és szervezeti megoldással rendelkezik, amely biztosítja
 
@@ -2719,7 +2717,8 @@ alapján a Bizottság 1287/2006/EK rendeletben foglalt feltételek szerint indok
 
 - a) a befektetési vállalkozás és az árutőzsdei szolgáltató esetén: négy,
 - b) a más EGT-államban székhellyel rendelkező befektetési vállalkozás magyarországi fióktelepe esetén: négy,
-- c) a függő ügynök és a külföldi befektetési vállalkozás magyarországi képviselete esetén: egy.
+- c) külföldi befektetési vállalkozás magyarországi képviselete esetén: egy,
+- d) a függő ügynök esetén legalább egy, de minden ötven, általa megbízott további közvetítő (115. § (4) bekezdés) után: egy.
 
 157. § (1) A befektetési vállalkozás által fizetendő változó díj éves mértéke
 
@@ -2760,9 +2759,9 @@ alapján a Bizottság 1287/2006/EK rendeletben foglalt feltételek szerint indok
 
 valamint az ezen adatokban bekövetkező változást.
 
-(2) A Felügyelet – a (3) és (4) bekezdésben foglaltakra figyelemmel – nyilvántartást vezet a 114. § (3) bekezdése alapján a befektetési vállalkozás és az árutőzsdei szolgáltató által megbízható függő ügynökökről, akik lakóhelye (tartózkodási helye), illetőleg székhelye a Magyar Köztársaság területén található.
+(2) A Felügyelet – a (3) és (4) bekezdésben foglaltakra figyelemmel – nyilvántartást vezet a 114. § (3) bekezdése alapján a befektetési vállalkozás és az árutőzsdei szolgáltató által megbízható függő ügynökökről, akik lakóhelye (tartózkodási helye), vagy székhelye Magyarország területén található.
 
-(3) Ha a Magyar Köztársaság területén székhellyel rendelkező befektetési vállalkozás függő ügynöke olyan más EGT-államban rendelkezik székhellyel, amely az ott székhellyel rendelkező befektetési vállalkozás számára nem teszi lehetővé függő ügynök igénybevételét, a Felügyelet – a Magyar Köztársaság területén székhellyel rendelkező befektetési vállalkozás 113. § (1) bekezdése szerinti bejelentése alapján – nyilvántartásba veszi.
+(3) Ha a Magyarország területén székhellyel rendelkező befektetési vállalkozás függő ügynöke olyan más EGT-államban rendelkezik székhellyel, amely az ott székhellyel rendelkező befektetési vállalkozás számára nem teszi lehetővé függő ügynök igénybevételét, a Felügyelet – a Magyarország területén székhellyel rendelkező befektetési vállalkozás 113. § (1) bekezdése szerinti bejelentése alapján – nyilvántartásba veszi.
 
 (4) A Felügyelet a (2) és (3) bekezdés szerint vezetett nyilvántartásában a függő ügynökkel kapcsolatosan a 113. § (2) bekezdésében foglalt adatokat tartja nyilván.
 
@@ -2879,11 +2878,18 @@ kezelheti.
 - r) a multilaterális kereskedési rendszer működését felfüggesztheti,
 - s) a befektetési vállalkozást az irányítási és kockázatkezelési rendszerére, valamint a 106. § szerinti belső tőkemegfelelés értékelési folyamatára vonatkozó szabályzatok, eljárások, stratégiák és módszerek megerősítésére kötelezheti,
 - t) a befektetési vállalkozást a 105. § (5) bekezdése szerinti többlet-tőkekövetelmény elérésére kötelezheti azzal, hogy a befektetési vállalkozás többlet-tőkekövetelménye nem haladhatja meg a 105. § (2) bekezdése szerinti érték kétszeresét, és
-- u) a multilaterális kereskedési rendszerben kereskedés tárgyát képező pénzügyi eszköz kereskedését felfüggesztheti, valamint előírhatja valamely pénzügyi eszköz kereskedésből történő kivezetését.
+- u) a multilaterális kereskedési rendszerben kereskedés tárgyát képező pénzügyi eszköz kereskedését felfüggesztheti, valamint előírhatja valamely pénzügyi eszköz kereskedésből történő kivezetését,
+- v) kötelezheti a befektetési vállalkozást, hogy a javadalmazási politika hatálya alá tartozó személyek teljesítményjavadalmazása a nettó bevétel százalékában legyen meghatározva, ha a teljesítményjavadalmazás nincs összhangban a befektetési vállalkozás prudenciális követelményeknek való megfelelésével.
 
 (2) A Felügyelet az (1) bekezdés oa) alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató e törvényben foglalt tőkekövetelményeknek való megfelelése nem biztosított.
 
 (3) Ha a Felügyelet az (1) bekezdés n) pontjában meghatározott intézkedést alkalmazza, haladéktalanul köteles tájékoztatni azon tagállamok felügyeleti hatóságait, melyekben az intézkedéssel érintett befektetési vállalkozás fióktelepet működtet, illetőleg határon átnyúló szolgáltatást nyújt.
+
+(4) Az (1) bekezdés t) pontja szerinti többlettőke-követelmény mértékének meghatározásakor a Felügyeletnek figyelembe kell vennie:
+
+- a) a befektetési vállalkozás belső tőkemegfelelés értékelési folyamatának mennyiségi és minőségi szempontjait,
+- b) a befektetési vállalkozás irányítási és kockázatkezelési rendszerének megfelelőségét és
+- c) a befektetési vállalkozásnál végrehajtott felügyeleti felülvizsgálat eredményét.
 
 165. § A Felügyelet a 164. § (1) bekezdésének h), n), o) és p) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el azzal, hogy a tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
 
@@ -3011,21 +3017,21 @@ bírság megfizetésére kötelezheti.
 
 ### A fogadó EGT-állami felügyelési feladatokés hatáskörök
 
-176. § A más EGT-állam felügyeleti hatóságának befektetési szolgáltatási tevékenység végzésére jogosító engedélyével rendelkező külföldi befektetési vállalkozás Magyar Köztársaság területén létesített fióktelepe által végzett tevékenység esetében a Felügyelet hatáskörében ellenőrzi a 40–51. §-ban, 55–56. §-ban, 62–65. §-ban, 67–69. §-ban, 73–76. §-ban és 151–153. §-ban foglalt rendelkezések betartását.
+176. § A más EGT-állam felügyeleti hatóságának befektetési szolgáltatási tevékenység végzésére jogosító engedélyével rendelkező külföldi befektetési vállalkozás Magyarország területén létesített fióktelepe által végzett tevékenység esetében a Felügyelet hatáskörében ellenőrzi a 40–51. §-ban, 55–56. §-ban, 62–65. §-ban, 67–69. §-ban, 73–76. §-ban és 151–153. §-ban foglalt rendelkezések betartását.
 
-177. § (1) Ha a Felügyelet a Magyar Köztársaság területén más EGT-államban székhellyel rendelkező befektetési vállalkozás vagy piacműködtető határon átnyúló tevékenysége vagy a Magyar Köztársaság területén létesített fióktelepe esetében jogszabályban vagy a jogszabály szerinti szabályzatban foglalt rendelkezés megsértését tapasztalja, a befektetők védelme érdekében a 164. § (1) bekezdésének a), b), e), h), m), n), p) és s) pontjaiban foglalt intézkedést hozhat, továbbá a 179. § szerinti esetben alkalmazhatja az Fttv.-ben meghatározott jogkövetkezményeket.
+177. § (1) Ha a Felügyelet Magyarország területén más EGT-államban székhellyel rendelkező befektetési vállalkozás vagy piacműködtető határon átnyúló tevékenysége vagy Magyarország területén létesített fióktelepe esetében jogszabályban vagy a jogszabály szerinti szabályzatban foglalt rendelkezés megsértését tapasztalja, a befektetők védelme érdekében a 164. § (1) bekezdésének a), b), e), h), m), n), p) és s) pontjaiban foglalt intézkedést hozhat, továbbá a 179. § szerinti esetben alkalmazhatja az Fttv.-ben meghatározott jogkövetkezményeket.
 
 (2) A 176. §-ban nem említett rendelkezések megsértése esetén a Felügyelet értesíti a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
 
 (3) Ha a Felügyelet a (2) bekezdésben foglalt értesítést követően, a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságának intézkedései nyomán vagy azok ellenében, a befektetési vállalkozás vagy a fióktelepe továbbra is a jogszabályban vagy a jogszabály szerinti szabályzatban foglaltakkal ellentétes viselkedését tapasztalja, azt követően, hogy erről a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságát értesítette, minden olyan intézkedést megtesz, amely az ügyfeleknek történő károkozást, illetve az intézményrendszer stabilitásának hátrányos változását megakadályozza.
 
-(4) A Felügyelet az (1) és (2) bekezdés alapján megtett intézkedéséről és annak indokolásáról haladéktalanul tájékoztatja az intézkedéssel érintett befektetési vállalkozást vagy piacműködtetőt és a Bizottságot.
+(4) A Felügyelet az (1) és (2) bekezdés alapján megtett intézkedéséről és annak indokolásáról haladéktalanul tájékoztatja az intézkedéssel érintett befektetési vállalkozást vagy piacműködtetőt, a Bizottságot és az Európai Értékpapír-piaci Hatóságot.
 
-178. § A Felügyelet a határon átnyúló tevékenységet végző, más EGT-államban székhellyel rendelkező piacműködtető Magyar Köztársaság területén végzett tevékenységével kapcsolatosan, statisztikai célból a Magyar Köztársaság területén székhellyel rendelkező befektetési vállalkozásokra vonatkozó kötelezettséggel azonos adatszolgáltatási kötelezettséget írhat elő.
+178. § A Felügyelet a határon átnyúló tevékenységet végző, más EGT-államban székhellyel rendelkező piacműködtető Magyarország területén végzett tevékenységével kapcsolatosan, statisztikai célból a Magyarország területén székhellyel rendelkező befektetési vállalkozásokra vonatkozó kötelezettséggel azonos adatszolgáltatási kötelezettséget írhat elő.
 
-178/A. § (1) Ha a Felügyeletnek alapos indoka van azt feltételezni, hogy a felügyelete alá nem tartozó valamely szervezet egy másik tagállam területén – a 2004/39/EK irányelv adott tagállam jogrendszerébe történő átvétele alapján – meghatározott rendelkezésekkel ellentétesen jár vagy járt el, erről az érintett tagállam hatáskörrel rendelkező felügyeleti hatóságát részletesen tájékoztatja.
+178/A. § (1) Ha a Felügyeletnek alapos indoka van azt feltételezni, hogy a felügyelete alá nem tartozó valamely szervezet egy másik tagállam területén – a 2004/39/EK irányelv adott tagállam jogrendszerébe történő átvétele alapján – meghatározott rendelkezésekkel ellentétesen jár vagy járt el, erről az érintett tagállam hatáskörrel rendelkező felügyeleti hatóságát és az Európai Értékpapír-piaci Hatóságot részletesen tájékoztatja.
 
-(2) Ha a Felügyelet egy másik tagállam hatáskörrel rendelkező felügyeleti hatóságától tájékoztatást kap a felügyelete alá tartozó befektetési vállalkozás e törvény rendelkezéseivel ellentétes eljárásáról, meghozza a szükséges intézkedést. Ezt követően tájékoztatja az őt értesítő felügyeleti hatóságot az intézkedés eredményéről, valamint lehetőség szerint a közbenső fejleményekről.
+(2) Ha a Felügyelet egy másik tagállam hatáskörrel rendelkező felügyeleti hatóságától tájékoztatást kap a felügyelete alá tartozó befektetési vállalkozás e törvény rendelkezéseivel ellentétes eljárásáról, meghozza a szükséges intézkedést. Ezt követően tájékoztatja az őt értesítő felügyeleti hatóságot és az Európai Értékpapír-piaci Hatóságot az intézkedés eredményéről, valamint lehetőség szerint a közbenső fejleményekről.
 
 178/B. § A Felügyelet a multilaterális kereskedési rendszer fogadó tagállama felügyeleti hatóságának kérésére tájékoztatást ad a multilaterális kereskedési rendszer tagjairól.
 
@@ -3050,7 +3056,12 @@ bírság megfizetésére kötelezheti.
 
 rendeletben állapítsa meg.
 
-(2)
+(2) Felhatalmazást kap a Felügyelet elnöke arra, hogy rendeletben állapítsa meg:
+
+- a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére,
+- b) az ügyféltől telefonon vagy elektronikus úton – az üzletszabályzatban meghatározott módon – érkező megbízás tartalmának a szerződés írásba foglalásáig, vagy az írásos visszaigazolásáig történő rögzítésére
+
+vonatkozó részletes szabályokat.
 
 ### Hatálybalépés
 
@@ -3084,7 +3095,8 @@ rendeletben állapítsa meg.
 - a) az Európai Parlament és a Tanács 2004. április 21-i 2004/39/EK irányelve a pénzügyi eszközök piacairól, a 85/611/EGK és a 93/6/EGK tanácsi irányelv és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 93/22/EGK tanácsi irányelv hatályon kívül helyezéséről,
 - b) a Bizottság 2006. augusztus 10-i 2006/73/EK irányelve a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról,
 - c) az Európai Parlament és a Tanács 2006. június 14-i 2006/48/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről,
-- d) az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
+- d) az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról,
+- e) Az Európai Parlament és a Tanács 2010. november 24-i 2010/78/EU irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
 
 (2) E törvény a 2004/39/EK európai parlamenti és tanácsi rendeletnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló, 2006. augusztus 10-i 1287/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -3142,7 +3154,7 @@ rendeletben állapítsa meg.
 
 ### 1. melléklet a 2007. évi CXXXVIII. törvényhez
 
-- 1. Áht.: az államháztartásról szóló 1992. évi XXXVIII. törvény,
+- 1. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 - 2. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
 - 3. Bit.: a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény,
 - 4. Btk.: a Büntető Törvénykönyvről szóló 1978. évi IV. törvény,
@@ -3155,7 +3167,7 @@ rendeletben állapítsa meg.
 - 11. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
 - 12. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
 - 13. Ktv.: a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény,
-- 14. MNB tv.: a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény,
+- 14. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 - 15. Pmtv.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény,
 - 16. Ptk.: a Polgári Törvénykönyvről szóló törvény,
 - 17.
@@ -3164,6 +3176,8 @@ rendeletben állapítsa meg.
 - 20. Tétv.: a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény,
 - 21. Vbt.: a választottbíráskodásról szóló 1994. évi LXXI. törvény,
 - 22. Vht.: a bírósági végrehajtásról szóló 1994. évi LIII. törvény.
+- 22. Bnytv.: a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény,
+- 23. Batv.: a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény.
 
 ### 2. melléklet a 2007. évi CXXXVIII. törvényhez
 
@@ -3415,7 +3429,7 @@ c) a vonatkozó szerződés tartalmazza, hogy a lejáratkor vagy azt követően 
 - 16. Meg kell jelölni minden olyan tényt, kiegészítő információt, amely a teljesítmények megítéléséhez, illetve a bemutatott teljesítmény teljes értékű magyarázata szempontjából fontos lehet.
 - 17. A teljesítményadatok bemutatásánál a tőkeáttétel és a származékos termékek használatát, mértékét is be kell mutatni oly módon, amely lehetővé teszi a kockázatok azonosítását.
 - 18. Amennyiben a portfólióhoz, annak befektetési politikájában referenciaindexet is rendeltek, ezen referenciaindex hozamát ugyanarra (ugyanazokra) az időszakra (időszakokra) és ugyanolyan hozamszámítási módszert alkalmazva kell bemutatni, amelyekre a portfólió hozama bemutatásra kerül.
-- 19. A befektetési alapkezelési és portfóliókezelési tevékenységet végző teljesítményeinek bemutatásakor a hozamadatokat lehetőleg öt évre visszamenően, illetve tevékenysége megkezdésétől – a naptári éveknek megfelelő bontásban – kell bemutatni.
+- 19. A portfóliókezelési tevékenységet végző teljesítményeinek bemutatásakor a hozamadatokat lehetőleg 5 évre visszamenően, illetve tevékenysége megkezdésétől – a naptári éveknek megfelelő bontásban – kell bemutatni.
 
 ### 4. melléklet a 2007. évi CXXXVIII. törvényhez
 

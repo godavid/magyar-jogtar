@@ -6,35 +6,13 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 ### Általános rendelkezések
 
-1. § (1) Ez a törvény állapítja meg
-
-- a) az országos közutak és műtárgyaik, a csatornák, valamint a regionális közműrendszerek,
-- b)
-- c)
-- d) az önkormányzati törzsvagyon részét képező helyi közutak és műtárgyaik, továbbá a helyi közművek működtetése, valamint
-- e) a bányászati kutatás és kitermelés, valamint az ezzel összefüggő bányászati melléktevékenységek,
-- f) a csővezetékes termékszállítás és tárolás,
-- g) a hasadó és sugárzó anyagok előállítása és forgalmazása,
-- h)
-- i) a szerencsejátékok szervezésére és működtetésére irányuló tevékenység,
-- j)
-- k)
-- l)
-- m)
-- n)
-
-koncessziós szerződés keretében történő átengedésének alapvető szabályait. Az egyes tevékenységek folytatásának módját, részletes feltételeit meghatározó ágazati törvények (a továbbiakban: ágazati törvény) csak e törvény keretei között rendelkezhetnek.
-
-(2) Az ágazati törvény az (1) bekezdésben felsorolt tevékenységi körök, mint gyűjtőfogalmak keretein belül egyes tevékenységtípusok folytatását koncessziós pályázat kiírása, illetőleg koncessziós szerződés megkötése nélkül is lehetővé tehet (liberalizált tevékenységek).
-
-2. § (1) Az 1. §-ban felsorolt tevékenységek folytatásának feltétele, hogy
-
-- a) az állam vagy az önkormányzat, illetve az önkormányzati társulás (az utóbbi kettő a továbbiakban együtt: önkormányzat) – a 14. §-ban foglaltak figyelembevételével – a tevékenységet folytató gazdálkodó szervezetben [Ptk. 685. § c) pont] közvetlen vagy közvetett többségi tulajdoni részesedéssel, szavazati joggal rendelkezzen, illetve e célra költségvetési, illetőleg önkormányzati intézményt alapítson, vagy
-- b) az állam, illetőleg az önkormányzat a tevékenység gyakorlásának időleges jogát koncessziós szerződésben átengedje.
+1. § (1) E törvény a nemzeti vagyonról szóló törvény keretei között állapítja meg az abban meghatározott, kizárólagosan az állam vagy a helyi önkormányzat által végezhető gazdasági tevékenységek gyakorlása időleges jogának koncessziós szerződés keretében történő átengedésének részletes szabályait. Az egyes tevékenységek folytatásának módját, részletes feltételeit meghatározó ágazati törvények (a továbbiakban: ágazati törvény) csak a nemzeti vagyonról szóló törvény és e törvény keretei között rendelkezhetnek.
 
 (2)
 
-3. § (1) Az állam, illetőleg az önkormányzat a 2. § b) pont szerinti koncessziós szerződést a belföldi és külföldi természetes, és jogi személyekkel, valamint ezek jogi személyiség nélküli társaságaival kötheti meg.
+2. §
+
+3. § (1)
 
 (2) A devizajogszabályok szerint külföldinek minősülő természetes és jogi személyek, valamint ezek jogi személyiséggel nem rendelkező társaságai a belföldiekkel azonos feltételekkel és eséllyel köthetnek koncessziós szerződést.
 
@@ -56,7 +34,7 @@ koncessziós szerződés keretében történő átengedésének alapvető szabá
 
 7. § Az 5—6. §-ban meghatározott személy, illetőleg szerv az 1. § (1) bekezdés szerinti tevékenység (a továbbiakban: koncesszió-köteles tevékenység) gyakorlásával összefüggésben szükséges hatósági engedély megadásának feltételeit az illetékes államigazgatási szervvel a pályázat kiírása előtt egyeztetni köteles.
 
-7/A. § Az 1. § (1) bekezdésének a), c), d), f) és j)—m) pontjaiban meghatározott koncesszióköteles tevékenységek gyakorlására vonatkozó jogosultság — koncessziós szerződéssel történő — átengedésére irányuló pályázat kiírása előtt ki kell kérni az illetékes gazdasági kamara véleményét is.
+7/A. § A csővezetékes termékszállításra és -tárolásra, az országos közutak és műtárgyaik, a csatornák, valamint a regionális közműrendszerek, továbbá az önkormányzati törzsvagyon részét képező helyi közutak, műtárgyaik és a helyi közművek működtetésére irányuló koncesszióköteles tevékenységek gyakorlására vonatkozó jogosultság – koncessziós szerződéssel történő – átengedésére irányuló pályázat kiírása előtt ki kell kérni az illetékes gazdasági kamara véleményét is.
 
 8. § (1) A nyilvános pályázati felhívást legalább két országos napilapban, illetőleg az önkormányzati pályázatot a helyi napilapban is meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább harminc nappal megelőzően. Zártkörű pályázat esetén az érdekelteket egyidejűleg, közvetlenül kell a pályázatra felhívni.
 
@@ -99,19 +77,19 @@ koncessziós szerződés keretében történő átengedésének alapvető szabá
 
 10. § Az ágazati törvény a pályázat lebonyolításának módjára vonatkozóan további szabályokat állapíthat meg.
 
-### Koncesszióköteles tevékenységet végző állami vagy önkormányzati tulajdonban álló gazdálkodó szervezet magántulajdonos részére történő értékesítése (privatizációja) esetén irányadó szabályok
+### Koncesszióköteles tevékenységet végző állami vagy önkormányzati tulajdonban álló gazdálkodó szervezet magántulajdonos részére történő értékesítése esetén irányadó szabályok
 
-10/A. § (1) Ha a koncesszióköteles tevékenységet végző, a 2. § (1) bekezdésének a) pontjában meghatározott gazdálkodó szervezetet értékesítik magántulajdonos részére – amelynek következtében már nem felel meg a közvetlen vagy közvetett többségi állami vagy önkormányzati tulajdonra, illetve szavazati jogra vonatkozó előírásoknak – legkésőbb a privatizációs eljárás megindításával egyidejűleg koncessziós pályázatot kell lefolytatni a koncesszióköteles tevékenység átengedésére. A koncessziós eljárásra, az e §-ban foglalt eltérésekkel, e törvényben foglalt rendelkezéseket kell alkalmazni.
+10/A. § (1) Ha a koncesszióköteles tevékenységet végző a nemzeti vagyonról szóló törvényben meghatározott gazdálkodó szervezetben fennálló társasági részesedését úgy értékesíti magántulajdonos részére, hogy annak következtében a gazdálkodó szervezet már nem felel meg a nemzeti vagyonról szóló törvény előírásainak, és a nemzeti vagyonról szóló törvény alapján a tevékenységre koncessziós szerződést kell kötni, legkésőbb az értékesítési eljárás megindításával egyidejűleg koncessziós pályázatot kell lefolytatni a koncesszióköteles tevékenység átengedésére. A koncessziós eljárásra az e §-ban foglalt eltérésekkel, e törvényben foglalt rendelkezéseket kell alkalmazni.
 
-(2) Az (1) bekezdés szerinti esetben a pályázati kiírásnak a 8. § (2) bekezdésében meghatározottakon túl tartalmaznia kell, hogy a pályázónak az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt privatizációs eljárásban ajánlatot kell benyújtania.
+(2) Az (1) bekezdés szerinti esetben a pályázati kiírásnak a 8. § (2) bekezdésében meghatározottakon túl tartalmaznia kell, hogy a pályázónak az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt eljárásban ajánlatot kell benyújtania.
 
-(3) A pályázatok elbírálására a 9. §-ban előírt határidő az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt privatizációs eljárás lefolytatásához szükséges időtartammal meghosszabbodik.
+(3) A pályázatok elbírálására a 9. §-ban előírt határidő az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt eljárás lefolytatásához szükséges időtartammal meghosszabbodik.
 
 (4) A koncessziós pályázatok elbírálása során a pályázat elbírálására jogosult csak azt vizsgálhatja, hogy a benyújtott pályázatok megfelelnek-e a törvényben és a kiírásban meghatározott feltételeknek, ugyanakkor nyertest nem hirdethet.
 
-(5) A koncessziós pályázat, valamint az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt privatizációs eljárás eredménye tekintetében a koncessziós pályázat kiírója – a privatizációs pályázat kiírójával egyetértésben – kizárólag egyetlen nyertest hirdethet. A koncessziós pályázat és a privatizációs eljárás nyertese az, aki a koncessziós és a privatizációs pályázat feltételeinek megfelel, és egyben az állam vagy az önkormányzat számára összességében a legkedvezőbb ajánlatot tette.
+(5) A koncessziós pályázat, valamint az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt eljárás eredménye tekintetében a koncessziós pályázat kiírója – a az értékesítési eljárás kiírójával egyetértésben – kizárólag egyetlen nyertest hirdethet. A koncessziós pályázat és az értékesítési eljárás nyertese az, aki a koncessziós és a az értékesítési eljárás feltételeinek megfelel, és egyben az állam vagy az önkormányzat számára összességében a legkedvezőbb ajánlatot tette.
 
-(6) A nyertes személy az ágazati törvényben meghatározott koncessziós időszak végéig gyakorolhatja a jogszabályokban biztosított jogait oly módon, hogy a privatizáció során megszerzett társaság minősül koncessziós társaságnak. A társaságra a 26. § rendelkezéseit nem kell alkalmazni.
+(6) A nyertes személy az ágazati törvényben meghatározott koncessziós időszak végéig gyakorolhatja a jogszabályokban biztosított jogait oly módon, hogy az értékesítési eljárás során megszerzett társaság minősül koncessziós társaságnak. A társaságra a 26. § rendelkezéseit nem kell alkalmazni.
 
 ### A koncessziós szerződés
 

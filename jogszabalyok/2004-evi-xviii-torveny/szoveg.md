@@ -234,13 +234,13 @@ terület lehet.
 
 (5) A forgalomba hozatali engedélykérelemhez csatolni kell a származási bizonyítványt. Származási bizonyítvány hiányában vagy valótlan adatok feltüntetése esetén a borászati hatóság forgalomba hozatali engedélyt nem ad ki.
 
-(6) Továbbfeldolgozás céljára a Magyar Köztársaság területére behozott bor esetén a származási bizonyítványt a bor tárolási helye szerint illetékes hegybíró állítja ki, a borkísérő okmányok alapján.
+(6) Továbbfeldolgozás céljára Magyarország területére behozott bor esetén a származási bizonyítványt a bor tárolási helye szerint illetékes hegybíró állítja ki, a borkísérő okmányok alapján.
 
 (7) A forgalomba hozatali engedéllyel rendelkező, de továbbfeldolgozásra szánt bor esetén a származási bizonyítványt a forgalomba hozatali engedély helyettesíti. A forgalomba hozatali engedéllyel rendelkező, de továbbfeldolgozásra szánt bornak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott adatait a továbbfeldolgozás megkezdése előtt öt nappal a borászati üzem köteles írásban megküldeni a borászati hatóságnak.
 
 (8) Nem minősül a borászati termék továbbfeldolgozásának a változatlan formában történő palackozás, illetve tárolás céljából történő átvétel, illetve vásárlás.
 
-(9) Továbbfeldolgozás, illetve kiszerelés céljából a Magyar Köztársaság területére behozott bor készletváltozásáról a borászati üzem adatot szolgáltat a borászati üzem helye szerint illetékes hegybíró részére. Az adatszolgáltatás a borászati üzem nevére, adószámára, a származási ország nevére, a behozott bor mennyiségére és kategóriájára terjed ki. Az adatszolgáltatás részletes szabályait az e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
+(9) Továbbfeldolgozás, illetve kiszerelés céljából Magyarország területére behozott bor készletváltozásáról a borászati üzem adatot szolgáltat a borászati üzem helye szerint illetékes hegybíró részére. Az adatszolgáltatás a borászati üzem nevére, adószámára, a származási ország nevére, a behozott bor mennyiségére és kategóriájára terjed ki. Az adatszolgáltatás részletes szabályait az e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
 
 (10) A hegybíró a (9) bekezdésben meghatározott adatokat tizenöt napon belül továbbítja a borászati hatóság részére.
 
@@ -250,18 +250,18 @@ terület lehet.
 
 (2) A vámhatóság az egyszerűsített adóraktári engedély visszavonásáról – az érintett engedélyes nevére (cégnevére), lakhelyére (székhelyére), az engedély visszavonásának tényére és időpontjára vonatkozó adatok megadásával – értesíti a borászati hatóságot és az illetékes hegyközséget.
 
-24/A. § (1) Borászati terméket közfogyasztásra forgalomba hozni vagy továbbfeldolgozás céljából a Magyar Köztársaság területéről kivinni csak abban az esetben lehet, ha azt tételenként a borászati hatóság vagy e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételeknek megfelelő szervezet laboratóriumi és érzékszervi vizsgálatok alá vetette és ennek alapján minőségét megállapította és megfelelőnek minősítette, vagy az Európai Gazdasági Térség valamely szerződő államának erre hatáskörrel rendelkező szerve, illetve egyéb, közösségi jogi aktusban meghatározott szervezet a rá vonatkozó szabályok szerint minőségét megállapította és megfelelőnek minősítette.
+24/A. § (1) Borászati terméket közfogyasztásra forgalomba hozni vagy továbbfeldolgozás céljából Magyarország területéről kivinni csak abban az esetben lehet, ha azt tételenként a borászati hatóság vagy e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételeknek megfelelő szervezet laboratóriumi és érzékszervi vizsgálatok alá vetette és ennek alapján minőségét megállapította és megfelelőnek minősítette, vagy az Európai Gazdasági Térség valamely szerződő államának erre hatáskörrel rendelkező szerve, illetve egyéb, közösségi jogi aktusban meghatározott szervezet a rá vonatkozó szabályok szerint minőségét megállapította és megfelelőnek minősítette.
 
 (2) A borászati hatóság az (1) bekezdés szerinti laboratóriumi és érzékszervi vizsgálatok alapján megfelelőnek minősített borra forgalomba hozatali engedélyt ad ki. A borászati hatóság a belföldön termelt borra kiadott engedélyt a bor származási bizonyítványát kiadó hegyközségnek is megküldi.
 
-(3) A Magyar Köztársaság területén közfogyasztásra forgalomba hozott bor minden literje után a forgalomba hozónak forgalomba hozatali járulékot kell fizetnie. A járulékot a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 83. § (4) bekezdése szerinti tárgyidőszakban forgalomba hozott bor mennyisége után a 83. § (5) bekezdésében foglalt határidőig kell megfizetni. A járulék összege:
+(3) Magyarország területén közfogyasztásra forgalomba hozott bor minden literje után a forgalomba hozónak forgalomba hozatali járulékot kell fizetnie. A járulékot a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 83. § (4) bekezdése szerinti tárgyidőszakban forgalomba hozott bor mennyisége után a 83. § (5) bekezdésében foglalt határidőig kell megfizetni. A járulék összege:
 
 - a) földrajzi jelzést nem viselő és az oltalom alatt álló földrajzi jelzéssel rendelkező borok esetében 5 forint literenként;
 - b) az oltalom alatt álló eredetmegjelöléssel rendelkező borok esetében 10 forint literenként.
 
 (4) A (3) bekezdés alapján fizetendő forgalomba hozatali járulék összegéből le kell vonni azt az összeget, amelyet a (7) és (8) bekezdésekben meghatározott felhasználással azonos célra az Európai Gazdasági Térség valamely szerződő államában a forgalomba hozatali járulékfizetési kötelezettség keletkezését megelőzően kötelező jelleggel megfizettek, feltéve, hogy azt nem igénylik vissza.
 
-(5) A forgalomba hozatali járulék az agrárpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetén belül a borok közösségi marketingprogramját és a borok minőség-ellenőrzésének célját szolgáló előirányzat bevétele. A járuléktartozás megfizetésén túl a járulék mértékével azonos, de legkevesebb 50 000 forint mulasztási bírság megfizetésére köteles az a forgalomba hozó, aki forgalomba hozatali járulékfizetési kötelezettségének határidőre nem tesz eleget. A mulasztási bírságot a borászati hatóság szabja ki. A bírság a központi költségvetés bevétele azzal, hogy a bírságot a borászati hatóság számlájára kell befizetni.
+(5) A forgalomba hozatali járulék az agrárpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetén belül a borok közösségi marketingprogramját és a borok minőség-ellenőrzésének célját szolgáló előirányzat bevétele. A járuléktartozás megfizetésén túl a járulék mértékével azonos, de legkevesebb 50 000 forint mulasztási bírság megfizetésére köteles az a forgalomba hozó, aki forgalomba hozatali járulékfizetési kötelezettségének határidőre nem tesz eleget. A mulasztási bírságot a borászati hatóság szabja ki. A bírságot a borászati hatóság számlájára kell befizetni.
 
 (6) Akinek forgalomba hozatali járulék tartozása van, az újonnan forgalomba hozni kívánt borra vonatkozóan a (2) bekezdés szerinti forgalomba hozatali engedélyt nem kaphat. A borászati hatóság ellenőrzi a forgalomba hozatali járulék megfizetését. A vámhatóság a forgalomba hozott bor forgalomba hozójára (név, cégnév, lakcím, székhely, telephely), illetve a forgalomba hozott borra vonatkozó adatokat az e törvény felhatalmazása alapján kiadott rendeletben meghatározott időközönként továbbítja a borászati hatóságnak.
 
@@ -428,7 +428,7 @@ látják el.
 
 (2) Amennyiben az engedély nélküli telepítést, kivágást, illetve az engedélytől eltérő telepítést (a továbbiakban együtt: engedély nélküli művelet) végző személy a 43. § (1) bekezdésében, a 43/A. § (1) bekezdésében vagy a 43/B. § (1) bekezdésében foglalt kérelem benyújtására vonatkozó felszólításnak nem tesz eleget, úgy a mezőgazdasági és vidékfejlesztési támogatási szerv a mulasztót 500 000 forintig terjedő mulasztási bírság megfizetésére, és a nem engedélyezett művelet vonatkozásában a művelési ág szerinti állapot helyreállítására kötelezi.
 
-(3) A mulasztási bírság kiszabása során figyelembe kell venni az engedély nélkül végzett művelettel érintett terület nagyságát, valamint a mulasztó által engedély nélkül végzett műveletek gyakoriságát. A kiszabott mulasztási bírság hetven százaléka a mezőgazdasági és vidékfejlesztési támogatási szerv – ellenőrzésekhez kapcsolódó dologi kiadásainak fedezetére felhasználandó – bevétele, harminc százaléka a központi költségvetést illeti meg. A mulasztási bírság adók módjára behajtandó köztartozás.
+(3) A mulasztási bírság kiszabása során figyelembe kell venni az engedély nélkül végzett művelettel érintett terület nagyságát, valamint a mulasztó által engedély nélkül végzett műveletek gyakoriságát.
 
 43/D. § (1) A 43–43/C. §-ban foglaltak nem vonatkoznak a borpiac közös szervezéséről szóló 1999. május 17-i 1493/1999/EK tanácsi rendelet 2. cikkének (1) bekezdésében, illetve a borpiac közös szervezéséről, az 1493/1999/EK, az 1782/2003/EK, az 1290/2005/EK és a 3/2008/EK rendelet módosításáról, valamint a 2392/86/EGK és az 1493/1999/EK rendelet hatályon kívül helyezéséről szóló, 2008. április 29-i 479/2008/EK tanácsi rendelet 90. cikkében meghatározott telepítési tilalom megszegésével végzett telepítésekre.
 
@@ -443,7 +443,7 @@ látják el.
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv (4) bekezdés szerinti értesítéséig a bírságot az arról szóló határozat kézhezvételének napját követő minden 12. hónapban ki kell szabni.
 
-(6) A bírság összegének meghatározásakor a forintra történő átszámítást a határozathozatal hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell elvégezni. A kiszabott bírság hetven százaléka a mezőgazdasági és vidékfejlesztési támogatási szerv – ellenőrzésekhez kapcsolódó dologi kiadásainak fedezetére felhasználandó – bevétele, harminc százaléka a központi költségvetést illeti meg. A bírság adók módjára behajtandó köztartozás.
+(6) A bírság összegének meghatározásakor a forintra történő átszámítást a határozathozatal hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell elvégezni.
 
 ### A borgazdálkodás körébe tartozó ellenőrzés
 
@@ -519,7 +519,7 @@ látják el.
 
 (3) A minőségvédelmi bírság megfizetésére azt a termelőt, illetve forgalmazót kell kötelezni, aki a borászati terméknek az (1) bekezdésben foglaltak szerint kifogásolt minőségét előidézte, vagy – ha ez egyértelműen nem állapítható meg – azt, akinél a borászati terméket vizsgálat alá vonták.
 
-(4) A minőségvédelmi bírságot a borászati hatóság számlájára kell befizetni. A befolyt összeget csak a vizsgálati módszerek korszerűsítésére, a hatósági ellenőrzést elősegítő intézkedésekre lehet felhasználni. A minőségvédelmi bírság adók módjára behajtandó köztartozásnak minősül.
+(4) A minőségvédelmi bírságot a borászati hatóság számlájára kell befizetni.
 
 ### Mulasztási bírság
 
@@ -527,11 +527,11 @@ látják el.
 
 (2) A mulasztási bírság mértéke legfeljebb ötszázezer forint összeg erejéig terjedhet.
 
-(3) A borászati hatóság a bírság kiszabása során figyelembe veszi a jogsértéssel érintett borászati termék mennyiségét, a mulasztás gyakoriságát. A borászati hatóság által kiszabott mulasztási bírság a borászati hatóság bevétele. A befolyt összeget a borászati hatóság csak a vizsgálati módszerek korszerűsítésére, a hatósági ellenőrzést elősegítő intézkedésekre használhatja fel.
+(3) A borászati hatóság a bírság kiszabása során figyelembe veszi a jogsértéssel érintett borászati termék mennyiségét, a mulasztás gyakoriságát.
 
 (4) A hegybíró a bírság kiszabása során figyelembe veszi a szolgáltatandó adatok körét és a jogsértés gyakoriságát. A hegybíró által kiszabott mulasztási bírság a hegyközség bevétele.
 
-(5) A mulasztási bírság adók módjára behajtandó köztartozásnak minősül.
+(5)
 
 ### VII. Fejezet — PINCE- ÉS BORHIGIÉNIAI KÖVETELMÉNYEK
 
@@ -561,7 +561,7 @@ látják el.
 - j) a nem hegyközségi települések esetén az e törvényben meghatározott közigazgatási feladatokat ellátó hegyközségek meghatározását;
 - k) a pince- és borhigiéniai követelményeket, a borászati üzemek működését, illetve a borászati üzemek működésének és a borászati termékek kiszerelésének engedélyezési rendjét;
 - l) az adópolitikáért felelős miniszterrel egyetértésben a forgalomba hozatali járulék megfizetésének, megfizetése ellenőrzésének, az ellenőrzéshez kapcsolódó adatok szolgáltatásának, kezelésének és felhasználásának részletes szabályait;
-- m) a forgalomba hozatali, illetve a Magyar Köztársaság területéről történő kiszállítás esetén a továbbfeldolgozásra vonatkozó engedély kiadásához szükséges kémiai és érzékszervi vizsgálatok végzésére jogosult szervezet elismerésének feltételeit, valamint a laboratóriumi és érzékszervi vizsgálatok rendjét;
+- m) a forgalomba hozatali, illetve Magyarország területéről történő kiszállítás esetén a továbbfeldolgozásra vonatkozó engedély kiadásához szükséges kémiai és érzékszervi vizsgálatok végzésére jogosult szervezet elismerésének feltételeit, valamint a laboratóriumi és érzékszervi vizsgálatok rendjét;
 - n) a Bor Eredetvédelmi Tanács összetételével, működésével és eljárásával kapcsolatos részletes szabályokat;
 - o) a szőlő- és borágazat szakmaközi szervezetének elismerési rendjét.
 
@@ -574,7 +574,7 @@ látják el.
 
 rendeletben jelölje ki.
 
-58. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+58. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
 (2) A törvény 31. § (2) bekezdését először a 2004-ben szüretelt szőlőből készített borra kell alkalmazni.
 

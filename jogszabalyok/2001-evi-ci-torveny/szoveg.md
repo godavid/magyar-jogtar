@@ -2,7 +2,7 @@
 
 a felnőttképzésről
 
-Abból a célból, hogy az Alkotmányban biztosított tanuláshoz való jog az állampolgár egész életpályáján érvényesüljön, a felnőttkori tanuláshoz és képzéshez való hozzáférés szabályozott lehetőségei a társadalom minden tagja számára bővüljenek, hogy az állampolgárok meg tudjanak felelni a gazdasági, kulturális és technológiai fejlődés kihívásainak, hogy eredményesen tudjanak bekapcsolódni a munka világába és sikeresek legyenek életük során, valamint annak érdekében, hogy a felnőttkori tanulás és képzés révén az életvitel minősége javuljon az Országgyűlés a következő törvényt alkotja:
+Abból a célból, hogy a tanuláshoz való jog az állampolgár egész életpályáján érvényesüljön, a felnőttkori tanuláshoz és képzéshez való hozzáférés szabályozott lehetőségei a társadalom minden tagja számára bővüljenek, hogy az állampolgárok meg tudjanak felelni a gazdasági, kulturális és technológiai fejlődés kihívásainak, hogy eredményesen tudjanak bekapcsolódni a munka világába és sikeresek legyenek életük során, valamint annak érdekében, hogy a felnőttkori tanulás és képzés révén az életvitel minősége javuljon az Országgyűlés a következő törvényt alkotja:
 
 ## I. RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -24,10 +24,7 @@ Abból a célból, hogy az Alkotmányban biztosított tanuláshoz való jog az �
 
 (3)
 
-(4) E törvény hatálya nem terjed ki a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény 13. § szerint létrejött jogi személyre, kivéve ha
-
-- a) az Sztv., a Ktv. vagy az Ftv. hatálya alá tartozik és felnőttképzési tevékenységet folytat, vagy
-- b) az alapítása kizárólag felnőttképzési tevékenység folytatása céljából történt.
+(4) E törvény hatálya nem terjed ki a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 11. §-a és 12. §-a szerint létrejött jogi személyre, kivéve ha az Sztv., a Ktv. vagy az Ftv. hatálya alá tartozik és felnőttképzési tevékenységet folytat, vagy az alapítása kizárólag felnőttképzési tevékenység folytatása céljából történt.
 
 (5) E törvény hatálya nem terjed ki az egészségügyről szóló 1997. évi CLIV. törvény 115. § (2) bekezdés a)–c) pontjai szerinti egészségügyi ágazati képzésekre.
 
@@ -55,20 +52,20 @@ szabályait.
 - b) az intézmény és program akkreditációs eljárás és követelményrendszer részletes szabályait, valamint – az államháztartásért felelős miniszterrel egyetértésben – az akkreditációs eljárási díjak körét, mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait;
 - c) az Országos Képzési Jegyzékbe (a továbbiakban: OKJ) tartozó szakképesítések esetén a gyakorlati foglalkozás teljesítésének részletes szabályait;
 - d) a felnőttképzést folytató intézmények ellenőrzésére vonatkozó szabályokat;
-- e) az Európai Gazdasági Térségről szóló megállapodásban részes államok felnőttképzési minősítési rendszerei közül a Magyar Köztársaságban akkreditáltként elismerhetőeket, illetve a minősítési rendszerek elemei közül az elfogadhatóakat,
+- e) az Európai Gazdasági Térségről szóló megállapodásban részes államok felnőttképzési minősítési rendszerei közül a Magyarországon akkreditáltként elismerhetőeket, illetve a minősítési rendszerek elemei közül az elfogadhatóakat,
 - f) az e törvény szerinti felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 - g)–h)
 - i)
 
 (4) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály a felnőttképzési szakterületen felnőttképzési szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(5) Aki a (4) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a miniszternek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+(5) Aki a (4) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát az állami szakképzési és felnőttképzési szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-(6) A miniszter a szakértői tevékenység végzésére jogosult, (5) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(6) Az állami szakképzési és felnőttképzési szerv a szakértői tevékenység végzésére jogosult, (5) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-4/A. § (1) A miniszter a felnőttképzési szakterületen szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, és nem áll a felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a miniszter adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint a felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+4/A. § (1) Az állami szakképzési és felnőttképzési szerv a felnőttképzési szakterületen szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű, és nem áll a felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából az állami szakképzési és felnőttképzési szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint a felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(2) Az (1) bekezdés alapján megismert személyes adatokat a miniszter a szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(2) Az (1) bekezdés alapján megismert személyes adatokat az állami szakképzési és felnőttképzési szerv a szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
 
 ### A Nemzeti Szakképzési és Felnőttképzési Tanács
 
@@ -76,9 +73,9 @@ szabályait.
 
 6. §
 
-### Az állami szakképzési és felnőttképzési intézet
+### Az állami szakképzési és felnőttképzési szerv
 
-7. § Az állami szakképzési és felnőttképzési intézet ellátja az e törvényben, valamint a külön jogszabályban meghatározott feladatokat.
+7. § Az állami szakképzési és felnőttképzési szerv ellátja az e törvényben, valamint a külön jogszabályban meghatározott feladatokat.
 
 ### A felnőttképzési tevékenység folytatásának feltételei
 
@@ -145,7 +142,7 @@ szabályait.
 
 (8) Az állami foglalkoztatási szerv az (1) bekezdés bh) alpontjában meghatározott ellenőrzési tevékenységét a gyakorlati foglalkozás helye szerint illetékes területi gazdasági kamara – külön jogszabályban meghatározottak szerint történő – bevonásával látja el.
 
-(9) Az állami foglalkoztatási szerv által kiszabott bírságot az MPA lebonyolítási számlájára kell befizetni. A befizetett bírság teljes összege az MPA képzési alaprészét illeti meg.
+(9) Az állami foglalkoztatási szerv által kiszabott bírságot a Nemzeti Foglalkoztatási Alap lebonyolítási számlájára kell befizetni.
 
 10/A. § A felnőttképzési intézménynek az alábbi dokumentumokat kell vezetnie, nyilvántartania és – az állami foglalkoztatási szerv ellenőrzési jogköre gyakorlásának biztosítása érdekében – öt évig megőriznie:
 
@@ -170,7 +167,7 @@ szabályait.
 
 (4) A felnőttképzést folytató intézményakkreditációja négy év elteltével hatályát veszti.
 
-(5) A felnőttképzést folytató intézménynek az akkreditáció iránti kérelmet az állami szakképzési és felnőttképzési intézethez kell benyújtania.
+(5) A felnőttképzést folytató intézménynek az akkreditáció iránti kérelmet az állami szakképzési és felnőttképzési szervhez kell benyújtania.
 
 (6) A felsőoktatási intézmények nyilvántartását vezető szerv a szakirányú továbbképzést, illetve az Ftv. 56. §-ának (1) bekezdésében meghatározott költségtérítéses képzést folytató felsőoktatási intézmények – külön jogszabályban meghatározott tartalmú – jegyzékét megküldi a FAT részére. A FAT a jegyzék szerinti felsőoktatási intézmények számára – akkreditációs eljárás lefolytatása nélkül – intézményakkreditációs tanúsítványt ad ki.
 
@@ -240,7 +237,7 @@ szabályait.
 
 (2) A programakkreditáció hatályának időtartama legalább 2, legfeljebb 5 év lehet. A FAT a programakkreditáció alapjául szolgáló feltételek fennállása esetén kiadja a programakkreditációs tanúsítványt.
 
-(3) A más törvény felhatalmazása alapján akkreditált, vagy hatósági jogkörben engedélyezett képzési programot az állami szakképzési és felnőttképzési intézethez be kell jelenteni. A bejelentés alapján a FAT az akkreditációs eljárás lefolytatása nélkül kiadja a programakkreditációs tanúsítványt.
+(3) A más törvény felhatalmazása alapján akkreditált, vagy hatósági jogkörben engedélyezett képzési programot az állami szakképzési és felnőttképzési szervhez be kell jelenteni. A bejelentés alapján a FAT az akkreditációs eljárás lefolytatása nélkül kiadja a programakkreditációs tanúsítványt.
 
 (4)
 
@@ -284,7 +281,7 @@ szabályait.
 
 - a) a központi költségvetés,
 - b) a szakképzési hozzájárulásnak a felnőttképzésre elszámolható része,
-- c) az MPA foglalkoztatási és képzési alaprészei.
+- c) az Nemzeti Foglalkoztatási Alap (a továbbiakban: NFA) foglalkoztatási és képzési alaprészei.
 - d)
 
 (3) Az (2) bekezdésben meghatározott, valamint az európai uniós források terhére – a (4) és (5) bekezdésben meghatározott kivétellel – kizárólag olyan felnőttképzési intézmény támogatható, amely
@@ -295,7 +292,7 @@ szabályait.
 
 (4) A (3) bekezdés a) pontjában meghatározott feltétel a 29. § 13. pontjában meghatározott belső képzések támogatása esetében nem alkalmazható.
 
-(5) A (3) bekezdésben meghatározott feltételt a szakképzési hozzájárulásra kötelezett saját munkavállalói részére a szakképzési hozzájárulás terhére szervezett képzés költségei elszámolása során akkor kell alkalmazni, ha a képzés – külön jogszabályban meghatározottak szerint – részben vagy egészben külső képzés formájában valósul meg.
+(5)
 
 (6) A (3) bekezdésben meghatározott források terhére nyújtott képzési célú támogatások esetében a – külön jogszabályban meghatározott – rész-szakképesítés nem minősül az első, állam által elismert szakképesítésnek.
 
@@ -321,17 +318,15 @@ szabályait.
 
 ### Foglalkoztatást elősegítő képzések támogatása
 
-24. § (1) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 14. §-ában meghatározott esetekben és feltételekkel a felnőtt képzése az MPA terhére támogatásban részesíthető.
+24. § (1) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 14. §-ában meghatározott esetekben és feltételekkel a felnőtt képzése az NFA terhére támogatásban részesíthető.
 
 (2) Az (1) bekezdés alapján a 12. § szerint akkreditált felnőttképzést folytató intézmény, továbbá a 29. § 13. pontja szerinti belső képzést biztosító intézmény által szervezett képzésben részt vevő felnőtt képzése támogatható.
 
-### Saját munkavállaló képzésének támogatása
-
-25. § A munkavállaló felnőtt képzését a munkaadó az Szht.-ban meghatározott módon és mértékben támogathatja.
+25. §
 
 ### A felnőttképzés, valamint a felnőttképzés technikai feltételei fejlesztésének támogatása
 
-26. § (1) Az MPA képzési alaprésze központi keretének felnőttképzési célra fordítható része – külön jogszabályban meghatározottak szerint – felhasználható
+26. § (1) Az NFA képzési alaprésze központi keretének felnőttképzési célra fordítható része – külön jogszabályban meghatározottak szerint – felhasználható
 
 - a) az e törvény hatálya alá tartozó képzések támogatására,
 - b) a felnőttképzést folytató akkreditált intézmények technikai feltételei fejlesztésének támogatására,
@@ -424,7 +419,7 @@ való megfelelést szolgálja.
 
 1. E törvény alapján kezelt adatok:
 
-a) a képzésben résztvevő neve, születési helye és ideje, állampolgársága, lakó- és tartózkodási helyének címe és telefonszáma, nem magyar állampolgár esetén a Magyar Köztársaság területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat, illetőleg okmány vagy a tartózkodási jogot igazoló okmány megnevezése, száma;
+a) a képzésben résztvevő neve, születési helye és ideje, állampolgársága, lakó- és tartózkodási helyének címe és telefonszáma, nem magyar állampolgár esetén Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat, illetve okmány vagy a tartózkodási jogot igazoló okmány megnevezése, száma;
 
 b) a képzési jogviszonnyal összefüggő adatok, így különösen a képzésben résztvevő
 

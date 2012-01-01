@@ -7,16 +7,16 @@ az igazságügyi alkalmazottak szolgálati jogviszonyáról
 1. § (1) A törvény hatálya
 
 - a) a bíróságokkal,
-- b) az Országos Igazságszolgáltatási Tanács Hivatalával (a továbbiakban: OIT Hivatala),
+- b) az Országos Bírósági Hivatallal (a továbbiakban: OBH),
 - c) az igazságügyi szakértői intézménnyel (a továbbiakban: egyéb igazságügyi szerv)
 
 létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) terjed ki.
 
 (2) Az (1) bekezdésben megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott üdülők, bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
 
-(3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OIT Hivatalánál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
+(3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
-(4) E törvény hatálya alá tartozó igazságügyi szakértő, valamint szakértőjelölt szolgálati viszonyára az igazságügyi szakértői kamaráról szóló 1995. évi CXIV. törvénynek és az igazságügyi szakértőkről szóló jogszabályoknak a rendelkezéseit, a fővárosi, megyei bírósági végrehajtó, végrehajtó-helyettes, végrehajtójelölt, valamint a végrehajtási ügyintéző szolgálati viszonyára a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek a rendelkezéseit is alkalmazni kell.
+(4) E törvény hatálya alá tartozó igazságügyi szakértő, valamint szakértőjelölt szolgálati viszonyára az igazságügyi szakértői kamaráról szóló 1995. évi CXIV. törvénynek és az igazságügyi szakértőkről szóló jogszabályoknak a rendelkezéseit, a törvényszéki végrehajtó, végrehajtó-helyettes, végrehajtójelölt, valamint a végrehajtási ügyintéző szolgálati viszonyára a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek a rendelkezéseit is alkalmazni kell.
 
 (5) Az igazságügyi alkalmazottak szolgálati viszonyára más jogszabály rendelkezéseit akkor kell alkalmazni, ha azt e törvény elrendeli.
 
@@ -47,7 +47,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) A szakértőjelölt az igazságügyi szakértői kinevezéshez szükséges elméleti és gyakorlati ismeretek megszerzése érdekében – az igazságügyi szakértő szakmai felügyeletével – közreműködik a szakvélemény előkészítésében.
 
-6. § (1) Az igazságügyi szervnél – a 3–5. §-okban foglaltakon kívül – az érdemi és az ügydöntő feladatokat középfokú vagy felsőfokú iskolai végzettséggel rendelkező tisztviselők látják el. Tisztviselő a bírósági ügyintéző, a végrehajtási ügyintéző, továbbá a fővárosi, megyei bírósági végrehajtó, végrehajtó-helyettes és a végrehajtójelölt is.
+6. § (1) Az igazságügyi szervnél – a 3–5. §-okban foglaltakon kívül – az érdemi és az ügydöntő feladatokat középfokú vagy felsőfokú iskolai végzettséggel rendelkező tisztviselők látják el. Tisztviselő a bírósági ügyintéző, a végrehajtási ügyintéző, továbbá a törvényszéki végrehajtó, végrehajtó-helyettes és a végrehajtójelölt is.
 
 (2) A bírósági ügyintéző felsőfokú iskolai végzettséggel rendelkező tisztviselő, aki a bíró feladatkörében eljárva – a bíró irányítása és felügyelete mellett – önálló felelősséggel intézi a jogszabály által hatáskörébe utalt feladatokat.
 
@@ -59,11 +59,11 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 8. § (1) A munkáltatói jogkört
 
-- a) az OIT Hivatalának vezetőhelyettese tekintetében az OIT elnöke,
-- b) az OIT Hivatalának egyéb alkalmazottai tekintetében az OIT Hivatalának a vezetője,
+- a) az OBH elnökhelyettese és egyéb alkalmazottai tekintetében az OBH elnöke,
+- b)
 - c) az igazságügyi szakértők, az egyéb igazságügyi szerv vezetője és helyettese tekintetében az igazságügyért felelős miniszter (a továbbiakban: miniszter),
 - d)
-- e) a helyi bírósági fogalmazók és titkárok, a bírósági ügyintézők, a végrehajtási ügyintézők tekintetében a fővárosi (megyei) bíróság elnöke,
+- e) a járásbírósági fogalmazók és titkárok, a bírósági ügyintézők, a végrehajtási ügyintézők tekintetében a törvényszék elnöke,
 - f) az egyéb igazságügyi alkalmazottak tekintetében az igazságügyi szerv vezetője (a továbbiakban együtt: munkáltató) gyakorolja.
 
 (2) A munkáltató a munkáltatói jogok részben vagy egészben való gyakorlását a helyettesére vagy más vezető beosztású alkalmazottra – írásban – átruházhatja.
@@ -86,7 +86,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 11. § (1) A szolgálati viszony kinevezéssel és annak elfogadásával jön létre.
 
-(2) Igazságügyi alkalmazottnak – a (3) bekezdésben meghatározott kivétellel – az a tizennyolcadik életévét betöltött, választójoggal rendelkező magyar állampolgár nevezhető ki, aki a munkakörére meghatározott iskolai végzettséggel és szakképzettséggel (a továbbiakban: képesítés) rendelkezik.
+(2) Igazságügyi alkalmazottnak – a (3) bekezdésben meghatározott kivétellel – az a tizennyolcadik életévét betöltött, cselekvőképes magyar állampolgár nevezhető ki, aki a munkakörére meghatározott iskolai végzettséggel és szakképzettséggel (a továbbiakban: képesítés) rendelkezik.
 
 (3) Igazságügyi szakértőnek, szakértőjelöltnek, – a bírósági jegyzőkönyvvezető és a cégszerkesztő kivételével – írnoknak és fizikai dolgozónak azt a tizennyolcadik életévét betöltött, a munkakörére meghatározott képesítéssel rendelkező személyt lehet kinevezni, aki
 
@@ -129,7 +129,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (3) A kinevezéshez szükséges feltételek meglétét a jelentkezőnek hiteles okiratokkal kell igazolni.
 
-13. § (1) Bírósági fogalmazónak az az egyetemi állam- és jogtudományi diplomával rendelkező személy nevezhető ki, aki az OIT Hivatala által lebonyolított felvételi versenyvizsgát sikeresen letette. Bírósági titkárnak jogi szakvizsgával rendelkező személy nevezhető ki. A titkári kinevezés előtt bírói pályaalkalmassági vizsgálaton kell részt venni. A katonai tanácsoknál működő bírósági fogalmazókat elsősorban a Magyar Honvédség ösztöndíjasai közül kell kinevezni.
+13. § (1) Bírósági fogalmazónak az az egyetemi állam- és jogtudományi diplomával rendelkező személy nevezhető ki, aki az OBH elnöke által lebonyolított felvételi versenyvizsgát sikeresen letette. Bírósági titkárnak jogi szakvizsgával rendelkező személy nevezhető ki. A titkári kinevezés előtt bírói pályaalkalmassági vizsgálaton kell részt venni. A katonai tanácsoknál működő bírósági fogalmazókat elsősorban a Magyar Honvédség ösztöndíjasai közül kell kinevezni.
 
 (2)
 
@@ -144,7 +144,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (6) A munkáltató a munkakörre előírt szakvizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
 
-(7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is – a miniszter – a bíróságok és az OIT Hivatala képesítési követelményei esetében az Országos Igazságszolgáltatási Tanács véleményének kikérésével – rendeletben határozza meg.
+(7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is – a miniszter – a bíróságok és az OBH képesítési követelményei esetében az OBH elnöke véleményének kikérésével – rendeletben határozza meg.
 
 14. § (1) Igazságügyi szolgálati viszony létesítésére – a (6) bekezdésben foglaltak kivételével – a kinevező pályázatot írhat ki. A pályázatot nyilvánosan kell meghirdetni.
 
@@ -158,7 +158,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (6) A bírósági fogalmazói állásokat nyilvános pályázat útján kell betölteni. A fogalmazói álláspályázatokat a pályázati határidő lejárta után 3 hónapon belül kell elbírálni.
 
-(7) Az OIT Hivatala a felvételi versenyvizsga letételétől számított egy évig kezeli és nyilvántartja a fogalmazói állásra pályázók
+(7) Az OBH elnöke a felvételi versenyvizsga letételétől számított egy évig kezeli és nyilvántartja a fogalmazói állásra pályázók
 
 - a) nevét,
 - b) lakcímét,
@@ -170,7 +170,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (9) Az a pályázó, aki a pályázati feltételeknek megfelel és sikeres felvételi versenyvizsgát tett, a versenyvizsga letételétől számított egy éven belül kiírt pályázat elbírálása során nem köteles újabb versenyvizsgát tenni.
 
-(10) A bírósági fogalmazók felvételi versenyvizsgájával kapcsolatos részletes igazgatási szabályokat az OIT határozza meg.
+(10) A bírósági fogalmazók felvételi versenyvizsgájával kapcsolatos részletes igazgatási szabályokat az OBH elnöke határozza meg.
 
 14/A. §
 
@@ -188,11 +188,13 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 16. § (1) Az igazságügyi alkalmazott a tevékenységének megkezdése előtt a munkáltatónál esküt tesz. Ha az igazságügyi alkalmazott az eskü letételében akadályoztatva van, az esküt ennek megszűnésétől számított nyolc napon belül kell letenni.
 
-(2) Az eskü szövege a következő:
+(2) Az eskü szövege az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll:
 
-,,Én ……………… esküszöm, hogy hazámhoz a Magyar Köztársasághoz hű leszek, az Alkotmányt és az egyéb jogszabályokat megtartom, a minősített adatot megőrzöm, munkaköri kötelességeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.''
+„A munkaköri kötelességeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.”
 
-(3) Az igazságügyi szakértő, a fővárosi, megyei bírósági végrehajtó, végrehajtó-helyettes és végrehajtójelölt, valamint a végrehajtási ügyintéző esküjének a szövegét külön jogszabály tartalmazza.
+(2a) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényben foglalt eskü szövegében szereplő tisztség megnevezése a (2) bekezdés szerinti eskü tétele során: igazságügyi alkalmazott.
+
+(3) A törvényszéki végrehajtó, végrehajtó-helyettes és végrehajtójelölt, valamint a végrehajtási ügyintéző esküjének a szövegét külön jogszabály tartalmazza.
 
 ### A kinevezés tartalmának módosítása
 
@@ -259,7 +261,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - e) a beteg gyermek ápolására táppénzes állományba helyezés, valamint a közeli hozzátartozó otthoni ápolása vagy gondozása céljából kapott fizetés nélküli szabadság ideje,
 - f) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az örökbe fogadni szándékozó igazságügyi alkalmazottat – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás ideje.
 
-(3) Ha az alkalmatlanság egészségügyi ok következménye és az igazságügyi alkalmazott rokkantsági nyugellátásra nem szerzett jogosultságot, a szolgálati viszony csak akkor szüntethető meg, ha részére az egészségi állapotának és a 18. § (2) bekezdésében foglaltaknak megfelelő más munkakört nem ajánlottak fel, vagy a megfelelő új munkakört nem fogadta el.
+(3) Ha az alkalmatlanság egészségügyi ok következménye, a szolgálati viszony csak akkor szüntethető meg, ha részére az egészségi állapotának és a 18. § (2) bekezdésében foglaltaknak megfelelő más munkakört nem ajánlottak fel, vagy a megfelelő új munkakört nem fogadta el.
 
 (4) Ha az egészségügyi alkalmatlanságra okot adó körülmény felmerülése esetén az igazságügyi alkalmazott a munkáltató által elrendelt orvosi vizsgálaton nem vesz részt, ezt úgy kell tekinteni, hogy alkalmatlanságát nem vitatja.
 
@@ -267,9 +269,9 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) Ha az alkalmatlanság nem egészségügyi ok következménye, az alkalmatlanság tényét – az e törvényben meghatározott munkakört ellátó igazságügyi alkalmazottak esetén – az értékelésnek kell tartalmaznia.
 
-24. § (1) A felmentési idő – a (2)–(4) bekezdésben írt kivételtől eltekintve – 6 hónap.
+24. § (1) A felmentési idő – a (2)–(4) bekezdésben írt kivételtől eltekintve – 3 hónap.
 
-(2) A felmentési idő 3 hónap, ha a felmentésre azért került sor, mert az igazságügyi alkalmazott a részére felajánlott megfelelő más munkakört nem fogadta el.
+(2) A felmentési idő 2 hónap, ha a felmentésre azért került sor, mert az igazságügyi alkalmazott a részére felajánlott megfelelő más munkakört nem fogadta el.
 
 (3) A felmentési idő 1 hónap, ha a felmentés az igazságügyi alkalmazott nem egészségügyi okból történő alkalmatlansága miatt történt.
 
@@ -343,13 +345,19 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 ### A vezetőkre vonatkozó rendelkezések
 
-31. § Vezetői megbízást az kaphat, aki az általános képesítési feltételeken túl, az adott szakterületen legalább három év szakmai gyakorlattal rendelkezik. Jogszabály vagy pályázat további feltételeket határozhat meg.
+31. § (1) Vezetői megbízást az kaphat, aki az általános képesítési feltételeken túl, az adott szakterületen legalább három év szakmai gyakorlattal rendelkezik. Jogszabály vagy pályázat további feltételeket határozhat meg.
+
+(2) Magasabb vezetői állásnak minősül az OBH elnökhelyettese, főosztályvezetője, a bíróságok főosztályvezetői, az egyéb igazságügyi szerv vezetője és helyettese, valamint a Fővárosi Törvényszék Gazdasági Hivatalának az igazgatója.
+
+(3) A vezetőkre –– a (4) bekezdésben foglaltak kivételével – ezen alcím rendelkezéseit kell alkalmazni.
+
+(4) Az OBH elnökhelyettese esetében a 32–34. §-ok nem alkalmazhatóak, az e §-ok szabályozási körébe tartozó kérdések tekintetében a bíróságok szervezetéről és igazgatásáról szóló törvényben foglalt rendelkezéseket kell alkalmazni.
 
 32. § (1) A vezetői megbízás – a (2) bekezdés szerinti kivételtől eltekintve – határozatlan időre szól.
 
 (2) A kinevezés határozott időre – legfeljebb 1 évre – szól, ha a magasabb vezetői állásra ismételten kiírt pályázat is eredménytelenül zárult.
 
-33. § (1) Pályázat bármely vezetői állásra kiírható, a magasabb vezetői állást pályázat útján kell betölteni. Magasabb vezetői állásnak minősül az OIT Hivatalának vezetőhelyettese, főosztályvezetője, a bíróságok főosztályvezetői, az egyéb igazságügyi szerv vezetője és helyettese, valamint a Fővárosi Bíróság Gazdasági Hivatalának az igazgatója.
+33. § (1) Pályázat bármely vezetői állásra kiírható, a magasabb vezetői állást pályázat útján kell betölteni.
 
 (2) Ha a magasabb vezetői állásra kiírt pályázat eredménytelen, új pályázatot kell kiírni. Az újabb pályázat eredménytelensége esetén a 32. § (2) bekezdésében foglaltak szerint kell eljárni.
 
@@ -373,7 +381,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 ### Az elektronikus aláírási jog
 
-35/A. § (1) Az igazságügyi alkalmazott az igazságügyi szerv döntésétől függően fokozott biztonságú vagy minősített – hivatali – elektronikus aláírásával látja el a hatáskörébe vagy munkakörébe tartozó ügyben készült elektronikus okiratot. A bíróságokkal létesített igazságügyi szolgálati viszonyban álló igazságügyi alkalmazottak vonatkozásában az igazságügyi szervet megillető jogokat és terhelő kötelezettségeket az elektronikus aláírási jogosultsággal kapcsolatos kérdésekben az OIT Hivatala gyakorolja.
+35/A. § (1) Az igazságügyi alkalmazott az igazságügyi szerv döntésétől függően fokozott biztonságú vagy minősített – hivatali – elektronikus aláírásával látja el a hatáskörébe vagy munkakörébe tartozó ügyben készült elektronikus okiratot. A bíróságokkal létesített igazságügyi szolgálati viszonyban álló igazságügyi alkalmazottak vonatkozásában az igazságügyi szervet megillető jogokat és terhelő kötelezettségeket az elektronikus aláírási jogosultsággal kapcsolatos kérdésekben az OBH elnöke gyakorolja.
 
 (2) Az igazságügyi alkalmazott a fokozott biztonságú vagy minősített elektronikus aláírással (a továbbiakban: elektronikus aláírás) kapcsolatos szolgáltatáshoz az igazságügyi szerv által megjelölt, az elektronikus aláírásról szóló 2001. évi XXXV. törvény (a továbbiakban: Eat.) szerinti elektronikus aláírással kapcsolatos szolgáltatást nyújtót (a továbbiakban: Szolgáltatót) veszi igénybe.
 
@@ -383,7 +391,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (5) Az igazságügyi szerv az elektronikus aláírás hitelesítése céljából kiállított tanúsítvány visszavonását, illetve felfüggesztését az igazságügyi alkalmazott beosztásának megváltozása, szolgálati viszonyának megszűnése, illetve egyéb ok esetén a Szolgáltatónál kezdeményezi. A Szolgáltató köteles az igazságügyi szerv megkeresésére a tanúsítványt haladéktalanul visszavonni, illetve felfüggeszteni.
 
-(6) Az igazságügyi alkalmazottak elektronikus aláírásával kapcsolatos részletes igazgatási szabályokat az OIT határozza meg.
+(6) Az igazságügyi alkalmazottak elektronikus aláírásával kapcsolatos részletes igazgatási szabályokat az OBH elnöke határozza meg.
 
 ### III. Fejezet — A SZOLGÁLATI VISZONY TARTALMÁBÓL EREDŐ JOGOK ÉS KÖTELEZETTSÉGEK
 
@@ -466,7 +474,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (5) Az igazságügyi alkalmazottat a vezetői utasítás jogszerű megtagadása, az utasítás írásba foglalására vonatkozó kérése, valamint véleményének a (4) bekezdés szerinti kinyilvánítása miatt hátrány nem érheti.
 
-41/A. § (1) A helyi bíróság hatáskörébe tartozó, törvény által meghatározott ügyben egyesbíró hatáskörében eljárásra jogosult bírósági titkárokat (a továbbiakban: kijelölt titkár) – a helyi bíróság elnökének javaslatára – a megyei bíróság elnöke jelöli ki. A kijelölésben meg kell határozni, hogy az mely ügyek körére vonatkozik.
+41/A. § (1) Törvény által meghatározott ügyben egyesbíró hatáskörében eljárásra jogosult bírósági titkárokat (a továbbiakban: kijelölt titkár) a törvényszék elnöke jelöli ki. A járásbíróságnál működő titkárok esetében a törvényszék elnöke a járásbíróság elnökének javaslatára dönt a kijelölésről. A kijelölésben meg kell határozni, hogy az mely ügyek körére vonatkozik.
 
 (2) A kijelölt titkár a kijelölését követő 30 napon belül a bírák jogállásáról és javadalmazásáról szóló törvényben foglalt módon vagyonnyilatkozatot köteles tenni. Ha a kijelölt titkár
 
@@ -683,7 +691,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 60. § A fegyelmi eljárás alá vont az eljárás elrendelésétől kezdve jogi képviselőt vehet igénybe, illetve kérheti, hogy képviseletében az igazságügyi alkalmazottak érdekképviseletét ellátó szerv járjon el.
 
-61. § (1) A fegyelmi eljárás során vizsgálatot kell tartani, amelyet a munkáltató által megjelölt határidőn belül a kijelölt vizsgálóbiztos folytat le. Vizsgálóbiztosnak csak a fegyelmi eljárás alá vontnál magasabb beosztású igazságügyi alkalmazott, továbbá az OIT Hivatalánál és a bíróságokon az ott működő bíró jelölhető ki. Magasabb beosztású igazságügyi alkalmazottnak az minősül, aki a fegyelmi eljárás alá vontnál magasabb fizetési osztályba tartozik, illetve magasabb mértékű vezetői pótlékra jogosító munkakört lát el.
+61. § (1) A fegyelmi eljárás során vizsgálatot kell tartani, amelyet a munkáltató által megjelölt határidőn belül a kijelölt vizsgálóbiztos folytat le. Vizsgálóbiztosnak csak a fegyelmi eljárás alá vontnál magasabb beosztású igazságügyi alkalmazott, továbbá az OBH-nál és a bíróságokon az ott működő bíró jelölhető ki. Magasabb beosztású igazságügyi alkalmazottnak az minősül, aki a fegyelmi eljárás alá vontnál magasabb fizetési osztályba tartozik, illetve magasabb mértékű vezetői pótlékra jogosító munkakört lát el.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően, vizsgálóbiztos kijelölése mellőzhető, ha a kötelezettségszegés csekély tárgyi súlyú és egyszerű ténybeli megítélésű, valamint a fegyelmi eljárás alá vont a fegyelemsértést elismerte. Ilyen esetben a munkáltató az ügyet közvetlenül a fegyelmi tanács elé utalja.
 
@@ -881,13 +889,13 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 ### VIII. Fejezet — A SZEMÉLYI NYILVÁNTARTÁS
 
-93. § (1) A munkáltató az igazságügyi alkalmazottról személyi nyilvántartást vezet. A helyi (munkaügyi) bírósági igazságügyi alkalmazottak személyi adatlapját a fővárosi (megyei) bíróságon is nyilván kell tartani.
+93. § (1) A munkáltató az igazságügyi alkalmazottról személyi nyilvántartást vezet. A járásbírósági és a közigazgatási és munkaügyi bírósági igazságügyi alkalmazottak személyi adatlapját a törvényszéken is nyilván kell tartani.
 
 (2) A személyi nyilvántartás a kinevezéshez szükséges iratokat, a fényképet és az esküokmányt, a személyi adatlapot, a kinevezésről, az elektronikus aláírási jogosultságról, illetve a vezetői megbízásról és az illetmény megállapításáról készült iratokat, az értékelést, az elismerésekről és a kitüntetésekről szóló okiratokat, a hatályos fegyelmi büntetésről szóló határozatot, a jogerős kártérítési határozatot, valamint a kirendelésről, áthelyezésről és a szolgálati viszony megszűnéséről szóló iratokat tartalmazza. Bírósági titkár esetén a pályaalkalmassági vizsgálatról készült véleményt a személyi nyilvántartásban kell elhelyezni.
 
 (3) A személyi adatlap tartalmát a 2. számú melléklet tartalmazza. A mellékletben szereplő adatokon kívül adatszerzés nem végezhető, ilyen adatot nem lehet nyilvántartani. Az igazságügyi alkalmazott a nyilvántartott adatokban bekövetkezett változásokat köteles haladéktalanul bejelenteni.
 
-(4) Az igazságügyi alkalmazottak személyi nyilvántartásának adatköréből az OIT Hivatala látja el a központi személyi nyilvántartás feladatait a következő adatokra vonatkozóan:
+(4) Az igazságügyi alkalmazottak személyi nyilvántartásának adatköréből az OBH látja el a központi személyi nyilvántartás feladatait a következő adatokra vonatkozóan:
 
 - a) nyilvántartási szám,
 - b) a név (nőknél a leánykori név is),
@@ -905,7 +913,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (3) Az adatok közül az igazságügyi szerv megnevezése, az igazságügyi alkalmazott neve, munkakörének az elnevezése, valamint elektronikus aláírási jogosultsága és annak típusa közérdekből nyilvános adatnak minősül, bármely más adat – a (4) bekezdésben foglalt kivétellel – nem igazságügyi szerv részére csak a személyazonosításra alkalmatlan módon adható ki.
 
-(4) Az igazságügyi szerv – a bíróságokkal létesített igazságügyi szolgálati viszony esetén az OIT Hivatala – jogosult az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból a Szolgáltató részére az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az Eat. szerint szükséges mértékben adatot továbbítani.
+(4) Az igazságügyi szerv – a bíróságokkal létesített igazságügyi szolgálati viszony esetén az OBH – jogosult az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból a Szolgáltató részére az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az Eat. szerint szükséges mértékben adatot továbbítani.
 
 (5) A személyi nyilvántartást a szolgálati viszony megszűnését követően – a 37/B. § (4) bekezdésben meghatározott kivétellel – ötven évig kell megőrizni.
 
@@ -917,13 +925,15 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - b) külön juttatásra,
 - c) egyéb javadalmazásra, kedvezményre és költségtérítésre jogosult.
 
-(2) A bírósági végrehajtási jutalomról és a végrehajtási költségátalányról szóló jogszabály szerinti juttatások a fővárosi (megyei) bírósági végrehajtót és a végrehajtásban közreműködő személyt az (1) bekezdésben foglalt járandóságon felül illetik meg.
+(2) A bírósági végrehajtási jutalomról és a végrehajtási költségátalányról szóló jogszabály szerinti juttatások a törvényszéki végrehajtót és a végrehajtásban közreműködő személyt az (1) bekezdésben foglalt járandóságon felül illetik meg.
 
 ### Az illetmény
 
 96. § (1) Az igazságügyi alkalmazott illetménye alapilletményből, továbbá – ha a folyósítás e törvényben meghatározott feltételei fennállnak – pótlékokból tevődik össze. A vezetői pótlék, a beosztási pótlék és a címpótlék alapilletmény jellegű. Az alapilletmény és az alapilletmény jellegű pótlékok együttes összege nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér) összege. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi alapilletmény és az alapilletmény jellegű pótlékok együttes összege nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 (2) Az illetmény megállapításának az alapjául a mindenkori legalacsonyabb bírói alapilletmény (a továbbiakban: illetményalap) szolgál.
+
+(3) Az OBH elnökhelyettese illetményére a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvénynek az államtitkár javadalmazására, juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
 
 ### Az alapilletmény
 
@@ -935,7 +945,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) A bírósági fogalmazót a II. fizetési osztályba, ezen belül az egyetemi végzettséget igazoló oklevél minősítésétől függően az 1–3. fizetési fokozat valamelyikébe kell besorolni. A fogalmazót legalább egy évi joggyakorlat után – az átlagon felüli munkavégzése és joggyakorlati eredménye alapján – eggyel magasabb fizetési fokozatba lehet előresorolni.
 
-(3) A legfelsőbb bírósági fogalmazót a Legfelsőbb Bíróság elnöke – kivételesen – az I. fizetési osztály 1. fizetési fokozatába sorolhatja.
+(3) A kúriai fogalmazót a Kúria elnöke – kivételesen – az I. fizetési osztály 1. fizetési fokozatába sorolhatja.
 
 99. § (1) A III. fizetési osztályba a munkakörükre előírt szakirányú felsőfokú iskolai végzettséggel (egyetem, főiskola) rendelkezők, a IV. fizetési osztályba a legalább középfokú végzettségű tisztviselők tartoznak. A besorolásnál a képesítési követelmények részletes szabályairól szóló jogszabály rendelkezéseit is figyelembe kell venni.
 
@@ -973,7 +983,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 103/A. § (1) Az igazságügyi alkalmazott alapilletménye nem lehet kevesebb
 
-- a) a Legfelsőbb Bíróság és az OIT Hivatalának alkalmazottja esetén a Ktv. 44. § (1) bekezdésében meghatározott központi közigazgatási szerveknél,
+- a) a Kúria és az OBH alkalmazottja esetén a Ktv. 44. § (1) bekezdésében meghatározott központi közigazgatási szerveknél,
 - b) az egyéb igazságügyi szerv alkalmazottja esetén a Ktv. 44. § (2) bekezdésében meghatározott központi közigazgatási szerveknél,
 - c) az a)–b) pontba nem tartozó szervek alkalmazottja esetén a Kormány általános hatáskörű területi államigazgatási szervénél
 
@@ -987,7 +997,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 ### A vezetői pótlék
 
-104. § (1) Vezetői pótlékra jogosult az OIT Hivatalának vezetőhelyettese, az egyéb igazságügyi szerv vezetője és helyettese, a főosztályvezető és a főosztályvezető-helyettes, az igazgató és az igazgatóhelyettes, az osztályvezető és az osztályvezető-helyettes, a csoportvezető és a csoportvezető-helyettes, valamint a bírósági irodavezető.
+104. § (1) Vezetői pótlékra jogosult az egyéb igazságügyi szerv vezetője és helyettese, a főosztályvezető és a főosztályvezető-helyettes, az igazgató és az igazgatóhelyettes, az osztályvezető és az osztályvezető-helyettes, a csoportvezető és a csoportvezető-helyettes, valamint a bírósági irodavezető.
 
 (2) A bírósági irodavezető vezetői pótlékra csak akkor jogosult, ha legalább két beosztottja van.
 
@@ -995,9 +1005,9 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 ### A beosztási pótlék
 
-105. § (1) A Legfelsőbb Bíróságon, az OIT Hivatalánál és az egyéb igazságügyi szerveknek a Kormány által rendeletben meghatározott szervezeti egységénél dolgozó felsőfokú végzettségű tisztviselőt beosztási pótlék illeti meg.
+105. § (1) Kúrián, az OBH-nál és az egyéb igazságügyi szerveknek a Kormány által rendeletben meghatározott szervezeti egységénél dolgozó felsőfokú végzettségű tisztviselőt beosztási pótlék illeti meg.
 
-(2) A beosztási pótlék mértéke a Legfelsőbb Bíróságon és az OIT Hivatalánál az illetményalap 10–15 százaléka, az egyéb igazságügyi szerveknél 5–10 százaléka.
+(2) A beosztási pótlék mértéke a Kúrián és az OBH-nál az illetményalap 10–15 százaléka, az egyéb igazságügyi szerveknél 5–10 százaléka.
 
 (3) A pótlék összegét a (2) bekezdésben foglalt határok között a tisztviselő igazságügyi szolgálati idejének a figyelembevételével kell megállapítani.
 
@@ -1038,7 +1048,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 ### Munkaköri pótlék
 
-109. § Az igazságügyi szakértő az igazságügyi szolgálati idejétől függően az illetményalap 15–30 százalékának, a bírósági ügyintéző az illetményalap 10–15 százalékának, a fővárosi (megyei) bírósági végrehajtó és a végrehajtási ügyintéző az illetményalap 8 százalékának megfelelő összegű munkaköri pótlékra jogosult.
+109. § Az igazságügyi szakértő az igazságügyi szolgálati idejétől függően az illetményalap 15–30 százalékának, a bírósági ügyintéző az illetményalap 10–15 százalékának, a törvényszéki végrehajtó és a végrehajtási ügyintéző az illetményalap 8 százalékának megfelelő összegű munkaköri pótlékra jogosult.
 
 ### Kirendelési díj
 
@@ -1105,19 +1115,23 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 ### Egyéb javadalmazások, kedvezményekés költségtérítések
 
-119. § (1) Az igazságügyi alkalmazott cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. Az Országos Igazságszolgáltatási Tanács, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében – ha jogszabály eltérően nem rendelkezik – az irányító miniszter további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
+119. § (1) Az igazságügyi alkalmazott cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. Az OBH elnöke, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében – ha jogszabály eltérően nem rendelkezik – az irányító miniszter további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
 (2) Nem jogosult cafetéria-juttatásra az igazságügyi alkalmazott azon időtartam vonatkozásában, amelyre illetményre vagy átlagkeresetre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
-(3) Az igazságügyi alkalmazott írásban vagy elektronikus úton a tárgyév január 15-ig, illetve a jogviszony létesítésekor vagy az áthelyezésekor nyilatkozik arról, hogy a cafetéria-juttatás összegén belül milyen juttatásokra tart igényt. A nyilatkozat ezt követően csak akkor módosítható, ha azt az Országos Igazságszolgáltatási Tanács szabályzata, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében a miniszter utasításban lehetővé teszi. Az Országos Igazságszolgáltatási Tanács szabályzatban, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében a miniszter utasításban előírhatja, hogy az igazságügyi alkalmazott helyi utazására szolgáló bérlet választására vonatkozó nyilatkozatot korábban kell megtenni.
+(3) Az igazságügyi alkalmazott írásban vagy elektronikus úton a tárgyév január 15-ig, illetve a jogviszony létesítésekor vagy az áthelyezésekor nyilatkozik arról, hogy a cafetéria-juttatás összegén belül milyen juttatásokra tart igényt. A nyilatkozat ezt követően csak akkor módosítható, ha azt az OBH elnöke szabályzata, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében a miniszter utasításban lehetővé teszi. Az OBH elnöke szabályzatban, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében a miniszter utasításban előírhatja, hogy az igazságügyi alkalmazott helyi utazására szolgáló bérlet választására vonatkozó nyilatkozatot korábban kell megtenni.
 
-(4) Az igazságügyi alkalmazottat megillető cafetéria-juttatás éves összegét az Országos Igazságszolgáltatási Tanács, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében – ha jogszabály eltérően nem rendelkezik – az irányító miniszter határozza meg, az azonban nem lehet alacsonyabb az illetményalap ötven százalékánál, és nem lehet magasabb az illetményalap háromszorosánál. A cafetéria-juttatás éves összege biztosít fedezetet az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.
+(4) Az igazságügyi alkalmazottat megillető cafetéria-juttatás éves összegét az OBH elnöke, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében – ha jogszabály eltérően nem rendelkezik – az irányító miniszter határozza meg, az azonban nem lehet alacsonyabb az illetményalap ötven százalékánál, és nem lehet magasabb az illetményalap háromszorosánál. A cafetéria-juttatás éves összege biztosít fedezetet az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.
 
 (5) A (2) bekezdésben meghatározott esetben, illetve ha az igazságügyi alkalmazott jogviszonya a tárgyév közben szűnik meg, az időarányos részt meghaladó mértékben igénybe vett cafetéria-juttatás értékét a távollét vége utáni első munkanapon, illetve a jogviszony megszűnésekor vissza kell fizetni, illetve – az igazságügyi alkalmazott választása szerint, ha a juttatás természete ezt lehetővé teszi – vissza kell adni (a továbbiakban együtt: visszafizetés). Nem kell visszafizetni a cafetéria-juttatás értékét, ha a jogviszony az igazságügyi alkalmazott halála miatt szűnik meg.
 
 (6) Ha az igazságügyi alkalmazottat a tárgyév közben áthelyezik, cafetéria-juttatásra az egyes munkáltatóknál időarányosan jogosult. Ha az igazságügyi alkalmazott a korábbi munkáltatónál az időarányos részt meghaladó értékű cafetéria-juttatást vett igénybe, visszafizetési kötelezettség nem terheli, azonban az időarányos részt meghaladó mértékkel az új munkáltatónál igénybe vehető cafetéria-juttatás értékét – legfeljebb az új munkáltatónál igénybe vehető juttatás mértékéig – csökkenteni kell.
 
-120. §
+120. § (1) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzatán belül – az igazságügyi alkalmazott részére képzettségi pótlékot állapíthat meg felsőfokú iskolarendszerű képzésben, továbbképzésben szerzett szakképesítés, szakképzettség, továbbá doktori (PhD) vagy ennél magasabb tudományos fokozat elnyerése esetén, ha a megszerzett ismeretek a munkaköre ellátásánál vagy a feladatainak teljesítése során közvetlenül hasznosíthatók.
+
+(2) A képzettségi pótlék összege az illetményalap tíz százalékától harminc százalékáig terjedhet.
+
+(3) Ha az igazságügyi alkalmazott a munkáltatóval kötött tanulmányi szerződés alapján pénzügyi támogatást kap a képzettség megszerzéséhez, a képzettségi pótlékra addig nem jogosult, amíg a havonta fizethető pótlék összege nem éri el a tanulmányi szerződés alapján számára nyújtott pénzügyi támogatás mértékét.
 
 121. § (1) Az igazságügyi alkalmazott részére a költségvetésben biztosított előirányzatoktól függően egyéb juttatások adhatók, így különösen:
 
@@ -1175,15 +1189,19 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 - b) a személyi alapbér legfeljebb 20 százalékkal való emelése,
 - c) pénz- vagy tárgyjutalom,
 - d) főtanácsosi vagy tanácsosi cím adományozása,
-- e) a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvénnyel alapított kitüntetés, illetve az e törvényben kapott felhatalmazás alapján alapított díj, oklevél, plakett stb.
+- e) Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel alapított kitüntetés, illetve az e törvényben kapott felhatalmazás alapján alapított díj, oklevél, plakett stb.
 
-(2) Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a III. fizetési osztályba tartozó, a tanácsosi cím pedig a IV. fizetési osztályba tartozó igazságügyi alkalmazott részére adományozható. A cím adományozására a bíróság és az OIT Hivatala alkalmazottainak tekintetében az OIT, más igazságügyi alkalmazott tekintetében a miniszter jogosult.
+(2) Legalább 10 év tényleges szolgálati viszony fennállása és huzamos idejű színvonalas munkavégzés alapján főtanácsosi cím a III. fizetési osztályba tartozó, a tanácsosi cím pedig a IV. fizetési osztályba tartozó igazságügyi alkalmazott részére adományozható. A cím adományozására a bíróság és az OBH alkalmazottainak tekintetében az Országos Bírói Tanács, más igazságügyi alkalmazott tekintetében a miniszter jogosult.
 
-123. § Az e törvény alapján adható juttatások, kedvezmények és elismerések részletes szabályait, valamint e törvény keretei között azok mértékét az érdekképviseleti szervekkel együttműködve az OIT, illetve a miniszter állapítja meg.
+(3) Kiváló munkavégzés esetén és igazságügyi szolgálati jogviszonyban eltöltött legalább tíz év után az I. fizetési osztályba tartozó igazságügyi alkalmazottnak „főtanácsos” cím adományozható.
+
+(4) A címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta. A címpótlék alapilletmény jellegű.
+
+123. § Az e törvény alapján adható juttatások, kedvezmények és elismerések részletes szabályait, valamint e törvény keretei között azok mértékét az érdekképviseleti szervekkel együttműködve az OBH elnöke, illetve a miniszter állapítja meg.
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 3. §-ának (2)–(4) bekezdéseit, 4. §-ának (2)–(3) bekezdéseit, 5–6. §-ait, 7. §-ának (1)–(5) bekezdéseit, 8–9. §-ait, 10. §-ának (1)–(3) bekezdéseit, 11–15. §-ait, 18–19/A. §-ait, 21–28. §-ait, 74. §-át, 75. §-ának (1) bekezdését, 76. §-ának (6)–(8) bekezdéseit, 76/B. §-át, 78/A. §-át, 79. § (2) bekezdését, 84. §-át, 84/A. § (1) bekezdés a) pontját és (2) bekezdését, 85. §-át, 87/A. §-át, 89. §-ának (7) bekezdését, 90. §-ának (3)–(4) és (6) bekezdéseit, 93. §-ának (4) bekezdését, 107. §-át, 116. §-át, 117. §-ának (1) bekezdését, 117/B. §-ának (2) bekezdését, (3) bekezdése a) pontját és (5) bekezdését, 118. §-ának (2) bekezdését, 118/A. §-ának (4)–(5) bekezdéseit, 119. §-át, 120. §-át, 121. §-át, 125. §-át, 129. §-át, 130. §-ának (2) bekezdését, 132. §-ának (2)–(3) bekezdéseit, 133. §-át, 135–136. §-ait, 137–140/A. §-ait, 142/A. §-át, 144. §-ának (1) bekezdését, 150. §-ának (2) bekezdését, 151. §-át, 151/A. §-ának (1)–(2), (4)–(6) bekezdéseit, 152. §-ának (1)–(9) bekezdéseit, 153. §-át, 155–164. §-ait, 202. §-ának (2) bekezdését megfelelően alkalmazni kell.
+124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 3. §-ának (2)–(4) bekezdéseit, 4. §-ának (2)–(3) bekezdéseit, 5–6. §-ait, 7. §-ának (1)–(5) bekezdéseit, 8–9. §-ait, 10. §-ának (1)–(3) bekezdéseit, 11–15. §-ait, 18–19/A. §-ait, 21–28. §-ait, 74. §-át, 75. §-ának (1) bekezdését, 76. §-ának (6)–(8) bekezdéseit, 76/B. §-át, 78/A. §-át, 79. § (2) bekezdését, 84. §-át, 84/A. § (1) bekezdés a) pontját és (2) bekezdését, 85. §-át, 85/A. § (1) és (2) bekezdését, 87/A. §-át, 89. §-ának (7) bekezdését, 90. §-ának (3)–(4) és (6) bekezdéseit, 93. §-ának (4) bekezdését, 107. §-át, 116. §-át, 117. §-ának (1) bekezdését, 117/B. §-ának (2) bekezdését, (3) bekezdése a) pontját és (5) bekezdését, 118. §-ának (2) bekezdését, 118/A. §-ának (4)–(5) bekezdéseit, 119. §-át, 120. §-át, 121. §-át, 125. §-át, 129. §-át, 130. §-ának (2) bekezdését, 132. §-ának (2)–(3) bekezdéseit, 133. §-át, 135–136. §-ait, 137–140/A. §-ait, 142/A. §-át, 144. §-ának (1) bekezdését, 150. §-ának (2) bekezdését, 151. §-át, 151/A. §-ának (1)–(2), (4)–(6) bekezdéseit, 152. §-ának (1)–(9) bekezdéseit, 153. §-át, 155–164. §-ait, 202. §-ának (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt. 110–115. §-ainak a rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az igazságügyi alkalmazott más munkáltatóval tanulmányi szerződést csak a munkáltatója előzetes engedélyével köthet.
 
@@ -1193,7 +1211,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 125. § (1) E törvény – a (2) bekezdésben foglalt kivételtől eltekintve – 1997. október 1-jén lép hatályba.
 
-(2) A törvényben meghatározott javadalmazásra az OIT Hivatalának az alkalmazottai 1998. február 1. napjától, az egyéb igazságügyi alkalmazottak 1998. július 1. napjától jogosultak.
+(2)
 
 126. § Az e törvény hatálybalépése előtt kinevezett bírósági fogalmazó joggyakorlatának teljesítésére és időtartamára az e törvény hatálybalépése előtt hatályos jogszabályokat kell alkalmazni.
 
@@ -1219,6 +1237,10 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 
 134. § Az igazságügyi alkalmazott az e törvény hatálybalépése előtt adományozott főtanácsosi és tanácsosi címeket tovább viselheti, amennyiben az adományozás feltételeinek megfelel, a címmel járó pótlékot is e törvény rendelkezései szerint kell folyósítani.
 
+134/A. § (1) Ahol a törvény járásbíróságról rendelkezik, ott 2012. december 31. napjáig a kerületi és városi bíróságot, illetve együtt a helyi bíróságot kell érteni.
+
+(2) Ahol a törvény közigazgatási és munkaügyi bíróságról rendelkezik, ott 2012. december 31. napjáig munkaügyi bíróságot kell érteni.
+
 135. § (1) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerveket rendeletben határozza meg.
 
 (2) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerv esetében meghatározza a beosztási pótlék megállapítására jogosító szervezeti egységeket.
@@ -1226,8 +1248,8 @@ a besorolása szerint azonos szolgálati idővel rendelkező köztisztviselő Kt
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a)
-- b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OIT Hivatalára és a bíróságokra vonatkozóan az OIT véleményének kikérésével egyetértésével –,
-- c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OIT véleményének kikérésével,
+- b) az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OBH-ra és a bíróságokra vonatkozóan az OBH elnöke véleményének kikérésével –,
+- c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OBH elnöke véleményének kikérésével,
 - d) az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
 
 rendeletben állapítsa meg.
@@ -1283,11 +1305,11 @@ rendeletben állapítsa meg.
 
 #### A bírósági titkár és a bírósági fogalmazó alapilletménye
 
-| Fizetési osztály | Fizetési fokozatok és a szorzószámok, az illetményalap = 1 |  |  |  |
+| Fizetési osztály | Fizetési fokozatok és a szorzószámok (az illetményalap = 1) |  |  |  |
 | --- | --- | --- | --- | --- |
 | 1. | 2. | 3. | 4. |
-| I. osztály bírósági titkár | 0,70 0–3 év | 0,75 4–6 év | 0,80 7–9 év | 0,90 10 évtől |
-| II. osztály bírósági fogalmazó | 0,38 | 0,41 | 0,44 | 0,47 |
+| I. osztály: bírósági titkár | 0,7 (0–2 év) | 0,8 (3–4 év) | 0,9 (5–6 év) | 1 (7 évtől) |
+| II. osztály: bírósági fogalmazó | 0,38 | 0,41 | 0,44 | 0,47 |
 
 ### 4. számú melléklet az 1997. évi LXVIII. törvényhez
 
@@ -1321,7 +1343,7 @@ Vezetői pótlékok (az illetményalap = 1)
 
 ______________________________
 
-- 1. Az OIT Hivatalának vezetőhelyettese 0,60
+- 1.
 - 2. Főosztályvezető, az egyéb igazságügyi szerv vezetője és helyettese – 0,40–0,60
 - 3. Főosztályvezető-helyettes, igazgató 0,35–0,45
 - 4. Osztályvezető, igazgatóhelyettes – 0,25–0,40

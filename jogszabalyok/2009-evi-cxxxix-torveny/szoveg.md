@@ -4,12 +4,12 @@ a 2011. évi népszámlálásról
 
 Az Országgyűlés az Európai Parlament és a Tanács nép- és lakásszámlálásról szóló 763/2008/EK (2008. július 9.) rendeletének, valamint a statisztikáról szóló 1993. évi XLVI. törvény 6. § (1) bekezdésének c) pontjában foglaltaknak megfelelően a 2011. évi népszámlálásról a következő törvényt alkotja:
 
-1. § (1) A Magyar Köztársaság területén 2011. október 1-jén 0 órakor fennálló állapot alapulvételével az Európai Parlament és a Tanács nép- és lakásszámlálásról szóló 763/2008/EK (2008. július 9.) rendelete, a statisztikáról szóló 1993. évi XLVI. törvény, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, valamint a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény rendelkezéseinek figyelembevételével a természetes személyekről és a lakásokról nép- és lakásszámlálást (a továbbiakban: népszámlálás) kell tartani.
+1. § (1) A Magyar Köztársaság területén 2011. október 1-jén 0 órakor fennálló állapot alapulvételével az Európai Parlament és a Tanács nép- és lakásszámlálásról szóló 763/2008/EK (2008. július 9.) rendelete, a statisztikáról szóló 1993. évi XLVI. törvény, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, valamint a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény rendelkezéseinek figyelembevételével a természetes személyekről és a lakásokról nép- és lakásszámlálást (a továbbiakban: népszámlálás) kell tartani.
 
 (2) A népszámlálás kiterjed
 
-- a) a Magyar Köztársaság területén élő vagy átmenetileg külföldön tartózkodó, de Magyarországon bejelentett lakóhellyel, tartózkodási hellyel rendelkező magyar állampolgárokra,
-- b) a Magyar Köztársaság területén három hónapnál hosszabb ideig tartózkodó
+- a) a Magyarország területén élő vagy átmenetileg külföldön tartózkodó, de Magyarországon bejelentett lakóhellyel, tartózkodási hellyel rendelkező magyar állampolgárokra,
+- b) a Magyarország területén három hónapnál hosszabb ideig tartózkodó
   - ba) EGT-állampolgárokra,
   - bb) harmadik országbeli állampolgárokra és
   - bc) hontalan személyekre
@@ -46,7 +46,7 @@ Az Országgyűlés az Európai Parlament és a Tanács nép- és lakásszámlál
 
 (3) A Magyar Honvédség és a rendvédelmi szervek által fenntartott intézetek és a befogadó állomások, valamint az ezekben az intézetekben és a befogadó állomásokon élők vonatkozásában a népszámlálás helyi előkészítéséért és az adatfelvétel végrehajtásáért – a települési (a fővárosban a kerületi) önkormányzat jegyzőjével együttműködve – az intézet, befogadó állomás vezetője a felelős.
 
-(4) A begyűjtött adatok a feldolgozási folyamat lezárásáig a Magyar Köztársaság területét nem hagyhatják el.
+(4) A begyűjtött adatok a feldolgozási folyamat lezárásáig Magyarország területét nem hagyhatják el.
 
 5. § Ez a törvény az Európai Parlament és a Tanács nép- és lakásszámlálásról szóló 763/2008/EK (2008. július 9.) rendeletének végrehajtását szolgálja.
 

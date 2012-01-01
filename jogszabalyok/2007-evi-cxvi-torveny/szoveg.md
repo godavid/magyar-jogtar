@@ -2,7 +2,7 @@
 
 a közellátás biztonsága szempontjából kiemelkedő jelentőségű vállalkozásokat érintő egyes törvények módosításáról
 
-Az Országgyűlés a Magyar Köztársaság gazdasági életét jelentősen befolyásoló energetikai társaságoknak a nemzetgazdaság működésében és a közellátás biztosításában betöltött meghatározó szerepére tekintettel az Európai Unió jogszabályainak való megfelelést biztosító, objektív, átlátható és az egyenlő bánásmód követelményeinek megfelelő szabályozás kialakítása érdekében a következő törvényt alkotja:
+Az Országgyűlés Magyarország gazdasági életét jelentősen befolyásoló energetikai társaságoknak a nemzetgazdaság működésében és a közellátás biztosításában betöltött meghatározó szerepére tekintettel az Európai Unió jogszabályainak való megfelelést biztosító, objektív, átlátható és az egyenlő bánásmód követelményeinek megfelelő szabályozás kialakítása érdekében a következő törvényt alkotja:
 
 1. § (1) E törvény alkalmazásában
 

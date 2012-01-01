@@ -1429,7 +1429,7 @@ b) a 94. § (4) bekezdésében meghatározott képzés támogatására a (2) bek
 - b) rendeletben állapítsa meg a gazdálkodó szervezetek 2000. évi egyedi termelési támogatásait és annak felhasználási szabályait,
 - c) rendeletben állapítsa meg a felszámolási eljárás alatt lévő vállalkozások vagyonának megvásárlását elősegítő támogatás szabályait,
 - d) rendeletben állapítsa meg az e törvény 31. §-a (12) bekezdésében megállapított tartalékalap képzésének és felhasználásának részletes szabályait,
-- e) rendeletben állapítsa meg a fiatal házasok, a többgyermekes családok és más arra rászorultak méltányolható igényű otthonhoz jutásához szükséges támogatás, valamint hitelek kamattámogatásának módját, továbbá ezek részletes szabályait,
+- e)
 - f) rendeletben állapítsa meg a 36. § szerint vállalható agrárkezesség felhasználásának szabályait.
 
 (2) Felhatalmazást kap a pénzügyminiszter, hogy

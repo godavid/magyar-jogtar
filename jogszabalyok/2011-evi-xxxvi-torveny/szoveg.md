@@ -6,7 +6,17 @@ Az Országgyűlés felismerve, hogy a közszolgálaton belül a polgári köziga
 
 ### I. Fejezet — A NEMZETI KÖZSZOLGÁLATI EGYETEM LÉTESÍTÉSE
 
-1. §
+1. § (1) Az Országgyűlés a (2) bekezdésben meghatározott felsőoktatási intézményeket és kart – az átalakulással létesülő új állami felsőoktatási intézmény egyidejű jogutódlásával – alakítja át.
+
+(2) A jogutód intézmény
+
+- a) a Zrínyi Miklós Nemzetvédelmi Egyetem (a továbbiakban: ZMNE) és
+- b) a Rendőrtiszti Főiskola (a továbbiakban: RTF) átalakulásával, valamint
+- c) a Budapesti Corvinus Egyetemből (a továbbiakban: BCE) kiváló Közigazgatástudományi Kar (a továbbiakban: Kar) csatlakozásával 2012. január 1-jén jön létre.
+
+(3) A (2) bekezdésben meghatározott szervezetek (a továbbiakban együtt: jogelőd) általános jogutódja 2012. január 1-jétől a Nemzeti Közszolgálati Egyetem (a továbbiakban: Egyetem).
+
+(4) Az Egyetem székhelye: Budapest.
 
 2. § (1) Az Egyetem fenntartói jogait Fenntartói Testület (a továbbiakban: FT) útján
 
@@ -16,15 +26,17 @@ Az Országgyűlés felismerve, hogy a közszolgálaton belül a polgári köziga
 
 felelős miniszterek közösen gyakorolják.
 
-(2)
+(2) Az Egyetemet illetik meg a jogelőd jogai, és terhelik azok kötelezettségei.
 
-(3)
+(3) A Kar, a ZMNE és az RTF az Egyetem egyetemi karaként működik tovább.
 
-(4)
+(4) A karok gazdálkodási önállóságát biztosító dékáni kötelezettségvállalási jogosultságot a szervezeti és működési szabályzatban kell meghatározni. Az Egyetem kara önálló előirányzat-felhasználási keretszámlával rendelkezik, és ennek keretében önállóan gazdálkodik.
 
-(5)
+(5) A jogelődnél 2012. január 1-je előtt keletkezett adósság, illetve kötelezettségvállalás a 13. § (3) bekezdés szerint elkészített költségvetési javaslatban a jogelődből létrejövő kart terheli.
 
-3. §
+3. § (1) A jogelőd alkalmazottainak foglalkoztatásra irányuló jogviszonya és hallgatóinak hallgatói jogviszonya az Egyetemen folyamatos.
+
+(2) Az Egyetemen – a jogelődnél indult alap- vagy mesterszakokon, szakirányú továbbképzési szakokon, szakképzési programokban, valamint doktori képzéseken – a képzés folytatásának feltételeit biztosítani kell addig, amíg a 2011–2012. tanévre, illetve korábban felvett hallgatók nem fejezik be tanulmányaikat azon a szakon, amelyen azt megkezdték.
 
 ### II. Fejezet — AZ ÁTALAKULÁS SZABÁLYAI
 
@@ -127,7 +139,11 @@ felelős miniszterek közösen gyakorolják.
 
 (11) Az ISZ üléseinek állandó meghívottjai a 2. § (1) bekezdésében felsorolt miniszterek képviselői.
 
-15. §
+15. § (1) A ZMNE és az RTF szenátusa, valamint a Kar kari tanácsa az Egyetem karainak kari tanácsaiként működnek tovább. Az Egyetem szenátusának megalakulásával egyidejűleg az Egyetem szervezeti és működési szabályzata szerint valamennyi kari tanácsot újra kell választani.
+
+(2) A kari tanácsokban az Egyetem szabályzatainak átalakításával a kialakult hallgatói arány nem csökkenthető.
+
+(3) Az Egyetemen minden új intézményi vezetői megbízást első megbízásnak kell tekinteni.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -135,9 +151,12 @@ felelős miniszterek közösen gyakorolják.
 
 (2) E törvény 1. §-a, 2. § (2)–(5) bekezdése, 3. §-a, 15. §-a, és 17–18. §-a 2012. január 1-jén lép hatályba.
 
-17. §
+17. § A felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: Ftv.) 1. számú mellékletének „Állami egyetemek” alcíme a magyar ábécé által meghatározott felsorolás rendje szerint kiegészül a „Nemzeti Közszolgálati Egyetem, Budapest” szöveggel.
 
-18. §
+18. § Hatályát veszti az Ftv. 1. számú mellékletének
+
+- a) „Állami egyetemek” alcímében „Zrínyi Miklós Nemzetvédelmi Egyetem, Budapest” szövegrésze, valamint
+- b) „Állami főiskolák” alcímében „Rendőrtiszti Főiskola, Budapest” szövegrész.
 
 19. § Az igazgatási felsőoktatásban képzés a közigazgatás fejlesztésért felelős miniszter előzetes engedélyével, a rendvédelmi felsőoktatásban a rendészetért felelős miniszter, továbbá a katonai felsőoktatásban a honvédelemért felelős miniszter előzetes engedélye alapján indulhat. A közigazgatás-fejlesztésért felelős miniszter előzetes engedélyére a 2013–2014-es tanévtől új belépők számára induló képzések esetén van szükség.
 

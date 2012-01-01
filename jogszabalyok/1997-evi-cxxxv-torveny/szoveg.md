@@ -2,7 +2,7 @@
 
 a helyi önkormányzatok társulásairól és együttműködéséről
 
-Az Országgyűlés a helyi önkormányzatok Alkotmányban és a helyi önkormányzatokról szóló 1990. évi LXV. törvényben meghatározott társulási jogának gyakorlati érvényesítése, a helyi önkormányzatok együttműködésének bővítése, közös érdekű feladataik célszerűbb, gazdaságosabb és hatékonyabb megvalósítása, a polgároknak nyújtott közszolgáltatásaik színvonalának javítása, a térségi kapcsolatok elmélyítése, a társulások általánosabbá és tartósabbá tétele érdekében az alábbi törvényt alkotja:
+Az Országgyűlés a helyi önkormányzatok Alaptörvényben és a helyi önkormányzatokról szóló 1990. évi LXV. törvényben meghatározott társulási jogának gyakorlati érvényesítése, a helyi önkormányzatok együttműködésének bővítése, közös érdekű feladataik célszerűbb, gazdaságosabb és hatékonyabb megvalósítása, a polgároknak nyújtott közszolgáltatásaik színvonalának javítása, a térségi kapcsolatok elmélyítése, a társulások általánosabbá és tartósabbá tétele érdekében az alábbi törvényt alkotja:
 
 ### Általános rendelkezések
 
@@ -106,9 +106,9 @@ Az Országgyűlés a helyi önkormányzatok Alkotmányban és a helyi önkormán
 - a) szükség szerint, de évente legalább két alkalommal;
 - b) a társulási megállapodásban vagy a társulási tanács által meghatározott időpontban;
 - c) a társulás bármely tagjának – napirendet tartalmazó – indítványára;
-- d) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv kezdeményezésére.
+- d) a fővárosi és megyei kormányhivatal kezdeményezésére.
 
-(4) A társulási tanács üléséről jegyzőkönyvet kell készíteni, melyre a képviselő-testület üléséről készített jegyzőkönyvre vonatkozó szabályokat kell alkalmazni azzal, hogy a jegyzőkönyvet az elnök és a társulási tanács által felhatalmazott személy írja alá. A jegyzőkönyvet tizenöt napon belül meg kell küldeni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek.
+(4) A társulási tanács üléséről jegyzőkönyvet kell készíteni, melyre a képviselő-testület üléséről készített jegyzőkönyvre vonatkozó szabályokat kell alkalmazni azzal, hogy a jegyzőkönyvet az elnök és a társulási tanács által felhatalmazott személy írja alá. A jegyzőkönyvet tizenöt napon belül meg kell küldeni a a fővárosi és megyei kormányhivatalnak.
 
 14. § (1) A társulási tanács akkor határozatképes, ha ülésén a megállapodásban meghatározott számú, de legalább a szavazatok több mint a felével rendelkező képviselő jelen van. A javaslat elfogadásához a megállapodásban meghatározott számú, de legalább annyi képviselő igen szavazata szükséges, amely meghaladja a jelenlévő képviselők szavazatainak több mint a felét.
 
@@ -152,9 +152,9 @@ Az Országgyűlés a helyi önkormányzatok Alkotmányban és a helyi önkormán
 
 ### Vegyes és záró rendelkezések
 
-20. § (1) A társulási megállapodást az aláírást követő tizenöt napon belül meg kell küldeni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek, amely arra harminc napon belül törvényességi észrevételt tehet.
+20. § (1) A társulási megállapodást az aláírást követő tizenöt napon belül meg kell küldeni a a fővárosi és megyei kormányhivatalnak, amely arra harminc napon belül törvényességi észrevételt tehet.
 
-(2) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv törvényességi ellenőrzési jogkörében vizsgálja, hogy a társulás szervezete, működése, döntéshozatali eljárása megfelel-e a jogszabályoknak.
+(2) A fővárosi és megyei kormányhivatal törvényességi ellenőrzési jogkörében vizsgálja, hogy a társulás szervezete, működése, döntéshozatali eljárása megfelel-e a jogszabályoknak.
 
 (3) Önkormányzati hatáskör, valamint törvény által a képviselő-testület hatáskörébe utalt
 

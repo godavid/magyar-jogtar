@@ -30,7 +30,7 @@ a közjegyzőkről
 
 5. § (1) A közjegyző a közreműködését e törvényben említetteken kívül más okból nem tagadhatja meg. A közjegyző közreműködését végzéssel tagadja meg, a végzést írásban kell közölni azzal a féllel, aki a közjegyzőt a közreműködésre felkérte.
 
-(2) A közreműködést kérő fél a végzés felülvizsgálatát kérheti a közjegyző székhelye szerinti megyei bíróságtól. A bíróság a végzést a közigazgatási nemperes eljárás szabályai szerint vizsgálja felül azzal, hogy végzésében a kérelmet elutasítja, vagy a végzést hatályon kívül helyezi és a közjegyzőt az eljárás lefolytatására utasítja. A bíróság határozata ellen felülvizsgálatnak nincs helye.
+(2) A közreműködést kérő fél a végzés felülvizsgálatát kérheti a közjegyző székhelye szerinti törvényszéktől. A bíróság a végzést a közigazgatási nemperes eljárás szabályai szerint vizsgálja felül azzal, hogy végzésében a kérelmet elutasítja, vagy a végzést hatályon kívül helyezi és a közjegyzőt az eljárás lefolytatására utasítja. A bíróság határozata ellen felülvizsgálatnak nincs helye.
 
 6. § A közjegyzőt a tevékenységéért jogszabályban meghatározott díj és költségtérítés illeti meg.
 
@@ -112,7 +112,7 @@ a közjegyzőkről
 - b) a területi kamara elnöksége,
 - c) a Magyar Országos Közjegyzői Kamara.
 
-14. § (1) Az önkormányzati szervek jogi személyek, jogosultak az állami címer használatára.
+14. § (1) Az önkormányzati szervek jogi személyek,.
 
 (2) A közjegyző a kinevezésével a területi kamara tagjává válik. A közjegyzőjelölt és a közjegyzőhelyettes a kamarai névjegyzékbe történő bejegyzésével válik a területi kamara tagjává.
 
@@ -142,7 +142,7 @@ a közjegyzőkről
 
 - a) magyar állampolgár,
 - b)
-- c) választójoggal rendelkezik,
+- c) az országgyűlési képviselők választásán választható,
 - d) egyetemi jogi végzettséggel rendelkezik,
 - e) a jogi szakvizsgát letette,
 - f) legalább 3 évi közjegyzőhelyettesi gyakorlatot igazol,
@@ -179,11 +179,11 @@ a közjegyzőkről
 
 (2) Annak a területi kamarának az elnöksége, amelynek területén a megüresedett közjegyzői állás van, a pályázatot meghirdeti, és a pályázók közül javaslatot tesz a kinevezésre.
 
-19. § Olyan közjegyzői székhely esetén, ahol jelentős számban élnek nemzeti kisebbséghez tartozók, a nemzetiség nyelvét ismerő pályázót előnyben kell részesíteni.
+19. § Olyan közjegyzői székhely esetén, ahol jelentős számban élnek nemzetiséghez tartozók, a nemzetiség nyelvét ismerő pályázót előnyben kell részesíteni.
 
 20. § (1) Közjegyzőt a beleegyezése nélkül nem lehet más székhelyre áthelyezni.
 
-(2) Az érintett egy vagy több területi kamara elnökségének javaslatára a miniszter a közjegyzőket — beleegyezésükkel — pályázat kiírása nélkül kölcsönösen áthelyezheti.
+(2) Az érintett egy vagy több területi kamara elnökségének javaslatára a miniszter a közjegyzőket – beleegyezésükkel – pályázat kiírása nélkül kölcsönösen áthelyezheti. Nincs helye kölcsönös áthelyezésnek a közjegyző kinevezését követő 3 éven belül és a közjegyzőre irányadó öregségi nyugdíjkorhatár betöltésének napját megelőző 5 éven belül.
 
 (3) Ha a közjegyzői álláshelyet a miniszter – a 18. §-ban foglaltak szerint – más székhelyre kinevezett közjegyző személyével tölti be, a közjegyzőt e székhelyre helyezi át.
 
@@ -191,7 +191,9 @@ a közjegyzőkről
 
 21. § (1) A közjegyző a kinevezését követő 3 hónapon belül a Magyar Országos Közjegyzői Kamara elnöke előtt esküt tesz. Ezt megelőzően bemutatja a bélyegzőjét, aláírásmintáját és a hivatali helyiségének a hivatás gyakorlására való alkalmasságát megállapító kamarai igazolást, igazolja továbbá, hogy kötelező felelősségbiztosítást kötött és megszüntette az összeférhetetlenséget [17. § (3) bekezdés h) pont].
 
-(2) Az eskü szövege a következő: ,,Becsületemre és lelkiismeretemre esküszöm, hogy a Magyar Köztársasághoz hű leszek, az Alkotmányt és az alkotmányos jogszabályokat megtartom, a hivatali és magántitkot megőrzöm, és közjegyzői kötelességeimet lelkiismeretesen teljesítem.''
+(2) Az eskü szövege az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
+
+(3) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során az esküt tevő személyétől függően: közjegyző, közjegyzőhelyettes.
 
 21/A. § (1) A közjegyző és a közjegyzőhelyettes hivatali aláírása a közjegyző vagy közjegyzőhelyettes névaláírásának, valamint a közjegyző hivatali bélyegzője lenyomatának együttes alkalmazása. A közjegyző és a közjegyzőhelyettes hivatali aláírásával látja el a hatáskörébe tartozó ügyben általa készített közokiratot.
 
@@ -227,7 +229,7 @@ a közjegyzőkről
 
 (3) A miniszter a közjegyzői szolgálat megszűnését állapítja meg, ha
 
-- a) a közjegyző magyar állampolgárságát vagy választójogát elvesztette,
+- a) a közjegyző magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 - b) a közjegyzővel szemben a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény következett be,
 - c) a közjegyző a 21. §-ban meghatározott esküt nem tette le, vagy
 - d) a közjegyző a kinevezését követően keletkezett összeférhetetlenséget nem szüntette meg.
@@ -257,7 +259,7 @@ a közjegyzőkről
 24. § (1) A közjegyző nem gyakorolhatja a hivatását
 
 - a) a 22. § (1) bekezdés a), c) és d) pontjában meghatározott esetekben a közjegyzői szolgálat megszűnésének időpontjától kezdődően,
-- b) a magyar állampolgárság vagy a választójog elvesztésének időpontjától kezdődően,
+- b) a magyar állampolgárság elvesztésének időpontjától, vagy attól az időponttól kezdődően, amelytől az országgyűlési képviselők választásán nem választható,
 - c) a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ítélet jogerőre emelkedésének napjától kezdődően,
 - d) az azt követő naptól kezdődően, amelyen az összeférhetetlenség megszüntetésére irányuló kötelezettségét még – a mulasztás jogkövetkezményeinek alkalmazása nélkül – teljesíthette volna és
 - e) a 21. §-ban meghatározott eskütételt megelőzően.
@@ -389,7 +391,7 @@ a közjegyzőkről
 
 (3) A területi kamara elnöksége a (2) bekezdésben foglalt eljárása során megvizsgálja az alapító okiratban foglaltakat – szükség esetén a helyszínen – ellenőrzi az alapító okiratban foglalt adatok valódiságát.
 
-(4) A közjegyzői iroda köteles az alapítási engedély kézhezvételétől számított 30 napon belül az iroda alapítását bejegyzés és közzététel végett bejelenteni a cégjegyzéket vezető megyei bíróságnak, mint cégbíróságnak; a közjegyzői iroda a cégjegyzékbe való bejegyzéssel, a bejegyzés napján jön létre.
+(4) A közjegyzői iroda köteles az alapítási engedély kézhezvételétől számított 30 napon belül az iroda alapítását bejegyzés és közzététel végett bejelenteni a cégjegyzéket vezető törvényszéknek, mint cégbíróságnak; a közjegyzői iroda a cégjegyzékbe való bejegyzéssel, a bejegyzés napján jön létre.
 
 (5) Ha a területi kamara elnöksége a hatósági ellenőrzés során megállapítja, hogy a közjegyzői iroda nem felel meg az e törvényben meghatározott alapítási engedély kiadása vagy a közjegyzői irodai tagság létesítése feltételeinek, az alapítási engedélyt, illetve a tagság létesítése iránti engedélyt visszavonja, és a cégbíróságnál kérelmezi a közjegyzői irodával szemben törvényességi felügyeleti eljárás lefolytatását.
 
@@ -455,15 +457,15 @@ a közjegyzőkről
 
 ### A területi közjegyzői kamara
 
-38. § A területi közjegyzői kamara köztestület, amelyet az ugyanazon területi kamara illetékességi területére kinevezett közjegyzők, illetve a kamarai névjegyzékbe bejegyzett közjegyzőhelyettesek és -jelöltek alkotnak.
+38. § A területi közjegyzői kamara köztestület, amelyet az ugyanazon területi kamara illetékességi területére kinevezett közjegyzők, illetve a kamarai névjegyzékbe bejegyzett közjegyzőhelyettesek és -jelöltek alkotnak. A területi közjegyzői kamarát a törvényszék nem veszi nyilvántartásba.
 
-39. § A Magyar Köztársaság területén 5 területi kamara működik:
+39. § Magyarország területén 5 területi kamara működik:
 
-- a) a Budapesti Közjegyzői Kamara: a Fővárosi, a Komárom-Esztergom, a Nógrád és a Pest Megyei Bíróság,
-- b) a Győri Közjegyzői Kamara: a Győr-Moson-Sopron, a Vas, a Veszprém és a Zala Megyei Bíróság,
-- c) a Miskolci Közjegyzői Kamara: a Borosd-Abaúj-Zemplén, a Hajdú-Bihar, a Heves és a Szabolcs-Szatmár-Bereg Megyei Bíróság,
-- d) a Pécsi Közjegyzői Kamara: a Baranya, a Fejér, a Somogy és a Tolna Megyei Bíróság,
-- e) a Szegedi Közjegyzői Kamara: a Bács-Kiskun, a Békés, a Csongrád és a Jász-Nagykun-Szolnok Megyei Bíróság
+- a) a Budapesti Közjegyzői Kamara: a Fővárosi, a Tatabányai, a Balassagyarmati és a Budapest Környéki Törvényszék,
+- b) a Győri Közjegyzői Kamara: a Győri, a Szombathelyi, a Veszprémi és a Zalaegerszegi Törvényszék,
+- c) a Miskolci Közjegyzői Kamara: a Miskolci, a Debreceni, az Egri és a Nyíregyházi Törvényszék,
+- d) a Pécsi Közjegyzői Kamara: a Pécsi, a Székesfehérvári, a Kaposvári és a Szekszárdi Törvényszék,
+- e) a Szegedi Közjegyzői Kamara: a Kecskeméti, a Gyulai, a Szegedi és a Szolnoki Törvényszék
 
 illetékességi területén.
 
@@ -578,7 +580,7 @@ illetékességi területén.
 (6) A területi elnökség a közjegyzőjelöltet, illetve a közjegyzőhelyettest törli a kamarai névjegyzékből, ha
 
 - a) a közjegyzőnél fennálló munkaviszonya megszűnt,
-- b) magyar állampolgárságát vagy választójogát elveszítette,
+- b) magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 - c) a jogi képesítéshez kötött foglalkozás gyakorlásától a bíróság jogerős ítélettel eltiltotta,
 - d) vele szemben a 17. § (3) bekezdés b)–d) pontjában meghatározott körülmény fennáll,
 - e) a hivatás gyakorlására érdemtelenné vagy alkalmatlanná nyilvánították,
@@ -625,9 +627,9 @@ illetékességi területén.
 
 ### A Magyar Országos Közjegyzői Kamara
 
-53. § (1) A Magyar Országos Közjegyzői Kamarát (a továbbiakban: országos kamara) a Magyar Köztársaság területi kamarái alkotják.
+53. § (1) A Magyar Országos Közjegyzői Kamarát (a továbbiakban: országos kamara) a területi kamarák alkotják.
 
-(2) Az országos kamara köztestület, amely mint legfőbb önkormányzati szerv képviseli a közjegyzői kart és szervezeteit.
+(2) Az országos kamara köztestület, amely mint legfőbb önkormányzati szerv képviseli a közjegyzői kart és szervezeteit. Az országos kamarát a törvényszék nem veszi nyilvántartásba.
 
 (3) Az országos kamara székhelye: Budapest.
 
@@ -724,7 +726,7 @@ illetékességi területén.
 
 (2) Az önkormányzati szerv a felhívásban foglaltakat köteles megvizsgálni, és a megadott határidőn belül annak megfelelően az iránymutatást, a szervezeti és működési szabályzatot, továbbá a határozatot módosítani vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3) Ha az önkormányzati szerv a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetésére, a miniszter kérheti a vitatott iránymutatás, a szervezeti és működési szabályzat, illetőleg a határozat bírósági felülvizsgálatát. A pert az önkormányzati szerv ellen a megadott határidő lejártától számított 30 napon belül lehet megindítani és a Pp. általános szabályai szerint kell lefolytatni; a per a megyei (fővárosi) bíróság hatáskörébe tartozik.
+(3) Ha az önkormányzati szerv a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetésére, a miniszter kérheti a vitatott iránymutatás, a szervezeti és működési szabályzat, illetőleg a határozat bírósági felülvizsgálatát. A pert az önkormányzati szerv ellen a megadott határidő lejártától számított 30 napon belül lehet megindítani és a Pp. általános szabályai szerint kell lefolytatni; a per a törvényszék hatáskörébe tartozik.
 
 (4) A miniszter által indított perben fél lehet az az önkormányzati szerv is, amelynek egyébként nincs perbeli jogképessége.
 
@@ -756,13 +758,13 @@ illetékességi területén.
 
 69. § (1)
 
-(2) A közjegyző eljárásának törvényességét a közjegyző székhelye szerint illetékes fővárosi, megyei bíróság elnöke felügyeli, ennek keretében elrendelheti a közjegyző tevékenységének kamarai vizsgálatát, fegyelmi eljárást kezdeményezhet.
+(2) A közjegyző eljárásának törvényességét a közjegyző székhelye szerint illetékes törvényszék elnöke felügyeli, ennek keretében elrendelheti a közjegyző tevékenységének kamarai vizsgálatát, fegyelmi eljárást kezdeményezhet.
 
 (3) A közjegyzők ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése a területi elnökség feladata.
 
 (4) A területi elnökség a közjegyző hivatalba lépését követő egy év elteltével, majd legalább négyévenként megvizsgálja a közjegyző működését.
 
-(5) A megyei bíróság elnöke vagy a területi elnökség a közjegyző működésének vizsgálatát indokolt esetben bármikor elrendelheti.
+(5) A törvényszék elnöke vagy a területi elnökség a közjegyző működésének vizsgálatát indokolt esetben bármikor elrendelheti.
 
 69/A. § (1) A területi elnökség a működési vizsgálatot hivatalból indítja meg és kijelöli a vizsgálatot lefolytató kamarai tagokat.
 
@@ -831,23 +833,23 @@ illetékességi területén.
 
 76. § (1) A eljárás alá vont személyek fegyelmi ügyeit a közjegyzői fegyelmi bíróság (a továbbiakban: fegyelmi bíróság) bírálja el.
 
-(2) Fegyelmi bíróság a megyei bíróságon és a Legfelsőbb Bíróságon működik.
+(2) Fegyelmi bíróság a törvényszéken és a Kúrián működik.
 
 (3) A fegyelmi ügyben annak a területi kamarának a székhelye szerinti fegyelmi bíróság jár el, amelyik területi kamarának az eljárás alá vont személy a tagja.
 
-77. § (1) A területi elnökség a területi kamara tagjai közül 3 évre a fegyelmi bíróságba a megyei bírósághoz 6 közjegyzőt, a Legfelsőbb Bírósághoz 2 közjegyzőt választ fegyelmi bírónak.
+77. § (1) A területi elnökség a területi kamara tagjai közül 3 évre a fegyelmi bíróságba a törvényszékhez 6 közjegyzőt, a Kúriához 2 közjegyzőt választ fegyelmi bírónak.
 
-(2) A területi elnökség a kamara tagjai közül 3 évre a megyei fegyelmi bírósághoz két közjegyzőt választ vizsgálóbiztosnak.
+(2) A területi elnökség a kamara tagjai közül 3 évre a törvényszéki fegyelmi bírósághoz két közjegyzőt választ vizsgálóbiztosnak.
 
 (3) Fegyelmi bírónak és vizsgálóbiztosnak azt a közjegyzőt lehet megválasztani, akinek legalább 5 éves közjegyzői gyakorlata van, és vele szemben nincs kizáró ok.
 
-78. § (1) A fegyelmi bíróság 5 bíró tagját 3 évre a megyei bíróság elnöke, illetőleg a Legfelsőbb Bíróság elnöke nevezi ki.
+78. § (1) A fegyelmi bíróság 5 bíró tagját 3 évre a törvényszék elnöke, illetőleg a Kúria elnöke nevezi ki.
 
 (2) A fegyelmi bíróság elnökét és elnökhelyettesét a tagok maguk közül választják a bírói képesítésű tagok sorából.
 
-79. § A fegyelmi bíróság tagjai és a vizsgálóbiztosok működésük megkezdése előtt a megyei bíróság elnöke előtt esküt tesznek kötelességük lelkiismeretes és pártatlan teljesítésére.
+79. § A fegyelmi bíróság tagjai és a vizsgálóbiztosok működésük megkezdése előtt a törvényszék elnöke előtt a 21. § (2) bekezdés szerint esküt tesznek. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során az esküt tevő személyétől függően: fegyelmi bíró, vizsgálóbiztos.
 
-80. § (1) A eljárás alá vont személyek fegyelmi ügyeiben elsőfokon a megyei bíróságnak, másodfokon a Legfelsőbb Bíróságnak a közjegyzői fegyelmi tanácsa (a továbbiakban: fegyelmi tanács) jár el.
+80. § (1) A eljárás alá vont személyek fegyelmi ügyeiben elsőfokon a törvényszéknek, másodfokon a Kúriának a közjegyzői fegyelmi tanácsa (a továbbiakban: fegyelmi tanács) jár el.
 
 (2) A fegyelmi tanács 5 tagú, elnöke bíró, 1 tagja bíró, 3 tagja közjegyző.
 
@@ -867,7 +869,7 @@ illetékességi területén.
 
 (2) Az elfogultságról a fegyelmi tanács határoz.
 
-(3) Ha a fegyelmi bíróság elfogultság vagy kizáró ok miatt határozatképtelenné válik, a Legfelsőbb Bíróság jelöli ki az eljáró fegyelmi tanácsot.
+(3) Ha a fegyelmi bíróság elfogultság vagy kizáró ok miatt határozatképtelenné válik, a Kúria jelöli ki az eljáró fegyelmi tanácsot.
 
 83. § (1) A fegyelmi ügyben az igazságszolgáltatási érdeket a miniszter, a szolgálati érdeket a vizsgálóbiztos képviseli.
 
@@ -881,7 +883,7 @@ illetékességi területén.
 
 ### A fegyelmi eljárás megindítása
 
-85. § Fegyelmi vétség alapos gyanúja esetén a megyei bíróság elnöke, illetőleg a területi elnökség feljelentést tesz a fegyelmi bíróság elnökénél.
+85. § Fegyelmi vétség alapos gyanúja esetén a törvényszék elnöke, illetőleg a területi elnökség feljelentést tesz a fegyelmi bíróság elnökénél.
 
 86. § (1) A fegyelmi feljelentést az eljárás alá vont személlyel a fegyelmi tanács elnöke haladéktalanul közli, és kijelöli az ügyben eljáró vizsgálóbiztost.
 
@@ -962,7 +964,7 @@ illetékességi területén.
 
 ### Fellebbezés
 
-100. § (1) A megyei bíróság fegyelmi tanácsának határozata ellen a fegyelmi eljárás alá vont személy, valamint a miniszter képviselője és a vizsgálóbiztos fellebbezést terjeszthet elő a Legfelsőbb Bíróságon működő közjegyzői fegyelmi bírósághoz (a továbbiakban: másodfokú fegyelmi tanács).
+100. § (1) A törvényszék fegyelmi tanácsának határozata ellen a fegyelmi eljárás alá vont személy, valamint a miniszter képviselője és a vizsgálóbiztos fellebbezést terjeszthet elő a Kúrián működő közjegyzői fegyelmi bírósághoz (a továbbiakban: másodfokú fegyelmi tanács).
 
 (2) A fellebbezést az elsőfokú fegyelmi határozat kézbesítésétől számított 15 napon belül kell az elsőfokú fegyelmi tanácsnál benyújtani, és elő kell terjeszteni a fellebbezés indokait is.
 
@@ -1018,11 +1020,11 @@ illetékességi területén.
 
 (2) A büntetőeljárás jogerős befejezéséig a fegyelmi eljárást fel kell függeszteni.
 
-(3) A büntető ügyben eljáró hatóság a közjegyző, a közjegyzőjelölt és a közjegyzőhelyettes ellen indított büntetőeljárásról és letartóztatásukról a területi elnökséget és a megyei bíróság elnökét értesíti. Az eljárást befejező jogerős határozatot kézbesíteni kell a területi elnökség, a megyei bíróság elnöke, a vizsgálóbiztos és a miniszter képviselője részére.
+(3) A büntető ügyben eljáró hatóság a közjegyző, a közjegyzőjelölt és a közjegyzőhelyettes ellen indított büntetőeljárásról és letartóztatásukról a területi elnökséget és a törvényszék elnökét értesíti. Az eljárást befejező jogerős határozatot kézbesíteni kell a területi elnökség, a törvényszék elnöke, a vizsgálóbiztos és a miniszter képviselője részére.
 
 ### Új eljárás kezdeményezése
 
-106. § (1) A jogerős fegyelmi határozat meghozatalát követően a megyei bíróság elnöke, a területi elnökség, vagy az eljárás alá vont személy új eljárást kezdeményezhet, ha olyan tényre vagy bizonyítékra, illetőleg olyan jogerős bírói vagy más hatósági határozatra hivatkozik, amelyet a fegyelmi bíróság nem bírált el, feltéve, hogy az — elbírálás esetén — a fegyelmi határozatra lényeges kihatással lett volna. Új eljárásnak van helye akkor is, ha az alapügyben a fegyelmi bíróság valamely tagja kötelességét a büntető törvénybe ütköző módon megszegte.
+106. § (1) A jogerős fegyelmi határozat meghozatalát követően a törvényszék elnöke, a területi elnökség, vagy az eljárás alá vont személy új eljárást kezdeményezhet, ha olyan tényre vagy bizonyítékra, illetőleg olyan jogerős bírói vagy más hatósági határozatra hivatkozik, amelyet a fegyelmi bíróság nem bírált el, feltéve, hogy az — elbírálás esetén — a fegyelmi határozatra lényeges kihatással lett volna. Új eljárásnak van helye akkor is, ha az alapügyben a fegyelmi bíróság valamely tagja kötelességét a büntető törvénybe ütköző módon megszegte.
 
 (2) Új eljárás kezdeményezésének az eljárás alá vont személy terhére csak az eljárás alá vont személy életében és csak az elévülési időn belül van helye.
 
@@ -1104,7 +1106,7 @@ illetékességi területén.
 
 (3) A közjegyző névcsere, hibás névírás, szám- vagy számítási hiba vagy más hasonló elírás esetén az okiratban szereplő ügyfelek közös kérelmére vagy hivatalból a közjegyzői okirat kijavítását végzéssel bármikor elrendelheti.
 
-(4) A közjegyzői okirat kijavítását elrendelő végzést a kijavított okiratra és lehetőleg annak kiadmányaira is fel kell jegyezni. Ha a kiadmányokat már kibocsátották, a közjegyző új, a kijavított szöveget tartalmazó kiadmányokat bocsáthat ki. A kijavítás tárgyában hozott végzés felülvizsgálatát csak akkor lehet kérni a közjegyző székhelye szerinti megyei bíróságtól, ha a közjegyző a kijavítás iránti kérelmet elutasította, vagy az hivatalból történt. A bíróság eljárására az 5. § (2) bekezdésében foglaltak az irányadóak.
+(4) A közjegyzői okirat kijavítását elrendelő végzést a kijavított okiratra és lehetőleg annak kiadmányaira is fel kell jegyezni. Ha a kiadmányokat már kibocsátották, a közjegyző új, a kijavított szöveget tartalmazó kiadmányokat bocsáthat ki. A kijavítás tárgyában hozott végzés felülvizsgálatát csak akkor lehet kérni a közjegyző székhelye szerinti törvényszéktől, ha a közjegyző a kijavítás iránti kérelmet elutasította, vagy az hivatalból történt. A bíróság eljárására az 5. § (2) bekezdésében foglaltak az irányadóak.
 
 117. § (1) A közjegyzői okiratot ügyszámmal, oldalait folyamatos sorszámmal kell ellátni.
 
@@ -1390,7 +1392,7 @@ kommunikálhat.
 
 (2) A kivonatot a közjegyző záradékkal hitelesíti; ez azt tartalmazza, hogy a kivonat az okirat meghatározott része, és a kivonat alapján nincs helye bírósági végrehajtásnak.
 
-157. § A magyar külképviseleti hatóság okirat elkészítésénél és tanúsítvány kiállításánál e törvény szerint jár el. A közreműködés megtagadása, továbbá a kijavítás tárgyában hozott végzés felülvizsgálatát megyei bíróságtól (Fővárosi Bíróságtól) kell kérni; a bíróság eljárására az 5. § (2) bekezdésében foglaltak az irányadóak.
+157. § A magyar külképviseleti hatóság okirat elkészítésénél és tanúsítvány kiállításánál e törvény szerint jár el. A közreműködés megtagadása, továbbá a kijavítás tárgyában hozott végzés felülvizsgálatát törvényszéktől kell kérni; a bíróság eljárására az 5. § (2) bekezdésében foglaltak az irányadóak.
 
 ### XI. Fejezet — OKIRAT, PÉNZ ÉS ÉRTÉK MEGŐRZÉSE
 
@@ -1468,13 +1470,13 @@ kommunikálhat.
 
 (3) A közjegyzői levéltár által kiadott okirat elkészítéséért és hitelesítéséért járó díjakat a közjegyzői díjszabás szerint kell felszámítani, a díjak a közjegyzői kamarát illetik.
 
-169. § (1) Az 1992. január 1-je előtt keletkezett közjegyzői iratok, okiratok, nyilvántartások és hivatali bélyegzők elhelyezésére és kezelésére a bírósági ügyek nyilvántartására és kezelésére vonatkozó szabályok szerint a Fővárosi Bíróság és a megyei bíróságok irattárai kötelesek.
+169. § (1) Az 1992. január 1-je előtt keletkezett közjegyzői iratok, okiratok, nyilvántartások és hivatali bélyegzők elhelyezésére és kezelésére a bírósági ügyek nyilvántartására és kezelésére vonatkozó szabályok szerint a törvényszékek irattárai kötelesek.
 
 (2) A bírósági irattárban őrzött közjegyzői okiratról a bíróság elnöke által kijelölt bíró vagy bírósági titkár adhat ki hiteles vagy egyszerű másolatot, kivonatot, bizonyítványt, értesítést, adhat át őrizetben lévő okiratot, és engedélyezheti az iratokba való betekintést.
 
 (3) A (2) bekezdésben felsorolt okiratokat a bíróság elnöke által kijelölt bíró vagy bírósági titkár írja alá, és látja el a bíróság bélyegzőlenyomatával.
 
-(4) A (2) bekezdés szerinti okirat elkészítéséért és hitelesítéséért járó díjakat a közjegyzői díjszabás szerint kell felszámítani, és a Fővárosi, megyei bíróság előirányzat-felhasználási keret számlájára kell befizetni.
+(4) A (2) bekezdés szerinti okirat elkészítéséért és hitelesítéséért járó díjakat a közjegyzői díjszabás szerint kell felszámítani, és a törvényszék előirányzat-felhasználási keret számlájára kell befizetni.
 
 170. § (1) A közjegyzői levéltáros jegyzőkönyvet készít
 
@@ -1530,20 +1532,25 @@ kommunikálhat.
 
 ### Átmeneti rendelkezések
 
-#### 177–182. §
+177. § (1) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 20. § (2) bekezdését az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor folyamatban lévő áthelyezési eljárásokban is alkalmazni kell.
+
+(2) A közjegyzőre irányadó öregségi nyugdíjkorhatárt 2014. január 1-jét megelőzően betöltő közjegyző szolgálata 2013. december 31-én szűnik meg.
+
+#### 178–182. §
 
 ### Felhatalmazás
 
 183. § Felhatalmazást kap a miniszter, hogy — a 12. § (3) bekezdésében foglaltakon túl — rendelettel állapítsa meg:
 
 - a) a közjegyzők működésének folyamatosságához szükséges átmeneti intézkedéseket,
-- b) a közjegyzői állások számát és székhelyét a Magyar Országos Közjegyzői Kamara és az Országos Igazságszolgáltatási Tanács véleményének ismeretében, továbbá a közjegyzői állások betöltésének részletes feltételeit,
+- b) a közjegyzői állások számát és székhelyét a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének ismeretében, továbbá a közjegyzői állások betöltésének részletes feltételeit,
 - c) a közjegyzői, közjegyzőjelölti és közjegyzőhelyettesi névjegyzék vezetésével, továbbá a felsoroltak igazolványának a névjegyzék adatai alapján történő kiállításával, az igazolvány tartalmi és formai követelményeivel, valamint nyilvántartásával kapcsolatos rendelkezéseket,
 - d) a közjegyzők ügyvitelének szabályait,
 - e) az adópolitikáért felelős miniszterrel egyetértésben a közjegyzői díjszabást,
 - f) az e törvény végrehajtásához szükséges részletes eljárási szabályokat,
 - g) a Végrendeletek Országos Nyilvántartása vezetésére vonatkozó szabályokat és a nyilvántartásban szereplő adatok körét,
 - h) a Magyar Országos Közjegyzői Kamaránál vezetett zálogjogi nyilvántartás részletes szabályait, valamint az igénybevételi díjat,
-- i) a közjegyzői levéltár anyagának nyilvántartásával, szakszerű, biztonságos őrzésével, feldolgozásával és használatának biztosításával összefüggő szakmai követelményeket, valamint a levéltári anyagban végezhető selejtezés rendjét.
+- i) a közjegyzői levéltár anyagának nyilvántartásával, szakszerű, biztonságos őrzésével, feldolgozásával és használatának biztosításával összefüggő szakmai követelményeket, valamint a levéltári anyagban végezhető selejtezés rendjét,
+- j) a közjegyzői pályázati eljárás részletes szabályait, és a közjegyzői kinevezéshez készített kamarai javaslatban szereplő pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat.
 
 #### 184–187. §

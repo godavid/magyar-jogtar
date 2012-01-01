@@ -2,7 +2,7 @@
 
 a légiközlekedésről
 
-A Magyar Köztársaság légterében végzett repülések szabadsága, a légiközlekedésnek és az azzal összefüggő egyéb tevékenységnek, a légiközlekedés biztonságának, a nemzetközi szerződésekben foglalt kötelezettségek teljesítésének, valamint a polgári és az állami légiközlekedés együttműködésének továbbfejlesztése céljából az Országgyűlés a következő törvényt alkotja:
+Magyarország légterében végzett repülések szabadsága, a légiközlekedésnek és az azzal összefüggő egyéb tevékenységnek, a légiközlekedés biztonságának, a nemzetközi szerződésekben foglalt kötelezettségek teljesítésének, valamint a polgári és az állami légiközlekedés együttműködésének továbbfejlesztése céljából az Országgyűlés a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — BEVEZETŐ RENDELKEZÉSEK
 
@@ -10,13 +10,13 @@ A Magyar Köztársaság légterében végzett repülések szabadsága, a légik�
 
 1. § (1) E törvény hatálya a (2) bekezdésben említett kivételekkel
 
-- a) a Magyar Köztársaság légterében, illetve területén végzett légiközlekedésre és az azzal összefüggő tevékenységekre;
+- a) Magyarország légterében, illetve területén végzett légiközlekedésre és az azzal összefüggő tevékenységekre;
 - b) a magyar légijárművel (a továbbiakban: légijármű) az ország határán kívül végzett légiközlekedésre;
 - c) a légiközlekedésben és az azzal összefüggő tevékenységekben a részt vevő személyekkel, a légijárművekkel, a repülőterekkel és a légiközlekedéssel kapcsolatos létesítményekkel, berendezésekkel összefüggő jogviszonyokra
 
 terjed ki.
 
-(2) A légijárművel a Magyar Köztársaság légterén kívül, illetve külföldi légijárművel a Magyar Köztársaság légterében, illetve területén végzett légiközlekedésre és a légiközlekedéssel összefüggő tevékenységre e törvény hatálya nem terjed ki abban az esetben, ha nemzetközi szerződés eltérően rendelkezik.
+(2) A légijárművel Magyarország légterén kívül, illetve külföldi légijárművel Magyarország légterében, illetve területén végzett légiközlekedésre és a légiközlekedéssel összefüggő tevékenységre e törvény hatálya nem terjed ki abban az esetben, ha nemzetközi szerződés eltérően rendelkezik.
 
 (3)
 
@@ -73,6 +73,8 @@ látja el.
 - d) a rendőrség, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a katasztrófavédelem, az állami és hivatásos önkormányzati tűzoltóság;
 - e) az állami (honvédelmi és rendvédelmi) szervezetek által – nemzetközi megállapodás alapján – bérelt, lízingelt légijárművek bérbeadója, lízingbeadója.
 
+(5) A jogszabályban meghatározott veszélyes áruk légi szállításra történő előkészítésének, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbításának ellenőrzését a hivatásos katasztrófavédelmi szerv is végzi.
+
 3/A. § (1) A légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság jogosult
 
 - a) a légiközlekedési szakszemélyzet szakszolgálati engedélyével összefüggésben a kérelmező természetes személyazonosító és lakcímadatait, elérhetőségét, a tevékenység ellátásához szükséges alkalmasság igazolása céljából az igazoláshoz szükséges egészségi állapotára, kóros szenvedélyére vonatkozó adatait, a vizsgaeredményeket, alkalmassági minősítéseket, képesítéseket, továbbá, amennyiben a szakszolgálati engedély kiadásának feltétele, a nyelvvizsga eredményeket,
@@ -102,7 +104,7 @@ kezeli.
 
 (8) A védelmi oktató és védelmi tiszt kijelölésének jóváhagyása iránti kérelem benyújtásával egyidejűleg a légiközlekedési hatóság a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2010. március 4-i 185/2010/EU bizottsági rendelet Melléklet 11.1.3. pont b) alpontja alapján a kérelmezőnek a bűnügyi nyilvántartásból megkért adatait a kijelölés jóváhagyása iránti kérelem jóváhagyási eljárásának befejezéséig kezeli.
 
-3/B. § (1) A légiközlekedési hatóság jogosult külföldi lajstromba felvett polgári légijárművet (a továbbiakban: külföldi légijármű) és annak személyzetét a Magyar Köztársaság területén ellenőrizni. A légiközlekedési hatóság az ellenőrzésről jelentést készít.
+3/B. § (1) A légiközlekedési hatóság jogosult külföldi lajstromba felvett polgári légijárművet (a továbbiakban: külföldi légijármű) és annak személyzetét Magyarország területén ellenőrizni. A légiközlekedési hatóság az ellenőrzésről jelentést készít.
 
 (2) A légiközlekedési hatóság az ellenőrzés befejezése után a légijármű parancsnokát vagy a légijármű üzemben tartójának képviselőjét tájékoztatja az ellenőrzés eredményéről. Amennyiben a légiközlekedési hatóság az ellenőrzése során észleli, hogy a külföldi légijármű vagy annak személyzete a nemzetközi szerződésekben foglalt feltételeknek nem felel meg, a jelentést megküldi a légijármű üzemben tartójának és az érintett külföldi állam légiközlekedési hatóságának.
 
@@ -118,7 +120,7 @@ kezeli.
 
 (8) A légiközlekedési hatóság az Európai Gazdasági Térségről szóló megállapodásban részes állam légiközlekedési hatóságától kapott információkat, a külföldi légijárművel kapcsolatban összegyűjtött, az ellenőrzés során tudomására jutott adatokat és a jelentést – a (2), (4), (5) és (6) bekezdésben szereplő kivétellel – csak az Európai Bizottságnak, az Európai Repülésbiztonsági Ügynökségnek és az Európai Gazdasági Térségről szóló megállapodásban részes államok légiközlekedési hatóságának továbbíthatja.
 
-3/C. § (1) A légiközlekedési hatóság a repülés biztonságának fenntartása érdekében – nemzetközi szerződésben foglaltakkal összhangban – meghatározott típusú légijárművekre, légiközlekedéssel kapcsolatos termékekre, alkatrészekre, berendezésekre vonatkozóan légialkalmassági határozatot bocsát ki. Az eljárásban az ügyfél jogai az érintett típushoz tartozó minden, a Magyar Köztársaság Állami Légijármű Lajstromba vett légijármű tulajdonosát, bérlőjét és üzemben tartóját megilletik.
+3/C. § (1) A légiközlekedési hatóság a repülés biztonságának fenntartása érdekében – nemzetközi szerződésben foglaltakkal összhangban – meghatározott típusú légijárművekre, légiközlekedéssel kapcsolatos termékekre, alkatrészekre, berendezésekre vonatkozóan légialkalmassági határozatot bocsát ki. Az eljárásban az ügyfél jogai az érintett típushoz tartozó minden, Magyarország Állami Légijármű Lajstromba vett légijármű tulajdonosát, bérlőjét és üzemben tartóját megilletik.
 
 (2) A légiközlekedési hatóság a repülés biztonságának fenntartása érdekében – nemzetközi szerződésben foglaltakkal összhangban – üzemben tartási határozatban megtilthatja, korlátozhatja, bizonyos feltételek teljesítéséhez kötheti a légijárművekkel való üzemelést. Az eljárásban az ügyfél jogai a határozattal érintett minden légijármű tulajdonosát, bérlőjét és üzemben tartóját megilletik.
 
@@ -166,15 +168,24 @@ kezeli.
 
 3/E. § (1) A légiközlekedési hatóság jogosult külföldi légijármű felett a hatósági felügyelet átvételére, amennyiben a külföldi légijárművet a légiközlekedési hatóság által kiadott engedéllyel rendelkező üzemben tartó tartja üzemben és a légiközlekedési hatóság a lajstromozó állam légiközlekedési hatóságával megállapodást kötött, a megállapodásban szereplő feladatok tekintetében.
 
-(2) A légiközlekedési hatóság jogosult a Magyar Köztársaság Állami Légijármű Lajstromába felvett polgári légijármű felett a hatósági felügyelet és jogkör átadására, amennyiben a légijárművet külföldi légiközlekedési hatóság által kiadott engedéllyel rendelkező üzemben tartó tartja üzemben és a légiközlekedési hatóság a külföldi légiközlekedési hatósággal megállapodást kötött, a megállapodásban szereplő feladatok tekintetében.
+(2) A légiközlekedési hatóság jogosult Magyarország Állami Légijármű Lajstromába felvett polgári légijármű felett a hatósági felügyelet és jogkör átadására, amennyiben a légijárművet külföldi légiközlekedési hatóság által kiadott engedéllyel rendelkező üzemben tartó tartja üzemben és a légiközlekedési hatóság a külföldi légiközlekedési hatósággal megállapodást kötött, a megállapodásban szereplő feladatok tekintetében.
+
+3/F. § (1) A hivatásos katasztrófavédelmi szerv a 3. § (5) bekezdésében meghatározott feladatkörében ellenőrzi:
+
+- a) a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartását,
+- b) a veszélyes áruk repülőtér területén végzett átrakását, tárolását, kivéve a légi jármű fedélzetére történő átrakást.
+
+(2) Ha a hivatásos katasztrófavédelmi szerv az ellenőrzés során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és bírságot alkalmaz.
+
+(3) Az e § alapján tett jogszerű intézkedésből eredő kárért a jogszabálysértővel szemben a hivatásos katasztrófavédelmi szerv felelősséggel nem tartozik.
+
+(4) Az (1) bekezdés szerinti ellenőrzési jogkör az állami célú légiközlekedésre nem terjed ki.
 
 ## MÁSODIK RÉSZ — A MAGYAR LÉGTÉR
 
 ### A magyar légtér
 
-4. § (1) A magyar légtér az országhatár által körbezárt terület feletti légtérnek a légiközlekedés számára fizikailag igénybe vehető magasságig terjedő része.
-
-(2) A Magyar Köztársaságot a magyar légtérben teljes és kizárólagos szuverenitás illeti meg.
+4. § A magyar légtérben az állam léginavigációs, távközlési és légtér-ellenőrzési szolgálatot lát el.
 
 5. § (1) A miniszter a honvédelemért felelős miniszterrel — valamint a b) pont ba) alpontjában említett esetben a környezetvédelemért felelős miniszterrel is — egyetértésben rendeletben jelöli ki a magyar légtérnek
 
@@ -208,7 +219,7 @@ kezeli.
 
 7. § (1) Külföldi állami légi járműnek a magyar légtérbe való berepülése iránti kérelmet – a (3) és (4) bekezdésben foglalt kivétellel – a külpolitikáért felelős miniszternek kell benyújtani. A külpolitikáért felelős miniszter egyetértése esetén a kérelmet továbbítja a légiközlekedési hatóságnak.
 
-(1a) A légiközlekedési hatóság a külpolitikáért felelős miniszter, a katonai légügyi hatóság, továbbá a magyar légtér igénybevételéről szóló kormányrendeletben megjelölt polgári és katonai nemzetbiztonsági szolgálatok hozzájárulásával engedélyezi a külföldi állami légi járműnek a magyar légtérbe való berepülését.
+(1a) A légiközlekedési hatóság a külpolitikáért felelős miniszter, a katonai légügyi hatóság, továbbá a magyar légtér igénybevételéről szóló kormányrendeletben megjelölt polgári és Katonai Nemzetbiztonsági Szolgálat hozzájárulásával engedélyezi a külföldi állami légi járműnek a magyar légtérbe való berepülését.
 
 (1b) A légiközlekedési hatóság döntése ellen jogorvoslatnak nincs helye.
 
@@ -240,7 +251,7 @@ kezeli.
 
 ### A légijármű lajstrom
 
-12. § (1) A magyar polgári légijármű — a jogszabályban légijárműnek minősített repülőmodell, az ejtőernyő és a személyzet által vezetett egyéb repülőeszköz kivételével — a légiközlekedésben akkor vehet részt, ha a légiközlekedési hatóság a Magyar Köztársaság Állami Légijármű Lajstromába (a továbbiakban: lajstrom) felvette. A légiközlekedési hatóság a lajstromba vételről lajstromozási bizonyítványt és lajstromjelet ad ki.
+12. § (1) A magyar polgári légijármű — a jogszabályban légijárműnek minősített repülőmodell, az ejtőernyő és a személyzet által vezetett egyéb repülőeszköz kivételével — a légiközlekedésben akkor vehet részt, ha a légiközlekedési hatóság Magyarország Állami Légijármű Lajstromába (a továbbiakban: lajstrom) felvette. A légiközlekedési hatóság a lajstromba vételről lajstromozási bizonyítványt és lajstromjelet ad ki.
 
 (2) A magyar állami légijárművet a katonai légügyi hatóság veszi nyilvántartásba.
 
@@ -248,7 +259,7 @@ kezeli.
 
 (4) A lajstrom igazolja a légijármű adatait, ezen belül a légijármű tulajdonjogát, továbbá az egyéb jogokat és kötelességeket.
 
-(5) A lajstromozásra kötelezett légijármű üzemben tartója, a 19. § (2) bekezdésében foglaltak esetén a légijármű tulajdonosa üzemeltetési bázisként a Magyar Köztársaság területén lévő repülőteret határoz meg, ahol vagy ahonnan a légijármű üzemben tartását végzi vagy szervezi.
+(5) A lajstromozásra kötelezett légijármű üzemben tartója, a 19. § (2) bekezdésében foglaltak esetén a légijármű tulajdonosa üzemeltetési bázisként Magyarország területén lévő repülőteret határoz meg, ahol vagy ahonnan a légijármű üzemben tartását végzi vagy szervezi.
 
 (6) A lajstromba vett légijárműre — a lajstromba történt bejegyzéssel — jelzálogot lehet alapítani.
 
@@ -346,7 +357,7 @@ kezeli.
 
 22. § Légiközlekedési, valamint légiközlekedéssel összefüggő tevékenység – a 71. § 10. pontjának e) és h) pontjában meghatározott tevékenység kivételével, valamint a 29. §-ban, és a 30. §-ban foglalt eltéréssel – a légiközlekedési hatóságnak, a bajba jutott vagy eltűnt légijármű megsegítésére, illetve a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenység ellátására irányuló kutató-mentő repülés pedig a katonai légügyi hatóságnak az adott tevékenységre vonatkozó engedélyével folytatható.
 
-23. § (1) A 22. §-ban meghatározott tevékenység végzésére engedélyt a Magyar Köztársaság területén székhellyel rendelkező vagy – a 20/B. § (2) bekezdése szerinti esetben – az Európai Gazdasági Térségről szóló megállapodásban részes államban letelepedett gazdálkodó szervezet kaphat, ha
+23. § (1) A 22. §-ban meghatározott tevékenység végzésére engedélyt Magyarország területén székhellyel rendelkező vagy – a 20/B. § (2) bekezdése szerinti esetben – az Európai Gazdasági Térségről szóló megállapodásban részes államban letelepedett gazdálkodó szervezet kaphat, ha
 
 - a) a tevékenység jogszabályban meghatározott feltételeinek eleget tesz;
 - b) önálló vállalkozó esetén, büntetlen előéletű és nem áll büntetőeljárás, illetve a légiközlekedési vagy légiközlekedéssel összefüggő tevékenységet érintő foglalkozástól eltiltás hatálya alatt;
@@ -356,11 +367,11 @@ kezeli.
 
 (2) Az Európai Gazdasági Térségről szóló megállapodásban részes államban székhellyel nem rendelkező gazdálkodó szervezet légiközlekedési, valamint légiközlekedéssel összefüggő tevékenységre nemzetközi szerződés vagy viszonosság alapján kaphat engedélyt.
 
-(3) Ha a jogosult az engedélyben foglalt feltételeket megsérti, vagy azoknak később nem felel meg, vagy ha a tevékenységével a légiközlekedés biztonságát veszélyezteti, az engedély felfüggeszthető vagy visszavonható. Az engedélyt fel kell függeszteni, ha az önálló vállalkozó a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) szerinti állam elleni bűncselekmény (Btk. X. fejezet), emberiség elleni bűncselekmény (Btk. XI. fejezet), személy elleni bűncselekmény [Btk. 166–168. §, 170. § (2)–(6) bekezdés, 171. §, 174. §, 174/A. §, 174/B. §, 174/C. §, 175. §, 175/A. §, 175/B. §, 176. § (2) bekezdés b) pont és (3)–(4) bekezdés], vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 185. §), járművezetés tiltott átengedése [Btk. 189. § (2) bekezdés], nemi erkölcs elleni erőszakos bűncselekmény [Btk. 197. § és 198. §, 207. § (3) bekezdés b) pont], hivatali bűncselekmény (Btk. XV. fejezet, IV. cím), hivatalos személy elleni bűncselekmények (Btk. XV. fejezet V. cím), embercsempészés (Btk. 218. §), államtitoksértés (Btk. 221. §), szolgálati titoksértés (Btk. 222. §), közveszélyokozás [Btk. 259. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (Btk. 260. §), terrorcselekmény (Btk. 261. §), nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §), bűnszervezetben részvétel (Btk. 263/C. §), a visszaélés radioaktív anyaggal (Btk. 264. §), visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §), közveszéllyel fenyegetés (Btk. 270/A. §), közokirat-hamisítás (Btk. 274. §), visszaélés kábítószerrel (Btk. 282–282/C. §), visszaélés kábítószer-prekurzorral (Btk. 283/A. §), számítástechnikai rendszer és adatok elleni bűncselekmény (Btk. 300/C. §), számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása (Btk. 300/E. §), pénzhamisítás (Btk. 304. §), pénzhamisítás elősegítése (Btk. 304/A. §), csempészet (Btk. 312. §), készpénz-helyettesítő eszköz hamisítása (Btk. 313/B. §), visszaélés készpénz-helyettesítő eszközzel (Btk. 313/C. §), vagyon elleni szándékos bűncselekmény (Btk. 316–324. §, 326. §, 327. §) elkövetésének alapos gyanúja miatt büntetőeljárás hatálya alatt áll és vissza kell vonni, ha bíróság jogerős ítélete következtében büntetett előéletűvé válik vagy légiközlekedési, vagy légiközlekedéssel összefüggő tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
+(3) Ha a jogosult az engedélyben foglalt feltételeket megsérti, vagy azoknak később nem felel meg, vagy ha a tevékenységével a légiközlekedés biztonságát veszélyezteti, az engedély felfüggeszthető vagy visszavonható. Az engedélyt fel kell függeszteni, ha az önálló vállalkozó a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) szerinti állam elleni bűncselekmény (Btk. X. fejezet), emberiség elleni bűncselekmény (Btk. XI. fejezet), személy elleni bűncselekmény [Btk. 166–168. §, 170. § (2)–(6) bekezdés, 171. §, 174. §, 174/A. §, 174/B. §, 174/C. §, 175. §, 175/A. §, 175/B. §, 176. § (2) bekezdés b) pont és (3)–(4) bekezdés], vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 185. §), járművezetés tiltott átengedése [Btk. 189. § (2) bekezdés], nemi erkölcs elleni erőszakos bűncselekmény [Btk. 197. § és 198. §, 207. § (3) bekezdés b) pont], hivatali bűncselekmény (Btk. XV. fejezet, IV. cím), hivatalos személy elleni bűncselekmények (Btk. XV. fejezet V. cím), embercsempészés (Btk. 218. §), államtitoksértés (Btk. 221. §), szolgálati titoksértés (Btk. 222. §), közveszélyokozás [Btk. 259. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (Btk. 260. §), terrorcselekmény (Btk. 261. §), nemzetközi gazdasági tilalom megszegése (Btk. 261/A. §), légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (Btk. 262. §), visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (Btk. 263/B. §), bűnszervezetben részvétel (Btk. 263/C. §), a visszaélés radioaktív anyaggal (Btk. 264. §), visszaélés nemzetközi szerződés által tiltott fegyverrel (Btk. 264/C. §), közveszéllyel fenyegetés (Btk. 270/A. §), közokirat-hamisítás (Btk. 274. §), visszaélés kábítószerrel (Btk. 282–282/C. §), visszaélés kábítószer-prekurzorral (Btk. 283/A. §), számítástechnikai rendszer és adatok elleni bűncselekmény (Btk. 300/C. §), számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása (Btk. 300/E. §), pénzhamisítás (Btk. 304. §), pénzhamisítás elősegítése (Btk. 304/A. §), költségvetési csalás (Btk. 310. §), a 2011. december 31-ig hatályban volt csempészet, készpénz-helyettesítő eszköz hamisítása (Btk. 313/B. §), visszaélés készpénz-helyettesítő eszközzel (Btk. 313/C. §), vagyon elleni szándékos bűncselekmény (Btk. 316–324. §, 326. §, 327. §) elkövetésének alapos gyanúja miatt büntetőeljárás hatálya alatt áll és vissza kell vonni, ha bíróság jogerős ítélete következtében büntetett előéletűvé válik vagy légiközlekedési, vagy légiközlekedéssel összefüggő tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
 
 (4) Az (1) bekezdés c) pontjában említett feltételeket a miniszter rendeletben állapítja meg.
 
-(5) A gazdasági célú légiközlekedési tevékenység engedélyezésére az 1008/2008/EK rendeletben és az (1) bekezdés a), c) és d) pontjaiban foglaltakon túl a légijárművel végzett gazdasági célú légiközlekedési tevékenység engedélyezésének rendjéről szóló külön jogszabályban foglalt rendelkezéseket kell megfelelően alkalmazni, azzal az eltéréssel, hogy a 22. § szerinti engedélyt a gazdálkodó szervezet abban az esetben kaphatja meg, ha központi ügyvezetésének helye a Magyar Köztársaság területén található.
+(5) A gazdasági célú légiközlekedési tevékenység engedélyezésére az 1008/2008/EK rendeletben és az (1) bekezdés a), c) és d) pontjaiban foglaltakon túl a légijárművel végzett gazdasági célú légiközlekedési tevékenység engedélyezésének rendjéről szóló külön jogszabályban foglalt rendelkezéseket kell megfelelően alkalmazni, azzal az eltéréssel, hogy a 22. § szerinti engedélyt a gazdálkodó szervezet abban az esetben kaphatja meg, ha központi ügyvezetésének helye Magyarország területén található.
 
 (6) A lajstromban szereplő légijárművel az Európai Gazdasági Térségről szóló megállapodásban részes államokon kívüli államban folytatott gazdasági célú légiközlekedési tevékenységre az (5) bekezdésben foglaltakat annyiban kell alkalmazni, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
 
@@ -368,7 +379,7 @@ kezeli.
 
 (2) Amennyiben a be-, illetve kilépni szándékozó légiárut fuvarozó gazdálkodó szervezet nem rendelkezik a légiáru fuvarozására vonatkozó engedéllyel, az illetékes vámhatóság köteles haladéktalanul értesíteni a légiközlekedési hatóságot, és az engedély megszerzéséig a légiáru be-, illetve kiléptetését megtagadni.
 
-23/B. § (1) Gazdasági célú légiközlekedési tevékenység gyakorlására engedélyt a légiközlekedési hatóság annak a gazdálkodó szervezetnek adhat, amelyik megfelel a (2) bekezdésben meghatározott követelménynek, központi ügyintézésének helye a Magyar Köztársaság területén található, valamint ha megfelel a külön jogszabályban meghatározott feltételeknek.
+23/B. § (1) Gazdasági célú légiközlekedési tevékenység gyakorlására engedélyt a légiközlekedési hatóság annak a gazdálkodó szervezetnek adhat, amelyik megfelel a (2) bekezdésben meghatározott követelménynek, központi ügyintézésének helye Magyarország területén található, valamint ha megfelel a külön jogszabályban meghatározott feltételeknek.
 
 (2) Gazdasági célú légiközlekedési tevékenység engedélyezése során az 1008/2008/EK rendeletben meghatározott jó hírnévvel kapcsolatos követelménynek az a gazdálkodó szervezet felel meg,
 
@@ -429,7 +440,7 @@ kezeli.
 
 ### A személyszállítást végző légifuvarozókra vonatkozó adatkezelési és adatszolgáltatási rendelkezések
 
-27/A. § (1) A légiközlekedés és az utasok védelmének biztosítása céljából a személyszállítást végző légifuvarozó az Európai Unió és harmadik ország között az utas-nyilvántartási adatoknak a légifuvarozók általi feldolgozása és továbbítása tárgyában létrehozott, a Magyar Köztársaságban törvényben kihirdetett és alkalmazandó nemzetközi szerződésben részes harmadik országba mint célállomásra utazó vagy onnan induló utasnak az alábbi személyes adatait kezelheti:
+27/A. § (1) A légiközlekedés és az utasok védelmének biztosítása céljából a személyszállítást végző légifuvarozó az Európai Unió és harmadik ország között az utas-nyilvántartási adatoknak a légifuvarozók általi feldolgozása és továbbítása tárgyában létrehozott, Magyarországon törvényben kihirdetett és alkalmazandó nemzetközi szerződésben részes harmadik országba mint célállomásra utazó vagy onnan induló utasnak az alábbi személyes adatait kezelheti:
 
 - a) a családi és utónevét;
 - b) az állampolgárságát, illetve hontalan státuszát;
@@ -441,7 +452,7 @@ kezeli.
 - h) a légijárművön elfoglalt helyére és a poggyászára vonatkozó adatokat;
 - i) a szolgáltatás teljesítésére vonatkozó speciális igényeit;
 - j) lakcímét, telefonszámát, e-mail címét, nemét;
-- k) az előző pontokban nem szerepelő, az Európai Unió és harmadik országok között az utas-nyilvántartási adatoknak a légifuvarozók általi feldolgozása és továbbítása tárgyában létrehozott, a Magyar Köztársaságban törvénnyel kihirdetett és alkalmazandó nemzetközi szerződésben konkrétan meghatározott további adatokat.
+- k) az előző pontokban nem szerepelő, az Európai Unió és harmadik országok között az utas-nyilvántartási adatoknak a légifuvarozók általi feldolgozása és továbbítása tárgyában létrehozott, Magyarországon törvénnyel kihirdetett és alkalmazandó nemzetközi szerződésben konkrétan meghatározott további adatokat.
 
 (2) Az utas az (1) bekezdésben meghatározott személyes adatokat köteles a légifuvarozó számára hozzáférhetővé tenni.
 
@@ -495,7 +506,7 @@ kezelheti, továbbíthatja, ha az adattovábbítás törvényi feltételei az ad
 
 (5) Az (1) bekezdésben meghatározott adatok – az utas kezdeményezése alapján – mindaddig megváltoztathatók, amíg az érintett járatra történő utasfelvételi eljárás be nem fejeződik.
 
-(6) A személyszállítást végző légifuvarozó az (1) és (3) bekezdésben meghatározott adatokat egyedi adatigénylés alapján továbbíthatja a határforgalom-ellenőrzésért felelős szervnek, amennyiben a személyszállítást végző légifuvarozó nem valamely schengeni határátlépési állam területéről szállít utasokat a Magyar Köztársaság területére.
+(6) A személyszállítást végző légifuvarozó az (1) és (3) bekezdésben meghatározott adatokat egyedi adatigénylés alapján továbbíthatja a határforgalom-ellenőrzésért felelős szervnek, amennyiben a személyszállítást végző légifuvarozó nem valamely schengeni határátlépési állam területéről szállít utasokat Magyarország területére.
 
 (7) Amennyiben a személyszállítást végző légifuvarozó nem valamely schengeni határátlépési állam területéről szállít utasokat, az (1) bekezdésben, valamint a (3) bekezdésben meghatározott adatokat – egyedi adatigénylés alapján – az utasok repülésre történő bejelentkezésének befejezésétől továbbítja a légijármű célállomása szerinti, schengeni határátlépési állam határforgalom-ellenőrzésért felelős szervének.
 
@@ -557,15 +568,7 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 ## NEGYEDIK RÉSZ — A REPÜLŐTÉR
 
-### Kizárólagos állami tulajdonba tartozó repülőtér
-
-36/A. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény 172. §-ának d) pontjában megjelölt nemzetközi kereskedelmi repülőterek közül az állam kizárólagos tulajdonába a Budapest Liszt Ferenc Nemzetközi Repülőtér
-
-- a) földterülete a rajta lévő felépítményekkel együtt,
-- b) a légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezései és eszközei, továbbá
-- c) a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítmények
-
-tartoznak.
+#### 36/A. §
 
 ### A repülőtér és a leszállóhely
 
@@ -843,14 +846,14 @@ köteles elhelyezni és karbantartani.
 
 (3) A Társaság feladatai:
 
-- a) a Magyar Köztársaság ellenőrzött légterében – kivéve a katonai körzeteket – és Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátása; továbbá a Magyar Köztársaság légterében a légiforgalmi navigációs, távközlési, légtérellenőrző szolgálat ellátása, és az ezekhez szükséges berendezések (kivéve a repülőtéri műszeres leszállító rendszert) működésének biztosítása;
+- a) Magyarország ellenőrzött légterében – kivéve a katonai körzeteket – és Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátása; továbbá Magyarország légterében a légiforgalmi navigációs, távközlési, légtérellenőrző szolgálat ellátása, és az ezekhez szükséges berendezések (kivéve a repülőtéri műszeres leszállító rendszert) működésének biztosítása;
 - b) a nemzetközi polgári repülés részére Budapest Liszt Ferenc Nemzetközi Repülőtéren repülésbejelentő és tájékoztató szolgálat ellátása;
 - c) a rendelkezésre álló információk alapján adatszolgáltatás a Magyar Honvédség erre kijelölt szervezete részére, a légtérfelügyelethez szükséges azonosítás elősegítése érdekében;
 - d) légtérgazdálkodás, közreműködés a stratégiai légtérgazdálkodási feladatokban;
 - e) a légi forgalom áramlásának szervezése;
 - f) légi jármű eltűnése, vagy kényszerhelyzetbe kerülése esetén a szükséges intézkedés – kutatás-mentés, valamint egyéb segítségnyújtás – kezdeményezése;
 - g) központi légiforgalmi tájékoztató szolgálat (AIS) ellátása, a légi közlekedéssel kapcsolatos tájékoztató anyagok kiadása;
-- h) a Magyar Köztársaságban az ellenőrzött légtéren kívül (a repülőtéri körzetek kivételével) működő légi járművek részére tanácsadói, repüléstájékoztató és riasztó szolgálat ellátása;
+- h) – a repülőtéri körzetek kivételével – az ellenőrzött légtéren kívül Magyarország légterében légi járművek részére tanácsadói, repüléstájékoztató és riasztó szolgálat ellátása;
 - i) a feladatainak ellátásával kapcsolatos fejlesztés;
 - j) a légiforgalmi irányító és körzeti repüléstájékoztató szakszemélyzet munkahelyi képzése, illetve továbbképzése;
 - k) műszaki dokumentációs és ahhoz kapcsolódó tájékoztató tevékenység ellátása;
@@ -877,13 +880,13 @@ köteles elhelyezni és karbantartani.
 - f) riasztó szolgálat ellátása,
 - g) repüléstájékoztató szolgálat ellátása.
 
-63. § A Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának és a légiforgalom irányításának szabályait a miniszter a honvédelemért felelős miniszterrel egyetértésben rendeletben határozza meg.
+63. § Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalom irányításának szabályait a miniszter a honvédelemért felelős miniszterrel egyetértésben rendeletben határozza meg.
 
 ### VI. Fejezet — Légiközlekedési balesetek, repülőesemények
 
 és rendellenességek
 
-64. § (1) Ha a repülés tartama alatt a Magyar Köztársaság területén, illetve a magyar légtérben légijárművet külön jogszabályban meghatározott légiközlekedési baleset, súlyos repülőesemény, repülőesemény ér, amely veszélyezteti, vagy veszélyeztetheti a légiközlekedés biztonságát, az egyéb vizsgálatoktól független szakmai vizsgálatot kell lefolytatni. A szakmai vizsgálat keretében lehet vizsgálni a külön jogszabályban meghatározott légiközlekedési rendellenességet is.
+64. § (1) Ha a repülés tartama alatt Magyarország területén vagy légterében légi járművet jogszabályban meghatározott légiközlekedési baleset, súlyos repülőesemény, repülőesemény ér, amely veszélyezteti, vagy veszélyeztetheti a légiközlekedés biztonságát, az egyéb vizsgálatoktól független szakmai vizsgálatot kell lefolytatni. A szakmai vizsgálat keretében lehet vizsgálni a külön jogszabályban meghatározott légiközlekedési rendellenességet is.
 
 (2) A légiközlekedési baleset, a súlyos repülőesemény, a repülőesemény és a légiközlekedési rendellenesség szakmai vizsgálatát külön törvény rendelkezései alapján a közlekedésbiztonsági szerv végzi.
 
@@ -933,11 +936,11 @@ köteles elhelyezni és karbantartani.
 
 folytatja le.
 
-(2a) A bírság összegét az eset összes körülményére – így különösen a jogsértés által érintettek körének nagyságára, a jogsértés súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértés veszélyességére vagy károsító hatására, a bekövetkezett kár mértékére, a helyreállíthatóság lehetőségére és a jogsértéssel elért jogtalan előny mértékére – tekintettel kell meghatározni.
+(2a) A bírság összegét a jogsértés által érintettek körének nagyságára, a jogsértés súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértés veszélyességére vagy károsító hatására, a bekövetkezett kár mértékére, a helyreállíthatóság lehetőségére és a jogsértéssel elért jogtalan előny mértékére tekintettel kell meghatározni.
 
 (3) A bírság ismételten is kiszabható.
 
-(4) A bírság összege az eljáró hatóságot illeti meg.
+(4)
 
 (5) A bírság kivetésének részletes szabályait és a beszedett bírság összegének felhasználási rendjét a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
 
@@ -956,6 +959,14 @@ folytatja le.
 (12)
 
 (13) A zajvédelmi díj megállapításának részletes szabályait és a beszedett díj összegének felhasználási rendjét a miniszter az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
+
+66/B. § (1) Nincs helye hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+
+(2) A hivatásos katasztrófavédelmi szerv által kiszabott bírság kivetésével és behajtásával kapcsolatos hatósági eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+
+(3) Ugyanazon jogszabálysértésért a légiközlekedési hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.
+
+(4) Az e törvény 3/F. §-a alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
 
 ## HATODIK RÉSZ — A LÉGIKÖZLEKEDÉS VÉDELME
 
@@ -1012,7 +1023,7 @@ folytatja le.
 
 (2) A légijármű, illetve a repülőtér elleni jogellenes cselekmény erőszakos felszámolása az élet- és vagyonbiztonság elsődlegességének biztosításával történhet. Ennek során a külön jogszabályban megjelölt szervek – kivéve, ha a késedelem helyrehozhatatlan károkat okozna – kötelesek a légijármű, illetve a repülőtér üzemben tartóját a döntés-előkészítésbe bevonni, az üzemben tartó pedig köteles az illetékes szervekkel együttműködni.
 
-(3) Ha a Magyar Köztársaság területén külföldi légijármű ellen követnek el jogellenes cselekményt, vagy ha a jogellenes cselekménnyel érintett magyar légijárművön külföldi állampolgárok is tartózkodnak, a helyzet felszámolása csak a vonatkozó nemzetközi szerződésekben foglaltakkal összhangban történhet.
+(3) Ha Magyarország területén külföldi légijármű ellen követnek el jogellenes cselekményt, vagy ha a jogellenes cselekménnyel érintett magyar légijárművön külföldi állampolgárok is tartózkodnak, a helyzet felszámolása csak a vonatkozó nemzetközi szerződésekben foglaltakkal összhangban történhet.
 
 (4) A légiközlekedés védelmének szabályait, a Bizottság összetételét, jogkörét, feladatait és működésének rendjét a Kormány rendeletben határozza meg.
 
@@ -1075,12 +1086,13 @@ folytatja le.
 - 29. légi cél: azon légijármű, amely vonatkozásában a légvédelmi készenléti szolgálat számára elfogási feladat került meghatározásra.
 - 30. légijármű komponens: a légijármű hajtóműve (beleértve a segédhajtóművet is), légcsavarja, alkatrésze vagy berendezése,
 - 31. karbantartás: légijármű, légijármű komponens vagy légiközlekedéssel kapcsolatos eszköz nagyjavítása, kisjavítása, ellenőrző vizsgálata, alkatrészpótlása, átalakítása, hibaelhárítása, vagy ezek kombinációja, kivéve a légijármű repülés előtti ellenőrzését.
+- 32. magyar légtér: Magyarország feletti légtérnek a légiközlekedés számára – a mindenkori legfejlettebb technikai színvonal alapján – fizikailag igénybe vehető magasságig terjedő része.
 
 #### 71/A. §
 
 ## KILENCEDIK RÉSZ — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
-72. § A légiközlekedési hatóság a nyilvános repülőterekre vonatkozó – külön jogszabályban meghatározott – adatokat és a légiközlekedésre vonatkozó tájékoztatásokat, továbbá a 41. § szerinti díjat a Magyar Köztársaság légiforgalmi tájékoztató kiadványában (AIP) rendszeresen közzéteszi.
+72. § A légiközlekedési hatóság a nyilvános repülőterekre vonatkozó – külön jogszabályban meghatározott – adatokat és a légiközlekedésre vonatkozó tájékoztatásokat, továbbá a 41. § szerinti díjat Magyarország légiforgalmi tájékoztató kiadványában (AIP) rendszeresen közzéteszi.
 
 72/A. § Az Európai Légiközlekedés Biztonsági Ügynökségben való magyar képviselet biztosításáról, az ügyek viteléről és a döntések végrehajtásáról a miniszter gondoskodik.
 
@@ -1111,7 +1123,9 @@ folytatja le.
 - w) a kötelező felelősségbiztosítás szabályait,
 - x) a tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló, 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet 5. cikke szerinti elosztási eljárás szabályait,
 - y) a bajba jutott vagy eltűnt légijárművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetét, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének a rendjét, e tevékenységek engedélyezésére vonatkozó szabályokat, valamint
-- z) a lajstromozásra nem kötelezett légijárművekkel kapcsolatos feladatokat, amelyeket nem közigazgatási feladat ellátására létrehozott szervezet lát el, továbbá az azokkal kapcsolatos eljárási szabályokat.
+- z) a lajstromozásra nem kötelezett légijárművekkel kapcsolatos feladatokat, amelyeket nem közigazgatási feladat ellátására létrehozott szervezet lát el, továbbá az azokkal kapcsolatos eljárási szabályokat,
+- aa) a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának a hivatásos katasztrófavédelmi szerv által végzett ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a hivatásos katasztrófavédelmi szerv által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
+- bb) a légiközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
@@ -1128,7 +1142,7 @@ folytatja le.
 
 - a) az agrárpolitikáért felelős miniszter, hogy a miniszterrel és a környezetvédelemért felelős miniszterrel egyetértésben a mező- és erdőgazdasági légi munkavégzés feltételeinek a részletes szabályait,
 - b) a miniszter, hogy a légiközlekedés biztonságos és zavartalan végrehajtását biztosító léginavigációs, távközlő, meteorológiai és egyéb berendezések létesítésének, megváltoztatásának, megszüntetésének, üzemben tartásának a részletes szabályait, valamint hatósági felügyeletének szabályait és rendjét,
-- c) a miniszter, hogy – az állami repülések céljára szolgáló repülőtér kivételével – a Magyar Köztársaság területén lévő repülőtereket használó légijárművek földi ellenőrzései végrehajtásának a részletes szabályait,
+- c) a miniszter, hogy – az állami repülések céljára szolgáló repülőtér kivételével – Magyarország területén lévő repülőtereket használó légijárművek földi ellenőrzései végrehajtásának a részletes szabályait,
 - d) az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben az ország területére légiközlekedési úton bejutó fertőző betegségek megelőzése érdekében történő ideiglenes korlátozások szabályait,
 - e)
 - f) a miniszter, hogy a 6. § (5) bekezdésében említett repülőmodellek és repülőeszközök körét és engedélyezésük részletes szabályait,
@@ -1149,7 +1163,7 @@ folytatja le.
 - u) a rendészetért felelős miniszter, hogy a miniszterrel egyetértésben a védelmi ellenőrzést végzők felügyeletének és szakmai irányításának a szabályait,
 - v) a miniszter, hogy a légiforgalmi tájékoztatás rendjét és a légiforgalmi tájékoztató szolgálat ellátásának a szabályait,
 - w) a miniszter, hogy a lajstromozásra nem kötelezett légijárművel folytatott repülések és az azokkal összefüggő tevékenységek végrehajtásának a szabályait,
-- x) a miniszter, hogy – a rendészetért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben – a Magyar Köztársaság Nemzeti Polgári Légiközlekedés Védelmi Képzési Programját és a Magyar Köztársaság Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programját.
+- x) a miniszter, hogy – a rendészetért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben – Magyarország Nemzeti Polgári Légiközlekedés Védelmi Képzési Programját és Magyarország Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programját.
 - y) a miniszter, hogy a légijárművek és az üzemeltetésük biztonságával kapcsolatos műszaki előírások és adminisztrációs eljárások összehangolása érdekében az egységes légügyi előírások alapján alkalmazandó szabályokat, valamint
 - z) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a kereskedelmi repülőtér légijármű által történő igénybevételéért fizetendő díj megállapításának elveit és módszereit
 
@@ -1177,7 +1191,7 @@ rendeletben állapítsa meg.
 - r) a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben az állami célú légiközlekedés tekintetében a nyilvános repülőrendezvény szabályait,
 - s) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben – a légiközlekedés védelme tekintetében a rendészetért felelős miniszter egyetértésével is – és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a légiközlekedési bírság kivetésének a részletes szabályait és a beszedett bírság összegének felhasználási rendjét,
 - t) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a zajvédelmi díj megállapításának a részletes szabályait és a beszedett díj összegének felhasználási rendjét, valamint
-- u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben a Magyar Köztársaság légterében és repülőterein történő repülések végrehajtásának és a légiforgalom irányításának a részletes szabályait
+- u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalom irányításának a részletes szabályait
 - v) a miniszter, hogy a repülésbiztonság összehangolt irányítása érdekében szükséges Nemzeti Repülésbiztonsági Programra és a Repülésbiztonság-irányítási Rendszer működtetésére vonatkozó részletes szabályokat
 - w) a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légijárművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait.
 

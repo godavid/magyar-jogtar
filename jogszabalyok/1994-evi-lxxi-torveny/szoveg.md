@@ -337,9 +337,9 @@ a kijelölés érdekében, a fél az 51. §-ban meghatározott bírósághoz for
 
 ### Hatáskör, illetékesség
 
-51. § A választottbírósági eljárással kapcsolatos ügyek — a 37. §-ban szabályozott kivételekkel — a megyei bíróság hatáskörébe tartoznak.
+51. § A választottbírósági eljárással kapcsolatos ügyek — a 37. §-ban szabályozott kivételekkel — a törvényszék hatáskörébe tartoznak.
 
-52. § A választottbírósági eljárással kapcsolatos ügyekben az a megyei bíróság illetékes, amelynek területén az alperes székhelye (telephelye) található, vagy amelynek területén a jogvitához vezető szerződéskötés történt. Ha az illetékes bíróság ily módon nem állapítható meg, a Fővárosi Bíróság jár el.
+52. § A választottbírósági eljárással kapcsolatos ügyekben az a törvényszék illetékes, amelynek területén az alperes székhelye (telephelye) található, vagy amelynek területén a jogvitához vezető szerződéskötés történt. Ha az illetékes bíróság ily módon nem állapítható meg, a Fővárosi Törvényszék jár el.
 
 53. § A bíróság — kivéve a választottbírósági ítélet érvénytelenítése iránti pert — nemperes eljárásban, népi ülnökök közreműködése nélkül jár el. Határozata ellen jogorvoslatnak nincs helye.
 

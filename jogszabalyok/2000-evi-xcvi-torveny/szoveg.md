@@ -38,14 +38,14 @@ Az Országgyűlés a demokratikus közélet tisztaságának további előmozdít
 
 - a) az érintett önkormányzati képviselőnek,
 - b) a választási bizottságnak,
-- c) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek.
+- c) a fővárosi és megyei kormányhivatalnak.
 
 ### Összeférhetetlenség
 
 5. § Az önkormányzati képviselő nem lehet:
 
 - a) központi államigazgatási szerv köztisztviselője,
-- b) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek a vezetője, köztisztviselője, továbbá annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak és illetékessége az önkormányzatra kiterjed,
+- b) a fővárosi és megyei kormányhivatalnak a vezetője, köztisztviselője, továbbá annak a területi, helyi államigazgatási szervnek a köztisztviselője, amelynek feladatkörébe az adott önkormányzatot érintő ügyek tartoznak és illetékessége az önkormányzatra kiterjed,
 - c) jegyző (főjegyző, körjegyző), aljegyző, továbbá ugyanannál az önkormányzatnál a képviselő-testület hivatalának köztisztviselője,
 - d) a területileg illetékes területfejlesztési tanács munkaszervezetének munkavállalója,
 - e) a Pénzügyi Szervezetek Állami Felügyeletének köztisztviselője,
@@ -75,11 +75,11 @@ Az Országgyűlés a demokratikus közélet tisztaságának további előmozdít
 
 ### Jogorvoslat
 
-10. § (1) Az érintett önkormányzati képviselő az összeférhetetlenségét megállapító, illetőleg a megbízatása megszűnését a 2. § e) pontja alapján kimondó képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított 8 napon belül a fővárosi, megyei bíróságtól.
+10. § (1) Az érintett önkormányzati képviselő az összeférhetetlenségét megállapító, illetőleg a megbízatása megszűnését a 2. § e) pontja alapján kimondó képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított 8 napon belül a törvényszéktől.
 
 (2) A bíróság a kérelemről – annak beérkezésétől számított harminc napon belül – nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság az érintett önkormányzati képviselőt, a polgármestert vagy a keresettel megtámadott határozatot hozó képviselő-testület képviselőjét, illetőleg a kereset előterjesztőjét meghallgathatja. A bíróság döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
 
-(3) A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv a fővárosi, megyei bíróságnál kezdeményezheti az önkormányzati képviselő összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről, vagy döntése jogszabálysértő. A bíróság eljárására a (2) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett önkormányzati képviselő, illetve a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
+(3) A fővárosi és megyei kormányhivatal a törvényszéknél kezdeményezheti az önkormányzati képviselő összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről, vagy döntése jogszabálysértő. A bíróság eljárására a (2) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett önkormányzati képviselő, illetve a fővárosi és megyei kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
 
 10/A. § (1) Az önkormányzati képviselő a megbízólevelének átvételétől, majd ezt követően minden év január 1-jétől számított 30 napon belül az e törvény melléklete szerinti vagyonnyilatkozatot köteles tenni. A képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekének a melléklet szerinti vagyonnyilatkozatát.
 

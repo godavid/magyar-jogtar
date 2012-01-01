@@ -113,13 +113,13 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 10. § (1) Egyedi iratkezelési szabályzatot ad ki:
 
 - a) a közfeladatot ellátó szerv – e törvényben foglalt kivételekkel – az illetékes közlevéltárral egyetértésben,
-- b) a központi államigazgatási szerv, valamint a Pénzügyi Szervezetek Állami Felügyelete a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
+- b) a központi államigazgatási szerv a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
 - c) az önkormányzati hivatal számára a jegyző (főjegyző) az illetékes közlevéltárral és a Kormány általános hatáskörű területi államigazgatási szervével egyetértésben.
 
 (2) Egységes iratkezelési szabályzatot ad ki:
 
 - a) a szakmai irányítást ellátó miniszter vagy a központi államigazgatási szerv vezetője a területi és helyi államigazgatási szervek, a Magyar Honvédség, valamint a rendvédelmi szervek – kivéve a polgári nemzetbiztonsági szolgálatok – részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral egyetértésben,
-- b) az Országos Igazságszolgáltatási Tanács a bíróságok, a legfőbb ügyész az ügyészségek részére a Magyar Országos Levéltárral egyetértésben,
+- b) az Országos Bírósági Hivatal elnöke a bíróságok, a legfőbb ügyész az ügyészségek részére a Magyar Országos Levéltárral egyetértésben,
 - c) az igazságügyért felelős miniszter a közjegyzők és bírósági végrehajtók, valamint ezek kamarái, továbbá az igazságügyi szakértői tevékenység végzésére feljogosított természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hatósági tolmácsok, hiteles szakfordítók és büntető ügyekben közvetítői tevékenységet végző ügyvédek tekintetében a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben.
 
 (3) A 10. § (1) bekezdés b) pontja és a 10. § (2) bekezdésének a) pontja szerinti iratkezelési szabályzatokat a szakmai irányítást ellátó miniszter vagy a központi államigazgatási szerv vezetője egységes iratkezelési szabályzatban is kiadhatja.
@@ -132,7 +132,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 (7) A Magyar Országos Levéltár, az illetékes közlevéltár és a kultúráért felelős miniszter egyetértési joga az irattári tételek kialakításával és a nem selejtezhető irattári tételek kijelölésével, továbbá a nem selejtezhető iratok levéltári használatát befolyásoló előírásokkal összefüggő kérdésekre terjed ki.
 
-(8) A Magyar Országos Levéltár az önkormányzati levéltárak véleményének előzetes kikérésével gyakorolja a bíróságok, ügyészségek, a központi államigazgatási szervek területi és helyi szervei, a rendvédelmi szervek szervezeti egységei részére készült iratkezelési szabályzatok kiadásával kapcsolatos egyetértési jogát.
+(8) A Magyar Országos Levéltár a megyei levéltárak vagy a főváros önkormányzatának levéltára véleményének előzetes kikérésével gyakorolja a bíróságok, ügyészségek, a központi államigazgatási szervek területi és helyi szervei, a rendvédelmi szervek szervezeti egységei részére készült iratkezelési szabályzatok kiadásával kapcsolatos egyetértési jogát.
 
 (9) Az irattári terv az iratkezelési szabályzat szerves részét képezi, annak kötelező mellékleteként. Elfogadási rendje – kivéve az önkormányzati hivatalok, az állami és helyi önkormányzati intézmények meghatározott csoportja részére kiadott egységes irattári terveket – nem válik el az iratkezelési szabályzattól.
 
@@ -195,15 +195,28 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 (2) Közlevéltárat létesíteni csak az (1) bekezdés a) és b) pontjában meghatározott feltételek együttes biztosításával lehet.
 
-(3) A közlevéltár vezetőjét pályázat útján a Magyar Országos Levéltár esetében a kultúráért felelős miniszter, míg az állami szaklevéltárak, valamint a megyei és települési önkormányzatok, illetve köztestületi, közalapítványi és egyéb közfeladatot ellátó szervek levéltárai esetében – a kultúráért felelős miniszter véleményének kikérésével – a fenntartó nevezi ki, illetve menti fel.
+(3) A közlevéltár vezetőjét pályázat útján
+
+- a) a Magyar Országos Levéltár esetében a kultúráért felelős miniszter,
+- b) a megyei levéltárak esetében a kultúráért felelős miniszter egyetértésével a fenntartó,
+- c) az állami szaklevéltárak, a települési önkormányzatok, a köztestületek, a közalapítványok, és az egyéb közfeladatot ellátó szervek levéltárai esetében a kultúráért felelős miniszter véleményének kikérésével a fenntartó nevezi ki, illetve menti fel.
+
+(4) A megyei levéltár alapító okiratának, szervezeti és működési szabályzatának elfogadásához és módosításához a kultúráért felelős miniszter előzetes egyetértése szükséges.
+
+(5) A megyei levéltárak
+
+- a) stratégiai terve, éves szakmai feladatainak meghatározása ,
+- b) munkatervének, beszámolójának elfogadása,
+- c) költségvetésének feladatalapú tervezése,
+- d) fejlesztési és beruházási feladatainak meghatározása során a kultúráért felelős miniszter véleményezési jogot gyakorol.
 
 ### Általános levéltárak
 
 16. § (1) A levéltárral nem rendelkező közfeladatot ellátó szervek levéltári anyaga az általános levéltárak illetékességi körébe tartozik. Általános levéltárat törvény létesíthet, illetve szüntethet meg, a megszűnő levéltár anyagának átvételére illetékes közlevéltár megnevezésével.
 
-(2) Általános levéltár a Magyar Országos Levéltár, valamint a megye (főváros) önkormányzata által fenntartott közlevéltár.
+(2) Általános levéltár a Magyar Országos Levéltár, a megyei levéltár és a főváros önkormányzata által fenntartott levéltár.
 
-17. § (1) A Magyar Országos Levéltár központi általános levéltár. Illetékességi körébe tartozik a köztársasági elnöknek és hivatalának, az Országgyűlésnek és hivatalának, továbbá az országgyűlési biztosok hivatalainak, az Alkotmánybíróságnak, a 19. § (2) bekezdésében meghatározott kivétellel a központi államigazgatási szerveknek (a miniszterelnöknek és hivatalának, a minisztériumoknak, az autonóm államigazgatási szerveknek, a kormányhivataloknak, a központi hivataloknak és a rendvédelmi szervek országos parancsnokságainak), a polgári nemzetbiztonsági szolgálatoknak, valamint – a központi államigazgatási szervek területi szervei, a rendőrség, a határőrség, a polgári védelem, a vám- és pénzügyőrség, továbbá az állami és hivatásos önkormányzati tűzoltóság területi és helyi szervei és a büntetés-végrehajtási szervezet kivételével – a központi államigazgatási szervek közvetlen felügyelete és irányítása alatt működő egyéb állami szerveknek, a Legfelsőbb Bíróságnak, a Legfőbb Ügyészségnek, az Állami Számvevőszéknek, a Magyar Nemzeti Banknak, a Pénzügyi Szervezetek Állami Felügyeletének, valamint mindezen szervek jogelődeinek levéltári anyaga, továbbá minden, levéltárral nem rendelkező országos köztestület és közalapítvány levéltári anyaga.
+17. § (1) A Magyar Országos Levéltár központi általános levéltár. Illetékességi körébe tartozik a köztársasági elnöknek és hivatalának, az Országgyűlésnek és hivatalának, továbbá az Alapvető Jogok Biztosa Hivatalának, az Alkotmánybíróságnak, a miniszterelnöknek, a 19. § (2) bekezdésében meghatározott kivétellel a központi államigazgatási szerveknek, valamint – a központi államigazgatási szervek területi szervei, a rendőrség, a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet kivételével – a központi államigazgatási szervek közvetlen felügyelete és irányítása alatt működő egyéb állami szerveknek, a Kúriának, a Legfőbb Ügyészségnek, az Állami Számvevőszéknek, a Magyar Nemzeti Banknak, valamint mindezen szervek jogelődeinek levéltári anyaga, továbbá minden, levéltárral nem rendelkező országos köztestület és közalapítvány levéltári anyaga.
 
 (2) A Magyar Országos Levéltár a 13. §-ban meghatározott feladatokon kívül
 
@@ -221,7 +234,9 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 - l) gyakorolja a 34. § (1) bekezdésében meghatározott elővásárlási jogát;
 - m) a kultúráért felelős miniszter által meghatározott szempontok szerint gyűjti és feldolgozza a közlevéltárak, valamint a nyilvános magánlevéltárak működésével kapcsolatos adatokat.
 
-18. § A megyei (fővárosi) közlevéltár területi általános levéltárként a megye (főváros) önkormányzatának közvetlen felügyelete és irányítása alatt működik. Illetékességi körébe tartozik a fenntartó önkormányzat testületének, hivatalainak és intézményeinek, valamint ezek jogelődeinek levéltári anyaga, továbbá a megye (főváros) területén keletkezett minden olyan levéltári anyag, amely nem tartozik más levéltár illetékességi körébe.
+18. § (1) A megyei levéltár területi általános levéltárként az arra kijelölt államigazgatási szerv közvetlen felügyelete és irányítása alatt működik. Illetékességi körébe tartozik a megye közigazgatási területén működő helyi és nemzetiségi önkormányzatok testületeinek, hivatalainak és intézményeinek, ezek jogelődeinek levéltári anyaga, továbbá a megye közigazgatási területén keletkezett minden olyan levéltári anyag, amely nem tartozik más levéltár illetékességi körébe.
+
+(2) A fővárosi önkormányzat levéltára területi általános levéltárként a főváros önkormányzatának közvetlen felügyelete és irányítása alatt működik. Illetékességi körébe tartozik a fenntartó önkormányzat, valamint az illetékességi területén székhellyel rendelkező nemzetiségi önkormányzat testületének, hivatalainak és intézményeinek, ezek jogelődeinek levéltári anyaga, továbbá a főváros közigazgatási területén keletkezett minden olyan levéltári anyag, amely nem tartozik más levéltár illetékességi körébe.
 
 ### Állami szaklevéltárak
 
@@ -229,7 +244,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 (2) A szaklevéltár illetékességi köre – az Állambiztonsági Szolgálatok Történeti Levéltára kivételével –
 
-- a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek és a katonai nemzetbiztonsági szolgálatok,
+- a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter és a Honvéd Vezérkar, valamint az ezek közvetlen felügyelete vagy irányítása alá tartozó katonai szervezetek és a Katonai Nemzetbiztonsági Szolgálat,
 - b)
 - c) a Környezetvédelmi és Vízügyi Levéltár esetében a környezetvédelemért felelős miniszter és a vízgazdálkodásért felelős miniszter felügyelete alá tartozó szervek,
 - d) a felsőoktatási, tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára esetében a fenntartó szerv
@@ -240,7 +255,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (4) Az Állambiztonsági Szolgálatok Történeti Levéltára működésének speciális szabályait, valamint az e törvényben meghatározottakon túlmenően ellátandó feladatait a (3) bekezdésben említett törvény határozza meg.
 
-(5) A (2) bekezdés d) pontjában meghatározott szaklevéltár létesítését és megszüntetését – a szerv felügyeletét vagy irányítását ellátó miniszter vagy az autonóm államigazgatási szerv vezetője véleményének előzetes kikérésével – a kultúráért felelős miniszter engedélyezi.
+(5) A (2) bekezdés d) pontjában meghatározott szaklevéltár létesítését és megszüntetését – a szerv felügyeletét vagy irányítását ellátó miniszter, az autonóm államigazgatási szerv vagy az önálló szabályozó szerv vezetője véleményének előzetes kikérésével – a kultúráért felelős miniszter engedélyezi.
 
 (6) Megszűnő szaklevéltár anyagának elhelyezéséről a kultúráért felelős miniszter gondoskodik.
 
@@ -250,7 +265,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (2) Települési önkormányzat levéltárának létesítéséhez a kultúráért felelős miniszter előzetes hozzájárulása szükséges. A miniszter megtagadhatja a hozzájárulást, ha a létesítendő levéltár folyamatos működésének személyi és dologi feltételeit [15. § (1) bekezdés] hosszabb távon nem látja biztosítottnak. Ha a levéltár működését meghatározó feltételek megszűnnek, a miniszter visszavonhatja hozzájárulását. Ebben az esetben a fenntartó önkormányzat köteles a levéltárat megszüntetni.
 
-(3) Ha a települési önkormányzat megszünteti levéltárát, annak anyagát a területileg illetékes megyei (fővárosi) levéltárban kell elhelyezni. Ilyen esetben a települési önkormányzat a levéltár céljait szolgáló vagyonát használatra köteles átengedni a megyei (fővárosi) önkormányzatnak.
+(3) Ha a települési vagy nemzetiségi önkormányzat megszünteti levéltárát, annak anyagát a területileg illetékes megyei levéltárban kell elhelyezni. Ilyen esetben a települési önkormányzat a levéltár céljait szolgáló vagyonát használatra köteles átengedni a megyei levéltár fenntartójának.
 
 ### Köztestület, közalapítvány és egyéb közfeladatot ellátó szerv levéltára
 
@@ -260,13 +275,13 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 ### A közlevéltár anyagában történő kutatás
 
-22. § (1) A közlevéltárban őrzött, az 1990. május 1-je után keletkezett, a keletkezés naptári évétől számított harminc éven túli, az 1990. május 2-a előtt keletkezett, a keletkezés naptári évétől számított tizenöt éven túli levéltári anyagban — a 24—25. §-okban foglalt kivételekkel —, továbbá időbeli korlátozás nélkül abban a levéltári anyagban, amelyet már nyilvánosságra hoztak, illetőleg, amelynek tartalmát az Avtv. szerint mindenki megismerheti, a kutatni kívánt téma megjelölését tartalmazó kérelemre bármely természetes személy ingyenesen kutathat, és a kutatásra kiadott levéltári anyagról saját költségén másolatot készíttethet.
+22. § (1) A közlevéltárban őrzött, az 1990. május 1-je után keletkezett, a keletkezés naptári évétől számított harminc éven túli, az 1990. május 2-a előtt keletkezett, a keletkezés naptári évétől számított tizenöt éven túli levéltári anyagban — a 24—25. §-okban foglalt kivételekkel —, továbbá időbeli korlátozás nélkül abban a levéltári anyagban, amelyet már nyilvánosságra hoztak, illetőleg, amelynek tartalmát az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint mindenki megismerheti, a kutatni kívánt téma megjelölését tartalmazó kérelemre bármely természetes személy ingyenesen kutathat, és a kutatásra kiadott levéltári anyagról saját költségén másolatot készíttethet.
 
 (2) A közlevéltár az őrizetében lévő levéltári anyagban kutatást végző személy részére – a kutatás megkezdése előtt – látogatói jegyet ad ki. A látogatói jegy tartalmazza a kutató természetes személyazonosító adatait és lakcímét. A látogatói jegy az adott közlevéltárban – évenkénti meghosszabbítással – folyamatosan használható.
 
 (3) A látogatói jegy kiadásakor a közlevéltár nyilvántartásba veszi a kutató természetes személyazonosító adatait és lakcímét.
 
-(4) A közlevéltár a kutatásra átadott levéltári anyagról nyilvántartást vezet, és a kutató személyes adatainak védelméről az Avtv. rendelkezései szerint gondoskodik.
+(4) A közlevéltár a kutatásra átadott levéltári anyagról nyilvántartást vezet, és a kutató személyes adatainak védelméről az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint gondoskodik.
 
 23. § (1) Az 1990. május 1-je után keletkezett, a keletkezés naptári évétől számított harminc év lejárta előtt a belső használatra készült, valamint a döntéselőkészítést tartalmazó levéltári anyagban folytatható kutatást az átadó szerv hozzájárulásával a levéltári anyagot őrző közlevéltár engedélyezi. Jogutód nélkül megszűnt szerv levéltári anyagában a kutatást a levéltári anyagot őrző közlevéltár engedélyezi.
 
@@ -284,7 +299,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (3) A közlevéltár a (2) bekezdés c) pontja szerinti tudományos célú kutatást akkor köteles engedélyezni, ha a kutató csatolja a tudományos kutatást rendeltetésszerűen végző, közfeladatot ellátó szervnek — a kutató részletes kutatási terve alapján megadott — támogató állásfoglalását.
 
-(4) A kutatónak írásos nyilatkozatban vállalnia kell, hogy a megismert és kigyűjtött személyes adatokat az Avtv. 32. §-ában meghatározott módon kezeli és használja fel, továbbá az írásos nyilatkozatban meg kell jelölnie az adatkezelés helyét.
+(4) A kutatónak írásos nyilatkozatban vállalnia kell, hogy a megismert és kigyűjtött személyes adatokat az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint meghatározott módon kezeli és használja fel, továbbá az írásos nyilatkozatban meg kell jelölnie az adatkezelés helyét.
 
 (5) A (2) bekezdés b) pontjában meghatározott hozzájárulás megadásakor írásban nyilatkozni kell a kutató által megismert személyes adat – kutatás célja szerinti – felhasználásának elfogadásáról, valamint a személyes adatot tartalmazó iratok másolhatóságáról.
 
@@ -323,9 +338,9 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 29. § (1) A kutatási vagy a tájékoztatási kérelem részleges vagy teljes megtagadása esetén a kérelmező bírósághoz fordulhat.
 
-(2) A per megindítására és az eljárás lefolytatására — a (3) bekezdésben foglalt kivétellel — az Avtv. 21. § (2)—(7) bekezdésének szabályai az irányadóak.
+(2) A per megindítására és az eljárás lefolytatására — a (3) bekezdésben foglalt kivétellel — az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a közérdekű adat megismerése iránti igény elutasítása esetén megindítható perre vonatkozó szabályai az irányadóak.
 
-(3) A kérelmező saját adataira vonatkozó tájékoztatási kérelmének megtagadása esetén a bírósági eljárásra az Avtv. 17. §-ának szabályait kell alkalmazni.
+(3) A kérelmező saját adataira vonatkozó tájékoztatási kérelmének megtagadása esetén a bírósági eljárásra az információs önrendelkezési jogról és az információszabadságról szóló törvénynek az érintett jogainak bírósági érvényesítésére vonatkozó szabályait kell alkalmazni.
 
 ### V. Fejezet — A MAGÁNLEVÉLTÁRI ANYAG VÉDELME
 
@@ -376,7 +391,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 34. § (1) Az a tulajdonos, aki 50 évnél régebben keletkezett iratait, továbbá a 33. § (1) bekezdésének a)–b) és d) pontjában meghatározott iratait – a nyilvános árverésen történő értékesítés kivételével – kereskedelmi forgalomba kívánja bocsátani, köteles azt először a Magyar Országos Levéltárnak megvételre felajánlani vagy védetté nyilvánítás céljából bemutatni. Ha a Magyar Országos Levéltár megállapítja, hogy a bemutatott irat (irategyüttes) tartalmát vagy egyéb jellegzetességeit tekintve megfelel a 3. § j) pontjában meghatározott ismérveknek, de a tulajdonos által megjelölt vételárat nem tudja kifizetni, kezdeményezi a hatóságnál az irat (irategyüttes) védetté nyilvánítását.
 
-(2) Ha az (1) bekezdésben felsorolt iratokat, valamint a védetté nyilvánított levéltári anyagot a tulajdonos vagy annak hozzájárulásával a jogos birtokos külföldre kívánja vinni, a kiviteli engedély iránti kérelmét a Magyar Országos Levéltárnál vagy bármely vidéki székhelyű megyei önkormányzati levéltárnál nyújthatja be. A levéltár a kérelmet szakvéleményével együtt a hatósághoz továbbítja.
+(2) Ha az (1) bekezdésben felsorolt iratokat, valamint a védetté nyilvánított levéltári anyagot a tulajdonos vagy annak hozzájárulásával a jogos birtokos külföldre kívánja vinni, a kiviteli engedély iránti kérelmét a Magyar Országos Levéltárnál vagy bármely vidéki székhelyű megyei levéltárnál nyújthatja be. A levéltár a kérelmet szakvéleményével együtt a hatósághoz továbbítja.
 
 (3) Állami gazdálkodó szervezet működése során keletkezett irattári anyagot a gazdálkodó szervezet privatizálását követően is csak az illetékes közlevéltár által meghatározott szempontok szerint lehet selejtezni. Ha a nem selejtezhető iratokat az új tulajdonos nem kívánja megőrizni, azokat az illetékes közlevéltár részére át kell adnia. Ha az új tulajdonos a nem selejtezhető iratokra igényt tart, az illetékes közlevéltár kezdeményezheti az iratok védetté nyilvánítását.
 
@@ -422,13 +437,13 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (10) Felhatalmazást kap a szakmai irányítást ellátó miniszter, hogy az állami és helyi önkormányzati intézmények meghatározott csoportja részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben egységes iratkezelési szabályzatot, vagy egyedi iratkezelési szabályzatuk mellékletét képező egységes irattári tervet adjon ki.
 
-(11)
+(11) A külföldi magyar levéltári kirendeltségek működtetésének és szervezetének, a levéltári kiküldöttek kiválasztásának, szakmai irányításának és feladatának részletes szabályait a kultúráért felelős miniszter a közigazgatás-szervezésért felelős miniszterrel egyetértésben rendeletben határozza meg.
 
 35/A. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a közfeladatot ellátó szervek iratkezelésének általános követelményeit, valamint a központi államigazgatási szervek, az önkormányzati hivatalok és az önkormányzati társulások iratkezelési szabályzatai végrehajtásának ellenőrzési rendjét.
 
 (2) Felhatalmazást kap a köziratok kezelésének szakmai irányításáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter, valamint a kultúráért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverekkel szemben és az elektronikus iratok levéltárba adásával, tárolásával kapcsolatban támasztott követelményeket.
 
-(3) A (2) bekezdésben foglalt felhatalmazás alapján kiadandó rendeletet a bíróságok és az Országos Igazságszolgáltatási Tanács Hivatala, az ügyészségek, a közjegyzők, a bírósági végrehajtók, valamint ezek kamarái, továbbá az ügyvédi kamara, az igazságügyi szakértői névjegyzékbe bejegyzett természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hiteles szakfordítók, tolmácsok, a jogi segítségnyújtást, kárpótlást, áldozatsegítést, valamint büntető ügyekben közvetítői tevékenységet végző szervek és személyek tekintetében az igazságügyért felelős miniszterrel egyetértésben kell kiadni.
+(3) A (2) bekezdésben foglalt felhatalmazás alapján kiadandó rendeletet a bíróságok és az Országos Bírósági Hivatal elnöke, az ügyészségek, a közjegyzők, a bírósági végrehajtók, valamint ezek kamarái, továbbá az ügyvédi kamara, az igazságügyi szakértői névjegyzékbe bejegyzett természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hiteles szakfordítók, tolmácsok, a jogi segítségnyújtást, kárpótlást, áldozatsegítést, valamint büntető ügyekben közvetítői tevékenységet végző szervek és személyek tekintetében az igazságügyért felelős miniszterrel egyetértésben kell kiadni.
 
 (4) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a 23. § (3) bekezdésében meghatározott kuratórium, valamint a levéltári szakfelügyelet és a levéltári szakmai testületek működését.
 

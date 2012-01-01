@@ -14,7 +14,7 @@ az egészségügyi dolgozók jogállásának egyes kérdéseiről a következő 
 
 ### A törvény hatálya
 
-2. § (1) E törvény hatálya a Magyar Köztársaság területén
+2. § (1) E törvény hatálya a Magyarország területén
 
 - a) egészségügyi szolgáltatást nyújtó természetes és jogi személyekre, továbbá jogi személyiség nélküli szervezetekre,
 - b) egészségügyi tevékenységet végző természetes személyekre
@@ -31,7 +31,7 @@ terjed ki.
 
 ### Alapelvek
 
-3. § (1) A Magyar Köztársaság területén mindenki, aki megfelel az e törvényben és más jogszabályokban foglalt követelményeknek, jogosult az egészségügyi tevékenység végzéséhez szükséges szakképesítések megszerzésére, továbbá – a rendelkezésre álló lehetőségek között – a választott jogviszony keretében egészségügyi tevékenység végzésére.
+3. § (1) Magyarország területén mindenki, aki megfelel az e törvényben és más jogszabályokban foglalt követelményeknek, jogosult az egészségügyi tevékenység végzéséhez szükséges szakképesítések megszerzésére, továbbá – a rendelkezésre álló lehetőségek között – a választott jogviszony keretében egészségügyi tevékenység végzésére.
 
 (2) Az egészségügyi dolgozókkal szemben támasztott követelmények egységesek, és – ha e törvény másként nem rendelkezik – függetlenek az egészségügyi dolgozót foglalkoztató egészségügyi szolgáltató jogállásától, illetve az egészségügyi tevékenység végzésére irányuló jogviszony fajtájától.
 
@@ -240,12 +240,12 @@ rendelhet el.
 
 (11) Ha a munkáltató munkaszervezési okokból nem tudja az alkalmazott egészségügyi dolgozó munkaidejét a (10) bekezdésben foglaltak szerint beosztani, a munkáltató a rendes munkaidőből hiányzó órákra az Mt. 150. § (2) bekezdésének alkalmazásával az egészségügyi dolgozó részére a személyi alapbére, illetve az illetménye egy-egy órára eső összegét fizeti meg.
 
-13/A. § (1) Az egészségügyi ügyelet, valamint a készenlét ellátásáért az alkalmazottat ügyeleti díj, illetve készenléti díj illeti meg, amelynek mértékét – figyelemmel a 12. § (6) bekezdésében foglaltakra – kollektív szerződés vagy a felek megállapodása határozza meg. Kollektív szerződés rendelkezése, illetve a felek megállapodása hiányában az ügyeleti díj mértéke nem lehet kevesebb
+13/A. § (1) Az egészségügyi ügyelet, valamint a készenlét ellátásáért az alkalmazottat ügyeleti díj, illetve készenléti díj illeti meg, amelynek mértékét – figyelemmel a 12. § (6) bekezdésében foglaltakra – kollektív szerződés vagy a felek megállapodása határozza meg, azzal, hogy az ügyeleti díj mértéke kollektív szerződés vagy a felek megállapodása alapján sem lehet az e bekezdésben megállapítottnál alacsonyabb. Kollektív szerződés rendelkezése, illetve a felek megállapodása hiányában az ügyeleti díj mértéke:
 
-- a) hétköznap az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegének 70%-ánál,
-- b) heti pihenőnapon az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegének 80%-ánál,
-- c) munkaszüneti napon az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegének 90%-ánál,
-- d) a 12. § (11) bekezdése szerinti esetben az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegénél.
+- a) hétköznap az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegének 70%-a,
+- b) heti pihenőnapon az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegének 80%- a,
+- c) munkaszüneti napon az egészségügyi ügyelet minden munkaórája után a személyi alapbér, illetve az illetmény egy órára eső összegének 90%- a,
+- d) a 12. § (11) bekezdése szerinti esetben az egészségügyi ügyelet minden munkaórája után az egészségügyi dolgozóra irányadó heti pihenőnapi ügyeleti díj 25%-kal emelt összege.
 
 (2) Az (1) bekezdés szerinti készenléti díj mértéke legalább a készenlét minden órájára a személyi alapbér, illetve az illetmény egy órára eső összegének 25%-a. A készenlét során elrendelt munkavégzés díjazására az Mt. 148. § (2) bekezdését kell alkalmazni, azzal, hogy a munkavégzés időtartamát az alkalmazott értesítésétől kell számítani.
 

@@ -2,11 +2,11 @@
 
 az egyszerűsített közteherviselési hozzájárulásról
 
-Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szabad megvitatását, a közügyekkel összefüggő információhoz való hozzájutást, a művészeti élet szabadságának megvalósulását és a testkultúra, különösen a sport fejlődését előmozdítsa, figyelemmel arra, hogy mint törvényalkotó egyes alkotmányos és társadalompolitikai célkitűzéseinek érvényesítése érdekében a közterhek vonatkozásában kedvezményeket állapíthat meg, elismerve azon személyek tevékenységének sajátosságait, akik e célok elérésében közreműködnek, a következő törvényt alkotja:
+Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szabad megvitatását, a közügyekkel összefüggő információhoz való hozzájutást, a művészeti alkotás szabadságának megvalósulását és a testkultúra, különösen a sport fejlődését előmozdítsa, figyelemmel arra, hogy mint törvényalkotó egyes alkotmányos és társadalompolitikai célkitűzéseinek érvényesítése érdekében a közterhek vonatkozásában kedvezményeket állapíthat meg, elismerve azon személyek tevékenységének sajátosságait, akik e célok elérésében közreműködnek, a következő törvényt alkotja:
 
 ### A törvény hatálya
 
-1. § (1) A Magyar Köztársaságban egyes, az e törvényben meghatározott foglalkozásnak megfelelő tevékenységet munkaviszonyban vagy vállalkozási, megbízási szerződés alapján folytató magánszemély és a magánszeméllyel e szerződéses kapcsolatban álló munkáltató, kifizető (a továbbiakban: kifizető) – a magánszemély erre vonatkozó nyilatkozatával tett választása alapján – az említett tevékenység ellenértékeként fizetett bevétel után a közteherviselési kötelezettségeit e törvény szerint egyszerűsített közteherviselési hozzájárulás (a továbbiakban: ekho) által teljesíti.
+1. § (1) Magyarországon egyes, az e törvényben meghatározott foglalkozásnak megfelelő tevékenységet munkaviszonyban vagy vállalkozási, megbízási szerződés alapján folytató magánszemély és a magánszeméllyel e szerződéses kapcsolatban álló munkáltató, kifizető (a továbbiakban: kifizető) – a magánszemély erre vonatkozó nyilatkozatával tett választása alapján – az említett tevékenység ellenértékeként fizetett bevétel után a közteherviselési kötelezettségeit e törvény szerint egyszerűsített közteherviselési hozzájárulás (a továbbiakban: ekho) által teljesíti.
 
 (2) Az ekho az e törvényben meghatározott megoszlásban a központi költségvetést és a társadalombiztosítás pénzügyi alapjait – magánnyugdíjpénztár-tag magánszemély esetében a magánszemély javára a magánnyugdíjpénztárát is – illeti meg.
 
@@ -21,7 +21,8 @@ Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szaba
 - a) munkaviszony: az Art. szerinti munkaviszony;
 - b) vállalkozási szerződés: a magánszemély által a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szabályai szerint kötött vállalkozási szerződés;
 - c) megbízási szerződés: a magánszemély által kötött, a Ptk. szerinti megbízási szerződés, ideértve a felhasználási szerződést is;
-- d) nyugdíjas: a sajátjogú nyugdíjas vagy az olyan özvegyi nyugdíjas, aki betöltötte a rá irányadó öregségi nyugdíjkorhatárt, a 3. § (1) bekezdésének b) alpontja, valamint a 3. § (4) bekezdésének c) alpontja alkalmazásában mindkét esetben csak akkor, ha az adóévben legalább 183 napig nyugdíjas.
+- d) nyugdíjas: a sajátjogú nyugdíjas vagy az olyan özvegyi nyugdíjas, aki betöltötte a rá irányadó öregségi nyugdíjkorhatárt, a 3. § (1) bekezdésének b) alpontja, valamint a 3. § (4) bekezdésének c) alpontja alkalmazásában mindkét esetben csak akkor, ha az adóévben legalább 183 napig nyugdíjas;
+- e) FEOR-számmal azonosított foglalkozás: a Központi Statisztikai Hivatal elnökének 7/2010. (IV. 23.) számú közleményével kiadott Foglalkozások Egységes Osztályozási Rendszere (a továbbiakban: FEOR-08) alapján meghatározott foglalkozás, azzal, hogy e törvény alkalmazásában a FEOR-08 2011. december 31-én hatályos besorolási rendjét és osztályozási szempontjait kell irányadónak tekinteni.
 
 ### Az ekho választásának feltételei
 
@@ -36,10 +37,10 @@ Az Országgyűlés azon kötelezettségére tekintettel, hogy a közügyek szaba
 olyan jövedelmet szerez, amely után a közteherviselési kötelezettségek (EGT-államban biztosított személy esetében a személyi jövedelemadó fizetési kötelezettség) teljesítése az általános szabályok szerint történik, vagy
 
 - b) nyugdíjas és
-- c) a tevékenysége alapján a (3) bekezdésben meghatározott foglalkozásúnak minősül, valamint
+- c) a tevékenysége alapján a (3) és (3c) bekezdésben meghatározott foglalkozásúnak minősül, valamint
 - d) – figyelemmel a (2)–(5) bekezdés rendelkezéseire is – a kifizetőnek írásban nyilatkozik arról, hogy a c) pont szerinti tevékenysége alapján számára kifizetett bevételt, vagy annak a nyilatkozatában meghatározott részét terhelő közterhek megfizetésére az e törvény rendelkezéseinek alkalmazását választja.
 
-(2) A közterhek e törvény szerinti megfizetését a (3) bekezdésben említett foglalkozású magánszemély azon bevételére választhatja, amely az adóévben a Magyar Köztársaság törvényes fizetőeszközében történő kifizetéssel (folyósítással)
+(2) A közterhek e törvény szerinti megfizetését a (3) és (3c) bekezdésben említett foglalkozású magánszemély azon bevételére választhatja, amely az adóévben Magyarország törvényes fizetőeszközében történő kifizetéssel (folyósítással)
 
 - a) – a (7) bekezdés rendelkezéseiben foglalt korlátozással – munkaviszonyban, vagy társas vállalkozás személyesen közreműködő tagjaként illeti meg, feltéve, hogy e bevételt eredményező jogviszonyában kizárólag a foglalkozása szerinti tevékenységet folytat, és/vagy
 - b) a foglalkozása szerinti tevékenységére kötött
@@ -52,73 +53,138 @@ alapján illeti meg,
 
 (3) Az (1) bekezdés c), valamint a (2) bekezdés a) és b) pontjában említett, FEOR-számmal azonosított foglalkozás:
 
-2615 Könyv- és lapkiadó szerkesztője
+2123 Telekommunikációs mérnök foglalkozásból
 
-2616 Újságíró
+Akusztikus mérnök
 
-2617 Rádióműsor-, televízióműsor-szerkesztő
+Audiotechnikai mérnök
 
-2618 Szakképzett edző, sportszervező, -irányító, feltéve, hogy rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel
+Hangmérnök
 
-2619 Egyéb magasabb képzettséget igénylő kulturális foglalkozások
+Televíziós műszaki adásrendező
 
-2621 Író (újságíró nélkül)
+2136 Grafikus és multimédia-tervező
 
-2622 Műfordító
+2627 Nyelvész, fordító, tolmács foglalkozásból
 
-2623 Képzőművész
+Filmszöveg fordító
 
-2624 Iparművész
+Lírai művek fordítója
 
-2625 Zeneszerző
+Műfordító
 
-2626 Rendező
+Prózai és drámai művek fordítója
 
-2627 Operatőr, fotóművész
+2714 Kulturális szervező foglalkozásból
 
-2629 Egyéb alkotóművész foglalkozások (díszlettervező, jelmeztervező, dramaturg)
+Producer (kulturális)
 
-2631 Színész, előadóművész, bábművész
+Produkciós menedzser (szórakoztatóipar)
 
-2632 Zenész, énekes
+2715 Könyv- és lapkiadó szerkesztője
 
-2633 Koreográfus, táncművész
+2716 Újságíró, rádióműsor-, televízióműsor-szerkesztő
 
-3714 Rádióműsor-, televízióműsor-szerkesztő munkatárs
+2719 Egyéb kulturális és sportfoglalkozású (felsőfokú képzettséghez kapcsolódó) foglalkozásból
 
-3715 Könyv- és lapkiadó-szerkesztő munkatárs
+Művészeti tanácsadó
 
-3716 Hivatásos sportoló, sportmunkatárs, valamint FEOR számtól függetlenül a sportról szóló törvényben meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy országos sportági szakszövetséggel, országos sportági sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, továbbá a szövetség vagy a sportszervezet főállású munkavállalója. A sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén további feltétel, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel
+Zenei konzulens, tanácsadó
 
-3721 Segédszínész
+2721 Író (újságíró nélkül)
 
-3722 Segédrendező
+2722 Képzőművész
 
-3723 Népzenész
+2723 Iparművész, gyártmány- és ruhatervező
 
-3725 Cirkuszművész
+2724 Zeneszerző, zenész, énekes
 
-3729 Egyéb művészeti foglalkozások
+2725 Rendező, operatőr
 
-5311 Színházi fodrász
+2726 Színész, bábművész
 
-5312 Színházi kikészítő
+2727 Táncművész, koreográfus
 
-5341 Fényképész, fotó- és mozgófilmlaboráns
+2728 Cirkuszi és hasonló előadóművész
 
-5342 Világosító és egyéb filmgyártási foglalkozású
+2729 Egyéb alkotó- és előadó-művészi foglalkozású (felsőfokú végzettséghez kapcsolódó)
 
-5343 Díszletező, díszítő
+3122 Villamosipari technikus (elektronikai technikus) foglalkozásból
 
-5349 Egyéb kulturális, sport-, szórakoztatási szolgáltatási foglalkozások, feltéve, hogy azok a mű elkészítésének folyamatában alkotó jelleggel, attól elválaszthatatlan módon vesznek részt. Ilyen foglalkozás különösen a fotóriporter, a korrektor, a designer, képszerkesztő, művészeti vezető, a hangmérnök, továbbá a népi iparművész igazolvánnyal rendelkező magánszemély az igazolványban feltüntetett tevékenysége tekintetében
+Koncert-fénytechnikus
 
-5349 Színházi öltöztető
+Koncert-színpadtechnikus
 
-7321 Színházi jelmezkészítő
+3145 Műsorszóró és audiovizuális technikus foglalkozásból
 
-7323 Színházi fejdíszkészítő
+Filmstúdió technikus
 
-7335 Színházi lábbeli készítő.
+Hangmester
+
+Hangrestaurációs technikus
+
+Hangstúdió-technikus
+
+Hangtechnikus
+
+Képtechnikus
+
+Rögzítéstechnikai technikus
+
+Stúdiótechnikus
+
+Videótechnikus
+
+Zenei technikus
+
+3711 Segédszínész, statiszta
+
+3712 Segédrendező
+
+3714 Díszletező, díszítő
+
+3715 Kiegészítő filmgyártási és színházi foglalkozású
+
+3719 Egyéb művészeti és kulturális foglalkozású
+
+5211 Fodrász foglalkozásból
+
+Színházi fodrász
+
+Színházi parókakészítő
+
+5212 Kozmetikus foglalkozásból
+
+Maszkmester
+
+Sminkes
+
+Sminkmester
+
+Színházi kikészítő
+
+7212 Szabó, varró foglalkozásból
+
+Jelmez- és alkalmiruha-készítő
+
+Színházi varró
+
+7213 Kalapos, kesztyűs foglalkozásból
+
+Színházi fejdíszkészítő
+
+7217 Cipész, cipőkészítő, -javító foglalkozásból
+
+Színházi cipész
+
+(3a) Elnevezésétől függetlenül is az ekho választására jogosít az a tevékenység, amely a FEOR-08 osztályozási szempontjai szerint tartalma alapján megfelel a (3) bekezdés szerinti foglalkozásoknak, munkaköröknek.
+
+(3b) A (3) bekezdés szerinti foglalkozásúnak minősülő magánszemély – munkakörének elnevezésétől függetlenül – akkor választhatja az ekhot, ha tevékenysége alapján a mű elkészítésének folyamatában alkotó jelleggel vesz részt.
+
+(3c) Az (1) bekezdés c), valamint a (2) bekezdés a) és b) pontjában említett foglalkozásúnak minősül:
+
+- a) a szakképzett edző, sportszervező, -irányító (FEOR-08 2717), feltéve, hogy rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel;
+- b) a hivatásos sportoló, sportmunkatárs, valamint a sportról szóló törvényben meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy országos sportági szakszövetséggel, országos sportági sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, vagy a szövetség vagy a sportszervezet főállású munkavállalója. A sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén további feltétel, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel.
 
 (4) A (2) bekezdésben említett összeghatár
 
@@ -160,7 +226,7 @@ alapján illeti meg,
 
 (2) Az (1) bekezdésben említett magánszemélynek a számfejtést megelőzően az adóévben esedékes további kifizetések tekintetében vissza kell vonnia az ekho választására tett nyilatkozatát, ha az esedékes bevételére (vagy annak egy részére) a bevétel nagysága alapján a továbbiakban az ekho már nem alkalmazható az adóévben.
 
-(3) Ha a magánszemély az olyan tevékenységét, amely alapján a 3. § (3) bekezdése szerinti foglalkozásúnak minősül, vállalkozási szerződés vagy eseti megbízási szerződés alapján végzi, az ekho választásáról az őt megillető bevétel kifizetése előtt nyilatkozik, ekkor nyilatkozhat arról is, hogy a kifizetőt és az őt terhelő ekho megállapítását, bevallását és megfizetését átvállalja a kifizetőtől.
+(3) Ha a magánszemély az olyan tevékenységét, amely alapján a 3. § (3) és (3c) bekezdése szerinti foglalkozásúnak minősül, vállalkozási szerződés vagy eseti megbízási szerződés alapján végzi, az ekho választásáról az őt megillető bevétel kifizetése előtt nyilatkozik, ekkor nyilatkozhat arról is, hogy a kifizetőt és az őt terhelő ekho megállapítását, bevallását és megfizetését átvállalja a kifizetőtől.
 
 (4) A kifizető a magánszemély nyilatkozata ellenére, vagy annak visszavonása hiányában sem alkalmazhatja a továbbiakban az ekhót, ha a magánszemély tőle származó olyan bevétele, amely után ekhót fizetett, az adóévben a 3. § (4) bekezdése szerinti összeghatárt meghaladja.
 
@@ -186,11 +252,9 @@ köteles adóbevallásában feltüntetni és a bevallás benyújtására előír
 
 8. § A jogszerűen ekhoalapként figyelembe vett bevétel után a közterhek e törvényben szabályozott megfizetésével teljesülnek
 
-- a) a Tbj.-ben meghatározott, a foglalkoztatót terhelő társadalombiztosítási járulék,
-- b) a Tbj.-ben meghatározott, a biztosítottat terhelő nyugdíjjárulék (magánnyugdíjpénztári tagdíj), befizetési, illetve levonási, továbbá
-- c) a kifizetőt és a magánszemélyt terhelő személyi jövedelemadózási
-
-kötelezettségek.
+- a) a szociális hozzájárulási adóra vonatkozó törvényi rendelkezésekben meghatározott, a kifizetőt terhelő közterheket,
+- b) a Tbj.-ben meghatározott biztosítottat terhelő járulékokat érintő befizetési, illetve levonási, továbbá
+- c) a kifizetőt és a magánszemélyt terhelő személyi jövedelemadózási kötelezettségek.
 
 ### Az ekho megoszlása
 
@@ -202,12 +266,7 @@ kötelezettségek.
 
 minősül.
 
-(2) A 4. § (3) bekezdése szerint a kifizetőt terhelő ekhoból az ekhoalap
-
-- a) 1,2 százaléka egészségbiztosítási járuléknak,
-- b) 18,8 százaléka nyugdíjbiztosítási járuléknak
-
-minősül.
+(2) A 4. § (3) bekezdése szerint a kifizetőt terhelő ekho és a 6. § szerint a magánszemélyt terhelő különadó szociális hozzájárulási adónak minősül.
 
 (3) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes, a magán-nyugdíjpénztári tag magánszemélyt terhelő ekhoból – az (1) bekezdés c) pontjától eltérően – az ekhoalap 3,9 százaléka nyugdíjjáruléknak minősül.
 
@@ -224,25 +283,13 @@ minősül.
 - a) 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százalékot a Nyugdíjbiztosítási Alapnak, 10,7 százalékot az Egészségbiztosítási Alapnak utal át.
 - b)
 
-(2) Az állami adóhatóság a kifizetőt terhelő, megfizetett ekho összegéből
-
-- a) 94 százalék nyugdíjbiztosítási járulékot a Nyugdíjbiztosítási Alapnak,
-- b) 6 százalék egészségbiztosítási járulékot az Egészségbiztosítási Alapnak
-
-utal át.
-
-(3) Az állami adóhatóság a különadó megfizetett összegéből
-
-- a) 94 százalékot a Nyugdíjbiztosítási Alapnak,
-- b) 6 százalékot az Egészségbiztosítási Alapnak
-
-utal át.
+(2)–(3)
 
 (4) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes ekhora az (1) bekezdés b) pontja nem alkalmazható.
 
 ### A magánszemélyt megillető társadalombiztosítási ellátások
 
-12. § A befizetett ekho alapján a magánszemély egészségügyi szolgáltatásra, baleseti egészségügyi szolgáltatásra, baleseti járadékra és nyugdíjbiztosítási ellátásra jogosult.
+12. § Az állami költségvetésbe fizetett ekho alapján a magánszemély egészségügyi szolgáltatásra, baleseti egészségügyi szolgáltatásra, baleseti járadékra és nyugdíjbiztosítási ellátásra jogosult.
 
 ### Vegyes rendelkezések
 

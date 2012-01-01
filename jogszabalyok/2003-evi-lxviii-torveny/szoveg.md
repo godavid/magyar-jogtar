@@ -830,7 +830,7 @@ Amelynek bizonyságául alulírottak, Kormányaik által erre felhatalmazva, al�
 
 Készült Rómában, az ezerkilencszáznyolcvannyolcadik év március hónapjának tizedik napján.''
 
-3. § (1) Az Egyezmény 6. cikkének 3. bekezdésén, 7. cikkének 5. bekezdésén, 14. cikkén és 15. cikkének 1. és 2. bekezdésén, továbbá a Jegyzőkönyv 3. cikkének 3. bekezdésén alapuló, a Magyar Köztársaságot terhelő értesítési kötelezettséget a legfőbb ügyész teljesíti. Az Egyezmény 15. cikkének 3. bekezdése szerinti információ címzettje a legfőbb ügyész.
+3. § (1) Az Egyezmény 6. cikkének 3. bekezdésén, 7. cikkének 5. bekezdésén, 14. cikkén és 15. cikkének 1. és 2. bekezdésén, továbbá a Jegyzőkönyv 3. cikkének 3. bekezdésén alapuló, Magyarországot terhelő értesítési kötelezettséget a legfőbb ügyész teljesíti. Az Egyezmény 15. cikkének 3. bekezdése szerinti információ címzettje a legfőbb ügyész.
 
 (2) Az Egyezmény és a Jegyzőkönyv rendelkezéseinek alkalmazása során a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény rendelkezéseit értelemszerűen alkalmazni kell, ha az Egyezményből, illetve a Jegyzőkönyvből más nem következik.
 

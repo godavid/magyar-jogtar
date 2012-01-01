@@ -207,7 +207,7 @@ a termőföld védelméről
 
 (2) A földvédelmi eljárásban igénybe vehető valamennyi jogorvoslatért 15 000 forint díjat kell fizetni.
 
-(3) A földvédelmi eljárásért fizetett díj az ingatlanügyi hatóság saját bevételét képezi, amely a külön jogszabályban meghatározott számlaszámra fizetendő meg. A díjbevétel 25%-át a földügyért felelős miniszter jogosult központosítani, amely kizárólag a földügyi szakigazgatáson belül használható fel.
+(3) A földvédelmi eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely a földügyért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. A földvédelmi eljárásáért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.
 
 19. § (1) A díjat a földvédelmi eljárás lefolytatását kérelmezőnek – ideértve azon eljárás kérelmezőjét is, mely eljárásban az ingatlanügyi hatóság szakhatóságként működik közre – kell megfizetnie.
 
@@ -313,9 +313,9 @@ hasznosítják.
 
 26. § (1) A járulékot és a bírságot az ingatlanügyi hatóság előirányzat-felhasználási keretszámlájára kell befizetni.
 
-(2) A járulék és bírság a központi költségvetést illeti meg.
+(2) A járulék a központi költségvetést illeti meg.
 
-(3) A határidőre meg nem fizetett járulék és bírság adók módjára behajtandó köztartozás.
+(3) A határidőre meg nem fizetett járulék adók módjára behajtandó köztartozás.
 
 ### FÖLDMINŐSÍTÉS
 
@@ -565,11 +565,11 @@ esetén a 3. mellékletben foglaltak szerint talajvédelmi bírságot szab ki.
 
 (2) A talajvédelmi járulék, valamint a bírság fizetése alól felmentés nem adható.
 
-(3) A határidőre meg nem fizetett talajvédelmi járulék, valamint bírság adók módjára behajtandó köztartozás.
+(3) A határidőre meg nem fizetett talajvédelmi járulék adók módjára behajtandó köztartozás.
 
-(4) A talajvédelmi járulék, a talajvédelmi bírság és a talajvédelmi hatósági eljárásokhoz befizetett igazgatási szolgáltatási díj a talajvédelmi hatóság saját bevétele, melyet a 32–34. §-okban meghatározott feladatok ellátására kell fordítani.
+(4) A talajvédelmi járulék és a talajvédelmi hatósági eljárásokhoz befizetett igazgatási szolgáltatási díj a talajvédelmi hatóság saját bevétele, melyet a 32–34. §-okban meghatározott feladatok ellátására kell fordítani.
 
-(5) A talajvédelmi hatóság a megfizetett talajvédelmi járulék, talajvédelmi bírság, valamint igazgatási szolgáltatási díj (4) bekezdésben meghatározott felhasználásáról a tárgyévet követő év március 31-ig tájékoztatja a földügyért felelős minisztert.
+(5) A talajvédelmi hatóság a megfizetett talajvédelmi járulék valamint igazgatási szolgáltatási díj (4) bekezdésben meghatározott felhasználásáról a tárgyévet követő év március 31-ig tájékoztatja a földügyért felelős minisztert.
 
 ### IV. Fejezet — A GYÜMÖLCSÜLTETVÉNY TELEPÍTÉSÉNEK ENGEDÉLYEZÉSE, NYILVÁNTARTÁSA
 
@@ -601,7 +601,7 @@ esetén a 3. mellékletben foglaltak szerint talajvédelmi bírságot szab ki.
 
 64. § (1) A gyümölcsültetvény-kataszterbe bejelentett adatok valódiságát a mezőgazdasági igazgatási szerv a földmérési és térinformatikai államigazgatási szerv közreműködésével ellenőrzi.
 
-(2) Aki valótlan adatokat jelent, vagy az adatszolgáltatást felszólítás ellenére sem teljesíti, azt a mezőgazdasági igazgatási szerv – a jogsértés súlyát, ismételtségét figyelembe véve – 20 000 forinttól 50 000 forintig terjedő bírsággal sújtja. A bírság a központi költségvetés bevétele.
+(2) Aki valótlan adatokat jelent, vagy az adatszolgáltatást felszólítás ellenére sem teljesíti, azt a mezőgazdasági igazgatási szerv – a jogsértés súlyát, ismételtségét figyelembe véve – 20 000 forinttól 50 000 forintig terjedő bírsággal sújtja.
 
 ### V. Fejezet — HATÁLYBALÉPÉS, ÁTMENETI ÉS FELHATALMAZÓ RENDELKEZÉSEK
 
@@ -626,7 +626,12 @@ esetén a 3. mellékletben foglaltak szerint talajvédelmi bírságot szab ki.
 - f) a gyümölcsültetvények telepítése esetében az ökológiai alkalmasság igazolásának módját,
 - g) a talajvédelmi szakértői tevékenység folytatásának részletes feltételeit, az e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
 
-(3) Felhatalmazást kap a földügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a talajvédelmi hatósági eljárások igazgatási szolgáltatási díjainak mértékét és a fizetésre vonatkozó egyéb szabályokat.
+(3) Felhatalmazást kap a földügyért felelős miniszter, hogy
+
+- a) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben, valamint
+- b) a földvédelmi hatósági eljárás és a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjának befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
+
+kiadott rendeletben határozza meg.
 
 67. § E törvény hatálybalépésével egyidejűleg
 

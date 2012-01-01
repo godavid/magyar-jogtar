@@ -2,7 +2,7 @@
 
 a Nemzeti Kulturális Alapról
 
-1. § A Nemzeti Kulturális Alap (a továbbiakban: Alap) az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) szerinti – a nemzeti és az egyetemes értékek létrehozásának, megőrzésének, valamint hazai és határon túli terjesztésének támogatása érdekében létrehozott – elkülönített állami pénzalap. Az Alap feletti rendelkezési jogot – ágazati stratégiai döntéseivel összhangban – a kultúráért felelős miniszter (a továbbiakban: miniszter) gyakorolja, és felel annak felhasználásáért.
+1. § A Nemzeti Kulturális Alap (a továbbiakban: Alap) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti – a nemzeti és az egyetemes értékek létrehozásának, megőrzésének, valamint hazai és határon túli terjesztésének támogatása érdekében létrehozott – elkülönített állami pénzalap. Az Alap feletti rendelkezési jogot – ágazati stratégiai döntéseivel összhangban – a kultúráért felelős miniszter (a továbbiakban: miniszter) gyakorolja, és felel annak felhasználásáért.
 
 2. § (1) Az Alap céljainak megvalósítása érdekében a miniszter az elvi, irányító és koordináló döntések meghozatalára Nemzeti Kulturális Alap Bizottságot (a továbbiakban: Bizottság) létesít. A Bizottság tagjainak felét a miniszter saját hatáskörében, másik felét pedig az érintett szakmai, illetve egyesületek javaslata alapján bízza meg. A Bizottság elnöke a miniszter vagy az általa megbízott személy.
 
@@ -34,17 +34,20 @@ a Nemzeti Kulturális Alapról
 
 (7) Ha az érintett az összeférhetetlenség fennállásáról valótlanul nyilatkozik vagy valótlan adatot szolgáltat, a Bizottság elnöke javaslatot tesz a miniszternek a tisztségviselő visszahívására.
 
-2/B. § Az Alapot a miniszter felügyelete alá tartozó, önálló költségvetési szerv, a Nemzeti Kulturális Alap Igazgatósága (a továbbiakban: Igazgatóság) kezeli. Az Igazgatóság felel a bizottsági és kollégiumi döntések előkészítésének és végrehajtásának törvényességéért, valamint ellátja az Áht. 54/A. §-ában meghatározott feladatokat.
+2/B. § Az Alapot a miniszter felügyelete alá tartozó, önálló költségvetési szerv, a Nemzeti Kulturális Alap Igazgatósága (a továbbiakban: Igazgatóság) kezeli. Az Igazgatóság felel a bizottsági és kollégiumi döntések előkészítésének és végrehajtásának törvényességéért, valamint ellátja az Áht.-ban meghatározott feladatokat.
 
 3. § Az Alap pótlólagos forrást biztosít a célja szerint megvalósítandó feladatokhoz.
 
 4. § (1) Az Alap bevételi forrásai:
 
 - a) az ötöslottó szerencsejáték játékadójának 90 százaléka;
-- b) központi költségvetési előirányzatokból átvett pénzeszközök;
-- c) a jogi személyek, jogi személyiség nélküli gazdasági társaságok és természetes személyek befizetései;
-- d) költségvetési támogatás;
-- e) egyéb bevételek.
+- b) a kulturális adó teljes összege;
+- c) központi költségvetési előirányzatokból átvett pénzeszközök;
+- d) a jogi személyek, jogi személyiség nélküli gazdasági társaságok és természetes személyek befizetései;
+- e) költségvetési támogatás;
+- f) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény alapján felajánlott személyi jövedelemadó meghatározott része;
+- g) a szerzői jogról szóló törvény alapján a közös jogkezelő szervezetektől származó befizetések;
+- h) egyéb bevételek.
 
 (2) Az (1) bekezdés c) pontjában foglalt befizetések közérdekű kötelezettségvállalásnak minősülnek (Ptk. 593–596. §).
 
@@ -52,7 +55,7 @@ a Nemzeti Kulturális Alapról
 
 (4) Költségvetési támogatás felhasználását a miniszter e törvényben foglaltaktól eltérően szabályozhatja.
 
-(5) Az Alap bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető – az előző évek kötelezettség vállalásainak fedezeteként – a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
+(5) Az Alap bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető a kiadási és bevételi előirányzat egyidejű módosításával. Az Alap költségvetésének tervezésére, végrehajtására és zárszámadására egyebekben az Áht. és az éves költségvetési törvény vonatkozó rendelkezéseit kell alkalmazni.
 
 (6) A miniszter jogosult – a pályázati döntések függvényében – az Alap 7. § (1) bekezdése szerinti kiadási jogcímei között átcsoportosítást végrehajtani.
 
@@ -62,7 +65,7 @@ a Nemzeti Kulturális Alapról
 
 5/B. §
 
-6. § Az állami adóhatóság megbízásából a kincstár a befolyt ötöslottó szerencsejáték játékadó összegének 90 százalékát havonta átutalja az Alap számlája javára.
+6. § Az állami adóhatóság megbízásából a kincstár a befolyt ötöslottó szerencsejáték játékadó összegének 90 százalékát havonta átutalja az Alap számlája javára. A kulturális adó esetében az állami adóhatóság megbízásából a kincstár a befolyt kulturális adó összegét naponta utalja át az Alap számlája javára.
 
 7. § (1) Az Alapból az alábbi célokra adható támogatás:
 

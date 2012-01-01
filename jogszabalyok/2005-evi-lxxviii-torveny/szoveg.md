@@ -46,13 +46,13 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 
 ### A Nemzeti Akkreditáló Testület
 
-4. § (1) A Magyar Köztársaság nemzeti akkreditáló szervezete a Nemzeti Akkreditáló Testület (a továbbiakban: Testület). A Testület székhelye Budapest.
+4. § (1) Magyarország nemzeti akkreditáló szervezete a Nemzeti Akkreditáló Testület (a továbbiakban: Testület). A Testület székhelye Budapest.
 
 (2) A Testület a tagok önkéntes tagságán alapuló köztestület, amely e törvény rendelkezései szerint kizárólagos jogkörrel működteti a nemzeti akkreditálás rendszerét.
 
-(3) A Testületet a Fővárosi Bíróság veszi nyilvántartásba, az egyesületek nyilvántartásba vételére irányadó rendelkezések szerint.
+(3) A Testületet a Fővárosi Törvényszék veszi nyilvántartásba, az egyesületek nyilvántartásba vételére irányadó rendelkezések szerint.
 
-(4) A Testület jogosult a Magyar Köztársaság címerének használatára.
+(4)
 
 ### A Testület feladatai
 
@@ -534,7 +534,7 @@ választ 5 éves időtartamra.
 - d) az erőforrásokban és környezetben (székhely, telephelyek),
 - e) az akkreditált területben.
 
-(6) Az akkreditálásra vonatkozó európai és nemzetközi szabványok, továbbá azoknak a nemzetközi szervezeteknek a szabályzatai alapján, amelyeknek a Testület is tagja, a Testület szabályzatában további tény, adat, állapot változását is jelentősnek minősítheti, és erről bejelentést kérhet, amennyiben ez nem ellentétes a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvénnyel.
+(6) Az akkreditálásra vonatkozó európai és nemzetközi szabványok, továbbá azoknak a nemzetközi szervezeteknek a szabályzatai alapján, amelyeknek a Testület is tagja, a Testület szabályzatában további tény, adat, állapot változását is jelentősnek minősítheti, és erről bejelentést kérhet, amennyiben ez nem ellentétes az információs önrendelkezési jogról és az információszabadságról szóló törvénnyel.
 
 (7) A jelentős változás bejelentésének elmulasztása az akkreditált státusz felfüggesztését eredményezheti.
 

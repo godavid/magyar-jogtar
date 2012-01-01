@@ -56,7 +56,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (2) Az MMA elnöke évente tájékoztatja a Kormányt az MMA munkájáról.
 
-(3) Az MMA a törvényben rögzített tájékoztatók elkészítéséhez – a közzétett adatok felhasználásán túl – az adatokat önkéntes adatszolgáltatáson alapuló saját adatgyűjtés és más szervektől való adatátvétel útján szerzi be, figyelemmel a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben foglaltakra.
+(3) Az MMA a törvényben rögzített tájékoztatók elkészítéséhez – a közzétett adatok felhasználásán túl – az adatokat önkéntes adatszolgáltatáson alapuló saját adatgyűjtés és más szervektől való adatátvétel útján szerzi be, figyelemmel az információs önrendelkezési jogról és az információszabadságról szóló törvényben foglaltakra.
 
 ### II. Fejezet — A MAGYAR MŰVÉSZETI AKADÉMIA SZERVEZETE ÉS MŰKÖDÉSE
 
@@ -201,7 +201,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 21. § Az MMA tisztségviselői az elnökség tagjai, továbbá a tagozatok vezetői.
 
-22. § (1) Az MMA elnökét a magyar állampolgárságú rendes tagok közül három évre a közgyűlés választja; őt tisztségében a köztársasági elnök megerősíti. Az elnök legfeljebb egy alkalommal újraválasztható.
+22. § (1) Az MMA elnökét a magyar állampolgárságú rendes tagok közül három évre a közgyűlés választja, őt tisztségében a köztársasági elnök megerősíti. A köztársasági elnök döntéséhez ellenjegyzés nem szükséges. Az elnök legfeljebb egy alkalommal újraválasztható.
 
 (2) Az MMA tevékenységét a közgyűlés határozatainak megfelelően és az Alapszabályban meghatározott módon az elnök irányítja és gyakorolja a tulajdonosi jogokat a jelen törvény és egyéb jogszabályok alapján. Az MMA-t az elnök képviseli. Az elnök ellátja az MMA költségvetési fejezetét irányító szerv vezetőjének feladatait.
 
@@ -303,6 +303,10 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 31–32. §
 
-33. §
+33. § A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény 4. §-ának (1) bekezdése kiegészül a következő i) ponttal:
+
+[E törvény alkalmazásában kedvezményezett]
+
+„i) a Magyar Művészeti Akadémia.”
 
 34–35. §

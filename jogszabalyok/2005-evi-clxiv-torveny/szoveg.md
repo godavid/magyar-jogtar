@@ -6,7 +6,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 ### A törvény hatálya
 
-1. § E törvény hatálya a Magyar Köztársaság területén – a külön törvényben meghatározott egészségügyi szolgáltatás, valamint a külön törvényben meghatározott fémkereskedelmi engedélyköteles tevékenység kivételével – a kereskedelmi tevékenység, a kereskedelmet kiszolgáló szolgáltató, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának, továbbá a termékek forgalmazásának alapvető követelményeire és ellenőrzésére terjed ki.
+1. § E törvény hatálya – a külön törvényben meghatározott egészségügyi szolgáltatás, valamint a külön törvényben meghatározott fémkereskedelmi engedélyköteles tevékenység kivételével – a kereskedelmi tevékenység, a kereskedelmet kiszolgáló szolgáltató, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának, továbbá a termékek forgalmazásának alapvető követelményeire és ellenőrzésére terjed ki.
 
 2. § E törvény alkalmazásában:
 
@@ -15,6 +15,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 3. bevásárlóközpont: olyan komplex kialakítású, vegyes rendeltetésű épület, amelyben állandó jelleggel több kereskedő folytat túlnyomórészt üzletekben különböző típusú kereskedelmi tevékenységet, és ahol emellett jellemzően a szabadidő eltöltésével összefüggő szolgáltatási tevékenységet is folytatnak;
 - 4. csomagküldő kereskedelem: az a kereskedelmi tevékenység, amelynek során a kereskedő a termék jellemzőit és árát feltüntető, ezáltal a vásárló számára az áru megvételére vonatkozó ügyleti döntés meghozatalát lehetővé tevő kereskedelmi kommunikációt bocsátja a vásárló rendelkezésére, és az ilyen kereskedelmi kommunikáció alapján megrendelt terméket szállítja (szállíttatja) a megjelölt címre;
 - 5. forgalmazás: kereskedelmi tevékenység keretében valamely termék értékesítése, fogyasztás vagy használat, illetve igénybevétel céljára ellenérték fejében történő rendelkezésre bocsátása;
+- 5a. helyi termelői piac: olyan piac, ahol a kistermelő a piac fekvése szerinti megyében, vagy a piac 40 km-es körzetében, vagy Budapesten fekvő piac esetében az ország területén bárhol működő gazdaságából származó mezőgazdasági-, illetve élelmiszeripari termékét értékesíti.
 - 6. idegenvezetői tevékenység: üzletszerű gazdasági tevékenység keretében a turisztikai szempontból jelentős értékeknek és egyéb látnivalóknak az azokat látogató személyek számára a helyszínen való részletes ismertetése és ehhez kapcsolódóan a látogatók számára nem ismert helyen való eligazodás érdekében általános tájékoztatás, illetve adott esetben segítség nyújtása;
 - 7. jelentős piaci erő: olyan piaci helyzet, amelynek következtében a kereskedő a beszállító számára termékeinek, illetve szolgáltatásainak a vásárlókhoz való eljuttatása során ésszerűen megkerülhetetlen szerződéses partnerré válik, illetve vált, és forgalmi részesedésének mértéke miatt képes egy termék, termékcsoport piacra jutását regionálisan vagy országosan befolyásolni;
 - 8. kereskedelmi jellegű turisztikai szolgáltatási tevékenység: az idegenvezetői tevékenység, a lovas szolgáltató tevékenység, a szálláshely-szolgáltatási tevékenység, a tartós szálláshasználati szolgáltatási tevékenység, valamint az utazásszervezői és utazásközvetítői tevékenység;
@@ -43,7 +44,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 ### A kereskedelmi tevékenységek folytatásának általános feltételei
 
-3. § (1) A (3) bekezdés szerint vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa alapján engedélyköteles kereskedelmi tevékenység kivételével az, aki a Magyar Köztársaság területén kereskedelmi tevékenységet kíván folytatni, köteles az erre irányuló szándékát a kereskedelmi hatóságnak bejelenteni.
+3. § (1) A (3) bekezdés szerint vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa alapján engedélyköteles kereskedelmi tevékenység kivételével az, aki Magyarország területén kereskedelmi tevékenységet kíván folytatni, köteles az erre irányuló szándékát a kereskedelmi hatóságnak bejelenteni.
 
 (2) A kereskedelmi tevékenység formáját (a továbbiakban: kereskedési forma) a kereskedő az e törvényben meghatározott, valamint a (4) bekezdés szerinti szabályok szerint maga választhatja meg.
 
@@ -125,7 +126,9 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 6/A. § (1) Aki bevásárlóközpontot kíván üzemeltetni, köteles az erre irányuló szándékát a kereskedelmi hatóságnak bejelenteni.
 
-(2) Vásár, valamint piac kizárólag a kereskedelmi hatóság által kiadott vásár-, illetve piacüzemeltetési engedély birtokában üzemeltethető.
+(2) Vásár, valamint piac – a (3) bekezdésben meghatározott kivétellel – a kereskedelmi hatóság által kiadott vásár-, illetve piacüzemeltetési engedély birtokában üzemeltethető.
+
+(3) Helyi termelői piac a kereskedelmi hatóságnak történő bejelentéssel üzemeltethető.
 
 ### A kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának általános feltételei
 
@@ -186,7 +189,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 - a) a kereskedőkről,
 - b) a működési engedéllyel rendelkező és a bejelentett üzletekről, az üzletek nyitva tartásáról,
-- c) a bejelentett bevásárlóközpontokról, valamint az engedélyezett vásárokról és piacokról,
+- c) a bejelentett bevásárlóközpontokról és helyi termelői piacokról, valamint az engedélyezett vásárokról és piacokról,
 - d) az idegenvezetői tevékenységet folytatókról,
 - e) a lovas szolgáltató tevékenységet folytatókról,
 - f) a szálláshely-üzemeltetési engedéllyel rendelkező szálláshelyekről,
@@ -259,12 +262,12 @@ nyilvántartást vezet.
 - a) a kereskedelmi tevékenység folytatásának részletes feltételeit, e tevékenységek bejelentésének, valamint a kereskedők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - b) az üzletek bejelentésének, valamint működési engedélye kiadásának rendjét és feltételeit, az üzletek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá meghatározott termékek egyes kereskedési formákban való forgalmazásának részletes feltételeit, valamint a kereskedelmi tevékenység egyes kereskedési formákban való folytatására vonatkozó, jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén a jogkövetkezmények alkalmazásának szabályait,
 - c) a vásárlók könyve hitelesítésének rendjét,
-- d) a vásár- és piactartás részletes szabályait, a bevásárlóközpont, a vásár és a piac üzemeltetésének részletes feltételeit, valamint a bevásárlóközpont bejelentésének, illetve a vásár- és a piacüzemeltetési engedély kiadásának részletes szabályait, valamint a kereskedelemsegítő szolgáltatást nyújtók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- d) a vásár- és piactartás részletes szabályait, a bevásárlóközpont, a vásár és a piac üzemeltetésének részletes feltételeit, valamint a bevásárlóközpont és a helyi termelői piac bejelentésének, illetve a vásár- és a piacüzemeltetési engedély kiadásának részletes szabályait, valamint a kereskedelmet kiszolgáló szolgáltató tevékenységet végzők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - e) a tartós szálláshasználati szolgáltatási tevékenység folytatásának részletes feltételeit, a tartós szálláshasználati szolgáltatási tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban, illetve hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit és a szálláshely-üzemeltetési engedély kiadásának rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szállásadók tájékoztatási és adatszolgáltatási kötelezettségeit, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - g) az utazásszervezői és utazásközvetítői tevékenységre jogosító engedély kiadásának rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - h) a kereskedelmi hatóság vagy hatóságok kijelölését,
-- i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének és felhasználásának részletes szabályait
+- i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait
 
 rendeletben állapítsa meg.
 

@@ -13,7 +13,8 @@ Annak érdekében, hogy az Európai Unió támogatásából finanszírozott proj
 - c) a koncessziós, illetve az egyes kizárólagos állami tevékenységek gyakorlása jogának átengedése érdekében lefolytatott árverési és pályázati eljárások keretében létrejött szerződések alapján megvalósítandó és ahhoz szorosan kapcsolódó, összesen legalább öt milliárd forint teljes költségigényű,
 - d) részben vagy egészben egyedi kormánydöntéssel megítélt támogatásból megvalósítandó,
 - e) legalább 90 millió forint teljes költségigényű és legalább 15 új munkahely megteremtését biztosító, vagy
-- f) környezetvédelmi, kutatás-fejlesztési, oktatási, valamint egészségügyi és szociális célok megvalósítását elősegítő
+- f) környezetvédelmi, kutatás-fejlesztési, oktatási, valamint egészségügyi és szociális célok megvalósítását elősegítő,
+- g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó
 
 nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági engedélyezési ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra terjed ki.
 
@@ -28,8 +29,8 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 (2) Kiemelt jelentőségű ügyben a fellebbezés elbírálására jogosult
 
-- a) az (1) bekezdés a) pontja alkalmazásával első fokon eljáró hatóság felett felügyeleti jogkört gyakorló miniszter, illetőleg a Kormány által rendeletben kijelölt hatóság,
-- b) szakhatóságként az (1) bekezdés b) pontja alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló miniszter, illetőleg a Kormány által rendeletben kijelölt hatóság.
+- a) az (1) bekezdés a) pontja alkalmazásával első fokon eljáró hatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság,
+- b) szakhatóságként az (1) bekezdés b) pontja alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság.
 
 3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – a (2)–(4) bekezdésben meghatározott kivétellel – legfeljebb két hónap lehet.
 
@@ -114,7 +115,7 @@ szakaszból áll.
 
 (2) A keresetlevél a hatósághoz kizárólag elektronikus úton nyújtható be. A hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt három napon belül elektronikusan továbbítja a bírósághoz.
 
-(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben, valamint a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben meghatározottak szerint, kizárólag elektronikus úton történik.
+(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben meghatározottak szerint, kizárólag elektronikus úton történik.
 
 (4) A bíróság a keresetlevelet legkésőbb annak beérkezését követő öt napon belül megvizsgálja, valamint ezen belül a jogszabálynak megfelelő keresetlevelet a közigazgatási szerv nyilatkozatával együtt megküldi a felperes jogi képviselője részére.
 
@@ -140,11 +141,9 @@ szakaszból áll.
 
 (7) A bíróság határozatát a meghozatalától számított nyolc napon belül a felek részére kézbesíteni kell.
 
-10. § A Legfelsőbb Bíróság a felülvizsgálati ellenkérelem előterjesztésére legfeljebb tizenöt napos határidőt állapít meg. A felülvizsgálati ellenkérelemnek (csatlakozó felülvizsgálati kérelemnek) a Legfelsőbb Bírósághoz való érkezését, illetve a felülvizsgálati ellenkérelem előterjesztésére megállapított határidő eredménytelen leteltét követő kilencven napon belül a Legfelsőbb Bíróság az ügy érdemében dönt.
+10. § A Kúria a felülvizsgálati ellenkérelem előterjesztésére legfeljebb tizenöt napos határidőt állapít meg. A felülvizsgálati ellenkérelemnek (csatlakozó felülvizsgálati kérelemnek) a Kúriához való érkezését, illetve a felülvizsgálati ellenkérelem előterjesztésére megállapított határidő eredménytelen leteltét követő kilencven napon belül a Kúria az ügy érdemében dönt.
 
-### A hivatalos iratok kézbesítése
-
-11. § A kiemelt jelentőségű ügyekben a hivatalos iratok kézbesítéséről szóló külön jogszabályt azzal az eltéréssel kell alkalmazni, hogy minden küldeményt elsőbbségi kézbesítés útján kell a címzetthez eljuttatni.
+11. §
 
 ### Záró rendelkezések
 

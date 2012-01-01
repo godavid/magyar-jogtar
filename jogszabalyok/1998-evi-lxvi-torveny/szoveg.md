@@ -12,18 +12,12 @@ Az egészségügyi szolgáltatásokra szolidaritási elv alapján jogosultak ell
 
 2. § Százalékos mértékű egészségügyi hozzájárulás-fizetési kötelezettség terheli az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti munkáltatót, kifizetőt (a továbbiakban együtt: kifizető) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerinti belföldi magánszemélynek juttatott, a 3. § (1) bekezdésében, a belföldi magánszemélyt az általa megszerzett, a 3. § (3) bekezdésében meghatározott jövedelem után.
 
-3. § (1) A kifizető, – kifizető hiányában vagy ha a kifizető az adóelőleg alapját képező jövedelem után adót (adóelőleget) nem köteles megállapítani – a jövedelmet szerző magánszemély 27 százalékos mértékű egészségügyi hozzájárulást fizet az adóévben kifizetett, juttatott, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti
+3. § (1) A kifizető, – kifizető hiányában, vagy ha a kifizető az adó (adóelőleg) alapját képező jövedelem után adót (adóelőleget) nem köteles megállapítani – a jövedelmet szerző magánszemély 27 százalékos mértékű egészségügyi hozzájárulást fizet az adóévben kifizetett, juttatott, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti
 
-- a) összevont adóalapba tartozó jövedelemnél
-  - aa) az adóelőleg-alap számításnál figyelembe vett jövedelem,
-  - ab)
+- a) összevont adóalapba tartozó jövedelemnél az adó (adóelőleg) alap számításánál figyelembe vett jövedelem,
 - b) külön adózó jövedelmek közül
   - ba) a béren kívüli juttatásnak nem minősülő egyes meghatározott juttatások [Szja tv. 70. §] adóalapként meghatározott összege,
-  - bb) a kamatkedvezményből származó jövedelem,
-  - bc)
-  - bd)
-
-után.
+  - bb) a kamatkedvezményből származó jövedelem adóalapként meghatározott összege után.
 
 (2) Az (1) bekezdésben meghatározott jövedelem után az egészségügyi hozzájárulást nem pénzbeli juttatás esetén is meg kell fizetni.
 
@@ -37,11 +31,11 @@ után.
 
 után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddig, amíg a biztosítási jogviszonyában a Tbj. 19. § (3) bekezdése alapján megfizetett természetbeni és pénzbeli egészségbiztosítási járulék, az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény 9. § (1) bekezdése alapján megfizetett egészségbiztosítási járulék, a Tbj. 36–37. §-a és 39. § (2) bekezdése alapján megfizetett egészségügyi szolgáltatási járulék (a továbbiakban együtt: egészségbiztosítási járulék), valamint az a)–e) pontban meghatározott jövedelmek után megfizetett százalékos mértékű egészségügyi hozzájárulás együttes összege a tárgyévben el nem éri a négyszázötvenezer forintot (a továbbiakban: hozzájárulás-fizetési felső határ).
 
-(4)
+(4) A kifizető a béren kívüli juttatás (Szja tv. 71. §) adóalapként meghatározott összege után 10 százalékos mértékű egészségügyi hozzájárulást fizet.
 
-(5) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az a jövedelem és járulék alapjául szolgáló azon összeg, amely után a Tbj. szabályai szerint járulékot kell fizetni, valamint az a jövedelem, amely után az adót nem kell megállapítani és/vagy megfizetni.
+(5) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az a jövedelem és járulék alapjául szolgáló azon összeg, amely után a Tbj. szabályai szerint járulékot kell fizetni, valamint a szociális hozzájárulási adó alapját képező összeg, továbbá az a jövedelem, amely után az adót nem kell megállapítani és/vagy megfizetni.
 
-(6)
+(6) Az Szja tv. 70. § (4) bekezdés második mondata szerinti egyes meghatározott juttatás utáni 27 százalékos mértékű egészségügyi hozzájárulás összegét az adóévet követő év május hónapjának kötelezettségeként kell bevallani és megfizetni, azzal, hogy a fizetési kötelezettséget csökkenti az ugyanazon alap (Szja tv. 70. § (4) bekezdés második mondata) után számított, a (4) bekezdés alapján megállapított 10 százalékos mértékű egészségügyi hozzájárulás.
 
 (7)
 
@@ -49,7 +43,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 (9)
 
-4. § (1) A százalékos mértékű egészségügyi hozzájárulás-fizetési kötelezettség a 3. § (1) és (3) bekezdéstől eltérően a (2) bekezdés szerint a kifizetőt, a (3)–(4) bekezdés szerint a magánszemélyt terheli.
+4. § (1) Az átalányadózó mezőgazdasági kistermelő által fizetendő százalékos mértékű egészségügyi hozzájárulás az átalányban megállapított jövedelmének 15 százaléka.
 
 (2)
 
@@ -67,7 +61,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 - d) az önkéntes kölcsönös biztosítópénztár által a magánszemély javára jóváírt támogatói adomány,
 - e) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 51/C. §-ában meghatározott szolgáltatás,
 - f) az iskolai szövetkezet és az iskolai szövetkezeti csoport nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjának az iskolai szövetkezet, illetve az iskolai szövetkezeti csoport tevékenységében kifejtett személyes közreműködéséért a törvény hatálybalépését követően kapott ellenszolgáltatás.
-- g) az Szja tv. 71. §-a szerinti béren kívüli juttatás,
+- g)
 - h) bármely EGT-államban működő, a tőkepiacról szóló törvény szerint elismert (szabályozott) piacnak minősülő tőzsdére bevezetett értékpapírnak az adott tagállam joga szerint osztaléknak (osztalékelőlegnek) minősülő hozama,
 - i) a társadalombiztosítási nyugdíjrendszerbe történő visszalépés miatt a volt pénztártagnak kifizetett, a hozamgarantált tőke összege feletti összeg.
 
@@ -97,7 +91,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 (5) Az egyéni vállalkozó e törvény alkalmazásában magánszemélynek minősül.
 
-(6) A kamatkedvezményből származó jövedelem után fizetendő százalékos egészségügyi hozzájárulást évente, az adóévet követő január 12-éig kell megfizetni. Ha a kamatkedvezmény évközben megszűnik, az egészségügyi hozzájárulást a megszűnés napját követő hónap 12-éig kell megfizetni. A béren kívüli juttatásnak nem minősülő egyes meghatározott juttatások adóalapként meghatározott összege utáni egészségügyi hozzájárulást a személyi jövedelemadóval egyidejűleg kell megállapítani, bevallani és megfizetni.
+(6) A kamatkedvezményből származó jövedelem után fizetendő százalékos egészségügyi hozzájárulást évente, az adóévet követő január 12-éig kell megfizetni. Ha a kamatkedvezmény évközben megszűnik, az egészségügyi hozzájárulást a megszűnés napját követő hónap 12-éig kell megfizetni. A béren kívüli juttatás és a béren kívüli juttatásnak nem minősülő egyes meghatározott juttatások adóalapként meghatározott összege utáni egészségügyi hozzájárulást a személyi jövedelemadóval egyidejűleg kell megállapítani, bevallani és megfizetni.
 
 (7) A magánszemély egészségügyi hozzájárulásának megállapításánál, illetőleg megfizetésénél az Art. kerekítési szabályai nem alkalmazhatóak.
 
@@ -133,7 +127,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 (3) Az egészségügyi hozzájárulás az Egészségbiztosítási Alapot (a továbbiakban: E. Alap) illeti meg. Felhasználásának részletes szabályait külön törvény állapítja meg. A befizetett egészségügyi hozzájárulást az E. Alap javára az adóhatóság folyamatosan utalja át.
 
-(4) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló, többször módosított 1991. évi IV. törvény 58. §-a (5) bekezdésének c) pontjában meghatározott munkaadók a foglalkoztatáspolitikáért felelős miniszter rendeletében meghatározott feltételek szerint – foglalkoztatáspolitikai érdekből – támogatásban részesülnek a Munkaerőpiaci Alapból az általuk foglalkoztatott munkavállalók után fizetendő tételes mértékű egészségügyi hozzájárulás megfizetéséhez. Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a támogatás feltételeit és részletes szabályait.
+(4) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló, többször módosított 1991. évi IV. törvény 58. §-a (5) bekezdésének c) pontjában meghatározott munkaadók a foglalkoztatáspolitikáért felelős miniszter rendeletében meghatározott feltételek szerint – foglalkoztatáspolitikai érdekből – támogatásban részesülnek a Nemzeti Foglalkoztatási Alapból az általuk foglalkoztatott munkavállalók után fizetendő tételes mértékű egészségügyi hozzájárulás megfizetéséhez. Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a támogatás feltételeit és részletes szabályait.
 
 (5) Ahol jogszabály egészségügyi hozzájárulást említ, azon az e törvény szerinti egészségügyi hozzájárulást is érteni kell, továbbá az Szja.-nak, illetve a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvénynek a társadalombiztosítási járulékkal összefüggő rendelkezéseit a tételes egészségügyi hozzájárulásra is alkalmazni kell.
 

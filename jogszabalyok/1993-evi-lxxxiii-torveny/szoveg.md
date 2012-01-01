@@ -15340,7 +15340,7 @@ Az EFTA–Magyarország Megállapodás
 
 3. § (1) A Megállapodás egyrészről a Magyar Köztársaság, másrészről a Norvég Királyság, az Osztrák Köztársaság és a Svéd Királyság között 1993. október 1-jén lép hatályba.
 
-(2) Felhatalmazást kap a Kormány, hogy elrendelje a Megállapodás ideiglenes alkalmazását, egyrészről a Magyar Köztársaság, másrészről a Liechtensteini Hercegség, illetve a Svájci Államszövetség között.
+(2)
 
 (3) Felhatalmazást kap a Kormány, hogy a Finn Köztársaság, az Izlandi Köztársaság, a Liechtensteini Hercegség, valamint a Svájci Államszövetség vonatkozásában — miután ezek az államok a Megállapodás hatálybalépéséhez szükséges feltételeket teljesítették — a Megállapodás hatálybalépésének napját közzétegye.
 

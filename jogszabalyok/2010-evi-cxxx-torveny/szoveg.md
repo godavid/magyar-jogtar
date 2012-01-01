@@ -4,7 +4,7 @@ a jogalkotásról
 
 Az Országgyűlés
 
-az Alkotmány 7/A. § (4) bekezdésében foglaltak végrehajtására,
+az Alaptörvény T) cikkében foglaltak végrehajtására,
 
 a jogállamiság követelményeinek a jogalkotás során történő magas szintű érvényesítése érdekében,
 
@@ -26,9 +26,11 @@ terjed ki.
 (2) E törvény rendelkezéseit
 
 - a) a nemzetközi szerződést kihirdető jogszabályokra a nemzetközi szerződésekkel kapcsolatos eljárásról szóló törvényben,
-- b) a rendkívüli állapot, szükségállapot, veszélyhelyzet, megelőző védelmi helyzet és az Alkotmány 19/E. §-a szerinti eset idején kiadható jogszabályra a honvédelemről szóló törvényben foglalt eltérésekkel kell alkalmazni.
+- b) a különleges jogrendben alkotható jogszabályra a különleges jogrendben bevezethető intézkedésekről szóló törvényben
 
-(3) Az Alkotmányra és annak módosítására e törvény rendelkezéseit – a IV. Fejezet és a VII. Fejezet kivételével – nem kell alkalmazni.
+foglalt eltérésekkel kell alkalmazni.
+
+(3) A IV. Fejezet rendelkezéseit az Alaptörvény és módosítása előkészítésére is alkalmazni kell.
 
 (4) E törvénynek a jogszabályokra vonatkozó rendelkezéseit – a 3–6. §, a 13. §, a 16. §, a 18–20. § és a 26. § (1) bekezdése kivételével – a közjogi szervezetszabályozó eszközre is megfelelően alkalmazni kell.
 
@@ -42,16 +44,20 @@ terjed ki.
 
 (4) A jogszabályok megalkotásakor biztosítani kell, hogy a jogszabály
 
-- a) megfeleljen az Alkotmányból eredő tartalmi és formai követelményeknek,
+- a) megfeleljen az Alaptörvényből eredő tartalmi és formai követelményeknek,
 - b) illeszkedjen a jogrendszer egységébe,
 - c) megfeleljen a nemzetközi jogból és az európai uniós jogból eredő kötelezettségeknek és
 - d) megfeleljen a jogalkotás szakmai követelményeinek.
 
-3. § Az azonos vagy hasonló életviszonyokat azonos vagy hasonló módon, szabályozási szintenként lehetőleg ugyanabban a jogszabályban kell szabályozni. A szabályozás nem lehet indokolatlanul párhuzamos vagy többszintű. A jogszabályban nem ismételhető meg olyan jogszabály rendelkezése, amellyel a jogszabály az Alkotmány alapján nem lehet ellentétes.
+3. § Az azonos vagy hasonló életviszonyokat azonos vagy hasonló módon, szabályozási szintenként lehetőleg ugyanabban a jogszabályban kell szabályozni. A szabályozás nem lehet indokolatlanul párhuzamos vagy többszintű. A jogszabályban nem ismételhető meg az Alaptörvény vagy olyan jogszabály rendelkezése, amellyel a jogszabály az Alaptörvény alapján nem lehet ellentétes.
 
 4. § Ha egy tárgykört törvény szabályoz, törvényben kell rendezni az alapvető jogintézményeket és a szabályozási cél megvalósulásával összefüggő lényeges garanciákat.
 
 5. § (1) A jogszabály alkotására adott felhatalmazásban meg kell határozni a felhatalmazás jogosultját, tárgyát és kereteit. Ha a miniszteri rendelet esetében a felhatalmazásban adott jogalkotási jogosultság nem önálló, a felhatalmazásban az egyetértési jog jogosultját is meg kell jelölni. Miniszteri rendelet kiadására adott felhatalmazásban a felhatalmazás jogosultját feladatkör szerint kell megjelölni.
+
+(1a) Ha a felhatalmazás jogosultja a helyi önkormányzat képviselő-testülete, társulás esetén – ha a társulási megállapodásban meghatározott feladat- és hatáskör a felhatalmazás tárgyának szabályozására kiterjed – az önkormányzati rendelet megalkotására a társulási megállapodásban kijelölt vagy ennek hiányában a társulás székhelye szerinti helyi önkormányzat képviselő-testülete jogosult. A rendelet megalkotásához a társulásban résztvevő helyi önkormányzat képviselő-testületének hozzájárulása szükséges.
+
+(1b) Ha a felhatalmazás jogosultja a helyi önkormányzat képviselő-testülete, társult képviselő-testület esetén – ha az adott ügy szabályozásáról az egyes települések képviselő-testülete a helyi önkormányzatokról szóló törvény szerint nem önállóan dönt – az önkormányzati rendelet megalkotására a társulás székhelye szerinti helyi önkormányzat jogosult a társult képviselő-testület döntésének megfelelően.
 
 (2) A felhatalmazás jogosultja a jogi szabályozásra másnak további felhatalmazást nem adhat.
 
@@ -63,14 +69,14 @@ terjed ki.
 
 #### 1. A jogszabály területi és személyi hatálya
 
-6. § (1) A jogszabály területi hatálya a Magyar Köztársaság területére, az önkormányzati rendelet területi hatálya a helyi önkormányzat közigazgatási területére terjed ki.
+6. § (1) A jogszabály területi hatálya Magyarország területére, az önkormányzati rendelet területi hatálya a helyi önkormányzat közigazgatási területére terjed ki. Az önkormányzati rendelet területi hatálya az 5. § (1a) bekezdés szerinti esetben a társulásban részt vevő helyi önkormányzatok, az 5. § (1b) bekezdés szerinti esetben a társult képviselő-testületben részt vevő települési önkormányzatok közigazgatási területére terjed ki.
 
 (2) A jogszabály személyi hatálya
 
-- a) a Magyar Köztársaság területén a természetes és jogi személyekre, a jogi személyiséggel nem rendelkező szervezetekre, valamint a Magyar Köztársaság területén kívül a magyar állampolgárokra,
-- b) önkormányzati rendelet esetében az önkormányzat közigazgatási területén a természetes és jogi személyekre, valamint a jogi személyiséggel nem rendelkező szervezetekre terjed ki.
+- a) Magyarország területén a természetes személyekre, jogi személyekre és jogi személyiséggel nem rendelkező szervezetekre, valamint Magyarország területén kívül a magyar állampolgárokra,
+- b) önkormányzati rendelet esetében a helyi önkormányzat közigazgatási területén a természetes személyekre, jogi személyekre és jogi személyiséggel nem rendelkező szervezetekre, az 5. § (1a) bekezdés szerinti esetben a társulásban részt vevő helyi önkormányzatok, az 5. § (1b) bekezdés szerinti esetben a társult képviselő-testületben részt vevő települési önkormányzatok közigazgatási területén a természetes személyekre, jogi személyekre és jogi személyiséggel nem rendelkező szervezetekre terjed ki.
 
-(3) A jogszabály területi, illetve személyi hatályát a jogszabályban akkor kell kifejezetten meghatározni, ha az az (1)–(2) bekezdéstől eltérő területre, illetve személyi körre terjed ki.
+(3) A jogszabály területi, illetve személyi hatályát a jogszabályban az 5. § (1a) és (1b) bekezdés szerinti esetben, valamint akkor kell kifejezetten meghatározni, ha az az (1) és (2) bekezdéstől eltérő területre, illetve személyi körre terjed ki.
 
 #### 2. A jogszabály időbeli hatálya, módosítása és hatályon kívül helyezése
 
@@ -101,13 +107,13 @@ terjed ki.
 - a) ha a hatályon kívül helyezendő jogszabályt vagy jogszabályi rendelkezést tételesen megjelölő, a hatályon kívül helyezést kimondó jogszabályi rendelkezés hatályon kívül helyezi,
 - b) ha a módosítandó jogszabályi rendelkezést tételesen megjelölő, annak helyébe lépését kimondó jogszabályi rendelkezés módosítja,
 - c) a 12. § (2) bekezdésében meghatározottak szerint, vagy
-- d) ha azt az Alkotmánybíróság megsemmisíti.
+- d) ha azt az Alkotmánybíróság vagy a bíróság megsemmisíti.
 
 (2) A hatályos jogszabályt vagy jogszabályi rendelkezést az (1) bekezdés a) pontja szerint – a (3) bekezdésben meghatározott kivétellel – a hatályon kívül helyezni kívánt jogszabály vagy jogszabályi rendelkezés megalkotására hatáskörrel rendelkező szerv helyezheti hatályon kívül.
 
 (3) Hatályon kívül helyezhető
 
-- a) törvényben kormányrendelet, a Kormány tagjának rendelete a miniszterelnök miniszterelnök-helyettest kijelölő rendelete kivételével és a Pénzügyi Szervezetek Állami Felügyelete elnökének rendelete,
+- a) törvényben kormányrendelet, a Kormány tagjának rendelete a miniszterelnök miniszterelnök-helyettest kijelölő rendelete kivételével és az önálló szabályozó szerv vezetőjének rendelete a rendelet kiadásában való helyettesítésére jogosult helyettesét kijelölő rendelete kivételével,
 - b) kormányrendeletben – ha kormányrendelet adott felhatalmazást, vagy ha a törvényben adott felhatalmazás hatályát vesztette és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak – a miniszterelnök miniszterelnök-helyettest kijelölő rendelete kivételével a Kormány tagjának rendelete.
 
 (4) A Kormány rendeletével hatályon kívül helyezheti azon kormányrendeleteket, amelyek módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
@@ -118,7 +124,7 @@ terjed ki.
 
 (7) A hatályvesztés napjának meghatározása esetén a jogszabály vagy jogszabályi rendelkezés – jogszabály eltérő rendelkezése hiányában – a nap kezdetén veszti hatályát.
 
-(8) Az Alkotmánybíróság által megsemmisített jogszabály vagy jogszabályi rendelkezés – ha az Alkotmánybíróság a határozatában eltérően nem rendelkezik – a nap kezdetén veszti hatályát.
+(8) Az Alkotmánybíróság által megsemmisített jogszabály vagy jogszabályi rendelkezés – ha az Alkotmánybíróság a határozatában eltérően nem rendelkezik – a nap kezdetén veszti hatályát. A bíróság által megsemmisített jogszabály vagy jogszabályi rendelkezés a nap kezdetén veszti hatályát.
 
 11. § Ha jogszabály vagy jogszabályi rendelkezés hatálybalépésére vagy hatályvesztésére valamely jövőbeli feltétel bekövetkeztekor kerül sor, a feltétel bekövetkezéséről a bekövetkezés naptári napjának megjelölésével határozatot kell közzétenni, kivéve, ha a jogszabály hatálybalépése valamely más jogszabály hatálybalépéséhez kötődik. A jogszabálynak rendelkeznie kell arról, hogy a határozat Magyar Közlönyben történő közzétételére mely feladatkörrel rendelkező miniszter köteles. Önkormányzati rendelet esetén a határozatot a jegyző az önkormányzati rendelet kihirdetésére vonatkozó rendelkezések szerint teszi közzé.
 
@@ -163,6 +169,8 @@ a jogszabályi rendelkezés hatályvesztését követően is alkalmazni kell.
 
 (3) Ha a miniszteri rendelet tervezetével az igazságügyért felelős miniszter alkotmányossági vagy európai uniós jogi szempontból nem ért egyet, a vitás kérdésben a jogszabály előkészítéséért felelős miniszter és az igazságügyért felelős miniszter közös előterjesztése alapján a Kormány dönt.
 
+(4) Az önálló szabályozó szerv vezetője a rendeletét a 2. § (4) bekezdésében foglalt követelmények érvényesülése érdekében az igazságügyért felelős miniszter véleményének kikérését követően adja ki.
+
 #### 5. Előzetes hatásvizsgálat
 
 17. § (1) A jogszabály előkészítője – a jogszabály feltételezett hatásaihoz igazodó részletességű – előzetes hatásvizsgálat elvégzésével felméri a szabályozás várható következményeit. Az előzetes hatásvizsgálat eredményéről a Kormány által előterjesztendő törvényjavaslat, illetve kormányrendelet esetén a Kormányt, önkormányzati rendelet esetén a helyi önkormányzat képviselő-testületét tájékoztatni kell. Miniszteri rendelet rendelkezhet úgy, hogy az általa meghatározott esetben a közjogi szervezetszabályozó eszköz előkészítője előzetes hatásvizsgálatot végez.
@@ -200,7 +208,7 @@ a jogszabályi rendelkezés hatályvesztését követően is alkalmazni kell.
 
 (4) Ha a Magyar Nemzeti Bank elnöke rendelete tervezetét előzetes bejelentésre meg kell küldeni az Európai Központi Banknak, a megküldésről a Magyar Nemzeti Bank elnöke gondoskodik.
 
-(5) Ha a Pénzügyi Szervezetek Állami Felügyelete elnökének rendelete tervezetét meg kell küldeni előzetes bejelentésre, a megküldésről a Pénzügyi Szervezetek Állami Felügyeletének elnöke gondoskodik.
+(5) Ha az önálló szabályozó szerv vezetője rendeletének tervezetét meg kell küldeni előzetes bejelentésre, a megküldésről az önálló szabályozó szerv vezetője gondoskodik.
 
 (6) Az előzetes bejelentési kötelezettség alá tartozó jogszabály az előzetes bejelentési eljárás befejezését követően alkotható meg.
 
@@ -210,7 +218,7 @@ a jogszabályi rendelkezés hatályvesztését követően is alkalmazni kell.
 
 21. § (1) A miniszter folyamatosan figyelemmel kíséri a feladatkörébe tartozó jogszabályok hatályosulását, és szükség szerint lefolytatja a jogszabályok – a 17. § (2) bekezdésében meghatározott szempontok szerinti – utólagos hatásvizsgálatát, ennek során összeveti a szabályozás megalkotása idején várt hatásokat a tényleges hatásokkal.
 
-(2) Az (1) bekezdés szerinti hatásvizsgálat lefolytatásáról az általa alkotott rendelet esetén a Magyar Nemzeti Bank elnöke, a Pénzügyi Szervezetek Állami Felügyeletének elnöke, az önkormányzati rendelet esetén a jegyző gondoskodik.
+(2) Az (1) bekezdés szerinti hatásvizsgálat lefolytatásáról az általa alkotott rendelet esetén a Magyar Nemzeti Bank elnöke, az önálló szabályozó szerv vezetője, az önkormányzati rendelet esetén a jegyző gondoskodik.
 
 #### 10. A jogszabályok tartalmi felülvizsgálata
 
@@ -224,13 +232,48 @@ a jogszabályi rendelkezés hatályvesztését követően is alkalmazni kell.
 
 a feladatkörébe tartozó jogszabályi rendelkezések hatályon kívül helyezésére, illetve megfelelő módosítására kerüljön sor.
 
-(2) Az (1) bekezdés szerinti felülvizsgálat lefolytatásáról az általa alkotott rendelet esetén a Magyar Nemzeti Bank elnöke, a Pénzügyi Szervezetek Állami Felügyeletének elnöke, az önkormányzati rendelet esetén a jegyző gondoskodik.
+(2) Az (1) bekezdés szerinti felülvizsgálat lefolytatásáról az általa alkotott rendelet esetén a Magyar Nemzeti Bank elnöke, az önálló szabályozó szerv vezetője, az önkormányzati rendelet esetén a jegyző gondoskodik.
 
 ### VI. Fejezet — KÖZJOGI SZERVEZETSZABÁLYOZÓ ESZKÖZÖK
 
-23. § (1) Az Országgyűlés, a Kormány, a helyi önkormányzat képviselő-testülete, a testületi központi államigazgatási szerv és az Alkotmányban megjelölt más testületi szerv normatív határozatban szabályozza az általa irányított szervek, valamint saját tevékenységét, működését és szervezetét, továbbá saját cselekvési programját.
+23. § (1) Normatív határozatban szabályozhatja
 
-(2) A miniszterelnök, a központi államigazgatási szerv vezetője, a nemzetbiztonsági szolgálat vezetője és az Alkotmányban megjelölt egyszemélyi vagy egyszemélyi vezetés alatt álló szerv vezetője a vezetése, irányítása vagy a felügyelete alá tartozó szervek tevékenységét, működését és szervezetét szabályozó, a szerv állományába tartozó személyekre nézve kötelező normatív utasítást adhat ki.
+- a) az Országgyűlés,
+- b) a Kormány és más testületi központi államigazgatási szerv,
+- c) az Alkotmánybíróság,
+- d) a Költségvetési Tanács
+
+szervezetét és működését, tevékenységét, valamint cselekvési programját.
+
+(2) Normatív határozatban szabályozhatja a helyi önkormányzat képviselő-testülete a saját és az általa irányított szervek tevékenységét és cselekvési programját, valamint az általa irányított szervek szervezetét és működését.
+
+(3) Normatív határozatban szabályozhatja a nemzetiségi önkormányzat képviselő-testülete a saját és az általa irányított szervek szervezetét és működését, tevékenységét, valamint cselekvési programját.
+
+(4) Normatív utasításban szabályozhatja
+
+- a) a köztársasági elnök,
+- b) a miniszterelnök,
+- c) az (1) bekezdés b) pontja szerinti központi államigazgatási szerv kivételével a központi államigazgatási szerv vezetője,
+- d) az Országos Bírósági Hivatal elnöke,
+- e) a legfőbb ügyész,
+- f) az alapvető jogok biztosa,
+- g) a Magyar Nemzeti Bank elnöke,
+- h) az Állami Számvevőszék elnöke,
+- i) a fővárosi és megyei kormányhivatal vezetője, valamint
+- j) a polgármester, a főpolgármester, a megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
+
+a vezetése, az irányítása vagy a felügyelete alá tartozó szervek szervezetét és működését, valamint tevékenységét.
+
+(5) Törvényben meghatározott tárgykörben normatív utasítást adhat ki
+
+- a) az Országgyűlés,
+- b) a köztársasági elnök,
+- c) az Alkotmánybíróság,
+- d) az alapvető jogok biztosa,
+- e) az önálló szabályozó szerv, valamint
+- f) a Miniszterelnökség és a minisztérium
+
+hivatali szervezetének vezetője, amely a szerv állományába tartozó személyekre kötelező.
 
 24. § (1) A közjogi szervezetszabályozó eszköz jogszabállyal nem lehet ellentétes. A közjogi szervezetszabályozó eszközben jogszabály rendelkezése nem ismételhető meg.
 
@@ -240,27 +283,41 @@ a feladatkörébe tartozó jogszabályi rendelkezések hatályon kívül helyez�
 
 ### VII. Fejezet — A KIHIRDETÉS, A KÖZZÉTÉTEL ÉS A NEMZETI JOGSZABÁLYTÁR
 
-#### 11. A Magyar Köztársaság hivatalos lapja
+#### 11. Magyarország hivatalos lapja
 
-25. § (1) A Magyar Köztársaság hivatalos lapja a Magyar Közlöny. A Magyar Közlönyt a kormányzati portálon történő elektronikus dokumentumként való közzététellel kell kiadni, melynek szövegét hitelesnek kell tekinteni.
+25. § (1) Magyarország hivatalos lapja a Magyar Közlöny. A Magyar Közlönyt a kormányzati portálon történő elektronikus dokumentumként való közzététellel kell kiadni, melynek szövegét hitelesnek kell tekinteni.
 
 (2) Jogszabálynak a módosított, illetve a hatályukat vesztett rendelkezéseivel egységes szerkezetbe foglalt szövege (a továbbiakban: egységes szerkezetű szöveg) a Magyar Közlönyben nem tehető közzé.
+
+25/A. § (1) A Magyar Közlöny kiadása során a Magyar Közlöny felelős szerkesztője az elektronikus dokumentumot minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel látja el, amely e szolgáltatást minősített szolgáltatóként nyújtja. A Magyar Közlöny és a mellékleteként megjelenő külön sorozatának egyes lapszámain a megjelenés dátumát fel kell tüntetni, amely nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
+
+(2) A Magyar Közlöny felelős szerkesztőjét és a helyettesítésére jogosult személyt a kormányzati tevékenység összehangolásáért felelős miniszter normatív utasításban jelöli ki.
+
+(3) Az (1) bekezdésben meghatározott elektronikus aláírás ellenőrzéséhez a Magyar Közlöny felelős szerkesztője és a helyettesítésére jogosult személy aláírásaihoz tartozó nyilvános kulcsok a kormányzati portálnak a Magyar Közlöny közzétételére szolgáló oldalán érhetőek el.
+
+(4) A Magyar Közlöny közzétett számai a kormányzati portálról nem távolíthatóak el, azok archiválására az elektronikus archiválásról szóló jogszabály rendelkezéseit kell alkalmazni.
+
+(5) A Magyar Közlöny felelős szerkesztője a Magyar Közlöny oldalhű másolatát papíron megküldi a köztársasági elnöknek, az Országgyűlés elnökének, az Alkotmánybíróság elnökének, a Kúria elnökének, az Országos Széchényi Könyvtárnak és az Országgyűlési Könyvtárnak.
+
+(6) A Magyar Közlöny oldalhű másolata papíron, illetve digitális adathordozón is terjeszthető.
+
+(7) A Kormány által rendeletben kijelölt szerv kérelemre, igazgatási szolgáltatási díj ellenében a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolatot készít.
 
 #### 12. A jogszabályok kihirdetése
 
 26. § (1) A jogszabályokat az önkormányzati rendelet kivételével a Magyar Közlönyben kell kihirdetni.
 
-(2) A minősített adatot nem tartalmazó közjogi szervezetszabályozó eszközt – a helyi önkormányzat képviselő-testületének normatív határozata kivételével – a Magyar Közlönyben közzé kell tenni.
+(2) A minősített adatot nem tartalmazó közjogi szervezetszabályozó eszközt – a fővárosi és megyei kormányhivatal vezetőjének normatív utasítása, a helyi önkormányzat képviselő-testületének és a nemzetiségi önkormányzat képviselő-testületének normatív határozata, valamint a polgármester és a jegyző normatív utasítása kivételével – a Magyar Közlönyben közzé kell tenni.
 
 (3) A Kormány rendeletét – a Kormány döntését követően haladéktalanul – a miniszterelnök írja alá, akit e tekintetben az általa rendeletben erre kijelölt miniszterelnök-helyettes helyettesíthet.
 
 (4) A Kormány tagja rendelet kiadásában (aláírásában) nem helyettesíthető.
 
-(5) A köztársasági elnök által aláírt törvénynek, a Magyar Nemzeti Bank elnöke rendeletének, a Pénzügyi Szervezetek Állami Felügyelete elnöke rendeletének és a (3)–(4) bekezdés szerint aláírt rendeletnek a Magyar Közlönyben való kihirdetéséről – a kézhezvételt követően haladéktalanul – a kormányzati tevékenység összehangolásáért felelős miniszter gondoskodik.
+(5) A köztársasági elnök által aláírt törvénynek, a Magyar Nemzeti Bank elnöke rendeletének, az önálló szabályozó szerv vezetője rendeletének és a (3)–(4) bekezdés szerint aláírt rendeletnek a Magyar Közlönyben való kihirdetéséről – a kézhezvételt követően haladéktalanul – a kormányzati tevékenység összehangolásáért felelős miniszter gondoskodik.
 
-(6) A helyi önkormányzat képviselő-testületének normatív határozata kivételével a közjogi szervezetszabályozó eszköz közzétételéről – az arra jogosult általi aláírását követően – a kormányzati tevékenység összehangolásáért felelős miniszter a kézhezvételt követően haladéktalanul gondoskodik.
+(6) A fővárosi és megyei kormányhivatal vezetőjének normatív utasítása, a helyi önkormányzat képviselő-testületének és a nemzetiségi önkormányzat képviselő-testületének normatív határozata, valamint a polgármester és a jegyző normatív utasítása kivételével a közjogi szervezetszabályozó eszköz közzétételéről – az arra jogosult általi aláírását követően – a kormányzati tevékenység összehangolásáért felelős miniszter a kézhezvételt követően haladéktalanul gondoskodik.
 
-(7) Az önkormányzati rendelet kihirdetésének és a helyi önkormányzat képviselő-testületének normatív határozata közzétételének szabályait a helyi önkormányzatokról szóló törvény állapítja meg.
+(7)
 
 #### 13. A jogszabályok megjelölése a kihirdetés során
 
@@ -268,19 +325,75 @@ a feladatkörébe tartozó jogszabályi rendelkezések hatályon kívül helyez�
 
 (2) Törvény kivételével a jogszabály megjelölése annak kihirdetése során magában foglalja a jogszabály megalkotójának megjelölését, a sorszámát, a kihirdetésének napját, a jogszabály elnevezését és címét.
 
-(3) Az Országgyűlés által a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 19. § (3) bekezdés a) pontja alapján elfogadott alaptörvény és az alaptörvényhez kapcsolódó átmeneti rendelkezések kihirdetés során történő megjelölése a címet és a kihirdetés napját foglalja magában.
+(3)
 
 #### 14. Helyesbítés
 
 28. § (1) Ha a jogszabály Magyar Közlönyben megjelent szövege eltér a jogszabály aláírt szövegétől, a jogszabály aláírója – törvény esetén a köztársasági elnök vagy az Országgyűlés elnöke – a jogszabály hatálybalépését megelőzően, de legkésőbb a kihirdetést követő hatodik munkanapig kezdeményezi az eltérés helyesbítését (a továbbiakban: helyesbítés).
 
+(1a) A köztársasági elnöknek az (1) bekezdéssel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
+
 (2) A helyesbítésre a jogszabály hatálybalépését megelőzően, de legkésőbb a kihirdetést követő tizedik munkanapon kerülhet sor, ha az (1) bekezdés szerinti eltérést a kormányzati tevékenység összehangolásáért felelős miniszter megállapítja.
 
 (3) A helyesbítést a Magyar Közlönyben kell közzétenni. A közzétételről a kormányzati tevékenység összehangolásáért felelős miniszter a kezdeményezést követően haladéktalanul gondoskodik.
 
+#### 14/A. Egyes más jogi aktusok nyilvánossága
+
+28/A. § A Magyar Közlöny a 26. § (1) bekezdésében foglaltak mellett tartalmazza
+
+- a) az Alkotmánybíróság azon határozatait és végzéseit, amelyeknek a Magyar Közlönyben való közzétételét törvény vagy az Alkotmánybíróság elrendelte,
+- b) a jogegységi határozatokat, valamint a Kúria azon határozatait, amelyeknek a Magyar Közlönyben való közzétételét törvény felhatalmazása alapján a Kúria elrendelte,
+- c) az Országos Választási Bizottság állásfoglalásait,
+- d) a minősített adatot tartalmazó, valamint az érintetteknek közvetlenül megküldött határozatok kivételével az Országgyűlés, a köztársasági elnök, a Kormány, a miniszterelnök és az Országos Választási Bizottság nem normatív határozatait,
+- e) a miniszterek azon nem normatív határozatait, amelyeknek hivatalos lapban való közzétételét jogszabály elrendeli, és
+- f) az Országgyűlés, a Kormány és más testületi központi államigazgatási szerv, az Alkotmánybíróság és a Költségvetési Tanács minősített adatot nem tartalmazó normatív határozatait.
+
+28/B. § (1) A Magyar Közlöny mellékletét képező – annak külön sorozataként megjelenő – Hivatalos Értesítő tartalmazza
+
+- a) a 23. § (4) bekezdés a)–h) pontjában és (5) bekezdésében megjelölt személyek minősített adatot nem tartalmazó normatív utasításait,
+- b) azokat a közleményeket, amelyeknek a Magyar Közlönyben, illetve más hivatalos lapban való közzétételét jogszabály elrendeli vagy a közzététel kezdeményezésére jogszabály által feljogosított személy kezdeményezi, és
+- c) azokat a hirdetményeket, amelyek a Magyar Közlöny hivatalos jellegéhez igazodnak és erre tekintettel azok Magyar Közlönyben való közzétételére a Magyar Közlöny felelős szerkesztője engedélyt adott.
+
+(2) Az (1) bekezdést a Közbeszerzési Értesítőben, a Cégközlönyben és a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában közzétenni rendelt közleményekre nem kell alkalmazni.
+
+(3) Törvény által elrendelt közzététel kivételével az (1) bekezdés b) és c) pontjában meghatározott közlemények és hirdetmények Magyar Közlönyben történő közzétételéért közzétételi díjat kell fizetni. A közzétételi díj mértékének meghatározása során az (1) bekezdés b) pontjában foglaltak tekintetében figyelembe kell venni a közzétételt előíró jogszabály szabályozási szintjét és a közzététel gyakoriságát. A közzétételi díj mértéke az (1) bekezdés c) pontjában foglaltak tekintetében nem lehet alacsonyabb az (1) bekezdés b) pontjában foglaltak tekintetében meghatározott legalacsonyabb összegnél.
+
+28/C. § (1) Az e törvényben nem említett hivatalos lapokat a miniszter az általa vezetett minisztérium honlapján, az önálló szabályozó szerv, az autonóm államigazgatási szerv és a kormányhivatal a honlapján történő közzététellel adja ki.
+
+(2) Az (1) bekezdés szerinti hivatalos lapban jogszabály, közjogi szervezetszabályozó eszköz és olyan közlemény tehető közzé,
+
+- a) amely megjelent a Magyar Közlönyben,
+- b) amelynek az (1) bekezdésben meghatározott hivatalos lapban történő megjelenését jogszabály elrendeli, vagy
+- c) amely a miniszter által vezetett minisztérium, a miniszter irányítása vagy felügyelete alá tartozó központi államigazgatási szerv, az önálló szabályozó szerv, az autonóm államigazgatási szerv, illetve a kormányhivatal munkája szempontjából fontos.
+
+(3) A központi államigazgatási szerv az (1) bekezdés alapján több hivatalos lapot is kiadhat, ha azt ágazati jellege indokolja.
+
+(4) Az (1) bekezdés szerinti hivatalos lap oldalhű másolata nyomtatott formában akkor terjeszthető, ha a tárgyévet megelőző év június 30-án a hivatalos lap az államháztartás központi alrendszerébe tartozó költségvetési szerveken kívüli előfizetőinek száma a jogszabályban meghatározott mértéket meghaladja.
+
+(5) Az (1) bekezdés szerint kiadott hivatalos lap az azt kiadó szerv honlapjáról nem távolítható el. A szerv megszűnése esetén a közzététel kötelezettsége a szerv jogutódját terheli.
+
 #### 15. Nemzeti Jogszabálytár
 
-#### 29. §
+29. § (1) A Nemzeti Jogszabálytár a Kormány rendeletében meghatározott tartalommal és honlapon, elektronikus közszolgáltatásként működő, bárki számára térítésmentesen hozzáférhető, egységes szerkezetű szövegeket tartalmazó elektronikus jogszabálygyűjtemény.
+
+(2) A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter gondoskodik az önkormányzati rendeleteknek az erre a célra fenntartott honlapon történő közzétételéről.
+
+#### 15/A. A törvényalkotás nyilvánossága
+
+29/A. § (1) Az Országgyűlés a honlapján a benyújtást követően haladéktalanul közzéteszi
+
+- a) a törvényjavaslatokat,
+- b) a módosító javaslatokat,
+- c) a törvényjavaslathoz készült bizottsági ajánlásokat,
+- d) az egységes javaslatot, valamint
+- e) a törvényjavaslatokhoz kapcsolódó, az Országgyűlés iromány-nyilvántartásában szereplő más dokumentumokat.
+
+(2) A zárt ülésen készült jegyzőkönyvek kivételével az Országgyűlés a honlapján közzéteszi
+
+- a) a törvényjavaslat plenáris ülésen folytatott általános vitájáról, részletes vitájáról, záróvitájáról, a módosító javaslatokról való határozathozatalról és a zárószavazásról készült jegyzőkönyveket a szavazás eredményét rögzítő listákkal együtt, valamint
+- b) azon bizottsági ülések jegyzőkönyveit, amelyeken az adott bizottság a törvényjavaslattal foglalkozott.
+
+(3) Az (1) és (2) bekezdés szerint közzétett dokumentumok az Országgyűlés honlapjáról nem távolíthatóak el.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -290,7 +403,8 @@ a feladatkörébe tartozó jogszabályi rendelkezések hatályon kívül helyez�
 
 - a) az előzetes bejelentési eljárás rendjét,
 - b) az Európai Unió jogának való megfelelés érdekében szükséges jogszabály-előkészítési feladatok teljesítésének részletes szabályait, valamint
-- c) a jogszabály és közjogi szervezetszabályozó eszköz Nemzeti Jogszabálytárban való közzétételének és a Nemzeti Jogszabálytár működtetésének részletes szabályait.
+- c) a Nemzeti Jogszabálytárban közzéteendő jogszabályok és közjogi szervezetszabályozó eszközök körét, valamint a Nemzeti Jogszabálytár működtetésének részletes szabályait,
+- d) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolat készítésére jogosult szervet.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a jogszabályszerkesztés részletes szabályait.
 
@@ -300,6 +414,12 @@ a feladatkörébe tartozó jogszabályi rendelkezések hatályon kívül helyez�
 
 - a) a jogszabály kihirdetés során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelölésének, valamint
 - b) a Magyar Közlöny kiadásának részletes szabályait.
+
+(5) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével kiadott rendeletben határozza meg
+
+- a) az előfizetők 28/C. § (4) bekezdése szerinti számát,
+- b) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolat készítésének igazgatási szolgáltatási díját, és
+- c) a 28/B. § (1) bekezdés b) és c) pontja szerinti közlemények és hirdetmények közzétételéért fizetendő közzétételi díj mértékét.
 
 31. § (1) Felhatalmazást kap a Kormány, hogy
 
@@ -362,11 +482,11 @@ minősül.
 
 #### 20. Hatályon kívül helyező rendelkezések
 
-#### 47. §
+47. § A jogi iránymutatások hatályukat vesztik, illetve visszavontnak minősülnek.
 
 48. § (1)
 
-(2)
+(2) Hatályát veszti az Einfotv. 14. §-a.
 
 #### 49. §
 

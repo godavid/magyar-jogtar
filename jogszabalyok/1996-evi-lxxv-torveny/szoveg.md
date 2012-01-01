@@ -2,7 +2,7 @@
 
 a munkaügyi ellenőrzésről
 
-E törvény célja, hogy az Alkotmányban megfogalmazott elvek alapján a foglalkoztatásra vonatkozó jogszabályokban megállapított kötelességek megtartása állami ellenőrzésének tárgyát, személyi és szervezeti kereteit, az eljárás rendjét, valamint e kötelességek megszegésének jogkövetkezményeit meghatározza.
+E törvény célja, hogy az Alaptörvényben megfogalmazott elvek alapján a foglalkoztatásra vonatkozó jogszabályokban megállapított kötelességek megtartása állami ellenőrzésének tárgyát, személyi és szervezeti kereteit, az eljárás rendjét, valamint e kötelességek megszegésének jogkövetkezményeit meghatározza.
 
 Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek meg nem felelő foglalkoztatás, illetve munkavállalás visszaszorítására, valamint a munkavállalók és érdekképviseleti szervei jogainak védelmére – az Országgyűlés a munkaügyi ellenőrzésről a következő törvényt alkotja:
 
@@ -15,7 +15,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (2) Az (1) bekezdésben foglaltakon túlmenően e törvény hatálya kiterjed
 
-- a) az egyenlő bánásmód követelménye megtartásának ellenőrzése [3. § (1) bekezdés d) pont] szempontjából a foglalkoztatásra irányuló jogviszony létesítését előkészítő munkáltatói eljárásra, különösen a pályáztatásra és a kiválasztásra,
+- a)
 - b) a külföldi munkáltató munkavállalójának a Munka Törvénykönyve 106/A. §-a alapján történő munkavégzésére.
 
 (3) E törvény alkalmazásában – a (4) bekezdésben foglalt kivétellel – foglalkoztatásra irányuló jogviszonynak minősül minden olyan jogviszony, amelyben a szolgáltatás tárgya a foglalkoztató részére ellenérték fejében végzett munka.
@@ -33,7 +33,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (7) A (6) bekezdés szerinti vélelemre alapított határozat kizárólag a 3. § (1) bekezdés a)–b), valamint i) pontjainak megsértésével összefüggésben tartalmazhat rendelkezést. Az ebbe a körbe nem tartozó jogsértések miatt a tevékenységet ténylegesen irányító foglalkoztatóval szemben a vélelemmel megállapított munkaviszonyt érintően csak a vélelmet tartalmazó határozat jogerőre emelkedése után történt elkövetés esetén hozható határozat.
 
-(8) Az ágazati miniszter eltérő szabályokat állapíthat meg a Magyar Honvédségnél, a rendvédelmi szerveknél, illetve a nemzetbiztonsági szolgálatoknál e törvény 3. §-ának alkalmazására, és a feladatok ellátására önálló szervezetet hozhat létre.
+(8) Az ágazati miniszter eltérő szabályokat állapíthat meg a Magyar Honvédségnél, valamint azon gazdasági társaságoknál, amelyeknél az állam nevében a tulajdonosi jogokat a honvédelemért felelős miniszter gyakorolja, a Katonai Nemzetbiztonsági Szolgálatnál, továbbá a rendvédelmi szerveknél a 3. § alkalmazására, és a feladatok ellátására önálló szervezetet hozhat létre.
 
 2. § (1) A munkaügyi ellenőrzést – az e törvényben foglalt kivételekkel – a munkaügyi hatóság munkaügyi felügyelői (a továbbiakban: felügyelő) látják el.
 
@@ -41,9 +41,9 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 
 (3) A Munka Törvénykönyve 106/A–106/B. §-aiban – kivéve a 106/A. § (1) bekezdésének e) pontját – meghatározott szabályok betartásának ellenőrzése céljából tartott vizsgálatok tapasztalatairól a munkaügyi hatóság és a bányafelügyelet beszámolót készít a foglalkoztatáspolitikáért felelős miniszter számára.
 
-2/A. § (1) A munkaügyi hatóság az ellenőrzési tevékenységét e törvény szerinti szempontok alapján a foglalkoztatáspolitikáért felelős miniszter által évenként február 20-áig közzétett ellenőrzési irányelv alapján végzi.
+2/A. § (1) A munkaügyi hatóság az ellenőrzési tevékenységét e törvény szerinti szempontok alapján a munkaügyi hatóság vezetője által megállapított, és a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában évenként február 20-áig közzétett ellenőrzési irányelv alapján végzi.
 
-(2) A foglalkoztatáspolitikáért felelős miniszter ellenőrzési irányelve az aktuális foglalkoztatási folyamatokra, a foglalkoztatási célkitűzésekre, a jogszabályváltozásokra, a jogszerű foglalkoztatást leginkább sértő magatartásformákra, illetőleg a foglalkoztatási szempontból legnagyobb kockázatot jelentő foglalkoztatói, illetőleg munkavállalói csoportokra kiemelt figyelemmel szabályozza a munkaügyi hatóság ellenőrzési erőforrásainak felhasználását.
+(2) A munkaügyi hatóság vezetője ellenőrzési irányelve az aktuális foglalkoztatási folyamatokra, a foglalkoztatási célkitűzésekre, a jogszabályváltozásokra, a jogszerű foglalkoztatást leginkább sértő magatartásformákra, illetőleg a foglalkoztatási szempontból legnagyobb kockázatot jelentő foglalkoztatói, illetőleg munkavállalói csoportokra kiemelt figyelemmel szabályozza a munkaügyi hatóság ellenőrzési erőforrásainak felhasználását.
 
 (3) Az ellenőrzési irányelv tartalmazza
 
@@ -55,37 +55,38 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - a) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére és kötelező tartalmi elemeinek meglétére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre (ideértve a gyermekmunka tilalmát is), továbbá a foglalkoztató írásbeli tájékoztatási kötelezettségére vonatkozó rendelkezések,
 - b) a foglalkoztatásra irányuló jogviszony létesítésével, megszűnésével, illetőleg megszüntetésével összefüggő bejelentési kötelezettségek,
 - c) a munkáltató nyilvántartási kötelessége,
-- d) az egyenlő bánásmód követelménye,
+- d)
 - e) a nők, a fiatalkorúak és a megváltozott munkaképességűek foglalkoztatásával kapcsolatos jogszabályok,
 - f) a munkaidőre, a pihenőidőre, a rendkívüli munkavégzésre, valamint a szabadságra vonatkozó, jogszabályban vagy kollektív szerződésben előírt rendelkezések,
 - g) a jogszabályban, kollektív szerződésben vagy a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződésben megállapított munkabér mértékére, valamint a munkabér védelmére vonatkozó rendelkezések,
 - h) a foglalkoztatásra irányuló jogviszony megszűnésével összefüggő – a munkavállalót megillető – igazolások kiállítására és kiadására, valamint a munkaviszony megszűnéséhez, megszüntetéséhez kapcsolódó elszámolás megtörténtére vonatkozó jogszabályok rendelkezéseinek,
 - i) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére, illetve a harmadik országbeli és a szabad mozgás és tartózkodás jogával rendelkező állampolgárok foglalkoztatására vonatkozó jogszabályok,
-- j) az álláskereső részére nyújtott ellátások melletti foglalkoztatás feltételeire vonatkozó jogszabályok,
+- j)
 - k) a munkaerő-kölcsönzésre vonatkozó, valamint a munkaerő-kölcsönzési tevékenység végzésére jogosító jogszabályok,
-- l) a munkavállalók gazdasági és társadalmi érdekei védelme céljából szakszervezet szervezését biztosító szabályokkal összefüggő munkáltatói kötelességek,
-- m) a választott szakszervezeti tisztséget betöltő munkavállalónak, az üzemi és a közalkalmazotti tanács tagjának és a munkavédelmi képviselőnek a munkajogi védelmére, valamint munkaidő-kedvezményére vonatkozó szabályok,
-- n) a szakszervezet által kifogásolt intézkedésekkel összefüggő munkáltatói kötelességek végrehajtására vonatkozó szabályok
+- l)
+- m)
+- n)
 - o) a teljesítménykövetelmény megállapítása tekintetében az előzetes foglalkoztatói eljárás lefolytatásának tényére, valamint a teljesítménykövetelmény és a teljesítménybér-tényezők alkalmazása előtti közlésére vonatkozó szabályok,
 - p) az európai üzemi tanács létrehozásáról, illetve a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás kialakításáról szóló törvény 21. §-ában foglalt rendelkezések munkáltató általi,
 - q) a Köt. 5. §-ának (3)–(6) bekezdésében foglalt rendelkezések fogadó szervezetek általi,
 - r) a harmadik országbeli állampolgár és a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi foglalkoztatásának bejelentésére vonatkozó jogszabályok,
 - s) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harm.tv.) 71. §-ának (1)–(2) bekezdése szerinti kötelezettségek foglalkoztató általi
+- t) a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés – kormányrendeletben meghatározott – elvárt mértékének megfelelő végrehajtására. megtartására.
 
-megtartására.
-
-(2) A munkaügyi ellenőrzést a felügyelő hivatalból, az (1) bekezdés d), l)–n) és p) pontjaiban foglalt esetekben, valamint a g) pontban a munkabérnek – a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződés kivételével – a kollektív szerződésben rögzített mértéke tekintetében annak a félnek a kérelmére folytatja le, akinek a jogát, jogos érdekét az ügy érinti.
+(2) A munkaügyi ellenőrzést a felügyelő hivatalból, az (1) bekezdés p) pontjában foglalt esetben, valamint a g) pontban a munkabérnek – a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződés kivételével – a kollektív szerződésben rögzített mértéke tekintetében annak a félnek a kérelmére folytatja le, akinek a jogát, jogos érdekét az ügy érinti.
 
 (3) A munkaerő-kölcsönzés esetében a munkaügyi ellenőrzés
 
-- a) az (1) bekezdés a)–b), – a szabadságra vonatkozó rendelkezést illetően – az f), h)–j) és l)–n) pontjaiban meghatározott szabályok vonatkozásában a kölcsönbeadóra,
+- a) az (1) bekezdés a)–b), – a szabadságra vonatkozó rendelkezést illetően – az f) és h) pontjaiban meghatározott szabályok vonatkozásában a kölcsönbeadóra,
 - b) az (1) bekezdés c), e), f) pontjaiban meghatározott szabályok vonatkozásában a kölcsönvevőre,
-- c) az (1) bekezdés d), g), i) és k), valamint o) pontjában meghatározott szabályok vonatkozásában mind a kölcsönbeadóra, mind pedig a kölcsönvevőre,
+- c) az (1) bekezdés g), i), k), o), valamint s) pontjában meghatározott szabályok vonatkozásában mind a kölcsönbeadóra, mind pedig a kölcsönvevőre,
 - d) az (1) bekezdés r) pontjában meghatározott szabály vonatkozásában külföldi székhellyel rendelkező kölcsönbeadó esetében a kölcsönvevőre, egyébként a kölcsönbeadóra
 
 kiterjed.
 
-(4) Az iskolaszövetkezet tagjának az Mt. XII/A. § fejezete alapján történő munkavégzése tekintetében az iskolaszövetkezetnél végzett munkaügyi ellenőrzés nem terjed ki az (1) bekezdés k) pontjában foglaltak megtartásának ellenőrzésére. Az (1) bekezdés a)–j), valamint l)–r) pontjaiban lefolytatott ellenőrzés során a munkaügyi hatóság a munkaügyi szabályok betartásának ellenőrzését a szövetkezetekről szóló 2006. évi X. törvényben foglalt eltérő szabályok figyelembevételével végzi, e körben ellenőrzési jogköre kiterjed a munkáltató iskolaszövetkezeti jogállásának, valamint a foglalkoztatottak tanulói vagy hallgatói jogviszonya fennállásának ellenőrzésére is. E rendelkezés nem érinti az iskolaszövetkezet tagja személyes közreműködését igénybevevő harmadik személy foglalkoztatónál megvalósuló, az iskolaszövetkezet tagjának nem minősülő személy foglalkoztatása szabályai betartásának ellenőrzését.
+(4) Az iskolaszövetkezet tagjának az Mt. XII/A. § fejezete alapján történő munkavégzése tekintetében az iskolaszövetkezetnél végzett munkaügyi ellenőrzés nem terjed ki az (1) bekezdés k) pontjában foglaltak megtartásának ellenőrzésére. Az (1) bekezdés a)–c), e)–i), valamint o)–s) pontjaiban lefolytatott ellenőrzés során a munkaügyi hatóság a munkaügyi szabályok betartásának ellenőrzését a szövetkezetekről szóló 2006. évi X. törvényben foglalt eltérő szabályok figyelembevételével végzi, e körben ellenőrzési jogköre kiterjed a munkáltató iskolaszövetkezeti jogállásának, valamint a foglalkoztatottak tanulói vagy hallgatói jogviszonya fennállásának ellenőrzésére is. E rendelkezés nem érinti az iskolaszövetkezet tagja személyes közreműködését igénybevevő harmadik személy foglalkoztatónál megvalósuló, az iskolaszövetkezet tagjának nem minősülő személy foglalkoztatása szabályai betartásának ellenőrzését.
+
+(5) A munkaügyi ellenőrzés minden esetben kiterjed az (1) bekezdés t) pontjában foglaltak vizsgálatára is.
 
 3/A. § (1) A munkaügyi hatóság az építőipari kivitelezési tevékenységet folytató foglalkoztatók munkaügyi ellenőrzése céljából az építésügyi hatóság által – külön törvény szerint – továbbított, (2) bekezdésben leírt adatokat is felhasználhatja.
 
@@ -116,26 +117,29 @@ kiterjed.
 - a) megtiltja a további foglalkoztatást, ha az alkalmazás vagy a foglalkoztatás a 3. § (1) bekezdése a) pontjának első és második fordulata, továbbá b), e), f), i), k), q) és s) pontjai esetében a jogszabálysértés súlyossága miatt nem tartható fenn, és a sérelem rövid időn belül nem orvosolható. Ha a további foglalkoztatás megtiltására azért került sor, mert a foglalkoztató megsértette a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vagy a jogviszony bejelentésére, illetőleg munkaerő-kölcsönzés esetén a munkaszerződés kölcsönbevevő részére történő átadására vonatkozó rendelkezéseket, a felügyelő az eltiltás időtartamára kötelezi a munkáltatót a Munka Törvénykönyve 151. §-ának (4) bekezdése szerinti díjazásnak a munkavállaló részére történő megfizetésére,
 - b) kötelezi a foglalkoztatót a szabálytalanság meghatározott időn belül történő megszüntetésére,
 - c) kötelezi a harmadik országbeli állampolgárt érvényes munkavállalási engedély vagy EU Kék Kártya nélkül foglalkoztatót a központi költségvetésbe történő befizetésre a 7/A. §-ban foglaltak szerint,
-- d) ha az ellenőrzés során tudomására jut, hogy az álláskereső részére nyújtott támogatások igénybevétele jogalap nélküli, azt jelzi a hatáskörrel rendelkező állami foglalkoztatási szervnek,
+- d)
 - e) a 7. § (1) bekezdésében meghatározott esetben javaslatot tehet munkaügyi bírság kiszabására,
-- f) szabálysértési eljárást folytat le,
+- f)
 - g) az 1. § (5) bekezdése alapján eljárva megállapítja a foglalkoztatásra irányuló jogviszonynak a munkába lépés napjától történő fennállását és kötelezi a foglalkoztatót a foglalkoztatásra irányuló jogviszonyra vonatkozó szabályok betartására,
 - h) eltiltja a foglalkoztatót tevékenysége folytatásától, ha foglalkoztatásra vonatkozó jogszabályban előírt engedéllyel, nyilvántartásba vétellel nem rendelkezik, vagy
-- i) a 3. § (1) bekezdés a) pontjában foglalt, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó jogsértés megállapítása esetén a gyermek veszélyeztetettsége miatt jelzéssel él a gyermekjóléti szolgálatnál.
+- i) a 3. § (1) bekezdés a) pontjában foglalt, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó jogsértés megállapítása esetén a gyermek veszélyeztetettsége miatt jelzéssel él a gyermekjóléti szolgálatnál,
+- j) a további jogsértés megelőzésének érdekében – a b) pont alkalmazhatóságának hiányában – megállapítja a munkáltató jogsértését.
 
-(2) A felügyelő az (1) bekezdés c) pontjában foglalt határozatának munkaügyi okból fellebbezésre tekintet nélküli végrehajtását is elrendelheti.
+(2) A felügyelő az (1) bekezdés a) pontjában foglalt határozatának munkaügyi okból fellebbezésre tekintet nélküli végrehajtását is elrendelheti.
 
 (3) A felügyelő a foglalkoztató és a részére munkát végző személy közötti jogviszony tartalmát érintő intézkedést nem hozhat, amennyiben az ellenőrzést megelőzően a felek között munkaügyi vita indult.
 
-(4) A munkaügyi hatóság – amennyiben tudomására jut, hogy a jogsértésre társadalombiztosítási nyugellátással vagy rehabilitációs járadékban részesülő személy foglalkoztatásával összefüggésben került sor –
+(4) A munkaügyi hatóság, amennyiben tudomására jut, hogy a jogsértésre
 
-- a) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 36/D. § (2) bekezdése, valamint 36/G. § (2) bekezdése szerinti, továbbá
-- b) a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény 11. § (2) bekezdése, valamint 13. § (1) bekezdése szerinti jogsértést megállapító jogerős határozatát közli a nyugdíjbiztosítási igazgatási szervvel.
+- a) társadalombiztosítási nyugellátásban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító jogerős döntését közli a nyugdíj-megállapító szervvel,
+- b) megváltozott munkaképességű személyek ellátásaiban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító jogerős döntését közli a rehabilitációs hatósággal.
+
+(5) Ha a jogsértést korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában történő foglalkoztatásával követik el, a munkaügyi hatóság a jogsértést megállapító jogerős határozatát közli a korhatár előtti ellátást, illetve a szolgálati járandóságot megállapító szervvel.
 
 6/A. § (1) A felügyelő köteles javaslatot tenni munkaügyi bírság kiszabására, valamint a munkaügyi bírság kiszabása nem mellőzhető, ha a foglalkoztató
 
 - a) a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre (ideértve a gyermekmunka tilalmát is) vonatkozó rendelkezéseket megsértette,
-- b) a foglalkoztatásra irányuló jogviszony létesítésével összefüggésben nem tett eleget az államháztartási törvényben foglalt bejelentési kötelezettségének,
+- b) a foglalkoztatásra irányuló jogviszony létesítésével összefüggésben nem tett eleget az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (4) bekezdés a) pontjában, illetve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 11. §-ában foglalt bejelentési kötelezettségének,
 - c) a jogszabályban vagy kollektív szerződésben megállapított munkabér összegére és a kifizetés határidejére vonatkozó rendelkezéseket megsértette, ide nem értve a felszámolási eljárás alatt álló foglalkoztatót, vagy
 - d) hatósági nyilvántartásba vétel hiányában folytat munkaerő-kölcsönzésre irányuló tevékenységet.
 
@@ -145,12 +149,22 @@ kiterjed.
 - b) a munkaviszony létesítésének vagy megszűnésének (megszüntetésének) bejelentésére vonatkozó kötelezettséget külön jogszabály szerint a foglalkoztató helyett más teljesíti, és a foglalkoztató a bejelentés határidőben történő teljesítéséhez szükséges adatokat a munkaügyi ellenőrzés megkezdéséig teljes körűen átadta, vagy
 - c) a foglalkoztató a munkavállaló részére ki nem fizetett a jogszabályban vagy kollektív szerződésben megállapított munkabért az eljárás során kitűzött határidőn belül kifizeti.
 
-(3) Az (1) bekezdésben, a 7. §-ban, vagy a közigazgatási hatósági eljárás általános szabályairól szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben foglalt esetben sem szabható ki munkaügyi bírság első ízben, ha a foglalkoztató természetes személy vagy a hatósági ellenőrzés megkezdésekor a kis- és középvállalkozásokról szóló törvény szerint kis- vagy középvállalkozásnak minősült. E szabály alkalmazásában, ha a foglalkoztató több telephellyel vagy munkahellyel rendelkezik, akkor bármelyik telephelyén, munkahelyén elkövetett, illetve ezeken egy eljárásban feltárt szabálytalanság minősül első ízben elkövetett jogsértésnek.
+(3)
+
+6/B. § (1) Ha a munkaügyi ellenőrzés feltárja, hogy a munkáltató az ellenőrzés alá vont telephelyen a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelést a kormányrendeletben meghatározott elvárt mértéknek megfelelően nem hajtotta végre, a megállapításról a munkaügyi hatóság határozatot hoz. Ezen megállapítással kapcsolatosan nincsen helye a 6. § (1) bekezdés a) vagy b) pontjában foglaltak, valamint munkaügyi bírság alkalmazásának.
+
+(2) Nincs helye az (1) bekezdés szerinti megállapításnak, ha a munkáltató az érintett munkavállalók legalább kétharmada esetében a munkaügyi ellenőrzés megkezdéséig eleget tett az elvárt mértékű munkabéremelésnek.
+
+(3) Ahol jogszabály munkaügyi ellenőrzés során feltárt bármely jogsértést említ, ott ez alatt – jogszabály eltérő rendelkezése hiányában – azt is érteni kell, ha a munkáltató a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelést – kormányrendeletben meghatározott – elvárt mértéknek megfelelően nem hajtotta végre.
+
+(4) Ahol jogszabály munkaügyi bírság megállapítását említi, ott ez alatt – jogszabály eltérő rendelkezése hiányában – az (1) bekezdés alapján hozott határozatot is érteni kell.
+
+(5) Amennyiben jogszabály munkaügyi bírság kiszabása esetén további jogkövetkezmény alkalmazását a kiszabott bírság mértékétől teszi függővé, úgy az (1) bekezdés alapján hozott határozat tekintetében úgy kell eljárni, mintha a legmagasabb összegű bírság kiszabására került volna sor.
 
 7. § (1) Munkaügyi bírság akkor szabható ki, ha a foglalkoztató
 
-- a) a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó, valamint a b), c) d), f), i), k), l), m) és n) pontjában foglalt rendelkezéseket egy,
-- b) a foglalkoztató a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok kötelező tartalmi elemeinek meglétére vonatkozó, valamint az e), g), h) j), o), p), q) és r) pontjában foglalt rendelkezések bármelyikét több
+- a) a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó, valamint b), c), f), i) és k) pontjában foglalt rendelkezéseket egy,
+- b) a foglalkoztató a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok kötelező tartalmi elemeinek meglétére vonatkozó, valamint az e), g), h), o), p), q) és r) pontjában foglalt rendelkezések bármelyikét több
 
 munkavállaló vonatkozásában megsérti.
 
@@ -161,12 +175,12 @@ munkavállaló vonatkozásában megsérti.
   - ab) – amennyiben a megállapított több jogsértés egy munkavállalót érint – harmincezer forinttól ötmillió forintig,
   - ac) – amennyiben a megállapított egy jogsértés több munkavállalót érint – harmincezer forinttól nyolcmillió forintig,
   - ad) – amennyiben a megállapított több jogsértés több munkavállalót érint – harmincezer forinttól tízmillió forintig;
-- b) a 3. § (1) bekezdésének c), d), l), m), n) pontjában foglalt rendelkezések megsértése esetén
+- b) a 3. § (1) bekezdés c) pontjában foglalt rendelkezés megsértése esetén
   - ba) – amennyiben a megállapított egy jogsértés egy munkavállalót érint – harmincezer forinttól kétmillió forintig,
   - bb) – amennyiben a megállapított több jogsértés egy munkavállalót érint – harmincezer forinttól négymillió forintig,
   - bc) – amennyiben a megállapított egy jogsértés több munkavállalót érint – harmincezer forinttól hatmillió forintig,
   - bd) – amennyiben a megállapított több jogsértés több munkavállalót érint – harmincezer forinttól nyolcmillió forintig;
-- c) a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok kötelező tartalmi elemeire vonatkozó, valamint e), g), h), j), o), p), q) és r) pontjában foglalt rendelkezések megsértése esetén
+- c) a 3. § (1) bekezdése a) pontjának a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok kötelező tartalmi elemeire vonatkozó, valamint e), g), h), o), p), q) és r) pontjában foglalt rendelkezések megsértése esetén
   - ca) – amennyiben a megállapított egy jogsértés több munkavállalót érint – harmincezer forinttól ötmillió forintig,
   - cb) – amennyiben a megállapított több jogsértés több munkavállalót érint – harmincezer forinttól nyolcmillió forintig
 
@@ -182,18 +196,15 @@ terjedhet.
 
 (7) A munkaügyi bírság összegének megállapításánál figyelembe kell venni különösen a jogszabály megsértésével okozott jogellenes állapot időtartamát, az okozott hátrány nagyságát, a megsértett jogszabályi előírások számát és hatását, valamint az érintett munkavállalók számát.
 
-(8) A 6. § (1) bekezdésében meghatározott egyéb jogkövetkezmények – a 6. § (1) bekezdés f) pontját kivéve – alkalmazása, valamint a munkaügyi bírság egyidejű kiszabása esetén egy határozatot kell hozni.
+(8) A 6. § (1) bekezdésében meghatározott egyéb jogkövetkezmények alkalmazása, valamint a munkaügyi bírság egyidejű kiszabása esetén egy határozatot kell hozni.
 
-(9) Ha egy ellenőrzés során megállapított szabálytalanság a jelen törvényben meghatározott jogszabály és egyéb rendelkezés, illetve a szabálysértési jogszabály előírásait is megsérti, a munkaügyi felügyelő
+(9)
 
-- a) az illetékes területi felügyelőség vezetőjének a munkáltatót terhelő munkaügyi bírság kiszabására tehet javaslatot, és
-- b) emellett a munkáltató részéről eljáró természetes személy ellen szabálysértési eljárást folytat le.
+(10)
 
-(10) Ha a foglalkoztató magánszemély vagy egyéni vállalkozó, kizárólag a (9) bekezdés a) pontjában meghatározott jogkövetkezmény alkalmazására kerülhet sor.
+(11) A kiszabott munkaügyi bírságot a központi költségvetés javára kell befizetni.
 
-(11)
-
-7/A. § (1) Amennyiben a 3. § (1) bekezdés i) pontjában foglaltak ellenőrzése során a munkaügyi hatóság azt állapítja meg, hogy a foglalkoztató harmadik országbeli állampolgárt érvényes munkavállalási engedély, EU Kék Kártya, vagy a Harmtv. szerinti, keresőtevékenység folytatására jogosító engedély nélkül foglalkoztat, kötelezni kell a központi költségvetésbe történő befizetésre a (2)–(7) bekezdésben foglaltak szerint.
+7/A. § (1) Amennyiben a 3. § (1) bekezdés i) pontjában foglaltak ellenőrzése során a munkaügyi hatóság azt állapítja meg, hogy a foglalkoztató harmadik országbeli állampolgárt érvényes munkavállalási engedély, illetve EU Kék Kártya nélkül foglalkoztat, kötelezni kell a központi költségvetésbe történő befizetésre a (2)–(7) bekezdésben foglaltak szerint.
 
 (2) A központi költségvetésbe történő befizetés mértéke
 
@@ -221,7 +232,7 @@ megfelelő összeg terheli a foglalkoztatót.
 
 (6) Amennyiben a munkaügyi hatóság a munkáltatót harmadik országbeli állampolgár engedély nélkül történő foglalkoztatása miatt a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértésre tekintettel munkaügyi bírság egyidejűleg nem alkalmazható.
 
-(7) A munkaügyi hatóság a harmadik országbeli állampolgár foglalkoztatásával összefüggő, EU Kék Kártya, illetve a Harmtv. szerinti, keresőtevékenység folytatására jogosító engedély nélküli foglalkoztatást megállapító, illetve befizetésre kötelező jogerős határozatát közli az idegenrendészeti hatósággal.
+(7) A munkaügyi hatóság a harmadik országbeli állampolgár foglalkoztatásával összefüggő engedély, illetve EU Kék Kártya nélküli foglalkoztatást megállapító, illetve befizetésre kötelező jogerős határozatát közli az idegenrendészeti hatósággal.
 
 8. § (1) A 2. § (1) és (2) bekezdésében foglalt szervek hatósági tevékenységük során az e törvényben szabályozott eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint járnak el.
 
@@ -272,7 +283,7 @@ Amennyiben a munkaügyi hatóság előtt olyan ügy van folyamatban, amelyre kü
 
 (6) A munkaügyi hatóság a pénzfizetésre kötelezett természetes személy vagy a polgári jog szerint helyébe lépő örököse kérelmére a tartozást mérsékelheti, illetőleg elengedheti, feltéve hogy a kötelezett, illetve örököse vagy a vele közös háztartásban élő közeli hozzátartozója egészségi állapotában, illetve a kötelezett, illetve örököse vagyoni helyzetében a határozat jogerőre emelkedése után olyan változás következett be, amely jelentősen megnehezíti a kötelezettség teljesítését. A méltányossági kérelem tárgyában hozott határozat ellen fellebbezésnek nincs helye. A méltányossági jogkörben hozott határozat bírósági felülvizsgálatát kizárólag semmisségére hivatkozva lehet kérni.
 
-(8) A munkaügyi eljárásokban kiszabott bírság, megállapított befizetési kötelezettség adók módjára behajtandó köztartozásnak minősül.
+(8) A munkaügyi eljárásokban megállapított befizetési kötelezettség adók módjára behajtandó köztartozásnak minősül.
 
 8/B. § A munkaügyi hatóság a munkaügyi ellenőrzéssel kapcsolatos feladatainak ellátásával összefüggésben együttműködik az Európai Unió tagállamainak munkaügyi feladatokat ellátó hatóságaival. A nemzetközi együttműködés keretében megkeresésre a hatáskörébe tartozó feladatokat érintően tájékoztatást nyújt az elvégzett munkaügyi ellenőrzések megállapításairól, valamint a munkaügyi jogszabályok tartalmáról.
 
@@ -284,13 +295,13 @@ Amennyiben a munkaügyi hatóság előtt olyan ügy van folyamatban, amelyre kü
 - d) az alkalmazott jogkövetkezményt és mértékét az annak alapjául szolgáló jogszabályhelyre történő utalással,
 - e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság milyen döntést (hatályon kívül vagy hatályon kívül helyező és új eljárást elrendelő vagy a keresetet elutasító) hozott.
 
-(2) A hatósági nyilvántartás adatait a munkaügyi hatóság az általa létrehozott informatikai rendszerben kezeli. Az (1) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a munkaügyi hatóság által, illetve területi szervei útján történik a jogsértést megállapító határozat jogerősítésének napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatáról való tudomásszerzést követő munkanapon.
+(2) A hatósági nyilvántartás adatait a munkaügyi hatóság az általa létrehozott informatikai rendszerben kezeli. Az (1) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a munkaügyi hatóság által történik a jogsértést megállapító határozat jogerősítésének napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatáról való tudomásszerzést követő munkanapon.
 
 (3) A munkaügyi hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló határozat jogerőre emelkedésének és végrehajthatóvá válásának napjától számított két év elteltével törli.
 
-(4) A munkaügyi hatóság – az (5)–(6) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 15. § (5) bekezdésében meghatározott jogsértést elkövetett, jogerős és végrehajtható közigazgatási vagy – a közigazgatási határozat bírósági felülvizsgálata esetén – bírósági határozattal munkaügyi bírsággal sújtott foglalkoztatókra vonatkozó, az (1) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat bírósági felülvizsgálata esetén az (1) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján nyilvánosságra hozza.
+(4) A munkaügyi hatóság – az (5)–(6) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból az államháztartásról szóló 2011. évi CXCV. törvényben és a végrehajtására kiadott kormányrendeletben foglaltak szerint a rendezett munkaügyi kapcsolatok követelményével kapcsolatos jogsértést elkövetett, jogerős és végrehajtható közigazgatási vagy – a közigazgatási határozat bírósági felülvizsgálata esetén – bírósági határozattal munkaügyi bírsággal sújtott foglalkoztatókra vonatkozó, az (1) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat bírósági felülvizsgálata esetén az (1) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján nyilvánosságra hozza.
 
-(5) A munkaügyi hatóság az Áht. 15. §-a (5) bekezdésének c)–h) pontjában meghatározott munkaügyi jogsértést elkövető foglalkoztatókra vonatkozó adatokat az Áht. 15. §-a (7) bekezdésének b) pontja szerinti ismételt jogsértés jogerős és végrehajtható határozattal történő megállapítása esetén hozza nyilvánosságra. E rendelkezés alkalmazásában – több telephellyel rendelkező munkáltató esetében – ismételt jogsértésen az ugyanazon telephelyen kétéves időszakon belül jogerős és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
+(5) A munkaügyi hatóság a jogszabályban meghatározott munkaügyi jogsértéseket elkövető foglalkoztatókra vonatkozó adatokat nyilvánosságra hozza, ha a jogsértést megállapító közigazgatási határozat jogerőre emelkedésétől és végrehajthatóvá válásától számított két éven belül a hatóság a korábbival azonos jogsértést jogerős és végrehajtható határozattal ismételten megállapította. E rendelkezés alkalmazásában – több telephellyel rendelkező munkáltató esetében – ismételt jogsértésen az ugyanazon telephelyen kétéves időszakon belül jogerős és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
 
 (6) Ha a munkaügyi hatóság tudomására jutott, hogy határozatának bírósági felülvizsgálata iránt keresetet indítottak,
 
@@ -298,6 +309,8 @@ Amennyiben a munkaügyi hatóság előtt olyan ügy van folyamatban, amelyre kü
 - b) – amennyiben a (4)–(5) bekezdés szerinti adatok nyilvánosságra hozatalára már sor került – intézkedik a honlapon nyilvánosságra hozott adatok törléséről.
 
 (7) A munkaügyi hatóság nyilvántartásba vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
+
+(8) A munkaügyi hatóság a 6/B. § (1) bekezdése szerinti határozat esetében a munkáltatóra vonatkozó adatokat a határozat jogerőssé válását követő napon hozza nyilvánosságra a honlapján történő közzététel útján, és a határozat jogerőre emelkedésének napjától számított két év elteltével törli. E határozatok esetében a (6) bekezdés nem alkalmazható.
 
 8/D. §
 
@@ -317,6 +330,13 @@ is érteni kell.
 
 (5) Felhatalmazást kap a Kormány, hogy a munkaügyi hatóságot vagy hatóságokat rendeletben jelölje ki, valamint a hatóság vagy hatóságok eljárására vonatkozó részletes szabályokat rendeletben határozza meg.
 
+(6) Felhatalmazást kap
+
+- a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a Magyar Honvédségnél, valamint azon gazdasági társaságoknál, amelyeknél az állam nevében a tulajdonosi jogokat a honvédelemért felelős miniszter gyakorolja, valamint a Katonai Nemzetbiztonsági Szolgálatnál,
+- b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél.
+
+9/A. § Az alacsony keresetű munkavállalók bérének emelését ösztönző egyes törvények módosításáról szóló 2011. évi XCIX. törvénnyel (a továbbiakban: T.) megállapított 3. § (1) bekezdés t) pontját, (5) bekezdését és a 6/B. §-t a T. hatálybalépését követően indult ügyekben kell alkalmazni.
+
 10. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) a Tanács 1993. november 23-i 93/104/EK irányelve a munkaidő-szervezés egyes szempontjairól a Munka Törvénykönyve irányadó rendelkezéseivel együtt;
@@ -334,10 +354,10 @@ is érteni kell.
 - m) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelv szerinti illegális foglalkoztatás tilalmának, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény irányadó rendelkezéseivel együtt,
 - n) a munkaerő-kölcsönzés keretében történő munkavégzésről szóló 2008. november 17-i 2008/104/EK európai parlamenti és tanácsi irányelvnek.
 
-11. § (1) Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény (a továbbiakban: Módtv.) hatálybalépésétől számított 30. napon a munkaügyi hatóság a foglalkoztatóknak a Módtv. hatályba lépéséig hatályos 8/C. § (4) és (5) bekezdése alapján nyilvánosságra hozott adatai közül törli azoknak a munkáltatóknak az adatait, amelyek közzétételi kötelezettségét – ideértve a folyamatban lévő bírósági felülvizsgálattal érintett határozatok adatait is – az Áht. és a Kbt. a Módtv. hatályba lépéséig előírta.
+11. § (1) Az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény (a továbbiakban: Módtv.) hatálybalépésétől számított 30. napon a munkaügyi hatóság a foglalkoztatóknak a Módtv. hatályba lépéséig hatályos 8/C. § (4) és (5) bekezdése alapján nyilvánosságra hozott adatai közül törli azoknak a munkáltatóknak az adatait, amelyek közzétételi kötelezettségét – ideértve a folyamatban lévő bírósági felülvizsgálattal érintett határozatok adatait is – az államháztartásról szóló 1992. évi XXXVIII. törvény és a Kbt. a Módtv. hatályba lépéséig előírta.
 
 (2) A munkaügyi hatóság a 8/C. § (4) és (5) bekezdése szerinti közzétételi kötelezettsége a Módtv. hatályba lépését követően indult ügyekben feltárt jogsértések esetén irányadó.
 
 (3) A Módtv. 34. § (1) bekezdésével megállapított 6. § (1) bekezdés c) pontjában a 3. § (1) bekezdés s) pontjára vonatkozó utalást 2011. július 20-ától kell alkalmazni.
 
-(4) A 6/A. § rendelkezéseit a Módtv. hatályba lépését követően indult ügyekben feltárt jogsértések esetén kell alkalmazni, a 6/A. § (3) bekezdésének alkalmazásában továbbá első jogsértésként a Módtv. hatálybalépését követően megállapított jogsértés vehető figyelembe.
+(4) A 6/A. § rendelkezéseit a Módtv. hatályba lépését követően indult ügyekben feltárt jogsértések esetén kell alkalmazni,.

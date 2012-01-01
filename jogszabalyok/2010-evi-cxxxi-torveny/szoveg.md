@@ -2,7 +2,7 @@
 
 a jogszabályok előkészítésében való társadalmi részvételről
 
-Az Alkotmány azon rendelkezésével összhangban, miszerint a Kormány a feladatának ellátása során együttműködik az érdekelt társadalmi szervezetekkel, továbbá annak előmozdítása érdekében, hogy a jó kormányzás keretében a társadalom legszélesebb rétegei kapcsolódhassanak be a jogszabályok előkészítésébe, elősegítve ezzel a közjó érdekében a jogi szabályozás sokoldalú megalapozását, ezzel pedig a jogszabályok minőségének és végrehajthatóságának javítását, amelyek együtt a jó állam elengedhetetlen feltételei, a jogalkotásról szóló törvénnyel összhangban az Országgyűlés a következő törvényt alkotja:
+Annak előmozdítása érdekében, hogy a jó kormányzás keretében a társadalom legszélesebb rétegei kapcsolódhassanak be a jogszabályok előkészítésébe, elősegítve ezzel a közjó érdekében a jogi szabályozás sokoldalú megalapozását, ezzel pedig a jogszabályok minőségének és végrehajthatóságának javítását, amelyek együtt a jó állam elengedhetetlen feltételei, a jogalkotásról szóló törvénnyel összhangban az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -12,7 +12,7 @@ Az Alkotmány azon rendelkezésével összhangban, miszerint a Kormány a felada
 
 (2) E törvény rendelkezései nem érintik az egyéb jogszabályokban, illetve közjogi szervezetszabályozó eszközökben meghatározott véleményezési és egyeztetési jogosultságokat.
 
-(3) E törvény hatálya nem terjed ki a rendkívüli állapot, a szükségállapot, a veszélyhelyzet, a megelőző védelmi helyzet és az Alkotmány 19/E. §-a szerinti eset idején az Alkotmány szerint kiadható jogszabályok előkészítésére.
+(3) E törvény hatálya nem terjed ki a különleges jogrendben alkotható jogszabályok előkészítésére.
 
 #### 2. Alapelvek
 
@@ -26,7 +26,7 @@ Az Alkotmány azon rendelkezésével összhangban, miszerint a Kormány a felada
 
 #### 3. A Kormány jogalkotási terve
 
-3. § A Kormány jogalkotási tervét – a nemzetközi kötelezettségvállalásokra, az európai uniós kötelezettségekkel való összhang megteremtésére vonatkozó követelményekre, az Országgyűlés és az Alkotmánybíróság döntéseire, valamint a kormányprogram célkitűzéseire figyelemmel, a felelősök megjelölésével –, az Országgyűlés rendes ülésszakaihoz igazodóan, határozattal állapítja meg.
+3. § A Kormány jogalkotási tervét – a nemzetközi kötelezettségvállalásokra, az európai uniós kötelezettségekkel való összhang megteremtésére vonatkozó követelményekre, az Országgyűlés és az Alkotmánybíróság döntéseire figyelemmel, a felelősök megjelölésével –, az Országgyűlés rendes ülésszakaihoz igazodóan, határozattal állapítja meg.
 
 #### 4. A miniszter jogalkotási tájékoztatója
 
@@ -55,7 +55,7 @@ tervezetét és indokolását (a továbbiakban együtt: tervezet).
 - e) a nemzetközi szerződés kihirdetéséről, valamint
 - f) a szervezet és intézmény alapításáról, szóló jogszabályok tervezeteit.
 
-(4) Nem bocsátható társadalmi egyeztetésre a tervezet, koncepció, ha az egyeztetés a Magyar Köztársaság különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi, természetvédelmi, környezetvédelmi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné.
+(4) Nem bocsátható társadalmi egyeztetésre a tervezet, koncepció, ha az egyeztetés Magyarország különösen fontos honvédelmi, nemzetbiztonsági, pénzügyi, külügyi, természetvédelmi, környezetvédelmi vagy örökségvédelmi érdekeinek védelmét veszélyeztetné.
 
 (5) Nem kell társadalmi egyeztetésre bocsátani a jogszabály tervezetét, ha annak sürgős elfogadásához kiemelkedő közérdek fűződik.
 
@@ -88,7 +88,7 @@ tervezetét és indokolását (a továbbiakban együtt: tervezet).
 
 (3) A jogszabály előkészítéséért felelős miniszter a beérkezett véleményeket, a véleményező nevét és elektronikus levélcímét – visszaigazolás küldése, a 11. § szerint elkészítendő összefoglaló és a véleményezők listájának közzététele, valamint a 12. §-ban meghatározott utólagos véleményezés céljából – legkésőbb a véleményezett jogszabály hatálybalépésétől számított másfél évig kezeli. Amennyiben a véleményezett jogszabály nem lép hatályba, a véleményező nevét és elektronikus levélcímét legkésőbb a vélemény beérkezését követő egy éven belül törölni kell.
 
-(4) A véleményező adatainak kezeléséhez szükséges hozzájárulást a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben foglalt vélelem szerint a jelen paragrafus (2) bekezdésében foglalt adatkezelések tekintetében megadottnak kell tekinteni. E tényre és a véleményező adatait érintő adatkezelés szabályaira a vélemény megadása előtt a véleményező figyelmét megfelelően fel kell hívni.
+(4) A véleményező adatainak kezeléséhez szükséges hozzájárulást a (3) bekezdésben foglalt adatkezelések tekintetében megadottnak kell tekinteni. E tényre és a véleményező adatait érintő adatkezelés szabályaira a vélemény megadása előtt a véleményező figyelmét megfelelően fel kell hívni.
 
 (5) A közzétett tervezeteket a közzétételtől számított egy évig nem lehet a honlapról eltávolítani.
 
@@ -124,12 +124,12 @@ arra, hogy a jogszabály hatályosulásával kapcsolatos észrevételeket, probl
 - a) a civil szervezetekkel,
 - b) egyházakkal,
 - c) szakmai, tudományos szervezetekkel,
-- d) országos kisebbségi önkormányzatokkal,
+- d) országos nemzetiségi önkormányzatokkal,
 - e) érdek-képviseleti szervezetekkel,
 - f) köztestületekkel, valamint
 - g) a felsőoktatási intézmények képviselőivel.
 
-(3) Az együttműködés feltételeit és kereteit a stratégiai partner és a miniszter között határozott idejű, de legkésőbb a Kormány megbízatásának megszűnéséig tartó megállapodásban kell rögzíteni.
+(3) Az együttműködés feltételeit és kereteit a stratégiai partner és a miniszter között határozott idejű, de legkésőbb a miniszterelnök megbízatásának megszűnéséig tartó megállapodásban kell rögzíteni.
 
 (4) A megállapodásban rögzíteni kell különösen
 
@@ -181,13 +181,7 @@ e) minden más olyan önkormányzati érdekképviseleti szervezet (szövetség),
 
 18. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az e törvényben foglalt jogszabálytervezetek és koncepciók elektronikus úton történő közzétételének és véleményezésének részletszabályait.
 
-19. § E törvény hatálybalépésével hatályát veszti
-
-- a) az elektronikus információszabadságról szóló 2005. évi XC. törvény 9–10. §-a, és az azt megelőző alcím,
-- b) a lobbitevékenységről szóló 2006. évi XLIX. törvény (a továbbiakban: Ltv.),
-- c) a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 5. § (2) bekezdés f) pontja,
-- d) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 25. § (2) bekezdése, és
-- e) az ügyvédekről szóló 1998. évi XI. törvény 5. § (3) bekezdés j) pontja.
+#### 19. §
 
 20. § (1) A lobbista és a lobbitevékenységgel érintett közhatalmi döntést hozó szerv az Ltv. szerinti, 2010. utolsó negyedévére vonatkozó tájékoztatót 2011. január 31-ig juttatja el a nyilvántartást vezető szervnek.
 

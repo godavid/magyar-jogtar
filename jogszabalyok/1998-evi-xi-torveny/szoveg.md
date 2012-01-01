@@ -10,7 +10,7 @@ az ügyvédekről
 
 1. § Az ügyvéd a hivatásának gyakorlásával – törvényes eszközökkel és módon – elősegíti megbízója jogainak érvényesítését és kötelezettségeinek teljesítését. Közreműködik abban, hogy az ellenérdekű felek a jogvitáikat megegyezéssel intézzék el.
 
-2. § Az ügyvéd a Magyar Köztársaság valamennyi bírósága és hatósága (a továbbiakban együtt: hatóság) előtt eljárhat, és minden ügyben elláthatja a megbízó jogi képviseletét. Az ügyvéd a Magyar Köztársaság területén kívül az érintett állam szabályai szerint folytathat ügyvédi tevékenységet, azonban tevékenységére e törvény rendelkezéseit is – a Magyar Ügyvédi Kamara szabályzatában meghatározottak szerint – megfelelően alkalmazni kell.
+2. § Az ügyvéd Magyarország valamennyi bírósága és hatósága (a továbbiakban együtt: hatóság) előtt eljárhat, és minden ügyben elláthatja a megbízó jogi képviseletét. Az ügyvéd Magyarország területén kívül az érintett állam szabályai szerint folytathat ügyvédi tevékenységet, azonban tevékenységére e törvény rendelkezéseit is – a Magyar Ügyvédi Kamara szabályzatában meghatározottak szerint – megfelelően alkalmazni kell.
 
 3. § (1) Az ügyvéd e tevékenységében szabad és független. Az ügyvéd nem vállalhat olyan kötelezettséget, amely a hivatásbeli függetlenségét veszélyezteti.
 
@@ -102,7 +102,7 @@ az ügyvédekről
 
 ### Az ügyvédi kamara
 
-12. § (1) Az ügyvédi kamara az ügyvédek önkormányzati elven alapuló, szakmai és érdekképviseleti feladatokat ellátó köztestülete.
+12. § (1) Az ügyvédi kamara az ügyvédek önkormányzati elven alapuló, szakmai és érdekképviseleti feladatokat ellátó köztestülete. Az ügyvédi kamarát a törvényszék nem veszi nyilvántartásba.
 
 (2) Az ügyvédi kamara az ügyvédek szakmai irányításával, érdekképviseletével kapcsolatos közfeladatokat látja el. Ennek során
 
@@ -221,7 +221,7 @@ az ügyvédekről
 
 15. § (1) A területi kamara elnöksége a kérelemről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezését követő naptól számított negyven napon belül dönt.
 
-(2)
+(2) A kamarai tagságnak a 20. § (2) bekezdés f) pontja szerinti hivatalból történő megszüntetése, valamint az ügyvédi iroda 76. § (2) bekezdés b) pont szerinti névjegyzékből való törléssel történő megszűnése esetén a megszüntetésre irányuló döntés meghozatalának feltétele az állami adóhatóság és a vámhatóság – erre a célra rendszeresített nyomtatványon kiadott – nyilatkozata arról, hogy az iroda adóbevallási kötelezettségeinek eleget tett, adótartozása, jogerős határozatban megállapított adófizetési kötelezettsége nincs, az irodánál adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást az állami adóhatóság illetőleg a vámhatóság nem kezdeményez. Az adóhatósági nyilatkozat beszerzése érdekében a kamarai hatósági eljárás során a kamara megkeresi az adóhatóságot, a nyilatkozat beszerzéséig eltelt idő az döntés meghozatalára nyitva álló határidőbe nem tartozik bele.
 
 (3)
 
@@ -229,9 +229,9 @@ az ügyvédekről
 
 16. § (1) Az ügyvéd a kamarai felvételét követő két hónapon belül a kamara elnöke előtt esküt tesz.
 
-(2) Az eskü szövege a következő:
+(2) Az eskü szövege az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint, ügyfelem érdekében eljárva teljesítem.”
 
-,,Én, ... esküszöm, hogy ügyvédi hivatásomat az ügyfelem érdekében, a Magyar Köztársaság Alkotmánya és jogszabályai szerint lelkiismeretesen gyakorlom, és az ennek során tudomásomra jutott titkot megőrzöm. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen.''
+(2a) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során az esküt tevő személyétől függően: ügyvéd, ügyvédjelölt.
 
 (3) Az ügyvéd a tevékenységét az eskü letétele után kezdheti meg.
 
@@ -740,7 +740,7 @@ fogadhat el.
 
 (4) A másodfokú eljárásban az első fokú eljárás szabályait kell megfelelően alkalmazni.
 
-(5) A másodfokú határozat ellen az eljárás alá vont ügyvéd, a képviselője és a kamara elnöke a kézbesítéstől számított 30 napon belül a közigazgatási perekre (Pp. XX. fejezet) irányadó szabályok szerint bírósághoz fordulhat. A perre a Fővárosi Bíróság illetékes.
+(5) A másodfokú határozat ellen az eljárás alá vont ügyvéd, a képviselője és a kamara elnöke a kézbesítéstől számított 30 napon belül a közigazgatási perekre (Pp. XX. fejezet) irányadó szabályok szerint bírósághoz fordulhat. A perre a Fővárosi Törvényszék illetékes.
 
 61. § A jogerős fegyelmi határozatot a panasz előterjesztője részére meg kell küldeni.
 
@@ -1015,9 +1015,9 @@ fogadhat el.
 
 (2) Ha az alkalmazott ügyvéd a tevékenységét ügyvédként kívánja folytatni, a kamara a kamarába történő felvétel szabályai szerint folytatja le az eljárást azzal, hogy azokat a feltételeket, amelyek az alkalmazott ügyvédek névjegyzékébe való felvételhez szükségesek voltak, újra nem kell vizsgálnia.
 
-### IX. Fejezet — AZ EURÓPAI GAZDASÁGI TÉRSÉGRŐL SZÓLÓ MEGÁLLAPODÁSBAN RÉSZES VALAMELY MÁS ÁLLAMBAN ÜGYVÉDI TEVÉKENYSÉG FOLYTATÁSÁRA JOGOSULTAK ÜGYVÉDI TEVÉKENYSÉGE A MAGYAR KÖZTÁRSASÁG TERÜLETÉN
+### IX. Fejezet — AZ EURÓPAI GAZDASÁGI TÉRSÉGRŐL SZÓLÓ MEGÁLLAPODÁSBAN RÉSZES VALAMELY MÁS ÁLLAMBAN ÜGYVÉDI TEVÉKENYSÉG FOLYTATÁSÁRA JOGOSULTAK ÜGYVÉDI TEVÉKENYSÉGE MAGYARORSZÁG TERÜLETÉN
 
-89/A. § (1) E törvény rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni annak a magyar állampolgárnak, illetve a külön törvény alapján szabad mozgás és tartózkodás jogával rendelkező személynek a Magyar Köztársaság területén kifejtett tevékenységére, aki a külön jogszabályban meghatározott szakmai megnevezések valamelyike alatt ügyvédi tevékenység folytatására jogosult valamely EGT-államban (a továbbiakban: európai közösségi jogász).
+89/A. § (1) E törvény rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni annak a magyar állampolgárnak, illetve a külön törvény alapján szabad mozgás és tartózkodás jogával rendelkező személynek Magyarország területén kifejtett tevékenységére, aki a külön jogszabályban meghatározott szakmai megnevezések valamelyike alatt ügyvédi tevékenység folytatására jogosult valamely EGT-államban (a továbbiakban: európai közösségi jogász).
 
 (2) E Fejezet alkalmazásában EGT-állam az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, ha a vonatkozó nemzetközi szerződés eltérően nem rendelkezik.
 
@@ -1027,7 +1027,7 @@ fogadhat el.
 
 ### Az európai közösségi jogász névjegyzéke
 
-89/B. § (1) Európai közösségi jogászként a Magyar Köztársaság területén ügyvédi tevékenység
+89/B. § (1) Európai közösségi jogászként Magyarország területén ügyvédi tevékenység
 
 - a) állandó jelleggel csak az európai közösségi jogászok kamara által vezetett névjegyzékébe (e Fejezet alkalmazásában a továbbiakban: névjegyzék) történő felvételt, vagy
 - b) eseti jelleggel a Magyar Ügyvédi Kamarához intézett bejelentés megtételét
@@ -1050,7 +1050,7 @@ követően folytatható.
 
 szerint illetékes kamaránál kell előterjeszteni.
 
-(2) Ha az európai közösségi jogász igazolja, hogy a saját EGT-államának előírásai szerint, a Magyar Köztársaság területén végzett ügyvédi tevékenységére is kiterjedő hatályú ügyvédi felelősségbiztosítással vagy biztosító-pénztári tagsággal rendelkezik, az erről szóló igazolás az ügyvédi felelősségbiztosítás meglétét tanúsítja. A kamara az igazolás ismeretében kiegészítő biztosítás megkötését írja elő, ha a biztosítási szerződés a szerződési feltételek és a biztosítási összeg tekintetében nem felel meg a magyar jogszabályok által előírt követelményeknek.
+(2) Ha az európai közösségi jogász igazolja, hogy a saját EGT-államának előírásai szerint, Magyarország területén végzett ügyvédi tevékenységére is kiterjedő hatályú ügyvédi felelősségbiztosítással vagy biztosító-pénztári tagsággal rendelkezik, az erről szóló igazolás az ügyvédi felelősségbiztosítás meglétét tanúsítja. A kamara az igazolás ismeretében kiegészítő biztosítás megkötését írja elő, ha a biztosítási szerződés a szerződési feltételek és a biztosítási összeg tekintetében nem felel meg a magyar jogszabályok által előírt követelményeknek.
 
 (3) A felelősségbiztosítóval szembeni igényérvényesítés érdekében az európai közösségi jogász megbízója kérelmére a kamara köteles
 
@@ -1094,7 +1094,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 89/F. § (1) A névjegyzékbe felvett európai közösségi jogászt kérelmére a kamarába ügyvédként fel kell venni, ha
 
 - a) megfelel a 13. § (3) bekezdésének e)–g) pontjában foglalt feltételeknek,
-- b) az általa ellátott ügyek számára és jellegére vonatkozó iratokkal, illetve a kamara külön felhívására személyes meghallgatáson hitelt érdemlően igazolja, hogy a Magyar Köztársaság területén megszakítás nélkül három éven át folytatott ügyvédi tevékenységet a magyar joggal kapcsolatban (ideértve az Európai Unió jogának magyarországi alkalmazásával kapcsolatos tevékenységet is), és
+- b) az általa ellátott ügyek számára és jellegére vonatkozó iratokkal, illetve a kamara külön felhívására személyes meghallgatáson hitelt érdemlően igazolja, hogy Magyarország területén megszakítás nélkül három éven át folytatott ügyvédi tevékenységet a magyar joggal kapcsolatban (ideértve az Európai Unió jogának magyarországi alkalmazásával kapcsolatos tevékenységet is), és
 - c) a személyes meghallgatáson bizonyítja, hogy rendelkezik az ügyvédi tevékenység gyakorlásához szükséges szintű magyar nyelvtudással.
 
 (2) A névjegyzékbe felvett európai közösségi jogász kérelmére a kamarába ügyvédként felvehető abban az esetben is, ha megszakítás nélküli magyarországi ügyvédi tevékenysége a három éves időtartamot eléri, de a magyar joggal kapcsolatos ügyvédi tevékenysége (ideértve az Európai Unió jogának magyarországi alkalmazásával kapcsolatos tevékenységet is) három évnél rövidebb időtartamú, és egyébként megfelel az (1) bekezdésben írt feltételeknek.
@@ -1156,13 +1156,13 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 (4) A Magyar Ügyvédi Kamara szabályzatban határozza meg az együttműködési szerződés főbb tartalmi elemeit.
 
-89/L. § (1) A Magyar Köztársaság területén állandó jelleggel ügyvédi tevékenységet folytató európai közösségi jogász működése során köteles betartani e törvény rendelkezéseit és a Magyar Ügyvédi Kamara szabályzataiban foglaltakat.
+89/L. § (1) Magyarország területén állandó jelleggel ügyvédi tevékenységet folytató európai közösségi jogász működése során köteles betartani e törvény rendelkezéseit és a Magyar Ügyvédi Kamara szabályzataiban foglaltakat.
 
-(2) Az eseti szolgáltatást nyújtó európai közösségi jogász működésére a jogi képviselet tekintetében e törvény rendelkezései irányadóak; egyéb tevékenységére a saját EGT-államának az ügyvédi tevékenység folytatására ilyen esetben irányadó szabályai alkalmazandóak, továbbá e törvény rendelkezései és a Magyar Ügyvédi Kamara szabályzataiban foglaltak is, feltéve, hogy azok a Magyar Köztársaság területén nem állandó jelleggel folytatott tevékenység hiányában is alkalmazhatóak.
+(2) Az eseti szolgáltatást nyújtó európai közösségi jogász működésére a jogi képviselet tekintetében e törvény rendelkezései irányadóak; egyéb tevékenységére a saját EGT-államának az ügyvédi tevékenység folytatására ilyen esetben irányadó szabályai alkalmazandóak, továbbá e törvény rendelkezései és a Magyar Ügyvédi Kamara szabályzataiban foglaltak is, feltéve, hogy azok Magyarország területén nem állandó jelleggel folytatott tevékenység hiányában is alkalmazhatóak.
 
 (3) Ha az európai közösségi jogász névjegyzékbe vétel nélkül nyújt eseti szolgáltatást, az e törvényben az eseti szolgáltatást nyújtó európai közösségi jogásszal szemben támasztott követelmények betartását a szolgáltatás nyújtásának helye szerint illetékes kamara ellenőrizheti.
 
-(4) Az európai közösségi jogász fegyelmi felelősségére a VI. fejezet rendelkezései irányadóak, azzal, hogy fegyelmi büntetésként a kamarából kizárás helyett az ügyvédi tevékenységnek a Magyar Köztársaság területén való folytatásától eltiltás alkalmazandó. Az eseti szolgáltatást nyújtó európai közösségi jogászt ezzel egyidejűleg a névjegyzékből vagy a 89/J. § (5) bekezdése szerinti nyilvántartásból törölni kell.
+(4) Az európai közösségi jogász fegyelmi felelősségére a VI. fejezet rendelkezései irányadóak, azzal, hogy fegyelmi büntetésként a kamarából kizárás helyett az ügyvédi tevékenységnek Magyarország területén való folytatásától eltiltás alkalmazandó. Az eseti szolgáltatást nyújtó európai közösségi jogászt ezzel egyidejűleg a névjegyzékből vagy a 89/J. § (5) bekezdése szerinti nyilvántartásból törölni kell.
 
 (5) Az egyénileg tevékenykedő európai közösségi jogászra az egyéni ügyvédekre vonatkozó szabályokat kell megfelelően alkalmazni.
 
@@ -1338,7 +1338,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 102. § (1) A területi ügyvédi kamara (a továbbiakban a XI. és XII. fejezetben: területi kamara) köztestület, amely képviseleti, ügyintézői szervezettel, önálló költségvetéssel rendelkezik; a működési területén ellátja a 12. §-ban, továbbá a törvényben, az alapszabályában és a szabályzatában a hatáskörébe utalt feladatokat.
 
-(2) A területi kamara működési területe a Fővárosi Bíróság és a megyei bíróságok illetékességi területével azonos.
+(2) A területi kamara működési területe a törvényszékek illetékességi területével azonos.
 
 (3) A területi kamara elnevezésében utalni kell az illetékességi területére.
 
@@ -1373,7 +1373,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 (3) A területi kamara alapszabályát, a területi szabályzatot és a területi iránymutatást tájékoztatásul meg kell küldeni a Magyar Ügyvédi Kamarának. A területi kamara alapszabálya a területi kamara tagjaira, a területi szabályzat a területi kamara tagjaira, a területi kamara névjegyzékében szereplő alkalmazott ügyvédekre és ügyvédjelöltekre kötelező.
 
-(4) A közgyűlés határozata ellen a területi kamara tagja – jogszabály, alapszabály vagy szabályzat megsértésére hivatkozással – a határozat közlésétől számított 30 napon belül az illetékes megyei bírósághoz (Fővárosi Bírósághoz) fordulhat. A bíróság a perben a Polgári perrendtartásról szóló 1952. évi III. törvény (Pp.) általános szabályai szerint jár el.
+(4) A közgyűlés határozata ellen a területi kamara tagja – jogszabály, alapszabály vagy szabályzat megsértésére hivatkozással – a határozat közlésétől számított 30 napon belül az illetékes törvényszékhez fordulhat. A bíróság a perben a Polgári perrendtartásról szóló 1952. évi III. törvény (Pp.) általános szabályai szerint jár el.
 
 105. § (1) A területi elnökség szükség szerint, de évente legalább egyszer köteles a közgyűlést összehívni. A kamarai tagok legalább egyharmadának indítványára a közgyűlést össze kell hívni. A közgyűlés tagjait a meghívásban a (2) és (3) bekezdésben foglaltakra figyelmeztetni kell.
 
@@ -1434,7 +1434,7 @@ szerint illetékes kamaránál kell előterjeszteni.
 
 (4) A Magyar Ügyvédi Kamara székhelye: Budapest.
 
-(5) A Magyar Ügyvédi Kamara jogosult a Magyar Köztársaság címerének használatára.
+(5)
 
 110. § (1) A Magyar Ügyvédi Kamara szervei
 
@@ -1636,7 +1636,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (3) Az érintett kamara köteles – az igazságügyért felelős miniszter felhívásában megadott határidőn belül – a jogszabálysértést megszüntetni, vagy egyet nem értéséről az igazságügyért felelős minisztert tájékoztatni.
 
-123. § (1) Ha az érintett kamara a jogszabálysértést nem szüntette meg, az igazságügyért felelős miniszter – a felhívásában megadott határidő lejártától számított 30 napon belül – az illetékes megyei bírósághoz (Fővárosi Bírósághoz) fordulhat. A bíróság a perben a Pp. általános szabályai szerint jár el.
+123. § (1) Ha az érintett kamara a jogszabálysértést nem szüntette meg, az igazságügyért felelős miniszter – a felhívásában megadott határidő lejártától számított 30 napon belül – az illetékes törvényszékhez fordulhat. A bíróság a perben a Pp. általános szabályai szerint jár el.
 
 (2) Ha a bíróság az (1) bekezdés alapján indított eljárás eredményeként a jogszabálysértést megállapítja,
 

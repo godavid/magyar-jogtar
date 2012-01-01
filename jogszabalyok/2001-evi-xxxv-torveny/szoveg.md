@@ -56,7 +56,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 3. § (1) Elektronikus aláírás, illetve dokumentum elfogadását – beleértve a bizonyítási eszközként történő alkalmazást – megtagadni, jognyilatkozat tételére, illetve joghatás kiváltására való alkalmasságát kétségbe vonni – a (2) bekezdés szerinti korlátozással – nem lehet kizárólag amiatt, hogy az aláírás, illetve dokumentum elektronikus formában létezik.
 
-(2) A Magyar Köztársaság Polgári Törvénykönyvének 598–684. §-aiban szereplő, illetve a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény szerinti jogviszonyokban nem lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikus aláírást felhasználni, illetve elektronikusan aláírt elektronikus dokumentumot készíteni.
+(2) A Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 598–684. §-ában szereplő, illetve a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény szerinti jogviszonyokban nem lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikus aláírást felhasználni, illetve elektronikusan aláírt elektronikus dokumentumot készíteni.
 
 (3) A bírósági eljárások különböző típusaiban – az (1) bekezdésben előírt, bizonyítási eszközkénti felhasználáson túlmenően – eljárási cselekményeket akkor lehet az elektronikus formán kívüli dokumentumokat mellőzve, csak elektronikusan aláírt elektronikus dokumentum, illetve elektronikus aláírás használatával foganatosítani, ha ezt az eljárás-típusra vonatkozó jogszabály kifejezetten lehetővé teszi.
 
@@ -270,7 +270,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 ### A hitelesítés-szolgáltató felelőssége
 
-15. § (1) A hitelesítés-szolgáltató a vele szerződéses jogviszonyban nem álló harmadik személlyel szemben a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény 339. §-a szerint, az aláíróval szemben pedig a szerződésszegésért való felelősség szabályai szerint felelős a minősített elektronikus aláírással vagy időbélyegzővel, illetve az ezzel ellátott elektronikusan aláírt elektronikus dokumentummal okozott kárért, ha a 7. § (2) bekezdésében, illetve a 9–11. §-okban vagy a 14. §-ban foglaltakat megszegte. E szabályok megtartását kétség esetén a szolgáltatónak kell bizonyítania.
+15. § (1) A hitelesítés-szolgáltató a vele szerződéses jogviszonyban nem álló harmadik személlyel szemben a Ptk. 339. §-a szerint, az aláíróval szemben pedig a szerződésszegésért való felelősség szabályai szerint felelős a minősített elektronikus aláírással vagy időbélyegzővel, illetve az ezzel ellátott elektronikusan aláírt elektronikus dokumentummal okozott kárért, ha a 7. § (2) bekezdésében, illetve a 9–11. §-okban vagy a 14. §-ban foglaltakat megszegte. E szabályok megtartását kétség esetén a szolgáltatónak kell bizonyítania.
 
 (2) A 9. § (2) bekezdése szerinti korlátokat meghaladó ügyletekben kibocsátott és aláírt elektronikus dokumentumból származó követelésekért, illetve az így okozott kárért a hitelesítés-szolgáltató nem felel.
 
@@ -346,7 +346,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 ### Az archiválási szolgáltató adatkezelése
 
-16/K. § A szolgáltatási szerződést oly módon kell megkötni, hogy a szerződés tartalma az elektronikusan aláírt elektronikus dokumentumokban szereplő személyes adatok vonatkozásában kielégítse a személyes adatok védelméről szóló törvény által az adatfeldolgozás vonatkozásában meghatározott feltételeket.
+16/K. § A szolgáltatási szerződést oly módon kell megkötni, hogy a szerződés tartalma az elektronikusan aláírt elektronikus dokumentumokban szereplő személyes adatok vonatkozásában kielégítse az információs önrendelkezési jogról és az információszabadságról szóló törvény által az adatfeldolgozás vonatkozásában meghatározott feltételeket.
 
 ### Az igénybe vevő kötelezettségei
 
@@ -389,7 +389,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (6) A Hatóság eljárása során szakértőként igazságügyi szakértőt, vagy elektronikus aláírás szolgáltatási szakértőt is igénybe vehet.
 
-(7) A Hatóságnak a nyilvántartással kapcsolatos tevékenységéért igazgatási szolgáltatási díjat kell fizetni, mely a Hatóság bevételét képezi. Az e törvény szerinti bírságok a központi költségvetés bevételét képezik.
+(7) A Hatóságnak a nyilvántartással kapcsolatos tevékenységéért igazgatási szolgáltatási díjat kell fizetni, amely a Hatóság bevételét képezi.
 
 17/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály elektronikus aláírási szolgáltatási szakértő igénybevételét írja elő, vagy e szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll az elektronikus aláírási szolgáltatási szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
@@ -495,7 +495,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 26. § (1) Ez a törvény – a (2)–(3) bekezdésben foglaltak kivételével – a kihirdetését követő harmadik hónap első napján lép hatályba, rendelkezéseit a hatálybalépését követően keletkezett elektronikusan aláírt elektronikus dokumentumokra és az ezeken szereplő elektronikus aláírásokra kell alkalmazni. A 3. § (1) bekezdését és az 5. § (7) bekezdését a hatálybalépését megelőzően keletkezett elektronikusan aláírt elektronikus dokumentumokra és aláírásokra is alkalmazni kell.
 
-(2) A 4. § (4) bekezdésében a 7. § (3) bekezdésére való hivatkozás, az 5. § (1) bekezdésének c) pontja, az 5. § (2) bekezdése, az 5. § (7) bekezdésében az 5. § (2) bekezdésére való hivatkozás, valamint a 7. § (3) bekezdése a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésével egyidejűleg lép hatályba.
+(2) A 4. § (4) bekezdésében a 7. § (3) bekezdésére való hivatkozás, az 5. § (1) bekezdésének c) pontja, az 5. § (2) bekezdése, az 5. § (7) bekezdésében az 5. § (2) bekezdésére való hivatkozás, valamint a 7. § (3) bekezdése a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésével egyidejűleg lép hatályba.
 
 (3) A 27. § (2) bekezdésének b) pontja a kihirdetést követő 8. napon lép hatályba.
 

@@ -2,7 +2,7 @@
 
 a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról
 
-A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a lakosság és az ország anyagi javainak védelmét ellátó szervek hivatásos állományától az állam tántoríthatatlan hűséget, bátor helytállást követel. A hivatásos állomány tagjai a törvények és más jogszabályok, valamint a nemzetközi jog előírásainak megfelelően, a fegyveres szervek feladataihoz igazodó szakmai ismeretek birtokában különleges közszolgálatot teljesítenek. Az Országgyűlés – elismerve a hivatásos szolgálattal járó nagyobb áldozatvállalást és az azzal arányban álló erkölcsi és anyagi megbecsülés indokoltságát – a fegyveres szervek hivatásos állományának szolgálati viszonyáról a következő törvényt alkotja:
+Magyarország függetlenségének, törvényes rendjének, valamint a lakosság és az ország anyagi javainak védelmét ellátó szervek hivatásos állományától az állam tántoríthatatlan hűséget, bátor helytállást követel. A hivatásos állomány tagjai a törvények és más jogszabályok, valamint a nemzetközi jog előírásainak megfelelően, a fegyveres szervek feladataihoz igazodó szakmai ismeretek birtokában különleges közszolgálatot teljesítenek. Az Országgyűlés – elismerve a hivatásos szolgálattal járó nagyobb áldozatvállalást és az azzal arányban álló erkölcsi és anyagi megbecsülés indokoltságát – a fegyveres szervek hivatásos állományának szolgálati viszonyáról a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — ÁLTALÁNOS SZABÁLYOK
 
@@ -10,11 +10,17 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 ### A törvény hatálya
 
-1. § (1) E törvény hatálya a rendvédelmi szervek (a rendőrség, a polgári védelem, a büntetés-végrehajtási szervezet, az állami és hivatásos önkormányzati tűzoltóság), valamint a Nemzeti Adó- és Vámhivatal és a polgári nemzetbiztonsági szolgálatok (e törvény alkalmazásában a továbbiakban együtt: fegyveres szervek) hivatásos állományú tagjainak szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és társadalombiztosítási ellátására terjed ki.
+1. § (1) E törvény hatálya a rendvédelmi szervek (a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet), valamint a Nemzeti Adó- és Vámhivatal és a polgári nemzetbiztonsági szolgálatok (e törvény alkalmazásában a továbbiakban együtt: fegyveres szervek) hivatásos állományú tagjainak szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és társadalombiztosítási ellátására terjed ki.
 
-(2) E törvény rendelkezéseit a fegyveres szervek szerződéses állományú tagjaira, továbbá – a rájuk vonatkozó mértékben – a határozott idejű szolgálati viszonyban álló rendőrre és a hivatásos állományból nyugállományba helyezett személyekre, valamint a törvényben meghatározott esetben és körben a fegyveres szervek hivatásos, szerződéses és nyugállományú tagjainak hozzátartozóira is alkalmazni kell.
+(2) E törvény rendelkezéseit a fegyveres szervek szerződéses állományú tagjaira, továbbá – a rájuk vonatkozó mértékben – a hivatásos állományból nyugállományba helyezett vagy nyugállományba vonult személyekre, valamint a törvényben meghatározott esetben és körben a fegyveres szervek hivatásos, szerződéses és nyugállományú tagjainak hozzátartozóira, továbbá a szolgálati járandóságban részesülőkre és hozzátartozóikra is alkalmazni kell.
+
+(2a) A IV. Fejezet, valamint a IV/A. Fejezet rendelkezéseit és a 70/B. §-t a fegyveres szervvel közalkalmazotti jogviszonyban állókra is alkalmazni kell.
 
 (3) A szükségállapot és a rendkívüli állapot idején – a hivatásos állomány tagjainak szolgálati viszonyára – alkalmazandó eltérő rendelkezéseket külön jogszabályok állapítják meg.
+
+(4) A Nemzeti Adó- és Vámhivatal hivatásos állományú tagjainak szolgálati viszonyára az e törvényben foglaltakat a Nemzeti Adó- és Vámhivatalról szóló törvényben foglalt eltérésekkel kell alkalmazni.
+
+(5) A XVIII/A. Fejezet rendelkezéseit a fegyveres szervvel munkaviszonyban állókra kell alkalmazni.
 
 ### Értelmező rendelkezések
 
@@ -23,8 +29,8 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 - a) munkáltatói jogkört gyakorló elöljáró: az a parancsnok, vezető, aki jogosult a szolgálati viszony létesítésére, megszüntetésére, tartalmának törvény szerinti érvényesítésére, a fegyelmi és kártérítési felelősség megállapítására, valamint mindazon jogok gyakorlására és kötelezettségek teljesítésére, amelyeket jogszabály a munkáltató részére meghatároz;
 - b) állományilletékes parancsnok: az az általános munkáltatói jogkört gyakorló elöljáró, aki a fegyveres szerv olyan szervezeti egységét vezeti, amely önálló állománytáblával rendelkezik; gyakorolja mindazon munkáltatói jogokat, és teljesíti azokat a kötelezettségeket, amelyeket a törvény nem határoz meg más parancsnok, vezető részére;
 - c) elöljáró parancsnok: az állományilletékes parancsnok közvetlen szolgálati elöljárója;
-- d) szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, köztisztviselőként foglalkoztatott személy is minősülhet;
-- e) országos parancsnok: a rendőrség központi szervének vezetője, a BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója, a valamint a büntetés-végrehajtás országos parancsnoka, a nemzetbiztonsági szolgálatok főigazgatói;
+- d) szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, kormánytisztviselőként foglalkoztatott személy is minősülhet;
+- e) országos parancsnok: a rendőrség központi szervének vezetője, a hivatásos katasztrófavédelmi szerv központi szerve vezetője, a büntetés-végrehajtás országos parancsnoka, valamint a nemzetbiztonsági szolgálatok főigazgatói;
 - f) országos parancsnokság: a nemzetbiztonsági szolgálatok főigazgatói kivételével az e) pontban meghatározott személyek által vezetett szervek;
 - g) miniszter: a fegyveres szervet irányító miniszter;
 - h) szervezeti egység: a fegyveres szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, az állományilletékes parancsnok által vezetett szervezet;
@@ -32,15 +38,18 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 - j) a szolgálatteljesítés helye: az a földrajzilag körülhatárolható területrész, ahol a szolgálati feladatot ténylegesen végre kell hajtani;
 - k) kinevezés: a munkáltatói jogkört gyakorló elöljáró rendelkezése hivatásos állományba vételről (szolgálati viszony létesítéséről); magasabb vagy azonos, illetve vezetői beosztásba helyezésről; az első, az első tiszti és tábornoki rendfokozatok megállapításáról;
 - l) felmentés: a szolgálati beosztás betöltése, valamint a szolgálati viszony megszüntetésének módja;
-- m) áthelyezés: a fegyveres szerv szervezeti egységén belül, vagy az egyik szervezeti egységtől a másik szervezeti egységhez történő kinevezés vagy alacsonyabb beosztásba helyezés, amely az érintett miniszterek megállapodása alapján történhet fegyveres szervek között is; továbbá közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés;
+- m) áthelyezés: a fegyveres szerv szervezeti egységén belül, vagy az egyik szervezeti egységtől a másik szervezeti egységhez történő kinevezés vagy alacsonyabb beosztásba helyezés, amely az érintett miniszterek megállapodása alapján történhet fegyveres szervek között is; továbbá kormányzati szolgálati jogviszonyba, közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés;
 - n) berendelés: a fegyveres szervet irányító miniszter arra irányuló rendelkezése, hogy a hivatásos állomány tagja a Miniszterelnökségnél, az általa vezetett minisztériumban vagy törvényben meghatározott – a miniszter irányítása, felügyelete, valamint költségvetési jogállása alapján irányítása, felügyelete alá tartozó – szervnél meghatározott beosztásban teljesítse szolgálatát;
 - o) szolgálati viszonyra vonatkozó szabály: e törvényben és a végrehajtására kiadott rendeletekben, illetve az e törvényben megnevezett törvényekben és azok végrehajtási rendeleteiben meghatározott rendelkezés;
 - p) közeli hozzátartozó: a házastárs, a bejegyzett élettárs, az egyenes ágbeli rokon, a házastárs egyenes ágbeli rokona, a bejegyzett élettárs egyenes ágbeli rokona, az örökbefogadott, mostoha és nevelt gyermek, az örökbefogadó, a mostoha és a nevelő szülő, a testvér, valamint az élettárs;
 - r) vezénylés: a hivatásos állomány tagjának az eredeti szervezeti egységétől meghatározott szolgálati feladat teljesítése céljából más szervezeti egységhez időleges, illetőleg a rendelkezési állományból más szervezeti egységhez, valamint más szervhez időleges vagy határozatlan időtartamra történő átirányítása;
 - s) magasabb beosztás: nagyobb felelősséggel, szélesebb hatáskörrel és ennek megfelelően magasabb rendfokozattal és illetménnyel járó státusz;
-- t) átszervezés: a fegyveres szervnél végrehajtott – a kizárólag névváltoztatással járó szervezetmódosításon kívüli – minden olyan szervezési intézkedés, amely az egyes szervezeti egységek egészét vagy azok egyes elemeit érinti, amelyből eredően új szervezeti elemek, beosztások létesülnek vagy azok megszűnnek, illetve módosulnak és ennek következtében megváltozik az adott szervezeti elem, illetve egyes beosztások szervezeti szint szerinti besorolása, vagy a beosztás egyes elemei (munkakör tartalma, a szolgálatteljesítés helye, beosztási kategória, rendszeresített rendfokozat) módosulnak. Nem átszervezés, ha a szolgálati beosztást – szolgálati jellegének megszűnése miatt – a miniszter köztisztviselői, vagy közalkalmazotti munkakörré minősíti át;
-- u) közszolgálati jogviszony: a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény és a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény szabályai szerinti közszolgálati jogviszony;
-- v) belföldi szolgálati kiküldetés: a hivatásos állomány tagjának meghatározott szolgálati feladat teljesítése céljából a szolgálatteljesítési helyének közigazgatási határán kívül történő ideiglenes szolgálatteljesítése, ide nem értve, ha a hivatásos állomány tagja a szolgálati kötelezettség teljesítésének természetéből eredően szolgálati feladatait szokásosan a szolgálatteljesítési helye közigazgatási határán kívül teljesíti.
+- t) átszervezés: a fegyveres szervnél végrehajtott – a kizárólag névváltoztatással járó szervezetmódosításon kívüli – minden olyan szervezési intézkedés, amely az egyes szervezeti egységek egészét vagy azok egyes elemeit érinti, amelyből eredően új szervezeti elemek, beosztások létesülnek vagy azok megszűnnek, illetve módosulnak és ennek következtében megváltozik az adott szervezeti elem, illetve egyes beosztások szervezeti szint szerinti besorolása, vagy a beosztás egyes elemei (munkakör tartalma, a szolgálatteljesítés helye, beosztási kategória, rendszeresített rendfokozat) módosulnak. Nem átszervezés, ha a szolgálati beosztást – szolgálati jellegének megszűnése miatt – a miniszter köztisztviselői, vagy közalkalmazotti munkakörré minősíti át. Nem minősül átszervezésnek az sem, ha a fegyveres szerv egészét vagy az érintett szervezeti egységét más fegyveres szervvel összevonják vagy annak alárendelik, és ennek következtében a hivatásos állomány tagja más fegyveres szerv állományába kerül, feltéve, hogy a szolgálati beosztásának felsorolt jellemzői – így különösen a hivatásos állomány tagjának szolgálati beosztása és helye, rendfokozata, a besorolási osztályon belüli beosztási kategóriája, fizetési fokozata, szolgálati rendje, vezényelhetősége – egyébként nem változnak;
+- u) közszolgálati és kormányzati szolgálati jogviszony:
+  - ua) közszolgálati jogviszony: a közszolgálati tisztviselőkről szóló törvény szabályai szerinti köztisztviselő és közszolgálati ügykezelő foglalkoztatási jogviszonya;
+  - ub) kormányzati szolgálati jogviszony: a közszolgálati tisztviselőkről szóló törvény szabályai szerinti kormánytisztviselő és kormányzati ügykezelő foglalkoztatási jogviszonya;
+- v) belföldi szolgálati kiküldetés: a hivatásos állomány tagjának meghatározott szolgálati feladat teljesítése céljából a szolgálatteljesítési helyének közigazgatási határán kívül történő ideiglenes szolgálatteljesítése, ide nem értve, ha a hivatásos állomány tagja a szolgálati kötelezettség teljesítésének természetéből eredően szolgálati feladatait szokásosan a szolgálatteljesítési helye közigazgatási határán kívül teljesíti;
+- z) rendészeti gyakorlat: a fegyveres szervnél szolgálati viszonyban, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban és munkaviszonyban töltött idő, továbbá a közszolgálati tisztviselőkről szóló törvény alapján közigazgatási gyakorlatként elismert idő.
 
 ### A szolgálati viszony jellege
 
@@ -173,9 +182,9 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 18. § (1)
 
-(2) A polgári védelem, a vám- és pénzügyőrség, a büntetés-végrehajtási szervezet, valamint az állami és hivatásos önkormányzati tűzoltóság hivatásos állományának tagja pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti és az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat.
+(2) A hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, valamint a büntetés-végrehajtási szervezet hivatásos állományának tagja pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti és az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat.
 
-(3) A szolgálati helyen és szolgálati feladat teljesítése közben a polgári védelem, a vám- és pénzügyőrség, a büntetés-végrehajtási szervezet, valamint az állami és hivatásos önkormányzati tűzoltóság hivatásos állományának tagja politikai tevékenységet nem folytathat.
+(3) A szolgálati helyen és szolgálati feladat teljesítése közben a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, valamint a büntetés-végrehajtási szervezet hivatásos állományának tagja politikai tevékenységet nem folytathat.
 
 (4) A hivatásos állomány tagja a részére kiadott parancsot, intézkedést – a 69. § esetét kivéve – nem bírálhatja, azokról a jog- és érdekérvényesítő tevékenysége körén kívül véleményt nem mondhat, a szolgálati rendet és a fegyelmet sértő nyilatkozatot nem tehet, a sajtónyilvánosság igénybevételével hivatalos eljárásban magánvéleményt nem nyilváníthat.
 
@@ -201,7 +210,11 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 ### Egyesülési jog
 
-21. § (1) A hivatásos állomány tagjai érdekképviseleti szerveket az egyesülési jog alapján – e törvényben meghatározott keretek között – hozhatnak létre, illetve csatlakozhatnak azokhoz.
+21. § (1) A hivatásos állomány tagjai érdekképviseleti szerveket az egyesülési jog alapján – e törvényben meghatározott keretek között – hozhatnak létre, illetve csatlakozhatnak azokhoz. Az érdekképviseleti szervezetek jogosultak szövetségeket létesíteni, illetve ilyenekhez csatlakozni, ideértve a nemzetközi szövetségeket is.
+
+(1a) Az érdekképviseleti szervek e törvény keretei között szabadon működhetnek és gyakorolhatják jogosítványaikat. Sztrájkot azonban nem szervezhetnek, és tevékenységükkel – ide értve a fegyveres szerv működéséhez szükséges közbizalom fenntartásának veszélyeztetését is –, nem akadályozhatják meg a fegyveres szerv jogszerű és rendeltetésszerű működését, a hivatásos állomány tagjának a parancsok és intézkedések végrehajtására vonatkozó kötelezettsége teljesítését.
+
+(1b) A hivatásos állomány tagjának joga, hogy – törvényben meghatározott feltételek szerint – gazdasági és társadalmi érdekeik előmozdítása, védelme érdekében, mindennemű megkülönböztetés nélkül, másokkal együtt érdekképviseleti szervezetet alakítsanak, illetve az általuk választott szervezetbe – kizárólag az adott szervezet szabályaitól függően – belépjenek, vagy az ilyen jellegű szervezetektől távol maradjanak.
 
 (2) A hivatásos állomány tagja nem csatlakozhat olyan szervezethez, amelynek tevékenysége a fegyveres szerv feladataival ellentétes.
 
@@ -221,9 +234,9 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 ### Választójog
 
-23. § A polgári védelem, a vám- és pénzügyőrség, a büntetés-végrehajtási szervezet, valamint az állami és hivatásos önkormányzati tűzoltóság hivatásos állományának tagja haladéktalanul köteles az állományilletékes parancsnoknak bejelenteni az országgyűlési képviselői, az európai parlamenti, a főpolgármesteri, polgármesteri, a helyi és kisebbségi önkormányzati képviselői választáson jelöltként történt nyilvántartásba vételét, a jelöltségtől való visszalépését, a tisztségbe történt megválasztását, illetve annak elmaradását.
+23. § A hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, valamint a büntetés-végrehajtási szervezet hivatásos állományának tagja haladéktalanul köteles az állományilletékes parancsnoknak bejelenteni az országgyűlési képviselői, az európai parlamenti, a főpolgármesteri, polgármesteri, a helyi és nemzetiségi önkormányzati képviselői választáson jelöltként történt nyilvántartásba vételét, a jelöltségtől való visszalépését, a tisztségbe történt megválasztását, illetve annak elmaradását.
 
-24. § (1) A hivatásos állomány tagja számára lehetővé kell tenni, hogy az országgyűlési, az európai parlamenti, helyi és kisebbségi önkormányzati választáson, továbbá népszavazáson és népi kezdeményezésen a lakóhelyén szavazhasson.
+24. § (1) A hivatásos állomány tagja számára lehetővé kell tenni, hogy az országgyűlési, az európai parlamenti, helyi és nemzetiségi önkormányzati választáson, továbbá népszavazáson szavazhasson.
 
 (2) Ha a hivatásos állomány tagja szolgálati érdekből a szavazáshoz szükséges ideig nem tartózkodhat a lakóhelyén, erről őt a választást megelőzően legalább 15 nappal értesíteni kell. Ez esetben lehetővé kell tenni számára – ha a választásról szóló törvény másképp nem rendelkezik –, hogy a szolgálatteljesítés helyén szavazhasson.
 
@@ -237,106 +250,270 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 ### A művelődéshez való jog, a tudományosés művészeti élet, a tanulás és a tanítás szabadsága
 
-26. § (1) A hivatásos állomány tagja a művelődéshez, a tudományos és művészeti élet, a tanulás és a tanítás szabadságához való jogát a szolgálati kötelezettségek teljesítésére vonatkozó szabályok korlátai között gyakorolhatja.
+26. § (1) A hivatásos állomány tagja a tudományos kutatás és művészeti alkotás szabadságához, továbbá a tanulás, valamint a tanítás szabadságához való jogát a szolgálati kötelezettségek teljesítésére vonatkozó szabályok korlátai között gyakorolhatja.
 
 (2) Az előmenetelhez szükséges képesítés megszerzése – külön törvények előírásainak megfelelően – a katonai és rendvédelmi oktatási intézményekben és a polgári oktatási intézményekben folyó oktatás, képzés, átképzés és továbbképzés, valamint egyéni képzés keretében történik.
 
-### IV. Fejezet — ÉRDEKKÉPVISELETI SZERVEKÉS ÉRDEKVÉDELEM
+### IV. Fejezet — A MAGYAR RENDVÉDELMI KAR
 
-27. § (1) A hivatásos állomány tagjai a szolgálati viszonnyal kapcsolatos jogaik és jogos érdekeik védelmére és képviseletére érdekképviseleti szerveket, szövetségeket hozhatnak létre, illetve azok tagjai lehetnek, érdekképviseleti fórumokon képviselettel rendelkezhetnek.
+27–28. §
 
-(2) Az érdekképviseleti szervek e törvény keretei között szabadon működhetnek és gyakorolhatják jogosítványaikat. Sztrájkot azonban nem szervezhetnek, és tevékenységükkel – ide értve a fegyveres szerv működéséhez szükséges közbizalom fenntartásának veszélyeztetését is –, nem akadályozhatják meg a fegyveres szerv jogszerű és rendeltetésszerű működését, a hivatásos állomány tagjának a parancsok és intézkedések végrehajtására vonatkozó kötelezettsége teljesítését.
+### A Magyar Rendvédelmi Kar jogállása, feladat- és hatásköre
 
-28. § (1) A fegyveres szerv köteles együttműködni az érdekképviseleti szervvel és biztosítani működésének feltételeit. Ez utóbbi körben lehetővé kell tenni, hogy az érdekképviseleti szerv
+29. § (1) A Magyar Rendvédelmi Kar (a továbbiakban: MRK) a fegyveres szervek hivatásos állományú tagjainak és közalkalmazottainak önkormányzattal rendelkező rendvédelmi szakmai, érdekképviseleti köztestülete.
 
-- a) az érdekképviseleti tevékenysége céljából a fegyveres szerv kijelölt helyiségeit és azok berendezését a napi szolgálati (munka-)időn túl, illetőleg a szolgálati időben térítésmentesen használja;
-- b) az általa szükségesnek tartott tájékoztatásokat, felhívásokat, valamint a tevékenységével kapcsolatos adatokat a szolgálati helyen szokásos vagy más megfelelő módon közzétegye.
+(2) Az MRK kötelező tagsági viszony alapján működik. A fegyveres szervvel fennálló szolgálati viszony vagy közalkalmazotti jogviszony alapján a hivatásos állomány tagja és a közalkalmazott az MRK tagjává válik.
 
-(2) A fegyveres szerv nem követelheti meg azt, hogy a hivatásos állomány tagja az érdekképviseleti hovatartozásáról nyilatkozzék, nem szüntetheti meg a hivatásos állomány tagjának szolgálati viszonyát, és nem károsíthatja meg a hivatásos állomány tagját az érdekképviseleti hovatartozása vagy tevékenysége miatt.
+(3) Az MRK tagozata
 
-(3) Jogosultságot vagy juttatást a fegyveres szerv az érdekképviseleti szervezethez való tartozástól nem tehet függővé.
+- a) a rendőrségről szóló törvény hatálya alá tartozó szervek,
+- b) a büntetés-végrehajtási szervezetről szóló törvény hatálya alá tartozó szervek,
+- c) a Nemzeti Adó- és Vámhivatalról szóló törvény hatálya alá tartozó fegyveres rendvédelmi feladatokat ellátó szervek,
+- d) a hivatásos katasztrófavédelmi szervek,
+- e) a polgári nemzetbiztonsági szolgálatok személyi állománya szolgálati viszonyban és közalkalmazotti jogviszonyban álló tagjainak a)–e) pont szerint elkülönülő résztestülete.
 
-29. § (1) E törvény alkalmazásában szakszervezeten – elnevezésétől függetlenül – a hivatásos állomány tagjainak minden olyan érdekképviseleti szervét érteni kell, amelynek célja a hivatásos állomány tagjai szolgálati viszonyával kapcsolatos érdekeinek képviselete és megvédése.
+29/A. § (1) Az MRK feladatait a döntéshozó és végrehajtó szervei útján látja el.
 
-(2) A szakszervezet jogosult, hogy
+(2) Az MRK tagjai e törvényben és az MRK Alapszabályában (a továbbiakban: Alapszabály) meghatározott módon és feltételek szerint tagozatokat hoznak létre, amelyek ellátják az Alapszabályban, illetve a 29/B. §-ban meghatározott szervek által átruházott feladatokat.
 
-- a) a fegyveres szerven belül működjön és tagjait tevékenységébe bevonja;
-- b) a hivatásos állomány tagjait az anyagi, szociális és kulturális, valamint az élet- és szolgálati körülményeiket érintő jogaikról és kötelezettségeikről tájékoztassa;
-- c) tagjait a szolgálati viszonyt érintő körben a szervezeti egységgel szemben, illetőleg az állami szervek előtt, meghatalmazás alapján pedig az élet- és szolgálati körülményeiket érintő kérdésekben bíróság, más hatóság és egyéb szervek előtt képviselje.
+(3) Az Alapszabály rendelkezhet területi szervek, valamint a Magyar Kormánytisztviselői Karral közös szervezetek létrehozásáról, és az együttműködés rendjéről.
 
-(3) A szakszervezet a szervezeti egységgel kapcsolatban az alábbi jogokat gyakorolhatja:
+(4) Az MRK
 
-- a) minden olyan kérdésben tájékoztatást kérhet, amely a hivatásos állomány tagjainak a szolgálati viszonnyal összefüggő anyagi, szociális és kulturális érdekeivel kapcsolatos;
-- b) az a) pontba tartozó kérdésben a parancsnoki (vezetői) intézkedéssel (döntéssel) kapcsolatos álláspontját, véleményét az állományilletékes parancsnokkal közölheti, és ezzel összefüggésben konzultációt kezdeményezhet;
-- c) a szolgálati és munkakörülményekre – ennek keretében az egészséges és biztonságos szolgálatteljesítés betartására – vonatkozó szabályok megtartását hivatali munkaidőben, illetve indokolt esetben szolgálatteljesítési időben ellenőrizheti, azok végrehajtásáról tájékoztatást, adatot kérhet, melyet részére meg kell adni. Az ellenőrzés a szolgálati feladatok ellátását nem veszélyeztetheti, illetve nem akadályozhatja.
+- a) ellátja az érdekképviseletet a foglalkozás gyakorlásával összefüggő ügyekben,
+- b) védi az MRK tekintélyét, testületeinek és tagjainak érdekeit, jogait,
+- c) megalkotja a hivatásetikai részletszabályokat, az e törvényben meghatározott keretek között kialakítja az etikai eljárás rendszerét, valamint lefolytatja az etikai eljárásokat,
+- d) konzultációs joggal közreműködik a tagjai foglalkoztatásának és hivatásgyakorlásának feltételeit befolyásoló, az előírt szakmai vizsgákkal kapcsolatos, valamint az MRK-t érintő jogszabályok megalkotásában,
+- e) véleményét ki kell kérni
+  - ea) szolgálati viszonnyal, valamint közalkalmazotti jogviszonnyal összefüggő kérdésekben,
+  - eb) a központi és társadalombiztosítási költségvetésnek a szolgálati viszonyban és a közalkalmazotti jogviszonyban állókat érintő rendelkezéseivel összefüggésben, valamint
+  - ec) az igazgatási munkaerővel és személyi juttatásokkal való gazdálkodás elvi kérdéseiben,
+- f) a miniszter útján kezdeményezheti a Kormánynál a tagjai élet- és munkakörülményeit, foglalkoztatási feltételeit és a hivatás gyakorlását érintő jogszabályok megalkotását, illetve módosítását,
+- g) feladat- és hatáskörét érintő bármely kérdésben felterjesztési jogot gyakorol,
+- h) kezdeményezheti a miniszternél a szolgálati viszonnyal és a közalkalmazotti jogviszonnyal kapcsolatos jogszabálysértő gyakorlat megváltoztatását,
+- i) megalkotja működési szabályait,
+- j) tagjairól és szerveiről nyilvántartást vezet,
+- k) a kiváló munka elismeréseként díjakat alapíthat és adományozhat,
+- l) a Kormánynál – a miniszter útján –, a miniszternél, az országos parancsnoknál, a bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetőjénél, valamint a terrorizmust elhárító szerv vezetőjénél kezdeményezheti kitüntetés vagy más elismerés adományozását,
+- m) szakmai konferenciákat, tudományos tanácskozásokat, felkészítő továbbképzéseket szervezhet,
+- n) pályázatokat írhat ki és bírálhat el, illetve kiadványokat jelentethet meg a rendvédelem fejlesztésére, gyakorlatának egységesítésére, a példaadó rendvédelmi munkamódszerek megismertetésére, a rendvédelem hagyományainak ápolására,
+- o) szolgálati viszony, valamint közalkalmazotti jogviszony tekintetében meghatalmazás alapján képviseli tagját a bíróság vagy más hatóság előtti eljárásban,
+- p) tagjai számára jóléti, szociális és egyéb kedvezményes szolgáltatásokat nyújthat,
+- r) megfigyelőként részt vehet tagjai szakmai vizsgáztatásában és továbbképzésében, indokolt esetben törvényességi vagy egyéb intézkedést kezdeményez,
+- s) tagot delegál a Rendészeti Szakvizsga Bizottság elnökségébe,
+- t) megalkotja éves költségvetését, elfogadja az éves költségvetés végrehajtásáról szóló, a számviteli törvény szerinti beszámolót,
+- u) ellátja mindazokat a feladatokat, amelyeket törvény, kormányrendelet vagy az Alapszabály határoz meg.
 
-(4) A szakszervezet az ellenőrzés során észlelt hibákra és mulasztásokra a végrehajtásért felelős szerv vezetőjének a figyelmét felhívhatja. Ha az a szükséges intézkedést kellő időben nem tette meg, a megfelelő eljárást kezdeményezheti. Ennek eredményéről az eljárást lefolytató szerv a szakszervezetet tájékoztatni köteles.
+(5) A fegyveres szerv vezetője köteles kikérni az MRK véleményét a személyi állomány szolgálatteljesítésére, illetve munkavégzésére, szolgálatteljesítési idejére, illetve munkaidejére, pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a hatáskörébe utalt szabályozásról.
 
-(5) A (3) és (4) bekezdésben meghatározott jogok az elöljáró szervek irányítása körébe tartozóan az adott szervezeten belüli reprezentatív szakszervezeti szervet illetik meg.
+(6) Az MRK jogosult véleményezni a tagjai csoportját érintő munkáltatói intézkedést (döntést) vagy annak tervezetét, ezzel összefüggésben konzultációt kezdeményezni.
 
-30. § (1) A szakszervezettel való együttműködés keretében az állományilletékes parancsnok köteles:
+### Az MRK szervezete, működése
 
-- a) a szükséges tájékoztatás megadásával a szakszervezet érdekképviseleti tevékenységét elősegíteni;
-- b) a szakszervezet által tett észrevételekre, javaslatokra vonatkozó álláspontját és ennek indokait közölni;
-- c) a szolgálati viszonnyal összefüggő anyagi, szociális és kulturális érdekeket érintő intézkedésének megtétele előtt – ha az a hivatásos állomány legalább 25%-át vagy több, mint 50 főt közvetlenül érinti – a szervezeti egységen belül működő szakszervezet képviselőjét tájékoztatni.
+29/B. § Az MRK szervezete képviseleti, ügyintézői testületekből, tisztségviselőkből és ügyintéző szervekből áll.
 
-(2) Az (1) bekezdésben meghatározottak irányadók – irányítása körébe tartozóan – az elöljáró szervek parancsnokaira (vezetőire) is.
+29/C. § (1) Az MRK legfőbb képviseleti, döntéshozó szerve a Közgyűlés.
 
-31. § (1) A szervezeti egységnél képviselettel rendelkező szakszervezet jogosult a hivatásos állomány tagjait, illetve a szervezetét közvetlenül érintő jogellenes intézkedés, mulasztás (a továbbiakban együtt: intézkedés) ellen kifogást benyújtani.
+(2) A Közgyűlést szükség szerint, de évente legalább egy alkalommal össze kell hívni. A Közgyűlés kötelező összehívásának más eseteit, továbbá a működés rendjét az Alapszabály állapítja meg.
 
-(2) A kifogást az állományilletékes parancsnokhoz kell benyújtani a jogellenes intézkedésről való tudomásszerzéstől számított 5 munkanapon belül. A kifogást az intézkedés megtételétől számított 1 hónapon túl nem lehet benyújtani.
+(3) A Közgyűlés feladata:
 
-(3) Nincs helye kifogásnak, ha az intézkedéssel szemben a hivatásos állomány tagja jogvitát kezdeményezhet.
+- a) megválasztja saját tagjai közül az elnökét és alelnökeit, a Pénzügyi Ellenőrző Bizottság (a továbbiakban: PEB) elnökét és tagjait, az Etikai Bizottság (a továbbiakban: EB) elnökét és tagjait, valamint a főtitkárt,
+- b) megalkotja az Alapszabályt és a Választási Szabályzatot,
+- c) gyakorolja az MRK-nak az e törvényben, valamint az Alapszabályban meghatározott feladat- és hatáskörét.
 
-(4) Ha az állományilletékes parancsnok a kifogással nem ért egyet, egyeztetésnek van helye. Az egyeztető tárgyalást a kifogás benyújtásától számított 3 munkanapon belül meg kell kezdeni. Ha az egyeztetés 7 napon belül nem vezetett eredményre, az eredménytelenség megállapításától számított 5 napon belül a szakszervezet a bírósághoz fordulhat. A bíróság nem peres eljárásban, 15 napon belül dönt.
+(4) A Közgyűlés feladat- és hatáskörének gyakorlását – ha e törvény vagy az Alapszabály másként nem rendelkezik – átruházhatja az MRK szerveire és tisztségviselőire.
 
-(5) A kifogásolt intézkedést az egyeztető eljárás eredményes befejezéséig vagy a jogerős bírósági döntésig végrehajtani nem lehet, illetőleg a végrehajtását fel kell függeszteni.
+(5) A miniszter, az országos parancsnok, a bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője, valamint a terrorizmust elhárító szerv vezetője a Közgyűlés ülésén tanácskozási joggal részt vehet.
 
-32. § (1) A szervezeti egység köteles a szakszervezet tisztségviselője számára munkaidő-kedvezményt biztosítani.
+(6) Az MRK legfőbb ügyintézői testülete az Elnökség.
 
-(2) A munkaidő-kedvezmény mértéke valamennyi tisztségviselőt figyelembe véve összesen – eltérő megállapodás hiányában – minden, a szervezeti egységnél szolgálati viszonyban álló szakszervezeti tag után havi 1 óra. E kedvezmény mértékébe a szervezeti egységgel való tárgyalás időtartama nem számít be. A munkaidő-kedvezmény felhasználásáról a szakszervezet dönt. A munkából való távolmaradást előre be kell jelenteni.
+(7) Az Elnökség tagjai:
 
-(3) A szakszervezet kérésére a (2) bekezdés alapján járó munkaidő-kedvezményből fel nem használt időtartamot, de legfeljebb a munkaidő-kedvezmény felét a szervezeti egység köteles pénzben megváltani. A pénzbeni megváltást a szakszervezeti tisztségviselő előző naptári évi átlagkeresete, illetve ha a szervezeti egységnél a szakszervezet tisztségviselővel nem rendelkezik, úgy a fegyveres szerv más szervezeti egységeinek állományába tartozó tisztségviselők előző naptári évi átlagkeresetének átlaga alapján kell megállapítani, és bruttó összegben – a munkáltatóval kötött megállapodás alapján havonta vagy negyedévente – utólag kell kifizetni a szakszervezet részére. Ez a pénzösszeg kizárólag érdekvédelmi tevékenységgel összefüggő célra használható fel. Negyedéves elszámoláskor a havonkénti munkaidő-kedvezmény összevonható, ha azt a szakszervezeti tagok továbbképzése céljából vették igénybe.
+- a) az elnök, az alelnökök,
+- b) a főtitkár,
+- c) a PEB elnöke,
+- d) az EB elnöke.
 
-(4) A fegyveres szerv a szakszervezet által a tagjai részére szervezett képzés időtartamára munkaidő-kedvezményt köteles biztosítani.
+(8) A PEB a Közgyűlés által megválasztott, tagozatonként egy, összesen öt tagból áll. A PEB elnökét a Közgyűlés választja meg.
 
-(5) A szakszervezet tagjai részére összesen – a szakszervezet által szervezett képzés, illetve továbbképzés céljára – a szervezeti egység köteles előzetes egyeztetés alapján minden tíz, a szervezeti egységnél szolgálatot teljesítő szakszervezeti tag után évente egy nap rendkívüli fizetett szabadságot biztosítani. A szabadság igénybe vehető mértékét a szakszervezet határozza meg. A szabadság igénybevétele előtt a szervezeti egységet legalább harminc nappal értesíteni kell.
+(9) Az EB a Közgyűlés által megválasztott, tagozatonként négy, összesen húsz tagból áll. Az EB elnökét a Közgyűlés választja meg. Az EB az Alapszabályban meghatározott módon háromtagú tanácsban jár el.
 
-(6) A (2) és (5) bekezdésben meghatározott munkaidő-kedvezmény időtartamára a hivatásos állomány tagját távolléti díj illeti meg.
+(10) A Közgyűlés által megválasztott elnök az MRK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját a Közgyűlés által megválasztott, tagozatonként egy-egy, összesen öt alelnök segíti.
 
-33. § (1) A hivatásos állomány választott szakszervezeti tisztséget betöltő tagjának más szolgálati helyre való – a fegyveres szerv által kezdeményezett – beosztásához, áthelyezéséhez, 15 munkanapot elérő vezényléséhez és a szolgálatteljesítés helyének megváltoztatásához, továbbá szolgálati viszonyának felmentéssel történő megszüntetéséhez az adott szervezeten belüli érintett reprezentatív szakszervezeti szerv előzetes egyetértése szükséges. Ha a felmentés a hivatásos állomány tagjának nemzetbiztonsági szempontból felróható alkalmatlansága, vagy az 56. § (2) bekezdés b) pontjában meghatározott alkalmatlansága miatt válik szükségessé, valamint, ha a szakszervezeti tisztségviselőt fegyelmileg kell felelősségre vonni, erről a megfelelő szakszervezeti szervet előzetesen értesíteni kell.
+(11) A Közgyűlés által megválasztott főtitkár vezeti az MRK Irodáját (a továbbiakban: Iroda), valamint ellátja az Alapszabályban meghatározott feladatokat.
 
-(2) Az (1) bekezdésben meghatározott védelem a tisztségviselőt megbízatásának idejére és annak megszűnését követő 1 évre illeti meg, feltéve, hogy tisztségét legalább 6 hónapon át betöltötte.
+(12) Az Elnökség, az Elnökség tagjai, a PEB és az EB feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
 
-(3) Ha a választott tisztségviselő ügyében az eljárásra jogosult szakszervezeti szerv nem határozható meg, az (1) bekezdésben meghatározott jogosultságot az a szakszervezeti szerv gyakorolja, amelyben a tisztségviselő a tevékenységét kifejti.
+(13) Etikai vétség gyanúja esetén az MRK a tagja ellen etikai eljárást folytat le. Etikai vétséget követ el az, aki e törvény 70/A. §-a rendelkezéseit, a Rendvédelmi Hivatásetikai Kódexnek a fegyveres szerv hivatásos állományú tagjaira a rájuk vonatkozó –, illetve közalkalmazott esetén a Rendvédelmi Hivatásetikai Kódexnek a fegyveres szerv közalkalmazottaira vonatkozó – előírásait, valamint az Alapszabály vagy az Etikai Eljárási Szabályzat rendelkezéseit megszegi.
 
-34. § (1) A 31. és 33. §-ban biztosított jogok a szervezeti egységnél reprezentatívnak minősülő szakszervezetet, illetőleg tisztségviselőjét illetik meg. E jogok megilletik az előbbiek hiányában az országosan reprezentatívnak minősülő szakszervezetet is, ha a szervezeti egységnél legalább egy tagja van.
+(14) Az etikai eljárás eredménye alapján az MRK
 
-(2) Az (1) bekezdés alkalmazásában reprezentatívnak azt a szakszervezetet kell tekinteni, amelynek taglétszáma eléri a szervezeti egység, országosan pedig a fegyveres szerv hivatásos állományának 10%-át. Ha a szervezeti egységnél csak egy szakszervezet működik, azt taglétszámától függetlenül reprezentatívnak kell tekinteni.
+- a) szolgálati viszonyban álló taggal szemben
+  - aa) fegyelmi eljárást kezdeményez a fegyelmi jogkör gyakorlójánál,
+  - ab) javaslatot tesz az állományilletékes parancsnoknak a kifogástalan életvitel ellenőrzésének kezdeményezésére, vagy
+  - ac) megszünteti az etikai eljárást,
+- b) közalkalmazotti jogviszonyban álló taggal szemben az a) pont aa) vagy ac) alpontjában foglaltakat alkalmazhatja.
 
-(3) A reprezentatívnak nem minősülő szakszervezetet is megilleti a 31. § szerinti kifogás joga, ha a munkáltatói jogkört gyakorló elöljáró intézkedése jogszabályban foglalt rendelkezést sért.
+### A Közgyűlés tagjainak megválasztása
 
-34/A. § (1) Az Országos Közszolgálati Érdekegyeztető Tanács (a továbbiakban: OKÉT) az e törvény, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény és a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény által szabályozott jogviszonyokat együttesen érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű érdekegyeztetési fóruma.
+30. § (1) Az MRK Közgyűlésének tagjait a fegyveres szervek hivatásos állományának tagjai és közalkalmazottai közül választják meg, öt évre, titkos szavazással a Választási Szabályzat szerint. Nem jelölhető közgyűlési tagnak az, aki a választás kitűzésének időpontjában fegyelmi büntetés hatálya alatt áll. A Közgyűlés tagja ellen indított fegyelmi eljárás alatt a tagsági viszony szünetel.
 
-(2) Az OKÉT-ban a Kormány – az alapszabályban meghatározott – országos szakszervezeti szövetségek és országos önkormányzati érdekképviseleti szervezetek képviselőivel egyeztet.
+(2) A Közgyűlés tagozatonként tíz, összesen ötven tagból áll.
 
-(3) Az OKÉT az alapszabályában maga határozza meg a szervezetét, a működésének rendjét, az egyeztetés célját és tárgyköreit, valamint a szociális partnereket megillető jogosítványokat.
+### Tagsági viszony és az MRK tagjainak nyilvántartása
 
-(4) Az OKÉT működésének feltételeit a Kormány a foglalkoztatáspolitikáért felelős miniszter útján biztosítja.
+30/A. § (1) A fegyveres szerv hivatásos állományának tagja és közalkalmazottja az MRK tagja.
 
-34/B. § (1) A Rendvédelmi Szervek Érdekvédelmi Fóruma (a továbbiakban: RÉF) az e törvény által szabályozott jogviszonyban állókat együttesen érintő munkaügyi, foglalkoztatási, bér-, jövedelempolitikai és a rendvédelmet érintő egészségügyi kérdések országos szintű, ágazatközi érdekegyeztetési fóruma.
+(2) A fegyveres szerv 15 napon belül írásban tájékoztatja az Irodát – polgári nemzetbiztonsági szolgálat esetén a polgári nemzetbiztonsági szolgálat szerinti tagozatot – a szolgálati viszony vagy a közalkalmazotti jogviszony létesítéséről, illetve megszűnéséről. Szolgálati viszony vagy közalkalmazotti jogviszony létesítése esetén az Iroda – polgári nemzetbiztonsági szolgálat hivatásos állománya tekintetében a polgári nemzetbiztonsági szolgálat szerinti tagozat – a tagot nyilvántartásba veszi és a tagságról igazolást állít ki.
 
-(2) A RÉF-ben a Kormány – az alapszabályban meghatározott – a hivatásos állomány képviseletét ellátó országosan reprezentatív szakszervezetekkel, a polgári nemzetbiztonsági szolgálatok érdekképviseleti szerveivel egyeztet.
+(3) Megszűnik a tagsági viszony a szolgálati viszony vagy a közalkalmazotti jogviszony megszűnésével. Az Iroda – polgári nemzetbiztonsági szolgálat hivatásos állománya tekintetében a polgári nemzetbiztonsági szolgálat szerinti tagozat – az MRK tagját szolgálati viszonya vagy közalkalmazotti jogviszonya megszűnése esetén a nyilvántartásból törli.
 
-(3) A RÉF az alapszabályában maga határozza meg a szervezetét, a működésének rendjét, az egyeztetés célját és tárgyköreit, valamint a szociális partnereket megillető jogosítványokat.
+(4) Az MRK tagság nem zár ki más kamarai tagsági viszonyt.
 
-(4) A RÉF működésének feltételeit a Kormány a rendészetért felelős miniszter útján biztosítja.
+(5) Az MRK tagja – a (6) bekezdésben meghatározott kivétellel – az Alapszabályban meghatározottak szerint
 
-35. § (1) A szolgálati viszonyt érintő ágazati jelentőségű kérdésekben a miniszter – az országos parancsnok részvételével – az Ágazati Érdekegyeztető Fórummal (a továbbiakban: Érdekegyeztető Fórum) egyeztet. Az Érdekegyeztető Fórumban minden, a 34. § (2) bekezdése szerinti taglétszámot országosan elérő érdekképviseleti szerv képviseltetheti magát. Az Érdekegyeztető Fórum véleményezési, javaslattételi jogkörrel rendelkezik.
+- a) a Közgyűlés tagjának, tisztségviselőjének megválasztható,
+- b) az MRK rendezvényein, valamint a tagozat munkájában részt vehet, és
+- c) az MRK tagjai részére nyújtott szolgáltatásokat igénybe veheti.
 
-(2) Az Érdekegyeztető Fórum testületként működik, működési rendjét maga állapítja meg.
+(6) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja az (5) bekezdés a) és b) pontjában meghatározott jogokat kizárólag a főigazgató engedélyével gyakorolhatja.
 
-(3)
+(7) Az MRK tagja köteles az MRK működésére vonatkozó szabályokat megtartani.
+
+30/B. § (1) Az Iroda – a polgári nemzetbiztonsági szolgálatok hivatásos állománya tekintetében a polgári nemzetbiztonsági szolgálatok szerinti tagozat – az MRK tagjáról a tagság igazolása céljából és a tagjai számára nyújtott kedvezményes szolgáltatások igénybevételi lehetőségének biztosítása céljából a következő adatokat tartja nyilván:
+
+- a) a tag neve, születési helye, ideje, anyja neve, lakóhelye, tartózkodási helye,
+- b) a foglalkoztatási jogviszony jellegének megjelölése, továbbá hivatásos állomány esetében a tag rendfokozata, valamint
+- c) a foglalkoztató szerv megnevezése, a szolgálatteljesítés vagy munkavégzés helye.
+
+(2) A nyilvántartásból – ha törvény eltérően nem rendelkezik – adatszolgáltatás csak a tag részére, saját adatairól teljesíthető.
+
+(3) A miniszter a rendőrséggel szolgálati viszonyban álló fedett nyomozók, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állománya tagjai adatainak a szolgálati feladatok ellátása érdekében szükséges védelme céljából a nyilvántartásra, és a nyilvántartott adatok kezelésére vonatkozó szabályokat határozhat meg normatív utasításában.
+
+### Az MRK tisztségviselőire, valamint ügyintézői testületei nem tisztségviselő tagjaira vonatkozó közös szabályok
+
+30/C. § (1) Az MRK tisztségviselője legalább ötéves rendészeti vagy közigazgatási gyakorlattal rendelkező hivatásos állományú tag vagy közalkalmazott lehet. Az MRK tagja azonos tisztségre legfeljebb két egymást követő alkalommal választható meg.
+
+(2) A tisztségviselő megbízatása megszűnik
+
+- a) az MRK tagsági viszony megszűnésével,
+- b) lemondással,
+- c) összeférhetetlenség kimondásával,
+- d) a megválasztásakor meghatározott időtartam lejártával,
+- e) az Alapszabályban meghatározott más okból.
+
+(3) Az MRK tisztségviselője, az ügyintézői testületek nem tisztségviselő tagja nem lehet
+
+- a) politikai párt tagja,
+- b) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti állami vezető,
+- c) aki más kamara tagja.
+
+(4) Az Elnökség, a PEB és az EB tagjai nem lehetnek egymás hozzátartozói. Ugyanabban a testületben nem lehetnek tagok, akik beosztás szerint egymás alá-fölérendeltjei.
+
+(5) Az összeférhetetlenségi okot a megválasztáskor, illetve ha az ok később keletkezett, az ok bekövetkezésétől számított 15 napon belül be kell jelenteni és azt a megválasztástól, illetve a bejelentéstől számított 15 napon belül meg kell szüntetni és erről a választására jogosult testületet haladéktalanul tájékoztatni kell. Amennyiben az MRK tagja az összeférhetetlenséget nem szünteti meg, úgy ellátott tisztsége, illetve ügyintézői testületi tagsága megszűnik.
+
+### Az MRK és állami szervek kapcsolata
+
+31. § (1) Az MRK a feladat- és hatáskörét érintő bármely kérdésben az adott kérdésben hatáskörrel rendelkező állami szerv vezetőjéhez fordulhat, és
+
+- a) tájékoztatást, adatot, szakmai és jogértelmezési kérdésben állásfoglalást (a továbbiakban együtt: tájékoztatás) kérhet,
+- b) javaslatot tehet, intézkedés megtételét kezdeményezheti,
+- c) az általa irányított szerv működésével, illetve az általa kibocsátott jogszabállyal, közjogi szervezetszabályozó eszközzel és egyéb – az MRK tagjainak csoportját érintő – döntésével kapcsolatban véleményt nyilváníthat, kezdeményezheti annak megváltoztatását vagy visszavonását.
+
+(2) A megkeresett szerv a megkeresésre 30 napon belül köteles érdemben válaszolni. Ha a tájékoztatás, illetve a válaszadás vagy az intézkedés nem a megkeresett szerv hatáskörébe tartozik, az köteles a megkeresést három napon belül áttenni a hatáskörrel rendelkező szervhez, és erről a jog gyakorlóját egyidejűleg tájékoztatni.
+
+(3) Az MRK felett a törvényességi ellenőrzést az ügyészség gyakorolja. A törvényességi ellenőrzés nem terjed ki az olyan ügyekre, amelyekben munkaügyi vitának, illetve egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+
+(4) A törvényességi ellenőrzést gyakorló ügyészség ellenőrzi, hogy az MRK
+
+- a) Alapszabálya és más önkormányzati szabályzata, illetve azok módosítása megfelel-e a jogszabályoknak,
+- b) működése, határozatai nem sértik-e a jogszabályokat, az Alapszabályt vagy az egyéb önkormányzati szabályzatokat.
+
+(5) Ha az MRK működésének törvényessége másképpen nem biztosítható, az ügyész törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
+
+- a) megsemmisíti az MRK törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el,
+- b) a működés törvényességének helyreállítása érdekében összehívja a Közgyűlést, vagy
+- c) ismételt vagy súlyos törvénysértés esetén az MRK egyes szerveinek működését felfüggeszti.
+
+(6) Az ügyészég és a bíróság az (5) bekezdés szerinti jogsértés megállapításával és intézkedések megtételével egyidejűleg értesíti a rendészetért felelős minisztert.
+
+### A rendvédelmi érdekegyeztetés fórumai
+
+32. § (1) A fegyveres szervvel fennálló szolgálati viszonyt vagy közalkalmazotti jogviszonyt érintő ágazati jelentőségű kérdésekben a személyi állomány érdekeinek egyeztetése, a vitás kérdések tárgyalásos rendezése, valamint a megfelelő megállapodások kialakítása céljából a miniszter az ágazati érdekvédelmi tanáccsal egyeztet. Az ágazati érdekvédelmi tanács a miniszter, az országos parancsnok, valamint az MRK képviseletében eljáró konzultatív tanács részvételével működik. A konzultatív tanáccsal való együttműködésről a fegyveres szerveket irányító miniszterek és az MRK együttműködési megállapodást kötnek. A konzultatív tanácsba a miniszter meghívhatja a Magyar Kormánytisztviselői Kar képviselőjét a fegyveres szervekkel vagy a Bevándorlási és Állampolgársági Hivatallal kormányzati szolgálati jogviszonyban állók érdekeinek egyeztetése céljából.
+
+(2) Az ágazati érdekvédelmi tanácsot legalább félévente egy alkalommal kell összehívni.
+
+(3) Az ágazati érdekvédelmi tanács hatáskörébe az adott ágazatban foglalkoztatott hivatásos állomány tagjainak és közalkalmazottainak élet- és munkakörülményeire, foglalkoztatási feltételeire vonatkozó tárgykörök, továbbá mindazok a tárgykörök, amelyek e törvény alapján az MRK feladatkörébe tartoznak.
+
+(4) Az ágazati érdekvédelmi tanács tájékoztatáskérésre, illetve javaslattételre jogosult a (3) bekezdés szerinti hatáskörébe tartozó egyéb ügyekkel kapcsolatban.
+
+(5) Az ágazati érdekvédelmi tanács szervezetének és működésének szabályait a Kormány nevében eljáró rendészetért felelős miniszter és az érdekegyeztetésben részt vevő felek közötti megállapodás tartalmazza. Titkársági feladatait a rendészetért felelős miniszter által vezetett minisztérium látja el.
+
+(6) Az ágazati érdekvédelmi tanácsra vonatkozó rendelkezések nem zárják ki alacsonyabb szinten érdekegyeztető fórum alapítását.
+
+### IV/A. Fejezet — A SZAKSZERVEZET
+
+33. § (1) Az e törvényben a szakszervezet számára biztosított jogok a fegyveres szervnél képviselettel rendelkező szakszervezetet illetik meg.
+
+(2) E törvény alkalmazásában
+
+- a) szakszervezet olyan érdekképviseleti szerv, amelynek elsődleges célja a hivatásos állomány tagjai szolgálati viszonyával kapcsolatos érdekeinek előmozdítása és megvédése,
+- b) a fegyveres szervnél képviselettel rendelkező szakszervezet, amelyik alapszabálya szerint a fegyveres szervnél képviseletére jogosult szervet működtet vagy tisztségviselővel rendelkezik. 33/A. § (1) A hivatásos állomány tagjai jogosultak a fegyveres szervnél szakszervezet létrehozására. A szakszervezet a fegyveres szervnél szerveket működtethet, ezek működésébe tagjait bevonhatja.
+
+(2) A fegyveres szerv, illetve a szakszervezet köteles egymást írásban tájékoztatni a képviseletére jogosult, valamint a tisztségviselő személyéről.
+
+33/B. § (1) E Fejezet alkalmazásában tájékoztatás a szolgálati viszonnyal összefüggő információ átadása, ennek megismerését, megvizsgálását és az ezzel kapcsolatos vélemény kialakítását és képviseletét lehetővé tévő módon.
+
+(2) A fegyveres szerv nem köteles tájékoztatást adni, ha ez olyan tény, információ, megoldás vagy adat nyilvánosságra kerülésével járhat, amely a rendvédelmi érdekeket vagy a fegyveres szerv jogos érdekeit, illetve működését veszélyeztetné.
+
+(3) A szakszervezet nevében vagy érdekében eljáró személy olyan tényt, információt, megoldást vagy adatot, amelyet a fegyveres szerv jogos érdekei, illetve működése, valamint a közszolgálat érdekei védelmében kifejezetten bizalmasan vagy minősített adatként való kezelésre történő utalással hozott tudomására, semmilyen módon nem hozhatja nyilvánosságra és azt az e törvényben meghatározott célok elérésén kívüli tevékenységben semmilyen módon nem használhatja fel.
+
+(4) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak a fegyveres szerv jogos érdekeinek, valamint a rendvédelmi érdekeknek a veszélyeztetése, illetve a személyhez fűződő jogok megsértése nélkül hozhatja nyilvánosságra.
+
+33/C. § (1) A fegyveres szerv nem követelheti meg, hogy a hivatásos állomány tagja szakszervezethez való tartozásáról nyilatkozzék.
+
+(2) A szolgálati viszony létesítését, illetve fenntartását nem lehet attól függővé tenni, hogy a jelentkező vagy a hivatásos állomány tagja valamely szakszervezetnek tagja-e, illetve megszünteti-e korábbi szakszervezeti tagságát vagy vállalja-e a fegyveres szerv által megjelölt szakszervezetbe történő belépést.
+
+(3) Szakszervezethez való tartozása vagy szakszervezeti tevékenysége miatt tilos a hivatásos állomány tagjának szolgálati viszonyát megszüntetni vagy vele szemben bármilyen megkülönböztetést alkalmazni.
+
+(4) Nem lehet jogosultságot vagy juttatást valamely szakszervezethez való tartozástól vagy az attól való távolmaradástól függővé tenni.
+
+(5) A fegyveres szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a fegyveres szerv a hivatásos állomány tagjának illetményéből a szakszervezeti tagdíjat a fegyveres szerv és a hivatásos állomány tagjának erre vonatkozó megállapodása esetén vonja le. A fegyveres szerv szakszervezeti tagdíj levonásáért és a szakszervezet részére történő átutalásáért ellenértéket nem követelhet.
+
+### Szakszervezeti érdekegyeztetés a fegyveres szervvel
+
+34/A. § (1) A fegyveres szervnél a szolgálati viszonnyal összefüggő érdekegyeztetésben a fegyveres szerv kijelölt képviselője és a szakszervezet választott tisztségviselője vesz részt. A tárgyalópartnerek a vitás kérdések egyeztetésébe szakértőket is bevonhatnak. Az állományilletékes parancsnok a szakszervezet által tett észrevételekre, javaslatokra tett álláspontját, illetve a tájékoztatásra adott válaszát legkésőbb 30 napon belül, indokolásával együtt közölni köteles.
+
+(2) A szakszervezet a fegyveres szervtől a hivatásos állomány tagjainak szolgálati viszonnyal összefüggő gazdasági és szociális érdekeivel kapcsolatban tájékoztatást kérhet.
+
+(3) A szakszervezet jogosult a hivatásos állomány tagját érintő munkáltatói intézkedéssel (döntéssel) vagy annak tervezetével kapcsolatos véleményét a fegyveres szervvel közölni.
+
+(4) A szakszervezet jogosult a hivatásos állomány tagjait az érdekegyeztetéssel és a szolgálati viszonnyal összefüggő kérdésekben tájékoztatni.
+
+(5) A fegyveres szerv – a szakszervezettel egyeztetve – biztosítja annak lehetőségét, hogy a szakszervezet a tevékenységével kapcsolatos tájékoztatást a fegyveres szervnél a szolgálati helyen szokásos vagy más megfelelő módon közzétegye.
+
+(6) A szakszervezet joga, hogy a hivatásos állomány tagjait a fegyveres szervvel vagy annak érdekképviseleti szervezetével szemben a szolgálati viszonyt érintő körben, anyagi, szociális, valamint élet- és munkakörülményeiket érintő jogaikkal és kötelezettségeikkel kapcsolatban képviselje.
+
+(7) A szakszervezet jogosult a tagját – meghatalmazás alapján – szolgálati viszonyát érintő ügyben, valamint gazdasági- és szociális érdekeinek védelme céljából bíróság, hatóság és egyéb szervek előtt képviselni.
+
+34/B. § (1) A közvetlen felsőbb szakszervezeti szerv egyetértése szükséges a szakszervezetnél választott tisztséget betöltő és a szakszervezet által megjelölt hivatásos állományú tag 15 munkanapot elérő vezényléséhez és a szolgálatteljesítési helyének megváltoztatásához, továbbá szolgálati viszonyának a fegyveres szerv által felmentéssel történő megszüntetéséhez kivéve, ha a felmentés az 56. § (2) bekezdése alapján kötelező. Az 56. § (2) bekezdés szerinti felmentésről a közvetlen felsőbb szakszervezeti szervet előzetesen értesíteni kell.
+
+(2) Az (1) bekezdésben foglaltak alkalmazása során a szakszervezet állományilletékes parancsnok által vezetett, önálló állománytáblával rendelkező szervenként a hivatásos állomány legfeljebb egy tagját jogosult megjelölni.
+
+(3) A szakszervezet az (1) bekezdés szerinti védelemre jogosult hivatásos állományú tag helyett másikat akkor jelölhet meg, ha a védelemre jogosult szolgálati viszonya vagy tisztsége megszűnt.
+
+(4) A szakszervezet az (1) bekezdés szerinti munkáltatói intézkedéssel kapcsolatos álláspontját a fegyveres szerv írásbeli tájékoztatásának átvételétől számított 8 napon belül írásban közli. Ha a tervezett intézkedéssel a szakszervezet nem ért egyet, a tájékoztatásnak az egyet nem értés indokait tartalmaznia kell. Az indokolás akkor alapos, ha a tervezett intézkedés végrehajtása a szakszervezet érdek-képviseleti tevékenységében történő közreműködés miatti hátrányos megkülönböztetést eredményezne. Ha a szakszervezet véleményét a fenti határidőn belül nem közli a fegyveres szervvel, úgy kell tekinteni, hogy a tervezett intézkedéssel egyetért.
+
+(5) A szakszervezet az egyetértés gyakorlására jogosult szervről a védelemre jogosult hivatásos állományú tag megjelölésével egyidejűleg tájékoztatja a fegyveres szervet.
+
+34/C. § (1) Feladata ellátása érdekében a fegyveres szerv hivatásos állománya legalább 10%-ának – de legalább 30 főnek – a tagságával rendelkező szakszervezetnél választott tisztséget betöltő és a szakszervezet által a hivatásos állomány 34/B. § (2) bekezdése szerint védelemre jelölt tagját a szolgálati beosztás szerinti havi szolgálatteljesítési ideje tíz százalékának megfelelő szolgálatteljesítési idő kedvezmény illeti meg. A szolgálatteljesítési idő kedvezmény nem vonható össze. A szolgálatteljesítési idő kedvezmény igénybevételét legalább tíz nappal korábban be kell jelenteni. Ha a kedvezmény igénybevételét megalapozó indok a hivatásos állomány tagja önhibáján kívüli okból ennél később jut a tudomására, a tudomásszerzést követően köteles haladéktalanul bejelenteni a szolgálatteljesítési idő kedvezmény igénybevételére vonatkozó szándékát. A fegyveres szerv különösen indokolt esetben tagadhatja meg a szolgálatteljesítési idő kedvezmény igénybevételét.
+
+(2) A szolgálatteljesítési idő kedvezmény tartamára távolléti díj jár. A szolgálatteljesítési idő kedvezményt pénzben megváltani nem lehet.
+
+(3) A szakszervezet képviseletében eljáró, szolgálati viszonyban nem álló személy, ha a szakszervezetnek a fegyveres szervvel szolgálati viszonyban álló tagja van, a fegyveres szerv területére hivatali időben beléphet. A belépés és a fegyveres szerv területén tartózkodás során a szakszervezet képviseletében eljáró köteles betartani a fegyveres szerv működési rendjére vonatkozó szabályokat.
+
+35. § Az Országos Közszolgálati Érdekegyeztető Tanács a szolgálati viszonyban állók érdekegyeztető fóruma is.
 
 ### V. Fejezet — A SZOLGÁLATI VISZONY LÉTESÍTÉSE
 
@@ -348,7 +525,7 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 (3) Jogszabályban meghatározott rész munkáltatói jogokat az állományilletékes parancsnok alárendeltségébe tartozó parancsnok, kiemelt munkáltatói jogokat a törvény 2. számú melléklete alapján az országos parancsnok, a bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv vezetője, valamint a miniszter gyakorol.
 
-(4) Az országos parancsnok (3) bekezdésben biztosított jogköre nem alkalmazható a hivatásos önkormányzati tűzoltóság állományába tartozó zászlós és tiszthelyettes esetében. A 2. számú mellékletben meghatározott kiemelt munkáltatói jogkört – a miniszternek biztosított jogkörök kivételével – zászlós, tiszthelyettes esetében a hivatásos önkormányzati tűzoltóparancsnok, mint állományilletékes parancsnok és – e törvény rendelkezései szerint – az önkormányzat képviselő-testülete, a Főváros esetén a közgyűlés gyakorolja.
+(4)
 
 ### A szolgálati viszony létesítésének feltételei
 
@@ -370,7 +547,7 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 (6) A fegyveres szerv az (1) és (5) bekezdésben meghatározott adatokat, illetve a feltételeknek való megfelelést a szolgálati viszony fennállása alatt ellenőrizheti.
 
-(7) Amennyiben a hivatásos szolgálati jogviszony áthelyezés alapján olyan személlyel létesül, akinek korábbi szolgálati jogviszonya áthelyezés folytán közszolgálati, közalkalmazotti jogviszonyra változott, a 41. § szerinti próbaidőre, a 45. § szerinti pályázatra vonatkozó rendelkezések nem alkalmazhatók, a jogviszony létesítésére az 52. § első mondatában meghatározott életév betöltéséig kerülhet sor, továbbá ez esetben a 64. § (5) bekezdése alkalmazandó.
+(7) Amennyiben a hivatásos szolgálati jogviszony áthelyezés alapján olyan személlyel létesül, akinek korábbi szolgálati jogviszonya áthelyezés folytán kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyra változott, a 41. § szerinti próbaidőre, a 45. § szerinti pályázatra vonatkozó rendelkezések nem alkalmazhatók, a jogviszony létesítésére az 52. § első mondatában meghatározott életév betöltéséig kerülhet sor, továbbá ez esetben a 64. § (5) bekezdése alkalmazandó.
 
 (8) Az (1) bekezdés d) pontjában meghatározott megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.
 
@@ -393,17 +570,20 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 (2) A cc)–cg) és az e) pontban foglalt kizáró októl a munkáltató eltekinthet, ha az eljárásra kizárólag katonai bűncselekmény miatt került sor.
 
-37/B. § (1) Hivatásos szolgálati viszony a 37. § (1) bekezdésében meghatározott feltételeken túl akkor létesíthető vagy tartható fenn, ha a hivatásos állomány tagja vagy a jelentkező
+37/B. § (1) Hivatásos szolgálati viszony a 37. § (1) bekezdésében meghatározott feltételeken túl akkor létesíthető vagy az 56. § (6) és (7) bekezdésében meghatározottakra figyelemmel tartható fenn, ha a hivatásos állomány tagja vagy a jelentkező
 
 - a) életvitele kifogástalan, és
 - b) írásban hozzájárul
   - ba) a 7. számú mellékletben meghatározott személyes adatai és bűnügyi személyes adatai kezeléséhez,
   - bb) életvitele kifogástalanságának ellenőrzése érdekében a felvételét megelőzően és a szolgálati viszony tartama alatt a (2) bekezdésben meghatározottak ellenőrzéséhez.
 
-(2) Az életvitel kifogástalan, ha a hivatásos állomány tagja vagy a jelentkező
+(2) Az életvitel nem kifogástalan, ha
 
-- a) esetében nem állnak fenn – a hivatásos állomány tagja esetében a folyamatban lévő büntetőeljárás kivételével – a 37/A. § (1) bekezdésében meghatározottak, és
-- b) megfelel – különös tekintettel a szolgálaton kívüli magatartására, családi és lakókörnyezeti kapcsolataira, anyagi, jövedelmi viszonyaira, valamint a bűncselekményt elkövető vagy azzal gyanúsítható személyekkel fenntartott kapcsolatára – a szolgálat törvényes, befolyástól mentes ellátására.
+- a) a jelentkező esetében fennállnak a 37/A. § (1) bekezdésében meghatározottak,
+- b) a hivatásos állomány tagjával szemben bűncselekmény elkövetése miatt a bíróság jogerősen szabadságvesztés vagy közérdekű munka büntetést szabott ki, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelte el, vagy
+- c) a jelentkező vagy a hivatásos állomány tagja nem felel meg – különös tekintettel a szolgálaton kívüli magatartására, családi és lakókörnyezeti kapcsolataira, anyagi, jövedelmi viszonyaira, valamint a bűncselekményt elkövető vagy azzal gyanúsítható személyekkel fenntartott kapcsolatára – a szolgálat törvényes, befolyástól mentes ellátásának.
+
+(2a) A kifogástalan életvitel ellenőrzésének lefolytatásához a 10. számú melléklet szerinti adatlapot kell kitölteni.
 
 (3) A (2) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi. A nemzetbiztonsági szolgálatok a saját munkatársaikra vonatkozóan végzett külön törvény szerinti biztonsági ellenőrzés alkalmával adatszolgáltatás végett e szervet megkeresik. A megkeresett szerv a biztonsági ellenőrzéssel érintett körben adatszolgáltatásra köteles.
 
@@ -414,7 +594,9 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 (5) A hivatásos állomány tagjának vagy a jelentkezőnek a kifogástalan életvitel ellenőrzéséhez csatolni kell a vele közös háztartásban élő hozzátartozójának nyilatkozatát, amelynek szövegét a törvény 8. számú melléklete tartalmazza.
 
-37/C. § (1) A hivatásos állomány tagját az ellenőrzés megkezdéséről, befejezéséről tájékoztatni nem kell, az elvégzett vizsgálat eredményét közölni kell vele. Ha nem létesül szolgálati viszony, vagy a szolgálati viszony fennállása alatti ellenőrzés jogsértést, vagy kifogásolható életvitelt nem állapít meg, a keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozat kivételével – az ellenőrzés befejezésétől számított 8 napon belül meg kell semmisíteni.
+(6) A hivatásos állomány 2010. december 31-én állományban lévő tagjának a kifogástalan életvitel ellenőrzéséhez az írásbeli hozzájárulását – amennyiben még nem adta meg – a 9. számú melléklet szerinti nyilatkozattal 2012. február 28-ig kell megtennie, amennyiben e kötelezettségének nem tesz eleget, a szolgálati viszonyát felmentéssel, hivatásos szolgálatra alkalmatlanság miatt meg kell szüntetni.
+
+37/C. § (1) A hivatásos állomány tagját az ellenőrzés megkezdéséről, befejezéséről tájékoztatni nem kell, az elvégzett vizsgálat eredményét közölni kell vele. Ha nem létesül szolgálati viszony, vagy a szolgálati viszony fennállása alatti ellenőrzés jogsértést, vagy kifogásolható életvitelt nem állapít meg, a keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozat kivételével – az ellenőrzés befejezésétől számított 8 napon belül meg kell semmisíteni. Ha a hivatásos állomány tagjának szolgálati viszonyát az 56. § (2) bekezdés b) pont ba) alpontja alapján felmentéssel megszüntetik, a keletkezett iratok, adatok – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozat kivételével – a szolgálati viszony megszűnését követő 5. év december 31-ig kezelhetők.
 
 (2) A szolgálati viszony fennállása alatt a kifogástalan életvitel ellenőrzését a miniszter által meghatározott gyakorisággal – legfeljebb azonban évente – kell végrehajtani. Soron kívüli ellenőrzésre akkor kell intézkedni, ha a kifogástalan életvitel ellenőrzésének kezdeményezésére jogosult tudomására jutott adatokból kifogásolható életvitelre lehet következtetni.
 
@@ -422,15 +604,15 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 38. § (1) A hivatásos állomány létszámát – a 37. § (1) bekezdésében, valamint a 37/A. § (1) bekezdésében előírt feltételek megléte esetén – a katonai és rendvédelmi oktatási intézményekben végzett (szakképesítést szerzett) hallgatók hivatásos állománybavételével, a polgári oktatási intézményekben végzett személyek (szakképesítéssel rendelkezők), valamint a szerződéses állományból hivatásos állományba átvett személyek felvételével kell biztosítani.
 
-(2) A katonai és rendvédelmi felsőoktatási intézmények hallgatóinak jogviszonyáról külön törvények rendelkeznek.
+(2) A rendészeti képzést folytató felsőoktatási intézmény hallgatóinak jogviszonyáról külön törvények rendelkeznek.
 
 ### A szolgálati viszony létesítése
 
-39. § (1) A szolgálati viszony a hivatásos állományba való felvétellel és annak elfogadásával határozatlan időre létesül. A hivatásos állományba kinevezett személy esküt, illetve fogadalmat tesz, melyeknek szövegét a törvény 3. számú melléklete tartalmazza.
+39. § (1) A szolgálati viszony a hivatásos állományba való felvétellel és annak elfogadásával határozatlan időre létesül. A hivatásos állományba kinevezett személy esküt tesz, melyeknek szövegét a törvény 3. számú melléklete tartalmazza.
 
 (2) A hivatásos állományba való felvétellel egyidejűleg a befejezett tanulmányainak megfelelően a hivatásos állomány pályakezdő tagját hadnaggyá, zászlóssá vagy őrmesterré kell kinevezni. A tanulmányait kiváló eredménnyel végzett pályakezdőt eggyel magasabb rendfokozatba kell kinevezni.
 
-(3) A hivatásos állománybavételről készült kinevezési okmánynak tartalmaznia kell a szolgálati viszonyra vonatkozó minden lényeges adatot, így különösen a szolgálati viszony kezdetét, a hivatásos állomány tagjának szolgálati beosztását és helyét, rendfokozatát, a besorolási osztályon belüli beosztási kategóriáját, fizetési fokozatát, az eskü, illetve fogadalom letételét és időpontját, továbbá – próbaidő kikötésénél – a próbaidő tartamát és a véglegesítéshez szükséges iskolai végzettség (szakképesítés) megszerzését. A kinevezési okmány egy példányát a hivatásos állomány tagjának át kell adni.
+(3) A hivatásos állománybavételről készült kinevezési okmánynak tartalmaznia kell a szolgálati viszonyra vonatkozó minden lényeges adatot, így különösen a szolgálati viszony kezdetét, a hivatásos állomány tagjának szolgálati beosztását és helyét, rendfokozatát, a besorolási osztályon belüli beosztási kategóriáját, fizetési fokozatát, az eskü letételét és időpontját, továbbá – próbaidő kikötésénél – a próbaidő tartamát és a véglegesítéshez szükséges iskolai végzettség (szakképesítés) megszerzését. A kinevezési okmány egy példányát a hivatásos állomány tagjának át kell adni.
 
 40. § (1) A nem katonai vagy rendvédelmi oktatási intézményből hivatásos állományba felvett személy rendfokozatát és besorolását beosztásának, életkorának és iskolai végzettségének (szakképesítésének) figyelembevételével kell megállapítani. E rendfokozata és besorolása azonban nem haladhatja meg a vele egykorú és azonos beosztású, de a fegyveres szerv oktatási intézményének elvégzésétől folyamatosan hivatásos szolgálatot teljesítők soron történt előléptetéssel elért rendfokozatát és besorolását.
 
@@ -461,18 +643,18 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 - e) a honvédelmi és rendvédelmi célú tevékenységet folytató vagy egyéb biztonsági érdeket szolgáló gazdálkodó szervnél,
 - f) az egészségügyi intézménynél,
 - g) a szövetséges fegyveres erőknél,
-- h) polgári védelmi feladatok ellátása céljából az Országos Igazságszolgáltatási Tanács Hivatalánál,
-- i) az ügyészségnél,
+- h) polgári védelmi feladatok ellátása céljából a bíróságok igazgatási feladatait ellátó szervezeténél,
+- i) az ügyészi szervezetnél,
 - j) a szervezett bűnözés elleni fellépés céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjáért felelős szervnél,
 - k) az Európai Unió intézményeiben nemzeti szakértőként, az Európai Unió vagy a NATO szervezeteinél nemzetközi együttműködés keretében vállalt misszió tagjaként, illetve amennyiben az a szolgálat érdekével egybe esik, egyéb nemzetközi szervezetben,
-- l) a Magyar Köztársaság külpolitikai, gazdasági vagy kulturális érdekeinek képviseletére külföldön létrehozott szervezetnél összekötőként vagy a diplomáciai szolgálat tagjaként,
+- l) Magyarország külpolitikai, gazdasági vagy kulturális érdekeinek képviseletére külföldön létrehozott szervezetnél összekötőként vagy a diplomáciai szolgálat tagjaként,
 - m) rendészeti adatfeldolgozást végző szervnél (a továbbiakban együtt: más szerv).
 
 43. § (1) A hivatásos állomány tagja beleegyezésével, határozott vagy határozatlan időre – a 43/A. §-ban foglalt kivétellel – a fegyveres szerven kívül a Miniszterelnökségnél, valamint a miniszter irányítása, felügyelete alá tartozó, valamint költségvetési jogállása alapján irányítása, felügyelete alatt álló szervnél berendeléssel, egyéb más szervnél az érintett miniszterek és a fegyveres szerv megállapodása alapján vezényléssel teljesíthet szolgálatot. A határozott idejű berendelés, vezénylés az érintett beleegyezésével meghosszabbítható.
 
 (2) A hivatásos állomány más szervhez vezényelt tagja a más szerv illetékes vezetőjének rendelkezései szerint teljesíti szolgálatát. Tevékenységére, munkarendjére, illetményére és illetményjellegű juttatásaira, pihenőidejére, a kártérítésre, a más szervnél rendszeresített címek és egyéb elismerések elnyerésére, illetve viselésére a más szerv munkavállalóira vonatkozó szabályok az irányadók azzal, hogy számára a rendfokozati illetménynek megfelelő mértékű pótlékot, betegség esetén távolléti díjat és az e törvény szerinti jubileumi jutalmat kell fizetni. A vezénylés időtartama alatt a rendfokozatot és a szolgálati viszonyt érintő munkáltatói jogokat a miniszter, az egyéb munkáltatói jogokat a vezénylés helye szerinti szerv állományilletékes parancsnoka (vezetője) gyakorolja.
 
-(3) A hivatásos állomány más szervhez vezényelt tagjának előléptetése, kitüntetése, fegyelmi felelősségre vonása, szolgálati vagy rokkantsági nyugállományba helyezése – a más szerv vezetőjének javaslatára, illetve egyetértésével –, továbbá ruházati ellátmányának és a (2) bekezdésben nem említett járandóságainak biztosítása az eredeti fegyveres szervnél szolgálatot teljesítő hivatásos állományúakra vonatkozó szabályok szerint történik.
+(3) A hivatásos állomány más szervhez vezényelt tagjának előléptetése, kitüntetése, fegyelmi felelősségre vonása, nyugállományba helyezése – a más szerv vezetőjének javaslatára, illetve egyetértésével –, továbbá ruházati ellátmányának és a (2) bekezdésben nem említett járandóságainak biztosítása az eredeti fegyveres szervnél szolgálatot teljesítő hivatásos állományúakra vonatkozó szabályok szerint történik.
 
 (4) A más szervnél teljesített szolgálat megszüntetésére az (1) bekezdés szerinti megállapodásban foglaltak alapján, illetve a más szerv vezetőjének kezdeményezésére, valamint a hivatásos állomány tagjának méltányolható kérelme alapján kerülhet sor. A vezénylés megszüntetése esetén a hivatásos állomány tagja részére a fegyveres szerv valamely szervezeti egységénél a végzettségének, képzettségének megfelelő, de legalább a vezénylést megelőző beosztásával azonos szolgálati beosztást kell biztosítani. Amennyiben a hivatásos állomány tagjának ilyen beosztás nem biztosítható – de a vezénylés megszüntetésétől számított egy éven belül ez lehetővé válhat – egyetértésével rendelkezési állományba helyezhető. Ebben az esetben az érintettet a vezénylést megelőző szolgálati beosztásának megfelelően kell besorolni és részére az adott beosztásból eredő korábbi pótlékok nélküli illetményt kell folyósítani.
 
@@ -480,7 +662,7 @@ A Magyar Köztársaság függetlenségének, alkotmányos rendjének, valamint a
 
 (6) Az (5) bekezdéstől eltérően nem felmentéssel kell megszüntetni a szolgálati jogviszonyt, hanem a szolgálati viszonyról történő lemondásnak kell tekinteni, ha a hivatásos állomány tagja a (4) bekezdés szerinti beosztást nem fogadja el, vagy arról öt munkanapon belül nem nyilatkozik, amennyiben a felajánlott beosztás elfogadásával a szolgálatteljesítés helye nem változik.
 
-43/A. § A hivatásos állomány tagja – a hivatásos szolgálati jogviszonyát nem érintve – az ügyészséghez a legfőbb ügyész kezdeményezésére, az országos parancsnok egyetértésével meghatározott feladat ellátására vezényelhető. A hivatásos állomány tagjának ügyészséghez vezénylésére a 43–44. §-ban foglalt szabályokat kell alkalmazni.
+43/A. § A hivatásos állomány tagja – a hivatásos szolgálati jogviszonyát nem érintve – az ügyészi szervezethez a legfőbb ügyész kezdeményezésére, az országos parancsnok egyetértésével meghatározott feladat ellátására vezényelhető. A hivatásos állomány tagjának ügyészséghez vezénylésére a 43–44. §-ban foglalt szabályokat kell alkalmazni.
 
 43/B. § (1) A miniszter az irányítása alatt álló fegyveres szerv hivatásos állományú tagját – beleegyezésével – az állományilletékes parancsnok előzetes tájékoztatásával
 
@@ -511,21 +693,34 @@ meghatározott munkakör vagy feladat ellátására szolgálattételre berendelh
 - e) akinek a részére az oktatási intézményben folytatott tanulmányai befejezése után felkészültségének megfelelő szolgálati beosztás nem biztosítható, legfeljebb 1 évig;
 - f) aki egészségi, pszichikai és fizikai állapota miatt eredeti szolgálati beosztását ellátni képtelen, az általa ellátható más beosztásba helyezéséig, de legfeljebb 1 évig;
 - g) aki szolgálati feladatait önhibáján kívüli okból (pl. gyermekgondozás céljából igénybe vett illetmény nélküli szabadság miatt) nem tudja ellátni, legfeljebb az ok megszűnéséig;
-- h) akit függetlenített szakszervezeti tisztségbe választottak, tisztsége betöltéséig;
+- h)
 - i) akinek a részére vezetői beosztásba történt kinevezés visszavonásakor, illetve vezetői kinevezésről történő lemondás esetén a 245/D. § (2) és (5) bekezdés szerinti beosztás felajánlására nincs lehetőség;
 - j) akinek a részére a más szervhez vezénylés, illetve berendelés megszüntetését követően a 43. § (4) bekezdés, illetve a 248. § (4) bekezdés d) pontja szerinti beosztás nem biztosítható, más beosztásba helyezéséig, de legfeljebb egy évig.
 
 (2) Az (1) bekezdés a) pontja alá esők jogaira és kötelezettségeire a 43. § rendelkezései irányadók, a b), e) és f) pontja alá tartozók jogai és kötelezettségei azonosak a szolgálati beosztást betöltők jogaival és kötelezettségeivel, a c)–d) pontja alá tartozók jogait és kötelezettségeit az oktatási intézmény szervezeti és működési szabályzata, illetve a tanulmányi szerződés határozza meg, a g) pont alá tartozók jogait és kötelezettségeit – beleértve a társadalombiztosítási járulék fizetésének rendjét is – külön jogszabály állapítja meg.
 
-(3) Az (1) bekezdés h) pontja alattiak jogai és kötelezettségei – a tisztségük ellátására vonatkozók kivételével – azonosak a szolgálati beosztást betöltőkével.
+(3)
 
 (4)
 
 (5) Az (1) bekezdés b), e) és f) pontja alá tartozó hivatásos állomány tagjának szolgálati feladattal való ideiglenes ellátásáról a munkáltatói jogkört gyakorló elöljáró köteles gondoskodni.
 
+### Nyugdíj előtti rendelkezési állomány
+
+44/A. § (1) A hivatásos állomány tagját a hivatásos szolgálat felső korhatárának elérése előtt öt évvel, kérelmére vagy – a munkáltató érdekkörében felmerült okból, beleegyezésével – a munkáltatói jogkört gyakorló elöljáró erre irányuló döntése alapján nyugdíj előtti rendelkezési állományba kell helyezni, ha legalább 30 év szolgálati viszonyban töltött idővel rendelkezik.
+
+(2) A hivatásos állomány nyugdíj előtti rendelkezési állományba helyezett tagja
+
+- a) csak veszélyhelyzet, megelőző védelmi helyzet, rendkívüli állapot vagy szükségállapot idején hívható szolgálatba,
+- b) arra az időtartamra, amíg nem hívják szolgálatba, a személyi jövedelemadó és a járulékok levonása után számított illetménye megegyezik azzal az összeggel, amely a nyugdíj előtti rendelkezési állományba helyezéskor öregségi nyugdíjként megilletné – figyelembe véve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvényben foglaltakat is –, ha az öregségi nyugdíjkorhatárt betöltötte volna,
+- c) szolgálatba hívása időtartamára a ténylegesen betöltendő beosztása szerinti, de legalább az utolsó havi illetményének megfelelő díjazásra jogosult,
+- d) szabadságra nem jogosult, kivéve, ha szolgálatba hívják, amelynek tartamára tekintettel az éves szabadság időarányosan illeti meg.
+
+(3) A (2) bekezdés b) pontja szerinti összegről a munkáltatói jogkört gyakorló elöljárót annak kérelmére a nyugdíjmegállapító szerv tájékoztatja. A (2) bekezdés b) pontjában meghatározott illetmény emelésének mértéke megegyezik az öregségi nyugdíjemelés mértékével.
+
 ### Pályázati rendszer
 
-45. § (1) A magasabb szolgálati beosztáshoz előírt iskolai végzettség (szakképesítés) megszerzése érdekében, a megfelelő oktatási intézménybe való felvételhez, továbbá – a polgári nemzetbiztonsági szolgálatok és a Nemzeti Adó- és Vámhivatal kivételével – a regionális, területi, helyi szervek vezetőjének kinevezéséhez, továbbá jogszabályban meghatározott szolgálati beosztások betöltéséhez pályázatot lehet kiírni. A vezetői kinevezés visszavonására tekintettel felajánlott másik vezetői beosztás pályázat kiírása nélkül betölthető.
+45. § (1) A magasabb szolgálati beosztáshoz előírt iskolai végzettség (szakképesítés) megszerzése érdekében, a megfelelő oktatási intézménybe való felvételhez, továbbá a regionális, területi, helyi szervek vezetőjének kinevezéséhez, továbbá jogszabályban meghatározott szolgálati beosztások betöltéséhez pályázatot lehet kiírni. A vezetői kinevezés visszavonására tekintettel felajánlott másik vezetői beosztás pályázat kiírása nélkül betölthető.
 
 (2) A pályázatot a katonai és rendvédelmi oktatási intézmény vezetője, a megpályázható vezetői beosztásba való kinevezésre, illetve szolgálati beosztás betöltésére jogosult munkáltatói jogkört gyakorló elöljáró írja ki.
 
@@ -562,6 +757,10 @@ meghatározott munkakör vagy feladat ellátására szolgálattételre berendelh
 - g) a magasabb iskolai végzettséget (szakképesítést) nyújtó oktatási intézménybe beiskolázás,
 - h) a más fegyveres szervhez történő áthelyezés.
 
+(3) A (2) bekezdés a) pontjában meghatározott esetekben nem kell a hivatásos állomány tagjának beleegyezése szolgálati helyének a fegyveres szerv szervezeti egységein belüli vagy szervezeti egységei közötti megváltoztatása esetében, ha az új szolgálati hely a korábbi szolgálati hely működési területének valamely településén van. A hivatásos állomány tagjának véleményét azonban ebben az esetben is be kell előzetesen szerezni.
+
+(4) A (3) bekezdés alkalmazásánál a 49/A. § (1) bekezdésében meghatározott feltételek figyelembevételével kell eljárni.
+
 ### Beosztásból felmentés, más beosztásba kinevezés, áthelyezés
 
 47. § (1) A hivatásos állomány tagja a szolgálat érdekében felmenthető és magasabb beosztásba kinevezhető, beleegyezése nélkül a szolgálati beosztásából felmenthető, és egyidejűleg azonos vagy annak megfelelő más beosztásba kinevezhető. Azonos, vagy annak megfelelő más beosztásba való kinevezés kérelemre is történhet.
@@ -583,9 +782,11 @@ meghatározott munkakör vagy feladat ellátására szolgálattételre berendelh
 
 (2) Az alacsonyabb szolgálati beosztásba helyezéshez az (1) bekezdés c) és d) pontja esetén a hivatásos állomány tagjának beleegyezése nem szükséges.
 
+(3) A hivatásos állomány tagját alacsonyabb beosztásba kell helyezni, ha a részére a beosztás betöltéséhez előírt szakvizsga vagy képzési követelménynek határidőben nem tett eleget.
+
 ### Vezénylés
 
-49. § (1) A hivatásos állomány tagja a szolgálat érdekében eredeti szolgálati beosztásában való meghagyása mellett a fegyveres szerv bármely szervezeti egységéhez és bármely helységbe – a (4) bekezdésben meghatározott esetet kivéve beleegyezése nélkül – meghatározott szolgálati feladat teljesítésére vezényelhető. A hivatásos önkormányzati tűzoltóra e szabály nem vonatkozik.
+49. § (1) A hivatásos állomány tagja a szolgálat érdekében eredeti szolgálati beosztásában való meghagyása mellett a fegyveres szerv bármely szervezeti egységéhez és bármely helységbe – a (4) bekezdésben meghatározott esetet kivéve beleegyezése nélkül – meghatározott szolgálati feladat teljesítésére vezényelhető.
 
 (2) A más helységbe való vezénylések együttes időtartama 3 évenként a 6 hónapot nem haladhatja meg. A vezénylés időtartamának befejezésétől számított 6 hónapon belül újabb vezénylésre nem kerülhet sor. Méltánylást érdemlő személyi vagy családi érdekből azonban kérelemre e korlátoktól kivételesen el lehet tekinteni.
 
@@ -610,7 +811,7 @@ meghatározott munkakör vagy feladat ellátására szolgálattételre berendelh
 
 (4) Az (1) bekezdés szerinti vezénylésre a 49. §-ban meghatározottak nem alkalmazhatók.
 
-(5) A hivatásos önkormányzati tűzoltóra az (1)–(4) bekezdés rendelkezése nem vonatkozik.
+(5)
 
 ### Megbízás
 
@@ -626,7 +827,7 @@ meghatározott munkakör vagy feladat ellátására szolgálattételre berendelh
 
 ### A szolgálati viszony szünetelése
 
-51. § (1) Szünetel a szolgálati viszonya a polgári védelem, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szervezet, valamint az állami és hivatásos önkormányzati tűzoltóság hivatásos állománya olyan tagjának, akit az országgyűlési képviselői, európai parlamenti képviselői, illetve a főpolgármesteri, polgármesteri választáson jelöltként nyilvántartásba vettek.
+51. § (1) Szünetel a szolgálati viszonya a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, valamint a büntetés-végrehajtási szervezet hivatásos állománya olyan tagjának, akit az országgyűlési képviselői, európai parlamenti képviselői, illetve a főpolgármesteri, polgármesteri választáson jelöltként nyilvántartásba vettek.
 
 A szünetelés időtartama jelöltségének nyilvántartásba vételétől a választás befejezéséig, illetve megválasztása esetén a mandátuma igazolásáig tart.
 
@@ -636,26 +837,20 @@ A szünetelés időtartama jelöltségének nyilvántartásba vételétől a vá
 
 ### A szolgálati viszony korhatára
 
-52. § A hivatásos szolgálat felső korhatára a társadalombiztosítási nyugellátási szabályok szerint a hivatásos állomány tagjára születési éve alapján irányadó öregségi nyugdíjkorhatárnál 5 évvel alacsonyabb életkor betöltése.
+52. § A hivatásos szolgálat felső korhatára megegyezik a társadalombiztosítási nyugellátásról szóló törvényben meghatározott öregségi nyugdíjkorhatárral.
 
 ### VII. Fejezet — A SZOLGÁLATI VISZONY MEGSZŰNÉSE
 
-### Szolgálati nyugállományba helyezés
+52/A. §
 
-52/A. § (1) A szolgálati viszony a szolgálat felső korhatárának elérésekor, a szolgálati nyugdíjjogosultságot szerzett hivatásos állományú személy erre irányuló nyilatkozata, vagy a munkáltatói jogkört gyakorló elöljáró erre irányuló döntése alapján, szolgálati nyugállományba helyezéssel szűnik meg.
-
-(2) A szolgálati nyugállományba helyezésre irányuló nyilatkozat, illetve döntés a felső korhatár betöltését követően is előterjeszthető, illetve meghozható. A nyilatkozatot, illetve a döntést a szolgálati nyugállományba helyezés időpontját megelőzően legalább 60 nappal kell előterjeszteni, illetve meghozni.
-
-(3) Ha a hivatásos állomány tagja a szolgálati viszony megszűnésére irányuló nyilatkozatot nem terjeszt elő, illetve a munkáltatói jogkört gyakorló elöljáró a szolgálati viszony megszüntetéséről nem dönt, úgy a hivatásos állomány tagjának szolgálati viszonya a társadalombiztosítási nyugellátási szabályok szerint reá születési éve alapján irányadó öregségi nyugdíjkorhatár elérésekor a törvény erejénél fogva szűnik meg.
-
-### A szolgálati viszony megszűnésének egyéb esetei
+### A szolgálati viszony megszűnésének esetei
 
 53. § A szolgálati viszony megszűnik:
 
 - a) közös megegyezéssel;
 - b) lemondással;
 - c) felmentéssel;
-- d) közszolgálati vagy közalkalmazotti jogviszonyba történő áthelyezéssel.
+- d) kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyba történő áthelyezéssel.
 - e) azonnali hatállyal a próbaidő alatt;
 - f) a szolgálati viszony megszüntetése vagy lefokozás fenyítés kiszabásával;
 - g) büntetőeljárás keretében szolgálati viszony megszüntetése, lefokozás, a szolgálati viszony keretében betöltött szolgálati beosztás ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával;
@@ -668,11 +863,11 @@ A szünetelés időtartama jelöltségének nyilvántartásba vételétől a vá
 
 ### Lemondás
 
-55. § (1) A hivatásos állomány tagja a szolgálati viszonyáról vagy azzal együtt a rendfokozatáról – a szükségállapot vagy rendkívüli állapot idejét, továbbá az Alkotmány 19/E. §-ában meghatározott időszakot kivéve – lemondhat.
+55. § (1) A hivatásos állomány tagja a szolgálati viszonyáról vagy azzal együtt a rendfokozatáról – a szükségállapot vagy rendkívüli állapot idejét, valamint a váratlan támadás időszakát kivéve – lemondhat.
 
 (2) A lemondási idő 2 hónap, a felek ennél rövidebb határidőben is megállapodhatnak.
 
-(3) Aki a szolgálati viszonyáról lemondott, a lemondási idő elteltével elveszti – a szolgálati nyugdíjra, valamint a szolgálati idő kedvezményes számítására vonatkozó jog kivételével – a hivatásos szolgálat alapján járó, jogszabályban meghatározott jogait.
+(3) Aki a szolgálati viszonyáról lemondott, a lemondási idő elteltével elveszti a hivatásos szolgálat alapján járó, jogszabályban meghatározott jogait.
 
 (4)
 
@@ -680,32 +875,37 @@ A szünetelés időtartama jelöltségének nyilvántartásba vételétől a vá
 
 56. § (1) A hivatásos állomány tagjának a szolgálati viszonya – az (5) bekezdésben foglalt korlátozás figyelembevételével – felmentéssel akkor szüntethető meg, ha
 
-- a) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szerv vezetője, az országos parancsnok vagy – a Kormány által meghatározott létszámhatárig – az önkormányzati képviselő-testület döntése alapján a fegyveres szervnél létszámcsökkentést kell végrehajtani, és emiatt további szolgálatára nincs lehetőség;
+- a) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szerv vezetője, az országos parancsnok döntése alapján a fegyveres szervnél létszámcsökkentést kell végrehajtani, és emiatt további szolgálatára nincs lehetőség;
 - b) átszervezés következtében szolgálati beosztása megszűnt, és a számára felajánlott, a végzettségének és képzettségének megfelelő más beosztást nem fogadta el;
-- c) szolgálati nyugellátásra szerzett jogosultságot és az eredeti beosztásában szolgálati érdekből tovább nem foglalkoztatható, a számára felajánlott legalább azonos szintű beosztást pedig nem fogadta el;
+- c) a Munka Törvénykönyvéről szóló törvény megfelelő alkalmazásával nyugdíjasnak minősül és az eredeti beosztásában szolgálati érdekből tovább nem foglalkoztatható, a számára felajánlott legalább azonos szintű beosztást pedig nem fogadta el;
 - d) berendelés, más szervhez vezénylés, illetve nemzetközi szervezetnél végzett tevékenység megszűnése után részére végzettségének, képzettségének megfelelő beosztás nem biztosítható és rendelkezési állományba sem helyezhető.
 
 (2) A hivatásos állomány tagjának a szolgálati viszonyát felmentéssel meg kell szüntetni, ha
 
-- a) minősítése, egészségi, pszichikai vagy fizikai állapota alapján, illetve – ha ez feltétel – nemzetbiztonsági szempontból beosztásának ellátására, alkalmatlanná vált,
-- b) nem felel meg a kifogástalan életvitel követelményének, ezért a hivatásos szolgálatra alkalmatlanná vált;
-- c) a vezetői kinevezés visszavonását követően a 245/D. § (2) bekezdése szerinti beosztás nem biztosítható.
+- a) minősítése, egészségi, pszichikai vagy fizikai állapota alapján, illetve – ha ez feltétel – nemzetbiztonsági szempontból beosztásának ellátására alkalmatlanná vált,
+- b) a hivatásos szolgálatra alkalmatlanná vált, mert
+  - ba) nem felel meg a kifogástalan életvitel követelményének, vagy
+  - bb) a kifogástalan életvitel ellenőrzéséhez szükséges hozzájáruló nyilatkozatot önhibájából határidőben nem tette meg;
+- c) a vezetői kinevezés visszavonását követően a 245/D. § (2) bekezdése szerinti beosztás nem biztosítható;
+- d) megsérti a 18. § (2) bekezdés rendelkezéseit.
 
 (3)
 
-(4) Az (1) bekezdés c) pontja alapján nyugellátásra jogosult a hivatásos állomány tagja, ha rendelkezik a 182. § (1) bekezdésében meghatározott feltétellel.
+(4)
 
 (5) Az (1) bekezdés b) pontjában meghatározott esetben, valamint ha a (2) bekezdés a) pontjában meghatározott alkalmatlanság egészségi, pszichikai vagy fizikai ok következménye, a fegyveres szerv köteles a hivatásos állomány tagja állapotának, képzettségének, végzettségének megfelelő másik hivatásos szolgálati beosztást, ennek hiányában másik, az állapotának, képzettségének, végzettségének megfelelő nem hivatásos munkakört felajánlani. A hivatásos állomány tagját akkor lehet felmenteni, ha
 
 - a) az egészségi, pszichikai vagy fizikai alkalmatlanság esetén
   - aa) állapotának megfelelő betöltetlen beosztás vagy nem hivatásos munkakör a fegyveres szervnél nincs, és rendelkezési állományba sem helyezhető,
   - ab) a felajánlott másik, állapotának megfelelő beosztást vagy nem hivatásos munkakört a hivatásos állomány tagja nem fogadta el, vagy
-  - ac) rokkantsági, baleseti rokkantsági nyugellátásra jogosultságot szerzett;
+  - ac) rokkantsági, baleseti rokkantsági nyugellátásra vagy a megváltozott munkaképességű személyek ellátására jogosultságot szerzett;
 - b) a hivatásos állomány átszervezés miatt megszűnt beosztást betöltő tagja a számára felajánlott, a végzettségének és képzettségének megfelelő más beosztást nem fogadta el.
 
-(6) A (2) bekezdés b) pontjában meghatározott alkalmatlanság miatt felmentéssel szűnik meg a szolgálati viszonya annak, aki nem felel meg a kifogástalan életvitel 37/B. § (2) bekezdésben meghatározott követelményeinek, kivéve, ha a büntetőjogi felelősséget megállapító jogerős ítélet katonai bűncselekmény miatt született és mentesítés folytán mentesült a büntetett előélethez fűződő hátrányok alól.
+(6) A (2) bekezdés b) pont ba) alpontja szerinti alkalmatlanság nem állapítható meg, ha a 37/B. § (2) bekezdés b) pontjában meghatározott büntetőjogi felelősséget megállapító jogerős ítélet katonai bűncselekmény miatt született és a bíróság a hivatásos állomány tagját előzetesen mentesítette a büntetett előélethez fűződő hátrányok alól.
 
-(7)
+(6a) A (2) bekezdés b) pont ba) alpontjában meghatározott alkalmatlanság megállapításától a miniszter eltekinthet, ha a bíróság a büntetőjogi felelősséget megállapító jogerős ítéletében a kiszabott szabadságvesztés végrehajtását felfüggesztette és az elmarasztalás alapjául szolgáló magatartás a további szolgálatellátást feltehetően hátrányosan nem befolyásolja.
+
+(7) A hivatásos állomány nő tagjának szolgálati viszonyát kérelmére felmentéssel meg kell szüntetni, ha rendelkezik a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny. tv.) 18. § (2a)–(2d) bekezdése szerinti jogosultsági idővel.
 
 (8) A munkáltatói jogkört gyakorló elöljáró a felmentést köteles megindokolni. Ebből világosan ki kell tűnnie, hogy a felmentés indoka valós és okszerű.
 
@@ -724,7 +924,7 @@ meghosszabbodik.
 
 (3) Amennyiben a felmentés oka a minősítése alapján hivatásos szolgálatra való alkalmatlanság, a felmentési idő – a hivatásos szolgálati viszonyban töltött időre tekintet nélkül – harminc nap.
 
-(4) A nemzetbiztonsági szempontból neki felróható okból beosztásának ellátására alkalmatlanná vált, illetve az 56. § (2) bekezdés b) pontjában meghatározott okból hivatásos szolgálatra alkalmatlanná vált személy szolgálati viszonyát felmentési idő nélkül kell megszüntetni.
+(4) A nemzetbiztonsági szempontból neki felróható okból beosztásának ellátására alkalmatlanná vált, illetve az 56. § (2) bekezdés b) pontjában meghatározott okból hivatásos szolgálatra alkalmatlanná vált, továbbá az 56. § (2) bekezdés d) pontjában meghatározott személy szolgálati viszonyát felmentési idő nélkül kell megszüntetni.
 
 (5) A felmentés időtartamának felére a hivatásos állomány tagját a szolgálati kötelezettség teljesítése alól mentesíteni kell. Indokolt esetben a munkáltatói jogkört gyakorló elöljáró a hivatásos állomány tagját a teljes felmentési időre mentesítheti a szolgálati kötelezettség teljesítése alól.
 
@@ -736,38 +936,41 @@ meghosszabbodik.
 
 - a) a betegség és az egészségügyi szabadság, valamint az egészségi okból megkezdett orvosbizottsági alkalmassági felülvizsgálat ideje;
 - b) a beteg gyermek ápolásának ideje vagy ilyen célból, illetőleg a közeli hozzátartozó otthoni ápolása vagy gondozása céljából kapott illetmény nélküli szabadság;
-- c) a terhesség ideje, a szülést követő 3 hónap, illetőleg a szülési szabadság és a gyermekgondozás céljára kapott illetmény nélküli szabadság, illetve illetmény nélküli szabadság igénybevétele nélkül is a gyermek hároméves kora;
+- c) a várandósság ideje, a szülést követő 3 hónap, illetőleg a szülési szabadság és a gyermekgondozás céljára kapott illetmény nélküli szabadság, illetve illetmény nélküli szabadság igénybevétele nélkül is a gyermek hároméves kora;
 - d) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság,
 - e) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az állomány örökbe fogadni szándékozó tagját – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás.
 
-(2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány szolgálati vagy rokkantsági nyugdíjra jogosult, a szolgálatra 56. § (2) b) pontja alapján alkalmatlanná vált tagja szolgálati viszonyának a megszüntetésére.
+(2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány tagjára, ha
+
+- a) az 56. § (2) bekezdés b) pontja alapján alkalmatlanná vált, és a Munka Törvénykönyvének megfelelő alkalmazásával nyugdíjasnak minősül, vagy
+- b) az 56. § (7) bekezdése alapján a felmentését maga kérte.
 
 (3) Az (1) bekezdésben meghatározott védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó.
 
 (4) Az (1) bekezdés c) pontja szerinti védelem az illetmény nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki az illetmény nélküli szabadságot utoljára igénybe vette.
 
-58/A. § Nem szüntethető meg a szolgálat felső korhatárát megelőző 5 évben a hivatásos állomány tagjának a szolgálati viszonya az 56. § (1) bekezdés a) és b) pontja alapján felmentéssel, ha szolgálati nyugdíjra még nem jogosult.
+58/A. § Nem szüntethető meg a szolgálat felső korhatárát megelőző 5 évben a hivatásos állomány tagjának a szolgálati viszonya az 56. § (1) bekezdés a) és b) pontja alapján felmentéssel.
 
 ### A szolgálati viszony megszűnésea törvény erejénél fogva
 
 59. § (1) A törvény erejénél fogva szűnik meg a hivatásos állomány tagjának a szolgálati viszonya
 
-- a) a társadalombiztosítási szabályok szerint reá születési éve alapján irányadó öregségi nyugdíjkorhatár elérése;
+- a) a hivatásos szolgálat felső korhatárának elérése;
 - b) a képzési kötelezettség teljesítésének elmulasztása [40. § (2) bekezdése, 259. § (1) bekezdése, 336. § (2) bekezdése];
 - c) országgyűlési vagy európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, történt megválasztás;
 - d) az összeférhetetlenség megszüntetésének elmulasztása [66. § (2) bekezdése];
 - e) állami vezetővé történt kinevezése, megválasztása;
-- f)
+- f) a részére előírt rendészeti alapvizsga vagy a rendészeti szakképesítés megszerzésére vonatkozó kötelezettség meghatározott időben nem teljesítése
 
 miatt.
 
 (2) A szolgálati viszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
 
-### Közszolgálati, közalkalmazotti jogviszonyba történő áthelyezés
+### Kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyba történő áthelyezés
 
-59/A. § (1) A hivatásos állomány tagja és a munkáltatói jogkört gyakorló elöljáró, illetve munkáltatói jogkört gyakorló elöljárók, vagy a hivatásos állomány tagja és a fegyveres szerv, valamint másik fegyveres szerv, vagy a közszolgálati, illetve a közalkalmazotti jogviszonyt szabályozó jogszabályok hatálya alá tartozó szerv megállapodhatnak a hivatásos állomány tagjának közszolgálati, vagy közalkalmazotti jogviszonyba történő áthelyezésében.
+59/A. § (1) A hivatásos állomány tagja és a munkáltatói jogkört gyakorló elöljáró, illetve munkáltatói jogkört gyakorló elöljárók, vagy a hivatásos állomány tagja és a fegyveres szerv, valamint másik fegyveres szerv, vagy a kormányzati szolgálati, közszolgálati, illetve a közalkalmazotti jogviszonyt szabályozó jogszabályok hatálya alá tartozó szerv megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, közszolgálati, vagy közalkalmazotti jogviszonyba történő áthelyezésében.
 
-(2) Az (1) bekezdés alapján létrejövő közszolgálati vagy közalkalmazotti jogviszonyra a köztisztviselők jogállásáról szóló, illetve a közalkalmazottak jogállásáról szóló jogszabályi rendelkezések alkalmazandók.
+(2) Az (1) bekezdés alapján létrejövő kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyra a közszolgálati tisztviselőkről, illetve a közalkalmazottak jogállásáról szóló jogszabályi rendelkezések alkalmazandók.
 
 (3)
 
@@ -793,14 +996,12 @@ miatt.
 - b) a fegyveres szervnél szolgálati viszonyban töltött idejét;
 - c) az illetményéből határozat vagy jogszabály alapján levonandó tartozását és ennek jogosultját, illetőleg azt, hogy ilyen tartozása nincs;
 - d) a szolgálati viszony megszűnésének évében igénybe vett szabadsága időtartamát;
-- e) a szolgálati nyugellátásra való jogosultság megszerzésére és folyósítására vonatkozó, a 182. § szerinti rendelkezést;
+- e)
 - f) a kifizetésre került végkielégítés összegét.
 
 (3) Az (1) és (2) bekezdésben foglaltakat értelemszerűen alkalmazni kell a 43. § szerinti vezénylés, az 59/A. § alapján fegyveres szerven belül történő áthelyezés, valamint a 60. § és a 60/A. § szerinti áthelyezés esetén is.
 
-61/A. § (1) Ha a szolgálati viszony az 53. § alapján szűnik meg, a hivatásos állomány tagját – amennyiben a 182. §-ban foglaltak szerint szolgálati nyugdíjra jogosult – szolgálati nyugállományba kell helyezni.
-
-(2) Az (1) bekezdés szerinti szolgálati nyugállományba helyezéskor a 182. §-ban foglaltak szerint kell rendelkezni a szolgálati nyugdíj folyósításáról.
+61/A. §
 
 ### Megtérítési kötelezettség
 
@@ -836,9 +1037,9 @@ távolléti díjnak megfelelő összeg.
 
 (6) Végkielégítésre nem jogosult a hivatásos állomány tagja, ha
 
-- a) a szolgálati viszony megszűnésekor nyugellátásra jogosult,
-- b) alkalmatlansága miatt mentették fel, kivéve azt, aki egészségi, pszichikai és fizikai alkalmatlanság miatt került felmentésre és nyugdíjjogosultságot nem szerzett.
-- c) nem felel meg a kifogástalan életvitel követelményének, ezért a hivatásos szolgálatra alkalmatlanná vált.
+- a) a szolgálati viszony megszűnésekor a Munka Törvénykönyvéről szóló törvény megfelelő alkalmazásával nyugdíjasnak minősül, szolgálati járandóságra jogosult, vagy az 56. § (7) bekezdése alapján a felmentését maga kérte,
+- b) alkalmatlansága miatt mentették fel, kivéve azt, aki egészségi, pszichikai és fizikai alkalmatlanság miatt került felmentésre.
+- c) nem felel meg a kifogástalan életvitel követelményének, vagy a kifogástalan életvitel ellenőrzéséhez szükséges hozzájáruló nyilatkozatot határidőben nem tette meg, ezért a hivatásos szolgálatra alkalmatlanná vált,
 
 (7) Ha a hivatásos állomány tagja a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
@@ -848,15 +1049,15 @@ távolléti díjnak megfelelő összeg.
 
 ### A hivatásos állományba való visszavétel
 
-64. § (1) Akinek szolgálati viszonyát az 53. § a) pontja, vagy az 56. § (1) bekezdés a)–d) pontja, vagy az 56. § (2) bekezdés a) pontjában meghatározott egészségi, pszichikai vagy fizikai alkalmatlanság miatt, illetve az 56. § (2) bekezdés c) pontja alapján felmentéssel szüntették meg, a szolgálat érdekében, kérelmére – amennyiben a hivatásos állomány tagjára vonatkozó felső korhatár eléréséig a szolgálati nyugdíjjogosultság 182. § (2) bekezdésben meghatározott feltételek szerint megszerezhető – hivatásos állományba visszavehető, ha egyébként megfelel a szolgálati viszony létesítéséhez szükséges egészségi, pszichikai és fizikai alkalmassági követelményeknek. A visszavétel során próbaidő köthető ki, legfeljebb 6 hónap időtartamra, ha a szolgálati viszony megszűnése és a visszavételre irányuló kérelem benyújtása között legalább egy év eltelt. A visszavételre legfeljebb két alkalommal kerülhet sor.
+64. § (1) Akinek szolgálati viszonyát az 53. § a) pontja, vagy az 56. § (1) bekezdés a)–d) pontja, vagy az 56. § (2) bekezdés a) pontjában meghatározott egészségi, pszichikai vagy fizikai alkalmatlanság miatt, illetve az 56. § (2) bekezdés c) pontja alapján felmentéssel vagy az 59/A. § (1) bekezdése alapján közszolgálati, közalkalmazotti jogviszonyba történő áthelyezéssel szüntették meg, a szolgálat érdekében, kérelmére hivatásos állományba visszavehető, ha egyébként megfelel a szolgálati viszony létesítéséhez szükséges egészségi, pszichikai és fizikai alkalmassági követelményeknek. A visszavétel során próbaidő köthető ki, legfeljebb 6 hónap időtartamra, ha a szolgálati viszony megszűnése és a visszavételre irányuló kérelem benyújtása között legalább egy év eltelt. A visszavételre legfeljebb két alkalommal kerülhet sor.
 
 (2) Akinek a szolgálati viszonya az 59. § (1) bekezdés c) vagy e) pontja alapján szűnt meg, mandátumának lejártát, illetve állami vezetői megbízatásából eredő hatáskörei gyakorlásának megszűnését követően – 30 napon belül előterjesztett kérelmére – a hivatásos állományba vissza kell venni.
 
-(3) Akinek a rokkantságát a felülvizsgálat során megszüntették, a hivatásos állományba akkor vehető vissza, ha egyébként megfelel a szolgálati viszony létesítéséhez szükséges egészségi, pszichikai és fizikai alkalmassági követelményeknek.
+(3) Akinek a rokkantságát, megváltozott munkaképességű személyek ellátását a felülvizsgálat során megszüntették, a hivatásos állományba akkor vehető vissza, ha egyébként megfelel a szolgálati viszony létesítéséhez szükséges egészségi, pszichikai és fizikai alkalmassági követelményeknek.
 
-(4) Akinek a rokkantságát a szolgálattal összefüggő baleset, betegség miatt állapították meg, és a rokkantságát megszüntették, a hivatásos állományba visszavehető, ha az egészségi állapotának megfelelő beosztás részére biztosítható.
+(4) Akinek a rokkantságát, megváltozott munkaképességű személyek ellátását a szolgálattal összefüggő baleset, betegség miatt állapították meg, és a rokkantságát, megváltozott munkaképességű személyek ellátását megszüntették, a hivatásos állományba visszavehető, ha az egészségi állapotának megfelelő beosztás részére biztosítható.
 
-(5) A hivatásos állomány nyugállományba helyezett tagja – az (1)–(4) bekezdésben meghatározott feltételeknek való megfelelés esetén is – csak akkor vehető vissza hivatásos állományba, ha a szolgálati nyugellátásának folyósítását a hivatásos szolgálat idejére szünetelteti.
+(5) A hivatásos állomány szolgálati járandóságban részesülő volt tagja – az (1)–(4) bekezdésben meghatározott feltételeknek való megfelelés esetén is – csak akkor vehető vissza hivatásos állományba, ha a szolgálati járandóságának folyósítását a hivatásos szolgálat idejére szünetelteti.
 
 (6) Visszavétel esetén a hivatásos állomány tagja legfeljebb olyan rendfokozatba léptethető elő, mint amilyen rendfokozatot folyamatos szolgálatteljesítés esetén soron történő előléptetéssel elérhetett volna.
 
@@ -910,6 +1111,8 @@ távolléti díjnak megfelelő összeg.
 
 (4) A miniszter rendeletben határozza meg azokat a fertőző betegségeket, amelyek esetében a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan – így különösen a külföldi szolgálat végrehajtása során – a hivatásos állomány tagjának vagy egyes csoportjainak egészségét és biztonságát veszélyeztető biológiai kóroki tényező kockázatának elkerülése érdekében kötelező védőoltás elrendelésének van helye. A kötelező védőoltást a fegyveres szerv egészségügyi szakfeladatainak ellátásáért felelős vezető főorvos javaslatára az országos parancsnok rendeli el. Az országos parancsnok által elrendelt kötelező védőoltás alól az Eütv. 58. § (3) bekezdése szerinti mentesítést a hivatásos állomány védőoltásra kötelezett tagja, törvényes képviselője, illetve kezelőorvosa a fegyveres szerv egészségügyi szakfeladatainak ellátásáért felelős főorvosnál kezdeményezheti.
 
+(5) A hivatásos állomány tagja a fegyveres szerv hivatásos állományba tartozását szolgálati igazolványával igazolja. Ha jogszabály előírja, a hivatásos állomány tagját a szolgálata ellátásához szolgálati azonosító jelvénnyel is el kell látni.
+
 69. § (1) A hivatásos állomány tagja szolgálatteljesítése során köteles végrehajtani az elöljáró parancsát, a felettes rendelkezését, kivéve, ha azzal bűncselekményt követne el.
 
 (2) Az (1) bekezdésben foglalt kivétellel a hivatásos állomány tagja a jogszabálysértő parancs, rendelkezés végrehajtását nem tagadhatja meg. Ha azonban annak jogellenessége felismerhető számára, arra haladéktalanul köteles az elöljáró figyelmét felhívni. Ha az elöljáró a parancsát, a felettes a rendelkezését ennek ellenére fenntartja, azt kérelemre írásba kell foglalnia. A jogszabálysértő parancs, rendelkezés végrehajtásáért kizárólag az azt kiadó felel.
@@ -918,7 +1121,7 @@ távolléti díjnak megfelelő összeg.
 
 - a) az állampolgári kötelezettségének teljesítése alatt;
 - b) a közeli hozzátartozója halálakor, esetenként legalább 2 munkanapra;
-- c) a kötelező orvosi vizsgálat – ideértve a terhességgel összefüggő orvosi vizsgálatot is – teljes időtartamára;
+- c) a kötelező orvosi vizsgálat – ideértve a várandóssággal összefüggő orvosi vizsgálatot is – teljes időtartamára;
 - d) a véradás miatt távol töltött teljes – a szolgálati helyen kívül szervezett véradás esetén legalább 4 óra – időtartamra;
 - e) az emberi reprodukcióra irányuló különleges eljárással összefüggő vizsgálat időtartamára;
 - f) tanúzási kötelezettség teljesítése esetén a megjelenéshez és a kötelezettség teljesítéséhez szükséges időtartamra;
@@ -926,6 +1129,29 @@ távolléti díjnak megfelelő összeg.
 - h) a szolgálati viszonyra vonatkozó szabály vagy engedély alapján.
 
 (2) Az (1) bekezdésben meghatározott esetekben a hivatásos állomány tagja a távollét idejére távolléti díjra jogosult.
+
+### Könnyített szolgálat
+
+70/A. § (1) A hivatásos állomány tagját, ha betöltötte 52. életévét és legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkezik, kérelmére – amennyiben részére a fegyveres szervnél könnyített szolgálatban foglalkoztatottak által betölthető munkakör felajánlható – könnyített szolgálat formájában kell foglalkoztatni.
+
+(2) Az (1) bekezdés alkalmazásában
+
+- a) a szolgálati viszonyban töltött időbe be kell számítani az 1996. augusztus 31-ét követő hivatásos állományba vételt közvetlenül megelőzően fegyveres szervnél, a Magyar Honvédségnél vagy a miniszter által vezetett minisztériumnál 2012. január 1-je előtt megszakítás nélkül közszolgálati, közalkalmazotti jogviszonyban, munkaviszonyban eltöltött időt azzal, hogy e jogviszonyokban eltöltött idő ötven százalékos mértékben vehető figyelembe, továbbá
+- b) az e törvény alapján létesített szerződéses jogviszonyban eltöltött időt is szolgálati viszonyban töltött időnek kell tekinteni.
+
+(3) Könnyített szolgálat ellátása esetén a szolgálatteljesítési idő heti 35 óra, túlszolgálat nem rendelhető el. A könnyített szolgálatot 06.00 és 22.00 óra között kell teljesíteni.
+
+(4) A könnyített szolgálatban történő foglalkoztatás megkezdésekor a hivatásos állomány könnyített szolgálatban foglalkoztatott tagjának illetményét a könnyített szolgálatot megelőző utolsó havi illetménye alapján számított távolléti díjnak megfelelő összegben kell megállapítani. Az így megállapított illetmény a könnyített szolgálat időtartama alatt nem csökkenhet.
+
+(5) A könnyített szolgálatban foglalkoztatottak által betölthető munkaköröket a miniszter határozza meg.
+
+### A rendvédelmi hivatás etikai alapelvei
+
+70/B. § (1) A rendvédelmi hivatás etikai alapelvei a hivatásos állomány tagjai tekintetében különösen a hűség, a nemzeti érdek előnyben részesítése, a méltóság és a tisztesség, az előítéletektől való mentesség, a pártatlanság, a szakszerűség, az együttműködés és az arányosság.
+
+(2) A rendvédelmi hivatás etikai alapelvei a fegyveres szerv közalkalmazottai tekintetében különösen az elkötelezettség, nemzeti érdek előnyben részesítése, a tisztesség, előítéletektől való mentesség és az együttműködés.
+
+(3) Az (1) és (2) bekezdésben meghatározottakon túlmenően a vezetőkkel szemben támasztott további etikai alapelv a példamutatás, a szakmai szempontok érvényesítése és a számonkérési kötelezettség.
 
 ### Az előmenetel feltételei
 
@@ -942,13 +1168,23 @@ távolléti díjnak megfelelő összeg.
 
 ### Iskolai végzettségi (szakképesítési) követelmények
 
-72. § A tiszti rendfokozathoz kötött beosztás betöltéséhez egyetemi vagy főiskolai, a zászlósi és tiszthelyettesi rendfokozathoz kötött beosztás betöltéséhez pedig középiskolai végzettség szükséges. Jogszabályban meghatározott tiszthelyettesi rendfokozathoz kötött beosztásoknál szakiskolai végzettség esetén a középiskolai végzettségtől el lehet tekinteni.
+72. § (1) A tiszti rendfokozathoz kötött beosztás betöltéséhez egyetemi vagy főiskolai, a zászlósi és tiszthelyettesi rendfokozathoz kötött beosztás betöltéséhez pedig középiskolai végzettség szükséges. Jogszabályban meghatározott tiszthelyettesi rendfokozathoz kötött beosztásoknál szakiskolai végzettség esetén a középiskolai végzettségtől el lehet tekinteni.
+
+(2) A fegyveres szerv tiszti rendfokozathoz kötött beosztásai betöltéséhez elfogadható felsőfokú végzettségeket a miniszter rendeletben állapítja meg.
 
 72/A. § A miniszter állapítja meg azokat a szolgálati beosztásokat, amelyek betöltéséhez a 72. §-ban meghatározott iskolai végzettségen túl további iskolai végzettség, szakképesítés vagy szaktanfolyam szükséges.
 
-73. § (1) A magasabb beosztás betöltéséhez szükséges iskolai végzettség (szakképesítés) megszerzését hazai vagy külföldi katonai, rendvédelmi, illetőleg polgári felsőoktatási és középfokú oktatási intézményben, iskolarendszerű vagy iskolarendszeren kívüli oktatás/képzés keretében kell biztosítani. A beiskolázásra pályázat útján kerül sor. Emellett lehetőséget kell adni a hivatásos állomány tagjának a szolgálati érdek sérelmével nem járó, saját elhatározáson alapuló egyéni továbbtanulásra is.
+72/B. § (1) A hivatásos szolgálati beosztás betöltéséhez a 72. §-ban és a 72/A. §-ban meghatározottakon túl rendészeti alapvizsgával, a miniszter által meghatározott beosztásokban pedig rendészeti szakvizsgával is rendelkezni kell.
 
-(2) A hivatásos állomány tagját szakmai ismereteinek fejlesztése céljából szakmai továbbképzésben, illetve átképzésben kell részesíteni, amelyre az állományilletékes parancsnok jelöli ki a résztvevőket.
+(2) Aki a rendészeti alapvizsga kötelezettségének a részére jogszabály alapján meghatározott időben nem tesz eleget, a szolgálati viszonyát meg kell szüntetni. A hivatásos állomány tagját a szakvizsga teljesítésének elmulasztása esetén csak a tényleges képzettségének, képesítésének megfelelő beosztásban lehet továbbfoglalkoztatni.
+
+(3) A rendészeti alapvizsga, illetve a rendészeti szakvizsga követelményének alkalmazását a fegyveres szerv sajátosságaira figyelemmel a miniszter rendeletben legfeljebb 2014. december 31-ig elhalaszthatja.
+
+72/C. § Vezetői beosztásba történő kinevezéshez, valamint a vezetői munkakör ellátásához a külön jogszabályban meghatározott vezetőképzés (magasabb vezetőképzés) teljesítése szükséges.
+
+73. § (1) A magasabb vagy vezető beosztás betöltéséhez szükséges iskolai végzettség (szakképesítés) megszerzésére – a szolgálati érdek figyelembevételével, a tervszerű előmenetel biztosítása érdekében – a hivatásos állomány tagjának iskolarendszerű vagy iskolarendszeren kívüli képzés keretében kell lehetőséget biztosítani. Emellett lehetőséget kell adni a hivatásos állomány tagjának a szolgálati érdek sérelmével nem járó, saját elhatározáson alapuló egyéni továbbtanulásra is.
+
+(2) A hivatásos állomány tagját szakmai ismereteinek fejlesztése céljából szakmai továbbképzésben, illetve átképzésben kell részesíteni.
 
 74. § (1) Szolgálati érdekből polgári oktatási intézményben vagy iskolarendszeren kívüli oktatás vagy képzés folytatása céljából a munkáltatói jogkört gyakorló elöljáró a hivatásos állomány tagjával tanulmányi szerződést köthet. Nem köthető tanulmányi szerződés, ha a tanulmányok elvégzésére a munkáltatói jogkört gyakorló elöljáró a hivatásos állomány tagját kötelezte. A tanulmányi szerződést, illetve a kötelezést – a lényegi tartalmi elemek (képzés tárgya, időtartama, helye, teljesítés módja, határideje, költségek viselése, kötelezettségek) rögzítésével – írásba kell foglalni.
 
@@ -1002,7 +1238,7 @@ távolléti díjnak megfelelő összeg.
 
 78. § (1) A soron következő rendfokozatba elő kell léptetni a hivatásos állomány tagját, ha megfelel az alábbi együttes feltételeknek:
 
-- a) a soron következő rendfokozatra előírt iskolai végzettséggel (szakképesítéssel) rendelkezik;
+- a) a beosztásához előírt iskolai végzettséggel és szakképesítéssel rendelkezik, továbbá az előírt egyéb képzési követelményeket teljesítette;
 - b) az előléptetését a beosztásához rendszeresített rendfokozat lehetővé teszi;
 - c) a rendfokozatára megállapított várakozási ideje letelt.
 
@@ -1011,7 +1247,8 @@ távolléti díjnak megfelelő összeg.
 79. § (1) Nem léptethető elő a hivatásos állomány tagja
 
 - a) a rendfokozatot érintő fegyelmi büntetés, vagy bírósági ítélet végrehajtásának tartama alatt,
-- b) ha ellene büntető, vagy fegyelmi eljárás van folyamatban.
+- b) ha ellene büntető, vagy fegyelmi eljárás van folyamatban,
+- c) a részére meghatározott képzettség megszerzéséig, illetve képzési követelmény teljesítéséig.
 
 (2) Ha a hivatásos állomány tagját az (1) bekezdés b) pontja miatt nem léptették elő és az eljárás nem végződött rendfokozatot érintő büntetés kiszabásával, az eljárás jogerős befejezésekor a várakozási idő leteltének napjával elő kell léptetni.
 
@@ -1030,7 +1267,7 @@ távolléti díjnak megfelelő összeg.
 
 ### Az előléptetés egyéb esetei
 
-81. § (1) A nyugállományba helyezéssel egyidejűleg eggyel magasabb rendfokozatba lehet előléptetni a hivatásos állomány tagját, ha a nyugállományba helyezésére a hivatásos szolgálat felső korhatárának elérésével vagy azt követően, illetőleg 20 évi szolgálat után szolgálati kötelmekkel összefüggő rokkantság miatt került sor, és szolgálati feladatait kiemelkedő eredményességgel látta el.
+81. § (1) A nyugállományba vonulással egyidejűleg eggyel magasabb rendfokozatba lehet előléptetni a hivatásos állomány tagját, ha a nyugállományba helyezésére a hivatásos szolgálat felső korhatárának elérésével, illetőleg 20 évi szolgálat után szolgálati kötelmekkel összefüggő rokkantság miatt került sor, és szolgálati feladatait kiemelkedő eredményességgel látta el.
 
 (2) Eggyel magasabb rendfokozatba kell előléptetni, kinevezni a hősi halottá nyilvánított tisztet, főtisztet és tábornokot. A hősi halottá nyilvánított, tisztnél alacsonyabb rendfokozatú személyt hadnagyi rendfokozatba kell kinevezni.
 
@@ -1091,7 +1328,7 @@ távolléti díjnak megfelelő összeg.
 
 86. § (1) A hivatásos állomány
 
-- a) nő tagját terhessége megállapításától gyermekének 1 éves koráig, továbbá
+- a) nő tagját várandóssága megállapításától gyermekének 1 éves koráig, továbbá
 - b) gyermekét egyedül nevelő tagját gyermekének 6 éves koráig, ha annak felügyeletét más nem tudja ellátni éjszakai szolgálatteljesítésre, illetve 24 órás szolgálatra nem lehet beosztani.
 
 (2) A munkaközi szünetet a napi szolgálatteljesítési időn belül kell kiadni.
@@ -1102,7 +1339,7 @@ távolléti díjnak megfelelő összeg.
 
 (5) A (4) bekezdéstől eltérően a pihenőnap – a fokozottan veszélyes szolgálati beosztást kivéve – a szolgálati elfoglaltság miatt havonta összevontan is kiadható.
 
-(6) A Munka Törvénykönyvében meghatározott munkaszüneti napokon túl, munkaszüneti nap az egyes fegyveres szervek e törvény különös szabályait tartalmazó Második Részében meghatározott napjai. Munkaszüneti napon teljesített szolgálatért a hivatásos állomány tagját a munkájáért járó illetményén felül a távolléti díj is megilleti.
+(6) A Munka Törvénykönyvében meghatározott munkaszüneti napokon túl, munkaszüneti nap az egyes fegyveres szervek e törvény különös szabályait tartalmazó Második Részében, valamint a Nemzeti Adó- és Vámhivatal hivatásos állománya tekintetében a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott nap. Munkaszüneti napon teljesített szolgálatért a hivatásos állomány tagját a munkájáért járó illetményén felül a távolléti díj is megilleti.
 
 ### Túlszolgálat
 
@@ -1180,7 +1417,7 @@ távolléti díjnak megfelelő összeg.
 
 (5) A hivatásos állomány tagjának szolgálati kötelmekkel összefüggő balesete, sérülése vagy szolgálati eredetű betegsége miatt engedélyezett egészségügyi szabadság időtartamára – a (6) bekezdésben foglalt kivétellel – távolléti díj jár.
 
-(6) A polgári védelemnél, állami és hivatásos önkormányzati tűzoltóságnál váltásos szolgálati rendben szolgálatot teljesítők számára az egészségügyi szabadság idejére az alapilletmény, az illetménykiegészítés, a rendszeres illetménypótlékok, valamint az éjszakai és délutáni pótlék együttes összegének a távollét idejére számított időarányos átlagát kell térítésként folyósítani. A térítés összegének megállapításánál az utolsó négy naptári negyedévben (irányadó időszak) kifizetett éjszakai és délutáni pótlék együttes összegének a távollét idejére számított időarányos átlagát kell figyelembe venni. Ha a hivatásos állomány tagjának a szolgálati viszonya négy naptári negyedévnél rövidebb, a térítés megállapításakor a nála számításba vehető naptári negyedév(ek), negyedév hiányában az utolsó naptári hónap(ok)ra kifizetett éjszakai és délutáni pótlék együttes összegének a távollét idejére számított időarányos átlagát kell figyelembe venni.
+(6) A hivatásos katasztrófavédelmi szervnél váltásos szolgálati rendben szolgálatot teljesítők számára az egészségügyi szabadság idejére az alapilletmény, az illetménykiegészítés, a rendszeres illetménypótlékok, valamint az éjszakai és délutáni pótlék együttes összegének a távollét idejére számított időarányos átlagát kell térítésként folyósítani. A térítés összegének megállapításánál az utolsó négy naptári negyedévben (irányadó időszak) kifizetett éjszakai és délutáni pótlék együttes összegének a távollét idejére számított időarányos átlagát kell figyelembe venni. Ha a hivatásos állomány tagjának a szolgálati viszonya négy naptári negyedévnél rövidebb, a térítés megállapításakor a nála számításba vehető naptári negyedév(ek), negyedév hiányában az utolsó naptári hónap(ok)ra kifizetett éjszakai és délutáni pótlék együttes összegének a távollét idejére számított időarányos átlagát kell figyelembe venni.
 
 (7) Amennyiben az egészségügyi szabadságot nem szolgálati kötelmekkel összefüggő baleset, sérülés vagy nem szolgálati eredetű betegség indokolja, annak időtartamára évente 30 naptári napig távolléti díjat, illetve a (6) bekezdésben meghatározott térítést, a 31. naptári naptól a távolléti díj, illetve térítés 90%-át kell folyósítani. A 31. naptári naptól a baleset, sérülés szolgálati kötelmekkel összefüggő jellegének, illetve a betegség szolgálati eredetének megállapításáig a távolléti díj, illetve térítés 90%-át kell folyósítani, a baleset, sérülés szolgálati kötelmekkel összefüggő jellegének, illetve a betegség szolgálati eredetének megállapítása esetén a különbözetet a jogosult részére egyösszegben folyósítani kell.
 
@@ -1199,7 +1436,7 @@ távolléti díjnak megfelelő összeg.
 
 ### Szülési szabadság
 
-95. § (1) A hivatásos állomány terhes, illetve szülő nő tagját a munkajogi szabályok szerinti mértékű szülési szabadság illeti meg. Ezt úgy kell kiadni, hogy 4 hét lehetőleg a szülés várható időpontja elé essen.
+95. § (1) A hivatásos állomány várandós, illetve szülő nő tagját a munkajogi szabályok szerinti mértékű szülési szabadság illeti meg. Ezt úgy kell kiadni, hogy 4 hét lehetőleg a szülés várható időpontja elé essen.
 
 (2) A szülési szabadság megszűnik, ha
 
@@ -1221,7 +1458,7 @@ távolléti díjnak megfelelő összeg.
 
 (3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vérszerinti vagy örökbefogadó apát kell érteni.
 
-(4) A munkaidő-kedvezmény tartamára járó távolléti díj kifizetése – az állami költségvetés terhére – kormányrendelet alapján történik.
+(4) A munkaidő-kedvezmény tartamára járó távolléti díj kifizetése – a központi költségvetés terhére – kormányrendelet alapján történik.
 
 ### Illetmény nélküli szabadság
 
@@ -1289,7 +1526,7 @@ a gyermek 3. életévének – ikergyermek esetén a tankötelessé válás év�
 
 (3) A vezetői beosztást betöltő hivatásos állományúak beosztási illetményét a vezetői munkakörökhöz rendelt és a 6/B. számú mellékletben meghatározott szorzószámok alapján kell megállapítani.
 
-(4) A beosztási illetmény összegét a fizetési fokozatokhoz tartozó és a 6/A. számú mellékletben meghatározott szorzószámok és a mindenkori köztisztviselői illetményalap (a továbbiakban: illetményalap) szorzata adja. Az illetményalap összege évente az állami költségvetésről szóló törvényben kerül megállapításra.
+(4) A beosztási illetmény összegét a fizetési fokozatokhoz tartozó és a 6/A. számú mellékletben meghatározott szorzószámok és a mindenkori köztisztviselőkre vonatkozó illetményalap (a továbbiakban: illetményalap) szorzata adja. Az illetményalap összege évente a központi költségvetésről szóló törvényben kerül megállapításra.
 
 (5) A rendfokozati illetmények összegét a (4) bekezdés szerinti illetményalap és az egyes rendfokozatokhoz a 6. számú mellékletben meghatározott szorzószámok szorzata adja.
 
@@ -1370,7 +1607,7 @@ a gyermek 3. életévének – ikergyermek esetén a tankötelessé válás év�
 
 (7) Ha a fegyveres szerv a nyelvvizsga megszerzéséhez pénzügyi támogatást nyújt, akkor a hivatásos állomány tagja mindaddig nem jogosult az így megszerzett idegennyelv-tudás alapján idegennyelv-tudási pótlékra, amíg a havonta fizetendő pótlék együttes összege nem éri el a tanulmányi szerződés alapján kifizetett pénzügyi támogatás összegét.
 
-105. § (1) Az illetményt a törvényes magyar pénznemben kell megállapítani, és havonta utólag, a tárgyhónapot követő hónap 5. napjáig kell kifizetni, vagy a hivatásos állomány tagja megbízása alapján a fizetési számlájára átutalni.
+105. § (1) Az illetményt Magyarország hivatalos pénznemében kell megállapítani, és havonta utólag, a tárgyhónapot követő hónap 5. napjáig kell kifizetni, vagy a hivatásos állomány tagja megbízása alapján a fizetési számlájára átutalni.
 
 (2) Ha a hivatásos állomány tagja az illetményfizetési napon jogos okból nem tartózkodik a szolgálati helyén, kérésére, az illetményét az illetményfizetés előtti utolsó szolgálati helyén töltött napon kell kifizetni, vagy a szervezeti egység költségére a tartózkodási helyére megküldeni.
 
@@ -1448,7 +1685,7 @@ távolléti díjnak megfelelő összeg.
 
 költséget.
 
-(2) A hivatásos állomány tagjának a munkábajárás helyközi utazási költségeit a Munka Törvénykönyve 153. §-ának (2) bekezdése alapján kibocsátott jogszabály szerint megtéríteni. A munkába járáshoz szükséges helyi közlekedési bérlet a hivatásos állomány tagja részére biztosítható.
+(2) A munkába járás helyközi utazási költségeit a hivatásos állomány tagjának jogszabályban foglaltak szerint kell megtéríteni.
 
 (3) Az (1) bekezdés alapján a hivatásos állomány tagját megillető költségtérítések fajtáit, mértékét, a költségtérítés feltételeit, rendjét a miniszter állapítja meg.
 
@@ -1534,7 +1771,7 @@ költséget.
 
 ### Választható juttatások
 
-116/A. § (1) A hivatásos állomány tagja természetbeni juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A miniszter – a (7) bekezdésben meghatározott kivétellel – utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
+116/A. § (1) A hivatásos állomány tagja természetbeni juttatásként, választása szerint – az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjában, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel jogosult. A miniszter – a (7) bekezdésben meghatározott kivétellel – utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
 (2) Nem jogosult természetbeni juttatásra a hivatásos állomány tartós külszolgálaton lévő, illetve a nemzeti szakértőként foglalkoztatott tagja, továbbá a hivatásos állomány tagja azon időtartam vonatkozásában, amelyre illetményre vagy távolléti díjra nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
@@ -1546,7 +1783,7 @@ költséget.
 
 (6) A miniszter – a (7) bekezdésben meghatározott kivétellel – utasításban szabályozza a választható természetbeni juttatások fajtáit, mértékét, a természetbeni juttatás kifizetésének rendjét és módját.
 
-(7) A katasztrófák elleni védekezésért felelős miniszter a hivatásos önkormányzati tűzoltóságokra vonatkozóan rendeletben szabályozza a választható juttatás éves összegét, a választható természetbeni juttatások fajtáit, mértékét, a természetbeni juttatás kifizetésének rendjét és módját. A hivatásos önkormányzati tűzoltóságokat fenntartó önkormányzatok a 273. § szerint további választható juttatásokat is meghatározhatnak, illetve az egyes juttatások választható mértékét magasabban is meghatározhatják.
+(7)
 
 116/B. § (1) A hivatásos állomány tagja részére a 114. § alapján biztosítható visszatérítendő támogatás, valamint a 116/A. § alapján választható természetbeni juttatás nyújtása során keletkezett, a hivatásos állomány támogatást igénybevevő, illetve juttatásban részesülő tagjára és a támogatásra, illetve a juttatásra vonatkozó adatokat a (2) bekezdésben meghatározott célból az illetmény számfejtését végző szervek és személyek kezelhetik, illetve ezek kizárólag a részükre továbbíthatók.
 
@@ -1584,8 +1821,8 @@ költséget.
 
 (3) A hivatásos állomány tagja részére havonta
 
-- a) a tanácsosi cím után a köztisztviselői illetményalap 25%-ának,
-- b) a főtanácsosi cím után a köztisztviselői illetményalap 50%-ának
+- a) a tanácsosi cím után az illetményalap 25%-ának,
+- b) a főtanácsosi cím után az illetményalap 50%-ának
 
 megfelelő címpótlékot kell folyósítani.
 
@@ -1595,6 +1832,8 @@ megfelelő címpótlékot kell folyósítani.
 
 - a) a hivatásos állomány tagja jogerősen pénzbírságnál súlyosabb fegyelmi fenyítésben részesült, illetve
 - b) a hivatásos állomány tagjával szemben – megrovás és járművezetéstől eltiltás kivételével – a bíróság büntetést szabott ki vagy intézkedést alkalmazott, feltéve, hogy a szolgálati viszonya e törvény alapján nem szűnt meg.
+
+(6) A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a fegyveres szervek hivatásos állományú tagjai is részt vehetnek, és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosultak.
 
 ### XII. Fejezet — FEGYELMI FELELŐSSÉG
 
@@ -1695,9 +1934,9 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Büntető Tö
 
 (3) Az országos parancsnok a fegyelmi jogkörrel rendelkező közös elöljáró az általa irányított szervek tekintetében egyedi ügyben a fegyelmi jogkör gyakorlását magához vonhatja; vagy az alárendeltségébe tartozó fegyelmi jogkörrel rendelkező elöljárót felhatalmazhatja az illetékességi körén kívül eső ügyben a fegyelmi eljárás lefolytatására.
 
-(4) Az országos parancsnok (3) bekezdésben biztosított jogköre – a 274. és 275. §-ra tekintettel – nem alkalmazható az önkormányzati tűzoltóság állományába tartozó hivatásos állományú fegyelmi ügyében.
+(4)
 
-(5) Tábornok rendfokozatban való visszavetésére, szolgálati viszonyának megszüntetésére és lefokozására a miniszter tesz javaslatot a Magyar Köztársaság elnökének.
+(5) Tábornok rendfokozatban való visszavetésére, szolgálati viszonyának megszüntetésére és lefokozására a miniszter tesz javaslatot a köztársasági elnöknek.
 
 127/A. § (1) A rendelkezési állományba tartozóval szemben a fegyelmi jogkör gyakorlója, amennyiben a törvény eltérő rendelkezést nem tartalmaz
 
@@ -2024,7 +2263,7 @@ alapilletménye erejéig felel.
 173. § (1) Az elévülés szempontjából önállónak kell tekinteni:
 
 - a) a betegség idejére járó távolléti díj és a sérelem folytán csökkent kereset, valamint
-- b) a betegség idejére járó távolléti díj és a rokkantsági nyugdíj
+- b) a betegség idejére járó távolléti díj és a rokkantsági nyugdíj, megváltozott munkaképességű személyek ellátása
 
 különbözetének megtérítése iránti igényt.
 
@@ -2034,7 +2273,7 @@ különbözetének megtérítése iránti igényt.
 
 - a) a betegség idejére járó távolléti díj első fizetésének napjától,
 - b) attól az időponttól, amikor a sérelem folytán bekövetkezett munkaképesség-csökkenés, egészségkárosodás első ízben vezetett jövedelemkiesésben megmutatkozó károsodásra, végül
-- c) a rokkantsági nyugállományba helyezés időpontjától kezdődik.
+- c) a rokkantsági nyugállományba helyezés, megváltozott munkaképességű személyek ellátása folyósításának időpontjától kezdődik.
 
 (4) Járadékigény 6 hónapnál régebbi időre visszamenőleg csak akkor érvényesíthető, ha a jogosultat a követelés érvényesítésében mulasztás nem terheli, illetőleg a fegyveres szerv az 172. §-ban meghatározott kötelezettségét elmulasztotta. 3 évnél régebbi időre visszamenőleg járadékigény nem érvényesíthető.
 
@@ -2078,7 +2317,7 @@ különbözetének megtérítése iránti igényt.
 
 (2) A hivatásos állomány tagjának haláláról, 1 napot meghaladó szolgálatképtelenséget okozó balesetéről vagy a szolgálati kötelmekkel összefüggő olyan megbetegedéséről, amely előreláthatólag tartós szolgálatképtelenséggel jár, jegyzőkönyvet kell felvenni. A jegyzőkönyv felvételéről az állományilletékes parancsnok köteles gondoskodni.
 
-(3) A balesetnek, betegségnek a szolgálati kötelmekkel való összefüggéséről a miniszter által kijelölt szerv indokolt határozatban dönt (minősítő határozat). Az önkormányzati tűzoltóság tagjait az állományilletékes parancsnok minősíti.
+(3) A balesetnek, betegségnek a szolgálati kötelmekkel való összefüggéséről a miniszter által kijelölt szerv indokolt határozatban dönt (minősítő határozat).
 
 (4) A minősítő határozatot írásba kell foglalni, és azt a hivatásos állomány tagja – halála esetén közeli hozzátartozója – részére meg kell küldeni.
 
@@ -2086,256 +2325,33 @@ különbözetének megtérítése iránti igényt.
 
 ### Nyugellátás
 
-181. § (1) A hivatásos állomány tagját – saját jogán – szolgálati nyugdíj, rokkantsági nyugdíj, baleseti rokkantsági nyugdíj illeti meg, és magánnyugdíjra szerezhet jogosultságot. A szerződéses állomány tagja szolgálati nyugdíjra nem jogosult.
+181. § (1)–(2)
 
-(2) A hivatásos állomány tagja után a hozzátartozókat megillető hozzátartozói nyugellátások: az özvegyi nyugdíj, az árvaellátás, a szülői nyugdíj és a baleseti hozzátartozói nyugellátások.
+(3) Az (1) és (2) bekezdés szerinti nyugellátások esetében a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj. tv.), a Tny. tv., valamint a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mny. tv.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(3) Az (1) és (2) bekezdés szerinti nyugellátások esetében a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj. tv.), a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny. tv.), valamint a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mny. tv.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+182. §
 
-### A szolgálati nyugdíj
+182/A. §
 
-182. § (1) A hivatásos állomány tagja szolgálati nyugdíjra jogosult 25 év tényleges szolgálati viszonyban eltöltött szolgálati idő után.
+183. §
 
-(2) A hivatásos állomány tagja szolgálati nyugdíjra jogosult 25 év tényleges szolgálati viszonyban eltöltött szolgálati idő előtt is, ha a hivatásos szolgálat 52. §-ban meghatározott felső korhatárának elérésekor tényleges szolgálati viszonyban legalább 10 évet eltöltött, és rendelkezik a társadalombiztosítási szabályok szerint számított 25 év szolgálati idővel.
+184. §
 
-(3) A szolgálati nyugdíjat teljes összegében kell folyósítani, ha a szolgálati viszony a felső korhatár elérésekor szűnt meg.
+185. §
 
-(4) A felső korhatár elérése előtt is teljes összegben kell folyósítani a szolgálati nyugdíjat, ha a hivatásos állomány tagja
+186. §
 
-- a) 25 év tényleges szolgálati viszonyban töltött idővel rendelkezik és szolgálati viszonya a törvény 56. §-a (1) bekezdésének a)–d) pontja, 56. §-a (2) bekezdésének c) pontja, az 59. §-a (1) bekezdésének c) vagy e) pontja, illetőleg egészségi, pszichikai, fizikai alkalmatlanság miatt szűnt meg,
-- b) 25 év tényleges szolgálati viszonyban eltöltött idővel rendelkezik, és szolgálati viszonya megszűnésekor az 50. életévét már betöltötte, vagy a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény (a továbbiakban: Rjtv.) 1. §-ának a) pontja szerinti egészségkárosodása (a továbbiakban: egészségkárosodás) a 40%-ot elérte, de még nem rokkant.
-
-(5) Ha a hivatásos állomány 25 év szolgálati viszonyban eltöltött idővel rendelkező tagjának a szolgálati viszonyát egészségi, pszichikai, fizikai alkalmatlanság miatt azért szüntették meg, mert az 56. § (5) bekezdés b) pontja alapján részére felajánlott hivatásos szolgálati beosztást vagy nem hivatásos munkakört alapos ok nélkül nem fogadta el, részére – a (4) bekezdés a) pontjában foglaltaktól eltérően – a szolgálati nyugdíj 90%-át kell folyósítani a felső korhatár betöltéséig, illetve az egészségkárosodás 40%-os mértékének eléréséig. Ettől kezdve a szolgálati nyugdíjat teljes összegben kell folyósítani. E rendelkezés alkalmazásában alapos oknak kell tekinteni a felajánlott beosztás, munkakör ellátásával kapcsolatos olyan körülményt, amely a hivatásos állományú tag életvitelében (különös tekintettel egészségi állapotára, munkába járására, közeli hozzátartozójának ellátására) aránytalan nehézséget okoz.
-
-(6) Ha a hivatásos állomány 25 év szolgálati viszonyban eltöltött idővel rendelkező tagjának a szolgálati viszonyát az 50. életéve betöltése előtt közös megegyezéssel szüntetik meg, részére a szolgálati nyugdíj 50%-a folyósítható az 50. életéve betöltéséig, illetve az egészségkárosodás 40%-os mértékének eléréséig. Ettől kezdve a szolgálati nyugdíjat a (4) bekezdés b) pontja szerint kell folyósítani.
-
-(7) A miniszter a szolgálati érdemekre, illetve a szociális helyzetre figyelemmel, az (6) bekezdés esetében az érintett javára eltérést engedélyezhet.
-
-(8) Nem folyósítható a felső korhatár betöltése vagy megrokkanása előtt a szolgálati nyugdíj annak, akinek a szolgálati viszonya az 53. § b), f), g) pontja, az 56. § (2) bekezdés b) pontja, illetve az 59. § (1) bekezdésének d) pontja alapján szűnt meg.
-
-(9) A hivatásos állomány azon tagjának, aki a szolgálati nyugdíjra jogosultsághoz szükséges, az (1) bekezdésében meghatározott 25 év tényleges szolgálati időt megszerzi, a szolgálati nyugdíja összegét – annak folyósítása nélkül 6 hónapon belül – hivatalból meg kell állapítani.
-
-(10) A szolgálati nyugdíj összegének megállapítása alapján a hivatásos állományú nem minősül nyugdíjasnak.
-
-(11) A hivatásos állomány tagja a tényleges nyugállományba helyezésekor választhat a (9) bekezdés és a 182/A. § szerint rögzített, valamint a tényleges nyugállományba helyezésekor megállapított nyugdíjak között azzal, hogy ha a rögzítést követően szolgálati időt szerez, akkor a rögzített nyugdíjat az évenkénti emelésekkel növelve kell figyelembe venni.
-
-(12) Ha a hivatásos állomány tagja a 64. § alapján történt visszavételét követően legalább 365 nap tényleges szolgálati időt szerez, a szolgálati viszonyának megszüntetésekor kiszámított szolgálati nyugdíj helyett – amennyiben ez számára kedvezőbb – választhatja a korábbi vagy rögzített nyugdíjának az évenkénti emelésekkel növelt összegét.
-
-182/A. § (1) Annak a hivatásos állományúnak, akinek a szolgálati nyugdíjjogosultság szempontjából figyelembe vehető szolgálati ideje 2007. december 31-én eléri, vagy meghaladja a 20 évet, a 2007. december 31-én hatályos nyugdíj-megállapítási szabályok szerint meg kell állapítani, illetve újból meg kell állapítani (rögzíteni) a szolgálati nyugdíj összegét, annak folyósítása nélkül. Az így rögzített nyugdíjat megilleti a 2008. évi emelés összege is.
-
-(2) Az (1) bekezdés szerinti szolgálati nyugdíj rögzítésekor (megállapításakor) a 183. § szerint számított illetmény és illetmény jellegű juttatások havi átlagának
-
-- a) 20 év betöltött szolgálati idő esetén 60%-ával,
-- b) 21 év betöltött szolgálati idő esetén 61%-ával,
-- c) 22 év betöltött szolgálati idő esetén 62%-ával,
-- d) 23 év betöltött szolgálati idő esetén 63%-ával,
-- e) 24 év betöltött szolgálati idő esetén 64%-ával,
-- f) 25 év vagy ennél több betöltött szolgálati idő esetén a tényleges szolgálathoz tartozó, a 184. § szerint számított százalékával
-
-kell számolni.
-
-(3) Az (1) bekezdésben meghatározott hivatásos állományú – a nyugdíjba vonuláskor hatályos törvényi rendelkezésektől függetlenül – teljes összegű szolgálati nyugdíjra jogosult, ha
-
-- a) 25 év tényleges szolgálati viszonyban töltött idővel rendelkezik, és
-  - aa) szolgálati viszonya a törvény 56. § (1) bekezdésének a)–d) pontja, 56. § (2) bekezdésének c) pontja, illetőleg egészségi, pszichikai, fizikai alkalmatlanság miatt szűnt meg, vagy
-  - ab) szolgálati viszonya megszűnésekor az 50. életévét már betöltötte, vagy egészségkárosodása a 40%-ot elérte, de nem rokkant, vagy
-  - ac) 57. életévét betöltötte; vagy
-- b) 57. életévét betöltötte, tényleges szolgálati viszonyban legalább 10 évet eltöltött, és rendelkezik a társadalombiztosítási szabályok szerint számított 25 év szolgálati idővel.
-
-183. § (1) A szolgálati nyugdíj összegét a szolgálati viszony megszűnését közvetlenül megelőző 365 nap (szökőév esetén 366 nap) alatt a szolgálati viszony keretében elért, a kifizetés időpontjában hatályos jogszabályok szerint nyugdíjjárulék alapjául szolgáló illetménynek és illetmény jellegű juttatásoknak az elért jövedelemből levont egészségbiztosítási járulék, nyugdíjjárulék, magán-nyugdíjpénztári tagdíj, valamint munkavállalói járulék összegével, továbbá a fennmaradó összegre képzett személyi jövedelemadó összegével csökkentett összege havi átlaga alapján kell megállapítani.
-
-(2) Az (1) bekezdésben meghatározott összeg kiszámításánál alkalmazni kell a társadalombiztosítási jogszabályokban az öregségi nyugdíj megállapításánál előírt korlátozásokat.
-
-(3) A repüléstől egészségi okból véglegesen eltiltott repülőhajózó nyugdíját a szolgálati viszonyának megszűnésekor a vele azonos rendfokozatú, beosztású és minősítésű repülőhajózó illetményének és illetmény jellegű juttatásainak alapulvételével kell az (1) bekezdés szerint megállapítani, ha ez számára kedvezőbb.
-
-(4) Az (1) és (3) bekezdésben említett illetményen és illetmény jellegű juttatáson az alapilletményt, az illetménykiegészítést, az illetménypótlékot, a 2009. január 1-jét megelőzően hatályos szabályok szerinti külön juttatást és a jutalmat kell érteni.
-
-184. § A szolgálati nyugdíj összege a társadalombiztosítás szempontjából figyelembe vehető szolgálati idő tartamától és a 183. § (1) bekezdése alapján számított illetmény és illetmény jellegű juttatások havi átlagától függ. Ezek figyelembevételével a szolgálati nyugdíj összege:
-
------------------------
-
-Szolgálati Havi átlag-
-
-idő/év kereset %-a
-
------------------------
-
-25 65,0
-
-26 66,0
-
-27 67,5
-
-28 69,0
-
-29 70,5
-
-30 72,0
-
-31 73,5
-
-32 75,0
-
-33 76,5
-
-34 78,0
-
-35 79,5
-
-36 81,0
-
-37 és ennél több 83,0
-
-### Rokkantsági nyugdíj
-
-185. § (1) Szolgálati idejére tekintet nélkül rokkantsági nyugdíjra jogosult a hivatásos állománynak az a tagja, akinek az egészségkárosodása eléri a legalább 50%-os mértéket.
-
-(2) A rokkantsági nyugdíj mértéke a nyugdíj megállapításáig szerzett, a társadalombiztosítás szempontjából figyelembe vehető szolgálati idő tartamától és a rokkantság fokától függ. Ennek megfelelően a rokkantsági nyugdíj összege:
-
-----------------------------
-
-Ha a teljes A rokkantság
-
-szolgálati III. II. I.
-
-évek száma csoportjában az
-
-illetményátlag %-ában
-
-----------------------------
-
-0 50,0 55,0 60,0
-
-1 50,5 55,5 60,5
-
-2 51,0 56,0 61,0
-
-3 51,5 56,5 61,5
-
-4 52,0 57,0 62,0
-
-5 52,5 57,5 62,5
-
-6 53,0 58,0 63,0
-
-7 53,5 58,5 63,5
-
-8 54,0 59,0 64,0
-
-9 54,5 59,5 64,5
-
-10 55,0 60,0 65,0
-
-11 55,5 60,5 65,5
-
-12 56,0 61,0 66,0
-
-13 56,5 61,5 66,5
-
-14 57,0 62,0 67,0
-
-15 57,5 62,5 67,5
-
-16 58,0 63,0 68,0
-
-17 58,5 63,5 68,5
-
-18 59,0 64,0 69,0
-
-19 59,5 64,5 69,5
-
-20 60,0 65,0 70,0
-
-21 61,0 66,0 71,0
-
-22 62,0 67,0 72,0
-
-23 63,0 68,0 73,0
-
-24 64,0 69,0 74,0
-
-25 65,0 70,0 75,0
-
-26 66,0 71,0 76,0
-
-27 67,5 72,5 77,5
-
-28 69,0 74,0 79,0
-
-29 70,5 75,5 80,5
-
-30 72,0 77,0 82,0
-
-31 73,5 78,5 83,5
-
-32 75,0 80,0 85,0
-
-33 76,5 81,5 86,5
-
-34 78,0 83,0 88,0
-
-35 79,5 84,5 89,5
-
-36 81,0 86,0 91,0
-
-37 és ennél több 83,0 88,0 93,0
-
-(3) Akinek a rokkantságát az orvosi felülvizsgálat megszüntette és a rokkantság idejét is beleszámítva a szolgálati nyugdíjjogosultság feltételeivel rendelkezik, a továbbiakban részére szolgálati nyugdíjat kell megállapítani és folyósítani.
-
-### Baleseti ellátás
-
-186. § (1) A hivatásos állomány tagja szolgálati kötelmekkel összefüggő balesete, sérülése vagy szolgálati eredetű betegsége alapján, ha az egészségkárosodás mértéke
-
-- a) az 50%-ot eléri, baleseti rokkantsági nyugdíjra,
-- b) a 13%-ot meghaladja, baleseti járadékra
-
-jogosult.
-
-(2) A baleseti rokkantsági nyugdíj, valamint a baleseti járadék mértéke azonos a társadalombiztosítási rendelkezések szerinti baleseti rokkantsági nyugdíj, illetőleg baleseti járadék mértékével.
-
-### Hozzátartozói nyugellátás
-
-187. § (1) A hivatásos állomány tagja vagy a hivatásos állományból nyugállományba helyezett személy elhalálozása esetén özvegyének (élettársának) özvegyi nyugdíj, gyermekének árvaellátás, szülőjének szülői nyugdíj jár.
-
-(2) Az özvegyi nyugdíj az özvegyet az elhalt házastársa szolgálati viszonyának idejére tekintet nélkül megilleti.
-
-(3) A Tny. Tv. 50. §-ának (1) bekezdése és (2) bekezdésének a) pontja szerinti özvegyi nyugdíj a 60%-a, a Tny. Tv. 50. §-a (2) bekezdésének b) pontja szerinti özvegyi nyugdíj a 36%-a annak a szolgálati, rokkantsági vagy baleseti rokkantsági nyugdíjnak, amely az elhunytat a halála időpontjában megillette, vagy megillette volna.
-
-188. § (1) Az árvaellátás mértéke a Tny. tv. 56. § (1) bekezdése szerinti árva esetében az elhunyt nyugdíjának 36 százaléka, a (2) bekezdése szerinti árva esetében pedig a 72 százaléka.
-
-(2) A szülői nyugdíj összege az özvegyi nyugdíj összegével egyenlő. Ha a szülői nyugdíjra többen szereztek jogot, a szülői nyugdíj a jogosultakat egyenlő arányban illeti meg.
+187–188. §
 
 189. §
 
-### A baleseti hozzátartozói nyugellátások
+190. §
 
-190. § (1) A hivatásos állomány szolgálati kötelmekkel összefüggő baleset, sérülés vagy betegség következtében elhunyt tagjának a 187. § (1) bekezdésben szereplő hozzátartozói baleseti hozzátartozói nyugellátásra jogosultak.
+191. §
 
-(2) A baleseti rokkantsági nyugdíjas hozzátartozóját a baleseti nyugellátás akkor is megilleti, ha a nyugdíjas nem a szolgálati kötelmekkel összefüggő baleset, sérülés vagy betegség következtében halt meg.
+192. §
 
-(3) A baleseti sérült hozzátartozóinak akkor is jár a baleseti nyugellátás, ha a halál a szolgálati kötelmekkel összefüggő baleset, sérülés vagy betegség miatti munkaképtelenség ideje alatt következik be, és vélelmezhető, hogy a sérült életben maradása esetében baleseti rokkantsági nyugdíjra lett volna jogosult.
-
-(4) A hozzátartozói baleseti nyugellátások mértéke – az (5)–(7) bekezdésekben foglalt kivételekkel – a 187–188. § szerinti hozzátartozói nyugellátások mértékével azonos.
-
-(5) A hősi halott után az ideiglenes özvegyi nyugdíj annak a baleseti rokkantsági nyugdíjnak a 70 százaléka, amely az elhunytat – halála időpontjában – a II. rokkantsági csoportban megillette volna.
-
-(6) A hősi halott után járó ideiglenes özvegyi nyugdíjat követően folyósított özvegyi nyugdíj annak a baleseti rokkantsági nyugdíjnak az 50 százaléka, amely az elhunytat a halál időpontjában a II. rokkantsági csoportban megillette volna.
-
-(7) A hősi halott esetében az árvaellátás összege árvánként annak a nyugdíjnak a 42, illetőleg – a Tny. tv. 56. §-ának (2) bekezdése esetén – a 84 százaléka, amely az elhunytat baleseti rokkantsági nyugdíjként – halála időpontjában – a II. rokkantsági csoportban megillette volna.
-
-### A nyugellátás megállapítása
-
-191. § (1) Az e törvény alapján járó nyugellátásokat és baleseti ellátásokat – az Információs Hivatal kivételével – a nyugdíjbiztosítási igazgatási szerv állapítja meg.
-
-(2) Az e törvény alapján járó nyugellátásokról és baleseti ellátásokról az Információs Hivatal tekintetében első fokon a polgári hírszerzési tevékenység irányításáért felelős miniszter által kijelölt szerv indokolt határozatban dönt. A határozat ellen a kézbesítéstől számított 15 napon belül a polgári hírszerzési tevékenység irányításáért felelős miniszterhez fellebbezés nyújtható be. A polgári hírszerzési tevékenység irányításáért felelős miniszter határozata ellen a kézbesítésétől számított 30 napon belül keresettel a bírósághoz lehet fordulni.
-
-192. § (1) A nyugellátásra jogosultnak a nyugállományba helyezést követő 2 hónapra nyugdíj helyett az utolsó havi illetménye kétszeresének számított személyi jövedelemadóval csökkentett összegét kell kifizetni.
-
-(2) Ha a hivatásos állomány tagja meghalt, az (1) bekezdés szerinti összeget azoknak a nyugellátásra jogosult hozzátartozóknak kell folyósítani, akik az elhalttal annak halálakor együttéltek.
-
-### A magánnyugdíj
-
-192/A. § (1) Az Mny. tv. 3. § (1) bekezdése, valamint a Tbj. tv. 4. § m) pontja alkalmazása szempontjából a hivatásos állomány tagját 37. életévének betöltése előtt kell pályakezdőnek tekinteni.
+192/A. § (1)
 
 (2) A nemzetbiztonsági szolgálatok tekintetében a nemzetbiztonsági szolgálatok főigazgatói határozzák meg, hogy a hivatásos állomány tagja melyik magánnyugdíjpénztárhoz csatlakozhat.
 
@@ -2442,7 +2458,7 @@ jogosult.
 
 ### XVII. Fejezet — A NYUGÁLLOMÁNYÚAKRA VONATKOZÓ SZABÁLYOK
 
-204. § (1) A hivatásos állományból nyugállományba helyezett személy (a továbbiakban: a nyugállomány tagja) – a 205. §-ban meghatározott eset kivételével – egyenruháját viselheti, és rendfokozatát a nyugállományra utaló megjelöléssel használhatja.
+204. § (1) A hivatásos állományból nyugállományba helyezett vagy nyugállományba vonult személy (a továbbiakban: a nyugállomány tagja) – a 205. §-ban meghatározott eset kivételével – egyenruháját viselheti, és rendfokozatát a nyugállományra utaló megjelöléssel használhatja.
 
 (2) A nyugállomány tagja, házastársa és az általa eltartott gyermeke a 179. § szerinti egészségügyi szolgáltatáson túl jogosult – a külön jogszabályban meghatározott – kedvezményes üdülésre. A házastársat e jog a nyugállomány tagjának halála után is megilleti.
 
@@ -2464,6 +2480,8 @@ jogosult.
 - b) aki a fegyveres szerv megbecsülését és tekintélyét romboló tevékenységet folytat;
 - c) akit szándékos bűncselekmény elkövetése miatt a bíróság szabadságvesztésre ítélt.
 
+205/A. § A 204. és 205. §-ban meghatározott rendelkezéseket a szolgálati járandóságban részesülőkre is megfelelően alkalmazni kell.
+
 ### XVIII. Fejezet — SZOCIÁLIS ÉS KEGYELETI GONDOSKODÁS
 
 ### Szociális gondoskodás
@@ -2475,6 +2493,14 @@ jogosult.
 - c) akinek a szolgálati viszonya a szolgálati kötelmekkel összefüggő baleset, betegség miatt szűnt meg.
 
 207. § A szociális gondoskodás keretében a szociális igazgatásról és szociális ellátásokról szóló jogszabályokban biztosítottakon túl, a fegyveres szerv saját költségvetése terhére pénzbeni, természetbeni, személyes gondoskodást nyújtó alap- és szakosított ellátást biztosít.
+
+207/A. § (1) A hősi halott hozzátartozója a Tny. tv. alapján megállapított hozzátartozói nyugellátás 50 százalékának megfelelő összegű kiegészítő hozzátartozói támogatásra jogosult.
+
+(2) A kiegészítő hozzátartozói támogatást a 208. § (1) bekezdése szerinti határozat alapján a 191. § szerinti nyugdíjmegállapító szerv állapítja meg, és a nyugdíjfolyósító szerv folyósítja.
+
+(3) A kiegészítő hozzátartozói támogatás forrását a központi költségvetés biztosítja.
+
+(4) Más jogszabályok – különösen a személyi jövedelemadóról szóló törvény – alkalmazása során az e törvényben szabályozott eltérésekkel a kiegészítő hozzátartozói támogatás hozzátartozói nyugellátásnak minősül.
 
 ### A kegyeleti gondoskodás
 
@@ -2492,15 +2518,31 @@ jogosult.
 
 (2) Az (1) bekezdés alá nem tartozó elhunyt esetében a fegyveres szerv 50%-ban viseli a temetés költségeit; míg a 209. § (2) bekezdése alá tartozók esetében méltányosságból hozzájárulhat a temetési költségekhez.
 
+### XVIII/A. Fejezet — A fegyveres szervnél foglalkoztatott munkavállaló
+
+210/A. § (1) A fegyveres szervnél foglalkoztatott munkavállalókra a Munka Törvénykönyve (a továbbiakban: Mt.) rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A fegyveres szerv munkaviszonyt büntetlen előéletű, cselekvőképes, a munkakör betöltésére külön jogszabályban megállapított képesítési követelménynek, illetőleg biztonsági feltételeknek megfelelő személlyel létesíthet. A munkavállaló írásbeli titoktartási nyilatkozatot tesz, a munkavégzés a nyilatkozattételt követően kezdhető meg.
+
+(3) A fegyveres szerv működésével összefüggő okból történő felmondás esetén a munkavállaló a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta egyenlő részletben jogosult, a végkielégítést pedig a felmondási idő utolsó napján kell kifizetni.
+
+(4) A munkavállaló, ha a munkavégzési kötelezettség alóli mentesítés ideje alatt költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló gazdálkodó szervezettel teljes vagy részmunkaidős munkaviszonyt létesít,
+
+- a) ezt a tényt a fegyveres szervnek haladéktalanul köteles írásban bejelenteni,
+- b) a felmondási időből hátralévő időre távolléti díjra nem jogosult,
+- c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielégítés alapjául szolgáló időtartam számítása során a felmondással megszüntetett jogviszony alapján végkielégítésre jogosító idejét is figyelembe kell venni.
+
+(5) A munkavállalónak a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
+
 ## MÁSODIK RÉSZ — KÜLÖNÖS SZABÁLYOK
 
 ### XIX. Fejezet — A HIVATÁSOS KATONÁKRA VONATKOZÓ SZABÁLYOK
 
 211–245. §
 
-### XIX/A. Fejezet — A RENDŐRSÉG, A POLGÁRI VÉDELEM, A HIVATÁSOS ÁLLAMI ÉS ÖNKORMÁNYZATI TŰZOLTÓSÁG, A POLGÁRI NEMZETBIZTONSÁGI SZOLGÁLATOK, A BÜNTETÉS-VÉGREHAJTÁSI SZERVEZET, A Nemzeti Adó- és Vámhivatal HIVATÁSOS ÁLLOMÁNYÁRA VONATKOZÓ KÖZÖS SZABÁLYOK
+### XIX/A. Fejezet — A RENDŐRSÉG, A HIVATÁSOS KATASZTRÓFAVÉDELMI SZERV, A POLGÁRI NEMZETBIZTONSÁGI SZOLGÁLATOK, A BÜNTETÉS-VÉGREHAJTÁSI SZERVEZET, A NEMZETI ADÓ- ÉS VÁMHIVATAL HIVATÁSOS ÁLLOMÁNYÁRA VONATKOZÓ KÖZÖS SZABÁLYOK
 
-245/A. § A rendőrség, a polgári védelem, a hivatásos állami és önkormányzati tűzoltóság, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a Nemzeti Adó- és Vámhivatal hivatásos állományára a törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+245/A. § A rendőrség, a hivatásos katasztrófavédelmi szerv, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományára a törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
 245/B–245/C. §
 
@@ -2528,7 +2570,7 @@ jogosult.
 
 245/H. § (1) Az e fejezet hatálya alá tartozó fegyveres szervek országos szintű szerveinél – a szerv vezetőjét nem számítva – legfeljebb négy, a területi (megyei illetékességű), valamint a helyi szerveknél – a szerv vezetőjét nem számítva – legfeljebb kettő vezetői szint létesíthető.
 
-(2) E szervek országos parancsnokai és helyettesei illetményét a munkáltatói jogkört gyakorló elöljáró határozza meg azzal, hogy az illetmény a köztisztviselői illetményalap huszonötszörösét nem haladhatja meg.
+(2) E szervek országos parancsnokai és helyettesei illetményét a munkáltatói jogkört gyakorló elöljáró határozza meg azzal, hogy az illetmény az illetményalap huszonötszörösét nem haladhatja meg.
 
 (3) Ha törvény vagy kormányrendelet eltérően nem rendelkezik, az (1) bekezdésben meghatározott szervek területi szerveinek vezetője főosztályvezetői, a szervezeti egységek vezetője főosztályvezető-helyettesi vagy osztályvezetői, a helyi szervek vezetője főosztályvezetői, főosztályvezető-helyettesi vagy osztályvezetői, a szervezeti egységek vezetője főosztályvezető-helyettesi vagy osztályvezetői beosztási illetményre jogosult.
 
@@ -2558,9 +2600,9 @@ jogosult.
 
 245/R. § Felhatalmazást kap az illetékes miniszter, hogy a törvény XIX/A. fejezete rendelkezéseinek hatálybalépését követően 6 hónapon belül, a törvény alapján rendeletben szabályozza a fegyveres szerveknél azon idegen nyelvek körét, amelyek után a fegyveres szerv rendelkezésére álló személyi juttatások előirányzatán belül a Hszt. 104. § (5) bekezdése szerinti mértékű nyelvpótlék folyósítható.
 
-### XX. Fejezet — A RENDŐRSÉG,A POLGÁRI VÉDELEM, A HIVATÁSOS ÁLLAMIÉS ÖNKORMÁNYZATI TŰZOLTÓSÁG HIVATÁSOS ÁLLOMÁNYÁRA VONATKOZÓ SZABÁLYOK
+### XX. Fejezet — A RENDŐRSÉG ÉS A HIVATÁSOS KATASZTRÓFAVÉDELMI SZERV HIVATÁSOS ÁLLOMÁNYÁRA VONATKOZÓ SZABÁLYOK
 
-246. § A rendőrség, a polgári védelem, valamint az állami és önkormányzati tűzoltóság hivatásos állományára e törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+246. § A rendőrség és a hivatásos katasztrófavédelmi szerv hivatásos állományára e törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
 ### Közös szabályok
 
@@ -2570,9 +2612,9 @@ jogosult.
 - b) főigazgató,
 - c) megyei (budapesti) rendőrfőkapitány, és a vele azonos jogállású szervek vezetői,
 - d)
-- e) fővárosi polgári védelmi igazgató,
-- f) megyei katasztrófavédelmi igazgató, és a vele azonos jogállású szervek vezetői,
-- g) önkormányzati tűzoltóparancsnok,
+- e)
+- f) a hivatásos katasztrófavédelmi szerv területi szerve vezetője, és a vele azonos jogállású szervek vezetői,
+- g) tűzoltó parancsnok,
 - h) városi (kerületi) rendőrkapitány,
 - i) határrendészeti kirendeltségvezető.
 
@@ -2696,82 +2738,70 @@ jogosult.
 
 264/B. §
 
-### A rendőrség különleges állományába tartozók határozott idejű szolgálati viszonya
+### Különleges foglalkoztatási állomány
 
-264/C. § (1) A rendőrségnél e törvény végrehajtásáról szóló rendeletben meghatározott beosztások betöltésére határozott idejű szolgálati viszony létesíthető.
+264/C. § (1) Ha az öregségi nyugdíjkorhatár elérése előtt a szolgálati járandóságra jogosult
 
-(2) A rendőrség különleges állományába tartozók határozott idejű szolgálati viszonyára (a továbbiakban: határozott idejű szolgálati viszony) az ebben az alcímben foglalt rendelkezéseket és az I–IV., XII. és XIII. fejezetben, az 53. § h) pontjában, az 54. §-ban, a 65. §-ban, a 66. §-ban, a 68. § (1) bekezdés a)–c), e) és f) pontjában, továbbá (2)–(4) bekezdésében, a 69. §-ban, a 70. §-ban, a 118. § (1) bekezdés e), f) és h) pontjában, a 204. § (4) bekezdésében, valamint a XV–XVIII. fejezetben megállapított rendelkezéseket megfelelően alkalmazni kell.
+- a) vállalja, hogy hivatásos szolgálati viszony keretében a különleges foglakoztatási állományban (a továbbiakban: szenior állomány) teljesít szolgálatot,
+- b) megfelel a miniszter által meghatározott alkalmassági követelményeknek, és
+- c) a szolgálati járandóságát a különleges foglalkoztatási állomány idejére szünetelteti, kérelmére – függetlenül attól, hogy melyik fegyveres szervnél vagy a Magyar Honvédségnél állt fenn szolgálati viszonya – a rendőrség különleges foglalkoztatási állományába kell venni.
 
-264/D. § (1) Határozott idejű szolgálati viszony a 60. életévét be nem töltött, legalább két éve szolgálati nyugállományba tartozó, magyar állampolgárságú, a nemzetbiztonsági feltételeknek megfelelő, legfeljebb alezredes rendfokozatú, a beosztáshoz meghatározott képzettséggel rendelkező rendőrrel, illetve nyugállományú határőrrel létesíthető. A határozott idejű szolgálati viszony létesítésének egészségi alkalmassági feltételeit, a betölthető beosztásokat megállapító, e törvény végrehajtására kiadott rendelet határozza meg.
+(2) A szenior állományba tartozó szolgálati beosztást nem lát el.
 
-(2) Határozott idejű szolgálati viszony kettő, vagy három évre létesíthető, amely – legfeljebb a rendőr 62. életévének betöltéséig – két alkalommal, esetenként legfeljebb három évvel meghosszabbítható.
+(3) A szenior állományban történő foglalkoztatásra a rendőrség és a szolgálati járandóságra jogosult határozott idejű szerződést köt, amely alapján az öregségi nyugdíjkorhatár betöltéséig foglalkoztatható.
 
-264/E. § A határozott idejű szolgálati viszony önkéntes jelentkezés alapján, különleges állományba vétellel jön létre. A különleges állományba vételi döntésben meg kell állapítani a szolgálatteljesítés helyét és a betöltendő beosztást.
+(4) A szenior állományban foglalkoztatottnak a személyi jövedelemadó és a járulékok levonása után számított illetménye nem lehet alacsonyabb a részére a szenior állományba vétel előtt folyósított szolgálati járandóságnak – a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 5. § (2)–(5) bekezdése szerinti csökkentés nélkül számított – összegénél, és el kell, hogy érje a mindenkori kötelező legkisebb munkabér havi összegének 150 százalékát. Az illetményemelés mértéke megegyezik az öregségi nyugdíjemelés mértékével.
 
-264/F. § (1) A határozott idejű szolgálati viszony – meghosszabbítás hiányában – a határozott idő elteltével megszűnik.
+(5) Szenior állományba vételkor a szolgálati időt a szolgálati nyugállományba helyezéskor elismert hivatásos szolgálati idő alapján kell megállapítani.
 
-(2) A határozott idejű szolgálati viszony az (1) bekezdésben meghatározott idő eltelte előtt is megszűnik:
+264/D. § (1) A szenior állomány tagja – a (3) bekezdésben foglalt kivétellel – fegyver nélküli szolgálatot lát el.
 
-- a) közös megegyezéssel,
-- b) egyoldalú nyilatkozattal,
-- c) szolgálati viszonyt érintő büntetés vagy szolgálati viszony megszüntetése fenyítés kiszabásával.
+(2) A szenior állományban foglalkoztatott szolgálatteljesítési ideje heti 35 óra, részére túlszolgálat nem rendelhető el, a szolgálatot 06.00 és 22.00 óra között kell teljesíteni.
 
-(3) A fegyveres szerv, illetve a határozott idejű szolgálati viszonyban álló rendőr a szolgálati viszonyt a másik félhez intézett, a jogviszony megszüntetésére irányuló egyoldalú nyilatkozattal, tizenöt napos határidővel megszüntetheti.
+(3) A szenior állomány tagját a szolgálati feladataira figyelemmel megállapított felszereléssel kell ellátni.
 
-264/G. § (1) A határozott idejű szolgálati viszonyban álló rendőr havonta legfeljebb a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 83/B. § (1) bekezdésében meghatározott éves keretösszeg egytizenketted részének megfelelő illetményre jogosult. Az illetményt havonta kell folyósítani.
+(4) Kihirdetett veszélyhelyzet, megelőző védelmi helyzet, rendkívüli állapot vagy szükségállapot idején a szenior állományban foglalkoztatottra a (2) bekezdésben foglaltak nem alkalmazhatók.
 
-(2) A határozott idejű szolgálati viszonyban álló rendőr tulajdonában lévő anyagi eszközök szolgálati célú felhasználásáért a miniszter – a személyi jövedelemadóról szóló törvény alkalmazása szempontjából jövedelemnek nem minősülő – költségtérítést állapíthat meg.
+264/E. § A szenior állományban foglalkoztatott a hivatásos szolgálati viszony létesítését követően, a tényleges szolgálat megkezdése előtt, a szolgálati feladatok jellegének megfelelő képzésben részesül.
 
-(3) A szolgálat kiemelkedő teljesítéséért a határozott idejű szolgálati viszonyban álló rendőr – a kitüntető cím kivételével – a 118. § (1) bekezdés e), f) és h) pontjában meghatározott jutalomban részesíthető.
+264/F. § (1) A szenior állományban foglalkoztatott szolgálati viszonya az öregségi nyugdíjkorhatár elérése előtt is megszűnik
 
-(4) A határozott idejű szolgálati viszonyban álló rendőr – ha a fegyveres szerv célja érdekében kifejtett tevékenységével arra érdemes – a 204. § (4) bekezdése alapján egy alkalommal, a soron következő rendfokozatba előléptethető.
+- a) a szenior állomány tagjának kérelmére, vagy
+- b) ha a szenior állomány tagja nem felel meg a kifogástalan életvitel követelményének vagy a szenior állomány tagjára vonatkozó egészségi, fizikai és pszichikai követelményeknek.
 
-264/H. § (1) A határozott idejű szolgálati viszonyban álló rendőr az állományba vételi döntésben meghatározott beosztáson kívül más beosztásba nem helyezhető, illetve más feladat ellátásával nem bízható meg, továbbá más feladat ellátása céljából nem vezényelhető.
+(2) A szenior állományban foglalkoztatott szolgálati viszonyának megszüntetésére irányuló kérelemben meg kell jelölni a szolgálati viszony megszüntetésének időpontját. A kérelmet a szolgálati viszony megszüntetésének időpontját megelőzően legalább 60 nappal be kell nyújtani.
 
-(2) A határozott idejű szolgálati viszonyban álló rendőr a nyugállományba helyezésekor viselt rendfokozatát a nyugállományra utaló megjelölés nélkül használja.
+(3) Ha a szenior állomány tagjának szolgálati viszonya kérelemre szűnik meg, a szenior állományba egy alkalommal visszavehető.
 
-264/I. § A határozott idejű szolgálati viszonyban álló rendőr a feladatait kötött szolgálati időbeosztás nélkül, a munkáltatói jogkör gyakorlója által meghatározott rendben látja el, azonban ha a közbiztonságot, a közrendet vagy az államhatár rendjét sértő vagy veszélyeztető tényt, körülményt vagy cselekményt észlel, illetve ilyet a tudomására hoznak, haladéktalanul köteles intézkedni vagy intézkedést kezdeményezni.
+(4) Megüresedett szolgálati beosztás betöltésénél a szenior állomány tagját – ha megfelel a 64. §-ban meghatározott feltételeknek – előnyben kell részesíteni.
 
-264/J. § A határozott idejű szolgálati viszonyban álló rendőr évi 15 munkanap szabadságra jogosult.
+264/G. §
 
-264/K. § A határozott idejű szolgálati viszonyban álló rendőr a társadalombiztosítási és adójogszabályok alkalmazása szempontjából nyugellátás folyósítása melletti foglalkoztatottnak minősül.
+264/H. §
 
-264/L. § A határozott idejű szolgálati viszonyban álló rendőr szolgálati viszonyának létesítése és megszüntetése tekintetében a megyei rendőrfőkapitány, egyéb tekintetben pedig a helyi rendőri szerv vezetője a munkáltatói jogot gyakorló szolgálati elöljáró.
+264/I. §
 
-### A polgári védelem hivatásos állományáravonatkozó szabályok
+264/J. §
 
-265. § (1) A polgári védelem hivatásos állományú tagjai szolgálatot teljesíthetnek a 42. § (2) bekezdésén kívül a megyei (fővárosi) és települési önkormányzatoknál, valamint a védelmi bizottságoknál.
+264/K. §
 
-(2) A polgári védelem meghatározott beosztásokra szerződéses szolgálati viszonyt létesíthet.
+264/L. §
 
-(3) A szerződéses állomány tekintetében a 270. § rendelkezéseit kell megfelelően alkalmazni.
+### A hivatásos katasztrófavédelmi szerv hivatásos állományára vonatkozó szabályok
 
-266. § (1) A polgári védelem szerveinél kiemelt munkáltatói jogkört gyakorló elöljáró az országos parancsnok, állományilletékes parancsnok pedig a fővárosi, megyei parancsnok.
+265. § (1) A hivatásos katasztrófavédelmi szerv hivatásos állományú tagjai szolgálatot teljesíthetnek a 42. § (2) bekezdésén kívül a megyei (fővárosi) és települési önkormányzatoknál, valamint a védelmi bizottságoknál.
 
-(2) Szolgálati elöljáró a polgári védelem szerveinél:
+(2)–(3)
 
-- a) a munkáltatói jogkör gyakorlására jogosult személy,
-- b) a főigazgató, igazgató a főigazgatóság, igazgatóság állománya,
-- c) a főosztályvezető, osztályvezető a főosztály, osztály állománya,
-- d) a körzetparancsnok a körzet állománya
-
-tekintetében.
+266. §
 
 267. § A polgári védelem 86. § (6) bekezdése szerinti ünnepnapja március 1-je, a polgári védelem napja.
 
-### Az állami és hivatásos önkormányzati tűzoltóság hivatásos állományára vonatkozó szabályok
+268. §
 
-268. § (1) Az önkormányzati tűzoltóparancsnok kinevezése és felmentése az önkormányzati képviselő-testület (a továbbiakban: képviselő-testület), a Főváros esetén a közgyűlés (a továbbiakban: közgyűlés) hatáskörébe tartozik. Az önkormányzati tűzoltóparancsnok kinevezéséhez a szakmai felügyeletet ellátó tűzoltóparancsnok, a Főváros esetén az Országos Katasztrófavédelmi Főigazgatóság főigazgatójának egyetértése szükséges.
+269. §
 
-(2) Minden más munkáltatói jogot – a fegyelmi és kártérítési jogkör kivételével – a polgármester (főpolgármester) gyakorol.
-
-269. § (1)
-
-(2) A szolgálati viszony az önkormányzati tűzoltó-parancsnokság és a hivatásos önkormányzati tűzoltó között, illetve az önkormányzat és a hivatásos önkormányzati tűzoltóparancsnok között jön létre.
-
-(3) Az önkormányzati tűzoltóparancsnoki beosztást pályázat útján kell betölteni. A pályázatot a képviselő-testület (közgyűlés) írja ki. A pályázati feltételeket a szakmai felügyeletet ellátó tűzoltóparancsnokkal előzetesen egyezteti.
-
-270. § (1) Szerződéses szolgálati viszony hivatásos szolgálati – kivéve vezetői – beosztások ellátására létesíthető. Tiszthelyettesi beosztások esetében szerződéses szolgálati viszony általános iskolai és legalább szakiskolai végzettséggel rendelkező jelentkezővel is létesíthető.
+270. § (1) A hivatásos katasztrófavédelmi szervnél szerződéses szolgálati viszony hivatásos szolgálati – kivéve vezetői – beosztások ellátására létesíthető. Tiszthelyettesi beosztások esetében szerződéses szolgálati viszony általános iskolai és legalább szakiskolai végzettséggel rendelkező jelentkezővel is létesíthető.
 
 (2) Szerződéses szolgálati viszonyt létesíteni a 37. életév betöltéséig lehet. Ez alól az országos parancsnok a 47. év betöltéséig indokolt esetben kivételt tehet.
 
@@ -2791,54 +2821,33 @@ tekintetében.
 
 271. § (1) A hivatásos állomány tagjának állományilletékes parancsnoki beosztásba történő kinevezéséhez 5 év, az alapfeladatot ellátó vezetői beosztásba történő kinevezéséhez 3 év tűzoltó-szakmai gyakorlat szükséges. Nem minősül tűzoltó szakmai gyakorlatnak a 3. § (3) bekezdésében felsorolt munkaköri feladatok végzése.
 
-(2) Ha a hivatásos önkormányzati tűzoltóparancsnokot beosztásából felmentik, alacsonyabb beosztásba helyezhető, vagy más állami, illetve önkormányzati tűzoltó-parancsnokság állományába áthelyezhető. Amennyiben ezt nem fogadja el, vele szemben a felmentés szabályait kell alkalmazni.
-
-(3) A hivatásos tűzoltó – beleegyezésével – az állami vagy önkormányzati tűzoltó-parancsnokságról más állami vagy önkormányzati tűzoltó-parancsnokság állományába vezényelhető, ha a vezényléssel kapcsolatos költségek viseléséről az érintett parancsnokságok írásban megállapodtak.
+(2)–(3)
 
 (4) A készenléti jellegű beosztásokban szolgálatot teljesítők esetében, amennyiben a szolgálatteljesítési idő – a heti 48 óra figyelembevételével – eléri a hathavi keretre megállapított szolgálatteljesítési időt, a 87. § (1) és (2) bekezdésében foglaltaktól eltérően túlszolgálat csak rendkívüli eset (baleset, elemi csapás, vagy súlyos kár) megelőzése, elhárítása, illetve következményeinek felszámolása, valamint arra való felkészülés céljából rendelhető el.
 
 272. § (1) A tűzoltóság szakképzettséggel nem rendelkező hivatásos állományú tagja nem láthat el önállóan olyan szolgálatot, amelyhez tűzoltói szakképzettség szükséges.
 
-(2) Bármely beosztásba történő első kinevezés esetén kötelező az alapfokú tűzoltó tanfolyam elvégzése. Ez alól felmentést a szakmai felügyeletet ellátó tűzoltóparancsnok adhat.
+(2)–(4)
 
-(3) A századosi rendfokozati állománycsoportba tartozó tűzoltói beosztások betöltéséhez középfokú állami és szakmai iskolai végzettség is elfogadható.
+(5)
 
-(4) A hivatásos önkormányzati tűzoltóparancsnokot a polgármester (főpolgármester) minősíti a szakmai felügyeletet ellátó tűzoltóparancsnok véleményének a figyelembevételével.
+273. §
 
-(5) A szakmai felügyeletet ellátó megyei katasztrófavédelmi igazgató (főigazgató) soron kívüli minősítést kezdeményez, ha a hivatásos önkormányzati tűzoltóparancsnokkal szemben szakmai alkalmatlanság merül fel.
+274. § (1)–(4)
 
-273. § Az önkormányzat saját költségvetése terhére a törvényben meghatározottakon túl további juttatásokat állapíthat meg.
+(5)
 
-274. § (1) Az önkormányzati tűzoltóparancsnok helyettese felett a fegyelmi jogkört a polgármester (főpolgármester) gyakorolja.
+(6)
 
-(2) A fegyelmi eljárást
+(7)
 
-- a) hivatásos önkormányzati tűzoltóparancsnok esetében az önkormányzati képviselő-testület (közgyűlés),
-- b) parancsnokhelyettes esetében a polgármester (főpolgármester) rendeli el.
+(8)
 
-(3) A fegyelmi eljárás elrendeléséhez ki kell kérni a szakmai felügyeletet ellátó katasztrófavédelmi igazgató (főigazgató) véleményét. Ha pedig a katasztrófavédelmi igazgató vagy a főigazgató szakmai felügyeleti jogkörébe tartozó ügyben kezdeményezi, a fegyelmi eljárást el kell rendelni.
+(9) Ha a fegyelemsértést több hivatásos tűzoltóság hivatásos állományába tartozók együttesen követték el, a fegyelmi vizsgálat lefolytatásáról az a tűzoltó parancsnok intézkedik, akinek a működési területén a fegyelemsértést elkövették. Az érdemi döntést az eljáró parancsnok javaslatának figyelembevételével az állományilletékes tűzoltó parancsnokok hozzák meg.
 
-(4) Az önkormányzati tűzoltóparancsnok és helyettesével szemben elrendelt fegyelmi eljárásban a vizsgálatot – a (3) bekezdés szerinti kezdeményezésre elrendelt esetben – a képviselő-testület, illetve a polgármester kezdeményezése alapján a szakmai felügyeletet ellátó katasztrófavédelmi igazgató (főigazgató) által kijelölt személy is lefolytathatja. A vizsgálatba ezekben az esetekben az érintett hivatásos katasztrófavédelmi szervek képviselőjét mindenképpen be kell vonni.
+275. §
 
-(5) A katasztrófavédelem állományából megbízott vizsgáló a feladat ellátásával összefüggésben a fegyelmi jogkört gyakorló képviselő-testület (polgármester) rendelkezései szerint jár el.
-
-(6) Az önkormányzati tűzoltóparancsnok felfüggesztéséről a polgármester vagy az eljáró bizottság javaslatára a képviselő-testület határoz, parancsnokhelyettes esetében a polgármester intézkedik.
-
-(7) A felelősségre vonásról vagy annak mellőzéséről az önkormányzati tűzoltóparancsnok esetében a polgármester előterjesztése alapján a képviselő-testület hoz határozatot.
-
-(8) A 123. § (1) bekezdésének g) és h) pontjában meghatározott fenyítések helyett a polgármester (főpolgármester) a parancsnok, illetve a parancsnokhelyettes beosztásból történő felmentését kezdeményezheti.
-
-(9) Ha a fegyelemsértést több önkormányzati tűzoltóság hivatásos állományába tartozók együttesen követték el, a fegyelmi vizsgálat lefolytatásáról az az önkormányzati tűzoltóparancsnok intézkedik, akinek a működési területén a fegyelemsértést elkövették. Az érdemi döntést azonban az eljáró parancsnok javaslatának figyelembevételével az állományilletékes tűzoltóparancsnokok hozzák meg.
-
-275. § (1) A hivatásos önkormányzati tűzoltóparancsnok hatáskörében hozott intézkedése, fenyítési és kártérítési határozata ellen benyújtott panaszt a polgármester bírálja el.
-
-(2) A képviselő-testület (közgyűlés), illetve a polgármester (főpolgármester) által a munkáltatói jogkörében hozott határozattal (minősítéssel) szemben közvetlenül a munkaügyi bírósághoz lehet fordulni.
-
-276. § (1) A hivatásos önkormányzati tűzoltóparancsnok és helyettese személyi anyagába – a 202. §-ban meghatározottakon kívül, és az érintett beleegyezésével – a polgármester (főpolgármester) megbízottja tekinthet bele.
-
-(2) Az önkormányzati tűzoltó-parancsnokság a katasztrófák elleni védekezésért felelős miniszter által meghatározott rendben szolgáltatja a szükséges adatokat és okmányokat a szakmai felügyeletet ellátó tűzoltó-parancsnokság részére.
-
-(3) Az önkormányzati tűzoltó-parancsnokság személyzeti és munkaügyi tevékenységének felügyeletét a szakmai felügyeletet ellátó tűzoltó-parancsnokság látja el.
+276. § (1)–(3)
 
 (4) A tűzoltóság napja május 4-e, Szent Flórián napja.
 
@@ -2868,13 +2877,7 @@ tekintetében.
 
 281. § (1) A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai szolgálati és szociális életkörülményeikkel kapcsolatos érdekeik védelmére szolgálatonként érdekképviseleti szerveket hozhatnak létre, ha a hivatásos állomány egyharmada alapító tagként az érdekképviseleti szerv megalakítását kimondja. Az egyes érdekképviseleti szervek nemzetközi érdekképviseleti szövetséghez nem csatlakozhatnak.
 
-(2) Az érdekképviseleti szervet egyetértési jog illeti meg a szolgálat költségvetésében előirányzott jóléti célú pénzeszközök felhasználásával és a jóléti jellegű intézmények, ingatlanok hasznosításával kapcsolatban.
-
-(3) Az érdekképviseleti szervet véleményezési jog illeti meg az illetményfejlesztésre és az egyéb járandóságok fedezetére rendelkezésre álló pénzeszközök felhasználásával, a szociális juttatásokkal, lakásgazdálkodással, egészségügyi ellátással, illetőleg a szolgálati és munkakörülményekkel összefüggő tervek kialakításával kapcsolatban.
-
-(4) Az érdekképviseleti szerv – halasztó hatállyal nem bíró – kifogást nyújthat be a munkáltatói jogkör gyakorlójánál a hivatásos állomány nagyobb csoportját közvetlenül érintő jogellenes elöljárói intézkedés (mulasztás) ellen. Ha a munkáltatói jogkört gyakorló elöljáró a kifogással nem ért egyet, egyeztetésnek van helye.
-
-(5) A (4) bekezdésben foglalt kifogás benyújtására a jogellenes intézkedést (mulasztást) követő, illetőleg a tudomásra jutástól számított 8 munkanapon belül van lehetőség. A határidő jogvesztő. A kifogást a munkáltatói jogkört gyakorló elöljáró 5 munkanapon belül elbírálja. Az egyeztetésre ezt követően 8 munkanapon belül kerül sor. Az eredménytelen egyeztetést követően az érdekképviseleti szerv a miniszterhez fordulhat.
+(2)–(5)
 
 282. § (1) Az érdekképviseleti szerv a hivatásos állomány tagját a nemzetbiztonsági szolgálattal szemben bíróság vagy más hatóság előtt nem jogosult képviselni.
 
@@ -3034,7 +3037,7 @@ Szolgálatonként:
 - a) személyügyi igazgatás rendjét, az előmenetel, a teljesítményértékelés, a minősítés és a szolgálati jellemzés készítésének szabályait, valamint a munkáltatói intézkedések kiadásának rendjét;
 - b) az egészségi, pszichikai és fizikai alkalmasság követelményeit, az egészségi, pszichikai és fizikai alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichikai és fizikai alkalmassági követelményeknek való meg nem feleléssel kapcsolatos eljárást;
 - c) azokat a szolgálati beosztásokat, amelyekben az idegen nyelv használata szükséges, illetőleg ahol idegen nyelv ismerete a szolgálati beosztással járó feladat, továbbá a ritka és a kettőnél több nyelv használatáért adható kiegészítő nyelvpótlék mértékét, valamint ahol – a 104. § (5) bekezdésében meghatározott nyelveken túl – más nyelv után is az ott meghatározott mértékű nyelvpótlék adható;
-- d) azokat a szolgálati beosztásokat, amelyeknél a szolgálati viszonyban töltött idő számítása a 329. § (1) bekezdésében meghatározott szorzószámok alkalmazásával történik;
+- d)
 - e) a fegyelmi eljárás rendjét, illetve a fegyelmi jogkört gyakorló elöljárók körét.
 
 (2) A polgári nemzetbiztonsági szolgálatok esetében a 342. § (2) bekezdésében, valamint a
@@ -3126,9 +3129,9 @@ Szolgálatonként:
 
 306/B. § A büntetés-végrehajtási szervezet hivatásos állományú tagjának a 62. §-ban foglaltakon kívül meg kell térítenie a megkezdett alapfokú és középfokú szaktanfolyamoknak a büntetés-végrehajtás országos parancsnoka által megállapított költségeit, valamint az általa megkezdett olyan tanfolyamok tandíját is, amelyet helyette a büntetés-végrehajtás fizetett ki, ha a szolgálati viszonya a próbaidő alatt szűnt meg.
 
-### XXIII. Fejezet — A Nemzeti Adó- és Vámhivatal hivatásos állományára vonatkozó szabályok
+### XXIII. Fejezet
 
-307. § A Nemzeti Adó- és Vámhivatal hivatásos állományára e törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+307. §
 
 ### Értelmező rendelkezések
 
@@ -3252,41 +3255,33 @@ A pótlékok mértéke:
 
 ### A szolgálati idő számítása
 
-326. § (1) A felmentési idő, a végkielégítés, a pótszabadság mértéke, a jubileumi jutalom, a nyugdíjjogosultság, a nyugdíj mértéke és a leszerelési segély szempontjából e törvény hatálybalépése előtt a fegyveres szervek állományában hivatásos szolgálati viszonyban eltöltött és a beszámított szolgálati időt szolgálati viszonyban töltött időnek kell elismerni.
+326. § (1) A felmentési idő, a végkielégítés, a pótszabadság mértéke, a jubileumi jutalom és a leszerelési segély szempontjából e törvény hatálybalépése előtt a fegyveres szervek állományában hivatásos szolgálati viszonyban eltöltött és a beszámított szolgálati időt szolgálati viszonyban töltött időnek kell elismerni.
 
-(2) Az e törvény hatálybalépése után létesített szolgálati viszony esetén a szolgálati viszonyban eltöltött időbe csak a 328. § (1) bekezdése szerint van helye beszámításnak.
+(2)
 
 (3) A hivatásos szolgálati viszonyban töltött idő a kinevezési okmánnyal történt állománybavétel napjától a szolgálati viszony megszűnésének napjáig tart.
 
 (4) E törvény hatálybalépését követően a továbbszolgálói szolgálati viszonyban eltöltött időt szerződéses szolgálati viszonyban töltött szolgálati időnek kell tekinteni. Ha a szerződéses állomány tagja hivatásos szolgálati viszonyt létesít, az addig szerződéses szolgálati viszonyban eltöltött ideje hivatásos szolgálati viszonyban töltött időnek számít.
 
-326/A. § A felmentési idő, a végkielégítés, a pótszabadság mértéke, a jubileumi jutalom, a nyugdíjjogosultság és a nyugdíj mértéke szempontjából szolgálati viszonyban töltött időnek kell elismerni a szakmunkásképzést végző szakközépiskolában 1977. január 1-je és 1990. március 15-e között folytatott tanulmányok idejét is, ha a jogosult szakmunkásként való foglalkoztatásra is jogosító képzésben részesült, és ezt a tanulmányi időt a szolgálati viszonyban töltött időbe – 2009. március 6-ig hivatalból, illetve 2009. március 6-ig benyújtott kérelme alapján 2009. augusztus 31-ig – beszámították.
+326/A. § A felmentési idő, a végkielégítés, a pótszabadság mértéke, a jubileumi jutalom szempontjából szolgálati viszonyban töltött időnek kell elismerni a szakmunkásképzést végző szakközépiskolában 1977. január 1-je és 1990. március 15-e között folytatott tanulmányok idejét is, ha a jogosult szakmunkásként való foglalkoztatásra is jogosító képzésben részesült, és ezt a tanulmányi időt a szolgálati viszonyban töltött időbe – 2009. március 6-ig hivatalból, illetve 2009. március 6-ig benyújtott kérelme alapján 2009. augusztus 31-ig – beszámították.
 
-327. § Akinek a szolgálati viszonyát megszüntették, annak az e törvény szerint számított hivatásos szolgálati idejét – ha jogszabály eltérően nem rendelkezik – munkaviszony, közszolgálati, közalkalmazotti jogviszony, bírósági és ügyészségi szolgálati viszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.
+327. § Akinek a szolgálati viszonyát megszüntették, annak az e törvény szerint számított hivatásos szolgálati idejét – ha jogszabály eltérően nem rendelkezik – munkaviszony, kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszony, bírósági és ügyészségi szolgálati viszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.
 
-328. § (1) A szolgálati nyugdíjra jogosultság szempontjából szolgálati viszonyban ténylegesen eltöltött időnek kell tekinteni a sor-, a tartalékos, a póttartalékos, a továbbszolgáló és a szerződéses katonai, a fegyveres szerveknél, valamint a Magyar Honvédségnél hivatásos szolgálati, továbbá a katonai és rendvédelmi oktatási intézményeknél 1998. január 1-jét megelőzően hallgatói (növendéki) viszonyban töltött időt.
+328. § (1)
 
-(2) A szolgálati nyugdíj mértékének megállapításához az (1) bekezdésben foglaltakon kívül a szolgálati időbe be kell számítani a társadalombiztosítási jogszabályok szerinti szolgálati időket is.
+(2)
 
-(3) A katonai és rendvédelmi felsőfokú oktatási intézmények hallgatóinak (növendékeinek) e szolgálati ideje a társadalombiztosítási szabályok szerint nem számít korkedvezményre jogosító szolgálati időnek.
+(3)
 
-(4) A más közszolgálati (közalkalmazotti, köztisztviselői, bírói, ügyészi) jogviszonyból áthelyezettek, illetve közvetlenül kinevezettek esetében a pótszabadság mértéke és a jubileumi jutalomra jogosultság, valamint a felmentési idő számítása szempontjából az (1) bekezdésben meghatározottakon túl az ott eltöltött szolgálati időt is figyelembe kell venni.
+(4) A más közszolgálati (közalkalmazotti, kormányzati szolgálati, közszolgálati, bírói, ügyészi) jogviszonyból áthelyezettek, illetve közvetlenül kinevezettek esetében a pótszabadság mértéke és a jubileumi jutalomra jogosultság, valamint a felmentési idő számítása szempontjából az ott eltöltött szolgálati időt is figyelembe kell venni.
 
-329. § (1) A 326. § (1) bekezdésében meghatározott szempontból az alábbiak szerint kell a szolgálati viszonyban eltöltött időt számítani:
-
-- a) 2-szeresen a hivatásos állomány azon tagjainak, akik háborús, rendkívüli vagy különösen veszélyes körülmények között külföldön teljesítenek szolgálatot, valamint a rendőrségnek a terrorcselekmények elhárítására létrehozott szervezeti egységénél tényleges terrorelhárítói feladatokat teljesítőknek, továbbá a Nemzeti Adó- és Vámhivatal fegyveres bűnelkövetők elfogását, és a helyszín fegyveres biztosítását főtevékenységként végző szervezeti elem tagjainak,
-- b) 1,5-szeresen a helikopterek hajózó állományának, a tűzszerészeknek, búvároknak, az a) pont alá nem eső, nemzetközi szerződés alapján békefenntartói tevékenységet folytatóknak, a polgári nemzetbiztonsági szolgálatok állományából a tartós külföldi szolgálatot teljesítőknek,
-- c) 1,2-szeresen a földfelszín alatt szolgálatot teljesítőknek, a fogva tartottakkal közvetlenül folyamatosan foglalkozó állomány tagjainak, valamint a fokozott igénybevétellel járó beosztásokban szolgálatot teljesítő végrehajtói feladatot ellátó állománynak.
-
-(2) Nem számítható kedvezményesen az az idő, ami alatt az (1) bekezdésben meghatározottak nem a beosztásuknak megfelelő feladatot látnak el.
+329. §
 
 330. § (1) A szolgálati idő számításánál nem lehet figyelembe venni a szolgálati beosztásból való felfüggesztés, az előzetes letartóztatás, valamint a katonai fogdában végrehajtott szabadságvesztés időtartamát.
 
 (2) Az (1) bekezdés – a katonai fogdát kivéve – nem alkalmazható, ha az érintett személyt az ellene emelt vád alól jogerősen felmentették, vagy a büntetőeljárást megszüntették.
 
-331. § (1) Az illetmény nélküli szabadság 30 napot meghaladó tartama a társadalombiztosítási szabályok szerint számít szolgálati időnek.
-
-(2) A szolgálati viszony szünetelésének időtartama nyugdíjra jogosító szolgálati időnek számít.
+331. §
 
 ### XXV. Fejezet — HATÁLYBALÉPTETŐ RENDELKEZÉSEK
 
@@ -3330,23 +3325,55 @@ A pótlékok mértéke:
 
 (2) A törvényben meghatározott új fenyítéseket [123. § (1) bekezdés c)–d) pont] csak a törvény hatálybalépése után folyamatba tett ügyekben lehet alkalmazni.
 
-341. § (1) Aki e törvény hatálybalépésekor a hatályos jogszabályok alapján szolgálati nyugdíjjogosultságot szerzett, vagy azt a törvény hatálybalépése évének december 31. napjáig megszerzi, e jogosultságát a törvény nem érinti.
-
-(2) A hivatásos állomány (1) bekezdésben meghatározott tagja nyugdíjának megállapítására és folyósítására a korábban hatályos rendelkezéseket kell alkalmazni, ha az rá nézve kedvezőbb.
-
-(3) A hivatásos állomány tagja az (1)–(2) bekezdésben meghatározott jogával e törvény hatálybalépését követő 5 évig élhet.
-
-(4) Az (1) bekezdés szerint járó nyugdíjjogosultságról a hivatásos állomány tagját írásban értesíteni kell, és a kérésének megfelelő időpontban nyugállományba kell helyezni.
+341. §
 
 341/A. §
 
-341/B. § E törvény rokkantsági nyugdíjra, baleseti rokkantsági nyugdíjra vonatkozó, 2008. január 1-jétől hatályos rendelkezéseit a 2007. december 31-ét követően benyújtott igénybejelentés – ideértve az állapotrosszabbodás miatti igénybejelentést is – esetén kell alkalmazni.
+341/B. § (1) Ha jogszabály alapján az ellátást nem kell megszüntetni vagy módosítani, az e törvény alapján 2011 decemberére folyósított hozzátartozói nyugellátásokat és baleseti járadékot 2012. január 1-jétől hivatalból – a 2012. januári nyugdíjemelés mértékével növelt összegben – kell továbbfolyósítani. A továbbfolyósításról nem kell döntést hozni.
+
+(2) Az e törvény alapján megállapított hozzátartozói nyugellátásokra és baleseti járadékra 2012. január 1-jétől a társadalombiztosítási nyugellátásról, illetve a kötelező egészségbiztosítás ellátásairól szóló jogszabályok rendelkezéseit kell alkalmazni. E rendelkezésre hivatkozva a 2011 decemberére folyósított hozzátartozói nyugellátások és baleseti járadék összege nem csökkenthető.
+
+(3) Az e törvény alapján 2011 decemberére hősi halott után hozzátartozói nyugellátásban részesülő személy a társadalombiztosítási nyugellátásról szóló jogszabályok és a 207/A. § rendelkezései alapján a nyugdíjmegállapító szervtől 2012. június 30-áig kérheti a hozzátartozói nyugellátás ismételt megállapítását és kiegészítő hozzátartozói támogatás megállapítását. A hozzátartozói nyugellátás összegét – 2012. január 1-jétől kezdődően – abban az esetben lehet ismételten megállapítani és egyúttal kiegészítő hozzátartozói támogatást megállapítani, ha az így megállapított hozzátartozói nyugellátás és kiegészítő hozzátartozói támogatás együttes összege magasabb az (1) bekezdés szerint folyósított összegnél.
+
+(4) A hozzátartozói nyugellátás és baleseti járadék összegének módosítása során a 2011 decemberében folyósított ellátás összegének alapjául szolgáló átlagkeresetet kell figyelembe venni, ha ez az ellátásban részesülőre kedvezőbb, mint az általános szabályok alapján számított átlagkereset.
 
 341/C. § (1) Ha a hivatásos állomány tagja 2011. január 1-je előtt megfelelt a kifogástalan életvitel követelményének, vele szemben a 37/A. §-ban meghatározott kizáró ok csak újabb bűncselekmény elkövetése esetén alkalmazható.
 
 (2) A 2011. január 1-jén folyamatban lévő méltatlansági eljárást a 2010. december 31-én hatályos szabályok szerint kell lefolytatni.
 
 (3) Ha a közös háztartásban élő hozzátartozó 37/B. § (5) bekezdés szerinti nyilatkozatot nem tesz, az nem érinti a hivatásos állomány tagjának szolgálati viszonyát, amennyiben az 2010. december 31-én fennállt.
+
+341/D. § A hivatásos állomány tagjának szolgálati idejét 2011. december 31-ével az akkor hatályos szabályok szerint meg kell állapítani és rögzíteni kell. A szolgálati idő rögzítését 2012. április 30-áig kell elvégezni, és erről a hivatásos állomány tagját írásban tájékoztatni kell. Az így rögzített szolgálati időt a nyugdíj előtti rendelkezési állomány, a felmentési idő, a végkielégítés, a könnyített szolgálat, a pótszabadság mértéke és a jubileumi jutalom szempontjából kell szolgálati viszonyban töltött időnek elismerni.
+
+341/E. § (1) Ha a szolgálati viszony vagy közalkalmazotti jogviszony létesítésére e törvény hatálybalépése előtt került sor, a hivatásos állomány tagja, valamint a közalkalmazott 2012. január 1-jén az MRK tagjává válik.
+
+(2) Az MRK Közgyűlés tagjainak megválasztásával, az alakuló közgyűlés előkészítésével és lebonyolításával összefüggő feladatok ellátására 15 tagú Előkészítő Bizottság alakul, amelynek tagjait és Elnökét a rendészetért felelős miniszter jelöli ki.
+
+(3) Az MRK Előkészítő Bizottság 2012. január 31-ig tartja meg az alakuló ülését. Az Előkészítő Bizottság ügyrend alapján, a Közgyűlés megalakulásáig működik.
+
+(4) Az Előkészítő Bizottság feladatai:
+
+- a) elkészíti – e törvény keretei között – az ideiglenes választási szabályzatot;
+- b) az ideiglenes választási szabályzat szerint előkészíti és lebonyolítja a Közgyűlés tagjainak megválasztását,
+- c) javaslatot tesz az Alapszabályra.
+
+(5) 2012. február 15-ig a fegyveres szerv – a polgári nemzetbiztonsági szolgálatok kivételével – a vele szolgálati viszonyban és közalkalmazotti jogviszonyban álló személyek adatairól (családi és utónév, munkáltató megnevezése, székhelye) értesítést küld az MRK Előkészítő Bizottságának, a polgári nemzetbiztonsági szolgálatok a személyi állományuk létszámáról értesítik az MRK Előkészítő Bizottságát.
+
+(6) Az MRK 2012. június 30-ig alakuló közgyűlést tart, amelynek összehívásáról a rendészetért felelős miniszter gondoskodik. Az alakuló közgyűlés dönt az Alapszabály elfogadásáról, megválasztja az MRK elnökét és alelnökeit, az MRK főtitkárát, a PEB elnökét és tagjait, az EB elnökét és tagjait.
+
+(7) Az Előkészítő Bizottság által elkészített ideiglenes választási szabályzat a Közgyűlés megalakulását követő 30. napon hatályát veszti.
+
+(8) A Közgyűlés megalakulásával kapcsolatos költségeket a Belügyminisztérium fejezet tartalmazza.
+
+341/F. § A belügyminiszter irányítása alá tartozó fegyveres szervek hivatásos állományának tiszthelyettesi és zászlós rendfokozatú tagja havonta 14 000 Ft kiegészítő juttatásra jogosult, amelyet az illetménnyel együtt kell folyósítani.
+
+341/G. § (1) A hivatásos állomány tagját kérelmére a továbbfoglalkoztatás megkezdéséig, de legfeljebb egy évig rendelkezési állományba kell helyezni, ha
+
+- a) a felmentésére az 56. § (2) bekezdés a) pontja alapján egészségi, pszichikai vagy fizikai alkalmatlanság miatt került sor,
+- b) a felmentési idő lejártakor rendelkezik legalább 25 év hivatásos szolgálati viszonyban töltött idővel, és
+- c) részére a fegyveres szervnél a képzettségének, végzettségének, egészségi, pszichikai és fizikai állapotának megfelelő kormánytisztviselői, közalkalmazotti jogviszony vagy munkaviszony alá tartozó munkakör nem biztosítható.
+
+(2) A hivatásos állomány érintett tagja az (1) bekezdés szerinti rendelkezési állományba helyezés időtartamára a felmentését megelőző havi illetménye 50%-ának, de legalább a minimálbérnek megfelelő összegű ideiglenes szolgálati járandóságra jogosult, feltéve, hogy az ideiglenes szolgálati járandóság kezdő napján más, biztosítással járó jogviszonyban nem áll, és a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátásban – ide nem értve a Tny. tv. szerinti hozzátartozói nyugellátásokat – nem részesül. A rendelkezési állomány időtartama társadalombiztosítási szempontból szolgálati időnek számit, a rendelkezési állományba tartozó biztosítási jogviszonyban áll.
 
 ### XXVII. Fejezet — FELHATALMAZÁSOK ÉS AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
@@ -3355,7 +3382,7 @@ A pótlékok mértéke:
 - a) a más szervhez vezénylésre és áthelyezésre kerülők szolgálati viszonya módosításának rendjét, a foglalkoztatásukkal, jogaikkal és kötelezettségeikkel összefüggő kérdéseket, továbbá a velük kapcsolatos személyügyi igazgatást;
 - b) a szolgálati viszony szünetelésének eljárási rendjét;
 - c) a vezetői alapmunkaköröket, az abban elérhető rendfokozatokat, betöltésükhöz szükséges alap végzettségi (képesítési) követelményeket, a besorolási osztályok beosztási kategóriáihoz rendelt alapbeosztásokat, és az egyes beosztások besorolásának általános szabályait; az illetménypótlékra jogosultság és megállapításának általános feltételeit;
-- d) a fokozottan veszélyes beosztások meghatározását a 85. § (2) bekezdése és a 92. § (1) bekezdésének a) pontja alapján, a fokozottan veszélyes és az egyéb veszélyes beosztások meghatározását a 254. § (2) bekezdése, a 293. § (1) bekezdése, a 306. § és a 322. § (1) bekezdésének l) pontja alapján, valamint a szolgálati idő kedvezményes számítására jogosító, fokozott igénybevétellel járó szolgálati beosztások meghatározását – azonos megnevezésű szolgálati beosztások esetén a szakterület vagy az ellátandó feladat megjelölésével – a 329. § (1) bekezdés c) pontja alapján, valamint a jogosultság megállapításának szabályait;
+- d) a fokozottan veszélyes beosztások meghatározását a 85. § (2) bekezdése és a 92. § (1) bekezdésének a) pontja alapján, a fokozottan veszélyes és az egyéb veszélyes beosztások meghatározását a 254. § (2) bekezdése, a 293. § (1) bekezdése, a 306. § és a 322. § (1) bekezdésének l) pontja alapján;
 - e) az állami készfizető kezesség vállalásra vonatkozó további szabályokat;
 - f) a kifogástalan életvitel ellenőrzése végrehajtásának szabályait;
 - g) a Nemzeti Adó- és Vámhivatal hivatásos állományának egészségügyi, pszichikai és fizikai alkalmasságát vizsgáló és minősítő szerv kijelölését;
@@ -3363,7 +3390,10 @@ A pótlékok mértéke:
 - h) a diplomáciai és az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálatra vezénylés feltételeit, rendjét, és az érintettet megillető juttatásokat;
 - i) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott hivatásos állomány tagja jelölési eljárásának rendjét, a részére, továbbá a nemzetközi szervezetben vezényléssel szolgálatot teljesítő részére nyújtható juttatások, többletjuttatások, költségtérítések, ellátmány fajtáit, mértékét, azok megállapításának, kifizetésének, elszámolásának rendjét;
 - j) a 276/A. § szerinti távolléti díj iránti kérelem elbírálásának és kifizetésének eljárási rendjét;
-- k) – az Információs Hivatalra vonatkozó szabályok kivételével – a nyugellátások, baleseti ellátások megállapításának eljárási rendjét.
+- k)
+- l) a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és e vizsgák alóli mentesítést;
+- m) a tartalékállományba vételre és a tartalékállomány működtetésre vonatkozó szabályokat;
+- n) a hivatásos szolgálati viszonyban állók tekintetében a kormánytisztviselői kártya alkalmazásának szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy az általa irányított vagy felügyelt fegyveres szerv tekintetében rendeletben szabályozza:
 
@@ -3371,7 +3401,7 @@ A pótlékok mértéke:
 - 2. a miniszter és az országos parancsnok munkáltatói jogkörében nem szereplő, alacsonyabb szintű munkáltatói jogköröket és a jogkört gyakorló elöljárók körét;
 - 3. az illetmény, illetményjellegű juttatások, egyéb juttatások megállapításának, folyósításának valamint a költségek viselésének szabályait, a végkielégítés kifizetésének rendjét;
 - 4. az illetménypótlékra jogosító beosztást, tevékenységet, az illetménypótlék tényleges mértékét e törvény szerinti alsó és felső határ között, azokat a szolgálati beosztásokat, amelyekben az idegen nyelv használata szükséges, illetve, ahol az idegen nyelv ismerete a szolgálati beosztással járó feladat, továbbá a ritka és a kettőnél több nyelv használatáért adható kiegészítő nyelvpótlék mértékét;
-- 5. a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény hatálya alá nem tartozó egyes elismerések adományozására jogosultak körét, az elismerésben részesítés feltételeit és rendjét;
+- 5. a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény hatálya alá nem tartozó egyes elismerések adományozására jogosultak körét, az elismerésben részesítés feltételeit és rendjét;
 - 6. a ruházati ellátások rendszerét, módját, fajtáit, eljárási rendjét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátásban közreműködők és az ellátásra jogosultak feladatait, felelősségét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit, a tervezett viselési (használati) időt és annak módosítását, az egyenruha, a rendfokozati és a fegyvernemi jelzés, a kitüntetés és a szolgálati jel viselésének módját, az egyenruha és a rendfokozat viselése eltiltását a nyugállomány tagjainak esetében;
 - 7. a szolgálatteljesítési idő és a túlszolgálat szolgálatszervezéssel összefüggő szabályait, az őr-, ügyeleti, a részben vagy egészben készenléti és a készültségi szolgálatok körét, a túlszolgálat, illetve a készenlét elrendelésének és a pihenőidő kiadásának a rendjét, a nyilvántartás szabályait, a szabadság nyilvántartásának és kiadásának rendjét, valamint a hivatali munkarendtől eltérő szolgálati időbeosztás esetén szabadságként kiadandó szolgálati napok kiszámításának módját;
 - 8. a más kereső foglalkozást nem folytatható vezetők körét, a más kereső foglalkozás bejelentésével, engedélyezésével, az összeférhetetlenség megszüntetésével és tilalma megszegése következményeivel kapcsolatos eljárást;
@@ -3379,31 +3409,31 @@ A pótlékok mértéke:
 - 10. a megváltozott egészségi állapotú hivatásos állományúak felülvizsgálatának eljárási rendjét, a felülvizsgálatot végző szervek és a felülvizsgálatban közreműködők kijelölését, az egészségügyi szabadság, a szolgálatmentesség, valamint a csökkentett napi szolgálati idő megállapításának, engedélyezésének és kiadásának szabályait, az egészségügyi alapellátás igénybevételének módját és az igénybevevők körét, továbbá a társadalombiztosítási szabályok szerinti ellátáson kívüli kiegészítő, térítéses egészségügyi szolgáltatás, valamint a szolgáltatás térítésének módját;
 - 11. a juttatások, költségtérítések, kedvezmények, támogatások fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és – visszatérítési kötelezettség esetén – az elengedés részletes rendjét, a természetbeni ellátás mértékét és feltételeit, az abban való részesítés, a megállapítás, a kifizetés, illetőleg a kiadás, az elszámolás, a visszatérítés rendjét, a kedvezményes üdültetésben, az üdülési hozzájárulásban részesítés rendjét, feltételeit;
 - 12. a három hónapnál rövidebb időtartamú külföldi szolgálatot teljesítők részére nyújtható napidíj mértékét, megállapításának, kifizetésének, elszámolásának rendjét;
-- 13. a fegyveres szerv hivatásos állományú tagjait érintő szakmai képzési, át- és továbbképzési és vezetőképzési rendszerét, valamint a rendészeti szakvizsgára vonatkozó szabályokat;
+- 13. a fegyveres szerv tiszti beosztásainak betöltéséhez elismerhető felsőfokú végzettségeket, a fegyveres szerv hivatásos állományú tagjait érintő szakmai képzési, át– és továbbképzési, valamint vezetőképzési rendszerét;
 - 14. a fegyelmi eljárás rendjét, illetve a fegyelmi jogkört gyakorló elöljárók körét;
 - 15. a fegyveres szervek és hivatásos állományú tagjainak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, megállapításának módját, mérséklésének és mellőzésének részletes szabályait;
 - 16.
 - 17. a kérelem és a panasz elbírálásának rendjét;
 - 18. a szociális és kegyeleti gondoskodás, támogatás formáit, nyújtásának eljárási rendjét és feltételeit, mértékét, a személyi állomány elhunyt tagja kegyeleti minősítésének rendjét, valamint az ellátások pénzügyi feltételei biztosításának módját, a nyugállományúakkal kapcsolatos személyügyi feladatok ellátásának rendjét;
 - 19. az irányítása alá tartozó fegyveres szervek hivatásos állománya részére szolgálati és kiegészítő igazolványok, valamint a szolgálati azonosító jelvény rendszeresítésével, azokkal történő ellátás rendjével összefüggő szabályokat;
-- 20. a határozott idejű szolgálati viszonyban álló rendőrrel betölthető szolgálati beosztások körét, a beosztás betöltésének fizikai, pszichikai és egészségi feltételeit, valamint – a szolgálati feladatok ellátásához szükséges anyagi feltételek biztosítása keretében – a határozott idejű szolgálati viszonyban álló rendőr tulajdonában levő eszközök szolgálati célú felhasználásáért járó (nem adóköteles) költségtérítést;
+- 20. a szenior állományba vétel fizikai, pszichikai és egészségi feltételeit, a ruházati ellátási normát és a felszerelést;
 - 21. azon fertőző betegségek körét, amelyek esetében a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan védőoltás elrendelésének van helye, továbbá a kötelező védőoltás elrendelésének, az igénybevétel elhalasztásának, továbbá a kötelező védőoltás alóli mentesítésnek a részletes szabályait.
 
-(3) Felhatalmazást kap a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy az Információs Hivatal tekintetében rendeletben állapítsa meg a nyugellátások, baleseti ellátások megállapításának részletes eljárási szabályait, továbbá kijelölje a nyugellátásokat, baleseti ellátásokat megállapító szervet vagy szerveket.
+(3)
 
 (4) Felhatalmazást kap a miniszter, hogy a fegyveres szervnél rendszeresített hivatásos szolgálati beosztásokat rendeletben – a polgári nemzetbiztonsági szolgálatok esetében utasításban – állapítsa meg.
 
 (5) A miniszter – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterrel egyetértésben – a 3. § (3) bekezdése szerinti munkaköröket is hivatásos beosztásként határozhat meg, ha ez a fegyveres szerv biztonságos működésének biztosítása, illetőleg a rendvédelmi ismeretek szükségessége miatt elengedhetetlenül szükséges. A polgári nemzetbiztonsági szolgálatok esetében a 3. § (3) bekezdésétől való eltérésre a 291. § rendelkezése alkalmazandó.
 
-(6)
+(6) Felhatalmazást kap a miniszter, hogy a könnyített szolgálat teljesítésének feltételeit, a könnyített szolgálatban foglalkoztatottak által betölthető munkaköröket, valamint az e körből kizárt tevékenységeket és kapcsolódó mentesítéseket rendeletben – a polgári nemzetbiztonsági szolgálatok, valamint a polgári hírszerző szolgálat esetében utasításban – állapítsa meg.
 
 (7) Felhatalmazást kap a miniszter, hogy a fegyveres szervnél rendszeresített hivatásos szolgálati beosztások beosztási kategóriába sorolását, a beosztásban elérhető rendfokozatot, valamint a betöltéséhez szükséges képzettségi (végzettségi) feltételeket rendeletben – a polgári nemzetbiztonsági szolgálatok esetében utasításban – állapítsa meg.
 
 (8) Felhatalmazást kap a miniszter, hogy a feladatok hatékonyabb ellátása érdekében kísérleti jelleggel az e törvényben nem szereplő – az abban résztvevő állományra anyagi szempontból az e törvényben foglaltaknál nem hátrányosabb – ösztönzési rendszert vezessen be.
 
-(9) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy a hivatásos önkormányzati tűzoltóságokra vonatkozóan rendeletben szabályozza a választható juttatás éves összegét, a választható természetbeni juttatások fajtáit, mértékét, valamint kifizetésének rendjét és módját.
+(9)
 
-343. § A 91. §, a 95/A. § és 96. § (1) bekezdés a) pontja az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló 1996. június 3-i 96/34/EK tanácsi irányelv mellékletét képező keretmegállapodás II. fejezet 2. szakasz 1., 4., 5. és 6. bekezdésének való részbeni megfelelést szolgálja.
+343. § A 91. §, a 95/A. § és 96. § (1) bekezdés a) pontja a BUSINESSEUROPE, az UEAPME, CEEP és ESZSZ által a szülői szabadságról kötött, felülvizsgált keret-megállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010/18/EU tanácsi irányelvnek (2010. március 8.) való megfelelést szolgálja.
 
 ### 1. számú melléklet az 1996. évi XLIII. törvényhez
 
@@ -3493,103 +3523,70 @@ A polgári felsőoktatási intézményben végzett hadnagy várakozási ideje a 
 
 Táblázat a kiemelt munkáltatói jogkörök gyakorlásának rendjéről
 
-| A hatáskör területe | A munkáltatói intézkedés tartalma | A munkáltatói jogkör gyakorlója |  |  |
-| --- | --- | --- | --- | --- |
-| miniszter | országos parancsnok | a bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv vezetője |
-| Szolgálati viszonnyal kapcsolatos intézkedések | Hivatásos állományba vétel |  |  |  |
-|  | – tábornokra vonatkozó javaslat előterjesztése a KE-höz | X |  |  |
-|  | – főtiszt, tiszt esetében |  | X |  |
-|  | Szolgálati viszony megszüntetése |  |  |  |
-|  | – tábornokra vonatkozó javaslat előterjesztése a KE-höz | X |  |  |
-|  | – főtiszt, tiszt esetében |  | X |  |
-|  | Szolgálati viszony szüneteltetése |  |  |  |
-|  | – tábornok esetében | X |  |  |
-|  | – főtiszt, tiszt, zászlós, tiszthelyettes esetében |  | X | X |
-|  | Hivatásos állományba visszavétel |  |  |  |
-|  | – tábornokra vonatkozó javaslat előterjesztése a KE-höz | X |  |  |
-|  | – főtiszt, tiszt, zászlós, tiszthelyettes esetében |  | X |  |
-| Rendfokozatot érintő döntések | Első tiszti kinevezés | X |  |  |
-|  | Magasabb rendfokozatba történő kinevezés, előléptetés |  |  |  |
-|  | – tábornoki kinevezés előterjesztése a KE-höz | X |  |  |
-|  | – ezredesi előléptetés | X |  |  |
-|  | – főtiszt, tiszt soron kívüli előléptetése | X | X | X |
-| Szolgálati beosztásra vonatkozó döntések | Minisztériumi szerveknél hivatásos szolgálati beosztások meghatározása | X |  |  |
-|  | Beosztásba történő kinevezés |  |  |  |
-|  | – országos rendőrfőkapitány kinevezésére, felmentésére, megbízására vonatkozó előterjesztés a miniszterelnökhöz | X |  |  |
-|  | – a terrorizmust elhárító szerv főigazgatója kinevezésére, felmentésére, megbízására vonatkozó előterjesztés a miniszterelnökhöz | X |  |  |
-|  | – tábornoki beosztásokba történő kinevezés, felmentés, megbízás | X |  |  |
-|  | – ezredesi beosztásokba történő kinevezés, felmentés, megbízás | X | X | X |
-|  | – tábornok más fegyveres szervhez történő áthelyezése | X |  |  |
-|  | – főtiszt, tiszt, zászlós, tiszthelyettes más fegyveres szervhez történő áthelyezése |  | X |  |
-| Fegyelmi hatáskörök | Rendfokozatot, szolgálati viszonyt érintő fegyelmi fenyítések kiszabása |  |  |  |
-|  | – tábornokra vonatkozó előterjesztés a KE-höz | X |  |  |
-|  | – főtiszt, tiszt esetében | X | X | rend- fokozatot érintő |
-|  | Egyéb fegyelmi fenyítések kiszabása |  |  |  |
-|  | – tábornok esetében | X |  |  |
-| Vezényléssel kapcsolatos intézkedések | – tábornok, főtiszt, tiszt, zászlós, tiszthelyettes külszolgálatra történő vezénylése | X |  |  |
-|  | – tábornok, főtiszt, tiszt, zászlós, tiszthelyettes külföldi tanintézetbe tanfolyamra történő vezénylése | X |  |  |
-|  | vezénylés más szervhez | X | X |  |
-|  | 49/A. § szerinti vezénylés |  | X |  |
-|  | Hazai tanintézet alaptagozatára, tanfolyamaira történő vezénylés |  |  |  |
-|  | – tábornok esetében | X |  |  |
-|  | – főtiszt, tiszt esetében | X | X | X |
-|  | – zászlós, tiszthelyettes esetében |  | X | X |
-| Egyéb döntések | Egyenruha-viselési jog megvonása |  |  |  |
-|  | – tábornok esetében | X |  |  |
-|  | Illetmény nélküli szabadság engedélyezése |  |  |  |
-|  | – tábornok esetében | X |  |  |
-|  | Elhunytak minősítése |  |  |  |
-|  | – hősi halottá, szolgálat halottjává nyilvánítás | X |  |  |
-|  | – a fegyveres szerv halottjává nyilvánítás |  | X | X |
-|  | Elismerések adományozása |  |  |  |
-|  | – kitüntetésre vonatkozó javaslat felterjesztése a KE-höz | X |  |  |
-|  | – miniszteri elismerések odaítélése | X |  |  |
-|  | Összeférhetetlenség feloldása | X |  |  |
-|  | Ágazati, Tárcaközi Érdekegyeztető Fórummal történő egyeztetés | X |  |  |
+|  | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1. |  |  | A munkáltatói jogkör gyakorlója |  |  |
+| 2. | A hatáskör területe | A munkáltatói intézkedés tartalma | miniszter | országos parancsnok | a bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv vezetője |
+| 3. | Szolgálati viszonnyal kapcsolatos intézkedések | Hivatásos állományba vétel |  |  |  |
+| 4. |  | – tábornokra vonatkozó javaslat előterjesztése a KE-höz | X |  |  |
+| 5. |  | – főtiszt, tiszt esetében |  | X |  |
+| 6. |  | Szolgálati viszony megszüntetése |  |  |  |
+| 7. |  | – tábornokra vonatkozó javaslat előterjesztése a KE-höz | X |  |  |
+| 8. |  | – főtiszt, tiszt esetében |  | X |  |
+| 9. |  | Szolgálati viszony szüneteltetése |  |  |  |
+| 10. |  | – tábornok esetében | X |  |  |
+| 11. |  | – főtiszt, tiszt, zászlós, tiszthelyettes esetében |  | X | X |
+| 12. |  | Hivatásos állományba visszavétel |  |  |  |
+| 13. |  | – tábornokra vonatkozó javaslat előterjesztése a KE-höz | X |  |  |
+| 14. |  | – főtiszt, tiszt, zászlós, tiszthelyettes esetében |  | X |  |
+| 15. | Rendfokozatot érintő döntések | Első tiszti kinevezés | X |  |  |
+| 16. |  | Magasabb rendfokozatba történő kinevezés, előléptetés |  |  |  |
+| 17. |  | – tábornoki kinevezés előterjesztése a KE-höz | X |  |  |
+| 18. |  | – ezredesi előléptetés | X |  |  |
+| 19. |  | – főtiszt, tiszt soron kívüli előléptetése | X | X | X |
+| 20. | Szolgálati beosztásra vonatkozó döntések | Minisztériumi szerveknél hivatásos szolgálati beosztások meghatározása | X |  |  |
+| 21. |  | Beosztásba történő kinevezés |  |  |  |
+| 22. |  | – országos rendőrfőkapitány kinevezésére, felmentésére, megbízására vonatkozó előterjesztés a miniszterelnökhöz | X |  |  |
+| 23. |  | – a terrorizmust elhárító szerv főigazgatója kinevezésére, felmentésére, megbízására vonatkozó előterjesztés a miniszterelnökhöz | X |  |  |
+| 24. |  | – tábornoki beosztásokba történő kinevezés, felmentés, megbízás | X |  |  |
+| 25. |  | – ezredesi beosztásokba történő kinevezés, felmentés, megbízás | X | X | X |
+| 26. |  | – tábornok más fegyveres szervhez történő áthelyezése | X |  |  |
+| 27. |  | – főtiszt, tiszt, zászlós, tiszthelyettes más fegyveres szervhez történő áthelyezése |  | X |  |
+| 28. | Fegyelmi hatáskörök | Rendfokozatot, szolgálati viszonyt érintő fegyelmi fenyítések kiszabása |  |  |  |
+| 29. |  | – tábornokra vonatkozó előterjesztés a KE-höz | X |  |  |
+| 30. |  | – főtiszt, tiszt esetében | X | X | rendfokozatot érintő |
+| 31. |  | Egyéb fegyelmi fenyítések kiszabása |  |  |  |
+| 32. |  | – tábornok esetében | X |  |  |
+| 33. | Vezényléssel kapcsolatos intézkedések | – tábornok, főtiszt, tiszt, zászlós, tiszthelyettes külszolgálatra történő vezénylése | X |  |  |
+| 34. |  | – tábornok, főtiszt, tiszt, zászlós, tiszthelyettes külföldi tanintézetbe tanfolyamra történő vezénylése | X |  |  |
+| 35. |  | vezénylés más szervhez | X | X |  |
+| 36. |  | 49/A. § szerinti vezénylés |  | X |  |
+| 37. |  | Hazai tanintézet alaptagozatára, tanfolyamaira történő vezénylés |  |  |  |
+| 38. |  | – tábornok esetében | X |  |  |
+| 39. |  | – főtiszt, tiszt esetében | X | X | X |
+| 40. |  | – zászlós, tiszthelyettes esetében |  | X | X |
+| 41. | Egyéb döntések | Egyenruha-viselési jog megvonása |  |  |  |
+| 42. |  | – tábornok esetében | X |  |  |
+| 43. |  | Illetmény nélküli szabadság engedélyezése |  |  |  |
+| 44. |  | – tábornok esetében | X |  |  |
+| 45. |  | Elhunytak minősítése |  |  |  |
+| 46. |  | – hősi halottá, szolgálat halottjává nyilvánítás | X |  |  |
+| 47. |  | – a fegyveres szerv halottjává nyilvánítás |  | X | X |
+| 48. |  | Elismerések adományozása |  |  |  |
+| 49. |  | – kitüntetésre vonatkozó javaslat felterjesztése a KE-höz | X |  |  |
+| 50. |  | – miniszteri elismerések odaítélése | X |  |  |
+| 51. |  | Összeférhetetlenség feloldása | X |  |  |
+| 52. |  | Ágazati Érdekvédelmi Tanáccsal történő egyeztetés | X |  |  |
 
 ### 3. számú melléklet az 1996. évi XLIII. törvényhez
 
-A rendőrség és hivatásosállományának esküje
+A fegyveres szerv hivatásos állományának esküje
 
 Az eskü szövege:
 
-„Én .......................... a Magyar Köztársaság ...........................* tagja esküszöm, hogy a Magyar Köztársaság alkotmányához, törvényeihez és más jogszabályaihoz híven, becsületesen teljesítem kötelességemet. Elöljáróim és feljebbvalóim parancsainak engedelmeskedem.
+„Én ...................... becsületemre és lelkiismeretemre fogadom, hogy Magyarországhoz és annak Alaptörvényéhez hű leszek; jogszabályait megtartom és másokkal is megtartatom, szolgálati kötelezettségemet ha kell, életem kockáztatásával is teljesítem; elöljáróim és feljebbvalóim parancsainak engedelmeskedem, alárendeltjeimről legjobb tudásom szerint gondoskodom; hivatásomat a magyar nemzet javára gyakorolom.
 
-Esküszöm, hogy hazám alkotmányos és törvényes rendjét, nemzetünk biztonságát, ha kell, életem kockáztatásával is hűségesen megvédem. Mindenkor az állampolgári jogok érvényesítését tartom szem előtt, és a nép érdekeinek megfelelően járok el.
-
-Esküszöm, hogy elöljáróimat, munkatársaimat megvédem, fegyveremet, felszerelésemet megóvom.
-
-A szolgálati ismereteket elsajátítom. A rendet és fegyelmet minden törvényes eszközzel fenntartom. Alárendeltjeimről a legjobb tudásom szerint gondoskodom, őket öntudatos hazafiakká, a népek kölcsönös tiszteletére nevelem. Minden erőmmel, törekvésemmel, tudásommal a Magyar Köztársaság fejlődését szolgálom.
-
-A minősített adatot híven megtartom. Szolgálatban és szolgálaton kívül példamutatóan viselkedem.
-
-_______
-
-* A szerv megnevezése.”
-
-Az 1. § (1) bekezdés hatálya alá tartozó egyéb rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok hivatásos állományának esküje,illetve fogadalma
-
-Az eskü szövege:
-
-„Én .......................... a Magyar Köztársaság ...........................* tagja esküszöm, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt és az alkotmányos jogszabályokat megtartom; a szolgálati kötelezettségeimet, ha kell, életem kockáztatásával is teljesítem. A rendet és a fegyelmet minden törvényes eszközzel fenntartom. Elöljáróimat, munkatársaimat megvédem, fegyveremet,** felszerelésemet megóvom.
-
-A szolgálati ismereteket elsajátítom. Elöljáróim és feljebbvalóim utasításainak engedelmeskedem. Az alárendeltjeimről a legjobb tudásom szerint gondoskodom. A minősített adatot megőrzöm, kötelezettségeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.
-
-Esküszöm, hogy minden erőmmel, törekvésemmel, tudásommal a Magyar Köztársaság javát szolgálom.
-
-A fogadalom szövege:
-
-„Én .......................... a Magyar Köztársaság ...........................* tagja fogadom, hogy hazámhoz, a Magyar Köztársasághoz hű leszek; az Alkotmányt és az alkotmányos jogszabályokat megtartom; a szolgálati kötelezettségeimet, ha kell, életem kockáztatásával is teljesítem. A rendet és a fegyelmet minden törvényes eszközzel fenntartom. Elöljáróimat, munkatársaimat megvédem, fegyveremet,** felszerelésemet megóvom.
-
-A szolgálati ismereteket elsajátítom. Elöljáróim és feljebbvalóim utasításainak engedelmeskedem. Az alárendeltjeimről a legjobb tudásom szerint gondoskodom. A minősített adatot megőrzöm, kötelezettségeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.
-
-Fogadom, hogy minden erőmmel, törekvésemmel, tudásommal a Magyar Köztársaság javát szolgálom.
-
-_______
-
-* A rendvédelmi szerv megnevezése.
-
-** A jelölt szövegrész a tűzoltó esküjéből (fogadalmából) elhagyandó.
+(Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!
 
 ### 4. számú melléklet az 1996. évi XLIII. törvényhez
 
@@ -3615,7 +3612,7 @@ Vezetői megbízatás:
 
 4. Az előírtnál rövidebb vagy hosszabb várakozási idő indoka:
 
-5. A jogszabályban előírt és a rendvédelmi szerv által meghatározott feltételek, feladatok:
+5. A jogszabályban előírt és a rendvédelmi szerv és a Nemzeti Adó- és Vámhivatal által meghatározott feltételek, feladatok:
 
 6. Szempontok a feltételek és feladatok teljesítésének megítéléséhez:
 
@@ -3844,7 +3841,7 @@ II. BESOROLÁSI OSZTÁLY
 
 Vezetők beosztási illetménytáblázata
 
-– budapesti rendőrfőkapitány, a fővárosi tűzoltó parancsnok, a polgári nemzetbiztonsági szolgálatok igazgatói, a fővárosi polgári védelmi igazgató az illetményalap 8,3-szerese,
+– budapesti rendőrfőkapitány, a fővárosi illetékességű hivatásos katasztrófavédelmi szerv területi szerve vezetője, a katasztrófavédelem országos főfelügyelői, a polgári nemzetbiztonsági szolgálatok igazgatói az illetményalap 8,3-szerese,
 
 – főosztályvezető az illetményalap 8-szorosa,
 
@@ -3914,7 +3911,7 @@ II. Iskolai végzettségek, egyéb képesítések:
 
 III. Korábbi alkalmazási (foglalkoztatási) adatok:
 
-Munkajogi jogviszonyra (munkaviszony, közszolgálati, közalkalmazotti stb.) vonatkozó adatok:
+Munkajogi jogviszonyra (munkaviszony, kormányzati szolgálati, közszolgálati, közalkalmazotti stb.) vonatkozó adatok:
 
 – munkahely,
 
@@ -4040,7 +4037,7 @@ XII. A nyugállományúakra vonatkozó adatok:
 
 – szolgálati lakásra jogosultság,
 
-– a nyugállományba helyezés ideje,
+– a nyugállományba helyezés, nyugállományba vonulás ideje,
 
 – a nyugdíjfolyósítási törzsszám,
 
@@ -4071,3 +4068,139 @@ Tájékoztattak arról, hogy házastársam, élettársam, hozzátartozóm kifog�
 | ........................................................................................ |
 | --- |
 | aláírás, lakcím |
+
+### 9. számú melléklet az 1996. évi XLIII. törvényhez
+
+Nyilatkozat a kifogástalan életvitel ellenőrzéséhez
+
+Hozzájárulok, hogy az életvitelemet, jövedelmi és vagyoni viszonyaimat, életkörülményeimet, lakó és családi környezetemet a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 37/A–37/C. § alapján elrendelt ellenőrzés során megvizsgálják.
+
+(Kelt, dátum)
+
+............................
+
+aláírás, lakcím
+
+### 10. számú melléklet az 1996. évi XLIII. törvényhez
+
+ADATLAP
+
+a hivatásos szolgálati viszonyt létesítő személy kifogástalan életvitele ellenőrzéséhez
+
+| I. A jelentkező személyi adatai |  |
+| --- | --- |
+| Családi neve: |  |
+| Utóneve: |  |
+| Előző neve (születési név): |  |
+| Születési helye (helység, ország, ha nem Magyarország) |  |
+| Születési ideje (év, hó, nap) |  |
+| Anyja születési neve: |  |
+| Állampolgársága: |  |
+| Állandó lakhelye (irányítószámmal): |  |
+| Tartózkodási helye (irányítószámmal): |  |
+| Lakás telefon (körzetszámmal): |  |
+| Munkahelyi telefon (körzetszámmal): |  |
+| Mobil telefon: |  |
+| E-mail cím: |  |
+
+| II. Családi állapotra vonatkozó adatok |  |
+| --- | --- |
+| Családi állapota: | nőtlen – hajadon |
+|  | házas – élettársi kapcsolat |
+|  | elvált – özvegy |
+
+| III. A jelentkezővel közös háztartásban élő hozzátartozók adatai |  |
+| --- | --- |
+| Neve: |  |
+| Kapcsolat jellege (rokonsági foka): |  |
+| Együttélés kezdete: |  |
+| Neve: |  |
+| Kapcsolat jellege (rokonsági foka): |  |
+| Együttélés kezdete: |  |
+| Neve: |  |
+| Kapcsolat jellege (rokonsági foka): |  |
+| Együttélés kezdete: |  |
+| Neve: |  |
+| Kapcsolat jellege (rokonsági foka): |  |
+| Együttélés kezdete: |  |
+| Neve: |  |
+| Kapcsolat jellege (rokonsági foka): |  |
+| Együttélés kezdete: |  |
+
+| IV. A jelentkező korábbi munkahelyeire vonatkozó adatok (5 évre visszamenőleg) |  |  |
+| --- | --- | --- |
+| Munkahely cégszerű elnevezése és címe: |  |  |
+| Munkaköre (ha több volt, akkor az utolsó): |  |  |
+| Munkaviszony tartama: | Kezdete: | Vége: |
+| Munkahely cégszerű elnevezése és címe: |  |  |
+| Munkaköre (ha több volt, akkor az utolsó): |  |  |
+| Munkaviszony tartama: | Kezdete: | Vége: |
+| Munkahely cégszerű elnevezése és címe: |  |  |
+| Munkaköre (ha több volt, akkor az utolsó): |  |  |
+| Munkaviszony tartama: | Kezdete: Vége: |  |
+
+| V. A jelentkező gazdasági érdekeltségére vonatkozó adatok |  |
+| --- | --- |
+| Gazdasági társaság (vállalkozás) neve: |  |
+| Formája, cégszáma: |  |
+| Címe: |  |
+| Tulajdonos és tulajdoni hányad: |  |
+| Társaságban való részvétel formája: |  |
+| Gazdasági társaság (vállalkozás) neve: |  |
+| Formája, cégszáma: |  |
+| Címe: |  |
+| Tulajdonos és tulajdoni hányad: |  |
+| Társaságban való részvétel formája: |  |
+
+| VI. A jelentkező jövedelmi és vagyoni viszonyaira vonatkozó adatok |  |
+| --- | --- |
+| A jelentkezőnek a jelentkezést megelőző egy évben szerzett jövedelmei: | Munkajövedelem Befektetésből származó jövedelem Gazdasági társaságból származó jövedelem Szociális vagy munkanélküli ellátás Ösztöndíj Egyéb forrás (pl. vagyon értékesítés, jogdíj) Eltartott |
+| A jelentkezést megelőző egy év havi nettó átlagos jövedelme: |  |
+| A jelentkező tulajdonában lévő ingatlanok, ingatlanrészek: |  |
+| Tulajdonában lévő jelentősebb (legalább 300 000 Ft) értékű ingóságok és vagyoni értékű jogok: |  |
+| Jelentősebb (300 000 Ft-ot meghaladó) hitelállomány, kölcsön tartozások összege: |  |
+
+| VII. A jelentkező büntető és szabálysértési előéletére vonatkozó adatok |  |
+| --- | --- |
+| 1. Indult-e ellene a jelentkezése keltétől számított 15 éven belül olyan büntetőeljárás, amely büntetéssel vagy intézkedéssel fejeződött be? | igen – nem |
+| amennyiben igen, bűncselekmény megnevezése: |  |
+| az elkövetés ideje: |  |
+| az eljáró bíróság megnevezése: |  |
+| büntetés mértéke: |  |
+| az ítélet kelte: |  |
+| mentesülés időpontja: |  |
+| amennyiben igen, bűncselekmény megnevezése: |  |
+| az elkövetés ideje: |  |
+| az eljáró bíróság megnevezése: |  |
+| büntetés mértéke: |  |
+| az ítélet kelte: |  |
+| mentesülés időpontja: |  |
+| 2. Áll-e jelenleg büntetőeljárás alatt? Az eljárás alapjául szolgáló bűncselekmény megnevezése és az elkövetés ideje: Eljáró bíróság (ügyészség, nyomozóhatóság): | igen – nem |
+| Az eljárás jelentkezéskori szakasza: Az eljárás során hozott érdemi határozat, végzés, ítélet tartalma, kelte: | nyomozati – ügyészi – bírói szak |
+| 3. A jelentkezést megelőző két éven belül szabálysértés miatt kapott-e pénzbírságot? | igen – nem (helyszíni bírságot figyelmen kívül kell hagyni) |
+| Az elkövetett szabálysértés: Eljáró szerv: Ha igen, bírság befizetés megtörtént-e: | igen – még nem – elzárásra változtatták |
+| Az elkövetett szabálysértés: Eljáró szerv: Ha igen, bírság befizetés megtörtént-e: | igen – még nem – elzárásra változtatták |
+| Az elkövetett szabálysértés: Eljáró szerv: Ha igen bírság befizetés megtörtént-e: | igen – még nem – elzárásra változtatták |
+
+| VIII. A jelentkező szabadidős szokásaira vonatkozó adatok |  |
+| --- | --- |
+| Rendszeresen gyakorolt szabadidős tevékenység (sport, kulturális, egyéb hobbi): |  |
+| Rendszeresen látogatott szórakozóhelyek rendszeresség megjelölésével (havi, heti, napi gyakoriság): |  |
+
+A jelentkező nyilatkozata:
+
+Hozzájárulok, hogy az adatlapon szereplő adataim valóságát, az életvitelemet, jövedelmi és vagyoni viszonyaimat, életkörülményeimet, lakó és családi környezetemet a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 37/A–37/C. § alapján elrendelt ellenőrzés során megvizsgálják.
+
+............................................................, 20............................................................-n
+
+.......................................................................
+
+jelentkező
+
+Az adatlapot kitöltve átvettem:
+
+Dátum: ............................................................
+
+.......................................................................
+
+fegyveres szerv képviselője

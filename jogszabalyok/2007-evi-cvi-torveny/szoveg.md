@@ -25,7 +25,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (5) Nem tartozik e törvény hatálya alá az a vagyon, amelynél az állami tulajdonszerzésre az állam közjogi kötelezettségeinek, jogosultságainak gyakorlása következtében, vagy azzal összefüggésben kerül sor, így a szabálysértési és büntetőeljárásokban elkobzás, vagyonelkobzás útján, vagy a köztartozások fejében állami tulajdonba kerülő vagyon (adó-, vám-, illeték, egyéb állami támogatás, ideértve az elkülönített állami pénzalapokból finanszírozott állami feladatokkal kapcsolatos állami követeléseket).
 
-(6) Az (5) bekezdés szerinti vagyon hasznosítása, értékesítése során e törvény rendelkezéseit kell alkalmazni, azzal, hogy az államot megillető tulajdonosi jogokat az az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) szerinti központi költségvetési szerv, ennek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaság gyakorolja, amely az állami tulajdonjogot keletkeztető hatósági határozatot hozta, illetve amely szervezetet megillető követelés fejében került sor a vagyonnak a Magyar Állam általi elfogadására.
+(6) Az (5) bekezdés szerinti vagyon hasznosítása, értékesítése során e törvény rendelkezéseit kell alkalmazni, azzal, hogy az államot megillető tulajdonosi jogokat az az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti központi költségvetési szerv, ennek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaság gyakorolja, amely az állami tulajdonjogot keletkeztető hatósági határozatot hozta, illetve amely szervezetet megillető követelés fejében került sor a vagyonnak a Magyar Állam általi elfogadására.
 
 (7) E törvénynek az állami vagyon megszerzésére, elidegenítésére vagy az állami vagyonnal való más rendelkező cselekményre vonatkozó szabályait nem kell alkalmazni, ha a felsoroltakra törvény vagy a Magyar Állam által kötött nemzetközi szerződés eltérően rendelkezik.
 
@@ -37,15 +37,15 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (1a) Azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, a tulajdonosi jogokat a miniszter az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint gyakorolja.
 
+(1b) Az Egészségbiztosítási Alap ellátási vagyona tekintetében a tulajdonosi jogokat az egészségbiztosításért felelős miniszter, a Nyugdíjbiztosítási Alap ellátási vagyona tekintetében a tulajdonosi jogokat a nyugdíjpolitikáért felelős miniszter gyakorolja.
+
 (2) A miniszter e törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával – az (1) bekezdés alapján őt megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját az Áht. szerinti központi költségvetési szervek, ezek intézménye, továbbá a 100%-ban állami tulajdonban álló gazdasági társaságok közül kijelölheti.
 
 (3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2) bekezdés alapján a Magyar Állam nevében gyakorló szervezet e tevékenységét a jelen törvény és a végrehajtási rendelete, valamint a (2) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti.
 
 (4) Az állami vagyon feletti – a 3. § (1)–(2) bekezdése szerinti – tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
-4. § (1) Az állami vagyon rendeltetésétől függően kincstári vagyon, illetve üzleti vagyon lehet.
-
-(2) Kincstári vagyon minden vagyonelem, amely valamely állami feladat ellátásához szükséges, valamint amelyet törvény – ideértve e törvény mellékletét is – kizárólagos állami tulajdonba tartozó vagyonként forgalomképtelennek, illetve korlátozottan forgalomképesnek minősít.
+4. §
 
 5. § (1) Közérdekből nyilvános minden, az állami vagyonnal való gazdálkodásra és az azzal való rendelkezésre vonatkozó, közérdekű adatnak nem minősülő adat. Külön törvény az adat megismerhetőségét korlátozhatja.
 
@@ -104,7 +104,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 - f) gazdasági társaság alapítása, abban részesedés szerzése, átalakítása, megszüntetése, részére állami vagyon nem vagyoni hozzájárulásként történő rendelkezésre bocsátása, amennyiben az apport értéke meghaladja a 200 millió forintot,
 - g) ingyenes vagyonátadásra vonatkozó javaslat kialakítása a döntéshozó részére,
 - h) az éves költségvetési törvényben foglaltakra figyelemmel, döntés hitelfelvételről és kötvénykibocsátásról,
-- i) az Áht. 109. § (8)–(9) bekezdésének figyelembevételével döntés gazdasági társaságok részére történő hitel, kölcsön és támogatás nyújtásáról, tőkeemelésről,
+- i) az Áht. 45. §-a figyelembevételével döntés gazdasági társaságok részére történő hitel, kölcsön és támogatás nyújtásáról, tőkeemelésről,
 - j) döntés a b) pontba nem tartozó kötelezettségvállalásokról, ha a kötelezettség mértéke, annak járulékaival együtt eléri vagy meghaladja a 200 millió forintot,
 - k) döntés az MNV Zrt. munkaszervezetéről, a társaság szervezeti és működési szabályzatának jóváhagyása,
 - l) döntés az MNV Zrt. számviteli politikájának, pénzügyi és gazdálkodási, valamint – törvény eltérő rendelkezése hiányában – a javadalmazási és ösztönzési rendszerre vonatkozó szabályzatainak, tulajdonosi ellenőrzési szabályzatának, vagyon-nyilvántartási szabályzatának elfogadásáról,
@@ -258,13 +258,13 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 ### IV. Fejezet — AZ ÁLLAMI VAGYONNAL VALÓ GAZDÁLKODÁS
 
-23. § (1) Az állami vagyont az MNV Zrt. maga kezeli, vagy szerződés – így különösen bérlet, haszonbérlet, szerződésen alapuló haszonélvezet, vagyonkezelés, megbízás – alapján központi költségvetési szervnek, természetes vagy jogi személynek, vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetnek hasznosításra átengedi.
+23. § (1) Az állami vagyont az MNV Zrt. maga kezeli, vagy szerződés – így különösen bérlet, haszonbérlet, megbízás – alapján központi költségvetési szervnek, természetes vagy jogi személynek, vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetnek hasznosításra átengedi.
 
 (2) Az állami vagyon hasznosítására kötött szerződések elsődleges célja az állami vagyon hatékony működtetése, állagának védelme, értékének megőrzése, illetve gyarapítása, az állami és közfeladatok ellátásának elősegítése.
 
 (3) Az MNV Zrt. a vagyon hasznosításának átengedésére csak olyan szerződést köthet, amely – az állami vagyon megőrzését, gyarapítását, pénzügyileg és gazdaságilag minél előnyösebb hasznosítását szem előtt tartva – a Magyar Állam számára a várható bevétel, megtakarítás, vagy más előny alapján a lehető legkedvezőbb.
 
-24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, vagyonkezelési, megbízási, haszonélvezeti jogot alapító – szerződés nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető. A versenyeztetési kötelezettség a határozott időre kötött szerződések meghosszabbítása esetén is fennáll.
+24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető. A versenyeztetési kötelezettség a határozott időre kötött szerződések meghosszabbítása esetén is fennáll.
 
 (2) Mellőzhető a versenyeztetés, ha:
 
@@ -309,27 +309,27 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 ### A vagyonkezelés szabályai
 
-27. § (1) Állami vagyon hasznosítására az MNV Zrt. vagyonkezelési szerződést is köthet.
+27. § (1) Az állami vagyonra vonatkozóan az MNV Zrt. kizárólag a nemzeti vagyonról szóló törvényben meghatározott személyekkel köthet vagyonkezelési szerződést.
 
-(2) A vagyonkezelési szerződés alapján a vagyonkezelő jogosult meghatározott állami tulajdonba tartozó dolog birtoklására, használatára és hasznai szedésére. A vagyonkezelő köteles a vagyontárgy értékét megőrizni, állagának megóvásáról, jó karban tartásáról, működtetéséről gondoskodni, továbbá – a központi költségvetési szervek kivételével – díjat fizetni vagy a szerződésben előírt más kötelezettséget teljesíteni.
+(2) A vagyonkezelő köteles a vagyontárgy értékét megőrizni, állagának megóvásáról, jó karban tartásáról, működtetéséről gondoskodni, továbbá – a központi költségvetési szervek kivételével – díjat fizetni vagy a szerződésben előírt más kötelezettséget teljesíteni.
 
 (3) A vagyonkezelési szerződés valamely, az államot megillető jog gyakorlásának átengedésére is irányulhat, ilyen esetben a dolgok vagyonkezelésének szabályait kell megfelelően alkalmazni.
 
-(4) A vagyonkezelői jog az erre irányuló szerződéssel – kivételesen törvény alapján – jön létre.
+(4)
 
 (5) A vagyonkezelés további szabályait, valamint a vagyonkezelt állami vagyon és az ahhoz kapcsolódó bevételek és kiadások nyilvántartásának szabályait a Kormány rendeletben állapítja meg.
 
 ### Központi költségvetési szervek vagyongazdálkodására vonatkozó szabályok
 
-28. § (1) A központi költségvetési szerv a működéséhez szükséges – a (3) bekezdésben foglalt vagyontárgyakon kívüli – állami vagyon összetételét és mértékét az állami vagyon használatát biztosító szerződés megkötése előtt, illetve folyamatosan közli az MNV Zrt.-vel, amely az igényeket az állam teherbíró képességéhez igazodva, a társadalmi szükségletek, a célszerűség és a gazdaságosság szempontjai figyelembevételével elégíti ki.
+28. § (1) A központi költségvetési szerv a működéséhez szükséges – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (6) bekezdésében foglalt vagyontárgyakon kívüli – állami vagyon összetételét és mértékét az állami vagyon használatát biztosító szerződés megkötése előtt, illetve folyamatosan közli az MNV Zrt.-vel, amely az igényeket az állam teherbíró képességéhez igazodva, a társadalmi szükségletek, a célszerűség és a gazdaságosság szempontjai figyelembevételével elégíti ki.
 
 (2)
 
-(3) Központi költségvetési szerv a működéséhez szükséges, a számviteli törvény szerinti immateriális jószág, tárgyi eszköz (műszaki berendezés, gép, felszerelés stb.), készlet megvásárlására – ingatlan kivételével – adásvételi szerződést köthet. A szerződés megkötésével a dolog a Magyar Állam tulajdonába, és az adott központi költségvetési szerv vagyonkezelésébe kerül. A vagyonkezelői jog ilyen esetben vagyonkezelési szerződés nélkül, e törvény alapján jön létre.
+(3)
 
-(4) A (3) bekezdésben meghatározott vagyontárgyakat – amennyiben azok egyedi, könyv szerinti bruttó értéke az éves költségvetési törvényben meghatározott értékhatárt nem haladja meg – a vagyonkezelő központi költségvetési szerv értékesítheti a 34–35. §-ban foglaltak alkalmazásával. Az értékesítésből származó bevétel ilyen esetben az adott költségvetési szervet illeti.
+(4) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (6) bekezdésében meghatározott vagyontárgyakat – amennyiben azok egyedi, könyv szerinti bruttó értéke az éves költségvetési törvényben meghatározott értékhatárt nem haladja meg – a vagyonkezelő központi költségvetési szerv értékesítheti a 34–35. §-ban foglaltak alkalmazásával. Az értékesítésből származó bevétel ilyen esetben az adott költségvetési szervet illeti.
 
-(5) Amennyiben ajándékozás, végrendeleti örökösnevezés, illetve tulajdonjog átruházására irányuló más hasonló jogügylet kedvezményezettjeként valamely központi költségvetési szervet jelölnek meg, az elfogadott vagyon állami tulajdonba kerül azzal, hogy az MNV Zrt. az adott költségvetési szervvel köt rá – a (3) bekezdésben meghatározott vagyontárgyak kivételével – nem visszterhes vagyonkezelési szerződést. Ha a későbbiekben az ilyen vagyontárgy értékesítésére kerül sor, annak bevétele a kedvezményezett központi költségvetési szervet illeti meg.
+(5) Amennyiben ajándékozás, végrendeleti örökösnevezés, illetve tulajdonjog átruházására irányuló más hasonló jogügylet kedvezményezettjeként valamely központi költségvetési szervet jelölnek meg, az elfogadott vagyon állami tulajdonba kerül azzal, hogy az MNV Zrt. az adott költségvetési szervvel köt rá – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (6) bekezdésében meghatározott vagyontárgyak kivételével – nem visszterhes vagyonkezelési szerződést. Ha a későbbiekben az ilyen vagyontárgy értékesítésére kerül sor, annak bevétele a kedvezményezett központi költségvetési szervet illeti meg.
 
 ### Állami tulajdonú gazdasági társaságokés más gazdálkodó szervezetek
 
@@ -349,7 +349,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (2)–(4)
 
-(5) A többségi állami tulajdonú gazdálkodó szervezet és tagja (részvényese) között létrejövő szerződést a szerződés aláírásától számított harminc napon belül a cégbíróságon a cégiratok közé letétbe kell helyezni. Ezt a rendelkezést nem kell alkalmazni, ha a társaság és a tag (részvényes) a társaság tevékenységi körébe tartozó, a létesítő okirat által meghatározott szokásos nagyságrendű szerződést köt.
+(5) A többségi állami tulajdonú gazdálkodó szervezet és tagja (részvényese) között létrejövő szerződést a szerződés aláírásától számított harminc napon belül a cégbíróságon a cégiratok közé letétbe kell helyezni. Ezt a rendelkezést nem kell alkalmazni, ha a társaság és a tag (részvényes) a társaság tevékenységi körébe tartozó, a létesítő okirat által meghatározott szokásos nagyságrendű szerződést köt, továbbá ha az banktitok sérelmével járna.
 
 (6)
 
@@ -490,7 +490,7 @@ lehet végezni.
 
 (2) A 28. § (2) bekezdése, a 30. § (2) bekezdése, a 47. §, a 48. § (4) bekezdése, az 56. § (1) bekezdésének e) pontja, az 56. § (1) bekezdés g) pontjának a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 51. § (2) bekezdés j) pontja módosítására irányuló rendelkezése, az 56. § (1) bekezdésének n) pontja, az 58. § (1) bekezdésének p) pontja és a 66. § 2008. január 1-jén lép hatályba.
 
-(3) Az Áht. e törvénnyel megállapított 12/B. §-ának (1) és (3) bekezdését az e törvény hatálybalépését követően indított azon eljárásokra kell alkalmazni, amelyek az ott említett kötelezettségvállalást eredményezik.
+(3)
 
 ### Módosító rendelkezések
 
@@ -772,62 +772,3 @@ lép.
 (2)
 
 ### Melléklet a 2007. évi CVI. törvényhez
-
-A tartós állami tulajdonú társasági részesedésekkel működő társaságok – az állami tulajdoni arányának megjelölésével – a következők:
-
-| Társaság neve | Tartós állami részesedés legalacsonyabb mértéke |
-| --- | --- |
-| Magyar Villamos Művek Zrt. | 75% + 1 szavazat |
-| Bakonyerdő Erdészeti és Faipari Zrt. | 100% |
-| DALERD Délalföldi Erdészeti Zrt. | 100% |
-| ÉSZAKERDŐ Erdőgazdasági Zrt. | 100% |
-| Gemenci Erdő- és Vadgazdaság Zrt. | 100% |
-| GYULAJ Erdészeti és Vadászati Zrt. | 100% |
-| Ipoly Erdő Zrt. | 100% |
-| Kisalföldi Erdőgazdasági Zrt. | 100% |
-| KEFAG Kiskunsági Erdészeti és Faipari Zrt. | 100% |
-| EGEREDŐ Erdészeti Zrt. | 100% |
-| Mecseki Erdészeti Zrt. | 100% |
-| NEFAG Nagykunsági Erdészeti és Faipari Zrt. | 100% |
-| NYÍRERDŐ Nyírségi Erdészeti Zrt. | 100% |
-| Pilisi Parkerdő Zrt. | 100% |
-| SEFAG Erdészeti és Faipari Zrt. | 100% |
-| Szombathelyi Erdészeti Zrt. | 100% |
-| TAEG Tanulmányi Erdőgazdaság Zrt. | 100% |
-| VADEX Mezőföldi Erdő- és Vadgazdálkodási Zrt. | 100% |
-| Vértesi Erdészeti és Faipari Zrt. | 100% |
-| Zalaerdő Erdészeti Zrt. | 100% |
-| HM Budapesti Erdőgazdaság Zrt. | 100% |
-| HM Kaszó Erdőgazdaság Zrt. | 100% |
-| HM VERGA Veszprémi Erdőgazdaság Zrt. | 100% |
-| HM Armcom Zrt. | 50% + 1 szavazat |
-| HM Currus Zrt. | 50% + 1 szavazat |
-| HM Arzenál Zrt. | 50% + 1 szavazat |
-| Eximbank Zrt. | 25% + 1 szavazat |
-| MEHIB Zrt. | 25% + 1 szavazat |
-| Magyar Posta Zrt. | 75% + 1 szavazat |
-| Magyar Államvasutak Zrt. | 100% |
-| Győr-Sopron-Ebenfurti Vasút Zrt. | 50% + 1 szavazat |
-| HungaroControl Magyar Légiforgalmi Szolgálat Zrt. | 100% |
-| ExVÁ Robbanásbiztos Berendezések Vizsgáló Állomása Kft. | 100% |
-| Magyar Fejlesztési Bank Zrt. | 100% |
-| ITD Hungary Nonprofit Közhasznúan Működő Zrt. | 50% + 1 szavazat |
-| Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kht. | 100% |
-| HM Elektronikai, Logisztikai és Vagyonkezelő Zrt. | 100% |
-| Államadósság Kezelő Központ Zrt. | 100% |
-| Hitelgarancia Zrt. | 50% + 1 szavazat |
-| Kisvállalkozás-fejlesztő Pénzügyi Zrt. | 50% + 1 szavazat |
-| Regionális Fejlesztési Holding Zrt. | 100% |
-| KOPINT-DATORG Infokommunikációs Zrt. | 100% |
-| Tiszavíz Vízerőmű Energetikai Kft. | 100% |
-| Concordia Közraktár Kereskedelmi Zrt. | 100% |
-| Radioaktív Hulladékokat Kezelő Nonprofit Kht. | 100% |
-| Szerencsejáték Zrt. | 100% |
-| Bábolna Nemzeti Ménesbirtok Kft. | 100% |
-| Mezőhegyesi Állami Ménes Lótenyésztő- és Értékesítő Kft. | 100% |
-| Dunamenti Regionális Vízmű Zrt. | 75% + 1 szavazat |
-| Dunántúli Regionális Vízmű Zrt. | 75% + 1 szavazat |
-| Észak-dunántúli Regionális Vízmű Zrt. | 75% + l szavazat |
-| Észak-magyarországi Regionális Vízművek Zrt. | 75% + 1 szavazat |
-| Tiszamenti Regionális Vízművek Zrt. | 75% + 1 szavazat |
-| Herendi Porcelánmanufaktúra Zrt. | 25%+1 szavazat |

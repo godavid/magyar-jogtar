@@ -8,7 +8,7 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 
 1. § (1) E törvény hatálya kiterjed
 
-- a) a Magyar Köztársaság területén székhellyel rendelkező hitelintézetre,
+- a) a Magyarország területén székhellyel rendelkező hitelintézetre,
 - b) az a) pontban meghatározott szervezetben a Magyar Állam nevében történő, e törvény szerinti befolyásszerzésre és befolyás megszüntetésére,
 - c)
 - d) az a) és b) pontban meghatározottak felügyeletére.
@@ -31,7 +31,7 @@ A pénzügyi közvetítőrendszernek a gazdaság egészének működésében bet
 - 8. vezető tisztségviselő: a Gt.-ben meghatározott fogalom,
 - 9. vezető állású személy: a Hpt.-ben meghatározott fogalom,
 - 10. pénzügyi eszköz: a Bszt. 6. §-ában meghatározott fogalom,
-- 11. MNB rendkívüli likviditási hitele: az MNB tv. 14. §-a szerinti – a 7. §-ban meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel.
+- 11. MNB rendkívüli likviditási hitele: az MNB tv. 12. § (4) bekezdése szerinti – a 7. §-ban meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel
 
 ### A SZABÁLYOZOTT INTÉZMÉNYEK HELYZETÉNEK FOLYAMATOS ÉRTÉKELÉSE
 
@@ -308,12 +308,12 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 ### Melléklet a 2008. évi CIV. törvényhez
 
-- 1. Áht.: az államháztartásról szóló 1992. évi XXXVIII. törvény,
+- 1. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 - 2. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,
 - 3. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
 - 4. Gt.: a gazdasági társaságokról szóló 2006. évi IV. törvény,
 - 5. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény,
-- 6. MNB tv.: a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény,
+- 6. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 - 7. Psztv.: a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2007. évi CXXXV. törvény,
 - 8. Szmt.: a számvitelről szóló 2000. évi C. törvény,
 - 9. Tpt.: a tőkepiacról szóló 2001. évi CXX. törvény,

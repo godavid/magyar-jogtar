@@ -21,7 +21,14 @@ Az Országgyűlés annak érdekében, hogy meghatározza azokat a feltételeket,
 - a) elszámolási nettósítás: valamely résztvevőnek a rendszer más résztvevőjétől kapott, illetve részére küldött transzfer megbízásaiból keletkező követeléseinek és tartozásainak egyetlen nettó követeléssé vagy nettó tartozássá való átalakítása, aminek folytán a követelés vagy a tartozás csak e nettó összegre korlátozódik;
 - b) elszámoló fél: az a résztvevő, amely az intézmények, az esetleges központi szerződő fél, illetőleg az esetleges teljesítő fél nettó fizetési kötelezettségeit megállapítja;
 - c) biztosíték: a rendszerrel kapcsolatban felmerülő jogok gyakorlásának és kötelezettségek teljesítésének biztosítására szolgáló jogügyletek, így különösen a Polgári Törvénykönyvről szóló törvény szerinti óvadék – ideértve az Európai Parlament és Tanács 2002/47/EK irányelv 1. cikk (4) bekezdés a) pontját átültető EGT-állam jogszabályai szerinti pénzügyi biztosítékot is –, valamint az EGT-állam központi bankja, illetve az Európai Központi Bank által biztosítékként elfogadott eszközök;
-- d) fizetést korlátozó eljárás: a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szerinti csődeljárás és felszámolási eljárás, illetve ideiglenes vagyonfelügyelő kirendelése, valamint a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 157. § (1) bekezdés b) pontja szerinti kivételes intézkedés, illetve a Hpt. 176/B. § (5) bekezdése, a Hpt. 181. § (2) bekezdése, 153. § (2) bekezdés c) pont 6. alpontja, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 135. § (1) bekezdése szerinti kifizetési tilalom, továbbá a Bszt. 128. § (1) bekezdése, 164. § (1) bekezdés h) és n) pontja szerinti, és a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 400. § (1) bekezdés h), j) és r) pontja, valamint (4) bekezdése szerinti felügyeleti intézkedések;
+- d) fizetést korlátozó eljárás:
+  - da) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szerinti csődeljárás és felszámolási eljárás, illetve ideiglenes vagyonfelügyelő kirendelése,
+  - db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 153. § (2) bekezdés c) pont 6. alpontja, a Hpt. 176/B. § (5) bekezdése, a Hpt. 181. § (2) bekezdése szerinti felügyeleti intézkedés,
+  - dc) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 128. § (1) bekezdése, a Bszt. 164. § (1) bekezdés h) és n) pontjai szerinti felügyeleti intézkedés, a Bszt. 135. § (1) bekezdése szerinti kifizetési tilalom,
+  - dd) a tőkepiacról szóló 2001. évi CXX. törvény 400. § (1) bekezdés h) és j) pontjai, valamint a (4) bekezdése szerinti felügyeleti intézkedés,
+
+amennyiben az intézkedésre jogosult hatóság az eljárását az 5. § (1) bekezdése szerint fizetést korlátozó eljárásként jelöli meg;
+
 - e) harmadik ország: az az ország, amely nem tagja az Európai Uniónak;
 - f) intézmény:
   - fa) a Hpt. szerinti hitelintézet, pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmény, a Bszt. szerinti befektetési vállalkozás, a Posta Elszámoló Központot működtető intézmény, a kincstár, az Államadósság Kezelő Központ, a Magyar Nemzeti Bank, vagy
@@ -32,7 +39,7 @@ Az Országgyűlés annak érdekében, hogy meghatározza azokat a feltételeket,
 - h) közvetett résztvevő: az az intézmény, központi szerződő fél, teljesítő fél, elszámoló fél vagy rendszerüzemeltető, amely a transzfer megbízásokat teljesítő rendszer valamely résztvevőjével szerződéses kapcsolatban áll abból a célból, hogy transzfer megbízásait e résztvevő bonyolítsa le számára a rendszeren keresztül, feltéve, hogy a közvetett résztvevő a rendszerüzemeltető számára ismert;
 - i) rendszer: az – a rendszerkapcsolatnak nem minősülő – írásbeli megállapodáson alapuló együttműködési forma,
   - ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a teljesítő fél, a központi szerződő fél, az elszámoló fél, illetőleg a közvetett résztvevő – megállapodik abban, hogy egymás közötti transzfer megbízásaik közös szabályok és egységes eljárási rend szerint, központi szerződő fél igénybevételével vagy anélkül kerülnek teljesítésre,
-  - ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az Európai Bizottságot;
+  - ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az Európai Értékpapír-piaci Hatóságot;
 - j) résztvevő: az intézmény, a központi szerződő fél, a teljesítő fél, az elszámoló fél, valamint a rendszerüzemeltető;
 - k) transzfer megbízás: valamely résztvevő rendelkezése, hogy egy pénzösszeget, illetőleg átruházható értékpapírt valamely hitelintézetnél, központi szerződő félnél, központi banknál vagy a teljesítő félnél vezetett számlán történő jóváírással bocsássanak a kedvezményezett rendelkezésére;
 - l) teljesítés: a rendszer résztvevői közötti tartozások és követelések kiegyenlítése a teljesítési számlákon;
@@ -77,7 +84,7 @@ Az Országgyűlés annak érdekében, hogy meghatározza azokat a feltételeket,
 
 ### A FIZETÉST KORLÁTOZÓ ELJÁRÁS
 
-5. § (1) A bíróság vagy az intézkedésre jogosult más hatóság a résztvevő elleni fizetést korlátozó eljárás megindításáról – ha az eljárás megindítását maga a résztvevő kéri, a kérelem előterjesztéséről – haladéktalanul értesíti a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőt, valamint a rendszer kijelölésére jogosult hatóságot.
+5. § (1) A bíróság vagy az intézkedésre jogosult hatóság a résztvevő elleni fizetést korlátozó eljárás megindításáról – ha az eljárás megindítását maga a résztvevő kéri, a kérelem előterjesztéséről – haladéktalanul értesíti a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőt, valamint a rendszer kijelölésére jogosult hatóságot. Az intézkedésre jogosult hatóság értesítésének kifejezetten tartalmaznia kell az arra vonatkozó utalást, hogy az értesítés alapjául szolgáló eljárás fizetést korlátozó eljárásnak minősül.
 
 (2) E törvény alkalmazásában a fizetést korlátozó eljárás megindításának időpontja:
 
@@ -87,15 +94,23 @@ Az Országgyűlés annak érdekében, hogy meghatározza azokat a feltételeket,
 
 bíróság vagy intézkedésre jogosult más hatóság általi meghozatalának időpontjával egyezik meg.
 
-(3) E törvény alkalmazásában a bíróság által hozott határozat alatt csődeljárás esetében a fizetési haladékról, valamint az ennek meghosszabbításáról rendelkező végzést, felszámolási eljárás esetében a felszámolás elrendeléséről szóló végzést kell érteni.
+(3) E törvény alkalmazásában a bíróság által hozott határozat alatt csődeljárás esetében a fizetési haladékról, valamint az ennek meghosszabbításáról rendelkező végzést, felszámolási eljárás esetében az ideiglenes vagyonfelügyelő kirendeléséről és a felszámolás elrendeléséről szóló végzést kell érteni.
 
 (4) E törvény alkalmazásában a jogerőre emelkedés megállapítása tekintetében a bíróság soron kívül jár el.
 
 (5) A résztvevő ellen indult fizetést korlátozó eljárásban a Polgári perrendtartásról szóló 1952. évi III. törvény 105. §-a (4) bekezdésének rendelkezése nem alkalmazható.
 
-(6) A kijelölő hatóság a fizetést korlátozó eljárás megindításáról haladéktalanul értesíti a tagállamok illetékes hatóságait, valamint haladéktalanul továbbítja a tagállamoktól érkező értesítéseket a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőhöz.
+(6) A kijelölő hatóság a fizetést korlátozó eljárás megindításáról haladéktalanul értesíti az Európai Rendszerkockázati Testületet, az Európai Értékpapír-piaci Hatóságot és a tagállamok illetékes hatóságait, valamint haladéktalanul továbbítja a tagállamoktól érkező értesítéseket a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőhöz.
 
-(7) A bíróság vagy az intézkedésre jogosult más hatóság, illetőleg a kijelölő hatóság a fizetést korlátozó eljárás megindításával kapcsolatos értesítési kötelezettségének olyan módon köteles eleget tenni, hogy az értesítés postai úton és elektronikus irat formájában a legrövidebb időn belül megérkezzék a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőhöz, a kijelölő hatósághoz, illetve a többi tagállamhoz. Az értesítést úgy kell továbbítani, hogy tartalma és megérkezésének időpontja utólag is megállapítható legyen.
+(7) A bíróság vagy az intézkedésre jogosult hatóság, illetve a kijelölő hatóság a fizetést korlátozó eljárás megindításával kapcsolatos belföldi értesítési kötelezettségének olyan módon köteles eleget tenni, hogy az értesítés elektronikus dokumentum formájában a lehető legrövidebb időn belül megérkezzék a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőhöz, illetve a kijelölő hatósághoz. Amennyiben az elektronikus úton való értesítésre nincsen lehetőség, akkor az értesítési kötelezettségnek postai úton kell eleget tenni.
+
+(8) Az elektronikus dokumentum formájában történő értesítést olyan üzenettovábbító rendszer útján kell megküldeni, amelynek sértetlensége biztosított, és amely
+
+- a) biztosítja az értesítés küldőjének beazonosíthatóságát,
+- b) megakadályozza az értesítést tartalmazó üzenet illetéktelen személyek általi megismerését, valamint
+- c) biztosítja, hogy az értesítés küldője az üzenet kézbesítésének megtörténtéről megbizonyosodhat.
+
+(9) A (7) bekezdés szerinti értesítést úgy kell továbbítani, hogy az értesítés küldőjénél az értesítés tartalma és küldésének időpontja (év, hó, nap, óra, perc), az értesítés fogadójánál az értesítés tartalma és megérkezésének időpontja (év, hó, nap, óra, perc) utólag is megállapítható legyen. Az értesítés tartalmának, küldési és érkezési időpontjának tárolása során a tárolt adatok sértetlenségét biztosítani kell.
 
 6. § A fizetést korlátozó eljárás során született határozatoknak és a megtett intézkedéseknek nem lehet az eljárás megindításának az 5. § (2) bekezdése szerinti időpontját megelőző időpontra visszaható, a résztvevőnek, a kapcsolódó rendszer résztvevőjének, valamint a kapcsolódó rendszer résztvevőnek nem minősülő rendszerüzemeltetőjének a rendszerben való részvételből származó jogait vagy kötelezettségeit érintő hatálya.
 
@@ -105,7 +120,7 @@ bíróság vagy intézkedésre jogosult más hatóság általi meghozatalának i
 
 8. § (1) A rendszer és a kapcsolódó rendszer bármely résztvevője, a kapcsolódó rendszer résztvevőnek nem minősülő rendszerüzemeltetője, az Európai Unió tagállamának központi bankja és az Európai Központi Bank felé központi elszámoló fél szolgáltatást nyújtó intézmény, valamint a biztosítékot nyújtó harmadik fél ellen indított fizetést korlátozó eljárás nem akadályozza a rendszer vagy a kapcsolódó rendszer bármely résztvevője és rendszerüzemeltetője követelésének biztosítékból történő közvetlen kielégítését.
 
-(2) A résztvevő, illetve a kapcsolódó rendszer rendszerüzemeltetője ellen indított fizetést korlátozó eljárás esetén a 4. § (1) bekezdése szerint jogszerűen befogadott transzfer megbízás teljesítéséig nem lehet elvonni a teljesítési számláján nyilvántartott azon biztosítékokat, amelyek a résztvevőnek a fizetést korlátozó eljárás megindítása napjának megfelelő üzleti napon a rendszerrel, illetve kapcsolódó rendszerrel szemben fennálló kötelezettsége teljesítését szolgálják. Ugyanígy felhasználható a résztvevő rendszerhez kapcsolódóan igénybe vehető hitelkerete – a hitelkeret fedezeteként ténylegesen meglévő biztosíték erejéig – a rendszerrel, illetve a kapcsolódó rendszerrel szemben keletkezett kötelezettségének teljesítésére.
+(2) A résztvevő, illetve a kapcsolódó rendszer rendszerüzemeltetője ellen indított fizetést korlátozó eljárás esetén a 4. § (1) bekezdése szerint jogszerűen befogadott transzfer megbízás teljesítéséig nem lehet elvonni a résztvevő teljesítési számláján a fizetést korlátozó eljárás megindítása napjának megfelelő üzleti napon nyilvántartott azon pénzeszközöket és értékpapírokat, amelyek a résztvevőnek a rendszerrel, illetve kapcsolódó rendszerrel szemben a fizetést korlátozó eljárás megindítása napjának megfelelő üzleti napon fennálló kötelezettsége teljesítését szolgálják. Ugyanígy felhasználható a résztvevő rendszerhez kapcsolódóan igénybe vehető hitelkerete – a hitelkeret fedezeteként ténylegesen meglévő biztosíték erejéig – a rendszerrel, illetve a kapcsolódó rendszerrel szemben keletkezett kötelezettségének teljesítésére.
 
 (3) A rendszer résztvevőjének transzfer megbízására, illetőleg a biztosíték sérthetetlenségére irányadó szabályok a közvetett résztvevő esetében is alkalmazandóak, azzal, hogy mindez nem érinti a közvetett résztvevővel szerződéses kapcsolatban álló résztvevő közvetett résztvevőért való felelősségét.
 
@@ -156,7 +171,7 @@ bíróság vagy intézkedésre jogosult más hatóság általi meghozatalának i
 
 (7) A kijelölés visszavonható, ha a rendszer nem e törvény és a kijelölés alapjául szolgáló megállapodásban foglaltak szerint működik.
 
-(8) A kijelölő hatóság a rendszer és a rendszerüzemeltető kijelöléséről vagy a kijelölés visszavonásáról haladéktalanul értesíti a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőt és az Európai Bizottságot.
+(8) A kijelölő hatóság a rendszer és a rendszerüzemeltető kijelöléséről vagy a kijelölés visszavonásáról haladéktalanul értesíti a 3. § (1) bekezdésének c) pontja szerinti rendszerüzemeltetőt és az Európai Értékpapír-piaci Hatóságot.
 
 (9) A kijelölő hatóság eljárása illetékmentes.
 
@@ -193,6 +208,10 @@ bíróság vagy intézkedésre jogosult más hatóság általi meghozatalának i
 
 (2)
 
-### AZ EURÓPAI KÖZÖSSÉGEK JOGSZABÁLYAIHOZ VALÓ KÖZELÍTÉS
+### Jogharmonizációs záradék
 
-17. § E törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Parlament és a Tanács a fizetési és értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 98/26/EK irányelvével összeegyeztethető szabályozást tartalmaz.
+17. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+- a) az Európai Parlament és a Tanács 1998. május 19-i 98/26/EK irányelve a fizetési és értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről;
+- b) az Európai Parlament és a Tanács 2009. május 6-i 2009/44/EK irányelve a fizetési és értékpapír-elszámolási rendszerekben az elszámolások véglegességéről szóló 98/26/EK irányelvnek és a pénzügyi biztosítékokról szóló megállapodásokról szóló 2002/47/EK irányelvnek a kapcsolódó rendszerek és hitelkövetelések tekintetében történő módosításáról;
+- c) az Európai Parlament és Tanács 2010. november 24-i 2010/78/EK irányelve a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság, az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság), az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.

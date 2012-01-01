@@ -142,7 +142,7 @@ Az Országgyűlés annak érdekében, hogy az Európai Unió Közös Agrárpolit
 
 (2)
 
-8/A. § Semmis az olyan szerződéses kikötés, amely szerint a maga termelte mezőgazdasági termény szolgáltatására elháríthatatlan külső ok (vis maior) miatt egészben vagy részben nem képes termelő a hiányzó mezőgazdasági terményt teljesítés céljára mástól beszerezni, vagy helyette más szolgáltatást nyújtani köteles. E kikötés semmissége a szerződés egyéb rendelkezéseinek érvényességét akkor sem érinti, ha a felek e nélkül nem szerződtek volna.
+8/A. §
 
 8/B. § A választottbíráskodásról szóló 1994. évi LXXI. törvény 55. § (2) bekezdés b) pontja szerinti közrendbe ütközőnek kell tekinteni az olyan választottbírósági ítéletet, amely a maga termelte mezőgazdasági termény szolgáltatására elháríthatatlan külső ok (vis maior) miatt egészben vagy részben képtelen termelőt a hiányzó mezőgazdasági termény – teljesítés céljából való – pótlására, beszerzésére vagy helyette más szolgáltatás, illetve biztosíték nyújtására kötelezi.
 
@@ -248,9 +248,9 @@ Az Országgyűlés annak érdekében, hogy az Európai Unió Közös Agrárpolit
 
 29/E. § (1) A jogi személyre vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezetre kiszabott végrehajtási bírságot, illetve termékpálya-felügyeleti bírságot mind a kötelezett, mind a vállalkozás vezetőjével szemben egyidejűleg is ki lehet szabni.
 
-(2) A piacfejlesztési hozzájárulás, a végrehajtási bírság, illetve a termékpálya-felügyeleti bírság, ha azt a kötelezett a teljesítésre nyitvaálló határidőn belül nem fizette meg, adók módjára behajtandó köztartozásnak minősül, amelyet a mezőgazdasági igazgatási szerv megkeresésére az állami adóhatóság szed be.
+(2) A piacfejlesztési hozzájárulás, ha azt a kötelezett a teljesítésre nyitvaálló határidőn belül nem fizette meg, adók módjára behajtandó köztartozásnak minősül, amelyet a mezőgazdasági igazgatási szerv megkeresésére az állami adóhatóság szed be.
 
-(3) A végrehajtási bírság, illetve termékpálya-felügyeleti bírság a mezőgazdasági igazgatási szerv saját bevétele.
+(3)
 
 ### VI. Fejezet — Átmeneti és záró rendelkezések
 

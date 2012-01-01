@@ -61,7 +61,7 @@ a következő törvényt alkotja:
 - a) a csere tárgyát képező egyik földrészlet az azt megszerző cserepartnernek már a tulajdonában álló földrészletével azonos településen fekszik, vagy
 - b) a cserepartnerek egyikének bejelentett lakóhelye azon a településen van, amely település közigazgatási területén fekszik a csere címén általa megszerzendő földrészlet.
 
-(3) Termőföld tulajdonjogát ajándékozás jogcímén csak közeli hozzátartozók [Ptk. 685. § b) pont], közalapítvány, önkormányzat, egyházi jogi személy és a Magyar Állam javára, valamint a mezőgazdasági termelők gazdaságátadási támogatása feltételeként lehet átruházni.
+(3) Termőföld tulajdonjogát ajándékozás jogcímén csak közeli hozzátartozók [Ptk. 685. § b) pont], közalapítvány, önkormányzat, egyház, belső egyházi jogi személy és a Magyar Állam javára, valamint a mezőgazdasági termelők gazdaságátadási támogatása feltételeként lehet átruházni.
 
 ### Belföldi magánszemélyek tulajdonszerzése
 
@@ -86,11 +86,15 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 6. § (1) Belföldi jogi személy és jogi személyiség nélküli más szervezet termőföld tulajdonjogát – a Magyar Állam, az önkormányzat és a közalapítvány kivételével – nem szerezheti meg.
 
-(2) Egyházi jogi személy végintézkedés, illetőleg ajándékozási, tartási vagy gondozási szerződés alapján termőföldre tulajdonjogot szerezhet.
+(2) Egyház, belső egyházi jogi személy végintézkedés, ajándékozási, tartási vagy életjáradéki szerződés alapján, valamint jogutódlással a jogelődjének tulajdonában álló termőföldre tulajdonjogot szerezhet.
 
 (3) Jelzálog-hitelintézet a jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvényben foglalt korlátozásokkal és időtartamra termőföldet szerezhet.
 
 (4) A szervezeti változással, illetve társasági formaváltással, egyesüléssel vagy szétválással létrejött belföldi jogi személy és jogi személyiség nélküli más szervezet a jogelődje – 1994. július 27-ét megelőzően megszerzett – tulajdonát képező termőföld tulajdonjogát megszerezheti.
+
+(5) A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 34. § (1) bekezdése szerinti szervezet (a továbbiakban: szervezet) a jogelődjének tulajdonát képező termőföld tulajdonjogát jogutódlással megszerzi. Az ilyen szervezet jogutódja a jogelődje tulajdonát képező termőföld tulajdonjogát – a (6) bekezdésre figyelemmel – jogutódlással megszerezheti.
+
+(6) Ha a szervezet a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 6. § (1) bekezdése szerinti vallási tevékenységét megszünteti, a változás bíróság általi bejegyzésétől számított három éven belül a tulajdonát képező termőföldet köteles elidegeníteni.
 
 ### Külföldiek tulajdonszerzése
 
@@ -135,7 +139,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (5)
 
-(6) Amíg a bírságolásra okot adó körülmény fennáll, de legkésőbb a Magyar Köztársaságnak az Európai Unióhoz való csatlakozása tárgyában kötött nemzetközi szerződésben meghatározott mentességi idő végéig a tulajdonosra a tagállami állampolgárnak nem minősülő külföldi magánszemélyre irányadó rendelkezéseket kell alkalmazni.
+(6) Amíg a bírságolásra okot adó körülmény fennáll, de legkésőbb a 2003. évi uniós csatlakozási szerződésben meghatározott mentességi idő végéig a tulajdonosra a tagállami állampolgárnak nem minősülő külföldi magánszemélyre irányadó rendelkezéseket kell alkalmazni.
 
 ### A tulajdonszerzés ellenőrzése
 
@@ -208,13 +212,15 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 ### Haszonbérfizetési kedvezmény
 
-15. § (1) Ha a haszonbérlőt a haszonbérelt területre elemi csapás okozta kár címén földadófizetési kedvezmény (földadómérséklés vagy -elengedés) illeti meg, legalább ilyen arányú haszonbérfizetési kedvezményre (haszonbérmérséklésre vagy -elengedésre) jogosult. A haszonbérlő a haszonbérfizetési kedvezmény igénybevételét és mértékét a földadófizetési kedvezmény biztosításáról szóló határozat kézhezvételétől számított 8 napon belül írásban köteles a haszonbérbe adóval közölni.
+15–16. §
 
-(2) A földadófizetési kedvezmény megállapítására irányuló hatósági eljárás jogerős befejezéséig a haszonbérfizetés tekintetében a kötelezett késedelmére vonatkozó szabályok nem alkalmazhatók.
+17. § (1) A haszonbérlőt – a (3) bekezdésben foglaltakra is figyelemmel – arra az évre, amelyben a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvényben foglaltak szerinti mezőgazdasági káresemény vagy időjárási és más természeti jellegű elháríthatatlan külső ok (vis maior) miatt legalább 30%-os mértékű hozamcsökkenést szenved, és ezt az agrárkár-megállapító szerv igazolja, a hozamcsökkenéssel arányos haszonbérletidíj-mérséklés illeti meg.
 
-16. § A haszonbérlő elesik a haszonbérfizetési kedvezménytől, ha a kedvezmény iránti igényét a haszonbérbe adóval a 15. § (1) bekezdése szerinti határidőben nem közli.
+(2) A haszonbérlő a haszonbérfizetési kedvezmény igénybevételét és mértékét a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 14. § (2) bekezdése szerinti hatósági bizonyítvány kézhezvételét követően, nyolc napon belül, írásban köteles közölni a haszonbérbe adóval.
 
-17. § A haszonbérlő arra az évre, amelyben elemi csapás, vagy más rendkívüli esemény okából az átlagos termés kétharmada sem termett meg, ha törvény másként nem rendelkezik, méltányos, a terméskieséssel arányos haszonbérmérséklést, illetőleg haszonbér-elengedést igényelhet. Erre irányuló igényét köteles még a termés betakarítása előtt a haszonbérbe adóval közölni.
+(3) Eltérő megállapodás hiányában az (1) bekezdésben foglaltak szerinti kedvezmény csak a legalább helyben szokásos mértékű haszonbérleti díjat fizető haszonbérlőt illeti meg.
+
+(4) Semmis az a megállapodás, amely az (1) bekezdés szerint járó kedvezmény igénybevétele miatt ki nem fizetett haszonbérleti díj pótlására vállal kötelezettséget.
 
 ### A haszonbérleti szerződés felmondása, megszűnése
 
@@ -292,13 +298,13 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 25/B. § (1) Az ingatlanügyi hatóság az illetékességi területéhez tartozó termőföldekről, valamint a mező- vagy erdőgazdasági művelés alatt álló belterületi földek használatáról – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – önálló nyilvántartást vezet, amelynek alapja a közhiteles ingatlan-nyilvántartás. A földhasználati nyilvántartás tartalmazza a földrészletek ingatlan-nyilvántartás szerinti helyrajzi számát, alrészleteit, hektárban a terület nagyságát, aranykoronában a termőföld értékét, a földrészlet (alrészlet) vagy földrészletek magánszemély használójának természetes személyazonosító adatait, illetőleg a gazdálkodó szervezet használó megnevezését, székhelyét (telephelyét), statisztikai számjelét, a használat jogcímét, határozott időre kötött szerződés esetén a használat időtartamát. A számítógépes földhasználati nyilvántartási rendszer kezelése, működtetése – függetlenül annak tényleges elhelyezésétől – a földmérési és térinformatikai államigazgatási szervezet feladatkörébe tartozik.
 
-(2) Aki termőföldet használ, s annak területe – a földrészletek számától függetlenül – az egy hektárt meghaladja, köteles a használatot annak megkezdésétől számított harminc napon belül az ingatlanügyi hatósághoz nyilvántartásba vétel céljából – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon (bejelentési adatlapon) – bejelenteni. Ha a használó nem a tulajdonos, illetőleg haszonélvezet fennállása esetén nem a haszonélvező, a bejelentési adatlapot a földhasználó mellett a tulajdonosnak, illetőleg a haszonélvezőnek is alá kell írnia.
+(2) Aki termőföldet használ, s annak területe – a földrészletek számától függetlenül – az egy hektárt meghaladja, köteles a használatot annak megkezdésétől számított harminc napon belül az ingatlanügyi hatósághoz nyilvántartásba vétel céljából – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) – bejelenteni. Ha a használó nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, a bejelentési adatlapot a földhasználó mellett a tulajdonosnak, illetve a haszonélvezőnek is alá kell írnia.
 
-(3) Ha a földhasználat olyan szerződés alapján keletkezett, amelyet jogszabály alapján kötelező írásba foglalni, a (2) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a földhasználat ingatlanügyi hatósághoz való bejelentéséhez elegendő a szerződés egy eredeti példányát vagy annak közjegyző által hitelesített másolatát benyújtani.
+(3) Ha a földhasználat olyan szerződés alapján keletkezett, amelynek érvényességéhez jogszabály alapján kötelező írásba foglalás szükséges, a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a bejelentési adatlapot a használatba adónak nem kell aláírnia, de a bejelentési adatlaphoz a szerződés egy eredeti példányát vagy annak közjegyző által hitelesített másolatát mellékelni kell.
 
 (4) A földhasználó a bejelentéssel egyidejűleg köteles nyilatkozni arról, hogy termőföld használata a törvényben foglalt korlátozásokat nem sérti. A földhasználó a használatban bekövetkezett – a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott – változásokat 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni.
 
-(5) A bejelentést elmulasztó földhasználót az ingatlanügyi hatóság bírsággal sújtja, aminek mértéke a termőföld ingatlan-nyilvántartás szerinti AK értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás minimális összegénél. A meg nem fizetett bírság adók módjára behajtandó köztartozás. A bírság az ingatlanügyi hatóságot illeti meg.
+(5) A bejelentést elmulasztó földhasználót az ingatlanügyi hatóság bírsággal sújtja, aminek mértéke a termőföld ingatlan-nyilvántartás szerinti AK értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás minimális összegénél.
 
 (6) A bírság kiszabásával egyidejűleg az ingatlanügyi hatóság – határidő megjelölésével – a bejelentés pótlására szólítja fel a mulasztó földhasználót. A határozatban előírt határidő elmulasztása esetén – újabb határidő megjelölésével – a bírságot ismételten ki kell szabni.
 
@@ -310,21 +316,29 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (2) A haszonbérlet időtartamára és a haszonbérelhető terület nagyságára vonatkozó törvényi előírásokba ütköző szerződés vagy szerződési kikötés esetén a 9. § (2) és (4) bekezdését megfelelően alkalmazni kell.
 
-(3) Az ingatlanügyi hatóság az általa vezetett földhasználati nyilvántartásból díjfizetés ellenében a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott, a 25/B. § (1) bekezdésében foglalt adatokat is tartalmazó földhasználati lapot szolgáltat. Ingyenesen szolgáltat adatot a földhivatal hatóság megkeresésére a hatósági feladatának ellátása céljából. Az adatszolgáltatásért a miniszter e törvény felhatalmazása alapján az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott díjat kell fizetni.
+(3) Az ingatlanügyi hatóság az általa vezetett földhasználati nyilvántartásból díjfizetés ellenében papír alapon vagy elektronikus úton a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározott, a 25/B. § (1) bekezdésében foglalt adatokat is tartalmazó földhasználati lapot szolgáltat.
+
+(3a) A földhasználati nyilvántartásból díjmentes
+
+- a) a hatóság megkeresésére annak hivatalból indított eljárásához
+- b) a közérdekű bejelentés és panasz elbírálásához, továbbá
+- c) bíróság, ügyészség, nyomozó hatóság, közjegyző és bírósági végrehajtó részére jogszabályban meghatározott feladatai ellátásához szükséges adatszolgáltatás.
 
 (4) A földhasználati nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával az ingatlanügyi hatóság csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 ### A földhasználati eljárás igazgatási szolgáltatási díja
 
-25/D. § (1) Az első fokon kérelemre indult eljárásért – ha e törvény másként nem rendelkezik – 6000 forint összegű díjat kell fizetni. Ha a földhasználati bejelentés 20 vagy annál több földrészletre vonatkozik, az eljárás díja 12 000 forint.
+25/D. § (1) Az első fokon kérelemre indult eljárásért – ha e törvény másként nem rendelkezik – 6 000 forint összegű díjat kell fizetni. Ha a földhasználati bejelentés vagy a törlési kérelem 20 vagy annál több földrészletre vonatkozik, az eljárás díja 12 000 forint.
 
 (2) A földhasználati nyilvántartási eljárásban igénybe vehető valamennyi jogorvoslatért 10 000 forint díjat kell fizetni.
 
 (3) Mentes az eljárás az igazgatási szolgáltatási díj- és illetékfizetési kötelezettség alól, ha a kérelem kizárólag az érintett földrészlet ingatlan-nyilvántartási adatai megváltozásának a földhasználati nyilvántartásba történő bejegyzésére vonatkozik.
 
-(4) A földhasználati nyilvántartási eljárásért fizetett díj az ingatlanügyi hatóság saját bevételét képezi, amely a külön jogszabályban meghatározott számlaszámra fizetendő meg. A díjbevétel 25%-át a földügyért felelős miniszter jogosult központosítani, amely kizárólag a földügyi szakigazgatáson belül használható fel.
+(4) A földhasználati nyilvántartási eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely a földügyért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. A földhasználati nyilvántartásért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.
 
-25/E. § (1) A díjat kérelemre indult eljárásban a földhasználati nyilvántartási eljárás lefolytatását kérelmező földhasználónak kell megfizetnie.
+25/E. § (1) A díjat kérelemre indult eljárásban – az (1a) bekezdésben meghatározott eset kivételével – a földhasználati nyilvántartási eljárás lefolytatását kérelmező földhasználónak kell megfizetnie.
+
+(1a) Ha a földhasználat nyilvántartásból való törlését a használatba adó kéri, a díjat a használatba adónak kell megfizetnie.
 
 (2) A díjfizetési kötelezettség kérelemre indult eljárásban – ideértve a jogorvoslati eljárást is – kizárólag az ingatlanügyi hatóságnál a kérelem előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel vagy az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető. A díjnak az ingatlanügyi hatóság előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem előterjesztésekor mellékelni kell a díj megfizetését igazoló okiratot.
 
@@ -482,7 +496,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 
 (3) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez a külpolitikáért felelős miniszter engedélye szükséges. A külpolitikáért felelős miniszter az engedélyt nemzetközi szerződés vagy viszonosság fennállása alapján adja meg.
 
-88/A. § (1) A tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyezett jogi személy vagy jogi személyiség nélküli szervezet a Magyar Köztársaságnak az Európai Unióhoz való csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépését követően a termőföldnek nem minősülő ingatlan tulajdonjogát a belföldi személyekkel azonos feltételekkel (engedély nélkül) szerezheti meg, kivéve a másodlagos lakóhelyül szolgáló ingatlant, amelynek megszerzéséhez az említett törvény hatálybalépésétől számított öt évig (a továbbiakban: az átmeneti időszak alatt) a Kormány általános hatáskörű területi államigazgatási szervének az engedélye szükséges.
+88/A. § (1) A tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyezett jogi személy vagy jogi személyiség nélküli szervezet a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépését követően a termőföldnek nem minősülő ingatlan tulajdonjogát a belföldi személyekkel azonos feltételekkel (engedély nélkül) szerezheti meg, kivéve a másodlagos lakóhelyül szolgáló ingatlant, amelynek megszerzéséhez az említett törvény hatálybalépésétől számított öt évig (a továbbiakban: az átmeneti időszak alatt) a Kormány általános hatáskörű területi államigazgatási szervének az engedélye szükséges.
 
 (2) Ha a tagállami állampolgár legalább négy éve folyamatosan és jogszerűen Magyarországon tartózkodik, a másodlagos lakóhelyül szolgáló ingatlan tulajdonjogát engedély nélkül szerezheti meg.
 
@@ -519,7 +533,7 @@ területnagysága és AK értéke az (1) bekezdés szerinti mértéket meghaladh
 - a) a 11. § (2) bekezdése szerinti védőtávolságok mértékére és érvényesítésére vonatkozó szabályokat;
 - b)
 - c)
-- d) a földhasználati nyilvántartásból való adatszolgáltatásra vonatkozó igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben,
+- d) a földhasználati nyilvántartásból való adatszolgáltatás igazgatási szolgáltatási díjainak mértékét, valamint a földhasználati eljárás és a földhasználati nyilvántartásból való adatszolgáltatás igazgatási szolgáltatási díjainak befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben;
 - e) a vételi (haszonbérleti) ajánlat hirdetményi úton történő közlésével összefüggő igazgatási jellegű szolgáltatás igazgatási szolgáltatási díjának mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben
 
 rendelettel megállapítsa.

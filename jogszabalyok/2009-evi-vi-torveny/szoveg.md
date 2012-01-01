@@ -4,7 +4,7 @@ a Módosított Európai Szociális Karta kihirdetéséről
 
 1. § (1) Az Országgyűlés e törvénnyel felhatalmazást ad a Módosított Európai Szociális Karta (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
 
-(2) Az Egyezmény III. rész A. cikke 1. bekezdésének b) és c) albekezdésével összhangban az Egyezmény II. részének kötelező alkalmazása a Magyar Köztársaság vonatkozásában az 1. cikkre, a 2. cikkre, a 3. cikkre, az 5. cikkre, a 6. cikkre, a 7. cikk 1. bekezdésére, a 8. cikkre, a 9. cikkre, a 10. cikkre, a 11. cikkre, a 12. cikk 1. bekezdésére, a 13. cikkre, a 14. cikkre, a 15. cikkre, a 16. cikkre, a 17. cikkre, a 20. cikkre, a 21. cikkre és a 22. cikkre terjed ki.
+(2) Az Egyezmény III. rész A. cikke 1. bekezdésének b) és c) albekezdésével összhangban az Egyezmény II. részének kötelező alkalmazása Magyarország vonatkozásában az 1. cikkre, a 2. cikkre, a 3. cikkre, az 5. cikkre, a 6. cikkre, a 7. cikk 1. bekezdésére, a 8. cikkre, a 9. cikkre, a 10. cikkre, a 11. cikkre, a 12. cikk 1. bekezdésére, a 13. cikkre, a 14. cikkre, a 15. cikkre, a 16. cikkre, a 17. cikkre, a 20. cikkre, a 21. cikkre és a 22. cikkre terjed ki.
 
 2. § Az Országgyűlés az Egyezményt e törvénnyel kihirdeti.
 

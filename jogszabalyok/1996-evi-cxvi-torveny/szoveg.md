@@ -66,7 +66,7 @@ a következő törvényt alkotja:
 
 ### Alapelvek
 
-3. § A Magyar Köztársaság az atomenergia békés célú, biztonságos alkalmazását nemzetközi szerződések keretében vállalt együttműködéssel is elősegíti.
+3. § Magyarország az atomenergia békés célú, biztonságos alkalmazását nemzetközi szerződések keretében vállalt együttműködéssel is elősegíti.
 
 4. § (1) Atomenergiát csak oly módon szabad alkalmazni, hogy az ne károsítsa a társadalmilag elfogadható – más gazdasági tevékenységek során is szükségszerűen vállalt – kockázati szinten felül az emberi életet, a jelenlegi és a jövő nemzedékek egészségét, életfeltételeit, a környezetet és az anyagi javakat.
 
@@ -221,7 +221,7 @@ a törvényben előírt tájékoztatási kötelezettségének ott meghatározott
   - bi) egyes közegészség elleni bűncselekmények: 1. környezetkárosítás, [Btk. 280. § (1) és (2) bekezdés], 2. természetkárosítás [Btk. 281. § (1)–(3) bekezdés], 3. veszélyes hulladékra elkövetett, a hulladékgazdálkodás rendjének megsértése [Btk. 281/A. § (2) bekezdés], 4. visszaélés kábítószerrel (Btk. 282–282/C. §), 5. visszaélés kábítószer-prekurzorral (Btk. 283/A. §),
   - bj) egyes gazdálkodási kötelességeket és a gazdálkodás rendjét sértő bűncselekmények: 1. számítástechnikai rendszer és adatok elleni bűncselekmény (Btk. 300/C. §), 2. számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása (Btk. 300/E. §),
   - bk) egyes pénz- és bélyeghamisítás bűncselekmények: 1. pénzmosás (Btk. 303. §), 2. pénzhamisítás (Btk. 304. §), 3. pénzhamisítás elősegítése (Btk. 304/A. §),
-  - bl) csempészet (Btk. 312. §),
+  - bl) költségvetési csalás (Btk. 310. §), a 2011. december 31-ig hatályban volt csempészet,
   - bm) egyes vagyon elleni bűncselekmények: 1. lopás (Btk. 316. §), 2. sikkasztás (Btk. 317. §), 3. csalás (Btk. 318. §), 4. hűtlen kezelés (Btk. 319.§), 5. hanyag kezelés (Btk. 320. §), 6. rablás (Btk. 321. §), 7. kifosztás (Btk. 322. §), 8. zsarolás (Btk. 323. §), 9. rongálás (Btk. 324. §), 10. orgazdaság (Btk. 326.§), 11. jármű önkényes elvétele (Btk. 327. §),
 
 vagy bűnszervezet keretében elkövetett bűntett miatt a bíróság elítélt, és a (4) bekezdésben meghatározott időtartam még nem telt el;
@@ -383,8 +383,8 @@ vagy bűnszervezet keretében elkövetett bűntett miatt a bíróság elítélt,
 - 13. a radioaktív anyagok szállításának engedélyezése a veszélyes áruk szállításáról szóló jogszabályok rendelkezései szerint;
 - 14. a radioaktív anyagok csomagolásának – a veszélyes áruk szállításáról szóló jogszabályok és nemzetközi egyezmények rendelkezései szerint – jóváhagyása és ellenőrzése;
 - 15. a nukleáris és a nukleáris kettős felhasználású termékek exportjának és importjának engedélyezése;
-- 16. radioaktív hulladékok és kiégett fűtőelemek a Magyar Köztársaság országhatárán át történő szállításának engedélyezése, és a szállítás engedélyezéséhez való hozzájárulás;
-- 17. radioaktív anyagoknak a Magyar Köztársaság és az Európai Unió tagállamai, továbbá a Magyar Köztársaság és harmadik országok közötti szállításához való hozzájárulás, illetve engedélyezés;
+- 16. radioaktív hulladékok és kiégett fűtőelemek az országhatáron át történő szállításának engedélyezése, és a szállítás engedélyezéséhez való hozzájárulás;
+- 17. radioaktív anyagoknak Magyarország és az Európai Unió tagállamai, továbbá Magyarország és harmadik országok közötti szállításához való hozzájárulás, illetve engedélyezés;
 - 18. az atomenergia alkalmazása körében a fizikai védelmi rendszer – fizikai védelmi terv alapján történő – engedélyezése és ellenőrzése;
 - 19. az atomkár-felelősségre vonatkozó biztosítási vagy más pénzügyi fedezet meglétének nyilvántartása és ellenőrzése;
 - 20. a nukleáris anyagok – nemzetközi szerződésekben rögzített előírásokkal összhangban lévő – központi nyilvántartása és ellenőrzése;
@@ -743,7 +743,7 @@ kezeli.
 
 59. § Nem jogosult az e törvény szerinti kártérítésre az, akinek ugyanazért az atomkárért bármilyen más jogcímen teljes kárát megtérítették.
 
-60. § (1) E törvénynek az atomenergia alkalmazásával kapcsolatos felelősségi és kártérítési szabályait kell alkalmazni azokban az esetekben, amikor a Magyar Köztársaság területén működő valamely nukleáris létesítménnyel kapcsolatos nukleáris baleset következtében az atomkár a Magyar Köztársaság területén vagy olyan bármely más állam területén, illetve egyéb térségekben keletkezik, amelyek tekintetében kártérítésre az engedélyes nemzetközi szerződés alapján köteles.
+60. § (1) E törvénynek az atomenergia alkalmazásával kapcsolatos felelősségi és kártérítési szabályait kell alkalmazni azokban az esetekben, amikor a Magyarország területén működő valamely nukleáris létesítménnyel kapcsolatos nukleáris baleset következtében az atomkár Magyarország területén vagy olyan bármely más állam területén, illetve egyéb térségekben keletkezik, amelyek tekintetében kártérítésre az engedélyes nemzetközi szerződés alapján köteles.
 
 (2) E törvény nem zárja ki, hogy az (1) bekezdésben említetteken kívül, a viszonosság alapján egyéb esetekben is e törvény rendelkezéseinek alkalmazására kerüljön sor.
 
@@ -779,9 +779,9 @@ kezeli.
 
 ### Vegyes és hatályba léptető rendelkezések
 
-65. § (1) Az e törvény alapján indított kártérítési igények elbírálása a Fővárosi Bíróság kizárólagos illetékességébe tartozik.
+65. § (1) Az e törvény alapján indított kártérítési igények elbírálása a Fővárosi Törvényszék kizárólagos illetékességébe tartozik.
 
-(2) E törvény hatálya nem érinti az atomenergia alkalmazásával kapcsolatos nemzetközi együttműködésre vonatkozó, a Magyar Köztársaság által elfogadott szerződésekből származó jogokat és kötelezettségeket.
+(2) E törvény hatálya nem érinti az atomenergia alkalmazásával kapcsolatos nemzetközi együttműködésre vonatkozó, Magyarország által elfogadott szerződésekből származó jogokat és kötelezettségeket.
 
 (3) Jelen törvény a Tanácsnak a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról szóló 96/29/Euratom irányelvével összeegyeztethető szabályozást tartalmaz.
 

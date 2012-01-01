@@ -11,7 +11,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 - 1. jogi személy: minden szervezet és annak önálló képviseleti joggal rendelkező szervezeti egysége, amelyet jogszabály jogi személyként ismer el, valamint az a szervezet, amely a polgári jogi viszonyok önálló jogalanya lehet, és a tagoktól elkülönülő vagyonnal rendelkezik, ideértve a gazdasági társaságokról szóló törvény szerinti előtársaságokat is,
 - 2. előnyön bármely dolgot, vagyoni értékű jogot, követelést, kedvezményt – függetlenül attól, hogy a számvitelről szóló törvény szerint nyilvántartásba vették-e – is érteni kell, úgyszintén azt is, ha a jogi személy valamely jogszabályból vagy szerződésből eredő kötelezettség vagy az ésszerű gazdálkodás szabályai szerint szükséges ráfordítás alól mentesül.
 
-(2) E törvény nem alkalmazható a magyar állammal, külföldi állammal, az Alkotmányban felsorolt intézményekkel, az Országgyűlés Hivatalával, a Köztársasági Elnök Hivatalával, az Országgyűlési Biztos Hivatalával, illetőleg jogszabály alapján közhatalmi, államigazgatási és önkormányzati igazgatási feladatot ellátó szervekkel, valamint nemzetközi szerződéssel létrehozott nemzetközi szervezetekkel szemben.
+(2) E törvény nem alkalmazható a magyar állammal, külföldi állammal, az Alaptörvényben felsorolt intézményekkel, az Országgyűlés Hivatalával, a Köztársasági Elnök Hivatalával, az Alapvető Jogok Biztosának Hivatalával, illetőleg jogszabály alapján közhatalmi, államigazgatási és önkormányzati igazgatási feladatot ellátó szervekkel, valamint nemzetközi szerződéssel létrehozott nemzetközi szervezetekkel szemben.
 
 ### Az intézkedések alkalmazásának feltételei
 
@@ -308,14 +308,14 @@ kell tartalmaznia.
 
 (3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen felülvizsgálati indítvány benyújtására az ügyész – a jogi személlyel szemben intézkedés alkalmazása érdekében hat hónapon belül – és a jogi személy képviselője jogosult.
 
-(4) A Legfelsőbb Bíróság a megtámadott határozat jogi személyre vonatkozó rendelkezését hatályon kívül helyezi, és a korábban eljárt bíróságot új eljárásra utasítja, ha
+(4) A Kúria a megtámadott határozat jogi személyre vonatkozó rendelkezését hatályon kívül helyezi, és a korábban eljárt bíróságot új eljárásra utasítja, ha
 
 - a) a másodfokú bíróság ügydöntő határozatát az (1) bekezdésben írt jogszabálysértéssel hozta,
 - b) a (2) bekezdés alapján azon vádlott esetében, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, hatályon kívül helyező rendelkezést hozott.
 
-(5) A Legfelsőbb Bíróság maga is hozhat a törvénynek megfelelő határozatot, ha a jogi személlyel szemben alkalmazott intézkedés mellőzésének van helye.
+(5) A Kúria maga is hozhat a törvénynek megfelelő határozatot, ha a jogi személlyel szemben alkalmazott intézkedés mellőzésének van helye.
 
-(6) A (4) bekezdés b) pontja esetén az ítélet jogi személyre vonatkozó rendelkezését nem kell hatályon kívül helyezni, ha a Be. 427. §-ának (1) bekezdése alapján a Legfelsőbb Bíróság maga hoz a törvénynek megfelelő határozatot.
+(6) A (4) bekezdés b) pontja esetén az ítélet jogi személyre vonatkozó rendelkezését nem kell hatályon kívül helyezni, ha a Be. 427. §-ának (1) bekezdése alapján a Kúria maga hoz a törvénynek megfelelő határozatot.
 
 (7) Nincs helye felülvizsgálatnak az (1) bekezdés esetén, ha az ügyben harmadfokú bíróság hozott ügydöntő határozatot.
 

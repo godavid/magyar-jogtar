@@ -34,7 +34,7 @@ A Tisza-völgy árvízi biztonságának a mentesített árterek részleges reakt
 - b) a nemzeti fejlesztési terv operatív programjai és a nemzeti vidékfejlesztési stratégiai tervet megvalósító nemzeti vidékfejlesztési program keretében az Európai Unió támogatási alapjából pályázati úton elnyerhető pénzeszközökből, valamint az európai uniós támogatások hazai társfinanszírozási keretéből; továbbá
 - c) a már megkezdett beruházások esetében a költségvetési támogatásból, a Kormány gondoskodik.
 
-3/A. § Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. § (3) bekezdésében foglaltakra tekintettel a vízgazdálkodásért felelős miniszter kezdeményezésére a vízkárelhárítási célú szükségtározóval érintett területeket – az 5. § (1) és a 24. § (2) bekezdése szerint megállapított miniszteri rendelet alapján – az érintett települési önkormányzatoknak a külön jogszabályban meghatározott településrendezési eszközeikben figyelembe kell venniük, és a miniszteri rendelet hatálybalépésétől számított kilenc hónapon belül a településrendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük.
+3/A. § Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. § (3) bekezdésében foglaltakra tekintettel a vízügyi igazgatási szervek irányításáért felelős miniszter kezdeményezésére a vízkárelhárítási célú szükségtározóval érintett területeket – az 5. § (1) és a 24. § (2) bekezdése szerint megállapított miniszteri rendelet alapján – az érintett települési önkormányzatoknak a külön jogszabályban meghatározott településrendezési eszközeikben figyelembe kell venniük, és a miniszteri rendelet hatálybalépésétől számított kilenc hónapon belül a településrendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük.
 
 4. § A VTT keretében megvalósuló árvízvédelmi célú beavatkozások beruházója a Kormány által rendeletben kijelölt vízügyi igazgatási szerv (a továbbiakban: beruházó), amely szerv a hatósági és az egyéb igazgatási eljárások során jár el.
 
@@ -134,7 +134,7 @@ fenntartás
 
 (3) A minősítés előtt kiadott jogerős és végrehajtható építési engedélyek a minősítés hatálybalépésével hatályukat vesztik, amennyiben a jogszerűen szerzett jogával az engedélyes nem élt (nem kezdte meg az építést).
 
-(4) Az e törvényben meghatározott létesítmények esetében az államháztartásról szóló 1992. évi XXXVIII. törvény 22. §-ának második és harmadik mondatában foglaltakat – figyelemmel a 3. §-ban foglaltakra – nem kell alkalmazni.
+(4)
 
 20. § (1)
 

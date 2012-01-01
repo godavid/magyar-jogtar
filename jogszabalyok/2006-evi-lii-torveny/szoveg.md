@@ -10,7 +10,7 @@ Az Országgyűlés elismeri az állampolgárok önszerveződésének eredmények
 
 2. § (1) A polgárőrség a tevékenységét csak a rendőrséggel kötött írásbeli együttműködési megállapodás alapján kezdheti meg és végezheti.
 
-(2) A polgárőrség tevékenysége során – az (1) bekezdésben meghatározottakon túl – köteles együttműködni a helyi önkormányzatokkal, az állami és önkormányzati szervekkel, a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszervével, a környezet- és természetvédelmi szervekkel, a hivatásos önkormányzati és az önkéntes tűzoltóságokkal, a mezei és természetvédelmi őrszolgálatokkal. Az együttműködés tartalmát a felek írásbeli együttműködési megállapodásban rögzíthetik.
+(2) A polgárőrség tevékenysége során – az (1) bekezdésben meghatározottakon túl – köteles együttműködni a helyi önkormányzatokkal, az állami és önkormányzati szervekkel, a hivatásos katasztrófavédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével, a környezet- és természetvédelmi szervekkel, a hivatásos és az önkormányzati tűzoltóságokkal, a mezei- és természetvédelmi őrszolgálattal, a közterület-felügyelettel, az erdészeti szakszemélyzettel. Az együttműködés tartalmát a felek írásbeli együttműködési megállapodásban rögzíthetik.
 
 (3) Az együttműködés különösen a tevékenységek közös ellátását, a szakmai tevékenység segítését, a kölcsönös tájékoztatást, a tevékenység összehangolását, valamint a képzési programokban való részvétel elősegítését jelenti. A rendőrséggel kötött írásbeli együttműködési megállapodás tartalmazza a közös feladatok ellátásának rendjét, valamint a polgárőrség tevékenysége ellátásáról, annak körülményeiről a rendőrségnek nyújtandó tájékoztatás módját és tartalmát is.
 
@@ -61,7 +61,7 @@ Az Országgyűlés elismeri az állampolgárok önszerveződésének eredmények
 
 4/B. § A polgárőrség a rendőrséggel való együttműködés keretében részt vehet a körözött gépjárművek azonosításában. Az azonosított körözött gépjárművekre vonatkozó információkról a polgárőrség a rendőrséget az azonosítást követően haladéktalanul tájékoztatja.
 
-5. § A polgárőr a tevékenysége során birtokába jutott személyes adatok megismerése és adatkezelése tekintetében a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény rendelkezései szerint köteles eljárni.
+5. § A polgárőr a tevékenysége során birtokába jutott személyes adatok megismerése és adatkezelése tekintetében az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint köteles eljárni.
 
 6. § (1) A polgárőrszervezetek szövetségének tevékenységét a központi költségvetés az éves költségvetési törvényben meghatározottak szerint támogatja, feltéve, hogy a polgárőrség legalább három feladatot ellát a következők közül:
 

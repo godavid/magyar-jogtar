@@ -142,12 +142,6 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 (3) A fizetési rendszer működtetését végző szervezet az MNB által engedélyezett üzletszabályzatát vagy üzletszabályzat módosítását legkésőbb az MNB engedélyének hatálybalépése napján, egységes szerkezetben a honlapján közzéteszi.
 
-(4) Az MNB 4. § (5) bekezdés szerinti feladatkörében eljárva ellátja a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Rendelet) 18. cikke szerinti kollégiumban való részvételből eredő feladatokat.
-
-(5) Az MNB szakhatóságként vesz részt – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdések vonatkozásában – a Rendelet 14. cikk (1) bekezdésében meghatározott, a központi szerződő fél tevékenységi és a 15. cikk (1) bekezdése szerinti a tevékenységi és szolgáltatási körének kiterjesztése, valamint a 35. cikkben meghatározott kiszervezés iránti engedélyezési, a 20. cikkben meghatározott engedély visszavonás iránti eljárásban. Az MNB szakhatóságként vesz részt – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdések vonatkozásában – a Rendelet 21. cikk (1) és (3) bekezdésében meghatározott, a központi szerződő félre vonatkozó éves felülvizsgálati és értékelési eljárásban, továbbá a 41. cikk (2) bekezdése szerinti, a biztosíték követelményekre vonatkozó modellek és paraméterek, valamint a 49. cikk (1) bekezdése szerinti, stresszteszt modellek és paraméterek jóváhagyására irányuló eljárásban. Az MNB szakhatóságként vesz részt továbbá – az elszámolási rendszer hatékony és megbízható működésével kapcsolatos kérdések vonatkozásában – a Rendelet 54. cikk (1) bekezdésében meghatározott, a központi szerződő fél interoperabilitási megállapodásához való hatósági jóváhagyási eljárásban.
-
-20/A. § Az euróátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról szóló 260/2012/EU európai parlamenti és tanácsi rendelet (2012. március 14.) (a továbbiakban: a 260/2012/EU európai parlamenti és tanácsi rendelet) 10. cikke szerinti illetékes hatóságként az MNB látja el a 260/2012/EU európai parlamenti és tanácsi rendelet végrehajtását.
-
 #### 11. Jegybanki információs rendszer
 
 21. § (1) A 4. § (1)–(7) bekezdésében meghatározott feladatai ellátásához – ideértve a monetáris, a fizetési mérleg és a kapcsolódó állományi, az értékpapír, a pénzügyi számla, a pénzügyi stabilitási, a pénzforgalmi, a fizetési rendszer statisztikáinak összeállítását – az MNB jegybanki információs rendszert működtet, amelyhez a jogszabályban meghatározott szervezetek és természetes személyek az MNB elnöke rendeletében előírt – személyes adatnak nem minősülő – információkat kötelesek szolgáltatni.
@@ -171,7 +165,7 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 - a) a kódképzés alapját nem képezik olyan szervezetet vagy természetes személyt azonosító adatok, amelyek kezelésére az MNB jogosult, és
 - b) a kódképzés konkrét, egyedi módszere tartalmaz egyedi, véletlenszerűen megállapított elemet.
 
-(10) Az (5) és (6) bekezdés szerinti információszolgáltatás során az információt szolgáltató szervezet az információszolgáltatás előtt a természetes személy lakcímére vonatkozó adatot úgy módosítja, hogy abból az érintett lakóhelye a járási szintnél pontosabban ne legyen megállapítható.
+(10) Az (5) és (6) bekezdés szerinti információszolgáltatás során az információt szolgáltató szervezet az információszolgáltatás előtt a természetes személy lakcímére vonatkozó adatot úgy módosítja, hogy abból az érintett lakóhelye a kistérségnél pontosabban ne legyen megállapítható.
 
 (11) Az MNB köteles az információk (5) és (6) bekezdés szerinti létrehozásával összefüggésben közvetlenül felmerülő, indokolt költségeket – részletes költségkimutatás alapján – az információt szolgáltató szervezeteknek az információszolgáltatást követően megtéríteni.
 
@@ -188,13 +182,10 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 22. § (1) A jegybanki ellenőrzés
 
 - a) e törvény rendelkezéseinek,
-- b) a Hpt.-nek az MNB engedélyezési hatáskörébe tartozó vagy az MNB felé bejelentési kötelezettség alá eső kiegészítő pénzügyi szolgáltatások végzésének feltételeire vonatkozó rendelkezéseinek,
+- b) a Hpt.-nek az MNB engedélyezési hatáskörébe tartozó kiegészítő pénzügyi szolgáltatások végzésének feltételeire vonatkozó rendelkezéseinek,
 - c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvénynek az MNB felügyeleti hatáskörébe tartozó kiegészítő pénzügyi szolgáltatást végző szolgáltatókra vonatkozó rendelkezéseinek,
 - d) a jegybanki információs rendszerhez információszolgáltatást előíró jogszabály rendelkezéseinek és
-- e) az MNB elnöke rendeleteinek,
-- f) a 260/2012/EU európai parlamenti és tanácsi rendeletnek
-
-a megtartására, az MNB hatósági határozataiban, szakhatósági állásfoglalásaiban foglaltak végrehajtására, valamint a Tpt. és a Hpt. alapján kiszervezett tevékenységet végzők ellenőrzésére terjed ki.
+- e) az MNB elnöke rendeleteinek a megtartására, az MNB hatósági határozataiban, szakhatósági állásfoglalásaiban foglaltak végrehajtására, valamint a Tpt. és a Hpt. alapján kiszervezett tevékenységet végzők ellenőrzésére terjed ki.
 
 (2) A jegybanki ellenőrzés a jogszabályban meghatározottak szerinti adatszolgáltatásból származó adatok ellenőrzését, valamint az MNB által lefolytatott hatósági ellenőrzési eljárást foglalja magába. A jegybanki ellenőrzés keretében az MNB jogosult adatok, beszámolók, mérlegek, bizonylatok és vizsgálati anyagok bekérésére. Az adatszolgáltatásból származó adatokat az MNB folyamatosan ellenőrzi, az ellenőrzésről az ügyfelet nem értesíti.
 
@@ -250,7 +241,7 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 
 (5) Az MNB döntését részben vagy egészben a honlapján vagy egyéb módon közzéteheti.
 
-(6) Az MNB döntése ellen fellebbezésnek nincs helye. Az ügyfél az MNB határozatának és önálló jogorvoslattal megtámadható végzésének bírósági felülvizsgálatát kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól azzal, hogy a bíróság a felülvizsgálat iránti keresetet, kérelmet a polgári perrendtartásról szóló törvénynek a közigazgatási perekre vonatkozó szabályai szerint, harminc napon belül bírálja el.
+(6) Az MNB döntése ellen fellebbezésnek nincs helye. Az ügyfél az MNB határozatának és önálló jogorvoslattal megtámadható végzésének bírósági felülvizsgálatát kérheti a Fővárosi Törvényszéktől azzal, hogy a bíróság a felülvizsgálat iránti keresetet, kérelmet a polgári perrendtartásról szóló törvénynek a közigazgatási perekre vonatkozó szabályai szerint, harminc napon belül bírálja el.
 
 (7) Az eljárás felfüggesztését az ügyfél nem kérheti.
 
@@ -260,11 +251,7 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 
 (10) Az MNB az eljárásában a határozat vagy az eljárást megszüntető végzés meghozataláig terjedő időtartamra végzésben megtilthatja a jogsértő magatartás további folytatását, továbbá elrendelheti a jogsértő állapot megszüntetését, ha erre – a 4. § (1)–(7) bekezdésében meghatározott alapvető feladatai ellátása érdekében, a késedelemmel járó jelentős vagy helyrehozhatatlan kár veszélye miatt – halaszthatatlanul szükség van. Az MNB e végzését soron kívül hozza meg.
 
-(10a) Az MNB eljárásában az ügyfél kérelmére nem folytatható le hatósági ellenőrzés.
-
 (11) Olyan kötelezett esetén, amely számára az MNB fizetési számlát vezet, az MNB közvetlen kielégítés útján hajtja be a pénzfizetésre szóló határozatból eredő lejárt tartozást.
-
-(12) A Tpt. szerinti elszámolóházi, központi értéktári, központi szerződő fél tevékenység engedélyezésének eljárásában az MNB szakhatósági közreműködésének ügyintézési határideje 45 nap. A 20. § (5) bekezdése szerinti feladatkörbe tartozó szakhatósági közreműködés ügyintézési határideje 30 nap.
 
 #### 14. Az MNB intézkedései és szankciói
 
@@ -279,10 +266,7 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 - g) kötelezi a 65. § (3) bekezdése alapján kiadott rendeletek alapján a fizetési rendszer működtetését végző, a Tpt. szerinti elszámolóházi tevékenységet, a központi értéktár és a központi szerződő fél tevékenységet folytató szervezetet a kockázatkezelési eljárások, stratégiák, módszerek megerősítésére,
 - h) elrendeli a forgalomban lévő törvényes fizetőeszközről, valamint az MNB által fogalomból bevont, de törvényes fizetőeszközre beváltható bankjegyről és érméről engedély nélkül készített utánzatok megsemmisítését,
 - i) bírságot szab ki,
-- j) megtiltja a forgatható utalványok további kibocsátását,
-- k) elrendeli a kibocsátott forgatható utalványok forgalomból való kivonását,
-- l) elrendeli a forgatható utalványok megsemmisítését,
-- m) egyéb, törvényben előírt intézkedéseket alkalmaz.
+- j) egyéb, törvényben előírt intézkedéseket alkalmaz.
 
 (2) Az intézkedéseket az MNB együttesen és ismételten is alkalmazhatja.
 
@@ -302,7 +286,7 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 
 (6) Az (5) bekezdésben meghatározott határidőkön belül intézkedés akkor is alkalmazható, ha az intézkedéssel érintett természetes személy az intézkedés alkalmazásakor már nem áll az ellenőrzött szervezet vagy személy alkalmazásában, megbízatása megszűnt vagy az ellenőrzött tevékenységet már nem végzi.
 
-(7) Ha az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe, vagy az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény Magyarországon végzett határon átnyúló szolgáltatása megsérti a 22. § (1) bekezdésében meghatározott jogszabályokban vagy az MNB hatósági határozatában foglalt előírásokat, az MNB felszólítja a fióktelepet, a pénzügyi intézményt, a pénzforgalmi intézményt, az elektronikuspénz-kibocsátó intézményt a szabályellenes helyzet megszüntetésére. Ha a fióktelep, a pénzügyi intézmény, a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény a felszólításnak nem tesz eleget, az MNB értesíti a Felügyeletet. A Felügyelet az MNB értesítése szerint vagy értesíti az Európai Unió másik tagállamának felügyeleti hatóságát a szabályellenes helyzetről, vagy kezdeményezi, hogy a felügyeleti hatóság tegye meg a megfelelő intézkedést.
+(7) Ha az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe, vagy az Európai Unió másik tagállamában engedéllyel rendelkező pénzügyi intézmény Magyarországon végzett határon átnyúló szolgáltatása megsérti a 22. § (1) bekezdésében meghatározott jogszabályokban vagy az MNB hatósági határozatában foglalt előírásokat, az MNB felszólítja a fióktelepet, a pénzügyi intézményt a szabályellenes helyzet megszüntetésére. Ha a fióktelep vagy a pénzügyi intézmény a felszólításnak nem tesz eleget, az MNB értesíti a Felügyeletet. A Felügyelet az MNB értesítése szerint vagy értesíti az Európai Unió másik tagállamának felügyeleti hatóságát a szabályellenes helyzetről, vagy kezdeményezi, hogy a felügyeleti hatóság tegye meg a megfelelő intézkedést.
 
 (8) A bírságot a kiszabásáról hozott határozat jogerőre emelkedésétől számított harminc napon belül kell a határozatban megjelölt számlára befizetni.
 
@@ -375,7 +359,9 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 
 33. § A miniszter a költségvetés Kormány által történő elfogadását követően az MNB-t haladéktalanul tájékoztatja a központi költségvetésről szóló törvény tervezetéről (a továbbiakban: tervezet). Az MNB jogosult a tervezettel kapcsolatos véleményét közvetlenül megküldeni a miniszternek. Ezt a véleményt a Költségvetési Tanács ülésén az MNB elnöke jeleníti meg. Az így megjelenített vélemény azonban nem köti az MNB elnökét a Költségvetési Tanács tagjaként biztosított jogainak szabad gyakorlásában.
 
-34. §
+34. § (1) Az MNB megküldi a Kormánynak a Monetáris Tanács napirendjét.
+
+(2) A Monetáris Tanács ülésein a Kormányt szavazati jog nélkül a miniszter vagy az általa felhatalmazott személy képviseli.
 
 35. § A Kormány ülésének az MNB feladatkörét érintő napirendi pontjához az MNB elnökét meg kell hívni.
 
@@ -386,8 +372,6 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 (3) Az MNB elnöke az MNB működésének irányításával összefüggő, a működés szempontjából kiemelten fontos, az igazgatóság 49. § szerinti jogkörében meghozott döntésekről a döntés meghozatalát követően tájékoztatja a minisztert. Az MNB köteles az általa végrehajtott devizaműveletekről, valamint az arany- és devizatartalékokról a minisztert hetente tájékoztatni. A miniszter és az MNB elnöke évente írásban megállapodnak az MNB által szolgáltatandó további információk köréről.
 
 (4) A Kormány felkérése alapján az MNB elláthatja a nemzetközi pénzügyi szervezetekben a Kormányra háruló feladatokat, amennyiben erről törvény eltérően nem rendelkezik.
-
-(5) A deviza- és aranytartalék mértékére, összetételére, a tartalékkezelés során kötött egyedi ügyletekre vonatkozó adatok, a tartalékkezeléssel összefüggő döntések és belső szabályok – amennyiben azok nem minősített adatok – az MNB általi nyilvánosságra hozatalukig, de legfeljebb az adat keletkezésétől számított 10 évig nem nyilvánosak. Az adatok ezen határidőn belüli nyilvánosságra hozataláról az MNB elnöke dönt.
 
 37. § A Kormány, a központi államigazgatási szervek, illetve a Felügyelet az MNB kérésére tevékenységükkel kapcsolatban információt nyújtanak.
 
@@ -445,18 +429,20 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 
 #### 22. A Monetáris Tanács
 
-46. § (1) Az e §-ban meghatározott feladatok tekintetében az MNB legfőbb döntéshozó szerve a Monetáris Tanács. A Monetáris Tanács hatáskörébe tartozik:
+46. § (1) Az MNB legfőbb döntéshozó szerve a Monetáris Tanács. A Monetáris Tanács hatáskörébe tartozik:
 
-- a) a 4. § (1)–(7) bekezdésében meghatározott feladatokkal kapcsolatos stratégiai döntés,
+- a) a 4. §-ban meghatározott feladatokkal kapcsolatos döntés,
 - b) az a) pontban foglalt hatáskör körében a 9. § (1) bekezdése szerinti döntés,
-- c) az a) pontban foglalt hatáskör körében a 10. § (2) bekezdésében meghatározott feladatokkal kapcsolatos döntés,
-- d) az a) pontban foglalt hatáskör körében a 11–13. §-ban meghatározott feladatokkal kapcsolatos döntés,
-- e) a Monetáris Tanács ügyrendjének megállapítása, továbbá
-- f) döntés minden olyan további kérdésben, amit törvény a Monetáris Tanács kizárólagos hatáskörébe utal.
+- c) az a) pontban foglalt hatáskör körében a 10. § (2) bekezdésben meghatározott feladatokkal kapcsolatos döntés,
+- d) az a) pontban foglalt hatáskör körében a 11-13. §-okban meghatározott feladatokkal kapcsolatos döntés,
+- e) az MNB elnöke javaslata alapján az alelnökök hatásköréről történő döntés,
+- f) a Monetáris Tanács hatáskörébe tartozó feladatokkal kapcsolatos kommunikáció módjáról történő döntés,
+- g) az a)–d) pontokban meghatározott feladatokkal kapcsolatos azon döntések végrehajtása, amelyeket a vonatkozó döntésben a Monetáris Tanács saját hatáskörében tart,
+- h) döntés minden olyan további kérdésben, amit törvény, az alapító okirat vagy a belső eljárási szabályzat a Monetáris Tanács kizárólagos hatáskörébe utal.
 
 (2) A Monetáris Tanács szükség esetén bármikor összehívható, de havonta legalább egy alkalommal ülésezik.
 
-(3) A Monetáris Tanács legalább öt-, legfeljebb kilenctagú testület. A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjai számának összege nem érheti el a (4) bekezdés c) pontja szerinti tagjainak számát, és a (4) bekezdés c) pontja szerinti tagok száma nem érheti el a (4) bekezdés a) és b) pontja szerinti tagok száma összegének kétszeresét. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.
+(3) A Monetáris Tanács legalább öt-, legfeljebb kilenctagú testület. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.
 
 (4) A Monetáris Tanács tagjai:
 
@@ -479,13 +465,13 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 
 (9) A lemondást írásban kell közölni a (4) bekezdés a) és b) pontja szerinti tagnak a köztársasági elnökkel, a (4) bekezdés c) pontja szerinti tagnak az Országgyűlés elnökével. A Monetáris Tanács tagjának megbízatása lemondása esetén a lemondó nyilatkozatban megjelölt, a lemondó nyilatkozat megtételét követő időpontban, ennek hiányában a (4) bekezdés a) és b) pontja szerinti tagnak a lemondó nyilatkozat köztársasági elnök általi, a (4) bekezdés c) pont szerinti tagnak az Országgyűlés elnöke általi kézhezvételével szűnik meg. A Monetáris Tanács tagja lemondásának érvényességéhez elfogadó nyilatkozat nem szükséges.
 
-(10) A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjait a köztársasági elnök, (4) bekezdés c) pontja szerinti tagjait az Országgyűlés kizárólag az Alapokmány 14.2. cikkében meghatározott okokból mentheti fel.
+(10) A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjait a köztársasági elnök, (4) bekezdés c) pontja szerinti tagjait az Országgyűlés kizárólag abban az esetben mentheti fel, ha a Monetáris Tanács tagja nem felel meg a feladatai ellátásához szükséges feltételeknek, illetve súlyos kötelezettségszegést követ el.
 
 (11) A (4) bekezdés c) pontja szerinti tagok választására és felmentésére az Országgyűlés gazdasági ügyekért felelős állandó bizottsága tesz javaslatot az Országgyűlés számára.
 
-(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
+(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a Munka Törvénykönyve (a továbbiakban: Mt.) szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Alapokmány 14.2. cikkében meghatározott bírósághoz fordulás jogát.
 
-(13) A (11) bekezdés szerinti felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság az Alapokmány 14.2. cikkében meghatározott felmentési feltételek fennállását megállapító döntésének jogerőre emelkedését követően terjeszthető a (4) bekezdés b) pontja szerinti tagok esetében a köztársasági elnök, a (4) bekezdés c) pontja szerinti tagok esetében az Országgyűlés elé.
+(13) A (11) bekezdés szerinti felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a (4) bekezdés b) pontja szerinti tagok esetében a köztársasági elnök, a (4) bekezdés c) pontja szerinti tagok esetében az Országgyűlés elé.
 
 (14) A Monetáris Tanács évente az első ülésen a jelenlevők egyszerű szótöbbségével az MNB alelnökei közül megválasztja a Monetáris Tanács elnökhelyettesét. Az elnökhelyettes megbízatásának megszűnése esetén a Monetáris Tanács a soron következő ülésén új elnökhelyettest választ.
 
@@ -493,7 +479,7 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 
 (16) A Monetáris Tanács álláspontját a Monetáris Tanács elnöke vagy – akadályoztatása esetén – elnökhelyettese jogosult nyilvánosságra hozni.
 
-(17)
+(17) Az Európai Unió működéséről szóló szerződés 140. cikke szerinti eltérés a Tanács döntésével történő megszüntetése hatálybalépésének napján a Monetáris Tanács megszűnik, tagjainak a Monetáris Tanácsban betöltött megbízatása e nappal lejár.
 
 #### 23. Az MNB elnöke
 
@@ -505,9 +491,9 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 
 (4) Az MNB elnökét a 46. § (10) bekezdésben foglaltaknak megfelelően, a miniszterelnök javaslatára a köztársasági elnök menti fel.
 
-(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint közigazgatási és munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
+(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Alapokmány 14.2. cikkében meghatározott bírósághoz fordulás jogát.
 
-(6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság az Alapokmány 14.2. cikkében meghatározott felmentési feltételek fennállását megállapító döntésének jogerőre emelkedését követően terjeszthető a köztársasági elnök elé.
+(6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a köztársasági elnök elé.
 
 (7) A köztársasági elnöknek az MNB elnökének kinevezésére és felmentésére vonatkozó döntéséhez a miniszterelnök ellenjegyzése szükséges.
 
@@ -595,9 +581,7 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 
 52. § Az MNB alkalmazottai és felügyelőbizottsági tagjai kötelesek a feladatkörük ellátása során tudomásukra jutott minősített adatot, banktitkot, értékpapírtitkot, fizetési titkot és üzleti titkot megőrizni. Ez a kötelezettség a megbízatás megszűnését követően is fennmarad.
 
-53. § (1) Az MNB alkalmazottaira – e törvényben szabályozott kivételekkel – az Mt. rendelkezéseit kell alkalmazni.
-
-(2) Az Mt. 204. § (3) bekezdése, 205. §-a és 207. §-a az MNB-re, illetve alkalmazottaira nem alkalmazandó.
+53. § Az MNB alkalmazottaira – e törvényben szabályozott kivételekkel – az Mt. rendelkezéseit kell alkalmazni.
 
 #### 29. Összeférhetetlenség
 
@@ -765,7 +749,7 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
   - bc) az elszámolás és a teljesítés rendjét,
   - bd) a kockázatok kezelésének szabályait,
   - be) a kötelező biztosíték képzésének, felhasználásának szabályait,
-  - bf)
+  - bf) a tőzsdei ügylet elszámolásához kapcsolódó kötelezettségvállalás szabályait,
   - bg) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait és
   - bh) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit;
 - c) a központi értéktár esetében
@@ -776,12 +760,11 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 - d) a központi szerződő fél tevékenységet végző szervezet esetében
   - da) az ügyfelekkel való jogviszony keletkezésére, megszűnésére vonatkozó szabályokat,
   - db) az ügyfelekkel szemben meghatározandó pénzügyi és technikai feltételeket,
-  - dc) a központi szerződő fél által garantált ügyletek teljesítéséhez kapcsolódó kötelezettségvállalás szabályait,
+  - dc) a tőzsdei ügylet teljesítéséhez kapcsolódó kötelezettségvállalás szabályait,
   - dd) a kockázatok kezelésének szabályait,
   - de) a kötelező biztosítékok képzésének, felhasználásának szabályait,
   - df) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait és
-  - dg) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit,
-  - dh) az elszámolás és teljesítés rendjét.
+  - dg) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit.
 
 (4) Az MNB elnökének rendelete esetében az igazságügyért felelős miniszter véleményét nem kell kikérni.
 
@@ -807,16 +790,73 @@ a megtartására, az MNB hatósági határozataiban, szakhatósági állásfogla
 
 68. § E törvény 1–9. §-a, 11. §-a, 12. § (1) és (3) bekezdése, 19–21. §-a, 27. § (1), (2) és (10) bekezdése, 28. § (1), (2), (4) és (5) bekezdése, 30. §-a, 42–50. §-a és 67. §-a az Alaptörvény 41. cikk (1), (4) és (5) bekezdése alapján sarkalatosnak minősül.
 
-#### 37. Az Európai Unió jogának való megfelelés
+#### 37. Módosító rendelkezések
 
-69. § (1) E törvény a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+69. § A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 1. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-(2) E törvény az euróátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról szóló 260/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+„(3) A Magyar Nemzeti Bank által az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság részére vezetett pénzforgalmi számla tekintetében e törvénynek kizárólag a hatósági átutalás és az átutalási végzés alapján történő átutalás lebonyolítására vonatkozó szabályait kell alkalmazni.”
 
-70–76. §
+70. § (1) A pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény 2. § (2) bekezdés 11. pontja helyébe a következő rendelkezés lép:
+
+(E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban)
+
+„11. MNB rendkívüli likviditási hitele: az MNB tv. 12. § (4) bekezdése szerinti – a 7. §-ban meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel.”
+
+(2) A pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény mellékletének 6. pontja helyébe a következő rendelkezés lép:
+
+„6. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,”
+
+71. § (1) Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény 2. § a) pont 7. alpontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában közszolgálatban álló személy)
+
+„7. a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja (a továbbiakban: a Magyar Nemzeti Bank alkalmazottai);”
+
+(2) Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény 7. §-a helyébe a következő rendelkezés lép:
+
+„7. § A vagyonnyilatkozat őrzéséért
+
+a) közszolgálatban álló személy, valamint a 3. § (3) bekezdés e) pontja szerinti kötelezett esetében a munkáltatói jogkör gyakorlója, közjegyző esetében a területi közjegyzői kamara elnöksége,
+
+b) a 3. § (3) bekezdés a)–c) pontja szerinti kötelezett esetében a gazdálkodó szervezet tekintetében a tulajdonosi jogokat az állam nevében gyakorló személy vagy szervezet,
+
+c) a 3. § (3) bekezdés d) pontja szerinti kötelezettek esetében az állami támogatási előirányzat kezelője – helyi önkormányzat esetében a jegyző, közalapítvány esetében az alapítói jogokat gyakorló szerv, területfejlesztési tanács esetében annak hivatali szervezete –, vagy ha e szerv nem azonos az állami pénzalap, illetve az állami támogatási előirányzat felhasználásának szakmai lebonyolításáért felelős szervvel, akkor ez utóbbi,
+
+d) a Magyar Nemzeti alkalmazottai vonatkozásában a Magyar Nemzeti Bank elnöke
+
+felelős (a továbbiakban együtt: őrzésért felelős).”
+
+72. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 1. melléklet 14. pontja helyébe a következő rendelkezés lép:
+
+„14. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,”
+
+73. § A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 34. § (2) bekezdés helyébe a következő rendelkezés lép:
+
+„(2) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Psztv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Magyar Nemzeti Bankról szóló törvény rendelkezései szerint jár el.”
+
+74. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 15. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Amennyiben az igazgatóság tagja, vagy a vezérigazgató a megválasztása, illetve munkaviszonya létesítését megelőző 6 hónapon belül a Magyar Nemzeti Bank felügyelőbizottságának tagja volt, úgy rá a Magyar Nemzeti Bankról szóló törvény 55. § (8) bekezdésében hivatkozott 55. § (7) bekezdésében foglaltakat nem kell alkalmazni.”
+
+75. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 110. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Az Alap igazgatótanácsának tagjai:)
+
+„b) az MNB-nek az MNB elnöke által kijelölt alelnöke,”
+
+76. § A Hpt. 48. § a) pontjában a „Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény (a továbbiakban: MNB tv.)” szövegrész helyébe a „Magyar Nemzeti Bankról szóló törvény (a továbbiakban: MNB tv.)” szöveg lép.
 
 77. §
 
 #### 38. Hatályon kívül helyező rendelkezések
 
-78. §
+78. § (1) Hatályát veszti
+
+- a) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény,
+- b) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény módosításáról szóló 2004. évi XXXI. törvény,
+- c) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény módosításáról szóló 2004. évi CXXVI. törvény.
+
+(2) Hatályát veszti
+
+- a) a tőkepiacról szóló 2001. évi CXX. törvény 1. számú melléklet 14. pontja,
+- b) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 65. § (4) bekezdése.

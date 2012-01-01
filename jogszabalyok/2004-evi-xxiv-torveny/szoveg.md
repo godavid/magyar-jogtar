@@ -6,7 +6,7 @@ a lőfegyverekről és lőszerekről
 
 1. § (1)
 
-(2) E törvény hatálya nem terjed ki a Magyar Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, a Magyar Köztársaság területén állomásozó fegyveres szervek, a fegyveres biztonsági őrség lőfegyvereinek és lőszereinek megszerzésére és tartására.
+(2) E törvény hatálya nem terjed ki a Magyar Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, a Magyarország területén állomásozó fegyveres szervek, a fegyveres biztonsági őrség lőfegyvereinek és lőszereinek megszerzésére és tartására.
 
 2. § E törvény alkalmazásában:
 
@@ -200,7 +200,7 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 
 (2) Az 5. § (2) bekezdés b) és d) pontjában meghatározott adatok – a lőfegyver műszaki érvényességének időtartama kivételével – a vadászjegy vagy a vadászati engedély visszavonására irányuló eljárás lefolytatása céljából a vadászati hatóság részére továbbíthatók.
 
-(3) A lőfegyverek központi nyilvántartásából a Nemzetközi Bűnügyi Együttműködési Központ, illetőleg a Magyar Köztársaságnak nemzetközi szerződésben adattovábbításra feljogosított más szerve az (1) bekezdés c) pontjában felsoroltak részére adatszolgáltatás teljesítése céljából az adatok átvételére és továbbítására jogosult.
+(3) A lőfegyverek központi nyilvántartásából a Nemzetközi Bűnügyi Együttműködési Központ, illetve Magyarország nemzetközi szerződésben adattovábbításra feljogosított más szerve az (1) bekezdés c) pontjában felsoroltak részére adatszolgáltatás teljesítése céljából az adatok átvételére és továbbítására jogosult.
 
 (4) A lőfegyvereknek más tagállam területére történő átvitele esetén a rendeltetési hely, illetőleg a tranzitország részére történő adatszolgáltatást – a kérelmező által az 5. § (2) bekezdésének b) pontjára, a szállítandó lőfegyverekre, lőfegyver-kereskedők közötti szállítás kivételével a szállítóeszközre, valamint az indulás és érkezés várható időpontjára vonatkozó bejelentési kötelezettség teljesítése alapján – a rendőrség központi szerve végzi.
 
@@ -279,7 +279,7 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 - e) a gyermekjátékszerek biztonsági követelményeiről, vizsgálatáról és tanúsításáról szóló jogszabályban meghatározott, kifejezetten játékokhoz szánt gyújtólapocskák,
 - f) a repülésben, illetve az űrrepülésben való felhasználásra szánt pirotechnikai termék.
 
-(4) Nem kell engedély a Magyar Honvédség, a rendvédelmi szervek, továbbá a Magyar Köztársaság területén állomásozó fegyveres szervek által nem kereskedelmi jellegű felhasználásra szánt polgári célú pirotechnikai termék gyártásához, forgalomba hozatalához, vizsgálatához, forgalmazásához, tárolásához, kiállításához, felhasználásához, birtokolásához, valamint megsemmisítéséhez.
+(4) Nem kell engedély a Magyar Honvédség, a rendvédelmi szervek, továbbá a Magyarország területén állomásozó fegyveres szervek által nem kereskedelmi jellegű felhasználásra szánt polgári célú pirotechnikai termék gyártásához, forgalomba hozatalához, vizsgálatához, forgalmazásához, tárolásához, kiállításához, felhasználásához, birtokolásához, valamint megsemmisítéséhez.
 
 (5) A rendőrség a polgári célú pirotechnikai termék vizsgálatához, megsemmisítéséhez, forgalmazásához, tárolásához, illetve kiállításához szükséges engedéllyel rendelkezőkről – ha a tevékenységet az engedéllyel rendelkező a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint végzi – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint nyilvántartást vezet.
 
@@ -337,7 +337,7 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 - a) engedély hiányában folytatja,
 - b) engedéllyel nem rendelkező vállalkozással vagy a biztonsági követelményeknek nem megfelelő pirotechnikussal, vagy pirotechnikusi végzettséggel nem rendelkező személlyel végezteti.
 
-(4) A felügyeleti bírság összege a rendőrséget illeti meg.
+(4)
 
 (5) Ha a vállalkozással szemben mind a felügyeleti bírság, mind a szabálysértésekről szóló törvény szerint minősülő polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértés miatti bírság kiszabásának feltételei fennállnak, kizárólag a felügyeleti bírság megállapítására irányuló eljárásnak van helye.
 

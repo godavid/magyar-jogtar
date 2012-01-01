@@ -8,14 +8,14 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 ### A törvény hatálya
 
-1. § (1) A törvény hatálya a Magyar Köztársaság területén, illetőleg légterében (belföldön) bekövetkezett közlekedési baleset és egyéb közlekedési esemény szakmai vizsgálatára terjed ki.
+1. § (1) A törvény hatálya a Magyarország területén, illetőleg légterében (belföldön) bekövetkezett közlekedési baleset és egyéb közlekedési esemény szakmai vizsgálatára terjed ki.
 
-(2) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, e törvény rendelkezéseit kell alkalmazni a Magyar Köztársaság területén, légterén kívül (külföldön) magyar lajstromba vett légijárművel és úszólétesítménnyel, valamint magyar nyilvántartásba vett légijárművel és vasúti járművel bekövetkezett közlekedési baleset és egyéb közlekedési esemény vizsgálatára is.
+(2) Amennyiben nemzetközi szerződés eltérően nem rendelkezik, e törvény rendelkezéseit kell alkalmazni a Magyarország területén, légterén kívül (külföldön) magyar lajstromba vett légijárművel és úszólétesítménnyel, valamint magyar nyilvántartásba vett légijárművel és vasúti járművel bekövetkezett közlekedési baleset és egyéb közlekedési esemény vizsgálatára is.
 
 (3) Nem terjed ki a törvény hatálya
 
 - a)
-- b) a kizárólag a honvédség és a rendvédelmi szervek úszólétesítményeivel való közlekedés során bekövetkezett közlekedési balesetek és egyéb közlekedési események szakmai vizsgálatára.
+- b) a kizárólag a honvédség, a rendvédelmi szervek, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett közlekedési balesetek és egyéb közlekedési események szakmai vizsgálatára.
 
 1/A. § (1) Az e törvény 3. § (4) bekezdésében, 7. § (3) és (4) bekezdésében, 14. §-ában, valamint 16. § (7) bekezdésében foglaltakat a kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, repülőeseménnyel és légiközlekedési rendellenességgel összefüggésben nem kell alkalmazni.
 
@@ -223,7 +223,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 (5a) A bejelentőt – bejelentése miatt – munkáltatója részéről nem érheti hátrány.
 
-(6) A baleseti ügyeleti szolgálat a bejelentéseket telefonon, elektronikus úton, valamint levélben fogadja a közlekedésbiztonsági szerv honlapján és a Magyar Köztársaság Légiforgalmi Tájékoztató Kiadványában (AIP) közzétett címen és telefonszámon. A közlekedésbiztonsági szerv nyilvántartásba veszi a bejelentést, és a baleseti ügyeleti szolgálat segítségével haladéktalanul megteszi a vizsgálat megkezdéséhez szükséges intézkedéseket. Amennyiben a bejelentés nem az üzemben tartótól származik, a közlekedésbiztonsági szerv az üzemben tartót haladéktalanul értesíti. Légiközlekedési balesetek, súlyos repülőesemények és repülőesemények esetében a közlekedésbiztonsági szerv haladéktalanul értesíti a légiközlekedési hatóságot.
+(6) A baleseti ügyeleti szolgálat a bejelentéseket telefonon, elektronikus úton, valamint levélben fogadja a közlekedésbiztonsági szerv honlapján és Magyarország Légiforgalmi Tájékoztató Kiadványában (AIP) közzétett címen és telefonszámon. A közlekedésbiztonsági szerv nyilvántartásba veszi a bejelentést, és a baleseti ügyeleti szolgálat segítségével haladéktalanul megteszi a vizsgálat megkezdéséhez szükséges intézkedéseket. Amennyiben a bejelentés nem az üzemben tartótól származik, a közlekedésbiztonsági szerv az üzemben tartót haladéktalanul értesíti. Légiközlekedési balesetek, súlyos repülőesemények és repülőesemények esetében a közlekedésbiztonsági szerv haladéktalanul értesíti a légiközlekedési hatóságot.
 
 (7) Amennyiben a közlekedési baleset, illetve a vasúti baleset szomszédos állam területét érinti, a közlekedésbiztonsági szerv haladéktalanul értesíti a rendőrség területileg illetékes szervét.
 
@@ -235,7 +235,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 (11) Amennyiben a közlekedési baleset, illetve az egyéb közlekedési esemény katonai szállítmányt érint, a közlekedésbiztonsági szerv vezetője a Magyar Honvédséget értesíti. A szakmai vizsgálatban a Magyar Honvédség képviselője megfigyelőként részt vehet.
 
-(12) A helyszíni szemle vezetőjének jelentése alapján a közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési baleset bejelentésétől számított 24 órán belül tájékoztatást ad a balesetről a honvédelemért felelős miniszter és a Magyar Honvédség vezérkari főnöke, illetve a rendvédelmi szervek érintettsége esetén az illetékes miniszter részére.
+(12) A helyszíni szemle vezetőjének jelentése alapján a közlekedésbiztonsági szerv vezetője az állami légijárművel bekövetkezett légiközlekedési baleset bejelentésétől számított 24 órán belül tájékoztatást ad a balesetről a honvédelemért felelős miniszter és a Magyar Honvédség vezérkari főnöke, illetve a rendvédelmi szervek, valamint a vámhatóság érintettsége esetén az illetékes miniszter részére.
 
 (13) A (11) bekezdés szerinti megfigyelő a vizsgálóbizottsággal, illetve a szakmai kivizsgálóval együtt lehet jelen a vizsgálati cselekményeknél, és gyakorolhatja iratbetekintési jogát, jogosult továbbá arra, hogy indítványozza kérdés feltételét tanúhoz, illetve szakértőhöz, továbbá jogosult nyilatkozatot tenni.
 
@@ -444,7 +444,7 @@ látja el.
 
 (2) A zárójelentés kibocsátása után egy – halálos sérülés esetén három – évvel, de – ha e törvény ettől eltérően nem rendelkezik – legfeljebb a közlekedési baleset vagy egyéb közlekedési esemény bekövetkezése után három évvel a közlekedésbiztonsági szerv köteles – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározottak figyelembevételével – minden, az adott ügyben kezelt személyes és különleges adatot helyreállíthatatlan módon törölni.
 
-(3) A közlekedésbiztonsági szerv által kezelt adatkörben a nyilvántartásokból és az alapjául szolgáló iratokból személyes vagy különleges adat az érintetten kívül nemzetközi kötelezettségvállalás vagy együttműködés alapján, közlekedési baleset vagy egyéb közlekedési esemény külföldi vizsgálatának lefolytatása, vagy az eseménnyel összefüggő nemzetközi szerződés alapján előírt értesítési kötelezettség alapján továbbítható, nem EGT-állam esetén azonban csak akkor, ha a személyes adatok védelméről szóló törvény szerint a harmadik országban a személyes adatok védelme megfelelően biztosított. A közlekedésbiztonsági szerv adatkezelési rendszereiből ezeken kívül más szervezet vagy személy részére adat személyazonosításra alkalmas módon nem továbbítható.
+(3) A közlekedésbiztonsági szerv által kezelt adatkörben a nyilvántartásokból és az alapjául szolgáló iratokból személyes vagy különleges adat az érintetten kívül nemzetközi kötelezettségvállalás vagy együttműködés alapján, közlekedési baleset vagy egyéb közlekedési esemény külföldi vizsgálatának lefolytatása, vagy az eseménnyel összefüggő nemzetközi szerződés alapján előírt értesítési kötelezettség alapján továbbítható, nem EGT-állam esetén azonban csak akkor, ha a harmadik országban a személyes adatok védelme megfelelően biztosított. A közlekedésbiztonsági szerv adatkezelési rendszereiből ezeken kívül más szervezet vagy személy részére adat személyazonosításra alkalmas módon nem továbbítható.
 
 (4) A közlekedésbiztonsági szerv vezetője gondoskodik arról, hogy a személyes adatok védelmének biztosítása érdekében
 
@@ -490,7 +490,7 @@ látja el.
 
 (3) A külföldi kivizsgáló szerv által végzett vizsgálathoz a közlekedésbiztonsági szerv a rendelkezésére álló információkat az e törvényben és egyéb jogszabályokban meghatározott adatvédelmi rendelkezések figyelembevételével továbbítja.
 
-(4) Magyar lajstromba vagy nyilvántartásba vett járművel, illetve a Magyar Köztársaság területén letelepedett üzemeltető, üzemben tartó járművével külföldön bekövetkezett közlekedési balesetek és egyéb közlekedési események külföldi szakmai vizsgálatához a közlekedésbiztonsági szerv által kijelölt meghatalmazott képviselő segítségére a közlekedésbiztonsági szerv, valamint az üzemben tartó, a gyártó és a tervező egy vagy több tanácsadót jelölhet ki. Amennyiben a közlekedésbiztonsági szerv nem jelöl ki meghatalmazott képviselőt, a külföldi vizsgálóbizottság felkérésére az üzemben tartó, a gyártó és a tervező részt vehet a szakmai vizsgálatban.
+(4) Magyar lajstromba vagy nyilvántartásba vett járművel, illetve a Magyarország területén letelepedett üzemeltető, üzemben tartó járművével külföldön bekövetkezett közlekedési balesetek és egyéb közlekedési események külföldi szakmai vizsgálatához a közlekedésbiztonsági szerv által kijelölt meghatalmazott képviselő segítségére a közlekedésbiztonsági szerv, valamint az üzemben tartó, a gyártó és a tervező egy vagy több tanácsadót jelölhet ki. Amennyiben a közlekedésbiztonsági szerv nem jelöl ki meghatalmazott képviselőt, a külföldi vizsgálóbizottság felkérésére az üzemben tartó, a gyártó és a tervező részt vehet a szakmai vizsgálatban.
 
 (5) A meghatalmazott képviselő és tanácsadó az esettel kapcsolatosan – az e törvény rendelkezéseinek figyelembevételével – minden vonatkozó és rendelkezésre álló információt köteles a külföldi vizsgálóbizottság rendelkezésére bocsátani.
 
@@ -498,7 +498,7 @@ látja el.
 
 19/B. § (1) Az Európai Gazdasági Térségről szóló megállapodásban részes két vagy több államot érintő közös szakmai vizsgálat esetén a közlekedésbiztonsági szerv saját vizsgálati tevékenységét díjmentesen végzi.
 
-(2) Amennyiben a Magyar Köztársaság a szakmai vizsgálatban nem érintett, a vizsgálattal érintett állam által kért segítségnyújtás költségeiről a közlekedésbiztonsági szerv megállapodhat.
+(2) Amennyiben Magyarország a szakmai vizsgálatban nem érintett, a vizsgálattal érintett állam által kért segítségnyújtás költségeiről a közlekedésbiztonsági szerv megállapodhat.
 
 ### V/A. Fejezet — TENGERI BALESETEKRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -514,7 +514,7 @@ látja el.
   - bf) melynek olyan információ áll rendelkezésére, ami hasznos lehet a vizsgálat lefolytatásához,
   - bg) amelyik valamilyen más, a kivizsgálást vezető állam által lényegesnek ítélt okból kifolyólag érdekeltségét jelzi.
 
-19/D. § (1) E törvény rendelkezéseit kell alkalmazni olyan tengeri víziközlekedési balesetekre és tengeri víziközlekedési eseményekre is, amelyek – tekintet nélkül a bekövetkezés helyére vagy az érintett hajó(k) lobogójára – a Magyar Köztársaság alapvető érdekeit érintik.
+19/D. § (1) E törvény rendelkezéseit kell alkalmazni olyan tengeri víziközlekedési balesetekre és tengeri víziközlekedési eseményekre is, amelyek – tekintet nélkül a bekövetkezés helyére vagy az érintett hajó(k) lobogójára – Magyarország alapvető érdekeit érintik.
 
 (2) E törvény hatálya nem terjed ki olyan tengeri víziközlekedési balesetekre és tengeri víziközlekedési eseményekre, amelyek csak a következő típusú úszólétesítményeket érintik:
 
@@ -606,7 +606,7 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, repülőesemények és légiközlekedési rendellenességek szakmai vizsgálatának részletes szabályait, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályait.
 
-(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter, a rendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag a honvédség, illetve a rendvédelmi szervek úszólétesítményeivel való közlekedés során bekövetkezett súlyos víziközlekedési balesetek és rendkívüli hajózási események szakmai vizsgálatának részletes szabályait.
+(3) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszter, a rendészetért felelős miniszter és a Nemzeti Adó- és Vámhivatal felügyeletét ellátó miniszter egyetértésével kiadott rendeletben állapítsa meg a kizárólag a honvédség, illetve a rendvédelmi szervek, valamint a vámhatóság úszólétesítményeivel való közlekedés során bekövetkezett súlyos víziközlekedési balesetek és rendkívüli hajózási események szakmai vizsgálatának részletes szabályait.
 
 (4) Felhatalmazást kap a Kormány, hogy a közlekedésbiztonsági szervet vagy szerveket rendeletben jelölje ki.
 

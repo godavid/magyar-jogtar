@@ -2,7 +2,11 @@
 
 a Bethlen Gábor Alapról
 
-Az Országgyűlés– a Magyarország határain kívül élő magyarság szülőföldjén való boldogulásának, Magyarországgal való sokoldalú kapcsolatai ápolásának és fejlesztésének előmozdítása, magyar nemzeti azonosságtudata megerősítésének céljából,– a Magyar Köztársaságnak az Alkotmány 6. § (3) bekezdésében foglalt, a határon kívül élő magyarokért viselt felelősségének érvényesítésére
+Az Országgyűlés
+
+– a Magyarország határain kívül élő magyarság szülőföldjén való boldogulásának, Magyarországgal való sokoldalú kapcsolatai ápolásának és fejlesztésének előmozdítása, magyar nemzeti azonosságtudata megerősítésének céljából,
+
+– Magyarország határon kívül élő magyarokért viselt felelősségének érvényesítésére
 
 a következő törvényt alkotja:
 
@@ -12,9 +16,11 @@ a következő törvényt alkotja:
 
 (1a) Az Alap fedezetet nyújt a Magyarország határain belül és kívül élő magyar közösségek kölcsönös megismerése, valamint a nemzeti teljesítmény legfontosabb példáinak bemutatása, továbbá a magyarságismereti és nemzetpolitikai kutatások elősegítése érdekében létrehozott Magyarság Háza működéséhez.
 
+(1b) Az Alap célja a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok ellátásának összehangolása.
+
 (2) A támogatás kedvezményezettje lehet az (1) bekezdésben foglalt célok megvalósítása érdekében tevékenykedő:
 
-- a) a Magyar Köztársaság területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
+- a) Magyarország területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
 - b) társadalmi szervezet, alapítvány, jogi személyiséggel rendelkező önkormányzat, valamint az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
 - c) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás) ezen belül különösen mikro-, kis- és középvállalkozás, valamint
 - d) az egyház, valamint egyház által fenntartott hitéleti, oktatási, gyermekjóléti, kulturális és szociális intézmény.
@@ -23,7 +29,7 @@ a következő törvényt alkotja:
 
 (4) Nem jogosult az Alap támogatására politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet.
 
-2. § (1) E törvény rendelkezéseit a Magyar Köztársaság nemzetközi szerződésben vállalt kötelezettségeivel, illetve a szomszédos államok és a Magyar Köztársaság között fennálló kétoldalú szerződésekkel összhangban, továbbá a nemzetközi jog általánosan elismert elveinek tiszteletben tartásával kell alkalmazni, a szerződések kötelező erejének és jóhiszemű végrehajtásának, az államok közötti baráti kapcsolatoknak, valamint az emberi jogok tiszteletben tartásának elvére, beleértve a hátrányos megkülönböztetés tilalmának elvét is.
+2. § (1) E törvény rendelkezéseit Magyarország nemzetközi szerződésben vállalt kötelezettségeivel, illetve a szomszédos államok és Magyarország között fennálló kétoldalú szerződésekkel összhangban, továbbá a nemzetközi jog általánosan elismert elveinek tiszteletben tartásával kell alkalmazni, a szerződések kötelező erejének és jóhiszemű végrehajtásának, az államok közötti baráti kapcsolatoknak, valamint az emberi jogok tiszteletben tartásának elvére, beleértve a hátrányos megkülönböztetés tilalmának elvét is.
 
 (2) E törvényben foglalt támogatások nem érintik a hatályos jogszabályok által a világ bármely más részén élő, magyar állampolgársággal nem rendelkező, magyar nemzetiségű személyeknek biztosított kedvezményeket és támogatásokat, nem érintik továbbá – az oktatási-nevelési támogatások kivitelével – a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény (a továbbiakban: Szátv.) alapján nyújtott támogatásokat.
 
@@ -48,7 +54,7 @@ a következő törvényt alkotja:
 
 #### 3. Az Alap pénzügyi forrásai
 
-4. § (1) Az Alappal – e törvényben foglaltak figyelembevételével – háromtagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára, valamint a nemzetpolitikáért felelős miniszter irányítása alatt álló helyettes államtitkár.
+4. § (1) Az Alappal – e törvényben foglaltak figyelembevételével – háromtagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt személy, valamint a nemzetpolitikáért felelős miniszter irányítása alatt álló helyettes államtitkár.
 
 (2) Az Alap bevételei:
 
@@ -107,11 +113,15 @@ a következő törvényt alkotja:
 
 8. § A Kollégium tagjait és elnökét tevékenységükért díjazás nem illeti meg, viszont jogosultak az Alap tevékenységével közvetlenül összefüggő, igazolt költségeik megtérítésére.
 
-9. § (1) Az Alapból megítélt támogatások folyósításával, felhasználásának ellenőrzésével és nyilvántartásával összefüggő, illetve az államháztartásról szóló 1992. évi XXXVIII. törvény 54/A. §-a szerinti feladatokat az Alap kezelő szerveként a magyar állam tulajdonában lévő Bethlen Gábor Alapkezelő Nonprofit Zrt. látja el.
+9. § (1) Az Alapból megítélt támogatások folyósításával, felhasználásának ellenőrzésével és nyilvántartásával összefüggő, illetve az államháztartásról szóló 2011. évi CXCV. törvény szerinti feladatokat az Alap kezelő szerveként a magyar állam tulajdonában lévő Bethlen Gábor Alapkezelő Nonprofit Zrt. látja el.
 
 (2) Az Alap kezelő szerve felett a tulajdonosi jogokat a magyar állam nevében a kormányzati tevékenység összehangolásáért felelős miniszter gyakorolja.
 
 (3) Az Alap kezelő szerve feladatainak hatékony ellátása érdekében a pályáztatási feladatok vagy azok egy részének ellátása érdekében más szervezetet is létrehozhat vagy megbízhat.
+
+(4) A határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítását és a támogatásközvetítési feladatok ellátásának összehangolását az Alap kezelő szerve végzi.
+
+(5) Az Alap kezelő szerve a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok ellátásának összehangolása érdekében más szervezetet is létrehozhat vagy megbízhat.
 
 9/A. § Az Alap kezelő szervének vezetője, illetve az Alap kezelő szervével munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
 
@@ -127,7 +137,7 @@ a következő törvényt alkotja:
 
 #### 5. Az Alap működése
 
-10. § (1) A támogatások nyilvános pályázat vagy egyedi kérelem benyújtása keretében nyerhetők el. A Bizottság, figyelembevéve a MÁÉRT által az Alappal kapcsolatban meghozott elvi iránymutatásokat, a Magyar Köztársaság költségvetéséről szóló törvény elfogadását követő két hónapon belül szakmai irányelvek szerint meghatározza a pályázati keretek között nyújtandó összeget. A fennmaradó támogatásrész a Bizottság egységes elvek alapján meghatározott támogatási döntései alapján nyerhető el.
+10. § (1) A támogatások nyilvános pályázat vagy egyedi kérelem benyújtása keretében nyerhetők el. A Bizottság, figyelembe véve a MÁÉRT által az Alappal kapcsolatban meghozott elvi iránymutatásokat, a központi költségvetésről szóló törvény elfogadását követő két hónapon belül szakmai irányelvek szerint meghatározza a pályázati keretek között nyújtandó összeget. A fennmaradó támogatásrész a Bizottság egységes elvek alapján meghatározott támogatási döntései alapján nyerhető el.
 
 (2) A pályázati felhívásokat a 11. § (2) bekezdése szerinti internetes honlapon és egy országos napilapban közzé kell tenni.
 
@@ -143,7 +153,7 @@ a következő törvényt alkotja:
 
 #### 6.
 
-12–14. §
+#### 12–14. §
 
 #### 7. Záró és átmeneti rendelkezések
 
@@ -151,7 +161,9 @@ a következő törvényt alkotja:
 
 (2) A 9. § az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított (3) bekezdését a hatálybalépését megelőzően benyújtott nyilvános pályázatok és egyedi kérelmek alapján a hatálybalépését követően megkötésre kerülő támogatási szerződések vonatkozásában is alkalmazni kell.
 
-16. §
+(3) A 9. § az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított (5) bekezdését a 2012. január 1-jét megelőzően benyújtott nyilvános pályázatok és egyedi kérelmek alapján a 2011. december 31-ét követően megkötésre kerülő támogatási szerződések vonatkozásában is alkalmazni kell.
+
+#### 16. §
 
 17. § A Bethlen Gábor Alap a Szülőföld Alap általános jogutódja.
 

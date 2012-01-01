@@ -190,11 +190,11 @@ b) a kollégiumvezető, a kollégiumvezető-helyettes, a tanácselnök és a bí
 
 165. § (1) E törvénynek a Pp. módosításáról szóló rendelkezéseit – a (2)–(9) bekezdésekben foglalt kivételekkel – csak az adott rendelkezés hatálybalépése után indult ügyekben lehet alkalmazni.
 
-(2) Ha az ügyben a perindítás hatályai még nem álltak be, és az ügy legfeljebb egy éve érkezett a bírósághoz, a 7. §-ban meghatározott hatásköri szabályok hatálybalépésére tekintettel a helyi bíróság a megyei bíróságnak küldi meg azt az ügyet, amely az új hatásköri szabályok szerint a megyei bíróság hatáskörébe tartozik. E rendelkezést alkalmazni kell a fizetési meghagyás kibocsátása iránti kérelemre is, ha a fizetési meghagyás kibocsátására a hatásköri szabályok hatálybalépéséig még nem került sor.
+(2) Ha az ügyben a perindítás hatályai még nem álltak be, és az ügy legfeljebb egy éve érkezett a bírósághoz, a 7. §-ban meghatározott hatásköri szabályok hatálybalépésére tekintettel a helyi bíróság a törvényszéknek küldi meg azt az ügyet, amely az új hatásköri szabályok szerint a törvényszék hatáskörébe tartozik. E rendelkezést alkalmazni kell a fizetési meghagyás kibocsátása iránti kérelemre is, ha a fizetési meghagyás kibocsátására a hatásköri szabályok hatálybalépéséig még nem került sor.
 
 (3) Ha a jogorvoslat elbírálása az ítélőtábla hatáskörébe tartozik, az új rendelkezéseket – a (4)–(5) bekezdésben meghatározott kivétellel – a már folyamatban lévő ügyben akkor kell alkalmazni, ha a rendelkezés hatálybalépésekor az ügyben az első fokú határozatot még nem hozták meg.
 
-(4) Azokban az ügyekben, amelyekben a fellebbezést elbírálásra a Legfelsőbb Bírósághoz az új hatásköri szabályok hatálybalépésekor már felterjesztették, az ítélőtábla akkor járhat el, ha az ügy a hatálybalépést megelőzően legfeljebb egy éve érkezett a Legfelsőbb Bírósághoz, és a Pp. 240–243. §-ában foglalt intézkedések megtételére még nem került sor.
+(4) Azokban az ügyekben, amelyekben a fellebbezést elbírálásra a Kúriához az új hatásköri szabályok hatálybalépésekor már felterjesztették, az ítélőtábla akkor járhat el, ha az ügy a hatálybalépést megelőzően legfeljebb egy éve érkezett a Kúriához, és a Pp. 240–243. §-ában foglalt intézkedések megtételére még nem került sor.
 
 (5) Nem minősül a törvény hatálybalépése után indult ügynek az az ügy, amelyben a jogorvoslatot elbíráló bíróság a határozatot hatályon kívül helyezi, és az ügyben eljárt bíróságot új eljárás lefolytatására utasítja.
 

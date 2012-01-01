@@ -4,7 +4,7 @@ a közúti közlekedési előéleti pontrendszerről
 
 Az Országgyűlés a gépjárművezetők önkéntes jogkövető magatartásának erősítése, a közúti közlekedés biztonságának javítása érdekében a következő törvényt alkotja:
 
-1. § (1) E törvény rendelkezéseit a Magyar Köztársaság területén
+1. § (1) E törvény rendelkezéseit Magyarország területén
 
 - a) magyar hatóság által kiállított vagy annak alapján külföldi hatóság által kiadott járművezetésre jogosító okmánnyal (a továbbiakban: vezetői engedéllyel) rendelkező, illetve
 - b) járművezetéstől eltiltás, illetőleg a vezetői engedély visszavonásának hatálya alatt álló

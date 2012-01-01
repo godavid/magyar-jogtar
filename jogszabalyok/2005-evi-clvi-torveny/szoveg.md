@@ -8,7 +8,7 @@ Az Országgyűlés az öngondoskodás, ezen belül is a nyugdíjcélú megtakar�
 
 ### A törvény hatálya
 
-1. § (1) E törvény hatálya kiterjed a Magyar Köztársaság területén székhellyel rendelkező befektetési szolgáltató
+1. § (1) E törvény hatálya kiterjed a Magyarország területén székhellyel rendelkező befektetési szolgáltató
 
 - a) nyugdíj-előtakarékossági értékpapírszámla,
 - b) nyugdíj-előtakarékossági értékpapír letéti számla, és
@@ -50,7 +50,7 @@ Az Országgyűlés az öngondoskodás, ezen belül is a nyugdíjcélú megtakar�
 
 ### Nyugdíj pénzszámla
 
-4. § (1) Nyugdíj pénzszámla kizárólag a Magyar Köztársaság törvényes fizetőeszközében vezethető.
+4. § (1) Nyugdíj pénzszámla kizárólag Magyarország törvényes fizetőeszközében vezethető.
 
 (2) A nyugdíj pénzszámlán
 
@@ -99,7 +99,7 @@ vonatkozó ügyletre adhat megbízást.
 (3) Az előtakarékoskodó a nyugdíj-előtakarékossági számlák megszüntetésekor kérheti
 
 - a) a nyugdíj értékpapírszámlán és/vagy a nyugdíj letéti számlán jóváírt, illetve letétbe helyezett értékpapírok, valamint a nyugdíj pénzszámlán nyilvántartott pénzeszközöknek általa meghatározott másik számlavezető által vezetett nyugdíj-előtakarékossági számlákra történő transzferálását,
-- b) a nyugdíj értékpapírszámlán és/vagy a nyugdíj letéti számlán jóváírt, illetve letétbe helyezett értékpapírok általa meghatározott időpontban – de legkésőbb a felmondás időpontját követő 30 napon belül – történő értékesítését, és ezt követően a nyugdíj pénzszámlán nyilvántartott pénzeszközöknek a Magyar Köztársaság törvényes fizetőeszközében történő kifizetését, vagy
+- b) a nyugdíj értékpapírszámlán és/vagy a nyugdíj letéti számlán jóváírt, illetve letétbe helyezett értékpapírok általa meghatározott időpontban – de legkésőbb a felmondás időpontját követő 30 napon belül – történő értékesítését, és ezt követően a nyugdíj pénzszámlán nyilvántartott pénzeszközöknek Magyarország törvényes fizetőeszközében történő kifizetését, vagy
 - c) a nyugdíj pénzszámla, a nyugdíj értékpapírszámla és/vagy a nyugdíj letéti számla átalakítását a Tpt. szerinti ügyfélszámlává vagy a Tpt. 148. §-ában foglaltak szerinti bankszámlává, értékpapírszámlává és/vagy értékpapír letéti számlává, vagy az egyes számlák állományának befektetési szolgáltatónál vezetett ügyfélszámlára, értékpapírszámlára és/vagy értékpapír letéti számlára történő átvezetését.
 
 (4) Nyugdíjszolgáltatásnak minősül a nyugdíj pénzszámlán nyilvántartott követelés, a nyugdíj értékpapírszámlán és/vagy a nyugdíj letéti számlán nyilvántartott befektetési eszközök együttes összege, ha az előtakarékoskodó a felmondás időpontjában igazolni tudja, hogy jogosult az Szja tv. 3. §-ának 23. pontjában meghatározott nyugdíjra, és a felmondásra a számlanyitás adóévét követő harmadik adóévben vagy azt követően kerül sor.

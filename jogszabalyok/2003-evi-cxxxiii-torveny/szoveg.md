@@ -201,7 +201,7 @@ vonatkozó részletes szabályokat.
 
 (4) Ha az ismeretlen helyen tartózkodó hátralékos tulajdonostárs nyilvántartásba vett új lakó- vagy tartózkodási helye, székhelye, telephelye a nyilvántartást vezető szerv adatszolgáltatása alapján vagy egyéb módon ismertté válik, a kézbesítési vélelem az új lakó- vagy tartózkodási helyre, székhelyre, telephelyre a (3) bekezdés szerinti módon megkísérelt és eredménytelen kézbesítés esetében áll be.
 
-25. § (1) A közös tulajdonban álló épületrészek, helyiségek és területek megfigyelését szolgáló, zárt rendszerű műszaki megoldással kiépített elektronikus megfigyelő rendszer (a továbbiakban: kamerarendszer) létesítéséről és üzemeltetéséről a közgyűlés az összes tulajdoni hányad szerinti legalább kétharmados többségével rendelkező tulajdonostársak igenlő szavazatával dönthet. Ebben az esetben a szervezeti-működési szabályzatnak tartalmaznia kell a kamerarendszer üzemeltetéséhez szükséges – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény rendelkezéseivel összhangban megállapított – adatkezelési szabályokat.
+25. § (1) A közös tulajdonban álló épületrészek, helyiségek és területek megfigyelését szolgáló, zárt rendszerű műszaki megoldással kiépített elektronikus megfigyelő rendszer (a továbbiakban: kamerarendszer) létesítéséről és üzemeltetéséről a közgyűlés az összes tulajdoni hányad szerinti legalább kétharmados többségével rendelkező tulajdonostársak igenlő szavazatával dönthet. Ebben az esetben a szervezeti-működési szabályzatnak tartalmaznia kell a kamerarendszer üzemeltetéséhez szükséges – az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseivel összhangban megállapított – adatkezelési szabályokat.
 
 (2) A közös képviselő vagy az intézőbizottság által kötött szerződés alapján a kamerarendszer üzemeltetője a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvényben meghatározott személy lehet.
 
@@ -219,7 +219,7 @@ vonatkozó részletes szabályokat.
 
 (7) Az, akinek jogát vagy jogos érdekét a kamerarendszer által rögzített felvétel érinti, a felvétel rögzítésétől számított tizenöt napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy az adatot annak üzemeltetője ne semmisítse meg, illetve ne törölje. Bíróság vagy más hatóság megkeresésére a rögzített felvételt haladéktalanul meg kell küldeni. Amennyiben a megkeresésre attól számított harminc napon belül, hogy a megsemmisítés mellőzését kérték, nem kerül sor, a rögzített felvételt haladéktalanul törölni kell úgy, hogy azok többé ne legyenek helyreállíthatóak.
 
-(8) A felvételen szereplő természetes személy érintett számára biztosítani kell valamennyi, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben felsorolt jognak az ott meghatározott korlátozások figyelembevételével történő gyakorlását.
+(8) A felvételen szereplő természetes személy érintett számára biztosítani kell valamennyi, az információs önrendelkezési jogról és az információszabadságról szóló törvényben felsorolt jognak az ott meghatározott korlátozások figyelembevételével történő gyakorlását.
 
 (9) A felvételek megismeréséről jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell a rögzített felvételt, az annak megismerésére – a (2) bekezdésben meghatározottak szerint – jogosult személy nevét, továbbá az adatok megismerésének okát és idejét.
 
@@ -232,6 +232,8 @@ vonatkozó részletes szabályokat.
 (2) A közösség a házirendben meghatározza a közös tulajdonban lévő épületrészek, területek és helyiségek használatára vonatkozó részletes szabályokat is.
 
 (3) A házirend szabályait – a használat jogcímétől függetlenül – a lakás, illetőleg a nem lakás céljára szolgáló helyiség mindenkori használója köteles betartani.
+
+(4) A házirend – a tulajdonostársak összes tulajdoni hányad szerinti legalább négyötödös többségével megállapított – eltérő rendelkezése hiányában tilos dohányozni a közös tulajdonban lévő zárt légterű épületrészekben, területeken, illetve helyiségekben.
 
 ### III. Fejezet — A TÁRSASHÁZ SZERVEZETE
 

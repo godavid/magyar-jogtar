@@ -52,7 +52,7 @@ az egyes elkobzott dolgok közérdekű felhasználásáról
 
 (4) Ha a jogosult az (1) bekezdésben meghatározott dolog közérdekű felhasználásához nem járult hozzá, és az erre kijelölt szerv határidőn belül a bírósági eljárást nem indítja meg, az elkobzott dolgot kezelő hatóság az elkobzás végrehajtásának általános szabályai szerint jár el.
 
-(5) Az eljárás a megyei bíróság székhelyén lévő helyi bíróság, Budapest területén a Pesti Központi Kerületi Bíróság hatáskörébe és illetékességébe tartozik. A bíróság nemperes eljárásban határoz. Eljárása során a jogosultat meghallgatja.
+(5) Az eljárás a törvényszék székhelyén lévő helyi bíróság, Budapest területén a Pesti Központi Kerületi Bíróság hatáskörébe és illetékességébe tartozik. A bíróság nemperes eljárásban határoz. Eljárása során a jogosultat meghallgatja.
 
 (6) Ha az elkobzott dolog megfosztható jogsértő mivoltától, a bíróság megállapítja, hogy a dolog közérdekű célra felhasználható. A bíróság rendelkezik arról, hogy az elkobzott dolog milyen módon fosztható meg a jogsértő mivoltától.
 

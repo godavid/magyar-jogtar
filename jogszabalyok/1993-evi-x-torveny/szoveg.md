@@ -71,7 +71,7 @@ Az Országgyűlés e célok érdekében, figyelembe véve a termékfelelősségr
 (2) E törvény rendelkezései nem alkalmazhatók
 
 - a)
-- b) az atomenergiáról szóló törvényben meghatározott károkra, továbbá az olyan nukleáris balesetek által okozott károkra, amelyeket a Magyar Köztársaság által ratifikált nemzetközi egyezmények rendeznek.
+- b) az atomenergiáról szóló törvényben meghatározott károkra, továbbá az olyan nukleáris balesetek által okozott károkra, amelyeket a Magyarország által ratifikált nemzetközi egyezmények rendeznek.
 
 (3) Gyógyszer előírás szerinti alkalmazásával okozott kár esetében a gyártó a 7. § (1) bekezdésének d) pontjára hivatkozással nem mentesülhet a felelősség alól.
 

@@ -20,9 +20,7 @@ Az Országgyűlés az államháztartás tartalmának, működési és eljárási
 
 115. § (1) Ez a törvény 1996. január 1-jén lép hatályba.
 
-(2) Az e törvény hatálybalépésekor az állam tulajdonában lévő — a gazdálkodó szervezetek és a gazdasági társaságok átalakulásáról szóló 1989. évi XIII. törvény alapján állami vállalatból gazdasági társasággá átalakult — gazdasági társaságokra az Áht. kincstári vagyonnal kapcsolatos, — az e törvény 86—99. §-aival megállapított — 104—109/K. §-aiban foglalt rendelkezéseket nem kell alkalmazni.
-
-(3) Az Áht. — e törvény 96. §-ával megállapított — 109/H. §-a (1) bekezdésében foglaltak nem vonatkoznak azon ügyletekre, amelyek esetében a vagyonkezelő az általa kezelt vagyon elidegenítésére e törvény hatálybalépésekor Kormány által kiadott engedéllyel rendelkezik.
+(2)–(3)
 
 (4)
 

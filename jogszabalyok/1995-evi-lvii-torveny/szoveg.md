@@ -36,17 +36,28 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - g) az állami hatósági feladatok ellátása;
 - h) az állami tulajdonban lévő közcélú vízilétesítmények működtetése, a koncessziós pályázat kiírása, elbírálása és a koncessziós szerződés megkötése;
 - i) a vízgazdálkodáshoz szükséges adatgyűjtés elrendelése;
-- j) a vízrajzi tevékenység ellátása és szabályozása, a vízkészletek mennyiségi és minőségi számbavétele;
-- k) a vizek kártételei elleni védelem érdekében a vízkár-elhárítási tevékenység szabályozása, szervezése, irányítása, ellenőrzése, a helyi közfeladatokat meghaladó védekezés;
-- l) vízgyűjtő-gazdálkodási terv készítése.
+- j) a vízrajzi tevékenység szabályozása;
+- k) a vizek kártételei elleni védelem érdekében a vízkár-elhárítási tevékenység szabályozása;
+- l) a vizek kártételei elleni védelem érdekében a vízkár-elhárítási tevékenység szervezése, irányítása, ellenőrzése, a helyi közfeladatokat meghaladó védekezés;
+- m) vízgyűjtő-gazdálkodási terv készítése;
+- n) az állami tulajdonú vízi utak fenntartásának, valamint fejlesztésének felügyelete;
+- o) a vízrajzi tevékenység ellátása;
+- p) a vízkészletek mennyiségi és minőségi számbavétele.
 
-(2) Az (1) bekezdésben felsorolt feladatok közül az a), az f) és az i) pontban említetteket a Kormány; a b), a c), a d), a k) és az l) pontban említetteket a vízgazdálkodásért felelős miniszter (a továbbiakban: miniszter) és – a Kormány által meghatározott munkamegosztás szerinti rendben – az érdekelt miniszter együttesen; az e), a g), a h) és a j) pontokban említetteket a miniszter látja el.
+(2) Az (1) bekezdésben felsorolt feladatok közül
+
+- a) a Kormány az a), f), i) és az m) pontban;
+- b) a vízgazdálkodásért felelős miniszter a c), d), e), g), j) és a k) pontban;
+- c) a vízügyi igazgatási szervek irányításáért felelős miniszter az l), n) és o) pontban;
+- d) a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter együttesen a b), h) és p) pontban meghatározott feladatokat látja el.
+
+(3) Az (1) bekezdésben felsorolt feladatok közül a c) és a d) pontban említetteket a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás szerinti rendben az érdekelt miniszterek közreműködésével látja el.
 
 3. § (1) A vizekkel és a vízilétesítményekkel összefüggő állami feladatok körében az igazgatási tevékenységeket (a továbbiakban: vízügyi igazgatás) — a 2. § (2) bekezdésében megjelölt munkamegosztásra is figyelemmel — a vízügyi igazgatási szerv végzi.
 
 (2)
 
-(3) A vízügyi igazgatási szervezet látja el – a mezőgazdasági vízgazdálkodási célokat szolgáló vizek és vízilétesítmények kivételével – azoknak az állam tulajdonában lévő vizeknek és vízilétesítményeknek a kezelését, amelyek nem minősülnek az állam vállalkozói vagyonának, és így más gazdálkodó szervezet használatába nem adhatók. A mezőgazdasági vízgazdálkodási célokat szolgáló vizek és vízilétesítmények tekintetében a kezelésről a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszter útján gondoskodik.
+(3) A vízügyi igazgatási szervek látják el az állam kizárólagos tulajdonában lévő vizeknek és vízilétesítményeknek a vagyonkezelését.
 
 (4)
 
@@ -89,17 +100,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 ### III. Fejezet — A tulajdonra és a tulajdon működtetésére vonatkozó rendelkezések
 
-6. § (1) Az állam kizárólagos tulajdonában vannak:
-
-- a) a felszín alatti vizek és azok természetes víztartó képződményei;
-- b) a természetes tavak közül a Balaton (a Kis-Balaton Vízvédelmi Rendszerrel együtt), a Velencei-tó, a Fertő tó és a Hévízi-tó, valamint azok medre;
-- c) az államhatárt alkotó vagy metsző folyók, patakok, a törvény 2. számú melléklete szerinti egyéb folyók, patakok, holtágak, mellékágak és azok medre;
-- d) a folyóvízben újonnan keletkezett szigetek;
-- e) az államhatárt alkotó vagy metsző csatornák, továbbá a törvény 3. számú melléklete szerinti csatornák, tározók, árvízvédelmi fővédvonalak és egyéb vízilétesítmények.
-
-(2) A 2. és a 3. számú melléklet szerinti vízfolyások és vízilétesítmények jegyzékét a miniszter rendeletben teszi közzé.
-
-(3) A helyi önkormányzat tulajdonában vannak törzsvagyonként – a külön törvények rendelkezése alapján – a helyi önkormányzatoknak átadott vizek és vízilétesítmények (ideértve a víziközműveket is).
+6. § (1)–(3)
 
 (4) Az ingatlan tulajdonosának a tulajdonában vannak:
 
@@ -110,7 +111,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (5) Az állami tulajdonban lévő természetvédelmi szempontból védett, fokozottan védett, illetve védelemre tervezett területeken lévő vizek forgalomképtelenek.
 
-(6) Az (1), (3), (4) és (5) bekezdésben nem említett vizek és vízilétesítmények állami tulajdonban vannak, de forgalomképesek. Elidegenítés esetén az érintett helyi önkormányzat (önkormányzati társulás) — több önkormányzat esetében az érintettség arányában — elővásárlási joggal rendelkezik. Az elővásárlási jog szempontjából érintett az a helyi önkormányzat, amelynek a közigazgatási területén vagy határán van a víz, illetve vízilétesítmény.
+(6) A nemzeti vagyonról szóló törvényben, valamint a (4) és (5) bekezdésben meg nem jelölt vizek és vízilétesítmények állami tulajdonban vannak, de forgalomképesek. Elidegenítés esetén az érintett helyi önkormányzat vagy önkormányzati társulás – több önkormányzat esetében az érintettség arányában – elővásárlási joggal rendelkezik. Az elővásárlási jog szempontjából érintett az a helyi önkormányzat, amelynek a közigazgatási területén vagy határán van a víz, illetve vízilétesítmény.
 
 (7) A természetes úton létrejött — a meder részét már nem képező — feliszapolódáson (parti növedék) csak a parti ingatlan tulajdonosa szerezhet tulajdont.
 
@@ -161,7 +162,7 @@ adottságok.
 
 (5) A kijelölt szennyvízelvezetési agglomerációk szükség szerinti módosítását a Kormány kétévente a (2) bekezdésben említett program felülvizsgálata keretén belül végzi el.
 
-(6) Az Európai Közösségek Tanácsa 91/271/EGK számú, a települési szennyvíz tisztításáról szóló Irányelve 15. cikkében előírt információszolgáltatási (jelentéstételi) tagállami kötelezettség teljesítéséhez a víziközmű-szolgáltatók kötelesek szolgáltatni a vízügyi igazgatási és hatósági feladatokat ellátó szervek által kért adatokat és információkat , illetve a helyszínen biztosítani ezek megbízhatóságának vízügyi hatósági ellenőrzését.
+(6) Az Európai Közösségek Tanácsa 91/271/EGK számú, a települési szennyvíz tisztításáról szóló Irányelve 15. cikkében előírt információszolgáltatási (jelentéstételi) tagállami kötelezettség teljesítéséhez a víziközmű-szolgáltatók kötelesek szolgáltatni a vízgazdálkodásért felelős miniszter által kért adatokat és információkat , illetve a helyszínen biztosítani ezek megbízhatóságának vízügyi hatósági ellenőrzését.
 
 8. § (1) A közérdek mértékét meghaladó, illetve a 7. §-ban nem említett tevékenység — vízimunka, vízilétesítmény építése — többletköltségeit az igénylők kötelesek megtéríteni.
 
@@ -169,11 +170,7 @@ adottságok.
 
 (3) Vízitársulat hiányában a (2) bekezdés szerinti költségeket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései szerint lefolytatott eljárásban hozott határozatával érdekeltségük arányában az érdekeltekre a települési önkormányzat jegyzője veti ki.
 
-9. § (1) Az állam a kizárólagos tulajdonában, valamint az önkormányzat (önkormányzati társulás) a törzsvagyonában lévő víziközmű létesítmények létesítéséről, fenntartásáról, üzemeltetéséről (a továbbiakban együttesen: működtetés) a következő módokon gondoskodhat:
-
-- a) olyan gazdálkodó szervezetet hoz létre, amelyben kizárólagos részesedéssel rendelkezik – ide nem értve a munkavállalói résztulajdont,
-- b) az állam és az önkormányzat együttesen olyan gazdálkodó szervezetet hoz létre, amelyben kizárólagos közös részesedéssel rendelkezik – ide nem értve a munkavállalói résztulajdont,
-- c) a működtetés gyakorlásának időleges jogát koncessziós szerződésben átengedi.
+9. § (1)
 
 (2) Nem minősül koncesszióköteles tevékenységnek:
 
@@ -183,7 +180,7 @@ adottságok.
 - d) az állam kizárólagos tulajdonába vagy a helyi önkormányzat törzsvagyonába tartozó vízilétesítmények közül a víziközművek működtetése, ha a szerződésre vonatkozó általános előírások alapján kizárólag a tulajdonos állam vagy helyi önkormányzat(ok) által e célra alapított gazdálkodó szervezetnek – ide nem értve a munkavállalói résztulajdont –, illetőleg a kizárólag e gazdálkodó szervezetek által ugyancsak e célra alapított gazdálkodó szervezetnek engedik át a tevékenység gyakorlását;
 - e) az állam kizárólagos tulajdonába vagy a helyi önkormányzat törzsvagyonába tartozó vízilétesítmények közül a víziközművek működtetése, ha a kizárólagos tulajdonos állam és az önkormányzat(ok) által közösen alapított gazdálkodó szervezetnek – ide nem értve a munkavállalói résztulajdont –, illetőleg a kizárólag e gazdálkodó szervezetek által ugyancsak e célra alapított gazdálkodó szervezetnek engedik át a tevékenység gyakorlását.
 
-10. § (1) A kizárólagos állami tulajdonban, illetve önkormányzati törzsvagyonban lévő közcélú vízilétesítmények működtetését végző gazdálkodó szervezetnek a létesítmény közművagyonát az állam nevében a miniszter, az önkormányzat nevében a képviselő-testület adja szerződéssel használatba.
+10. § (1) A kizárólagos állami tulajdonban, illetve önkormányzati törzsvagyonban lévő közcélú vízilétesítmények működtetését végző gazdálkodó szervezetnek a létesítmény közművagyonát az állam nevében a vízgazdálkodásért felelős miniszter, az önkormányzat nevében a képviselő-testület adja szerződéssel használatba.
 
 (2) A szerződésnek tartalmaznia kell:
 
@@ -195,7 +192,7 @@ adottságok.
 
 11. § (1) A koncessziós pályázatot
 
-- a) az állami tulajdon működtetésére a miniszter;
+- a) az állami tulajdon működtetésére a vízgazdálkodásért felelős miniszter;
 - b) a helyi önkormányzati tulajdon működtetésére a képviselő-testület írja ki.
 
 (2) A pályázati kiírásnak tartalmaznia kell, hogy az a vízi közüzemi tevékenységekre [13. § (1) bekezdés] együttesen vagy külön-külön vonatkozik.
@@ -253,7 +250,7 @@ kell törekedni.
 
 (5) Aki a szennyvízelvezető és -tisztító közműbe a meghatározott mértéket meghaladó károsító anyagot bocsát be, csatornabírságot köteles fizetni.
 
-(6) Az (5) bekezdésben említett károsító anyagok fajtáit, a csatornabírság kiszabásával kapcsolatos szabályokat, valamint a csatornabírság mértékét a Kormány, a bebocsátási küszöbértékeket a miniszter rendeletben állapítja meg.
+(6) Az (5) bekezdésben említett károsító anyagok fajtáit, a csatornabírság kiszabásával kapcsolatos szabályokat, valamint a csatornabírság mértékét a Kormány, a bebocsátási küszöbértékeket a vízgazdálkodásért felelős miniszter rendeletben állapítja meg.
 
 (7) Az állam kizárólagos tulajdonában lévő természetes vizek medrében található nádasok vízminőség-védelmi nádgazdálkodásáról a meder kezelője köteles gondoskodni.
 
@@ -367,7 +364,7 @@ alapján kell kiszámítania.
 
 (2) A Kormány által rendeletben kijelölt vízügyi igazgatási szervnek a vizek többletéből eredő kockázattal érintett területekre veszély- és kockázati térképet, valamint kockázatkezelési tervet kell készítenie.
 
-(3) A vízügyi igazgatási szervezet feladata – a mezőgazdasági vízgazdálkodási célokat szolgáló vízilétesítmények kivételével – a folyók vízkárelhárítási célú szabályozása, a kettőnél több települést szolgáló vízkárelhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkárelhárítási célú tározók, belvízvédelmi főművek (a továbbiakban: védművek) – építése, ezek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása és fejlesztése, továbbá azokon a védekezés ellátása. A mezőgazdasági vízgazdálkodási célokat szolgáló vízilétesítmények esetében a feladat ellátásáról a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatait ellátó miniszter gondoskodik.
+(3) A vízügyi igazgatási szervek feladata a folyók vízkár-elhárítási célú szabályozása, a kettőnél több települést szolgáló vízkár-elhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkár-elhárítási célú tározók, belvízvédelmi főművek (a továbbiakban: védművek) – építése, ezek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása és fejlesztése, azokon a védekezés ellátása, továbbá a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatainak ellátása.
 
 (4) A vízügyi igazgatási szervnek vízkárelhárítással összefüggő feladata;
 
@@ -389,26 +386,24 @@ alapján kell kiszámítania.
 
 17. § (1) Az árvíz- és belvízvédekezés országos irányítása
 
-- a) a rendkívüli védekezési készültség beálltáig a miniszter;
-- b) a rendkívüli védekezési készültség (veszélyhelyzet) tartama alatt a miniszter;
-- c) különösen nagy veszély esetén (szükségállapot) — a külön jogszabály szerinti — kormánybizottság
-
-hatáskörébe tartozik.
+- a) a rendkívüli védekezési készültség beálltáig a vízügyi igazgatási szervek irányításáért felelős miniszter;
+- b) a rendkívüli védekezési készültség tartama alatt, ha veszélyhelyzet kihirdetésére nem kerül sor, a vízügyi igazgatási szervek irányításáért felelős miniszter;
+- c) veszélyhelyzet kihirdetése esetén a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti kormányzati koordinációs szerv hatáskörébe tartozik.
 
 (2)
 
 (3) A saját szervezettel védekező települések által fenntartott műveken az árvíz- és belvízvédekezés műszaki feladatait a település közigazgatási határán belül — a vízügyi igazgatási szervnek szakmai irányításával — a polgármester (Budapesten a főpolgármester) a polgármesteri (főpolgármesteri) hivatal útján látja el.
 
-(4) Az árvíz- és belvízvédekezés, valamint a helyi vízkár-elhárítás államigazgatási feladat- és hatáskörét — a külön jogszabályban meghatározottak szerint — a megyei közgyűlés elnöke, illetőleg a polgármester, fővárosban a főpolgármester látja el.
+(4) Az árvíz- és belvízvédekezés, valamint a helyi vízkár-elhárítás államigazgatási feladat- és hatáskörét — a külön jogszabályban meghatározottak szerint — a megyei, fővárosi védelmi bizottság elnöke, illetőleg a polgármester, fővárosban a főpolgármester látja el.
 
-(5) A vizek kártételei elleni védekezés részletes feladatait, módját és a miniszter jogkörét a Kormány rendeletben állapítja meg.
+(5) A vizek kártételei elleni védekezés részletes feladatait, módját és a vízügyi igazgatási szervek irányításáért felelős miniszter jogkörét a Kormány rendeletben állapítja meg.
 
-(6) A főpolgármester, a megyei közgyűlés elnöke, illetve a polgármester rendeli el az árvíz- és belvízvédekezéssel, valamint a helyi vízkárelhárítással kapcsolatos – a külön jogszabályban meghatározott államigazgatási feladatok körében – a kitelepítést, a kimenekítést, a visszatelepítést, továbbá közreműködik az ezzel kapcsolatos egyéb feladatok végrehajtásában.
+(6) A főpolgármester, a megyei, fővárosi védelmi bizottság elnöke, illetve a polgármester rendeli el az árvíz- és belvízvédekezéssel, valamint a helyi vízkárelhárítással kapcsolatos – a külön jogszabályban meghatározott államigazgatási feladatok körében – a kitelepítést, a kimenekítést, a visszatelepítést, továbbá közreműködik az ezzel kapcsolatos egyéb feladatok végrehajtásában.
 
 (7) A polgármester (főpolgármester) az árvíz- és belvízvédekezéssel kapcsolatos államigazgatási feladat- és hatáskörében
 
 - a) közreműködik az árvíz- és belvízvédekezési területi bizottság jogszabályban meghatározott feladatainak végrehajtásában;
-- b) gondoskodik a közerők, továbbá a védekezéshez szükséges anyagok, eszközök és felszerelések összeírásáról, nyilvántartásáról, szükség szerinti mozgósításáról, továbbá a közerők általános ellátásáról;
+- b) gondoskodik a közerők – ezen belül a polgári védelmi szervezetbe beosztottak és a közfoglalkoztatottak –, továbbá a védekezéshez szükséges anyagok, eszközök és felszerelések összeírásáról, nyilvántartásáról, szükség szerinti mozgósításáról, továbbá a közerők – ezen belül a polgári védelmi szervezetbe beosztottak és a közfoglalkoztatottak – általános ellátásáról;
 - c) megtervezi a kitelepítést, a kimenekítést, a mentést és a visszatelepítést, illetőleg ezek elrendelése esetén gondoskodik a végrehajtásról;
 - d) gondoskodik az élet- és vagyonbiztonság, valamint a mentés érdekében szükséges egyéb intézkedések megtételéről;
 - e) gondoskodik a védekezésben részt vevők egészségügyi ellátásáról, továbbá a kitelepítés, a kimenekítés, a mentés és visszatelepítés során a járványok megelőzésével és elhárításával kapcsolatos intézkedésekről, az egészségügyi államigazgatási szerv közreműködésével;
@@ -426,9 +421,9 @@ hatáskörébe tartozik.
 
 ### VII. Fejezet — A vizekkel és vízilétesítményekkel összefüggőingatlanokra vonatkozó rendelkezések
 
-20. § (1) Az ingatlan tulajdonosa (használója) köteles tűrni, hogy a vízügyi igazgatási szervnek határozata alapján a közcélú vízilétesítményt az ingatlanán elhelyezzék és üzemeltessék, illetve az ehhez szükséges vízimunkákat elvégezzék, feltéve, ha az ingatlan rendeltetésszerű használatát nem zárja ki (vízvezetési szolgalmi jog).
+20. § (1) Az ingatlan tulajdonosa (használója) köteles tűrni, hogy a vízügyi hatóság határozata alapján a közcélú vízilétesítményt az ingatlanán elhelyezzék és üzemeltessék, illetve az ehhez szükséges vízimunkákat elvégezzék, feltéve, ha az ingatlan rendeltetésszerű használatát nem zárja ki (vízvezetési szolgalmi jog).
 
-(2) A vízügyi igazgatási szerv kérelemre engedélyezi meglévő és vízjogi engedély alapján üzemelő vízilétesítményhez történő csatlakozást, ha a vízilétesítmény az eredeti rendeltetésének, valamint a csatlakozó céljának együttesen megfelel, illetve arra alkalmassá tehető (vízhasználati szolgalmi jog).
+(2) A vízügyi hatóság kérelemre engedélyezi meglévő és vízjogi engedély alapján üzemelő vízilétesítményhez történő csatlakozást, ha a vízilétesítmény az eredeti rendeltetésének, valamint a csatlakozó céljának együttesen megfelel, illetve arra alkalmassá tehető (vízhasználati szolgalmi jog).
 
 (3) A parti ingatlan tulajdonosa (használója) köteles tűrni, hogy a meder tulajdonosa, illetve megbízottai szakfeladataik ellátásához szükséges mértékben az ingatlanhoz fűződő érdekek figyelembevételével
 
@@ -509,7 +504,7 @@ hatáskörébe tartozik.
 
 (6) A parti sávban és védősávban, valamint a rendszeresen víz alá kerülő területeken építmény a meder tulajdonosának, illetve kezelőjének hozzájárulásával helyezhető el. Ennek hiányában az elhelyezőt ért kárért – ha törvény eltérően nem rendelkezik – kártalanítás nem jár.
 
-(7) A folyók nagyvízi medrére vonatkozóan kezelési tervet kell készíteni, amely a nagyvízi mederben tevékenységet folytatókra kötelező. A kezelési tervet a miniszter rendeletben állapítja meg. A kezelési tervet össze kell hangolni a folyók nagyvízi medrére vonatkozó, illetve arra kihatással lévő egyéb tervekkel, így különösen a természet védelméről szóló törvény alapján a védett természeti területekre vonatkozóan elkészített természetvédelmi kezelési tervekkel, az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló kormányrendelet alapján a Natura 2000 területekre elkészített természetvédelmi kezelési- és fenntartási tervekkel, illetve az adott területre vonatkozó, az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló miniszteri rendelet alapján meghatározott természetvédelmi célkitűzésekkel, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény alapján az erdőkre vonatkozóan elkészített körzeti erdőtervekkel.
+(7) A folyók nagyvízi medrére vonatkozóan kezelési tervet kell készíteni, amely a nagyvízi mederben tevékenységet folytatókra kötelező. A kezelési tervet a vízgazdálkodásért felelős miniszter rendeletben állapítja meg. A kezelési tervet össze kell hangolni a folyók nagyvízi medrére vonatkozó, illetve arra kihatással lévő egyéb tervekkel, így különösen a természet védelméről szóló törvény alapján a védett természeti területekre vonatkozóan elkészített természetvédelmi kezelési tervekkel, az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló kormányrendelet alapján a Natura 2000 területekre elkészített természetvédelmi kezelési- és fenntartási tervekkel, illetve az adott területre vonatkozó, az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló miniszteri rendelet alapján meghatározott természetvédelmi célkitűzésekkel, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény alapján az erdőkre vonatkozóan elkészített körzeti erdőtervekkel.
 
 25. § (1) A partok védelmére szolgáló munkák folytán ideiglenesen igénybe vett terület használatáért a parti ingatlan tulajdonosának kártalanítás nem jár, az évelő növényzetben és a függő termésben okozott zöldkárt, valamint az épületben okozott károkat azonban meg kell téríteni.
 
@@ -553,6 +548,8 @@ indokolja.
 30/B. § A közigazgatási hatósági eljárás során felmerülő mintavételi, laboratóriumi, illetve az egyéb műszeres vizsgálatok költségei, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek.
 
 31. § A vízügyi hatóság által lefolytatott egyes közigazgatási eljárásokért (ideértve a szakhatósági eljárásokat, az igazgatási jellegű szolgáltatásokat, továbbá a bejelentéseket) igazgatási szolgáltatási díjat kell fizetni.
+
+31/A. § A vízügyi igazgatási szerveknek – a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.
 
 32. § Ha a vizek mennyiségi védelme, a vizek kártételeinek elhárítása, a károk megelőzése vagy a jogszerűen gyakorolt vízhasználat azt egyébként szükségessé teszi, a hatóság a vízhasználót, vagy azt, aki a vízviszonyokba jogellenesen beavatkozott a káros, illetve a károsodás veszélyével fenyegető állapot megszüntetésére, a szükséges vízimunka elvégzésére vagy meghatározott módon történő gyakorlására kötelezheti.
 
@@ -606,7 +603,7 @@ indokolja.
 
 38. § A víziközmű társulat közfeladatként a település, az együttesen ellátható települések belterületi, illetve lakott területi részének közműves vízellátását, szennyvízelvezetését, szennyvíztisztítását, a belterületi vízrendezést és csapadékvíz elvezetést szolgáló vízilétesítményeket hoz létre, illetve fejleszt.
 
-39. § (1) A víziközmű társulat törvényességi felügyeletét – ideértve a közfeladatok ellátásával kapcsolatos, a szakmai követelményeknek megfelelő törvényes megalakulás és működés ellenőrzését is – a társulat székhelye szerint illetékes környezetvédelmi és vízügyi igazgatóság gyakorolja.
+39. § (1) A víziközmű társulat törvényességi felügyeletét – ideértve a közfeladatok ellátásával kapcsolatos, a szakmai követelményeknek megfelelő törvényes megalakulás és működés ellenőrzését is – a társulat székhelye szerint illetékes vízügyi igazgatási szerv gyakorolja.
 
 (2) A törvényességi felügyelet kiterjed a társulat megalakulásának, működésének, ellenőrzésére, továbbá annak vizsgálatára, hogy
 
@@ -694,7 +691,7 @@ indokolja.
 
 - a) a vízbázisok, a távlati vízbázisok, illetőleg az ivóvízellátást szolgáló vízilétesítmények védőidomára, védőterületére (védősávjára) vonatkozó szabályoknak;
 - b) a vizekkel és a közcélú vízilétesítményekkel kapcsolatos fenntartási feladatokra vonatkozó szabályoknak;
-- c) a vízgazdálkodási feladatokkal összefüggő alapadatok gyűjtésének, feldolgozásának, szolgáltatásának — a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény rendelkezéseivel összhangban —;
+- c) a vízgazdálkodási feladatokkal összefüggő alapadatok gyűjtésének, feldolgozásának, szolgáltatásának;
 - d) a társulatok megalakulásával, működésével, megszűnésével, az e törvényen alapuló és a társulat belső szabályozási feladatkörébe nem utalt közcélú érdekeltségi hozzájárulással kapcsolatos szabályok;
 - e) a vízgazdálkodással kapcsolatos hatósági jogkör gyakorlására, valamint az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékére és fizetésének részletes szabályaira vonatkozó szabályok;
 - f) a vízgazdálkodás országos koncepciójának végrehajtásához kapcsolódó nemzeti programok;
@@ -711,15 +708,15 @@ indokolja.
 - q) a vizek többletéből eredő kockázattal érintett területek meghatározására, veszély- és kockázati térkép, valamint kockázatkezelési terv készítésére, tartalmára vonatkozó szabályok;
 - r) az e törvényben, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben foglaltakkal összhangban a vízgyűjtő-gazdálkodási tervezésre és a jó vízállapotok eléréséhez szükséges intézkedések programjának kialakítására vonatkozó szabályok;
 - s) a vízügyi hatóságnak történő bejelentést követően megkezdhető, illetve folytatható tevékenységek körének, továbbá a bejelentés tartalmi elemeinek és a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályainak, valamint az alkalmazható jogkövetkezményeknek;
-- t) a vizek kártételei elleni védekezés részletes feladatainak és módjának, valamint a rendkívüli védekezési készültség esetén eljáró miniszter jogkörének;
-- u) a rendkívüli védekezési készültség elrendelésének;
+- t) a vizek kártételei elleni védekezés részletes feladatainak és módjának;
+- u)
 - v) a vízkárelhárítási célú tározók létesítésére, az érintett ingatlanok használatára és a kártalanítási eljárásra vonatkozó szabályoknak;
 - w) a nagyvízi mederre, a parti sávra, a vízjárta és a fakadó vizek által veszélyeztetett területekre, azok használatának, hasznosításának, a víziállásokra vonatkozó előírásoknak és korlátozásoknak, valamint a nyári gátak által védett területek értékének csökkenésével kapcsolatos kártalanítási eljárás szabályainak;
 - x) a folyók nagyvízi medrére vonatkozó kezelési terv készítésének rendjére és tartalmára vonatkozó szabályok
 
 rendeletben történő megállapítására.
 
-(8) Felhatalmazást kap a miniszter
+(8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 - a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
 - b) a vízgazdálkodási tanácsok összetételére és működésére vonatkozó szabályok;
@@ -732,14 +729,14 @@ rendeletben történő megállapítására.
 - i) a fúrt kutakra vonatkozó vízjogi engedélyezési eljárás szabályainak;
 - j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfigyelésének;
 - k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
-- l) az állam kizárólagos tulajdonában lévő vizek és vízilétesítmények jegyzékének;
+- l)
 - m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
 - n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
 - o) a folyók nagyvízi medrére vonatkozó kezelési terv
 
 rendeletben történő megállapítására.
 
-(9) A vízgazdálkodással, valamint a vizek védelmével összefüggő érdekek érvényesítését a Magyar Köztársaság két- vagy többoldalú nemzetközi együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíti, különösen a szomszédos országokkal való kapcsolatában. Nemzetközi szerződés hiányában is figyelemmel kell lenni más államok — különösen a szomszédos országok — vízgazdálkodással összefüggő érdekeire.
+(9) A vízgazdálkodással, valamint a vizek védelmével összefüggő érdekek érvényesítését a Magyarország két- vagy többoldalú nemzetközi együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíti, különösen a szomszédos országokkal való kapcsolatában. Nemzetközi szerződés hiányában is figyelemmel kell lenni más államok — különösen a szomszédos országok — vízgazdálkodással összefüggő érdekeire.
 
 (10) A 15. § (7) bekezdése szerinti rendelkezést legkésőbb 2010. december 22-ig kell végrehajtani.
 
@@ -765,7 +762,7 @@ E törvény alkalmazásában
 - 2. ásványvíz: olyan természetes felszín alatti víztartóból vagy vízadóból származó víz, amelynek ásványi anyag tartalma jellemzően eltér a rendszeres emberi fogyasztásra szolgáló ivóvíztől, és annak összetétele megfelel a vonatkozó jogszabályban meghatározott (így például biológiai, kémiai) határértékeknek;
 - 3. csatorna: egy vagy egyidejűleg több vízgazdálkodási feladat (vízátvezetés, vízpótlás, belvízelvezetés, mezőgazdasági és egyéb vízszolgáltatás) ellátására alkalmas vízilétesítmény;
 - 4. elhabolás: víz (folyó, patak, csatorna, tározó, tó) hullámzó mozgásának hatására a partban keletkezett rongálódás;
-- 5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő – a miniszter által – fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település árvízmentesítését szolgáló körtöltés;
+- 5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település árvízmentesítését szolgáló körtöltés;
 - 6. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság, aki/amely az érdekeltségi területen ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 - 7. érdekeltségi terület: víziközmű-társulat esetén azok a területek, amelyeken az általuk megvalósított vízilétesítmények szolgáltatása (vízellátás, szennyvízelvezetés, belterületi csapadék- vagy talajvízelvezetés) igénybe vehető;
 - 8. gyógyvíz: olyan ásványvíz, amelynek bizonyítottan gyógyhatása van és gyógyászati felhasználásának engedélyezése külön jogszabályok szerint történik;
@@ -808,36 +805,4 @@ E törvény alkalmazásában
 
 ### 2. számú melléklet az 1995. évi LVII. törvényhez
 
-#### Az állam kizárólagos tulajdonában lévő folyók, patakok, holtágak, mellékágak és azok medre
-
-Az állam kizárólagos tulajdonában vannak:
-
-- 1. a törvény 6. §-a szerinti, az államhatárt alkotó vagy metsző folyók, valamint
-  - a) a Duna-völgyben: aa) Mosoni-Duna 124 km ab) Szentendrei-Duna 32 km ac) Ráckevei-Duna 58 km ad) Marcal 22 km ae) Sió 121 km
-  - b) a Tisza-völgyben: ba) Zagyva 125 km bb) Hortobágy-Berettyó 79 km bc) Kettős-Körös 37 km bd) Hármas-Körös 91 km
-- 2. az 1. pontban felsorolt folyók árapasztó medrei;
-- 3. az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonába adásáról szóló 1991. évi XXXIII. törvény által nem említett holtágak és mellékágak;
-- 4. az államhatárt alkotó vagy metsző, valamint a 20 m3 másodpercenkénti torkolati vízszállítást meghaladó vízfolyások.
-
 ### 3. számú melléklet az 1995. évi LVII. törvényhez
-
-#### Az állam kizárólagos tulajdonában lévő vízilétesítmények
-
-Az állam kizárólagos tulajdonában lévő vízilétesítmények:
-
-- 1. a törvény 6. §-a szerinti, az államhatárt alkotó vagy metsző csatornák, valamint
-  - a) Duna—Tisza-csatorna,
-  - b) Kiskunsági-főcsatorna,
-  - c) Keleti-főcsatorna (KFCS),
-  - d) Nyugati-főcsatorna,
-  - e) K—III. és K—IV. jelű főcsatorna,
-  - f) Nagykunsági-főcsatorna (Keleti-ág, Nyugati-ág, NK III—2),
-  - g) Jászsági-főcsatorna;
-- 2. az 1 millió m3 tározó térfogatot meghaladó állandó jellegű belvíztározók, azok töltő-ürítő csatornáival együtt;
-- 3. az alábbi árvízvédelmi művek közül:
-  - a) azok az elsőrendű árvízvédelmi művek, amelyek kettőnél több település belterületét vagy legalább 1 km2/km fajlagos kiterjedésű ártéri öblözetet védenek;
-  - b) azok a másodrendű árvízvédelmi művek, amelyek ba) az elsőrendű árvízvédelmi mű használhatatlanná válása esetén, annak mentesített területén kettőnél több település belterületének ideiglenes védelmére alkalmasak, bb) az államhatár mentén húzódó, a külföldről betörő vizek ellen védő lokalizációs töltések, bc) az árvízi tározó töltő-ürítő és határoló vízilétesítményei;
-- 4. a 2. számú melléklet szerinti folyók, valamint az előző pontokban említett csatornák szabályozó művei, hajó- vagy egyéb zsilipei, árvízkapui, folyók duzzasztott terei;
-- 5. regionális víziközműből a közművagyon;
-- 6. a belvízöblözetek és a belvízrendszerek főcsatornáinak közös működtetését segítő összekötő vagy megcsapoló belvízcsatornák és a 2 m3/s torkolati vízszállító-képességet meghaladó belvízcsatornák, valamint az azok működéséhez szükséges műtárgyak;
-- 7. a 2. számú melléklet 4. pontja szerinti vízfolyások — 1 millió m3 árvízi tározó térfogatot meghaladó — tározói, valamint azok árapasztó medrei.

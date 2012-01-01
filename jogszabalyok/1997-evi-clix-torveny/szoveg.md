@@ -6,7 +6,7 @@ Az Országgyűlés az állam működése, illetőleg a lakosság ellátása szem
 
 ### I. Fejezet — A fegyveres biztonsági őrség
 
-1. § (1) Fegyveres biztonsági őrséggel kell védeni az állam működése, illetőleg a lakosság ellátása szempontjából kiemelkedően fontos tevékenységet, létesítményt, szállítmányt, ha a védelemre a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek (a továbbiakban: rendvédelmi szerv) jogszabállyal nem kötelezettek, de az őrzés a közbiztonság vagy a nemzeti vagyon védelme érdekében indokolt. Így különösen:
+1. § (1) Fegyveres biztonsági őrséggel kell védeni az állam működése, illetőleg a lakosság ellátása szempontjából kiemelkedően fontos tevékenységet, létesítményt, szállítmányt, ha a védelemre a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek (a továbbiakban: rendvédelmi szerv), illetve a Nemzeti Adó- és Vámhivatal jogszabállyal nem kötelezettek, de az őrzés a közbiztonság vagy a nemzeti vagyon védelme érdekében indokolt. Így különösen:
 
 - a) az állam biztonsága, illetve a honvédelem szempontjából fontos létesítményt;
 - b) a nemzetközi személy- vagy teherforgalomban működő repülőteret;
@@ -32,7 +32,7 @@ Az Országgyűlés az állam működése, illetőleg a lakosság ellátása szem
 
 jelleggel.
 
-(6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség és a rendvédelmi szervek szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum, illetve személyőrzési, kísérési feladatok ellátására, amelyekhez a jelen törvényben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.
+(6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség és a rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum, illetve személyőrzési, kísérési feladatok ellátására, amelyekhez a jelen törvényben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.
 
 1/A. § (1) Fegyveres biztonsági őrség létrehozására
 
@@ -167,7 +167,7 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 
 8. § (1) A fegyveres biztonsági őröket formaruhával és szolgálati jelvénnyel kell ellátni.
 
-(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a rendvédelmi szervek egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség objektumait őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
+(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a rendvédelmi szervek egyenruhájától, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományának egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség objektumait őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
 
 (3) A fegyveres biztonsági őrt az őrség működési területén, szolgálati úton, szállítmánykísérés során szolgálati igazolványa és jelvénye igazolja. A formaruhán ,,fegyveres biztonsági őr'' felirat helyezhető el. A munkáltatói hovatartozás a ruházat karrészén jelezhető.
 
@@ -267,7 +267,7 @@ alkalmazhat, illetve használhat.
 
 (5) A rendőrség a panaszról a beérkezését követő naptól számított tizenöt napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
 
-10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, valamint az egyesületekkel.
+10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, valamint az egyesületekkel.
 
 ### II. Fejezet — A természetvédelmi őrszolgálat
 
@@ -317,22 +317,22 @@ alkalmazhat, illetve használhat.
 
 (5) Ha a rendőrség a természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat illetékességi területét érintő fokozott ellenőrzést hajt végre, a fokozott ellenőrzés ideje alatt – a rendőrség kérésére – a természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat a feladatainak végrehajtását egyezteti a rendőrséggel.
 
-(6) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
+(6) A természetvédelmi őrszolgálat, valamint az önkormányzati természetvédelmi őrszolgálat tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
 
-15/A. § (1) A természetvédelmi őrnek és az önkormányzati természetvédelmi őrnek a tevékenysége folytatására való jogosultságát a természetvédelemért felelős miniszter által kiadott hatósági szolgálati igazolvány igazolja.
+15/A. § (1) A természetvédelmi őrnek és az önkormányzati természetvédelmi őrnek a tevékenysége folytatására való jogosultságát a természetvédelmi hatóság által kiadott hatósági szolgálati igazolvány igazolja.
 
 (2) A természetvédelmi őr és az önkormányzati természetvédelmi őr az intézkedés megkezdése előtt – ha az az intézkedés eredményességét veszélyezteti, az intézkedés befejezésekor – köteles magát hatósági szolgálati igazolvánnyal vagy sorszámozott szolgálati jelvénnyel igazolni. A hatósági szolgálati igazolvány tartalmazza a természetvédelmi őr vagy az önkormányzati természetvédelmi őr arcfényképét, nevét, a munkáltató szerv megnevezését és székhelyét.
 
-15/B. § (1) A természetvédelmi őr és az önkormányzati természetvédelmi őr részére a hatósági szolgálati igazolványt a természetvédelemért felelős miniszter a természetvédelmi őrszolgálat vagy az önkormányzati természetvédelmi őrszolgálat kezdeményezésére hivatalból állítja ki.
+15/B. § (1) A természetvédelmi őr és az önkormányzati természetvédelmi őr részére a hatósági szolgálati igazolványt a természetvédelmi hatóság a természetvédelmi őrszolgálat vagy az önkormányzati természetvédelmi őrszolgálat kezdeményezésére hivatalból állítja ki.
 
-(2) A természetvédelmi őrszolgálat és az önkormányzati természetvédelmi őrszolgálat haladéktalanul értesíti a természetvédelemért felelős minisztert arról, ha a természetvédelmi őr vagy az önkormányzati természetvédelmi őr hatósági szolgálati igazolványának visszavonására okot adó körülmény bekövetkezett.
+(2) A természetvédelmi őrszolgálat és az önkormányzati természetvédelmi őrszolgálat haladéktalanul értesíti a természetvédelmi hatóságot arról, ha a természetvédelmi őr vagy az önkormányzati természetvédelmi őr hatósági szolgálati igazolványának visszavonására okot adó körülmény bekövetkezett.
 
-(3) A természetvédelemért felelős miniszter haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a hatósági szolgálati igazolványt határozattal visszavonja, ha
+(3) A természetvédelmi hatóság haladéktalanul, de legkésőbb a tudomásra jutástól számított tizenöt napon belül a hatósági szolgálati igazolványt határozattal visszavonja, ha
 
 - a) a természetvédelmi őr vagy az önkormányzati természetvédelmi őr foglalkoztatási jogviszonya megszűnt,
 - b) a hatósági szolgálati igazolványban szereplő adatok megváltoztak.
 
-15/C. § (1) A természetvédelemért felelős miniszter a természetvédelmi őrökről és az önkormányzati természetvédelmi őrökről – a hatósági szolgálati igazolványuk hitelességének és a tevékenységüknek az ellenőrzése céljából – nyilvántartást vezet.
+15/C. § (1) A természetvédelmi hatóság a természetvédelmi őrökről és az önkormányzati természetvédelmi őrökről – a hatósági szolgálati igazolványuk hitelességének és a tevékenységüknek az ellenőrzése céljából – nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
@@ -347,7 +347,7 @@ alkalmazhat, illetve használhat.
 
 (3) A nyilvántartásból adattovábbításra irányuló kérelmet teljesíteni nem lehet.
 
-(4) A természetvédelemért felelős miniszter a nyilvántartásban szereplő adatokat a hatósági szolgálati igazolvány visszavonásáig kezeli a nyilvántartásban.
+(4) A természetvédelmi hatóság a nyilvántartásban szereplő adatokat a hatósági szolgálati igazolvány visszavonásáig kezeli a nyilvántartásban.
 
 (5) A természetvédelmi őr és az önkormányzati természetvédelmi őr neve, a munkáltató szerv megnevezése és címe közérdekből nyilvános adat, amelyet a természetvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
@@ -411,7 +411,7 @@ alkalmazhat, illetve használhat.
 
 (3) A mezőőr és a rendőrség közötti együttműködésre a 15. § (4) és (5) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
-(4) A mezőőr tevékenysége során együttműködik a katasztrófavédelemmel, a vám- és pénzügyőrséggel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
+(4) A mezőőr tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
 
 (5) Az (1)–(4) bekezdés előírásait kell megfelelően alkalmazni a külön törvényben meghatározott őrzési feladatokat ellátó halászati őrre.
 

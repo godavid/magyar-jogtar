@@ -2,11 +2,11 @@
 
 a konzuli védelemről
 
-Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt, a magyar állampolgárok konzuli védelmére vonatkozó rendelkezés végrehajtása érdekében, az állampolgárok emberi jogainak, alapvető szabadságainak, valamint a magyar állampolgárok és jogi személyek érdekeinek külföldön történő érvényre juttatása és védelme céljából, az államok közötti konzuli kapcsolatokat szabályozó nemzetközi szerződésekkel és szokásjogi szabályokkal összhangban, valamint – a Magyar Köztársaság európai uniós tagságára figyelemmel – az Európai Unió polgárságához kötődő jog érvényesítésére, az alábbi törvényt alkotja:
+Az Országgyűlés a magyar állampolgárok konzuli védelmére vonatkozó rendelkezés végrehajtása érdekében, az állampolgárok emberi jogainak, alapvető szabadságainak, valamint a magyar állampolgárok és jogi személyek érdekeinek külföldön történő érvényre juttatása és védelme céljából, az államok közötti konzuli kapcsolatokat szabályozó nemzetközi szerződésekkel és szokásjogi szabályokkal összhangban, valamint – Magyarország európai uniós tagságára figyelemmel – az Európai Unió polgárságához kötődő jog érvényesítésére, az alábbi törvényt alkotja:
 
 ### Alapvető rendelkezések
 
-1. § (1) A Magyar Köztársaság a magyar állampolgár érdekeinek külföldön történő védelmét a konzuli szolgálat útján látja el (a továbbiakban: konzuli védelem). A konzuli védelem ellátása érdekében a konzuli szolgálat a 4–13. §-okban meghatározott érdekvédelmi feladatokat, illetve a konzuli tisztviselő – a konzuli szolgálat keretében – a 19. § (3)–(4) bekezdéseiben foglalt közigazgatási hatósági feladatokat végzi.
+1. § (1) Magyarország a magyar állampolgár érdekeinek külföldön történő védelmét a konzuli szolgálat útján látja el (a továbbiakban: konzuli védelem). A konzuli védelem ellátása érdekében a konzuli szolgálat a 4–13. §-okban meghatározott érdekvédelmi feladatokat, illetve a konzuli tisztviselő – a konzuli szolgálat keretében – a 19. § (3)–(4) bekezdéseiben foglalt közigazgatási hatósági feladatokat végzi.
 
 (2) A konzuli védelem körébe eső feladatokon túl e törvény a konzuli szolgálat számára egyéb feladatokat is meghatároz, valamint rendelkezik a konzuli tisztviselő közjegyzői, továbbá a külpolitikáért felelős miniszter (a továbbiakban: miniszter) és a konzuli tisztviselő felülhitelesítési tevékenységéről. A konzuli feladatok végrehajtása során a konzuli szolgálat együttműködik hazai és külföldi szervezetekkel, valamint magánszemélyekkel. Nemzetközi szerződés, törvény vagy kormányrendelet a konzuli szolgálat részére további feladatokat is meghatározhat.
 
@@ -18,9 +18,9 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt, a magyar ál
 
 ### A konzuli szolgálat
 
-2. § (1) Konzuli szolgálat: a Magyar Köztársaság diplomáciai és konzuli képviselete – ideértve a tiszteletbeli konzuli tisztviselő által vezetett konzuli képviseletet is –, valamint a miniszter és a konzuli tisztviselő. A Magyar Köztársaság diplomáciai és konzuli képviseletét, valamint a konzuli tisztviselő munkáját a miniszter irányítja, ennek során gondoskodik a konzuli szolgálat feladatainak összehangolásáról és egységes jogalkalmazása feltételeinek megteremtéséről.
+2. § (1) Konzuli szolgálat: Magyarország diplomáciai és konzuli képviselete – ideértve a tiszteletbeli konzuli tisztviselő által vezetett konzuli képviseletet is –, valamint a miniszter és a konzuli tisztviselő. Magyarország diplomáciai és konzuli képviseletét, valamint a konzuli tisztviselő munkáját a miniszter irányítja, ennek során gondoskodik a konzuli szolgálat feladatainak összehangolásáról és egységes jogalkalmazása feltételeinek megteremtéséről.
 
-(2) A Magyar Köztársaság konzuli tisztviselője a diplomáciai vagy konzuli képviseleten a miniszter megbízása alapján konzuli feladatot ellátó személy (a továbbiakban: konzuli tisztviselő), ideértve a tiszteletbeli konzuli tisztviselőt is.
+(2) Magyarország konzuli tisztviselője a diplomáciai vagy konzuli képviseleten a miniszter megbízása alapján konzuli feladatot ellátó személy (a továbbiakban: konzuli tisztviselő), ideértve a tiszteletbeli konzuli tisztviselőt is.
 
 (3) A miniszter tiszteletbeli konzuli tisztviselőnek a fogadó vagy harmadik állam azon állampolgárát vagy a fogadó államban élő azt a magyar állampolgárt nevezheti ki, aki a magyar jog és a fogadó állam joga szerint is büntetlen előéletű, külön rendeletben meghatározott feltételek szerint alkalmas az e tisztséggel járó feladatok teljesítésére, és írásban vállalja azok ellátását. A tiszteletbeli konzuli tisztviselőt a miniszter jogszabályban meghatározott korlátozásokkal és terjedelemben bízhatja meg konzuli feladatok ellátásával.
 
@@ -46,7 +46,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt, a magyar ál
 
 (2) Más állampolgársággal is rendelkező magyar állampolgár a másik állampolgársága szerinti államban olyan mértékben jogosult a védelemre, amilyen mértékig azt a fogadó állam lehetővé teszi.
 
-(3) Olyan államban, ahol a Magyar Köztársaságnak nem működik diplomáciai vagy konzuli képviselete, – a (4) bekezdés rendelkezéseit nem érintve – nemzetközi szerződés vagy viszonosság alapján harmadik állam konzuli szolgálata is elláthatja a magyar állampolgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi. Nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat is elláthatja harmadik állam állampolgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
+(3) Olyan államban, ahol Magyarországnak nem működik diplomáciai vagy konzuli képviselete, – a (4) bekezdés rendelkezéseit nem érintve – nemzetközi szerződés vagy viszonosság alapján harmadik állam konzuli szolgálata is elláthatja a magyar állampolgár érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi. Nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat is elláthatja harmadik állam állampolgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
 
 (4) Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján magyar állampolgár érdekvédelmét az Európai Unió tagállama is elláthatja, feltéve, hogy azt a fogadó állam nem ellenzi. Európai uniós jogi aktus, nemzetközi szerződés vagy viszonosság alapján a magyar konzuli szolgálat ellátja az Európai Unió polgárának érdekvédelmét, feltéve, hogy azt a fogadó állam nem ellenzi.
 
@@ -74,7 +74,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt, a magyar ál
 
 (5) A miniszter különös méltánylást érdemlő esetekben kérelemre a konzuli kölcsön visszafizetése alól részben vagy egészben mentesítést adhat. A miniszter határozata a közigazgatási ügyekben eljáró bíróság előtt kizárólag semmisségére hivatkozva támadható meg.
 
-(6) A konzuli kölcsönre előirányzott keretet fejezeti kezelésű előirányzatként a Magyar Köztársaság költségvetésének a miniszter által vezetett minisztériumra vonatkozó költségvetési fejezetében kell megállapítani.
+(6) A konzuli kölcsönre előirányzott keretet fejezeti kezelésű előirányzatként a miniszter által vezetett minisztérium költségvetési fejezetében kell megállapítani.
 
 ### Segítségnyújtás baleset vagy erőszakos bűncselekmény áldozatainak, illetőleg súlyos, sürgős ellátást igénylő betegnek
 
@@ -151,7 +151,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt, a magyar ál
 
 ### Okirat-kiállítás, tanúsítványkészítés és letét kezelése
 
-14. § (1) A Magyar Köztársaságnak a miniszter által egyes közjegyzői feladatok végzésére felhatalmazott konzuli tisztviselője a magyar állampolgár érdekeihez közvetlenül kapcsolódó jognyilatkozatokról vagy jogügyletekről – a végintézkedést is beleértve – konzuli okiratot állíthat ki, és a jogilag jelentős tényekről és körülményekről konzuli tanúsítványt készíthet, okiratról hiteles fordítást készíthet, vagy a fordítás helyességét tanúsíthatja, továbbá okiratot, pénzt és egyéb értéket vehet át megőrzésre. Az okirat-kiállításra és tanúsítványkészítésre felhatalmazott konzuli tisztviselők jegyzékét a miniszter az általa vezetett minisztérium honlapján közzéteszi.
+14. § (1) Magyarországnak a miniszter által egyes közjegyzői feladatok végzésére felhatalmazott konzuli tisztviselője a magyar állampolgár érdekeihez közvetlenül kapcsolódó jognyilatkozatokról vagy jogügyletekről – a végintézkedést is beleértve – konzuli okiratot állíthat ki, és a jogilag jelentős tényekről és körülményekről konzuli tanúsítványt készíthet, okiratról hiteles fordítást készíthet, vagy a fordítás helyességét tanúsíthatja, továbbá okiratot, pénzt és egyéb értéket vehet át megőrzésre. Az okirat-kiállításra és tanúsítványkészítésre felhatalmazott konzuli tisztviselők jegyzékét a miniszter az általa vezetett minisztérium honlapján közzéteszi.
 
 (2) Az (1) bekezdés szerinti jogkörben eljáró konzuli tisztviselő a konzuli okirat készítésénél és a konzuli tanúsítvány kiállításánál a közjegyzőkről szóló törvény rendelkezései szerint jár el.
 
@@ -234,7 +234,7 @@ Az Országgyűlés a Magyar Köztársaság Alkotmányában foglalt, a magyar ál
 
 18. § (1) Az érdekvédelemmel kapcsolatos iratokba a védelemben részesülő ügyfél és azok a személyek tekinthetnek be, akik számára a 16. § alapján adat szolgáltatható.
 
-(2) A betekintés során megismert, nyilvánosságra kerülése esetén az érdekvédelem további ellátását hátrányosan befolyásoló adat vagy a Magyar Köztársaság és a fogadó állam közötti kapcsolatok kedvezőtlen irányban történő befolyásolására alkalmas adat vagy körülmény nem hozható nyilvánosságra.
+(2) A betekintés során megismert, nyilvánosságra kerülése esetén az érdekvédelem további ellátását hátrányosan befolyásoló adat vagy Magyarország és a fogadó állam közötti kapcsolatok kedvezőtlen irányban történő befolyásolására alkalmas adat vagy körülmény nem hozható nyilvánosságra.
 
 ### Közigazgatási hatósági eljárási szabályok
 

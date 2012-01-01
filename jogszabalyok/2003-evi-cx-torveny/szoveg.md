@@ -6,7 +6,7 @@ Az államháztartás feladatainak ellátásához szükséges bevételek biztosí
 
 ### Általános rendelkezések
 
-1. § (1) E törvény rendelkezései alapján regisztrációs adót (a továbbiakban: adó) kell fizetni a Magyar Köztársaság területén (a továbbiakban: belföld) forgalomba helyezendő személygépkocsi és lakóautó (a továbbiakban: személygépkocsi), valamint motorkerékpár (a továbbiakban a személygépkocsi és a motorkerékpár együtt: gépjármű) után.
+1. § (1) E törvény rendelkezései alapján regisztrációs adót (a továbbiakban: adó) kell fizetni a Magyarország területén (a továbbiakban: belföld) forgalomba helyezendő személygépkocsi és lakóautó (a továbbiakban: személygépkocsi), valamint motorkerékpár (a továbbiakban a személygépkocsi és a motorkerékpár együtt: gépjármű) után, továbbá a gépjárműflotta-üzemeltető személygépkocsijának belföldi illetőségű személy részére történő bérbeadása esetén.
 
 (2) Az adóból befolyó bevétel a központi költségvetést illeti.
 
@@ -31,6 +31,8 @@ Az államháztartás feladatainak ellátásához szükséges bevételek biztosí
 - 13. referencia gépjármű:
   - a) az adó különös szabályok szerinti megállapítása alá tartozó gépjárművel azonos gyártmányú, típusú, változatú és kivitelű gépjármű, amelyet az adó különös szabályok szerinti megállapítása alá tartozó gépjármű forgalomba helyezésének időszakában új állapotban vezettek be a belföldi piacra, vagy
   - b) azonos gépjármű vagy arra vonatkozó adatok hiányában az adó különös szabályok szerinti megállapítása alá tartozó gépjárműhöz az a) pontban felsorolt ismérveket tekintve hasonló gépjármű.
+- 14. elektronikus eljárás: a vámhatóság által üzemeltetett informatikai rendszeren vagy a központi elektronikus szolgáltató rendszeren (ügyfélkapun) keresztül kezdeményezett, az adó megállapítására irányuló elsőfokú adóigazgatási eljárás.
+- 15. gépjárműflotta-üzemeltető: az az Európai Gazdasági Térségben székhellyel rendelkező, gépjármű-bérbeadással foglalkozó személy, szervezet, amely tárgyév január 1-jén legalább 100 darab, külföldi hatósági jelzéssel ellátott személygépkocsi tulajdonosa, üzembentartója és a bérbeadást megelőző utolsó lezárt üzleti éve árbevételének legalább 75% -a gépjármű bérbeadásból, lízingbeadásból származik.
 
 ### Adókötelezettség
 
@@ -44,6 +46,8 @@ Az államháztartás feladatainak ellátásához szükséges bevételek biztosí
 
 feltéve, hogy annak közvetlen következményeként a gépjárművet forgalomba helyezik.
 
+(3) Adókötelezettséget keletkeztet a flotta-üzemeltető személygépkocsijának belföldi illetőségű személy részére történő bérbeadása.
+
 ### Az adó alanya
 
 4. § (1) Az adó alanya az a természetes személy, jogi személy, jogi személyiség nélküli szervezet, akinek (amelynek) a nevére a forgalomba helyezést kezdeményezik.
@@ -56,7 +60,7 @@ feltéve, hogy annak közvetlen következményeként a gépjárművet forgalomba
 
 (5) Közös tulajdon esetén a tulajdonostársak tulajdoni hányaduk arányában minősülnek adóalanyoknak. Az adó megfizetéséért a tulajdonostársak egyetemlegesen felelnek.
 
-(6) Ha az adóalany székhelye, állandó telephelye vagy lakóhelye, illetve szokásos tartózkodási helye külföldön van, az adó alanya köteles az adókötelezettség teljesítése érdekében belföldön lakóhellyel vagy székhellyel rendelkező, az Art.-ban meghatározott pénzügyi képviselőt meghatalmazni (a továbbiakban: képviselő). A képviselő az adókötelezettség teljesítéséért az adóalannyal egyetemlegesen felelős.
+(6) Ha az adóalany székhelye, állandó telephelye vagy lakóhelye, illetve szokásos tartózkodási helye külföldön van, az adó alanya köteles az adókötelezettség teljesítése érdekében belföldön lakóhellyel vagy székhellyel rendelkező üzembentartót, vagy az Art.-ban meghatározott pénzügyi képviselőt meghatalmazni (a továbbiakban: képviselő). A képviselő az adókötelezettség teljesítéséért az adóalannyal egyetemlegesen felelős.
 
 ### Adóelőleg fizetésére kötelezett személy
 
@@ -84,7 +88,7 @@ keletkezik.
 
 8. § (1) A vámhatóság az adót a gépjárművek egyes kategóriájában a melléklet alapján állapítja meg. Azon gépjármű esetében, amelyre az adót a melléklet II. részének figyelembevételével kell megállapítani, az adóalany – választása szerint – indítványozhatja az adó 10/A–10/G. §-okban foglalt különös szabályok szerinti megállapítását.
 
-(2) Ha a személygépkocsit átalakították, az átalakított személygépkocsi forgalomba helyezésekor az adó összegét az átalakítás utáni és az átalakítás előtti állapot közti adó különbözeteként kell megállapítani.
+(2) Átalakítás esetén az átalakított gépjármű forgalomba helyezésekor az adó összegét az átalakítás utáni és az átalakítás előtti állapot közti adó különbözeteként kell megállapítani.
 
 (3) Ha a különbözet előjele pozitív, az adót az adóalany köteles a vámhatóságnak megfizetni.
 
@@ -109,7 +113,21 @@ keletkezik.
 
 (7) Az e törvényben nem szabályozott, az adózással kapcsolatos egyéb eljárásban az Art. rendelkezéseit kell alkalmazni.
 
-10. §
+(8) Adóigazgatási eljárásban képviselőként vámjogi képviselőként eljáró személy is jogosult eljárni.
+
+(9) Az e törvény hatálya alá tartozó személyek vámazonosító szám megállapításával összefüggő nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben az állami adó- és vámhatóság jár el. Az említett eljárásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
+
+### Az elektronikus eljárás szabályai
+
+10. § (1) Elektronikus eljárás a Regisztrációs Adó Adatlap (a továbbiakban: RAA) elektronikus beküldésével kezdeményezhető.
+
+(2) Nincs helye elektronikus eljárásnak:
+
+- a) az adó különös szabályok szerinti megállapítására irányuló eljárásban,
+- b) az adó-visszaigénylésre irányuló eljárásban,
+- c) jogorvoslati eljárásban.
+
+(3) Elektronikus eljárást az kezdeményezhet, aki – az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében – a vámhatóság által üzemeltetett informatikai rendszer igénybevétele esetén a vámhatóságnál, az ügyfélkapu igénybevétele esetén az okmányirodánál és a vámhatóságnál regisztráltatta magát. Az elektronikus RAA-t a regisztrált személy a vámhatóság által közzétett tájékoztatás szerint küldi be.
 
 ### Az adó különös szabályok szerinti megállapítása
 
@@ -185,6 +203,7 @@ keletkezik.
   - ba) műszaki állapota miatt a forgalomba helyezésre igazoltan alkalmatlanná vált;
   - bb) megsemmisülése vagy eltulajdonítása (ellopása, elrablása) miatt a forgalomba helyezése igazoltan ellehetetlenült;
 - c) a gépjármű forgalomba helyezése adómentes.
+- d) a közlekedési igazgatási hatóság a gépjármű forgalomba helyezésére irányuló kérelmet elutasította.
 
 (2) Az (1) bekezdés a) pontjában említett esetben a kiszállítás, kivitel tényét
 
@@ -192,13 +211,16 @@ keletkezik.
 - b) egyéb, az a) pont alá nem tartozó esetekben pedig
   - ba) saját fuvareszközzel történő kiszállításnál belső elszámolással,
   - bb) fuvareszköz igénybevétele nélküli kivitelnél a Z betűjelű rendszám visszajuttatásával,
-  - bc) harmadik személy közreműködésével történő kiszállításnál nemzetközi fuvarlevéllel
+  - bc) harmadik személy közreműködésével történő kiszállításnál nemzetközi fuvarlevéllel,
+  - bd) a Közösség más tagállamában történő forgalomba helyezés esetén a forgalmi engedély vagy törzskönyv eredeti példányának bemutatásával
 
 kell igazolni.
 
 (3) Az adó visszaigénylésének feltétele az is, hogy a gépjármű adóigazolását legkésőbb a kérelem benyújtásával egyidejűleg a vámhatóságnak visszaszolgáltassák.
 
 (4) Abban az esetben, ha az (1) bekezdésben meghatározottakhoz képest a gépjárművet utóbb mégis forgalomba helyezik, újból adókötelezettség keletkezik.
+
+(5) Ha a gépjárműflotta-üzemeltető által bérbe adott személygépkocsira kötött bérleti szerződés az abban foglalt bérleti időtartam lejártát megelőzően megszűnik, akkor a bérbe adott személygépkocsi után megfizetett adó és a szerződés lejárta alapján számított adó különbözetét az adóalany visszaigényelheti.
 
 14. § (1) Ha a 8. § (2) bekezdése szerinti esetben a különbözet előjele negatív, a gépjármű átalakítása előtti forgalomba helyezéskor megfizetett és az átalakítást követő forgalomba helyezéskor számított adó különbözetét az adóalany a vámhatósághoz benyújtott kérelemmel visszaigényelheti.
 
@@ -212,6 +234,16 @@ kell igazolni.
 
 16. §
 
+### Gépjárműflotta-üzemeltető által bérbe adott személygépkocsi adókötelezettsége
+
+16/A. § (1) A gépjárműflotta-üzemeltetőt a belföldi illetőségű személynek, szervezetnek – 1 napon túli időtartamra – bérbe adott személygépkocsija után a Melléklet III. rész szerinti adófizetési kötelezettség terheli.
+
+(2) Az adózó azt, hogy gépjárműflotta-üzemeltetőnek minősül a tulajdonában álló vagy üzembentartói jogával érintett személygépkocsi honossága szerint illetékes járműnyilvántartó, cégnyilvántartó hatóság és az árbevétel megoszlására vonatkozóan könyvvizsgáló által kiadott hiteles magyar fordítású igazolás bemutatásával tanúsítja.
+
+(3) Az adózó a (2) bekezdés szerinti feltételek teljesülését adókötelezettségének adóévi első ízben való keletkezését követő, míg a személygépkocsi bérbeadási szerződését – annak megkötésétől számított – 15 napon belül nyújtja be a vámhatósághoz. Az adót a vámhatóság a bérleti szerződés benyújtását követő 3 munkanapon belül határozattal állapítja meg a gépjárműflotta-üzemeltető terhére.
+
+(4) A vámhatóság az adó megfizetéséről a személygépkocsi rendszámát, alvázszámát, valamint a bérbeadó és bérlő adatait tartalmazó – a közúti közlekedésről szóló törvény 20. §-ának (4) bekezdése szerinti bírság alól mentesítő – igazolást ad ki az adó megfizetését követő 3 munkanapon belül, melyet a rendőrhatóság részére is továbbít.
+
 ### Záró és átmeneti rendelkezések
 
 17. § (1) E törvény – a (2) bekezdésben és a 18. §-ban megfogalmazott eltéréssel – 2004. február 1. napján lép hatályba, rendelkezéseit a hatálybalépést követően forgalomba helyezett gépjárművek esetén kell alkalmazni.
@@ -220,9 +252,9 @@ kell igazolni.
 
 18. § (1) 2004. február 1. napja előtt keletkezett fogyasztásiadó-kötelezettséget a Fat. 2004. január 31. napján hatályos előírásai szerint kell teljesíteni.
 
-(2) A Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napja előtt keletkezett fogyasztásiadó-kötelezettséget az Art. előírásai szerint kell teljesíteni.
+(2) A 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napja előtt keletkezett fogyasztásiadó-kötelezettséget az Art. előírásai szerint kell teljesíteni.
 
-(3) E törvény 2. §-ának 4. pontja és 11. §-ának (3) bekezdése a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+(3) E törvény 2. §-ának 4. pontja és 11. §-ának (3) bekezdése a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
 (4)–(7)
 
@@ -248,19 +280,18 @@ Adótételek az egyes adókategóriákban
 
 - 1. Adótételek személygépkocsik esetén
 
-| Adó-kate-gória |  |  | A személygépkocsi műszaki tulajdonságai | Adótétel[A személygépkocsi környezetvédelmi osztályba sorolásaa közúti járművek forgalomba helyezésének és forgalombantartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉMrendelet 5. számú mellékletének II. pontja szerint] |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 8-nál jobb | 6–8 | 4 | 4-nél rosszabb |
-| 1. |  | Otto-motoros személygépkocsi 1100 cm3-ig és dízelmotoros személygépkocsi 1300 cm3-ig | 250 000 Ft/db | 372 000 Ft/db | 499 000 Ft/db | 749 000 Ft/db |
-| 2. |  | Otto-motoros személygépkocsi 1101–1400 cm3-ig és dízelmotoros személygépkocsi 1301–1500 cm3-ig | 361 000 Ft/db | 542 000 Ft/db | 722 000 Ft/db | 1 083 000 Ft/db |
-| 3. |  | Otto-motoros személygépkocsi 1401–1600 cm3-ig és dízelmotoros személygépkocsi 1501–1700 cm3-ig | 478 000 Ft/db | 722 000 Ft/db | 966 000 Ft/db | 1 434 000 Ft/db |
-| 4. |  | Otto-motoros személygépkocsi 1601–1800 cm3-ig és dízelmotoros személygépkocsi 1701–2000 cm3-ig | 743 000 Ft/db | 1 104 000 Ft/db | 1 476 000 Ft/db | 2 230 000 Ft/db |
-| 5. |  | Otto-motoros személygépkocsi 1801–2000 cm3-ig és dízelmotoros személygépkocsi 2001–2500 cm3-ig | 1 020 000 Ft/db | 1 529 000 Ft/db | 2 039 000 Ft/db | 3 059 000 Ft/db |
-| 6. |  | Otto-motoros személygépkocsi 2001–2500 cm3-ig és dízelmotoros személygépkocsi 2501–3000 cm3-ig | 1 466 000 Ft/db | 2 198 000 Ft/db | 2 931 000 Ft/db | 4 397 000 Ft/db |
-| 7. |  | Otto-motoros személygépkocsi 2501–3000 cm3-ig és dízelmotoros személygépkocsi 3001–3500 cm3-ig | 2 230 000 Ft/db | 3 345 000 Ft/db | 4 460 000 Ft/db | 6 691 000 Ft/db |
-| 8. |  | Otto-motoros személygépkocsi 3000 cm3 felett és dízelmotoros személygépkocsi 3500 cm3 felett | 3 207 000 Ft/db | 4 821 000 Ft/db | 6 425 000 Ft/db | 9 622 000 Ft/db |
-| 9. |  | A 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének II. pontja szerinti 5 környezetvédelmi osztályba tartozó elektromos meghajtású, illetőleg hybrid (elektromos és Otto-, vagy elektromos és dízelmotoros) hajtású személygépkocsi | 190 000 Ft/db |  |  |  |
-| 10. |  | A 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének II. pontja szerinti 5 környezetvédelmi osztályba tartozó, a 9. pont alá nem tartozó egyéb személygépkocsi | 380 000 Ft/db |  |  |  |
+| Adó- kategória | A személygépkocsi műszaki tulajdonságai | Adótétel [A személygépkocsi környezetvédelmi osztályba sorolása a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének II. pontja szerint] |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | 11-nél jobb | 9–11 | 6-8 | 4 | 4-nél rosszabb |
+| 1. | Otto-motoros személygépkocsi 1100 cm3-ig és dízelmotoros személygépkocsi 1300 cm3-ig | 45 000 Ft/db | 180 000 Ft/db | 270 000 Ft/db | 360 000 Ft/db | 540 000 Ft/db |
+| 2. | Otto-motoros személygépkocsi 1101–1400 cm3-ig és dízelmotoros személygépkocsi 1301–1500 cm3-ig | 65 000 Ft/db | 260 000 Ft/db | 390 000 Ft/db | 520 000 Ft/db | 780 000 Ft/db |
+| 3. | Otto-motoros személygépkocsi 1401–1600 cm3-ig és dízelmotoros személygépkocsi 1501–1700 cm3-ig | 85 000 Ft/db | 340 000 Ft/db | 510 000 Ft/db | 680 000 Ft/db | 1 020 000 Ft/db |
+| 4. | Otto-motoros személygépkocsi 1601–1800 cm3-ig és dízelmotoros személygépkocsi 1701–2000 cm3-ig | 135 000 Ft/db | 540 000 Ft/db | 810 000 Ft/db | 1 080 000 Ft/db | 1 620 000 Ft/db |
+| 5. | Otto-motoros személygépkocsi 1801–2000 cm3-ig és dízelmotoros személygépkocsi 2001–2500 cm3-ig | 185 000 Ft/db | 740 000 Ft/db | 1 110 000 Ft/db | 1 480 000 Ft/db | 2 220 000 Ft/db |
+| 6. | Otto-motoros személygépkocsi 2001–2500 cm3-ig és dízelmotoros személygépkocsi 2501–3000 cm3-ig | 265 000 Ft/db | 1 060 000 Ft/db | 1 590 000 Ft/db | 2 120 000 Ft/db | 3 180 000 Ft/db |
+| 7. | Otto-motoros személygépkocsi 2500 cm3 felett és dízelmotoros személygépkocsi 3000 cm3 felett | 400 000 Ft/db | 1 600 000 Ft/db | 2 400 000 Ft/db | 3 200 000 Ft/db | 4 800 000 Ft/db |
+| 8. | A 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének II. pontja szerinti 5 környezetvédelmi osztályba tartozó elektromos meghajtású, kizárólag elektromos úton tölthető személygépkocsi | 0 Ft/db |  |  |  |  |
+| 9. | A 6/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének II. pontja szerinti 5 környezetvédelmi osztályba tartozó hybrid (elektromos és Otto-, vagy elektromos és dízelmotoros) hajtású, illetőleg a 8. pont alá nem tartozó egyéb személygépkocsi | 76 000 Ft/db |  |  |  |  |
 
 - 2. Az adó összege motorkerékpárok esetén A gépjármű e törvény szerinti kategóriába sorolását, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolási adatait a közlekedési hatóság a forgalomba helyezés engedélyezésének eljárásában állapítja meg, és a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon rögzíti.
 
@@ -276,7 +307,9 @@ Adótételek az egyes adókategóriákban
 
 Az adó összegének meghatározása a gépjármű forgalomba helyezésétől számított időtartamfigyelembevételével
 
-Az adó összegét a vámhatóság az alábbi táblázat és képlet együttes alkalmazásával állapítja meg. A számításnál minden megkezdett hónap egész hónapnak minősül. E melléklet alkalmazásában forgalomba helyezés alatt a közlekedési hatóság által lefolytatott eljárásban, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlap 42. számú rovatban rögzített első forgalomba helyezés időpontja, illetve ennek hiányában a B nemzetközi kóddal jelölt 43. számú rovatban rögzített első hazai nyilvántartásba vétel időpontja értendő. Amennyiben egyik rovatban sem található adat, úgy a gépjármű esetében e melléklet I. részében meghatározott adótételek e melléklet II. részében található előírások figyelembevétele nélkül alkalmazandók.
+Az adó összegét a vámhatóság az alábbi táblázat és képlet együttes alkalmazásával állapítja meg. A számításnál minden megkezdett hónap egész hónapnak minősül. E melléklet alkalmazásában forgalomba helyezés alatt a közlekedési hatóság által lefolytatott eljárásban, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon vagy az egyedi forgalomba helyezési engedélyen rögzített első forgalomba helyezés vagy az első hazai nyilvántartásba vétel időpontja értendő. Ezen adatok hiányában a gépjármű esetében e melléklet I. részében meghatározott adótételek e melléklet II. részében található előírások figyelembevétele nélkül alkalmazandók.
+
+Elektronikus eljárás esetén a Műszaki adatlap meglétét és adatai valódiságát a vámhatóság a Nemzeti Közlekedési Hatóság és a vámhatóság között fennálló elektronikus adatkapcsolaton keresztül ellenőrzi.
 
 | I. A gépjármű forgalomba helyezésétől az adóigazgatási eljárás kezdetének hónapjáig eltelt hónapok száma | II. A Melléklet I. része szerinti adótétel csökkenés mértéke |
 | --- | --- |
@@ -312,3 +345,24 @@ k = A gépjármű forgalomba helyezésétől számított időtartam utolsó idő
 T = Az adóigazgatási eljárás kezdetének hónapját magában foglaló, a táblázat I. oszlopában meghatározott időtartamon belüli hónapok száma;
 
 t = a gépjármű forgalomba helyezésétől számított hónapok száma csökkentve a „K” adócsökkentő mértékhez tartozó, a táblázat I. oszlopa szerinti, felső korlátként megállapított hónapok számával.
+
+#### III.
+
+Az adó összege a flotta-üzemeltető által bérbe adott személygépkocsi vonatkozásában
+
+| I. A személygépkocsi Magyarországon való közlekedésének megkezdése és a bérleti szerződésből hátra levő időtartam közötti hónapok száma | II. Fizetendő adó a Melléklet I. és II. része szerint számított adó százalékában |
+| --- | --- |
+| 2-ig | 4% |
+| 3–6 | 8% |
+| 7–12 | 16% |
+| 13–18 | 24% |
+| 19–24 | 32% |
+| 25–30 | 40% |
+| 31–36 | 48% |
+| 37–42 | 56% |
+| 43–48 | 64% |
+| 49–54 | 72% |
+| 55–60 | 80% |
+| 61–90 | 87% |
+| 91–120 | 94% |
+| 121– | 100% |

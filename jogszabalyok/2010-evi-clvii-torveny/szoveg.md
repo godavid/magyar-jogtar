@@ -21,7 +21,7 @@ Az Országgyűlés felismerve, hogy az állami szervek által kezelt, a nemzeti 
 
 (6) Az (5) bekezdésben meghatározott egyedi felmentés megadható az időszakosan jelentkező adatfeldolgozási feladatok hatékony ellátásának biztosítása érdekében is, ha azok határidőben való ellátása a rendelkezésre álló erőforrások mellett más módon nem lehetséges. Az egyedi felmentés határozott időre adható meg. Az egyedi felmentés megadását megelőzően a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a tervezett egyedi felmentés indokáról, tartalmáról és időtartamáról a Kormányt tájékoztatja.
 
-3. § A 2. § (3) bekezdése szerint meghatározott nyilvántartásokhoz kapcsolódó adatfeldolgozási műveletet az adatfeldolgozó kizárólag a Magyar Köztársaság területén végezhet.
+3. § A 2. § (3) bekezdése szerint meghatározott nyilvántartásokhoz kapcsolódó adatfeldolgozási műveletet az adatfeldolgozó kizárólag Magyarország területén végezhet.
 
 4. § (1) A 2. § (3) bekezdése szerint meghatározott nyilvántartások közül az elektronikus úton vezetett nyilvántartások elektronikus adatfeldolgozása során az adatfeldolgozó az elektronikus adatfeldolgozáshoz használt informatikai rendszerek (a továbbiakban: informatikai rendszerek) személyi, fizikai, adminisztratív és elektronikus biztonságát a (2)–(4) bekezdésben foglaltak szerint köteles biztosítani.
 
@@ -29,7 +29,7 @@ Az Országgyűlés felismerve, hogy az állami szervek által kezelt, a nemzeti 
 
 (3) Az elektronikus adatfeldolgozást végző adatfeldolgozó az elektronikus adatfeldolgozás során bekövetkezett biztonsági eseményekről köteles az érintett adatkezelőt tájékoztatni.
 
-(4) Ha meghatározott, elektronikus adatfeldolgozást végző adatfeldolgozó megbízása a 2. § (2) bekezdése szerint kötelező, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter (a továbbiakban: miniszter) az elektronikus adatfeldolgozási tevékenység ellátásának finanszírozására közszolgáltatási szerződést köt az adatfeldolgozóval. A közszolgáltatási szerződés alapján az elektronikus adatfeldolgozási tevékenység ellenértékét a miniszter viseli. A közszolgáltatási szerződés egyebekben nem érinti az adatkezelőnek és az adatfeldolgozónak az adatfeldolgozással kapcsolatos jogait és kötelezettségeit, valamint az adatfeldolgozással kapcsolatos, a személyes adatok védelmére vonatkozó törvényi szabályok szerinti felelősségét.
+(4)
 
 5. § A Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezete a következő III/A. címmel és az azt követő 224/A. §-sal egészül ki:
 

@@ -33,7 +33,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 (2) E törvény alkalmazásában:
 
 - a) társadalombiztosítási nyugdíj: amit a Tny. társadalombiztosítási nyugellátásként megjelöl,
-- b) nyugdíjkorhatár: 1. az az életkor, melyet a Tny. az öregségi nyugdíjra való jogosultság feltételeként meghatároz, 2. a nyugdíjkorhatár betöltésével esik egy tekintet alá az az időpont, amelytől a pénztártag társadalombiztosítási nyugellátásban, így öregségi nyugdíjban (ideértve a korengedményes nyugdíjat, előnyugdíjat, bányásznyugdíjat, egyes művészeti tevékenységet folytatók öregségi nyugdíját, ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott öregségi nyugdíjat is, valamint a szolgálati nyugdíjat), a rokkantsági és baleseti rokkantsági nyugdíjban (ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott rendszeres rokkantsági segélyt is), továbbá növelt összegű öregségi és munkaképtelenségi járadékban részesül,
+- b) nyugdíjkorhatár: 1. a társadalombiztosítási nyugellátásról szóló törvény szerinti öregségi nyugdíjkorhatár, 2. az az időpont, amelytől a pénztártag öregségi nyugdíjban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban) vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
 - c) pénztártag: az a természetes személy, aki pénztárba belép és e törvény szerint tagdíjat fizet, illetve a pénztártól nyugdíjszolgáltatásban részesül,
 - d) tagdíj: az az összeg, amelyet a pénztár tagja, a pénztár számára megfizet
 - e) egyéni számla: az a nyilvántartás, amelyen a felhalmozási időszakban a pénztártag követelése, illetve nyugdíjba vonuláskor a részére járó nyugdíjszolgáltatás megállapítása alapul,
@@ -41,7 +41,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 - g) biztonsági tartalékok: az egyéni számlákhoz és a szolgáltatási tartalékokhoz kapcsolódó kockázatok kiegyenlítésére szolgáló tartalékok,
 - h) felhalmozási időszak: a tagsági viszony kezdetétől a nyugdíjszolgáltatás megállapításáig terjedő időszak,
 - i) járadékos időszak: a nyugdíjszolgáltatás megállapításától kezdődően a szolgáltatás igénybevételének tartamával megegyező időszak,
-- j) nyugdíjszolgáltatás: a nyugdíjkorhatár elérésekor, vagy a pénztártag kérése alapján a nyugdíjkorhatár elérése után, továbbá ha a pénztártag munkaképesség-csökkenése eléri a rokkantsági nyugdíj megállapításához szükséges mértéket vagy egészségkárosodása eléri a rokkantsági nyugdíj megállapításához szükséges mértéket és nem rehabilitálható, illetőleg a pénztártag elhalálozása esetén hozzátartozója részére, az egyéni számláján nyilvántartott összeg mint fedezet alapján megállapított, a pénztártag által választott szolgáltatáshoz tartozó szolgáltatási tartalékból folyósított nyugdíjjáradék, a hozzátartozó, illetve kedvezményezett (a továbbiakban: kedvezményezett) járadéka, és az e törvényben szabályozott egy összegben történő pénzbeli kifizetés,
+- j) nyugdíjszolgáltatás: a nyugdíjkorhatár elérésekor, vagy a pénztártag kérése alapján a nyugdíjkorhatár elérése után, illetőleg a pénztártag elhalálozása esetén hozzátartozója részére, az egyéni számláján nyilvántartott összeg mint fedezet alapján megállapított, a pénztártag által választott szolgáltatáshoz tartozó szolgáltatási tartalékból folyósított nyugdíjjáradék, a hozzátartozó, illetve kedvezményezett (a továbbiakban: kedvezményezett) járadéka, és az e törvényben szabályozott egy összegben történő pénzbeli kifizetés,
 - k) társadalombiztosítási jogszabályok: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.), a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.), valamint a Tbj. 13. §-ában hivatkozott külön jogszabály és nemzetközi egyezmény,
 - l)
 - m)
@@ -54,14 +54,14 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 - t) zárt pénztár: olyan pénztár, amely szakmai vagy más szervezési elv alapján a pénztár lehetséges tagjainak körét meghatározza,
 - u) szakmai egyesület: olyan egyesület, amelyben a taggá válás feltétele valamely szakmához való tartozás,
 - v) a tag követelése: a felhalmozási időszakban a tag egyéni számlájának egyenlege, a járadékos időszakban a tag által választott szolgáltatás tartalékából az őt a jövőben még megillető szolgáltatás értéke, a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag egyéni számlaegyenlege, valamint a Pénztárak Garanciaalapja garanciális kifizetésekre fordítható pénzeszközeinek az egy főre jutó összege.
-- x) munkáltató: az, akivel a pénztártag munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi szolgálati viszonyban áll, illetve a Magyar Honvédség, a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok, a hivatásos állományú tagjaik vonatkozásában, tekintet nélkül arra, hogy teljes vagy részmunkaidőben történik a foglalkoztatás, továbbá a 26. § (5) bekezdése alkalmazásánál a Tbj. 4. §-a a) pontjának 1–3. alpontja, a 22. § alkalmazásánál a Tbj. 4. §-ának a) pontja szerinti foglalkoztató,
+- x) munkáltató: az, akivel a pénztártag munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi szolgálati viszonyban áll, illetve a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a polgári nemzetbiztonsági szolgálatok, a hivatásos állományú tagjaik vonatkozásában, tekintet nélkül arra, hogy teljes vagy részmunkaidőben történik a foglalkoztatás, továbbá a 26. § (5) bekezdése alkalmazásánál a Tbj. 4. §-a a) pontjának 1–3. alpontja, a 22. § alkalmazásánál a Tbj. 4. §-ának a) pontja szerinti foglalkoztató,
 - y) közeli hozzátartozó: a Ptk. 685. §-ának b) pontjában megjelölt közeli hozzátartozó, valamint az élettárs,
 - z) szolgáltató: az a természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság, amely a pénztárral kötött szerződés alapján a pénztár részére a pénztárüzem működésének részét képező, azt lehetővé tevő, elősegítő, illetve a pénztári szolgáltatásokat ténylegesen nyújtó tevékenységet végez. Szolgáltatónak minősül különösen az, aki (amely) a pénztár részére letétkezelői tevékenységet folytat, amelyhez a pénztár a befektetési üzletmenetét, illetve a könyvelése, nyilvántartásai vezetését kihelyezte, illetve amely a pénztár részére tagszervezést végez, valamint a pénztár tagja részére járadékszolgáltatást teljesítő biztosító intézet. Szolgáltatónak minősül az is, aki (amely) az e pontban meghatározott szolgáltatóval kötött szerződés alapján az előzőek szerinti, pénztárral kapcsolatos tevékenységet végez,
 - zs) értékelési különbözet céltartaléka: a magánnyugdíjpénztárak befektetési és gazdálkodási tevékenységéről szóló jogszabályban felsorolt eszközcsoportokba tartozó eszközök esetében az üzleti év mérleg fordulónapjára, illetve a negyedév utolsó napjára vonatkozóan meghatározott felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében képzett céltartalék. Az értékelési különbözet az adott eszközcsoportokon belül elkülönítetten, a források között a működési, a fedezeti (választható befektetési portfóliót biztosító rendszert működtető pénztárak esetén választható befektetési portfóliónként), illetve a likviditási céltartalékon belül értékelési különbözetből képzett céltartalékként jelenik meg;
   - zsa) kihelyezés: a pénztár feladatkörébe tartozó tevékenységének e tevékenység ellátásával üzletszerűen foglalkozó szervezet (szolgáltató) által, szerződés alapján történő megvalósítása,
   - zsb) kiszervezés: tevékenység olyan kihelyezése, melynek során adatkezelés vagy adatfeldolgozás is megvalósul,
-  - zsc) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatkezelési tevékenység,
-  - zsd) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatfeldolgozási tevékenység,
+  - zsc) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatkezelési tevékenység,
+  - zsd) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatfeldolgozási tevékenység,
   - zse) elszámolóegység: a tagok felhalmozási időszakban fennálló követelésének, valamint a függő tételeknek a kimutatására, nyilvántartására szolgáló, napi árfolyammal rendelkező egység;
   - zsf) ingatlanfejlesztés: minden épület és műtárgy (a továbbiakban együtt: építmény) építési, szerelési munkáival, elsődlegesen az építmény létrehozásával, átépítésével, felújításával kapcsolatos tervező, előkészítő és kivitelező munkálatok összessége;
   - zsg) ingatlankezelés: a pénztárral kötött szerződés szerint az ingatlannal való gazdálkodás és az ingatlanhasznosítás, az esetleges befektetés kérdéseiben javaslatok kidolgozása, továbbá az üzemeltetési és a karbantartási feladatok ellátása, a tervezett felújítások irányítása és ellenőrzése, valamint az ingatlan fenntartására vonatkozó tervajánlat elkészítése;
@@ -208,7 +208,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 ### A pénztár nyilvántartásba vétele
 
-16. § (1) A pénztárat a székhelye szerint illetékes fővárosi, megyei bíróság veszi nyilvántartásba. A nyilvántartásba vétel iránti kérelmet az alapító okirat kibocsátásától számított 30 napon belül az alapító nyújtja be a bírósághoz. A kérelemhez mellékelni kell az alapító okiratot, az alapítási engedélyt, a kérelem beadását követően pedig az adószámról és a társadalombiztosítási nyilvántartásba vételi számról szóló igazolást, továbbá a pénzforgalmi szolgáltató igazolását pénzforgalmi számla megnyitásáról. A bíróság a nyilvántartásba vételről nemperes eljárásban határoz, és határozatáról egyidejűleg az illetékes ügyészséget és a Felügyeletet is értesíti.
+16. § (1) A pénztárat a székhelye szerint illetékes törvényszék veszi nyilvántartásba. A nyilvántartásba vétel iránti kérelmet az alapító okirat kibocsátásától számított 30 napon belül az alapító nyújtja be a bírósághoz. A kérelemhez mellékelni kell az alapító okiratot, az alapítási engedélyt, a kérelem beadását követően pedig az adószámról és a társadalombiztosítási nyilvántartásba vételi számról szóló igazolást, továbbá a pénzforgalmi szolgáltató igazolását pénzforgalmi számla megnyitásáról. A bíróság a nyilvántartásba vételről nemperes eljárásban határoz, és határozatáról egyidejűleg az illetékes ügyészséget és a Felügyeletet is értesíti.
 
 (2) A pénztár a bírósági nyilvántartásba vétellel jön létre, az alapító okirat kibocsátásának időpontjára visszaható hatállyal.
 
@@ -328,7 +328,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 - a) más pénztárba való átlépéssel, az átlépés napját megelőző nappal;
 - b) elhalálozással, az elhalálozás napjával;
 - c) zárt pénztárban a tagsági viszony SzMSz szerinti feltételének megszűnésével; vagy
-- d) a Tny. szerint megállapított rokkantsági nyugdíjra jogosulttá válásával, a rokkantsági nyugdíj megállapításának napját megelőző nappal, a tag döntése szerint; illetőleg
+- d)
 - e)
 - f) a törvény 123. § (6) bekezdése szerinti visszalépéssel, a visszalépés napjával,
 - g) a törvény 3. § alapján magánnyugdíjpénztárba belépett személy – amennyiben a Tbj.-ben foglaltak alapján harmadik állam állampolgárának vagy hontalannak minősül – döntése szerint, a nyugdíjbiztosítási jogviszonya megszűnésének napjával;
@@ -574,7 +574,7 @@ kell alkalmazni.
 
 (4) A küldöttek megbízatása a határozott idő lejártával, visszahívással, lemondással, elhalálozással, illetve a pénztártagsági viszony megszűnésével, valamint a közügyektől való eltiltással szűnik meg.
 
-37. § (1) A közgyűlést legalább évente kétszer össze kell hívni, az éves beszámoló, illetve a pénzügyi terv elfogadására. A beszámolót a pénzügyi év lejártát követő 90 napos, a pénzügyi tervet a pénzügyi év lejárta előtti 150 napos időszakban kell a közgyűlés elé terjeszteni és elfogadni. A közgyűlést akkor is össze kell hívni, ha azt a bíróság vagy a Felügyelet elrendeli, vagy az ellenőrző bizottság, illetve a pénztártagok, illetve küldötteik legalább 10 százaléka – az ok és a cél megjelölésével – írásban indítványozza, illetve az igazgatótanács szükségesnek látja. Az SzMSz más esetekben is előírhatja a közgyűlés összehívását.
+37. § (1) A közgyűlést legalább évente kétszer össze kell hívni, az éves beszámoló, illetve a pénzügyi terv elfogadására. A beszámolót a pénzügyi év lejártát követő ötödik hónap utolsó napjáig, a pénzügyi tervet a pénzügyi év lejárta előtti 90 napos időszakban kell a közgyűlés elé terjeszteni és elfogadni. A közgyűlést akkor is össze kell hívni, ha azt a bíróság vagy a Felügyelet elrendeli, vagy az ellenőrző bizottság, illetve a pénztártagok, illetve küldötteik legalább 10 százaléka – az ok és a cél megjelölésével – írásban indítványozza, illetve az igazgatótanács szükségesnek látja. Az SzMSz más esetekben is előírhatja a közgyűlés összehívását.
 
 (2) A közgyűlés összehívásának módjáról a pénztár SzMSz-ében kell rendelkezni. A közgyűlés összehívásáról szóló értesítésben meg kell jelölni a közgyűlés helyét, idejét, napirendjét, valamint a napirendhez tartozó iratok megtekintésének helyét és idejét. A közgyűlés összehívását – a közgyűlést legalább 15 nappal megelőzően – egy országos napilapban, illetőleg a helyi és munkahelyi időszakos lapban is legalább egy alkalommal meg kell hirdetni. A hirdetmény tartalmazza a közgyűlés helyét, időpontját, tervezett napirendjét, az előterjesztések megtekintésének módját. A közgyűlés a meghívóban (hirdetményben) nem szereplő napirendi pontokat az Mpt. 39. §-ának (1) bekezdésében meghatározott, a közgyűlés kizárólagos hatáskörébe tartozó kérdések esetén csak akkor tárgyalhatja meg, ha az ülésen valamennyi tag jelen van, illetve képviselve van, és egyhangúlag hozzájárul a napirendi kérdés megtárgyalásához.
 
@@ -609,7 +609,7 @@ kell alkalmazni.
 
 (2) A közgyűlésen jelenléti ívet és jegyzőkönyvet kell vezetni. A jegyzőkönyv tartalmazza az elhangzott felszólalások lényegét és a hozott határozatokat. A jegyzőkönyvhöz csatolni kell az igazgatótanács és az ellenőrző bizottság beszámolójának egy példányát. A jegyzőkönyv egy példányát a csatolt iratokkal együtt – a közgyűlést követő 30 napon belül – meg kell küldeni a Felügyeletnek. Az elfogadott beszámolót és mérleget a tárgyévet követő év június 30-áig a beszámoló könyvvizsgálói záradékával együtt a Pénzügyi Közlönyben közzé kell tenni.
 
-(3) A közgyűlési határozatok ellen a pénztártagok, illetve a küldöttek, valamint a Felügyelet a határozat meghozatalától számított 90 napon belül keresetet nyújthat be a pénztár székhelye szerint illetékes megyei bíróságon.
+(3) A közgyűlési határozatok ellen a pénztártagok, illetve a küldöttek, valamint a Felügyelet a határozat meghozatalától számított 90 napon belül keresetet nyújthat be a pénztár székhelye szerint illetékes törvényszéken.
 
 39/A. § (1) A vezető tisztségviselői jogviszony fennállása alatt a közgyűlés írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja a vezető tisztségviselőt annak igazolására, hogy a 34. § (12) bekezdésben meghatározott feltételek alapján nincs kizárva a vezető tisztségviselői tisztség betöltéséből.
 
@@ -1218,7 +1218,7 @@ sorolja be.
 
 (11) A pénztárnak biztosítania kell, hogy az elszámolóegységek árfolyama honlapján bármikor visszakereshető és honlapjáról letölthető legyen.
 
-71. § (1) A könyvvizsgáló által hitelesített pénztári beszámolót a pénzügyi év lejártát követő 150 napon belül a közgyűlés elé kell terjeszteni. A beszámoló tartalmazza a vagyonértékelési és teljesítménymérési jelentéseket, valamint az aktuáriusi értékelést.
+71. § (1) A könyvvizsgáló által hitelesített pénztári beszámolót a pénzügyi év lejártát követő ötödik hónap utolsó napjáig a közgyűlés elé kell terjeszteni. A beszámoló tartalmazza a vagyonértékelési és teljesítménymérési jelentéseket, valamint az aktuáriusi értékelést.
 
 (2) A pénztár likviditási helyzetének ellenőrzése érdekében a Felügyelet a pénztárat év közben is beszámoltathatja.
 
@@ -1432,7 +1432,7 @@ sorolja be.
 - a) statisztikai célokra a Központi Statisztikai Hivatal,
 - b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása céljából az államháztartásért felelős miniszter és a gazdaságpolitika makrogazdasági szabályozásáért felelős miniszter,
 - c) a gazdasági, pénzpiaci folyamatok elemzése, a pénztárak befektetési tevékenységének eredményesebbé tétele, valamint a pénztárak szolgáltatási kötelezettsége teljesíthetőségének értékelése céljából az Alap,
-- d) az Áht. 120/B. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott feladatkörében eljáró kormányzati ellenőrzési szerv
+- d) az államháztartásról szóló 2011. évi CXCV. törvény 63. § (1) bekezdés g) pontjában és azzal összefüggésben i) pontjában meghatározott feladatkörében eljáró kormányzati ellenőrzési szerv
 
 részére.
 
@@ -1448,12 +1448,12 @@ részére.
 - f) külön törvényben meghatározott feltételek megléte esetén a titkos információ gyűjtésre felhatalmazott szervvel,
 - g) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
-- i) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben a csőd-, felszámolási eljárás és a helyi önkormányzatok adósságrendezési eljárása keretében a bírósággal,
+- i) a büntető-, valamint polgári ügyben, továbbá a csőd-, felszámolási eljárás és a helyi önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 - j) az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal, illetve társadalombiztosítási szervvel,
 - k) a Gazdasági Versenyhivatallal,
 - l) a gazdálkodás nyilvántartásához szükséges adatok tekintetében a gazdálkodás nyilvántartását végző szolgáltatóval, továbbá a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
 - m) külön törvényben meghatározott feltételek megléte esetén az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések foganatosításáért felelős szervvel,
-- n) az Áht. 120/B. § (1) bekezdés g) pontjában és azzal összefüggésben h) pontjában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel
+- n) az államháztartásról szóló 2011. évi CXCV. törvény 63. § (1) bekezdés g) pontjában és azzal összefüggésben i) pontjában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel
 
 szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
@@ -2239,6 +2239,8 @@ a társadalombiztosítási egyéni számla vezetéséért felelős államigazgat
 - b) az Alap igazgatósága által elrendelhető rendkívüli fizetési kötelezettség szabályait és legmagasabb mértékét.
 
 134/A. §
+
+135. § Felhatalmazást kap a Felügyelet elnöke, hogy a pénztári tagsági jogviszony létesítésére irányuló belépési nyilatkozat megtétele előtt, tagsági jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 ### 1. számú melléklet az 1997. évi LXXXII. törvényhez
 

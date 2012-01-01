@@ -15,7 +15,7 @@ E törvény célja az ásványi nyersanyagok bányászatának, a geotermikus ene
 - c) meddőhányók létesítése, hasznosítása és megszüntetése;
 - d) a megszűnt föld alatti bányák nyitvamaradó térségeinek fenntartása, hasznosítása és felhagyása;
 - e) más törvény hatálya alá nem tartozó, nem bányászati célt szolgáló, bányászati módszerekkel végzett föld alatti tevékenységek (aknamélyítés, mélyfúrás, alagút- és vágathajtás),
-- f) a szénhidrogén-termelésben, -előkészítésben és az elsődleges feldolgozásban használt technológiai létesítmény, csővezeték, a szénhidrogén szállító-, a földgázelosztó- és célvezeték, valamint az egyéb gázok és ezek termékei vezetékeinek létesítése, használatba vétele, műszaki üzemeltetése, felhagyása, elbontása,
+- f) a szénhidrogén-bányászatban használt technológiai létesítmény, a csővezeték, a szénhidrogén szállító-, a földgázelosztó- és célvezeték, valamint az egyéb gázok és gáztermékek vezetékeinek létesítése, használatba vétele, műszaki üzemeltetése, felhagyása, elbontása;
 - g) szénhidrogének tárolására alkalmas földtani szerkezetek kiképezése és tárolásra történő hasznosítása;
 - h) a geotermikus energia kutatása, kinyerése és hasznosítása;
 - i) az állam más törvény hatálya alá nem tartozó földtani feladatai;
@@ -404,7 +404,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (2) Az ásványi nyersanyag feltárását és kitermelését, valamint a meddőhányó hasznosítását a bányafelügyelet a műszaki üzemi terv (27. §) jóváhagyásával engedélyezi. A meddőhányóból történő ásványi nyersanyag kitermelésre a külfejtéssel történő kitermelés szabályait kell alkalmazni.
 
-(3) A bányavállalkozó a koncessziós szerződésben vagy a bányászatra kiadott hatósági engedélyben meghatározott területen és feltételek szerint kizárólag jogosult az ásványvagyon feltárására, kitermelésére, előkészítésére, elsődleges feldolgozására, felhasználására, értékesítésére és e tevékenységekhez szükséges létesítmények elhelyezésére, továbbá a szerződésben vagy a hatósági engedélyben meghatározott létesítmények használatára.
+(3) A bányavállalkozó a koncessziós szerződésben vagy a bányászatra kiadott hatósági engedélyben meghatározott területen és feltételek szerint kizárólag jogosult a bányászati tevékenység végzésére és a haszonanyag értékesítésére és e tevékenységekhez szükséges létesítmények elhelyezésére, továbbá a szerződésben vagy a hatósági engedélyben meghatározott létesítmények használatára.
 
 (4)
 
@@ -418,7 +418,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (4) A földgázszállító-, -elosztóvezetékhez és a föld alatti gáztárolókhoz való szabad hozzáférésre külön törvény rendelkezései az irányadók.
 
-(5) A kőolaj- és földgáztermelésben, előkészítésben és feldolgozásban használt mezők közötti technológiai csővezetékek, a kapcsolódó gázüzemi és tároló létesítmények valamint a kőolaj szállítóvezetékek és tárolók szabad kapacitásának belföldi kitermelésű szénhidrogének szállítása, illetve tárolása céljára történő rendelkezésre bocsátása külön jogszabályban előírható. A hozzáférés akkor adható meg, ha
+(5) A kőolaj- és földgázbányászatban használt mezők közötti technológiai csővezetékek, a kapcsolódó gázüzemi és tároló létesítmények valamint a kőolaj szállítóvezetékek és tárolók szabad kapacitásának belföldi kitermelésű szénhidrogének szállítása, illetve tárolása céljára történő rendelkezésre bocsátása külön jogszabályban előírható. A hozzáférés akkor adható meg, ha
 
 - a) az igény kielégítésére alkalmas szabad kapacitás rendelkezésre áll, és
 - b) az ásványi nyersanyag a használni tervezett rendszer működésében nem okoz zavart.
@@ -433,7 +433,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (5) A (3) bekezdés szerinti esetben, ha a szerződéssel le nem kötött, és a szerződéssel lekötött, de fel nem használt kapacitásokat meghaladó igények merülnek fel, a kapacitásokat – a (3) bekezdésben foglaltakra figyelemmel – az igényelt mennyiségek arányában kell értékesíteni.
 
-(6) Jogszabállyal kihirdetett nemzetközi szerződés rendelkezése esetén a (3)–(5) bekezdés szerint kell eljárni a részes fél területén bekövetkező, a szerződésben meghatározott kőolaj- és kőolajtermék-ellátási válsághelyzetben, a válsághelyzet beálltáról szóló szerződés szerinti értesítést követően.
+(6) Jogszabállyal kihirdetett nemzetközi szerződés rendelkezése esetén a (3)–(5) bekezdés szerint kell eljárni a részes fél területén bekövetkező, a szerződésben meghatározott kőolaj- és kőolajtermék-ellátási válsághelyzetben, a válsághelyzet beálltáról szóló szerződés szerinti értesítést követően azzal, hogy a szerződéssel lekötött, de fel nem használt kapacitásokat a tényleges szállítást igénylők részére kell felajánlani kivéve, ha a kőolaj- és kőolajtermék-ellátási válsághelyzet Magyarország területén is bekövetkezik.
 
 ### Földtani adatszolgáltatás és az adatok kezelése
 
@@ -791,7 +791,7 @@ gyakorolja.
 
 (7) A bányavállalkozó bányászati tevékenységből eredő kötelezettségei teljesítésének pénzügyi fedezetére a miniszter a koncessziós szerződésben, a bányafelügyelet az engedélyben a bányavállalkozó ajánlata figyelembevételével biztosítási szerződés megkötését vagy biztosíték adását írja elő. E pénzügyi fedezetnek ki kell terjednie a bányakárok megtérítésére, valamint a tájrendezési kötelezettség teljesítésére – ideértve a hulladékkezelő létesítmények környezeti kárait és rehabilitációs munkálatait – is. Ha a bányavállalkozó a megadott határidőre e kötelezettségének nem tesz eleget, a bányafelügyelet – a kötelezettség teljesítéséig – a bányászati tevékenység megkezdését vagy folytatását felfüggesztheti.
 
-(8) A meg nem fizetett bányajáradékot, bírságot és felügyeleti díjat, valamint ezek késedelmi kamatait adók módjára kell behajtani.
+(8) A meg nem fizetett bányajáradékot és felügyeleti díjat, valamint ezek késedelmi kamatait adók módjára kell behajtani.
 
 (9) Amennyiben a (4)–(5) bekezdésben foglalt eljárások során a bányafelügyelet megállapítja, hogy az ügy más hatóság hatáskörébe is tartozik, haladéktalanul köteles tájékoztatni a hatáskörrel rendelkező hatóságot.
 
@@ -867,7 +867,7 @@ fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
 - b) a bányászati és földtani kutatási célt szolgáló föld alatti létesítmények, valamint az e cél érdekében végzett mélyfúrás,
 - c) a megszűnt föld alatti bányák nyitva maradó térségeinek fenntartása és felhagyása,
 - d) a geotermikus energia kutatása, energetikai célra történő kinyerése és hasznosítása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele és üzemeltetése,
-- e) szénhidrogén-termelésben, -előkészítésben és az elsődleges feldolgozásban használt technológiai létesítmény, csővezeték, a szénhidrogén-szállító-, a földgázelosztó- és célvezeték, valamint az egyéb gázok és ezek termékei szállítóvezetékeinek építése, használatbavétele, üzemeltetése, elbontása és felhagyása,
+- e) szénhidrogén-bányászatban használt technológiai létesítmény, csővezeték, a szénhidrogén-szállító, a földgázelosztó- és célvezeték, valamint az egyéb gázok és gáztermékek vezetékének építése, használatba vétele, üzemeltetése, elbontása és felhagyása,
 - f) a szénhidrogén, valamint energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása és hasznosítása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele, üzemeltetése, bezárása,
 - g) a cseppfolyós propán-, butángázok és ezek elegyeinek töltő és tároló, a töltőüzemben lévő nyomáspróbázó és javító létesítményei, azok berendezései, valamint elosztóvezetékei építése, használatbavétele, üzemeltetése és elbontása,
 - h) a polgári célú robbantóanyag raktárainak építése, használatbavétele és üzemeltetése,
@@ -951,7 +951,7 @@ bányahatósági felügyelete
 - 2. ,,Ásványvagyon'' az ásványi nyersanyagoknak azon része, amelynek mennyiségét és minőségét földtani, valamint bányaműszaki és -gazdasági szempontok alapján becsléssel vagy számítással határozzák meg.
 - 3. ,,Ásványvagyon gazdálkodás'' tevékenységek, intézkedések, termelési programok, kutatási, feltárási, művelési rendszerek és módszerek, melyek az ásványi nyersanyagok gazdaságos kitermelését úgy szolgálják, hogy a lelőhely művelésbe nem vont részeit nem károsítják, megóvják abból a célból, hogy azok a későbbiekben kitermelhetők legyenek; és egyben lehetővé teszik a veszteségek csökkentését és az ásványi nyersanyagvagyon műszakilag lehetséges és a piaci viszonyok által indokolt minél teljesebb kitermelését.
 - 4. „Bányászat (bányászati tevékenység)”: ásványi nyersanyagok kutatása, feltárása és kitermelése, az e tevékenységek során keletkező hulladékok kezelése, valamint az ásványvagyon-gazdálkodás. Bányászati tevékenységnek minősül:
-  - a) a kitermelt ásványi nyersanyag helyben végzett előkészítése, osztályozása, a szénhidrogén-bányászatban elsődleges feldolgozása,
+  - a) a kitermelt ásványi nyersanyag helyben végzett feldolgozása, a szénhidrogén-bányászatban az ásványi nyersanyag továbbfeldolgozásra vagy továbbfelhasználásra való alkalmassá tétele, különösen a propán-bután kinyerés, a gazolin feldolgozás vagy brikettgyártás,
   - b) a haszonanyagok helyben végzett készletezése,
   - c) a bánya szüneteltetése, bezárása, a szénhidrogénmező felhagyása,
   - d) a bányászati tevékenység befejezését követő tájrendezés,
@@ -962,9 +962,9 @@ bányahatósági felügyelete
   - a)
   - b) 2. §-ának, 16. § (4) bekezdésének, 18. §-ának, 21. § (1) bekezdésének, 24. § (1) bekezdésének, 28. § (1) bekezdésének, 31–35. §-ainak, 37–38. §-ainak, 41. §-ának szabályai alkalmazásában, a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására, valamint
   - c) 2. §-ának, 21. § (1) bekezdésének, 28. § (1) bekezdésének, 31–34. §-ainak, 41–42. §-ainak szabályai, alkalmazásában a megszűnt föld alatti bánya nyitva maradó térségének fenntartására, hasznosítására jogosult személy is.
-- 6. „Előkészítés” a kitermelést közvetlenül követő tevékenység – ideértve az ehhez tartozó zagytározó létesítését, használatát és megszüntetését –, amely magában foglalja az ásványi nyersanyagok üzemi gyűjtését, szállítását, fizikai elválasztását, felaprózását, osztályozását, kioldását és mechanikai fizikai, biológiai, termikus vagy kémiai módszerekkel történő dúsítását, a kőolaj, földgáz tisztítását, szétválasztását, de nem ideértve az olvasztást, a termikus gyártási folyamatokat és a kohászati eljárásokat.
+- 6. „Feldolgozás”: az ásványi nyersanyagokon – beleértve a külfejtéses bányák működése során – végrehajtott mechanikai, fizikai, biológiai, termikus vagy kémiai eljárás, vagy eljárások összessége, beleértve a méret megváltoztatását, szétválasztását és a kioldást, továbbá az előzőleg elhagyott bányászati hulladék újrafeldolgozását, de nem beleértve az olvasztást, a mészkőégetéstől eltérő termikus gyártási folyamatokat és kohászati eljárásokat.
 - 7. ,,Előkutatás'' az ásványi nyersanyag lelőhely meglétének kimutatására, valamint az ásványi nyersanyag megközelítő elterjedésének, mennyiségének meghatározására irányuló kutatás.
-- 8. ,,Elsődleges feldolgozás'' az előkészítést közvetlenül követően a bányavállalkozó által végzett az a tevékenység, amellyel az előkészített ásványi nyersanyagot továbbfeldolgozásra vagy továbbfelhasználásra alkalmassá teszi (propán-bután kinyerés, gazolin feldolgozás; brikettgyártás stb.).
+- 8. „Ásványinyersanyag-kitermelő ipar”: minden bányászati tevékenységet és ásványi nyersanyag feldolgozást folytató vállalkozás, vagy ahhoz kapcsolódó létesítmény.
 - 9. ,,Feltárás'' az ásványi nyersanyag kitermelésének megkezdésére irányuló bányászati tevékenység. E törvény alkalmazásában feltárás — a mélyműveléses bányászatban a bányanyitás (főfeltárás), a mezőfeltárás és a fejtéselőkészítés, — a külfejtéses bányászatban a meddőréteg eltávolítása (letakarás) és a nyitóárok kialakítása, — a szénhidrogén-bányászatban és a geotermikus energiahordozó hasznosításában a mező fejlesztése és próbatermelés, illetve a kutatás és feltárás alatti termelés.
 - 10. ,,Földtani kutatás'' a földkéreg anyagi, szerkezeti és fejlődéstörténeti sajátosságainak megismerésére irányuló műszaki-tudományos tevékenység, kivéve a védett és védelemre érdemes természeti értékek kutatása.
 - 11. „Geotermikus energia”: a földkéreg belső hőenergiája.
@@ -999,13 +999,19 @@ bányahatósági felügyelete
 - 36. Cél-kitermelőhely” a külön törvény hatálya alá tartozó gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges homok, kavics és agyag ásványi nyersanyag (ideértve ezek változatait és keverékeit is) felszín alatti vizet nem érintő kitermelésére létesített kitermelő hely.
 - 37. Magas inertgáz tartalmú földgáz”: az olyan földgáz, amelyben a nem éghető gázok (joghatású méréssel meghatározott) aránya eléri vagy meghaladja a 30(térfogat)%-ot.
 - 38. Nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén”: az olyan szénhidrogén, amelyet a szénhidrogén-képződés feltételeit biztosító üledékes anyakőzet pórusaiban létrejött szénhidrogén felhalmozódásból, rendkívül gyenge áteresztőképességű tároló rétegekből, valamely egyedi eljárással, többnyire rétegserkentési vagy a szilárdásvány-bányászatban alkalmazott bányászati technológia alkalmazásával lehet csak kitermelni.
-- 39. Egyéb gázok és termékei vezetéke”: tartozékaival és alkotórészeivel együtt az a szállító-, elosztó csővezeték, amely a földgázon kívüli egyéb gázt, fluidumot vagy ezek termékeit a termelés (előkészítés, gyártás, tárolás) kiadó pontjától (előkészítő üzem, feldolgozóüzem), indító állomásától, illetve az országhatár átlépésétől a felhasználás (lakótelepülés, ipari létesítmény), feldolgozás átadó állomásáig, illetve az országhatárig szállítja. A vezetékek alkotórészei: – indító- és átadóállomás, – a vezeték üzemeltetését szolgáló technológiai létesítmények (nyomásfokozó, töltő, lefejtő, lefúvató, szakaszoló, tisztító állomások) és a nyomvonal jelzésére szolgáló berendezés, – a vezeték üzemeltetését, irányítását, ellenőrzését szolgáló létesítmények és berendezések (távfelügyeleti, hírközlési, korrózióvédelem) a távadat átvitelt biztosító szolgáltatás hozzáférési pontjáig.
+- 39. „Egyéb gázok és gáztermékek vezetéke”: tartozékaival és alkotórészeivel együtt az a csővezeték, amely a földgázon kívüli egyéb gázt, fluidumot vagy gázterméket a termelés (előkészítés, gyártás, tárolás) kiadó pontjától (előkészítő üzem, feldolgozóüzem), indító állomásától, vagy az országhatár átlépésétől a felhasználás (lakótelepülés, ipari létesítmény), feldolgozás átadó állomásáig, az együttműködő földgáz rendszerhez történő csatlakozási pontig, vagy az országhatárig szállítja. A vezetékek alkotórészei: – indító- és átadóállomás, – a vezeték üzemeltetését szolgáló technológiai létesítmények (nyomásfokozó, töltő, lefejtő, lefúvató, szakaszoló, tisztító állomások) és a nyomvonal jelzésére szolgáló berendezés, – a vezeték üzemeltetését, irányítását, ellenőrzését szolgáló létesítmények és berendezések (távfelügyeleti, hírközlési, korrózióvédelem) a távadat átvitelt biztosító szolgáltatás hozzáférési pontjáig.
 - 40. Szénhidrogén mező”: egy vagy több, szakmailag igazolható módon ugyanazon földtani szerkezethez vagy szerkezetileg összefüggő, közös hidrodinamikai rendszerű, jól lehatárolható rétegtani képződményhez tartozó szénhidrogén telepből álló szénhidrogén előfordulás.
 - 41. „Kinyerés”: a geotermikus energiának a geotermikus energiahordozóból történő hő ellátási vagy villamos energia előállítási célú elvonása.
 - 42. „Geotermikus energia hasznosítása”: azon tevékenység, amely során a kinyert geotermikus energia felhasználásra kerül.
-- 43. „Bányászati hulladék”: a bányászati tevékenység során keletkező hulladék, valamint a bauxit feldolgozása során keletkező vörösiszap.
+- 43. „Bányászati hulladék”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék, a nem közvetlenül ezen tevékenységekből származó hulladékok kivételével.
 - 44. „Gázüzemi tevékenység”: a földgázszállító-, elosztó vezeték és föld alatti földgáztároló engedélyes által végzett tervezése, építése, üzembe helyezése, üzemeltetése (ellenőrzés, karbantartás, üzemzavar elhárítás, javítás), felhagyása és elbontása, valamint a tervezés, létesítés, üzemeltetés felügyelete.
 - 45. „energetikai és ipari eredetű szén-dioxid föld alatti tárolóhely”: egy földtani szerkezetnek az energetikai és ipari eredetű szén-dioxid föld alatti tárolására használt, meghatározott kiterjedésű térrésze, az ehhez kapcsolódó felszíni és besajtoló berendezésekkel együtt.
+- 46. Biztosítással járó jogviszony:
+  - a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
+  - b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
+  - c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony.
+- 46. „Bányászati hulladékkezelés”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék – kivéve a nem közvetlenül ezen tevékenységekből származó hulladék – hulladékkezelő létesítményben történő gyűjtése és tárolása, valamint a hulladék keletkezési helyétől a hulladékkezelő létesítményig történő szállítása.
+- 47. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
 ## VI. RÉSZ — A BÁNYÁSZOK ERKÖLCSI ÉS ANYAGI MEGBECSÜLÉSE
 
@@ -1016,6 +1022,23 @@ bányahatósági felügyelete
 (3) A magyar bányászélet és a szakma kulturális emlékeinek gyűjtéséről, feldolgozásáról és bemutatásáról a soproni Központi Bányászati Múzeum és a Magyar Olajipari Múzeum, illetve az általuk koordinált bányászati múzeumi hálózat gondoskodik.
 
 (4)
+
+49/B. § (1) Átmeneti bányászjáradékra jogosult az a személy, aki
+
+- a) bányavállalkozónál föld alatti munkakörben
+  - aa) legalább huszonöt év, a társadalombiztosítási nyugellátásról szóló törvény szerint figyelembe vehető szolgálati időt szerzett, vagy
+  - ab) legalább 5000 – a társadalombiztosítási nyugellátásról szóló törvény szerint szolgálati időként figyelembe vehető – műszakot töltött el azzal, hogy a mecseki ércbányászatban elért műszakszámnak az 1,67-szeresét, a mecseki szénbányászatban elért műszakszámnak pedig az 1,25-szörösét kell a műszakszám meghatározása során figyelembe venni,
+- b) az öregségi nyugdíjkorhatárt nem töltötte be,
+- c) azon a napon, amelytől kezdődően az átmeneti bányászjáradékot megállapítják, biztosítással járó jogviszonyban nem áll, és
+- d) azon a napon, amelytől kezdődően az átmeneti bányászjáradékot megállapítják, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontja szerinti rendszeres pénzellátásban – az özvegyi nyugdíj, a baleseti hozzátartozói nyugellátások, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a nemzeti helytállásért elnevezésű pótlék, valamint az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátások kivételével – nem részesül.
+
+(2) 2012. január 1-jétől – a 2012. januári nyugdíjemelés mértékével növelt összegben – átmeneti bányászjáradékként kell továbbfolyósítani annak az 1950. évben vagy azt követően született, bányásznyugdíjban részesülő, a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 3. § (2) bekezdés c) pontjának hatálya alá nem tartozó személynek a bányásznyugdíját, aki 2011. december 31-én rendelkezik az (1) bekezdésben meghatározott szolgálati idővel vagy műszakszámmal, az átmeneti bányászjáradék szüneteltetésére vonatkozó szabályok figyelembevételével.
+
+(3) Az átmeneti bányászjáradékot a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. §-ában foglaltak szerint kell emelni.
+
+49/C. § (1) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az igényérvényesítésre, az átmeneti bányászjáradék megállapítására, folyósítására, a szolgálati idő meghatározására és számítására, az átmeneti bányászjáradékra jogosító idő megállapítására, a jogorvoslatra, az eljárási költségek viselésére, a jogalap nélküli ellátás visszafizetésére és megtérítésére, a késedelmi kamat megtérítésére, a tartozás elengedésére, mérséklésére és fizetési kedvezmény engedélyezésére, a végrehajtásra, valamint az adatkezelésre az öregségi nyugdíjra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol az öregségi nyugdíjra vonatkozó szabály nyugellátást vagy nyugdíjat említ, azon átmeneti bányászjáradékot kell érteni.
+
+(2) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az átmeneti bányászjáradék szüneteltetésére, megszűnésére és fedezetére, a megszűnéssel kapcsolatos jogkövetkezményekre, valamint az átmeneti bányászjáradékban részesülő személyek öregségi nyugdíjára a korhatár előtti ellátásra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol a korhatár előtti ellátásra vonatkozó szabály korhatár előtti ellátást említ, azon átmeneti bányászjáradékot kell érteni.
 
 ## VII. RÉSZ — HATÁLYBALÉPTETŐ ÉS ÁTMENETI RENDELKEZÉSEK
 
@@ -1069,7 +1092,9 @@ bányahatósági felügyelete
 - r) a geotermikus védőidom meghatározására és kijelölésére,
 - s) a koncessziós pályázatra kijelölhető ásványi nyersanyag, geotermikus energia előfordulási területén, és az energetikai vagy ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezet kialakítására alkalmas területen elvégzendő komplex érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban résztvevő hatóság közreműködésére,
 - t) a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére és hatósági felügyeletére,
-- u) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatására, tárolásra történő kialakítására, a tárolás engedélyezésére, az üzemeltetésre, az ellenőrzésre, a bezárásra és az azt követő időszak hatósági felügyeletére, a szállítóvezetékekhez és a tárolókhoz való hozzáférésre, valamint a szén-dioxid szállítására és tárolására alkalmas létesítményekkel kapcsolatos, nemzetközi kötelezettségvállaláson alapuló, valamint az Európai Bizottság felé teljesítendő jelentéstételi és adatszolgáltatási kötelezettségre
+- u) az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatására, tárolásra történő kialakítására, a tárolás engedélyezésére, az üzemeltetésre, az ellenőrzésre, a bezárásra és az azt követő időszak hatósági felügyeletére, a szállítóvezetékekhez és a tárolókhoz való hozzáférésre, valamint a szén-dioxid szállítására és tárolására alkalmas létesítményekkel kapcsolatos, nemzetközi kötelezettségvállaláson alapuló, valamint az Európai Bizottság felé teljesítendő jelentéstételi és adatszolgáltatási kötelezettségre,
+- v) az átmeneti bányászjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének eljárására
+- v) a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljáráshoz kötött építési tevékenységek körére és az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
@@ -1124,11 +1149,11 @@ rendeletben történő megállapítására.
 
 (2) 2004. január 1-je előtt idegen ingatlanon megépült és üzembe helyezett, az 50/C. § szabályozási körén kívüli, a törvény hatálya alá tartozó létesítmények tekintetében, amennyiben azok üzemeltetésére a szolgalmi jog alapítása nem történt meg, vagy az (1) bekezdésben meghatározott használatbavételi engedély nem lelhető fel, a fővárosi vagy megyei kormányhivatal az érintett létesítmények tekintetében a bányavállalkozó 2014. december 31. napjáig benyújtott kérelmére szolgalmi jogot állapít meg. A jogerős és végrehajtható határozattal a fővárosi vagy megyei kormányhivatal megkeresi az ingatlanügyi hatóságot a szolgalmi jog ingatlan-nyilvántartásba történő bejegyzése iránt.
 
-(3) A szolgalmi jog utólagos bejegyzése az ingatlannal kapcsolatban többlet jogokat és kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.
+(3) A szolgalmi jog (1) bekezdés szerinti utólagos bejegyzése, illetve a (2) bekezdés szerinti megállapítása az ingatlannal kapcsolatban többlet jogokat és kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.
 
 51. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács 1994. május 30-i 94/22/EK irányelve a szénhidrogének kutatására, feltárására és kitermelésére vonatkozó engedélyek megadásának és felhasználásának feltételeiről;
 - b) az Európai Parlament és a Tanács 2003. június 26-i 2003/55/EK irányelve a földgáz belső piacára vonatkozó közös szabályokról és a 98/30/EK irányelv hatályon kívül helyezéséről;
-- c) az Európai Parlament és a Tanács 2006. március 15-i 2006/21/EK irányelve az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról (3. cikk 3. és 8. pontja, 7. cikk, 11–12. cikk, 14. és 19. cikk), a törvény 1. §, 2. §, 16. §, 19. §, valamint a 41. § (1) bekezdés d) pontja, 43/B. § (6) bekezdés e) pontja, 44. § (1) bekezdés n) pontja, 49. § 43. pontja, 50/A. § (2) bekezdés m) pontja.
+- c) az Európai Parlament és a Tanács 2006. március 15-i 2006/21/EK irányelve az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról (3. cikk 3., 6. és 8. pontja, 7. cikk, 11–12. cikk, 14. és 19. cikk), a törvény 1. §-a, 2. §-a, 16. §-a, 19. §-a, valamint a 41. § (1) bekezdés d) pontja, 43/B. § (6) bekezdés e) pontja, 44. § (1) bekezdés n) pontja, 49. § 4., 6., 8. és 43. pontja, 50/A. § (2) bekezdés m) pontja;
 - d) Az Európai Parlament és a Tanács 2009. április 23-i 2009/31/EK irányelve a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról (4. cikk 1–2. pontja, 5. cikk 2. és 4. pontja, 6. cikk 1–3. pontja, 15.cikk, 19. cikk 1. pontja, 23. cikk, 25. cikk 1. pontja, valamint 28. cikk), e törvény 1. § (1) bekezdés k) pontja, 9. §, 49. § 4., 17., 24., 45. pontja, 50/A. § (1) bekezdés u) pontja, 50/A. § (6) bekezdés, 22. § (1) bekezdés, 22/C. §, 26. § (1) bekezdés, 5. § (1) bekezdés d) pontja, 8. § ac) pontja, 44. § (1) bekezdés f) pontja, 25. § (5) bekezdés, valamint 41. § (1) bekezdés d) pontja.)

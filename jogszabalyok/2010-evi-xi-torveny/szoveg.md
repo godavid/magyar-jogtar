@@ -280,7 +280,7 @@ Különleges lehívási jogok rendkívüli, egyszeri szétosztása
 
 (4) E törvény végrehajtásához szükséges intézkedésekről a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
 
-(5) A Nemzetközi Valutaalap Magyar Köztársaság által történő értesítéséről a Magyar Köztársaságot a Nemzetközi Valutaalapban képviselő kormányzó gondoskodik.
+(5) A Nemzetközi Valutaalap Magyarország részéről történő értesítéséről a Magyarországot a Nemzetközi Valutaalapban képviselő kormányzó gondoskodik.
 
 (6) Felhatalmazást kap a nemzetközi pénzügyi kapcsolatokért felelős miniszter, hogy az Egyezmény harmadik, negyedik és ötödik módosításával egységes szerkezetbe foglalt, hiteles szövegét és annak magyar nyelvű hivatalos fordítását az alapokmány ötödik módosításának hatálybalépését követően közzétegye.
 

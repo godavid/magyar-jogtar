@@ -12,7 +12,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 
 - a) a foglalkoztatói nyugdíjszolgáltató intézmény;
 - b) az Európai Gazdasági Térség más államában bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény magyarországi fióktelepe;
-- c) a Magyar Köztársaság területén határon átnyúló szolgáltatás keretében tevékenységet végző, az Európai Gazdasági Térség más államában bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény;
+- c) a Magyarország területén határon átnyúló szolgáltatás keretében tevékenységet végző, az Európai Gazdasági Térség más államában bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény;
 - d) az a)–c) pontban foglalt szervezetek valamelyikébe befizetést teljesítő foglalkoztató;
 - e) az e törvényben foglaltak alapján a foglalkoztatói nyugellátásra jogosultságot szerző tag a feltételes jogszerzés időtartama alatt is, valamint a járadékos és a kedvezményezett;
 - f) a kiszervezett tevékenységgel kapcsolatban a kiszervezett tevékenységet végző szervezet;
@@ -29,8 +29,8 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 
 2. § E törvény alkalmazásában
 
-- 1. adatfeldolgozás: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatfeldolgozási tevékenység;
-- 2. adatkezelés: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett, a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvényben meghatározott adatkezelési tevékenység;
+- 1. adatfeldolgozás: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett adatfeldolgozási tevékenység;
+- 2. adatkezelés: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett adatkezelési tevékenység;
 - 3. állampapír: a magyar vagy külföldi állam, a Magyar Nemzeti Bank, az Európai Központi Bank vagy az Európai Unió más államának jegybankja által kibocsátott hitelviszonyt megtestesítő értékpapír;
 - 4. befektetési egységekhez kötött nyugdíjkonstrukció, illetve nyugdíjszolgáltatás (unit linked): olyan biometriai kockázatot tartalmazó, szolgáltatással meghatározott nyugdíjkonstrukció vagy olyan nyugdíjszolgáltatás, amelynél a foglalkoztatói nyugdíjszolgáltató intézmény a nyugdíjtechnikai tartalékot az általa létrehozott, önálló befektetési politikával rendelkező, elkülönítetten kezelt – azonos értékű, elméleti elszámolási részekből (befektetési egységekből) álló – eszközállományokba (eszközalapokba) vagy más, befektetési alapkezelésre jogosult társaság által kezelt befektetési alapokba helyezi befektetés céljából, a csatlakozott foglalkoztató vagy a tag választásától függően, a csatlakozásról szóló szerződésben előre meghatározott szabályok szerint;
 - 5. befizetéssel meghatározott nyugdíjkonstrukció: meghatározott mértékű és rendszerességű foglalkoztatói, vagy foglalkoztatói és tagi befizetések és azok befektetéséből származó hozam felhalmozása alapján számított összegű nyugdíjszolgáltatást tartalmazó nyugdíjkonstrukció;
@@ -43,7 +43,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - 12. foglalkoztató: az, akivel a tag a 23. pontban meghatározott munkaviszonyban áll és aki hozzájárulást fizet a foglalkoztatói nyugdíjszolgáltató intézménybe;
 - 13. foglalkoztatói nyugdíjszolgáltatás: a foglalkoztatói nyugdíjszolgáltató intézmény által a nyugdíjkorhatár elérésekor a járadékos részére folyósított kifizetés;
 - 14. foglalkoztatói nyugdíjszolgáltató intézmény: olyan e törvény alapján létrehozott zártkörűen működő részvénytársaság, továbbá valamely más EGT-államban bejegyzett intézmény, amely foglalkoztatótól vagy szakmai szervezettől elkülönítetten működik, és amelynek célja munkaviszonyhoz kapcsolódó nyugellátás biztosítása a foglalkoztatók és a munkavállalók vagy képviselőik között megkötött tagi, illetve több munkavállalót érintő megállapodás alapján, feltéve, hogy az intézmény a megállapodásban foglaltak szerinti tevékenységet folytat;
-- 15. határon átnyúló tevékenység: a Magyar Köztársaság területén székhellyel, telephellyel, fiókteleppel vagy kereskedelmi képviselettel rendelkező foglalkoztató által teljesített befizetés más állam területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézmény által történő fogadása, valamint a más EGT-állam területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézmény által a Magyar Köztársaság területén lakóhellyel rendelkező tag számára nyújtott szolgáltatás, valamint más EGT-állam területén székhellyel, telephellyel, fiókteleppel vagy kereskedelmi képviselettel rendelkező foglalkoztató által a Magyar Köztársaság területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézménybe történő befizetés és más EGT-állam területén lakóhellyel rendelkező tag számára a foglalkoztatói nyugdíjszolgáltató intézmény által nyújtott szolgáltatás;
+- 15. határon átnyúló tevékenység: a Magyarország területén székhellyel, telephellyel, fiókteleppel vagy kereskedelmi képviselettel rendelkező foglalkoztató által teljesített befizetés más állam területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézmény által történő fogadása, valamint a más EGT-állam területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézmény által a Magyarország területén lakóhellyel rendelkező tag számára nyújtott szolgáltatás, valamint más EGT-állam területén székhellyel, telephellyel, fiókteleppel vagy kereskedelmi képviselettel rendelkező foglalkoztató által a Magyarország területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézménybe történő befizetés és más EGT-állam területén lakóhellyel rendelkező tag számára a foglalkoztatói nyugdíjszolgáltató intézmény által nyújtott szolgáltatás;
 - 16. járadékos: foglalkoztatói nyugdíjszolgáltatást igénybevevő tag a foglalkoztatói nyugdíjszolgáltatás megállapításának időpontjától, valamint a kedvezményezett és a hozzátartozó a jogosultság hatálybalépésétől;
 - 17. jogosultság nyilvántartása: a szolgáltatással meghatározott nyugdíjkonstrukció esetén a tag által megszerzett jogosultságok nyilvántartása;
 - 18. jogosultság tőkeértéke: a szolgáltatással meghatározott nyugdíjkonstrukció esetén a szolgáltatás megkezdése előtt a tag által megszerzett jogosultságoknak a tőkeérték kiszámításának időpontjára meghatározott összértéke. A tőkeértéket a megszerzett jogosultságok alapján várható szolgáltatási kiadásoknak a nyugdíjtechnikai tartalékok befektetésén várható jövőbeli hozamok felhasználásával számított jelenértéke alapján kell meghatározni. A számítás során figyelembe kell venni a jogosultságok valorizációját illetően a csatlakozásra vonatkozó szerződésben szereplő rendelkezéseket is;
@@ -55,7 +55,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - 24. nyugdíjkonstrukció: egy foglalkoztató munkavállalói részére nyújtott foglalkoztatói nyugdíjszolgáltatás feltétel- és teljesítésrendszere;
 - 25. nyugdíjkorhatár:
   - a) az az életkor, melyet a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény az öregségi nyugdíjra való jogosultság feltételeként meghatároz,
-  - b) a nyugdíjkorhatár betöltésével esik egy tekintet alá az az időpont, amelytől a tag társadalombiztosítási nyugellátásban, így öregségi nyugdíjban (ideértve a korengedményes nyugdíjat, a bányásznyugdíjat, az egyes művészeti tevékenységet folytatók öregségi nyugdíját, a Magyar Alkotóművészeti Közalapítvány által nyújtott öregségi nyugdíjat, valamint a szolgálati nyugdíjat is), a rokkantsági és baleseti rokkantsági nyugdíjban (ideértve a Magyar Alkotóművészeti Közalapítvány által nyújtott rendszeres rokkantsági segélyt is), továbbá növelt összegű öregségi és munkaképtelenségi járadékban részesül,
+  - b) az az időpont, amelytől a tag öregségi nyugdíjban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban) vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
   - c) határon átnyúló tevékenység esetében a foglalkoztató székhelye szerinti állam irányadó szociális és munkajoga alapján a tagra irányadó öregségi nyugdíjkorhatár;
 - 26. önfoglalkoztató: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § b) pontjának 1–6. alpontjában, valamint c) pontjában megjelölt személyek;
 - 27. szavatoló tőke: a foglalkoztatói nyugdíjszolgáltató intézmény rendelkezésére álló, e törvény szabályai szerint megállapított tőkeösszeg, amely a foglalkoztatói nyugdíjszolgáltató intézménnyel szemben fennálló követelések kielégítésébe tőkeként azonnal, harmadik fél hozzájárulása nélkül bevonható, és amely arra szolgál, hogy a foglalkoztatói nyugdíjszolgáltató intézmény akkor is teljesíteni tudja kötelezettségeit, ha erre a beérkezett hozzájárulások, illetve a nyugdíjtechnikai tartalékok nem nyújtanak fedezetet;
@@ -109,13 +109,13 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 
 ### A foglalkoztatói nyugdíjszolgáltató intézmény
 
-6. § (1) A Magyar Köztársaság területén foglalkoztatói nyugdíjszolgáltató intézmény zártkörűen működő részvénytársaság vagy más EGT-államban bejegyzett foglalkoztatói nyugellátást szolgáltató intézmény magyarországi fióktelepe formájában létesíthető.
+6. § (1) Magyarország területén foglalkoztatói nyugdíjszolgáltató intézmény zártkörűen működő részvénytársaság vagy más EGT-államban bejegyzett foglalkoztatói nyugellátást szolgáltató intézmény magyarországi fióktelepe formájában létesíthető.
 
 (2) A foglalkoztatói nyugdíjszolgáltató intézmény részvénytársaságra a Gt. előírásait, a fióktelepre pedig a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) fióktelepre vonatkozó előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) A foglalkoztatói nyugdíjszolgáltató intézmény kizárólag foglalkoztatói nyugdíjszolgáltatási tevékenységet végezhet.
 
-(4) E törvény 3–81. §-ainak rendelkezéseit az e törvény alapján alapított, a Magyar Köztársaság területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményekre kell alkalmazni.
+(4) E törvény 3–81. §-ainak rendelkezéseit az e törvény alapján alapított, Magyarország területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményekre kell alkalmazni.
 
 ### A foglalkoztatói nyugdíjszolgáltató intézményalapítása
 
@@ -129,6 +129,8 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 (3) A foglalkoztatói nyugdíjszolgáltató intézményben tulajdonrészt (részvényt) csak az szerezhet, aki annak alapítására jogosult.
 
 (4) A foglalkoztatói nyugdíjszolgáltató intézményben tulajdonrésszel (részvénnyel) rendelkező szervezet saját munkavállalói részére nyújtandó nyugdíjkonstrukcióra vonatkozóan a 8. § (2) bekezdés szerinti szerződést köti meg a foglalkoztatói nyugdíjszolgáltató intézménnyel.
+
+(5) A foglalkoztatói nyugdíjszolgáltató intézmény saját munkavállalói részére az általános szabályok szerint nyugdíjkonstrukciót működtethet azzal, hogy a csatlakozásra vonatkozó szerződés kötelező tartalmi elemeit a munkaszerződésnek kell tartalmaznia.
 
 ### Foglalkoztató csatlakozása a foglalkoztatói nyugdíjszolgáltató intézményhez
 
@@ -318,7 +320,7 @@ mellékelni kell:
 
 (7) Ha a könyvvizsgáló tudomást szerez arról, hogy a foglalkoztatói nyugdíjszolgáltató intézmény vagyonának, illetőleg fedezeti vagy a nyugdíjtechnikai tartalékának jelentős csökkenése várható, köteles erről a felügyelőbizottságot és a foglalkoztatói nyugdíjszolgáltató intézmény igazgatóságát tájékoztatni, továbbá a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlésének összehívását kezdeményezni, és az intézkedéseket és azok okát a Felügyeletnek bejelenteni.
 
-(8) Ha a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlését az igazgatóság – a könyvvizsgáló (7) bekezdésben foglalt tájékoztatásának tudomásra jutásától számított nyolc napon belül – nem hívja össze, arra a könyvvizsgáló jogosult. Ha a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlése nem hozza meg a szükséges döntéseket, a könyvvizsgáló köteles értesíteni a Felügyeletet és a cégjegyzéket vezető megyei (fővárosi) bíróságot (a továbbiakban: bíróság).
+(8) Ha a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlését az igazgatóság – a könyvvizsgáló (7) bekezdésben foglalt tájékoztatásának tudomásra jutásától számított nyolc napon belül – nem hívja össze, arra a könyvvizsgáló jogosult. Ha a foglalkoztatói nyugdíjszolgáltató intézmény közgyűlése nem hozza meg a szükséges döntéseket, a könyvvizsgáló köteles értesíteni a Felügyeletet és a cégjegyzéket vezető törvényszéket (a továbbiakban: bíróság).
 
 (9) Ha a Magyar Könyvvizsgálói Kamara a biztosítói, pénztári vagy befektetési vállalkozási minősítésű könyvvizsgáló társaságot, könyvvizsgálót törli nyilvántartásából, erről egyidejűleg értesíti a Felügyeletet.
 
@@ -436,6 +438,8 @@ mellékelni kell:
 (2) A foglalkoztatói nyugdíjtitok minden olyan, a foglalkoztatói nyugdíjszolgáltató intézmény tagjáról és járadékosáról a foglalkoztatói nyugdíjszolgáltató intézmény rendelkezésére álló, a tevékenysége során tudomására jutó tény, információ vagy adat, amely a foglalkoztatói nyugdíjszolgáltató intézmény tagjára és a járadékos személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, tulajdonosi, üzleti kapcsolataira, valamint tagi számlájára, a jogosultság nyilvántartásban szereplő adatokra, a részére megfizetett hozzájárulásra és az általa befizetett kiegészítésre, valamint a részére járó foglalkoztatói nyugdíjszolgáltatásra vonatkozik.
 
 (3) A foglalkoztatói nyugdíjszolgáltató intézmény üzleti és foglalkoztatói nyugdíjtitkot kizárólag a foglalkoztatói nyugdíjszolgáltató tevékenység folytatásával összefüggésben kezelhet.
+
+(4) A foglalkoztatói nyugdíjtitokra az önkéntes kölcsönös biztosító pénztárakról szóló jogszabályban meghatározott pénztártitokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
 ### A tagsági jogviszony
 
@@ -863,6 +867,18 @@ kell megfelelően alkalmazni.
 
 (4) A foglalkoztatói nyugdíjszolgáltató intézmény az általa kezelt nyugdíjkonstrukciókról negyedévente a Felügyelet által meghatározott formában és módon portfóliójelentést küld a Felügyeletnek.
 
+46/A. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a nyugdíjkonstrukcióban a tőke megóvására, illetve a hozamra vonatkozóan garanciát vállalhat (tőke-, illetve hozamgarancia). A hozamra vonatkozó garancia magában foglalja a tőke megóvására vonatkozó garanciát is. A tőkére, illetve a hozamra vonatkozó garanciát a foglalkoztatói nyugdíjszolgáltató intézmény köteles megfelelő biztosítékkal garantálni. A biztosíték akkor tekinthető megfelelőnek, ha
+
+- a) a biztosítékot hitelintézet, biztosító vagy viszontbiztosító nyújtja,
+- b) a biztosíték írásba foglalt kötelezettségvállalás,
+- c) a biztosító a kifizetés teljesítése érdekében közvetlenül a biztosítéknyújtóhoz fordulhat, és a követelését ésszerű határidőn belül érvényesítheti,
+- d) a biztosíték mértéke a nyugdíjkonstrukció pénznemében egyértelműen meghatározott és megfelelő számítással alátámasztott,
+- e) a biztosítéknyújtó a kötelezettségét a biztosíték alá eső tőke-, illetve hozamgaranciával érintett nyugdíjkonstrukció vonatkozásában nem mondhatja fel,
+- f) a tőke- és hozamgarancia teljes összegére kiterjed, és
+- g) a biztosíték valamennyi irányadó joghatóság előtt érvényes és érvényesíthető.
+
+(2) A foglalkoztatói nyugdíjszolgáltató a nyugdíjkonstrukcióban a tőke megóvására, illetve a hozamra vonatkozóan ígéretet tehet (tőke-, illetve hozamvédelem). A hozamra vonatkozó ígéret magában foglalja a tőke megóvására vonatkozó ígéretet is. A tőkére, illetve a hozamra vonatkozó ígéretet a foglalkoztatói nyugdíjszolgáltató köteles a tőke megóvását, illetve a hozamot biztosító pénzügyi eszközökre vonatkozó befektetési politikával alátámasztani a tagok és járadékosok részletes tájékoztatása mellett.
+
 47. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény befektetett eszközeit piaci értékük alapján kell meghatározni.
 
 (2) A foglalkoztatói nyugdíjszolgáltató intézmény befektetéseinek összhangban kell lennie a foglalkoztatói nyugdíjszolgáltató intézmény rövid lejáratú (éven belüli) és hosszú távú (éven túli) kötelezettségeivel, fenntartva a foglalkoztatói nyugdíjszolgáltató intézmény folyamatos fizetőképességét.
@@ -958,7 +974,7 @@ kell megfelelően alkalmazni.
 
 55. § (1) A foglalkoztató köteles az egyéni vagy több munkavállalót érintő megállapodás alapján vállalt fizetési kötelezettségének a foglalkoztatói nyugdíjszolgáltató intézménnyel történt megállapodás szerinti időpontig, de legalább negyedévente eleget tenni.
 
-(2) A foglalkoztató a foglalkoztatói nyugdíjszolgáltató intézmény felé a hozzájárulások megfizetésének alátámasztására a tárgyhónapra vonatkozó befizetésekről, a tárgyhónapot követő 10. napig adatszolgáltatásra kötelezett.
+(2) A foglalkoztató a hozzájárulások megfizetésének alátámasztására a díjfizetéssel egyidejűleg köteles a foglalkoztatói nyugdíjszolgáltató intézmény részére, az azáltal meghatározott módon és tartalommal adatot szolgáltatni.
 
 (3) Az adatszolgáltatásnak tartalmaznia kell:
 
@@ -1035,6 +1051,10 @@ a Felügyelet részére megküldeni.
 
 (2) A tevékenységre vonatkozó engedély iránti kérelmet a Felügyelet elutasítja, ha a foglalkoztatói nyugdíjszolgáltató intézmények és más személy között fennálló, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény szerinti szoros kapcsolat, továbbá a foglalkoztatói nyugdíjszolgáltató intézményekkel szoros kapcsolatban álló személyre vonatkozó, más EGT-államban alkalmazott jogszabályok akadályozzák a foglalkoztatói nyugdíjszolgáltató intézmények feletti hatósági felügyelet gyakorlását. Az e bekezdésben meghatározott feltételek ellenőrzéséhez szükséges információkat a Felügyelet rendelkezésére kell bocsátani.
 
+### A Felügyelet együttműködése az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósággal
+
+62/A. § Foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadása, visszavonása esetén a Felügyelet a határozat meghozataláról tájékoztatja az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot.
+
 ### A Felügyelet eljárása külföldi kérelmező esetén
 
 63. § (1) Külföldi kérelmező kizárólag kézbesítési megbízottja útján fordulhat a Felügyelethez.
@@ -1085,14 +1105,7 @@ a Felügyelet részére megküldeni.
 
 ### A Felügyelet bírságolási jogköre
 
-66. § (1)–(2)
-
-(3) A Felügyelet által a foglalkoztatói nyugdíjszolgáltató intézményre kirótt felügyeleti bírságból származó bevételt kizárólag
-
-- a) a Felügyelet szakembereinek képzésére,
-- b) a felügyeleti tevékenységgel kapcsolatos tanulmányok készítésének és közzétételének támogatására,
-- c) a tagok és más személyek, szervezetek tájékoztatására, valamint
-- d) a foglalkoztatói nyugdíjszolgáltató intézmények felszámolását végző közhasznú társaság felszámolásból eredő veszteségének megtérítésére lehet fordítani.
+66. §
 
 ### A kifizetési tilalom elrendelése
 
@@ -1259,11 +1272,11 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 (3) A Felügyelet az előzetes jóváhagyás megadásával egyidejűleg a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységi engedélyét visszavonja.
 
-### V. Fejezet — A MÁS EGT-ÁLLAMBAN BEJEGYZETT FOGLALKOZTATÓI NYUGDÍJSZOLGÁLTATÓ INTÉZMÉNYEK MŰKÖDÉSE A MAGYAR KÖZTÁRSASÁG TERÜLETÉN
+### V. Fejezet — A MÁS EGT-ÁLLAMBAN BEJEGYZETT FOGLALKOZTATÓI NYUGDÍJSZOLGÁLTATÓ INTÉZMÉNYEK MŰKÖDÉSE MAGYARORSZÁG TERÜLETÉN
 
-82. § (1) A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény a Magyar Köztársaság területén határon átnyúló szolgáltatásként akkor végezheti tevékenységét, ha a tevékenységére a székhely szerinti államában jogosult és határon átnyúló szolgáltatás nyújtására előzetes engedéllyel rendelkezik.
+82. § (1) A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyarország területén határon átnyúló szolgáltatásként akkor végezheti tevékenységét, ha a tevékenységére a székhely szerinti államában jogosult és határon átnyúló szolgáltatás nyújtására előzetes engedéllyel rendelkezik.
 
-(2) A munkavállalója részére egyéni vagy több munkavállalót érintő megállapodás alapján kiegészítő nyugdíjat biztosítani kívánó foglalkoztató befizetést teljesíthet a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménybe. A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény a Magyar Köztársaság területén lakóhellyel rendelkező tag számára szolgáltatást nyújthat.
+(2) A munkavállalója részére egyéni vagy több munkavállalót érintő megállapodás alapján kiegészítő nyugdíjat biztosítani kívánó foglalkoztató befizetést teljesíthet a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménybe. A más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény a Magyarország területén lakóhellyel rendelkező tag számára szolgáltatást nyújthat.
 
 (3) A foglalkoztató csak a magyar munkajog és társadalombiztosítási jog hatálya alá tartozó jogviszony alapján teljesíthet befizetést a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménybe.
 
@@ -1287,26 +1300,31 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 (3) Amennyiben a Felügyelet jogszabályellenes működést észlel, haladéktalanul tájékoztatja a székhely szerinti állam illetékes hatóságait. A Felügyelet együttműködik a székhely szerinti állam illetékes hatóságával annak érdekében, hogy a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény megszüntesse jogszabályellenes működését.
 
-(4) A Felügyelet jogosult, illetve a székhely szerint illetékes felügyeleti hatóság kérelmére köteles ellenőrizni a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmények tevékenységét. Ennek keretében a Felügyelet jogosult a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyar Köztársaság területén, határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménytől – az adatvédelmi jogszabályok figyelembevételével – a tevékenységével összefüggő adatszolgáltatást kérni.
+(4) A Felügyelet jogosult, illetve a székhely szerint illetékes felügyeleti hatóság kérelmére köteles ellenőrizni a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmények tevékenységét. Ennek keretében a Felügyelet jogosult a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyarország területén, határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménytől – az adatvédelmi jogszabályok figyelembevételével – a tevékenységével összefüggő adatszolgáltatást kérni.
 
-(5) A Felügyelet a székhely szerinti állam illetékes felügyeleti hatóságának kérelmére intézkedik a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyar Köztársaság területén székhellyel rendelkező letétkezelőnél elhelyezett vagyonának zár alá vétele érdekében.
+(5) A Felügyelet a székhely szerinti állam illetékes felügyeleti hatóságának kérelmére intézkedik a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyarország területén székhellyel rendelkező letétkezelőnél elhelyezett vagyonának zár alá vétele érdekében.
 
 (6) Amennyiben a magyar társadalombiztosítási és munkajoggal össze nem egyeztethető működés a székhely szerinti állam hatóságai által tett intézkedések ellenére, vagy ilyen intézkedések hiánya miatt tovább folytatódik, a Felügyelet a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény kötelezettségeinek teljesítése, a tagok érdekeinek védelme, valamint az e törvényben foglaltak betartása érdekében, a székhely szerinti állam hatóságainak előzetes értesítését követően, a következő intézkedéseket – akár együttesen is – alkalmazhatja:
 
 - a) az e törvényben és más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézményre vonatkozó más jogszabályban meghatározott feltételeknek való megfelelésre – határidő kitűzésével – felszólíthat;
 - b) előírhatja a szabálytalanságok megszüntetésére vonatkozó pénzügyi terv, szanálási terv, pénzügyi helyreállítási terv a 42–44. §-ban foglaltakkal összhangban álló, meghatározott határidőn belüli benyújtását, és a végrehajtásra is határidőt szabhat;
-- c) a Magyar Köztársaság területére vonatkozó hatállyal ideiglenes tagfelvételi szünetelést rendelhet el;
+- c) Magyarország területére vonatkozó hatállyal ideiglenes tagfelvételi szünetelést rendelhet el;
 - d) bírságot szabhat ki;
-- e) korlátozhatja a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyar Köztársaság területén végzett tevékenységét;
-- f) megtilthatja a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyar Köztársaság területén történő működését.
+- e) korlátozhatja a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyarország területén végzett tevékenységét;
+- f) megtilthatja a más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény Magyarország területén történő működését.
 
 (7)
 
-(8) Ha a jogszabálysértést elkövető más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménynek a Magyar Köztársaság területén bejegyzett vállalkozása van, amelynek székhelye vagy telephelye a Magyar Köztársaság területén fellelhető, a Felügyelet által alkalmazott intézkedés alapján – a hatályos jogi szabályozással összhangban – végrehajtás e vállalkozásra vagy vagyoni értékű jogra vezethető.
+(8) Ha a jogszabálysértést elkövető más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménynek a Magyarország területén bejegyzett vállalkozása van, amelynek székhelye vagy telephelye a Magyarország területén fellelhető, a Felügyelet által alkalmazott intézkedés alapján – a hatályos jogi szabályozással összhangban – végrehajtás e vállalkozásra vagy vagyoni értékű jogra vezethető.
 
 85. §
 
-86. § A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a foglalkoztatói nyugdíjszolgáltató intézmény belső adatszolgáltatásának, valamint a nemi hovatartozás szerint eltérő hozzájárulások és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjét, tartalmát.
+86. § Felhatalmazást kap a Felügyelet elnöke, hogy rendeletben állapítsa meg
+
+- a) a tagsági jogviszony létrejötte előtt, tagsági jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére,
+- b) a nemi hovatartozás szerint eltérő hozzájárulások és szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjére és tartalmára
+
+vonatkozó részletes szabályokat.
 
 ### Záró és átmeneti rendelkezések
 
@@ -1324,4 +1342,5 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 - a) az Európai Parlament és Tanács 2003/41/EK irányelve (2003. június 3.) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről;
 - b) a Tanács 98/49/EK irányelve (1998. június 29.) a Közösségen belül mozgó munkavállalók és önálló vállalkozók kiegészítő nyugdíjra való jogosultságának védelméről;
-- c) az Európai Parlament és Tanács 2006/54/EK irányelve (2006. július 5.) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról.
+- c) az Európai Parlament és Tanács 2006/54/EK irányelve (2006. július 5.) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról,
+- d) az Európai Parlament és a Tanács 2010/78/EU irányelve (2010. november 24.) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról.
