@@ -2,17 +2,17 @@
 
 a társadalombiztosítási nyugellátásról
 
-Az Országgyűlés az Alkotmányban foglalt elveknek megfelelően az időskorúak és a tartósan vagy véglegesen munkaképtelenné válók, valamint hozzátartozóik megélhetésének biztosítása érdekében a társadalombiztosítási nyugellátásról az alábbi törvényt alkotja:E törvény célja, hogy a biztosítottak és hozzátartozóik részére nyújtandó társadalombiztosítási nyugellátásokat – figyelemmel a magánnyugdíjrendszerre is – egységes elvek alapján szabályozza.
+Az Országgyűlés az Alaptörvényben foglalt elveknek megfelelően az időskorúak és a tartósan vagy véglegesen munkaképtelenné válók, valamint hozzátartozóik megélhetésének biztosítása érdekében a társadalombiztosítási nyugellátásról az alábbi törvényt alkotja:E törvény célja, hogy a biztosítottak és hozzátartozóik részére nyújtandó társadalombiztosítási nyugellátásokat – figyelemmel a magánnyugdíjrendszerre is – egységes elvek alapján szabályozza.
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
 ### Alapelvek
 
-1. § (1) A kötelező társadalombiztosítási nyugdíjrendszer működtetése és fejlesztése az állam feladata. A társadalombiztosítási nyugdíjrendszer öregség, megrokkanás, megrokkanással járó baleset esetén a biztosított részére, elhalálozása esetén a hozzátartozója részére egységes elvek alapján nyugellátást biztosít.
+1. § (1) A kötelező társadalombiztosítási nyugdíjrendszer működtetése és fejlesztése az állam feladata. A társadalombiztosítási nyugdíjrendszer öregség esetén a biztosított részére, elhalálozása esetén a hozzátartozója részére egységes elvek alapján nyugellátást biztosít.
 
 (2) A szociális biztonsági tárgyú nemzetközi szerződés, illetve szociálpolitikai egyezmény hatálya alá tartozó személyre e törvény rendelkezéseit az adott nemzetközi szerződés (egyezmény) szabályai szerint kell alkalmazni.
 
-(3) A Magyar Honvédség, a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjainak nyugellátásával kapcsolatos eltérő szabályokról külön törvény rendelkezik.
+(3)
 
 (4) A nyugdíjbiztosítás szervezetéről külön törvény rendelkezik.
 
@@ -24,7 +24,7 @@ Az Országgyűlés az Alkotmányban foglalt elveknek megfelelően az időskorúa
 
 (4) Az, aki szolgálati idejének legalább egy részében a magánnyugdíjrendszer keretében is fizetett tagdíjat, és ennek alapján szolgáltatásra jogosultságot szerzett, a kizárólag társadalombiztosítási nyugellátásra (a továbbiakban: nyugellátás) jogosultakhoz képest eltérő mértékű társadalombiztosítási nyugdíjra jogosult.
 
-(5) Ha a biztosított élt a Tbj.-ben biztosított azon jogával, hogy a társadalombiztosítási nyugdíjrendszerben, valamint a magánnyugdíjrendszerben is részt vesz, és ennek megfelelően a magánnyugdíjrendszerben tagdíjat fizetett, illetőleg azt a foglalkoztató a keresetéből, a jövedelméből levonta, majd ennek összegét a társadalombiztosítási nyugdíjrendszer számára a biztosított döntése alapján átutalták, akkor nyugellátását, baleseti rokkantsági nyugdíját úgy kell megállapítani, mintha biztosítási idejének teljes tartama alatt kizárólag nyugdíjjárulék fizetésére lett volna kötelezett.
+(5) Ha a biztosított élt a Tbj.-ben biztosított azon jogával, hogy a társadalombiztosítási nyugdíjrendszerben, valamint a magánnyugdíjrendszerben is részt vesz, és ennek megfelelően a magánnyugdíjrendszerben tagdíjat fizetett, illetőleg azt a foglalkoztató a keresetéből, a jövedelméből levonta, majd ennek összegét a társadalombiztosítási nyugdíjrendszer számára a biztosított döntése alapján átutalták, akkor nyugellátását úgy kell megállapítani, mintha biztosítási idejének teljes tartama alatt kizárólag nyugdíjjárulék fizetésére lett volna kötelezett.
 
 (6)
 
@@ -42,14 +42,14 @@ Az Országgyűlés az Alkotmányban foglalt elveknek megfelelően az időskorúa
 
 - a) saját jogú nyugellátás és a hozzátartozói nyugellátás: olyan keresettől, jövedelemtől függő rendszeres pénzellátás, amely meghatározott szolgálati idő megszerzése esetén a biztosítottnak (volt biztosítottnak), illetve hozzátartozójának jár;
 - b) öregségi nyugdíj: meghatározott életkor elérése és meghatározott szolgálati idő megszerzése esetén járó nyugellátás;
-- c) rokkantsági nyugdíj: megrokkanás mellett meghatározott szolgálati idő megszerzése esetén járó nyugellátás;
-- d) baleseti rokkantsági nyugdíj: üzemi baleset (foglalkozási betegség) következtében történő megrokkanás esetén szolgálati időtől függetlenül járó nyugellátás;
+- c)–d)
 - e) özvegyi nyugdíj: az elhunyt nyugdíjas, illetve nyugdíjban nem részesülő, de nyugdíjjogosultságot szerzett elhunyt személy házastársának, meghatározott feltételek mellett élettársának, valamint elvált házastársának járó nyugellátás;
 - f) árvaellátás: az elhunyt nyugdíjas, illetve nyugdíjban nem részesülő, de nyugdíjjogosultságot szerzett elhunyt személy gyermekének, örökbefogadott gyermekének, meghatározott feltételek esetén nevelt gyermekének, testvérének, unokájának járó ellátás;
 - g) szülői nyugdíj: az elhunyt biztosított (nyugdíjas) szülőjének, nagyszülőjének, meghatározott feltételek fennállása esetén nevelőszülőjének járó ellátás;
 - h) szolgálati idő: az az időszak, amely alatt a biztosított nyugdíjjárulék fizetésére kötelezett volt, illetve megállapodás alapján nyugdíjjárulékot fizetett. A nyugdíjjárulék-fizetési kötelezettség nélkül szolgálati időnek minősülő időszakokat e törvény külön határozza meg;
 - i) nyugdíj alapjául szolgáló havi átlagkereset: a biztosított nyugdíjjárulék-fizetési kötelezettségének külön törvényben meghatározott alapját képező keresetnek, jövedelemnek az e törvény rendelkezései szerint számított átlaga;
-- j) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+- j) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
+- k) megváltozott munkaképességű: az a személy, akinek a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvényben foglaltak szerint az egészségi állapota legfeljebb 50 százalékos.
 
 (2) A biztosítottak és foglalkoztatók körével, továbbá a járulékfizetéssel összefüggő fogalommeghatározásokra a Tbj. rendelkezései az irányadók.
 
@@ -67,8 +67,7 @@ Az Országgyűlés az Alkotmányban foglalt elveknek megfelelően az időskorúa
 6. § (1) A társadalombiztosítási nyugdíjrendszer keretében járó saját jogú nyugellátások
 
 - a) az öregségi nyugdíj,
-- b) a rokkantsági nyugdíj,
-- c) a baleseti rokkantsági nyugdíj,
+- b)–c)
 - d) a külön jogszabály alapján járó rehabilitációs járadék.
 
 (2) A társadalombiztosítási nyugdíjrendszer keretében járó hozzátartozói nyugellátások
@@ -84,9 +83,11 @@ Az Országgyűlés az Alkotmányban foglalt elveknek megfelelően az időskorúa
 - a) több saját jogú nyugellátásra, vagy
 - b) több hozzátartozói nyugellátásra
 
-is jogosult – ha törvény másként nem rendelkezik – mind a saját jogú, mind a hozzátartozói nyugellátások közül a számára kedvezőbbet választhatja azzal, hogy a jogosultra kedvezőtlenebb nyugellátás folyósítása szüneteltetésre kerül. Ugyanazon üzemi baleset, foglalkozási megbetegedés alapján baleseti rokkantsági nyugdíj és baleseti járadék egyidejűleg nem jár.
+is jogosult – ha törvény másként nem rendelkezik – mind a saját jogú, mind a hozzátartozói nyugellátások közül a számára kedvezőbbet választhatja azzal, hogy a jogosultra kedvezőtlenebb nyugellátás folyósítása szüneteltetésre kerül.
 
-(4) Ha jogszabály kivételt nem tesz, a bányásznyugdíjra, a korengedményes nyugdíjra, az egyes művészeti tevékenységet folytatók öregségi nyugdíjára, a szolgálati nyugdíjra, az előnyugdíjra, a mezőgazdasági szövetkezeti járadékra, a mezőgazdasági szakszövetkezeti járadékra és a mezőgazdasági szakszövetkezeti tagok növelt összegű járadékára a társadalombiztosítási nyugdíjrendszer keretében járó nyugellátásokra vonatkozó szabályokat kell alkalmazni. A rehabilitációs járadékra a társadalombiztosítási nyugdíjrendszer keretében járó nyugellátásokra vonatkozó szabályokat a külön jogszabályban meghatározottak szerint kell alkalmazni.
+(4) Ha jogszabály kivételt nem tesz, a mezőgazdasági szövetkezeti járadékra, a mezőgazdasági szakszövetkezeti járadékra és a mezőgazdasági szakszövetkezeti tagok növelt összegű járadékára a társadalombiztosítási nyugdíjrendszer keretében járó nyugellátásokra vonatkozó szabályokat kell alkalmazni.
+
+(5) Az Európai Közösségek tisztviselőinek személyzeti szabályzatáról és egyéb alkalmazottainak alkalmazási feltételeiről szóló, 1968. február 29-i 259/68/EGK, Euratom, ESZAK tanácsi rendelet (a továbbiakban: SR.) VIII. melléklet 11. cikk (1) bekezdése alapján erre jogosult személy kérheti a szerzett nyugdíjjogosultság biztosításmatematikai egyenértékének a Nyugdíjbiztosítási Alapnak történő átadását. Az SR. VIII. melléklet 11. cikk (1) és (2) bekezdésének végrehajtásához szükséges egyéb szabályokról külön törvény rendelkezik.
 
 6/A. §
 
@@ -98,46 +99,13 @@ is jogosult – ha törvény másként nem rendelkezik – mind a saját jogú, 
 
 7. §
 
-### A korkedvezmény
+8. §
 
-8. § (1) Aki a szervezet fokozott igénybevételével járó, továbbá az egészségre különösen ártalmas munkát végez, korkedvezményben részesül.
+8/A. §
 
-(2) Az igénylőre irányadó öregségi nyugdíjkorhatárhoz képest kétévi korkedvezményben részesül
+8/B. §
 
-- a) az a férfi, aki legalább tíz és az a nő, aki legalább nyolc éven át korkedvezményre jogosító munkakörben, továbbá
-- b) az, aki legalább hat éven át 100 kPa-nál nagyobb nyomású légtérben
-
-dolgozott.
-
-(3) A korkedvezmény további egy-egy év
-
-- a) a korkedvezményre jogosító munkakörben végzett minden újabb öt-, nőnél négyévi, illetőleg
-- b) a 100 kPa-nál nagyobb nyomású légtérben végzett minden újabb háromévi
-
-munka után.
-
-(4) A korkedvezményre jogosító különböző munkakörökben (munkahelyeken) eltöltött időket egybe kell számítani. A 100 kPa-nál nagyobb nyomású légtérben végzett munka alapján figyelembe vehető idő minden harminc napját ötven nappal kell a korkedvezményre jogosító egyéb munkakörben (munkahelyen) eltöltött időhöz hozzászámítani.
-
-(5) A táppénzes állományban (betegszabadságon) eltöltött időt abban az esetben lehet korkedvezményre jogosító időként figyelembe venni, ha az igénylő keresőképtelenségének bekövetkezésekor korkedvezményre jogosító munkakörben (munkahelyen) dolgozott.
-
-8/A. § (1) A korkedvezményre jogosultság szempontjából figyelembe kell venni az 1. § (3) bekezdésben említett szerveknél (a továbbiakban: fegyveres szerv)
-
-- a) hivatásos szolgálatban ténylegesen eltöltött szolgálati időt,
-- b) nem hivatásos szolgálatban vagy más állam hadseregében eltöltött és az a) pont szerinti hivatásos szolgálatba beszámított időt.
-
-(2) A korkedvezményre jogosultság szempontjából figyelembe kell venni a fegyveres szerveknél továbbszolgáló állományban 1960. december 17-e után eltöltött időt is.
-
-(3) Továbbszolgáló állományban 1960. december 18-a előtt eltöltött időt, valamint a katonai szolgálatban eltöltött időt abban az esetben lehet a korkedvezményre jogosultság szempontjából számításba venni, ha az igénylő e szolgálatát megelőző és követő harminc napon belül korkedvezményre jogosító munkakörben (munkahelyen) dolgozott.
-
-8/B. § (1) Korkedvezményre – 2012. december 31-éig – a 2006. december 31-én hatályos rendelkezések szerinti munkakörök (munkahelyek) jogosítanak azzal, hogy a munkaköri jegyzékben szereplő, menetrendszerű tömegközlekedésben (személyszállításban) járművezetői munkakörben 2008. május 1-jétől végzett munka a jármű típusától függetlenül korkedvezményre jogosít. 2012. december 31-éig a 2006. december 31-én hatályos rendelkezéseket kell alkalmazni az egyes munkakörökre (munkahelyekre) vonatkozó különös számítási szabályokra is.
-
-(2) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv – a foglalkoztatáspolitikáért felelős miniszter véleményére is figyelemmel – engedélyezheti a korkedvezményre jogosító munkakörök (munkahelyek) jegyzékében felsorolt munkakörben 2008. január 1-je előtt eltöltött idő korkedvezményre jogosító időként történő figyelembevételét akkor is, ha a jegyzék szerint a korkedvezmény ágazati hatálya az adott munkahelyre nem terjed ki.
-
-(3) Ha a munkakör azonosítása tekintetében vita merül fel, a munkakör (munkahely) alapján feladatkörrel rendelkező miniszter és a szakmai, ágazati érdekképviselet, szakszervezet központi szerve véleményének a kikérése után a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv dönt.
-
-(4) Ha a hatóság külön törvényben foglaltak szerint a foglalkoztatót, egyéni vállalkozót a kérelmében megjelölt munkahelyen az adott munkakör tekintetében a korkedvezmény-biztosítási járulék megfizetési kötelezettsége alól mentesíti, az adott munkakör a mentesítés időpontjától annak visszavonásáig korkedvezményre nem jogosít.
-
-8/C. § 2013. január 1-jétől a korkedvezményre jogosító feltételek meghatározásáról külön törvény rendelkezik.
+8/C. §
 
 9. §
 
@@ -252,9 +220,7 @@ szolgálati idő (év) havi átlagkereset százaléka
 
 14. § Az öregségi nyugdíjra jogosultság azon a napon nyílik meg, amelyen a 18. §-ban meghatározott feltételek mindegyike teljesült.
 
-15. § (1) A rokkantsági nyugdíjas és a (2) bekezdésben foglaltak esetén a baleseti rokkantsági nyugdíjas öregségi nyugdíjra nem jogosult.
-
-(2) Az öregségi nyugdíjra jogosultságot a baleseti rokkantsági nyugdíj abban az esetben zárja ki, ha ennek összegét szolgálati időként figyelembe vehető jogviszonyban elért kereset alapján állapították meg.
+15. §
 
 16. § Ha az 1997. december 31-ét követő és 1999. január 1-je előtti időponttól megállapításra kerülő öregségi nyugdíj alapját képező havi átlagkereset 35 000 forintnál több
 
@@ -326,67 +292,11 @@ a 90 000 forint feletti átlagkeresetrész tíz százalékát kell az
 
 – az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – azon a napon, amelytől kezdődően az öregségi nyugdíjat megállapítják, a Tbj. 5. §-a (1) bekezdésének a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszonyban áll.
 
-18/A. § (1) Az öregségi nyugdíjkorhatár betöltését megelőzően előrehozott öregségi nyugdíjra jogosult az a 60. életévét betöltött, 1950-ben született férfi és az az 59. életévét betöltött, 1952-ben vagy 1953-ban született nő, aki
+18/A. §
 
-- a) legalább 40 év szolgálati időt szerzett, és
-- b) azon a napon, amelytől kezdődően az előrehozott öregségi nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonyban nem áll.
+18/B. §
 
-(2) Csökkentett összegű előrehozott öregségi nyugdíjra jogosult az a 60. életévét betöltött, 1950-ben született férfi és az az 59. életévét betöltött, 1952-ben vagy 1953-ban született nő, aki
-
-- a) legalább 37 év szolgálati időt szerzett, és
-- b) azon a napon, amelytől kezdődően a csökkentett összegű előrehozott öregségi nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonyban nem áll.
-
-(3) A (2) bekezdés szerinti esetben a csökkentés mértéke a társadalombiztosítási nyugdíj megállapításának időpontjától az öregségi nyugdíjkorhatár betöltéséig terjedő időszak minden 30 napjára, de legfeljebb 1095 napra – 40 év szolgálati időnél
-
-- a) 1–365 nappal rövidebb szolgálati idővel rendelkező személy esetében – havi 0,1 százalék,
-- b) 366–730 nappal rövidebb szolgálati idővel rendelkező személy esetében – havi 0,2 százalék,
-- c) 731–1095 nappal rövidebb szolgálati idővel rendelkező személy esetében – havi 0,3 százalék.
-
-(4) Az öregségi nyugdíjkorhatár betöltése a csökkentést nem érinti.
-
-(5) Az előrehozott öregségi nyugdíjra és a csökkentett összegű előrehozott öregségi nyugdíjra való jogosultság, valamint a csökkentés mértékének megállapítása szempontjából szolgálati időként kell figyelembe venni a rokkantsági nyugdíj és a baleseti rokkantsági nyugdíj folyósításának időtartamát.
-
-(6) Nem jogosult előrehozott öregségi nyugdíjra és csökkentett összegű előrehozott öregségi nyugdíjra
-
-- a) az az uniós rendeletek hatálya alá tartozó személy, aki EGT-államban,
-- b) az a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy – ha az egyezmény eltérően nem rendelkezik –, aki a szerződő államban
-
-– az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – azon a napon, amelytől kezdődően az előrehozott öregségi nyugdíjat, illetve a csökkentett összegű előrehozott öregségi nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszonyban áll.
-
-18/B. § (1) Az öregségi nyugdíjkorhatár betöltését megelőzően két évvel előrehozott öregségi nyugdíjra jogosult az az 1950. december 31-ét követően született férfi, valamint az az 1958. december 31-ét követően született nő, aki
-
-- a) legalább 37 év szolgálati időt szerzett, és
-- b) azon a napon, amelytől kezdődően az előrehozott öregségi nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonyban nem áll.
-
-(2) Az (1) bekezdés szerinti előrehozott öregségi nyugdíj összegét úgy kell meghatározni, hogy az öregségi nyugdíj összegét
-
-- a) annyiszor 0,3 százalékkal kell csökkenteni, ahányszor 30 naptári nap hiányzik az öregségi nyugdíjkorhatár betöltéséhez, ha a jogosult az öregségi nyugdíjkorhatárnál legfeljebb egy évvel fiatalabb,
-- b) 3,6 százalékkal, továbbá annyiszor 0,4 százalékkal kell csökkenteni, ahányszor 30 naptári nap hiányzik az öregségi nyugdíjkorhatárnál egy évvel alacsonyabb életkor betöltéséhez, ha a jogosult az öregségi nyugdíjkorhatárnál több mint egy évvel fiatalabb. Az öregségi nyugdíjkorhatár betöltése a csökkentést nem érinti.
-
-(3) Az (1) bekezdésben foglaltakon túl előrehozott öregségi nyugdíjra jogosult
-
-- a) az az (1) bekezdés a)–b) pontjában meghatározott feltételeknek megfelelő nő is, aki
-  - aa) 1954-ben született és a 60 éves és 183 napos életkort betöltötte,
-  - ab) 1955-ben született és 61. életévét betöltötte,
-  - ac) 1956-ban született és a 61 éves és 183 napos életkort betöltötte,
-  - ad) 1957-ben született és 62. életévét betöltötte,
-  - ae) 1958-ban született és a 62 éves és 183 napos életkort betöltötte;
-- b) az az (1) bekezdés b) pontjában meghatározott feltételnek megfelelő és legalább 42 év szolgálati idővel rendelkező férfi is, aki
-  - ba) 1952-ben vagy 1953-ban született és 60. életévét betöltötte,
-  - bb) 1954-ben született és a 60 éves és 183 napos életkort betöltötte. Az a)–b) pont szerinti esetekben a (2) bekezdés szerinti csökkentés mértéke nem haladhatja meg az öregségi nyugdíj összegének 8,4 százalékát.
-
-(4) Az előrehozott öregségi nyugdíjra való jogosultság szempontjából szolgálati időként kell figyelembe venni a rokkantsági nyugdíj és a baleseti rokkantsági nyugdíj folyósításának időtartamát.
-
-(5) Nem jogosult előrehozott öregségi nyugdíjra
-
-- a) az az uniós rendeletek hatálya alá tartozó személy, aki EGT-államban,
-- b) az a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy – ha az egyezmény eltérően nem rendelkezik –, aki a szerződő államban
-
-– az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – azon a napon, amelytől kezdődően az előrehozott öregségi nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszonyban áll.
-
-19. § (1) Aki a szervezet fokozott igénybevételével járó, továbbá egészségre különösen ártalmas munkát végzett, korkedvezményre a 8–8/C. §-ban foglaltak megfelelő alkalmazásával jogosult.
-
-(2) A korkedvezményt szerzett személynek az öregségi nyugdíjkorhatárhoz képest az előrehozott öregségi nyugdíj annyi évvel alacsonyabb életkorban jár, ahány évvel korábban őt a korkedvezményre jogosultság nélkül az előrehozott öregségi nyugdíj megilletné. Az előrehozott öregségi nyugdíjra jogosultság meghatározásánál a megszerzett szolgálati időt, a nyugdíjcsökkenés mértékének meghatározásánál pedig a megszerzett szolgálati időt, illetve az elért életkort a korkedvezmény időtartamával növelve kell figyelembe venni.
+19. §
 
 ### Az öregségi nyugdíj összege
 
@@ -500,9 +410,9 @@ szolgálati idő (év) a havi bruttó átlagkereset százaléka
 
 21. § (1) Az öregségi nyugdíj összege – a (3) bekezdésben foglalt kivétellel – az annak alapját képező havi átlagkeresetnél több nem lehet.
 
-(2) Aki húsz év szolgálati idővel rendelkezik és a reá irányadó öregségi nyugdíjkorhatár betöltése után a nyugdíj megállapítása nélkül legalább 30 naptári napra szolgálati időt szerez, nyugdíjnövelésben részesül. A nyugdíjnövelés mértéke minden 30 nap után az öregségi nyugdíj, baleseti rokkantsági nyugdíj 0,5 százaléka.
+(2) Aki húsz év szolgálati idővel rendelkezik és a reá irányadó öregségi nyugdíjkorhatár betöltése után a nyugdíj megállapítása nélkül legalább 30 naptári napra szolgálati időt szerez, nyugdíjnövelésben részesül. A nyugdíjnövelés mértéke minden 30 nap után az öregségi nyugdíj 0,5 százaléka.
 
-(3) A (2) bekezdésben meghatározott nyugdíjnöveléssel az öregségi nyugdíj, baleseti rokkantsági nyugdíj a megállapítása alapjául szolgáló havi átlagkeresetet meghaladhatja.
+(3) A (2) bekezdésben meghatározott nyugdíjnöveléssel az öregségi nyugdíj a megállapítása alapjául szolgáló havi átlagkeresetet meghaladhatja.
 
 22. § (1) Az öregségi nyugdíj összegét az 1988. január 1-jétől a nyugdíj megállapításának kezdő napjáig elért (kifizetett) – a kifizetés idején érvényes szabályok szerint nyugdíjjárulék alapjául szolgáló –, a személyi jövedelemadót is tartalmazó, csökkentés nélküli bruttó kereset, jövedelem havi átlaga alapján kell meghatározni. Keresetként, jövedelemként kell figyelembe venni:
 
@@ -516,9 +426,9 @@ szolgálati idő (év) a havi bruttó átlagkereset százaléka
 - h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díjat,
 - i) a Tbj. 30/A. § (2) bekezdésében meghatározott mezőgazdasági őstermelő esetében az éves bevételének 6 százalékát.
 
-(2) Az öregségi nyugdíj alapját képező havi átlagkereset meghatározásánál a munkanélküli-járadék, vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás, a gyermekgondozási segély, nyugdíjjárulék-köteles szociális ellátások (gyermeknevelési támogatás, ápolási díj), a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–4. és 5. §-a szerinti prémiumévek program, illetőleg különleges foglalkoztatási állomány keretében járó juttatás, a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény (a továbbiakban: Rjtv.) szerinti rehabilitációs járadék összegét, valamint a felsorolt ellátások folyósításának időtartama alatti biztosítással járó jogviszonyból származó jövedelmet (keresetet) – a kifizetésük (folyósításuk) időpontjától függetlenül – figyelmen kívül kell hagyni. Ha az igénylőre kedvezőbb,
+(2) Az öregségi nyugdíj alapját képező havi átlagkereset meghatározásánál a munkanélküli-járadék, vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás, a gyermekgondozási segély, nyugdíjjárulék-köteles szociális ellátások (gyermeknevelési támogatás, ápolási díj), a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–4. és 5. §-a szerinti prémiumévek program, illetőleg különleges foglalkoztatási állomány keretében járó juttatás, a rehabilitációs járadékról szóló 2007. évi LXXXIV. törvény (a továbbiakban: Rjtv.) szerinti rehabilitációs járadék és a rehabilitációs ellátás összegét, valamint a felsorolt ellátások folyósításának időtartama alatti biztosítással járó jogviszonyból származó jövedelmet (keresetet) – a kifizetésük (folyósításuk) időpontjától függetlenül – figyelmen kívül kell hagyni. Ha az igénylőre kedvezőbb,
 
-- a) a gyermekgondozási segély, a gyermeknevelési támogatás, az ápolási díj, a munkanélküli-járadék, vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás, a Péptv. 3–4. és 5. §-a szerinti prémiumévek program, illetőleg különleges foglalkoztatási állomány keretében járó juttatás, továbbá az Rjtv. szerinti rehabilitációs járadék összegét,
+- a) a gyermekgondozási segély, a gyermeknevelési támogatás, az ápolási díj, a munkanélküli-járadék, vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás, a Péptv. 3–4. és 5. §-a szerinti prémiumévek program, illetőleg különleges foglalkoztatási állomány keretében járó juttatás, továbbá az Rjtv. szerinti rehabilitációs járadék és a rehabilitációs ellátás összegét,
 - b) amennyiben az a) pontban meghatározott ellátás folyósításával egyidejűleg biztosítási jogviszonnyal is rendelkezik, az abból származó jövedelem (kereset) és az ellátás együttes összegét
 
 kell keresetként figyelembe venni.
@@ -543,260 +453,15 @@ kell keresetként figyelembe venni.
 
 (3) A növelésre irányuló kérelmet évente egy alkalommal, legkorábban a kereset, jövedelem megszerzését követő naptári évben lehet benyújtani. Ha a növelés iránti kérelem több naptári évben megszerzett keresetre, jövedelemre vonatkozik, a növelés összegét naptári évenként kell meghatározni.
 
-### III. Fejezet — A ROKKANTSÁGIÉS A BALESETI ROKKANTSÁGI NYUGDÍJ
+### III. Fejezet
 
-### 1. CÍM — A rokkantsági nyugdíj
-
-### A nyugdíjjogosultság
-
-23. § (1) Rokkantsági nyugdíjra az jogosult, aki
-
-- a) egészségromlás, illetőleg testi vagy szellemi fogyatkozás következtében munkaképességét hatvanhét százalékban elvesztette és ebben az állapotában javulás egy évig nem várható (a továbbiakban: rokkant),
-- b) a szükséges szolgálati időt megszerezte, és
-- c) rendszeresen nem dolgozik, vagy keresete lényegesen kevesebb a megrokkanás előtti keresetnél.
-
-(2) Az öregségi – ideértve az előrehozott öregségi nyugdíjat is – és a baleseti rokkantsági nyugdíjas rokkantsági nyugdíjra nem jogosult. Rokkantsági nyugdíj nem állapítható meg annak, aki saját rokkantságát szándékosan okozta, továbbá annak sem, aki a reá irányadó öregségi nyugdíjra jogosító korhatárt elérte, kivéve, ha öregségi nyugdíjra korkedvezmény címén jogosult, vagy rokkantsági nyugdíjat a jogosultság feléledése címén igényel.
-
-### A nyugdíjjogosultsághoz szükséges szolgálati idő
-
-24. § (1) A rokkantsági nyugdíjhoz szükséges szolgálati idő
-
-22 éves életkor betöltése előtt 2 év,
-
-22–24 éves életkorban 4 év, korkedvezményre jogosító munkakörben 3 év,
-
-25–29 éves életkorban 6 év, korkedvezményre jogosító munkakörben 4 év,
-
-30–34 éves életkorban 8 év, korkedvezményre jogosító munkakörben 6 év,
-
-35–44 éves életkorban 10 év, korkedvezményre jogosító munkakörben 8 év,
-
-45–54 éves életkorban 15 év, korkedvezményre jogosító munkakörben 12 év,
-
-55 éves életkor betöltésétől 20 év, korkedvezményre jogosító munkakörben 16 év.
-
-(2) Az, aki az iskolai tanulmányai megszűnését követő 180 napon belül szolgálati időt szerzett és huszonkét éves kora előtt megrokkan, szolgálati idejének tartamára tekintet nélkül jogosult rokkantsági nyugdíjra.
-
-(3) Az a rokkant, aki
-
-- a) a negyvenötödik életévét, illetőleg 1993. július 1-je előtt az ötvenötödik életévét már betöltötte és legalább tízévi,
-- b) 1993. június 30-át követően az ötvenötödik életévét betölti és legalább tizenöt évi szolgálati idővel rendelkezik, rokkantsági résznyugdíjra jogosult.
-
-25. § (1) A rokkantsági nyugdíjhoz szükséges szolgálati idő megállapításánál a megrokkanás időpontjában betöltött életkort kell figyelembe venni.
-
-(2) Az, aki a megrokkanáskor betöltött életkora szerint szükséges szolgálati időt nem szerezte meg, rokkantsági nyugdíjra akkor jogosult, ha az alacsonyabb korcsoportban az előírt szolgálati időt megszerezte és ezt követően szolgálati idejében a megrokkanásig harminc napnál hosszabb megszakítás nincs. E harminc napba nem lehet beszámítani a keresőképtelenség idejét.
-
-(3) Abban az esetben, ha az igénylő korkedvezményre jogosító és egyéb szolgálati időt is szerzett, a rokkantsági nyugdíjhoz szükséges szolgálati időnek nem kizárólag korkedvezményre jogosító idő alapján történő számításánál a korkedvezményre jogosító munkakörben eltöltött minden évet egy és negyedévként kell számításba venni.
-
-(4) Az, aki szolgálati idejének a kezdetét megelőző időtől rokkant, rokkantsági nyugdíjra akkor jogosult, ha az igénybejelentés időpontjában betöltött életkora szerint szükséges szolgálati időt megszerezte, és rendszeresen nem dolgozik, vagy keresete lényegesen kevesebb a nyugdíj igénylését megelőző kereseténél.
-
-### A nyugdíjjogosultság megnyílása
-
-26. § (1) A rokkantsági nyugdíjra a jogosultság azzal a nappal nyílik meg, amelytől a rokkantság a rehabilitációs szakértői szerv véleménye szerint fennáll. Ha a rehabilitációs szakértői szerv a megrokkanás időpontjáról nem nyilatkozott, a megrokkanás időpontjának az igénybejelentés napját kell tekinteni.
-
-(2) Ha az igénylőnek az (1) bekezdésben megjelölt napig nincs meg a jogosultsághoz szükséges szolgálati ideje, a rokkantsági nyugdíjra jogosultság a szükséges szolgálati idő megszerzését követő nappal nyílik meg.
-
-27. § (1) Ha az igénylő a 26. §-ban meghatározott napon munkaviszonyban áll, rokkantsági nyugdíjra a jogosultság azon a napon nyílik meg, amelytől
-
-- a) munkaviszonyban már nem áll, és táppénzben, baleseti táppénzben nem részesül, vagy
-- b) munkát rendszeresen nem végez, és táppénzben, baleseti táppénzben nem részesül, vagy
-- c) lényegesen kisebb keresetet biztosító munkakörben dolgozik.
-
-(2)
-
-### A nyugdíj összege, a nyugdíj alapjául szolgáló kereset
-
-28. § (1) A rokkantsági nyugdíj alapját képező havi átlagkereset megállapításánál az öregségi nyugdíjra vonatkozó rendelkezéseket (12., 13., 16., 17. és 22. §-ok) kell megfelelően alkalmazni azzal az eltéréssel, hogy amennyiben a rokkantsági nyugdíjra jogosultsághoz figyelembe vehető szolgálati idő rövidebb a 22. § (1) bekezdésében meghatározott átlagszámítási időszaknál, a rokkantsági nyugdíjat e rövidebb idő alatt elért kereset, jövedelem havi átlaga alapján kell megállapítani, legalább 30 napi kereset hiányában pedig azt a – külön jogszabályban általánosan meghatározott – minimálbért kell havi átlagkeresetnek tekinteni, amely azt a napot megelőző naptári hónapban érvényes, amely naptól a nyugdíjat megállapítják.
-
-(2) Ha a biztosított magán-nyugdíjpénztári tag, a rokkantsági nyugdíj összegét – figyelemmel a 2. § (6) bekezdésében foglaltakra is – úgy kell megállapítani, hogy a szolgálati időtől, az átlagkeresete összegétől és a rokkantság fokától függően kiszámított összeget meg kell szorozni az 1. mellékletben meghatározott szorzószámmal.
-
-29. § (1) A rokkantsági nyugdíj mértéke a megrokkanás időpontjában betöltött életkortól, a nyugdíj megállapításáig szerzett szolgálati idő tartamától és a rokkantság fokától függ. A rokkantság fokának megfelelően
-
-- a) a III. rokkantsági csoportba tartozik az, aki rokkant, de nem teljesen munkaképtelen,
-- b) a II. rokkantsági csoportba tartozik az, aki teljesen munkaképtelen, de mások gondozására nem szorul,
-- c) a I. rokkantsági csoportba tartozik az, aki teljesen munkaképtelen, és mások gondozására szorul.
-
-(2) A rokkantsági nyugdíj összege nem lehet kevesebb az (1) bekezdésben meghatározott rokkantsági csoportok sorrendjében a havi átlagkereset 37,5, 42,5, illetőleg 47,5 százalékánál.
-
-(3) A rokkantsági nyugdíj összege az ennek alapját képező havi átlagkeresetnél több nem lehet.
-
-(4) A rokkantsági nyugdíj mértéke huszonöt évet meghaladó szolgálati idő után a III. rokkantsági csoportban az öregségi nyugdíj mértékével azonos.
-
-(5) A rokkantsági nyugdíj összege a II. rokkantsági csoportban a havi átlagkereset öt, az I. rokkantsági csoportban pedig tíz százalékával több, mint a III. rokkantsági csoportban.
-
-(6)
-
-### A rokkantság felülvizsgálata, a rokkantsági nyugdíj módosítása és a feléledés
-
-30. § (1) A rokkantsági nyugdíjra jogosultság megszűnik, ha a nyugdíjas már nem rokkant, vagy rendszeresen dolgozik és keresete négy hónap óta lényegesen nem kevesebb annál a keresetnél, amelyet a megrokkanás előtti munkakörében rokkantság nélkül elérhetne.
-
-(2) A rokkantsági nyugdíjra jogosultság a szolgálati idő tartamától függetlenül feléled, ha a jogosultság egyéb feltételei a nyugdíj megszüntetése után öt éven belül a rokkantsági nyugdíj megállapítására a feléledés időpontjában alkalmazandó szabályok alapján ismét fennállnak. A jogosultat a nyugdíj megszüntetését követő emelések, kiegészítések is megilletik.
-
-(3) Az, aki az öregségi nyugdíjra jogosító életkort – ide nem értve a korkedvezményre jogosultat – még nem töltötte be, feléledés helyett kérheti rokkantsági nyugdíjra jogosultságának új igényként történő elbírálását.
-
-31. § (1) Ha a rokkantsági nyugdíjas állapotváltozás miatt más rokkantsági csoportba kerül, rokkantsági nyugdíja mértékét ennek megfelelően módosítani kell. Az öregségi nyugdíjra jogosító életkor betöltése után azonban a rokkantsági nyugdíj mértékét állapotváltozás miatt módosítani nem lehet.
-
-(2) A rokkantsági nyugdíjat az öregségi nyugdíjra jogosító életkor betöltése után csak a III. rokkantsági csoportnak megfelelő összegben lehet újból megállapítani.
-
-(3) A rokkantsági nyugdíjat és a baleseti rokkantsági nyugdíjat állapotváltozás esetén rokkantsági csoportonként annak a rokkantsági nyugdíjnak az öt százalékával kell emelni, illetőleg csökkenteni, amely a rokkantat az állapotváltozás időpontjában megilleti.
-
-### 2. CÍM — A baleseti rokkantsági nyugdíj
-
-### A nyugdíjjogosultság
-
-32. § (1) Baleseti rokkantsági nyugdíj üzemi baleset vagy foglalkozási betegség esetén a 33. §-ban meghatározott feltételek mellett jár.
-
-(2) Az üzemi baleset társadalombiztosítási fogalmát, az üzemi balesetek és a foglalkozási betegségek bejelentésére és nyilvántartására, valamint az adatszolgáltatásra vonatkozó szabályokat a kötelező egészségbiztosítás ellátásairól szóló törvény (a továbbiakban: Eb.) határozza meg.
-
-(3) Az, aki sérülését szándékosan okozta, vagy az orvosi segítség igénybevételével, illetőleg a baleset bejelentésével szándékosan késlekedett, sérülése alapján baleseti rokkantsági nyugdíjra nem jogosult.
-
-33. § (1) Baleseti rokkantsági nyugdíjra az jogosult, aki munkaképességét hatvanhét százalékban túlnyomóan üzemi baleset következtében elvesztette, és rendszeresen nem dolgozik, vagy keresete lényegesen kevesebb a megrokkanás előtti kereseténél.
-
-(2) Baleseti rokkantsági nyugdíjra jogosult az is, aki munkaképességét ötven százalékban szilikózis következtében vesztette el, és nem dolgozik, vagy szilikózisveszély-mentes munkakörben, illetőleg munkahelyen
-
-- a) nem rendszeresen dolgozik, vagy
-- b) keresete lényegesen kevesebb a megrokkanás előtti kereseténél.
-
-(3) A baleseti rokkantsági nyugdíjra jogosultság megnyílása szempontjából a 26. és 27. § rendelkezéseit kell megfelelően alkalmazni.
-
-### A nyugdíj összege
-
-34. § (1) A baleseti rokkantsági nyugdíj összegét a rokkantsági nyugdíj megállapítására vonatkozó rendelkezések szerint, vagy ha az kedvezőbb, az igénylő kérelmére a balesetet megelőző egy évi, nyugdíjjárulék alapját képező kereset alapján kell meghatározni.
-
-(2) A baleseti rokkantsági nyugdíj mértéke a rokkantság fokától és a szolgálati idő tartamától függ. A rokkantság fokának megfelelően
-
-- a) a III. rokkantsági csoportba tartozik az, aki munkaképességének a hatvanhét – szilikózis miatt az ötven – százalékát elvesztette, de nem teljesen munkaképtelen,
-- b) a II. rokkantsági csoportba tartozik az, aki teljesen munkaképtelen, de mások gondozására nem szorul,
-- c) az I. rokkantsági csoportba tartozik az, aki teljesen munkaképtelen, és mások gondozására szorul.
-
-(3) A baleseti rokkantsági nyugdíj összege a (2) bekezdésben meghatározott rokkantsági csoportok sorrendjében a havi átlagkereset hatvan, hatvanöt, illetőleg hetven százaléka.
-
-(4) A baleseti rokkantsági nyugdíj összege a szolgálati idő minden éve után a havi átlagkereset egy százalékával emelkedik, az átlagkeresetnél azonban több nem lehet.
-
-### A nyugdíjjogosultság megszűnése
-
-35. § (1) A baleseti rokkantsági nyugdíjra jogosultság megszűnik, ha a nyugellátásban részesülő személy túlnyomóan üzemi baleset, foglalkozási megbetegedés következtében kialakult munkaképesség-csökkenése a hatvanhét – szilikózis miatt az ötven – százalékot már nem éri el.
-
-(2) Állapotjavulás nélkül is megszűnik a baleseti rokkantsági nyugdíjra jogosultság akkor, ha a nyugdíjas rendszeresen dolgozik és keresete négy hónap óta lényegesen nem kevesebb annál a keresetnél, amelyet a megrokkanás előtti munkakörében rokkantság nélkül elérhetne. A baleseti sérült részére ebben az esetben – a baleseti rokkantsági nyugdíj helyett – az Eb.-ben szabályozott 4. fokozatú baleseti járadékot kell megállapítani.
-
-(3) A baleseti rokkantsági nyugdíj állapotváltozás miatti módosítására és a feléledésére a 30–31. §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy az öregségi nyugdíjkorhatár betöltését követően a baleseti rokkantsági nyugdíjat egészségromlás miatt módosítani kell.
-
-### Jogosultság újabb üzemi baleset esetén
-
-36. § (1) Újabb üzemi baleset esetén valamennyi baleset következményét együttesen kell figyelembe venni.
-
-(2) Az (1) bekezdésben megjelölt esetben a baleseti rokkantsági nyugdíjat a korábbi és az újabb üzemi balesetre irányadó átlagkeresetek közül a kedvezőbb alapján kell megállapítani.
-
-### 3. CÍM — A 2007. december 31-ét követő időponttól megállapításra kerülő rokkantsági, baleseti rokkantsági nyugdíj
-
-### A rokkantsági nyugdíjjogosultság
-
-36/A. § (1) Rokkantsági nyugdíjra az jogosult, aki
-
-- a) esetében az Rjtv. 1. §-ának a) pontjában meghatározott egészségkárosodás (a továbbiakban: egészségkárosodás)
-  - aa) 79 százalékot meghaladó mértékű, vagy
-  - ab) 50–79 százalékos mértékű, ezzel összefüggésben a jelenlegi vagy az egészségkárosodását megelőző munkakörében, illetve a képzettségének megfelelő más munkakörben való foglalkoztatásra rehabilitáció nélkül nem alkalmas, azonban a rehabilitációs szakértői szerv szakhatósági állásfoglalása alapján rehabilitációja nem javasolt [az aa)–ab) pontok szerinti ismérvek valamelyikének megfelelő személy a továbbiakban: rokkant], és
-- b) az életkorára előírt szolgálati idővel rendelkezik, és
-- c) az egészségkárosodás következtében
-  - ca) az Rjtv. 1. §-ának b) pontja szerinti kereső tevékenységet nem folytat, vagy
-  - cb) az Rjtv. 1. §-ának c) pontja szerinti keresete, jövedelme legalább 30 százalékkal alacsonyabb az egészségkárosodást megelőző négy naptári hónapra vonatkozó keresete, jövedelme havi átlagánál, és
-- d) táppénzben, baleseti táppénzben nem részesül.
-
-(2) Az (1) bekezdés szerinti jogosultság elbírálásánál a 23. § (2) bekezdésében, valamint a 26. §-ban foglaltakat alkalmazni kell.
-
-(3) Ha az egészségkárosodás azelőtt következett be, hogy az igénylő szolgálati időt szerzett volna, az (1) bekezdés cb) alpontja szerinti feltételt azt az időpontot megelőző négy naptári hónapra kell vizsgálni, amelytől kezdődően az igénylő a rokkantsági nyugdíj megállapítását kéri.
-
-(4) Az (1) bekezdés c) pontja alkalmazása során
-
-- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
-- b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
-
-végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.
-
-### A rokkantsági nyugdíjjogosultsághoz szükséges szolgálati idő
-
-36/B. § A rokkantsági nyugdíjhoz szükséges szolgálati idő meghatározására a 24–25. §-ban foglalt rendelkezéseket kell alkalmazni.
-
-### A rokkantsági nyugdíj összege, mértéke, az alapul szolgáló kereset
-
-36/C. § A rokkantsági nyugdíj alapját képező havi átlagkereset megállapítására, valamint a rokkantsági nyugdíj összegének meghatározására a 28–29. §-ban foglaltakat kell alkalmazni azzal, hogy a rokkantsági nyugdíj mértékét a 36/A. § (1) bekezdésének aa) pontja szerinti esetben – attól függően, hogy a jogosult mások gondozására szorul-e – az I. vagy II. rokkantsági csoportnak, az ab) pontja szerinti esetben pedig a III. rokkantsági csoportnak megfelelően kell meghatározni.
-
-### A rokkantsági nyugdíj megszűnése és feléledése
-
-36/D. § (1) A rokkantsági nyugdíjra jogosultság megszűnik, ha
-
-- a) a nyugdíjas már nem rokkant, vagy
-- b) a 36/A. § (1) bekezdés a) pont ab) alpontja szerinti, az irányadó öregségi nyugdíjkorhatárt el nem érő és az Rjtv. 1. § b) pontja szerinti keresőtevékenységet folytató rokkant hat egymást követő hónapra vonatkozó keresetének, jövedelmének havi átlaga meghaladja
-  - ba) a rokkantsági nyugdíj összegének kétszeresét és
-  - bb) a mindenkori kötelező legkisebb munkabér összegét. A kereset, jövedelem vizsgálata céljából az Rjtv. 13. § (3) bekezdésében foglaltakat a rokkantsági nyugdíjas esetében is alkalmazni kell.
-
-(2) Amennyiben a rokkantsági nyugdíjas foglalkoztatására a foglalkoztatására irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor, a nyugdíjbiztosítási igazgatási szerv soron kívüli felülvizsgálatot rendel el, amelynek keretében el kell végezni az érintett személy komplex minősítését. A felülvizsgálat, illetve a komplex minősítés időtartamára a rokkantsági nyugdíj folyósítását fel kell függeszteni. Amennyiben a felülvizsgálat során megállapítható, hogy a jogosultsági feltételek továbbra is fennállnak, a rokkantsági nyugdíjat a felfüggesztés időpontjától kezdődően folyósítani kell. A jogosultsági feltételek hiányában a rokkantsági nyugdíjat meg kell szüntetni.
-
-(3)
-
-(4) A rokkantsági nyugdíjra jogosultság a szolgálati idő tartamától függetlenül feléled, ha a jogosultság egyéb feltételei a nyugdíj megszüntetése után öt éven belül a rokkantsági nyugdíj megállapítására a feléledés időpontjában alkalmazandó szabályok alapján ismét fennállnak. A jogosultat a nyugdíj megszüntetését követő emelések, kiegészítések is megilletik. Aki az öregségi nyugdíjra jogosító életkort – ide nem értve a korkedvezményre jogosult személyre irányadó életkort – a jogosultság egyéb feltételeinek ismételt bekövetkezésekor még nem töltötte be, feléledés helyett kérheti rokkantsági nyugdíjra való jogosultságának új igényként történő elbírálását.
-
-(5) Ha a rokkantsági nyugdíjas egészségkárosodásának mértéke változik, rokkantsági nyugdíja mértékét ennek megfelelően módosítani kell. Az öregségi nyugdíjra jogosító életkor betöltése után azonban a rokkantsági nyugdíj mértékét az egészségkárosodás változása miatt módosítani nem lehet.
-
-(6) Az (1) bekezdés b) pontja alkalmazása során
-
-- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
-- b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
-
-végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a nyugdíjas nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.
-
-### A baleseti rokkantsági nyugdíjjogosultság
-
-36/E. § (1) Baleseti rokkantsági nyugdíjra az jogosult, aki
-
-- a) túlnyomóan üzemi baleset vagy foglalkozási betegség következtében rokkant, és
-- b) az egészségkárosodás következtében
-  - ba) az Rjtv. 1. §-ának b) pontja szerinti kereső tevékenységet nem folytat, vagy
-  - bb) az Rjtv. 1. §-ának c) pontja szerinti keresete, jövedelme legalább 30 százalékkal alacsonyabb az egészségkárosodást megelőző négy naptári hónapra vonatkozó keresete, jövedelme havi átlagánál, és
-- c) táppénzben, baleseti táppénzben nem részesül.
-
-(2) A jogosultság elbírálásánál a 26. §-ban, valamint a 32. § (2)–(3) bekezdésében és a 36. §-ban foglaltakat alkalmazni kell.
-
-(3) Baleseti rokkantsági nyugdíjra jogosult az is, akinek az egészségkárosodása szilikózis vagy aszbesztózis miatt következett be, és az egészségkárosodás mértéke eléri a 40 százalékot, továbbá az (1) bekezdésben meghatározott egyéb jogosultsági feltételeknek megfelel.
-
-(4) Az (1) bekezdés b) pontja alkalmazása során
-
-- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
-- b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
-
-végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.
-
-### A baleseti rokkantsági nyugdíj összegének meghatározása
-
-36/F. § A baleseti rokkantsági nyugdíj alapját képező havi átlagkereset megállapítására, valamint a baleseti rokkantsági nyugdíj összegének meghatározására a 34. §-ban foglaltakat kell alkalmazni azzal, hogy a baleseti rokkantsági nyugdíj mértékét a 36/A. § (1) bekezdésének aa) alpontja szerinti esetben – attól függően, hogy a jogosult mások gondozására szorul-e – az I. vagy II. rokkantsági csoportnak, az ab) alpontja, valamint a 36/E. § (3) bekezdése szerinti esetekben pedig a III. rokkantsági csoportnak megfelelően kell meghatározni.
-
-### A baleseti rokkantsági nyugdíj megszűnése és feléledése
-
-36/G. § (1) A baleseti rokkantsági nyugdíjra jogosultság megszűnik, ha
-
-- a) a nyugdíjas túlnyomóan üzemi baleset, foglalkozási betegség vagy szilikózis (azbesztózis) következtében kialakult egészségkárosodás miatt már nem minősül rokkantnak, vagy
-- b) a 36/A. § (1) bekezdés a) pont ab) alpontja szerinti, az irányadó öregségi nyugdíjkorhatárt el nem érő és az Rjtv. 1. § b) pontja szerinti keresőtevékenységet folytató rokkant hat egymást követő hónapra vonatkozó keresetének, jövedelmének havi átlaga meghaladja
-  - ba) a baleseti rokkantsági nyugdíj összegének kétszeresét és
-  - bb) a mindenkori kötelező legkisebb munkabér összegét. A kereset, jövedelem vizsgálata céljából az Rjtv. 13. § (3) bekezdésében foglaltakat a baleseti rokkantsági nyugdíjas esetében is alkalmazni kell.
-
-(2) Amennyiben a baleseti rokkantsági nyugdíjas foglalkoztatására a foglalkoztatására irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor, a nyugdíjbiztosítási igazgatási szerv soron kívüli felülvizsgálatot rendel el, amelynek keretében el kell végezni az érintett személy komplex minősítését. A felülvizsgálat, illetve a komplex minősítés időtartamára a baleseti rokkantsági nyugdíj folyósítását fel kell függeszteni. Amennyiben a felülvizsgálat során megállapítható, hogy a jogosultsági feltételek továbbra is fennállnak, a baleseti rokkantsági nyugdíjat a felfüggesztés időpontjától kezdődően folyósítani kell. A jogosultsági feltételek hiányában a baleseti rokkantsági nyugdíjat meg kell szüntetni.
-
-(3)
-
-(4) A baleseti rokkantsági nyugdíj állapotváltozás miatti módosítására és feléledésére a 36/D. § (4)–(5) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a baleseti rokkantsági nyugdíj mértékét egészségromlás miatt az öregségi nyugdíjkorhatár betöltését követően is módosítani kell.
-
-(5) Az (1) bekezdés b) pontja alkalmazása során
-
-- a) az uniós rendeletek hatálya alá tartozó személy esetén EGT-államban,
-- b) a szociálpolitikai, szociális biztonsági egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban
-
-végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a nyugdíjas nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – figyelembe kell venni.
+23–36/G. §
 
 ### IV. Fejezet — A SZOLGÁLATI IDŐ
 
 37. § (1) A Tbj.-ben biztosítottnak minősülő személy biztosítással járó jogviszonyának 1997. december 31. napját követő időtartama szolgálati időnek számít, ha erre az időszakra az előírt nyugdíjjárulékot a biztosítottól levonták, illetve a 38. § (2) bekezdésének a)–b) pontjában említett személyek esetében megfizették.
 
-(2)
+(2) A Tbj. 5. § (1) bekezdés i) pontjában említett mezőgazdasági őstermelő biztosítási ideje szolgálati időnek számít, ha erre az időszakra nyugdíjjárulékot fizetett, illetőleg az előírt nyugdíjjárulékot megfizette.
 
 (3) Ha a biztosítás ténye, illetőleg a biztosítással járó jogviszony időtartamára vonatkozó adatok a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv (a továbbiakban: társadalombiztosítási igazgatási szervek) nyilvántartásaiból megállapíthatók, azonban a nyugdíjjárulék levonásának ténye – a nyugdíjbiztosítási igazgatási szerv által beszerzett – a 43. § (2) bekezdés a)–b) pontok szerinti okiratok (igazolások) alapján sem állapítható meg, vagy az okiratok (igazolások) hiányában, illetőleg a foglalkoztató megszűnése miatt nem bizonyítható, a nyugdíjjárulék levonását vélelmezni kell.
 
@@ -805,10 +470,10 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 38. § (1) Szolgálati időként kell továbbá figyelembe venni
 
 - a) a Tbj.-ben meghatározott, nyugellátás szerzése céljából megállapodást kötött személy esetében azt az időszakot, amelyre az előírt nyugdíjjárulékot megfizették,
-- b) az egyházi szervek által kiállított igazolás alapján az egyházi szolgálatot teljesítő egyházi személyként és szerzetesrendi tagként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre az előírt nyugdíjbiztosítási és nyugdíjjárulékot az egyházi szervek megfizették,
+- b) az egyházi szervek által kiállított igazolás alapján az egyházi szolgálatot teljesítő egyházi személyként és szerzetesrendi tagként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre 2011. december 31-éig az előírt nyugdíjbiztosítási és nyugdíjjárulékot, 2012. január 1-jétől az előírt nyugdíjjárulékot az egyházi szervek megfizették,
 - c) a gyermeknevelési támogatás, az ápolási díj, valamint a gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
 - d) a katonai (polgári) szolgálatban eltöltött időt,
-- e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,
+- e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj, továbbá a rehabilitációs ellátás folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,
 - f) a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 - g) azt az időt, amely az 1997. december 31-én hatályos rendelkezések szerint szolgálati időnek minősült,
 - h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitáció keretében foglalkoztatott személy tekintetében a munka-rehabilitációs díj folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
@@ -816,15 +481,16 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 
 (2) Szolgálati időként nem lehet figyelembe venni
 
-- a) az egyéni vállalkozó biztosítási kötelezettség alá tartozó jogviszonyának azt az időtartamát, amelyre vonatkozóan az egyéni vállalkozónak nyugdíjbiztosítási járulék vagy nyugdíjjárulék tartozása van,
-- b) a társas vállalkozás tagja esetében az adott társas vállalkozás tagjaként fennállt biztosítási kötelezettség alá tartozó jogviszonyának azt az időtartamát, amelyre vonatkozóan a társas vállalkozásnak a biztosítottnak minősülő akkori tagjai után nyugdíjbiztosítási járulék vagy nyugdíjjárulék tartozása van,
-- c) az egyéni vállalkozó vagy jogi személyiséggel nem rendelkező társas vállalkozás tagja, segítő családtagjának az e jogcímen fennállt biztosítási idejének azt az időtartamát, amelyre vonatkozóan az egyéni vállalkozónak, illetőleg a jogi személyiséggel nem rendelkező társas vállalkozásnak e segítő családtag után nyugdíjbiztosítási járulék vagy nyugdíjjárulék tartozása van. A tartozás utólag történő – a nyugdíj megállapítása utáni – megfizetése esetén az így meghosszabbodott szolgálati időt legkorábban a befizetés napját magában foglaló naptári hónap első napjától lehet figyelembe venni. Az a)–c) pontokban említett biztosítottak szolgálati idejének figyelembevételénél a nyugdíjbiztosítási járulék és nyugdíjjárulék megfizetése tényének megállapítása, bizonyítása, illetőleg vélelmezése tekintetében a 37. § (3) bekezdésének rendelkezéseit megfelelően alkalmazni kell. A tartozás összegét és azt az időtartamot, amelyre a tartozás vonatkozik, az állami adóhatóság igazolja, ennek hiányában a társas vállalkozás, illetőleg az egyéni vállalkozó igazolása, nyilatkozata az irányadó. Amennyiben az állami adóhatóság vagy a társas vállalkozás, illetőleg az egyéni vállalkozó nem közli azt az időtartamot, amelyre a tartozás vonatkozik, akkor szolgálati időként a biztosítási jogviszony időtartamából annyi naptári nap nem vehető figyelembe, ahányszor a tartozás megfelel a nyugdíj megállapításának kezdő napját megelőző hónapban érvényes minimálbér harmincad része után számított nyugdíjbiztosítási és nyugdíjjárulék összegének. Ha az igény elbírálása után megállapításra kerül, hogy a társas vállalkozás vagy az egyéni vállalkozó igazolása, nyilatkozata nem felelt meg a tényeknek és ez által a nyugdíj magasabb mértékben (összegben) került megállapításra, akkor a 84–86. §-ok rendelkezései alapján az érintett köteles a jogalap nélkül megállapított és folyósított ellátás visszafizetésére, illetőleg megtérítésére.
+- a) az egyéni vállalkozó biztosítási kötelezettség alá tartozó jogviszonyának azt az időtartamát, amelyre vonatkozóan az egyéni vállalkozónak 2011. december 31-éig fennálló időszakra nyugdíjbiztosítási járulék vagy nyugdíjjárulék, 2012. január 1-jétől nyugdíjjárulék tartozása van,
+- b) a társas vállalkozás tagja esetében az adott társas vállalkozás tagjaként fennállt biztosítási kötelezettség alá tartozó jogviszonyának azt az időtartamát, amelyre vonatkozóan a társas vállalkozásnak a biztosítottnak minősülő akkori tagjai után 2011. december 31-éig fennálló időszakra nyugdíjbiztosítási járulék vagy nyugdíjjárulék, 2012. január 1-jétől nyugdíjjárulék tartozása van,
+- c) az egyéni vállalkozó vagy jogi személyiséggel nem rendelkező társas vállalkozás tagja, segítő családtagjának az e jogcímen fennállt biztosítási idejének azt az időtartamát, amelyre vonatkozóan az egyéni vállalkozónak, illetőleg a jogi személyiséggel nem rendelkező társas vállalkozásnak e segítő családtag után 2011. december 31-éig fennálló időszakra nyugdíjbiztosítási járulék vagy nyugdíjjárulék, 2012. január 1-jétől nyugdíjjárulék tartozása van,
+- d) a mezőgazdasági őstermelő biztosítási idejének azt az időtartamát, amelyre vonatkozóan nyugdíjjárulék tartozása van. A tartozás utólag történő – a nyugdíj megállapítása utáni – megfizetése esetén az így meghosszabbodott szolgálati időt legkorábban a befizetés napját magában foglaló naptári hónap első napjától lehet figyelembe venni. Az a)–c) pontokban említett biztosítottak szolgálati idejének figyelembevételénél a nyugdíjbiztosítási járulék és nyugdíjjárulék megfizetése tényének megállapítása, bizonyítása, illetőleg vélelmezése tekintetében a 37. § (3) bekezdésének rendelkezéseit megfelelően alkalmazni kell. A tartozás összegét és azt az időtartamot, amelyre a tartozás vonatkozik, az állami adóhatóság igazolja, ennek hiányában a társas vállalkozás, illetőleg az egyéni vállalkozó igazolása, nyilatkozata az irányadó. Amennyiben az állami adóhatóság vagy a társas vállalkozás, illetőleg az egyéni vállalkozó nem közli azt az időtartamot, amelyre a tartozás vonatkozik, akkor szolgálati időként a biztosítási jogviszony időtartamából annyi naptári nap nem vehető figyelembe, ahányszor a tartozás megfelel a nyugdíj megállapításának kezdő napját megelőző hónapban érvényes minimálbér harmincad része után számított nyugdíjbiztosítási és nyugdíjjárulék összegének. Ha az igény elbírálása után megállapításra kerül, hogy a társas vállalkozás vagy az egyéni vállalkozó igazolása, nyilatkozata nem felelt meg a tényeknek és ez által a nyugdíj magasabb mértékben (összegben) került megállapításra, akkor a 84–86. §-ok rendelkezései alapján az érintett köteles a jogalap nélkül megállapított és folyósított ellátás visszafizetésére, illetőleg megtérítésére.
 
 (3) A (2) bekezdésben foglaltakat kell alkalmazni akkor is, ha az állami adóhatóság a (2) bekezdés a)–c) pontjaiban említett személy kérelmére a nyugdíjbiztosítási járulék vagy a nyugdíjjárulék tartozást, illetve az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) értelmében a magánszemély kérelmére a nyugdíjjárulék tartozást mérsékli vagy elengedi.
 
 ### Arányosan elismerhető szolgálati idő
 
-39. § (1) Ha a biztosítottnak a Tbj. 5. §-a (1) bekezdésének a)–b), g) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a Munka Törvénykönyve értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 12. § (1)–(2) bekezdésének, a 20. §-ának, a 29. § (1) és (4) bekezdésének, valamint a 34. § (2) és (4) bekezdésének alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
+39. § (1) Ha a biztosítottnak a Tbj. 5. §-a (1) bekezdésének a)–b), g) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a Munka Törvénykönyve értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 12. § (1)–(2) bekezdésének és 20. §-ának alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
 
 (2) Az (1) bekezdés rendelkezéseit a Tbj. 30/A. §-ának (2) bekezdése szerinti mezőgazdasági őstermelő biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
 
@@ -835,7 +501,7 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 41. § (1) Szolgálati időként kell figyelembe venni,
 
 - a) az öregségi nyugdíjra jogosultság szempontjából az 1998. január 1-je előtt,
-- b) a rokkantsági nyugdíjra jogosultság szempontjából az időpontra tekintet nélkül a felsőfokú oktatási intézmény nappali tagozatán folytatott – legfeljebb azonban a képesítés megszerzéséhez a tanulmányok folytatása idején szükséges – tanulmányok idejét.
+- b)
 
 (2) A felsőfokú oktatási intézmény nappali tagozatán folytatott tanulmányok címén a tanulmányi időszak (tanulmányi év, tanulmányi félév) kezdetét magában foglaló hónap első napjától a végét magában foglaló hónap utolsó napjáig eltelt idő számít szolgálati időnek.
 
@@ -868,7 +534,7 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 
 43/A. § (1) A 43. § (1) bekezdés szerint számított szolgálati időn túl az egészségügyi dolgozók esetében kiegészítő szolgálati időként kell figyelembe venni a külön törvényben meghatározott, a heti 48 órát meghaladó önként vállalt többletmunkavégzésnek – a munkáltató által munkaórában igazolt – 2004. május 1-jét követő, – napi 8 óra alapulvételével átszámított – időtartamát.
 
-(2) Az (1) bekezdés és a 43. § (1) bekezdés szerint külön-külön számított szolgálati idő együttes időtartamát a 12., 20., 29. és 34. §-ok alkalmazásánál kell figyelembe venni.
+(2) Az (1) bekezdés és a 43. § (1) bekezdés szerint külön-külön számított szolgálati idő együttes időtartamát a 12. és 20. §-ok alkalmazásánál kell figyelembe venni.
 
 (3)
 
@@ -876,17 +542,22 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 
 44. § (1) Hozzátartozói nyugellátásra jogosultság szempontjából halálesetnek számít az eltűnés is, ha azt bíróság jogerősen megállapította.
 
-(2) A hozzátartozói nyugellátások megállapítása során – a 47. § (2) bekezdésének b) pontja, az 52. § (2) bekezdése, az 55. § (1) bekezdése, az 56. § (2) bekezdésének b) pontja, az 58. §-ának (1) és (3)–(4) bekezdése alkalmazásában – rokkant az, akinek az Rjtv. 1. §-ának a) pontjában meghatározott egészségkárosodása eléri az 50 százalékos mértéket.
+(2)
 
 44/A. § Az, aki hozzátartozója halálát – a bíróság jogerős ítélete szerint – szándékosan okozta, hozzátartozói, baleseti hozzátartozói nyugellátásra nem jogosult.
 
-44/B. § Hozzátartozói nyugellátásra jogosult, akinek elhunyt házastársa, szülője, gyermeke mezőgazdasági szövetkezeti járadékhoz, mezőgazdasági szakszövetkezeti járadékhoz, illetve mezőgazdasági szakszövetkezeti tagok növelt összegű járadékához szükséges szolgálati időt megszerezte, illetve mezőgazdasági szövetkezeti járadékosként, mezőgazdasági szakszövetkezeti járadékosként, mezőgazdasági szakszövetkezeti tagok növelt összegű járadékosaként halt meg. Hozzátartozói nyugellátással kapcsolatos egyéb rendelkezések az előzőekben felsorolt jogosultak esetében megegyezik a jelen törvényben az özvegyi nyugdíj, az árvaellátás és a szülői nyugdíj cím paragrafusaiban szereplő az öregségi, illetve a rokkantsági nyugdíjasok hozzátartozói nyugellátása esetében meghatározott rendelkezésekkel.
+44/B. § Hozzátartozói nyugellátásra jogosult, akinek elhunyt házastársa, szülője, gyermeke mezőgazdasági szövetkezeti járadékhoz, mezőgazdasági szakszövetkezeti járadékhoz, illetve mezőgazdasági szakszövetkezeti tagok növelt összegű járadékához szükséges szolgálati időt megszerezte, illetve mezőgazdasági szövetkezeti járadékosként, mezőgazdasági szakszövetkezeti járadékosként, mezőgazdasági szakszövetkezeti tagok növelt összegű járadékosaként halt meg. Hozzátartozói nyugellátással kapcsolatos egyéb rendelkezések az előzőekben felsorolt jogosultak esetében megegyezik a jelen törvényben az özvegyi nyugdíj, az árvaellátás és a szülői nyugdíj cím paragrafusaiban szereplő az öregségi nyugdíjasok hozzátartozói nyugellátása esetében meghatározott rendelkezésekkel.
 
 44/C. § (1) Ha az igénylőnek az elhunyt házastársa, élettársa, szülője, gyermeke (a továbbiakban: a jogszerző) kizárólag a társadalombiztosítási nyugdíjrendszer keretében fizetett nyugdíjjárulékot, vagy a jogszerzőnek a magánnyugdíjpénztárban az egyéni számláján lévő összeget a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. év LXXXII. törvény (a továbbiakban: Mpt.) 123. § (2) bekezdés szerinti saját döntése, illetőleg a jogszerzőnek a felhalmozási időszakban bekövetkezett halála esetén a hozzátartozónak az Mpt. 29. § (9) bekezdés b) pontja szerinti döntése alapján a Nyugdíjbiztosítási Alapnak átutalták, a hozzátartozói nyugellátások összegét a 12. § (6) bekezdésének alapulvételével kell meghatározni.
 
 (2) Ha a jogszerzőnek a magánnyugdíjpénztárban az egyéni számláján lévő összegét saját döntése, illetőleg ennek hiányában a jogszerző felhalmozási időszakban bekövetkezett halála esetén a hozzátartozó döntése [Mpt. 29. § (9) bekezdés b) pontja] alapján nem utalták át a Nyugdíjbiztosítási Alap részére, a hozzátartozói nyugellátások összegét a 12. § (7) bekezdés alapján kell meghatározni.
 
 (3) Ha a jogszerző vagy annak halála esetén a hozzátartozója az egyéni számlán levő összegnek a Nyugdíjbiztosítási Alaphoz történő átutalását kérte, és az igény érvényesítésekor ez a tény bizonyított, a hozzátartozói nyugellátást a 12. § (6) bekezdés megfelelő alkalmazásával kell megállapítani
+
+44/D. § Ha az elhunyt jogszerző
+
+- a) öregségi nyugdíjban nem részesült, valamint
+- b) az öregségi nyugdíjkorhatárt még nem töltötte be, és szolgálati ideje nem éri el a huszonöt évet, a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeget a 12. § (1) bekezdésében foglaltak helyett – a 61. § szerinti kivétellel – kormányrendeletben meghatározottak szerint kell megállapítani azzal, hogy a kormányrendeletben a havi átlagkeresetnek az egyes szolgálati évekhez meghatározott százalékos mértékei nem lehetnek alacsonyabbak az azonos szolgálati évekhez a 12. § (1) bekezdésében meghatározott százalékos mértékeknél.
 
 ### 1. CÍM — Az özvegyi nyugdíj
 
@@ -899,14 +570,30 @@ végzett keresőtevékenységet és ott szerzett keresetet, jövedelmet is – a
 
 (3) Élettársa után nem jogosult özvegyi nyugdíjra az, aki a (2) bekezdésben megjelölt együttélési időszak vagy ennek egy része alatt özvegyi nyugdíjban vagy baleseti özvegyi nyugdíjban részesült.
 
-46. § Özvegyi nyugdíjra az jogosult, akinek házastársa az öregségi, illetve rokkantsági nyugdíjhoz szükséges szolgálati időt megszerezte vagy öregségi, illetve rokkantsági nyugdíjasként halt meg.
+46. § (1) Özvegyi nyugdíjra az jogosult, akinek házastársa öregségi nyugdíjasként halt meg, vagy akinek házastársa
+
+- a) a 22 éves életkor betöltését megelőzően hunyt el, és
+  - aa) az iskolai tanulmányai megszűnését követő 180 napon belül, vagy
+  - ab) összesen legalább 2 év,
+- b) a 22 éves életkor betöltését követően, de a 25 éves életkor betöltését megelőzően hunyt el, és legalább 4 év,
+- c) a 25 éves életkor betöltését követően, de a 30 éves életkor betöltését megelőzően hunyt el, és legalább 6 év,
+- d) a 30 éves életkor betöltését követően, de a 35 éves életkor betöltését megelőzően hunyt el, és legalább 8 év,
+- e) a 35 éves életkor betöltését követően, de a 45 éves életkor betöltését megelőzően hunyt el, és legalább 10 év,
+- f) a 45 éves életkor betöltését követően hunyt el, és legalább 15 év szolgálati időt szerzett.
+
+(2) Özvegyi nyugdíjra az is jogosult, akinek házastársa az (1) bekezdés szerint szükséges szolgálati időt nem szerezte meg, de az alacsonyabb életkorhoz előírt szolgálati időt az ott meghatározott életkor betöltéséig megszerezte, és ezt követően szolgálati idejében a haláláig harminc napnál hosszabb megszakítás nincs. E harminc napba nem lehet beszámítani a keresőképtelenség idejét.
+
+(3) Az (1) és (2) bekezdés alkalmazása során az özvegyi nyugdíjra történő jogszerzés szempontjából szolgálati időként kell figyelembe venni
+
+- a) az elhunyt jogszerzőnek a felsőfokú oktatási intézmény nappali tagozatán folytatott – legfeljebb azonban a képesítés megszerzéséhez a tanulmányok folytatása idején szükséges – tanulmányi idejét a 41. §-ban foglaltak szerint, de a tanulmányok időpontjára tekintet nélkül,
+- b) azt az időtartamot, ami alatt az elhunyt jogszerző rokkantsági nyugdíjban, baleseti rokkantsági nyugdíjban vagy rokkantsági ellátásban részesült.
 
 47. § (1) Az ideiglenes özvegyi nyugdíj a házastárs halálától legalább egy évig, továbbá az elhunyt jogán árvaellátásra jogosult, másfél évesnél fiatalabb gyermeket eltartó özvegynek az árva 18 hónapos életkorának betöltéséig jár. Fogyatékos vagy tartósan beteg gyermek esetén az ideiglenes özvegyi nyugdíj azonos feltétellel a gyermek harmadik születésnapjáig folyósítható.
 
 (2) Az ideiglenes özvegyi nyugdíj megszűnését követően özvegyi nyugdíjra az jogosult, aki házastársa halálakor
 
 - a) a reá irányadó öregségi nyugdíjra jogosító korhatárt betöltötte, vagy
-- b) rokkant, vagy
+- b) megváltozott munkaképességű, vagy
 - c) házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg, vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodik.
 
 (3) Özvegyi nyugdíj jár akkor is, ha az erre jogosító feltételek valamelyike
@@ -926,14 +613,14 @@ következik be.
 
 (3) Ha az elvált személy a házastársától már a házasság megszűnése előtt is külön élt, a (2) bekezdés szerinti tíz évet a tényleges különélés kezdő időpontjától kell számítani.
 
-50. § (1) Megözvegyülés esetén az ideiglenes özvegyi nyugdíj hatvan százaléka annak az öregségi, rokkantsági vagy baleseti rokkantsági nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
+50. § (1) Megözvegyülés esetén az ideiglenes özvegyi nyugdíj hatvan százaléka annak az öregségi nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
 
 (2) Az özvegyi nyugdíj mértéke
 
-- a) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező, de saját jogú nyugellátásban nem részesülő özvegy esetében hatvan százaléka,
-- b) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező és egyidejűleg saját jogú nyugellátásban részesülő, továbbá a 47. § (2) bekezdés c) pont szerinti feltétellel rendelkező özvegy esetében harminc százaléka
+- a) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező, de rokkantsági ellátásban, rehabilitációs ellátásban, saját jogú nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban és átmeneti bányászjáradékban nem részesülő özvegy esetében hatvan százaléka,
+- b) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező és egyidejűleg rokkantsági ellátásban, rehabilitációs ellátásban, saját jogú nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő, továbbá a 47. § (2) bekezdés c) pont szerinti feltétellel rendelkező özvegy esetében harminc százaléka
 
-annak az öregségi, rokkantsági vagy baleseti rokkantsági nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
+annak az öregségi nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
 
 (3) A (2) bekezdés a) pontja szerint hatvanszázalékos mértékben megállapított özvegyi nyugdíj helyett harminc százalékos mértékű özvegyi nyugdíjat kell megállapítani attól az időponttól, amelytől az özvegy saját jogú nyugellátásban részesül. A (2) bekezdés b) pontja szerint megállapított özvegyi nyugdíj az özvegy saját jogú nyugdíjának összegére tekintet nélkül jár.
 
@@ -957,7 +644,7 @@ annak az öregségi, rokkantsági vagy baleseti rokkantsági nyugdíjnak, amely 
 
 52. § (1) Az özvegyi nyugdíjra jogosultság megszűnik, ha az özvegy a reá irányadó öregségi nyugdíjra jogosító életkorának betöltése előtt házasságot köt.
 
-(2) A rokkantság címén megállapított özvegyi nyugdíjra jogosultság megszűnik, ha az özvegyi nyugdíjas már nem rokkant.
+(2) A 47. § (2) bekezdés b) pontja alapján megállapított özvegyi nyugdíjra jogosultság megszűnik, ha az özvegyi nyugdíjas már nem megváltozott munkaképességű.
 
 (3) Az árvaellátásra jogosult gyermekek tartása címén megállapított özvegyi nyugdíjra jogosultság megszűnik, ha már egyik gyermeket sem illeti meg árvaellátás.
 
@@ -981,7 +668,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (4) Az özvegyi nyugdíj feléledése esetén a jogosultat az özvegyi nyugdíj megszűnését követő emelések, kiegészítések megilletik.
 
-(5) Ha 1997. december 31-ét követően az 1998. január 1-je előtt megszüntetett özvegyi nyugdíjra a jogosultság az (1)-(2) bekezdés szerint feléled, az özvegy a saját jogú öregségi, rokkantsági, baleseti rokkantsági nyugdíja mellett – a megállapítás időpontjára tekintet nélkül – kérheti az özvegyi nyugdíj 50. § (2) bekezdés b) pontja szerinti folyósítását, ha ez számára kedvezőbb.
+(5) Ha 1997. december 31-ét követően az 1998. január 1-je előtt megszüntetett özvegyi nyugdíjra a jogosultság az (1)-(2) bekezdés szerint feléled, az özvegy az öregségi nyugdíja, rokkantsági ellátása, rehabilitációs ellátása mellett – a megállapítás időpontjára tekintet nélkül – kérheti az özvegyi nyugdíj 50. § (2) bekezdés b) pontja szerinti folyósítását, ha ez számára kedvezőbb.
 
 (6)
 
@@ -989,13 +676,13 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 ### Az ellátásra jogosultság
 
-54. § (1) Árvaellátásra az a gyermek jogosult – ideértve a házasságban vagy az élettársi közösségben együtt élők egy háztartásban közösen nevelt gyermeket is –, akinek szülője haláláig az öregségi, illetve rokkantsági nyugdíjhoz szükséges szolgálati időt megszerezte, vagy öregségi, illetve rokkantsági nyugdíjasként halt meg.
+54. § (1) Árvaellátásra az a gyermek jogosult – ideértve a házasságban vagy az élettársi közösségben együtt élők egy háztartásban közösen nevelt gyermeket is –, akinek szülője megfelel a 46. §-ban az elhunyt házastársra meghatározott feltételeknek.
 
 (2) Az örökbefogadott gyermeknek vér szerinti szülője jogán árvaellátás nem jár, kivéve, ha a gyermeket a vér szerinti szülő házastársa fogadta örökbe.
 
 (3) Árvaellátás jár a testvérnek és az unokának (ideértve a dédunokát és ükunokát is) is, ha őt az elhunyt saját háztartásában eltartotta, és a gyermeknek tartásra köteles és képes hozzátartozója nincs.
 
-55. § (1) Az árvaellátás – a jogosultsági feltételek megléte esetén – legkorábban az 54. §-ban említett személy halála napjától kezdődően a gyermek 16. életévének betöltése napjáig jár. Ha a gyermek oktatási intézmény nappali tagozatán tanul, az árvaellátás a tanulmányok tartamára, de legfeljebb a huszonötödik életév betöltéséig jár. Ha a jogosultság megszűnése előtt a gyermek megrokkant, ennek tartamára az árvaellátás életkorra tekintet nélkül megilleti.
+55. § (1) Az árvaellátás – a jogosultsági feltételek megléte esetén – legkorábban az 54. §-ban említett személy halála napjától kezdődően a gyermek 16. életévének betöltése napjáig jár. Ha a gyermek oktatási intézmény nappali tagozatán tanul, az árvaellátás a tanulmányok tartamára, de legfeljebb a huszonötödik életév betöltéséig jár. Ha a jogosultság megszűnése előtt a gyermek megváltozott munkaképességűvé válik, ennek tartamára az árvaellátás életkorra tekintet nélkül megilleti.
 
 (2) Nem érinti az árvaellátásra jogosultságot, ha a gyermek vagy életben maradt szülője házasságot köt, vagy örökbe fogadják.
 
@@ -1010,12 +697,12 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 ### Az ellátás összege
 
-56. § (1) Az árvaellátás gyermekenként annak a nyugdíjnak a harminc százaléka, ami az elhunytat öregségi, rokkantsági nyugdíjként, baleseti rokkantsági nyugdíjként halála időpontjában megillette, vagy megillette volna.
+56. § (1) Az árvaellátás gyermekenként annak a nyugdíjnak a harminc százaléka, ami az elhunytat öregségi nyugdíjként halála időpontjában megillette, vagy megillette volna.
 
 (2) Az (1) bekezdésben meghatározott nyugdíj hatvan százaléka jár árvaellátásként annak a gyermeknek,
 
 - a) akinek mindkét szülője elhunyt,
-- b) akinek életben lévő szülője rokkant,
+- b) akinek életben lévő szülője megváltozott munkaképességű,
 - c)
 
 (3) Ha a gyermek mindkét szülője után jogosult az árvaellátásra, azt az árvaellátást kell folyósítani, amelynek összege számára előnyösebb.
@@ -1028,16 +715,19 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 ### A nyugdíjjogosultság
 
-58. § (1) Szülői nyugdíjra az a szülő jogosult, akinek a gyermeke az öregségi, illetve rokkantsági nyugdíjhoz szükséges szolgálati idő megszerzése után vagy öregségi, illetve rokkantsági nyugdíjasként halt meg, ha
+58. § (1) Szülői nyugdíjra az a szülő jogosult, akinek a gyermeke megfelel a 46. §-ban az elhunyt házastársra meghatározott feltételeknek, ha
 
-- a) a szülő a gyermekének halálakor rokkant, vagy a hatvanötödik életévét betöltötte, és
+- a) a szülő a gyermekének halálakor megváltozott munkaképességű, vagy a hatvanötödik életévét betöltötte, és
 - b) a szülőt a gyermeke a halálát megelőző egy éven át túlnyomó részben eltartotta.
 
 (2) Az (1) bekezdésben előírt feltételek fennállása esetén szülői nyugdíjra jogosult az a nevelőszülő is, aki a nevelt gyermeket tíz éven át eltartotta.
 
-(3) A szülői nyugdíj – a jogosultsági feltételek megléte esetén – legkorábban az (1)–(2) és az (5) bekezdésben említett személy halála napjától a jogosult rokkantságának tartamára jár. A hatvanötödik életévét betöltött szülőt orvosi vizsgálat nélkül is rokkantnak kell tekinteni.
+(3) A szülői nyugdíj – a jogosultsági feltételek megléte esetén – legkorábban az (1), (2) és (5) bekezdésben említett személy halála napjától jár. A szülői nyugdíjat meg kell szüntetni, ha arra tekintettel állapították meg, hogy a szülő megváltozott munkaképességű, ez az állapota már nem áll fenn, és hatvanötödik életévét még nem töltötte be.
 
-(4) Annak a szülőnek, aki gyermeke halálakor nem volt rokkant, szülői nyugdíj csak abban az esetben jár, ha az elhalálozástól számított tíz éven belül megrokkan és tartásra köteles és képes hozzátartozója nincs.
+(4) Annak a szülőnek, aki gyermeke halálakor hatvanötödik életévét nem töltötte be és nem megváltozott munkaképességű, szülői nyugdíj csak abban az esetben jár, ha az elhalálozástól számított tíz éven belül
+
+- a) a hatvanötödik életévét betölti, vagy
+- b) megváltozott munkaképességűvé válik és tartásra köteles és képes hozzátartozója nincs.
 
 (5) E § rendelkezéseit a nagyszülőre és az unokára is megfelelően alkalmazni kell.
 
@@ -1053,11 +743,15 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 60. § (1) A hozzátartozók részére baleseti hozzátartozói nyugellátás akkor jár, ha a sérült az üzemi baleset következtében meghalt.
 
-(2) A baleseti rokkantsági nyugdíjas hozzátartozóját megilleti a baleseti nyugellátás akkor is, ha a nyugdíjas nem az üzemi baleset következtében halt meg.
+(2)
 
-(3) A baleseti sérült hozzátartozóit a baleseti nyugellátás akkor is megilleti, ha a sérült a baleseti táppénz folyósításának a tartama alatt nem az üzemi baleset következtében halt ugyan meg, de vélelmezhető, hogy életben maradása esetén baleseti rokkantsági nyugdíjra lett volna jogosult.
+(3) A baleseti sérült hozzátartozóit a baleseti nyugellátás akkor is megilleti, ha a sérült a baleseti táppénz folyósításának a tartama alatt nem az üzemi baleset következtében halt meg.
 
-61. § A baleseti sérült hozzátartozói ideiglenes özvegyi nyugdíjra és ennek megszűnését követően özvegyi nyugdíjra, árvaellátásra és szülői nyugdíjra a hozzátartozói nyugellátásra vonatkozó rendelkezések szerint azzal az eltéréssel jogosultak, hogy a hozzátartozót a baleseti nyugellátás a jogszerző szolgálati idejére tekintet nélkül megilleti.
+61. § (1) A baleseti sérült hozzátartozói ideiglenes özvegyi nyugdíjra és ennek megszűnését követően özvegyi nyugdíjra, árvaellátásra és szülői nyugdíjra a hozzátartozói nyugellátásra vonatkozó rendelkezések szerint azzal az eltéréssel jogosultak, hogy a hozzátartozót a baleseti nyugellátás a jogszerző szolgálati idejére tekintet nélkül megilleti.
+
+(2) A baleseti hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg a havi átlagkereset hatvan százaléka, ha az elhunyt jogszerző egy év szolgálati idővel sem rendelkezik.
+
+(3) A (2) bekezdés szerinti összeg az elhunyt jogszerző szolgálati idejének minden éve után a havi átlagkereset egy százalékával emelkedik, az átlagkeresetnél azonban több nem lehet.
 
 ### 5. CÍM — Az özvegyi járadék
 
@@ -1069,16 +763,11 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 ### 1. CÍM — A 2013. január 1-je előtt megállapított nyugellátások évenkénti emelése
 
-62. § (1) A tárgyév január 1-je előtti időponttól megállapított társadalombiztosítási nyugellátást – ideértve a 6. § (4) bekezdésében meghatározott ellátásokat és a baleseti járadékot is – a megállapítás naptári évét követően minden év január hónapjában az emelés évére tervezett
+62. § (1) A tárgyév január 1-je előtti időponttól megállapított társadalombiztosítási nyugellátást – ideértve a 6. § (4) bekezdésében meghatározott ellátásokat és a baleseti járadékot is – a megállapítás naptári évét követően minden év január hónapjában az emelés évére tervezett fogyasztói árnövekedésnek megfelelő mértékben kell emelni.
 
-- a) fogyasztói árnövekedésnek megfelelő mértékben kell emelni, amennyiben a bruttó hazai termék változatlan áron számított növekedésének tárgyévre tervezett mértéke nem éri el a 3 százalékot,
-- b) fogyasztói árnövekedés és a tervezett országos nettó átlagkereset-növekedés 80 és 20 százalékos arányban súlyozott átlagának megfelelő mértékben kell emelni, amennyiben a bruttó hazai termék változatlan áron számított növekedésének tárgyévre tervezett mértéke legalább 3 százalék, de nem éri el a 4 százalékot,
-- c) fogyasztói árnövekedés és a tervezett országos nettó átlagkereset-növekedés 60 és 40 százalékos arányban súlyozott átlagának megfelelő mértékben kell emelni, amennyiben a bruttó hazai termék változatlan áron számított növekedésének tárgyévre tervezett mértéke legalább 4 százalék, de nem éri el az 5 százalékot,
-- d) fogyasztói árnövekedés és a tervezett országos nettó átlagkereset-növekedés 50-50 százalékos arányban súlyozott átlagának megfelelő mértékben kell emelni, amennyiben a bruttó hazai termék változatlan áron számított növekedésének tárgyévre tervezett mértéke 5 százalék, vagy azt meghaladó mértékű.
+(2) A tárgyévi tervezett fogyasztói árnövekedést a központi költségvetésről szóló törvény állapítja meg.
 
-(2) A tárgyévi tervezett adatokat a Magyar Köztársaság költségvetéséről szóló törvény állapítja meg.
-
-(3) Ha a fogyasztói árak, az országos nettó átlagkereset vagy a bruttó hazai termék változatlan áron számított növekedésének tárgyévben várható mértéke a tervezettől olyan mértékben tér el, hogy a nyugdíjak ezen adatok alapján történő emelése legalább 1 százalékponttal meghaladja a januárban végrehajtott emelés mértékét, akkor november hónapban – január 1-jére visszamenőleges hatállyal – kiegészítő nyugdíjemelést kell végrehajtani. Amennyiben az eltérés az 1 százalékpontot nem éri el, akkor november hónapban az egész évre járó különbözetet egy összegben kell kiutalni.
+(3) Ha a fogyasztói árak növekedésének tárgyévben várható mértéke legalább 1 százalékponttal meghaladja az (1) bekezdés szerinti mértéket, akkor november hónapban – január 1-jére visszamenőleges hatállyal – kiegészítő nyugdíjemelést kell végrehajtani. Amennyiben az eltérés az 1 százalékpontot nem éri el, akkor november hónapban az egész évre járó különbözetet egy összegben kell kiutalni.
 
 (4) A (3) bekezdés szerinti nyugdíjemelésnél a nyugdíjasok fogyasztói ár növekedésének – a tárgyév első nyolc hónapjának tényadatára alapozott – várható mértékét kell figyelembe venni, amennyiben az meghaladja a fogyasztói árnövekedés várható mértékét.
 
@@ -1098,7 +787,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (3)
 
-(4) Az igénybejelentő lap benyújtásával egyidejűleg az igénylőnek közölnie kell az azonosításához szükséges adatokat, a társadalombiztosítási azonosító jelét, valamint csatolnia kell a társadalombiztosítási nyilvántartásban nem szereplő jogviszonyok bizonyításához felhasználni kívánt iratokat, továbbá egészségkárosodáson alapuló ellátás esetén az egészségkárosodással összefüggő iratokat.
+(4) Az igénybejelentő lap benyújtásával egyidejűleg az igénylőnek közölnie kell az azonosításához szükséges adatokat, a társadalombiztosítási azonosító jelét, valamint csatolnia kell a társadalombiztosítási nyilvántartásban nem szereplő jogviszonyok bizonyításához felhasználni kívánt iratokat, továbbá egészségi állapottól függő ellátás esetén az egészségi állapottal összefüggő iratokat.
 
 (5) A nyugellátás iránti igényt a nyugdíj-megállapító szervnél, illetve – ha az elhunyt jogszerző korábban nyugellátásban részesült – a nyugdíjfolyósító szervnél kell érvényesíteni.
 
@@ -1106,9 +795,9 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (7)
 
-(8) Egészségkárosodáson alapuló nyugellátás esetén az igénylő az igény elbírálása során, illetve a nyugdíjas a felülvizsgálat során – a jogkövetkezményekről való tájékoztatás mellett – a rehabilitációs szakértői szerv vizsgálatán történő személyes megjelenésre kötelezhető. Ha az igénylő, illetve a nyugdíjas a személyes megjelenési kötelezettségének önhibájából nem tesz eleget, a nyugellátás megállapítása iránti eljárást meg kell szüntetni, illetve felülvizsgálat esetén az ellátást az erről szóló elsőfokú határozat keltét követő hónap első napjával meg kell szüntetni.
+(8) Egészségi állapottól függő nyugellátás esetén az igénylő az igény elbírálása során, illetve a nyugdíjas a felülvizsgálat során – a jogkövetkezményekről való tájékoztatás mellett – a rehabilitációs szakértői szerv vizsgálatán történő személyes megjelenésre kötelezhető. Ha az igénylő, illetve a nyugdíjas a személyes megjelenési kötelezettségének önhibájából nem tesz eleget, a nyugellátás megállapítása iránti eljárást meg kell szüntetni, illetve felülvizsgálat esetén az ellátást az erről szóló elsőfokú határozat keltét követő hónap első napjával meg kell szüntetni.
 
-(9) Egészségkárosodáson alapuló nyugellátás esetén a jogosultság felülvizsgálata soron kívül is elrendelhető, ha olyan tény vagy körülmény jut a nyugdíjbiztosítási igazgatási szerv tudomására, amely valószínűsíti, hogy a korábban megállapított munkaképesség-csökkenés, illetve az egészségkárosodás nem áll fenn, vagy az a megállapítottnál kisebb mértékű.
+(9) Egészségi állapottól függő nyugellátás esetén a jogosultság felülvizsgálata soron kívül is elrendelhető, ha olyan tény vagy körülmény jut a nyugdíjbiztosítási igazgatási szerv tudomására, amely valószínűsíti, hogy a korábban megállapított munkaképesség-csökkenés, egészségkárosodás, illetve egészségiállapot-romlás nem áll fenn, vagy az a megállapítottnál kisebb mértékű.
 
 (10)
 
@@ -1118,8 +807,8 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 66. § (1) Különös méltánylást érdemlő körülmények fennállása esetén a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv vezetője
 
-- a) az öregségi nyugdíjkorhatárt elérő személy, a rokkant vagy az árva részére kivételes nyugellátást, a rehabilitációs járadékra való jogosultság megállapításához szükséges feltételeknek – az előírt szolgálati idő kivételével – megfelelő személy részére kivételes rehabilitációs járadékot (a továbbiakban együtt: kivételes nyugellátás) állapíthat meg,
-- b) az a) pontban meghatározott személyek, illetőleg a 47. § (2) bekezdésének c) pontja szerinti feltétellel rendelkező özvegy részére kivételes nyugellátás-emelést, illetőleg a 6. § szerinti nyugellátásban részesülő személyek részére egyszeri segélyt engedélyezhet.
+- a) az öregségi nyugdíjkorhatárt elérő személy, a megváltozott munkaképességű özvegy és az árva részére kivételes nyugellátást (a továbbiakban együtt: kivételes nyugellátás) állapíthat meg,
+- b) az a) pontban meghatározott személyek, a rehabilitációs járadékban részesülő személy, illetőleg a 47. § (2) bekezdésének c) pontja szerinti feltétellel rendelkező özvegy részére kivételes nyugellátás-emelést, illetőleg a 6. § szerinti nyugellátásban részesülő személyek részére egyszeri segélyt engedélyezhet.
 
 (2) A kivételes nyugellátás összegét a kérelmező magán-nyugdíjpénztári tagságára tekintet nélkül kell megállapítani.
 
@@ -1127,23 +816,21 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 67. §
 
-68. § (1) A biztosított (volt biztosított) – legfeljebb naptári évenként egyszer – a nyugdíj-megállapító szervtől kérheti a szolgálati idejének, valamint a korkedvezményre és egyéb, jogszabályban meghatározott, foglalkozáshoz kapcsolódó kedvezményre jogosító idejének megállapítását.
+68. § (1) A biztosított (volt biztosított) – legfeljebb naptári évenként egyszer – a nyugdíj-megállapító szervtől kérheti a szolgálati idejének, nő esetén a 18. § (2b)–(2d) szerinti jogosultsági idejének megállapítását.
 
-(2) A kérelemhez csatolni kell a biztosított által feltüntetett, a nyugdíj-megállapító szerv nyilvántartásában nem vagy eltérő tartalommal szereplő szolgálati időre, illetve a korkedvezményre jogosító idő megállapításánál a korkedvezményre vonatkozó, az igénylő rendelkezésére álló igazolásokat, okiratokat.
+(2) A kérelemhez csatolni kell a biztosított által feltüntetett, a nyugdíj-megállapító szerv nyilvántartásában nem, vagy eltérő tartalommal szereplő szolgálati időre, jogosultsági időre vonatkozó, az igénylő rendelkezésére álló igazolásokat, okiratokat.
 
-(3) A nyugdíj-megállapító szerv az (1) bekezdés szerinti esetekben határozatban állapítja meg az elismert szolgálati időt, illetve a korkedvezményre jogosító időt, valamint – megfelelő indokolással – a szolgálati időként, illetve korkedvezményre jogosító időként el nem ismerhető időtartamot.
+(3) A nyugdíj-megállapító szerv az elismert szolgálati időt, jogosultsági időt határozatban állapítja meg.
 
 69. § (1) A nyugellátás attól a naptól állapítható meg, amely napon a jogosultsághoz szükséges feltételek bekövetkeztek.
 
 (2) Ha a saját jogú nyugellátást igénylő részére munkanélküliség esetére járó ellátást folyósítanak, a saját jogú nyugellátást legkorábban a munkanélküliség esetére járó ellátás folyósításának megszűnését követő naptól lehet megállapítani.
 
-70. § (1) A baleseti rokkantsági nyugdíj iránti igényt a baleset bekövetkezése, foglalkozási betegség esetén a betegség megállapításának a napjától számított két éven belül lehet érvényesíteni. Ha a sérült a baleset miatt táppénzben részesült, a határidőt a táppénz első ízben történő megszűnésének a napjától kell számítani.
-
-(2) Három éven belül lehet érvényesíteni a baleseti rokkantsági nyugdíj iránti igényt, ha a baleset következményét az (1) bekezdésben említett határidő után lehetett csak megállapítani.
+70. § (1)–(2)
 
 (3) Az üzemi baleset következtében meghalt személy hozzátartozója a halál napját követő két éven belül érvényesítheti igényét.
 
-(4) Az (1)–(3) bekezdésekben megjelölt határidő után akkor lehet az igényt érvényesíteni, ha egykorú okirat (baleseti jegyzőkönyv, társadalombiztosítási vagy üzemi nyilvántartás, rendőrhatósági eljárás során készült irat, orvosi lelet, boncolási jegyzőkönyv stb.) alapján kétséget kizáróan bizonyított, hogy üzemi baleset történt, továbbá ha a sérülés és az egészségkárosodás, illetve a halál között – a jogszabályban meghatározott rehabilitációs szakértői szerv szakhatósági állásfoglalása szerint – okozati összefüggés van.
+(4) A (3) bekezdésben megjelölt határidő után akkor lehet az igényt érvényesíteni, ha egykorú okirat (baleseti jegyzőkönyv, társadalombiztosítási vagy üzemi nyilvántartás, rendőrhatósági eljárás során készült irat, orvosi lelet, boncolási jegyzőkönyv stb.) alapján kétséget kizáróan bizonyított, hogy üzemi baleset történt, továbbá a sérülés és a halál között okozati összefüggés van.
 
 70/A. § A baleseti táppénz megállapítására jogosult szerv az üzemi balesettel vagy foglalkozási betegséggel kapcsolatos ténymegállapító határozatának másolatát – megkeresésre – megküldi az eljáró nyugdíj-megállapító szervnek.
 
@@ -1151,7 +838,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (2) Ha a nyugdíjbiztosítási igazgatási szervhez érkezett belföldi jogsegély iránti megkeresés olyan adat szolgáltatására irányul, amely a nyugdíjbiztosítási igazgatási szervnek nem áll rendelkezésére, de amelynek kezelésére törvény feljogosítja, és az adat más módon nem szerezhető be, a nyugdíjbiztosítási igazgatási szerv a megkeresés megérkezésétől számított huszonkét munkanapon belül a 100. § (2) bekezdése szerint hatósági ellenőrzést folytat le, és annak eredményéről három munkanapon belül értesíti a megkereső hatóságot.
 
-72. § Az egészségkárosodáson alapuló nyugellátás iránti igény elbírálásához és az ellátásra való jogosultság felülvizsgálatához a rehabilitációs szakértői szerv komplex minősítést végez, és annak eredményéről szakhatósági állásfoglalást ad ki.
+72. § Az egészségi állapottól függő nyugellátás iránti igény elbírálásához és az ellátásra való jogosultság felülvizsgálatához a rehabilitációs szakértői szerv megvizsgálja az egészségi állapotot, és annak eredményéről szakhatósági állásfoglalást ad ki.
 
 72/A. §
 
@@ -1159,7 +846,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 74. § Ha az igénylő az igénybejelentését a határozat vagy az eljárást megszüntető végzés jogerőre emelkedéséig visszavonja, a felvett nyugellátást harminc napon belül köteles visszafizetni.
 
-75. § Ha az egészségkárosodáson alapuló nyugellátásra irányuló igényt a 72. §-ban meghatározott rehabilitációs szakértői szerv szakhatósági állásfoglalására tekintettel utasították el, az elutasító határozat jogerőre emelkedését követő egy éven belül előterjesztett újabb igénybejelentést csak akkor kell elbírálni, ha a háziorvos (szakorvos) igazolja, hogy az igénylő egészségi állapota az igény elutasítását követően rosszabbodott.
+75. § Ha az egészségi állapottól függő nyugellátásra irányuló igényt a 72. §-ban meghatározott rehabilitációs szakértői szerv szakhatósági állásfoglalására tekintettel utasították el, az elutasító határozat jogerőre emelkedését követő egy éven belül előterjesztett újabb igénybejelentést csak akkor kell elbírálni, ha a háziorvos (szakorvos) igazolja, hogy az igénylő egészségi állapota az igény elutasítását követően rosszabbodott.
 
 76. § A nyugellátásnak a rehabilitációs szakértői szerv vizsgálata alapján történő megszüntetését az erről szóló elsőfokú határozat keltét követő második hónap első napjától kell végrehajtani.
 
@@ -1167,7 +854,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 78. § A nyugdíjbiztosítási igazgatási szerv kérelemre az ellátást megszüntető határozatának azonnali végrehajtását rendelheti el, ha a megszűnést követő naptól kezdődően más nyugellátásra vagy rendszeres pénzellátásra való jogosultságot állapít meg, és a két ellátás jogosultsági feltételei egymást kizárják.
 
-### A nyugellátások és a baleseti nyugellátásokfolyósítása
+### A nyugellátások folyósítása
 
 79. § (1) A saját jogú és a hozzátartozói nyugellátást, továbbá a nyugdíjbiztosítási igazgatási szervek hatáskörébe utalt nem társadalombiztosítási ellátást a nyugdíjfolyósító szerv a nyugdíjfolyósítási törzsszám mint azonosító szám alatt folyósítja. A nyugdíjfolyósító szerv az ellátás folyósításának kezdetekor a nyugdíjfolyósítási törzsszám igazolására – az e célra rendszeresített nyomtatványon – az érintett személy részére díjmentesen igazolást ad ki.
 
@@ -1185,7 +872,7 @@ A nyugellátást havonta kell folyósítani, legkorábban attól a naptól kezdv
 
 (4)
 
-(5) Ha a korengedményes nyugdíjban részesülő a reá irányadó öregségi nyugdíjkorhatárt eléri, ettől a naptól kezdődően a megállapított korengedményes nyugdíjat részére öregségi nyugdíj címén kell folyósítani.
+(5)
 
 ### Az igény érvényesítésének egyéb szabályai
 
@@ -1223,16 +910,7 @@ A nyugellátást havonta kell folyósítani, legkorábban attól a naptól kezdv
 
 (3) Az újbóli folyósítás során a jogosultat az (1) bekezdés szerinti ellátás szüneteltetést megelőző összegének a 22/A. § szerinti növeléssel, továbbá az időközben végrehajtott emelésekkel – a növelés időpontjának és az egyes emelések esedékességének figyelembevételével – növelt összege illeti meg.
 
-83/B. § (1) Ha az öregségi nyugdíjkorhatárt be nem töltött,
-
-- a) előrehozott, csökkentett összegű előrehozott öregségi nyugdíjban,
-- b) korkedvezményes nyugdíjban,
-- c) bányásznyugdíjban,
-- d) korengedményes nyugdíjban,
-- e) az egyes művészeti tevékenységet folytatók öregségi nyugdíjában,
-- f) az országgyűlési képviselők tiszteletdíjáról, költségtérítéséről és kedvezményeiről szóló törvény alapján járó öregségi nyugdíjban vagy
-- g) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló törvény alapján járó öregségi nyugdíjban,
-- h) a 18. § (2a)–(2d) bekezdése alapján megállapított öregségi teljes nyugdíjban részesülő személy a tárgyévben a Tbj. 5. §-a szerinti biztosítással járó jogviszonyban áll, illetőleg egyéni vagy társas vállalkozóként kiegészítő tevékenységet folytat, és az általa fizetendő nyugdíjjárulék alapja meghaladja a tárgyév első napján érvényes kötelező legkisebb munkabér havi összegének tizennyolcszorosát (a továbbiakban: éves keretösszeg), az éves keretösszeg elérését követő hónap első napjától az adott tárgyév december 31-éig, de legfeljebb az öregségi nyugdíjkorhatár betöltéséig a nyugdíjfolyósító szervnek a nyugdíj folyósítását szüneteltetnie kell. Ha az a)–h) pont szerinti nyugellátásban részesülő személy által fizetendő nyugdíjjárulék alapja az éves keretösszeget a tárgyév decemberében haladja meg, a nyugellátás szüneteltetésére nem kerül sor, de a tárgyév december havi nyugellátást – a 84. § alkalmazásával – vissza kell fizetni. Nem kell szüneteltetni olyan személy nyugellátásának folyósítását, aki 2007. december 31-én az a)–h) pont szerinti nyugellátásban részesült.
+83/B. § (1) Ha az öregségi nyugdíjkorhatárt be nem töltött, a 18. § (2a)–(2d) bekezdése alapján megállapított, vagy a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 3. § (2) bekezdés c) pontja alapján továbbfolyósított öregségi teljes nyugdíjban részesülő személy a tárgyévben a Tbj. 5. §-a szerinti biztosítással járó jogviszonyban áll, illetve egyéni vagy társas vállalkozóként kiegészítő tevékenységet folytat, és az általa fizetendő nyugdíjjárulék alapja meghaladja a tárgyév első napján érvényes kötelező legkisebb munkabér havi összegének tizennyolcszorosát (a továbbiakban: éves keretösszeg), az éves keretösszeg elérését követő hónap első napjától az adott tárgyév december 31-éig, de legfeljebb az öregségi nyugdíjkorhatár betöltéséig a nyugdíjfolyósító szervnek a nyugdíj folyósítását szüneteltetnie kell. Ha a fizetendő nyugdíjjárulék alapja az éves keretösszeget a tárgyév decemberében haladja meg, a nyugellátás szüneteltetésére nem kerül sor, de a tárgyév december havi nyugellátást – a 84. § alkalmazásával – vissza kell fizetni. Ha a nyugdíjas 2007. december 31-én korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 1. § c) pontja szerinti korhatár előtti öregségi nyugdíjban részesült, a 2012. június 30-át követően szerzett jövedelem vehető figyelembe.
 
 (2) A nyugdíjfolyósító szerv a nyugdíj folyósításának szüneteltetéséről, újbóli folyósításáról, valamint a jogalap nélkül felvett nyugellátás visszafizettetéséről – a nyugellátásban részesülő személynek a 97. § (5) bekezdése szerint tett bejelentése, illetve az állami adóhatóság által közölt éves keretösszegre vonatkozó összesített adatok alapján – hivatalból dönt.
 
@@ -1240,7 +918,7 @@ A nyugellátást havonta kell folyósítani, legkorábban attól a naptól kezdv
 
 (4) A nyugellátás szüneteltetésének időtartama alatt az érintett nyugdíjasnak minősül. Az ellátás újbóli folyósítása során a 83/A. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-(5) Az (1)–(4) bekezdésben foglalt rendelkezéseket a szolgálati nyugdíjra azzal az eltéréssel kell alkalmazni, hogy a szolgálati nyugdíj folyósításának kötelező szüneteltetésére a hivatásos szolgálat külön törvény szerinti felső korhatárának betöltését követően nem kerülhet sor.
+(5)
 
 ### VIII. Fejezet — FELELŐSSÉGI SZABÁLYOK, JOGORVOSLAT
 
@@ -1269,11 +947,11 @@ A nyugellátást havonta kell folyósítani, legkorábban attól a naptól kezdv
 
 87. § (1) A foglalkoztató köteles megtéríteni a baleseti rokkantsági nyugdíjat, a baleseti hozzátartozói nyugellátást, ha a baleset annak a következménye, hogy ő vagy megbízottja a reá nézve kötelező – a munkavédelemről szóló 1993. évi XCIII. törvény 11–12. §-a szerinti – munkavédelemre vonatkozó szabályokban foglalt kötelezettségének nem tett eleget. Ugyanilyen megtérítési kötelezettség terheli a foglalkoztatót akkor is, ha ő vagy alkalmazottja (tagja) a balesetet szándékosan idézte elő.
 
-(1a) Ha a baleseti rokkantsági nyugdíj vagy a baleseti hozzátartozói nyugellátás több foglalkoztatónál elszenvedett balesetek (foglalkozási megbetegedések, szilikózis) együttes következménye alapján került megállapításra, az (1) bekezdés szerinti feltételek fennállása esetén a foglalkoztatókat olyan arányban kell kötelezni a nyugellátás megtérítésére, amilyen az egyes üzemi balesetekből eredő egészségkárosodások mértékének egymáshoz viszonyított aránya.
+(1a) Ha a baleseti rokkantsági nyugdíj vagy a baleseti hozzátartozói nyugellátás több foglalkoztatónál elszenvedett balesetek (foglalkozási megbetegedések, szilikózis) együttes következménye alapján került megállapításra, az (1) bekezdés szerinti feltételek fennállása esetén a foglalkoztatókat olyan arányban kell kötelezni a nyugellátás megtérítésére, amilyen az egyes üzemi balesetekből eredő egészségkárosodások, egészségiállapot-romlások mértékének egymáshoz viszonyított aránya.
 
 (2) Az (1)–(1a) bekezdés rendelkezésének alkalmazása során a foglalkoztató alatt a Munka Törvénykönyve 193/C. §-ának c) pontjában meghatározott kölcsönvevőt is érteni kell.
 
-88. § (1) Aki a nyugellátásra jogosult egészségkárosodásáért, megrokkanásáért vagy haláláért felelős, köteles az emiatt nyújtott nyugellátást megtéríteni. A megtérítési kötelezettség olyan mértékben áll fenn, amilyen mértékben a felelősség megállapítható.
+88. § (1) Aki a nyugellátásra jogosult haláláért felelős, köteles az emiatt nyújtott nyugellátást megtéríteni. A megtérítési kötelezettség olyan mértékben áll fenn, amilyen mértékben a felelősség megállapítható.
 
 (2) A felelősség megállapítására a Polgári Törvénykönyvről szóló 1959. évi IV. törvénynek (a továbbiakban: Ptk.) a szerződésen kívül okozott károkért fennálló felelősségre vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy a felelősség abban az esetben is fennáll, ha a nyugellátásra jogosultnak vagyoni kára nincs.
 
@@ -1294,7 +972,7 @@ A nyugellátást havonta kell folyósítani, legkorábban attól a naptól kezdv
 
 - a) ideiglenes özvegyi nyugdíj egyhavi összegének tizenkétszeresét,
 - b) az árvaellátás egyhavi összegének az árva 25. életéve betöltéséig terjedő időtartamra számított összegét,
-- c) rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, özvegyi nyugdíj, szülői nyugdíj, illetve baleseti hozzátartozói nyugellátás egyhavi összegének az ellátásban részesülő személyre irányadó öregségi nyugdíjkorhatár betöltéséig terjedő időtartamra, de legalább négy évre számított összegét, az irányadó öregségi nyugdíjkorhatárt betöltött, ellátásban részesülő személy esetén négy évre számított összegét
+- c) özvegyi nyugdíj, szülői nyugdíj, illetve baleseti hozzátartozói nyugellátás egyhavi összegének az ellátásban részesülő személyre irányadó öregségi nyugdíjkorhatár betöltéséig terjedő időtartamra, de legalább négy évre számított összegét, az irányadó öregségi nyugdíjkorhatárt betöltött, ellátásban részesülő személy esetén négy évre számított összegét
 
 kell megtéríteni.
 
@@ -1315,7 +993,7 @@ kell megtéríteni.
 
 (10) A (2)–(9) bekezdés
 
-- a) baleseti rokkantsági nyugdíjra vonatkozó rendelkezéseit a baleseti járadék megtérítésére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a megtérítés összegének meghatározásánál az Eb. 58. §-a (1) bekezdésének a) pontjában említett baleseti járadék esetében az Eb. 57. §-ának (2) bekezdése szerinti kétévi időtartamot kell alapul venni,
+- a) baleseti hozzátartozói nyugellátásra vonatkozó rendelkezéseit a baleseti járadék megtérítésére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a megtérítés összegének meghatározásánál az Eb. 58. §-a (1) bekezdésének a) pontjában említett baleseti járadék esetében az Eb. 57. §-ának (2) bekezdése szerinti kétévi időtartamot kell alapul venni,
 - b) rendelkezéseit a rehabilitációs járadékra azzal az eltéréssel kell alkalmazni, hogy a megtérítés összegének meghatározásánál azt az időtartamot kell alapul venni, amelyre a rehabilitációs járadékot megállapították.
 
 ### Késedelmi kamat
@@ -1394,7 +1072,7 @@ módosítja vagy visszavonja.
 
 (7) A 87–88. § szerinti megtérítés ügyében hozott határozattal szemben fellebbezésnek nincs helye.
 
-(8) A jogerős határozattal megállapított szolgálati idő, valamint a korkedvezményre és egyéb, jogszabályban meghatározott, foglalkozáshoz kapcsolódó kedvezményre jogosító idő tartamát a nyugellátás megállapítása során – az (5) bekezdés b) pontjában foglaltaktól eltérően – a nyugdíjbiztosítási igazgatási szerv az ügyfél terhére nem módosíthatja.
+(8) A jogerős határozattal megállapított szolgálati idő tartamát a nyugellátás megállapítása során – az (5) bekezdés b) pontjában foglaltaktól eltérően – a nyugdíjbiztosítási igazgatási szerv az ügyfél terhére nem módosíthatja.
 
 ### IX. Fejezet — A NYILVÁNTARTÁSI ÉS ADATSZOLGÁLTATÁSI KÖTELEZETTSÉG
 
@@ -1411,7 +1089,7 @@ módosítja vagy visszavonja.
 - b) családi állapot, állampolgárság,
 - c) lakóhely (tartózkodási hely),
 - d) foglalkozás, munkahely, munkakör, tevékenység,
-- e) a rokkantság fokára, az egészségkárosodás mértékére, a szakmai munkaképességre, a rehabilitálhatóságra, továbbá az egészségi állapotra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása az egészségi állapot figyelembevételével történik,
+- e) a rokkantság fokára, az egészségkárosodás, egészségi állapot mértékére, a szakmai munkaképességre, a rehabilitálhatóságra, továbbá az egészségi állapotra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása az egészségi állapot figyelembevételével történik,
 - f) a keresetre, jövedelemre, valamint a levont és befizetett járulékokra vonatkozó adatok,
 - g) a hozzátartozókra vonatkozó adatok, amennyiben jogszabály szerint a nyugellátás, egyéb ellátás megállapítása a hozzátartozói minőség figyelembevételével történik,
 - h) a társadalombiztosítási egyéni számlára vonatkozó, a 96/A. § (1) bekezdése szerinti állami adóhatóság által nyilvántartott egyéb adatok
@@ -1442,6 +1120,8 @@ szerinti adatok igénylésére jogosultak.
 
 (9) A biztosított (volt biztosított) kérheti a bejelentésre kötelezett szerv vagy személy rá vonatkozó adatszolgáltatásának hatósági ellenőrzését, és a rendelkezésére álló bizonyítékok figyelembevételével a nyilvántartás adatainak kiegészítését, javítását.
 
+(10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyugdíjbiztosítási igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.
+
 ### Társadalombiztosítási egyéni számla
 
 96/A. § (1) A társadalombiztosítási egyéni számla természetes személyenként tartalmazza
@@ -1464,13 +1144,11 @@ szerinti adatok igénylésére jogosultak.
 
 (6)
 
-(7) A kincstár, illetve a központosított illetmény-számfejtési szervek, az egészségbiztosítási szerv a biztosítás megszűnését követően folyósított ellátásokkal kapcsolatos adatokról havonként az adóhatóság, a tárgyévet követő év április 30-áig a nyugdíjbiztosítási igazgatási szerv részére kötelesek adatszolgáltatást teljesíteni.
-
-(8) A kincstár az ápolási díjban, az általa folyósított gyermekgondozási segélyben, gyermeknevelési támogatásban részesülő személyről havonként az adóhatóság, a tárgyévet követő év április 30-áig a nyugdíjbiztosítási igazgatási szerv részére adatszolgáltatást teljesít.
+(7)–(8)
 
 (9) A Tbj. 34. §-ában foglaltak alapján nyugdíj-biztosítási szolgáltatásra irányuló megállapodást kötő igazgatási szerv adatszolgáltatási kötelezettsége nem tartozik az Art. hatálya alá.
 
-(10) A rehabilitációs járadékban részesülő személyekre vonatkozó tárgyévi nyugdíjbiztosítási adatszolgáltatást az előírt határidőig a nyugdíjfolyósító szerv teljesíti.
+(10) A rehabilitációs ellátásban vagy rehabilitációs járadékban részesülő személyekre vonatkozó tárgyévi nyugdíjbiztosítási adatszolgáltatást az előírt határidőig a nyugdíjfolyósító szerv teljesíti.
 
 98. § (1) A bejelentések közvetlenül a nyugdíjbiztosítási igazgatási szervnél, posta útján vagy elektronikus úton teljesíthetők.
 
@@ -1495,7 +1173,7 @@ szerinti adatok igénylésére jogosultak.
 - c) a nyugellátás megállapítására és folyósítására vonatkozó részletes szabályokat,
 - d) a nyugdíjprémium megállapítására és a végrehajtásra vonatkozó részletes szabályokat, valamint a (6) bekezdés a) pontja szerinti szorzószámot,
 - e) a 2013. január 1-je előtti nyugellátás összegének megállapításánál a személyi jövedelemadó képzett összegét,
-- f) a nyugellátás emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji rokkantsági nyugdíj, baleseti rokkantsági nyugdíj és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
+- f) a nyugellátás emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
 - g) az öregségi nyugdíj és a 6. § (4) bekezdése szerinti ellátások szüneteltetésének részletes eljárási szabályait,
 - h) az igény érvényesítésével, az igény elbírálásával, a megállapító és a folyósító szervek közötti adatszolgáltatással kapcsolatos eljárást, továbbá a rögzített öregségi nyugdíj megállapítására vonatkozó részletes szabályokat,
 - i) a visszafizetési és megtérítési kötelezettség teljesítésével, elmulasztásával, továbbá a követelés érvényesítésével, valamint a mérséklés, elengedés, fizetési halasztás, részletfizetés engedélyezésével kapcsolatos eljárási rendelkezéseket,
@@ -1515,18 +1193,18 @@ rendeletben határozza meg.
 
 (4) Annak a személynek, akinek az öregségi nyugdíjkorhatár emeléséről és az ezzel összefüggő törvénymódosításokról szóló 1996. évi LIX. törvény 21. § (7) bekezdése alapján megállapított átmeneti járadékot, előnyugdíjat vagy korengedményes nyugdíjat folyósítanak vagy folyósítottak, az öregségi, illetőleg az özvegyi nyugdíja megállapításánál a jogosultra irányadó öregségi nyugdíjkorhatár alatt – a Tny. rendelkezéseitől eltérően – az ott meghatározott életkor(oka)t kell érteni.
 
-(5) Ha a bruttó hazai termék változatlan áron számított növekedésének a tárgyévben várható mértéke a 3,5 százalékot meghaladja, és az államháztartás – költségvetési törvényben meghatározott – tárgyévi egyenlegcélja várhatóan teljesül, a tárgyév novemberében nyugdíjprémiumot kell fizetni annak a személynek, aki a tárgyévet megelőző év legalább egy napján, valamint a tárgyév novemberében a társadalombiztosítási nyugdíjrendszer keretében járó vagy azzal a 6. § (4) bekezdése alapján egy tekintet alá eső
+(5) Ha a bruttó hazai termék változatlan áron számított növekedésének a tárgyévben várható mértéke a 3,5 százalékot meghaladja, és az államháztartás – a központi költségvetésről szóló törvényben meghatározott – tárgyévi egyenlegcélja várhatóan teljesül, a tárgyév novemberében nyugdíjprémiumot kell fizetni annak a személynek, aki a tárgyévet megelőző év legalább egy napján, valamint a tárgyév novemberében a társadalombiztosítási nyugdíjrendszer keretében járó vagy azzal a 6. § (4) bekezdése alapján egy tekintet alá eső
 
-- a) rokkantsági nyugdíjban vagy baleseti rokkantsági nyugdíjban részesül, vagy
+- a)
 - b) hozzátartozói nyugellátásban – ide nem értve az ideiglenes özvegyi nyugdíjat – részesül, vagy
-- c) az a)–b) pontban nem említett nyugellátásban – ide nem értve a rehabilitációs járadékot – részesül, és a 18. § (1) bekezdése szerinti életkort a tárgyévet megelőzően betöltötte.
+- c) a b) pontban nem említett nyugellátásban – ide nem értve a rehabilitációs járadékot – részesül, és a 18. § (1) bekezdése szerinti életkort a tárgyévet megelőzően betöltötte.
 
 (6) A nyugdíjprémium összege a következő két szám szorzata:
 
 - a) a bruttó hazai termék változatlan áron számított növekedése – tárgyévben várható – mértékének 3,5-del csökkentett összege, de legfeljebb 4,
 - b) a nyugellátás november havi összegének 25 százaléka, de legfeljebb 20 000 forint.
 
-(7) Ha a bruttó hazai termék változatlan áron számított növekedésének – a Magyar Köztársaság tárgyévi költségvetési törvényében – tárgyévre tervezett mértéke a 3,5 százalékot meghaladja, a nyugdíjprémium kiadásainak fedezetére a Nyugdíjbiztosítási Alap költségvetésében céltartalékot kell képezni.
+(7) Ha a bruttó hazai termék változatlan áron számított növekedésének – a központi költségvetésről szóló törvényben – tárgyévre tervezett mértéke a 3,5 százalékot meghaladja, a nyugdíjprémium kiadásainak fedezetére a Nyugdíjbiztosítási Alap költségvetésében céltartalékot kell képezni.
 
 (8) A nyugdíjprémiumot a nyugdíjfolyósító szerv hivatalból, a november havi nyugellátással együtt folyósítja. A nyugdíjprémium megállapításáról határozatot nem kell hozni.
 
@@ -1547,7 +1225,11 @@ rendeletben határozza meg.
 
 102/C. § Az egyéni vállalkozók nyilvántartását vezető szerv a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervnek 2011. február 28-áig elektronikus úton átadja azoknak az egyéni vállalkozóknak – az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 11. § (1) bekezdése szerinti – adatait, akik az egyéni vállalkozói tevékenység megkezdését, szünetelését, megszűnését, illetve az adatokban bekövetkező egyéb változást 2010. évben jelentették be. Az adatátadás rendjéről az egyéni vállalkozók nyilvántartását vezető szerv és a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv megállapodást köt.
 
+102/D. § A 2012. január 1-jét megelőző időre folyósított rokkantsági, baleseti rokkantsági nyugdíj visszafizetésére és megtérítésére a 2011. december 31-én hatályos szabályokat 2011. december 31-ét követően is alkalmazni kell.
+
 103. § E törvény a Tanácsnak a férfiakkal és nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról szóló 79/7/EGK irányelvével összeegyeztethető szabályozást tartalmaz.
+
+104. § Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet az 1997. évi LXXXI. törvényhez
 

@@ -59,7 +59,7 @@ a bírósági végrehajtásról
 
 - a) a bíróság és a közjegyző által kiállított végrehajtási lap,
 - b) az olyan okirat, amelyet a bíróság vagy a közjegyző végrehajtási záradékkal látott el,
-- c) a bíróság végrehajtást elrendelő, letiltó, illetőleg átutalási végzése, továbbá közvetlen bírósági felhívást tartalmazó határozata, valamint a közjegyző letiltó és átutalási végzése,
+- c) a bíróság végrehajtást elrendelő, letiltó, illetőleg átutalási végzése, továbbá közvetlen bírósági felhívást tartalmazó határozata,
 - d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
 - e) a bíróság bűnügyi költségről, elővezetési és kísérési költségről szóló értesítése, továbbá a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról, az ügyészség által kiszabott rendbírságról, megállapított bűnügyi költségről, az ügyészség és a nyomozó hatóság által megállapított elővezetési és kísérési költségről, valamint a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítése,
 - f) a bűnügyi zárlatot elrendelő határozat,
@@ -124,16 +124,16 @@ a bírósági végrehajtásról
 
 - a) a közjegyző által hozott, marasztalást tartalmazó határozat és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség alapján bármelyik közjegyző, továbbá a közjegyzőnek a közjegyzői nemperes eljárás lefolytatásáért felszámított díjról és költségről kiállított költségjegyzéke alapján a költségjegyzéket kiállító közjegyzőn kívüli bármelyik közjegyző,
 - b) a bíróság szolgálati bíróságának kártérítésre kötelező határozata, a közjegyzői fegyelmi bíróságnak pénzbírság és eljárási költség megfizetésére kötelező határozata, valamint a bírósági végrehajtói fegyelmi bíróságnak pénzbírság, eljárási költség és kamarai tagdíj megfizetésére kötelező határozata alapján az adós lakóhelye szerinti helyi bíróság (városi, kerületi bíróság; a továbbiakban együtt: helyi bíróság),
-- c) külföldi bírósági határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- d) belföldi és külföldi választottbírósági határozat és egyezség alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság, illetőleg Fővárosi Bíróság (a továbbiakban: megyei bíróság),
-- e) az Európai Unió Tanácsának, az Európai Bíróságnak és az Európai Bizottságnak a határozata alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- f) a Belső Piaci Harmonizációs Hivatal (védjegyek és formatervezési minták) által a közösségi védjegyről szóló, 1993. december 20-i 40/94/EK tanácsi rendelet és a közösségi formatervezési mintáról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet, a Közösségi Növényfajta-hivatal által a közösségi növényfajta-oltalomról szóló, 1994. július 27-i 2100/94/EK tanácsi rendelet, valamint az Európai Szabadalmi Hivatal által az Európai Szabadalmi Egyezmény szerint a költségek viselése tárgyában hozott határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- g) a nem vitatott követelésekre vonatkozó európai végrehajtható okirat létrehozásáról szóló, az Európai Parlament és a Tanács 805/2004/EK rendelete (a továbbiakban: 805/2004/EK rendelet) szerint európai végrehajtható okiratként hitelesített külföldi határozat (bírósági egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- h) a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve a 1347/2003/EK rendelet hatályon kívül helyezéséről szóló, a Tanács 2201/2003/EK rendeletének (a továbbiakban: 2201/2003/EK tanácsi rendelet) 42. cikke szerint kiállított igazolással ellátott külföldi határozat (bírósági egyezség) alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- i) az európai fizetési meghagyásos eljárás létrehozásáról szóló 1896/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1896/2006/EK rendelet) szerint végrehajthatónak nyilvánított európai fizetési meghagyás alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság; ha az európai fizetési meghagyást a magyar közjegyző bocsátotta ki, bármelyik közjegyző,
-- j) a 861/2007/EK rendelet szerint kis értékű követelések európai eljárásában hozott ítélet alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- c) külföldi bírósági határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- d) belföldi és külföldi választottbírósági határozat és egyezség alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti törvényszék,
+- e) az Európai Unió Tanácsának, az Európai Bíróságnak és az Európai Bizottságnak a határozata alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- f) a Belső Piaci Harmonizációs Hivatal (védjegyek és formatervezési minták) által a közösségi védjegyről szóló, 1993. december 20-i 40/94/EK tanácsi rendelet és a közösségi formatervezési mintáról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet, a Közösségi Növényfajta-hivatal által a közösségi növényfajta-oltalomról szóló, 1994. július 27-i 2100/94/EK tanácsi rendelet, valamint az Európai Szabadalmi Hivatal által az Európai Szabadalmi Egyezmény szerint a költségek viselése tárgyában hozott határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- g) a nem vitatott követelésekre vonatkozó európai végrehajtható okirat létrehozásáról szóló, az Európai Parlament és a Tanács 805/2004/EK rendelete (a továbbiakban: 805/2004/EK rendelet) szerint európai végrehajtható okiratként hitelesített külföldi határozat (bírósági egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- h) a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve a 1347/2003/EK rendelet hatályon kívül helyezéséről szóló, a Tanács 2201/2003/EK rendeletének (a továbbiakban: 2201/2003/EK tanácsi rendelet) 42. cikke szerint kiállított igazolással ellátott külföldi határozat (bírósági egyezség) alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- i) az európai fizetési meghagyásos eljárás létrehozásáról szóló 1896/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1896/2006/EK rendelet) szerint végrehajthatónak nyilvánított európai fizetési meghagyás alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság; ha az európai fizetési meghagyást a magyar közjegyző bocsátotta ki, bármelyik közjegyző,
+- j) a 861/2007/EK rendelet szerint kis értékű követelések európai eljárásában hozott ítélet alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - k) az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti helyi bíróság, az ügyészség, a nyomozó hatóság és a szabálysértési hatóság igazságügyi szakértői díj megfizetéséről szóló határozata alapján.
-- l) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben, a 2007. november 23-án elfogadott, a tartási kötelezettségekre alkalmazandó jogról szóló hágai jegyzőkönyv (a továbbiakban: hágai jegyzőkönyv) hatálya alá tartozó tagállamokban hozott bírósági határozat (perbeli egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság.
+- l) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben, a 2007. november 23-án elfogadott, a tartási kötelezettségekre alkalmazandó jogról szóló hágai jegyzőkönyv (a továbbiakban: hágai jegyzőkönyv) hatálya alá tartozó tagállamokban hozott bírósági határozat (perbeli egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
 17. § Tartásdíj behajtása érdekében a végrehajtási lapot a jövőben lejáró tartásdíjrészletekre nézve is ki lehet állítani. Ilyenkor csak a végrehajtási eljárás befejezéséig lejárt tartásdíjrészleteknek megfelelő összeget lehet behajtani és a végrehajtást kérőnek kifizetni.
 
@@ -183,14 +183,14 @@ a bírósági végrehajtásról
 
 23/B. § (1) Az okiratot végrehajtási záradékkal látja el a következő bíróság:
 
-- a) a 44/2001/EK tanácsi rendelet szerinti közokiratot az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- b) a 2201/2003/EK tanácsi rendelet szerinti közokiratot a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- c) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben a hágai jegyzőkönyv hatálya alá nem tartozó tagállamokban kiállított közokiratot az adós lakóhelye – ennek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság.
+- a) a 44/2001/EK tanácsi rendelet szerinti közokiratot az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- b) a 2201/2003/EK tanácsi rendelet szerinti közokiratot a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- c) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben a hágai jegyzőkönyv hatálya alá nem tartozó tagállamokban kiállított közokiratot az adós lakóhelye – ennek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
 (2) Végrehajtási záradékkal látja el
 
-- a) a 805/2004/EK rendelet szerint európai végrehajtható okiratként hitelesített külföldi közokiratot az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- b) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben a hágai jegyzőkönyv hatálya alá tartozó tagállamokban kiállított közokiratot az adós lakóhelye – ennek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti megyei bíróság székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság.
+- a) a 805/2004/EK rendelet szerint európai végrehajtható okiratként hitelesített külföldi közokiratot az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- b) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben a hágai jegyzőkönyv hatálya alá tartozó tagállamokban kiállított közokiratot az adós lakóhelye – ennek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő helyi bíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
 23/C. § (1) Az okiratot készítő közjegyző végrehajtási záradékkal látja el a közjegyzői okiratot, ha az tartalmazza
 
@@ -245,7 +245,7 @@ a bírósági végrehajtásról
 
 (2) A bíróság a tartásdíj fizetésére kötelező határozat rendelkező részét a határozat meghozatalától számított 3 napon belül megküldi a munkáltatónak.
 
-(3) A másodfokú bíróság közvetlen felhívást akkor bocsát ki, ha az elsőfokú bíróság elutasító határozatával ellentétben tartásdíjat állapított meg, illetőleg, ha az elsőfokú bíróság által megállapított tartásdíj összegét vagy a teljesítésre vonatkozó rendelkezését módosította. Ez megfelelően irányadó a Legfelsőbb Bíróságra is, ha a tartásdíjat felülvizsgálati kérelem alapján állapította meg, illetőleg módosította.
+(3) A másodfokú bíróság közvetlen felhívást akkor bocsát ki, ha az elsőfokú bíróság elutasító határozatával ellentétben tartásdíjat állapított meg, illetőleg, ha az elsőfokú bíróság által megállapított tartásdíj összegét vagy a teljesítésre vonatkozó rendelkezését módosította. Ez megfelelően irányadó a Kúriára is, ha a tartásdíjat felülvizsgálati kérelem alapján állapította meg, illetőleg módosította.
 
 (4) E § szerinti eljárásnak akkor van helye, ha azt a jogosult kérte. E kérelem lehetőségéről a bíróság köteles a jogosultat tájékoztatni.
 
@@ -312,21 +312,30 @@ a bírósági végrehajtásról
 
 ### A közjegyző által elrendelt végrehajtásra vonatkozó különös rendelkezések
 
-31/E. § (1) Ha a bírósági végrehajtás elrendelésére a közjegyző rendelkezik hatáskörrel [16. § a) és i) pont, 23/C. §], a 6. § (3) bekezdésben, 7., 11–12/A., 18–19/A., 31/D., 32., 35., 39., 47/A., 49., 50., 56., 89., 172., 179., 180., 186., 189–190., 200–201/A. és 204/B. §-ban a bíróság alatt a közjegyzőt is érteni kell.
+31/E. § (1) Ha a bírósági végrehajtás elrendelésére a közjegyző rendelkezik hatáskörrel [16. § a) és i) pont, 23/C. §], a 11–12/A. §-ban, 18–19/A. §-ban, 31/D. §-ban, 32. §-ban, 35. §-ban, 47/A. §-ban, 49. §-ban, 50. §-ban a (4) bekezdés és az (5) bekezdés a) és d) pontjának kivételével, 51. §-ban, 56. §-ban, 89. §-ban, 172. §-ban, 179. §-ban, 180. §-ban a (3) és (4) bekezdés kivételével, 181. §-ban, 185. §-ban, 186. §-ban a (3) bekezdés kivételével, 189. §-ban, 190. §-ban, 200–201/A. §-ban és a 204/B. §-ban a bíróság alatt, a 39. §-ban a végrehajtást elrendelő bíróság alatt a közjegyzőt is érteni kell.
 
 (2) A közjegyző eljárása – mint polgári nemperes eljárás – a bíróság eljárásával azonos hatályú. A közjegyző által hozott határozat a helyi bíróság határozatával azonos hatályú.
 
-(3) A végrehajtás elrendelésért a közjegyzőnek díjat kell fizetni, melynek mértéke
+(3) A végrehajtási kérelem előterjesztéséért a közjegyzőnek díjat kell fizetni, melynek mértéke
 
-- a) végrehajtás elrendelése esetén az ügyérték 1%-a, de legalább 5000 forint, legfeljebb 150 000 forint;
-- b) biztosítási intézkedés elrendelése esetén az ügyérték 1%-a, de legalább 5000 forint, legfeljebb 30 000 forint;
+- a) végrehajtás elrendelése iránti kérelem esetén az ügyérték 1%-a, de legalább 5000 forint, legfeljebb 150 000 forint;
+- b) biztosítási intézkedés elrendelése iránti kérelem esetén az ügyérték 1%-a, de legalább 5000 forint, legfeljebb 30 000 forint;
 - c) ha az ügyérték nem állapítható meg, 5000 Ft.
 
-(4) Az ügyérték a végrehajtandó követelésnek az eljárás megindításakor fennálló, járulékok nélkül számított értéke. Az ügyérték megállapításánál a Pp. 24. §-át megfelelően alkalmazni kell. A díjat a végrehajtást kérő előlegezi és az adós viseli; azt végrehajtási költségként kell behajtani. A fizetési meghagyás végrehajtásának elrendeléséért járó díjról külön törvény rendelkezik.
+(4) Az ügyérték a végrehajtandó követelésnek az eljárás megindításakor fennálló, járulékok nélkül számított értéke; zálogjog érvényesítésére vonatkozó végrehajtási kérelem esetén ehhez a zálogjoggal biztosított követelés – eljárás megindulásakor fennálló, járulékok nélkül számított – értékét, ha pedig a zálogtárgy értéke ennél kisebb, a zálogtárgy értékét kell figyelembe venni. Az ügyérték megállapításánál a Pp. 24. §-át megfelelően alkalmazni kell. A díjat a végrehajtást kérő előlegezi és a végrehajtás elrendelése esetén az adós, minden más esetben a végrehajtást kérő viseli; azt végrehajtási költségként kell behajtani. A fizetési meghagyás végrehajtásának elrendeléséért járó díjról külön törvény rendelkezik.
+
+(4a) Ha a végrehajtást kérő ugyanazon közjegyzői okirat alapján, ugyanannak a követelésnek a végrehajtását több, egyetemlegesen kötelezett adóssal [5. § (1) bekezdés] szemben egyidejűleg kéri, csak az egyik adóssal szemben előterjesztett végrehajtási kérelemre kell megfizetni a (3) bekezdés szerinti díjat, a további adóssal szemben előterjesztett végrehajtható okirat kiállítási kérelemre 5000 Ft díjat kell adósonként megfizetni. A megfizetett összes díjat az adósokon egyenlő arányban kell behajtani.
+
+(4b) Ha a végrehajtást kérő a végrehajtási kérelmét a végrehajtás elrendelése tárgyában hozott határozat meghozatala előtt visszavonja, a díj mértéke a (3) bekezdésben meghatározott összeg
+
+- a) 10%-a, de legalább 5000 Ft vagy
+- b) 50%-a, de legalább 5000 Ft, ha a kérelem visszavonására a hiánypótlás vagy a jogutódlás tárgyában hozott határozat, vagy a hiányoknak a közjegyző által a 12. § (2) bekezdése szerinti pótlása után kerül sor.
+
+(4c) Ha a közjegyző az ügyet átteszi, a végrehajtást kérő a végrehajtási díj helyett a közjegyzőnek az ügyben felmerült készkiadásait köteles megfizetni; ezt a költséget a végrehajtást kérő viseli.
 
 (5) A végrehajtás (biztosítási intézkedés) elrendeléséért további munkadíj, költségtérítés és illeték – ide nem értve a jogorvoslati eljárás illetékét – nem számítható fel.
 
-31/F. § A 6. § (3) bekezdésében és a 7. § (5) bekezdésében meghatározott megkereséseket a közjegyző elektronikus úton küldi meg a megkeresett szervnek, amely azt elektronikus adatközléssel teljesíti.
+31/F. §
 
 ### III. Fejezet — A VÉGREHAJTÁS FOGANATOSÍTÁSÁNAKKÖZÖS SZABÁLYAI
 
@@ -357,7 +366,7 @@ a bírósági végrehajtásról
 
 (4) A felek az általuk előlegezett költség összegét kötelesek a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni.
 
-(5) Ha az adós a végrehajtási eljárás során a végrehajtást kérőnek fizette meg a követelés összegét, a végrehajtást kérő köteles a végrehajtási költségek kielégítéséről is gondoskodni. Ennek keretében a meg nem fizetett illetéket és az állam által előlegezett költséget, valamint a megyei bírósági végrehajtó helyszíni eljárása, illetve a tanú díja fejében járó költségátalányt köteles befizetni a megfelelő számlára, a végrehajtás foganatosításáért az önálló bírósági végrehajtót megillető összeget pedig köteles a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni. Ennek elmulasztása esetén ezen összeg megfizetéséért az adós és a végrehajtást kérő egyetemlegesen felel.
+(5) Ha az adós a végrehajtási eljárás során a végrehajtást kérőnek fizette meg a követelés összegét, a végrehajtást kérő köteles a végrehajtási költségek kielégítéséről is gondoskodni. Ennek keretében a meg nem fizetett illetéket és az állam által előlegezett költséget, valamint a törvényszéki végrehajtó helyszíni eljárása, illetve a tanú díja fejében járó költségátalányt köteles befizetni a megfelelő számlára, a végrehajtás foganatosításáért az önálló bírósági végrehajtót megillető összeget pedig köteles a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni. Ennek elmulasztása esetén ezen összeg megfizetéséért az adós és a végrehajtást kérő egyetemlegesen felel.
 
 (6) A végrehajtó a gyermektartásdíj végrehajtására irányuló ügyekben az előleg bevárása nélkül köteles eljárni. Az előleg folyósítására köteles szerv az eljárás befejezésekor a végrehajtó díjjegyzéke alapján soron kívül megfizeti részére a végrehajtás során befolyt összegből nem fedezhető díját és költségeit.
 
@@ -539,7 +548,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
   - fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. §-ának i)–j) pontjai szerinti tények,
   - fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. §-ának d) pontja, 80. §-ának b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. §-a (1) bekezdésének g) pontja, 96. §-a (1) bekezdésének g) pontja, továbbá 100. §-a (1) bekezdésének b) és c) pontja szerinti tények.
 
-(5) A végrehajtó a végrehajtási eljárásban részt vevő jogi képviselő képviseleti jogosultságát a jogi képviselő által bemutatott ügyvédi vagy jogtanácsosi igazolvány alapján az illetékes ügyvédi kamara, illetve a jogtanácsosi névjegyzéket vezető megyei bíróság nyilvántartásában szereplő adatok alapján ellenőrizheti.
+(5) A végrehajtó a végrehajtási eljárásban részt vevő jogi képviselő képviseleti jogosultságát a jogi képviselő által bemutatott ügyvédi vagy jogtanácsosi igazolvány alapján az illetékes ügyvédi kamara, illetve a jogtanácsosi névjegyzéket vezető törvényszék nyilvántartásában szereplő adatok alapján ellenőrizheti.
 
 (6) Az adatigénylés iránti megkeresésre a 47. § (4) bekezdésében, a megkeresés teljesítésének díjkötelezettségére a 47. § (3) bekezdésében, az ellenőrzés során beszerzett adatok kezelésére pedig a 47. § (5) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
@@ -555,7 +564,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 48. § (1) A végrehajtást foganatosító bíróság köteles a végrehajtást felfüggeszteni, ha ezt kívánta a végrehajtást kérő, és a felfüggesztés másnak a jogát nem sérti.
 
-(2) Ha a zálogjogosult a 114/A. § (1) bekezdése, illetve a 138/B. § szerinti kérelmet terjesztett elő, a kérelem beérkezését követő 3 munkanapon belül a bíróság a végrehajtást felfüggeszti. A bíróság a végrehajtás felfüggesztéséről a végrehajtót azonnal értesíti, egyúttal részére a felfüggesztést elrendelő végzést haladéktalanul megküldi.
+(2) Ha a zálogjogosult a 114/A. § (1) bekezdése, illetve a 140. § (6) bekezdése szerinti kérelmet terjesztett elő, a kérelem beérkezését követő 3 munkanapon belül a bíróság a végrehajtást felfüggeszti. A bíróság a végrehajtás felfüggesztéséről a végrehajtót azonnal értesíti, egyúttal részére a felfüggesztést elrendelő végzést haladéktalanul megküldi.
 
 (3) A végrehajtást foganatosító bíróság az adós kérelmére kivételesen akkor függesztheti fel a végrehajtást, ha az adós a felfüggesztésre okot adó, méltányolható körülményt igazolta, és az adóst a végrehajtási eljárás során korábban nem sújtották rendbírsággal.
 
@@ -678,10 +687,10 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 57/A. § (1) A végrehajtó hivatali elektronikus aláírásaként – ha jogszabály a végrehajtó számára az elektronikus aláírás használatát előírja – csak olyan minősített elektronikus aláírás használható, amely megfelel a következő feltételeknek:
 
-- a) az elektronikus aláíráshoz tartozó tanúsítványban a hitelesítés-szolgáltató feltüntette, hogy az aláíró önálló bírósági végrehajtó, megyei bírósági végrehajtó, önálló bírósági végrehajtó-helyettes vagy megyei bírósági végrehajtó-helyettes;
+- a) az elektronikus aláíráshoz tartozó tanúsítványban a hitelesítés-szolgáltató feltüntette, hogy az aláíró önálló bírósági végrehajtó, törvényszéki végrehajtó, önálló bírósági végrehajtó-helyettes vagy megyei bírósági végrehajtó-helyettes;
 - b) a hitelesítés-szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos érvényes visszavonási kérelem alapján a módosított visszavonási állapotot legfeljebb 3 percen belül közzéteszi a nyilvántartásában, és a tanúsítvány ellenőrzését kérő felhasználóknak a tanúsítvány visszavonási állapotáról folyamatos tájékoztatást ad.
 
-(2) A megyei bírósági végrehajtó és megyei bírósági végrehajtó-helyettes hivatali elektronikus aláírására az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 35/A. §-át kell alkalmazni; az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes részére pedig a kamara rendszeresít hivatali elektronikus aláírást.
+(2) A törvényszéki végrehajtó és törvényszéki végrehajtó-helyettes hivatali elektronikus aláírására az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 35/A. §-át kell alkalmazni; az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes részére pedig a kamara rendszeresít hivatali elektronikus aláírást.
 
 (3) Az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes az elektronikus aláírásról szóló 2001. évi XXXV. törvény 13. §-a szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a kamarát is.
 
@@ -766,7 +775,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 ### Levonás a nyugdíjból
 
-67. § (1) Az adós társadalombiztosítási nyugellátásából legfeljebb 33%-ot lehet levonni.
+67. § (1) Az adós társadalombiztosítási nyugellátásából, korhatár előtti ellátásából, szolgálati járandóságából, balettművészeti életjáradékából és átmeneti bányászjáradékából (a továbbiakban együtt: nyugellátás) legfeljebb 33 százalékot lehet levonni.
 
 (2) A levonás a nyugellátásnak legfeljebb 50%-áig terjedhet az alábbi követelések fejében:
 
@@ -1052,7 +1061,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 100. § Készpénz lefoglalásakor a végrehajtó a lefoglalt készpénzt magához veszi, és a foglalást követő munkanapon befizeti a végrehajtói letéti számlára.
 
-101. § (1) A gazdálkodó szervezet vagyonából az adóst megillető vagyonrész, illetőleg üzletrész (a továbbiakban: üzletrész) lefoglalásáról a végrehajtó a foglalási jegyzőkönyv másolatának megküldésével értesíti a gazdálkodó szervezetet és a megyei bíróságot mint cégbíróságot (a továbbiakban: cégbíróság).
+101. § (1) A gazdálkodó szervezet vagyonából az adóst megillető vagyonrész, illetőleg üzletrész (a továbbiakban: üzletrész) lefoglalásáról a végrehajtó a foglalási jegyzőkönyv másolatának megküldésével értesíti a gazdálkodó szervezetet és a törvényszéket mint cégbíróságot (a továbbiakban: cégbíróság).
 
 (2) Az üzletrész lefoglalását a gazdálkodó szervezet bejegyzi a nyilvántartásába, a cégbíróság pedig a cégjegyzékbe.
 
@@ -1482,7 +1491,7 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 ### Az ingatlan lefoglalása
 
-138. § (1) Ha a végrehajtható okirat tartalmazza az ingatlan adatait, a végrehajtó a végrehajtási költség megelőlegezését követő 3 munkanapon belül lefoglalja az ingatlant. Ha a végrehajtást kérő a végrehajtási kérelemben úgy rendelkezett, hogy az adós ingatlanát is vonják végrehajtás alá, vagy az adós ingatlanának végrehajtás alá vonását nem zárta ki, de a végrehajtási kérelemben az ingatlan adatait nem jelölte meg, a végrehajtó a végrehajtási költség előlegezését és az ingatlan adatainak beszerzését követő 3 munkanapon belül intézkedik az ingatlan lefoglalása iránt.
+138. § (1) Ha a végrehajtható okirat tartalmazza az ingatlan adatait, a végrehajtó a végrehajtási költség megelőlegezését – ideértve az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának a végrehajtónak történő megfizetését – követő 3 munkanapon belül lefoglalja az ingatlant. Ha a végrehajtást kérő a végrehajtási kérelemben úgy rendelkezett, hogy az adós ingatlanát is vonják végrehajtás alá, vagy az adós ingatlanának végrehajtás alá vonását nem zárta ki, de a végrehajtási kérelemben az ingatlan adatait nem jelölte meg, a végrehajtó a végrehajtási költség előlegezését és az ingatlan adatainak beszerzését, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának a végrehajtónak történő megfizetését követő 3 munkanapon belül intézkedik az ingatlan lefoglalása iránt.
 
 (2) A végrehajtó az ingatlan lefoglalása végett megkeresi az ingatlanügyi hatóságot, hogy a végrehajtási jogot jegyezze be az ingatlan-nyilvántartásba, egyúttal felhívja az ingatlanügyi hatóságot, hogy a végrehajtási jog bejegyzésével kapcsolatos határozatának megküldésével együtt tájékoztassa a végrehajtót azoknak a nevéről és lakóhelyéről (székhelyéről), akiknek az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van. A foglalás a végrehajtási jog bejegyzésével valósul meg.
 
@@ -1982,6 +1991,24 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 (2) Az (1) bekezdés szerinti eljárás során is alkalmazni kell a 182/A. § rendelkezéseit azzal, hogy az ingatlan a kiürítés elhalasztása szempontjából nem minősül önkényesen elfoglalt lakásnak.
 
+183/B. § (1) A bérbeadó, a tulajdonos, vagy az egyébként rendelkezésre jogosult (a továbbiakban e §-ban együtt: bérbeadó)
+
+- a) a közösségi közlekedés, mint közszolgáltatás biztonságát és zavartalan működését szolgáló, vagy
+- b) az a) pontba nem tartozó, személy- vagy teherszállítás céljára használt,
+
+a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre, helyiségre, épületnek nem minősülő építményre vagy területre (a továbbiakban e §-ban együtt: helyiség) megkötött helyiségbérleti – vagy egyéb, helyiség használati jogot is biztosító – szerződés (a továbbiakban e §-ban együtt: szerződés) megszűnését követő 60 napon belül kérheti a 183. §-ban meghatározott rendelkezések megfelelő alkalmazását.
+
+(2) A kérelemhez csatolni kell a következő iratokat is:
+
+- a) olyan ingatlan-nyilvántartási térkép másolatot, amelyen a bérbeadó a helyiség pontos helyét megjelölte, valamint
+- b) olyan fényképet, amelyből az ingatlan-nyilvántartási térképen a helyiség helyes megjelölése megállapítható,
+- c) a szerződés megszűnését eredményező kérelmezői nyilatkozat végrehajtói kézbesítéséről szóló jegyzőkönyvet, vagy a nyilatkozat kézbesítésének egyéb, közokiratba foglalt igazolását, amelyből az is kitűnik, hogy az a) és b) pontban foglalt okiratok is mellékletét képezték a kézbesített iratnak, és
+- d) a szerződés megszűnését eredményező, közjegyzői okiratba foglalt kérelmezői nyilatkozatot.
+
+(3) Ha a bérbeadó ezt kéri, a 31/D. § szerinti végrehajtói kézbesítés útján kell kézbesíteni a szerződés megszűnését eredményező, közjegyzői okiratba foglalt kérelmezői nyilatkozatot a helyiséget használó részére.
+
+(4) A helyiség kiürítése során a 182/A. § rendelkezései nem alkalmazhatóak.
+
 184. § A 183. § a fizető-vendéglátás keretében használatba adott és más kereskedelmi szálláshely (szálloda, turistaház stb.) kiürítésére is irányadó.
 
 ### Szellemi tulajdonjogok megsértése miattindított perben hozott határozat végrehajtása
@@ -2136,11 +2163,11 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 (4) Ha a bíróság a biztosítási intézkedést a (2) bekezdés alapján megszünteti, a biztosítási intézkedéssel felmerült költség megtérítésére – ideértve a zárgondnok díját és költségét – a végrehajtást kérőt kötelezi.
 
-201/B. § A fizetési meghagyásos eljárás során elrendelt ideiglenes intézkedést a fizetési meghagyásos eljárás perré alakulása esetén a fél kérelmére a perbíróság a kérelem beérkezésétől számított 8 napon belül felülvizsgálja, és ennek eredményeként a biztosítási intézkedés hatályát fenntartja vagy azt megszünteti.
+201/B. § A fizetési meghagyásos eljárás során elrendelt biztosítási intézkedést a fizetési meghagyásos eljárás perré alakulása esetén a fél kérelmére a perbíróság a kérelem beérkezésétől számított 8 napon belül felülvizsgálja, és ennek eredményeként a biztosítási intézkedés hatályát fenntartja vagy azt megszünteti.
 
 ### Bűnügyi zárlat
 
-202. § (1) Ha a büntetőeljárásról szóló törvény szerint a büntetőügyben eljáró hatóság, illetőleg bíróság a terhelt egész vagyonának vagy egyes vagyontárgyainak zár alá vételét rendelte el (a továbbiakban: bűnügyi zárlat), ennek elvégzése a végrehajtó hatáskörébe tartozik.
+202. § (1) Ha a büntetőeljárásról szóló törvény szerint a büntetőügyben eljáró bíróság a terhelt egész vagyonának vagy egyes vagyontárgyainak zár alá vételét rendelte el (a továbbiakban: bűnügyi zárlat), ennek elvégzése a végrehajtó hatáskörébe tartozik.
 
 (2) A bűnügyi zárlatra a zárlatnak a szabályait, a pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt biztosító bűnügyi zárlatra pedig a pénzkövetelés biztosításának a szabályait kell megfelelően alkalmazni.
 
@@ -2307,7 +2334,7 @@ az adós vagyontárgyait a pénzkövetelés végrehajtásának szabályai szerin
 
 (5) A végrehajtó a becsértéket közli az MNV Zrt.-vel, és nyilatkozattételre hívja fel arról, hogy a vagyonelkobzás végrehajtásának keretében az ingatlan tulajdonjogára vagy az értékesítéséből befolyt vételárra tart igényt az állam.
 
-(6) Ha az állam az ingatlan tulajdonjogára tart igényt, a végrehajtó a becsérték jogerős megállapítását követően az (1) bekezdés szabályainak alkalmazásával intézkedik a tulajdonjog bejegyzése iránt. Ha az ingatlan becsértéke a tízezer eurót meghaladja, a végrehajtó egyben felhívja az MNV Zrt.-t a végrehajtási költségek és a becsérték 50%-ának a megyei bírósági letéti számlára történő befizetésére.
+(6) Ha az állam az ingatlan tulajdonjogára tart igényt, a végrehajtó a becsérték jogerős megállapítását követően az (1) bekezdés szabályainak alkalmazásával intézkedik a tulajdonjog bejegyzése iránt. Ha az ingatlan becsértéke a tízezer eurót meghaladja, a végrehajtó egyben felhívja az MNV Zrt.-t a végrehajtási költségek és a becsérték 50%-ának a törvényszéki letéti számlára történő befizetésére.
 
 (7) Ha az állam az ingatlan értékesítéséből befolyt vételárra tart igényt, úgy a pénzkövetelés behajtásának szabályai szerint kell az eljárást folytatni; ebben az esetben a végrehajtási költségek, valamint a 165. § a)–c) pontjaiban és a 170. §-ban foglalt követelések kielégítése után fennmaradó pénzösszeg illeti meg az államot.
 
@@ -2434,7 +2461,7 @@ feltételei fennállnak.
 224/A. § Ha a bírósági végrehajtás elrendelése a közjegyző hatáskörébe tartozik, e rész rendelkezéseit az alábbi eltérésekkel kell alkalmazni:
 
 - a) a végrehajtást elrendelő bíróságon a közjegyzőt, a végrehajtást elrendelő bíróság által hozott határozat alatt a közjegyző által hozott határozatot kell érteni;
-- b) a közjegyző határozata elleni fellebbezést a közjegyző székhelye szerint illetékes megyei bíróság bírálja el.
+- b) a közjegyző határozata elleni fellebbezést a közjegyző székhelye szerint illetékes törvényszék bírálja el.
 
 ## ÖTÖDIK RÉSZ — A VÉGREHAJTÁS SZERVEZETE
 
@@ -2445,22 +2472,24 @@ feltételei fennállnak.
 225. § (1) A végrehajtás elrendelését és foganatosítását – e törvényben megállapított szabályok szerint – a bíróság, illetve a közjegyző, továbbá e törvényben meghatározott más szervek és személyek, így különösen a következők végzik:
 
 - a) az önálló bírósági végrehajtó,
-- b) a fővárosi bírósági és a megyei bírósági (a továbbiakban együtt: megyei bírósági) végrehajtó,
+- b) a törvényszéki végrehajtó,
 - c) az önálló bírósági végrehajtó-helyettes,
-- d) a megyei bírósági végrehajtó-helyettes,
+- d) a törvényszéki végrehajtó-helyettes,
 - e) a végrehajtójelölt (e fejezetben a továbbiakban együtt: végrehajtó).
 
 (2) A végrehajtó eljárása – mint polgári nemperes eljárás – a bíróság eljárásával azonos.
 
-(3) Ha az adós ellen az önálló, valamint a megyei bírósági végrehajtó hatáskörébe tartozó eljárás is folyamatban van, az eljárást az a végrehajtó folytatja, akinek a hatáskörébe tartozik a korábban elrendelt végrehajtás.
+(3) Ha az adós ellen az önálló bírósági, valamint a törvényszéki végrehajtó hatáskörébe tartozó eljárás is folyamatban van, az eljárást az a végrehajtó folytatja, akinek a hatáskörébe tartozik a korábban elrendelt végrehajtás.
 
 (4) Az önálló bírósági végrehajtó közös irodában (242. §) és végrehajtói iroda keretében (254/A.–254/C. §) is folytathatja tevékenységét.
 
 (5) Az önálló bírósági végrehajtó ellátja a számára külön jogszabályban megállapított feladatokat is.
 
-(6) A végrehajtást elrendelő bíróságnak azt a bíróságot kell tekinteni, amely a végrehajtható okirat kiállítására jogosult. Végrehajtást foganatosító bíróságnak – ha e törvény másként nem rendelkezik – azt a bíróságot kell tekinteni, amely mellé az eljáró önálló bírósági végrehajtót kinevezték, illetve azon megyei bíróság székhelye szerinti helyi bíróságot, amely megyei bíróságra a megyei bírósági végrehajtót kinevezték, fővárosi bírósági végrehajtó esetében pedig a Pesti Központi Kerületi Bíróságot.
+(6) A végrehajtást elrendelő bíróságnak azt a bíróságot kell tekinteni, amely a végrehajtható okirat kiállítására jogosult. Végrehajtást foganatosító bíróságnak – ha e törvény másként nem rendelkezik – azt a bíróságot kell tekinteni, amely mellé az eljáró önálló bírósági végrehajtót kinevezték, illetve azon törvényszék székhelye szerinti helyi bíróságot, amely törvényszékre a törvényszéki végrehajtót kinevezték, fővárosi törvényszéki végrehajtó esetében pedig a Pesti Központi Kerületi Bíróságot.
 
 (7) A végrehajtást elrendelő közjegyzőnek azt a közjegyzőt kell tekinteni, aki a végrehajtható okirat kiállítására jogosult.
+
+(8) A végrehajtó a hivatalos iratain, névtábláján és bélyegzőjén jogosult az állami címer használatára.
 
 ### A végrehajtói tevékenység keretei
 
@@ -2482,11 +2511,11 @@ feltételei fennállnak.
 
 229. § (1) A végrehajtót az eljárása során tudomására jutott adat és tény tekintetében – ha törvény kivételt nem tesz – titoktartási kötelezettség terheli; e kötelezettsége a végrehajtói működésének megszűnése után is fennmarad. Ez a rendelkezés irányadó a végrehajtói iroda tagjára és alkalmazottjára is.
 
-(2) A végrehajtónak a titoktartási kötelezettség alóli felmentésére a bírósági dolgozókra vonatkozó szabályok megfelelően irányadók azzal, hogy megyei bírósági végrehajtó esetében a megyei bíróság elnöke, önálló bírósági végrehajtó esetében pedig a kamara elnöke jogosult a titoktartás alóli felmentés megadására.
+(2) A végrehajtónak a titoktartási kötelezettség alóli felmentésére a bírósági dolgozókra vonatkozó szabályok megfelelően irányadók azzal, hogy törvényszéki végrehajtó esetében a törvényszék elnöke, önálló bírósági végrehajtó esetében pedig a kamara elnöke jogosult a titoktartás alóli felmentés megadására.
 
 (3) Az összeférhetetlenség és a titoktartás szabályai a végrehajtó-helyettesre és a végrehajtójelöltre, a kizárás szabályai a végrehajtó-helyettesre is irányadók.
 
-(4) A titoktartás szabályai a végrehajtás során közreműködő tanúra, ügygondnokra és zárgondnokra is irányadóak. Titoktartási kötelezettségük az erre történő figyelmeztetésükről való tudomásszerzés időpontjával áll be; a figyelmeztetést a helyszíni eljárásról készült jegyzőkönyvben, illetve a zárgondnok rendeléséről, ügygondnok kijelöléséről szóló iratban fel kell tüntetni. A titoktartás alóli felmentés megadására esetükben az eljárt végrehajtó, szolgálatának megszűnése után a kamara, illetve a megyei bíróság elnöke jogosult; a felmentés nem tagadható meg, ha azt az ügyben eljárt végrehajtó is megkapta.
+(4) A titoktartás szabályai a végrehajtás során közreműködő tanúra, ügygondnokra és zárgondnokra is irányadóak. Titoktartási kötelezettségük az erre történő figyelmeztetésükről való tudomásszerzés időpontjával áll be; a figyelmeztetést a helyszíni eljárásról készült jegyzőkönyvben, illetve a zárgondnok rendeléséről, ügygondnok kijelöléséről szóló iratban fel kell tüntetni. A titoktartás alóli felmentés megadására esetükben az eljárt végrehajtó, szolgálatának megszűnése után a kamara, illetve a törvényszék elnöke jogosult; a felmentés nem tagadható meg, ha azt az ügyben eljárt végrehajtó is megkapta.
 
 229/A. § A végrehajtó az általa intézett végrehajtási ügyről a sajtó, a rádió és a televízió részére nem adhat tájékoztatást. Végrehajtási ügyről a sajtó, a rádió és a televízió részére a kamara elnöke vagy a kamara általa kijelölt tagja ad tájékoztatást.
 
@@ -2494,15 +2523,15 @@ feltételei fennállnak.
 
 230. § (1) A végrehajtási szervezet feletti általános felügyeletet a miniszter látja el.
 
-(2) Az önálló bírósági végrehajtó eljárásának törvényességével kapcsolatban a végrehajtó székhelye szerinti megyei bíróság elnöke fegyelmi eljárást kezdeményezhet, és a végrehajtó tevékenységének kamarai vizsgálatát kezdeményezheti.
+(2) Az önálló bírósági végrehajtó eljárásának törvényességével kapcsolatban a végrehajtó székhelye szerinti törvényszék elnöke fegyelmi eljárást kezdeményezhet, és a végrehajtó tevékenységének kamarai vizsgálatát kezdeményezheti.
 
 (3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése a kamara feladata.
 
 (4) A kamara a végrehajtó működését a szervezeti és működési szabályzatában meghatározott ellenőrzési terv szerint végzi, ennek keretében 3 évenként minden végrehajtó tevékenységének átfogó vizsgálatát el kell végezni. A kamara elnöke indokolt esetben írásbeli határozattal bármikor elrendelheti a végrehajtó tevékenységének vizsgálatát, az elrendelés okát meg kell indokolni.
 
-(5) A megyei bírósági végrehajtókkal kapcsolatban a (2)–(4) bekezdésben említett feladatokat a megyei bíróság elnöke látja el azzal, hogy a végrehajtó tevékenységének vizsgálatát az általa kijelölt bíró, bírósági titkár és végrehajtási ügyintéző is végezheti.
+(5) A törvényszéki végrehajtókkal kapcsolatban a (2)–(4) bekezdésben említett feladatokat a törvényszék elnöke látja el azzal, hogy a végrehajtó tevékenységének vizsgálatát az általa kijelölt bíró, bírósági titkár és végrehajtási ügyintéző is végezheti.
 
-(6) A végrehajtói tevékenység vizsgálatának eredményéről a minisztert – a megyei bírósági végrehajtókra vonatkozóan az Országos Igazságszolgáltatási Tanácsot is – évente tájékoztatni kell.
+(6) A végrehajtói tevékenység vizsgálatának eredményéről a minisztert – a törvényszéki végrehajtókra vonatkozóan az Országos Bírósági Hivatal elnökét is – évente tájékoztatni kell.
 
 231. §
 
@@ -2527,7 +2556,7 @@ feltételei fennállnak.
 - a) magyar állampolgár,
 - b)
 - c) a 24. évét betöltötte,
-- d) választójoggal rendelkezik,
+- d) az országgyűlési képviselők választásán választható,
 - e) felsőfokú iskolai végzettséggel rendelkezik,
 - f) a végrehajtói szakvizsgát letette, és
 - g) kétéves bírósági végrehajtó-helyettesi gyakorlatot szerzett.
@@ -2603,7 +2632,9 @@ esetén van lehetőség.
 
 238. § (1) A felelősségbiztosítás megkötése vagy a biztosíték összegének befizetése, a bélyegző, fizetésiszámla-szerződés jóváhagyása és a hivatali helyiség alkalmasságának megállapítása után a végrehajtó a kinevezését követő egy hónapon belül a kamara elnöke előtt esküt tesz.
 
-(2) Az eskü szövege a következő: ,,Én…………………… (név) esküszöm, hogy a Magyar Köztársasághoz hű leszek, az Alkotmányt és az alkotmányos jogszabályokat megtartom, a hivatali titkot megőrzöm, és kötelességeimet az eredményes bírósági végrehajtás érdekében pontosan teljesítem.''
+(2) Az eskü szövege az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
+
+(3) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: önálló bírósági végrehajtó.
 
 ### A végrehajtói szolgálat megszűnése
 
@@ -2619,7 +2650,7 @@ esetén van lehetőség.
 
 (3) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha
 
-- a) a végrehajtó magyar állampolgárságát vagy választójogát elvesztette,
+- a) a végrehajtó magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 - b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) pontjában meghatározott körülmény következett be,
 - c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
 - d) a tartós helyettesítés egyéves időtartamának lejártáig nem kerül sor a tartós helyettesítés meghosszabbítására [245. § (1) bekezdés c) pont, 245. § (5) bekezdés].
@@ -2647,12 +2678,22 @@ esetén van lehetőség.
 240. § A végrehajtó nem gyakorolhatja hivatását:
 
 - a) a 239. § (1) bekezdés a), c) és d) pontjában meghatározott esetekben a végrehajtói szolgálat megszűnésének időpontjától kezdődően,
-- b) a magyar állampolgárság vagy választójog elvesztésének időpontjától kezdődően,
+- b) a magyar állampolgárság elvesztésének időpontjától, vagy attól az időponttól kezdődően, amelytől az országgyűlési képviselők választásán nem választható,
 - c) a 233. § (2) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ítélet jogerőre emelkedésének napjától kezdődően,
 - d) a tartós helyettesítés egyéves időtartama lejártát követő naptól, ha nem kerül sor a tartós helyettesítés meghosszabbítására [245. § (1) bekezdés c) pont, 245. § (5) bekezdés],
 - e) a 238. §-ban meghatározott eskütételt megelőzően.
 
-240/A. § Ha a végrehajtói állás megüresedett, vagy a végrehajtót állásából felfüggesztették, az állásra kirendelt tartós helyettesnek van rendelkezési joga a végrehajtó letéti számlája felett.
+240/A. § (1) Ha a végrehajtó szolgálata megszűnik, kinevezésének érvénytelenségét állapították meg vagy helyettesítésére tartóst helyettest rendeltek ki, a végrehajtó, illetve a végrehajtási iratokat, nyilvántartásokat, ezek megőrzésére szolgáló számítástechnikai eszközöket (a továbbiakban e § alkalmazásában együtt: végrehajtási iratok) birtokló személy a 240. §-ban meghatározott időponttól számított 15 napon belül a szolgálatba lépő új végrehajtó vagy a tartós helyettes részére átadja a folyamatban lévő és befejezett végrehajtási ügyek iratait, a végrehajtási ügyek nyilvántartásait tartalmazó iratokat, valamint a végrehajtási ügyek és nyilvántartások számítógépes adathordozón rögzített adatait tartalmazó eszközöket, amelyeket az átvételre jogosult köteles átvenni.
+
+(2) A végrehajtói állásra kirendelt tartós helyettesnek rendelkezési joga van a helyettesített végrehajtó letéti számlája felett. Ha a tartós helyettes saját iroda működtetésével látja el a helyettesítést, a végrehajtói letéti számla tulajdonosa átadhatja a letéti számlán kezelt pénzösszeget a tartós helyettesnek, ha pedig a megüresedett végrehajtói álláshelyre új végrehajtót neveztek ki, a letéti számlán kezelt összegeket átadja a szolgálatba lépő végrehajtónak.
+
+(3) A végrehajtási iratokat birtokló személy köteles lehetővé tenni az átvevő személy számára azt, hogy az átadás céljából a végrehajtó irodájába belépjen, valamint iratait és nyilvántartásait megvizsgálja. A végrehajtási iratokat átvevő személy az átvételt igazolja.
+
+(4) A végrehajtási iratokat birtokló személy vagy az átvételre jogosult személy kérelmére a végrehajtási iratokat a kamara veszi át és haladéktalanul gondoskodik az átvételre jogosult személy részére történő átadásáról.
+
+(5) A kamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szerinti hatósági ellenőrzés keretében ellenőrzi a végrehajtási iratok átadásának megtörténtét. A végrehajtási iratokat birtokló személy köteles lehetővé tenni a helyszíni ellenőrzést lefolytató személy számára azt, hogy az ellenőrzés elvégzése céljából a végrehajtó irodájába belépjen, valamint iratait és nyilvántartásait megvizsgálja.
+
+(6) Ha a végrehajtási iratokat birtokló személy az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a végrehajtó irodája a helyszíni ellenőrzés lefolytatása céljából, a végrehajtási iratok mielőbbi átadásának érdekében – a Ket. 57/B. § (4) és (5) bekezdésének alkalmazásával – felnyitható.
 
 ### A végrehajtói szolgálat szüneteltetése
 
@@ -2668,7 +2709,7 @@ esetén van lehetőség.
 
 ### A végrehajtói szolgálattal kapcsolatos eljárás
 
-240/C. § (1) A miniszter a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata megszűnése és szünetelésének megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása ügyében a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
+240/C. § (1) A miniszter a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata megszűnése és szünetelésének megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása ügyében a Ket. rendelkezései szerint jár el.
 
 (2)–(3)
 
@@ -2678,14 +2719,14 @@ esetén van lehetőség.
 
 (2) A végrehajtó-helyettes – a 254/E. § (3) bekezdésében foglalt kivétellel – a végrehajtóval áll munkaviszonyban.
 
-240/E. § Végrehajtó-helyettesként az működhet, akit a kamara az önálló bírósági végrehajtó-helyettesek nyilvántartásába felvett, és a 238. § (2) bekezdése szerinti esküt letette. A kamara a nyilvántartásba való felvételét kérő személyt meghallgatja.
+240/E. § Végrehajtó-helyettesként az működhet, akit a kamara az önálló bírósági végrehajtó-helyettesek nyilvántartásába felvett, és a 238. § (2) bekezdése szerinti esküt letette. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: önálló bírósági végrehajtó-helyettes. A kamara a nyilvántartásba való felvételét kérő személyt meghallgatja.
 
 240/F. § (1) Végrehajtó-helyettesként lehet nyilvántartásba venni azt, aki
 
 - a) magyar állampolgár,
 - b)
 - c) a 18. évét betöltötte,
-- d) választójoggal rendelkezik,
+- d) az országgyűlési képviselők választásán választható,
 - e) középfokú iskolai végzettséggel rendelkezik,
 - f) egyéves végrehajtójelölti gyakorlatot szerzett,
 - g) a végrehajtói szakvizsgát letette, és
@@ -2707,7 +2748,7 @@ esetén van lehetőség.
 
 ### Végrehajtójelölt
 
-241. § (1) Önálló bírósági végrehajtójelöltként (e fejezetben a továbbiakban: végrehajtójelölt) az járhat el, akit a kamara a végrehajtójelöltek nyilvántartásába felvett, és a 238. § (2) bekezdése szerinti esküt letette. A kamara a nyilvántartásba való felvételét kérő személyt meghallgatja.
+241. § (1) Önálló bírósági végrehajtójelöltként (e fejezet alkalmazásában a továbbiakban: végrehajtójelölt) az járhat el, akit a kamara a végrehajtójelöltek nyilvántartásába felvett, és a 238. § (2) bekezdése szerinti esküt letette. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: önálló bírósági végrehajtójelölt. A kamara a nyilvántartásba való felvételét kérő személyt meghallgatja.
 
 (2) Végrehajtójelöltként azt lehet nyilvántartásba venni, aki
 
@@ -2766,11 +2807,13 @@ esetén van lehetőség.
 
 (2) Tartós helyettesként végrehajtót és legalább egyéves gyakorlattal rendelkező végrehajtó-helyettest lehet kirendelni. A tartós helyettesként történő kirendelésről a kamara elnöke okiratot állít ki.
 
-(3) A végrehajtó-helyettes a tartós helyettesként történő kirendelése esetén a végrehajtó hatáskörében teljes jogkörrel és önálló felelősséggel jár el, a működésének megkezdésekor a kamara elnöke előtt esküt tesz, és igazolja felelősségbiztosításának fennállását.
+(3) A végrehajtó-helyettes a tartós helyettesként történő kirendelése esetén a végrehajtó hatáskörében teljes jogkörrel és önálló felelősséggel jár el, a működésének megkezdésekor a kamara elnöke előtt esküt tesz, és igazolja felelősségbiztosításának fennállását. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: tartós helyettesként kirendelt végrehajtó-helyettes.
 
-(4) A tartós helyettes gondoskodik a végrehajtó irodájának zavartalan működéséről, a működési költségeket kifizeti, a számláit kezeli, a végrehajtó alkalmazottjai felett a munkáltatói jogokat gyakorolja.
+(4) A tartós helyettes gondoskodik a végrehajtó irodájának zavartalan működéséről, a működési költségeket kifizeti, a számláit kezeli, a végrehajtó alkalmazottjai felett a munkáltatói jogokat gyakorolja. Ha a tartós helyettest megüresedett álláshelyre rendelték ki, vagy nem született megállapodás a helyettesített végrehajtóval a helyettesített végrehajtó irodájának további működtetéséről, a tartós helyettes a végrehajtási ügyek ellátását saját irodája útján végezheti; ebben az esetben be kell jelentenie a kamarához a számla-szerződéseit és a hivatali helyiségének címét.
 
 (5) A végrehajtó tartós távolléte miatt kirendelt tartós helyettesi kirendelést a távollét megszűnésével meg kell szüntetni, egy év elteltével pedig a kirendelés megszűnik. A kirendelés az egyéves határidő lejártát megelőzően a miniszter engedélyével hosszabbítható meg.
+
+(6) Ha a végrehajtói állásra több tartós helyettes kerül kirendelésre, a kirendelésről szóló okiratban meg kell határozni a tartós helyettesek között érvényesülő ügyelosztási szabályokat.
 
 246. §
 
@@ -2780,7 +2823,7 @@ esetén van lehetőség.
 
 (2) A végrehajtóra vonatkozó rendelkezéseket a helyettesre megfelelően alkalmazni kell.
 
-(3) A helyettest a tényleges helyettesítés tartama alatt a helyettesített végrehajtótól díjazás illeti meg, amelynek összegét megállapodás hiányában a kamara állapítja meg. A megüresedett végrehajtói állásra kirendelt tartós helyettest a végrehajtó tevékenységből eredő tiszta bevétel illeti meg.
+(3) A helyettest a tényleges helyettesítés tartama alatt a helyettesített végrehajtótól díjazás illeti meg, amelynek összegét megállapodás hiányában a kamara állapítja meg. A megüresedett végrehajtói állásra kirendelt tartós helyettest, valamint a helyettesítést saját irodája útján ellátó tartós helyettest a végrehajtói tevékenységből eredő bevétel illeti meg.
 
 ### A Magyar Bírósági Végrehajtói Kamara
 
@@ -2790,7 +2833,7 @@ esetén van lehetőség.
 
 (3) Az önálló bírósági végrehajtó, az önálló bírósági végrehajtó-helyettes és az önálló bírósági végrehajtójelölt a kinevezésével, illetve a végrehajtó-helyettesi vagy végrehajtójelölti névjegyzékbe történő felvételével a kamara tagjává válik.
 
-250. § (1) A kamara köztestület, e törvényben és más jogszabályokban meghatározott jogok gyakorlásával és kötelezettségek teljesítésével képviseli és védi a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek érdekeit, ellátja a végrehajtói szolgálattal kapcsolatos, jogszabályban meghatározott feladatokat, és közreműködik a végrehajtással kapcsolatos jogszabályok előkészítésében.
+250. § (1) A kamara köztestület, e törvényben és más jogszabályokban meghatározott jogok gyakorlásával és kötelezettségek teljesítésével képviseli és védi a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek érdekeit, ellátja a végrehajtói szolgálattal kapcsolatos, jogszabályban meghatározott feladatokat, és közreműködik a végrehajtással kapcsolatos jogszabályok előkészítésében. A kamarát a törvényszék nem veszi nyilvántartásba.
 
 (2) A kamara jogai és feladatai különösen:
 
@@ -2806,7 +2849,7 @@ esetén van lehetőség.
 - j) igazolja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek gyakorlatát,
 - k) szervezi a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek képzését és továbbképzését; lebonyolítja a végrehajtó-jelölti kézbesítési vizsgát,
 - l) fegyelmi eljárást kezdeményez, nyilvántartja a jogerős fegyelmi határozatokat,
-- m) megválasztja a fegyelmi bíróság végrehajtó tagjait és a vizsgálóbiztosokat,
+- m) megválasztja a fegyelmi bíróság vizsgálóbiztosait,
 - n) a végrehajtási ügyek intézéséről statisztikai adatgyűjtést és adatszolgáltatást végez,
 - o) az önálló bírósági végrehajtók hatáskörébe tartozó ügyekről a hiteles, pontos és gyors tájékoztatás érdekében felvilágosítást ad a sajtó, a rádió és a televízió részére, és
 - p) kiállítja az önálló bírósági végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek és helyettes bírósági végrehajtók igazolványát.
@@ -2879,7 +2922,7 @@ esetén van lehetőség.
 (5) A végrehajtók helyettesítésére kirendelt tartós helyettesek névjegyzéke a következő adatokat tartalmazza:
 
 - a) természetes személyazonosító adatok,
-- b)
+- b) – saját iroda működtetésével ellátott helyettesítés esetén – a végrehajtói letéti számla száma, a számlát vezető hitelintézet neve, valamint a tartós helyettes irodájának és kézbesítési irodájának címe, több tartós helyettes kirendelése esetén a tartós helyettesre vonatkozó ügyelosztási szabályok,
 - c) a helyettesített végrehajtó neve, székhelye, illetékességi területe,
 - d) a helyettesítés kezdő és befejező napja.
 
@@ -2948,7 +2991,7 @@ esetén van lehetőség.
 
 (3) A kamara köteles a megadott határidőn belül a felhívásnak megfelelően a szervezeti és működési szabályzatot, iránymutatást, illetve egyéb határozatot módosítani, vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(4) Ha a kamara a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetése iránt, a miniszter kérheti a szervezeti és működési szabályzat, iránymutatás, illetve egyéb határozat bírósági felülvizsgálatát. A pert a kamara ellen a megadott határidő lejártától számított 30 napon belül lehet megindítani és a Pp. általános szabályai szerint kell lefolytatni; a per a megyei (fővárosi) bíróság hatáskörébe tartozik.
+(4) Ha a kamara a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetése iránt, a miniszter kérheti a szervezeti és működési szabályzat, iránymutatás, illetve egyéb határozat bírósági felülvizsgálatát. A pert a kamara ellen a megadott határidő lejártától számított 30 napon belül lehet megindítani és a Pp. általános szabályai szerint kell lefolytatni; a per a törvényszék hatáskörébe tartozik.
 
 (5) Ha a bíróság a jogszabálysértést megállapítja,
 
@@ -2973,7 +3016,7 @@ esetén van lehetőség.
 - e) a végrehajtási ügy számát, és
 - f) azt, hogy a követelést a későbbiekben kielégítették (teljesítették).
 
-(3) A végrehajtó (megyei bírósági végrehajtó) a végrehajtási ügy befejezésekor megkeresi a kamarát az adós gazdálkodó szervezet (2) bekezdésben foglalt adatainak a nyilvántartásba történő bejegyzése céljából. Ha a bejegyzés után az eljárás folytatódik, és ennek során a követelést kielégítették (teljesítették), ezt is közölni kell a kamarával.
+(3) A végrehajtó (törvényszéki végrehajtó) a végrehajtási ügy befejezésekor megkeresi a kamarát az adós gazdálkodó szervezet (2) bekezdésben foglalt adatainak a nyilvántartásba történő bejegyzése céljából. Ha a bejegyzés után az eljárás folytatódik, és ennek során a követelést kielégítették (teljesítették), ezt is közölni kell a kamarával.
 
 (4) A kamara a nyilvántartás adatairól költségtérítés fejében tájékoztatást adhat annak, aki ezt a cél és az adatkéréshez fűződő jogi érdek megjelölésével írásban kéri. A nyilvántartásból történő tájékoztatás tényét rögzíteni kell.
 
@@ -3026,7 +3069,7 @@ kérhetnek adatszolgáltatást.
 
 254/A. § (1) A végrehajtói iroda az önálló bírósági végrehajtói tevékenység végzésének elősegítésére határozatlan időre alapított, jogi személyiséggel rendelkező szervezet.
 
-(2) A végrehajtói iroda alapítására, nyilvántartására, működésére, ellenőrzésére, megszűnésére és tagjainak felelősségére e törvényben foglalt eltérésekkel a gazdasági társaságokról szóló 1997. évi CXLIV. törvénynek a korlátolt felelősségű társaságra vonatkozó szabályait kell alkalmazni. Végrehajtói iroda az egyszemélyes korlátolt felelősségű társaságra vonatkozó szabályok szerint nem működhet.
+(2) A végrehajtói iroda alapítására, nyilvántartására, működésére, ellenőrzésére, megszűnésére és tagjainak felelősségére e törvényben foglalt eltérésekkel a gazdasági társaságokról szóló 2006. évi IV. törvénynek a korlátolt felelősségű társaságra vonatkozó szabályait kell alkalmazni. Végrehajtói iroda az egyszemélyes korlátolt felelősségű társaságra vonatkozó szabályok szerint nem működhet.
 
 254/B. § (1) Végrehajtói irodát természetes személyek vagy gazdasági társaságok alapíthatnak olyan módon, hogy az irodában a szavazati jog több mint 50%-át önálló bírósági végrehajtó tag (e fejezetben a továbbiakban: végrehajtó tag) gyakorolja, és vezető tisztségviselője csak végrehajtó tag lehet.
 
@@ -3091,11 +3134,11 @@ kérhetnek adatszolgáltatást.
 
 (3) A kamara a (2) bekezdésben foglalt eljárása során megvizsgálja az alapító okiratban foglaltakat, és – szükség esetén a helyszínen – ellenőrzi az okiratban foglalt adatok valódiságát.
 
-(4) A végrehajtói iroda köteles az alapítási engedély kézhezvételétől számított 30 napon belül az iroda alapítását bejegyzés és közzététel végett bejelenteni a cégjegyzéket vezető megyei bíróságnak mint cégbíróságnak; a végrehajtói iroda a cégjegyzékbe való bejegyzéssel, a bejegyzés napján jön létre.
+(4) A végrehajtói iroda köteles az alapítási engedély kézhezvételétől számított 30 napon belül az iroda alapítását bejegyzés és közzététel végett bejelenteni a cégjegyzéket vezető törvényszéknek mint cégbíróságnak; a végrehajtói iroda a cégjegyzékbe való bejegyzéssel, a bejegyzés napján jön létre.
 
 (5) A cégjegyzékből jogerős határozattal törölt végrehajtói irodát a kamara törli a végrehajtói irodák kamarai nyilvántartásából.
 
-(6) Ha a kamara a hatósági ellenőrzése során megállapítja, hogy a végrehajtói iroda nem felel meg az e törvényben meghatározott alapítási engedély kiadása vagy a végrehajtói irodai tagság fenntartása feltételeinek, az alapítási engedélyt, illetve a tagság létesítése iránti engedélyt visszavonja, és a cégbíróságnál kérelmezi a közjegyzői irodával szemben törvényességi felügyeleti eljárás lefolytatását.
+(6) Ha a kamara a hatósági ellenőrzése során megállapítja, hogy a végrehajtói iroda nem felel meg az e törvényben meghatározott alapítási engedély kiadása vagy a végrehajtói irodai tagság fenntartása feltételeinek, az alapítási engedélyt, illetve a tagság létesítése iránti engedélyt visszavonja, és a cégbíróságnál kérelmezi a végrehajtói irodával szemben törvényességi felügyeleti eljárás lefolytatását.
 
 254/E. § (1) A végrehajtói iroda tagjai közül végrehajtási cselekményt a végrehajtási eljárásra vonatkozó szabályok szerint csak a végrehajtó tag, illetve – a rá irányadó szabályok szerint – az iroda által foglalkoztatott végrehajtó-helyettes végezhet.
 
@@ -3145,12 +3188,12 @@ kérhetnek adatszolgáltatást.
 
 ### Közigazgatási hatósági ügyek intézése
 
-254/H. § (1) A közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni – az e §-ban foglalt eltérésekkel – a következő ügyekben:
+254/H. § (1) A Ket. rendelkezéseit kell alkalmazni – az e §-ban foglalt eltérésekkel – a következő ügyekben:
 
 - a) bejegyzés a végrehajtó-helyettesek és végrehajtójelöltek kamarai névjegyzékébe, törlés e névjegyzékből, kivéve, ha a törlésre a 240/F. § (5) bekezdésének e) pontja vagy a 241. § (6) bekezdésének e) pontja alapján kerül sor,
 - b) a végrehajtói iroda alapítási engedélyének megadása iránti eljárás,
 - c) felvétel a végrehajtói irodák kamarai nyilvántartásába, törlés e nyilvántartásból,
-- d) a végrehajtói tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés [a továbbiakban az a)–d) pontban foglaltak együtt: kamarai hatósági eljárás].
+- d) a végrehajtói tevékenység gyakorlásának időtartama alatt a 239/A. § szerint lefolytatott hatósági ellenőrzés és a 240/A. § (5) bekezdése alapján a végrehajtási iratok átadásának megtörténtére vonatkozóan lefolytatott hatósági ellenőrzés [az a)–d) pont a továbbiakban együtt: kamarai hatósági eljárás].
 
 (2) A kamarai hatósági eljárás lefolytatása iránti kérelmet csak a kamaránál írásban vagy szóban, szóbeli kérelmet pedig csak személyesen lehet előterjeszteni. Nem minősül írásbeli kérelemnek a telefax útján benyújtott kérelem.
 
@@ -3169,53 +3212,53 @@ kérhetnek adatszolgáltatást.
 
 (7) A kamarai hatósági eljárásban az ügyfél nem jogosult és a hatóság nem köteles elektronikus úton írásban kapcsolatot tartani.
 
-### XX. Fejezet — A MEGYEI BÍRÓSÁGI VÉGREHAJTÓ
+### XX. Fejezet — A TÖRVÉNYSZÉKI VÉGREHAJTÓ
 
-### A megyei bírósági végrehajtó feladata
+### A törvényszéki végrehajtó feladata
 
-255. § A fővárosi bírósági, illetőleg a megyei bírósági végrehajtó (a továbbiakban: megyei bírósági végrehajtó) foganatosítja a végrehajtást, ha a végrehajtandó követelés
+255. § A törvényszéki végrehajtó foganatosítja a végrehajtást, ha a végrehajtandó követelés
 
 - a) a 10. § d)–g) pontjában felsorolt végrehajtható okiraton alapul, kivéve, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi,
 - b) a polgári ügyben az állam által előlegezett költség,
 - c) a bíróság által előlegezett gyermektartásdíj,
-- d) egyéb jogcímen illeti meg a bíróságot, az Országos Igazságszolgáltatási Tanácsot, az Országos Igazságszolgáltatási Tanács Hivatalát, a miniszter által vezetett minisztériumot (a továbbiakban: minisztérium), az igazságügyi szakértői intézményt vagy az államot,
+- d) egyéb jogcímen illeti meg a bíróságot, az Országos Bírósági Hivatal elnökét, az Országos Bírósági Hivatalt, a miniszter által vezetett minisztériumot (a továbbiakban: minisztérium), az igazságügyi szakértői intézményt vagy az államot,
 - e) a büntetés-végrehajtási szervezetet a fogvatartottal — illetőleg a volt fogvatartottal — szemben illeti meg.
 
-255/A. § (1) A megyei bírósági végrehajtó székhelye és illetékességi területe azonos annak a megyei bíróságnak a székhelyével és illetékességi területével, ahol szolgálatot teljesít, a fővárosi bírósági végrehajtó székhelye: Budapest, illetékességi területe: Budapest főváros területe.
+255/A. § (1) A törvényszéki végrehajtó székhelye és illetékességi területe azonos annak a törvényszéknek a székhelyével és illetékességi területével, ahol szolgálatot teljesít, a fővárosi törvényszéki végrehajtó székhelye: Budapest, illetékességi területe: Budapest főváros területe.
 
-(2) A Pest megyei bírósági végrehajtó az illetékességi területén indult ügyben Budapest főváros területén, a fővárosi bírósági végrehajtó Pest megye területén is eljár. A végrehajtó az illetékességi területén indult ügyben az ingatlan-végrehajtást az ország egész területén foganatosítja.
+(2) A Budapest környéki törvényszéki végrehajtó az illetékességi területén indult ügyben Budapest főváros területén, a fővárosi törvényszéki végrehajtó Pest megye területén is eljár. A végrehajtó az illetékességi területén indult ügyben az ingatlan-végrehajtást az ország egész területén foganatosítja.
 
-### A megyei bírósági végrehajtó szolgálati viszonya
+### A törvényszéki végrehajtó szolgálati viszonya
 
-256. § (1) A megyei bírósági végrehajtó a megyei bíróságnál szolgálati viszonyban álló bírósági tisztviselő.
+256. § (1) A törvényszéki végrehajtó a törvényszéknél szolgálati viszonyban álló bírósági tisztviselő.
 
-(2) A megyei bírósági végrehajtót a megyei bíróság elnöke nevezi ki határozatlan időre, meghatározott megyei bíróságra; a kinevezésre a 233. § megfelelően irányadó. A megyei bírósági végrehajtó a 238. § (2) bekezdése szerinti esküt a kinevezését követő egy hónapon belül a megyei bíróság elnöke előtt teszi le.
+(2) A törvényszéki végrehajtót a törvényszék elnöke nevezi ki határozatlan időre, meghatározott törvényszékre; a kinevezésre a 233. § megfelelően irányadó. A törvényszéki végrehajtó a 238. § (2) bekezdése szerinti esküt a kinevezését követő egy hónapon belül a törvényszék elnöke előtt teszi le. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: törvényszéki végrehajtó.
 
-(3) A megyei bírósági végrehajtó szolgálati viszonyának megszűnésére a 239. § irányadó azzal, hogy a szolgálat megszűnését a megyei bíróság elnöke állapítja meg, illetve ő menti fel a megyei bírósági végrehajtót végrehajtói szolgálata alól.
+(3) A törvényszéki végrehajtó szolgálati viszonyának megszűnésére a 239. § irányadó azzal, hogy a szolgálat megszűnését a törvényszék elnöke állapítja meg, illetve ő menti fel a törvényszéki végrehajtót végrehajtói szolgálata alól.
 
-### Megyei bírósági végrehajtó-helyettes
+### Törvényszéki végrehajtó-helyettes
 
-256/A. § (1) A megyei bírósági végrehajtó-helyettes a megyei bíróságnál szolgálati viszonyban álló bírósági tisztviselő, akit a megyei bíróság elnöke pályázat alapján nevez ki. A kinevezésre a 240/F. § (1)–(4) bekezdése, az eskütételre a 256. § (2) bekezdése megfelelően irányadó.
+256/A. § (1) A törvényszéki végrehajtó-helyettes a törvényszéknél szolgálati viszonyban álló bírósági tisztviselő, akit a törvényszék elnöke pályázat alapján nevez ki. A kinevezésre a 240/F. § (1)–(4) bekezdése, az eskütételre a 256. § (2) bekezdése megfelelően irányadó azzal, hogy az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: törvényszéki végrehajtó-helyettes.
 
-(2) A megyei bírósági végrehajtó-helyettes önállóan foganatosíthat eljárási cselekményt, de árverést nem tarthat, és meghatározott cselekmény végrehajtását nem foganatosíthatja.
+(2) A törvényszéki végrehajtó-helyettes önállóan foganatosíthat eljárási cselekményt, de árverést nem tarthat, és meghatározott cselekmény végrehajtását nem foganatosíthatja.
 
-### Megyei bírósági végrehajtójelölt
+### Törvényszéki végrehajtójelölt
 
-257. § (1) A megyei bírósági végrehajtójelölt a megyei bíróságnál szolgálati viszonyban álló bírósági tisztviselő, akit a megyei bíróság elnöke pályázat alapján nevez ki.
+257. § (1) A törvényszéki végrehajtójelölt a törvényszéknél szolgálati viszonyban álló bírósági tisztviselő, akit a törvényszék elnöke pályázat alapján nevez ki.
 
-(2) A megyei bírósági végrehajtójelölt kinevezésére a 241. § (2) bekezdése irányadó.
+(2) A törvényszéki végrehajtójelölt kinevezésére a 241. § (2) bekezdése, eskütételére a 256. § (2) bekezdése megfelelően irányadó azzal, hogy az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: törvényszéki végrehajtójelölt.
 
-### A megyei bírósági végrehajtó helyettesítése
+### A törvényszéki végrehajtó helyettesítése
 
-258. § (1) A megyei bíróság elnöke indokolt esetben a megyei bírósági végrehajtó helyettesítésével másik megyei bírósági végrehajtót, legalább egyéves gyakorlattal rendelkező megyei bírósági végrehajtó-helyettest vagy a megye bármely bíróságának bírósági titkárát megbízhatja.
+258. § (1) A törvényszék elnöke indokolt esetben a törvényszéki végrehajtó helyettesítésével másik törvényszéki végrehajtót, legalább egyéves gyakorlattal rendelkező törvényszéki végrehajtó-helyettest vagy a megye bármely bíróságának bírósági titkárát megbízhatja.
 
-(2) A megbízott az írásbeli megbízás alapján mint ,,helyettes megyei bírósági végrehajtó'' jár el.
+(2) A megbízott az írásbeli megbízás alapján mint ,,helyettes törvényszéki végrehajtó'' jár el.
 
 ### Utaló rendelkezés
 
-259. § (1) A megyei bírósági végrehajtóra, végrehajtó-helyettesre és végrehajtójelöltre az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvényt és a kapcsolódó jogszabályokat e törvényben foglalt eltérésekkel kell alkalmazni.
+259. § (1) A törvényszéki végrehajtóra, végrehajtó-helyettesre és végrehajtójelöltre az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvényt és a kapcsolódó jogszabályokat e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A megyei bírósági végrehajtó és a megyei bírósági végrehajtó-helyettes az elektronikus nyilvántartásokból a végrehajtás során történő adatigényléshez a bíróság számítástechnikai eszközét veszi igénybe.
+(2) A törvényszéki végrehajtó és a törvényszéki végrehajtó-helyettes az elektronikus nyilvántartásokból a végrehajtás során történő adatigényléshez a bíróság számítástechnikai eszközét veszi igénybe.
 
 ### XXI. Fejezet — A VÉGREHAJTÁSI ÜGYINTÉZŐ
 
@@ -3242,11 +3285,11 @@ kérhetnek adatszolgáltatást.
 
 ### A végrehajtási ügyintéző szolgálati viszonya
 
-263. § (1) A végrehajtási ügyintéző a helyi bíróságnál, illetőleg a megyei bíróságnál szolgálati viszonyban álló bírósági tisztviselő.
+263. § (1) A végrehajtási ügyintéző a helyi bíróságnál, illetőleg a törvényszéknél szolgálati viszonyban álló bírósági tisztviselő.
 
-(2) A végrehajtási ügyintézőt a megyei bíróság elnöke pályázat útján nevezi ki, a kinevezésre a 233. § (1) bekezdésének a)–e) pontját és (2)–(4) bekezdését, valamint a 234. § (2) bekezdését, az eskütételre a 256. § (2) bekezdését kell alkalmazni azzal, hogy a végrehajtási ügyintézőnek végrehajtási ügyintézői vizsgát kell tennie a végrehajtási ügyintézői ismeretekből.
+(2) A végrehajtási ügyintézőt a törvényszék elnöke pályázat útján nevezi ki, a kinevezésre a 233. § (1) bekezdés a)–e) pontját és (2)–(4) bekezdését, valamint a 234. § (2) bekezdését, az eskütételre a 256. § (2) bekezdését kell alkalmazni azzal, hogy a végrehajtási ügyintézőnek végrehajtási ügyintézői vizsgát kell tennie a végrehajtási ügyintézői ismeretekből. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: végrehajtási ügyintéző.
 
-(3) A végrehajtási ügyintéző bírósági szolgálati viszonyának megszűnésére a 256. § (3) bekezdése irányadó azzal, hogy a szolgálat megszűnését a megyei bíróság elnöke állapítja meg.
+(3) A végrehajtási ügyintéző bírósági szolgálati viszonyának megszűnésére a 256. § (3) bekezdése irányadó azzal, hogy a szolgálat megszűnését a törvényszék elnöke állapítja meg.
 
 (4) A végrehajtási ügyintézőre az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvényt és a kapcsolódó jogszabályokat e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -3331,33 +3374,38 @@ kérhetnek adatszolgáltatást.
 
 (2) Elsőfokú fegyelmi bíróságként működik
 
-- a) a Pest Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróság a Fővárosi, a Bács-Kiskun, a Fejér, a Heves, a Komárom-Esztergom, a Nógrád és a Pest Megyei Bíróság illetékességi területére kiterjedő jogkörrel,
-- b) a Győr-Moson-Sopron Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróság a Baranya, a Győr-Moson-Sopron, a Somogy, a Tolna, a Vas, a Veszprém és a Zala Megyei Bíróság illetékességi területére kiterjedő jogkörrel, és
-- c) a Hajdú-Bihar Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróság a Békés, a Borsod-Abaúj-Zemplén, a Csongrád, a Hajdú-Bihar, a Jász-Nagykun-Szolnok és a Szabolcs-Szatmár-Bereg Megyei Bíróság illetékességi területére kiterjedő jogkörrel.
+- a) a Budapest Környéki Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság a Fővárosi, a Kecskeméti, a Székesfehérvári, az Egri, a Tatabányai, a Balassagyarmati és a Budapest Környéki Törvényszék illetékességi területére kiterjedő jogkörrel,
+- b) a Győri Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság a Pécsi, a Győri, a Kaposvári, a Szekszárdi, a Szombathelyi, a Veszprémi és a Zalaegerszegi Törvényszék illetékességi területére kiterjedő jogkörrel, és
+- c) a Debreceni Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság a Gyulai, a Miskolci, a Szegedi, a Debreceni, a Szolnoki és a Nyíregyházi Törvényszék illetékességi területére kiterjedő jogkörrel.
 
-(3) A másodfokú fegyelmi bíróság a Legfelsőbb Bíróság mellett működik.
+(3) Másodfokú fegyelmi bíróságként a Kúria mellett működő Bírósági Végrehajtói Fegyelmi Bíróság jár el.
 
 (4) Fegyelmi ügyben első fokon a végrehajtó székhelye, illetve a végrehajtó-helyettest, végrehajtójelöltet foglalkoztató végrehajtó székhelye szerint illetékes elsőfokú fegyelmi bíróság, másodfokon a Legfelsőbb Bíróság mellett működő fegyelmi bíróság jár el.
 
-271. § (1) A kamara közgyűlése a végrehajtók közül 4 évre a Pest Megyei és a Győr-Moson-Sopron Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 7-7, a Hajdú-Bihar Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 6 végrehajtót fegyelmi bírónak, ugyanennyi végrehajtót vizsgálóbiztosnak, a Legfelsőbb Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 3 végrehajtót fegyelmi bírónak választ meg.
+271. § (1) A kamara közgyűlése a végrehajtók közül 4 évre a Budapest Környéki és a Győri Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 7-7, a Debreceni Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz 6 végrehajtót vizsgálóbiztosnak választ meg.
 
-(2) Fegyelmi bírónak és vizsgálóbiztosnak azt a végrehajtót lehet megválasztani, akinek legalább 5 éves végrehajtói gyakorlata van, feltéve hogy vele szemben nincs kizáró ok [275. § (1) bek. a) pont].
+(2) Vizsgálóbiztosnak azt a végrehajtót lehet megválasztani, akinek legalább 5 éves végrehajtói gyakorlata van, feltéve hogy vele szemben nincs kizáró ok [275. § (1) bek. a) pont].
 
-(3) Fegyelmi bírónak és vizsgálóbiztosnak az elsőfokú fegyelmi bírósághoz azt a végrehajtót lehet megválasztani, akinek a székhelye a fegyelmi bíróság illetékességi területén van, de minden megyéből kell egy bírót és egy vizsgálóbiztost választani. A másodfokú fegyelmi bírósághoz bármely végrehajtót meg lehet választani.
+(3) A vizsgálóbiztosi tisztség megszűnik
 
-272. § (1) Minden megyei bíróság elnöke 1 fegyelmi bírót nevez ki 4 évre a bírák közül az elsőfokú fegyelmi bíróságba, a Legfelsőbb Bíróság elnöke a másodfokú fegyelmi bíróságba 3 bírót taggá ugyancsak 4 évre nevez ki.
+- a) a megválasztás időtartamának lejártával,
+- b) a végrehajtói szolgálat megszűnésével,
+- c) a vizsgálóbiztosi tisztségről való lemondással vagy
+- d) ha a fegyelmi bíróság kötelességeinek vétkes megszegése, hosszabb időn át történő elmulasztása vagy súlyos elhanyagolása miatt – titkos szavazással, a fegyelmi bíróság tagjai legalább kétharmadának szavazatával – tagjainak sorából kizárta.
+
+272. § (1) Minden törvényszék elnöke 1 fegyelmi bírót nevez ki 4 évre a bírák közül az elsőfokú fegyelmi bíróságba, a Kúria elnöke a másodfokú fegyelmi bíróságba 6 bírót a Kúria és az ítélőtáblák bírái közül ugyancsak 4 évre nevez ki.
 
 (2)
 
 (3) A fegyelmi bíróság elnökét és elnökhelyettesét a bíróként működő tagok közül maguk a tagok választják.
 
-273. § (1) A fegyelmi bíróság tagjai és a vizsgálóbiztosok működésük megkezdése előtt az elsőfokú fegyelmi bíróság székhelye szerinti megyei bíróság elnöke, illetőleg a Legfelsőbb Bíróság elnöke előtt esküt tesznek.
+273. § (1) A fegyelmi bíróság tagjai és a vizsgálóbiztosok működésük megkezdése előtt az elsőfokú fegyelmi bíróság székhelye szerinti törvényszék elnöke, illetőleg a Kúria elnöke előtt esküt tesznek.
 
-(2) Az eskü szövege a következő: ,,Én ............... (név) esküszöm, hogy a bírósági végrehajtói fegyelmi bíróság elnökeként (elnökhelyetteseként, tagjaként, vizsgálóbiztosaként) feladatomat lelkiismeretesen és igazságosan teljesítem.''
+(2) Az eskü szövege az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és legjobb tudásom szerint teljesítem.” Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során az esküt tevő személyétől függően: fegyelmi bíró, vizsgálóbiztos.
 
-274. § (1) Az eljárás alá vont személyek fegyelmi ügyében elsőfokon az elsőfokú fegyelmi bíróságnak, másodfokon a Legfelsőbb Bíróság mellett működő fegyelmi bíróságnak a fegyelmi tanácsa (a továbbiakban: fegyelmi tanács) jár el.
+274. § (1) Az eljárás alá vont személyek fegyelmi ügyében elsőfokon az elsőfokú fegyelmi bíróságnak, másodfokon a Kúria mellett működő fegyelmi bíróságnak a fegyelmi tanácsa (a továbbiakban: fegyelmi tanács) jár el.
 
-(2) A fegyelmi tanács 3 tagú: elnöke bíró, 2 tagja végrehajtó.
+(2) A fegyelmi bíróság 3 fegyelmi bíróból álló tanácsban jár el, a fegyelmi tanács munkáját az elnök vezeti.
 
 (3) A fegyelmi tanács munkájának előkészítését, a vizsgálat lefolytatását vizsgálóbiztos végezheti.
 
@@ -3392,7 +3440,7 @@ kérhetnek adatszolgáltatást.
 
 ### A fegyelmi eljárás megindítása
 
-278. § (1) Fegyelmi vétség alapos gyanúja esetén a miniszter, a megyei bíróság elnöke vagy a kamara elnöke feljelentést tesz az elsőfokú fegyelmi bíróság elnökénél, aki a feljelentést haladéktalanul közli a gyanúsított személlyel.
+278. § (1) Fegyelmi vétség alapos gyanúja esetén a miniszter, a törvényszék elnöke vagy a kamara elnöke feljelentést tesz az elsőfokú fegyelmi bíróság elnökénél, aki a feljelentést haladéktalanul közli a gyanúsított személlyel.
 
 (2) A fegyelmi tanács a feljelentésnek a fegyelmi bíróság elnökéhez való érkezésétől számított 30 napon belül határozattal dönt arról, hogy a fegyelmi eljárást megindítja-e.
 
@@ -3465,7 +3513,7 @@ kérhetnek adatszolgáltatást.
 
 ### Fellebbezés fegyelmi ügyben
 
-287. § (1) Az elsőfokú fegyelmi bíróság fegyelmi tanácsának határozata ellen az eljárás alá vont személy, a miniszternek és a kamarának a képviselője halasztó hatályú fellebbezést nyújthat be a Legfelsőbb Bíróság mellett működő bírósági végrehajtói fegyelmi bírósághoz. Ha az eljárás a megyei bíróság elnökének feljelentése alapján indult, a fellebbezés joga a megyei bíróság elnökét is megilleti.
+287. § (1) Az elsőfokú fegyelmi bíróság fegyelmi tanácsának határozata ellen az eljárás alá vont személy, a miniszternek és a kamarának a képviselője halasztó hatályú fellebbezést nyújthat be a Kúria mellett működő bírósági végrehajtói fegyelmi bírósághoz. Ha az eljárás a törvényszék elnökének feljelentése alapján indult, a fellebbezés joga a törvényszék elnökét is megilleti.
 
 (2) A fellebbezést és indokait az elsőfokú fegyelmi határozat kézbesítésétől számított 15 napon belül kell benyújtani az elsőfokú fegyelmi tanácsnál, amely a fellebbezési határidő lejárta után a fellebbezést és a fegyelmi ügy iratait felterjeszti a másodfokú fegyelmi tanácshoz.
 
@@ -3513,11 +3561,11 @@ kérhetnek adatszolgáltatást.
 
 (2) A büntetőeljárás jogerős befejezéséig a fegyelmi eljárást fel kell függeszteni.
 
-(3) A büntetőügyben eljáró hatóság a végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt ellen indított büntetőeljárásról, illetve letartóztatásáról értesíti a megyei bíróság elnökét, a minisztert és a kamarát, az eljárást befejező határozatot pedig kézbesíti részükre.
+(3) A büntetőügyben eljáró hatóság a végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt ellen indított büntetőeljárásról, illetve letartóztatásáról értesíti a törvényszék elnökét, a minisztert és a kamarát, az eljárást befejező határozatot pedig kézbesíti részükre.
 
 ### Új eljárás kezdeményezése
 
-294. § (1) A jogerős fegyelmi határozat meghozatala után az eljárás alá vont személy, a megyei bíróság elnöke, továbbá a miniszter és a kamara elnöke új eljárást kezdeményezhet, ha
+294. § (1) A jogerős fegyelmi határozat meghozatala után az eljárás alá vont személy, a törvényszék elnöke, továbbá a miniszter és a kamara elnöke új eljárást kezdeményezhet, ha
 
 - a) olyan tényre vagy bizonyítékra, illetőleg olyan jogerős bírósági vagy hatósági határozatra hivatkozik, amelyet a fegyelmi bíróság nem bírált el, feltéve, hogy az a fegyelmi határozatra lényeges hatással lett volna,
 - b) az alapügyben a fegyelmi bíróság valamelyik tagja a kötelességét a büntetőtörvénybe ütköző módon megszegte.
@@ -3532,7 +3580,7 @@ kérhetnek adatszolgáltatást.
 
 ### A fegyelmi büntetés nyilvántartása
 
-296. § (1) A fegyelmi bíróság a jogerős határozatát megküldi a miniszternek és a kamarának; ha a megyei bíróság elnöke tett feljelentést, vagy hivatalvesztés fegyelmi büntetés kiszabására került sor, a megyei bíróság elnökének is.
+296. § (1) A fegyelmi bíróság a jogerős határozatát megküldi a miniszternek és a kamarának; ha a törvényszék elnöke tett feljelentést, vagy hivatalvesztés fegyelmi büntetés kiszabására került sor, a törvényszék elnökének is.
 
 (2) A jogerős fegyelmi büntetést a végrehajtók, a végrehajtó-helyettesek és a végrehajtójelöltek névjegyzékében fel kell tüntetni.
 
@@ -3554,7 +3602,7 @@ kérhetnek adatszolgáltatást.
 
 ### Fegyelmi eljárása szolgálati viszonyban álló személyekkel szemben
 
-300. § A megyei bírósági végrehajtó, a megyei bírósági végrehajtó-helyettes és a megyei bírósági végrehajtójelölt, továbbá a végrehajtási ügyintéző elleni fegyelmi eljárásra és a velük szemben kiszabható fegyelmi büntetésekre az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló szabályokat kell alkalmazni.
+300. § A törvényszéki végrehajtó, a törvényszéki végrehajtó-helyettes és a törvényszéki végrehajtójelölt, továbbá a végrehajtási ügyintéző elleni fegyelmi eljárásra és a velük szemben kiszabható fegyelmi büntetésekre az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló szabályokat kell alkalmazni.
 
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -3610,7 +3658,27 @@ kérhetnek adatszolgáltatást.
 
 (3) Azon ügyekben, amelyekben nincs helye a 303. §-nak a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvénnyel megállapított (1) és (9) bekezdése alapján a lakóingatlan kiürítése ismételt elhalasztásának, 2011. július 1-jét követően kell a lakóingatlan kiürítése iránt intézkedni.
 
-305–306. §
+305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
+
+(2) Az ingóság értékesítésére vonatkozó, a módosító törvénnyel megállapított rendelkezéseket azokban az ügyekben kell alkalmazni, amelyekben a módosító törvény hatálybalépését követően történik meg az árverési hirdetmény közzététele. Ha az ingóság árverésére vagy az ingóság árverési hirdetményének közzétételére már a módosító törvény hatálybalépése előtt sor került, a következő árverés kitűzésére, az annak alapján lefolytatott árverésre, valamint a soron következő végrehajtási cselekményekre kell e törvénynek a módosító törvénnyel megállapított rendelkezéseit alkalmazni.
+
+(3) A lefoglalt ingatlan becsértékének megállapítására és értékesítésére vonatkozó, a módosító törvénnyel megállapított rendelkezéseket azokban az ügyekben kell alkalmazni, amelyekben a módosító törvény hatálybalépését követően történik meg a becsérték közléséről történő tájékoztatás. Ha az ingatlan árverésére vagy az ingatlan árverési hirdetmény közzétételére már a módosító törvény hatálybalépése előtt sor került, a következő árverés kitűzésére, az annak alapján lefolytatott árverésre és a soron következő végrehajtási cselekményekre kell e törvénynek a módosító törvénnyel megállapított rendelkezéseit alkalmazni.
+
+(4) E törvénynek a bírósági végrehajtásról szóló 1994. évi LIII. törvény és egyéb kapcsolódó törvények módosításáról szóló 2008. évi XXXIX. törvénnyel és a módosító törvénnyel megállapított rendelkezéseit – a (3) bekezdésben foglaltak szerint – a 2009. január 1-je előtt lefoglalt ingatlanokra vezetett végrehajtás során is alkalmazni kell.
+
+(5) A végrehajtási kifogás előterjesztésére és elbírálására vonatkozó, a módosító törvénnyel megállapított rendelkezéseket a módosító törvény hatálybalépését követően megtett (elmulasztott) végrehajtói intézkedés ellen előterjesztett végrehajtási kifogás esetében kell alkalmazni. A bírósági végrehajtó a fél vagy más érdekelt részére a módosító törvény hatálybalépését követően első alkalommal kézbesítendő iratban feltünteti a módosító törvénnyel megállapított, a végrehajtási kifogás előterjesztésére és elbírálására vonatkozó rendelkezésekről szóló tájékoztatást.
+
+(6) A végrehajtási ügyek nyilvántartása a 2012. szeptember 1-jétől szolgáltatott és nyilvántartott tényadatok fennállását tanúsítja hitelesen, a 2012. szeptember 1-jét megelőzően szolgáltatott és nyilvántartott adatok tekintetében a kamara által kiállított tanúsítvány tájékoztatást tartalmaz a végrehajtási ügyekről vezetett nyilvántartás adatairól; az erről szóló tájékoztatást a tanúsítvány tartalmazza.
+
+(7) Az elektronikus kapcsolattartásra köteles felek 2012. június 30-áig kötelesek bejelenteni a 35/D. § (1) bekezdésében foglalt adataikat a bírósági végrehajtónak, és bemutatni az adatok igazolására szolgáló iratokat.
+
+(8) A Pest Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróságba fegyelmi bírónak kinevezett bíró, megválasztott vizsgálóbiztos és elnök, elnökhelyettes 2012. január 1-jétől – a fegyelmi bírói vagy vizsgálóbiztosi tisztségének, elnöki, elnökhelyettesi megbízatásának megszűnéséig – a Budapest Környéki Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság fegyelmi bírája, vizsgálóbiztosa, illetve elnöke, elnökhelyettese. A Győr-Moson-Sopron Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróságba fegyelmi bírónak kinevezett bíró, megválasztott vizsgálóbiztos és elnök, elnökhelyettes 2012. január 1-jétől – a fegyelmi bírói, vizsgálóbiztosi, elnöki, elnökhelyettesi tisztségének megszűnéséig – a Győri Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság fegyelmi bírája, vizsgálóbiztosa, elnöke, elnökhelyettese. A Hajdú-Bihar Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróságba fegyelmi bírónak kinevezett bíró, megválasztott vizsgálóbiztos és elnök, elnökhelyettes 2012. január 1-jétől – a fegyelmi bírói, vizsgálóbiztosi, elnöki, elnökhelyettesi tisztségének megszűnéséig – a Debreceni Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság fegyelmi bírája, vizsgálóbiztosa, elnöke, elnökhelyettese. A Legfelsőbb Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróságba fegyelmi bírónak kinevezett bíró, megválasztott elnök és elnökhelyettes 2012. január 1-jétől – a fegyelmi bírói vagy elnöki, elnökhelyettesi tisztségének megszűnéséig – a Kúria mellett működő Bírósági Végrehajtói Fegyelmi Bíróság fegyelmi bírája, illetve elnöke, elnökhelyettese. A 2012. január 1-je előtt fegyelmi bíróvá megválasztott önálló bírósági végrehajtó fegyelmi bírói tisztsége 2012. január 1-jén megszűnik, a folyamatban lévő fegyelmi ügyek intézésére a fegyelmi bíróság elnöke új tanácsot jelöl ki. Az új tanács kijelölése a módosító törvény hatálybalépése előtt már megtett eljárási cselekmények hatályát nem érinti.
+
+(9) A Győri Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság és a Debreceni Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság 2012. március 14-én megszűnik; a 2012. március 14-én folyamatban lévő fegyelmi ügyeket a Budapest Környéki Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz kell áttenni, az áttétel a már megtett eljárási cselekmények hatályát nem érinti. A 2012. március 15. napját megelőzőn vizsgálóbiztossá kinevezett önálló bírósági végrehajtó 2012. március 15-étől – a vizsgálóbiztosi tisztségének a 271. § szerinti megszűnéséig – a Budapest Környéki Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság vizsgálóbiztosa. A 2012. március 15-ét megelőzően az elsőfokú bírósági végrehajtói fegyelmi bíróságra fegyelmi bírónak kinevezett bíró 2012. március 15-étől – a fegyelmi bírói tisztségének a 272. § szerinti megszűnéséig – a Budapest Környéki Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság fegyelmi bírája.
+
+(10) A Kúria elnöke a Kúria mellett működő Bírósági Végrehajtói Fegyelmi Bíróság teljes létszámának biztosítása érdekében a fegyelmi bírák kinevezéséről 2012. január 31-éig dönt. Az Országos Bírói Tanács a fegyelmi bíróságok teljes létszámának biztosítása érdekében a fegyelmi bírák kinevezéséről első alkalommal 2012. május 31-éig dönt.
+
+306. § Az önálló bírósági végrehajtóra irányadó öregségi nyugdíjkorhatárt 2014. január 1-jét megelőzően betöltő önálló bírósági végrehajtó szolgálata 2013. december 31-én szűnik meg.
 
 ### Felhatalmazás
 
@@ -3628,7 +3696,7 @@ kérhetnek adatszolgáltatást.
 - e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga és a végrehajtó-jelölti kézbesítési vizsga szabályait,
 - f) a bírósági árverési csarnokok létesítésére és működésére vonatkozó szabályokat,
 - g) a végrehajtói ügyvitelre, pénzkezelésre és statisztikára vonatkozó szabályokat,
-- h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtói díjszabást, a megyei bírósági végrehajtó végrehajtási jutalmát, a végrehajtási költségátalányt, a végrehajtási eljárásban közreműködő jogi képviselő díjazását,
+- h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtói díjszabást, a törvényszéki végrehajtó végrehajtási jutalmát, a végrehajtási költségátalányt, a végrehajtási eljárásban közreműködő jogi képviselő díjazását,
 - i) a rendészetért felelős miniszterrel és a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben a meghatározott cselekmény végrehajtására vonatkozó részletes szabályokat, különösen a lakás kiürítésére, valamint a gyermek átadására irányuló eljárásban,
 - j) a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat,
 - k) az általános költségátalány megfizetéséről szóló szabályokat,

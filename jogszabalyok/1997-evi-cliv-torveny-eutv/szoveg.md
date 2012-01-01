@@ -75,7 +75,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 ### 4. CÍM — A törvény hatálya
 
-4. § (1) E törvény hatálya kiterjed a Magyar Köztársaság területén
+4. § (1) E törvény hatálya kiterjed a Magyarország területén
 
 - a) tartózkodó természetes személyekre,
 - b) működő egészségügyi szolgáltatókra,
@@ -357,6 +357,8 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 (11) A beteg halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról – saját költségére – másolatot kapni.
 
 (12) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezelésének és védelmének részletes szabályait külön törvény állapítja meg.
+
+(13) Az egészségügyi dokumentációt nyilvántartó szervet a Kormány rendeletben jelöli ki.
 
 ### Az orvosi titoktartáshoz való jog
 
@@ -1167,7 +1169,7 @@ beutalása alapján vehető igénybe.
 
 (2) A beteg azonnali egészségügyi ellátásra szorul
 
-- a) személyi sérüléssel járó baleset, tömeges baleset, katasztrófa esetén,
+- a) személyi sérüléssel járó baleset, tömeges baleset, egészségügyi válsághelyzet esetén,
 - b) ha életveszély vagy annak gyanúja áll fenn,
 - c) heveny vagy riasztó tünetekkel járó esetekben, ha a sürgősségi ellátás elmaradása életveszélyhez, maradandó egészségkárosodáshoz vagy a gyógyulás elhúzódásához vezethet,
 - d) szülészeti esemény során,
@@ -1191,7 +1193,7 @@ beutalása alapján vehető igénybe.
 
 (6) A közterületen vagy nyilvános helyen tartózkodó, magatehetetlen ittas személyt a mentőszolgálat kijózanítás céljából egészségügyi megfigyelésre, illetve ellátásra az illetékes egészségügyi szolgáltatóhoz szállítja. A megfigyelés az érintett kijózanodásáig, de legfeljebb 24 óráig tarthat. A beszállított személyt kijózanodásáig, de legfeljebb 24 órai időtartamra lehet az egészségügyi intézményben visszatartani.
 
-95. § A mentés igénybevételéhez való jog a Magyar Köztársaság területén – állampolgárságra vagy egészségbiztosítási jogviszony fennállására való tekintet nélkül – mindenkit megillet.
+95. § A mentés igénybevételéhez való jog Magyarország területén – állampolgárságra vagy egészségbiztosítási jogviszony fennállására való tekintet nélkül – mindenkit megillet.
 
 96. § (1) A mentés biztonságos, egységes és összehangolt működéséhez szükséges feltételrendszer biztosítása és megszervezése állami feladat.
 
@@ -1266,14 +1268,35 @@ beutalása alapján vehető igénybe.
 
 ### Orvostechnikai eszközellátás
 
-101. § (1) Orvostechnikai eszköz – ideértve a gyógyászati segédeszközt is – akkor hozható forgalomba, illetve az egészségügyi ellátás során akkor használható, ha
+101. § (1) Orvostechnikai eszköz akkor hozható forgalomba, illetve az egészségügyi ellátás során akkor használható, ha
 
-- a) kielégíti a külön jogszabály szerinti minőségi követelményeket és erre vonatkozóan rendelkezik az ott meghatározott tanúsítványokkal és jelöléssel, valamint
-- b) a külön jogszabályban meghatározott szerv nyilvántartásba vette.
+- a) az egészségügyért felelős miniszter rendeletében meghatározott
+  - aa) megfelelőségi követelményeket kielégíti, és
+  - ab) tanúsítványokkal és jelöléssel rendelkezik, vagy
+- b) az egészségügyért felelős miniszter rendeletében meghatározott szerv nyilvántartásba vette.
 
 (2)
 
-101/A. § Az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyásával összefüggő eljárásokért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
+101/A. § Az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos egyes eljárásokért – ideértve a szakhatósági eljárásokat is – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
+101/B. § (1) Az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv (e § tekintetében a továbbiakban: hatóság) bírságot szabhat ki, ha az egészségügyért felelős miniszter rendelete szerinti kötelezett megszegi
+
+- a) az orvostechnikai eszközök klinikai vizsgálatával,
+- b) az orvostechnikai eszközök nyilvántartásba vételével,
+- c) az orvostechnikai eszközök időszakos felülvizsgálatával,
+- d) az orvostechnikai eszközökkel kapcsolatos baleset, váratlan esemény bejelentéssel,
+- e) az orvostechnikai eszközökkel kapcsolatos váratlan esemény kivizsgálásával,
+- f) a balesetfelelős bejelentésével,
+- g) az implantátum beültetése során előírt nyilvántartással kapcsolatos, az egészségügyért felelős miniszter rendeletében meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.
+
+(2) A bírság összegét a jogsértés súlyára, a jogsértő magatartás ismételt tanúsítására és a jogsértéssel okozott kár mértékére vagy az eset más, a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni, azzal, hogy a bírság összege
+
+- a) az (1) bekezdés a) pontja esetén 50 000 forinttól 400 000 forintig,
+- b) az (1) bekezdés b) pontja esetén 10 000 forinttól 140 000 forintig,
+- c) az (1) bekezdés c) pontja esetén 50 000 forinttól 150 000 forintig,
+- d) az (1) bekezdés d)–g) pontja esetén 15 000 forinttól 50 000 forintig
+
+terjedhet.
 
 ### Gyógyszerellátás
 
@@ -1314,11 +1337,11 @@ irányul.
 
 ### Az egészségügyi ellátás keretében végzettszakértői tevékenység
 
-106. § Az egészségügyi szolgáltatások közé tartozik a gyógyító-megelőző ellátás keretében végzett, valamint a társadalombiztosítási ellátások igénylésével összefüggő egészségügyi szakértői tevékenység, így különösen
+106. § Az egészségügyi szolgáltatások közé tartozik a gyógyító-megelőző ellátás keretében végzett, valamint a társadalombiztosítási, vagy szociális ellátások igénylésével összefüggő egészségügyi szakértői tevékenység, így különösen
 
 - a) a munkára, illetőleg a szakmára való egészségi alkalmasságnak,
 - b) a keresőképességnek,
-- c) a rokkantság fokának és a megmaradt munkaképesség mértékének és minőségének, illetve a további foglalkoztatás feltételeinek
+- c) az egészségi állapot, egészségkárosodás és a megmaradt munkaképesség mértékének és minőségének, illetve a további foglalkoztatás feltételeinek
 
 egészségügyi elbírálása, illetőleg véleményezése.
 
@@ -1349,13 +1372,13 @@ egészségügyi elbírálása, illetőleg véleményezése.
 
 110. § (1) Egészségügyi tevékenység – folytatásának formájától és módjától függetlenül – e törvény és külön törvény rendelkezéseire figyelemmel önállóan vagy felügyelet mellett végezhető.
 
-(2) Egészségügyi tevékenységet önállóan – külön törvényben foglaltakra is figyelemmel – az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező és az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesített vagy a továbbképzési kötelezettség teljesítése alól e törvény szerint mentesült, a működési nyilvántartásba bejegyzett személy végezhet. Az önállóan végzett egészségügyi tevékenység – a (4) és (10) bekezdésben foglalt kivételekkel – az arra feljogosító szakképesítésnek a működési nyilvántartásba történő bejegyzésétől kezdhető meg.
+(2) Egészségügyi tevékenységet önállóan – külön törvényben foglaltakra is figyelemmel – az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező és az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesített vagy a továbbképzési kötelezettség teljesítése alól e törvény szerint mentesült, a működési nyilvántartásba bejegyzett személy végezhet. Az önállóan végzett egészségügyi tevékenység – a (4), (10) és (10a) bekezdésben foglalt kivételekkel – az arra feljogosító szakképesítésnek a működési nyilvántartásba történő bejegyzésétől kezdhető meg.
 
 (3) A (2) bekezdés szerinti feltételekkel rendelkező személy felügyelete mellett – a (25) bekezdésben foglalt eltéréssel – végezhet egészségügyi tevékenységet az a személy,
 
 - a) aki a szakképesítése megszerzéséhez szükséges képzésben vesz részt,
 - b) akit a működési nyilvántartásból a 113/A. § (1) bekezdése alapján töröltek, a törlés okának megszűnését vagy megszüntetését követően, a működési nyilvántartásba történő visszakerülése érdekében, az ahhoz szükséges ideig,
-- c) aki a 113/A. § (2) bekezdés szerinti kiegészítő gyakorlati képzésben vesz részt, vagy
+- c) aki működési nyilvántartását e törvényben és jogszabályokban foglalt módon határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították.
 - d) aki külön törvény szerint, megfelelő szakképesítés nélkül az egészségügyi tevékenység végzésében közreműködik.
 
 (4) A működési nyilvántartásban nem szereplő, Magyarországon elismerhető egészségügyi szakképesítéssel rendelkező személy részére – betegellátási érdekből vagy a kérelmező megfelelő szakmai ismeretének megszerzése érdekében, indokolt esetben – a kormányrendeletben meghatározott hatóság a szakképesítésnek megfelelő tevékenységre, meghatározott időtartamra és helyszínre (munkahelyre) szóló tevékenységre jogosító engedélyt adhat ki, a kormányrendeletben foglalt eljárási rend szerint. A tevékenységre jogosító engedély kiadásának feltétele, hogy a kérelmező hitelt érdemlő módon igazolja, hogy a korábbi, rendszeresen végzett egészségügyi tevékenységének helye szerinti utolsó, ennek hiányában az állampolgársága szerint illetékes állam jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés, illetőleg büntetőjogi intézkedés hatálya alatt, és megfelel a tevékenység végzéséhez külön jogszabály szerint előírt egészségügyi alkalmassági feltételeknek. Az engedélyezett egészségügyi tevékenység végzéséhez a szakképesítést igazoló bizonyítvány vagy oklevél tényleges elismerése nem szükséges.
@@ -1379,14 +1402,16 @@ okozta.
 (10) A (4) bekezdésben foglaltaktól eltérően
 
 - a) az a szabad mozgás és tartózkodás jogával rendelkező személy, aki Magyarországon elismerhető egészségügyi szakképesítéssel rendelkezik, továbbá
-- b) az a szabad mozgás és tartózkodás jogával rendelkező személy, akinek egészségügyi szakképesítést igazoló okirata a Magyar Köztársaság területén megszerezhető szakképesítéssel egyenértékűként nem ismerhető el, de hitelt érdemlő módon igazolja, hogy a bejelentést megelőző öt éven belül legalább három éven keresztül rendszeresen végezte a bejelentéssel érintett egészségügyi tevékenységet valamely EGT-állam területén,
+- b) az a szabad mozgás és tartózkodás jogával rendelkező személy, akinek egészségügyi szakképesítést igazoló okirata a Magyarország területén megszerezhető szakképesítéssel egyenértékűként nem ismerhető el, de hitelt érdemlő módon igazolja, hogy a bejelentést megelőző öt éven belül legalább három éven keresztül rendszeresen végezte a bejelentéssel érintett egészségügyi tevékenységet valamely EGT-állam területén,
 
 ha nem gazdasági célú letelepedés mellett kíván e törvény hatálya alá tartozó egészségügyi tevékenységet végezni, és valamely EGT-államban letelepedettként már szolgáltatást nyújt, ezt a szándékát a kormányrendeletben meghatározott eljárás keretében bejelenti a kormányrendeletben meghatározott hatóság részére. A bejelentési eljárás során a valamely nem EGT-állam területén végzett egészségügyi tevékenység figyelembevételének lehetőségét is meg kell vizsgálni.
+
+(10a) Az állami vérellátó szolgálat által megkötött egyezmény vagy megállapodás teljesítése körében felmerülő egészségügyi tevékenységet a Magyarországon egészségügyi tevékenység végzésére a (2), (4) vagy a (10) bekezdés alapján nem jogosult személy abban az esetben végezhet, ha az adott egészségügyi tevékenység végzésére a letelepedése szerinti államban korlátozás nélkül jogosult, és az egészségügyi tevékenység végzését kormányrendeletben meghatározott eljárás keretében nyilvántartásba vétel céljából bejelenti az egészségügyi államigazgatási szervnek. A bejelentési eljárással összefüggésben és az e bekezdés alapján egészségügyi tevékenységet végző személyek nyilvántartása keretében az egészségügyi államigazgatási szerv és a nyilvántartást vezető szerv a bejelentéstől számított 5 évig kezeli a bejelentő természetes személyazonosító adatait, lakcímét, személyazonosításra alkalmas igazolványának számát, valamint annak a külföldi intézménynek, szolgáltatónak a nevére és címére vonatkozó adatát, amelynek nevében a bejelentő egészségügyi tevékenység végzésére jogosult.
 
 (11) A kormányrendeletben meghatározott hatóság nyilvántartást vezet
 
 - a) a (4) bekezdés alapján kiadott engedélyekről, és
-- b) a (10) bekezdés alapján regisztrált bejelentésekről, továbbá
+- b) a (10) és (10a) bekezdés alapján regisztrált bejelentésekről, továbbá
 - c) az ezekhez kapcsolódó adatokról, illetve
 - d) azon személyek természetes személyazonosító adatairól is, akik egy korábbi esetben a tevékenység gyakorlásának megkezdése után tették meg a (10) bekezdés szerinti bejelentést, és a kormányrendeletben meghatározott hatóság a bejelentés alapján megállapította, hogy a szolgáltatás nyújtására a személy nem volt jogosult.
 
@@ -1480,7 +1505,7 @@ kell alkalmazni.
 
 a törléstől számított egy évig,
 
-- j) akit a működési nyilvántartásból korábban azért törtöltek, mert a működési nyilvántartását e törvényben és jogszabályban foglalt módon és határidőben nem újította meg, vagy a működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították, e törvény szerinti továbbképzési kötelezettség teljesítésének igazolásáig,
+- j)
 - k) aki – feltéve, hogy a törvény kötelező kamarai tagságot ír elő – nem tagja a szakképesítése szerint illetékes szakmai kamarának.
 
 (4) A működési nyilvántartás az alábbi adatokat tartalmazza:
@@ -1554,7 +1579,7 @@ a törléstől számított egy évig,
 
 113/A. § (1) A működési nyilvántartásból a nyilvántartást vezető szerv – a (2) bekezdésben foglalt eltéréssel – törli azt a személyt
 
-- a) aki nyilvántartását e törvényben és jogszabályban foglalt módon és határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét jogerősen elutasították,
+- a)
 - b) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll,
 - c) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
 - d) akit belátási képessége csökkenése következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység gyakorlásától eltiltott,
@@ -1564,9 +1589,13 @@ a törléstől számított egy évig,
 - h) aki a törlését kéri,
 - i) akinek – feltéve, hogy törvény kötelező kamarai tagságot ír elő – kamarai tagsága megszűnt.
 
-(2) Ha az egészségügyi dolgozó működési nyilvántartását azért nem újította meg, mert az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti gyakorlati továbbképzési kötelezettségét nem tudta teljesíteni, nem törölhető a működési nyilvántartásból, amennyiben legkésőbb a törlés időpontjáig a nyilvántartást vezető szervnek igazolja, hogy a nyilvántartásból való törlés elkerülése érdekében az egészségügyi dolgozók továbbképzéséről szóló jogszabályok szerinti kiegészítő gyakorlati továbbképzésben részt vesz. A kiegészítő gyakorlati képzést az igazolás beérkezését követő naptól számított egy éven belül kell teljesíteni.
+(1a) Az (1) bekezdés b)–d) pontjai alapján a működési nyilvántartásból törölt egészségügyi dolgozó egészségügyi tevékenységet felügyelet mellett sem végezhet.
+
+(2)
 
 (3) A működési nyilvántartást vezető szerv minden év április 1-jéig a megelőző évben bekövetkezett adatváltozások egyeztetése céljából a 112. § (4) bekezdés a) pontjában, valamint a 113/A. § (1) bekezdés g) pontjában szereplő adatok tekintetében a személyiadat- és lakcímnyilvántartást vezető hatóságot megkeresi. A megkeresett hatóság az adategyeztetés során köteles együttműködni és a szükséges adatokat a működési nyilvántartást vezető szerv rendelkezésére bocsátani.
+
+(4) Az egészségügyi dolgozó egy évet meghaladó végrehajtandó szabadságvesztéséről, valamint az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltásáról szóló jogerős határozatáról a bíróság – jogszabályban meghatározottak szerint – haladéktalanul értesíti a működési nyilvántartást vezető szervet, és az illetékes egészségügyi szakmai kamarát.
 
 113/B. § Az egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
@@ -1653,6 +1682,8 @@ a törléstől számított egy évig,
 - c) (5) bekezdés e) pontja szerinti adatokban bekövetkezett változást a munkáltató a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni az egészségügyi államigazgatási szerv részére.
 
 (8) A (4) bekezdés szerinti nyilvántartás adatainak kötelező megőrzési ideje a támogatott szakképesítés megszerzésétől számított 10 év.
+
+(9) Az ESZTT a (3) bekezdés szerinti szervezési feladatai ellátása érdekében jogosult megismerni a 112. § (4) bekezdés a) és b) pontja szerinti adatokat.
 
 116/B. § (1) Az egészségügyi ellátás megfelelő szakmai színvonalának biztosítása érdekében – a megszerzett ismeretek és készségek folyamatos szinten tartása, fejlesztése érdekében, a tudomány korszerű színvonalának és az egészségügyi ellátás igényeinek megfelelően – az egészségügyi tevékenységet önállóan végző, egészségügyi szakképesítéssel rendelkező személyek (a továbbiakban: továbbképzésre kötelezett) egészségügyi szakmai továbbképzésben (a továbbiakban: továbbképzés) kötelesek részt venni.
 
@@ -1973,10 +2004,11 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 - i) az egyéni és a társadalmi érdekek összehangolása a ritka, a kiemelkedő költségigényű, illetve az új módszerek és eljárások alkalmazásánál,
 - j) a katasztrófa-egészségügyi ellátás, a nemzeti vérkészlettel való gazdálkodás,
 - k) a népegészségügyi és az egészségügyi igazgatási tevékenység feltételeinek biztosítása.
+- l) a fekvőbeteg-szakellátás, valamint a járóbeteg-szakellátás feltételrendszerének meghatározása és biztosítása.
 
 142. § (1) Az állam a (2)–(5) bekezdésben foglaltak figyelembevételével – az éves költségvetési törvényben meghatározott módon – a központi költségvetésben és az Egészségbiztosítási Alap költségvetésében biztosítja a megfelelő szintű és minőségű egészségügyi ellátások működésének fedezetét.
 
-(2) Az igénybevétel alapjául szolgáló jogviszony előzetes igazolása nélkül, az e törvényben és a külön jogszabályban foglaltak figyelembevételével – az alapcsomag részeként – kell biztosítani a Magyar Köztársaság területén tartózkodó személy részére
+(2) Az igénybevétel alapjául szolgáló jogviszony előzetes igazolása nélkül, az e törvényben és a külön jogszabályban foglaltak figyelembevételével – az alapcsomag részeként – kell biztosítani a Magyarország területén tartózkodó személy részére
 
 - a) a járványügyi ellátások közül
   - aa) a kötelező védőoltást (kivéve a külföldre történő kiutazás miatt szükséges védőoltást),
@@ -1996,7 +2028,7 @@ feltéve, hogy a beteget más orvoshoz irányítja.
   - cb) a magzat egészséges fejlődését biztosító életmódról való tájékoztatás,
   - cc) a szülésre, szoptatásra és csecsemőgondozásra való felkészítés,
 - d) az (5) bekezdésben meghatározott személy részére az állami érdekből végzett orvosbiológiai kutatások keretén belüli gyógyító célú eljárások alkalmazásával kapcsolatos ellátások,
-- e) a Magyar Köztársaság területén tartózkodó személy elhalálozását követően a halottvizsgálat, illetve a halottakkal kapcsolatos orvosi eljárásokkal összefüggő ellátások,
+- e) a Magyarország területén tartózkodó személy elhalálozását követően a halottvizsgálat, illetve a halottakkal kapcsolatos orvosi eljárásokkal összefüggő ellátások,
 - f) a vérellátás megszervezése, valamint a vér rendelkezésre állása,
 - g) a 35–36. §-ban foglalt népegészségügyi feladatok,
 - h) az elsődleges megelőzést szolgáló népegészségügyi feladatok közül a g) pontban foglaltakon túl az egészség fejlesztése, az egészségnevelés szervezése, a családtervezési tanácsadás,
@@ -2017,7 +2049,7 @@ költségének fedezetét.
 
 ### 2. CÍM — Az egészségügy szervezése és irányítása
 
-143. § Az egészségügy szervezésével és irányításával kapcsolatos feladatok ellátásáért, valamint az ezekkel összefüggő jogok gyakorlásáért és kötelezettségek teljesítéséért való felelősség – az e törvényben foglaltaknak megfelelően – az Országgyűlést, a Kormányt, a minisztert, az egészségügyi államigazgatási szervet, a helyi önkormányzatokat, az egészségügyi szolgáltatók további fenntartóit, az egészségbiztosítási szerveket, a Regionális Egészségügyi Tanácsokat (a továbbiakban: RET) terheli.
+143. § Az egészségügy szervezésével és irányításával kapcsolatos feladatok ellátásáért, valamint az ezekkel összefüggő jogok gyakorlásáért és kötelezettségek teljesítéséért való felelősség – az e törvényben foglaltaknak megfelelően – az Országgyűlést, a Kormányt, a minisztert, az egészségügyi államigazgatási szervet, a helyi önkormányzatokat, az egészségügyi szolgáltatók további fenntartóit, az egészségbiztosítási szerveket, valamint a térségi egészségszervezési államigazgatási szervet, terheli.
 
 144. § (1) Az állam a rendelkezésére álló eszközökkel támogatja és elősegíti az egészségügy területén működő szakmai kamaráknak és más köztestületeknek, valamint szakmai érdekképviseleti szerveknek, szakmai egyesületeknek és más civil szervezeteknek az e törvényben foglaltakkal összhangban levő tevékenységét.
 
@@ -2025,47 +2057,41 @@ költségének fedezetét.
 
 ### Az Országgyűlés feladatai
 
-145. § A Magyar Köztársaság Országgyűlése az egészségüggyel kapcsolatosan:
+145. § Az Országgyűlés az egészségüggyel kapcsolatosan:
 
 - a) tevékenysége során figyelembe veszi és érvényesíti a lakosság egészségének védelméhez, a betegségek megelőzéséhez és az egészség fejlesztéséhez fűződő érdekeket és az ehhez rendelt egészségpolitikai célokat,
 - b) értékeli a lakosság egészségi állapotának általános helyzetét.
 
-### Az egészségfejlesztési program
+### A térségi egészségügyi fejlesztési program
 
-146. §
+146. § (1) A térségi egészségszervezésért felelős államigazgatási szerv elkészíti az adott egészségügyi térség egészségügyi fejlesztési programját.
 
-146/A. § (1) A RET elkészíti az adott egészségügyi régió egészségfejlesztési programját.
-
-(2) A regionális egészségfejlesztési program tartalmazza
+(2) A térségi egészségügyi fejlesztési program tartalmazza
 
 - a) az ellátandó lakosság számának, korösszetételének várható változását, az egészségi állapotot befolyásoló fontosabb területi, települési, környezeti tényezőket, a lakosság egészségi állapotának legfontosabb jellemzőit,
 - b) az egészségügyi szolgáltatások iránti igények várható alakulását, figyelembe véve a gyógyító-megelőző feladatok összetételének tervezhető változásait – beleértve a népegészségügyi feladatokból adódó területi igényeket is –, illetve ennek alapján a szolgáltatási struktúra átalakítására vonatkozó terveket,
 - c) az ellátási kötelezettség teljesítésében részt vevő egészségügyi szolgáltatók legfontosabb szakmai jellemzőit, szervezeti formáit és tulajdonosi struktúráját,
 - d) a c) pontban megjelölt egészségügyi szolgáltatókra vonatkozó jelentősebb felújítások és fejlesztések terveit.
 
-(3) A program elkészítése során figyelembe kell venni az ellátási kötelezettség teljesítésében részt vevő egészségügyi szolgáltatók és azok fenntartói, illetve tulajdonosai, az önkormányzatok szakmai, fejlesztési terveit.
+(3) A térségi egészségügyi fejlesztési program elkészítése során figyelembe kell venni az ellátási kötelezettség teljesítésében részt vevő egészségügyi szolgáltatók és azok fenntartói, illetve tulajdonosai, valamint az önkormányzatok fejlesztési terveit.
 
-(4) A regionális egészségfejlesztési program összeállítása során ki kell kérni a gyógyintézettel nem rendelkező helyi önkormányzatok javaslatait is.
+(4) A térségi egészségügyi fejlesztési programot meg kell küldeni a térségben működő valamennyi egészségügyi közszolgáltató fenntartójának és helyi önkormányzatnak, továbbá a miniszternek is, valamint közzé kell tenni az (1) bekezdés szerinti szerv honlapján.
 
-(5) A programot a RET a 149/D. § (3) bekezdésében foglaltak szerint fogadja el.
-
-(6) A programot meg kell küldeni a régióban működő valamennyi egészségügyi közszolgáltató fenntartójának és helyi önkormányzatnak, továbbá a miniszternek is.
-
-146/B. § (1) A régió területén működő gyógyintézet az általa nyújtott szolgáltatások tervszerű és minőségi fejlesztésére szakmai tervet készít a regionális egészségfejlesztési program alapján, azzal összhangban.
+146/A. § (1) Az egészségügyi térség területén működő közfinanszírozott gyógyintézet az általa nyújtott szolgáltatások tervszerű és minőségi fejlesztésére szakmai tervet készít a térségi egészségügyi fejlesztési program alapján, azzal összhangban.
 
 (2) A szakmai terv tartalmazza
 
-- a) a gyógyító-megelőző feladatok összetételének változtatásával,
+- a) a gyógyító-megelőző feladatokkal,
 - b) a feladatok változásával összefüggő belső szervezeti változásokkal,
 - c) a jelentősebb felújításokkal és fejlesztésekkel,
 - d) a humán erőforrások fejlesztésével, valamint
-- e) a minőségbiztosítással és minőségfejlesztéssel
+- e) a minőségbiztosítással és minőségfejlesztéssel összefüggő koncepciókat és mindezek finanszírozási tervét.
 
-összefüggő koncepciókat és mindezek finanszírozási tervét.
+(3) A szakmai tervet – a gyógyintézet szakmai vezető testületének egyetértése után – a fenntartó fogadja el.
 
-(3) A szakmai tervet – a gyógyintézet szakmai vezető testületének egyetértése után – egyetemi klinikánál az egyetem, más szervezet esetében a fenntartó fogadja el.
+(4) A szakmai tervet meg kell küldeni a térségi egészségszervezésért felelős államigazgatási szervnek.
 
-(4) A szakmai tervet meg kell küldeni a területileg illetékes RET számára.
+146/B. §
 
 ### A Kormány feladatai
 
@@ -2076,66 +2102,46 @@ költségének fedezetét.
 - c) irányítja és összehangolja az egészségügyi államigazgatási feladatok végrehajtását,
 - d) gondoskodik az egészségügyet érintő nemzetközi szerződésekben foglalt kötelezettségek teljesítéséről, illetőleg jogok érvényesítéséről,
 - e) gondoskodik az e törvény szerint az államot terhelő kártalanítási és megtérítési kötelezettségek teljesítéséről,
-- f) katasztrófa [225. § (2) bekezdés] esetén gondoskodik a veszély elhárításához szükséges feltételek biztosításáról, továbbá ellátja az annak elhárítását célzó tevékenységek általános irányítását.
+- f) egészségügyi válsághelyzet [228. § (2) bekezdés] esetén gondoskodik a veszély elhárításához szükséges feltételek biztosításáról, továbbá ellátja az annak elhárítását célzó tevékenységek általános irányítását.
 
 (2) A Kormány a külön törvényben foglaltaknak megfelelően törvényességi felügyeletet gyakorol az egészségbiztosítási szervek tevékenysége felett.
 
-148–149. §
+### Térségi Egészségügyi Tanács
 
-### Regionális Egészségügyi Tanács
+148. § (1) A Térségi Egészségügyi Tanács (a továbbiakban: Tanács) az egészségügyi szakellátás fejlesztéséről szóló törvényben meghatározott egészségügyi térségben az egészségpolitika kialakításában közreműködő szerv.
 
-149/A. § (1) A RET az egészségügyi régióban a regionális egészségpolitika kialakításában közreműködő szervezet.
+(2) A Tanács feladata a térségi egészségszervezési központ munkájának elősegítése, a területi ellátási kötelezettség megállapításának szakmai támogatása, tanácsadás a területei egészségfejlesztési célok meghatározásához, a célok teljesülésének értékelése, a térségben működő egészségügyi szolgáltatók hosszú távú fejlesztésének és a fejlesztés prioritásainak véleményezése.
 
-(2) Egészségügyi régió a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 5. §-ának e) pontjában meghatározott régióval megegyező terület.
+(3) A Tanács tagja
 
-(3) A RET feladatai:
+- a) az adott térség megyei önkormányzatainak egy-egy képviselője, valamint a fővárosi térség esetében a fővárosi önkormányzat egy képviselője,
+- b) az adott térségben működő fővárosi és megyei kormányhivatal egy-egy képviselője, valamint ezen túlmenően a térségben működő népegészségügyi szakigazgatási szervek egy közös képviselője,
+- c) azon minisztériumok egy-egy képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
+- d) a térségben található kistérségekben levő önkormányzatok megyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
+- e) a térségben működő egyetemi centrumot és klinikát működtető egyetem képviselője,
+- f) azon egyházak egy közös képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
+- g) az a)–f) pontban foglaltak alapján nem képviselt – a térségben működő – egészségügyi szolgáltatók fenntartói közül azoknak az egy közös képviselője, akik gyógyintézetnek minősülnek és közfinanszírozásban részesülnek,
+- h) az egészségbiztosítási szerv térségben működő területi kihelyezett szervezeti egységeinek kijelölt képviselője,
+- i) az egészségügyi államigazgatási szerv térségben működő területi szervezeti egységeinek kijelölt képviselője,
+- j) a térségi egészségszervezési központ egy képviselője,
+- k) a térségben működő alapellátást végző egészségügyi szolgáltatók egy képviselője,
+- l) az egészségügyben működő szakmai kamarák egy-egy képviselője.
+- m) a térségben működő betegszervezetek egy közös képviselője,
+- n) a térségben működő, nem közfinanszírozott egészségügyi szolgáltatók egy közös képviselője.
 
-- a) az egészségügyi régió egészségpolitikai programjának összeállítása,
-- b) koordináció és érdekegyeztetés az egészségügyi régió területén működő egészségügyi közszolgáltatók, fenntartók és a lakosság, illetve betegszervezetek között,
-- c) az Egészségügyi Fejlesztési Előirányzat (a továbbiakban: EFE) forrásaira kiírt pályázatokkal kapcsolatos feladatok ellátása, továbbá az EFE regionális részének kezelése,
-- d)
-- e) működési területén az egészségügyi közszolgáltatást igénybevevő betegek körében betegelégedettségi vizsgálatok végzése és ennek figyelembevétele a fejlesztési prioritások kijelölése során,
-- f) a regionális egészségpolitikai program megvalósulásának évenkénti értékelése és amennyiben szükséges, annak módosítása és kiegészítése,
-- g) véleményezi a területi beutalási szabályokkal kapcsolatos jogszabályokat és kezdeményezheti az egészségügyért felelős miniszternél a területi beutalási szabályok felülvizsgálatát, amennyiben az az egészségügyi ellátásokhoz való hozzáférést veszélyezteti.
+(4) A Tanács működésének feltételeit az egészségszervezésért felelős államigazgatási szerv biztosítja.
 
-(4) A RET az egészségügyi ellátórendszer fejlesztéséről szóló törvény végrehajtása során a Regionális Fejlesztési Tanáccsal együttműködve figyelemmel kíséri a Nemzeti Fejlesztési Terv Operatív Programjai régióban jelentkező feladatainak megvalósítását, közreműködik és elősegíti azok egészségügyet érintő intézkedéseinek végrehajtását, így különösen előzetesen véleményezi a Regionális Fejlesztési Tanácsnak a régió egészségügyét érintő fejlesztéseit és a fejlesztésekkel kapcsolatban egyetértési jogot gyakorol.
+(5) A Tanács szükség szerint, de évente legalább két ülést tart. A Tanács tagjai közül – a tagok szótöbbséggel – elnököt választanak, aki összehívja a Tanács ülését. A titkári feladatokat a térségi egészségszervezési központ képviselője látja el.
 
-(5) A RET feladatainak ellátásához az egészségbiztosítási szerv, az egészségügyi államigazgatási szerv, továbbá az illetékességi területén működő gyógyintézetek a rendelkezésükre álló és a RET által kért valamennyi adatot rendelkezésre bocsátják azzal, hogy nem adhatnak át személyazonosítóval összekapcsolható egészségügyi adatot.
+149. §
 
-149/B. § (1) A RET tagja
+149/A. §
 
-- a) az adott régió megyéinek egy-egy képviselője, továbbá a Közép-magyarországi régióban a főváros egy képviselője,
-- b) azon minisztériumok egy közös képviselője, amelyek fenntartói valamely, a régió területén működő egészségügyi szolgáltatónak,
-- c) a régióban található azon megyei jogú városok egy képviselője, amelyek fenntartói a régióban működő közfinanszírozott gyógyintézetnek és a fenntartó nincs képviselve az a) pont alapján,
-- d) a régióban található kistérségek megyénként egy képviselője, továbbá a Közép-magyarországi régióban a fővárosi kerületek egy közös képviselője,
-- e) a régióban működő egyetemi centrumot és klinikát működtető egyetem képviselője,
-- f) azon egyházak egy közös képviselője, amelyek fenntartói valamely, a régió területén működő egészségügyi szolgáltatónak,
-- g) az a)–c) és e) pontban foglaltak alapján nem képviselt fekvőbeteg-szakellátást nyújtó, közfinanszírozásban részesülő egészségügyi szolgáltatók fenntartóinak megyénként egy képviselője,
-- h) az a)–g) pontban foglaltak alapján nem képviselt – a régióban működő – egészségügyi szolgáltatók fenntartói közül azoknak az egy közös képviselője, akik gyógyintézetnek minősülnek és közfinanszírozásban részesülnek,
-- i) az a)–g) pontban foglaltak alapján nem képviselt – a régióban működő – egészségügyi szolgáltatók fenntartói közül azoknak az egy közös képviselője, akik gyógyintézetnek minősülnek és közfinanszírozásban nem részesülnek,
-- j) az a)–g) pontban foglaltak alapján nem képviselt – a régióban működő – egészségügyi szolgáltatók fenntartói közül azoknak a megyénként egy közös képviselője, akik kizárólag alapellátást nyújtanak és közfinanszírozásban részesülnek.
+149/B. §
 
-(2) A RET ülésein tanácskozási joggal részt vehet:
+149/C. §
 
-- a) az egészségügyi ágazat képviseletében az egészségügyért felelős miniszter által kijelölt személy,
-- b) a régió területén működő egészségügyi államigazgatási szervek egy közös képviselője,
-- c) a régió területén működő egészségbiztosítási szervek egy közös képviselője,
-- d) a Regionális Fejlesztési Tanács képviselője,
-- e) a betegjogi képviselőt foglalkoztató szerv képviselője.
-
-149/C. § (1) A RET jogi személy, gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni.
-
-(2) A RET titkársági feladatait az egészségügyi államigazgatási szerv kijelölt szerve keretében működő RET titkárság látja el.
-
-(3) A RET, illetve a RET titkárság működési költségeinek fedezetét az egészségügyi államigazgatási szerv költségvetésében kell biztosítani.
-
-149/D. § (1) A RET tagjai közül – a tagok szótöbbségével – elnököt és elnökhelyettest választ. Az elnök látja el a RET képviseletét, dönt az ülések összehívásáról, napirendről.
-
-(2) A RET az (1) bekezdésben foglaltakon túl más tisztségviselők megválasztásáról, illetve a döntéseinek előkészítéséhez bizottságok létrehozásáról is dönthet.
-
-(3) A RET határozatképes, ha az ülésén a tagok több, mint fele jelen van. A RET döntéseit – ha törvény másként nem rendelkezik – a jelenlévő tagok többségének szavazatával hozza, szavazategyenlőség esetén az elnök szavazata dönt.
-
-(4) A 149/A. § (3) bekezdésének d) pontja szerinti eljárásban történő döntéshozatal során a szavazatok számát a RET tagjai által képviselt egészségügyi szolgáltatók rendelkezésére álló finanszírozott kapacitások mennyisége alapján, a külön jogszabályban foglaltak szerint kell súlyozni.
+149/D. §
 
 149/E. §
 
@@ -2148,9 +2154,9 @@ költségének fedezetét.
 - c) meghatározza az egészségügyi szolgáltatások szakmai követelmény rendszerét,
 - d) támogatja és összehangolja az egészségügyi ágazat feladatkörét érintő tudományos kutatótevékenységet,
 - e) irányítja az egészségügyi tevékenység ágazati irányításához és egységes működéséhez szükséges nyilvántartási és információs rendszert,
-- f)
-- g) irányítja az egészségügy területén működő országos intézeteket,
-- h) meghatározza és összehangolja a gyógyszerek, gyógyászati segédeszközök előállításával, forgalmazásával és rendelésével kapcsolatos tevékenységeket.
+- f) egészségügyi szakmai felügyelet gyakorlása körében módszertani és szakmai irányítási feladatokat lát el, kapcsolatot tart a nem állami fenntartású egészségügyi szolgáltatók fenntartóival, figyelemmel kíséri és véleményezi azok szakmai fejlesztési programját, továbbá egységes szempontok kidolgozásával irányítja az intézményfelügyeleti tevékenység végzését,
+- g) irányítja az egészségügy területén működő országos intézeteket, valamint az állam tulajdonába, illetve fenntartásába tartozó fekvőbeteg-szakellátást vagy fekvőbeteg- és hozzá kapcsolódó járóbeteg-szakellátást végző egészségügyi szolgáltatókat,
+- h) meghatározza és összehangolja a gyógyszerek, gyógyászati segédeszközök, orvostechnikai eszközök előállításával, forgalmazásával és rendelésével kapcsolatos tevékenységeket.
 
 (2) A miniszter ágazati irányító jogköre kiterjed minden egészségügyi tevékenységre, illetőleg – jogállásától függetlenül – minden egészségügyi szolgáltatóra.
 
@@ -2168,9 +2174,9 @@ költségének fedezetét.
 - d) a védőnői ellátásról,
 - e) az iskola-egészségügyi ellátásról.
 
-(2) A települési önkormányzat képviselő-testülete megállapítja és kialakítja az egészségügyi alapellátások körzeteit, több településre is kiterjedő ellátás esetén a körzet székhelyét.
+(2) A települési önkormányzat képviselő-testülete – a kormányrendelet szerinti praxiskezelő által megadott szempontokat figyelembe véve – megállapítja és kialakítja az egészségügyi alapellátások körzeteit. Több településre is kiterjedő ellátás esetén a körzet székhelyét az érintett települési önkormányzatok egyetértésben állapítják meg.
 
-(3) A helyi önkormányzat biztosítja a tulajdonában vagy használatában levő járóbeteg-szakellátást, illetőleg fekvőbeteg-szakellátást nyújtó egészségügyi intézmények működését.
+(3) A helyi önkormányzat gondoskodik a tulajdonában vagy fenntartásában lévő fekvőbeteg-szakellátó, valamint járóbeteg-szakellátó egészségügyi szolgáltató működtetéséről.
 
 (4) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti alapellátási körzetekről – a települési önkormányzat tájékoztatása alapján – nyilvántartást vezet.
 
@@ -2188,7 +2194,7 @@ költségének fedezetét.
 154. § Az egészségbiztosítási szervek a külön törvényben foglaltaknak megfelelően kötelesek biztosítani az egészségügyi szolgáltatók által nyújtott egészségügyi szolgáltatások vonatkozásában
 
 - a) a szükséges kapacitás megfelelő időben történő lekötését, valamint
-- b) a teljesített és ellenőrzött szolgáltatás finanszírozását.
+- b) a teljesített szolgáltatás finanszírozását és ellenőrzését.
 
 ### Egészségügyi intézmények fenntartása
 
@@ -2204,6 +2210,18 @@ költségének fedezetét.
 
 - a) az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltételeket, valamint
 - b) az egészségügyi intézmény működőképességét és fejlesztését.
+
+(3) Az állam tulajdonában vagy fenntartásában lévő fekvő- és járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók esetében a miniszter irányítási jogkörébe tartozik a fenntartó javaslatára
+
+- a) az alapítói jogok – létesítés, átszervezés, megszüntetés – gyakorlása,
+- b) a jogszabályban vagy az egészségügyi szolgáltató alapító okiratában meghatározott
+  - ba) értékhatárt elérő, vagy
+  - bb) tárgykörben megvalósuló beszerzésről vagy az egészségügyi szolgáltató rendes gazdálkodásának körét meghaladó beruházásról hozott döntés jóváhagyása.
+
+(4) A (3) bekezdés szerinti egészségügyi szolgáltatók esetében
+
+- a) az intézmény költségvetésének meghatározásához, beszámolójának elfogadásához, valamint
+- b) az intézmény vezetőjének, gazdasági igazgatójának kinevezéséhez vagy megbízásához és felmentéséhez vagy a megbízásának visszavonásához a miniszter hozzájárulása szükséges.
 
 156. § (1) A területi ellátási kötelezettség körében fekvőbeteg-szakellátást nyújtó egészségügyi intézményekben kórházi felügyelő tanács és kórházi etikai bizottság működik.
 
@@ -2300,11 +2318,11 @@ történhet.
 
 158. § (1) A kutatás – gyógyszerek klinikai vizsgálata tekintetében a külön törvényben foglalt eltérésekkel – az e törvényben meghatározott keretek között végezhető.
 
-(2) A kutatás szakmai feltételeit és részletes szabályait a miniszter – az ETT véleményének figyelembevételével – rendeletben állapítja meg, azzal, hogy kutatás engedélyezéséről szóló határozat ellen külön jogszabály eltérő rendelkezése hiányában fellebbezésnek helye nincs.
+(2) A kutatás szakmai feltételeit és részletes szabályait a miniszter – az ETT véleményének figyelembevételével – rendeletben állapítja meg, azzal, hogy kutatás engedélyezéséről szóló határozat ellen jogszabály eltérő rendelkezése hiányában fellebbezésnek helye nincs.
 
-(3) A kutatásengedélyezési eljárás ügyintézési határideje két hónap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje ötven nap. Az ügyfélnek az eljárás megindítását megelőzően benyújtott kérelmére a szakhatóság előzetes szakhatósági állásfoglalást ad ki.
+(3) A kutatásengedélyezési eljárás ügyintézési határideje két hónap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje ötven nap.
 
-159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál a következő feltételek együttes fennállása esetén végezhető:
+159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése, valamint az orvostechnikai eszközök hatékonyságával, teljesítőképességével kapcsolatos klinikai adat gyűjtése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál, a következő feltételek együttes fennállása esetén végezhető:
 
 - a) a kutatási tervet engedélyezték,
 - b) a kutatást megelőző vizsgálatok igazolják az alkalmazott tényezők hatásosságát és biztonságosságát,
@@ -2335,14 +2353,14 @@ történhet.
 
 - a) a kutatás célja az, hogy a kutatás alanyának állapotához, betegségéhez kapcsolódó tudományos ismeretek gyarapításával belátható időn belül hozzájáruljon olyan eredmények eléréséhez, amelyek hasznosak a kutatás alanyának vagy más hasonló korú és azonos betegségben szenvedő, illetőleg hasonló jellegzetességeket mutató és hasonló egészségi állapotú személy számára;
 - b) a kutatás a kutatás alanyára nézve a minimálist jelentősen meg nem haladó kockázattal és enyhe igénybevétellel jár;
-- c) a kutatásra – az ETT-nek az a) és b) pontban foglalt feltételek fennállása kérdésében kiadott szakhatósági állásfoglalása alapján – a miniszter engedélyt ad.
+- c) a kutatásra – az ETT-nek az a) és b) pontban foglalt feltételek fennállása kérdésében kiadott szakhatósági állásfoglalása alapján – az egészségügyi államigazgatási szerv engedélyt ad.
 
 (6) A kutatást
 
 - a) az elsőfokú eljárásban az ETT – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – bizottságának, részbizottságának, a másodfokú eljárásban az ETT Elnökségének a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján, vagy
-- b) a jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – független bizottság szakértői véleményének kikérésével az egészségügyi államigazgatási szerv, valamint az ott meghatározott esetben a (7) bekezdés szerinti szerv engedélyezi.
+- b) a jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – független bizottság szakértői véleményének kikérésével az egészségügyi államigazgatási szerv engedélyezi.
 
-(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő naptól számított hatvan napon belül a vizsgálatot nem tiltja meg.
+(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő naptól számított hatvan napon belül a vizsgálatot nem tiltja meg.
 
 160. § Sürgős szükség esetén, ha a kutatás alanyának, vagy a 16. § (1)–(2) bekezdések szerinti személynek a beleegyezése nem szerezhető meg, kizárólag a sürgős szükségben nyújtott ellátásra vonatkozó, a kutatás alanyának egészségét várhatóan közvetlenül szolgáló és előzetesen engedélyezett kutatási terven alapuló kutatás végezhető, feltéve, hogy a kutatás hasonló eredményességgel a sürgős szükségben lévő személy kutatásba történő bevonása nélkül nem végezhető el.
 
@@ -2362,7 +2380,7 @@ történhet.
 
 (2) A kutatást végző egészségügyi szolgáltatónak a kártérítés fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződéssel kell rendelkeznie. A vizsgálati készítménnyel végzett klinikai vizsgálatok esetén a külön törvényben előírt felelősségbiztosítással kell rendelkezni.
 
-164/A. § (1) A külön jogszabály szerinti beavatkozással nem járó vizsgálat a 157. és 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése és az ETT engedélye alapján végezhető. Utólagos, beavatkozással nem járó (retrospektív) vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
+164/A. § (1) A külön jogszabály szerinti beavatkozással nem járó vizsgálat a 157. és 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése alapján végezhető. Utólagos, beavatkozással nem járó (retrospektív) vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
 
 (2) A külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt a külön jogszabály szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül adja meg.
 
@@ -2472,7 +2490,7 @@ aki megfelel a 171. § (1) bekezdésben foglaltaknak;
 
 (8) Bármely személy vagy szerv köteles a jogosulatlanul, illetőleg jogszerűen, de a (6) bekezdés alapján visszautasított felajánlás során birtokába jutott ivarsejtek, illetve ivarsejtet tartalmazó anyagok haladéktalan megsemmisítéséről gondoskodni.
 
-172. § (1) A 171. § (3) bekezdése, valamint az adományozó személyes megjelenése és vizsgálata alapján az egészségügyi szolgáltató vagy az ivarsejt-adományozás során a kutatóhely tudomására jutott személyes és különleges adatok kezelésére a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény, valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezései – a (2)–(4) bekezdésekben foglaltak figyelembevételével – megfelelően irányadóak.
+172. § (1) A 171. § (3) bekezdése, valamint az adományozó személyes megjelenése és vizsgálata alapján az egészségügyi szolgáltató vagy az ivarsejt-adományozás során a kutatóhely tudomására jutott személyes és különleges adatok kezelésére az információs önrendelkezési jogról és az információszabadságról szóló törvény, valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezései – a (2)–(4) bekezdésekben foglaltak figyelembevételével – megfelelően irányadóak.
 
 (2) Az egészségügyi szolgáltató az ivarsejtek adományozásával összefüggésben kizárólag a 171. § (3) bekezdésében felsorolt személyes és különleges adatokat kezelheti. Az adatkezelés során a személyes adatok közül a névre és lakcímre vonatkozó adat nem, bármely egyéb adat – személyazonosításra alkalmatlan módon – a (3) bekezdésben meghatározottak részére továbbítható. Az egészségügyi szolgáltató a tudomására jutott, de a jogszerű adatkezelés körébe nem tartozó adatok megsemmisítéséről haladéktalanul intézkedik.
 
@@ -2639,7 +2657,7 @@ hozzájárulása szükséges.
 
 (2) A gyámhatóság a hozzájárulás megadása előtt vizsgálja, hogy a korlátozottan cselekvőképes személy kérelme akaratával egyező-e, így különösen azt, hogy a korlátozottan cselekvőképes személy és törvényes képviselője között fennáll-e érdekellentét, továbbá azt, hogy a korlátozottan cselekvőképes személy tisztában van-e a döntése következményeivel.
 
-(3) Ha a korlátozottan cselekvőképes személy kérelme ellenére a törvényes képviselő vagy a gyámhatóság a beavatkozás elvégzéséhez nem járul hozzá, a kérelmező a Fővárosi Bíróságnál keresetet indíthat a jognyilatkozat vagy a jognyilatkozatok pótlása iránt.
+(3) Ha a korlátozottan cselekvőképes személy kérelme ellenére a törvényes képviselő vagy a gyámhatóság a beavatkozás elvégzéséhez nem járul hozzá, a kérelmező a Fővárosi Törvényszéknél keresetet indíthat a jognyilatkozat vagy a jognyilatkozatok pótlása iránt.
 
 (4) A bíróság a kérelemről nemperes eljárásban, a kérelmező és a törvényes képviselő, illetve a gyámhatóság meghallgatását követően, harminc napon belül határoz. A bíróság a jognyilatkozatot abban az esetben pótolja, ha a művi meddővé tétel elvégzése a kérelmező érdekét – figyelembe véve különösen a kérelmező egészségügyi, személyi és családi körülményeit – nem sérti.
 
@@ -2653,7 +2671,7 @@ hozzájárulása szükséges.
 
 187/B. § (1) Cselekvőképtelen személy művi meddővé tételére irányuló beavatkozás kizárólag jogerős bírósági határozat alapján, a fogamzóképesség elérését követően végezhető el.
 
-(2) A cselekvőképtelen személy művi meddővé tételének engedélyezése iránt az érintett személy törvényes képviselője – tizennyolcadik életévét be nem töltött cselekvőképtelen személy esetében a gyámhatósággal együttesen – indíthat keresetet a Fővárosi Bíróságnál.
+(2) A cselekvőképtelen személy művi meddővé tételének engedélyezése iránt az érintett személy törvényes képviselője – tizennyolcadik életévét be nem töltött cselekvőképtelen személy esetében a gyámhatósággal együttesen – indíthat keresetet a Fővárosi Törvényszéknél.
 
 (3) A bíróság a kérelemről nemperes eljárásban a cselekvőképtelen személy, a törvényes képviselő, valamint a gyámhatóság meghallgatását követően, harminc napon belül határoz.
 
@@ -2827,28 +2845,30 @@ van helye.
 
 ### XI. Fejezet — SZERV- ÉS SZÖVETÁTÜLTETÉS
 
-202. § E fejezet alkalmazásában
+202. § (1) E fejezet alkalmazásában
 
-- a) szövet: az emberi test bármely része, ide nem értve
-  - aa) a spermiumot és a petesejtet,
-  - ab) az embriót és a magzatot,
-  - ac) a vért és a véralkotórészt;
-- b) szerv: az emberi test olyan része, amely szövetek meghatározott szerkezetű egysége, és amelyet – egészben történő eltávolítása esetén – a szervezet nem képes regenerálni;
-- c) szerv- és szövetátültetés: szerv és szövet eltávolítása emberi testből, valamint annak más élő személy testébe történő beültetése;
-- d) donor: az a személy, aki szervet, szövetet adományoz más személybe való átültetés céljából, illetve akinek testéből halála után szervet vagy szövetet távolítanak el más személy testébe történő átültetés céljából;
-- e) recipiens: az a személy, akinek testébe más személyből eltávolított szervet, illetve szövetet ültetnek át gyógykezelés céljából;
-- f) agyhalál: az agy – beleértve az agytörzset is – működésének teljes és visszafordíthatatlan megszűnése;
-- g) halál: amikor a légzés, a keringés és az agyműködés teljes megszűnése miatt a szervezet visszafordíthatatlan felbomlása megindul.
+- a) sejt: különálló emberi sejt vagy kötőszövet által össze nem kapcsolt emberi sejtek egy csoportja;
+- b) szövet: az emberi test sejtekből álló valamennyi alkotórésze, ide nem értve
+  - ba) az embriót és a magzatot,
+  - bb) a vért és a véralkotórészt;
+- c) szerv: az emberi test olyan része, amely szövetek meghatározott szerkezetű egysége, és amely megtartja szerkezetét, erezettségét és azt a képességét, hogy jelentős önállósággal élettani funkciókat tartson fenn, valamint a szerv egy része, amennyiben működése az emberi szervezetben ugyanazt a célt szolgálja, mint az egész szerv, ideértve a szerkezet és erezettség követelményét is;
+- d) szerv- és szövetátültetés: szerv és szövet eltávolítása emberi testből, valamint annak más élő személy testébe történő beültetése az emberi test bizonyos funkcióinak helyreállítása céljából;
+- e) donor: az a személy, aki szervet, szövetet adományoz más személybe való átültetés céljából, illetve akinek testéből halála után szervet vagy szövetet távolítanak el más személy testébe történő átültetés céljából;
+- f) recipiens: az a személy, akinek testébe más személyből eltávolított szervet, illetve szövetet ültetnek át gyógykezelés céljából;
+- g) agyhalál: az agy – beleértve az agytörzset is – működésének teljes és visszafordíthatatlan megszűnése;
+- h) halál: amikor a légzés, a keringés és az agyműködés teljes megszűnése miatt a szervezet visszafordíthatatlan felbomlása megindul.
+
+(2) E fejezetnek a szövetre vonatkozó rendelkezéseit – a spermium és a petesejt kivételével – a sejtre is alkalmazni kell.
 
 203. § (1) Átültetés céljára elsősorban halottból eltávolított szervet és szövetet kell felhasználni.
 
-(2)
+(2) A szervátültetés – az átültetendő szerv minőségének és biztonságának garantálása mellett – az élő donorok lehető legmagasabb szintű védelmének biztosításával történik.
 
 (3) Tartósan tárolható, átültetés céljára felhasználható, élőből vagy halottból eltávolított szerveket, szöveteket szerv- és szövetbankban kell tárolni.
 
 (4)
 
-(5) A szerv- és szövetátültetésre és -tárolásra vonatkozó részletes szabályokat a miniszter rendeletben határozza meg.
+(5) A szerv- és szövet- valamint sejtátültetésre és -tárolásra vonatkozó részletes szabályokat a miniszter rendeletben határozza meg.
 
 ### Szerv, szövet eltávolítása élő személy testéből
 
@@ -3080,8 +3100,7 @@ megítéléséhez szükséges.
 
 225. § (1) A gyógyításhoz szükséges vér és vérkészítmények biztosítása körében a vérellátás feladatát képezi
 
-- a) a szükségletek felmérése,
-- b) a Magyar Vöröskereszttel és más civil szervezetekkel együttműködve a véradások szervezése,
+- a) a szükségletek felmérése, b) a Magyar Vöröskereszttel és más civil szervezetekkel együttműködve a véradások szervezése,
 - c) a véradók kivizsgálása,
 - d) a vér levétele terápiás készítmény előállítása céljából,
 - e) a vérkészítmények előállítása, beszerzése és vizsgálata,
@@ -3114,20 +3133,27 @@ megítéléséhez szükséges.
 
 ### XIV. Fejezet — KATASZTRÓFA-EGÉSZSÉGÜGYI ELLÁTÁS
 
-228. § (1) Katasztrófa idején a betegek ellátása a katasztrófa-egészségügyi ellátás keretében történik.
+228. § (1) Egészségügyi válsághelyzet idején a betegek ellátása a katasztrófa-egészségügyi ellátás keretében történik.
 
-(2) E törvény alkalmazásában katasztrófának minősül
+(2) E törvény alkalmazásában egészségügyi válsághelyzetnek minősül
 
-- a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét, illetve az egészségügyi szolgáltatók működését veszélyezteti, illetve károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, függetlenül attól, hogy erre minősített időszak (rendkívüli állapot, szükségállapot, veszélyhelyzet) idején vagy azon kívül kerül sor,
+- a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét vagy az egészségügyi szolgáltatók működését veszélyezteti vagy károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, függetlenül attól, hogy erre különleges jogrend idején vagy azon kívül kerül sor,
 - b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.
 
-(3) Minősített időszakon kívül valamely eseményt – annak függvényében, hogy az egy megyét (a fővárost) vagy több megyét érint – az egészségügyi államigazgatási szerv vagy az egészségügyi államigazgatási szerv felügyeleti szerve minősítheti katasztrófának.
+(3) Különleges jogrend bevezetésekor a katasztrófa-egészségügyi ellátásra vonatkozó rendelkezéseket kell alkalmazni, azonban ez esetben nem szükséges az egészségügyi válsághelyzet kihirdetése.
 
-229. § (1) Katasztrófa idején az e törvényben meghatározott betegjogok csak akkor és kizárólag olyan mértékben gyakorolhatók, amikor és amennyiben nem veszélyeztetik a katasztrófa-helyzet felszámolásának eredményességét. A beteg emberi méltósághoz való joga azonban ebben az esetben sem korlátozható.
+(4) Különleges jogrenden kívül valamely eseményt
 
-(2) Katasztrófa idején az egészségügyi ellátórendszerre, az egészségügyi szolgáltatás szakmai követelményeire, valamint az egészségügyi dolgozók jogaira és kötelezettségeire előírt rendelkezéseket az e fejezetben, továbbá a katasztrófa idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
+- a) – ha az egy megye területét érinti – a megyei vagy fővárosi tisztifőorvos javaslatára az egészségügyi védelmi bizottság,
+- b) – ha az több megye vagy az ország teljes területét érinti – az országos tisztifőorvos javaslatára a Kormány minősítheti egészségügyi válsághelyzetnek.
 
-(3) Katasztrófa idején az egészségügyi államigazgatási szerv jogosult – a honvédelmi, rendvédelmi és büntetés-végrehajtási szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozót az ország más helységébe egészségügyi tevékenység végzésére kirendelni.
+229. § (1) Egészségügyi válsághelyzet idején az e törvényben meghatározott betegjogok csak akkor és kizárólag olyan mértékben gyakorolhatók, amikor és amennyiben nem veszélyeztetik az egészségügyi válsághelyzet felszámolásának eredményességét. A beteg emberi méltósághoz való joga azonban ebben az esetben sem korlátozható.
+
+(2) Egészségügyi válsághelyzet idején az egészségügyi ellátórendszerre, az egészségügyi szolgáltatás szakmai követelményeire, valamint az egészségügyi dolgozók jogaira és kötelezettségeire előírt rendelkezéseket az e fejezetben, továbbá az egészségügyi válsághelyzet idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
+
+(3) Kormányrendeletben meghatározottak szerint megyei szintű egészségügyi válsághelyzet idején az egészségügyi védelmi bizottság, országos szintű egészségügyi válsághelyzet esetén a miniszter jogosult – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozót az ország más helységébe egészségügyi tevékenység végzésére kirendelni.
+
+(4) A Kormány 228. § (4) bekezdés b) pontja szerinti döntésében határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
 
 230. § (1) A katasztrófa-egészségügyi ellátás biztosítása és finanszírozása állami feladat.
 
@@ -3140,30 +3166,35 @@ megítéléséhez szükséges.
 - c) az ágazati és területi együttműködés rendjének meghatározására,
 - d) a jogi és igazgatási szabályozás kidolgozására,
 - e) az egészségügyi készletek tartalékolására,
-- f) a speciális képzési feladatok ellátására, valamint
+- f) a speciális képzési feladatok ellátására, és
 - g) a katasztrófa-egészségügyi ellátási gyakorlatok végrehajtására.
 
 (4) A katasztrófa-egészségügyi ellátás tényleges működése kiterjed
 
-- a) a kizárólag a katasztrófa idején hatályos jogszabályok bevezetésére,
+- a) a kizárólag az egészségügyi válsághelyzet idején hatályos jogszabályok bevezetésére,
 - b) az egészségügyi ellátó rendszer szervezetének és működésének szükséges mértékű átalakítására,
-- c) a katasztrófa-helyzet felszámolásához szükséges irányítási és vezetési rend bevezetésére,
+- c) az egészségügyi válsághelyzet felszámolásához szükséges irányítási és vezetési rend bevezetésére,
 - d) a betegek egészségügyi ellátására,
 - e) időszakosan működő gyógyintézetek működtetésére,
 - f) pótlólagos kapacitások és készletek bevonására,
-- h) gyógyintézet időszakos működtetésére, valamint a gyógyintézet működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére.
+- g) gyógyintézet időszakos működtetésére, valamint a gyógyintézet működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére.
 
 (5) A katasztrófa-egészségügyi ellátásban részt vevő egészségügyi szolgáltatóknak az egészségbiztosítás által fedezett összegen felül felmerülő költségeit a központi költségvetés téríti meg.
 
 231. § (1) A katasztrófa-egészségügyi ellátáshoz szükséges, az egészségügyi szolgáltatók, valamint az együttműködő szervezetek készleteit meghaladó eszközöket és anyagokat az Állami Egészségügyi Tartalékból kell biztosítani.
 
-(2) Az Állami Egészségügyi Tartalék katasztrófa idején való kimerülése esetén a szükséges mértékig gondoskodni kell a készletek pótlólagos feltöltéséről. Ez esetben az eszközök és anyagok beszerzése nem tartozik a közbeszerzésekre vonatkozó rendelkezések hatálya alá.
+(2) Az Állami Egészségügyi Tartalék egészségügyi válsághelyzet idején való kimerülése esetén a szükséges mértékig gondoskodni kell a készletek pótlólagos feltöltéséről. Ez esetben az eszközök és anyagok beszerzése nem tartozik a közbeszerzésekre vonatkozó rendelkezések hatálya alá.
 
-232. § (1) A miniszter köteles gondoskodni arról, hogy az adott katasztrófa idején hatályba léptethető egészségügyi jogszabályok kihirdetésre alkalmas állapotban rendelkezésre álljanak.
+232. § (1) A miniszter köteles gondoskodni arról, hogy az adott egészségügyi válsághelyzet idején hatályba léptethető egészségügyi jogszabályok kihirdetésre alkalmas állapotban rendelkezésre álljanak.
 
 (2) A miniszter által kijelölt egészségügyi szolgáltatók a felkészülés keretében katasztrófatervet kötelesek készíteni. A katasztrófa tervek tartalmi követelményeit a miniszter rendeletben határozza meg.
 
 232/A. § A 228. § (2) bekezdés b) pontja szerinti esetben a 229. § (1) és (2) bekezdése, a 230. § (1) bekezdése, (4) bekezdés a) pontja, a 231. § és a 232. § nem alkalmazható.
+
+232/B. § Az egészségügyi válsághelyzet kezeléséhez szükséges feladatok összehangolt koordinálását és irányítását – kormányrendeletben meghatározottak szerint –
+
+- a) a 228. § (4) bekezdés a) pontja szerinti egészségügyi válsághelyzet esetén az egészségügyi védelmi bizottság,
+- b) a 228. § (4) bekezdés b) pontja szerinti egészségügyi válsághelyzet esetén a Kormány és a miniszter látja el.
 
 ### XV. Fejezet — EGÉSZSÉGÜGYI SZAKÉRTŐI TEVÉKENYSÉG
 
@@ -3266,15 +3297,15 @@ elnevezés használatát engedélyezték.
 
 ### XVII. Fejezet — NEMZETKÖZI RENDELKEZÉSEK
 
-243. § (1) A Magyar Köztársaság területén tartózkodó nem magyar állampolgár egészségügyi ellátása megkötött nemzetközi egyezmény vagy viszonosság alapján történik. Egyezmény, illetve viszonosság hiányában nem magyar állampolgár egészségügyi ellátást a Magyar Köztársaság területén jogszabályban meghatározott módon vehet igénybe.
+243. § (1) A Magyarország területén tartózkodó nem magyar állampolgár egészségügyi ellátása megkötött nemzetközi egyezmény vagy viszonosság alapján történik. Egyezmény, illetve viszonosság hiányában nem magyar állampolgár egészségügyi ellátást Magyarország területén jogszabályban meghatározott módon vehet igénybe.
 
 (2) E törvénynek a kártalanításra vonatkozó rendelkezéseit nem magyar állampolgárra nemzetközi egyezmény vagy viszonosság esetében lehet alkalmazni.
 
-(3) A Magyar Köztársaság területén sürgősségi ellátásra szoruló nem magyar állampolgárt haladéktalanul el kell látni. A Magyar Köztársaság területén orvosi beavatkozásra szoruló nem magyar állampolgáron a beavatkozást ugyanolyan feltételek mellett kell elvégezni, mint magyar állampolgáron.
+(3) A Magyarország területén sürgősségi ellátásra szoruló nem magyar állampolgárt haladéktalanul el kell látni. A Magyarország területén orvosi beavatkozásra szoruló nem magyar állampolgáron a beavatkozást ugyanolyan feltételek mellett kell elvégezni, mint magyar állampolgáron.
 
 (4) Nem magyar állampolgár élő testéből vér, egyéb szövet vagy szerv eltávolítása, valamint magyar állampolgárból, vagy annak holttestéből kivett szervnek, illetőleg szövetnek nem magyar állampolgár testébe történő átültetése a magyar állampolgárokra vonatkozó rendelkezéseknek megfelelően történik.
 
-(5) Nem magyar állampolgárnak a Magyar Köztársaság területén bekövetkezett halála esetén
+(5) Nem magyar állampolgárnak Magyarország területén bekövetkezett halála esetén
 
 - a) kórbonctani vizsgálat az elhunyt közeli hozzátartozójának kérelmére,
 - b) hatósági vagy igazságügyi boncolás rendkívüli halál esetén
@@ -3288,15 +3319,15 @@ végezhető el. Ezek során szervet, szövetet csak a halál okának és körül
 - c) kórisme megállapítása, továbbá
 - d) kutatás
 
-céljából lehet külföldre, illetve külföldről a Magyar Köztársaság területére szállítani, ha nemzetközi egyezmény vagy megállapodás azt lehetővé teszi. Szervnek az a) pont szerinti célból történő külföldre szállításának további feltétele az, ha a Magyar Köztársaság területén nincs megfelelő recipiens. Ettől a feltételtől eltekinteni akkor lehet, ha szervet külföldről a Magyar Köztársaság területére behoztak és átültettek, és nemzetközi egyezmény vagy megállapodás szerint ezen szervadományozás viszonzása céljából kerül sor azonos típusú szerv külföldre vitelére. A viszonzási kötelezettség a szerv Magyar Köztársaság területén történő átültetésének időpontjában keletkezik, és a viszonzásként adományozott szerv külföldön történő beültetésének időpontjában ér véget.
+céljából lehet külföldre, illetve külföldről Magyarország területére szállítani, ha nemzetközi egyezmény vagy megállapodás azt lehetővé teszi. Szervnek az a) pont szerinti célból történő külföldre szállításának további feltétele az, ha Magyarország területén nincs megfelelő recipiens. Ettől a feltételtől eltekinteni akkor lehet, ha szervet külföldről Magyarország területére behoztak és átültettek, és nemzetközi egyezmény vagy megállapodás szerint ezen szervadományozás viszonzása céljából kerül sor azonos típusú szerv külföldre vitelére. A viszonzási kötelezettség a szerv Magyarország területén történő átültetésének időpontjában keletkezik, és a viszonzásként adományozott szerv külföldön történő beültetésének időpontjában ér véget.
 
-(7) Szerv, szövet – a vér és vérkészítmény kivételével – külföldre, illetve külföldről a Magyar Köztársaság területére történő szállításáról rendelkező nem államközi, illetve nem kormányközi egyezmény vagy megállapodás érvényességének feltétele az egészségügyi államigazgatási szerv egyetértése. Az egészségügyi államigazgatási szerv az egyetértést megtagadja, ha megállapítható, hogy az egyezmény vagy megállapodás haszonszerzésre irányul. Az egészségügyi államigazgatási szerv határozata ellen fellebbezésnek helye nincs. A nem államközi, illetve nem kormányközi egyezményekről vagy megállapodásokról a magyar szerződő fél bejelentése alapján az egészségügyi államigazgatási szerv nyilvántartást vezet.
+(7) Szerv, szövet – a vér és vérkészítmény kivételével – külföldre, illetve külföldről Magyarország területére történő szállításáról rendelkező nem államközi, illetve nem kormányközi egyezmény vagy megállapodás érvényességének feltétele – kivéve az állami vérellátó szolgálat által megkötött egyezményt vagy megállapodást – az egészségügyi államigazgatási szerv egyetértése. Az egészségügyi államigazgatási szerv az egyetértést megtagadja, ha megállapítható, hogy az egyezmény vagy megállapodás haszonszerzésre irányul. Az egészségügyi államigazgatási szerv határozata ellen fellebbezésnek helye nincs. A nem államközi, illetve nem kormányközi egyezményekről vagy megállapodásokról a magyar szerződő fél bejelentése alapján az egészségügyi államigazgatási szerv nyilvántartást vezet.
 
 (8) Nem magyar állampolgár halála esetén az állampolgársága szerinti állam konzulját haladéktalanul értesíteni kell.
 
 (9) Külföldön történt katasztrófa esetén az egészségügyi ellátásban való közreműködés illetve a nemzetközi járványügyi együttműködés nemzetközi egyezmény vagy viszonosság alapján történik.
 
-(10) A haemopoetikus őssejtet tartalmazó köldökvérnek a Magyar Köztársaság területéről külföldre történő szállításának feltétele, hogy a köldökvér külföldre szállítását és külföldön történő feldolgozását, tárolását végző szervezet, a külön jogszabály szerinti engedélyezési eljárás során a külföldi hatóság e tevékenységekre vonatkozó engedélyét bemutassa, illetve hitelt érdemlő módon igazolja, hogy e tevékenységek végzésére az annak helye szerinti államban jogosult.
+(10) A haemopoetikus őssejtet tartalmazó köldökvérnek Magyarország területéről külföldre történő szállításának feltétele, hogy a köldökvér külföldre szállítását és külföldön történő feldolgozását, tárolását végző szervezet, a külön jogszabály szerinti engedélyezési eljárás során a külföldi hatóság e tevékenységekre vonatkozó engedélyét bemutassa, illetve hitelt érdemlő módon igazolja, hogy e tevékenységek végzésére az annak helye szerinti államban jogosult.
 
 (11) Nem tekinthető a (7) bekezdés szerint haszonszerzésnek – az átültetéssel összefüggésben végzett – jogszerű orvosi vagy kapcsolódó technikai szolgáltatások igazolható díja.
 
@@ -3317,6 +3348,10 @@ céljából lehet külföldre, illetve külföldről a Magyar Köztársaság ter
 (6) Az R. szerinti, a szakképzéssel összefüggő támogatások folyósításának feltétele, hogy a felsőoktatási intézmények – a (4) bekezdés szerinti időpontot követően – havonta elektronikus úton tájékoztatást adjanak az egészségügyi államigazgatási szervnek a szakorvosjelöltnek a 116/A. § (5) bekezdés d) pontja szerinti adatairól.
 
 (7) Az R. rendelkezései szerint a szakképzésben szakgyakorlati idejüket töltő személyek esetében a felsőoktatási intézmény – a (4) bekezdés szerinti időpontot követően – az egészségügyi felsőfokú szakirányú szakképzés képzési követelményeit meghatározó jogszabály szerinti részelemeinek teljesítéséről legkésőbb 15 napon belül elektronikus úton tájékoztatja az egészségügyi államigazgatási szervet.
+
+244/B. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel (a továbbiakban: Módosító tv.) megállapított 146. § (1) bekezdésében meghatározott térségi egészségügyi fejlesztési programot 2012. december 31-éig kell elkészíteni.
+
+(2) A Módosító tv.-nyel megállapított 148. § (1) bekezdés szerint létrehozásra kerülő Térségi Egészségügyi Tanácsot 2012. május 1-jétől kell működtetni.
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 
@@ -3339,15 +3374,15 @@ rendeletben kijelölje.
 
 - a) az ellátás visszautasítására vonatkozó részletes szabályokat megállapítsa,
 - b) az egészségügyi szolgáltatás megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra vonatkozó szabályokat,
-- c)
+- c) a meghatározott időtartamra és helyszínre szóló, egészségügyi tevékenységre jogosító engedély kérelmezésének és kiadásának szabályait, valamint a bejelentés alapján végezhető egészségügyi tevékenységekre vonatkozó bejelentés megtételére, valamint – személyes adatokat nem tartalmazó – kötelező adattartalmára, továbbá a bejelentett személyek nyilvántartásba vételére vonatkozó rendelkezéseket
 - d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, illetőleg külföldre történő kivitelére vonatkozó szabályokat,
-- e) a katasztrófa-egészségügyi ellátásra vonatkozó részletes szabályokat,
+- e) a katasztrófa-egészségügyi ellátásra vonatkozó részletes szabályokat, a Kormány 232/B. § szerinti feladat- és hatásköreit, az egészségügyi védelmi bizottság összetételére, feladat- és hatáskörére, illetékességére vonatkozó szabályokat,
 - f) az egészségügyi szolgáltatók felelősségbiztosítására vonatkozó részletes szabályokat,
 - g) az ellátást nyújtó orvos megválasztására vonatkozó szabályokat,
 - h) a nem-konvencionális eljárásokra vonatkozó szabályokat
 - i) az állami mentőszolgálat vagy mentőszolgálatok kijelölését és az állami mentőszolgálat működésére vonatkozó részletes szabályokat,
 - j) az állami vérellátó szolgálat vagy szolgálatok kijelölését és az állami vérellátó szolgálat működésére vonatkozó részletes szabályokat,
-- k)
+- k) a betegjogi képviselőt foglalkoztató, az egészségügyi dokumentációt kezelő és a betegjogok érvényesülését elősegítő szervet kijelölje, valamint jogállását, feladat- és hatáskörét,
 - l) a külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt kiadó szervet,
 - m) az egészségügyi felsőfokú szakirányú szakképzés szabályait,
 - n) a nem az Etv. 28. §-a szerinti tagállamban egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képesítést tanúsító oklevelek, bizonyítványok elismerése során eljáró hatóságot,
@@ -3397,21 +3432,21 @@ rendeletben megállapítsa.
   - ie) az egészségügyi szakmai továbbképzés részletes szabályait és
   - if) az egészségügyi szakirányú szakmai továbbképzés részletes szabályait
 - j) az Egészségügyi Szakképzési és Továbbképzési Tanács szervezetére, működésére, feladat- és hatáskörére vonatkozó részletes szabályokat,
-- k) az orvostechnikai eszközökkel összefüggésben
-  - ka) az orvostechnikai eszközök minőségi követelményeire,
+- k) az orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökkel összefüggésben
+  - ka) az orvostechnikai eszközök alapvető követelményeire,
   - kb) az orvostechnikai eszközökkel kapcsolatos minőségi rendszer szakmai tartalmára,
   - kc) a megfelelőségértékelési eljárásokra,
   - kd) a megfelelőségi jelölésre,
   - ke) az osztályba sorolásra,
   - kf) a forgalomba hozatalra,
   - kg) a kijelölt szervezetekre és azok eljárására,
-  - kh) a klinikai vizsgálatra,
+  - kh) a klinikai vizsgálatra, valamint az in vitro diagnosztika orvostechnikai eszközök esetén a teljesítőképesség értékelésére,
   - ki) a nyilvántartásba vételre,
   - kj) az eszközkészletekre és a több eszközből álló rendszerekre vonatkozó eljárásra és sterilizálási eljárásra,
-  - kk) a forgalomba hozatalt követő váratlan események, balesetek bejelentésére,
-  - kl) a hatósági ellenőrző eljárásokra, a közegészségügyi előírások betartása érdekében szükséges intézkedésekre,
-  - km) a gyártással, forgalomba hozatallal, alkalmazással, klinikai vizsgálatokkal kapcsolatos eljárásokkal kapcsolatos kötelezettségek megszegésének jogkövetkezményeire,
-  - kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, az időszakos felülvizsgálatra, az adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
+  - kk) a forgalomba hozatalt követő váratlan események, balesetek bejelentésére, balesetfelelős kijelölésére,
+  - kl) a piacfelügyeleti eljárásokra, a közegészségügyi előírások betartása érdekében szükséges intézkedésekre,
+  - km) a gyártási, forgalomba hozatali, alkalmazási, klinikai vizsgálati, nyilvántartásba vételi, időszakos felülvizsgálati eljárásokkal kapcsolatos kötelezettségek megszegésének jogkövetkezményeire,
+  - kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
 - l)
 - m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégiumok és országos intézetek feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 - n) a kórházi felügyelő tanács és a kórházi etikai bizottság szervezetére és működésére vonatkozó részletes szabályokat,
@@ -3473,6 +3508,9 @@ rendeletben állapítsa meg.
 - a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
 - b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
 - c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
-- d)–i)
+- d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
+- e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
+- f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (3) és (4) bekezdések, 107n. cikk (2) bekezdés;
+- g)–i)
 - j) a Tanács 1996. május 13-i 96/29/EURATOM irányelve a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról,
 - k) az Európai Parlament és a Tanács 2004/38/EK irányelve az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.

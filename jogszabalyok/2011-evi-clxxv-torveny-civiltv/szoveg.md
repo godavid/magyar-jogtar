@@ -66,27 +66,102 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 ### I. Fejezet — AZ EGYESÜLÉSI JOG ALAPJÁN LÉTREJÖTT SZERVEZETEK
 
-#### 3–8. §
+3. § (1) Az egyesülési jog mindenkit megillető alapvető szabadságjog, amelynek alapján mindenkinek joga van ahhoz, hogy másokkal szervezeteket, illetve közösségeket hozzon létre vagy azokhoz csatlakozzon.
+
+(2) Az egyesülési jog alapján a természetes személyek, valamint tevékenységük célja és alapítóik szándéka szerint a jogi személyek, valamint ezek jogi személyiséggel nem rendelkező szervezetei szervezeteket hozhatnak létre és működtethetnek.
+
+(3) Az egyesülési jog gyakorlása nem sértheti az Alaptörvény C) cikk (2) bekezdését, nem valósíthat meg bűncselekményt vagy bűncselekmény elkövetésére való felhívást, valamint nem járhat mások jogainak és szabadságának sérelmével.
+
+(4) Az egyesülési jog alapján szervezet minden olyan tevékenység végzése céljából alapítható, amely összhangban áll az Alaptörvénnyel, és amelyet törvény nem tilt.
+
+(5) Az egyesülési jog alapján fegyveres szervezet nem hozható létre, valamint törvény alapján kizárólag állami szerv saját hatáskörében ellátható közfeladat megvalósítására irányuló tevékenység nem végezhető.
+
+4. § (1) Az egyesület az egyesülési jog alapján létrehozott szervezet, amelynek különös formáira: a szövetségre, a pártra, a szakszervezetre, továbbá a külön törvény hatálya alá tartozó tevékenységet végző egyesületekre törvény az egyesületre vonatkozó rendelkezésektől eltérő szabályokat állapíthat meg. A különös formában működő egyesület elnevezésének tartalmaznia kell a különös forma megnevezését.
+
+(2) Az egyesület jogi személy, amely a nyilvántartásba vétellel jön létre.
+
+(3) Az egyesület szövetség, ha tagjai között legalább két jogi személy vagy jogi személyiséggel nem rendelkező szervezet van.
+
+(4) Ha az egyesület olyan tevékenységet végez, amelyet jogszabály engedélyhez (feltételhez) köt vagy egyébként szabályoz, e tevékenység felett a tevékenység szerinti hatáskörrel rendelkező állami szerv a hatósági ellenőrzésre irányadó szabályok alkalmazásával felügyeletet gyakorol.
+
+5. § Nem minősül egyesületnek a természetes személyeknek az egyesülési jog alapján létrehozott olyan közössége, amelynek működése nem rendszeres, vagy nincs nyilvántartott tagsága vagy az egyesületre vonatkozó rendelkezésekben meghatározott szervezete.
+
+6. § Az egyesület alapszabálya vagy törvény eltérő rendelkezése hiányában a megszűnt egyesületnek a hitelezői igények kielégítése után megmaradt vagyona a civil szervezetek támogatására való felhasználás céljából a Nemzeti Együttműködési Alapot illeti meg. A vagyon felhasználásának módját a Civil Információs Portálon nyilvánosságra kell hozni.
+
+7. § A Magyar Honvédség és a rendvédelmi szervek tagjaira vonatkozóan az egyesülési jog gyakorlásának feltételeit és módját törvény állapítja meg.
+
+8. § (1) Minden egyesület saját maga rendelkezik nevével, címerével, logójával és minden a nevéhez kapcsolódó joggal, különös tekintettel a hirdetési, reklám és a tevékenység televíziós, rádiós valamint egyéb elektronikus technikákkal történő közvetítésével kapcsolatos jogokra.
+
+(2) Az egyesület az (1) bekezdés szerinti hirdetési, reklám, illetve közvetítési jogokkal kapcsolatosan egy évnél hosszabb időre szerződést csak a legfőbb szerv külön felhatalmazása alapján köthet.
+
+(3) A (2) bekezdés szerinti, határozatlan vagy egy évnél hosszabb időre kötött szerződés megkötésétől számítva évente a legfőbb szerv újabb felhatalmazása hiányában hatályát veszti. Ezen rendelkezést az (1) bekezdés szerinti szerződésben szerepeltetni kell.
 
 ### II. Fejezet — A CIVIL SZERVEZETEK CSŐD-, FELSZÁMOLÁSI ÉS VÉGELSZÁMOLÁSI ELJÁRÁSA
 
-#### 9–10. §
+9. § (1) A civil szervezet végelszámolására – törvény eltérő rendelkezése hiányában – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) rendelkezéseit az e törvényben szabályozott eltérésekkel kell alkalmazni.
+
+(2) A civil szervezet végelszámolására irányuló kérelmet a végelszámoló által aláírt papír alapú, illetve a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvényben elektronikus útra kötelezett civil szervezetek esetén elektronikus nyomtatványon kell előterjeszteni. A végelszámolással összefüggő nemperes eljárásokban a civil szervezet székhelye szerinti törvényszék jár el.
+
+(3) A végelszámoló a végelszámolás iránti kérelemben köteles bejelenteni a végelszámolás megindítását elrendelő határozat keltét, a végelszámolás kezdő időpontját, a végelszámoló nevét (cégnevét) és lakóhelyét (székhelyét), ha a végelszámoló nem természetes személy, akkor a cégjegyzékszámát és a megbízásából eljáró természetes személy nevét és lakóhelyét, valamint a civil szervezet ügyintéző és képviseleti szerve jogviszonyának megszűnését. A bíróság a végelszámolás megindításáról végzést hoz, melynek közzétételéről a bíróság a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvényben meghatározott nyilvántartás útján gondoskodik. A végelszámolás elrendelésekor a nyilvántartásban a „v.a.” toldatot fel kell tüntetni.
+
+(4) A civil szervezetek vonatkozásában egyszerűsített végelszámolási eljárás lefolytatásának nincs helye.
+
+(5) A végelszámolás (kényszer-végelszámolás) közzétételét követően a civil szervezetnek haladéktalanul el kell különítenie az eljárás költségeinek fedezetét.
+
+(6) A Ptk. 64. § (1) bekezdés b) pontja alapján indult végelszámolás során az egyesület legfőbb szerve dönthet a továbbműködésről, amely esetben – a végelszámolási eljárás már felmerült költségeinek megtérítése mellett – a bíróság megszünteti az eljárást és törli a nyilvántartásból a toldatot.
+
+(7) Az alapítványt a Ptk. 74/E. §-ban meghatározott esetekben kényszer-végelszámolási eljárás lefolytatását követően a bíróság törli a nyilvántartásból.
+
+(8) A (7) bekezdésben foglaltaktól eltérően a Ptk. 74/E. § (1) és (3) bekezdés második mondatában foglalt esetben lehetőség van végelszámolási eljárás lefolytatására. Az alapítvány végelszámolása esetén a végelszámolási eljárást megelőzi a bíróság által az alapító kérelmére lefolytatott nemperes eljárás, amelyben a bíróság megállapítja, hogy a Ptk. 74/E. § (1) vagy (3) bekezdés második mondatában meghatározott feltétel fennáll-e. A nyilvántartást vezető szerv a fenti feltétel bekövetkezéséről, vagy fenn nem állásáról végzést hoz, melyben határoz az alapítvány nyilvántartásból való törléséről, vagy megszüntetéséről, egyben tájékoztatja ezen körülményről a törvényességi ellenőrzési jogkört ellátó ügyészséget, és felhívja az alapítványt arra, hogy a végzés kézhezvételét követő harminc napon belül kezdeményezze az alapítvány végelszámolással történő megszüntetését. Az alapítvány végelszámolása esetén a Ctv. 112. § (4) bekezdésben meghatározottakon túl a kérelemhez csatolni kell a Ptk. 74/E. § (1) vagy (3) bekezdésében meghatározott feltétel bekövetkezését megállapító végzést.
+
+10. § (1) Civil szervezetre – törvény eltérő rendelkezése hiányában – a csődeljárásról és a felszámolási eljárásról szóló törvényt (a továbbiakban: Cstv.) a (2)–(7) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(2) Ahol a Cstv. a gazdálkodó szervezet vezetőjét említi, azon az egyesület ügyintéző és képviselő szervét, valamint az alapítvány kezelő szervét kell érteni. Ahol a Cstv. Cégközlönyt említ, ott a civil szervezetek vonatkozásában a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvényben meghatározott nyilvántartását kell érteni. Ahol a Cstv. az adós cégjegyzékszámát említi, ott a civil szervezet nyilvántartási számát kell érteni.
+
+(3) A Cstv. 27. § (2) bekezdés a) pontjában meghatározottak helyett a bíróság a civil szervezet fizetésképtelenségét akkor állapítja meg, ha a civil szervezet szerződésen alapuló nem vitatott vagy elismert tartozását a teljesítési idő lejártát követő hatvan napon belül sem egyenlítette ki vagy nem vitatta, és az ezt követő hitelezői írásbeli fizetési felszólítására sem teljesítette. Fizetésképtelenség nem állapítható meg, ha a civil szervezet nem vitatott vagy elismert tartozását meghaladóan állami vagy önkormányzati szerv felé nem vitatott vagy elismert követelése áll fenn költségvetési támogatási jogviszony keretében.
+
+(4) A csőd- vagy felszámolási eljárás elrendelésekor a civil szervezet köteles haladéktalanul elkülöníteni az eljárás dologi és személyi ráfordításait fedező összeget.
+
+(5) A Cstv. 27. § (2) bekezdés a) és b) pontja szerinti esetekben a bíróság a civil szervezet kérelmére a Cstv. 26. § (3) bekezdésének alkalmazása helyett legfeljebb kilencven napos fizetési haladékot adhat, és egyben reorganizációs terv készítését rendeli el. A bíróság a fizetésképtelenséget megállapítja, ha a civil szervezet a határidő leteltekor a reorganizációs tervet nem nyújtja be, vagy ahhoz nem csatolja a hitelezőkkel kötött megállapodást az adósságok rendezéséről, továbbá a vagyonhiány és forráshiány megszüntetésére a civil szervezet legfőbb szerve által hozott döntéseket.
+
+(6) A fizetésképtelenség megállapításának a (4) bekezdés szerinti időtartamú halasztására legfeljebb háromévenként, de egy eljárásban egy alkalommal kerülhet sor.
+
+(7) Civil szervezet csődeljárása vagy felszámolása esetén a „cs.a” vagy a „f.a.” toldatot, a csődeljárás megindítását, a csődeljárás elrendelését, a felszámolási eljárás elrendelését és az említett eljárások jogerős befejezését a nyilvántartásban is fel kell tüntetni. A nyilvántartásba be kell jegyezni az eljárás nevét, kezdő, illetve befejező időpontját, továbbá a vagyonfelügyelőre vagy felszámolóra vonatkozó adatokat (név, székhely, lakóhely, levelezési cím).
 
 ### III. Fejezet — A CIVIL SZERVEZETEK FELETTI TÖRVÉNYESSÉGI ELLENŐRZÉS
 
 #### 3. Az ügyész és a bíróság intézkedései
 
-#### 11. §
+11. § (1) A civil szervezet működése felett az ügyészség – az e törvényben, valamint a Ptk.-ban meghatározott eltérésekkel – az ügyészségről szóló törvény rendelkezései szerint törvényességi ellenőrzést gyakorol. A törvényességi ellenőrzés nem terjed ki az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+
+(2) A törvényességi ellenőrzést gyakorló ügyész ellenőrzi, hogy a civil szervezet
+
+- a) belső (önkormányzati) szabályzatai, illetve azok módosításai megfelelnek-e a jogszabályoknak és a létesítő okiratnak,
+- b) működése, határozatai, a legfőbb szerv döntései megfelelnek-e a jogszabályoknak, a létesítő okiratnak vagy az egyéb belső (önkormányzati) szabályzatoknak.
+
+(3) Ha a civil szervezet működésének törvényessége másképpen nem biztosítható, az ügyész törvényességi ellenőrzési jogkörében eljárva keresettel a bírósághoz fordulhat. A bíróság a keresetet megvizsgálja és szükség esetén
+
+- a) megsemmisíti a civil szervezet bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el,
+- b) a működés törvényességének helyreállítása érdekében összehívja a legfőbb szervet, vagy határidő tűzésével a törvényes működés helyreállítására kötelezi a legfőbb szervet, és minderről értesíti a civil szervezetnél választott felügyelő szervet is,
+- c) ha a törvényes működés nem állítható helyre vagy a b) pont szerinti határidő eredménytelenül telt el, a civil szervezetet megszünteti.
+
+(4) A bíróság az ügyész keresete alapján feloszlatja az egyesületet, ha annak működése vagy tevékenysége a 3. § (3) bekezdésébe ütközik.
+
+(5) A bíróság az ügyész keresete alapján megállapítja az egyesület megszűnését, ha az legalább egy éve nem működik, vagy tagjainak száma a Ptk. 61. § (3) bekezdésében meghatározott legkisebb létszám alá csökken.
+
+(6) A civil szervezet – feloszlatása, megszüntetése vagy megszűnésének megállapítása esetén – a nyilvántartásból való törlésről rendelkező bírósági határozat jogerőre emelkedésének napjával szűnik meg.
+
+(7) Az ügyész a civil szervezet szervének törvénysértő határozatának megsemmisítésére a (3) bekezdés a) pontja szerinti keresetlevelet a határozat meghozatalától számított egy éven belül nyújthatja be.
 
 #### 4. Jogorvoslat az ügyész intézkedései ellen
 
-#### 12. §
+12. § Az ügyész törvénysértő intézkedései ellen az ügyészségről szóló törvény szerint kifogásnak van helye.
 
 ### IV. Fejezet — CIVIL SZERVEZETEK NYILVÁNTARTÁSA
 
 #### 5. A nyilvántartás vezetése és kezelése
 
-13. § (1)
+13. § (1) A civil szervezetet – a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény rendelkezései szerint eljárva – a törvényszék veszi nyilvántartásba.
 
 (2)
 
@@ -94,51 +169,282 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 #### 6. Civil Információs Portál
 
-14. § (1)
+14. § (1) A társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter (továbbiakban: miniszter) a civil szervezetekkel kapcsolatos nyilvános, közérdekből nyilvános információk gyűjtése, rendszerezése és közzététele, illetve ezzel összefüggésben a kérelemre történő adatszolgáltatás biztosítása céljából akadálymentes honlapot működtet (továbbiakban: Civil Információs Portál).
 
 (2)
 
 #### 7. A nyilvántartáshoz való hozzáférés
 
-#### 15–16. §
+15. § (1) A civil szervezet nyilvántartásba bejegyzett adatai – ideértve a törölt adatokat is – nyilvánosak.
+
+(2) Az egyesület, alapítvány bírósághoz benyújtott iratai, ideértve a még el nem bírált kérelmet és mellékleteit is, – a (3) bekezdésben meghatározott kivétellel – nyilvánosak, azokat bárki megtekintheti, és azokról feljegyzést készíthet.
+
+(3) Az egyesület alakuló ülésének jelenléti íve, valamint az egyesület tagnyilvántartása nem nyilvános.
+
+(4) A törvényességi ellenőrzési eljárás keretében az ügyészség teljes körű iratbetekintésre jogosult.
+
+16. § Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók és azokból, személyazonosításra alkalmatlan módon, statisztikai adatok szolgáltathatók.
 
 ### V. Fejezet — A CIVIL SZERVEZET GAZDÁLKODÁSA
 
 #### 8. A gazdálkodás általános szabályai
 
-#### 17–23. §
+17. § (1) A civil szervezet a létesítő okiratában meghatározott cél megvalósítása érdekében vagyonával önállóan gazdálkodik, civil szervezet elsődlegesen gazdasági-vállalkozási tevékenység folytatására nem alapítható.
+
+(2) A civil szervezet tartozásaiért saját vagyonával felel. A civil szervezet alapítója, tagja – a vagyoni hozzájárulásának megfizetésén túl – a szervezet tartozásaiért saját vagyonával nem felel.
+
+(3) A civil szervezet a létesítő okiratban meghatározott cél szerinti tevékenységet (a továbbiakban: alapcél szerinti tevékenység) – közhasznú szervezet esetében, ideértve a közhasznú tevékenységet is – folytathat és – célja megvalósítása gazdasági feltételeinek biztosítása érdekében – gazdasági-vállalkozási tevékenységet is végezhet, amennyiben ez az alapcél szerinti tevékenységét nem veszélyezteti.
+
+(4) A civil szervezet csak olyan módon vehet fel hitelt és vállalhat kötelezettséget, amely nem veszélyezteti az alapcél szerinti tevékenységének ellátását és működésének fenntartását.
+
+18. § (1) A civil szervezet
+
+- a) alapcél szerinti (közhasznú), és
+- b) gazdasági-vállalkozási
+
+tevékenységet folytathat.
+
+(2) A civil szervezet vagyonát a 17. § (3) bekezdése szerint folytatott gazdasági-vállalkozási tevékenység eredménye is gyarapíthatja.
+
+19. § (1) A civil szervezet bevételei:
+
+- a) egyesület esetében tagdíj, alapítvány esetében alapítótól kapott befizetés, valamint az alapító által az alapítvány rendelkezésére bocsátott vagyon;
+- b) gazdasági-vállalkozási tevékenységből (szolgáltatás nyújtásából) származó bevétel;
+- c) a költségvetési támogatás:
+  - ca) a pályázat útján, valamint egyedi döntéssel kapott költségvetési támogatás;
+  - cb) az Európai Unió strukturális alapjaiból, illetve a Kohéziós Alapból származó, a költségvetésből juttatott támogatás;
+  - cc) az Európai Unió költségvetéséből vagy más államtól, nemzetközi szervezettől származó támogatás;
+  - cd) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerint kiutalt összege;
+- d) az államháztartás alrendszereiből közszolgáltatási szerződés ellenértékeként szerzett bevétel;
+- e) más szervezettől, illetve magánszemélytől kapott adomány;
+- f) befektetési tevékenységből származó bevétel;
+- g) az a)–f) pontok alá nem tartozó egyéb bevétel.
+
+(2) A civil szervezet költségei, ráfordításai (kiadásai):
+
+- a) alapcél szerinti (közhasznú) tevékenységhez közvetlenül kapcsolódó költségek;
+- b) gazdasági vállalkozási tevékenységhez (szolgáltatás nyújtásához) közvetlenül kapcsolódó költségek;
+- c) a civil szervezet szerveinek, szervezetének működési költségei (ideértve az adminisztráció költségeit és az egyéb felmerült közvetett költségeket), valamint a több tevékenységhez használt immateriális javak és tárgyi eszközök értékcsökkenési leírása;
+- d) az a)–c) pontok alá nem tartozó egyéb költség.
+
+20. § A civil szervezet bevételeit a 19. § (1) bekezdés szerinti részletezésben, költségeit ráfordításait (kiadásait) a 19. § (2) bekezdés szerinti részletezésben elkülönítetten, a számviteli előírások szerint tartja nyilván.
+
+21. § A civil szervezet 19. § (2) bekezdés c) és d) pontja szerinti költségeit, ráfordításait (kiadásait) alapcél szerinti tevékenység és a gazdasági-vállalkozási tevékenység, továbbá közhasznú jogállás esetén a közhasznú tevékenység között az előzőekben felsorolt tevékenységek árbevételének (bevételének) arányában kell évente megosztani.
+
+22. § (1) A civil szervezet a gazdasági-vállalkozási tevékenységgel összefüggő immateriális javak és a tárgyi eszközök értékcsökkenési leírását társasági adó alapjának meghatározásakor a társasági adóról és az osztalékadóról szóló törvény szerint veheti figyelembe.
+
+(2) A civil szervezet működése során az induló tőke (törzsvagyon) kezelésére a létesítő okirat rendelkezései az irányadóak.
+
+23. § Ha valamely évre vonatkozóan megállapítható, hogy a civil szervezet elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősült, az adóhatóság a civil szervezettel szemben törvényességi ellenőrzési eljárást kezdeményez.
 
 #### 9. Az adománygyűjtés szabályai
 
-#### 24–26. §
+24. § Civil szervezet javára adománygyűjtő tevékenység folytatható.
+
+25. § (1) A civil szervezet nevében vagy javára történő adománygyűjtés nem járhat az adományozók, illetve más személyek zavarásával, a személyhez fűződő jogok és az emberi méltóság sérelmével.
+
+(2) A civil szervezet nevében vagy javára történő adománygyűjtés csak a civil szervezet írásbeli meghatalmazása alapján végezhető.
+
+26. § A civil szervezet részére juttatott adományokat az adományozó nyilvántartásába beállított könyv szerinti, ennek hiányában a szokásos piaci áron kell nyilvántartásba venni.
 
 ### VI. Fejezet — CIVIL SZERVEZETEK KÖNYVVEZETÉSÉNEK, BESZÁMOLÁSI RENDJÉNEK SZABÁLYAI
 
 #### 10. A könyvvezetés nyilvántartási szabályai
 
-#### 27. §
+27. § (1) A civil szervezetnek az alapcél szerinti (ezen belül közhasznú) tevékenységéből, illetve a gazdasági-vállalkozási tevékenységéből származó bevételeit és költségeit, ráfordításait (kiadásait) elkülönítetten kell nyilvántartani.
+
+(2) A civil szervezet nyilvántartásaira egyebekben a reá irányadó könyvvezetési szabályokat kell alkalmazni, azzal, hogy közhasznú jogállású szervezet kizárólag kettős könyvvitelt vezethet.
 
 #### 11. A beszámolási szabályok
 
-#### 28–30. §
+28. § (1) A civil szervezet a működéséről, vagyoni, pénzügyi és jövedelmi helyzetéről az üzleti év könyveinek lezárását követően az üzleti év utolsó napjával, illetve a megszűnés napjával mint mérlegfordulónappal a jogszabályban meghatározottak szerint köteles beszámolót készíteni.
+
+(2) Civil szervezet esetében az üzleti év azonos a naptári évvel. Az üzleti év az év közben alakuló, illetve megszűnő szervezetek esetében a megalakulás, illetve megszűnés évében tér el a naptári évtől. A mérleg fordulónapja – a megszűnést kivéve – december 31.
+
+(3) A beszámoló formáját a civil szervezet által folytatott tevékenység, az éves összes bevétel (az alaptevékenység és a gazdasági-vállalkozási tevékenység összes bevételének) nagysága, valamint a könyvvezetés módja határozza meg.
+
+29. § (1) A civil szervezet könyvvezetése – a beszámolási kötelezettség függvényében – az egyszeres vagy a kettős könyvvitel rendszerében, magyar nyelven, forintban történhet.
+
+(2) A civil szervezet beszámolója tartalmazza:
+
+- a) a mérleget (egyszerűsített mérleget),
+- b) az eredménykimutatást (eredménylevezetést),
+- c) kettős könyvvitel esetében a kiegészítő mellékletet.
+
+(3) A civil szervezet köteles a beszámolójával egyidejűleg közhasznúsági mellékletet is készíteni.
+
+(4) A kettős könyvvitelt vezető közhasznú szervezet kiegészítő mellékletében be kell mutatni a támogatási program keretében végleges jelleggel felhasznált összegeket támogatásonként. Támogatási program alatt a központi, az önkormányzati és/vagy nemzetközi forrásból, illetve más gazdálkodótól kapott, a tevékenység fenntartását, fejlesztését célzó támogatást, adományt kell érteni. Külön kell megadni a kiegészítő mellékletben a támogatási program keretében kapott visszatérítendő (kötelezettségként kimutatott) támogatásra vonatkozó, előbbiekben részletezett adatokat.
+
+(5) A kettős könyvvitelt vezető közhasznú szervezet kiegészítő mellékletében be kell mutatni a szervezet által az üzleti évben végzett főbb tevékenységeket és programokat.
+
+(6) A közhasznúsági mellékletben be kell mutatni a szervezet által végzett közhasznú tevékenységeket, ezen tevékenységek fő célcsoportjait és eredményeit, valamint a közhasznú jogállás megállapításához szükséges 32. § szerinti adatokat, mutatókat.
+
+(7) A közhasznúsági melléklet tartalmazza a vagyon felhasználásával kapcsolatos kimutatást, a közhasznú cél szerinti juttatások kimutatását, a vezető tisztségviselőinek nyújtott juttatások összegét és a juttatásban részesülő vezető tisztségek felsorolását.
+
+30. § (1) A civil szervezet köteles a jóváhagyásra jogosult testület által elfogadott beszámolóját, valamint közhasznúsági mellékletét – kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt – az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig letétbe helyezni és közzétenni, kötelező könyvvizsgálat esetén ugyanolyan formában és tartalommal, mint amelynek alapján a könyvvizsgáló a beszámolót felülvizsgálta.
+
+(2) A civil szervezet az (1) bekezdés szerinti kötelezettségének a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvényben meghatározott módon tesz eleget.
+
+(3) A letétbe helyezett beszámolót, valamint közhasznúsági mellékletet a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvényben meghatározott módon kell közzétenni, valamint adatainak lekérdezését a Civil Információs Portál számára lehetővé kell tenni.
+
+(4) Ha a civil szervezet saját honlappal rendelkezik, a közzétételi kötelezettség kiterjed a beszámoló, valamint közhasznúsági melléklet saját honlapon történő elhelyezésére is. A civil szervezet a saját honlapon közzétett adatok folyamatos megtekinthetőségét legalább a közzétételt követő második üzleti évre vonatkozó adatok közzétételéig biztosítja.
+
+(5) Ha a civil szervezet a beszámolóval, valamint közhasznúsági melléklettel kapcsolatos (1)–(3) bekezdés szerinti kötelezettségét elmulasztja és azt egy éven belül nem pótolja, a bíróság törvényességi ellenőrzési eljárás lefolytatása céljából értesíti az ügyészséget.
+
+(6) A civil szervezet beszámolójára egyebekben a számvitelről szóló törvény, valamint az annak felhatalmazása alapján kiadott kormányrendelet előírásait kell alkalmazni.
 
 ### VII. Fejezet — A KÖZHASZNÚ JOGÁLLÁS
 
 #### 12. A közhasznú jogállás megszerzésének feltételei
 
-#### 31–36. §
+31. § E fejezet rendelkezéseinek alkalmazása során a 32. § (1) bekezdés b) pontja szerinti szervezetek esetében a rájuk irányadó jogszabály szerinti szervet kell érteni a szervezet legfőbb szerve, ügyintéző és képviseleti szerve alatt. E szervezetek esetében a közhasznú jogállást a szervezet nyilvántartására illetékes szerv állapítja meg és jegyzi be a nyilvántartásba.
+
+32. § (1) Közhasznú szervezetté minősíthető a Magyarországon nyilvántartásba vett – létesítő okiratában megjelölt közfeladat teljesítésére irányuló – közhasznú tevékenységet végző szervezet, amely a társadalom és az egyén közös szükségleteinek kielégítéséhez megfelelő erőforrásokkal rendelkezik, továbbá amelynek megfelelő társadalmi támogatottsága kimutatható, és amely:
+
+- a) civil szervezet (ide nem értve a civil társaságot), vagy
+- b) olyan egyéb szervezet, amelyre vonatkozóan a közhasznú jogállás megszerzését törvény lehetővé teszi.
+
+(2) Törvény az (1) bekezdéstől eltérően megállapíthatja valamely szervezet közhasznú jogállását.
+
+(3) A közhasznú tevékenységet végző szervezet hozzájárul a társadalom és az egyén közös szükségleteinek kielégítéséhez, amennyiben az előző évről szóló beszámoló közhasznúsági melléklete célcsoportra vonatkozó adatai alapján a szervezet szolgáltatásai a szervezet testületi tagjain, munkavállalóin, önkéntesein kívül más személyek számára is hozzáférhetőek.
+
+(4) Megfelelő erőforrás áll az (1) bekezdés szerinti szervezet rendelkezésére, ha az előző két lezárt üzleti év vonatkozásában a következő feltételek közül legalább egy teljesül:
+
+- a) az átlagos éves bevétele meghaladja az egymillió forintot, vagy
+- b) a két év egybeszámított adózott eredménye (tárgyévi eredménye) nem negatív, vagy
+- c) a személyi jellegű ráfordításai (kiadásai) – a vezető tisztségviselők juttatásainak figyelembevétele nélkül – eléri az összes ráfordítás (kiadás) egynegyedét.
+
+(5) Megfelelő társadalmi támogatottság mutatható ki az (1) bekezdés szerinti szervezetnél, ha az előző két lezárt üzleti éve vonatkozásában a következő feltételek közül legalább egy teljesül:
+
+- a) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerint a szervezetnek felajánlott összegből kiutalt összeg eléri az 54. § szerinti bevétel nélkül számított összes bevétel kettő százalékát, vagy
+- b) a közhasznú tevékenység érdekében felmerült költségek, ráfordítások elérik az összes ráfordítás felét a két év átlagában, vagy
+- c) közhasznú tevékenységének ellátását tartósan (két év átlagában) legalább tíz közérdekű önkéntes tevékenységet végző személy segíti a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvénynek megfelelően.
+
+(6) A beszámoló adatai alapján minden letétbe helyezés alkalmával a közhasznú jogállás nyilvántartásba vételére illetékes szerv megvizsgálja az (1) bekezdés szerinti feltételek teljesülését. Ha az (1) bekezdés szerinti feltételek nem teljesülnek, a szervezet közhasznú jogállását a bíróság megszünteti és az erre vonatkozó adatot a nyilvántartásból törli.
+
+33. § A közhasznú szervezetté minősíthető szervezet közhasznú jogállását a közhasznú szervezetként való nyilvántartásba vétellel szerzi meg (a továbbiakban: közhasznúsági nyilvántartásba vétel).
+
+34. § (1) A közhasznúsági nyilvántartásba vételhez a szervezet létesítő okiratának tartalmaznia kell, hogy a szervezet
+
+- a) milyen közhasznú tevékenység(ek)et folytat, e közhasznú tevékenység(ek)et mely közfeladat(ok)hoz kapcsolódóan végzi, továbbá hogy e közfeladat(ok) teljesítését mely jogszabályhely(ek) írja (írják) elő, valamint – ha tagsággal rendelkezik – nem zárja ki, hogy tagjain kívül más is részesülhessen a közhasznú szolgáltatásaiból;
+- b) gazdasági-vállalkozási tevékenységet csak közhasznú vagy a létesítő okiratban meghatározott egyéb céljainak megvalósítása érdekében, a közhasznú célok megvalósítását nem veszélyeztetve végez;
+- c) gazdálkodása során elért eredményét nem osztja fel, azt a létesítő okiratában meghatározott közhasznú tevékenységére fordítja;
+- d) közvetlen politikai tevékenységet nem folytat, szervezete pártoktól független és azoknak anyagi támogatást nem nyújt.
+
+(2) A közhasznú nyilvántartásba vételre irányuló kérelmet előterjesztő szervezetnek két egymást követő lezárt üzleti évben meg kell felelnie az e törvény 32. §-ában foglalt követelményeknek, amelyet a bíróság a nyilvántartás és a beszámoló adatai alapján állapít meg.
+
+35. § (1) Civil szervezettel állami, közigazgatási, költségvetési szerv közszolgáltatási szerződést kizárólag akkor köthet, ha a civil szervezet közhasznú jogállású.
+
+(2) Nem minősül közszolgáltatási szerződésnek a feladat finanszírozását szolgáló támogatás, ha a támogatás nyújtásának minden feltételét jogszabály határozza meg, és a támogatási döntés meghozatala során a döntéshozónak mérlegelési joga nincs. Nem minősül mérlegelési jognak, ha a döntéshozó a jogszabályban meghatározott támogatási keret kimerüléséig a támogatás odaítélésére vonatkozó, a jogszabályi feltételeknek megfelelő kérelmeket beérkezési sorrendben teljesíti.
+
+36. § (1) Közhasznú jogállású szervezet jogosult használni a közhasznú megjelölést.
+
+(2) A civil szervezeteket és a közhasznú szervezeteket, valamint az e szervezeteket támogatókat külön jogszabály alapján adó- és illetékmentesség vagy adó- és illetékkedvezmény illeti meg.
 
 #### 13. A közhasznú szervezet működésével kapcsolatos különös szabályok
 
-#### 37–41. §
+37. § (1) A több tagból álló legfőbb szerv, valamint az ügyintéző és képviseleti szerv ülései nyilvánosak, amely nyilvánosság jogszabályban meghatározott esetekben korlátozható.
+
+(2) A több tagból álló legfőbb szerv esetén a közhasznú szervezet létesítő okiratának tartalmaznia kell
+
+- a) az ülésezés gyakoriságára – amely az évi egy alkalomnál kevesebb nem lehet –, az ülések összehívásának rendjére, a napirend közlésének módjára, az ülések nyilvánosságára, határozatképességére és a határozathozatal módjára,
+- b) a közhasznú szervezet vezető tisztségviselőinek összeférhetetlenségére,
+- c) ha a közhasznú szervezet működését és gazdálkodását ellenőrző felügyelő szerv létrehozása vagy kijelölése kötelező, ennek létrehozására, hatáskörére és működésére, valamint
+- d) a közhasznú szervezet éves beszámolója jóváhagyásának módjára vonatkozó szabályokat.
+
+(3) A közhasznú szervezet létesítő okiratának vagy – ennek felhatalmazása alapján – belső szabályzatának rendelkeznie kell
+
+- a) olyan nyilvántartás vezetéséről, amelyből a döntésre jogosult szerv döntésének tartalma, időpontja és hatálya, illetve a döntést támogatók és ellenzők számaránya (ha lehetséges, személye) megállapítható,
+- b) a döntéseknek az érintettekkel való közlési, illetve nyilvánosságra hozatali módjáról,
+- c) a közhasznú szervezet működésével kapcsolatosan keletkezett iratokba való betekintés rendjéről, valamint
+- d) a közhasznú szervezet működésének, szolgáltatása igénybevétele módjának, beszámolói közlésének nyilvánosságáról.
+
+(4) Az egy tagból (személyből) álló legfőbb szerv esetén a döntéshozatalt megelőzően e tag (személy) köteles – a személyi kérdésekkel kapcsolatos döntéseket kivéve – a felügyelő szerv, valamint a felelős személyek véleményének megismerése érdekében ülést összehívni, vagy írásos véleményüket beszerezni. Az írásos vélemények, illetve az ülésről készült jegyzőkönyvek nyilvánosak.
+
+(5) Az egy tagból (személyből) álló legfőbb szerv esetén a létesítő okiratnak rendelkeznie kell
+
+- a) a (4) bekezdésben foglalt véleményezési jog gyakorlásának módjáról,
+- b) abban az esetben, ha a véleményezési jogot ülésen gyakorolják – a határozatképesség kivételével – a (2) bekezdés a) pontjában foglaltakról, valamint
+- c) a (2) bekezdés b)–d) pontjában és a (3) bekezdésben foglaltakról.
+
+38. § (1) A legfőbb szerv, valamint az ügyintéző és képviseleti szerv határozathozatalában nem vehet részt az a személy, aki vagy akinek közeli hozzátartozója a határozat alapján
+
+- a) kötelezettség vagy felelősség alól mentesül, vagy
+- b) bármilyen más előnyben részesül, illetve a megkötendő jogügyletben egyébként érdekelt.
+
+(2) Nem minősül előnynek a közhasznú szervezet cél szerinti juttatásai keretében a bárki által megkötés nélkül igénybe vehető nem pénzbeli szolgáltatás, illetve az egyesület által tagjának, a tagsági jogviszony alapján nyújtott, létesítő okiratnak megfelelő cél szerinti juttatás.
+
+(3) Nem lehet a felügyelő szerv elnöke vagy tagja, illetve könyvvizsgálója az a személy, aki
+
+- a) a legfőbb szerv, illetve az ügyintéző és képviseleti szerv elnöke vagy tagja (ide nem értve az egyesület legfőbb szervének azon tagjait, akik tisztséget nem töltenek be),
+- b) a közhasznú szervezettel a megbízatásán kívüli más tevékenység kifejtésére irányuló munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, ha jogszabály másképp nem rendelkezik,
+- c) a közhasznú szervezet cél szerinti juttatásából részesül – kivéve a bárki által megkötés nélkül igénybe vehető nem pénzbeli szolgáltatásokat, és az egyesület által tagjának a tagsági jogviszony alapján a létesítő okiratban foglaltaknak megfelelően nyújtott alapcél szerinti juttatást –, illetve
+- d) az a)–c) pontban meghatározott személyek közeli hozzátartozója.
+
+39. § (1) A közhasznú szervezet megszűnését követő három évig nem lehet más közhasznú szervezet vezető tisztségviselője az a személy, aki korábban olyan közhasznú szervezet vezető tisztségviselője volt – annak megszűnését megelőző két évben legalább egy évig –,
+
+- a) amely jogutód nélkül szűnt meg úgy, hogy az állami adó- és vámhatóságnál nyilvántartott adó- és vámtartozását nem egyenlítette ki,
+- b) amellyel szemben az állami adó- és vámhatóság jelentős összegű adóhiányt tárt fel,
+- c) amellyel szemben az állami adó- és vámhatóság üzletlezárás intézkedést alkalmazott, vagy üzletlezárást helyettesítő bírságot szabott ki,
+- d) amelynek adószámát az állami adó- és vámhatóság az adózás rendjéről szóló törvény szerint felfüggesztette, illetőleg törölte.
+
+(2) A vezető tisztségviselő, illetve az ennek jelölt személy köteles valamennyi érintett közhasznú szervezetet előzetesen tájékoztatni arról, hogy ilyen tisztséget egyidejűleg más közhasznú szervezetnél is betölt.
+
+40. § (1) Ha a közhasznú szervezet éves bevétele meghaladja az ötmillió forintot, a vezető szervtől elkülönült felügyelő szerv létrehozása akkor is kötelező, ha ilyen kötelezettség más jogszabálynál fogva egyébként nem áll fenn.
+
+(2) A felügyelő szerv ügyrendjét maga állapítja meg.
+
+41. § (1) A felügyelő szerv ellenőrzi a közhasznú szervezet működését és gazdálkodását. Ennek során a vezető tisztségviselőktől jelentést, a szervezet munkavállalóitól pedig tájékoztatást vagy felvilágosítást kérhet, továbbá a közhasznú szervezet könyveibe és irataiba betekinthet, azokat megvizsgálhatja.
+
+(2) A felügyelő szerv tagja a közhasznú szervezet vezető szervének ülésén tanácskozási joggal részt vehet, illetve részt vesz, ha jogszabály vagy a létesítő okirat így rendelkezik.
+
+(3) A felügyelő szerv köteles az intézkedésre való jogosultságának megfelelően a legfőbb szervet vagy az ügyintéző és képviseleti szervet tájékoztatni és annak összehívását kezdeményezni, ha arról szerez tudomást, hogy
+
+- a) a szervezet működése során olyan jogszabálysértés vagy a szervezet érdekeit egyébként súlyosan sértő esemény (mulasztás) történt, amelynek megszüntetése vagy következményeinek elhárítása, illetve enyhítése az intézkedésre jogosult vezető szerv döntését teszi szükségessé;
+- b) a vezető tisztségviselők felelősségét megalapozó tény merült fel.
+
+(4) A legfőbb szervet vagy az ügyintéző és képviseleti szervet a felügyelő szerv indítványára – annak megtételétől számított harminc napon belül – intézkedés céljából össze kell hívni. E határidő eredménytelen eltelte esetén a legfőbb szerv és az ügyintéző és képviseleti szerv összehívására a felügyelő szerv is jogosult.
+
+(5) Ha az arra jogosult szerv a törvényes működés helyreállítása érdekében szükséges intézkedéseket nem teszi meg, a felügyelő szerv köteles haladéktalanul értesíteni a törvényességi ellenőrzést ellátó szervet.
 
 #### 14. A közhasznú szervezet gazdálkodására vonatkozó különös szabályok
 
-#### 42–46. §
+42. § (1) A közhasznú szervezet a gazdálkodása során elért eredményét nem oszthatja fel, azt létesítő okiratában meghatározott közhasznú tevékenységére kell fordítania.
+
+(2) A közhasznú szervezet a vezető tisztségviselőt, a támogatót, az önkéntest, valamint e személyek közeli hozzátartozóját – a bárki által megkötés nélkül igénybe vehető szolgáltatások, illetve az egyesület által tagjának a tagsági jogviszony alapján nyújtott, létesítő okiratnak megfelelő juttatások kivételével – cél szerinti juttatásban nem részesítheti.
+
+43. § (1) A közhasznú szervezet bármely cél szerinti juttatását – a létesítő okiratban meghatározott szabályok szerint – pályázathoz kötheti. Ebben az esetben a pályázati felhívás nem tartalmazhat olyan feltételeket, amelyekből – az eset összes körülményeinek mérlegelésével – megállapítható, hogy a pályázatnak előre meghatározott nyertese van (színlelt pályázat).
+
+(2) Színlelt pályázat a cél szerinti juttatás alapjául nem szolgálhat.
+
+44. § (1) A közhasznú szervezet váltót, illetve más hitelviszonyt megtestesítő értékpapírt nem bocsáthat ki.
+
+(2) A közhasznú szervezet gazdasági-vállalkozási tevékenységének fejlesztéséhez közhasznú tevékenységét veszélyeztető mértékű hitelt nem vehet fel.
+
+45. § A befektetési tevékenységet végző közhasznú szervezetnek befektetési szabályzatot kell készítenie, amelyet a legfőbb szerv – ha ilyet létrehoztak – a felügyelő szerv véleményének kikérését követően fogad el.
+
+46. § (1) A közhasznú szervezet köteles a beszámoló jóváhagyásával egyidejűleg közhasznúsági mellékletet készíteni, amelyet a beszámolóval azonos módon köteles letétbe helyezni és közzétenni.
+
+(2) A közhasznú szervezet beszámolójába bárki betekinthet, illetve abból saját költségére másolatot készíthet.
 
 #### 15. A közhasznú működés felügyelete, a közhasznúsági nyilvántartás
 
-#### 47–50. §
+47. § A közhasznú szervezetek feletti adóellenőrzést az adóhatóság, az államháztartásból származó (költségvetési) támogatás felhasználásának ellenőrzését törvény eltérő rendelkezése hiányában az Állami Számvevőszék, az állami vagy önkormányzati költségvetésből, illetve a nemzetközi forrásokból juttatott támogatások felhasználásának ellenőrzését a külön jogszabály szerinti ellenőrzési szervezet, a közhasznú működés feletti törvényességi ellenőrzést pedig a reá irányadó szabályok szerint az ügyészség látja el.
+
+48. § A közhasznú szervezet hatvan napon belül köteles kérni a közhasznú jogállásának törlését, ha a közhasznúvá minősítés feltételeinek nem felel meg.
+
+49. § (1) Az ügyész a közhasznú jogállás nyilvántartásba vételére illetékes szervnél indítványozhatja a közhasznú jogállás megszüntetését, ha a közhasznú szervezet működése és vagyonfelhasználása az e törvényben, a létesítő okiratban vagy az ennek alapján készített belső szabályzatokban foglalt rendelkezéseknek nem felel meg, és ezen a szervezet az ügyészi felhívás ellenére sem változtat.
+
+(2) Közhasznú szervezet közhasznú jogállását az ügyészség indítványa alapján a bíróság megszünteti, ha a szervezet a megszabott határidőn belül nem, vagy nem az előírásoknak megfelelő tartalommal teljesíti
+
+- a) a számviteli beszámolójának a 30. §-ban szabályozott letétbe helyezési, közzétételi kötelezettségét, illetve
+- b) a szervezet – letétbe helyezett beszámolója – nem felel meg a 32. § szerinti feltételeknek.
+
+(3) Cégjegyzékbe bejegyzett közhasznú jogállású szervezet esetében a (2) bekezdés a) pontját nem kell alkalmazni.
+
+(4) A bíróság az ügyész indítványa alapján megvizsgálja, hogy a közhasznú szervezet a közhasznúvá minősítés követelményeinek továbbra is megfelel-e. Ha e követelmények a vizsgált időszakban – az adatokból megállapíthatóan – nem teljesültek, a bíróság a közhasznú jogállás megszüntetéséről határoz, és az erre vonatkozó adatot a nyilvántartásból törli.
+
+50. § A közhasznú szervezet a közhasznú jogállásának megszűnésekor köteles esedékes köztartozásait rendezni, illetve közszolgáltatás ellátására irányuló szerződéséből eredő kötelezettségeit időarányosan teljesíteni.
 
 ### VIII. Fejezet — CIVIL INFORMÁCIÓS CENTRUMOK
 
@@ -159,7 +465,27 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 ### IX. Fejezet — A CIVIL SZERVEZETEK ÁLLAMI TÁMOGATÁSÁNAK KÜLÖNÖS SZABÁLYAI
 
-#### 53–54. §
+53. § (1) Az államháztartásról szóló törvény (a továbbiakban: Áht.) rendelkezései szerint az államháztartás alrendszereitől támogatási szerződés vagy támogatói okirat alapján létesített jogviszony költségvetési támogatási jogviszony, amelyet az államháztartás működés ére vonatkozó jogszabályok szabályoznak azzal, hogy a Ptk. alapján a támogató késedelmes teljesítése a mindenkor érvényes jegybanki alapkamatnak megfelelő késedelmi kamattal terhelt.
+
+(2) Központi költségvetési forrás terhére törvény eltérő rendelkezése hiányában civil szervezetnek működési támogatás csak akkor nyújtható, ha a Nemzeti Együttműködési Alap biztosítja a költségvetési támogatás forrását.
+
+(3) Az államháztartásról szóló törvény (a továbbiakban: Áht.) rendelkezései szerint az államháztartás központi alrendszeréből nyújtott támogatási programok és támogatások szakmai összehangolása, az azonos feladatok párhuzamos finanszírozásának kiszűrése érdekében a miniszter szakmai monitoring rendszert működtet.
+
+(4) A (3) bekezdés szerinti szakmai monitoringrendszer tartalmazza a pályázati kiírások, támogatási döntések és támogatások alapvető adatait.
+
+(5) A fejezetet irányító szerv, az alappal való rendelkezésre jogosult miniszter a (3) bekezdés szerinti szakmai monitoring rendszerben történő rögzítés és a támogatási programok szakmai összehangolása, azonos feladatok párhuzamos finanszírozásának kiszűrése érdekében a költségvetési előirányzat kezelője előzetes jóváhagyás céljából köteles megküldeni a (4) bekezdés szerinti adatokat a miniszter számára. A miniszter a megküldött iratokat megvizsgálja és 15 napon belül elektronikus úton jelez vissza azok tudomásulvételéről, vagy indokolási kötelezettség mellett a jóváhagyás megtagadásáról.
+
+(6) Az (5) bekezdés szerinti kötelezettségét a fejezetet irányító szerv, az alappal való rendelkezésre jogosult miniszter, illetve a költségvetési előirányzat kezelője a kincstár útján teljesíti. A kincstár az általa működtetett monitoring rendszerben történő rögzítéssel egy időben az erre a célra rendszeresített számítógépes rendszeren keresztül küldi meg az adatokat a miniszter számára a Civil Információs Portálon történő közzététel céljából.
+
+(7) Azon civil szervezet, amelynek letétbe helyezett beszámolója adatai alapján, a 19. § c) pont szerinti, központi költségvetésből származó bevétele – ide nem értve az 54. § szerinti támogatásokat – eléri vagy meghaladja az éves bevétel felét, jelentős költségvetési támogatásban részesülő szervezetnek minősül.
+
+(8) A jelentős költségvetési támogatásban részesülő szervezet vezető tisztségviselője – a (7) bekezdés szerinti feltétel teljesülését alátámasztó beszámoló vonatkozásában – köteles vagyonnyilatkozatot tenni a beszámoló letétbe helyezését követő kilencven napon belül, amelynek a Civil Információs Portálon való közzétételéről a miniszter gondoskodik.
+
+54. § Az 53. § rendelkezéseit nem kell alkalmazni az államháztartás alrendszereiből folyósított pénzeszköz esetén, ha
+
+- a) annak rendeltetése az állam vagy valamely közigazgatási szerv felelősségébe tartozó, jogszabályban meghatározott és részletesen szabályozott feladat, vagy a feladat egy részének ellátását célozza, vagy
+- b) annak nyújtása normatív alapon, vagy a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény szerint történt, vagy
+- c) az az Európai Unió strukturális alapjaiból, illetve a Kohéziós Alapból részben vagy egészben támogatott tevékenység fedezetét jelenti.
 
 ### X. Fejezet — NEMZETI EGYÜTTMŰKÖDÉSI ALAP
 
@@ -169,15 +495,71 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 #### 17. Az Alap kiadásai
 
-#### 56–57. §
+56. § (1) Az Alap terhére az alábbi célokra teljesíthetők kifizetések:
+
+- a) civil szervezetek által gyűjtött és elektronikusan bevallott adományok után járó öt százalékos normatív kiegészítés, amelyet a civil szervezet működési költségeinek fedezésére fordít legfeljebb a (2) bekezdés szerinti keret tíz százalékáig;
+- b) civil szervezet működésének támogatása;
+- c) civil szervezeteket érintő évfordulók, fesztiválok, hazai és határon túli rendezvények támogatása;
+- d) nemzetközi civil kapcsolatokban a magyarországi civil szervezetek jelenlétének biztosítása, hazai és határon túli rendezvényeken, fesztiválokon történő részvétel támogatása, nemzetközi tagdíjakhoz támogatás biztosítása, európai integrációt elősegítő programok támogatása;
+- e) civil szférával kapcsolatos tudományos kutatások, monitoringtevékenység és nyilvántartási feladatok támogatása;
+- f) civil szférával kapcsolatos szolgáltató, tanácsadó, oktatási, fejlesztő, segítő, illetve esélyegyenlőséget és akadálymentességet elősegítő tevékenység és intézmények támogatása;
+- g) civil szférát bemutató kiadványok, elektronikus és írott szakmai sajtó támogatása;
+- h) civil szervezetek pályázati önrészeinek támogatása;
+- i) adományosztó szervezeteknek szóló juttatás a Nemzeti Együttműködési Alap Tanácsa (továbbiakban: Tanács), illetve a kollégiumok egységes elvek mentén meghatározott, forrásautomatizmus biztosításáról szóló döntései alapján;
+- j) civil érdek-képviseleti tevékenység támogatása;
+- k) az Alap működtetésével kapcsolatos költségek fedezete.
+
+(2) Az Alap rendelkezésére álló tárgyévi támogatási forrás
+
+- a) hatvan százalékára az (1) bekezdés a) és b) pontja szerinti, a civil szervezetek működését célzó,
+- b) harminc százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés c)–j) pontja szerinti,
+- c) tíz százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b)–j) pontja szerinti költségvetési támogatásokra történhet kötelezettségvállalás.
+
+(3) Az Alap rendelkezésére álló tárgyévi támogatási források legalább
+
+- a) tíz százalékára visszatérítendő támogatásra
+- b) hetven százalékára vissza nem térítendő támogatásra
+
+az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell kiírni.
+
+(4) Az (1) bekezdés c) pontja szerinti támogatás magyarországi és határon túli civil szervezet számára együttesen is nyújtható.
+
+57. § (1) Az Alap terhére csak visszatérítendő működési támogatás nyújtható azon közhasznú jogállású civil szervezetnek, amely a pályázat megjelenését megelőző utolsó lezárt üzleti évben beszámolóval igazolható éves bevétele eléri vagy meghaladja a miniszter rendeletében meghatározott értéket.
+
+(2) A visszatérítési kötelezettség alá eső költségvetési támogatás az Art. szerinti adók módjára behajtandó köztartozásnak minősül.
+
+(3) Adók módjára hajtandó be az e törvény rendelkezései szerint nyújtott támogatás azon része is, amit a kedvezményezett a vonatkozó támogatási szerződéstől eltérően használt fel.
 
 #### 18. Az Alap bevételei
 
-#### 58. §
+58. § (1) Az Alap bevételi forrásai:
+
+- a) a jogi személyek, jogi személyiség nélküli szervezetek és természetes személyek befizetései;
+- b) a létesítő okirat eltérő rendelkezése hiányában a jogutód nélkül megszűnt civil szervezet vagyona;
+- c) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény (a továbbiakban: Szftv.) 4. § (1) bekezdés h) pontja szerint felajánlott összeg;
+- d) a tárgyévre vonatkozó költségvetési törvényben az Alap támogatásaként meghatározott összeg;
+- e) átvett központi költségvetési előirányzatok;
+- f) költségvetési támogatás;
+- g) egyéb bevételek.
+
+(2) Az (1) bekezdés a) pontjában foglalt befizetések a Ptk. szerinti közérdekű kötelezettségvállalásnak minősülnek.
+
+(3) Az Alap bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető – az előző évek kötelezettségvállalásainak fedezeteként – a kiadási és bevételi előirányzat egyidejű módosításával.
+
+(4) Az Alapra vonatkozóan zárolási vagy maradványtartási kötelezettség nem írható elő.
 
 #### 19. A kedvezményezettek
 
-#### 59. §
+59. § (1) Az Alap terhére nyújtott támogatás kedvezményezettje az e törvény szerinti egyesület (ide nem értve a szakszervezetet és pártot), illetve alapítvány lehet.
+
+(2) Az Alap terhére kiírt pályázat kedvezményezetti köre
+
+- a) szövetség vagy
+- b) alapítvány, illetve egyesület (ide nem értve a szövetséget) lehet.
+
+(3) Nem jogosult az Alapból működési támogatásra az a civil szervezet, amely a pályázat kiírásának évében a költségvetési törvényben nevesítve részesül működési célú támogatásban.
+
+(4) A határon túli civil szervezet csak Magyarországon nyilvántartásba vett civil szervezettel együttesen lehet támogatás kedvezményezettje.
 
 #### 20. Az Alap szervezete
 
@@ -351,7 +733,7 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) az Alap kezelő szervének kijelölését, az Alap kezelésének, az Alap működésére fordítható forrás mértékének, a visszatérítendő támogatás és az Alap felhasználásának a részletes szabályait, az ellenőrzés és beszámolás rendjét, valamint a pályázati rendszerre vonatkozó további előírásokat az államháztartásért felelős miniszterrel egyetértésben,
-- b)
+- b) a Civil Információs Portál, a Civil Információs Centrumok hálózata, illetve a támogatások összehangolását szolgáló monitoringrendszer működtetésének és az e törvényben meghatározott adatok honlapon történő közzétételének részletes szabályait,
 - c) a Tanács és a kollégium létesítésére, működésére, valamint az összeférhetetlenségre és a nyilvánosságra hozatalra vonatkozó részletes eljárási szabályokat,
 - d) az Alap testületeinek tevékenységével és az Alap működésével kapcsolatos beszámolók tartalmi elemeit, a beszámolás rendjét,
 - e) a Tanács tagjának és a kollégium tagjának járó költségátalány és a költségtérítése elszámolásának szabályait az államháztartásért felelős miniszterrel egyetértésben, rendeletben szabályozza.
@@ -368,7 +750,34 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 #### 25. Átmeneti rendelkezések
 
-#### 75. §
+75. § (1) 2012. január 1. napját követően csak olyan civil szervezet kaphat költségvetési támogatást – ide nem értve az 54. § szerinti támogatásokat –, amely a 30. § szerint letétbe helyezte beszámolóját.
+
+(2) Az (1) bekezdés rendelkezéseit nem kell alkalmazni a 2012. évi költségvetési forrás terhére nyújtott támogatás tekintetében
+
+- a) a sportról szóló 2004. évi I. törvény szerinti szervezetekre, illetve
+- b) az államháztartásról szóló törvény alapján a fejezetet irányító szerv vezetője által az államháztartásért felelős miniszterrel egyetértésben megállapított fejezeti kezelésű előirányzatok kezeléséről, felhasználásáról szóló rendelet által az (1) bekezdés alkalmazása alól mentesített előirányzatokra.
+
+(3) A 8. § (1) bekezdésben meghatározott jogok, amelyekkel e törvény hatálybalépésének időpontjában a 8. § rendelkezéseivel ellentétesen más személy rendelkezik, e törvény hatálybalépésével kártalanítás ellenében a törvény erejénél fogva az egyesületre szállnak vissza. A kártalanítás összegét a felek megállapodása hiányában az egyesület székhelye szerint illetékes bíróság állapítja meg a jogoknak azok visszaszállása időpontjában képviselt valós piaci értéke alapján.
+
+(4) E törvény 27–29. §-ait először a 2012. évben kezdődő üzleti évről készített beszámolóra kell alkalmazni.
+
+(5) Az e törvény hatálybalépése előtt nyilvántartásba vett közhasznú, illetve kiemelkedően közhasznú jogállás esetében a számviteli beszámolót letétbe helyezett szervezet 2014. május 31. napjáig továbbra is igénybe veheti az e törvény hatálybalépése előtt megszerzett, valamint a jogszabályok által számára biztosított kedvezményeket, jogállása közhasznú. Az e törvény hatálybalépése előtt nyilvántartásba vett közhasznú, illetve kiemelkedően közhasznú jogállású szervezet az e törvény szerinti feltételeknek való megfelelése esetén 2014. május 31. napjáig kezdeményezheti az e törvénynek megfelelő közhasznúsági nyilvántartásba vételét. 2014. június 1. napjától csak az e törvény szerint közhasznúsági nyilvántartásba vett szervezet jogosult a közhasznú megjelölés használatára és a közhasznú jogálláshoz kapcsolódó kedvezmények igénybevételére. 2014. június 1. napjától a szervezet nyilvántartására illetékes szerv törli az e törvény hatálybalépése előtt nyilvántartásba vett közhasznú, illetve kiemelkedően közhasznú jogállású szervezetek közhasznú jogállását, kivéve ha a szervezet igazolja, hogy az e törvény szerinti közhasznúsági nyilvántartásba vétel iránt kérelmét benyújtotta, és a bíróság megállapítja, hogy a szervezet a törvényi feltételeknek megfelel.
+
+(6) A 2012. január 1. napja előtt indított és folyamatban lévő közhasznúsági nyilvántartásba vétel iránti eljárásokra a 2011. december 31. napján hatályos szabályok irányadóak azzal, hogy kiemelkedően közhasznú jogállás nem állapítható meg, az eljárást úgy kell lefolytatni, hogy annak eredményeként közhasznú jogállás vehető nyilvántartásba. E rendelkezés miatt módosuló eljárások változásáról a nyilvántartásba vételre illetékes szerv értesíti a kérelmezőt.
+
+(7) Ha a (6) bekezdés szerinti eljárások elbírálásához az e törvényben meghatározott adatok nem állnak rendelkezésre, a nyilvántartásra illetékes szerv a közhasznú jogállás megszerzéséhez szükséges adatok pótlására hívja fel a kérelmezőt. A hiányzó adatok pótlása teljes bizonyító erejű magánokiratban történik.
+
+(8) Az e törvény hatálybalépése előtt megkötött közszolgáltatási szerződésre e törvény rendelkezéseit nem lehet alkalmazni.
+
+(9) Az e törvény hatálybalépését megelőző két üzleti év számviteli beszámolója és közhasznúsági jelentése letétbe helyezhető.
+
+(10) A Nemzeti Civil Alapprogramról szóló törvény alapján nyújtott támogatások tekintetében a kezelői feladatokat az Alapprogram megszűnését követően a Wekerle Sándor Alapkezelő látja el. E törvény hatálybalépését megelőzően kötött támogatási szerződésekkel kapcsolatos kollégiumi hatásköröket a Wekerle Sándor Alapkezelő gyakorolja.
+
+(11) A Nemzeti Civil Alapprogramról szóló törvény alapján a civil jelöltállítási rendszerben választási eljárás lefolytatása nem lehetséges, a Nemzeti Civil Alapprogram Tanácsa és kollégiumai tagjainak megbízatása e törvény hatálybalépésének napjával megszűnik.
+
+(12) A Nemzeti Együttműködési Alap testületei a 70. § szerinti beszámolók benyújtására első alkalommal a 2012. évre vonatkozóan kötelezettek.
+
+(13) A 61. § (6) bekezdésben foglaltakat a 2012. évben azzal az eltéréssel kell alkalmazni, hogy a pályázatok kiírásáról március 15-éig kell dönteni.
 
 #### 26. Az Európai Unió jogának való megfelelés
 
@@ -398,7 +807,12 @@ lép.
 
 #### 190–208. §
 
-#### 209. §
+209. § Hatályát veszti
+
+- a) az egyesülési jogról szóló 1989. évi II. törvény,
+- b) a közhasznú szervezetekről szóló 1997. évi CLVI. törvény,
+- c) a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény,
+- d) a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény végrehajtásáról szóló 160/2003. (X. 7.) Korm. rendelet.
 
 #### 29. Hatályba nem lépő rendelkezések
 

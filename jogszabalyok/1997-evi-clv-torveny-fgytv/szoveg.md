@@ -28,7 +28,8 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - f) termék: minden birtokba vehető forgalomképes ingó dolog – ide nem értve a pénzt, az értékpapírt és a pénzügyi eszközt – és a dolog módjára hasznosítható természeti erő,
 - g) szolgáltatás: termék, ingatlan vagy vagyoni értékű jog értékesítésén kívül minden olyan – ellenszolgáltatás fejében végzett – tevékenység, amely a megrendelő, illetve megbízó igényének kielégítésére valamely eredmény létrehozását, teljesítmény nyújtását vagy más magatartás tanúsítását foglalja magában,
 - h) közüzemi szolgáltatás: külön törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozó vállalkozás által e kötelezettség alapján nyújtott közszolgáltatás,
-- i)–k)
+- i) fogyasztói csoport: a szervezők – díjazás ellenében történő – közreműködésével a csoport tagjai pénzének összegyűjtésén alapuló minden olyan csoport, amelynek célja, hogy minden tagja az általa előre meghatározott dolog tulajdonjogát a tagok befizetéseiből, előre meghatározott időtartamon belül – véletlenszerű vagy többletfeltételek vállalásától függő kiválasztás útján – a csoport segítségével megszerezze,
+- j)–k)
 - l) áru: a termék, az ingatlan és a vagyoni értékű jog, valamint a szolgáltatás,
 - m) eladási ár: a termék egy egységére vagy adott mennyiségére vonatkozó ár,
 - n) egységár: a termék egy kilogrammjára, egy literére vagy milliliterére, egy méterére, egy négyzetméterére vagy egy köbméterére vonatkozó ár,
@@ -132,7 +133,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (3) Az eladási árat, az egységárat, illetve a szolgáltatás díját egyértelműen, könnyen azonosíthatóan és tisztán olvashatóan kell feltüntetni.
 
-(4) Az eladási árat és az egységárat, illetve – határon átnyúló szolgáltatásnyújtás kivételével – a szolgáltatás díját a Magyar Köztársaság törvényes fizetőeszközében kifejezve fel kell tüntetni.
+(4) Az eladási árat és az egységárat, illetve – határon átnyúló szolgáltatásnyújtás kivételével – a szolgáltatás díját Magyarország törvényes fizetőeszközében kifejezve fel kell tüntetni.
 
 (5) A termék eladási áraként és egységáraként, illetve a szolgáltatás díjaként a fogyasztó által ténylegesen fizetendő, az általános forgalmi adót és egyéb kötelező terheket is tartalmazó árat kell feltüntetni.
 
@@ -167,6 +168,10 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 (3) Tilos tizennyolcadik életévét be nem töltött személy részére dohányterméket értékesíteni, illetve kiszolgálni.
 
 (4) Az e §-ban meghatározott korlátozás érvényesítése érdekében a vállalkozás vagy annak képviselője kétség esetén felhívja a fogyasztót életkorának hitelt érdemlő igazolására. Az életkor megfelelő igazolásának hiányában a termék értékesítését, illetve kiszolgálását meg kell tagadni.
+
+### IV/B. Fejezet — FOGYASZTÓI CSOPORT SZERVEZÉSÉNEK TILALMA
+
+16/B. § Fogyasztói csoport 2014. január 1-jéig nem hozható létre.
 
 ### V. Fejezet — A fogyasztók oktatása
 
@@ -236,18 +241,18 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 21. § (1) A békéltető testület elnökből, – szükség szerint – elnökhelyettesből és tagokból (a továbbiakban együtt: békéltető testületi tagok) áll.
 
-(2) A békéltető testületi tagokat – a Kormány rendeletében meghatározottak szerint – egyrészről a kamara és a megyei (fővárosi) agrárkamarák, másrészről a fogyasztói érdekek képviseletét ellátó egyesületek egyenlő arányban jelölik ki.
+(2) A békéltető testületi tagokat – a Kormány rendeletében meghatározottak szerint – egyrészről a kamara, a megyei (fővárosi) agrárkamarák, valamint a vállalkozások szakmai érdek-képviseleti szervezetei (a továbbiakban együtt: vállalkozói oldal), másrészről a fogyasztói érdekek képviseletét ellátó egyesületek egyenlő arányban jelölik ki.
 
 (3) A testületi tagok száma testületenként legalább tíz fő.
 
 (4) A kijelölés során biztosítani kell, hogy a testületnek mind a kamara, mind a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt személyek között
 
-- a) legyen olyan tagja, aki megfelel a 25. § (4) bekezdésében meghatározott követelményeknek, továbbá
+- a) legyen olyan tagja, aki megfelel a 25. § (3) és (5) bekezdésében meghatározott követelményeknek, továbbá
 - b)
 
 (5)
 
-(6) A békéltető testületi tagok megbízatása három évre szól. A tagok újraválaszthatóak.
+(6) A békéltető testületi tagok megbízatása négy évre szól. A tagok ismételten kijelölhetők.
 
 (7) A békéltető testület tagjai tevékenységüket külön jogszabályban meghatározott díjazás ellenében végzik.
 
@@ -303,7 +308,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - e) alkalmatlanná válása esetén,
 - f) halálával.
 
-(2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a tagot jelölő szervezet véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a békéltető testület tagjai közül választott, a kamara és a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt tagokból álló háromfős testület állapítja meg.
+(2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a tagot jelölő szervezet véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a békéltető testület tagjai közül választott, a vállalkozói oldal és a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt tagokból álló háromfős testület állapítja meg.
 
 (3) Ha a békéltető testületi tag megbízatása e törvényben szabályozott bármely okból megszűnik, helyette a békéltető testületi tag jelölésére vonatkozó rendelkezések megfelelő alkalmazásával új testületi tagot kell kijelölni. Ha a békéltetőtestületi tag megbízatása az (1) bekezdés a) pontja alapján szűnik meg, az olyan folyamatban lévő ügyben, amelyben az eljáró tanács tagja, még eljár. Ha a békéltetőtestületi tag megbízatása az (1) bekezdés b)–f) pontja alapján szűnik meg, a folyamatban levő ügyekben a békéltető testület elnöke jelöli ki a megszűnt megbízatású tag helyett eljáró tagot.
 
@@ -311,15 +316,17 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 24/A. § A békéltető testületi tagoknak függetlennek és pártatlannak kell lenniük, nem lehetnek képviselői a feleknek, eljárásuk során utasítást nem fogadhatnak el. Teljes titoktartásra kötelezettek a békéltető testület működése során tudomásukra jutott tények és adatok tekintetében, az eljárás megszűnése után is. Minderről kijelölésük elfogadásakor írásbeli nyilatkozatot kötelesek tenni.
 
-25. § (1) A békéltető testület – a (3) bekezdésben foglalt kivétellel – háromtagú tanácsban jár el.
+25. § (1) A békéltető testület – a (4) bekezdésben foglalt kivétellel – háromtagú tanácsban jár el.
 
-(2) Az eljáró tanács egyik tagját az eljárást megindító fogyasztó, egy másik tagját pedig az eljárással érintett vállalkozás jelöli ki a testületi tagok 23/A. §-ban meghatározott listájáról. Az eljáró tanács elnökét, továbbá ha a felek bármelyike a megadott határidőn belül nem él a jelölés lehetőségével, vagy ha más okból szükséges, az eljáró tanács hiányzó tagját a testület elnöke jelöli ki, figyelemmel arra, hogy legalább egy tag a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt, egy másik tag pedig a kamara által kijelölt testületi tagok közül kerüljön ki, valamint minden olyan szempontra, amely nagy valószínűséggel biztosítja független és pártatlan testületi tag kijelölését.
+(2) Az eljáró tanács egyik tagját az eljárást megindító fogyasztó, egy másik tagját pedig az eljárással érintett vállalkozás jelöli ki a testületi tagok 23/A. §-ban meghatározott listájáról. Az eljáró tanács elnökét, továbbá ha a felek bármelyike a megadott határidőn belül nem él a jelölés lehetőségével, vagy ha más okból szükséges, az eljáró tanács hiányzó tagját a testület elnöke jelöli ki, figyelemmel a (3) bekezdés szerinti követelményekre, továbbá arra, hogy legalább egy tag a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt, egy másik tag pedig a vállalkozói oldal által kijelölt testületi tagok közül kerüljön ki, valamint minden olyan szempontra, amely nagy valószínűséggel biztosítja független és pártatlan testületi tag kijelölését.
 
-(3) Ha a testület elnöke szerint a fogyasztói jogvita egyszerű megítélésű, az eljárás lefolytatására egyedül eljáró testületi tagot jelöl ki. Ha azonban mindkét fél – az általa az (1) bekezdés szerint jelölhető testületi tag megjelölésével – azt kéri, a békéltető testület ebben az esetben is háromtagú tanácsban jár el.
+(3) Az eljáró tanács legalább egy tagja jogi végzettséggel kell, hogy rendelkezzen.
 
-(4) A (3) bekezdésben meghatározott esetben egyedül eljáró testületi tagként csak az jelölhető ki, aki jogi végzettséggel rendelkezik, és a megelőző három évben nem állt az őt jelölő kamarával, illetve fogyasztói érdekek képviseletét ellátó egyesülettel, vagy ezek tagjával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
+(4) Ha a testület elnöke szerint a fogyasztói jogvita egyszerű megítélésű, az eljárás lefolytatására egyedül eljáró testületi tagot jelöl ki. Ha azonban mindkét fél – az általa az (1) bekezdés szerint jelölhető testületi tag megjelölésével – azt kéri, a békéltető testület ebben az esetben is háromtagú tanácsban jár el.
 
-(5) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említ, azon az egyedül eljáró testületi tagot is érteni kell.
+(5) A (3) bekezdésben meghatározott esetben egyedül eljáró testületi tagként csak az jelölhető ki, aki jogi végzettséggel rendelkezik, és a megelőző három évben nem állt az őt jelölő kamarával vagy szakmai érdek-képviseleti szervezettel, illetve fogyasztói érdekek képviseletét ellátó egyesülettel, vagy ezek tagjával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
+
+(6) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említ, azon az egyedül eljáró testületi tagot is érteni kell.
 
 26. § (1) A békéltető testületi tag az eljárásból ki van zárva, ha neki vagy hozzátartozójának [Ptk. 685. § b) pont] a vitás ügyhöz személyi vagy vagyoni érdekeltsége fűződik, illetve egyéb ok miatt elfogult, kivéve, ha a feleket erről tájékoztatta, és ennek ismeretében személye ellen egyik fél sem emelt kifogást.
 
@@ -367,7 +374,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (5) Az elnök a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának és a 23/A. § szerinti lista egyidejű megküldésével kellő időben előzetesen értesíti, azzal a felhívással, hogy az eljáró tanács általuk jelölhető tagjára vonatkozó javaslatukat legkésőbb az értesítés részükre történt kézbesítésétől számított nyolc napon belül tegyék meg, ellenkező esetben a kijelölésről a békéltető testület elnöke hivatalból gondoskodik.
 
-(6) A 25. § (3) bekezdése szerinti esetben az elnök az értesítésben közli a felekkel a kijelölt eljáró testületi tag személyét, egyben köteles felhívni a felek figyelmét arra, hogy a 25. § (3) bekezdésében meghatározottak szerint nyolc napon belül kérhetik, hogy a testület háromtagú tanácsban járjon el.
+(6) A 25. § (4) bekezdése szerinti esetben az elnök az értesítésben közli a felekkel a kijelölt eljáró testületi tag személyét, egyben köteles felhívni a felek figyelmét arra, hogy a 25. § (4) bekezdésében meghatározottak szerint nyolc napon belül kérhetik, hogy a testület háromtagú tanácsban járjon el.
 
 (7) Az elnök a körülmények mérlegelése alapján kezdeményezheti az eljárás írásbeli lefolytatását, a meghallgatás mellőzéséhez azonban mindkét fél hozzájárulását be kell szereznie.
 
@@ -421,13 +428,13 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (2) A tanács kötelezést tartalmazó határozata, illetve ajánlása ellen fellebbezésnek nincs helye, annak hatályon kívül helyezése azonban kérhető a bíróságtól a (3), illetve a (4) bekezdésben meghatározottak szerint.
 
-(3) A fél a kötelezést tartalmazó határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül keresettel annak hatályon kívül helyezését kérheti a békéltető testület székhelye szerint illetékes megyei bíróságtól, ha
+(3) A fél a kötelezést tartalmazó határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül keresettel annak hatályon kívül helyezését kérheti a békéltető testület székhelye szerint illetékes törvényszéktől, ha
 
 - a) a tanács összetétele vagy eljárása nem felelt meg e törvény rendelkezéseinek,
 - b) a 18. § (1) bekezdése alapján a békéltető testületnek nem volt hatásköre az eljárásra, vagy
 - c) a 29. § (4) bekezdésében meghatározott okból a kérelem meghallgatás nélküli elutasításának lett volna helye.
 
-(4) A vállalkozás az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a békéltető testület székhelye szerint illetékes megyei bíróságtól, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
+(4) A vállalkozás az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a békéltető testület székhelye szerint illetékes törvényszéktől, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
 
 (5) A pert a békéltető testülettel szemben kell megindítani. A testület e perben perbeli jogképességgel és cselekvőképességgel rendelkezik.
 
@@ -558,7 +565,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról szóló 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Közösségen belüli jogsértések tekintetében.
 
-(3) A fogyasztóvédelmi hatóság végzi a Magyar Köztársaságban – összekötő hivatalként – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának összehangolását.
+(3) A fogyasztóvédelmi hatóság végzi Magyarországon – összekötő hivatalként – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának összehangolását.
 
 (4) A kölcsönös jogsegély során a fogyasztóvédelmi hatóság a – 2008/282/EK bizottsági határozattal módosított – 2007/76/EK bizottsági határozatnak megfelelően jár el.
 
@@ -700,25 +707,15 @@ terjedhet.
 
 48. § (1)–(2)
 
-(3) A bírság a (4)–(5) bekezdésben foglalt eltéréssel a központi költségvetés bevétele. A bírságot a fogyasztóvédelmi hatóság kincstárnál vezetett számlájára kell befizetni.
+(3) A bírságot a fogyasztóvédelmi hatóság kincstárnál vezetett számlájára kell befizetni.
 
-(4) A fogyasztóvédelmi hatóság által
+(4)
 
-- a) a dohánytermékek forgalmazására vonatkozó szabályok megsértése miatt kiszabott bírság 50%-a,
-- b) a társadalombiztosítási támogatással rendelhető gyógyszerek és gyógyászati segédeszközök jogsértő reklámozása miatt kiszabott bírság 20%-a
+(5)
 
-képezi a központi költségvetés bevételét.
+(6) A jogerősen kiszabott bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
-(5) A fogyasztóvédelmi hatóság által
-
-- a) a médiaszolgáltatóval szemben jogsértő reklám miatt kiszabott bírság,
-- b) a tankönyvkiadásra és -forgalmazásra vonatkozó előírások megsértése miatt kiszabott bírság
-
-nem képezi a központi költségvetés bevételét.
-
-(6) A jogerősen kiszabott bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
-
-(7) A (3) és a (4) bekezdés szerinti központi költségvetési bevételnek a Kormány által e törvény végrehajtására kiadott rendeletben meghatározott részét a fogyasztói érdekek képviseletét ellátó egyesületek támogatására kell fordítani.
+(7)
 
 49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra fellebbezésre tekintet nélkül végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
 
@@ -798,13 +795,13 @@ nem képezi a központi költségvetés bevételét.
 - c) a szállás időben megosztott használati joga, a hosszú távra szóló üdülési termék megszerzésére, ezek viszontértékesítésére és cseréjére irányuló, fogyasztóval kötött szerződésekre, valamint az ezekkel összefüggő tájékoztatási követelményekre,
 - d) az üzleten kívül fogyasztóval kötött szerződésekre,
 - e) a távollevők között létrejött szerződésekre,
-- f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és felhasználására, valamint a külön jogszabályok alapján az eljáró hatóságot megillető eljárási költség felhasználására, továbbá a fogyasztói érdekek képviseletét ellátó egyesületeknek a fogyasztóvédelmi bírság meghatározott arányában történő támogatására,
+- f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és a jogszabály alapján az eljáró hatóságot megillető eljárási költség felhasználására,
 - g) a békéltető testületi tagok díjazására,
 - h) a fogyasztóvédelmi hatóság vagy hatóságok kijelölésére, feladat- és hatáskörére,
 - i) a békéltető testületi tagok kijelölésére, valamint a 21. § (4) bekezdés b) pontjában említett végzettségre és szakismeretre,
 - j) a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének végrehajtása céljából a fogyasztói érdekek képviseletét ellátó egyesületeknek az irányelv 4. cikk (3) bekezdésében meghatározott jegyzékre való felkerülése céljából lefolytatandó eljárásra,
-- k) az Európai Fogyasztói Központok Hálózatában való részvételre
-- l)
+- k) az Európai Fogyasztói Központok Hálózatában való részvételre,
+- l) a fogyasztói csoportok szervezésére és működésére, valamint a fogyasztói csoportokkal kapcsolatos fogyasztóvédelmi hatósági feladatok ellátását végző szerv kijelölésére, annak feladat- és hatáskörére,
 
 vonatkozó részletes szabályokat rendelettel meghatározza.
 
@@ -814,7 +811,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 56/A. § (1)
 
-(2) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a fogyasztóvédelemért felelős miniszterrel, a kereskedelemért felelős miniszterrel, valamint az egészségügyért felelős miniszterrel egyetértésben a dohánytermékek előállításának, forgalmazásának és ellenőrzésének a jövedéki törvény szabályozási körébe nem tartozó feltételeit rendeletben meghatározza.
+(2)
 
 (3) Felhatalmazást kap a fogyasztóvédelemért felelős miniszter – hogy az érdekelt miniszterrel egyetértésben – rendeletben állapítsa meg a kizárólag használati és kezelési útmutatóval együtt forgalmazható termékek körét.
 

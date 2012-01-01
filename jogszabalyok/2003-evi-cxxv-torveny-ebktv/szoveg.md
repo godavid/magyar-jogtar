@@ -2,13 +2,13 @@
 
 az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról
 
-Az Országgyűléselismerve minden ember jogát ahhoz, hogy egyenlő méltóságú személyként élhessen,azon szándékától vezérelve, hogy hatékony jogvédelmet biztosítson a hátrányos megkülönböztetést elszenvedők számára,kinyilvánítva azt, hogy az esélyegyenlőség előmozdítása elsősorban állami kötelezettség,tekintettel az Alkotmány 54. § (1) bekezdésére, 70/A. §-ára, valamint a Köztársaság nemzetközi kötelezettségeire és az európai közösségi jog vívmányaira
+Az Országgyűléselismerve minden ember jogát ahhoz, hogy egyenlő méltóságú személyként élhessen,azon szándékától vezérelve, hogy hatékony jogvédelmet biztosítson a hátrányos megkülönböztetést elszenvedők számára,kinyilvánítva azt, hogy az esélyegyenlőség előmozdítása elsősorban állami kötelezettség,tekintettel az Alaptörvény II. és XV. cikkére, valamint a Köztársaság nemzetközi kötelezettségeire és az európai közösségi jog vívmányaira
 
 a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § Az egyenlő bánásmód követelménye alapján a Magyar Köztársaság területén tartózkodó természetes személyekkel, ezek csoportjaival, valamint a jogi személyekkel és a jogi személyiséggel nem rendelkező szervezetekkel szemben e törvény rendelkezései szerint azonos tisztelettel és körültekintéssel, az egyéni szempontok azonos mértékű figyelembevételével kell eljárni.
+1. § Az egyenlő bánásmód követelménye alapján Magyarország területén tartózkodó természetes személyekkel, ezek csoportjaival, valamint a jogi személyekkel és a jogi személyiséggel nem rendelkező szervezetekkel szemben e törvény rendelkezései szerint azonos tisztelettel és körültekintéssel, az egyéni szempontok azonos mértékű figyelembevételével kell eljárni.
 
 2. § Az egyenlő bánásmód követelményére vonatkozó, külön jogszabályokban meghatározott rendelkezéseket e törvény rendelkezéseivel összhangban kell alkalmazni.
 
@@ -20,7 +20,7 @@ a következő törvényt alkotja:
 - b) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, a munkavégzésre irányuló vállalkozási és megbízási szerződés alapján létrejött jogviszony, a szakcsoporti tagsági viszony, valamint a szövetkezeti tagsági viszonynak, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei,
 - c) állami támogatás: az államháztartás alrendszereinek költségvetése terhére ingyenes vagy kedvezményes források, illetve egyéb előny bármilyen formában történő nyújtása oly módon, hogy ez állami bevételkiesést vagy állami kiadást jelent, ideértve az állami kezességvállalást is, valamint az Európai Unióból, nemzetközi szervezetektől és más államokból származó források, adományok és segélyek, amennyiben azok a központi költségvetésen keresztül kerülnek folyósításra,
 - d) közszolgáltatás: szerződéskötési kötelezettség alapján a lakosság alapvető szükségleteinek ellátására irányuló szolgáltatás, így különösen a villamosenergia-, gáz-, hő-, víz-, szennyvíz- és hulladékkezelési, köztisztasági, postai és távközlési szolgáltatás, továbbá a menetrend alapján közlekedő járművekkel végzett közforgalmú személyszállítás,
-- e) civil szervezet: az a társadalmi szervezet vagy alapítvány, amelynek alapszabályában, illetve alapító okiratában a szervezet céljai között a hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése vagy az emberi és állampolgári jogok védelme szerepel, valamint az adott nemzeti és etnikai kisebbség tekintetében a kisebbségi önkormányzat, továbbá a munkavállalók anyagi, szociális és kulturális, valamint élet- és munkakörülményeivel összefüggő ügyeiben a szakszervezet,
+- e) civil szervezet: az a társadalmi szervezet vagy alapítvány, amelynek alapszabályában, illetve alapító okiratában a szervezet céljai között a hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése vagy az emberi és állampolgári jogok védelme szerepel, valamint az adott nemzetiség tekintetében a nemzetiségi önkormányzat, továbbá a munkavállalók anyagi, szociális és kulturális, valamint élet- és munkakörülményeivel összefüggő ügyeiben a szakszervezet,
 - f) hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti hozzátartozó, ide nem értve a jegyest.
 
 ### A törvény hatálya
@@ -81,7 +81,7 @@ vonatkozásában nem alkalmazható.
 - b) faji hovatartozása,
 - c) bőrszíne,
 - d) nemzetisége,
-- e) nemzeti vagy etnikai kisebbséghez való tartozása,
+- e) nemzetiséghez való tartozása,
 - f) anyanyelve,
 - g) fogyatékossága,
 - h) egészségi állapota,
@@ -123,17 +123,11 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 12. § Az egyenlő bánásmód követelményének megsértése miatti igények az e fejezetben, valamint külön jogszabályokban meghatározott eljárások során – így különösen személyiségi jogi per, munkaügyi per, fogyasztóvédelmi, munkaügyi vagy szabálysértési hatóságok eljárása során – érvényesíthetőek.
 
-### Eljárás e törvény megsértése esetén
+### Az egyenlő bánásmód követelményének érvényesítésével kapcsolatos egyes szabályok
 
-13. § (1) Az egyenlő bánásmód követelményének érvényesülését közigazgatási szerv (a továbbiakban: hatóság) ellenőrzi.
+13. §
 
-(2)
-
-(3) A hatóság az e törvényben meghatározott feladatkörében nem utasítható.
-
-(4) A hatóság költségvetése a felügyeletét ellátó miniszter költségvetési fejezetén belül önálló címet képez.
-
-14. § (1) A hatóság
+14. § (1) Az Egyenlő Bánásmód Hatóság (a továbbiakban: hatóság)
 
 - a) kérelem alapján, illetve az e törvényben meghatározott esetekben hivatalból vizsgálatot folytat annak megállapítására, hogy megsértették-e az egyenlő bánásmód követelményét, valamint kérelem alapján vizsgálatot folytat, hogy az arra kötelezett munkáltatók elfogadtak-e esélyegyenlőségi tervet, a vizsgálat alapján határozatot hoz;
 - b) a közérdekű igényérvényesítés joga alapján pert indíthat a jogaikban sértett személyek és csoportok jogainak védelmében;
@@ -171,7 +165,7 @@ folytatja le.
 
 (5) A hatóság hivatalból is eljár az egyenlő bánásmód követelményének a 4. § a)–d) pontjaiban meghatározott szervek általi megsértésével kapcsolatban, ha az adott ügyben más közigazgatási szerv előtt nincs folyamatban eljárás.
 
-(6) A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, az országgyűlési biztos, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
+(6) A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, az alapvető jogok biztosa, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
 
 (7) A hatóság a más közigazgatási szerv által az egyenlő bánásmód követelményével kapcsolatban hozott közigazgatási határozat bírósági felülvizsgálata során a perben beavatkozóként részt vehet.
 
@@ -236,7 +230,7 @@ folytatja le.
 
 (3) A hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló határozat jogerőre emelkedésének és végrehajthatóvá válásának napjától számított két év elteltével törli.
 
-(4) A hatóság – a (6) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból a jogerős és végrehajtható közigazgatási vagy – a közigazgatási határozat bírósági felülvizsgálata esetén – bírósági határozattal két éven belül azonos jogsértés ismételt elkövetése miatt bírsággal sújtott munkáltatókra vonatkozó, az (1) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat bírósági felülvizsgálata esetén az e) pontban foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján akkor hozza nyilvánosságra, amikor a korábbival azonos jogsértés két éven belüli ismételt elkövetésének megállapítására az államháztartásról szóló 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 15. §-a (7) bekezdésének b) pontja alapján jogerős és végrehajtható közigazgatási határozattal sor került.
+(4) A hatóság – a (6) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból a jogerős és végrehajtható közigazgatási vagy – a közigazgatási határozat bírósági felülvizsgálata esetén – bírósági határozattal két éven belül azonos jogsértés ismételt elkövetése miatt bírsággal sújtott munkáltatókra vonatkozó, az (1) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat bírósági felülvizsgálata esetén az e) pontban foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján akkor hozza nyilvánosságra, amikor a korábbival azonos jogsértés két éven belüli ismételt elkövetésének megállapítására az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) és a végrehajtására kiadott rendelet alapján jogerős és végrehajtható közigazgatási határozattal sor került.
 
 (5) A (4) bekezdés alkalmazásában – több telephellyel rendelkező munkáltató esetében – azonos jogsértés ismételt elkövetésén az ugyanazon telephelyen kétéves időszakon belül jogerős és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
 
@@ -259,7 +253,7 @@ folytatja le.
 
 17/C. § (1) A testület három tagjának felkérésére a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, három további tagjának felkérésére az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter tesz javaslatot a miniszterelnöknek. A felkérni javasolt személyekről a javaslatot tevő miniszterek az egyenlő bánásmód követelménye érvényesítésében részt vevő szervekkel és szervezetekkel előzetes közös egyeztetést folytatnak.
 
-(2) A megbízatás ellátására a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választójoggal rendelkező olyan személy kérhető fel, aki az emberi jogok védelme és az egyenlő bánásmód követelményének érvényesítése területén kiemelkedő tapasztalatokkal rendelkezik.
+(2) A megbízatás ellátására a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választható olyan személy kérhető fel, aki az emberi jogok védelme és az egyenlő bánásmód követelményének érvényesítése területén kiemelkedő tapasztalatokkal rendelkezik.
 
 (3) Nem kérhető fel a testület tagjává az, aki
 
@@ -433,9 +427,9 @@ során.
 - a) közoktatási intézményben a szülők kezdeményezésére és önkéntes választása szerint,
 - b) felsőoktatási intézményben a hallgatók önkéntes részvétele alapján
 
-olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá kisebbségi vagy nemzetiségi oktatást szerveznek, amelynek célja vagy tanrendje indokolja elkülönült osztályok vagy csoportok alakítását; feltéve, hogy emiatt az oktatásban résztvevőket semmilyen hátrány nem éri, továbbá ha az oktatás megfelel az állam által jóváhagyott, államilag előírt, illetve államilag támogatott követelményeknek.
+olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemzetiségi oktatást szerveznek, amelynek célja vagy tanrendje indokolja elkülönült osztályok vagy csoportok alakítását; feltéve, hogy emiatt az oktatásban résztvevőket semmilyen hátrány nem éri, továbbá ha az oktatás megfelel az állam által jóváhagyott, államilag előírt, illetve államilag támogatott követelményeknek.
 
-(3) A 27. § (2) bekezdésének a) pontjától a nyelvi vagy kulturális önazonosság megőrzését szolgáló, illetve egyházi, kisebbségi vagy nemzetiségi oktatási intézmény tekintetében jogszabály eltérően rendelkezhet.
+(3) A 27. § (2) bekezdésének a) pontjától a nyelvi vagy kulturális önazonosság megőrzését szolgáló, illetve egyházi vagy nemzetiségi oktatási intézmény tekintetében jogszabály eltérően rendelkezhet.
 
 29. § Törvény vagy törvény felhatalmazása alapján megalkotott kormányrendelet az iskolarendszeren belüli, valamint az iskolarendszeren kívüli oktatásban részt vevők meghatározott körére – az oktatással, képzéssel összefüggésben – előnyben részesítési kötelezettséget írhat elő.
 
@@ -491,7 +485,136 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá kise
 
 (2) A támogatás összege nem haladhatja meg a megállapításakor hatályos közfoglalkoztatási bér összegét.
 
-33–62. §
+### V/A. Fejezet — AZ EGYENLŐ BÁNÁSMÓD HATÓSÁG
+
+### A hatóság jogállása
+
+33. § (1) Az egyenlő bánásmód követelményének érvényesülését a hatóság ellenőrzi.
+
+(2) A hatóság autonóm államigazgatási szerv.
+
+(3) A hatóság független, csak a törvénynek van alárendelve, feladatkörében nem utasítható, a feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el. A hatóság számára feladatot csak törvény állapíthat meg.
+
+(4) A hatóság ellátja – kormányrendeletben meghatározott kivétellel – a légijárműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól szóló, 2006. július 5-i 1107/2006/EK európai parlamenti és tanácsi rendelet 14. cikkében meghatározott végrehajtó szerv feladatait.
+
+### A hatóság költségvetése és gazdálkodása
+
+34. § (1) A hatóság fejezeti jogosítványokkal felruházott központi költségvetési szerv, amelynek költségvetése az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter költségvetési fejezetén belül önálló címet képez.
+
+(2) A hatóság tárgyévi költségvetésének kiadási és bevételi fő összegei – az államháztartásról szóló törvényben meghatározott, az élet- és vagyonbiztonságot veszélyeztető elemi csapás, illetve annak következményei elhárítása érdekében meghozott átmeneti intézkedés, valamint a hatóság saját vagy irányító szervi hatáskörében meghozott intézkedése kivételével – kizárólag az Országgyűlés által csökkenthetők.
+
+(3) A hatóság által kiszabott bírság a központi költségvetés bevétele.
+
+(4) Az előző évi bevételeiből származó maradványt a hatóság a következő években a feladatai teljesítésére felhasználhatja.
+
+### A hatóság elnöke
+
+35. § (1) A hatóságot elnök vezeti. A hatóság elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki. A hatóság elnökévé az a magyar állampolgárságú, az országgyűlési képviselők választásán választható, az egyenlő bánásmód követelményének érvényesítése vagy az emberi jogok védelme területén kiemelkedő tudással rendelkező jogász nevezhető ki, aki jogi szakvizsgával és legalább ötéves, jogi végzettséghez kötött munkakörben vagy a közigazgatásban eltöltött szakmai gyakorlattal rendelkezik.
+
+(2) A hatóság elnökének nem nevezhető ki az, aki a kinevezésre irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, államtitkár, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei képviselő-testület elnöke vagy alelnöke, nemzetiségi önkormányzat tagja, illetve párt tisztségviselője vagy alkalmazottja volt.
+
+(3) A köztársasági elnök a hatóság elnökét kilenc évre nevezi ki.
+
+(4) A hatóság elnöke a kinevezését követően a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti tartalommal esküt tesz.
+
+36. § (1) A hatóság elnöke nem lehet tagja pártnak, nem folytathat politikai tevékenységet, megbízatása összeegyeztethetetlen minden más állami vagy önkormányzati tisztséggel és megbízatással.
+
+(2) A hatóság elnöke más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, az oktatói, a művészeti, a szerzői jogi védelem alá eső, továbbá a lektori és a szerkesztői tevékenységet kivéve – díjazást nem fogadhat el.
+
+(3) A hatóság elnöke nem lehet gazdasági társaság vezető tisztségviselője, felügyelőbizottságának tagja, továbbá gazdasági társaság személyes közreműködésre kötelezett tagja.
+
+37. § (1) A hatóság elnöke a kinevezését követő harminc napon belül, majd ezt követően minden évben január 31-éig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz.
+
+(2) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a hatóság elnöke tisztségét nem gyakorolhatja, javadalmazásban nem részesül.
+
+(3) A vagyonnyilatkozat nyilvános, oldalhű másolatát a hatóság honlapján haladéktalanul közzé kell tenni. A vagyonnyilatkozat a honlapról a hatóság elnöke megbízatásának megszűnését követő egy év elteltéig nem távolítható el.
+
+(4) A hatóság elnökének vagyonnyilatkozatával kapcsolatos eljárást a miniszterelnöknél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a miniszterelnök az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a miniszterelnök ellenőrzi.
+
+(5) A vagyonnyilatkozattal kapcsolatos eljárás során a miniszterelnök felhívására a hatóság elnöke köteles a vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni a miniszterelnök részére. Az ellenőrzés eredményéről az adatok megküldésével a miniszterelnök tájékoztatja a köztársasági elnököt. Az adatokba csak a miniszterelnök és a köztársasági elnök tekinthet be.
+
+(6) A hatóság elnöke által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
+
+38. § (1) A hatóság elnöke miniszteri illetményre és juttatásokra jogosult, azzal, hogy a vezetői illetménypótlék mértéke a miniszteri vezetői illetménypótlék másfélszerese.
+
+(2) A hatóság elnökét naptári évenként negyven munkanap szabadság illeti meg.
+
+39. § (1) A hatóság elnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül.
+
+(2) A hatóság elnöke megbízatásának időtartama közigazgatási szervnél közszolgálati jogviszonyban töltött időnek számít.
+
+40. § (1) A hatóság elnökének megbízatása megszűnik
+
+- a) a megbízatási idejének lejártával,
+- b) lemondásával,
+- c) halálával,
+- d) a kinevezéséhez szükséges feltételek hiányának megállapításával,
+- e) összeférhetetlensége megállapításával,
+- f) felmentésével,
+- g) a tisztségétől való megfosztással.
+
+(2) A hatóság elnöke a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat megbízatásáról. A hatóság elnökének megbízatása a lemondás közlését követő, a lemondásban megjelölt napon, ennek hiányában a lemondás közlésének napján szűnik meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+(3) Ha a hatóság elnöke a 36. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a köztársasági elnök a miniszterelnök indítványára, az indítvány kézhezvételétől számított harminc napon belül dönt az összeférhetetlenség megállapításának kérdésében.
+
+(4) A köztársasági elnök – a miniszterelnök indítványára – felmenti a hatóság elnökét, ha a hatóság elnöke neki fel nem róható okból kilencven napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak.
+
+(5) A köztársasági elnök – a miniszterelnök indítványára – megfosztja tisztségétől a hatóság elnökét, ha a hatóság elnöke neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő feladatainak, vagy vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
+
+(6) A hatóság elnökének kinevezéséhez szükséges feltételek hiányát a miniszterelnök indítványára a köztársasági elnök állapítja meg.
+
+(7) A megbízatás az (1) bekezdés a), b) és f) pontja szerinti megszűnése esetén a hatóság elnökét a megszűnéskori havi illetménye háromszorosának megfelelő összegű külön illetmény illeti meg.
+
+(8) A köztársasági elnöknek a (3)–(6) bekezdéssel és a 35. §-sal a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
+
+### A hatóság elnökének helyettese
+
+41. § (1) A hatóság elnökének munkáját az általa határozatlan időre kinevezett helyettes segíti. A hatóság elnökhelyettese felett az elnök gyakorolja a munkáltatói jogokat.
+
+(2) A hatóság elnökhelyettesévé magyar állampolgárságú, az országgyűlési képviselők választásán választható, az egyenlő bánásmód követelményének érvényesítése vagy az emberi jogok védelme területén kiemelkedő tudással rendelkező felsőfokú végzettségű szakember nevezhető ki.
+
+(3) A hatóság elnökhelyettese összeférhetetlenségére a 36. §-ban foglaltakat kell alkalmazni.
+
+(4) A hatóság elnökhelyettese a hatóság elnöke akadályoztatása esetén, illetve ha az elnöki tisztség nincs betöltve, gyakorolja a hatóság elnök hatásköreit és ellátja feladatait.
+
+42. § Az elnökhelyettes vagyonnyilatkozat-tételi kötelezettségére és a vagyonnyilatkozatával kapcsolatos eljárásra a 37. § rendelkezéseit kell alkalmazni azzal, hogy a vagyonnyilatkozatával kapcsolatos eljárás során a miniszterelnök helyett a hatóság elnöke jár el, és az ellenőrzés eredményéről nem kell tájékoztatni a köztársasági elnököt.
+
+43. § (1) A hatóság elnökhelyettese államtitkári illetményre és juttatásokra jogosult.
+
+(2) A hatóság elnökhelyettesét naptári évenként negyven munkanap szabadság illeti meg.
+
+(3) A hatóság elnökhelyettese a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül.
+
+(4) A hatóság elnökhelyettese megbízatásának időtartama közigazgatási szervnél közszolgálati jogviszonyban töltött időnek számít.
+
+44. § (1) A hatóság elnökhelyettesének megbízatása megszűnik
+
+- a) lemondásával,
+- b) halálával,
+- c) a kinevezéséhez szükséges feltételek hiányának megállapításával,
+- d) összeférhetetlensége megállapításával,
+- e) felmentésével,
+- f) a tisztségétől való megfosztással.
+
+(2) A hatóság elnökhelyettese a hatóság elnökéhez intézett írásbeli nyilatkozatával bármikor lemondhat megbízatásáról. A hatóság elnökhelyettesének megbízatása a lemondás közlését követő, a lemondásban megjelölt napon, ennek hiányában a lemondás közlésének napján szűnik meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+(3) Ha a hatóság elnökhelyettese a 36. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a hatóság elnöke dönt az összeférhetetlenség megállapításának kérdésében.
+
+(4) A hatóság elnöke felmenti a hatóság elnökhelyettesét, ha a hatóság elnökhelyettese neki fel nem róható okból kilencven napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak.
+
+(5) A hatóság elnöke a hatóság elnökhelyettesét felmentheti, ezzel egyidejűleg a hatóság elnökhelyettesének a hatóságnál köztisztviselői munkakört kell felajánlani.
+
+(6) A hatóság elnöke megfosztja tisztségétől a hatóság elnökhelyettesét, ha a hatóság elnökhelyettese neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő feladatainak, vagy vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
+
+(7) A hatóság elnökhelyettesének kinevezéséhez szükséges feltételek hiányát a hatóság elnöke állapítja meg.
+
+(8) A megbízatás az (1) bekezdés a) és e) pontja szerinti megszűnése esetén a hatóság elnökhelyettesét a megszűnéskori havi illetménye háromszorosának megfelelő összegű külön illetmény illeti meg.
+
+### A hatóság személyi állománya
+
+45. § A hatóság köztisztviselői és munkavállalói felett a munkáltatói jogokat a hatóság elnöke gyakorolja.
+
+46–62. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

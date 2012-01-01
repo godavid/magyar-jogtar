@@ -28,15 +28,15 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 3. § (1) A helyi önkormányzat tulajdonában lévő lakásra (a továbbiakban: önkormányzati lakás) a tulajdonos önkormányzat – e törvény keretei között alkotott – rendeletében (a továbbiakban: önkormányzati rendelet) meghatározott feltételekkel lehet szerződést kötni. Az önkormányzati rendeletben meg kell határozni az önkormányzati lakás szociális helyzet alapján történő bérbeadásának a lakás bérbeadásakor fennálló jövedelmi és vagyoni körülményekhez igazodó feltételeit. Az önkormányzati rendelet a nem szociális helyzet alapján történő bérbeadás esetén szabályozhatja a Ptk. rendelkezéseinek megfelelő óvadék kikötésének lehetőségét és feltételeit.
 
-(2) Az önkormányzati rendelet – az állam tulajdonában lévő lakás (a továbbiakban: állami lakás) esetén a Kormány rendelete – a bérbeadás feltételeként meghatározhatja, hogy a lakásbérleti szerződés fennállása alatt a bérlő köteles életvitelszerűen a lakásban lakni. A rendeletben meghatározott ilyen feltételt a szerződésnek tartalmaznia kell azzal a kikötéssel, hogy a bérlő a lakásból történő két hónapot meghaladó távollétét és annak időtartamát köteles írásban a bérbeadó részére bejelenteni. A bérlő által bejelentett – különösen: egészségügyi ok, munkahely megváltozása, tanulmányok folytatása miatt történő – távolléte alatt, erre hivatkozással felmondani nem lehet. Nem lehet felmondani a szerződést abban az esetben sem, ha a bérlő a bejelentést menthető okból mulasztotta el, és erről a bérbeadót – felhívására – írásban tájékoztatja.
+(2) Az önkormányzati rendelet a bérbeadás feltételeként meghatározhatja, hogy a lakásbérleti szerződés fennállása alatt a bérlő köteles életvitelszerűen a lakásban lakni. A rendeletben meghatározott ilyen feltételt a szerződésnek tartalmaznia kell azzal a kikötéssel, hogy a bérlő a lakásból történő két hónapot meghaladó távollétét és annak időtartamát köteles írásban a bérbeadó részére bejelenteni. A bérlő által bejelentett – különösen: egészségügyi ok, munkahely megváltozása, tanulmányok folytatása miatt történő – távolléte alatt, erre hivatkozással felmondani nem lehet. Nem lehet felmondani a szerződést abban az esetben sem, ha a bérlő a bejelentést menthető okból mulasztotta el, és erről a bérbeadót – felhívására – írásban tájékoztatja.
 
 (3) Ha az önkormányzati lakás, továbbá a műteremlakás bérlőjének kijelölésére vagy kiválasztására megállapodás, illetőleg e törvény hatálybalépésekor jogszabály meghatározott szervet jogosít fel, az általa megjelölt személlyel kell szerződést kötni. A bérlőkijelölésre, valamint ilyen megállapodás esetén a bérlő kiválasztására jogosult döntése alapján a szerződés határozatlan vagy határozott időre, illetőleg feltétel bekövetkezéséig köthető. A bérlőkijelölésre jogosult a szerződés tartalmára vonatkozóan — ha erre törvény vagy megállapodás felhatalmazza — egyéb feltételeket is előírhat.
 
 (4) Az e törvényben előírt bérbeadói hozzájárulás — ha a felek megállapodásából más nem következik — a bérlőkijelölésre jogosult által meghatározott tartalommal érvényes. Ezt a rendelkezést kell alkalmazni a bérlőkiválasztási jog esetén is, ha e törvény a jogosult hozzájárulását írja elő.
 
-(5) Az állami lakásra – a (3) bekezdés megfelelő alkalmazásával – a bérlő kiválasztására jogosult által megjelölt személlyel és időtartamra lehet szerződést kötni.
+(5) Az állam tulajdonában lévő lakásra (a továbbiakban: állami lakás) – a (3) bekezdés megfelelő alkalmazásával – a bérlő kiválasztására jogosult által megjelölt személlyel és időtartamra lehet szerződést kötni.
 
-(6) A (3) bekezdésben említett műteremlakás esetén a kultúráért felelős miniszter a bérlőkijelölési jog gyakorlását a Magyar Alkotóművészeti Közalapítványra átruházhatja.
+(6) A (3) bekezdésben említett műteremlakás esetén a kultúráért felelős miniszter a bérlőkijelölési jog gyakorlását költségvetési szervre vagy alkotóművészeti hivatásgyakorlást szolgáló gazdasági társaságra átruházhatja.
 
 4. § (1) A lakást több bérlő együttesen is bérelheti (bérlőtársak).
 
@@ -181,7 +181,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 - c) az arra jogosult felmond;
 - d) a bérlő meghal és nincs a lakásbérleti jog folytatására jogosult személy;
 - e) a bérlő a lakást elcseréli;
-- f) a bérlőt a Magyar Köztársaság területéről kiutasították;
+- f) a bérlőt Magyarország területéről kiutasították;
 - g) a bérlő lakásbérleti jogviszonyát a bíróság megszünteti;
 - h) a bérlő lakásbérleti jogviszonya hatósági határozat folytán megszűnik.
 
@@ -336,7 +336,7 @@ történő bérbeadás figyelembevételével önkormányzati rendelet állapítj
 
 (2) A szociális helyzet alapján bérbe adott, illetőleg az állami lakás lakbérének mértékét a lakás alapvető jellemzői, így különösen: a lakás komfortfokozata, alapterülete, minősége, a lakóépület állapota és településen, illetőleg a lakóépületen belüli fekvése, valamint a 10. § rendelkezéseinek megfelelően a bérbeadó által a szerződés keretében nyújtott szolgáltatás alapján, továbbá a 13. § (2) bekezdés rendelkezéseinek figyelembevételével kell meghatározni.
 
-(3) A szociális helyzet alapján történő bérbeadással érintett bérlők részére az önkormányzati lakbértámogatás mértékét, a jogosultság feltételeit és eljárási szabályait – a szociális igazgatásról és szociális ellátásokról szóló külön törvényben meghatározott, önálló ellátásként nyújtható helyi lakásfenntartási támogatásra vonatkozó rendelkezések figyelembevételével – az önkormányzat rendeletében kell megállapítani. A bérbeadó a jogosultság fennállását évente felülvizsgálja és a feltételek megszűnése esetén a lakbértámogatás nyújtását megszünteti.
+(3) A szociális helyzet alapján történő bérbeadással érintett bérlők részére az önkormányzati lakbértámogatás mértékét, a jogosultság feltételeit és eljárási szabályait az önkormányzat rendeletében kell megállapítani. A bérbeadó a jogosultság fennállását évente felülvizsgálja és a feltételek megszűnése esetén a lakbértámogatás nyújtását megszünteti.
 
 (4) A költségelven bérbe adott lakás lakbérének mértékét a lakás (2) bekezdésben meghatározott alapvető jellemzői, továbbá a 10. § és a 13. § (1) bekezdésének rendelkezései alapján úgy kell megállapítani, hogy a bérbeadónak az épülettel, az épület központi berendezéseivel és a lakással, a lakásberendezésekkel kapcsolatos ráfordításai megtérüljenek.
 
@@ -402,7 +402,7 @@ történő bérbeadás figyelembevételével önkormányzati rendelet állapítj
 
 (2) Társbérlet esetén a közösen használt lakóterületet az (1) bekezdés c) pontjában említett arányban kell figyelembe venni.
 
-50. § Annak a bérlőnek a lakását, aki nyugdíjas vagy a külön jogszabályokban meghatározott nyugdíjszerű rendszeres szociális ellátásban részesül, és az elővásárlási jogával nem él, a szerződésének fennállásáig harmadik személy részére csak a bérlő írásbeli hozzájárulásával lehet elidegeníteni.
+50. § Annak a bérlőnek a lakását, aki nyugdíjas vagy nyugdíjszerű ellátásban részesül, és az elővásárlási jogával nem él, a szerződésének fennállásáig harmadik személy részére csak a bérlő írásbeli hozzájárulásával lehet elidegeníteni.
 
 51. § (1) Az első adásvételi szerződés megkötését megelőzően — az egylakásos, illetőleg az egy helyiségből (helyiségcsoportból) álló épület kivételével — az épületet társasházzá kell alakítani.
 
@@ -639,7 +639,7 @@ használható fel. A felhasználás feltételeit és a pályázati eljárás ren
 
 84. § (1) Az önkormányzat képviselő-testülete dönthet arról, hogy a szociális helyzet alapján történő bérbeadás érdekében évente lakásigénylési névjegyzéket készít. Az önkormányzat a névjegyzék készítéséről hozott döntés esetén a lakásigénylés jogosultságát alátámasztó szociális helyzetre vonatkozó személyes adatokat az érintett önkéntes hozzájárulása alapján – az igénylés elbírálásáig, illetőleg a lakásbérleti szerződés megszűnéséig – kezeli. A kérelmek befogadásának, a névjegyzékbe vételnek és a névjegyzékbe vett igénylések teljesítésének eljárási szabályait az önkormányzati rendelet állapítja meg; a kérelmek befogadásának feltételeként azonban ellenérték megfizetése nem írható elő.
 
-(2) Az (1) bekezdés szerinti lakásigénylési névjegyzék készítése esetén a névjegyzékben szereplő személyes adatok kezelésének szabályait – a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló külön törvényben foglaltaknak megfelelően – az önkormányzati rendelet határozza meg.
+(2) Az (1) bekezdés szerinti lakásigénylési névjegyzék készítése esetén a névjegyzékben szereplő személyes adatok kezelésének szabályait az önkormányzati rendelet határozza meg.
 
 85. § (1) A lakás fekvése szerinti települési – a fővárosban a kerületi – önkormányzat (e § és a 90. § alkalmazásában a továbbiakban együtt: önkormányzat) a 62. § (3) bekezdésében meghatározott kényszerbérlet fennállása esetén a kényszerbérlő, illetőleg a bérbeadó erre vonatkozó írásbeli bejelentésétől számított három éven belül köteles a kényszerbérlő részére – a bérbeadó egyidejű értesítésével – az e törvény rendelkezéseinek megfelelő önkormányzati cserelakás (a továbbiakban: cserelakás) bérbeadását felajánlani. Ha az önkormányzat a cserelakást felajánlotta, a bérbeadó a kényszerbérletet – a 26. § (1) bekezdésében meghatározott felmondási idővel – a következő hónap utolsó napjára felmondhatja.
 
@@ -655,7 +655,7 @@ használható fel. A felhasználás feltételeit és a pályázati eljárás ren
 
 (7) Ha a körülmények megváltozására tekintettel indokolt, úgy a kényszerbérlet megszüntetésére az (1) bekezdés szerinti időtartamon belül – az (1)–(3) és (6) bekezdés szerinti sorrendben – ismételt kísérletet kell tenni, ha pedig a soron következő megszüntetési módot sorrendben megelőző bármely megszüntetési mód alkalmazásának eredményessége valószínűsíthető, ezt kell megkísérelni.
 
-(8) Ha a kényszerbérletnek sem az (1)–(3), sem pedig a (6) bekezdésben említett módon történő megszüntetésére irányuló intézkedés nem járt eredménnyel, a volt kényszerbérlő az (1) bekezdésben meghatározott időtartam lejártát követő hónap első napjától a bérleti jogviszony fennmaradása mellett a lakás bérlőjévé válik. Ha a volt kényszerbérlő nyugdíjas vagy külön jogszabályban meghatározott nyugdíjszerű rendszeres szociális ellátásban részesül és a bérbeadóval másképp nem állapodnak meg, a bérbeadó a bérleti szerződés megszűnéséig legfeljebb az önkormányzati rendeletben a szociális helyzet alapján bérbe adott lakásra meghatározott lakbérmérték háromszoros mértékének megfelelő lakbér megfizetésére tarthat igényt. Ha az önkormányzat e törvény rendelkezései alapján nem köteles rendeletet alkotni, a szociális helyzet szerinti lakbérmértéket a képviselő-testület határozata állapítja meg.
+(8) Ha a kényszerbérletnek sem az (1)–(3), sem pedig a (6) bekezdésben említett módon történő megszüntetésére irányuló intézkedés nem járt eredménnyel, a volt kényszerbérlő az (1) bekezdésben meghatározott időtartam lejártát követő hónap első napjától a bérleti jogviszony fennmaradása mellett a lakás bérlőjévé válik. Ha a volt kényszerbérlő nyugdíjas vagy nyugdíjszerű ellátásban részesül és a bérbeadóval másképp nem állapodnak meg, a bérbeadó a bérleti szerződés megszűnéséig legfeljebb az önkormányzati rendeletben a szociális helyzet alapján bérbe adott lakásra meghatározott lakbérmérték háromszoros mértékének megfelelő lakbér megfizetésére tarthat igényt. Ha az önkormányzat e törvény rendelkezései alapján nem köteles rendeletet alkotni, a szociális helyzet szerinti lakbérmértéket a képviselő-testület határozata állapítja meg.
 
 (9) Az önkormányzat – a kényszerbérletnek az (1)–(3) vagy a (6) bekezdésben említett módon történő megszűnéséig – köteles a kényszerbérlő által a szerződés alapján fizetett lakbér és a bérbeadó által közölt lakbér különbözetét a bérbeadónak megtéríteni. Ha az önkormányzat a bérbeadó által közölt lakbérkülönbözet összegét nem fogadja el, úgy annak megállapítását – a 6. § (2) bekezdése alapján történő lakbér-megállapítás keretében – a bíróságtól kérheti.
 
@@ -694,21 +694,20 @@ használható fel. A felhasználás feltételeit és a pályázati eljárás ren
 
 ### Állami szervekre vonatkozó külön rendelkezések
 
-87. § (1) Felhatalmazást kap a Kormány, hogy a központi költségvetési szervekkel szolgálati, köztisztviselői, közalkalmazotti és egyéb munkaviszonyban, valamint más címen foglalkoztatási jogviszonyban álló személyek elhelyezéséhez szükséges lakásokra, illetőleg helyiségekre (ideértve a bérlőkijelölési vagy bérlő-kiválasztási jog gyakorlását is), – e törvény keretei között – rendeletben határozza meg:
+87. § (1) Felhatalmazást kap a Kormány tagja, hogy az általa vezetett minisztériummal, a felügyelete vagy irányítása alá tartozó központi költségvetési szervekkel közszolgálati jogviszonyban vagy foglalkoztatásra irányuló más jogviszonyban álló személyek elhelyezéséhez szükséges állami lakásokra és helyiségekre, továbbá a bérlőkijelölési és a bérlőkiválasztási jog gyakorlására – e törvény keretei között – rendeletben határozza meg
 
-- a) a bérlők körét és a bérbeadás feltételeit;
-- b) az állami lakásra (helyiségre) a szerződés megkötésekor a Ptk. rendelkezéseinek megfelelő óvadék kikötésének lehetőségét és feltételeit;
+- a) a bérlők körét és a bérbeadás feltételeit, ideértve az életvitelszerű bentlakás szabályait és a lakás rendeltetésszerű használatának ellenőrzését is;
+- b) az állami lakásra és helyiségre a szerződés megkötésekor a Ptk. rendelkezéseinek megfelelő óvadék kikötésének lehetőségét és feltételeit;
 - c) a bérlőtársi jogviszony létesítésének feltételeit;
 - d) a lakáshasználati díj emelésének mértékét és feltételeit;
 - e) a bérlő által befogadható személyek körét és a befogadás feltételeit;
 - f) a tartási szerződéshez való hozzájárulás feltételeit;
-- g) a lakáscseréhez (a helyiség bérleti jogának cseréjéhez, átruházásához) történő hozzájárulás feltételeit;
+- g) a lakás és helyiség bérleti jogának cseréjéhez és a helyiség bérleti jogának átruházásához történő hozzájárulás feltételeit;
 - h) a lakásban visszamaradó személy elhelyezésére történő kötelezettségvállalás feltételeit;
-- i) a bérlő halála esetén a bérlőkijelölési joggal érintett lakás, továbbá az állami lakás bérleti jogának folytatására jogosultak körét és feltételeit;
-- j) az albérletbe adáshoz való hozzájárulás feltételeit;
-- k) az állami lakás bérének mértékét, illetőleg a lakbér megállapításának feltételeit;
-- l) az állami lakás (helyiség) elidegenítésének szabályait;
-- m) a lakás (a bérlőkijelölési joggal érintett helyiség) elidegenítéséhez való hozzájárulás feltételeit.
+- i) a bérlő halála esetén a lakásra és helyiségre (ideértve a bérlőkijelölési joggal érintett lakást is) vonatkozó bérleti jog folytatásának lehetőségét, továbbá a jogfolytatásra jogosultak körét és a joggyakorlás feltételeit;
+- j) a lakás és helyiség albérletbe adásához való hozzájárulás feltételeit;
+- k) a lakás és helyiség lakbérének mértékét és a lakbér megállapításának feltételeit;
+- l) a lakás és helyiség (ideértve a bérlőkijelölési joggal érintett helyiség) elidegenítéséhez való hozzájárulás feltételeit.
 
 (2) Az (1) bekezdés a), g), h) és m) pontjában foglaltakat a fennálló bérlőkiválasztási jog esetén megfelelően alkalmazni kell.
 
@@ -877,6 +876,7 @@ rendelkezik.
 - 20. Szülő: a vér szerinti, az örökbefogadó, a mostoha- és nevelőszülő.
 - 21. Elővásárlásra jogosult: az e törvény 49. §-ának (1) bekezdésében, az 58. §-ának (1) bekezdésében, továbbá az 59. §-ában meghatározott személy.
 - 22. Önkormányzati helyi támogatás: kamatmentes kölcsön, illetőleg részben vagy egészben vissza nem térítendő támogatás nyújtása rászoruló családok részére lakótelek, új vagy használt lakás megszerzéséhez, lakás bővítéséhez, korszerűsítéséhez, felújításához, fenntartásához, lakáscélú kölcsön törlesztőrészleteinek, lakás lakbérének megfizetéséhez és más, a lakással kapcsolatos költségeik viseléséhez, valamint társasházi közös tulajdonú és lakásszövetkezeti tulajdonú épületrészek és épületberendezések felújításához, korszerűsítéséhez.
+- 23. nyugdíjszerű ellátás: a korhatár előtti ellátás, a szolgálati járandóság, az átmeneti bányászjáradék és mindaz az ellátás, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik, vagy amely ellátást a nyugdíjemelésre vonatkozó rendelkezések szerint kell emelni.
 
 ### Hatálybalépés
 

@@ -2,7 +2,7 @@
 
 a családok támogatásáról
 
-Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségtől vezérelve az Alkotmányban, továbbá a nemzetközi egyezményekben rögzített szociális jogok érvényre juttatása érdekében a következő törvényt alkotja:
+Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségtől vezérelve az Alaptörvényben, továbbá a nemzetközi egyezményekben rögzített szociális jogok érvényre juttatása érdekében a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -12,12 +12,12 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 
 ### A törvény hatálya
 
-2. § E törvény hatálya kiterjed – amennyiben nemzetközi szerződés eltérően nem rendelkezik – a Magyar Köztársaság területén élő
+2. § E törvény hatálya kiterjed – amennyiben nemzetközi szerződés eltérően nem rendelkezik – a Magyarország területén élő
 
 - a) magyar állampolgárra,
 - b) bevándorolt vagy letelepedett jogállású, továbbá a magyar hatóság által menekültként, illetve hontalanként elismert személyekre,
-- c) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát a Magyar Köztársaság területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
-- d) – az anyasági támogatás (IV. fejezet) kivételével – a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletekben (a továbbiakban: uniós rendeletek) meghatározott jogosulti körbe tartozó személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát a Magyar Köztársaság területén gyakorolja, és – a határ menti ingázó munkavállalókat kivéve – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
+- c) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
+- d) – az anyasági támogatás (IV. fejezet) kivételével – a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletekben (a továbbiakban: uniós rendeletek) meghatározott jogosulti körbe tartozó személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorolja, és – a határ menti ingázó munkavállalókat kivéve – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
 - e) – az anyasági támogatás (IV. fejezet) kivételével – a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező harmadik országbeli állampolgárra.
 
 ### Alapelvek
@@ -37,7 +37,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 - a) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
 - b)
 - c) tanköteles: a közoktatásról szóló 1993. évi LXXIX. törvény rendelkezése értelmében az a gyermek, akit az iskola igazgatója tankötelesnek nyilvánított;
-- d) kereső tevékenység: munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység, továbbá szövetkezet tagjaként, vagy egyéni vállalkozóként, illetőleg társas vállalkozás vagy egyéni cég tagjaként folytatott – személyes közreműködést igénylő – tevékenység;
+- d) kereső tevékenység: munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység, továbbá szövetkezet tagjaként vagy egyéni vállalkozóként, illetőleg társas vállalkozás vagy egyéni cég tagjaként folytatott – személyes közreműködést igénylő – tevékenység;
 - e) szociális intézmény: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben (a továbbiakban: Szt.) szabályozott ápolást-gondozást, rehabilitációt, valamint átmeneti elhelyezést nyújtó bentlakásos intézmény;
 - f) tartósan beteg, illetve súlyosan fogyatékos személy:
   - fa) az a tizennyolc évesnél fiatalabb gyermek, aki a külön jogszabályban meghatározott betegsége, illetve fogyatékossága miatt állandó vagy fokozott felügyeletre, gondozásra szorul,
@@ -71,8 +71,8 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 7. § (1) Nevelési ellátásra jogosult
 
 - a) a vér szerinti, az örökbe fogadó szülő, a szülővel együtt élő házastárs, az a személy, aki a saját háztartásában nevelt gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van (a továbbiakban együtt: szülő), a nevelőszülő, a hivatásos nevelőszülő, a gyám, továbbá az a személy, akihez a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 72. §-ának (1) bekezdése alapján a gyermeket ideiglenes hatállyal elhelyezték, a saját háztartásában nevelt,
-- b) a vagyonkezelői joggal felruházott gyám, illetőleg a vagyonkezelő eseti gondnok a gyermekotthonban nevelt, és
-- c) a Magyarország területén működő szociális intézmény vezetője – amennyiben más személy jogosultsága a b) pont alapján nem állapítható meg – az intézményben elhelyezett, még nem tanköteles gyermekre tekintettel, a gyermek tankötelessé válása évének október 31-éig.
+- b) a gyermekotthon vezetője a gyermekotthonban nevelt,
+- c) a szociális intézmény vezetője az intézményben elhelyezett, még nem tanköteles gyermekre tekintettel, a gyermek tankötelessé válása évének október 31-éig.
 
 (2) Saját jogán jogosult nevelési ellátásra a tizennyolcadik életévét betöltött tartósan beteg, illetve súlyosan fogyatékos személy az iskoláztatási támogatásra való jogosultság megszűnésének időpontjától.
 
@@ -83,7 +83,7 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 - a) a 7. § (1) bekezdés a)–c) pontjában meghatározott személy, továbbá a gyámhivatal által a szülői ház elhagyását engedélyező határozatban megjelölt személy
   - aa) a tanköteles gyermekre tekintettel a gyermek tankötelessé válása évének november 1-jétől a tankötelezettség teljes időtartamára, valamint
   - ab) a tankötelezettsége megszűnését követően közoktatási intézményben tanulmányokat folytató gyermekre (személyre) tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek (személy) a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti; továbbá
-- b) a vagyonkezelői joggal felruházott gyám, illetőleg a vagyonkezelő eseti gondnok a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő gyermekvédelmi gondoskodás alatt álló, tanköteles gyermekre tekintettel a tankötelezettség teljes időtartamára.
+- b) a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet parancsnoka a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő, és gyermekvédelmi gondoskodás alatt álló, tanköteles gyermekre tekintettel a tankötelezettség teljes időtartamára.
 
 (2) A súlyos és halmozottan fogyatékos tanuló [a közoktatásról szóló 1993. évi LXXIX. törvény 30/A. §] szülője a tankötelezettség teljesítésének formájától függetlenül a tankötelezettség teljesítésének végéig jogosult iskoláztatási támogatásra.
 
@@ -151,26 +151,23 @@ Az Országgyűlés a családok és gyermekek jólétéért érzett felelősségt
 
 - a) közoktatási intézmény tanulója, felsőoktatási intézmény első oklevelet szerző hallgatója és jövedelme nincs,
 - b) vakok személyi járadékában vagy fogyatékossági támogatásban részesül,
-- c) rokkantsági nyugdíjas, baleseti rokkantsági nyugdíjas, illetve rehabilitációs járadékban részesül, és nyugdíjának vagy járadékának összege nem haladja meg a rokkantsági csoportonként megállapított legkisebb rokkantsági nyugdíj összegét, illetve a rehabilitációs járadék legkisebb összegét, és egyéb jövedelme nincs,
-- d) nyugellátásban – ide nem értve a c) pont szerinti nyugellátásokat –, átmeneti járadékban részesül, feltéve, ha nyugdíjának, járadékénak összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét, és egyéb jövedelme nincs,
-- e) időskorúak járadékában, rendszeres szociális járadékban, rokkantsági járadékban, hadigondozási járadékban részesül, és egyéb jövedelme nincs, illetve az aktív korúak ellátására való jogosultságát megállapították,
+- c) megváltozott munkaképességű személyek ellátásában részesül és egyéb jövedelme nincs,
+- d) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül, feltéve, ha nyugdíjának, ellátásának összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét, és egyéb jövedelme nincs,
+- e) időskorúak járadékában, rokkantsági járadékban, hadigondozási járadékban részesül, és egyéb jövedelme nincs, illetve az aktív korúak ellátására való jogosultságát megállapították,
 - f) a reá irányadó öregségi nyugdíjkorhatárt betöltötte, és jövedelme nincs.
 
-13. § (1) A családi pótlékra jogosult gyám, eseti gondnok
-
-- a) a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő gyermekvédelmi gondoskodás alatt álló gyermekre (személyre) tekintettel járó családi pótlék teljes összegét,
-- b) a gyermekotthonban lévő gyermekre (személyre) tekintettel járó családi pótlék 50%-át gyámhatósági fenntartásos betétben vagy folyószámlán helyezi el.
-
-(2) A gyermekotthon vezetője a gyermekotthonban lévő gyermekre (személyre) tekintettel járó családi pótlék összegének 50%-át az intézmény költségvetésétől elkülönítetten kezeli, és a gyermek (személy) teljes körű ellátásának kiegészítésére biztosítja annak személyre szóló felhasználását. A szociális intézmény vezetője a családi pótlék teljes összegét az intézmény költségvetésétől elkülönítetten kezeli, és biztosítja annak személyre szóló felhasználását.
+13. § A gyermekotthon vezetője, a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet igazgatója a gyermekotthonban, javítóintézetben vagy büntetés-végrehajtási intézetben lévő és gyermekvédelmi gondoskodás alatt álló gyermekre tekintettel járó családi pótlék teljes összegét az intézmény költségvetésétől elkülönítetten kezeli, és a gyermek teljes körű ellátásának kiegészítésére biztosítja annak személyre szóló felhasználását. A szociális intézmény vezetője a családi pótlék teljes összegét az intézmény költségvetésétől elkülönítetten kezeli, és biztosítja annak személyre szóló felhasználását.
 
 14. § Amennyiben a tizennyolcadik életévét betöltött személynek rendszeres jövedelme van, úgy a rá tekintettel vagy a részére megállapított családi pótlék folyósítását a negyedik hónaptól mindaddig szüneteltetni kell, amíg rendszeres jövedelemmel rendelkezik. A szüneteltetés a 12. § (1) bekezdése szerinti számítást nem érinti.
 
 ### A tankötelezettség mulasztásával összefüggő rendelkezések
 
-15. § (1) Ha a tizennyolcadik életévét be nem töltött tanköteles gyermek – a (2) bekezdés szerinti kivétellel – a közoktatási intézmény kötelező tanórai foglalkozásai tekintetében igazolatlanul mulaszt, a közoktatási intézmény igazgatójának jelzése alapján a települési önkormányzat jegyzője gyámhatóságként eljárva
+15. § (1) Ha a tanköteles, továbbá a tankötelezettsége megszűnését követően közoktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a közoktatási intézmény igazgatójának jelzése alapján a települési önkormányzat jegyzője gyámhatóságként eljárva
 
 - a) az adott tanévben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után végzéssel felhívja az iskoláztatási támogatás jogosultját a b) pontban meghatározott jogkövetkezményekre,
-- b) az adott tanévben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkoztatás után – amennyiben a védelembe vétel még nem áll fenn – elrendeli a gyermek védelembe vételét, továbbá az iskoláztatási támogatás folyósításának felfüggesztését.
+- b) az adott tanévben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 15 napon belül –
+  - ba) felfüggeszti az iskoláztatási támogatás folyósítását, ha a gyermek az a) pont szerinti végzés meghozataláig a 16. életévét nem töltötte be, vagy
+  - bb) kezdeményezi az iskoláztatási támogatást folyósító szervnél az ellátás szüneteltetését, ha a gyermek az a) pont szerinti végzés meghozataláig a 16. életévét betöltötte.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a közoktatási intézmény kötelező tanórai foglalkozásai tekintetében
 
@@ -227,7 +224,7 @@ tanköteles gyermek mulasztott.
 - a) a gyermek egyéves koráig nem folytathat,
 - b) a gyermek egyéves kora után heti harminc órát meg nem haladó időtartamban folytathat, vagy időkorlátozás nélkül, ha a munkavégzés az otthonában történik,
 - c) a tartósan beteg vagy súlyosan fogyatékos gyermek egyéves kora után időkorlátozás nélkül folytathat,
-- d) ikergyermekek esetében a gyermekek egyéves kora után időkorlátozás nélkül folytathat azzal a megkötéssel, hogy a gyermekgondozási segélyben részesülő személy ikrek esetében egy gyermek után jogosult a gyermekgondozási segélyre.
+- d) ikergyermekek esetében a gyermekek egyéves kora után a b) pont szerinti korlátozás nélkül folytathat, azzal, hogy az e pont szerinti feltételekkel keresőtevékenységet folytató személy az ikergyermekek számától függetlenül az egy gyermek után járó összegű gyermekgondozási segélyre jogosult.
 
 (2) A kiskorú szülő gyermekének gyermekgondozási segélyben részesülő gyámja időkorlátozás nélkül folytathat kereső tevékenységet.
 
@@ -260,7 +257,7 @@ tanköteles gyermek mulasztott.
 
 - a) az Szt. 4. §-a (1) bekezdésének i) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül, ide nem értve
   - aa) a gyermekgondozási támogatást, valamint a gyermekgondozási támogatás folyósítása mellett végzett kereső tevékenység után járó táppénzt, baleseti táppénzt, továbbá az Szt. 43/A. §-a szerinti – az Szt. 44. §-ának (2) bekezdésében meghatározott összegű – ápolási díjat,
-  - ab) a gyermekgondozási segélyre való jogosultság esetében a társadalombiztosítási nyugellátásról szóló törvény alapján járó nyugellátást, illetve annak minősülő nyugellátást, továbbá a rehabilitációs járadékot, rokkantsági járadékot, az átmeneti járadékot, a rendszeres szociális járadékot és a bányász dolgozók egészségkárosodási járadékát;
+  - ab) a gyermekgondozási segélyre való jogosultság esetében a társadalombiztosítási nyugellátást, a társadalombiztosítási nyugellátásról szóló törvény szerint társadalombiztosítási nyugellátással egy tekintet alá eső ellátást, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátást, a Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjat, a korhatár előtti ellátást, a szolgálati járandóságot, a balettművészeti életjáradékot, az átmeneti bányászjáradékot, továbbá a rehabilitációs járadékot, rokkantsági járadékot, rokkantsági ellátást, a bányászok egészségkárosodási járadékát;
 - b) olyan gyermek után igényli a támogatást, akit a Gyvt. alapján ideiglenes hatállyal elhelyeztek, átmeneti vagy tartós nevelésbe vettek, továbbá az Szt. alapján 30 napot meghaladóan szociális intézményben helyeztek el;
 - c)
 - d) előzetes letartóztatásban van, illetve szabadságvesztés büntetését tölti.
@@ -281,7 +278,7 @@ tanköteles gyermek mulasztott.
 
 (2) Az anyasági támogatás az (1) bekezdés a) pontja szerinti jogosultat akkor is megilleti, ha a gyermek halva született.
 
-(3) E fejezet hatálya a 2. §-ban meghatározottakon túl kiterjed arra az anyasági támogatás igénylésének időpontjában a Magyar Köztársaság területén jogszerűen tartózkodó nőre, aki a terhessége alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – a Magyar Köztársaság területén terhesgondozáson vett részt.
+(3) E fejezet hatálya a 2. §-ban meghatározottakon túl kiterjed arra az anyasági támogatás igénylésének időpontjában a Magyarország területén jogszerűen tartózkodó nőre, aki a terhessége alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – Magyarország területén terhesgondozáson vett részt.
 
 30. § Amennyiben az anyasági támogatásra jogosult nő a támogatás felvételét megelőzően meghal, úgy az anyasági támogatást az anyával egy háztartásban élt apának kell kifizetni, ezen személy hiányában annak a személynek, aki a gyermek gondozását ellátja.
 
@@ -348,6 +345,8 @@ tanköteles gyermek mulasztott.
 (6) A családi pótlékot az elrendelést, illetve a megszüntetést követő második hónaptól kell természetben biztosítani, illetve pénzbeli formában folyósítani.
 
 (7) A felfüggesztett iskoláztatási támogatást a felfüggesztés elrendelését, illetve megszüntetését követő második hónaptól kell a családtámogatási folyószámlára, illetve a jogosult számára folyósítani.
+
+(8) A 15. § (1) bekezdés b) pont bb) alpontja szerinti esetben az iskoláztatási támogatás szüneteltetését a gyámhatóságként eljáró jegyző jelzésének beérkezését követő második hónap első napjától kell elrendelni.
 
 38. § (1) Ha a kérelem elbírálása után megállapítást nyer, hogy a kérelmet jogszabálysértő módon elutasították, vagy alacsonyabb összegű ellátást állapítottak meg, illetőleg folyósítottak, úgy a jogszabálysértés megállapításától visszafelé számított három éven belül járó összeget ki kell fizetni.
 
@@ -445,6 +444,8 @@ tanköteles gyermek mulasztott.
 
 (2) A kincstár a jogosultsági feltételek meglétét az ellátást igénylőknél ellenőrizheti.
 
+49/A. § Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, az igényelbíráló szerv által e törvény szerint kezelt személyes és különleges adatokat.
+
 ### ÁTMENETI ÉS ZÁRÓ RENDELKEZÉSEK
 
 50. § (1) Ez a törvény 1999. január 1-jén lép hatályba azzal, hogy az iskoláztatási támogatásra vonatkozó 9., 16–18. §-okat 1999. október 1-jétől kell alkalmazni.
@@ -463,6 +464,11 @@ tanköteles gyermek mulasztott.
 
 (8)
 
+50/A. § E törvénynek a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvénnyel módosított 15. § (1) bekezdését alkalmazni kell
+
+- a) azon ügyekben, amelyekben a közoktatási intézmény igazgatójának az igazolatlan mulasztásokról szóló, 15. § (1) bekezdés a) pontja, ennek hiányában 15. § (1) bekezdés b) pontja szerinti jelzése 2012. január 31-ét követően érkezik meg a települési önkormányzat jegyzőjéhez, és
+- b) az iskoláztatási támogatás folyósítása felfüggesztésének 2012. január 31-ét követő, Gyvt. szerinti felülvizsgálata során.
+
 51. § Felhatalmazást kap
 
 - a) a Kormány arra, hogy a családtámogatási ellátások igénylésével, megállapításával, folyósításával és a jogalap nélkül felvett ellátások visszafizetésével, megtérítésével, valamint az igényelbíráló szervek adatfeldolgozásával kapcsolatos, továbbá a hatáskör átadásból adódó végrehajtási szabályokat rendeletben szabályozza;
@@ -480,3 +486,5 @@ tanköteles gyermek mulasztott.
 - a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés d) pont és 21. cikk,
 - b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikke,
 - c) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés e) pont.
+
+53/A. § Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
