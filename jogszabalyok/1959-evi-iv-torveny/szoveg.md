@@ -12,7 +12,7 @@ a Magyar Köztársaság Polgári Törvénykönyvéről
 
 Ptk.1. § (1) Ez a törvény az állampolgárok, valamint az állami, önkormányzati, gazdasági és civil szervezetek, továbbá más személyek vagyoni és egyes személyi viszonyait szabályozza. Az e viszonyokat szabályozó más jogszabályokat — ha eltérően nem rendelkeznek — e törvénnyel összhangban, e törvény rendelkezéseire figyelemmel kell értelmezni.
 
-(2) A törvény rendelkezéseit a Magyar Köztársaság gazdasági és társadalmi rendjével összhangban kell értelmezni.
+(2) E törvény rendelkezéseit Magyarország gazdasági és társadalmi rendjével összhangban kell értelmezni.
 
 ### A Ptk. értelmezése
 
@@ -36,7 +36,7 @@ Ptk.2. § (1) A törvény védi a személyek vagyoni és személyhez fűződő j
 
 (2) A törvény biztosítja a személyeknek az őket megillető jogok szabad gyakorlását, e jogok társadalmi rendeltetésének megfelelően.
 
-Ptk.3. § (1) A törvény védi a tulajdonnak az Alkotmányban elismert valamennyi formáját.
+Ptk.3. § (1) A törvény védi a tulajdonnak valamennyi formáját.
 
 (2)–(3)
 
@@ -66,7 +66,7 @@ Ptk.7. § (1) A törvényben biztosított jogok védelme az állam minden szerv�
 
 ### I. Fejezet — A jogképesség
 
-Ptk.8. § (1) A Magyar Köztársaságban minden ember jogképes: jogai és kötelességei lehetnek.
+Ptk.8. § (1) Minden ember jogképes: jogai és kötelességei lehetnek.
 
 (2) A jogképesség az életkorra, nemre, fajra, nemzetiséghez vagy felekezethez tartozásra tekintet nélkül egyenlő.
 
@@ -208,6 +208,8 @@ Ptk.15/A. § (1) A cselekvőképtelen személy jognyilatkozata – a (2) bekezd�
 
 (2) A cselekvőképtelen személy maga is megkötheti azokat a csekély jelentőségű szerződéseket, amelyek a mindennapi életben tömegesen fordulnak elő, és különösebb megfontolást nem igényelnek.
 
+Ptk.15/B. § A bíróságnak a cselekvőképességet korlátozó gondnokság alá helyezést kimondó, a cselekvőképességet kizáró gondnokság alá helyezést kimondó, valamint a felülvizsgálati eljárás alapján hozott ítéletében rendelkeznie kell a választási eljárásról szóló 1997. évi C. törvény 11/A. §-ában meghatározott kérdésről.
+
 ### A cselekvőképességet korlátozó és a cselekvőképességet kizáró gondnokság alá helyezettekre vonatkozóközös szabályok
 
 Ptk.16. § (1) A cselekvőképtelen személy gondnoka, korlátozott cselekvőképesség esetén pedig az érintett személy és gondnoka jognyilatkozatainak érvényességéhez a gyámhatóság jóváhagyása szükséges, ha a jognyilatkozat a gondnokolt
@@ -322,7 +324,11 @@ Ptk.21. § (1) A cselekvőképességet érintő gondnokságot a bíróság megsz
 
 ### Cselekvőképességet érintő gondnokság
 
-Ptké.8–13. §
+Ptké.8. § (1) A Ptk.-nak az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 15/B. §-át az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor folyamatban lévő gondnokság alá helyezési eljárásokban, valamint felülvizsgálati eljárásokban is alkalmazni kell.
+
+(2) Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor gondnokság alá helyezés hatálya alatt álló személy esetén a Ptk.-nak az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 15/B. §-át a Ptk. 14/A. §-a vagy 15. § (5) bekezdése szerinti felülvizsgálat, illetve a Ptk. 21. §-a szerinti per során kell először alkalmazni.
+
+Ptké.9–13. §
 
 Ptké.14. § Felhatalmazást kap a Kormány, hogy
 
@@ -658,7 +664,7 @@ Ptk.74/A. § (1) Magánszemély, jogi személy és jogi személyiséggel nem ren
 
 (3) A nyilvántartásba vétel után az alapító az alapítványt nem vonhatja vissza.
 
-(4) Az alapítványt annak székhelye szerint illetékes megyei bíróság, illetőleg a Fővárosi Bíróság (a továbbiakban együtt: bíróság) veszi nyilvántartásba. A nyilvántartásba vételre irányuló kérelmet a bírósághoz az alapító nyújtja be. A kérelemhez csatolni kell az igazságügyért felelős miniszter rendeletében meghatározott okiratokat.
+(4) Az alapítványt annak székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) veszi nyilvántartásba. A nyilvántartásba vételre irányuló kérelmet a bírósághoz az alapító nyújtja be. A kérelemhez csatolni kell az igazságügyért felelős miniszter rendeletében meghatározott okiratokat.
 
 (5) A bíróság a nyilvántartásba vételről nemperes eljárásban határoz. A bíróság a nyilvántartásba vételről szóló határozatát az ügyészségnek is kézbesíti.
 
@@ -699,13 +705,13 @@ Ptk.74/D. § (1) Ha az alapítvány létrehozása az alapító okiratot tartalma
 
 (2) A végrendeletben létesített alapítványt – nyilvántartásba vétele esetén – olyannak kell tekinteni, mint amely a javára rendelt vagyont az öröklés megnyíltával megszerezte. A végrendeletbe foglalt, de a törvényben meghatározott feltételek hiánya miatt nyilvántartásba nem vett alapítvány részére történő vagyonrendelést közérdekű meghagyásnak kell tekinteni.
 
-Ptk.74/E. § (1) A bíróság az alapítványt a nyilvántartásból törli, ha az alapító okiratban meghatározott
+Ptk.74/E. § (1) A bíróság az alapítványt – törvényben meghatározott eljárást követően – a nyilvántartásból törli, ha az alapító okiratban meghatározott
 
 - a) cél megvalósult;
 - b) idő eltelt;
 - c) feltétel bekövetkezett.
 
-(2) Az alapítványt akkor is törölni kell a nyilvántartásból, ha a bíróság az alapítványt megszünteti vagy más alapítvánnyal való egyesítését rendeli el.
+(2) Az alapítványt az (1) bekezdésben foglaltaknak megfelelően akkor is törölni kell a nyilvántartásból, ha a bíróság az alapítványt megszünteti vagy más alapítvánnyal való egyesítését rendeli el.
 
 (3) A bíróság az ügyész keresete alapján az alapítványt megszünteti, ha céljának megvalósítása lehetetlenné vált, illetőleg ha jogszabály-változás folytán a bejegyzést meg kellene tagadnia. A bíróság az alapító kérelme alapján az alapítványt megszünteti, ha az alapítvány céljainak megvalósítása lehetetlenné vált.
 
@@ -737,19 +743,7 @@ Ptk.74/H. § (1) Az egyesülés a tagok által gazdálkodásuk eredményességé
 
 Ptké.91. § A Ptk. hatálybalépésekor még fennálló alapítványokra a korábbi jogszabályokat kell alkalmazni.
 
-Ptké.91/A. § (1) Az alapítvány nyilvántartásba vételére irányuló hiányos kérelem benyújtása esetén a kérelem érkezésétől számított harminc napon belül postára adott, vagy a kérelmezőnek átadott végzésben a bíróság hiánypótlásra hívja fel a kérelmezőt. A hiánypótlásra megfelelő – legfeljebb negyvenöt napos – határidőt kell biztosítani, amely kérelemre, indokolt esetben tizenöt nappal meghosszabbítható. A hiánypótlás késedelmes vagy hiányos teljesítése miatt igazolási kérelemnek nincs helye. Ha a hiánypótlási határidőt elmulasztották, vagy a hiánypótlást hiányosan, illetve hibásan terjesztették elő, a bíróság a kérelmet végzéssel elutasítja.
-
-(2) A bíróság legkésőbb a kérelem érkezésétől számított hatvan napon belül köteles dönteni a nyilvántartásba vételről vagy a kérelem elutasításáról. E határidő számításakor a hiánypótlásra felhívó végzés postára adásától (átadásától) a hiányok pótlásáig, illetőleg a hiánypótlás elmaradása esetén a hiánypótlásra biztosított határidő lejártáig eltelt idő nem vehető figyelembe.
-
-(3) Ha a bíróság a (2) bekezdés szerinti döntési kötelezettségének határidőn belül nem tesz eleget, a bíróság vezetőjének a határidő lejártát követő nyolc napon belül meg kell tennie a szükséges intézkedéseket a kérelem elbírálása érdekében.
-
-(4) Ha a kérelem elbírálására a (3) bekezdésben foglaltak alapján nem került sor, a nyilvántartásba vétel a (2) bekezdésben meghatározott határidő leteltét követő kilencedik napon a kérelem szerinti tartalommal létrejön.
-
-(5) A nyilvántartásba bejegyzett adatok változását – a változástól számított hatvan napon belül – a bíróságnak be kell jelenteni, a bejelentésre az (1)–(4) bekezdésben foglaltakat kell megfelelően alkalmazni.
-
-(6) A nyilvántartás tartalmazza az igazságügyért felelős miniszter rendeletében meghatározott adatokat, köztük az alapítvány kezelő szerve (szervezete) tagjainak, valamint az alapítvány képviselőjének nevét, lakóhelyét. A nyilvántartás fennálló, illetve törölt adatai, valamint a bírósághoz benyújtott iratok nyilvánosak – ideértve a még el nem bírált kérelmet és mellékleteit is – azokat bárki megtekintheti és azokról feljegyzést készíthet.
-
-(7) A bíróság az alapítvány adatait számítógépen rögzíti.
+Ptké.91/A. §
 
 Ptké.91/B. § (1) Az 1987. szeptember 1-je előtti alapítványrendelést közérdekű célra való kötelezettségvállalásnak kell tekinteni.
 
@@ -1289,24 +1283,11 @@ Ptk.171. § (1) Ingatlanra közérdekből a külön jogszabályban feljogosítot
 
 ### XIV. Fejezet — Az állami tulajdonjog
 
-### Az állami tulajdon tárgyai
+### A forgalomképtelen dolgok átruházása
 
-Ptk.172. § Ha törvény eltérően nem rendelkezik, kizárólag az állam tulajdonában vannak
+Ptk.172. §
 
-- a) a föld méhének kincsei,
-- b) a felszín alatti vizek, felszín alatti vizek természetes víztartó képződményei, folyóvizek és természetes tavak, valamint ezek medre,
-- c) a folyóvíz elhagyott medre és a folyóvízben újonnan keletkezett sziget,
-- d) az országos közutak, az országos törzshálózati vasúti pályák, a nemzetközi kereskedelmi repülőtér, továbbá az ország területe feletti légtér,
-- e) a távközlésre felhasználható frekvenciák,
-- f) a hírközlő hálózatok működéséhez, hírközlési szolgáltatások nyújtásához, illetőleg hírközlő hálózatok és szolgáltatások együttműködéséhez szükséges azonosítók és ezek tartományai.
-- g)
-
-Ptk.173. § (1) Forgalomképtelenek
-
-- a) a kizárólag állami tulajdonban álló dolgok,
-- b) törvényben meghatározott más dolgok.
-
-(2) A forgalomképtelen dolgok elidegenítése semmis.
+Ptk.173. § Törvényben forgalomképtelenként meghatározott dolgok elidegenítése semmis.
 
 ### Gazdálkodás az állami tulajdonnal
 
@@ -1582,7 +1563,7 @@ d) a gazdasági, szakmai kamara, érdekképviseleti szervezet,
 
 e) fogyasztói érdekek képviseletét ellátó társadalmi szervezet, valamint
 
-f) az Európai Gazdasági Térség bármely tagállamának joga alapján létrejött azon minősített szervezet – az általa védett fogyasztói érdekek védelme körében –, amely a fogyasztók védelme céljából a jogsértéstől eltiltó határozatokról szóló 98/27/EK európai parlamenti és tanácsi irányelv 4. cikkének (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepel, feltéve, hogy az általános szerződési feltétel alkalmazója, nyilvánosságra hozója, illetve alkalmazásra ajánlója a Magyar Köztársaság területén fejti ki tevékenységét.
+f) az Európai Gazdasági Térség bármely tagállamának joga alapján létrejött azon minősített szervezet – az általa védett fogyasztói érdekek védelme körében –, amely a fogyasztók védelme céljából a jogsértéstől eltiltó határozatokról szóló 98/27/EK európai parlamenti és tanácsi irányelv 4. cikkének (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepel, feltéve, hogy az általános szerződési feltétel alkalmazója, nyilvánosságra hozója, illetve alkalmazásra ajánlója Magyarország területén fejti ki tevékenységét.
 
 Tvr.12. § A sérelmet szenvedett fél a szerződést e címen csak akkor támadhatja meg, ha annak megkötése a törvény hatálybalépése után történt.
 
@@ -1660,7 +1641,15 @@ Ptk.218. § (1) Ha jogszabály vagy megállapodás írásbeli alakot rendel, leg
 
 ### A szerződés alakja
 
-Ptké.37. §
+Ptké.37. § (1) A jogerősen elítélt által elkövetett bűncselekménnyel kapcsolatban, sajtótermékben, médiaszolgáltatásban vagy kiadványban való megjelenés céljából tett nyilatkozatért vagy szerzői jogi oltalom alá eső más tevékenységért vagyoni előny nem köthető ki a jogerősen elítélt vagy rá tekintettel más személy javára mindaddig, amíg az elítélt a büntetett előélethez fűződő hátrányok alól nem mentesül. Az ezzel ellentétes megállapodás semmis.
+
+(2) Az ügyész keresete alapján az állam javára kell megítélni az (1) bekezdés szerinti semmis megállapodás alapján
+
+a) szolgáltatott és a szolgáltatást nyújtó félnek visszajáró vagy
+
+b) a már nyújtott szolgáltatásért kikötött, de még nem teljesített
+
+vagyoni előnyt.
 
 Ptké.38. § (1) Ha az okiratot több példányban állítják ki, a szerződés akkor is érvényes, ha mindegyik fél csak a másik félnek szánt példányt írja alá.
 
@@ -3999,7 +3988,7 @@ Ptk.536. § (1) Biztosítási szerződés alapján a biztosító meghatározott 
 
 - a) a szerződésben megállapított károsító esemény;
 - b) halál bekövetkezése, meghatározott életkor elérése;
-- c) testi sérülést, rokkantságot vagy halált okozó baleset.
+- c) testi sérülést, rokkantságot, egészségkárosodást vagy halált okozó baleset.
 
 Ptk.537. § (1) A biztosítási szerződés a felek írásbeli megállapodásával jön létre.
 
