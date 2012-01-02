@@ -1076,7 +1076,7 @@ For the United Kingdom of Great Britainand Northern Ireland:
 
 (2) A 2. és 3. § az Egyezmény 28. Cikk (1) bekezdésében meghatározott időpontban lép hatályba.
 
-(3) A Magyar Népköztársaság és Nagy-Britannia és Észak-Írország Egyesült Királyság között a kettős adóztatás elkerülésére a jövedelemadók területén Budapesten, az 1977. évi november hó 28. napján aláírt egyezmény kihirdetéséről szóló 1978. évi 15. törvényerejű rendelet (a továbbiakban: Tvr.) a Magyar Népköztársaság és Nagy-Britannia és Észak-Írország Egyesült Királyság között a kettős adóztatás elkerülésére a jövedelemadók területén Budapesten, az 1977. évi november hó 28. napján aláírt egyezmény (a továbbiakban: korábbi egyezmény) megszűnésének az Egyezmény 28. Cikkének 2. bekezdésében meghatározott napján hatályát veszti.
+(3)
 
 (4) Az Egyezmény, valamint a 2. és 3. § hatálybalépésének, továbbá a korábbi egyezmény megszűnésének és a Tvr. hatályvesztésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 

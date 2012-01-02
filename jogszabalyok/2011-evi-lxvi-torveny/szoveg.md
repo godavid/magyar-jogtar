@@ -523,87 +523,11 @@ jogszabályok előkészítésében.
 
 ### Módosító rendelkezések
 
-36. § (1) A Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezete a következő III/B. címmel és 224/B. §-sal egészül ki:
-
-„III/B. cím
-
-A számvevőszéki ellenőrzéssel kapcsolatos kötelezettségek megszegése
-
-224/B. §(1) Aki az Állami Számvevőszék ellenőrzése során az Állami Számvevőszékről szóló törvényben meghatározott közreműködési kötelezettségét megszegi, és ezzel az ellenőrzés lefolytatását akadályozza, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Az (1) bekezdés szerint büntetendő az ellenőrzött szervezet vezetője, ha írásbeli felszólítás ellenére nem küld intézkedési tervet az Állami Számvevőszék részére.
-
-(3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott cselekmény az ellenőrzés lefolytatását meghiúsítja.”
+36. § (1)
 
 (2)
 
-37. § (1) A preambulum helyébe az alábbi szöveg lép:
-
-„Az Országgyűlés a közpénzek kezelésének, felhasználásának, valamint a nemzeti vagyon kezelésének, védelmének és hasznosításának ellenőrzése érdekében az Alaptörvény végrehajtására, az Alaptörvény 43. cikk (4) bekezdése alapján a következő törvényt alkotja:”
-
-(2) Az 1. § (1) bekezdésében az „Alkotmány” szövegrész helyébe az „Alaptörvény” szöveg lép.
-
-(3) A 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az Állami Számvevőszék személyi állománya elnökből, egy alelnökből, vezetőkből, számvevőkből, legalább középfokú végzettségű köztisztviselőkből, ügykezelőkből és a Munka Törvénykönyve hatálya alá tartozó munkavállalókból áll.”
-
-(4) Hatályát veszti a 9. § (9) bekezdése.
-
-(5) A 14. § helyébe a következő rendelkezés lép:
-
-„14. § (1) Az Állami Számvevőszék alelnökét az elnök nevezi ki tizenkét évre.
-
-(2) Nem nevezhető ki az Állami Számvevőszék alelnökévé olyan személy, aki a megelőző négy évben tagja volt a Kormánynak, vagy bármely párt országos (központi) szervezetében választott vezető tisztséget töltött be.
-
-(3) Az Állami Számvevőszék alelnöke kinevezése után, hivatalba lépése alkalmával az elnök előtt esküt tesz.
-
-(4) Az Állami Számvevőszék alelnökének megbízatása megszűnik:
-
-a) a megbízatási időtartam leteltével,
-
-b) a 70. életév betöltésével,
-
-c) lemondással,
-
-d) összeférhetetlenség megállapításával,
-
-e) felmentéssel,
-
-f) kizárással,
-
-g) halállal.
-
-(5) A lemondást írásban kell közölni az Állami Számvevőszék elnökével. Az Állami Számvevőszék alelnökének megbízatása a közlés időpontját követően, a lemondásban megjelölt napon szűnik meg.
-
-(6) Az Állami Számvevőszék alelnöke összeférhetetlenségének megállapításáról az elnök határoz.
-
-(7) Az Állami Számvevőszék elnöke felmentéssel szüntetheti meg az alelnök megbízatását, ha az Állami Számvevőszék alelnöke neki fel nem róható okból nem képes eleget tenni megbízatásából adódó feladatainak.
-
-(8) Kizárással szünteti meg a megbízatást az Állami Számvevőszék elnöke, ha az alelnök neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el.
-
-(9) Az Állami Számvevőszék alelnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak, keresete nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
-
-(10) Az Állami Számvevőszék alelnöke megbízatásának időtartama közigazgatási szervnél közszolgálati jogviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít.
-
-(11) Az Állami Számvevőszék alelnökének minden naptári évben negyven munkanap szabadság jár.
-
-(12) Az Állami Számvevőszék alelnöke megbízatása megszűnésének esetére járó juttatásokra a 12. § (1)–(5) bekezdését kell alkalmazni, azzal, hogy azok alkalmazásában elnökön alelnököt kell érteni.
-
-(13) Ha az Állami Számvevőszék alelnökének megbízatása megszűnik, jogosult az e megbízatására utaló megnevezést használni, feltéve, hogy a megbízatása nem összeférhetetlenség megállapításával vagy kizárással szűnt meg.
-
-(14) Az Állami Számvevőszék alelnöke az elnök akadályoztatása esetén az elnök által szabályozott jogkörben gyakorolja az elnök jogait és ellátja kötelezettségeit. Az alelnök helyettesítési jogkörben nem jogosult a 13. § (2) bekezdés a) és b) pontjában foglalt feladatok ellátására, azonban a már meghatározott ellenőrzési terv és stratégia végrehajtásáról gondoskodni köteles. Az Állami Számvevőszék alelnöke nem helyettesítheti az elnököt a Költségvetési Tanácsban.
-
-(15) Az Állami Számvevőszék alelnökének feladatait az Állami Számvevőszék Szervezeti és Működési Szabályzata határozza meg.”
-
-(6) E törvény a következő 34/A. §-sal és azt megelőző alcímmel egészül ki:
-
-„Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
-
-34/A. § E törvény az Alaptörvény 43. cikk (4) bekezdése alapján sarkalatosnak minősül.”
-
-(7) A 35. § a következő (4) bekezdéssel egészül ki:
-
-„(4) Az Állami Számvevőszék a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 32/C. § (3) bekezdése és az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 8. §-a alapján megválasztott és 2012. január 1-jén hivatalban lévő alelnökének megbízatását a 14. § nem érinti, rá megbízatásának megszűnéséig e törvény 10–12. §-ának szabályait kell alkalmazni, azzal, hogy azok alkalmazásában az Állami Számvevőszék elnökén az Állami Számvevőszék alelnökét kell érteni.”
+#### 37. §
 
 ### Hatályon kívül helyező rendelkezések
 

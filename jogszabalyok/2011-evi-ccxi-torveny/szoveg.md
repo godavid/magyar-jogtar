@@ -173,24 +173,4 @@ jogosult.
 
 #### 7. Módosuló jogszabályok
 
-28. § (1) A házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 96. § (2) bekezdés helyébe a következő rendelkezés lép:
-
-„(2) Azt a személyt,
-
-a) akinél a gyámhivatal a gyermeket ideiglenes hatállyal elhelyezte [91. § (2) bek.],
-
-b) akinél a bíróság a gyermeket elhelyezte [72/A. § (1) bek.],
-
-c) aki a gyermeket a gyámhatóság hozzájárulásával családba fogadta
-
-a gyermek gyámjául, családbafogadó gyámjául kell rendelni.”
-
-(2) A házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény 96. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A gyámhatóság családbafogadó gyámként rendeli ki a (2) bekezdés a)–c) pontjában meghatározott személyt, kivéve, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el.”
-
-29. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
-
-- a) 20/B. § (2) bekezdésében, 71. § (3) bekezdésében és 80. § (1) bekezdés záró szövegében a „gyám” szövegrész helyébe a „családbafogadó gyám” szöveg,
-- b) 71. § (2) bekezdésében a „gyámul” szövegrész helyébe a „családbafogadó gyámul” szöveg,
-- c) 75. § b) pontjában és 75/A. § b) pontjában a „gyámjául” szövegrész helyébe a „családbafogadó gyámjául” szöveg lép.
+#### 28–29. §

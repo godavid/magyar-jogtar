@@ -350,136 +350,21 @@ sarkalatosnak minősül.
 
 (3) A 11. § (15) és (16) bekezdése, a 25. § (2) és (9) bekezdése 2013. január 1-jén lép hatályba.
 
-21. § (1) A Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 172–173. §-ához tartozó alcím helyébe a következő rendelkezés lép:
+#### 21–24. §
 
-„A forgalomképtelen dolgok átruházása”
-
-(2) A Ptk. 173. §-a helyébe a következő rendelkezés lép:
-
-„173. § Törvényben forgalomképtelenként meghatározott dolgok elidegenítése semmis.”
-
-22. § (1) A koncesszióról szóló 1991. évi XVI. törvény 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) E törvény a nemzeti vagyonról szóló törvény keretei között állapítja meg az abban meghatározott, kizárólagosan az állam vagy a helyi önkormányzat által végezhető gazdasági tevékenységek gyakorlása időleges jogának koncessziós szerződés keretében történő átengedésének részletes szabályait. Az egyes tevékenységek folytatásának módját, részletes feltételeit meghatározó ágazati törvények (a továbbiakban: ágazati törvény) csak a nemzeti vagyonról szóló törvény és e törvény keretei között rendelkezhetnek.”
-
-(2) A koncesszióról szóló 1991. évi XVI. törvény 7/A. §-a helyébe a következő rendelkezés lép:
-
-„7/A. § A csővezetékes termékszállításra és -tárolásra, az országos közutak és műtárgyaik, a csatornák, valamint a regionális közműrendszerek, továbbá az önkormányzati törzsvagyon részét képező helyi közutak, műtárgyaik és a helyi közművek működtetésére irányuló koncesszióköteles tevékenységek gyakorlására vonatkozó jogosultság – koncessziós szerződéssel történő – átengedésére irányuló pályázat kiírása előtt ki kell kérni az illetékes gazdasági kamara véleményét is.”
-
-(3) A koncesszióról szóló 1991. évi XVI. törvény 10/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a koncesszióköteles tevékenységet végző a nemzeti vagyonról szóló törvényben meghatározott gazdálkodó szervezetben fennálló társasági részesedését úgy értékesíti magántulajdonos részére, hogy annak következtében a gazdálkodó szervezet már nem felel meg a nemzeti vagyonról szóló törvény előírásainak, és a nemzeti vagyonról szóló törvény alapján a tevékenységre koncessziós szerződést kell kötni, legkésőbb az értékesítési eljárás megindításával egyidejűleg koncessziós pályázatot kell lefolytatni a koncesszióköteles tevékenység átengedésére. A koncessziós eljárásra az e §-ban foglalt eltérésekkel, e törvényben foglalt rendelkezéseket kell alkalmazni.”
-
-(4) A koncesszióról szóló 1991. évi XVI. törvény 10/A. § (5) bekezdésében a „privatizációs eljárás eredménye” szövegrész helyébe az „eljárás eredménye” szöveg, az „a privatizációs pályázat” szövegrészek helyébe az „az értékesítési eljárás” szöveg, az „a privatizációs eljárás nyertese” szövegrész helyébe az „az értékesítési eljárás nyertese” szöveg lép.
-
-(5) A koncesszióról szóló 1991. évi XVI. törvény 10/A. § (6) bekezdésében az „a privatizáció” szövegrész helyébe az „az értékesítési eljárás” szöveg lép.
-
-23. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 6. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A nemzeti vagyonról szóló törvényben, valamint a (4) és (5) bekezdésben meg nem jelölt vizek és vízilétesítmények állami tulajdonban vannak, de forgalomképesek. Elidegenítés esetén az érintett helyi önkormányzat vagy önkormányzati társulás – több önkormányzat esetében az érintettség arányában – elővásárlási joggal rendelkezik. Az elővásárlási jog szempontjából érintett az a helyi önkormányzat, amelynek a közigazgatási területén vagy határán van a víz, illetve vízilétesítmény.”
-
-24. § (1) A légiközlekedésről szóló 1995. évi XCVII. törvény 4. §-a helyébe a következő rendelkezés lép:
-
-„4. § A magyar légtérben az állam léginavigációs, távközlési és légtér-ellenőrzési szolgálatot lát el.”
-
-(2) A légiközlekedésről szóló 1995. évi XCVII. törvény 71. §-a a következő 32. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„32. magyar légtér: Magyarország feletti légtérnek a légiközlekedés számára – a mindenkori legfejlettebb technikai színvonal alapján – fizikailag igénybe vehető magasságig terjedő része.”
-
-25. § (1) Az állami vagyonról szóló 2007. évi CVI. törvény 3. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) Az Egészségbiztosítási Alap ellátási vagyona tekintetében a tulajdonosi jogokat az egészségbiztosításért felelős miniszter, a Nyugdíjbiztosítási Alap ellátási vagyona tekintetében a tulajdonosi jogokat a nyugdíjpolitikáért felelős miniszter gyakorolja.”
+25. § (1)
 
 (2)
 
-(3) Az állami vagyonról szóló 2007. évi CVI. törvény 24. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető. A versenyeztetési kötelezettség a határozott időre kötött szerződések meghosszabbítása esetén is fennáll.”
-
-(4) Az állami vagyonról szóló 2007. évi CVI. törvény 27. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az állami vagyonra vonatkozóan az MNV Zrt. kizárólag a nemzeti vagyonról szóló törvényben meghatározott személyekkel köthet vagyonkezelési szerződést.”
-
-(5) Az állami vagyonról szóló 2007. évi CVI. törvény 28. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A központi költségvetési szerv a működéséhez szükséges – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (6) bekezdésében foglalt vagyontárgyakon kívüli – állami vagyon összetételét és mértékét az állami vagyon használatát biztosító szerződés megkötése előtt, illetve folyamatosan közli az MNV Zrt.-vel, amely az igényeket az állam teherbíró képességéhez igazodva, a társadalmi szükségletek, a célszerűség és a gazdaságosság szempontjai figyelembevételével elégíti ki.”
-
-(6) Az állami vagyonról szóló 2007. évi CVI. törvény 28. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (6) bekezdésében meghatározott vagyontárgyakat – amennyiben azok egyedi, könyv szerinti bruttó értéke az éves költségvetési törvényben meghatározott értékhatárt nem haladja meg – a vagyonkezelő központi költségvetési szerv értékesítheti a 34–35. §-ban foglaltak alkalmazásával. Az értékesítésből származó bevétel ilyen esetben az adott költségvetési szervet illeti.”
-
-(7) Az állami vagyonról szóló 2007. évi CVI. törvény 28. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Amennyiben ajándékozás, végrendeleti örökösnevezés, illetve tulajdonjog átruházására irányuló más hasonló jogügylet kedvezményezettjeként valamely központi költségvetési szervet jelölnek meg, az elfogadott vagyon állami tulajdonba kerül azzal, hogy az MNV Zrt. az adott költségvetési szervvel köt rá – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (6) bekezdésében meghatározott vagyontárgyak kivételével – nem visszterhes vagyonkezelési szerződést. Ha a későbbiekben az ilyen vagyontárgy értékesítésére kerül sor, annak bevétele a kedvezményezett központi költségvetési szervet illeti meg.”
-
-(8) Az állami vagyonról szóló 2007. évi CVI. törvény 30. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A többségi állami tulajdonú gazdálkodó szervezet és tagja (részvényese) között létrejövő szerződést a szerződés aláírásától számított harminc napon belül a cégbíróságon a cégiratok közé letétbe kell helyezni. Ezt a rendelkezést nem kell alkalmazni, ha a társaság és a tag (részvényes) a társaság tevékenységi körébe tartozó, a létesítő okirat által meghatározott szokásos nagyságrendű szerződést köt, továbbá ha az banktitok sérelmével járna.”
+(3)–(8)
 
 (9)
 
-26. § (1) Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 8. § (1) bekezdés helyébe a következő rendelkezés lép:
-
-„(1) A nemzeti vagyonról szóló törvényben nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonként meghatározott
-
-a) védelmi és közjóléti elsődleges rendeltetésű, az állam tulajdonában álló erdő, valamint
-
-b) a gazdasági elsődleges rendeltetésű, természetes erdő, természetszerű erdő és származék erdő természetességi állapotú, az állam tulajdonában álló, 5 hektárnál nagyobb, természetben összefüggő erdő
-
-a kincstári vagyon részét képezi.”
-
-(2) Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 8. § (3)–(5) bekezdésében és (7) bekezdésében, valamint a 43. § (1) bekezdés c) pontjában a „kizárólagos” szövegrész helyébe „100%-os” szövegrész lép.
-
-27. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 9/B. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A pályázat nyertesének a koncessziós társaságot részvénytársaságként kell megalapítania, amely jogosult a koncesszió tárgyát képező közutakhoz közvetlenül csatlakozó üzemanyagtöltő és szervizállomások, pihenőhelyek, egészségügyi és sportlétesítmények, vendéglátó létesítmények és szálláshelyek, kereskedelmi létesítmények, valamint parkolási célú épületek és építmények építésére és/vagy üzemeltetésére.”
-
-(2) A közúti közlekedésről szóló 1988. évi I. törvény 9/C. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A koncessziós társaság a koncesszió időtartama alatt, a koncessziós szerződés alapján, az általa létesített vagy fejlesztett, felújított, karbantartott és üzemeltetett közutak és műtárgyaik használóitól a 33/A. § szerinti használati díjat vagy a 33/A. § szerinti útdíjat szedhet.”
-
-(3) A közúti közlekedésről szóló 1988. évi I. törvény 33. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az út kezelői:
-
-a) a koncessziós szerződés alapján működtetett országos vagy helyi közút tekintetében a koncessziós társaság;
-
-b) az a) pontban nem említett
-
-ba) országos közút vonatkozásában a miniszter döntése alapján a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben az állam 100%-os részesedéssel rendelkezik vagy
-
-bb) helyi közutak tekintetében a helyi önkormányzat, vagy a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, vagy olyan gazdálkodó szervezet, amelyben a helyi önkormányzat 100%-os részesedéssel rendelkezik;
-
-c) a magánutak tekintetében annak a területnek a tulajdonosa, amelyen a magánút van; állami tulajdonban levő ingatlanon fekvő magánút esetében tulajdonosnak az ingatlan-nyilvántartásba bejegyzett kezelő (használó) tekintendő.”
+#### 26–27. §
 
 #### 28–29. §
 
-30. § (1) A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 3. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az e törvény 1. számú mellékletében meghatározott gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonos jogait – e törvény erejénél fogva – a Magyar Állam nevében az MFB Zrt. gyakorolja (a továbbiakban: tulajdonosi jogok gyakorlása). A tulajdonosi jogok gyakorlására a Gt. és a Ptk. rendelkezéseit a nemzeti vagyonról szóló törvényben, valamint az e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.”
-
-(2) A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 2. számú melléklete az alábbi szövegrésszel egészül ki:
-
-[Az MFB Zrt. a 8. § (3) bekezdésének b) pontja alapján a következő gazdálkodó szervezetekben rendelkezhet tulajdoni részesedéssel:]
-
-„VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft.”
-
-31. § Hatályát veszti
-
-- a) a Ptk. 172. §-a;
-- b) a koncesszióról szóló 1991. évi XVI. törvény 1. § (2) bekezdése, 2. §-a és 3. § (1) bekezdése, a 10/A. §-hoz tartozó alcímében a „(privatizációja)” szövegrész, a 10/A. § (2) és (3) bekezdésében a „privatizációs” szövegrész;
-- c) a vízgazdálkodásról szóló 1995. évi LVII. törvény 6. § (1)–(3) bekezdése, 9. § (1) bekezdése, 45. § (8) bekezdés l) pontja, 2. és 3. számú melléklete;
-- d) a légiközlekedésről szóló 1995. évi XCVII. törvény 36/A. §-ához tartozó alcím és 36/A. §-a;
-- e) a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 1. melléklete;
-- f) vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 14. § (1) bekezdés első mondata és (1a) bekezdése, 38. § (1) bekezdése,
-- g) az állami vagyonról szóló 2007. évi CVI. törvény 4. §-a, 23. § (1) bekezdésében a „szerződésen alapuló haszonélvezet, vagyonkezelés,” szövegrész, 27. § (2) bekezdés első mondata, 27. § (4) bekezdése, 28. § (3) bekezdése és melléklete;
-- h) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 8. § (2) bekezdése, 8. § (3) bekezdésében az „és (2)” szövegrész,
-- i) a közúti közlekedésről szóló 1988. évi I. törvény 9/B. § (1) és (2) bekezdése,
-- j) az állam kizárólagos tulajdonában levő vizek és vízilétesítmények jegyzékéről szóló 11/2009. (VIII. 5.) KvVM rendelet,
-- k) a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 3. § (7) bekezdése és a 2. számú mellékletének „KIKSZ Közlekedésfejlesztési Zrt.” szövegrésze,
-- l) a vízitársulatokról szóló 2009. évi CXLIV. törvény 45. §-ában a „vagyonkezelői, illetve” szövegrész.
+#### 30–31. §
 
 #### 32–33. §
 

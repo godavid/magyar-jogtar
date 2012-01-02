@@ -4,21 +4,11 @@ az alacsony keresetű munkavállalók bérének emelését ösztönző egyes tö
 
 1. §
 
-2. § A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény (a továbbiakban: Met.) 3. § (1) bekezdése a következő t) ponttal egészül ki:
-
-(A munkaügyi ellenőrzés kiterjed:)
-
-„t) a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés – kormányrendeletben meghatározott – elvárt mértékének megfelelő végrehajtására.”
-
-3. § A Met. 3. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A munkaügyi ellenőrzés minden esetben kiterjed az (1) bekezdés t) pontjában foglaltak vizsgálatára is.”
+2–3. §
 
 4. §
 
-5. § A Met. a következő 9/A. §-sal egészül ki:
-
-„9/A. § Az alacsony keresetű munkavállalók bérének emelését ösztönző egyes törvények módosításáról szóló 2011. évi XCIX. törvénnyel (a továbbiakban: T.) megállapított 3. § (1) bekezdés t) pontját, (5) bekezdését és a 6/B. §-t a T. hatálybalépését követően indult eljárásokban kell alkalmazni.”
+5. §
 
 6. § (1) A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény hatálya alá tartozó azon munkáltató, aki a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelést nem teljesíti, a jogsértést megállapító jogerős határozattól számított két évig közbeszerzési eljáráson ajánlattevőként nem indulhat és a központi költségvetésből, valamint elkülönített állami pénzalapokból származó támogatásban nem részesülhet.
 

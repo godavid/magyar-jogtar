@@ -85,21 +85,13 @@ Az Országgyűlés Esztergom város polgárai közszolgáltatásokkal való ell�
 
 (3) 2012. január 2-án hatályát veszti e törvény 16-19. §-a.
 
-16. § A közoktatásról szóló 1993. évi LXXIX. törvény 102. § (10) bekezdésének utolsó mondata az alábbiak szerint módosul:
-
-„(10) A fenntartói jog átadásának tilalmára vonatkozó rendelkezéseket nem kell alkalmazni amennyiben az átadásra a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény vagy az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény alapján kerül sor.”
+16. §
 
 17. §
 
 18. §
 
-19. § (1) A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) 21. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Testület által vezetett szerv esetében a testület elnökének és tagjainak az illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnyolcszorosát nem haladhatja meg. A megyei, fővárosi kormányhivatal főigazgatójának és igazgatójának az illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy a főigazgató esetében az illetmény az illetményalap huszonhatszorosát, igazgató esetében az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.”
-
-(2) A Ktjv. 21. §-a a következő (2) bekezdéssel egészül ki és a jelenlegi (2) bekezdés számozása (3)-ra változik:
-
-„(2) A Kormány által intézményfenntartásra kijelölt szerv vezetőjének az illetményét a kinevezési jogkör gyakorlója – a kormánymegbízott javaslatára – állapítja meg azzal, hogy az illetmény az illetményalap huszonhatszorosát nem haladhatja meg. A Kormány által intézményfenntartásra kijelölt szerv vezető-helyettesének az illetményét a kinevezési jogkör gyakorlója – az intézményfenntartásra kijelölt szerv vezetőjének a javaslatára – állapítja meg azzal, hogy az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.”
+19. §
 
 ### Melléklet a 2011. évi CLXXXVI. törvényhez
 

@@ -1712,27 +1712,11 @@ rendelettel állapítsa meg.
 
 való megfelelést szolgálja.
 
-234. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény a következő 120. §-sal egészül ki:
+#### 234. §
 
-„120. § (1) A munkáltatói jogkör gyakorlója – a központi költségvetésről szóló törvény vonatkozó költségvetési fejezetében meghatározott személyi juttatások kiemelt előirányzatán belül – az igazságügyi alkalmazott részére képzettségi pótlékot állapíthat meg felsőfokú iskolarendszerű képzésben, továbbképzésben szerzett szakképesítés, szakképzettség, továbbá doktori (PhD) vagy ennél magasabb tudományos fokozat elnyerése esetén, ha a megszerzett ismeretek a munkaköre ellátásánál vagy a feladatainak teljesítése során közvetlenül hasznosíthatók.
+#### 235. §
 
-(2) A képzettségi pótlék összege az illetményalap tíz százalékától harminc százalékáig terjedhet.
-
-(3) Ha az igazságügyi alkalmazott a munkáltatóval kötött tanulmányi szerződés alapján pénzügyi támogatást kap a képzettség megszerzéséhez, a képzettségi pótlékra addig nem jogosult, amíg a havonta fizethető pótlék összege nem éri el a tanulmányi szerződés alapján számára nyújtott pénzügyi támogatás mértékét.”
-
-235. § (1) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 122. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-„(3) Kiváló munkavégzés esetén és igazságügyi szolgálati jogviszonyban eltöltött legalább tíz év után az I. fizetési osztályba tartozó igazságügyi alkalmazottnak „főtanácsos” cím adományozható.
-
-(4) A címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta. A címpótlék alapilletmény jellegű.”
-
-(2) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 3. számú melléklete helyébe e törvény 6. melléklete lép.
-
-236. § (1) Hatályát veszti a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény.
-
-(2) Hatályát veszti az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény 2. § (5) bekezdése.
-
-(3) Hatályát veszti az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 6. § (5) bekezdése.
+236. § (1)–(3)
 
 (4) E törvény 234. §-a és 235. §-a, továbbá e törvény 6. melléklete 2012. január 2-án hatályát veszti.
 
@@ -2181,13 +2165,3 @@ A pályázati eljárás és a bírói értékelés során vizsgálandó kompeten
 - 20. tárgyilagosság.
 
 ### 6. melléklet a 2011. évi CLXII. törvényhez
-
-„3. melléklet az 1997. évi LXVIII. törvényhez
-
-A bírósági titkár és a bírósági fogalmazó alapilletménye
-
-| Fizetési osztály | Fizetési fokozatok és a szorzószámok (az illetményalap = 1) |  |  |  |
-| --- | --- | --- | --- | --- |
-| 1. | 2. | 3. | 4. |
-| I. osztály: bírósági titkár | 0,7 (0–2 év) | 0,8 (3–4 év) | 0,9 (5–6 év) | 1 (7 évtől) |
-| II. osztály: bírósági fogalmazó | 0,38 | 0,41 | 0,44 | 0,47 |

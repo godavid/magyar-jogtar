@@ -647,66 +647,15 @@ biztosítja.
 
 #### 47. Módosuló jogszabályok
 
-109. § A Polgári Törvénykönyvről szóló 1959. évi IV. törvény
-
-- a) 74/E. § (1) bekezdésében az „alapítványt a nyilvántartásból” szövegrész helyébe az „alapítványt – törvényben meghatározott eljárást követően – a nyilvántartásból” szöveg,
-- b) 74/E. § (2) bekezdésében az „alapítványt akkor” szövegrész helyébe az „alapítványt az (1) bekezdésben foglaltaknak megfelelően akkor” szöveg
-
-lép.
-
-110. § (1) A közjegyzőkről szóló 1991. évi XLI. törvény 38. §-a a következő mondattal egészül ki:
-
-„A területi közjegyzői kamarát a törvényszék nem veszi nyilvántartásba.”
-
-(2) A közjegyzőkről szóló 1991. évi XLI. törvény 53. § (2) bekezdése a következő mondattal egészül ki:
-
-„Az országos kamarát a törvényszék nem veszi nyilvántartásba.”
+109–110. §
 
 111. §
 
-112. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 250. § (1) bekezdése a következő mondattal egészül ki:
-
-„A kamarát a törvényszék nem veszi nyilvántartásba.”
-
-113. § (1) Az igazságügyi szakértői kamaráról szóló 1995. évi CXIV. törvény 5. § (1) bekezdése a következő mondattal egészül ki:
-
-„A területi kamarát a törvényszék nem veszi nyilvántartásba.”
-
-(2) Az igazságügyi szakértői kamaráról szóló 1995. évi CXIV. törvény 14. § (1) bekezdése a következő mondattal egészül ki:
-
-„A MISZK-et a törvényszék nem veszi nyilvántartásba.”
-
-114. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 128/C. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Az önkéntes alap nyilvántartásba vételére egyebekben a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény egyesületekre vonatkozó rendelkezéseit kell megfelelően alkalmazni.”
-
-115. § (1) Az ügyvédekről szóló 1998. évi XI. törvény 12. § (1) bekezdése a következő mondattal egészül ki:
-
-„Az ügyvédi kamarát a törvényszék nem veszi nyilvántartásba.”
-
-116. § A pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 5. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény rendelkezéseit az e törvény szerinti alapítványok nyilvántartásba vételénél azzal az eltéréssel kell alkalmazni, hogy a nyilvántartásba vételről vagy a kérelem elutasításáról szóló döntés meghozatalára nyitva álló határidőbe a hiánypótlásra felhívó végzés postára adásától (átadásától) a hiányok pótlásáig, illetőleg a hiánypótlás elmaradása esetén a hiánypótlásra biztosított határidő lejártáig eltelt időt is be kell számítani. A hiányok pótlására legalább tizenöt napot kell biztosítani.”
+112–116. §
 
 117. §
 
-118. § A felsőoktatásról szóló 2005. évi CXXXIX. törvény 107. § (6) bekezdésében a „továbbá dönt” szövegrész helyébe a „továbbá – a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény rendelkezései szerint – dönt” szöveg lép.
-
-119. § (1) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 1. § (1) bekezdése a következő új f) ponttal egészül ki és a jelenlegi f) pont jelölése g) pontra változik:
-
-[A törvényszék mint cégbíróság (a továbbiakban: cégbíróság) feladata]
-
-„f) döntés a közhasznúvá minősítésről, és a közhasznú jogállás cégjegyzékbe történő bejegyzése, illetve törlése, továbbá”
-
-(2) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 1. § (1) bekezdésének e) pontjában az „elbírálása, továbbá” szövegrész helyébe az „elbírálása,” szöveg lép.
-
-120. § (1) Az európai területi együttműködési csoportosulásról szóló 2007. évi XCIX. törvény 5. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az európai területi társulás nyilvántartásba vételére irányuló hiányos kérelem benyújtása esetén a kérelem beérkezésétől számított tizenöt napon belül postára adott, vagy a kérelmezőnek átadott végzésben a bíróság megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett hiánypótlásra hívja fel a kérelmezőt.”
-
-(2) Az európai területi együttműködési csoportosulásról szóló 2007. évi XCIX. törvény 10. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Amennyiben az európai területi társulás jogerős nyilvántartásba vételét követően megállapításra kerül, hogy a nyilvántartásba vételre az európai területi együttműködési csoportosulásról szóló 1082/2006/EK rendelet, vagy a jelen törvény rendelkezéseinek megsértésével került sor, a Fővárosi Törvényszék az ügyész keresete alapján az európai területi társulást törli a nyilvántartásból”
+118–120. §
 
 121. § (1) Az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 29. § 10. pontja a következő szöveggel lép hatályba:
 
@@ -798,18 +747,12 @@ d) a kedvezmény igénybevevője legkésőbb az ellenőrzés megállapításair�
 
 (17) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló CLVI. törvény 11. számú melléklet 2. pontjával megállapított Art. 2. számú melléklet I/Határidők/2. pont b) alpontjában a „ha az adózó a kérelem benyújtását megelőző két évben” szövegrész helyett a „ha az adózó esetében az alábbi feltételek bármelyike érvényesül” szövegrésszel, illetve az „az adószám felfüggesztés hatálya alatt állt vagy adószámát a felfüggesztést követően törölték, vagy” szövegrész helyett az „az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,” szövegrésszel lép hatályba.
 
-122. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvény 172. §-a kiegészül a következő (20d) bekezdéssel:
-
-„(20d) Ha az adózó az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 464/A. §-a alapján mentesül a jogosulatlanul igénybevett adókedvezménnyel kapcsolatos adókülönbözet megállapítása alól, a jogosulatlanul igénybevett kedvezmény összege 15%-ának megfelelő, de legalább 100 000 forint mértékű mulasztási bírságot fizet, kivéve ha bizonyítja, hogy a szükséges béremelést valamennyi folyamatosan foglalkoztatott munkavállaló tekintetében visszamenőleg, az ellenőrzés megkezdésének időpontját megelőzően végrehajtotta.”
-
-(2) Az adózás rendjéről szóló 2003. évi XCII. törvény 3. számú mellékletének G/4. pontjában az „össztömegét” szövegrész helyébe az „össztömegét, gyártási évét,” szöveg lép.
-
-123. § Az illetékekről szóló 1990. évi XCIII. törvény 26. § (1) bekezdésének t) pontjában az „illetékfizetési kötelezettség” szövegrész helyébe az „illetékkötelezettség” szöveg lép.
+122–123. §
 
 124. §
 
 #### 48. Hatályukat vesztő rendelkezések
 
-125. § (1) E törvény hatálybalépésével egyidejűleg hatályát veszti a Polgári Törvénykönyv hatálybalépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet 91/A. §-a.
+125. § (1)
 
 (2)

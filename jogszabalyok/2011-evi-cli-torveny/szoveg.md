@@ -617,15 +617,7 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 
 (2) E törvény az Alaptörvény 24. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
-(3) E törvény hatálybalépésével egyidejűleg hatályát veszti:
-
-- a) az Alkotmánybíróságról szóló 1989. évi XXXII. törvény,
-- b) az Alkotmánybíróságról szóló 1989. évi XXXII. törvény módosításáról szóló 1994. évi LXXVIII. törvény,
-- c) az Alkotmánybíróságról szóló 1989. évi XXXII. törvény módosításáról szóló 2010. évi LXV. törvény,
-- d) az Alkotmánybíróságról szóló 1989. évi XXXII. törvény módosításáról szóló 2010. évi CXX. törvény, valamint
-- e) az Alkotmánybíróságról szóló 1989. évi XXXII. törvény módosításáról szóló 2011. évi LXII. törvény.
-
-(4) E törvény hatálybalépésével egyidejűleg hatályát veszti a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 25. §-a és a 25. §-át megelőző alcíme, valamint a 28. § (10) bekezdésében az „és az Alkotmánybíróság volt elnökének” szövegrész.
+(3)–(4)
 
 (5) E törvény nem érinti az Alkotmánybíróság e törvény hatálybalépésekor hivatalban lévő tagjának megbízatását azzal, hogy a megbízatásra az 5. §-ban és a 10–16. §-ban foglaltakat alkalmazni kell. Az Alkotmánybíróság e törvény hatálybalépésekor hivatalban lévő tagja vagy e törvény hatálybalépését megelőzően hivatalban volt tagja, akit az Országgyűlés kilenc évre választott meg és nem választották újra, e törvény hatálybalépését követően egyszer újraválasztható.
 

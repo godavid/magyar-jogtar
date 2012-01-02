@@ -1652,7 +1652,7 @@ kell érteni.
 
 158. § (1) Ez a törvény 2012. január 1. napján lép hatályba.
 
-(2) E törvény hatályba lépésével egyidejűleg hatályát veszti az ügyészségi szolgálati viszonyról és az ügyészségi adatkezelésről szóló 1994. évi LXXX. törvény (a továbbiakban: Üsztv.)
+(2)
 
 159. § (1) E törvény I. Fejezete, III–XIII. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 

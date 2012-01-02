@@ -732,19 +732,8 @@ b) tartózkodni minden olyan cselekménytől vagy tevékenységtől, amely össz
 
 (6) Az e törvény végrehajtásához szükséges intézkedésekről a büntetés-végrehajtásért felelős miniszter, az egészségügyért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a honvédelemért felelős miniszter, az idegenrendészetért és menekültügyért felelős miniszter, az igazságügyért felelős miniszter, az oktatásért felelős miniszter és a rendészetért felelős miniszter gondoskodik.
 
-6. § (1) Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 1. § (1) bekezdése a következő szöveggel lép hatályba:
-
-„(1) Az alapvető jogok biztosa – az Alaptörvényben meghatározott feladat- és hatásköre mellett – az e törvényben meghatározott feladat- és hatásköröket gyakorol.”
-
-(2) Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 1. §-a a következő (3) bekezdéssel kiegészülve lép hatályba:
-
-„(3) Az alapvető jogok biztosa tevékenysége során – különösen hivatalból indított eljárások lefolytatásával – megkülönböztetett figyelmet fordít a 2007. évi XCII. törvénnyel kihirdetett, a fogyatékossággal élő személyek jogairól szóló egyezmény végrehajtásának segítésére, védelmére és ellenőrzésére.”
-
-7. § Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény
-
-- a) 22. § (1) bekezdés b) pontja a „dokumentumokba és az informatikai eszközökkel kezelt adatnyilvántartó rendszerek adatállományába” szövegrész helyett a „vizsgált üggyel összefüggésbe hozható összes iratba”;
-- b) 40. § (2) bekezdés a) pontja a „külön fejezetben bemutatva az 1. § (2) bekezdésében” szövegrész helyett a „külön fejezetekben bemutatva az 1. § (2) és (3) bekezdésében” szöveggel lép hatályba.
+6–7. §
 
 8–10. §
 
-11. §
+11. § Hatályát veszti e törvény 6. és 7. §-a.

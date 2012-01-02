@@ -22,35 +22,11 @@ egyes gazdasági tárgyú törvények módosításáról
 
 16. § (1)
 
-(2) Az Szja tv. 71. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[Béren kívüli juttatásnak minősül – ha a juttató a munkáltató – a munkavállalónak]
-
-„a) személyére és közeli hozzátartozói személyére tekintettel a munkáltató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;”
-
-(3) Az Szja tv. 71. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[Béren kívüli juttatásnak minősül]
-
-„a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;”
-
-(4) Az Szja tv. 71. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[Béren kívüli juttatásnak minősül]
-
-„c) a szakszervezet által a tagjának, a nyugdíjas tagjának, az említett magánszemélyek közeli hozzátartozójának, az elhunyt tag (nyugdíjas tag) közeli hozzátartozójának üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;”
-
-(5) Az Szja tv. 77/A. § (2) bekezdés kiegészül a következő h) ponttal:
-
-[Nem minősül bevételnek a magánszemély által értékpapír formájában megszerzett vagyoni érték, ha a magánszemély:]
-
-„h) az értékpapírt visszterhes jogügylet keretében más magánszemélytől szerezte, feltéve, hogy az ellenérték összege (értéke) az értékpapír névértékét (névérték hiányában az értékpapír kibocsátójának jegyzett tőkéjéből az értékpapírra arányosan jutó rész összegét) eléri; e rendelkezés nem érinti e törvény adómentességet megállapító egyéb rendelkezéseinek alkalmazhatóságát.”
+(2)–(4)
 
 17. §
 
-18. § Az Szja tv. a következő 84/Q. §-sal egészül ki:
-
-„84/Q. § A 2011. október 1-jét megelőzően üdülési csekk formájában megszerzett bevétel adókötelezettségére e törvénynek a bevétel megszerzése időpontjában hatályos rendelkezéseit kell alkalmazni.”
+18. §
 
 19. §
 
@@ -58,47 +34,9 @@ egyes gazdasági tárgyú törvények módosításáról
 
 20. §
 
-21. § Az Szt. 152. §-a helyébe a következő rendelkezés lép:
+21–22. §
 
-„152. § (1) A könyvviteli szolgáltatást végzők kötelesek a már megszerzett ismereteket naprakészen tartani, fejleszteni, a változásokból eredő követelményekkel összhangba hozni. Ennek érdekében kötelező számukra a szakmai továbbképzés.
-
-(2) Az (1) bekezdés szerinti továbbképzést – ide nem értve a (3) bekezdés szerinti eseteket – a miniszter által akkreditált szervezet, a miniszter által kreditpont-minősítési eljárásban minősített szakmai továbbképzési program alapján végezheti.
-
-(3) Az (1) bekezdés szerinti továbbképzési kötelezettség a 151. § (4) bekezdés szerinti kormányrendeletben meghatározott egyéb módon is teljesíthető.
-
-(4) A továbbképzésen résztvevőkről a (2) bekezdés szerinti akkreditált szervezet nyilvántartást vezet, amely alapján a 151. § (4) bekezdésben hivatkozott kormányrendeletben meghatározott módon és az alábbi adattartalommal megküldi a továbbképzési kötelezettség igazolásához szükséges adatokat a miniszternek:
-
-a) az akkreditált szervezet sorszáma, neve, címe,
-
-b) a résztvevők adatai:
-
-ba) regisztrálási szám,
-
-bb) családi és utónév,
-
-bc) születési családi és utónév,
-
-bd) születési hely, idő,
-
-be) anyja születési családi és utóneve,
-
-bf) nyilvántartásban szereplő címe (irányítószám, helység, utca, házszám),
-
-c) a képzés azonosítója és kreditpontértéke.”
-
-22. § Az Szt. 152/A. §-a helyébe a következő rendelkezés lép:
-
-„152/A. § A 151. § (5) bekezdés szerinti engedélyezési eljárásért, a 152. § (2) bekezdése szerinti akkreditációs eljárásért, valamint kreditpont-minősítési eljárásért igazgatási szolgáltatási díjat kell fizetni.”
-
-23. § (1) Az Szt. 177. §-a a következő (18)–(19) bekezdésekkel egészül ki:
-
-„(18) A könyvviteli szolgáltatást végzők a 2012. évi továbbképzési kötelezettségüknek a 2012. április 1-jén akkreditációval rendelkező szervezeteknél, a 2012. április 1-jén hatályos szabályok szerint lebonyolított továbbképzések teljesítésével kötelesek eleget tenni.
-
-(19) A 152. § alapján a 2012. évben kreditrendszerű továbbképzések teljesítésével megszerzett kreditpontok a 2013. évi továbbképzési kötelezettség vonatkozásában vehetők figyelembe.”
-
-(2) Az Szt. 177. §-a a következő (20) bekezdéssel egészül ki:
-
-„(20) E törvénynek az egyes gazdasági tárgyú törvények módosításáról szóló 2011. évi XCVI. törvény 25. §-ának i) pontjával módosított 155. §-a (3) bekezdése a) pontját először a 2012. évben induló üzleti évről készített beszámolóra kell alkalmazni.”
+23. § (1)–(2)
 
 (3) Az Szt. 177. §-a a következő (21) bekezdéssel egészül ki:
 
@@ -109,7 +47,7 @@ c) a képzés azonosítója és kreditpontértéke.”
 25. § Az Szt.
 
 - a)–h)
-- i) 155. § (3) bekezdés a) pontjában a „100 millió forintot” szövegrész helyébe „200 millió forintot” szöveg,
+- i)
 - j) 155. § (3) bekezdés a) pontjában a „200 millió forintot” szövegrész helyébe „300 millió forintot” szöveg
 
 lép.

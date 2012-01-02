@@ -1262,14 +1262,7 @@ rendelheti el.
 
 82. § (1) Ez a törvény 2012. január 1-jén lép hatályba.
 
-(2) Hatályát veszti
-
-- a) a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény módosításáról szóló 2010. évi XCIII. törvény,
-- b) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény, valamint a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény kapcsolódó módosításáról szóló 2005. évi CXXIII. törvény,
-- c) a honvédelemről és a Magyar Honvédségről szóló 2004. évi CV. törvény,
-- d) a Honvédelmi Minisztérium és a Honvéd Vezérkar integrációjával érintett törvények módosításáról szóló 2001. évi XLIII. törvény,
-- e) az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programjában való részvételhez szükséges törvénymódosításokról szóló 2000. évi XXXVI. törvény,
-- f) a honvédelmet érintő egyes törvények módosításáról szóló 1998. évi LXXXIX. törvény.
+(2)
 
 #### 51. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
@@ -1281,8 +1274,4 @@ rendelheti el.
 
 #### 53. Módosító rendelkezések
 
-85. § Az illetékekről szóló 1990. évi XCIII. törvény 33. § (2) bekezdése a következő 37. ponttal egészül ki:
-
-(Egyes alkotmányos jogok érvényesítése, illetőleg kötelezettségek teljesítése, valamint a társadalmi igazságosság előmozdítása érdekében a mellékletben és a külön jogszabályokban meghatározott illetékmentes eljárásokon felül tárgyuknál fogva illetékmentes eljárások)
-
-„37. A hadkötelezettséggel és a honvédelmi kötelezettségekkel kapcsolatos államigazgatási eljárás, valamint az azokkal kapcsolatos hatósági igazolás céljára kiállított közokirat.”
+85. §

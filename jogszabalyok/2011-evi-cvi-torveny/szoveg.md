@@ -123,41 +123,15 @@ kerül sor,
 
 #### 19. §
 
-20. § Az Szt. 33. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A települési önkormányzat rendeletében az aktív korúak ellátására való jogosultság egyéb feltételeként előírhatja, hogy a kérelem benyújtója, illetve az ellátás jogosultja a lakókörnyezete rendezettségének biztosítására vonatkozó, a rendeletében megállapított feltételeket teljesítse. A lakókörnyezet rendezettségének biztosítása körében a kérelmező vagy jogosult által életvitelszerűen lakott lakás vagy ház és annak udvara, kertje, a kerítéssel kívül határos terület, járda tisztán tartása, az ingatlan állagának és rendeltetésszerű használhatóságának, valamint higiénikus állapotának biztosítására irányuló kötelezettség írható elő. A rendeletben megállapított feltételek teljesítésére a kérelmezőt, illetve a jogosultat megfelelő, de legalább ötnapos határidő tűzésével a jegyzőnek – az elvégzendő tevékenységek konkrét megjelölésével – fel kell szólítania.”
+#### 20. §
 
 #### 21. §
 
-22. § (1) Az Szt. 37. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+#### 22. §
 
-(Az az aktív korúak ellátására jogosult személy, aki az ellátásra való jogosultság kezdő napján)
+#### 23. §
 
-„b) a rá irányadó nyugdíjkorhatárt öt éven belül betölti, vagy”
-
-(2) Az Szt. 37. § (3)–(4) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha az (1) bekezdés a), c), illetve d) pontja szerinti valamely feltétel megszűnik, a feltétel megszűnését követő hónap első napjától a 35. § (1) bekezdése szerinti ellátást kell megállapítani és a 35. § (3) bekezdése szerinti kötelezettséget kell előírni. A feltétel megszűnésének hónapjára – amennyiben az aktív korúak ellátására való jogosultság továbbra is fennáll – rendszeres szociális segély jár.
-
-(4) A rendszeres szociális segély havi összege a családi jövedelemhatár összegének és a jogosult családja havi összjövedelmének különbözete, de nem haladhatja meg a közfoglalkoztatási bér mindenkori kötelező legkisebb összege személyi jövedelemadóval, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal csökkentett összegének (e § alkalmazásában: nettó közfoglalkoztatási bér) 90%-át azzal, hogy ha a rendszeres szociális segélyre jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, a rendszeres szociális segély összege nem haladhatja meg a nettó közfoglalkoztatási bér 90%-ának és a foglalkoztatást helyettesítő támogatás összegének különbözetét. A családi jövedelemhatár összege megegyezik a család fogyasztási egységeihez tartozó arányszámok összegének és az öregségi nyugdíj mindenkori legkisebb összege 90%-ának szorzatával.”
-
-23. § Az Szt. 37/B. § a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Amennyiben a rendszeres szociális segélyre jogosult személy a lakókörnyezete rendben tartására vonatkozó, a 33. § (7) bekezdése szerinti feltételeknek – a felszólítás ellenére – nem tesz eleget, a rendszeres szociális segély összegének folyósítását egy hónapra fel kell függeszteni.”
-
-24. § Az Szt. 58/A. §-a a következő (2) és (2a) bekezdéssel egészül ki:
-
-„(2) A 131/A. §-ban nem említett szociális szolgáltatások esetében
-
-a) az új szociális szolgáltató, intézmény,
-
-b) házi segítségnyújtásnál az új ellátotti létszám,
-
-c) nappali és – a külső férőhelyek kivételével – szakosított ellátásnál az új férőhelyek
-
-után az állami, egyházi és nem állami fenntartó normatív állami hozzájárulásra való jogosultságának további feltétele a szociális szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadás.
-
-(2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, ellátotti létszámnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó 2011. december 31-én nem rendelkezett jogerős működési engedéllyel és a szociális szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe nem nyert még befogadást, valamint 2012. július 1-jétől a nem állami fenntartású házi segítségnyújtás – ide nem értve az egyházi fenntartású házi segítségnyújtást – esetében a 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszám.”
+#### 24. §
 
 #### 25. §
 
@@ -167,23 +141,11 @@ után az állami, egyházi és nem állami fenntartó normatív állami hozzáj�
 
 28. § (1)–(3)
 
-(4) Az Szt. 132. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza)
-
-„a) az aktív korúak ellátására jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,”
+(4)
 
 #### 29. §
 
-30. § Az Szt. a következő 140/H. §-sal egészül ki:
-
-„140/H. § (1) Az Szt.-nek a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvénnyel megállapított 37. § (4) bekezdésében foglaltakat a 2012. január 1-jén folyamatban lévő, az aktív korúak ellátására való jogosultság megállapítása iránti kérelmek elbírálására irányuló eljárásokban is alkalmazni kell.
-
-(2) A jegyző a 2012. január 1-jét megelőzően megállapított rendszeres szociális segély összegét, valamint a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvénnyel megállapított, az Szt. 37. § (1) bekezdés b) pontja szerinti jogosultsági feltételeket 90 napon belül felülvizsgálja, és
-
-a) intézkedik arról, hogy első alkalommal az április hónapra járó rendszeres szociális segély a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvénnyel megállapított 37. § (4) bekezdésben foglaltak szerinti összegre figyelemmel kerüljön folyósításra,
-
-b) amennyiben a rendszeres szociális segélyre való jogosultságnak az Szt. 2012. január 1-jén hatályos 37. § (1) bekezdés b) pontja szerinti feltétele nem áll fenn, de az aktív korúak ellátására való jogosultsága egyébként fennáll, 2012. április 1-jétől a foglalkoztatást helyettesítő támogatásra való jogosultságot kell megállapítani azzal, hogy 2012. január–március hónapjaira a rendszeres szociális segélyt folyósítani kell.”
+#### 30. §
 
 ### A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
@@ -211,17 +173,7 @@ b) amennyiben a rendszeres szociális segélyre való jogosultságnak az Szt. 20
 
 #### 39. §
 
-40. § A Gyvt. 145. §-a a következő (2) és (2a) bekezdéssel egészül ki:
-
-„(2) Az állami, egyházi és nem állami fenntartó normatív állami hozzájárulásra való jogosultságának feltétele a
-
-a) személyes gondoskodást nyújtó gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó új szolgáltatónak, intézménynek, hálózatnak,
-
-b) gyermekek napközbeni ellátása, gyermekek átmeneti gondozása, otthont nyújtó ellátás és – a külső férőhelyek kivételével – utógondozói ellátás esetében az új férőhelyeknek
-
-a gyermekjóléti és gyermekvédelmi szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása.
-
-(2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, hálózatnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó 2011. december 31-én nem rendelkezett jogerős működési engedéllyel és a gyermekjóléti és gyermekvédelmi szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe nem nyert még befogadást.”
+#### 40. §
 
 #### 41. §
 
@@ -279,11 +231,9 @@ a gyermekjóléti és gyermekvédelmi szolgáltatások területi lefedettségét
 
 58. § (1)
 
-(2) Hatályát veszti az Szt.
+(2)
 
-- a) 18. § h) pontjában a „(TAJ szám)” szövegrész,
-- b) 26/A. §-a,
-- c) 35. § (2) bekezdése,
+- a)–c)
 - d)
 
 59. § Nem lép hatályba az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény 24. § (1) bekezdése.

@@ -22,7 +22,7 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 - f) nem helyhez kötött szerver alapú pénznyerő rendszer üzemeltetése,
 - g) a lóversenyfogadás és az a)–f) pontok alá nem tartozó, e törvényben meghatározott egyéb, szerencsejáték szervezésére irányuló tevékenység (a továbbiakban együtt: szerencsejáték szervező tevékenység).
 
-(4) A Magyar Köztársaság területéről hírközlő eszköz és rendszer által részvételi jogosultságot biztosító szerencsejáték szervezési tevékenység kizárólag e törvény előírásainak megfelelően folytatható.
+(4) Magyarország területéről hírközlő eszköz és rendszer által részvételi jogosultságot biztosító szerencsejáték szervezési tevékenység kizárólag e törvény előírásainak megfelelően folytatható.
 
 (5) Hírközlő eszközök és rendszerek által szervezett szerencsejátékban való részvételre ajánlatok közzétételéhez az állami adóhatóság engedélye szükséges. Az engedély nélküli szerencsejátékban történő részvételre vonatkozó ajánlatok közzétételében, illetve elfogadásában a pénzügyi szervezetek és a hírközlési szolgáltatók nem működhetnek közre, ilyenekhez nem nyújthatnak technikai támogatást.
 
@@ -591,7 +591,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 ### 2. CÍM — Játékadó
 
-### Sorsolásos játékok, fogadások és a távjátékok játékadója
+### Sorsolásos játékok, fogadások és a távszerencsejátékok játékadója
 
 32. § (1) Az e törvény 16. §-ában foglaltak kivételével, más, nem folyamatosan szervezett sorsolásos játékok játékadója a nyereményalap 16%-a. A sorsjáték játékadója a havi tiszta játékbevétel 30%-a, a lottójáték játékadója a 30. § (5) bekezdése szerinti havi nyereményalap 24%-a, a bingójáték játékadója a havi nyereményalap 7%-a, a jokerjáték játékadója a havi nyereményalap 17%-a, más számsorsjáték játékadója a havi nyereményalap 17%-a. A kenójáték játékadója a havi tiszta játékbevétel 24%-a.
 

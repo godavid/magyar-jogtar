@@ -182,15 +182,9 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - a) a világörökségi gondnokság kiválasztásának részletes szabályait, a világörökségi gondnokság feladatait és működését; valamint
 - b)
 
-15. § (1) A jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 3. pontjában a „3911/92/EGK” szövegrész helyébe a „116/2009/EK” szövegrész lép.
+15. §
 
-(2) A világ kulturális és természeti örökségének védelméről szóló, az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete Általános Konferenciájának ülésszakán Párizsban, 1972. november 16-án elfogadott egyezmény kihirdetéséről szóló 1985. évi 21. törvényerejű rendelet 3. §-ában az „az agrárpolitikáért felelős miniszterrel és a természetvédelemért felelős miniszterrel” szövegrész helyébe az „az agrárpolitikáért felelős miniszterrel, az építésügyért felelős miniszterrel, a természetvédelemért felelős miniszterrel a területrendezésért felelős miniszterrel, valamint a településfejlesztésért és településrendezésért felelős miniszterrel” szövegrész lép.
-
-(3)
-
-16. § (1) Hatályát veszti a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 5/A. §-a, 81. § p) pontjában a „világörökségi és” szövegrész, valamint a 93. § (2) bekezdés n) pontja.
-
-(2) Hatályát veszti az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 56. § (4) bekezdése, illetve a 62. § (2) bekezdés k) pontja.
+16. §
 
 17. § (1) E törvény – a (2) és (3) bekezdés szerinti kivétellel – 2012. január 1-jén lép hatályba.
 

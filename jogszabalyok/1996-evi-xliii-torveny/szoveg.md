@@ -2775,7 +2775,11 @@ különbözetének megtérítése iránti igényt.
 
 (4) Megüresedett szolgálati beosztás betöltésénél a szenior állomány tagját – ha megfelel a 64. §-ban meghatározott feltételeknek – előnyben kell részesíteni.
 
-264/G. §
+264/G. § (1) A szenior állomány tagja – beleegyezése nélkül – szolgálatát közfoglalkoztatás szervezésére, irányítására és végrehajtására irányuló feladatok ellátására létrehozott közigazgatási szervnél is teljesítheti. A vezénylés esetén a lakóhely és a vezénylés szerinti szolgálatteljesítési hely között a tömegközlekedési eszközzel történő oda- és visszautazás időtartama a két órát – ha a vezénylést megelőzően a lakóhely és a szolgálatteljesítési hely közötti oda- és visszautazás két óránál hosszabb időt vett igénybe, akkor ezt az időtartamot – nem haladhatja meg.
+
+(2) Az (1) bekezdésben meghatározott szervnél történő szolgálat határozott ideig, de legfeljebb két évig tart, amely időtartam a szenior állomány tagjának beleegyezésével határozatlan időre meghosszabbítható.
+
+(3) Az (1) és (2) bekezdés szerinti vezénylésre a 43. § rendelkezései azzal az eltéréssel alkalmazhatók, hogy a szenior állomány vezényelt tagjának illetményére, munkaidejére, foglalkoztatási feltételeire a 264/C–264/F. § rendelkezéseit kell alkalmazni.
 
 264/H. §
 

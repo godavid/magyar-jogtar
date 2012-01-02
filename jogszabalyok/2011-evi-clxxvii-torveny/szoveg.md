@@ -460,174 +460,29 @@ adatok.
 
 #### 26. Módosító rendelkezések
 
-45. § (1) A Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény (a továbbiakban: Küfetv.) preambuluma helyébe a következő rendelkezés lép:
+45. §
 
-„Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők, és a Magyarország területén felállított nemzetközi katonai parancsnokságok és állományuk jogállásának teljes körű biztosítása érdekében a következő törvényt alkotja:”
-
-(2) A Küfetv. 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) E törvényben foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erőkre, a Magyarország területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira, továbbá – a rájuk vonatkozó rendelkezések tekintetében – az állomány tagjainak Magyarország területén tartózkodó hozzátartozóira.”
-
-(3) A Küfetv. 3. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Külföldi fegyveres erőnek Magyarország területére történő belépését és tartózkodását szolgálati célúnak kell tekinteni, ha az az Alaptörvény 47. cikk (1)–(3) bekezdése alapján engedélyezett.
-
-(2) Szolgálati célúnak minősül a külföldi fegyveres erő állománya tagjának Magyarország területére történő belépése,
-
-a) ha az Alaptörvény 47. cikk (1)–(3) bekezdése alapján engedélyezett, vagy
-
-b) – amennyiben az nem tartozik az Alaptörvény 47. cikk (1)–(3) bekezdés hatálya alá – ha az az állomány tagjának hivatalos vagy szolgálati feladatai ellátása érdekében történik, és a belépésről, valamint a szolgálati célról az állományt küldő állam illetékes hatósága a honvédelemért felelős miniszter által vezetett minisztériumot katonadiplomáciai úton, a belépés tervezett idejét legalább 3 nappal megelőzően értesíti.”
-
-(4) A Küfetv. 4. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A Magyar Honvédség központi adatfeldolgozó szerve nyilvántartást vezet)
-
-„d) a Magyarország területén felállított nemzetközi katonai parancsnokságokról és az azokhoz tartozó, és Magyarország területén szolgálatot teljesítő állomány tagjairól a nemzetközi katonai parancsnokságnak Magyarország által nemzetközi szervezetként történő elismeréséig.”
-
-(5) A Küfetv. 4. § (5) bekezdés nyitó szövegrésze helyébe a következő rendelkezés lép:
-
-„Az (1) bekezdés d) pontjában meghatározott nyilvántartás a Magyarország területén felállított nemzetközi katonai parancsnokságokhoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja alábbi adatait tartalmazza:”
-
-(6) A Küfetv. 4. § (7) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) bekezdésben meghatározott nyilvántartás vezetésének célja:)]
-
-„c) Magyarországnak a külföldi fegyveres erők Magyarország területén történő tartózkodásával összefüggő honvédelmi és nemzetbiztonsági védelmének hatékony ellátása.”
-
-(7) A Küfetv. 5. § (1) bekezdés helyébe a következő rendelkezés lép:
-
-„(1) A Magyar Honvédség központi adatfeldolgozó szerve a NATO- és PfP-állomány, a Magyarország területén felállított nemzetközi katonai parancsnoksághoz tartozó és Magyarország területén szolgálatot teljesítő állomány tagja részére e jogállásának igazolására, valamint egyes, a nemzetközi jog és a magyar jogszabályok által biztosított jogosultságainak és mentességeinek érvényesítéséhez az állomány tagjának erre vonatkozó írásbeli kérelmére, a 4. §-ban foglalt nyilvántartás adatai alapján igazolványt állít ki. Az igazolvány az abban foglalt adatokat közhitelűen igazolja.”
-
-(8) A Küfetv. 6. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A 4. § (1) bekezdés d) pontjában meghatározott, a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira vonatkozó nyilvántartásokban foglalt adatokat, amennyiben a nemzetközi katonai parancsnokságot a Magyar Köztársaság nemzetközi szervezetként nem ismerte el, ]
-
-„b) a Magyarország területén felállított, azonban Magyarország által nemzetközi szervezetként el nem ismert nemzetközi katonai parancsnokság vagy annak magyarországi székhelyének, illetve képviseletének megszűnéséről szóló, a honvédelemért felelős miniszter által vezetett minisztérium által kiállított nyilatkozat kézhezvételéig”
-
-(kell megőrizni.)
-
-(9) A Küfetv. 6. § (4) és (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Amennyiben a Magyarország területén felállított nemzetközi katonai parancsnokságot Magyarország nemzetközi szervezetként ismeri el, a Magyar Honvédség központi adatfeldolgozó szerve a 4. § (1) bekezdés d) pontjában meghatározott nyilvántartásokban foglalt adatokat – a (3) bekezdés a) pontjában hivatkozott értesítés kézhezvételét követően, az adatok megsemmisítését megelőzően – átadja a külpolitikáért felelős miniszter által vezetett minisztérium részére.
-
-(5) A Magyarország területén felállított, és Magyarország által nemzetközi szervezetként elismert nemzetközi katonai parancsnokságokat a külpolitikáért felelős miniszter által vezetett minisztérium a Magyarországon képviselettel rendelkező nemzetközi szervezetek jegyzékében, azok állományának tagjait pedig a Magyarországon képviselettel rendelkező nemzetközi szervezetek tisztviselőinek jegyzékében tartja nyilván.”
-
-(10) A Küfetv. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 4. § (1) bekezdésben meghatározott nyilvántartásokban foglalt adatok – a (2) bekezdésben foglaltak kivételével – a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők és azok állománya, valamint a Magyarország területén felállított nemzetközi katonai parancsnokságok nemzetbiztonsági védelmének, valamint Magyarország honvédelmi érdekeinek biztosítása, továbbá a nemzetközi katonai parancsnokságok felállításában érintett nemzetközi szervezetekkel történő kapcsolattartásra tekintettel nem hozhatók nyilvánosságra.”
-
-(11) A Küfetv. 7. § (2) bekezdés c) és d) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) bekezdés alapján nem korlátozható a következő adatok nyilvánossága, amennyiben azok nem képeznek minősített adatot:)]
-
-„c) a Magyarország területén felállított, és Magyarország által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok megnevezése;
-
-d) a Magyarország területén felállított, és Magyarország által nemzetközi szervezetként el nem ismert egyes nemzetközi katonai parancsnokságok Magyarország területén lévő szervezetének teljes létszáma.”
-
-(12) A Küfetv. 9. § (1) bekezdés helyébe a következő rendelkezés lép:
-
-„(1) A külföldi fegyveres erő Magyarország területén, magyar hajón vagy magyar légi járművön szolgálati céllal tartózkodó, valamint a Magyarország területén felállított és Magyarország által nemzetközi szervezetként el nem ismert nemzetközi katonai parancsnokság állományának tagjai és azoknak a Magyarország területén, magyar hajón vagy magyar légi járművön tartózkodó hozzátartozói Magyarország joghatósága alá tartoznak.”
-
-(13) A Küfetv. 10. § (1) bekezdés helyébe a következő rendelkezés lép:
-
-„(1) A külföldi fegyveres erő, valamint a Magyarország területén felállított nemzetközi katonai parancsnokság állományának tagjai szolgálati fegyvereiket Magyarország területén, valamint a magyar hajón vagy magyar légi járművön a jogos védelemre és a végszükségre vonatkozó jogszabályi rendelkezéseknek megfelelően használhatják.”
-
-(14) A Küfetv. 11. § (2) bekezdés helyébe a következő rendelkezés lép:
-
-„(2) A kizárólag Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erő, valamint a Magyarország területén felállított nemzetközi katonai parancsnokság külföldi állománya tagjának egészségügyi ellátását végző, a külföldi fegyveres erő vagy a nemzetközi katonai parancsnokság állományába tartozó személy e tevékenységének végzése erejéig mentesül az egészségügyi tevékenység végzéséhez jogszabályban előírt engedélyezési feltételek teljesítése alól.”
-
-46. § A Küfetv.
-
-- a) 1. § (2) és (3) bekezdésében, 4. § (1) bekezdés a) és c) pontjában, 4. § (3) és (4) bekezdésének nyitó szövegrészében, 5. § (4) bekezdésében, 6. § (1) bekezdésében, 7. § (2) bekezdés a) és b) pontjában, 9. § (2) bekezdésében,10. § (2) bekezdésében és 5. alcímében a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
-- b) 3. § (3) bekezdésében, 4. § (1) bekezdés b) pontjában, 4. § (3) bekezdés c) és g) pontjában, 4. § (4) bekezdés c) és e) pontjában, 4. § (6) bekezdésében, 6. § (2) bekezdésében,7. § (3) bekezdés a), c) és i) pontjában, 13. § (1) bekezdés a) pontjában, 13. § (5) bekezdésében és 14. § (1) bekezdésében az „a Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg,
-- c) 5. § (2) bekezdés e) pontjában és 11. § (1) bekezdésében a „Magyar Köztársaság” szövegrészek helyébe a „Magyarország” szöveg,
-- d) 6. § (3) bekezdés nyitó szövegrészében, 7. § (3) bekezdés b) pontjában az „a Magyar Köztársaság” szövegrészek helyébe a „Magyarország” szöveg,
-- e) 17. § b) pontjában az „Alkotmány 19. § (3) bekezdés j) pont vagy 40/C. § (1) bekezdés” szövegrész helyébe az „Alaptörvény 47. cikk (1)–(3) bekezdése” szöveg,
-- f) 8. §-ában az „államnak a Magyar Köztársaság” szövegrész helyébe az „állam Magyarország” szöveg
-
-lép.
+46. §
 
 47. § 2012. május 1-jén hatályát veszti a Küfetv. 18. § (3) bekezdése.
 
-48. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 68. § (5) bekezdése helyébe a következő rendelkezés lép:
+48. §
 
-„(5) A hadkötelezettség bevezetését követően a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a hadkötelezettség feltételei fennállásának megállapítása céljából jogosultak közvetlen hozzáféréssel átvenni a következő adatokat:
+49. §
 
-a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
+50. §
 
-b) a 16. § (2) bekezdés a) pontjában meghatározott adatok,
+51. §
 
-c) a 23. § c), f) és g) pontjában meghatározott adatok, valamint
+52. §
 
-d) a 28. § b) és c) pontjában meghatározott adatok.”
+53. §
 
-49. § A víziközlekedésről szóló 2000. évi XLII. törvény a következő 10/A. §-sal egészül ki:
+54. §
 
-„10/A. § A katonai igazgatás területi szerve a technikai eszközök igénybevételének tervezése, igénybevételi célú kijelölése céljából a 10. § (1) bekezdés a)–d) pontja szerinti adatokat igényelheti.”
+55. §
 
-50. § A választási eljárásról szóló 1997. évi C. törvény a következő 52/A. §-sal egészül ki:
-
-„52/A. § A Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelezettség bevezetése után a behívás alóli mentesség megállapítása céljából igényelheti a feladat- és hatáskörrel rendelkező választási szervtől a jelöltként nyilvántartásba vett személy családi és utónevét, személyi azonosítóját, és lakcímét.”
-
-51. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény
-
-- a) 23. §-a a következő j) ponttal egészül ki:
-
-(A TAJ számot a következő szervek az alábbiakban meghatározott célból kezelhetik:)
-
-„j) a Magyar Honvédség a törvényben meghatározott hadkiegészítési és érdekvédelmi feladatai ellátásához.”
-
-- b) 24. §-a a következő l) ponttal egészül ki:
-
-(A TAJ szám továbbítására jogosultak:)
-
-„l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a katonai igazgatás területi szervei egymás között a törvényben meghatározott hadkiegészítési és érdekvédelmi feladataik ellátásához.”
-
-- c) 32. § f) pontja helyébe a következő rendelkezés lép:
-
-(A személyi azonosító kezelésére – az adattovábbítás kivételével – jogosult)
-
-„f) a katonai igazgatás szervei és a Magyar Honvédség központi irattározásra kijelölt szerve, továbbá a katonai szolgálat teljesítésének időtartama alatt a tényleges állomány vonatkozásában az állományilletékes katonai szervezet a törvény szerinti hadköteles nyilvántartás vezetéséhez, az önkéntes tartalékos és kiképzett tartalékos állomány katonai szolgálata tervezése érdekében, valamint a háborús veszteség nyilvántartással kapcsolatban, nemzetközi megállapodásban rögzített kötelezettségek teljesítéséhez;”
-
-- d) 36. § k) pontja helyébe a következő rendelkezés lép:
-
-(A személyi azonosító továbbítására jogosult:)
-
-„k) a 32. § f) pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;”
-
-- e) 37. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:)
-
-„a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a katonai nyilvántartásban szereplő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, ideiglenesen külföldön tartózkodásának tényéről, vagy az onnan való visszatéréséről, továbbá az érintett elhalálozásáról, az ország végleges elhagyásáról, továbbá a honvédelmi kötelezettség alá eső polgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, személyi azonosítójáról, családi állapotáról és lakcíméről;”
-
-52. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 22. §-ának b) pontja helyébe a következő rendelkezés lép:
-
-[E törvény felhatalmazása alapján a 17. § c) pontja szerinti adatok igénylésére jogosultak:]
-
-„b) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a katonai igazgatás illetékes területi szervei és a Magyar Honvédség központi irattározásra kijelölt szerve a hadkötelesek nyilvántartásának vezetéséhez és a háborús veszteség nyilvántartással kapcsolatos kötelezettségek teljesítéséhez;”
-
-53. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (1) bekezdés d) pontjában a „honvédelmi igazgatás szerve” szövegrész helyébe a „Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve” szöveg lép.
-
-54. § A magyar állampolgárságról szóló 1993. évi LV. törvény 19. § (2) bekezdésében a „a Magyar Honvédség központi adatfeldolgozó szervét” szövegrész helyébe a „Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve” szöveg lép.
-
-55. § A közúti közlekedésről 1988. évi I. törvény a következő 28/A. §-al egészül ki:
-
-„28/A. § (1) E törvény rendelkezéseit a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyarország területén felállított nemzetközi katonai parancsnokságok Magyarországon szolgálatot teljesítő állományának tagjaira (a továbbiakban: külföldi állomány), valamint azoknak a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény 2. § (2) bekezdésében meghatározott hozzátartozójára az e §-ban foglalt eltérésekkel kell alkalmazni.
-
-(2) A külföldi állomány tagja, valamint az (1) bekezdés szerinti hozzátartozója a saját tulajdonában lévő, és a saját részére, vagy hozzátartozója személyes használatára – szolgálati célú tartózkodása idejére ideiglenesen – behozott gépjárművét (a továbbiakban: külföldi állomány gépjárműve) külföldi hatósági engedéllyel és jelzéssel is használhatja Magyarország területén.
-
-(3) Ahol e törvény vagy a közúti közlekedési igazgatásról szóló jogszabály lakóhelyet, lakcímet vagy tartózkodási helyet említ, ott a külföldi állomány tekintetében az igazolt elhelyezési helyet is érteni kell.
-
-(4) A külföldi állomány gépjárműve – a közlekedésbiztonsági üzemeltetési műszaki feltételek kivételével – mentesül a közúti járművek forgalomba helyezésére és forgalomban tartására vonatkozó jogszabályban meghatározott üzemeltetési műszaki feltételek alól.”
-
-56. § (1) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 23. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[A következő szervek írásbeli megkeresésére a kezelést végző orvos az érintett egészségügyi és a megkereső szerv által törvény alapján kezelhető, az azonosításhoz szükséges személyazonosító adatait átadja a megkereső szervnek. A megkeresésben a 4. § (4) bekezdésének megfelelően fel kell tüntetni a megismerni kívánt egészségügyi és személyazonosító adatokat. A megkereső szervek a következők lehetnek:]
-
-„c) potenciális hadköteles és hadköteles személy esetén az illetékes jegyző, a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,”
-
-(2) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 23. § (1) bekezdés e) pontjában a „Magyar Honvédség központi adatfeldolgozó szerve” szövegrész helyébe a „Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve” szöveg lép.
+56. §
 
 #### 27. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
