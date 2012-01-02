@@ -2812,8 +2812,8 @@ büntetendő.
 
 (2) Aki az (1) bekezdésben meghatározott bűncselekményt
 
-- a) gazdálkodó szervezet vagy társadalmi szervezet dolgozójával, illetve tagjával kapcsolatban követi el, vétség miatt egy évig terjedő szabadságvesztéssel,
-- b) gazdálkodó szervezet vagy társadalmi szervezet önálló intézkedésre jogosult dolgozójával, illetve tagjával kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+- a) gazdálkodó szervezet vagy egyesület dolgozójával, illetve tagjával kapcsolatban követi el, vétség miatt egy évig terjedő szabadságvesztéssel,
+- b) gazdálkodó szervezet vagy egyesület önálló intézkedésre jogosult dolgozójával, illetve tagjával kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 ### Közérdekű bejelentő üldözése
 

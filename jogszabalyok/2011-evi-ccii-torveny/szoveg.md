@@ -204,55 +204,11 @@ rendeletben szabályozza.
 
 (2) A 28. § (2) bekezdése az Alaptörvény 45. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
-28. § (1) A polgári perrendtartásról szóló 1952. évi III. törvény 326. § (12) bekezdés l) pontja helyébe a következő rendelkezés lép:
-
-[Az illetékesség megállapításánál a (2) és (5) bekezdés szabályait kell alkalmazni a következő törvények alapján indult felülvizsgálati eljárásokban:]
-
-„l) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény,”
+28. § (1)
 
 (2)
 
-29. § (1) A Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény 4/A. §-ában a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvénynek a Magyar Köztársaság Érdemrendje” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénynek a Magyar Érdemrend” szöveg lép.
-
-(2) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 63. § (2) bekezdésében a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény” szöveg lép.
-
-(3) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 122. § (1) bekezdés e) pontjában a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvénnyel” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel” szöveg lép.
-
-(4) A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 287. § (2) bekezdés a) pontjának ac) alpontjában a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény” szöveg lép.
-
-(5) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 342. § (2) bekezdés 5. pontjában a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény” szöveg lép.
-
-30. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4.6. pontjában a „Magyar Köztársasági Érdemrend és Érdemkereszt tárgyiasult formája” szövegrész helyébe a „Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája” szöveg lép.
-
-31. § Hatályát veszti
-
-- a) a Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény,
-- b) a Magyar Köztársaság nemzeti jelképeinek és a Magyar Köztársaságra utaló elnevezésnek a használatáról szóló 1995. évi LXXXIII. törvény módosításáról szóló 2000. évi XXXVIII. törvény,
-- c) a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény,
-- d) az 1956-os Emlékérem és Emléklap alapításáról szóló 1991. évi XLIII. törvény,
-- e) a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló 2/2001. (VIII. 14.) ME rendelet,
-- f) a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény, valamint a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény módosításáról szóló 2000. évi XI. törvény.
-
-32. § (1) Hatályát veszti
-
-- a) a nemzeti szabványosításról szóló 1995. évi XXVIII. törvény 7. § (3) bekezdése,
-- b) a szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény 28. § (3) bekezdése,
-- c) a Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény 1. § (6) bekezdése,
-- d) az igazságügyi szakértői kamaráról szóló 1995. évi CXIV. törvény 5. § (4) bekezdése és 14. § (3) bekezdése,
-- e) a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 2. § (5) bekezdése,
-- f) az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 1. § (6) bekezdése,
-- g) az ügyvédekről szóló 1998. évi XI. törvény 109. § (5) bekezdése,
-- h) a gazdasági kamarákról szóló 1999. évi CXXI. törvény 6. § (2) bekezdése,
-- i) a Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 1. § (6) bekezdése,
-- j) a tankönyvpiac rendjéről szóló 2001. évi XXXVII. törvény 14. § (3) bekezdése,
-- k) a Nemzeti Akkreditáló Testület szervezetéről, feladat- és hatásköréről, valamint eljárásáról szóló 2005. évi LXXVIII. törvény 4. § (4) bekezdése,
-- l) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 4. § (3) bekezdése.
-
-(2) Hatályát veszti
-
-- a) a közjegyzőkről szóló 1991. évi XLI. törvény 14. § (1) bekezdésében a „jogosultak az állami címer használatára” szövegrész,
-- b) a sportról szóló 2004. évi I. törvény 38. § (1) bekezdésében az „A MOB jogosult a Magyar Köztársaság címerének és zászlajának használatára.” szövegrész, 40. § (1) bekezdésében az „Az MPB jogosult a Magyar Köztársaság címerének és zászlajának használatára.” szövegrész,
-- c) a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 36. § (5) bekezdésében az „Az országos szervezet jogosult a Magyar Köztársaság címerének használatára.” szövegrész.
+#### 29–32. §
 
 #### 33. §
 

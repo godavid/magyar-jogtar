@@ -1085,41 +1085,19 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 #### 42. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-88. § Az illetékekről szóló 1990. évi XCIII. törvény Mellékletének XV. pont 1. cg) alpontja helyébe a következő rendelkezés lép:
-
-(Az építésügyi hatóságnál indított eljárás illetéke)
-
-„cg) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény IV. fejezete szerinti veszélyes anyagokkal foglalkozó üzemhez vagy veszélyes létesítményhez tartozó építmény építése, bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 50 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 30 000 forint, de legfeljebb 3 000 000 forint.”
+#### 88. §
 
 #### 43. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-89. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 21. § i) pontja helyébe a következő rendelkezés lép:
-
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének b) pontja szerinti adatokat jogosultak igényelni:]
-
-„i) a polgári védelmi kötelezettség érvényesítése céljából a hivatásos katasztrófavédelmi szerv és a polgármester;”
-
-(2) Az Nytv. 24. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A bíróság, az ügyészség és a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén –, valamint a nyomozó hatóságok bűnüldözési tevékenységük ellátásához, a hivatásos katasztrófavédelmi szerv a katasztrófavédelmi tervezéshez, továbbá az állampolgársági ügyekben eljáró szerv a kérelmező adatainak azonosításához e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének [17. § (2) bekezdés d) pont] igénylésére jogosultak.”
+#### 89. §
 
 #### 44. A rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-90. § A rendőrségről szóló 1994. évi XXXIV. törvény 7. § (1) bekezdésének ba) pontja helyébe a következő rendelkezés lép:
-
-[A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
-
-b) elvégzi]
-
-„ba) a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai,”
+#### 90. §
 
 #### 45. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-91. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 17. § (7) bekezdésének b) pontja helyébe a következő rendelkezés lép:
-
-[A polgármester (főpolgármester) az árvíz- és belvízvédekezéssel kapcsolatos államigazgatási feladat- és hatáskörében]
-
-„b) gondoskodik a közerők – ezen belül a polgári védelmi szervezetbe beosztottak és a közfoglalkoztatottak –, továbbá a védekezéshez szükséges anyagok, eszközök és felszerelések összeírásáról, nyilvántartásáról, szükség szerinti mozgósításáról, továbbá a közerők – ezen belül a polgári védelmi szervezetbe beosztottak és a közfoglalkoztatottak – általános ellátásáról;”
+#### 91. §
 
 #### 46. A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény módosítása
 
@@ -1127,894 +1105,214 @@ b) elvégzi]
 
 #### 47. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-93. § A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 3. §-a a következő (5) bekezdéssel egészül ki:
+#### 93. §
 
-„(5) A jogszabályban meghatározott veszélyes áruk légi szállításra történő előkészítésének, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbításának ellenőrzését a hivatásos katasztrófavédelmi szerv is végzi.”
+#### 94. §
 
-94. § Az Lt. a következő 3/F. §-sal egészül ki:
+#### 95. §
 
-„3/F. § (1) A hivatásos katasztrófavédelmi szerv a 3. § (5) bekezdésében meghatározott feladatkörében ellenőrzi:
-
-a) a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartását,
-
-b) a veszélyes áruk repülőtér területén végzett átrakását, tárolását, kivéve a légi jármű fedélzetére történő átrakást.
-
-(2) Ha a hivatásos katasztrófavédelmi szerv az ellenőrzés során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és bírságot alkalmaz.
-
-(3) Az e § alapján tett jogszerű intézkedésből eredő kárért a jogszabálysértővel szemben a hivatásos katasztrófavédelmi szerv felelősséggel nem tartozik.
-
-(4) Az (1) bekezdés szerinti ellenőrzési jogkör az állami célú légiközlekedésre nem terjed ki.”
-
-95. § Az Lt. a következő 66/B. §-sal egészül ki:
-
-„66/B. § (1) Nincs helye hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
-
-(2) A hivatásos katasztrófavédelmi szerv által kiszabott bírság kivetésével és behajtásával kapcsolatos hatósági eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
-
-(3) Ugyanazon jogszabálysértésért a légiközlekedési hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.
-
-(4) Az e törvény 3/F. §-a alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.”
-
-96. § Az Lt. 73. § (1) bekezdése a következő aa) és bb) pontokkal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„aa) a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának a hivatásos katasztrófavédelmi szerv által végzett ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a hivatásos katasztrófavédelmi szerv által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
-
-bb) a légiközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait.”
+#### 96. §
 
 #### 48. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-97. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § c) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„c) rendvédelmi szerv: a polgári nemzetbiztonsági szolgálatok, a rendőrség, a hivatásos katasztrófavédelmi szerv, valamint a büntetés-végrehajtási szervezet;”
+#### 97. §
 
 #### 49. A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény módosítása
 
-98. § A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény (a továbbiakban: Tvt.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 98. §
 
-„(2) A tűzoltás és műszaki mentés állami feladat.”
+#### 99. §
 
-99. § A Tvt. 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 100. §
 
-„(4) A hivatásos tűzoltóságok, az önkormányzati és a létesítményi tűzoltóságok a tűzvédelmi és műszaki mentési feladataik ellátása során kötelesek egymással együttműködni.”
+#### 101. §
 
-100. § A Tvt. 3. §-a helyébe a következő rendelkezés lép:
+#### 102. §
 
-„3. § A hivatásos tűzoltóság, az önkormányzati és a létesítményi tűzoltóság (a továbbiakban együtt: tűzoltóság) a tűz oltása és a műszaki mentés érdekében a személyes szabadságra, a magánlakás sérthetetlenségére és a tulajdonra vonatkozó alkotmányos jogokat – az e törvényben meghatározottak szerint – olyan mértékben korlátozhatja, amely arányban áll az élet, a testi épség és anyagi javak védelmével.”
+#### 103. §
 
-101. § (1) A Tvt. 4. §-a a következő f) ponttal egészül ki:
+#### 104. §
 
-(E törvény alkalmazásában)
+#### 105. §
 
-„f) tűzvizsgálat: a tűz keletkezési idejének, helyének és okának felderítésére irányuló hatósági tevékenység, amelynek célja olyan tűzmegelőzési, tűzoltási beavatkozási tapasztalatok megszerzése, következtetések levonása, amelyek alkalmasak a tűzmegelőzési ismeretek bővítésére és a mentési beavatkozási feltételek javítására;”
+#### 106. §
 
-(2) A Tvt. 4. § k) pontja helyébe a következő rendelkezés lép:
+#### 107. §
 
-(E törvény alkalmazásában)
+#### 108. §
 
-„k) honosított harmonizált szabvány: az európai szabványügyi szervezetek által elfogadott és az Európai Unió Hivatalos Lapjában közzétett harmonizált európai szabvány, amelyet a magyar eljárási rendnek megfelelően magyar nyelven nemzeti szabványként közzétettek;”
+#### 109. §
 
-(3) A Tvt. 4. §-a a következő n)–r) pontokkal egészül ki:
+#### 110. §
 
-(E törvény alkalmazásában)
+#### 111. §
 
-„n) hivatásos tűzoltóság: tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott, önálló működési területtel rendelkező hivatásos tűzoltóság;
+#### 112. §
 
-o) tűzoltóőrs (tűzőrség): a hivatásos tűzoltóság elsődleges tűzoltási és műszaki mentési, tűzmegelőzési feladatok elvégzésére létrehozott szervezeti egysége;
+#### 113. §
 
-p) önkormányzati tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére létrehozott, önálló működési területtel nem rendelkező önkéntes tűzoltóság;
+#### 114. §
 
-q) létesítményi tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére, gazdálkodó szervezet által létrehozott, önálló működési területtel nem rendelkező tűzoltóság;
+#### 115. §
 
-r) önkéntes tűzoltó egyesület: a székhelye szerinti településen tűzoltási műszaki mentési feladatokban közreműködő társadalmi szervezet.”
+#### 116. §
 
-102. § (1) A Tvt. 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 117. §
 
-„(4) A telefonon történő tűzjelzés lehetőségét minden településről a működési terület szerinti állandó készenléti jellegű szolgálatot ellátó hivatásos tűzoltóságot, illetve önkormányzati tűzoltóságot riasztó hírközpontba biztosítani kell. A tűzjelzés telefonon történő fogadásának biztosítása, és az ezzel kapcsolatos költségek a hírközpont fenntartóját terhelik.”
+#### 118. §
 
-(2) A Tvt. 5. § (6) és (7) bekezdései helyébe a következő rendelkezések lépnek:
+#### 119. §
 
-„(6) Az állandó készenléti jellegű szolgálatot ellátó tűzoltóságnál az ügyeleti szolgálati helyen távbeszélő és más, attól független hírközlő berendezést kell üzemeltetni. A tűz és káreset jelzésének fogadására összevont ügyelet is létesíthető.
+#### 120. §
 
-(7) A tűzjelzés és az automatikus tűzátjelzés díjtalan és más hívásokkal szemben elsőbbséget élvez.”
+#### 121. §
 
-103. § A Tvt. 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 122. §
 
-„(2) Azokat a változásokat, amelyek a településen vagy a létesítményben a tűzoltást befolyásolhatják, a kezdeményező vagy az elhárításért felelős szerv haladéktalanul köteles az állandó készenléti jellegű szolgálatot ellátó hivatásos tűzoltóságnak vagy önkormányzati tűzoltóságnak, illetve az érintett létesítményi tűzoltóságnak szóban azonnal és írásban is bejelenteni.”
+#### 123. §
 
-104. § A Tvt. 8. § (4) bekezdése a következő c) ponttal egészül ki:
+#### 124. §
 
-(Köteles a tűzoltással, műszaki mentéssel és ezek jelzésével kapcsolatosan keletkezett költségek megtérítésére az, aki)
+#### 125. §
 
-„c) gondatlansága miatt téves automatikus tűzátjelzés keletkezett.”
+#### 126. §
 
-105. § A Tvt. II. fejezetének „A TŰZMEGELŐZÉSI FELADATOK” címe helyébe a következő cím lép:
+#### 127. §
 
-„A TŰZVÉDELMI HATÓSÁGI FELADATOK”
+#### 128. §
 
-106. § A Tvt. 11. §-a helyébe a következő rendelkezés lép:
+#### 129. §
 
-„11. § A tűzvédelmi hatóság külön jogszabályban meghatározott esetekben engedélyező, tiltó és korlátozó intézkedéseket tesz, a tűzesettel kapcsolatban tűzvizsgálati eljárást folytat le és hatósági bizonyítványt ad ki, valamint a tűzvédelmi kötelezettségeiket megsértőkkel szemben tűzvédelmi bírságot szab ki.”
-
-107. § A Tvt. 12. §-a helyébe a következő rendelkezés és az azt megelőző alcím lép:
-
-„Tűzmegelőzési feladatok
-
-12. § (1) Aki
-
-a) tűzoltó készülékek karbantartása és felülvizsgálata,
-
-b) tűzoltó technika felülvizsgálata, javítása, ha a szolgáltatás végzése a hivatásos katasztrófavédelmi szerv központi szerve, területi szervei, hivatásos tűzoltóságai, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technikára vonatkozó,
-
-c) beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése, kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata,
-
-d) tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok, valamint tűzjelző és tűzoltó központok távfelügyelete,
-
-e) tűzvédelmi szakvizsgával összefüggő oktatásszervezés,
-
-f) tűzvédelmi szakvizsgáztatás
-
-tevékenységet kíván folytatni, köteles az erre irányuló szándékát a tűzvédelmi hatóságnak bejelenteni. A bejelentésben – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – meg kell jelölni a bejelentő természetes személyazonosító adatait.
-
-(2) Az (1) bekezdésben meghatározott tevékenységet csak az folytathat, aki rendelkezik a katasztrófák elleni védekezésért felelős miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
-
-(3) A tűzvédelmi hatóság az (1) bekezdés szerinti tevékenység végzésére jogosultakról nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza
-
-a) a tevékenység gyakorlására jogosult vagy képviselője telefonszámát, elektronikus levélcímét,
-
-b) a szolgáltatás megkezdésének és befejezésének időpontját, valamint
-
-c) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltókészülék-javító műhely címét.”
-
-108. § A Tvt. 13/A. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) A piacfelügyeleti eljárásokban az ügyintézési határidő hatvan nap, amely egy alkalommal további hatvan nappal meghosszabbítható.
-
-(5) A jogerősen kiszabott piacfelügyeleti bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A piacfelügyeleti bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.”
-
-109. § A Tvt. 14. §-a helyébe a következő rendelkezés és az azt megelőző alcím lép:
-
-„Tűzvizsgálati feladatok
-
-14. § (1) A tűzvizsgálati eljárás ügyintézési határideje negyvenöt nap, amely egy alkalommal további negyvenöt nappal meghosszabbítható.
-
-(2) A tűzvizsgálati eljárás során tartandó szemle a tűz keletkezési okának egyértelmű megállapítása és a bizonyítékok megsemmisülésének megelőzése érdekében haladéktalanul megtartható.
-
-(3) Amennyiben nem állapítható meg egyértelműen, hogy a tűz mely tűzoltóság területén keletkezett, vagy a tűz több megye területére is kiterjed, a tűzvizsgálat lefolytatására jogosult szervet a közös felügyeleti szerv vezetője jelöli ki.
-
-(4) A tűzvédelmi hatóság bűncselekmény gyanúja esetén értesíti az illetékes rendőri szervet, ha a bűncselekmény elkövetésével megalapozottan gyanúsítható személy katona, az illetékes katonai nyomozó hatóságot.
-
-(5) A tűzoltóság, a tűzvizsgáló vagy a rendőrség kiérkezéséig köteles biztosítani a tűzeset helyszínét, továbbá azoknak a tárgyaknak, eszközöknek az őrzését, amelyek a bűncselekmény gyanújának bizonyítékául szolgálnak.
-
-(6) A tűzoltóság felhatalmazott képviselője a rendőrség helyszínre érkezéséig jogosult a tűzeset helyszínén
-
-a) a területet lezárni,
-
-b) a veszélyeztetett területen lakókat, a lakóhelyük elhagyására kötelezni,
-
-c) az ügyfelet, tanút a helyszínen tartózkodásra kötelezni,
-
-d) a helyszínen tartózkodókat – a rendőrségről szóló törvény szabályainak megfelelő alkalmazásával – személyazonosságuk igazolására kötelezni,
-
-e) helyszíni bírságot kiszabni.”
-
-110. § A Tvt. a következő 18/A. §-sal egészül ki:
-
-„18/A. § (1) A tűzvédelmi, gazdasági és műemléki szempontból kiemelt fontosságú létesítményekre külön jogszabályban meghatározottak szerint a hivatásos tűzoltóság Tűzoltási és Műszaki Mentési Tervet (a továbbiakban: TMMT) készít.
-
-(2) A létesítmény és a hozzá tartozó terület felett a rendelkezési jogot gyakorló a tűzoltóság írásos megkeresésére a TMMT elkészítéséhez szükséges műszaki és kapcsolattartási adatokat 30 napon belül köteles a hivatásos tűzoltóság rendelkezésére bocsátani.
-
-(3) Az adatszolgáltatásra kötelezett a szöveges formátumú adatokat elektronikus úton, míg a műszaki rajzos, grafikus formátumúakat nyomtatott és elektronikus változatban kell átadnia a tűzoltóság részére.
-
-(4) Az adatokban bekövetkezett változásokat a változást követően haladéktalanul, de legkésőbb írásban 8 napon belül be kell jelenteni a hivatásos tűzoltóságnak.
-
-(5) A hivatásos tűzoltóság a részére átadott adatokat harmadik fél részére nem adhatja át, azokat a csak Tűzoltási Műszaki Mentési Tervek készítéséhez használhatja fel.”
-
-111. § A Tvt. 21. §-a helyébe a következő rendelkezés lép:
-
-„21. § (1) Minden építészeti-műszaki tervdokumentáció része a tűzvédelmi dokumentáció, amely tartalmazza törvény és annak végrehajtási rendeletében előírt tűzvédelmi követelményeknek való megfelelés dokumentálását tervekkel és műszaki leírásokkal.
-
-(2) Az építészeti-műszaki dokumentáció részét képező tűzvédelmi dokumentációt csak az a természetes személy készíthet, aki rendelkezik a névjegyzéket vezető szerv engedélyével (tűzvédelmi tervezői jogosultság). A névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
-
-(3) A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki
-
-a) büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja, vagy
-
-b) a szakterületnek megfelelő tűzvédelmi szakértő (építmények tűzvédelme, vagy építész-, vagy elektromos-, vagy gépész-, vagy vegyipari-, vagy olajipari-, vagy gázipari tűzvédelmi szakértő) jogosultsággal rendelkezik.
-
-(4) A tűzvédelmi tervezői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a tűzvédelmi tervezői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
-
-(5) A kivitelező köteles a tűzvédelmi dokumentációban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
-
-(6) A tervezőnek és a kivitelezőnek az (1) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
-
-(7) Hatósági ellenőrzés esetén a büntetlen előélet követelményének való megfelelést a tervező igazolja.
-
-(8) Az egy naptári éven belül elvégzett több hatósági ellenőrzés esetén az első hatósági ellenőrzés alkalmával a (4) bekezdésben meghatározott hatósági bizonyítvány költségét a tervező, a második és a további hatósági ellenőrzés esetén a névjegyzéket vezető szerv viseli.
-
-(9) A (4) bekezdés alapján megismert személyes adatokat a névjegyzéket vezető szerv
-
-a) a tűzvédelmi tervezői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-
-b) hatósági ellenőrzés esetén annak időtartama alatt,
-
-c) a tűzvédelmi tervezői nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
-
-kezeli.”
-
-112. § A Tvt. a következő 21/A. §-sal egészül ki:
-
-„21/A. § (1) A névjegyzéket vezető szerv a tűzvédelmi tervezőkről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben meghatározott adatokon túl – tartalmazza
-
-a) a természetes személyazonosító adatokat,
-
-b) az engedély azonosító számát,
-
-c) az elérhetőségi címet (postacím, telefon, telefaxszám, e-mail).
-
-(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl a nyilvántartásnak az (1) bekezdés b) pontjában szereplő adatai is nyilvánosak. Az (1) bekezdés c) pontjában meghatározott adatok nyilvánossága tekintetében a tűzvédelmi tervező nyilatkozata irányadó.”
-
-113. § (1) A Tvt. 24. § a) pontja helyébe a következő rendelkezés lép:
-
-(A katasztrófák elleni védekezésért felelős miniszter)
-
-„a) előkészíti a tűzvédelemre, a műszaki mentésre és a tűzoltóságra vonatkozó magasabb szintű jogszabályok, közjogi szervezetszabályozó eszközök, valamint a nemzetközi szerződések tervezeteit, és a hatáskörébe tartozó rendeletalkotás és normatív utasítás kiadása útján, az érdekelt miniszterekkel egyetértésben szabályozza a tűzvédelmet és a műszaki mentést,”
-
-(2) A Tvt. 24. § c) pontja helyébe a következő rendelkezés lép:
-
-(A katasztrófák elleni védekezésért felelős miniszter)
-
-„c) a hivatásos katasztrófavédelmi szerv központi szerve vezetőjének javaslatára dönt a hivatásos tűzoltóság létrehozásáról és megszüntetéséről,”
-
-(3) A Tvt. 24. § f) pontja helyébe a következő rendelkezés lép:
-
-(A katasztrófák elleni védekezésért felelős miniszter)
-
-„f) gyakorolja a hivatásos tűzoltóság, valamint a tűzoltó szakiskolák hivatásos állományú tagjainak szolgálati viszonyával kapcsolatban, illetve társadalombiztosítási ellátásáról szóló jogszabályok alkalmazása során a feladatkörrel rendelkező minisztert megillető jogokat;”
-
-114. § A Tvt. 24/A. §-a helyébe a következő rendelkezés lép:
-
-„24/A. § A hivatásos katasztrófavédelmi szerv központi szerve vezetője
-
-a) irányítja a hivatásos tűzoltóság tevékenységét,
-
-b) közvetlen utasítással irányítja a tűzoltóság egységeinek a tűzoltási és műszaki mentési feladatokban történő részvételét, az ezzel kapcsolatos felkészítést, jelentéstételt, működési területük elhagyását, továbbá rendkívüli készenléti szolgálatuk elrendelését,
-
-c) kezdeményezi a hivatásos tűzoltóság létrehozását, megszüntetését,
-
-d) kinevezi és felmenti a tűzoltó parancsnokot, gyakorolja a vele kapcsolatos – jogszabályban meghatározott – munkáltatói jogköröket,
-
-e) kiadja a tűzoltóságok Szerelési Szabályzatát, a rendkívüli állapotban alkalmazandó Tűzoltási és Műszaki Mentési Szabályzatát, a tűzoltóság tűzoltási és műszaki mentési tevékenységének részletes szabályait, a hivatásos tűzoltóságok működési területét, a hivatásos tűzoltóságok készenlétben tartandó legkisebb gépjármű és technikai eszközállományát és műszaki megfelelőségük ellenőrzésének rendjét, a hivatásos tűzoltóságok létszámát és szervezési kategóriába sorolását, és a tűzoltósport versenyszabályzatát,
-
-f) koordinálja és ellenőrzi az önkormányzati tűzoltóságok költségvetés tervezésével kapcsolatos feladatait,
-
-g) folyamatosan ellenőrzi az önkormányzati tűzoltóságok és az önkéntes tűzoltó egyesületek költségvetési és egyéb forrásból származó pénzeszközei felhasználását,
-
-h) a hivatásos katasztrófavédelmi szerv területi szerve útján ellenőrzi az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a tűzoltási és műszaki mentési feladatokat ellátó önkéntes tűzoltó egyesület tevékenységét.”
-
-115. § A Tvt. 28. §-a helyébe a következő rendelkezés lép:
-
-„28. § (1) A települési önkormányzat képviselő-testülete
-
-a) hozzájárulhat a hivatásos tűzoltóság, valamint hozzájárul – amennyiben területén működik – az önkormányzati tűzoltóság és az önkéntes tűzoltó egyesület fenntartásához,
-
-b) önkormányzati tűzoltóság, önkéntes tűzoltó egyesület alapításában vehet részt,
-
-c) gondoskodik az önkormányzati tűzoltóság fenntartásáról, működtetéséről és fejlesztéséről,
-
-d) közreműködik a tűzoltási és műszaki mentési feladatok ellátásában közreműködő önkéntes tűzoltó egyesület fenntartásában, működtetésében és fejlesztésében,
-
-e) hozzájárulhat más tűzoltóság létesítéséhez, fenntartásához, fejlesztéséhez.
-
-(2) Az önkormányzati tűzoltósággal rendelkező települési önkormányzat képviselő-testülete
-
-a) elrendelheti az irányítása alá tartozó tűzoltóság rendkívüli készenléti szolgálatát,
-
-b) beszámoltatja az önkormányzati tűzoltóparancsnokot.
-
-(3) Az önkormányzati tűzoltósággal rendelkező települési önkormányzat képviselő-testülete a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett megszüntetheti az önkormányzati tűzoltóságot. A minisztert a döntésről legalább fél évvel a megszüntetés tervezett időpontja előtt kell értesíteni.”
-
-116. § A Tvt. 30. §-a és a megelőző alcím helyébe a következő rendelkezés és alcím lép:
-
-„A hivatásos tűzoltóság
-
-30. § (1) A hivatásos tűzoltóság a hivatásos katasztrófavédelmi szerv helyi szerve.
-
-(2) Hivatásos tűzoltóságot a hivatásos katasztrófavédelmi szerv központi szerve vezetőjének javaslatára a katasztrófák elleni védekezésért felelős miniszter alapíthat.
-
-(3) A hivatásos tűzoltóság vezetőjének kinevezését megelőzően a kinevezési jogkör gyakorlója kikéri a működési területen működő települési – Budapesten a fővárosi kerületi – önkormányzatok képviselő-testületének a véleményét. A szükségessé váló felmentésről az érintett önkormányzatokat – az érintettel történő közléssel egyidejűleg – tájékoztatni kell.
-
-(4) Ha a települési önkormányzatok többsége, illetve a fővárosi önkormányzat a kinevezéssel szemben foglal állást, és a kinevezési jogkör gyakorlója nem állít újabb jelöltet, döntése szakmai indokairól az érintett önkormányzatokat állásfoglalásban tájékoztatja.
-
-(5) A tűzoltó parancsnok vagy kijelölt helyettese évente beszámol a hivatásos tűzoltóság működési területén működő települési önkormányzat képviselő-testületének a település tűzvédelmi helyzetéről, a tűzvédelem érdekében tett intézkedésekről és az azzal kapcsolatos feladatokról.
-
-(6) Ha a beszámolót a települési önkormányzatok többsége, illetve a fővárosi önkormányzat nem fogadja el, három hónapon belül újabb beszámolót kell tartani. Ismételt elutasítás esetén a települési önkormányzatok többsége a hivatásos katasztrófavédelmi szerv területi szerve vezetőjéhez, a fővárosi önkormányzat közgyűlése a hivatásos katasztrófavédelmi szerv központi szerve vezetőjéhez fordulhat. A hivatásos katasztrófavédelmi szerv területi szerve, illetve a hivatásos katasztrófavédelmi szerv központi szerve vezetője köteles az önkormányzatok által meghatározott kérdésekre is kiterjedő átfogó vizsgálatot tartani, ennek keretében a tűzoltó parancsnok felelősségét, illetve alkalmasságát megvizsgálni. A vizsgálat eredményéről az önkormányzatokat tájékoztatni kell. A hivatásos katasztrófavédelmi szerv területi szerve, illetve a hivatásos katasztrófavédelmi szerv központi szerve vezetője köteles a tűzvédelmi feladatok ellátása érdekében a vizsgálat szerint szükséges szolgálatszervezési, szervezeti, személyi és belső irányítási intézkedéseket megtenni.”
-
-117. § A Tvt. 31. §-a helyébe a következő rendelkezés lép:
-
-„31. § A hivatásos tűzoltóság
-
-a) tűzoltási és műszaki mentési tevékenységet végez, és közreműködik közvetlen tűz- és robbanásveszély esetén a biztonsági intézkedések végrehajtásában, ennek érdekében állandó készenléti jellegű szolgálatot tart,
-
-b) a Kormány által rendeletben meghatározott tűzvédelmi hatósági feladatokat lát el,
-
-c) székhelyén az önkormányzat kérésére közreműködik egyes, speciális felkészültséget vagy eszközöket igénylő a középületek biztonságos üzemeltetését szolgáló feladatok ellátásában,
-
-d) ellenőrzi az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a tűzoltási és műszaki mentési feladatokat ellátó önkéntes tűzoltó egyesület tevékenységét.”
-
-118. § A Tvt. 33. §-a és a megelőző alcím helyébe a következő rendelkezés és alcím lép:
-
-„Az önkéntes tűzoltó egyesület
-
-33. § (1) Az önkéntes tűzoltó egyesület a településen a tűzmegelőzési, valamint a tűzoltási és műszaki mentési feladatok ellátásában közreműködő társadalmi szervezet, amely alapszabályában ezt tevékenysége céljaként rögzítette.
-
-(2) Az önkéntes tűzoltó egyesület tűzmegelőzési, tűzoltási és műszaki mentési tevékenységben való közreműködésére (a továbbiakban: szaktevékenység) e törvényt kell alkalmazni.
-
-(3) Az önkéntes tűzoltó egyesület szaktevékenysége során a tűzmegelőzés körében tájékoztathatja a lakosságot az időszerű tűzvédelmi feladatokról, a lakosság részére tűzvédelemmel kapcsolatos más információs tevékenységet végezhet.
-
-(4) Az önkéntes tűzoltó egyesület szaktevékenysége során a tűzoltási és műszaki mentési tevékenység körében
-
-a) az általa észlelt segélykérést továbbítja a hivatásos tűzoltósághoz vagy az önkormányzati tűzoltósághoz,
-
-b) a hivatásos tűzoltóság vagy önkormányzati tűzoltóság helyszínre érkezéséig minden tőle elvárhatót megtesz a tűz továbbterjedésének megakadályozására, a tűz oltására, a sérült vagy egyébként veszélyben lévő személyek részére történő segítségnyújtásra, a balesetek megelőzésére,
-
-c) az eseményt észlelőket a helyszínen maradásra, a helyszínen tartózkodókat az általános segítségnyújtási kötelezettség körében a segítségnyújtásban való közreműködésre kérheti fel,
-
-d) a hivatásos tűzoltóság vagy önkormányzati tűzoltóság helyszínre érkezését követően a tűz oltásában, illetve a műszaki mentésben a tűzoltásvezető intézkedésének megfelelően működik közre.
-
-(5) A hivatásos katasztrófavédelmi szerv területi szerve és a hivatásos tűzoltóság ellenőrzi az önkéntes tűzoltó egyesület szakmai tevékenységét. Ha az ellenőrzés során hiányosságot tapasztal, az önkéntes tűzoltó egyesületet a hiányosságok pótlására hívja fel.”
-
-119. § A Tvt. a következő 33/A–33/G. §-okkal egészül ki:
-
-„33/A. (1) Szaktevékenységet az önkéntes tűzoltó egyesületnek csak olyan nagykorú, cselekvőképes, külön jogszabályban meghatározott szakmai képesítéssel rendelkező tagja végezhet, aki életkoránál, egészségi, fizikai állapotánál fogva alkalmas és erre önként vállalt kötelezettséget.
-
-(2) A szaktevékenység végzésére vonatkozó kötelezettségvállalást teljes bizonyító erejű magánokiratba kell foglalni, és azt az önkéntes tűzoltó egyesület szaktevékenységet irányító tagjának át kell adni, aki azt visszavonásig őrzi. A kötelezettségvállalást tartalmazó nyilatkozat bármikor, határidő nélkül visszavonható.
-
-33/B. § (1) Az önkéntes tűzoltó egyesület tagjának a szaktevékenység végzésével kapcsolatos elmaradt jövedelmének és költségeinek megtérítésére az önkéntes tűzoltó egyesület alapszabálya az irányadó.
-
-(2) Az önkéntes tűzoltó egyesület tagja szaktevékenysége teljesítése során keletkezett kárának megtérítésére a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) e törvényben foglalt eltérésekkel irányadó.
-
-33/C. § Az önkéntes tűzoltó egyesületnek a szaktevékenységet végző tagja mentesíthető részben vagy teljesen a helyi adó megfizetése alól.
-
-33/D. § Az önkéntes tűzoltó egyesület szaktevékenységet irányító tagjaként azt lehet kijelölni, aki a külön jogszabályban előírt képesítéssel rendelkezik.
-
-33/E. § (1) Az önkéntes tűzoltó egyesület a szaktevékenység végzésére írásban megállapodást köt a hivatásos tűzoltósággal.
-
-(2) Az együttműködési megállapodás megkötésének feltétele, hogy
-
-a) az önkéntes tűzoltó egyesület szaktevékenységet irányító tagja a külön jogszabályban előírt képesítéssel rendelkezik, és
-
-b) az egyesület működése egyébként megfelel az e törvényben meghatározott feltételeknek.
-
-(3) Együttműködési megállapodás határozatlan időre köthető, és azt az önkéntes tűzoltó egyesület az együttműködési megállapodásban meghatározott határidővel írásban indokolás nélkül felmondhatja.
-
-(4) A hivatásos tűzoltóság az együttműködési megállapodást írásban, azonnali hatállyal csak akkor mondhatja fel, ha
-
-a) az együttműködési megállapodás megkötésének bármely feltétele a továbbiakban már nem áll fenn,
-
-b) az önkéntes tűzoltó egyesület a jogszabályokban foglalt előírásokat ismételten vagy súlyosan megsérti.
-
-(5) Az együttműködési megállapodást bármely fél megfelelő indokolással, írásban, azonnali hatállyal felmondhatja, ha a másik fél az együttműködési megállapodásból folyó kötelezettségeit ismételten vagy súlyosan megszegi.
-
-(6) A hivatásos tűzoltóság és az önkéntes tűzoltó egyesület közötti együttműködési megállapodás megkötését, annak megszüntetését a hivatásos tűzoltóság székhelye szerint illetékes hivatásos katasztrófavédelmi szerv területi szervének kell jelenteni.
-
-(7) Az együttműködési megállapodásra egyebekben a Ptk. az irányadó.
-
-33/F. § (1) Az együttműködési megállapodásban rögzíteni kell
-
-a) az önkéntes tűzoltó egyesületnek a szaktevékenység ellátására vonatkozó kötelezettségvállalását, különösen az annak érdekében vállalt szolgálati rendjét, értesíthetőségének módját, szakmai igénybevehetőségének körét, és azt, hogy az önkéntes tűzoltó egyesület a szaktevékenységet milyen földrajzi területen látja el (a továbbiakban: tevékenységi terület),
-
-b) tűzoltóság részéről az önkéntes tűzoltó egyesület szaktevékenysége ellátásának elősegítésére vonatkozó kötelezettségvállalást, így különösen a szakmai továbbképzés, gyakorlat szervezését az önkéntes tűzoltó egyesület részére, az időszerű tűzvédelmi feladatokra vonatkozó, az önkéntes tűzoltó egyesület tűzmegelőzési tevékenységéhez, a lakosság tájékoztatásához szükséges adatoknak az önkéntes tűzoltó egyesület rendelkezésre bocsátásának rendjét,
-
-c) az önkéntes tűzoltó egyesületet tevékenységi területén keletkezett tűzesetről, műszaki mentésről, katasztrófáról való kölcsönös értesítés rendjét.
-
-(2) Az önkéntes tűzoltó egyesület a megállapodásban vállalhatja, hogy kivételes esetben – a hivatásos tűzoltóság kérésére – tevékenységi területén kívül is végez szaktevékenységet.
-
-(3) Az önkéntes tűzoltó egyesület a szaktevékenység ellátásáért díjazást nem köthet ki.
-
-(4) A hivatásos tűzoltóság a vele megállapodást kötő tűzoltó egyesületnek támogatást nyújthat.
-
-33/G. § Az önkéntes tűzoltó egyesület a működés, a fenntartás, valamint a létesítés, a fejlesztés és felújítás költségeihez pályázatot nyújthat be a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztériumhoz.”
-
-120. § A Tvt. 34. §-a helyébe a következő rendelkezés és a megelőző alcím lép:
-
-„Az önkormányzati tűzoltóság
-
-34. § (1) Az önkormányzati tűzoltóság a települési önkormányzat vagy az önkormányzati társulás és az önkéntes tűzoltó egyesület által közösen vagy a települési önkormányzat vagy az önkormányzati társulás által önállóan alapított köztestület, amely a települési önkormányzat vagy az önkormányzati társulás közigazgatási területén, a hivatásos tűzoltósággal kötött együttműködési megállapodás alapján és annak szakmai iránymutatása alapján tűzoltási és műszaki mentési célokra folyamatosan igénybe vehető készenléti szolgálatot lát el és közreműködik közvetlen tűz- és robbanásveszély esetén a biztonsági intézkedések végrehajtásában. Az önkormányzati tűzoltóság kérheti közhasznúsági nyilvántartásba vételét.
-
-(2) Az önkormányzati tűzoltóság parancsnokát a hivatásos katasztrófavédelmi szerv területi szerve vezetője egyetértésével a köztestület nevezi ki.
-
-(3) Az önkormányzati tűzoltóság székhelye szerinti települési önkormányzat részére a hivatásos katasztrófavédelmi szerv központi szerve költségvetéséből erre a célra biztosított költségkeret mértékéig az általuk végzett feladattal arányos költségfedezetet biztosítja.”
-
-121. § A Tvt. 35. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A létesítményi tűzoltóság a gazdálkodó szervezet tevékenységével összefüggő tűzoltási és más műszaki mentési feladatok elsődleges ellátására létrehozott és fenntartott szervezet. A létesítményi tűzoltóságot több gazdálkodó szervezet közösen is létrehozhatja és fenntarthatja.”
-
-122. § A Tvt. 36. §-a és a megelőző alcím helyébe a következő rendelkezés és alcím lép:
-
-„Az önkormányzati és a létesítményi tűzoltóságra vonatkozó közös rendelkezések
-
-36. § (1) Az önkormányzati, vagy a létesítményi tűzoltóság feladatainak ellátására a 35. § (1) bekezdés szerint létesítésre kötelezettek megállapodást köthetnek egymással, illetve a települési önkormányzattal.
-
-(2) Az önkormányzati és a létesítményi tűzoltóság létrehozását és megszüntetését, továbbá a tűzoltói feladatok ellátására kötött megállapodást a működési terület szerinti hivatásos tűzoltóságnak be kell jelenteni.
-
-(3) Az önkormányzati és a létesítményi tűzoltóság esetében a hivatásos katasztrófavédelmi szerv területi szerve és a hivatásos tűzoltóság ellenőrzi a tűz elleni védekezési, műszaki mentési tevékenység végrehajtását, az ehhez szükséges személyi, és technikai feltételek meglétét, a tűz elleni védekezési, műszaki mentési feladatokra való felkészültség és felkészülés helyzetét.
-
-(4) Ha a hivatásos katasztrófavédelmi szerv területi szerve és a hivatásos tűzoltóság a (3) bekezdésben meghatározott ellenőrzés során hiányosságot tár fel, a mulasztót annak pótlására hívja fel.
-
-(5) Ha az önkormányzati tűzoltóság a hiányosság pótlása iránt nem, vagy nem megfelelően intézkedik, a hivatásos katasztrófavédelmi szerv központi szerve a 34. § (3) bekezdése szerinti költségfedezetet a hiányosságból eredő feladatellátási-képesség csökkenésével arányos módon csökkenti.”
-
-123. § A Tvt. 37. §-a helyébe a következő rendelkezés lép:
-
-„37. § (1) Az önkormányzati és a létesítményi tűzoltóknak a tűzoltás, műszaki mentés, az ezekre való felkészítés és a rendkívüli készenléti szolgálat időtartamára a munkahelyén történt munkavégzési kötelezettség alóli felmentés miatt kiesett jövedelmét az igénybe vevő téríti meg.
-
-(2) Az (1) bekezdésben meghatározott feladat ellátására igénybe vett önkormányzati és létesítményi tűzoltó élelmezéséről és elszállásolásáról, valamint a felmerült szükségszerű és indokolt költségeinek megtérítéséről az igénybe vevő köteles gondoskodni.
-
-(3) Az önkormányzati önkéntes és a létesítményi tűzoltó kiesett jövedelme, illetve az általa elszenvedett kár megtérítésére, illetve kártalanítására, ha az igénybevétel
-
-a) a székhely szerinti vagy az alapító önkormányzati társulás településeinek közigazgatási határain belül történt, akkor a székhely szerinti települési önkormányzat, illetve a létesítmény fenntartója,
-
-b) az a) pontban meghatározott területen kívül történt, akkor külön jogszabályban meghatározott módon a hivatásos katasztrófavédelmi szerv központi szerve
-
-köteles, amennyiben azok más jogviszonyból nem térülnek meg.”
-
-124. § A Tvt. 38. §-a helyébe a következő rendelkezés lép:
-
-„38. § A készenlétet ellátó önkormányzati és létesítményi tűzoltó mentesíthető részben vagy teljesen a helyi adó megfizetése alól.”
-
-125. § A Tvt. 39. §-a helyébe a következő rendelkezés lép:
-
-„39. § (1) Az önkormányzati és a létesítményi tűzoltó, valamint az önkéntes tűzoltó egyesület tagja a ruházati és öltözködési szabályzatnak megfelelő egyenruha viselésére jogosult.
-
-(2) A viselt egyenruha a Magyar Honvédség, a rendvédelmi szervek vagy más hatóság tagjainak egyenruhájához való hasonlósága miatt megtévesztésre nem lehet alkalmas.
-
-(3) Az önkormányzati és a létesítményi tűzoltó, valamint az önkéntes tűzoltó egyesület tagja a hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rangjelzést nem használhat, illetve gépjárművön csak az önkormányzati, illetve létesítményi tűzoltóság feliratot helyezheti el, az önkéntes vagy létesítményi tűzoltóság bejegyzett elnevezésével.
-
-(4) Az önkormányzati, a létesítményi tűzoltó és az önkéntes tűzoltó egyesület tagja részére – a képesítési követelmények megszerzését követően – a hivatásos katasztrófavédelmi szerv központi szerve egységes igazolványt ad ki.
-
-(5) Az igazolvány adattartalma:
-
-a) az önkormányzati, létesítményi tűzoltóság, az önkéntes tűzoltó egyesület megnevezése,
-
-b) a tűzoltó, az önkéntes tűzoltó egyesület tagja arcfényképe,
-
-c) a tűzoltó, az önkéntes tűzoltó egyesület tagja neve,
-
-d) az igazolvány érvényességi ideje.
-
-(6) Az (5) bekezdésében meghatározott igazolványt a hivatásos katasztrófavédelmi szerv központi szerve a (7) bekezdés alapján vezetett nyilvántartás alapján állítja ki. Az igazolványt a hivatásos katasztrófavédelmi szerv központi szerve az érvényességi idő lejártakor visszavonja vagy megújítja.
-
-(7) A hivatásos katasztrófavédelmi szerv központi szerve az önkormányzati, a létesítményi tűzoltó és az önkéntes tűzoltó egyesület tagja nyilvántartási számmal történő azonosítása, az önkormányzati, létesítményi tűzoltóság és az önkéntes tűzoltó egyesület tevékenysége jogszabályoknak megfelelő működése ellenőrzése érdekében az önkormányzati, létesítményi tűzoltók és az önkéntes tűzoltó egyesület tagjáról vezetett nyilvántartásban (a továbbiakban: nyilvántartás) rögzíti:
-
-a) az önkormányzati, létesítményi tűzoltó, az önkéntes tűzoltó egyesület tagja családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja nevét, lakcímét, értesítési címét,
-
-b) a képesítési követelményeknek való megfelelést igazoló okmány számát, a képző intézmény megnevezését, a kiállítás időpontját,
-
-c) az önkormányzati, létesítményi tűzoltó, az önkéntes tűzoltó egyesület tagja nyilvántartásba történő felvételének napját,
-
-d) annak az önkormányzati, létesítményi tűzoltóságnak, önkéntes tűzoltó egyesületnek a bejegyzett elnevezését és székhelyét, amelynek tagja,
-
-e) az önkormányzati, létesítményi tűzoltó, az önkéntes tűzoltó egyesület tagja igazolványának számát, kiállításának keltét,
-
-f) az igazolvány cseréje, pótlása tényét, illetve ezek megtagadásának tényét,
-
-g) az igazolvány visszavonásának és érvénytelenségének tényét, a törlés időpontját és okát,
-
-h) az önkormányzati, létesítményi tűzoltó alkalmazása és az önkéntes tűzoltó egyesület tagja tagsága megszűnésének tényét és időpontját.
-
-(8) A (7) bekezdés szerinti adatokat és az azokban bekövetkezett változásokat az önkormányzati, létesítményi tűzoltóság vezetője, az önkéntes tűzoltó egyesület vezetője 15 napon belül szolgáltatja.
-
-(9) A hivatásos katasztrófavédelmi szerv központi szerve a nyilvántartásába kizárólag az e törvényben meghatározott esetben jogosult adatokat bejegyezni, valamint a nyilvántartásból adatot törölni.
-
-(10) A nyilvántartásból – jogszabályban meghatározott módon – a (7) bekezdésben meghatározott célra a hivatásos katasztrófavédelmi szerv számára szolgáltatható adat.
-
-(11) Az önkormányzati, létesítményi tűzoltói tevékenység, az önkéntes tűzoltó egyesületi tagság megszűnése, és az önkormányzati, létesítményi tűzoltó, az önkéntes tűzoltó egyesület tagjának halála esetén adatainak a nyilvántartásban történő kezelését meg kell szüntetni. Az adatokat a nyilvántartásban történő kezelés megszüntetésétől számított legfeljebb 5 évig a hivatásos katasztrófavédelmi szerv központi szerve az önkormányzati, létesítményi tűzoltó, az önkéntes tűzoltó egyesület tagja tevékenysége későbbi ellenőrzése céljából tovább tárolhatja.”
-
-126. § A Tvt. 40. §-a helyébe a következő rendelkezés lép:
-
-„40. § A rendvédelmi szervek kártérítési felelősségéről rendelkező jogszabályokat az önkormányzati és a létesítményi tűzoltókra is alkalmazni kell. Az ennek alapján járó összeget az igénybe vevő fizeti meg.”
-
-127. § A Tvt. 41. §-a helyébe a következő rendelkezés lép:
-
-„41. § (1) A hivatásos tűzoltóság létesítésének, működésének, fenntartásának, fejlesztésének költségeit a központi költségvetés a hivatásos katasztrófavédelmi szerv központi szerve költségvetésén keresztül biztosítja.
-
-(2) A központi költségvetésből történő támogatás mértékének meghatározása során a hivatásos katasztrófavédelmi szerv központi szerve által meghatározott, és a katasztrófák elleni védekezésért felelős miniszter által jóváhagyott állománytáblázatban és gépjárműállomány-táblázatban rögzítetteket kell alapul venni.
-
-(3) A hivatásos tűzoltóság és az önkormányzati tűzoltóság fenntartásával és működésével kapcsolatos rendkívüli kiadások fedezetét a hivatásos katasztrófavédelmi szerv központi szerve költségvetésében kell biztosítani. Ebből kell gondoskodni a működési területen kívüli vonulások költségeiről. A szolgálati feladatok ellátása során súlyos munkabalesetet szenvedett tűzoltók kártérítésére szolgáló fedezetet a munkáltató köteles biztosítani.
-
-(4) A tűzoltóság fenntartója a tűzoltóság készenléti szolgálatot, és a tűzoltás irányítását ellátó tagjai részére szolgálati tevékenységükre vonatkozóan köteles élet- és balesetbiztosítást kötni.
-
-(5) Az önkormányzati tűzoltóságok létesítésével, fejlesztésével, fenntartásával és működésével kapcsolatos költségek fedezetéről a székhely szerinti települési önkormányzat, és az önkormányzati tűzoltóság által védett települések önkormányzatai, valamint az általuk végzett feladattal arányosan a hivatásos katasztrófavédelmi szerv központi szervén keresztül a központi költségvetés gondoskodik.
-
-(6) A hivatásos katasztrófavédelmi szerv, valamint az önkormányzati tűzoltóság tagjai, továbbá az önkéntes tűzoltó egyesületek szaktevékenységet irányító tagja a külön jogszabályban előírt képesítés megszerzésére kötelezett.
-
-(7) A képzés költségeit – a külön jogszabályban meghatározott kivételekkel – a küldő szerv vagy a hallgató viseli.”
-
-128. § A Tvt. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A biztosító köteles a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 1. számú melléklete „A” részének 3–5., 6. a) és 7–11. pontjaiban, valamint a „B” részének b), d)–e) alpontjaiban meghatározott biztosítási ágazatokból befolyt biztosítási díjak 1,5%-át hozzájárulás címén – a hivatásos tűzoltóságok és az önkormányzati tűzoltóságok részére a laktanya-építési beruházáshoz, felújításhoz, a tűzoltáshoz és műszaki mentéshez, valamint a katasztrófák elleni védekezésért felelős miniszter által felügyelt tűzjelzési és monitoring lakossági riasztó-tájékoztató eszközök létesítésére, üzemeltetésére, fejlesztésére és az általa alapított, a szakágazat képzési feladatait ellátó oktatási intézmény létesítésére, valamint tűzoltó célú szakképzéséhez szükséges technikai eszközök, felszerelések fejlesztésének, felújításának céljára – a központi költségvetésbe befizetni. A hozzájárulás alapjának meghatározása során csak azokból a biztosítási szerződésekből befolyt díjakat kell figyelembe venni, ahol a kötelezettségvállalás tagállama Magyarország, ideértve azt az esetet is, ha a kockázatviselés helye egy másik tagállam.”
-
-129. § (1) A Tvt. 47. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:)
-
-„e) az önkormányzati tűzoltóság létesítésének, működésének feltételeit, feladatát;”
-
-(2) A Tvt. 47. § (1) bekezdése a következő i) és j) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:)
-
-„i) a tűzvédelmi tervezői tevékenység folytatásának részletes feltételeit, a névjegyzék személyes adatot nem tartalmazó adattartalmát, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
-
-j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásának részletes szabályait.”
-
-(3) A Tvt. 47. § (2) bekezdés 11. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben határozza meg:)
-
-„11. a tűzoltóság tűzoltási és műszaki mentési tevékenységének általános szabályait, a TMMT készítésével érintett létesítmények kiválasztására vonatkozó szabályokat, a TMMT tartalmi követelményeit.”
-
-(4) A Tvt. 47. § (2) bekezdése a következő 25. ponttal egészül ki:
-
-(Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben határozza meg:)
-
-„25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat.”
-
-(5) A Tvt. 47. § (6) bekezdése a következő d) ponttal egészül ki:
-
-(Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy)
-
-„d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatás szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel”
-
-(egyetértésben rendeletben állapítsa meg.)
-
-130. § Hatályát veszti a Tvt. 13. § (6) és (7) bekezdése, a 25. §-át megelőző alcím, a 44. § (3) bekezdése, a 46. § (3) és (4) bekezdése, 47. § (2) bekezdésének 7., 8., 18., 20., 21. és 22. pontja.
+#### 130. §
 
 #### 50. A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosítása
 
-131. § A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 131. §
 
-„(1) E törvény hatálya a rendvédelmi szervek (a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet), valamint a Nemzeti Adó- és Vámhivatal és a polgári nemzetbiztonsági szolgálatok (e törvény alkalmazásában a továbbiakban együtt: fegyveres szervek) hivatásos állományú tagjainak szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és társadalombiztosítási ellátására terjed ki.”
+#### 132. §
 
-132. § A Hszt. 2. § e) pontja helyébe a következő rendelkezés lép:
+#### 133. §
 
-(E törvény alkalmazásában:)
+#### 134. §
 
-„e) országos parancsnok: a rendőrség központi szervének vezetője, a hivatásos katasztrófavédelmi szerv központi szerve vezetője, a büntetés-végrehajtás országos parancsnoka, valamint a nemzetbiztonsági szolgálatok főigazgatói;”
+#### 135. §
 
-133. § A Hszt. 18. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+#### 136. §
 
-„(2) A hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, valamint a büntetés-végrehajtási szervezet hivatásos állományának tagja pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti és az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat.
+#### 137. §
 
-(3) A szolgálati helyen és szolgálati feladat teljesítése közben a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, valamint a büntetés-végrehajtási szervezet hivatásos állományának tagja politikai tevékenységet nem folytathat.”
+#### 138. §
 
-134. § A Hszt. 23. §-a helyébe a következő rendelkezés lép:
+#### 139. §
 
-„23. § A hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, valamint a büntetés-végrehajtási szervezet hivatásos állományának tagja haladéktalanul köteles az állományilletékes parancsnoknak bejelenteni az országgyűlési képviselői, az európai parlamenti, a főpolgármesteri, polgármesteri, a helyi és kisebbségi önkormányzati képviselői választáson jelöltként történt nyilvántartásba vételét, a jelöltségtől való visszalépését, a tisztségbe történt megválasztását, illetve annak elmaradását.”
+#### 140. §
 
-135. § A Hszt. 49. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 141. §
 
-„(1) A hivatásos állomány tagja a szolgálat érdekében eredeti szolgálati beosztásában való meghagyása mellett a fegyveres szerv bármely szervezeti egységéhez és bármely helységbe – a (4) bekezdésben meghatározott esetet kivéve beleegyezése nélkül – meghatározott szolgálati feladat teljesítésére vezényelhető.”
+#### 142. §
 
-136. § A Hszt. 51. § (1) bekezdésének első mondata helyébe a következő rendelkezés lép:
+#### 143. §
 
-„(1) Szünetel a szolgálati viszonya a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, valamint a büntetés-végrehajtási szervezet hivatásos állománya olyan tagjának, akit az országgyűlési képviselői, európai parlamenti képviselői, illetve a főpolgármesteri, polgármesteri választáson jelöltként nyilvántartásba vettek.”
+#### 144. §
 
-137. § A Hszt. 56. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+#### 145. §
 
-(A hivatásos állomány tagjának a szolgálati viszonya – az (5) bekezdésben foglalt korlátozás figyelembevételével – felmentéssel akkor szüntethető meg, ha)
+#### 146. §
 
-„a) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szerv vezetője, az országos parancsnok döntése alapján a fegyveres szervnél létszámcsökkentést kell végrehajtani, és emiatt további szolgálatára nincs lehetőség;”
+#### 147. §
 
-138. § A Hszt. 180. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 148. §
 
-„(3) A balesetnek, betegségnek a szolgálati kötelmekkel való összefüggéséről a miniszter által kijelölt szerv indokolt határozatban dönt (minősítő határozat).”
+#### 149. §
 
-139. § A Hszt. XIX/A. fejezetének címe helyébe a következő cím lép:
-
-„A RENDŐRSÉG, A HIVATÁSOS KATASZTRÓFAVÉDELMI SZERV, A POLGÁRI NEMZETBIZTONSÁGI SZOLGÁLATOK, A BÜNTETÉS-VÉGREHAJTÁSI SZERVEZET, A NEMZETI ADÓ- ÉS VÁMHIVATAL HIVATÁSOS ÁLLOMÁNYÁRA VONATKOZÓ KÖZÖS SZABÁLYOK”
-
-140. § A Hszt. 245/A. §-a helyébe a következő rendelkezés lép:
-
-„245/A. § A rendőrség, a hivatásos katasztrófavédelmi szerv, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományára a törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.”
-
-141. § A Hszt. XX. fejezetének címe helyébe a következő cím lép:
-
-„A RENDŐRSÉG ÉS A HIVATÁSOS KATASZTRÓFAVÉDELMI SZERV HIVATÁSOS ÁLLOMÁNYÁRA VONATKOZÓ SZABÁLYOK”
-
-142. § A Hszt. 246. §-a helyébe a következő rendelkezés lép:
-
-„246. § A rendőrség és a hivatásos katasztrófavédelmi szerv hivatásos állományára e törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.”
-
-143. § A Hszt. 247. § (1) bekezdésének f) és g) pontjai helyébe a következő rendelkezések lépnek:
-
-(A fejezet hatálya alá tartozó fegyveres szerveknél az állományilletékes parancsnok:)
-
-„f) a hivatásos katasztrófavédelmi szerv területi szerve vezetője, és a vele azonos jogállású szervek vezetői,
-
-g) tűzoltó parancsnok,”
-
-144. § A Hszt. 265. §-át megelőző alcím helyébe a következő alcím lép:
-
-„A hivatásos katasztrófavédelmi szerv hivatásos állományára vonatkozó szabályok”
-
-145. § A Hszt. 265. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A hivatásos katasztrófavédelmi szerv hivatásos állományú tagjai szolgálatot teljesíthetnek a 42. § (2) bekezdésén kívül a megyei (fővárosi) és települési önkormányzatoknál, valamint a védelmi bizottságoknál.”
-
-146. § A Hszt. 270. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A hivatásos katasztrófavédelmi szervnél szerződéses szolgálati viszony hivatásos szolgálati – kivéve vezetői – beosztások ellátására létesíthető. Tiszthelyettesi beosztások esetében szerződéses szolgálati viszony általános iskolai és legalább szakiskolai végzettséggel rendelkező jelentkezővel is létesíthető.”
-
-147. § A Hszt. 274. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Ha a fegyelemsértést több hivatásos tűzoltóság hivatásos állományába tartozók együttesen követték el, a fegyelmi vizsgálat lefolytatásáról az a tűzoltó parancsnok intézkedik, akinek a működési területén a fegyelemsértést elkövették. Az érdemi döntést az eljáró parancsnok javaslatának figyelembevételével az állományilletékes tűzoltó parancsnokok hozzák meg.”
-
-148. § A Hszt. 93. § (6) bekezdésében a „polgári védelemnél, állami és hivatásos önkormányzati tűzoltóságnál” szövegrész helyébe a „hivatásos katasztrófavédelmi szervnél” szöveg lép.
-
-149. § A Hszt. 6/B. számú mellékletében a „budapesti rendőrfőkapitány, a fővárosi tűzoltó parancsnok, a polgári nemzetbiztonsági szolgálatok igazgatói, a fővárosi polgári védelmi igazgató” szövegrész helyébe a „budapesti rendőrfőkapitány, a fővárosi illetékességű hivatásos katasztrófavédelmi szerv területi szerve vezetője, a tűzoltósági főfelügyelő, a polgári védelmi főfelügyelő, a polgári nemzetbiztonsági szolgálatok igazgatói” szöveg lép.
-
-150. § Hatályát veszti a Hszt. 36. § (4) bekezdése, 49/A. § (5) bekezdése, 116/A. § (7) bekezdése, 127. § (4) bekezdése, 247. § (1) bekezdésének e) pontja, 265. § (2) és (3) bekezdése, 266. §-a, 268. §-át megelőző alcím, 268. §-a, 269. §-a, 271. § (2)–(3) bekezdése, 272. § (2)–(5) bekezdése, 273. §-a, 274. § (1)–(8) bekezdése, 275. §-a, 276. § (1)–(3) bekezdése, 342. § (9) bekezdése.
+#### 150. §
 
 #### 51. A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény módosítása
 
-151. § A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 2. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az országos kamarákon belül a Magyar Mérnöki Kamara legalább építési, tartószerkezeti, épületgépészeti, közlekedési, hírközlési, vízgazdálkodási, vízépítési, környezetvédelmi, földmérő és térképészeti, erdészeti és faipari, mezőgazdasági, gépészeti, hő- és villamosenergetikai, gázipari, elektrotechnikai, munkabiztonsági, tűzvédelmi szakterületeken, valamint a jogosultsághoz kötött egyéb szakértői és tervezői mérnöki szakterületeken, a Magyar Építész Kamara legalább terület- és településrendezési, táj- és kertépítészeti, belsőépítészeti, műemlékvédelmi és tűzvédelmi szakterületeken szakmai tagozatokat hoz létre.”
+#### 151. §
 
 #### 52. A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény módosítása
 
-152. § A földmérési és térképészeti tevékenységről szóló 1996. évi LXXVI. törvény 7. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A katasztrófavédelmi feladatok ellátásához szükséges földmérési és térképészeti állami alapadatokat, illetve termékeket az adatok kezelője, illetve előállítója a külön jogszabályban foglaltak szerint biztosítja a katasztrófavédelemben részt vevők számára.”
+#### 152. §
 
 #### 53. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-153. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-[Az ingatlanügyi hatóság kérelemre, ha jogszabály másként nem rendelkezik, az Elektronikus Kormányzati Gerinchálózaton (a továbbiakban: EKG) keresztül hozzáférést biztosít, hogy]
-
-„c) a nemzetbiztonsági szolgálatok, a rendőrség, a hivatásos katasztrófavédelmi szerv és az ügyészség a törvényben meghatározott feladatuk ellátásához szükséges egyedi adatok lekérdezése céljából,”
+#### 153. §
 
 #### 54. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-154. § (1)
-
-(2) Az Eütv. 147. § (1) bekezdés f) pontjában a „katasztrófa [225. § (2) bekezdés]” szövegrész helyébe az „egészségügyi válsághelyzet [228. § (2) bekezdés]” szöveg lép.
-
-(3) Az Eütv. 94. § (2) bekezdés a) pontjában, a „katasztrófa” szövegrész helyébe „egészségügyi válsághelyzet” szöveg lép.
-
-(4)–(6)
+#### 154. §
 
 #### 55. A büntetőeljárásról szóló 1998. évi XIX. törvény módosítása
 
-155. § A büntetőeljárásról szóló 1998. évi XIX. törvény 29. § e) pontja helyébe a következő rendelkezés lép:
-
-(Kizárólag az ügyészség végzi a nyomozást a következő bűncselekmények miatt:)
-
-„e) a rendőrség, a büntetés-végrehajtási szervezet és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény, a Nemzeti Adó- és Vámhivatal, a hivatásos katasztrófavédelmi szerv hivatásos állományú tagja, továbbá a pénzügyi nyomozó által elkövetett bármilyen bűncselekmény,”
+#### 155. §
 
 #### 56. A közterület-felügyeletről szóló 1999. évi LXIII. törvény módosítása
 
-156. § A közterület-felügyeletről szóló 1999. évi LXIII. törvény 6. § (1)–(2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A felügyelet a képviselő-testület által meghatározottak szerint együttműködik a rendőrséggel, a hivatásos katasztrófavédelmi szervvel (a továbbiakban: rendvédelmi szervek), a Nemzeti Adó- és Vámhivatallal, az egyéb állami ellenőrző és önkormányzati szervekkel, társadalmi szervezettel, így különösen a helyi polgárőr szervezettel, valamint a feladatai ellátásához segítséget nyújtó egyéb szervezettel.
-
-(2) A rendvédelmi szervvel, a Nemzeti Adó- és Vámhivatallal együtt eljáró felügyelő a rendvédelmi szerv, a Nemzeti Adó- és Vámhivatal segítője.”
+#### 156. §
 
 #### 57. A szabálysértésekről szóló 1999. évi LXIX. törvény módosítása
 
-157. § A szabálysértésekről szóló 1999. évi LXIX. törvény 35. § f) pontja helyébe a következő rendelkezés lép:
-
-(A jogszabályban hatáskörükbe utalt szabálysértési ügyekben a szabálysértési hatóság jogkörét gyakorolják)
-
-„f) a hivatásos katasztrófavédelmi szerv;”
+#### 157. §
 
 #### 58. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-158. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (2) bekezdésének b) pontja helyébe a következő rendelkezés lép:
-
-(A nyilvántartásból adatot igényelhetnek:)
-
-„b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § c), d), g), h) és a 9. § (1) bekezdés d), g) pontjaiban megjelölt adatok kivételével.”
+#### 158. §
 
 #### 59. A kémiai biztonságról szóló 2000. évi XXV. törvény módosítása
 
-159. § A kémiai biztonságról szóló 2000. évi XXV. törvény 19. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A veszélyes anyaggal, és a veszélyes keverékkel tevékenységet végző a kockázat kezelése, csökkentése érdekében intézkedéseket dolgoz ki. Ez a kötelezettség nem érinti az Mvt.-ben, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvényben, valamint a REACH-ben foglalt egyéb követelmények teljesítését.”
+#### 159. §
 
 #### 60. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-160. § A víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) a következő 5/A. §-sal egészül ki:
+#### 160. §
 
-„5/A. § (1) A veszélyes vagy szennyező áru belvízi szállításának hatósági ellenőrzését a veszélyes áruk belvízi szállításának ellenőrzésére vonatkozó jogszabályokban meghatározottak szerint a hajózási hatóság, a rendőrség vízirendészeti szerve és a hivatásos katasztrófavédelmi szerv látja el.
+#### 161. §
 
-(2) Az (1) bekezdésben hivatkozott jogszabályokban meghatározottak mellett a katasztrófavédelmi szerv feladat- és hatáskörébe tartozik:
+#### 162. §
 
-a) a veszélyes áruk belvízi szállítására történő előkészítésének, valamint a belvízi úton beérkezett veszélyes áruk továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése,
-
-b) a veszélyes áruk kikötők területén végzett átrakásának, tárolásának ellenőrzése.”
-
-161. § A Vkt. a következő 60/A. §-sal egészül ki:
-
-„60/A. § (1) Ha a veszélyes áruk belvízi szállításáról szóló törvényben meghatározott előírások megsértőivel szemben a hivatásos katasztrófavédelmi szerv az ellenőrzése során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és 50 000 forinttól 1 000 000 forintig terjedő bírságot alkalmaz.
-
-(2) Az e § alapján tett jogszerű intézkedésből eredő kárért a hivatásos katasztrófavédelmi szerv a jogszabálysértővel szemben felelősséggel nem tartozik.
-
-(3) Ugyanazon jogszabálysértésért a hajózási, a vízirendészeti hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.”
-
-162. § A Vkt. a következő 60/B. §-sal egészül ki:
-
-„60/B. § (1) Nincs helye a hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
-
-(2) A hivatásos katasztrófavédelmi szerv által kiszabott bírság kivetésével és behajtásával kapcsolatos hatósági eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
-
-(3) Az e törvény 60/A. §-a alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.”
-
-163. § A Vkt. 88. § (1) bekezdése a következő m) és n) pontokkal egészül ki:
-
-(Felhatalmazást kap a Kormány)
-
-„m) a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
-
-n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak”
-
-(rendeletben történő megállapítására.)
+#### 163. §
 
 #### 61. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-164. § (1) Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) 4. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-(A Kormány:)
-
-„i) biztosítja a különleges jogrend idején a lakosság riasztásának rendszerét;”
-
-(2) Az Eht. 4. § (1) bekezdése a következő j) ponttal egészül ki:
-
-(A Kormány:)
-
-„j) ellátja az elektronikus hírközléssel összefüggő, jogszabályban meghatározott további feladatokat.”
-
-(3) Az Eht. 182. § (4) bekezdés l) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a miniszter arra, hogy rendelettel állapítsa meg az elektronikus hírközlés vonatkozásában:)
-
-„l) a védelmi feladatokban részt vevő elektronikus hírközlési szolgáltatók kijelölését;”
+#### 164. §
 
 #### 62. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló
 
 2003. évi CXXVII. törvény módosítása
 
-165. § (1) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 120. § (8) bekezdésének a) pontja helyébe a következő rendelkezés lép:
-
-(Az elkobzott ásványolajtermékek)
-
-„a) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti katasztrófa esetén a területileg illetékes védelmi bizottság elnökének, I–III. fokú árvíz- és belvíz-védekezési készültség esetén az érintett terület települési önkormányzata polgármesterének vagy a vízügyi igazgatási szervezet területi szerve vezetőjének kérelme alapján – a Nemzeti Adó- és Vámhivatal vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadhatók;”
-
-(2) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 130. §-a helyébe a következő rendelkezés lép:
-
-„130. § Katasztrófa esetén a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti megyei, fővárosi védelmi bizottságok elnökei, illetve az érintett területek polgármesterei felhatalmazást kapnak arra, hogy az üzemanyag-ellátás biztosítására a vámhatóság bevonásával e törvény előírásaitól eltérően is intézkedhetnek.”
+#### 165. §
 
 #### 63. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-166. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) a következő 81/A–81/C. §-okkal, és az azokat megelőző alcímmel egészül ki:
+#### 166. §
 
-„A hivatásos katasztrófavédelmi szerv feladat- és hatásköre
-
-81/A. § (1) A hivatásos katasztrófavédelmi szerv feladat- és hatáskörébe tartozik:
-
-a) a veszélyes áruk vasúti szállításra történő előkészítésére, valamint a vasúton beérkezett veszélyes áruk továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése;
-
-b) a veszélyes áruk vasútüzemi létesítmények területén végzett átrakásának, tárolásának ellenőrzése.
-
-(2) A jogszabályban előírt veszélyes áruk vasúti szállítására vonatkozó előírások (RID) megsértőivel szemben bírság szabható ki. Az e § alapján indított bírságolási eljárást a hivatásos katasztrófavédelmi szerv folytatja le.
-
-(3) Ha a hivatásos katasztrófavédelmi szerv az ellenőrzés során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és 50 000 forinttól 1 000 000 forintig terjedő bírságot alkalmaz.
-
-(4) Az e § alapján tett jogszerű intézkedésből eredő kárért a jogszabálysértővel szemben a hivatásos katasztrófavédelmi szerv felelősséggel nem tartozik.
-
-(5) A hivatásos katasztrófavédelmi szerv az ellenőrzés során megállapított szabálytalanságokról, a vizsgálat megindításáról és az esetlegesen szükségessé váló helyszíni intézkedésekről, a vizsgálat megindítását, vagy a helyszíni intézkedést követő 8 napon belül hivatalosan értesíti a vasúti közlekedési hatóságot.
-
-(6) A hivatásos katasztrófavédelmi szerv a vizsgálat lezárásáról, és annak eredményéről, az azzal kapcsolatos döntéséről 8 napon belül értesíti a vasúti közlekedési hatóságot.
-
-81/B. § (1) Nincs helye a hivatásos katasztrófavédelmi szerv által bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
-
-(2) A hivatásos katasztrófavédelmi szerv által kiszabott bírság kivetésével és behajtásával kapcsolatos hatósági eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
-
-(3) Ugyanazon jogszabálysértésért a közlekedési hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.
-
-(4) A 81/A. § alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
-
-81/C. § (1) A veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat működtető, a veszélyes áru rakodását, átrakását, tárolását – ideértve az ideiglenes tárolást is – végző személyek, szervezetek, a veszélyesáru-szállítással kapcsolatos rendkívüli eseményről haladéktalanul kötelesek értesíteni a hivatásos katasztrófavédelmi szerv ügyeletét.
-
-(2) A hivatásos katasztrófavédelmi szerv az (1) bekezdésben meghatározott bejelentés alapján jogosult a veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat működtető, a veszélyes áru rakodását, átrakását, tárolását – ideértve az ideiglenes tárolást is – végző személyek, szervezetek felé intézkedni, a károk enyhítése érdekében készített tervekben előírtak megtételére utasítást adni.
-
-(3) A hivatásos katasztrófavédelmi szerv által adott utasításokat a veszélyes árut fuvarozó vasúti társaság, a veszélyesáru-fuvarozással érintett vasúti pályahálózat-működtetők, a veszélyes áru rakodását, átrakását, tárolását végző személyek, szervezetek kötelesek haladéktalanul végrehajtani.”
-
-167. § A Vtv. 88. § (1) bekezdése n) és o) pontokkal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„n) a hivatásos katasztrófavédelmi szervek által lefolytatott eljárások során a veszélyes áruk vasúti szállításának ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az egyes szabálytalanságokért kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
-
-o) a vasúti közlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait”
-
-(rendeletben állapítsa meg.)
+#### 167. §
 
 #### 64. A polgárőrségről szóló 2006. évi LII. törvény módosítása
 
-168. § A polgárőrségről szóló 2006. évi LII. törvény 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A polgárőrség tevékenysége során – az (1) bekezdésben meghatározottakon túl – köteles együttműködni a helyi önkormányzatokkal, az állami és önkormányzati szervekkel, a hivatásos katasztrófavédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével, a környezet- és természetvédelmi szervekkel, a hivatásos és az önkormányzati tűzoltóságokkal, a mezei- és természetvédelmi őrszolgálattal, a közterület-felügyelettel, az erdészeti szakszemélyzettel. Az együttműködés tartalmát a felek írásbeli együttműködési megállapodásban rögzíthetik.”
+#### 168. §
 
 #### 65. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-169. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdése a következő 44. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„44. a villamosenergia-rendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszere, kijelölése, az érzékeny információ védelme, a kapcsolattartás és a jelentéstételi kötelezettségek, valamint európai kritikus infrastruktúra kijelölése esetén annak védelme, ellenőrzésének rendje, az előírások megsértése esetén alkalmazható jogkövetkezmények szabályait”
-
-(rendeletben állapítsa meg.)
+#### 169. §
 
 #### 66. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-170. § A földgázellátásról szóló 2008. évi XL. törvény 132. §-a a következő 49. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„49. az együttműködő földgázrendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre”
-
-(vonatkozó szabályokat.)
+#### 170. §
 
 #### 67. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
 
-171. § A minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 13. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„13. rendvédelmi szerv: a rendőrség, a hivatásos katasztrófavédelmi szerv, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet;”
+#### 171. §
 
 #### 68. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-172. § (1) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 1. § (5) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Rendvédelmi szerv)
-
-„e) a hivatásos katasztrófavédelmi szerv,”
-
-(2) Hatályát veszti a Ksztv. 1. § (5) bekezdés b) pontja.
-
-(3) Hatályát veszti a Ksztv. 83. § e) pontja.
+#### 172. §
 
 #### 69. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-173. § A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) a) pontja 32. ponttal egészül ki:
-
-(Felhatalmazást kap
-
-a) a Kormány, hogy)
-
-„32. a közúti közlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait”
-
-(rendeletben állapítsa meg.)
+#### 173. §
 
 #### 70. Hatályát vesztő rendelkezések
 
-174. § (1) Hatályát veszti a polgári védelemről szóló 1996. évi XXXVII. törvény.
-
-(2) Hatályát veszti a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény.
-
-(3) Hatályát veszti az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 30. §-a.
-
-(4) Hatályát veszti a fegyveres és rendvédelmi szervekkel összefüggő egyes törvények módosításáról szóló 2005. évi I. törvény Hatodik fejezete.
-
-(5) Hatályát veszti a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény módosításáról szóló 2006. évi VIII. törvény.
-
-(6) Hatályát veszti az önkéntes tűzoltó egyesületekről szóló 2008. évi XXXIII. törvény.
-
-(7) Hatályát veszti az egyes törvényeknek a naptári napban való határidő-számítással összefüggésben történő módosításáról szóló 2010. évi CLII. törvény 2. § (43) bekezdése.
+#### 174. §

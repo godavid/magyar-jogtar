@@ -277,7 +277,7 @@ tevékenységét.
 - b) a vizsgált üggyel összefüggésbe hozható összes iratba betekinthet, azokról másolatot, kivonatot készíthet, és
 - c) a vizsgált hatóság bármely munkatársát meghallgathatja.
 
-(2) Az alapvető jogok biztosának vagy a felhatalmazása alapján a vizsgálatot végző munkatársának a helyszíni ellenőrzés során a Magyar Honvédség, a katonai nemzetbiztonsági szolgálatok, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak alsó- és középfokú szervei működésére szolgáló területekre történő belépésének, tartózkodásnak és kilépésének rendjét a honvédelemért felelős miniszter, a rendvédelmi szerv irányításáért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatal felügyeletére kijelölt miniszter határozza meg.
+(2) Az alapvető jogok biztosának vagy a felhatalmazása alapján a vizsgálatot végző munkatársának a helyszíni ellenőrzés során a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak alsó- és középfokú szervei működésére szolgáló területekre történő belépésének, tartózkodásnak és kilépésének rendjét a honvédelemért felelős miniszter, a rendvédelmi szerv irányításáért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatal felügyeletére kijelölt miniszter határozza meg.
 
 (3) A vizsgált hatóság helyiségébe való belépést szabályozó jogszabály a helyszíni ellenőrzést érdemben nem akadályozhatja.
 
@@ -467,7 +467,7 @@ tevékenységét.
 
 #### 13. Felhatalmazó rendelkezések
 
-43. § (1) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az alapvető jogok biztosának a Magyar Honvédség és a katonai nemzetbiztonsági szolgálatok működésére szolgáló területre való belépésének, tartózkodásának és kilépésének a rendjét rendeletben határozza meg.
+43. § (1) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az alapvető jogok biztosának a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat működésére szolgáló területre való belépésének, tartózkodásának és kilépésének a rendjét rendeletben határozza meg.
 
 (2) Felhatalmazást kap a rendvédelmi szerv irányításáért felelős miniszter, hogy az alapvető jogok biztosának a rendvédelmi szerv működésére szolgáló területre való belépésének, tartózkodásának és kilépésének a rendjét rendeletben határozza meg.
 
@@ -504,64 +504,14 @@ tevékenységét.
 
 #### 17. Módosító rendelkezések
 
-47. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 30. § (3) bekezdésében az „Országgyűlési Biztos” szövegrész helyébe az „Alapvető Jogok Biztosának” szöveg, 1. számú melléklet 9. pontjában az „országgyűlési biztos” szövegrész helyébe az „alapvető jogok biztosa és helyettese” szöveg lép.
+#### 47. §
 
-48. § (1) A Büntető Törvénykönyvről szóló 1978. évi IV. törvény 137. § 1. pont f) alpontjában az „országgyűlési biztos” szövegrész helyébe az „alapvető jogok biztosa és helyettese” szöveg, 137. § 1. pont j) alpontjában az „Országgyűlés Hivatalánál” szövegrész helyébe az „Országgyűlés Hivatalánál és az Alapvető Jogok Biztosának Hivatalánál” szöveg lép.
-
-(2) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény
-
-- a) 1. § (2) bekezdésében az „országgyűlési biztos hivatala” szövegrészek helyébe az „Alapvető Jogok Biztosának Hivatala”,
-- b) 44. § (5) bekezdésében az „országgyűlési biztos hivatalában” szövegrész helyébe az „Alapvető Jogok Biztosának Hivatalában”, és
-- c) 49/N. § (2) bekezdésében az „országgyűlési biztost” szövegrész helyébe az „alapvető jogok biztosát”
-
-szöveg lép.
-
-(3) Az államháztartásról szóló 1992. évi XXXVIII. törvény 2/A. § (3) bekezdés i) pontjában az „Országgyűlési Biztosok” szövegrész helyébe az „Alapvető Jogok Biztosának” szöveg lép.
+48. § (1)–(3)
 
 (4)
 
-(5) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 51. § (2) bekezdés k) pontjában az „országgyűlési biztossal” szövegrész helyébe az „alapvető jogok biztosával” szöveg lép.
-
-(6) A külföldre utazásról szóló 1998. évi XII. törvény
-
-- a) 12. § (1) bekezdés c) pontjában az „országgyűlési biztos” szövegrész helyébe az „alapvető jogok biztosa és helyettese”, és
-- b) 14. § (1) bekezdés a) pontjában az „Országgyűlési Biztos” szövegrész helyébe az „Alapvető Jogok Biztosának”
-
-szöveg lép.
-
-(7) A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § f) pont fa) alpontjában az „országgyűlési biztosok” szövegrész helyébe az „alapvető jogok biztosa” szöveg lép.
-
-(8) A jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 1. § (2) bekezdésében az „Országgyűlési Biztos” szövegrész helyébe az „Alapvető Jogok Biztosának” szöveg lép.
-
-(9) A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 157. § (1) bekezdés q) pontjában az „országgyűlési biztossal” szövegrész helyébe az „alapvető jogok biztosával” szöveg lép.
-
-(10) Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 15. § (6) bekezdésében az „országgyűlési biztos” szövegrész helyébe az „alapvető jogok biztosa” szöveg lép.
-
-(11) Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 8. § (2) bekezdés f) pontjában az „országgyűlési biztos” szövegrész helyébe az „alapvető jogok biztosa, az alapvető jogok biztosának helyettese” szöveg lép.
-
-(12) A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 118. § (3) bekezdés j) pontjában az „országgyűlési biztossal” szövegrész helyébe az „alapvető jogok biztosával” szöveg lép.
-
-(13) A viszontbiztosítókról szóló 2007. évi CLIX. törvény 88. § (1) bekezdés o) pontjában az „országgyűlési biztossal” szövegrész helyébe az „alapvető jogok biztosával” szöveg lép.
-
-(14) A magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény 2. § e) pontjában az „országgyűlési biztosok” szövegrész helyébe az „alapvető jogok biztosa” szöveg lép.
-
-(15) A minősített adat védelméről szóló 2009. évi CLV. törvény
-
-- a) 4. § (1) bekezdés j) pontjában az „országgyűlési biztos” szövegrész helyébe az „alapvető jogok biztosa”, és
-- b) 13. § (3) bekezdés g) pontjában az „országgyűlési biztos” szövegrész helyébe az „alapvető jogok biztosa”
-
-szöveg lép.
-
-(16) A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 53. § (4) bekezdésében az „Országgyűlési Biztos” szövegrész helyébe az „Alapvető Jogok Biztosának” szöveg lép.
+(5)–(16)
 
 #### 18. Hatályon kívül helyező rendelkezések
 
-49. § Hatályát veszti a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 52. §-a.
-
-50. § (1) Hatályát veszti az állampolgári jogok országgyűlési biztosáról szóló 1993. évi LIX. törvény.
-
-(2) Hatályát veszti
-
-- a) a közoktatásról szóló 1993. évi LXXIX. törvény 95/A. § (12) bekezdése,
-- b) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 11. § (2) bekezdése, és
-- c) a felsőoktatásról szóló 2005. évi CXXXIX. törvény 107. § (4) bekezdése.
+#### 49–50. §

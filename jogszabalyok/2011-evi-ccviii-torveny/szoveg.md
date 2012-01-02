@@ -792,71 +792,10 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 #### 37. Módosító rendelkezések
 
-69. § A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A Magyar Nemzeti Bank által az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság részére vezetett pénzforgalmi számla tekintetében e törvénynek kizárólag a hatósági átutalás és az átutalási végzés alapján történő átutalás lebonyolítására vonatkozó szabályait kell alkalmazni.”
-
-70. § (1) A pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény 2. § (2) bekezdés 11. pontja helyébe a következő rendelkezés lép:
-
-(E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban)
-
-„11. MNB rendkívüli likviditási hitele: az MNB tv. 12. § (4) bekezdése szerinti – a 7. §-ban meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott – rendkívüli jegybanki hitel.”
-
-(2) A pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény mellékletének 6. pontja helyébe a következő rendelkezés lép:
-
-„6. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,”
-
-71. § (1) Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény 2. § a) pont 7. alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában közszolgálatban álló személy)
-
-„7. a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja (a továbbiakban: a Magyar Nemzeti Bank alkalmazottai);”
-
-(2) Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény 7. §-a helyébe a következő rendelkezés lép:
-
-„7. § A vagyonnyilatkozat őrzéséért
-
-a) közszolgálatban álló személy, valamint a 3. § (3) bekezdés e) pontja szerinti kötelezett esetében a munkáltatói jogkör gyakorlója, közjegyző esetében a területi közjegyzői kamara elnöksége,
-
-b) a 3. § (3) bekezdés a)–c) pontja szerinti kötelezett esetében a gazdálkodó szervezet tekintetében a tulajdonosi jogokat az állam nevében gyakorló személy vagy szervezet,
-
-c) a 3. § (3) bekezdés d) pontja szerinti kötelezettek esetében az állami támogatási előirányzat kezelője – helyi önkormányzat esetében a jegyző, közalapítvány esetében az alapítói jogokat gyakorló szerv, területfejlesztési tanács esetében annak hivatali szervezete –, vagy ha e szerv nem azonos az állami pénzalap, illetve az állami támogatási előirányzat felhasználásának szakmai lebonyolításáért felelős szervvel, akkor ez utóbbi,
-
-d) a Magyar Nemzeti alkalmazottai vonatkozásában a Magyar Nemzeti Bank elnöke
-
-felelős (a továbbiakban együtt: őrzésért felelős).”
-
-72. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 1. melléklet 14. pontja helyébe a következő rendelkezés lép:
-
-„14. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,”
-
-73. § A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 34. § (2) bekezdés helyébe a következő rendelkezés lép:
-
-„(2) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § c), f) és g) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény, az 5. § a) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Psztv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Magyar Nemzeti Bankról szóló törvény rendelkezései szerint jár el.”
-
-74. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 15. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Amennyiben az igazgatóság tagja, vagy a vezérigazgató a megválasztása, illetve munkaviszonya létesítését megelőző 6 hónapon belül a Magyar Nemzeti Bank felügyelőbizottságának tagja volt, úgy rá a Magyar Nemzeti Bankról szóló törvény 55. § (8) bekezdésében hivatkozott 55. § (7) bekezdésében foglaltakat nem kell alkalmazni.”
-
-75. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 110. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az Alap igazgatótanácsának tagjai:)
-
-„b) az MNB-nek az MNB elnöke által kijelölt alelnöke,”
-
-76. § A Hpt. 48. § a) pontjában a „Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény (a továbbiakban: MNB tv.)” szövegrész helyébe a „Magyar Nemzeti Bankról szóló törvény (a továbbiakban: MNB tv.)” szöveg lép.
+69–76. §
 
 77. §
 
 #### 38. Hatályon kívül helyező rendelkezések
 
-78. § (1) Hatályát veszti
-
-- a) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény,
-- b) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény módosításáról szóló 2004. évi XXXI. törvény,
-- c) a Magyar Nemzeti Bankról szóló 2001. évi LVIII. törvény módosításáról szóló 2004. évi CXXVI. törvény.
-
-(2) Hatályát veszti
-
-- a) a tőkepiacról szóló 2001. évi CXX. törvény 1. számú melléklet 14. pontja,
-- b) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 65. § (4) bekezdése.
+78. §

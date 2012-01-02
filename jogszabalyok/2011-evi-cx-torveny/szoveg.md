@@ -152,32 +152,4 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (3) E törvény 29. §-a nem érinti a hatálybalépését megelőzően hivatalt betöltött volt miniszterelnöknek a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 22. § (1) bekezdése szerinti juttatásra való jogosultságát, ha e törvény hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
 
-26. § (1) Az ügyészségi szolgálati viszonyról és az ügyészségi adatkezelésről szóló 1994. évi LXXX. törvény 1. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A köztársasági elnöknek az e törvénnyel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.”
-
-(2) A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 69. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A köztársasági elnöknek az (1) bekezdéssel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.”
-
-27. § (1) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 1. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A köztársasági elnöknek az e törvénnyel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.”
-
-(2) Az államháztartásról szóló 1992. évi XXXVIII. törvény 126. §-a helyébe a következő rendelkezés lép:
-
-„126. § A köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 27. §-ában, valamint a köztársasági elnök jogállásáról és javadalmazásáról szóló 2011. évi CX. törvény 21. §-ában foglalt előirányzatok felhasználása tekintetében e törvény 13/A. § (2) és (5)–(7) bekezdéseit, 13/B. § (1) bekezdését, 15. §-át, valamint 101/A. §-át nem kell alkalmazni.”
-
-(3) A Szent István államalapításának emlékéről és a Szent Koronáról szóló 2000. évi I. törvény 5. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A köztársasági elnöknek az e törvényben meghatározott tevékenysége során hozott döntéséhez és intézkedéséhez ellenjegyzés nem szükséges.”
-
-(4) A jogalkotásról szóló 2010. évi CXXX. törvény 28. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A köztársasági elnöknek az (1) bekezdéssel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.”
-
-28. § (1) Hatályát veszti a köztársasági elnök és a Köztársasági Elnöki Hivatal elhelyezéséről szóló 2002. évi XLI. törvény.
-
-(2) Hatályát veszti a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 1–19. §-a, 1. §-át megelőző alcíme, 27. § (2) és (4) bekezdése, valamint 27. § (5) bekezdésében az „és (4)” szövegrész.
-
-29. § Hatályát veszti a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 22. § (1) bekezdésében a „, valamint kérelmére – ha a reá irányadó öregségi nyugdíjkorhatárt betöltötte – a 14. § szerinti juttatásra” szövegrész.
+26–29. §

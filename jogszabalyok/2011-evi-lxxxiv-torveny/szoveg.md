@@ -1132,7 +1132,7 @@ For the Federal Republic of Germany
 
 (2) A 2. és 3. § az Egyezmény 30. Cikk (2) bekezdésében meghatározott időpontban lép hatályba.
 
-(3) A Magyar Népköztársaság és a Németországi Szövetségi Köztársaság között Budapesten 1977. évi július 18-án aláírt, a jövedelem-, a hozadéki és a vagyonadók területén a kettős adóztatás elkerüléséről szóló egyezmény kihirdetéséről rendelkező 1979. évi 27. törvényerejű rendelet (a továbbiakban: Tvr.) a Magyar Népköztársaság és a Németországi Szövetségi Köztársaság között a kettős adóztatás elkerülésére a jövedelem-, a hozadéki és a vagyonadók területén Budapesten, 1977. évi július 18-án aláírt egyezmény (a továbbiakban: korábbi egyezmény) megszűnésével az Egyezmény 30. Cikk (3) bekezdés a)–c) pontjában meghatározott valamennyi feltétel bekövetkeztének napján hatályát veszti.
+(3)
 
 (4) Az Egyezmény, valamint a 2. és 3. § hatálybalépésének, továbbá a korábbi egyezmény megszűnésének és a Tvr. hatályvesztésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 

@@ -482,11 +482,11 @@ minősül.
 
 #### 20. Hatályon kívül helyező rendelkezések
 
-47. § A jogi iránymutatások hatályukat vesztik, illetve visszavontnak minősülnek.
+#### 47. §
 
 48. § (1)
 
-(2) Hatályát veszti az Einfotv. 14. §-a.
+(2)
 
 #### 49. §
 

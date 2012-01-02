@@ -187,7 +187,7 @@ hozható meg.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a kombinált figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, továbbá a dohánytermékek előállításának, forgalmazásának és ellenőrzésének a jövedéki törvény szabályozási körébe nem tartozó egyéb feltételeit,
+- a) a kombinált figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, a dohányzási korlátozásra, valamint a dohányzóhelyek kijelölésére vonatkozó feliratok és jelzések tartalmát, formáját, továbbá a dohánytermékek előállításának, forgalmazásának és ellenőrzésének a jövedéki törvény szabályozási körébe nem tartozó egyéb feltételeit,
 - b) az egészségvédelmi bírság befizetésének, nyilvántartásának részletes szabályait.
 
 (6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:

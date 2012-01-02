@@ -1476,173 +1476,21 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 #### 64. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-198. § (1) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) 1. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[A törvény hatálya]
-
-„b) az Országos Bírósági Hivatallal (a továbbiakban: OBH),”
-
-(2) Az Iasz. 8. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[A munkáltatói jogkört]
-
-„a) az OBH elnökhelyettese és egyéb alkalmazottai tekintetében az OBH elnöke,”
-
-(3) Az Iasz. 16. § (2) bekezdése helyébe a következő rendelkezés lép egyidejűleg a § a következő (2a) bekezdéssel egészül ki:
-
-„(2) Az eskü szövege az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényben foglalt eskü szövegéből és az annak zárómondatát megelőző következő szövegből áll:
-
-„A munkaköri kötelességeimet részrehajlás nélkül, lelkiismeretesen, kizárólag a jogszabályoknak megfelelően, pontosan, a legjobb tudásom szerint teljesítem.”
-
-(2a) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényben foglalt eskü szövegében szereplő tisztség megnevezése a (2) bekezdés szerinti eskü tétele során: igazságügyi alkalmazott.”
-
-199. § (1) Az Iasz. 31. §-a helyébe a következő rendelkezés lép:
-
-„31. § (1) Vezetői megbízást az kaphat, aki az általános képesítési feltételeken túl, az adott szakterületen legalább három év szakmai gyakorlattal rendelkezik. Jogszabály vagy pályázat további feltételeket határozhat meg.
-
-(2) Magasabb vezetői állásnak minősül az OBH elnökhelyettese, főosztályvezetője, a bíróságok főosztályvezetői, az egyéb igazságügyi szerv vezetője és helyettese, valamint a Fővárosi Törvényszék Gazdasági Hivatalának az igazgatója.
-
-(3) A vezetőkre –– a (4) bekezdésben foglaltak kivételével – ezen alcím rendelkezéseit kell alkalmazni.
-
-(4) Az OBH elnökhelyettese esetében a 32–34. §-ok nem alkalmazhatóak, az e §-ok szabályozási körébe tartozó kérdések tekintetében a bíróságok szervezetéről és igazgatásáról szóló törvényben foglalt rendelkezéseket kell alkalmazni.”
-
-(2) Az Iasz. 33. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Pályázat bármely vezetői állásra kiírható, a magasabb vezetői állást pályázat útján kell betölteni.”
-
-200. § (1) Az Iasz. 41/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Törvény által meghatározott ügyben egyesbíró hatáskörében eljárásra jogosult bírósági titkárokat (a továbbiakban: kijelölt titkár) a törvényszék elnöke jelöli ki. A járásbíróságnál működő titkárok esetében a törvényszék elnöke a járásbíróság elnökének javaslatára dönt a kijelölésről. A kijelölésben meg kell határozni, hogy az mely ügyek körére vonatkozik.”
-
-(2) Az Iasz. 96. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az OBH elnökhelyettese illetményére a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvénynek az államtitkár javadalmazására, juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.”
-
-(3) Az Iasz. a következő 134/A. §-sal egészül ki:
-
-„134/A. § (1) Ahol a törvény járásbíróságról rendelkezik, ott 2012. december 31. napjáig a kerületi és városi bíróságot, illetve együtt a helyi bíróságot kell érteni.
-
-(2) Ahol a törvény közigazgatási és munkaügyi bíróságról rendelkezik, ott 2012. december 31. napjáig munkaügyi bíróságot kell érteni.”
-
-201. § Az Iasz.
-
-- 1. 1. § (3) bekezdésében az „OIT Hivatalánál” szövegrész helyébe az „OBH-nál”,
-- 2. 1. § (4) bekezdésében és 6. § (1) bekezdésében a „fővárosi, megyei bírósági” szövegrész helyébe a „törvényszéki ”,
-- 3. 8. § (1) bekezdés e) pontjában a „fővárosi (megyei) bíróság” szövegrész helyébe a „törvényszék”, a „helyi bírósági” szövegrész helyébe a „járásbírósági”,
-- 4. 11. § (2) bekezdésében a „választójoggal rendelkező” szövegrész helyébe a „cselekvőképes”,
-- 5. 13. § (1) bekezdésében az „OIT Hivatala” szövegrész helyébe az „OBH elnöke”,
-- 6. 13. § (7) bekezdésében az „OIT Hivatala” szövegrész helyébe az „OBH”, az „Országos Igazságszolgáltatási Tanács” szövegrész helyébe az „OBH elnöke”,
-- 7. 14. § (7) bekezdésében az „OIT Hivatala” szövegrész helyébe az „OBH elnöke”,
-- 8. 14. § (10) bekezdésében az „OIT” szövegrész helyébe az „OBH elnöke”,
-- 9. 16. § (3) bekezdésében a „fővárosi, megyei bírósági” szövegrész helyébe a „törvényszéki”,
-- 10. 35/A. § (1) bekezdésében az „OIT Hivatala” szövegrész helyébe az „OBH elnöke”,
-- 11. 35/A. § (6) bekezdésében az „OIT” szövegrész helyébe az „OBH elnöke”,
-- 12. 41/A. § (1) bekezdésében a „megyei bíróság” szövegrész helyébe a „törvényszék”,
-- 13. 61. § (1) bekezdésében az „OIT Hivatalánál” szövegrész helyébe az „OBH-nál”,
-- 14. 93. § (1) bekezdésében a „helyi (munkaügyi) bírósági” szövegrész helyébe, a „járásbírósági és a közigazgatási és munkaügyi bírósági”, a „fővárosi (megyei) bíróságon” szövegrész helyébe „törvényszéken”,
-- 15. 93. § (4) bekezdésében az „OIT Hivatala” szövegrész helyébe az „OBH”,
-- 16. 94. § (4) bekezdésében az „OIT Hivatala” szövegrész helyébe az „OBH”,
-- 17. 95. § (2) bekezdésében a „fővárosi (megyei) bírósági” szövegrész helyébe a „törvényszéki”,
-- 18. 98. § (3) bekezdésében a „legfelsőbb bírósági” szövegrész helyébe a „kúriai”, a „Legfelsőbb Bíróság” szövegrész helyébe a „Kúria”,
-- 19. 103/A. § (1) bekezdés a) pontjában a „Legfelsőbb Bíróság és az OIT Hivatalának” szövegrész helyébe a „Kúria és az OBH”,
-- 20. 105. § (1) bekezdésében a „Legfelsőbb Bíróságon, az OIT Hivatalánál” szövegrész helyébe a „Kúrián, az OBH-nál”,
-- 21. 105. § (2) bekezdésében a „Legfelsőbb Bíróságon és az OIT Hivatalánál” szövegrész helyébe a „Kúrián és az OBH-nál”,
-- 22. 109. §-ában a „fővárosi (megyei) bírósági” szövegrész helyébe a „törvényszéki”,
-- 23. 119. § (1) bekezdésében az „Országos Igazságszolgáltatási Tanács” szövegrész helyébe az „OBH elnöke”,
-- 24. 119. § (3) bekezdésében „Országos Igazságszolgáltatási Tanács” szövegrészek helyébe az „OBH elnöke”,
-- 25. 119. § (4) bekezdésében „Országos Igazságszolgáltatási Tanács” szövegrész helyébe az „OBH elnöke”,
-- 26. 122. § (1) bekezdés e) pontjában a „Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvénnyel” szövegrész helyébe a „Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel”,
-- 27. 122. § (2) bekezdésében az „OIT Hivatala” szövegrész helyébe az „OBH”, az „OIT” szövegrész helyébe az „Országos Bírói Tanács”,
-- 28. 123. §-ában az „OIT” szövegrész helyébe az „OBH elnöke”,
-- 29. 135. § (3) bekezdés b) pontjában az „OIT Hivatalára” szövegrész helyébe az „OBH-ra”, az „OIT véleményének kikérésével egyetértésével” szövegrész helyébe az az „OBH elnöke véleményének kikérésével”, és
-- 30. 135. § (3) bekezdés c) pontjában az „OIT” szövegrész helyébe az „OBH elnöke”
-
-szöveg lép.
+#### 198–201. §
 
 #### 65. A büntetőeljárásról szóló 1998. évi XIX. törvény módosítása
 
-202. § A Be. 439. §-a helyébe a következő rendelkezés lép:
-
-„439. § (1) A jogegységi eljárásra a (2)–(5) bekezdésben foglalt eltérésekkel a bíróságok szervezetéről és igazgatásáról szóló törvény jogegységi eljárásra vonatkozó rendelkezéseit kell alkalmazni.
-
-(2) Ha a jogegységi eljárás eredménye a Kúria előtt folyamatban lévő más rendkívüli jogorvoslati eljárásra kihatással lehet, a Kúria a rendkívüli jogorvoslati eljárást a jogegységi határozat meghozataláig felfüggeszti.
-
-(3) Ha az elvi kérdésben adott iránymutatásból következően a jogegységi határozattal érintett jogerős bírósági határozatnak a terhelt büntetőjogi felelősségét megállapító rendelkezése törvénysértő, a jogegységi tanács a törvénysértő rendelkezést hatályon kívül helyezi, és a terheltet felmenti, illetve az eljárást megszünteti. Ha a terhelt fogva van, a fogvatartást is megszünteti.
-
-(4) A jogegységi határozat indokolása tartalmazza a terhelt felmentésének és az eljárás megszüntetésének indokait is.
-
-(5) A jogegységi határozatot közölni kell azzal a terhelttel is, akit felmentettek vagy akivel szemben az eljárást megszüntették. Ha az alapeljárásban a vádat magánvádló vagy pótmagánvádló képviselte, a határozatot vele is közölni kell.”
-
-203. § A Be.
-
-- a) 13. § (1) bekezdésében, 13. § (2) bekezdés a) és b) pontjában, 13. § (3) bekezdés a) pontjában, 14. § (2) és (4) bekezdésében, 15. §-ában, 16. § (1) bekezdésének nyitó szövegrészében és (2) bekezdésében, 20. § (2) bekezdés a) pontjában, 131. § (1) és (3) bekezdésében, 142. § (3) és (4) bekezdésében, 207. § (1) és (6) bekezdésében, 208. § (1) és (2) bekezdésében, 215. § (3) bekezdésében, 242. § (1) bekezdés a) pontjában, 262/B. § (3) bekezdésében, 271. § (2) bekezdésében, 383. § (1) bekezdés a) pontjában, 411. § (1) bekezdésében, 414. § (2) bekezdésében, 471. § (1) bekezdésében, 473. § (1) bekezdésében, 485/B. § (2) bekezdésében, 486. §-ában a „megyei bíróság” szövegrész helyébe a „törvényszék”,
-- b) 14. § (7) bekezdésében az „Országos Igazságszolgáltatási Tanács” szövegrész helyébe az „Országos Bírósági Hivatal elnöke”,
-- c) 17. § (5) és (6) bekezdésében, 18. § (3) bekezdésében, 566. § (1) bekezdésében a „megyei bíróság” szövegrész helyébe a „törvényszék” szöveg, a „Fővárosi Bíróság” szövegrész helyébe a „Fővárosi Törvényszék”,
-- d) 20. § (2) bekezdés b) pontjában a „megyei bíróság” szövegrész helyébe a „törvényszék” szöveg, a „megyei bíróságok” szövegrész helyébe a „törvényszékek” szöveg, a „megyei bíróságokhoz” szövegrész helyébe a „törvényszékekhez”,
-- e) 20. § (2) bekezdés c) pontjában a „megyei bíróságok” szövegrész helyébe a „törvényszékek” szöveg, a „megyei bíróság” szövegrész helyébe a „törvényszék”,
-- f) 20/A. §-ában az „A Legfelsőbb Bíróság az Országos Igazságszolgáltatási Tanács elnökének indítványára” szövegrész helyébe „Az Országos Bírósági Hivatal elnöke”,
-- g) 29. § b) pontjában, 201. § (2) bekezdés b) pontjában a „bírósági és ügyészségi titkár, fogalmazó és ügyintéző” szövegrész helyébe a „bírósági titkár, az alügyész, a bírósági és ügyészségi fogalmazó, az ügyészségi megbízott és a bírósági ügyintéző” szöveg, a „megyei bírósági” szövegrész helyébe a „törvényszéki”,
-- h) 34. §-ában az „ügyészségi titkár” szövegrész helyébe az „alügyész”, az „ügyintéző” szövegrész helyébe a „megbízott”,
-- i) 44. § (5) bekezdésében a „megyei bíróság” szövegrész helyébe a „törvényszék”,
-- j) 206/A. § (5) bekezdésében a „megyei (fővárosi) bíróság” szövegrész helyébe a „törvényszék”,
-- k) 215. § (2) bekezdésében a „megyei bíróságnak” szövegrész helyébe a „törvényszéknek”,
-- l) 241. § (2) bekezdésében, 460. § (3) bekezdésében, 488. §-ában az „ügyészségi titkár” szövegrész helyébe az „alügyész”,
-- m) 448. § (2) bekezdésében az „Országos Igazságszolgáltatási Tanács” szövegrész helyébe az „Országos Bírósági Hivatal elnöke”,
-- n)
-- o) 473. § (2) bekezdésében a „Fővárosi Bíróság” szövegrész helyébe a „Fővárosi Törvényszék”,
-- p) 604. § (5) bekezdés c) pontjában a „Országos Igazságszolgáltatási Tanács” szövegrész helyébe az „Országos Bírósági Hivatal elnöke”
-
-szöveg lép.
+#### 202–203. §
 
 #### 66. A Polgári perrendtartásról szóló 1952. évi III. törvény módosítása
 
-204. § A Polgári perrendtartásról szóló 1952. évi III. törvény
-
-- a) 10. § (1) bekezdésében és (2) bekezdésének a) pontjában a „megyei bíróság (Fővárosi Bíróság)” szövegrész helyébe a „törvényszék”,
-- b) 10. § (2) bekezdésének b) pontjában a „megyei bírósághoz (Fővárosi Bírósághoz)” szövegrész helyébe a „törvényszékhez”,
-- c) 10. § (2) bekezdés c) pontjában és (3) bekezdésében, 18. § (2) bekezdésében, 45. § (2) bekezdés c) pontjában, 67. § (3) bekezdésében, 73/A. § (1) bekezdés a) pontjában, 214. § (2) bekezdésében, 235. § (4) bekezdésében, 262/A. §-ában, 270. § (1) bekezdésében, 271. § (1) bekezdés e) pontjában, 273. § (1) bekezdésében, (2) bekezdésének nyitó szövegében és (4) bekezdésében, 275. § (1)–(7) bekezdésében, 340/A. § (2) és (3) bekezdésében, a „Legfelsőbb Bíróság” szövegrész helyébe a „Kúria”,
-- d) 11. § (5) bekezdésében, 114/B. § (3) bekezdésében, 235. § (3) bekezdésében, 273. § (3) és (5) bekezdésében, 274. § (1) bekezdésében a „Legfelsőbb Bíróság” szövegrészek helyébe a „Kúria”,
-- e) 14. §-ában, 23. § (1) bekezdésének nyitó szövegében, valamint f) és o) pontjában, 45. § (2) bekezdés a) pontjában, 73/A. § (1) bekezdés b) pontjában, 147. § (2) bekezdésben, 235. § (3) bekezdésében, 326. § (9) bekezdésében, 358. §-ában, 367. §-ában, 386/A. § (1) bekezdésének nyitó szövegében, 394/B. § (1) bekezdés d) pontjában a „megyei bíróság” szövegrész helyébe a „törvényszék”,
-- f) 18. § (2) bekezdésében, 249. § (2) bekezdésében a „megyei bíróságot” szövegrész helyébe a „törvényszéket”,
-- g) 22. § (1) bekezdésében a „megyei bíróságok” szövegrész helyébe a „törvényszék”,
-- h) 23. § (2) bekezdésében a „megyei bíróságnak” szövegrész helyébe a „törvényszéknek”, a „megyei bíróság” szövegrész helyébe a „törvényszék”,
-- i) 41. § (6) bekezdés a) pontjában a „megyei bíróság” szövegrész helyébe a „törvényszék”, a „Fővárosi Bíróság és a Pest Megyei Bíróság” szövegrész helyébe a „Fővárosi Törvényszék és a Budapest Környéki Törvényszék”,
-- j) 45. § (2) bekezdés b) pontjában a „helyi, megyei illetve munkaügyi bíróságok” szövegrész helyébe a „helyi bíróságok, törvényszékek illetve munkaügyi bíróságok”, a „helyi, megyei vagy munkaügyi bíróság” szövegrészek helyébe a „helyi bíróság, törvényszék vagy munkaügyi bíróság”,
-- k) 47. § (1) bekezdésében, az „A Legfelsőbb Bíróság az Országos Igazságszolgáltatási Tanács elnökének indítványára” szövegrész helyébe az „Az Országos Bírósági Hivatal elnöke”,
-- l) 94. § (1) bekezdésében a „megyei bíróságnál” szövegrész helyébe a „törvényszéknél”,
-- m) 102. § (6) bekezdésében az „Országos Igazságszolgáltatási Tanács Hivatala” szövegrészek helyébe az „Országos Bírósági Hivatal elnöke”,
-- n) 114/B. § (3) bekezdésében a „megyei bíróság” szövegrészek helyébe a „törvényszék”,
-- o) 149. § (3) bekezdésében a „megyei (fővárosi) bíróság” szövegrész helyébe a „törvényszék”,
-- p) 270. § (2) bekezdésében a „Legfelsőbb Bíróságtól” szövegrész helyébe a „Kúriától”
-- q) 272. § (4) bekezdésében, 340/A. § (2) bekezdésében a „Legfelsőbb Bírósághoz” szövegrész helyébe az „Kúriához”,
-- r) 311. § (5) bekezdésében az „Országos Igazságszolgáltatási Tanács Hivatala” szövegrész helyébe az „Országos Bírósági Hivatal elnöke”, az „A Hivatal” szövegrész helyébe az „Az elnök”,
-- s) 326. § (6) és (7) bekezdésében a „Fővárosi Bíróság” szövegrész helyébe a „Fővárosi Törvényszék”,
-- t) 326. § (13) bekezdésben a „megyei bíróság” szövegrészek helyébe „a törvényszék”, a „Fővárosi Bíróság” szövegrészek helyébe a „Fővárosi Törvényszék”,
-- u) 328. § (2) bekezdésben a „megyei bíróságnál” szövegrész helyébe a „törvényszéknél”,
-- v) 394/D. § (1) bekezdésében a „megyei bíróságok” szövegrész helyébe a „törvényszékek”,
-- w) 395. § (4) bekezdés a) pontjában az „Országos Igazságszolgáltatási Tanács” szövegrész helyébe az „Országos Bírósági Hivatal elnöke”
-
-szöveg lép.
+#### 204. §
 
 #### 67. A bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló
 
 2010. évi CLXXXIV. törvény módosítása
 
-205. § (1) A bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvény 4. §-a a következő (4) bekezdéssel egészül ki
-
-„(4) A Pest Megyei Munkaügyi Bíróság jogutódja a Budapest Környéki Munkaügyi Bíróság.”
-
-(2) A bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvény
-
-- a) 1. § (1) bekezdésében, 2. § (3) bekezdésében a „megyei bíróságok” szövegrész helyébe a „törvényszékek”,
-- b) 1. § (3) bekezdésében, 2. § (5) bekezdésében a „Legfelsőbb Bíróság” szövegrész helyébe a „Kúria”,
-- c) 3. § (1) és (2) bekezdésében a „megyei bíróságokon” szövegrész helyébe a „törvényszékeken”,
-- d) 4. § (2) bekezdésében a „Zala Megyei Bíróság” szövegrészek helyébe a „Zalaegerszegi Törvényszék”,
-- e) 1. mellékletének címében a „megyei bíróságok” szövegrész helyébe a „törvényszékek”,
-- f) 1. mellékletének 1. alcímében a „Fővárosi Bíróság” szövegrész helyébe a „Fővárosi Törvényszék”, 2. alcímében a „Baranya Megyei Bíróság” szövegrész helyébe a „Pécsi Törvényszék”, 3. alcímében a „Bács-Kiskun Megyei Bíróság” szövegrész helyébe a „Kecskeméti Törvényszék”, 4. alcímében a „Békés Megyei Bíróság” szövegrész helyébe a „Gyulai Törvényszék”, 5. alcímében a „Borsod-Abaúj-Zemplén Megyei Bíróság” szövegrész helyébe a „Miskolci Törvényszék”, 6. alcímében a „Csongrád Megyei Bíróság” szövegrész helyébe a „Szegedi Törvényszék”, 7. alcímében a „Fejér Megyei Bíróság” szövegrész helyébe a „Székesfehérvári Törvényszék”, 8. alcímében a „Győr-Moson-Sopron Megyei Bíróság” szövegrész helyébe a „Győri Törvényszék”, 9. alcímében a „Hajdú-Bihar Megyei Bíróság” szövegrész helyébe a „Debreceni Törvényszék”, 10. alcímében a „Heves Megyei Bíróság” szövegrész helyébe az „Egri Törvényszék”, 11. alcímében a „Jász-Nagykun-Szolnok Megyei Bíróság” szövegrész helyébe a „Szolnoki Törvényszék”, 12. alcímében a „Komárom-Esztergom Megyei Bíróság” szövegrész helyébe a „Tatabányai Törvényszék”, 13. alcímében a „Nógrád Megyei Bíróság” szövegrész helyébe a „Balassagyarmati Törvényszék”, 14. alcímében a „Pest Megyei Bíróság” szövegrész helyébe a „Budapest Környéki Törvényszék”, 15. alcímében a „Somogy Megyei Bíróság” szövegrész helyébe a „Kaposvári Törvényszék”, 16. alcímében a „Szabolcs-Szatmár-Bereg Megyei Bíróság” szövegrész helyébe a „Nyíregyházi Törvényszék”, 17. alcímében a „Tolna Megyei Bíróság” szövegrész helyébe a „Szekszárdi Törvényszék”, 18. alcímében a „Vas Megyei Bíróság” szövegrész helyébe a „Szombathelyi Törvényszék”, 19. alcímében a „Veszprém Megyei Bíróság” szövegrész helyébe a „Veszprémi Törvényszék”, 20. alcímében a „Zala Megyei Bíróság” szövegrész helyébe a „Zalaegerszegi Törvényszék”,
-- g) 1. mellékletének 14/13. alcímében a „Pest Megyei” szövegrész helyébe a „Budapest Környéki”,
-- h) a 3. melléklet címében a „megyei bíróságok” szövegrész helyébe a „törvényszékek”,
-- i) a 3. melléklet 1. alcímében a „Fővárosi Bíróság” szövegrész helyébe a „Fővárosi Törvényszék”, 2. alcímében a „Csongrád Megyei Bíróság” szövegrész helyébe a „Szegedi Törvényszék”, 3. alcímében a „Győr-Moson-Sopron Megyei Bíróság” szövegrész helyébe a „Győri Törvényszék”, 4. alcímében a „Hajdú-Bihar Megyei Bíróság” szövegrész helyébe a „Debreceni Törvényszék”, 5. alcímében a „Somogy Megyei Bíróság” szövegrész helyébe a „Kaposvári Törvényszék” szöveg lép.
+#### 205. §
 
 #### 68. Az egyes büntető vonatkozású törvények módosításáról szóló 2011. évi CL. törvény módosítása
 
@@ -1652,25 +1500,10 @@ szöveg lép.
 
 #### 69. Hatályát vesztő jogszabály
 
-207. § Hatályát veszti a bíróságok szervezetéről és igazgatásáról szóló 1997. évi LXVI. törvény.
+#### 207. §
 
 #### 70. Hatályukat vesztő rendelkezések
 
-208. § (1) Hatályát veszti a Be.
-
-- a) 440–445. §-a,
-- b) 601. § (1) bekezdésében a „megyei bíróságról, illetőleg” és „a Fővárosi Bíróságot, illetőleg” szövegrész.
-
-(2) Hatályát veszti az Iasz.
-
-- a) 8. § (1) bekezdés b) pontja,
-- b) 104. § (1) bekezdésében „az OIT Hivatalának vezetőhelyettese,” szövegrész,
-- c) 125. § (2) bekezdése,
-- d) 6. számú mellékletének 1. pontja.
-
-(3) Hatályát veszti a Pp.
-
-- a) 10. § (4) bekezdésében az „, ahol pedig megyei bíróságról rendelkezik, ott ezen a Fővárosi Bíróságot” szövegrész,
-- b) 212. § (2) bekezdése.
+#### 208. §
 
 #### 209. §

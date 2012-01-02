@@ -4,19 +4,11 @@ a büntetőeljárások időszerűségének javítása céljából a büntetőelj
 
 1–9. §
 
-10. § A Be. a következő 67/A. §-sal egészül ki:
-
-„67/A. § (1) A bíróság, az ügyészség, a nyomozó hatóság és a védő egymással az írásbeli kapcsolatot a külön jogszabályok szerint meghatározott központi rendszer útján tartja.
-
-(2) A bíróság, az ügyészség, a nyomozó hatóság és a jogi képviselő vagy a képviselőként eljáró ügyvéd egymással az írásbeli kapcsolatot a külön jogszabályok szerint meghatározott központi rendszer útján tartja.”
+10. §
 
 11. §
 
-12. § A Be. 70. § (1) bekezdése a következő f) ponttal egészül ki:
-
-[A bíróság, az ügyész, illetőleg a nyomozó hatóság hivatalos iratának az érintett személy részére átadása (kézbesítés) történhet]
-
-„f) külön jogszabályok szerint.”
+12. §
 
 13–17. §
 
@@ -32,9 +24,7 @@ a büntetőeljárások időszerűségének javítása céljából a büntetőelj
 
 34–36. §
 
-37. § A Be. 325. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A nem a kihirdetéskor bejelentett fellebbezést az első fokú bíróságnál kell írásban vagy telefax, illetve számítógép útján benyújtani, illetőleg jegyzőkönyvbe mondani.”
+37. §
 
 38–52. §
 
