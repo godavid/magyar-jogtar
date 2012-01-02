@@ -796,7 +796,7 @@ való megfelelést szolgálja.
 80. § A Büntető Törvénykönyvről szóló 1978. évi IV. törvény
 
 - a)–d)
-- e)
+- e) 256/A. § (2) bekezdés a)–b) pontjában a „társadalmi szervezet” szövegrész helyébe az „egyesület” szöveg,
 - f)
 
 lép.
@@ -807,12 +807,7 @@ lép.
 
 #### 190–208. §
 
-209. § Hatályát veszti
-
-- a) az egyesülési jogról szóló 1989. évi II. törvény,
-- b) a közhasznú szervezetekről szóló 1997. évi CLVI. törvény,
-- c) a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény,
-- d) a Nemzeti Civil Alapprogramról szóló 2003. évi L. törvény végrehajtásáról szóló 160/2003. (X. 7.) Korm. rendelet.
+#### 209. §
 
 #### 29. Hatályba nem lépő rendelkezések
 

@@ -481,68 +481,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 ### Módosító rendelkezések
 
-147. § A Polgári perrendtartásról szóló 1952. évi III. törvény a 341. §-át követően a következő új alcímmel és 341/A. §-sal egészül ki:
-
-„Az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránti per
-
-341/A. § Az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránt indított perekre ennek a fejezetnek a rendelkezéseit a következő eltérésekkel kell alkalmazni:
-
-a) a perre az a bíróság illetékes, amelynek területén a kötelezettséget elmulasztó helyi önkormányzat székhelye található,
-
-b) a keresetlevelet az illetékességgel rendelkező bíróságnál kell benyújtani,
-
-c) a keresetlevélnek a 121. §-ban meghatározottakon túl a Magyarország helyi önkormányzatairól szóló törvényben foglaltakat kell tartalmaznia,
-
-d) a bíróság a keresetlevelet 30 napos határidő tűzésével megküldi a helyi önkormányzatnak a keresetlevélben foglaltakra vonatkozó nyilatkozata beszerzése céljából,
-
-e) a perindítás hatályai a keresetnek az alperessel való közlésével állnak be,
-
-f) tárgyalás tartását a felperes – a 338. § (8) bekezdés b) pontját ide nem értve – a keresetlevélben, az alperes a keresetlevélben foglaltakra vonatkozó nyilatkozatában kérheti; ennek elmulasztása miatt igazolásnak nincs helye,
-
-g) a bíróság ítélete ellen fellebbezésnek van helye.”
-
-148. § A helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.)
-
-- a) 12. § (2) bekezdésében, 33/A. § (1) bekezdés i) pontjában, a 33/A. § (7) bekezdésében, az 52. § (2) bekezdésében, a 92/C. § (6) bekezdésében, a 95. § a) pontjában, a 96. § c) pontjában, a 97. § a) pontjában, a 105. §-ában a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szövegrész helyébe a „fővárosi és megyei kormányhivatal”,
-- b) 17. § (2) bekezdésében, a 42. § (3) bekezdésében, a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek” szövegrész helyébe a „fővárosi és megyei kormányhivatalnak”,
-- c) 33/A. § (3a) bekezdésében és a 92/C. § (6) bekezdésében a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet” szövegrész helyébe a „fővárosi és megyei kormányhivatalt”,
-- d) 59. §-ában, a 95. § a) pontjában és a 96/A. §-ában a „helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszter” szövegrész helyébe a „helyi önkormányzatok törvényességi felügyeletéért felelős miniszter”,
-- e) 105. §-ában a „törvényességi ellenőrzéséért felelős miniszterhez” szövegrész helyébe a „törvényességi felügyeletéért felelős miniszterhez”,
-
-szöveg lép.
-
-149. § A polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény
-
-- a) 7. § (1) bekezdésében, a 13. § (5) bekezdésében a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szövegrész helyébe a „fővárosi és megyei kormányhivatal”,
-- b) 19. § (2) bekezdésében a „törvényességi ellenőrzéséért felelős miniszter” szövegrész helyébe a „törvényességi felügyeletéért felelős miniszter”
-
-szöveg lép.
-
-150. § A helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény
-
-- a) 13. § (3) bekezdés d) pontjában, 20. § (2) bekezdésében a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szövegrész helyébe a „fővárosi és megyei kormányhivatal”,
-- b) 13. § (4) bekezdésében, a 20. § (1) bekezdésében a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek” szövegrész helyébe a „a fővárosi és megyei kormányhivatalnak”
-
-szöveg lép.
-
-151. § A területszervezési eljárásról szóló 1999. évi XLI. törvény
-
-- a) 3. § (1) bekezdésében a „törvényességi ellenőrzéséért felelős miniszterhez” szövegrész helyébe a „törvényességi felügyeletéért felelős miniszterhez”,
-- b) 6. § (1)–(2) bekezdésében, a 18. § (2) bekezdésében a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szövegrész helyébe a „fővárosi és megyei kormányhivatal” szöveg lép.
-
-152. § A települési önkormányzatok többcélú kistérségi társulásáról szóló 2004. évi CVII. törvény
-
-- a) 7. § (3) bekezdés d) pontjában, a 12. § (2) bekezdésében a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szövegrész helyébe a „fővárosi és megyei kormányhivatal”,
-- b) a 7. § (6) bekezdésében, a 12. § (1) bekezdésében a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek” szövegrész helyébe a „fővárosi és megyei kormányhivatalnak”
-
-szöveg lép.
-
-153. § A helyi önkormányzati képviselők jogállásának egyes kérdéseiről szóló 2000. évi XCVI. törvény
-
-- a) 4. § (2) bekezdés c) pontjában, az 5. § b) pontjában a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek” szövegrész helyébe a „fővárosi és megyei kormányhivatalnak”,
-- b) 10. § (3) bekezdésében a „helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv” szövegrész helyébe a „fővárosi és megyei kormányhivatal”
-
-szöveg lép.
+147–153. §
 
 154. §
 
@@ -550,11 +489,7 @@ szöveg lép.
 
 ### Hatályon kívül helyező rendelkezések
 
-156. § (1) Hatályát veszti
-
-- a) az Ötv. 32. § második mondata, a 61. § (1) bekezdése; a 61/A. §; a 78–80/B. §; a 88. § (1) bekezdés b) pontja, a 88. § (2)–(4) bekezdése, a 92/A. § (2) bekezdése; a 98–99. §;
-- b) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény 1. § (7) bekezdése;
-- c) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény melléklete.
+156. § (1)
 
 (2)
 

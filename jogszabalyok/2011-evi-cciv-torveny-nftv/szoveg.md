@@ -424,14 +424,6 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 
 120. § (1)
 
-(2) Hatályát veszti a felsőoktatásról szóló 2005. évi CXXXIX. törvény 109–113. §-a, 153. § (1) bekezdés 19. pont „Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási és Tudományos Tanács, valamint” és „110. § (8) bekezdés, 113. § (8) bekezdés” szövegrésze.
-
-(3) Nem lép hatályba a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény 36. § (5) bekezdése.
-
-(4) A közoktatásról szóló 1993. évi LXXIX. törvény 121. § (1) bekezdése a következő 48. ponttal egészül ki:
-
-[E törvény alkalmazásában]
-
-„48. önkormányzati feladatellátás: önkormányzati feladatot lát el a helyi önkormányzat, az önkormányzati társulás, a többcélú kistérségi társulás fenntartásában működő nevelési-oktatási intézmény, továbbá az a nem állami, nem helyi önkormányzati fenntartású – ide nem értve az országos kisebbségi önkormányzati fenntartású, a nemzeti és etnikai kisebbségek jogairól szóló 1993. évi LXXVII. törvény 47. § (4) bekezdése szerint az országos kisebbségi önkormányzat által átvett nevelési oktatási intézményt az átvétel időtartama alatt – nevelési-oktatási intézmény, amely a 81. § (1) bekezdése e) pontja szerinti közoktatási megállapodás keretében közreműködik a helyi önkormányzat kötelező feladatának ellátásában, illetve a 81. § (11) bekezdésében meghatározott esetben a fenntartó egyoldalú nyilatkozatát a települési önkormányzathoz eljuttatta, vagy az oktatásért felelős miniszterrel közoktatási megállapodást kötött.”
+(2)–(4)
 
 ### 1–4. melléklet a 2011. évi CCIV. törvényhez
