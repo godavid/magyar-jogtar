@@ -736,4 +736,4 @@ b) tartózkodni minden olyan cselekménytől vagy tevékenységtől, amely össz
 
 8–10. §
 
-11. § Hatályát veszti e törvény 6. és 7. §-a.
+11. §

@@ -22,13 +22,7 @@ a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról 
 
 15–24. §
 
-25. § A Hszt. a következő 264/G. §-sal egészül ki:
-
-„264/G. § (1) A szenior állomány tagja – beleegyezése nélkül – szolgálatát közfoglalkoztatás szervezésére, irányítására és végrehajtására irányuló feladatok ellátására létrehozott közigazgatási szervnél is teljesítheti. A vezénylés esetén a lakóhely és a vezénylés szerinti szolgálatteljesítési hely között a tömegközlekedési eszközzel történő oda- és visszautazás időtartama a két órát – ha a vezénylést megelőzően a lakóhely és a szolgálatteljesítési hely közötti oda- és visszautazás két óránál hosszabb időt vett igénybe, akkor ezt az időtartamot – nem haladhatja meg.
-
-(2) Az (1) bekezdésben meghatározott szervnél történő szolgálat határozott ideig, de legfeljebb két évig tart, amely időtartam a szenior állomány tagjának beleegyezésével határozatlan időre meghosszabbítható.
-
-(3) Az (1) és (2) bekezdés szerinti vezénylésre a 43. § rendelkezései azzal az eltéréssel alkalmazhatók, hogy a szenior állomány vezényelt tagjának illetményére, munkaidejére, foglalkoztatási feltételeire a 264/C–264/F. § rendelkezéseit kell alkalmazni.”
+25. §
 
 26–28. §
 

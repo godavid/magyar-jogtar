@@ -18,7 +18,7 @@ a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogá
 
 64. § (1)–(3)
 
-(4) Hatályát veszti a Hft. 34/K. §-a.
+(4)
 
 65–67. §
 

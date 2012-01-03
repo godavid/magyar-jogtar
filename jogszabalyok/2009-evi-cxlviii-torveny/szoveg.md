@@ -74,7 +74,7 @@ a pénzügyi közvetítőrendszer felügyeletének hatékonyabbá tételéhez sz
 
 (7)
 
-(8) A (3) bekezdés 2012. január 2-án hatályát veszti. Ez a bekezdés 2012. január 3-án hatályát veszti.
+(8)
 
 85. § (1) Az Fgytv.-nek, a Psztv.-nek, az Fttv.-nek és a Grt.-nek az e törvénnyel
 
