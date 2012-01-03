@@ -192,7 +192,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 (3) A 14. § (1) bekezdés f) pontja 2014. január 1-jén lép hatályba.
 
-(4) A 15. § a hatálybalépést követő napon hatályát veszti.
+(4)
 
 ### 1. melléklet a 2011. évi LXXVII. törvényhez
 
