@@ -736,7 +736,9 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 - b) a Civil Információs Portál, a Civil Információs Centrumok hálózata, illetve a támogatások összehangolását szolgáló monitoringrendszer működtetésének és az e törvényben meghatározott adatok honlapon történő közzétételének részletes szabályait,
 - c) a Tanács és a kollégium létesítésére, működésére, valamint az összeférhetetlenségre és a nyilvánosságra hozatalra vonatkozó részletes eljárási szabályokat,
 - d) az Alap testületeinek tevékenységével és az Alap működésével kapcsolatos beszámolók tartalmi elemeit, a beszámolás rendjét,
-- e) a Tanács tagjának és a kollégium tagjának járó költségátalány és a költségtérítése elszámolásának szabályait az államháztartásért felelős miniszterrel egyetértésben, rendeletben szabályozza.
+- e) a Tanács tagjának és a kollégium tagjának járó költségátalány és a költségtérítése elszámolásának szabályait az államháztartásért felelős miniszterrel egyetértésben,
+
+rendeletben szabályozza.
 
 #### 24. Hatálybalépés
 
@@ -793,13 +795,13 @@ való megfelelést szolgálja.
 
 #### 77–79. §
 
-80. § A Büntető Törvénykönyvről szóló 1978. évi IV. törvény
+#### 80. §
 
-- a)–d)
-- e) 256/A. § (2) bekezdés a)–b) pontjában a „társadalmi szervezet” szövegrész helyébe az „egyesület” szöveg,
-- f)
+a)–d)
 
-lép.
+e)
+
+f)
 
 #### 81–189. §
 
