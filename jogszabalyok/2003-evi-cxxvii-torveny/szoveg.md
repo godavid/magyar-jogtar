@@ -3041,6 +3041,8 @@ a megtérítés időpontjáig eltelt időre számított mindenkori jegybanki ala
 
 (3) Az alkalmazott által munkakörében elkövetett cselekmény után a jövedéki bírságot a munkáltató köteles megfizetni.
 
+(4) Jövedéki jogsértés miatt nem alkalmazhatóak az e fejezetben meghatározott jogkövetkezmények a rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálatot lefolytató személlyel szemben, ha a jogsértést meghatározott feladata ellátása során, ügyész előzetes jóváhagyásával követi el és a jogsértés elkövetése bűnfelderítési érdeket szolgál.
+
 ## ÖTÖDIK RÉSZ — ZÁRÓ, HATÁLYBA LÉPTETŐ ÉS ÁTMENETI RENDELKEZÉSEK
 
 ### XVIII. Fejezet — ZÁRÓ RENDELKEZÉS

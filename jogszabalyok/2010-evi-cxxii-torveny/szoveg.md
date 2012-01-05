@@ -1058,7 +1058,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - e) a külpolitikáért felelős miniszter által irányított minisztérium illetékes szerve,
 - f) a honvédelmi igazgatás illetékes szerve,
 - g) a NAV-nak az adóztatási szerve és vámszerve az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
-- h) a törvényben meghatározott más szervezet, személy.
+- h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv.
 
 (3) Az adatszolgáltatást kérő szervek felelősek a (2) bekezdés alapján átvett adatoknak e törvény szerinti kezeléséért. Az ilyen adatfelhasználást kötelesek kimutatni, illetve nyilvántartani.
 

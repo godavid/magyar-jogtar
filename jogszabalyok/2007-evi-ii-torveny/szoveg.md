@@ -1383,7 +1383,7 @@ részére továbbíthat adatot.
 - f) az egyéni vállalkozók nyilvántartásából és
 - g) a közegészségügyi hatóságtól.
 
-(5) Ha a harmadik országbeli állampolgár megszerezte a magyar állampolgárságot, a rá vonatkozó adatokat haladéktalanul törölni kell az idegenrendészeti résznyilvántartásokból.
+(5)
 
 107. § (1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból külföldi bűnüldöző, határőrizeti, idegenrendészeti és igazságszolgáltatási szervnek, nemzetközi szervezetnek, illetve közvetlenül alkalmazandó közösségi jogi aktussal létrehozott közösségi szervnek közvetlenül alkalmazandó közösségi jogi aktus vagy nemzetközi szerződés alapján – az azokban meghatározott adatkörben – továbbíthat adatot.
 

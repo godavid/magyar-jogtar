@@ -729,7 +729,7 @@ meghosszabbítása
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
 
-(3) Ha az EGT-állampolgár vagy családtagja megszerezte a magyar állampolgárságot, a rá vonatkozó adatokat haladéktalanul törölni kell az EGT-állampolgárok és a családtagok adatairól vezetett résznyilvántartásokból.
+(3)
 
 76. § A tartózkodási jogot igazoló okmányokkal kapcsolatos, a 75. § (1) bekezdésének a)–c) pontja szerinti résznyilvántartások az érintettek tartózkodási jogot igazoló okmányával kapcsolatos következő adatokat tartalmazzák:
 

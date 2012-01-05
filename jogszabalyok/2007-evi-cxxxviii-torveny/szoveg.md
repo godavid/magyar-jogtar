@@ -2229,7 +2229,7 @@ személy vagy bármely más személy, aki valamilyen módon birtokába jutott, a
 - f) Gazdasági Versenyhivatallal,
 - g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, a Kormány által kijelölt belső ellenőrzési szervvel,
 - h) nemzetbiztonsági szolgálattal,
-- i)
+- i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szervvel
 
 szemben.
 
