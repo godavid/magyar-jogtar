@@ -52,6 +52,7 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - p) önkormányzati tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére létrehozott, önálló működési területtel nem rendelkező önkéntes tűzoltóság;
 - q) létesítményi tűzoltóság: tűzoltási és műszaki mentési feladatok elvégzésére, gazdálkodó szervezet által létrehozott, önálló működési területtel nem rendelkező tűzoltóság;
 - r) önkéntes tűzoltó egyesület: a székhelye szerinti településen tűzoltási műszaki mentési feladatokban közreműködő egyesület.
+- s) tűzvédelmi tervezői tevékenység: a 21. § (1) bekezdésében meghatározott tűzvédelmi dokumentáció elkészítése, a beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése.
 
 ### A tűzjelzés
 
@@ -124,7 +125,7 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 
 - a) tűzoltó készülékek karbantartása és felülvizsgálata,
 - b) tűzoltó technika felülvizsgálata, javítása, ha a szolgáltatás végzése a hivatásos katasztrófavédelmi szerv központi szerve, területi szervei, hivatásos tűzoltóságai, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technikára vonatkozó,
-- c) beépített tűzjelző berendezés vagy tűzoltó berendezés tervezése, kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata,
+- c) beépített tűzjelző berendezés vagy tűzoltó berendezés kivitelezése, karbantartása, javítása, telepítése, felülvizsgálata,
 - d) tűzátjelzés fogadása, tűzjelző vagy tűzoltó központok, valamint tűzjelző és tűzoltó központok távfelügyelete,
 - e) tűzvédelmi szakvizsgával összefüggő oktatásszervezés,
 - f) tűzvédelmi szakvizsgáztatás tevékenységet kíván folytatni, köteles az erre irányuló szándékát a tűzvédelmi hatóságnak bejelenteni. A bejelentésben – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – meg kell jelölni a bejelentő természetes személyazonosító adatait.
@@ -228,14 +229,11 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (2) Minden új tűz- vagy robbanásveszéllyel járó készülék, gép, berendezés, technológia, anyag bevezetése, illetőleg alkalmazása előtt elsődlegesen a gyártó, amennyiben az nem gondoskodott arról, akkor a forgalomba hozó köteles a tűzvédelmi rendelkezések megállapítása céljából szükséges vizsgálatokat elvégezni, illetve elvégeztetni.
 
-21. § (1) Minden építészeti-műszaki tervdokumentáció része a tűzvédelmi dokumentáció, amely tartalmazza törvény és annak végrehajtási rendeletében előírt tűzvédelmi követelményeknek való megfelelés dokumentálását tervekkel és műszaki leírásokkal.
+21. § (1) Jogszabályban meghatározott esetben az építészeti-műszaki tervdokumentáció része a tűzvédelmi dokumentáció, amely tartalmazza törvény és annak végrehajtási rendeletében előírt tűzvédelmi követelményeknek való megfelelés dokumentálását tervekkel és műszaki leírásokkal.
 
-(2) Az építészeti-műszaki dokumentáció részét képező tűzvédelmi dokumentációt csak az a természetes személy készíthet, aki rendelkezik a névjegyzéket vezető szerv engedélyével (tűzvédelmi tervezői jogosultság). A névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
+(2) Az (1) bekezdésben meghatározott tűzvédelmi dokumentációt csak az a természetes személy készítheti, aki tűzvédelmi szakértő, vagy tűzvédelmi tervezői jogosultsággal rendelkezik.
 
-(3) A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki
-
-- a) büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja, vagy
-- b) a szakterületnek megfelelő tűzvédelmi szakértő (építmények tűzvédelme, vagy építész-, vagy elektromos-, vagy gépész-, vagy vegyipari-, vagy olajipari-, vagy gázipari tűzvédelmi szakértő) jogosultsággal rendelkezik.
+(3) A tűzvédelmi tervezői jogosultság a tűzvédelmi tervezői névjegyzéket vezető szerv engedélyével gyakorolható. A tűzvédelmi tervezői tevékenység folytatása annak engedélyezhető, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek, és a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki vagy építész kamarának a tagja. A tűzvédelmi tervezői névjegyzéket vezető szerv az engedély megadásával egyidejűleg névjegyzékbe veszi a jogosultságot szerzett természetes személyt.
 
 (4) A tűzvédelmi tervezői tevékenység engedélyezése iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, valamint nem áll a tűzvédelmi tervezői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
@@ -581,6 +579,12 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - a) a tűzvédelmi szakértői tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
 - b) a tűzvédelmi szakértő nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
+46/C. § (1) A 2011. december 31. napján működő önkéntes tűzoltóságok működési feltételeit a 2011. december 31. napján hatályos szabályok szerint a 34. § (1) bekezdésében foglalt feltételek teljesítéséig, de legfeljebb 2012. április 30. napjáig kell biztosítani.
+
+(2) A hivatásos katasztrófavédelmi szervezet kialakítása kapcsán 2012. január 1-től az önállóan működő hivatásos tűzoltóságok költségvetési előirányzatokkal, kincstári számlával nem rendelkeznek, kincstári és elemi költségvetést, továbbá elemi költségvetési beszámolót nem készítenek. A működési és fenntartatási előirányzataikat a területileg illetékes megyei hivatásos katasztrófavédelmi szervek költségvetése tartalmazza.
+
+(3) katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 84. § (2)–(5) bekezdés rendelkezéseinek végrehajtása során az önkormányzati vagyon a törvényben meghatározott szervezetre a törvény erejénél fogva száll át. Az önkormányzati tulajdonból állami tulajdonba kerülő vagyonelemek bekerülési értéke megegyezik az adott vagyonelemekre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel. A törvény alapján állami tulajdonba kerülő vagyon vagyonkezelője az állami tulajdon keletkezésével egyidejűleg e törvény erejénél fogva a hivatásos katasztrófavédelmi szerv központi szerve, amelynek vagyonkezelői jogviszonyára a továbbiakban az MNV Zrt. által kötött vagyonkezelési szerződésekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni. A törvény alapján bejegyzésre kerülő vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzésére irányuló eljárás díj- és illetékmentes.
+
 47. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:
 
 - a) a tűzvédelmi hatósági feladatokat ellátó szervezeteket, továbbá a tűzvédelmi hatóság tevékenységének részletes szabályait;
@@ -630,7 +634,8 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - a) a tűzoltóságok és a Magyar Honvédség tűzvédelmi szerveinek együttműködési rendjét a honvédelemért felelős miniszterrel,
 - b) az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
 - c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel,
-- d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatás szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+- d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatás szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel
+- e) a tűzvédelmi tervezői tevékenység engedélyezési eljárásáért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 48. § (1) Ez a törvény a kihirdetését követő 90. napon lép hatályba. A törvény 44. §-ának rendelkezését 1997. január 1-jétől kell alkalmazni.
 

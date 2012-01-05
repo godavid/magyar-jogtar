@@ -412,7 +412,7 @@ keletkeztet ellenőrzéssel lezárt időszakot.
 - a) megkeresésre a bíróságot az igazságszolgáltatás gyakorlása céljából,
 - b) az ügyészt, valamint a megkeresés célja szerint indokolt adatok tekintetében a nyomozó hatóságot, a bűncselekmények megelőzése, felderítése, a büntetőeljárás megindítása vagy lefolytatása céljából,
 - c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés céljából,
-- d)
+- d) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervet a törvényben meghatározott feladatai ellátása érdekében, az abban kapott felhatalmazás körében,
 - e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, továbbá az Európai Csalásellenes Hivatalt (OLAF), az általuk végzett ellenőrzés céljából,
 - f) a közös agrárpolitika végrehajtásából adódó ellenőrzési és nyilvántartási feladatok ellátása céljából a mezőgazdasági és vidékfejlesztési támogatási szervet,
 - g) a piacfelügyeleti/fogyasztóvédelmi feladatok ellátása céljából a fogyasztóvédelmi hatóságot,

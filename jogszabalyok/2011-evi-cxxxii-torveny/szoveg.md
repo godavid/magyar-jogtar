@@ -304,6 +304,8 @@ kezeli.
 - b) az Egyetemre történő felvétel különös feltételeit, valamint
 - c) a külföldi hallgatók Egyetemre történő felvételének, jogállásának és tanulmányainak részletes szabályait.
 
+(3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Egyetemen rendészeti képzésben résztvevő hallgatók ruházati ellátási normáit és az ellátás rendjét rendeletben határozza meg.
+
 #### 4. Hatálybalépés
 
 45. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
@@ -340,14 +342,13 @@ kezeli.
 
 55. § A
 
-- a) –
-- b)
+- a)–b)
 - c)
 - d)
 
 #### 7. Hatályon kívül helyező rendelkezések
 
-56. §
+56. § (1)
 
 (2)
 
