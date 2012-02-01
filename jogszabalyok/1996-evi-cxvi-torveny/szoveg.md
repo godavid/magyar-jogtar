@@ -314,7 +314,7 @@ vagy bűnszervezet keretében elkövetett bűntett miatt a bíróság elítélt,
 
 15. § (1) Az engedély, valamint a nukleáris biztonsági szabályzatok előírásainak megtartását, és az atomenergia alkalmazásának biztonságosságát az atomenergia-felügyeleti szerv köteles rendszeresen ellenőrizni, és az észlelt rendellenességek megszüntetése érdekében haladéktalanul intézkedni, vagy intézkedést kezdeményezni.
 
-(2) Az atomenergia-felügyeleti szerv az e törvény vagy az e törvény végrehajtására kiadott jogszabály megsértése, valamint az e törvény vagy az e törvény végrehajtására kiadott jogszabály alapján kiadott határozatában foglaltak betartásának elmulasztása esetén az engedélyest, továbbá a 17. § (2) bekezdés 20–22. pontja szerinti, az atomenergia-felügyeleti szerv hatáskörébe tartozó ügyekben adatszolgáltatásra kötelezettet bírság megfizetésére kötelezi.
+(2) Az atomenergia-felügyeleti szerv az e törvény vagy az e törvény végrehajtására kiadott jogszabály megsértése, valamint az e törvény vagy az e törvény végrehajtására kiadott jogszabály alapján kiadott határozatában foglaltak betartásának elmulasztása esetén az engedélyest, továbbá a 17. § (2) bekezdés 20–22. pontja szerinti, az atomenergia-felügyeleti szerv hatáskörébe tartozó ügyekben adatszolgáltatásra kötelezettet bírság megfizetésére kötelezheti.
 
 (3) Nem szabható ki bírság a mulasztásnak vagy kötelezettségszegésnek a hatóság tudomására jutásától számított egy éven, valamint attól a naptól számított öt éven túl, amely napon a kötelezettnek eleget kellett volna tennie az e törvényben vagy az e törvény végrehajtására kiadott jogszabályban megállapított kötelezettségének.
 

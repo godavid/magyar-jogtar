@@ -1234,7 +1234,7 @@ büntetés mellett szabható ki.
   - f) az egészségügyről szóló törvényben meghatározott esetben az egészségügyi dolgozó, valamint az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy,
   - g) a közoktatásról szóló törvényben meghatározott esetben a pedagógus, illetőleg a nevelő és oktató munkát közvetlenül segítő alkalmazott, valamint a felsőoktatásról szóló törvényben meghatározott esetben a felsőoktatási intézmény oktatója, tanára, tudományos kutatója,
   - h) az állami, önkormányzati, önkéntes és létesítményi tűzoltóság, valamint a tűzoltó egyesület tűzoltói feladatot ellátó tagja,
-  - i) a polgárőr a polgárőrségről szóló törvényben meghatározott feladatok ellátásával kapcsolatban,
+  - i) a polgárőr a polgárőrségről és a polgárőri tevékenység szabályairól szóló törvényben meghatározott feladatok ellátásával kapcsolatban,
   - j) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint nyilvántartásba vett egyház lelkésze,
   - k) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben, valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személy e tevékenysége gyakorlása során,
   - l) az erdészeti szakszemélyzet az erdőben, az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton végzett erdőőrzési tevékenységével, valamint a jogellenes cselekmény hatóságnak történő bejelentésével kapcsolatban,
@@ -2369,7 +2369,7 @@ tisztasága elleni bűncselekmények
 - a) olyan, a közbiztonság, közrend fenntartására irányuló tevékenységet szervez, amelyre jogszabály nem jogosítja fel, vagy
 - b) a közbiztonság, közrend fenntartásának látszatát keltő tevékenységet szervez, vétséget követ el, és két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Az (1) bekezdés szerint büntetendő az is, aki a helyi polgárőr szervezet tagjának a polgárőrségről szóló törvényben meghatározott feladatai ellátását úgy szervezi meg, hogy a helyi polgárőr szervezet a polgárőrségről szóló törvényben meghatározott együttműködési kötelezettségét nem teljesíti.
+(2)
 
 ### Embercsempészés
 

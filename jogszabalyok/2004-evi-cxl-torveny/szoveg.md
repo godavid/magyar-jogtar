@@ -22,7 +22,7 @@ a következő törvényt alkotja:
 
 1. § (1) A közigazgatási hatóság az eljárása során köteles megtartani és másokkal is megtartatni a jogszabályok rendelkezéseit. Hatáskörét a jogszabályokban előírt célok megvalósítása érdekében, mérlegelési és méltányossági jogkörét a jogalkotó által meghatározott szempontok figyelembevételével és az adott ügy egyedi sajátosságaira tekintettel gyakorolja.
 
-(2) A közigazgatási hatóság a hatáskörének gyakorlásával nem élhet vissza, hatásköre gyakorlása során a szakszerűség, az egyszerűség és az ügyféllel való együttműködés követelményeinek megfelelően köteles eljárni.
+(2) A közigazgatási hatóság a hatáskörének gyakorlásával nem élhet vissza, hatásköre gyakorlása során a szakszerűség, az egyszerűség és az ügyféllel való együttműködés követelményeinek megfelelően köteles eljárni. A hatóság ügyintézője jóhiszeműen, továbbá a jogszabály keretei között az ügyfél jogát és jogos – ideértve gazdasági – érdekét szem előtt tartva jár el.
 
 (3) A közigazgatási hatóság az ügyfél jogát és jogos érdekét csak a közérdek és az ellenérdekű ügyfél jogának, jogos érdekének védelméhez szükséges mértékben korlátozza.
 
@@ -38,14 +38,14 @@ a következő törvényt alkotja:
 
 (2) A közigazgatási hatóság:
 
-- a) a kizárólag kérelemre indítható eljárások kivételével hivatalból eljárást indíthat, illetve a kérelemre indult eljárást jogszabályban meghatározott feltételek fennállása esetén folytathatja, és ilyen esetben a végrehajtást is hivatalból rendeli el,
+- a) a kizárólag kérelemre indítható eljárások kivételével hivatalból eljárást indíthat, illetve a kérelemre indult eljárást jogszabályban meghatározott feltételek fennállása esetén folytathatja, és ilyen esetben a végrehajtást is hivatalból indítja meg,
 - b) hivatalból állapítja meg a tényállást, határozza meg a bizonyítás módját és terjedelmét, ennek során nincs kötve az ügyfelek bizonyítási indítványaihoz, ugyanakkor a tényállás tisztázása során minden, az ügy szempontjából fontos körülményt figyelembe kell vennie,
 - c) e törvény keretei között felülvizsgálhatja mind a saját, mind a felügyeleti jogkörébe tartozó hatóság végzését és határozatát (a továbbiakban együtt: döntését),
 - d) hivatalból intézkedhet a döntésének kijavításáról, kiegészítéséről, módosításáról és visszavonásáról.
 
 4. § (1) Az ügyfeleket megilleti a tisztességes ügyintézéshez, a jogszabályokban meghatározott határidőben hozott döntéshez való jog és az eljárás során az anyanyelv használatának joga.
 
-(2) A közigazgatási hatóság a nem jogszabályszerű eljárással az ügyfélnek okozott kárt a polgári jog szabályai szerint megtéríti.
+(2) A közigazgatási hatóság a nem jogszabályszerű eljárással okozott kárt a polgári jog szabályai szerint megtéríti.
 
 (3)
 
@@ -118,11 +118,11 @@ a következő törvényt alkotja:
 - a) az iparjogvédelmi és a szerzői jogi eljárásokban,
 - b) az államháztartás javára teljesítendő, törvényben meghatározott, illetve a Közösségek költségvetésével megosztásra kerülő kötelező befizetésekkel és a központi költségvetés, valamint az elkülönített állami pénzalap terhére jogszabály alapján juttatott támogatással összefüggő eljárásokban,
 - c) a szabad mozgás és tartózkodás jogával rendelkező személyek és a harmadik országbeli állampolgárok beutazásával és tartózkodásával kapcsolatos eljárásokban, valamint a menedékjogi eljárásban,
-- d) a termékek és a szolgáltatások forgalmazására, illetve értékesítésére, valamint az ezekkel összefüggő kereskedelmi gyakorlatokra vonatkozó követelmények ellenőrzésével, illetve a piacszabályozással kapcsolatos eljárásokban, ideértve a gyógyszerek, gyógyászati segédeszközök társadalombiztosítási támogatásával kapcsolatos eljárást is,
-- e) a pénz- és tőkepiaci, a biztosítási, az önkéntes kölcsönös biztosító pénztári és a magán-nyugdíjpénztári tevékenység felügyeletével kapcsolatos eljárásban, valamint a versenyfelügyeleti és bejelentési eljárásban,
-- f)
+- d) a termékek és a szolgáltatások forgalmazására, illetve értékesítésére, valamint az ezekkel összefüggő kereskedelmi gyakorlatokra vonatkozó követelmények ellenőrzésével, illetve a piacszabályozással kapcsolatos eljárásokban, ideértve a gyógyszerek, gyógyászati segédeszközök és egészségügyi technológiák társadalombiztosítási támogatásával kapcsolatos eljárást is,
+- e) a pénz- és tőkepiaci, a biztosítási, az önkéntes kölcsönös biztosító pénztári és a magán-nyugdíjpénztári tevékenység felügyeletével kapcsolatos eljárásban, valamint a versenyfelügyeleti eljárásban,
+- f) az audiovizuális médiaszolgáltatás nyújtására és a sajtótermék kiadására irányuló tevékenység felügyeletével, a média- és hírközlési igazgatással, az elektronikus hírközlési szolgáltatások, tevékenységek, az audiovizuális médiaszolgáltatások és a sajtótermékek piaci felügyeletével, piacszabályozásával, ellenőrzésével, valamint a mozgóképszakmai igazgatással kapcsolatos eljárásban,
 - g) az atomenergia alkalmazási körébe tartozó ügyekben,
-  - ga) az audiovizuális médiaszolgáltatás nyújtására és a sajtótermék kiadására irányuló tevékenység felügyeletével, a média- és hírközlési igazgatással, az elektronikus hírközlési szolgáltatások, tevékenységek, az audiovizuális médiaszolgáltatások és a sajtótermékek piaci felügyeletével, piacszabályozásával, ellenőrzésével, valamint a mozgóképszakmai igazgatással kapcsolatos eljárásban,
+  - ga)
 - h) a veszélyes létesítményekkel kapcsolatos eljárásban, valamint
 - i) a társadalombiztosítás ellátásaival, a korhatár előtti ellátással, a szolgálati járandósággal, a balettművészeti életjáradékkal és az átmeneti bányászjáradékkal kapcsolatos eljárásban,
 - j) az adatvédelmi és titokfelügyeleti hatósági eljárásban,
@@ -157,7 +157,8 @@ eljárásban.
 - b) a kézbesítésre,
 - c) az ügyfél tájékoztatására,
 - d) a hatáskörre, az illetékességre,
-- e) a szakhatóság közreműködésére.
+- e) a szakhatóság közreműködésére,
+- f) a fellebbezésre tekintet nélkül végrehajthatóvá nyilvánításra.
 
 ### Ügyfél
 
@@ -169,11 +170,13 @@ eljárásban.
 
 (4) Az ügyfél jogai megilletik az ügy elbírálásában hatóságként vagy szakhatóságként részt nem vevő szervet is, amelynek feladatkörét az ügy érinti.
 
-(5) Meghatározott ügyekben törvény az ügyfél jogaival ruházhatja fel az érdekvédelmi szervezeteket és azokat a társadalmi szervezeteket, amelyeknek a nyilvántartásba vett tevékenysége valamely alapvető jog védelmére vagy valamilyen közérdek érvényre juttatására irányul.
+(5) Meghatározott ügyekben jogszabály ügyféli jogosultságokat, illetve ügyféli jogállást biztosíthat azoknak a civil szervezeteknek, amelyeknek a nyilvántartásba vett tevékenysége valamely alapvető jog védelmére vagy valamilyen közérdek érvényre juttatására irányul.
+
+(5a) A hatósági eljárásban azokat a civil szervezeteket, amelyeknek a nyilvántartásba vett tevékenysége valamely alapvető jog védelmére vagy valamilyen közérdek érvényre juttatására irányul, az eljárás során megilleti a nyilatkozattételi jog. A nyilatkozat az eljáró hatóságot nem köti.
 
 (6) Az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogainak gyakorlását törvény ahhoz a feltételhez kötheti, hogy az ügyfél az első fokú eljárásban nyilatkozatot tesz vagy kérelmet nyújt be.
 
-(7) A természetes személy ügyfélnek akkor van eljárási képessége, ha a polgári jog szabályai szerint cselekvőképességgel rendelkezik. Jogszabályban meghatározott esetben a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség. Az eljáró hatóság hivatalból vizsgálja az eljárási képesség meglétét, és ha annak hiányát állapítja meg, úgy az ügyfél helyett törvényes képviselőjét vonja be az eljárásba, illetve ügygondnok kirendelését kéri.
+(7) A természetes személy ügyfélnek akkor van eljárási képessége, ha a polgári jog szabályai szerint cselekvőképességgel rendelkezik. Jogszabályban meghatározott esetben a korlátozott cselekvőképességgel rendelkező személyt is megilleti az eljárási képesség. Ha eziránt kétség merül fel, az eljáró hatóság hivatalból vizsgálja az eljárási képesség meglétét, és ha annak hiányát állapítja meg, úgy az ügyfél helyett törvényes képviselőjét vonja be az eljárásba, illetve ügygondnok kirendelését kéri.
 
 (8) Az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzés ellen önálló fellebbezésnek van helye.
 
@@ -181,7 +184,7 @@ eljárásban.
 
 16. § (1) Ha jogszabály másként nem rendelkezik, vagy ha a hatósági ügy személyes jellege vagy a kötelezettség tartalma nem zárja ki, a polgári jog szerinti jogutódja lép
 
-- a) hivatalból indított vagy folytatott eljárásban a kieső ügyfél vagy
+- a) hivatalból indított eljárásban a kieső ügyfél vagy
 - b) kérelemre indult eljárásban – az eljárás megindítására irányuló kérelmet benyújtó ügyfelet kivéve – a kieső ügyfél
 
 helyébe.
@@ -224,11 +227,15 @@ kezelésére.
 
 (6) Az adat védelmére vonatkozó szabályok megtartása nem vezethet a jogorvoslathoz való jog korlátozásához.
 
+(7) A hatóság eljárásának jogerős befejezését követően az eljárása során megismert és kezelt személyes adatokat zárolja. A hatóság a zárolt személyes adatokat az eljárás tárgyát képező ügy iratainak selejtezéséig vagy levéltári őrizetbe adásáig tárolja, azokat kizárólag a jogerős döntésének végrehajtása, a jogerős döntésében foglaltak ellenőrzése vagy a jogerős döntésével összefüggő jogorvoslat vagy döntés-felülvizsgálat céljából kezelheti, és kizárólag e személyes adatok kezelésére jogosult más szerv vagy személy részére továbbíthatja.
+
+(8) Törvény a (7) bekezdésben meghatározottnál rövidebb adatkezelési időtartamot is megállapíthat.
+
 ### II. Fejezet — JOGHATÓSÁG, HATÁSKÖR, ILLETÉKESSÉG
 
 ### Joghatóság
 
-18. § (1) Magyar állampolgár, Magyarországon nyilvántartásba vett jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél hatósági ügyében – ha törvény eltérően nem rendelkezik – Magyarország területén a magyar hatóság jár el.
+18. § (1) Magyar állampolgár, Magyarországon nyilvántartásba vett jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél hatósági ügyében – ha jogszabály eltérően nem rendelkezik – Magyarország területén a magyar hatóság jár el.
 
 (2) Ha az ügyfél nem magyar állampolgár, illetve külföldön nyilvántartásba vett jogi személy vagy jogi személyiséggel nem rendelkező szervezet, akkor hatósági ügyében – ha jogszabály eltérően nem rendelkezik – Magyarország területén magyar hatóság jár el, feltéve, hogy az eljárásban az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusát vagy magyar jogszabályt kell alkalmazni.
 
@@ -236,9 +243,9 @@ kezelésére.
 
 ### A hatáskör megállapítása és az eljárási kötelezettség
 
-19. § (1) A hatóság hatáskörét – a hatósági eljárás körébe tartozó ügyfajta meghatározásával – jogszabály állapítja meg. Törvény eltérő rendelkezése hiányában jogszabály a hatóság szervezeti egységére hatáskört nem telepíthet. Jogszabályban kell megjelölni az elsőfokú, továbbá ha az nem a 106. és 107. §-ban megjelölt hatóság, a fellebbezés elbírálására jogosult hatóságot.
+19. § (1) A hatóság hatáskörét – a hatósági eljárás körébe tartozó ügyfajta meghatározásával – jogszabály állapítja meg. Jogszabályban kell megjelölni az elsőfokú, továbbá ha az nem a 106. és 107. §-ban megjelölt hatóság, a fellebbezés elbírálására jogosult hatóságot.
 
-(2) Önkormányzati hatósági ügyben első fokon a képviselő-testület, törvény rendelkezése alapján a polgármester jár el. A képviselő-testület ezt a hatáskörét önkormányzati rendeletben a polgármesterre, a képviselő-testület bizottságára vagy törvényben meghatározottak szerint létrehozott társulásra ruházhatja át.
+(2) Önkormányzati hatósági ügyben első fokon a képviselő-testület, törvény rendelkezése alapján a polgármester jár el. A képviselő-testület ezt a hatáskörét önkormányzati rendeletben a polgármesterre, a képviselő-testület bizottságára vagy társulásra ruházhatja át.
 
 (3) A hatóság a hatáskörét vagy annak gyakorlását más hatóságra nem ruházhatja át, kivéve, ha törvény a hatáskör törvényben meghatározott esetben, az ott meghatározott másik hatóságra való átruházását kivételesen lehetővé teszi. Nem minősül a hatáskör átruházásának, ha a hatáskör gyakorlója kiadmányozási jogát jogszerűen átengedte.
 
@@ -248,13 +255,13 @@ kezelésére.
 
 20. § (1) A hatóság a hatáskörébe tartozó ügyben illetékességi területén, valamint kijelölés alapján köteles eljárni.
 
-(2) Ha a hatóság eljárási kötelességének a rá irányadó ügyintézési határidőn belül nem tesz eleget, a felügyeleti szerv az erre irányuló kérelem megérkezésétől vagy a hivatalos tudomásszerzéstől számított nyolc napon belül kivizsgálja a mulasztás okát, és – az ügyfajtára irányadó ügyintézési határidő és a döntés-előkészítés fokának figyelembevételével megállapított – határidő tűzésével a mulasztó hatóságot az eljárás lefolytatására utasítja. Nincs helye az eljárás lefolytatására történő utasításnak, ha a 71. § (2) bekezdés alkalmazásának van helye.
+(2) Ha a hatóság eljárási kötelességének a rá irányadó ügyintézési határidőn belül nem tesz eleget, a felügyeleti szerv az erre irányuló kérelem megérkezésétől vagy a hivatalos tudomásszerzéstől számított nyolc napon belül kivizsgálja a mulasztás okát, és a mulasztó hatóságot az eljárás soron kívüli lefolytatására utasítja. Nincs helye az eljárás lefolytatására történő utasításnak, ha a 71. § (2) bekezdés alkalmazásának van helye.
 
-(3) Ha a felügyeleti szerv által megállapított újabb határidő eredménytelenül telt el, a felügyeleti szerv az eljárásra haladéktalanul – a (4) és (5) bekezdésben foglalt kivétellel – a mulasztóval azonos hatáskörű másik hatóságot jelöl ki, egyidejűleg a mulasztó hatóság vezetője ellen fegyelmi eljárást kezdeményez. A kezdeményezés alapján a fegyelmi eljárás megindítása kötelező. A kijelölt hatóság az ügyben irányadó ügyintézési határidőn belül köteles döntést hozni.
+(3) Ha a felügyeleti szerv által megállapított újabb határidő eredménytelenül telt el, a felügyeleti szerv az eljárásra haladéktalanul – a (4) és (5) bekezdésben foglalt kivétellel – a mulasztóval azonos hatáskörű másik hatóságot jelöl ki, egyidejűleg a mulasztó hatóság vezetője ellen fegyelmi eljárást kezdeményez. A kezdeményezés alapján a fegyelmi eljárás megindítása kötelező. A kijelölt hatóság soron kívül köteles döntést hozni.
 
-(4) Az ismételten mulasztó hatóságtól az ügy nem vonható el, és az eljárásra más hatóság nem jelölhető ki, ha a hatóság hatásköre hatósági igazolvány vagy hatósági bizonyítvány kiadására, hatósági nyilvántartás vezetésére terjed ki, ha jogszabály alapján hatásköre kizárólagos, vagy ha belföldi jogsegély iránti megkeresés alapján kell eljárnia. A hatóság legkésőbb a felhívástól számított tizenöt napon belül köteles eleget tenni elmulasztott kötelezettségének.
+(4) Az ismételten mulasztó hatóságtól az ügy nem vonható el, és az eljárásra más hatóság nem jelölhető ki, ha a hatóság hatásköre hatósági igazolvány vagy hatósági bizonyítvány kiadására, hatósági nyilvántartás vezetésére terjed ki, vagy ha hatásköre kizárólagos. A hatóság legkésőbb a felügyeleti szerv utasításától számított tizenöt napon belül köteles eleget tenni elmulasztott kötelezettségének. A felügyeleti szerv az utasítással egyidejűleg fegyelmi eljárást kezdeményez a mulasztó hatóság vezetője ellen, amely kezdeményezés alapján a fegyelmi eljárás megindítása kötelező.
 
-(5) Ha a képviselő-testület, a polgármester, a bizottság, a társulás (a továbbiakban együtt: önkormányzati hatóság) önkormányzati hatósági ügyben eljárási kötelezettségét elmulasztotta, az ügyfél kérelmére vagy hivatalból a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv felhívja a mulasztó tisztségviselőt vagy testületet, hogy soron kívül, illetve a testület legközelebbi ülésén, de legkésőbb harminc napon belül folytassa le az eljárást.
+(5) Ha a képviselő-testület, a polgármester, a bizottság, a társulás (a továbbiakban együtt: önkormányzati hatóság) önkormányzati hatósági ügyben eljárási kötelezettségét elmulasztotta, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv felhívja a mulasztó tisztségviselőt vagy testületet, hogy soron kívül, de legkésőbb harminc napon belül folytassa le az eljárást.
 
 (6) Az (5) bekezdés alapján az önkormányzati hatósághoz intézett felhívás eredménytelensége esetén az ügyfél vagy a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv, továbbá ha az adott ügyben nincs felügyeleti szerv, vagy a felügyeleti szerv az intézkedési, eljárási kötelezettségének nem tesz eleget, az ügyfél kérelmére a közigazgatási ügyekben eljáró bíróság kötelezi a hatóságot az eljárás lefolytatására.
 
@@ -303,7 +310,7 @@ kezelésére.
 - b) több hatóság állapította meg hatáskörének és illetékességének hiányát, és emiatt az eljárás nem indulhat meg vagy nincs folyamatban,
 - c) több illetékes hatóság előtt indult az eljárás, és a megelőzés alapján nem lehet eldönteni, hogy melyik hatóság jogosult az eljárásra,
 
-az érdekelt hatóságok kötelesek egymás között hivatalból vagy kérelemre megkísérelni a vita eldöntését.
+az érdekelt hatóságok kötelesek egymás között megkísérelni a vita eldöntését.
 
 (2) Az egyeztetést annak a hatóságnak kell kezdeményeznie, amelyiknél az eljárás később indult meg, amelyik hatáskörének és illetékességének hiányát később állapította meg, vagy amelyik hatóságnál az ügyfél az egyeztetés lefolytatása iránti kérelmét benyújtotta.
 
@@ -338,13 +345,26 @@ az érdekelt hatóságok kötelesek egymás között hivatalból vagy kérelemre
 
 (2) Az (1) bekezdés a) és b) pontjában meghatározott megkeresést az ügy jellegétől függően a megkereső hatósággal azonos hatáskörű illetékes hatósághoz, ennek hiányában az illetékes települési önkormányzat jegyzőjéhez kell intézni.
 
-(3) Kérelemre indult eljárásban az ügyfélnek az eljárásban szükséges személyes adatainak kezeléséhez való hozzájárulását vélelmezni kell a jogsegély teljesítése céljából, az ahhoz szükséges mértékben továbbított személyes adatok tekintetében is. Hivatalból indult vagy folytatott eljárásban a hatóság a jogszabály alapján kezelhető adatok közül a jogsegély teljesítése céljából szükséges személyes adatokat továbbíthatja a megkeresett szervhez.
+(3) Kérelemre indult eljárásban az ügyfélnek az eljárásban szükséges személyes adatainak kezeléséhez való hozzájárulását vélelmezni kell a jogsegély teljesítése céljából, az ahhoz szükséges mértékben továbbított személyes adatok tekintetében is. Hivatalból indult eljárásban a hatóság a jogszabály alapján kezelhető adatok közül a jogsegély teljesítése céljából szükséges személyes adatokat továbbíthatja a megkeresett szervhez.
 
 (4) A megkeresett szerv vagy személy csak akkor tagadhatja meg a megkeresésben foglaltak teljesítését, ha az jogszabályba ütközik. Ha a jogsegély nyújtására más szerv jogosult, a megkeresett szerv vagy személy a megkeresést haladéktalanul, de legkésőbb a megkeresés megérkezésétől számított öt napon belül e szervhez továbbítja, és erről egyidejűleg tájékoztatja a megkereső hatóságot.
 
-(5) A megkeresést az (1) bekezdés a) és b) pontjában szabályozott esetben tizenöt napon belül, az (1) bekezdés c) pontjában szabályozott esetben pedig nyolc napon belül kell teljesíteni; a megkeresett szerv vezetője ezt a határidőt annak letelte előtt indokolt esetben egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja. Ha az adat elektronikusan rögzített nyilvántartásban áll rendelkezésre, és a hatóságok közötti elektronikus kapcsolattartás nem kizárt, a megkeresést öt napon belül kell teljesíteni.
+(5) A megkeresést a belföldi jogsegélynek a megkeresett szervhez történő beérkezését követően
 
-(6) A megkeresett szerv az eljárási határidő meghosszabbításáról szóló végzését a megkereső hatósággal közli. A megkereső hatóság közli az ügyféllel a jogsegély határidejének meghosszabbításáról szóló végzést.
+- a) az (1) bekezdés a) és b) pontjában szabályozott esetben tizenöt napon belül,
+- b) az (1) bekezdés c) pontjában szabályozott esetben nyolc napon belül,
+- c) ha az tanú meghallgatására, szemle lefolytatására irányul – az a) és b) ponttól eltérően – harminc napon belül,
+- d) ha a megkeresésben kért adat elektronikusan rögzített nyilvántartásban áll rendelkezésre, és a hatóságok közötti elektronikus kapcsolattartás nem kizárt, öt napon belül
+
+kell teljesíteni.
+
+(5a) Ha a megkereső hatóság közvetlen elektronikus hozzáféréssel is rendelkezik az eljárásához szükséges adatot nyilvántartó szerv nyilvántartásához, az adatot a nyilvántartásból közvetlen lekérdezéssel szerzi meg, kivéve, ha a nyilvántartáshoz való hozzáférés üzemzavar vagy más elháríthatatlan esemény miatt az (5) bekezdés d) pont szerinti határidőn belül nem lehetséges.
+
+(6) A megkeresett szerv vezetője az (5) bekezdés szerinti határidőt – az (5) bekezdés d) pontjában foglalt határidő kivételével – annak letelte előtt indokolt esetben egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja. A megkeresett szerv az eljárási határidő meghosszabbításáról szóló végzését közli a megkereső hatósággal és az ügyféllel.
+
+(7) Ha a megkeresett szerv vagy személy határidőre nem teljesíti a megkeresést, a megkereső hatóság – határidő tűzésével – tájékoztatást kér a megkeresett szervtől vagy személytől ennek okáról. Ha a megkeresett szerv vagy személy nem teljesíti a tájékoztatást, illetve az eljárási cselekmény elvégzésére irányuló megkeresés teljesítését továbbra is megtagadja vagy elmulasztja, akkor a megkereső hatóság – az (1) bekezdés c) pontjában foglalt esetet kivéve – jogosult a megkeresett szerv vagy személy egyidejű értesítése mellett az eljárási cselekményt elvégezni, továbbá ha a megkeresett szerv vagy személy felügyeleti szervvel rendelkező hatóság, akkor felügyeleti eljárást kezdeményez, egyéb esetben jelzi a mulasztást a szerv vezetőjének. A felügyeleti szerv tizenöt napon belül intézkedik.
+
+(8) A megkeresés teljesítésének (7) bekezdés szerinti elmaradásából eredő többletköltségeket a megkeresett szerv téríti meg.
 
 ### Nemzetközi jogsegély
 
@@ -426,11 +446,21 @@ az e törvényben meghatározott feltételekkel tart kapcsolatot az ügyféllel.
 
 (4) A hatóság a tájékoztatást nem köteles teljesíteni, ha az ügyfél a tájékoztatáskéréshez való jogát visszaélésszerűen gyakorolja. Visszaélésszerű a joggyakorlás különösen, ha a tájékoztatáskérést megelőző nyolc napon belül az ügyféllel a hatóság döntést közölt, vagy olyan eljárási cselekményre került sor, amelyben az ügyfél részt vett.
 
+### Kapcsolattartás hirdetményi úton
+
+28/D. § (1) Törvény vagy kormányrendelet úgy rendelkezhet, hogy ha az eljárás jelentős számú ügyfelet érint, akkor – az eljárás megindításáról szóló értesítés, valamint az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a hatóság az ügyféllel hirdetményi úton tarthat kapcsolatot.
+
+(2) Az ügyfél kérelmére a hatóság az írásbeli kapcsolattartás egyéb formájának alkalmazásával közli az ügyféllel a döntését.
+
+(3) Jelentős számú ügyfelet érint az eljárás, ha több mint ötven ügyfél érintett az eljárás megindításakor. Törvény vagy kormányrendelet ennél több ügyfél érintettségéhez is kötheti a hirdetményi kapcsolattartás előírását.
+
 ### III. Fejezet — AZ ELSŐFOKÚ ELJÁRÁS
 
 ### Az eljárás megindítása
 
 29. § (1) A hatósági eljárás az ügyfél kérelmére vagy hivatalból indul meg.
+
+(1a) A hivatalból folytatott eljárásra a hivatalból indított eljárás szabályai az irányadók.
 
 (2) A hatóság köteles a hatáskörébe tartozó ügyben illetékességi területén hivatalból megindítani az eljárást, ha
 
@@ -449,7 +479,7 @@ számított nyolc napon belül értesíteni kell.
 
 - a) az veszélyeztetné az eljárás eredményességét,
 - b) az eljárás megindítása után a hatóság nyolc napon belül érdemben dönt, vagy a kérelmet érdemi vizsgálat nélkül elutasítja, vagy az eljárást megszünteti,
-- c) az ellenőrzésre feljogosított hatóság az adott tárgyban folyamatosan lát el az érintettnél ellenőrzési feladatot,
+- c)
 - d) azt honvédelmi, nemzetbiztonsági, közbiztonsági okból jogszabály kizárja.
 
 (5) Az értesítésnek tartalmaznia kell:
@@ -459,7 +489,7 @@ számított nyolc napon belül értesíteni kell.
 - c) hivatalból indult eljárásban az erre történő utalást, kérelemre indult eljárásban a kérelmező ügyfél nevét.
 - d)
 
-(6) Ha törvény vagy kormányrendelet további értesítési formát nem állapít meg, a hatásterületen élő ügyfeleket és a 15. § (5) bekezdés alapján ügyfélnek minősülő szervezeteket az eljárás megindításáról hirdetményi úton kell értesíteni. Az értesítés közhírré tehető.
+(6) Ha jogszabály további értesítési formát nem állapít meg, a hatásterületen élő ügyfeleket és a 15. § (5) bekezdésében meghatározott szervezeteket az eljárás megindításáról hirdetményi úton kell értesíteni. Az értesítés közhírré tehető.
 
 (7) A hirdetmény és közhírré tétel útján közölt értesítés tartalmazza:
 
@@ -467,22 +497,28 @@ számított nyolc napon belül értesíteni kell.
 - b) a vélelmezett hatásterület kiterjedését,
 - c) a tájékoztatást arról, hogy az érintettek hol és mikor tekinthetnek be az ügy irataiba.
 
-(8) A hatóság a hivatalbóli eljárást kezdeményező személyt vagy szervet kérelmére tájékoztatja az eljárás megindításáról.
+(8) A hatóság a hivatalbóli eljárást kezdeményező személyt vagy szervet kérelmére tájékoztatja az eljárás megindításáról, valamint a foganatosított hatósági intézkedésről.
 
-(9) Ha az eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezésétől számított nyolc napon belül a hatóság a 28/C. § (1) és (2) bekezdésében meghatározott szabályok szerint értesíti
+(9) Ha az eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezésétől számított nyolc napon belül a hatóság értesíti
 
 - a) az ügy iktatási számáról, az ügyintéző nevéről és hivatali elérhetőségéről,
 - b) az eljárás megindításának napjáról, az ügyintézési határidőről, az ügyintézési határidőbe nem számító időtartamokról, a hatóság eljárási kötelezettségének elmulasztása esetén követendő eljárásról,
 - c) az iratokba való betekintés és nyilatkozattétel lehetőségéről, valamint
 - d) arról, hogy kérelme a szükséges adatainak kezeléséhez és belföldi jogsegély, valamint szakhatósági eljárás lefolytatása céljából történő továbbításához való hozzájárulásnak minősül.
 
-(10) A 15. § (5) bekezdés alapján ügyfélnek minősülő szervezetek kormányrendeletben meghatározott adatbázis alapján történő értesítése az (5) és a (7) bekezdés szerinti adatokat együttesen tartalmazza.
+(10) A 15. § (5) bekezdésében meghatározott szervezetek kormányrendeletben meghatározott adatbázis alapján történő értesítése az (5) és a (7) bekezdés szerinti adatokat együttesen tartalmazza.
 
 (11) A hatóság külön kérelem nélkül is az ügyfél anyanyelvére lefordított értesítést küld az eljárás megindításáról annak a magyar nyelvet nem beszélő ügyfélnek, akivel szemben az eljárást folytatja. Az értesítés az (5) bekezdésben foglaltakon túl tartalmazza a nyelvhasználati és az ezzel járó költségviselési szabályokról szóló tájékoztatást.
 
+(12) A 28/D. §-ban meghatározott esetben az eljárás megindításáról szóló értesítésre a (3)–(5) bekezdést kell alkalmazni azzal, hogy az értesítés az (5) bekezdésben meghatározottakon túl tartalmazza
+
+- a) az arra való felhívást, hogy a hatóság a továbbiakban hirdetményi úton tartja a kapcsolatot az ügyféllel,
+- b) annak megjelölését, hogy az ügyfél a hirdetményeket hol tekintheti meg, és a hirdetményi úton történő kapcsolattartás egyéb szabályait, valamint
+- c) a 28/D. § (2) bekezdésében és a 78/A. § b) pontjában foglalt lehetőségről való tájékoztatást.
+
 ### Ideiglenes biztosítási intézkedés
 
-29/A. § (1) Ha az eljárás tárgyát képező kötelezettség későbbi teljesítése veszélyben van, a hatóság a pénzkövetelés biztosítását vagy meghatározott dolog zárlatát ideiglenes biztosítási intézkedésként e törvény biztosítási intézkedésre vonatkozó szabályainak alkalmazásával az ügy érdemében való döntéshozatalt megelőzően is elrendelheti.
+29/A. § (1) Ha az eljárás tárgyát képező kötelezettség későbbi teljesítése veszélyben van, a hatóság a pénzkövetelés biztosítását vagy meghatározott dolog zárlatát ideiglenes biztosítási intézkedésként az erre okot adó körülmények felmerülésétől számított öt napon belül e törvény biztosítási intézkedésre vonatkozó szabályainak alkalmazásával az ügy érdemében való döntéshozatalt megelőzően is elrendelheti.
 
 (2) Az ideiglenes biztosítási intézkedést a hatóság visszavonja, ha az elrendelésének oka megszűnt, vagy ha az ideiglenes biztosítási intézkedést meghatározott összeg biztosítására rendelték el, és ezt az összeget a hatóságnál letétbe helyezték.
 
@@ -511,7 +547,9 @@ számított nyolc napon belül értesíteni kell.
 - e) az eljárás folytatására okot adó körülmény már nem áll fenn,
 - f) az ügyfél a kérelmére indult eljárásban a képviselő visszautasítása esetén a hatóság felhívása ellenére nem gondoskodik a képviselet-ellátásra alkalmas személy meghatalmazásáról vagy nem jár el személyesen, kivéve, ha az eljárás hivatalból is megindítható, és a hatóság az eljárást hivatalból folytatja, vagy ha az eljárásban több kérelmező vesz részt, és ők személyesen járnak el vagy képviselőjüket a hatóság nem utasította vissza,
 - g) jogszabályváltozás miatt az ügy elbírálása a továbbiakban már nem hatósági hatáskörbe tartozik,
-- h) a hatósági eljárásért illetéket vagy igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni és az ügyfél a fizetési kötelezettségének a hatóság erre irányuló felhívása ellenére az erre tűzött határidő alatt nem tesz eleget és költségmentességben sem részesül.
+- h) a hatósági eljárásért illetéket vagy igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni és az ügyfél a fizetési kötelezettségének a hatóság erre irányuló felhívása ellenére az erre tűzött határidő alatt nem tesz eleget és költségmentességben sem részesül,
+- i) hivatalbóli eljárásban a tényállás a határozat meghozatalához szükséges mértékben nem volt tisztázható, és további eljárási cselekménytől sem várható eredmény,
+- j) a hivatalbóli eljárás jogsértést nem tárt fel.
 
 (2) A hatóság az eljárást megszüntetheti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte, illetve nyilatkozattételének elmaradása megakadályozta a tényállás tisztázását.
 
@@ -548,7 +586,7 @@ számított nyolc napon belül értesíteni kell.
 
 (2) Kiskorú ügyfél érdekeinek veszélyeztetettsége esetében, továbbá ha életveszéllyel vagy súlyos kárral fenyegető helyzet elhárítása indokolja, vagy ha a hatóság ideiglenes biztosítási intézkedést rendelt el, vagy ha a közbiztonság érdekében egyébként szükséges, az ügyet soron kívül kell elintézni.
 
-(3) Az ügyintézési határidőbe nem számít be:
+(3) Ha jogszabály ezt nem zárja ki, az ügyintézési határidőbe nem számít be:
 
 - a) a hatásköri vagy illetékességi vita egyeztetésének, valamint az eljáró hatóság kijelölésének időtartama,
 - b) a jogsegélyeljárás időtartama, továbbá a 36. § (2) bekezdése alapján adatnak a nyilvántartásból történő beszerzéséhez szükséges idő,
@@ -564,13 +602,13 @@ számított nyolc napon belül értesíteni kell.
 
 (4) Ha a hatóság testületi szerv, a hatáskörébe tartozó ügyben az (1) bekezdésben meghatározott határidőn belül, vagy ha ez nem lehetséges, a határidő letelte utáni első testületi ülésen, legkésőbb azonban két hónapon belül határoz.
 
-(5) Az ügyintézési határidő a kérelemnek az eljárásra hatáskörrel és illetékességgel rendelkező hatósághoz történő megérkezését követő napon, illetve az eljárás hivatalból történő megindításának napján kezdődik. Ezt a szabályt kell alkalmazni azokban az esetekben is, amikor a magyar hatóság eljárásának megindításához szükséges kérelmet nem magyar hatóságnál lehet benyújtani.
+(5) Az ügyintézési határidő a kérelemnek az eljárásra hatáskörrel és illetékességgel rendelkező hatósághoz történő megérkezését követő napon, hivatalbóli eljárás esetén az első eljárási cselekmény elvégzésének napján kezdődik. Ezt a szabályt kell alkalmazni azokban az esetekben is, amikor a magyar hatóság eljárásának megindításához szükséges kérelmet nem magyar hatóságnál lehet benyújtani.
 
 (6) A fellebbezés elbírálására jogosult hatóság és a felügyeleti szerv eljárása esetén, valamint a megismételt eljárásban az ügyintézési határidő az ügy összes iratának az eljárásra jogosult hatósághoz érkezését követő napon kezdődik. A hatóság a felügyeleti szerv erre irányuló felhívására köteles az iratokat felterjeszteni.
 
-(7) Az eljáró hatóság vezetője – ha azt törvény vagy kormányrendelet nem zárja ki – az ügyintézési határidőt annak letelte előtt indokolt esetben egy alkalommal, legfeljebb harminc, a (2) bekezdésben meghatározott esetekben legfeljebb tizenöt nappal meghosszabbíthatja.
+(7) Az eljáró hatóság vezetője – ha azt jogszabály nem zárja ki – az ügyintézési határidőt annak letelte előtt kivételesen indokolt esetben egy alkalommal, legfeljebb harminc, a (2) bekezdésben meghatározott esetekben legfeljebb tizenöt nappal meghosszabbíthatja. A végzésben a határidő-hosszabbítás indokait kifejezetten meg kell jelölni.
 
-(8) A szakhatóság eljárására irányadó ügyintézési határidő – ha törvény vagy kormányrendelet másként nem rendelkezik – tizenöt nap. Indokolt esetben a szakhatóság vezetője a szakhatósági eljárásra irányadó határidőt egy alkalommal tizenöt nappal meghosszabbíthatja, és erről az ügyfelet és a megkereső hatóságot értesíti.
+(8) A szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap. Indokolt esetben a szakhatóság vezetője a szakhatósági eljárásra irányadó határidőt egy alkalommal tizenöt nappal meghosszabbíthatja, és erről az ügyfelet és a megkereső hatóságot értesíti.
 
 (9) A (7) és (8) bekezdésben meghatározott határidőnél rövidebb határidőt bármely jogszabály, hosszabbat pedig törvény vagy kormányrendelet állapíthat meg.
 
@@ -586,7 +624,7 @@ számított nyolc napon belül értesíteni kell.
 
 (2)
 
-(3) Az eljárások egyesítése esetén a hatóság az egyes eljárásokra irányadó legkorábban lejáró ügyintézési határidőn belül jár el.
+(3) Az eljárások egyesítése esetén a hatóság a legkorábban indult ügy ügyintézési határidején belül jár el.
 
 ### Kérelem
 
@@ -594,7 +632,7 @@ számított nyolc napon belül értesíteni kell.
 
 (2) Életveszéllyel vagy súlyos kárral fenyegető helyzet során az azonnali intézkedést igénylő ügyben a kérelmet telefonon is elő lehet terjeszteni.
 
-(3) Jogszabály előírhatja, hogy az ügyfél a kérelmét az e célra rendszeresített nyomtatványon vagy elektronikus kapcsolattartás esetén elektronikus űrlapon nyújtsa be. Ha törvény az elektronikus kapcsolattartást kötelezővé teszi, és a kérelmet elektronikus formanyomtatványon vagy szoftver használatával kell benyújtani, az elektronikus formanyomtatvány kitölthető és letölthető, valamint a szoftver letölthető változatát a hatóság az elektronikus tájékoztatás szabályai szerint közzéteszi.
+(3) Jogszabály előírhatja, hogy az ügyfél a kérelmét az e célra rendszeresített formanyomtatványon vagy elektronikus kapcsolattartás esetén on-line felületen vagy valamely szoftver használatával elektronikus űrlapon nyújtsa be. Ha törvény az elektronikus kapcsolattartást kötelezővé teszi, és a kérelmet on-line felületen vagy valamely szoftver használatával elektronikus űrlapon kell benyújtani, az elektronikus űrlap kitölthető és letölthető, valamint a szoftver letölthető változatát a hatóság az elektronikus tájékoztatás szabályai szerint közzéteszi.
 
 (4) Az ügyfél az eljárás megindítására irányuló kérelmét a határozat vagy az eljárást megszüntető végzés jogerőre emelkedéséig visszavonhatja.
 
@@ -620,13 +658,13 @@ számított nyolc napon belül értesíteni kell.
 - b) ideiglenes intézkedés vagy ideiglenes biztosítási intézkedés alkalmazásának van-e helye,
 - c) a kérelem megfelel-e a 35. §-ban, továbbá a 36. § (1) bekezdésében foglalt követelményeknek.
 
-(3) Ha a kérelem nem felel meg a 35. §-ban, továbbá a 36. § (1) bekezdésében foglalt követelményeknek, az eljáró hatóság a kérelem beérkezésétől számított nyolc napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel az ügyfelet. Nem bocsátható ki hiánypótlási felhívás olyan adat igazolására vagy melléklet csatolására, amelyet a 36. § (2) bekezdése alapján a hatóságnak kell beszereznie, továbbá akkor sem, ha az ügyfél a kérelmet azért nem formanyomtatványon nyújtja be, mert a formanyomtatvány kitölthető és letölthető változatát a hatóság az elektronikus tájékoztatás szabályai szerint nem tette közzé.
+(3) Ha a kérelem nem felel meg a 35. §-ban, továbbá a 36. § (1) bekezdésében foglalt követelményeknek, az eljáró hatóság a kérelem beérkezésétől számított nyolc napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel az ügyfelet. Nem bocsátható ki hiánypótlási felhívás olyan adat igazolására vagy melléklet csatolására, amelyet a 36. § (2) bekezdése alapján a hatóságnak kell beszereznie, továbbá akkor sem, ha az ügyfél a tartalmilag hiánytalan kérelmet azért nem formanyomtatványon vagy elektronikus űrlapon nyújtja be, mert a formanyomtatvány kitölthető és letölthető változatát a hatóság az elektronikus tájékoztatás szabályai szerint nem tette közzé.
 
 (4) Törvény vagy kormányrendelet a hiánypótlási felhívás kibocsátására nyolc napnál hosszabb határidőt is megállapíthat.
 
 (5) Hiánypótlási felhívás az eljárás során akkor is kibocsátható, ha a kérelem megfelelt a 35. §-ban, továbbá a 36. § (1) bekezdésében foglalt követelményeknek, de a tényállás tisztázása során felmerült új adatra tekintettel az szükséges.
 
-38. § (1) A természetes személy ügyfél az elsőfokú eljárás megindítására irányuló kérelmét az eljárásra hatáskörrel rendelkező illetékes hatóságnál, a Kormány által rendeletben meghatározott ügyekben az integrált ügyfélszolgálati irodánál, vagy ha jogszabály azt nem zárja ki, lakcíme vagy munkahelye szerinti székhelyű, azonos hatáskörű hatóságnál, ennek hiányában pedig a lakcíme vagy munkahelye szerint illetékes jegyzőnél is előterjesztheti, aki azt továbbítja a hatáskörrel rendelkező illetékes hatósághoz.
+38. § (1) A természetes személy ügyfél az elsőfokú eljárás megindítására irányuló kérelmét az eljárásra hatáskörrel rendelkező illetékes hatóságnál, a Kormány által rendeletben meghatározott ügyekben az integrált ügyfélszolgálaton (a továbbiakban: kormányablak), vagy ha jogszabály azt nem zárja ki, lakcíme vagy munkahelye szerinti székhelyű, azonos hatáskörű hatóságnál, ennek hiányában pedig a lakcíme vagy munkahelye szerint illetékes jegyzőnél is előterjesztheti, aki azt továbbítja a hatáskörrel rendelkező illetékes hatósághoz.
 
 (2) Jogszabály az (1) bekezdéstől eltérően is kijelölheti azt a hatóságot vagy szervet, amelyikhez a kérelem előterjeszthető.
 
@@ -651,27 +689,47 @@ számított nyolc napon belül értesíteni kell.
 
 38/C. § Törvény vagy kormányrendelet rendelkezése alapján törvényben vagy kormányrendeletben meghatározott módon erre feljogosított tanúsító szervezet közreműködhet a tényállás tisztázásában. A tanúsító szervezet által jogszabályban meghatározottak szerint kibocsátott tanúsítványt a hatóság köteles elfogadni a tények igazolására, a tanúsított tények tekintetében a hatóság további eljárási cselekményeket nem végez.
 
-### Jegyzőkönyv és hivatalos feljegyzés
+### Jegyzőkönyv, egyszerűsített jegyzőkönyv és hivatalos feljegyzés
 
-39. § (1) A tárgyalásról, a lefoglalásról és a jogszabályban meghatározott eljárási cselekményekről, valamint ha az ügyfél kéri vagy az eljárás érdekében egyébként szükséges, a szóbeli kérelemről, az ügyfél, a tanú, a szakértő meghallgatásáról, a szemle lefolytatásáról és más bizonyítási cselekményekről jegyzőkönyvet kell készíteni. Ha a hatóság valamely eljárási cselekmény során hatósági tanút alkalmaz, jegyzőkönyvet készít az eljárási cselekményről.
+39. § (1) A hatóság jegyzőkönyvet készít
 
-(2) A jegyzőkönyv tartalmazza
+- a) a lefoglalásról,
+- b) a szemle lefolytatásáról, ha a hatóság hatósági tanút alkalmaz,
+- c) a tárgyalásról,
+- d) a közmeghallgatásról,
+- e) a biztosítási intézkedés elvégzéséről, ha a hatóság hatósági tanút alkalmaz,
+- f) a jogszabályban meghatározott eljárási cselekményről.
+
+(2) Ha az ügyfél vagy az eljárási cselekményben érintett személy kéri vagy a hatóság az eljárás érdekében egyébként szükségesnek tartja, a hatóság jegyzőkönyvet készít
+
+- a) a szóbeli kérelemről,
+- b) az ügyfél, a tanú, a szakértő meghallgatásáról,
+- c) a szemle lefolytatásáról, ha a hatóság nem alkalmaz hatósági tanút,
+- d) minden más bizonyítási cselekményről.
+
+(3) A jegyzőkönyv tartalmazza
 
 - a) a hatóság megnevezését, az ügyintéző nevét, az ügy tárgyát és az ügyiratszámot,
-- b) a meghallgatott nevét és lakcímét, eljárásjogi helyzetét és – ha azt a hatóság tudomására hozta – egyéb elérési lehetőségét,
+- b) az eljárási cselekményben érintett személy nevét és lakcímét, eljárásjogi helyzetét és – ha azt a hatóság tudomására hozta – egyéb elérési lehetőségét,
 - c) az alkalmazott hatósági tanú nevét,
-- d) a meghallgatott személy jogaira és kötelességeire való figyelmeztetés megtörténtét,
-- e) az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat, az (1) bekezdésben felsorolt eljárási cselekmények során tapasztalt, az ügy eldöntése szempontjából lényeges körülményeket és megállapításokat, ideértve a hatósági tanú észrevételeit is,
-- f) a jegyzőkönyv készítésének helyét és időpontját és
-- g) a meghallgatott személy, az eljárási képességgel nem rendelkező személy képviselője, a hatósági tanú, az eljáró ügyintéző és a jegyzőkönyvvezető oldalankénti aláírását.
+- d) az eljárási cselekményben érintett személy jogaira és kötelességeire való figyelmeztetés megtörténtét,
+- e) az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat, az (1) és (2) bekezdésben felsorolt eljárási cselekmények során tapasztalt, az ügy eldöntése szempontjából lényeges körülményeket és megállapításokat, ideértve a hatósági tanú észrevételeit is,
+- f) a jegyzőkönyv készítésének helyét és időpontját, valamint
+- g) az eljárási cselekményben érintett személy, az eljárási képességgel nem rendelkező személy képviselője, a hatósági tanú, az eljáró ügyintéző és a jegyzőkönyvvezető oldalankénti aláírását.
 
-(3) A meghallgatott személy indokolt kérelmére nyilatkozatát, vallomását, szakértői véleményét vagy azok egyes részét a jegyzőkönyv szó szerint tartalmazza.
+(4) Az eljárási cselekményben érintett személy indokolt kérelmére nyilatkozatát, vallomását, szakértői véleményét vagy azok egyes részét a jegyzőkönyv szó szerint tartalmazza.
 
-(4) A hangfelvételre, valamint a kép- és hangfelvételre a jegyzőkönyvre vonatkozó szabályokat azzal kell alkalmazni, hogy azok a (2) bekezdés a)–f) pontjában felsoroltakat tartalmazzák. A hangfelvételt, valamint a kép- és hangfelvételt hordozó eszközt az iratokhoz kell csatolni, vagy arról az eljárás befejezéséig a (2) bekezdésnek megfelelő tartalmú jegyzőkönyvet kell készíteni.
+(5) A hangfelvételre, valamint a kép- és hangfelvételre a jegyzőkönyvre vonatkozó szabályokat azzal kell alkalmazni, hogy azok a (3) bekezdés a)–f) pontjában felsoroltakat tartalmazzák. A hangfelvételt, valamint a kép- és hangfelvételt hordozó eszközt az iratokhoz kell csatolni, vagy arról az eljárás befejezéséig a (3) bekezdésnek megfelelő tartalmú jegyzőkönyvet kell készíteni.
 
-(5) A hatóság a költségtakarékosság és hatékonyság követelményének megfelelően választja ki a jegyzőkönyv készítésének formáját. Az ügyfél vagy az eljárás egyéb résztvevője az ezzel járó költségek megtérítése mellett kérheti az általa megjelölt jegyzőkönyvezési forma alkalmazását.
+(6) A hatóság a költségtakarékosság és a hatékonyság követelményének megfelelően választja ki a jegyzőkönyv készítésének formáját. Az ügyfél vagy az eljárás egyéb résztvevője az ezzel járó költségek megtérítése mellett kérheti az általa megjelölt jegyzőkönyvezési forma alkalmazását.
 
-(6) Az (1) bekezdésben felsorolt eljárási cselekményekről hivatalos feljegyzést kell készíteni, ha jegyzőkönyv – az ügyfél erre irányuló kérelme vagy a jegyzőkönyvkészítést indokolttá tévő körülmények hiányában – nem készül. A hivatalos feljegyzés tartalmazza felvételének helyét és időpontját, az ügy tárgyát és számát, a jogokra és kötelezettségekre való figyelmeztetés megtörténtét, az eljárási cselekmény megnevezését és rövid összefoglalását, az eljáró ügyintéző nevét és aláírását, a szóbeli kérelemről készült hivatalos feljegyzés ezen kívül tartalmazza az ügyfél nevét és lakcímét, valamint a kérelem tartalmát.
+(7) A hatóság egyszerűsített jegyzőkönyvet készít, ha jegyzőkönyv – az ügyfél vagy az eljárási cselekményben érintett személy erre irányuló kérelme vagy a jegyzőkönyvkészítést indokolttá tévő körülmények hiányában – nem készül. Az egyszerűsített jegyzőkönyv tartalmazza felvételének helyét és időpontját, az ügy tárgyát és az ügyiratszámot, az eljárási cselekményben érintett nevét és eljárásjogi helyzetét, a jogokra és kötelezettségekre való figyelmeztetés megtörténtét, az eljárási cselekmény megnevezését és rövid összefoglalását, az eljáró ügyintéző nevét és aláírását, valamint az eljárási cselekményben érintett személy aláírását. A szóbeli kérelemről készült egyszerűsített jegyzőkönyv ezenkívül tartalmazza az ügyfél nevét és lakcímét vagy székhelyét, valamint a kérelem tartalmát.
+
+(8) A több hatóság részvételével végzett eljárási cselekményről közös jegyzőkönyv vagy közös egyszerűsített jegyzőkönyv készíthető, amely együttesen tartalmazza az egyes eljáró hatóságok megnevezését, a képviseletükben eljáró valamennyi ügyintéző nevét és aláírását, valamint az eljáró hatóságoknál folyamatban lévő ügyek ügyiratszámait.
+
+(9) A hatóság az ügy megítélése szempontjából fontos vagy egyébként az ügy természetére tekintettel lényeges minden egyéb eljárási cselekményről hivatalos feljegyzést vehet fel, vagy az eljárási cselekményt az iratra történő rávezetéssel rögzítheti. A hivatalos feljegyzés az eljárási cselekmény rövid összefoglalását, a készítés dátumát, valamint a feljegyzést készítő nevét és aláírását tartalmazza.
+
+(10) Hivatalos feljegyzés készítése alkalmazható az írásbelinek nem minősülő elektronikus kapcsolattartás során közölt információk írásba foglalására. Az ilyen feljegyzés számítógépes programmal, automatikusan is elkészíthető, ebben az esetben a feljegyzést készítő aláírása helyett a hatóság gépi aláírása is alkalmazható.
 
 ### Adatok zárt kezelése
 
@@ -684,6 +742,10 @@ számított nyolc napon belül értesíteni kell.
 (4) A zártan kezelt adatok megismerésére csak az ügyintéző, a jegyzőkönyvvezető és a leíró, a hatóság vezetője, a felügyeleti szerv, valamint a fellebbezés elbírálására jogosult hatóság erre felhatalmazott ügyintézője és vezetője, az illetékes ügyész és a bírósági felülvizsgálat során eljáró bíró jogosult.
 
 (5) Az iratbetekintési jog biztosítása érdekében a hatóság – a jogszabályban meghatározott tartalmi és formai követelményeknek egyebekben megfelelő – kivonatot készít az eljárás során keletkezett iratról akként, hogy abból az (1) bekezdésben meghatározott személy kilétére vonatkozóan következtetés ne legyen levonható.
+
+### Elveszett, megsemmisült iratok pótlása
+
+39/B. § A hatóság intézkedik az ügy elveszett vagy megsemmisült iratának pótlása iránt, ennek érdekében az eljárásban részt vett személyeket meghallgathatja, illetve kiadmányokat, iratmásolatokat szerezhet be. Az ügy iratainak pótlása mellőzhető, ha az elveszett vagy megsemmisült irat alapján hozott döntés jogerős és végrehajtható, ebben az esetben csak a döntés hiteles kiadmányát kell beszerezni.
 
 ### Képviselet
 
@@ -773,7 +835,9 @@ számított nyolc napon belül értesíteni kell.
 
 (5) Ha a kizárási ok a hatáskör gyakorlójával vagy a hatósággal szemben merül fel, az ügyben – jogszabály eltérő rendelkezése hiányában – a felügyeleti szerv vezetője által kijelölt másik azonos hatáskörű hatóság jár el.
 
-(6) Ha nincs kijelölhető másik, azonos hatáskörű hatóság, az a hatóság jár el, amelyikkel szemben kizárási ok áll fenn, azzal, hogy határozatát és önálló jogorvoslattal megtámadható végzését a felügyeleti szerv vezetőjével is közli.
+(6) Ha nincs kijelölhető másik, azonos hatáskörű hatóság, az a hatóság jár el, amelyikkel szemben kizárási ok áll fenn. Ebben az esetben a hatóság az ügyfelet haladéktalanul, de legkésőbb a kizárási ok felmerülésétől számított nyolc napon belül értesíti a kizárás fennállásáról, és tájékoztatja az irányadó eljárási rendről.
+
+(6a) A (6) bekezdés szerinti esetben a hatóság határozatát és önálló jogorvoslattal megtámadható végzését a felügyeleti szerv vezetőjével is közli.
 
 (7) A hatósági ügyben eljáró testület tagjával és vezetőjével, továbbá az eljáró hatóság kiadmányozási jogkörrel rendelkező vezetőjével szemben megfelelően alkalmazni kell a kizárás szabályait azzal, hogy ha a hatóságnál nincs másik kiadmányozási jogkörrel rendelkező vagy azzal felruházható személy, a hatáskör gyakorlója jár el.
 
@@ -782,6 +846,8 @@ számított nyolc napon belül értesíteni kell.
 ### A szakhatóság közreműködése
 
 44. § (1) Törvény vagy kormányrendelet az ügyben érdemi döntésre jogosult hatóság számára előírhatja, hogy az ott meghatározott szakkérdésben más hatóság (a továbbiakban: szakhatóság) kötelező állásfoglalását kell beszereznie. A szakhatóság olyan szakkérdésben ad ki állásfoglalást, amelynek megítélése hatósági ügyként a hatáskörébe tartozik, ennek hiányában törvény vagy kormányrendelet annak vizsgálatát szakhatósági ügyként a hatáskörébe utalja.
+
+(1a) Törvényben vagy kormányrendeletben meghatározott ügyekben és szempontok alapján a hatóság mérlegelheti a szakhatóság megkeresését és maga dönthet a szakkérdésben. Ilyen esetben az adott szakkérdésre vonatkozó szakhatósági eljárásért illeték és díj nem kérhető.
 
 (2) Törvény vagy kormányrendelet meghatározott szakkérdésben tudományos vagy szakmai testületet, illetve szakértői szervet jelölhet ki szakhatóságként.
 
@@ -839,14 +905,18 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 46. § (1) Azt, akinek személyes meghallgatása az eljárás során szükséges, a hatóság határnap vagy határidő megjelölésével arra kötelezi, hogy előtte vagy a megjelölt helyen jelenjen meg.
 
-(2) Az ügyfél a kérelmére indult eljárásban nem kötelezhető a megjelenésre, kivéve, ha
+(2) Az ügyfél a kérelmére indult eljárásban nem kötelezhető a megjelenésre, kivéve, ha a hatóság
 
-- a) a hatóság a kérelemre indult eljárást hivatalból folytatja,
-- b) jogszabály az adott ügyfajtában előírja tárgyalás, közmeghallgatás vagy egyezségi kísérlet tartását.
+- a) a kérelemre indult eljárást hivatalból folytatja,
+- b) tárgyalást, közmeghallgatást vagy egyezségi kísérletet tart.
 
 (3) Az idézést – ha az ügy körülményeiből más nem következik – úgy kell közölni, hogy azt az idézett a megjelenésének megkönnyítése érdekében a meghallgatást megelőzően legalább nyolc nappal megkapja.
 
 (4) Az idézésben meg kell jelölni, hogy a hatóság az idézett személyt milyen ügyben és milyen minőségben kívánja meghallgatni. Az idézett személyt figyelmeztetni kell a megjelenés elmulasztásának következményeire.
+
+(4a) (4a) Ha az idézett személy korlátozottan cselekvőképes, a hatóság a törvényes képviselőjét azzal a felhívással értesíti, hogy a megjelenéséről gondoskodjék. Ha az idézett személy cselekvőképtelen, a hatóság törvényes képviselője útján idézi.
+
+(4b) Ha a (4a) bekezdés szerint idézett személy nem jelenik meg, és törvényes képviselője nem igazolja, hogy ez neki nem róható fel, a törvényes képviselő eljárási bírsággal sújtható.
 
 (5) Az idézésről szóló végzés szóban is közölhető.
 
@@ -862,15 +932,15 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 48. § (1) Az idézett személy köteles az idézésnek eleget tenni.
 
-(2) Ha az idézett személy az idézésnek nem tesz eleget, vagy meghallgatása előtt az eljárás helyéről engedély nélkül eltávozik, és távolmaradását előzetesen alapos okkal nem menti ki vagy nyolc napon belül megfelelően nem igazolja, továbbá ha az idézésre meghallgatásra nem alkalmas állapotban jelenik meg, és ezt a körülményt nem menti ki, eljárási bírsággal sújtható, továbbá az eljárási cselekmény megismétlése miatti többletköltség megfizetésére kötelezhető. Nem sújtható bírsággal és nem kötelezhető a többletköltség viselésére az idézett személy, ha az idézés nem volt szabályszerű.
+(2) Ha az idézett személy az idézésnek nem tesz eleget, vagy meghallgatása előtt az eljárás helyéről engedély nélkül eltávozik, és távolmaradását előzetesen alapos okkal nem menti ki vagy nyolc napon belül megfelelően nem igazolja, továbbá ha az idézésre meghallgatásra nem alkalmas állapotban jelenik meg, és ezt a körülményt nem menti ki, eljárási bírsággal sújtható. Nem sújtható bírsággal az idézett személy, ha az idézés nem volt szabályszerű.
 
-(3) Ha az idézett személy ismételt idézésre sem jelenik meg, és távolmaradását nem menti ki, a rendőrség útján elővezettethető. Az elővezetés foganatosításához – ha törvény másként nem rendelkezik – az ügyésznek a hatóság vezetője által kért jóváhagyása szükséges.
+(3) Ha az idézett személy ismételt idézésre sem jelenik meg, és távolmaradását nem menti ki, a rendőrség útján elővezettethető. Az elővezetés foganatosításához – ha jogszabály másként nem rendelkezik – az ügyésznek a hatóság vezetője által kért jóváhagyása szükséges.
 
 (4) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, az elővezetés céljából az állományilletékes parancsnokot kell megkeresni.
 
 (5) Ha az idézett személy igazolja a távolmaradásának vagy eltávozásának menthető indokát, vissza kell vonni az eljárási bírságot megállapító és az elővezetést elrendelő végzést.
 
-(6) Ha jogi személy vagy jogi személyiséggel nem rendelkező szervezet képviselője nem jelent meg az idézésre, és a képviselő nevét a vezető tisztségviselő a hatóság felhívására nem közli, a vezető tisztségviselő eljárási bírsággal sújtható, és kötelezhető a többletköltség megfizetésére. Az elővezetést a vezető tisztségviselővel szemben lehet alkalmazni.
+(6) Ha jogi személy vagy jogi személyiséggel nem rendelkező szervezet képviselője nem jelent meg az idézésre, és a képviselő nevét a vezető tisztségviselő a hatóság felhívására nem közli, a vezető tisztségviselő eljárási bírsággal sújtható. Az elővezetést a vezető tisztségviselővel szemben lehet alkalmazni.
 
 (7) Az elővezetés elrendelése ellen nincs helye önálló jogorvoslatnak.
 
@@ -884,9 +954,9 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 ### A tényállás tisztázása
 
-50. § (1) A hatóság köteles a döntéshozatalhoz szükséges tényállást tisztázni. Ha ehhez nem elegendőek a rendelkezésre álló adatok, hivatalból vagy kérelemre bizonyítási eljárást folytat le.
+50. § (1) A hatóság köteles a döntéshozatalhoz szükséges tényállást tisztázni. Ha ehhez nem elegendőek a rendelkezésre álló adatok, bizonyítási eljárást folytat le.
 
-(2) Törvény vagy kormányrendelet együttműködésre kötelezheti az azonos hatáskörű, a hatásterületen illetékességgel rendelkező hatóságokat a tényállás tisztázása érdekében.
+(2) Törvény vagy kormányrendelet a tényállás tisztázása és az ügyfél jogának, jogos érdekének védelme és előmozdítása érdekében az eljárás és a hatósági ellenőrzés során együttműködési kötelezettséget írhat elő a feladat- és hatáskörükben érintett hatóságok részére. Az együttműködés formája lehet különösen a hatóságok közötti egyeztetés, valamint az ellenőrzési tevékenység összehangolása. A hatóság eljárási kötelezettségét nem érinti, ha a törvény vagy kormányrendelet alapján együttműködésre kötelezett másik hatóság e kötelezettségét elmulasztja, a hatóság azonban köteles a mulasztó hatóság felügyeleti szervét, ennek hiányában vezetőjét a mulasztásról tájékoztatni.
 
 (3) A hatóság által hivatalosan ismert és a köztudomású tényeket nem kell bizonyítani.
 
@@ -951,9 +1021,13 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (2) Ha a tényállás tisztázása azt szükségessé teszi, a hatóság az ügyfelet a kérelmére indult eljárásban nyilatkozattételre hívhatja fel. Ha az ügyfél a kérelmére indult eljárásban a hatóság felhívására nem nyilatkozik, a hatóság a rendelkezésre álló adatok alapján dönt, vagy a 31. § (2) bekezdése alapján megszünteti az eljárást.
 
+(2a) Ha az ügyfél cselekvőképtelen, személyes nyilatkozattételre csak akkor hívható fel, ha a nyilatkozatától várható bizonyíték más módon nem pótolható. A meghallgatásnak megfelelő légkörben, a cselekvőképtelen személy számára érthető módon kell megtörténnie, indokolt esetben a cselekvőképtelen személy lakóhelyén. A nyilatkozat megtételére cselekvőképtelen vagy korlátozottan cselekvőképes ügyfél esetén csak a törvényes képviselő jelenlétében kerülhet sor, írásbeli nyilatkozat esetén a törvényes képviselő a nyilatkozatot aláírja.
+
+(2b) Ha az ügyfél és törvényes képviselője között érdekellentét van, a törvényes képviselőnek a (2a) bekezdésben meghatározott jogait a gyámhatóság gyakorolja. Ha az ügyfél a törvényes képviselőjével szemben terjeszt elő kérelmet, az érdekellentét fennállását meg kell állapítani. A gyámhatóság a cselekvőképtelen személyt törvényes képviselője jelenléte nélkül is meghallgathatja, ha az a cselekvőképtelen személy érdekében áll.
+
 (3) Törvény vagy kormányrendelet kötelezővé teheti, hogy a hivatalból folytatott eljárásban az ügyfél, a kérelemre indult eljárásban az ellenérdekű ügyfél a hatóság erre irányuló felhívására közölje az érdemi döntéshez szükséges adatokat, és jogkövetkezményeket állapíthat meg az adatszolgáltatási kötelezettség elmulasztása vagy valótlan adatok közlése esetére.
 
-(4) A törvényen vagy kormányrendeleten alapuló adatszolgáltatást az ügyfél, illetve kérelemre indult eljárásban az ellenérdekű ügyfél akkor tagadhatja meg, ha
+(4) A törvényen vagy kormányrendeleten alapuló adatszolgáltatást hivatalból folytatott eljárásban az ügyfél, illetve kérelemre indult eljárásban az ellenérdekű ügyfél akkor tagadhatja meg, ha
 
 - a) nem kapott felmentést a minősített adatra vonatkozó titoktartási kötelezettség alól,
 - b) nyilatkozatával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná.
@@ -988,7 +1062,13 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 - a) a tanú az ügyfelek valamelyikének hozzátartozója, vagy
 - b) a tanú vallomásával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná.
 
-(5) Nem használható fel bizonyítékként a (3) bekezdésben foglalt rendelkezés megsértésével felvett tanúvallomás, továbbá az olyan tanúvallomás, amelynek megtétele előtt a tanút nem figyelmeztették a (4) bekezdésben meghatározott jogára.
+(4a) Cselekvőképtelen személyt csak akkor lehet tanúként meghallgatni, ha a vallomásától várható bizonyíték mással nem pótolható. Meghallgatása esetén a hamis tanúzás következményeire való figyelmeztetést a hatóság mellőzi. A meghallgatást csak a tanú törvényes képviselőjének jelenlétében lehet lefolytatni.
+
+(4b) Aki korlátozottan cselekvőképes, vagy szellemi, valamint egyéb állapota miatt korlátozottan képes megítélni a tanúvallomás megtagadásának jelentőségét, tanúként csak akkor hallgatható meg, ha vallomást kíván tenni, és a törvényes képviselője ehhez hozzájárul. Meghallgatásánál a tanú törvényes képviselője jelen van.
+
+(4c) Ha a tanú és a törvényes képviselő között érdekellentét van, a (4a) és a (4b) bekezdésben meghatározott jogokat a gyámhatóság gyakorolja.
+
+(5) Nem használható fel bizonyítékként a (3), valamint a (4a)–(4c) bekezdésben, továbbá az 54. § (5)–(6) bekezdésében foglalt rendelkezés megsértésével felvett tanúvallomás, továbbá az olyan tanúvallomás, amelynek megtétele előtt a tanút nem figyelmeztették a (4) bekezdésben meghatározott jogára.
 
 (6) Törvényben meghatározott esetek kivételével a diplomáciai mentességben részesülő személy nem köteles tanúvallomást tenni.
 
@@ -1000,11 +1080,11 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (3) Ha a hatóság a tanút tárgyaláson kívül hallgatja meg, a meghallgatásra a tárgyalás szabályait kell megfelelően alkalmazni.
 
-(4)–(5)
+(4) A tanú meghallgatásán nem lehet jelen az ügyfél és az eljárás egyéb résztvevője, ha a tanú védett adatról tesz vallomást, továbbá ha elrendelték a tanú természetes személyazonosító adatainak és lakcímének zárt kezelését.
 
-(6) A tanú meghallgatásán nem lehet jelen az ügyfél és az eljárás egyéb résztvevője, ha a tanú védett adatról tesz vallomást, továbbá ha elrendelték a tanú természetes személyazonosító adatainak zárt kezelését.
+(5) A hatóság engedélyezheti, hogy a tanú a meghallgatását követően vagy helyette írásban tegyen tanúvallomást. Ebben az esetben a tanú a vallomását saját kezűleg leírja és aláírja, az elektronikus okirat formájában elkészített vallomását minősített elektronikus aláírással látja el, vagy a tanúnak a más módon leírt vallomását bíró vagy közjegyző hitelesíti. Cselekvőképtelen vagy korlátozottan cselekvőképes tanú esetén a törvényes képviselő, érdekellentét esetén a gyámhatóság képviselője is aláírja az írásbeli tanúvallomást. Az írásbeli tanúvallomás megtétele nem zárja ki, hogy a tanút meghallgatása céljából a hatóság idézze.
 
-(7)
+(6) Ha a tanú meghallgatása nélkül vagy a meghallgatását követően írásban tesz tanúvallomást, az írásbeli tanúvallomásból ki kell tűnnie, hogy a tanú a vallomást a vallomástétel akadályainak, valamint a hamis tanúzás következményeinek ismeretében tette meg. Erre a tanút a hatóság az írásbeli tanúvallomás megtételének engedélyezésével egyidejűleg, a vallomástétel akadályainak és a hamis tanúzás következményeinek ismertetésével figyelmezteti.
 
 55. § (1) A hatóság a biztosítási intézkedés alkalmazása során, szemlénél, lefoglalásnál, hatósági ellenőrzésnél hatósági tanút vehet igénybe.
 
@@ -1030,7 +1110,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (4) A (3) bekezdésben meghatározott esetben a 33. § (3) bekezdés d) pontja és a 33. § (8) bekezdése nem alkalmazható.
 
-57. § (1) A szemletárgy birtokosát és az 56. § (1) bekezdésében meghatározott személyt (a továbbiakban együtt: szemletárgy birtokosa) a szemléről – a (2) és (3) bekezdésben foglalt kivétellel – előzetesen értesíteni kell.
+57. § (1) A szemletárgy birtokosát és az 56. § (1) bekezdésében meghatározott személyt (a továbbiakban együtt: szemletárgy birtokosa) a szemléről – a (2) és (3) bekezdésben foglalt kivétellel – előzetesen értesíteni kell. Ha a szemle eredményessége érdekében indokolt, az értesítésnek tartalmaznia kell a szemletárgy birtokosának személyes jelenlétére, a szükséges iratok előkészítésére irányuló felhívást.
 
 (2) Ha az előzetes értesítés a szemle eredményességét veszélyeztetné, a szemletárgy birtokosát a szemléről annak megkezdésekor szóban kell tájékoztatni.
 
@@ -1105,7 +1185,13 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 ### Az eljárás akadályozásának következményei
 
-61. § (1) Az e törvényben meghatározott esetekben a kötelezettség felróható módon történő megszegése esetén eljárási bírság kiszabásának van helye. Ha az ügyfél vagy az eljárás egyéb résztvevője egyébként rosszhiszeműen jár el, a hatóság eljárási bírsággal sújthatja és az okozott többletköltségek megtérítésére kötelezi.
+61. § (1) Az e törvényben meghatározott esetekben a kötelezettség felróható módon történő megszegése esetén eljárási bírság kiszabásának van helye. Ha az ügyfél vagy az eljárás egyéb résztvevője egyébként rosszhiszeműen jár el, a hatóság eljárási bírsággal sújthatja.
+
+(1a) A hatóság az ügyfelet vagy az eljárás egyéb résztvevőjét az okozott többletköltségek megfizetésére kötelezi, ha
+
+- a) eljárási bírságot szab ki,
+- b) az ügyfél vagy az eljárás egyéb résztvevője jogellenes magatartása folytán vált szükségessé valamely eljárási cselekmény megismétlése, vagy
+- c) a többletköltség azért keletkezett, mert az ügyfél vagy az eljárás egyéb résztvevője valamely eljárási cselekményét nem a célszerűség figyelembevételével teljesítette.
 
 (2) Az eljárási bírság legkisebb összege esetenként ötezer forint, legmagasabb összege – a 141. § (1) bekezdésében foglalt eltéréssel – természetes személy esetén ötszázezer forint, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén pedig egymillió forint.
 
@@ -1134,19 +1220,20 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 63. § (1) A hatóság közmeghallgatást tart, ha
 
 - a) ezt jogszabály előírja,
-- b) az eljárásban több mint ötven ügyfél vagy több mint öt, a 15. § (5) bekezdés alapján ügyfélnek minősülő szervezet vesz részt, kivéve, ha törvény másként rendelkezik, vagy
+- b) az eljárásban több mint ötven ügyfél vagy több mint öt, a 15. § (5) bekezdésében meghatározott szervezet vesz részt, kivéve, ha törvény másként rendelkezik, vagy
 - c) a hatóság a nyilvánosság véleményének megismerése érdekében ezt szükségesnek tartja.
 
-(2) A közmeghallgatás helyéről és idejéről a hatóság – ha jogszabály másként nem rendelkezik – három nappal korábban hirdetményi úton, továbbá közhírré tétel útján értesíti az érintetteket.
+(2) A közmeghallgatás helyéről és idejéről a hatóság – ha jogszabály másként nem rendelkezik – legalább öt nappal korábban hirdetményi úton, továbbá közhírré tétel útján értesíti az érintetteket.
 
-(3) A közmeghallgatáson elhangzottakról a hatóság jegyzőkönyvet készít, amely tartalmazza
+(3) A közmeghallgatáson elhangzottakról készített jegyzőkönyv
 
 - a) a hatóság megnevezését, az ügyintéző nevét, az ügy tárgyát és az ügyiratszámot,
 - b) a közmeghallgatás helyét és időpontját,
-- c) a közmeghallgatáson elhangzottak összefoglalását, valamint
-- d) a jegyzőkönyv készítésének időpontját, az eljáró ügyintéző és a jegyzőkönyvvezető oldalankénti aláírását.
+- c) a közmeghallgatáson elhangzottak összefoglalását,
+- d) a jegyzőkönyv készítésének helyét és időpontját, valamint
+- e) az eljáró ügyintéző és jegyzőkönyvvezető oldalankénti aláírását tartalmazza.
 
-(4) A közmeghallgatás lefolytatásáról készített hangfelvétel, valamint a kép- és hangfelvétel a (3) bekezdés a)–b) pontjában felsoroltakat tartalmazza. A hangfelvételt, valamint a kép- és hangfelvételt hordozó eszközt az iratokhoz kell csatolni, vagy arról az eljárás befejezéséig a (3) bekezdésnek megfelelő tartalmú jegyzőkönyvet kell készíteni.
+(4) A hangfelvételt, valamint a kép- és hangfelvételt hordozó eszközt az iratokhoz kell csatolni, vagy arról az eljárás befejezéséig a (3) bekezdésnek megfelelő tartalmú jegyzőkönyvet kell készíteni.
 
 ### Egyezségi kísérlet
 
@@ -1170,7 +1257,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (7) A határidőt kétség esetén megtartottnak kell tekinteni.
 
-(8) Törvény vagy kormányrendelet eltérő rendelkezése hiányában az üzemzavar időtartamát a határidők számítása szempontjából figyelmen kívül kell hagyni.
+(8) Jogszabály eltérő rendelkezése hiányában az üzemzavar időtartamát a határidők számítása szempontjából figyelmen kívül kell hagyni.
 
 ### Igazolási kérelem
 
@@ -1297,19 +1384,44 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (3) Egy okiratba foglalható a határozat és a végzés, illetve több határozat vagy végzés. Az egy okiratba foglalt döntések rendelkező részét és indokolását döntésenként önállóan kell megszövegezni. Az egybefoglalás az egyes döntések meghozatalára vonatkozó határidőket és a jogorvoslati szabályok alkalmazását nem érinti. Ha a jogorvoslatra jogosult az egybefoglalt határozat és végzés ellen jogorvoslattal él, a határozat elleni jogorvoslat szabályait kell alkalmazni.
 
-(4) A jegyzőkönyvbe foglalt vagy az ügyiratra feljegyzett döntésben nem kell feltüntetni a 72. § (1) bekezdése a) és f) pontjában foglalt adatokat, ha azok az iratból kitűnnek.
+(4) A jegyzőkönyvbe foglalt vagy az ügyiratra feljegyzett döntésben a 72. § (1) bekezdés b) és c) pontjában, d) pont da), dc)–dg) alpontjában és g) pontjában foglalt adatokat, ezeken kívül azokat a 72. § (1) bekezdés szerinti adatokat kell szerepeltetni, amelyek az iratból nem tűnnek ki.
 
 (5) Jogszabály elrendelheti, hogy a hatóság a döntését az erre a célra rendszeresített formátumban, a jogszabályban meghatározott adattartalommal adja ki.
+
+### A hatósági döntések jogereje
+
+73/A. § (1) A hatóság első fokú döntése jogerőssé válik, ha
+
+- a) ellene nem fellebbeztek, és a fellebbezési határidő letelt,
+- b) a fellebbezésről lemondtak vagy a fellebbezést visszavonták,
+- c) a fellebbezésnek – ideértve a végzések elleni önálló fellebbezést – nincs helye, vagy
+- d) a fellebbezés elbírálására jogosult hatóság az elsőfokú hatóság döntését helybenhagyta.
+
+(2) A fellebbezésről lemondás vagy a fellebbezés visszavonása esetén jogerőre emelkedik a döntés
+
+- a) az első fokú döntés közlésekor, ha az ügyfél a kérelem teljesítése esetére már a döntés közlése előtt lemondott a fellebbezésről, és az ügyben nincs ellenérdekű ügyfél,
+- b) az utolsóként kézhez kapott lemondás vagy visszavonás hatósághoz való megérkezésének napján, ha a fellebbezési határidő tartama alatt valamennyi fellebbezésre jogosult lemond a fellebbezésről vagy visszavonja fellebbezését.
+
+(3) Az (1) bekezdés c) pontja szerinti esetben az első fokú döntés, valamint a másodfokú döntés a közléssel válik jogerőssé.
+
+(4) Az (1) bekezdés d) pontja szerinti esetben az első fokú döntés a másodfokú döntés közlésével válik jogerőssé.
+
+(5) A fellebbezési eljárás megszüntetése esetén a hatóság önállóan fellebbezhető első fokú végzése vagy a határozata a fellebbezési eljárás megszüntetéséről szóló végzés jogerőre emelkedésének napján válik jogerőssé.
+
+(6) Az első fokú döntés fellebbezéssel nem érintett rendelkezései az (1)–(5) bekezdésben meghatározottak szerint jogerőssé válnak, ha
+
+- a) csak az eljárás egyéb résztvevője fellebbezett a döntés rá vonatkozó rendelkezése ellen,
+- b) jogszabály így rendelkezik arra tekintettel, hogy kizárólag a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
 74. § (1) Ha a kötelezés jellege megengedi, a hatóság részletekben történő teljesítést is megállapíthat.
 
 (2) A kötelezett a teljesítési határidő lejárta előtt benyújtott kérelmében annak igazolásával kérheti az elsőfokú hatóságtól a pénzfizetési kötelezettség teljesítésére halasztás vagy a részletekben történő teljesítés (a továbbiakban együtt: fizetési kedvezmény) engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene. A fizetési kedvezményre vonatkozó szabályokat megfelelően kell alkalmazni meghatározott cselekmény teljesítésére és meghatározott ingóság kiadására irányuló kötelezettség esetén is.
 
-(3) A határidő lejárta után az ügyfél – feltéve, hogy a végrehajtást még nem rendelték el – a (2) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt. Ha a hatóság elutasítja az igazolási kérelmet és a fizetési kedvezmény iránti kérelmet, egyidejűleg dönt a végrehajtás elrendeléséről is.
+(3) A határidő lejárta után az ügyfél – feltéve, hogy a végrehajtást még nem indították meg – a (2) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt. Ha a hatóság elutasítja az igazolási kérelmet és a fizetési kedvezmény iránti kérelmet, egyidejűleg dönt a végrehajtás megindításáról is.
 
 (4) A hatóság meghallgathatja az ellenérdekű ügyfelet, illetve a jogosultat a fizetési kedvezmény engedélyezésével kapcsolatos álláspontjukról.
 
-(5) Törvény, kormányrendelet vagy önkormányzati hatósági ügyben önkormányzati rendelet a fizetési kedvezmény nyújtására a (2)–(4) bekezdésben foglaltaknál kedvezőbb feltételeket állapíthat meg, továbbá a feltételek meghatározásával rendelkezhet a kötelezettség mérséklésének és elengedésének lehetőségéről.
+(5) Jogszabály a fizetési kedvezmény nyújtására a (2)–(4) bekezdésben foglaltaknál kedvezőbb feltételeket állapíthat meg, továbbá a feltételek meghatározásával rendelkezhet a kötelezettség mérséklésének és elengedésének lehetőségéről.
 
 ### Az egyezség jóváhagyása
 
@@ -1327,6 +1439,15 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (2) Hatósági szerződés csak írásban köthető. Törvény, kormányrendelet és önkormányzati rendelet a szerződés megkötéséhez további feltételeket is meghatározhat.
 
+(2a) A hatósági szerződés tartalmazza
+
+- a) a szerződő felek személyét azonosító és a szerződés teljesítéséhez szükséges adatokat,
+- b) a szerződés tárgyát,
+- c) a felek közötti kapcsolattartás módját,
+- d) a felmondási okokat,
+- e) a szerződésszegésnek minősülő magatartásokat és azok jogkövetkezményeit, valamint
+- f) ha a szerződés tárgya ezt indokolttá teszi, a tevékenység ellenőrzésének gyakoriságát és rendjét.
+
 (3) Ha az ügyfél olyan kötelezettséget vállal, amelynek teljesítésére hatósági határozattal egyébként nem lenne kötelezhető, szerződéskötésre csak akkor kerülhet sor, ha az ügyfél a saját szerződésszegése esetére a többletkötelezettség tekintetében a hatósági szerződésben aláveti magát a szerződésszegés 77. § (2) bekezdésében megállapított jogkövetkezményének.
 
 (4) Ha a hatósági ügyben szakhatósági állásfoglalást kell beszerezni, a szerződés csak a szakhatóság hozzájárulása esetén és a szakhatósági állásfoglalásban meghatározott előírásoknak és feltételeknek a szerződésbe történő foglalásával köthető meg.
@@ -1337,9 +1458,9 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (7) A hatósági ügynek szerződéssel való lezárására a 33. §-ban megállapított ügyintézési határidő irányadó.
 
-77. § (1) Az ügy szempontjából jelentős új tény felmerülése, továbbá a szerződéskötéskor fennálló körülmények lényeges megváltozása esetén a szerződés módosítását bármelyik fél kezdeményezheti. Ha a módosításhoz a másik fél nem járul hozzá, vagy a felek között vita van a módosítás törvényi feltételei tekintetében, akkor a közigazgatási ügyekben eljáró bíróságtól kérhető a szerződés módosítása vagy megszüntetése.
+77. § (1) Az ügy szempontjából jelentős új tény felmerülése, továbbá a szerződéskötéskor fennálló körülmények lényeges megváltozása esetén a szerződés módosítását bármelyik fél kezdeményezheti.
 
-(2) Ha az ügyfél a szerződésben foglaltakat megszegi, törvény eltérő rendelkezése hiányában a szerződés jogerős és végrehajtható határozatnak minősül, és a hatóság – az addigi teljesítések figyelembevételével – hivatalból intézkedik a végrehajtás elrendeléséről.
+(2) Ha az ügyfél a szerződésben foglaltakat megszegi, a hatóság a hatósági ellenőrzés során feltárt tények, a szerződésszegés súlya, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok jellege, valamint a szerződés alapját képező közérdek hatékony érvényesülése szempontjából, továbbá az addigi teljesítések figyelembevételével mérlegeli, hogy hivatalból megindítja eljárását, intézkedik a végrehajtás megindítása iránt, vagy a hatósági szerződés módosítását kezdeményezi.
 
 (3) Ha a hatósági szerződésben foglaltakat a hatóság nem teljesíti, az ügyfél a teljesítésre irányuló felhívás eredménytelensége esetén – a szerződésszegés tudomására jutásától számított harminc napon belül – a közigazgatási ügyekben eljáró bírósághoz fordulhat.
 
@@ -1367,10 +1488,10 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (10) A döntés közlésének napja az a nap, amelyen azt írásban vagy szóban közölték, vagy a (8) bekezdésben meghatározott módon átadták. A hirdetmény útján közölt döntést a hirdetmény kifüggesztését követő tizenötödik napon kell közöltnek tekinteni.
 
-78/A. § Az ügyfelet kérelmére a hatóság – a döntés közléséről való gondoskodással egyidejűleg – elektronikus levélben tájékoztatja
+78/A. § Az ügyfelet kérelmére a hatóság – az iratok megküldéséről, közzétételéről való gondoskodással egyidejűleg – elektronikus levélben tájékoztatja
 
 - a) – a 39/A. § alapján hozott végzés kivételével – a vele nem közlendő végzések, valamint
-- b) a vele postai vagy hirdetményi úton közlendő döntések szövegéről.
+- b) a neki postai úton megküldendő, illetve hirdetményi úton közzéteendő iratok szövegéről.
 
 79. § (1) Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja úgy nyilatkozik, hogy a küldeményt nem veszi át, az iratot a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
 
@@ -1388,14 +1509,14 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (8) A hatósági kézbesítő által történő kézbesítésre az e §-ban foglalt rendelkezéseket megfelelően alkalmazni kell.
 
-80. § (1) Ha törvény másként nem rendelkezik, hirdetményi úton történő közlésnek van helye, feltéve, hogy
+80. § (1) Ha jogszabály másként nem rendelkezik, hirdetményi úton történő közlésnek van helye, feltéve, hogy
 
 - a) az ügyfél lakcíme, illetve székhelye ismeretlen, vagy a postai küldemény azzal a megjegyzéssel érkezik vissza, hogy a címzett ismeretlen helyre költözött, és a személyiadat- és lakcímnyilvántartást vezető hatóság vagy más állami szerv megkeresése nem járt eredménnyel,
 - b) a jogutód nem ismert,
 - c) az ügyfél nem jelöl meg kézbesítési meghatalmazottat, vagy
 - d) a hirdetményi kézbesítésen kívül igénybe vehető egyéb közlési módok alkalmazása elháríthatatlan akadályba ütközik, vagy alkalmazásuk előre eredménytelennek mutatkozik.
 
-(2) A hirdetménynek tartalmaznia kell
+(2) A hirdetmény tartalmazza
 
 - a) a kifüggesztés napját,
 - b) az eljáró hatóság megnevezését,
@@ -1403,7 +1524,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 - d) az ügyfél nevét és utolsó ismert lakcímét, illetőleg székhelyét, továbbá
 - e) azt a figyelemfelhívást, hogy a hatóság az ügyben döntést hozott, de annak kézbesítése meghiúsult, ezért az ügyfél vagy meghatalmazottja a döntést a hatóságnál átveheti.
 
-(3) Hirdetményi úton történő közlésnek van helye a hatásterületen élő és a 15. § (5) bekezdés alapján ügyfélnek minősülő szervezetek esetén, ideértve, ha az ügyfelek körét vagy a hatásterület határait nem lehet pontosan megállapítani. Ilyen esetben – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a hirdetmény a következő adatokat tartalmazza:
+(3) Hirdetményi úton történő közlésnek van helye a hatásterületen élő és a 15. § (5) bekezdésében meghatározott szervezetek esetén, ideértve, ha az ügyfelek körét vagy a hatásterület határait nem lehet pontosan megállapítani, továbbá abban az esetben, ha a 28/D. § alapján törvény vagy kormányrendelet hirdetményi úton való kapcsolattartást ír elő. Ilyen esetben a hirdetmény tartalmazza:
 
 - a) a kifüggesztés napját,
 - b) az eljáró hatóság megnevezését,
@@ -1415,7 +1536,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (4) A hirdetményt a hatóság hirdetőtáblájára és az ügyfél lakcíme, az ügy tárgyát képező ingatlan vagy tevékenység gyakorlásának vagy a jogellenes magatartás elkövetésének helye szerinti, valamint a hatásterületen lévő önkormányzat hirdetőtábláján ki kell függeszteni, a központi rendszeren és a hatóság elektronikus tájékoztatásra szolgáló honlapján közzé kell tenni, ezenkívül az önkormányzat hivatalos lapjában – ennek hiányában a helyi lapban –, valamint a hatóság hivatalos lapjában is közzétehető. Ha a hatóság kijelölés alapján jár el, a hirdetményt a hatáskörrel és illetékességgel rendelkező, valamint a kijelölés alapján eljáró hatóság is kifüggeszti és közzéteszi.
 
-(5) A döntés kifüggesztésének és az elektronikus tájékoztatásra szolgáló honlapon való megjelentetésének azonos napon kell megtörténnie. Hirdetményi kézbesítés esetén a hirdetmény kifüggesztésének és levételének napját az iraton meg kell jelölni, az internetes honlapon történő közzététel idejét visszakereshető módon dokumentálni kell.
+(5) A hirdetmény hatóság hirdetőtábláján való kifüggesztésének és elektronikus tájékoztatásra szolgáló honlapján való megjelentetésének azonos napon kell megtörténnie. A hirdetményi közléshez kapcsolódó határidők számításánál a hirdetménynek a hatóság hirdetőtábláján való kifüggesztését kell alapul venni. Hirdetményi közlés esetén a hirdetmény hatóság hirdetőtábláján való kifüggesztésének és levételének napját az iraton meg kell jelölni, az internetes honlapon történő közzététel idejét pedig visszakereshető módon dokumentálni kell.
 
 (6) Ha a hirdetményi úton történő közlés feltételei már nem állnak fenn, a hatóság haladéktalanul gondoskodik a hirdetmény eltávolításáról, és a kapcsolattartás általános szabályai szerint felveszi a kapcsolatot az ügyféllel.
 
@@ -1424,7 +1545,7 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 - a) állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv vagy személy ügyfélnek e tevékenységével kapcsolatban hozott,
 - b) közérdekű keresetindítással meg lehet támadni,
 - c) olyan ügyben hozott, amelyben jogszabály alapján a hatásterületen lévő ingatlan tulajdonosa és az ingatlan-nyilvántartásba bejegyzett használati jogosultja ügyfélnek minősült,
-- d) amelyben több mint ötven ügyfél vagy ötnél több, a 15. § (5) bekezdése alapján ügyfélnek minősülő szervezet vesz részt,
+- d) amelyben több mint ötven ügyfél vagy ötnél több, a 15. § (5) bekezdésében meghatározott szervezet vesz részt,
 - e) korlátozottan rendelkezésre álló természeti erőforrás elosztásáról, illetve felhasználásáról hozott,
 - f) olyan ügyben hozott, amelyben az ügyfél számára kizárólagos vagy különleges jogot biztosított,
 - g) személyek széles vagy pontosan meg nem határozható köre számára életveszéllyel vagy súlyos kárral fenyegető helyzet megelőzése, elhárítása vagy káros következményeinek enyhítése érdekében hozott,
@@ -1440,17 +1561,17 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 - b) képviselőt nem nevezett meg, és
 - c) elektronikus kapcsolattartásnak nincs helye.
 
-(2) A kézbesítési meghatalmazott feladata, hogy az eljárásban keletkezett, az ügyféllel közlendő döntéseket és iratokat átvegye, és azokat az ügyfél részére továbbítsa; e tevékenységéért az ügyféllel szemben a polgári jog szabályai szerint felel. Az ügyfél részére szóló és a kézbesítési meghatalmazottal szabályszerűen közölt döntést úgy kell tekinteni, hogy az a meghatalmazottal történt közlést követő ötödik munkanapon minősül az ügyféllel közöltnek.
+(2) A kézbesítési meghatalmazott feladata, hogy az eljárásban keletkezett, az ügyféllel közlendő döntéseket és iratokat átvegye, és azokat az ügyfél részére továbbítsa; e tevékenységéért az ügyféllel szemben a polgári jog szabályai szerint felel. Az ügyfél részére szóló és a kézbesítési meghatalmazottal szabályszerűen közölt döntést úgy kell tekinteni, hogy az a meghatalmazottal történt közlést követő tizenötödik napon minősül az ügyféllel közöltnek.
 
 (3) Ha a 80. § (1) bekezdés a)–c) pontja szerint hirdetményi kézbesítésnek lenne helye, és a döntés az ügyfél számára kötelezettséget állapít meg, vagy alapvető jogát vonja el vagy korlátozza, a döntés közlésének megkísérlése érdekében kézbesítési ügygondnok rendelhető ki. A kézbesítési ügygondnok gondoskodik az ügyfél tartózkodási helyének megállapításáról és a döntés kézbesítéséről.
 
-(4) Ha a kézbesítési ügygondnok eljárása nem járt sikerrel, a döntést azon a napon kell kézbesítettnek tekinteni, amikor a kézbesítés sikertelenségét a kézbesítési ügygondnok az őt kirendelő hatóságnak bejelenti, de legkésőbb a kirendeléstől számított tizedik munkanapon.
+(4) Ha a kézbesítési ügygondnok eljárása nem járt sikerrel, a döntést azon a napon kell kézbesítettnek tekinteni, amikor a kézbesítés sikertelenségét a kézbesítési ügygondnok az őt kirendelő hatóságnak bejelenti, de legkésőbb a kirendeléstől számított tizenötödik napon.
 
 (5) Sikeres kézbesítés esetén a kézbesítési ügygondnok a sikeres kézbesítés napjáról és az ügyfél tartózkodási helyéről haladéktalanul értesíti az őt kirendelő hatóságot.
 
 ### A döntés kijavítása és kiegészítése
 
-81/A. § (1) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a hatóság a hibát – szükség esetén az ügyfél meghallgatása után – kérelemre vagy hivatalból kijavítja, ha az nem hat ki az ügy érdemére, az eljárási költség mértékére vagy a költségviselési kötelezettségre.
+81/A. § (1) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a hatóság a hibát – szükség esetén az ügyfél meghallgatása után – kijavítja, ha az nem hat ki az ügy érdemére, az eljárási költség mértékére vagy a költségviselési kötelezettségre.
 
 (2) A kijavítást a hatóság
 
@@ -1486,7 +1607,7 @@ teljesíti.
 
 ### Közös szabályok
 
-82. § (1) E törvény rendelkezéseit a hatósági bizonyítvánnyal, igazolvánnyal és nyilvántartással kapcsolatos eljárásokban az e fejezetben szabályozott eltérésekkel kell alkalmazni. A hatósági nyilvántartással kapcsolatos eljárásokban e törvényt akkor kell alkalmazni, ha törvény, kormányrendelet vagy önkormányzati hatósági ügyben önkormányzati rendelet eltérően nem rendelkezik.
+82. § (1) E törvény rendelkezéseit a hatósági bizonyítvánnyal, igazolvánnyal és nyilvántartással kapcsolatos eljárásokban az e fejezetben szabályozott eltérésekkel kell alkalmazni. A hatósági nyilvántartással kapcsolatos eljárásokban e törvényt akkor kell alkalmazni, ha jogszabály eltérően nem rendelkezik.
 
 (2) A hatóság által valamely tény, adat, jogosultság vagy állapot igazolására kiállított okiratot, mindezek más hasonló módon történő igazolását, valamint a hatósági nyilvántartásba történt bejegyzést határozatnak kell tekinteni.
 
@@ -1498,7 +1619,7 @@ teljesíti.
 
 ### Hatósági bizonyítvány
 
-83. § (1) Az ügyfél kérelmére a hatóság tény, állapot vagy egyéb adat igazolására hatósági bizonyítványt ad ki. Törvény kivételes esetben lehetővé teheti, hogy a hatóság a hatósági bizonyítvány kiadása helyett a hatósági nyilvántartásba bejegyzett adatok alapjául szolgáló iratról adjon ki másolatot.
+83. § (1) Az ügyfél kérelmére a hatóság tény, állapot vagy egyéb adat igazolására hatósági bizonyítványt ad ki.
 
 (2) A hatósági bizonyítvány kiadására a 21. §-ban meghatározott hatóságok, továbbá az a hatóság is illetékes, amelynek
 
@@ -1522,9 +1643,9 @@ teljesíti.
 
 ### Hatósági igazolvány
 
-85. § (1) A hatóság – törvényben, kormányrendeletben vagy önkormányzati rendeletben meghatározott esetben és adattartalommal – az ügyfél adatainak vagy jogainak rendszeres igazolására hatósági igazolványt ad ki.
+85. § (1) A hatóság – jogszabályban meghatározott esetben és adattartalommal – az ügyfél adatainak vagy jogainak rendszeres igazolására hatósági igazolványt ad ki.
 
-(2) A hatósági igazolványba csak a jogszabályban erre feljogosított hatóság tehet – a jogszabályban meghatározott tartalmú – bejegyzést.
+(2)
 
 (3) A hatósági igazolványt a bejegyzett adatok és jogok igazolására – az ellenkező bizonyításáig – mindenki köteles elfogadni, ezekre nézve az ügyfél más bizonyításra nem kötelezhető. Az ellenkező bizonyítására megfelelően irányadók a 83. § (5)–(7) bekezdésében foglaltak.
 
@@ -1534,65 +1655,103 @@ teljesíti.
 
 86. § (1) A hatóság a jogszabályban meghatározott adatokról hatósági nyilvántartást vezet.
 
-(2) A hatósági nyilvántartásba történő hivatalbóli, mérlegelés nélküli bejegyzésre – ha jogszabály eltérően nem rendelkezik – a határozatra vonatkozó 71–73. §-okban és a 78. §-ban meghatározottakat nem kell alkalmazni, és a döntés a nyilvántartásba való bejegyzés napján jogerőre emelkedik.
+(2) A hatósági nyilvántartásba történő hivatalbóli, mérlegelés nélküli bejegyzésre a határozatra vonatkozó 71–73. §-okban és a 78. §-ban meghatározottakat nem kell alkalmazni, és a döntés a nyilvántartásba való bejegyzés napján jogerőre emelkedik.
 
 (3) A nyilvántartást vezető hatóság hivatalból köteles a jogszabálysértő bejegyzést törölni, a hibás bejegyzést javítani vagy az elmulasztott bejegyzést pótolni.
 
-(4) Ha jogszabály eltérően nem rendelkezik, az ügyfél jogorvoslati kérelmének benyújtására nyitva álló határidő akkor kezdődik, amikor a jogszabálysértő vagy hibás adat bejegyzése vagy a mulasztás az ügyfél tudomására jutott.
+(4) Az ügyfél jogorvoslati kérelmének benyújtására nyitva álló határidő akkor kezdődik, amikor a jogszabálysértő vagy hibás adat bejegyzése vagy a mulasztás az ügyfél tudomására jutott.
 
-(5) Ha jogszabály másként nem rendelkezik, az ügyfél illeték vagy díj lerovása mellett a nyilvántartásból hitelesített másolatot vagy kivonatot kérhet.
+(5) Az ügyfél illeték vagy díj lerovása mellett a nyilvántartásból hitelesített másolatot vagy kivonatot kérhet.
 
-(6) A Kormány által rendeletben meghatározott hatósági nyilvántartások tekintetében az ügyfél jogosult a rá vonatkozó adatok megváltozását az integrált ügyfélszolgálati irodánál bejelenteni. Az integrált ügyfélszolgálati iroda a változásbejelentést továbbítja a hatósági nyilvántartást vezető hatósághoz, amely a (3) bekezdés alapján jár el.
+(6) A Kormány által rendeletben meghatározott hatósági nyilvántartások tekintetében az ügyfél jogosult a rá vonatkozó adatok megváltozását a kormányablakban bejelenteni. A kormányablak a változásbejelentést továbbítja a hatósági nyilvántartást vezető hatósághoz, amely a (3) bekezdés alapján jár el.
 
 ### VI. Fejezet — HATÓSÁGI ELLENŐRZÉS
 
-87. § A törvény rendelkezéseit a hatósági ellenőrzésre az e fejezetben szabályozott eltérésekkel kell alkalmazni.
+### A hatósági ellenőrzés általános szabályai
 
-88. § (1) A hatóság – a hatáskörének keretei között – ellenőrzi a jogszabályban foglalt rendelkezések betartását, valamint a végrehajtható döntésben foglaltak teljesítését.
+87. § E törvény rendelkezéseit a hatósági ellenőrzésre az e fejezetben szabályozott eltérésekkel kell alkalmazni.
 
-(2) A hatósági ellenőrzés keretében a hatóság az ügyféltől jogszabályban, személyes adatok tekintetében törvényben meghatározott adatok szolgáltatását, iratok bemutatását kérheti, és egyéb tájékoztatást kérhet, vagy helyszíni ellenőrzést tart. Jogszabály időszakos vagy folyamatos adatszolgáltatási kötelezettséget és folyamatos helyszíni ellenőrzést is elrendelhet.
+88. § A hatóság – a hatáskörének keretei között – ellenőrzi a jogszabályban foglalt rendelkezések betartását, valamint a végrehajtható döntésben foglaltak teljesítését.
 
-(3) Ha jogszabály lehetővé teszi, a helyszíni ellenőrzés a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve a folyamatba beépített ellenőrző rendszerből történő táv-adatszolgáltatás útján is történhet.
+89. § A hatósági ellenőrzés eszközei:
 
-(4) A helyszíni ellenőrzés lefolytatására, ezzel kapcsolatban az ügyfél értesítésére és a helyszíni ellenőrzés akadályozására e törvénynek a szemlére vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy a szemletárgy birtokosára vonatkozó szabályokat az ügyfélre kell alkalmazni.
+- a) adatszolgáltatás, iratbemutatás és egyéb tájékoztatás kérésével megvalósuló ellenőrzés,
+- b) helyszíni ellenőrzés, vagy
+- c) ha jogszabály lehetővé teszi, a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve a folyamatba beépített ellenőrző rendszerből történő táv-adatszolgáltatás útján történő ellenőrzés.
 
-89–91. §
+90. § (1) Jogszabály időszakos vagy folyamatos adatszolgáltatási kötelezettséggel megvalósuló és folyamatos ellenőrzést is elrendelhet.
 
-92. § (1)–(2)
+(2) Jogszabály az ellenőrzési eljárás megindítására vonatkozó és a helyszíni ellenőrzést megelőző értesítési kötelezettség tekintetében eltérő szabályokat állapíthat meg, ha a hatóság az ügyfélnél folyamatosan lát el ellenőrzési feladatot.
 
-(3) A hatóság a helyszíni ellenőrzésről, az annak során tett megállapításokról, a lefoglalásról és az ügyfél által tett nyilatkozatról jegyzőkönyvet készít.
+91. § (1) A hatóság ellenőrzési tervet készít, amely tartalmazza legalább az előre ütemezett ellenőrzések tárgyát, az ellenőrzési időszakot, az ellenőrzések ütemezését, eszközét, valamint a hatóság vezetője által meghatározott egyéb adatokat. Az ellenőrzési tervben nem kell megjeleníteni a folyamatos ellenőrzési feladatot.
 
-(4) A jegyzőkönyv egy példányát a hatóság az ügyfélnek a helyszínen átadja, vagy azt az ügyfél részére az ellenőrzés befejezésétől számított tíz napon belül megküldi.
+(2) A hatóság az ellenőrzési tervben foglaltak, valamint az ellenőrzési tervben nem szereplő, de az ellenőrzési időszakban lefolytatott hatósági ellenőrzések végrehajtásáról, a levont következtetésekről a következő ellenőrzési időszak lezárása előtt ellenőrzési jelentést készít, amely tartalmazza legalább az ellenőrzések számát, az ellenőrzések eredményét, a megállapított jogsértések típusait, továbbá a hatóság vezetője által meghatározott egyéb statisztikai adatokat.
 
-(5) Ha a hatóság a helyszíni ellenőrzés során jogsértést nem tapasztal, jegyzőkönyv felvétele helyett hivatalos feljegyzést is készíthet, amelyet az ügyfél kérelmére a hatóság az ügyfélnek a helyszínen átad, vagy az ügyfél részére az ellenőrzés befejezésétől számított tíz napon belül megküld.
+(3) Az ellenőrzési tervet és jelentést a hatóság a honlapján és ügyfélfogadásra nyitva álló helyiségében közzéteszi. Az ellenőrzési tervet úgy, illetve azon részeit kell közzétenni, hogy az ne veszélyeztesse az ellenőrzések célját.
 
-(6) Ha törvény a hatósági ellenőrzés lefolytatását az ügyfél kérelmére lehetővé teszi, a hatóság az eljárás befejezésekor az ügyfélnek megküldi az ellenőrzésről készített jegyzőkönyvet vagy hivatalos feljegyzést.
+92. § A helyszíni ellenőrzésre e törvénynek a szemlére vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-93. § Ha a hatóság a hatósági ellenőrzés eredményeként megállapítja, hogy az ellenőrzés megindításáról értesített ügyfél nem sértette meg a jogszabályokban és a hatósági határozatban foglalt előírásokat, erről az ügyfelet értesíti.
+### A hatósági ellenőrzés lezárása
 
-94. § (1) Ha a hatóság a hatósági ellenőrzés eredményeként megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági határozatban foglalt előírásokat megsértette,
+93. § (1) A hatóság a hatósági ellenőrzésről készített jegyzőkönyv egy példányát az ügyfélnek a helyszínen átadja, vagy azt az ügyfél részére az ellenőrzés befejezésétől számított tíz napon belül megküldi.
 
-- a) és a jogszabály vagy hatósági határozat megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával – újabb hatósági eljárás lefolytatása nélkül – orvosolható, a hatóság felhívja az ügyfél figyelmét a jogszabálysértésre, és legalább húsz napos határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel végzésben kötelezi annak megszüntetésére,
-- b) ha az a) pont szerinti felhívásban meghatározott határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a hatóság hivatalból megindítja a hatáskörébe tartozó eljárást,
+(2) A 94. § (1) bekezdés b) pontjának alkalmazása esetén a hatóság értesítheti a jelen lévő ügyfelet a hivatalbóli eljárás megindításáról a 29. § (5) bekezdésében meghatározott, rendelkezésre álló adatok közlésével, valamint a helyszínen közölheti döntését.
+
+(3) Ha a hatóság a hatósági ellenőrzés során jogsértést nem tapasztal, jegyzőkönyv felvétele helyett egyszerűsített jegyzőkönyvet is készíthet, amelyet az ügyfél kérelmére a hatóság az ügyfélnek a helyszínen átad, vagy az ügyfél részére az ellenőrzés befejezésétől számított tíz napon belül megküld.
+
+(4) Ha törvény a hatósági ellenőrzés lefolytatását az ügyfél kérelmére lehetővé teszi, a hatóság az eljárás befejezésekor az ügyfélnek megküldi az ellenőrzésről készített jegyzőkönyv vagy egyszerűsített jegyzőkönyv személyes adatot nem tartalmazó kivonatát.
+
+(5) Ha a döntés kizárólag a jegyzőkönyv megállapításain alapul, a hatóság mellőzheti a hatósági ellenőrzésről készült jegyzőkönyv ügyfél részére történő megküldését.
+
+94. § (1) Ha a hatóság a hatósági ellenőrzés befejezéseként megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette,
+
+- a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a hatóság felhívja az ügyfél figyelmét a jogszabálysértésre, és legalább húsznapos határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel végzésben kötelezi annak megszüntetésére,
+- b) ha az a) pont szerinti felhívásban meghatározott határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a hatóság hivatalból megindítja a hatáskörébe tartozó eljárást, ideértve a hatáskörébe tartozó eljárási cselekmények megtételét és a jogkövetkezmény megállapítását is,
 - c) ha az a) és a b) pont azért nem alkalmazható, mert a hatóság az adott jogszabálysértés tekintetében nem rendelkezik hatáskörrel vagy illetékességgel, a hatóság a jegyzőkönyv jogszabálysértésre vonatkozó információkat tartalmazó részének megküldésével kezdeményezi a hatáskörrel rendelkező hatóság eljárását, illetve fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez.
 
-(2) Nem alkalmazható az (1) bekezdés a) pontja a 13. § (2) bekezdés b) pontja hatálya alá tartozó jogszabályi rendelkezés vagy az adatszolgáltatási vagy bejelentési kötelezettséget előíró jogszabályi rendelkezésnek a 13. § (2) bekezdés d) vagy e) pontja szerinti eljárásban megállapított megsértése esetén, valamint ha
+(2) Nem alkalmazható az (1) bekezdés a) pontja, ha
 
-- a) az autonóm államigazgatási szerv vagy önálló szabályozó szerv jár el,
-- b) azt jogszabály – a jogszabálysértés és a jogkövetkezmény alkalmazását megalapozó jogszabályi rendelkezés tételes megjelölésével – azért zárja ki, mert a jogszabálysértés, a hatósági határozat megsértése vagy az (1) bekezdés a) pontja szerinti határidő biztosítása az életet, a testi épséget, a nemzetbiztonságot, a vagyonbiztonságot, a közlekedés biztonságát, a környezet vagy a természet állapotának fenntarthatóságát, közteherviselési kötelezettség teljesítését vagy harmadik személy alapvető jogát közvetlenül veszélyezteti vagy veszélyeztetné,
-- c) a hatóság ugyanazon ügyféllel szemben az (1) bekezdés a) pontja szerinti felhívás eredménytelensége miatt egy éven belül jogerősen jogkövetkezményt állapított meg, vagy
-- d) a hatóság ugyanazon ügyféllel szemben ugyanazon jogszabályi vagy hatósági határozatban megállapított rendelkezés megsértése miatt egy éven belül az (1) bekezdés a) pontja alapján járt el.
+- a) a jogszabályban vagy hatósági döntésben foglalt előírások megsértése kizárólag újabb hatósági eljárás lefolytatásával orvosolható,
+- b) azt jogszabály – a jogszabálysértés és a jogkövetkezmény alkalmazását megalapozó jogszabályi rendelkezés tételes megjelölésével – azért zárja ki, mert a jogszabálysértés, a hatósági döntés megsértése vagy az (1) bekezdés a) pontja szerinti határidő biztosítása az életet, a testi épséget, a nemzetbiztonságot, a honvédelmi érdeket, a vagyonbiztonságot, a közlekedés biztonságát, a környezet vagy a természet állapotának fenntarthatóságát, közteherviselési kötelezettség teljesítését, az Európai Unió pénzügyi érdekeit, vagy harmadik személy alapvető jogát közvetlenül veszélyezteti vagy veszélyeztetné,
+- c) a hatóság ugyanazon ügyféllel szemben az (1) bekezdés a) pontja szerinti felhívás eredménytelensége miatt két éven belül jogerősen jogkövetkezményt állapított meg,
+- d) a hatóság ugyanazon ügyféllel szemben ugyanazon jogszabályi vagy hatósági határozatban megállapított rendelkezés megsértése miatt két éven belül az (1) bekezdés a) pontja alapján járt el,
+- e) az adott ügyben autonóm államigazgatási szerv vagy önálló szabályozó szerv jár el,
+- f) a 13. § (2) bekezdés b) pontja hatálya alá tartozó jogszabályi rendelkezést sértik meg,
+- g) az adatszolgáltatási vagy bejelentési kötelezettséget előíró jogszabályi rendelkezés megsértését a 13. § (2) bekezdés d) vagy e) pontja szerinti eljárásban állapítják meg, vagy
+- h) az ügyfél a közhiteles hatósági nyilvántartásba való, jogszabály által előírt bejelentési kötelezettségének nem tesz eleget.
 
 (3) A hatóság az (1) és (2) bekezdésben foglaltak ellenőrzése céljából nyilvántartást vezet, amely tartalmazza
 
 - a) az ügyfél nevét,
-- b) az ügyfélnek a hatóság által törvény alapján kezelhető azonosítóját, ennek hiányában természetes személy ügyfél esetén a természetes személyazonosító adatait,
-- c) a jogszabály vagy hatósági határozatban foglalt rendelkezés megsértése miatti felhívást a jogszabályi rendelkezés vagy hatósági határozatban foglalt rendelkezés, valamint felhívást tartalmazó végzés közlése időpontjának a megjelölésével, és
-- d) a felhívást tartalmazó végzés eredménytelensége tényét, valamint az emiatt megállapított jogkövetkezményt tartalmazó határozat jogerőre emelkedésének a napját.
+- b) az ügyfélnek a hatóság által törvény alapján kezelhető azonosítóját, ennek hiányában természetes személy ügyfél esetén a természetes személyazonosító adatait, lakcímét, illetve székhelyét,
+- c) a jogszabály vagy hatósági döntésben foglalt rendelkezés megsértése miatti felhívást a jogszabályi rendelkezés vagy hatósági döntésben foglalt rendelkezés, valamint felhívást tartalmazó végzés közlése időpontjának a megjelölésével, és
+- d) a felhívást tartalmazó végzés eredménytelensége tényét, valamint az emiatt megállapított jogkövetkezményt tartalmazó döntés jogerőre emelkedésének a napját.
 
-(4) A hatóság a (3) bekezdésben meghatározott adatokat azok keletkezésétől számított egy évig kezelheti.
+(4) A hatóság a (3) bekezdésben meghatározott adatokat azok keletkezésétől számított két évig kezeli.
 
-(5) Az (1) bekezdés c) pontja alapján megkeresett szerv köteles a megkeresést érdemben – közigazgatási hatóság esetén az (1) bekezdés alkalmazásával – megvizsgálni és saját intézkedéséről vagy az ilyen intézkedés mellőzésének okáról a megkereső hatóságot harminc napon belül tájékoztatni.
+(5) Az (1) bekezdés c) pontja alapján megkeresett szerv a megkeresést érdemben – közigazgatási hatóság esetén az (1) bekezdés alkalmazásával – megvizsgálja, és saját intézkedéséről vagy az ilyen intézkedés mellőzésének okáról a megkereső hatóságot harminc napon belül tájékoztatja.
+
+### VI/A. Fejezet — KÖZIGAZGATÁSI BÍRSÁG KISZABÁSÁNAK ELJÁRÁSJOGI ALAPJAI
+
+94/A. § (1) Ha jogszabály bírság kiszabását teszi lehetővé – ide nem értve a 61. § szerinti eljárási bírságot –, a hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – jogszabály eltérő rendelkezése hiányában – mérlegeli különösen:
+
+- a) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket, illetve a jogsértéssel elért előny mértékét,
+- b) a jogsértéssel okozott hátrány visszafordíthatóságát,
+- c) a jogsértéssel érintettek körének nagyságát,
+- d) a jogsértő állapot időtartamát,
+- e) a jogsértő magatartás ismétlődését és gyakoriságát,
+- f) a jogsértést elkövető eljárást segítő, együttműködő magatartását, valamint
+- g) a jogsértést elkövető gazdasági súlyát.
+
+(2) Ha jogszabály eltérően nem rendelkezik, nem indítható a jogsértés megállapítására és bírság kiszabására eljárás, ha a jogsértő magatartásnak a bírság kiszabására jogosult hatóság tudomására jutásától számított egy év, vagy az elkövetéstől számított öt év eltelt. Az ötéves határidő kezdő napja
+
+- a) az a nap, amikor a jogsértő magatartás megvalósul,
+- b) jogellenes állapot fenntartása esetén az a nap, amikor ez az állapot megszűnik.
+
+(3) Ha jogszabály eltérően nem rendelkezik, a (2) bekezdés szerinti egyéves határidő a hatóság számára újrakezdődik
+
+- a) a 94. § (1) bekezdés a) pontja szerinti végzés jogerőre emelkedésének napján,
+- b) ha a közigazgatási ügyekben eljáró bíróság a hatóságot új eljárás lefolytatására kötelezi.
 
 ### VII. Fejezet — Jogorvoslat és döntés-felülvizsgálat
 
@@ -1659,38 +1818,38 @@ teljesíti.
 
 (2) Az (1) bekezdés a), c)–f) pontjában meghatározott esetben az első fokú döntés bírósági felülvizsgálatának van helye.
 
-101. § (1) A fellebbezéssel megtámadott döntésben foglalt jogok nem gyakorolhatók és a fellebbezésnek a döntés végrehajtására halasztó hatálya van, kivéve, ha a hatóság a döntést a fellebbezés halasztó hatályának kizárásával végrehajthatónak nyilvánította.
+101. § (1) A fellebbezéssel megtámadott döntésben foglalt jogok nem gyakorolhatók és a fellebbezésnek a döntés végrehajtására halasztó hatálya van, kivéve, ha a döntés e törvény alapján fellebbezésre tekintet nélkül végrehajtható, vagy a hatóság nyilvánította a döntést a fellebbezés halasztó hatályának kizárásával végrehajthatónak.
 
-(2) A határozatban foglaltakat a fellebbezési jogra tekintet nélkül teljesíteni kell, ha az ügyfél javára megállapított egyszeri vagy rendszeres pénzkifizetést, pénzbeli ellátást – ideértve a pénzegyenértékben kifejezhető természetbeni ellátást – tartalmaz, és az ügyfél fellebbezése csak a megállapított összegen felüli többletigényre vonatkozik.
+(2) A döntésben foglaltakat a fellebbezésre tekintet nélkül teljesíteni kell, ha az ügyfél javára megállapított egyszeri vagy rendszeres pénzkifizetést, pénzbeli ellátást – ideértve a pénzegyenértékben kifejezhető természetbeni ellátást – tartalmaz, és az ügyfél fellebbezése csak a megállapított összegen felüli többletigényre vonatkozik.
 
-(3) A döntés akkor nyilvánítható fellebbezésre tekintet nélkül végrehajthatónak, ha
+(3) Az ideiglenes biztosítási intézkedésről szóló, valamint az iratbetekintési jog korlátozása iránti kérelemnek helyt adó végzés elleni fellebbezésnek nincs halasztó hatálya.
+
+(4) Az eljárási költség megállapításával és viselésével kapcsolatos döntés elleni fellebbezésnek nincs halasztó hatálya a döntés fellebbezéssel meg nem támadott rendelkezése tekintetében.
+
+(5) A döntés akkor nyilvánítható fellebbezésre tekintet nélkül végrehajthatónak, ha
 
 - a) életveszéllyel vagy súlyos kárral fenyegető helyzet megelőzése, elhárítása vagy káros következményeinek enyhítése miatt szükséges,
-- b) nemzetbiztonsági érdekből vagy a közbiztonság fenntartása érdekében, illetve fontos közrendvédelmi okból szükséges,
+- b) nemzetbiztonsági és honvédelmi érdekből vagy a közbiztonság fenntartása érdekében, illetve fontos közrendvédelmi okból szükséges,
 - c) a végrehajtás késedelme jelentős vagy helyrehozhatatlan kárral járna,
-- d) a határozat valakinek a tartásáról vagy gondozásáról rendelkezik,
-- e) azt törvény élelmiszerlánc-felügyelettel kapcsolatos, továbbá honvédelmi, nemzetbiztonsági, közegészségügyi, járványügyi, munkaügyi, munkavédelmi, fogyasztóvédelmi, kulturális örökségvédelmi, környezet- vagy természetvédelmi okból, továbbá a közérdekű közlekedési infrastruktúra kialakítása, illetve az energiaellátás folyamatos biztosítása érdekében lehetővé teszi, vagy
+- d) a döntés valakinek a tartásáról vagy gondozásáról rendelkezik,
+- e) azt törvény élelmiszerlánc-felügyelettel kapcsolatos, továbbá közegészségügyi, járványügyi, tűzvédelmi, katasztrófavédelmi, munkaügyi, munkavédelmi, fogyasztóvédelmi, kulturális örökségvédelmi, termőföld-, környezet- vagy természetvédelmi okból, továbbá a közérdekű közlekedési infrastruktúra kialakítása, illetve az energiaellátás folyamatos biztosítása érdekében lehetővé teszi, vagy
 - f) a hatósági nyilvántartásba történő haladéktalan bejegyzést törvény írja elő.
 
-(4) A döntésben a fellebbezésre tekintet nélküli végrehajthatóságot külön ki kell mondani, és meg kell indokolni, valamint a döntésben rendelkezni kell a végrehajtásról és a foganatosítás módjáról. Ha az ilyen döntésben a hatóság teljesítési határidőt állapított meg, a végrehajtás elrendelésére csak e határidő eredménytelen eltelte után kerülhet sor.
+(6) A hatóság a döntésében a fellebbezésre tekintet nélküli végrehajthatóságot külön kimondja, és megindokolja, valamint a döntésben rendelkezik a végrehajtásról és a foganatosítás módjáról. Ha az ilyen döntésben a hatóság teljesítési határidőt állapított meg, a végrehajtás megindítására csak e határidő eredménytelen eltelte után kerülhet sor.
 
-(5) Az ideiglenes biztosítási intézkedésről szóló, a természetes személyazonosító adatok és a lakcím zárt kezeléséről rendelkező, valamint az iratbetekintési jog korlátozása iránti kérelemnek helyt adó végzés elleni fellebbezésnek nincs halasztó hatálya.
-
-(6) Az eljárási költség megállapításával és viselésével kapcsolatos döntés elleni fellebbezésnek nincs halasztó hatálya a döntés fellebbezéssel meg nem támadott rendelkezése tekintetében.
-
-102. § (1) A fellebbezést annál a hatóságnál kell előterjeszteni, amely a megtámadott döntést hozta. Elkésettség címén a fellebbezés nem utasítható el, ha a fellebbezésre jogosult a fellebbezési határidőben a fellebbezést az elbírálására jogosult hatóságnál terjeszti elő.
+102. § (1) A fellebbezést annál a hatóságnál kell előterjeszteni, amely a megtámadott döntést hozta. Ha a fellebbezést a fellebbezés elbírálására jogosult hatóságnál nyújtják be, a fellebbezés elbírálására jogosult hatóság a fellebbezést megküldi az első fokú döntést hozó hatóság részére. Elkésettség címén a fellebbezés nem utasítható el, ha a fellebbezésre jogosult a fellebbezési határidőben a fellebbezést az elbírálására jogosult hatóságnál terjeszti elő.
 
 (2) A fellebbezésben új tények és bizonyítékok is felhozhatók.
 
 (3) Az elkésett fellebbezést, a fellebbezésre nem jogosulttól származó fellebbezést, valamint az önálló fellebbezéssel meg nem támadható végzés ellen irányuló fellebbezést az első fokú döntést hozó hatóság érdemi vizsgálat nélkül elutasítja. Ha az ügyfél a fellebbezéssel együtt nyújt be kérelmet a fellebbezési eljárásban való költségmentessége iránt, erről a kérelemről az első fokú döntést hozó hatóság dönt.
 
-(4) A fellebbezést az ügy összes iratával a fellebbezési határidő leteltétől számított nyolc napon belül fel kell terjeszteni a fellebbezés elbírálására jogosult hatósághoz, kivéve, ha a hatóság a megtámadott döntést a fellebbezésben foglaltaknak megfelelően kijavítja, kiegészíti, módosítja, visszavonja vagy a fellebbezést érdemi vizsgálat nélkül elutasítja. Ha az ügyfél a fellebbezési határidő elmulasztása miatt igazolási kérelmet nyújtott be, az ennek helyt adó döntés jogerőssé válását követő nyolc napon belül kell felterjeszteni a fellebbezést az ügy összes iratával együtt a fellebbezés elbírálására jogosult hatósághoz. A felterjesztés során az első fokú döntést hozó hatóság a fellebbezésről kialakított álláspontjáról is nyilatkozik.
+(4) Az első fokú döntést hozó hatóság megküldi a fellebbezést a szakhatóságnak.
 
-(5) Az első fokú döntést hozó hatóság megküldi a fellebbezést a szakhatóságnak.
+(5) Az első fokú döntést hozó hatóság a fellebbezést a fellebbezési határidő leteltétől számított nyolc – szakhatóság közreműködése esetén tizenöt – napon belül terjeszti fel a fellebbezés elbírálására jogosult hatósághoz, kivéve, ha a hatóság a megtámadott döntést a fellebbezésben foglaltaknak megfelelően kijavítja, kiegészíti, módosítja, visszavonja vagy a fellebbezést érdemi vizsgálat nélkül elutasítja, valamint ha a fellebbezést a felterjesztést megelőzően visszavonták. A fellebbezést az első fokú döntést hozó hatóság az ügy összes iratával együtt terjeszti fel és a fellebbezésről kialakított álláspontjáról is nyilatkozik.
 
-(6) Ha az ügyfél rövid szöveges üzenet fogadására szolgáló elérhetőségének, telefonszámának vagy elektronikus levélcímének megadásával előzetesen kérte, az első fokú döntést hozó hatóság a fellebbezés és az iratok felterjesztését követően értesíti a nem fellebbező ügyfelet arról, hogy a döntés fellebbezés benyújtása folytán nem vált jogerőssé.
+(6) Ha az ügyfél a fellebbezési határidő elmulasztása miatt igazolási kérelmet nyújtott be, a határidő az ennek helyt adó döntés jogerőssé válását követően kezdődik. Ha az ügyfél költségmentesség iránti kérelmet nyújtott be, a határidő a döntés jogerőssé válását követően kezdődik. Ha a fellebbezést a fellebbezés elbírálására jogosult hatóságnál nyújtották be, a felterjesztésre nyitva álló határidő a fellebbezésnek az első fokú döntést hozó hatósághoz érkezésével kezdődik.
 
-(7) Ha a fellebbezést a fellebbezés elbírálására jogosult hatóságnál nyújtják be, a fellebbezés elbírálására jogosult hatóság a fellebbezést megküldi az első fokú döntést hozó hatóság részére, amely a (4)–(6) bekezdés alapján jár el azzal, hogy a fellebbezés megérkezésétől számított nyolc napon belül kell felterjesztenie a fellebbezést az ügy összes iratával a fellebbezés elbírálására jogosult hatósághoz.
+(7) Az első fokú döntést hozó hatóság az ügyfél erre irányuló kérelme esetén a fellebbezés és az iratok felterjesztését követően tájékoztatja a nem fellebbező ügyfelet arról, hogy a döntés fellebbezés benyújtása folytán nem vált jogerőssé.
 
 ### A döntés módosítása vagy visszavonása fellebbezés alapján
 
@@ -1719,6 +1878,8 @@ teljesíti.
 (4) A másodfokú döntést hozó hatóság a fellebbezési eljárást megszünteti, ha valamennyi fellebbező a fellebbezési kérelmét visszavonta.
 
 105. § (1) A másodfokú döntést hozó hatóság a döntést helybenhagyja, megváltoztatja vagy megsemmisíti. Jogszabályban meghatározott esetben a másodfokú döntést hozó hatóság a mérlegelési jogkörben hozott első fokú döntésben meghatározott kötelezettségnél súlyosabb kötelezettséget nem állapíthat meg. Az erre irányuló fellebbezés hiányában is a másodfokú döntést hozó hatóság a fellebbezési eljárásban a teljesítésre új határidőt állapíthat meg, ha ez a fellebbezési eljárás miatt indokolt.
+
+(1a) A másodfokú döntés végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánítható, ha a fellebbezésre tekintet nélkül végrehajthatónak nyilvánítás feltételei fennállnak. A végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatóvá nyilvánításra a 101. § (6) bekezdése alkalmazandó.
 
 (2) Ha a másodfokú döntés meghozatalához nincs elég adat, vagy az első fokú döntés meghozatalát követően új tény merül fel, vagy egyébként a tényállás további tisztázása szükséges, a másodfokú döntést hozó hatóság a döntés megsemmisítése mellett az ügyben első fokú döntést hozó hatóságot végzésben új eljárásra utasíthatja, vagy a kiegészítő bizonyítási eljárás lefolytatását maga végzi el, és ennek alapján dönt.
 
@@ -1749,36 +1910,26 @@ teljesíti.
 
 (2) Ha törvény vagy kormányrendelet másként nem rendelkezik, a Kormány általános hatáskörű területi államigazgatási szerve jogosult a fellebbezés elbírálására, ha első fokon az (1) bekezdés hatálya alá nem tartozó hatósági ügyekben a polgármester vagy a 12. § (3) bekezdés d) pontjában meghatározott hatóság járt el.
 
-(3) A köztestület hatáskörébe utalt ügyben a fellebbezést törvényben meghatározott köztestületi szerv bírálja el, ilyen szerv hiányában az első fokú döntést hozó köztestület döntésével szemben a 109. §-ban foglaltaknak megfelelően bírósági felülvizsgálatnak van helye.
+(3) A köztestület hatáskörébe utalt ügyben a fellebbezést törvényben meghatározott köztestületi szerv bírálja el, ilyen szerv hiányában az első fokú döntést hozó köztestület döntésével szemben bírósági felülvizsgálatnak van helye.
 
 108. §
 
 ### Bírósági felülvizsgálat
 
-109. § (1) Az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője a hatóság jogerős határozatának felülvizsgálatát a határozat közlésétől számított harminc napon belül jogszabálysértésre hivatkozással kérheti a közigazgatási ügyekben eljáró bíróságtól a határozatot hozó hatóság, képviselő-testület által hozott határozat esetében a helyi önkormányzat elleni kereset indításával. A keresetindítás határidejét törvény eltérően is meghatározhatja.
+109. § (1) Az önállóan nem fellebbezhető végzések kivételével a döntés bírósági felülvizsgálata kezdeményezhető
 
-(2) Ha törvény alapján a végzés ellen önálló fellebbezésnek van helye, az ügyfél, továbbá a kifejezetten rá vonatkozó végzés esetében az eljárás egyéb résztvevője jogszabálysértésre hivatkozással kezdeményezheti a jogerős végzés bírósági felülvizsgálatát a végzés közlésétől számított harminc napon belül. Az elsőfokú végzés a közlésétől számított harminc napon belül közvetlenül a közigazgatási ügyekben eljáró bíróság előtt támadható meg, ha a végzést miniszter, autonóm államigazgatási szerv, önálló szabályozó szerv, kormányhivatal vezetője vagy – törvény vagy kormányrendelet eltérő rendelkezése hiányában – ha központi államigazgatási szerv vezetője hozta, vagy ha törvény az ügyben az első fokú határozattal szemben is kizárja a fellebbezést, és a határozat bírósági felülvizsgálatát teszi lehetővé. A közigazgatási ügyekben eljáró bíróság a végzést nemperes eljárásban vizsgálja felül.
+- a) a 100. § (2) bekezdésében meghatározott esetekben, vagy
+- b) ha a hatósági eljárásban a fellebbezésre jogosultak valamelyike a fellebbezési jogát kimerítette.
 
-(3) A bírósági felülvizsgálatra csak akkor kerülhet sor, ha a hatósági eljárásban a fellebbezésre jogosultak valamelyike a fellebbezési jogát kimerítette, vagy a fellebbezés törvény rendelkezései szerint kizárt.
+(2) Bírósági felülvizsgálat kezdeményezése esetén az első fokú döntést hozó hatóság erről az ügy iratainak felterjesztésével, illetve a bíróságra történő továbbításával egyidejűleg értesíti azokat, akiknek jogát vagy jogos érdekét a felülvizsgálat érinti. Ha a kezdeményező a döntés végrehajtásának felfüggesztését is kéri, akkor erről a hatóság a végrehajtást foganatosító szervet is értesíti, kivéve, ha a másodfokú döntést a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatónak nyilvánította.
 
-(4) Bírósági felülvizsgálat kezdeményezése esetén az első fokú döntést hozó hatóság erről az ügy iratainak felterjesztésével, illetve a bíróságra történő továbbításával egyidejűleg értesíti azokat, akiknek jogát vagy jogos érdekét a felülvizsgálat érinti. Ha a kezdeményező a döntés végrehajtásának felfüggesztését is kéri, akkor erről a hatóság a végrehajtást foganatosító szervet is értesíti.
+(3) Ha a közigazgatási ügyekben eljáró bíróság az ügy érdemében határozott, a hatóságnál ugyanabban az ügyben azonos tényállás mellett – a közigazgatási ügyekben eljáró bíróság által elrendelt új eljárás kivételével – nincs helye új eljárásnak.
 
-110. § (1) A keresetlevél, illetve a kérelem benyújtásának a döntés végrehajtására nincs halasztó hatálya, a bírósági felülvizsgálat kezdeményezésére jogosult azonban a keresetlevélben, illetve a kérelemben a döntés végrehajtásának felfüggesztését kérheti. A végrehajtás a kérelemnek a végrehajtást foganatosító szerv tudomására jutásától annak elbírálásáig nem foganatosítható.
+(4) A hatóságot a közigazgatási ügyekben eljáró bíróság határozatának rendelkező része és indokolása köti, a megismételt eljárás és a döntéshozatal során annak megfelelően jár el.
 
-(2) A végrehajtás felfüggesztésének hatálya kiterjed a határozaton alapuló jogok gyakorlására is.
+110. §
 
-(3) Nincs helye a végrehajtás felfüggesztésének, ha a határozat
-
-- a) a polgári védelmi szolgálat ellátásával kapcsolatos kötelezettséget állapít meg,
-- b) jogerős bírósági döntés végrehajtását szolgálja,
-- c) a honvédelmi kötelezettségek részét képező gazdasági és anyagi szolgáltatással kapcsolatos kötelezettséget állapít meg,
-- d) egészségügyi szolgáltató számára közfinanszírozott ellátások biztosításához szakellátási kapacitást vagy ahhoz kapcsolódó ellátási területet állapít meg.
-
-111. § (1) A közigazgatási ügyekben eljáró bíróság – az ügy érdemére ki nem ható eljárási szabály megsértésének kivételével – jogszabálysértés megállapítása esetén a közigazgatási döntést hatályon kívül helyezi, és szükség esetén a hatóságot új eljárásra kötelezi. Törvény rendelkezhet úgy is, hogy meghatározott közigazgatási hatósági ügyben a közigazgatási ügyekben eljáró bíróság a közigazgatási döntést megváltoztathatja.
-
-(2) Ha a közigazgatási ügyekben eljáró bíróság az ügy érdemében határozott, a hatóságnál ugyanabban az ügyben azonos tényállás mellett – a közigazgatási ügyekben eljáró bíróság által elrendelt új eljárás kivételével – nincs helye új eljárásnak.
-
-(3) A hatóságot a közigazgatási ügyekben eljáró bíróság határozatának rendelkező része és indokolása köti, a megismételt eljárás és a határozathozatal során annak megfelelően köteles eljárni.
+111. §
 
 ### Újrafelvételi eljárás
 
@@ -1834,7 +1985,7 @@ teljesíti.
 115. § (1) A felügyeleti szerv jogosult hivatalból megvizsgálni az ügyben eljáró hatóság eljárását, illetve döntését, és ennek alapján
 
 - a) megteszi a szükséges intézkedést a jogszabálysértő mulasztás felszámolására,
-- b) gyakorolja – ha törvény másként nem rendelkezik – a (2) bekezdésben szabályozott felügyeleti jogkört.
+- b) gyakorolja – ha törvény vagy kormányrendelet másként nem rendelkezik – a (2) bekezdésben szabályozott felügyeleti jogkört.
 
 (2) Ha a hatóság döntése jogszabályt sért, a felügyeleti szerv azt megváltoztatja vagy megsemmisíti. Szükség esetén a felügyeleti szerv a jogszabálysértő döntést végzésben megsemmisíti, és új eljárásra utasítja az ügyben eljárt hatóságot. A döntést közölni kell azzal, akivel a jogszabálysértő döntést közölték.
 
@@ -1872,8 +2023,8 @@ teljesíti.
 - b) az ügy nem tartozik az eljáró hatóság hatáskörébe vagy illetékességébe, kivéve, ha a hatóság a 22. § (3) bekezdése szerint járt el,
 - c) a határozatot a szakhatóság megkeresése nélkül vagy a szakhatóság jogszabályon alapuló állásfoglalásának figyelmen kívül hagyásával hozták meg,
 - d) a közigazgatási döntés tartalmát bűncselekmény befolyásolta, feltéve hogy a bűncselekmény elkövetését jogerős ítélet megállapította vagy ilyen ítélet meghozatalát nem a bizonyítottság hiánya zárja ki,
-- e) a döntést hozó testületi szerv nem volt határozatképes, vagy nem volt meg a döntéshez szükséges szavazati arány,
-- f) a döntés tartalma a 111. § (2) bekezdésében foglalt rendelkezésekkel ellentétes.
+- e) a döntést hozó testületi szerv nem volt jogszabályszerűen megalakítva, nem volt határozatképes, vagy nem volt meg a döntéshez szükséges szavazati arány,
+- f) a döntés tartalma a 109. § (3) és (4) bekezdésében foglalt rendelkezésekkel ellentétes.
 
 (2) Törvény valamely meghatározott forma mellőzését, illetve valamely súlyos eljárási jogszabálysértést is semmisségi okká minősíthet.
 
@@ -1894,18 +2045,14 @@ teljesíti.
 
 ### VIII. Fejezet — VÉGREHAJTÁS
 
-124. §
-
-125. § A közigazgatási végrehajtás szabályait kell alkalmazni
+124. § A közigazgatási végrehajtás szabályait kell alkalmazni
 
 - a) a hatóság döntésében megállapított,
 - b) a hatóság által jóváhagyott egyezségben vállalt,
-- c) a hatósági szerződésben vállalt, illetve a szerződés megszegése esetén a szerződés alapján az ügyfél által igénybe vett támogatás és egyéb kedvezmény visszatérítése iránti és,
-- d) a jogsegély keretében a külföldi hatóság hatósági ügyben hozott határozatában foglalt
+- c) a hatósági szerződésben vállalt, illetve a szerződés megszegése esetén a szerződés alapján az ügyfél által igénybe vett támogatás és egyéb kedvezmény visszatérítése iránti, és
+- d) a jogsegély keretében a külföldi hatóság hatósági ügyben hozott határozatában foglalt kötelezettség érvényesítésére, ha annak önkéntes teljesítése elmaradt.
 
-kötelezettség érvényesítésére, ha annak önkéntes teljesítése elmaradt.
-
-126. § (1) A végrehajtási eljárásban e törvény rendelkezéseit az e fejezetben szabályozott eltérésekkel kell alkalmazni.
+125. § (1) A végrehajtási eljárásban e törvény rendelkezéseit az e fejezetben szabályozott eltérésekkel kell alkalmazni.
 
 (2) E törvény eltérő rendelkezése hiányában végrehajtási eljárásban a bírósági végrehajtásról szóló 1994. évi LIII. törvényt (a továbbiakban: Vht.) a (3)–(7) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
@@ -1913,166 +2060,115 @@ kötelezettség érvényesítésére, ha annak önkéntes teljesítése elmaradt
 
 (4) A Vht. III. Fejezetéből az eljárás időpontjára, a követelés csökkenésének, megszűnésének bejelentésére és a helyszíni kényszercselekményekre, valamint az adós és a végrehajtási eljárásban részt vevő személyek adatainak beszerzésére, ellenőrzésére és kezelésére vonatkozó rendelkezések alkalmazásának van helye.
 
-(5) Ha ez a fejezet másként nem rendelkezik, ahol a Vht. bíróságot említ, azon végrehajtást elrendelő hatóságot, ahol végrehajtót, azon végrehajtást foganatosító szervet, ahol végrehajtható okiratot, azon végrehajtható döntést, ahol adóst, azon kötelezettet kell érteni. Ahol a Vht. végrehajtói letéti számlára teljesítésről rendelkezik, a végrehajtást foganatosító szerv számlájára kell teljesíteni. A végrehajtási eljárás során felmerülő költségek előlegezésére és viselésére, valamint az eljárási bírság kiszabására e törvény szabályait kell alkalmazni. Az eljárási bírság végrehajtására a pénzfizetési kötelezettség végrehajtására vonatkozó szabályokat kell alkalmazni.
+(5) Ha ez a fejezet másként nem rendelkezik, ahol a Vht. bíróságot említ, azon végrehajtást megindító hatóságot, ahol végrehajtót, azon végrehajtást foganatosító szervet, ahol végrehajtható okiratot, azon végrehajtható döntést, ahol adóst, azon kötelezettet kell érteni. Ahol a Vht. végrehajtói letéti számlára teljesítésről rendelkezik, a végrehajtást foganatosító szerv számlájára kell teljesíteni. A végrehajtási eljárás során felmerülő költségek előlegezésére és viselésére, valamint az eljárási bírság kiszabására e törvény szabályait kell alkalmazni. Az eljárási bírság végrehajtására a pénzfizetési kötelezettség végrehajtására vonatkozó szabályokat kell alkalmazni.
 
 (6) A Vht. ingó és ingatlan elektronikus árverésére vonatkozó szabályai alkalmazásának akkor van helye, ha önálló bírósági végrehajtó foganatosítja a végrehajtást.
 
-(7) Az ingatlan értékesítése során a végrehajtást foganatosító szerv – kivéve az önálló bírósági végrehajtót – a Vht. rendelkezéseit azzal az eltéréssel alkalmazza, hogy a második árverést akkor nem kell megtartani, ha az árverési vevő a második árverés megkezdése előtt befizette a vételárat vagy átutalta, és az arról szóló terhelési értesítőt a végrehajtást foganatosító szervnek bemutatta vagy másolatát átadta, és megtérítette a második árverés kitűzésével felmerült költséget.
+(7) Az ingatlan értékesítése során a végrehajtást foganatosító szerv – kivéve az önálló bírósági végrehajtót – a Vht. rendelkezéseit azzal az eltéréssel alkalmazza, hogy a második árverést akkor nem kell megtartani, ha az árverési vevő a második árverés megkezdése előtt befizette a vételárat vagy azt átutalta, és az arról szóló terhelési értesítőt a végrehajtást foganatosító szervnek bemutatta vagy másolatát átadta, és megtérítette a második árverés kitűzésével felmerült költséget.
 
 ### Végrehajtható döntések
 
-127. § (1) A hatóság döntése végrehajtható, ha
+126. § (1) A hatóság döntése végrehajtható, ha
 
 - a) pénzfizetésre, továbbá meghatározott cselekményre vagy magatartásra irányuló kötelezettséget állapít meg, a döntés jogerőre emelkedett, és a teljesítésre megállapított határidő vagy határnap (a továbbiakban együtt: határidő) eredménytelenül telt el,
 - b) a tűrésre vagy valamely cselekménytől vagy magatartástól való tartózkodásra irányuló kötelezettséget megállapító döntés jogerőre emelkedett, és az ügyfél a kötelezettséget – a végrehajtáshoz való jog elévülési idején belül – megszegte,
-- c) a döntés fellebbezésre tekintet nélküli végrehajtását vagy biztosítási intézkedésként való alkalmazását rendelték el,
+- c) a döntés fellebbezésre vagy végrehajtás felfüggesztése iránti kérelemre tekintet nélküli végrehajtását, vagy biztosítási intézkedésként való alkalmazását rendelték el,
 - d) a teljesítési határidőt nem tartalmazó döntés jogerőre emelkedett.
 
 (2) Az (1) bekezdés rendelkezéseit megfelelően alkalmazni kell a hatóság által jóváhagyott egyezségben vállalt és a hatósági szerződésből eredő kötelezettségekre is.
 
-128. § (1) A hatóság első fokú döntése jogerőssé válik, ha
+### A végrehajtás megindítása
 
-- a) ellene nem fellebbeztek, és a fellebbezési határidő letelt,
-- b) a fellebbezésről lemondtak vagy a fellebbezést visszavonták, vagy
-- c) a fellebbezés – ideértve a végzések elleni önálló fellebbezést – e törvény rendelkezései szerint kizárt.
+127. § (1) Az elsőfokú hatóság hivatalból indult eljárásban hivatalból, kérelemre indult eljárásban az ügyfél kérelmére vizsgálja, illetve – ha a kérelemre indult eljárásban az ügyfél erre irányuló kérelmet nem terjesztett elő, a hatóság azonban az eljárást hivatalból is lefolytathatta volna – vizsgálhatja a végrehajtható döntésben elrendelt kötelezettség teljesítését. Ha a teljesítés a rendelkezésre álló adatokból nem állapítható meg, szükség esetén a hatóság a teljesítési határidő leteltét, kérelemre indult eljárásban az ellenőrzés iránti kérelem beérkezését követő nyolc napon belül hatósági ellenőrzést tart.
 
-(2) Az (1) bekezdés b) pontjában szabályozott esetben jogerőre emelkedik a döntés
+(2) Az elsőfokú hatóság megindítja a végrehajtást, ha megállapította, hogy a végrehajtható döntésben elrendelt kötelezettség teljesítése határidőre nem vagy csak részben, vagy nem az előírásoknak megfelelően történt.
 
-- a) ha az ügyfél a kérelem teljesítése esetére már a döntés közlése előtt lemondott a fellebbezésről, és az ügyben nincs ellenérdekű ügyfél: az első fokú döntés közlésekor,
-- b) a fellebbezési határidő tartama alatt valamennyi fellebbezésre jogosult lemond a fellebbezésről vagy visszavonja fellebbezését: az utolsó kézhez kapott lemondás vagy visszavonás napján.
+(3) Ha az elsőfokú hatóság foganatosítja a végrehajtást, a végrehajtás megindításáról nem kell külön végzést hozni, hanem a foganatosítást az önkéntes teljesítés elmaradásának megállapításától számított nyolc napon belül meg kell kezdeni.
 
-(3) A fellebbezési eljárás megszüntetése esetén a hatóság a kérelmet érdemi vizsgálat nélkül elutasító, az eljárást megszüntető első fokú végzése vagy a határozata a fellebbezési eljárás megszüntetéséről szóló végzés jogerőre emelkedésének napján válik jogerőssé.
+(4) Ha a végrehajtást nem az elsőfokú hatóság foganatosítja, a végrehajtás megindításáról az elsőfokú hatóság – a rendelkezésére álló adatok vagy a hatósági ellenőrzés eredménye alapján – végzést hoz, amelyet közöl a végrehajtást foganatosító szervvel is. Ilyen esetben a végrehajtás a végrehajtást foganatosító szervvel való közlést követő napon indul meg.
 
-(4) Az első fokú döntés fellebbezéssel nem érintett rendelkezései tekintetében beáll a jogerő, ha csak az eljárás egyéb résztvevője fellebbezett a döntés rá vonatkozó rendelkezése ellen. Törvény vagy kormányrendelet egyes ügyfajták tekintetében úgy rendelkezhet, hogy a döntés fellebbezéssel nem támadott rendelkezései tekintetében beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+(5) A végzés tartalmazza
 
-(5) A másodfokú döntés a közléssel válik jogerőssé.
+- a) az elsőfokú hatóság nyilvántartásában vagy az ügy irataiban rendelkezésre álló, a végrehajtáshoz szükséges adatokat, és
+- b) pénzfizetési kötelezettség végrehajtása esetén a késedelmi pótlék mértékét.
 
-### A végrehajtás elrendelése
+(6) A végzés ellen a kötelezett kizárólag jogszabálysértésre hivatkozással élhet fellebbezéssel. A fellebbezésben elő kell adni annak alapjául szolgáló tényeket, és csatolni kell az azt alátámasztó bizonyítékokat. A fellebbezésnek a végzés végrehajtására nincs halasztó hatálya.
 
-129. § (1) Hivatalból indult eljárásban az elsőfokú hatóság vizsgálja a végrehajtható döntésben elrendelt kötelezettség teljesítését. Ha a teljesítés a hatóság rendelkezésére álló adatokból nem állapítható meg, szükség esetén a hatóság a teljesítési határidő leteltét követő nyolc napon belül hatósági ellenőrzést tart.
-
-(2) Ha az elsőfokú hatóság a rendelkezésre álló adatok vagy a jogosult igazolása alapján megállapította, hogy a végrehajtható döntésben elrendelt kötelezettség teljesítése határidőre nem vagy csak részben, vagy nem az előírásoknak megfelelően történt,
-
-- a) a jogosult kérelmére elrendeli a végrehajtást,
-- b) hivatalból elrendeli a végrehajtást, ha az eljárást hivatalból indította vagy folytatta, vagy
-- c) hivatalból elrendelheti a végrehajtást, ha a kérelemre indult eljárásban az ügyfél a végrehajtás megindítására irányuló kérelmet nem terjesztett elő, a hatóság azonban az eljárást hivatalból is lefolytathatta volna.
-
-(3) Az elsőfokú hatóság (a továbbiakban: végrehajtást elrendelő hatóság) az önkéntes teljesítés elmaradásának megállapításától számított nyolc napon belül dönt a végrehajtás foganatosításáról. Az erről szóló végzést a hatóság közli a jogosulttal, a kötelezettel és a végrehajtást foganatosító szervvel; a végzés a végrehajtást foganatosító szervvel való közlést követő napon végrehajthatóvá válik. Ha a végrehajtást elrendelő hatóság és a végrehajtást foganatosító szerv azonos, a végrehajtás foganatosításáról nem kell külön végzést hozni, hanem a foganatosítást az önkéntes teljesítés elmaradásának megállapításától számított nyolc napon belül meg kell kezdeni.
-
-(4) A végrehajtás foganatosításáról rendelkező végzés, ideértve az első végrehajtási cselekmény foganatosításáról szóló végzést is, tartalmazza
-
-- a) a végrehajtási eljárásban érvényesítendő kötelezettség pontos tartalmát,
-- b) az elsőfokú hatóság nyilvántartásában vagy az ügy irataiban rendelkezésre álló, a végrehajtáshoz szükséges adatokat és
-- c) pénzfizetési kötelezettség végrehajtása esetén a késedelmi pótlék mértékét.
-
-(5) A végrehajtás foganatosításáról rendelkező végzés ellen önálló fellebbezésnek van helye. A fellebbezésben elő kell terjeszteni a fellebbezés megalapozottságát alátámasztó bizonyítékokat.
-
-(6) A hatósági szerződésben foglalt kötelezettség megszegése esetén a végrehajtást elrendelő végzéssel szemben az ügyfél a közigazgatási ügyekben eljáró bírósághoz a végrehajtásra halasztó hatályú keresettel fordulhat.
-
-130. §
+(7) A hatósági szerződésben foglalt kötelezettség megszegését az elsőfokú hatóság végzésbe foglalja. Az ügyfél e végzéssel szemben a közigazgatási ügyekben eljáró bírósághoz a végrehajtásra halasztó hatályú keresettel fordulhat.
 
 ### A végrehajtás foganatosítása
 
-131. § (1) Kormányrendelet eltérő rendelkezése hiányában a végrehajtást az elsőfokú hatóság foganatosítja.
+128. § (1) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a végrehajtást az elsőfokú hatóság foganatosítja.
 
-(2) A végrehajtást foganatosító szerv a végrehajtásra önálló bírósági végrehajtóval szerződést köthet, a végrehajtás során azonban csak a végrehajtást elrendelő hatóság jogosult végzést hozni.
+(2) A végrehajtást foganatosító szerv a végrehajtásra önálló bírósági végrehajtóval szerződést köthet, a végrehajtás során azonban csak a végrehajtást megindító hatóság jogosult végzést hozni.
 
 (3) Törvény vagy kormányrendelet elrendelheti, hogy ha nem az elsőfokú hatóság foganatosítja a végrehajtást, akkor a döntés végrehajtását a végrehajtást foganatosító szerv az elsőfokú hatóság bevonásával foganatosítsa, ha ehhez olyan szakmai ismeretek vagy egyéb feltételek szükségesek, amelyekkel a végrehajtást foganatosító szerv nem rendelkezik.
 
-(4)–(5)
-
 ### Pénzfizetési kötelezettség végrehajtása
 
-132. § A közigazgatási végrehajtás során a pénzfizetési kötelezettség végrehajtására elsősorban a biztosítási intézkedés során lefoglalt, pénzforgalmi szolgáltatónál kezelt összeget, ha ez az összeg a követelést nem vagy csak részben fedezi, a kötelezett szabad rendelkezése alatt álló, pénzforgalmi szolgáltatónál kezelt összeget, vagy ha ez természetes személy esetében nem lehetséges, a kötelezett munkabérét kell végrehajtás alá vonni.
+129. § A közigazgatási végrehajtás során a pénzfizetési kötelezettség végrehajtására elsősorban a biztosítási intézkedés során lefoglalt, pénzforgalmi szolgáltatónál kezelt összeget, ha ez az összeg a követelést nem vagy csak részben fedezi, a kötelezett szabad rendelkezése alatt álló, pénzforgalmi szolgáltatónál kezelt összeget, vagy ha ez természetes személy esetében nem lehetséges, a kötelezett munkabérét kell végrehajtás alá vonni.
 
-133–134. §
-
-135. § (1) Ha a kötelezett a végrehajtás foganatosítása során bizonyítja, hogy a teljesítés elmaradása neki nem róható fel, és hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene, kérelmére a végrehajtást foganatosító szerv a jogosult meghallgatása után – a 74. § megfelelő alkalmazásával – fizetési kedvezményt engedélyezhet, ha azt jogszabály nem tiltja, és ahhoz a végrehajtást elrendelő hatóság előzetesen hozzájárult.
+130. § (1) Ha a kötelezett a végrehajtás foganatosítása során bizonyítja, hogy a teljesítés elmaradása neki nem róható fel, és hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene, kérelmére a végrehajtást foganatosító szerv a jogosult meghallgatása után – a 74. § megfelelő alkalmazásával – fizetési kedvezményt engedélyezhet, ha azt jogszabály nem tiltja, és ahhoz a végrehajtást megindító hatóság előzetesen hozzájárult.
 
 (2) A végrehajtási eljárásban fizetési kedvezményként a késedelmi pótlék is elengedhető vagy mérsékelhető, akár önállóan, akár más fizetési kedvezmény mellett. A késedelmi pótlék elengedéséhez, mérsékléséhez a jogosult hozzájárulása szükséges.
 
 (3) A fizetési kedvezményt megállapító végzésben foglalt feltételek fennállásáig a kötelezettel szemben végrehajtási cselekmény nem foganatosítható, és erre az időszakra késedelmi pótlék nem számítható fel. Ha a kötelezett a fizetési kedvezményt megállapító végzésben foglalt feltételeket megszegi, a végrehajtást foganatosító szerv a végrehajtást a hátralék teljes összegére folytatja a késedelmi pótlék visszamenőleges felszámításával.
 
-136. § (1) Ha a végrehajtás nem vezetett vagy aránytalanul hosszú idő múlva vezetne eredményre, a kötelezett bármely lefoglalható vagyontárgya végrehajtás alá vonható. Elsősorban az a vagyontárgy vonható végrehajtás alá, amelyre biztosítási intézkedést rendeltek el.
+131. § (1) Ha a végrehajtás nem vezetett vagy aránytalanul hosszú idő múlva vezetne eredményre, a kötelezett bármely lefoglalható vagyontárgya végrehajtás alá vonható. Elsősorban az a vagyontárgy vonható végrehajtás alá, amelyre biztosítási intézkedést rendeltek el.
 
-(2) Pénzfizetési kötelezettség teljesítése céljából ingatlan-végrehajtás elrendelésének van helye, ha
+(2) Ingatlan-végrehajtásnak akkor van helye, ha a követelés összege az ötszázezer forintot meghaladja, illetve ennél kisebb összeg esetén, ha a tartozás a végrehajtás alá vont ingatlan értékével arányban áll.
 
-- a) a pénzfizetési kötelezettség teljesítéséhez a kötelezett egyéb vagyonára vezetett végrehajtás nem vagy csak aránytalanul hosszú idő múlva nyújtana fedezetet, és
-- b) az ilyen módon végre nem hajtható kötelezettség összege legalább százezer forint.
+(3) A jogszabályban meghatározott lakásigény mértékének felső határát meg nem haladó nagyságú, a kötelezett és a vele együtt élő közeli hozzátartozók lakhatását közvetlenül szolgáló lakástulajdon a végrehajtás során csak akkor értékesíthető, ha a végrehajtás más formái nem vezettek eredményre.
 
-(3) Egyéb végrehajtás alá vonható ingatlan hiányában a kötelezett lakóhelyéül használt ingatlan akkor vonható végrehajtás alá, ha az ingatlan értéke az egymillió forintot eléri, vagy ennél kisebb érték esetén a kötelezettség összege az ingatlan értékével arányban áll.
-
-(4) Ha az ingatlan-végrehajtás elrendelésének nincs helye, és a kötelezett egyéb vagyonára vezetett végrehajtás is eredménytelen volt, a végrehajtást foganatosító szerv a kötelezett ingatlanát – a jogosult javára a behajthatatlan pénzkövetelés összege és járulékai összegéig – jelzálogjoggal terheli meg.
+(4) Ha az ingatlan-végrehajtás megindításának nincs helye, és a kötelezett egyéb vagyonára vezetett végrehajtás is eredménytelen volt, a végrehajtást foganatosító szerv a kötelezett ingatlanát – a jogosult javára a behajthatatlan pénzkövetelés összege és járulékai összegéig – jelzálogjoggal terheli meg.
 
 (5) Az ingatlanügyi hatóság – a végrehajtást foganatosító szerv megkeresésére – a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi.
 
-137. §
-
 ### Késedelmi pótlék
 
-138. § (1) A kötelezett késedelmi pótlékot köteles fizetni, ha
+132. § (1) A kötelezett késedelmi pótlékot köteles fizetni, ha
 
 - a) pénzfizetési kötelezettségének határidőben nem tett eleget, kivéve, ha törvény másként rendelkezik,
-- b) a hatósági szerződés alapján igénybe vett támogatást vagy kedvezményt vissza kell térítenie,
+- b) a hatósági szerződés alapján igénybe vett támogatást vagy kedvezményt vissza kell térítenie, vagy
 - c) azt a törvény elrendeli.
 
-(2)
+(2) A késedelmi pótlék mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
-(3) A késedelmi pótlék mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A késedelmesen megfizetett késedelmi pótlék után nem számítható fel késedelmi pótlék.
+(3) A késedelmi pótlékot pénzfizetési kötelezettség esetén a teljesítési határidő utolsó napját követő naptól, a hatósági szerződés alapján igénybe vett támogatás vagy kedvezmény visszatérítése esetén az igénybevétel első napjától a teljesítés vagy a visszatérítés napjáig terjedő időszakra, részleges teljesítés esetén a hátralékra kell felszámítani.
 
-(4) A késedelmi pótlékot pénzfizetési kötelezettség esetén a teljesítési határidő utolsó napját követő naptól, a hatósági szerződés alapján igénybe vett támogatás vagy kedvezmény visszatérítése esetén az igénybevétel első napjától a teljesítés vagy a visszatérítés napjáig terjedő időszakra, részleges teljesítés esetén a hátralékra kell felszámítani.
-
-(5)
-
-139. § (1) Késedelmi pótlékot kell felszámítani a végrehajtási eljárás során a költségviselésre, a pénzegyenérték vagy az eljárási bírság megfizetésére irányuló kötelezettség késedelmes teljesítése esetén, továbbá az állam által előlegezett költség után a megelőlegezés időtartamára.
+133. § (1) Késedelmi pótlékot kell felszámítani a végrehajtási eljárás során a költségviselésre, a pénzegyenérték vagy az eljárási bírság megfizetésére irányuló kötelezettség késedelmes teljesítése esetén, továbbá az állam által előlegezett költség után a megelőlegezés időtartamára. A késedelmesen megfizetett késedelmi pótlék után nem számítható fel késedelmi pótlék.
 
 (2) A késedelmi pótlék azt illeti, akinek javára a végrehajtható döntés alapján a fizetési kötelezettséget teljesíteni kell.
 
 ### Meghatározott cselekmény végrehajtása
 
-140. § (1) Ha a végrehajtás meghatározott cselekmény elvégzésére vagy meghatározott magatartásra (a továbbiakban együtt: meghatározott cselekmény) irányul, a teljesítés elmaradása esetén a végrehajtást foganatosító szerv
+134. § Ha a végrehajtás meghatározott cselekmény elvégzésére vagy meghatározott magatartásra (a továbbiakban együtt: meghatározott cselekmény) irányul, a teljesítés elmaradása esetén a végrehajtást foganatosító szerv
 
 - a) a meghatározott cselekményt a kötelezett költségére és veszélyére elvégeztetheti,
 - b) feljogosíthatja a jogosultat, hogy a meghatározott cselekményt a kötelezett költségére és veszélyére elvégezze vagy mással elvégeztesse,
 - c) a jogosult kérelmére a kötelezettet a szolgáltatás pénzegyenértékének megfizetésére kötelezheti,
-- d) ha a teljesítés elmaradása a kötelezettnek felróható, a kötelezettel szemben vagyoni helyzete és jövedelmi viszonyai vizsgálata nélkül eljárási bírságot szabhat ki.
+- d) ha a teljesítés elmaradása a kötelezettnek felróható, a kötelezettel szemben vagyoni helyzete és jövedelmi viszonyai vizsgálata nélkül eljárási bírságot szabhat ki,
 - e) a rendőrség közreműködésével kényszerítheti ki a meghatározott cselekményt.
 
-(2)
-
-141. § (1) Ha a meghatározott cselekmény elvégzéséhez szükséges költségek egy százaléka az eljárási bírság felső határánál nagyobb összeg, a végrehajtási eljárásban kiszabható eljárási bírság felső határa a teljesítési költség egy százalékáig terjedhet.
+135. § (1) Ha a meghatározott cselekmény elvégzéséhez szükséges költségek egy százaléka az eljárási bírság felső határánál nagyobb összeg, a végrehajtási eljárásban kiszabható eljárási bírság felső határa a teljesítési költség egy százalékáig terjedhet.
 
 (2) Az eljárási bírság ismételten kiszabható, ha a kötelezett a meghatározott cselekményt a bírságot kiszabó végzésben megállapított végrehajtási határidő alatt nem teljesítette, továbbá ha a meghatározott magatartásra vonatkozó rendelkezést ismételten megszegi.
 
-(3)
-
-142. § (1) A végrehajtás módjáról a végrehajtást foganatosító szerv – szükség esetén a jogosult, illetve a kötelezett meghallgatása után – dönt. A végrehajtást foganatosító szervnek azt az intézkedést kell megtennie, amely – az eset összes körülményét mérlegelve – a leghatékonyabban biztosítja a kötelezettség teljesítését.
-
-(2) A végrehajtást foganatosító szerv a fizetési kedvezmény szabályainak megfelelő alkalmazásával a kötelezettnek részletekben történő teljesítést engedélyezhet vagy halasztást engedélyezhet a teljesítésre.
-
-### Meghatározott ingóság kiadása
-
-143. § (1) A végrehajtást foganatosító szerv a fizetési kedvezmény szabályainak megfelelő alkalmazásával halasztást engedhet a kötelezettnek a teljesítésre.
-
-(2)–(6)
+136. § A végrehajtás módjáról a végrehajtást foganatosító szerv – szükség esetén a jogosult, illetve a kötelezett meghallgatása után – dönt. A végrehajtást foganatosító szervnek azt az intézkedést kell megtennie, amely – az eset összes körülményét mérlegelve – a leghatékonyabban biztosítja a kötelezettség teljesítését.
 
 ### Külföldi határozat végrehajtása
 
-144. § (1) Külföldi hatóság hatósági ügyben hozott határozatát (a továbbiakban: külföldi határozat) törvény rendelkezése, az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa vagy viszonosság alapján lehet végrehajtani.
+137. § (1) Külföldi hatóság hatósági ügyben hozott határozatát (a továbbiakban: külföldi határozat) törvény vagy kormányrendelet rendelkezése, az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa vagy viszonosság alapján lehet végrehajtani.
 
-(2) Külföldi határozat végrehajtásánál – ha törvény másként nem rendelkezik, vagy a viszonossági gyakorlatból más nem következik – e törvény szerint kell eljárni.
+(2) Külföldi határozat végrehajtásánál – az (1) bekezdés szerinti eltérő szabály hiányában – e törvény szerint kell eljárni.
 
-145. § (1) A külföldi határozat végrehajtása a határozatot kibocsátó vagy a külföldi jog szerint a végrehajtásra hatáskörrel rendelkező hatóság megkeresése alapján rendelhető el.
+(3) A külföldi határozat végrehajtása a határozatot kibocsátó vagy a külföldi jog szerint a végrehajtásra hatáskörrel rendelkező hatóság megkeresése alapján indítható meg.
 
-(2) A külföldi hatóság megkeresése alapján akkor lehet eljárni, ha a megkereséshez csatolták a kötelezettséget megállapító végrehajtható határozatot, valamint a megkeresés és a határozat hivatalos magyar nyelvű fordítását.
+138. § (1) A külföldi határozat végrehajtására irányuló megkeresést a kormányrendeletben kijelölt hatósághoz (a továbbiakban e §-ban: kijelölt hatóság) kell megküldeni.
 
-(3) A külföldi határozat belföldön akkor hajtható végre, ha megfelel a 127. §-ban foglalt feltételeknek, és a kötelezettség érvényesítése nem ütközik magyar jogszabályba.
+(2) A kijelölt hatóság megvizsgálja, hogy a megkeresés megfelel-e az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusában, a nemzetközi szerződésben megállapított feltételeknek vagy a viszonossági gyakorlatnak, illetve mindezek hiányában a 137. §-ban foglalt feltételeknek. A viszonosság kérdésében a külpolitikáért felelős miniszter állásfoglalása az irányadó, amelyet az ügyfajta tekintetében feladatkörrel rendelkező miniszterrel egyetértésben alakít ki. Ha a megkeresés hiányos vagy e törvény alapján nem hajtható végre, a kijelölt hatóság a megkeresést az ok közlésével visszaküldi a külföldi hatóságnak.
 
-146. § (1) A külföldi határozat végrehajtására irányuló megkeresést a kormányrendeletben kijelölt hatósághoz (a továbbiakban e §-ban: kijelölt hatóság) kell megküldeni.
-
-(2) A kijelölt hatóság megvizsgálja, hogy a megkeresés megfelel-e az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusában, a nemzetközi szerződésben megállapított feltételeknek vagy a viszonossági gyakorlatnak, illetve mindezek hiányában a 145. §-ban foglalt feltételeknek. A viszonosság kérdésében a külpolitikáért felelős miniszter állásfoglalása az irányadó, amelyet az ügyfajta tekintetében feladatkörrel rendelkező miniszterrel egyetértésben alakít ki. Ha a megkeresés hiányos vagy e törvény alapján nem hajtható végre, a kijelölt hatóság a megkeresést az ok közlésével visszaküldi a külföldi hatóságnak.
-
-(3) Ha a megkeresés a magyar jog szerint bírósági hatáskörbe tartozó kötelezettség végrehajtására irányul, a megkeresést a hatáskörrel rendelkező illetékes bírósághoz kell áttenni.
+(3) Ha a megkeresés a magyar jog szerint bírósági hatáskörbe tartozó kötelezettség végrehajtására irányul, a megkeresést a hatáskörrel rendelkező illetékes bírósághoz kell megküldeni.
 
 (4) Ha a külföldi határozat végrehajtható, a megkeresést a végrehajtás foganatosítása céljából meg kell küldeni a végrehajtás foganatosítására hatáskörrel rendelkező illetékes szervhez.
 
@@ -2080,13 +2176,13 @@ kötelezettség érvényesítésére, ha annak önkéntes teljesítése elmaradt
 
 ### Magyar közigazgatási hatóság döntésének külföldön történő végrehajtása
 
-147. § (1) A magyar hatóság döntésének külföldön történő végrehajtására az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa, törvény rendelkezése vagy viszonosság alapján kerülhet sor.
+139. § (1) A magyar hatóság döntésének külföldön történő végrehajtására az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa, törvény vagy kormányrendelet rendelkezése vagy viszonosság alapján kerülhet sor.
 
-(2) Ha a magyar hatóság döntésének külföldön történő végrehajtása szükséges, és az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa vagy törvény másként nem rendelkezik, vagy a viszonossági gyakorlatból más nem következik, az elsőfokú hatóság keresi meg a külföldi jog szerint hatáskörrel rendelkező hatóságot, vagy ha azt saját gyakorlata vagy felügyeleti szerve bevonásával nem tudja megállapítani, a megkeresést továbbítás céljából a külpolitikáért felelős miniszterhez küldi meg. A külpolitikáért felelős miniszter a megkeresésnek a külföldi állam külügyekért felelős miniszteréhez történő továbbításáról – a megkereső hatóság egyidejű tájékoztatásával – tizenöt napon belül intézkedik.
+(2) Ha a magyar hatóság döntésének külföldön történő végrehajtása szükséges, és – az (1) bekezdés szerinti szabályokból más nem következik –, az elsőfokú hatóság keresi meg a külföldi jog szerint hatáskörrel rendelkező hatóságot, vagy ha azt saját gyakorlata vagy felügyeleti szerve bevonásával nem tudja megállapítani, a megkeresést továbbítás céljából a külpolitikáért felelős miniszterhez küldi meg. A külpolitikáért felelős miniszter a megkeresésnek a külföldi állam külügyekért felelős miniszteréhez történő továbbításáról – a megkereső hatóság egyidejű tájékoztatásával – tizenöt napon belül intézkedik.
 
 ### A végrehajtás felfüggesztése
 
-148. § (1) A végrehajtást elrendelő hatóság, a fellebbezés elbírálására jogosult hatóság, a felügyeleti szerv vagy a bíróság függesztheti fel a végrehajtást. A végrehajtási eljárásban az eljárás felfüggesztésére vonatkozó rendelkezéseket a (2)–(6) bekezdésekben foglalt eltérésekkel kell alkalmazni.
+140. § (1) A végrehajtást megindító hatóság, a fellebbezés elbírálására jogosult hatóság, a felügyeleti szerv vagy a bíróság függesztheti fel a végrehajtást. A végrehajtási eljárásban az eljárás felfüggesztésére vonatkozó rendelkezéseket a (2)–(6) bekezdésekben foglalt eltérésekkel kell alkalmazni.
 
 (2) A végrehajtást fel kell függeszteni, ha
 
@@ -2095,82 +2191,76 @@ kötelezettség érvényesítésére, ha annak önkéntes teljesítése elmaradt
 - c) a kötelezett meghalt vagy megszűnt, a jogutódlás tárgyában hozott végzés jogerőre emelkedéséig,
 - d) azt az ügyész a végrehajtható döntés elleni ügyészi felhívásban indítványozza,
 - e) a végrehajtás folytatása életveszéllyel vagy helyrehozhatatlan kárral járna, vagy az közegészségügyi vagy közbiztonsági okból szükséges,
-- f) a kötelezett fizetési kedvezmény iránt kérelmet terjeszt elő, kivéve, ha az ügyfél korábbi, ilyen tárgyú kérelmét jogerősen már elbírálta, vagy a fizetési kedvezmény engedélyezését a törvény kizárja, valamint
-- g) azt törvény vagy kormányrendelet elrendeli.
+- f) a kötelezett fizetési kedvezmény iránt kérelmet terjeszt elő, kivéve, ha az ügyfél korábbi, ilyen tárgyú kérelmét jogerősen már elbírálta, vagy a fizetési kedvezmény engedélyezését jogszabály kizárja, valamint
+- g) azt jogszabály elrendeli.
 
-(3) A végrehajtást elrendelő hatóság a kötelezett kérelmére kivételesen akkor függesztheti fel a végrehajtást, ha a kötelezett a felfüggesztésre okot adó, méltányolható körülményt igazolta, és a kötelezettet a végrehajtási eljárás során korábban nem sújtották eljárási bírsággal.
+(3) A végrehajtást megindító hatóság a kötelezett kérelmére kivételesen akkor függesztheti fel a végrehajtást, ha a kötelezett a felfüggesztésre okot adó, méltányolható körülményt igazolta, és a kötelezettet a végrehajtási eljárás során korábban nem sújtották eljárási bírsággal.
 
-(4) A végrehajtás felfüggesztéséig foganatosított végrehajtási cselekmények hatályosak maradnak. A felfüggesztés elrendelésétől a megszüntetéséig újabb végrehajtási cselekmény nem foganatosítható.
+(4) A felfüggesztés alatt a végrehajtható döntésben foglaltak végrehajtása szünetel, a felfüggesztésig foganatosított végrehajtási cselekmények azonban hatályosak maradnak.
 
-(5) A végrehajtást foganatosító szerv a tudomására jutott felfüggesztési okokról és a felfüggesztés megszüntetésének lehetőségéről a végrehajtást elrendelő hatóságot értesíti.
+(5) A végrehajtást foganatosító szerv a tudomására jutott felfüggesztési okokról és a felfüggesztés megszüntetésének lehetőségéről a végrehajtást megindító hatóságot értesíti.
 
-(6) A végrehajtást elrendelő hatóság dönt a végrehajtás folytatásáról, ha a felfüggesztésre okot adó körülmény megszűnt.
+(6) A végrehajtást megindító hatóság dönt a végrehajtás folytatásáról, ha a felfüggesztésre okot adó körülmény megszűnt.
 
 ### A végrehajtás megszüntetése
 
-149. § (1) A végrehajtást elrendelő hatóság a végrehajtást megszünteti, ha
+141. § (1) A végrehajtást megindító hatóság a végrehajtást megszünteti, ha
 
 - a) a végrehajtható döntést visszavonták, megsemmisítették vagy hatályon kívül helyezték,
 - b) jogutód hiányában a végrehajtás nem folytatható,
 - c) a végrehajtáshoz való jog elévült,
 - d) a jogosult a végrehajtás megszüntetését kéri,
 - e) a további végrehajtási eljárási cselekményektől eredmény nem várható,
-- f) a végrehajtást foganatosító szerv a pénzkövetelést a pénzforgalmi szolgáltatóra vagy a munkáltatóra vonatkozó felelősségi szabály alapján vagy a kötelezett tartozásaiért külön törvény alapján helytállásra kötelezettel szemben érvényesítette,
-- g) a hatóság a jogutódlásra tekintettel a teljesítési határidőt a végrehajtás elrendelését követően meghosszabbította,
+- f) a végrehajtást foganatosító szerv a pénzkövetelést a pénzforgalmi szolgáltatóra vagy a munkáltatóra vonatkozó felelősségi szabály alapján vagy a kötelezett tartozásaiért jogszabály alapján helytállásra kötelezettel szemben érvényesítette,
+- g) a hatóság a jogutódlásra tekintettel a teljesítési határidőt a végrehajtás megindítását követően meghosszabbította,
 - h) a végrehajtást foganatosító szerv a kötelezettel szemben felszámolási eljárást kezdeményezett, illetve a kötelezett ellen felszámolási eljárás indult, vagy
 - i) törvény vagy kormányrendelet a végrehajtás megszüntetését egyéb okból lehetővé teszi.
 
-(2) A végrehajtást foganatosító szerv a tudomására jutott megszüntetési okokról és a végrehajtás befejezéséről a végrehajtást elrendelő hatóságot értesíti.
+(2) A végrehajtást foganatosító szerv a tudomására jutott megszüntetési okokról és a végrehajtás befejezéséről a végrehajtást megindító hatóságot értesíti.
 
 (3) A végrehajtást megszüntető végzést haladéktalanul közölni kell a jogosulttal és a kötelezettel, továbbá meg kell küldeni a végrehajtást foganatosító szervnek.
 
 ### A végrehajtáshoz való jog elévülése
 
-150. § (1) A végrehajtáshoz való jog a kötelezettséget megállapító döntés jogerőre emelkedésétől, vagy ha a döntés teljesítési határidőt vagy határnapot állapított meg, annak utolsó napjától, illetve a határnapot követő naptól számított öt év elteltével évül el. Jogszabály ennél rövidebb elévülési határidőt is megállapíthat.
+142. § (1) A végrehajtáshoz való jog a kötelezettséget megállapító döntés jogerőre emelkedésétől, vagy ha a döntés teljesítési határidőt vagy határnapot állapított meg, annak utolsó napjától, illetve a határnapot követő naptól számított öt év elteltével évül el. Jogszabály ennél rövidebb elévülési határidőt is megállapíthat.
 
-(2) Nyugszik az elévülés a végrehajtás felfüggesztése, továbbá a végrehajtási eljárásban engedélyezett fizetési kedvezmény időtartama alatt.
+(2) Nyugszik az elévülés a végrehajtás felfüggesztése, a végrehajtási eljárásban engedélyezett fizetési kedvezmény, továbbá a pénzfizetési kötelezettség folyamatos végrehajtásának időtartama alatt.
 
 (3) A végrehajtás elévülését bármely végrehajtási cselekmény megszakítja. Az elévülés megszakadásával az elévülési idő újra kezdődik. Az (1) bekezdésben meghatározott időponttól számított tíz év elteltével azonban a határozat nem hajtható végre.
 
-(4) Ha a határozat elévülés miatt nem hajtható végre, a behajthatatlan pénztartozást, valamint az ingatlanra a 136. § (5) bekezdése alapján bejegyzett jelzálogjogot törölni kell. A jelzálogjogot az ingatlanügyi hatóság a végrehajtást foganatosító szerv megkeresésére törli az ingatlan-nyilvántartásból.
+(4) Ha a határozat elévülés miatt nem hajtható végre, a behajthatatlan pénztartozást törölni kell.
 
 ### Biztosítási intézkedések
 
-151. § (1) Ha az eljárás tárgyát képező kötelezettség későbbi teljesítése veszélyben van, a teljesítési határidő lejárta előtt biztosítási intézkedésként pénzkövetelés biztosítása vagy meghatározott dolog zárlata rendelhető el.
+143. § (1) Ha az eljárás tárgyát képező kötelezettség későbbi teljesítése veszélyben van, a teljesítési határidő lejárta előtt, az erre okot adó körülmény felmerülésétől számított öt napon belül biztosítási intézkedésként pénzkövetelés biztosítása vagy meghatározott dolog zárlata rendelhető el.
 
-(2)
+(2) A biztosítási intézkedést az elsőfokú hatóság rendeli el, és a végrehajtást foganatosító szerv hajtja végre.
 
-(3) A biztosítási intézkedést a végrehajtás elrendelésére jogosult hatóság kérelemre vagy hivatalból rendeli el, és a végrehajtást foganatosító szerv hajtja végre.
-
-(4) A biztosítási intézkedést vissza kell vonni, ha
+(3) A biztosítási intézkedést vissza kell vonni, ha
 
 - a) azt pénzfizetési kötelezettség biztosítására rendelték el, és ezt az összeget a végrehajtást foganatosító szervnél letétbe helyezték,
 - b) azt meghatározott cselekmény biztosítása érdekében rendelték el, és a kötelezett kétséget kizáró módon igazolja, hogy az önkéntes teljesítéshez minden szükséges előkészületet megtett, és azt már csak a biztosítási intézkedés akadályozza, vagy
 - c) elrendelésének oka egyébként megszűnt.
 
-(5) Ha a végrehajtást foganatosító szerv a kötelezett használatában lévő ingatlan területén végez biztosítási intézkedést, hatósági tanú közreműködését veheti igénybe.
-
-(6) A biztosítási intézkedést elrendelő végzés ellen önálló fellebbezésnek van helye.
-
-(7)
+(4) A biztosítási intézkedést elrendelő végzés ellen önálló fellebbezésnek van helye.
 
 ### Jogorvoslat a végrehajtási eljárásban
 
-152. § (1) Ha e törvény a hatóság valamely első fokú döntése ellen önállóan lehetővé teszi a fellebbezést, a végrehajtást elrendelő hatóságnak a végrehajtási eljárásban hozott döntése ellen is van helye fellebbezésnek.
+144. § (1) Ha e törvény a hatóság valamely első fokú döntése ellen önállóan lehetővé teszi a fellebbezést, a végrehajtást megindító hatóságnak a végrehajtási eljárásban hozott döntése ellen is van helye fellebbezésnek.
 
 (2) A kötelezett, a jogosult, továbbá az, akinek jogát vagy jogos érdekét a végrehajtás sérti, a végrehajtást foganatosító szerv törvénysértő döntése, intézkedése ellen vagy az intézkedés elmulasztása esetén a végrehajtást foganatosító szervnél végrehajtási kifogást terjeszthet elő. A végrehajtási kifogást az intézkedésről való tudomásszerzést vagy az akadály megszűnését követő nyolc napon belül, de legkésőbb az intézkedéstől számított három hónapon belül lehet előterjeszteni.
 
-(3) A fellebbezést és a kifogást a fellebbezés elbírálására jogosult hatóság tizenöt napon belül bírálja el. A végrehajtási kifogást a végrehajtást elrendelő hatóság döntései elleni fellebbezés elbírálására jogosult hatóság bírálja el, ha a végrehajtást bírósági végrehajtó foganatosítja. Az önálló bírósági végrehajtót megillető díjazással kapcsolatos végrehajtási kifogást a végrehajtó székhelye szerint illetékes helyi bíróság bírálja el.
+(3) A fellebbezést és a végrehajtási kifogást a fellebbezés elbírálására jogosult hatóság tizenöt napon belül bírálja el. A végrehajtási kifogást a végrehajtást megindító hatóság döntései elleni fellebbezés elbírálására jogosult hatóság bírálja el, ha a végrehajtást bírósági végrehajtó foganatosítja. Az önálló bírósági végrehajtót megillető díjazással kapcsolatos végrehajtási kifogást a végrehajtó székhelye szerint illetékes helyi bíróság bírálja el.
 
-(4) Ha törvény eltérően nem rendelkezik, a fellebbezésnek és a kifogásnak a döntés végrehajtására nincs halasztó hatálya. A végrehajtási kifogás elbírálására a fellebbezési eljárás szabályait kell alkalmazni.
+(4) Ha törvény eltérően nem rendelkezik, a fellebbezésnek és a végrehajtási kifogásnak a döntés végrehajtására nincs halasztó hatálya. A végrehajtási kifogásra a fellebbezésre vonatkozó szabályokat kell megfelelően alkalmazni.
 
-### IX. Fejezet — Az eljárási költség és az eljárási költség viselése
+145–152. §
 
-### Az eljárási költség
+### IX. Fejezet — ELJÁRÁSI KÖLTSÉG, AZ ELJÁRÁSI KÖLTSÉG ELŐLEGEZÉSE ÉS VISELÉSE
 
-153. § (1)
+### Az eljárási költségek
 
-(2) Eljárási költségek:
+153. § Eljárási költségek:
 
 - 1. az eljárási illeték,
 - 2. az igazgatási szolgáltatási díj,
@@ -2186,59 +2276,68 @@ kötelezettség érvényesítésére, ha annak önkéntes teljesítése elmaradt
 - 12. a végrehajtási költség és a végrehajtási költségátalány,
 - 13. az eljárásban közreműködő rendőrségnél felmerült költség,
 - 14. a helyszíni szemlével, valamint a szakértői tevékenységgel jogszerűen okozott kárért járó kártalanítás összege,
-- 15. a törvényben vagy kormányrendeletben meghatározott egyéb eljárási költség.
+- 15. jogszabályban meghatározott, az 1–14. pont alá nem tartozó eljárási költség.
 
-(3)
+### Az eljárási költségre vonatkozó általános szabályok
 
-### Az eljárási költség viselése
-
-154. § (1) Ha az ellenérdekű ügyfelek részvételével folyó eljárás amiatt indult, mert a kérelmező a másik ügyfél jogellenes magatartását sérelmezte, a hatóság – ha egyes költségek tekintetében törvény másként nem rendelkezik – a 153. § (2) bekezdésében meghatározott eljárási költségek viselésére kötelezi
-
-- a) a kérelem elutasítása esetén a kérelmező ügyfelet,
-- b) a kérelemnek megfelelő döntés esetén az ellenérdekű ügyfelet.
-
-(2) Ha az ügy érdemében hozott határozat a kérelemnek részben ad helyt, a hatóság az eljárási költség általa megállapított arányban való viselésére kötelezi a kérelmezőt, illetve az ellenérdekű ügyfelet.
-
-155. § (1) A 153. § (2) bekezdésének 3–15. pontjában felsorolt költségek (a továbbiakban: egyéb eljárási költség) vonatkozásában
+154. § (1) A 153. § 3–15. pontjában felsorolt költségek (a továbbiakban: egyéb eljárási költség) vonatkozásában
 
 - a) a hatóság az eljárás során köteles költségkímélő módon és a célszerűség figyelembevételével eljárni,
 - b) az ügyfél, valamint az eljárás egyéb résztvevői kötelesek eljárási cselekményeiket a célszerűség figyelembevételével teljesíteni.
 
-(2) Az (1) bekezdésben foglaltak megsértésével okozott költséget – az e törvényben megállapított költségviselési szabályoktól eltérően – az azt okozó hatóság, ügyfél vagy az eljárás egyéb résztvevője viseli.
+(2) Az (1) bekezdésben foglaltak megsértésével okozott költséget az azt okozó hatóság, ügyfél vagy az eljárás egyéb résztvevője viseli.
 
-(3) Az egyéb eljárási költség összegét általában az érintett által bemutatott bizonyíték alapján kell megállapítani.
+### Az eljárási költség előlegezése
 
-156. § (1) A kérelemre indult eljárásban az egyéb eljárási költséget – ha törvény másként nem rendelkezik – a kérelmező ügyfél előlegezi meg, illetve viseli. Több azonos érdekű ügyfél esetén az egyéb eljárási költséget az ügyfelek – eltérő megállapodásuk hiányában – egymás között egyenlő arányban előlegezik meg, illetve viselik. Az ügyfél az előleg összegét letétbe helyezi a hatóságnál.
+155. § (1) Kérelemre indult eljárásban az egyéb eljárási költséget – ha jogszabály másként nem rendelkezik – a kérelmező ügyfél előlegezi meg. Több azonos érdekű ügyfél esetén az ügyfelek – eltérő megállapodásuk hiányában – egyetemlegesen felelősek az egyéb eljárási költség előlegezéséért. Az ügyfél az előleg összegét letétbe helyezi a hatóságnál.
 
-(2) Hivatalból indított eljárásban az egyéb eljárási költséget a hatóság előlegezi. A rendőrség igénybevételével kapcsolatos költséget az igénybevételt kérő hatóság megelőlegezi. Ha a határozat az ügyfél részére kötelezettséget állapít meg, a kötelezettség alapjául szolgáló jogszabálysértés bizonyításával összefüggésben felmerült költség viselésére az ügyfelet kell kötelezni. Ha a határozat több ügyfél részére állapít meg kötelezettséget, a hatóság köteles a költségek ügyfelek közötti megosztásáról is rendelkezni. A hatóság által megelőlegezett költséget a hatóság számlájára kell visszafizetni.
+(2) Hivatalból indult vagy folytatott eljárásban az egyéb eljárási költséget a 153. § 3., 6., 10. és 11. pontjában meghatározott, az ügyfél részéről felmerült költség kivételével a hatóság előlegezi.
 
-(3) Ha valamely bizonyítási eszköz igénybevételét kérelemre indult eljárásban a hatóság, illetve hivatalból indított eljárásban az ügyfél indítványozza, az ezzel összefüggő költség megelőlegezése az indítványozó szervet vagy személyt terheli. Ilyen esetben a költségviselés attól függ, hogy a határozat az indítványnak megfelelő bizonyítási eszközön alapul-e. Ez a rendelkezés az irányadó a kérelemre indult eljárásban az ügyfél indítványa nyomán alkalmazott bizonyítási eszközzel kapcsolatos költség viselésére is.
+(3) Az előlegezésről a hatóság a költségek felmerülésekor dönt, ha azonban már előre valószínűnek mutatkozik, hogy a felmerülő költségek jelentősebb összeget érnek el, vagy más körülmények ezt indokolttá teszik, a hatóság azt is elrendelheti, hogy az ügyfél a költségek fedezésére előreláthatóan szükséges összeget a hatóságnál előzetesen helyezze letétbe.
 
-(4) A hatóság a jogerősen megállapított összeg letéttel fedezett részét – ha törvény eltérően nem rendelkezik – a szakértő által benyújtott számla alapján tíz napon belül kiutalja. Ha a letét nem fedezi a szakértői díjat, kérelemre indult eljárás esetén a hatóság kötelezi az ügyfelet a szakértői díj viselésére és a még szükséges összeg letétbe helyezésére.
+(4) Az ügyfél nem kötelezhető olyan eljárási költség előlegezésére, amelyet a díj tartalmaz.
 
-(5) Ha az ügyfélnek vagy az eljárás egyéb résztvevőjének jogellenes magatartása miatt vált szükségessé valamely eljárási cselekmény megismétlése, a hatóság az ezzel kapcsolatos többletköltség megfizetésére kötelezi a jogellenes magatartást tanúsító személyt.
+(5) A bizonyítási eljárással járó költségeket a bizonyítást indítványozó fél előlegezi.
 
-(6) Az ügyfél nem kötelezhető olyan eljárási költség előlegezésére és viselésére, amelyet a díj tartalmaz.
+(6) A rendőrség igénybevételével kapcsolatos költséget az igénybevételt kérő hatóság előlegezi.
 
-157. § (1) A végrehajtási eljárás során felmerülő költséget az viseli, aki a végrehajtás elrendelésére és foganatosítására okot adott.
+### Az eljárási költség viselése
 
-(2) Ellenérdekű ügyfelek részvételével folyó eljárásban a költség viselésére a 154. §-ban foglaltak megfelelően irányadók.
+156. § Ha a hatóság az ügyfelet vagy az eljárás egyéb résztvevőjét marasztalja el valamely eljárási cselekmény költségében, azonnal kötelezi a költségek megfizetésére. Ugyanígy járhat el a hatóság akkor is, ha valamely eljárási cselekmény költségének összege és a viselésére kötelezett személy az ügy eldöntésére tekintet nélkül megállapítható.
 
-(3) Ha a hatáskörrel rendelkező illetékes hatóság mulasztása miatt a felügyeleti szerv más hatóságot jelöl ki az eljárás lefolytatására, a hatáskörrel rendelkező illetékes hatóság megtéríti a kijelölt hatóságnak az e törvény alapján az utóbbit terhelő egyéb eljárási költséget.
+157. § (1) A kérelemre indult eljárásban az egyéb eljárási költséget – ha jogszabály másként nem rendelkezik – a kérelmező ügyfél viseli. Több azonos érdekű ügyfél esetén az ügyfelek – eltérő megállapodásuk hiányában – egyetemlegesen felelősek az eljárási költség viseléséért.
 
-(4) A belföldi jogsegély keretében a megkeresett hatóság vagy más szerv eljárása során felmerült egyéb eljárási költséget a megkereső hatóság vagy más szerv megtéríti.
+(2) Az ellenérdekű ügyfelek részvételével folyó eljárásban a hatóság – ha egyes költségek tekintetében jogszabály másként nem rendelkezik – a 153. §-ban meghatározott eljárási költségek viselésére kötelezi
+
+- a) a kérelem elutasítása esetén a kérelmező ügyfelet,
+- b) a kérelemnek megfelelő döntés esetén az ellenérdekű ügyfelet,
+- c) az eljárás megszüntetése esetén azt az ügyfelet, akinek eljárási cselekménye folytán az eljárási költség felmerült.
+
+(3) Ha a határozat a kérelemnek részben ad helyt, a hatóság az eljárási költség általa megállapított arányban való viselésére kötelezi a kérelmező ügyfelet, illetve az ellenérdekű ügyfelet.
+
+(4) Ha a hatóság az ügyfél részére kötelezettséget állapít meg, a kötelezettség alapjául szolgáló jogszabálysértés bizonyításával összefüggésben felmerült költség viselésére – ha jogszabály másként nem rendelkezik – az ügyfelet kötelezi. Ha a hatóság több ügyfél részére állapít meg kötelezettséget, a költségek ügyfelek közötti megosztásáról is rendelkezik.
+
+157/A. § (1) Ha a hatáskörrel rendelkező illetékes hatóság mulasztása miatt a felügyeleti szerv más hatóságot jelöl ki az eljárás lefolytatására, a hatáskörrel rendelkező illetékes hatóság megtéríti a kijelölt hatóságnak az e törvény alapján az utóbbit terhelő egyéb eljárási költséget.
+
+(2) A belföldi jogsegély keretében a megkeresett szerv vagy más szerv eljárása során felmerült egyéb eljárási költséget a megkereső hatóság vagy más szerv megtéríti.
+
+(3) A szakhatóság viseli a szakhatósági állásfoglalás módosításával okozott többletköltségeket, kivéve, ha a szakhatósági állásfoglalás módosítását jogszabályváltozás tette szükségessé.
+
+(4) A hatóság a szakértői díj jogerősen megállapított összeg letéttel fedezett részét – ha törvény eltérően nem rendelkezik – a szakértő által benyújtott számla alapján tizenöt napon belül kiutalja. Ha a letét nem fedezi a szakértői díjat, kérelemre indult eljárás esetén a hatóság kötelezi az ügyfelet a szakértői díj viselésére és a még szükséges összeg letétbe helyezésére.
 
 (5) Az iratbetekintést kérő viseli az iratbetekintési jog gyakorlásával okozott költséget.
 
-(6) A szakhatóság viseli a szakhatósági állásfoglalás módosításával okozott többletköltségeket, kivéve, ha a szakhatósági állásfoglalás módosítását jogszabályváltozás tette szükségessé.
+(6) A végrehajtási eljárás során felmerülő költséget az viseli, aki a végrehajtás megindítására és foganatosítására okot adott.
 
 ### Döntés az eljárási költség viseléséről
 
 158. § (1) Az eljárási költséget a hatóság összegszerűen határozza meg, és dönt a költség viseléséről, illetve a megelőlegezett költség esetleges visszatérítéséről.
 
-(2) A hatóság a szakértő díját – a szakértő által benyújtott díjjegyzék alapulvételével – a szakvélemény beérkezését, a szakértő meghallgatása esetében a meghallgatását követően tizenöt napon belül állapítja meg. A szakértő díját az eljáró hatóság állapítja meg akkor is, ha a szakértőt a megkeresett hatóság rendelte ki.
+(2) Az egyéb eljárási költség összegét általában az érintett által bemutatott bizonyíték alapján kell megállapítani.
 
-(3) A hatóság – tekintettel a 155. § (1) bekezdés b) pontjában foglaltakra – az indokolatlanul magas egyéb eljárási költség helyett alacsonyabb összeget állapít meg.
+(3) A hatóság a szakértő díját – a szakértő által benyújtott díjjegyzék alapulvételével – a szakvélemény beérkezését, a szakértő meghallgatása esetében a meghallgatását követően tizenöt napon belül állapítja meg. A szakértő díját az eljáró hatóság állapítja meg akkor is, ha a szakértőt a megkeresett hatóság rendelte ki.
+
+(4) A hatóság – tekintettel a 154. § (1) bekezdés b) pontjában foglaltakra – az indokolatlanul magas egyéb eljárási költség helyett alacsonyabb összeget állapít meg.
 
 ### Költségmentesség
 
@@ -2252,9 +2351,11 @@ kötelezettség érvényesítésére, ha annak önkéntes teljesítése elmaradt
 
 (5) A költségmentességet engedélyező, a költségmentesség módosításáról és visszavonásáról szóló végzést a hatóság közli az eljárásban részt vevő azon hatóságokkal, amelyek eljárása illeték- vagy díjfizetési kötelezettség alá esik.
 
-(6) Törvény költségmentességet gazdálkodó szervezet, jogi személy és jogi személyiséggel nem rendelkező szervezet részére is megállapíthat.
+(6) Az illeték vagy díj tekintetében nem részesíthető költségmentességben az egyetemleges fizetési kötelezettség alapján fizetésre kötelezett ügyfél, kivéve, ha egyébként költségmentességben részesült.
 
-(7) Az illeték vagy díj tekintetében nem részesíthető költségmentességben az egyetemleges fizetési kötelezettség alapján fizetésre kötelezett ügyfél, kivéve, ha egyébként költségmentességben részesült.
+(7) Törvény költségmentességet jogi személy és jogi személyiséggel nem rendelkező szervezet részére is megállapíthat.
+
+(8) Törvény vagy kormányrendelet meghatározhat olyan ügyet, amelyben az ügyfelet költségmentesség illeti meg. Ilyen esetben – törvény vagy kormányrendelet eltérő rendelkezése hiányában – az egyéb eljárási költségeket az állam előlegezi és viseli.
 
 ### X. Fejezet — Elektronikus tájékoztatás és hatósági szolgáltatás
 
@@ -2307,6 +2408,124 @@ kötelezettség érvényesítésére, ha annak önkéntes teljesítése elmaradt
 
 (2) Az (1) bekezdés b) és c) pontjában meghatározott hatósági szolgáltatás teljesítésére jogszabály az érintett hatóságok számára soronkívüliséget vagy rövidített ügyintézési határidőt is megállapíthat.
 
+### X/A. Fejezet — AZ EGYENLŐ BÁNÁSMÓD KÖVETELMÉNYÉNEK ÉRVÉNYESÍTÉSÉVEL KAPCSOLATOS HATÓSÁGI ELJÁRÁSOK
+
+### Az egyenlő bánásmód követelményének megsértése miatt indított hatósági eljárás általános szabályai
+
+169/B. § (1) Az egyenlő bánásmód követelményének érvényesülését ellenőrző hatóság (e fejezetben a továbbiakban: hatóság) az e fejezetben meghatározott feladatkörében nem utasítható.
+
+(2) A hatóság
+
+- a) kérelem alapján vagy hivatalból vizsgálatot folytat annak megállapítására, hogy megsértették-e az egyenlő bánásmód követelményét, valamint
+- b) kérelem alapján vizsgálatot folytat annak megállapítására, hogy az arra kötelezett munkáltatók elfogadtak-e esélyegyenlőségi tervet.
+
+(3) A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, az alapvető jogok biztosa, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
+
+169/C. § (1) Az egyenlő bánásmód követelménye megsértésének vizsgálatát a sérelmet szenvedett fél választása szerint
+
+- a) a hatóság, vagy
+- b) az egyenlő bánásmód követelménye megsértésének elbírálására hatáskörrel rendelkező más közigazgatási szerv folytatja le.
+
+(2) Az eljárás megindításáról, annak jogerős befejezéséről, valamint a döntéssel kapcsolatos bírósági felülvizsgálat során hozott jogerős ítéletről vagy végzésről a hatóság a külön törvény alapján hatáskörrel rendelkező közigazgatási szervet, illetve e közigazgatási szerv a hatóságot értesíti.
+
+(3) Ha az (1) bekezdés alapján valamely közigazgatási szerv előtt eljárás indult, úgy más közigazgatási szerv ugyanazon törvénysértés tekintetében
+
+- a) azonos személy ellen elkövetett törvénysértés esetén nem járhat el,
+- b) más személy ellen elkövetett törvénysértés esetén a megindult eljárását az ügy jogerős elbírálásáig felfüggeszti.
+
+(4) Ha az ügyet valamely közigazgatási szerv elbírálta, más közigazgatási szerv ugyanazon törvénysértés tekintetében
+
+- a) azonos személy ellen elkövetett törvénysértés esetén nem járhat el,
+- b) más személy ellen elkövetett törvénysértés esetén megindult eljárásában a jogerős határozatban megállapított tényállást alapul véve jár el.
+
+(5) A hatóság hivatalból is eljár az egyenlő bánásmód követelményének az egyenlő bánásmódról és esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény (a továbbiakban: Ebktv.) 4. § a)–d) pontjában meghatározott szervek általi megsértésével kapcsolatban, ha az adott ügyben más közigazgatási szerv előtt nincs folyamatban eljárás.
+
+(6) A hatóság a más közigazgatási szerv által az egyenlő bánásmód követelményének megsértésével kapcsolatban hozott közigazgatási döntés bírósági felülvizsgálata során a perben beavatkozóként részt vehet.
+
+169/D. § (1) Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban az Ebktv. 3. § e) pontja szerinti szervezet (e fejezetben a továbbiakban: szervezet), valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el.
+
+(2) Az egyenlő bánásmód követelményének megsértése miatt indult hatósági eljárásban a szervezetet megilletik az ügyfél jogai.
+
+(3) Ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti, a szervezet a hatóság előtt eljárást indíthat.
+
+169/E. § Az egyenlő bánásmód követelményének megsértése miatt indított eljárásban az Ebktv. 19. §-ában meghatározott bizonyítási szabályok alkalmazásának van helye.
+
+169/F. § (1) Ha az egyenlő bánásmód követelményének megsértése miatt a jogsérelmet szenvedett fél vagy a szervezet bíróság előtt eljárást indított, a hatóság vagy a 169/C. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv az eljárását az ügy jogerős elbírálásáig felfüggeszti és az erről hozott végzést közli a bírósággal.
+
+(2) A bíróság az egyenlő bánásmód követelményének megsértése miatt hozott jogerős határozatát, vagy az előtte folyamatban levő eljárást felfüggesztő végzését a hatóságnak vagy a 169/C. § (1) bekezdés b) pontjában meghatározott más közigazgatási szervnek megküldi.
+
+(3) A hatóság vagy a 169/C. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv az eljárása során ugyanazon törvénysértés tekintetében a bíróság határozatának kézhezvételét követően az abban megállapított tényállást alapul véve jár el.
+
+(4) A bíróság határozatának jogerőre emelkedését követően az egyenlő bánásmód követelményének megsértése miatt közigazgatási szerv előtt ugyanazon törvénysértés tekintetében
+
+- a) azonos személy ellen elkövetett törvénysértés miatt eljárás nem indítható,
+- b) más személy ellen elkövetett törvénysértés esetén a hatóság vagy a 169/C. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv a bíróság határozatában megállapított tényállást alapul véve jár el.
+
+169/G. § (1) A kérelemre indult eljárásban az egyéb eljárási költségeket a hatóság, illetve az eljárásban való részvételével kapcsolatban felmerülő költségek tekintetében az eljárás alá vont, a sérelmet szenvedett ügyféllel ellenérdekű ügyfél előlegezi meg.
+
+(2) A kérelem elutasítása esetén a sérelmet szenvedett ügyfél csak akkor viseli az egyéb eljárási költségeket, ha a hatóság megállapította, hogy rosszhiszemű volt.
+
+### Az egyenlő bánásmód követelmények megsértése esetén alkalmazható jogkövetkezmények
+
+169/H. § Az egyenlő bánásmód követelményének érvényesülését vizsgáló hatósági eljárás akkor indítható meg, ha a jogsértésről való tudomásszerzéstől számított egy év, vagy a jogsértés bekövetkezésétől számított három év még nem telt el.
+
+169/I. § (1) Ha a hatóság megállapította az egyenlő bánásmód követelményének megsértését,
+
+- a) elrendelheti a jogsértő állapot megszüntetését,
+- b) megtilthatja a jogsértő magatartás jövőbeni tanúsítását,
+- c) elrendelheti a jogsértést megállapító jogerős határozatának nyilvános közzétételét,
+- d) bírságot szabhat ki,
+- e) külön törvényben meghatározott jogkövetkezményt alkalmazhat.
+
+(2) Az (1) bekezdésben meghatározott jogkövetkezményeket a 94/A. § (1) bekezdésének megfelelő alkalmazásával kell meghatározni.
+
+(3) Az (1) bekezdésben meghatározott jogkövetkezmények együttesen is alkalmazhatóak.
+
+(4) A bírság összege ötvenezer forinttól hatmillió forintig terjedhet.
+
+(5) Ha a hatóság megállapította, hogy az arra kötelezett munkáltató elmulasztotta az esélyegyenlőségi terv elfogadását, felszólítja a munkáltatót a mulasztás pótlására, és – a (2) és (3) bekezdés megfelelő alkalmazásával – az (1) bekezdés c)–e) pontjában meghatározott jogkövetkezményeket alkalmazhatja.
+
+169/J. § (1) A hatóság döntése ellen fellebbezésnek nincs helye.
+
+(2) A hatóságnak az egyenlő bánásmód követelményének megsértése tárgyában folyamatban lévő eljárásban hozott döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+
+(3) A bírósági felülvizsgálat során a Fővárosi Törvényszék három hivatásos bíróból álló tanácsban jár el, ha azt a fél a keresetlevélben, illetve a hatóság a keresetlevélben foglaltakra vonatkozó nyilatkozatában kéri.
+
+169/K. § (1) A hatóság az egyenlő bánásmód követelménye megtartásával kapcsolatos adatoknak más szervek eljárásában történő felhasználása céljából hatósági nyilvántartást vezet, amely tartalmazza azoknak a foglalkoztatóknak az adatait, amelyekre vonatkozóan a hatóság jogerős és végrehajtható határozata, illetőleg – a határozat bírósági felülvizsgálata esetén – jogerős bírósági határozat jogsértést állapított meg.
+
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
+
+- a) a foglalkoztató nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét,
+- b) a jogsértést megállapító határozat keltét és számát, jogerőre emelkedésének és végrehajthatóvá válásának időpontját,
+- c) a jogsértés megjelölését,
+- d) az alkalmazott jogkövetkezményt és mértékét az annak alapjául szolgáló jogszabályhelyre történő utalással,
+- e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság hatályon kívül helyező, vagy hatályon kívül helyező és új eljárást elrendelő vagy a keresetet elutasító döntést hozott.
+
+(3) A hatósági nyilvántartás adatait a hatóság az általa létrehozott informatikai rendszerben kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítését a hatóság végzi, a jogsértést megállapító határozat jogerőre emelkedésének és végrehajthatóvá válásának napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatáról való tudomásszerzést követő munkanapon.
+
+(4) A hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló határozat jogerőre emelkedésének és végrehajthatóvá válásának napjától számított két év elteltével törli.
+
+169/L. § (1) A hatóság – a (3) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból a jogerős és végrehajtható közigazgatási vagy – a közigazgatási határozat bírósági felülvizsgálata esetén – bírósági határozattal két éven belül azonos jogsértés ismételt elkövetése miatt bírsággal sújtott munkáltatókra vonatkozó, a 169/K. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat bírósági felülvizsgálata esetén a 169/K. § (2) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján akkor hozza nyilvánosságra, amikor a korábbival azonos jogsértés két éven belüli ismételt elkövetésének megállapítására az államháztartásról szóló törvény alapján jogerős és végrehajtható közigazgatási határozattal sor került.
+
+(2) Az (1) bekezdés alkalmazásában – több telephellyel rendelkező munkáltató esetében – azonos jogsértés ismételt elkövetésén az ugyanazon telephelyen kétéves időszakon belül jogerős és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
+
+(3) Ha a hatóság tudomására jutott, hogy határozatának bírósági felülvizsgálata iránt keresetet indítottak,
+
+- a) az (1)–(2) bekezdésben foglalt adatokat a bíróság jogerős és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé,
+- b) – amennyiben a (1)–(2) bekezdés szerinti adatok nyilvánosságra hozatalára már sor került – intézkedik a honlapon nyilvánosságra hozott adatok törléséről.
+
+(4) A hatóság nyilvántartásba vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
+
+### Adatkezelésre vonatkozó különös szabályok
+
+169/M. § (1) A hatóság haladéktalanul törli azokat a személyes és különleges adatokat, amelyek kezelése a 169/B. § (2) bekezdés a)–b) pontja szerinti eljárása során a hatásköre gyakorlásához nem elengedhetetlenül szükséges.
+
+(2) Az eljárás alá vont ügyfél az üggyel összefüggő iratokat és elektronikus adathordozón tárolt adatokat felhívásra rendelkezésre bocsátja, illetve az egyenlő bánásmód követelményének megsértése ellenőrzéséhez szükséges tények, körülmények, egyéb feltételek megismerését biztosítja. Nem kötelezhető az ügyfél olyan nyilvántartás, összesítés elkészítésére, amelyet jogszabály nem ír elő, ha annak elkészítése aránytalan ráfordítást igényelne.
+
+(3) A hatóság a (2) bekezdés alapján csak olyan különleges adat rendelkezésre bocsátására hívhat fel, amely kezelése az eljárás céljára tekintettel elengedhetetlenül szükséges, és amely hiányában az eljárás eredményessége nem lenne biztosítható.
+
+(4) A közigazgatási hatósági eljárásban a hatóság jogosult a személyes adatokat tartalmazó nyilvántartás vagy adatbázis szemletárgyként való lefoglalására is.
+
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 170. § Ha az ügyfél a jogerős vagy végrehajtható közigazgatási határozatban megállapított tilalmat vagy kötelezettséget oly módon szegi meg, hogy magatartása az e törvény alapján kiszabott eljárási bírságon túl közigazgatási anyagi jogszabályban megállapított bírságot, illetve szabálysértési, büntetőjogi vagy kártérítési felelősséget von maga után, az e törvény szerinti eljárási bírság megfizetése nem mentesíti őt magatartásának egyéb jogkövetkezményei alól.
@@ -2315,13 +2534,19 @@ kötelezettség érvényesítésére, ha annak önkéntes teljesítése elmaradt
 
 171. § (1) E törvény rendelkezéseitől a 2005. július 1-je előtt jogszabályban kihirdetett nemzetközi szerződés eltérhet.
 
-(2) Ha törvény eltérően nem rendelkezik,
+(2) A (3)–(6) bekezdésben foglalt kivétellel
 
 - a) e törvény rendelkezéseit a törvény,
 - b) e törvénynek a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 58. alcímével módosított rendelkezéseit az e rendelkezések,
-- c) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények, valamint a miniszteri hatósági hatáskörök felülvizsgálatával összefüggő egyes törvények módosításáról szóló 2011. évi CLXXIV. törvény 45. §-ával, 49. §-ával és 52. §-ával módosított rendelkezéseit az e rendelkezések
+- c) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények, valamint a miniszteri hatósági hatáskörök felülvizsgálatával összefüggő egyes törvények módosításáról szóló 2011. évi CLXXIV. törvény (a továbbiakban: Módtv.) 45–53. §-ával módosított rendelkezéseit az e rendelkezések hatálybalépését követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 
-hatálybalépését követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+(3) E törvénynek a Módtv. 46. §-ával megállapított 91. § (2) bekezdése szerinti ellenőrzési jelentést első alkalommal az e rendelkezés hatálybalépését követő ellenőrzési időszak elteltével kell elkészíteni és közzétenni.
+
+(4) E törvénynek a Módtv. 46. §-ával megállapított VIII. Fejezetét kell alkalmazni az e rendelkezés hatálybalépésekor még meg nem indult végrehajtási eljárásokra is.
+
+(5) E törvénynek a Módtv. 46. §-ával megállapított 169/H. §-át az e rendelkezés hatálybalépését követően elkövetett jogsértésekre kell alkalmazni.
+
+(6) E törvénynek a Módtv. 46. §-ával megállapított X/A. Fejezete szerinti eljárás a Módtv. hatálybalépését megelőzően elkövetett jogsértések tekintetében az e rendelkezés hatálybalépését követő harminc napon belül indítható.
 
 ### Értelmező rendelkezések
 
@@ -2331,7 +2556,7 @@ hatálybalépését követően indult ügyekben és megismételt eljárásokban 
 - b) elektronikus levél: a központi elektronikus szolgáltató rendszeren kívüli számítógépes hálózaton keresztül, egyedi levelezési címek között levelezőprogram segítségével küldhető és fogadható adategyüttes;
 - c) az eljárás egyéb résztvevői: a tanú, a hatósági tanú, a szakértő, a tolmács, a szemletárgy birtokosa, az ügyfél képviselője és a hatósági közvetítő;
 - d) életveszéllyel vagy súlyos kárral fenyegető helyzet: egy vagy több embert az élet elvesztésével, illetve a testi épség vagy az egészség súlyos károsításával, továbbá a természeti vagy az épített környezet, valamint az anyagi javak jelentős vagy helyrehozhatatlan károsodásával közvetlenül fenyegető rendkívüli helyzet, állapot vagy esemény, amelynek megelőzése vagy káros hatásainak elhárítása hatósági intézkedést igényel;
-- e) hatásterület: az a Magyarország területén fekvő, jogszabályban meghatározott módon megállapított földrajzi terület, amelyre a tervezett létesítmény vagy tevékenység számottevő mértékű hatást gyakorol;
+- e)
 - f) hivatás gyakorlásához kötött titok: különösen az orvosi, ügyvédi, közjegyzői, lelkészi-egyházi személyi hivatás gyakorlásához kötött titok;
 - g) hozzátartozó: az egyeneságbeli rokon és annak házastársa; az örökbe fogadó és a nevelőszülő; az örökbe fogadott és a nevelt gyermek; a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa;
 - h)
@@ -2360,7 +2585,7 @@ hatálybalépését követően indult ügyekben és megismételt eljárásokban 
 - d) a költségmentesség megállapításának szabályait,
 - e)
 - f) a hatósági tevékenység felügyeletének rendjét,
-- g) a 15. § (5) bekezdés alapján ügyfélnek minősülő szervezeteknek az eljárásba való bekapcsolódásuk érdekében vezetett elektronikus adatbázis létrehozására, vezetésére és az adatbázis alapján történő értesítésre vonatkozó szabályokat,
+- g) a 15. § (5) bekezdésében meghatározott szervezeteknek az eljárásba való bekapcsolódásuk érdekében vezetett elektronikus adatbázis létrehozására, vezetésére és az adatbázis alapján történő értesítésre vonatkozó szabályokat,
 - h) az eljárás irataiban lévő személyes és védett adatok megismerhetetlenné tételéért, valamint az ilyen módon kivonatolt iratokról való másolat készítéséért fizetendő költségtérítés mértékét és a költségtérítés megfizetésének szabályait.
 
 (2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter arra, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közigazgatási hatósági eljárásban közreműködő hatósági közvetítők és tolmácsok, az államháztartásért felelős miniszterrel, a társadalmi esélyegyenlőség előmozdításért felelős miniszterrel, valamint az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszterrel egyetértésben a jeltolmácsok díjazására vonatkozó szabályokat.
@@ -2385,11 +2610,19 @@ hatálybalépését követően indult ügyekben és megismételt eljárásokban 
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a végrehajtást foganatosító szervet és a külföldi határozat végrehajtására irányuló megkereséssel kapcsolatban intézkedésre jogosult szervet vagy szerveket.
 
-(3) Felhatalmazást kap a Kormány, hogy az integrált ügyfélszolgálati irodát vagy irodákat rendeletben jelölje ki, valamint meghatározza feladat- és hatáskörüket.
+(3) Felhatalmazást kap a Kormány, hogy a kormányablakot vagy kormányablakokat rendeletben jelölje ki, valamint meghatározza feladat- és hatáskörüket.
 
 175. §
 
-176–182. §
+176. § E törvény X/A. Fejezete
+
+- a) a férfiakkal és a nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról szóló, 1978. december 19-i 79/7/EGK tanácsi irányelvnek,
+- b) a személyek közötti, faji vagy etnikai származásra való tekintet nélküli egyenlő bánásmód elvének végrehajtásáról szóló, 2000. június 29-i 2000/43/EK tanácsi irányelvnek,
+- c) a foglalkoztatási és munkahelyi egyenlő bánásmód általános kereteinek létrehozásáról szóló, 2000. november 27-i 2000/78/EK tanácsi irányelvnek,
+- d) a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról szóló, 2004. december 13-i 2004/113/EK tanácsi irányelvnek,
+- e) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+177–182. §
 
 183. §
 
