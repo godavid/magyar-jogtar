@@ -2381,10 +2381,10 @@ kell tekinteni.
 
 (2) Az adó mértéke
 
-- a) a cigarettára 10 550 forint ezer darabonként és a kiskereskedelmi eladási ár 28,4 százaléka, de legalább 19 530 forint/ezer darab,
-- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 28,5 százaléka,
-- c) a finomra vágott fogyasztási dohányra a kiskereskedelmi eladási ár 52 százaléka, de legalább 8790 forint/kilogramm,
-- d) és az egyéb fogyasztási dohányra a kiskereskedelmi eladási ár 32,5 százaléka, de legalább 8790 forint/kilogramm.
+- a) a cigarettára 11 500 forint ezer darabonként és a kiskereskedelmi eladási ár 30 százaléka, de legalább 21 100 forint ezer darabonként,
+- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 28,5 százaléka;
+- c) a finomra vágott fogyasztási dohányra a kiskereskedelmi eladási ár 52 százaléka, de legalább 10 150 forint kilogrammonként,
+- d) az egyéb fogyasztási dohányra a kiskereskedelmi eladási ár 32,5 százaléka, de legalább 10 150 forint kilogrammonként.
 
 (3) A jövedéki adó megállapítása szempontjából a cigaretta darabszámát kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter, és így tovább.
 
@@ -3164,7 +3164,7 @@ határozatban állapítja meg az adót.
 
 (7) A tagállamba a csatlakozás napját megelőzően passzív feldolgozásban vagy ideiglenes kivitelben kivitt és a csatlakozás napját megelőző napot követően belföldre visszahozott jövedéki termék visszahozatala esetén a 27. § szerint adókötelezettség keletkezik.
 
-128/A. §
+128/A. § A 2012. május 1-jét megelőzően gyártott és az adójegy-felhasználó által átvett, a sorszámot vonalkód formájában – a 99. § (3) bekezdés d) pontjától eltérően – nem tartalmazó adójegy – figyelemmel a 98/A. § (1) bekezdésében foglaltakra – 2012. június 30-ig felhasználható.
 
 128/B. § E törvény jogutódláshoz kapcsolódó rendelkezését [48/C. §] kell értelemszerűen alkalmazni, amennyiben az e törvény szerint kiadott, 2009. június 30-án érvényes engedélyek esetében az engedélyes személyének változására a GET. 144. § (6) bekezdése szerint, a GET.-ben meghatározott határidőn belül végrehajtott szervezeti átalakítás (szétválasztás) miatt kerül sor. Az új engedélyes a korábbi engedélyes e törvényben és a felhatalmazása alapján kiadott külön jogszabályban meghatározott jogai és kötelezettségei tekintetében a korábbi engedélyes általános jogutódjának minősül.
 

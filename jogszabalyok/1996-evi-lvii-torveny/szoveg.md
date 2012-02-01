@@ -219,7 +219,7 @@ vonatkozik.
 
 29. § A vállalkozásoknak a 24. § szerinti összefonódását eredményező szerződés létrejöttéhez a Gazdasági Versenyhivatal engedélye szükséges.
 
-29/A. § (1) A 28. § (4) bekezdése szerinti összefonódás esetén a 29. §-ban foglaltak azzal az eltéréssel alkalmazandók, hogy az irányításszerző az irányítási jogát a rendes üzletmenet folytatásához feltétlenül szükséges mértékben a Gazdasági Versenyhivatal engedélyének megszerzése előtt is gyakorolhatja.
+29/A. § (1) A 28. § (4) bekezdése szerinti összefonódás esetén az irányításszerző az irányítási jogát a rendes üzletmenet folytatásához feltétlenül szükséges mértékben a Gazdasági Versenyhivatal engedélyének megszerzése előtt is gyakorolhatja.
 
 (2) Ha a 28. § (4) bekezdése szerinti összefonódás engedélyezésére irányuló eljárás során az eljáró versenytanács a 63. § (4) bekezdése alapján a 63. § (3) bekezdés b) pontjának alkalmazásáról dönt, egyidejűleg a hatékony verseny feltételeinek biztosítása, az összefonódás versenyre gyakorolt hátrányos hatásainak mérséklése érdekében – az érintett vállalkozások érdekeire, a rendes üzletmenet folytathatóságának lehető legnagyobb mértékű biztosításának érdekére is figyelemmel – az érdemi határozat meghozataláig terjedő időre az irányítási jog gyakorlását korlátozhatja, feltételhez kötheti vagy arra vonatkozóan kötelezettséget írhat elő (a továbbiakban együtt: irányításkorlátozó előírás). Az irányításkorlátozó előírást sértő bármilyen ügylet semmis.
 
@@ -256,7 +256,7 @@ vonatkozik.
 
 33. § (1) A Gazdasági Versenyhivatal központi költségvetési szerv, amely a központi költségvetés szerkezeti rendjében önálló fejezetet alkot, költségvetésének kiadási és bevételi főösszegei kizárólag az Országgyűlés által csökkenthetőek.
 
-(2) Az e törvényben, valamint az árak megállapításáról szóló törvényben meghatározott versenyfelügyeleti feladatokat a Gazdasági Versenyhivatal látja el, kivéve, ha e törvény eltérően rendelkezik. A Gazdasági Versenyhivatal számára feladatot csak törvény írhat elő.
+(2) Az e törvényben meghatározott versenyfelügyeleti feladatokat a Gazdasági Versenyhivatal látja el, kivéve, ha e törvény eltérően rendelkezik. A Gazdasági Versenyhivatal számára feladatot csak törvény írhat elő.
 
 (3) A Gazdasági Versenyhivatal ellátja mindazokat a feladatokat, amelyeket az európai közösségi versenyszabályok a tagállami versenyhatóság hatáskörébe utalnak.
 
@@ -429,15 +429,15 @@ A kinevezés hat évre szól. A kinevezett személyek a hat év lejártát köve
 
 43/C. § (1) A Gazdasági Versenyhivatal elnöke, amennyiben az ármozgások vagy más piaci körülmények arra utalnak, hogy az adott ágazathoz tartozó valamely piacon a verseny torzul, vagy korlátozódik – a piaci folyamatok megismerése és értékelése céljából – végzéssel ágazati vizsgálatot indít. Az ágazati vizsgálatot elrendelő végzés indokolásában meg kell jelölni, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A vizsgálatindító végzést hirdetményi úton kell közölni, a Gazdasági Versenyhivatal internetes honlapján való közzététellel. Az ágazati vizsgálatban a Gazdasági Versenyhivatal elnöke által erre kijelölt köztisztviselők vesznek részt.
 
-(2) A Gazdasági Versenyhivatal elnöke az ágazati vizsgálat során a gazdasági ágazat vállalkozásaitól – válaszadási határidő megjelölésével – felvilágosítást kérhet. A Gazdasági Versenyhivatal elnöke felvilágosítás iránti felhívásának nem teljesítése, késedelmes teljesítése, illetve valótlan vagy megtévesztő válaszadás esetében a vállalkozást a Gazdasági Versenyhivatal elnöke bírsággal sújthatja. A bírság legkisebb összege ötvenezer forint, legmagasabb összege az előző üzleti évben elért nettó árbevétel egy százaléka. A teljesítésre meghatározott határidő túllépése esetén napi összegben meghatározott bírság szabható ki, melynek legmagasabb összege az előző üzleti évben elért nettó árbevétel egy napra jutó összegének egy százaléka.
+(2) A Gazdasági Versenyhivatal elnöke az ágazati vizsgálat során a gazdasági ágazat vállalkozásaitól – válaszadási határidő megjelölésével – felvilágosítást kérhet. A Gazdasági Versenyhivatal elnöke felvilágosítás iránti felhívásának nem teljesítése, késedelmes teljesítése, illetve valótlan vagy megtévesztő válaszadás esetében a vállalkozást a Gazdasági Versenyhivatal elnöke eljárási bírsággal sújthatja. Az eljárási bírság legkisebb összege ötvenezer forint, legmagasabb összege az előző üzleti évben elért nettó árbevétel egy százaléka. A teljesítésre meghatározott határidő túllépése esetén napi összegben meghatározott eljárási bírság szabható ki, melynek legmagasabb összege az előző üzleti évben elért nettó árbevétel egy napra jutó összegének egy százaléka.
 
-(3) Ha a Gazdasági Versenyhivatal elnöke az (1) bekezdésben meghatározott esetben egyedi adatokat és az egyedi azonosításra alkalmas összesített adatokat az azokkal rendelkező állami szervtől, illetve a Magyar Nemzeti Banktól belföldi jogsegély keretében kéri, e szervezetekkel szemben bírság kiszabásának nincs helye.
+(3) Ha a Gazdasági Versenyhivatal elnöke az (1) bekezdésben meghatározott esetben egyedi adatokat és az egyedi azonosításra alkalmas összesített adatokat az azokkal rendelkező állami szervtől, illetve a Magyar Nemzeti Banktól belföldi jogsegély keretében kéri, e szervezetekkel szemben eljárási bírság kiszabásának nincs helye.
 
 43/D. § (1) A vállalkozások, valamint a 43/C. § (3) bekezdésében említett szervezetek kötelesek a 43/C. § (2) és (3) bekezdése alapján kért információkat, ideértve az üzleti titkot is, a Gazdasági Versenyhivatal rendelkezésére bocsátani.
 
 (2) A szakértő az ágazati vizsgálat során betekinthet a munkája ellátásához szükséges iratokba, ideértve az üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, illetve a külön törvényben meghatározott értékpapírtitkot vagy pénztártitkot tartalmazó iratokat is.
 
-(3) A felvilágosítás adására kötelezett üzleti titok [4. § (3) bekezdés a) pont] védelmére tekintettel kérheti az üzleti titkot képező információk nyilvánosságra hozatalának mellőzését. A kérelemről való a Gazdasági Versenyhivatal elnöke kötelezheti a kérelmezőt – a 43/C. § (3) bekezdésében megjelölt szervezetek kivételével – olyan iratváltozat készítésére, amely nem tartalmaz üzleti titkot.
+(3) A felvilágosítás adására kötelezett üzleti titok [4. § (3) bekezdés a) pont] védelmére tekintettel kérheti az üzleti titkot képező információk nyilvánosságra hozatalának mellőzését. A kérelemnek helyt adó végzésben a Gazdasági Versenyhivatal elnöke kötelezheti a kérelmezőt – a 43/C. § (3) bekezdésében megjelölt szervezetek kivételével – olyan iratváltozat készítésére, amely nem tartalmaz üzleti titkot.
 
 43/E. § (1) Az ágazati vizsgálat eredményéről a Gazdasági Versenyhivatal – ésszerű időn belül – jelentést készít. A Gazdasági Versenyhivatal elnöke a jelentés minősített adatot, banktitkot, fizetési titkot, biztosítási titkot, illetve külön törvényben meghatározott értékpapírtitkot vagy pénztártitkot és üzleti titkot nem tartalmazó változatát nyilvánosságra hozhatja.
 
@@ -448,23 +448,23 @@ A kinevezés hat évre szól. A kinevezett személyek a hat év lejártát köve
 - a) elrendelheti valamely vállalkozás ellen a 70. § alapján versenyfelügyeleti eljárás indítását;
 - b) tájékoztatja az Országgyűlés feladatkörrel rendelkező bizottságát, minisztert vagy hatóságot, ha az ágazati vizsgálat olyan piaci zavart tárt fel, amely versenyfelügyeleti eljárás révén nem orvosolható.
 
-43/F. § A 43/C. § (1) bekezdése szerinti vizsgálatindító végzés, a 43/C. § (2) bekezdése szerinti bírságot kiszabó végzés, valamint a 43/D. § (3) bekezdése szerinti, az iratok üzleti titokként kezelését elutasító végzés ellen az érintett a végzés közlésétől számított tizenöt napon belül kezdeményezheti a végzés bírósági felülvizsgálatát. A jogorvoslati kérelmet a Fővárosi Törvényszék soron kívül bírálja el.
+43/F. § Az, akire nézve a végzés rendelkezést tartalmaz, a végzés közlésétől számított tizenöt napon belül a 43/C. § (2) bekezdése szerinti eljárási bírságot kiszabó végzés, valamint a 43/D. § (3) bekezdése szerinti, az iratok üzleti titokként kezelését elutasító végzés bírósági felülvizsgálatát kérheti. A kérelmet a bíróság soron kívül bírálja el.
 
 ### IX. Fejezet — Bejelentés és panasz
 
 43/G. § (1) A 8., 10., 11., 21. és 24. § rendelkezéseibe, illetve az EK-Szerződés 81. vagy 82. cikkébe, továbbá az Fttv.-ben meghatározott rendelkezésekbe ütköző, a Gazdasági Versenyhivatal hatáskörébe tartozó magatartás észlelése esetén bárki bejelentéssel vagy panasszal élhet a Gazdasági Versenyhivatalhoz.
 
-(2) A bejelentéssel és a panasszal kapcsolatos eljárás nem része a versenyfelügyeleti eljárásnak, e törvény X–XII. Fejezetének rendelkezései – az 54. §-ban, az 55. § (5) bekezdésében, a 65. § (7) és (9) bekezdésében foglaltak kivételével – a bejelentéssel és a panasszal kapcsolatos eljárásban nem alkalmazhatók.
+(2) A bejelentéssel és a panasszal kapcsolatos eljárás nem része a versenyfelügyeleti eljárásnak, e törvény X–XII. Fejezetének rendelkezései – az 54. §-ban, az 55. § (5) bekezdésében, az 59. §-ban, valamint a 65. § (7) és (9) bekezdésében foglaltak kivételével – a bejelentéssel és a panasszal kapcsolatos eljárásban nem alkalmazhatók. Az 54. § és az 59. § alkalmazásában ügyfél alatt a bejelentőt és a panaszost, valamint a bejelentettet, illetve azt kell érteni, akinek a magatartására a panasz vonatkozik, az 55. § (5) bekezdésének, valamint a 65. § (7) bekezdésének alkalmazásában ügyfél alatt a bejelentőt és a panaszost, az eljárás egyéb résztvevője alatt pedig azt kell érteni, akinek a magatartására a bejelentés, illetve a panasz vonatkozik.
 
 43/H. § (1) Bejelentés a Gazdasági Versenyhivatal által közzétett formátumú, megfelelően kitöltött űrlap Gazdasági Versenyhivatalhoz történő benyújtásával tehető. Az űrlap tartalmazza a bejelentés elbírálásához szükséges lényeges tényeket, így különösen a bejelentő és a bejelentett azonosításához szükséges adatokat, a feltételezett jogsértés megjelölését, a feltételezett jogsértést megvalósító konkrét magatartás leírását, az érintett piac meghatározásához szükséges alapvető információkat, a feltételezett jogsértés időtartamát, a feltételezett jogsértéssel kapcsolatos állításokat alátámasztó tényeket és bizonyítékokat.
 
-(2) A bejelentés alapján indult eljárásra a Ket. rendelkezései közül kizárólag a 17. §-t, a 26. §-t, a 40–40/A. §-t, az 58–59. §-t, a 69. § (1) bekezdését, a 72–73. §-t, a 78–80. §-t, a 81–81/B. §-t és a 153. §-t kell alkalmazni, azzal, hogy ahol a Ket. ügyfelet említ, azon a bejelentőt kell érteni.
+(2) A bejelentés alapján indult eljárásra – ha e törvény eltérően nem rendelkezik – megfelelően alkalmazni kell a Ket. 17. §-át, 17/A. §-át, 26. §-át, 33. § (3) bekezdését, 39. §-át, 40–40/A. §-át, 58–59. §-át, 69. § (1), (3), (5) és (6) bekezdését, 72. § (2) bekezdését, 73. §-át, 73/A. § (1) és (3) bekezdését, 78. § (2), (4)–(8) és (10) bekezdését, 79–80. §-át, 81–81/B. §-át és 153. §-át azzal, hogy a Ket. 17. §-ának és 39. §-ának alkalmazásában ügyfél alatt a bejelentőt, az eljárás egyéb résztvevője, illetve érintett személy alatt pedig a bejelentettet, a Ket. 17/A. §-ának, 26. §-ának, 78. §-ának, 80–81. §-ának és 153. §-ának alkalmazásában ügyfél alatt a bejelentőt, a Ket. 40–40/A. §-ának, 58–59. §-ának, 72. § (2) bekezdésének, 73. §-ának, 79. §-ának és 81/A. §-ának alkalmazásában ügyfél alatt a bejelentőt és – ahol az értelmezhető – a bejelentettet kell érteni.
 
-(3)
+(3) A vizsgáló az eljárás során felmerült kérdésekben végzést bocsát ki.
 
 (4) A vizsgáló a bejelentés elbírálásához szükséges adatokat beszerezheti, az érintettek részvételével szóbeli meghallgatást tarthat. Ha az eljárás során az érintett a közreműködést megtagadja, vele szemben sem eljárási bírság, sem egyéb kényszerítő eszköz nem alkalmazható. A korábbival azonos tartalmú, ugyanazon bejelentő által tett ismételt bejelentés elbírálása mellőzhető.
 
-(5) Aki a bejelentés vizsgálata során a Gazdasági Versenyhivatal számára adatot szolgáltat, kérheti az üzleti titok védelmére hivatkozással az iratokba való betekintés, valamint azokról történő másolat készítésének korlátozását. A kérelemről való döntéssel egyidejűleg a vizsgáló kötelezheti az adatszolgáltatót olyan iratváltozat elkészítésére, amely nem tartalmaz üzleti titkot. Az eljárás irataiba csak a bejelentő, és csak a (8) bekezdés b) pontja szerinti esetben, a bejelentés elbírálása tárgyában hozott végzés meghozatalát követően, jogorvoslati jogának gyakorlása érdekében tekinthet be, kivéve, ha a vizsgáló üzleti titok védelmére tekintettel az iratbetekintés korlátozását rendelte el.
+(5) Aki a bejelentés vizsgálata során a Gazdasági Versenyhivatal számára adatot szolgáltat, kérheti az üzleti titok védelmére hivatkozással az iratokba való betekintés, valamint azokról másolat vagy feljegyzés készítésének korlátozását. A kérelemről való döntéssel egyidejűleg a vizsgáló kötelezheti az adatszolgáltatót olyan iratváltozat elkészítésére, amely nem tartalmaz üzleti titkot. Az eljárás irataiba csak a bejelentő, és csak a (8) bekezdés b) pontja szerinti esetben, a bejelentés elbírálása tárgyában hozott végzés meghozatalát követően, jogorvoslati jogának gyakorlása érdekében tekinthet be, kivéve, ha a vizsgáló üzleti titok védelmére tekintettel az iratbetekintés korlátozását rendelte el.
 
 (6) Az eljárás költségeit az állam előlegezi és viseli. Ha versenyfelügyeleti eljárásban a bejelentésben megjelölt magatartás törvénybe ütköző volta megállapításra kerül, a bejelentési eljárás költségeit is köteles megtéríteni az, akinek törvénybe ütköző magatartását megállapították.
 
@@ -476,11 +476,11 @@ A kinevezés hat évre szól. A kinevezett személyek a hat év lejártát köve
 - b) végzéssel megállapítja, hogy a bejelentésben foglalt, illetve a bejelentés alapján lefolytatott eljárásban beszerzett adatok alapján a versenyfelügyeleti eljárás megindításának a 70. § (1) bekezdésében meghatározott feltételei nem állnak fenn,
 - c) amennyiben a bejelentésben foglaltakkal kapcsolatos eljárás más hatóság hatáskörébe tartozik, a bejelentést végzéssel átteszi a hatáskörrel és illetékességgel rendelkező hatóságnak.
 
-(9) A (8) bekezdés szerinti határidő indokolt esetben két hónappal meghosszabbítható.
+(9) A (8) bekezdés szerinti határidő indokolt esetben legfeljebb két hónappal meghosszabbítható.
 
-(10) A (8) bekezdés b) pontja szerinti végzést a bejelentővel minden esetben, a bejelentettel pedig akkor kell közölni, ha az eljárásban részt vett.
+(10) A (8) bekezdés b) pontja szerinti végzést a bejelentővel kell közölni, a bejelentettel pedig akkor, ha az eljárásban részt vett.
 
-(11) A (8) bekezdés b) pontja szerinti végzés ellen a bejelentő élhet a közléstől számított nyolc napon belül jogorvoslati kérelemmel, melyet a Fővárosi Törvényszék közigazgatási hatósági eljárásban hozott végzés elleni bírósági felülvizsgálatra vonatkozó szabályok szerint bírál el. Ha a bíróság álláspontja szerint a (8) bekezdés a) pontja alkalmazásának van helye, a vizsgálót a vizsgálat harminc napon belül történő elrendelésére kötelezi.
+(11) A (8) bekezdés b) pontja szerinti végzés ellen kizárólag a bejelentő élhet a közléstől számított nyolc napon belül jogorvoslati kérelemmel. A jogorvoslati kérelemre a közigazgatási hatósági eljárásban hozott végzés elleni bírósági felülvizsgálatra vonatkozó szabályokat kell alkalmazni azzal, hogy ha a bíróság álláspontja szerint a (8) bekezdés a) pontja alkalmazásának van helye, a vizsgálót a vizsgálat harminc napon belül történő elrendelésére kötelezi.
 
 43/I. § (1) A 43/H. § (1) bekezdése szerinti bejelentésnek nem minősülő beadványt a Gazdasági Versenyhivatal panaszként kezeli az e §-ban meghatározottak szerint.
 
@@ -488,7 +488,7 @@ A kinevezés hat évre szól. A kinevezett személyek a hat év lejártát köve
 
 (3) A vizsgáló a panaszost és azt, akivel szemben panasszal éltek, meghallgathatja, valamint tőle további felvilágosítást és információt kérhet. A panaszos kérheti, hogy ne fedjék fel személyét, illetve azt a tényt, hogy panasszal élt a Gazdasági Versenyhivatalhoz.
 
-(4) Ha a panaszban megjelölt magatartással kapcsolatban más hatóság jogosult eljárni, a Gazdasági Versenyhivatal a panaszt ennek megállapításától számított nyolc napon belül – a panaszos egyidejű értesítése mellett – átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz.
+(4) Ha a panaszban megjelölt magatartással kapcsolatban más hatóság jogosult eljárni, a Gazdasági Versenyhivatal a panaszt ennek megállapításától számított nyolc napon belül – a panaszos egyidejű értesítése mellett – megküldi a hatáskörrel és illetékességgel rendelkező hatóságnak.
 
 (5) Ha a panaszban megjelölt magatartással kapcsolatban a Gazdasági Versenyhivatal versenyfelügyeleti eljárást indít, vagy a panasz beérkezésekor a versenyfelügyeleti eljárás már folyamatban van vagy lezárult, erről a tényről a panaszost tájékoztatni kell.
 
@@ -500,7 +500,12 @@ eljárásának általános szabályai
 
 ### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-44. § A versenyfelügyeleti eljárásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit kell alkalmazni a 18. §-a, a 29. § (3)–(11) bekezdése, a 30. §-a, a 33. § (1) bekezdése, a 33/A. §-a, 33/B. §-a, a 36. § (2)–(4) bekezdése, a 38. §-a, a 46. § (2) bekezdése, a 47. §-a, az 51. § (1) és (5) bekezdése, a 61. § (1) bekezdése, a 70. §-a, a 72. § (4) bekezdése, a 74. § (2)–(5) bekezdése, a 88. § (1) bekezdése, a 94. §-a, a 109. § (2)–(4) bekezdése, valamint a 127–129. §-a kivételével.
+44. § (1) A versenyfelügyeleti eljárásra – e törvény eltérő rendelkezése hiányában – a Ket. rendelkezéseit kell alkalmazni a Ket. 15. § (4) bekezdése, 18. §-a, 29. § (3)–(12) bekezdése, 30. § a) és b) pontja, 31. § (1) bekezdés j) pontja, 33/A. §-a és 33/B. §-a, 38. §-a, 43. § (6a) bekezdése, 46. § (2) bekezdése, 47. §-a, 51. § (1) és (5) bekezdése, 61. § (1) bekezdése, 70. §-a, 71. § (7) bekezdése, 74. § (2)–(5) bekezdése, 88. §-a, 91. §-a, 93. §-a, 94. §-a, 94/A. §-a, 102. § (3) bekezdése, 109. § (2) bekezdése, 116. §-a, 127. § (1)–(4) és (6) bekezdése, 128. § (1) és (3) bekezdése, 130. §-a, valamint 134. § b) és c) pontja kivételével.
+
+(2) A Ket. szabályainak alkalmazásakor
+
+- a) első fokú döntés alatt a vizsgálónak a versenyfelügyeleti eljárás során hozott végzését, illetve az eljáró versenytanácsnak a b) pontban nem említett döntését,
+- b) másodfokú döntés alatt az eljáró versenytanácsnak a vizsgáló végzésével szembeni jogorvoslati eljárásban hozott végzését kell érteni.
 
 ### Hatáskör és illetékesség
 
@@ -553,9 +558,9 @@ az eljáró szerv összetétele, kizárás
 
 ### Az ügyfél
 
-52. § E törvény alkalmazásában ügyfél az, akivel szemben hivatalból indult meg az eljárás, illetve a kérelmező (68. §), továbbá az, akire a kérelem vonatkozik.
+52. § A versenyfelügyeleti eljárásban ügyfél az, akivel szemben hivatalból indult meg az eljárás, illetve a kérelmező (68. §), továbbá az, akire a kérelem vonatkozik.
 
-53. § (1) A kérelemre indult eljárásba a jogutód a jogutódlástól számított harminc napon belül kérheti a jogutódlás megállapítását.
+53. § (1) A 67. § (2) bekezdése szerinti kérelemre indult eljárásba a jogutód a jogutódlástól számított harminc napon belül kérheti a jogutódlás megállapítását.
 
 (2) Ha a hivatalból indult eljárásban az ügyfél megszűnik, jogutódja az eljárásba bevonható. Ha a jogutód bevonása – a 70. § (1) bekezdésében foglaltakra tekintettel – nem indokolt, vagy ha az ügyfélnek nincs jogutódja, a vizsgáló, illetve az eljáró versenytanács az eljárást megszünteti.
 
@@ -563,7 +568,7 @@ az eljáró szerv összetétele, kizárás
 
 (4) Ha a rendelkezésre álló adatokból megállapítható, hogy a hivatalból indult eljárásban vizsgált magatartásnak más vállalkozás is részese volt, a vizsgáló e vállalkozást az eljárásba bevonja.
 
-(5) Ha kérelemre indult eljárásban az engedély megadhatóságához olyan vállalkozás számára kellene kötelezettséget előírni, amely az eljárásban ügyfélként nem vesz részt, a vizsgáló felhívására e vállalkozás az eljárásba ügyfélként beléphet. Az eljárásba belépő vállalkozás a kérelem visszavonására nem jogosult.
+(5) Ha a 67. § (2) bekezdése szerinti kérelemre indult eljárásban az engedély megadhatóságához olyan vállalkozás számára kellene kötelezettséget előírni, amely az eljárásban ügyfélként nem vesz részt, a vizsgáló felhívására e vállalkozás az eljárásba ügyfélként beléphet. Az eljárásba belépő vállalkozás a kérelem visszavonására nem jogosult.
 
 ### A képviselet
 
@@ -589,7 +594,7 @@ az eljáró szerv összetétele, kizárás
 
 (2) Az ügyész, valamint az ügyész engedélyével a nyomozó hatóság az eljárás irataiba, a szakértő a munkája ellátásához szükséges iratokba, ideértve az üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, illetve külön törvényben meghatározott értékpapírtitkot vagy pénztártitkot tartalmazó iratokat is, az eljárás során bármikor betekinthet, azokról másolatot, feljegyzést készíthet.
 
-(3) Az ügyfél és az eljárás egyéb résztvevői üzleti titok védelmére hivatkozással kérhetik az iratokba való betekintés, valamint az iratokról másolat vagy feljegyzés készítésének korlátozását. A vizsgálónak, illetve az eljáró versenytanácsnak a kérelmet elutasító végzése ellen külön jogorvoslatnak (82. §) van helye. A kérelemről való döntéssel egyidejűleg a vizsgáló, illetve az eljáró versenytanács kötelezheti az ügyfelet, illetve az eljárás egyéb résztvevőjét olyan iratváltozat elkészítésére, amely nem tartalmaz üzleti titkot.
+(3) Az ügyfél és az eljárás egyéb résztvevői üzleti titok védelmére hivatkozással kérhetik az iratokba való betekintés, valamint az iratokról másolat vagy feljegyzés készítésének korlátozását. A kérelemről való döntéssel egyidejűleg a vizsgáló, illetve az eljáró versenytanács kötelezheti az ügyfelet, illetve az eljárás egyéb résztvevőjét olyan iratváltozat elkészítésére, amely nem tartalmaz üzleti titkot.
 
 (4) A külföldi hatóság igényelheti, hogy a megkeresésre adott válaszában foglaltakat részben vagy egészben üzleti titokként kezeljék. Az üzleti titok kezelésére a (3) bekezdésben foglaltakat kell alkalmazni.
 
@@ -601,25 +606,31 @@ az eljáró szerv összetétele, kizárás
 
 57. § (1) Az elmulasztott határnaptól, illetve az elmulasztott határidő utolsó napjától számított két hónapon túl igazolási kérelmet előterjeszteni nem lehet.
 
-(2) Az igazolási kérelemről a vizsgálat ideje alatt a vizsgáló, a versenytanács előtti eljárásban az eljáró versenytanács dönt. A vizsgáló igazolási kérelmet elutasító végzése ellen külön jogorvoslati kérelemnek van helye (82. §). Az eljáró versenytanács igazolási kérelmet elutasító végzése a határozat bírósági felülvizsgálata iránt indított keresetben kifogásolható.
+(2) Az igazolási kérelemről vizsgálat ideje alatt történt mulasztás esetén a vizsgáló, a versenytanács előtti eljárás során történt mulasztás esetén az eljáró versenytanács dönt. A vizsgáló igazolási kérelmet elutasító végzése ellen külön jogorvoslatnak van helye (82. §). Az eljáró versenytanács igazolási kérelmet elutasító végzése a határozat bírósági felülvizsgálata iránt indított keresetben kifogásolható.
 
 ### Nemzetközi jogsegély
 
 58. § (1)–(2)
 
-(3) A külföldi hatóság megkeresésére az eljárásban keletkezett iratok kiadhatók. Az üzleti titkot tartalmazó iratok csak akkor adhatók ki, ha erről törvényben kihirdetett nemzetközi szerződés rendelkezik. Amennyiben a kért iratok üzleti titkot tartalmaznak, a kiadás feltétele, hogy a külföldi hatóság az iratban foglaltak üzleti titokként kezelését vállalja.
+(3)
 
 (4) A Gazdasági Versenyhivatal külföldi versenyhatósággal feladataik ellátásának kölcsönös előmozdítása érdekében együttműködési megállapodást köthet.
 
-### Külföldre irányuló kézbesítés
+### Kézbesítés
 
-59. § (1)
+59. § (1) A magyarországi lakcímmel vagy székhellyel nem rendelkező ügyfél kézbesítési meghatalmazottat akkor köteles megnevezni, ha nincs magyarországi lakcímmel vagy székhellyel rendelkező képviselője.
 
-(2) A külföldön teljesített kézbesítést érvényesnek kell tekinteni, ha az akár a belföldi jogszabályok rendelkezéseinek, akár a kézbesítés helyén irányadó jogszabályoknak megfelel.
+(2) A magyarországi lakcímmel vagy székhellyel nem rendelkező ügyfél részére hirdetményi kézbesítésnek, illetve – amennyiben annak feltételei fennállnak – kézbesítési ügygondnok útján történő kézbesítésnek kézbesítési meghatalmazott megnevezésének hiánya miatt csak akkor van helye, ha nemzetközi jogsegély útján vagy az igénybe vehető egyéb közlési módok alkalmazásával a közlés – annak megtörténte igazolásával – nem biztosítható.
+
+(3) A külföldön teljesített postai úton való kézbesítést szabályszerűnek kell tekinteni, ha az akár a hivatalos irat kézbesítésére vonatkozó belföldi jogszabályok rendelkezéseinek, akár a kézbesítés helyén irányadó jogszabályok rendelkezéseinek megfelel.
 
 ### Az eljárás felfüggesztése
 
-60. § Kérelemre indult eljárásban az eljárás felfüggesztése esetén a vizsgáló, illetve az eljáró versenytanács végzése ellen külön jogorvoslatnak (82. §) van helye.
+60. § Az eljárás felfüggesztése tárgyában hozott végzéssel szemben a 67. § (2) bekezdése szerint kérelemre indult eljárásban van helye külön jogorvoslatnak (82. §).
+
+### Az eljárás megszüntetése
+
+60/A. § Az eljárásnak a Ket. 31. § (1) bekezdés e) és i) pontja alapján történő megszüntetéséről hozott végzést a bejelentővel is közölni kell.
 
 ### Eljárási bírság
 
@@ -627,7 +638,11 @@ az eljáró szerv összetétele, kizárás
 
 (2)
 
-(3) Az eljárási bírság legkisebb összege ötvenezer forint, legmagasabb összege vállalkozás esetében az előző üzleti évben elért nettó árbevételének egy százaléka, a vállalkozásnak nem minősülő természetes személy esetében ötszázezer forint. Eljárási kötelezettség teljesítésére megadott határidő túllépése esetén az eljárási bírság napi összege vállalkozás esetében legfeljebb az előző üzleti évben elért nettó árbevétel egy napra jutó összegének egy százaléka, a vállalkozásnak nem minősülő természetes személy esetében legfeljebb napi ötvenezer forint. Az eljárási bírságot kiszabó végzés ellen külön jogorvoslatnak van helye (82. §). A kérelemnek a végzés végrehajtására halasztó hatálya van. Eljárási bírságot kiszabó végzését a vizsgáló, illetve az eljáró versenytanács maga is megváltoztathatja.
+(3) Az eljárási bírság legkisebb összege ötvenezer forint, legmagasabb összege vállalkozás esetében az előző üzleti évben elért nettó árbevételének egy százaléka, vállalkozásnak nem minősülő természetes személy esetében ötszázezer forint.
+
+(4) Eljárási kötelezettség teljesítésére megadott határidő túllépése esetén az eljárási bírság napi összege vállalkozás esetében legfeljebb az előző üzleti évben elért nettó árbevétel egy napra jutó összegének egy százaléka, a vállalkozásnak nem minősülő természetes személy esetében legfeljebb napi ötvenezer forint.
+
+(5) Az eljárási bírságot kiszabó végzését a kötelezett javára a vizsgáló, illetve az eljáró versenytanács hivatalból jogszabálysértés hiányában is módosíthatja.
 
 ### Igazgatási szolgáltatási díj és eljárási költség
 
@@ -678,7 +693,7 @@ kell meghozni.
 
 (3) Vállalkozások összefonódásának ellenőrzése során az eljárást befejező döntést a hiánytalan kérelem, illetve a hiánypótlás beérkezését követő naptól számított
 
-- a) negyvenöt napon belül kell meghozni, amennyiben
+- a) negyvenöt napon belül kell meghozni a 25. § alapján benyújtott kérelem esetében, továbbá amennyiben
   - aa) a 23. § és 25. § értelmében nem jön létre összefonódás, vagy
   - ab) az összefonódás a 24. § szerinti értéket nem éri el, vagy
   - ac) az engedély a 30. § (2) bekezdése alapján nyilvánvalóan nem tagadható meg;
@@ -695,7 +710,7 @@ kell meghozni.
 - c)–f)
 - g) a versenytanács tag kizárásának elintézéséig,
 - h) a 65/A. §-ban és a 65/B. §-ban meghatározott nemperes eljárások megindításától a bíróság határozatának meghozataláig,
-- i) ha a 82. § (3) bekezdése szerinti jogorvoslati kérelemről való döntés hiánya a döntés meghozatalának akadályát képezi, a jogorvoslati kérelem elbírálásáig
+- i) ha az eljáró versenytanács végzésének bírósági felülvizsgálata iránti kérelemről való döntés hiánya a döntés meghozatalának akadályát képezi, a bírósági felülvizsgálati eljárásban a jogerős döntés meghozataláig
 
 eltelt időt.
 
@@ -750,7 +765,7 @@ eltelt időt.
 
 (8) A vizsgálati cselekményhez a Gazdasági Versenyhivatal a rendőrség közreműködését igényelheti.
 
-(9) Az e § szerinti vizsgálati cselekmény során a vizsgáló jogosult a vizsgálat tárgyához nem kapcsolódó, a bírói engedélyben nem foglalt, de e törvény 11. vagy 21. §-ának, illetve az EK-Szerződés 81. vagy 82. cikkének megsértésére utaló bizonyítási eszközről másolatot készíteni, illetve azt lefoglalni. Az ilyen bizonyítási eszköz tekintetében a bírói engedélyt utólag kell beszerezni. Az engedély iránti kérelmet legkésőbb a vizsgálati cselekmény lefolytatásától számított harminc napon belül kell előterjeszteni. Ha a bizonyítási eszköz tekintetében a 65/B. § szerinti eljárás kerül lefolytatásra, a bírói engedély iránti kérelmet ennek befejezésétől számított nyolc napon belül kell előterjeszteni. Utólagos bírói engedély hiányában a bizonyítási eszköz nem használható fel.
+(9) Az e § szerinti vizsgálati cselekmény során a vizsgáló jogosult a vizsgálat tárgyához nem kapcsolódó, a bírói engedélyben nem foglalt, de e törvény 11. vagy 21. §-ának, illetve az EK-Szerződés 81. vagy 82. cikkének megsértésére utaló bizonyítási eszközről másolatot készíteni, illetve azt lefoglalni. Az ilyen bizonyítási eszköz tekintetében a bírói engedélyt utólag kell beszerezni. A bírói engedély iránti kérelmet legkésőbb a vizsgálati cselekmény lefolytatásától számított harminc napon belül kell előterjeszteni. Ha a bizonyítási eszköz tekintetében a 65/B. § szerinti eljárás kerül lefolytatásra, a bírói engedély iránti kérelmet ennek befejezésétől számított nyolc napon belül kell előterjeszteni. Utólagos bírói engedély hiányában a bizonyítási eszköz nem használható fel.
 
 (10) A 65. §-ban és a 65/B. §-ban foglalt rendelkezések e § szerinti eljárás esetében is megfelelően alkalmazandók.
 
@@ -786,9 +801,9 @@ eltelt időt.
 - b) a 25. § szerinti időtartam meghosszabbítás.
 - c)
 
-(3) A versenyfelügyeleti eljárás hivatalból is megindítható, ha megállapítást nyer, hogy a (2) bekezdésben felsorolt esetekben a versenyhivatali eljárás kérelmezésének lett volna helye, de azt elmulasztották.
+(3) A versenyfelügyeleti eljárás hivatalból is megindítható, ha a (2) bekezdésben felsorolt esetekben a versenyhivatali eljárás kérelmezésének lett volna helye, de azt elmulasztották.
 
-(4) Nem indítható vizsgálat, ha az e törvény III. Fejezetének rendelkezéseibe ütköző magatartás esetén az elkövetés óta három év, IV–VI. Fejezetének rendelkezéseibe ütköző magatartás elkövetése óta öt év eltelt. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
+(4) Nem indítható vizsgálat – a jogorvoslati eljárás folytán megismételt eljárást ide nem értve –, ha az e törvény III. Fejezetének rendelkezéseibe ütköző magatartás esetén az elkövetés óta három év, IV–VI. Fejezetének rendelkezéseibe ütköző magatartás elkövetése óta öt év eltelt. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
 (5) A hivatalból indítható versenyfelügyeleti eljárás a 70. § (1) bekezdése szerinti végzés meghozatalának napján indul.
 
@@ -797,16 +812,15 @@ eltelt időt.
 68. § (1) Az eljárás megindítására irányuló kérelmet az nyújthat be,
 
 - a) akit az összefonódás engedélyezése iránti kérelem benyújtására a 28. § (1) bekezdése kötelez,
-- b) aki külön jogszabály alapján az áremelés előzetes bejelentésére kötelezett,
-- c) aki a 25. § szerinti elidegenítési kötelezettségnek egy éven belül nem tudott eleget tenni.
+- b) aki a 25. § szerinti elidegenítési kötelezettségnek egy éven belül nem tudott eleget tenni.
 
-(2) A 24. § alapján benyújtott kérelemhez mellékelni kell a Gazdasági Versenyhivatal által közzétett összefonódási kérelem űrlap megfelelően kitöltött példányát. Az űrlap nélkül benyújtott beadvány nem minősül kérelemnek.
+(2) A 24. § szerinti engedély iránti kérelmet a Gazdasági Versenyhivatal által közzétett formátumú, megfelelően kitöltött összefonódási kérelem űrlapon kell benyújtani. A kérelemnek az ügy elbírálásához szükséges valamennyi tényt, adatot tartalmaznia kell, és ahhoz csatolni kell az űrlapban megjelölt iratokat.
 
-(3) A 24. § szerinti kérelmet a 28. § (2) bekezdésében meghatározott időpontban kell benyújtani.
+(3) Ha a 24. § szerinti engedély iránti kérelmet a 28. § (2)–(4) bekezdésében meghatározott határidőn túl nyújtják be, de a 67. § (3) bekezdése alapján hivatalból az eljárás megindítására még nem került sor, a kérelem érdemi vizsgálat nélküli elutasításának nincs helye.
 
-(4) A kérelemnek az ügy elbírálásához szükséges valamennyi tényt, adatot tartalmaznia kell. Ennek hiányában a vizsgáló a kérelmet a beérkezést követő naptól számított tizenöt napon belül egy alkalommal – határidő megjelölésével – hiánypótlásra visszaadhatja. A hiánypótlásra szolgáló határidő indokolt esetben egy alkalommal meghosszabbítható. Ha a hiánypótlásra történő felhívás után a kérelmező a kérelem hiányait nem vagy nem megfelelően pótolja, a vizsgáló az eljárást megszünteti. Az eljárást megszüntető végzés ellen külön jogorvoslatnak van helye (82. §).
+(4) A vizsgáló hiánypótlási felhívást a kérelem beérkezését követő naptól számított tizenöt napon belül bocsáthat ki.
 
-(5) A kérelmező az eljárás megindítására irányuló kérelmét az eljárás során – a határozat hozataláig – visszavonhatja.
+(5) Hiánypótlási felhívás az eljárás során akkor is kibocsátható, ha a kérelem megfelelt a (2) bekezdésben foglalt követelményeknek, de a tényállás tisztázása során felmerült új adatra tekintettel az szükséges.
 
 ### A bejelentés és a meghallgatás
 
@@ -836,15 +850,15 @@ eltelt időt.
 
 (3) A vizsgáló indokolt esetben a vizsgálat lezárását megelőzően, külön jelentésben is tehet indítványt az ideiglenes intézkedés elrendelésére.
 
-71/A. § A vizsgáló a hivatalból indított versenyfelügyeleti eljárást megszünteti akkor is, ha a vizsgálat során beszerzett bizonyítékok alapján nem állapítható meg törvénysértés, és az eljárás folytatásától sem várható eredmény. A végzést a bejelentővel is közölni kell. Az eljárást megszüntető végzéssel szemben külön jogorvoslatnak van helye (82. §).
+#### 71/A. §
 
 ### A versenytanács eljárása
 
 72. § (1) Az eljáró versenytanács a vizsgáló jelentésének kézhezvételét követően
 
-- a) az eljárást megszünteti akkor is, ha a vizsgálat során beszerzett bizonyítékok alapján nem állapítható meg törvénysértés, és az eljárás folytatásától sem várható eredmény; az eljárást megszüntető végzéssel szemben külön jogorvoslatnak van helye (82. §);
+- a)
 - b) az iratokat a vizsgálónak visszaadhatja, ha megállapítja, hogy a tényállás tisztázásához további vizsgálatra van szükség, illetve az eljárás kiterjesztése, vagy új ügyfél eljárásba vonása indokolt;
-- c) végzésében ideiglenes intézkedéssel megtilthatja a törvény rendelkezéseibe ütköző magatartás további folytatását, illetve elrendelheti a törvénybe ütköző állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme, valamint a gazdasági verseny kialakulásának, fenntartásának vagy fejlesztésének veszélyeztetése miatt – halaszthatatlanul szükség van.
+- c) végzésében ideiglenes intézkedéssel megtilthatja a valószínűsíthetően a törvény rendelkezéseibe ütköző magatartás további folytatását, illetve elrendelheti a valószínűsíthetően a törvénybe ütköző állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelméhez, valamint a gazdasági verseny kialakulásának, fenntartásának vagy fejlesztésének veszélyeztetése miatt – halaszthatatlanul szükség van.
 
 (2) Ha az ideiglenes intézkedés elrendelését az ügyfél kérte, az eljáró versenytanács annak feltételéül biztosítékadást írhat elő. Az ideiglenes intézkedés elrendeléséről az eljáró versenytanács soron kívül határoz.
 
@@ -852,7 +866,7 @@ eltelt időt.
 
 (4) Az eljáró versenytanács a vizsgálónak a vizsgálat lefolytatásának módja, iránya tekintetében javaslatot tehet a vizsgálat lezárását megelőzően is.
 
-(5) Az (1) bekezdés a) pontja szerinti végzést a bejelentővel is közölni kell.
+(5)
 
 73. § (1) Ha a 72. § (1) bekezdésének a)–b) pontjaiban írt intézkedésekre nincs szükség, az eljáró versenytanács megküldi az ügyfélnek az ügyre vonatkozó előzetes álláspontját, amely tartalmazza a megállapított tényállást, az azt alátámasztó bizonyítékokat, a tényállás értékelését, a döntés meghozatalához szükséges szempontok és következtetések lényegének ismertetését.
 
@@ -862,7 +876,7 @@ eltelt időt.
 
 74. § (1) Az eljáró versenytanács tárgyalást tart, ha azt az ügyfél kéri, vagy az eljáró versenytanács szükségesnek tartja. Az eljáró versenytanács az előzetes álláspont megküldésével egyidejűleg nyilatkozattételre hívja fel az ügyfelet arról, hogy kéri-e tárgyalás tartását. A tárgyalás napját úgy kell meghatározni, hogy az ügyfélnek módjában álljon a tárgyalásra felkészülni.
 
-(2) Az eljáró versenytanács a tárgyaláson (illetve tárgyaláson kívül) a 72. § (1) bekezdésének a) pontja szerinti esetekben az eljárást végzéssel megszüntetheti.
+(2)
 
 (3) A versenytanács tárgyalása nyilvános. Az eljáró versenytanács indokolt végzésével a tárgyalásról vagy annak egy részéről a nyilvánosságot kérelemre vagy hivatalból kizárhatja, ha az minősített adat, üzleti titok vagy a fél vagyoni helyzetére vonatkozó, hitelintézettől beszerzett adat (banktitok), biztosítótól beszerzett adat (biztosítási titok), illetve külön törvényben meghatározott értékpapírtitok, fizetési titok vagy pénztártitok megőrzése végett, illetve nemzetgazdasági érdekre tekintettel feltétlenül szükséges.
 
@@ -877,8 +891,8 @@ eltelt időt.
 76. § (1) A vizsgáló utóvizsgálatot tart
 
 - a) a 75. § szerinti végzésben meghatározott kötelezettség teljesítésének,
-- b) a határozatban foglalt előzetes vagy utólagos feltétel teljesülésének,
-- c) a határozatban foglalt kötelezettség teljesítésének
+- b) a határozatban foglalt, a 30. § (3) bekezdése szerinti előzetes vagy utólagos feltétel teljesülésének,
+- c) a határozatban foglalt, a 30. § (3) bekezdése szerinti kötelezettség teljesítésének
 
 ellenőrzése érdekében.
 
@@ -888,10 +902,10 @@ ellenőrzése érdekében.
 
 (4) Az eljáró versenytanács a vizsgáló jelentése alapján
 
-- a) az (1) bekezdés a) pontja szerinti esetben, ha az ügyfél a kötelezettséget nem teljesítette, végzéssel bírságot (78. §) szab ki, kivéve, ha a körülmények változására tekintettel a kötelezettség teljesítésének kikényszerítése nem indokolt; ilyen esetben, továbbá akkor, ha az ügyfél a kötelezettséget teljesítette, az utóvizsgálatot végzéssel megszünteti;
+- a) az (1) bekezdés a) pontja szerinti esetben, ha az ügyfél a vállalt kötelezettséget nem teljesítette, végzéssel bírságot (78. §) szab ki, kivéve, ha a körülmények változására tekintettel a kötelezettség teljesítésének kikényszerítése nem indokolt; ilyen esetben, továbbá akkor, ha az ügyfél a vállalt kötelezettséget teljesítette, az utóvizsgálatot végzéssel megszünteti;
 - b) az (1) bekezdés b) pontja szerinti esetben végzéssel megállapítja, hogy az előzetes vagy utólagos feltétel teljesült-e;
-- c) az (1) bekezdés c) pontja szerinti esetben a kötelezettség teljesítése esetén az utóvizsgálatot végzéssel megszünteti, nem teljesítés esetén pedig határozattal korábbi határozatát visszavonja, illetve megváltoztatja, ha a kötelezettség teljesítése nem indokolt;
-- d) a (2) bekezdés szerinti esetben a határozat önkéntes teljesítésének megállapítása esetén az utóvizsgálatot végzéssel megszünteti, teljesítés hiányában a határozat végrehajtását végzéssel elrendeli.
+- c) az (1) bekezdés c) pontja szerinti esetben a kötelezettség teljesítése esetén az utóvizsgálatot végzéssel megszünteti, nemteljesítés esetén pedig korábbi határozatát a 32. § szerint visszavonja, vagy – ha a kötelezettség teljesítése nem indokolt – módosítja;
+- d) a (2) bekezdés szerinti esetben a határozat önkéntes teljesítésének megállapítása esetén az utóvizsgálatot végzéssel megszünteti, teljesítés hiányában végzéssel megindítja a végrehajtást.
 
 (5) A (4) bekezdés a) pontja szerinti, bírságot kiszabó végzéssel szemben külön jogorvoslatnak van helye (82. §).
 
@@ -907,8 +921,8 @@ ellenőrzése érdekében.
 - f) megtilthatja a törvény rendelkezéseibe ütköző magatartás további folytatását,
 - g) a törvénybe ütközés megállapítása esetén kötelezettséget írhat elő, így különösen az ügylet jellegének megfelelő üzleti kapcsolat létrehozásától vagy további fenntartásától való indokolatlan elzárkózás esetén [21. § c) pont] szerződéskötésre kötelezhet,
 - h) elrendelheti a jogsértő tájékoztatással kapcsolatban helyreigazító nyilatkozat közzétételét,
-- i) megállapíthatja, hogy a magatartás nem ütközik a törvénybe,
-- j) korábbi határozatát visszavonhatja vagy megváltoztathatja.
+- i) megállapíthatja, hogy a magatartás nem ütközik a törvénybe.
+- j)
 
 (2) Az összefonódást engedélyező határozatban előzetes vagy utólagos feltétel, illetve kötelezettség írható elő.
 
@@ -920,13 +934,13 @@ ellenőrzése érdekében.
 
 (3) A bírság összegét az eset összes körülményeire – így különösen a jogsérelem súlyára, a jogsértő állapot időtartamára, a jogsértéssel elért előnyre, a jogsértő felek piaci helyzetére, a magatartás felróhatóságára, az eljárást segítő együttműködő magatartására, a törvénybe ütköző magatartás ismételt tanúsítására – tekintettel kell meghatározni. A jogsérelem súlyát különösen a gazdasági verseny veszélyeztetettségének foka, a fogyasztók, üzletfelek érdekei sérelmének köre, kiterjedtsége alapozhatja meg.
 
-(4) A médiaszolgáltatóval szemben kiszabott bírságot a Médiaszolgáltatás-támogató és Vagyonkezelő Alapba kell befizetni.
+(4)
 
 (5) Ha a bírságot a vállalkozás-csoport jogsértést megvalósító tagja önként nem fizeti meg, és a végrehajtás sem vezet eredményre, az eljáró versenytanács külön végzéssel a vállalkozás-csoportnak a határozatban nevesített tagjait egyetemlegesen kötelezi a bírság, illetve annak be nem hajtott része megfizetésére.
 
 (6) Ha a vele szemben kiszabott bírságot a vállalkozások társulása önként nem fizeti meg, és a végrehajtás sem vezet eredményre, az eljáró versenytanács külön végzéssel a bírság megfizetésére a jogsértő döntés meghozatalában résztvevő, a határozatban ekként nevesített tag-vállalkozást egyetemlegesen kötelezi.
 
-(7) Az (5) és (6) bekezdésben meghatározott végzés ellen a 82. § (3) bekezdése szerinti külön jogorvoslatnak van helye.
+(7) Az (5) és (6) bekezdésben meghatározott végzés ellen külön jogorvoslatnak (82. §) van helye.
 
 (8)
 
@@ -937,7 +951,7 @@ ellenőrzése érdekében.
 - a) amely a Gazdasági Versenyhivatalnak alapot szolgáltat arra, hogy a jogsértéssel kapcsolatban a 65/A. § szerinti vizsgálati cselekmény végzésére kapjon előzetes bírói engedélyt, feltéve, hogy a Gazdasági Versenyhivatal a kérelem benyújtásának időpontjában nem rendelkezett elegendő információval a 65/A. § szerinti vizsgálati cselekmény bíróság általi engedélyezésének megalapozásához, illetve nem került még sor ilyen vizsgálati cselekményre;
 - b) amellyel a jogsértés elkövetése bizonyítható, feltéve, hogy a kérelem benyújtásának időpontjában a Gazdasági Versenyhivatal még nem rendelkezett elegendő bizonyítékkal ahhoz, hogy a jogsértést bizonyítsa, és egyetlen vállalkozás sem felel meg az a) pontnak.
 
-(3) Kérelem alapján a bírság csökkentésének van helye, ha a vállalkozással szemben a bírság kiszabása nem mellőzhető és a vállalkozás olyan, a jogsértésre vonatkozó bizonyítékot ad át a Gazdasági Versenyhivatalnak, amely jelentős többletértéket képvisel a kérelem benyújtásának időpontjában a Gazdasági Versenyhivatal rendelkezésére álló bizonyítékokhoz képest. A kérelem előterjesztésére legkésőbb az előzetes álláspont kézbesítését, illetve az iratbetekintés bármelyik ügyfélre nézve irányadó kezdő napját megelőző nap közül a korábban bekövetkező napon kerülhet sor.
+(3) Kérelem alapján a bírság csökkentésének van helye, ha a vállalkozással szemben a bírság kiszabása nem mellőzhető és a vállalkozás olyan, a jogsértésre vonatkozó bizonyítékot ad át a Gazdasági Versenyhivatalnak, amely jelentős többletértéket képvisel a kérelem benyújtásának időpontjában a Gazdasági Versenyhivatal rendelkezésére álló bizonyítékokhoz képest. A kérelem előterjesztésére legkésőbb az előzetes álláspont közlését, illetve az iratbetekintés bármelyik ügyfélre nézve irányadó kezdő napját megelőző nap közül a korábban bekövetkező napon kerülhet sor.
 
 (4) A bírság csökkentésének mértéke a (3) bekezdés szerinti feltételnek
 
@@ -970,7 +984,7 @@ terjedhet.
 
 (6) Ha a vállalkozás kérelme megfelel a 78/A. § (3) bekezdésében foglalt feltételeknek, az eljáró versenytanács végzéssel megállapítja, hogy a 78/A. § (3) és (4) bekezdése alapján a határozat meghozatalakor a kérelmezővel szemben a bírság csökkentésének van helye, feltéve, hogy a vállalkozás a 78/A. § (6) bekezdésben foglalt feltételeknek megfelel. E végzésétől az eljáró versenytanács csak akkor térhet el a határozathozatal során, ha a vállalkozás a 78/A. § (6) bekezdésben foglalt feltételeknek nem felelt meg. Az alaptalan kérelmet az eljáró versenytanács végzéssel elutasítja.
 
-(7) Az eljáró versenytanács az (5) és (6) bekezdés szerinti végzéseket az elbírálásukhoz szükséges időt figyelembe véve haladéktalanul hozza meg. Az eljáró versenytanács a kérelmezőt meghallgathatja. Az eljáró versenytanács döntésére a versenyfelügyeleti eljárás szabályait kell megfelelően alkalmazni, azzal, hogy az (5), illetve (6) bekezdés alapján hozott bármely végzést csak a kérelmet benyújtó vállalkozással kell közölni. E végzések ellen külön jogorvoslatnak nincs helye.
+(7) Az eljáró versenytanács az (5) és (6) bekezdés szerinti végzéseket az elbírálásukhoz szükséges időt figyelembe véve haladéktalanul hozza meg. Az eljáró versenytanács a kérelmezőt meghallgathatja. Az eljáró versenytanács döntésére a versenyfelügyeleti eljárás szabályait kell megfelelően alkalmazni, azzal, hogy az (5), illetve (6) bekezdés alapján hozott bármely végzést csak a kérelmet benyújtó vállalkozással kell közölni.
 
 (8) Az (5) bekezdés szerinti végzés meghozataláig a Gazdasági Versenyhivatal a mellőzés iránti kérelmet és a csatolt dokumentumokat kizárólag a kérelem elbírálásához, illetve a 65/A. § szerinti bírói engedély kérelmezéséhez használhatja fel, azokba csak az ügy vizsgálója, az eljáró versenytanács és a bíróság tekinthet be. A kérelem elutasítása, illetve visszavonása esetén a benyújtott kérelmet és dokumentumokat az esetlegesen készített másolatokkal együtt a Gazdasági Versenyhivatal a vállalkozás kérelmére az elutasító végzés közlésével egyidejűleg visszaszolgáltatja a kérelmező vállalkozásnak.
 
@@ -1016,27 +1030,29 @@ terjedhet.
 
 ### Az eljárás során hozott végzések elleni jogorvoslat
 
-82. § (1) A vizsgálónak, illetve az eljáró versenytanácsnak az eljárás során hozott végzése ellen külön jogorvoslatnak csak akkor van helye, ha azt e törvény megengedi. A jogorvoslati kérelem előterjesztésének a végzésben foglaltak foganatosítására, az eljárás folytatására – e törvény eltérő rendelkezése hiányában – halasztó hatálya nincs. Jogorvoslati kérelmet – a végzés közlésétől számított nyolc napon belül – terjeszthet elő az ügyfél, valamint akire nézve a végzés rendelkezést tartalmaz, továbbá az, akivel a végzést e törvény alapján közölni kell.
+82. § (1) A vizsgálónak, illetve az eljáró versenytanácsnak a versenyfelügyeleti eljárás során hozott végzése ellen külön jogorvoslatnak csak akkor van helye, ha azt a Ket. vagy e törvény megengedi.
 
-(2) A vizsgáló végzése ellen előterjesztett jogorvoslati kérelmet az eljáró versenytanács tárgyaláson kívül bírálja el. Ha a jogorvoslati kérelem elkésett, vagy azt nem az arra jogosult terjesztette elő, vagy a támadott végzés ellen a törvény nem biztosít jogorvoslatot, az eljáró versenytanács a jogorvoslati kérelmet érdemi vizsgálat nélkül elutasítja. Az eljáró versenytanács a jogorvoslati kérelem érdemi elbírálása során a következőképpen rendelkezhet: a vizsgáló végzését helybenhagyja, megváltoztatja, megsemmisíti, illetve a megsemmisítéssel egyidejűleg a vizsgálót új eljárásra utasítja. Az eljáró versenytanács jogorvoslati kérelmet elbíráló végzése ellen további jogorvoslatnak csak a vizsgálónak a 60. §, a 61. §, a 62. § (7) bekezdése, a 68. § (4) bekezdése vagy a 71/A. § szerinti végzése elleni jogorvoslati kérelem esetében van helye.
+(2) A vizsgáló külön jogorvoslattal megtámadható végzésével szembeni jogorvoslatra a fellebbezés szabályait kell alkalmazni azzal, hogy a fellebbezést az eljáró versenytanács bírálja el. Az eljáró versenytanács végzésével szemben fellebbezésnek nincs helye, annak bírósági felülvizsgálata kérhető.
 
-(3) Az eljáró versenytanács végzése elleni jogorvoslati kérelmet a Fővárosi Törvényszék a közigazgatási hatósági eljárásban hozott végzés elleni bírósági felülvizsgálatra vonatkozó szabályok szerint bírálja el.
+(3) A vizsgáló végzésével szembeni fellebbezést, illetve az eljáró versenytanács végzésének bírósági felülvizsgálata iránti kérelmet a végzés közlésétől számított nyolc napon belül az ügyfél, valamint az terjeszthet elő, akire nézve a végzés rendelkezést tartalmaz, továbbá az, akivel a végzést e törvény alapján közölni kell.
 
-(4) A versenyfelügyeleti eljárásban újrafelvételi kérelem benyújtásának nincs helye.
+(4) A vizsgáló végzésével szembeni fellebbezést az eljáró versenytanács tárgyaláson kívül bírálja el.
+
+(5) A versenyfelügyeleti eljárásban újrafelvételi kérelem benyújtásának nincs helye.
 
 ### A közigazgatási per
 
-83. § (1) A versenyfelügyeleti eljárásban hozott határozat bírósági felülvizsgálata céljából való keresetindítás esetében a keresetlevelet a határozat közlésétől számított harminc napon belül a versenytanácsnál kell benyújtani, vagy ajánlott küldeményként postára adni.
+83. § (1) A versenyfelügyeleti eljárásban hozott határozattal szemben nincs helye fellebbezésnek, annak bírósági felülvizsgálata kérhető. A keresetlevelet az eljáró versenytanácsnál kell benyújtani, vagy ajánlott küldeményként postára adni.
 
-(2) Az eljáró versenytanács a keresetlevelet az ügy irataival, valamint a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt a keresetlevél beérkezésétől számított harminc napon belül továbbítja a bíróságnak. Ha a keresetlevél a végrehajtás felfüggesztésére irányuló kérelmet is tartalmaz, a keresetlevelet és az ügy iratait a keresetlevél beérkezésétől számított tizenöt napon belül kell továbbítani a bíróságnak.
+(2) Az eljáró versenytanács a keresetlevelet és az ügy iratait a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt a keresetlevél beérkezésétől számított harminc napon belül továbbítja a bíróságnak. Ha a keresetlevél a végrehajtás felfüggesztésére irányuló kérelmet is tartalmaz, a keresetlevelet és az ügy iratait a keresetlevél beérkezésétől számított tizenöt napon belül kell továbbítani a bíróságnak.
 
 (3) A közigazgatási perben a Versenytanács elnökének megbízása alapján a Gazdasági Versenyhivatal képviseletében az eljáró versenytanács tagja is eljárhat.
 
 (4) A bíróság a versenytanács határozatát megváltoztathatja.
 
-(5) Ha az eljáró versenytanács határozata jogszabályt sértett és ennek következtében az ügyfélnek igénye keletkezik a bírság visszatérítésére, a visszatérítendő összeg után a mindenkori jegybanki alapkamat kétszeres összegének megfelelő kamatot is meg kell téríteni.
+(5) Ha az eljáró Versenytanács határozata jogszabályt sértett és ennek következtében az ügyfélnek igénye keletkezik a bírság visszatérítésére, a visszatérítendő összeg után a mindenkori jegybanki alapkamattal megegyező mértékű kamatot is meg kell téríteni.
 
-84. § Az eljáró Versenytanács határozata ellen benyújtott kereset alapján indult bírósági eljárás során – a 83. §-ban meghatározott eltérésekkel – a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezete az irányadó.
+84. § Az eljáró Versenytanács határozata ellen benyújtott kereset alapján indult bírósági eljárás során – a 83. §-ban meghatározott eltérésekkel – a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó szabályait kell alkalmazni.
 
 ### XIII. Fejezet — A Gazdasági Versenyhivatal által indítható per
 
@@ -1123,13 +1139,11 @@ terjedhet.
 
 végrehajtása
 
-89. § (1) A vizsgálónak a versenyfelügyeleti eljárás során hozott végzése jogerős, ha a végzés ellen határidőn belül jogorvoslatot nem terjesztettek elő, arról lemondtak, vagy a jogorvoslat kizárt. Az eljáró versenytanács döntése a közléssel válik jogerőssé.
+89. § (1) A vizsgáló, illetve – az eljáró versenytanács döntése tekintetében – az eljáró versenytanács hivatalból vizsgálja a 76. § (1) és (2) bekezdésében nem szabályozott végrehajtható döntésben meghatározott kötelezettség teljesítését.
 
-(2) A jogerős döntés végrehajtható, ha a döntésben a teljesítésre megállapított határidő vagy határnap eredménytelenül telt el. A nem jogerős döntés akkor hajtható végre, ha a jogorvoslatnak a végrehajtásra nincs halasztó hatálya.
+(2) A vizsgáló, illetve – az eljáró versenytanács döntése tekintetében – az eljáró versenytanács hivatalból haladéktalanul, külön végzéssel megindítja a versenyfelügyeleti eljárás során hozott döntésének végrehajtását, ha a 76. § (4) bekezdés d) pontjában meghatározott esetben, vagy – az (1) bekezdés szerinti esetben – a rendelkezésére álló adatok alapján megállapítja, hogy a végrehajtható döntésben elrendelt kötelezettség teljesítése határidőre nem vagy csak részben, vagy nem az előírtaknak megfelelően történt. A végrehajtási eljárás a végrehajtás megindításáról szóló végzésnek a kötelezettel való közlésével indul meg.
 
-(3) Az eljáró versenytanács és a vizsgáló a versenyfelügyeleti eljárás során hozott döntésének végrehajtását a teljesítési határidő eredménytelen eltelte után haladéktalanul, külön végzéssel, hivatalból rendeli el.
-
-90. § (1) Ha az eljáró versenytanács döntésében az ügyfelet meghatározott cselekmény elvégzésére, vagy meghatározott magatartás tanúsítására kötelezte, az eljáró versenytanács a végrehajtás elrendelésével egyidejűleg végrehajtási bírságot szab ki. A végrehajtási bírság napi összege ötvenezer forintig terjedhet.
+90. § (1) Az eljáró versenytanács a döntésében előírt meghatározott cselekmény elvégzésére vagy meghatározott magatartás tanúsítására vonatkozó kötelezettség (a továbbiakban együtt: meghatározott cselekmény) végrehajtásának megindításával egyidejűleg – ha a meghatározott cselekmény teljesítése más végrehajtási módon keresztül hatékonyan nem biztosítható – végrehajtási bírságot szab ki. A végrehajtási bírság napi összege ötvenezer forintig terjedhet.
 
 (2) Az eljáró versenytanács a kötelezett indokolt kérelmére egy alkalommal, a végrehajtási bírság napi összegének felemelésével egyidejűleg az önkéntes teljesítésre póthatáridőt biztosíthat. A felemelt bírság összege napi százezer forintig terjedhet.
 
@@ -1137,13 +1151,21 @@ végrehajtása
 
 (4) A végrehajtási bírságot mind a vállalkozással, mind a vállalkozás vezetőjével szemben egyidejűleg is ki lehet szabni.
 
-(5)
+(5) A végrehajtás megindításától, illetve a teljesítési póthatáridő lejártától számított, teljesítés nélkül eltelt minden egyes hónapot követő napon az adott teljesítés nélkül eltelt hónapra eső végrehajtási bírság, illetve megemelt összegű végrehajtási bírság esedékessé válik.
 
-90/A. § A végrehajtó szolgálat a Gazdasági Versenyhivatalt a meghatározott cselekmény elvégzésére, vagy meghatározott magatartás tanúsítására kötelező döntés végrehajtásának foganatosításába bevonhatja.
+(6) A teljesítés hónapjában a teljesítés napjáig terjedő időre eső végrehajtási bírság, illetve megemelt összegű végrehajtási bírság a teljesítés napján válik esedékessé.
 
-91. § (1) Az, akinek a jogát vagy jogos érdekét a végrehajtás elrendelése, illetve a végrehajtási bírság kiszabása sérti, a sérelemről szerzett értesüléstől számított három nap alatt végrehajtási kifogást terjeszthet elő a Versenytanács elnökénél.
+90/A. § (1) A teljesítési határidőben meg nem fizetett bírság, az esedékessé váló végrehajtási bírságot is ideértve, valamint a meg nem fizetett bírság után felszámítandó és meg nem fizetett késedelmi pótlék behajtása iránt a Gazdasági Versenyhivatal a végrehajtási eljárás megindítását követően haladéktalanul megkeresi az adóhatóságot.
 
-(2) A Versenytanács elnöke a végrehajtási kifogásról nyolc napon belül dönt. A végzéssel szemben jogorvoslatnak helye nincs.
+(2) A meghatározott cselekmény végrehajtását a Gazdasági Versenyhivatal foganatosítja, kivéve, ha az eljáró versenytanács végrehajtási bírság kiszabásáról döntött. A meghatározott cselekmény végrehajtására irányuló végrehajtási eljárásban kiszabható eljárási bírságra a 61. § (3) bekezdését kell alkalmazni.
+
+91. § (1) A végrehajtás foganatosítása során hozott törvénysértő döntés vagy intézkedés miatt végrehajtási kifogás a kifogásolt döntésről, illetve intézkedésről való tudomásszerzést vagy az akadály megszűnését követő három napon belül, de legkésőbb a döntés közlésétől, illetve az intézkedéstől számított egy hónapon belül terjeszthető elő.
+
+(2) A vizsgáló döntésével vagy intézkedésével szembeni végrehajtási kifogást, valamint a vizsgálónak a Ket. 143. § (1) bekezdése alapján megfellebbezhető végzésével szembeni fellebbezést az eljáró versenytanács nyolc napon belül bírálja el.
+
+(3) Az eljáró versenytanácsnak a végrehajtási eljárásban hozott döntésével szembeni bírósági felülvizsgálat iránti kérelemről a bíróság soron kívül határoz.
+
+(4) A végrehajtási kifogásra az e §-ban foglalt eltérésekkel megfelelően alkalmazni kell a 82. § rendelkezéseit.
 
 ### XVI. Fejezet — Eljárás az európai közösségi versenyszabályok alkalmazása során
 
@@ -1191,7 +1213,9 @@ végrehajtása
 
 (4) Ha a vizsgálati cselekmény végrehajtásához a rendőrség közreműködése szükséges, annak biztosítása érdekében az Európai Bizottság kérelmére a Gazdasági Versenyhivatal jár el.
 
-91/G. § Ha az 1/2003/EK rendelet alapján az Európai Bizottság, illetve más tagállam versenyhatósága vagy a 139/2004/EK rendelet alapján az Európai Bizottság vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, a kérelem teljesítése során e törvény rendelkezéseit kell alkalmazni azzal, hogy az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról szóló végzésével zárul, határozat (77. §) meghozatalának nincs helye.
+91/G. § (1) Ha az 1/2003/EK rendelet alapján az Európai Bizottság, illetve más tagállam versenyhatósága vagy a 139/2004/EK rendelet alapján az Európai Bizottság vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, a kérelem teljesítése során e törvény rendelkezéseit kell alkalmazni azzal, hogy az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról szóló végzésével zárul, határozat (77. §) meghozatalának nincs helye.
+
+(2) Ha a Gazdasági Versenyhivatal az 1/2003/EK rendelet 22. cikk (1) bekezdése alapján más tagállam versenyhatóságát vizsgálat vagy ténymegállapító intézkedés elvégzésére kéri fel, ennek költsége egyéb eljárási költség.
 
 ### A bíróságok eljárására vonatkozó szabályok
 
@@ -1251,7 +1275,11 @@ végrehajtása
 
 95/A. § E törvénynek a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek csődeljárásának és felszámolásának különleges szabályairól és az azzal összefüggő törvénymódosításokról szóló törvénnyel megállapított rendelkezéseit a hatálybalépést követően kezdeményezett eljárásokban kell alkalmazni.
 
-95/B. § E törvénynek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények, valamint a miniszteri hatósági hatáskörök felülvizsgálatával összefüggő egyes törvények módosításáról szóló 2011. évi CLXXIV. törvény (a továbbiakban: Ket-módtv.) 19. §-ával megállapított, az igazgatási szolgáltatási díjra és eljárási költségekre vonatkozó rendelkezéseit az e rendelkezések hatálybalépése után indult és megismételt eljárásokban kell alkalmazni.
+95/B. § (1) E törvénynek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények, valamint a miniszteri hatósági hatáskörök felülvizsgálatával összefüggő egyes törvények módosításáról szóló 2011. évi CLXXIV. törvény (a továbbiakban: Ket-módtv.) 19. §-ával megállapított, az igazgatási szolgáltatási díjra és eljárási költségekre vonatkozó rendelkezéseit az e rendelkezések hatálybalépése után indult és megismételt eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Ket-módtv. 20–22. §-ával megállapított rendelkezéseit – a (3) bekezdésben foglalt kivétellel – az e rendelkezések hatálybalépése után indult és megismételt eljárásokban kell alkalmazni.
+
+(3) E törvénynek a Ket-módtv. 20. § (17) bekezdésével megállapított 89–91. §-át kell alkalmazni az e rendelkezések hatálybalépésekor még meg nem indult végrehajtási eljárásokra is.
 
 96. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a megállapodások egyes csoportjainak a 11. §-ban foglalt tilalom alól történő mentesülését.
 
