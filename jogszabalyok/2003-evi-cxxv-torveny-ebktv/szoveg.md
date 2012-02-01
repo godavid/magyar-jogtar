@@ -20,7 +20,7 @@ a következő törvényt alkotja:
 - b) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, a munkavégzésre irányuló vállalkozási és megbízási szerződés alapján létrejött jogviszony, a szakcsoporti tagsági viszony, valamint a szövetkezeti tagsági viszonynak, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei,
 - c) állami támogatás: az államháztartás alrendszereinek költségvetése terhére ingyenes vagy kedvezményes források, illetve egyéb előny bármilyen formában történő nyújtása oly módon, hogy ez állami bevételkiesést vagy állami kiadást jelent, ideértve az állami kezességvállalást is, valamint az Európai Unióból, nemzetközi szervezetektől és más államokból származó források, adományok és segélyek, amennyiben azok a központi költségvetésen keresztül kerülnek folyósításra,
 - d) közszolgáltatás: szerződéskötési kötelezettség alapján a lakosság alapvető szükségleteinek ellátására irányuló szolgáltatás, így különösen a villamosenergia-, gáz-, hő-, víz-, szennyvíz- és hulladékkezelési, köztisztasági, postai és távközlési szolgáltatás, továbbá a menetrend alapján közlekedő járművekkel végzett közforgalmú személyszállítás,
-- e) civil szervezet: az a társadalmi szervezet vagy alapítvány, amelynek alapszabályában, illetve alapító okiratában a szervezet céljai között a hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése vagy az emberi és állampolgári jogok védelme szerepel, valamint az adott nemzetiség tekintetében a nemzetiségi önkormányzat, továbbá a munkavállalók anyagi, szociális és kulturális, valamint élet- és munkakörülményeivel összefüggő ügyeiben a szakszervezet,
+- e) társadalmi és érdek-képviseleti szervezet: az az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezet, amelynek alapszabályában, illetve alapító okiratában a szervezet céljai között a védett tulajdonság pontos meghatározásával körülírt hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése vagy a védett tulajdonság pontos meghatározásával körülírt emberi és állampolgári jogok védelme szerepel, valamint az adott nemzeti és etnikai kisebbség tekintetében a kisebbségi önkormányzat, továbbá a munkavállalók anyagi, szociális és kulturális, valamint élet- és munkakörülményeivel összefüggő ügyeiben a szakszervezet,
 - f) hozzátartozó: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. § b) pontja szerinti hozzátartozó, ide nem értve a jegyest.
 
 ### A törvény hatálya
@@ -121,7 +121,7 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 ### II. Fejezet — AZ EGYENLŐ BÁNÁSMÓD KÖVETELMÉNYÉNEK MEGSÉRTÉSE MIATT INDÍTOTT ELJÁRÁSOK
 
-12. § Az egyenlő bánásmód követelményének megsértése miatti igények az e fejezetben, valamint külön jogszabályokban meghatározott eljárások során – így különösen személyiségi jogi per, munkaügyi per, fogyasztóvédelmi, munkaügyi vagy szabálysértési hatóságok eljárása során – érvényesíthetőek.
+12. § Az egyenlő bánásmód követelményének megsértése miatti igények a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben, valamint külön jogszabályokban meghatározott eljárások során – így különösen személyiségi jogi per, munkaügyi per, fogyasztóvédelmi, munkaügyi vagy szabálysértési hatóságok eljárása során – érvényesíthetőek.
 
 ### Az egyenlő bánásmód követelményének érvényesítésével kapcsolatos egyes szabályok
 
@@ -129,7 +129,7 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 14. § (1) Az Egyenlő Bánásmód Hatóság (a továbbiakban: hatóság)
 
-- a) kérelem alapján, illetve az e törvényben meghatározott esetekben hivatalból vizsgálatot folytat annak megállapítására, hogy megsértették-e az egyenlő bánásmód követelményét, valamint kérelem alapján vizsgálatot folytat, hogy az arra kötelezett munkáltatók elfogadtak-e esélyegyenlőségi tervet, a vizsgálat alapján határozatot hoz;
+- a)
 - b) a közérdekű igényérvényesítés joga alapján pert indíthat a jogaikban sértett személyek és csoportok jogainak védelmében;
 - c) véleményezi az egyenlő bánásmódot érintő jogszabályok, közjogi szervezetszabályozó eszközök és jelentések tervezeteit;
 - d) javaslatot tesz az egyenlő bánásmódot érintő kormányzati döntésekre, jogi szabályozásra;
@@ -144,169 +144,23 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 (3)
 
-15. § (1) Az egyenlő bánásmód követelménye e törvény hatálya alá tartozó megsértésének vizsgálatát a sérelmet szenvedett fél választása szerint
+15. §
 
-- a) a hatóság, vagy
-- b) az egyenlő bánásmód követelménye megsértésének elbírálására külön törvény alapján hatáskörrel rendelkező más közigazgatási szerv
+15/A–15/B. §
 
-folytatja le.
+16–17. §
 
-(2) Az eljárás megindításáról, annak jogerős befejezéséről, valamint a döntéssel kapcsolatos bírósági felülvizsgálat során hozott jogerős ítéletről, illetőleg végzésről a hatóság a külön törvény alapján hatáskörrel rendelkező közigazgatási szervet, illetve e közigazgatási szerv a hatóságot értesíti.
+17/A. §
 
-(3) Ha az (1) bekezdés alapján valamely közigazgatási szerv előtt eljárás indult, úgy más közigazgatási szerv ugyanazon törvénysértés tekintetében
+17/B–17/D. §
 
-- a) azonos személy ellen elkövetett törvénysértés esetén nem járhat el,
-- b) más személy ellen elkövetett törvénysértés esetén megindult eljárását az ügy jogerős elbírálásáig felfüggeszti.
-
-(4) Ha az ügyet valamely közigazgatási szerv elbírálta, úgy más közigazgatási szerv ugyanazon törvénysértés tekintetében
-
-- a) azonos személy ellen elkövetett törvénysértés esetén nem járhat el,
-- b) más személy ellen elkövetett törvénysértés esetén megindult eljárásában a jogerős határozatban megállapított tényállást alapul véve jár el.
-
-(5) A hatóság hivatalból is eljár az egyenlő bánásmód követelményének a 4. § a)–d) pontjaiban meghatározott szervek általi megsértésével kapcsolatban, ha az adott ügyben más közigazgatási szerv előtt nincs folyamatban eljárás.
-
-(6) A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, az alapvető jogok biztosa, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
-
-(7) A hatóság a más közigazgatási szerv által az egyenlő bánásmód követelményével kapcsolatban hozott közigazgatási határozat bírósági felülvizsgálata során a perben beavatkozóként részt vehet.
-
-(8) A kérelemre indult eljárásban az egyéb eljárási költségeket a hatóság, illetve az eljárásban való részvételével kapcsolatban felmerülő költségek tekintetében az eljárás alá vont, a sérelmet szenvedett féllel ellenérdekű fél előlegezi meg.
-
-(9) A kérelem elutasítása esetén a sérelmet szenvedett fél csak akkor viseli az egyéb eljárási költségeket, ha a hatóság megállapította, hogy rosszhiszemű volt.
-
-15/A. § (1) Ha az egyenlő bánásmód követelményének e törvény hatálya alá tartozó megsértése miatt a jogsérelmet szenvedett fél vagy a közérdekű igényérvényesítésre jogosult bíróság előtt eljárást indított, a hatóság vagy a 15. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv az eljárását az ügy jogerős elbírálásáig felfüggeszti.
-
-(2) Az (1) bekezdés alkalmazásával meghozott végzést a hatóság vagy más közigazgatási szerv a bíróságnak megküldi.
-
-(3) A bíróság az egyenlő bánásmód követelményének e törvény hatálya alá tartozó megsértése miatt hozott jogerős határozatát a hatóságnak, valamint az előtte folyamatban levő eljárást felfüggesztő, a 15. § (1) bekezdés b) pontjában meghatározott más közigazgatási szervnek megküldi.
-
-(4) A hatóság vagy a 15. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv az eljárása során ugyanazon törvénysértés esetén a bíróság határozatának kézhezvételét követően az abban megállapított tényállást alapul véve jár el.
-
-(5) A bíróság határozatának jogerőre emelkedését követően az egyenlő bánásmód követelményének e törvény hatálya alá tartozó megsértése miatt közigazgatási szerv előtt ugyanazon törvénysértés tekintetében
-
-- a) azonos személy ellen elkövetett törvénysértés miatt eljárás nem indítható,
-- b) más személy ellen elkövetett törvénysértés esetén a hatóság vagy a 15. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv a bíróság határozatában megállapított tényállást alapul véve jár el.
-
-15/B. § (1) A hatóság haladéktalanul törli azokat a személyes és különleges adatokat, amelyek kezelése a 14. § (1) bekezdés a)–b) pontja szerinti hatásköre gyakorlásához nem elengedhetetlenül szükséges.
-
-(2) Az eljárás alá vont ügyfél az üggyel összefüggő iratokat és elektronikus adathordozón tárolt adatokat felhívásra rendelkezésre bocsátja, illetve az egyenlő bánásmód követelményének megsértése ellenőrzéséhez szükséges tények, körülmények, egyéb feltételek megismerését biztosítja. Nem kötelezhető az ügyfél olyan nyilvántartás, összesítés elkészítésére, amelyet jogszabály nem ír elő, ha annak elkészítése aránytalan ráfordítást igényelne.
-
-(3) A hatóság a (2) bekezdés alapján csak olyan különleges adat rendelkezésre bocsátására hívhat fel, amely kezelése az eljárás céljára tekintettel elengedhetetlenül szükséges, és amely hiányában az eljárás eredményessége nem lenne biztosítható.
-
-(4) A közigazgatási hatósági eljárásban a hatóság jogosult a személyes adatokat tartalmazó nyilvántartás vagy adatbázis szemletárgyként való lefoglalására is.
-
-16. § (1) Ha a hatóság megállapította az e törvényben foglalt, az egyenlő bánásmód követelményét biztosító rendelkezések megsértését
-
-- a) elrendelheti a jogsértő állapot megszüntetését,
-- b) megtilthatja a jogsértő magatartás jövőbeni tanúsítását,
-- c) elrendelheti a jogsértést megállapító jogerős határozatának nyilvános közzétételét,
-- d) bírságot szabhat ki,
-- e) külön törvényben meghatározott jogkövetkezményt alkalmazhat.
-
-(2) Az (1) bekezdésben meghatározott jogkövetkezményeket az eset összes körülményeire – így különösen a sérelmet szenvedettek körére, a sérelem következményeire, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására és a jogsértő teljesítőképességére – tekintettel kell meghatározni.
-
-(3) Az (1) bekezdésben meghatározott jogkövetkezmények együttesen is alkalmazhatóak.
-
-(4) Az (1) bekezdés d) pontja alapján kiszabott bírság összege ötvenezer forinttól hatmillió forintig terjedhet.
-
-(5) Ha a hatóság megállapította, hogy az arra kötelezett munkáltató elmulasztotta az esélyegyenlőségi terv elfogadását, felszólítja a munkáltatót a mulasztás pótlására, és – a (2)–(4) bekezdés megfelelő alkalmazásával – az (1) bekezdés c)–e) pontjaiban meghatározott jogkövetkezményeket alkalmazhatja.
-
-17. § (1) A hatóság döntése ellen közigazgatási eljárás keretében fellebbezésnek nincs helye.
-
-(2) A hatóságnak az egyenlő bánásmód követelményének megsértése tárgyában folyamatban lévő eljárásban hozott döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
-
-(3) A hatóság döntésének bírósági felülvizsgálata iránti eljárás a Fővárosi Bíróság hatáskörébe és kizárólagos illetékességébe tartozik.
-
-(4) A Fővárosi Bíróság három hivatásos bíróból álló tanácsban jár el, ha azt a fél a keresetlevélben, illetve a hatóság a keresetlevélben foglaltakra vonatkozó nyilatkozatában kéri.
-
-17/A. § (1) A hatóság az egyenlő bánásmód követelménye megtartásával kapcsolatos adatoknak más szervek eljárásában történő felhasználása céljából hatósági nyilvántartást vezet, amely tartalmazza azoknak a foglalkoztatóknak az adatait, amelyekre vonatkozóan a hatóság jogerős és végrehajtható határozata, illetőleg – a határozat bírósági felülvizsgálata esetén – jogerős bírósági határozat jogsértést állapított meg. A nyilvántartás tartalmazza
-
-- a) a foglalkoztató nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét,
-- b) a jogsértést megállapító határozat keltét és számát, jogerőre emelkedésének és végrehajthatóvá válásának időpontját,
-- c) a jogsértés megjelölését,
-- d) az alkalmazott jogkövetkezményt és mértékét az annak alapjául szolgáló jogszabályhelyre történő utalással,
-- e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság milyen döntést (hatályon kívül vagy hatályon kívül helyező és új eljárást elrendelő vagy a keresetet elutasító) hozott.
-
-(2) A hatósági nyilvántartás adatait a hatóság az általa létrehozott informatikai rendszerben kezeli. Az (1) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítését a hatóság végzi, a jogsértést megállapító határozat jogerőre emelkedésének és végrehajthatóvá válásának napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatáról való tudomásszerzést követő munkanapon.
-
-(3) A hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló határozat jogerőre emelkedésének és végrehajthatóvá válásának napjától számított két év elteltével törli.
-
-(4) A hatóság – a (6) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból a jogerős és végrehajtható közigazgatási vagy – a közigazgatási határozat bírósági felülvizsgálata esetén – bírósági határozattal két éven belül azonos jogsértés ismételt elkövetése miatt bírsággal sújtott munkáltatókra vonatkozó, az (1) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat bírósági felülvizsgálata esetén az e) pontban foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján akkor hozza nyilvánosságra, amikor a korábbival azonos jogsértés két éven belüli ismételt elkövetésének megállapítására az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) és a végrehajtására kiadott rendelet alapján jogerős és végrehajtható közigazgatási határozattal sor került.
-
-(5) A (4) bekezdés alkalmazásában – több telephellyel rendelkező munkáltató esetében – azonos jogsértés ismételt elkövetésén az ugyanazon telephelyen kétéves időszakon belül jogerős és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
-
-(6) Ha a hatóság tudomására jutott, hogy határozatának bírósági felülvizsgálata iránt keresetet indítottak,
-
-- a) a (4)–(5) bekezdésben foglalt adatokat a bíróság jogerős és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé,
-- b) – amennyiben a (4)–(5) bekezdés szerinti adatok nyilvánosságra hozatalára már sor került – intézkedik a honlapon nyilvánosságra hozott adatok törléséről.
-
-(7) A hatóság nyilvántartásba vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
-
-### Az Egyenlő Bánásmód Tanácsadó Testület
-
-17/B. § (1) A hatóság 14. § (1) bekezdésében meghatározott feladatainak ellátását Egyenlő Bánásmód Tanácsadó Testület (a továbbiakban: testület) segíti.
-
-(2) A testület a hatóság 14. § (1) bekezdésének a)–b) pontjaiban meghatározott feladatainak ellátását e törvény egyes rendelkezéseinek értelmezésével segíti. Az értelmezés a hatóságot eljárása során nem köti.
-
-(3) A 14. § (1) bekezdésének d)–e) és h)–i) pontjai alapján készített vélemények, jelentések és javaslatok hatóság által történő elfogadásához a testület egyetértése szükséges.
-
-(4) A testület tagjai számára – a feladatuk ellátásához szükséges mértékben – a hatóság vezetője a hatóság kezelésében levő iratokba betekintést enged. A hatóság kezelésében levő iratban található személyes adatokat a testület tagjai egyedi azonosításra alkalmatlan formában ismerhetik meg.
-
-17/C. § (1) A testület három tagjának felkérésére a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, három további tagjának felkérésére az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter tesz javaslatot a miniszterelnöknek. A felkérni javasolt személyekről a javaslatot tevő miniszterek az egyenlő bánásmód követelménye érvényesítésében részt vevő szervekkel és szervezetekkel előzetes közös egyeztetést folytatnak.
-
-(2) A megbízatás ellátására a választási eljárásról szóló törvény hatálya alá tartozó valamely választáson választható olyan személy kérhető fel, aki az emberi jogok védelme és az egyenlő bánásmód követelményének érvényesítése területén kiemelkedő tapasztalatokkal rendelkezik.
-
-(3) Nem kérhető fel a testület tagjává az, aki
-
-- a) a felkérés időpontjában vagy az azt megelőző két évben országgyűlési képviselő, a Kormány tagja, államtitkár, párt alkalmazottja vagy tisztségviselője volt,
-- b) büntetett előéletű.
-
-(4) A testület tagjának megbízatása a felkérés elfogadásával keletkezik, és hat évre szól.
-
-(5) A testület tagjának megbízatása megszűnik, ha
-
-- a) a tisztségéről lemond,
-- b) a megbízatási időtartam letelik,
-- c) a tisztségének ellátása alól felmentik, vagy
-- d) meghal.
-
-(6) A miniszterelnök a kinevezésére javaslatot tevő miniszter javaslatára felmenti a testület azon tagját,
-
-- a) aki neki fel nem róható okból száznyolcvan napnál hosszabb ideig nem képes eleget tenni a testületi tagságból eredő feladatainak,
-- b) aki neki felróható okból kilencven napnál hosszabb ideig nem tesz eleget a testületi tagságból eredő feladatainak,
-- c)
-- d) aki felkérését követően bekövetkezett körülmény folytán nem felel meg a (3) bekezdésben meghatározott feltételeknek.
-
-(7) A (6) bekezdés a)–b) és d) pontjában meghatározott feltétel bekövetkeztét a miniszterelnök állapítja meg.
-
-(8) A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
-
-(9) A testület tagja megbízatásának megszűnését követő harminc napon belül, az (5) bekezdés b) pontjában meghatározott megszűnési ok esetében a megbízatás megszűnését megelőző harmincadik napig kell az új tagot kinevezni.
-
-(10) A testület tagjai feladatuk ellátása során függetlenek, az e törvényben meghatározott feladatkörükben nem utasíthatóak.
-
-17/D. § (1) A testület saját tagjai közül elnököt választ. Az elnököt akadályoztatása esetén az általa kijelölt tag teljes jogkörben helyettesíti.
-
-(2) A testület elnöke összehívja és vezeti a testület üléseit, továbbá ellátja a testület döntéseinek előkészítésével és azok végrehajtásával kapcsolatos feladatokat.
-
-(3) A testület döntéseit összes tagja többségének szavazatával hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
-
-(4) A testület működésének részletes szabályait ügyrendjében állapítja meg.
-
-(5) A testület működésével kapcsolatos titkársági feladatokat a hatóság látja el.
-
-17/E. § (1) A testület tagjának felkért személy a felkérés elfogadásával egyidejűleg hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a 17/C. § (3) bekezdés b) pontjában meghatározott kizáró ok.
-
-(2) A kinevezésre javaslatot tevő miniszter a testület tagja megbízatásának időtartama alatt írásban, a mulasztás jogkövetkezményének ismertetésével felhívhatja a testület tagját annak igazolására, hogy vele szemben nem áll fenn a 17/C. § (3) bekezdés b) pontjában meghatározott kizáró ok.
-
-(3) Ha az (1) bekezdésben meghatározott felhívásra a testület tagja igazolja, hogy vele szemben nem áll fenn a 17/C. § (3) bekezdés b) pontjában meghatározott kizáró ok, a kinevezésre javaslatot tevő miniszter által vezetett minisztérium az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a testület tagja részére megtéríti.
-
-(4) Az (1) és (2) bekezdés alapján megismert személyes adatokat a kinevezésre javaslatot tevő miniszter a testület tagja megbízatásának megszűnéséig kezeli.
+17/E. §
 
 ### Képviselet
 
-18. § (1) Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban a társadalmi és érdek-képviseleti szervezet, valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el.
+18. § (1) Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban – így különösen személyiségi jogi per, munkaügyi per során – a társadalmi és érdek-képviseleti szervezet, valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el.
 
-(2) Az egyenlő bánásmód követelményének megsértése miatt indult közigazgatási eljárásban a társadalmi és érdek-képviseleti szervezetet megilletik az ügyfél jogai.
+(2)
 
 ### A bizonyítás szabályai
 
@@ -332,7 +186,7 @@ folytatja le.
 
 ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti.
 
-(2) A társadalmi és érdek-képviseleti szervezet a hatóság előtt az (1) bekezdésben meghatározott feltételek teljesülése esetén eljárást indíthat.
+(2) A hatóság haladéktalanul törli azokat a személyes és különleges adatokat, amelyek kezelése az (1) bekezdés szerinti hatásköre gyakorlásához nem elengedhetetlenül szükséges.
 
 ### III. Fejezet — AZ EGYENLŐ BÁNÁSMÓD KÖVETELMÉNYÉNEK ÉRVÉNYESÍTÉSE EGYES TERÜLETEKEN
 
