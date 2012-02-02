@@ -423,14 +423,8 @@ rögzíti.
 
 #### 11. Módosító rendelkezések
 
-31. § A Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) 137. § 2. pont i) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában közfeladatot ellátó személy:)
-
-„i) a polgárőr a polgárőrségről és a polgárőri tevékenység szabályairól szóló törvényben meghatározott feladatok ellátásával kapcsolatban,”
+31. §
 
 #### 12. Hatályon kívül helyező rendelkezések
 
-32. § (1) Hatályát veszti a polgárőrségről szóló 2006. évi LII. törvény.
-
-(2) Hatályát veszti a Btk. 217. § (2) bekezdése, valamint a szabálysértésekről szóló 1999. évi LXIX. törvény 142/B. §-a és az azt megelőző alcím.
+32. §

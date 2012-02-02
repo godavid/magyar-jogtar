@@ -700,7 +700,7 @@ egyes törvények Alaptörvénnyel összefüggő módosításáról
 
 #### 167. A környezetterhelési díjról szóló 2003. évi LXXXIX. törvény módosítása
 
-234. § A környezetterhelési díjról szóló 2003. évi LXXXIX. törvény 12. § (3) bekezdésében a „120” szövegrész helyébe az „1 200” szöveg lép.
+234. §
 
 #### 168. A Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény módosítása
 
