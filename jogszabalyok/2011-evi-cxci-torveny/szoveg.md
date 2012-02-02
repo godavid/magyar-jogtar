@@ -504,7 +504,7 @@ részesülő személy ellátását a Kormány által kijelölt szerv 2012. janu�
 
 #### 20. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-74. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 74. § e) pontjában a „bányász dolgozók egészségkárosodási járadéka” szövegrész helyébe a „bányászok egészségkárosodási járadéka, megváltozott munkaképességű személyek ellátásai” szöveg lép.
+#### 74. §
 
 #### 21. A polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény módosítása
 
@@ -658,23 +658,11 @@ részesülő személy ellátását a Kormány által kijelölt szerv 2012. janu�
 
 2003. évi CXXVII. törvény módosítása
 
-199. § (1) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 97. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az adó mértéke
-
-a) a cigarettára 11 500 forint ezer darabonként és a kiskereskedelmi eladási ár 30 százaléka, de legalább 21 100 forint ezer darabonként,
-
-b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 28,5 százaléka;
-
-c) a finomra vágott fogyasztási dohányra a kiskereskedelmi eladási ár 52 százaléka, de legalább 10 150 forint kilogrammonként,
-
-d) az egyéb fogyasztási dohányra a kiskereskedelmi eladási ár 32,5 százaléka, de legalább 10 150 forint kilogrammonként.”
+199. § (1)
 
 (2)
 
-200. § A Jöt. a következő új 128/A. §-sal egészül ki:
-
-„128/A. § A 2012. május 1-jét megelőzően gyártott és az adójegy-felhasználó által átvett, a sorszámot vonalkód formájában – a 99. § (3) bekezdés d) pontjától eltérően – nem tartalmazó adójegy – figyelemmel a 98/A. § (1) bekezdésében foglaltakra – 2012. június 30-ig felhasználható.”
+#### 200. §
 
 #### 55. Hatályba nem lépésről szóló rendelkezések
 
