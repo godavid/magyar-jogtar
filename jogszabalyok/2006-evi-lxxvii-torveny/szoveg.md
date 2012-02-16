@@ -7602,15 +7602,7 @@ A vitás esetek rendezése
 
 Amennyiben két vagy több tagállam között a nemzetközi forgalomban használni tervezett járművek és az egyéb vasúti berendezések műszaki engedélyezése kapcsán vita keletkezik, és azt nem sikerül közvetlen tárgyalás útján rendezni, a tagállamok a Műszaki Szakértői Bizottsághoz fordulhatnak. Ilyen vitákat az Egyezmény V. Címében foglalt eljárásokkal összhangban a Választottbíróság elé is lehet terjeszteni.”
 
-3. § Az Országgyűlés felhatalmazást ad arra, hogy a Magyar Köztársaság a COTIF 42. cikke alapján a szerződéshez a következő fenntartást tegye:
-
-„A Magyar Köztársaság nem alkalmazza a COTIF következő Függelékeit:
-
-– Egységes Szabályok a nemzetközi vasúti forgalomban használt infrastruktúrára vonatkozó szerződésekre (CUI – a COTIF E Függeléke),
-
-– Egységes Szabályok a nemzetközi forgalomban használni tervezett vasúti berendezésekre vonatkozó műszaki szabványok érvényesítésére és egységes műszaki előírások elfogadására (APTU – a COTIF F Függeléke),
-
-– Egységes Szabályok a nemzetközi forgalomban használt vasúti berendezések műszaki engedélyezésére (ATMF – a COTIF G Függeléke).”
+3. §
 
 4. § (1) Ez a törvény a kihirdetését követő 8. napon lép hatályba.
 
