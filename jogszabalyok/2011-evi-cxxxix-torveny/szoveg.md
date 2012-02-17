@@ -2208,7 +2208,7 @@ A nemzetközi forgalomban használni tervezett vasúti járművek és más vasú
 
 3. § Az Országgyűlés felhatalmazást ad arra, hogy a Magyar Köztársaság a COTIF 42. cikke alapján a szerződéshez tett, a Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv kihirdetéséről szóló 2006. évi LXXVII. törvény 3. §-ában foglalt fenntartást visszavonja.
 
-4. § A Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv kihirdetéséről szóló 2006. évi LXXVII. törvény 3. §-a hatályát veszti.
+4. §
 
 5. § (1) E törvény – a (2) bekezdésben foglalt kivételekkel – a kihirdetését követő napon lép hatályba.
 
