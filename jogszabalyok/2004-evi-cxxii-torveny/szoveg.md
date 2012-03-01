@@ -6,11 +6,11 @@ Az Országgyűlés a közszférában töltött életpálya elismerésének és m
 
 1. § (1) E törvény hatálya kiterjed:
 
-- a) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény [Ktv.] hatálya alá tartozó köztisztviselőkre, ügykezelőkre, valamint munkáltatójukra,
+- a) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) hatálya alá tartozó kormánytisztviselőkre, köztisztviselőkre, kormányzati ügykezelőkre, közszolgálati ügykezelőkre, valamint munkáltatójukra,
 - b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény [Kjt.] hatálya alá tartozó közalkalmazottakra, valamint munkáltatójukra, illetőleg
-- c) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény [Mt.] XII. fejezete hatálya alá tartozó munkavállalókra és munkáltatójukra,
+- c) a Munka Törvénykönyvéről szóló törvény (a továbbiakban: Mt.) hatálya alá tartozó, a Kttv.-ben meghatározott közigazgatási szervnél foglalkoztatott munkavállalóra és munkáltatójára,
 - d) a 4/A., az 5. és a 6/A. § kivételével az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 2007. szeptember 24-én hatályos mellékletében felsorolt, azon 100%-os állami tulajdonú munkáltatókra és azok munkavállalóira, amelyekre a prémiumévek programot a munkáltató főtevékenysége szerint feladatkörrel rendelkező miniszter rendeletével kiterjeszti,
-- e) a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó kormánytisztviselőkre, kormányzati ügykezelőkre, valamint munkáltatójukra.
+- e)
 
 (2) Az (1) bekezdésben foglaltaktól eltérően, a 2. § 4. c) pontjában, a 4/A. §-ban, illetve a 6/A. §-ban foglaltak hatálya kiterjed valamennyi, költségvetési fenntartási körbe nem tartozó munkavállalóra és munkáltatójukra.
 
@@ -23,19 +23,19 @@ Az Országgyűlés a közszférában töltött életpálya elismerésének és m
 
 2. § E törvény alkalmazásában:
 
-- 1. foglalkoztatásra irányuló jogviszony: az állami vezetői szolgálati jogviszony, a közszolgálati, a közalkalmazotti jogviszony, illetőleg a munkaviszony;
-- 2. programban részt vevő: az az 1. §-ban meghatározott állami vezető, köztisztviselő, közalkalmazott, ügykezelő, illetőleg munkavállaló, aki megfelel a 3. § (1) bekezdésében előírt feltételeknek, továbbá az 1. § (3) bekezdésének b) pontjában meghatározott személy;
+- 1. foglalkoztatásra irányuló jogviszony: az állami vezetői szolgálati jogviszony, kormányzati szolgálati jogviszony, a közszolgálati, a közalkalmazotti jogviszony, valamint a munkaviszony;
+- 2. programban részt vevő: az az 1. §-ban meghatározott állami vezető, kormánytisztviselő, köztisztviselő, kormányzati ügykezelő, közszolgálati ügykezelő, közalkalmazott vagy munkavállaló, aki megfelel a 3. § (1) bekezdésében előírt feltételeknek, továbbá az 1. § (3) bekezdésének b) pontjában meghatározott személy;
 - 3. közszférában jogviszonyban töltött idő:
-  - a) állami vezető, valamint köztisztviselő esetében a Ktv. 72. § (1)–(4) bekezdése alapján közszolgálati jogviszonyként elismert idő,
+  - a) állami vezető, valamint kormánytisztviselő és köztisztviselő esetében a Kttv. 8. § (5)–(7) bekezdése alapján kormányzati szolgálati és közszolgálati jogviszonyként elismert idő,
   - b) közalkalmazott esetében a Kjt. 87/A. §-a alapján közalkalmazotti jogviszonyként elismert idő,
-  - c) a Munka Törvénykönyve Harmadik Része XII. Fejezetében meghatározott, a közigazgatási szerveknél foglalkoztatott munkavállaló esetén a munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony tartama,
+  - c) az 1. § (1) bekezdés c) pontjában meghatározott közigazgatási szervnél foglalkoztatott munkavállaló esetén a munkaviszony, közalkalmazotti jogviszony vagy közszolgálati jogviszony tartama,
   - d) az 1. § (1) bekezdés d) pontjában meghatározott munkáltató munkavállalója esetén a munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony tartama,
   - e) az 1. § (3) bekezdésének b) pontjában meghatározott személy esetében a munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony időtartama;
 - 4. korábbi illetmény: a programban résztvevőnek a prémiumévek programba történő belépését közvetlenül megelőző tizenkét egész havi – a munkáltatóval fennállt ennél rövidebb időtartamú jogviszony esetén a jogviszony teljes időtartama alatti összes egész havi – illetményének, munkabérének havi átlaga az alábbiak szerint:
-  - a) köztisztviselők esetében – megállapítása esetén – a Ktv. 44/B. §-a szerinti személyi illetmény, illetve a Ktv. 42. § (2) bekezdése, 45. §-a alapján az alapilletmény, az illetménykiegészítés és a rendszeres illetménypótlékok,
+  - a) kormánytisztviselők és köztisztviselők esetében – megállapítása esetén – a Kttv. 235. §-a szerinti személyi illetmény, illetve Kttv. 131. § (2) bekezdése, 139. § alapján az alapilletmény, az illetménykiegészítés és a rendszeres illetménypótlékok,
   - b) közalkalmazottak esetében a Kjt. 66. és 66/A. §-a alapján a kinevezésben foglalt illetmény, valamint a rendszeres illetménypótlékok,
   - c) munkavállalók esetén a személyi alapbér és a rendszeres bérpótlékok,
-  - d) állami vezetők esetén a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 51. §-ában és a Kjtv. 44. § és 54. §-ában meghatározott alapilletmény, illetménykiegészítés és vezetői illetménypótlék,
+  - d) állami vezetők esetén a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 51. §-ában, továbbá a Kttv. 219. §-ában és 224. §-ában meghatározott alapilletmény, illetménykiegészítés és vezetői illetménypótlék,
   - e) az 1. § (3) bekezdésének b) pontjában meghatározott személy esetében az őt külön jogszabály alapján megillető díj
 
 együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani;
@@ -57,11 +57,11 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 - a) a programban részt vevő legfeljebb 5 éven belül előrehozott öregségi nyugdíjra vagy az öregségi nyugdíjra való jogosultság életkori és szolgálati idővel kapcsolatos feltételeit megszerzi, feltéve, hogy előrehozott öregségi nyugdíjra nem jogosult, illetve csökkentett összegű előrehozott öregségi nyugdíjban nem részesül,
 - b) a programban részt vevő rendelkezik legalább huszonöt év közszférában jogviszonyban töltött idővel,
 - c) a programban részt vevő további foglalkoztatására
-  - ca) a Ktv. 17. § (1) bekezdésében, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
-  - cb) a Ktjv. 8. § (1) bekezdés b) pontja szerinti felmentés miatt nincs lehetőség, és
-- d) a határozatlan idejű kinevezéssel rendelkező programban részt vevő hozzájárul határozatlan idejű foglalkoztatásra irányuló jogviszonyának határozott idejű jogviszonnyá történő módosításához, és elfogadja foglalkoztatásra irányuló jogviszonya tekintetében a prémiumévek programban történő részvétellel összefüggésben e törvényben meghatározott, a Ktv.-ben, a Kjt.-ben, illetve az Mt.-ben foglaltaktól eltérő szabályokat.
+  - ca) a Kttv. 63. § (1) bekezdésében, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból, vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
+  - cb) a Kttv. 63. § (1) bekezdés b) pontja szerinti felmentés miatt nincs lehetőség, és
+- d) a határozatlan idejű kinevezéssel rendelkező programban részt vevő hozzájárul határozatlan idejű foglalkoztatásra irányuló jogviszonyának határozott idejű jogviszonnyá történő módosításához, és elfogadja foglalkoztatásra irányuló jogviszonya tekintetében a prémiumévek programban történő részvétellel összefüggésben e törvényben meghatározott, a Kttv.-ben, a Kjt.-ben, illetve az Mt.-ben foglaltaktól eltérő szabályokat.
 
-(2) A prémiumévek programban való részvételhez történő hozzájárulással egyidejűleg a közalkalmazott magasabb vezető, illetve vezető beosztása, a köztisztviselő és az ügykezelő vezető megbízása, az állami vezető e megbízatása megszűnik. A vezetői munkakört betöltőkre a 4. § (2) bekezdése alkalmazandó. A prémiumévek programba való belépéskor meg kell állapítani a programban részt vevő ezen időpontig ki nem adott szabadságát.
+(2) A prémiumévek programban való részvételhez történő hozzájárulással egyidejűleg a közalkalmazott magasabb vezető, illetve vezető beosztása, az állami vezető e megbízatása megszűnik. Vezetői munkakört betöltőkre a 4. § (2) bekezdését kell alkalmazni. A prémiumévek programba való belépéskor meg kell állapítani a programban részt vevő ezen időpontig ki nem adott szabadságát.
 
 (3) A munkáltató
 
@@ -90,7 +90,7 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 4. § (1) A 3. § (1) bekezdés d) pontja szerinti határozott időre szóló foglalkoztatásra irányuló jogviszony nem szüntethető meg felmentéssel a 3. § (1) bekezdés c) pontjában szereplő okból. A foglalkoztatásra irányuló jogviszonyra vonatkozó jogszabályokban foglaltakon túl a jogviszony megszűnik továbbá
 
 - a) a programban részt vevő öregségi nyugdíjra való jogosultsága életkori, valamint szolgálati időre vonatkozó feltételeinek megszerzésével, vagy
-- b) új munkaviszony, közalkalmazotti, közszolgálati jogviszony, állami vezetői szolgálati viszony létesítésével, kivéve a munkáltató jogutód nélküli megszűnése miatti, a megszűnést megelőzően legfeljebb 30 nappal végrehajtott áthelyezés esetét.
+- b) új munkaviszony, közalkalmazotti, kormányzati szolgálati, közszolgálati jogviszony, állami vezetői szolgálati viszony létesítésével, kivéve a munkáltató jogutód nélküli megszűnése miatti, a megszűnést megelőzően legfeljebb 30 nappal végrehajtott áthelyezés esetét,
 - c) a programban részt vevő a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésben foglalt jogosultsága feltételeinek megszerzésével.
 
 (2) A programban részt vevő munkakörrel nem rendelkezik, azonban a 3. § (1) bekezdés d) pontja szerint fennálló jogviszony időtartama alatt a munkáltatója által igényelt, hetente – munkaidőkeret alkalmazása esetén a munkaidőkeret átlagában – legfeljebb 12 óra időtartamú, iskolai végzettségének és képzettségének megfelelő munkát köteles a munkáltató erre irányuló, a munkaidő-beosztás közlésére vonatkozó szabályok szerint megadott utasítása esetén elvégezni. A programban részt vevő számára a munkavégzés elrendelése aránytalan sérelmet nem okozhat, számára rendkívüli munkavégzés – baleset, elemi csapás vagy súlyos kár, továbbá az életet, egészséget, testi épséget fenyegető közvetlen és súlyos veszély megelőzése, illetőleg elhárítása érdekében szükséges rendkívüli munkavégzés kivételével – nem rendelhető el.
@@ -99,7 +99,7 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 (4) A programban részt vevő havonta a korábbi illetménye hetven százalékának megfelelő mértékű juttatásban részesül.
 
-(5) A programban részt vevő foglalkoztatásra irányuló jogviszonyára a Ktv., a Kjt., illetőleg az Mt. rendelkezéseit – a díjazásra és egyéb juttatásokra, valamint az illetmény- és előmeneteli rendszerre vonatkozó szabályok kivételével – megfelelően alkalmazni kell. A programban részt vevőt – a közszolgálati jogviszonyban állót kivéve – a számára foglalkoztatásra irányuló jogviszonya alapján járó természetbeni étkezés vagy étkezési hozzájárulás, továbbá – ha a munkáltató a foglalkoztatottak részére egyébként ilyen juttatást biztosít – ruházati költségtérítés harminc százaléka illeti meg. A jubileumi jutalomra való jogosultság tekintetében a programban való részvétellel összefüggésben foglalkoztatásra irányuló jogviszonyban töltött idő jogszerző időnek számít, a jubileumi jutalom összegét a (4) bekezdésben meghatározott juttatás alapulvételével kell megállapítani. A programban részt vevőt – a közszolgálati jogviszonyban állót kivéve – utazási költségeinek megtérítése címén a havonta munkában töltött munkanapokkal arányos juttatás illeti meg. A programban részt vevő közszolgálati jogviszonyban állót a Ktv.-ben meghatározott cafetéria-juttatás harminc százaléka illeti meg. Ahol a foglalkoztatási jogviszonyra vonatkozó szabályok távolléti díj, illetmény vagy azokon alapuló juttatás fizetését írják elő, a programban részt vevőt a (4) bekezdésben meghatározott juttatás illeti meg, melynek kifizetésére az illetmény kifizetésének szabályait kell megfelelően alkalmazni.
+(5) A programban részt vevő foglalkoztatásra irányuló jogviszonyára a Kttv., a Kjt., illetőleg az Mt. rendelkezéseit – a díjazásra és egyéb juttatásokra, valamint az illetmény- és előmeneteli rendszerre vonatkozó szabályok kivételével – megfelelően alkalmazni kell. A programban részt vevőt – a közszolgálati jogviszonyban állót kivéve – a számára foglalkoztatásra irányuló jogviszonya alapján járó természetbeni étkezés vagy étkezési hozzájárulás, továbbá – ha a munkáltató a foglalkoztatottak részére egyébként ilyen juttatást biztosít – ruházati költségtérítés harminc százaléka illeti meg. A jubileumi jutalomra való jogosultság tekintetében a programban való részvétellel összefüggésben foglalkoztatásra irányuló jogviszonyban töltött idő jogszerző időnek számít, a jubileumi jutalom összegét a (4) bekezdésben meghatározott juttatás alapulvételével kell megállapítani. A programban részt vevőt – a közszolgálati jogviszonyban állót kivéve – utazási költségeinek megtérítése címén a havonta munkában töltött munkanapokkal arányos juttatás illeti meg. A programban részt vevő közszolgálati jogviszonyban állót a Kttv.-ben meghatározott cafetéria-juttatás harminc százaléka illeti meg. Ahol a foglalkoztatási jogviszonyra vonatkozó szabályok távolléti díj, illetmény vagy azokon alapuló juttatás fizetését írják elő, a programban részt vevőt a (4) bekezdésben meghatározott juttatás illeti meg, melynek kifizetésére az illetmény kifizetésének szabályait kell megfelelően alkalmazni.
 
 (6) Amennyiben a programban részt vevő részére átlagkeresetet kell fizetni, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 152. §-át kell megfelelően alkalmazni azzal, hogy munkabéren a (4) bekezdésben meghatározott juttatást is érteni kell.
 
@@ -108,9 +108,9 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 - a) a szabadságot a (3) bekezdés szerinti, a programban részt vevő által meghatározott időtartam igénybevételével kiadottnak kell tekinteni;
 - b) betegszabadságra a programban részt vevő akkor jogosult, ha a (2)–(3) bekezdés alapján munkavégzési kötelezettsége áll fenn.
 
-(8) Amennyiben a programban részt vevő legkésőbb a program 24. hónapjára járó juttatásának kifizetését megelőzően a Munka Törvénykönyve hatálya alá tartozó munkaviszonyt létesít – ide nem értve a Ktv. hatálya alá tartozó szervvel, illetőleg a legalább 50%-os állami, önkormányzati részesedéssel működő nonprofit szervezettel létesített munkaviszonyt –, a 24. hónapig hátralévő időre járó juttatást, de legfeljebb a prémiumévek programba történő belépés időpontjában őt megillető felmentési időből a munkavégzés alóli mentesítés időtartamára járó díjazás és végkielégítés együttes összegét a részére legkésőbb a foglalkoztatási jogviszony megszűnésekor ki kell fizetni.
+(8) Amennyiben a programban részt vevő legkésőbb a program 24. hónapjára járó juttatásának kifizetését megelőzően a Munka Törvénykönyve hatálya alá tartozó munkaviszonyt létesít – ide nem értve a Kttv. hatálya alá tartozó szervvel, illetőleg a legalább 50%-os állami, önkormányzati részesedéssel működő nonprofit szervezettel létesített munkaviszonyt –, a 24. hónapig hátralévő időre járó juttatást, de legfeljebb a prémiumévek programba történő belépés időpontjában őt megillető felmentési időből a munkavégzés alóli mentesítés időtartamára járó díjazás és végkielégítés együttes összegét a részére legkésőbb a foglalkoztatási jogviszony megszűnésekor ki kell fizetni.
 
-(9) Az 1. § (3) bekezdésének b) pontjában meghatározott személy esetén a (8) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy amennyiben a programban részt vevő legkésőbb a program 24. hónapjára járó juttatás kifizetését megelőzően a Munka Törvénykönyve hatálya alá tartozó munkaviszonyt létesít – ide nem értve a Ktv. hatálya alá tartozó szervvel, illetőleg a legalább 50%-os állami, önkormányzati részesedéssel működő nonprofit szervezettel létesített munkaviszonyt –, részére a 24. hónapig hátralévő juttatást, de legfeljebb a prémiumévek programba belépés időpontjában őt külön jogszabály szerint a megbízatása megszűnésére tekintettel megillető juttatást, ellátást a prémiumévek programban való részvétel megszűnésének időpontjában ki kell fizetni.
+(9) Az 1. § (3) bekezdésének b) pontjában meghatározott személy esetén a (8) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy amennyiben a programban részt vevő legkésőbb a program 24. hónapjára járó juttatás kifizetését megelőzően a Munka Törvénykönyve hatálya alá tartozó munkaviszonyt létesít – ide nem értve a Kttv. hatálya alá tartozó szervvel, illetőleg a legalább 50%-os állami, önkormányzati részesedéssel működő nonprofit szervezettel létesített munkaviszonyt –, részére a 24. hónapig hátralévő juttatást, de legfeljebb a prémiumévek programba belépés időpontjában őt külön jogszabály szerint a megbízatása megszűnésére tekintettel megillető juttatást, ellátást a prémiumévek programban való részvétel megszűnésének időpontjában ki kell fizetni.
 
 (10) Amennyiben a programban részt vevő munkáltatója munkajogi jogállása megváltozik, az új munkáltatónál történő továbbfoglalkoztatásra irányadó szabályokat a programban részt vevőre is alkalmazni kell. Ha e rendelkezések alapján az új munkáltató és a prémiumévek programban részt vevő között foglalkoztatási jogviszony létesül, a prémiumévek program az új munkáltatónál a jogviszony megszűnésének időpontja, valamint a havi juttatás összege tekintetében változatlan feltételekkel folytatódik.
 
@@ -120,8 +120,8 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 5. § (1) Amennyiben a közigazgatási szervnél alkalmazott köztisztviselő, ügykezelő (a továbbiakban együtt: köztisztviselő)
 
-- a) rendelkezik a Ktv. 72. § (1)–(4) bekezdése alapján legalább 10 év közszolgálati jogviszonyként elismert idővel,
-- b) további foglalkoztatására a Ktv. 17. § (1) bekezdésében meghatározott okból nincs lehetőség,
+- a) rendelkezik a Kttv. 8. § (5)–(7) bekezdése alapján legalább 10 év közszolgálati jogviszonyként elismert idővel,
+- b) további foglalkoztatására a Kttv. 63. § (1) bekezdésében és 229. § (1) bekezdésében meghatározott okból nincs lehetőség,
 - c) a prémiumévek programban való részvétel 3. § (1) bekezdés a)–b) pontjában foglalt feltételeinek nem felel meg, és
 - d) hozzájárul határozatlan idejű közszolgálati jogviszonyának határozott idejű jogviszonnyá történő módosításához, és elfogadja jogviszonya tekintetében a különleges foglalkoztatási állománnyal összefüggésben e törvényben meghatározott, általánostól eltérő szabályokat, valamint
 - e) vállalja, hogy a különleges foglalkoztatási állomány időtartama alatt – külön jogszabályban meghatározottak szerint – elhelyezkedését segítő munkaerő-piaci szolgáltatásokat vesz igénybe,
@@ -130,7 +130,7 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 (2) A különleges foglalkoztatási állomány megszűnik a 4. § (1) bekezdésében meghatározott esetekben, de legkésőbb a foglalkoztatási állományba helyezéstől számított egy év elteltével. A különleges foglalkoztatási állomány megszűnésével a közszolgálati jogviszony is megszűnik.
 
-(3) Amennyiben a különleges foglalkoztatási állományba helyezett köztisztviselő a foglalkoztatási állomány időtartama alatt a Munka Törvénykönyve hatálya alá tartozó munkaviszonyt létesít – ide nem értve a Ktv. hatálya alá tartozó szervvel, illetőleg a legalább 50%-os állami, önkormányzati részesedéssel működő nonprofit szervezettel létesített munkaviszonyt –, a hátralévő időre járó juttatást, de legfeljebb a különleges foglalkoztatási állományba helyezés időpontjában őt megillető felmentési időből a munkavégzés alóli mentesítés időtartamára járó díjazás és végkielégítés együttes összegét a részére legkésőbb a közszolgálati jogviszony megszűnésekor ki kell fizetni.
+(3) Amennyiben a különleges foglalkoztatási állományba helyezett köztisztviselő a foglalkoztatási állomány időtartama alatt a Munka Törvénykönyve hatálya alá tartozó munkaviszonyt létesít – ide nem értve a Kttv. hatálya alá tartozó szervvel, illetőleg a legalább 50%-os állami, önkormányzati részesedéssel működő nonprofit szervezettel létesített munkaviszonyt –, a hátralévő időre járó juttatást, de legfeljebb a különleges foglalkoztatási állományba helyezés időpontjában őt megillető felmentési időből a munkavégzés alóli mentesítés időtartamára járó díjazás és végkielégítés együttes összegét a részére legkésőbb a közszolgálati jogviszony megszűnésekor ki kell fizetni.
 
 (4) Az (1)–(3) bekezdésben foglaltakon túlmenően a különleges foglalkoztatási állományra megfelelően alkalmazni kell e törvény 3. § (2)–(3) bekezdését, 4. § (2)–(7), valamint (9)–(11) bekezdését, továbbá 6. §-át.
 

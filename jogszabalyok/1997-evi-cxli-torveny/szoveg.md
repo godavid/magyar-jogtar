@@ -583,7 +583,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - b) annak részére, aki a kérelem teljesítése esetén a bejegyzéssel jogot szerezne, továbbá
 - c) annak, akinek a kérelmére (megkeresésére) valamely jogilag jelentős tényt kellene az ingatlan-nyilvántartásban feljegyezni.
 
-(2a) A döntést a jogi képviselővel eljáró ügyfél részére – a kérelmet elutasító határozat, valamint az eljárást megszüntető végzés kivételével – a jogi képviselője útján kell kézbesíteni.
+(2a) A döntést a jogi képviselővel eljáró ügyfél részére a jogi képviselője útján kell kézbesíteni. A kérelmet elutasító határozatot, valamint az eljárást megszüntető végzést a kérelmezőnek is kézbesíteni kell.
 
 (3) A hagyatékátadó végzés alapján hozott határozatot a közjegyző részére csak akkor kell kézbesíteni, ha az egészben vagy részben elutasítást tartalmaz.
 
@@ -681,11 +681,13 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 62. § (1) Keresettel kérheti a bíróságtól
 
-- a) a bejegyzés törlését és az eredeti állapot visszaállítását érvénytelenség címén az, akinek nyilvántartott jogát a bejegyzés sérti, továbbá az ügyész,
-- b) a bejegyzés törlését az az érdekelt, aki bizonyítja, hogy a bejegyzett jog elévült, vagy megszűnt, illetőleg a nyilvántartott tény megváltozott,
-- c) a bejegyzés kiigazítását az, aki a téves bejegyzés folytán sérelmet szenvedett.
+- a) a bejegyzés törlését és az eredeti állapot visszaállítását
+  - aa) érvénytelenség címén az, akinek nyilvántartott jogát a bejegyzés sérti, továbbá az ügyész,
+  - ab) a felszámoló és a hitelező a csődeljárásról és a felszámolási eljárásról szóló törvény 40. §-ában meghatározott esetekben,
+- c) a bejegyzés törlését az az érdekelt, aki bizonyítja, hogy a bejegyzett jog elévült vagy megszűnt, illetőleg a nyilvántartott tény megváltozott,
+- d) a bejegyzés kiigazítását az, aki a téves bejegyzés folytán sérelmet szenvedett.
 
-(2) Keresetindításnak az (1) bekezdés b) és c) pontja alapján akkor van helye, ha az ingatlanügyi hatósági eljárásban a bejegyzés nem törölhető, illetve a sérelem nem orvosolható, továbbá ha azokat eredménytelenül kísérelték meg.
+(2) Keresetindításnak az (1) bekezdés c) és d) pontja alapján akkor van helye, ha az ingatlanügyi hatósági eljárásban a bejegyzés nem törölhető, illetve a sérelem nem orvosolható, továbbá ha azokat eredménytelenül kísérelték meg.
 
 63. § (1) Az érvénytelen bejegyzés törlése iránt a keresetet azzal szemben, aki közvetlenül a bejegyzés folytán szerzett jogot vagy mentesült a kötelezettség alól, addig lehet megindítani, amíg a bejegyzés alapjául szolgáló jognyilatkozat érvénytelensége megállapításának helye van.
 
@@ -796,6 +798,10 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 (3) A bírósági végrehajtói szolgálat fennállásáról, annak adataiban történt változásról (áthelyezés, tartós helyettes kirendelése stb.), illetve megszűnéséről az önálló bírósági végrehajtók tekintetében a Magyar Bírósági Végrehajtói Kamara, a törvényszéki végrehajtók tekintetében pedig az illetékes törvényszék értesíti az ingatlanügyi hatóságot, amely az értesítés alapján a bírósági végrehajtó hozzáférési jogosultságát visszavonja.
 
 (4) A vízitársulat a törvényben meghatározott közfeladatainak teljesítése céljából a hivatali helyiségében működtetett saját számítástechnikai eszközével jogosult a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe venni. Az ingatlanügyi hatóság a vízitársulat részére kérelem alapján térítésmentesen biztosítja a vízitársulat közfeladatainak ellátásához szükséges számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
+
+73/B. § (1) A felszámoló szervezet a csődeljárásról és a felszámolási eljárásról szóló törvény szerinti vagyonfelügyelői, ideiglenes vagyonfelügyelői és felszámolói feladatának teljesítése céljából a hivatali helyiségében működtetett saját számítástechnikai eszközével köteles a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe venni. Az ingatlanügyi hatóság a felszámoló szervezet vezetője részére kérelem alapján biztosítja a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
+
+(2) Amennyiben a felszámoló szervezetet törlik a felszámolói névjegyzékből, az arról szóló jogerős döntést az ingatlanügyi hatóságnak is meg kell küldeni. Az ingatlanügyi hatóság a felszámoló szervezet hozzáférési jogosultságát a döntésben foglaltaknak megfelelő időponttal visszavonja.
 
 74. § (1) Az ingatlanügyi hatóság
 

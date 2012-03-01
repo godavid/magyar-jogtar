@@ -14,9 +14,9 @@ a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény mó
 
 20. § (1) A Ktjv. 8. § (2) bekezdés a), b) és e) pontjaiban meghatározott felmentés, valamint a Ktv. 17. § (2) bekezdés a), b) és d) pontjaiban meghatározott felmentés csak e törvény hatálybalépését követően bekövetkezett okon alapulhat.
 
-(2) E törvény 5. §-ával megállapított Ktjv. 19. § (1) bekezdésében meghatározott mértékű illetménykiegészítéseket a Földmérési és Távérzékelési Intézet tekintetében 2011. április 1-jétől kell alkalmazni.
+(2)
 
-(3) E törvény 19. § (1) bekezdés a) pontjában foglaltakat 2011. április 1-jétől alkalmazni kell.
+(3)
 
 (4) A Ktv. 15. § (1) bekezdés j) pontja alapján csak e törvény hatálybalépését követően bekövetkező feltételek fennállása esetén szűnik meg a jogviszony.
 

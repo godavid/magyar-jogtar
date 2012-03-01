@@ -1441,7 +1441,7 @@ biztosítható.
 
 70. § A vasúti igazgatási szerv által lefolytatott hatósági eljárásokban az ügyfél nem jogosult és a vasúti igazgatási szerv nem köteles elektronikus úton kapcsolatot tartani.
 
-71. § (1) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó köztisztviselője a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) szerinti összeférhetetlenségi szabályokban foglaltakon túl, nem létesíthet munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt vasúti társasággal.
+71. § (1) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó köztisztviselője a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény szerinti összeférhetetlenségi szabályokban foglaltakon túl, nem létesíthet munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt vasúti társasággal.
 
 (2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó köztisztviselője az öröklés kivételével vasúti társaságokban tulajdoni részesedést nem szerezhet.
 

@@ -1380,7 +1380,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 (2) A tulajdonosi megfeleltetés esetén az értékpapírszámla-vezető átadja a központi értéktárnak azoknak az értékpapírszámla-tulajdonosoknak az azonosító adatait és értékpapírjaik darabszámát, akik a tulajdonosi megfeleltetést elrendelő felügyeleti határozatban vagy a tulajdonosi megfeleltetésre vonatkozó kibocsátói kérelemben meghatározott időpontban, az ott meghatározott dematerializált értékpapírral rendelkeznek.
 
-(3) Dematerializált részvény esetén – ha a tulajdonosi megfeleltetésre a kibocsátó kérelme alapján kerül sor –, azoknak az értékpapírszámla-tulajdonosoknak az azonosító adatai és részvényeinek darabszáma átadására kerül sor, akik a tulajdonosi megfeleltetésre vonatkozó kibocsátói kérelemben meghatározott időpontban, az ott meghatározott dematerializált részvénnyel rendelkeznek, és nem rendelkeztek a részvénykönyvbe történő bejegyzés megtiltásáról, vagy nem kérték törlésüket.
+(3) Dematerializált részvény esetén – ha a tulajdonosi megfeleltetésre a kibocsátó kérelme alapján kerül sor – azoknak az értékpapírszámla-tulajdonosoknak az azonosító adatai és részvényeinek darabszáma átadására kerül sor, akik a tulajdonosi megfeleltetésre vonatkozó kibocsátói kérelemben meghatározott időpontban, az ott meghatározott dematerializált részvénnyel rendelkeznek, és nyilvánosan működő részvénytársaság esetében nem rendelkeztek a részvénykönyvbe történő bejegyzés megtiltásáról, vagy nem kérték törlésüket.
 
 (4) A kibocsátó és a Felügyelet jogosult a hitelviszonyt megtestesítő értékpapírok esetén a tulajdonosi megfeleltetés alapján rendelkezésre álló adatokat az Országos Betétbiztosítási Alapnak átadni.
 

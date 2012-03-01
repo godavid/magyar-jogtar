@@ -98,11 +98,11 @@ jogszabályok előkészítésében.
 
 ### II. Fejezet — AZ ÁLLAMI SZÁMVEVŐSZÉK SZEMÉLYI ÁLLOMÁNYA
 
-8. § (1) Az Állami Számvevőszék személyi állománya elnökből, egy alelnökből, vezetőkből, számvevőkből, legalább középfokú végzettségű köztisztviselőkből, ügykezelőkből és a Munka Törvénykönyve hatálya alá tartozó munkavállalókból áll.
+8. § (1) Az Állami Számvevőszék személyi állománya elnökből, egy alelnökből, vezetőkből, számvevőkből, legalább középfokú végzettségű köztisztviselőkből, közszolgálati ügykezelőkből és a Munka Törvénykönyve hatálya alá tartozó munkavállalókból áll.
 
 (2) Az Állami Számvevőszék szervezetét az Állami Számvevőszék elnöke által kiadott Szervezeti és Működési Szabályzat tartalmazza.
 
-(3) Az e törvényben nem szabályozott kérdésekben az Állami Számvevőszék vezetőinek, számvevőinek és köztisztviselőinek jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) rendelkezéseit, a többi alkalmazott jogviszonyára a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény rendelkezéseit kell megfelelően alkalmazni.
+(3) Az e törvényben nem szabályozott kérdésekben az Állami Számvevőszék vezetőinek, számvevőinek, köztisztviselőinek és közszolgálati ügykezelőinek jogviszonyára a közszolgálati tisztviselőkről szóló törvény rendelkezéseit, a többi alkalmazott jogviszonyára a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény rendelkezéseit kell megfelelően alkalmazni.
 
 ### Az Állami Számvevőszék elnöke
 
@@ -268,7 +268,7 @@ jogszabályok előkészítésében.
 
 (3) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység kivételével – más megbízást nem láthat el, más kereső foglalkozást nem folytathat, díjazást más tevékenységért nem fogadhat el.
 
-(4) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője nem lehetnek sem egymással, sem a Kormány, sem pedig az Országgyűlés számvevőszéki ügyekben illetékes bizottsága tisztségviselőjével vagy tagjával hozzátartozók [Ktv. 72. § (5) bek.].
+(4) Az Állami Számvevőszék elnöke, alelnöke, vezetője és számvevője nem lehetnek sem egymással, sem a Kormány, sem pedig az Országgyűlés számvevőszéki ügyekben illetékes bizottsága tisztségviselőjével vagy tagjával a közszolgálati tisztviselőkről szóló törvény szerinti hozzátartozók.
 
 (5) Ha az Állami Számvevőszék elnöke, alelnöke, vezetője vagy számvevője személyével kapcsolatban összeférhetetlenségi ok áll fenn, azt a megválasztását vagy kinevezését követően – amennyiben az összeférhetetlenség később keletkezik, annak keletkezését követően – tíz napon belül meg kell szüntetnie. Ennek megtörténtéig a hatáskörét nem gyakorolhatja, feladatait nem láthatja el.
 
@@ -327,7 +327,9 @@ jogszabályok előkészítésében.
 - c) további akkreditált felsőfokú szakképesítés esetén az illetményalap 7%-a,
 - d) további középfokú szakképesítés esetén az illetményalap 6%-a.
 
-(9) A számvevőt megillető helyettesítési díjra, jubileumi jutalomra, cafeteria juttatásra, valamint a jelen §-ban nem nevesített jogcímen járó egyéb díj, pótlék vagy juttatás mértékére a Ktv. szabályait kell alkalmazni.
+(9) A számvevőt megillető helyettesítési díjra, jubileumi jutalomra, cafetéria-juttatásra, valamint a jelen §-ban nem nevesített jogcímen járó egyéb díj, pótlék vagy juttatás mértékére a közszolgálati tisztviselőkről szóló törvény szabályait kell alkalmazni.
+
+(9a) A számvevő a közszolgálati tisztviselőkről szóló törvény szerinti illetménykiegészítésre nem jogosult.
 
 (10) A számvevő főigazgató és a főtitkár a közigazgatási államtitkárt, a számvevő igazgató a helyettes államtitkárt megillető juttatásokra jogosult.
 
@@ -402,7 +404,7 @@ jogszabályok előkészítésében.
 - a) aki az adott ellenőrzést tartalmazó ellenőrzési terv elfogadását megelőző három naptári évben, illetve az ellenőrzéssel érintett időszakban az ellenőrzött szervezet dolgozója volt,
 - b) aki rendszeres vagy tartós megbízási vagy vállalkozási jogviszonyban állt az ellenőrzött szervezetnél az ellenőrzés megkezdését megelőző három naptári évben, illetve az ellenőrzéssel érintett időszakban,
 - c) aki az ellenőrzött szervezetnél bármely egyéb, megengedett tevékenységet végez, vagy az ellenőrzött időszakban ilyen tevékenységet végzett,
-- d) aki az ellenőrzött szervezet vezetőjének a hozzátartozója [Ktv. 72. § (5) bek.],
+- d) aki az ellenőrzött szervezet vezetőjének a közszolgálati tisztviselőkről szóló törvény szerinti hozzátartozója,
 - e) akitől az ellenőrzés tárgyilagos lefolytatása egyéb okból nem várható el.
 
 (2) Az ellenőrzést végző személy az ellenőrzés végrehajtásáért felelős vezetőjének köteles bejelenteni, ha vele szemben összeférhetetlenségi ok áll fenn. Összeférhetetlenségi okot bárki bejelenthet. Az összeférhetetlenség kérdésében az ellenőrzés végrehajtásáért felelős vezető a bejelentést követően nyolc napon belül dönt.

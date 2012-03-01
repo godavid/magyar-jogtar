@@ -1,0 +1,3516 @@
+# 2011. évi CXCIX. törvény
+
+a közszolgálati tisztviselőkről
+
+Az erős, de az indokoltnál nem nagyobb, a változásokhoz gyorsan és rugalmasan alkalmazkodni képes – a nemzeti érdekeket előtérbe helyező – állam olyan közszolgálatra alapozható, amely élvezi a társadalom közmegbecsülését, hatékony és költségtakarékos, demokratikus, pártsemleges, törvényesen működik, tagjai korszerű szakmai ismeretekkel rendelkeznek, Magyarország érdekeit és a közjót pártatlanul és hazaszeretettel szolgálják. Célunk ezért, hogy előmozdítsuk az erős nemzettudatra épülő és értékelvű közszolgálati tisztviselői hivatás megteremtését, s kiszámítható életpályát nyújtsunk, amelynek szabályai segítik a tisztviselőket a hivatalukhoz méltó, kötelességtudatos magatartás tanúsításában. Ennek érdekében Magyarország Alaptörvénye 17. cikk (5) bekezdésében foglaltak alapján az Országgyűlés a következő törvényt alkotja:
+
+## ELSŐ RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
+
+### I. Fejezet — BEVEZETŐ RENDELKEZÉSEK
+
+### Hatály, értelmező rendelkezések
+
+1. § E törvény hatálya
+
+- a) a Miniszterelnökség, a minisztérium, a kormányhivatal, a központi hivatal (a továbbiakban: központi államigazgatási szerv),
+- b) a kormányhivatal és a központi hivatal területi, helyi szerve, a megyei, fővárosi kormányhivatal, valamint területi szerve, továbbá a Kormány által intézményfenntartásra kijelölt szerv,
+- c) a rendőrség, a büntetés-végrehajtás és a hivatásos katasztrófavédelemi szerv központi és területi szervei (a továbbiakban a)–c) pont együtt: államigazgatási szerv) kormánytisztviselőjének és kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára, továbbá
+- d) a minisztérium közigazgatási államtitkárának és helyettes államtitkárának, és a Miniszterelnökség helyettes államtitkárának (a továbbiakban: szakmai vezető) kormányzati szolgálati jogviszonyára, valamint
+- e) a helyi önkormányzat képviselő-testületének hivatala és hatósági igazgatási társulása, közterület-felügyelete, a körjegyzőség, továbbá az országos nemzetiségi önkormányzatok hivatala (a továbbiakban: képviselő-testület hivatala) köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára terjed ki.
+
+2. § Törvény eltérő rendelkezése hiányában a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, a Nemzeti Adatvédelmi és Információszabadság Hatóság, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Nemzeti Média- és Hírközlési Hatóság Hivatala, a Gazdasági Versenyhivatal, a Pénzügyi Szervezetek Állami Felügyelete, a Magyar Tudományos Akadémia Titkársága, a Magyar Művészeti Akadémia Titkársága, az Állambiztonsági Szolgálatok Történeti Levéltára, az Egyenlő Bánásmód Hatóság és a Közbeszerzési Hatóság köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni.
+
+3. § (1) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra, illetve ügyészre, ha törvény másként nem rendelkezik, a kormánytisztviselőkre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+(2) A 45. § hatálya kiterjed azon magyar állampolgárokra is, akik pályázati eljárásban vesznek részt, illetve felvételüket kérik a toborzási adatbázisba.
+
+(3) A 72. § hatálya kiterjed azon munkáltatókra és a velük munkaviszonyban álló munkavállalókra, amelyek esetében a munkaviszony létesítésre a 72. § alapján kerül sor, továbbá a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó munkáltatóra és a közalkalmazottra, amelyek esetében a közalkalmazotti jogviszony létesítésére a 72. § alapján kerül sor.
+
+(4) A 230. § hatálya kiterjed a polgármesterre, valamint a helyi önkormányzati képviselőre.
+
+(5) A 80. § (2) bekezdésének hatálya – az ott meghatározottak szerint – kiterjed a Nemzeti Közszolgálati Egyetemre.
+
+(6) Az e törvény hatálya alá tartozó szervek jegyzékét a Kormány teszi közzé.
+
+(7) A 258. § hatálya kiterjed a közigazgatási szervnél kormánytisztviselőnek, köztisztviselőnek, kormányzati, illetve közszolgálati ügykezelőnek nem minősülő munkavállaló munkaviszonyára.
+
+(8) A 34. § (3) bekezdésének, 37. § (1) bekezdésének, 151. §, 185. §, 186. § (1)–(2) bekezdéseinek, 187. § (1) bekezdésének, 188. §, 203. § (1)–(5) és (9) bekezdéseinek, 205. § (2) bekezdésének, 215. § (4) bekezdésének, 216. § (3) bekezdésének, 218. § (1) bekezdésének, 219. § (4)–(6) bekezdéseinek, 220. § (7) bekezdésének, 224. § (4)–(6) bekezdésének hatálya kiterjed a politikai vezetőre.
+
+4. § E törvény hatálya nem terjed ki
+
+- a) törvény eltérő rendelkezésének hiányában a Honvédség, a nemzetbiztonsági szolgálatok és a fegyveres biztonsági őrség szerveire;
+- b) jogszabály eltérő rendelkezésének hiányában a helyi önkormányzat feladatkörébe tartozó közszolgáltatások ellátására – polgármesteri hivatalban – foglalkoztatottakra;
+- c) a közfoglalkoztatás keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatás céljára létesített munkaviszonyban foglalkoztatottra, illetve alkalmi munkára irányuló egyszerűsített foglalkoztatás keretében foglalkoztatott munkavállalóra.
+
+5. § A köztársasági elnöknek az e törvénnyel a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
+
+6. § E törvény alkalmazásában
+
+- 1. alapvető munkáltatói jog: a kinevezés, jogviszony megszüntetés, áthelyezés, fegyelmi és kártérítési eljárás megindítása, fegyelmi büntetés, kártérítés, összeférhetetlenség megállapítása, kinevezés tartalmának módosítása;
+- 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
+- 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
+- 4. egyéb jogviszony: különösen a munkaviszony, állami vezetői szolgálati jogviszony, fennálló kormányzati szolgálati jogviszony esetén közszolgálati jogviszony (fennálló közszolgálati jogviszony esetében kormányzati szolgálati jogviszony), közalkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony és a közérdekű önkéntes tevékenység végzésére irányuló jogviszony;
+- 5. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
+- 6. éjszakai munkát végző közszolgálati tisztviselő: aki várhatóan az éves munkaidejének legalább egynegyedében éjszakai munkát végez;
+- 7. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet a közszolgálati tisztviselő munkaköréhez kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni;
+- 8. gyermekét egyedül nevelő közszolgálati tisztviselő: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
+- 9. hét: a naptári hét vagy a munkáltató által meghatározott megszakítás nélküli százhatvannyolc óra, ha a munkáltató működése miatt a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra esik;
+- 10. heti pihenő- vagy munkaszüneti nap: a munkanap fogalma megfelelően irányadó a heti pihenő- vagy a munkaszüneti nap meghatározása tekintetében is, azzal, hogy a hét óra és huszonkét óra közötti időtartamot heti pihenő- vagy a munkaszüneti napnak kell tekinteni;
+- 11. hozzátartozó: az egyeneságbeli rokon és annak házastársa; az örökbefogadó, mostoha- és a nevelőszülő; az örökbefogadott, mostoha- és a nevelt gyermek; a testvér; a házastárs, az élettárs, a bejegyzett élettárs, a jegyes; a házastársnak, a bejegyzett élettársnak egyeneságbeli rokona, testvére, valamint a testvér házastársa, bejegyzett élettársa;
+- 12. kompetencia-vizsgálat: a pályázóval szemben a különböző munkakörökre előírt követelmények és a pályázó tényleges készségeinek és képességeinek összevetése, munkaalkalmasságának felmérése, amely során személyes interjú, alkalmassági teszt, értékelő központ alkalmazható;
+- 13. kormánytisztviselő, köztisztviselő: az 1. és 2. §-ban felsorolt szervek (a továbbiakban együtt: közigazgatási szerv) feladat- és hatáskörében eljáró vezető és ügyintéző, aki előkészíti a közigazgatási szerv feladat- és hatáskörébe tartozó ügyeket érdemi döntésre, illetve – felhatalmazás esetén – a döntést kiadmányozza, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti fegyveres szervnél más jogviszonyban álló személy végzi;
+- 14. kormányzati, illetve közszolgálati ügykezelő: az, aki a közigazgatási szervnél közhatalmi, irányítási, ellenőrzési és felügyeleti tevékenység gyakorlásához kapcsolódó ügyviteli feladatot lát el, kivéve, ha ezt a tevékenységet az 1. § c) pontja szerinti fegyveres szervnél közalkalmazotti jogviszonyban álló személy végzi;
+- 15. körzetközponti jegyző: az a jegyző, aki a körzetközponti feladatot ellátó önkormányzatnál törvény vagy kormányrendelet alapján más településekre is kiterjedő illetékességgel államigazgatási hatáskört gyakorol;
+- 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; továbbá a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény hatálya alá tartozó szervnél szerzett gyakorlatot is;
+- 17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek;
+- 18. közigazgatási szervnél képviselettel rendelkező szakszervezet: az a szakszervezet, amelyik alapszabálya szerint a közigazgatási szervnél képviseletére jogosult szervet működtet, illetve tisztségviselővel rendelkezik;
+- 19. közszolgálati szabályzat: a közigazgatási szerv hivatali szervezetének vezetője által – a jogalkotásról szóló 2010. évi CXXX. törvény alkalmazása szempontjából közjogi szervezetszabályozó eszközként – az e törvényben meghatározott kérdésekben, valamint a hivatali szerv vezetőjének általános munkáltatói szabályozási hatáskörbe tartozó kérdésekben kiadott normatív utasítás;
+- 20. közszolgálati tisztviselő: a kormánytisztviselő, kormányzati ügykezelő, köztisztviselő, közszolgálati ügykezelő;
+- 21. Magyar Kormánytisztviselői Kar tagozata: a központi és a területi államigazgatásban foglalkoztatott kormánytisztviselőknek a Magyar Kormánytisztviselői Kar alapszabályában meghatározott résztestületei;
+- 22. Magyar Kormánytisztviselői Kar: szakmai érdek-képviseleti szerv, a kormánytisztviselők önkormányzattal rendelkező szakmai, érdek-képviseleti köztestülete;
+- 23. munkaidő: a munkavégzésre előírt idő kezdetétől annak befejezéséig tartó idő, valamint a munkavégzéshez kapcsolódó előkészítő és befejező tevékenység időtartama. Nem munkaidő a közszolgálati tisztviselő lakó- vagy tartózkodási helyéről a tényleges munkavégzés helyére, valamint a munkavégzés helyéről a lakó- vagy tartózkodási helyére történő utazás időtartama;
+- 24. a munkáltató tevékenysége idényjellegű, ha a munkáltató tevékenysége munkaszervezéstől függetlenül az év valamely időszakához vagy időpontjához kötődik;
+- 25. munkanap: a naptári nap vagy a munkáltató által meghatározott megszakítás nélküli huszonnégy óra, ha a munkáltató működése miatt a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra esik;
+- 26. napi munkaidő: a felek vagy a törvény által meghatározott teljes napi munkaidő vagy részmunkaidő;
+- 27. pályakezdő kormánytisztviselő, köztisztviselő: az, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzését követően egy éven belül első foglalkoztatási jogviszonyként kormányzati szolgálati, illetve közszolgálati jogviszonyt létesít;
+- 28. pártfogó felügyelő: aki pártfogó felügyelői véleményt, környezettanulmányt készít, büntetőügyben közvetítői eljárást folytat le, szervezi és ellenőrzi a közérdekű munka végrehajtását, az egyéni pártfogó felügyelői terv szerint végrehajtja a pártfogó felügyeletet, pártfogói tevékenységet lát el a büntetés-végrehajtási intézetben, végzi az utógondozást, valamint ellátja a jogszabályban meghatározott más feladatait;
+- 29. szakmai vezető: a minisztériumban kinevezett közigazgatási államtitkár, valamint helyettes államtitkár, továbbá a Miniszterelnökségen kinevezett helyettes államtitkár;
+- 30. szakszervezet: munkavállalói érdek-képviseleti szerv. A közszolgálati tisztviselők minden olyan szervezete, amelynek elsődleges célja a közszolgálati tisztviselők kormányzati szolgálati, illetve közszolgálati jogviszonyával kapcsolatos érdekeinek előmozdítása és megvédése;
+- 31. személyügyi központ: e törvény szerinti kormányzati személyügyi igazgatási feladatokat ellátó szerv;
+- 32. további jogviszony: a fennálló kormányzati szolgálati jogviszony (közszolgálati jogviszony esetében a fennálló közszolgálati jogviszony) melletti másik kormányzati szolgálati jogviszony (közszolgálati jogviszony esetében másik közszolgálati jogviszony), valamint az egyéb jogviszony.
+
+7. § (1) E törvény alkalmazásában a kormánytisztviselő, köztisztviselő nyugdíjasnak minősül, ha
+
+- a) az öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság),
+- b) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül,
+- c) az öregségi nyugdíjkorhatárt betöltötte, és a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban, öregségi járadékban, növelt összegű öregségi, munkaképtelenségi járadékban, rokkantsági ellátásában részesül, vagy
+- d) a 63. § (2) bekezdés f) pontja alapján a felmentését kéri.
+
+(2) A kormánytisztviselő, köztisztviselő akkor részesül az (1) bekezdés b) vagy c) pontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
+
+(3) A kormánytisztviselő, köztisztviselő köteles tájékoztatni a munkáltatót, ha az (1) bekezdés hatálya alá esik.
+
+(4) A 60. § (1) bekezdés j) pontja és 63. § (1) bekezdés d) pontja alkalmazása szempontjából a köztisztviselő öregségi nyugdíjra az (1) bekezdés a)–c) pontokban szabályozott esetben jogosult.
+
+8. § (1) A közigazgatási szerv közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskörének gyakorlásával közvetlenül összefüggő, valamint ügyviteli feladat ellátására kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető.
+
+(2) Megbízási, vállalkozási, illetve munkaszerződés nem köthető olyan feladat elvégzésére, amelyre csak kormánytisztviselői, köztisztviselői kinevezés adható.
+
+(3) Az (1) bekezdésben nem szereplő feladat ellátására megbízási, illetve vállalkozási szerződés abban az esetben köthető, ha
+
+- a) a szolgáltatás – vállalkozás esetében az eredmény – tárgya jogügyletileg korlátozott, és a szerződésben előre pontosan meghatározható, és
+- b) a feladat jellege lehetővé teszi, hogy a közigazgatási szervet, mint megrendelőt, illetve megbízót kizárólag korrekciós jellegű, az érdekközvetítést szolgáló utasítási jog illesse meg, és
+- c) a feladat a megbízott, vállalkozó saját anyagainak, illetve eszközeinek felhasználásával teljesíthető, és
+- d) a feladat teljesítésének helye nem szükséges, hogy a közigazgatási szerv székhelyén, telephelyén legyen, azt a megbízott, illetve a vállalkozó maga választhatja meg, illetve az a feladat ellátásához igazítható.
+
+(4) A közigazgatási szervnél a tárgyévben a munkaszerződéssel foglalkoztatott személyek aránya együttesen nem haladhatja meg az engedélyezett létszám tíz százalékát. E mérték alól a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter indokolt esetben mentesítést adhat.
+
+(5) A közszolgálati tisztviselő besorolásánál (116. §) a munkavégzésre irányuló jogviszonyban, különösen a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a 47. §-ban meghatározott ösztöndíjas jogviszonyban, bedolgozói munkaviszonyban, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszonyban, a szakcsoporti tagsági viszonyban, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenységre irányuló jogviszonyban, továbbá az ügyvédi és az egyéni vállalkozói tevékenységre irányuló jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a tizennégy éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
+
+(6) Az (5) bekezdés alkalmazása szempontjából az 1992. július 1-jét megelőzően munkaviszonyban töltött időként jogszabály alapján elismert időtartamból – tekintet nélkül arra, hogy annak ideje alatt munkavégzésre irányuló jogviszony fennállt-e, vagy ilyen jogviszony fennállása esetén érvényesült-e munkavégzési kötelezettség – hat hónapot be kell számítani.
+
+(7) Az országgyűlési, az európai parlamenti, az önkormányzati képviselői és a polgármesteri megbízatás időtartamát – ha e megbízatás megszűnését követően a köztisztviselő ismételten közszolgálati jogviszonyt, illetve a kormánytisztviselő kormányzati szolgálati jogviszonyt létesít – a közszolgálati, illetve kormányzati szolgálati jogviszonyban töltött időnek kell tekinteni.
+
+(8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
+
+### II. Fejezet — KÖZÖS SZABÁLYOK
+
+### Általános magatartási követelmények
+
+9. § (1) A kormányzati szolgálati jogviszonyban és a közszolgálati jogviszonyban (a továbbiakban együtt: közszolgálat) a köz szolgálatának elsődlegessége alapján és a jó közigazgatásba vetett társadalmi bizalom fenntartásának szem előtt tartásával kell eljárni.
+
+(2) A jogok gyakorlása és a kötelezettségek teljesítése során a jóhiszeműség és a tisztesség elvének megfelelően kell eljárni, továbbá kölcsönösen együtt kell működni és nem lehet olyan magatartást tanúsítani, amely a másik fél jogát, jogos érdekét sérti.
+
+(3) Az e törvény hatálya alá tartozók kötelesek egymást minden olyan tényről, adatról, körülményről, vagy ezek változásáról tájékoztatni, amely a közszolgálat létesítése, valamint az e törvényben meghatározott jogok gyakorlása és a kötelezettségek teljesítése szempontjából lényeges.
+
+(4) E törvény rendelkezéseitől csak abban az esetben lehet eltérni, ha azt a törvény kifejezetten megengedi.
+
+10. § (1) Tilos a rendeltetésellenes joggyakorlás. E törvény alkalmazásában rendeltetésellenes a jog gyakorlása különösen akkor, ha az mások jogos érdekeinek csorbítására, érdekérvényesítési lehetőségeinek korlátozására, zaklatására, véleménynyilvánításának elfojtására irányul, vagy ehhez vezet.
+
+(2) A közszolgálati tisztviselő a munkaidején kívül sem tanúsíthat olyan magatartást, amely – különösen munkakörének jellege, a munkáltató szervezetében elfoglalt helye alapján – közvetlenül és ténylegesen alkalmas munkáltatója helytelen megítélésére, az általa betöltött beosztás tekintélyének, a munkáltató jó hírnevének, a jó közigazgatásba vetett társadalmi bizalomnak, valamint a közszolgálat céljának veszélyeztetésére.
+
+(3) A közszolgálati tisztviselő köteles megtartani a minősített adatot. Ezen túlmenően illetéktelen személynek és szervnek nem adhat tájékoztatást olyan tényekről, amelyek tevékenysége során jutottak tudomására és kiszolgáltatásuk az állam, a közigazgatási szerv, munkatársa vagy az állampolgár számára hátrányos vagy jogellenesen előnyös következményekkel járna.
+
+### A személyhez fűződő jogok védelme
+
+11. § (1) Az e törvény hatálya alá tartozók személyhez fűződő jogait tiszteletben kell tartani.
+
+(2) A közszolgálati tisztviselő személyhez fűződő joga akkor korlátozható, ha a korlátozás a közszolgálat rendeltetésével közvetlenül összefüggő okból feltétlenül szükséges és a cél elérésével arányos. A személyhez fűződő jog korlátozásának módjáról, feltételeiről és várható tartamáról a közszolgálati tisztviselőt előzetesen tájékoztatni kell.
+
+(3) A közszolgálati tisztviselő a személyhez fűződő jogáról általános jelleggel előre nem mondhat le. A közszolgálati tisztviselő személyhez fűződő jogáról rendelkező jognyilatkozatot érvényesen csak írásban tehet.
+
+12. § (1) A közszolgálati tisztviselőtől csak olyan nyilatkozat megtétele vagy adat közlése kérhető, illetve vele szemben csak olyan alkalmassági vizsgálat alkalmazható, amely személyhez fűződő jogait nem sérti, és a közszolgálat létesítése, teljesítése vagy megszűnése szempontjából lényeges.
+
+(2) A munkáltató a közszolgálati tisztviselőt csak a közszolgálattal összefüggő magatartása körében ellenőrizheti. A munkáltató ellenőrzése és az annak során alkalmazott eszközök, módszerek nem járhatnak az emberi méltóság megsértésével. A közszolgálati tisztviselő magánélete nem ellenőrizhető.
+
+(3) A munkáltató előzetesen tájékoztatja a közszolgálati tisztviselőt azoknak a technikai eszközöknek az alkalmazásáról, amelyek a közszolgálati tisztviselő ellenőrzésére szolgálnak.
+
+### Az egyenlő bánásmód követelménye
+
+13. § (1) A közszolgálattal, így különösen az illetménnyel kapcsolatban az egyenlő bánásmód követelményét meg kell tartani. E követelmény megsértésének orvoslása nem járhat más közszolgálati tisztviselő jogának megsértésével, vagy csorbításával.
+
+(2) Az (1) bekezdés alkalmazásában illetménynek minősül minden, a közszolgálat alapján közvetlenül vagy közvetve nyújtott pénzbeli és természetbeni juttatás.
+
+(3) A munka egyenlő értékének megállapításánál különösen az elvégzett munka természetét, minőségét, mennyiségét, a munkakörülményeket, a szükséges szakképzettséget, fizikai vagy szellemi erőfeszítést, tapasztalatot, felelősséget, a munkaerő-piaci viszonyokat kell figyelembe venni.
+
+### A jognyilatkozatok
+
+### Az egyoldalú jognyilatkozat, nyilatkozat
+
+14. § (1) Egyoldalú jognyilatkozatból csak törvényben és közszolgálati szabályzatban meghatározott esetben származhatnak jogok vagy kötelezettségek.
+
+(2) Az egyoldalú jognyilatkozat a címzettel való közléssel válik hatályossá, és – e törvény eltérő rendelkezésének hiányában – csak a címzett hozzájárulásával módosítható, vagy vonható vissza.
+
+(3) A jogról lemondó vagy abból engedő nyilatkozatot nem lehet kiterjesztően értelmezni.
+
+(4) Az egyoldalú jognyilatkozatra a megállapodásra vonatkozó szabályokat kell megfelelően alkalmazni. A megállapodás teljesítése során tett, jognyilatkozatnak nem minősülő nyilatkozat, továbbá a munka irányításával összefüggő munkáltatói jognyilatkozat tekintetében a 17–22. §-okban foglalt rendelkezéseket kell megfelelően alkalmazni.
+
+### A tájékoztatás
+
+15. § (1) Amennyiben e törvény valamely fél számára tájékoztatási kötelezettséget ír elő, a tájékoztatást közöltnek kell tekinteni, ha azt a helyben szokásos és általában ismert módon közzéteszik.
+
+(2) A tájékoztatást olyan időben és módon kell megtenni, hogy az lehetővé tegye a jog gyakorlását és kötelezettség teljesítését.
+
+### A feltétel
+
+16. § (1) A felek a megállapodás létrejöttét, módosítását vagy megszűnését jövőbeli, bizonytalan eseménytől (feltétel) is függővé tehetik. Nem köthető ki olyan feltétel, amelynek alapján a közszolgálat a közszolgálati tisztviselő hátrányára módosulna, vagy a közszolgálat megszűnését eredményezné.
+
+(2) Az ellentmondó, lehetetlen vagy értelmezhetetlen feltétel érvénytelen. A megállapodást ilyen esetben úgy kell elbírálni, mintha a felek az adott feltételt nem kötötték volna ki.
+
+(3) A felek, amíg a feltétel bekövetkezése függőben van, kötelesek tartózkodni minden olyan magatartástól, amely a másik fél feltételhez kötött jogát csorbítaná. A feltétel bekövetkezésére vagy meghiúsulására nem hivatkozhat a fél, ha azt vétkesen maga okozta.
+
+### A jognyilatkozatok megtételének módja
+
+### A képviselet
+
+17. § A munkáltató képviseletében jognyilatkozat tételére a munkáltatói jogkör gyakorlója jogosult.
+
+18. § (1) A közszolgálati tisztviselő a kinevezés elfogadásával, a megállapodás megkötésével, módosításával, a közszolgálat megszüntetésével és a munkavégzéssel összefüggő jognyilatkozatát csak személyesen teheti meg.
+
+(2) A közszolgálati tisztviselő az egyéb jognyilatkozatot meghatalmazott képviselője útján is megteheti, az erre irányuló meghatalmazást írásba kell foglalni. A meghatalmazás visszavonásig, vagy határozott időre szóló meghatalmazás esetén a határozott idő elteltéig érvényes. A meghatalmazás visszavonása jóhiszemű harmadik személy irányában csak akkor hatályos, ha azt vele közölték. A visszavonás jogáról érvényesen nem lehet lemondani.
+
+(3) A (2) bekezdésben meghatározott meghatalmazás hiányában is eljárhat a közszolgálati tisztviselő képviseletében hozzátartozója, amennyiben a jognyilatkozat megtételében a közszolgálati tisztviselő akadályozva van. Vita esetén az akadályoztatás tényét igazolnia kell.
+
+(4) A munkáltatónak a közszolgálati tisztviselő személyesen tett jognyilatkozatát kell figyelembe vennie, ha a közszolgálati tisztviselő és az (2)–(3) bekezdésben említett képviselő jognyilatkozatai eltérnek.
+
+(5) A közszolgálati tisztviselő – kivéve, ha a képviselet tartalma egyértelműen korlátozott – nem hivatkozhat arra, hogy képviselője jogkörét túllépve járt el.
+
+### Az alaki kötöttség
+
+19. § (1) A közszolgálatot érintő minden lényeges megállapodást és jognyilatkozatot írásba kell foglalni. A közszolgálati tisztviselő kérésére a munkáltatónak a jognyilatkozatát akkor is írásba kell foglalnia, ha az egyébként nem kötelező.
+
+(2) A megállapodást, ha írásba kellett foglalni, módosítani vagy megszüntetni csak írásban lehet.
+
+(3) Az alaki kötöttség megsértésével tett jognyilatkozat – ha e törvény eltérően nem rendelkezik – érvénytelen. Az érvénytelenség jogkövetkezménye nem alkalmazható, ha a jognyilatkozat a felek egyező akaratából teljesedésbe ment, és ez nem jár a közérdek sérelmével.
+
+(4) A munkáltató az egyoldalú jognyilatkozatát az e törvényben meghatározott esetben köteles írásban indokolni, valamint az igény érvényesítésének módjáról – és ha az elévülési időnél rövidebb –, annak határidejéről a közszolgálati tisztviselőt ki kell oktatni. A határidőről való kioktatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető.
+
+20. § (1) A munkáltató köteles a megállapodás írásba foglalásáról gondoskodni és ennek egy példányát a közszolgálati tisztviselőnek átadni.
+
+(2) A megállapodásban meg kell jelölni a felek nevét, továbbá a megállapodás teljesítése szempontjából lényeges adatait.
+
+(3) A kinevezés és annak elfogadása, a kinevezés módosítása, a közszolgálat megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, kártérítési ügyben hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás kivételével írásbelinek kell tekinteni a jognyilatkozatot, ha annak közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
+
+### A jognyilatkozat közlése
+
+21. § (1) Az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, illetve az elektronikus dokumentum részükre hozzáférhetővé válik. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja vagy szándékosan megakadályozza.
+
+(2) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát a közszolgálatból eredő kötelezettsége teljesítésével összefüggésben megismerje.
+
+(3) Az (1) bekezdésben foglaltakon túlmenően a postai szolgáltatásokról szóló jogszabály szerint tértivevény különszolgáltatással feladott küldeményként kézbesített jognyilatkozatot,
+
+- a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadta, vagy a címzett által bejelentett elérhetőségi címen a kézbesítés a címzett ismeretlensége vagy elköltözése miatt meghiúsult, a kézbesítés megkísérlésének napján,
+- b) egyéb esetekben az eredménytelen kézbesítési kísérlet, valamint az értesítés elhelyezésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+
+(4) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a (3) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított tizenöt napon, de legkésőbb a vélelem beálltától számított hat hónapon belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
+
+(5) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
+
+### A határidő és az időtartam számítása
+
+22. § (1) A határidő számítására a (2)–(6) bekezdésben foglaltakat kell alkalmazni, ha jogszabály vagy a felek megállapodása valamely jognyilatkozat megtételére vagy egyéb magatartás tanúsítására határidőt ír elő.
+
+(2) Napon – ha jogszabály eltérően nem rendelkezik – naptári napot kell érteni.
+
+(3) A határidő számítása a határidő megkezdésére okot adó intézkedést (eseményt) követő napon kezdődik.
+
+(4) A hetekben megállapított határidő azon a napon jár le, amely elnevezésénél fogva a kezdő napnak megfelel. Hónapokban vagy években megállapított határidő lejártának napja az a nap, amely számánál fogva a kezdő napnak megfelel, ha ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napja.
+
+(5) A határidő az utolsó napjának végén jár le. A határidő az általános munkarend szerinti következő munkanap végén jár le, ha az utolsó nap az általános munkarend szerint heti pihenőnap vagy munkaszüneti nap.
+
+(6) A határidőt – e törvény eltérő rendelkezése hiányában – akkor kell megtartottnak tekinteni, ha a lejárat napjának végéig a jognyilatkozatot közlik, vagy ezen időpontig az egyéb magatartás tanúsítása megtörténik.
+
+(7) A határidő elmulasztása akkor menthető ki, ha a határidőt megállapító jogszabály ezt kifejezetten megengedi.
+
+(8) A jognyilatkozatot, egyéb magatartást késedelem nélkül, szükség esetén az egyébként nem a kötelezett által viselendő költségek megelőlegezésével kell megtenni vagy tanúsítani, ha jogszabály a jognyilatkozat megtételére vagy az egyéb magatartás tanúsítására haladéktalanul kötelezi a felet.
+
+(9) A jogszabályban vagy a felek megállapodásában meghatározott, határidőnek nem minősülő időtartam számítására a (4)–(8) bekezdés nem alkalmazható, az ilyen időtartam számításánál a naptár az irányadó.
+
+### Az érvénytelenség
+
+### A semmisség
+
+23. § (1) Semmis az a megállapodás, amely jogszabályba vagy jó erkölcsbe ütközik, valamint amely jogszabály megkerülésével jött létre.
+
+(2) A színlelt megállapodás semmis, ha pedig más megállapodást leplez, azt a leplezett megállapodás alapján kell megítélni.
+
+(3) A semmis megállapodás érvénytelen, kivéve, ha ahhoz a rendelkezést megállapító jogszabály más jogkövetkezményt fűz. A semmisségre az érdekelt határidő nélkül hivatkozhat, a megállapodás semmisségét a bíróság hivatalból észleli.
+
+### A megtámadhatóság
+
+24. § (1) A megállapodás megtámadható, ha a fél annak megkötésekor lényeges tényben vagy körülményben tévedett, feltéve, hogy a tévedését a másik fél okozta vagy azt felismerhette, vagy, ha mindkét fél ugyanabban a téves feltevésben volt. Jogi kérdésben való tévedés címén a megállapodást akkor lehet megtámadni, ha a tévedés lényeges volt és a munkakörében eljáró jogi szakértő a feleknek együttesen adott a jogszabályok tartalmára nézve nyilvánvalóan téves tájékoztatást.
+
+(2) Megtámadható a megállapodás akkor is, ha annak megtételére a felet jogellenes fenyegetéssel vagy kényszerítéssel vették rá.
+
+(3) A megállapodást az támadhatja meg, akit a jognyilatkozat megtételére jogellenes fenyegetéssel, kényszerítéssel vettek rá, vagy az, aki tévedésben, téves feltevésben volt.
+
+(4) A megtámadás határideje harminc nap, amely a tévedés felismerésétől, vagy jogellenes fenyegetés, kényszerítés esetén a kényszerhelyzet megszűnésétől kezdődik. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy hat hónap elteltével a megtámadás joga nem gyakorolható.
+
+(5) A megtámadásra irányuló jognyilatkozatot a (4) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni.
+
+(6) A sikeresen megtámadott megállapodás érvénytelen.
+
+### Az érvénytelenség jogkövetkezménye
+
+25. § (1) Az érvénytelen megállapodás alapján létrejött jogviszonyból származó jogokat és kötelezettségeket úgy kell tekinteni, mintha azok érvényes megállapodás alapján állnának fenn. Az érvénytelen megállapodás alapján létrejött jogviszonyt – ha e törvény eltérően nem rendelkezik – a munkáltató köteles haladéktalanul, azonnali hatállyal megszüntetni, feltéve, hogy az érvénytelenség okát a felek a közérdek sérelme nélkül rövid időn belül nem hárítják el.
+
+(2) A munkáltató köteles a közszolgálati tisztviselőnek annyi időre járó illetményt megfizetni, amennyi a munkáltató részéről történő felmentés esetén járna, továbbá megfelelően alkalmazni kell a végkielégítés szabályait is, ha a kinevezés a munkáltató oldalán felmerült okból érvénytelen, és azt az (1) bekezdés alapján meg kell szüntetni.
+
+(3) Ha a megállapodás valamely része érvénytelen, helyette a jogszabályt kell alkalmazni, kivéve, ha a felek az érvénytelen rész nélkül nem állapodtak volna meg.
+
+(4) Az egyoldalú jognyilatkozat érvénytelensége esetén e jognyilatkozatból jogok és kötelezettségek nem származnak.
+
+(5) A közszolgálat megszüntetésére irányuló jognyilatkozat érvénytelensége esetén – a munkáltató saját jognyilatkozatának sikeres megtámadását kivéve – a 193–194. §-ban foglalt rendelkezéseket kell megfelelően alkalmazni.
+
+(6) A megállapodás érvénytelenségéből származó kár megtérítésére az e törvény szerinti kártérítési felelősség szabályait kell megfelelően alkalmazni.
+
+## MÁSODIK RÉSZ
+
+### III. Fejezet — KÖZSZOLGÁLATI SZEMÉLYZETI IGAZGATÁS
+
+### A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter
+
+26. § (1) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter felel a Kormány közigazgatási személyzeti politikájának érvényesítésért. E feladatkörében
+
+- a) összehangolja, koordinálja a közigazgatás szervek személyzeti tevékenységét,
+- b) kidolgozza a közigazgatási személyzetpolitika irányait és elveit és gondoskodik azok megvalósításáról.
+
+(2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter módszertani koordinációs feladatkörében támogatást nyújt a közszolgálatra vonatkozó szabályozás egységes alkalmazásának elősegítésére, a feladatok végrehajtásának összehangolására.
+
+(3) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter statisztikai célú adatgyűjtést végezhet, adatszolgáltatást kérhet a közigazgatási szervtől a kormányzati személyzetpolitika összehangolásának biztosítása érdekében.
+
+(4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter ellenőrzi – a fővárosi és megyei kormányhivatalok közreműködésével – a kormányzati szolgálati és a közszolgálati jogviszonyra vonatkozó jogszabályok végrehajtását.
+
+(5) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter felel az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer működéséért a minisztériumokban és a Miniszterelnökségen.
+
+(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter képviseli a Kormányt a Köztisztviselői Érdekegyeztetői Fórumban.
+
+(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatot tesz a Kormánytisztviselői Döntőbizottság elnökének és helyettesének, valamint tagjainak kinevezésére.
+
+(8)
+
+(9) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter irányítja a kormányzati szolgálati, illetve közszolgálati jogviszonyban állók képzését, továbbképzését, átképzését, ellátja a közigazgatási vezetőképzéssel kapcsolatos feladatokat.
+
+(10) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el az e törvényben a közszolgálati ellenőrzéssel kapcsolatos feladatokat.
+
+### A kormányzati személyügyi igazgatási feladatokat ellátó szerv
+
+27. § A személyügyi központ ellátja a 45. §-ban meghatározott pályázati eljárással kapcsolatos feladatokat, valamint kezeli a toborzási adatbázist.
+
+### IV. Fejezet — A MAGYAR KORMÁNYTISZTVISELŐI KAR
+
+### A Magyar Kormánytisztviselői Kar jogállása, feladata és hatásköre
+
+#### 28–29. §
+
+### Az MKK szervezete, működése
+
+#### 30–32. §
+
+### Tagsági viszony
+
+#### 33. §
+
+### Az MKK tisztségviselőire, ügyintézői testületeinek nem tisztségviselő tagjaira vonatkozó közös szabályok
+
+#### 34. §
+
+### Az MKK és az állami szervek kapcsolata
+
+#### 35. §
+
+## HARMADIK RÉSZ — A KORMÁNYZATI SZOLGÁLATI JOGVISZONYBAN ÁLLÓK
+
+### V. Fejezet — A KORMÁNYTISZTVISELŐK
+
+### A kormányzati szolgálati jogviszony alanyai, jellege
+
+36. § (1) A kormányzati szolgálati jogviszony az állam, valamint az állam nevében foglalkoztatott kormánytisztviselő között a köz szolgálata és munkavégzés céljából létesített különleges jogviszony, amely alapján a munkavégzéssel szükségszerűen együtt járó kötelezettségeken és jogosultságokon túlmenően mindkét felet többletkötelezettségek terhelik és jogosultságok illetik meg.
+
+(2) A kormányzati szolgálati jogviszony alapján a kormánytisztviselő az MKK tagjává válik.
+
+### A munkáltatói jogkör gyakorlása
+
+37. § (1) A kormánytisztviselők felett a munkáltatói jogokat – törvény vagy a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter rendeletének eltérő rendelkezése hiányában – az államigazgatási szerv hivatali szervezetének vezetője, vagy testület gyakorolja. Törvény eltérő rendelkezése hiányában a munkáltatói jogkör gyakorlása állami vezetőre vagy vezetői munkakört betöltő kormánytisztviselőre írásban átruházható. Az átruházott munkáltatói jogkör nem ruházható tovább.
+
+(2) Az államigazgatási szerv hivatali szervezetének vezetőjén a minisztériumok esetében a közigazgatási államtitkárt kell érteni.
+
+(3) Ha a kormánytisztviselő kinevezése testület hatáskörébe tartozik, a kinevezést, a felmentést és az összeférhetetlenség megállapítását, továbbá a fegyelmi eljárás megindítását és a fegyelmi büntetés kiszabását – kivéve a 156. § (2) bekezdését – a testület nem ruházhatja át.
+
+(4) Ha a munkáltatói jogkört nem az arra jogosított személy (szerv, testület) gyakorolta, eljárása érvénytelen, kivéve, ha a jogkör gyakorlója a jognyilatkozatot hat hónapon belül írásban jóváhagyta. Jóváhagyás hiányában is érvényes a jognyilatkozat, ha a kormánytisztviselő a körülményekből alappal következtethetett az eljáró jogosultságára.
+
+(5) A munkáltató akkor hivatkozhat arra, hogy képviselője jogkörét túllépve járt el, ha a kormánytisztviselő a körülményekből nem következtethetett alappal az eljáró jogosultságára.
+
+(6) A Miniszterelnökséget vezető államtitkár gyakorolja a munkáltatói jogokat a Miniszterelnökség állományába tartozó kormánytisztviselők felett.
+
+(7) Ahol e törvény „munkáltatót” említ, azon „államigazgatási szervet” kell érteni.
+
+### A kormányzati szolgálati jogviszony létesítése
+
+### A kinevezés időtartama
+
+38. § (1) A kormányzati szolgálati jogviszony kinevezéssel és annak elfogadásával jön létre. Eltérő rendelkezés hiányában a kormányzati szolgálati jogviszony határozatlan időre és teljes munkaidőre jön létre. A kinevezést és annak elfogadását írásba kell foglalni. Az írásba foglalás elmulasztása miatt a kinevezés érvénytelenségére csak a kormánytisztviselő – a munkába lépést követő harminc napon belül – hivatkozhat.
+
+(2) Kormányzati szolgálati jogviszony – ha törvény eltérően nem rendelkezik – tartósan távollevő kormánytisztviselő helyettesítése céljából vagy esetenként szükségessé váló feladat elvégzésére, illetve tartós külszolgálat ellátására létesíthető határozott időre.
+
+(3) A határozott idejű kormányzati szolgálati jogviszony időtartamát naptárilag vagy más alkalmas módon – így különösen meghatározott munka elvégzéséhez, feladat ellátásához vagy esemény bekövetkeztéhez kötődően – kell meghatározni. A kormányzati szolgálati jogviszony megszűnésének időpontja nem függhet kizárólag az államigazgatási szerv, illetve a kormánytisztviselő akaratától, ha a felek a kormányzati szolgálati jogviszony időtartamát nem naptárilag határozták meg. Ez utóbbi esetben a munkáltatói jogkör gyakorlója tájékoztatja a kormánytisztviselőt a kormányzati szolgálati jogviszony várható időtartamáról.
+
+(4) A kormányzati szolgálati jogviszonyt határozatlan idejűnek kell tekinteni, ha a határozott időre történő kinevezés nem felel meg a (2) bekezdésben foglaltaknak.
+
+(5) A határozott időre kinevezett kormánytisztviselőt a 116. § szerint be kell sorolni, illetményét a 131–142. §-ok alapján kell megállapítani. Ha a kinevezés időtartama az egy évet nem haladja meg, a kormánytisztviselő előmenetelére e törvény rendelkezéseit nem kell alkalmazni.
+
+### A kinevezés feltételei
+
+39. § (1) A kormányzati szolgálati jogviszony
+
+- a) büntetlen előéletű,
+- b) cselekvőképes,
+- c) legalább középiskolai végzettséggel rendelkező magyar állampolgárral létesíthető és tartható fenn.
+
+(2) Az (1) bekezdésben foglaltakon túl pártfogó felügyelőnek nem lehet kinevezni továbbá azt,
+
+- a) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította,
+  - aa) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
+  - ab) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
+  - ac) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
+  - ad) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
+  - ae) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
+  - af) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
+  - ag) gondatlan bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+  - ah) gondatlan bűncselekmény miatt kiszabott közérdekű munka esetén a mentesítés beálltától számított három évig,
+- b) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
+- c) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig, vagy
+- d) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős befejezéséig,
+- e) aki a kormányzati szolgálati jogviszony alapján végzett tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll.
+
+(3) Jogszabály által meghatározott fontos és bizalmas munkakörre kormányzati szolgálati jogviszony csak azzal létesíthető, illetve tartható fenn, aki a munkakörre előírt, az állami élet és a nemzetgazdaság jogszerű működéséhez szükséges biztonsági feltételeknek megfelel. A kormányzati szolgálati jogviszonyt létesíteni szándékozó személynek írásban nyilatkoznia kell arról, hogy ezeknek a követelményeknek megfelel, és hozzájárul ahhoz, hogy ezt az illetékes nemzetbiztonsági szolgálat ellenőrizze. Az ellenőrzéshez való hozzájáruláshoz a külön törvényben meghatározott hozzátartozó nyilatkozatát is csatolni kell. Ha az érintett úgy nyilatkozik, hogy a fontos és bizalmas munkakörrel együtt járó kötelezettségeknek nem kívánja magát alávetni, vele fontos és bizalmas munkakörre kormányzati szolgálati jogviszony nem létesíthető.
+
+(4) Ha a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy, illetve a kormánytisztviselő nem felel meg az állami élet és a nemzetgazdaság jogszerű működéséhez szükséges, valamint – amennyiben szükséges – a nemzetközi kötelezettségvállalásokból fakadó biztonsági feltételeknek, az államigazgatási szerv a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy, illetve a kormánytisztviselő részére más, fontos és bizalmas munkakörnek nem minősülő munkakört ajánlhat fel. Felajánlható munkakör hiányában, vagy ha a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy, illetve a kormánytisztviselő a felajánlott munkakört nem fogadja el, kormányzati szolgálati jogviszony nem létesíthető, illetve a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni. A kormányzati szolgálati jogviszonynak ezen okból történő megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
+
+(5) Ha a rendőrségről szóló törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt az államigazgatási szerv kormánytisztviselői tekintetében, a kormányzati szolgálati jogviszony létesítésének és fenntartásának feltétele az ellenőrzéshez való hozzájárulás.
+
+(6) Jogszabály – vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója – a kormányzati szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, valamint egészségi és pszichikai alkalmassághoz, továbbá képességhez kötheti.
+
+(7) Az e törvényben meghatározott alkalmazási feltételek alól – a 41. § (1) bekezdés a) pontja kivételével – felmentés nem adható.
+
+40. § (1) Ha a központi államigazgatási szerv alaptevékenysége körében felsőfokú iskolai végzettségű pályakezdő kormánytisztviselőt kíván alkalmazni, a kormányzati szolgálati jogviszony létesítéséhez a 39. § (1) bekezdésében meghatározott feltételeken túlmenően a kormánytisztviselőnek angol, francia vagy német nyelvből államilag elismert nyelvvizsgával kell rendelkeznie. Ha a központi államigazgatási szervnél betöltendő munkakör ellátásához az előbbiekben felsoroltakon kívül más idegen nyelv használata szükséges, akkor az e nyelvből meglévő, államilag elismert nyelvvizsgát az angol, francia vagy német nyelvből meglévő nyelvvizsga helyett alkalmazási feltételnek kell tekinteni.
+
+(2) Központi államigazgatási szerv alaptevékenysége keretében – ide nem értve a funkcionális tevékenységet – középiskolai végzettségű kormánytisztviselőt nem alkalmazhat. Az államigazgatási szerv alaptevékenységének az alkalmazási és a képesítési követelmények szempontjából az minősül, amit jogszabály a szerv feladatkörébe utal, továbbá amit a miniszter, a Miniszterelnökséget vezető államtitkár, kormányhivatal vagy központi hivatal vezetője e körben alaptevékenységként határoz meg.
+
+#### 41. §
+
+42. § (1) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
+
+(2) A pártfogó felügyelőként kormányzati szolgálati jogviszonyt létesíteni szándékozó személy az (1) bekezdésben foglaltakon túl hatósági bizonyítvánnyal azt is igazolja, hogy a 39. § (2) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben.
+
+(3) A munkáltatói jogkör gyakorlója felhívására a kormányzati szolgálati jogviszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja, hogy nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a kormányzati szolgálati jogviszony létesítését nem teszi lehetővé.
+
+(4) Indokolt esetben a munkáltatói jogkör gyakorlója írásban felszólíthatja a kormánytisztviselőt, hogy a felhívástól számított tizenöt munkanapon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy
+
+- a) büntetlen előéletű, illetve
+- b) nem áll a munkakörének megfelelő vagy a munkakörének részét képező foglalkozástól eltiltás hatálya alatt, továbbá
+- c) az a) pontban foglaltakon túlmenően, pártfogó felügyelő esetén, hogy a 39. § (2) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben.
+
+(5) Ha a kormánytisztviselő igazolja, hogy
+
+- a) büntetlen előéletű, illetve
+- b) nem áll a (4) bekezdés b) pontjában meghatározott foglalkozástól eltiltás hatálya alatt, továbbá
+- c) a pártfogó felügyelő azt is igazolja, hogy a 39. § (2) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben az államigazgatási szerv a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a kormánytisztviselő részére megtéríti.
+
+(6) Az államigazgatási szerv a foglalkoztatást kizáró és az (1)–(3) bekezdés alapján vizsgálandó ok fennállásának megállapítása céljából kezeli
+
+- a) a kormánytisztviselőként kormányzati szolgálati jogviszonyt létesíteni szándékozó személy,
+- b) a kormánytisztviselő azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által a kizáró ok fennállásának megállapítása céljából kiállított hatósági bizonyítvány tartalmaz.
+
+(7) Az (1)–(5) bekezdésben foglaltak alapján megismert személyes adatokat az államigazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a kormányzati szolgálati jogviszony megszűnéséig (megszüntetéséig) kezeli.
+
+(8) Az államigazgatási szerv a kormányzati szolgálati jogviszonyt a 25. § (1) bekezdése alapján azonnali hatállyal megszünteti, és az érvénytelenség jogkövetkezményeit alkalmazza,
+
+- a) ha a kormánytisztviselő a (4) bekezdésben foglalt kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása menthető ok következménye,
+- b) ha a foglalkoztatást kizáró és az (1)–(3) bekezdés alapján vizsgálandó ok fennállását a munkáltatói jogkör gyakorlója a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, vagy az egyéb módon a tudomására jut.
+
+(9) A kormányzati szolgálati jogviszonynak a (8) bekezdésben meghatározott okból történő megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
+
+### A kinevezéssel kapcsolatos egyéb rendelkezések
+
+43. § (1) A kinevezési okmánynak tartalmaznia kell a kormánytisztviselő
+
+- a) besorolásának alapjául szolgáló besorolási osztályt, besorolási és fizetési fokozatot,
+- b) illetményét, annak a besorolása szerinti alapilletményéhez viszonyított beállási szintjét,
+- c) munkakörét és meghatározott feladatkörét,
+- d) munkavégzésének a helyét,
+- e) előmeneteléhez előírt kötelezettségeket, valamint
+- f) kormányzati szolgálati jogviszonya kezdetének napját.
+
+(2) Ha a kinevezési okmány nem tartalmaz az (1) bekezdés f) pontjában foglalt napra vonatkozóan rendelkezést, a jogviszony kezdete a kinevezés elfogadását követő nap.
+
+(3) A kinevezési okmány a kormányzati szolgálati jogviszonyt érintő egyéb kérdésekről is rendelkezhet.
+
+(4) A kinevezési okmányhoz csatolni kell a kormánytisztviselő munkaköri leírását.
+
+(5) A kormánytisztviselő és a munkáltató a kinevezés elfogadása és a kormányzati szolgálati jogviszony kezdetének napja közötti időszakban nem tanúsíthatnak olyan magatartást, amely a kormányzati szolgálati jogviszony létrejöttét meghiúsítaná.
+
+(6) Ha a kinevezés érvénytelenségét a munkába lépés előtt állapítják meg, akkor az érvénytelenséget előidéző ok megszüntetéséig a kormánytisztviselő nem állítható munkába. Ha az érvénytelenség oka a munka megkezdése után jut a kinevezési jogkört gyakorló tudomására, a kormánytisztviselőt az érvénytelenség orvoslásáig a munkavégzéstől el kell tiltani.
+
+### Eskü
+
+44. § (1) A kormánytisztviselőnek kinevezésekor esküt kell tennie.
+
+(2) Az eskü szövege a következő:
+
+„Én, .............................................. becsületemre és lelkiismeretemre fogadom, hogy Magyarországhoz és annak Alaptörvényéhez hű leszek; jogszabályait megtartom és másokkal is megtartatom; tisztségemet a magyar nemzet javára gyakorolom.”
+
+(Az eskütevő meggyőződése szerint:)
+
+„Isten engem úgy segéljen!”
+
+(3) Az eskütételt az államigazgatási szerv köteles a kormánytisztviselői kinevezés előtt megszervezni. Az eskütételre a munkáltatói jogkör gyakorlója és a munkatársak előtt kerülhet sor. Az esküt szóban kell elmondani és írásban megerősíteni.
+
+(4) Az eskütétel elmaradása érvénytelenségi ok. Eskütétel hiányában a kormánytisztviselő nem állítható szolgálatba, erre bárki hivatkozhat.
+
+### Kiválasztási eljárás
+
+45. § (1) Jogszabály vagy az államigazgatási szerv döntése alapján a kinevezés meghívásos vagy pályázati eljárás alapján történhet. Pályázati eljárás esetén kinevezést adni csak olyan személynek lehet, aki a pályázaton részt vett és a pályázati feltételeknek megfelelt.
+
+(2) A személyügyi központ toborzási adatbázist működtet a kiválasztás, a lehetséges pályázók tájékoztatásának elősegítésére. A toborzási adatbázisba az a magyar állampolgár kérheti felvételét, aki büntetlen előéletű, cselekvőképes és legalább középiskolai végzettséggel rendelkezik. A 4. melléklet határozza meg azokat az adatokat, amelyeket a toborzási adatbázisba felvételét kérő személynek kötelezően kell, illetve választhatóan lehet megadnia.
+
+(3) Az államigazgatási szerv vezetője a betöltetlen álláshely betöltése céljából a toborzási adatbázisban nyilvántartott személyek egyéni azonosításra alkalmas módon nyilvántartott adataihoz közvetlenül hozzáférhet.
+
+(4) Az önéletrajz tartalmazza az 5. mellékletben meghatározott kötelező adatköröket, valamint az önéletrajzhoz csatolandó, az önéletrajzban foglaltakat igazoló mellékleteket, illetve tartalmazhat egyéb kiegészítő információkra vonatkozó adatokat.
+
+(5) A (4) bekezdés alapján megismert személyes adatokat az államigazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a kormányzati szolgálati jogviszony megszűnéséig (megszüntetéséig) kezeli.
+
+(6) A kiválasztás során, a munkakör betöltéséhez előírt szakmai végzettséggel, szakképzettséggel, szakképesítéssel, tapasztalattal, képességgel egyformán rendelkező jelöltek esetén – a Kormány rendeletében meghatározottak szerint – előnyben lehet részesíteni azt a személyt, aki több gyermeket nevel.
+
+46. § (1) A kinevezésben – a 41. § (1) bekezdés b) pontjában, a 47. § (4) bekezdésében, az 59. §-ban meghatározott eset, valamint a (4) bekezdés kivételével – a kormányzati szolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
+
+(2) A próbaidő nem hosszabbítható meg. A próbaidő tartamát a pályakezdőnél a gyakornoki időbe be kell számítani.
+
+(3) A próbaidő alatt a kormányzati szolgálati jogviszonyt bármelyik fél indokolás nélkül azonnali hatállyal megszüntetheti.
+
+(4) A három hónapnál rövidebb idejű kinevezés esetén a felek megállapodhatnak a próbaidő kikötéséről azzal, hogy a próbaidő legfeljebb a határozott idejű kinevezés időtartamának a fele lehet.
+
+### Ösztöndíj
+
+47. § (1) A Kormány a közigazgatási szakmai gyakorlat támogatására ösztöndíjat alapíthat.
+
+(2) Az ösztöndíjat elnyert személy (a továbbiakban: ösztöndíjas) az államigazgatási szervvel ösztöndíjas jogviszonyban áll.
+
+(3) Az ösztöndíjas jogviszony beszámít
+
+- a) a kormánytisztviselő besorolásánál a kormányzati szolgálati jogviszonyban töltött időtartamba [8. § (5) bekezdése],
+- b) a jubileumi jutalomhoz szükséges időtartamba (150. §),
+- c) a közigazgatási szakvizsgához szükséges gyakorlati időbe [118. § (8) bekezdése], valamint
+- d) a 6. § 16. pontja szerinti közigazgatási gyakorlatba.
+
+(4) Az ösztöndíjas jogviszonyt létrehozó szerződésben meghatározott feltételek sikeres teljesítését követően az ösztöndíjassal első munkavégzésre irányuló jogviszonyként az ösztöndíjas jogviszony megszűnését követő egy éven belül elsőként kormányzati szolgálati jogviszonyt létesítő államigazgatási szerv próbaidőt nem köthet ki.
+
+### A kinevezés módosítása
+
+48. § (1) A kinevezés tartalmát módosítani csak az államigazgatási szerv és a kormánytisztviselő közös megegyezésével lehet. A kinevezés tartalmának módosítására a kinevezésre és annak elfogadására vonatkozó szabályokat kell megfelelően alkalmazni.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően nem kell a kormánytisztviselő beleegyezése
+
+- a) a fizetési fokozatban történő előrelépése, illetményének e törvény szerinti megállapításakor,
+- b) a kormánytisztviselő előmeneteléhez előírt vizsgakötelezettség e törvény szerinti megállapításakor,
+- c) a munkavégzés helyének kizárólag a település területén belüli megváltoztatásakor,
+- d) ha a munkakör megváltoztatása indokolja a kinevezés módosítását, valamint
+- e) az e törvényben meghatározott esetekben.
+
+(3) A (2) bekezdés c) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a kormánytisztviselő belegyezése nélkül, ha az új munkahely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a két órát, illetve tíz éven aluli gyermeket nevelő kormánytisztviselő esetében a másfél órát nem haladja meg.
+
+(4) A (2) bekezdés d) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a kormánytisztviselő belegyezése nélkül, ha az új munkakör megfelel a kormánytisztviselő iskolai végzettségének, szakképzettségének vagy szakképesítésének, szakmai tapasztalatának.
+
+(5) A (2) bekezdés c)–d) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a kormánytisztviselő belegyezése nélkül, ha a kormánytisztviselőre nézve – különösen beosztására, besorolására, egészségi állapotára vagy családi körülményeire tekintettel – aránytalan sérelemmel nem jár.
+
+(6) A vezetőre az (5) bekezdés nem alkalmazandó.
+
+(7) A kormánytisztviselőt a (2) bekezdés c)–d) pontjában meghatározott okból történő kinevezés-módosítástól számított öt munkanapon belül írásban benyújtott kérelmére a 63. § (2) bekezdés d) pontja alapján – a nyilatkozattétel időpontjától kezdődően – fel kell menteni. A kormánytisztviselő felmentése esetén a kinevezés-módosítást megelőzően betöltött korábbi munkakörében megállapított illetményét kell alapul venni a felmentési időre járó illetmény, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.
+
+49. § (1) A nőt várandóssága megállapításától gyermeke egyéves koráig az állapotának egészségügyi szempontból megfelelő munkakörbe kell ideiglenesen áthelyezni vagy meglévő munkakörében a munkafeltételeket kell megfelelően módosítani, ha munkaköri alkalmasságára vonatkozó orvosi vélemény bemutatása alapján a munkakörében nem foglalkoztatható.
+
+(2) Az (1) bekezdés szerinti kormánytisztviselőt a munkavégzési kötelezettség alól mentesíteni kell, ha az egészségi állapotának megfelelő foglalkoztatása a munkáltatónál nem lehetséges.
+
+(3) A kormánytisztviselő a felajánlott munkakörnek megfelelő illetményre jogosult, ami a korábbi munkaköre szerinti illetménynél kevesebb nem lehet. A munkavégzés alóli felmentés idejére illetménye illeti meg, kivéve, ha a felajánlott munkakört alapos ok nélkül nem fogadja el.
+
+### Kötelező részmunkaidő kikötése
+
+50. § (1) A teljes munkaidőben foglalkoztatott kormánytisztviselő írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz órás részmunkaidőt kikötni, ha a kormánytisztviselő a kérelem benyújtásakor a 111. §-ban foglalt fizetés nélküli szabadságot vesz igénybe.
+
+(2) A munkáltató a kormánytisztviselőnek a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltató köteles írásban megindokolni a kérelem megtagadását.
+
+(3) A részmunkaidő kikötése
+
+- a) a fizetés nélküli szabadság megszűnését követő naptól,
+- b) ha a kormánytisztviselőnek betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül ki kell adni rendes szabadságát, a szabadság leteltét követő naptól hatályos. A b) pontban foglaltak alkalmazása esetén – a felek eltérő megállapodása hiányában – a rendes szabadság kiadását a fizetés nélküli szabadság lejártát követő első munkanapon meg kell kezdeni. Eltérő megállapodás esetén a rendes szabadság kiadását a fizetés nélküli szabadság lejártát követő harminc napon belül meg kell kezdeni.
+
+(4) A kérelmet az (1) bekezdés szerinti fizetés nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatóval közölni. A kérelemben a kormánytisztviselő köteles tájékoztatni a munkáltatót
+
+- a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve betöltésének időpontjáról, továbbá
+- b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.
+
+(5) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató a kormánytisztviselőt
+
+- a) a kérelem szerinti időpontig, de
+- b) legfeljebb a gyermek hároméves koráig köteles foglalkoztatni. Ezt követően a kormánytisztviselő munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
+
+(6) Az (1)–(5) bekezdés nem alkalmazható a vezetői munkakört betöltő kormánytisztviselő tekintetében.
+
+### Kinevezéstől eltérő ideiglenes foglalkoztatás
+
+### Közös szabályok
+
+51. § (1) A kormánytisztviselő átirányítással, kirendeléssel – ideértve a kormányzati érdekből történő kirendelést – és kiküldetéssel ideiglenesen a kinevezéstől eltérően is foglalkoztatható.
+
+(2) A kinevezéstől eltérő ideiglenes foglalkoztatás elrendelése a kormánytisztviselőre nézve – különösen beosztására, korára, egészségi állapotára vagy egyéb körülményeire tekintettel – aránytalan sérelemmel nem járhat. Átirányítás, kirendelés – ideértve a kormányzati érdekből történő kirendelést – abban az esetben rendelhető el, ha a másik munkakörbe tartozó feladat ellátása megfelel a kormánytisztviselő végzettségének, szakképzettségének vagy szakképesítésének.
+
+(3) A kormánytisztviselőt legkésőbb tíz munkanappal – átirányítás esetén három munkanappal – korábban írásban kell tájékoztatni a kinevezéstől eltérő ideiglenes foglalkoztatás – ide nem értve a kiküldetés – elrendeléséről, valamint annak várható időtartamáról.
+
+(4) Az átirányítás, kirendelés, kiküldetés alapján történő munkavégzés időtartama külön-külön nem haladhatja meg – a munkáltatói jogkör gyakorlója és a kormánytisztviselő eltérő megállapodása hiányában – naptári évenként a negyvennégy munkanapot. Ha az átirányítás, kirendelés, kiküldetés időtartama egy munkanapon belül a négy órát meghaladja, azt egy munkanapként kell számításba venni.
+
+(5) Egy naptári éven belül az átirányítás, a kirendelés, valamint a kiküldetés időtartamát össze kell számítani, és ezek együttes időtartama – a munkáltatói jogkör gyakorlója és a kormánytisztviselő eltérő megállapodása hiányában – a száztíz munkanapot nem haladhatja meg.
+
+(6) Nem rendelhető ki – ideértve a kormányzati érdekből történő kirendelést –, kiküldetés keretében – beleegyezése nélkül – nem kötelezhető más helységben történő munkavégzésre
+
+- a) a kormánytisztviselő várandóssága megállapításától gyermeke hároméves koráig,
+- b) kiskorú gyermekét egyedül nevelő kormánytisztviselő,
+- c) tartósan ápolásra szoruló közeli hozzátartozóját gondozó kormánytisztviselő,
+- d) a kormánytisztviselő, akinek legalább ötven százalékos mértékű egészségkárosodását rehabilitációs szakértői szerv megállapította.
+
+(7) Ha az (6) bekezdésben meghatározott okok bármelyike a kinevezéstől eltérő ideiglenes foglalkoztatás ideje alatt következik be, akkor
+
+- a) a tudomásszerzést követően haladéktalanul meg kell szüntetni a kirendelést – ideértve a kormányzati érdekből történő kirendelést –,
+- b) a kormánytisztviselő erre irányuló kérelmére kell megszüntetni a kiküldetést.
+
+### Átirányítás
+
+52. § (1) Nem minősül a kinevezés módosításának, ha a kormánytisztviselő – az államigazgatási szerv hatékony működéséhez szükséges munkaszervezési okból, ideiglenesen – a munkáltatói jogkör gyakorlójának írásbeli utasítása alapján eredeti munkaköre helyett, vagy eredeti munkaköre mellett más munkakörbe tartozó feladatokat lát el (átirányítás).
+
+(2) Ha a kormánytisztviselő a munkáltató intézkedése alapján munkakörébe nem tartozó munkát végez, s az eredeti munkakörét is ellátja, illetményén felül külön díjazás (helyettesítési díj) is megilleti.
+
+(3) A helyettesítési díj mértéke időarányosan a helyettesítő kormánytisztviselő illetményének 25–50%-áig terjedhet. A helyettesítési díj mértékét a hivatali szervezet vezetője állapítja meg. A helyettesítési díj a helyettesítés első napjától jár.
+
+(4) A kormánytisztviselő akkor is jogosult a helyettesítési díjra, ha tartósan távol lévő kormánytisztviselőt helyettesít, illetve részben vagy egészben többletfeladatként betöltetlen munkakört lát el.
+
+(5) Nem jár helyettesítési díj, ha
+
+- a) a helyettesítés a kormánytisztviselő munkaköri kötelezettsége,
+- b) a helyettesítés rendes szabadság miatt szükséges.
+
+(6) A (5) bekezdés a) pontjában meghatározott tilalom nem vonatkozik arra az esetre, amikor a helyettesítésre azért van szükség, mert a helyettesítésre okot adó munkakör nincs betöltve, feltéve, ha a helyettesítés időtartama a harminc napot meghaladja.
+
+### Kirendelés
+
+53. § (1) A kormánytisztviselő az államigazgatási szervek között létrejött megállapodás alapján más munkáltatónál történő munkavégzésre is kötelezhető (kirendelés).
+
+(2) Az 51. § (4) bekezdésétől eltérően a más helységbe történő kirendelés esetén a kirendelés időtartama nem haladhatja meg naptári évenként a huszonkét munkanapot.
+
+(3) A kirendelés a kormányzati szolgálati jogviszonyt nem érinti. A kirendelés időtartama alatt a kormánytisztviselő a kirendelés időpontjában érvényes illetményére jogosult, de ha a kirendelés helye szerinti államigazgatási szervnél kedvezőbb illetményre lenne jogosult, akkor illetményét ennek megfelelően kell megállapítani. Hasonlóan kell eljárni a külön és egyéb juttatások tekintetében is. A kormánytisztviselő illetményét, külön és egyéb juttatását, az ezzel járó közterheket és a kirendeléssel felmerülő költségeket – az érintett államigazgatási szervek eltérő megállapodása hiányában – az az államigazgatási szerv viseli, ahova a kormánytisztviselőt kirendelték.
+
+(4) Az alapvető munkáltatói jogok kivételével a kirendelt kormánytisztviselő felett a munkáltatói jogokat azon államigazgatási szerv hivatali szervezetének vezetője gyakorolja, amelyhez a kormánytisztviselőt kirendelték.
+
+(5) A kormánytisztviselő az (1)–(4) bekezdésben foglaltaknak megfelelően a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozó munkáltatóhoz is kirendelhető.
+
+### Kiküldetés
+
+54. § (1) Az államigazgatási szerv a szokásos munkavégzési hely szerinti településen kívüli munkavégzésre kötelezheti a kormánytisztviselőt (kiküldetés). Ennek feltétele, hogy a kormánytisztviselő a kiküldetés időtartama alatt is a munkáltató irányítása és utasítása alapján végezze a munkát.
+
+(2) Nem minősül kiküldetésnek, ha a kormánytisztviselő a munkáját – a munka természetéből eredően – szokásosan az államigazgatási szerv székhelyén kívül végzi, valamint, ha olyan településen végzi, amely az államigazgatási szerv szervezetszerű működéséhez tartozik.
+
+(3) A kiküldetésben lévő kormánytisztviselőnek az élelmezésével kapcsolatos többletköltségei fedezetére a kiküldetés tartamára élelmezési költségtérítés (napidíj) jár.
+
+(4) A napidíj mértéke a költségvetési törvényben meghatározott illetményalap egy munkanapra eső összegének 25%-a. A napidíj átalányként is elszámolható, ha a kormánytisztviselő havonta, rendszeresen kiküldetésben végez munkát. Az átalányt a napidíj és a havi átlagban kiküldetésben töltött naptári napok figyelembevételével kell meghatározni.
+
+(5) A napidíj kiszámításánál havonta huszonegy munkanapot lehet figyelembe venni és annak összegét tíz forintra felkerekítve kell megállapítani. Nem számolható el napidíj, ha a kiküldetésben töltött idő a négy órát nem éri el. A napidíj fele számolható el, ha a kiküldetésben töltött idő a nyolc órát nem éri el.
+
+(6) Kiküldetés esetén a napidíjon túlmenően a munkáltató köteles a kormánytisztviselő számára megfizetni a kiküldetés során felmerülő szükséges és igazolt többletköltségeit.
+
+(7) Az ideiglenes (három hónapot meg nem haladó) külföldi kiküldetés e §-tól eltérő szabályait a Kormány rendeletben állapítja meg.
+
+### Kormányzati érdekből történő kirendelés
+
+55. § (1) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter döntése alapján – az érintett hivatali szervezet vezetője véleményének kikérését követően – kormányzati érdekből a központi államigazgatási szerv kormánytisztviselője határozott időre kirendelhető másik központi államigazgatási szervhez.
+
+(2) A kormányzati érdekből történő kirendelés időtartama nem haladhatja meg az egy évet. A kirendelés ugyanarra a feladatra egy alkalommal, legfeljebb egy évvel meghosszabbítható. A kirendelés lejártát követően a kormánytisztviselőt a kinevezése szerinti központi államigazgatási szerv köteles eredeti munkakörében továbbfoglalkoztatni.
+
+(3) Jelen §-ban nem szabályozott kérdésekben a kirendelésre vonatkozó szabályokat kell megfelelően alkalmazni.
+
+### Határozott idejű áthelyezés
+
+56. § (1) Az államigazgatási szerv, a kormánytisztviselő és egy másik államigazgatási szerv megállapodhat a kormánytisztviselőnek a másik államigazgatási szervhez történő határozott idejű áthelyezésében. A kormánytisztviselő határozott idejű áthelyezésekor a kinevezést az áthelyezés idejére közös megegyezéssel módosítani kell. A határozott idő elteltével a kormánytisztviselőt az előmeneteli szabályok figyelembevételével vissza kell helyezni ahhoz az államigazgatási szervhez, ahonnan áthelyezték (a továbbiakban: áthelyező államigazgatási szerv).
+
+(2) Az (1) bekezdés alkalmazása szempontjából államigazgatási szervnek kell tekinteni az e törvény 1–2. §-aiban meghatározott szerveket.
+
+(3) A határozott idejű áthelyezésre megfelelően kell alkalmazni az 53. § (3) bekezdésében foglaltakat.
+
+### Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programokban történő szakértői részvétel, Európai Unió Intézményeiben foglalkoztatott nemzeti szakértő
+
+57. § (1) Az államigazgatási szerv és a kormánytisztviselő megállapodhat abban, hogy a kormánytisztviselő határozott ideig az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programok keretében szakértői tevékenységet lát el. A kormánytisztviselő és a fejlesztési programok végrehajtásáért felelős szerv között a szakértői tevékenység gyakorlásával kapcsolatban kötött megállapodás nem hoz létre e törvény szerinti további jogviszonyt.
+
+(2) A nemzeti szakértőként történő foglalkoztatásról valamely európai uniós intézmény és a küldő államigazgatási szerv közötti megállapodás rendelkezik. A kormánytisztviselő kormányzati szolgálati jogviszonya a küldő államigazgatási szervnél a nemzeti szakértőként történő foglalkoztatás ideje alatt folyamatosan fennáll.
+
+(3) A kormánytisztviselő kinevezését az (1)–(2) bekezdésekben foglalt tevékenység ellátásának időtartamára közös megegyezéssel módosítani kell. A határozott idő elteltével a kormánytisztviselőt az előmeneteli szabályok figyelembevételével vissza kell helyezni a szakértői tevékenységet megelőzően általa betöltött beosztásba.
+
+(4) Az (1)–(2) bekezdésekben foglalt tevékenység ellátásának ideje alatt a kormánytisztviselő kormányzati szolgálati jogviszonya – a 63. § (2) bekezdésében foglalt kivétellel – nem szüntethető meg felmentéssel.
+
+(5) Az (1) bekezdés szerinti programban egyes részfeladatok végrehajtásáért felelős szakértőként részt vevő, a megvalósítás időtartama alatt esetileg a kedvezményezett országban tartózkodó kormánytisztviselőre a (3) bekezdést nem kell alkalmazni.
+
+### A munkáltató személyében bekövetkező jogutódlás
+
+58. § (1) Nem kell a kormánytisztviselő beleegyezése, ha – a kormányzati szolgálati jogviszony, a feladatkör, az illetmény és a munkavégzés helye szerinti település megváltozása nélkül – a közigazgatási szerv személyében jogutódlás miatt bekövetkezett változás indokolja a kinevezés módosítását.
+
+(2) Jogutódlás esetén az annak időpontjában fennálló jogviszonyból származó jogok és kötelességek a jogutódlás időpontjában a jogelődről (átadó) a jogutód (átvevő) munkáltatóra szállnak át.
+
+(3) Az átadó munkáltató az átszállást megelőzően köteles tájékoztatni az átvevő munkáltatót az átszállással érintett jogviszonyokból, valamint a tanulmányi szerződésekből származó jogokról és kötelezettségekről. A tájékoztatás elmaradása az átvevő munkáltatóval szemben e jogviszonyokból származó igények érvényesítését nem érinti.
+
+(4) Az átvevő munkáltató az átszállást követő harminc napon belül a munkáltató azonosító adatainak közlésével köteles írásban tájékoztatni a kormánytisztviselőt a munkáltató személyében bekövetkezett változásról.
+
+### Végleges áthelyezés
+
+59. § (1) A kormányzati szolgálati jogviszony megszüntethető végleges áthelyezéssel közigazgatási szervekhez.
+
+(2) A közigazgatási szerv, a kormánytisztviselő és egy másik közigazgatási szerv megállapodhat a kormánytisztviselőnek a másik közigazgatási szervhez történő végleges áthelyezésében. Végleges áthelyezés esetén az áthelyező közigazgatási szerv a hozzájárulást nem tagadhatja meg, feltéve, hogy a megkeresés kézhezvétele és az áthelyezés kért időpontja közötti időtartam a két hónapot meghaladja.
+
+(3) Végleges áthelyezéskor a kormánytisztviselő az áthelyezést kezdeményező szervnél új kinevezést kap.
+
+(4) Végleges áthelyezés esetén a közszolgálati igazolást, valamint a kormánytisztviselő illetményét és egyéb járandóságait ki kell adni.
+
+(5) Végleges áthelyezés esetén a kormánytisztviselő jogviszonyát folyamatosnak kell tekinteni.
+
+### A kormányzati szolgálati jogviszony megszűnése
+
+### A megszűnés
+
+60. § (1) A kormányzati szolgálati jogviszony megszűnik:
+
+- a) a kinevezésben foglalt határozott idő lejártával,
+- b) a kormánytisztviselő halálával,
+- c) e törvény erejénél fogva az e törvényben meghatározott esetekben,
+- d) az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíró, illetve ügyész minisztériumi beosztásának megszűnésével,
+- e) a 70. életév betöltésével,
+- f) a prémiumévek programban történő részvétel, illetőleg különleges foglalkoztatási állományba helyezés esetén az erre vonatkozó külön törvény szabályai szerint,
+- g) az államigazgatási szerv jogutód nélküli megszűnésével,
+- h) a kormánytisztviselő politikai vezetővé történő megválasztásával, illetve kinevezésével,
+- i) a hivatalvesztés fegyelmi büntetéssel,
+- j) ha a kormánytisztviselő a társadalombiztosítási szabályok alapján az öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte, kivéve, ha a kormánytisztviselő kérelmére és hivatali érdek alapján a munkáltató a jogviszonyt fenntartja.
+
+(2) A kormányzati szolgálati jogviszony megszüntethető:
+
+- a) a felek közös megegyezésével,
+- b) áthelyezéssel a közigazgatási szervek között, illetve a közalkalmazotti vagy hivatásos szolgálati jogviszonyt szabályozó jogszabályok hatálya alá tartozó szervekhez,
+- c) lemondással,
+- d) felmentéssel,
+- e) azonnali hatállyal a próbaidő alatt.
+
+(3) Ha a kormányzati szolgálati jogviszony az (1) bekezdés g) pontjában foglaltak alapján szűnik meg, a kormánytisztviselő részére annak megfelelő összeget kell kifizetni, amely felmentése esetén a munkavégzési kötelezettség alóli mentesítés idejére járó illetményének felel meg, kivéve, ha felmentés esetén a munkavégzés alóli mentesítés időtartamára a kormánytisztviselő illetményre nem lenne jogosult.
+
+(4) Az (1) bekezdés e) pontjában meghatározott életkori korlát alól a miniszterelnök felmentést adhat, ha a kormánytisztviselői kinevezés a külszolgálathoz kapcsolódó képviselet-vezetői megbízáshoz szükséges.
+
+(5) A 38. § (2) bekezdés alapján létrejött tartós külszolgálat hatvan napos hatállyal megszüntethető.
+
+(6) A kormánytisztviselő köteles bemutatni a munkáltatónak az (1) bekezdés j) pontjában meghatározott feltétel megállapításához szükséges, a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatát.
+
+61. § (1) A kormánytisztviselő a kormányzati szolgálati jogviszonyról bármikor lemondhat.
+
+(2) A kormánytisztviselő lemondási ideje két hónap. A felek ennél rövidebb időben is megállapodhatnak. Határozott idejű kormányzati szolgálati jogviszony esetén a lemondási idő nem terjedhet túl a kinevezésben meghatározott időtartamon.
+
+62. § Ha a határozatlan időre kinevezett kormánytisztviselő
+
+- a) állam- vagy kormányközi nemzetközi szervezetnél,
+- b) az Európai Unió szerveinél
+
+jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont szerinti jogviszony kezdete előtti napon megszűnik. A megszűnés időpontját a felek ettől eltérően is meghatározhatják.
+
+### A megszüntetés
+
+63. § (1) A kormányzati szolgálati jogviszony felmentéssel akkor szüntethető meg, ha
+
+- a) az Országgyűlés, a Kormány, a költségvetési fejezetet irányító szerv vezetője, az államigazgatási szerv vezetője döntése alapján az államigazgatási szerv hivatali szervezetében létszámcsökkentést kell végrehajtani, és emiatt a kormánytisztviselő munkaköre megszűnik;
+- b) megszűnt az államigazgatási szervnek az a tevékenysége, amelynek körében a kormánytisztviselőt foglalkoztatták;
+- c) átszervezés következtében munkaköre megszűnik;
+- d) a kormánytisztviselő nyugdíjasnak minősül (kivéve, ha a jogviszony a 60. § (1) bekezdés j) pontja alapján megszűnt).
+
+(2) A kormányzati szolgálati jogviszonyt felmentéssel meg kell szüntetni, ha
+
+- a) a kormánytisztviselő hivatalára méltatlan;
+- b) a kormánytisztviselő munkavégzése nem megfelelő;
+- c) a kormánytisztviselő egészségügyi okból feladatai ellátására alkalmatlan;
+- d) az 48. § (2) bekezdés c) és d) pontjában meghatározott kinevezés-módosítás esetén a kormánytisztviselő azt kérelmezi;
+- e) a kormánytisztviselő vezetőjének bizalmát elveszti;
+- f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő kormánytisztviselő kérelmezi.
+
+(3) A munkáltató a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
+
+(4) A (2) bekezdés c) pontjában meghatározott egészségügyi okból bekövetkező alkalmatlanság esetén a kormánytisztviselő akkor menthető fel, ha a hivatali szervezetben a képzettségének, besorolásának és egészségi állapotának megfelelő betöltetlen munkakör nincs, vagy ha az ilyen munkakörbe való áthelyezéséhez a kormánytisztviselő nem járul hozzá.
+
+(5) Ha az államigazgatási szerv jogutód nélkül szűnik meg, akkor a kormányzati szolgálati jogviszony megszűnésével, valamint a 73. §-ban meghatározott feladatokkal kapcsolatos munkáltatói intézkedéseket – ha jogszabály eltérően nem rendelkezik – az államigazgatási szerv felügyeleti szerve hozza meg.
+
+(6) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.
+
+(7) A munkáltató a határozatlan időtartamú jogviszony felmentéssel történő megszüntetését nem köteles indokolni, ha a kormánytisztviselő nyugdíjasnak minősül.
+
+64. § (1) Hivatalára az a kormánytisztviselő méltatlan, aki olyan magatartást tanúsít – akár a hivatali munkájával (munkavégzésével) összefüggésben, akár munkahelyén kívül –, amely alkalmas arra, hogy az általa betöltött beosztás tekintélyét vagy a munkáltató jó hírnevét, illetve a jó közigazgatásba vetett társadalmi bizalmat súlyosan rombolja, és emiatt nem várható el, hogy a munkáltató a jogviszonyt fenntartsa.
+
+(2) A méltatlanság címén való felmentés közlése előtt lehetőséget kell adni a kormánytisztviselőnek a felmentés indokainak megismerésére és az azokkal szembeni védekezésre, kivéve, ha az eset összes körülményeiből következően ez a munkáltatótól nem várható el.
+
+(3) A méltatlanság jogcímén történő felmentés jogát az ennek alapjául szolgáló okról való tudomásszerzéstől számított tizenöt napon belül, legfeljebb azonban az ok bekövetkeztétől számított egy éven belül, bűncselekmény elkövetése esetén a büntethetőség elévüléséig lehet gyakorolni. Ha a méltatlanság jogcímén történő felmentés jogát testület jogosult gyakorolni, a tudomásszerzés időpontjának azt kell tekinteni, amikor a felmentés okáról a testületet – mint a munkáltatói jogkört gyakorló szervet – tájékoztatják. A hivatalára méltatlanná vált kormánytisztviselő kormányzati szolgálati jogviszonyát felmentési idő nélkül (azonnali hatállyal) kell megszüntetni.
+
+(4)
+
+(5) A méltatlanság jogcímén történő felmentés esetében a 70. és 71. § nem alkalmazható.
+
+65. § (1) A 63. § (2) bekezdés b) pontjában foglalt felmentésre akkor kerülhet sor, ha
+
+- a) a minősítés alapján a kormánytisztviselő munkaköri feladatainak ellátása nem megfelelő színvonalú, és
+- b) az államigazgatási szervnél nincs másik, a kormánytisztviselő minősítésében foglaltak alapján megfelelő felajánlható munkakör, vagy a kormánytisztviselő a munkáltató által (2) bekezdésben foglaltak szerint felajánlott munkakört nem fogadta el.
+
+(2) A kormánytisztviselő számára a felmentését megelőzően az államigazgatási szervnél – feltéve, ha ilyennel rendelkezik – másik megfelelő kormánytisztviselői munkakört kell felajánlani. A kormánytisztviselő a felajánlott munkakör elfogadásáról vagy elutasításáról a felajánlástól számított öt munkanapon belül írásban nyilatkozik. A nyilatkozat hiányát a munkakör elutasításának kell tekinteni, kivéve, ha a késedelem a kormánytisztviselő önhibáján kívül eső okból következett be. A kormánytisztviselő elfogadó nyilatkozata esetén őt az új munkakörének megfelelően kell besorolni és besorolásának megfelelő illetményre jogosult.
+
+(3) Nem lehet megfelelőnek tekinteni azt a munkakört, amelynek ellátásához a minősítés során nem megfelelőnek minősített szakmai követelmény szükséges.
+
+(4) Ha a kormánytisztviselő a felajánlott állást elutasítja, vagy ha az államigazgatási szervnél a (2) bekezdésben meghatározott munkakör nincs, akkor a kormánytisztviselőt a 63. § (2) bekezdés b) pontja alapján fel kell menteni.
+
+(5)
+
+66. § (1) Bizalomvesztésnek minősül, ha a kormánytisztviselő a 76. § (2) bekezdésében meghatározott kötelezettségének nem tesz eleget.
+
+(2) A bizalomvesztés indoka kizárólag a kormánytisztviselő magatartásában, illetve munkavégzésében megnyilvánuló és bizonyítható tény lehet.
+
+67. § (1) Az államigazgatási szerv legkésőbb a felmentés közlésekor írásban tájékoztatja az állami foglalkoztatási szervet a felmentéssel érintett kormánytisztviselők személyes adatairól, utolsó munkaköréről, szakképzettségéről és illetményéről. A tájékoztatási kötelezettség – ha jogszabály eltérően nem rendelkezik – a jogutód nélkül megszűnő államigazgatási szerv felügyeleti szervét terheli.
+
+(2) Az (1) bekezdésben foglalt tájékoztatási kötelezettség feltétele, hogy a felmentésre a 63. § (1) bekezdés a)–c) pontjaiban meghatározott okból kerüljön sor és a felmentéssel érintett kormánytisztviselők létszáma harminc napon belül
+
+- a) húsz főnél kevesebb kormánytisztviselő foglalkoztatása esetén legalább öt fő;
+- b) húsznál több száznál kevesebb kormánytisztviselő foglalkoztatása esetén legalább tíz fő;
+- c) száz vagy annál több, de háromszáznál kevesebb kormánytisztviselő foglalkoztatása esetén legalább a kormánytisztviselők 10%-a;
+- d) háromszáz vagy annál több kormánytisztviselő foglalkoztatása esetén legalább harminc fő. Az a)–d) pontban meghatározott rendelkezések alkalmazása szempontjából a kormánytisztviselői jogviszonyban és a munkaviszonyban állók létszámát össze kell számítani.
+
+68. § (1) A felmentési idő két hónap.
+
+(2) A felmentési idő a felmentési okiratban megjelölt napon kezdődik. A felmentési idő legkorábban a felmentés közlését követő napon kezdődhet.
+
+(3) Határozott idejű kormányzati szolgálati jogviszony megszüntetése esetén a felmentési idő nem terjedhet túl azon az időponton, amikor a kormányzati szolgálati jogviszony a kinevezés értelmében felmentés nélkül is megszűnt volna.
+
+(4) A kormánytisztviselőt a felmentés időtartamának legalább a felére a munkavégzési kötelezettség alól mentesíteni kell, erre az időtartamra illetményre jogosult. A 85. § (2) és (3) bekezdésében meghatározott összeférhetetlenségi szabály nem alkalmazható a munkavégzési kötelezettség alól mentesített kormánytisztviselővel szemben. A munkavégzés alól a kormánytisztviselőt a kívánságának megfelelően – legfeljebb két részletben – kell mentesíteni.
+
+(5) A kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés idejére járó illetményre havonta egyenlő részletekben jogosult.
+
+(6) A kifizetett illetményt visszakövetelni nem lehet, ha a kormánytisztviselőt a munkavégzés alól végleg mentesítették és az illetmény fizetését kizáró körülmény a kormánytisztviselőnek a munkavégzés alóli mentésítése után következett be.
+
+### A végkielégítés
+
+69. § (1) A kormánytisztviselőt – a (9) bekezdésben foglalt kivétellel – végkielégítés illeti meg, ha kormányzati szolgálati jogviszonya felmentés vagy az államigazgatási szerv jogutód nélküli megszűnése következtében szűnik meg.
+
+(2) A végkielégítés összege, ha a kormánytisztviselő kormányzati szolgálati jogviszonyban töltött ideje legalább
+
+- a) három év: egyhavi,
+- b) öt év: kéthavi,
+- c) nyolc év: háromhavi,
+- d) tíz év: négyhavi,
+- e) tizenhárom év: öthavi,
+- f) tizenhat év: hathavi,
+- g) húsz év: nyolchavi
+
+– a felmentési idő kezdetekor vagy az államigazgatási szerv jogutód nélküli megszűnésekor irányadó – illetményének megfelelő összeg. A végkielégítés mértéke négyhavi illetmény összegével emelkedik, ha a kormánytisztviselő kormányzati szolgálati jogviszonya az öregségi nyugdíjra való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a kormánytisztviselőt, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült. A kifizetett végkielégítés összegét fel kell tüntetni a közszolgálati igazoláson.
+
+(3) A végkielégítés mértékének meghatározásakor csak a kormányzati szolgálati jogviszonyt megszüntető államigazgatási szervnél kormányzati szolgálati jogviszonyban eltöltött időt lehet figyelembe venni.
+
+(4) A 38. § (2) bekezdése szerint határozott időre létesített kormányzati szolgálati jogviszony felmentéssel történő megszüntetése esetén a végkielégítés összegének meghatározásánál a kinevezés és a felmentés közötti időtartamot kell figyelembe venni.
+
+(5) A (3) és (4) bekezdés alkalmazása szempontjából kormányzati szolgálati jogviszonyban töltött időnek minősül
+
+- a) a jogelőd munkáltatónál – ideértve jogviszonyváltás esetén az átadó munkáltatónál – ,
+- b) áthelyezés esetén a költségvetési szervnél kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
+- c) a 204. § (5) bekezdése szerint folyamatosnak tekintendő kormányzati szolgálati jogviszony esetében a politikai főtanácsadói, politikai tanácsadói jogviszonyban,
+- d) átminősítés esetén a hivatásos szolgálati viszonyban eltöltött idő is.
+
+(6) Az (5) bekezdésben meghatározottak kivételével a végkielégítésre való jogosultság feltétele, hogy a kormányzati szolgálati jogviszony folyamatosan fennálljon a jogviszony megszüntetéséig.
+
+(7) A végkielégítés összegének a felére jogosult a kormánytisztviselő, ha felmentésére azért került sor, mert a 63. § (4) bekezdése szerinti áthelyezéséhez nem járult hozzá, kivéve, ha a hozzájárulását alapos indokkal tagadta meg, így különösen, ha
+
+- a) a felajánlott illetmény összege kevesebb a korábbi illetménye 80%-ánál,
+- b) a korábbi kötelező heti munkaidejéhez képest rövidebb vagy hosszabb heti kötelező munkaidővel együttjáró munkakört ajánlanak fel,
+- c) a korábbi határozatlan idejű alkalmazás helyett határozott idejűt ajánlanak fel,
+- d) az új munkahely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a két órát, illetve 10 éven aluli gyermeket nevelő kormánytisztviselő esetében a másfél órát meghaladja. Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorolása szerinti illetményt kell figyelembe venni, ha besorolása szerinti illetményénél magasabb illetményben, címadományozásban részesült, főtanácsadói, tanácsadói munkakört töltött be.
+
+(8) A végkielégítést a felmentési idő utolsó napján kell kifizetni.
+
+(9) Végkielégítésre nem jogosult a kormánytisztviselő, ha
+
+- a) a felmentés a gyakornoki idő alatt történt;
+- b) legkésőbb a kormányzati szolgálati jogviszony megszűnésének időpontjában nyugdíjasnak minősül;
+- c) felmentésére a 63. § (2) bekezdés b) pontjában meghatározott okból került sor;
+- d) kormányzati szolgálati jogviszonya a 72. § szerint szűnt meg és az új munkáltatóval a 72. § szerint foglalkoztatásra irányuló jogviszonyt létesít;
+- e) méltatlanság címén mentették fel.
+
+(10) Ha a kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
+
+- a) ezt a tényt korábbi munkáltatójának haladéktalanul köteles írásban bejelenteni,
+- b) a felmentési időből hátralevő idő tekintetében illetményre nem jogosult,
+- c) végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét is számításba kell venni.
+
+### Felmentési védelem
+
+70. § (1) A munkáltató felmentéssel nem szüntetheti meg a jogviszonyt
+
+- a) a várandósság,
+- b) a szülési szabadság,
+- c) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság [111. §, 113. § (1) bekezdés], illetve – a fizetés nélküli szabadság igénybevétele nélkül is – a gyermek hároméves koráig terjedő,
+- d) a beteg gyermek ápolása címén fennálló keresőképtelenség,
+- e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés, valamint
+- f) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének, de legfeljebb ennek megkezdésétől számított hat hónap időtartama alatt.
+
+(2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó.
+
+(3) Az (1) bekezdés a) és f) pontjában meghatározott körülményre a kormánytisztviselő csak akkor hivatkozhat, ha erről a munkáltatót a felmentés közlését megelőzően tájékoztatta.
+
+(4) Az (1) bekezdés c) pontja szerinti védelem a fizetés nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki a fizetés nélküli szabadságot utoljára igénybe vette.
+
+(5) Az (1) bekezdés c) pontjában meghatározott védelem az anyát illeti meg, ha a fizetés nélküli szabadságot mindkét szülő igénybe veszi.
+
+71. § (1) A munkáltató általi felmentés esetén a felmentési idő legkorábban az alábbiakban meghatározott időtartam lejártát követő napon kezdődik:
+
+- a) betegség miatti keresőképtelenség, legfeljebb azonban a betegszabadság lejártát követő egy év,
+- b) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság.
+
+(2) Az (1) bekezdésben meghatározott védelem nem vonatkozik a kormánytisztviselő jogviszonyának felmentéssel történő megszüntetésére, ha a kormánytisztviselő nyugdíjasnak minősül.
+
+### A jogviszonyváltás
+
+72. § (1) A munkáltató személyében a jogszabály rendelkezése folytán bekövetkező olyan változás esetén, ha a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) az e törvény hatálya alól egy, a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó munkáltatóhoz kerül, a munkáltató érintett szervezete, illetve tevékenysége keretében foglalkoztatott kormánytisztviselő kormányzati szolgálati jogviszonya – a (3), (4) és a (9) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában közalkalmazotti jogviszonnyá alakul át.
+
+(2) A jogviszony átalakulásáról az érintetteket az átvevő munkáltató az átalakulást követő harminc napon belül tájékoztatja.
+
+(3) Az (1) bekezdésben foglaltaktól eltérően nem alakul át a kormánytisztviselő jogviszonya, ha az átvevő munkáltató a közalkalmazottak jogállásáról szóló törvény rendelkezései alapján nem létesíthet közalkalmazotti jogviszonyt az átadással érintett kormánytisztviselővel, ebben az esetben a kormányzati szolgálati jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a kormánytisztviselőt az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a kormánytisztviselő számára a 69. § alkalmazásával megállapított végkielégítést kell megfizetni.
+
+(4) A (3) bekezdésben foglaltakat kell megfelelően alkalmazni, ha az átadással érintett kormánytisztviselővel szemben a közalkalmazottakra vonatkozó szabályozás alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a kormánytisztviselő a jogviszony átalakulását megelőzően intézkedik, és ezt igazolja.
+
+(5) A jogviszony közalkalmazotti jogviszonnyá történő átalakulását követő negyvenöt napon belül a kormánytisztviselőt a közalkalmazotti jogviszonyra vonatkozó szabályok szerint be kell sorolni, és illetményét meg kell állapítani.
+
+(6) Határozatlan időtartamú kormányzati szolgálati jogviszony – eltérő törvényi rendelkezés hiányában – határozatlan időtartamú közalkalmazotti jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős közalkalmazotti jogviszonnyá alakul át.
+
+(7) Az átalakult jogviszony esetén a kormánytisztviselőnek az átalakulással érintett e törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyként elismert idejét úgy kell tekinteni, mintha azt az átvevő munkáltatónál töltötte volna el.
+
+(8) A kormányzati szolgálati jogviszonyban álló vezető jogviszonyának átalakulását követően – a közalkalmazotti jogviszonyra vonatkozó szabály figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
+
+(9) Ha a jogviszony átalakulása időpontjában munkaügyi per fegyelmi felelősségre vonás tekintetében folyik, a kereset elbírálásánál
+
+- a) a fegyelmi elbocsátás szabályait kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közalkalmazotti jogviszonnyá,
+- b) a rendkívüli felmondás szabályait kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya munkajogviszonnyá,
+- c) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közszolgálati jogviszonnyá
+
+alakul át.
+
+(10) E § rendelkezéseit kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közszolgálati vagy munkajogviszonnyá alakul át.
+
+### A tartalékállomány
+
+73. § (1) Ha az államigazgatási szervnél alkalmazott kormánytisztviselőt – ide nem értve a vezetőt – kormányzati szolgálati jogviszonyából a 63. § (1) bekezdés a)–c) pontjaiban meghatározott okból, vagy a 63. § (2) bekezdés b)–d) pontjaiban meghatározott okból mentik fel vagy a 60. § (1) bekezdés g) pontja alapján szűnik meg a jogviszonya, akkor a felmentési idejére, illetve a felmentési idővel azonos időtartamra tartalékállományba kell helyezni, abból a célból, hogy számára másik közigazgatási szervnél képzettségének, besorolásának megfelelő állást ajánljanak fel. Ha a kormánytisztviselőt kérésére a tartalékállományból törlik, a reá irányadó végkielégítés felére jogosult, kivéve, ha munkaviszony létesítése miatt kéri a törlését. A kormányzati szolgálati jogviszony megszűnésével a tartalékállományba helyezés is megszűnik.
+
+(2)–(3)
+
+(4) Ha a munkáltató tartalékállományba helyezett kormánytisztviselőt nevez ki, akkor külön törvény kedvezményt írhat elő. A kedvezmény összegét a munkáltató személyi juttatásokra használhatja fel.
+
+(5) A személyügyi központ kezeli a tartalékállományt.
+
+(6) Ha a kormánytisztviselő a tartalékállományból történő áthelyezéséhez nem járul hozzá, akkor a 69. § (7) bekezdésben foglaltak szerint kell eljárni.
+
+### Eljárás a jogviszony megszűnés, megszüntetés esetén
+
+74. § (1) A kormánytisztviselő jogviszonya megszüntetésekor (megszűnésekor) munkakörét az előírt rendben köteles átadni és a munkáltatóval elszámolni. A munkakör-átadás és az elszámolás feltételeit a munkáltató köteles biztosítani.
+
+(2) A jogviszony megszüntetésekor, illetve megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül, a kormánytisztviselő részére ki kell fizetni az illetményét, egyéb járandóságait, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
+
+### Kormányzati szolgálati jogviszony tartalma
+
+### Jogok és kötelezettségek
+
+### Az államigazgatási szerv kötelezettségei
+
+75. § (1) Az államigazgatási szerv köteles
+
+- a) a kormánytisztviselőt a kinevezésében foglaltak és a jogszabályok, illetve a közszolgálati szabályzat szerint foglalkoztatni, részére az egészséges és biztonságos munkavégzés feltételeit biztosítani,
+- b) a munkavégzéshez szükséges feltételeket biztosítani,
+- c) a kormánytisztviselő e törvény szerinti előmenetelének feltételeit biztosítani,
+- d) a kormánytisztviselő feladatait és a munkakör betöltésével kapcsolatos követelményeket (végzettség, szakképzettség, szakképesítés, tapasztalat, képességek) munkaköri leírásban rögzíteni,
+- e) a munkaköri feladatok ellátását úgy megszervezni, hogy a kormánytisztviselő a kormányzati szolgálati jogviszonyból eredő jogait gyakorolni, kötelezettségeit teljesíteni tudja,
+- f) a munkaköri feladatok elvégzéséhez szükséges tájékoztatást és irányítást megadni,
+- g) a kormánytisztviselő munkakörével kapcsolatos képzést és továbbképzést elősegíteni,
+- h) a kormánytisztviselőnek az e törvényben meghatározott illetményt és egyéb járandóságait megfizetni,
+- i) a kormánytisztviselőnek a kormányzati szolgálati jogviszonyból származó kötelezettségek teljesítése során indokoltan felmerült költségeit megtéríteni,
+- j) a kormánytisztviselő teljesítményét értékelni és minősítését elvégezni,
+- k) biztosítani annak lehetőségét, hogy a kormánytisztviselő érdek-képviseleti tevékenységével kapcsolatos jogait gyakorolhassa.
+
+(2) A kormánytisztviselőt csak olyan munkára lehet alkalmazni, amely testi alkatára vagy fejlettségére tekintettel rá hátrányos következményekkel nem járhat.
+
+(3) A fogyatékossággal élő, illetve a megváltozott munkaképességű kormánytisztviselő foglalkoztatása során a munkáltatónak gondoskodnia kell az ésszerű alkalmazkodás feltételeinek biztosításáról.
+
+(4) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkába lépést megelőzően és a kormányzati szolgálati jogviszony fennállása alatt rendszeres időközönként köteles ingyenesen biztosítani a kormánytisztviselő munkaköri alkalmassági vizsgálatát.
+
+(5) Az államigazgatási szerv hivatali szervezetének vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben közszolgálati szabályzatot kiadni.
+
+### Kormánytisztviselő kötelezettségei
+
+76. § (1) A kormánytisztviselő köteles
+
+- a) feladatait a köz érdekében a jogszabályoknak, a hivatásetikai elveknek és a vezetői döntéseknek megfelelően, az általában elvárható szakértelemmel és gondossággal, pártatlanul és igazságosan, a kulturált ügyintézés szabályai szerint ellátni,
+- b) az előírt helyen és időben, munkára képes állapotban megjelenni,
+- c) munkaideje alatt – munkavégzés céljából, munkára képes állapotban – a munkáltató rendelkezésére állni,
+- d) vezetőkkel és munkatársakkal együttműködni,
+- e) munkáját személyesen ellátni, valamint általában olyan magatartást tanúsítani, hogy ez más egészségét és testi épségét ne veszélyeztesse, munkáját ne zavarja, anyagi károsodását vagy helytelen megítélését ne idézze elő.
+
+(2) Az (1) bekezdésben meghatározottakon túl a kormánytisztviselő vezetői iránti szakmai lojalitással köteles ellátni feladatait. Szakmai lojalitás alatt kell érteni különösen a vezető által meghatározott szakmai értékek iránti elkötelezettséget, a vezetőkkel és a munkatársakkal való alkotó együttműködést, a szakmai elhivatottsággal történő, fegyelmezett és lényeglátó feladatvégzést.
+
+77. § Az államigazgatási szervvel kormányzati szolgálati jogviszonyban állók tekintetében – ha a rendőrségről szóló törvény előírja – a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellenőrizheti, hogy az államigazgatási szervvel kormányzati szolgálati jogviszonyban álló kormánytisztviselő eleget tesz-e az e törvényben meghatározott hivatali kötelezettségének.
+
+78. § (1) A kormánytisztviselő köteles felettese utasítását végrehajtani.
+
+(2) A kormánytisztviselő köteles felettese utasításának végrehajtását megtagadni, ha annak teljesítésével:
+
+- a) bűncselekményt, illetve szabálysértést valósítana meg;
+- b) más személy életét, testi épségét vagy egészségét, illetőleg a környezetét közvetlenül és súlyosan veszélyeztetné.
+
+(3) A kormánytisztviselő az utasítás végrehajtását megtagadhatja, ha annak teljesítése
+
+- a) az életét, egészségét vagy testi épségét, közvetlenül és súlyosan veszélyeztetné, vagy
+- b) jogszabályba, a munkáltató által kiadott normatív utasításba ütközne.
+
+(4) A kormánytisztviselő köteles az utasítást adó figyelmét felhívni, és egyben kérheti az utasítás írásba foglalását, ha az, vagy annak végrehajtása jogszabályba vagy a munkáltató által kiadott normatív utasításba ütközne, vagy teljesítése kárt idézhet elő és a kormánytisztviselő a következményekkel számolhat, vagy az utasítás az érintettek jogos érdekeit sérti. Az utasítást adó felettes az utasítás írásba foglalását nem tagadhatja meg. A kormánytisztviselőt az írásba foglalásra irányuló kérelme miatt hátrány nem érheti.
+
+(5) Ha az utasítást adó a kormánytisztviselőnek nem közvetlen felettese, akkor a közvetlen felettes útján kell az írásba foglalást kérni.
+
+(6) A kormánytisztviselő, ha felettese döntésével, illetve utasításával nem ért egyet, jogosult különvéleményét írásba foglalni. Emiatt hátrány nem érheti.
+
+(7) Az utasítás jogszerű megtagadása nem menti fel a kormánytisztviselőt az alól, hogy munkavégzés céljából továbbra is rendelkezésre álljon, és a jogszerű utasításokat teljesítse.
+
+(8) Ha a kormánytisztviselő az utasítás teljesítésének jogszerű megtagadása következtében nem végez munkát, a kieső időre illetményre jogosult.
+
+(9) A kormánytisztviselő a munkáltató utasításától akkor térhet el, ha ezt a munkáltató károsodástól való megóvása feltétlenül megköveteli és a munkáltató értesítésére nincs mód. Az utasítástól való eltérésről a munkáltatót haladéktalanul tájékoztatni kell.
+
+79. § A kormánytisztviselő mentesül a rendelkezésre állási, illetőleg munkavégzési kötelezettségének teljesítése alól
+
+- a) keresőképtelensége időtartamára,
+- b) a külön jogszabály szerinti, az emberi reprodukciós eljárással összefüggő, egészségügyi intézményben történő kezelés időtartamára,
+- c) kötelező orvosi vizsgálata időtartamára,
+- d) a véradáshoz szükséges, legalább négy óra időtartamra,
+- e) a szoptató anya a szoptatás első hat hónapjában naponta kétszer egy, ikergyermek esetén naponta kétszer két órára, a kilencedik hónap végéig naponta egy, ikergyermek esetén naponta két órára,
+- f) hozzátartozója halálakor két munkanapra,
+- g) a 80. § (1) bekezdése szerinti továbbképzésben, valamint a 81. §-ban foglaltak szerint a képzésben való részvételhez szükséges időre,
+- h) önkéntes, illetőleg létesítményi tűzoltói szolgálat ellátása időtartamára,
+- i) bíróság vagy hatóság felhívására vagy az eljárásban való személyes részvételhez szükséges időtartamra,
+- j) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára, továbbá
+- k) e törvényben, valamint a közszolgálati szabályzatban meghatározott időtartamra.
+
+### Kormánytisztviselő képzése, továbbképzése
+
+80. § (1) A kormánytisztviselő jogosult az előmenetelhez, és köteles a központilag vagy az államigazgatási szerv által előírt képzésben, továbbképzésben vagy átképzésben – ideértve a közigazgatási vezetőképzést is – (a továbbiakban együtt: továbbképzés) részt venni.
+
+(2) A továbbképzést – kivéve, ha jogszabály másként rendelkezik – a Nemzeti Közszolgálati Egyetem biztosítja.
+
+(3) A kormánytisztviselőnek előírt továbbképzés és az ezzel összefüggő beszámolási vagy vizsgakötelezettség teljesítése miatt kieső munkaidőre járó illetményét az államigazgatási szerv köteles megtéríteni.
+
+(4) A továbbképzés költségeit a kormánytisztviselő köteles megtéríteni az államigazgatási szervnek, ha neki felróható okból a továbbképzést elmulasztja, illetve az előírt követelményeket nem teljesíti, vagy ha hivatalvesztés fegyelmi büntetéssel, méltatlanság jogcímén alapuló felmentéssel szűnt meg a kormányzati szolgálati jogviszonya, valamint arra figyelemmel szüntették meg kormányzati szolgálati jogviszonyát közös megegyezéssel, hogy a fontos és bizalmas munkakörbe történő áthelyezéséhez nem járult hozzá. Ha a kormánytisztviselő a továbbképzést a munkáltatónak felróható okból mulasztja el, illetve nem teljesíti, akkor a továbbképzés költségeit a munkáltató köteles megtéríteni. Nincs megtérítési kötelezettsége a kormánytisztviselőnek az iskolarendszeren kívüli kötelező továbbképzés költségei esetében, kivéve az idegen nyelvi képzést, valamint a külföldi képzést, továbbképzést.
+
+81. § (1) Ha a kormánytisztviselő képzésben – ide nem értve a 80. § (1) bekezdése szerinti továbbképzést – vesz részt és ez érinti a munkaidejét, köteles ezt engedélyeztetni a munkáltatójával. A munkáltató engedélye alapján a kormánytisztviselő mentesül a tanulmányok folytatásához szükséges időre a munkavégzési kötelezettsége alól, amelynek időtartamára a kormánytisztviselő illetményre jogosult. A kormánytisztviselő – tanulmányi szerződés vagy közszolgálati szabályzat eltérő rendelkezése hiányában – köteles ledolgozni a tanulmányi célú mentesítés időtartamát.
+
+(2) A mentesítés mértékét a munkáltató az oktatási intézmény által kibocsátott, a kötelező iskolai foglalkozás és szakmai gyakorlat időtartamáról szóló igazolásnak megfelelően állapítja meg.
+
+(3) A (2) bekezdésben foglaltakon túl a munkáltató vizsgánként – ha egy vizsganapon a kormánytisztviselőnek több vizsgatárgyból kell vizsgáznia, vizsgatárgyanként – a vizsga napját is beszámítva négy munkanapra köteles a kormánytisztviselőt mentesíteni a munkavégzési kötelezettsége alól. Vizsgának az oktatási intézmény által meghatározott számonkérés minősül.
+
+(4) A diplomamunka (szak- és évfolyamdolgozat) elkészítéséhez a munkáltató tíz munkanapra köteles a kormánytisztviselőt mentesíteni a munkavégzési kötelezettsége alól.
+
+(5) A munkáltató a kormánytisztviselő kérésének megfelelően köteles a (3)–(4) bekezdés szerint mentesíteni a kormánytisztviselőt munkavégzési kötelezettsége alól.
+
+### Tanulmányi szerződés
+
+82. § (1) A tanulmányi szerződésben a munkáltató vállalja, hogy a tanulmányok alatt támogatást nyújt, a kormánytisztviselő pedig arra kötelezi magát, hogy a megállapodás szerinti tanulmányokat folytatja és a képzettség megszerzése után a támogatás mértékével arányos időn – de legfeljebb öt éven – keresztül kormányzati szolgálati jogviszonyát lemondással nem szünteti meg. A tanulmányi szerződést írásba kell foglalni.
+
+(2) Nem köthető tanulmányi szerződés
+
+- a) jogszabály vagy közszolgálati szabályzat alapján járó kedvezmények biztosítására, továbbá,
+- b) ha a tanulmányok elvégzésére a munkáltató kötelezte a kormánytisztviselőt.
+
+(3) Tanulmányi szerződést csak a munkáltatói jogkör gyakorlójának előzetes engedélyével köthet a kormánytisztviselő más államigazgatási szervvel, illetőleg más munkáltatóval.
+
+(4) A tanulmányi szerződésben meg kell határozni a munkáltatót terhelő támogatás formáját és mértékét, továbbá – a támogatás mértékével arányosan – a kormánytisztviselő által a munkáltatónál kötelezően kormányzati szolgálati jogviszonyban töltendő idő tartamát, amely öt évnél hosszabb nem lehet.
+
+(5) A munkáltatónál kormányzati szolgálati jogviszonyban töltendő idő tartamába – a tanulmányi szerződés ellenkező kikötése hiányában – nem számít be a kormányzati szolgálati jogviszony szünetelésének az az esete, amelyre a kormánytisztviselőt szabadság nem illeti meg.
+
+(6) A munkáltató személyében bekövetkező változás esetén a tanulmányi szerződésből származó jogok és kötelezettségek az átvevő munkáltatóra átszállnak.
+
+(7) Amennyiben a munkáltató a támogatást nem biztosítja, vagy egyéb lényeges szerződésszegést követ el, a kormánytisztviselő mentesül a szerződésből folyó kötelezettségei alól, és a szerződésszegésből eredő esetleges kárát érvényesítheti.
+
+(8) Ha a támogatásban részesülő kormánytisztviselő tanulmányait nem megfelelő eredménnyel folytatja, nem lép a szerződés szerinti időpontban a munkáltatónál munkába, illetőleg a meghatározott időtartamot nem tölti le, vagy egyéb lényeges szerződésszegést követ el, a munkáltató követelheti a ténylegesen nyújtott támogatásnak megfelelő összeg megtérítését.
+
+(9) Amennyiben a támogatásban részesülő a szerződésben kikötött időtartamnak csak egy részét nem tölti le, megtérítési kötelezettsége ezzel arányos.
+
+(10) A tanulmányi szerződést mindkét fél felmondhatja, ha körülményeiben olyan lényeges változás következett be, amely a tanulmányi szerződésből eredő kötelezettség teljesítését lehetetlenné tenné, vagy annak teljesítése aránytalan sérelemmel járna.
+
+(11) A kormánytisztviselő felmondása esetén a munkáltató az általa nyújtott támogatást visszakövetelheti. A munkáltató a támogatást arányosan követelheti vissza, ha a kormánytisztviselő a szerződésben kikötött tartamnak csak egy részét tölti le. A munkáltató felmondása esetén a támogatás nem követelhető vissza.
+
+### A kormánytisztviselői hivatás etikai alapelvei
+
+83. § (1) A kormánytisztviselőre vonatkozó hivatásetikai alapelvek különösen a hűség és elkötelezettség, a nemzeti érdekek előnyben részesítése, az igazságos és méltányos jogszolgáltatás, a méltóság és tisztesség, az előítéletektől való mentesség, a pártatlanság, a felelősségtudat és szakszerűség, az együttműködés, az intézkedések megtételére irányuló arányosság és a védelem.
+
+(2) Az (1) bekezdésben foglalt hivatásetikai alapelveken túlmenően a vezetőkkel szemben további etikai alapelvek különösen a példamutatás, a szakmai szempontok érvényesítése és a számonkérési kötelezettség.
+
+(3) Az (1) és (2) bekezdésben meghatározott hivatásetikai elvek megsértése esetén az MKK etikai eljárás lefolytatására jogosult.
+
+(4) Az etikai eljárás eredménye alapján az MKK fegyelmi eljárást kezdeményezhet a kormánytisztviselő munkáltatójánál.
+
+### Együttalkalmazási tilalom, összeférhetetlenség
+
+84. § (1) Nem létesíthető kormánytisztviselői jogviszony, ha a kormánytisztviselő ezáltal hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne.
+
+(2) A külpolitikáért felelős miniszter a külszolgálati hálózat tekintetében – ha jogszabály másként nem rendelkezik – az (1) bekezdésben foglalt tilalom alól – különösen indokolt esetben – felmentést adhat.
+
+85. § (1) A kormánytisztviselő nem lehet helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó államigazgatási szerv illetékességi területén működik.
+
+(2) A kormánytisztviselő további jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet. A gyakorolható tevékenység végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a kormánytisztviselő munkaköri feladataival közvetlenül összefügg.
+
+(3) A kormánytisztviselő a (2) bekezdésben foglaltaktól eltérően a gyakorolható tevékenység, továbbá a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélye alapján létesíthet, ha a munkavégzés időtartama részben azonos a kormánytisztviselő beosztás szerinti munkaidejével.
+
+(4) A kormánytisztviselő
+
+- a) nem folytathat olyan tevékenységet, nem tanúsíthat olyan magatartást, amely hivatalához méltatlan, vagy amely pártatlan, befolyástól mentes tevékenységét veszélyeztetné;
+- b) pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti, illetve a helyi önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat;
+- c) nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag, kivéve, ha a gazdasági társaság önkormányzati, köztestületi többségi tulajdonban, vagy tartósan állami tulajdonban van, vagy az állami tulajdonos különleges jogokat biztosító részvény alapján delegálja, továbbá, ha a társaságban az állami közvetlen vagy közvetett befolyás mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább ötven százalék.
+
+(5) Nem keletkeztet összeférhetetlenséget az olyan állami befolyás gyakorlása következtében gazdasági társaságban vagy más szervezetben keletkező vezető tisztségviselői, illetve felügyelőbizottsági, audit bizottsági tagság, amelynek alapja az államháztartás, illetve a pénzügyi közvetítőrendszer stabilitásának erősítése érdekében hozott állami intézkedés, különös tekintettel az állami tőkeemelésre, kölcsönnyújtásra, kezesség-, illetve garanciavállalásra.
+
+86. § (1) A kormánytisztviselő köteles haladéktalanul írásban bejelenteni, ha vele szemben törvényben meghatározott összeférhetetlenségi ok merül fel, illetve ha kormánytisztviselői jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. A munkáltatói jogkör gyakorlója köteles haladéktalanul írásban felszólítani a kormánytisztviselőt az összeférhetetlenség megszüntetésére. Amennyiben a kormánytisztviselő az összeférhetetlenséget a felszólítás kézbesítésétől számított harminc napon belül nem szünteti meg, kormánytisztviselői jogviszonya megszűnik.
+
+(2) Ha a 84. § (1) bekezdése szerinti összeférhetetlenség a kormánytisztviselői jogviszony fennállása alatt keletkezik, akkor az érintettek megegyezése hiányában a munkáltatói jogkör gyakorlója dönti el, hogy melyik kormánytisztviselőnek szűnik meg a kormánytisztviselői jogviszonya.
+
+87. § (1) A vezetői munkakört betöltő kormánytisztviselő a gyakorolható tevékenység végzésére irányuló jogviszony kivételével további jogviszonyt nem létesíthet.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően a vezetői munkakört betöltő kormánytisztviselő a munkáltatói jogkör gyakorlójának az előzetes engedélye alapján
+
+- a) viselhet egyesületben, érdek-képviseleti szervezetben, valamint szövetkezetben tisztséget,
+- b) folytathat közérdekű önkéntes tevékenységet,
+- c) lehet alapítvány, közalapítvány kezelő szervezetének tagja, illetve elnöke,
+- d) elláthat edzői, versenybírói, játékvezetői tevékenységet,
+- e) folytathat tanszékvezetői tevékenységet,
+- f) lehet állami alapító vagy az általa létrehozott szervezet által önállóan, vagy más állami alapítóval, állami alapító által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított (köz)alapítványban felügyelő bizottsági tag.
+
+(3) Vezetői munkakört betöltő kormánytisztviselő összeférhetetlenségére az (1) és (2) bekezdésben meghatározottakon túlmenően egyebekben a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+
+### A vagyongyarapodás vizsgálata
+
+88. § A munkáltatói jogkör gyakorlója az állami adóhatóságnál a közélet tisztasága szempontjából jelentős érzékenységgel rendelkező munkakörben foglalkoztatott kormánytisztviselő és vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adózás rendjéről szóló törvény szerinti vizsgálatát a kormánytisztviselői jogviszony fennállása alatt ötévente, megszűnése esetén haladéktalanul kezdeményezi.
+
+### A munka- és pihenőidő
+
+### A napi munkaidő és az általános munkarend, a munkaidőkeret
+
+89. § (1) A teljes napi munkaidő napi nyolc óra (általános teljes napi munkaidő). A heti munkaidő heti negyven óra, hétfőtől csütörtökig 8.00–16.30 óráig, pénteken 8.00–14.00 óráig tart (általános munkarend).
+
+(2) A kinevezés az (1) bekezdésben foglalt, az adott munkakörre irányadó teljes napi munkaidőnél rövidebb napi munkaidőt is megállapíthat, ebben az esetben az egyébként járó illetményt arányosan csökkenteni kell (részmunkaidő).
+
+90. § (1) A munkáltató a kormánytisztviselő által teljesítendő munkaidőt munkaidőkeretben is meghatározhatja.
+
+(2) A munkaidőkeretben teljesítendő munkaidőt a munkaidőkeret tartama, a napi munkaidő és az általános munkarend alapul vételével kell megállapítani. Ennek során az általános munkarend szerinti munkanapra eső munkaszüneti napot figyelmen kívül kell hagyni.
+
+(3) A munkaidő (2) bekezdés szerinti meghatározásakor a távollét tartamát figyelmen kívül kell hagyni vagy az adott munkanapra irányadó beosztás szerinti napi munkaidő mértékével kell számításba venni. Munkaidő-beosztás hiányában a távollét tartamát a napi munkaidő mértékével kell figyelmen kívül hagyni vagy számításba venni.
+
+(4) A munkaidőkeret kezdő és befejező időpontját írásban meg kell határozni és közzé kell tenni.
+
+(5) A munkaidőkeret tartama – a 89. § (1) és (2) bekezdésében meghatározott időtartam figyelembevételével – legfeljebb négy hónap vagy tizenhat hét.
+
+### A munkaidő-beosztás szabályai
+
+91. § (1) A munkaidő-beosztás szabályait (munkarend) a munkáltatói jogkör gyakorlója állapítja meg.
+
+(2) A kormánytisztviselőre a kinevezéstől eltérő foglalkoztatás eseteiben (51–55. §) a munkavégzés helye szerinti munkarend az irányadó.
+
+(3) A munkáltató a munkaidőt az egészséges és biztonságos munkavégzés követelményére, valamint a munka jellegére figyelemmel osztja be.
+
+(4) A kormánytisztviselő munkaidő-beosztását a munkáltatói jogkör gyakorlója az általános munkarendtől eltérően is megállapíthatja.
+
+92. § (1) A kormánytisztviselő beosztás szerinti napi munkaideje – a részmunkaidőt kivéve – négy óránál rövidebb nem lehet.
+
+(2) A kormánytisztviselő beosztás szerinti
+
+- a) napi munkaideje legfeljebb tizenkét óra,
+- b) heti munkaideje legfeljebb negyvennyolc óra
+
+lehet.
+
+(3) A kormánytisztviselő beosztás szerinti napi vagy heti munkaideje a (2) bekezdésben meghatározott időtartamot legfeljebb egy órával meghaladhatja, ha a téli időszámítás kezdete a munkaidő-beosztás szerinti munkaidőre esik.
+
+(4) A kormánytisztviselő beosztás szerinti
+
+- a) napi munkaidejébe a 96. § (2) bekezdés a) pontjában,
+- b) heti munkaidejébe a 96. § (2) bekezdés a), c) és d) pontjában
+
+meghatározott rendkívüli munkaidő időtartamát is be kell számítani.
+
+(5) A kormánytisztviselő beosztás szerinti napi munkaidejébe az ügyelet, valamint a készenlét teljes tartamát be kell számítani, ha a munkavégzés tartama nem mérhető.
+
+(6) Egyenlőtlen munkaidő-beosztás alkalmazása esetén a (2) bekezdés b) pontjában foglalt rendelkezést azzal az eltéréssel kell alkalmazni, hogy a beosztás szerinti heti munkaidő tartamát átlagban kell figyelembe venni.
+
+(7) A 93. § (6) bekezdésében meghatározott rendelet szerinti munkarendet alkalmazó munkáltatónál – munkaidőkeret hiányában – a szombaton történő munkavégzéssel érintett naptári héten a (2) bekezdés b) pontja, valamint a 95. § (4) bekezdése nem irányadó.
+
+(8) A munkáltató – a felek megállapodása alapján – a napi munkaidőt legfeljebb két részletben is beoszthatja (osztott napi munkaidő). A beosztás szerinti napi munkaidők között legalább két óra pihenőidőt kell biztosítani.
+
+### Munkaszüneti nap
+
+93. § (1) Munkaszüneti nap: január 1., március 15., húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.
+
+(2) A Közszolgálati Tisztviselők Napja július 1-je, amely az (1) bekezdésben foglaltakon túl szintén munkaszüneti nap.
+
+(3) Munkaszüneti napra rendes munkaidő
+
+- a) a rendeltetése folytán e napon is működő munkáltatónál vagy munkakörben,
+- b) az idényjellegű,
+- c) társadalmi közszükségletet kielégítő vagy külföldre történő szolgáltatás nyújtásához – a szolgáltatás jellegéből eredően – e napon szükséges munkavégzés esetén,
+- d) külföldön történő munkavégzés során
+
+foglalkoztatott kormánytisztviselő számára osztható be.
+
+(4) A munkáltató vagy a munkakör akkor minősül a munkaszüneti napon is rendeltetése folytán működőnek, ha
+
+- a) a tevékenység igénybevételére a munkaszüneti naphoz közvetlenül kapcsolódó, helyben kialakult vagy általánosan elfogadott társadalmi szokásból eredő igény alapján, vagy
+- b) baleset, elemi csapás, súlyos kár, továbbá az egészséget vagy a környezetet fenyegető veszély megelőzése vagy elhárítása, továbbá a vagyonvédelem érdekében kerül sor.
+
+(5) A munkaszüneti napra vonatkozó beosztási szabályokat kell megfelelően alkalmazni, ha a munkaszüneti nap vasárnapra esik, továbbá a húsvét- és a pünkösdvasárnap tekintetében.
+
+(6) A foglalkoztatáspolitikáért felelős miniszter által évenként kiadott, az általános munkarendben foglalkoztatott munkavállalók munkaidő-beosztásának a munkaszüneti napok miatti változtatását szabályozó rendelet hatálya kiterjed a kormánytisztviselőkre.
+
+### A munkaközi szünet és a pihenőidő
+
+94. § (1) Ha a napi munkaidő a hat órát meghaladja, a kormánytisztviselő részére a munkaidőn belül – a munkavégzés megszakításával – napi harminc perc, valamint minden további három óra munkavégzés után a kormánytisztviselő részére legalább húsz perc munkaközi szünetet kell egybefüggően biztosítani.
+
+(2) Az (1) bekezdés alkalmazásakor a beosztás szerinti napi munkaidőbe a 96. § (2) bekezdés a) pontja szerinti rendkívüli munkaidő tartamát be kell számítani.
+
+95. § (1) A kormánytisztviselő részére a napi munkájának befejezése és a következő napi munkakezdés között legalább tizenegy óra egybefüggő pihenőidőt (napi pihenőidő) kell biztosítani.
+
+(2) A napi pihenőidő, ha az a nyári időszámítás kezdetének időpontjára esik, legalább tíz óra.
+
+(3) A kormánytisztviselőt a készenlétet követően, ha munkát nem végzett, nem illeti meg pihenőidő.
+
+(4) A kormánytisztviselőt hetenként két egymást követő pihenőnap illeti meg, ezek közül az egyiknek vasárnapra kell esnie (heti pihenőnap).
+
+### A rendkívüli munkaidő
+
+96. § (1) Rendkívüli esetben a kormánytisztviselő a beosztás szerinti munkaidején felül is köteles munkahelyén munkát végezni.
+
+(2) Rendkívüli munkaidő
+
+- a) a munkaidő-beosztástól eltérő munkaidő,
+- b) a munkaidőkereten felüli munkaidő,
+- c) az ügyelet tartama, továbbá
+- d) a készenlét alatt elrendelt munkavégzés esetén a munkahelyre érkezéstől a munkavégzés befejezéséig – ha a kormánytisztviselőnek több helyen kell munkát végeznie, az első munkavégzési helyre érkezéstől az utolsó munkavégzési helyen történő munkavégzés befejezéséig – terjedő időtartam.
+
+(3) Nem minősül rendkívüli munkaidőnek, ha a kormánytisztviselő az engedélyezett távollét idejét a munkáltatóval történt megállapodás alapján ledolgozza.
+
+(4) A rendkívüli munkaidőt a kormánytisztviselő kérése esetén írásban kell elrendelni. Az ilyen munkavégzés elrendelésének, nyilvántartásának és elszámolásának rendjét a hivatali szervezet vezetője állapítja meg.
+
+(5) Nem korlátozott a rendkívüli munkaidő elrendelése baleset, elemi csapás, súlyos kár, az egészséget vagy a környezetet fenyegető közvetlen és súlyos veszély megelőzése, elhárítása érdekében.
+
+(6) Munkaszüneti napon rendkívüli munkaidő
+
+- a) a rendes munkaidőben e napon is foglalkoztatható kormánytisztviselő számára, vagy
+- b) az (5) bekezdésben meghatározott esetben
+
+rendelhető el.
+
+(7) A rendkívüli munkaidő elrendelése nem veszélyeztetheti a kormánytisztviselő testi épségét, egészségét, illetőleg nem jelenthet személyi, családi és egyéb körülményeire tekintettel aránytalan terhet.
+
+(8) Teljes napi munkaidő esetén naptári évenként kettőszáz óra rendkívüli munkaidő rendelhető el.
+
+(9) A (8) bekezdésben foglaltakat arányosan kell alkalmazni, ha
+
+- a) a kormányzati szolgálati jogviszony év közben kezdődött,
+- b) határozott időre, illetve
+- c) részmunkaidőre jött létre.
+
+### Ügyelet és készenlét
+
+97. § (1) Rendkívüli esetben a kormánytisztviselő a beosztás szerinti munkaidején felül is köteles meghatározott ideig és helyen a munkavégzésre rendelkezésre állni.
+
+(2) Négy órát meghaladó időtartamú rendelkezésre állás
+
+- a) a társadalmi közszükségletet kielégítő szolgáltatás folyamatos biztosítása, továbbá
+- b) baleset, elemi csapás, súlyos kár, valamint az egészséget vagy a környezetet fenyegető veszély megelőzése, illetve elhárítása
+
+érdekében rendelhető el.
+
+(3) A kormánytisztviselő a rendelkezésre állás tartama alatt köteles munkára képes állapotát megőrizni és a munkáltató utasítása szerint munkát végezni.
+
+(4) A munkáltató a kormánytisztviselő számára meghatározhatja a rendelkezésre állás helyét (ügyelet), egyébként a tartózkodási helyét a kormánytisztviselő határozza meg oly módon, hogy a munkáltató utasítása esetén haladéktalanul rendelkezésre álljon (készenlét).
+
+(5) A rendelkezésre állás elrendelésére a 96. § (4) bekezdésének rendelkezéseit megfelelően alkalmazni kell.
+
+(6) A rendelkezésre állás időtartamát legalább egy héttel korábban, egy hónapra előre közölni kell. Ettől a munkáltató – különösen indokolt esetben – eltérhet. Az eltérés során az egészséges és biztonságos munkavégzés követelményeire figyelemmel kell lenni.
+
+(7) Az ügyelet időtartama – a 92. § (2) bekezdés a) pontjában foglaltaktól eltérően – nem haladhatja meg a huszonnégy órát, amelybe az ügyelet megkezdésének napjára beosztott rendes, illetőleg elrendelt rendkívüli munkaidő tartamát be kell számítani.
+
+(8) A készenlét havi időtartama a százhatvannyolc órát nem haladhatja meg, amelyet munkaidőkeret alkalmazása esetén átlagban kell figyelembe venni.
+
+(9) Készenlét a heti pihenőnap (heti pihenőidő) időtartama alatt csak a kormánytisztviselő hozzájárulásával rendelhető el, ha az elrendelést megelőző százhatvannyolc órás időszakban a kormánytisztviselő a heti pihenőnapján készenlétet teljesített.
+
+### A rendkívüli munkaidő, az ügyelet, a készenlét, valamint a munkaszüneti napi rendes munkaidőben történő munkavégzés ellenértéke
+
+98. § (1) A kormánytisztviselőt rendkívüli munkaidő teljesítése esetén annak időtartamával azonos mértékű szabadidő illeti meg.
+
+(2) Az (1) bekezdéstől eltérően a kormánytisztviselőnek
+
+- a) a heti pihenőnapon teljesített rendkívüli munkaidő ellenértékeként a munkaidő időtartama kétszeresének,
+- b) a munkaszüneti napon teljesített rendkívüli munkaidő ellenértékeként a munkaidő időtartama háromszorosának
+
+megfelelő mértékű szabadidő jár.
+
+(3) A kormánytisztviselőt a napi munkaidőn túl teljesített ügyeletért, készenlétért legfeljebb annak időtartamával megegyező mértékű szabadidő illeti meg. Ha az ügyeletre, készenlétre a kormánytisztviselő heti pihenőnapján, illetve munkaszüneti napon kerül sor, részére a (2) bekezdés szerinti szabadidő jár.
+
+(4) A rendszeresen rendkívüli munkaidőt teljesítő kormánytisztviselő számára legfeljebb évi huszonöt munkanap szabadidő-átalány állapítható meg.
+
+(5) A vezetői munkakörben lévő kormánytisztviselő részére akkor jár a rendkívüli munkaidőért szabadidő, illetve szabadidő-átalány, ha ezt a közszolgálati szabályzat megállapítja.
+
+(6) Munkaszüneti napon rendes munkaidőben történő munkavégzésre kötelezett kormánytisztviselőt a teljesített munkavégzés időtartama kétszeresének megfelelő mértékű szabadidő illeti meg.
+
+(7) A szabadidőt a rendkívüli munkaidő, illetve a (6) bekezdés szerinti munkaidő teljesítését követően legkésőbb harminc napon belül kell kiadni, ha ez nem lehetséges, meg kell váltani. A megváltás mértéke a kormánytisztviselő kifizetéskori illetményének a szabadidőre járó arányos összege.
+
+### Az egyes kormánytisztviselői csoportokra vonatkozó különös rendelkezések
+
+99. § (1) A munka- és pihenőidőre vonatkozó szabályokat a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni
+
+- a) a várandósság megállapításától a gyermek hároméves koráig,
+- b) a gyermekét egyedül nevelő kormánytisztviselő esetén gyermeke hároméves koráig, vagy
+- c) a jogszabályban meghatározott egészségkárosító kockázat fennállásakor.
+
+(2) Az (1) bekezdésben meghatározott esetben
+
+- a) egyenlőtlen munkaidő-beosztás csak a kormánytisztviselő hozzájárulása esetén alkalmazható,
+- b) a heti pihenőnapok egyenlőtlenül nem oszthatók be,
+- c) rendkívüli munkaidő vagy készenlét nem rendelhető el.
+
+(3) Az (1) bekezdés a) és b) pontjában meghatározott kormánytisztviselő számára éjszakai munka nem rendelhető el.
+
+(4) Az (1) bekezdés c) pontjában meghatározott esetben a kormánytisztviselő beosztás szerinti napi munkaideje éjszakai munkavégzés során a nyolc órát nem haladhatja meg.
+
+(5) A gyermekét egyedül nevelő kormánytisztviselő számára – gyermeke hároméves korától négyéves koráig – rendkívüli munkaidő vagy készenlét – a 96. § (5) bekezdésében foglaltakat kivéve – csak hozzájárulásával rendelhető el.
+
+### A szabadság
+
+100. § (1) A kormánytisztviselőnek a munkában töltött idő alapján minden naptári évben szabadság jár, amely alap- és pótszabadságból áll.
+
+(2) Az (1) bekezdésben foglaltakon túl szabadság jár
+
+- a) a munkaidő-beosztás alapján történő munkavégzési kötelezettség alóli mentesülés,
+- b) a szülési szabadság,
+- c) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság [111. §, 113. § (1) bekezdése] első hat hónapjának,
+- d) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság,
+- e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartamára,
+- f) a 79. § a), b), h) és j) pontjaiban meghatározott esetekben, valamint
+- g) minden olyan munkában nem töltött időre, amelyre a kormánytisztviselő illetményre jogosult [144. § (3) bekezdése].
+
+### Alap- és pótszabadság
+
+101. § (1) A kormánytisztviselőt évi huszonöt munkanap alapszabadság illeti meg.
+
+(2) A kormánytisztviselőnek az alapszabadságon felül besorolásától függően pótszabadság jár.
+
+(3) A felsőfokú iskolai végzettségű kormánytisztviselő esetén a pótszabadság mértéke évente
+
+- a) fogalmazó besorolásnál három munkanap,
+- b) tanácsos besorolásnál öt munkanap,
+- c) vezető-tanácsos besorolásnál hét munkanap,
+- d) főtanácsos besorolásnál kilenc munkanap,
+- e) vezető-főtanácsos besorolásnál tizenegy munkanap.
+
+(4) A középiskolai végzettségű kormánytisztviselő esetén a pótszabadság mértéke évente
+
+- a) előadó besorolásnál öt munkanap,
+- b) főelőadó besorolásnál nyolc munkanap,
+- c) főmunkatárs besorolásnál tíz munkanap.
+
+(5) A vezetői munkakört betöltő kormánytisztviselőt a (3) bekezdésben szereplő pótszabadság helyett vezetői pótszabadság illeti meg, amelynek mértéke évente
+
+- a) osztályvezetőnél tizenegy munkanap,
+- b) főosztályvezető-helyettesnél tizenkét munkanap,
+- c) főosztályvezetőnél tizenhárom munkanap.
+
+(6) Ha a föld alatt állandó jelleggel, illetve az ionizáló sugárzásnak kitett munkahelyen dolgozó kormánytisztviselő naponta legalább három órán keresztül tevékenységét ionizáló sugárzásnak kitett munkakörülmények között végzi, évenként öt munkanap pótszabadságra jogosult. Ha a kormánytisztviselő ilyen munkahelyen legalább öt évet eltöltött, évenként tíz munkanap pótszabadság illeti meg.
+
+(7) A sugárártalomnak kitett munkahelyen eltöltött napi munkaidőtől függetlenül a (6) bekezdésben meghatározott pótszabadság megilleti azt a kormánytisztviselőt is, akit rendszeres kettős egészségi ártalomnak kitett munkakörben foglalkoztatnak, feltéve, hogy az egyik egészségi ártalom sugárártalom.
+
+102. § (1) A kormánytisztviselőnek a tizenhat évesnél fiatalabb
+
+- a) egy gyermeke után kettő,
+- b) két gyermeke után négy,
+- c) kettőnél több gyermeke után összesen hét
+
+munkanap pótszabadság jár.
+
+(2) Az (1) bekezdés szerinti pótszabadság fogyatékos gyermekenként két munkanappal nő, ha a kormánytisztviselő gyermeke fogyatékos.
+
+(3) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
+
+(4) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig, öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+
+(5) A kormánytisztviselőnek, ha a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította, évenként öt munkanap pótszabadság jár.
+
+### A szabadság kiadása
+
+103. § (1) A munkáltatói jogkör gyakorlója – a kormánytisztviselő igényének megismerése után – a tárgyévben február végéig köteles éves szabadságolási tervet (a továbbiakban: szabadságolási terv) készíteni a szabadságok tárgyévi ütemezéséről, s arról a kormánytisztviselőt tájékoztatja.
+
+(2) A szabadság kiadásának időpontját – a kormánytisztviselő előzetes meghallgatása után – a szabadságolási terv alapján a munkáltatói jogkör gyakorlója határozza meg.
+
+(3) A szabadságot kettőnél több részletben csak a kormánytisztviselő kérésére lehet kiadni.
+
+(4) A kormánytisztviselő kérelmére az alapszabadság kettőötödét – a kormányzati szolgálati jogviszony első három hónapját kivéve – a szabadságolási tervtől eltérően a kormánytisztviselő által kért időpontban kell kiadni. A kormánytisztviselőnek erre vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie. Ha a kormánytisztviselőt érintő olyan körülmény merül fel, amely miatt a munkavégzési kötelezettség teljesítése számára személyi, illetve családi körülményeire tekintettel aránytalan vagy jelentős sérelemmel járna, a kormánytisztviselő erről haladéktalanul értesíti a munkáltatót. Ebben az esetben a munkáltató az alapszabadság kettőötödéből összesen három munkanapot – legfeljebb három alkalommal – a kormánytisztviselő kérésének megfelelő időpontban, a tizenöt napos bejelentési határidőre vonatkozó szabály mellőzésével köteles kiadni. A kormánytisztviselő a munkáltató felszólítása esetén a körülmény fennállását a munkába állásakor haladéktalanul igazolni köteles.
+
+(5) A szabadságolási tervben foglaltaktól csak rendkívül indokolt esetben lehet eltérni és ebben az esetben a kormánytisztviselő – kivéve, ha az eltérésre a kormánytisztviselő kérelmére került sor – jogosult az ezzel összefüggésben felmerülő kára, költségei megtérítésére.
+
+(6) A munkáltatói jogkör gyakorlója a kormánytisztviselő már megkezdett szabadságát kivételesen fontos érdekből megszakíthatja. Ebben az esetben a szabadság alatti tartózkodási helyről a munkahelyre, illetve a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be. A kormánytisztviselőnek a megszakítással összefüggésben felmerült kárát, illetve költségeit az államigazgatási szerv köteles megtéríteni.
+
+104. § (1) A szabadságot esedékességének évében kell kiadni.
+
+(2) A munkáltatói jogkör gyakorlója
+
+- a) szolgálati érdek esetén a szabadságot a tárgyévet követő év január 31-ig, kivételesen fontos szolgálati érdek esetén legkésőbb március 31-ig,
+- b) a kormánytisztviselő betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül
+
+adja ki, ha az esedékesség éve eltelt.
+
+(3) A (2) bekezdés a) pontjában meghatározott szolgálati érdeknek minősül különösen
+
+- a) ha a szabadság kiadása miatt nem biztosítható a szervezet alapfeladatainak folyamatos működése, vagy
+- b) az előre nem tervezhető, rendkívüli feladatok határidőre történő ellátása.
+
+(4) A (2) bekezdés a) pontjában meghatározott kivételesen fontos szolgálati érdeknek minősül az államigazgatási szerv működési körében fellépő veszélyhelyzet (baleset, elemi csapás, súlyos kár).
+
+(5) A tárgyévet követő hónap végéig a munkáltatói jogkör gyakorlója megállapítja a kormánytisztviselő tárgyévben igénybe vett, illetve ki nem adott szabadságának mértékét. A tárgyévben ki nem adott szabadságot a következő évben járó szabadság mértékéhez hozzászámítja.
+
+(6) A 192. §-ban foglaltaktól eltérően
+
+- a) a szabadság kiadására vonatkozó kormánytisztviselői igény a kormányzati szolgálati jogviszony fennállása alatt nem évül el;
+- b) a szabadság megváltásával kapcsolatos kormánytisztviselői igény elévülése a kormányzati szolgálati jogviszony megszűnésének napján kezdődik.
+
+(7) Az esedékesség évében kell kiadottnak tekinteni a szabadságot, ha igénybevétele az esedékesség évében megkezdődik és a szabadság következő évben kiadott része nem haladja meg az öt munkanapot.
+
+105. § (1) A szabadság kiadásánál a munkarend (munkaidő-beosztás) szerinti munkanapokat kell figyelembe venni.
+
+(2) A heti kettőnél több pihenőnapot biztosító munkaidő-beosztás esetén a szabadság kiadása tekintetében a hét minden napja munkanapnak számít, kivéve a kormánytisztviselő két pihenőnapját, valamint a munkaszüneti napot.
+
+(3) Annak a kormánytisztviselőnek, akinek a munkaidő-beosztása nem biztosít hetenként két pihenőnapot, úgy kell számítani a szabadságát, hogy azonos naptári időszakra (hétre) mentesüljön a munkavégzés alól, mint az ötnapos munkahéttel dolgozók.
+
+106. § (1) A kormánytisztviselő részére, ha a kormányzati szolgálati jogviszonya év közben kezdődött vagy szűnt meg, a szabadság arányos része jár.
+
+(2) A fél napot elérő töredéknap egész munkanapnak számít.
+
+(3) Ha a szabadság mértékét érintő változásra év közben kerül sor, akkor a kormánytisztviselő számára a szabadság arányos része jár.
+
+107. § (1) A szabadságot – a (2) bekezdést kivéve – megváltani nem lehet.
+
+(2) A kormányzati szolgálati jogviszony megszűnésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt meg kell váltani. A gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően, ha a kormánytisztviselő a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani.
+
+(3) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya megszűnéséig több szabadságot vett igénybe annál, mint ami az államigazgatási szervnél töltött időre megilletné, a különbözetre kifizetett illetményt köteles visszafizetni.
+
+(4) Nem követelhető vissza a túlfizetés, ha a kormányzati szolgálati jogviszony a kormánytisztviselő nyugdíjasnak minősülése miatt, vagy halála, illetve az államigazgatási szerv jogutód nélküli megszűnése miatt szűnt meg.
+
+(5) Ha a kormánytisztviselő az esedékesség évében a részére járó szabadságnál több szabadságban részesült, a kormánytisztviselő a következő évben arányosan kevesebb szabadságra jogosult.
+
+### Az igazgatási szünet
+
+108. § A Kormány a központi államigazgatási szervekre, azok területi és helyi szerveire nézve igazgatási területenként rendeletben megállapíthatja azt az időszakot (igazgatási szünet), amely alatt a rendes szabadságot ki kell adni. Az államigazgatási szerv hivatali szervezetének vezetője, a Kormány által megállapított igazgatási szünet időtartamán belül, az egyes szervezeti egységek esetében eltérő időszakban, illetve időtartamban határozhatja meg a szabadság kiadását, illetve kivételét. Az ilyen módon kiadott, illetve kivett szabadság nem haladhatja meg a kormánytisztviselő tárgyévre megállapított alapszabadságának a háromötödét.
+
+### Betegszabadság
+
+109. § (1) A munkáltató a kormánytisztviselő számára a betegség miatti keresőképtelenség időtartamára naptári évenként tizenöt munkanap betegszabadságot ad ki.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően nem jár betegszabadság a társadalombiztosítási szabályok szerinti üzemi baleset és foglalkozási betegség miatti keresőképtelenség, valamint a várandósság miatti keresőképtelenség időtartamára.
+
+(3) Év közben kezdődő kormányzati szolgálati jogviszony esetén a kormánytisztviselő a betegszabadság arányos részére jogosult.
+
+(4) A betegszabadság kiadásánál a 105. §-ban foglalt rendelkezéseket kell azzal az eltéréssel alkalmazni, ha a kormánytisztviselő a munkaszüneti nap miatt mentesülne a munkavégzési kötelezettsége alól, ezt a napot munkanapként kell figyelembe venni.
+
+(5) A betegszabadság tekintetében a 106. § (2) bekezdése megfelelően irányadó.
+
+### Szülési szabadság, fizetés nélküli szabadság
+
+110. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult.
+
+(2) A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette.
+
+(3) A szülési szabadságot – eltérő megállapodás hiányában – úgy kell kiadni, hogy legfeljebb négy hét a szülés várható időpontja elé essen.
+
+(4) A szülési szabadság igénybe nem vett részét, ha a gyermeket a koraszülöttek ápolására fenntartott intézetben gondozzák, a szülést követő egy év elteltéig a gyermeknek az intézetből történt elbocsátása után is igénybe lehet venni.
+
+(5) A szülési szabadság időtartamát, a kifejezetten munkavégzéshez kapcsolódó jogosultságot kivéve, munkában töltött időnek kell tekinteni.
+
+111. § A kormánytisztviselő a gyermeke harmadik életéve betöltéséig – a gyermek gondozása céljából – fizetés nélküli szabadságra jogosult, amelyet a kormánytisztviselő kérésének megfelelő időpontban kell kiadni.
+
+112. § (1) A 110–111. §-ban meghatározott szabadság megszűnik
+
+- a) a gyermek halva születése esetén,
+- b) ha a gyermek meghal, a halált követő tizenötödik napon,
+- c) ha a gyermeket – a külön jogszabályban foglaltak szerint – ideiglenes hatállyal elhelyezték, átmeneti vagy tartós nevelésbe vették, továbbá harminc napot meghaladóan bentlakásos szociális intézményben helyezték el, a gyermek elhelyezését követő napon.
+
+(2) Az (1) bekezdésben megjelölt esetben a szabadság időtartama – a szülést követően – hat hétnél rövidebb nem lehet.
+
+113. § (1) A kormánytisztviselőnek gyermeke személyes gondozása érdekében – a 111. §-ban foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély folyósításának időtartama alatt.
+
+(2) A kormánytisztviselőnek hozzátartozója tartós – előreláthatólag harminc napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre fizetés nélküli szabadság jár. A tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
+
+(3) A kormánytisztviselőnek fizetés nélküli szabadság jár a tényleges önkéntes tartalékos katonai szolgálatteljesítés időtartamára.
+
+(4) A kormánytisztviselőnek fizetés nélküli szabadság jár a külszolgálat időtartamára, ha házastársa vagy élettársa külszolgálatot teljesít.
+
+114. § (1) A kormánytisztviselő a fizetés nélküli szabadság igénybevételét legalább tizenöt nappal korábban köteles írásban bejelenteni.
+
+(2) A fizetés nélküli szabadság a kormánytisztviselő által megjelölt időpontban, de legkorábban a szabadság megszüntetésére irányuló jognyilatkozat közlésétől számított harmincadik napon szűnik meg.
+
+(3) Az (1) és (2) bekezdés határidőre vonatkozó rendelkezéseit nem kell alkalmazni a 113. § (3) bekezdése szerinti fizetés nélküli szabadságra.
+
+### A munka- és pihenőidő nyilvántartása
+
+115. § (1) A munkáltató köteles nyilvántartani
+
+- a) a rendes és rendkívüli munkaidő,
+- b) a készenlét,
+- c) a szabadság, valamint
+- d) az egyéb munkaidő-kedvezmények
+
+időtartamát.
+
+(2) A nyilvántartásból naprakészen megállapíthatónak kell lennie a teljesített rendes és rendkívüli munkaidő, valamint a készenlét kezdő és befejező időpontjának is.
+
+(3) Az (1) bekezdés a) pontja szerinti nyilvántartás – a (2) bekezdésben foglaltaktól eltérően – az írásban közölt munkaidő-beosztás hónap végén történő igazolásával és a változás naprakész feltüntetésével is vezethető.
+
+### Az előmenetel
+
+116. § A kormánytisztviselőt az e törvényben meghatározott feltételek teljesítése esetén – a 119. §-ban foglaltak kivételével – iskolai végzettségének és a kormányzati szolgálati jogviszonyban eltöltött idejének megfelelően kell besorolni.
+
+117. § (1) A pályakezdő kormánytisztviselő – a 120. § (2) és (3) bekezdései kivételével – gyakornoki besorolást kap.
+
+(2) A felsőfokú iskolai végzettségű kormánytisztviselő
+
+- a) egy év gyakornoki besorolásban töltött idő után fogalmazó,
+- b) három év kormányzati szolgálati jogviszonyban töltött idő után tanácsos,
+- c) nyolc év kormányzati szolgálati jogviszonyban töltött idő után vezető-tanácsos,
+- d) tizenhat év kormányzati szolgálati jogviszonyban töltött idő után főtanácsos,
+- e) huszonöt év kormányzati szolgálati jogviszonyban töltött idő után vezető-főtanácsos
+
+besorolást kap.
+
+(3) A középiskolai végzettségű kormánytisztviselő
+
+- a) két év gyakornoki besorolásban töltött idő után előadó,
+- b) tizenkét év kormányzati szolgálati jogviszonyban töltött idő után főelőadó,
+- c) harmincegy év kormányzati szolgálati jogviszonyban töltött idő után főmunkatárs
+
+besorolást kap.
+
+118. § (1) A kormánytisztviselőt – a 117. §-ban meghatározott kormányzati szolgálati jogviszonyban töltött idő megszerzését követően – magasabb besorolási fokozatba kell sorolni, ha
+
+- a) a feladatainak ellátására – a reá irányadó öregségi nyugdíjkorhatár betöltését megelőző öt év kivételével – megfelelt fokozatú minősítést kap, és
+- b) a következő besorolási fokozathoz jogszabályban előírt feltételeket, vagy
+- c) az államigazgatási szerv által írásban meghatározott feltételeket teljesítette.
+
+(2) A kormányzati szolgálati jogviszonyban töltött idő 117. § szerinti számításánál a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamot – kivéve a sor- és tartalékos katonai, polgári szolgálat idejét, a tizennégy éven aluli gyermek ápolásának, gondozásának céljából, valamint a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát – figyelmen kívül kell hagyni.
+
+(3) A kormánytisztviselőnek fogalmazó besorolásához egy éven belül, előadó besorolásához két éven belül kell közigazgatási alapvizsgát tennie. Közigazgatási alapvizsgát – ha jogszabály előírja – nem kormányzati szolgálati jogviszonyban álló is tehet.
+
+(4) A közigazgatási alapvizsga letételére előírt határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
+
+(5) Ha a gyakornok a közigazgatási alapvizsgát a (3) bekezdésben előírt határidőt követő hat hónapon belül nem teszi le, kormányzati szolgálati jogviszonya megszűnik.
+
+(6) A Kormány rendeletben állapítja meg a közigazgatási alapvizsga alóli mentesítés eseteit.
+
+(7) A pályakezdőként kinevezett kormánytisztviselőnek a tanácsos besorolási fokozatba soroláshoz közigazgatási szakvizsgát kell tennie. Közigazgatási szakvizsga hiányában a kormánytisztviselő nem sorolható a tanácsos besorolási fokozatba.
+
+(8) Közigazgatási szakvizsgát az az I. besorolási osztályba sorolt kormánytisztviselő tehet, aki közigazgatási alapvizsgát tett vagy az alól mentesült és közigazgatási szervnél szerzett legalább kétéves gyakorlattal rendelkezik. A vezető kormánytisztviselő közigazgatási szervnél szerzett gyakorlat nélkül is tehet közigazgatási szakvizsgát.
+
+(9) E törvény alkalmazásában közigazgatási szakvizsgával egyenértékű a jogi szakvizsga, valamint az Országos Közigazgatási Vizsgabizottság (a továbbiakban: OKV) elnöksége által teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat és az annak alapján adott mentesítés. Az OKV elnöksége részben is közigazgatási jellegűnek minősítheti a kormánytisztviselő tudományos fokozatát, ebben az esetben a kormánytisztviselő a közigazgatási szakvizsgának abból a részéből tesz vizsgát, amelyre a mentesítés nem vonatkozik.
+
+(10) Közigazgatási szakvizsgát – ha jogszabály előírja – nem kormányzati szolgálati jogviszonyban álló is tehet, feltéve, ha közigazgatási alapvizsgát tett vagy az alól mentesült.
+
+(11) Az (1) bekezdés c) pontjában említett feltételek a kormánytisztviselő feladatának ellátásához nélkülözhetetlen ismeretek – képzés, továbbképzés, átképzés formájában történő – megszerzésére irányulhatnak.
+
+(12) Az OKV elnöke különösen indokolt esetben engedélyezheti a közigazgatási szakvizsga teljesítését közigazgatási szervnél szerzett kétéves gyakorlat hiányában is.
+
+119. § A kormánytisztviselő az I. besorolási osztályba csak akkor sorolható, ha a feladatkörére előírt szakirányú felsőfokú iskolai végzettséget szerzett.
+
+120. § (1) Ha a kormánytisztviselő a 118. § (1) bekezdés b) vagy c) pontjában meghatározott feltételeket a következő besorolási fokozathoz előírt várakozási idő lejárta előtt teljesítette, a magasabb besorolási fokozat legalacsonyabb fizetési fokozatába kell sorolni. Ha a vezető-főtanácsos, illetve a főmunkatárs besorolási fokozatba sorolt kormánytisztviselő legmagasabb fokozatú minősítést kap, eggyel magasabb fizetési fokozatba sorolható.
+
+(2) Azt a kormánytisztviselőt, aki mentesül a közigazgatási alapvizsga alól, a fogalmazó besorolási fokozat 2-es fizetési fokozatába kell sorolni, akkor is, ha kormányzati szolgálati jogviszonyban töltött ideje az e besorolási fokozathoz előírt időtartamot nem éri el.
+
+(3) Azt a pályakezdő kormánytisztviselőt, aki bizonyítványát, oklevelét kiváló vagy annak megfelelő minősítéssel szerezte meg, a fogalmazó besorolási fokozat 2-es fizetési fokozatába, illetve előadó besorolási fokozat 2-es fizetési fokozatába kell sorolni.
+
+(4) A (2) és (3) bekezdésben meghatározott besorolás esetén a kormánytisztviselő mindaddig nem léphet magasabb besorolási fokozatba, ameddig a kormányzati szolgálati jogviszonyban töltött ideje, illetve a munkáltatói intézkedés alapján arra jogosultságot nem szerez.
+
+121. § (1) Ha a kormánytisztviselő megfeleltnél alacsonyabb fokozatú minősítést kap, a következő besorolási fokozathoz előírt várakozási ideje legfeljebb egy évvel meghosszabbítható.
+
+(2) Ha a 118. § (1) bekezdés b) vagy c) pontjaiban meghatározott feltételeket a kormánytisztviselő nem teljesíti az előírt határidőre, magasabb besorolási fokozatba sorolásánál nem vehető figyelembe az előírt határidőtől a feltétel teljesítéséig eltelt időtartam.
+
+122. § (1) A nem pályakezdő kormánytisztviselőt kinevezésekor, áthelyezésekor a 116. § rendelkezésének megfelelően kell besorolni.
+
+(2) Az (1) bekezdés szerint kinevezett, áthelyezett kormánytisztviselő a közigazgatási alapvizsgát a 118. § (3) bekezdésében meghatározott idő alatt köteles teljesíteni; ha e kötelezettségének nem tesz eleget, kormányzati szolgálati jogviszonya megszűnik.
+
+(3) Ha a nem pályakezdő kormánytisztviselő kinevezésekor, áthelyezésekor, átsorolásakor nem rendelkezik közigazgatási szakvizsgával, akkor a közigazgatási szakvizsgát kinevezésének, áthelyezésének, átsorolásának időpontjától számított három éven belül köteles letenni. A határidő számítására a 118. § (4) bekezdését megfelelően alkalmazni kell.
+
+(4) A (3) bekezdésben meghatározott határidő eredménytelen elteltét követően a kormánytisztviselő magasabb fizetési, besorolási fokozatba nem sorolható a közigazgatási szakvizsga teljesítéséig. A közigazgatási szakvizsga teljesítése után a 116. § rendelkezésének megfelelően kell besorolni és illetményét megállapítani.
+
+(5) A kormánytisztviselő az (1)–(3) bekezdésben, a 119. §-ban meghatározott esetekben – a 121. § (1) bekezdés esetét kivéve – a kormányzati szolgálati jogviszonyban töltött ideje alapján jogosult az előmenetelre.
+
+(6) Ha az (1) bekezdés szerint kinevezett, áthelyezett kormánytisztviselő gyakornoki vagy fogalmazói besorolású és kinevezésekor, áthelyezésekor nem rendelkezik közigazgatási szakvizsgával, akkor a (3) bekezdés szerint köteles közigazgatási szakvizsgát tenni, előmenetelére a (4) és (5) bekezdést megfelelően alkalmazni kell.
+
+(7) Ha a 38. § (2) bekezdése alapján határozott időre létesített kormányzati szolgálati jogviszony időtartama az egy évet meghaladja, a kormánytisztviselő előmenetelére e törvény rendelkezéseit alkalmazni kell. Ha a kormánytisztviselő ismételten határozott idejű kormányzati szolgálati jogviszonyt létesít, az egyéves határidő számítása szempontjából a határozott idejű jogviszonyok időtartamát össze kell számítani.
+
+123. § A Miniszterelnökség és a minisztériumok kivételével a központi államigazgatási szervek esetében jogszabály a kormánytisztviselő tevékenységének jellegére utaló – a besorolási fokozatot nem érintő – munkaköri megnevezést állapíthat meg.
+
+124. § (1) A pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A külön jogszabály meghatározott iskolai végzettségű kormánytisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
+
+(2) A munkáltató a munkakörre előírt ügyviteli vizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
+
+### A címek
+
+125. § (1) A Miniszterelnökségen a Miniszterelnökséget vezető államtitkár miniszterelnökségi főtanácsadói, miniszterelnökségi tanácsadói, a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban a miniszter kormány-főtanácsadói és kormánytanácsadói, a miniszteri kabinetben a miniszter miniszteri főtanácsadói, miniszteri tanácsadói (a továbbiakban együtt: főtanácsadó, tanácsadó) munkaköröket létesíthet.
+
+(2) A főtanácsadói, tanácsadói munkakör betöltésére szóló kinevezés határozatlan időre szól. A főtanácsadói vagy tanácsadói munkakörben foglalkoztatott kormánytisztviselő – tekintet nélkül a kormányzati szolgálati jogviszonyban eltöltött idejére – vezető-főtanácsosi vagy főtanácsosi besorolást kap. A vezető-főtanácsosi besorolású kormánytisztviselő főosztályvezetői, a főtanácsosi besorolású kormánytisztviselő főosztályvezető-helyettesi illetményre jogosult.
+
+(3) Az (1) bekezdésben foglaltak szerint megállapított munkaköröket a szervezeti és működési szabályzat (ügyrend) mellékletében fel kell tüntetni.
+
+(4) Főtanácsadói munkakör ellátására kinevezést az kaphat, aki feladata ellátásához szükséges egyetemi szintű végzettséggel és szakirányú szakképzettséggel, jogi vagy közigazgatási szakvizsgával, vagy a közigazgatási szakvizsga alól adott OKV elnökségi teljes körű mentesítéssel és legalább ötéves szakmai gyakorlattal rendelkezik.
+
+(5) Tanácsadói munkakör ellátására kinevezést az kaphat, aki felsőfokú iskolai végzettséggel és feladata ellátásához szükséges szakirányú szakképzettséggel, jogi vagy közigazgatási szakvizsgával, vagy a közigazgatási szakvizsga alól adott OKV elnökségi teljes körű mentesítéssel és legalább kétéves szakmai gyakorlattal rendelkezik.
+
+(6) Ha a főtanácsadó, illetve tanácsadó kormányzati szolgálati jogviszonya megszűnésekor – a hivatalvesztés fegyelmi büntetés kivételével – e törvény szerint nyugdíjasnak minősül, a kormánytisztviselő jogosult a főtanácsadói, illetve tanácsadói elnevezés „nyugalmazott” jelzővel kiegészített használatára.
+
+(7) A munkáltatói jogkör gyakorlója egyoldalú írásba foglalt döntésével a főtanácsadói, tanácsadói munkakört betöltő kormánytisztviselőt az iskolai végzettségének, szakképzettségének, szakképesítésének megfelelő másik munkakörbe helyezheti át. Ekkor a kormánytisztviselő alapilletményét e munkakörre megfelelően kell megállapítani.
+
+126. § (1) A hivatali szervezet vezetője közigazgatási tanácsadói, illetve közigazgatási főtanácsadói címet adományozhat a (2) és (3) bekezdésben foglalt feltételekkel rendelkező kormánytisztviselőnek. A két adományozható cím együttesen nem haladhatja meg az államigazgatási szerv felsőfokú iskolai végzettségű kormánytisztviselői létszámának 20%-át.
+
+(2) Közigazgatási tanácsadói cím az I. besorolási osztályba tartozó, legalább ötéves szakmai gyakorlattal és közigazgatási vagy jogi szakvizsgával, illetve teljeskörűen közigazgatási jellegűnek minősített tudományos fokozattal rendelkező kormánytisztviselőnek adományozható. A közigazgatási tanácsadó a közigazgatási szervre vonatkozó szabályok szerint vezetői pótlék nélkül számított főosztályvezető-helyettesi illetményre jogosult. Ha a közigazgatási tanácsadó vezetői munkakört tölt be, a vezetői illetményre jogosult, ha az magasabb, mint a címe alapján járó illetménye.
+
+(3) Közigazgatási főtanácsadói cím az I. besorolási osztályba tartozó, legalább tízéves szakmai gyakorlattal és közigazgatási vagy jogi szakvizsgával, illetve teljeskörűen közigazgatási jellegűnek minősített tudományos fokozattal rendelkező kormánytisztviselőnek adományozható. A közigazgatási főtanácsadó a közigazgatási szervre vonatkozó szabályok szerint vezetői pótlék nélkül számított főosztályvezetői illetményre jogosult. Ha a közigazgatási főtanácsadó vezetői munkakört tölt be, a vezetői illetményre jogosult, ha az magasabb, mint a címe alapján járó illetménye.
+
+(4) A (2) és (3) bekezdésben foglalt szakmai gyakorlaton a 8. § (5)–(7) bekezdés szerinti jogviszonyt, illetőleg megbízatást kell érteni.
+
+(5) A közigazgatási főtanácsadói, közigazgatási tanácsadói címmel rendelkező kormánytisztviselőt a cím adományozását követően a 130. §-ban meghatározottak szerint minősíteni kell, és legalacsonyabb fokozatú minősítés esetén a címet vissza kell vonni, ebben az esetben a kormánytisztviselő a besorolása szerinti illetményére jogosult.
+
+(6) A közigazgatási főtanácsadói, közigazgatási tanácsadói cím tartós külszolgálatra való kihelyezés esetén a munkáltató döntése alapján a kormánytisztviselő a besorolása szerinti illetményre jogosult. A tartós külszolgálatra való kihelyezés megszűnését követően a kormánytisztviselő – amennyiben ez számára kedvezőbb – a címe alapján fizetett illetményre jogosult.
+
+127. § (1) A hivatali szervezet vezetője szakmai tanácsadói, illetve szakmai főtanácsadói címet adományozhat a (2) bekezdésben foglalt feltételekkel rendelkező kormánytisztviselőnek. Az adományozható szakmai tanácsadói, illetve szakmai főtanácsadói címek számát az államigazgatási szerv szervezeti és működési szabályzatában kell meghatározni. Az adományozható kétféle cím együttesen nem haladhatja meg az államigazgatási szerv felsőfokú iskolai végzettségű kormánytisztviselői létszámának 20%-át.
+
+(2) Szakmai tanácsadói cím annak az I. besorolási osztályba tartozó, szakmai gyakorlattal és közigazgatási vagy jogi szakvizsgával, illetve teljeskörűen közigazgatási jellegűnek minősített tudományos fokozattal rendelkező kormánytisztviselőnek; szakmai főtanácsadói cím annak az I. besorolási osztályba tartozó, szakmai gyakorlattal és közigazgatási vagy jogi szakvizsgával, illetve teljeskörűen közigazgatási jellegűnek minősített tudományos fokozattal rendelkező kormánytisztviselőnek adományozható, aki legmagasabb fokozatú minősítésű.
+
+(3) A szakmai tanácsadó, illetve szakmai főtanácsadó az államigazgatási szervre vonatkozó szabályok szerint vezetői pótlék nélkül számított főosztályvezető-helyettesi, illetve főosztályvezetői illetményre jogosult. A szakmai tanácsadói, szakmai főtanácsadói címmel és vezetői kinevezéssel rendelkező kormánytisztviselő a vezetői illetményre jogosult, ha az magasabb, mint a címe alapján számított illetménye.
+
+(4) A szakmai (fő)tanácsadói címet legalacsonyabb fokozatú minősítés esetén vissza kell vonni, ebben az esetben a kormánytisztviselő a címmel járó illetmény helyett a besorolás szerinti illetményére jogosult.
+
+128. § (1) A hivatali szervezet vezetője a tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű, közigazgatási szakvizsgával rendelkező kormánytisztviselőnek címzetes vezető-tanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, a középiskolai végzettségű kormánytisztviselőnek címzetes főmunkatársi címet adományozhat.
+
+(2) Címzetes vezető-tanácsosi cím a legalább öt, címzetes főtanácsosi cím a legalább tizenkettő, címzetes vezető-főtanácsosi cím a legalább húsz, címzetes főmunkatársi cím a legalább tizennyolc év kormányzati szolgálati jogviszonyban töltött idővel rendelkező kormánytisztviselőnek adományozható.
+
+(3) A kormánytisztviselő a címzetes vezető-tanácsosi címmel a vezető-tanácsos besorolási fokozat 7-es fizetési fokozatába, a címzetes főtanácsosi címmel a főtanácsos besorolási fokozat 11-es fizetési fokozatába, a címzetes vezető-főtanácsosi címmel a vezető-főtanácsos besorolási fokozat 14-es fizetési fokozatába, a címzetes főmunkatársi címmel a főmunkatárs besorolási fokozat 14-es fizetési fokozatába kerül. Ha a kormánytisztviselő a kormányzati szolgálati jogviszonyban töltött idő alapján eléri a címmel járó besorolási, fizetési fokozatot, akkor a cím megszűnik és a kormánytisztviselő további előmenetelére az általános szabályok az irányadók.
+
+(4) Ha a kormánytisztviselő kormányzati szolgálati jogviszonya nyugdíjazás miatt szűnik meg, a besorolására, valamint a cím viselésére, vezetői beosztására utaló megnevezést nyugdíjasként is viselheti.
+
+### A vezetők
+
+129. § (1) A kormánytisztviselő – külön törvényben írtakon túlmenően – osztályvezetői, főosztályvezető-helyettesi, főosztályvezetői munkakör betöltésére is kinevezhető államigazgatási szerv, illetve a munkamegosztás szempontjából elkülönült szervezeti egység vezetésére. A főosztályvezető helyettesítésére – szervezeti egység vezetése nélkül – egy főosztályvezető-helyettesi munkakör tölthető be.
+
+(2) Vezetői kinevezést csak felsőfokú iskolai végzettségű, jogi vagy közigazgatási szakvizsgával, vagy a szakvizsga alól adott, az Országos Közigazgatási Vizsgabizottság elnökségének teljes körű mentesítésével rendelkező kormánytisztviselő kaphat.
+
+(3) A (2) bekezdéstől eltérően, ha a vezetői kinevezéskor a kormánytisztviselő nem rendelkezik jogi vagy közigazgatási szakvizsgával, azt a kinevezéstől számított két éven belül le kell tennie. Ha szakvizsga-kötelezettségét e határidőn belül a kormánytisztviselő számára felróható okból elmulasztja, kormányzati szolgálati jogviszonya e törvény erejénél fogva megszűnik. A közigazgatási szakvizsga letételére nyitva álló határidőbe nem számít bele a harminc napot meghaladó fizetés nélküli szabadság vagy keresőképtelenség, továbbá a harminc napot meghaladó kiküldetés időtartama.
+
+(4) Törvény eltérő rendelkezése hiányában a vezetői kinevezés határozatlan időre szól.
+
+(5) Vezetői kinevezés helyettesítés céljából határozott időre is adható. A helyettesítés céljából adott határozott idejű vezetői kinevezés meghosszabbítható.
+
+(6) A tartós külszolgálat időtartamára – a (4) bekezdésben foglaltaktól eltérően – vezetői kinevezés határozott időre is adható.
+
+(7) Ha a kinevezés módosítása következtében a vezető
+
+- a) alacsonyabb vezetői munkakört tölt be, alapilletményét az új vezetői munkaköre szerint,
+- b) nem vezetői munkakört tölt be, alapilletményét a 116. § megfelelő alkalmazásával, a munkaköre betöltéséhez szükséges iskolai végzettségének, továbbá a 8. § (5)–(7) bekezdés megfelelő alkalmazásával megállapított kormánytisztviselői jogviszonyban eltöltött idejének megfelelő besorolása alapján kell megállapítani.
+
+(8) Az (1) bekezdés szerinti vezetői munkakört betöltő kormánytisztviselőre a 116–122. § nem alkalmazható, ide nem értve a közigazgatási alap- és szakvizsgára vonatkozó rendelkezéseket.
+
+(9) A vezetői kinevezéshez kormányrendelet egyéb feltételeket is megállapíthat.
+
+### Teljesítményértékelés, minősítés
+
+#### 130. §
+
+### Díjazás, illetmény
+
+131. § (1) A kormánytisztviselő a kormányzati szolgálati jogviszonya alapján havonta illetményre jogosult. Az illetményt száz forintra kerekítve kell megállapítani. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő illetmény-megállapításnak.
+
+(2) Az illetmény a 133. § (1) bekezdése szerint megállapított alapilletményből, valamint – az e törvényben meghatározott feltételek esetén – illetménykiegészítésből és illetménypótlékból áll.
+
+(3) Az alapilletmény és az illetménykiegészítés együttes összegének legalább a garantált bérminimum összegét el kell érnie.
+
+(4) A garantált bérminimum összegét és hatályát a Kormány állapítja meg.
+
+(5) Havi illetmény esetén az egy órára járó illetmény meghatározása során a havi illetmény összegét osztani kell
+
+- a) általános teljes napi munkaidő esetén: 174 órával,
+- b) általánostól eltérő teljes napi vagy részmunkaidő esetén: 174 óra időarányos részével.
+
+(6) A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+
+(7) A felsőfokú iskolai végzettségű kormánytisztviselőt az I., a középiskolai végzettségű kormánytisztviselőt a II. osztályba kell besorolni (a továbbiakban: besorolási osztály). A besorolási osztály fizetési fokozatokból áll.
+
+132. § Az illetményalap összegét évente az állami költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi illetményalap.
+
+133. § (1) Az egyes osztályok emelkedő számú fizetési fokozataihoz növekvő szorzószámok tartoznak. A szorzószám és az illetményalap szorzata határozza meg az egyes osztályok különböző fokozataihoz tartozó alapilletményt.
+
+(2) A besorolási osztályokat és a fizetési fokozatokat e törvény 1. melléklete tartalmazza.
+
+(3) A hivatali szerv vezetője – a (4) bekezdésben foglaltak kivételével – át nem ruházható hatáskörében, a megállapított személyi juttatások előirányzatán belül a tárgyévet megelőző év minősítése, ennek hiányában teljesítményértékelése alapján – ide nem értve, ha a kormánytisztviselő végleges áthelyezésére kerül sor – a tárgyévre vonatkozóan a kormánytisztviselő besorolása szerinti fizetési fokozathoz tartozó alapilletményét – a hivatali szervezet vezetője esetében a kinevezésre jogosult – december 31-éig terjedő időszakra legfeljebb 50%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg. Az eltérítésről a hivatali szervezet vezetője minden év február 28-áig dönt. Az így megállapított eltérítés mértéke – a (6) bekezdésben foglaltakon túl – a tárgyévben egy alkalommal a megállapítástól számított hat hónapot követően a teljesítményértékelés alapján módosítható, azzal a feltétellel, hogy a kormánytisztviselő korábban már megállapított alapilletménye legfeljebb 20%-kal csökkenthető.
+
+(4) A főosztályvezető alapilletményének eltérítésére a (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy a főosztályvezető alapilletményét – minősítésüktől, ennek hiányában teljesítményértékelésüktől függően – át nem ruházható hatáskörében legfeljebb 50%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg:
+
+- a) költségvetési fejezetet irányító szervnél – ideértve a társadalombiztosítási költségvetési szerveket is – a szerv vezetője tekintetében a kinevezésre jogosult, egyéb esetben – törvény eltérő rendelkezésének hiányában – a hivatali szervezet vezetője,
+- b) egyéb esetben – törvény eltérő rendelkezésének hiányában – a szerv vezetője.
+
+(5) A (3) és (4) bekezdést azzal az eltéréssel kell alkalmazni a minisztériumok, Miniszterelnökség esetében, hogy az eltérítés maximum mértéke 30% lehet.
+
+(6) A (3) bekezdés szerint megállapított alapilletmény-eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő vezetői kinevezést kap, vagy azt tőle visszavonják, illetve miniszterelnökségi főtanácsadói, miniszterelnökségi tanácsadói, kormány-főtanácsadói, kormánytanácsadói, miniszteri főtanácsadói, miniszteri tanácsadói munkakörbe helyezik, vagy e munkakörét módosítják, illetve címadományozásra, vagy annak visszavonására, vagy a 119. § szerinti átsorolásra kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint e törvény alapján az eltérítés nélkül meghatározott összeg.
+
+(7) A kormánytisztviselő év közben történő végleges áthelyezése esetén – eltérő megállapodás hiányában – a korábbi munkáltató által megállapított eltérítés mértékére jogosult az áthelyezést kérő szervnél is.
+
+(8) A fővárosi és megyei kormányhivatal esetében a (3) bekezdést azzal az eltéréssel kell alkalmazni, hogy a szakigazgatási szerv kormánytisztviselője tekintetében az alapilletmény-eltérítésre a szakigazgatási szerv vezetője tesz javaslatot. A szakigazgatási szerv vezetőjének javaslata alapján az alapilletmény-eltérítésről a kormánymegbízott dönt.
+
+(9) Az illetmény-összetevők – ide nem értve az illetménypótlékokat – változása esetén, így különösen az illetményalap emelkedése, a besorolási vagy fizetési fokozat változása során a kormánytisztviselő illetményét újra meg kell állapítani.
+
+134. § (1) A Miniszterelnökségen, a minisztériumokban, a Kormányzati Ellenőrzési Hivatalnál, a költségvetési fejezetet irányító szerveknél – a Központi Statisztikai Hivatal területi szervezeti egységei kivételével és ide nem értve a Nemzeti Adó- és Vámhivatalt –, a Magyar Államkincstár Központjában, valamint a Budapesti és Pest Megyei Igazgatóságánál, a Mezőgazdasági Szakigazgatási Hivatalnál, a Nemzeti Földalapkezelő Szervezetnél, a Mezőgazdasági és Vidékfejlesztési Hivatalnál – a területi szervezeti egységei kivételével –, a Földmérési és Távérzékelési Intézetnél, az Európai Támogatásokat Auditáló Főigazgatóságnál, a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetnél, a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálatánál, a Nemzeti Nyomozó Irodánál, a Nemzeti Külgazdasági Hivatalnál, továbbá jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél, valamint – a belső igazgatási szervei kivételével – az Országos Nyugdíjbiztosítási Főigazgatóságnál és az Országos Egészségbiztosítási Pénztárnál, továbbá a Nemzeti Fejlesztési Ügynökségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+
+(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, valamint a megyei, fővárosi kormányhivatalnál, továbbá az Országos Nyugdíjbiztosítási Főigazgatóság központi igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+
+(3) A központi államigazgatási szerv legalább megyei illetékességű területi szervénél, valamint a rendőrség, a katasztrófavédelem és a büntetés-végrehajtás, a Kormány által intézményfenntartásra kijelölt szerv és az Országos Egészségbiztosítási Pénztár legalább megyei illetékességű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
+
+(4) A (3) bekezdésben felsorolt államigazgatási szerv, továbbá a megyei, fővárosi kormányhivatalok helyi és körzeti (nem megyei) illetékességű, valamint az Országos Nyugdíjbiztosítási Főigazgatóság és az Országos Egészségbiztosítási Pénztár legalább helyi illetékességű belső szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
+
+135. § (1) A 134. § (3) bekezdésében felsorolt szervnél – ide nem értve a szerv vezetőjét – legfeljebb kettő, fővárosi illetékességű szervnél legfeljebb három, a 134. § (4) bekezdésében felsorolt szervnél – ide nem értve a szerv vezetőjét – legfeljebb egy vezetői szint létesíthető. Ha törvény vagy kormányrendelet eltérően nem rendelkezik, a 134. § (3) bekezdésében felsorolt szerv vezetője főosztályvezetői, szervezeti egységének vezetője főosztályvezető-helyettesi vagy osztályvezetői, fővárosi illetékességű szervnél a szervezeti egység vezetője főosztályvezetői vagy főosztályvezető-helyettesi, vagy osztályvezetői, a 134. § (4) bekezdésében felsorolt szerv vezetője főosztályvezetői, szervezeti egységének vezetője osztályvezetői alapilletményre jogosult. A főváros területére kiterjedő illetékességgel rendelkező, a 134. § (3) bekezdésében felsorolt szerv vezetője a 30%-os vezetői illetménypótlékra jogosult.
+
+(2) Törvény felhatalmazása alapján a felügyeletet ellátó miniszter a 134. § (3) és (4) bekezdésben felsorolt szerveknél az (1) bekezdésben foglaltaktól eltérően legfeljebb további két vezetői szintet is megállapíthat. Az egyes vezetői szintek között a vezetői pótlék tekintetében a legalacsonyabb vezetői szinthez képest 10%-os mértékű különbség állhat fenn. Ha a fővárosi illetékességű államigazgatási szervnél a szerv vezetője vezetői beosztásának szintje megegyezik a szervezeti egység vezetői beosztásának szintjével, a vezetői pótlék tekintetében 10%-os mértékű különbség állhat fenn.
+
+(3) A 134. § (3) bekezdésében felsorolt szervnél, amennyiben a szervezet legalább tízezer főt foglalkoztat – ide nem értve a szerv vezetőjét – négy vezetői szint létesíthető. A szerv vezetője – ha törvény vagy kormányrendelet eltérően nem rendelkezik – főosztályvezetői, szervezeti egységének vezetője főosztályvezetői vagy főosztályvezető-helyettesi, vagy osztályvezetői alapilletményre jogosult. A szerv vezetője és helyettese a 30%-os vezetői illetménypótlékra jogosult.
+
+136. § (1) Testület által vezetett szerv esetében a testület elnökének és tagjainak az illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnyolcszorosát nem haladhatja meg. A megyei, fővárosi kormányhivatal főigazgatójának és igazgatójának az illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy a főigazgató esetében az illetmény az illetményalap huszonhatszorosát, igazgató esetében az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.
+
+(2) A Kormány által intézményfenntartásra kijelölt szerv vezetőjének az illetményét a kinevezési jogkör gyakorlója – a kormánymegbízott javaslatára – állapítja meg azzal, hogy az illetmény az illetményalap huszonhatszorosát nem haladhatja meg. A Kormány által intézményfenntartásra kijelölt szerv vezető-helyettesének az illetményét a kinevezési jogkör gyakorlója – az intézményfenntartásra kijelölt szerv vezetőjének a javaslatára – állapítja meg azzal, hogy az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.
+
+(3) A regionális államigazgatási szerv, valamint a megyei, fővárosi kormányhivatal szakigazgatási szerve
+
+- a) vezetőjének illetményét az államigazgatási szervet közvetlenül irányító vagy felügyelő miniszter, ennek hiányában a kinevezési jogkör gyakorlója – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter egyetértésével – legfeljebb az illetményalap huszonkétszeresében,
+- b) vezető-helyettesének illetményét a munkáltatói jogkör gyakorlója legfeljebb az illetményalap tizenhétszeresében,
+
+a szervezet feladat- és hatásköreinek, létszámának, valamint az általa vezetett szervezeti egységek számának figyelembevételével állapítja meg.
+
+(4) E §-ban meghatározott illetményre jogosultak esetében pótlék nem fizethető.
+
+137. § (1) A vezetői illetménypótlék mértéke a 134. § (1) bekezdésében meghatározott államigazgatási szervnél:
+
+- a) főosztályvezető esetén az alapilletmény 30%-a,
+- b) főosztályvezető-helyettes esetén az alapilletmény 20%-a,
+- c) osztályvezető esetén az alapilletmény 10%-a.
+
+(2) A 134. § (2) és (3) bekezdésben meghatározott államigazgatási szervnél a vezetői illetménypótlék mértéke a vezető alapilletményének:
+
+- a) főosztályvezető esetén az alapilletmény 25%-a,
+- b) főosztályvezető-helyettes esetén az alapilletmény 15%-a,
+- c) osztályvezető esetén az alapilletmény 10%-a.
+
+(3) A 134. § (4) bekezdésben meghatározott államigazgatási szervnél a vezetői illetménypótlék mértéke a vezető alapilletményének:
+
+- a) főosztályvezető esetén az alapilletmény 20%-a,
+- b) osztályvezető esetén az alapilletmény 10%-a.
+
+138. § Integrált ügyfélszolgálati pótlékra jogosult az a kormánytisztviselő, aki a fővárosi és megyei kormányhivatalokon belül működő integrált ügyfélszolgálati irodán ügyfélszolgálati feladatok ellátásával összefüggő munkakört tölt be. A pótlék mértéke az alapilletmény 20%-a.
+
+139. § A vezető alapilletménye:
+
+- a) főosztályvezető esetében az illetményalap 8-szorosa,
+- b) főosztályvezető-helyettes esetében az illetményalap 7,5-szerese,
+- c) osztályvezető esetében az illetményalap 7-szerese.
+
+140. § (1) Az e törvényben meghatározottak alapján a kormánytisztviselő illetménypótlékra jogosult.
+
+(2) Az illetménypótlék mértékét az illetményalap százalékában kell meghatározni.
+
+(3) Éjszakai pótlékra az jogosult, aki a munkaidő beosztása alapján 22.00 és 6.00 óra között végez munkát. A pótlék mértéke óránként az illetményalap 0,45 %-a. Abban az esetben, ha a munkaidő-beosztás részben esik 22.00 és 6.00 óra közé, az éjszakai pótlék időarányosan jár.
+
+(4) Ha a kormánytisztviselő rendszeresen hivatali gépjárművet vezet és ezáltal külön gépjárművezető foglalkoztatása szükségtelen, gépjármű-vezetési pótlékra jogosult. A pótlék mértéke az illetményalap 13%-a.
+
+(5) A kormánytisztviselő illetménypótlékra jogosult, ha a munkavégzésre munkaideje nagyobb részében egészségkárosító kockázatok között kerül sor, vagy egészségének védelme csak olyan egyéni védőeszköz állandó vagy tartós használatával valósítható meg, amely a kormánytisztviselő számára fokozott megterhelést jelent. A pótlék mértéke az illetményalap 45%-a.
+
+(6) A (4) és (5) bekezdésben meghatározott illetménypótlékra jogosító munkaköröket a hivatali szervezet vezetője állapítja meg.
+
+141. § (1) Ha a kormánytisztviselő olyan munkakört tölt be, amelyben idegen nyelv használata szükséges, idegennyelv-tudási pótlékra jogosult.
+
+(2) Az idegennyelv-tudást az államilag elismert nyelvvizsga eredményét igazoló bizonyítvánnyal vagy azzal egyenértékű okirattal kell igazolni.
+
+(3) A képzés nyelve szempontjából államilag elismert nyelvvizsga nélkül is komplex felsőfokú (C1) nyelvvizsgának minősül a kormánytisztviselő külföldön szerzett felsőfokú végzettsége és közigazgatási tárgyú szakképzettsége, vagy az azt kiegészítő szakosító továbbképzési, illetve vezetőképzési végzettsége, ha a képzés időtartama az egy évet eléri vagy meghaladja.
+
+(4) Az idegennyelv-tudási pótlékra jogosító nyelveket és munkaköröket a munkáltatói jogkör gyakorlója állapítja meg.
+
+(5) A pótlék mértéke nyelvvizsgánként
+
+- a) komplex felsőfokú (C1) nyelvvizsga esetében az illetményalap 50%-a, a szóbeli vagy írásbeli nyelvvizsga esetében 25-25%-a;
+- b) komplex középfokú (B2) nyelvvizsga esetében az illetményalap 30%-a, a szóbeli vagy írásbeli nyelvvizsga esetében 15-15%-a.
+
+(6) A (4) és (5) bekezdéstől eltérően az angol, francia és német nyelvek tekintetében a pótlék alanyi jogon jár, amelynek mértéke nyelvvizsgánként
+
+- a) komplex felsőfokú (C1) nyelvvizsga esetében az illetményalap 100%-a,
+- b) komplex középfokú (B2) nyelvvizsga esetében az illetményalap 60%-a,
+- c) komplex alapfokú (B1) nyelvvizsga esetében az illetményalap 15%-a.
+
+(7) Ha a kormánytisztviselő a (6) bekezdésben meghatározott idegen nyelvekből szóbeli vagy írásbeli nyelvvizsgával rendelkezik, az (5) bekezdésben foglalt komplex nyelvvizsgára meghatározott mérték szerint jogosult a nyelvpótlékra.
+
+(8) Ha a kormánytisztviselő ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú, illetve különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult.
+
+(9) Ha az államigazgatási szerv – kivéve a felsőfokú szaknyelvi vizsgát – tanulmányi szerződés alapján pénzügyi támogatást nyújt a nyelvvizsga megszerzéséhez, a kormánytisztviselő a (6) bekezdésben meghatározott idegennyelv-tudási pótlékra mindaddig nem jogosult, amíg a havonta fizetendő pótlék együttes összege nem éri el a tanulmányi szerződés alapján kifizetett pénzügyi támogatás mértékét.
+
+(10) A 40. § (1) bekezdésében előírt idegennyelv-ismerethez kötött munkaköröket a munkáltatói jogkör gyakorlója állapítja meg.
+
+142. § A hivatali szervezet vezetője a Kormány által meghatározott rendben képzettségi, illetve munkaköri pótlékot állapíthat meg.
+
+143. § (1) A kormánytisztviselőt az e törvény 131–142. §-a alapján megillető illetmény kifizetése a kormánytisztviselő által választott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
+
+(2) Az illetmény fizetési számlára történő átutalása és egyszeri felvétele, illetve az illetmény-kifizetés a kormánytisztviselő részére költségtöbbletet nem okozhat.
+
+### Díjazás munkavégzés hiányában
+
+144. § (1) A kormánytisztviselőt, ha a munkáltató működési körében felmerült okból nem tud munkát végezni, az emiatt kiesett munkaidőre (állásidő) illetmény illeti meg.
+
+(2) A kormánytisztviselőt, ha a munkáltató engedélye alapján mentesül a munkavégzés alól, a kiesett munkaidőre megállapodásuk szerint illeti meg díjazás.
+
+(3) A kormánytisztviselőt illetmény illeti meg
+
+- a) a szabadság,
+- b) 79. § c)–g) és i) pontjaiban meghatározott esetekben,
+- c) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő
+- d) a munkaszüneti nap miatt kiesett időre.
+
+(4) Az illetmény 70%-a jár a betegszabadság tartamára.
+
+### Az illetmény védelme
+
+145. § (1) Az illetményt – külföldön történő munkavégzés vagy jogszabály eltérő rendelkezése hiányában – a magyar törvényes pénznemben kell megállapítani és kifizetni.
+
+(2) Az illetményt utalvány vagy fizetőeszköz helyettesítésére szolgáló más formában kifizetni nem lehet.
+
+### Az illetmény kifizetésének szabályai
+
+146. § (1) A kormánytisztviselő részére járó illetményt havonta utólag, egy alkalommal kell elszámolni és kifizetni. Ha a jogviszony egy hónapnál rövidebb ideig tart, az illetményt a jogviszony végén kell elszámolni és kifizetni.
+
+(2) Egyenlőtlen munkaidő-beosztás esetén a munkáltató a kormánytisztviselő illetményét a 131. § (5) bekezdésében foglaltak megfelelő alkalmazásával számolja el és fizeti ki.
+
+(3) Az illetményt a tárgyhónapot követő ötödik napig ki kell fizetni.
+
+(4) Az illetmény bankszámlára utalással történő kifizetése esetén, a munkáltatónak úgy kell eljárnia, hogy a kormánytisztviselő illetményével a bérfizetési napon rendelkezhessen.
+
+(5) Az illetményt a kormánytisztviselőnek kell kifizetni, kivéve, ha erre mást felhatalmaz, illetőleg bírósági vagy más hatósági határozat ebben korlátozza.
+
+(6) Ha a jogviszony a kifizetés előtt megszűnt, az illetményt a munkáltató köteles az esedékesség napján a kormánytisztviselő által megadott címre elküldeni. Az elküldés költségei a munkáltatót terhelik.
+
+(7) Az illetményt, ha az illetményfizetési nap heti pihenőnapra (heti pihenőidőre) vagy munkaszüneti napra esik, legkésőbb az ezt megelőző munkanapon kell kifizetni.
+
+147. § A késedelem idejére a késedelembe esés időpontjától kezdve a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamattal megegyező mértékű kamatot kell fizetni.
+
+### Elszámolás
+
+148. § A kormánytisztviselő részére illetményéről részletes írásbeli elszámolást kell adni. Az elszámolásnak olyannak kell lennie, hogy a kormánytisztviselő a kiszámítás helyességét, valamint az illetményből való levonások jogcímét és összegét ellenőrizni tudja. Az írásbeli elszámolásnak tartalmaznia kell a rendkívüli munkavégzés jogcímén kifizetett díjazást is.
+
+### Illetményből való levonás
+
+149. § (1) Az illetményből való levonásnak – a levonásmentes illetményrészig – jogszabály, végrehajtható határozat alapján van helye.
+
+(2) A munkáltató a követelését a kormánytisztviselő hozzájárulása alapján, illetve, ha az előlegnyújtásból ered – a levonásmentes illetményrészig – az illetményből levonhatja.
+
+(3) Tilos az olyan illetménylevonás, amely a munkáltató, annak képviselője vagy közvetítő személy javára szolgál annak fejében, hogy a kormánytisztviselő jogviszonyt létesítsen, vagy azt megtartsa.
+
+(4) Egyebekben az illetményből való levonásra a bírósági végrehajtási jogszabályok az irányadók.
+
+(5) E rendelkezések irányadók a szakszervezeti tagdíj levonására is.
+
+(6) Az illetménnyel szemben beszámításnak nincs helye.
+
+(7) A jogalap nélkül kifizetett illetmény hatvan napon túl akkor követelhető vissza, ha a kormánytisztviselőnek a kifizetés alaptalanságát fel kellett ismernie vagy azt maga idézte elő.
+
+(8) A munkáltató a kormánytisztviselő jogviszonnyal összefüggő tartozásainak megtérítésére irányuló igényét írásbeli felszólítással érvényesítheti.
+
+(9) A kormánytisztviselő az illetményére vonatkozó igényéről – az egyezséget kivéve – előre nem mondhat le.
+
+(10) A levonásmentes illetményrész nem engedményezhető.
+
+### Egyéb juttatások
+
+150. § (1) A kormánytisztviselő 25, 30, 35, illetve 40 évi kormányzati szolgálati jogviszonyban töltött idő után jubileumi jutalomra jogosult. A jubileumi jutalom az említett kormányzati szolgálati jogviszonyban töltött idő betöltésének a napján esedékes.
+
+(2) A jubileumi jutalom
+
+- a) 25 évi jogviszony esetén kéthavi,
+- b) 30 évi jogviszony esetén háromhavi,
+- c) 35 évi jogviszony esetén négyhavi,
+- d) 40 évi jogviszony esetén öthavi illetménynek megfelelő összeg.
+
+(3) A jubileumi jutalomra jogosító idő megállapításánál
+
+- a) az e törvény és a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati és kormánytisztviselői jogviszonyban eltöltött időt,
+- b) a Kjt. hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
+- c) a hivatásos szolgálati jogviszony időtartamát, továbbá
+- d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
+- e) a hivatásos nevelő szülői jogviszonyban,
+- f) az e törvény, a Ktv., Ktjv., illetőleg a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
+- g) az állami vezetői szolgálati jogviszonyban töltött időt kell figyelembe venni.
+
+(4) A kormánytisztviselő nem jogosult jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban azt már megkapta.
+
+151. § (1) A kormánytisztviselő cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvényre is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjában és (3) bekezdésében meghatározott juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel a Kormány által meghatározott rendben jogosult. A kormánytisztviselőt megillető cafetéria-juttatás éves összege nem lehet alacsonyabb az illetményalap ötszörösénél. A cafetéria-juttatás éves összege biztosít fedezetet az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.
+
+(2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő, az 57. § (1) és (2) bekezdés szerinti szakértői tevékenységet ellátó kormánytisztviselő, továbbá a kormánytisztviselő azon időtartam vonatkozásában, amelyre illetményre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot. A harminc napot meghaladó távollét esetében a kormánytisztviselőt a távollét első napjától kezdve nem illeti meg a juttatás. A távollétek időtartamát – a jogosultság szempontjából – nem lehet összeszámítani.
+
+(3) A hivatali szervezet vezetője a közszolgálati szabályzatban rendelkezik a cafetéria-juttatás igénybevételének részletes szabályairól, elszámolásának rendjéről és visszatérítésének szabályairól.
+
+152. § (1) A kormánytisztviselő részére további, visszatérítendő, illetve vissza nem térítendő szociális, jóléti, kulturális, egészségügyi juttatás biztosítható. Ilyen juttatás lehet, különösen:
+
+- a) lakhatási, lakásépítési és -vásárlási támogatás,
+- b) albérleti díj hozzájárulás,
+- c) családalapítási támogatás,
+- d) szociális támogatás,
+- e) illetményelőleg,
+- f) tanulmányi ösztöndíj, képzési, továbbképzési, nyelvtanulási támogatás.
+
+(2) Az (1) bekezdésben foglalt juttatás mértékét, feltételeit, az elbírálás és elszámolás rendjét, valamint a visszatérítés szabályait a hivatali szervezet vezetője állapítja meg.
+
+153. § (1) Ha a kormánytisztviselő lakás építéséhez, vásárlásához hitelintézettől igényelt állami kamattámogatású kölcsön összege meghaladja e lakásingatlan hitelbiztosítéki értékének a hitelintézet által meghatározott legmagasabb arányát, a különbözetre az állam készfizető kezességet vállal. A kormánytisztviselő az állami kezességvállalást – az erre az állammal szerződésben kötelezettséget vállaló – hitelintézeten keresztül veheti igénybe.
+
+(2) Az állam készfizető kezességet az (1) bekezdésben foglaltakon túl annál a kormánytisztviselőnél vállalhat, aki:
+
+- a) határozatlan időre létesített kormányzati szolgálati jogviszonyt,
+- b) legalább hároméves közigazgatási gyakorlattal rendelkezik,
+- c) felmentési vagy lemondási idejét nem tölti,
+- d) ellen nem folyik fegyelmi eljárás, vagy
+- e) nem áll – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – büntetőeljárás hatálya alatt, és
+- f) az (1) bekezdés szerinti kezességvállalással biztosított hitelrészt a hitelintézetnek kiegyenlítette, illetve a vele közös háztartásban élő házas- vagy élettárs – az igénylés időpontjában – állami kezességvállalással biztosított lakáscélú hitel törlesztésére nem kötelezett.
+
+154. § (1) A kormánytisztviselő az adott közszolgálati feladat kiemelkedő teljesítéséért, illetve feladatainak hosszabb időn át történő eredményes végzéséért a teljesítményértékelése alapján a Kormány által meghatározottak szerint elismerésben, jutalomban részesíthető.
+
+(2) A hivatali szervezet vezetője – ide nem értve a helyettesítést – rendkívüli, célhoz köthető feladatot állapíthat meg a kormánytisztviselő részére, amelynek teljesítése a munkakör ellátásából adódó általános munkaterhet jelentősen meghaladja (a továbbiakban: célfeladat). A hivatali szervezet vezetője a célfeladat eredményes végrehajtásáért – a kormánytisztviselő illetményén felül, írásban, a célfeladat megállapításakor vagy teljesítésének igazolásakor – céljuttatást határoz meg a megállapított személyi juttatások előirányzatán belül.
+
+(3) A hivatali szervezet vezetője a (2) bekezdésben foglaltakon túl célfeladatot állapíthat meg – az érintett hivatali szervezet vezetőjének egyetértésével – más államigazgatási szervnél foglalkoztatott kormánytisztviselő részére. A céljuttatást a célfeladatot tűző hivatali szervezet vezetője állapítja meg a kormánytisztviselő részére.
+
+### Fegyelmi felelősség
+
+155. § (1) Fegyelmi vétséget követ el a kormánytisztviselő, ha kormányzati szolgálati jogviszonyból eredő kötelezettségét vétkesen megszegi.
+
+(2) A fegyelmi vétséget elkövető kormánytisztviselővel szemben kiszabható fegyelmi büntetések:
+
+- a) a megrovás;
+- b) az előmeneteli rendszerben a várakozási idő meghosszabbítása;
+- c) az előmeneteli rendszerben visszavetés egy fizetési fokozattal;
+- d) az előmeneteli rendszerben visszavetés egy besorolási fokozattal;
+- e) az e törvény szerinti címtől való megfosztás, vezetői munkakörből nem vezetői munkakörbe helyezés;
+- f) hivatalvesztés.
+
+(3) A (2) bekezdés b) pontja szerinti meghosszabbítás időtartama legfeljebb 2 év lehet.
+
+(4) A kormánytisztviselő a fegyelmi büntetés hatálya alatt áll
+
+- a) a (2) bekezdés b) pontjában meghatározott büntetésnél a várakozási idő meghosszabbításának ideje alatt;
+- b) a (2) bekezdés c), d) pontjában meghatározott büntetésnél a visszavetés időpontja szerinti fokozat ismételt eléréséig;
+- c) a (2) bekezdés e) pontjában meghatározott büntetés végrehajtásától számított 2 évig;
+- d) a (2) bekezdés f) pontjában meghatározott büntetésnél 3 évig.
+
+Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból törölni kell.
+
+(5) A kormánytisztviselő a hatályos fegyelmi büntetéséről a kormányzati szolgálati jogviszony tartama alatt köteles számot adni. Ha a kormányzati szolgálati jogviszony hivatalvesztés miatt szűnt meg, a volt kormánytisztviselő államigazgatási szervnél három évig nem alkalmazható.
+
+156. § (1) Fegyelmi vétség elkövetésének alapos gyanúja esetén – ide nem értve a méltatlanság, illetve a bizalomvesztés miatti felmentést, valamint a hivatásetikai elvek megsértését – a munkáltatói jogkör gyakorlója köteles az eljárást – a (2) bekezdés esetét kivéve – megindítani. Nem lehet fegyelmi eljárást indítani, ha a kötelezettségszegés felfedezése óta három hónap, illetve a fegyelmi vétség elkövetése óta három év eltelt.
+
+(2) A munkáltatói jogkör gyakorlója megrovás fegyelmi büntetést fegyelmi eljárás lefolytatása nélkül is kiszabhat, amennyiben a tényállás megítélése egyszerű és a kötelezettségszegést a kormánytisztviselő elismeri.
+
+(3) Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult és az anélkül fejeződött be, hogy megállapították volna a kormánytisztviselő felelősségét, a három hónapos határidőt az eljárás befejezéséről szóló jogerős határozat államigazgatási szerv részére történő közlésétől, a hároméves határidőt az eljárás jogerős befejezésétől kell számítani.
+
+(4) Külföldön elkövetett kötelezettségszegés esetén a határidőket a belföldre történő visszaérkezéstől kell számítani.
+
+157. § (1) A vizsgálóbiztos javaslatára a munkáltatói jogkör gyakorlója a fegyelmi eljárás alá vont kormánytisztviselőt legfeljebb a fegyelmi határozat kihirdetéséig állásából felfüggesztheti, ha jelenléte a tényállás tisztázását gátolná vagy a kötelezettségszegés súlya és jellege a munkahelytől való távoltartást indokolja. A hivatalvesztés büntetéssel – az erről szóló határozat jogerőre emelkedéséig – a felfüggesztés együtt jár.
+
+(2) Azonnal meg kell szüntetni a felfüggesztést, ha annak indoka már nem áll fenn.
+
+(3) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani. A teljes illetményt vissza kell tartani a hivatalvesztést kimondó fegyelmi határozat kézbesítésétől kezdve, annak jogerőre emelkedéséig.
+
+(4) A visszatartott összeget a fegyelmi határozat jogerőre emelkedése után ki kell fizetni, kivéve, ha a hivatalvesztést kimondó határozat vált jogerőssé.
+
+158. § (1) Meg kell szüntetni a fegyelmi eljárást, ha
+
+- a) annak tartama alatt a kormányzati szolgálati jogviszony megszűnik;
+- b) a fegyelmi eljárás megindítására az 156. § (1), (3) és (4) bekezdésekben meghatározott határidő után kerül sor;
+- c) a kormánytisztviselő a terhére rótt fegyelmi vétséget nem követte el, vagy annak elkövetése nem bizonyítható;
+- d) felelősségre vonást kizáró ok áll fenn.
+
+(2) A fegyelmi eljárás megszüntetéséről az (1) bekezdés a) pontja esetén a munkáltatói jogkör gyakorlója, a b)–d) pontok esetében a fegyelmi tanács dönt.
+
+159. § (1) A fegyelmi határozatot az ellene benyújtott kereset jogerős elbírálásáig – a hivatalvesztés büntetés kivételével – végrehajtani nem szabad. Ha azonban a kormánytisztviselő a kereset benyújtására nyitva álló határidő eltelte vagy a kereset jogerős elbírálása előtt a kormányzati szolgálati jogviszonyát megszünteti, a határozat azonnal végrehajthatóvá válik.
+
+(2) Ha a kormányzati szolgálati jogviszony a 155. § (2) bekezdés b)–d) pontjában meghatározott, jogerősen kiszabott fegyelmi büntetés végrehajtása előtt vagy annak végrehajtása közben megszűnik, a büntetést vagy annak hátralévő időtartamát államigazgatási szervnél kell végrehajtani, feltéve, hogy a kormánytisztviselő a büntetés végrehajthatóságától számított három éven belül ismételten kormányzati szolgálati jogviszonyt létesít.
+
+### Kártérítési felelősség
+
+### Kormánytisztviselő kártérítési felelőssége
+
+160. § (1) A kormánytisztviselő, ha nem úgy járt el, ahogy az adott helyzetben általában elvárható, a kormányzati szolgálati jogviszonyából eredő kötelezettség megszegésével okozott kárért kártérítési felelősséggel tartozik.
+
+(2) Az (1) bekezdésben foglalt feltételek fennállását, a kár bekövetkeztét, illetve mértékét, valamint az okozati összefüggést a munkáltatónak kell bizonyítania.
+
+(3) A kártérítés mértéke nem haladhatja meg a kormánytisztviselő négyhavi illetményét vagy a tartósan külföldön foglalkoztatott kormánytisztviselő négyhavi ellátmányát. Szándékos és súlyosan gondatlan károkozás esetén a teljes kárt kell megtéríteni.
+
+(4) Nem kell megtéríteni azt a kárt, amelynek bekövetkezése a károkozás idején nem volt előre látható, vagy amelyet a munkáltató vétkes magatartása okozott, vagy amely abból származott, hogy a munkáltató kárenyhítési kötelezettségének nem tett eleget.
+
+(5) A munkáltató vétkes magatartásának kell különösen tekinteni, ha a kár olyan utasítás teljesítéséből keletkezett, amelynek következményeire az utasított kormánytisztviselő az utasítást adó figyelmét – a 78. § (4) bekezdésében meghatározott módon – előzőleg felhívta.
+
+161. § (1) A kormánytisztviselő vétkességére tekintet nélkül a teljes kárt köteles megtéríteni a visszaszolgáltatási vagy elszámolási kötelezettséggel átvett olyan dolgokban bekövetkezett hiány esetén, amelyeket állandóan őrizetben tart, kizárólagosan használ vagy kezel.
+
+(2) Mentesül a kormánytisztviselő a felelősség alól, ha bizonyítja, hogy a hiányt elháríthatatlan külső ok idézte elő, vagy a munkáltató a biztonságos őrzés feltételeit nem biztosította.
+
+(3) A kormánytisztviselőt az (1) bekezdés szerinti teljes anyagi felelősség csak akkor terheli, ha a dolgot jegyzék vagy elismervény alapján aláírásával igazoltan vette át. A dolog több kormánytisztviselő részére megőrzés céljából történő átadásánál a jegyzéket vagy elismervényt valamennyi átvevő kormánytisztviselőnek alá kell írnia. A kormánytisztviselő meghatalmazhatja az átvevőt, hogy a dolgot helyette és nevében átvegye.
+
+(4) A pénztárost, a pénzkezelőt vagy értékkezelőt a (3) bekezdés szerinti jegyzék vagy elismervény nélkül is terheli a felelősség az általa kezelt pénz, értékpapír és egyéb értéktárgy tekintetében.
+
+(5) Az (1) és (3) bekezdésben meghatározott feltételek meglétét, a kár (hiány) bekövetkeztét, illetve mértékét a munkáltató bizonyítja.
+
+(6) Ha a megőrzésre átadott dologban megrongálódása folytán keletkezett kár, a kormánytisztviselő mentesül a felelősség alól, ha bizonyítja, úgy járt el, ahogy az adott helyzetben általában elvárható
+
+162. § (1) Leltárhiány a kezelésre szabályszerűen átadott és átvett anyagban, áruban (leltári készletben) ismeretlen okból keletkezett, a természetes mennyiségi csökkenéssel és a kezeléssel járó veszteség mértékét meghaladó hiány. Azon anyagok körét, amelyek után természetes mennyiségi csökkenés, kezeléssel járó veszteség nem számolható el, valamint a csökkenés és a veszteség alsó és felső határát a hivatali szervezet vezetője határozza meg. Egy leltári időszakra a természetes mennyiségi csökkenés, illetve a kezeléssel járó veszteség változó mértékben is megállapítható.
+
+(2) Az a kormánytisztviselő, akinek kinevezési okiratában rögzített munkaköri feladatai közé tartozik a részére szabályszerűen átadott és átvett anyag, áru (leltári készlet) kezelése, a keletkezett leltárhiányért vétkességére való tekintet nélkül felel.
+
+(3) A leltárhiány miatt való felelősséget csak abban az esetben lehet érvényesíteni, ha
+
+- a) a kormánytisztviselő kinevezési okirata tartalmazza a leltárhiányért való felelősség megnevezését és mértékét;
+- b) a leltári készlet szabályszerű átadása és átvétele megtörtént;
+- c) a leltárhiányt az államigazgatási szerv által meghatározott leltározási rend szerint lebonyolított, a teljes leltári készletet érintő leltárfelvétel során állapítják meg.
+
+(4) Ha a leltárhiányért kinevezési okirata alapján felelős kormánytisztviselő olyan munkakörben, illetve olyan munkahelyen dolgozik, ahol az átvett leltári készletet állandóan egyedül kezeli, a leltárhiány teljes összegéért felel.
+
+(5) A leltárhiányért kinevezési okirata alapján felelős, valamint a leltári készletet kezelő többi kormánytisztviselő a leltárhiányért illetményük arányában felelnek.
+
+(6) Leltározásnál a kormánytisztviselő, illetve akadályoztatása esetén képviselője jelenlétének feltételét biztosítani kell. Ha a kormánytisztviselő a képviseletéről nem gondoskodik, az államigazgatási szerv e feladat ellátására szakmailag alkalmas, érdektelen képviselőt köteles kijelölni.
+
+(7) A kormánytisztviselő a leltárfelvétel során, illetve a leltárfelvétel után a leltározással kapcsolatban észrevételt tehet.
+
+(8) A leltárhiányért fennálló felelősség megállapítására a 165. §-ban foglaltak az irányadók azzal az eltéréssel, hogy a felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő harminc nap és a nyomozó hatóság, illetve a bíróság jogerős határozatának kézbesítését követő nappal kezdődik. A határidő eltelte után a leltárhiányért kinevezési okirata alapján felelős kormánytisztviselőt kártérítésre nem lehet kötelezni.
+
+163. § (1) Ha a kárt többen együttesen okozták, vétkességük arányában, ha ez nem állapítható meg, közrehatásuk arányában viselik. A kárt a kormánytisztviselők egyenlő arányban viselik, ha a vétkesség vagy a közrehatás arányát nem lehet megállapítani.
+
+(2) A megőrzésre átadott dolgokban bekövetkezett hiány esetén a kormánytisztviselők illetményük arányában felelnek.
+
+(3) Amennyiben a kárt többen szándékosan okozták, egyetemleges kötelezésnek van helye.
+
+164. § (1) A kárért felelős kormánytisztviselő köteles az eredeti állapotot helyreállítani, ha pedig ez nem lehetséges, vagy a munkáltató azt alapos okból nem kívánja, köteles a munkáltató vagyoni és nem vagyoni kárát megtéríteni.
+
+(2) Kártérítés címén a károkozó körülmény folytán a munkáltató vagyonában beállott értékcsökkenést és az elmaradt vagyoni előnyt, továbbá azt a kárpótlást vagy költséget kell megtéríteni, amely a munkáltatót ért vagyoni és nem vagyoni hátrány csökkentéséhez vagy kiküszöböléséhez szükséges.
+
+(3) A kárt pénzben kell megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
+
+(4) A kár összegének meghatározásánál:
+
+- a) a megrongált dolog kijavítására fordított kiadást – ideértve az üzemviteli költséget is – és a kijavítás ellenére még fennmaradó esetleges értékcsökkenés mértékét;
+- b) ha a dolog megsemmisült vagy használhatatlanná vált, illetve, ha nincs meg, a károkozás időpontjában érvényes fogyasztói árat kell – az avulásra is tekintettel – figyelembe venni.
+
+165. § (1) A kormánytisztviselő kártérítési felelősségének megállapítására a fegyelmi eljárásra kormányrendeletben meghatározott szabályokat kell alkalmazni azzal az eltéréssel, hogy az eljárás megindítására az elévülésre vonatkozó rendelkezések az irányadók.
+
+(2) Az (1) bekezdéstől eltérően, ha a kormánytisztviselő kormányzati jogviszonya megszűnik, a munkáltató a kormánytisztviselő kártérítési felelősségének megállapítása érdekében közvetlenül bírósághoz fordulhat.
+
+166. § A kormánytisztviselőt rendkívüli méltánylást érdemlő körülmények alapján bíróság a kártérítés alól részben mentesítheti. Ennek során különösen a károkozó cselekménnyel összefüggő feladatvégrehajtás sürgősségét, valamint egyéb sajátos körülményeit, a felek vagyoni helyzetét, a jogsértés súlyát, a károkozás mértékét, a kártérítés teljesítésének következményeit értékeli.
+
+### Államigazgatási szerv kártérítési felelőssége
+
+167. § (1) A munkáltató a kormánytisztviselőnek a kormányzati szolgálati jogviszonyával összefüggésben okozott kárért vétkességére tekintet nélkül, teljes mértékében felel.
+
+(2) Mentesül a munkáltató a felelősség alól, ha bizonyítja, hogy
+
+- a) a kárt ellenőrzési körén kívül eső olyan körülmény okozta, amellyel nem kellett számolnia és nem volt elvárható, hogy a károkozó körülmény bekövetkezését elkerülje vagy a kárt elhárítsa, vagy
+- b) a kárt kizárólag a károsult elháríthatatlan magatartása okozta.
+
+(3) Nem kell megtéríteni
+
+- a) azt a kárt, amellyel kapcsolatban a munkáltató bizonyítja, hogy bekövetkezése a károkozás idején nem volt előre látható,
+- b) a kárnak azt a részét, amelyet a kormánytisztviselő vétkes magatartása idézett elő, vagy amely abból származott, hogy a kormánytisztviselő kárenyhítési kötelezettségének nem tett eleget.
+
+(4) A kormánytisztviselő bizonyítja, hogy a károkozás a kormányzati szolgálati jogviszonyával okozati összefüggésben következett be.
+
+(5) A kár megtérítésére a 164. § (1)–(3) bekezdésében foglalt rendelkezéseket megfelelően kell alkalmazni.
+
+(6) A kormánytisztviselő kirendelése, kormányzati érdekből történő kirendelése vagy határozott idejű áthelyezése esetén a munkáltatók felelőssége egyetemleges.
+
+168. § (1) A munkáltatót a 167. § szerint terheli a felelősség a kormánytisztviselő munkahelyre bevitt tárgyaiban, dolgaiban bekövetkezett károkért.
+
+(2) A munkáltató előírhatja a munkahelyre bevitt dolgok megőrzőben való elhelyezését vagy a bevitel bejelentését. A munkába járáshoz vagy a munkavégzéshez nem szükséges dolgok csak a munkáltató engedélyével vihetők be. E szabályok megsértése esetén a munkáltató a bekövetkezett kárért csak szándékos károkozása esetén felel.
+
+169. § (1) A kormányzati szolgálati jogviszony körében az elmaradt jövedelem megállapításánál az elmaradt illetményt és azon rendszeres juttatások pénzbeli értékét kell figyelembe venni, amelyekre a kormánytisztviselő a kormányzati szolgálati jogviszony alapján az illetményén felül jogosult, feltéve, ha azokat a károkozás bekövetkezését megelőzően rendszeresen igénybe vette.
+
+(2) A kormányzati szolgálati jogviszonyon kívül elmaradt jövedelemként a sérelem folytán elmaradt egyéb rendszeres, jogszerűen megszerzett jövedelmet kell megtéríteni.
+
+(3) Meg kell téríteni azt a kárt is, amelyet a kormánytisztviselő a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárít el, valamint a kormánytisztviselőnek azt a kárát is, amely nem vagyoni kár.
+
+(4) Nem kell megtéríteni azon juttatások értékét, amelyek rendeltetésük szerint csak munkavégzés esetén járnak, továbbá a költségtérítés címén kapott összeget.
+
+(5) A természetbeni juttatások értékét, valamint a dologi kár összegét a kártérítés megállapításakor érvényes fogyasztói ár alapján kell meghatározni.
+
+(6) A dologi kár összegét az avulás figyelembevételével kell kiszámítani. Kárként a javítási költséget kell figyelembe venni, ha a dologban okozott kár az értékcsökkenés nélkül kijavítható.
+
+170. § (1) A munkáltató köteles megtéríteni a kormánytisztviselő hozzátartozójának a károkozással összefüggésben felmerült kárát is.
+
+(2) Az eltartott hozzátartozó, ha a károkozással összefüggésben a kormánytisztviselő meghal, az (1) bekezdésben foglaltakon túlmenően olyan összegű tartást pótló kártérítést is igényelhet, amely szükségletének – a tényleges vagy az elvárhatóan elérhető illetményét, jövedelmét is figyelembe véve – a sérelem előtti színvonalon való kielégítését biztosítja.
+
+171. § A kártérítés összegének kiszámításánál le kell vonni
+
+- a) a társadalombiztosítás vagy az önkéntes kölcsönös biztosító pénztár által nyújtott ellátást;
+- b) amit a kormánytisztviselő megkeresett vagy az adott helyzetben elvárhatóan megkereshetett volna;
+- c) amihez a kormánytisztviselő (hozzátartozója) a megrongálódott dolog hasznosításával hozzájutott;
+- d) amihez a jogosult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá.
+
+172. § (1) Kártérítésként járadékot is meg lehet állapítani. Rendszerint járadékot kell megállapítani akkor, ha a kártérítés a kormánytisztviselő vagy vele szemben tartásra jogosult hozzátartozója tartását vagy tartásának kiegészítését hivatott szolgálni.
+
+(2) A munkáltató olyan összegű általános kártérítés megfizetésére köteles, amely a károsult teljes anyagi kárpótlására alkalmas, ha a kár vagy egy részének mértéke pontosan nem számítható ki. Általános kártérítés járadékként is megállapítható.
+
+173. § (1) A károsult, a munkáltató, vagy felelősségbiztosítás alapján nyújtott kártérítés esetén a biztosító, ha a kártérítés megállapítása után a körülményekben lényeges változás következik be, a megállapított kártérítés módosítását kérheti.
+
+(2) A kártérítés módosításának alapjául szolgáló illetmény-változás mértékének meghatározásánál a munkáltatónak a károsultat a sérelem bekövetkezésekor foglalkoztató szervezeti egységénél, a károsulttal azonos munkakört betöltő kormánytisztviselők ténylegesen megvalósult átlagos, éves illetmény-változás mértéke az irányadó. Azonos munkakört betöltő kormánytisztviselők hiányában a módosítás alapjaként a szervezeti egységnél megvalósult átlagos éves illetmény-változást kell figyelembe venni.
+
+(3) A (2) bekezdés szerinti szervezeti egység megszűnése esetén a kártérítés módosításánál a munkáltatónál a károsulttal azonos munkakört betöltő kormánytisztviselők, ilyen kormánytisztviselők hiányában pedig a munkáltatónál ténylegesen megvalósult átlagos éves illetmény-változás mértéke az irányadó.
+
+(4) A munkáltató és a biztosító a szükséghez képest a kormánytisztviselőtől, illetve hozzátartozójától a munkavégzésből származó jövedelméről, jövedelmi viszonyairól évente igazolást kérhet.
+
+(5) A munkáltató a károsultat tizenöt napon belül értesíti, ha a kártérítés mértékének módosítását megalapozó illetmény-változást hajtott végre.
+
+174. § A munkáltató a károkozásról való tudomásszerzéstől számított tizenöt napon belül köteles a károsultat felhívni kárigénye előterjesztésére. A munkáltató a kárigény bejelentésére tizenöt napon belül írásbeli, indokolt választ ad.
+
+175. § (1) Az elévülés (192. §) szempontjából önállónak kell tekinteni
+
+- a) az illetmény és a táppénz,
+- b) az illetmény és a sérelem folytán csökkent kereset, valamint
+- c) az illetmény és a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rokkantsági ellátás vagy rehabilitációs ellátás
+
+különbözetének megtérítése iránti igényt.
+
+Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban esedékes újabb elkülönülő kárigény származik, ezek elévülési idejét egymástól függetlenül, az egyes igények esedékessé válásától kezdődően, külön-külön kell számítani.
+
+(2) Az elévülési idő az (1) bekezdésben foglalt megkülönböztetéssel
+
+- a) a táppénz első fizetésének napjától,
+- b) attól az időponttól, amikor a sérelem folytán bekövetkezett munkaképesség-csökkenés, egészségkárosodás első ízben vezetett jövedelemkiesésben megmutatkozó károsodásra,
+- c) a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rokkantsági ellátás vagy rehabilitációs ellátás folyósításának időpontjától kezdődik.
+
+(3) Járadékigény hat hónapnál régebbi időre visszamenőleg csak akkor érvényesíthető, ha a jogosultat a követelés érvényesítésében mulasztás nem terheli, illetőleg a munkáltató a 174. §-ban meghatározott kötelezettségét elmulasztotta. Három évnél régebbi időre visszamenőleg járadékigény nem érvényesíthető.
+
+### Adatkezelés
+
+176. § (1) A munkáltató köteles a kormánytisztviselőt tájékoztatni személyes adatainak kezeléséről. A munkáltató a kormánytisztviselőre vonatkozó tényt, adatot, véleményt harmadik személlyel csak törvényben meghatározott esetben vagy a kormánytisztviselő hozzájárulásával közölhet.
+
+(2) A kormányzati szolgálati jogviszonyból származó kötelezettségek teljesítése céljából a munkáltató a kormánytisztviselő személyes adatait – az adatszolgáltatás céljának megjelölésével, törvényben meghatározottak szerint – adatfeldolgozó számára átadhatja. Erről a kormánytisztviselőt előzetesen tájékoztatni kell.
+
+(3) A kormánytisztviselőre vonatkozó adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – hozzájárulása nélkül, személyazonosításra alkalmatlan módon – átadhatók.
+
+(4) A szakmai vezetők és a kormánytisztviselők önéletrajza tartalmazza az 5. mellékletben meghatározott kötelező adatköröket, valamint az önéletrajzhoz csatolandó, az önéletrajzban foglaltakat igazoló mellékleteket, illetve tartalmazhat egyéb kiegészítő információkra vonatkozó adatokat.
+
+177. § (1) Az államigazgatási szerv a kormánytisztviselőről az e törvény 2. mellékletében meghatározott adatkörre kiterjedő nyilvántartást vezet (a továbbiakban: közszolgálati alapnyilvántartás). A 2. mellékletben nem szereplő körben – törvény eltérő rendelkezésének hiányában – adatszerzés nem végezhető, ilyen adatot nyilvántartani nem lehet.
+
+(2) A közszolgálati alapnyilvántartás célja a kormányzati szolgálati jogviszonyból származó jogok gyakorlásához és kötelezettségek teljesítéséhez szükséges adatok kezelésének biztosítása a kormányzati szolgálati jogviszony alanyai számára.
+
+(3) A közszolgálati alapnyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, valamint a 178. § (1) bekezdésében, továbbá a 181. §-ban előírt adatszolgáltatásokért – eltérő jogszabályi rendelkezés hiányában – a kormánytisztviselőt alkalmazó államigazgatási szerv hivatali szervezetének vezetője felelős.
+
+(4) Közszolgálati adatvédelmi szabályzatban (a továbbiakban: szabályzat) kell meghatározni az iratok, az adatok kezelésének adatvédelmi, adatbiztonsági szabályait, így különösen a kormánytisztviselő saját adataival történő rendelkezési joga biztosításának, a harmadik személy részére történő adattovábbításnak, a betekintési jog gyakorlásának, valamint az adatkezelésben részt vevő kormánytisztviselő felelősségének és az adatokhoz történő hozzáférése terjedelmének szabályait.
+
+(5) Az államigazgatási szerv közszolgálati alapnyilvántartási rendszere törvény felhatalmazásának hiányában más adatrendszerrel nem kapcsolható össze.
+
+178. § (1) A közszolgálati alapnyilvántartás alapadatairól és azok változásairól, továbbá az államigazgatási szerv szervezeti adatairól évente a Kormány által rendeletben meghatározottak szerint az államigazgatási szervek – személyazonosításra alkalmatlan módon – adatszolgáltatást végeznek a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter részére.
+
+(2) A kormánytisztviselőknek, valamint az államigazgatási szervnél foglalkoztatott munkavállalóknak létszám- és illetményadatait, kereseti adatait a központi létszám- és bérgazdálkodási statisztikai információs rendszer a Kormány által meghatározott rendben átadja a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter részére a (3) bekezdés b) pontjában előírtak, valamint az államigazgatási szerveknél foglalkoztatott munkavállalók adatainak elemzése céljából.
+
+(3) Az (1)–(2) bekezdésben meghatározott statisztikai célú adatgyűjtés (a továbbiakban: közszolgálati statisztikai adatgyűjtés) célja:
+
+- a) a Kormány közszolgálati személyzetpolitikájának kialakításához és megvalósításához szükséges, a kormánytisztviselői életpályával összefüggő adatok és elemzések biztosítása;
+- b) a kormánytisztviselői életpálya előmeneteli- és illetményrendszerének országos működtetéséhez szükséges létszám- és illetményadatok elemzése az illetményalapra vonatkozó országgyűlési döntést előkészítő illetékes kormányzati szervek, illetve országgyűlési bizottságok részére;
+- c) a nemzetközi kapcsolatokkal összefüggő esetenkénti adatszolgáltatás biztosítása az illetékes szervek számára;
+- d) a Kormány által meghatározott körben a közvélemény tájékoztatása a kormánytisztviselői életpályával összefüggő adatokról.
+
+179. § Közérdekből nyilvános adatnak minősül
+
+- a) a kormánytisztviselő neve,
+- b) a kormánytisztviselő állampolgársága,
+- c) a kormánytisztviselőt alkalmazó államigazgatási szerv neve,
+- d) a c) pontban meghatározott szervnél a kormányzati szolgálati jogviszony kezdete,
+- e) a kormánytisztviselő jelenlegi besorolása, besorolásának időpontja,
+- f) a kormánytisztviselő munkakörének megnevezése és a betöltés időtartama,
+- g) a kormánytisztviselő vezetői kinevezésének és megszűnésének időpontja,
+- h) címadományozás adatai,
+- i) a kormánytisztviselő illetménye.
+
+180. § (1) Az államigazgatási szervnél vezetett közszolgálati alapnyilvántartásba – eljárásában indokolt mértékig – jogosult betekinteni, illetőleg abból adatokat átvenni:
+
+- a) saját adataiba a kormánytisztviselő,
+- b) a kormánytisztviselő felettese,
+- c) a minősítést végző vezető,
+- d) a törvényességi ellenőrzést végző,
+- e) a fegyelmi eljárást lefolytató testület vagy személy,
+- f) munkaügyi per kapcsán az eljáró bíróság,
+- g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
+- h) az ügyészi törvényességi feladatkörében eljárva az ügyész,
+- i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
+- j) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, e törvény 2. mellékletének I/A., I/B., II., IV., V., VII., VIII. és X. pontokban foglalt adatkörökből a kormánytisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából,
+- k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és a fővárosi, megyei kormányhivatal kormánytisztviselője feladatkörében,
+- l) a feladatai ellátásához szükséges mértékig adategyezés, adatösszevetés, adatkorrigálás érdekében a minisztériumokra, illetve a Miniszterelnökségre vonatkozó adatok tekintetében, valamint az államigazgatási szervek kormánytisztviselőinek képzésével, továbbképzésével, vizsgáztatásával kapcsolatos feladatai ellátásához a személyügyi központ vezetője, valamint az általa meghatározott körben, az általa feljogosított, személyügyi központnál alkalmazásban álló személy.
+
+(2) A kormánytisztviselő jogosult a róla nyilvántartott helytelen adat helyesbítését, a jogellenesen nyilvántartott adat törlését kérni, a jogellenesen kért adat közlését megtagadni. Az adatkezelő köteles a helytelen adatot haladéktalanul helyesbíteni, illetve törölni.
+
+(3) A személyügyi központ – az adatfelhasználás dokumentálásával – jogszabályban meghatározott feladatai ellátása érdekében statisztikai adatfeldolgozást végezhet.
+
+181. § A tartalékállományba helyezett kormánytisztviselőknek a 3. melléklet szerinti adatairól az államigazgatási szerv folyamatos adatszolgáltatást végez a Kormány által meghatározott rendben a személyügyi központ részére.
+
+182. § (1) A személyügyi központ nyilvántartja és kezeli az általa lefolytatott pályázati eljárással, a kompetencia vizsgálattal, és a toborzási adatbázissal kapcsolatos adatokat. A pályázati eljárás lefolytatását követően – függetlenül annak eredményességétől – a személyügyi központ a pályázati eljárásokkal kapcsolatos adatokat egyéni azonosításra alkalmatlan módon statisztikai adatgyűjtés céljából tárolhatja. A pályázati eljárással kapcsolatos adatokat a személyügyi központ a pályázati eljárás lezárását követően törli a nyilvántartásából, kivéve, ha a pályázó adatai további kezeléséhez hozzájárul, abból a célból, hogy a későbbi pályázati lehetőségekről tájékoztatást kapjon, valamint bekerüljön a toborzási adatbázisba. A személyügyi központ a versenyvizsgára vonatkozó adatokat, annak érvényessége lejártát követően törli a nyilvántartásából.
+
+(2) Az (1) bekezdésben meghatározott adatnyilvántartás és -kezelés a pályázó
+
+- a) természetes személyazonosító adataira,
+- b) önéletrajzára, motivációs levelére,
+- c) a pályázati eljáráshoz és a kiválasztáshoz kapcsolódó egyéb adataira,
+- d) a pályázati eljárás során használt kiválasztási módszerek eredményeire,
+- e) kompetencia-vizsgálat eredményére,
+- f) a 4. mellékletben meghatározott adatokra
+
+terjed ki.
+
+(3) A személyügyi központ által vezetett nyilvántartás célja a kiválasztási eljárás segítése. A személyügyi központ nyilvántartásában szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, az adatszolgáltatásért a személyügyi központ vezetője felelős.
+
+(4) A személyügyi központ által vezetett nyilvántartásból – kormányrendeletben meghatározott módon – a (3) bekezdésben meghatározott célra a pályázatot kiíró közigazgatási szerv számára személyazonosításra alkalmas módon, vagy statisztikai célra csak személyazonosításra alkalmatlan módon szolgáltatható adat.
+
+(5) A személyügyi központ által vezetett nyilvántartásba – eljárásában indokolt mértékig – jogosult betekinteni, illetve a személyügyi központ hozzájárulásával abból adatokat átvenni:
+
+- a) a személyügyi központ vezetője,
+- b) meghatározott körben a személyügyi központ vezetője által feljogosított, személyügyi központnál alkalmazásban álló személy,
+- c) a személyügyi központ felügyeletét ellátó közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és az általa meghatározott körben, az általa feljogosított kormánytisztviselő,
+- d) saját adatai tekintetében az adatbázisban szereplő személy,
+- e) a fegyelmi eljárást lefolytató testület vagy személy,
+- f) munkaügyi per kapcsán az eljáró bíróság,
+- g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
+- h) az ügyészi törvényességi feladatkörében eljárva az ügyész.
+
+(6) A személyügyi központ által vezetett nyilvántartásból kormányrendeletben meghatározott módon – személy azonosítására alkalmas adatokat nem tartalmazó – adatszolgáltatás végezhető.
+
+183. § (1) Az államigazgatási szervek kormánytisztviselőinek képzésével, továbbképzésével, vizsgáztatásával összefüggő nyilvántartását a személyügyi központ működteti. A személyügyi központ e feladata ellátása körében jogosult a (2)–(3) bekezdésben meghatározott nyilvántartásokba betekinteni.
+
+(2) A Kormány által rendeletben kijelölt vizsgaszervező a közigazgatási és ügykezelői alapvizsgával, valamint a közigazgatási szakvizsgával kapcsolatban a következő adatok körét tartja nyilván, illetve kezeli
+
+- a) a vizsgázó természetes személyazonosító adatait,
+- b) a vizsgázó munkáltatójára vonatkozó adatait,
+- c) a vizsgajegyzőkönyvben foglalt adatokat,
+- d) vizsgabizonyítvány számát, keltét,
+- e) a vizsga teljesítéséhez szükséges adatokat.
+
+(3) A továbbképzést szervező a továbbképzés lebonyolításával kapcsolatban a következő adatok körét tartja nyilván, illetve kezeli
+
+- a) a résztvevő természetes személyazonosító adatait,
+- b) a résztvevő munkáltatójára vonatkozó adatait,
+- c) a továbbképzés teljesítéséhez szükséges adatokat.
+
+### Személyi anyag
+
+184. § (1) A kormánytisztviselő kormányzati szolgálati jogviszonyával kapcsolatos iratok közül a kormánytisztviselő öt évnél nem régebbi fényképét, a közszolgálati alapnyilvántartás adatlapját, az önéletrajzot, a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványt, az esküokmányt, a kinevezést és annak módosítását, a főtisztviselői kinevezést, a vezetői kinevezést, a címadományozást, a besorolásról, illetve a visszatartásról, valamint az áthelyezésről rendelkező iratokat, a teljesítményértékelést, a minősítést, a kormányzati szolgálati jogviszonyt megszüntető iratot, a hatályban lévő fegyelmi büntetést kiszabó határozatot, a közszolgálati igazolás másolatát együttesen kell tárolni (személyi anyag).
+
+(2) A személyi anyagba való betekintésre a 180. § (1) bekezdésben foglaltak jogosultak.
+
+(3) A kormánytisztviselő személyi anyagát az államigazgatási szerv fekteti fel, illetve kéri meg, ha a kormánytisztviselő korábban kormányzati szolgálati jogviszonyban állt.
+
+(4) A személyi anyagot – kivéve, amelyet a (3) bekezdés alapján átadtak – a jogviszony megszűnésétől számított ötven évig meg kell őrizni.
+
+### A minisztériumokban és a Miniszterelnökségen foglalkoztatottak jogviszonyával összefüggő adatkezelés egyes szabályai, a közszolgálati nyilvántartás
+
+185. § (1) A minisztériumokban és a Miniszterelnökségen foglalkoztatottakra a 176–184. §-ban foglalt rendelkezéseket a 185–188. §-ban foglalt eltérésekkel kell megfelelően alkalmazni.
+
+(2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter jogosult a minisztériumokban és a Miniszterelnökségen foglalkoztatottak esetében a kormányzati tevékenység összehangolásának biztosítása céljából az általuk vezetett közszolgálati alapnyilvántartásba betekintetni.
+
+(3) A minisztériumok és a Miniszterelnökség közszolgálati alapnyilvántartását, mint adatfeldolgozó a személyügyi központ üzemelteti. A minisztériumok – a (2) bekezdésben foglalt estet kivéve – és a Miniszterelnökség a személyügyi központ elektronikus nyilvántartásában tárolt adatok esetében csak a vele kormánytisztviselői jogviszonyban álló kormánytisztviselő adataiba tekinthet be. A személyügyi központ – az adatfelhasználás dokumentálásával – jogszabályban meghatározott feladatai ellátása érdekében statisztikai adatfeldolgozást végezhet. A minisztériumok és a Miniszterelnökség állományába tartozó, illetve velük jogviszonyt létesítő kormánytisztviselőtől nem követelhető meg olyan adat igazolása vagy okiratmásolat szolgáltatása, amelyet a személyügyi központ által üzemeltetett közszolgálati alapnyilvántartás tartalmaz.
+
+(4) A (3) bekezdésben meghatározott adatfeldolgozást a személyügyi központ az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer keretén belül látja el.
+
+(5) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – a Kormány által meghatározott módon és adatkörben – jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet a (4) bekezdésben meghatározott rendszerben tárolt adatokból.
+
+(6) A Kormány által meghatározott államigazgatási szervnél foglalkoztatottak közszolgálati alapnyilvántartására a minisztériumra vonatkozó szabályokat kell alkalmazni.
+
+186. § (1) A személyügyi központ által vezetett minisztériumi, miniszterelnökségi közszolgálati alapnyilvántartásból – kormányrendeletben meghatározott módon – kormányzati szolgálati jogviszonnyal összefüggő adatkezelés céljából, személyazonosításra alkalmas módon a minisztériumok, illetve a Miniszterelnökség részére a vele kormánytisztviselői jogviszonyban álló kormánytisztviselők adatai tekintetében adatszolgáltatás végezhető.
+
+(2) Az állami vezetők esetében a közszolgálati alapnyilvántartásban kell nyilvántartani a 2. mellékletben meghatározott adatokon túl az állami vezetői igazolvány számát, az EÜ VIP kártya számát, a diplomata útlevél számát, az állami vezetők és az államigazgatási szervek kormánytisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendelet szerinti juttatások adatait is.
+
+(3) A tartós külszolgálatot teljesítő kormánytisztviselő esetében a 2. mellékletben meghatározott adatokon túl a közszolgálati alapnyilvántartásban kell nyilvántartani a külképviselet (állomáshely) megnevezését, a rangot (diplomáciai és konzuli), az ellátmányra, ellátmánypótlékra vonatkozó adatokat is.
+
+(4) A szakmai vezetők és a kormánytisztviselők önéletrajzát a minisztériumok és a Miniszterelnökség a 185. § (4) bekezdésében meghatározott rendszerben tartják nyilván és kezelik.
+
+187. § (1) A minisztériumok, valamint a Miniszterelnökség az illetmény és egyéb juttatás, valamint az ezekhez kapcsolódó adó-, társadalombiztosítási és egyéb, az államigazgatási szervet terhelő fizetési kötelezettségek teljesítése céljából külön törvényben meghatározott adatokat szolgáltatnak a kincstár részére. A kincstár számfejtett adatokat szolgáltat a 185. § (4) bekezdésében meghatározott rendszer útján – a díjazással kapcsolatos jogok gyakorlása és kötelezettségek teljesítése céljából – a minisztériumok és a Miniszterelnökség részére.
+
+(2) A honvédelemért felelős miniszter által vezetett minisztériummal kormánytisztviselői jogviszonyban állók esetében az (1) bekezdésben meghatározott adatokat a Költségvetés Gazdálkodási Információs Rendszer (a továbbiakban: KGIR) részére kell továbbítani, illetve a KGIR biztosítja a 185. § (4) bekezdésében meghatározott rendszer útján a számfejtett adatok átadását.
+
+(3) A minisztériumok és a Miniszterelnökség a működésükhöz szükséges gazdasági, informatikai, műszaki és elhelyezési feltételek biztosítása céljából adatot szolgáltatnak a kormánytisztviselő nevéről, neméről, születési idejéről, valamint szervezeti és munkaköri adatokról a Szolgáltatási és Ellátás Alapadat Tár (a továbbiakban: szolgáltatási adattár) rendszer részére. A szolgáltatási adattár a 185. § (4) bekezdésében meghatározott rendszer útján adatokat szolgáltat a minisztériumok és a Miniszterelnökség részére a kormánytisztviselő elhelyezésének adatairól.
+
+188. § (1) Az állami vezető és a kormánytisztviselő 2. melléklet szerinti nyilvántartásban kezelt adatai közül a (2) bekezdésben meghatározott személyes adatait a személyügyi központ a kormánytisztviselői kártya kiállítása céljából továbbítja a kártya kiállítását végző szerv részére.
+
+(2) A kormánytisztviselői kártya kiállítása céljából az állami vezető és kormánytisztviselő
+
+- a) neve, születési neve,
+- b) anyja neve,
+- c) születési helye és ideje,
+- d) személyazonosító igazolvány okmányazonosítója, valamint
+- e) lakcíme továbbítható.
+
+(3) A kormánytisztviselői kártya kiállítását végző szerv a kártya kiállításával összefüggésben kezeli az állami vezető és a kormánytisztviselő (2) bekezdés szerinti személyes adatait, fényképét, és a kiállításra kerülő kártya azonosítószámát, ezen adatokat az elektronikus beléptető rendszer működtetése, adatnyilvántartás vezetése céljából továbbítja a személyügyi központ részére. A személyügyi központ a részére továbbított adatokat a 185. § (4) bekezdésében meghatározott rendszerben nyilvántartja, azokból adatokat szolgáltathat.
+
+### A közszolgálati ellenőrzés
+
+189. § (1) A Kormány ellenőrzi – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és a fővárosi, megyei kormányhivatal közreműködésével – a kormánytisztviselői jogviszonyra vonatkozó jogszabályok végrehajtását. Ennek keretében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára évente meghatározhatja a vizsgálati tárgyköröket (célvizsgálat), valamint a vizsgálat alá vont 1. §-ban meghatározott szerveket (a továbbiakban: vizsgált szervek). A célvizsgálatot a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter folytatja le, amelynek tapasztalatairól a Kormányt évente tájékoztatja.
+
+(2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter jogosult -– a cél- és témavizsgálatok keretében – a Miniszterelnökségen, a minisztériumokban, a kormányhivataloknál és a központi hivataloknál:
+
+- a) a munkáltatói intézkedést tartalmazó iratokba betekinteni,
+- b) jogszabálysértés vagy célszerűtlen intézkedés esetén intézkedést kezdeményezni az államigazgatási szerv vezetőjénél vagy – vita esetén – annak felettes szervénél,
+- c) fegyelmi vagy kártérítési eljárást kezdeményezni.
+
+(3) A (2) bekezdés b)–c) pontjában meghatározott esetekben az államigazgatási szerv vezetője köteles a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter megkeresését érdemben megvizsgálni, és saját intézkedéséről vagy annak mellőzése okáról a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert – a megkereséstől számított harminc napon belül – tájékoztatni.
+
+(4) A (2) bekezdésbe nem tartozó vizsgált szervekkel kapcsolatos ellenőrzési jogkört a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter koordinálásával a fővárosi, megyei kormányhivatal gyakorolja.
+
+### Jogvita
+
+#### 190. §
+
+#### 191. §
+
+### Elévülés
+
+192. § (1) A kormányzati szolgálati jogviszonnyal kapcsolatos igény három év alatt évül el.
+
+(2) A bűncselekménnyel okozott kár megtérítésére irányuló igény öt év, ha a büntethetőség elévülési ideje ennél hosszabb, ennek megfelelő idő alatt évül el.
+
+(3) A kártérítés – e törvény eltérő rendelkezése hiányában – a károkozás bekövetkeztekor nyomban esedékes.
+
+(4) Az igény elévülése az esedékessé válástól kezdődik. Az igény elévülését hivatalból kell figyelembe venni.
+
+(5) Az elévült igényt bírósági úton érvényesíteni nem lehet. Az elévülés utáni teljesítést elévülés címén visszakövetelni nem lehet.
+
+(6) Ha a jogosult az igényét menthető okból nem tudja érvényesíteni, az akadály megszűnésétől számított hat hónapon belül ezt akkor is megteheti, ha az elévülési idő már eltelt, vagy abból hat hónapnál kevesebb van hátra.
+
+(7) Az igény érvényesítésére irányuló írásbeli felszólítás, az igénynek a bíróság előtti érvényesítése, a külön törvény szerinti közvetítő vagy békéltető igénybevételének kezdeményezése, az igény megegyezéssel történő módosítása, az egyezségkötés, valamint a kötelezett elismerése az elévülést megszakítja. Az elévülés megszakadása, illetőleg az elévülés megszakítását előidéző eljárás jogerős befejezése után az elévülési idő újra kezdődik. Ha az elévülést megszakító eljárás során végrehajtható határozatot hoztak, az elévülést csak a végrehajtási cselekmények szakítják meg.
+
+### Jogellenes jogviszony megszüntetés jogkövetkezményei
+
+193. § (1) Ha a bíróság megállapítja, hogy a munkáltató a kormánytisztviselő kormányzati szolgálati jogviszonyát jogellenesen szüntette meg, a kormánytisztviselő abban az esetben kérheti az eredeti munkakörében történő továbbfoglalkoztatását, ha
+
+- a) a megszüntetés a rendeltetésszerű joggyakorlás követelményébe (10. § (1) bekezdése), illetve felmentési védelembe (70–71. §) ütközik, vagy a munkáltató megszegi a felmentési korlátozásokra vonatkozó rendelkezéseket (57. § (4) bekezdése, 63. § (4) bekezdése), vagy
+- b) a munkáltató a választott szakszervezeti tisztségviselő, illetve a munkavédelmi képviselőnek (munkavédelmi bizottság tagjainak) kormányzati szolgálati jogviszonyát a 201. § (1) bekezdésébe, vagy a munkavédelemről szóló 1993. évi XCIII. törvény 76. §-ának (3) bekezdésébe ütköző módon szüntette meg, vagy
+- c) a fegyelmi felelősség nem áll fenn, vagy annak megállapítása esetén a hivatalvesztés fegyelmi büntetés nem áll arányban az elkövetett fegyelmi vétség súlyával, vagy
+- d) a jogviszony megszüntetése az egyenlő bánásmód követelményébe ütközött, vagy
+- e) a kormánytisztviselő a jogviszony közös megegyezéssel történő megszüntetését vagy erre irányuló saját jognyilatkozatát sikerrel támadta meg.
+
+(2) A munkáltató kérelmére a bíróság mellőzi a kormánytisztviselő eredeti munkakörbe történő visszahelyezését, feltéve, ha a kormánytisztviselő továbbfoglalkoztatása a munkáltatótól nem várható el. Ilyennek minősül különösen, ha
+
+- a) a kormánytisztviselő munkaköre megszűnt,
+- b) a munkakörét betöltötték,
+- c) a szervnél létszámcsökkentést hajtanak végre az ítélet jogerőssé válásakor,
+- d) a szervnél nincs üres álláshely.
+
+(3) Az (1) bekezdésben foglalt esetben meg kell téríteni a kormánytisztviselő elmaradt illetményét (egyéb járandóságait), továbbá a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is. Nem kell megtéríteni az illetménynek (egyéb járandóságnak), illetve a kárnak azt a részét, amely máshonnan megtérült vagy kellő gondosság mellett megtérülhetett volna. A kellő gondosság elmulasztásának különösen azt kell tekinteni, ha a kormánytisztviselő az állami foglalkoztatási szervvel nem működik együtt a munkavégzésre irányuló jogviszony létesítése érdekében, nem köt álláskeresési megállapodást, illetve az e szerv által felajánlott – a foglalkoztatás elősegítéséről szóló jogszabályban foglalt feltételekre tekintettel – megfelelő munkahelyet elutasítja, továbbá maga nem keres aktívan munkahelyet. A bíróság a kellő gondosság elmulasztásának az elmaradt illetmény, egyéb járandóságok, illetve a kormánytisztviselői kár megtérítésével kapcsolatos következményét az eset összes körülményének mérlegelése alapján állapítja meg.
+
+(4) Ha a kormányzati szolgálati jogviszony (1) bekezdésben foglalt módon történő jogellenes megszüntetése esetén a kormánytisztviselő az eredeti munkakörébe való visszahelyezést nem kéri vagy a bíróság mellőzi a kormánytisztviselő eredeti munkakörbe történő visszahelyezését, a kormányzati szolgálati jogviszony a jogellenességet megállapító határozat jogerőre emelkedésének napján szűnik meg. Ekkor – a (3) bekezdésben foglaltakon felül a bíróság a munkáltatót – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelésével – a kormánytisztviselő legalább két-, legfeljebb tizenkét havi illetményének megfelelő összeg megfizetésére kötelezi.
+
+(5) Ha a kormányzati szolgálati jogviszonyt nem az (1) bekezdésben foglalt módon szüntették meg jogellenesen, a kormányzati szolgálati jogviszony a megszüntetésről szóló jognyilatkozat szerinti időpontban megszűnik, de a kormánytisztviselő részére – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelése alapján – legalább két, legfeljebb huszonnégy havi illetményének megfelelő átalány-kártérítést kell fizetni.
+
+(6) A bíróság a kártérítés mértékének megítélésekor figyelembe veszi, hogy a kormánytisztviselő mennyiben tett eleget a (3) bekezdésben foglalt kötelezettségének (kárenyhítés).
+
+194. § (1) A kormánytisztviselő, ha a kormányzati szolgálati jogviszonyát nem az e törvényben előírtak szerint szünteti meg, köteles a munkáltató számára a lemondási időre járó illetményének megfelelő összeget megfizetni.
+
+(2) Ha a kormánytisztviselő a határozott időtartamú kormányzati szolgálati jogviszonyát szünteti meg jogellenesen, az (1) bekezdésben meghatározottakat megfelelően kell alkalmazni. Ha azonban a határozott időből még hátralévő időtartam rövidebb két hónapnál, a munkáltató csak a hátralévő időre járó illetmény megfizetését követelheti.
+
+(3) A munkáltató jogosult az (1), illetve a (2) bekezdésben meghatározott mértéket meghaladó kárának érvényesítésére is. Ezek együttesen nem haladhatják meg a kormánytisztviselő tizenkéthavi illetményének összegét.
+
+(4) A munkáltató (1)–(3) bekezdés alapján keletkezett igényeinek érvényesítésére a kormánytisztviselő által okozott kár megtérítésére vonatkozó szabályok az irányadók.
+
+### Kormánytisztviselői érdekegyeztetés
+
+### Általános rendelkezések
+
+195. § (1) A kormánytisztviselők szociális és gazdasági érdekeinek védelme, továbbá a munkabéke fenntartása érdekében e törvény szabályozza a szakszervezet és az államigazgatási szerv, illetve érdek-képviseleti szervezeteik kapcsolatrendszerét. Ennek keretében biztosítja a szervezkedés szabadságát, a kormánytisztviselők részvételét a munkafeltételek alakításában, meghatározza a munkaügyi konfliktusok megelőzésére, feloldására irányuló eljárást.
+
+(2) A kormánytisztviselőknek, illetve az államigazgatási szerveknek joga, hogy – törvényben meghatározott feltételek szerint – gazdasági és társadalmi érdekeik előmozdítása, védelme érdekében, mindennemű megkülönböztetés nélkül, másokkal együtt érdek-képviseleti szervezetet alakítsanak, illetve az általuk választott szervezetbe – kizárólag az adott szervezet szabályaitól függően – belépjenek, vagy az ilyen jellegű szervezetektől távol maradjanak.
+
+(3) Az érdek-képviseleti szervezetek jogosultak szövetségeket létesíteni, illetve ilyenekhez csatlakozni, ideértve a nemzetközi szövetségeket is.
+
+(4) A kormánytisztviselők jogosultak az államigazgatási szervnél szakszervezet létrehozására. A szakszervezet az államigazgatási szervnél szerveket működtethet, ezek működésébe tagjait bevonhatja.
+
+(5) Az államigazgatási szerv, illetve a szakszervezet köteles egymást írásban tájékoztatni a képviseletére jogosult, valamint a tisztségviselő személyéről.
+
+196. § (1) E fejezet alkalmazásában
+
+- a) tájékoztatás: a munkaügyi kapcsolatokkal, illetve a kormányzati szolgálati jogviszonnyal összefüggő információ átadása, ennek megismerését, megvizsgálását és az ezzel kapcsolatos vélemény kialakítását és képviseletét lehetővé tévő módon,
+- b) konzultáció: az államigazgatási szerv és a szakszervezet közötti véleménycsere, párbeszéd. A konzultációt a megállapodás érdekében, a kezdeményezésben megjelölt célnak megfelelően oly módon kell lefolytatni, hogy biztosított legyen a felek megfelelő képviselete, a közvetlen, személyes véleménycsere, valamint az érdemi tárgyalás.
+
+(2) Az államigazgatási szerv nem köteles tájékoztatást adni vagy konzultációt folytatni, ha ez olyan tény, információ, megoldás vagy adat nyilvánosságra kerülésével járhat, amely a közszolgálat érdekeit, illetve működését vagy az államigazgatási szerv jogos érdekeit, illetve működését veszélyeztetné.
+
+(3) A szakszervezet nevében vagy érdekében eljáró személy olyan tényt, információt, megoldást vagy adatot, amelyet az államigazgatási szerv jogos érdekei, illetve működése, valamint a közszolgálat érdekei, illetve működése védelmében kifejezetten bizalmasan vagy minősített adatként való kezelésre történő utalással hozott tudomására, semmilyen módon nem hozhatja nyilvánosságra és azt az e törvényben meghatározott célok elérésén kívüli tevékenységben semmilyen módon nem használhatja fel.
+
+(4) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak az államigazgatási szerv jogos érdekeinek, illetve működésének, valamint a közszolgálat érdekeinek, illetve működésének veszélyeztetése, valamint a személyhez fűződő jogok megsértése nélkül hozhatja nyilvánosságra.
+
+(5) Az e törvényben a szakszervezet számára biztosított jogok az államigazgatási szervnél képviselettel rendelkező helyi szakszervezetet illetik meg.
+
+197. § (1) Az államigazgatási szerv nem követelheti, hogy a kormánytisztviselő szakszervezethez való tartozásáról nyilatkozzék.
+
+(2) A kormánytisztviselő alkalmazását nem lehet attól függővé tenni, hogy tagja-e valamely szakszervezetnek, illetve megszünteti-e korábbi szakszervezeti tagságát, vagy vállalja-e az államigazgatási szerv által megjelölt szakszervezetbe történő belépést.
+
+(3) Szakszervezethez való tartozása vagy szakszervezeti tevékenysége miatt tilos a kormánytisztviselő kormányzati szolgálati jogviszonyát megszüntetni vagy a kormánytisztviselőt más módon megkülönböztetni.
+
+(4) Nem lehet jogosultságot vagy juttatást valamely szakszervezethez való tartozástól vagy az attól való távolmaradástól függővé tenni.
+
+(5) Az államigazgatási szerv szakszervezeti tagdíj levonásáért és a szakszervezet részére történő átutalásáért ellenértéket nem követelhet.
+
+(6) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően az államigazgatási szerv a kormánytisztviselők illetményéből a szakszervezeti tagdíjat az államigazgatási szerv és a kormánytisztviselő erre vonatkozó megállapodása esetén vonja le.
+
+### Központi érdekegyeztetés
+
+198. § (1) A közigazgatási szervek, valamint a közszolgálati tisztviselők érdekeinek egyeztetése, a vitás kérdések tárgyalásos rendezése, valamint a megfelelő megállapodások kialakítása céljából a Kormány, az országos önkormányzati érdek-képviseleti szervezetek, valamint a kormánytisztviselők és a köztisztviselők országos munkavállalói érdek-képviseleti szervezeteinek tárgyalócsoportja részvételével Közszolgálati Érdekegyeztető Fórum (a továbbiakban: KÉF) működik.
+
+(2) A KÉF hatáskörébe a közigazgatásban foglalkoztatott kormánytisztviselők és köztisztviselők élet- és munkakörülményeire, foglalkoztatási feltételeire vonatkozó tárgykörök tartoznak.
+
+(3) A KÉF véleményét ki kell kérni a (2) bekezdés szerinti hatáskörébe tartozó ügyekkel kapcsolatban az igazgatási munkaerővel és személyi juttatásokkal való gazdálkodás kérdéseiben.
+
+(4) A KÉF tájékoztatáskérésre, illetve javaslattételre jogosult a (2) bekezdés szerinti hatáskörébe tartozó egyéb ügyekkel kapcsolatban.
+
+(5) A KÉF szervezetének és működésének szabályait a Kormány nevében eljáró közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és az érdekegyeztetésben résztvevő felek közötti megállapodás tartalmazza. Titkársági feladatait a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el.
+
+199. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvényben, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvényben, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvényben szabályozott Országos Közszolgálati Érdekegyeztető Tanács az e törvény hatálya alá tartozó közszolgálati tisztviselők érdekegyeztető fóruma is.
+
+### Munkahelyi kormánytisztviselői érdekegyeztetés
+
+200. § (1) A munkahelyi kormányzati szolgálati kérdések rendezésére a munkahelyi kormánytisztviselői érdekegyeztetés szolgál. A munkahelyi kormánytisztviselői érdekegyeztetésben az államigazgatási szerv vezetője és a szakszervezet választott tisztségviselője vesz részt. A tárgyalópartnerek a vitás kérdések egyeztetésébe szakértőket is bevonhatnak.
+
+(2) Az államigazgatási szerv vezetője köteles kikérni a szakszervezet véleményét a kormánytisztviselők munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a munkáltató hatáskörébe utalt szabályozásról.
+
+(3) A (2) bekezdésben foglaltakon kívül a szakszervezet jogosult a kormánytisztviselők csoportját érintő munkáltatói intézkedéssel (döntéssel) vagy annak tervezetével kapcsolatos véleményét az államigazgatási szervvel közölni, ezzel összefüggésben konzultációt kezdeményezni.
+
+(4) A szakszervezet tájékoztatást kérhet az államigazgatási szervtől a kormánytisztviselők kormányzati szolgálati jogviszonyával összefüggő gazdasági és szociális érdekeivel kapcsolatban, így különösen tájékoztatást kérhet:
+
+- a) a (2) bekezdésben felsorolt tárgykörökben készült tervezetek, statisztikai létszám- és illetményadatok, számítások, elemzések és irányelvek megismerése érdekében,
+- b) a kormányzati szolgálati jogszabályok végrehajtásáról,
+- c) a helyi megállapodások betartásáról,
+- d) legalább félévente a részmunkaidős és a határozott időre szóló foglalkoztatás helyzetének alakulásáról.
+
+(5) A szakszervezet javaslatot tehet:
+
+- a) az államigazgatási szerv részére a kormánytisztviselőket érintő intézkedésekre,
+- b) a kormánytisztviselőket érintő helyi szabályozás egységes értelmezésére, valamint
+- c) a kormánytisztviselőket érintő helyi szabályozási tárgykörökre.
+
+(6) A szakszervezet jogosult a kormánytisztviselőket a munkaügyi kapcsolatokkal vagy a munkaviszonnyal összefüggő kérdésekben tájékoztatni.
+
+(7) Az államigazgatási szerv – a szakszervezettel egyeztetve – biztosítja annak lehetőségét, hogy a szakszervezet a tevékenységével kapcsolatos tájékoztatást az államigazgatási szervnél közzétegye.
+
+(8) A szakszervezet joga, hogy a kormánytisztviselőket az államigazgatási szervvel vagy ennek érdek-képviseleti szervezetével szemben anyagi, szociális, valamint élet- és munkakörülményeiket érintő jogaikkal és kötelezettségeikkel kapcsolatban képviselje.
+
+(9) A szakszervezet jogosult a tagját – meghatalmazás alapján – gazdasági és szociális érdekeinek védelme céljából bíróság, hatóság és egyéb szervek előtt képviselni.
+
+201. § (1) A közvetlen felsőbb szakszervezeti szerv egyetértése szükséges a szakszervezetnél választott tisztséget betöltő és a szakszervezet által megjelölt kormánytisztviselő kormányzati szolgálati jogviszonyának az államigazgatási szerv által felmentéssel történő megszüntetéséhez (kivéve a 63. § (2) bekezdés a) pontjában meghatározott felmentést), valamint az 51–55. §-ok szerinti munkáltatói intézkedéshez.
+
+(2) A szakszervezet az (1) bekezdésben foglaltak alkalmazása során legfeljebb egy kormánytisztviselőt jogosult megjelölni. Amennyiben az államigazgatási szervnek több telephelye van, a szakszervezet telephelyenként jogosult legfeljebb egy kormánytisztviselőt megjelölni.
+
+(3) A szakszervezet akkor jogosult az (1) bekezdés szerinti védelemre jogosult kormánytisztviselő helyett másik kormánytisztviselőt megjelölni, ha a kormánytisztviselő kormányzati szolgálati jogviszonya vagy tisztsége megszűnt.
+
+(4) A szakszervezet az (1) bekezdésben foglaltak szerinti munkáltatói intézkedéssel kapcsolatos álláspontját az államigazgatási szerv írásbeli tájékoztatásának átvételétől számított nyolc napon belül írásban közli. Ha a tervezett intézkedéssel a szakszervezet nem ért egyet, a tájékoztatásnak az egyet nem értés indokait tartalmaznia kell. Az indokolás akkor alapos, ha a tervezett intézkedés végrehajtása a szakszervezet érdek-képviseleti tevékenységében történő közreműködés miatti hátrányos megkülönböztetést eredményezne. Ha a szakszervezet véleményét a fenti határidőn belül nem közli az államigazgatási szervvel, úgy kell tekinteni, hogy a tervezett intézkedéssel egyetért.
+
+202. § (1) Feladata ellátása érdekében az államigazgatási szerv kormánytisztviselői közül legalább 10%-ának – de legalább harminc fő kormánytisztviselőnek – a tagságával rendelkező szakszervezetnél választott tisztséget betöltő és a szakszervezet által a 201. § (2) bekezdése szerint megjelölt kormánytisztviselőt a beosztás szerinti havi munkaideje tíz százalékának megfelelő munkaidő-kedvezmény illeti meg. Ezen túlmenően a konzultáció időtartamára mentesül a munkavégzési kötelezettség alól. A munkaidő-kedvezmény nem vonható össze. A munkaidő-kedvezmény igénybevételét legalább tíz nappal korábban be kell jelenteni. Ha a kedvezmény igénybevételét megalapozó indok a kormánytisztviselő önhibáján kívüli okból ennél később jut a tudomására, a tudomásszerzést követően köteles haladéktalanul bejelenteni a munkaidő-kedvezmény igénybevételére vonatkozó szándékát. Az államigazgatási szerv különösen indokolt esetben tagadhatja meg a munkaidő-kedvezmény igénybevételét.
+
+(2) A munkaidő-kedvezmény tartamára illetmény jár. A munkaidő-kedvezményt megváltani nem lehet.
+
+(3) A szakszervezet képviseletében eljáró, kormányzati szolgálati jogviszonyban nem álló személy, ha a szakszervezetnek az államigazgatási szervvel kormányzati szolgálati jogviszonyban álló tagja van, az államigazgatási szerv területére beléphet. A belépés és a munkahelyen való tartózkodás során az államigazgatási szerv működési rendjére vonatkozó szabályokat meg kell tartani.
+
+### Politikai tanácsadó, politikai főtanácsadó
+
+203. § (1) A Miniszterelnökséget vezető államtitkár miniszterelnökségi főtanácsadói és miniszterelnökségi tanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
+
+(2) A kormányzati tevékenység összehangolásáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet az általa vezetett minisztériumban a Kormány döntéseinek előkészítéséhez közvetlenül kapcsolódó feladatok ellátására.
+
+(3) A miniszter miniszteri főtanácsadói, miniszteri tanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszteri kabinetben a miniszter tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
+
+(4) Az államtitkár politikai főtanácsadói, politikai tanácsadói munkakört létesíthet az államtitkári kabinetben, illetve – ennek hiányában – az államtitkári titkárságon az államtitkár tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
+
+(5) A (2)–(4) bekezdésekben meghatározott munkakörök száma nem haladhatja meg az államigazgatási szervnél foglalkoztatott kormánytisztviselők létszámának 8%-át. Az (1)–(3) bekezdésekben foglaltak szerint megállapított munkaköröket a szervezeti és működési szabályzat (ügyrend) mellékletében kell feltüntetni.
+
+(6) A kinevezés a miniszterelnök, a miniszter vagy az államtitkár megbízatásának idejére szól.
+
+(7) Politikai főtanácsadói, politikai tanácsadói munkakörbe az nevezhető ki, aki felsőfokú iskolai végzettséggel és a 40. § (1) bekezdésben előírt egyéb feltételekkel rendelkezik. A politikai főtanácsadó, politikai tanácsadó a kormánytisztviselőkre vonatkozó szabályok szerint közigazgatási alap- és szakvizsgát tehet. A vizsgák költségei a politikai főtanácsadót, politikai tanácsadót terhelik, mely költségeket a közigazgatási szerv átvállalhatja.
+
+(8) Az (1)–(4) bekezdés szerinti feladat ellátására adott kinevezés – ideértve azt is, amikor a politikai tanácsadói munkakört a kinevezés módosításával állapítják meg – csak politikai főtanácsadói, politikai tanácsadói munkakör – kivéve a kabinetfőnököt – betöltésére szólhat. A politikai főtanácsadó vagy politikai tanácsadó kinevezése nem módosítható kormánytisztviselői vagy vezetői – ide nem értve a kabinetfőnököt – munkakörre.
+
+(9) A politikai főtanácsadó, politikai tanácsadó felett a munkáltatói jogokat
+
+- a) az (1) bekezdés esetében a Miniszterelnökséget vezető államtitkár,
+- b) a (2) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
+- c) a (3) bekezdés esetében a miniszter,
+- d) a (4) bekezdés esetében az államtitkár gyakorolja.
+
+204. § (1) A politikai főtanácsadó, politikai tanácsadó illetményét a munkáltatói jogkör gyakorlója állapítja meg. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+
+(2) A 101. § (1) bekezdése szerinti alapszabadságon felül a politikai főtanácsadó kilenc nap, a politikai tanácsadó hét nap pótszabadságra jogosult évente.
+
+(3) Ha a politikai főtanácsadó, politikai tanácsadó kormánytisztviselői jogviszonya a miniszterelnök, a miniszter vagy az államtitkár megbízatásának megszűnése következtében szűnik meg, végkielégítés címén kéthavi illetményére jogosult, feltéve, hogy a politikai főtanácsadói, politikai tanácsadói jogviszonya legalább két évig folyamatosan fennállt.
+
+(4) A végkielégítés megfizetésére a jogviszony megszűnését követő harmincegyedik napon kell intézkedni.
+
+(5) Amennyiben a politikai főtanácsadó, politikai tanácsadó jogviszonyának a (3) bekezdésében szabályozott módon történő megszűnését követő harminc napon belül újabb politikai főtanácsadói, politikai tanácsadói munkakörre kap kinevezést, végkielégítésre nem jogosult, de a (3) bekezdés szerinti végkielégítés szempontjából jogviszonyát folyamatosnak kell tekinteni.
+
+(6) Amennyiben a politikai főtanácsadó, politikai tanácsadó jogviszonyának a 203. § (6) bekezdésében szabályozott módon történő megszűnését követő harminc napon belül újabb kormánytisztviselői jogviszonyt létesít, jogviszonyát folyamatosnak kell tekinteni. A 69. § (3)–(4) bekezdésének alkalmazása szempontjából a politikai főtanácsadói, politikai tanácsadói jogviszonyban töltött idő kormánytisztviselői jogviszonyban töltött időnek minősül.
+
+(7) A politikai főtanácsadóra, politikai tanácsadóra e törvény rendelkezéseit megfelelően kell alkalmazni a 45. § (1)–(3) és (6) bekezdése, 58. §, 62. §, 69. §, 72–73. §, 101. § (2)–(7) bekezdése, 116–130. §, 131. § (2) és (7) bekezdése, 132–142. §, 150. §, 181. § kivételével.
+
+### Kabinetfőnök
+
+205. § (1) A politikai tanácsadói, politikai főtanácsadói munkakörbe kinevezett kabinetfőnökre a miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre vonatkozó e § szerinti rendelkezéseket kell alkalmazni. A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök kinevezése a 203. § (6) bekezdésben meghatározott időre szól. A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök végkielégítésre a 204. § (3)–(6) bekezdés alapján jogosult.
+
+(2) A miniszteri kabinetet főosztályvezetőként vezető kabinetfőnök felett a munkáltatói jogokat a miniszter, az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök felett az alapvető munkáltatói jogokat a miniszter, míg az egyéb munkáltató jogokat az államtitkár gyakorolja.
+
+(3) A miniszteri kabinetet főosztályvezetőként vezető kabinetfőnök gyakorolja a munkáltatói jogokat a miniszteri kabinet állományába tartozó kormánytisztviselők, valamint a miniszter titkárságát vezető osztályvezető felett. A vezetői kinevezés adása és visszavonása a miniszter hatáskörébe tartozik.
+
+(4) Az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnök gyakorolja a munkáltatói jogokat az államtitkári kabinet állományába tartozó kormánytisztviselők, valamint az államtitkár titkárságát vezető osztályvezető felett. A vezetői kinevezés adása és visszavonása az államtitkár hatáskörébe tartozik.
+
+(5) A miniszteri kabinetet és az államtitkári kabinetet főosztályvezetőként vezető kabinetfőnökre e törvény rendelkezéseit megfelelően kell alkalmazni a 45. § (1)–(3) és (6) bekezdése, 58. §, 62. §, 69. §, 72–73. §, 116–128. §, 130. §, 181. §, 203. § (7)–(9) bekezdése, 204. § (1)–(2) és (7) bekezdése kivételével.
+
+### VI. Fejezet — A KORMÁNYZATI ÜGYKEZELŐK
+
+206. § (1) A kormányzati ügykezelő kormányzati szolgálati jogviszonyára e törvény kormánytisztviselőkre vonatkozó rendelkezéseit az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
+
+(2) Ahol e törvény „kormánytisztviselőt” említ azon e fejezet alkalmazásában „kormányzati ügykezelőt” kell érteni.
+
+(3) A kormányzati ügykezelő kormányzati szolgálati jogviszonyában
+
+- a) a kinevezés feltételei közül a 39. § (1) bekezdését, a pályázatra [45. § (1) bekezdése] vonatkozó rendelkezést,
+- b) a tartalékállományra (73. §, 181. §) vonatkozó rendelkezéseket,
+- c) a szabadságra vonatkozó szabályok közül a 101. § (1)–(5) bekezdéseit,
+- d) a kormánytisztviselők besorolására [116–117. §, 118. § (1) és (2) bekezdése, 119–123.§] vonatkozó rendelkezéseket,
+- e) a közigazgatási alapvizsgára, szakvizsgára [118. § (3)–(12) bekezdése] vonatkozó rendelkezéseket,
+- f) a címadományozásra, a tanácsadói, főtanácsadói munkakörökre (125–128. §) vonatkozó rendelkezéseket,
+- g) vezetői kinevezésre (129. §) vonatkozó rendelkezéseket,
+- h) a teljesítményértékelésre, minősítésre (130. §) vonatkozó rendelkezéseket,
+- i) az illetményre vonatkozó szabályok közül a 131. § (2) és (3) bekezdését és a (7) bekezdését, a 132–142. §-t nem lehet alkalmazni.
+
+(4) A (3) bekezdésben foglaltaktól eltérően központi államigazgatási szervnél foglalkoztatott kormányzati ügykezelőre a 142. § azzal az eltéréssel alkalmazandó, hogy részére megállapítható munkaköri pótlék.
+
+207. § (1) Kormányzati szolgálati jogviszony kormányzati ügykezelői munkakörre
+
+- a) büntetlen előéletű,
+- b) cselekvőképes, valamint
+- c) legalább középszintű szakképesítéssel rendelkező magyar állampolgárral létesíthető és tartható fenn.
+
+(2) Az (1) bekezdéstől eltérően kormányzati ügykezelői munkakörre kormányzati szolgálati jogviszony – a jogszabály által meghatározott fontos és bizalmas ügykezelői munkaköröket, valamint az ügykezelői osztályvezetői kinevezés esetét kivéve –
+
+- a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személlyel, valamint
+- b) az Európai Szociális Kartáról szóló megállapodásban résztvevő államok állampolgárával
+
+is létesíthető, ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel rendelkezik.
+
+(3) Az e törvényben meghatározott alkalmazási feltételek alól felmentés nem adható.
+
+(4) Ha a kormányzati szolgálati jogviszony létesítéséhez hatósági engedély szükséges, a kormányzati szolgálati jogviszony legfeljebb az engedélyben meghatározott időtartamra létesíthető.
+
+(5) A 45. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a toborzási adatbázisba a (2) bekezdésben meghatározott állampolgársággal rendelkező személy is kérheti felvételét, aki büntetlen előéletű, cselekvőképes és legalább középszintű szakképesítéssel rendelkezik.
+
+(6) A kormányzati ügykezelő – a vezetői kinevezésre vonatkozó szabályok (129. §) megfelelő alkalmazásával – kormányzati ügykezelőkből álló szervezeti egység vezetésére osztályvezetői munkakörre szóló kinevezést kaphat.
+
+208. § (1) A kormányzati ügykezelő illetményét a hivatali szervezet vezetője állapítja meg oly módon, hogy az legalább elérje a garantált bérminimum összegét, de ne haladja meg az illetményalap hatszorosát. Az illetmény megállapításakor arányosan figyelembe kell venni a kormányzati ügykezelő szolgálati jogviszonyban töltött idejét. Az illetmény megállapításakor figyelembe veendő egyéb szempontokat a közszolgálati szabályzatban kell rögzíteni.
+
+(2) A kormányzati ügykezelő osztályvezető illetményét az (1) bekezdés szerint kell megállapítani azzal, hogy illetményének a vezetése alá tartozó kormányzati ügykezelők illetményét meg kell haladnia.
+
+209. § (1) A kormányzati ügykezelők alapszabadságának mértéke húsz munkanap.
+
+(2) Az (1) bekezdésben meghatározott szabadság a kormányzati ügykezelő
+
+- a) huszonötödik életévétől huszonegy;
+- b) huszonnyolcadik életévétől huszonkettő;
+- c) harmincegyedik életévétől huszonhárom;
+- d) harmincharmadik életévétől huszonnégy;
+- e) harmincötödik életévétől huszonöt;
+- f) harminchetedik életévétől huszonhat;
+- g) harminckilencedik életévétől huszonhét;
+- h) negyvenegyedik életévétől huszonnyolc;
+- i) negyvenharmadik életévétől huszonkilenc;
+- j) negyvenötödik életévétől harminc
+
+munkanapra emelkedik.
+
+(3) A hosszabb tartamú szabadság abban az évben illeti meg először a kormányzati ügykezelőt, amelyben a (2) bekezdésben meghatározott életkort betölti.
+
+210. § (1) A kormányzati ügykezelőnek a kormányzati szolgálati jogviszony keletkezésétől számított hat hónapon belül ügykezelői alapvizsgát kell tennie. Ha a kormányzati ügykezelő az alapvizsgát az előírt határidőt követő hat hónapon belül nem teszi le, kormányzati ügykezelői jogviszonya megszűnik.
+
+(2) Nem kell ügykezelői alapvizsgát tennie annak, aki közgazdasági szakközépiskola igazgatás ügyviteli szakán szerzett képesítéssel, illetőleg közigazgatási alap- vagy szakvizsgával rendelkezik.
+
+211. § A kormányzati ügykezelő tevékenységét legalább ötévenként értékelni kell. Az értékelés szempontjait – a 130. §-ban meghatározott minősítési szabályok alapulvételével – a munkáltatói jogkör gyakorlója határozza meg.
+
+### VII. Fejezet — SZAKMAI VEZETŐK
+
+### Közös szabályok
+
+212. § (1) A szakmai vezetők kormányzati szolgálati jogviszonyára e törvény kormánytisztviselőkre vonatkozó rendelkezéseit az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
+
+(2) Ha a szakmai vezető kormányzati szolgálati jogviszonya megszűnik, jogosult a tisztségére utaló megnevezést használni, feltéve, hogy a kormányzati szolgálati jogviszonya nem az összeférhetetlenségének megállapítása vagy hivatalvesztés fegyelmi büntetés miatt szűnt meg, vagy azért szűnt meg, mert az országgyűlési képviselők választásán már nem választható.
+
+(3) A szakmai vezető a jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított tizenöt napon belül köteles visszafizetni.
+
+(4) Ha a szakmai vezető kinevezéséről, felmentéséről vagy jogviszonya lemondás miatti megszűnésének megállapításáról szóló okiratban a kormányzati szolgálati jogviszony keletkezésének vagy megszűnésének időpontja naptári napként van meghatározva, a szakmai vezető a megjelölt naptári nap kezdetén lép hivatalba, illetve jogviszonya a megjelölt naptári nap végén szűnik meg.
+
+213. § (1) A szakmai vezető összeférhetetlenségére a 87. §-ának a vezetői munkakört betöltő kormánytisztviselőre vonatkozó rendelkezéseit a (2)–(4) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(2) A szakmai vezető érdek-képviseleti szervezetben tisztséget, szövetkezetben vezető tisztséget nem viselhet, nem lehet továbbá alapítvány kezelő szervezetének tagja.
+
+(3) Nem keletkeztet összeférhetetlenséget, ha a szakmai vezető a Magyar Nemzeti Bank felügyelőbizottságának tagja, a Nemzeti Vagyongazdálkodási Tanács tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke vagy tagja.
+
+(4) Ha az összeférhetetlenségi eljárás ideje alatt a szakmai vezető a vele szemben fennálló összeférhetetlenségi okot megszünteti, az összeférhetetlenség megállapítását mellőzni kell.
+
+214. § (1) A szakmai vezető végkielégítésre nem jogosult.
+
+(2) A szakmai vezetőt minden naptári évben negyven munkanap szabadság illeti meg. A szabadság igénybevételét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárának előzetesen be kell jelenteni. A 103. § (4) bekezdését azzal az eltéréssel kell alkalmazni a szakmai vezetőre, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni a szakmai vezető által kért időpontban. A 108. § szerint kiadott, illetve kivett szabadságot azzal az eltéréssel kell alkalmazni a szakmai vezetőre, hogy az nem haladhatja meg a huszonnégy munkanapot.
+
+(3) A fegyelmi vétséget elkövető szakmai vezetővel szemben kiszabható fegyelmi büntetések:
+
+- a) megrovás,
+- b) hivatalvesztés.
+
+(4) A szakmai vezető kormányzati szolgálati jogviszonyára e törvény rendelkezéseit a 37–38. §, 40. §, 45. § (1)–(3) és (6) bekezdése, 46. §, 48. § (2)–(7) bekezdése, 50. §, 53. §, 55–57. §, 60–73. §, 100–101. §, 116–130. §, 133–142. §, 155. § (2)–(4) bekezdése, 181–182. §, 183. § (2) bekezdése, 203–205. § kivételével megfelelően kell alkalmazni.
+
+### A közigazgatási államtitkár
+
+215. § (1) Közigazgatási államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki egyetemi szintű végzettséggel és jogász, közgazdász vagy közigazgatási menedzser szakképzettséggel vagy felsőfokú végzettséggel és a feladat- és hatáskörének megfelelő szakirányú szakképzettséggel rendelkezik.
+
+(2) A közigazgatási államtitkárt a miniszterelnöknek a miniszter véleménye kikérését követően tett javaslatára a köztársasági elnök határozatlan időre nevezi ki. A miniszter véleményét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter útján terjeszti a miniszterelnök elé. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a véleményre észrevételt tehet.
+
+(3) A közigazgatási államtitkár a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
+
+(4) A közigazgatási államtitkár tekintetében a munkáltatói jogokat a miniszter gyakorolja.
+
+(5) A kinevezett közigazgatási államtitkár a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
+
+216. § (1) A közigazgatási államtitkár kormányzati szolgálati jogviszonya megszűnik:
+
+- a) halálával,
+- b) ha az országgyűlési képviselők választásán már nem választható,
+- c) összeférhetetlenségének megállapításával, vagy
+- d) országgyűlési, helyi önkormányzati képviselővé, polgármesterré vagy politikai vezetővé történő megválasztásával, illetve kinevezésével.
+
+(2) A közigazgatási államtitkár kormányzati szolgálati jogviszonya megszüntethető:
+
+- a) áthelyezéssel,
+- b) lemondással,
+- c) felmentéssel vagy
+- d) hivatalvesztés fegyelmi büntetéssel.
+
+(3) A hivatalvesztést a fegyelmi tanácsnak a miniszterelnök útján felterjesztett javaslatára a köztársasági elnök mondja ki.
+
+217. § (1) A közigazgatási államtitkár a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat a jogviszonyáról. A nyilatkozatot a közigazgatási államtitkár a miniszterhez juttatja el, aki azt haladéktalanul továbbítja a miniszterelnöknek.
+
+(2) Ha a közigazgatási államtitkár e tisztségét legalább három évig betöltötte, a lemondási idő a lemondásnak a miniszterelnökhöz történő eljuttatástól számított három hónap, ha e tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte, a lemondási idő negyvenöt nap, amelynek időtartama alatt a közigazgatási államtitkár a munkavégzési kötelezettség alól mentesül. Ha a közigazgatási államtitkár tisztségét egy évnél rövidebb ideig töltötte be, kormányzati szolgálati jogviszonya a lemondásnak a köztársasági elnök által történő kézhezvételét követő tizenötödik napon szűnik meg.
+
+218. § (1) A miniszterelnök a miniszter véleménye kikérését követően bármikor javaslatot tehet a köztársasági elnöknek a közigazgatási államtitkár felmentésére. A felmentést nem kell megindokolni.
+
+(2) A közigazgatási államtitkár számára felmentését megelőzően – kivéve, ha arra nyugdíjjogosultság miatti kérelem alapján kerül sor – végzettségének és szakképzettségének, szakképesítésének megfelelő vezetői munkakört kell felajánlani valamely központi államigazgatási szervnél.
+
+(3) Ha a közigazgatási államtitkár a felajánlott vezetői munkakört elfogadja, át kell helyezni. Ha a közigazgatási államtitkár e tisztségét legalább három évig betöltötte az áthelyezésétől számított hat hónapon át, ha e tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte, akkor három hónapon át megilleti a korábbi illetménye és az új illetménye különbségének összege, ha az előbbi magasabb volt.
+
+(4) Ha a közigazgatási államtitkár a felajánlott vezetői munkakört nem fogadja el és tisztségét legalább három évig betöltötte hat hónapi, ha tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte három hónapi felmentési idő illeti meg, amelynek időtartama alatt a munkavégzési kötelezettség alól mentesül. Ha a közigazgatási államtitkár tisztségét egy évnél rövidebb ideig töltötte be, felmentési ideje tizenöt nap.
+
+(5) A (4) bekezdésben meghatározott időtartamokhoz a közigazgatási államtitkári tisztséget megelőzően folyamatosan betöltött állami vezetői tisztség időtartamát – a hatáskörgyakorlás megszűnésétől az új tisztséggel összefüggésben a hivatalba lépésig terjedő, legfeljebb hat hónapos, valamint a kormányzati szolgálati jogviszony megszűnésétől a hatáskörgyakorlás megszűnéséig terjedő megszakítást a folyamatosság szempontjából nem számítva – hozzá kell számítani.
+
+(6) Ha a közigazgatási államtitkár az összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a köztársasági elnök a miniszterelnök javaslatára az indítvány kézhezvételétől számított harminc napon belül dönt az összeférhetetlenség kérdésében.
+
+(7) Ha a közigazgatási államtitkár kormányzati szolgálati jogviszonya a 216. § (1) bekezdés a)–b) vagy d) pontja, illetve (2) bekezdés a)–b) pontja alapján szűnik meg, ennek tényét a miniszterelnök előterjesztésére a köztársasági elnök állapítja meg.
+
+219. § (1) A közigazgatási államtitkár alapilletménye az illetményalap (132. §) tizenkétszerese.
+
+(2) A közigazgatási államtitkár illetménykiegészítésre jogosult, amelynek összege az alapilletmény 50%-a.
+
+(3) A közigazgatási államtitkár vezetői illetménypótléka az alapilletmény 65%-a.
+
+(4) A közigazgatási államtitkár alapilletményét a miniszter át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti.
+
+(5) A közigazgatási államtitkár jutalmazásáról a tevékenységét irányító miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslata alapján a miniszterelnök dönt.
+
+(6) A közigazgatási államtitkár részére a tevékenységét irányító miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslata alapján a miniszterelnök célprémiumot állapíthat meg.
+
+### A helyettes államtitkár
+
+220. § (1) Helyettes államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki egyetemi szintű végzettséggel és jogász vagy közgazdász, vagy közigazgatási menedzser szakképzettséggel, vagy felsőfokú végzettséggel és a feladat- és hatáskörének megfelelő szakirányú szakképzettséggel rendelkezik.
+
+(2) A helyettes államtitkárt a miniszter javaslatára a miniszterelnök határozatlan időre nevezi ki. A Miniszterelnökségen működő helyettes államtitkárt a Miniszterelnökséget vezető államtitkár javaslatára nevezi ki a miniszterelnök.
+
+(3) A miniszter javaslatát – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter kivételével – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára útján terjeszti a miniszterelnök elé.
+
+(4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára a javaslat megküldésétől számított tizenöt napon belül kifogással élhet, és a javaslatot visszaküldheti a miniszternek, vagy továbbítja azt a miniszterelnöknek.
+
+(5) A (3)–(4) bekezdés rendelkezéseit a Miniszterelnökségen működő helyettes államtitkárra nem kell alkalmazni.
+
+(6) A helyettes államtitkár a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
+
+(7) A helyettes államtitkár tekintetében a munkáltatói jogokat a közigazgatási államtitkár gyakorolja. A Miniszterelnökségen működő helyettes államtitkár felett a Miniszterelnökséget vezető államtitkár gyakorolja a munkáltatói jogokat.
+
+(8) A kinevezett helyettes államtitkár a miniszterelnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
+
+221. § (1) A helyettes államtitkár kormányzati szolgálati jogviszonya megszűnik:
+
+- a) halálával,
+- b) ha az országgyűlési képviselők választásán már nem választható,
+- c) összeférhetetlenségének megállapításával, vagy
+- d) országgyűlési, helyi önkormányzati képviselővé, polgármesterré, politikai vezetővé vagy érdek-képviseleti szervezet tisztségviselőjévé történő megválasztásával, illetve kinevezésével.
+
+(2) A helyettes államtitkár kormányzati szolgálati jogviszonya megszüntethető:
+
+- a) áthelyezéssel,
+- b) lemondással,
+- c) felmentéssel vagy
+- d) hivatalvesztés fegyelmi büntetéssel.
+
+222. § (1) A helyettes államtitkár a miniszter útján a miniszterelnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat a jogviszonyáról. A Miniszterelnökségen működő helyettes államtitkár a Miniszterelnökséget vezető államtitkár útján juttatja el lemondását a miniszterelnökhöz.
+
+(2) Ha a helyettes államtitkár e tisztségét legalább három évig betöltötte, a lemondási idő a lemondásnak a miniszterhez, illetve a Miniszterelnökséget vezető államtitkárhoz történő eljuttatástól számított három hónap, ha e tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte, a lemondási idő negyvenöt nap, amelynek időtartama alatt a helyettes államtitkár a munkavégzési kötelezettség alól mentesül. Ha a helyettes államtitkár tisztségét egy évnél rövidebb ideig töltötte be, kormányzati szolgálati jogviszonya megszűnésének időpontja a lemondásnak a miniszterelnök által történő kézhezvételét követő tizenötödik nap.
+
+223. § (1) A miniszter bármikor javaslatot tehet a miniszterelnöknek a helyettes államtitkár felmentésére. A Miniszterelnökségen működő helyettes államtitkár felmentésére a Miniszterelnökséget vezető államtitkár tehet javaslatot. A felmentést nem kell megindokolni. A helyettes államtitkár felmentésére egyebekben a 218. § (2)–(5) bekezdésének rendelkezéseit kell megfelelően alkalmazni azzal, hogy, ha a helyettes államtitkár tisztségét egy évnél rövidebb ideig töltötte be, felmentési ideje tizenöt nap.
+
+(2) Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a miniszterelnök a miniszter javaslatára az indítvány kézhezvételétől számított harminc napon belül dönt az összeférhetetlenség kérdésében.
+
+(3) Ha a helyettes államtitkár kormányzati szolgálati jogviszonya a 221. § (1) bekezdés a)–b) vagy d) pontja, illetve (2) bekezdés a)–d) pontja alapján szűnik meg, ennek tényét a miniszter előterjesztésére a miniszterelnök állapítja meg; a Miniszterelnökségen működő helyettes államtitkár esetében az előterjesztést a Miniszterelnökséget vezető államtitkár teszi meg.
+
+224. § (1) A helyettes államtitkár alapilletménye az illetményalap (132. §) kilencszerese.
+
+(2) A helyettes államtitkár illetménykiegészítésre jogosult, amelynek összege az alapilletmény 50%-a.
+
+(3) A helyettes államtitkár vezetői illetménypótléka az alapilletmény 65%-a.
+
+(4) A helyettes államtitkár alapilletményét minisztériumban a miniszter, a Miniszterelnökségen a Miniszterelnökséget vezető államtitkár át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti.
+
+(5) A helyettes államtitkár jutalmazásáról a közigazgatási államtitkár és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárának együttes javaslata alapján a miniszter dönt. A Miniszterelnökségen működő helyettes államtitkár jutalmazásáról a Miniszterelnökséget vezető államtitkár dönt.
+
+(6) A helyettes államtitkár részére a közigazgatási államtitkár és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztérium közigazgatási államtitkárának együttes javaslata alapján a miniszter célprémiumot állapíthat meg. A Miniszterelnökségen működő helyettes államtitkár részére a Miniszterelnökséget vezető államtitkár célprémiumot állapíthat meg.
+
+225. § A hivatalvesztést a fegyelmi tanács javaslatára a miniszter vagy – a Miniszterelnökségen működő helyettes államtitkár esetében – a miniszterelnök mondja ki.
+
+## NEGYEDIK RÉSZ — KÖZSZOLGÁLATI JOGVISZONYBAN ÁLLÓK
+
+### VIII. Fejezet — A KÖZTISZTVISELŐK
+
+226. § (1) A közszolgálati jogviszonyban e törvény kormánytisztviselőkre vonatkozó rendelkezéseit az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
+
+(2) Ahol e törvény
+
+- a) „államigazgatási szervet” említ, azon e fejezet alkalmazásában „közigazgatási szervet” kell érteni,
+- b) „kormánytisztviselőt” említ, azon e fejezet alkalmazásában „köztisztviselőt” kell érteni,
+- c) „kormányzati szolgálati jogviszonyt” említ, azon e fejezet alkalmazásában „közszolgálati jogviszonyt” kell érteni.
+
+(3) A közszolgálati jogviszonyban
+
+- a) a 8. § (4) bekezdésében meghatározott 10%-os létszámkorlát,
+- b) a Magyar Kormánytisztviselői Karra vonatkozó rendelkezések (28–35. §),
+- c) a kormányzati érdekből történő kirendelés (55. §),
+- d)
+
+(4) Az Országgyűlés Hivatala szervezeti és működési szabályzata a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
+
+(5) A 142. § azzal az eltéréssel alkalmazandó, hogy a közszolgálati jogviszonyban munkaköri pótlék nem állapítható meg.
+
+(6) Az Országgyűlés Hivatalánál a 142. § azzal az eltéréssel alkalmazandó, hogy a hivatali szerv vezetője az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.
+
+### A munkáltatói jogkör gyakorlása
+
+227. § (1) A munkáltatói jogokat, ha törvény vagy kormányrendelet eltérően nem rendelkezik, a közigazgatási szerv hivatali szervezetének vezetője, illetve a képviselő-testület gyakorolja.
+
+(2) Az Országgyűlés Hivatalának vezetői felett a munkáltatói jogokat, továbbá a helyettes vezetők felett az alapvető munkáltatói jogokat az Országgyűlés elnöke, a helyettes vezetők feletti egyéb munkáltatói jogokat és az Országgyűlés Hivatala további köztisztviselői feletti munkáltatói jogokat az Országgyűlés Hivatalának vezetői – a szervezeti és működési szabályzatban meghatározottak szerint – gyakorolják.
+
+### A közszolgálati jogviszony létesítése, besorolás
+
+228. § A köztisztviselőt az e törvényben meghatározott feltételek teljesítése esetén – a 233. §-ban foglaltak kivételével – iskolai végzettségének és a közszolgálati jogviszonyban eltöltött idejének megfelelően kell besorolni.
+
+### Jogviszony megszüntetés
+
+229. § (1) A 63. § (1) bekezdés a) pontjában foglaltaktól eltérően a közszolgálati jogviszony felmentéssel akkor szüntethető meg, ha az Országgyűlés, illetve a helyi önkormányzati képviselő-testület döntése alapján a közigazgatási szerv hivatali szervezetében létszámcsökkentést kell végrehajtani, és emiatt a köztisztviselő további foglalkoztatására nincs lehetőség.
+
+(2) Ha a közigazgatási szerv jogutód nélkül szűnik meg, akkor a közszolgálati jogviszony megszüntetésével, valamint a 73. §-ban meghatározott feladatokkal kapcsolatos munkáltatói intézkedéseket – ha jogszabály eltérően nem rendelkezik – a megszűnő közigazgatási szerv hozza meg.
+
+(3) A 72. § rendelkezéseit megfelelően kell alkalmazni, ha a köztisztviselő jogviszonya kormányzati szolgálati jogviszonnyá, közalkalmazotti jogviszonnyá, illetve munkaviszonnyá alakul át.
+
+### A köztisztviselő képzése, továbbképzése
+
+230. § A polgármester és a helyi önkormányzati képviselő jogosult részt venni a 80. § (1) bekezdésében meghatározott képzéseken. Ezek költségét a helyi önkormányzat biztosítja. A képzéshez szükséges költségek akkor biztosíthatóak, ha az nem veszélyezteti a köztisztviselői továbbképzések pénzügyi feltételeit.
+
+### Hivatásetika, összeférhetetlenség
+
+231. § (1) A 83. § azzal az eltéréssel alkalmazandó, hogy a hivatásetikai alapelvek részletes tartalmát, valamint az etikai eljárás szabályait a képviselő-testület, illetve a 2. §-ban felsorolt szervek vezetője állapítja meg. Az etikai vétséget elkövető köztisztviselővel szemben kiszabható büntetés a figyelmeztetés vagy a megrovás.
+
+(2) A községi önkormányzat képviselő-testülete – ha jogszabály másként nem rendelkezik – a 84. § (1) bekezdésben foglalt tilalom alól – különösen indokolt esetben – felmentést adhat.
+
+### Munkaidő, igazgatási szünet
+
+232. § (1) A képviselő-testület a heti munkaidő figyelembevételével a napi munkaidő beosztását az általános munkarendtől [89. § (1) bekezdés] eltérően is megállapíthatja.
+
+(2) A rendkívüli munkaidőért járó szabadidőt az Országgyűlés Hivatalában száznyolcvan napon belül kell kiadni, ha ez nem lehetséges, meg kell váltani.
+
+(3) A képviselő-testület, valamint a 2. §-ban felsorolt szervek vezetője – a Kormány ajánlásának figyelembevételével – a rendes szabadság kiadására igazgatási szünetet rendelhet el. Az ilyen módon kiadott rendes szabadság nem haladhatja meg a köztisztviselő adott évre megállapított alapszabadságának a háromötödét.
+
+### Címek
+
+233. § (1) A 2. §-ban felsorolt szerveknél főtanácsadói és tanácsadói munkakör létesíthető.
+
+(2) A főtanácsadói, tanácsadói munkakör betöltésére vonatkozó kinevezés határozatlan időre szól, nem minősül vezetői kinevezésnek, és az külön indokolás nélkül bármikor visszavonható. A munkakörről a köztisztviselő indokolás nélkül bármikor lemondhat. A főtanácsadói vagy tanácsadói munkakörrel rendelkező köztisztviselő – tekintet nélkül a közszolgálati jogviszonyban eltöltött idejére – vezető-főtanácsosi vagy főtanácsosi besorolást kap. A vezető-főtanácsosi besorolású köztisztviselő főosztályvezetői, a főtanácsosi besorolású köztisztviselő főosztályvezető-helyettesi illetményre jogosult.
+
+(3) Az (1) bekezdésben foglaltak szerint megállapított munkaköröket a szervezeti és működési szabályzat (ügyrend) mellékletében fel kell tüntetni.
+
+(4) Főtanácsadói munkakör ellátására kinevezés annak a köztisztviselőnek adható, aki feladata ellátásához szükséges egyetemi szintű végzettséggel és szakirányú szakképzettséggel, jogi vagy közigazgatási szakvizsgával, vagy a közigazgatási szakvizsga alól adott OKV elnökségi teljes körű mentesítéssel és legalább ötéves szakmai gyakorlattal rendelkezik.
+
+(5) Tanácsadói munkakör ellátására kinevezés annak a köztisztviselőnek adható, aki feladata ellátásához szükséges felsőfokú iskolai végzettséggel és szakirányú szakképzettséggel, jogi vagy közigazgatási szakvizsgával, vagy a közigazgatási szakvizsga alól adott OKV elnökségi teljes körű mentesítéssel és legalább kétéves szakmai gyakorlattal rendelkezik.
+
+(6) Ha a főtanácsadó, illetve tanácsadó közszolgálati jogviszonya nyugdíjazása miatt szűnik meg, a köztisztviselő jogosult a főtanácsadói, illetve tanácsadói elnevezés – „nyugalmazott” jelzővel kiegészített – használatára.
+
+(7) A köztisztviselőt, ha a főtanácsadói, tanácsadói munkakörét visszavonták vagy a munkaköréről lemondott, újra be kell sorolni.
+
+### Díjazás
+
+### Illetménykiegészítés
+
+234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál és az Állambiztonsági Szolgálatok Történeti Levéltáránál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
+
+(2) Az Országgyűlés Hivatalánál, a Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Pénzügyi Szervezetek Állami Felügyeleténél és a Nemzeti Média- és Hírközlési Hatóságnál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a középiskolai végzettségű köztisztviselő esetében az alapilletményének 35%-a.
+
+(3) A helyi önkormányzat rendeletben egységesen valamennyi felsőfokú iskolai végzettségű köztisztviselőnek a tárgyévre illetménykiegészítést állapíthat meg, amelynek mértéke a köztisztviselő alapilletményének
+
+- a) a megyei önkormányzatnál, a megyei jogú városnál, illetve a körzetközponti feladatot ellátó önkormányzatnál legfeljebb 40%-a,
+- b) községi önkormányzatnál legfeljebb 20%-a,
+- c) az a) és b) pontban nem szereplő önkormányzatnál legfeljebb 30%-a.
+
+(4) A helyi önkormányzat a (3) bekezdés szerint rendeletben illetménykiegészítést állapíthat meg egységesen valamennyi középiskolai végzettségű köztisztviselőnek, amelynek mértéke legfeljebb 20%.
+
+(5) A (3) és (4) bekezdésben meghatározott illetménykiegészítések egymástól függetlenül is megállapíthatóak.
+
+(6) A fővárosi kerületi, illetve a fővárosi önkormányzat illetménykiegészítésének megállapítására a (3) bekezdés a) pontját, illetve a (4) bekezdést kell alkalmazni.
+
+### Személyi illetmény
+
+235. § (1) A képviselő-testület hivatalánál minősítéssel, ennek hiányában teljesítményértékeléssel alátámasztott, kimagasló teljesítményt nyújtó köztisztviselőnek az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg – a polgármester, a főpolgármester, a megyei közgyűlés elnöke jóváhagyásával – a jegyző, illetve a főjegyző. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+
+(2) Személyi illetmény megállapítása esetén pótlék nem fizethető.
+
+### Vezetők illetményére vonatkozó szabályok
+
+236. § (1) Az Állambiztonsági Szolgálatok Történeti Levéltára főigazgatója és főigazgató-helyettese főosztályvezetői illetményre jogosult azzal, hogy a főigazgató alapilletménye az illetményalap 11-szerese, a főigazgató-helyettesé 9,5-szerese, s egyéb juttatásaikat az Országgyűlés elnöke állapítja meg.
+
+(2) Az Alkotmánybíróság főtitkára, valamint az Országgyűlés Hivatalának vezetői a közigazgatási államtitkárral, az Országgyűlés Hivatalának helyettes vezetői a helyettes államtitkárral azonos illetményben és juttatásban részesülnek.
+
+(3) A vezetői illetménypótlék mértéke a 234. § (1) és (2) bekezdésben meghatározott közigazgatási szervnél:
+
+- a) főosztályvezető esetén az alapilletmény 30%-a,
+- b) főosztályvezető-helyettes esetén az alapilletmény 20%-a,
+- c) osztályvezető esetén az alapilletmény 10%-a.
+
+(4) A 3000-nél kevesebb lakosú település kivételével – ide nem értve a 3000-nél kevesebb lakosú várost – a helyi önkormányzat rendeletben vezetői illetménypótlékot állapíthat meg – a jegyzőket, főjegyzőket kivéve [256. § (1) bekezdés] – egységesen valamennyi vezetőre kiterjedően, amelynek mértéke:
+
+- a) a 3000–10 000 lakosú település, valamint a 3000-nél kevesebb lakosú város esetén a vezető alapilletményének legfeljebb 10%-a,
+- b) az a) pontban meghatározott település kivételével az osztályvezetői szintnek megfelelő vezető alapilletményének legfeljebb 10%-a, a főosztályvezető-helyettesi szintnek megfelelő vezető alapilletményének legfeljebb 15%-a.
+
+A már megállapított vezetői illetménypótlék nem csökkenthető.
+
+(5) A helyi önkormányzatnál a főjegyzői, jegyzői, aljegyzői kinevezésen túlmenően
+
+- a) a 3000-nél kevesebb lakosú településen – ide nem értve a városokat – vezetői kinevezés nem adható,
+- b) a 3000–10 000 lakosú településen, valamint a 3000-nél kevesebb lakosú városokban osztályvezetői szintnek megfelelő vezetői kinevezés adható,
+- c) 10 000 feletti lakosú településen, valamint a körzetközponti feladatot ellátó önkormányzatnál, megyei jogú városi önkormányzatnál, megyei önkormányzatnál, fővárosi kerületi, fővárosi önkormányzatnál osztályvezetői és főosztályvezető-helyettesi szintnek megfelelő vezetői kinevezésen túl további vezetői kinevezés is adható.
+
+(6) A (4) bekezdés a) pont és az (5) bekezdés alkalmazása során a költségvetési törvényben meghatározott normatív támogatásoknál figyelembe vett lakosságszám az irányadó. A lakosságszámtól függő illetményelemek változását a tárgyév január 1-jétől kell érvényesíteni.
+
+(7) A (6) bekezdés alkalmazása során a köztisztviselő illetménye csökkenhet is.
+
+### Egyéb juttatások
+
+237. § Az önkormányzati képviselő-testület a juttatásokkal és támogatásokkal összefüggésben e törvény keretei között rendeletben szabályozza a szociális, jóléti, kulturális, egészségügyi juttatásokat, szociális és kegyeleti támogatásokat.
+
+### Bírósági eljárás
+
+238. § (1) A köztisztviselő a közszolgálati jogviszonyból származó igényének érvényesítése érdekében közvetlenül a bírósághoz fordulhat. Az érdek-képviseleti szerv, valamint a munkáltató az e törvényből származó igényét bíróság előtt érvényesítheti.
+
+(2) A munkáltatói jogkör gyakorlójának mérlegelési jogkörébe tartozó döntése ellen a köztisztviselő bírósághoz akkor fordulhat, ha e törvény megengedi.
+
+(3) A keresetet a munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül lehet a bírósághoz benyújtani
+
+- a) a közszolgálati jogviszony megszüntetésével,
+- b) az összeférhetetlenség megszüntetésére irányuló írásbeli felszólítással,
+- c) a minősítés és a teljesítményértékelés megállapításaival,
+- d) a fegyelmi és kártérítési ügyben hozott határozattal,
+- e) a kinevezés egyoldalú módosításával,
+- f) a fizetési felszólítással kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényesítésére vonatkozó elévülési időn belül fordulhat a bírósághoz.
+
+(4) A jogviszony közös megegyezéssel történő megszüntetésére vonatkozó megállapodás megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének megállapításától számított harminc napon belül lehet előterjeszteni. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
+
+(5) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
+
+(6) A (3) bekezdés b)–f) pontjaiban foglalt esetekben a sérelmezett intézkedés a bíróság jogerős döntéséig nem hajtható végre.
+
+### Önkormányzati főtanácsadó, tanácsadó
+
+239. § (1) Az önkormányzati főtanácsadók, önkormányzati tanácsadók közszolgálati jogviszonyában a köztisztviselőkre vonatkozó, e törvényben meghatározott rendelkezéseket az e §-ban foglalt eltérésekkel, megfelelően kell alkalmazni.
+
+(2) A képviselő-testület – a községi önkormányzat kivételével – önkormányzati főtanácsadói, önkormányzati tanácsadói munkaköröket hozhat létre a képviselő-testület hivatalában a képviselő-testület és bizottságai döntésének előkészítéséhez, illetve a polgármester, főpolgármester, megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
+
+(3) Az önkormányzati főtanácsadói, önkormányzati tanácsadói kinevezés a polgármester, a képviselő-testület és bizottsága megbízatásának, illetve feladata ellátásának idejére szól. Az önkormányzati főtanácsadó, önkormányzati tanácsadó felett a munkáltatói jogokat a polgármester gyakorolja.
+
+(4) Az önkormányzati főtanácsadókra, önkormányzati tanácsadókra a 203. § (5) bekezdése, (7) és (8) bekezdése, valamint a 204. § rendelkezései megfelelően alkalmazandóak.
+
+### IX. Fejezet — A KÖZSZOLGÁLATI ÜGYKEZELŐK
+
+240. § (1) A közszolgálati ügykezelő közszolgálati jogviszonyában a köztisztviselőkre vonatkozó, e törvényben meghatározott rendelkezéseket az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
+
+(2) Ahol e törvény „köztisztviselőt” említ, azon e fejezet alkalmazásában „közszolgálati ügykezelőt” kell érteni.
+
+(3) A közszolgálati ügykezelő közszolgálati jogviszonyában a 226. § (3) bekezdésében foglaltakon túlmenően
+
+- a) a kinevezés feltételei közül a 39. § (1) bekezdését, a pályázatra [45. § (1) bekezdése] vonatkozó rendelkezést,
+- b) a tartalékállományra (73. §, 181. §) vonatkozó rendelkezéseket,
+- c) a szabadságra vonatkozó szabályok közül a 101. § (1)–(5) bekezdéseit,
+- d) a kormánytisztviselők besorolására [116–117. §, 118. § (1) és (2) bekezdése, 119–124. §] vonatkozó rendelkezéseket,
+- e) a közigazgatási alapvizsgára, szakvizsgára [118. § (3)–(12) bekezdése] vonatkozó rendelkezéseket,
+- f) a címadományozásra, a tanácsadói, főtanácsadói munkakörökre (125–128. §) vonatkozó rendelkezéseket,
+- g) vezetői kinevezésre (129. §) vonatkozó rendelkezéseket,
+- h) a teljesítményértékelésre, minősítésre (130. §) vonatkozó rendelkezéseket,
+- i) az illetményre vonatkozó szabályok közül a 131. § (2) és (3) bekezdését és a (7) bekezdését, a 132–142. §-t,
+- j) a kormányzati ügykezelőkre vonatkozó rendelkezéseket (206–211. §)
+
+nem lehet alkalmazni.
+
+241. § (1) Közszolgálati jogviszony közszolgálati ügykezelői munkakörre
+
+- a) büntetlen előéletű,
+- b) cselekvőképes, valamint
+- c) legalább középszintű szakképesítéssel rendelkező magyar állampolgárral létesíthető és tartható fenn.
+
+(2) Az (1) bekezdéstől eltérően közszolgálati ügykezelői munkakörre közszolgálati jogviszony – a jogszabály által meghatározott fontos és bizalmas ügykezelői munkaköröket, valamint az ügykezelői osztályvezető esetét kivéve –
+
+- a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személlyel, valamint
+- b) az Európai Szociális Kartáról szóló megállapodásban részt vevő államok állampolgárával
+
+is létesíthető, ha a feladatkör ellátásához szükséges mértékű magyarnyelv-ismerettel rendelkezik.
+
+(3) Az e törvényben meghatározott alkalmazási feltételek alól felmentés nem adható.
+
+(4) Ha a közszolgálati jogviszony létesítéséhez hatósági engedély szükséges, a közszolgálati jogviszony legfeljebb az engedélyben meghatározott időtartamra létesíthető.
+
+(5) A 45. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a toborzási adatbázisba a (2) bekezdésben meghatározott állampolgársággal rendelkező személy is kérheti felvételét, aki büntetlen előéletű, cselekvőképes és legalább középszintű szakképesítéssel rendelkezik.
+
+(6) A közszolgálati ügykezelő – a vezetői kinevezésre vonatkozó szabályok (129. §) megfelelő alkalmazásával – közszolgálati ügykezelőkből álló szervezeti egység vezetésére osztályvezetői kinevezést kaphat.
+
+242. § (1) A közszolgálati ügykezelő illetményét a hivatali szervezet vezetője állapítja meg oly módon, hogy az legalább elérje a garantált bérminimum összegét, de ne haladja meg az illetményalap hatszorosát. Az illetmény megállapításakor arányosan figyelembe kell venni a közszolgálati ügykezelő közszolgálati jogviszonyban töltött idejét. Az illetmény megállapításakor figyelembe veendő egyéb szempontokat a közszolgálati szabályzatban kell rögzíteni.
+
+(2) A közszolgálati ügykezelő osztályvezető illetményét az (1) bekezdés szerint kell megállapítani azzal, hogy illetményének a vezetése alá tartozó közszolgálati ügykezelők illetményét meg kell haladnia.
+
+243. § (1) A közszolgálati ügykezelők alapszabadságának mértéke húsz munkanap.
+
+(2) Az (1) bekezdésben meghatározott szabadság a közszolgálati ügykezelő
+
+- a) huszonötödik életévétől huszonegy;
+- b) huszonnyolcadik életévétől huszonkettő;
+- c) harmincegyedik életévétől huszonhárom;
+- d) harmincharmadik életévétől huszonnégy;
+- e) harmincötödik életévétől huszonöt;
+- f) harminchetedik életévétől huszonhat;
+- g) harminckilencedik életévétől huszonhét;
+- h) negyvenegyedik életévétől huszonnyolc;
+- i) negyvenharmadik életévétől huszonkilenc;
+- j) negyvenötödik életévétől harminc
+
+munkanapra emelkedik.
+
+(3) A hosszabb tartamú szabadság abban az évben illeti meg először a közszolgálati ügykezelőt, amelyben a (2) bekezdésben meghatározott életkort betölti.
+
+244. § (1) A közszolgálati ügykezelőnek a közszolgálati jogviszony keletkezésétől számított hat hónapon belül ügykezelői alapvizsgát kell tennie. Ha a közszolgálati ügykezelő az alapvizsgát az előírt határidőt követő hat hónapon belül nem teszi le, közszolgálati jogviszonya megszűnik.
+
+(2) Nem kell ügykezelői alapvizsgát tennie annak, aki közgazdasági szakközépiskola igazgatás ügyviteli szakán szerzett képesítéssel, illetve közigazgatási alap- vagy szakvizsgával rendelkezik.
+
+245. § A közszolgálati ügykezelő tevékenységét legalább ötévenként értékelni kell. Az értékelés szempontjait – a 130. §-ban meghatározott minősítési szabályok alapulvételével – a munkáltatói jogkör gyakorlója határozza meg.
+
+### X. Fejezet — A JEGYZŐ
+
+246. § (1) A jegyző közszolgálati jogviszonyában e törvény köztisztviselőkre vonatkozó rendelkezéseit az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
+
+(2) Ahol e törvény „köztisztviselőt” említ, azon e fejezet alkalmazásában „jegyzőt” kell érteni.
+
+### Közszolgálati jogviszony létesítése
+
+247. § (1) Jegyzővé, körjegyzővé, megyei jogú város kerületi hivatalvezetőjévé, aljegyzővé (a továbbiakban együtt: jegyző) az nevezhető ki, aki
+
+- a) igazgatásszervezői vagy állam- és jogtudományi doktori képesítéssel vagy okleveles közigazgatási menedzser szakképesítéssel, és – a (4) bekezdésben meghatározott esetet kivéve – jogi vagy közigazgatási szakvizsgával, vagy az OKV elnöksége által a teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat alapján adott mentesítéssel rendelkezik, és
+- b) legalább kétévi közigazgatási gyakorlatot szerzett.
+
+(2) A községi önkormányzati képviselő-testület a körjegyző és az ötezernél több lakosú község jegyzője kivételével
+
+- a) felmentést adhat az (1) bekezdés a) pontjában foglalt igazgatásszervezői vagy állam- és jogtudományi doktori képesítés vagy az okleveles közigazgatási menedzser szakképesítés alól annak a személynek, aki az előírt képesítés megszerzésére irányuló tanulmányait a kinevezéstől számított két éven belül befejezi. A felmentés időtartamának eredménytelen eltelte esetén a jegyző közszolgálati jogviszonya megszűnik. A képesítés alóli felmentés esetén a (4) bekezdésben meghatározott határidőt a képesítés megszerzésétől kell számítani,
+- b) az (1) bekezdés b) pontjában előírt gyakorlati időt csökkentheti vagy elengedheti.
+
+(3) Főjegyzővé – valamint a főjegyző helyettesítésére aljegyzőként – az nevezhető ki, aki
+
+- a) állam- és jogtudományi doktori vagy okleveles közgazdász képesítéssel vagy okleveles közigazgatási menedzser szakképesítéssel és – a (4) bekezdésben meghatározott esetet kivéve – jogi vagy közigazgatási szakvizsgával, vagy az OKV elnöksége által a teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat alapján adott mentesítéssel rendelkezik, és
+- b) közigazgatási szervnél legalább kétévi közigazgatási gyakorlatot szerzett.
+
+(4) A képviselő-testület közigazgatási szakvizsgával nem rendelkező pályázót is kinevezhet, feltéve, hogy a kinevezéstől számított egy éven belül a jogi vagy közigazgatási szakvizsgát, vagy a szakvizsga alól az OKV elnöksége által a teljeskörűen közigazgatási jellegűnek minősített tudományos fokozat alapján adott mentesítést megszerzi. A határidő eredménytelen eltelte esetén a jegyző, főjegyző közszolgálati jogviszonya a törvény erejénél fogva szűnik meg. A határidőbe nem számíthatók be a 118. § (4) bekezdésében meghatározott időtartamok.
+
+(5) A képviselő-testület legkésőbb a jegyző, főjegyző közszolgálati jogviszonyának megszűnését követő harminc napon belül írja ki a pályázatot a jegyzői, főjegyzői állás betöltésére. A pályázati eljárás eredménytelensége esetén harminc napon belül újabb pályázatot kell kiírni.
+
+### Módosítás, kinevezéstől eltérő foglalkoztatás
+
+248. § (1) Az 50. § nem alkalmazható a jegyző (ideértve a főjegyzőt, körzetközponti jegyzőt is) tekintetében.
+
+(2) Az 54. § alapján nem minősül kiküldetésnek, ha a körjegyző vagy az igazgatási, hatósági társulás köztisztviselője a körjegyzőséghez, valamint a társuláshoz tartozó településen látja el munkaköri feladatait.
+
+### Jogviszony megszűnés
+
+249. § (1) Amennyiben a körjegyzőség megszűnik, illetve a körjegyzőségbe tartozó önkormányzatok megváltoznak és e változás következtében a körjegyzői tisztségre új pályázat kiírására kerül sor, vagy a polgármesteri hivatal megszűnik és az érintett önkormányzat részvételével körjegyzőség alakul, illetve területszervezési intézkedés következtében önkormányzat szűnik meg vagy jön létre, ez olyan átszervezésnek minősül, amely alapján a jegyző közszolgálati jogviszonya felmentéssel a 63. § (1) bekezdés c) pontja alapján szüntethető meg.
+
+(2) Ha a körjegyzőség megszűnésének időpontjában a körjegyző felmentési védelem alatt áll, akkor a körjegyző jogviszonyának megszüntetéséről szóló intézkedést a megszűnt körjegyzőséget alkotó önkormányzatok képviselő-testületei legkorábban a felmentési védelem lejártát követő napon hozhatják meg.
+
+(3) A 73. § és a 181. § nem alkalmazható a jegyző (ideértve a főjegyzőt, körzetközponti jegyzőt is) tekintetében.
+
+### Közigazgatási szakvizsga
+
+250. § A 118. § (8) bekezdésétől eltérően a jegyző, főjegyző közigazgatási szervnél szerzett gyakorlat nélkül is tehet közigazgatási szakvizsgát.
+
+### Összeférhetetlenség
+
+251. § Másik jegyző helyettesítése céljából – a képviselő-testületek megállapodása alapján – a jegyző további egy közszolgálati jogviszonyt létesíthet.
+
+### Pótszabadság
+
+252. § Az aljegyzőt tizenegy, a jegyzőt tizenkettő és a főjegyzőt évente tizenhárom munkanap pótszabadság illeti meg.
+
+### Címek
+
+253. § (1) A miniszterelnök – a megyei, illetve a fővárosi kormányhivatal javaslatára – határozatlan időre címzetes főjegyzői címet adományozhat az illetékességi területén tartósan kiemelkedő szakmai munkát végző jegyzőnek – ide nem értve az aljegyzőt –, aki
+
+- a) a cím adományozását megelőző tíz évben folyamatosan jegyzői, körzetközponti jegyző esetében legalább öt éve körzetközponti jegyzői tisztséget tölt be,
+- b) legmagasabb fokozatú minősítést kap. A cím adományozására minden évben a Közszolgálati Tisztviselők Napja alkalmából kerül sor.
+
+(2) A címzetes főjegyzői cím adományozását a képviselő-testület a megyei, illetve a fővárosi kormányhivatal útján kezdeményezheti, amely a javaslatot köteles a saját és a jegyzői szakmai érdek-képviseleti szerv véleményével ellátva a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterhez felterjeszteni. Ha a cím adományozását a megyei, illetve a fővárosi kormányhivatal kezdeményezi, ki kell kérnie a képviselő-testület, illetve a jegyzői szakmai érdek-képviseleti szerv véleményét. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a beérkezett javaslatokról kikéri a helyi önkormányzatokért felelős miniszter véleményét. Ezt követően a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter terjeszti fel a miniszterelnöknek a javaslatokat a címzetes főjegyzői cím adományozására.
+
+(3) Nem jogosult a jegyző, valamint a körzetközponti jegyző a címzetes főjegyzői címre, ha a jegyzői közszolgálati jogviszonya – a (4) bekezdésben foglalt eseteket kivéve – megszűnt, illetve körzetközponti jegyzői feladatokat már nem lát el.
+
+(4) A címzetes főjegyzői címet továbbra is használhatja az,
+
+- a) akinek közszolgálati jogviszonya nyugállományba helyezése miatt szűnt meg;
+- b) aki a cím adományozását követően jegyzői közszolgálati jogviszonyát megszünteti és az azt követő munkanapon másik jegyzői közszolgálati jogviszonyt létesít.
+
+(5) A címzetes főjegyzői címet vissza kell vonni attól, aki az (1) bekezdés b) pontjában meghatározott feltétellel már nem rendelkezik, vagy akivel szemben jogerős fegyelmi büntetést szabtak ki. Az (1) bekezdés b) pontjában meghatározott feltétel hiánya esetén a képviselő-testület köteles haladéktalanul kezdeményezni a megyei, illetve a fővárosi kormányhivatal útján a cím visszavonását. A képviselő-testület kezdeményezheti a cím visszavonását attól is, aki etikai vétséget követett el.
+
+(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára a címet a miniszterelnök vonja vissza.
+
+(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára a miniszterelnök eltilthatja a cím viselésétől azt a nyugdíjas jegyzőt, aki a cím viselésére érdemtelenné vált.
+
+(8) A címre való jogosultság megszűnése, a cím visszavonása a már kifizetett címadományozási juttatást nem érinti.
+
+(9) A címzetes főjegyző számára a költségvetési törvény címadományozási juttatást állapíthat meg, amelynek fedezetét a központi költségvetés fejezeti kezelésű előirányzatként biztosítja. Abban az esetben, ha a költségvetési törvény címadományozási juttatást nem állapít meg, akkor a helyi önkormányzat rendeletében saját költségvetése terhére megállapíthat ilyen juttatást, azonban ennek összege nem haladhatja meg az illetményalap huszonnégyszeresét.
+
+### Díjazás
+
+### Illetményeltérítés, személyi illetmény
+
+254. § (1) A 133. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy az illetményeltérítésről a jegyző, főjegyző esetében a polgármester dönt.
+
+(2) A főjegyző, illetve a jegyző részére a polgármester – a minősítésétől, ennek hiányában a teljesítményértékeléstől függően – személyi illetmény megállapítására is jogosult. Személyi illetmény megállapítása esetén pótlék nem fizethető.
+
+### Illetmény
+
+255. § (1) A jegyző, illetve a főjegyző alapilletménye:
+
+- a) a 3000-nél kevesebb lakosú településen az illetményalap 6,25-szorosa,
+- b) a 3000–10 000 lakosú településen az illetményalap 7,75-szorosa,
+- c) a 10 000–100 000 lakosú településen az illetményalap 8-szorosa,
+- d) a fővárosi kerület jegyzőjének, valamint a kistérségi társulás székhely településének jegyzője az illetményalap 8,25-szorosa,
+- e) a megyei jogú város jegyzőjének és a megyei főjegyzőnek az illetményalap 8,5-szerese,
+- f) a fővárosi főjegyző esetében az illetményalap 8,75-szorosa.
+
+(2) A körjegyző, illetve a körjegyzői feladatot ellátó nagyközségi, városi (megyei jogú városi) jegyző illetményének az (1) bekezdés, 256. § (1) bekezdése szerinti megállapításánál a körjegyzőséghez tartozó települések együttes lakosságszámát, illetve az érintett nagyközség vagy város és községek együttes lakosságszámát kell alapul venni.
+
+(3) Az aljegyző illetményét kinevezésekor a képviselő-testület, azt követően a jegyző az (1) bekezdés alapján összegszerűen állapítja meg úgy, hogy az nem érheti el a jegyző illetményét és nem lehet alacsonyabb a már megállapított illetményénél.
+
+256. § (1) A jegyző, főjegyző vezetői illetménypótlékra jogosult, amelynek mértéke:
+
+- a) a 3000-nél kevesebb lakosú településen az alapilletményének 10%-a,
+- b) a 3000–10 000 lakosú településen, valamint a 3000-nél kevesebb lakosú város esetén az alapilletményének 20%-a,
+- c) a 10 000–100 000 lakosú településen az alapilletményének 30%-a,
+- d) a megyei jogú város, fővárosi kerület jegyzőjének, kistérségi társulás székhely településének jegyzője és a megyei főjegyzőnek az alapilletményének 40%-a,
+- e) a fővárosi főjegyző esetében az alapilletményének 50%-a.
+
+(2) A körjegyző a vezetői illetménypótlékon felül körjegyzői illetménypótlékra jogosult, amelynek mértéke:
+
+- a) két községből álló körjegyzőség esetén az alapilletményének 10%-a,
+- b) három községből álló körjegyzőség esetén az alapilletményének 15%-a,
+- c) négy vagy több községből álló körjegyzőség esetén az alapilletményének 25%-a.
+
+(3) A körjegyzői feladatot ellátó nagyközségi, városi (megyei jogú városi) jegyző a vezetői illetménypótlékon felül körjegyzői feladat-illetménypótlékra jogosult, amelynek mértéke:
+
+- a) a székhelyén kívül egy község esetén az alapilletményének 5%-a,
+- b) a székhelyén kívül két község esetén az alapilletményének 10%-a,
+- c) a székhelyén kívül három vagy több község esetén az alapilletményének 20%-a.
+
+(4) A (2) és (3) bekezdésben meghatározott községek számának változását az illetményben a bekövetkezett változástól kezdődően kell érvényesíteni.
+
+(5) Az (1) bekezdés a)–c) pontjának, valamint a 255. § (1) bekezdés a)–c) pontjainak alkalmazása során a költségvetési törvényben meghatározott normatív támogatásoknál figyelembe vett lakosságszám az irányadó. A lakosságszámtól függő illetményelemek változását a tárgyév január 1-jétől kell érvényesíteni.
+
+(6) A (4) és (5) bekezdés alkalmazása során a jegyző, főjegyző illetménye csökkenhet is.
+
+### Adatkezelés
+
+257. § A 177. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy az ott meghatározottakért – eltérő jogszabályi rendelkezés hiányában – a képviselő-testület hivatala esetén a jegyző, főjegyző felelős.
+
+## ÖTÖDIK RÉSZ — A közigazgatási szervnél foglalkoztatott munkavállaló
+
+258. § (1) A közigazgatási szervnél foglalkoztatott munkavállalókra a Munka Törvénykönyve (a továbbiakban: Mt.) rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A munkaviszony büntetlen előéletű, cselekvőképes, a munkakör betöltésére külön jogszabályban megállapított képesítési követelménynek, illetve biztonsági feltételeknek megfelelő személlyel létesíthető. A munkavállaló írásbeli titoktartási nyilatkozatot tesz, amelynek megtételéig nem állítható munkába.
+
+(3) A munkáltató működésével összefüggő okból történő felmondás esetén a munkavállaló a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta egyenlő részletben jogosult, a végkielégítést pedig a felmondási idő utolsó napján kell kifizetni.
+
+(4) A munkavállaló, ha a munkavégzési kötelezettség alóli mentesítés ideje alatt költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló gazdálkodó szervezettel teljes vagy részmunkaidős munkaviszonyt létesít,
+
+- a) ezt a tényt munkáltatójának haladéktalanul köteles írásban bejelenteni,
+- b) a felmondási időből hátralévő időre távolléti díjra nem jogosult,
+- c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielégítés alapjául szolgáló időtartam számítása során a felmondással megszüntetett jogviszony alapján végkielégítésre jogosító idejét is figyelembe kell venni.
+
+(5) A munkavállaló nem létesíthet munkaviszonyt azzal a helyi önkormányzattal, amelynek képviselője.
+
+(6) A munkavállaló a tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági átlagos havi bruttó munkabér tízszeresét.
+
+(7) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára az Mt. 94/A–H. §-a és a 100–101. §-a nem alkalmazható. Esetükben e törvény 67. §-át és 193–194. §-át kell alkalmazni.
+
+### ZÁRÓ ÉS VEGYES RENDELKEZÉSEK
+
+### Felhatalmazó rendelkezések
+
+259. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
+
+- 1. megállapítsa
+  - a) a kormányzati szolgálati, illetve közszolgálati jogviszonnyal összefüggő személyi iratokra, valamint a közigazgatási szerveknél foglalkoztatott munkavállalók munkaviszonyával összefüggő személyi iratokra és a munkaügyi nyilvántartásra, továbbá a 258. § (2) bekezdésében említett titoktartási nyilatkozat szövegére, önéletrajz tartalmára,
+  - b) a 185. § (6) bekezdése szerinti államigazgatási szerv kijelölését és a kijelölésére,
+  - c) a közszolgálati alapnyilvántartásra és a közszolgálati statisztikai adatgyűjtésre,
+  - d) a tartalékállományba helyezésre, a tartalékállomány működtetésére, az üres álláshely bejelentésére,
+  - e) a kormánytisztviselői kártyára
+
+vonatkozó részletes szabályokat;
+
+- 2. a Kormány által alapított ösztöndíjra vonatkozó részletes szabályokat megállapítsa;
+- 3. megállapítsa
+  - a) az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként résztvevő kormánytisztviselő kormányzati szolgálati jogviszonyára és köztisztviselő közszolgálati jogviszonyára, sajátos jogállására,
+  - b) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott közszolgálati tisztviselők jogviszonyára, sajátos jogállására,
+  - c) a közszolgálati tisztviselők ideiglenes (három hónapot meg nem haladó) külföldi kiküldetésére,
+  - d) a tartós külszolgálatot teljesítő kormánytisztviselők, köztisztviselők, ügykezelők tartós külszolgálatra történő kihelyezésének és a tartós külszolgálat megszűnésének feltételeire, rendjére, valamint a tartós külszolgálatot teljesítő személyeket megillető juttatásokra és a munkavégzés sajátos feltételeire
+
+vonatkozó részletes szabályokat;
+
+- 4. a közszolgálati tisztviselő kormányzati szolgálati jogviszonnyal, illetve közszolgálati jogviszonnyal összefüggő költségeinek megtérítésére vonatkozó részletes szabályokat megállapítsa;
+- 5. a közszolgálati tisztviselők teljesítményértékelésének, minősítésnek a rendjére, eljárásra és szintjeire vonatkozó részletes szabályokat megállapítsa;
+- 6. megállapítsa
+  - a) a közszolgálati tisztviselők részére járó cafetéria-juttatás, az állam által vállalt készfizető kezesség, valamint az egyéb, a közszolgálati tisztviselők részére adható juttatásokra,
+  - b) a központi államigazgatási szerveknél, azok területi és helyi szerveinél foglalkoztatott kormánytisztviselők jutalmazására vonatkozó részletes szabályokat és a jutalmazással összefüggő adatkezelésre és adatszolgáltatásra,
+  - c) a célfeladatra és a kutatási megállapodásra,
+  - d) a képzettségi és munkaköri pótlékra,
+
+vonatkozó részletes szabályokat;
+
+- 7. a kiválasztási eljárásra, a kiválasztás rendjére és feltételeire, a kormányzati személyügyi igazgatási feladatokat ellátó szerv által lefolytatott pályáztatás rendjére, annak szervezésére és lebonyolítására, a kompetencia-vizsgálatra és a toborzási adatbázisra vonatkozó részletes szabályokat megállapítsa;
+- 8. megállapítsa a címzetes főjegyzői cím adományozásának, megszűnésének és visszavonásának eljárási szabályait, valamint a címadományozási juttatás kifizetésére vonatkozó részletes szabályokat;
+- 9.
+- 10. megállapítsa
+  - a) a munkaidőkeretre, az egyenlőtlen munkaidő-beosztásra, a heti pihenőidőre,
+  - b) a távmunkavégzésre,
+  - c) a központi államigazgatási szervekre, azok területi és helyi szerveire nézve igazgatási területenként az adott évre az igazgatási szünet időtartamára,
+  - d) egészségi ártalom vagy veszély kizárása érdekében a munkaidőn belül az adott tevékenységre fordítható leghosszabb időtartamára vonatkozó részletes szabályokat;
+- 11. a fegyelmi eljárásra vonatkozó részletes szabályokat megállapítsa;
+- 12. megállapítsa
+  - a) a kormányzati szolgálati jogviszony, valamint a közszolgálati jogviszony létesítéséhez kapcsolódóan a közszolgálati tisztviselőt terhelő kötelezettségekre,
+  - b) a munkáltatót a kinevezéssel kapcsolatban és a kormányzati szolgálati jogviszony, illetve a közszolgálati jogviszony fennállása alatt a kinevezéstől eltérő ideiglenes foglalkoztatás megállapításával kapcsolatban terhelő kötelezettségekre vonatkozó részletes szabályokat;
+- 13. a közélet tisztasága szempontjából jelentős érzékenységgel rendelkező munkaköröket megállapítsa;
+- 14. a képesítésre vonatkozó részletes szabályokat megállapítsa;
+- 15. a pártfogó felügyelők jogállásával összefüggő részletes szabályokat megállapítsa;
+- 16. megállapítsa
+  - a) az e törvényben meghatározott feladatokkal összefüggésben a személyügyi központ kijelölését, valamint
+  - b) a személyügyi központ jogállására, feladat- és hatáskörére, valamint az e törvény alapján általa folytatott adatfeldolgozásra, vezetett nyilvántartásokra, adatkezelésre és adatszolgáltatásra vonatkozó részletes szabályokat;
+- 17. megállapítsa
+  - a) a közigazgatási alap- és szakvizsgával, valamint az ügykezelői alapvizsgával összefüggésben a vizsgaszervező kijelölését,
+  - b) a közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, valamint e vizsgák alóli mentesítésre vonatkozó részletes szabályokat,
+  - c) a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat.
+
+(2) Az államigazgatási szerv a kormánytisztviselő önkéntes kiegészítő nyugdíjpénztári tagságához egyéb juttatásként támogatást nyújthat. A központi költségvetés támogatásának részletes szabályait a Kormány határozza meg.
+
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
+
+- a) a pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési és kárpótlási feladatokat ellátó szervek dolgozóinak igazolványára vonatkozó szabályokat,
+- b) a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő vagy kormányzati ügykezelő ügyviteli vizsgájának szabályait rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő köztisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
+
+(5) Felhatalmazást kap a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
+
+- a) a személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszerrel összefüggő részletes szabályokat,
+- b) a kormánytisztviselői jogviszonnyal kapcsolatos munkáltatói jogkör gyakorlásával és átruházásával összefüggő részletes szabályokat.
+
+260. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2012. március 1-jén lép hatályba.
+
+(2) E törvény 26. § (8) bekezdése, 28–35. §-a, 64. § (4) bekezdése, 65. § (5) bekezdése, 130. §-a, 190. §-a, 191. §-a, 226. § (3) bekezdés d) pontja, 259. § (1) bekezdés 9. pontja 2012. július 1-jén lépnek hatályba.
+
+(3) E törvény 41. §-a, 73. § (2) és (3) bekezdése 2012. szeptember 1-jén lépnek hatályba.
+
+(4) Az e törvényhez kapcsolódó módosító és átmeneti rendelkezésekről külön törvény rendelkezik.
+
+(5) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Kttv.
+
+### Az Európai Unió jogi aktusainak való megfelelés
+
+261. § E törvény az Európai Unió következő uniós jogi aktusainak való megfelelést szolgálja:
+
+- a) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól,
+- b) a Tanács 91/533/EGK irányelve (1991. október 14.) a munkaadónak a munkavállalóval szembeni, a szerződés, vagy a munkaviszony feltételeiről való tájékoztatási kötelezettségéről,
+- c) a Tanács 1999/70/EK irányelve (1999. június 28.) az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról,
+- d) a Tanács 97/81/EK irányelve (1997. december 15.) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról,
+- e) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
+- f) a Tanács 2010/18/EU irányelve (2010. március 8.) a BUSINESSEUROPE, az UEAPME, CEEP és ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről.
+
+### 1. melléklet a 2011. évi CXCIX. törvényhez
+
+#### ILLETMÉNYRENDSZER
+
+#### I. BESOROLÁSI OSZTÁLY (felsőfokú iskolai végzettségű kormánytisztviselők)
+
+| Besorolási fokozat megnevezése | Fizetési fokozat | Kormányzati szolgálati jogviszony időtartama (év) | Szorzószám |
+| --- | --- | --- | --- |
+| Gyakornok | 1 | 0–1 | 3,1 |
+| Fogalmazó | 2 | 1–2 | 3,2 |
+|  | 3 | 2–3 | 3,3 |
+| Tanácsos | 4 | 3–4 | 3,5 |
+|  | 5 | 4–6 | 3,7 |
+|  | 6 | 6–8 | 3,9 |
+| Vezető-tanácsos | 7 | 8–10 | 4,2 |
+|  | 8 | 10–12 | 4,4 |
+|  | 9 | 12–14 | 4,6 |
+|  | 10 | 14–16 | 4,8 |
+| Főtanácsos | 11 | 16–19 | 5,1 |
+|  | 12 | 19–22 | 5,2 |
+|  | 13 | 22–25 | 5,3 |
+| Vezető-főtanácsos | 14 | 25–29 | 5,6 |
+|  | 15 | 29–33 | 5,7 |
+|  | 16 | 33–37 | 5,8 |
+|  | 17 | 37 év felett | 6,0 |
+
+#### II. BESOROLÁSI OSZTÁLY (középiskolai végzettségű kormánytisztviselők)
+
+| Besorolási fokozat megnevezése | Fizetési fokozat | Kormányzati szolgálati jogviszony időtartama (év) | Szorzószám |
+| --- | --- | --- | --- |
+| Gyakornok | 1 | 0–2 | 1,79 |
+| Előadó | 2 | 2–4 | 1,9 |
+|  | 3 | 4–6 | 2,0 |
+|  | 4 | 6–8 | 2,2 |
+|  | 5 | 8–10 | 2,25 |
+|  | 6 | 10–12 | 2,3 |
+| Főelőadó | 7 | 12–15 | 2,5 |
+|  | 8 | 15–18 | 2,6 |
+|  | 9 | 18–21 | 2,65 |
+|  | 10 | 21–24 | 2,7 |
+|  | 11 | 24–27 | 2,8 |
+|  | 12 | 27–29 | 2,85 |
+|  | 13 | 29–31 | 2,9 |
+| Főmunkatárs | 14 | 31–33 | 3,3 |
+|  | 15 | 33–35 | 4,0 |
+|  | 16 | 35–37 | 4,2 |
+|  | 17 | 37 év felett | 4,4 |
+
+### 2. melléklet a 2011. évi CXCIX. törvényhez
+
+A KÖZSZOLGÁLATI ALAPNYILVÁNTARTÁS ADATKÖRE
+
+A kormánytisztviselő
+
+I/A.
+
+1. családi és utóneve (születési családi és utóneve), neme
+
+2. születési helye, ideje
+
+3. anyja születési családi és utóneve
+
+4. lakóhelye, lakáscíme, tartózkodási helye, telefonszáma
+
+5. családi állapota
+
+6. adóazonosító jele
+
+7. társadalombiztosítási azonosító jele
+
+8. fizetési számlaszáma
+
+9. email címe
+
+10. fényképe
+
+11. önéletrajza
+
+I/B. eltartott gyermeke(i)
+
+1. családi és utóneve
+
+2. születési helye, ideje
+
+3. anyja születési családi és utóneve
+
+4. lakóhely, lakáscím, tartózkodási hely
+
+5. adóazonosító jele
+
+6. társadalombiztosítási azonosító jele
+
+II.
+
+1. legmagasabb iskolai végzettsége (több végzettség esetén valamennyi)
+
+2. szakképzettsége(i)
+
+3. iskolarendszeren kívüli oktatás keretében szerzett szakképesítése(i), valamint meghatározott munkakör betöltésére jogosító okiratok adatai
+
+4. tudományos fokozata
+
+5. idegennyelv-ismerete
+
+6. képzésre, továbbképzésre, vezetőképzésre, átképzésre vonatkozó adatai
+
+III. A korábbi foglalkoztatásra vonatkozó adatok
+
+1. a munkahely megnevezése
+
+2. jogviszony típusának megnevezése
+
+3. beosztás
+
+4. besorolás
+
+5. munkakör
+
+6. jogviszony kezdő/befejező dátuma
+
+7. a megszűnés módja
+
+IV.
+
+1. a kormányzati szolgálati jogviszony kezdete, a kiszámításánál figyelmen kívül hagyandó időtartamok
+
+2. állampolgársága
+
+3. a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány száma, kelte
+
+4. közigazgatási alapvizsga adatai
+
+5. közigazgatási szakvizsga adatai
+
+6. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok
+
+7. esküokmány száma, kelte
+
+8. közigazgatási versenyvizsga adatai
+
+9. a munkaköri alkalmassági vizsgálat eredményének adatai
+
+V.
+
+1. az alkalmazó államigazgatási szerv neve, székhelye, statisztikai számjele
+
+2. e szervnél a kormányzati szolgálati jogviszony kezdete
+
+3. kormánytisztviselő jelenlegi besorolása, besorolásának időpontja
+
+4. munkakör(ök) megnevezése és a betöltés időtartama, FEOR-szám
+
+5. vezetői kinevezésének és megszűnésének adatai
+
+6. címadományozás, jutalmazás, kitüntetés adatai
+
+7. a minősítések időpontja
+
+8. hatályos fegyelmi büntetés
+
+9. pályázatának adatai
+
+10. kompetenciaadatai
+
+11. próbaidejének adatai
+
+VI.
+
+1. személyi juttatások nyilvántartása a központi létszám- és bérgazdálkodási statisztikai információs rendszer figyelembevételével
+
+VII.
+
+1. a kormánytisztviselő munkából való távollétének jogcíme és időtartama
+
+2. kormányzati kirendelésének adatai
+
+VIII.
+
+1. a kormányzati szolgálati jogviszony megszűnésének, valamint a végleges és határozott idejű áthelyezés időpontja, módja, a végkielégítés adatai
+
+2. a felmentési időtartam adatai
+
+IX.
+
+1. az összeférhetetlenséggel összefüggő adatai
+
+X.
+
+1. az állami készfizető kezességvállalással összefüggő adatok (a hitelszerződést kötő pénzintézet neve, címe; az állami kezességvállalással biztosított hitel nagysága; a hitel lejártának időpontja).
+
+### 3. melléklet a 2011. évi CXCIX. törvényhez
+
+#### A tartalékállományba helyezett közszolgálati jogviszonyban állók nyilvántartásának adatköre
+
+A kormánytisztviselőI.
+
+1. családi és utóneve
+
+2. technikai azonosítója
+
+3. születési ideje
+
+4. lakcímadatai (lakóhelye, tartózkodási helye), telefonszáma
+
+II.
+
+1. iskolai végzettsége (több végzettség esetén valamennyi)
+
+2. képző intézmény megnevezése (kar, szak megjelölésével)
+
+3. képzés időtartama, végzés időpontja
+
+4. szakképzettségei
+
+5. iskolarendszeren kívüli oktatás keretében szerzett szakképesítései
+
+6. tudományos fokozata
+
+7. idegennyelv-ismerete (szintje, típusa)
+
+8. közigazgatási alapvizsga, közigazgatási szakvizsga és közigazgatási versenyvizsga megszerzésének időpontja, oklevélszáma
+
+III.
+
+1. a jelenlegi munkáltató megnevezése, tevékenységi területe
+
+2. a korábbi közigazgatási jellegű munkáltató megnevezése, tevékenységi területe, valamint az ott jogviszonyban töltött időtartamok
+
+3. szakmai tapasztalat
+
+4. beosztás
+
+5. besorolás
+
+6. feladatkör/munkakör megnevezése, célja
+
+7. feladatkörhöz/munkakörhöz tartozó főbb feladatok
+
+8. a megszűnés módja
+
+IV.
+
+1. az alkalmazó közigazgatási szerv neve és címe
+
+2. a tartalékállományba helyezés időpontja
+
+3. a tartalékállományba helyezés időtartama
+
+4. kompetencia-vizsgálat adatai
+
+V.
+
+1. kormányzati szolgálati jogviszonyának időtartama
+
+2. besorolási osztálya, fokozata
+
+3. fizetési fokozata
+
+4. illetménye
+
+5. adományozott címe.
+
+### 4. melléklet a 2011. évi CXCIX. törvényhez
+
+#### A toborzási adatbázis adatköre
+
+I.
+
+1. családi és utónév
+
+2. születési hely, idő
+
+3. lakcím, telefonszám, email cím
+
+II.
+
+1. szakmai tapasztalat
+
+2. munkáltató megnevezése, tevékenységi területe
+
+3. betöltött feladatkör/munkakör
+
+4. időtartam
+
+III.
+
+1. iskolai végzettség
+
+2. képző intézmény megnevezése (kar, szak megjelölésével)
+
+3. képzés időtartama, végzés időpontja
+
+4. idegennyelv-ismerete (szintje, típusa)
+
+5. közigazgatási versenyvizsga megszerzésének időpontja, oklevél száma, eredménye
+
+6. informatikai ismeretek
+
+IV.
+
+1. területek, amelyekről pályázat kiírása esetén hírlevélben értesülni szeretne.
+
+### 5. melléklet a 2011. évi CXCIX. törvényhez
+
+ÖNÉLETRAJZ
+
+A kormánytisztviselők és szakmai vezetők önéletrajza az alábbi adatköröket tartalmazza:
+
+a) személyes adatok (neve, születési neve, anyja neve, neme, születési helye, családi állapota, állampolgársága, állandó és ideiglenes lakcíme, telefonszáma, faxszáma, e-mail címe, honlapja, fényképe),
+
+b) betöltött beosztásra, munkakörre,
+
+c) szakmai tapasztalatra,
+
+d) végzettségre, szakképzettségre,
+
+e) készségekre, képességekre, kompetenciákra (nyelvismeretre, számítógép-felhasználói készségekre, járművezetési engedélyre, katonai szolgálatra)
+
+vonatkozó adatok.

@@ -258,7 +258,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (6) A Pénzügyi Békéltető Testület elnöke felett a munkáltatói jogokat a Felügyelet elnöke gyakorolja.
 
-14. § (1) A Felügyelet elnökének, alelnökének, a Pénzügyi Békéltető Testület elnökének kinevezésére a köztisztviselők jogállásáról szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy e tisztségekre nem kell pályázatot kiírni.
+14. § (1) A Felügyelet elnökének, alelnökének, a Pénzügyi Békéltető Testület elnökének kinevezésére a közszolgálati tisztviselőkről szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy e tisztségekre nem kell pályázatot kiírni.
 
 (2) A Felügyelet elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke a kinevezésében megjelölt időpontban, ennek hiányában kinevezésével hivatalba lép. Közszolgálati jogviszonyban nem álló személy esetén a közszolgálati jogviszony a hivatalba lépéssel létesül.
 
@@ -300,12 +300,12 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 18. § (1) A Felügyelet elnökét – a miniszterelnök előterjesztésére – a köztársasági elnök, a Felügyelet alelnökét a Felügyelet elnöke, a Pénzügyi Békéltető Testület elnökét a Felügyelet elnöke
 
-- a) felmenti, ha a közszolgálati jogviszony létesítéséhez szükséges, a köztisztviselők jogállásáról szóló törvényben meghatározott feltételeknek nem felel meg, vagy vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl, illetve
+- a) felmenti, ha a közszolgálati jogviszony létesítéséhez szükséges, a közszolgálati tisztviselőkről szóló törvényben meghatározott feltételeknek nem felel meg, vagy vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl, illetve
 - b) felmentheti, ha
   - ba) olyan magatartást tanúsított, amely a Felügyelet rendeltetésszerű működését akadályozta,
   - bb) száznyolcvan napon túl nem képes eleget tenni a megbízatásából eredő feladatainak.
 
-(2) A Felügyelet elnöke összeférhetetlenségének kimondására vagy a felmentésre vonatkozó előterjesztést a köztársasági elnöknek való továbbítást megelőzően meg kell küldeni a Felügyelet elnöke részére, aki a köztisztviselők jogállásáról szóló törvénynek a közszolgálati jogvitára vonatkozó rendelkezései szerint öt munkanapon belül munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet a Felügyelet elnöke a miniszterelnöknek haladéktalanul megküldi.
+(2) A Felügyelet elnöke összeférhetetlenségének kimondására vagy a felmentésre vonatkozó előterjesztést a köztársasági elnöknek való továbbítást megelőzően meg kell küldeni a Felügyelet elnöke részére, aki a közszolgálati tisztviselőkről szóló törvénynek a közszolgálati jogviszonyból származó igényének érvényesítésére vonatkozó rendelkezései szerint öt munkanapon belül munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet a Felügyelet elnöke a miniszterelnöknek haladéktalanul megküldi.
 
 (3) A Felügyelet elnöke összeférhetetlenségének kimondására vagy a felmentésére vonatkozó kezdeményezés a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően küldhető meg a köztársasági elnöknek. A köztársasági elnök határozatával szemben jogorvoslatnak vagy közszolgálati jogvita kezdeményezésének nincs helye.
 
@@ -339,7 +339,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 - d) kialakítja a Pénzügyi Békéltető Testület szervezeti kereteit, meghatározza stratégiai feladatait, jóváhagyja szabályzatait, így különösen a működési rendre vonatkozó szabályzatot, elfogadja éves összefoglaló tájékoztatóját,
 - e) félévente meghatározza a Felügyelet ellenőrzési tevékenységének kiemelt célterületeit,
 - f) képviseli a Felügyeletet,
-- g) gyakorolja a köztisztviselők jogállásáról szóló törvényben a hivatali szervezet vezetője számára meghatározott hatásköröket,
+- g) gyakorolja a közszolgálati tisztviselőkről szóló törvényben a hivatali szervezet vezetője számára meghatározott hatásköröket,
 - h) gyakorolja a Felügyelettel munkaviszonyban álló alkalmazottak feletti munkáltatói jogkört,
 - i) a Felügyelet költségvetése tekintetében ellátja mindazon feladatokat, amelyeket az államháztartásról szóló törvény a fejezetet irányító szerv vezetőjének hatáskörébe utal,
 - j) részt vesz a Pénzügyi Stabilitási Tanács munkájában,
@@ -370,7 +370,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 ### A Felügyelet állományába tartozó személyek foglalkoztatási jogviszonyára vonatkozó szabályok
 
-24. § (1) A Felügyelet elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke, valamint a Felügyelet a 3–8. §-ban meghatározott feladatainak ellátásához közvetlenül kapcsolódó, a Felügyelet szervezeti és működési szabályzatában ekként rögzített munkakörben foglalkoztatott személyek e tevékenységüket közszolgálati jogviszony keretében látják el. A Felügyelet elnökére, alelnökére, a Pénzügyi Békéltető Testület elnökére, valamint a Felügyelettel közszolgálati jogviszonyban álló alkalmazottakra a köztisztviselők jogállásáról szóló törvény rendelkezései az e törvényben foglalt eltérésekkel irányadók.
+24. § (1) A Felügyelet elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke, valamint a Felügyelet a 3–8. §-ban meghatározott feladatainak ellátásához közvetlenül kapcsolódó, a Felügyelet szervezeti és működési szabályzatában ekként rögzített munkakörben foglalkoztatott személyek e tevékenységüket közszolgálati jogviszony keretében látják el. A Felügyelet elnökére, alelnökére, a Pénzügyi Békéltető Testület elnökére, valamint a Felügyelettel közszolgálati jogviszonyban álló alkalmazottakra az e törvényben foglalt eltérésekkel a közszolgálati tisztviselőkről szóló törvény köztisztviselőkre vonatkozó rendelkezéseit kell alkalmazni.
 
 (2) A Felügyelet állományába tartozó, az (1) bekezdés hatálya alá nem tartozó személyek feladataikat munkaviszony keretében látják el.
 
@@ -380,7 +380,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (3) A Felügyelet elnöke át nem ruházható hatáskörében dönt a Felügyelet köztisztviselőjének alapilletményéről, annak eltérítéséről, a tárgyév során bármikor módosíthatja azt a köztisztviselő munkájának értékelésétől függően. Az alapilletmény módosítása során a köztisztviselő alapilletményét legfeljebb ötven százalékkal megemelheti, vagy legfeljebb harminchárom százalékkal csökkentett mértékben állapíthatja meg.
 
-(4) A Felügyelet elnöke a kimagasló teljesítményt nyújtó köztisztviselőnek a köztisztviselők jogállásáról szóló törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg. Személyi illetmény a Felügyelet szervezeti és működési szabályzatában megállapított létszám legfeljebb húsz százalékáig adható a személyi juttatás előirányzata terhére. A személyi illetmény indokolás nélkül visszavonható, amely nem minősül a köztisztviselői kinevezés módosításának.
+(4) A Felügyelet elnöke a kimagasló teljesítményt nyújtó köztisztviselőnek a közszolgálati tisztviselőkről szóló törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg. Személyi illetmény a Felügyelet szervezeti és működési szabályzatában megállapított létszám legfeljebb húsz százalékáig adható a személyi juttatás előirányzata terhére. A személyi illetmény indokolás nélkül visszavonható, amely nem minősül a köztisztviselői kinevezés módosításának.
 
 (5) A napidíj mértéke a költségvetési törvényben meghatározott illetményalap egy munkanapra eső összegének 150%-a. Kiszámításánál havonta huszonegy munkanapot kell figyelembe venni és azt tíz forintra felkerekítve kell megállapítani.
 
@@ -938,7 +938,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (3) Békéltető testületi tag az lehet, aki jogi végzettséggel és jogi szakvizsgával vagy közgazdasági egyetemi diplomával rendelkezik. A Felügyelet szervezeti és működési szabályzata meghatározhatja a békéltető testületi tag kinevezésének további feltételeit.
 
-(4) A békéltető testület tagjára e törvényben foglalt eltéréssel a köztisztviselők jogállásáról szóló törvény szabályait kell alkalmazni.
+(4) A békéltető testület tagjára e törvényben foglalt eltéréssel a közszolgálati tisztviselőkről szóló törvény köztisztviselőkre vonatkozó szabályait kell alkalmazni.
 
 (5) A békéltető testületi tag számára felügyeleti tanácsadói vagy felügyeleti főtanácsadói címet kell adományozni.
 

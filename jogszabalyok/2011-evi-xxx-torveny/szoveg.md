@@ -48,4 +48,4 @@ egyes közszolgálati tárgyú törvények módosításáról
 
 (5) A 2011. szeptember 1-jét megelőzően tett közigazgatási alapvizsgát a 2011. szeptember 1-jét követően tett közigazgatási alapvizsgának megfelelő vizsgának kell tekinteni.
 
-25. § A Ktv. 43. § (4) bekezdésében meghatározott határidőtől eltérően, 2011. évben a fővárosi, megyei kormányhivatalok esetében a kormánymegbízott, valamint a Nemzeti Államigazgatási Központ esetében a Nemzeti Államigazgatási Központ vezetője az alapilletmény eltérítéséről április 30-ig dönt.
+25. §

@@ -467,7 +467,7 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 - k) központi értéktárnál, vagy
 - l) központi szerződő félnél
 
-tisztségviselőként, köztisztviselőként vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
+tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
 
 (2) Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha a szakirányú szakmai gyakorlat megszerzésére az (1) bekezdésben meghatározott szervezeteknek megfelelő intézménynél, illetve nemzetközi pénzügyi intézménynél került sor.
 
@@ -3166,7 +3166,7 @@ vonatkozó részletes szabályokat.
 - 10. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény,
 - 11. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
 - 12. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
-- 13. Ktv.: a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény,
+- 13.
 - 14. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 - 15. Pmtv.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény,
 - 16. Ptk.: a Polgári Törvénykönyvről szóló törvény,

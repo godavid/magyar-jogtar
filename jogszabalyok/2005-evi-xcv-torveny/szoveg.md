@@ -43,12 +43,12 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 20. külső csomagolás: azt a csomagolási formát jelenti, amely da közvetlen csomagolást foglalja magában;
 - 21. Gyógyszerkönyv: a gyógyszerkészítés, a gyógyszerminőség, a gyógyszerellenőrzés és a gyógyszerminősítés általános szabályait, valamint az egyes gyógyszerek és gyógyszer anyagok minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
 - 22. Szabványos Vényminta Gyűjtemény (FoNo): a magisztrális gyógyszerkészítés szabályait, valamint az egyes gyógyszerek minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
-- 23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és ez a Magyarországon már forgalomban lévő gyógyszertől vagy Magyarországon alkalmazott biztonságos és hatékony terápiás eljárástól nem várható;
+- 23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélyek lehet a kezelés sikerességének, és ez a Magyarországon már forgalomban lévő gyógyszertől vagy Magyarországon alkalmazott biztonságos és hatékony terápiás eljárástól nem várható;
 - 24. Európai Gyógyszerügynökség: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelettel létrehozott Európai Gyógyszerügynökség;
 - 25. a gyógyszer alkalmazásával kapcsolatos kockázatok: a gyógyszer minőségével, biztonságosságával és hatásosságával kapcsolatos, a betegek egészségét vagy a közegészséget érintő bármely kockázat, illetve a környezetre gyakorolt nemkívánatos hatások kockázata;
 - 26. előny/kockázat arány: a gyógyszer pozitív terápiás hatása a 25. pontban meghatározott kockázat viszony értékelésének eredménye;
 - 27–28.
-- 29. fejlett (újszerű) terápiás gyógyszerkészítmény: a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti gyógyszer.
+- 29. fejlett (újszerű) terápiás gyógyszerkészítmény: a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti gyógyszer. 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyagok jegyzékén szereplő anyagok, és erre tekintettel azt a Kormány rendeletében ilyen anyaggá minősítette.
 
 ### A törvény hatálya
 
@@ -251,6 +251,58 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 - a) a tevékenységi engedély iránti eljárás jogerős befejezéséig vagy
 - b) a tevékenységi engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy a tevékenységi engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+
+### Az új pszichoaktív anyagokkal kapcsolatos külön rendelkezések
+
+15/B. § (1) Valamely anyag vagy vegyületcsoport az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló 2005. május 10-i 2005/387/IB tanácsi határozat 4. cikk (1) bekezdése szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
+
+(2) Az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat a Kormány rendeletében határozza meg.
+
+(3) Az (1) bekezdés szerinti előzetes szakmai értékelés során azt kell vizsgálni, hogy az értesítésben megjelölt anyaggal vagy vegyületcsoporttal kapcsolatban a magyar hatóságok, szakértői intézmények előtt nem ismert olyan adat,
+
+- a) amely az értesítésben megjelölt anyag vagy vegyületcsoport gyógyászati felhasználására utalna, és
+- b) amely kizárja, hogy az anyag vagy vegyületcsoport hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyagok.
+
+(4) Az (1) bekezdés szerinti előzetes szakmai értékelést kormányrendeletben kijelölt szakértői szerv végzi.
+
+15/C. § (1) Az új pszichoaktív anyaggá minősítést követő egy éven belül el kell végezni az új pszichoaktív anyag kockázatértékelését, amennyiben azt az Európai Unió Tanácsa nem kezdeményezte.
+
+(2) Ha a vizsgált új pszichoaktív anyagról a magyarországi vagy európai uniós kockázatértékelés eredményeképpen bebizonyosodik, hogy hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyagok, a megfelelő kábítószer vagy pszichotróp anyag jegyzékre kell felvenni, és meg kell szüntetni az új pszichoaktív anyaggá minősítését.
+
+(3) Amennyiben a kockázatértékelés nem támasztja alá azt, hogy a vizsgált új pszichoaktív anyag hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyagok, akkor meg kell szüntetni az új pszichoaktív anyaggá minősítését.
+
+15/D. § (1) Az új pszichoaktív anyagokkal kapcsolatos jogszabály szerinti tevékenységek kizárólag érvényes, jogszabály szerinti, az egészségügyi államigazgatási szerv által kiadott tevékenységi vagy egy adott vizsgálatra szóló eseti kutatási engedély birtokában folytathatók.
+
+(2) Tevékenységi és eseti kutatási engedélyt kizárólag a Polgári Törvénykönyvben meghatározott gazdálkodó szervezet kaphat, amelynek vezetője, illetve vezető testületének valamennyi tagja büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+
+(3) Jogszabály szerinti új pszichoaktív anyagért felelős személynek és helyettesének (a továbbiakban: új pszichoaktív anyagért felelős) büntetlen előéletű személy jelölhető ki, aki nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
+
+15/E. § (1) A tevékenységi és eseti kutatási engedély iránti jogszabály szerinti kérelem benyújtásakor a kérelmező gazdálkodó szervezet vezetője, vezető testületének valamennyi tagja, illetve az új pszichoaktív anyagért felelősnek kijelölni kívánt személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 15/D. § (2) bekezdésben foglalt feltételeknek megfelel, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv az egészségügyi államigazgatási szerv részére – annak az engedély kiadásának elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
+
+(2) Az (1) bekezdésben meghatározott adatigénylés során az egészségügyi államigazgatási szerv arra vonatkozóan igényelhet adatot a bűnügyi nyilvántartó szervtől, hogy
+
+- a) a gazdálkodó szervezet vezetője, illetve vezető testületének tagja és
+- b) az új pszichoaktív anyagért felelősnek kijelölni kívánt személy a 15/D. § (2) bekezdésben foglalt feltételeknek megfelel
+
+(3) A tevékenységi engedély iránti kérelmet benyújtó nem magyar állampolgár személy az egészségügyi államigazgatási szerv részére az állampolgársága szerinti ország – hatósági bizonyítvány kiállítására vonatkozó – előírásainak megfelelően kiállított érvényes hatósági bizonyítvány hiteles fordításával igazolja azt a tényt, hogy a 15/D. § (2) bekezdésében foglalt feltételeknek megfelel.
+
+(4) Az egészségügyi államigazgatási szerv hatósági ellenőrzés keretében ellenőrzi azt is, hogy a tevékenységi engedéllyel rendelkező személy a 15/D. § (2) bekezdése szerinti feltételeknek megfelel.
+
+(5) Az egészségügyi államigazgatási szerv a 15/D. § (2) bekezdésben meghatározott feltétel megállapítása céljából kezeli
+
+- a) a tevékenységi engedély iránti kérelmet benyújtó,
+- b) a tevékenységi engedéllyel rendelkező azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+
+(6) A (5) bekezdésben meghatározott személyes adatokat a jogszabályban meghatározott hatóság
+
+- a) a tevékenységi engedély iránti eljárás jogerős befejezéséig vagy
+- b) a tevékenységi engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy a tevékenységi engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+
+kezeli.
+
+15/F. § (1) Az új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési eljárásokért, illetve az engedély kiadásáért, módosításáért a jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
+(2) Az egészségügyi államigazgatási szerv e rendelkezés szerinti eljárásban hozott határozatai ellen fellebbezésnek helye nincs.
 
 ### A forgalomba hozatali engedély jogosultjának, a gyógyszer-nagykereskedelmi engedély jogosultjának, illetve a gyógyszertár működtetőjének gyógyszerellátásra vonatkozó felelőssége
 
@@ -461,10 +513,16 @@ kártérítést fizet.
 
 (4) Felhatalmazást kap a Kormány, hogy
 
-- a) kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszer gyártásának, forgalomba hozatalának, forgalmazásának és e gyógyszerekkel folytatott nagykereskedelmi tevékenységnek, Magyarország területére történő behozatalának, kivitelének, valamint tudományos célra történő beszerzésének és felhasználásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
+- a) kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszer gyártásának, forgalomba hozatalának, forgalmazásának és e gyógyszerekkel folytatott nagykereskedelmi tevékenységnek, a Magyarország területére történő behozatalának, kivitelének, valamint tudományos célra történő beszerzésének és felhasználásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 - b) nemzetközi egyezmények értelmében kábítószernek vagy pszichotróp anyagnak minősülő gyógyszerek tudományos célra történő felhasználásának, illetve beszerzésének körét,
 - c) a gyógyszerellátás hatósági ellenőrzése során az e törvényben foglalt kötelezettségek megszegése esetén a hatóságok által kiszabható bírság mértékét, illetve összegét
 - d) a gyógyszerészeti államigazgatási szerv vagy szervek kijelölését
+- e) az új pszichoaktív anyagokkal összefüggésben
+  - ea) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
+  - eb) az új pszichoaktív anyaggá minősítés, valamint az új pszichoaktív anyag kockázatértékelésének részletes eljárási szabályait,
+  - ec) az értesítés alapján az előzetes szakmai értékelést végző szakértői szerv kijelölését,
+  - ed) az új pszichoaktív anyaggal végezhető tevékenységek részletes feltételeit, az e tevékenységre jogosító engedély iránti kérelem benyújtásának szabályait és az engedély kiadásának rendjét, továbbá
+  - ee) a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket
 
 rendeletben szabályozza.
 
@@ -497,7 +555,8 @@ rendeletben szabályozza.
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg
 
 - a) a kábítószerekkel, illetve pszichotróp anyagokkal kapcsolatos egyes engedélyezési eljárásokért, illetve az engedély kiadásáért, módosításáért,
-- b)–c)
+- b) az új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési eljárásokért, illetve az engedély kiadásáért, módosításáért
+- c)
 - d) a gyógyszernek nem minősülő gyógyhatású anyagok és készítmények előállításának közegészségügyi-járványügyi feltételeit minősítő eljárásért és igazolás kiadásáért,
 - e) az immunológiai készítmények egy gyártási tételének vizsgálatáért (minősítés)
 

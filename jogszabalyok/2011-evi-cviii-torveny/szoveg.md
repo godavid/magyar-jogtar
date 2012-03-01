@@ -2234,7 +2234,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 170. § (1) A Hatóság elnökének öt évre történő kinevezéséről a Tanács a jelen levő tagok kétharmados szótöbbségével dönt. A kinevezés egyszer ismételhető.
 
-(2) A Hatóság elnökére a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt az e törvény szerinti eltérésekkel kell alkalmazni.
+(2) A Hatóság elnökére a közszolgálati tisztviselőkről szóló törvényt az e törvény szerinti eltérésekkel kell alkalmazni.
 
 (3) A Hatóság elnöke a közigazgatási államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult.
 
@@ -2356,7 +2356,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 175. § (1) A Tanács tevékenységével kapcsolatos koordinációt, döntéseinek előkészítését és végrehajtását, továbbá az ennek végzéséhez szükséges adatgyűjtő, nyilvántartó, valamint adminisztratív tevékenységet a Hatóság Titkársága végzi. A Titkárságot a főtitkár vezeti.
 
-(2) A főtitkár és a Titkárság alkalmazottai a Hatósággal állnak közszolgálati jogviszonyban, mely jogviszonyra a köztisztviselők jogállásáról szóló törvényt kell alkalmazni. A főtitkár a helyettes államtitkárnak járó illetményre, valamint egyéb juttatásokra jogosult.
+(2) A főtitkár és a Titkárság alkalmazottai a Hatósággal állnak közszolgálati jogviszonyban, mely jogviszonyra a közszolgálati tisztviselőkről szóló törvényt kell alkalmazni. A főtitkár a helyettes államtitkárnak járó illetményre, valamint egyéb juttatásokra jogosult.
 
 (3)
 
@@ -2370,7 +2370,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 (5) A Döntőbizottság elnöke az lehet, aki legalább tízéves közbeszerzési és legalább hároméves bírói gyakorlattal vagy legalább tízéves közbeszerzési és legalább hároméves közbeszerzési biztosi gyakorlattal, továbbá jogi szakvizsgával rendelkezik.
 
-(6) A Döntőbizottság elnökének közszolgálati jogviszonyára a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényt (a továbbiakban: Ktv.) a közbeszerzési biztosok köztisztviselői jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
+(6) A Döntőbizottság elnökének közszolgálati jogviszonyára a közszolgálati tisztviselőkről szóló törvényt (a továbbiakban: Kttv.) a közbeszerzési biztosok közszolgálati jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (7) A Döntőbizottság elnöke helyettes államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult. Az elnökhelyettes a főosztályvezetői illetményre jogosult.
 
@@ -2393,11 +2393,11 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 
 ### A közbeszerzési biztosok közszolgálati jogviszonya
 
-179. § (1) A közbeszerzési biztosok közszolgálati jogviszonyára a Ktv.-t az e törvény szerinti eltérésekkel kell alkalmazni.
+179. § (1) A közbeszerzési biztosok közszolgálati jogviszonyára a Kttv.-t az e törvény szerinti eltérésekkel kell alkalmazni.
 
 (2) Közbeszerzési biztos az lehet, aki felsőfokú végzettséggel és legalább hároméves szakmai gyakorlattal, valamint közigazgatási, illetőleg jogi szakvizsgával rendelkezik.
 
-(3) A (2) bekezdésben meghatározott szakvizsga előírásra a Ktv.-ben meghatározott határidőket megfelelően alkalmazni kell.
+(3) A (2) bekezdésben meghatározott szakvizsga előírásra a Kttv.-ben meghatározott határidőket megfelelően alkalmazni kell.
 
 (4) A közbeszerzési biztos – tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység kivételével – más megbízást nem fogadhat el, más keresőfoglalkozást nem folytathat, nem lehet gazdasági társaságban személyes közreműködésre kötelezett tag, vezető tisztségviselő, felügyelőbizottsági tag.
 
@@ -2406,15 +2406,15 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - a) országgyűlési, helyi önkormányzati képviselő, polgármester, illetőleg kamarai tisztségviselő;
 - b) gazdasági társaságban huszonöt százaléknál, illetőleg huszonöt millió forintnál nagyobb tulajdoni részesedéssel rendelkezik.
 
-(6) A közbeszerzési biztost a Ktv. előmeneteli szabályainak megfelelően kell besorolni azzal az eltéréssel, hogy a besorolási fokozatánál kettővel magasabb besorolási fokozathoz tartozó illetményre jogosult.
+(6) A közbeszerzési biztost a Kttv. előmeneteli szabályainak megfelelően kell besorolni azzal az eltéréssel, hogy a besorolási fokozatánál kettővel magasabb besorolási fokozathoz tartozó illetményre jogosult.
 
 (7) A főtanácsosi besorolású közbeszerzési biztos osztályvezetői illetményre, a vezető-főtanácsosi besorolású közbeszerzési biztos pedig főosztályvezető-helyettesi illetményre jogosult.
 
-(8) A közbeszerzési biztos közszolgálati jogviszonya felmentéssel szűnhet meg a Ktv.-ben szabályozottakon túlmenően akkor is, ha a Tanács a Döntőbizottság létszámát csökkentette.
+(8) A közbeszerzési biztos közszolgálati jogviszonya felmentéssel szűnhet meg a Kttv.-ben szabályozottakon túlmenően akkor is, ha a Tanács a Döntőbizottság létszámát csökkentette.
 
-(9) Ha a közbeszerzési biztos megbízatása megszűnik, akkor őt a Ktv. szabályai szerint újra be kell sorolni.
+(9) Ha a közbeszerzési biztos megbízatása megszűnik, akkor őt a Kttv. szabályai szerint újra be kell sorolni.
 
-(10) A közbeszerzési biztost a Ktv. 38. §-ának (1) bekezdése alapján nem lehet utasítani a jogorvoslati eljárás, illetőleg határozat vonatkozásában.
+(10) A közbeszerzési biztost nem lehet utasítani a jogorvoslati eljárás, illetőleg határozat vonatkozásában.
 
 ## HETEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

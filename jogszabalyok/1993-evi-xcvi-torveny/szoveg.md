@@ -210,7 +210,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 12. § (1) Munkáltatói tag az a természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki a pénztárral kötött szerződés alapján munkavállalójának tagdíjfizetési kötelezettségét egészben vagy részben átvállalja (munkáltatói hozzájárulás).
 
-(2) A munkáltatói hozzájárulási kötelezettséget vállaló munkáltató a munkáltatói hozzájárulásból egyetlen olyan munkavállalóját sem zárhatja ki, aki nála legalább hat hónapja munkaviszonyban (közalkalmazotti, közszolgálati, szolgálati jogviszonyban) áll. A munkáltató munkavállalóként mindhárom típusú pénztárban egyidejűleg is vállalhat hozzájárulási kötelezettséget.
+(2) A munkáltatói hozzájárulási kötelezettséget vállaló munkáltató a munkáltatói hozzájárulásból egyetlen olyan munkavállalóját sem zárhatja ki, aki nála legalább hat hónapja munkaviszonyban (közalkalmazotti, közszolgálati, kormányzati szolgálati, valamint szolgálati jogviszonyban) áll. A munkáltató munkavállalóként mindhárom típusú pénztárban egyidejűleg is vállalhat hozzájárulási kötelezettséget.
 
 (3) A munkáltatói hozzájárulás – a (4) bekezdésben foglaltak kivételével – minden pénztártag munkavállalóra nézve azonos összegű vagy a munkabérének azonos százaléka, amelyet a munkáltató köteles az alkalmazott által választott pénztártól függetlenül egységesen megállapítani. A munkáltató a hozzájárulás megállapításakor pénztártípusonként különbséget tehet. A munkabér százalékban meghatározott munkáltatói hozzájárulás esetén a munkáltató meghatározhatja a hozzájárulás legkisebb és legnagyobb összegét is.
 
@@ -994,7 +994,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 45. § (1) A pénztár – a felszámolás esetét kivéve – csak végelszámolást követően szűnhet meg.
 
-(2) Az e törvényben meghatározott eltérésekkel a pénztár felszámolására a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény rendelkezéseit, a végelszámolási és kényszer-végelszámolási eljárására pedig a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvényt (a továbbiakban: Ctv.) kell megfelelően alkalmazni.
+(2) Az e törvényben meghatározott eltérésekkel a pénztár felszámolására a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény rendelkezéseit, a végelszámolási, kényszer-végelszámolási vagy kényszertörlési eljárására pedig a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvényt (a továbbiakban: Ctv.) kell megfelelően alkalmazni.
 
 45/A. § (1) A pénztár megszűnését az illetékes bíróságnak be kell jelenteni. A végelszámolás kezdő időpontjában a pénztár vezető tisztségviselői közül az ellenőrző bizottsági tagok megbízatása nem szűnik meg. A bíróság a végelszámoló nyilvántartásba vételéről rendelkező, illetve az igazgatótanácsi tagok nyilvántartásból törléséről rendelkező végzésének meghozatalát követően a Cégközlönyben a Ctv. 102. § (2) bekezdésében foglaltaknak megfelelő közleményt tesz közzé. A Felügyelet a végelszámolás lefolytatását köteles ellenőrizni. A bíróság a pénztárat a nyilvántartásból a Felügyelet tevékenységet lezáró határozatának jogerőre emelkedését követően törli.
 

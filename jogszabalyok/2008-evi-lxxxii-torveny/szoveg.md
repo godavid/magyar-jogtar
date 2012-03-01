@@ -1091,7 +1091,7 @@ c) előre fizető mérő.
 
 ### Átmeneti rendelkezések
 
-32. § (1) A Ktv. 62. § (1) bekezdésében meghatározott adatszolgáltatás helyett 2009-ben egyszerűsített adatszolgáltatásra kerül sor. Az egyszerűsített adatszolgáltatás a közigazgatási szerv szervezeti adataira, valamint a közszolgálati jogviszonyban állók létszámára, életkorára, munkaidejére, besorolására és vezetői beosztására a Ktv. 21. § (6) bekezdés c) pontjában foglaltakkal összefüggő adatokra, valamint a közszolgálati jogviszony létesítésére és megszűnésére vonatkozó adatokra terjed ki, azzal, hogy azt a 2009. január 1-jei állapotnak megfelelően 2009. február 28-áig – a központi közszolgálati hatóság által meghatározott módon – kell teljesíteni. A központi létszám- és bérgazdálkodási statisztikai információs rendszer a Ktv. 62. § (2) bekezdése alapján a 2008. szeptember 1-jei állapotra vonatkozó adatok helyett a 2009. január 1-jei állapotra vonatkozó adatokat adja át a központi közszolgálati nyilvántartás számára.
+32. § (1)
 
 (2) E törvénynek a Tbj.-t módosító rendelkezéseit a 2009. január 1-jétől megszerzett jövedelmekre és keletkezett járulékfizetési kötelezettségre kell alkalmazni.
 

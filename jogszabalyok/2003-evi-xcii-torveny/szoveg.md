@@ -321,8 +321,7 @@ teljesíti.
 - c) jogelődjének adóazonosító számát;
 - d) a közös vállalat tulajdonosának (tulajdonosainak) adóazonosító számát, jogi személyiség nélküli gazdasági társaság, a korlátolt felelősségű társaság, az egyesülés, a közös vállalat adóazonosító jellel nem rendelkező tulajdonosa esetén az adóazonosító jel közlése végett e törvényben meghatározott adatokat;
 - e) a magánszemély adózó levelezési címét, ha az nem azonos székhelyével, telephelyével;
-- f) a ténylegesen végzett tevékenységi köröket az 1893/2006/EK rendelet szerint;
-- g) székhelyszolgáltatás esetén az ügyvéd, ügyvédi iroda nevét, elnevezését, adószámát, a székhely biztosítására kötött megbízási szerződés időtartamát és a székhelyszolgáltatás kezdő időpontját, valamint azoknak az iratoknak a körét, amelyekre e megbízási szerződés kiterjed;
+- f)–g)
 - h) a cégbírósághoz be nem jelentett, az e törvény 178. § 27. pontjában foglaltaknak megfelelő telephelyét.
 
 (4) Ha az adóköteles (bevételszerző) tevékenység folytatásához engedély, jóváhagyás, záradék szükséges, ennek megszerzését – az (1) bekezdés a) pontjában megjelölt adózók kivételével – a jogerős engedély, jóváhagyás, záradék közlésétől számított 15 napon belül az adóhatóságnak be kell jelenteni.
@@ -353,7 +352,7 @@ teljesíti.
 
 (12) A (10) bekezdésben meghatározott személy az állami adóhatósághoz bejelenti a székhelyére, telephelyére nem önálló tevékenység végzésére kirendelt külföldi illetőségű magánszemély munkavégzése befejezésének időpontját és – ha az adat a munkavégzéssel kapcsolatban rendelkezésére áll – az ország területe elhagyásának időpontját. A bejelentést a munkavégzés befejezése, illetve az ország területe elhagyása előtt 30 nappal kell megtenni. Ha a munkavégzés befejezésének időpontja a munkavégzésre irányuló jogviszony azonnali hatályú megszűnése miatt vagy más okból e határidőben nem áll a bejelentésre kötelezett rendelkezésére, akkor a bejelentést a munkavégzés befejezése napját követő napon az ok megjelölésével kell az állami adóhatósághoz teljesíteni.
 
-(13) Székhelyszolgáltatás bejelentése esetén az állami adóhatóság a nyilvántartásba vételről 15 napon belül írásban értesíti a bejelentésben megjelölt ügyvédet, ügyvédi irodát az adózó neve, adószáma, valamint az e § (3) bekezdés g) pontjában megjelölt adatok közlésével.
+(13)
 
 (14) Az egyéni vállalkozó adózó tevékenységi köreinek a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek megfelelő bejelentését a mindenkor hatályos Önálló vállalkozások tevékenységi jegyzéke (ÖVTJ) szerinti ÖVTJ kódokon teljesíti. A magánszemélyként adószám birtokában adóköteles tevékenységet végző adózó tevékenységi köreit szintén az ÖVTJ kód szerint jelenti be az állami adóhatósághoz.
 
@@ -976,31 +975,7 @@ a munkáltató a feltárt adókülönbözetet a feltárás időpontjában nyilv�
 
 (12)
 
-### Bizonytalan adójogi helyzet bejelentése
-
-33/A. § (1) Az adózó (ideértve az adóbevallást benyújtó más személyt is) a bevallás benyújtására előírt határidőig benyújtott adóbevallásában bejelentheti az állami adóhatóságnak, hogy az általa az adóbevallásban feltüntetett fizetendő vagy visszaigényelhető adó összege azért lehet hibás, mert az adó megállapítása szempontjából meghatározó tényállásra irányadó jogszabályi rendelkezés általa elfogadott értelmezése tévesnek minősülhet. E határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Önellenőrzés keretében nincs lehetőség a bejelentés megtételére. A bejelentésnek nem lehet a tárgya az általános forgalmi adó és az innovációs járulék, továbbá a szokásos piaci ár megállapítása vagy adókedvezmény igénybevétele nem szolgálhat a bejelentés alapjául.
-
-(2) Több jogcímen fennálló adókötelezettség bevallására alkalmas nyomtatvány esetében a bejelentést adónként külön-külön kell megtenni. Az adóra vonatkozóan tett bejelentés hatálya kiterjed az adónak az ugyanazon a bevallási nyomtatványon feltüntetett vagy feltüntethető előlegére is.
-
-(3) A bejelentés nem bizonyítja, hogy az adózó által elfogadott jogszabály-értelmezés téves. Téves jogszabály-értelmezés esetében a bejelentés az adózót nem mentesíti az adóhiány megfizetése alól.
-
-(4) A bejelentésre az adózó akkor jogosult, ha legkésőbb az adóbevallás benyújtásának napján az ügyvéd, adótanácsadó, adószakértő vagy okleveles adószakértő által ellenjegyzett jegyzőkönyvben rögzíti a bejelentés alapjául szolgáló tényállást és az arra irányadó jogszabályi rendelkezéseket, valamint az általa az adóbevallás elkészítése során elfogadott jogszabály-értelmezést és e jogszabály-értelmezés elfogadásának indokait. A jegyzőkönyvben fel kell tüntetni az adózó és a jegyzőkönyvet ellenjegyző ügyvéd, adótanácsadó, adószakértő vagy okleveles adószakértő, valamint az adóbevallás azonosításához szükséges adatokat is. A jegyzőkönyvben hivatkozott vagy ahhoz csatolt irat, dokumentum csak akkor tekinthető a jegyzőkönyv részének, ha az a jegyzőkönyv alapján egyértelműen azonosítható. Az ellenjegyzett jegyzőkönyvet a bejelentést követő 3 napon belül be kell nyújtani az állami adóhatósághoz; e határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A jegyzőkönyv adatait az állami adóhatóság az ellenőrzésre történő kiválasztáshoz felhasználhatja.
-
-(5) A bejelentés díjköteles. A díj mértéke a bejelentés tárgyát képező adónként az adó adóbevallásban feltüntetett fizetendő vagy visszaigényelt összege abszolút értékének 0,5 százaléka, de legalább 100 ezer és legfeljebb 5 millió forint. A díjat az adóhatóság által e célra kijelölt számlára a bejelentést tartalmazó adóbevallás benyújtásának napjáig kell megfizetni; e határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A díjak nyilvántartására és elszámolására az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló jogszabály előírásait kell alkalmazni. A díjfizetés tárgyára, illetőleg az elévülés tekintetében az illetéktörvény 28. § (2)–(3) bekezdését, valamint 86. §-ában foglaltakat megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol a törvény illetéket említ, azon díjat kell érteni.
-
-(6) Ha az adóhatóság a bejelentéssel érintett bevallás utólagos vizsgálata során adókülönbözetet állapít meg, az (5) bekezdés szerint megfizetett díjat az adózónak ki kell egészítenie a megállapított adókülönbözet azon részének 0,5 százalékáig, de legfeljebb 5 millió forintra, amely rész az adózó által elfogadott (a jogszerű bejelentés alapjául szolgáló jegyzőkönyvben rögzített) téves jogszabály-értelmezés következménye. A díj kiegészítésére az adóhatóság az ellenőrzés megállapításairól szóló határozatban kötelezi az adózót.
-
-(7) Az adózó bizonytalan adójogi helyzetre hivatkozó bejelentése nem jogszerű, ha
-
-- a) az adózó a díjat az előírt határidőig hiánytalanul nem fizette meg;
-- b) a bejelentés vagy az azt alátámasztó jegyzőkönyv nem felel meg az e törvényben foglalt bármely feltételnek,
-- c) az adózó az adóbevallás elkészítése során nyilvánvalóan téves jogszabály-értelmezést fogadott el. Nyilvánvalóan téves jogszabály-értelmezésnek minősül különösen, ha az adózó az adó mértékét bevallásában nem megfelelően tüntette fel, vagy bíróság által saját ügyében azonos tényállás mellett már jogerősen elbírált kérdést rögzített a jegyzőkönyvben.
-- d) a bejelentés alapjául szolgáló tényállás olyan jogügylet következménye, amely ellentétes a rendeltetésszerű joggyakorlás e törvényben meghatározott alapelvével;
-- e) az adózó a bejelentés alapjául szolgáló, ellenjegyzett jegyzőkönyvet a bejelentést követő 3 napon belül nem nyújtja be az állami adóhatósághoz.
-
-(8) Amennyiben az adóhatóság a bizonytalan adójogi helyzet bejelentésével érintett bevallást utólagos vizsgálat alá vonja, az ellenőrzés során az adóhatóság a jegyzőkönyvben foglaltakat megvizsgálja. Az adózó – a (7) bekezdésben foglalt esetek kivételével – mentesül a téves jogértelmezéssel összefüggő adóhiány alapján kiszabható adóbírság alól.
-
-(9) Ha az állami adóhatóság azt állapítja meg, hogy a jegyzőkönyvben foglaltak megalapozottak, úgy ezt a körülményt soron kívül jelzi az adópolitikáért felelős miniszternek.
+33/A. §
 
 ### Az adóbevallás kijavítása
 
@@ -1427,7 +1402,7 @@ szükséges,
 - d) az általa nyilvántartott adószámmal (csoport azonosító számmal) rendelkező, valamint a c) pont hatálya alá tartozó azon adózók nevét, elnevezését, adószámát, csoport azonosító számát (adószámát, csoport azonosító számát a törlésre utalással), amely adózókkal szemben az állami adóhatóság végrehajtási eljárást folytat, a végrehajtási eljárás megindításától annak befejezéséig a végrehajtás felfüggesztése vagy szünetelése időtartama kivételével;
 - e) az adóköteles tevékenységet adószám birtokában végző magánszemélyek kivételével az adózónak a 1893/2006/EK rendelet szerint bejelentett és nyilvántartott tevékenységi köreit;
 - f) a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési elővállalkozás nevét, adószámát, az ilyenként való nyilvántartásba vétel dátumát, és a nyilvántartásból való törlés dátumát, valamint ezen társaságok projekttársaságainak nevét és adószámát;
-- g) a bizonytalan adójogi helyzet bejelentés alapjául szolgáló jegyzőkönyvet ellenjegyző ügyvéd, adótanácsadó, adószakértő vagy okleveles adószakértő nevét, adóazonosító jelét, valamint az e jogállását eredményező hatósági nyilvántartási számát, továbbá a mulasztási bírság kiszabásáról jogerősen rendelkező határozat számát, ha terhére a bizonytalan adójogi helyzet nem jogszerűen megtett bejelentése miatt jogerősen mulasztási bírságot szabott ki; a közzétételre legkorábban a határozat bírósági felülvizsgálatára irányuló kereset benyújtására előírt határidő leteltét követő 8. napon, a kereset benyújtása esetén legkorábban a bírósági eljárás jogerős befejezésének napját követően kerülhet sor.
+- g)
 
 (6) Az állami adóhatóság honlapján közzéteszi az általa nyilvántartott, adószámmal rendelkező, általános forgalmiadó-alanynak minősülő adózók – kivéve a Magyar Honvédséget, a Nemzeti Adó- és Vámhivatalt és rendvédelmi szerveket, a nemzetbiztonsági szolgálatokat – az adóhatóság nyilvántartásában szereplő alkalmazottainak létszámát.
 
@@ -2312,7 +2287,7 @@ ezek hiányában a forgalmi érték vagy az árképzési szabályok szerint kalk
 
 (4) Nincs helye ismételt ellenőrzés lefolytatásának, ha a korábbi ellenőrzés eredményeként hozott adóhatósági határozatot bíróság felülvizsgálta.
 
-(5) A bizonytalan adójogi helyzet jogszerű bejelentése hatálya alá tartozó adómegállapítási időszakra vonatkozó adóbevallás utólagos ellenőrzésével lezárt időszak ismételt ellenőrzésére a bejelentés tárgyát képező adó tekintetében az (1) bekezdés c) pontja alapján csak akkor kerülhet sor, ha az ellátás jogosultja az adózótól eltérő személy (ide nem értve az adózó jogutódját), továbbá felülellenőrzésére csak az Állami Számvevőszék elnökének elrendelése alapján, vagy akkor van lehetőség, ha az adóhatóság az adó megállapítását befolyásoló olyan új tényről, adatról, bizonyítékról szerzett tudomást, amely a korábbi ellenőrzéskor nem volt ismert.
+(5)
 
 ### Felülellenőrzés
 
@@ -2372,7 +2347,7 @@ vizsgálja.
 
 (3) Ha az adatgyűjtés eredményeként feltárt tények, adatok, körülmények kétségessé teszik vagy cáfolják az adózó irataiban, nyilvántartásában szereplő adatok valóságtartalmát, illetőleg az adóhatóság a bevallási időszakon belül ismételten tárja fel a nyugtakibocsátási kötelezettségének elmulasztását, igazolatlan eredetű áru, alapanyag, félkész termék felhasználását vagy forgalmazását, továbbá be nem jelentett alkalmazott foglalkoztatását, az adóhatóság a bevallási időszakot lezáró adóbevallást vonja ellenőrzés alá.
 
-(4) Az állami adóhatóság általános megbízólevéllel rendelkező adóellenőre adatgyűjtésre irányuló helyszíni ellenőrzést olyan legalább középiskolai végzettséggel rendelkező személlyel együtt is lefolytathat (a továbbiakban: kisegítő adóellenőr), aki megfelel a köztisztviselők jogállásáról szóló törvény köztisztviselőkre vonatkozó alkalmazási feltételeinek és akivel az adóhatóság ilyen feladatok ellátására határozott idejű munkaszerződést kötött. A kisegítő adóellenőrre az adóellenőrre vonatkozó összeférhetetlenségi és kizárási szabályok az irányadók.
+(4) Az állami adóhatóság általános megbízólevéllel rendelkező adóellenőre adatgyűjtésre irányuló helyszíni ellenőrzést olyan legalább középiskolai végzettséggel rendelkező személlyel együtt is lefolytathat (a továbbiakban: kisegítő adóellenőr), aki megfelel a közszolgálati tisztviselőkről szóló törvény kormánytisztviselőkre vonatkozó alkalmazási feltételeinek, és akivel az adóhatóság ilyen feladatok ellátására határozott idejű munkaszerződést kötött. A kisegítő adóellenőrre az adóellenőrre vonatkozó összeférhetetlenségi és kizárási szabályok az irányadók.
 
 (5) A kisegítő adóellenőr az adóellenőrrel együtt az ellenőrzés során üzleti, üzemi vagy az egyéb adóköteles tevékenység folytatására szolgáló helyiségbe, helyszínre, illetőleg a vállalkozási tevékenységgel összefüggő alapanyag, félkész termék, áru tárolására szolgáló helyiségekbe beléphet.
 
@@ -3352,7 +3327,7 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 - a) a magánszemély terhére az adóhiány olyan része után, amely a munkáltató vagy a kifizető valótlan adóigazolása miatt keletkezett;
 - b) az adó megfizetésére az adózó örököseként, vagy az általa megajándékozottként kötelezett személy terhére az adózónál keletkezett adóhiány után;
-- c) a bizonytalan adójogi helyzet jogszerű bejelentése hatálya alá tartozó adómegállapítási időszakban a bejelentés tárgyát képező adó tekintetében keletkezett adóhiány olyan része után, amely az adózó által elfogadott, ügyvéd, adótanácsadó, adószakértő vagy okleveles adószakértő által ellenjegyzett jegyzőkönyvben foglalt téves jogszabály-értelmezés következménye.
+- c)
 
 (6) Ha a munkáltató (kifizető) a magánszemélyt terhelő járulék megállapítási, levonási és ezzel összefüggésben bevallási kötelezettségének nem vagy nem a törvényben meghatározottak szerint tesz eleget, az adóhatóság az adóhiányt, az adóhiány után az adóbírságot, a késedelmi pótlékot a munkáltató (kifizető) terhére, a rá vonatkozó szabályok szerint állapítja meg, kivéve, ha az adóhiány az adózó jogszerűtlen nyilatkozatának következménye. Ha a munkáltató (kifizető) a magánszemélyt terhelő személyi jövedelemadó megállapítási, levonási és ezzel összefüggésben bevallási kötelezettségének nem vagy nem a törvényben meghatározottak szerint tesz eleget, az adóhatóság az adóhiányt a magánszemély terhére, az adóhiány után az adóbírságot, a késedelmi pótlékot a munkáltató (kifizető) terhére, a rá vonatkozó szabályok szerint állapítja meg. Az adóhatóság az adóhiányt, illetőleg az adóbírságot és a késedelmi pótlékot is a munkáltató (kifizető) terhére állapítja meg, ha az adóelőleget, adót, járulékot a munkáltató (kifizető) a magánszemélytől levonta, de az ezzel összefüggő bevallási kötelezettségének nem tett eleget.
 
@@ -3414,7 +3389,7 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (13) Az adózó 20%-ig terjedő mértékű bírságot fizet, ha az előző időszak adatai alapján előírt (bevallott) adóelőlegét mérsékelték, és ezért kevesebb adóelőleget fizetett, mint amennyit tényleges eredménye alapján kellett volna. A bírság alapja az előző időszak adatai alapján előírt (bevallott) adóelőleg és a mérsékelt adóelőleg különbözete.
 
-(14) Ha a munkáltató (kifizető) adólevonási, vagy az adóbeszedésre kötelezett adóbeszedési kötelezettségét részben vagy egészben elmulasztotta, vagy a beszedett, illetve megállapított és levont adót nem fizette meg, késedelmi pótlék mellett 50%-ig terjedő mulasztási bírságot fizet. A bírság alapja a beszedni, levonni, illetőleg megfizetni elmulasztott adó összege. A bizonytalan adójogi helyzet jogszerű bejelentése hatálya alá tartozó adómegállapítási időszakra vonatkozó adóbevallás ellenőrzése alapján az adólevonási, illetőleg az adóbeszedési kötelezettség elmulasztása esetében a mulasztási bírság kiszabásának nincs helye, ha a mulasztás kizárólag az adózó által elfogadott (a bevallás alapjául szolgáló jegyzőkönyvben rögzített) jogszabály-értelmezés következménye.
+(14) Ha a munkáltató (kifizető) adólevonási, vagy az adóbeszedésre kötelezett adóbeszedési kötelezettségét részben vagy egészben elmulasztotta, vagy a beszedett, illetve megállapított és levont adót nem fizette meg, késedelmi pótlék mellett 50%-ig terjedő mulasztási bírságot fizet. A bírság alapja a beszedni, levonni, illetőleg megfizetni elmulasztott adó összege.
 
 (15) Az adóhatóság az e törvényben, adótörvényben, illetőleg e törvények felhatalmazásán alapuló más jogszabályban megállapított kötelezettségnek az e §-ban nem szabályozott megszegése miatt a magánszemély adózót 50 ezer, más adózót 100 ezer forintig terjedő mulasztási bírsággal sújthatja.
 
@@ -3435,7 +3410,7 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 - a) az egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzés során a magánszemély adózó, illetve az adózónak nem minősülő magánszemély a vizsgált gazdasági eseményekhez kapcsolódó számlák nettó értékének 10%-áig, más adózó a vizsgált gazdasági eseményekhez kapcsolódó számlák nettó értékének 50%-áig, de mindkét esetben legfeljebb 1 millió forintig,
 - b) minden más esetben, az adózó 1 millió forintig, terjedő mulasztási bírsággal sújtható.
 
-(20c) Az adóhatóság a bejelentést alátámasztó jegyzőkönyvet ellenjegyző ügyvédet, adótanácsadót, adószakértőt vagy okleveles adószakértőt mulasztási bírsággal sújtja, ha megállapítja, hogy az adózó bizonytalan adójogi helyzetét nem jogszerűen jelentette be. Az ellenjegyző terhére kizárólag akkor van helye bírság kiszabásának, ha a bejelentés a 33/A. § (7) bekezdésének b)–d) pontjában meghatározott okok miatt jogszerűtlen. A mulasztási bírság összege a bejelentés díjának 50 százaléka, de legalább 200 ezer forint.
+(20c)
 
 (20d) Ha az adózó az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 464/A. §-a alapján mentesül a jogosulatlanul igénybevett adókedvezménnyel kapcsolatos adókülönbözet megállapítása alól, a jogosulatlanul igénybevett kedvezmény összege 15%-ának megfelelő, de legalább 100 000 forint mértékű mulasztási bírságot fizet, kivéve ha bizonyítja, hogy a szükséges béremelést valamennyi folyamatosan foglalkoztatott munkavállaló tekintetében visszamenőleg, az ellenőrzés megkezdésének időpontját megelőzően végrehajtotta.
 
@@ -3855,7 +3830,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 
 (12) Az adózónak e törvénynek egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított rendelkezéseinek hatálybalépését követően – ha e törvény eltérően nem rendelkezik – az azt megelőző időszakra teljesítendő bejelentési, adómegállapítási, bevallási, adófizetési, adóelőleg-fizetési, bizonylatkiállítási, adatszolgáltatási és adólevonási kötelezettségét e törvénynek egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított rendelkezéseinek hatálybalépését megelőző napon hatályos szabályok szerint kell teljesítenie.
 
-(13) E törvénynek a bizonytalan adójogi helyzet bejelentésére irányadó rendelkezéseit a 2011. december 31-ét követően benyújtott adóbevallásra (ide nem értve az önellenőrzést) lehet alkalmazni.
+(13) E törvénynek a közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény (a továbbiakban: Módtv.) 59. § (3) bekezdés a) pontjával hatályon kívül helyezett 33/A. §-a alapján megtett bejelentés érvényét veszti, a befizetett díjat az állami adóhatóság hivatalból – a Módtv. hatályba lépésétől számított 30 napon belül – visszatéríti, az adózó által benyújtott jegyzőkönyvet az állami adóhatóság visszaküldi az adózónak.
 
 (14) A munkáltató az 1996. évi CXII. törvény 200/B. § (1) bekezdésében meghatározott végtörlesztés céljából munkavállalójának nyújtott kölcsön, illetve vissza nem térítendő támogatás esetén 2013. március 31-ig adatot szolgáltat az állami adóhatósághoz az alábbi tartalommal:
 
@@ -3866,6 +3841,8 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 (14) E törvénynek a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvénnyel megállapított 2. számú melléklet I./Határidők/6.4. pontját 2012. január 1-től és első alkalommal a 2012. január–március tárgynegyedévre kell alkalmazni.
 
 (14) E törvénynek a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvénnyel módosított 37. § (4) bekezdését és megállapított 37. § (4a) bekezdését 2012. február 1. napján vagy azt követően benyújtott adó-visszaigénylés esetében kell alkalmazni.
+
+190. § A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvénnyel megállapított 2. számú melléklet I. 2. b) pontját a 2012. január 1-jén folyamatban lévő, vagy ezt követően indult ügyekben is alkalmazni kell.
 
 ### 1. számú melléklet a 2003. évi XCII. törvényhez
 
@@ -4101,11 +4078,11 @@ az adóévet követő év február 25-éig
 
 fizeti meg, illetőleg ettől az időponttól igényelheti vissza.
 
-b) Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetőleg az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha az adózó esetében az alábbi feltételek bármelyike érvényesül
+b) Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetőleg az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha az adózó esetében az alábbi feltételek bármelyike érvényesül:
+
+a kérelem benyújtását megelőző két éven belül
 
 – az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,
-
-– bevallási, bejelentési és adatszolgáltatási kötelezettségét nem teljesítette,
 
 – az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása, ellenőrzés akadályoztatása miatt – jogerősen mulasztási bírsággal sújtotta,
 
@@ -4114,8 +4091,6 @@ b) Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a neg
 – szerepel(t) az 55. § (3) bekezdése vagy (5) bekezdése alapján közzéteendő adózói listán,
 
 – 25 millió forintot elérő vagy azt meghaladó összegű adótartozás miatt végrehajtási eljárás folyt/folyik ellene.
-
-Amennyiben a kérelmező gazdasági társaság a kérelem benyújtását megelőző két éven belül alakult, az előzőekben felsoroltakon kívül, a kérelmet az adóhatóság elutasítja abban az esetben is, ha a társaság tagja vagy vezető tisztségviselője az adó végrehajtásához való jog elévülési idején belül jelentős adóhátralékkal rendelkező és/vagy azzal megszűnő más adóalany vezető tisztségviselője, tagja vagy az volt.
 
 A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
 

@@ -201,7 +201,7 @@ kapcsolatos feladatokat.
 
 (2) A NAV személyi állományába tartozó
 
-- a) kormánytisztviselőkre és ügykezelőkre a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) és a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.),
+- a) kormánytisztviselőkre és ügykezelőkre a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.),
 - b) pénzügyőrökre a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.),
 - c) munkavállalókra a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -289,11 +289,11 @@ kapcsolatos feladatokat.
 
 (9) A pótszabadság mértéke szempontjából a Hszt. 326. § (1) bekezdése nem alkalmazható.
 
-### Eltérés a Ktv.-től és a Ktjv.-től
+### Eltérés a Kttv.-től
 
-18. § A NAV kormánytisztviselői tekintetében a Ktv. 9. § (1) bekezdése, 10. §-a, 10/B. §-a, 21. §-a, 22. §-a, 24. §-a, 30/A. §-a, 34. § (1)–(6) bekezdései, 41. § (1)–(5) bekezdése, 43. § (3)–(5) bekezdése, 45. § (1) bekezdése, 47. § (4) bekezdése, 48. §-a, és a 2. sz. melléklete, valamint a Ktjv. a 9. § (4) bekezdés második mondata, 14. §-a, 24. § (1) bekezdésében az „59. §-a” szövegrész és az 58/B. §-a nem alkalmazható.
+18. § A NAV kormánytisztviselői és ügykezelői tekintetében a Kttv. 45. § (1) bekezdése, 68. § (4) bekezdés második mondata, 84–87. §-a, 101. § (1)–(5) bekezdése, 117. §-a, 126–127. §-a, 133. § (2)–(4) bekezdése, 139. §-a, 140. § (4) bekezdése, 141. §-a, 190. §-a, 209. §-a és az 1. melléklete nem alkalmazható. A NAV kormánytisztviselői és ügykezelői tekintetében a Kttv. 238. §-át kell alkalmazni.
 
-18/A. § (1) A NAV-nál kormánytisztviselői jogviszony azzal a személlyel létesíthető, aki a Ktv.-ben meghatározott feltételeken túl megfelel a kijelölt miniszter által rendeletben meghatározott pszichikai alkalmassági követelményeknek.
+18/A. § (1) A NAV-nál kormánytisztviselői jogviszony azzal a személlyel létesíthető, aki a Kttv.-ben meghatározott feltételeken túl megfelel a kijelölt miniszter által rendeletben meghatározott pszichikai alkalmassági követelményeknek.
 
 (2) A pszichikai alkalmassági vizsgálat során keletkezett adat kezelésének célja a kormánytisztviselői jogviszony létesítéséhez a pszichikai alkalmassági feltételek fennállásának megállapítása.
 
@@ -342,7 +342,7 @@ adat.
 
 (8) Az alapfokú, illetve a középfokú szaktanfolyamot kiváló eredménnyel elvégzett pénzügyőr – állománycsoportján belül – eggyel magasabb rendfokozatba előléptethető.
 
-20/A. § (1) A 20. § (1)–(3) bekezdése szerinti besorolásnál a munkaviszonyban, állami vezetői szolgálati jogviszonyban, közszolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, kedvezményes szorzó nélkül számított hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, munkavégzésre irányuló egyéb jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a 14 éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
+20/A. § (1) A 20. § (1)–(3) bekezdése szerinti besorolásnál a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, kedvezményes szorzó nélkül számított hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a Kttv. 47. §-ában meghatározott ösztöndíjas jogviszonyban, munkavégzésre irányuló egyéb jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a 14 éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
 
 (2) Az (1) bekezdés alkalmazása szempontjából az 1992. július 1-jét megelőzően munkaviszonyban töltött időként jogszabály alapján elismert időtartamból – tekintet nélkül arra, hogy annak ideje alatt munkavégzésre irányuló jogviszony fennállt-e vagy ilyen jogviszony fennállása esetén érvényesült-e munkavégzési kötelezettség – hat hónapot be kell számítani.
 
@@ -368,11 +368,11 @@ adat.
 
 (4) Az (1)–(3) bekezdés alapján megállapított alapilletmény, illetve beosztási illetmény 100%-os alapilletménynek, illetve beosztási illetménynek minősül az illetményszorzó mértékétől függetlenül.
 
-23. § (1) Az illetménykiegészítés (bérpótlék) mértékét – a (2)–(3) bekezdés szerinti eltéréssel – a NAV központi, középfokú és alsó fokú szerveinél a kormánytisztviselők, ügykezelők, illetve munkavállalók tekintetében a 4. számú melléklet, a pénzügyőrök tekintetében az 5. számú melléklet tartalmazza.
+23. § (1) Az illetménykiegészítés mértékét – a (2)–(3) bekezdés szerinti eltéréssel – a NAV központi, középfokú és alsó fokú szerveinél a kormánytisztviselők tekintetében a 4. számú melléklet, a pénzügyőrök tekintetében az 5. számú melléklet tartalmazza.
 
-(2) A NAV humánerőforrás-fejlesztési feladatokat ellátó intézeténél az illetménykiegészítés (bérpótlék) mértéke a 4. számú mellékletnek, illetve az 5. számú mellékletnek a középfokú szervre vonatkozó irányadó mértékével azonos.
+(2) A NAV humánerőforrás-fejlesztési feladatokat ellátó intézeténél az illetménykiegészítés mértéke a 4. számú mellékletnek, illetve az 5. számú mellékletnek a középfokú szervre vonatkozó irányadó mértékével azonos.
 
-(3) A NAV Kormány által rendeletben megjelölt országos illetékességű középfokú és alsó fokú adóztatási szerveinél az illetménykiegészítés (bérpótlék) mértéke a 4. számú mellékletnek a központi szervekre vonatkozó irányadó mértékével azonos.
+(3) A NAV Kormány által rendeletben megjelölt országos illetékességű középfokú és alsó fokú adóztatási szerveinél az illetménykiegészítés mértéke a 4. számú mellékletnek a központi szervekre vonatkozó irányadó mértékével azonos.
 
 (4) A 4. számú melléklet esetén a vetítési alap az alapilletmény (alapbér), az 5. számú melléklet esetén a vetítési alap a beosztási illetmény.
 
@@ -392,7 +392,7 @@ adat.
 
 25. § (1) A NAV elnökének előzetes jóváhagyásával a munkáltatói jogkör gyakorlója át nem ruházható hatáskörében, a megállapított személyi juttatások előirányzatán belül a tárgyévet megelőző év szakmai munkája alapján – ide nem értve, ha a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő kinevezése év közben történik, vagy áthelyezésére kerül sor – a tárgyévre vonatkozóan a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő besorolása szerinti alapilletményét, illetve beosztási illetményét december 31-éig terjedő időszakra legfeljebb 50%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg. Az eltérítésről a munkáltatói jogkör gyakorlója minden év január 31-éig dönt.
 
-(2) Az (1) bekezdés szerint megállapított eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő, pénzügyőr, ügykezelő vezetői kinevezést kap vagy azt tőle visszavonják, illetve címadományozásra vagy annak visszavonására, vagy a kormánytisztviselő Ktv. 26. § (2) bekezdés szerinti átsorolására kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint az e törvény alapján az eltérítés nélkül meghatározott összeg.
+(2) Az (1) bekezdés szerint megállapított eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő, pénzügyőr, ügykezelő vezetői kinevezést kap vagy azt tőle visszavonják, illetve címadományozásra vagy annak visszavonására, vagy a kormánytisztviselő Kttv. 119. §-a szerinti átsorolására kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint az e törvény alapján az eltérítés nélkül meghatározott összeg.
 
 (3) Az (1) bekezdés alapján megállapított havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
@@ -443,11 +443,11 @@ adat.
 
 (6) A NAV külföldi szolgálati helyen szolgálatot teljesítő hivatásos állományú tagját naponta a belföldi napidíj 50%-ának megfelelő külföldi szolgálati helyi pótlék illeti meg.
 
-(7) Három hónapnál rövidebb időtartamú külföldi szolgálatot teljesítő pénzügyőrt a Ktv. 80. § (1) bekezdés f) pontja alapján kibocsátott jogszabály szerint illeti meg napidíj.
+(7) Három hónapnál rövidebb időtartamú külföldi szolgálatot teljesítő pénzügyőrt a Kttv. 259. § (1) bekezdés 3. pontja c) alpontja alapján kibocsátott jogszabály szerint illeti meg napidíj.
 
 30. § A vezetői beosztást betöltő pénzügyőr vezetői illetménypótlékra jogosult, melynek összegét a beosztási illetmény 6. számú mellékletben meghatározott százaléka képezi.
 
-31. § (1) A Ktjv. 23. §-ában foglaltakat a (2)–(4) bekezdésekben foglalt eltérésekkel kell alkalmazni.
+31. § (1) A Kttv. 150. §-ában foglaltakat a (2)–(4) bekezdésekben foglalt eltérésekkel kell alkalmazni.
 
 (2) A kormánytisztviselő jubileumi jutalomra jogosult, melynek mértéke:
 
@@ -473,7 +473,7 @@ adat.
 
 (4) A szakmai (fő)tanácsadói címet „kevéssé alkalmas” minősítés esetén vissza kell vonni, ebben az esetben a kormánytisztviselő, illetve a pénzügyőr a címmel járó illetmény helyett a besorolása szerinti illetményére jogosult.
 
-32. § A NAV teljes személyi állománya cafetéria-juttatása tekintetében a mindenkor hatályos Ktv. vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+32. § A NAV teljes személyi állománya cafetéria-juttatása tekintetében a mindenkor hatályos Kttv. vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 ### A pihenőidő
 
@@ -599,7 +599,7 @@ adat.
 - a) országos parancsnokságot említ, azon a NAV tekintetében a NAV Központi Hivatalát;
 - b) szervezeti egységet említ, azon a NAV tekintetében a központi szerveket, a középfokú szerveket és az alsó fokú szerveket kell érteni.
 
-(5) A 31. § (2)–(3) bekezdés alkalmazásában kormánytisztviselői jogviszonyban töltött idő alatt a Ktjv. 23. § (3) bekezdése alapján megállapított jubileumi jutalomra jogosító jogviszonyban töltött időt kell érteni.
+(5) A 31. § (2)–(3) bekezdés alkalmazásában kormánytisztviselői jogviszonyban töltött idő alatt a Kttv. 150. § (3) bekezdése alapján megállapított jubileumi jutalomra jogosító jogviszonyban töltött időt kell érteni.
 
 ### III. Fejezet — A NEMZETI ADÓ- ÉS VÁMHIVATAL HIVATÁSOS ÁLLOMÁNYÚ TAGJÁNAK INTÉZKEDÉSI
 
@@ -1342,33 +1342,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 #### III. BESOROLÁSI OSZTÁLY (ügykezelők)
 
-|  | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1 | Besorolási fokozat megnevezése | Fizetési fokozat | Jogviszony időtartama (év) | Szorzószám |
-| 2 | Ügykezelő | 1 | 0–2 | 1,79 |
-| 3 |  | 2 | 2–10 | 1,87 |
-| 4 |  | 3 | 10–20 | 2,00 |
-| 5 |  | 4 | 20–30 | 2,25 |
-| 6 |  | 5 | 30–37 | 2,50 |
-| 7 |  | 6 | 37 év felett | 2,75 |
-
 #### IV. BESOROLÁSI OSZTÁLY (fizikai alkalmazottak)
-
-|  | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1 | Besorolási fokozat megnevezése | Fizetési fokozat | Munkaviszony időtartama (év) | Szorzószám |
-| 2 | Segéd és betanított munkás | 1 | 0–2 | 1,71 |
-| 3 |  | 2 | 2–10 | 1,79 |
-| 4 |  | 3 | 10–20 | 1,92 |
-| 5 |  | 4 | 20–30 | 2,17 |
-| 6 |  | 5 | 30–37 | 2,42 |
-| 7 |  | 6 | 37 év felett | 2,67 |
-| 8 | Szakmunkás | 1 | 0–2 | 1,79 |
-| 9 |  | 2 | 2–10 | 1,90 |
-| 10 |  | 3 | 10–20 | 2,30 |
-| 11 |  | 4 | 20–30 | 2,60 |
-| 12 |  | 5 | 30–37 | 2,90 |
-| 13 |  | 6 | 37 év felett | 3,20 |
 
 ### 2. számú melléklet a 2010. évi CXXII. törvényhez
 
@@ -1418,7 +1392,7 @@ Vezetői munkakörök, beosztások illetménye
 
 ### 4. számú melléklet a 2010. évi CXXII. törvényhez
 
-Illetménykiegészítés/Bérpótlék
+Illetménykiegészítés
 
 |  | A | B | C | D |
 | --- | --- | --- | --- | --- |
