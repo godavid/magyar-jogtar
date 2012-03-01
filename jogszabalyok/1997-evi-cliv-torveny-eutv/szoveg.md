@@ -2162,7 +2162,13 @@ költségének fedezetét.
 
 (3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban ETT), a szakmai kollégiumok, valamint az (1) bekezdés g) pontja szerinti országos intézetek segítik.
 
-151. §
+151. § (1) A miniszter az egészségügy területén működő társadalmi szervezetekkel a Nemzeti Betegfórum útján is kapcsolatot tart.
+
+(2) A Nemzeti Betegfórumot az adott betegségben szenvedő személyeket képviselő társadalmi szervezetek alkotják. A Nemzeti Betegfórum
+
+- a) a miniszter részére javaslatot tesz, felkérésre véleményez, elemzést, értékelést készít,
+- b) az adott betegséggel, betegségcsoporttal összefüggésben érdekképviseletet lát el,
+- c) kapcsolatot tart az egészségügyi szakmai kollégium adott tagozatával, a társadalmi, érdekképviseleti szervezetekkel, az illetékes egészségügyi szakmai kamarákkal, az egyházakkal, valamint az alapítványokkal.
 
 ### A helyi önkormányzatok feladatai
 
@@ -3100,7 +3106,8 @@ megítéléséhez szükséges.
 
 225. § (1) A gyógyításhoz szükséges vér és vérkészítmények biztosítása körében a vérellátás feladatát képezi
 
-- a) a szükségletek felmérése, b) a Magyar Vöröskereszttel és más civil szervezetekkel együttműködve a véradások szervezése,
+- a) a szükségletek felmérése,
+- b) a Magyar Vöröskereszttel és más civil szervezetekkel együttműködve a véradások szervezése,
 - c) a véradók kivizsgálása,
 - d) a vér levétele terápiás készítmény előállítása céljából,
 - e) a vérkészítmények előállítása, beszerzése és vizsgálata,
@@ -3447,7 +3454,7 @@ rendeletben megállapítsa.
   - kl) a piacfelügyeleti eljárásokra, a közegészségügyi előírások betartása érdekében szükséges intézkedésekre,
   - km) a gyártási, forgalomba hozatali, alkalmazási, klinikai vizsgálati, nyilvántartásba vételi, időszakos felülvizsgálati eljárásokkal kapcsolatos kötelezettségek megszegésének jogkövetkezményeire,
   - kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
-- l)
+- l) a Nemzeti Betegfórum jogállásának, feladatkörének, valamint működésének részletes szabályait
 - m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégiumok és országos intézetek feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 - n) a kórházi felügyelő tanács és a kórházi etikai bizottság szervezetére és működésére vonatkozó részletes szabályokat,
 - o) az emberen végzett orvostudományi kutatásra vonatkozó részletes szabályokat,

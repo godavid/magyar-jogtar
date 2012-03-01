@@ -46,6 +46,8 @@ valamint a céginformációs szolgálat feladatai
 
 (4) A cégnévnek (rövidített névnek) az ország területén bejegyzett más cég elnevezésétől, illetve a 6. § (3) bekezdése szerint lefoglalt elnevezéstől – a cégforma különbözőségén túlmenően is – egyértelműen különböznie kell, és nem kelthet olyan látszatot, ami – különösen a cég tevékenységi körét és a választott cégformát illetően – megtévesztő.
 
+(5) A cégnévnek – a (4) bekezdésen túlmenően – egyértelműen különböznie kell a közhatalmi és közigazgatási szervek hivatalos és a köznyelvben használt elnevezésétől.
+
 4. § (1) A cégnévben szerepelhet a cégtulajdonosnak vagy a cég tagjainak neve a 3. § (4) bekezdésének megfelelő alkalmazásával.
 
 (2) A cégnévben a cég nonprofit jellegét a cégforma megjelölése előtt fel kell tüntetni, a közhasznú szervezeti minőség pedig feltüntethető.
@@ -56,7 +58,13 @@ valamint a céginformációs szolgálat feladatai
 
 (5) A történelem kiemelkedő személyiségének nevét a Magyar Tudományos Akadémia engedélyével, olyan elnevezést pedig, amelyhez másnak jogi érdeke fűződik, csak a jogosult hozzájárulásával lehet a cégnévben szerepeltetni.
 
-5. § A cég nevét (rövidített nevét) a cégbejegyzési eljárás alatt „bejegyzés alatt” („b. a.”) toldattal, a cég elleni csődeljárás esetén „csődeljárás alatt” („cs. a.”) toldattal, felszámolási, illetve végelszámolási eljárás esetén pedig „felszámolás alatt” („f. a.”) és „végelszámolás alatt” („v. a.”) toldattal kell használni.
+5. § A cég nevét (rövidített nevét)
+
+- a) a cégbejegyzési eljárás alatt „bejegyzés alatt” („b. a.”),
+- b) csődeljárás esetén „csődeljárás alatt” („cs. a.”),
+- c) felszámolási eljárás esetén „felszámolás alatt” („f. a.”),
+- d) végelszámolási eljárás esetén „végelszámolás alatt” („v. a.”),
+- e) kényszertörlési eljárás esetén „kényszertörlés alatt” („kt. a.”) toldattal kell használni.
 
 6. § (1) Két vagy több azonos nevű cég közül a választott név (rövidített név) viselésének joga azt illeti meg, amelyik a cégbejegyzési kérelmét elsőként nyújtotta be, illetve amelyik a (3) bekezdés alapján névfoglalással élt.
 
@@ -72,13 +80,13 @@ valamint a céginformációs szolgálat feladatai
 
 7. § (1) A cég székhelye a cég bejegyzett irodája. A bejegyzett iroda a cég levelezési címe, az a hely, ahol a cég üzleti és hivatalos iratainak átvétele, érkeztetése, őrzése, rendelkezésre tartása, valamint ahol a külön jogszabályban meghatározott, a székhellyel összefüggő kötelezettségek teljesítése történik. A cégnek a székhelyét cégtáblával kell megjelölnie. A cég létesítő okirata úgy is rendelkezhet, hogy a cég székhelye egyben a központi ügyintézés (döntéshozatal) helye. Amennyiben a cég székhelye nem azonos a központi ügyintézés helyével, a központi ügyintézés helyét a létesítő okiratában és a cégjegyzékben fel kell tüntetni. A cégeljárás szempontjából székhelynek minősül a külföldi vállalkozás magyarországi fióktelepe, a külföldiek közvetlen kereskedelmi képviselete, valamint az európai gazdasági egyesülés telephelye is.
 
-(2) A cég telephelye a tevékenység gyakorlásának a cég társasági szerződésében, alapító okiratában, alapszabályában (a továbbiakban együtt: létesítő okiratában) foglalt olyan tartós, önállósult üzleti (üzemi) letelepedéssel járó helye, amely a cég székhelyétől eltérő helyen található, a cég fióktelepe pedig olyan telephely, amely más településen – magyar cég külföldön lévő fióktelepe esetén más országban – van, mint a cég székhelye. Ez a szabály irányadó a külföldi vállalkozás magyarországi fióktelepe, illetve a külföldiek közvetlen kereskedelmi képviselete esetében is.
+(2) A cég telephelye a tevékenység gyakorlásának a cég társasági szerződésében, alapító okiratában, alapszabályában (a továbbiakban együtt: létesítő okiratában) foglalt olyan tartós, önállósult üzleti (üzemi) letelepedéssel járó helye, amely a cég székhelyétől eltérő helyen található, a cég fióktelepe pedig olyan telephely, amely más településen – magyar cég külföldön lévő fióktelepe esetén más országban – van, mint a cég székhelye. Ez a szabály irányadó a külföldi vállalkozás magyarországi fióktelepe, illetve a külföldiek közvetlen kereskedelmi képviselete esetében is. Amennyiben a cég telephellyel vagy fiókteleppel rendelkezik, úgy azt a cégjegyzékben fel kell tüntetni.
 
 (3) Magyar cég külföldön lévő fióktelepének a cégjegyzékbe történő bejegyzéséhez a cégnek a külföldi cégkivonattal, illetve más okirattal, valamint ezeknek magyar nyelvű hiteles fordításával kell igazolnia, hogy a fióktelepet a fióktelep helye szerinti államban nyilvántartásba vették.
 
-(4) Cég székhelye, telephelye és fióktelepe olyan ingatlan lehet, amely a cég tulajdonát képezi, vagy amelynek használatára a cég jogosult.
+(4) Cég székhelye, telephelye és fióktelepe olyan ingatlan lehet, amely a cég tulajdonát képezi, vagy amelynek használatára a cég jogosult. A cég a használat jogszerűségét igazolni köteles.
 
-7/A. § A cég székhelyeként a cégjegyzékbe annak az ügyvédnek (ügyvédi irodának) a székhelye is bejegyezhető, amely – a külön jogszabályban foglaltak szerint – a cég megbízásából gondoskodik a cég üzleti és hivatalos iratainak átvételéről, érkeztetéséről, megőrzéséről, rendelkezésre tartásáról, valamint a külön jogszabályban meghatározott, a székhellyel összefüggő kötelezettségek teljesítéséről, így különösen a cég székhelyéhez és a cégiratokhoz kapcsolódó hatósági kényszerintézkedések tűréséről (székhely szolgáltatás).
+#### 7/A. §
 
 7/B. § Az e törvény szerint a cégnyilvántartásba bejegyzett cég az Európai Unió más tagállamában is jogosult tevékenysége elsődleges folytatására, illetőleg tevékenysége gyakorlása elsődleges helyét az Európai Unió más tagállamába is áthelyezheti. A cég ezirányú döntése – külön törvény eltérő rendelkezése hiányában – nem igényli a székhelyére vonatkozó cégbejegyzés módosítását.
 
@@ -96,7 +104,7 @@ valamint a céginformációs szolgálat feladatai
 
 (2) A címpéldányon (aláírás-mintán) – a létesítő okiratában foglaltakkal egyezően – fel kell tüntetni a cég nevét, a cégjegyzésre jogosult nevét, lakóhelyét, a képviselet jogcímét (pl. vezető tisztségviselő, munkavállaló), a cégjegyzés módját, valamint a cégjegyzésre jogosult aláírási mintáját. A cégjegyzésre jogosult munkavállaló kérésére az aláírási címpéldányon a cégnél ellátott feladatköre, beosztása is szerepeltethető.
 
-(3) Az ügyvéd az aláírás-mintát kizárólag cégbejegyzési (változásbejegyzési) eljárás során jegyezheti ellen abban az esetben, amennyiben a cég létesítő okiratát vagy a létesítő okirata módosítását is ő készíti (szerkeszti) és jegyzi ellen, és az aláírás-minta a cégbejegyzési (változásbejegyzési) kérelem mellékletét képezi.
+(3) Az ügyvéd az aláírás-mintát kizárólag cégbejegyzési vagy változásbejegyzési eljárás során jegyezheti ellen abban az esetben, amennyiben a cég létesítő okiratát vagy a létesítő okirata módosítását is ő készíti vagy szerkeszti és jegyzi ellen, és az aláírás-minta a cégbejegyzési vagy változásbejegyzési kérelem mellékletét képezi. Az ügyvéd az aláírás-minta elkészítése során a személyazonosságot az ügyvédekről szóló 1998. évi XI. törvény 27/B. § (1) bekezdésében foglalt módon köteles ellenőrizni.
 
 (4) A cég kérelmére a cégjegyzék tartalmazza a cégjegyzésre jogosult – külön jogszabály szerinti – elektronikus címpéldányáról készített tanúsítványát is. A cégjegyzékbe bejegyzett tanúsítvánnyal rendelkező elektronikus aláírás a cégjegyzésre jogosult cégszerű aláírásának minősül.
 
@@ -110,7 +118,7 @@ valamint a céginformációs szolgálat feladatai
 
 (2) A cégjegyzék fennálló, illetve törölt adatai, valamint a cégiratok – ideértve az elektronikus úton benyújtott, illetve elektronikus okirattá átalakított cégiratokat is – teljeskörűen nyilvánosak. Az adózás rendjéről szóló törvény szerinti adóregisztrációs eljárás eredményes lefolytatását követően teljeskörűen nyilvánosak továbbá a benyújtott, de még el nem bírált bejegyzési kérelem és mellékletei is azzal, hogy a bejegyzési (változásbejegyzési) kérelem elbírálásának folyamatban létére a cégnyilvántartásnak utalnia kell. A törvényességi felügyeleti eljárás iratai e törvény rendelkezései szerint nyilvánosak.
 
-(3) Az eltiltás hatályának fennállása alatt teljeskörűen nyilvánosak a cégnyilvántartásból törölt gazdasági társaság vezető tisztségviselőjével, cégvezetőjével szemben a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 23. §-a alapján bejegyzett adatok. Az eltiltás hatályának megszűnését követően ezeket az adatokat vissza nem állítható módon kell a cégjegyzékből véglegesen törölni.
+(3) Az eltiltás hatályának fennállása alatt teljeskörűen nyilvánosak a cégnyilvántartásból törölt gazdasági társaság tagjával, továbbá vezető tisztségviselőjével, cégvezetőjével szemben a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 5. és 23. §-a alapján bejegyzett adatok. Az eltiltás hatályának megszűnését követően ezeket az adatokat vissza nem állítható módon kell a cégjegyzékből véglegesen törölni.
 
 (4)–(6)
 
@@ -130,7 +138,7 @@ valamint a céginformációs szolgálat feladatai
 
 (4) A cégbíróságon a cégiratokról e törvényben, illetve külön jogszabályban meghatározott módon kérhető másolat.
 
-(5)
+(5) Az elektronikus okiratként rendelkezésre álló cégiratról közfeladatot ellátó szervek részére történő adatszolgáltatás elektronikus úton teljesíthető, papír alapú másolat csak kivételesen indokolt esetben kérhető.
 
 13. § (1) A céginformációs szolgálat kérelemre tájékoztatást ad a cégjegyzékben szereplő fennálló vagy törölt adatokról, valamint a bejegyzési (változásbejegyzési) kérelem elektronikusan rögzített, még be nem jegyzett adatairól. E közszolgáltatást bárki igénybe veheti. A céginformációs szolgálatnál rendelkezésre álló adatok azonosak a cégbíróságokon elektronikusan rögzített adatokkal. A 12. § (1) bekezdésében meghatározott közokiratok kiadására a céginformációs szolgálat is jogosult.
 
@@ -155,11 +163,13 @@ megismerhetők.
 
 (5) A (4) bekezdésben említett tényeket oly módon kell rögzíteni, hogy az adat célhoz kötött felhasználása ellenőrizhető legyen. Az ezzel ellentétes céginformáció-kérés, illetve ennek alapján az adat felhasználásának jogkövetkezményeit az információt kérő viseli.
 
-(6) Csoportosított céginformációként nem ismerhetőek meg e törvény 27. § (1) bekezdésének c) pontjában, 27. § (2) bekezdésének d) pontjában, 27. § (3) bekezdésének d) pontjában, 27. § (4) bekezdésének ad) pontjában, továbbá 27. § (5) bekezdésének c) pontjában feltüntetett adatok. Ezen adatok ingyenes céginformációként – külön jogszabályban meghatározott módon – keresőprogram segítségével, csoportosított lekérdezés útján ismerhetőek meg.
+(6) Csoportosított céginformációként nem ismerhetőek meg e törvény 27. § (1) bekezdésének c) pontjában, 27. § (2) bekezdésének d) pontjában, 27. § (3) bekezdésének d) pontjában, 27. § (4) bekezdésének ad) pontjában, 27. § (5) bekezdésének c) pontjában, továbbá 27. § (6) bekezdés c) pontjában feltüntetett adatok. Ezen adatok ingyenes céginformációként – külön jogszabályban meghatározott módon – keresőprogram segítségével, csoportosított lekérdezés útján ismerhetőek meg.
 
-15. § (1) A céginformációs szolgálat a cégjegyzékben szereplő fennálló vagy törölt adatok, valamint a bejegyzési (változásbejegyzési) kérelem elektronikusan rögzített, még be nem jegyzett adatainak a megismerését (a betekintés lehetőségét) kérelemre, bárki számára ingyenesen és korlátozásmentesen biztosítja, feltéve, hogy a céginformációt elektronikus úton kérik.
+15. § (1) A céginformációs szolgálat a cégjegyzékben szereplő fennálló vagy törölt adatok, valamint a bejegyzési (változásbejegyzési) kérelem elektronikusan rögzített, még be nem jegyzett adatainak a megismerését betekintéssel bárki számára ingyenesen és korlátozásmentesen biztosítja. A céginformációs szolgálat honlapján – a hitelezők védelme érdekében – biztosítja egyes cégjegyzék adatok ingyenesen történő megismerését.
 
 (2) Az (1) bekezdésben nem említett céginformációért, valamint ha a kérelmező a céginformációt közokirat formájában kéri, a kérelmező a céginformációs szolgálat tevékenységének igénybevételéért – a szolgáltatás költségeivel összhangban álló – költségtérítést köteles fizetni.
+
+(2a) A céginformációért fizetendő közzétételi költségtérítés – a szükséges és igazolt költségek levonását követően – a központi költségvetés bevételét képezi.
 
 (3) A céginformációs szolgálat a bíróság, az ügyészség, a nyomozó hatóság, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló, valamint a gazdasági, illetve szakmai kamarák részére a közfeladataik ellátása érdekében kért céginformációt – az (1) bekezdésben nem említett cégadatok vonatkozásában is – ingyenesen bocsátja rendelkezésre. Esetükben sem az adatszolgáltatás, sem az adattovábbítás nem köthető díjfizetéshez. Az e rendelkezéssel ellentétes megállapodás semmis.
 
@@ -197,7 +207,7 @@ megismerhetők.
 
 (8) A beszámoló közzétételére a céginformációs szolgálat honlapján, napi feltöltéssel kerül sor.
 
-(9) A közzétételi költségtérítést külön jogszabályban meghatározott módon kell megfizetni az igazságügyért felelős miniszter által vezetett minisztériumnak a kincstárnál vezetett számlájára. A közzétételi költségtérítés – ideértve a céginformációs szolgálat által nyújtott céginformációért fizetendő közzétételi költségtérítést is – a központi költségvetés központosított bevételének minősül. A közzétételi költségtérítés befizetését a céginformációs szolgálat ellenőrzi. Ha a közzétételi költségtérítés befizetése nem vagy nem megfelelő összegben történt meg, erről a céginformációs szolgálat 30 napon belül értesíti az állami adóhatóságot. Ebben az esetben a céget úgy kell tekinteni, mint amely a letétbe helyezési és a közzétételi kötelezettségnek nem tett eleget.
+(9) A közzétételi költségtérítést külön jogszabályban meghatározott módon kell megfizetni az igazságügyért felelős miniszter által vezetett minisztériumnak a kincstárnál vezetett számlájára. A közzétételi költségtérítés a központi költségvetés központosított bevételének minősül. A közzétételi költségtérítés befizetését a céginformációs szolgálat ellenőrzi. Ha a közzétételi költségtérítés befizetése nem vagy nem megfelelő összegben történt meg, erről a céginformációs szolgálat 30 napon belül értesíti az állami adóhatóságot. Ebben az esetben a céget úgy kell tekinteni, mint amely a letétbe helyezési és a közzétételi kötelezettségnek nem tett eleget.
 
 19. § (1) A kormányzati portál a beszámoló közzétételre történő megküldésének teljesítéséről az időpont megjelölésével elektronikus igazolást küld a beszámolót benyújtó személynek. A beszámoló megküldésére vonatkozó határidők tekintetében a céginformációs szolgálathoz történő – az informatikai szempontból szabályszerű – érkezés időpontja irányadó.
 
@@ -213,7 +223,7 @@ megismerhetők.
 
 (2) A cég cégjegyzékének adatait, illetve azok változásait – ideértve a cég törlését is – tartalmazó végzését a cégbíróság költségtérítés ellenében a Cégközlönyben hozza nyilvánosságra, felsorolva azokat az okiratokat is, amelyek alapján a végzést meghozta. A cégbíróság a végzést automatikusan, elektronikus úton juttatja el a Cégközlöny számára. A végzésben, illetve annak alapján a Cégközlönyben megjelenő közleményben azt is szerepeltetni kell, hogy a vonatkozó cégiratok a cégjegyzéket vezető cégbíróságon megtekinthetők. Emellett a Cégközlönyben közzétételre kerülnek azok a cégjegyzékadatok is, amelyekkel törvény rendelkezése szerint – más szervezet döntése alapján – elektronikus úton egészül ki a cégjegyzék.
 
-(3) A cégbíróság a részvénytársaság és a korlátolt felelősségű társaság cégjegyzék adatainak közzétételével egyidejűleg gondoskodik a részvénytársaság és a korlátolt felelősségű társaság létesítő okiratának, illetve a létesítő okirat módosításának Cégközlönyben történő közzétételéről is, kivéve, ha a létesítő okirat vagy annak módosítása szerződésminta alkalmazásával készült.
+(3) A cégbíróság a részvénytársaság és a korlátolt felelősségű társaság cégjegyzék adatainak közzétételével egyidejűleg gondoskodik a részvénytársaság és a korlátolt felelősségű társaság létesítő okiratának, illetve a létesítő okirat módosításának Cégközlönyben történő közzétételéről is.
 
 (4) Törvényben meghatározott esetben a Cégközlönyben közleményként kell továbbá közzétenni:
 
@@ -269,6 +279,19 @@ megismerhetők.
 
 (6) A közzététel megtörténtét követően a cég nem hivatkozhat harmadik személlyel szemben arra, hogy a bejegyzett képviselő a hatáskörét túllépve járt el.
 
+22/A. § (1) A cégnyilvántartásba bejegyzett gazdasági társaság vezető tisztségviselője vonatkozásában a Gt. 23. § (1) és (2) bekezdésében foglalt kizáró okok fennállásának ellenőrzése céljából a cégbíróság a bűnügyi nyilvántartási rendszer adataival való összevetést kezdeményez.
+
+(2) Az (1) bekezdésben meghatározott összevetés kizárólag annak megállapítására irányulhat, hogy a cégnyilvántartásba bejegyzett gazdasági társaság vezető tisztségviselője vonatkozásában a Gt. 23. § (1) és (2) bekezdésében foglalt bármely kizáró ok fennáll-e.
+
+(3) Az (1) bekezdésben meghatározott célból a cégbíróság a bűnügyi nyilvántartó szerv rendelkezésére bocsátja
+
+- a) a cégnyilvántartásba bejegyzett valamennyi gazdasági társaság vezető tisztségviselői azonosításához szükséges, rendelkezésére álló személyes adatokat,
+- b) a cégnyilvántartásba bejegyzett valamennyi cég főtevékenységét,
+- c) a cégnyilvántartásba bejegyzett valamennyi cég tekintetében a törvényességi felügyeleti eljárás lefolytatására jogosult cégbíróságot,
+- d) az a)–c) pontokban meghatározott adatokban bekövetkezett változásokat.
+
+(4) Ha a bűnügyi nyilvántartó szerv azt állapítja meg, hogy a (3) bekezdés alapján rendelkezésére bocsátott adatok alapján a cégnyilvántartásba bejegyzett gazdasági társaság vezető tisztségviselője vonatkozásában a Gt. 23. § (1) és (2) bekezdésében foglalt bármely kizáró ok áll fenn, arról a bűnügyi nyilvántartó szerv a törvényességi felügyeleti eljárás hivatalból történő lefolytatása érdekében haladéktalanul értesíti a cégbíróságot.
+
 ### III. Fejezet — A CÉGJEGYZÉK
 
 23. § (1) A céget, illetve a cégre vonatkozó adatokat a cégbíróság cégjegyzékben tartja nyilván. A cégjegyzék rovatainak elnevezése angol, német, francia és orosz nyelven is megjeleníthető.
@@ -279,7 +302,7 @@ megismerhetők.
 
 23/A. § (1) A cégbíróság a cégjegyzék adatait és a cégiratokat az Európai Unió bármely hivatalos nyelvén is nyilvántartja, ha a cég a cégbejegyzési kérelemhez csatolta a cégjegyzékben szereplő adatoknak és a cégiratoknak az általa választott hivatalos nyelven készült – a külön jogszabályban foglaltak szerint arra jogosult által készített – hiteles fordítását.
 
-(2) Törvényi szerződésminta esetében a szerződésminta fordításának csatolására – az Európai Unió bármely hivatalos nyelvén történő nyilvántartáshoz – nincs szükség.
+(2) Törvényi szerződésminta esetében a szerződésminta fordításának csatolására – angol, német, francia nyelven történő nyilvántartáshoz – nincs szükség.
 
 (3) Ha a magyar nyelvű cégjegyzékbe bejegyzett adat, illetve cégirat és annak hiteles fordítása egymástól eltér, a cég harmadik személlyel szemben nem hivatkozhat a hiteles fordításra. Harmadik személy azonban hivatkozhat a hiteles fordításra, kivéve, ha a cég bizonyítja, hogy a harmadik személy a cégjegyzékbe bejegyzett – magyar nyelven nyilvántartott –, a fordításban szereplőtől eltérő adatot vagy cégiratot ismerte.
 
@@ -296,7 +319,7 @@ megismerhetők.
 - e) a cég létesítő okiratban meghatározott tevékenységi köreit, azok statisztikai nómenklatúra szerinti besorolása nélkül,
 - f) a cég jegyzett tőkéjét,
 - g) a képviselet módját (önálló vagy együttes),
-- h) a cég képviseletére jogosultak nevét (cégét) és lakóhelyét (székhelyét), adóazonosító jelét (adószámát), valamint tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
+- h) a cég képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartás számát, valamint a képviseletre jogosultak tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
 - i) a cég adószámát, valamint statisztikai számjelét, továbbá ha a cég adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
 - j) a cég valamennyi pénzforgalmi számláját, valamint az azokat vezető pénzforgalmi szolgáltatók nevét és székhelyét,
 - k) a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontját,
@@ -307,6 +330,8 @@ megismerhetők.
 (3) Az (1) bekezdés f) pontjában szereplő jegyzett tőkeként kell feltüntetni az európai gazdasági egyesülés, a külföldiek magyarországi fióktelepe vagy kereskedelmi képviselete esetén a tulajdonos, illetve a külföldi vállalkozás által a működéshez rendelkezésre bocsátott összeget. A jegyzett tőkét – a számviteli törvény felhatalmazása alapján devizakönyvvezetést alkalmazó társaság, az európai részvénytársaság, az európai gazdasági egyesülés kivételével – forintban kell meghatározni. Az európai szövetkezet a jegyzett tőkéjét euróban is meghatározhatja.
 
 (4) Szövetkezet, európai szövetkezet, európai gazdasági egyesülés, külföldi vállalkozás magyarországi fióktelepe és külföldiek magyarországi kereskedelmi képviselete esetében a jegyzett tőke (illetve a jegyzett tőkeként bejegyzett összeg) változását – a változások számától függetlenül – évente legalább egy alkalommal kötelező a cégbíróságnak bejegyzés és közzététel végett bejelenteni.
+
+(4a) A bejegyzési kérelem benyújtásakor a cég köteles megjelölni főtevékenységét és további tevékenységi köreit azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével. A cégbíróság a cég bejegyzésekor elektronikus úton értesíti az állami adóhatóságot a cég főtevékenységéről és további tevékenységi köreiről.
 
 (5) A cégbíróság az adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
@@ -358,7 +383,8 @@ megismerhetők.
 - j) a cég tagja (részvényese) vagyoni részesedésének lefoglalását, továbbá a cég tagja (részvényese) vagyoni részesedésére vonatkozóan a büntetőeljárásban alkalmazott biztosítási intézkedés, illetve zár alá vétel elrendelését és megszüntetését,
 - k) ha a jogi személy ellen olyan eljárás van folyamatban, amelyben büntetőjogi intézkedés alkalmazásának lehet helye, a nyomozás elrendelését, megszüntetését, annak megállapítását, hogy intézkedés alkalmazásának a feltételei nem állnak fenn, az eljárás befejezését, valamint az eljáró hatóság megnevezését, a határozat számát és keltét, továbbá, ha a bíróság a jogi személlyel szemben büntetőjogi intézkedésként tevékenységének korlátozását rendelte el, a határozat jogerőre emelkedésének napját, a korlátozás időtartamát és azt, hogy a korlátozás a jogi személy mely tevékenységére vagy jogosítványára terjed ki,
 - l) a 85. § (1) bekezdésében meghatározott intézkedés tényét, illetve a kirendelt zárgondnok nevét (cégnevét), lakóhelyét (székhelyét),
-- m) azt a tényt, ha a cég képviseletére jogosult személynek, továbbá, ha a cég minősített többséggel rendelkező tagjának (részvényesének) vagy uralkodó tagjának korlátlan felelősségét állapították meg a cég tartozásaiért; a képviselő, a tag nevét és lakóhelyét, a jogerős bírósági döntés számát és keltét.
+- m) azt a tényt, ha a cég képviseletére jogosult személynek, továbbá, ha a cég minősített többséggel rendelkező tagjának (részvényesének) vagy uralkodó tagjának korlátlan felelősségét állapították meg a cég tartozásaiért; a képviselő, a tag nevét és lakóhelyét, a jogerős bírósági döntés számát és keltét,
+- n) a kényszertörlési eljárás kezdő időpontját és befejezését.
 
 (2) Az (1) bekezdés a) és b) pontjában meghatározott adatokat, valamint a cég neve (rövidített neve) mellett a „felszámolás alatt” („f. a.”) toldat bejegyzését, (amennyiben a felszámolási eljárást végelszámolási eljárás előzte meg, az arra utaló toldat törlését), a képviselet módja változásának bejegyzését, a korábbi képviseletre jogosultak törlését, a felszámolóra, illetve a felszámolóbiztosra vonatkozó adatokat (név, székhely, lakóhely) – külföldi székhelyű vállalkozás fizetőképtelenségére, illetve felszámolására vonatkozó eljárás bejegyzésének kivételével – a csődeljárást, illetve a felszámolási eljárást lefolytató bíróság végzése alapján elektronikus úton kell rögzíteni a cégjegyzékben, a csődeljárást, illetve a felszámolást elrendelő jogerős végzés Cégközlönyben történő közzétételével egyidejűleg. Ha a felszámolási eljárás a cég jogutód nélküli megszűnésével befejeződik, e végzés jogerőre emelkedésének napjával a céget elektronikus úton, automatikusan kell törölni a cégjegyzékből.
 
@@ -380,23 +406,24 @@ megismerhetők.
 
 (1) Közkereseti társaság esetében
 
-- a) a tagok nevét (cégét) és lakóhelyét (székhelyét),
+- a) a tagok nevét, természetes személy tag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 - b) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
-- c) azt a tényt, ha a társaság vezető tisztségviselője, illetve cégvezetője a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
+- c) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 5. és 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
 
 (2) Betéti társaság esetében
 
-- a) a társaság beltagjainak nevét (cégét), lakóhelyét (székhelyét),
-- b) a társaság kültagjainak nevét (cégét), lakóhelyét (székhelyét),
+- a) a társaság beltagjainak nevét, természetes személy beltag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
+- b) a társaság kültagjainak nevét, természetes személy beltag esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát,
 - c) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
-- d) azt a tényt, ha a társaság vezető tisztségviselője, illetve cégvezetője a Gt. 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
+- d) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a Gt. 5. és 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
 
 (3) Korlátolt felelősségű társaság esetében
 
-- a) a tagok nevét (cégét), lakóhelyét (székhelyét), és amennyiben a tag szavazati jogának mértéke az 50 százalékot meghaladja, vagy a tag minősített többségű befolyással rendelkezik, ezt a tényt is,
+- a) a tagok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint amennyiben a tag szavazati jogának mértéke az 50 százalékot meghaladja, vagy a tag minősített többségű befolyással rendelkezik, ezt a tényt is,
 - b) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
 - c) az üzletrészen alapított zálogjog tényét, a zálogjogosult nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát),
-- d) azt a tényt, ha a társaság vezető tisztségviselője, illetve cégvezetője a Gt. 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
+- d) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a Gt. 5. és 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
+- e) közös tulajdonú üzletrész esetén a tulajdonosok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
 
 (4)
 
@@ -404,11 +431,11 @@ megismerhetők.
   - aa) részvényfajták (részvényosztályok) szerint a részvények számát és névértékét,
   - ab) a kibocsátott átváltoztatható kötvények számát és névértékét,
   - ac) a kibocsátott jegyzési jogot biztosító kötvények számát és névértékét,
-  - ad) azt a tényt, ha a társaság vezető tisztségviselője, illetve cégvezetője a Gt. 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét,
+  - ad) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a Gt. 5. és 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét,
 - b) Zártkörűen működő részvénytársaság esetében
   - ba) a részvénytársaság ügyvezetésének típusát (igazgatóság vagy egyszemélyes igazgatóság),
   - bb) ha a részvény átruházását az alapszabály korlátozza, ezt a tényt,
-  - bc) azt a tényt, ha valamelyik részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik, továbbá ennek a részvényesnek a nevét (cégnevét), lakóhelyét (székhelyét),
+  - bc) amennyiben a részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik, a részvényes nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
   - bd) egyszemélyes részvénytársaság esetében a részvényes nevét (cégét), lakóhelyét (székhelyét),
 - c) Nyilvánosan működő részvénytársaság esetében
   - ca) az ügyvezetés típusát (igazgatóság vagy igazgatótanács),
@@ -419,12 +446,13 @@ megismerhetők.
 
 - a) a tagok nevét (cégét), lakóhelyét (székhelyét),
 - b) az egyesüléshez csatlakozó tag csatlakozásának időpontját, felelősségének esetleges korlátozását,
-- c) azt a tényt, ha a társaság vezető tisztségviselője, illetve cégvezetője a Gt. 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
+- c) azt a tényt, ha tagja, vezető tisztségviselője, illetve cégvezetője a Gt. 5. és 23. §-ában foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét;
 
 (6) Egyéni cég esetén
 
-- a) a cégtulajdonos nevét és lakóhelyét,
+- a) a cégtulajdonos nevét, lakóhelyét, születési idejét és anyja születési nevét,
 - b) az egyéni cég tagjának korlátolt vagy korlátlan felelősségét, korlátolt felelősség esetén a pótbefizetés összegét;
+- c) azt a tényt, ha az egyéni cég tagja vagy vezető tisztségviselője az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 20. § (7) bekezdésében foglalt eltiltás hatálya alatt áll; az eltiltás kezdetét és végét.
 
 (7)
 
@@ -432,13 +460,13 @@ megismerhetők.
 
 - a) a külföldi vállalkozás nevét, cégformáját, cégjegyzékszámát (nyilvántartási számát) és székhelyét,
 - b) a külföldi vállalkozás cégjegyzékét (nyilvántartását) vezető bíróság, illetve hatóság megnevezését és székhelyét,
-- c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevét (cégét), lakóhelyét (székhelyét), a jogviszony keletkezésének és megszűnésének időpontját;
+- c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját;
 
 (9) Külföldiek magyarországi közvetlen kereskedelmi képviselete esetében
 
 - a) a külföldi vállalkozás nevét, cégformáját, cégjegyzékszámát (nyilvántartási számát) és székhelyét,
 - b) a külföldi vállalkozás cégjegyzékét (nyilvántartását) vezető bíróság, illetve hatóság megnevezését és székhelyét,
-- c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevét (cégét), lakóhelyét (székhelyét), a jogviszony keletkezésének és megszűnésének időpontját;
+- c) a külföldi vállalkozás képviseletére jogosult személy vagy szerv nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját;
 
 (10) Vízgazdálkodási társulat esetében
 
@@ -471,7 +499,7 @@ megismerhetők.
 - b) Zártkörűen működő európai részvénytársaság esetében
   - ba) a részvénytársaság ügyvezetésének típusát (igazgatóság vagy igazgatótanács, illetve egyszemélyes igazgatóság),
   - bb) ha a részvény átruházását az alapszabály korlátozza, ezt a tényt,
-  - bc) azt a tényt, ha valamelyik részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik,
+  - bc) amennyiben a részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a részvényes minősített többségű befolyással rendelkezik, a részvényes nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát.
   - bd) egyszemélyes részvénytársaság esetében a részvényes nevét (cégét), lakóhelyét (székhelyét),
 - c) Nyilvánosan működő európai részvénytársaság esetében
   - ca) az ügyvezetés típusát (igazgatóság vagy igazgatótanács),
@@ -491,11 +519,11 @@ megismerhetők.
 - b) az európai gazdasági egyesülés nevét,
 - c) az európai gazdasági egyesülés székhelyét,
 - d) az európai gazdasági egyesülés nyilvántartását végző hatóságot és a nyilvántartási számot,
-- e) az európai gazdasági egyesülés képviseletére jogosult személy vagy szerv nevét (cégét), lakóhelyét (székhelyét), a jogviszony keletkezésének és megszűnésének időpontját,
+- e) az európai gazdasági egyesülés képviseletére jogosult személy vagy szerv nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, a jogviszony keletkezésének és megszűnésének időpontját,
 - f) a telephely magyarországi központi ügyintézésének helyét,
 - g) a telephelyet létesítő okirat keltét,
-- h) a telephely tevékenységeit, azok statisztikai nómenklatúra szerinti besorolása nélkül,
-- i) a telephely képviseletére jogosultak nevét (cégét) és lakóhelyét (székhelyét), valamint tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is,
+- h) a telephely tevékenységeit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti besorolása nélkül,
+- i) a telephely képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, valamint tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is,
 - j) a telephely adószámát (közösségi adószámát), valamint statisztikai számjelét,
 - k) a telephely valamennyi pénzforgalmi számláját, valamint az azokat vezető pénzügyi intézmények nevét és székhelyét,
 - l) a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontját,
@@ -503,7 +531,7 @@ megismerhetők.
 
 (3) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelye esetében a cégjegyzék szükség szerint tartalmazza a 25. § a)–b) pontjában foglalt adatokat, valamint ha a külföldi székhelyű európai gazdasági egyesülés jogutód nélküli megszűnésére irányuló eljárás indult, az eljárás megindításának és befejezésének időpontját. A külföldi székhelyű európai gazdasági egyesülés jogutód nélküli megszűnése esetében a magyarországi telephelyet a cégbíróság törli a cégjegyzékből.
 
-(4) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzési kérelméhez a törvény mellékletében felsorolt iratok közül az 1. számú melléklet I. 1. a), 2., 4., 6., 7., 9–12., illetve a 2. számú melléklet I. 1., 2., 3. b), valamint 7. pontja alatt megjelölt iratokat kell csatolni. Az 1. számú melléklet II. 6. a) pontjában, valamint a 2. számú melléklet II. 3. a)–b) pontjában előírt iratok csatolására vonatkozó kötelezettség a külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzése során is megfelelően irányadó.
+(4) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzési kérelméhez a törvény mellékletében felsorolt iratok közül az 1. számú melléklet I. 1., 2. a), 3., 6., 7., 9–12., 13. b), illetve a 2. számú melléklet I. 1., 2., 3. b), valamint 7. pontja alatt megjelölt iratokat kell csatolni. Az 1. számú melléklet II. 6. a) pontjában, valamint a 2. számú melléklet II. 3. a)–b) pontjában előírt iratok csatolására vonatkozó kötelezettség a külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének bejegyzése során is megfelelően irányadó.
 
 (5) A külföldi székhelyű európai gazdasági egyesülés magyarországi telephelyének nyilvántartásba vételére, illetve nyilvántartására a Fővárosi Törvényszék mint cégbíróság rendelkezik hatáskörrel és kizárólagos illetékességgel.
 
@@ -527,13 +555,19 @@ is fel kell tüntetni a cégjegyzékben.
 
 (5) Ha jogszabály másként nem rendelkezik és a cég bejegyzésére irányuló cégeljárásban a pénzbeli hozzájárulás befizetésének igazolására e törvény rendelkezései alapján sor kerülhet ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozattal, az ügyvezető a cég bejegyzését követő nyolc napon belül köteles a cég pénzforgalmi számláját megnyitni és a rendelkezésre bocsátott pénzbeli hozzájárulás összegét a számlára befizetni.
 
+(6) Az állami adóhatóság a cég adószámával, közösségi adószámával kapcsolatos elektronikus értesítését, illetve határozatát fokozott biztonságú elektronikus aláírással és időbélyegzővel köteles ellátni.
+
 (7) A cégjegyzékben szereplő külföldi adójogi illetőségű magánszemély vagy szervezet esetén az állami adóhatósághoz történt bejelentkezés hiányában a külföldinek az illetősége szerinti állam hatósága által megállapított adóazonosító számát kell feltüntetni.
 
 31. § (1) A cégjegyzékben a lakóhelyet, illetve székhelyet (telephelyet, fióktelepet) az irányítószám, helység, utca, házszám, emelet, ajtószám (vagy helyrajzi szám) feltüntetésével kell megjelölni. Amennyiben a cégjegyzékbe bejegyzett külföldi személy Magyarországon is rendelkezik lakóhellyel, a cégjegyzéknek az erre vonatkozó adatokat is tartalmaznia kell.
 
-(2) Ha a bejegyzési kérelemben külföldi jogi személy vagy jogi személyiség nélküli gazdasági társaság szerepel, vagy a bejegyzési kérelemben feltüntetett külföldi természetes személy nem rendelkezik magyarországi lakóhellyel, a bejegyzési kérelemben kézbesítési megbízott jelölhető meg. A kézbesítési megbízott magyarországi székhellyel rendelkező szervezet, illetve állandó lakóhellyel rendelkező természetes személy egyaránt lehet. A bejegyzési kérelemhez mellékelni kell a kézbesítési megbízott megbízására, illetve a megbízatás elfogadására vonatkozó teljes bizonyító erejű magánokiratot, vagy közokiratot.
+(2) Ha a bejegyzési kérelemben külföldi jogi személy vagy jogi személyiség nélküli gazdasági társaság szerepel, vagy a bejegyzési kérelemben feltüntetett külföldi természetes személy nem rendelkezik magyarországi lakóhellyel, a bejegyzési kérelemben kézbesítési megbízottat kell megjelölni. A kézbesítési megbízott magyarországi székhellyel rendelkező szervezet, illetve állandó lakóhellyel rendelkező természetes személy egyaránt lehet. Kézbesítési megbízotti feladatot a cég tagjai (részvényesei), vezető tisztségviselői, valamint felügyelőbizottsági tagjai nem láthatnak el. A bejegyzési kérelemhez mellékelni kell a kézbesítési megbízott megbízására, és a megbízatás elfogadására vonatkozó teljes bizonyító erejű magánokiratot vagy közokiratot.
 
-(3) A kézbesítési megbízott feladata, hogy a bíróságnak, illetve más hatóságnak a cég működésével összefüggésben keletkezett, a külföldi személy részére kézbesítendő iratokat átvegye, és azokat a megbízó részére továbbítsa. A bíróság vagy más hatóság által a kézbesítési megbízottnak megküldött okirat esetében vélelmezni kell, hogy az okirat a kézbesítési megbízottnak történő szabályszerű kézbesítéssel a külföldi személy számára ismertté vált. Amennyiben kézbesítési megbízott nem került megjelölésre, a bíróság a külföldi személy részére kézbesítendő iratokat a Cégközlönyben történő közzététellel kézbesíti azzal, hogy a közzétételt követő ötödik napon az irat kézbesítettnek tekintendő.
+(3) A kézbesítési megbízott feladata, hogy a bíróságnak, illetve más hatóságnak a cég működésével összefüggésben keletkezett, a külföldi személy részére kézbesítendő iratokat átvegye, és azokat a megbízó részére továbbítsa. A bíróság vagy más hatóság által a kézbesítési megbízottnak megküldött okirat esetében vélelmezni kell, hogy az okirat a kézbesítési megbízottnak történő szabályszerű kézbesítést követő tizenötödik napon a külföldi személy számára ismertté vált.
+
+(4) A (2) bekezdés szerinti megbízás megszűnését követő 15 napon belül a kézbesítési megbízottnak a megbízás megszűnésének tényét a 36. § (5) bekezdése szerinti módon be kell jelentenie a cégbíróságnak.
+
+(5) A (4) bekezdés szerinti tény bejelentésének elmulasztása esetén a cégbíróság a kézbesítési megbízottat a 34. § (2) bekezdésében meghatározott bírsággal sújthatja.
 
 ### IV. Fejezet — A CÉGBEJEGYZÉSI
 
@@ -564,7 +598,7 @@ is fel kell tüntetni a cégjegyzékben.
 
 34. § (1) Kötelező cégbejegyzés esetén a bejegyzési kérelem előterjesztésének határideje – ha törvény kivételt nem tesz – a létesítő okirat aláírásától, illetve elfogadásától számított harminc nap. Ha a cég alapításához hatósági engedély szükséges, a bejegyzési kérelem előterjesztésének határideje az engedély kézhezvételétől számított tizenöt nap.
 
-(2) A cégbíróság 50 000 Ft-tól 500 000 Ft-ig terjedő pénzbírsággal sújthatja azt, aki az (1) bekezdésben meghatározott kötelezettségét késedelmesen teljesíti.
+(2) A cégbíróság 50 000 forinttól 900 000 forintig terjedő pénzbírsággal sújtja azt, aki az (1) bekezdésben meghatározott bejelentési kötelezettségét késedelmesen teljesíti.
 
 35. § (1) A cégbejegyzésre (változásbejegyzésre) irányuló kérelmet a cég székhelye szerint illetékes cégbíróság részére a cégformának megfelelő, a jogi képviselő által aláírt elektronikus nyomtatványon kell – e törvényben meghatározott módon és a mellékletekkel együtt – előterjeszteni.
 
@@ -582,7 +616,7 @@ is fel kell tüntetni a cégjegyzékben.
 
 (4a) Az állami adóhatóság és a cégnyilvántartás közötti, az adóregisztrációs eljáráshoz kapcsolódó adatszolgáltatás érdekében a bejegyzési (változásbejegyzési) kérelemben fel kell tüntetni a cégjegyzékbe bejegyzett (bejegyezni kívánt) tagok (részvényesek) – külföldi esetében a 30. § (7) bekezdése szerinti – adóazonosító számát. A tagok adóazonosító száma nem szerepel a cégjegyzékben.
 
-(5) Ha törvény a cégirat cégbírósághoz történő benyújtására közvetlenül valamely személyt kötelez, e személy a kötelezettségét elektronikus okiratként készített cégirat esetén – választása szerint – minősített elektronikus aláírás alkalmazásával vagy anélkül, a kormányzati portálon keresztül maga is teljesítheti. Ha a cégiratot elektronikus okirati formába kell alakítani, erre, és az elektronikus okirat cégbírósághoz való benyújtására a jogi képviselő vagy a cégirat benyújtására kötelezett személy jogosult. A jogi képviselő eljárására egyebekben a 37–38. § rendelkezéseit megfelelően alkalmazni kell.
+(5) Ha törvény a cégirat cégbírósághoz történő benyújtására közvetlenül valamely személyt kötelez, e személy a kötelezettségét elektronikus okiratként készített cégirat esetén minősített elektronikus aláírás alkalmazásával elektronikus úton maga is teljesítheti. Ha a cégiratot elektronikus okirati formába kell alakítani, erre, és az elektronikus okirat cégbírósághoz való benyújtására a jogi képviselő vagy a cégirat benyújtására kötelezett személy jogosult. A jogi képviselő eljárására egyebekben a 37. és 38. § rendelkezéseit megfelelően alkalmazni kell.
 
 (6) A 36–40. § rendelkezéseit a jogorvoslati eljárásokban megfelelően alkalmazni kell.
 
@@ -594,7 +628,7 @@ is fel kell tüntetni a cégjegyzékben.
 
 (4) Az eljárási illetéket és a közzétételi költségtérítést elektronikus úton kell megfizetni a bejegyzési (változásbejegyzési) kérelem benyújtását megelőzően, a céginformációs szolgálat honlapjáról letöltött illeték, valamint költségtérítési ügyazonosító szám feltüntetésével. Az illetéket a cégbíróságnak a kincstárnál vezetett illetékbevételi számlájára, a közzétételi költségtérítést pedig az igazságügyért felelős miniszter által vezetett minisztériumnak a kincstárnál vezetett számlájára kell utalni. Az illeték és a költségtérítés befizetésének összegéről és időpontjáról a kincstár – a bejegyzést kérő jogi képviselőjének minősített elektronikus aláírással ellátott kérelmére, amelyben az ügyazonosító számokat fel kell tüntetni – egy munkanapon belül elektronikus úton fokozott biztonságú aláírással ellátott igazolást küld. Az igazolásokat a bejegyzési (változásbejegyzési) kérelemhez mellékelni kell. Az illeték és a költségtérítés elektronikus úton történő megfizetésének részletes szabályait külön jogszabály állapítja meg.
 
-(5) A (4) bekezdéstől eltérően az eljárási illeték és a közzétételi költségtérítés a cégbejegyzési (változásbejegyzési) eljárás megindításának napján is megfizethető, amennyiben a kérelem benyújtásával egyidejűleg a jogi képviselő a bejegyzési (változásbejegyzési) kérelemben nyilatkozik arról, hogy az illeték és közzétételi költségtérítés átutalásra került. Az eljárási illetéket és a közzétételi költségtérítést elektronikus úton kell megfizetni a céginformációs szolgálat honlapjáról letöltött illeték, valamint költségtérítési ügyazonosító szám feltüntetésével. Az illetéket a cégbíróságnak a kincstárnál vezetett illeték-bevételi számlájára, a közzétételi költségtérítést pedig az igazságügyért felelős miniszter által vezetett minisztériumnak a kincstárnál vezetett számlájára kell utalni. Az illeték és közzétételi költségtérítés befizetésének összegéről és időpontjáról a kincstár egy munkanapon belül fokozott biztonságú elektronikus aláírással ellátott igazolást küld a cégbíróság részére, amelyben az ügyazonosító számokat fel kell tüntetni. Amennyiben az igazolás a kérelem benyújtásától számított 5 munkanapon belül nem érkezik meg a kincstártól, a cégbíróság haladéktalanul értesíti az állami adóhatóságot, amely a körülmények tisztázása után a meg nem fizetett illetéket, illetve közzétételi költségtérítést behajtja.
+(5)
 
 (6) A bejegyzési (változásbejegyzési) kérelem jogerős elbírálásáig – ide nem értve a cégbejegyzési (változásbejegyzési) kérelmet elutasító végzés közlését követő nyolc napon belüli ismételt benyújtás lehetőségét – ugyanazon cég bejegyzésére (változásbejegyzésére) irányuló kérelem ismételten nem nyújtható be.
 
@@ -660,7 +694,7 @@ hiánypótlás nélküli elutasítása
 
 45. § (1) A cégbíróság a cégbejegyzési kérelmet az érkezését követően, legkésőbb három munkanapon belül formai szempontból megvizsgálja.
 
-(2) A cégbíróság a cégbejegyzés iránti kérelmet legkésőbb az (1) bekezdés szerinti határidő lejártának napján hiánypótlási eljárás lefolytatása nélkül elutasítja, ha a cégbejegyzési kérelemhez nem nyújtották be a nyomtatványt vagy e törvény 1. számú mellékletében felsorolt valamennyi szükséges okiratot, illetve az illetéket vagy a költségtérítést nem vagy csak részben fizették meg, kivéve, ha a jogi képviselő nyilatkozott, hogy az illeték és költségtérítés a Ctv. 37. §-ának (5) bekezdése szerint átutalásra került. A végzés ellen benyújtott fellebbezésnek a cég működése megszüntetésére vonatkozó kötelezettség tekintetében nincs halasztó hatálya. A mulasztás miatt igazolási kérelem előterjesztésének nincs helye.
+(2) A cégbíróság a cégbejegyzés iránti kérelmet legkésőbb az (1) bekezdés szerinti határidő lejártának napján hiánypótlási eljárás lefolytatása nélkül elutasítja, ha a cégbejegyzési kérelemhez nem nyújtották be a nyomtatványt vagy e törvény 1. számú mellékletében felsorolt valamennyi szükséges okiratot, illetve az illetéket vagy a költségtérítést nem vagy csak részben fizették meg. A végzés ellen benyújtott fellebbezésnek a cég működése megszüntetésére vonatkozó kötelezettség tekintetében nincs halasztó hatálya. A mulasztás miatt igazolási kérelem előterjesztésének nincs helye.
 
 (3) Ha a bíróság a cégbejegyzési kérelem, valamint mellékletei megvizsgálására nyitva álló határidő lejártakor, az 1. számú mellékletben felsorolt okirat hiánya ellenére az elutasító végzést nem adta ki, a hiányosságok pótlását a 46. §-ban foglaltak szerint kell elrendelnie.
 
@@ -672,7 +706,7 @@ hiánypótlás nélküli elutasítása
 
 érdemi vizsgálata; döntés a cégbejegyzési kérelemről
 
-46. § (1) A cégbíróság a kérelem érkezését követően, legkésőbb nyolc munkanapon belül megvizsgálja, hogy azok az adatok, amelyeknek bejegyzését az adott cégformára vonatkozóan e törvény előírja (24–25. § és 27–29. §), illetve a létesítő okirat, valamint a bejegyzési kérelem alapjául szolgáló, az 1–2. számú mellékletben felsorolt, kötelezően, illetve szükség szerint csatolandó egyéb okiratok megfelelnek-e a jogszabályok rendelkezéseinek. A cégbíróság elektronikusan, számítógépes program útján ellenőrzi továbbá, hogy a cégjegyzék nem tartalmaz-e a cég tagjai, vezető tisztségviselői, illetve cégvezetői vonatkozásában e törvény 27. § (1) bekezdésének c) pontja, 27. § (2) bekezdésének d) pontja, 27. § (3) bekezdésének d) pontja, 27. § (4) bekezdésének ad) alpontja vagy 27. § (5) bekezdésének c) pontja szerinti bejegyzést. Amennyiben a cégjegyzék a bejegyzési kérelemben feltüntetett vezető tisztségviselő, illetőleg cégvezető tekintetében a fent említett bejegyzést tartalmazza, a cégbíróság a cégbejegyzés iránti kérelmet legkésőbb a kérelem beérkezését követő 8. munkanap lejártának napján hiánypótlási eljárás lefolytatása nélkül elutasítja.
+46. § (1) A cégbíróság a kérelem érkezését követően, legkésőbb nyolc munkanapon belül megvizsgálja, hogy azok az adatok, amelyeknek bejegyzését az adott cégformára vonatkozóan e törvény előírja (24–25. § és 27–29. §), illetve a létesítő okirat, valamint a bejegyzési kérelem alapjául szolgáló, az 1–2. számú mellékletben felsorolt, kötelezően, illetve szükség szerint csatolandó egyéb okiratok megfelelnek-e a jogszabályok rendelkezéseinek. A cégbíróság elektronikusan, számítógépes program útján ellenőrzi továbbá, hogy a cégjegyzék nem tartalmaz-e a cég tagjai, vezető tisztségviselői, illetve cégvezetői vonatkozásában e törvény 27. § (1) bekezdésének c) pontja, 27. § (2) bekezdésének d) pontja, 27. § (3) bekezdésének d) pontja, 27. § (4) bekezdésének ad) alpontja 27. § (5) bekezdésének c) pontja vagy 27. § (6) bekezdés c) pontja szerinti bejegyzést. Amennyiben a cégjegyzék a bejegyzési kérelemben feltüntetett vezető tisztségviselő, illetőleg cégvezető tekintetében a fent említett bejegyzést tartalmazza, a cégbíróság a cégbejegyzés iránti kérelmet legkésőbb a kérelem beérkezését követő 8. munkanap lejártának napján hiánypótlási eljárás lefolytatása nélkül elutasítja.
 
 (2) A közkereseti társaság, a betéti társaság és az egyéni cég bejegyzésére irányuló kérelem érdemi vizsgálatát bírósági titkár, fogalmazó vagy bírósági ügyintéző is önállóan lefolytathatja, azonban a bejegyzési kérelmet elutasító végzést, valamint olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
 
@@ -694,27 +728,28 @@ hiánypótlás nélküli elutasítása
 
 ### 8. CÍM — Egyszerűsített cégeljárás
 
-48. § (1) Ha közkereseti, betéti vagy korlátolt felelősségű társaság, egyéni cég vagy zártkörűen működő részvénytársaság alapításának bejegyzése iránti kérelemhez e törvény mellékletében foglalt szerződésminta alapján készült alapító okiratot csatolnak, a bejegyzési kérelemhez csatolt nyomtatványon ezt a körülményt fel kell tüntetni. Amennyiben a szerződésminta kiegészítésére vagy bármely rendelkezésének elhagyására kerül sor – ideértve azt az esetet is, ha elhagyásra kerül a szerződésminta jellegre történő utalás – a cégbíróság a 45–47. §-ok szerint jár el.
+48. § (1) Ha közkereseti, betéti vagy korlátolt felelősségű társaság, zártkörűen működő részvénytársaság vagy egyéni cég alapításának bejegyzése iránti kérelemhez e törvény mellékletében foglalt szerződésminta alapján készült alapító okiratot csatolnak, a bejegyzési kérelemhez csatolt nyomtatványon ezt a körülményt fel kell tüntetni.
 
-(2) A bejegyzési kérelemhez – a cégnyilvánosság alapelvének teljesítése, illetve az illetékes adóhatósághoz való továbbítás végett – csatolandó okiratok felsorolását a 3. számú melléklet I. része tartalmazza. A jogi képviselő a bejegyzési kérelemben nyilatkozik arról, hogy a csatolandó okiratok törvényességi szempontú vizsgálatát elvégezte.
+(2) A bejegyzési kérelemhez – a cégnyilvánosság alapelvének teljesítése, illetve az illetékes adóhatósághoz való továbbítás végett – csatolandó okiratok felsorolását a 3. számú melléklet tartalmazza. A jogi képviselő a bejegyzési kérelemben nyilatkozik arról, hogy a csatolandó okiratok törvényességi szempontú vizsgálatát elvégezte, azok megfelelőségét szavatolja. A jogi képviselőnek a törvényességi szempontú vizsgálatára vonatkozó nyilatkozatát a bejegyzési kérelemnek tartalmaznia kell.
 
-(3) A 3. számú melléklet II. pontjában meghatározott okiratok nem képezik a cégbejegyzési kérelem mellékletét, ezek törvényességi szempontú vizsgálatát a jogi képviselő végzi el. Az okiratok felsorolását, illetve a jogi képviselőnek a törvényességi szempontú vizsgálatára vonatkozó nyilatkozatát a bejegyzési kérelemnek tartalmaznia kell. Az iratokat a jogi képviselő a 37. § (2) bekezdése szerint őrzi, és amennyiben ezen okiratokkal összefüggésben tartalmi vagy jogszerűségi kétség merülne fel, a jogi képviselő köteles ezen okiratokat a cégbíróság felhívására bemutatni, szükség esetén a cégiratokhoz becsatolni.
+(3) A cég bejegyzésére irányuló kérelem érdemi vizsgálatát bírósági titkár, fogalmazó, vagy bírósági ügyintéző önállóan lefolytathatja és a bejegyzési kérelmet elutasító végzés meghozatalára is önálló aláírási joggal jogosult. Ugyanez irányadó a többi olyan végzés meghozatalára is, amely ellen külön fellebbezésnek van helye.
 
-(4) A cég bejegyzésére irányuló kérelem érdemi vizsgálatát bírósági titkár, fogalmazó, vagy bírósági ügyintéző önállóan lefolytathatja és a bejegyzési kérelmet elutasító végzés meghozatalára is önálló aláírási joggal jogosult. Ugyanez irányadó a többi olyan végzés meghozatalára is, amely ellen külön fellebbezésnek van helye.
+(4) A bejegyzési kérelem elbírálásáról a cégbíróság a bejegyzési kérelem érkezését követően, az adószám megállapításától számított egy munkaórán belül határoz. A cégbíróság e határidőn belül kezdeményezi a bejegyzést elrendelő, illetőleg a bejegyzési kérelmet elutasító végzés jogi képviselő részére történő kézbesítését. A kérelem elbírálására nyitva álló határidő számításának kezdő időpontja munkanapokon reggel 9 óra.
 
-(5) A bejegyzési kérelem elbírálásáról a cégbíróság az adószám megállapításáról szóló értesítést követő egy munkaórán belül határoz. A cégbíróság e határidőn belül kezdeményezi a bejegyzést elrendelő, illetőleg a bejegyzési kérelmet elutasító végzés jogi képviselő részére történő kézbesítését. A kérelem elbírálására nyitva álló határidő számításának kezdő időpontja munkanapokon reggel 9 óra.
+(5) A cégbíróság a bejegyzési kérelem elbírálása során megvizsgálja, hogy a bejegyzést kérő jogi képviselőjének meghatalmazása, a bejegyzési kérelem kitöltése és a jogi képviselőnek a bejegyzési kérelembe foglalt nyilatkozata megfelel-e a jogszabályoknak, valamint hogy a bejegyzést kérő a 3. számú mellékletben felsorolt okiratokat csatolta-e kérelméhez, továbbá, hogy – amennyiben a bejegyzést kérő nem élt a 6. § szerinti névfoglalás lehetőségével –, a cég választott neve jogszabályszerű-e. A cégbíróság elektronikusan, számítógépes program útján ellenőrzi, hogy a cégjegyzék nem tartalmaz-e a bejegyzési kérelemben feltüntetett tag, vezető tisztségviselő, illetve cégvezető vonatkozásában e törvény 27. § (1) bekezdésének c) pontja, a 27. § (2) bekezdésének d) pontja, a 27. § (3) bekezdésének d) pontja, a 27. § (4) bekezdés a) pontjának ad) alpontja, a 27. § (6) bekezdésének c) pontja szerinti bejegyzést. Az eljárás során hiánypótlásra történő felhívásra nem kerül sor.
 
-(6) A cégbíróság a bejegyzési kérelem elbírálása során megvizsgálja, hogy a bejegyzést kérő jogi képviselőjének meghatalmazása, a bejegyzési kérelem kitöltése és a jogi képviselőnek a bejegyzési kérelembe foglalt nyilatkozata megfelel-e a jogszabályoknak, valamint hogy a bejegyzést kérő a 3. számú melléklet I. részében felsorolt okiratokat csatolta-e kérelméhez, továbbá, hogy – amennyiben a bejegyzést kérő nem élt a 6. § szerinti névfoglalás lehetőségével –, a cég választott neve jogszabályszerű-e. A cégbíróság elektronikusan, számítógépes program útján ellenőrzi, hogy a cégjegyzék nem tartalmaz-e a bejegyzési kérelemben feltüntetett tag, vezető tisztségviselő, illetve cégvezető vonatkozásában e törvény 27. § (1) bekezdésének c) pontja, a 27. § (2) bekezdésének d) pontja, a 27. § (3) bekezdésének d) pontja, a 27. § (4) bekezdésének ad) alpontja, vagy a 27. § (5) bekezdésének c) pontja szerinti bejegyzést. Az eljárás során hiánypótlásra történő felhívásra nem kerül sor.
+(6) A cégbíróság a bejegyzési kérelmet elutasítja, ha
 
-(7) A cégbíróság a bejegyzési kérelmet elutasítja, ha
+- a) a bejegyzést kérő jogi képviselőjének meghatalmazása, a bejegyzési kérelem kitöltése nem felel meg a jogszabályoknak, vagy ha a bejegyzési kérelem nem tartalmazza a jogi képviselőnek a bejegyzendő adatokra vonatkozó iratok jogszerűségét igazoló nyilatkozatát,
+- b) a bejegyzést kérő elmulasztotta a 3. számú mellékletben felsorolt valamely irat benyújtását,
+- c) a cég elnevezése – amennyiben a cég nem élt a 6. § szerinti névfoglalás lehetőségével – nem felel meg a jogszabályi rendelkezéseknek,
+- d) az adóhatóság értesítése alapján az adószám megállapításához szükséges, az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozata nem felel meg a jogszabályi előírásoknak,
+- e) a cégjegyzék a cég tagja, vezető tisztségviselője, illetve cégvezetője vonatkozásában a 27. § (1) bekezdésének c) pontja, a 27. § (2) bekezdésének d) pontja, 27. § (3) bekezdésének d) pontja, a 27. § (4) bekezdés a) pontjának ad) alpontja, vagy a 27. § (6) bekezdésének c) pontja szerinti bejegyzést tartalmaz, vagy
+- f) észleli, hogy azok az adatok, amelyeknek bejegyzését az adott cégformára vonatkozóan e törvény előírja, illetve a létesítő okirat, valamint a bejegyzési kérelem alapjául szolgáló, a 3. számú mellékletben felsorolt, kötelezően, illetve szükség szerint csatolandó egyéb okirat nem felel meg a jogszabályok rendelkezéseinek.
 
-- a) a bejegyzést kérő jogi képviselőjének meghatalmazása, a bejegyzési kérelem kitöltése nem felel meg a jogszabályoknak, vagy ha a bejegyzési kérelem nem tartalmazza a jogi képviselőnek a bejegyzendő adatokra vonatkozó iratok jogszerűségét igazoló nyilatkozatát, valamint
-- b) ha a bejegyzést kérő elmulasztotta a 3. számú melléklet I. részében felsorolt valamely irat benyújtását, továbbá
-- c) ha a cég elnevezése – amennyiben a cég nem élt a 6. § szerinti névfoglalás lehetőségével – nem felel meg a jogszabályi rendelkezéseknek,
-- d) az adóhatóság értesítése alapján az adószám megállapításához szükséges, az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozat nem felel meg a jogszabályi előírásoknak,
-- e) a cégjegyzék a cég vezető tisztségviselője, illetve cégvezetője vonatkozásában a 27. § (1) bekezdésének c) pontja, a 27. § (2) bekezdésének d) pontja, a 27. § (3) bekezdésének d) pontja, a 27. § (4) bekezdésének ad) alpontja, vagy a 27. § (5) bekezdésének c) pontja szerinti bejegyzést tartalmaz.
+(7) A (6) bekezdés f) pontja szerinti esetben a cégbíróság a jogi képviselővel szemben a 34. § (2) bekezdésében foglaltakat alkalmazza.
 
-(8) Ha a cégbíróság az (5) bekezdésben foglalt döntési kötelezettségének határidőn belül nem tesz eleget, a cégbíróság vezetője a határidő lejártát követően, legkésőbb egy munkanapon belül hivatalból intézkedik a bejegyzési kérelem elbírálásáról. Az ügyintézési határidő eredménytelen eltelte esetén a cégbejegyzés a következő munkanapon, a törvény erejénél fogva – a kérelem alapján előszerkesztett adatok szerinti tartalommal – haladéktalanul megtörténik. A törvény erejénél fogva történő automatikus bejegyzés esetén kijavítás iránti kérelem terjeszthető elő.
+(8) Ha a cégbíróság a (4) bekezdésben foglalt döntési kötelezettségének határidőn belül nem tesz eleget, a cégbíróság vezetője a határidő lejártát követően, legkésőbb egy munkanapon belül hivatalból intézkedik a bejegyzési kérelem elbírálásáról. Az ügyintézési határidő eredménytelen eltelte esetén a cégbejegyzés a következő munkanapon, a törvény erejénél fogva – a kérelem alapján előszerkesztett adatok szerinti tartalommal – haladéktalanul megtörténik. A törvény erejénél fogva történő automatikus bejegyzés esetén kijavítás iránti kérelem terjeszthető elő.
 
 (9) Ha a cégbejegyzési kérelmet elutasító végzés közlését követően nyolc napon belül ismételten kérik a cég bejegyzését, az elutasításhoz fűződő jogkövetkezmények nem alkalmazhatóak, és a korábbi eljárás során benyújtott okiratokat – ideértve a korábbi eljárásban az illeték megfizetéséről szóló igazolást is – ismételten fel lehet használni az új bejegyzési kérelemhez. A határidő elmulasztása miatt igazolásnak nincs helye. Ismételt benyújtásnak egy alkalommal van helye.
 
@@ -724,17 +759,15 @@ hiánypótlás nélküli elutasítása
 
 ### 10. CÍM — A változásbejegyzési eljárás eltérő szabályai
 
-50. § (1) A változásbejegyzési eljárásra – az e törvényben foglalt kivételekkel, illetve a (2)–(3) bekezdésben foglalt eltérésekkel – a cég bejegyzésére vonatkozó eljárás rendelkezései megfelelően irányadók.
+50. § (1) A változásbejegyzési eljárásra – az e törvényben foglalt kivételekkel – a cég bejegyzésére vonatkozó eljárás rendelkezései megfelelően irányadók.
 
-(2) Ha a cég létesítő okirata szerződésminta alkalmazásával készült, a változásbejegyzési eljárásra a 48. § rendelkezéseit kell alkalmazni. Egyéb változásbejegyzési eljárásban a 48. § rendelkezései nem alkalmazhatóak, és a változásbejegyzési kérelemhez az 1. és 2. számú melléklet szerinti iratokat kell csatolni.
+(2) A változásbejegyzési kérelem elbírálására egységesen a 46. §-ban meghatározott ügyintézési határidők vonatkoznak.
 
-(3) A változásbejegyzési kérelem elbírálására – kivéve a (2) bekezdésben meghatározottakat – egységesen a 46. §-ban meghatározott ügyintézési határidők vonatkoznak.
+(3) A közkereseti társaság, a betéti társaság és az egyéni cég esetében a változásbejegyzési kérelem érdemi vizsgálatát bírósági titkár, fogalmazó vagy bírósági ügyintéző is lefolytathatja, azonban a változásbejegyzési kérelmet elutasító, valamint olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
 
-(4) Ha a cég létesítő okirata szerződésminta alapján készült, valamint a közkereseti társaság, a betéti társaság és az egyéni cég esetében akkor is, ha a cég létesítő okirata nem szerződésminta alapján készült, a változásbejegyzési kérelem érdemi vizsgálatát bírósági titkár, fogalmazó vagy bírósági ügyintéző is lefolytathatja, azonban a változásbejegyzési kérelmet elutasító, valamint olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
+(4) Ha a változás (a változással érintett adat) bejegyzése kötelező és a cégbíróság a változásbejegyzési kérelmet elutasítja, ez a jogszabályoknak megfelelő változásbejegyzési kérelem benyújtása alól nem mentesít.
 
-(5) Ha a változás (a változással érintett adat) bejegyzése kötelező és a cégbíróság a változásbejegyzési kérelmet elutasítja, ez a jogszabályoknak megfelelő változásbejegyzési kérelem benyújtása alól nem mentesít.
-
-(6) Változásbejegyzési kérelem esetén – törvény eltérő rendelkezésének hiányában – a 34. § (1) bekezdésében meghatározott határidőt a változás bekövetkezésétől kell számítani.
+(5) Változásbejegyzési kérelem esetén – törvény eltérő rendelkezésének hiányában – a 34. § (1) bekezdésében meghatározott határidőt a változás bekövetkezésétől kell számítani.
 
 ### 11. CÍM — A létesítő okirat módosítása
 
@@ -746,17 +779,9 @@ hiánypótlás nélküli elutasítása
 
 (4) Ha a cégbíróság a céget a 23/A. §-a alapján az Európai Unió valamely hivatalos nyelvén is nyilvántartja, a változásbejegyzési kérelemhez csatolni kell a megváltozott cégjegyzékadatok hiteles fordítását, a létesítő okirat tartalmának változása esetén a létesítő okirat módosításának, illetve a létesítőokirat-változásokkal egységes szerkezetbe foglalt szövegének hiteles fordítását is.
 
-### 12. CÍM — A létesítő okirat módosítása szerződésmintára
+### 12. CÍM
 
-vagy szerződésmintáról történő áttéréssel
-
-52. § (1) Az e törvény mellékletében foglalt szerződésminta alkalmazásával készült létesítő okirat szerződésminta alkalmazásával módosítható. Ebben az esetben a megváltozott tartalomnak megfelelő új szerződésmintát kell kitölteni, mely egyben az egységes szerkezetű létesítő okiratnak is minősül.
-
-(2) A közkereseti, betéti vagy a korlátolt felelősségű társaság, valamint a zártkörűen működő részvénytársaság tagjai (részvényesei) elhatározhatják, hogy a változásbejegyzési kérelemhez kapcsolódóan – a korábban nem használt – szerződésminta alkalmazására térnek át. A döntés meghozatalához az adott társasági forma esetén a létesítő okirat módosítására irányadó szabályokat kell alkalmazni. Az áttérés elhatározása esetében a megváltozott adatoknak megfelelő szerződésmintát kell kitölteni, amely a korábbi létesítő okirat helyébe lép. A szerződésminta egyben egységes szerkezetű létesítő okiratnak is minősül. A szerződésminta alkalmazására történő áttérés következtében a cégbíróság a változásbejegyzési kérelmet, valamint az egységes szerkezetű létesítő okiratot – az ügyintézési határidő kivételével – a 48. §-ban foglaltak szerint bírálja el.
-
-(3) Ha a létesítő okirat szerződésminta alkalmazásával készült, a cég tagjai elhatározhatják, hogy létesítő okiratuk módosítása során szerződésmintát már nem alkalmaznak. Ilyenkor új létesítő okiratot kell készíteni a megváltozott adatokkal, amely a szerződésminta alkalmazásával készült létesítő okirat helyébe lép, és amely egyben egységes szerkezetű létesítő okiratnak is minősül. A döntéshozatalra a (2) bekezdésben foglalt szabályok irányadók. A szerződésminta alkalmazásáról történő áttérés következtében a cégbíróság a változásbejegyzési kérelmet, valamint az egységes szerkezetű létesítő okiratot a 46. §-ban foglaltak szerint bírálja el.
-
-(4) Az (1)–(3) bekezdés szerint elkészített egységes szerkezetű létesítő okirat esetében az 51. § (2)–(4) bekezdésében foglaltakat megfelelően alkalmazni kell.
+#### 52. §
 
 ### 13. CÍM — A változásbejegyzési kérelemre vonatkozó
 
@@ -764,7 +789,7 @@ egyes rendelkezések
 
 53. § (1) A változást illeték és közzétételi költségtérítés megfizetése nélkül lehet bejelenteni a cégbíróságon, ha a változás a cég tevékenységi körét érinti, illetve, ha a változás állami vagy önkormányzati döntés alapján a cég székhelyének (telephelyének, fióktelepének) más megye illetékességi területéhez való csatolására vagy a cégjegyzékbe bejegyzett helységnév, utcanév, illetve házszám változására vonatkozik.
 
-(2) Az adószám, valamint a statisztikai számjel változását az azt megállapító szervezet, a cég pénzforgalmi számlájával kapcsolatos változást pedig a számlát vezető pénzforgalmi szolgáltató közli a cégbírósággal elektronikus úton. A változás bejegyzése – illeték és közzétételi költségtérítés megfizetése nélkül – automatikusan, elektronikus úton történik meg.
+(2) Az adószám, valamint a statisztikai számjel változását az azt megállapító szervezet, a főtevékenység és a további tevékenységi körök változását az állami adóhatóság, a cég pénzforgalmi számlájával kapcsolatos változást pedig a számlát vezető pénzforgalmi szolgáltató közli a cégbírósággal elektronikus úton. A változás bejegyzése – illeték és közzétételi költségtérítés megfizetése nélkül – automatikusan, elektronikus úton történik meg.
 
 (3) A cég kérelmére a cégbíróság a cégjegyzéknek és a cégiratoknak az Európai Unió hivatalos nyelvén történő nyilvántartását törli.
 
@@ -772,7 +797,7 @@ egyes rendelkezések
 
 irányuló eljárás
 
-54. § (1) A cég székhelyének más cégbíróság illetékességi területére történő áthelyezését, mint változást a korábbi székhely szerinti cégbíróságon kell előterjeszteni. A cégbíróság – a székhelyváltozást megelőző változásbejegyzési kérelmek elbírálása után – intézkedik az áttételről.
+54. § (1) A cég székhelyének más cégbíróság illetékességi területére történő áthelyezését, mint változást a korábbi székhely szerinti cégbíróságon kell előterjeszteni. A cégbíróság – a székhelyváltozást megelőző változásbejegyzési kérelmek elbírálása után – intézkedik az áttételről. Az áttételt elrendelő végzés ellen nincs helye fellebbezésnek.
 
 (2) A cégbíróság az eredeti cégiratokat küldi meg az új székhely szerint illetékes cégbíróság részére, amely a cégjegyzék adatait, illetve az elektronikusan nyilvántartott cégiratokat elektronikus úton veszi át. A cégiratok megküldésével egyidejűleg az áttétel tényét a cégnyilvántartásban fel kell tüntetni.
 
@@ -784,7 +809,7 @@ irányuló eljárás
 
 ### 15. CÍM — A jogutód nélküli megszűnés bejegyzése iránti eljárás
 
-55. § (1) A cégnek – az egyszerűsített végelszámolás kivételével – tizenöt napon belül változásként be kell jelentenie a cégbíróságnak a végelszámolás megindítását. Törvényben meghatározott esetekben a cégbíróság hivatalból rendeli el végelszámolást és az ezzel összefüggő cégjegyzékadat-változásokat is hivatalból jegyzi be a cégjegyzékbe. A cégbíróság a végelszámolás elrendeléséről elektronikus úton haladéktalanul értesíti az állami adóhatóságot. A végelszámolás lefolytatásának és a végelszámolással kapcsolatos változások bejegyzésének részletes szabályait a VIII. Fejezet tartalmazza.
+55. § (1) A cégnek – az egyszerűsített végelszámolás kivételével – tizenöt napon belül változásként be kell jelentenie a cégbíróságnak a végelszámolás megindítását. A végelszámolás lefolytatásának és a végelszámolással kapcsolatos változások bejegyzésének részletes szabályait a VIII. Fejezet tartalmazza.
 
 (2) A végelszámolás alatt álló cég cégjegyzékadatainak változásait a végelszámoló, a felszámolás alatt álló cég – ideértve a külföldi vállalkozás magyarországi fióktelepét is – cégjegyzéke adatainak változásait pedig a felszámolóbiztos köteles bejelenteni a cégbíróságnak.
 
@@ -842,6 +867,14 @@ irányuló eljárás
 
 (2) A cégbíróság a zálogszerződést csak abból a szempontból vizsgálja, hogy a korlátolt felelősségű társaság és tagjának zálogszerződésben feltüntetett adatai egyeznek-e a cégjegyzék adataival.
 
+### Tagváltozás bejegyzése iránti eljárás
+
+61/B. § (1) A cégjegyzékbe bejegyzett tag részesedésének átruházása esetén a cégbíróság a változásbejegyzési kérelem benyújtásáról elektronikus úton értesíti az állami adóhatóságot.
+
+(2) Az állami adóhatóság 3 munkanapon belül elektronikus úton jelzi, ha a cég az állami adó-és vámhatóság által nyilvántartott, túlfizetéssel csökkentett, 15 millió forintot meghaladó köztartozással rendelkezik.
+
+(3) Az állami adóhatóság (2) bekezdés szerinti jelzése esetén a cégbíróság hiánypótlási eljárás keretében felhívja a céget a részesedés átruházás napjával mint fordulónappal elkészített, könyvvizsgáló által hitelesített vagyonmérleg 18–19. § szerinti benyújtására.
+
 ### 17. CÍM — A cég törlése a cégjegyzékből
 
 62. § (1) A cég a végelszámolási eljárás lefolytatása után, illetve – ha a cégformára irányadó törvény ezt megengedi – ennek hiányában is kérheti a törlését a cégnyilvántartásból. A kérelem elbírálására a változásbejegyzési kérelem elintézésére vonatkozó rendelkezések megfelelően irányadók.
@@ -849,12 +882,12 @@ irányuló eljárás
 (2) A cégbíróság a céget hivatalból törli
 
 - a) a felszámolási eljárást lefolytató bíróságnak a cég megszüntetéséről szóló, elektronikus úton megküldött jogerős végzése alapján,
-- b)
-- c) a törvényességi felügyeleti eljárásban hozott intézkedés vagy megszüntetési eljárás következtében.
+- b) kényszertörlési eljárás során a 118. §-ban meghatározott esetben.
+- c)
 
 (3) A (2) bekezdésben meghatározott végzések ellen – a 92. § (3) bekezdésben foglalt kivétellel – sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
 
-(4) A cég a cégjegyzékből való törléssel szűnik meg. Ha a cég törlésére nem felszámolási eljárást követően kerül sor, a cégbíróság a céget akkor törölheti a cégjegyzékből, ha az állami adóhatóság – a vámhatóságtól beszerzett adatok alapján is – elektronikus úton arról tájékoztatja, hogy a cégnél adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást nem kezdeményez vagy ennek hiányában az 56. § (1) bekezdésében, a 84. § (1) bekezdésében, vagy a 91. § (1) bekezdésében meghatározott elektronikus értesítéstől, illetve a végelszámolást lezáró beszámoló közzétételétől számított 90 nap eltelt. Végelszámolás esetén az állami adóhatóság arról is tájékoztatja a cégbíróságot, hogy a cégnek van-e az állami adóhatóságnál, vagy – a vámhatóságtól beszerzett adatok alapján – a vámhatóságnál nyilvántartott köztartozása. Amennyiben a tájékoztatás szerint az adóhatóság a cégnél eljárást folytat, vagy ellenőrzést, végrehajtást kezdeményez, vagy a cég köztartozással rendelkezik, a cég csak az adóhatósági eljárások jogerős befejezéséről szóló, végelszámolás esetén pedig ezen felül a köztartozást érintően nemlegesnek minősülő elektronikus tájékoztatást követően törölhető a cégjegyzékből. A cégjegyzék azt is tartalmazza, hogy a törlésre kérelemre vagy hivatalból került-e sor.
+(4) A cég a cégjegyzékből való törléssel szűnik meg. Ha a cég törlésére nem felszámolási eljárást követően kerül sor, a cégbíróság a céget akkor törölheti a cégjegyzékből, ha az állami adó- és vámhatóság elektronikus úton arról tájékoztatja, hogy a cégnél adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást nem kezdeményez vagy ennek hiányában az 56. § (1) bekezdésében, vagy 84. § (1) bekezdésében meghatározott elektronikus értesítéstől, illetve a végelszámolást lezáró beszámoló közzétételétől számított 90 nap eltelt. Amennyiben a tájékoztatás szerint az adóhatóság a cégnél eljárást folytat, vagy ellenőrzést, végrehajtást kezdeményez, vagy a cég köztartozással rendelkezik, a cég csak az adóhatósági eljárások jogerős befejezéséről szóló, végelszámolás esetén pedig ezen felül a köztartozást érintően nemlegesnek minősülő elektronikus tájékoztatást követően törölhető a cégjegyzékből. A cégjegyzék azt is tartalmazza, hogy a törlésre kérelemre vagy hivatalból került-e sor.
 
 ### 18. CÍM — A cégbíróság adatszolgáltatási,
 
@@ -982,6 +1015,8 @@ megállapítása iránti per
 
 (4) A törvényességi felügyelet nem terjed ki a cég gazdálkodásának és döntéseinek gazdasági-célszerűségi szempontból való felülvizsgálatára.
 
+(5) Amennyiben egyszerűsített eljárásban bejegyzett cég vonatkozásában azért indul törvényességi felügyeleti eljárás, mert a bejegyzési kérelemben szereplő adat, amelynek bejegyzését az adott cégformára vonatkozóan e törvény előírja, illetve a létesítő okirat, valamint a bejegyzési kérelem alapjául szolgáló, a 3. számú mellékletben felsorolt, kötelezően, illetve szükség szerint csatolandó egyéb okirat nem felelt meg a jogszabályok rendelkezéseinek, a cégbíróság a jogi képviselővel szemben a 34. § (2) bekezdésében foglaltakat alkalmazza.
+
 75. § (1) A törvényességi felügyeleti eljárás során a cégbíróság hivatalból vagy kérelemre jár el.
 
 (2) A 74. § (1) bekezdésének a), illetve c) pontja alapján indult ügy elbírálásában nem vehet részt az a cégbíró, aki az eljárás tárgyává tett ügyben a bejegyzési (változásbejegyzési) végzést hozta.
@@ -1068,7 +1103,7 @@ elbírálásával egyidejűleg
 
 (5) A cégbíróság az (1) bekezdés a) és b) pontjában foglalt intézkedést megfelelően alkalmazhatja a minősített többséget biztosító befolyás megszerzőjével szemben is, ha az a befolyás megszerzésére vonatkozó bejelentési kötelezettségét késedelmesen teljesíti vagy elmulasztja.
 
-(6) Ha a törvényes működés a cégbíróság által tett intézkedés ellenére nem áll helyre, a cégbíróság a céget megszűntnek nyilvánítja.
+(6) Amennyiben a cégbíróság az (1) bekezdésben foglalt bármely intézkedés alkalmazása után úgy ítéli meg, hogy a törvényes működés további intézkedések alkalmazásával sem állítható helyre, a céget megszűntnek nyilvánítja.
 
 ### 8. CÍM — A felügyelőbiztos jogköre
 
@@ -1092,7 +1127,7 @@ elbírálásával egyidejűleg
 
 ### 9. CÍM — A cég megszűntnek nyilvánítása
 
-84. § (1) Ha a törvényes működés a bíróság által hozott intézkedések ellenére sem következik be, a cégbíróság a céget eltiltja a további működéstől, egyben megszűntnek nyilvánítja, és kezdeményezi a cég felszámolását, vagy elrendeli a végelszámolást, amennyiben az adott cégformára irányadó anyagi jogszabályok ezt lehetővé teszik. Ha a felszámolásra vagy végelszámolásra az adott cégformára tekintettel nem kerülhet sor, e tényről a cégbíróság az állami adóhatóságot elektronikus úton haladéktalanul értesíti és a cégre irányadó anyagi jogszabály rendelkezései szerint gondoskodik a cég cégjegyzékből történő törléséről.
+84. § (1) Ha a törvényes működés a bíróság által hozott intézkedések ellenére sem következik be, a cégbíróság a céget eltiltja a további működéstől, egyben megszűntnek nyilvánítja, és kezdeményezi a cég felszámolását, vagy elrendeli a kényszertörlési eljárást, amennyiben az adott cégformára irányadó anyagi jogszabályok ezt lehetővé teszik. Ha a felszámolásra vagy kényszertörlési eljárásra az adott cégformára tekintettel nem kerülhet sor, e tényről a cégbíróság az állami adóhatóságot elektronikus úton haladéktalanul értesíti és a cégre irányadó anyagi jogszabály rendelkezései szerint gondoskodik a cég cégjegyzékből történő törléséről.
 
 (2) A cég megszűntnek nyilvánítására a cégbíróság által meghozott első eredménytelen intézkedést követően is sor kerülhet, ha a cégbíróság úgy ítéli meg, hogy a törvényes működés helyreállítására elrendelhető további intézkedések sem vezetnének eredményre. A cégbíróság a céget abban az esetben is megszűntnek nyilvánítja, ha az állami adóhatóság 87. § szerinti értesítése alapján a cég az alkalmazott adójogi jogkövetkezmények ellenére sem tett eleget a beszámoló letétbe helyezési és közzétételi kötelezettségének. Ebben az esetben a cég megszűntnek nyilvánítására irányuló eljárást bírósági titkár, fogalmazó vagy bírósági ügyintéző is önállóan lefolytathatja, azonban olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
 
@@ -1115,11 +1150,13 @@ elbírálásával egyidejűleg
 
 ### 3. CÍM — A beszámoló letétbe helyezése, valamint közzététele elmulasztásának jogkövetkezménye
 
-87. § (1) Az állami adóhatóság elektronikus úton haladéktalanul értesíti a cégbíróságot, ha a nyilvántartásából megállapítható, hogy a cég a beszámoló letétbe helyezési, illetve közzétételi kötelezettségének az alkalmazott adójogi jogkövetkezmények ellenére sem tett eleget.
+87. § (1) Az állami adóhatóság elektronikus úton haladéktalanul értesíti a cégbíróságot, ha a nyilvántartásából megállapítható, hogy a cég a beszámoló letétbe helyezési, illetve közzétételi kötelezettségének az alkalmazott adójogi jogkövetkezmények ellenére sem tett eleget. A cégbíróság az állami adóhatóság értesítése alapján hivatalból jár el.
 
-(2) Ha a cég nem tett eleget a számviteli törvény szerinti beszámoló megküldésére vonatkozó kötelezettségének, a cégbíróság legkésőbb az állami adóhatóság elektronikus értesítésének érkezésétől számított tizenöt munkanapon belül, ha a cég mulasztását megállapította, a céget megszűntnek nyilvánítja.
+(2) Ha a cég nem tett eleget a számviteli törvény szerinti beszámoló megküldésére vonatkozó kötelezettségének, a cégbíróság legkésőbb az állami adóhatóság elektronikus értesítésének érkezésétől számított húsz napon belül, ha a cég mulasztását megállapította, a céget megszűntnek nyilvánítja és az Itv. 65. § (1) bekezdésében meghatározott felügyeleti illeték megfizetésére kötelezi.
 
-(3) A cég megszűntnek nyilvánítására irányuló eljárást meg kell szüntetni, amennyiben az eljárás alatt az állami adóhatóság a (2) bekezdés szerinti határidőben, illetve a cég az eljárás alatt arról értesíti a cégbíróságot, hogy a cég a beszámoló letétbe helyezési és közzétételi kötelezettségének eleget tett.
+(3) A cég megszűntnek nyilvánítására irányuló eljárást abban az esetben kell megszüntetni, ha az eljárás alatt az állami adóhatóság a (2) bekezdés szerinti határidőben, illetve a cég a megszűntnek nyilvánító végzés jogerőre emelkedésének napja előtt értesíti a cégbíróságot, hogy a cég a beszámoló letétbe helyezési és közzétételi kötelezettségének eleget tett. A cég számára megállapított határidő jogvesztő, elmulasztása esetében igazolásnak helye nincs.
+
+(4) A (3) bekezdés alapján a beszámoló letétbe helyezési és közzétételi kötelezettség utólagos teljesítése a céget az Itv. 65. § (1) bekezdése szerinti felügyeleti illeték megfizetése alól nem mentesíti, ebben az esetben az Itv. 58. § (1) bekezdése nem alkalmazható.
 
 ### 4. CÍM — A cégjegyzékbe bejegyzett személynek
 
@@ -1133,39 +1170,19 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (4) Ha a cég képviseletére kizárólag olyan személy jogosult, akinek a kézbesítési megbízottját a cégbíróság törölte a cégjegyzékből, a cégbíróság a (3) bekezdésben foglalt intézkedés helyett megindítja a cég megszüntetésére irányuló eljárást.
 
-### 5. CÍM — Az ismeretlen székhelyű cég
+### 5. CÍM — Az ismeretlen székhelyű cég megszüntetésére irányuló eljárás
 
-megszüntetésére irányuló eljárás
+89. § Ha a cégbíróság tudomást szerez arról, hogy a cég a székhelyén, illetve telephelyén, fióktelepén sem található, és a cég képviseletére jogosult személyek lakóhelye is ismeretlen vagy kézbesítési megbízottja nem fellelhető (a továbbiakban: ismeretlen székhelyű cég), a cégbíróság a cég cégjegyzékbe bejegyzett tagjait közvetlenül megkeresi vagy szükség esetén a Cégközlönyben közzétett hirdetményben felhívja, hogy a cég törvényes működéséhez szükséges intézkedéseket hatvan napon belül tegyék meg. A törvényes működés helyreállítása érdekében a tagok (részvényesek) a cég legfőbb szervének összehívására is jogosultak.
 
-89. § (1) Ha a cégbíróság tudomást szerez arról, hogy a cég a székhelyén, illetve telephelyén, fióktelepén sem található, és a cég képviseletére jogosult személyek lakóhelye is ismeretlen vagy ismeretlennek minősül, mivel a cég képviseletére jogosult személy lakóhelye külföldön van és nincs a cégjegyzékbe bejegyzett kézbesítési megbízottja (a továbbiakban: ismeretlen székhelyű cég), a cégbíróság a Cégközlönyben közzétett hirdetményben felhívja a cég tagjait (részvényeseit), hogy a cég törvényes működéséhez szükséges intézkedéseket hatvan napon belül tegyék meg. A törvényes működés helyreállítása érdekében a tagok (részvényesek) a cég legfőbb szervének összehívására is jogosultak.
+90. § (1) Ha a cégjegyzék nem tartalmazza a cég tagjait (részvényeseit), vagy a törvényes működés helyreállítása azért nem történt meg, mert a cég vezető tisztségviselője és valamennyi tagja ismeretlen, a cégbíróság a Cégközlönyben végzést tesz közzé, mely felhívást tartalmaz arra, hogy akinek a cég székhelyére, működésére (ideértve azt az esetet is, ha a cég ellen per van folyamatban), illetve a képviselő lakóhelyére vonatkozó adatról tudomása van, azt a közzétételtől számított harminc napon belül a cégbíróságnak jelentse be.
 
-(2) A cégbíróság az (1) bekezdés szerinti végzésének közzétételével egyidejűleg a cég 50 százalékot meghaladó szavazati joggal rendelkező tagját (részvényesét) közvetlenül is, illetve kézbesítési megbízottja útján felhívja a törvényes működés helyreállítására.
+(2) A cég székhelyére, működésére, vezető tisztségviselőire vonatkozó érdemi bejelentés esetén a cégbíróság felhívja a cég képviselőjét a szükséges változásbejegyzési kérelem benyújtására. Ha a felhívás eredményes, a cégbíróság az eljárást megszünteti.
 
-(3) A külön felhívás mellőzhető abban az esetben, ha az 50 százalékot meghaladó szavazati joggal rendelkező tag (részvényes) székhelye (lakóhelye) külföldön van, és nem gondoskodott kézbesítési megbízott bejelentéséről.
+(3) Ha a cég a változásbejegyzési kérelmet határidőben nem nyújtja be vagy a cégbíróság intézkedése egyébként nem vezetett eredményre, a cégbíróság az eljárást megszünteti, és a céget megszűntnek nyilvánítja.
 
-90. § (1) Ha a törvényes működés helyreállítása nem történt meg, mivel a 89. § (1) bekezdésében megjelölt tagok (részvényesek) a cégbíróság felhívásában foglaltaknak határidőn belül nem tettek eleget, vagy a 89. § (2) bekezdésben foglaltak alkalmazására megfelelő mértékű szavazati joggal rendelkező tag (részvényes) hiányában nem kerülhetett sor, a cégbíróság határozatot hoz a cég megszüntetésére irányuló eljárás megindításáról.
+(4) Az (3) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a végzés ellen a megjelenésétől számított tizenöt napon belül fellebbezésnek van helye.
 
-(2) Ha a megszüntetési eljárás elrendelését követően a cég ellen felszámolási eljárás lefolytatása iránti kérelmet nyújtanak be, a felszámolási eljárás lefolytatására illetékes bíróság a kérelem benyújtásáról elektronikus úton, haladéktalanul értesíti a cégbíróságot. A cégbíróság a felszámolás elrendelése tárgyában hozott döntés jogerőre emelkedéséig a cég törléséről nem határozhat, szükség esetén a törvényességi felügyeleti eljárást felfüggeszti. Ha a bíróság a cég felszámolását elrendelte, a cégbíróság eljárását meg kell szüntetni. Ha a felszámolási eljárás a felszámolás elrendelése nélkül fejeződik be, a cégbíróság folytatja a megszüntetési eljárást, vagy szükség szerint törvényességi felügyeleti intézkedést alkalmaz.
-
-91. § (1) A megszüntetési eljárás megindításáról szóló végzést a cégbíróság – a kézbesítés mellőzésével – a Cégközlönyben közzéteszi és ezzel egyidejűleg a megszüntetési eljárás megindításának tényéről az állami adóhatóságot elektronikus úton értesíti. A végzésnek felhívást kell tartalmaznia arra, hogy akinek a cég székhelyére, működésére (ideértve azt az esetet is, ha a cég ellen per van folyamatban), illetve a képviselő lakóhelyére vonatkozó adatról tudomása van, azt a közzétételtől számított harminc napon belül a cégbíróságnak jelentse be. A végzésnek felhívást kell tartalmaznia arra is, hogy a cég hitelezői és az egyéb érdekeltek a cég általuk ismert ingó vagy ingatlan vagyonára vonatkozó adatokat – hitelezők esetében hitelezői igényüket is megjelölve – harminc napon belül jelentsék be.
-
-(2) A cég székhelyére, működésére, vezető tisztségviselőire vonatkozó érdemi bejelentés esetén a cégbíróság felhívja a cég képviselőjét a szükséges változásbejegyzési kérelem benyújtására. Ha a felhívás eredményes, a cégbíróság a megszüntetési eljárást megszünteti és a végzését a Cégközlönyben közzéteszi. Ha a cég a változásbejegyzési kérelem benyújtását elmulasztja, a cégbíróság a céggel szemben törvényességi felügyeleti intézkedést alkalmaz.
-
-(3) Ha a cég székhelyére, működésére, illetve vezető tisztségviselőire vonatkozóan érdemi bejelentés nem érkezik, a cégbíróság megkeresi az ingatlanügyi hatóságot, illetve szükség szerint más közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezetet (pl. adóhatóság, a gépjármű nyilvántartó hatóság, közjegyző), hogy a cég tulajdonában álló – általuk ismert – ingó vagy ingatlan vagyonra vonatkozóan harminc napon belül adjanak tájékoztatást.
-
-92. § (1) Ha megállapítható, hogy a cég fellelhető vagyonnal rendelkezik, a cégbíróság a megszüntetési eljárást megszünteti, és kezdeményezi a cég ellen a felszámolási eljárás lefolytatását. Ennek során a cég képviseletére ügygondnok hivatalból is kirendelhető. Ha a bejelentésben szereplő ingó vagyon ténylegesen nem lelhető fel, a cégbíróság – ha szükséges – végzéssel rendelkezik az ingóságnak a nyilvántartásból való törléséről. Egyebekben a (2) bekezdésben foglaltak szerint jár el.
-
-(2) Ha a megszüntetési eljárás folyamata alatt a cég vagyonára vonatkozóan nem merül fel adat, a cégbíróság a cég törléséről – felszámolási eljárás kezdeményezése, illetve végelszámolás elrendelése nélkül – végzéssel határoz.
-
-(3) Az (1)–(2) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a végzés ellen a megjelenésétől számított tizenöt napon belül fellebbezésnek van helye, a határidő elmulasztása miatt azonban igazolási kérelem nem terjeszthető elő. A cég törlését elrendelő végzés jogerőre emelkedését a Cégközlönyben közzé kell tenni.
-
-(4) Ha a megszüntetési eljárás bármely szakaszában – a cég törlését elrendelő végzés jogerőre emelkedéséig – a cég helyreállítja a törvényes működését, a cégbíróság a megszüntetési eljárást megszünteti.
-
-(5) A cég megszüntetésére irányuló eljárásban bírósági titkár, fogalmazó vagy bírósági ügyintéző önállóan jár el, azonban olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
-
-93. § (1) Ha a többségi befolyással (Ptk. 685/B. §) rendelkező tag (részvényes) felelőssége a cég tartozásaiért korlátozott volt, és a céget a cégbíróság megszüntetési eljárást követően törölte a cégjegyzékből, úgy, hogy a cég a saját tőkéjének 50 százalékát meghaladó, ki nem elégített tartozást hagyott hátra, a cég hitelezőjének kereseti kérelmére a bíróság megállapítja, hogy a tag (részvényes) korlátlanul felel a cég ki nem elégített tartozásaiért, kivéve, ha a tag (részvényes) bizonyítja, hogy a megszüntetési eljárás bekövetkezéséhez magatartásával nem járult hozzá.
-
-(2) Ha a céget a cégbíróság a megszüntetési eljárást követően törölte a cégjegyzékből, úgy, hogy a cég a saját tőkéjének 50 százalékát meghaladó, ki nem elégített tartozást hagyott hátra, a cég hitelezője kereseti kérelmében kérheti annak megállapítását is, hogy a megszüntetési eljárás megindulását megelőző három éven belül részesedését átruházó, többségi befolyással (Ptk. 685/B. §) rendelkező volt tag (részvényes) korlátlanul felel a cég ki nem elégített kötelezettségeiért, kivéve, ha a volt tag (részvényes) bizonyítja, hogy a vagyoni hányada átruházásának időpontjában a cég fizetőképes volt, a vagyonvesztés csak ezt követően következett be, illetve a cég nem volt fizetőképes, de a tag (részvényes) az átruházás során jóhiszeműen járt el.
+#### 91–93. §
 
 ### VIII. Fejezet — A VÉGELSZÁMOLÁS
 
@@ -1175,7 +1192,7 @@ megszüntetésére irányuló eljárás
 
 (2) Jogszabály cégnek nem minősülő szervezet végelszámolása esetén is előírhatja e fejezet rendelkezéseinek megfelelő alkalmazását.
 
-(3) Végelszámolásra a cég legfőbb szervének elhatározása alapján vagy a cégbíróság törvényességi felügyeleti eljárásban hozott határozata alapján (kényszer-végelszámolás) kerülhet sor.
+(3) Végelszámolásra a cég legfőbb szervének elhatározása alapján kerülhet sor.
 
 95. § (1) A végelszámolás nem határozható el a cég fizetésképtelenségét megállapító végzés kézhezvételét követően, a felszámolás elrendelésével pedig a folyamatban lévő végelszámolás megszűnik.
 
@@ -1197,18 +1214,19 @@ megszüntetésére irányuló eljárás
 
 (2) A végelszámolás kezdő időpontjában a cég vezető tisztségviselőjének megbízatása megszűnik. A végelszámolás kezdő időpontjától a cég önálló képviseleti joggal rendelkező vezető tisztségviselőjének a végelszámoló minősül.
 
-(3) A végelszámolás kezdő időpontját követő negyvenöt napon belül a cég korábbi vezető tisztségviselője
+(3) A végelszámolás kezdő időpontját követő harminc napon belül a cég korábbi vezető tisztségviselője
 
-- a) a végelszámolás kezdő időpontját megelőző nappal a számviteli törvény alapján a cég tevékenységét lezáró beszámolót készít, elvégzi mindazon feladatokat, melyeket számára a számviteli, az adóügyi vagy egyéb jogszabályok előírnak, és ezeket az okiratokat, valamint a cég iratanyagát a végelszámolónak legkésőbb a végelszámolás kezdő időpontjától számított negyvenötödik napon átadja,
-- b) a folyamatban lévő ügyekről a végelszámolót tájékoztatja,
-- c) a nem selejtezhető és titkos minősítésű iratokról iratjegyzéket készít, és azokat, valamint az irattári anyagokat a végelszámolónak átadja,
-- d) a végelszámolás megindításáról a munkavállalókat, valamint a Munka Törvénykönyvében meghatározott szakszervezeteket, az üzemi tanácsot (üzemi megbízottat) haladéktalanul tájékoztatja.
+- a) a végelszámolás kezdő időpontját megelőző nappal a számviteli törvény alapján a cég tevékenységét lezáró beszámolót készít, elvégzi mindazon feladatokat, melyeket számára a számviteli, az adóügyi vagy egyéb jogszabályok előírnak, és ezeket az okiratokat, valamint a cég iratanyagát a végelszámolónak legkésőbb a végelszámolás kezdő időpontjától számított harmincadik napon átadja,
+- b) a végelszámoló díjazása esetén a végelszámoló díjának és költségtérítésének kifizetéséhez előre láthatóan szükséges összegre tartalékot képez, és azt a pénzforgalmi számlájára befizeti, ott elkülönítetten tartja nyilván;
+- c) a folyamatban lévő ügyekről a végelszámolót tájékoztatja,
+- d) a nem selejtezhető és titkos minősítésű iratokról iratjegyzéket készít, és azokat, valamint az irattári anyagokat a végelszámolónak átadja,
+- e) a végelszámolás megindításáról a munkavállalókat, valamint a Munka Törvénykönyvében meghatározott szakszervezeteket, az üzemi tanácsot (üzemi megbízottat) haladéktalanul tájékoztatja.
 
 (4) A (3) bekezdésben foglaltakat megfelelően alkalmazni kell akkor is, ha a végelszámoló a korábbi vezető tisztségviselő.
 
-(5) A cég korábbi vezető tisztségviselője a (3) bekezdésben meghatározott feladatok, illetve határidők elmulasztásából vagy nem megfelelő teljesítéséből eredő károkért a polgári jog általános szabályai szerint kártérítési felelősséggel tartozik. Mulasztás esetén a korábbi vezető tisztségviselőt a végelszámoló kérelmére a cégbíróság törvényességi felügyeleti eljárás keretében 50 000 Ft-tól 500 000 Ft-ig terjedő, ismételten is kiszabható pénzbírsággal sújthatja.
+(5) A cég korábbi vezető tisztségviselője a (3) bekezdésben meghatározott feladatok, illetve határidők elmulasztásából vagy nem megfelelő teljesítéséből eredő károkért a polgári jog általános szabályai szerint kártérítési felelősséggel tartozik. A korábbi vezető tisztségviselő mulasztása esetén a végelszámoló vagy a cég hitelezője kérelmére a cégbíróság törvényességi felügyeleti eljárás keretében a korábbi vezető tisztségviselőt 100 000 Ft-tól 900 000 Ft-ig terjedő, ismételten is kiszabható pénzbírsággal sújtja.
 
-(6) A végelszámoló kérelmére a mulasztó vagy valótlan adatot közlő korábbi vezető tisztségviselőt a cégbíróság arra is kötelezheti, hogy viselje azokat a költségeket, amelyek a (3) bekezdésben foglalt feladatoknak a végelszámoló által megbízott szakértő által történő elvégeztetésével merülnek fel.
+(6) A végelszámoló vagy a cég hitelezője kérelmére a mulasztó vagy valótlan adatot közlő korábbi vezető tisztségviselőt a cégbíróság arra is kötelezheti, hogy viselje azokat a költségeket, amelyek a (3) bekezdésben foglalt feladatoknak a végelszámoló által megbízott szakértő által történő elvégeztetésével merülnek fel.
 
 ### 3. CÍM — A végelszámoló jogállása, felelőssége
 
@@ -1220,6 +1238,8 @@ megszüntetésére irányuló eljárás
 
 (4) A végelszámoló az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, a végelszámolás alatt álló cég, valamint a hitelezők érdekeinek szem előtt tartásával köteles eljárni. A kötelezettségeinek megszegésével okozott kárért a polgári jogi felelősség általános szabályai szerint felel.
 
+(4a) Ha jogszabály rendelkezése alapján a végelszámolást a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvényben meghatározott szervezetek felszámolását végző nonprofit gazdasági társaság végzi, a végelszámolási feladatok ellátására kijelölt személy nem lehet az, aki a végelszámolás alatt álló cégnél a Pénzügyi Szervezetek Állami Felügyeletéről szóló törvény szerinti felügyeleti biztosi tevékenységet látott, illetve lát el.
+
 (5) Ha a végelszámolás alatt álló cég felszámolás alá kerül, és megállapítható, hogy a végelszámoló alapos ok nélkül késlekedett a felszámolási eljárás kezdeményezésével, vagy nem tett meg mindent a hitelezők veszteségeinek csökkentése, illetve a környezeti károk mérséklése a kármentesítés érdekében vagy egyes hitelezőket mások rovására előnyben részesített, a felszámoló vagy a hitelezők keresetére a bíróság arra kötelezi a végelszámolót, hogy a cég vagyonához a károkozás összege mértékéhez igazodó tőke-hozzájárulást teljesítsen. A bíróság ebben az esetben a végelszámoló díját részben vagy egészben megvonhatja.
 
 (6) Az (5) bekezdésben foglaltak alkalmazására akkor is sor kerülhet, ha a végelszámoló az egyszerűsített végelszámolás alkalmazásáról annak törvényben foglalt feltételei hiányában sem tér át az általános szabályok szerint lefolytatandó végelszámolásra, vagy a törvényi feltételek bekövetkezése ellenére elmulasztotta a felszámolási eljárás kezdeményezését, továbbá a felszámolás elrendelésére a végelszámoló hibájából nem került sor.
@@ -1230,13 +1250,13 @@ megszüntetésére irányuló eljárás
 
 (3) Az (1) bekezdésben meghatározott okok miatt, illetve ha a végelszámoló felhagy a végelszámolói tevékenység ellátásával, a cégbíróság hivatalból is törvényességi felügyeleti eljárást indíthat a cég ellen.
 
-(4) Ha azért indul törvényességi felügyeleti eljárás, mert a végelszámoló a végelszámolói tevékenységgel felhagyott, a cégbíróság a 106. § (3) bekezdésében foglalt intézkedéseket megfelelően alkalmazhatja, illetve az (1) bekezdésben foglaltak szerint biztosíthatja a feltételeket az új végelszámoló megválasztásához, vagy a kényszer-végelszámolásról is határozhat. Ha a törvényességi felügyeleti eljárás a kényszer-végelszámolás alatt indul, a cégbíróság új végelszámoló kirendeléséről hivatalból is rendelkezhet.
+(4) Ha azért indul törvényességi felügyeleti eljárás, mert a végelszámoló a végelszámolói tevékenységgel felhagyott, a cégbíróság a 106. § (3) bekezdésében foglalt intézkedéseket megfelelően alkalmazhatja, illetve az (1) bekezdésben foglaltak szerint biztosíthatja a feltételeket az új végelszámoló megválasztásához.
 
 101. § (1) A végelszámoló a végelszámolás megindítását változásbejegyzési kérelemben köteles bejelenteni a cégbíróságnak, amelyben fel kell tüntetni
 
 - a) a végelszámolás megindítását elrendelő határozat keltét,
 - b) a végelszámolás kezdő időpontját,
-- c) a végelszámoló nevét (cégét) és lakóhelyét (székhelyét), ha a végelszámoló nem természetes személy, akkor a cégjegyzékszámát és a megbízásából eljáró természetes személy nevét és lakóhelyét is,
+- c) a végelszámoló nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint a megbízásából eljáró természetes személy nevét, születési idejét, anyja születési nevét, és lakóhelyét is,
 - d) a korábbi vezető tisztségviselő(k) jogviszonyának megszűnését.
 
 (2)
@@ -1253,7 +1273,7 @@ megszüntetésére irányuló eljárás
 
 - a) az ingatlanügyi hatóságot a végelszámolás tényének bejegyzése érdekében,
 - b) ha a cég valamely vagyontárgya országos közhiteles vagy közérdekből vezetett nyilvántartásban szerepel, e nyilvántartást vezető szervezetet,
-- c) az illetékes vámhatóságot, állami adóhatóságot, nyugdíjpénztárat, továbbá, ha a cég engedélyköteles tevékenységet végez, az engedélyező hatóságot,
+- c)
 - d) a területileg illetékes állami munkaerő-piaci szervezetet,
 - e) az illetékes környezetvédelmi felügyelőséget arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, melyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások elhárításához, illetve terhek rendezéséhez szükséges kiadás származhat,
 - f) a cég pénzforgalmi számláit vezető valamennyi pénzforgalmi szolgáltatót,
@@ -1276,7 +1296,9 @@ megszüntetésére irányuló eljárás
 
 105. § (1) A végelszámolást a végelszámolás kezdő időpontjától számított legkésőbb három éven belül be kell fejezni.
 
-(2) Ha a cég törlésére irányuló kérelem benyújtása három éven belül nem történik meg, a cég kényszer-végelszámolására kerül sor.
+(2) Ha a cég törlésére irányuló kérelem benyújtása három éven belül nem történik meg, kényszertörlési eljárás lefolytatására kerül sor.
+
+(3) A cégbíróság a kényszertörlési eljárás megindításával egyidejűleg rendelkezik a végelszámoló tisztségének megszűnéséről, azzal, hogy a kényszertörlési eljárás során a végelszámoló köteles a cégbírósággal együttműködni, és a kényszertörlési eljárás lefolytatása érdekében valamennyi rendelkezésére álló információról a cégbíróságot tájékoztatni.
 
 106. § (1) A cég hitelezői a követeléseiket a végelszámolás megindításának közzétételét követő negyven napon belül jelenthetik be a végelszámolónak. A bejelentés akkor is szükséges, ha a céggel szemben a követeléssel kapcsolatban hatósági vagy bírósági eljárás van folyamatban. A bejelentés elmulasztása vagy késedelmes teljesítése nem jár jogvesztéssel, de a zárómérleg és a vagyonfelosztási határozat elfogadását követően hitelezői igényt már csak a megszűnt cég tartozásaiért történő helytállásra vonatkozó szabályok szerint lehet érvényesíteni.
 
@@ -1285,9 +1307,9 @@ megszüntetésére irányuló eljárás
 (3) A cég tagja (részvényese), hitelezője, illetve az, aki a jogi érdekét valószínűsíti, törvényességi felügyeleti eljárást kezdeményezhet a cégbíróságnál, ha azt észleli, hogy a végelszámoló a (2) bekezdésben megjelölt követelések jegyzékét a cégiratokhoz nem csatolta be. Ilyen esetben a bíróság a végelszámolót
 
 - a) határidő tűzésével és pénzbírság terhe mellett felhívja a mulasztás pótlására, vagy ennek eredménytelensége esetén
-- b) 50 000 Ft-tól 500 000 Ft-ig terjedő, ismételten is kiróható pénzbírsággal sújthatja.
+- b) 100 000 forinttól 900 000 forintig terjedő, ismételten is kiróható pénzbírsággal sújtja.
 
-(4) Az a hitelező, akinek bejelentett követelését a végelszámoló vitatja, igényét a végelszámoló értesítésének kézhezvételétől számított harmincnapos határidőn belül a bíróság előtt perben érvényesítheti.
+(4) Az a hitelező, akinek bejelentett követelését a végelszámoló vitatja, igényét a végelszámoló értesítésének kézhezvételétől számított harminc napos határidőn belül a bíróság előtt perben érvényesítheti, ennek megindítását a végelszámolónál igazolnia kell.
 
 (5) A végelszámoló a vitatott igények fedezetére köteles lekötött tartalékot képezni.
 
@@ -1311,7 +1333,7 @@ megszüntetésére irányuló eljárás
 
 (5) A végelszámolási kifogás tárgyában hozott végzés ellen külön fellebbezésnek van helye.
 
-(6) Ha a végelszámoló a végelszámolási kifogásnak helyt adó jogerős bírósági végzésnek nem tesz eleget, a cégbíróság törvényességi felügyeleti eljárás keretében összehívja a cég legfőbb szervét új végelszámoló megválasztása céljából. Ha a cég a cégbíróság határozatában foglaltakat nem teljesíti, a cégbíróság elrendeli a kényszer-végelszámolást és a felszámolók névjegyzékéből másik végelszámolót rendel ki.
+(6) Ha a végelszámoló a végelszámolási kifogásnak helyt adó jogerős bírósági végzésnek nem tesz eleget, a cégbíróság törvényességi felügyeleti eljárás keretében összehívja a cég legfőbb szervét új végelszámoló megválasztása céljából. Ha a cég a cégbíróság határozatában foglaltakat nem teljesíti, a cégbíróság a felszámolók névjegyzékéből másik végelszámolót rendel ki. Amennyiben a korábbi végelszámoló a felszámolók névjegyzékéből került kirendelésre, az e bekezdés szerinti jogszabálysértésről a cégbíróság értesíti a felszámolók névjegyzékét vezető szervet is.
 
 110. § (1) A végelszámoló jogosult a cég által kötött szerződéseket azonnali hatállyal felmondani, vagy ha a felek egyike sem teljesített szolgáltatást, a szerződéstől elállni. A másik félnek a felmondással, illetve az elállással okozott kár megtérítésére vonatkozó igényére a 106. § (5) bekezdésében foglaltak megfelelően irányadók.
 
@@ -1356,9 +1378,11 @@ megszüntetésére irányuló eljárás
 
 ### 6. CÍM — Az egyszerűsített végelszámolás
 
-114. § (1) A jogi személyiség nélküli gazdasági társaság végelszámolásának cégbejegyzése egyszerűsített módon történhet, ha a cég a végelszámolása kezdő időpontjától számított százhúsz napon belül a végelszámolást befejezi. Az egyszerűsített végelszámolás esetén a végelszámolás megindulásáról szóló közlemény Cégközlönyben történő közzétételét a végelszámoló a végelszámolás kezdő időpontjától számított nyolc napon belül köteles kezdeményezni. A végelszámoló jogállására, a feladataira, illetve az egyszerűsített végelszámolásra a 99–113. § rendelkezéseit megfelelően alkalmazni kell.
+114. § (1) A jogi személyiség nélküli gazdasági társaság és egyéni cég végelszámolásának cégbejegyzése egyszerűsített módon történhet, ha a cég a végelszámolása kezdő időpontjától számított százötven napon belül a végelszámolást befejezi. Az egyszerűsített végelszámolás esetén a végelszámolás megindulásáról szóló közlemény Cégközlönyben történő közzétételét a végelszámoló a végelszámolás kezdő időpontjától számított nyolc napon belül köteles kezdeményezni. A végelszámoló jogállására, a feladataira, illetve az egyszerűsített végelszámolásra a 99–113. § rendelkezéseit megfelelően alkalmazni kell.
 
 (2) A cég a végelszámoló személyét a végelszámolás befejezésével és a törlési kérelemmel együtt jelenti be a cégbíróságnak, amely rendelkezik a törlés bejegyzéséről és közzétételéről, ennek keretében feltüntetve a végelszámoló személyét és lakóhelyét (székhelyét), utalva arra is, hogy a végelszámolás egyszerűsített módon folyt le.
+
+(2a) Ha a legfőbb szerv vagy az egyéni cég tagja az egyszerűsített végelszámolás megszüntetését és a cég működésének folytatását határozta el, a cég a határozat meghozatalától számított nyolc napon belül köteles erről a Cégközlönyben közleményt közzétenni. A közleményben meg kell jelölni a végelszámolás megszüntetésének időpontját, valamint azt a tényt, hogy a végelszámolás megszüntetésére a cég működésének továbbfolytatásával kerül sor.
 
 (3) A végelszámoló egyszerűsített végelszámolás helyett a végelszámolásra vonatkozó általános szabályok szerint jár el, ha
 
@@ -1370,45 +1394,69 @@ megszüntetésére irányuló eljárás
 
 (5) A (3) bekezdés c) pontjában foglaltak szerint kell eljárni akkor is, ha az egyszerűsített végelszámolás alatt előreláthatóvá válik, hogy az egyszerűsített végelszámolás befejezése határidőben nem történhet meg.
 
-(6) A (3)–(5) bekezdésben foglalt szabályok megszegése esetében kényszer-végelszámolásnak van helye.
+(6) A (3)–(5) bekezdésben foglalt szabályok megszegése esetében kényszertörlésnek van helye.
 
 115. § (1) A 114. § (3)–(5) bekezdésében meghatározott esetben a végelszámoló a változásbejegyzési kérelméhez – ha a közzététel már megtörtént – köteles csatolni a végelszámolási közlemény megjelenését igazoló okiratot. Ebben az esetben a cégbíróság a változásbejegyzési végzésében hitelezői felhívást már nem tesz közzé, de a bírósági közleményben utal arra, hogy a végelszámolás egyszerűsített módon indult meg, és a korábban megjelent közlemény megjelenési időpontját is feltünteti. Ha az áttérés olyan időben történt meg, amikor a végelszámoló még nem tett közzé közleményt, akkor a végelszámoló bejelentése alapján a cégbíróság végzésében kerül sor a hitelezői felhívásra.
 
 (2) A hitelezők igénybejelentésére, a követelések jegyzékének elkészítésére vonatkozó és egyéb, a végelszámolási hirdetményhez kapcsolódó határidők számítása és kötelezettségek teljesítése áttérés esetén is – ha volt ilyen – a végelszámoló által közzétett közlemény megjelenési időpontjához kötődik.
 
-### 7. CÍM — A kényszer-végelszámolás
+### VIII/A. Fejezet — KÉNYSZERTÖRLÉSI ELJÁRÁS
 
-116. § (1) Kényszer-végelszámolásra kerül sor, ha
+116. § (1) A cégbíróság kényszertörlési eljárás megindítását rendeli el, ha
 
-- a) a bíróság törvényességi felügyeleti hatáskörében eljárva a céget megszűntnek nyilvánítja,
-- b) az állami adóhatóság jogerős határozatában arról értesíti a cégbíróságot, hogy a cég adószámát jogerősen törölte,
-- c) a cég a végelszámolást három éven belül nem fejezte be,
-- d) a végelszámolás általános szabályaira történő áttérést nem hajtotta végre (114. §), valamint
-- e) az anyagi jogszabályok szerint a cég jogutód nélküli megszűnését előidéző ok következett be.
+- a) törvényességi felügyeleti hatáskörében eljárva a céget megszűntnek nyilvánítja – ideértve a 87. § (2) bekezdését és a 90. § (3) bekezdését is,
+- b) a cég a végelszámolást három éven belül nem fejezte be, és a 34. § (1) bekezdés szerinti határidőn belül törlése iránt szabályszerű kérelmet nem terjesztett elő,
+- c) a cég a végelszámolás általános szabályaira történő áttérést nem hajtotta végre, vagy
+- d) a cég jogutód nélküli megszűnését előidéző ok következett be, és végelszámolási eljárás lefolytatásának nincs helye.
 
-(2) Nincs helye kényszer-végelszámolás elrendelésének a cég fizetésképtelenségét megállapító végzés meghozatalát követően, valamint abban az esetben, ha a büntetőügyben eljáró bíróság vagy az ügyész a cégbíróságot arról értesíti, hogy a céggel szemben büntetőjogi intézkedés alkalmazására kerülhet sor.
+(2) Nincs helye kényszertörlési eljárás elrendelésének a cég fizetésképtelenségét megállapító végzés meghozatalát követően, valamint abban az esetben, ha a büntetőügyben eljáró bíróság vagy az ügyész a cégbíróságot arról értesíti, hogy a céggel szemben büntetőjogi intézkedés alkalmazására kerülhet sor.
 
-(3) A kényszer-végelszámolás során a cég legfőbb szerve nem dönthet a cégnek a végelszámolási eljárás alatti működtetéséről, illetve a végelszámolási eljárás megszüntetéséről. A végelszámolás kezdő időpontját követően a cég szervei nem hozhatnak a végelszámolás céljával ellentétes döntéseket.
+(3) A kényszertörlési eljárás során a cég legfőbb szerve nem dönthet a cégnek a kényszertörlési eljárás alatti működtetéséről, illetve a kényszertörlési eljárás megszüntetéséről. A kényszertörlési eljárás kezdő időpontját követően a cég szervei nem hozhatnak a kényszertörlési eljárás céljával ellentétes döntéseket.
 
-(4) A cégbíróság nem dönthet a jogerősen elrendelt kényszer-végelszámolás megszüntetéséről. A kényszer- végelszámolást – ha arra a cég által elhatározott végelszámolást követően kerül sor – a jogerős elrendelésétől számított egy éven belül be kell fejezni. A cégbíróság a határidőt a végelszámoló kérelmére indokolt esetben egy alkalommal hat hónappal, illetve ha peres eljárás van folyamatban, e per jogerős befejezéséig meghosszabbíthatja.
+(4) A cégbíróság nem dönthet a jogerősen elrendelt kényszertörlési eljárás megszüntetéséről.
 
-(5) Ha a kényszer-végelszámolás során felszámolási eljárást kell kezdeményezni, a felszámolás során egyezségkötésnek nincs helye és a felszámolási eljárás az adós cég teljesítésére tekintettel nem szüntethető meg.
+(5) Ha a kényszertörlési eljárás során felszámolási eljárást kell kezdeményezni, a felszámolás során egyezségkötésnek nincs helye és a felszámolási eljárás az adós cég teljesítésére tekintettel nem szüntethető meg.
 
-(6) A kényszer-végelszámolásra e fejezet szabályait – e címben foglalt eltérésekkel – kell alkalmazni.
+117. § (1) A kényszertörlési eljárás megindításáról szóló végzést a cégbíróság a Cégközlönyben közzéteszi. A közzétételre a Cégközlöny honlapján, napi feltöltéssel kerül sor. A végzés ellen fellebbezésnek és felülvizsgálatnak helye nincs.
 
-117. § (1) A bíróság a kényszer-végelszámolást elrendelő határozatában a cég végelszámolójának – kivételesen indokolt esetben – a cég vezető tisztségviselőjét is kirendelheti. A bíróság által kirendelt végelszámoló e megbízatást alapos okkal visszautasíthatja.
+(2) Az (1) bekezdés szerinti végzésben a cégbíróság felhívást tesz közzé arra vonatkozóan, hogy akinek
 
-(2) Ha a cégbíróság végelszámolóként a felszámolók névjegyzékében szereplő szervezetet rendel ki, a felszámoló szervezet csak a Cstv.-ben szabályozott kizárási és összeférhetetlenségi okokra való hivatkozással utasíthatja vissza a megbízatást.
+- a) a céggel szemben követelése van – ideértve a számviteli törvény szerinti függő követelést is –,
+- b) tudomása van arról, hogy a cég ellen bírósági, közjegyzői vagy más hatósági eljárás van folyamatban, vagy
+- c) a cég tulajdonában lévő eszköz van a birtokában, vagy a cég vagyontárgyára vonatkozó jog jogosultjaként van bejegyezve, valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, vagy a cég vagyontárgyára tarthatna igényt, azt harminc napon belül jelentse be a cégbíróságnak.
 
-(3) A kényszer-végelszámolás jogerős elrendelésével összefüggő változásokat a cégbíróság hivatalból jegyzi be a cégjegyzékbe és teszi közzé. A későbbi cégjegyzékadat-változások bejelentése a végelszámoló kötelezettsége.
+(3) Amennyiben a cég vezető tisztségviselője és tagjai elérhetőek, a cégbíróság felhívja a vezető tisztségviselőt és a tagokat a cég vagyonára és kötelezettségeire vonatkozó információk közlésére. Az együttműködési kötelezettség megszegése esetén a cégbíróság a 98. § (5) bekezdés szerinti jogkövetkezményeket alkalmazza.
 
-(4) A kényszer-végelszámolás során kirendelt végelszámoló a cég vagyonát csak nyilvános pályázat, illetve árverés útján értékesítheti.
+(4) A cégbíróság határidő tűzésével felhívja a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről és az adózás rendjéről szóló törvény szerinti kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja. Amennyiben a vezető tisztségviselő határidőben nem tett eleget ezen kötelezettségének, a cégbíróság erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot.
 
-118. § (1) A végelszámoló díját a végelszámoló kérelmére a legfőbb szerv állapítja meg. Amennyiben a legfőbb szerv a határozatát nem hozza meg, a végelszámoló díjáról a cégbíróság dönt.
+118. § (1) Amennyiben a cégbíróság azt állapítja meg, hogy
 
-(2) Ha a végelszámoló a korrigált végelszámolási nyitómérleg alapján vagy a későbbiekben, a végelszámolási eljárás során azt állapítja meg, hogy a cég vagyona a hitelezők követelésének fedezetére nem elegendő, a végelszámoló bejelentése alapján a cégbíróság felszámolási eljárás lefolytatását kezdeményezi. A végelszámolónak a cégbíróság által megállapított díja felszámolási költségnek minősül.
+- a) a céggel szemben követelés bejelentésére nem került sor, valamint
+- b) a cég vagyonával kapcsolatos információ nem érkezett, a cégbíróság – a 62. § (4) bekezdés figyelembevételével – a céget törli a cégjegyzékből, és a Gt. 5. (10) bekezdése és a 23. § (3) bekezdése alapján az egyedüli vagy többségi befolyással rendelkező tagot, valamint a vezető tisztségviselőt eltiltja.
 
-(3) A végelszámoló díja felszámoló szervezet esetében a tevékenységet lezáró beszámoló mérlege szerinti eszközök könyvszerinti értékének 1,5 százaléka, de legalább 100 000 Ft és az azt terhelő általános forgalmi adó összege. A bíróság ettől a mértéktől indokolt esetben eltérhet. Más végelszámoló kirendelése esetében a végelszámoló kérelmére a munkájával arányban álló díjazást a cégbíróság állapítja meg.
+(2) Amennyiben a céggel szemben követelés bejelentésére került sor, a cégbíróság a számítógépes ingatlan-nyilvántartási rendszerből, valamint szükség szerint a földhasználati nyilvántartásból elektronikus úton történő lekérdezéssel megállapítja, hogy a cég jog jogosultjaként van-e bejegyezve, vagy a javára, illetve érdekében tény van-e feljegyezve, illetve van-e bejegyzett földhasználata.
+
+(3) A cégbíróság más közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezet – különösen a járműnyilvántartást vezető szerv, a zálogjogi nyilvántartást vezető szerv – megkeresésével megvizsgálja, hogy cég jog jogosultjaként van-e bejegyezve, vagy a javára, illetve érdekében tény van-e feljegyezve. A cégbíróság megkeresi a cég számláit vezető pénzforgalmi szolgáltatókat a cég számlakövetelésével és egyéb pénzfizetés teljesítésére vonatkozó követelésével kapcsolatos adatszolgáltatás teljesítése érdekében.
+
+(4) A (2)–(3) bekezdésben meghatározott adatszolgáltatatást az érintett szervezetek soron kívül és ellenszolgáltatás nélkül kötelesek teljesíteni.
+
+(5) Amennyiben a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés alapján a cégbíróság megállapítja, hogy a cég vagyona előreláthatóan fedezi a várható felszámolási költségeket, vagy a cégnek valószínűsíthetően fedezetelvonó ügylet miatt nincs vagyona, a cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen felszámolási eljárás megindítását.
+
+(6) Az (5) bekezdés alkalmazásában felszámolási költség a Cstv. 57. § (2) bekezdés f) és g) pontjában meghatározott költségek.
+
+(7) Amennyiben a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés alapján a cégbíróság megállapítja, hogy a cég vagyona előreláthatóan nem fedezi a várható felszámolási költségeket, vagy a cég vagyona nem fellelhető, a cégbíróság – a 62. § (4) bekezdés figyelembevételével – a céget törli a cégjegyzékből, a Gt. 5. § (10) bekezdése és a 23. § (3) bekezdése alapján az egyedüli vagy többségi befolyással rendelkező tagot, valamint a vezető tisztségviselőt eltiltja, egyidejűleg határidő tűzésével felhívja a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről, az adózás rendjéről szóló törvény szerinti kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja.
+
+(8) Az (1) és (7) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a végzés ellen a megjelenésétől számított tizenöt napon belül fellebbezésnek van helye, a határidő elmulasztása miatt azonban igazolási kérelem nem terjeszthető elő. A cég törlését elrendelő végzés jogerőre emelkedését a Cégközlönyben közzé kell tenni.
+
+(9) Az eltiltásra vonatkozó rendelkezés elleni fellebbezésnek nincs halasztó hatálya.
+
+118/A. § (1) Ha a legalább többségi befolyással (Ptk. 685/B. §) rendelkező tag (részvényes) felelőssége a cég tartozásaiért korlátozott volt, és a céget a cégbíróság kényszertörlési eljárást követően törölte a cégjegyzékből úgy, hogy a cég ki nem elégített tartozást hagyott hátra, a cég hitelezőjének a cég bejegyzett székhelye szerinti bíróság előtt, a kényszertörlési eljárás jogerős lezárását követő kilencven napos jogvesztő határidőn belül indított keresetében a bíróság megállapítja, hogy a tag (részvényes) korlátlanul felel a cég ki nem elégített tartozásaiért, kivéve, ha bizonyítja, hogy a kényszertörlés 116. § (1) bekezdés a), c)–d) pontban foglaltak szerinti megindítása nem az ő mulasztásának következménye.
+
+(2) Ha a céget a cégbíróság a kényszertörlési eljárást követően törölte a cégjegyzékből, úgy, hogy a cég ki nem elégített tartozást hagyott hátra, a cég hitelezője kereseti kérelmében kérheti a bíróságtól annak megállapítását is, hogy a kényszertörlési eljárás megindulását megelőző három éven belül részesedését átruházó, többségi befolyással (Ptk. 685/B. §) rendelkező volt tag (részvényes) korlátlanul felel a cég ki nem elégített kötelezettségeiért, kivéve, ha a volt tag (részvényes) bizonyítja, hogy a vagyoni hányada átruházásának időpontjában a cég még fizetőképes volt, a vagyonvesztés csak ezt követően következett be, illetve a cég nem volt fizetőképes, de a tag (részvényes) az átruházás során jóhiszeműen járt el.
+
+(3) A kényszertörlési eljárás jogerős lezárását követő kilencven napos jogvesztő határidőn belül – ki nem elégített követelése erejéig – bármely hitelező keresettel kérheti a bíróságtól annak megállapítását, hogy azok, akik a cég vezető tisztségviselői voltak a kényszertörlés elrendelését megelőző három év időszakában, a fizetésképtelenséggel fenyegető helyzet bekövetkeztét követően ügyvezetési feladataikat nem a hitelezők érdekeinek elsődlegessége alapján látták el, és ezáltal csökkent a gazdálkodó szervezet vagyona, vagy meghiúsították a hitelezők követeléseinek kielégítését, vagy elmulasztották a környezeti terhek rendezését. E bekezdés alkalmazásában a cég vezető tisztségviselőjének minősül az a személy is, aki a cég döntéseinek meghozatalára ténylegesen meghatározó befolyást gyakorolt. Ha többen közösen okoztak kárt, felelősségük egyetemleges. A fizetésképtelenséggel fenyegető helyzet bekövetkezte az az időpont, amelytől kezdve a cég vezetői előre látták vagy ésszerűen előre láthatták, hogy a cég nem lesz képes esedékességkor kielégíteni a vele szemben fennálló követeléseket. A keresetben a hitelező kérheti, hogy a bíróság kötelezze a cég volt vezetőjét a kényszertörlési eljárásban bejelentett, de az eljárásban meg nem térült követelései kiegyenlítésére. Amennyiben több hitelező terjeszt elő keresetet, a bíróság a pereket egyesíti, és a követelések arányos kielégítéséről rendelkezik.
+
+(4) Mentesül a felelősség alól a (3) bekezdésben említett vezető tisztségviselő, ha bizonyítja, hogy a fizetésképtelenséggel fenyegető helyzet bekövetkeztét követően az adott helyzetben az ilyen tisztséget betöltő személytől elvárható valamennyi intézkedést megtette a hitelezői veszteségek elkerülése, csökkentése, továbbá a cég legfőbb szerve intézkedéseinek kezdeményezése érdekében. Amennyiben a vezető tisztségviselő a cég megszűntnek nyilvánítását megelőzően nem tett eleget az éves beszámoló letétbe helyezési és közzétételi kötelezettségének, vagy nem teljesíti a 98. § (3) bekezdés a), c)–d) pontja szerinti beszámoló- készítési, irat- és vagyonátadási, továbbá tájékoztatási kötelezettségét, a hitelezői érdekek sérelmét vélelmezni kell.
 
 ### IX. Fejezet — A VAGYONRENDEZÉSI ELJÁRÁS
 
@@ -1446,7 +1494,7 @@ megszüntetésére irányuló eljárás
 
 ### 3. CÍM — A vagyonrendező feladatai
 
-122. § (1) Az igények bejelentését követően a vagyonrendező a vagyontárgyat nyilvánosan meghirdetett pályázat vagy árverés útján – a Cstv. 49. §-a (1)–(3) bekezdésének megfelelő alkalmazásával – értékesíti, és az értékesítésből befolyt összeget az erre a célra nyitott elkülönített számláján helyezi el. Ingatlan vagy más nyilvántartásba bejegyzett vagyontárgy értékesítése esetében – annak ellenére, hogy a cég jogalanyisága már a törléssel megszűnt – az új tulajdonos tulajdonjogát kérelmére, a vagyonrendezési eljárás befejezését követően a bíróság határozata alapján a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásba be kell jegyezni.
+122. § (1) Az igények bejelentését követően a vagyonrendező a vagyontárgyat nyilvánosan meghirdetett pályázat vagy árverés útján – a felszámolási eljárás során alkalmazott nyilvános értékesítésre vonatkozó szabályok megfelelő alkalmazásával – értékesíti, és az értékesítésből befolyt összeget az erre a célra nyitott elkülönített számláján helyezi el. Ingatlan vagy más nyilvántartásba bejegyzett vagyontárgy értékesítése esetében – annak ellenére, hogy a cég jogalanyisága már a törléssel megszűnt – az új tulajdonos tulajdonjogát kérelmére, a vagyonrendezési eljárás befejezését követően a bíróság határozata alapján a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásba be kell jegyezni.
 
 (2) A vagyontárgy értékesítése kivételesen mellőzhető, ha az eljárásban résztvevők azt közösen kérik, valamint megelőlegezik, illetve megfizetik az eljárás lefolytatásával enélkül is felmerülő költségeket és a vagyonrendező díját. Az eljárásban résztvevőknek az erre vonatkozó megállapodásukat a vagyonrendezőnek az értékesítés megkezdése előtt be kell jelenteniük.
 
@@ -1517,37 +1565,39 @@ módosuló jogszabályok
 
 vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
-129. § (1) A 36. § (4a) bekezdésében foglalt adatok bejegyzését a tagok a cégjegyzékben vezetett adataik első változásakor kötelesek a cégbíróságnak benyújtani.
+129. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, a gazdasági társaságokról szóló 2006. évi IV. törvény, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi IV. törvény, továbbá az ezekkel összefüggő egyes törvények módosításáról szóló 2011. évi CXCVII. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően bejegyzett azon cégek, melyeknek cégneve vagy rövidített neve nem felel meg a 3. § (5) bekezdésben vagy a 4. § (3) bekezdésben foglalt előírásnak, a cégjegyzékben vezetett adataik első változásakor, ennek hiányában legkésőbb 2013. február 1. napjáig kötelesek cégnevük megváltoztatására.
 
-(2) Az e törvény 4. §-ának (3) bekezdésében foglalt rendelkezéseket csak azon cégek esetében kell alkalmazni, amelyekben az állam közvetlenül vagy szervezetei útján gyakorolt többségi befolyása (Ptk. 685/B. §) a törvény hatálybalépését követően szűnik meg vagy a cég a törvény hatálybalépését követően kerül ki a külön törvény szerinti tartós állami tulajdoni körből.
+(2) A Módtv. hatálybalépését megelőzően bejegyzett azon cégek, melyek a 7. § (4) bekezdése alapján nem csatoltak be a székhely-, telephely- és fióktelep használat jogcímét igazoló okiratot, a cégjegyzékben vezetett adataik első változásakor, ennek hiányában legkésőbb 2013. február 1. napjáig kötelesek azt a cégbíróságnak benyújtani.
 
-(3) Azok a cégek, amelyeknek a végelszámolása e törvény hatálybalépésének időpontjában már folyamatban van, a törvény hatálybalépésétől számított három éven belül a Cstv. 2006. július 1-jéig hatályos előírásai szerint kötelesek a végelszámolási eljárást befejezni. Azok a cégek, amelyeknek a végelszámolása a törvény hatálybalépésekor már több mint három éve folyamatban van, a végelszámolást a törvény hatálybalépésétől számított egy éven belül, a Cstv. 2006. július 1-jéig hatályos előírásai szerint kötelesek befejezni. Ennek hiányában abban az esetben, ha a végelszámolás a cég elhatározása alapján folyik, a cégbíróság elrendeli a cég kényszer-végelszámolását.
+(3) A cég képviseletére jogosultak adóazonosító jelének vagy adószámának bejegyzését, valamint a Módtv.-vel megállapított 24. § h) pontjában, 27. § (1) bekezdés a) pontjában, 27. § (2) bekezdés a)–b) pontjában, 27. § (3) bekezdés a) és e) pontjában, 27. § (4) bekezdés b) pont bc) alpontjában, 27. § (6) bekezdés a) pontjában, 31. § (2) bekezdésében, valamint a 36. § (4a) bekezdésében foglalt adatok bejegyzését a cégjegyzékben vezetett adataik első változásakor, ennek hiányában legkésőbb 2013. február 1. napjáig kötelesek a cégbíróságnak benyújtani.
 
-(4) A 20. § (1) bekezdésének hatálybalépéséig a Cégközlöny a 2007. október 1. napjáig hatályos formában jelenik meg.
+(4) Illeték és közzétételi költségtérítés megfizetése nélkül lehet bejelenteni a cégbíróságnak azt a változást, amely kizárólag a Módtv.-vel megállapított 7. § (4) bekezdésében és 31. § (2) bekezdésében foglalt okiratok benyújtására, vagy a tagok (tulajdonosok) és vezető tisztségviselők (képviselők) Módtv.-vel megállapított további azonosító adatainak, valamint a vezető tisztségviselők adóazonosító számának bejelentésére irányul.
 
-(5) Azok a korábban bejegyzett adatok, amelyeket e törvény hatálybalépését követően a cégjegyzék már nem tart nyilván, e törvény hatálybalépésének napjával az elektronikus cégnyilvántartásból hivatalból törlésre kerülnek.
+(5) A Módtv. hatálybalépése előtt ügyvédi székhelyszolgáltatással rendelkező cégek vonatkozásában az ügyvédekről szóló 1998. évi XI. törvény Módtv. hatálybalépése előtt hatályos 25/A. §-át kell alkalmazni.
 
-(6) A cégjegyzékbe már bejegyzett oktatói munkaközösségek e törvény hatálybalépését követő hat hónapon belül kötelesek a létesítő okiratuk módosítása útján közkereseti társaságként vagy korlátolt felelősségű társaságként történő nyilvántartásba vételüket kérni, vagy ennek hiányában a jogutód nélküli megszűnésről határozni és azt a cégbíróságnak bejelenteni. A határidő eredménytelen elteltét követően a cégbíróság a céget megszűntnek nyilvánítja. A végzés ellen jogorvoslatnak nincs helye.
+130. § (1) E törvénynek a Módtv.-vel megállapított rendelkezéseit – a (2)–(7) bekezdés szerinti kivételekkel – a hatálybalépést követően kezdeményezett eljárásokban kell alkalmazni.
 
-130. § (1) A törvénynek a cégbejegyzéssel (változásbejegyzéssel) kapcsolatos bírósági ügyintézési határidőkre vonatkozó rendelkezései – a 48. §-ban foglalt kivétellel – 2008. január 1-jén lépnek hatályba. A törvény hatálybalépésétől 2008. január 1. napjáig a bírósági ügyintézési határidőkre a (3)–(5) bekezdésben foglaltak az irányadók.
+(2) Amennyiben a Módtv. hatálybalépését megelőzően – végelszámolási eljárást követően– jogutód nélkül megszűnt cég közhiteles nyilvántartásban valamely vagyontárgyra vonatkozó jog (ide nem értve a tulajdonjogot) jogosultjaként van bejegyezve, vagy valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, ezek törlésére – az adott nyilvántartásra vonatkozó szabályoktól eltérően minden esetben – a vagyontárgy tulajdonosának kérelmére, a (3) vagy (7) bekezdés szerinti végzés csatolásával kerülhet sor. Ebben az esetben az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
 
-(2) A szerződésmintával alapított, illetve működő cégek esetében
+(3) A vagyontárgy tulajdonosa kérelmére, a (4)–(7) bekezdés szerinti nemperes eljárásban a jogutód nélkül megszűnt cég székhelye szerinti cégbíróság végzést hoz arról, hogy a jogutód nélküli megszűnéssel összefüggő vagyonfelosztási határozatban, illetve vagyonfelosztási javaslatban nem volt rendelkezés a jog vagy tény más javára történő átengedéséről.
 
-- a) a kérelem benyújtásától számított nyolc munkanapon belül kerülhet sor a kérelem hiánypótlási eljárás lefolytatása nélküli elutasítására,
-- b) a cég bejegyzésére irányuló kérelem esetén a hiánypótlásra felhívó végzés meghozatalára nyitva álló határidő a kérelem érkezésétől számított tíz munkanap,
-- c) a cég bejegyzésére irányuló kérelem érkezésétől számított tizenöt munkanapon belül dönteni kell a bejegyzésről vagy annak elutasításáról.
+(4) A nemperes eljárásra – ha e § eltérően nem rendelkezik – a Polgári perrendtartásról szóló törvény szabályait megfelelően alkalmazni kell, szünetelésnek azonban nincs helye.
 
-(3) A szerződésminta alkalmazása nélkül alapított, illetve működő cégek esetében
+(5) A kérelemnek tartalmaznia kell a jogutód nélkül megszűnt gazdálkodó szervezet azonosításához szükséges adatokat, valamint ahhoz csatolni kell a vagyontárgy tulajdonjogát igazoló okiratokat, továbbá azokat az egyéb okiratokat és határozatokat, amelyek a jog vagy tény bejegyzésével összefüggésben a kérelmező rendelkezésére állnak.
 
-- a) a kérelem benyújtásától számított nyolc munkanapon belül kerülhet sor a kérelem hiánypótlási eljárás lefolytatása nélküli elutasítására,
-- b) a cég bejegyzésére irányuló kérelem esetén a hiánypótlásra felhívó végzés meghozatalára nyitva álló határidő a kérelem érkezésétől számított húsz munkanap,
-- c) a cég bejegyzésére irányuló kérelem érkezésétől számított harminc munkanapon belül dönteni kell a bejegyzésről vagy annak elutasításáról.
+(6) Ha a legfőbb szerv által jóváhagyott vagyonfelosztási javaslat már nincs a bírósági irattárban, és az sem a végelszámolótól, sem a levéltártól nem szerezhető be, továbbá nem áll rendelkezésre más olyan okirat, amellyel hitelt érdemlő módon bizonyítható lenne annak ténye, hogy a (2) bekezdés szerinti jog vagy tény mást illet meg, a cégbíróság a Cégközlönyben a megszűnt cég, valamint a jog vagy tény megjelölését is tartalmazó végzést tesz közzé. A végzés felhívást tartalmaz arra, hogy akit a jog megillet, vagy akinek a tény feltüntetése az érdekében áll, ezt a közzétételtől számított harminc napos jogvesztő határidőn belül – az azt megalapozó okiratok csatolásával – jelentheti be a cégbíróságnál.
 
-(4) Mind a szerződéskötéssel, mind a szerződésminta alkalmazása nélkül alapított cég változásbejegyzése esetében a hiánypótlásra felhívó végzés meghozatalára nyitva álló határidő harmincöt munkanap, a változásbejegyzési kérelemben foglaltak bejegyzéséről vagy annak elutasításáról pedig a kérelem benyújtásától számított negyvenöt munkanapon belül kell dönteni.
+(7) Ha a (6) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a cégbíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő feljegyzéséhez érdek nem fűződik. Ellenkező esetben a cégbíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
 
-(5) A cégbíróság vezetője a (2)–(4) bekezdésben meghatározott, a cégbejegyzésre (változásbejegyzésre) vonatkozó ügyintézési határidők elmulasztása esetén a határidő lejártát követően nyolc munkanapon belül intézkedhet a bejegyzési (változásbejegyzési) kérelem elbírálásáról.
+131. § (1) Amennyiben a cég az állami adóhatósághoz főtevékenységének, illetve tevékenységi köreinek változását jelentette be, a cégbíróság az állami adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég főtevékenységét és további tevékenységi köreit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével. Az adat bejegyzése és közzététele automatikusan történik meg.
 
-131. § Az adóhatóságnak a 87. § (2) bekezdésében meghatározott tájékoztatási kötelezettségét a törvény hatálybalépésekor már bejegyzett cégek esetében 2006. november 30-ig kell teljesítenie.
+(2) Amennyiben a Módtv. hatálybalépését követően a cég főtevékenységének vagy további tevékenységi köreinek módosítására 2012. december 31-ig nem került sor, az állami adóhatóság 2013. január 31-ig a nyilvántartásában szereplő adatok alapján elektronikus úton közli, és a cégbíróság hivatalból jegyzi be a cég főtevékenységét és további tevékenységi köreit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével.
+
+131/A. § (1) A Módtv. hatálybalépésekor folyamatban lévő kényszer-végelszámolási eljárásokban és a 2006. július 1-jén folyamatban lévő, be nem fejezett végelszámolási eljárásokban a végelszámoló a Módtv. hatálybalépését követő 1 éven belül kezdeményezi a kényszertörlési eljárás megindítását. A végelszámoló a kérelemmel egyidejűleg tájékoztatja a cégbíróságot a kényszer-végelszámolási eljárás során megtett intézkedésekről, a cég vagyonára és követeléseire vonatkozó információkról, valamint az egyéb körülményekről.
+
+(2) A cégbíróság a kényszer-végelszámolási eljárást megszünteti, a végelszámoló díjának megfizetésére a vezető tisztségviselőt és a legalább többségi befolyással rendelkező tagot egyetemlegesen kötelezi. A cégbíróság ezzel egyidejűleg megindítja a kényszertörlési eljárást, azzal, hogy az együttműködési, valamint a 117. § (4) bekezdésben foglalt kötelezettség a végelszámolót is terheli. Szükség esetén a végelszámoló díját az állam a központi költségvetés terhére megelőlegezi.
+
+(3) Amennyiben a végelszámoló az (1) bekezdésben foglaltaknak határidőben nem tesz eleget, a cégbíróság hivatalból indítja meg a kényszertörlési eljárást.
 
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a gazdasági társaságokról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -1584,13 +1634,7 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (5)–(6)
 
-136. § (1) 2007. július 1. után közhasznú társaság már nem alapítható.
-
-(2) A 2007. július 1-jén a cégnyilvántartásba bejegyzett, vagy bejegyzés alatt álló közhasznú társaság 2009. június 30-ig a közhasznú társaságokra irányadó szabályok szerint működhet tovább.
-
-(3) 2007. július 1-jét követően a közhasznú társaság nonprofit gazdasági társaságként történő továbbműködésére, nonprofit gazdasági társasággá történő átalakulására, illetve megszűnésére a Gt. 365. §-a (3) bekezdésében foglalt szabályok irányadók.
-
-(4) 2009. július 1-jén a törvény 27. §-ának (7) bekezdése, 1. számú melléklete II. részének 8. pontja, valamint 2. számú melléklete II. részének 7. pontja a hatályát veszti.
+#### 136. §
 
 ### 1. számú melléklet a 2006. évi V. törvényhez
 
@@ -1598,7 +1642,9 @@ Azok a mellékletek, amelyeknek hiánya eseténa cégbejegyzési, illetve a vál
 
 I. Ha a bejegyzési kérelem tartalmára tekintettel kötelező, valamennyi cég bejegyzéséhez (változásbejegyzéséhez) szükséges okiratok:
 
-1. a) létesítő okirat, illetve a létesítő okirat módosítása,
+1. a kérelem formanyomtatványa
+
+2. a) létesítő okirat, illetve a létesítő okirat módosítása,
 
 b) a létesítő okirat – változásokkal egybefoglalt – hatályosított szövege;
 
@@ -1606,15 +1652,13 @@ c) változásbejegyzés esetén a legfőbb szervnek vagy a legfőbb szerv helyet
 
 d) változásbejegyzés esetén, ha a változás bírósági vagy hatósági határozaton alapul, az erre vonatkozó okirat.
 
-2. amennyiben törvény a cég alapítását hatósági engedélyhez köti, az alapítási engedély;
+3. amennyiben törvény a cég alapítását hatósági engedélyhez köti, az alapítási engedély;
 
-3. amennyiben a cég élt névfoglalással, a névfoglalást elrendelő végzés másolata;
+4. amennyiben a cég élt névfoglalással, a névfoglalást elrendelő végzés másolata;
 
-4.
+5. külföldi cég vagy más szervezet tagsága esetén a külföldi cég három hónapnál nem régebbi cégkivonata és annak hiteles magyar nyelvű fordítása, vagy annak hiteles fordításban történő igazolása, hogy a céget vagy más szervezetet a hazai joga szerint nyilvántartásba vették, illetve az az okirat, amelyből képviselőjének a képviseletre való jogosultsága megállapítható;
 
-5. ha külön jogszabály előírja, külföldi cég vagy más szervezet tagsága esetén a külföldi cég három hónapnál nem régebbi cégkivonata és annak magyar nyelvű hiteles fordítása, illetve annak hiteles fordításban történő igazolása, hogy a céget vagy más szervezetet a hazai joga szerint nyilvántartásba vették, illetve az az okirat, amelyből képviselőjének a képviseletre való jogosultsága megállapítható;
-
-6. kézbesítési megbízott megjelölése esetén a külföldi személy magyarországi kézbesítési megbízottjának a megbízására, illetve a megbízás elfogadására vonatkozó teljes bizonyító erejű magánokirat vagy közokirat;
+6. a külföldi személy magyarországi kézbesítési megbízottjának a megbízására, illetve a megbízás elfogadására vonatkozó teljes bizonyító erejű magánokirat vagy közokirat;
 
 7. a) a vezető tisztségviselők, felügyelőbizottsági (ellenőrző bizottsági) tagok, a könyvvizsgáló, illetve a szövetkezet, az erdőbirtokossági társulat, a vízgazdálkodási társulat tisztségviselőinek a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata, a közkereseti társaság és a betéti társaság vezető tisztségviselőinek kivételével, ha a képviseletet valamennyi tag ellátja,
 
@@ -1628,11 +1672,19 @@ d) a vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem á
 
 9. ingatlan nem pénzbeli hozzájárulásként történő szolgáltatása esetén az ingatlan – három hónapnál nem régebbi – tulajdoni lapja, melyből az ingatlannal való rendelkezés jogcíme legalább széljegy formájában megállapítható; a tulajdoni lapon a következő bejegyzésre váró széljegy jogosultjaként csak a nem pénzbeli hozzájárulást szolgáltató személy vagy szervezet szerepelhet;
 
-10. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása, kivéve, ha a jogi képviselő nyilatkozott, hogy az illeték és a közzétételi költségtérítés átutalásra került;
+10. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása;
 
 11. a jogi képviselő meghatalmazása, illetve képviseleti jogának igazolása;
 
 12. az adószám megállapításához szükséges, az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozat [az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése].
+
+13.
+
+a) a székhelyhasználat jogcímét igazoló legalább teljes bizonyító erejű magánokirat
+
+b) a telephely(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat
+
+c) fióktelep(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat
 
 II. Ha a bejegyzési (változásbejegyzési) kérelem tartalmára tekintettel kötelező, az egyes cégformák bejegyzéséhez (változásbejegyzéséhez) szükséges további okiratok:
 
@@ -1817,6 +1869,8 @@ c) az uralkodó tag nyilatkozata arról, hogy az arra jogosult hitelezőknek biz
 d) az elismert vállalatcsoportban részt vevő társaságok legfőbb szervének határozatai az elismert vállalatcsoport létrehozásáról, illetve megszüntetéséről;
 
 10. a közhasznú jogállás megszerzését, illetve megszűnését tanúsító okirat.
+
+11. a 61/B. § szerinti tagváltozás bejegyzése iránti eljárás során, a 61/B. § (2) bekezdésében foglaltak fennállása esetén a részesedés átruházás napjával mint fordulónappal elkészített, könyvvizsgáló által hitelesített vagyonmérleg benyújtásának igazolása.
 
 II. Ha a bejegyzési (változásbejegyzési) kérelem tartalmára tekintettel kötelező, az egyes cégformák bejegyzéséhez (változásbejegyzéséhez) szükséges további okiratok:
 
@@ -2004,21 +2058,15 @@ I. A cégbejegyzéshez szükséges, a bejegyzési kérelemhez csatolandó okirat
 
 3. a jogi képviselő meghatalmazása, illetve képviseleti jogának igazolása;
 
-4. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása, kivéve, ha a jogi képviselő nyilatkozott, hogy az illeték és a közzétételi költségtérítés átutalásra került;
+4. a jogszabályban meghatározott mértékű illeték és közzétételi költségtérítés megfizetésének igazolása;
 
-5. a korlátolt felelősségű társaság esetében a tagjegyzék, közös tulajdonú törzsbetét esetében a résztulajdonosok és a képviselőjük feltüntetésével;
+5. a vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem áll a Gt. 23. §-ában foglalt eltiltás hatálya alatt.
 
-6. amennyiben törvény a cég alapítását hatósági engedélyhez köti, az alapítási engedély;
-
-7. változásbejegyzés esetén a legfőbb szervnek vagy a legfőbb szerv helyett eljáró, döntésre jogosult szervnek a változás alapjául szolgáló határozata, továbbá, ha a változás bírósági vagy hatósági határozaton alapul, az erre vonatkozó okirat.
-
-8. A vezető tisztségviselő és a cégvezető nyilatkozata arról, hogy nem áll a Gt. 23. §-ában foglalt eltiltás hatálya alatt.
-
-II. Ha a bejegyzési kérelem tartalmára tekintettel szükséges, egyéb, a jogi képviselő által megvizsgálásra kerülő okiratok:
+II. Ha a bejegyzési kérelem tartalmára tekintettel szükséges, egyéb benyújtandó okiratok:
 
 1. amennyiben a cég élt névfoglalással, a névfoglalást elrendelő végzés másolata;
 
-2. a) a vezető tisztségviselőknek, a felügyelőbizottsági tagoknak, a könyvvizsgálónak, a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata, a közkereseti társaság és a betéti társaság vezető tisztségviselőinek kivételével, ha a képviseletet valamennyi tag ellátja,
+2. a) a vezető tisztségviselőknek, a könyvvizsgálónak a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata, a közkereseti társaság és a betéti társaság vezető tisztségviselőinek kivételével, ha a képviseletet valamennyi tag ellátja,
 
 b) az a) pontban említettek megválasztásának időtartamát tartalmazó okirat;
 
@@ -2026,13 +2074,39 @@ b) az a) pontban említettek megválasztásának időtartamát tartalmazó okira
 
 4. ingatlan nem pénzbeli hozzájárulásként történő szolgáltatása esetén az ingatlan – három hónapnál nem régebbi – tulajdoni lapja, melyből az ingatlannal való rendelkezés jogcíme legalább széljegy formájában megállapítható; a tulajdoni lapon a következő bejegyzésre váró széljegy jogosultjaként csak a nem pénzbeli hozzájárulást szolgáltató személy vagy szervezet szerepelhet;
 
-5. a korlátolt felelősségű társaság esetén:
+5. külföldi cég vagy más szervezet tagsága esetén a külföldi cég három hónapnál nem régebbi cégkivonata és annak magyar nyelvű hiteles fordítása, illetve annak hiteles fordításban történő igazolása, hogy a céget vagy más szervezetet a hazai joga szerint nyilvántartásba vették, illetve az az okirat, amelyből képviselőjének a képviseletre való jogosultsága megállapítható;
 
-a) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
+6. a külföldi személy magyarországi kézbesítési megbízottjának a megbízására, illetve a megbízás elfogadására vonatkozó teljes bizonyító erejű magánokirat;
 
-b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
+7. ha a cég elnevezésében történelmi személyiség neve szerepel, vagy a cégnévhez másnak jogi érdeke fűződik, a Ctv. 4. §-ának (4) bekezdésében meghatározott személy vagy szervezet hozzájárulását tartalmazó okirat;
 
-6. a zártkörűen működő részvénytársaság esetén:
+8. társadalmi szervezet tagról vezetett nyilvántartás adatait tartalmazó három hónapnál nem régebbi kivonat;
+
+9. önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
+
+10. ha a nem pénzbeli hozzájárulás szolgáltatásához hatóság, illetve harmadik személy hozzájárulása (engedélye) szükséges, ez az okirat;
+
+11. a kiskorú tag képviseletére vonatkozó gyámhivatali határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
+
+12.
+
+a) a székhelyhasználat jogcímét igazoló legalább teljes bizonyító erejű magánokirat,
+
+b) a telephely(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat,
+
+c) fióktelep(ek) használatának jogcímét igazoló legalább teljes bizonyító erejű magánokirat;
+
+13. amennyiben törvény a cég alapítását hatósági engedélyhez köti, az alapítási engedély;
+
+14. a korlátolt felelősségű társaság esetén:
+
+a) a tagjegyzék, közös tulajdonú törzsbetét esetében a résztulajdonosok és a képviselőjük feltüntetésével;
+
+b) pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
+
+c) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
+
+15. a zártkörűen működő részvénytársaság esetén:
 
 a) a közgyűlés összehívására vonatkozó meghívó (hirdetmény) és a jelenléti ív,
 
@@ -2042,27 +2116,11 @@ c) a pénzforgalmi szolgáltató igazolása a pénzbeli hozzájárulás befizet�
 
 d) vezető tisztségviselői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
 
-7. ha külön jogszabály előírja, külföldi cég vagy más szervezet tagsága esetén a külföldi cég három hónapnál nem régebbi cégkivonata és annak magyar nyelvű hiteles fordítása, illetve annak hiteles fordításban történő igazolása, hogy a céget vagy más szervezetet a hazai joga szerint nyilvántartásba vették, illetve az az okirat, amelyből képviselőjének a képviseletre való jogosultsága megállapítható;
-
-8. kézbesítési megbízott megjelölése esetén a külföldi személy magyarországi kézbesítési megbízottjának a megbízására, illetve a megbízás elfogadására vonatkozó teljes bizonyító erejű magánokirat;
-
-9. ha a cég elnevezésében történelmi személyiség neve szerepel, vagy a cégnévhez másnak jogi érdeke fűződik, a Ctv. 4. §-ának (4) bekezdésében meghatározott személy vagy szervezet hozzájárulását tartalmazó okirat;
-
-10. egyesület tagról vezetett nyilvántartás adatait tartalmazó három hónapnál nem régebbi kivonat;
-
-11. önkormányzat tag esetén a képviselő-testület erre vonatkozó döntését tartalmazó okirat;
-
-12. ha a nem pénzbeli hozzájárulás szolgáltatásához hatóság, illetve harmadik személy hozzájárulása (engedélye) szükséges, ez az okirat;
-
-13. a kiskorú tag képviseletére vonatkozó gyámhivatali határozat, ha a szülő nem láthatja el a kiskorú képviseletét;
-
-14. változásbejegyzés esetén mindazon további okirat, amelyet az 1. és 2. számú mellékletek a változásbejegyzési kérelem tartalmára, illetve a cégformára nézve előírnak.
-
-15. az egyéni cég esetén
+16. az egyéni cég esetén
 
 a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről vagy ügyvéd által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
 
-b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról;
+b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról.”
 
 ### 4. számú melléklet a 2006. évi V. törvényhez
 
@@ -2104,41 +2162,29 @@ b) nem azonos a központi ügyintézés helyével:
 
 2. A társaság tagjai
 
-2.1. Név:
+1M40584M_0
 
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
-
-2.2. Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
+| 2.1. | Név:1 |
+| --- | --- |
+|  | Születési hely és idő: |
+|  | Anyja születési neve: |
+|  | Lakcím: |
+|  | Cégnév (név):2 |
+|  | Cégjegyzékszám (nyilvántartási szám):3 |
+|  | Székhely: |
+|  | Képviseletre jogosult neve: |
+|  | Anyja születési neve: |
+|  | Lakcím: |
+| 2.2.7 | Név:1 |
+|  | Születési hely és idő: |
+|  | Anyja születési neve: |
+|  | Lakcím: |
+|  | Cégnév (név):2 |
+|  | Cégjegyzékszám (nyilvántartási szám): 3 |
+|  | Székhely: |
+|  | Képviseletre jogosult neve: |
+|  | Anyja születési neve: |
+|  | Lakcím: |
 
 3. A társaság tevékenységi köre(i)16/a
 
@@ -2280,67 +2326,46 @@ Név (Cégnév):
 
 szavazat száma:
 
-10. Az üzletvezetés és képviselet
+1M40584M_1
 
-A társaság üzletvezetésére és képviseletére
-
-a) a 2. pontban megjelölt minden tag időbeli korlátozás nélkül jogosult,
-
-A jogviszony kezdete:
-
-b) az alábbi tag(ok) időbeli korlátozás nélkül jogosult(ak):
-
-Név:
-
-A jogi személy tag által kijelölt természetes személy:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A jogviszony kezdete:
-
-c) a 2. pontban megjelölt minden tag határozott ideig jogosult
-
-A jogviszony kezdete:
-
-A jogviszony vége:
-
-d) az alábbi tag(ok) határozott ideig jogosult(ak):,
-
-Név:
-
-A jogi személy tag által kijelölt természetes személy:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A jogviszony kezdete:
-
-A jogviszony vége:
-
-11. Cégvezető
-
-11.1. A társaságnál cégvezető kinevezésére
-
-a) sor kerülhet.
-
-b) nem kerülhet sor.
-
-11.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Kinevezés kezdő időpontja:
+| 10. Az üzletvezetés és képviselet |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  | A társaság üzletvezetésére és képviseletére |
+|  |  | a) a 2. pontban megjelölt minden tag időbeli korlátozás nélkül jogosult, |
+|  |  | A jogviszony kezdete: |
+|  |  | b) az alábbi tag(ok) időbeli korlátozás nélkül jogosult(ak):4 |
+|  |  | Név: |
+|  |  | A jogi személy tag által kijelölt természetes személy:5 |
+|  |  | Név |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve |
+|  |  | Lakcím |
+|  |  | A jogviszony kezdete |
+|  |  | c) a 2. pontban megjelölt minden tag határozott ideig jogosult6 |
+|  |  | A jogviszony kezdete |
+|  |  | A jogviszony vége: |
+|  |  | d) az alábbi tag(ok) határozott ideig jogosult(ak):6 4 |
+|  |  | Név:10 |
+|  |  | A jogi személy tag által kijelölt természetes személy:5 |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | A jogviszony kezdete: |
+|  |  | A jogviszony vége: |
+|  |  |  |
+| 11. Cégvezető |  |  |
+|  |  |  |
+| 11.1. | A társaságnál cégvezető kinevezésére8 |  |
+| a) sor kerülhet. |  |  |
+| b) nem kerülhet sor. |  |  |
+| 11.2.9 | Cégvezetőnek kinevezett munkavállaló(k): |  |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | Kinevezés kezdő időpontja: |
 
 12. Cégjegyzés
 
@@ -2374,7 +2399,7 @@ együttesen jogosultak cégjegyzésre.
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -2390,13 +2415,13 @@ A könyvvizsgálat elvégzéséért személyében felelős természetes személy
 
 Kamarai nyilvántartási száma:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
 Helyettes könyvvizsgáló neve:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -2476,81 +2501,53 @@ b) nem azonos a központi ügyintézés helyével:
 
 1.6. A cég e-mail elérhetősége:
 
-2. A társaság beltagja(i)
+1M40584N_0
 
-2.1. Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
-
-2.2. Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
-
-3. A társaság kültagja(i)
-
-3.1. Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
-
-3.2. Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
+| 2. A társaság beltagja(i) |  |  |  |
+| --- | --- | --- | --- |
+|  | 2.1. | Név:1 |  |
+|  | Születési hely és idő: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | Cégnév (név):2 |  |  |
+|  | Cégjegyzékszám (nyilvántartási szám):3 |  |  |
+|  | Székhely: |  |  |
+|  | Képviseletre jogosult neve: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | 2.2.7 |  | Név: 1 |
+|  | Születési hely és idő: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | Cégnév (név): 2 |  |  |
+|  | Cégjegyzékszám (nyilvántartási szám):3 |  |  |
+|  | Székhely: |  |  |
+|  | Képviseletre jogosult neve: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  |  |  |  |
+| 3. A társaság kültagja(i) |  |  |  |
+|  |  |  |  |
+|  | 3.1. |  | Név: 1 |
+|  | Születési hely és idő: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | Cégnév (név):2 |  |  |
+|  | Cégjegyzékszám (nyilvántartási szám):3 |  |  |
+|  | Székhely: |  |  |
+|  | Képviseletre jogosult neve: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | 3.2.7 | Név: 1 |  |
+|  | Születési hely és idő: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | Cégnév (név): 2 |  |  |
+|  | Cégjegyzékszám (nyilvántartási szám): 3 |  |  |
+|  | Székhely: |  |  |
+|  | Képviseletre jogosult neve: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
 
 4. A társaság tevékenységi köre(i)23/a
 
@@ -2690,81 +2687,54 @@ Név:
 
 szavazat száma:
 
-11. Az üzletvezetés és képviselet
+1M40584N_1
 
-A társaság üzletvezetésére és képviseletére
-
-a) a 2. pontban megjelölt minden beltag időbeli korlátozás nélkül jogosult,
-
-A jogviszony kezdete:
-
-b) az alábbi beltag(ok) és/vagy kültag(ok) időbeli korlátozás nélkül jogosult(ak):
-
-Név:
-
-A jogi személy tag által kijelölt természetes személy:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A jogviszony kezdete:
-
-c) a 2. pontban megjelölt minden beltag határozott ideig jogosult,
-
-A jogviszony kezdete:
-
-A jogviszony vége:
-
-d) az alábbi beltag(ok) és/vagy kültag(ok) határozott ideig jogosult(ak):
-
-Név:
-
-A jogi személy tag által kijelölt természetes személy:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A jogviszony kezdete:
-
-A jogviszony vége:
-
-e) az alábbi, egyetlen üzletvezetésre és képviseletre jogosult tag, időbeli korlátozás nélkül jogosult:
-
-Név:
-
-A jogi személy tag által kijelölt természetes személy:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A jogviszony kezdete:
-
-12. Cégvezető
-
-12.1. A társaságnál cégvezető kinevezésére
-
-a) sor kerülhet.
-
-b) nem kerülhet sor.
-
-12.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Kinevezés kezdő időpontja:
+| 11. Az üzletvezetés és képviselet |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  | A társaság üzletvezetésére és képviseletére |
+|  |  | a) a 2. pontban megjelölt minden beltag időbeli korlátozás nélkül jogosult, |
+|  |  | A jogviszony kezdete: |
+|  |  | b) az alábbi beltag(ok) és/vagy kültag(ok) időbeli korlátozás nélkül jogosult(ak):4 |
+|  |  | Név:10 |
+|  |  | A jogi személy tag által kijelölt természetes személy:5 |
+|  |  | Név |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve |
+|  |  | Lakcím |
+|  |  | A jogviszony kezdete |
+|  |  | c) a 2. pontban megjelölt minden beltag határozott ideig jogosult, 6 |
+|  |  | A jogviszony kezdete |
+|  |  | A jogviszony vége: |
+|  |  | d) az alábbi beltag(ok) és/vagy kültag(ok) határozott ideig jogosult(ak): 6 4 |
+|  |  | Név: 10 |
+|  |  | A jogi személy tag által kijelölt természetes személy:5 |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | A jogviszony kezdete: |
+|  |  | A jogviszony vége: |
+|  |  | e) az alábbi, egyetlen üzletvezetésre és képviseletre jogosult tag, időbeli korlátozás nélkül jogosult: |
+|  |  | Név: |
+|  |  | A jogi személy tag által kijelölt természetes személy: 5 |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | A jogviszony kezdete: |
+|  |  |  |
+| 12. Cégvezető |  |  |
+|  |  |  |
+| 12.1. | A társaságnál cégvezető kinevezésére8 |  |
+| a) sor kerülhet. |  |  |
+| b) nem kerülhet sor. |  |  |
+| 12.2. 9 | Cégvezetőnek kinevezett munkavállaló(k): |  |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | Kinevezés kezdő időpontja: |
 
 13. Cégjegyzés
 
@@ -2798,7 +2768,7 @@ A társaság könyvvizsgálója:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -2814,13 +2784,13 @@ A könyvvizsgálat elvégzéséért személyében felelős természetes személy
 
 Kamarai nyilvántartási száma:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
 Helyettes könyvvizsgáló neve:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -2900,43 +2870,30 @@ b) nem azonos a központi ügyintézés helyével:
 
 1.6. A cég e-mail elérhetősége:
 
-2. A társaság tagjai
+1M40584O_0
 
-2.1. Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
-
-2.2. Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
+| 2. A társaság tagjai |  |  |  |
+| --- | --- | --- | --- |
+|  | 2.1. | Név:1 |  |
+|  | Születési hely és idő: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | Cégnév (név):2 |  |  |
+|  | Cégjegyzékszám (nyilvántartási szám):3 |  |  |
+|  | Székhely: |  |  |
+|  | Képviseletre jogosult neve: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | 2.2.7 |  | Név: 1 |
+|  | Születési hely és idő: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | Cégnév (név):2 |  |  |
+|  | Cégjegyzékszám (nyilvántartási szám):3 |  |  |
+|  | Székhely: |  |  |
+|  | Képviseletre jogosult neve: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
 
 3. A társaság tevékenységi köre(i)16/a
 
@@ -3192,47 +3149,35 @@ b) kizárják.
 
 12.6. A taggyűlést az ügyvezető hívja össze.
 
-13. Az ügyvezető
+1M40584O_1
 
-13.1. A társaság ügyvezetője:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Az ügyvezetői megbízatás
-
-a) határozott időre,
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-13.2. Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek).
-
-14. Cégvezető
-
-14.1. A társaságnál cégvezető kinevezésére
-
-a) sor kerülhet.
-
-b) nem kerülhet sor.
-
-14.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Kinevezés kezdő időpontja:
+| 13. Az ügyvezető |  |  |
+| --- | --- | --- |
+|  |  |  |
+| 13.1. | A társaság ügyvezetője: |  |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | Az ügyvezetői megbízatás8 |
+|  |  | a) határozott időre,6 |
+|  |  | b) határozatlan időre |
+|  |  | szól. |
+|  |  | A megbízatás kezdő időpontja: |
+|  |  | A megbízatás lejárta:11 |
+| 13.2. | Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek). |  |
+|  |  |  |
+| 14. Cégvezető |  |  |
+|  |  |  |
+| 14.1. | A társaságnál cégvezető kinevezésére8 |  |
+| a) sor kerülhet. |  |  |
+| b) nem kerülhet sor. |  |  |
+| 14.2.12 | Cégvezetőnek kinevezett munkavállaló(k): |  |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | Kinevezés kezdő időpontja: |
 
 15. Cégjegyzés
 
@@ -3272,7 +3217,7 @@ b) nem kerül sor.
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -3292,7 +3237,7 @@ A megbízatás lejárta:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -3310,7 +3255,7 @@ A megbízatás lejárta:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -3332,7 +3277,7 @@ A társaság könyvvizsgálója:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -3348,13 +3293,13 @@ A könyvvizsgálat elvégzéséért személyében felelős természetes személy
 
 Kamarai nyilvántartási száma:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
 Helyettes könyvvizsgáló neve:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -3426,25 +3371,20 @@ b) nem azonos a központi ügyintézés helyével:
 
 1.6. A cég e-mail elérhetősége:
 
-2. A társaság alapítója
+1M40584P_0
 
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
+| 2. A társaság alapítója |  |
+| --- | --- |
+|  | Név:1 |
+|  | Születési hely és idő: |
+|  | Anyja születési neve: |
+|  | Lakcím: |
+|  | Cégnév (név):2 |
+|  | Cégjegyzékszám (nyilvántartási szám):3 |
+|  | Székhely: |
+|  | Képviseletre jogosult neve: |
+|  | Anyja születési neve: |
+|  | Lakcím: |
 
 3. A társaság tevékenységi köre(i)12/a
 
@@ -3538,47 +3478,35 @@ A tagot a társaságnak a Gt. 131. § (1) bekezdése szerint felosztható és fe
 
 10.2. Az alapító kizárólagos hatáskörébe tartoznak mindazok a kérdések, amelyeket a törvény a taggyűlés kizárólagos hatáskörébe utal.
 
-11. Az ügyvezető
+1M40584P_1
 
-11.1. A társaság ügyvezetője:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A megbízatás
-
-a) határozott időre
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-11.2. Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek).
-
-12. Cégvezető
-
-12.1. A társaságnál cégvezető kinevezésére
-
-a) sor kerülhet.
-
-b) nem kerülhet sor.
-
-12.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Kinevezés kezdő időpontja:
+| 11. Az ügyvezető |  |  |
+| --- | --- | --- |
+|  |  |  |
+| 13.1. | A társaság ügyvezetője: |  |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | Az ügyvezetői megbízatás8 |
+|  |  | a) határozott időre,6 |
+|  |  | b) határozatlan időre |
+|  |  | szól. |
+|  |  | A megbízatás kezdő időpontja: |
+|  |  | A megbízatás lejárta:15 |
+| 13.2. | Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek). |  |
+|  |  |  |
+| 12. Cégvezető |  |  |
+|  |  |  |
+| 14.1. | A társaságnál cégvezető kinevezésére8 |  |
+| a) sor kerülhet. |  |  |
+| b) nem kerülhet sor. |  |  |
+| 14.2.12 | Cégvezetőnek kinevezett munkavállaló(k): |  |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | Kinevezés kezdő időpontja: |
 
 13. Cégjegyzés
 
@@ -3618,7 +3546,7 @@ b) nem kerül sor.
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -3638,7 +3566,7 @@ A megbízatás lejárta:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -3656,7 +3584,7 @@ A megbízatás lejárta:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -3678,7 +3606,7 @@ A társaság könyvvizsgálója:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -3694,13 +3622,13 @@ A könyvvizsgálat elvégzéséért személyében felelős természetes személy
 
 Kamarai nyilvántartási száma:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
 Helyettes könyvvizsgáló neve:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -3768,43 +3696,31 @@ b) nem azonos a központi ügyintézés helyével:
 
 1.6. A cég e-mail elérhetősége:
 
-2. A társaság alapítói (részvényesei)
+1M40584Q_0
 
-2.1. Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
-
-2.2. Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
+| 2. A társaság alapítói (részvényesei) |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  | 2.1. | Név:1 |  |
+|  | Születési hely és idő: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | Cégnév (név):2 |  |  |
+|  | Cégjegyzékszám (nyilvántartási szám):3 |  |  |
+|  | Székhely: |  |  |
+|  | Képviseletre jogosult neve: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | 2.2.13 |  | Név: 1 |
+|  | Születési hely és idő: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
+|  | Cégnév (név):2 |  |  |
+|  | Cégjegyzékszám (nyilvántartási szám):3 |  |  |
+|  | Székhely: |  |  |
+|  | Képviseletre jogosult neve: |  |  |
+|  | Anyja születési neve: |  |  |
+|  | Lakcím: |  |  |
 
 3. A társaság tevékenységi köre(i)16/a
 
@@ -4002,121 +3918,75 @@ b) kizárják.
 
 9.10. A közgyűlés határozatait, amennyiben a törvény másként nem rendelkezik, a szavazati joggal jelenlévők egyszerű többségével hozza meg.
 
-10. Az igazgatóság, a vezérigazgató
+1M40584Q_1
 
-10.1. A társaságnál
-
-a) igazgatóság működik.
-
-b) igazgatóság kinevezésére nem kerül sor, az igazgatóság jogait vezérigazgató gyakorolja.
-
-10.2. Az igazgatóság elnökét a közgyűlés választja. Az igazgatóság elnöke:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A megbízatás
-
-a) határozott időre,
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-10.3. Az igazgatóság tagjai:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A megbízatás
-
-a) határozott időre,
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A megbízatás
-
-a) határozott időre,
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-10.4. Az igazgatóság fizetőképességi nyilatkozat tételére
-
-a) köteles.
-
-b) nem köteles.
-
-10.5. A vezérigazgató:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A megbízatás
-
-a) határozott időre,
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-10.6. A vezérigazgató fizetőképességi nyilatkozat tételére
-
-a) köteles.
-
-b) nem köteles.
-
-11. Cégvezető
-
-11.1. A társaságnál cégvezető kinevezésére
-
-a) sor kerülhet.
-
-b) nem kerülhet sor.
-
-11.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Kinevezés kezdő időpontja:
+| 10. Az igazgatóság, a vezérigazgató |  |  |
+| --- | --- | --- |
+|  |  |  |
+| 10.1. | A társaságnál8 |  |
+| a) igazgatóság működik. |  |  |
+| b) igazgatóság kinevezésére nem kerül sor, az igazgatóság jogait vezérigazgató gyakorolja. |  |  |
+| 10.2.14 | Az igazgatóság elnökét a közgyűlés választja. Az igazgatóság elnöke: |  |
+|  |  | Név |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | A megbízatás8 |
+|  |  | a) határozott időre,6 |
+|  |  | b) határozatlan időre |
+|  |  | szól. |
+|  |  | A megbízatás kezdő időpontja: |
+|  |  | A megbízatás lejárta:15 |
+| 10.3.16 | Az igazgatóság tagjai: |  |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | A megbízatás8 |
+|  |  | a) határozott időre,6 |
+|  |  | b) határozatlan időre |
+|  |  | szól. |
+|  |  | A megbízatás kezdő időpontja: |
+|  |  | A megbízatás lejárta: 15 |
+|  |  | Név |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | A megbízatás8 |
+|  |  | a) határozott időre,6 |
+|  |  | b) határozatlan időre |
+|  |  | szól. |
+|  |  | A megbízatás kezdő időpontja: |
+|  |  | A megbízatás lejárta: 15 |
+| 10.4.16 | Az igazgatóság fizetőképességi nyilatkozat tételére8 |  |
+| a) köteles. |  |  |
+| b) nem köteles. |  |  |
+| 10.5.17 | A vezérigazgató: |  |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | A megbízatás8 |
+|  |  | a) határozott időre,6 |
+|  |  | b) határozatlan időre |
+|  |  | szól. |
+|  |  | A megbízatás kezdő időpontja: |
+|  |  | A megbízatás lejárta: 15 |
+| 10.6.16 | A vezérigazgató fizetőképességi nyilatkozat tételére |  |
+| a) köteles. |  |  |
+| b) nem köteles. |  |  |
+|  |  |  |
+| 11. Cégvezető |  |  |
+|  |  |  |
+| 11.1. | A társaságnál cégvezető kinevezésére8 |  |
+| a) sor kerülhet. |  |  |
+| b) nem kerülhet sor. |  |  |
+| 11.2.18 | Cégvezetőnek kinevezett munkavállaló(k): |  |
+|  |  | Név: |
+|  |  | Születési hely és idő: |
+|  |  | Anyja születési neve: |
+|  |  | Lakcím: |
+|  |  | Kinevezés kezdő időpontja: |
 
 12. Cégjegyzés
 
@@ -4156,7 +4026,7 @@ b) nem kerül sor.
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4176,7 +4046,7 @@ A megbízatás lejárta:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4194,7 +4064,7 @@ A megbízatás lejárta:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4216,7 +4086,7 @@ A társaság könyvvizsgálója:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4232,13 +4102,13 @@ A könyvvizsgálat elvégzéséért személyében felelős természetes személy
 
 Kamarai nyilvántartási száma:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
 Helyettes könyvvizsgáló neve:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4308,25 +4178,20 @@ b) nem azonos a központi ügyintézés helyével:
 
 1.6. A cég e-mail elérhetősége:
 
-2. A társaság alapítója (részvényese)
+1M40584R_0
 
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Cégnév (név):
-
-Cégjegyzékszám (nyilvántartási szám):
-
-Székhely:
-
-Képviseletre jogosult neve:
-
-Anyja neve:
-
-Lakcím:
+| 2. A társaság alapítója (részvényese) |  |
+| --- | --- |
+|  | Név:19 |
+|  | Születési hely és idő: |
+|  | Anyja születési neve: |
+|  | Lakcím: |
+|  | Cégnév (név):2 |
+|  | Cégjegyzékszám (nyilvántartási szám):3 |
+|  | Székhely: |
+|  | Képviseletre jogosult neve: |
+|  | Anyja születési neve: |
+|  | Lakcím: |
 
 3. A társaság tevékenységi köre(i)12/a
 
@@ -4438,121 +4303,75 @@ Az alapítót (részvényest) a részvénytársaságnak a Gt. 219. § (1) bekezd
 
 A közgyűlés hatáskörébe tartozó ügyekben az alapító (részvényes) írásban dönt, amelyről a vezető tisztségviselő(ke)t értesíteni köteles.
 
-8. Az igazgatóság, a vezérigazgató
+1M40584R_1
 
-8.1. A társaságnál
-
-a) igazgatóság működik.
-
-b) igazgatóság kinevezésére nem kerül sor, az igazgatóság jogait vezérigazgató gyakorolja.
-
-8.2. Az igazgatóság elnökét az alapító választja. Az igazgatóság elnöke:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A megbízatás
-
-a) határozott időre,
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-8.3. Az igazgatóság tagjai:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A megbízatás
-
-a) határozott időre,
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A megbízatás
-
-a) határozott időre,
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-8.4. Az igazgatóság fizetőképességi nyilatkozat tételére
-
-a) köteles.
-
-b) nem köteles.
-
-8.5. A vezérigazgató:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A megbízatás
-
-a) határozott időre,
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-8.6. A vezérigazgató fizetőképességi nyilatkozat tételére
-
-a) köteles.
-
-b) nem köteles.
-
-9. Cégvezető
-
-9.1. A társaságnál cégvezető választására
-
-a) sor kerülhet.
-
-b) nem kerülhet sor.
-
-9.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Kinevezés kezdő időpontja:
+| 8. Az igazgatóság, a vezérigazgató |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  | 8.1. | A társaságnál8 |
+|  | a) igazgatóság működik. |  |
+|  | b) igazgatóság kinevezésére nem kerül sor, az igazgatóság jogait vezérigazgató gyakorolja. |  |
+|  | 8.2.20 | Az igazgatóság elnökét a közgyűlés választja. Az igazgatóság elnöke: |
+|  | Név: |  |
+|  | Születési hely és idő: |  |
+|  | Anyja születési neve: |  |
+|  | Lakcím: |  |
+|  | A megbízatás8 |  |
+|  | a) határozott időre,6 |  |
+|  | b) határozatlan időre |  |
+|  | szól. |  |
+|  | A megbízatás kezdő időpontja: |  |
+|  | A megbízatás lejárta:15 |  |
+|  | 8.3. 21 | Az igazgatóság tagjai: |
+|  | Név: |  |
+|  | Születési hely és idő: |  |
+|  | Anyja születési neve: |  |
+|  | Lakcím: |  |
+|  | A megbízatás8 |  |
+|  | a) határozott időre,6 |  |
+|  | b) határozatlan időre |  |
+|  | szól. |  |
+|  | A megbízatás kezdő időpontja: |  |
+|  | A megbízatás lejárta:15 |  |
+|  | Név: |  |
+|  | Születési hely és idő: |  |
+|  | Anyja születési neve: |  |
+|  | Lakcím: |  |
+|  | A megbízatás8 |  |
+|  | a) határozott időre,6 |  |
+|  | b) határozatlan időre |  |
+|  | szól. |  |
+|  | A megbízatás kezdő időpontja: |  |
+|  | A megbízatás lejárta:15 |  |
+|  | 8.4.16 | Az igazgatóság fizetőképességi nyilatkozat tételére8 |
+|  | a) köteles. |  |
+|  | b) nem köteles. |  |
+|  | 8.5.17 | A vezérigazgató: |
+|  | Név: |  |
+|  | Születési hely és idő: |  |
+|  | Anyja születési neve: |  |
+|  | Lakcím: |  |
+|  | A megbízatás8 |  |
+|  | a) határozott időre,6 |  |
+|  | b) határozatlan időre |  |
+|  | szól. |  |
+|  | A megbízatás kezdő időpontja: |  |
+|  | A megbízatás lejárta: 15 |  |
+|  | 8.6.16 | A vezérigazgató fizetőképességi nyilatkozat tételére |
+|  | a) köteles. |  |
+|  | b) nem köteles. |  |
+|  |  |  |
+| 9. Cégvezető |  |  |
+|  |  |  |
+|  | 9.1. | A társaságnál cégvezető kinevezésére8 |
+|  | a) sor kerülhet. |  |
+|  | b) nem kerülhet sor. |  |
+|  | 9.2.22 | Cégvezetőnek kinevezett munkavállaló(k): |
+|  | Név: |  |
+|  | Születési hely és idő: |  |
+|  | Anyja születési neve: |  |
+|  | Lakcím: |  |
+|  | Kinevezés kezdő időpontja: |  |
 
 10. Cégjegyzés
 
@@ -4592,7 +4411,7 @@ b) nem kerül sor.
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4612,7 +4431,7 @@ A megbízatás lejárta:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4630,7 +4449,7 @@ A megbízatás lejárta:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4652,7 +4471,7 @@ A társaság könyvvizsgálója:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4668,13 +4487,13 @@ A könyvvizsgálat elvégzéséért személyében felelős természetes személy
 
 Kamarai nyilvántartási száma:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
 Helyettes könyvvizsgáló neve:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4722,9 +4541,9 @@ b) változásokkal egységes szerkezetbe foglalt alapító okiratát:
 
 1. Az egyéni cég cégneve, székhelye, telephelye(i), fióktelepe(i)
 
-1.1. Az egyéni cég neve: Egyéni Cég
-
-Az egyéni cég rövidített cégneve: ec./kfc.
+| 1.1. | Az egyéni cég neve: ………………………………………………………… Egyéni Cég |
+| --- | --- |
+| Az egyéni cég rövidített cégneve:………………………………………………… ec. |  |
 
 1.2. Az egyéni cég idegen nyelvű cégneve:
 
@@ -4744,15 +4563,15 @@ b) nem azonos a központi ügyintézés helyével:
 
 1.6. Az egyéni cég e-mail elérhetősége:
 
-2. Az egyéni cég tagja
+1M40584S_1
 
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Egyéni vállalkozói nyilvántartási száma:
+| 2. | Az egyéni cég tagja |
+| --- | --- |
+|  | Név:11 |
+|  | Születési hely és idő: |
+|  | Anyja születési neve: |
+|  | Lakcím: |
+|  | Egyéni vállalkozói nyilvántartási száma: |
 
 3. Az egyéni cég tevékenységi köre(i)
 
@@ -4782,53 +4601,42 @@ b) ............................................ Ft, azaz forint nem pénzbeli
 
 hozzájárulásból áll.
 
-5.2 Az alapító felelősségének módja:
+1M40584S_2
 
-a) korlátlan
+| 5.2. | Osztalékelőleg fizetésére8 |
+| --- | --- |
+| a) sor kerülhet |  |
+| b) nem kerülhet sor. |  |
 
-b) korlátozott, a pótbefizetés összege:
+1M40584S_3
 
-6. Ügyvezető
-
-6.1. A társaság ügyvezetője:
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-A megbízatás
-
-a) határozott időre
-
-b) határozatlan időre
-
-szól.
-
-A megbízatás kezdő időpontja:
-
-A megbízatás lejárta:
-
-6.2. Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek).
-
-7. Cégvezető
-
-7.1. A társaságnál cégvezető kinevezésére
-
-a) sor kerülhet.
-
-b) nem kerülhet sor.
-
-7.2. Cégvezetőnek kinevezett munkavállaló(k):
-
-Név:
-
-Anyja neve:
-
-Lakcím:
-
-Kinevezés kezdő időpontja:
+|  | 6. |  |  |  | Ügyvezető |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  | 6.1. |  |  | A társaság ügyvezetője: |  |
+|  | Név: |  |  |  |  |
+|  | Születési hely és idő: |  |  |  |  |
+|  | Anyja születési neve: |  |  |  |  |
+|  | Lakcím: |  |  |  |  |
+|  | A megbízatás8 |  |  |  |  |
+|  | a) határozott időre6 |  |  |  |  |
+|  | b) határozatlan időre |  |  |  |  |
+|  | szól. |  |  |  |  |
+|  | A megbízatás kezdő időpontja: |  |  |  |  |
+|  | A megbízatás lejárta:12 |  |  |  |  |
+| 6.2. Az ügyvezető(k) fizetőképességi nyilatkozat tételére köteles(ek). |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  | 7. |  |  |  | Cégvezető |
+|  |  |  |  |  |  |
+|  | 7.1. |  | A társaságnál cégvezető kinevezésére8 |  |  |
+|  | a) sor kerülhet. |  |  |  |  |
+|  | b) nem kerülhet sor. |  |  |  |  |
+|  | 7.2.13 | Cégvezetőnek kinevezett munkavállaló(k): |  |  |  |
+|  | Név: |  |  |  |  |
+|  | Születési hely és idő: |  |  |  |  |
+|  | Anyja születési neve: |  |  |  |  |
+|  | Lakcím: |  |  |  |  |
+|  | Kinevezés kezdő időpontja: |  |  |  |  |
 
 8. Könyvvizsgáló
 
@@ -4836,7 +4644,7 @@ Kinevezés kezdő időpontja:
 
 Név:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
@@ -4852,13 +4660,13 @@ Székhely:
 
 Kamarai nyilvántartási száma:
 
-Anyja neve:
+Anyja születési neve:
 
 Lakcím:
 
 Helyettes könyvvizsgáló neve:
 
-Anyja neve: .
+Anyja születési neve: .
 
 Lakcím:
 

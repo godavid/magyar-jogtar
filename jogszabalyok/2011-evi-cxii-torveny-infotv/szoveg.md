@@ -507,8 +507,8 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - d) véleményezi a közfeladatot ellátó szerv tevékenységével kapcsolatosan az e törvény szerint közzéteendő adatokra vonatkozó különös, illetve egyedi közzétételi listákat;
 - e) törvényben meghatározott szervekkel vagy személyekkel együttműködve képviseli Magyarországot az Európai Unió közös adatvédelmi felügyelő testületeiben;
 - f) megszervezi a belső adatvédelmi felelősök konferenciáját;
-- g) meghatározza az adatvédelmi auditálás szakmai szempontjait;
-- h) az adatkezelő kérelmére adatvédelmi auditot folytathat le.
+- g)
+- h)
 
 (5) A Hatóság független, csak a törvénynek van alárendelve, feladatkörében nem utasítható, a feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el. A Hatóság számára feladatot csak törvény állapíthat meg.
 
@@ -858,13 +858,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 #### 36. Adatvédelmi audit
 
-69. § (1) Az adatvédelmi audit a Hatóság olyan szolgáltatása, amelynek célja a végzett vagy tervezett adatkezelési műveletek a Hatóság által meghatározott és közzétett szakmai szempontok szerinti értékelésén keresztül a magas szintű adatvédelem és adatbiztonság megvalósítása. Tervezett adatkezelési műveletek akkor vonhatók audit alá, ha az adatkezelésre vonatkozó koncepció kidolgozottsága ezt lehetővé teszi.
-
-(2) Adatvédelmi auditot a Hatóság az adatkezelő kérelmére folytathat le. Az adatvédelmi audit lefolytatásáért miniszteri rendeletben meghatározott igazgatási szolgáltatási díjat kell fizetni.
-
-(3) Az adatvédelmi audit eredményét a Hatóság az auditról készített értékelésben rögzíti. Az értékelés javaslatokat fogalmazhat meg az adatkezelő számára. Az értékelés – az adatkezelő ezzel ellentétes kérelmének hiányában – nyilvános.
-
-(4) Az adatvédelmi audit a Hatóság e törvényben rögzített egyéb hatásköreinek gyakorlását nem korlátozza.
+#### 69. §
 
 #### 37. Büntető-, szabálysértési és fegyelmi eljárás kezdeményezése
 
@@ -880,7 +874,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (3) A Hatóság az alapvető jogok biztosáról szóló 2011. évi CXII. törvény 23. § (2) bekezdésében meghatározott adatokat az alapvető jogok biztosáról szóló 2011. évi CXII. törvény 23. § (7) bekezdésében meghatározottak szerint ismerheti meg.
 
-(4) A minősített adatot érintő adatkezeléssel kapcsolatos eljárása során a Hatóság elnökhelyettese, vezető megbízású köztisztviselője és vizsgálója – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
+(4) A minősített adatot érintő adatkezeléssel kapcsolatos eljárása során a Hatóság elnökhelyettese, vezetői munkakört betöltő köztisztviselője és vizsgálója – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
 
 (5) A Hatóság elnöke, elnökhelyettese és a Hatósággal közszolgálati jogviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és annak megszűnését követően is kötelesek megőrizni a Hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, minősített adatot, illetve törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a Hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
 

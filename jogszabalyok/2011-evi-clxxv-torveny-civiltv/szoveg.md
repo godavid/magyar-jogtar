@@ -98,7 +98,7 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 ### II. Fejezet — A CIVIL SZERVEZETEK CSŐD-, FELSZÁMOLÁSI ÉS VÉGELSZÁMOLÁSI ELJÁRÁSA
 
-9. § (1) A civil szervezet végelszámolására – törvény eltérő rendelkezése hiányában – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) rendelkezéseit az e törvényben szabályozott eltérésekkel kell alkalmazni.
+9. § (1) A civil szervezet végelszámolására – törvény eltérő rendelkezése hiányában – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) rendelkezéseit, kényszer-végelszámolására a Ctv. 2012. február 29-én hatályos 116. § (3)–(6) bekezdését, 117. §-át és 118. §-át az e törvényben szabályozott eltérésekkel kell alkalmazni.
 
 (2) A civil szervezet végelszámolására irányuló kérelmet a végelszámoló által aláírt papír alapú, illetve a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvényben elektronikus útra kötelezett civil szervezetek esetén elektronikus nyomtatványon kell előterjeszteni. A végelszámolással összefüggő nemperes eljárásokban a civil szervezet székhelye szerinti törvényszék jár el.
 

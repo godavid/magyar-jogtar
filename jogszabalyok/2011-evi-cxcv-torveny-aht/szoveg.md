@@ -522,7 +522,7 @@ megegyező összegű kiadási előirányzatok szabad előirányzatának mérték
 
 (4) A költségvetési főfelügyelő, felügyelő felett a (3) bekezdésben foglaltakon felüli munkáltatói jogokat a kincstár vezetője gyakorolja. A kincstár elnöke e jogkörök gyakorlásában nem utasítható.
 
-(5) A költségvetési főfelügyelő közszolgálati jogviszonyára a minisztériumban főosztályvezetői munkakörben, a költségvetési felügyelő közszolgálati jogviszonyára a minisztériumban főosztályvezető-helyettesi munkakörben alkalmazott kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(5) A költségvetési főfelügyelő kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezetői munkakörben, a költségvetési felügyelő kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezető-helyettesi munkakörben alkalmazott kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
 #### 28. Rendkívüli intézkedések
 

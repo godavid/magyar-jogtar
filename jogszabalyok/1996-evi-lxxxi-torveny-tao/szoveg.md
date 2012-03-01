@@ -888,7 +888,7 @@ szélessávú internetszolgáltatást szolgáló beruházás,
 
 - a) a támogatás igénybevételére jogosult szervezetnek nincs lejárt köztartozása,
 - b) a korábban kapott állami támogatással megfelelő módon elszámolt,
-- c) a látvány-csapatsportban sportvállalkozásként működő hivatásos vagy amatőr sportszervezettel szemben a bíróság nem rendelte el a csődeljárást vagy a sportszervezet felszámolását, továbbá amely sportszervezet nem áll végelszámolás vagy kényszer-végelszámolás alatt,
+- c) a látvány-csapatsportban sportvállalkozásként működő hivatásos vagy amatőr sportszervezettel szemben a bíróság nem rendelte el a csődeljárást vagy a sportszervezet felszámolását, továbbá amely sportszervezet nem áll végelszámolás vagy kényszer-végelszámolás vagy kényszertörlési eljárás alatt,
 - d) a látvány-csapatsportban működő országos sportági szakszövetség vagy a látvány-csapatsportban sportegyesületként működő amatőr vagy hivatásos sportszervezet működését a bíróság nem függesztette fel, valamint amelynek megszüntetésére az egyesülési jogról szóló törvény szerint eljárás nincs folyamatban,
 - e) a látvány-csapatsportban sportegyesületként működő amatőr vagy hivatásos sportszervezettel szemben a bíróság nem rendelte el a csődeljárást vagy a sportszervezet felszámolását,
 - f) működését a bíróság nem függesztette fel, valamint megszüntetésére eljárás nincs folyamatban,
