@@ -90,7 +90,7 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (2) Ha jogszabály a központi államigazgatási szervnek címez hatáskört, azt a szerv vezetője gyakorolja.
 
-(3) A központi államigazgatási szerv szervezeti és működési szabályzata a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot a szervvel állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban, illetve vezetői megbízatással rendelkező közszolgálati jogviszonyban álló személyre ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
+(3) A központi államigazgatási szerv szervezeti és működési szabályzata a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot a szervvel állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban, illetve vezetői munkakörrel rendelkező kormányzati szolgálati jogviszonyban álló személyre ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
 
 ### Az állami vezetők
 
@@ -108,9 +108,9 @@ meghatározott hatáskörök együttesét kell érteni.
 
 7. § (1) A politikai vezető e tevékenységét állami vezetői szolgálati jogviszony keretében látja el.
 
-(2) Az állami vezetői szolgálati jogviszonyra – ha törvény eltérően nem rendelkezik – a közszolgálati jogviszonyban állókra vonatkozó szabályokat kell alkalmazni.
+(2) Az állami vezetői szolgálati jogviszonyra – ha törvény eltérően nem rendelkezik – a kormányzati szolgálati jogviszonyban állókra vonatkozó szabályokat kell alkalmazni.
 
-(3) A szakmai vezetőre a kormánytisztviselők jogállásáról szóló törvényt és a köztisztviselők jogállásáról szóló törvényt az e törvényben foglalt eltérésekkel kell alkalmazni.
+(3) A szakmai vezető kormányzati szolgálati jogviszonyban áll.
 
 (4) Az állami vezetők személyi anyagának nyilvántartását a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium vezeti.
 
@@ -131,9 +131,9 @@ miatt szűnt meg.
 
 (3) Ha a miniszter és az államtitkár kinevezéséről, felmentéséről vagy megbízatásának lemondás miatti megszűnésének megállapításáról szóló okiratban a megbízatás keletkezésének vagy megszűnésének időpontja naptári napként van meghatározva, az állami vezető a megjelölt naptári nap kezdetén lép hivatalba, illetve megbízatása a megjelölt naptári nap végén szűnik meg.
 
-9. § (1) A politikai vezető megbízatásának időtartama, valamint a 13. § (1) bekezdésében meghatározott időtartam alatt a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak, illetménye nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
+9. § (1) A politikai vezető megbízatásának időtartama, valamint a 13. § (1) bekezdésében meghatározott időtartam alatt a társadalombiztosítás ellátásaira való jogosultság szempontjából kormányzati szolgálati jogviszonyban foglalkoztatott biztosítottnak, illetménye nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
-(2) A politikai vezető megbízatásának időtartama, valamint a 13. § (1) bekezdésében meghatározott időtartam közszolgálati jogviszonyban töltött időnek számít.
+(2) A politikai vezető megbízatásának időtartama, valamint a 13. § (1) bekezdésében meghatározott időtartam kormányzati szolgálati jogviszonyban töltött időnek számít.
 
 10. § (1) A politikai vezető további munkavégzésre irányuló jogviszonyt (ideértve a felügyelőbizottsági tagságot, gazdasági társaság, illetve szövetkezet vezető tisztségét, alapítvány kezelő szervezetének tagságát, valamint az érdek-képviseleti szervezetben való tisztség viselését) nem létesíthet, valamint munkaköri feladatainak ellátásából eredő nyilvános szerepléséért díjazásban nem részesülhet (összeférhetetlenség).
 
@@ -449,8 +449,8 @@ helyettesíti.
 
 (3) Az (1) bekezdésben meghatározott államtitkár akadályoztatása esetén az Országgyűlés bizottsága ülésén
 
-- a) a minisztert az általa vezetett minisztérium állományába tartozó, állásfoglalásra jogosult, vezetői megbízatással rendelkező személy,
-- b) a tárca nélküli minisztert a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium állományába tartozó, a tárca nélküli miniszter tevékenységét segítő helyettes államtitkár vagy vezetői megbízatással rendelkező személy helyettesíti.
+- a) a minisztert az általa vezetett minisztérium állományába tartozó, állásfoglalásra jogosult, vezetői munkakört betöltő személy,
+- b) a tárca nélküli minisztert a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium állományába tartozó, a tárca nélküli miniszter tevékenységét segítő helyettes államtitkár vagy vezetői munkakört betöltő személy helyettesíti.
 
 (4) A minisztert az Európai Unió Tanácsa miniszteri képviseletet igénylő testületeiben az (1) bekezdésben meghatározott államtitkár helyettesíti. Az Európai Unió kormányzati részvétellel működő egyéb intézményeiben
 
@@ -565,7 +565,7 @@ helyettesíti.
 
 (2) Az államtitkár tekintetében törvény eltérő rendelkezése hiányában a munkáltatói jogokat a miniszter gyakorolja.
 
-(3) Az államtitkárt – ha nem a minisztert helyettesítő jogkörében jár el – a szervezeti és működési szabályzatban meghatározottak szerint az adott szerv másik államtitkára, a közigazgatási államtitkár, a helyettes államtitkár, az államtitkár kabinetfőnöke vagy az államtitkár irányítása alá tartozó, vezetői megbízással rendelkező közszolgálati jogviszonyban álló személy helyettesíti. Ha az államtitkári tisztség nincsen betöltve, az államtitkár hatáskörét – a minisztert helyettesítő jogkörök kivételével, ha e törvény eltérően nem rendelkezik – a helyettesítésére kijelölt személy gyakorolja.
+(3) Az államtitkárt – ha nem a minisztert helyettesítő jogkörében jár el – a szervezeti és működési szabályzatban meghatározottak szerint az adott szerv másik államtitkára, a közigazgatási államtitkár, a helyettes államtitkár, az államtitkár kabinetfőnöke vagy az államtitkár irányítása alá tartozó, vezetői munkakörrel rendelkező kormányzati szolgálati jogviszonyban álló személy helyettesíti. Ha az államtitkári tisztség nincsen betöltve, az államtitkár hatáskörét – a minisztert helyettesítő jogkörök kivételével, ha e törvény eltérően nem rendelkezik – a helyettesítésére kijelölt személy gyakorolja.
 
 ### Az államtitkár javadalmazása
 
@@ -643,21 +643,21 @@ helyettesíti.
 
 (4) A minisztérium létszámkeretét – az egyes állami vezetők és a kabinetfőnökök irányítása alá tartozó szervezeti egységek együttes létszáma szerinti bontásban – a szervezeti és működési szabályzat határozza meg.
 
-(5) A Hivatalos Értesítőben központi államigazgatási szervenkénti bontásban havonta közzé kell tenni a Miniszterelnökségen és a minisztériumokban kormánytisztviselői jogviszony létesítéséről és megszüntetéséről, vezetői megbízás adásáról és visszavonásáról, címadományozásról és cím visszavonásáról, illetve berendelésről, vezénylésről, valamint azok megszüntetéséről szóló közleményeket.
+(5) A Hivatalos Értesítőben központi államigazgatási szervenkénti bontásban havonta közzé kell tenni a Miniszterelnökségen és a minisztériumokban kormányzati szolgálati jogviszony létesítéséről és megszüntetéséről, vezetői megbízás adásáról és visszavonásáról, címadományozásról és cím visszavonásáról, illetve berendelésről, vezénylésről, valamint azok megszüntetéséről szóló közleményeket.
 
 61. § (1) A minisztérium hivatali szervezetét a közigazgatási államtitkár – a honvédelemért felelős miniszter által vezetett minisztériumra vonatkozó külön törvényben megállapított eltérések kivételével – a miniszter irányítása alatt, a jogszabályoknak és a szakmai követelményeknek megfelelően vezeti.
 
-(2) Ha törvény eltérően nem rendelkezik a közigazgatási államtitkár gyakorolja a munkáltatói jogokat a minisztérium állományába tartozó kormánytisztviselők felett.
+(2)
 
 (3) A minisztériumban egy közigazgatási államtitkár működhet.
 
-(4) A közigazgatási államtitkár tekintetében a munkáltatói jogokat a miniszter gyakorolja.
+(4)
 
 (5) A közigazgatási államtitkárt a szervezeti és működési szabályzatban meghatározottak szerint helyettes államtitkár helyettesíti. Ha a közigazgatási államtitkári tisztség nincs betöltve, a közigazgatási államtitkár hatáskörét a helyettesítésére kijelölt helyettes államtitkár gyakorolja.
 
 62. § (1) A helyettes államtitkár a jogszabályoknak és a szakmai követelményeknek megfelelően irányítja a miniszter feladat- és hatáskörének a minisztérium szervezeti és működési szabályzatában meghatározott része tekintetében a szakmai munkát, valamint dönt a hatáskörébe utalt ügyekben. A Miniszterelnökségen működő helyettes államtitkár segíti a Miniszterelnökséget vezető államtitkár tevékenységét.
 
-(2) A helyettes államtitkár tevékenységét – a 65. § (1) bekezdése szerinti helyettes államtitkár kivételével – a minisztérium szervezeti és működési szabályzatában meghatározottak szerint az államtitkár, a közigazgatási államtitkár – a 31. § (3) bekezdésében meghatározott esetben – kormánybiztos vagy – a 32. § (3) bekezdésében meghatározott esetben – miniszterelnöki biztos irányítja. A helyettes államtitkár esetében a munkáltatói jogokat a közigazgatási államtitkár gyakorolja.
+(2) A helyettes államtitkár tevékenységét – a 65. § (1) bekezdése szerinti helyettes államtitkár kivételével – a minisztérium szervezeti és működési szabályzatában meghatározottak szerint az államtitkár, a közigazgatási államtitkár – a 31. § (3) bekezdésében meghatározott esetben – kormánybiztos vagy – a 32. § (3) bekezdésében meghatározott esetben – miniszterelnöki biztos irányítja.
 
 (2a) A helyettes államtitkár irányítása tekintetében a minisztérium szervezeti és működési szabályzata a 3. §-ban meghatározott hatásköröket – az (1) bekezdés szerinti ügyek meghatározott csoportjaival összefüggésben – az államtitkár és a közigazgatási államtitkár között megoszthatja.
 
@@ -669,9 +669,9 @@ helyettesíti.
 
 (2) A szervezeti és működési szabályzat rendelkezhet úgy, hogy az államtitkár munkáját kabinet segíti.
 
-(3) Vezetői megbízatás a szervezeti és működési szabályzatban meghatározott szervezeti egység tekintetében, e törvény rendelkezései szerint adható.
+(3) Vezetői kinevezés a szervezeti és működési szabályzatban meghatározott szervezeti egység tekintetében, e törvény rendelkezései szerint adható.
 
-64. § (1) A miniszter normatív utasításával – vagy a feladatkörükben érintett miniszterek együttes normatív utasításukkal – több közigazgatási államtitkár, helyettes államtitkár vagy főosztály feladatkörét érintő, eseti feladat elvégzésére a feladatkörükben érintett közigazgatási államtitkárokból, helyettes államtitkárokból, főosztályvezetőkből vagy vezetői megbízással rendelkező kormánytisztviselőkből álló munkacsoportot hozhat vagy hozhatnak létre.
+64. § (1) A miniszter normatív utasításával – vagy a feladatkörükben érintett miniszterek együttes normatív utasításukkal – több közigazgatási államtitkár, helyettes államtitkár vagy főosztály feladatkörét érintő, eseti feladat elvégzésére a feladatkörükben érintett közigazgatási államtitkárokból, helyettes államtitkárokból, főosztályvezetőkből vagy vezetői munkakört betöltő kormánytisztviselőkből álló munkacsoportot hozhat vagy hozhatnak létre.
 
 (2) Az utasításban meg kell határozni a munkacsoport feladatát, vezetőjét, tagjait és működésének idejét.
 
@@ -681,13 +681,13 @@ helyettesíti.
 
 (2) A kabinetfőnököt a miniszteri kabinet általa kijelölt kormánytisztviselője helyettesíti.
 
-(3) A munkáltatói jogokat a kabinetfőnök felett a miniszter, a kabinet állományába tartozó kormánytisztviselők felett a kabinetfőnök gyakorolja. A vezetői megbízás adása és visszavonása a miniszter hatáskörébe tartozik.
+(3)
 
 66. § (1) Az államtitkári kabinetet a kabinetfőnök főosztályvezetőként közvetlenül vezeti, akinek a tevékenységét az államtitkár irányítja.
 
 (2) A kabinetfőnököt az államtitkári kabinet általa kijelölt kormánytisztviselője helyettesíti.
 
-(3) A munkáltatói jogokat a kabinetfőnök felett az államtitkár, a kabinet állományába tartozó kormánytisztviselők felett a kabinetfőnök gyakorolja. A vezetői megbízás adása és visszavonása az államtitkár hatáskörébe tartozik.
+(3)
 
 67. § (1) A főosztályt főosztályvezető vezeti, akinek a tevékenységét a szervezeti és működési szabályzatban meghatározott helyettes államtitkár irányítja. A szervezeti és működési szabályzat rendelkezhet úgy, hogy a főosztályvezető tevékenységét a miniszter, az államtitkár vagy a közigazgatási államtitkár irányítja.
 
@@ -699,9 +699,9 @@ helyettesíti.
 
 68. § (1) Az állami vezető tevékenységének ellátását – ha a szervezeti és működési szabályzat így rendelkezik – titkárság segítheti.
 
-(2) A miniszter titkárságát osztályvezető vezeti. Ha a kormányzati tevékenység összehangolásáért felelős miniszter egyben miniszterelnök-helyettes is, titkárságát főosztályvezető vezeti. A miniszter titkárságát vezető osztályvezető, illetve főosztályvezető tevékenységét a miniszter kabinetfőnöke irányítja és gyakorolja felette a munkáltatói jogokat. A tárca nélküli miniszter titkárságát a tárca nélküli miniszter kabinetfőnöke vezeti.
+(2) A miniszter titkárságát osztályvezető vezeti. Ha a kormányzati tevékenység összehangolásáért felelős miniszter egyben miniszterelnök-helyettes is, titkárságát főosztályvezető vezeti. A miniszter titkárságát vezető osztályvezető, illetve főosztályvezető tevékenységét a miniszter kabinetfőnöke irányítja. A tárca nélküli miniszter titkárságát a tárca nélküli miniszter kabinetfőnöke vezeti.
 
-(3) Az államtitkár titkárságát főosztályvezető vezeti, akinek a tevékenységét az államtitkár irányítja. Ha az államtitkár munkáját kabinet segíti az államtitkár titkárságát osztályvezető vezeti, akinek a tevékenységét az államtitkár kabinetfőnöke irányítja és gyakorolja felette a munkáltatói jogokat.
+(3) Az államtitkár titkárságát főosztályvezető vezeti, akinek a tevékenységét az államtitkár irányítja. Ha az államtitkár munkáját kabinet segíti az államtitkár titkárságát osztályvezető vezeti, akinek a tevékenységét az államtitkár kabinetfőnöke irányítja.
 
 (4) A közigazgatási államtitkár titkárságát főosztályvezető vezeti, akinek a tevékenységét a közigazgatási államtitkár irányítja.
 
@@ -715,13 +715,13 @@ helyettesíti.
 
 (2) A Miniszterelnökségen közigazgatási államtitkár nem működik.
 
-(3) A Miniszterelnökségen működő helyettes államtitkár tevékenységét a Miniszterelnökséget vezető államtitkár irányítja és gyakorolja felette a munkáltatói jogokat.
+(3) A Miniszterelnökségen működő helyettes államtitkár tevékenységét a Miniszterelnökséget vezető államtitkár irányítja.
 
 (4) A Miniszterelnökség főosztályokra és osztályokra tagozódik.
 
-(5) A Miniszterelnökséget vezető államtitkár gyakorolja a munkáltatói jogokat a Miniszterelnökség állományába tartozó kormánytisztviselők felett.
+(5)
 
-(6) A miniszterelnök titkárságát osztályvezető vezeti, akinek tevékenységét a Miniszterelnökséget vezető államtitkár irányítja és gyakorolja felette a munkáltatói jogokat.
+(6) A miniszterelnök titkárságát osztályvezető vezeti, akinek tevékenységét a Miniszterelnökséget vezető államtitkár irányítja.
 
 (7) A 67. § (4) bekezdését a Miniszterelnökségre nem kell alkalmazni.
 

@@ -1205,7 +1205,7 @@ kezeli.
 
 (6) Az e törvény hatálybalépése előtt megkezdett szakképzéseket a beiskolázáskor hatályos rendelkezések szerint kell folytatni és befejezni.
 
-(7) Az e törvény előírásait a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek keretében folyó szakképzés, valamint a kormánytisztviselők jogállásáról szóló törvény, a köztisztviselők jogállásáról szóló törvény és a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozók tekintetében az eltérő sajátosságok figyelembevételével kell alkalmazni. A Magyar Honvédség és a rendvédelmi szervek keretében szolgálati beosztás betöltésére jogosító szakképesítésre irányuló szakképzés megkezdéséhez a szakképesítésért felelős miniszter engedélye szükséges.
+(7) Az e törvény előírásait a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek keretében folyó szakképzés, valamint a közszolgálati tisztviselőkről szóló törvény és a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozók tekintetében az eltérő sajátosságok figyelembevételével kell alkalmazni. A Magyar Honvédség és a rendvédelmi szervek keretében szolgálati beosztás betöltésére jogosító szakképesítésre irányuló szakképzés megkezdéséhez a szakképesítésért felelős miniszter engedélye szükséges.
 
 #### 55. Átmeneti rendelkezések
 

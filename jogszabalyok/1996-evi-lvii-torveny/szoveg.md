@@ -260,7 +260,7 @@ vonatkozik.
 
 (3) A Gazdasági Versenyhivatal ellátja mindazokat a feladatokat, amelyeket az európai közösségi versenyszabályok a tagállami versenyhatóság hatáskörébe utalnak.
 
-34. § A Gazdasági Versenyhivatalnál közszolgálati jogviszonyban állókra az e törvényben meghatározott eltérésekkel a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény rendelkezéseit kell alkalmazni.
+34. § A Gazdasági Versenyhivatalnál közszolgálati jogviszonyban állókra az e törvényben meghatározott eltérésekkel a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
 34/A. § (1) Nem lehet a Gazdasági Versenyhivatal elnöke, elnökhelyettese, valamint a Versenytanács tagja olyan személy, aki
 
@@ -406,7 +406,7 @@ A kinevezés hat évre szól. A kinevezett személyek a hat év lejártát köve
 (7) A vizsgáló
 
 - a) vizsgáló tanácsosi besorolást kap, ha két év vizsgáló gyakorlatot szerzett, alkalmas minősítésű és közigazgatási szakvizsgával vagy azzal egyenértékű képesítéssel rendelkezik;
-- b) vizsgáló főtanácsosi besorolást kaphat, ha kiválóan alkalmas minősítésű és közigazgatási szakvizsgával vagy azzal egyenértékű képesítéssel rendelkezik;
+- b) vizsgáló főtanácsosi besorolást kaphat, ha legmagasabb fokozatú minősítéssel és közigazgatási szakvizsgával vagy azzal egyenértékű képesítéssel rendelkezik;
 - c) vizsgáló vezető főtanácsosi besorolást kaphat a munkáját kimagasló színvonalon végző, különleges felelősséggel felruházott vizsgáló főtanácsos.
 
 (8) Vizsgáló irodavezetői, vizsgáló irodavezető-helyettesi megbízást közigazgatási szakvizsgával vagy azzal egyenértékű képesítéssel rendelkező köztisztviselő kaphat.
@@ -500,7 +500,7 @@ eljárásának általános szabályai
 
 ### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-44. § (1) A versenyfelügyeleti eljárásra – e törvény eltérő rendelkezése hiányában – a Ket. rendelkezéseit kell alkalmazni a Ket. 15. § (4) bekezdése, 18. §-a, 29. § (3)–(12) bekezdése, 30. § a) és b) pontja, 31. § (1) bekezdés j) pontja, 33/A. §-a és 33/B. §-a, 38. §-a, 43. § (6a) bekezdése, 46. § (2) bekezdése, 47. §-a, 51. § (1) és (5) bekezdése, 61. § (1) bekezdése, 70. §-a, 71. § (7) bekezdése, 74. § (2)–(5) bekezdése, 88. §-a, 91. §-a, 93. §-a, 94. §-a, 94/A. §-a, 102. § (3) bekezdése, 109. § (2) bekezdése, 116. §-a, 127. § (1)–(4) és (6) bekezdése, 128. § (1) és (3) bekezdése, 130. §-a, valamint 134. § b) és c) pontja kivételével.
+44. § (1) A versenyfelügyeleti eljárásra – e törvény eltérő rendelkezése hiányában – a Ket. rendelkezéseit kell alkalmazni a Ket. 15. § (4) bekezdése, 18. §-a, 29. § (3)–(12) bekezdése, 30. § a) és b) pontja, 31. § (1) bekezdés j) pontja, 33/A. §-a és 33/B. §-a, 38. §-a, 43. § (6a) bekezdése, 46. § (2) bekezdése, 47. §-a, 51. § (1) és (5) bekezdése, 61. § (1) bekezdése, 70. §-a, 71. § (7) bekezdése, 74. § (2)–(5) bekezdése, 88. §-a, 91. §-a, 93. §-a, 94. §-a, 94/A. §-a,, 109. § (2) bekezdése, 116. §-a, 127. § (1)–(5) és (7) bekezdése, 128. § (1) és (3) bekezdése, 130. §-a, valamint 134. § b) és c) pontja kivételével.
 
 (2) A Ket. szabályainak alkalmazásakor
 
@@ -1161,7 +1161,7 @@ végrehajtása
 
 91. § (1) A végrehajtás foganatosítása során hozott törvénysértő döntés vagy intézkedés miatt végrehajtási kifogás a kifogásolt döntésről, illetve intézkedésről való tudomásszerzést vagy az akadály megszűnését követő három napon belül, de legkésőbb a döntés közlésétől, illetve az intézkedéstől számított egy hónapon belül terjeszthető elő.
 
-(2) A vizsgáló döntésével vagy intézkedésével szembeni végrehajtási kifogást, valamint a vizsgálónak a Ket. 143. § (1) bekezdése alapján megfellebbezhető végzésével szembeni fellebbezést az eljáró versenytanács nyolc napon belül bírálja el.
+(2) A vizsgáló döntésével vagy intézkedésével szembeni végrehajtási kifogást, valamint a vizsgálónak a Ket. 144. § (1) bekezdése alapján megfellebbezhető végzésével szembeni fellebbezést az eljáró versenytanács nyolc napon belül bírálja el.
 
 (3) Az eljáró versenytanácsnak a végrehajtási eljárásban hozott döntésével szembeni bírósági felülvizsgálat iránti kérelemről a bíróság soron kívül határoz.
 
@@ -1275,11 +1275,11 @@ végrehajtása
 
 95/A. § E törvénynek a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek csődeljárásának és felszámolásának különleges szabályairól és az azzal összefüggő törvénymódosításokról szóló törvénnyel megállapított rendelkezéseit a hatálybalépést követően kezdeményezett eljárásokban kell alkalmazni.
 
-95/B. § (1) E törvénynek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények, valamint a miniszteri hatósági hatáskörök felülvizsgálatával összefüggő egyes törvények módosításáról szóló 2011. évi CLXXIV. törvény (a továbbiakban: Ket-módtv.) 19. §-ával megállapított, az igazgatási szolgáltatási díjra és eljárási költségekre vonatkozó rendelkezéseit az e rendelkezések hatálybalépése után indult és megismételt eljárásokban kell alkalmazni.
+95/B. § (1) E törvénynek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények, valamint a miniszteri hatósági hatáskörök felülvizsgálatával összefüggő egyes törvények módosításáról szóló 2011. évi CLXXIV. törvény (a továbbiakban: Ket-módtv.) 19. §-ával megállapított, az igazgatási szolgáltatási díjra és eljárási költségekre vonatkozó rendelkezéseit az e rendelkezések hatálybalépése után indult és megismételt eljárásokban kell alkalmazni azzal, hogy külön jogorvoslatnak van helye az igazgatási szolgáltatási díj meg nem fizetése miatt az eljárást megszüntető végzés, illetve – a végrehajtásra halasztó hatállyal – az eljárás során felmerült költséget megállapító végzés ellen.
 
 (2) E törvénynek a Ket-módtv. 20–22. §-ával megállapított rendelkezéseit – a (3) bekezdésben foglalt kivétellel – az e rendelkezések hatálybalépése után indult és megismételt eljárásokban kell alkalmazni.
 
-(3) E törvénynek a Ket-módtv. 20. § (17) bekezdésével megállapított 89–91. §-át kell alkalmazni az e rendelkezések hatálybalépésekor még meg nem indult végrehajtási eljárásokra is.
+(3) E törvénynek a Ket-módtv. 20–22. §-ával megállapított rendelkezéseit kell alkalmazni az e rendelkezések hatálybalépésekor még meg nem indult végrehajtási eljárásokra is.
 
 96. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a megállapodások egyes csoportjainak a 11. §-ban foglalt tilalom alól történő mentesülését.
 

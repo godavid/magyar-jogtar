@@ -2007,7 +2007,7 @@ Az e törvény 3. §-ával megállapított Cct. 13/A. §-ának, 11. § (5) bekez
 
 (18) Az e törvény 4. §-ával megállapított Szt. 127/A. §-ának és 15. §-ával megállapított Gyvt. 145/A. §-ának rendelkezéseit abban az esetben kell alkalmazni, ha a fenntartóváltozás, illetve az egyházi fenntartású szolgáltató, intézmény engedélyezése iránti kérelmet e törvény hatálybalépését követően nyújtották be.
 
-(19) A Ktv. 62. § (1) bekezdésében meghatározott adatszolgáltatás helyett 2010-ben egyszerűsített adatszolgáltatásra kerül sor. Az egyszerűsített adatszolgáltatás a közigazgatási szerv szervezeti adataira, valamint a közszolgálati jogviszonyban állók létszámára, munkaidejére, besorolására és vezetői beosztására a Ktv. 21. § (6) bekezdés c) pontjában foglaltakkal összefüggő adatokra, valamint a közszolgálati jogviszony létesítésére és megszűnésére vonatkozó adatokra terjed ki, azzal, hogy azt a 2010. január 1-jei állapotnak megfelelően 2010. február 28-áig – a központi közszolgálati hatóság által meghatározott módon – kell teljesíteni. A központi létszám- és bérgazdálkodási statisztikai információs rendszer a Ktv. 62. § (2) bekezdése alapján a 2009. szeptember 1-jei állapotra vonatkozó adatok helyett a 2010. január 1-jei állapotra vonatkozó adatokat adja át a központi közszolgálati nyilvántartás számára.
+(19)
 
 (20) Mentesül a közigazgatási felsővezetői képzés és vizsga alól az, aki 2012. szeptember 1-jét megelőzően állami vezetői megbízatással, illetve a 31. § (10) bekezdésében meghatározott vezetői megbízással, kinevezéssel legalább egy évig rendelkezett.
 
@@ -2019,9 +2019,9 @@ Az e törvény 3. §-ával megállapított Cct. 13/A. §-ának, 11. § (5) bekez
 
 (24) A Ket. e törvény 35. §-ával megállapított 94. §-ának rendelkezéseit a felügyeleti eljárás során az e törvény hatálybalépése előtt meghozott döntésekre is alkalmazni kell.
 
-(25) Az e törvény hatálybalépésekor fennálló, a Ktv. e törvénnyel módosított 21. § (2) és (3) bekezdése alapján bejelentéshez, illetve engedélyhez kötötté váló jogviszonyokat e törvény hatálybalépésétől számított 15 napon belül a munkáltatói jogkör gyakorlójának írásban be kell jelenteni.
+(25)
 
-(26) Felhatalmazást kap a Kormány, hogy a Ktv. 61. § (6)–(8) bekezdésében, valamint 63. § (6)–(8) bekezdésében a szolgáltató központ számára megállapított hatáskörök 2010. július 1-jéig történő gyakorlására más szervet vagy szerveket jelöljön ki.
+(26)
 
 (27) A VET e törvény 40. §-ával megállapított 142. § (14) bekezdésében foglalt rendelkezés hatálybalépését követően az átviteli rendszerirányító köteles e bekezdés szerint végezni az éves beszámoló zárását akkor is, ha a beszámoló a hatálybalépést megelőző tárgyévre vonatkozik.
 

@@ -12,7 +12,7 @@ a Munka Törvénykönyvéről
 
 (5) E törvény 72/A. §-ának, valamint Harmadik része XI. fejezetének hatálya – az ott meghatározottak szerint – kiterjed azon, a Polgári Törvénykönyv szabályain alapuló jogviszonyra is, amely a tizennyolcadik életévét még be nem töltött személy munkavégzésére vonatkozik, vagy munkaerő-kölcsönzés céljából a kölcsönbeadó és a kölcsönvevő között jön létre.
 
-2. § (1) A közszolgálati jogviszonyt külön törvény szabályozza.
+2. § (1) A közszolgálati és kormányzati szolgálati jogviszonyt külön törvény szabályozza.
 
 (2) A költségvetési szervekkel (intézményekkel), valamint – a közfoglalkoztatás keretében történő foglalkoztatás kivételével – a helyi önkormányzattal fennálló, az (1) bekezdés szerint közszolgálati jogviszonynak nem minősülő munkavégzésre irányuló jogviszony e törvénytől eltérő szabályait külön törvény állapítja meg.
 
@@ -936,7 +936,7 @@ továbbá – a megállapodás érdekében – köteles konzultációt kezdemén
 
 86/A. § Ha a munkaviszony a 86. § b) pontjában foglaltak alapján szűnik meg, a munkavállaló részére a munkáltató rendes felmondása esetén meghatározott munkavégzés alóli mentesítési idejére járó átlagkeresetnek megfelelő összeget ki kell fizetni, kivéve, ha rendes felmondás esetén a munkavégzés alóli mentesítés időtartamára a munkavállaló munkabérre nem lenne jogosult.
 
-86/B. § (1) Ha az e törvény hatálya alá tartozó munkáltató személye azért változik meg, mert az alapító vagy a munkáltató döntése alapján a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak, vagy feladat- és hatáskörének meghatározott csoportja) a közalkalmazottak jogállásáról vagy a köztisztviselők jogállásáról szóló törvény hatálya alá tartozó munkáltató számára kerül átadásra, a munkáltató átadásra kerülő szervezete, illetve tevékenysége keretében foglalkoztatott munkavállaló munkaviszonya az átadás időpontjában megszűnik.
+86/B. § (1) Ha az e törvény hatálya alá tartozó munkáltató személye azért változik meg, mert az alapító vagy a munkáltató döntése alapján a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak, vagy feladat- és hatáskörének meghatározott csoportja) a közalkalmazottak jogállásáról vagy a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltató számára kerül átadásra, a munkáltató átadásra kerülő szervezete, illetve tevékenysége keretében foglalkoztatott munkavállaló munkaviszonya az átadás időpontjában megszűnik.
 
 (2) Az (1) bekezdés szerinti esetben az átadó és az átvevő munkáltató legkésőbb az átadást megelőzően harminc nappal korábban köteles tájékoztatni a munkavállalót, a munkáltatónál képviselettel rendelkező szakszervezetet és az üzemi tanácsot (üzemi megbízottat) az átadás
 
@@ -946,7 +946,7 @@ továbbá – a megállapodás érdekében – köteles konzultációt kezdemén
 
 továbbá köteles a szakszervezettel és az üzemi tanáccsal (üzemi megbízottal) konzultációt kezdeményezni a munkavállalókat érintő tervbe vett egyéb intézkedésekről. A konzultációnak ki kell terjednie az intézkedések elveire, a hátrányos következmények elkerülésének módjára, illetve eszközére, továbbá a következmények enyhítését célzó eszközökre.
 
-(3) A (2) bekezdésben meghatározott tájékoztatással egyidejűleg az átadó és az átvevő munkáltató köteles írásban tájékoztatni a munkavállalót arról, hogy az átadást követően a munkavállaló foglalkoztatását az átvevő közalkalmazotti, illetve közszolgálati jogviszony keretében biztosítja. A tájékoztatásnak tartalmaznia kell a további foglalkoztatást biztosító kinevezés tartalmi elemeire vonatkozó ajánlatot. Az ajánlatot a 86/C. § rendelkezéseire figyelemmel kell megtenni. A tájékoztatásnak tartalmaznia kell azokat a kötelezettségeket is, amelyeknek a munkavállaló a jogviszony létesítését követően az előmenetele, illetve a jogviszonya fenntartása érdekében köteles eleget tenni.
+(3) A (2) bekezdésben meghatározott tájékoztatással egyidejűleg az átadó és az átvevő munkáltató köteles írásban tájékoztatni a munkavállalót arról, hogy az átadást követően a munkavállaló foglalkoztatását az átvevő közalkalmazotti, illetve kormányzati szolgálati vagy közszolgálati jogviszony keretében biztosítja. A tájékoztatásnak tartalmaznia kell a további foglalkoztatást biztosító kinevezés tartalmi elemeire vonatkozó ajánlatot. Az ajánlatot a 86/C. § rendelkezéseire figyelemmel kell megtenni. A tájékoztatásnak tartalmaznia kell azokat a kötelezettségeket is, amelyeknek a munkavállaló a jogviszony létesítését követően az előmenetele, illetve a jogviszonya fenntartása érdekében köteles eleget tenni.
 
 (4) Ha a (2) bekezdésben meghatározott időpontban az átvevő munkáltató még nem került megalapításra, az átvevő munkáltató számára a (2)–(3) bekezdésben előírt kötelezettség teljesítése az átvevő munkáltató alapítóját, vagy az alapító képviseletében eljáró szervezetet terheli.
 
@@ -954,23 +954,23 @@ továbbá köteles a szakszervezettel és az üzemi tanáccsal (üzemi megbízot
 
 (6) Ha a munkavállaló az átvevő munkáltatónál történő további foglalkoztatásához nem járul hozzá, az átadó munkáltató az átadás napjával köteles írásban értesíteni a munkavállalót a munkaviszony (1) bekezdés szerinti megszűnéséről, valamint köteles a munkavállaló számára a 95. § (2)–(4) bekezdés alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a 88. § (2) bekezdésében meghatározott átlagkeresetet – megfizetni.
 
-(7) Ha az átvevő munkáltató a közalkalmazottak, illetve a köztisztviselők jogállásáról szóló törvények rendelkezései alapján az érintett munkavállalóval nem létesíthet közalkalmazotti, illetve közszolgálati jogviszonyt, a munkaviszony megszűnése tekintetében a (6) bekezdés rendelkezéseit kell alkalmazni. Ebben az esetben – a (3) bekezdés rendelkezésétől eltérően – e körülményről kell az átadó és az átvevő munkáltatónak tájékoztatnia a munkavállalót.
+(7) Ha az átvevő munkáltató a közalkalmazottak jogállásáról szóló törvény, illetve a közszolgálati tisztviselőkről szóló törvény rendelkezései alapján az érintett munkavállalóval nem létesíthet közalkalmazotti, illetve kormányzati szolgálati vagy közszolgálati jogviszonyt, a munkaviszony megszűnése tekintetében a (6) bekezdés rendelkezéseit kell alkalmazni. Ebben az esetben – a (3) bekezdés rendelkezésétől eltérően – e körülményről kell az átadó és az átvevő munkáltatónak tájékoztatnia a munkavállalót.
 
-86/C. § (1) Ha a munkavállaló az átvevő munkáltatónál történő további foglalkoztatásához hozzájárul, az átvevő munkáltató köteles a munkavállaló számára a közalkalmazotti, illetve a közszolgálati jogviszony létesítése érdekében kinevezést adni. A kinevezés során az átvevő munkáltatót köti a 86/B. § (3)–(4) bekezdése alapján adott tájékoztatás, az abban foglaltaktól csak a munkavállaló kifejezett hozzájárulásával lehet eltérni. Az átadó munkáltató az átadás napjával köteles írásban értesíteni a munkavállalót a munkaviszony 86/B. § (1) bekezdés szerinti megszűnéséről.
+86/C. § (1) Ha a munkavállaló az átvevő munkáltatónál történő további foglalkoztatásához hozzájárul, az átvevő munkáltató köteles a munkavállaló számára a közalkalmazotti, illetve a kormányzati szolgálati vagy közszolgálati jogviszony létesítése érdekében kinevezést adni. A kinevezés során az átvevő munkáltatót köti a 86/B. § (3)–(4) bekezdése alapján adott tájékoztatás, az abban foglaltaktól csak a munkavállaló kifejezett hozzájárulásával lehet eltérni. Az átadó munkáltató az átadás napjával köteles írásban értesíteni a munkavállalót a munkaviszony 86/B. § (1) bekezdés szerinti megszűnéséről.
 
-(2) A munkavállalót közalkalmazotti, illetve közszolgálati jogviszonyra vonatkozó szabályok szerint kell besorolni. Közalkalmazotti jogviszony létesítése esetén a kinevezés alapján megállapított illetmény és illetménypótlékok együttes összege nem lehet alacsonyabb mértékű, mint az átadást közvetlenül megelőző személyi alapbér összege. Közszolgálati jogviszony létesítése esetén, ha az átadást közvetlenül megelőző személyi alapbér összege meghaladja a jogszabály alapján megállapítható alapilletmény, illetménykiegészítés és vezetői pótlék együttes összegét, az alapilletményt oly módon kell megnövelni, hogy a köztisztviselői alapilletmény, illetménykiegészítés és vezetői pótlék együttes összege elérje a személyi alapbér összegét. E rendelkezés alkalmazása során a köztisztviselői alapilletmény eltérítése nem haladhatja meg a közszolgálati jogviszonyra vonatkozó szabályban erre vonatkozóan előírt legmagasabb mértéket.
+(2) A munkavállalót közalkalmazotti, illetve kormányzati szolgálati vagy közszolgálati jogviszonyra vonatkozó szabályok szerint kell besorolni. Közalkalmazotti jogviszony létesítése esetén a kinevezés alapján megállapított illetmény és illetménypótlékok együttes összege nem lehet alacsonyabb mértékű, mint az átadást közvetlenül megelőző személyi alapbér összege. Kormányzati szolgálati vagy közszolgálati jogviszony létesítése esetén, ha az átadást közvetlenül megelőző személyi alapbér összege meghaladja a jogszabály alapján megállapítható alapilletmény, illetménykiegészítés és vezetői pótlék együttes összegét, az alapilletményt oly módon kell megnövelni, hogy a kormánytisztviselői és a köztisztviselői alapilletmény, illetménykiegészítés és vezetői pótlék együttes összege elérje a személyi alapbér összegét. E rendelkezés alkalmazása során a kormánytisztviselői és a köztisztviselői alapilletmény eltérítése nem haladhatja meg a kormányzati szolgálati és a közszolgálati jogviszonyra vonatkozó szabályban erre vonatkozóan előírt legmagasabb mértéket.
 
-(3) Határozatlan időtartamú munkaviszony esetén – eltérő törvényi rendelkezés hiányában – az átvevő munkáltatónál határozatlan időtartamú közalkalmazotti, illetve közszolgálati jogviszonyt kell létesíteni. Teljes munkaidőben történő foglalkoztatás esetén az átvevő munkáltatónál teljes munkaidős jogviszonyt kell létesíteni. Az átvevő munkáltatónál létesítendő közalkalmazotti, illetve közszolgálati jogviszony tekintetében próbaidő nem köthető ki.
+(3) Határozatlan időtartamú munkaviszony esetén – eltérő törvényi rendelkezés hiányában – az átvevő munkáltatónál határozatlan időtartamú közalkalmazotti, illetve kormányzati szolgálati vagy közszolgálati jogviszonyt kell létesíteni. Teljes munkaidőben történő foglalkoztatás esetén az átvevő munkáltatónál teljes munkaidős jogviszonyt kell létesíteni. Az átvevő munkáltatónál létesítendő közalkalmazotti, illetve kormányzati szolgálati vagy közszolgálati jogviszony tekintetében próbaidő nem köthető ki.
 
-(4) Az átvevő munkáltatóval létesített közalkalmazotti, illetve közszolgálati jogviszonyra a közalkalmazottak, illetve a köztisztviselők jogállásáról szóló törvény rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a munkavállalónak az átadó munkáltatónál eltöltött munkaviszonyát úgy kell tekinteni, mintha azt az átvevő munkáltatónál töltötte volna el.
+(4) Az átvevő munkáltatóval létesített közalkalmazotti, illetve kormányzati szolgálati vagy közszolgálati jogviszonyra a közalkalmazottak, illetve a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a munkavállalónak az átadó munkáltatónál eltöltött munkaviszonyát úgy kell tekinteni, mintha azt az átvevő munkáltatónál töltötte volna el.
 
-(5) Ha a kinevezéssel létesített közalkalmazotti, illetve közszolgálati jogviszony megszűnése, illetve megszüntetése esetén a munkavállalót felmentési idő, valamint végkielégítés illeti meg, annak mértékét az átadó és az átvevő munkáltatónál jogviszonyban töltött idő együttes tartamának figyelembevételével, a közalkalmazotti, illetve a közszolgálati jogviszonyra irányadó szabályok alapján kell megállapítani. Ettől eltérően a felmentési idő, valamint a végkielégítés mértékét az átadó és az átvevő munkáltatónál jogviszonyban töltött idő együttes tartamának figyelembevételével és e törvénynek az átadás napján hatályos szabályai szerint kell megállapítani, ha az a munkavállalóra nézve kedvezőbb.
+(5) Ha a kinevezéssel létesített közalkalmazotti, illetve kormányzati szolgálati vagy közszolgálati jogviszony megszűnése, illetve megszüntetése esetén a munkavállalót felmentési idő, valamint végkielégítés illeti meg, annak mértékét az átadó és az átvevő munkáltatónál jogviszonyban töltött idő együttes tartamának figyelembevételével, a közalkalmazotti, illetve a kormányzati szolgálati vagy a közszolgálati jogviszonyra irányadó szabályok alapján kell megállapítani. Ettől eltérően a felmentési idő, valamint a végkielégítés mértékét az átadó és az átvevő munkáltatónál jogviszonyban töltött idő együttes tartamának figyelembevételével és e törvénynek az átadás napján hatályos szabályai szerint kell megállapítani, ha az a munkavállalóra nézve kedvezőbb.
 
-(6) Ha az átadó munkáltatónál az átadás időpontjáig működött üzemi tanács (üzemi megbízott), az átadással érintett szervezeti egység munkavállalóinak részvételi jogát az átvevő munkáltatónál az 56/A–56/B. §-ban előírt rendelkezések megfelelő alkalmazásával kell biztosítani, kivéve, ha a köztisztviselők jogállásáról szóló törvény hatálya alá tartozó átvevő munkáltatónál az érintett munkavállalói kör vonatkozásában üzemi tanács nem hozható létre.
+(6) Ha az átadó munkáltatónál az átadás időpontjáig működött üzemi tanács (üzemi megbízott), az átadással érintett szervezeti egység munkavállalóinak részvételi jogát az átvevő munkáltatónál az 56/A–56/B. §-ban előírt rendelkezések megfelelő alkalmazásával kell biztosítani, kivéve, ha a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó átvevő munkáltatónál az érintett munkavállalói kör vonatkozásában üzemi tanács nem hozható létre.
 
-86/D. § (1) Ha a munkáltató egészének vagy egy részének a köztisztviselők jogállásáról szóló törvény hatálya alá tartozó munkáltató számára történő átadása alapján a munkavállalóra e törvény XII. fejezetének rendelkezései válnának irányadóvá, a munkáltató személyében bekövetkező változás tekintetében a 85/A. § (1)–(4) bekezdését és a 85/B. §-át, a kollektív szerződés tekintetében a 40/A. § rendelkezéseit kell megfelelően alkalmazni. Az átadó és az átvevő munkáltató legkésőbb az átadást megelőzően tizenöt nappal köteles írásban tájékoztatni a munkavállalót az e törvény XII. fejezetében előírt kötelezettségekről.
+86/D. § (1) Ha a munkáltató egészének vagy egy részének a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltató számára történő átadása alapján a munkavállalóra e törvény XII. fejezetének rendelkezései válnának irányadóvá, a munkáltató személyében bekövetkező változás tekintetében a 85/A. § (1)–(4) bekezdését és a 85/B. §-át, a kollektív szerződés tekintetében a 40/A. § rendelkezéseit kell megfelelően alkalmazni. Az átadó és az átvevő munkáltató legkésőbb az átadást megelőzően tizenöt nappal köteles írásban tájékoztatni a munkavállalót az e törvény XII. fejezetében előírt kötelezettségekről.
 
-(2) Az (1) bekezdéstől eltérően a munkaviszony az átadás időpontjában a 86/B. § (1) bekezdésében előírt rendelkezés szerint megszűnik, ha a köztisztviselők jogállásáról szóló törvény hatálya alá tartozó munkáltató e törvény XII. fejezetének rendelkezései alapján a munkavállalóval nem létesíthetne munkaviszonyt. Ebben az esetben az átadó és az átvevő munkáltató legkésőbb az átadást megelőzően tizenöt nappal e körülményről köteles tájékoztatni a munkavállalót. Az átadó munkáltató az átadás napjával köteles írásban értesíteni a munkavállalót a munkaviszony 86/B. § (1) bekezdés szerinti megszűnéséről, valamint köteles a munkavállaló számára a 95. § (2)–(4) bekezdés alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a 88. § (2) bekezdésében meghatározott átlagkeresetet – megfizetni.
+(2) Az (1) bekezdéstől eltérően a munkaviszony az átadás időpontjában a 86/B. § (1) bekezdésében előírt rendelkezés szerint megszűnik, ha a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltató e törvény XII. fejezetének rendelkezései alapján a munkavállalóval nem létesíthetne munkaviszonyt. Ebben az esetben az átadó és az átvevő munkáltató legkésőbb az átadást megelőzően tizenöt nappal e körülményről köteles tájékoztatni a munkavállalót. Az átadó munkáltató az átadás napjával köteles írásban értesíteni a munkavállalót a munkaviszony 86/B. § (1) bekezdés szerinti megszűnéséről, valamint köteles a munkavállaló számára a 95. § (2)–(4) bekezdés alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a 88. § (2) bekezdésében meghatározott átlagkeresetet – megfizetni.
 
 86/E. § (1) A 86/B–86/D. §-t nem kell alkalmazni, ha a 85/B. § (1) bekezdésében, illetve a 86/B. § (2) bekezdésében meghatározott időpont előtt
 
@@ -984,7 +984,7 @@ alapján a munkaviszony ezen időpontot követően megszűnik. Az a)–b) pont s
 (3) A munkáltató rendkívüli felmondásával összefüggő munkaügyi perben a munkavállalói kereset elbírálásánál
 
 - a) az elbocsátás szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a munkavállalót foglalkoztató részének a közalkalmazottak jogállásáról szóló törvény,
-- b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a munkavállalót foglalkoztató részének a köztisztviselők jogállásáról szóló törvény
+- b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a munkavállalót foglalkoztató részének a közszolgálati tisztviselőkről szóló törvény
 
 hatálya alá tartozó munkáltató számára történő átadására kerül sor. Ettől eltérően, ha a munkavállaló az átadást követően a XII. fejezet hatálya alá kerül, e rendelkezést nem kell alkalmazni.
 
@@ -2858,49 +2858,9 @@ meghaladja.
 
 (5) A 165–165/A. § alkalmazásakor a kölcsönzött munkavállalók számára biztosítani kell különösen a kölcsönvevőnél a szociális juttatásokhoz való hozzáférés kapcsán az egyenlő bánásmód érvényesülését, valamint a kölcsönbeadó által biztosított szociális juttatásokhoz a kikölcsönzések közötti időtartam alatti hozzáférést.
 
-### XII. Fejezet — A közigazgatási szerveknél foglalkoztatott munkavállalókra vonatkozó eltérő rendelkezések
+### XII. Fejezet
 
-193/R. § (1) E fejezet a III–VII. fejezetben foglalt szabályoktól eltérő szabályokat állapít meg arra a munkavállalóra, aki az 1992. évi XXIII. törvény (a továbbiakban: Ktv.) hatálya alá tartozó szervnél áll munkaviszonyban.
-
-(2) A munkáltatói jogokat a közigazgatási szerv hivatali szervezetének vezetője gyakorolja. A munkáltatói jogkör – törvény eltérő rendelkezése hiányában – átruházható.
-
-193/S. § (1) Munkaviszony büntetlen előéletű, cselekvőképes, a munkakör betöltésére külön jogszabályban megállapított képesítési követelménynek, illetve biztonsági feltételeknek megfelelő személlyel létesíthető. A munkavállaló írásbeli titoktartási nyilatkozatot tesz, amelynek megtételéig nem állítható munkába. A nyilatkozat szövege a következő:
-
-,,Titoktartási nyilatkozat
-
-Alulírott ............. (név, lakcím) e nyilatkozattal kötelezem magamat, hogy a ............. (munkáltató megnevezése)-val kötött munkaviszonyom fennállása alatt tudomásomra jutott minősített adatot megőrzöm, a tevékenységem során előttem ismertté vált olyan adatokról, tényekről illetéktelen szervnek vagy személynek tájékoztatást nem adok, amelyek kiszolgáltatása az állam, a közigazgatási szerv (önkormányzat), munkatársam, vagy az állampolgár számára hátrányos, vagy jogellenesen előnyös következményekkel járna.''
-
-(2) A munkaszerződéshez csatolni kell a munkaköri leírást.
-
-(3)
-
-(4) A próbaidő tartama legfeljebb három hónap lehet.
-
-193/T. § (1) Nem minősül a munkaszerződés módosításának
-
-- a) a munkakör és a személyi alapbér változatlanul hagyása mellett a közigazgatási szerven belüli áthelyezés,
-- b) a munkakör és a személyi alapbér, valamint a munkavégzés helye szerinti település megváltozása nélkül a közigazgatási szerv személyében bekövetkezett jogutódlás miatti változás.
-
-(2) A munkaviszony megszűnik a prémiumévek programban történő részvétel esetén az erre vonatkozó külön törvény szabályai szerint.
-
-(3) Az e fejezet alapján foglalkoztatott munkavállalók esetében alkalmazni kell a Ktv. 14/A. §-ában foglaltakat.
-
-(4) A munkáltató működésével összefüggő okból történő felmondás esetén a munkavállaló a 97. § (2) bekezdésében foglaltaktól eltérően:
-
-- a) a munkavégzési kötelezettség alóli mentesítés idejére járó átlagkeresetre havonta egyenlő részletben jogosult,
-- b) a végkielégítést a felmentési idő utolsó napján kell kifizetni.
-
-(5) Ha a munkavállaló a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
-
-- a) ezt a tényt korábbi munkáltatójának haladéktalanul köteles írásban bejelenteni,
-- b) a felmondási időből hátralevő idő tekintetében átlagkeresetre nem jogosult,
-- c) végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmondással megszüntetett jogviszony alapján végkielégítésre jogosító idejét is számításba kell venni.
-
-193/U. § A munkavállaló nem lehet helyi önkormányzati képviselő annál az önkormányzatnál, amely őt alkalmazza.
-
-193/V. § A munkavállaló tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi munkabére nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
-
-193/Z. § Felhatalmazást kap a Kormány a közigazgatási szerveknél foglalkoztatott munkavállalók munkaviszonyával összefüggő személyi iratokra és munkaügyi nyilvántartásra vonatkozó részletszabályok megalkotására.
+193/R–193/Z. §
 
 ### XII/A. Fejezet — AZ ISKOLASZÖVETKEZET ÉS TAGJA KÖZÖTT FENNÁLLÓ MUNKAVISZONY SAJÁTOS SZABÁLYAI
 

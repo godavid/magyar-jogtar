@@ -618,7 +618,7 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 
 (3) A fizetésképtelenség miatti felszámolás megindításának közzététele után lakásszövetkezeti tagsági viszony nem létesíthető.
 
-(4) A lakásszövetkezet megszűnése esetén a vagyon a volt tagok és nem tag tulajdonosok közös tulajdonába kerül, érdekeltségük arányában.
+(4) A lakásszövetkezet megszűnése esetén a hitelezők követeléseinek teljesítése után fennmaradó vagyon a volt tagok és nem tag tulajdonosok közös tulajdonába kerül, érdekeltségük arányában.
 
 ### X. Fejezet — A LAKÁSSZÖVETKEZETI ÉRDEKKÉPVISELET
 

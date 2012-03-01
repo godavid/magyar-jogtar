@@ -86,9 +86,9 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a kormánymegbízott országgyűlési képviselő legyen, valamint tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen.
 
-(3) A kormánymegbízott illetményét a közigazgatás-szervezésért felelős miniszter – legfeljebb a köztisztviselői illetményalap 28-szorosában – állapítja meg. A kormánymegbízott – amennyiben kormányrendelet másként nem rendelkezik – helyettes államtitkárt megillető juttatásokra jogosult.
+(3) A kormánymegbízott illetményét a közigazgatás-szervezésért felelős miniszter – legfeljebb az illetményalap 28-szorosában – állapítja meg. A kormánymegbízott – amennyiben kormányrendelet másként nem rendelkezik – helyettes államtitkárt megillető juttatásokra jogosult.
 
-(4) A kormánymegbízottra az e törvényben nem szabályozott kérdésekben a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény helyettes államtitkárra vonatkozó rendelkezéseit kell az illetménypótlékra és illetménykiegészítésre vonatkozó szabályok kivételével alkalmazni.
+(4) A kormánymegbízottra az e törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény helyettes államtitkárra vonatkozó rendelkezéseit kell az illetménypótlékra és illetménykiegészítésre vonatkozó szabályok kivételével alkalmazni.
 
 12. § (1) A fővárosi és megyei kormányhivatal hivatali szervezetét főigazgató vezeti.
 
@@ -195,21 +195,21 @@ rendeletben határozza meg.
 
 (2) A fővárosi kormányhivatal a fővárosi közigazgatási hivatal általános jogutódja.
 
-24. § (1) Az Igazságügyi Hivatalnál foglalkoztatott igazságügyi alkalmazottak szolgálati viszonya e törvény hatálybalépésével egyidejűleg kormánytisztviselői jogviszonnyá alakul át. A jogviszony átalakulásáról az érintetteket a munkáltató az átalakulást követő tizenöt napon belül tájékoztatja.
+24. § (1)
 
-(2) Az (1) bekezdésben foglaltaktól eltérően nem alakul át az igazságügyi alkalmazott szolgálati viszonya, ha a munkáltató a kormánytisztviselők jogállásáról szóló törvény rendelkezései alapján nem létesíthet kormánytisztviselői jogviszonyt az igazságügyi alkalmazottal. Ebben az esetben az igazságügyi alkalmazotti szolgálati viszony a törvény erejénél fogva e törvény hatálybalépésével egyidejűleg megszűnik, az igazságügyi alkalmazott pedig az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 28. §-a szerinti végkielégítésre válik jogosulttá. A jogviszony megszűnéséről az igazságügyi alkalmazottat a munkáltatónak 15 napon belül írásban értesíteni kell.
+(2)
 
-(3) A (2) bekezdésben foglaltakat kell megfelelően alkalmazni, ha az igazságügyi alkalmazottal szemben a kormánytisztviselők jogállásáról szóló törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető és ennek érdekében az igazságügyi alkalmazott a jogviszony átalakulását megelőzően intézkedik, és ezt igazolja.
+(3)
 
 (4) Az (1) bekezdéstől eltérően az igazságügyi alkalmazotti szolgálati viszony munkajogviszonnyá alakul át, ha az igazságügyi alkalmazott a munkakörére tekintettel a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény hatálya alá tartozó munkáltatóval nem állhat kormánytisztviselői jogviszonyban. Ebben az esetben az igazságügyi alkalmazott átalakulás utáni munkabére legfeljebb az azonos szolgálati idővel rendelkező kormányzati ügykezelő alapilletményének megfelelő összegben határozható meg azzal, hogy a havi munkabér megállapítása során a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény 19. § (1) és (2) bekezdésében meghatározott illetménykiegészítéseket is figyelembe kell venni. Az illetmény összegével kapcsolatos tájékoztatást a jogviszony átalakulást követő 15 napon belül meg kell adni.
 
-(5) A jogviszony átalakulásának időpontjában felmentési vagy lemondási idejét töltő igazságügyi alkalmazott szolgálati viszonya, illetve a jogviszonyát közös megegyezés alapján megszüntető igazságügyi alkalmazott szolgálati viszonya nem alakul át kormánytisztviselői jogviszonnyá.
+(5)
 
-25. § (1) Az igazságügyi alkalmazotti szolgálati viszony kormánytisztviselői jogviszonnyá történő átalakulását követő tizenöt napon belül az igazságügyi alkalmazottat a kormánytisztviselői jogviszonyra vonatkozó szabályok szerint be kell sorolni és illetményét meg kell állapítani.
+25. § (1)
 
-(2) Az Igazságügyi Hivatal által vezetett személyi nyilvántartás adatait a munkáltatói jogkör gyakorlója a jogviszony átalakulását követő 15 napon belül köteles a közszolgálati alapnyilvántartásban átvezetni, és a személyi nyilvántartásban szereplő egyéb adatok megsemmisítéséről gondoskodni.
+(2)
 
-(3) Határozatlan időtartamú igazságügyi alkalmazotti szolgálati viszony – eltérő törvényi rendelkezés hiányában – határozatlan időtartamú kormánytisztviselői jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős kormánytisztviselői jogviszonnyá alakul át.
+(3)
 
 (4) Az átalakult jogviszony esetén a kormánytisztviselő igazságügyi alkalmazotti szolgálati viszonyban töltött idejét úgy kell tekinteni, mintha azt az államigazgatási szervnél töltötte volna el.
 

@@ -189,7 +189,7 @@ működik.
 
 (6) Az országos hivatal és a hivatalvezető feladatait a jogszabályok keretei között az alapszabály határozza meg.
 
-10/A. § (1) A szakmai kamara teljes munkaidőben foglalkoztatott tisztségviselőjének munkabére és egyéb juttatásai nem haladhatják meg a kormánytisztviselőkre vonatkozó bértábla alapján megállapítható legmagasabb összeget a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvényben foglaltak szerint.
+10/A. § A szakmai kamara teljes munkaidőben foglalkoztatott tisztségviselőjének munkabére és egyéb juttatásai nem haladhatják meg a kormánytisztviselőkre vonatkozó bértábla alapján megállapítható legmagasabb összeget a közszolgálati tisztviselőkről szóló törvényben foglaltak szerint.
 
 ### IV. Fejezet — A TERÜLETI SZERVEZETEK ÉS AZ ORSZÁGOS SZERVEK TISZTSÉGVISELŐINEK VÁLASZTÁSA, VISSZAHÍVÁSA
 
@@ -265,9 +265,9 @@ adja ki.
 
 (2a) Az egészségügyi szakképesítéssel nem rendelkező egészségügyi dolgozó az egészségügyi tevékenység végzése során – ha ennek feltételei az Eütv., valamint az egészségügyi tevékenység végzésének egyes kérdéseiről szóló törvény alapján fennállnak – kamarai tagság nélkül valamely egészségügyi szakképesítés megszerzéséig működhet közre a szakképesítéssel rendelkező egészségügyi dolgozók által ellátandó feladatokban.
 
-(3) Aki egészségügyi tevékenységet köztisztviselői vagy kormánytisztviselői (a továbbiakban együtt: közszolgálati) jogviszony keretében eljárva, nem kizárólag egészségügyi képesítéshez kötött munkakörben végez, kérheti kamarai tagsága szüneteltetését, vagy – amennyiben kamarai tagsággal nem rendelkezik – e jogviszonya keretében az egészségügyi tevékenységet kamarai tagság nélkül is végezheti. Ha a közszolgálati jogviszonyban álló személy további – nem közszolgálati – jogviszonyban is egészségügyi tevékenységet végez vagy kíván végezni, e további jogviszonyában az egészségügyi tevékenység végzés feltétele a kamarai tagság. Ez utóbbi esetben a közszolgálati jogviszony keretében végzett egészségügyi tevékenységgel összefüggésben valamennyi kamarai tagságból eredő jog és kötelezettség szünetel.
+(3) Aki egészségügyi tevékenységet közszolgálati, kormányzati szolgálati jogviszony keretében eljárva, nem kizárólag egészségügyi képesítéshez kötött munkakörben végez, kérheti kamarai tagsága szüneteltetését, vagy – amennyiben kamarai tagsággal nem rendelkezik – e jogviszonya keretében az egészségügyi tevékenységet kamarai tagság nélkül is végezheti. Ha a közszolgálati, kormányzati szolgálati jogviszonyban álló személy további – nem közszolgálati, kormányzati szolgálati – jogviszonyban is egészségügyi tevékenységet végez vagy kíván végezni, e további jogviszonyában az egészségügyi tevékenység végzés feltétele a kamarai tagság. Ez utóbbi esetben a közszolgálati, kormányzati szolgálati jogviszony keretében végzett egészségügyi tevékenységgel összefüggésben valamennyi kamarai tagságból eredő jog és kötelezettség szünetel.
 
-(4) A (3) bekezdésben foglaltaktól eltérően az, akinek közszolgálati jogviszonyban munkaköri feladatai körébe tartozik a szakmai kamara véleményezési jogával érintett jogszabály, illetve egyéb döntés meghozatala vagy érdemi előkészítése, e jogviszonya fennállása alatt kamarai tagsága e törvény erejénél fogva szünetel.
+(4) A (3) bekezdésben foglaltaktól eltérően az, akinek közszolgálati, kormányzati szolgálati jogviszonyban munkaköri feladatai körébe tartozik a szakmai kamara véleményezési jogával érintett jogszabály, illetve egyéb döntés meghozatala vagy érdemi előkészítése, e jogviszonya fennállása alatt kamarai tagsága e törvény erejénél fogva szünetel.
 
 (5) Az (1) bekezdésben szereplő rendelkezés nem érinti az egészségügyi dolgozó külön törvényben meghatározott elsősegély-nyújtási kötelezettségét, valamint a külön jogszabály szerinti pro família végezhető egészségügyi tevékenység gyakorlásának lehetőségét.
 
@@ -363,7 +363,7 @@ adja ki.
 
 21. § (1) Etikai ügyben első fokon annak a területi szervezetnek az etikai bizottsága jár el, amelynél az etikai eljárás megindulásakor az eljárás alá vont tag szakmai kamarai tagsági jogviszonya fennáll.
 
-(2) A munkaviszonyban, közalkalmazotti, közszolgálati vagy igazságügyi alkalmazotti jogviszonyban álló (a továbbiakban együtt: foglalkoztatott) kamarai tag által elkövetett etikai vétség gyanúja esetén a területi szervezet etikai bizottsága a munkáltatót írásban értesíti. A munkáltató az álláspontjáról, valamint a megtett intézkedéséről a kamarát köteles 30 napon belül, de legkésőbb – ha annak külön törvény szerint helye van – a fegyelmi eljárás lefolytatására irányadó határidő lejártát követő 5 napon belül tájékoztatni.
+(2) A munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati vagy igazságügyi alkalmazotti jogviszonyban álló (a továbbiakban együtt: foglalkoztatott) kamarai tag által elkövetett etikai vétség gyanúja esetén a területi szervezet etikai bizottsága a munkáltatót írásban értesíti. A munkáltató az álláspontjáról, valamint a megtett intézkedéséről a kamarát köteles 30 napon belül, de legkésőbb – ha annak külön törvény szerint helye van – a fegyelmi eljárás lefolytatására irányadó határidő lejártát követő 5 napon belül tájékoztatni.
 
 (3) A munkáltató a (2) bekezdés szerinti kötelezettségétől függetlenül is – az általa tett intézkedés közlése mellett – köteles a területi szervezetnél működő etikai bizottságot értesíteni, ha a foglalkoztatott kamarai tag olyan magatartást tanúsít, amely a munkáltató álláspontja alapján az e törvény szerinti etikai vétséget valósítja meg.
 

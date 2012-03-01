@@ -162,7 +162,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (4) Az elnököt a miniszteri, a főtitkárt a közigazgatási államtitkári, a főtitkárhelyettest a helyettes államtitkári illetménnyel azonos mértékű javadalmazás, valamint évente 40 munkanap szabadság illeti meg. Egyéb juttatásaik tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben, továbbá az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletben foglaltakat kell megfelelően alkalmazni.
 
-(5) Az elnök, a főtitkár és a főtitkárhelyettes jogállására az e törvényben nem szabályozott kérdésekben a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) rendelkezéseit kell – az 1–4. §, a 8. §, a 15. § f) pontja, a 23–36. §, az 50–56. §, valamint a VII. és VIII. fejezetben foglaltak kivételével – megfelelően alkalmazni.
+(5) Az elnök, a főtitkár és a főtitkárhelyettes jogállására az e törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell – az 1–4. §; a 6. § 5., 7., 12–15., 17., 19–20., 29–30., 32., 34. és 36. pontja; 8. § (1)–(4) bekezdése; 60. § (1) bekezdés e) pontja; 155–159. §-a; 195–202. §-a; 206–211. §-a; a IX. és X. fejezetben foglaltak; valamint a besorolásra, a közigazgatási alap- és szakvizsgára, a címadományozásra, a vezetőkre, a képzésre, továbbképzésre, a teljesítményértékelésre, és a minősítésre vonatkozó rendelkezések kivételével – megfelelően alkalmazni.
 
 ### Az Akadémia elnöke és alelnökei
 

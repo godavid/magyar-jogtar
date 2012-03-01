@@ -132,7 +132,13 @@ haladéktalanul értesíti azt a bíróságot, amely a jogi személyt nyilvánta
 
 ### A zár alá vétel és a biztosítási intézkedés
 
-11. § Ha a jogi személlyel szemben intézkedés alkalmazásának szükségessége merül fel, a zár alá vételt, illetőleg a biztosítási intézkedést a jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság és a jogi személyt előreláthatóan terhelő bűnügyi költség végrehajtásához szükséges vagyonra kell elrendelni.
+11. § (1) Ha a jogi személlyel szemben intézkedés alkalmazásának szükségessége merül fel, a zár alá vételt, illetve a biztosítási intézkedést a jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság és a jogi személyt előreláthatóan terhelő bűnügyi költség végrehajtásához szükséges vagyonra kell elrendelni.
+
+(2) A jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság és a jogi személyt előreláthatóan terhelő bűnügyi költség végrehajtásához szükséges vagyonra a zár alá vételt el kell rendelni, ha a bíróság vagy az ügyész engedélyezi, hogy a jogi személlyel szemben a felszámolási eljárást folytassák. A határozatban számszerűleg meg kell jelölni, hogy a zár alá vétel milyen összeg biztosítására szolgál.
+
+(3) A (2) bekezdés alapján történő zár alá vételt a bíróság az engedélyezésről szóló határozatban is elrendelheti. Az ügyész a határozat meghozatala előtt indítványozza a zár alá vételnek a (2) bekezdés alapján történő elrendelését, ha a felszámolási eljárás folytatásához az engedélyt megadja.
+
+(4) Ha a felszámoló kérelmére a büntetőügyben eljáró bíróság vagy a vádirat benyújtása előtt az ügyész a zár alá vett vagyon, vagyonrész vagy vagyontárgy értékesítését engedélyezi, az erről szóló határozatban a zár alá vételt arra az összegre korlátozza, ami a jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság és a jogi személyt előreláthatóan terhelő bűnügyi költség végrehajtását fedezni fogja. A zár alá vett vagyon, vagyonrész, illetve vagyontárgy helyébe a bíróság, illetve az ügyész által meghatározott összeg lép. A határozatot meg kell küldeni a zár alá vételt foganatosító bírósági végrehajtónak.
 
 ### A nyomozás
 
@@ -354,6 +360,8 @@ kell tartalmaznia.
 (4) A nyilvántartást vezető bíróság megszűntnek nyilvánítás esetén törli a jogi személyt a nyilvántartásból és abban feltünteti, hogy a törlésre hivatalból került sor. A tevékenység korlátozása esetén a nyilvántartást vezető bíróság a nyilvántartásban a határozat szerinti tevékenység korlátozását tünteti fel.
 
 (5) Ha a jogi személlyel szemben alkalmazott pénzbírság behajtására bírósági végrehajtási eljárás indult, és annak megindulásától számított hat hónapon belül a végrehajtás nem vezetett eredményre, a bírósági végrehajtó erről írásban értesíti az intézkedést alkalmazó bíróságot. A bíróság haladéktalanul kezdeményezi a jogi személlyel szemben a felszámolási eljárást.
+
+(6) Ha a 11. § (4) bekezdése alapján zár alá vett vagyon, vagyonrész, illetve vagyontárgy helyébe meghatározott összeg lépett, az eljárás megszüntetésekor vagy az ügydöntő határozatban rendelkezni kell a letéti számlán elhelyezett összegnek – a jogi személy ellen elrendelt felszámolási eljárásban kirendelt felszámoló értesítésével – a jogi személy számlájára történő átutalásáról.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

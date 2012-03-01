@@ -21,12 +21,12 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
   - c) a tartósan álláskereső;
   - d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 - 2. pályakezdő fiatal: a huszonötödik életévét – felsőfokú végzettségű személy esetén a harmincadik életévét – be nem töltött, foglalkoztatásra irányuló jogviszony létesítéséhez szükséges feltételekkel és érvényes START- kártyával rendelkező személy;
-- 3. foglalkoztatásra irányuló jogviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormánytisztviselői jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a hivatásos nevelő szülői jogviszony, a fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya;
+- 3. foglalkoztatásra irányuló jogviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a hivatásos nevelő szülői jogviszony, a fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya;
 - 4. ösztöndíjas foglalkoztatási jogviszony: az e törvény szerinti, szakmai készségek megszerzése céljából munkatapasztalat-szerzés biztosítására és ennek keretében az egyéni szakmai programban foglalt feladatok ellátására létrejött jogviszony;
 - 5. négy órát elérő részmunkaidő: a napi négy órát, illetve – munkaidőkeret megállapítása esetén a munkaidőkeret átlagában – a heti húsz órát elérő munkaidő;
-- 6. ösztöndíjas foglalkoztatott: az a személy, aki az ösztöndíjas foglalkoztatási jogviszony létesítésének időpontjában – a 30. életévét még nem töltötte be, és – akinek a diplomája a jogviszony létesítését megelőző két éven belül került kiadásra, és – munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, közszolgálati jogviszonyban, kormánytisztviselői jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
-- 7. foglalkoztató: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.), a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), vagy a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég;
-- 8. munkaügyi törvény:az Mt., a Ktv., a Kjt., és a Ktjv.
+- 6. ösztöndíjas foglalkoztatott: az a személy, aki az ösztöndíjas foglalkoztatási jogviszony létesítésének időpontjában – a 30. életévét még nem töltötte be, és – akinek a diplomája a jogviszony létesítését megelőző két éven belül került kiadásra, és – munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
+- 7. foglalkoztató: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.), a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.), a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt) hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég;
+- 8. munkaügyi törvény: az Mt., a Kttv., és a Kjt.;
 - 9. tartósan álláskereső: az a személy, akit az állami foglalkoztatási szerv a START PLUSZ kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőző 16 hónapon belül legalább 12 hónapig – az Flt. 58. §-a (5) bekezdésének k) pontjában meghatározott pályakezdő álláskereső esetében 8 hónapon belül legalább 6 hónapig – álláskeresőként nyilvántartott;
 - 10. öregségi nyugdíjra jogosult személy: az Flt. 58. §-a (5) bekezdésének i) pontjában meghatározott személy;
 - 11. rendelkezésre állási támogatásra jogosult álláskereső: az a személy, akit a START EXTRA kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontjában az állami foglalkoztatási szerv álláskeresőként nyilvántart, és foglalkoztatást helyettesítő támogatásban részesül.
@@ -217,7 +217,7 @@ AZ ÖSZTÖNDÍJAS FOGLALKOZTATÁS
 
 10. § (1) A munkavégzés alapjául szolgáló szerződés típusának megválasztása nem irányulhat az ösztöndíjas foglalkoztatott jogos érdekeinek védelmét biztosító rendelkezések érvényesülésének korlátozására, illetve csorbítására.
 
-(2) Az (1) bekezdés alapján az ösztöndíjas foglalkoztatott csak olyan feladatokat láthat el, amelyek a munkatapasztalat-szerzést szolgálják, s amelyek közvetlenül kapcsolódnak az egyéni programjában foglaltakhoz. Az ösztöndíjas foglalkoztatott önálló munkakör ellátásával nem bízható meg. A Ktv. és a Kjtv. hatálya alá tartozó foglalkoztató által létesített ösztöndíjas foglalkoztatási jogviszony keretében hatósági, igazgatási tevékenység nem látható el.
+(2) Az (1) bekezdés alapján az ösztöndíjas foglalkoztatott csak olyan feladatokat láthat el, amelyek a munkatapasztalat-szerzést szolgálják, s amelyek közvetlenül kapcsolódnak az egyéni programjában foglaltakhoz. Az ösztöndíjas foglalkoztatott önálló munkakör ellátásával nem bízható meg. A Kttv. hatálya alá tartozó foglalkoztató által létesített ösztöndíjas foglalkoztatási jogviszony keretében hatósági, igazgatási tevékenység nem látható el.
 
 (3) A munkatapasztalat-szerzés egyéni programját a törvény melléklete alapján kell meghatározni.
 
@@ -281,7 +281,10 @@ ad ki.
 (2) Az (1) bekezdésben foglaltakon túlmenően
 
 - a) Kjt. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell a Kjt. 43. §-át, valamint 55. §-át;
-- b) a Ktv. és a Kjtv. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell a Ktv. 7. § (1) bekezdésének első mondatát, (8) bekezdését 37. §-át, 39. § (1) és (4) bekezdését.
+- b) a Kttv. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell
+  - ba) a Kttv. 39. § (1) bekezdését, 207. § (1)–(2) bekezdését és a 241. § (1)–(2) bekezdését,
+  - bb) a Kttv. 10. § (3) bekezdését, valamint 76. § (1) bekezdését,
+  - bc) a Kttv. 89. § (1) bekezdését, 232. § (1) bekezdését, és 91. § (4) bekezdését.
 
 16. § Az ösztöndíjas foglalkoztatott foglalkoztatóját az ösztöndíjas START-kártyájának érvényességi ideje alatt megilleti a 4/A. §-ban meghatározott kedvezmény.
 

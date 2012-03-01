@@ -58,7 +58,7 @@ a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormán
 
 3. § (1) A képviselő-testület a polgármester illetményéről alakuló ülésén, illetőleg a polgármester megválasztását követő első ülésen dönt.
 
-(2) A képviselő-testület a polgármester illetményét a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 43. §-ának (1) bekezdése szerint megállapított illetményalap és az alábbi keretek között meghatározott szorzószám szorzataként, összegszerűen állapítja meg:
+(2) A képviselő-testület a polgármester illetményét a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) szerint megállapított illetményalap és az alábbi keretek között meghatározott szorzószám szorzataként, összegszerűen száz forintra kerekítve állapítja meg:
 
 Szorzószám
 
@@ -154,9 +154,27 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 12. § A jegyző, körjegyző, főjegyző kezeli a polgármester személyi anyagát, továbbá ellátja foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat.
 
-13. § (1) A polgármesteri foglalkoztatási jogviszonyra – a (2)–(3) bekezdés kivételével – megfelelően alkalmazni kell a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (Ktv.) következő rendelkezéseit: 37. §-át; 39. § (1)–(3), (5) bekezdését; 47. § (1)–(2), (4) bekezdését; 48. §-át; 49. §-át; 49/A. §-át; 49/C. §-át; 49/E–49/H. §-át; 51. § (1)–(4) bekezdését; 51/A. § (2)–(6) bekezdését; 52. § (1)–(2) bekezdését (az 51–51/A. § és az 52. § alkalmazásánál a vizsgálóbiztos helyett vizsgálóbizottság jár el); 54–55. §-át; 55/A. § (1) bekezdését [az 54. és 55/A. § (1) bekezdés alkalmazásánál a fegyelmi tanácson képviselő-testület értendő]; 56. § (1) bekezdését; 58. §-át; 59. § (1)–(4) bekezdését; 71. § (2) bekezdését, kivéve a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénynek a bekezdésben felsorolt következő rendelkezéseit: 85. §-át; 90. §-ának (1)–(2) bekezdését; 105–106. §-át; 132. § (1) bekezdését; 140. §-át; 167–168. §-át.
+13. § (1) A polgármesteri foglalkoztatási jogviszonyra megfelelően alkalmazni kell a Kttv. következő rendelkezéseit: 6. § 10 és 24 pontját; 9. § (1)–(3) bekezdését; 10–13. §-át; 15. §-át; 17. §-át; 19. §-át; 21–24. §-át; 25. § (1), (3)–(4) és (6) bekezdését; 74. § (1) bekezdés második mondatát és (2) bekezdését; 75. § (1) bekezdés a)–b) és f)–h) pontját; 76. § (1) bekezdését; 79. §-át; 81. § (3)–(5) bekezdését; 89. § (1) bekezdését; 93. § (1)–(2) bekezdését; 94. § (1) bekezdését; 102–107. §-át; 109–114. §-át; 132. §-át; 141. § (1)–(9) bekezdését; 144. § (3) bekezdés a)–b) és d) pontját és (4) bekezdését; 145. §-át; 146. § (1) és (3)–(7) bekezdését; 147-153. §-át; 156. § (1) és (3)–(4) bekezdését; 157. § (2) bekezdését, (3) bekezdés első mondatát és (4) bekezdését; 159. §-át; 160. § (1)–(2) és (5) bekezdését; 165–175. §; 189. §-át; 192. §-át.
 
-(2) A felsőfokú iskolai végzettségű, foglalkoztatási jogviszonyban álló polgármester esetében a Ktv. 25. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a polgármester – megválasztását követően legalább egy év foglalkoztatási jogviszony eltöltése után – közigazgatási alapvizsgát tehet.
+(2) A Kttv. következő rendelkezéseit a polgármester foglalkoztatási jogviszonyára az alábbi eltérésekkel kell alkalmazni:
+
+- a) 18. § (1) bekezdését azzal, hogy a polgármester a munkavégzéssel összefüggő jognyilatkozatát csak személyesen teheti meg,
+- b) 69. §-át azzal, hogy a foglalkoztatási jogviszonyban álló polgármester esetében a (2) bekezdésben meghatározott végkielégítés tisztségének megszűnése napján illeti meg,
+- c) 78. § (1)–(4) bekezdését azzal, hogy felettes szerv alatt a képviselő-testületet kell érteni,
+- d) 115. § (1) bekezdésének a) és c)–d) pontját azzal, hogy munkáltató alatt a jegyzőt kell érteni,
+- e) 143. §-át azzal, hogy az (1) bekezdésben „az e törvény 131–142. §-a alapján” szövegrész nem alkalmazható,
+- f) 158. §-át azzal, hogy a fegyelmi eljárást a képviselő-testület szünteti meg,
+- g) 176. § (1) bekezdését azzal, hogy munkáltató alatt a jegyzőt kell érteni, továbbá a (3) bekezdést,
+- h) 184. § (2) bekezdését azzal, hogy a polgármester személyi anyagába történő betekintésre a 180. § (1) bekezdés c) és l) pontja nem alkalmazható, a 180. § (1) bekezdés b) pontjában meghatározott felettes alatt a képviselő-testületet kell érteni,
+- i) 184. § (3) bekezdését azzal, hogy a polgármester személyi anyagát a jegyző kéri meg.
+
+(2a) A felsőfokú iskolai végzettségű, foglalkoztatási jogviszonyban álló polgármester esetében a Kttv. 118. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a polgármester – megválasztását követően legalább egy év foglalkoztatási jogviszony eltöltése után – közigazgatási alapvizsgát tehet.
+
+(2b) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a munkaügyi bírósághoz fordulhat.
+
+(2c) A polgármester a munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül, egyéb esetekben az igény érvényesítésére vonatkozó elévülési időn belül fordulhat a bírósághoz.
+
+(2d) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
 
 (3) A társadalmi megbízatású polgármester nem jogosult jubileumi jutalomra, napidíjra, közszolgálati járadékra, valamint az egyéb juttatásokra.
 
@@ -193,7 +211,7 @@ A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fe
 
 (3) A polgármester képviselőként tiszteletdíjat nem kaphat.
 
-15. § (1) A képviselő havi tiszteletdíja (alapdíj) nem haladhatja meg a Ktv. 43. § (1) bekezdése szerint megállapított illetményalap, és az alább meghatározott szorzószám szorzatát:
+15. § (1) A képviselő havi tiszteletdíja (alapdíj) nem haladhatja meg a Kttv. szerint megállapított illetményalap, és az alább meghatározott szorzószám száz forintra kerekített szorzatát:
 
 – 1000-nél kevesebb lakosú település esetén 1,0
 

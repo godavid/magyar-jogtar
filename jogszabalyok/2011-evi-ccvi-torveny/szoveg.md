@@ -284,9 +284,9 @@ az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (3) bekezdése al
 - a) a 35. §-nak megfelelően kezdeményezheti egyesületként való nyilvántartásba vételét, és
 - b) ha az e törvényben meghatározott feltételeknek megfelel, a III. Fejezetben foglaltak szerint kezdeményezheti az egyesület egyházként történő elismerését.
 
-35. § (1) A szervezet 2012. február 29-éig nyilatkozik továbbműködési szándékának hiányáról vagy – továbbműködési szándék esetén – az egyesületre vonatkozó szabályok szerint változásbejegyzési eljárást indít, amelyre a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 37. § (1) bekezdését, 38. §-át, valamint 63. § a) és c) pontját kell alkalmazni azzal, hogy alakuló ülésen az átalakulást elhatározó ülést kell érteni.
+35. § (1) A szervezet 2012. február 29-éig nyilatkozik továbbműködési szándékának hiányáról vagy – továbbműködési szándék esetén – az egyesületre vonatkozó szabályok szerint változásbejegyzési eljárást indít, amelyre a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 37. § (1) bekezdését, 38. §-át és 63. §-át kell alkalmazni azzal, hogy alakuló ülésen az átalakulást elhatározó ülést kell érteni.
 
-(2) A szervezet az egyesület nyilvántartásba vételéhez szükséges feltételeket legkésőbb 2012. június 30-áig teljesítheti azzal, hogy ha a szervezet vallási tevékenységét 2012. január 1-jétől a 2011. december 31-én hatályos belső egyházi szabályában meghatározott szervezeti keretek között változatlanul végzi, a bíróság az egyesület bírósági nyilvántartásba vétele során a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 62. § (4) bekezdés b) pontja szerinti feltételekkel kapcsolatosan nem vizsgálja, hogy a szervezet létesítő okirata megfelel-e a legfőbb szerv, az ügyintéző szerv és a képviseleti szerv létrejöttére és hatáskörére vonatkozó törvényi szabályoknak. E határidő elmulasztása jogvesztő.
+(2) A szervezet az egyesület nyilvántartásba vételéhez szükséges feltételeket legkésőbb 2012. június 30-áig teljesítheti azzal, hogy ha a szervezet vallási tevékenységét 2012. január 1-jétől a 2011. december 31-én hatályos belső egyházi szabályában meghatározott szervezeti keretek között változatlanul végzi, a bíróság az egyesület bírósági nyilvántartásba vétele során a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 62. § (3) bekezdés b) pontja, 63. § (1), (3) és (4) bekezdése szerinti feltételekkel kapcsolatosan nem vizsgálja, hogy a szervezet létesítő okirata megfelel-e a legfőbb szerv, az ügyintéző szerv és a képviseleti szerv létrejöttére és hatáskörére vonatkozó törvényi szabályoknak. E határidő elmulasztása jogvesztő.
 
 (3) A bíróság a szervezetet a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 2012. február 29-én hatályos 116. § (3)–(6) bekezdésének, 117. §-ának és 118. §-ának alkalmazásával kényszer-végelszámolási eljárás keretében jogutód nélkül megszünteti, ha a szervezet
 
@@ -360,6 +360,10 @@ az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (3) bekezdése al
 
 #### Az Országgyűlés által elismert magyarországi egyházak, vallásfelekezetek és vallási közösségek
 
+29 A 2012: VII. törvény 3. §-a alapján a Magyarországi Iszlám Tanácsot alkotó közösségek a következők: Magyar Iszlám Közösség, Magyarországi Muszlimok Egyháza.
+
+30 A 2012: VII. törvény 2. §-a alapján a buddhista vallási közösségek a következők: a Tan Kapuja Buddhista Egyház, Buddhista Misszió, Magyarországi Árya Maitreya Mandala Egyházközösség, Magyarországi Karma – Kagyüpa Buddhista Közösség, Magyarországi Kínai Chanbuddhista Egyház, Gyémánt Út Buddhista Közösség.
+
 |  | A |
 | --- | --- |
 | 1 | Magyar Katolikus Egyház |
@@ -376,3 +380,16 @@ az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (3) bekezdése al
 | 12 | Magyar Unitárius Egyház Magyarországi Egyházkerülete (Magyarországi Unitárius Egyház) |
 | 13 | Magyarországi Baptista Egyház |
 | 14 | HIT Gyülekezete |
+| 15 | Magyarországi Metodista Egyház |
+| 16 | Magyar Pünkösdi Egyház |
+| 17 | Szent Margit Anglikán/Episzkopális Egyház |
+| 18 | Erdélyi Gyülekezet |
+| 19 | Hetednapi Adventista Egyház |
+| 20 | Magyarországi Kopt Ortodox Egyház |
+| 21 | Magyarországi Iszlám Tanács29 |
+| 22 | Krisztusban Hívő Nazarénus Gyülekezetek |
+| 23 | Magyarországi Krisna-tudatú Hívők Közössége |
+| 24 | Az Üdvhadsereg Szabadegyház Magyarország |
+| 25 | Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza |
+| 26 | Magyarországi Jehova Tanúi Egyház |
+| 27 | Buddhista vallási közösségek30 |

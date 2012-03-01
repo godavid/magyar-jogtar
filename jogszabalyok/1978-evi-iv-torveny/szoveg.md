@@ -3520,9 +3520,12 @@ feltéve, ha az első fokú ítélet meghozataláig okirattal igazolja, hogy leg
 
 (2) Nem büntethető, aki – mielőtt a kábítószer készítését elősegítő tevékenysége a hatóság tudomására jutott volna – a cselekményét a hatóság előtt felfedi, a birtokában lévő kábítószer-prekurzort a hatóságnak átadja, és lehetővé teszi a kábítószer készítésének elősegítésében részt vevő más személy kilétének megállapítását.
 
-### Visszaélés teljesítményfokozó szerrel vagy módszerrel
+### Visszaélés új pszichoaktív anyaggal
 
-#### 283/B. §
+283/B. § Aki új pszichoaktív anyagot
+
+- a) az országba behoz, onnan kivisz, vagy az ország területén átvisz,
+- b) előállít, kínál, átad, forgalomba hoz, vagy azzal kereskedik, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
 ### Járványügyi szabályszegés
 
@@ -3542,7 +3545,7 @@ feltéve, ha az első fokú ítélet meghozataláig okirattal igazolja, hogy leg
 
 ### Elkobzás
 
-286. § Robbanóanyaggal vagy robbantószerrel visszaélés (263. §), lőfegyverrel vagy lőszerrel visszaélés (263/A. §), haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés (263/B. §), radioaktív anyaggal (264. §), nukleáris létesítmény üzemeltetésével (264/A. §), nemzetközi szerződés által tiltott fegyverrel (264/C. §), méreggel való visszaélés (265. §), veszélyes eb tartásával kapcsolatos kötelezettség megszegése (266. §), tiltott állatviadal szervezése (266/A. §), állatkínzás (266/B. §), ártalmas közfogyasztási cikkel (279. §) vagy kábítószerrel visszaélés (282–283. §) és visszaélés kábítószer előállításához használt anyaggal (283/A. §) esetén a 77/A. § (1) bekezdése nem alkalmazható.
+286. § Robbanóanyaggal vagy robbantószerrel visszaélés (263. §), lőfegyverrel vagy lőszerrel visszaélés (263/A. §), haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés (263/B. §), radioaktív anyaggal (264. §), nukleáris létesítmény üzemeltetésével (264/A. §), nemzetközi szerződés által tiltott fegyverrel (264/C. §), méreggel való visszaélés (265. §), veszélyes eb tartásával kapcsolatos kötelezettség megszegése (266. §), tiltott állatviadal szervezése (266/A. §), állatkínzás (266/B. §), ártalmas közfogyasztási cikkel (279. §), visszaélés kábítószerrel (282–283. §), visszaélés kábítószer előállításához használt anyaggal (283/A. §) és visszaélés új pszichoaktív anyaggal (283/B. §) esetén a 77/A. § (1) bekezdése nem alkalmazható.
 
 ### Értelmező rendelkezés
 
@@ -3567,6 +3570,8 @@ kell érteni.
 - g) közvetítői tevékenységen a 111/2005/EK tanácsi rendelet 2. cikkének e) pontjában meghatározott fogalmat
 
 kell érteni.
+
+(4) A 283/B. § alkalmazásában új pszichoaktív anyagon az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott fogalmat kell érteni.
 
 ### XVII. Fejezet — A gazdasági
 

@@ -46,7 +46,7 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 
 (3) Ha a munkaviszony nem egyszerűsített foglalkoztatás céljából jött létre, a munkaszerződés nem módosítható annak érdekében, hogy a munkáltató a munkavállalót egyszerűsített foglalkoztatás keretében foglalkoztassa.
 
-(4) Nem létesíthető egyszerűsített foglalkoztatásra irányuló jogviszony a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 1. §-ában, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 1. § (1) bekezdésében meghatározott munkáltató által az alaptevékenységébe tartozó feladatai ellátására.
+(4) Nem létesíthető egyszerűsített foglalkoztatásra irányuló jogviszony a közszolgálati tisztviselőkről szóló törvény 1. § e) pontjában, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 1. § (1) bekezdésében meghatározott munkáltató által az alaptevékenységébe tartozó feladatai ellátására.
 
 4. § (1) Egyszerűsített foglalkoztatás céljára létesített munkaviszonyra az Mt., valamint a kötelező legkisebb munkabérről és a garantált bérminimumról szóló külön jogszabály rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 

@@ -89,7 +89,7 @@ terjed ki.
 - c) társas vállalkozás tagjaként,
 - d) közalkalmazotti jogviszonyban,
 - e) munkaviszonyban,
-- f) közszolgálati jogviszonyban,
+- f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban,
 - g) szolgálati jogviszonyban,
 - h) egyházi személyként,
 - i) önkéntes segítőként,
@@ -169,7 +169,12 @@ végezhet.
 
 láthat el.
 
-(6) Egészségügyi ügyelet a rendes munkaidő terhére is elrendelhető, ha ebben a felek előzetesen írásban megállapodtak. Ebben az esetben az alkalmazott egészségügyi dolgozó rendes munkaidő teljesítésére vonatkozó kötelezettségét egészségügyi ügyelet ellátásával is teljesítheti. Ha az egészségügyi ügyelet része a rendes munkaidőnek, az alkalmazott egészségügyi dolgozó alapbérére, illetményére a megállapodásban ki kell térni. Eltérő megállapodás hiányában az alkalmazott egészségügyi dolgozót a rendes munkaidőnek minősített egészségügyi ügyelet minden órájára – ha a 13/A. § alapján megállapított ügyeleti díj mértéke annál kevesebb – illetményének vagy személyi alapbérének egy órára eső összege illeti meg.
+(5a) A munkáltató a heti 40 órás teljes munkaidőben foglalkoztatott egészségügyi dolgozó rendes munkaideje terhére naptári hetenként legfeljebb 16 óra egészségügyi ügyeletet is elrendelhet. Ebben az esetben az alkalmazott egészségügyi dolgozó a rendes munkaidő teljesítésére vonatkozó kötelezettségét az egészségügyi ügyelet ellátásával teljesíti. Az alkalmazott egészségügyi dolgozót a rendes munkaidőnek minősített egészségügyi ügyelet minden órájára illetményének vagy személyi alapbérének egy órára eső összege illeti meg. Az ilyen módon elrendelt egészségügyi ügyelet
+
+- a) a 13. § (1) bekezdése szerinti időkeretbe nem számítandó bele,
+- b) tekintetében a 12/B. § (4) bekezdés a) pontjában foglalt korlátozást nem kell alkalmazni, azonban a heti pihenőnapon rendes munkaidő terhére elrendelt egészségügyi ügyelet után az alkalmazott egészségügyi dolgozót Mt. 147. § (3) bekezdése szerinti pótlék illeti meg.
+
+(6) Egészségügyi ügyelet – az (5a) bekezdésben foglaltakon túlmenően – a rendes munkaidő terhére abban az esetben is elrendelhető, ha ebben a felek előzetesen írásban megállapodtak. Ebben az esetben az alkalmazott egészségügyi dolgozó rendes munkaidő teljesítésére vonatkozó kötelezettségét egészségügyi ügyelet ellátásával is teljesítheti. Ha az egészségügyi ügyelet része a rendes munkaidőnek, az alkalmazott egészségügyi dolgozó alapbérére, illetményére a megállapodásban ki kell térni. Eltérő megállapodás hiányában az alkalmazott egészségügyi dolgozót a rendes munkaidőnek minősített egészségügyi ügyelet minden órájára – ha a 13/A. § alapján megállapított ügyeleti díj mértéke annál kevesebb – illetményének vagy személyi alapbérének egy órára eső összege illeti meg.
 
 (7) Amennyiben az alkalmazott egészségügyi dolgozó jogviszonya kizárólag ügyeleti feladatok ellátására irányul, az ügyeleti feladatok ellátására e jogviszonyban kizárólag készenléti jellegű munkakörben kerülhet sor.
 
@@ -201,7 +206,9 @@ láthat el.
 (3) Az (1) bekezdés szerinti egészségügyi ügyelet esetében a minősítés során meg kell jelölni, hogy annak mely része
 
 - a) a munkáltató által a 13. § (1) bekezdése szerinti keret terhére elrendelt munkaidő,
-- b) a 12. § (6) bekezdése szerinti megállapodás alapján rendes munkaidő terhére elszámolt egészségügyi ügyelet.
+- b) 12. § (5a) bekezdése alapján a munkáltató által a rendes munkaidő terhére egyoldalúan elrendelt egészségügyi ügyelet,
+- c) a 12. § (6) bekezdése szerinti megállapodás alapján rendes munkaidő terhére elrendelt egészségügyi ügyelet,
+- d) az a), b), c) pontok alapján elrendelt órákat meghaladóan, a 13. § (2) bekezdés alapján önként vállalt többletmunkának minősülő egészségügyi ügyelet.
 
 (4) A heti pihenőnapon elrendelt egészségügyi ügyelet
 
@@ -209,6 +216,8 @@ láthat el.
 - b) az egészségügyi dolgozó részére a munkáltató által egyoldalúan, a 13. § (1) bekezdése szerinti keret terhére vagy a 13. § (2) bekezdése szerinti megállapodás alapján az önként vállalt többletmunkaórák terhére rendelhető el.
 
 (5) A 12. § (6) bekezdése szerint kötött megállapodás alapján az egészségügyi dolgozó számára rendes munkaidő terhére beosztott egészségügyi ügyeletnek az egészségügyi szolgáltató, illetve az adott szervezeti egység Eütv. 93. § szerinti ügyeleti szolgálatának időtartamára kell esnie.
+
+(6) A 13. § (5) bekezdés b) pontja alapján az alkalmazott egészségügyi dolgozó 12 órát meghaladó napi munkaidőre csak a 13. § (2) bekezdésében foglalt megállapodás alapján, önként vállalt többletmunka terhére osztható be.
 
 13. § (1) Az alkalmazott egészségügyi dolgozó számára a napi huszonnégy órán át folyamatos szolgáltatást nyújtó egészségügyi szolgáltatók esetében hathavi, más egészségügyi szolgáltatók esetében négyhavi munkaidőkeret állapítható meg. Az alkalmazott egészségügyi dolgozó számára – a heti 40 órás rendes munkaidőn felül – naptári évenként legfeljebb 416 óra egészségügyi ügyelet rendelhető el azzal, hogy a rendkívüli munkavégzés és az elrendelt egészségügyi ügyelet együttes időtartama nem haladhatja meg naptári évenként a 416 órát. A heti munkaidő – a (2) bekezdésben foglalt kivétellel – a munkáltató rendelkezése szerint a munkaidőkeret átlagában a 48 órát nem haladhatja meg azzal, hogy ennek terhére a munkáltató a napi munkarend szerinti munkaidőn túl
 
@@ -274,9 +283,9 @@ rendelhet el.
 
 15/B. § Július 1-je Semmelweis-nap, amely az egészségügyi szolgáltatóknál foglalkoztatási jogviszonyban álló egészségügyi dolgozókra és egészségügyben dolgozókra kiterjedően munkaszüneti nap.
 
-### Közszolgálati jogviszony és szolgálati viszony
+### Közszolgálati jogviszony, kormányzati szolgálati jogviszony és szolgálati viszony
 
-16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
+16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony, kormányzati szolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
 
 (2) Az egészségügyi dolgozó jogosult egészségügyi tevékenység végzése céljából a külön törvényben nevesített szervekkel szolgálati viszonyt létesíteni.
 

@@ -2,6 +2,12 @@
 
 az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény módosításáról
 
-1–2. §
+1. § Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény (a továbbiakban: Különadó tv.) 4/A. § (19) bekezdése helyébe az alábbi rendelkezés lép:
+
+„(19) Az állami adóhatóság az adózót megillető adó-visszatérítést vagy annak egy részét teljesítheti olyan állampapírnak az adózó értékpapír-számlájára (az adózó tulajdonába adása érdekében) történő továbbítása révén is, amely állampapír által megtestesített valamennyi kötelezettség teljesítése legkésőbb az állampapír továbbításának napját követő 366. napon esedékessé válik. Az adózó értékpapír-számlája számát a bevallásban, vagy az állami adóhatóság felszólítására közli az állami adóhatósággal. Ha az adó-visszatérítést az állami adóhatóság részben vagy egészben állampapírnak az adózó értékpapír-számlájára történő továbbítása révén teljesíti, kiutalás napjának az állampapír továbbításának értéknapja számít. Az adó-visszatérítés teljesítése során az adózó részére továbbítandó állampapír-mennyiséget az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként az érintett állampapír-sorozatokra vonatkozóan számított, az adózó értékpapírszámlájára történő továbbítás értéknapját kettővel megelőző kereskedési napon közzétett legjobb vételi és eladási bruttó árfolyamok számtani átlaga alapján kell meghatározni, valamint – szükség szerint – a Magyar Nemzeti Bank által ugyanerre a napra vonatkozóan közzétett hivatalos devizaárfolyam az irányadó; kétség esetén az állami adóhatóság köteles bizonyítani, hogy az adó-visszatérítés teljesítése e törvény rendelkezései szerint megtörtént. Az állami adóhatóság az állampapír továbbításával történő adó-visszatérítést az ÁKK Zrt. útján teljesíti, és az adóhatóság ennek érdekében jogosult arra, hogy az ÁKK Zrt.-t tájékoztassa az adózó cégnevéről, adószámáról, értékpapír-számlájának azonosító adatairól és az adózót megillető adó-visszatérítés összegéről; az így átadott adatokra az adózás rendjéről szóló törvénynek az adótitokra vonatkozó rendelkezései az irányadók.”
+
+2. § A Különadó tv. a következő 9. §-sal egészül ki:
+
+„9. § Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény módosításáról szóló 2012. évi VIII. törvénnyel (e § alkalmazásában: törvény) módosított 4/A. § (19) bekezdését a törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
 
 3. § Ez a törvény a kihirdetést követő napon lép hatályba.
