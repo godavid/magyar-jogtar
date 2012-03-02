@@ -113,6 +113,8 @@ Az erős, de az indokoltnál nem nagyobb, a változásokhoz gyorsan és rugalmas
 
 (8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
 
+(9) Az (1)–(4) bekezdésben foglalt szabályokat az Állambiztonsági Szolgálatok Történeti Levéltára esetében nem kell alkalmazni.
+
 ### II. Fejezet — KÖZÖS SZABÁLYOK
 
 ### Általános magatartási követelmények
