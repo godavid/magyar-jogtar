@@ -1360,7 +1360,7 @@ hatályát veszti.
 
 243–244. §
 
-245. § A 243. § és a 244. § 2012. március 1-jén hatályát veszti.
+245. §
 
 ### 1. melléklet a 2011. évi CLXXIX. törvényhez
 

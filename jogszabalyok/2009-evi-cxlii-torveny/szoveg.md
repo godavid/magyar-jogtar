@@ -46,15 +46,15 @@ a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogá
 
 32. § (1)
 
-(2) E törvény – a (3)–(5) bekezdésben meghatározott eltéréssel – 2010. március 1-jén a hatályát veszti.
+(2)
 
 (3)
 
-(4) A 3. §, 5. §, 7–9. §, 10. § (2) bekezdése, 11–12. §, 22. § (1) bekezdése, 23. §, 27. §, 30. §, 31. § (2)–(4) bekezdése, a 32. § (3) bekezdése, a 33. § (2) bekezdése és a 34. § (1) és (3) bekezdése 2012. március 1-jén a hatályát veszti.
+(4)
 
-(5) A 32. § (2) és (4) bekezdése, valamint 33. § (1) bekezdése 2015. március 1-jén a hatályát veszti. E bekezdés 2015. március 2-án a hatályát veszti.
+(5)
 
-33. § (1) E törvény hatálybalépésekor szerződéses katonai szolgálatot teljesítők leszerelési segélyre való jogosultságát (a nyilvántartott leszerelési segély mértékét) a Hjt. 68. §-a alapján újból meg kell állapítani. A hatálybalépéskor fennálló szerződés lejártáig – annak módosítása hiányában – a korábbi szabályok szerint megállapított leszerelési segély helyett akkor kell az új szabályokat alkalmazni, ha a lejárat időpontjában az új szabályok által biztosított leszerelési segély összesített havi mértéke magasabb.
+33. § (1)
 
 (2)
 
