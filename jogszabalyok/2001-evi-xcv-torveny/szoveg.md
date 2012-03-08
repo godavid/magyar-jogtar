@@ -3620,7 +3620,7 @@ Ezek különösen az alábbiak:
 267. § E törvény
 
 - a) 43. §-a, valamint az 52. § (4) és (5) bekezdése a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
-- b) 98. §-a, 102/A. §-a és a 103. § (1) bekezdés a) pontja az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló 1996. június 3-i 96/34/EK tanácsi irányelvnek,
+- b) a 98. §-a, 102/A. §-a és a 103. § (1) bekezdés a) pontja a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010. március 8-i 2010/18/EU tanácsi irányelvnek
 - c) 59. § (9) bekezdése a csoportos létszámcsökkentésre vonatkozó tagállami jogszabályok közelítéséről szóló 1998. július 20-i 98/59/EK tanácsi irányelvnek,
 - d) 6. §-a és a 93. § (1) bekezdése a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló 2006. július 5-i 2006/54/EK európai parlamenti és tanácsi irányelvnek,
 - e) 61/B. §-a az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keret-megállapodásról szóló 1997. december 15-i 97/81/EK tanácsi irányelvnek és
@@ -3678,7 +3678,7 @@ való megfelelést szolgálja.
 
 279. § E törvénynek a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény és más törvények szolgálati viszonnyal kapcsolatos módosításáról szóló 2011. évi CXCII. törvénnyel megállapított 7. és 8. számú melléklete szerinti nyilatkozatokat a KNBSZ 2012. január 1-jén hivatásos állományban lévő tagjának 2012. március 30-ig kell megtennie.
 
-280. § (1) A honvéd tisztjelölt 2012. január 1-jén hatályos ösztöndíjszerződésének azon elemeit, amelyek kizárólag az NKE létrejöttével kapcsolatban, vagy a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény és más törvények szolgálati viszonnyal kapcsolatos módosításáról szóló 2011. évi CXCII. rendelkezéseire figyelemmel módosulnak, a Honvédség 2012. február 1-ig egyoldalúan módosítja, és erről a honvéd tisztjelölt részére értesítést küld. Az ösztöndíjszerződés más elemeinek módosítása közös megegyezéssel történhet.
+280. § (1) A honvéd tisztjelölt 2012. január 1-jén hatályos ösztöndíjszerződésének azon elemeit, amelyek kizárólag az NKE létrejöttével kapcsolatban, vagy a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény és más törvények szolgálati viszonnyal kapcsolatos módosításáról szóló 2011. évi CXCII. törvény rendelkezéseire figyelemmel módosulnak, a Honvédség 2012. február 1-ig egyoldalúan módosítja, és erről a honvéd tisztjelölt részére értesítést küld. Az ösztöndíjszerződés más elemeinek módosítása közös megegyezéssel történhet.
 
 (2) 2012. január 1-jén honvédtiszti alapképzésben részt vevő honvéd tisztjelölt esetén a Zászlóalj 2012. január 31-ig felterjeszti a nemzetbiztonsági ellenőrzés lefolytatása iránti kérelmet. A kérelem alapján a nemzetbiztonsági ellenőrzést 2012. március 15-ig el kell rendelni.
 
