@@ -8,7 +8,7 @@ a lőfegyverekről és lőszerekről
 
 (2) E törvény hatálya nem terjed ki a Magyar Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, a Magyarország területén állomásozó fegyveres szervek, a fegyveres biztonsági őrség lőfegyvereinek és lőszereinek megszerzésére és tartására.
 
-2. § E törvény alkalmazásában:
+2. § E törvény, valamint a végrehajtására kiadott jogszabályok alkalmazásában:
 
 - 1. automata lőfegyver: olyan lőfegyver, amely minden lövés után automatikusan újratölt, és az elsütőszerkezet egyszeri működtetésével egynél több lövést képes leadni;
 - 2. áthatoló (páncéltörő) lőszer: olyan lőszer, amelynél a lövedéket köpeny burkolja és páncéltörő (áthatoló) kemény maggal rendelkezik, ideértve a nem páncéltörő rendeltetésű acélmagvas lőszereket is;
@@ -46,23 +46,37 @@ a lőfegyverekről és lőszerekről
 - 31. festéklövő fegyver: olyan sűrített levegő vagy egyéb sűrített gáz felhasználásával működő eszköz, melynek csövéből 15 joule vagy annál kisebb mozgási energiával lőhető ki festéklövedék;
 - 32. gáz- és riasztófegyver: olyan eszköz, amely rendeltetésszerűen csak gáztöltény és riasztótöltény működtetésére alkalmas;
 - 33. gáztöltény: olyan, szilárd anyagú lövedékkel nem rendelkező töltény, amely a szemre és a légutakra ingerlő hatást kifejtő adalékanyagot tartalmaz;
-- 34. riasztó- és vaktöltény: lövedékkel nem rendelkező hang-, fény- és füsthatás kiváltására szolgáló töltény;
-- 35. színházi fegyver: lövedék kilövésére alkalmatlan, csak riasztótöltény (vaktöltény) működtetésére alkalmas eszköz.
+- 34. riasztótöltény: az a lövedékkel nem rendelkező, hang-, fény- és füsthatás kiváltására szolgáló töltény, amelynek kaliberjelét a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendelet, illetve az abban meghatározott szabvány a riasztópisztoly és a riasztó revolvertöltények körében nevesíti;
+- 35. színházi fegyver: kifejezetten vaktöltény működtetésére készült, lőfegyverből kialakított fegyver, amelynek csövét (forgódobját) úgy alakították át, hogy az a fegyverhez eredetileg használható lőszer befogadására nem alkalmas, illetve a csőben elhelyezett szűkítések megakadályozzák űrméretes lövedékek kilövését, továbbá az a lövedék kilövésére alkalmatlan gáz- és riasztófegyver, amelyet színházi fegyverként kívánnak használni;
+- 36. átadás: amikor a tartásra jogosító hatósági engedélyben megjelölt eszköz a tartására jogosult felügyelete alól kikerül;
+- 37. átengedés: amikor a tartásra jogosító hatósági engedélyben megjelölt eszközt a tartására jogosult felügyelete alatt használják vagy birtokolják;
+- 38. fegyver: a lőfegyver, a gáz- és riasztófegyver, a légfegyver, a festéklövő fegyver, a muzeális fegyver, valamint a színházi fegyver;
+- 39. festéklövedék: a festéklövő fegyverekhez használatos, becsapódáskor felrepedő burokban folyékony festékanyagot tartalmazó, 5 grammot nem meghaladó tömegű, 12 mm-nél nagyobb átmérőjű lövedék;
+- 40. fegyverviselés: fegyvernek a természetes személy testén, illetve a testén lévő ruházatán rejtett vagy nyílt módon történő elhelyezése;
+- 41. lőfegyver behozatala, kivitele, átszállítása: a lőfegyver átvitele Magyarország államhatárán;
+- 42. lőfegyver jellege: sörétes lőfegyver (huzagolatlan hosszú), golyós lőfegyver (huzagolt hosszú), maroklőfegyver (rövid), 7,5 joule vagy annál kisebb csőtorkolati energiájú flóbert fegyver és 7,5 joule csőtorkolati energia feletti teljesítményű légfegyver;
+- 43. lőfegyvertartási cél: az önvédelem, a munkavégzés, a filmgyártás, a céllövészet, az oktatás, a sportlövészet, a személy- és vagyonvédelem, valamint a vadászat;
+- 44. házilagos lőszerszerelés és -újratöltés: lőszer saját felhasználás céljára történő házilagos gyártása (lőszerelemekből és egyéb alkatrészekből történő összeszerelése), amelyre a lőszergyártástól eltérő szabályok vonatkoznak;
+- 45. sportlőfegyver: az országos sportági szakszövetség versenyszabályzatában meghatározott, sportlövészeti célra használható lőfegyver;
+- 46. vadászlőfegyver: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvény szerint vadászatra használható lőfegyver;
+- 47. vaktöltény: az a lövedékkel nem rendelkező, hang-, fény- és füsthatás kiváltására szolgáló töltény, amelynek kaliberjelét a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendelet, illetve az abban meghatározott szabvány a riasztópisztoly és a riasztó revolvertöltények vagy az ipari lövőkészülékek hüvelytöltényei körében nem nevesíti.
 
 ### A HATÓSÁGI ENGEDÉLYEZÉS SZABÁLYAI
 
 3. § (1) A rendőrség által kiadott engedély szükséges:
 
 - a) a lőfegyver, a lőfegyverdarab (a továbbiakban együtt: lőfegyver), a muzeális lőszer kivételével a lőszer, a flóberttöltény gyártásához, javításához, forgalmazásához, a lőfegyver hatástalanításához, a lőfegyver kiállításához;
-- b) a festéklövő fegyver, a gáz- és riasztófegyver, a gáz- és riasztótöltény, a légfegyver, a lőszerelem, a színházi fegyver gyártásához, javításához, forgalmazásához;
-- c) az „A”, „B”, „C” vagy „D” kategóriába tartozó tűzfegyver, a lőfegyverdarab, az e törvény alapján lőfegyvernek minősülő légfegyver, a lőszer és a hangtompító megszerzéséhez, tartásához, az ország területére történő behozatalához, az ország területéről történő kiviteléhez, az ország területén történő átszállításához;
+- b) a festéklövő fegyver, a gáz- és riasztófegyver, a gáztöltény, a riasztótöltény, a vaktöltény, a légfegyver, a lőszerelem, a színházi fegyver gyártásához, javításához, forgalmazásához;
+- c) az „A”, „B”, „C” vagy „D” kategóriába tartozó tűzfegyver, a lőfegyverdarab, az e törvény alapján lőfegyvernek minősülő légfegyver, a színházi fegyver, a lőszer és a hangtompító megszerzéséhez, tartásához, az ország területére történő behozatalához, az ország területéről történő kiviteléhez, az ország területén történő átszállításához;
 - d) a gáz- és riasztófegyver önvédelmi célú viseléséhez, a lőszerelem, a színházi fegyver megszerzéséhez, tartásához;
 - e) a muzeális fegyver sportlövészeti célú használatához;
 - f) a polgári rendeltetésű lőtér, a lőfegyver- és lőszertárolóhely üzemeltetéséhez, valamint lövészetvezetői tevékenység végzéséhez.
 
 (2) A flóbert lőfegyverek megszerzésére és tartására vonatkozó egyszerűsített hatósági szabályokat e törvény felhatalmazása alapján a Kormány állapítja meg.
 
-(3) A lőfegyver-megszerzési és -tartási engedéllyel rendelkező személy vagy szervezet a lőfegyverhez használható lőszert külön engedély nélkül megszerezheti, illetve tarthatja.
+(3) A lőfegyver-megszerzési és -tartási engedéllyel rendelkező személy vagy szervezet a lőfegyverhez használható lőszert külön engedély nélkül megszerezheti, illetve tarthatja. Filmgyártási célra tartott lőfegyverhez lőszer nem szerezhető meg.
+
+(3a) Lőfegyver filmgyártási célra történő tartása kizárólag a Kormány rendeletében meghatározott feltételeknek megfelelő szervezet részére engedélyezhető. A filmgyártási célú lőfegyver tartására jogosult szervezet vaktöltény gyártására jogosult tagja az engedélyezett fegyverhez tartozó vaktöltényt külön engedély nélkül készíthet.
 
 (4) Lőfegyver vagy lőszer kereskedelmi célú behozatalához, kiviteléhez vagy re-exportjához – az (1) bekezdésben foglaltakon túlmenően – a külön jogszabályban meghatározott hatóság engedélye is szükséges.
 
@@ -375,7 +389,7 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 
 22. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-- a) a lőfegyverek és más fegyverek, a lőszerek, valamint a gáz- és riasztótöltények gyártását, javítását, szállítását, hatástalanítását, forgalmazását, megszerzését, tartását, kiállítását, behozatalát, kivitelét, átszállítását, használatát, a hatástalanított lőfegyverek tartását és forgalomba hozatalát, az engedélyek tartalmi, formai követelményeit, valamint az ezekkel összefüggő nyilvántartás és az e nyilvántartásba, illetőleg az abból történő adatszolgáltatás eljárási szabályait,
+- a) a lőfegyverek – ideértve a filmgyártási célú lőfegyvereket is – és más fegyverek, a lőszerek, valamint a gáz-, a riasztó és a vaktöltények gyártását, javítását, szállítását, hatástalanítását, forgalmazását, megszerzését, tartását, kiállítását, behozatalát, kivitelét, átszállítását, használatát, a hatástalanított lőfegyverek tartását és forgalomba hozatalát, az engedélyek tartalmi, formai követelményeit, valamint az ezekkel összefüggő nyilvántartás és az e nyilvántartásba, illetőleg az abból történő adatszolgáltatás eljárási szabályait,
 - b) a polgári célú pirotechnikai termékek körét, a polgári célú pirotechnikai tevékenység folytatásának feltételeire és hatósági felügyeletére, továbbá az e tevékenységre jogosító további engedélyezési feltételekre, az engedélyek kiadásának rendjére, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, a nyilvántartás vezetésére, valamint az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek meg nem tartásának esetén alkalmazandó jogkövetkezményekre vonatkozó részletes szabályokat és a polgári célú pirotechnikai termékek felhasználásával, valamint a felhasználáshoz szükséges segédeszközök használatával kapcsolatos biztonsági szabályzatot.
 
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben meghatározza:
