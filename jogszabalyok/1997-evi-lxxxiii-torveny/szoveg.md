@@ -569,7 +569,7 @@ igazolja.
 - d) az egészségügyi szolgáltató adatszolgáltatási kötelezettségét,
 - e) a külön jogszabály rendelkezései szerinti feltételeket,
 - f) a külön jogszabályban meghatározott esetben az elszámolható szolgáltatások mennyiségi korlátjait,
-- g)
+- g) a 35. § (1) bekezdése szerint a finanszírozásra kapott összegek elkülönített kezelésére szolgáló számla számát,
 - h) a szerződés hatályát, a módosítására és felmondására vonatkozó rendelkezéseket, a szerződés megszegése esetén követendő eljárást, ideértve a szerződésszegésen alapuló igények érvényesítési rendjét is,
 - i)
 
@@ -691,6 +691,8 @@ igazolja.
 (3) A finanszírozásra vonatkozó jogszabályokat a bevezetésük előtt 30 nappal ki kell hirdetni.
 
 35. § (1) Az egészségügyi szolgáltató fenntartója vagy működtetője – amennyiben több egészségügyi szolgáltatót is működtet – a finanszírozás keretében kapott összeget minden általa fenntartott egészségügyi szolgáltató tekintetében külön számlán kezeli. Az egészségügyi szolgáltató a finanszírozás keretében kapott összeget más pénzeszközeitől elkülönítetten kezeli. Az egészségügyi szolgáltató elkülönített számlájának megterheléséhez szükséges az egészségügyi szolgáltató és fenntartójának előzetes jóváhagyása. A finanszírozás keretében járó összegnek legfeljebb 10%-a engedményezhető.
+
+(1a) Az egészségügyi szolgáltató a finanszírozási szerződés megkötésével, valamint a számla megváltozása esetén ennek bejelentésével egyidejűleg köteles nyilatkozni a finanszírozásra kapott összegek tekintetében elkülönítetten kezelt számláját vezető hitelintézetnek arról, hogy a számla a (2) bekezdés alapján elkülönítetten kezelt számla.
 
 (2) Az E. Alapból a finanszírozási szerződésben foglalt feladatokra folyósított összeg nem mentesíti a szolgáltató fenntartóját (tulajdonos, kezelő) az egyéb jogszabályokban előírt fenntartási és fejlesztési kötelezettségek alól. A finanszírozás keretében folyósított összeg csak a finanszírozási szerződésben foglalt feladatokra használható fel.
 
@@ -1408,6 +1410,8 @@ bírálja el és folyósítja.
 (8) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 40. § (2) bekezdés a) pontját, valamint a 42/A. § (4) bekezdés a) pontját a 2013. július 31-ét követően bekövetkező szülések esetén kell alkalmazni.
 
 (9) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel megállapított 20. § (2) bekezdés szerinti országos várólista nyilvántartást, valamint a 20. § (1) bekezdés a) pontja szerinti térségi várólistákat az adott térségben az adott ellátások tekintetében a térségben működő egészségügyi szolgáltatók által vezetett intézményi várólisták alapján – kormányrendeletben meghatározottak szerint – 2012. április 30-áig kell létrehozni.
+
+(9) A bírósági végrehajtással kapcsolatos és egyéb igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel megállapított 35. § (1a) bekezdés szerinti nyilatkozattételi kötelezettséget a 2012. január 1-jén hatályos finanszírozási szerződéssel rendelkező szolgáltató 2012. március 31-éig teljesíti.
 
 ### Záró rendelkezések
 

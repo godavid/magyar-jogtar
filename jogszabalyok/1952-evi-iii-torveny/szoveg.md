@@ -2826,7 +2826,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (2) Ha a jogosult a fizetési meghagyás kibocsátása iránti kérelmében a perré alakulás esetére illetékes bíróságként nem a hatáskörrel és illetékességgel rendelkező bíróságot jelölte meg, vagy az aktanyomatot a közjegyző egyéb okból nem ez utóbbi bíróságnak küldte meg, az ügyet át kell tenni a hatáskörrel rendelkező illetékes bírósághoz, kivéve, ha a bíróság, amelyikhez az aktanyomat érkezett, a pert az (1) bekezdésben foglaltak alapján megszünteti.
 
-319. § (1) Ha a jogosult a 318. § (1) bekezdésben foglalt kötelezettségeit teljesíti, az iratok megérkezésétől számított harminc napon – az Ötödik Rész alkalmazása esetén tizenöt napon – belül a bíróság az ügy tárgyalására határnapot tűz ki, és arra a jogosultat felperesként, a kötelezettet pedig alperesként megidézi. A bíróság az ellentmondás folytán kitűzött tárgyalásra szóló idézéssel együtt a feleknek a közjegyző által megküldött aktanyomat egy példányát is kézbesíti.
+319. § (1) Ha a jogosult a 318. § (1) bekezdésben foglalt kötelezettségeit teljesíti, az iratok megérkezésétől – ideértve a közjegyzői aktanyomat megérkezését is – számított harminc napon – az Ötödik Rész alkalmazása esetén tizenöt napon – belül a bíróság az ügy tárgyalására határnapot tűz ki, és arra a jogosultat felperesként, a kötelezettet pedig alperesként megidézi.
 
 (2)
 
@@ -3415,7 +3415,7 @@ alapított igény érvényesítése.
 
 (2) Ha a vagyontárgyat több végrehajtást kérő követelésének végrehajtása végett foglalták le, az igénypert mindegyik végrehajtást kérő ellen meg kell indítani.
 
-(3) A Vht. 10. §-ának d) pontjában felsorolt bűnügyi követelés végrehajtása esetén – ideértve az ilyen követelés biztosítására elrendelt bűnügyi zárlatot is – az igénypert az igazságügyért felelős miniszter ellen kell megindítani.
+(3) A Vht. 10. § d) pontjában felsorolt bűnügyi követelés végrehajtása esetén – ideértve az ilyen követelés biztosítására elrendelt bűnügyi zárlatot is – az igénypert az állam nevében a követelés jogosultjaként eljárni jogosult ellen kell megindítani.
 
 (4) Ha a bűnügyi zárlatot polgári jogi igény biztosítására rendelték el, az igénypert a sértett (magánfél) ellen kell megindítani.
 
@@ -3565,7 +3565,7 @@ alapított igény érvényesítése.
 
 388. § (1) A bíróság az ellentmondás folytán perré alakult eljárásban a felperes részletes tényelőadását és bizonyítékait [318. § (1) bek.] legkésőbb a tárgyalásra szóló idézésben közli az alperessel. A bíróság a feleket a tárgyalásra szóló idézésben tájékoztatja arról, hogy a pert ezen Rész rendelkezései szerint bírálja el. A tájékoztatásnak ki kell terjednie arra, hogy a feleknek megjelenési és nyilatkozattételi kötelezettségük van, ezek, valamint az egyes eljárási – különösen a bizonyítási indítványok előterjesztésére, a keresetváltoztatásra, a viszontkereset-indításra és a beszámítási kifogás előterjesztésére vonatkozó – határidők elmulasztása milyen jogkövetkezménnyel jár.
 
-(2) A bíróságnak a tárgyalást úgy kell kitűznie, hogy az első tárgyalási nap az ellentmondás folytán perré alakult eljárásban a 318. § (1) bekezdésében meghatározott, a jogosult által beadott iratoknak a bírósághoz való érkezését követő legkésőbb negyvenöt – a 315. § (2) bekezdésében meghatározott perekben a keresetlevélnek a bírósághoz való érkezését követő legkésőbb hatvan – napon belül megtartható legyen.
+(2) A bíróságnak a tárgyalást úgy kell kitűznie, hogy az első tárgyalási nap az ellentmondás folytán perré alakult eljárásban a 318. § (1) bekezdésében meghatározott, a jogosult által beadott iratoknak, ha pedig a közjegyzői aktanyomat később érkezett meg a bírósághoz, akkor az aktanyomatnak a bírósághoz való érkezését követő legkésőbb negyvenöt – a 315. § (2) bekezdésében meghatározott perekben a keresetlevélnek a bírósághoz való érkezését követő legkésőbb hatvan – napon belül megtartható legyen.
 
 389. § (1) Első tárgyalási napnak kell tekinteni azt a tárgyalási határnapot is, amelyre az alperes érdemi ellenkérelmének (139. §) előadása előtt a bíróság a tárgyalást elhalasztotta.
 

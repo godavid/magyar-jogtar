@@ -35,7 +35,7 @@ az igazságügyi szakértői tevékenységről
 (3) Igazságügyi szakértő az lehet, aki
 
 - a) büntetlen előéletű, és nem áll az igazságügyi szakértői vagy a szakterületének megfelelő tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- b) a kérelmében megjelölt szakterületen az igazságügyi szakértői tevékenység folytatásához meghatározott képesítéssel és – ha a miniszter rendelete eltérően nem rendelkezik – a képesítés megszerzésétől számított, legalább ötéves szakirányú szakmai gyakorlattal rendelkezik,
+- b) a kérelmében megjelölt szakterületen az igazságügyi szakértői tevékenység folytatásához meghatározott vagy azzal egyenértékű képesítéssel és – ha jogszabály eltérően nem rendelkezik – a képesítés megszerzésétől számított, legalább ötéves szakirányú szakmai gyakorlattal rendelkezik,
 - c) a szakterületén működő szakmai kamara tagja, ha a tevékenység folytatásához a kötelező kamarai tagságot jogszabály előírja,
 - d) kötelezettséget vállal arra, hogy a hatósági kirendelésnek – a jogszabályban meghatározott eseteket kivéve – eleget tesz,
 - e) cselekvőképes, és nem áll közügyektől való eltiltás hatálya alatt,
@@ -70,19 +70,30 @@ az igazságügyi szakértői tevékenységről
 
 (2) Az (1) bekezdés b) pontjában meghatározott adatigénylés során az igazságügyi szakértői névjegyzéket vezető hatóság a 3. § (3) bekezdés a) pontjában meghatározott feltételt, valamint a 3. § (4) bekezdésében meghatározott körülményt igazoló adatokat igényelheti a bűnügyi nyilvántartó szervtől.
 
+4/B. § (1) Az igazságügyi szakértői névjegyzékbe vétel szempontjából a miniszter rendeletében meghatározott képesítéssel egyenértékűnek kell tekinteni azt a képesítést, amelyet
+
+- a) – ha jogszabály kivételt nem tesz – jogszabály egyenértékűnek ismer vagy ismert el,
+- b) az a) pontban foglaltak hiányában a névjegyzéket vezető hatóság egyenértékűnek ismert el.
+
+(2) Az (1) bekezdés a) pontjában foglaltak kivételével a képesítés egyenértékűségének megállapítása érdekében az igazságügyi szakértői névjegyzéket vezető hatóság – szükség esetén – szakmai véleményt is beszerezhet. A szakvéleményt az igazságügyi szakértői névjegyzéket vezető hatóság kötelezően figyelembe veszi. A képesítés megfelelőségének vizsgálatára felkért bizottság szakértőként jogosult eljárni, tevékenységéért díjazás nem illeti meg. Nem szükséges vizsgálni a kérelmező azon képesítésének egyenértékűségét, amely a miniszter rendeletében előírt képesítéssel a jogszabályok alapján egyértelműen nem egyenértékű.
+
+(3) A (2) bekezdésben megjelölt bizottság elnökét a miniszter jelöli. A bizottság további tagja az oktatásért felelős miniszter és a Magyar Igazságügyi Szakértői Kamara által kijelölt 1-1 személy.
+
+(4) A (2) bekezdésben megjelölt bizottság a képesítés egyenértékűségének vizsgálata során az álláspontját a kérelmező végzettségének képzési anyagára és a szakterülethez előírt képesítés képzési tervére figyelemmel állapítja meg.
+
 ### A névjegyzék
 
 5. § (1) Az igazságügyi szakértő e törvény 2. számú mellékletében meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket a névjegyzék tartalmazza.
 
-(2) Az e törvény 2. számú melléklete m) pontjának ma) és mc) alpontja szerint nyilvántartott igazságügyi szakértőnek az a), f)–h) és j) pontjaiban, k) pontjának ka) alpontjában, valamint t) pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a világhálón is közzéteszi.
+(2) Az e törvény 2. számú melléklete 1. pont m) alpontjának ma) és mc) alpontja szerint nyilvántartott igazságügyi szakértőnek az a), f)–h) és j) pontjaiban, k) pontjának ka) alpontjában, t), valamint u) pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a világhálón is közzéteszi.
 
-(3) A névjegyzék (2) bekezdésben fel nem sorolt adatai nem nyilvánosak, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás. Az igazságügyi szakértői névjegyzéket vezető hatóság a 2. számú melléklet kb), kc), mf) és o)–r) pontjaiban és sa) alpontjában foglalt adatok kivételével a nyilvántartás adatait a szakértői kamara részére átadja, azt a szakértői kamara a külön törvény rendelkezései szerint nyilvántartja és kezeli.
+(3) A névjegyzék (2) bekezdésben fel nem sorolt adatai nem nyilvánosak, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás. Az igazságügyi szakértői névjegyzéket vezető hatóság a 2. számú melléklet 1. pontjának kb), kc), mf) és o)–r) pontjaiban és sa) alpontjában foglalt adatok kivételével a nyilvántartás adatait a szakértői kamara részére átadja, azt a szakértői kamara a külön törvény rendelkezései szerint nyilvántartja és kezeli.
 
 (4) Ha az igazságügyi szakértő vagy a társaság az elektronikus kézbesítést vállalja, az igazságügyi szakértői névjegyzéket vezető hatóság az elektronikus kézbesítéshez szükséges természetes személyazonosító adatokat (név, születési hely és idő, anyja neve) a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény szerinti hivatalos szerv (a továbbiakban: hivatalos szerv) részére átadja.
 
 (5) A külön jogszabályban megjelölt, központi elektronikus szolgáltató rendszert működtető szervezet – megkeresésre – a természetes személyazonosító adatok alapján a központi elektronikus szolgáltató rendszerről szóló jogszabály szerinti kapcsolati kódot az elektronikus kézbesítés érdekében a hivatalos szerv részére átadja.
 
-(6) A 2. számú melléklet m) pont md) és me) alpontjában foglalt adatokat a szakértői kamara, az a)–i), l), n) és q) pontjában foglalt adatokat az igazságügyi szakértő, az r) és s) pontjában foglalt adatokat az ügyben eljáró hatóság köteles bejelenteni az igazságügyi szakértői névjegyzéket vezető hatóságnak. A 2. számú melléklet r) és s) pontjában foglalt adatokról az ügyben eljáró hatóság az igazságügyért felelős minisztert és a szakértői kamarát is értesíteni köteles.
+(6) A 2. számú melléklet 1. pontjának m) pont md) és me) alpontjában foglalt adatokat a szakértői kamara, az a)–i), l), n) és q) pontjában foglalt adatokat az igazságügyi szakértő, az r) és s) pontjában foglalt adatokat az ügyben eljáró hatóság köteles bejelenteni az igazságügyi szakértői névjegyzéket vezető hatóságnak. A 2. számú melléklet 1. pont r) és s) pontjában foglalt adatokról az ügyben eljáró hatóság az igazságügyért felelős minisztert és a szakértői kamarát is értesíteni köteles.
 
 (7) Az igazságügyi szakértő, az ügyben eljáró hatóság és a szakértői kamara 8 napon belül köteles bejelenteni az igazságügyi szakértői névjegyzéket vezető hatóságnak a névjegyzékben nyilvántartott adatokban bekövetkezett változást.
 
@@ -235,9 +246,23 @@ az igazságügyi szakértői tevékenységről
 
 (3) Az (1) bekezdésben meghatározott ügyeken kívül a szakértő a díjjegyzékével érvényesíteni kívánt díjat maga állapítja meg.
 
-(4) A kirendelő hatóság a jogerős határozattal megállapított szakértői díjat az eljáró szakértő által benyújtott számla alapján 30 napon belül köteles kifizetni. A számla kiállítására nem köteles szakértő részére a szakértői díjat – a határozat jogerőre emelkedésének időpontjától számított 30 napon belül – átvételi elismervény ellenében, vagy a szakértő által meghatározott bankszámlára történő átutalással kell kifizetni.
+(4) A kirendelő hatóság a jogerős határozattal megállapított szakértői díjat (költségelőleg fizetése esetén a kifizetett költségelőleggel csökkentett összegét) az eljáró szakértő által benyújtott számla alapján 30 napon belül köteles kifizetni. A számla kiállítására nem köteles szakértő részére a szakértői díjat – a határozat jogerőre emelkedésének időpontjától számított 30 napon belül – átvételi elismervény ellenében, vagy a szakértő által meghatározott bankszámlára történő átutalással kell kifizetni.
 
 (5)
+
+17/A. § (1) A szakértőt kérésére várható költségeinek 30%-a erejéig, de legfeljebb 100 000 forint költségelőleg (a továbbiakban: költségelőleg) illeti meg.
+
+(2) Ha a szakértő költségelőleget kér, a kirendelés kézhezvételétől számított 3 napon belül a kirendelő hatóság részére kérelmét és költségelőlegének számítását – ha a szakértő számla kiállítására köteles, az előleg számlájával együtt – megküldi.
+
+(3) Ha a szakértő költségelőleget kért, a kirendelő hatóság a költségelőleget – a (4) bekezdésben foglaltak kivételével – a szakértő költségelőleg számításának kézhezvételétől számított 5 napon belül a benyújtott számla alapján szakértő részére megfizeti. A számla kiállítására nem köteles szakértő részére a költségelőleget átvételi elismervény ellenében, vagy a szakértő által meghatározott fizetési számlára történő átutalással kell kifizetni.
+
+(4) Ha a szakértő költségelőleget kért és az eljárásban külön jogszabály alapján a szakértői díj letétjének kiegészítése volt szükséges, úgy a kirendelő hatóság a költségelőleget a kiegészítést követő 5 napon belül megfizeti.
+
+(5) Ha a szakértő költségelőleget kért, és a költségelőleg megfizetésének igazolását a (3) vagy (4) bekezdésben meghatározott határidőig nem kapta meg, – külön törvényben meghatározott kiemelt jelentőségű ügyek vagy peres eljárások kivételével – a kirendelés alóli felmentését kérheti.
+
+(6) Ha a szakértőt a kirendelő hatóság a kirendelés alól bármely okból felmenti, az erről szóló határozatában – ha a költségelőleg megfizetésre került – a szakértőt a költségelőleg visszafizetésére is kötelezi.
+
+(7) Ha a jogerősen megállapított szakértői díj nem éri el a költségelőleget, a kirendelő hatóság a különbözet visszafizetésére a szakértőt határozatban kötelezi.
 
 ### Az igazságügyi szakértők képzése
 
@@ -291,13 +316,15 @@ az igazságügyi szakértői tevékenységről
 
 24. § A társaságot a névjegyzékből törölni kell, ha
 
-- a) a cégbíróság a cégjegyzékből törli,
+- a) a cégbíróság a cégjegyzékből – a 24/B. §-ban megjelölt eset kivételével – törli,
 - b) nincs a névjegyzékben szereplő tagja vagy alkalmazottja,
 - c) a névjegyzékben szereplő valamennyi tagjának vagy alkalmazottjának a kamarai tagsága szünetel vagy fel van függesztve,
 - d) a 3. § (3) bekezdésének d) pontjában, vagy a 23. § (2) bekezdésében meghatározott kötelezettségének ismételten, felhívás ellenére nem tesz eleget,
 - e) azt a társaság kéri.
 
 24/A. § A vállalkozás az igazságügyi szakértői tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles az igazságügyi szakértői névjegyzéket vezető hatóságnak bejelenteni. A vállalkozás az igazságügyi szakértői tevékenységet határon átnyúló szolgáltatásnyújtás keretében Magyarország területén e tevékenység folytatására jogosult tagja vagy alkalmazottja útján folytathatja.
+
+24/B. § Ha a társaság társasági formaváltás vagy egyesülés útján szűnt meg, és a jogutód társaság a 20. § (1) bekezdésében foglalt feltételeknek megfelel, úgy a jogutódlást az igazságügyi szakértői névjegyzéket vezető hatóság a névjegyzékben átvezeti.
 
 ### Az igazságügyi szakértői intézmények
 
@@ -374,7 +401,7 @@ az igazságügyi szakértői tevékenységről
 
 ### A szakértőjelölt, szakkonzultáns és a segédszemélyzet
 
-30. § (1) A szakértő a szakértői vélemény elkészítéséhez a névjegyzékben nem szereplő személy segítségét (szakkonzultáns), a szakvélemény előkészítéséhez szakértőjelölt közreműködését, a technikai jellegű tevékenység elvégzésére segédszemélyzetet vehet igénybe. A szakkonzultáns, a szakértőjelölt és a segédszemélyzet igénybevételéről a szakvéleményben a kirendelő hatóságot tájékoztatni kell, a szakvéleményben továbbá fel kell tüntetni, hogy a szakkonzultáns milyen szakkérdésekben nyilvánított véleményt.
+30. § (1) A szakértő a szakértői vélemény elkészítéséhez a megfelelő szakismerettel rendelkező más személy segítségét (szakkonzultáns), a szakvélemény előkészítéséhez szakértőjelölt közreműködését, a technikai jellegű tevékenység elvégzésére segédszemélyzetet vehet igénybe. A szakkonzultáns, a szakértőjelölt és a segédszemélyzet igénybevételéről a szakvéleményben a kirendelő hatóságot tájékoztatni kell, a szakvéleményben továbbá fel kell tüntetni, hogy a szakkonzultáns milyen szakkérdésekben nyilvánított véleményt.
 
 (2) A szakkonzultáns igénybevételéhez – ha a Kormány vagy a miniszter rendelete eltérően nem rendelkezik – a szakértőnek be kell szereznie a kirendelő hatóság hozzájárulását. Ha a szakvélemény elkészítéséhez személy vizsgálatára van szükség, és a kirendelő hatóság a kirendelő határozatban nem írja elő a szakkonzultáns személyéhez történő hozzájárulás kötelezettségét, a szakkonzultáns igénybevételéhez való hozzájárulást megadottnak kell tekinteni.
 
@@ -398,7 +425,7 @@ az igazságügyi szakértői tevékenységről
 
 30/B. § (1) A szakértői módszertani levél tervezetét a bizottság elnöke terjeszti az elnökség elé.
 
-(2) A szakértői módszertani levelet az elnökség akkor fogadja el, ha azt a bizottság valamennyi tagja támogatja.
+(2) A szakértői módszertani levelet az elnökség akkor fogadja el, ha azt a bizottság többsége, de legalább hat tagja támogatja. Ha a bizottság hat tagból vagy annál kevesebből áll, akkor a szakértői módszertani levelet az elnökség akkor fogadja el, ha azt a bizottság valamennyi tagja támogatja.
 
 (3) Az elnökség a szakértői módszertani levelet megküldi a miniszter részére, amelyhez csatolja a bizottság tagjainak névsorát és a tagok támogatását igazoló iratokat.
 
@@ -668,7 +695,9 @@ sa) közvádra üldözendő szándékos bűncselekmény miatt indult eljárás m
 
 sb) indult etikai eljárás során kiszabott etikai büntetés, vagy a felmentés valamint az eljárás megszüntetésének ténye.
 
-t) annak ténye, hogy a szakértő az elektronikus kézbesítést vállalja.
+t) annak ténye, hogy a szakértő az elektronikus kézbesítést vállalja,
+
+u) az igazságügyi szakértő tevékenységével kapcsolatos közleményei („közlemények”).
 
 2. Az igazságügyi szakértők névjegyzéke a gazdasági társaság következő adatait tartalmazza:
 

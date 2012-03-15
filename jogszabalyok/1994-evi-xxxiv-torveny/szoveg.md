@@ -508,7 +508,7 @@ igazolja.
 - a) aki a rendőr felszólítására nem tudja magát hitelt érdemlően igazolni, vagy az igazolást megtagadja;
 - b) aki bűncselekmény elkövetésével gyanúsítható;
 - c) akitől bűncselekmény gyanúja vagy szabálysértés, valamint közúti közlekedéssel kapcsolatban kiszabható, közigazgatási bírsággal sújtandó szabályszegés bizonyítása érdekében vizeletvétel vagy véralkohol-vizsgálat céljából vérvétel, valamint műtétnek nem minősülő módon egyéb mintavétel szükséges;
-- d) aki a szülői felügyelet vagy a gyámság, illetőleg az intézeti nevelés hatálya alól engedély nélkül kivonja magát;
+- d) aki a szülői felügyelet vagy a gyámság, illetőleg a nevelőszülőnél vagy gyermekotthonban történő elhelyezése alól hatálya alól engedély nélkül kivonja magát, és azt a gyermeket, akinek a körözését gyermek átadására irányuló bírósági végrehajtás során rendelték el;
 - e) aki a pártfogó felügyelet — külön törvényben meghatározott és a rendőrség hatáskörébe tartozó — szabályait megszegi;
 - f) aki a szabálysértést az abbahagyásra irányuló felszólítás után is folytatja, illetőleg akivel szemben az eljárás azonnal lefolytatható, továbbá akitől tárgyi bizonyítási eszközt kell megszerezni, vagy elkobzás alá eső dolgot kell visszatartani;
 - g) akivel szemben ideiglenes megelőző távoltartás elrendelésének van helye.
