@@ -648,7 +648,7 @@ indítványozza.
 
 (3) Az OBT létszáma 15 fő. Tagjai: a Kúria elnöke, továbbá 14 bíró.
 
-(4)
+(4) Az OBT 14 bíró tagját a bírák küldöttértekezlete a küldöttek közül titkosan, szavazattöbbséggel választja meg.
 
 89. § (1) Az OBT-t az elnök vezeti és képviseli.
 
@@ -668,17 +668,21 @@ indítványozza.
 - f) aki a választás évében betölti a bírói felső korhatárt, vagy
 - g) aki korábban már tagja volt az OBT-nek.
 
-#### 91. §
+91. § (1) Az OBT tagjait megválasztani jogosult küldöttértekezlet a küldöttek közül az OBT bíró tagjává 1 ítélőtáblai, 5 törvényszéki, 7 járásbírósági és 1 közigazgatási és munkaügyi bírósági bírót választ.
+
+(2) A küldöttértekezlet az OBT bíró tagjainak megválasztásával egyidejűleg a küldöttek közül 14 bírót – a szavazatoknak megfelelő, a szavazategyenlőséget kizáró sorrend meghatározásával – póttaggá választ az (1) bekezdésben foglaltaknak megfelelően.
+
+(3) Az (1) és (2) bekezdésben megjelölt felső határnál több érvényes többségi szavazat esetén az (1) bekezdésben meghatározott bírósági szintenként jelöltek közül – a törvényben meghatározott számban – azokat kell az OBT megválasztott tagjának (póttagjának) tekinteni, akik a szavazatok közül sorrendben a legtöbb szavazatot kapták.
 
 92. § Ha a póttagok létszáma 5 alá csökkent és az OBT zavartalan működése vagy a 91. § (1) bekezdésben meghatározott felső határok érvényesülése nem biztosítható, a póttagok létszámát – új választás tartásával – 14 főre kell kiegészíteni.
 
 93. § A küldöttértekezlet küldötteit a Kúria teljes ülésén, az ítélőtábla, valamint a törvényszék összbírói értekezletén a jelenlévők többségének szavazatával választják.
 
-94. § (1)
+94. § (1) A Kúria teljes ülése, valamint az ítélőtábla és a törvényszék összbírói értekezlete a bíróság engedélyezett bírói létszáma alapján minden 20 bírói létszám után – titkosan – egy-egy küldöttet választ. Ha a töredék létszám a 10 főt meghaladja, további egy küldöttet kell választani. A megválasztott küldöttek száma a 20 főt nem haladhatja meg és 2 – törvényszék esetében 3 – főnél akkor sem lehet kevesebb, ha a bíróság engedélyezett bírói létszáma alapján egy vagy egy küldött sem választható.
 
 (2) Küldötté az jelölhető és választható, aki OBT taggá választható a 90. §-ban foglalt feltételek alapján.
 
-(3)
+(3) A törvényszéken a küldötteket úgy kell megválasztani, hogy azok közül legalább egy járásbírósági és legalább egy közigazgatási és munkaügyi bírósági bíró legyen.
 
 (4) A Kúriára, az OBH-ba, továbbá az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bírák a beosztásukat közvetlenül megelőző szolgálati helyük szerinti bíróság összbírói értekezletén választanak.
 
@@ -688,17 +692,33 @@ indítványozza.
 
 (3) Ha a javasolt bíró a küldötté jelölést elfogadja, a (2) bekezdésben megjelölt nyilatkozattal együtt csatolja az önéletrajzát, amely az OBT tagsági tevékenységére vonatkozó terveit is tartalmazza.
 
-96. § (1)
+96. § (1) A küldöttválasztó összbírói értekezleteket a 93. §-ban említett bíróságok elnökei legkésőbb az OBT megbízatásának lejárta előtt 4 hónappal korábban kötelesek összehívni. A küldöttválasztó összbírói értekezletet határozatképtelensége esetén legkésőbb 15 napon belül ismét össze kell hívni. A megismételt összbírói értekezlet a jelenlévők számától függetlenül határozatképes.
 
 (2) Az összbírói értekezlet a küldöttek választásáról titkos szavazással, szavazattöbbséggel határoz.
 
-#### 97–99. §
+97. § (1) A küldöttek a megválasztásukat követő 8 napon belül szakmai önéletrajzukat megküldik az OBH elnökének.
+
+(2) Az OBH elnöke a legidősebb küldöttet (a továbbiakban: a küldöttek korelnöke) felkéri a küldöttértekezlet összehívására, levezetésére.
+
+(3) Az OBH elnöke a (2) bekezdés foglalt felkéréssel egyidejűleg a legidősebb kúriai, ítélőtáblai, törvényszéki, járásbírósági, közigazgatási és munkaügyi bírósági küldöttből álló 5 tagú jelölő bizottságot – a szakmai önéletrajzok továbbítása mellett – felkéri, hogy a 99. § (1) bekezdésében foglaltaknak megfelelően a küldöttek közül a tagok és a póttagok személyére tegyen javaslatot.
+
+98. § (1) A küldöttértekezletet – az OBH elnöke útján – a küldöttek korelnöke hívja össze, legkésőbb az OBT megbízatásának lejártát megelőző 2 hónappal korábbi időpontra, és egyidejűleg megküldi a küldötteknek a szakmai önéletrajzokat.
+
+(2) A küldöttértekezlet akkor határozatképes, ha azon a küldötteknek több mint a fele megjelent. A küldöttértekezletet határozatképtelensége esetén legkésőbb 15 napon belül ismét össze kell hívni. A megismételt küldöttértekezlet a jelenlévők számától függetlenül határozatképes.
+
+(3) A küldöttértekezletet a küldöttek korelnöke vezeti.
+
+(4) A küldöttértekezleten – jelölési és szavazati jog nélkül – részt vehet és felszólalhat a Kúria elnöke és az OBH elnöke.
+
+99. § (1) Az OBT választott bíró tagjainak és a póttagjainak személyére a jelölőbizottság – a 91. § (1) bekezdésében meghatározott felső határok, továbbá a különböző ügyszakok képviselete biztosításának és a regionalitás elvének figyelembevételével – tesz javaslatot. Bármely küldött további javaslatot tehet. A szavazólapra azt a személyt kell felvenni, akit a jelenlévő küldötteknek legalább az egyharmada támogat.
+
+(2) A szavazólapra felvett jelöltnek nyilatkoznia kell, hogy áll-e fenn vele szemben e törvényben meghatározott kizáró ok.
 
 100. § (1) Megválasztott tagnak, póttagnak – a törvényben meghatározott számban – azt kell tekinteni, aki a leadott érvényes szavazatok közül a legtöbb szavazatot, de legalább 50 százalékot meghaladó szavazatot (szavazattöbbség) kapott. A szavazást mindaddig folytatni kell, amíg – a 91. § (1) és (2) bekezdésében meghatározottak szerint – a szükséges számú jelölt az előírt számú szavazatot meg nem kapja. A szavazatokat a Kúria 3 legfiatalabb – küldötté nem választott – bírájából álló szavazatszámláló bizottság összesíti.
 
 (2) A küldöttek korelnöke a küldöttértekezleten történt választás eredményét tartalmazó jegyzőkönyvet 3 napon belül megküldi az OBH elnökének, aki azt haladéktalanul továbbítja a Kúria elnökének, valamint az ítélőtáblák és a törvényszékek elnökeinek.
 
-#### 101. §
+101. § Az OBT bíró tagjai és póttagjai jelölésének és választásának részletes szabályait az OBT a szervezeti és működési szabályzatában állapítja meg.
 
 102. § Az OBT és a választott bíró tagok, valamint póttagok megbízatása az OBT első ülésétől számított 6 évre szól. Az OBT megbízatása az újonnan megválasztott OBT első ülésének napján szűnik meg. Az újonnan megválasztott OBT első ülését a bíró tagok megválasztásától számított 15 napon belül kell megtartani.
 
@@ -1356,43 +1376,11 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 #### 59. Az OBT bíró tagjainak első alkalommal történő megválasztására vonatkozó átmeneti rendelkezések
 
-178. § (1) Az OBT bíró tagjainak első alkalommal történő választása során a 90. §, a 92. és 93. §, a 94. § (2) és (4) bekezdés, a 95. §, a 96. § (2) bekezdés és a 100. § rendelkezéseit a jelen alcímben foglalt rendelkezésekkel együtt kell alkalmazni.
-
-(2) Az OBT 14 bíró tagjának első alkalommal történő választása során a bírák küldöttértekezlete a küldöttek közül titkosan, szavazattöbbséggel 1 ítélőtáblai, 5 törvényszéki, 7 helyi bírósági és 1 munkaügyi bírósági bírót választ.
-
-(3) A küldöttértekezlet az OBT bíró tagjainak megválasztásával egyidejűleg 14 bírót – a szavazatoknak megfelelő, a szavazategyenlőséget kizáró sorrend meghatározásával – póttaggá választ a (2) bekezdésben foglaltaknak megfelelően.
-
-(4) A (2) és (3) bekezdésben megjelölt felső határnál több érvényes többségi szavazat esetén a (2) bekezdésben meghatározott bírósági szintenként jelöltek közül – a törvényben meghatározott számban – azokat kell az OBT megválasztott tagjainak (póttagjainak) tekinteni, akik a szavazatok közül sorrendben a legtöbb szavazatot kapták.
+178. § (1)–(4)
 
 (5) 2012. december 31-ig az OBT-ben a közigazgatási és munkaügyi bírósági szint képviselőjén a munkaügyi bírósági bírót kell érteni.
 
-179. § (1) A Kúria teljes ülése, valamint az ítélőtábla és a törvényszék összbírói értekezlete a bíróság engedélyezett bírói létszáma alapján minden 20 bírói létszám után – titkosan – egy-egy küldöttet választ. Ha a töredéklétszám a 10 főt meghaladja, további egy küldöttet kell választani. A megválasztott küldöttek száma a 20 főt nem haladhatja meg és 2 – törvényszék esetén 4 – főnél akkor sem lehet kevesebb, ha a bíróság engedélyezett bírói létszáma alapján egy vagy egy küldött sem választható.
-
-(2) A törvényszéken a küldötteket úgy kell megválasztani, hogy azok közül legalább egy helyi bírósági bíró és legalább egy munkaügyi bírósági bíró legyen.
-
-180. § A küldöttválasztó összbírói értekezleteket a 179. § (1) bekezdésben említett bíróságok elnökei legkésőbb 2012. január 30. napjáig kötelesek összehívni. A küldöttválasztó összbírói értekezletet határozatképtelensége esetén legkésőbb 2012. február 5. napjáig ismét össze kell hívni. A megismételt összbírói értekezlet a jelenlévők számától függetlenül határozatképes.
-
-181. § A küldöttek legkésőbb 2012. február 10. napjáig szakmai önéletrajzukat megküldik az OBH elnökének.
-
-182. § (1) Az OBH elnöke a legidősebb küldöttet (a továbbiakban: a küldöttek korelnöke) felkéri a küldöttértekezlet összehívására, levezetésére.
-
-(2) Az OBH elnöke az (1) bekezdésben foglalt felkéréssel egyidejűleg a legidősebb kúriai, ítélőtáblai, törvényszéki, helyi bírósági, munkaügyi bírósági küldöttből álló öttagú jelölőbizottságot – a szakmai önéletrajzok továbbítása mellett – felkéri, hogy (5) bekezdésében foglaltaknak megfelelően a küldöttek közül a tagok és a póttagok személyére tegyen javaslatot.
-
-(3) A küldöttértekezletet – az OBH elnöke útján – a küldöttek korelnöke hívja össze legkésőbb 2012. március 1. napjáig, és egyidejűleg megküldi a küldötteknek a szakmai önéletrajzokat. A küldöttértekezlet akkor határozatképes, ha azon a küldötteknek több mint a fele megjelent. A küldöttértekezletet határozatképtelensége esetén legkésőbb 2012. március 5. napjáig ismét össze kell hívni. A megismételt küldöttértekezlet a jelenlévők számától függetlenül határozatképes.
-
-(4) A küldöttértekezletet a küldöttek korelnöke vezeti. A küldöttértekezleten jelölési és szavazati jog nélkül részt vehet, és felszólalhat a Kúria elnöke és az OBH elnöke.
-
-(5) Az OBT választott bíró tagjainak és a póttagjainak személyére a jelölőbizottság – a 178. § (2) bekezdésében meghatározott felső határok, továbbá a különböző ügyszakok képviselete biztosításának és a regionalitás elvének figyelembevételével – tesz javaslatot. Bármely küldött további javaslatot tehet. A szavazólapra azt a személyt kell felvenni, akit a jelenlévő küldötteknek legalább az egyharmada támogat.
-
-(6) A szavazólapra felvett jelöltnek nyilatkoznia kell, hogy áll-e fenn vele szemben e törvényben meghatározott kizáró ok.
-
-183. § (1) A szavazólapra a jelölteket vezetéknevük ábécé sorrendjében kell felvenni.
-
-(2) A jelöltre a szavazatot a név aláhúzásával kell megtenni. Aláhúzás hiányában vagy több név aláhúzása esetén a szavazat érvénytelen.
-
-(3) A küldöttértekezlet az OBT bíró tagjainak első alkalommal történő választása során a törvényben nem szabályozott egyéb kérdéseit szótöbbséggel maga állapítja meg.
-
-184. § Az OBT bíró tagjainak első alkalommal történő megválasztása során a szavazást a 100. § (1) bekezdésében meghatározott módon mindaddig folytatni kell, amíg – a 178. § (2) és (3) bekezdésében meghatározottak szerint – a szükséges számú jelölt az előírt számú szavazatot meg nem kapja.
+#### 179–184. §
 
 #### 60. A megbízatások lejárta, az új megbízatások kezdete időpontjának meghatározása
 
@@ -1506,4 +1494,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 #### 208. §
 
-#### 209. §
+209. § Hatályát veszti a törvény
+
+- a) 178. § (1)–(4) bekezdése, 179–184. §-a, és
+- b) 198–206. §-a.
