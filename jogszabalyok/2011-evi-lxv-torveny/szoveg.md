@@ -894,7 +894,7 @@ A jelen Megállapodás más rendelkezése hiányában a Megállapodás az alább
 | Szlovák Köztársaság | A 20. cikkben kijelölt szolgálatok |
 | Szlovén Köztársaság | A 20. cikkben kijelölt szolgálatok |
 
-4. § Az Országgyűlés jóváhagyja a Megállapodásnak e törvény hatálybalépésétől kezdődően történő, a Megállapodás 24. cikk 1. pontja szerinti ideiglenes alkalmazását.
+4. §
 
 5. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 
