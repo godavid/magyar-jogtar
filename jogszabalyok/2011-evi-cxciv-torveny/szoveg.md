@@ -85,7 +85,7 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 
 (3) Az önkormányzat 3. § (1) bekezdése szerinti adósságot keletkeztető ügyletből származó tárgyévi összes fizetési kötelezettsége az adósságot keletkeztető ügylet futamidejének végéig egyik évben sem haladja meg az önkormányzat adott évi saját bevételeinek 50%-át.
 
-(4) Az önkormányzat működési célra csak likvid hitelt vehet fel.
+(4)
 
 (5) A települési önkormányzatok többcélú kistérségi társulása és az önkormányzatok egyéb, jogi személyiséggel rendelkező társulása adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban résztvevő önkormányzatok kezességvállalása biztosítja.
 
@@ -93,7 +93,7 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 
 (7) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, az adósságot keletkeztető ügyletéhez kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja a kormányzati hozzájáruláshoz kötött ügyletek esetében.
 
-(8) Az önkormányzat fejlesztési célú adósságot keletkeztető ügyletéhez a Kormány a következő feltételek együttes fennállása esetén járul hozzá:
+(8) Az önkormányzat adósságot keletkeztető ügyletéhez a Kormány a következő feltételek együttes fennállása esetén járul hozzá:
 
 - a) az adósságot keletkeztető ügylet az államháztartás önkormányzati alrendszere adósságának a központi költségvetésről szóló törvényben meghatározott mértéke teljesítését nem veszélyezteti,
 - b) az adósságot keletkeztető ügylet az önkormányzat törvényben meghatározott feladatának ellátásához szükséges kapacitás létrehozását eredményezi azzal, hogy a működési kiadások folyamatos teljesítése biztosított, és
@@ -108,7 +108,7 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 
 (10) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű meglévő adósság visszafizetése, abban az esetben járul hozzá, amennyiben teljesül a (3) bekezdés szerinti feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a (3) bekezdésben foglalt rendelkezések alkalmazásától eltekinthet.
 
-(11) A (3) bekezdés szerint megállapítandó fizetési kötelezettség mértékébe nem számítandó bele a likvid hitelből és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó, de beleszámítandó a kezességvállalásból eredő fizetési kötelezettségek összege.
+(11) A (3) bekezdés szerint megállapítandó fizetési kötelezettség mértékébe nem számítandó bele a likvid hitelből, az európai uniós vagy nemzetközi szervezettől elnyert támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető ügyletből, a víziközmű-társulattól annak megszűnése miatt átvett hitelből, és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó fizetési kötelezettségek összege, de beleszámítandó a kezesség-, illetve garanciavállalásból eredő, jogosult által érvényesített fizetési kötelezettségek összege.
 
 (12) Az önkormányzat – az Európai Unió kötelező jogi aktusából következő vagy nemzetközi szervezet felé vállalt kötelezettségből eredő fejlesztést kivéve – nem indíthat új fejlesztést, ha adósságot keletkeztető ügyletéhez kapcsolódó tárgyévi összes fizetési kötelezettsége eléri vagy meghaladja a (3) bekezdés szerinti mértéket.
 
@@ -190,7 +190,7 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 
 16. § A Tanács elnöke a költségvetési törvény és a költségvetési törvény módosításának tárgyalásakor jogosult részt venni az Országgyűlés és annak bizottságai ülésén, ott felszólalhat, véleményét kifejtheti.
 
-17. § A Tanács tagja az e törvényben foglalt feladata ellátásáért illetményre és egyéb juttatásra nem jogosult.
+17. § A Tanács elnöke kivételével a Tanács tagja az e törvényben foglalt feladata ellátásáért illetményre és egyéb juttatásra nem jogosult.
 
 18. § (1) A Tanács elnökének büntetlen előéletű, magyar állampolgárságú, kiemelkedő szakmai ismeretekkel, illetve tapasztalattal rendelkező közgazdász nevezhető ki.
 
@@ -199,6 +199,14 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 (3) A Tanács elnöke a kinevezését követően a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 
 (4) Tanács elnöke az elődje megbízatásának megszűnésekor, illetve ha elődje megbízatásának megszűnését követően nevezték ki, a kinevezésével lép hivatalba.
+
+(5) A Tanács elnöke más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, az oktatói, a művészeti, a lektori, a szerzői jogi védelem alá eső, továbbá a lektori és szerkesztői tevékenységet kivéve – díjazást nem fogadhat el.
+
+(6) A Tanács elnöke feladatai ellátásáért illetményre és más juttatásokra jogosult. A Tanács elnökének a tárgyév március 1-jétől a következő év február utolsó napjáig terjedő időszakra megállapított havi illetménye a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset kilencszerese. Egyebekben a Tanács elnöke a minisztert megillető juttatásokra jogosult.
+
+(7) A Tanács elnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül.
+
+(8) A Tanács elnöke illetményének és juttatásainak fedezetét az Országgyűlés Hivatalának költségvetésében kell megtervezni. Az illetmény folyósításával és a juttatások biztosításával kapcsolatos feladatokat az Országgyűlés Hivatala látja el.
 
 19. § A Tanács elnökének nem nevezhető ki olyan személy, aki tagja az Országgyűlésnek, a Kormánynak, illetve állami vezető, bíró, ügyész, kormánytisztviselő vagy köztisztviselő, továbbá aki szolgálati jogviszonyban áll.
 
@@ -338,7 +346,7 @@ Az Országgyűlés az ország pénzügyi stabilitása és a költségvetési fen
 34. § Nem kell alkalmazni a 32. §-t és a 33. §-t, ha
 
 - a) a fizetési kötelezettség az Európai Unió kötelező jogi aktusának való megfelelés miatt kerül megállapításra.
-- b) a fizetésre kötelezettek körét bővítő, a fizetési kötelezettség terhét növelő, a kedvezményt, mentességet megszüntető vagy korlátozó, valamint az új fizetési kötelezettséget megállapító törvény megalkotására a Magyarország Alaptörvényének Átmeneti Rendelkezései 28. cikk (1) bekezdésében meghatározott okból kerül sor.
+- b) a fizetésre kötelezettek körét bővítő, a fizetési kötelezettség terhét növelő, a kedvezményt, mentességet megszüntető vagy korlátozó, valamint az új fizetési kötelezettséget megállapító törvény megalkotására a Magyarország Alaptörvényének Átmeneti Rendelkezései 29. cikk (1) bekezdésében meghatározott okból kerül sor.
 
 35. § A fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmény, mentesség körét és mértékét, valamint az új fizetési kötelezettséget megállapító törvényt kizárólag ezzel azonos vagy hasonló életviszonyokat szabályozó törvényben lehet módosítani vagy hatályon kívül helyezni.
 

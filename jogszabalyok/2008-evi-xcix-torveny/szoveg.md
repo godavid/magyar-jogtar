@@ -150,75 +150,98 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (3) Az előadó-művészeti államigazgatási szerv által végzett nyilvántartási, igazgatási és szolgáltatási tevékenységért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
-### III. Fejezet — AZ ELŐADÓ-MŰVÉSZETI SZERVEZETEK NYILVÁNTARTÁSA ÉS BESOROLÁSA
+### III. Fejezet — AZ ELŐADÓ-MŰVÉSZETI SZERVEZETEK NYILVÁNTARTÁSA, MINŐSÍTÉSE, A KÖZSZOLGÁLTATÁSI SZERZŐDÉS
 
-7. § (1) A költségvetési szervként vagy a külön törvény szerint közhasznúvá minősített szervezetként működő előadó-művészeti szervezetekről az előadó-művészeti államigazgatási szerv nyilvántartást vezet.
+### 1. CÍM — Az előadó-művészeti szervezetek nyilvántartása
 
-(2) A nyilvántartás tartalmazza az előadó-művészeti szervezet nevét, szervezeti formáját, székhelyét, telephelyeit, cégjegyzékszámát, bírósági nyilvántartási számát vagy törzskönyvi nyilvántartási számát, a besorolási kategóriáját (10–11. §), valamint a fenntartó nevét, szervezeti formáját és székhelyét. Ezen adatok nyilvánosak, és az előadó-művészeti államigazgatási szerv honlapján hozzáférhetőek.
+7. § (1) A költségvetési szervként vagy közhasznú szervezetként működő előadó-művészeti szervezetekről és az ágazati érdekegyeztetésben részt vevő előadó-művészeti szakmai érdek-képviseleti szervezetekről az előadó-művészeti államigazgatási szerv nyilvántartást vezet.
 
-8. § (1) A nyilvántartásba vételi eljárás – a (2) bekezdésben foglalt kivétellel – kérelemre indul. A kérelmet az előadó-művészeti szervezet fenntartója, ennek hiányában a szervezet képviselője nyújtja be.
+(2) A nyilvántartás tartalmazza
 
-(2) Az állam által fenntartott előadó-művészeti szervezetek esetén a nyilvántartásba vételi eljárás hivatalból indul.
+- a) a nyilvántartott szervezet nevét, szervezeti formáját, székhelyét, telephelyeit, cégjegyzékszámát, bírósági nyilvántartási számát vagy törzskönyvi nyilvántartási számát,
+- b) az előadó-művészeti szervezet
+  - ba) művészeti tevékenységének jellege szerinti megjelölését: színház, zenekar, énekkar, balett-együttes, táncegyüttes,
+  - bb) művészeti tevékenységének sajátos jellege szerinti típusmegjelölését: többtagozatos színház, bábszínház, gyermek- és ifjúsági színház, kamarazenekar, kamara-szimfonikus zenekar, szimfonikus zenekar, népi koncertzenekar, big band,
+  - bc) működése szerinti típusmegjelölését: független színház, produkciós színház, befogadó színház, szabadtéri színház, nemzetiségi színház, valamint
+  - bd) fenntartójának nevét, szervezeti formáját, székhelyét, fenntartó hiányában az alapító, illetve a képviselő nevét, lakcímét,
+- c) az előadó-művészeti szakmai érdek-képviseleti szervezetek esetében a működési terület (színházművészet, zeneművészet, táncművészet) megjelölését.
 
-9. § (1) Az előadó-művészeti államigazgatási szerv a törvény 7. §-ban meghatározott adatok közlése, illetőleg igazolása esetén az előadó-művészeti szervezetet nyilvántartásba veszi, és – a (2) bekezdésben meghatározott kivétellel – a külön jogszabály szerinti besorolási adatlapon szolgáltatott adatok alapján kategóriába sorolja.
+(3) Jogszabály az e törvényben meghatározott célok teljesüléséhez szükséges egyéb – a személyes adat körébe nem tartozó – adat nyilvántartásba vételét is előírhatja.
 
-(2) Az előadó-művészeti államigazgatási szerv nem sorolja be az állam által fenntartott, valamint a 4. § d) pontban foglalt közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezeteket.
+(4) A nyilvántartásban szereplő adatok nyilvánosak, és az előadó-művészeti államigazgatási szerv honlapján hozzáférhetők.
 
-10. § (1) Az I. kategóriába kell besorolni azt a színházat, bábszínházat, amely évente legalább 180 előadást tart, saját társulattal legalább két bemutatót hoz létre, és a megtartott előadások legalább 75%-a a színház, bábszínház saját előadása.
+8. § (1) A nyilvántartásba vételi eljárás – a (4) bekezdésben foglalt kivétellel – kérelemre indul. A kérelmet az előadó-művészeti szervezet fenntartója, ennek hiányában, továbbá a szakmai érdek-képviseleti szervezetek esetében a szervezet képviselője nyújthatja be.
 
-(2) A II. kategóriába kell besorolni
+(2) Nyilvántartásba az az előadó-művészeti szervezet vehető, amely legalább három éve működik. E rendelkezés az állami vagy önkormányzati fenntartású előadó-művészeti szervezetekre nem alkalmazható.
 
-- a) azt a produkciós színházat, amely évente legalább 100 előadást tart, és legalább két bemutatót hoz létre, valamint
-- b) azt a befogadó színházat, amely évente legalább 140 előadást tart, és az általa játszott előadások legalább 30%-a saját előadása,
-- c) a nemzetiségi színházat, amely évente legalább 100 előadást tart, saját társulattal legalább két bemutatót hoz létre, és a megtartott előadások legalább 75%-a a színház saját előadása.
+(3) Előadó-művészeti szakmai érdek-képviseleti szervezetként az a társadalmi szervezet vehető nyilvántartásba, amelynek létesítő okirata szerint a társadalmi szervezet
 
-(3) A III. kategóriába kell besorolni azt a balett- vagy táncegyüttest, amely évente legalább 50 balett-, tánc- vagy mozgásművészeti előadást tart.
+- a) előadó-művészeti területet érintő szakmai érdek-képviseleti tevékenységet végez, és
+- b) a bírósági nyilvántartásba vételéről szóló végzés jogerőre emelkedésétől számított két év eltelt vagy tagszervezeteinek több mint fele állami vagy önkormányzati fenntartású előadó-művészeti szervezet.
 
-(4) A IV. kategóriába kell besorolni
+(4) Az állam által fenntartott előadó-művészeti szervezetek esetén a nyilvántartásba vételi eljárás hivatalból indul.
 
-- a) azt a színházat, bábszínházat, amely évente legalább 100 előadást tart, saját társulattal legalább két bemutatót hoz létre, és a megtartott előadások legalább 75%-a a színház, bábszínház saját előadása, valamint
-- b) azt a befogadó színházat, amely évente legalább 100 előadást tart, és az általa játszott előadások legalább 30%-a saját előadása,
-- c) azt a máshova nem sorolt nemzetiségi színházat, amely évente legalább 20 színházi előadást tart vagy legalább évi 50 ezer fizető nézője van, és legalább egy bemutatót hoz létre.
+9. § (1) A nyilvántartásba vétel és a minősítés alapjául szolgáló adatokban bekövetkezett változást az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviselője – jogszabályban meghatározott módon – köteles bejelenteni az előadó-művészeti államigazgatási szervnek a változástól vagy annak ismertté válásától számított tizenöt napon belül.
 
-(5) Az V. kategóriába kell besorolni azt a szabadtéri színházat, amely évente legalább 20 színházi előadást tart vagy legalább évi 50 ezer fizető nézője van, és legalább egy bemutatót hoz létre, valamint a máshova nem sorolt nemzetiségi színházat.
+(2) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén az előadó-művészeti államigazgatási szerv az előadó-művészeti szervezet fenntartójával, ennek hiányában az előadó-művészeti szervezet képviselőjével szemben ötvenezer forint bírságot szab ki.
 
-(6) Az I–V. kategóriákba való besorolás további feltétele, hogy az előadó-művészeti szervezet
+10. § A nyilvántartásból törölni kell az előadó-művészeti szervezetet, ha
 
-- a) önkormányzati költségvetési szervként működik vagy önkormányzattal kötött, az e törvény szerinti központi költségvetési támogatás igénybevételének időtartama alatt érvényes közszolgáltatási szerződéssel rendelkezik, és
-- b) a munkáltató vezetőjét az adott szervezetre vonatkozóan e törvényben foglalt szabályoknak megfelelően bízták meg.
-
-(7) A VI. kategóriába kell besorolni azt a független színházat, amely legalább két éve működik, és nem felel meg az I–V. kategóriába sorolás feltételeinek.
-
-11. § (1) Az I. kategóriába kell besorolni azt a szimfonikus zenekart, kamaraszimfonikus zenekart, kamarazenekart (a továbbiakban együtt: zenekar), amely évente legalább 50, és azt az énekkart, amely évente legalább 40 hangversenyt tart.
-
-(2) A besorolás további feltétele, hogy az előadó-művészeti szervezet
-
-- a) önkormányzati költségvetési szervként működik vagy önkormányzattal kötött, az e törvény szerinti központi költségvetési támogatás igénybevételének időtartama alatt hatályos közszolgáltatási szerződéssel rendelkezik,
-- b) tagjainak legalább 80%-a felsőfokú szakirányú végzettséggel rendelkező zene- vagy énekművész,
-- c) rendelkezik a tevékenység ellátásához szükséges, a jogszabályban meghatározott tárgyi feltételekkel,
-- d) a tárgyévet megelőző évben teljesítette a jogszabályban meghatározott fizető nézőszámot és
-- e) a munkáltató vezetőjét az adott szervezetre vonatkozóan e törvényben foglalt szabályoknak megfelelően bízták meg.
-
-(3) A II. kategóriába kell besorolni azokat a zenekarokat és énekkarokat, melyek legalább két éve működnek, és megfelelnek a (2) bekezdés c) és d) pontjában foglalt feltételeknek.
-
-12. § (1) A nyilvántartásba vétel és a besorolás alapjául szolgáló adatokban bekövetkezett változást az előadó-művészeti szervezet fenntartója, ennek hiányában a szervezet képviselője – a külön jogszabályban meghatározottak szerint – köteles bejelenteni az előadó-művészeti államigazgatási szervnek a változástól (annak ismertté válásától) számított tizenöt napon belül.
-
-(2)
-
-(3) Ha az adatváltozás következtében a nyilvántartásban foglaltaktól eltérően kell az előadó-művészeti szervezetet besorolni, az előadó-művészeti államigazgatási szerv – kérelem hiányában – hivatalból indít eljárást.
-
-(4) Az (1) bekezdésben meghatározott változás-bejelentési kötelezettség elmulasztása esetén az előadó-művészeti államigazgatási szerv a támogatást igénylővel szemben ötvenezer forint bírságot szab ki.
-
-(5) Ha a nyilvántartásban foglaltaktól eltérően kellene besorolni az előadó-művészeti szervezetet, de a fenntartó, ennek hiányában az előadó-művészeti szervezet képviselője az ehhez szükséges adatszolgáltatást az (1) bekezdésben meghatározott határidőben nem teljesíti, vagy valótlan adatot szolgáltat, az ennek következtében jogtalanul igénybe vett központi költségvetési támogatás visszafizetésére az államháztartásról szóló 2011. évi CXCV. törvény 59. §-ában foglalt rendelkezéseket kell alkalmazni.
-
-13. § A nyilvántartásból törölni kell az előadó-művészeti szervezetet, ha
-
-- a) az előadó-művészeti szervezet nem felel meg a 7. § (1) bekezdésben a nyilvántartásba vétel feltételeként meghatározott szervezeti feltételeknek,
-- b) ezt a fenntartója, ennek hiányában a szervezet képviselője kéri,
+- a) az előadó-művészeti szervezet nem felel meg a nyilvántartásba vétel feltételeként meghatározott szervezeti feltételeknek,
+- b) ezt az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviseletére jogosult személy kéri,
 - c) az előadó-művészeti szervezet jogutód nélkül megszűnt,
-- d) a nyilvántartásba vételétől számított öt éven át az előadó-művészeti szervezet – ide nem értve a 4. § c) pontja alapján állam által fenntartott és a 4. § d) pontja alapján közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezetet – nem részesült az e törvényben meghatározott egyetlen támogatásból sem.
+- d) a nyilvántartásba vételétől számított öt éven át az előadó-művészeti szervezet – ide nem értve a magyar állam által fenntartott, valamint a közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezetet – nem részesült az e törvényben meghatározott támogatásból.
 
-14. § Külön jogszabály az e fejezet alkalmazása során a törvényben meghatározott célok teljesüléséhez szükséges egyéb – személyes adatok körébe nem tartozó – adatok nyilvántartásba vételét is előírhatja.
+### 2. CÍM — Az előadó-művészeti szervezetek minősítése
+
+11. § (1) A nyilvántartásba vett előadó-művészeti szervezetet a miniszter – az érintett bizottság javaslata alapján, a NEÉT előzetes álláspontjának mérlegelésével – az általa kiadott rendeletben nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősítheti.
+
+(2) Azt az előadó-művészeti szervezetet lehet nemzeti előadó-művészeti szervezetnek minősíteni, amelynek
+
+- a) fenntartója a magyar állam vagy az e törvény szerinti közszolgáltatási szerződése van a magyar állammal,
+- b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
+- c) vezetőjét az e törvényben foglalt szabályoknak megfelelően bízták meg, és
+- d) a magyar előadó-művészeti életben betöltött szerepe, a művészeti tevékenysége a magyar nemzeti kulturális identitás és hagyományok őrzése, fejlesztése, a kulturális érték- és mintaközvetítés szempontjából kiemelkedő jelentőségű.
+
+(3) Azt az előadó-művészeti szervezetet lehet kiemelt előadó-művészeti szervezetnek minősíteni, amelynek
+
+- a) fenntartója helyi önkormányzat vagy az e törvény szerinti közszolgáltatási szerződése van helyi önkormányzattal,
+- b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészeinek – ide nem értve a gyermek- és csoportos szereplőket – legalább 60%-a szakirányú felsőfokú végzettséggel vagy a Kjt. 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
+- c) vezetőjét az e törvényben foglalt szabályoknak megfelelően bízták meg, és
+- d) a fővárosi, illetve a megyei előadó-művészeti életben betöltött művészeti, kulturális szerepe, az általa nyújtott művészeti szolgáltatások tartalma és művészeti értéke az állami támogatási és az önkormányzati fenntartói vagy támogatási szerepvállalást egyidejűleg és tartósan indokolja.
+
+(4) A 7. § (2) bekezdés b) pont bc) alpontja szerinti előadó-művészeti szervezet esetében a (2) bekezdés b) pontját és a (3) bekezdés b) pontját a minősítés során nem kell alkalmazni.
+
+(5) Nem minősíthető nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté az előadó-művészeti szervezet, illetve a már nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősített előadó-művészeti szervezet ilyen minősítését meg kell szüntetni, ha a minősítés alapjául szolgáló feltételek közül a (2) bekezdés d) pontja vagy a (3) bekezdés d) pontja szerinti feltétel tartósan, a (2) bekezdés a)–c) pontja vagy a (3) bekezdés a)–c) pontja szerinti feltételek valamelyike pedig egy teljes évadot alapul véve nem áll fenn.
+
+12. § Szimfonikus zenekar, kamaraszimfonikus zenekar, kamarazenekar (a továbbiakban együtt: zenekar), énekkar nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősítésének a nemzeti előadó-művészeti szervezet esetében a 11. § (2) bekezdésében, a kiemelt előadó-művészeti szervezet esetében a 11. § (2) bekezdésének b) pontjában és a 11. § (3) bekezdésének a) és c)–d) pontjában foglaltakon túl feltétele, hogy
+
+- a) a zenekar évente legalább 50 hangversenyt tartson,
+- b) az énekkar évente legalább 40 hangversenyt tartson,
+- c) rendelkezzen a tevékenység ellátásához szükséges, jogszabályban meghatározott tárgyi feltételekkel és
+- d) a tárgyévet megelőző évben teljesítse a jogszabályban meghatározott fizetőnéző-számot.
+
+### 3. CÍM — A közszolgáltatási szerződés
+
+13. § (1) Az állam, illetve az önkormányzat az előadó-művészeti szolgáltatások (a továbbiakban: szolgáltatások) tartós biztosítására nem állami fenntartású előadó-művészeti szervezettel legalább három évre előadó-művészeti közszolgáltatási szerződést köthet.
+
+(2) A közszolgáltatási szerződés tartalmazza
+
+- a) az előadó-művészeti szervezet nevét, székhelyét, képviselőjének nevét, bírósági nyilvántartási vagy cégjegyzékszámát és adószámát,
+- b) a szolgáltatások részletes leírását, helyének meghatározását és mutatószámait, továbbá a kapcsolódó egyéb szolgáltatásokat,
+- c) a szolgáltatások ellátását biztosító személyi, tárgyi és pénzügyi feltételeket,
+- d) a szolgáltatások folyamatos nyújtását biztosító feltételeket,
+- e) a szolgáltatások teljesítéséhez elengedhetetlen, lényeges vagyoni eszközök tulajdonviszonyait, a szervezet birtokába adott vagy más módon rendelkezésére bocsátott eszközök használatára, karbantartására és visszaszolgáltatására vonatkozó szabályokat,
+- f) a szervezet vállalt szolgáltatásaival összefüggő jogait és kötelezettségeit,
+- g) a szervezet tevékenységére vonatkozó adatok szolgáltatására és az ellenőrzésre vonatkozó szabályokat,
+- h) a gyermek- és ifjúsági korosztály védelmét szolgáló nézőtájékoztatási, továbbá a jegyrendszerre vonatkozó előírásokat,
+- i) a közszolgáltatási szerződés módosításának, felmondásának feltételeit,
+- j) a közszolgáltatási szerződésben meghatározott kötelezettségek megszegése esetére vonatkozó jogkövetkezményeket (így különösen a kötbérfizetési kötelezettséget), valamint a közszolgáltatási szerződés teljesítésével kapcsolatos esetleges jogviták rendezésének módját és
+- k) az előadó-művészeti közszolgáltatás megkezdésének időpontját és a szerződés időbeli hatályát.
+
+14. § (1) A nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek esetében – a 13. § (2) bekezdésben foglaltakon túl – a közszolgáltatási szerződés tartalmazza a 17. § (4) bekezdés f) pontja szerinti szolgáltatásokra vonatkozó rendelkezéseket is.
+
+(2) A 19. § (1) bekezdése, 20. § (3) bekezdése és 21. § (1) bekezdése szerinti pályázat keretében megkötött támogatási szerződés tartalmazza a közszolgálati szerződés 13. § (2) bekezdés a)–d) és f)–j) pontja szerinti rendelkezéseket is.
 
 ### IV. Fejezet — AZ ELŐADÓ-MŰVÉSZET TÁMOGATÁSA
 
@@ -584,7 +607,7 @@ képviselője.
 - 49. színpadtechnikai eszközök: épület alkotórészének nem minősülő, a színpadi előadó-művészeti tevékenységhez szükséges, illetve azt segítő műszaki (fény-, hang-, videotechnikai) eszközök, berendezések, továbbá az állandó játszóhelyen kívüli előadáshoz alkalmazott színpadi eszközök (mobilszínpad),
 - 50. tájelőadás: az előadó-művészeti szervezet létesítő okiratában megjelölt székhely településen kívül játszott előadás,
 - 51. üzemeltetés: az előadó-művészeti szervezet tulajdonában vagy tartós használatában álló, a művészeti alaptevékenységhez kapcsolódó ingatlan és eszközök rendeltetésszerű használatához folyamatosan szükséges szolgáltatások, személyi és tárgyi feltételek biztosítása,
-- 52. vendégelőadás: olyan színházi alkotás, amelynek előadásához szükséges szerzői jogokkal a felhasználási szerződés alapján meghatározott időre vagy előadásszámra a vendégszínház rendelkezik, az előadás a vendégszínház által szerződtetett alkotó- és előadóművészek művészi tevékenységével jön létre, és a fogadó színház szervezésével, a fogadó színház költségvetéséből kerül a nyilvánosság elé.
+- 52. vendégelőadás: olyan színházi alkotás, amelynek előadásához szükséges szerzői jogokkal a felhasználási szerződés alapján meghatározott időre vagy előadásszámra a vendégszínház rendelkezik, az előadás a vendégszínház által szerződtetett alkotó- és előadóművészek művészi tevékenységével jön létre, és a fogadó színház szervezésével, a fogadó színház költségvetéséből kerül a nyilvánosság elé,
 - 53. biztosítással járó jogviszony:
   - a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
   - b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
@@ -614,6 +637,8 @@ képviselője.
 (3) A 20. § (2) bekezdését a kiemelt előadó-művészeti szervezetnek minősített szimfonikus zenekarok esetében 2014. január 1-jétől kell alkalmazni.
 
 (4) E törvénynek a módosító törvénnyel megállapított 39. § (5) és (6) bekezdését a módosító törvény hatálybalépésének napján és az azt követően kiírt pályázatokra kell alkalmazni.
+
+(4) 2014. január 1-jéig olyan előadó művészeti szervezet is nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősíthető, amely tekintetében a 11. § (2) bekezdés c) pontjában vagy a 11. § (3) bekezdés c) pontjában meghatározott feltételek nem állnak fenn.
 
 (5) Az Előadó-művészeti Tanács tagjainak jogviszonya a módosító törvény 24. § (2) bekezdésében meghatározott hatálybalépést követő 15. napon megszűnik. Az Előadó-művészeti Tanács a módosító törvény hatálybalépésekor folyamatban lévő ügyeiben az érintett bizottság jár el. A miniszter a bizottság tagjait a módosító törvény 24. § (2) bekezdésében meghatározott hatálybalépést követő 15 napon belül kéri fel.
 
