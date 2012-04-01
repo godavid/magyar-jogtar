@@ -756,7 +756,7 @@ Az Országgyűlés a pénzügyi piacok zavartalan és eredményes működése, a
 
 (2) E törvény alkalmazásában fogyasztó az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
 
-(3) A fogyasztóvédelmi eljárást a fogyasztó kizárólag azt követően kezdeményezheti, miután a 4. §-ban meghatározott személynél vagy szervezetnél, e szervezet által meghatározott és közzétett elérhetőségein keresztül (személyesen, telefonon, postai úton, telefaxon, ügyfélkapun vagy e-mail-ben) azonosítására alkalmas tartalommal, szóban vagy írásban a szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
+(3) A fogyasztóvédelmi eljárást a fogyasztó kizárólag azt követően kezdeményezheti, miután a 4. §-ban meghatározott személynél vagy szervezetnél, e szervezet által meghatározott és közzétett elérhetőségein keresztül (személyesen, telefonon, postai úton, telefaxon, az erre a célra üzemeltetett informatikai rendszeren keresztül) azonosítására alkalmas tartalommal, szóban vagy írásban a szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
 
 - a) a panaszára nem kapott választ,
 - b) a panasz kivizsgálása nem a 4. §-ban meghatározott jogszabályokban előírtak szerint történt,

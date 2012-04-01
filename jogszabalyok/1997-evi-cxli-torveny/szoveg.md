@@ -745,7 +745,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (3) A körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzője (a továbbiakban: körzetközponti jegyző) a polgármesteri hivatal részeként működtetett okmányiroda (a továbbiakban: okmányiroda) útján a Kormány e törvény felhatalmazása alapján kiadott rendeletében meghatározottak szerint hiteles tulajdonilap-másolatot adhat ki.
 
-(4) A tulajdoni lapról kiállított hiteles másolat kizárólag papír alapon szolgáltatható. Elektronikus dokumentumként hiteles és nem hiteles másolat közvetlenül, illetve az ügyfélkapun keresztül a számítógépes ingatlan-nyilvántartási rendszerből szolgáltatható.
+(4) A tulajdoni lapról kiállított hiteles másolat kizárólag papír alapon szolgáltatható. Elektronikus dokumentumként hiteles és nem hiteles másolat közvetlenül, illetve a Kormány által biztosított azonosítási szolgáltatáson keresztül a számítógépes ingatlan-nyilvántartási rendszerből szolgáltatható.
 
 (5) Tulajdoni lapról másolatot meghatározott formában lehet kiadni. Ha a hiteles tulajdonilap-másolat szolgáltatása elektronikus dokumentumként történik, e tényre a hitelesítési záradékban utalni kell.
 
@@ -812,13 +812,13 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (2) A szolgáltatási szerződés kötelező elemeit külön jogszabály határozza meg.
 
-(3) Az önálló EKG-kapcsolattal nem rendelkező felhasználók kapcsolódása a számítógépes ingatlan-nyilvántartási rendszerhez a kormányzati portálon az ügyfélkapun keresztül, vagy azonnali érvényességvizsgálatra alkalmas, legalább fokozott biztonságú elektronikus aláírással történhet.
+(3) Az önálló EKG-kapcsolattal nem rendelkező felhasználók kapcsolódása a számítógépes ingatlan-nyilvántartási rendszerhez a Kormány által biztosított azonosítási szolgáltatáson keresztül, vagy azonnali érvényességvizsgálatra alkalmas, legalább fokozott biztonságú elektronikus aláírással történhet.
 
-75. § (1) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevétele iránti kérelem tárgyában az ingatlanügyi hatóság határozatot hoz, kivéve ha a tulajdonilap-másolat szolgáltatása ügyfélkapun keresztül történik.
+75. § (1) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevétele iránti kérelem tárgyában az ingatlanügyi hatóság határozatot hoz, kivéve ha a tulajdonilap-másolat szolgáltatása a Kormány által biztosított azonosítási szolgáltatáson keresztül történik.
 
 (1a) Az ingatlanügyi hatóság az (1) bekezdés szerinti határozatában állapítja meg a kérelmező által – a kérelemben megjelölt jogszabályok alapján – igénybe vehető díjmentességek körét.
 
-(2) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevőknek – az ügyfélkapun keresztül történő lekérdezések kivételével – a lekérdezéseikről naplót kell készíteniük, amelyet öt évig meg kell őrizniük. A bírósági, ügyészségi, hatósági feladatok ellátásához szükséges lekérdezések esetén a naplóban rögzíteni kell annak a bírósági, ügyészségi, hatósági ügynek az iktatószámát is, melyhez az ingatlan-nyilvántartási adatokat lekérdezték.
+(2) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybevevőknek – a Kormány által biztosított azonosítási szolgáltatáson keresztül történő lekérdezések kivételével – a lekérdezéseikről naplót kell készíteniük, amelyet öt évig meg kell őrizniük. A bírósági, ügyészségi, hatósági feladatok ellátásához szükséges lekérdezések esetén a naplóban rögzíteni kell annak a bírósági, ügyészségi, hatósági ügynek az iktatószámát is, melyhez az ingatlan-nyilvántartási adatokat lekérdezték.
 
 (2a) A naplónak minden esetben tartalmazza a lekérdezés időpontját, a lekérdezést végző személy nevét, a lekérdezett ingatlan pontos megjelölését (település neve, helyrajzi szám), díjmentes lekérdezés esetén a lekérdezés célját, valamint a díjmentességet megalapozó jogszabályi rendelkezésre való hivatkozást.
 

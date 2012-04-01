@@ -20,7 +20,8 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 - e) a villamos energiáról szóló 2007. évi LXXXVI. törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
 - f) a földgázellátásról szóló 2008. évi XL. törvény hatálya alá tartozó termékek vagy szolgáltatások árára;
 - g) pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben szabályozott szolgáltatási díjakra;
-- h) a távhőszolgáltatónak értékesített távhő árára, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjára.
+- h) a távhőszolgáltatónak értékesített távhő árára, valamint a lakossági felhasználónak és a külön kezelt intézménynek nyújtott távhőszolgáltatás (fűtés és használati melegvíz) díjára;
+- j) az autóbusszal végzett menetrend szerinti személyszállításról szóló törvényben, valamint a vasúti közlekedésről szóló törvényben meghatározott helyi és helyközi közösségi közlekedési szolgáltatások áraira.
 
 (3) E törvény alkalmazásában gazdasági tevékenység: nyereség- és vagyonszerzés céljából üzletszerűen, ellenérték fejében történő termelő vagy szolgáltatási tevékenység folytatása.
 
@@ -30,13 +31,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 ### Bejelentési kötelezettség
 
-#### 3. §
-
-#### 4. §
-
-#### 5. §
-
-#### 6. §
+3–6. §
 
 ### Hatósági ármegállapítás
 
@@ -98,7 +93,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 (4)
 
-#### 18. §
+18. §
 
 ### Vegyes rendelkezések
 
@@ -106,7 +101,7 @@ Az árak legfőbb szabályozója a piac és a gazdasági verseny. Az árakra von
 
 19/A. § A gyógyszerpiac átmeneti zavarainak elhárítása, kiküszöbölése vagy a gyógyszerpiac egyensúlyának fenntartása érdekében tehető intézkedésekről külön törvény rendelkezik.
 
-#### 20. §
+20. §
 
 21. § Az e törvényben foglaltak nem érintik a külön jogszabályok szerinti polgári jogi igény érvényesítésének, illetőleg szabálysértési vagy büntetőeljárás megindításának lehetőségét.
 
@@ -130,19 +125,15 @@ I. Legmagasabb ár
 
 A) Termékek
 
-| Termékszám(ITJ)(BTO) | Megnevezés | A hatósági ár megállapítója |
+| Termékszám (ITJ)(BTO) | Megnevezés | A hatósági ár megállapítója |
 | --- | --- | --- |
 | 11−3 | Földgáz ára | gazdasági és közlekedési miniszter |
 | 14−1 | Villamosenergia ára | gazdasági miniszter |
 
 B) Szolgáltatások
 
-| Szolgáltatásszám(SZTJ)(ITJ) | Megnevezés | A hatósági ár megállapítója |
+| Szolgáltatásszám (SZTJ)(ITJ) | Megnevezés | A hatósági ár megállapítója |
 | --- | --- | --- |
-| 405−11−02-ből | A belföldi közforgalmú, vasúti menetrend szerinti személyszállítás díja | közlekedésért felelős miniszter |
-| 405−22−01-ből | A belföldi menetrend szerinti távolsági autóbusz-közlekedés díja; iskolák és tanintézetek által rendelt belföldi távolsági autóbusz-különjáratok díja | közlekedésért felelős miniszter |
-| 405−22−02-ből | A menetrend szerinti helyi autóbusz-közlekedés díja; iskolák és tanintézetek által rendelt helyi autóbusz-különjáratok díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
-| 405−3-ból | A menetrend szerinti személyszállítás (villamos, fogaskerekű, troli, metró, földalatti) és a helyiérdekű vasút díja | települési önkormányzat – fővárosban a Fővárosi Önkormányzat – képviselő-testülete |
 | 64.11.12.0-ból 64.11.14.0-ból 64.11.15.0-ból | A postáról szóló 2003. évi CI. törvény 7. § (1) bekezdésében meghatározott postai belföldi fenntartott szolgáltatások díja | postaügyért felelős miniszter |
 | 64.20.11.0 64.20.12.1 64.20.12.2 | Az egyetemes elektronikus hírközlési szolgáltatás díja | elektronikus hírközlésért felelős miniszter |
 | 507−34, 45-ből | Humán célú, a járóbeteg-ellátás keretében társadalombiztosítási támogatással forgalmazható gyógyszerek kereskedelmi árrése | egészségügyért felelős miniszter |

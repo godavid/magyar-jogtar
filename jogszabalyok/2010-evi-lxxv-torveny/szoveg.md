@@ -145,7 +145,7 @@ a munkáltató közterhet nem fizet.
 
 11. § (1) Egyszerűsített foglalkoztatás esetén a munkáltató köteles az illetékes elsőfokú állami adóhatóságnak a munkavégzés megkezdése előtt bejelenteni a (3) bekezdés szerinti adatokat. A munkáltató bejelentési kötelezettségét – választása szerint –
 
-- a) elektronikus úton, központi elektronikus szolgáltató rendszeren keresztül (a továbbiakban: ügyfélkapu), vagy
+- a) elektronikus úton, kormányzati kézbesítési szolgáltatás igénybevételével (a továbbiakban: ügyfélkapu), vagy
 - b) telefonos ügyfélszolgálaton keresztül telefonon teljesítheti.
 - c)
 
@@ -164,7 +164,7 @@ a munkáltató közterhet nem fizet.
 
 (6) Az a munkáltató, aki a 300 ezer forintot, vagy ezt meghaladó összegű adótartozást halmoz fel a 8. § (2) bekezdésében és/vagy a 8. § (3) bekezdés a) pontjában szereplő adók tekintetében, további egyszerűsített foglalkoztatásra nem jogosult mindaddig, míg adótartozását ki nem egyenlíti.
 
-(7) Az egyszerűsített foglalkoztatás (1) bekezdés b) pontja szerint történő bejelentése az elektronikus közszolgáltatásokról szóló törvény szerint a központi elektronikus szolgáltató rendszerben működő központi ügyfélszolgálat által fenntartott ügyfélvonalon keresztül történik, a bejelentő adóazonosító jelének megadásával. A központi ügyfélszolgálat a bejelentést az elektronikus közszolgáltatásról szóló törvény szabályai szerint rögzíti, és a bejelentőt a bejelentés eredményéről egyidejűleg tájékoztatja. A központi ügyfélszolgálat az adatokat haladéktalanul továbbítja az állami adóhatóság számára. A központi ügyfélszolgálat a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törlésre kerül. A központi ügyfélszolgálat e törvényben meghatározott személyes adatokat, továbbá az adótitkot feladat a teljesítéséhez szükséges mértékben megismerheti és kezelheti.
+(7) Az egyszerűsített foglalkoztatás (1) bekezdés b) pontja szerint történő bejelentése a jogszabályban meghatározott központi ügyfélszolgálat által fenntartott ügyfélvonalon keresztül történik, a bejelentő adóazonosító jelének megadásával. A központi ügyfélszolgálat a bejelentést a jogszabályban meghatározott módon rögzíti, és a bejelentőt a bejelentés eredményéről egyidejűleg tájékoztatja. A központi ügyfélszolgálat az adatokat haladéktalanul továbbítja az állami adóhatóság számára. A központi ügyfélszolgálat a bejelentett adatokat a bejelentést követő ötödik év december 31-éig őrzi meg, azt követően törlésre kerül. A központi ügyfélszolgálat e törvényben meghatározott személyes adatokat, továbbá az adótitkot feladat a teljesítéséhez szükséges mértékben megismerheti és kezelheti.
 
 (8) Az adóhatóság részére teljesített bejelentés esetleges visszavonására és módosítására – így különösen a foglalkoztatás jellegének változása, illetve a munkavégzés meghiúsulása esetén –
 
@@ -194,7 +194,7 @@ van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezett
 15. § (1) Felhatalmazást kap a Kormány, hogy
 
 - a) az egyszerűsített foglalkoztatásra vonatkozó, a bejelentett adatok rögzítésének, állami adóhatóság részére történő átadásának, valamint törlésének módját és technikai feltételeit,
-- b) elektronikus úton, központi elektronikus szolgáltató rendszeren keresztül, mobil rádiótelefonon, illetve telefonon teljesíthető bejelentéssel használt alkalmazással összefüggő azonosítást, az alkalmazással szemben támasztott biztonsági követelményeket, valamint az alkalmazás használatának biztonsági és egyéb feltételeit,
+- b) elektronikus úton, kormányzati azonosítási szolgáltatáson keresztül, mobil rádiótelefonon, illetve telefonon teljesíthető bejelentéssel használt alkalmazással összefüggő azonosítást, az alkalmazással szemben támasztott biztonsági követelményeket, valamint az alkalmazás használatának biztonsági és egyéb feltételeit,
 - c) a 2. § 6. pontja szerinti tagállam állampolgára egyszerűsített foglalkoztatására előírt bejelentési kötelezettség részletszabályait
 
 rendeletben szabályozza.

@@ -513,7 +513,7 @@ használnak fel;
 (3) Az üzemszünet időtartamának kezdete
 
 - a) a (2) bekezdés a) pont szerinti üzemszünet esetében az az időpont, amikor a vámhatóság a közlést megteszi,
-- b) a (2) bekezdés b) pont szerinti üzemszünet esetében az üzemzavarról az elektronikus közszolgáltatásról szóló 2009. évi LX. törvény szerinti Kormányzati Portálon (a továbbiakban: Kormányzati Portál) közzétett időpont,
+- b) a (2) bekezdés b) pont szerinti üzemszünet esetében az üzemzavarról a külön jogszabály szerinti Kormányzati Portálon (a továbbiakban: Kormányzati Portál) közzétett időpont,
 - c) a (2) bekezdés c) pont szerinti üzemszünet esetében az üzemzavarról a vámhatósághoz tett bejelentés és az azzal egyidejűleg történő nyilvántartásba vétel időpontja, illetve – a vámhatóság hivatali idején kívül történt bejelentés esetén – a bejelentésben az üzemzavar kezdeteként megjelölt időpont, ami nem lehet a bejelentés megtételét megelőző utolsó hivatali idő végénél korábbi időpont.
 
 (4) Az üzemszünet időtartamának vége az az időpont,

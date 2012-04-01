@@ -280,7 +280,7 @@ az Mt.-ben és az e törvényben meghatározott szabályok szerint.
 - b) ha az ágazati érdekképviselet, amelynek jogos érdekét a határozat érinti, a megelőző határozat jogerőre emelkedésétől számított három év elteltét követően azt kezdeményezi, vagy
 - c) ha a miniszter a kollektív szerződés kiterjesztésére vonatkozó határozatának felülvizsgálata érdekében a 17. § (2) bekezdésének való megfelelés vizsgálatát kéri.
 
-(5) Az ÁRMB eljárására a Ket., valamint az elektronikus közszolgáltatásról szóló 2009. évi LX. törvény szabályait kell alkalmazni azzal, hogy
+(5) Az ÁRMB eljárására a Ket. szabályait kell alkalmazni azzal, hogy
 
 - a) kiadmányozásra jogosult vezetőnek az ÁRMB tagjai által maguk közül választott elnököt kell tekinteni,
 - b) az ügyben a Ket. 112. §-a szerinti újrafelvételi eljárásnak nincs helye,

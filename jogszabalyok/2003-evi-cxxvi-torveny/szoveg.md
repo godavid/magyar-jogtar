@@ -75,7 +75,7 @@ a módosításaikkal együtt.
 
 (5) Ha a közösségi vámjog, valamint e törvény – figyelembe véve az (1) bekezdésben foglaltakat – valamely kérdésben nem rendelkezik, vámigazgatási ügyekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
-(6) A közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtásról szóló rendelkezései az e törvény hatálya alá tartozó eljárásokban nem alkalmazhatók. A vámeljárások és az áruk közösségi vámterületről való újrakivitele esetében, a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott elektronikus kapcsolattartási szabályok közül nem kell alkalmazni az ügyfélkapura vonatkozó rendelkezéseket.
+(6) A közigazgatási hatósági eljárás általános szabályairól szóló törvény végrehajtásról szóló rendelkezései az e törvény hatálya alá tartozó eljárásokban nem alkalmazhatók.
 
 (7) Amikor a felettes vámszerv, vagy az adópolitikáért felelős miniszter vámigazgatási eljárás során felügyeleti intézkedés keretében jár el, az adózás rendjéről szóló törvény felügyeleti intézkedésre vonatkozó rendelkezéseit kell alkalmazni.
 
