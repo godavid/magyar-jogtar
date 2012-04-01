@@ -2647,7 +2647,15 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 2.7. a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet vagy a Magyar Államkincstár útján, annak igazolása alapján nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú felhasználásra nyújtott kölcsön elengedett összegét is) a vételár vagy a teljes építési költség 30 százalékáig, de több munkáltató esetén is a folyósítás évét megelőző négy évben ilyenként folyósított összegekkel együtt legfeljebb 5 millió forintig terjedő összegben, feltéve, hogy a lakás nem haladja meg a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározott méltányolható lakásigényt (lakáscélú munkáltatói támogatás).
 
-2.8.
+2.8.az az összeg, amelyet a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény rendelkezései szerint a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni;
+
+2.9. az az összeg, amelyet a közszférában dolgozó magánszemély a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény
+
+a) felhatalmazása alapján kiadott kormányrendeletben meghatározott módon a gyűjtőszámlahitele ügyleti kamatának megfizetéséhez kamattámogatásként,
+
+b) 13/A. § alapján egyszeri vissza nem térítendő támogatásként
+
+kap.
 
 3. A közcélú juttatások körében adómentes:
 

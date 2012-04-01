@@ -2631,7 +2631,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - a) 15. cikkének (1) bekezdését átültető tagállami jogszabály értelmébennemtekinthették volna benyújtottnak, vagy
 - b) 18. cikkének (1) bekezdését átültető tagállami jogszabály értelmében nem továbbíthatták volna.
 
-251/D. § (1) Az állami adóhatóság az adó-visszatéríttetési eljárás során az Art.-nek az elektronikus kapcsolattartására vonatkozó szabályai szerint jár el azzal, hogy külön jogszabályban meghatározott esetben a kapcsolattartásra a központi elektronikus szolgáltató rendszeren kívüli számítógépes rendszeren keresztül – elektronikus levél útján – is van lehetőség.
+251/D. § (1) Az állami adóhatóság az adó-visszatéríttetési eljárás során az Art.-nek az elektronikus kapcsolattartására vonatkozó szabályai szerint jár el azzal, hogy külön jogszabályban meghatározott esetben a kapcsolattartásra számítógépes rendszeren keresztül – elektronikus levél útján – is van lehetőség.
 
 (2) Az állami adóhatóság az adó-visszatéríttetési kérelem érkeztetésének tényéről és időpontjáról a Közösség más tagállamában letelepedett adóalanyt elektronikus úton, haladéktalanul értesíti.
 
