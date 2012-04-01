@@ -1443,7 +1443,7 @@ Ptk.201. § (1) A szerződéssel kikötött szolgáltatásért – ha a szerződ
 
 (2) Ha a szolgáltatás és ellenszolgáltatás között anélkül, hogy az egyik felet az ajándékozás szándéka vezetné, a szerződés megkötésének időpontjában feltűnően nagy az értékkülönbség, a sérelmet szenvedő fél a szerződést megtámadhatja.
 
-(3) A (2) bekezdésben foglaltak irányadók abban az esetben is, ha a hitelnyújtó szerződésben meghatározott szolgáltatása és a teljes hiteldíj között – a szerződéskötés egyéb körülményeit is figyelembe véve – feltűnően nagy az értékkülönbség.
+(3)
 
 Ptk.202. § Ha a szerződő fél a szerződés megkötésekor a másik fél helyzetének kihasználásával feltűnően aránytalan előnyt kötött ki, a szerződés semmis (uzsorás szerződés).
 
@@ -1772,7 +1772,7 @@ Ptk.232. § (1) A szerződéses kapcsolatokban – ha jogszabály kivételt nem 
 
 (2) Az államháztartás alrendszereiben harmadik személyekkel szemben vállalt vagy az alrendszereket egyébként harmadik személyekkel szemben terhelő fizetési kötelezettség esetén, ide értve a támogatási szerződésekből eredő fizetési kötelezettséget is, a kamatfizetés mellőzésére vagy a törvényesnél alacsonyabb mértékű kamat fizetésére irányuló szerződési kikötés – ha jogszabály eltérően nem rendelkezik – semmis. Ezt a rendelkezést kell alkalmazni az államháztartás alrendszereiből nyújtott támogatások felhasználására kötött szerződésekben, valamint a jogszabályban meghatározott közfeladat ellátásával megbízott és e körben olyan szervezetek által vállalt fizetési kötelezettség esetében is, amelyet államháztartási szervezet alapított, vagy amelyben ilyen szervezet többségi befolyással rendelkezik.
 
-(3) A kamat mértéke – ha jogszabály kivételt nem tesz – megegyezik a jegybanki alapkamattal. A fizetendő kamat számításakor az érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére.
+(3) A kamat mértéke – ha azt a felek nem határozták meg és jogszabály kivételt nem tesz – megegyezik a jegybanki alapkamattal. A magánszemélyek egymás közötti viszonyában kikötött kamat – ha jogszabály eltérően nem rendelkezik – a jegybanki alapkamat 24 százalékponttal növelt mértékét meghaladó részében semmis. A fizetendő kamat számításakor az érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére.
 
 (4) A felek által túlzott mértékben megállapított kamatot a bíróság mérsékelheti.
 
@@ -2423,7 +2423,7 @@ Ptk.301. § (1) Pénztartozás esetében – ha jogszabály eltérően nem rende
 
 (2) Az államháztartás alrendszereiben harmadik személyekkel szemben vállalt vagy az alrendszereket egyébként harmadik személyekkel szemben terhelő fizetési kötelezettség késedelmes teljesítése esetén a késedelmi kamat tekintetében is alkalmazni kell a kamatfizetés mellőzésére vagy a törvényesnél alacsonyabb mértékű kamatfizetésre irányuló szerződési kikötés semmisségére vonatkozó rendelkezést.
 
-(3) Ha a jogosultnak a késedelembe esés időpontjáig kamat jogszabály vagy szerződés alapján jár, a kötelezett a késedelembe esés időpontjától e kamaton felül – ha jogszabály eltérően nem rendelkezik – a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat egyharmadával megegyező mértékű kamatot, de összességében legalább az (1) bekezdésben meghatározott kamatot köteles megfizetni.
+(3) Ha a jogosultnak a késedelembe esés időpontjáig kamat jogszabály vagy szerződés alapján jár, a kötelezett a késedelembe esés időpontjától e kamaton felül – ha jogszabály eltérően nem rendelkezik – a késedelemmel érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat egyharmadával megegyező mértékű kamatot, de összességében legalább az (1) bekezdésben meghatározott kamatot köteles megfizetni. A magánszemélyek egymás közötti viszonyában kikötött késedelmi kamat – ha jogszabály másként nem rendelkezik – a jegybanki alapkamat 24 százalékponttal növelt mértékét meghaladó részében semmis.
 
 (4) A felek által túlzott mértékben megállapított késedelmi kamatot a bíróság mérsékelheti.
 
@@ -5039,7 +5039,7 @@ d) fogyasztó: a gazdasági vagy szakmai tevékenység körén kívül eső cél
 
 e) fogyasztói szerződés: az a szerződés, amely fogyasztó és olyan személy között jön létre, aki (amely) a szerződést gazdasági vagy szakmai tevékenysége körében köti; a törvény jótállásra és kellékszavatosságra vonatkozó szabályai alkalmazásában az a szerződés minősül fogyasztói szerződésnek, amelynek tárgya ingó dolog, kivéve a villamos energiát, a – tartályban, palackban vagy egyéb módon korlátozott mennyiségben vagy meghatározott űrtartalommal ki nem szerelt – vizet és gázt, továbbá a végrehajtási eljárás vagy más hatósági intézkedés folytán eladott dolgot, valamint az olyan árverésen eladott használt dolgot, amelyen a fogyasztó személyesen részt vehet (fogyasztási cikk);
 
-f) teljes hiteldíj: a kölcsönért fizetendő ellenérték, amely tartalmazza a kamatokat, folyósítási jutalékokat és minden egyéb – a kölcsön felhasználásával kapcsolatosan teljesítendő – ellenszolgáltatást.
+f)
 
 Ptk.685/A. § Élettársi kapcsolat áll fenn két olyan házasságkötés vagy bejegyzett élettársi kapcsolat létesítése nélkül közös háztartásban érzelmi és gazdasági közösségben (életközösségben) együtt élő személy között, akik közül egyiknek sem áll fenn mással házassági életközössége, bejegyzett élettársi életközössége vagy élettársi kapcsolata, és akik nem állnak egymással egyenesági rokonságban vagy testvéri, féltestvéri kapcsolatban.
 
@@ -5064,6 +5064,8 @@ Ptk.688. § Ez a törvény a következő uniós jogi aktusoknak való megfelelé
 - b) az Európai Parlament és a Tanács 1999/44/EK irányelve (1999. május 25.) a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól; a törvény 248. §-ának (1)–(3) bekezdése, 277. §-ának (1)–(3) bekezdése, 305. §-ának (2) bekezdése, 305/A. §-a, 306. §-ának (1)–(2) és (5) bekezdése, 307. §-ának (2) bekezdése, 308. §-ának (4) bekezdése, 308/A. §-ának (2) bekezdése, 309. §-ának (1) bekezdése, 311. §-a, 372. §-ának (2) bekezdése, valamint 685. §-ának d)–e) pontja;
 - c) az Európai Parlament és a Tanács 2000/35/EK irányelve (2000. június 29.) a kereskedelmi ügyletekhez kapcsolódó fizetési késedelem leküzdéséről; a törvény 209. §-ának (2) bekezdése, 301/A. §-a és 368. §-ának (1) bekezdése;
 - d) az Európai Parlament és a Tanács 2002/47/EK irányelve (2002. június 6.) a pénzügyi biztosítékokról szóló megállapodásokról; a törvény 270–271/A. §-a.
+
+Ptk. 689. § A kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvény 1. § (1) bekezdésével megállapított 232. § (3) bekezdést és az 1. § (2) bekezdésével megállapított 301. § (3) bekezdést a hatálybalépését követően megkötött szerződésekre kell alkalmazni.
 
 ### A Polgári Törvénykönyv hatálybalépése
 
