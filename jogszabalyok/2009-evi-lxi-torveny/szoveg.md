@@ -70,7 +70,7 @@ is végezhető, feltéve, ha az a)–b) pont szerinti felhasználásról, tárol
 
 ### A fémkereskedő nyilvántartási és bejelentési kötelezettsége
 
-5. § (1) A fémkereskedő a fémkereskedelmi engedélyköteles anyag értékesítéséről eladónként és vevőnként (címzettenként) az anyag jogszerű beszerzésének igazolása céljából külön nyilvántartást köteles vezetni, és a beszerzett és értékesített anyag értékét és mennyiségét naponta, a nap végén összesíteni. A fémkereskedő a nyilvántartásban szereplő adatokról külön jogszabályban meghatározott módon az ügyfélkapu nyitásához szükséges regisztrációs eljárást követően elektronikus úton adatot szolgáltat a fémkereskedelmi hatóságnak, amely azt a fémkereskedelmi engedélyköteles anyag jogszerű beszerzésének ellenőrzésére használhatja fel.
+5. § (1) A fémkereskedő a fémkereskedelmi engedélyköteles anyag értékesítéséről eladónként és vevőnként (címzettenként) az anyag jogszerű beszerzésének igazolása céljából külön nyilvántartást köteles vezetni, és a beszerzett és értékesített anyag értékét és mennyiségét naponta, a nap végén összesíteni. A fémkereskedő a nyilvántartásban szereplő adatokról külön jogszabályban meghatározott módon elektronikus úton adatot szolgáltat a fémkereskedelmi hatóságnak, amely azt a fémkereskedelmi engedélyköteles anyag jogszerű beszerzésének ellenőrzésére használhatja fel.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
@@ -96,7 +96,7 @@ törli.
 - b) akinek a vámhatóság, az adóhatóság és a telephely székhelye szerint illetékes települési önkormányzat felé nincs meg nem fizetett vám- vagy adótartozása, társadalombiztosítási járulék tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek, továbbá, aki nyilatkozik arról, hogy egyéb köztartozása sem áll fenn,
 - c) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
 - d) aki a 8. § (2) bekezdésében meghatározott tevékenységi biztosítékot rendelkezésre bocsátotta, letétbe helyezte vagy átutalta,
-- e) aki a fémkereskedelmi tevékenység vonatkozó adatszolgáltatási kötelezettségét a fémkereskedelmi hatóság részére az ügyfélkapu nyitásához szükséges regisztrációs eljárást követően elektronikus úton teljesíti, és
+- e) aki a fémkereskedelmi tevékenység vonatkozó adatszolgáltatási kötelezettségét a fémkereskedelmi hatóság részére elektronikus úton teljesíti, és
 - f) aki rendelkezik a külön jogszabályban meghatározott képesítéssel vagy amely a külön jogszabályban meghatározott képesítéssel rendelkező személyt foglalkoztat.
 
 (2) Nem adható engedély, ha a kérelmezőt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét gazdasági bűncselekmény vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
@@ -117,7 +117,7 @@ törli.
 - f) az anyagkísérő okmány aláírására jogosultak körét;
 - g) a kérelmező nyilatkozatát az engedély érvényességi idejére felajánlott tevékenységi biztosíték összegéről és teljesítésének módjáról;
 - h) a kérelmező nyilatkozatát arról, hogy vállalja az engedély kiadását követő évtől pénzügyi mérlege hitelesítésének kötelezettséget;
-- i) a kérelmező nyilatkozatát az e törvény szerinti adatszolgáltatás feltételeinek ügyfélkapu nyitásához szükséges regisztrációs eljárást követően elektronikus úton történő kialakításáról.
+- i) a kérelmező nyilatkozatát az e törvény szerinti adatszolgáltatás feltételeinek elektronikus úton történő kialakításáról.
 
 (2) Az (1) bekezdés g) pontja szerint felajánlott tevékenységi biztosíték készpénz vagy pénzügyi biztosíték lehet. Pénzügyi biztosítékként az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban székhellyel rendelkező hitelintézet által nyújtott bankgarancia és biztosítási szerződés alapján kiállított kötelezvény fogadható el. A tevékenységi biztosíték összegét a fémkereskedelmi hatóság külön jogszabályban meghatározott feltételek szerint a fémkereskedelmi engedély kiadását megelőzően, külön határozatban állapítja meg.
 

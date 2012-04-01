@@ -92,9 +92,9 @@ szerinti közjegyző illetékes.
 
 11. § (1) A közjegyző a hagyatéki eljárás iratait bíróság részére postai úton kézbesíti, a megkeresett bíróság pedig postai úton válaszol a megkeresésre. A cégbírósággal való levelezésre a (2) bekezdésében meghatározott eljárás alkalmazandó.
 
-(2) A közjegyző a hagyatéki eljárás iratait cégbíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton, a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény rendelkezései szerint kézbesíti, a megkeresett cégbíróság, közigazgatási szerv vagy más hatóság pedig a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény rendelkezései szerint válaszol a megkeresésre.
+(2) A közjegyző a hagyatéki eljárás iratait cégbíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezései szerint kézbesíti, a megkeresett cégbíróság, közigazgatási szerv vagy más hatóság pedig a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezései szerint válaszol a megkeresésre.
 
-(3) A hagyatéki eljárásban érdekelt a hagyatéki ügy megjelölésével elektronikus beadványában kérheti, hogy a részére szóló iratok a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvényben foglalt, a hivatalos szerv iratainak kézbesítésére vonatkozó szabályok szerint, elektronikus úton kerüljenek kézbesítésre.
+(3) A hagyatéki eljárásban érdekelt a hagyatéki ügy megjelölésével elektronikus beadványában kérheti, hogy a részére szóló iratok a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó szabályai szerint, elektronikus úton kerüljenek kézbesítésre.
 
 (4)
 
@@ -466,7 +466,7 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 (2) A hirdetményt a közjegyző elektronikus úton küldi meg a polgármesteri hivatalnak, amely azt az érkezését követő munkanapon köteles a hirdetőtáblájára a közzététele időpontjának megjelölésével együtt kifüggeszteni. A közzététel 15. napján e tényről a polgármesteri hivatal a közjegyzőt díjmentesen, elektronikus úton értesíti.
 
-61. § Bármelyik hagyatéki eljárásban érdekelt kérelmére a hirdetményt közzé kell tenni az elektronikus közszolgáltatásról szóló törvény szerinti kormányzati portálon vagy – ha annak költségeit előlegezi – más egyéb módon is (országos napilapban vagy más formában). Az ezzel felmerült költséget a kérelmező viseli.
+61. § Bármelyik hagyatéki eljárásban érdekelt kérelmére a hirdetményt közzé kell tenni a külön jogszabályban meghatározott kormányzati portálon vagy – ha annak költségeit előlegezi – más egyéb módon is (országos napilapban vagy más formában). Az ezzel felmerült költséget a kérelmező viseli.
 
 62. § (1) A hirdetmény tartalmazza:
 

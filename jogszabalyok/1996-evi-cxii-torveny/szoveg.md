@@ -132,7 +132,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - f) az elektronikus aláírásról szóló 2001. évi XXXV. törvény 6. §-ának (1) bekezdésében foglalt szolgáltatást,
 - g) a külön jogszabály alapján létrehozott Diákhitel Központ hitelezési tevékenységének elősegítése érdekében végzett tevékenységet, valamint
 - h) az önkéntes kölcsönös biztosító pénztárakról szóló 1993. évi XCVI. törvény 11/A. §-ában foglalt feltételekkel tagszervezési tevékenységet,
-- i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében tulajdonába került fedezet, illetőleg biztosíték hasznosítására irányuló tevékenységet,
+- i) a pénzügyi szolgáltatásból származó veszteség mérséklése, illetve elhárítása érdekében fedezet, illetve biztosíték hasznosítására vagy az értékesítésben való közreműködésre irányuló tevékenységet,
 - j) követelések megbízás alapján történő kezelésére, behajtására irányuló tevékenységet,
 - k) pénzügyi eszközre vonatkozó adat-, információértékesítést,
 - l) külön jogszabályban meghatározott közösségi támogatások közvetítését
@@ -4404,12 +4404,11 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 ### XXIX. Fejezet — Az ügyfelek védelme
 
-199. § (1) A pénzügyi intézmény egy naptári évben ugyanannak az ügyfélnek egy alkalommal nyújthat olyan kölcsönt, amelynek:
+199. § (1) A pénzügyi intézmény – a (2) bekezdésben meghatározott kivétellel – fogyasztónak nem nyújthat olyan kölcsönt, amelynek a teljes hiteldíj mutatója meghaladja a jegybanki alapkamat 24 százalékponttal növelt mértékét.
 
-- a) teljes hiteldíj mutatója meghaladja a hatvanöt százalékot és
-- b) összege nem haladja meg a kétszázötvenezer forintot.
+(2) Hitelkártya-szerződéshez vagy fizetési számlához kapcsolódó, vagy a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához, szolgáltatások igénybevételéhez nyújtott kölcsönre, valamint a kézizálog fedezete mellett nyújtott kölcsönre vonatkozó teljes hiteldíj mutató nem haladhatja meg a jegybanki alapkamat 39 százalékponttal növelt mértékét.
 
-(2) Az (1) bekezdésben meghatározott feltételeknek megfelelő kölcsön lejárata egy alkalommal legfeljebb hat hónappal hosszabbítható meg.
+(3) E § alkalmazásában az érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat irányadó az adott naptári félév teljes idejére.
 
 200. § Semmis a fogyasztóval kötött, a vételi jog biztosítéki célú kikötésére vonatkozó szerződés, ha a vételi jog a kötelezett által lakott lakóingatlanra vonatkozik.
 
@@ -4567,19 +4566,43 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (14) A pénzügyi intézmény az ügyfél számára nem kedvezőtlenül egyoldalúan módosíthatja az ügyféllel kötött szerződés feltételeit.
 
-210/A. § (1) Fogyasztóval kötött, lakáscélú hitel- és kölcsönszerződésre vagy pénzügyi lízingszerződésre a 210. § (3)–(5) és (11) bekezdésétől eltérően a (2)–(4) bekezdésben foglaltakat kell alkalmazni.
+210/A. § (1)–(4)
 
-(2) Az (1) bekezdésben meghatározott szerződés a pénzügyi intézmény által az ügyfél számára kedvezőtlenül – e törvény eltérő rendelkezése hiányában – nem módosítható.
+(5) A fogyasztóval kötött, lakáscélú hitel- és kölcsönszerződés vagy pénzügyi lízingszerződés esetében a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel a felmondás napját megelőző napon érvényes ügyleti kamatot és kezelési költséget meghaladó összegben.
 
-(3) A (2) bekezdésbe ütköző szerződésmódosítás semmis.
-
-(4) Az (1) bekezdésben meghatározott szerződés a pénzügyi intézmény által az ügyfél számára kedvezőtlenül kizárólag a kamat tekintetében, kormányrendeletben meghatározott esetekben, feltételekkel és módon módosítható, amennyiben azt a jegybanki alapkamat, a refinanszírozási kamatlábak, a pénzpiaci indexek, a hitelező lekötött ügyfélbetétei kamatának változása, a szabályozói környezet, illetve a hitelkockázat kormányrendeletben meghatározott változása indokolja.
-
-(5) Az (1) bekezdésben meghatározott szerződés esetében a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel a felmondás napját megelőző napon érvényes ügyleti kamatot és kezelési költséget meghaladó összegben.
-
-(6) Amennyiben az (1) bekezdésben meghatározott szerződés deviza alapú, és a szerződés a szerződés felmondása bekövetkezésekor a fennálló tartozás összegének forintban történő meghatározását írja elő, az (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt, a felmondás napján érvényes ügyleti kamatot és kezelési költséget meghaladó mértékű késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel.
+(6) Amennyiben a fogyasztóval kötött, lakáscélú hitel- és kölcsönszerződés vagy pénzügyi lízingszerződés deviza alapú, és a szerződés a szerződés felmondása bekövetkezésekor a fennálló tartozás összegének forintban történő meghatározását írja elő, az (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy a szerződés felmondását követő kilencvenedik napot követően a pénzügyi intézmény a fogyasztó nem teljesítése miatt, a felmondás napján érvényes ügyleti kamatot és kezelési költséget meghaladó mértékű késedelmi kamatot, költséget, díjat vagy jutalékot nem számíthat fel.
 
 (7) Az (1) bekezdésben meghatározott szerződés esetében, ha a (4) bekezdésben meghatározott feltételek változása a kamat csökkentését teszi indokolttá, azt is érvényesíteni kell.
+
+210/B. § (1) Fogyasztóval, ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett kötött kölcsönszerződésre (a továbbiakban: jelzáloghitel-szerződés) a 210. § (3)–(5), (6)–(7) és (9) bekezdésétől eltérően a (2)–(10) bekezdésben foglaltakat kell alkalmazni.
+
+(2) Jelzáloghitel-szerződés esetén a pénzügyi intézmény a fogyasztó szerződésszerű teljesítése esetén nem számíthat fel a kamaton felül rendszeresen fizetendő kamat jellegű díjat vagy költséget, és a szerződés megkötésekor nem kínálhat korlátozott időtartamra kedvezményes kamatot.
+
+(3) A jelzáloghitel-szerződés megkötésekor a pénzügyi intézménynek – ha jogszabály másként nem rendelkezik – a kamat változását az alábbi módszerek egyikével kell meghatároznia:
+
+- a) referencia-kamatlábhoz kötve, vagy
+- b) a kamat mértéke a kölcsönszerződésben meghatározott 3 éves, 5 éves vagy 10 éves kamatperiódusok alatt rögzített.
+
+(4) A kamaton felül nem rendszeresen fizetendő egyéb díjat, költséget a pénzügyi intézmény már megkötött szerződések vonatkozásában évente legfeljebb a Központi Statisztikai Hivatal által közzétett előző évi éves fogyasztói árindex mértékében emelheti.
+
+(5) A (3) bekezdés a) pontjában meghatározott esetben a fogyasztó által fizetendő kamat és a referenciakamat különbségét (a felárat) a pénzügyi intézmény egyoldalúan a fogyasztó számára kedvezőtlenül kizárólag az alábbi esetekben módosíthatja:
+
+- a) a fogyasztó egyhavi törlesztőrészlettel 45 napot meghaladó fizetési késedelembe esik, vagy
+- b) a fogyasztó a fedezetül szolgáló ingatlanra kötött, a pénzügyi intézményre engedményezett vagyonbiztosítást a pénzügyi szolgáltató postai úton vagy más, a szerződésben meghatározott közvetlen módon történő értesítése ellenére legalább két hónapon keresztül nem fizeti.
+
+(6) Az (5) bekezdésben meghatározott feltételek változásának felárra gyakorolt hatását a pénzügyi intézmény belső szabályzatában rögzíti.
+
+(7) A (3) bekezdés a) pontjában meghatározott esetben a referencia-kamatláb
+
+- a) forinthitelnél a 3 havi, a 6 havi vagy a 12 havi BUBOR, vagy a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározottak szerint az Államadósság Kezelő Központ Zrt. által havi rendszerességgel közzétett 3 éves vagy 5 éves állampapír átlaghozam,
+- b) euróhitelnél és euró alapú hitelnél a 3 havi, a 6 havi vagy a 12 havi EURIBOR,
+- c) svájci frank hitelnél és svájci frank alapú hitelnél a 3 havi, a 6 havi vagy a 12 havi CHF LIBOR.
+
+(8) Referencia-kamatlábhoz kötött jelzáloghitel-szerződés esetén a kamat mértékét a választott referencia-kamatláb futamidejének megfelelő időközönként kell a fordulónapot megelőző hónap utolsó munkanapja előtt 2 nappal érvényes referencia-kamatlábhoz igazítani.
+
+(9) A (3) bekezdés b) pontjában meghatározott kamatozás esetén az új kamatperiódusokban alkalmazott kamat mértékét annak hatálybalépését megelőzően legalább kilencven nappal hirdetményben közzé kell tenni. A módosításról és a módosítást követően várhatóan fizetendő törlesztőrészletről az érintett ügyfeleket postai úton vagy más, a szerződésben meghatározott közvetlen módon értesíteni kell. A közvetlen értesítés elküldésének legalább 90 nappal meg kell előznie a módosítás hatálybalépését. A módosítással kapcsolatos tájékoztatást elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikusan is elérhetővé kell tenni.
+
+(10) A (3) bekezdés b) pontjában meghatározott kamatozás esetén az új kamatperiódus kezdetét megelőző kilencven nap alatt – a 210. § (10) bekezdésben meghatározott eltéréssel – az ügyfél jogosult a szerződés díjmentes felmondására. Az ügyfél felmondása hatályát veszti, ha a kamatperiódus végéig a felmondással érintett szerződésből eredő tartozás teljes összegét a hitelező részére nem fizeti meg.
 
 211. § (1) A hitelintézet csak akkor köthet betétszerződést (szolgáltathat ki betétokiratot), illetőleg bocsáthat ki hitelviszonyt megtestesítő értékpapírt, ha a szerződés tartalmazza a 100. § (1) bekezdésében és a 100. § (2) bekezdésének c) pontjában foglalt rendelkezésekre történő figyelemfelhívást.
 
@@ -4963,6 +4986,22 @@ esetében kell alkalmazni.
 234/F. § (1) A pénzügyi intézmény az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény 4. § (2) bekezdésével, valamint az otthonvédelmi intézkedések kiterjesztése kapcsán a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény módosításáról szóló 2011. évi CXXX. törvény (a továbbiakban: Módtv.) 1. és 2. §-aival, valamint az otthonvédelmi intézkedésekkel kapcsolatos egyes törvények módosításáról szóló 2011. évi CXLVII. törvény 22. §-ával megállapított 200/B. §-nak és az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény 4. § (3) bekezdésével megállapított 210. § (5a) bekezdésének való megfelelés érdekében egyoldalúan is módosíthatja a rendelkezések hatálybalépését megelőzően kötött deviza alapú kölcsönszerződés, illetve deviza alapú pénzügyi lízingszerződés végtörlesztésre, valamint a költségek és díjak felszámítására vonatkozó rendelkezéseit az üzletszabályzat vagy az általános szerződési feltételek módosításával. Ebben az esetben az üzletszabályzat vagy az általános szerződési feltételek vonatkozó rendelkezése válik a szerződés részévé.
 
 (2) A Módtv. 2. §-ával megállapított 200/B. § (6) bekezdését nem kell alkalmazni azon kölcsönre, amelynél a 200/B. § (2) bekezdés c) pontja szerinti írásbeli igénybejelentés a Módtv. hatálybalépése előtt megtörtént.
+
+234/G. § A kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvény 3. §-ával megállapított 199. §-t a hatálybalépését követően megkötött szerződésekre kell alkalmazni.
+
+234/H. § (1) A kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvény 4. §-ával megállapított 210/B. § rendelkezéseit a hatálybalépését követően kötött szerződésekre kell alkalmazni.
+
+(2) A 2012. április 1. előtt fogyasztóval kötött egy évnél hosszabb hátralévő futamidejű jelzálog-hitelszerződés esetében – ha az nem felel meg a kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvény 4. §-ával megállapított 210/B. § rendelkezéseinek – a fogyasztó 2012. augusztus 31-ig egy alkalommal kérheti a szerződés – számára hozzáférhetővé tett feltételeknek megfelelő – módosítását, újrakötését vagy kiváltását, hogy az megfeleljen a kölcsönök kamatai és a teljes hiteldíj mutató korlátozása, valamint az átlátható árazás biztosítása érdekében az egyes pénzügyi tárgyú törvények módosításáról szóló 2011. évi CXLVIII. törvény 4. §-ával megállapított 210/B. § rendelkezéseinek azzal, hogy az új hitel
+
+- a) forinthitel, ha az eredeti hitel forinthitel,
+- b) euróhitel, euró alapú hitel vagy forinthitel lehet, ha az eredeti hitel euró alapú hitel, euróhitel vagy más – a c) pontban meg nem határozott – devizahitel,
+- c) svájci frank hitel, svájci frank alapú hitel, euróhitel, euró alapú hitel vagy forinthitel lehet, ha az eredeti hitel svájci frank hitel vagy svájci frank alapú hitel.
+
+(3) A már fennálló jelzáloghitel szerződés a (2) bekezdés szabályai szerinti módosítására, újrakötésére vagy kiváltására az a fogyasztó jogosult, aki az átalakításra vonatkozó írásbeli kérelme benyújtását követő 60 napon belül a jelzálog-hitelszerződés módosításához, újrakötéséhez vagy kiváltásához szükséges dokumentumokat a pénzügyi intézmény számára hiánytalanul benyújtja.
+
+(4) A (2) bekezdés szerinti jelzáloghitel-szerződéssel rendelkező fogyasztó módosításra, vagy újrakötésre vonatkozó igénybejelentését a követeléssel rendelkező pénzügyi intézmény nem utasíthatja el és a szerződés módosításáért, újrakötéséért vagy annak kiváltásával kapcsolatos előtörlesztéséért díjat, költséget, jutalékot nem számíthat fel.
+
+(5) A szerződés (2) bekezdésben meghatározott módosításának, újrakötésének vagy a kiváltásának és az ehhez kapcsolódó egyéb pénzügyi szolgáltatásoknak a közvetítésére, valamint egyéb közreműködői feladatok ellátására, továbbá egyéb együttműködés részeként történő részvételre közvetítő nem jogosult akkor sem, ha a váltás más szolgáltatások értékesítése részeként vagy ehhez kapcsolódóan történik.
 
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 

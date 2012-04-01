@@ -20,7 +20,7 @@ Az Országgyűlés a vállalkozások, különösen a kis- és középvállalkoz�
   - ae) a viszontbiztosítókról szóló törvény szerinti viszontbiztosítási tevékenység,
   - af) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény szerinti magánnyugdíjpénztári tevékenység,
   - ag) az önkéntes kölcsönös biztosító pénztárakról szóló törvény szerinti pénztári tevékenység,
-  - ah) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltatási tevékenység, valamint,
+  - ah) a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltatási tevékenység, valamint
   - ai) a befektetési alapkezelőkről és a kollektív befektetési formákról szóló törvény szerinti befektetési alapkezelési tevékenység;
 - b) a következő közlekedési szolgáltatásokra:
   - ba) a vasúti közlekedésről szóló törvényben meghatározott vasúti közlekedési tevékenység,
@@ -76,7 +76,7 @@ jogszerűen nem kezdhető meg és nem folytatható, vagy a szolgáltatás jogsze
 
 3. § Ha az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó külön törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet – közérdeken alapuló kényszerítő indok alapján – kifejezetten eltérően nem rendelkezik, a szolgáltató szolgáltatási tevékenységének letelepedés keretében történő megkezdéséhez, folytatásához és igénybevételéhez nincs szükség engedélyezésre vagy a szolgáltatási tevékenység megkezdésének a bejelentésére.
 
-4. § (1) A valamely más EGT-államban honos szolgáltató letelepedés keretében Magyarországon honos szolgáltatókkal azonos feltételek szerint kezdheti meg és folytathatja szolgáltatási tevékenységét, és vele szemben a Magyarországon honos szolgáltatókkal azonos követelményeket kell alkalmazni.
+4. § (1) A valamely más EGT-államban honos szolgáltató letelepedés keretében a Magyarországon honos szolgáltatókkal azonos feltételek szerint kezdheti meg és folytathatja szolgáltatási tevékenységét, és vele szemben Magyarországon honos szolgáltatókkal azonos követelményeket kell alkalmazni.
 
 (2) A valamely más EGT-államban honos szolgáltatónak a szolgáltatási tevékenység letelepedés keretében történő megkezdésére és folytatására való jogosultsága nem korlátozható az alapján, hogy
 
@@ -322,7 +322,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 ### Integrált ügyintézési és tájékoztatási pont
 
-31. § (1) A központi elektronikus szolgáltató rendszer keretében a Kormány által rendeletben kijelölt szerv integrált ügyintézési és tájékoztatási pontot működtet, amely elektronikus úton elérhető, átlátható, az egyes szolgáltatási tevékenységek szerint egységes szempontok alapján rendszerezett módon,
+31. § (1) A Kormány által rendeletben kijelölt szerv integrált ügyintézési és tájékoztatási pontot működtet, amely elektronikus úton elérhető, átlátható, az egyes szolgáltatási tevékenységek szerint egységes szempontok alapján rendszerezett módon,
 
 - a) korlátozásmentesen és ingyenesen hozzáférhetően tájékoztatást nyújt
   - aa) a szolgáltatók részére az egyes szolgáltatási tevékenység megkezdésére és folytatására vonatkozó követelményekről, a szolgáltatási tevékenység megkezdésével és folytatásával összefüggésben lefolytatandó eljárásokról és az ilyen eljárásokra hatáskörrel rendelkező hatóságokról, valamint a szolgáltatók számára a szolgáltatási tevékenység megkezdésével vagy folytatásával összefüggő ügyekben gyakorlati segítség nyújtásával foglalkozó szervezetekről és azok elérhetőségéről,

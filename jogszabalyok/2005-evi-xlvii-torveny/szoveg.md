@@ -89,9 +89,9 @@ az igazságügyi szakértői tevékenységről
 
 (3) A névjegyzék (2) bekezdésben fel nem sorolt adatai nem nyilvánosak, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás. Az igazságügyi szakértői névjegyzéket vezető hatóság a 2. számú melléklet 1. pontjának kb), kc), mf) és o)–r) pontjaiban és sa) alpontjában foglalt adatok kivételével a nyilvántartás adatait a szakértői kamara részére átadja, azt a szakértői kamara a külön törvény rendelkezései szerint nyilvántartja és kezeli.
 
-(4) Ha az igazságügyi szakértő vagy a társaság az elektronikus kézbesítést vállalja, az igazságügyi szakértői névjegyzéket vezető hatóság az elektronikus kézbesítéshez szükséges természetes személyazonosító adatokat (név, születési hely és idő, anyja neve) a hivatalos iratok elektronikus kézbesítéséről és az elektronikus tértivevényről szóló törvény szerinti hivatalos szerv (a továbbiakban: hivatalos szerv) részére átadja.
+(4) Ha az igazságügyi szakértő vagy a társaság az elektronikus kézbesítést vállalja, az igazságügyi szakértői névjegyzéket vezető hatóság az elektronikus kézbesítéshez szükséges természetes személyazonosító adatokat (név, születési hely és idő, anyja neve) a megkereső bíróság, ügyészség, közigazgatási szerv, illetve más hatóság (a továbbiakban: hivatalos szerv) részére átadja.
 
-(5) A külön jogszabályban megjelölt, központi elektronikus szolgáltató rendszert működtető szervezet – megkeresésre – a természetes személyazonosító adatok alapján a központi elektronikus szolgáltató rendszerről szóló jogszabály szerinti kapcsolati kódot az elektronikus kézbesítés érdekében a hivatalos szerv részére átadja.
+(5) A külön jogszabályban megjelölt, biztonságos kézbesítési szolgáltatást működtető szervezet – megkeresésre – a természetes személyazonosító adatok alapján a biztonságos kézbesítési szolgáltatásról szóló jogszabály szerinti, kapcsolattartáshoz szükséges azonosítókat az elektronikus kézbesítés érdekében a hivatalos szerv részére átadja.
 
 (6) A 2. számú melléklet 1. pontjának m) pont md) és me) alpontjában foglalt adatokat a szakértői kamara, az a)–i), l), n) és q) pontjában foglalt adatokat az igazságügyi szakértő, az r) és s) pontjában foglalt adatokat az ügyben eljáró hatóság köteles bejelenteni az igazságügyi szakértői névjegyzéket vezető hatóságnak. A 2. számú melléklet 1. pont r) és s) pontjában foglalt adatokról az ügyben eljáró hatóság az igazságügyért felelős minisztert és a szakértői kamarát is értesíteni köteles.
 
@@ -230,13 +230,13 @@ az igazságügyi szakértői tevékenységről
 
 16. § (1) A szakértő a szakvélemény tartalmával összefüggésben nem utasítható.
 
-(2) Az igazságügyi szakértő a szakvéleményt – a kirendelő hatóság intézkedésének megfelelően – írásban, szóban vagy – külön törvényben írt feltételek fennállása esetén – elektronikus kézbesítés útján terjeszti elő.
+(2) Az igazságügyi szakértő a szakvéleményt – a kirendelő hatóság intézkedésének megfelelően – írásban, szóban vagy elektronikus kézbesítés útján terjeszti elő.
 
 (3) A szakvélemény magában foglalja a kirendelő hatóság által feltett kérdések megválaszolását, továbbá a feltett kérdésekkel összefüggő más szükséges megállapítások közlését.
 
 (4) Az igazságügyi szakértő az írásbeli szakvéleményt aláírásával köteles ellátni, és köteles azon feltüntetni a nyilvántartási számát. A szakvéleményt az igazságügyi szakértő ellátja bélyegzőjével is. A bélyegző feltünteti az igazságügyi szakértő nevét, az igazságügyi szakértői igazolványában meghatározott szakterületét és a nyilvántartási számát. A bélyegzőn az állami címer nem használható.
 
-(5) Az igazságügyi szakértő az elektronikus kézbesítés útján benyújtott szakvéleményben köteles nevét és nyilvántartási számát feltüntetni, és azt a hivatalos iratok elektronikus kézbesítéséről szóló törvény alapján kézbesíteni.
+(5) Az igazságügyi szakértő az elektronikus kézbesítés útján benyújtott szakvéleményben köteles nevét és nyilvántartási számát feltüntetni, és azt elektronikus úton, a külön jogszabályban meghatározott biztonságos elektronikus kézbesítési szolgáltatás útján kézbesíteni.
 
 ### A szakértői díj
 

@@ -316,7 +316,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 - d) a lajstromkivonat igénylésére vonatkozó kérelmet,
 - e) az iratbetekintésre vonatkozó kérelmet.
 
-(3) Ha az ügyfél a (2) bekezdés b)–e) pontja alapján elektronikus úton, az ügyfélkapun keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele a kérelem kapcsán hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
+(3) Ha az ügyfél a (2) bekezdés b)–e) pontja alapján elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele a kérelem kapcsán hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
 
 (4) A (2) bekezdésben meghatározott beadványokat a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával lehet elektronikus úton benyújtani.
 

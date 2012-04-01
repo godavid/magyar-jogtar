@@ -571,7 +571,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - e) a lajstromkivonat igénylésére vonatkozó kérelmet, és
 - f) az iratbetekintésre vonatkozó kérelmet.
 
-(3) Ha az ügyfél a (2) bekezdés b)–f) pontja alapján elektronikus úton, az ügyfélkapun keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele a kérelem kapcsán hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
+(3) Ha az ügyfél a (2) bekezdés b)–f) pontja alapján elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele a kérelem kapcsán hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
 
 (4) A (2) bekezdésben meghatározott beadványokat a Szellemi Tulajdon Nemzeti Hivatala által erre rendszeresített elektronikus űrlap használatával lehet elektronikus úton benyújtani.
 
@@ -1650,7 +1650,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - a) a lajstromkivonat igénylésére vonatkozó kérelmet,
 - b) az iratbetekintésre vonatkozó kérelmet.
 
-(8) Ha az ügyfél a (7) bekezdés alapján elektronikus úton, az ügyfélkapun keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele az eljárás során hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
+(8) Ha az ügyfél a (7) bekezdés alapján elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül kezdeményezett eljárást, a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton közli vele az eljárás során hozott döntéseket, illetve küldi meg neki a hiteles elektronikus lajstromkivonatot.
 
 (9) A (7) bekezdésben meghatározott beadványok elektronikus úton való benyújtására a 46/D. § (4)–(9) bekezdésében foglaltakat megfelelően alkalmazni kell.
 

@@ -40,7 +40,8 @@ a gondnokoltak nyilvántartásáról
 - b) a közjegyző polgári nemperes eljárás lefolytatása céljából a 2. § (2) bekezdés a), b), c), d), e) pontjában szereplő adatokat,
 - c) a rendőrség a fogvatartott gondnokának értesítése, a fegyverengedély-ügyi és a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység végzésével összefüggő hatósági engedélyezési feladatok ellátása céljából a 2. § (2) bekezdés a), b), c), d), e), f) pontjában szereplő adatokat,
 - d) az ügyészség a gondnokság alá helyezés, annak megszüntetése, fenntartása vagy módosítása, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindításával kapcsolatos feladatai ellátása során a 2. § (2) bekezdés a)–f) pontjában meghatározott adatokat,
-- e) a választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv a 2. § (2) bekezdés a), c) és g) pontjában szereplő adatokat,
+- e) a választójoggal nem rendelkező nagykorú polgárok nyilvántartását vezető szerv a 2. § (2) bekezdés a), c) és
+- g) pontjában szereplő adatokat,
 - f) a gyámhatóság
   - fa) a gondnokok felügyeletével kapcsolatos feladata ellátása során a 2. § (2) bekezdés a)–e) és g) pontjában szereplő adatokat,
   - fb) a gondnokság alá helyezési per megindítása, a gondnokság felülvizsgálata, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindítása miatt a 2. § (2) bekezdés a)–g) pontjában szereplő adatokat.
@@ -49,7 +50,7 @@ a gondnokoltak nyilvántartásáról
 
 (4) A (3) bekezdésben meghatározott felhatalmazás jogosultjának személyéről, hozzáférési jogosultságának terjedelméről és feltételeiről, valamint az abban bekövetkezett változásról a közvetlen hozzáférésre jogosult szerv – a felhatalmazás kiadását, változását követően haladéktalanul – értesíti a Hivatalt.
 
-(5) A központi elektronikus szolgáltató rendszer regisztrációs adatbázisának adatkezelője viszontazonosítással meggyőződhet a saját nyilvántartásában szereplő és a gondnokoltak nyilvántartásában kezelt 2. § (2) bekezdés a) és e) pontjai szerinti adatok egyezőségéről vagy eltéréséről.
+(5)
 
 5–6. §
 

@@ -21,7 +21,7 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 - 1. Aláírás-létrehozó adat: olyan egyedi adat (jellemzően kriptográfiai magánkulcs), melyet az aláíró az elektronikus aláírás létrehozásához használ.
 - 2. Aláírás-ellenőrző adat: olyan egyedi adat (jellemzően kriptográfiai nyilvános kulcs), melyet az elektronikusan aláírt elektronikus dokumentumot megismerő személy az elektronikus aláírás ellenőrzésére használ.
 - 3. Aláírás-létrehozó eszköz: olyan hardver, illetve szoftver eszköz, melynek segítségével az aláíró az aláírás-létrehozó adatok felhasználásával az elektronikus aláírást létrehozza.
-- 4. Aláíró: Az a természetes személy, aki az aláírás-létrehozó eszközt birtokolja és a saját vagy más személy nevében aláírásra jogosult.
+- 4. Aláíró: az a természetes személy, aki az aláírás-létrehozó eszközt birtokolja és a saját vagy más személy nevében aláírásra jogosult, valamint az a jogi személy vagy közhiteles nyilvántartásban szereplő jogi személyiség nélküli szervezet, amely az aláírás-létrehozó eszközt birtokolja, és akinek a nevében az őt képviselő természetes személy az elektronikus aláírást az elektronikus dokumentumon elhelyezi, valamint aki meghatározza, hogy a nevében jogszabályban meghatározott feltételeknek megfelelő informatikai eszköz elektronikus aláírást elektronikusan dokumentumon elhelyezzen.
 - 5. Biztonságos aláírás-létrehozó eszköz: az e törvény 1. számú mellékletében foglalt követelményeknek eleget tevő aláírás-létrehozó eszköz.
 - 6. Elektronikus aláírás: elektronikusan aláírt elektronikus dokumentumhoz azonosítás céljából logikailag hozzárendelt vagy azzal elválaszthatatlanul összekapcsolt elektronikus adat.
 - 7. Elektronikus aláírás ellenőrzése: az elektronikusan aláírt elektronikus dokumentum aláíráskori, illetve ellenőrzéskori tartalmának összevetése, továbbá az aláíró személyének azonosítása a dokumentumon szereplő, illetve a hitelesítés-szolgáltató által közzétett aláírás-ellenőrző adat, tanúsítvány visszavonási információk, valamint a tanúsítvány felhasználásával.
@@ -204,13 +204,18 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (8) A hitelesítés-szolgáltató tevékenységi köréből csak az új tanúsítvány kibocsátást szüneteltetheti.
 
-10. § (1) Elektronikus aláírás tanúsítványa kibocsátható olyan céllal is, hogy az az aláírót más személy (szervezet) képviseletében történő aláírásra jogosítsa fel. Ebben az esetben a hitelesítés-szolgáltatás igénybevevőjére, illetve az aláíróra vonatkozó szabályokat a képviselőre kell alkalmazni.
+10. § (1) Elektronikus aláírás tanúsítványa kibocsátható olyan céllal is, hogy az az aláírót más személy (szervezet) képviseletében történő aláírásra jogosítsa fel. Ebben az esetben a hitelesítés-szolgáltatás igénybe vevőjére vonatkozó szabályokat a képviselőre kell alkalmazni.
 
 (2) Az (1) bekezdés szerinti tanúsítvány akkor bocsátható ki, ha a képviseleti jogosultságot igazolják. A képviseleti jogosultság meglétét a hitelesítés-szolgáltató köteles ellenőrizni. A kibocsátásról a képviselt személyt (szervezetet) haladéktalanul tájékoztatni kell.
 
 (3) A képviseleti jogosultság megszűnése esetén a képviselt, illetve a képviselő személy (szervezet) kérelmére a hitelesítés-szolgáltató köteles a jogosultság tényét feltüntető tanúsítványt visszavonni.
 
 (4) Az (1) bekezdés szerinti tanúsítványban kizárólag a képviselt hozzájárulása esetén tüntethető fel álnév.
+
+10/A. § Elektronikus aláírás tanúsítványa – beleértve a minősített tanúsítványt is – kibocsátható az alábbi célokra is:
+
+- a) az aláíró természetes személy az elektronikus aláírást jogszabályban meghatározott feltételeknek megfelelő informatikai eszköz útján automatikusan, közvetlen személyi felügyelet nélkül helyezi el az aláíróhoz rendelendő elektronikus dokumentumon,
+- b) az aláíró jogi személy vagy más jogi személyiség nélküli szervezet az elektronikus aláírást jogszabályban meghatározott feltételeknek megfelelő informatikai eszköz útján automatikusan, közvetlen személyi felügyelet nélkül helyezi el az aláíróhoz rendelendő elektronikus dokumentumon.
 
 ### A hitelesítés-szolgáltató adatkezelése
 
@@ -242,9 +247,9 @@ Az Országgyűlés – felismerve és követve az egyetemes fejlődésnek az inf
 
 (2) Ha az aláíró elmulasztotta teljesíteni az (1) bekezdés szerinti kötelezettségét, az ebből eredő kárért felel.
 
-(3) Az aláíró, illetve a 10. § szerinti képviselt személy (szervezet) kérheti a tanúsítvány felfüggesztését, illetve visszavonását.
+(3) Az aláíró, illetve a 10. § szerinti képviselt személy, szervezet kérheti a tanúsítvány felfüggesztését, illetve visszavonását.
 
-(4) Az aláíró az aláírás-létrehozó adatot kizárólag az aláírás létrehozására használhatja, betartva a tanúsítványban jelzett esetleges egyéb korlátozásokat is.
+(4) Az aláíró az aláírás-létrehozó adatot kizárólag az aláírás létrehozására használhatja, betartva a tanúsítványban jelzett esetleges egyéb korlátozásokat is. A minősített tanúsítvány felhasználható fokozott biztonságú elektronikus aláírás létrehozására is.
 
 ### A tanúsítvány érvényességének felfüggesztése, illetve visszavonása a szolgáltató részéről
 
@@ -551,7 +556,7 @@ a) annak megjelölését, hogy a tanúsítvány minősített tanúsítvány,
 
 b) a hitelesítés-szolgáltató és székhelyének (ország-) azonosítóját,
 
-c) az aláíró nevét vagy egy álnevet, ennek jelzésével,
+c) az aláíró nevét (jogi személy vagy jogi személyiség nélküli szervezet esetében elnevezését) vagy egy álnevet, ennek jelzésével,
 
 d) az aláírónak külön jogszabályban, illetve a szolgáltatási szabályzatban, illetőleg az általános szerződési feltételekben meghatározott speciális jellemzőit, a tanúsítvány szándékolt felhasználásától függően,
 
