@@ -34,7 +34,7 @@ Az Országgyűlés Magyarország 2012. évi költségvetéséről a következő 
 - d) az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 21. § (1) bekezdésében meghatározott számvevői illetményalap változása miatti személyi juttatás és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó növekményének kifizetésére.
 - e) a központi költségvetési szerveknél a feladatok változásával, a szervezetek, szervezetrendszerek korszerűsítésével, a feladatellátás ésszerűsítésével megvalósuló, kiadás- és költségvetési támogatás-megtakarítást eredményező létszámcsökkentések személyi juttatások és munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéseire.
 
-(3) Céltartalék szolgál a Közigazgatási és Igazságügyi Minisztérium fejezet, 24. cím, 4. Munkavállalók adórendszer átalakítása miatti kompenzációja alcímen a magánszféra foglalkoztatottjai esetén az esetleges nominális bércsökkenést ellensúlyozó kompenzáció kifizetésére.
+(3) Céltartalék szolgál a Közigazgatási és Igazságügyi Minisztérium fejezet, 24. cím, 4. Munkáltatók adórendszer átalakítása miatti támogatása alcímen a vállalkozási és nem profitorientált szféra foglalkoztatottjai esetén az esetleges nominális bércsökkenést ellensúlyozó kompenzáció kifizetésére.
 
 (4) Felhatalmazást kap a Kormány, hogy a Közigazgatási és Igazságügyi Minisztérium fejezet, 24. cím, 3. Különféle kifizetések alcím előirányzatából átcsoportosítson a Helyi önkormányzatok támogatásai és helyben maradó személyi jövedelemadója fejezet, 4. Központosított előirányzatok cím, – 5. mellékletben szereplő 7. Helyi szervezési intézkedésekhez kapcsolódó többletkiadások támogatása jogcímre –, amennyiben a helyi önkormányzati létszámleépítések miatt e jogcímen rendelkezésre álló előirányzat már felhasználásra került.
 
@@ -66,6 +66,8 @@ Az Országgyűlés Magyarország 2012. évi költségvetéséről a következő 
 (8) A korábban egészségügyi célokra használt, értékesítésre kijelölt állami tulajdonú ingatlanok értékesítéséből és hasznosításából származó – Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben elszámolandó – bevételek a 2012. évben a Kormány határozatában adott jóváhagyásával egészségügyi célú beruházások finanszírozására használhatók fel. A Kormány határozatában legfeljebb a pénzforgalmilag teljesült értékesítési bevételek mértékéig új kiadási előirányzatot hozhat létre a Nemzeti Erőforrás Minisztérium fejezetben vagy engedélyezheti a fejezet meglévő kiadási előirányzatának megemelését.
 
 (9) Az Állami vagyonnal kapcsolatos bevételek és kiadások fejezet 2. cím, 2. alcím, 4. jogcím-csoport, 2. A Magyar Nemzeti Filmalap Zrt. támogatása jogcím előirányzat tartalmazza a mozgóképről szóló 2004. évi II. törvény 9/A. § (2) bekezdése szerinti kiadást, amely a hatoslottó szerencsejáték játékadója pénzforgalmilag teljesült összege mértékéig az adópolitikáért felelős miniszter engedélyével túlléphető.
+
+(10) A korábban belügyi célokra használt, értékesítésre kijelölt állami tulajdonú ingatlanok értékesítéséből és hasznosításából származó – Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben elszámolandó – bevételek a 2012. évben a Kormány határozatában adott jóváhagyásával a büntetés-végrehajtási szervezet fogvatartotti férőhelyeinek bővítését megvalósító beruházások finanszírozására használhatók fel. A Kormány határozatában – legfeljebb a pénzforgalmilag teljesült értékesítési bevételek mértékéig – új kiadási előirányzatot hozhat létre a Belügyminisztérium fejezetben vagy engedélyezheti a fejezet meglévő kiadási előirányzatának megemelését.
 
 6. § (1) Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. cím, 5. Fejezeti tartalék alcímén szereplő, 4200,0 millió forint összegű kiadási előirányzat az e fejezetben szereplő kiadási előirányzatok átcsoportosítás útján történő növelésére használható fel. A Fejezeti tartalék kiadási előirányzatának felhasználását egyedi, 500,0 millió forintot meg nem haladó összegig az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter együttesen hagyja jóvá, az ezt meghaladó összeg átcsoportosításáról a Kormány határozatban dönt.
 
@@ -297,6 +299,8 @@ alakulását, továbbá javaslatot tesz a (10) bekezdés szerinti kiadási elői
 - e) legfeljebb 500,0 millió forint az 5. melléklet 17. Egy és két számjegyű országos főközlekedési utak fővárosi szakaszai karbantartásának támogatása előirányzaton, és
 - f) legfeljebb 500,0 millió forint az 5. melléklet 18. Római parti árvízvédelmi védmű megvalósításának támogatása előirányzaton használható fel.
 
+(21) Az Országgyűlés felhatalmazza a Kormányt, hogy átcsoportosítást hajtson végre a Közigazgatási és Igazságügyi Minisztérium fejezet, 24. Céltartalékok cím, 4. Munkáltatók adórendszer átalakítása miatti támogatása alcímről a Költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 1. Nemzeti Foglalkoztatási Alap támogatása alcím kiadási előirányzatra.
+
 28. § (1) A Nemzeti Adó- és Vámhivatal fejezet, 1. Nemzeti Adó- és Vámhivatal igazgatása cím, 1. Működési költségvetés előirányzat-csoport, 1. Személyi juttatások kiemelt előirányzatán legfeljebb 25 000,0 millió forint, a 2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzatán legfeljebb 6750,0 millió forint előirányzat- módosítás engedélyezhető, ha A költségvetés közvetlen bevételei és kiadásai fejezet, 2. cím, 1. Általános forgalmi adó alcím előirányzata, 2. Jövedéki adó alcím előirányzata, 3. cím, 1. Személyi jövedelemadó alcím előirányzata, a Nyugdíjbiztosítási Alap fejezet, 1. cím, 1. Szociális hozzájárulási adó Ny. Alapot megillető része és munkáltatói nyugdíjbiztosítási járulék alcím előirányzata, a 2. alcím, 1. Biztosított által fizetett nyugdíjjárulék jogcím-csoport előirányzata, az Egészségbiztosítási Alap fejezet, 1. cím, 1. Szociális hozzájárulási adó E. Alapot megillető része és munkáltatói egészségbiztosítási járulék alcím előirányzata, a 2. Biztosítotti egészségbiztosítási járulék alcím előirányzata együttesen legalább 101%-ban teljesül.
 
 (2) Az államháztartásért felelős miniszter negyedévente előirányzat-módosítást engedélyezhet az (1) bekezdés szerinti személyi juttatások és munkaadókat terhelő járulékok és szociális hozzájárulási adó előirányzatok terhére, ha az általa meghatározott negyedéves bevételi tervei teljesülnek. Az év közben engedélyezett előirányzat-módosítás nem haladhatja meg a negyedéves bevételi terven felül teljesülő előirányzatok összegét.
@@ -349,6 +353,8 @@ alakulását, továbbá javaslatot tesz a (10) bekezdés szerinti kiadási elői
 
 (5) Amennyiben a szekszárdi Német Színház a Magyarországi Németek Országos Önkormányzata fenntartásába kerül át, úgy támogatási előirányzatának időarányos részével a Helyi önkormányzatok támogatásai és helyben maradó személyi jövedelemadója fejezet, 6. A települési önkormányzatok által fenntartott, illetve támogatott előadó-művészeti szervezetek támogatása cím előirányzata csökken, a Közigazgatási és Igazságügyi Minisztérium fejezet 20. cím, 8. alcím, 4. Magyarországi Németek Országos Önkormányzata által fenntartott intézmények támogatása jogcímcsoport előirányzata pedig megnő.
 
+(6) A (2) és (3) bekezdések szerinti feladatátadás-átvételek esetén az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter az átcsoportosításban érintett miniszterrel egyetértésben intézkednek az előirányzatok módosításáról.
+
 33. § (1) Az államháztartásról szóló jogszabályokban foglaltak szerint meghatározott, az állami támogatás jogtalan igénybevételéhez kapcsolódó kamatfizetési kötelezettség kiszámítása szempontjából feladatmutatóhoz kapcsolódó normatív hozzájárulásnak és támogatásnak minősül a 3. melléklet 3., 6., 8. és 11–16. pontja, valamint a 8. melléklet I. rész 1–5. pontja, II. rész 2–3. pontja és III. része szerinti előirányzatok együttes összege.
 
 (2) A helyi önkormányzatokért felelős miniszter az általa üzemeltetett elektronikus rendszeren keresztül 2012. január 31-éig a helyi önkormányzatok és többcélú kistérségi társulások számára elérhetővé teszi a helyi önkormányzatokat, valamint a települési és területi nemzetiségi önkormányzatokat és többcélú kistérségi társulásokat – az egyes jövedelempótló támogatások kiegészítése kivételével – megillető normatív hozzájárulások és támogatások, településre kimutatott helyben maradó személyi jövedelemadó, valamint települési önkormányzatok jövedelemdifferenciálódásának mérséklése összegét.
@@ -392,7 +398,7 @@ alakulását, továbbá javaslatot tesz a (10) bekezdés szerinti kiadási elői
 
 (4) A Kincstár az Esztergom Város Önkormányzata számára folyósítandó, a helyi önkormányzatokat megillető támogatások, hozzájárulások és a 34. § (1) bekezdése szerinti átengedett személyi jövedelemadó adott havi összegéből a nettó finanszírozás során havonta levonja A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 2. Esztergom Város Önkormányzata átadott intézményekkel kapcsolatos költségvetési befizetései alcímű előirányzat 1/12-ed részét.
 
-(5) Ha az Esztergom Város Önkormányzatát az (1) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források a (4) bekezdés szerint levonandó összegre nem nyújtanak fedezetet, a különbség mértékéig a Kincstár beszedési megbízást nyújt be az önkormányzat fizetési számlájával szemben.
+(5) A (4) bekezdésben megjelölt előirányzatot megillető, a nettó finanszírozás keretében le nem vonható összeg biztosítására Esztergom Város Önkormányzata 2012. április 15. napjáig 350,0 millió forint, 2012. szeptember 30. napjáig 400,0 millió forint, 2012. december 20. napjáig pedig a (4) bekezdés szerinti előirányzatból fennmaradó összegű befizetést köteles teljesíteni. A decemberi befizetési kötelezettségről a Kincstár az általa készített éves elszámolás alapján tájékoztatja az önkormányzatot. Amennyiben az önkormányzat e kötelezettségét nem teljesíti, a Kincstár haladéktalanul beszedési megbízást nyújt be az önkormányzat fizetési számlájával szemben. A 2012. április 15. napjáig teljesítendő összeg csökken a 2012. január–március hónapokban levonással teljesült összeggel.
 
 (6) Ha az (5) bekezdés alapján benyújtott beszedési megbízás hatvan napon belül nem teljesül, a Kincstár adósságrendezési eljárás megindítását kezdeményezi. Az eljárásban a Kincstár az Állam képviseletében teljes jogkörrel jár el.
 
@@ -798,14 +804,14 @@ használható fel.
 |  |  |  |  |
 |  |  |  |  |  |  | I. ORSZÁGGYŰLÉS |  |  |  |  |  |  |  |  |
 | 1 |  |  |  |  |  | Országgyűlés Hivatala |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  | Országgyűlés hivatali szervei |  |  |  |  |  |  |  | 18 443,3 |
+|  | 1 |  |  |  |  | Országgyűlés hivatali szervei |  |  |  |  |  |  |  | 18 486,4 |
 |  |  |  |  | 1 |  | Működési költségvetés |  |  |  |  |  |  | 460,0 |  |
-|  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  | 10 281,1 |  |  |
-|  |  |  |  |  | 2 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  | 2 502,4 |  |  |
-|  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  | 3 939,5 |  |  |
+|  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  | 10 300,3 |  |  |
+|  |  |  |  |  | 2 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  | 2 507,5 |  |  |
+|  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  | 3 947,4 |  |  |
 |  |  |  |  |  | 5 | Egyéb működési célú kiadások |  |  |  |  |  | 46,2 |  |  |
 |  |  |  |  | 2 |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | 1 | Intézményi beruházási kiadások |  |  |  |  |  | 343,5 |  |  |
+|  |  |  |  |  | 1 | Intézményi beruházási kiadások |  |  |  |  |  | 354,4 |  |  |
 |  |  |  |  |  | 2 | Felújítás |  |  |  |  |  | 1 790,6 |  |  |
 | 2 |  |  |  |  |  | Állambiztonsági Szolgálatok Történeti Levéltára |  |  |  |  |  |  |  | 694,1 |
 |  |  |  |  | 1 |  | Működési költségvetés |  |  |  |  |  |  | 5,0 |  |
@@ -825,7 +831,7 @@ használható fel.
 |  | 10 |  |  |  |  | Látogatóközpont kialakítása |  |  |  |  |  | 845,0 |  | 845,0 |
 |  | 11 |  |  |  |  | A Kossuth tér történelmi rekonstrukciója |  |  |  |  |  | 1 025,0 |  | 1 025,0 |
 |  | 12 |  |  |  |  | Fejezeti egyensúlybiztosítási tartalék |  |  |  |  |  | 217,2 |  | 217,2 |
-|  |  |  |  |  |  | 1 - 4. cím összesen: |  |  |  |  |  | 22 486,6 | 465,0 | 22 021,6 |
+|  |  |  |  |  |  | 1 - 4. cím összesen: |  |  |  |  |  | 22 529,7 | 465,0 | 22 064,7 |
 | 5 |  |  |  |  |  | Közbeszerzési Hatóság |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  | Közbeszerzési Hatóság |  |  |  |  |  |  |  | 408,1 |
 |  |  |  |  | 1 |  | Működési költségvetés |  |  |  |  |  |  | 1 023,0 |  |
@@ -881,7 +887,7 @@ használható fel.
 |  | 2 |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |
 |  |  | 1 |  |  |  | Fejezeti egyensúlybiztosítási tartalék |  |  |  |  |  | 12,1 |  | 12,1 |
 |  |  |  |  |  |  | 21. cím összesen: |  |  |  |  |  | 402,4 |  | 402,4 |
-|  |  |  |  |  |  | I. fejezet összesen: |  |  |  |  |  | 103 189,6 | 11 735,1 | 22 844,7 |
+|  |  |  |  |  |  | I. fejezet összesen: |  |  |  |  |  | 103 232,7 | 11 735,1 | 22 887,8 |
 
 | millió forintban |
 | --- |
@@ -1251,11 +1257,11 @@ használható fel.
 |  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  | 592,1 |  |  |
 |  |  |  |  |  | 2 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  | 151,7 |  |  |
 |  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  | 191,8 |  |  |
-|  |  |  |  |  |  | 21. cím összesen: |  |  |  |  |  | 935,6 | 3,0 | 932,6 |
+|  |  |  |  |  |  | 1 - 20. cím összesen: |  |  |  |  |  | 935,6 | 3,0 | 932,6 |
 | 24 |  |  |  |  |  | Céltartalékok |  |  |  |  |  |  |  |  |
 |  | 2 |  |  |  |  | Közszférában foglalkoztatottak bérkompenzációja, gyermekgondozási díjban és terhességi-gyermekágyi segélyben részesülők kompenzációja |  |  |  |  |  | 64 000,0 |  |  |
 |  | 3 |  |  |  |  | Különféle kifizetések |  |  |  |  |  | 5 000,0 |  |  |
-|  | 4 |  |  |  |  | Munkavállalók adórendszer átalakítása miatti kompenzációja |  |  |  |  |  | 21 000,0 |  |  |
+|  | 4 |  |  |  |  | Munkáltatók adórendszer átalakítása miatti támogatása |  |  |  |  |  | 21 000,0 |  |  |
 | 25 |  |  |  |  |  | Volt egyházi ingatlanok tulajdoni helyzetének rendezése |  |  |  |  |  | 5 790,5 |  |  |
 | 26 |  |  |  |  |  | Települési és területi nemzetiségi önkormányzatok támogatása |  |  |  |  |  | 1 520,0 |  |  |
 | 27 |  |  |  |  |  | Fejezeti egyensúlybiztosítási tartalék |  |  |  |  |  | 2 500,0 |  |  |
@@ -2816,7 +2822,7 @@ használható fel.
 |  |  | 7 |  |  |  | Védelmi felkészítés előirányzatai |  |  |  |  |  |  |  |  |
 |  |  |  | 1 |  |  | Honvédelmi-, katasztrófavédelmi- és gazdasági felkészülés központi kiadásai |  |  |  |  |  | 207,0 |  |  |
 |  |  |  | 2 |  |  | Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosítása |  |  |  |  |  | 835,0 |  |  |
-|  |  | 11 |  |  |  | Egyéb vegyes kiadások |  |  |  |  |  | 4 100,0 |  |  |
+|  |  | 11 |  |  |  | Egyéb vegyes kiadások |  |  |  |  |  | 4 056,9 |  |  |
 |  |  | 12 |  |  |  | 1% SZJA közcélú felhasználása |  |  |  |  |  | 7 100,0 |  |  |
 |  |  | 19 |  |  |  | Mehib és Eximbank behajtási jutaléka |  |  |  |  |  | 0,5 |  |  |
 |  |  | 21 |  |  |  | Ügyfélnek visszajáró vámbiztosíték, egyéb vámvisszatérítések |  |  |  |  |  | 1,0 |  |  |
@@ -2865,7 +2871,7 @@ használható fel.
 |  | 2 |  |  |  |  | Bethlen Gábor Alap támogatása |  |  |  |  |  | 11 572,8 |  |  |
 |  | 3 |  |  |  |  | Központi Nukleáris Pénzügyi Alap támogatása |  |  |  |  |  | 10 933,0 |  |  |
 |  | 4 |  |  |  |  | Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap támogatása |  |  |  |  |  | 15,3 |  |  |
-|  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 294 704,3 | 6 829 428,7 |  |
+|  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 294 661,2 | 6 829 428,7 |  |
 
 | millió forintban |
 | --- |
@@ -4707,25 +4713,25 @@ Előirányzat: 1 777,7 millió forint
 
 I. Az önkormányzati fejezeti tartalék előirányzatot növeli
 
-a) a települési önkormányzatok és társulásaik által feladatmutató alapján igényelt normatív hozzájárulásoknak és támogatásoknak az államháztartásról szóló jogszabályokban meghatározott időpontokban és esetekben – a nem helyi önkormányzat vagy társulás részére történő feladatátadással összefüggő előirányzat-csökkenés kivételével – lemondott előirányzat összege,
+a) a helyi önkormányzatok és társulásaik által feladatmutató alapján igényelt normatív hozzájárulásoknak és támogatásoknak az államháztartásról szóló jogszabályokban meghatározott időpontokban és esetekben – a nem helyi önkormányzat vagy társulás részére történő feladatátadással összefüggő előirányzat-csökkenés kivételével – lemondott előirányzat összege,
 
 b) az intézményátadásból felszabaduló olyan összeg, amely nem illeti meg az átvevőt,
 
-c) a költségvetési évet megelőző évi elszámolás alapján a települési önkormányzatok és társulásaik által költségvetési évben visszafizetett hozzájárulások és támogatások összege,
+c) a költségvetési évet megelőző évi elszámolás alapján a helyi önkormányzatok és társulásaik által költségvetési évben visszafizetett hozzájárulások és támogatások összege,
 
-d) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a települési önkormányzatok és társulásaik által jogtalanul igénybe vett hozzájárulások és támogatások költségvetési évben visszafizetett összege,
+d) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatok és társulásaik által jogtalanul igénybe vett hozzájárulások és támogatások költségvetési évben visszafizetett összege,
 
-e) a települési önkormányzatok és társulásaik által költségvetési évben megfizetett igénybevételi, kiegészítő és késedelmi kamat összege.
+e) a helyi önkormányzatok és társulásaik által költségvetési évben megfizetett igénybevételi, kiegészítő és késedelmi kamat összege.
 
-II. Az önkormányzati fejezeti tartalék előirányzatot csökkenti a települési önkormányzatok és társulásaik által feladatmutató alapján igényelt normatív hozzájárulásoknak és támogatásoknak az államháztartásról szóló jogszabályokban meghatározott időpontokban és esetekben – a nem helyi önkormányzattól vagy társulástól történő feladatátvétellel összefüggő előirányzat-növelés kivételével – pótigényelt előirányzat összege.
+II. Az önkormányzati fejezeti tartalék előirányzatot csökkenti a helyi önkormányzatok és társulásaik által feladatmutató alapján igényelt normatív hozzájárulásoknak és támogatásoknak az államháztartásról szóló jogszabályokban meghatározott időpontokban és esetekben – a nem helyi önkormányzattól vagy társulástól történő feladatátvétellel összefüggő előirányzat-növelés kivételével – pótigényelt előirányzat összege.
 
 III. Az önkormányzati fejezeti tartalék terhére a következő kifizetések teljesíthetők
 
-a) a hozzájárulások és támogatások költségvetési évet megelőző évi elszámolása alapján a települési önkormányzatok és társulásaik részéről a költségvetési évben keletkező pótigény összege,
+a) a hozzájárulások és támogatások költségvetési évet megelőző évi elszámolása alapján a helyi önkormányzatok és társulásaik részéről a költségvetési évben keletkező pótigény összege,
 
-b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a települési önkormányzatokat és társulásokat pótlólagosan megillető hozzájárulások és támogatások költségvetési évben kifizetett összege,
+b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatokat és társulásokat pótlólagosan megillető hozzájárulások és támogatások költségvetési évben kifizetett összege,
 
-c) az államháztartásról szóló jogszabályok alapján költségvetési évben a települési önkormányzatokat és társulásaikat megillető igénybevételi, késedelmi és kiegészítő kamat összege,
+c) az államháztartásról szóló jogszabályok alapján költségvetési évben a helyi önkormányzatokat és társulásaikat megillető igénybevételi, késedelmi és kiegészítő kamat összege,
 
 d) azon megyei jogú városok támogatása, amelyek 2011-ben megyei önkormányzat által fenntartott vagy támogatott előadó-művészeti szervezetet, könyvtárat működtetnek. A támogatás ezen intézmények működési kiadásaihoz használható fel.
 
@@ -5842,7 +5848,7 @@ Jogi segítségnyújtás (20. cím, 2. alcím, 18. jogcím-csoport)
 
 Átadásra nem került ingatlanok utáni járadék (20. cím, 5. alcím, 4. jogcím-csoport)
 
-Céltartalékok (24. cím)
+Közszférában foglalkoztatottak bérkompenzációja, gyermekgondozási díjban és terhességi-gyermekágyi segélyben részesülők kompenzációja (24. cím, 2. alcím) és Különféle kifizetések (24. cím, 3. alcím)
 
 XII. VIDÉKFEJLESZTÉSI MINISZTÉRIUM fejezetben
 

@@ -692,11 +692,14 @@ kell csökkenteni.
 
 (11) A (9)–(10) bekezdésekben meghatározottak a törvény kihirdetése és hatálybalépése között létrejött szerződésekre nem alkalmazhatóak.
 
-57. § (1) A hulladékkezelési közszolgáltatási díj legmagasabb mértéke 2012. évben nem haladhatja meg a települési önkormányzat képviselő-testülete által rendeletben 2011. évre megállapított hulladékkezelési közszolgáltatási díj legmagasabb mértékét.
+57. § (1) A hulladékkezelési közszolgáltatási díjként fizetendő egyszeri ürítési díj mértéke 2012. évre, ha 2011. évre az egyszeri ürítési díj mértéke
 
-(2) Ha az egységnyi díjtétel mértéke nem éri el 2011. évre a települési önkormányzat képviselő-testülete által rendeletben megállapított közszolgáltatási díj legmagasabb mértékét, a közszolgáltatási díj legmagasabb mértéke 2012. évben nem haladhatja meg a 2011. december 31-én alkalmazott díjat.
+- a) meghaladta a 120 l méretű tárolóedény esetében a nettó 650 Ft-ot, vagy ennek más űrmértékű tárolóedényhez viszonyított arányos összegét, nem haladhatja meg a 2011. évre megállapított egyszeri ürítési díj mértékét,
+- b) nem haladta meg a 120 l méretű tárolóedény esetében a nettó 650 Ft-ot, vagy ennek más űrmértékű tárolóedényhez viszonyított arányos összegét, legfeljebb 650 Ft-ig, vagy ennek arányos mértékéig emelhető.
 
-58. §
+(2) Ha 2012. évre a közszolgáltatási díj alapdíj (rendelkezésre állási díj) és ürítési díj megállapításával történik, a közszolgáltatási díj egyszeri ürítésre eső mértéke nem haladhatja meg az (1) bekezdésben meghatározott összeget.
+
+58. § Az 57. §-ban meghatározott rendelkezéseket a 2012. április 15-től fizetendő közszolgáltatási díjak tekintetében kell alkalmazni.
 
 ### Felhatalmazó rendelkezések
 

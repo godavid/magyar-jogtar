@@ -353,6 +353,8 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 (6)
 
+29/A. § A foglalkoztatás bővítése és rugalmasabbá tétele érdekében szükséges intézkedésekről szóló törvény által szabályozott járulékkedvezmény igénybevételéhez 2012. január 1-jét megelőzően, a munkaügyi központtal kötött megállapodás esetében a járulékkedvezmény érvényesítésére a megállapodás megkötésének időpontjában hatályos szabályokat kell alkalmazni.
+
 30. § (1) 2012. január 1-jétől rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, rendszeres szociális járadék, átmeneti járadék, bányász dolgozók egészségkárosodási járadéka nem állapítható meg.
 
 (2) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény, illetve a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 2012. január 1-jét megelőzően hatályos szabályai, vagy a fegyveres erők és a fegyveres testületek hivatásos állományának szolgálati viszonyáról szóló 1971. évi 10. törvényerejű rendelet alapján megállapított rokkantsági, baleseti rokkantsági nyugdíjban 2011. december 31-én részesülő személy – az e törvény szerinti ellátások megszüntetését követően – szolgálati járandóság megállapítását kérheti, ha megfelel a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 9. § b) pontjában meghatározott feltételeknek.
@@ -383,6 +385,12 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 - a) II. csoportos rokkantsági, baleseti rokkantsági nyugdíj, vagy a 2011. december 31-éig az 57. életévét betöltött személynek III. csoportos rokkantsági, baleseti rokkantsági nyugdíj kerülne megállapításra, az ellátást rokkantsági ellátásként kell továbbfolyósítani,
 - b) az a) pont alá nem tartozó III. csoportos rokkantsági, baleseti rokkantsági nyugdíj kerülne megállapításra, az ellátást rehabilitációs ellátásként kell továbbfolyósítani a határozatban megjelölt összegben.
+
+(9) A megváltozott munkaképességű személy e törvény szerinti ellátásokra való jogosultságát nem érinti az a keresetnövekedés, amellyel foglalkoztatója a munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés 2012. évi elvárt mértékének megfelelően növelte a megváltozott munkaképességű személy keresetét, ha e törvény szerint a megváltozott munkaképességű személy keresőtevékenységet végezhet és közfoglalkoztatásban részt vehet.
+
+(10) A megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatások változatlanul megilletik azt a foglalkoztatót, aki a megváltozott munkaképességű személyek keresetét a munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés 2012. évi elvárt mértékének megfelelően növelte.
+
+(11) E törvénynek az elvárt béremelés végrehajtásával és a foglalkoztatással összefüggő egyes törvények módosításáról szóló 2012. évi XXI. törvénnyel megállapított 30. § (9) és (10) bekezdését 2012. január 1-jétől kell alkalmazni.
 
 31. § A 2011. december 31-én rokkantsági, baleseti rokkantsági nyugdíjban részesülő, és az öregségi nyugdíjkorhatárt 2011. december 31-éig betöltő személy rokkantsági, baleseti rokkantsági nyugdíját 2012. január 1-jétől a nyugdíjfolyósító szerv a rokkantsági, baleseti rokkantsági nyugdíj 2011. december havi – a 2012. januári nyugdíjemelés mértékével növelt – összegével megegyező összegben öregségi nyugdíjként folyósítja tovább. E bekezdés alkalmazása során a nyugdíjfolyósító szerv hivatalból jár el, és a továbbfolyósításról nem hoz külön döntést.
 
