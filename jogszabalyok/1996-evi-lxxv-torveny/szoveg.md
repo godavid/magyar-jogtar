@@ -71,7 +71,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - q) a Köt. 5. §-ának (3)–(6) bekezdésében foglalt rendelkezések fogadó szervezetek általi,
 - r) a harmadik országbeli állampolgár és a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi foglalkoztatásának bejelentésére vonatkozó jogszabályok,
 - s) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harm.tv.) 71. §-ának (1)–(2) bekezdése szerinti kötelezettségek foglalkoztató általi
-- t) a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés – kormányrendeletben meghatározott – elvárt mértékének megfelelő végrehajtására. megtartására.
+- t) a költségvetési szervek, valamint az egyházi fenntartású közfeladatot ellátó egészségügyi, oktatási, szociális, közgyűjteményi és közművelődési szolgáltatást nyújtó munkáltató kivételével, a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés – kormányrendeletben meghatározott – elvárt mértéke megfelelő végrehajtásának megtartására.
 
 (2) A munkaügyi ellenőrzést a felügyelő hivatalból, az (1) bekezdés p) pontjában foglalt esetben, valamint a g) pontban a munkabérnek – a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződés kivételével – a kollektív szerződésben rögzített mértéke tekintetében annak a félnek a kérelmére folytatja le, akinek a jogát, jogos érdekét az ügy érinti.
 
@@ -86,7 +86,7 @@ kiterjed.
 
 (4) Az iskolaszövetkezet tagjának az Mt. XII/A. § fejezete alapján történő munkavégzése tekintetében az iskolaszövetkezetnél végzett munkaügyi ellenőrzés nem terjed ki az (1) bekezdés k) pontjában foglaltak megtartásának ellenőrzésére. Az (1) bekezdés a)–c), e)–i), valamint o)–s) pontjaiban lefolytatott ellenőrzés során a munkaügyi hatóság a munkaügyi szabályok betartásának ellenőrzését a szövetkezetekről szóló 2006. évi X. törvényben foglalt eltérő szabályok figyelembevételével végzi, e körben ellenőrzési jogköre kiterjed a munkáltató iskolaszövetkezeti jogállásának, valamint a foglalkoztatottak tanulói vagy hallgatói jogviszonya fennállásának ellenőrzésére is. E rendelkezés nem érinti az iskolaszövetkezet tagja személyes közreműködését igénybevevő harmadik személy foglalkoztatónál megvalósuló, az iskolaszövetkezet tagjának nem minősülő személy foglalkoztatása szabályai betartásának ellenőrzését.
 
-(5) A munkaügyi ellenőrzés minden esetben kiterjed az (1) bekezdés t) pontjában foglaltak vizsgálatára is.
+(5)
 
 3/A. § (1) A munkaügyi hatóság az építőipari kivitelezési tevékenységet folytató foglalkoztatók munkaügyi ellenőrzése céljából az építésügyi hatóság által – külön törvény szerint – továbbított, (2) bekezdésben leírt adatokat is felhasználhatja.
 
@@ -153,7 +153,10 @@ kiterjed.
 
 6/B. § (1) Ha a munkaügyi ellenőrzés feltárja, hogy a munkáltató az ellenőrzés alá vont telephelyen a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelést a kormányrendeletben meghatározott elvárt mértéknek megfelelően nem hajtotta végre, a megállapításról a munkaügyi hatóság határozatot hoz. Ezen megállapítással kapcsolatosan nincsen helye a 6. § (1) bekezdés a) vagy b) pontjában foglaltak, valamint munkaügyi bírság alkalmazásának.
 
-(2) Nincs helye az (1) bekezdés szerinti megállapításnak, ha a munkáltató az érintett munkavállalók legalább kétharmada esetében a munkaügyi ellenőrzés megkezdéséig eleget tett az elvárt mértékű munkabéremelésnek.
+(2) Nincs helye az (1) bekezdés szerinti megállapításnak, ha a munkáltató a munkaügyi ellenőrzés megkezdéséig az érintett munkavállalók legalább kétharmada esetében eleget tett az elvárt mértékű munkabéremelésnek, amely létszám szempontjából:
+
+- a) a kölcsönbeadónál figyelmen kívül kell hagyni azt a kölcsönzött munkavállalót, aki olyan kölcsönvevőhöz került kikölcsönzésre, ahol a kölcsönvevő – az általa tett nyilatkozat szerint – saját munkavállalói tekintetében nem tett eleget az érintett munkavállalók legalább kétharmada esetében az elvárt béremelésnek,
+- b) az iskolaszövetkezetnél figyelmen kívül kell hagyni azt a nappali tagozatos tanuló, hallgató munkavállalót, aki olyan, az iskolaszövetkezet szolgáltatását fogadó gazdálkodó szervezetnél működik közre az iskolaszövetkezet teljesítésében, ahol az iskolaszövetkezet szolgáltatását fogadó gazdálkodó szervezet – az általa tett nyilatkozat szerint – saját munkavállalói tekintetében nem tett eleget az érintett munkavállalók legalább kétharmada esetében az elvárt béremelésnek.
 
 (3) Ahol jogszabály munkaügyi ellenőrzés során feltárt bármely jogsértést említ, ott ez alatt – jogszabály eltérő rendelkezése hiányában – azt is érteni kell, ha a munkáltató a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelést – kormányrendeletben meghatározott – elvárt mértéknek megfelelően nem hajtotta végre.
 
@@ -236,7 +239,7 @@ megfelelő összeg terheli a foglalkoztatót.
 
 8. § (1) A 2. § (1) és (2) bekezdésében foglalt szervek hatósági tevékenységük során az e törvényben szabályozott eltérésekkel a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint járnak el.
 
-(2)
+(2) A munkaügyi hatóság a szükséges intézkedések megtétele céljából megkeresi az illetékes hatóságot, ha a harmadik országbeli állampolgár foglalkoztatására érvényes tartózkodási engedély vagy kereső tevékenység folytatására jogosító engedély hiányában került sor, és az ellenőrzés során megállapítja annak valószínűségét, hogy a harmadik országbeli állampolgár foglalkoztatása vagy magyarországi tartózkodása a közrendet, a közbiztonságot, a nemzetbiztonságot veszélyeztetheti, vagy közegészségügyi, járványügyi szempontból veszéllyel járhat.
 
 (3) A munkaügyi hatóság tevékenysége során együttműködik a tevékenységével érintett más hatóságokkal.
 
@@ -299,7 +302,7 @@ Amennyiben a munkaügyi hatóság előtt olyan ügy van folyamatban, amelyre kü
 
 (3) A munkaügyi hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló határozat jogerőre emelkedésének és végrehajthatóvá válásának napjától számított két év elteltével törli.
 
-(4) A munkaügyi hatóság – az (5)–(6) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból az államháztartásról szóló 2011. évi CXCV. törvényben és a végrehajtására kiadott kormányrendeletben foglaltak szerint a rendezett munkaügyi kapcsolatok követelményével kapcsolatos jogsértést elkövetett, jogerős és végrehajtható közigazgatási vagy – a közigazgatási határozat bírósági felülvizsgálata esetén – bírósági határozattal munkaügyi bírsággal sújtott foglalkoztatókra vonatkozó, az (1) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat bírósági felülvizsgálata esetén az (1) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján nyilvánosságra hozza.
+(4) A munkaügyi hatóság – az (5) és (6) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból a rendezett munkaügyi kapcsolatok követelményével kapcsolatos jogsértést elkövetett, jogerős és végrehajtható közigazgatási vagy – a közigazgatási határozat bírósági felülvizsgálata esetén – bírósági határozattal munkaügyi bírsággal sújtott foglalkoztatókra vonatkozó, az (1) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat bírósági felülvizsgálata esetén az (1) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján nyilvánosságra hozza.
 
 (5) A munkaügyi hatóság a jogszabályban meghatározott munkaügyi jogsértéseket elkövető foglalkoztatókra vonatkozó adatokat nyilvánosságra hozza, ha a jogsértést megállapító közigazgatási határozat jogerőre emelkedésétől és végrehajthatóvá válásától számított két éven belül a hatóság a korábbival azonos jogsértést jogerős és végrehajtható határozattal ismételten megállapította. E rendelkezés alkalmazásában – több telephellyel rendelkező munkáltató esetében – ismételt jogsértésen az ugyanazon telephelyen kétéves időszakon belül jogerős és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
 
@@ -310,7 +313,7 @@ Amennyiben a munkaügyi hatóság előtt olyan ügy van folyamatban, amelyre kü
 
 (7) A munkaügyi hatóság nyilvántartásba vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
 
-(8) A munkaügyi hatóság a 6/B. § (1) bekezdése szerinti határozat esetében a munkáltatóra vonatkozó adatokat a határozat jogerőssé válását követő napon hozza nyilvánosságra a honlapján történő közzététel útján, és a határozat jogerőre emelkedésének napjától számított két év elteltével törli. E határozatok esetében a (6) bekezdés nem alkalmazható.
+(8) A munkaügyi hatóság a 6/B. § (1) bekezdése szerinti határozat esetében a munkáltatóra vonatkozó adatokat a határozat jogerőssé válásának napján hozza nyilvánosságra a honlapján történő közzététel útján, és a határozat jogerőre emelkedésének napjától számított két év elteltével törli. E határozatok esetében a (6) bekezdés nem alkalmazható.
 
 8/D. §
 
