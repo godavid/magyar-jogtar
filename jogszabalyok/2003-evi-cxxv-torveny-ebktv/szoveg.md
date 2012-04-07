@@ -133,12 +133,12 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 - b) a közérdekű igényérvényesítés joga alapján pert indíthat a jogaikban sértett személyek és csoportok jogainak védelmében;
 - c) véleményezi az egyenlő bánásmódot érintő jogszabályok, közjogi szervezetszabályozó eszközök és jelentések tervezeteit;
 - d) javaslatot tesz az egyenlő bánásmódot érintő kormányzati döntésekre, jogi szabályozásra;
-- e) rendszeresen tájékoztatja a közvéleményt és a Kormányt az egyenlő bánásmód érvényesülésével kapcsolatos helyzetről;
+- e) rendszeresen tájékoztatja a közvéleményt és az Országgyűlést az egyenlő bánásmód érvényesülésével kapcsolatos helyzetről;
 - f) feladatainak ellátása során együttműködik a társadalmi és érdek-képviseleti szervezetekkel, valamint az érintett állami szervekkel;
 - g) az érintettek számára folyamatos tájékoztatást ad és segítséget nyújt az egyenlő bánásmód megsértése elleni fellépéshez;
 - h) közreműködik az egyenlő bánásmód követelményével kapcsolatban nemzetközi szervezetek, így különösen az Európa Tanács számára készülő kormányzati jelentések elkészítésében;
-- i) közreműködik az Európai Unió Bizottsága számára az egyenlő bánásmódra vonatkozó irányelvek harmonizációjáról szóló jelentések elkészítésében;
-- j) évente beszámol a Kormánynak a hatóság tevékenységéről és e törvény alkalmazása során szerzett tapasztalatairól.
+- i) közreműködik az Európai Unió Bizottsága számára az egyenlő bánásmódra vonatkozó irányelvek harmonizációjáról szóló jelentések elkészítésében.
+- j)
 
 (2)
 
@@ -202,7 +202,8 @@ ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen
 - f) a foglalkoztatási jogviszony vagy a munkavégzésre irányuló egyéb jogviszony alapján járó juttatások, így különösen a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 142/A. § (3) bekezdésében meghatározott munkabér megállapításában és biztosításában;
 - g) a tagsággal vagy részvétellel kapcsolatban a munkavállalók szervezeteiben;
 - h) az előmeneteli rendszerben;
-- i) a kártérítési, valamint a fegyelmi felelősség érvényesítése során.
+- i) a kártérítési, illetve a fegyelmi felelősség érvényesítése során, valamint
+- j) a munkavállalók szülői és munkavállalói kötelezettségeinek összehangolását és a gyermek gondozására fordítható idő növelését elősegítő szülői szabadság kérelmezésével, illetve igénybevételével összefüggésben.
 
 22. § (1) Nem jelenti az egyenlő bánásmód követelményének megsértését
 
@@ -335,9 +336,23 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 
 ### V. Fejezet — EGYES TÁMOGATÁSOKRA VONATKOZÓ RENDELKEZÉSEK
 
-32. § (1) A társadalmi felzárkózást szolgáló európai uniós társfinanszírozású projektek keretében a projektgazda vagy konzorciumi partner – a külön jogszabályban meghatározottak szerint – a képzés időtartamára felzárkózást elősegítő megélhetési támogatást nyújthat a programba bevont személyek számára.
+32. § (1) A társadalmi felzárkózást szolgáló európai uniós társfinanszírozású projektek keretében a projektgazda vagy konzorciumi partner (a továbbiakban együtt: támogatást nyújtó) – ha az a képzési programban való részvételt segíti elő és annak nyújtása az Európai Unió működéséről szóló szerződés 107. cikkébe vagy közvetlenül alkalmazandó európai uniós jogi aktusba nem ütközik – felzárkózást elősegítő megélhetési támogatást (a továbbiakban: támogatás) nyújthat a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet 2. cikk 18. pontjában meghatározott hátrányos helyzetű személyek számára szervezett, legalább heti 20 órát meghaladó képzésben részt vevő olyan személy számára, aki
 
-(2) A támogatás összege nem haladhatja meg a megállapításakor hatályos közfoglalkoztatási bér összegét.
+- a) a képzésbe történő bevonás időpontjában keresetpótló juttatásban nem részesül,
+- b) az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, egyéb kereső tevékenységet nem folytat, és
+- c) a képzés időtartama alatt további támogatott képzésben és munkaerő-piaci programban nem vesz részt.
+
+(2) A támogatás nyújtásáról a támogatást nyújtó a képzésben részt vevő személlyel felnőttképzési szerződést köt, és a felzárkózást elősegítő megélhetési támogatás nyújtásáról az állami foglalkoztatási szervet értesíti.
+
+32/A. § (1) A támogatás mértéke – ha a képzés időtartama eléri a heti 40 órát – megegyezik a felnőttképzési szerződés megkötésének időpontjában irányadó közfoglalkoztatási bér összegével, az ennél rövidebb idejű képzés esetén annak a képzés időtartama szerinti arányos részével.
+
+(2) A képzésben részt vevő személyt a képzés időtartama alatt az (1) bekezdés szerinti összeg 80%-a időarányosan illeti meg, a fennmaradó rész a képzés befejezését igazoló tanúsítvány megszerzésével egyidejűleg egy összegben kerül számára kifizetésre.
+
+(3) A támogatást a képzés – ideértve a gyakorlati képzést is – időtartamára, a képzés befejezését követő záróvizsgára történő felkészülés időtartamára, továbbá az első vizsga napjára a képzés jellegétől függően hetente vagy havonta utólag kell biztosítani. A záróvizsga sikertelensége esetén az ismétlő vizsgára történő felkészülés időtartamára támogatás nem nyújtható.
+
+(4) Nem nyújtható támogatás arra a napra, amelyen a képzésben részt vevő személy a képzésben való részvételi kötelezettségének nem tett eleget és távollétét nem igazolta. Ebben az esetben a támogatást a mulasztás napjára járó támogatás összegével csökkentett összegben kell biztosítani.
+
+(5) Ha az adott képzési szakasz befejezését igazoló tanúsítványt a képzésben részt vevő személy neki felróható okból nem szerzi meg, a képzési szakaszra nyújtott támogatási összeget vissza kell követelni.
 
 ### V/A. Fejezet — AZ EGYENLŐ BÁNÁSMÓD HATÓSÁG
 
@@ -482,9 +497,9 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 
 (5)
 
-63/A. §
+63/A. § E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Ebktv.
 
-64. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a hatóságot vagy hatóságokat, valamint rendeletben határozza meg a hatóság eljárására vonatkozó részletes szabályokat.
+64. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság eljárására vonatkozó részletes szabályokat.
 
 64/A. § A 31. § (6) és (7) bekezdését a 2012. november 1-jét követően meghirdetett pályázatokra kell alkalmazni.
 
@@ -496,9 +511,9 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 
 (4) Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy a helyi esélyegyenlőségi program elkészítésének részletes szabályait rendeletben határozza meg.
 
-(5) Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy a felzárkózást elősegítő megélhetési támogatásra vonatkozó részletes szabályokat rendeletben határozza meg.
+(5)
 
-65. § Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt és az 1994. évi I. törvénnyel kihirdetett Európai Megállapodás jogközelítésére vonatkozó rendelkezéseivel összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
+65. § Ez a törvény a következő irányelveknek való megfelelést szolgálja
 
 - a) a Tanács 76/207/EGK irányelve a nőkkel és a férfiakkal való egyenlő bánásmód elvének a munkavállalás, a szakképzés és az előmenetel lehetőségei, valamint a munkafeltételek terén történő végrehajtásáról és az azt módosító 2002/73/EK irányelv,
 - b) a Tanács 79/7/EGK irányelve a férfiakkal és a nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról,
@@ -507,4 +522,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 - e) a Tanács 97/80/EK irányelve a bizonyítási kötelezettségről a nemi hovatartozás alapján történő diszkriminációs esetekben,
 - f) a Tanács 2000/43/EK irányelve a személyek közötti, faji vagy etnikai származásra való tekintet nélküli egyenlő bánásmód elvének végrehajtásáról,
 - g) a Tanács 2000/78/EK irányelve a foglalkoztatási és munkahelyi egyenlő bánásmód általános kereteinek a létrehozásáról,
-- h) a Tanács 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról.
+- h) a Tanács 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról,
+- i) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010. március 8-i 2010/18/EU tanácsi irányelv.
+
+66. § A 32. § és a 32/A. § a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet 38. és 39. cikkének hatálya alá tartozó támogatást tartalmaz.

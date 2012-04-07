@@ -524,7 +524,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 #### 27. A Hatóság elnöke
 
-40. § (1) A Hatóságot elnök vezeti. A Hatóság elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki, azok közül a jogász végzettségű, az országgyűlési képviselők választásán választható, magyar állampolgárok közül, akik az adatvédelmet vagy az információszabadságot érintő eljárások ellenőrzésében legalább öt év szakmai tapasztalattal rendelkeznek, vagy e területek valamelyikén tudományos fokozatot szereztek.
+40. § (1) A Hatóságot elnök vezeti. A Hatóság elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki, azok közül a jogász végzettségű, az országgyűlési képviselők választásán választható, magyar állampolgárok közül, akik az adatvédelmet vagy az információszabadságot érintő eljárások ellenőrzésében legalább tíz év szakmai tapasztalattal rendelkeznek, vagy e területek valamelyikén tudományos fokozatot szereztek.
 
 (2) A Hatóság elnökének nem nevezhető ki az, aki a kinevezésre irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, államtitkár, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke vagy alelnöke, nemzetiségi önkormányzat tagja, illetve párt tisztségviselője vagy alkalmazottja volt.
 
@@ -563,30 +563,45 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - a) a megbízatási idejének lejártával;
 - b) lemondásával;
 - c) halálával;
-- d) a kinevezéséhez szükséges feltételek hiányának megállapításával;
+- d) a kinevezéséhez szükséges feltételek hiányának vagy a vagyonnyilatkozat-tételi előírások megsértésének megállapításával;
 - e) összeférhetetlensége megállapításával;
-- f) felmentésével;
-- g) a tisztségétől való megfosztással.
+- f)
+- g)
 
 (2) A Hatóság elnöke a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat megbízatásáról. A Hatóság elnökének megbízatása a lemondás közlését követő, a lemondásban megjelölt napon, ennek hiányában a lemondás közlésének napján szűnik meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
 
-(3) Ha a Hatóság elnöke a 41. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a köztársasági elnök a miniszterelnök indítványára, az indítvány kézhezvételétől számított harminc napon belül dönt az összeférhetetlenség megállapításának kérdésében.
+(3) Ha a Hatóság elnöke a 41. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a köztársasági elnök a miniszterelnök indítványára dönt az összeférhetetlenség megállapításának kérdésében.
 
-(4) A köztársasági elnök – a miniszterelnök indítványára – felmenti a Hatóság elnökét, ha a Hatóság elnöke neki fel nem róható okból kilencven napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak.
+(4)
 
-(5) A köztársasági elnök – a miniszterelnök indítványára – megfosztja tisztségétől a Hatóság elnökét, ha a Hatóság elnöke neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő feladatainak, vagy vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
+(5)
 
-(6) A Hatóság elnökének kinevezéséhez szükséges feltételek hiányát a miniszterelnök indítványára a köztársasági elnök állapítja meg.
+(6) A Hatóság elnökének kinevezéséhez szükséges feltételek hiányát a miniszterelnök indítványára a köztársasági elnök állapítja meg. A köztársasági elnök – a miniszterelnök indítványára – megállapítja a vagyonnyilatkozat-tételi szabályok megsértését, ha a Hatóság elnöke vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
 
-(7) A megbízatás az (1) bekezdés a), b) és f) pontja szerinti megszűnése esetén a Hatóság elnökét a megszűnéskori havi illetménye háromszorosának megfelelő összegű külön illetmény illeti meg.
+(6a) A miniszterelnök a (3) és (6) bekezdés alapján megtett indítványát a köztársasági elnök és a Hatóság elnöke részére egyidejűleg megküldi.
 
-(8) A köztársasági elnöknek a (3)–(6) bekezdéssel és a 40. §-sal a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
+(6b) A Hatóság elnöke az indítvány megalapozatlanságának megállapítása iránt az indítvány kézhezvételét követő harminc napon belül bírósághoz fordulhat, mely határidő elmulasztása esetén igazolásnak nincs helye. A pert a miniszterelnök ellen kell megindítani. A bíróság eljárására a polgári perrendtartásról szóló törvénynek a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az ügyben a Fővárosi Munkaügyi Bíróság kizárólagos illetékességgel, soron kívül jár el, és a keresetet, valamint az ügy érdemében hozott jogerős döntését a bíróság a köztársasági elnökkel is közli.
+
+(6c) Ha a Hatóság elnökének a (6b) bekezdés alapján benyújtott keresete alapján a bíróság jogerős ítéletében azt állapítja meg, hogy a miniszterelnök a (3) és (6) bekezdés alapján megtett indítványa megalapozatlan, a köztársasági elnök a Hatóság elnöke megbízatásának megszűnését nem állapítja meg.
+
+(6d) A köztársasági elnök a miniszterelnök a (3) és (6) bekezdés alapján megtett indítványáról
+
+- a) ha a Hatóság elnöke a (6b) bekezdés szerinti határidőben nem fordul bírósághoz, a határidő lejártát követő tizenöt napon belül,
+- b) ha a Hatóság elnöke a (6b) bekezdés szerinti határidőben bírósághoz fordul, az ügy érdemében hozott jogerős döntés kézhezvételét követő tizenöt napon belül
+
+dönt.
+
+(7) A megbízatás az (1) bekezdés a) és b) pontja szerinti megszűnése esetén a Hatóság elnökét a megszűnéskori havi illetménye háromszorosának megfelelő összegű külön illetmény illeti meg.
+
+(8) A köztársasági elnöknek a (3) és a (6) bekezdéssel és a 40. §-sal a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
+
+45/A. § A Hatóság elnöke részt vehet és felszólalhat az Országgyűlés bizottságainak ülésén.
 
 #### 28. A Hatóság elnökének helyettese
 
 46. § (1) A Hatóság elnökének munkáját az általa határozatlan időre kinevezett helyettes segíti. A Hatóság elnökhelyettese felett az elnök gyakorolja a munkáltatói jogokat.
 
-(2) Az elnökhelyettesnek meg kell felelnie a Hatóság elnökének kinevezéséhez szükséges, a 40. § (1) és (2) bekezdésében előírt feltételeknek.
+(2) Az elnökhelyettesnek meg kell felelnie a Hatóság elnökének kinevezéséhez szükséges, a 40. § (1) és (2) bekezdésében előírt feltételeknek, azzal, hogy az adatvédelmet vagy az információszabadságot érintő eljárások ellenőrzésében öt év szakmai tapasztalattal kell rendelkeznie.
 
 (3) Az elnökhelyettes összeférhetetlenségére a 41. §-ban foglaltakat megfelelően alkalmazni kell.
 
