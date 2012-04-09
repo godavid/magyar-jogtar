@@ -44,12 +44,18 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 - b) gyermekjóléti, gyermekvédelmi intézményben,
 - c) az (5) bekezdésben foglalt kivétellel az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontja szerinti egészségügyi szolgáltatónál, ideértve a többcélú intézményt is, ha abban egészségügyi szolgáltatást is nyújtanak.
 
-(5) A (7) és (8) bekezdésben foglaltak szerint zárt légterű dohányzóhely is kijelölhető
+(5) A (7)–(9) bekezdésben foglaltak szerint zárt légterű dohányzóhely is kijelölhető
 
 - a) a 9. §-ban foglalt esetekben,
-- b) büntetés-végrehajtási intézményekben a fogvatartottak – köztük a kóros elmeállapotúak – számára,
+- b) büntetés-végrehajtási intézményekben és a rendőrségi előállító helyiségekben, fogdákban és az őrzött szálláshelyeken a fogvatartottak – köztük a kóros elmeállapotúak – számára,
 - c) az Eütv. 188. § a) pontja szerinti pszichiátriai intézetben a pszichiátriai betegek számára,
-- d) a munkavállalók részére, ahol a munkahelyi klíma zárttéri munkahelyen a külön jogszabályban meghatározott korrigált effektív hőmérséklet a 24 °C-ot meghaladja.
+- d) a munkavállalók részére, ahol a munkahelyi klíma zárttéri munkahelyen a külön jogszabályban meghatározott korrigált effektív hőmérséklet a 24 °C-ot meghaladja,
+- e) azon munkavállalók részére a fokozottan tűz- és robbanásveszélyes, a tűz- és robbanásveszélyes, valamint a tűzveszélyes munkahelyeken, létesítményekben, ahol a nyílt légtérben
+  - ea) a munka törvénykönyvében biztosított munkaközi szünettel,
+  - eb) a tűzvédelmi szabályokkal, és
+  - ec) a folytatott tevékenység jellegével
+
+összeegyeztethető dohányzóhelyet nem, vagy csak az élet- és vagyonbiztonságot, valamint a nemzetgazdasági érdekeket jelentősen veszélyeztetve lehetne kijelölni.
 
 (6) A kijelölt dohányzóhelyek e törvényben előírt rendelkezéseknek való megfelelőségét az egészségügyi államigazgatási szerv, tűzvédelmi szempontoknak való megfelelőségét a tűzvédelmi hatóság ellenőrzi.
 
@@ -59,6 +65,8 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 
 - a) a friss levegő befúvását, illetve az elhasznált levegő elszívását biztosító mechanikus szellőztető berendezés működik, és
 - b) a dohányzóhelyek kijelölése, valamint a helyiség légöblítése olyan módon került kialakításra, hogy a dohányfüst a keletkezése helyétől közvetlenül az elszívócsatornába áramlik anélkül, hogy a nemdohányzó helyek az áramlás irányába esnének.
+
+(9) Az (5) bekezdés d) és e) pontja szerinti esetekben zárt légterű dohányzóhely az egészségügyi államigazgatási szerv előzetes engedélyével jelölhető ki. Az egészségügyi államigazgatási szerv a kérelemre induló, helyszíni szemlét is magában foglaló hatósági eljárás keretében a dohányzóhely kijelölését abban az esetben engedélyezi, ha az megfelel az (5) bekezdés d) és e) pontjában, valamint a (7) és (8) bekezdésben fogalt követelményeknek. Az egészségügyi államigazgatási szervnek a dohányzóhely kijelölésének engedélyezésére irányuló eljárásáért az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 2/A. § A helyi önkormányzat rendeletben a 2. § (1) bekezdés d) pontjában foglaltakon túl közterületet nemdohányzó közterületnek nyilváníthat. Az önkormányzat rendeletében a dohányzási korlátozás hatókörét olyan módon kell részletesen szabályozni, hogy az e törvényben foglalt, dohányzóhely-kijelölési kötelezettségüknek a kötelezettek eleget tehessenek. A nemdohányzó közterület kijelölésére a 2. § (7) bekezdésében foglaltakat kell alkalmazni. A közterületet érintő dohányzási korlátozások betartását a 7. §-ban foglaltakon túl – az önkormányzati rendeletben foglaltakra figyelemmel – a közterület-felügyelet is ellenőrizheti, és a dohányzási korlátozás tetten ért megszegőjét a 7. § (5) bekezdése szerinti helyszíni bírsággal sújthatja. Az így befolyt bírság az önkormányzat bevétele.
 
@@ -78,7 +86,7 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 
 (7)
 
-(8) A 2. § (2) bekezdésének a) pontja szerinti esetben az (1) bekezdés megfelelően alkalmazandó azzal, hogy helyiségen kívüli dohányzóhely nem zárt légtérben is csak úgy jelölhető ki, ha a dohányzóhely az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától megfelelően elkülönül.
+(8) A 2. § (4) bekezdés c) pontja szerinti esetben az (1) bekezdés megfelelően alkalmazandó azzal, hogy helyiségen kívüli dohányzóhely nem zárt légtérben is csak úgy jelölhető ki, ha a dohányzóhely az egészségügyi szolgáltatást igénybevevők szokásos vagy szükségszerű útvonalától megfelelően elkülönül.
 
 (9) Az (1)–(8) bekezdésben, valamint a 4/A. §-ban meghatározott feltételek biztosításáról a közforgalmú intézmény belső szabályzatában meghatározott személy, ennek hiányában az intézmény vezetője, üzemeltetője, a rendezvény szervezője, a közösségi közlekedési eszköz üzembentartója, a közoktatási intézmény vezetője, illetőleg a munkáltató gondoskodik.
 
@@ -219,5 +227,7 @@ hozható meg.
 - b) megfelel, az egészségügyi államigazgatási szerv a szivarszoba tovább működtetését engedélyezi.
 
 (5)–(6)
+
+10. § (1) Ha a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosításáról szóló 2012. évi XXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 2. § (5) bekezdés d)–e) pontja alapján a munkáltató a Módtv. hatálybalépését követő 30 napon belül a dohányzóhely kijelölésének engedélyezése iránti kérelmet nyújtott be az egészségügyi államigazgatási szervnek, egészségvédelmi bírság az adott dohányzóhely kijelölésével összefüggésben 2012. április 1-jétől az eljárás jogerős lezárásáig nem alkalmazható.
 
 ### Melléklet az 1999. évi XLII. törvényhez
