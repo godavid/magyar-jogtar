@@ -254,22 +254,7 @@ terület lehet.
 
 (2) A borászati hatóság az (1) bekezdés szerinti laboratóriumi és érzékszervi vizsgálatok alapján megfelelőnek minősített borra forgalomba hozatali engedélyt ad ki. A borászati hatóság a belföldön termelt borra kiadott engedélyt a bor származási bizonyítványát kiadó hegyközségnek is megküldi.
 
-(3) Magyarország területén közfogyasztásra forgalomba hozott bor minden literje után a forgalomba hozónak forgalomba hozatali járulékot kell fizetnie. A járulékot a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 83. § (4) bekezdése szerinti tárgyidőszakban forgalomba hozott bor mennyisége után a 83. § (5) bekezdésében foglalt határidőig kell megfizetni. A járulék összege:
-
-- a) földrajzi jelzést nem viselő és az oltalom alatt álló földrajzi jelzéssel rendelkező borok esetében 5 forint literenként;
-- b) az oltalom alatt álló eredetmegjelöléssel rendelkező borok esetében 10 forint literenként.
-
-(4) A (3) bekezdés alapján fizetendő forgalomba hozatali járulék összegéből le kell vonni azt az összeget, amelyet a (7) és (8) bekezdésekben meghatározott felhasználással azonos célra az Európai Gazdasági Térség valamely szerződő államában a forgalomba hozatali járulékfizetési kötelezettség keletkezését megelőzően kötelező jelleggel megfizettek, feltéve, hogy azt nem igénylik vissza.
-
-(5) A forgalomba hozatali járulék az agrárpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetén belül a borok közösségi marketingprogramját és a borok minőség-ellenőrzésének célját szolgáló előirányzat bevétele. A járuléktartozás megfizetésén túl a járulék mértékével azonos, de legkevesebb 50 000 forint mulasztási bírság megfizetésére köteles az a forgalomba hozó, aki forgalomba hozatali járulékfizetési kötelezettségének határidőre nem tesz eleget. A mulasztási bírságot a borászati hatóság szabja ki. A bírságot a borászati hatóság számlájára kell befizetni.
-
-(6) Akinek forgalomba hozatali járulék tartozása van, az újonnan forgalomba hozni kívánt borra vonatkozóan a (2) bekezdés szerinti forgalomba hozatali engedélyt nem kaphat. A borászati hatóság ellenőrzi a forgalomba hozatali járulék megfizetését. A vámhatóság a forgalomba hozott bor forgalomba hozójára (név, cégnév, lakcím, székhely, telephely), illetve a forgalomba hozott borra vonatkozó adatokat az e törvény felhatalmazása alapján kiadott rendeletben meghatározott időközönként továbbítja a borászati hatóságnak.
-
-(7) A forgalomba hozatali járulék címén befizetett összeg 60%-át közösségi bormarketingprogramok kidolgozására és végrehajtására, az Európai Unió által meghirdetett borreklám és -marketingprogramok nemzeti társfinanszírozására kell fordítani. A forgalomba hozatali járulék címén befizetett összeg 60%-ának legfeljebb 10%-a a marketing tevékenységhez szükséges minőségvédelmi és eredetvédelmi rendszer kidolgozására fordítható.
-
-(8) A forgalomba hozatali járulék címén befizetett összeg 40%-a a borászati hatóságot illeti meg. A borászati hatóság a járulékbevételt a származási bizonyítványok valóságtartalmának ellenőrzésére, az 500 hl feletti bormennyiség esetében a forgalomba hozatali engedélyezési eljárásban hatósági mintavételre, a forgalomba hozott borok minőség-ellenőrzésére és tervszerű célvizsgálatokra köteles fordítani, kiegészítve laboratóriumi és érzékszervi vizsgálattal. A borászati hatóság köteles a járulékbevételből végzett ellenőrzésekről és a felhasznált összegről félévente, július 31-ig, illetve január 31-ig jelentést készíteni a miniszternek.
-
-(9) A forgalomba hozatali járulék megfizetésének, kezelésének és felhasználásának részletes szabályait miniszteri rendelet állapítja meg.
+(3)–(9)
 
 25. § (1) Közfogyasztásra forgalomba hozott borászati termék az, amelyet a fogyasztónak vagy kereskedelmi szervnek közvetlenül értékesítenek.
 
@@ -368,7 +353,7 @@ látják el.
 
 (2) A hegyközségi szervezet hatáskörében ellátja az ültetvény telepítésével, művelésével, kivágásával, az ültetvénykataszter vezetésével, a származási bizonyítványok kiadásával kapcsolatos feladatokat, valamint ezek vonatkozásában hatósági ellenőrzést végez.
 
-(3)
+(3) A borászati és a növénytermesztési hatóság az általa e törvény alapján nyilvántartott adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv:
 
@@ -457,7 +442,7 @@ látják el.
 - f) a pincekönyv szakmai tartalmát (az ellenőrzés eredményét a pincekönyvbe is be kell jegyezni),
 - g) a pincékben és a kereskedelemben – rendszeres mintavétellel – a borok minőségét,
 - h) az import borászati termékek minőségét,
-- i) a bor forgalomba hozatali járulék befizetését,
+- i)
 - j) a bor származási bizonyítványok valóságtartalmát,
 - k) a borszőlőfeldolgozás és a borkészítés során keletkező melléktermékek kivonását,
 - l) a termékleírásnak való megfelelést.
@@ -560,7 +545,7 @@ látják el.
 - i) a VINGIS részletes tartalmát, valamint a szőlészeti borászati szakigazgatás szerveinek a VINGIS adataihoz való hozzáférési jogosultságát;
 - j) a nem hegyközségi települések esetén az e törvényben meghatározott közigazgatási feladatokat ellátó hegyközségek meghatározását;
 - k) a pince- és borhigiéniai követelményeket, a borászati üzemek működését, illetve a borászati üzemek működésének és a borászati termékek kiszerelésének engedélyezési rendjét;
-- l) az adópolitikáért felelős miniszterrel egyetértésben a forgalomba hozatali járulék megfizetésének, megfizetése ellenőrzésének, az ellenőrzéshez kapcsolódó adatok szolgáltatásának, kezelésének és felhasználásának részletes szabályait;
+- l)
 - m) a forgalomba hozatali, illetve Magyarország területéről történő kiszállítás esetén a továbbfeldolgozásra vonatkozó engedély kiadásához szükséges kémiai és érzékszervi vizsgálatok végzésére jogosult szervezet elismerésének feltételeit, valamint a laboratóriumi és érzékszervi vizsgálatok rendjét;
 - n) a Bor Eredetvédelmi Tanács összetételével, működésével és eljárásával kapcsolatos részletes szabályokat;
 - o) a szőlő- és borágazat szakmaközi szervezetének elismerési rendjét.

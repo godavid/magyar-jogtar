@@ -179,6 +179,8 @@ Az Országgyűlés – felismerve, hogy a magas színvonalú növénytermesztés
 
 szereplő faj, növényfajta szaporítóanyagát szabad forgalomba hozatal céljára előállítani, forgalomba hozni, továbbszaporítani, árutermesztésre és árutermesztő ültetvény létesítésére felhasználni, amennyiben azok a külön jogszabályban meghatározott feltételeknek megfelelnek.
 
+(1a) A természetes környezet megőrzésére szánt takarmánynövény-vetőmagkeverékek begyűjtése a természetvédelmi hatóság, forgalmazása a növénytermesztési hatóság engedélyével végezhető.
+
 (2) A növénytermesztési hatóság – a miniszter e törvény felhatalmazása alapján kiadott rendeletében foglaltak szerint – engedélyezheti az (1) bekezdésben foglaltaknak meg nem felelő szaporítóanyag eseti felhasználását.
 
 (3) Ha jogszabály másként nem rendelkezik, az (1) bekezdés alá nem tartozó növényfajok, illetve -fajták szabadon előállíthatók, forgalomba hozhatók, továbbszaporíthatók és árutermesztésre, árutermesztő ültetvény létesítésére felhasználhatók.
@@ -301,6 +303,8 @@ szereplő faj, növényfajta szaporítóanyagát szabad forgalomba hozatal célj
 (3) A növénytermesztési hatóság ellenőrzést végző munkatársa hatósági igazolvánnyal rendelkezik, amelyet a növénytermesztési hatóság ad ki.
 
 (4) A növénytermesztési hatóság közigazgatási eljárásban országos illetékességgel hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+
+(5) A növénytermesztési hatóság az (1) bekezdés a) pontja szerinti nyilvántartásban lévő adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
 23/A. § (1) A szaporítóanyag jelölésére (címkézésére) vonatkozóan e törvényben és a végrehajtására kiadott jogszabályban meghatározott rendelkezések megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jogosult, ha a jogsértés az Fttv. 2. §-ának a) pontja értelmében vett fogyasztót érint. Az eljáró hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
 

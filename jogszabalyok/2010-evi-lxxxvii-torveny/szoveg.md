@@ -53,7 +53,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 4. § (1) Az NFA a miniszter irányítása alatt álló központi költségvetési szerv.
 
-(2) Az NFA elnökét a miniszter nevezi ki és menti fel. Az NFA két elnökhelyettesét az elnök javaslatára a miniszter nevezi ki és menti fel.
+(2) Az NFA elnökét a miniszter nevezi ki és menti fel. Az NFA elnökhelyetteseit az elnök javaslatára a miniszter nevezi ki és menti fel.
 
 (3) Az NFA elnöke és elnökhelyettese magyar állampolgár lehet. Az NFA elnöke, és elnökhelyettese nem lehet
 
@@ -107,7 +107,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - a) elkészíti a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos – a földbirtok-politikai irányelveken alapuló – középtávú stratégiai tervét;
 - b) érvényre juttatja az NFA tevékenysége során a Kormány által elfogadott középtávú stratégiát;
 - c) véleményezi – a középtávú stratégiában és Nemzeti Vidékfejlesztési Tervben megfogalmazott célkitűzések alapján – az NFA által készített, a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos éves tervet;
-- d) dönt a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos egyedi ügyekben, ha az annak tárgyát képező földrészlet vagy földrészletek együttes értéke eléri a 100 millió forintot, illetve a térmértéke eléri a 100 hektárt;
+- d) dönt a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos egyedi ügyekben, ha az annak tárgyát képező földrészlet vagy földrészletek együttes értéke eléri a 100 millió forintot;
 - e) dönt 100 millió forintot, vagy 100 hektár térmértéket elérő földrészlet vagy földrészletek tulajdonjogának az állam javára történő megszerzésével kapcsolatos ügyekben;
 - f) dönt a 21. § (3)–(6) bekezdése szerinti jogügyletekről;
 - g) véleményezi Nemzeti Földalap helyzetéről és az NFA tevékenységéről készült éves országgyűlési beszámoló tervezetét.
@@ -328,7 +328,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 (3a) Nyilvános pályáztatás vagy árverés mellőzésével köthető adásvételi szerződés olyan földrészletre, amely
 
 - a) a kisajátításról szóló törvényben meghatározott közérdekű célok, vagy – amennyiben a közérdekű célt az érintett földrészlet vonatkozásában a nemzetgazdasági szempontból kiemelt beruházássá nyilvánító kormányrendelet megjelöli – nemzetgazdasági szempontból kiemelt beruházás megvalósításához szükséges;
-- b) nem haladja meg a fél hektárt.
+- b) nem haladja meg az egy hektárt.
 
 (3b) Nyilvános pályáztatás mellőzésével köthető vagyonkezelési szerződés az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 9. §-ának (2) bekezdésében meghatározott földterületre költségvetési szervvel vagy kizárólagos állami tulajdonban álló gazdálkodó szervezettel.
 
@@ -437,7 +437,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 35. § (1) E törvény hatálybalépése nem érinti a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 13/A. §-a alapján e törvény hatálybalépése előtt közzétett pályázati felhívás alapján kötött életjáradéki szerződéseket. Az ezen szerződések alapján fizetendő életjáradék a központi költségvetés központosított kiadása, amelyet a Nemzeti Földalapról szóló törvény hatálya alá tartozó állami vagyonnal való gazdálkodásból származó bevételeket és kiadásokat tartalmazó fejezetben kell megtervezni és elszámolni.
 
-(2) E törvény hatálybalépésekor fennálló haszonbérleti és vagyonkezelési szerződés nyilvános pályáztatás mellőzésével nem hosszabbítható meg.
+(2)
 
 36. § A termőföldről szóló 1994. évi LV. törvény (a továbbiakban: Tft.) 3. § m) és n) pontja helyébe a következő rendelkezés lép:
 

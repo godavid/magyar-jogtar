@@ -459,7 +459,8 @@ teszi szükségessé.
 - i) az eb veszettség elleni védőoltásai során használt oltóanyagot, annak gyártási számát, valamint az oltást végző magánállatorvos nevét, kamarai bélyegzője számát,
 - j) a veszettség szempontjából aggályos eb megfigyelési státuszának tényét, időpontját,
 - k) kisállatútlevéllel rendelkező eb esetén az útlevél számát, kiállításának időpontját, a kiállító magánállatorvos nevét, kamarai bélyegzője számát,
-- l) az eb veszélyessé minősítésének tényére és időpontjára vonatkozó adatot.
+- l) az eb veszélyessé minősítésének tényére és időpontjára vonatkozó adatot,
+- m) elismert tenyésztő szervezet által törzskönyvezett eb esetén a származási igazolás másolatát.
 
 (5) Az adatbázis működtetője jogosult kezelni a (4) bekezdésben meghatározott adatokat.
 
@@ -597,6 +598,8 @@ eb után.
 (4) Ha a kóbor állat tulajdonosa ismertté válik, a tulajdonos köteles az állatot visszavenni, valamint a befogásával és elhelyezésével kapcsolatos költségeket megtéríteni. Ha a tulajdonos az állatot nem veszi vissza, vagy az állat egészségét súlyosan veszélyeztető tartási körülmények miatt az állat a tulajdonos részére nem adható ki, az állatvédelmi hatóság – az addig felmerült költségek megtérítésére való kötelezés mellett – az állatot elkobozza, ezt követően gondoskodik az állat tulajdonjogának átruházásáról, ha ezt jogszabály kizárja vagy az eredménytelen, az állat végleges elhelyezéséről. Ha az állat végleges elhelyezése csak rendszeres költségráfordítással biztosítható, a korábbi tulajdonos a jogsértés súlyától, ismétlődésétől függően legfeljebb 12 hónapra jutó költség fizetésére kötelezhető. Az elhelyezés eredménytelensége esetén – a külön jogszabályban meghatározott időtartam elteltével – az állat életét megengedett módon ki lehet oltani.
 
 48/B. § A 24/F. §-ban foglalt tartási tilalom nem vonatkozik a külön jogszabályban foglaltak szerint – az állatvédelmi hatóságnak – bejelentett állatokra. A bejelentésben meg kell jelölni az állat tulajdonosának vagy az állat tartójának nevét, címét, valamint az állat azonosítását szolgáló adatokat és az állat tartási helyének adatait. A bejelentett adatokról az állatvédelmi hatóság nyilvántartást vezet.
+
+48/C. § Az állatvédelmi hatóság az általa nyilvántartott adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
 49. § (1) Ez a törvény 1999. január 1-jén lép hatályba.
 

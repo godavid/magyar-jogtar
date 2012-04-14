@@ -353,7 +353,7 @@ hasznosítják.
 
 (2) Az állam kialakítja és működteti a személyes adatokat nem tartalmazó talajvédelmi hatósági és a talajtani adatbázist.
 
-(3)
+(3) A talajvédelmi hatóság az általa e törvény alapján nyilvántartott adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
 33. § (1) Az állam a talajok minőségi változásainak, környezeti állapotának folyamatos figyelemmel kísérése céljából országos Talajvédelmi Információs és Monitoring rendszert (a továbbiakban: TIM) működtet.
 

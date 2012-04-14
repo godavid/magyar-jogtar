@@ -2,24 +2,35 @@
 
 a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról
 
-1. § A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Fot.) 23. § (1) bekezdése a következő h) ponttal egészül ki:
+1–2. §
 
-[Fogyatékossági támogatásra az a 18. életévét betöltött súlyosan fogyatékos, az ellátás igénylésének időpontjában Magyarországon élő magyar állampolgár, letelepedett, valamint bevándorolt jogállású személy, továbbá a magyar hatóság által menekültként, illetve hontalanként elismert személy jogosult, akinek]
+3. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 50. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
 
-„h) állapota kromoszóma-rendellenesség miatt súlyosnak vagy középsúlyosnak minősíthető,”
+[Közgyógyellátásra jogosult]
 
-[és állapota tartósan vagy véglegesen fennáll, továbbá önálló életvitelre nem képes vagy mások állandó segítségére szorul.]
+„g) az, aki
 
-2. § A Fot.
+ga) rokkantsági ellátásban részesül és az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg a 30%-os mértéket,
 
-- a) 23. § (1) bekezdés f) pontjában az „a)–e) pontban” szövegrész helyébe az „a)–e) és h) pontban” szöveg,
-- b) 23. § (1) bekezdés g) pontjában az „a), c)–e) pontok” szövegrész helyébe az „a), c)–e) és h) pontok” szöveg,
-- c) 23/A. § (1) bekezdés a) pontjában az „a)–e) pontja” szövegrész helyébe az „a)–e) és h) pontja” szöveg,
-- d) 23/A. § (1) bekezdés b) pont bb) alpontjában az „a), c)–e) pontjában” szövegrész helyébe az „a), c)–e) és h) pontjában” szöveg
+gb) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 30. § (4) bekezdés b) pont ba) alpontjának vagy 32. § (1) bekezdés a) pontjának alkalmazásával rokkantsági ellátásban részesül és 2011. december 31-én I. vagy II. csoportú rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult,
 
-lép.
+gc) rokkantsági ellátásban részesül, de nem tartozik a ga) és gb) alpont hatálya alá és a közgyógyellátásra való jogosultságát 2012. április 15-éig megállapították,
 
-3–4. §
+gd) az Mmtv. 31. §-ának alkalmazásával öregségi nyugdíjban részesül és 2011. december 31-én I. vagy II. csoportú rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult, vagy
+
+ge) öregségi nyugdíjban részesül, és a nyugdíjra való jogosultságának megállapítását megelőző napon a ga) vagy gb) alpont hatálya alá tartozott;”
+
+4. § Az Szt. a következő 140/N. §-sal egészül ki:
+
+„140/N. § (1) A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 2012. évi XXXIV. törvénnyel megállapított 50. § (1) bekezdés g) pontját a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 2012. évi XXXIV. törvénnyel megállapított 50. § (1) bekezdés g) pont gd) alpontja alapján közgyógyellátásra jogosult azon személy esetében, akinek
+
+a) a 2011. december 31-én fennállt közgyógyellátásra való jogosultságát 2011. december 31-ét követően arra tekintettel szüntették meg, vagy
+
+b) a közgyógyellátás megállapítása iránt benyújtott kérelmét 2011. december 31-ét követően arra tekintettel utasították el,
+
+hogy részére öregségi nyugdíjat állapítottak meg, a jogosultságot megszüntető vagy a kérelmet elutasító döntést a jegyző a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 2012. évi XXXIV. törvény hatálybalépését követő harminc napon belül hivatalból felülvizsgálja.”
 
 5. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba, és a kihirdetését követő hónap második napján hatályát veszti.
 
