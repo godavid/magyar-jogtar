@@ -148,6 +148,8 @@ a (2) bekezdés szerinti bírságalapot csökkenteni kell az a) pont szerinti es
 
 (3) Az átadott és átvett adatokat az (1) bekezdés szerinti szervek ellenőrzés céljából 5 évig kezelhetik.
 
+(4) A mezőgazdasági igazgatási szerv az általa e törvény alapján nyilvántartott adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
+
 11/A. § (1) A Nemzeti Adó- és Vámhivatal a bioüzemanyag előállítására alkalmas létesítmények adóraktári engedélyezésével, valamint adóraktári engedélyének megszűnésével kapcsolatos eljárásában összegyűjti az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek az Európai Bizottság részére való bejelentéséről és a 736/96/EK rendelet hatályon kívül helyezéséről szóló, 2010. június 24-i 617/2010/EU, Euratom európai tanácsi rendelet 5. cikk (3) bekezdése szerinti jelentéstételhez szükséges adatokat.
 
 (2) A Nemzeti Adó- és Vámhivatal az (1) bekezdés szerint összegyűjtött adatokat a Magyar Energia Hivatal részére továbbítja.

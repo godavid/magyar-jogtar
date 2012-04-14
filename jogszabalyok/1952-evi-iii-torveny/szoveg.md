@@ -855,11 +855,11 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 101. § (1) Ha a fél tartózkodási helye ismeretlen, vagy olyan államban van, amely a kézbesítéshez jogsegélyt nem nyújt, vagy ha a kézbesítés egyéb elháríthatatlan akadályba ütközik, illetőleg ha a kézbesítés megkísérlése már előre is eredménytelennek mutatkozik, továbbá a 100/A. § (4) bekezdésében meghatározott esetben a kézbesítést hirdetmény útján kell teljesíteni. Hirdetmény útján kell a kézbesítést teljesíteni az ismeretlen örökösök részére is.
 
-(2) Hirdetményi kézbesítést a bíróság – a 100/A. § (4) bekezdésében meghatározott eset kivételével – csak a fél kérelmére és csak az annak alapjául szolgáló ok valószínűsítése esetében rendelhet el. Ha az előadott tények valótlannak bizonyulnak, és a fél erről tudott, vagy kellő gondosság mellett tudhatott volna, a hirdetményi kézbesítés és az azt követő eljárás érvénytelen, a felet pedig a felmerült költségben és ezenfelül pénzbírságban (120. §) is el kell marasztalni. Ha az iratot a bíróság a 100/A. § szabályainak megsértésével kézbesítette hirdetményi úton, a hirdetményi kézbesítés és az azt követő eljárás érvénytelen. Ezeket a következményeket a bíróság az eljárást befejező határozat jogerőre emelkedését megelőzően – a felek meghallgatása után – hivatalból, egyébként pedig perorvoslat alapján mondja ki.
+(2) Hirdetményi kézbesítést a bíróság – a 100/A. § (4) bekezdésében és a 386/C. § (3) bekezdésben meghatározott eset kivételével – csak a fél kérelmére és csak az annak alapjául szolgáló ok valószínűsítése esetében rendelhet el. Ha az előadott tények valótlannak bizonyulnak, és a fél erről tudott, vagy kellő gondosság mellett tudhatott volna, a hirdetményi kézbesítés és az azt követő eljárás érvénytelen, a felet pedig a felmerült költségben és ezen felül pénzbírságban (120. §) is el kell marasztalni. Ha az iratot a bíróság a 100/A. § vagy a 386/C. § (3)–(5) bekezdése szabályainak megsértésével kézbesítette hirdetményi úton, a hirdetményi kézbesítés és az azt követő eljárás érvénytelen. Ezeket a következményeket a bíróság az eljárást befejező határozat jogerőre emelkedését megelőzően – a felek meghallgatása után – hivatalból, egyébként pedig perorvoslat alapján mondja ki.
 
 (3) Ha a hirdetményi kézbesítést követő eljárást – habár csak hallgatólagosan is – az ellenfél (aki részére az iratot hirdetmény útján kézbesítették) jóváhagyja, az eljárás nem válik érvénytelenné, a pénzbírságot azonban – a 100/A. § esetét ide nem értve – ilyen esetben is ki kell szabni, s a felet kötelezni kell a felmerült költségtöbblet megfizetésére.
 
-102. § (1) A hirdetmény útján kézbesítendő iratot tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára.
+102. § (1) A hirdetmény útján kézbesítendő iratot tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára, továbbá közzé kell tenni a bíróság honlapján és az erre a célra fenntartott központi honlapon.
 
 (2) Ha a fél olyan államban lakik, amely a kézbesítéshez jogsegélyt nem nyújt, de amellyel a postai forgalom fennáll, a hirdetményt – lehetőleg ajánlott levélként – a fél ottani címére is meg kell küldeni. Ha a hirdetményi kézbesítésre a 100/A. § (4) bekezdése alapján kerül sor, és a fél olyan államban lakik, amellyel a postai forgalom fennáll, a hirdetményt ajánlott levélként a fél ottani címére is meg kell küldeni.
 
@@ -3506,6 +3506,15 @@ alapított igény érvényesítése.
 
 - a) ha a szakértői bizonyítás következtében ennél hosszabb tárgyalási időköz szükséges, vagy
 - b) ha a személyes megjelenésre kötelezett fél részére a tárgyalásra szóló idézést külföldre kell kézbesíteni, és jogszabály kötelezően ennél hosszabb kézbesítési határidőt állapít meg.
+
+(3) Amennyiben a belföldi lakóhellyel nem rendelkező
+
+- a) felperes a keresetét szabályszerűen előterjesztette és a per első tárgyalásán megjelent vagy annak távollétében való megtartását kérte, vagy
+- b) alperes érdemi ellenkérelmét a 139. § szerint a per első tárgyalásán vagy azt megelőzően írásban előterjesztette, de kézbesítési megbízottat bármely okból nem állított vagy annak megbízatása megszűnt, és a peres fél a korábban megjelölt idézhető lakcíméről a folytatólagos tárgyalásra nem idézhető vagy az idézés szabályszerű kiküldése ellenére az idézés kiküldésétől számított 30 nap elteltével nem állapítható meg, hogy a fél idézése szabályszerűen megtörtént-e, úgy az iratot hirdetmény útján kell kézbesíteni.
+
+(4) A bíróság a (3) bekezdés szerinti esetben az ellenérdekű fél kérelmére a belföldi lakóhellyel nem rendelkező peres fél részére akkor is ügygondnokot rendel, ha az ügygondnok kirendelésének a 102. § (3) bekezdésében foglalt feltétele nem áll fenn. Ügygondnoknak csak jogi képviselet ellátására alkalmas személy jelölhető ki.
+
+(5) A (3) bekezdés irányadó a fél személyes meghallgatásra történő idézése esetén is.
 
 386/D. § A bíróság a 177. § szerint elrendelt szakértői bizonyítás során, a szakvélemény elkészítésére legfeljebb 30 napos, különösen bonyolult ügyekben legfeljebb 60 napos határidőt engedhet. A határidő különösen indokolt esetben egyszer és legfeljebb az eredetileg meghatározott napok számával meghosszabbítható, kizárólag a szakértő indokolt kérelmére.
 

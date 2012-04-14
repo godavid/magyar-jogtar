@@ -239,7 +239,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím), számlázási nevet, számlázási címet;
 - b) jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
 
-(7) A tenyésztési hatóság az általa nyilvántartott adatokból adatbázist hoz létre.
+(7) A tenyésztési hatóság az általa nyilvántartott adatokból adatbázist hoz létre. A tenyésztési hatóság a nyilvántartásában lévő adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
 (8) A tenyésztési hatóság közigazgatási eljárásban országos illetékességgel hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
@@ -262,6 +262,8 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - b) összehangolja az egyes elismert tenyésztő egyesület (szövetség) közös tevékenységét, igény esetén irányítja és végzi azok tevékenységét, továbbá kezeli a közös pénzügyi alapokat;
 - c) képviseli a magyar állattenyésztést hazai és a nemzetközi fórumokon;
 - d) ellátja a tenyésztési hatóság által – meghatározott feltételekkel – ráruházott feladatokat.
+
+(3) Az (1) és (2) bekezdésben foglalt tevékenységet kizárólag elismert vagy ideiglenesen elismert tenyésztő szervezet végezheti.
 
 ### Tenyésztő szervezetkénti elismerés
 
@@ -508,6 +510,9 @@ való megfelelést szolgálja.
 - b) a természetvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták körét, valamint a kijelölésük rendjét;
 - c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét.
 
-(2) Felhatalmazást kap a Kormány, hogy a tenyésztési hatóságot vagy hatóságokat rendeletben jelölje ki.
+(2) Felhatalmazást kap a Kormány, hogy
+
+- a) a tenyésztési hatóságot vagy hatóságokat rendeletben jelölje ki,
+- b) az e törvényben előírt nyilvántartások vonatkozásában az adatkezelést rendeletben szabályozza.
 
 ### Melléklet az 1993. évi CXIV. törvényhez

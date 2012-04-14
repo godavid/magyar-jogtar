@@ -43,7 +43,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - e) a 2103, 2104 VTSZ szám alá tartozó – gyermektápszernek, fogyasztásra kész levesnek vagy mártásnak nem minősülő – termék, ha sótartalma meghaladja az 5 gramm só/100 gramm mennyiséget (a továbbiakban: ételízesítő), kivéve a mustár, a ketchup és az olyan, nem szárított, aprított vagy pépesített, sózott ételízesítő zöldség készítményt, amelynek sótartalma nem haladja meg a 15 gramm só/100 gramm mennyiséget;
 - f) az a) pont hatálya alá nem tartozó olyan ital, amely sört és hozzáadott cukrot tartalmaz, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, feltéve, hogy a termék cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget (a továbbiakban: ízesített sör);
 - g) a 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt tartalmaz, feltéve, hogy a termék cukortartalma meghaladja az 5 gramm cukor/100 milliliter mennyiséget (a továbbiakban: alkoholos frissítő);
-- h) a 2007 VTSZ szám alá tartozó termék a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz).
+- h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz).
 
 3. § (1) Adókötelezettség terheli az adóköteles termék első olyan értékesítését, amelynek a teljesítési helye belföld.
 
