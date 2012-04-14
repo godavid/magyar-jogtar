@@ -936,7 +936,12 @@ tevődik össze.
 - d)
 - e) a központi szociális segélyben részesülő;
 - f) a rokkantsági járadékos;
-- g) az, aki rokkantsági ellátásban;
+- g) az, aki
+  - ga) rokkantsági ellátásban részesül és az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg a 30%-os mértéket,
+  - gb) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 30. § (4) bekezdés b) pont ba) alpontjának vagy 32. § (1) bekezdés a) pontjának alkalmazásával rokkantsági ellátásban részesül és 2011. december 31-én I. vagy II. csoportú rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult,
+  - gc) rokkantsági ellátásban részesül, de nem tartozik a ga) és gb) alpont hatálya alá és a közgyógyellátásra való jogosultságát 2012. április 15-éig megállapították,
+  - gd) az Mmtv. 31. §-ának alkalmazásával öregségi nyugdíjban részesül és 2011. december 31-én I. vagy II. csoportú rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult, vagy
+  - ge) öregségi nyugdíjban részesül, és a nyugdíjra való jogosultságának megállapítását megelőző napon a ga) vagy gb) alpont hatálya alá tartozott;
 - h) az aki, vagy aki után szülője vagy eltartója magasabb összegű családi pótlékban részesül.
 
 (2) Közgyógyellátásra jogosult az a személy is, akinek esetében a havi rendszeres gyógyító ellátásnak az egészségbiztosítási szerv által elismert térítési díja (a továbbiakban: rendszeres gyógyító ellátás költsége) az öregségi nyugdíj mindenkori legkisebb összegének a 10%-át meghaladja, feltéve, hogy a családjában az egy főre jutó havi jövedelem nem éri el az öregségi nyugdíj mindenkori legkisebb összegét, egyedül élő esetén 150%-át. A rendszeres gyógyító ellátás költségének számításánál az Eb. 23. §-ának b), d) és e) pontja alapján fizetendő térítési díjat nem kell figyelembe venni.
@@ -2888,6 +2893,13 @@ kell elvégezni.
 (2) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvénnyel megállapított 38. § (9) és (10) bekezdésének rendelkezései a normatív lakásfenntartási támogatás megállapítására a 132. § (4) bekezdés e) pontjában foglalt felhatalmazás alapján megalkotott önkormányzati rendelet hatálybalépését követően benyújtott kérelmek esetében alkalmazhatóak.
 
 140/M. § A 127/A. § (6) bekezdésének hatályon kívül helyezése alapján az egyházi kiegészítő támogatás megtérítése alóli mentesülésre akkor van lehetőség, ha 2012. január 1-jéig a fenntartóváltozásra, illetve az új szolgáltató, intézmény létrehozására tekintettel a működési engedély, illetve annak módosítása jogerőre emelkedett.
+
+140/N. § (1) A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 2012. évi XXXIV. törvénnyel megállapított 50. § (1) bekezdés g) pontját a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 2012. évi XXXIV. törvénnyel megállapított 50. § (1) bekezdés g) pont gd) alpontja alapján közgyógyellátásra jogosult azon személy esetében, akinek
+
+- a) a 2011. december 31-én fennállt közgyógyellátásra való jogosultságát 2011. december 31-ét követően arra tekintettel szüntették meg, vagy
+- b) a közgyógyellátás megállapítása iránt benyújtott kérelmét 2011. december 31-ét követően arra tekintettel utasították el, hogy részére öregségi nyugdíjat állapítottak meg, a jogosultságot megszüntető vagy a kérelmet elutasító döntést a jegyző a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 2012. évi XXXIV. törvény hatálybalépését követő harminc napon belül hivatalból felülvizsgálja.
 
 ### Az Európai Unió jogának való megfelelés
 
