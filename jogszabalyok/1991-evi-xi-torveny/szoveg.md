@@ -169,7 +169,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 13. § Az egészségügyi államigazgatási szerv
 
-- a) eljár a hatáskörébe tartozó szabálysértés esetén, ennek keretében helyszíni bírságot szabhat ki, egyéb szabálysértés miatt pedig az eljárásra illetékes szervnél feljelentést tehet;
+- a)
 - b) kisebb súlyú cselekmény (mulasztás) esetén a felelős személyt figyelmeztetésben részesítheti;
 - c) fegyelmi vétséget megvalósító magatartás felfedésekor kezdeményezheti a fegyelmi jogkör gyakorlójánál a fegyelmi eljárás lefolytatását;
 - d) bűncselekmény észlelése esetén feljelentést tesz az illetékes szervnél.
@@ -184,7 +184,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - f) a 4. § (5) bekezdés b) és d) pontja szerinti szakterületen az élelmezés- és táplálkozás-egészségügyi követelményekre,
 - g) az atomenergia alkalmazási körébe tartozó anyagok felhasználására, berendezések, létesítmények üzemeltetésére,
 - h) a fertőző betegségek és járványok megelőzése, illetve a járványveszély elhárítása érdekében szükséges járványügyi előírásokra,
-- i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre vonatkozó jogszabályi rendelkezésekben foglaltakat súlyosan vagy ismételten megsértették, egészségügyi bírságot szab ki.
+- i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
 
 (2) Egészségügyi bírság kiszabásának van helye abban az esetben is, ha az egészségügyi államigazgatási szerv egészségügyi igazgatási hatáskörében eljárva megállapítja, hogy
 
@@ -215,11 +215,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (11) Az egészségügyi államigazgatási szerv az egészségügyi bírságot kiszabó jogerős határozatot nyilvánosan közzéteszi. A közzétételre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi közlésre vonatkozó szabályait kell alkalmazni, azzal, hogy a határozatot kizárólag a hatóság elektronikus tájékoztatásra szolgáló honlapján kell közzétenni.
 
-13/B. § (1) Az egészségügyi bírság kiszabásának nincs helye, ha
-
-- a) a kötelességszegésnek (hiányosságnak, mulasztásnak) a hatóság tudomására jutásától számított 6 hónap eltelt,
-- b) a cselekmény elkövetésétől, vagy a jogsértő állapot fennállása esetén a jogszerű állapot helyreállításától számított egy év eltelt, vagy
-- c)
+13/B. § (1)
 
 (2) Az egészségügyi bírságot az azt kiszabó jogerős határozat közlésétől számított harmincadik napig meg kell fizetni.
 

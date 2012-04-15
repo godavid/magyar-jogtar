@@ -201,7 +201,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (2) A megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagja a következők szerint végezheti:
 
-- a) polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértést [a szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) 140. §], valótlan bejelentés szabálysértést [Sztv. 153. §], vámszabálysértést [Sztv. 158. §], vámszabálysértés elkövetőjének segítése szabálysértést [Sztv. 160. §], vámorgazdaság szabálysértést [Sztv. 161. §], tűzvédelmi szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti jelzéssel kapcsolatos szabálytalanság szabálysértést, érvényes gépjármű-felelősségbiztosítási szerződés nélküli vezetés szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, hajózási szabályok megszegése szabálysértést, valamint olyan közlekedési szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
+- a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, valamint olyan közlekedési szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
 - b) nem követhet el a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) X. fejezetében, XI. fejezetében, XII. fejezetében – a magánlaksértés [Btk. 176. §] kivételével –, XIII. fejezetében, XIV. fejezetében, XV. fejezetében – a hivatali visszaélés [Btk. 225. §], a hamis vád [Btk. 233. §], a hatóság félrevezetése [Btk. 237. §], valamint a III. címben és a VII. címben foglaltak kivételével –, XVI. fejezetében – a III. címben foglaltak kivételével –, XVII. fejezetében – az áru hamis megjelölése [Btk. 296. §], valamint a III. címben foglaltak kivételével –, XVIII. fejezetében – a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [Btk. 329/A. §] kivételével –, XIX. fejezetében és XX. fejezetében felsorolt bűncselekményeket,
 - c) elkövetheti a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 114. §-ában jövedéki bírság kiszabásával szankcionált cselekményt.
 
@@ -1220,7 +1220,7 @@ kezeli.
 - r) az ingatlan-nyilvántartásból,
 - s) az egyéni vállalkozói igazolvánnyal rendelkező vállalkozók nyilvántartásából,
 - t) a közjegyzői zálogjogi nyilvántartásból,
-- u) a központi szabálysértési nyilvántartásból.
+- u) a szabálysértési nyilvántartásból.
 
 (3) Az általános munkarend korlátaitól függetlenül kérhető adat a (2) bekezdés a), d), i), j), k) és m) pontjaiban felsorolt nyilvántartásokból, a közúti közlekedési nyilvántartások közül az engedély-nyilvántartásból és a járműnyilvántartásból, valamint a bűnügyi nyilvántartások közül a bűntettesek nyilvántartásából. Az adatkéréseket hiányos és töredékadatok esetén is teljesíteni kell.
 
@@ -1608,7 +1608,9 @@ részére.
 - d) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a határátlépés ellenőrzésének szabályait a nemzetközi forgalom számára ideiglenesen megnyitott repülőtéren,
 - e) az államháztartásért felelős miniszter és az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a végrehajtási eljárásban ellenszegülés megszüntetése érdekében történő rendőri közreműködéssel, valamint a gyermek átadására irányuló bírósági végrehajtás során szükséges előállítással kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait.
 
-(3) A titkos információgyűjtés eszközei, módszerei alkalmazásának részletes szabályait a miniszter utasításban állapítja meg.
+(3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei alkalmazásának részletes szabályait a miniszter utasításban állapítja meg.
+
+(4) A terrorizmust elhárító szerv főigazgatója a miniszter jóváhagyásával utasításban meghatározza a 7/E. § (3) bekezdése szerinti titkos információgyűjtés belső eljárási és engedélyezési szabályait.
 
 102. §
 

@@ -103,7 +103,7 @@ a lőfegyverekről és lőszerekről
   - bd) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
   - be) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
 - c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig,
-- d) szabálysértési felelősségét polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel, lőfegyverrel, közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, rendzavarás, sportrendezvény rendjének megbontása, számszeríj vagy szigonypuska jogellenes használata, veszélyes fenyegetés, jogosulatlan vadászat vagy természetvédelmi szabálysértés elkövetése miatt a szabálysértési hatóság jogerősen megállapította, a határozat jogerőre emelkedését követő két évig,
+- d) szabálysértési felelősségét polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel, lőfegyverrel, közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, rendzavarás, számszeríj vagy szigonypuska jogellenes használata, veszélyes fenyegetés, jogosulatlan vadászat vagy természetvédelmi szabálysértés elkövetése miatt a szabálysértési hatóság jogerősen megállapította, a határozat jogerőre emelkedését követő két évig,
 - e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a kérelemmel összefüggő valós adatot elhallgat vagy a fegyverre, lőszerre (töltényre) lőszerelemre, lőtérre vonatkozó, jogszabályban meghatározott kötelezettségét megszegi, a kérelem benyújtását vagy – ha ezen ok miatt az engedély visszavonása iránt eljárás indul – az engedélyt visszavonó határozat jogerőre emelkedését követő két évig.
 
 (3) Az engedély kiadására és meghosszabbítására irányuló eljárásban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele szemben a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn.
@@ -111,7 +111,7 @@ a lőfegyverekről és lőszerekről
 (4) A rendőrség hatósági ellenőrzése során a (2) bekezdésben meghatározott körülmények fennállását legalább évente egy alkalommal vizsgálja. A hatósági ellenőrzés során a rendőrség
 
 - a) a (2) bekezdés a)–c) pontjában meghatározott körülmény vizsgálata céljából a bűnügyi nyilvántartási rendszerről szóló törvényben meghatározottak szerinti közvetlen adathozzáférési jogosultsága útján a (2) bekezdés a)–c) pontjában,
-- b) a (2) bekezdés d) pontjában meghatározott körülmény vizsgálata céljából a központi szabálysértési nyilvántartásból a (2) bekezdés d) pontjában meghatározott körülményre vonatkozó adatokat átveszi és kezeli.
+- b) a (2) bekezdés d) pontjában meghatározott körülmény vizsgálata céljából a szabálysértési nyilvántartásból a (2) bekezdés d) pontjában meghatározott körülményre vonatkozó adatokat átveszi és kezeli.
 
 (5) A (3) és (4) bekezdésben foglaltak alapján megismert személyes adatokat a rendőrség
 
@@ -320,13 +320,13 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 
 18/D. § (1) Polgári célú pirotechnikai tevékenység nem engedélyezhető annak
 
-- a) a vállalkozásnak, amelynek tagja, tulajdonosa, vezető tisztségviselője büntetett előéletű, vagy a szabálysértésekről szóló törvényben vagy kormányrendeletben meghatározott, a polgári célú pirotechnikai tevékenységgel, illetve a polgári célú pirotechnikai termékkel összefüggő szabálysértés elkövetése miatt két éven belül ismételten elmarasztalták, az elmarasztaló döntésre vonatkozó adatnak a központi szabálysértési nyilvántartásból történt törléséig,
+- a) a vállalkozásnak, amelynek tagja, tulajdonosa, vezető tisztségviselője büntetett előéletű, vagy a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott, a polgári célú pirotechnikai tevékenységgel, illetve a polgári célú pirotechnikai termékkel összefüggő szabálysértés elkövetése miatt két éven belül ismételten elmarasztalták, az elmarasztaló döntésre vonatkozó adatnak a központi szabálysértési nyilvántartásból történt törléséig,
 - b) a vállalkozásnak, amelynek tagja vagy tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg,
 - c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a robbanóanyaggal vagy pirotechnikai termékkel kapcsolatos tevékenység gyakorlásától eltiltott.
 
 (2) Nem foglalkoztatható pirotechnikusként, valamint nem gyakorolhat polgári célú pirotechnikai tevékenységet, továbbá nem végezheti polgári célú pirotechnikai tevékenység irányítását az, aki
 
-- a) büntetett előéletű, vagy a szabálysértésekről szóló törvényben vagy kormányrendeletben meghatározott, a polgári célú pirotechnikai tevékenységgel, illetve a polgári célú pirotechnikai termékkel összefüggő szabálysértés elkövetése miatt két éven belül ismételten elmarasztalták, az elmarasztaló döntésre vonatkozó adatnak a központi szabálysértési nyilvántartásból történt törléséig,
+- a) büntetett előéletű, vagy a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott, a polgári célú pirotechnikai tevékenységgel, illetve a polgári célú pirotechnikai termékkel összefüggő szabálysértés elkövetése miatt két éven belül ismételten elmarasztalták, az elmarasztaló döntésre vonatkozó adatnak a központi szabálysértési nyilvántartásból történt törléséig,
 - b) büntetlen előéletű, de büntetőjogi felelősségét a bíróság jogerősen megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. fejezetében meghatározott állam elleni bűncselekmény, XI. fejezetében meghatározott emberiség elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, a 170. § (2)–(6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, személyi szabadság megsértése, emberrablás, emberkereskedelem, a 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, erőszakos közösülés, szemérem elleni erőszak, a 207. § (3) bekezdés b) pontja szerinti kerítés, embercsempészés, V. címében meghatározott hivatalos személy elleni bűncselekmények, a 259. § (1)–(3) bekezdés szerinti közveszélyokozás, közérdekű üzem működésének megzavarása, terrorcselekmény, a 261/A. § (3) bekezdése szerinti nemzetközi gazdasági tilalom megszegése, légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, bűnszervezetben részvétel, visszaélés radioaktív anyaggal, visszaélés nukleáris létesítmény üzemeltetésével, visszaélés atomenergia alkalmazásával, visszaélés nemzetközi szerződés által tiltott fegyverrel, tiltott állatviadal szervezése, állatkínzás, önbíráskodás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, a 292. § (1) és (3) bekezdése, valamint a 293. § szerinti rossz minőségű termék forgalomba hozatala, a XVIII. Fejezetben meghatározott, szándékosan elkövetett vagyon elleni bűncselekmény, vagy a XX. Fejezetben meghatározott katonai bűntett elkövetése vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
   - ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított hét évig,
   - bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított öt évig,
@@ -353,7 +353,7 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 
 (4)
 
-(5) Ha a vállalkozással szemben mind a felügyeleti bírság, mind a szabálysértésekről szóló törvény szerint minősülő polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértés miatti bírság kiszabásának feltételei fennállnak, kizárólag a felügyeleti bírság megállapítására irányuló eljárásnak van helye.
+(5)
 
 (6) Nincs helye felügyeleti bírság kiszabásának, ha a cselekmény elkövetése vagy a folyamatos jogsértő magatartás befejezése óta két év eltelt.
 

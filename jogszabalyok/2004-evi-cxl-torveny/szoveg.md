@@ -1745,7 +1745,7 @@ teljesíti.
 
 (5) Az (1) bekezdés c) pontja alapján megkeresett szerv a megkeresést érdemben – közigazgatási hatóság esetén az (1) bekezdés alkalmazásával – megvizsgálja, és saját intézkedéséről vagy az ilyen intézkedés mellőzésének okáról a megkereső hatóságot harminc napon belül tájékoztatja.
 
-### VI/A. Fejezet — KÖZIGAZGATÁSI BÍRSÁG KISZABÁSÁNAK ELJÁRÁSJOGI ALAPJAI
+### VI/A. Fejezet — A közigazgatási bírság, a helyszíni bírság és az elkobzás alkalmazásának eljárásjogi alapjai
 
 94/A. § (1) Ha jogszabály bírság kiszabását teszi lehetővé – ide nem értve a 61. § szerinti eljárási bírságot –, a hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – jogszabály eltérő rendelkezése hiányában – mérlegeli különösen:
 
@@ -1766,6 +1766,31 @@ teljesíti.
 
 - a) a 94. § (1) bekezdés a) pontja szerinti végzés jogerőre emelkedésének napján,
 - b) ha a közigazgatási ügyekben eljáró bíróság a hatóságot új eljárás lefolytatására kötelezi.
+
+(4) Ha törvény vagy önkormányzati rendelet lehetővé teszi, azoknál a jogsértéseknél, amelyek esetében közigazgatási bírság kiszabásának van helye, – a 94. §-ban foglalt előírások keretei között – a hatóság helyszíni bírságot szabhat ki, ha a helyszíni intézkedés alkalmával az ügyfél a jogsértést teljes mértékben elismeri.
+
+(5) A helyszíni bírság kiszabását megelőzően az ügyfelet tájékoztatni kell a (6)–(8) bekezdésben foglalt körülményekről, valamint szükség esetén a hatóság által megállapítható bizonyítékok köréről, továbbá a helyszíni bírság meg nem fizetése esetén alkalmazandó jogkövetkezményekről.
+
+(6) Ha az ügyfél a jogsértést elismeri, a helyszíni bírság ellen nincs helye jogorvoslatnak.
+
+(7) Az ügyfél elismerése esetén a helyszíni bírság kiszabásáról szóló döntést a hatóság a helyszínen közli az ügyféllel. A döntés indokolásában elegendő az ügyfélnek a jogsértés elismeréséről szóló írásbeli nyilatkozatát rögzíteni az ügyfél aláírásával együtt.
+
+(8) Ha az ügyfél a jogsértést nem ismeri el, a hatóság köteles hivatalból megindítani a hatáskörébe tartozó eljárást és erről az ügyfelet a helyszínen értesíti a 29. § (5) bekezdésében meghatározott, rendelkezésre álló adatok közlésével.
+
+94/B. § (1) Ha törvény vagy önkormányzati rendelet lehetővé teszi, a hatóság elkobozza azt a dolgot,
+
+- a) amelyet a jogsértés elkövetéséhez eszközül használtak vagy arra szántak,
+- b) amelynek birtoklása jogszabályba ütközik, vagy amely veszélyezteti a közbiztonságot,
+- c) amely jogsértés elkövetése útján jött létre,
+- d) amelyre a jogsértést elkövették, vagy amelyet a jogsértés befejezését követően e dolog elszállítása céljából használtak,
+- e) amelyet a jogsértő a jogsértés elkövetéséért a tulajdonostól vagy annak hozzájárulásával mástól kapott.
+
+(2) Ha törvény vagy önkormányzati rendelet eltérően nem rendelkezik, az (1) bekezdés a) és d) pontja esetében
+
+- a) az elkobzást nem lehet elrendelni, ha a dolog nem a jogsértő tulajdona, kivéve, ha a tulajdonos a jogsértésről előzetesen tudott és a dolog ilyen célú használatába beleegyezett,
+- b) az elkobzás kivételesen mellőzhető, ha az a jogsértőre vagy a dolog tulajdonosára a jogsértés súlyával arányban nem álló, méltánytalan hátrányt jelentene.
+
+(3) Ha törvény vagy önkormányzati rendelet eltérően nem rendelkezik, az elkobzott dolog tulajdonjoga az államra száll.
 
 ### VII. Fejezet — Jogorvoslat és döntés-felülvizsgálat
 
@@ -1828,9 +1853,10 @@ teljesíti.
 - c) jogszabály eltérő rendelkezése hiányában valamely adatnak, ténynek vagy jogosultságnak a hatósági nyilvántartásba hivatalbóli, mérlegelés nélküli bejegyzésével szemben,
 - d) ha az elsőfokú döntést miniszter, autonóm államigazgatási szerv, önálló szabályozó szerv vagy kormányhivatal vezetője hozta,
 - e) törvény vagy kormányrendelet eltérő rendelkezése hiányában, ha az első fokú döntést központi államigazgatási szerv vezetője hozta,
-- f) a képviselő-testület önkormányzati hatósági ügyben hozott határozata ellen.
+- f) a képviselő-testület önkormányzati hatósági ügyben hozott határozata ellen,
+- g) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 51. § (4) bekezdésében meghatározott közigazgatási bírság kiszabásával kapcsolatos eljárásokban az átruházott hatáskörben hozott határozatok ellen.
 
-(2) Az (1) bekezdés a), c)–f) pontjában meghatározott esetben az első fokú döntés bírósági felülvizsgálatának van helye.
+(2) Az (1) bekezdés a), c)–g) pontjában meghatározott esetben az első fokú döntés bírósági felülvizsgálatának van helye.
 
 101. § (1) A fellebbezéssel megtámadott döntésben foglalt jogok nem gyakorolhatók és a fellebbezésnek a döntés végrehajtására halasztó hatálya van, kivéve, ha a döntés e törvény alapján fellebbezésre tekintet nélkül végrehajtható, vagy a hatóság nyilvánította a döntést a fellebbezés halasztó hatályának kizárásával végrehajthatónak.
 
@@ -2130,6 +2156,18 @@ teljesíti.
 
 131. § (1) Ha a végrehajtás nem vezetett vagy aránytalanul hosszú idő múlva vezetne eredményre, a kötelezett bármely lefoglalható vagyontárgya végrehajtás alá vonható. Elsősorban az a vagyontárgy vonható végrehajtás alá, amelyre biztosítási intézkedést rendeltek el.
 
+(1a) Ha a pénzfizetési kötelezettség olyan közigazgatási bírság, melyet a helyi önkormányzat képviselő-testülete által önkormányzati rendeletben meghatározott tiltott, közösségellenes magatartás természetes személy elkövetőjével szemben szabtak ki, akkor a közigazgatási bírságot kiszabó hatóság a 131. § (1) bekezdésében foglaltak alkalmazása helyett a meg nem fizetett közigazgatási bírság közérdekű munkával történő megváltásáról rendelkezhet. A meg nem fizetett közigazgatási bírság helyébe ötezer forintonként hat óra közérdekű munkát kell meghatározni. A meg nem fizetett közigazgatási bírságnak ötezerrel nem osztható részét nem kell figyelembe venni.
+
+(1b) A kötelezettet a megváltás elrendelése előtt előzetesen nyilatkoztatni kell arról, hogy hozzájárul-e a meg nem fizetett közigazgatási bírság közérdekű munkával történő megváltásához. Az előzetes hozzájárulás megtagadása kizárja a meg nem fizetett közigazgatási bírság közérdekű munkával történő megváltásának elrendelését.
+
+(1c) Nincs helye a meg nem fizetett közigazgatási bírság közérdekű munkával történő megváltásának, ha a kötelezett
+
+- a) a megváltásról szóló határozat meghozatalakor nem töltötte be a tizennyolcadik életévét,
+- b) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogyatékos személy, illetve kórházi fekvőbeteg ellátásban részesülő személy,
+- c) a várandósság negyedik hónapját elérő nő, tizennegyedik életévét be nem töltött gyermekét egyedül nevelő szülő vagy fogyatékos személy, illetve aki folyamatos ápolást, felügyeletet, illetve kiszolgálást igénylő hozzátartozójáról egyedül gondoskodik.
+
+(1d) A meg nem fizetett közigazgatási bírság helyébe lépő közérdekű munka végrehajtásáról az állami foglalkoztatási szerv gondoskodik.
+
 (2) Ingatlan-végrehajtásnak akkor van helye, ha a követelés összege az ötszázezer forintot meghaladja, illetve ennél kisebb összeg esetén, ha a tartozás a végrehajtás alá vont ingatlan értékével arányban áll.
 
 (3) A jogszabályban meghatározott lakásigény mértékének felső határát meg nem haladó nagyságú, a kötelezett és a vele együtt élő közeli hozzátartozók lakhatását közvetlenül szolgáló lakástulajdon a végrehajtás során csak akkor értékesíthető, ha a végrehajtás más formái nem vezettek eredményre.
@@ -2227,8 +2265,9 @@ teljesíti.
 - e) a további végrehajtási eljárási cselekményektől eredmény nem várható,
 - f) a végrehajtást foganatosító szerv a pénzkövetelést a pénzforgalmi szolgáltatóra vagy a munkáltatóra vonatkozó felelősségi szabály alapján vagy a kötelezett tartozásaiért jogszabály alapján helytállásra kötelezettel szemben érvényesítette,
 - g) a hatóság a jogutódlásra tekintettel a teljesítési határidőt a végrehajtás megindítását követően meghosszabbította,
-- h) a végrehajtást foganatosító szerv a kötelezettel szemben felszámolási eljárást kezdeményezett, illetve a kötelezett ellen felszámolási eljárás indult, vagy
-- i) törvény vagy kormányrendelet a végrehajtás megszüntetését egyéb okból lehetővé teszi.
+- h) a végrehajtást foganatosító szerv a kötelezettel szemben felszámolási eljárást kezdeményezett, illetve a kötelezett ellen felszámolási eljárás indult,
+- i) a meg nem fizetett közigazgatási bírság közérdekű munkával történő megváltását elrendelő határozatban foglaltaknak eleget tett, vagy
+- j) törvény vagy kormányrendelet a végrehajtás megszüntetését egyéb okból lehetővé teszi.
 
 (2) A végrehajtást foganatosító szerv a tudomására jutott megszüntetési okokról és a végrehajtás befejezéséről a végrehajtást megindító hatóságot értesíti.
 

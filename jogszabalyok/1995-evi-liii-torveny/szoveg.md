@@ -1225,7 +1225,7 @@ A KÖRNYEZETVÉDELEMBEN
 
 ### A jogi felelősség általános alapja
 
-101. § (1) A környezethasználó az e törvényben meghatározott és más jogszabályokban szabályozott módon büntetőjogi, szabálysértési jogi, polgári jogi és közigazgatási jogi felelősséggel tartozik tevékenységének a környezetre gyakorolt hatásaiért.
+101. § (1) A környezethasználó az e törvényben meghatározott és más jogszabályokban szabályozott módon büntetőjogi, polgári jogi és közigazgatási jogi felelősséggel tartozik tevékenységének a környezetre gyakorolt hatásaiért.
 
 (2) A környezethasználó köteles
 
@@ -1325,7 +1325,7 @@ A KÖRNYEZETVÉDELEMBEN
 - a) a pénzbeli teljesítés nem vagy csak részben lehetséges és
 - b) arra a követelés összegét meghaladó vagyoni hátrány megakadályozása érdekében vagy kiemelt nemzetgazdasági érdekből kerül sor.
 
-107. § A környezetvédelmi bírság nem mentesít a büntetőjogi, a szabálysértési, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a megfelelő védekezés kialakítására, a természetes vagy korábbi környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
+107. § A környezetvédelmi bírság nem mentesít a büntetőjogi, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a megfelelő védekezés kialakítására, a természetes vagy korábbi környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
 
 ### Környezetvédelmi megbízott
 

@@ -810,7 +810,7 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 - a) akit a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vontak, a határozat jogerőre emelkedésétől számított három évig,
 - b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat jogerőre emelkedésétől számított három évig.
 
-(7) A polgári természetőr megbízatásának időtartama alatt a természetvédelmi hatóság ellenőrizheti azt is, hogy a polgári természetőrrel szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok. A természetvédelmi hatóság az ellenőrzés céljából adatot igényelhet a központi szabálysértési nyilvántartásból. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosulttal szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok.
+(7) A polgári természetőr megbízatásának időtartama alatt a természetvédelmi hatóság ellenőrizheti azt is, hogy a polgári természetőrrel szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok. A természetvédelmi hatóság az ellenőrzés céljából adatot igényelhet a szabálysértési nyilvántartásból. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosulttal szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok.
 
 (8) Az igazgatóság vagy a települési önkormányzat a (4) bekezdés alapján megismert adatokat a polgári természetőr megbízásáról meghozott döntésig, az (5) és a (7) bekezdés alapján megismert személyes adatokat a polgári természetőr megbízatása megszűnéséig kezeli.
 
@@ -971,7 +971,7 @@ a kárviselésre vonatkozó szabályok
 
 (5) Az (1) bekezdésben meghatározott tevékenység gyakorlásának időtartama alatt a természetvédelmi hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy a jogosulttal szemben fennáll-e a (2) bekezdésben meghatározott kizáró ok. A hatósági ellenőrzést folytató természetvédelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosulttal szemben fennáll-e a (2) bekezdésben meghatározott kizáró ok.
 
-(6) Az (1) bekezdésben meghatározott tevékenység időtartama alatt a természetvédelmi hatóság ellenőrizheti azt is, hogy a tevékenységet gyakorló személlyel szemben fennáll-e a (3) bekezdés a) pontjában meghatározott kizáró ok. A természetvédelmi hatóság az ellenőrzés céljából adatot igényelhet a központi szabálysértési nyilvántartásból. Az adatigénylés kizárólag azon adatra irányulhat, hogy a tevékenységet gyakorló személlyel szemben fennáll-e a (3) bekezdés a) pontjában meghatározott kizáró ok.
+(6) Az (1) bekezdésben meghatározott tevékenység időtartama alatt a természetvédelmi hatóság ellenőrizheti azt is, hogy a tevékenységet gyakorló személlyel szemben fennáll-e a (3) bekezdés a) pontjában meghatározott kizáró ok. A természetvédelmi hatóság az ellenőrzés céljából adatot igényelhet a szabálysértési nyilvántartásból. Az adatigénylés kizárólag azon adatra irányulhat, hogy a tevékenységet gyakorló személlyel szemben fennáll-e a (3) bekezdés a) pontjában meghatározott kizáró ok.
 
 (7) A (4)–(6) bekezdés alapján megismert személyes adatokat a természetvédelmi hatóság
 
@@ -1009,7 +1009,7 @@ természetvédelmi bírságot köteles fizetni.
 - a)
 - b) a helyi védett természeti terület esetében szabták ki, akkor az önkormányzat környezetvédelmi alapja, vagy annak természetvédelmi célokat szolgáló részének [62. § (3) bekezdés] bevételi forrása. Ha a települési önkormányzat nem rendelkezik környezetvédelmi alappal, akkor a b) pontban foglalt bevétel is a központi költségvetés bevétele.
 
-(5) A természetvédelmi bírság nem mentesít a büntetőjogi, a szabálysértési, a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, továbbá a helyreállításra vonatkozó kötelezettség teljesítése alól.
+(5) A természetvédelmi bírság nem mentesít a büntetőjogi, a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, továbbá a helyreállításra vonatkozó kötelezettség teljesítése alól.
 
 (6) A természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját a Kormány állapítja meg.
 

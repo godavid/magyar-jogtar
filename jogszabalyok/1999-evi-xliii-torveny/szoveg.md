@@ -433,7 +433,7 @@ csak engedélyezett telephelyen végezheti.
 - d) a sírhely méretezését, sírjelek alkalmazását, a kegyeleti tárgyak, növényzet elhelyezését, a sírgondozás szabályait;
 - e) temetőben a kegyeleti közszolgáltatások feltételeit, a temetési hely megváltási díját, a temetőfenntartási hozzájárulás díját, illetve a létesítmények vállalkozók részéről történő igénybevételének díját;
 - f) a temetési szolgáltatás, illetőleg a temetőben végzett egyéb vállalkozói tevékenységek ellátásának temetői rendjét;
-- g) a szabálysértés eseteit és az eljáró önkormányzati szabálysértési hatóságot.
+- g)
 
 41/A. § Felhatalmazást kap a Kormány, hogy a temetkezési szolgáltatásokat engedélyező hatóságot rendeletben jelölje ki.
 

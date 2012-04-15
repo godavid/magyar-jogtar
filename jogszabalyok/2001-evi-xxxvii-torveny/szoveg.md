@@ -222,7 +222,7 @@ foglaltakat kell alkalmazni.
 
 (3) A Testület a tankönyvkiadás és a tankönyvforgalmazás során elvárható piaci magatartást – e törvény és a jogszabályok keretei között – a Tankönyvkiadás és Tankönyvforgalmazás Etikai Szabályzatában (a továbbiakban: etikai szabályzat) határozza meg. A Testület az etikai szabályzat előírásainak megszegőivel szemben etikai eljárást folytat le. Az etikai szabályzat az oktatásért felelős miniszter jóváhagyásával válik érvényessé. Az etikai szabályzatot a minisztérium hivatalos lapjában közzé kell tenni.
 
-(4) A Testület – jogszabályban, az etikai és más szabályzatában meghatározott keretek között – ellenőrzi a tankönyvkiadók és tankönyvforgalmazók tevékenységét, figyelemmel kíséri a közbeszerzésre vonatkozó rendelkezések megtartását, az előírt adatszolgáltatási kötelezettség teljesítését, indokolt esetben etikai eljárást folytat le, illetve büntető-, szabálysértési, államigazgatási, versenyfelügyeleti, polgári peres eljárást kezdeményez.
+(4) A Testület – jogszabályban, az etikai és más szabályzatában meghatározott keretek között – ellenőrzi a tankönyvkiadók és tankönyvforgalmazók tevékenységét, figyelemmel kíséri a közbeszerzésre vonatkozó rendelkezések megtartását, az előírt adatszolgáltatási kötelezettség teljesítését, indokolt esetben etikai eljárást folytat le, illetve büntető-,, államigazgatási, versenyfelügyeleti, polgári peres eljárást kezdeményez.
 
 (5) A Testület a tankönyvkiadással és tankönyvforgalmazással összefüggő vitás ügyek eldöntésére eseti választottbíróságot hoz létre.
 

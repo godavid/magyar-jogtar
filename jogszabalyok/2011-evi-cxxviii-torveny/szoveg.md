@@ -57,8 +57,9 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
   - a) veszélyes anyaggal kapcsolatos tűz,
   - b) veszélyes anyaggal kapcsolatos robbanás,
   - c) mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása,
-  - d) oxidáló, tűz- vagy környezetre veszélyes tulajdonságú veszélyes anyag kikerülése legalább 1 m3 mennyiségben,
-  - e) veszélyes anyagokkal foglalkozó létesítmény leállítása.
+  - d) oxidáló, tűz- vagy környezetre veszélyes tulajdonságú folyadék halmazállapotú veszélyes anyag kikerülése legalább 1000 kg mennyiségben,
+  - e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-át elérő mennyiségben,
+  - f) veszélyes anyagokkal foglalkozó létesítmény leállítása.
 - 31. Veszélyes tevékenység: olyan ipari, biológiai (mezőgazdasági), kémiai eljárások felhasználásával végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
 - 32. Veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes anyagokkal foglalkozó üzem környezetében a hatóság által kijelölt, az egyéni sérülés kockázatához igazodó terület.
 - 33. Védendő adat: az üzemeltető által meghatározott üzleti titok és az üzem külső támadás elleni biztonságára vonatkozó lényeges adat.
@@ -107,7 +108,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 #### 5. Kormányzati koordináció
 
-7. § A Kormány a katasztrófavédelemmel összefüggő döntéseinek előkészítése és a védekezéssel kapcsolatos feladatok ágazati összehangolása és irányítása érdekében kormányzati koordinációs szervet (a továbbiakban: kormányzati koordinációs szerv) működtet.
+7. § A Kormány a katasztrófavédelemmel összefüggő döntéseinek előkészítése, valamint a katasztrófák elleni felkészüléssel, megelőzéssel, védekezéssel és helyreállítással kapcsolatos feladatok összehangolt megoldása érdekében kormányzati koordinációs szervet (a továbbiakban: kormányzati koordinációs szerv) működtet.
 
 #### 6. A katasztrófák elleni védekezésért felelős miniszter feladatai
 
@@ -331,7 +332,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 ### IV. Fejezet — VESZÉLYES ANYAGOKKAL KAPCSOLATOS SÚLYOS BALESETEK ELLENI VÉDEKEZÉS
 
-25. § (1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak a hivatásos katasztrófavédelmi szerv központi szerve (a IV. fejezet alkalmazásában: hatóság) katasztrófavédelmi engedélye alapján adható. Veszélyes tevékenység kizárólag a hatóság katasztrófavédelmi engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges katasztrófavédelmi engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentés vagy biztonsági elemzés két példányát.
+25. § (1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak a hivatásos katasztrófavédelmi szerv (a IV. fejezet alkalmazásában: hatóság) katasztrófavédelmi engedélye alapján adható. Veszélyes tevékenység kizárólag a hatóság katasztrófavédelmi engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges katasztrófavédelmi engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentés vagy biztonsági elemzés két példányát.
 
 (2) Amennyiben a biztonsági jelentés vagy biztonsági elemzés védendő adatot tartalmaz, az üzemeltető egyidejűleg a nyilvánosságra hozható, védendő adatot nem tartalmazó biztonsági jelentést vagy biztonsági elemzést is köteles a hatóság részére benyújtani.
 
@@ -339,7 +340,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 (4) A hatóság a IV. fejezet hatálya alá tartozás megállapítása céljából bármely gazdálkodó szervezetet adatszolgáltatásra kötelezhet és annak telephelyén hatósági ellenőrzést tarthat.
 
-(5) A IV. fejezet hatálya alá tartozó hatósági ügyekben hozott határozat felügyeleti jogkörben nem változtatható meg, és nem semmisíthető meg.
+(5)
 
 26. § (1) Ha a hatóság hatáskörébe tartozó eljárásban benyújtott biztonsági jelentés vagy biztonsági elemzés nem felel meg a jogszabályban meghatározott követelményeknek, annak a hatósághoz történő beérkezésétől számított negyvenöt napon belül a hatóság hiánypótlásra hívja fel az üzemeltetőt.
 
@@ -377,7 +378,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 32. § (1) A veszélyes anyagokkal foglalkozó üzem biztonsági jelentésében vagy a hatóság döntése alapján a biztonsági elemzésében bemutatott veszélyeztető hatások elleni védekezés érdekében a veszélyeztetett településeken külső védelmi tervet kell készíteni.
 
-(2) A külső védelmi terveket a hivatásos katasztrófavédelmi szerv területi szerve a veszélyeztetett települések polgármestereinek közreműködésével készíti el. A külső védelmi tervek tartalmi követelményeit és elkészítésének határidejét külön jogszabály állapítja meg. A külső védelmi tervek elkészítésének és gyakoroltatásának költségeit a hivatásos katasztrófavédelmi szerv központi szerve saját költségvetése terhére biztosítja.
+(2) A külső védelmi tervet a hatóság helyi szerve a veszélyeztetett települések polgármestereinek közreműködésével készíti el. A külső védelmi tervek tartalmi követelményeit és elkészítésének határidejét külön jogszabály állapítja meg. A külső védelmi tervek elkészítésének és gyakoroltatásának költségeit a hatóság központi szerve saját költségvetése terhére biztosítja.
 
 (3) A hatóság külön jogszabályban meghatározottak szerint végzi a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésére és elhárítására, valamint a bekövetkezett veszélyes anyagokkal kapcsolatos súlyos balesetek kivizsgálására vonatkozó műszaki, szervezési és vezetési információk gyűjtését, értékelését és készíti a nemzeti jelentéseket.
 
@@ -977,7 +978,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 - d) az üzemeltetőnek és a gazdálkodó szervezetnek, ha a tárgyévet megelőző évben az éves nettó árbevétele az 50 millió forintot nem haladja meg,
 - e) az atomenergiáról szóló 1996. évi CXVI. törvény szerinti nukleáris létesítménynek és radioaktívhulladék-tárolónak.
 
-(3) A katasztrófavédelmi hozzájárulás összege az (1) bekezdés a) pontjában meghatározott üzemeltetők esetében a veszélyes tevékenységgel összefüggésben keletkezett – a jövedéki adó és az energiaadó összegével csökkentett – éves nettó árbevételének 0,1%-a.
+(3) A katasztrófavédelmi hozzájárulás összege az (1) bekezdés a) pontjában meghatározott üzemeltetők esetében a veszélyes tevékenységgel összefüggésben keletkezett – a jövedéki adó és az energiaadó összegével csökkentett – éves nettó árbevételének 0,1%-a. Ha az üzemeltető termék előállításával foglalkozik és a veszélyes anyag a termékkel annak előállítása és tárolása során közvetlenül nem érintkezik, vagy a veszélyes anyag felhasználása nem közvetlenül a termék előállításához szükséges, hozzájárulás-fizetési kötelezettsége nem keletkezik.
 
 (4) A katasztrófavédelmi hozzájárulás összege az (1) bekezdés b) pontjában meghatározott gazdálkodó szervezetek esetében:
 
@@ -991,7 +992,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 (7) A katasztrófavédelmi hozzájárulás fizetésére kötelezettek kötelesek tevékenységükről külön jogszabályban foglaltak szerint a hivatásos katasztrófavédelmi szerv központi szervének bejelentést tenni.
 
-(8) Amennyiben a katasztrófavédelmi hozzájárulás mértékét az annak fizetésére kötelezett hitelt érdemlően, a hatóság által ellenőrizhető módon bizonyítani nem tudja, úgy a katasztrófavédelmi hozzájárulás összege a teljes tevékenységből származó, a jövedéki adó és az energiaadó összegével csökkentett éves nettó árbevétel 0,1%-a.
+(8) A katasztrófavédelmi hozzájárulás összegét a tárgyévet megelőző év nettó árbevétele alapul vételével kell meghatározni. Amennyiben a katasztrófavédelmi hozzájárulás mértékét az annak fizetésére kötelezett hitelt érdemlően, a hatóság által ellenőrizhető módon bizonyítani nem tudja, úgy a katasztrófavédelmi hozzájárulás összege a teljes tevékenységből származó, a jövedéki adó és az energiaadó összegével csökkentett éves nettó árbevétel 0,1%-a.
 
 (9) Meg nem fizetése esetén a katasztrófavédelmi hozzájárulás adók módjára behajtandó köztartozásnak minősül. A hivatásos katasztrófavédelmi szerv jogosult a fizetési kötelezettség ellenőrizhetősége érdekében az adóhatóságtól adatszolgáltatást kérni.
 
@@ -1007,14 +1008,14 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 - a) a hivatásos katasztrófavédelmi szerv központi szerve és a hivatásos katasztrófavédelmi szerv területi szervei kijelölését, a helyi szervek jogállását és kijelölését,
 - b) a Kormány tagjainak és a katasztrófavédelemben érintett állami szerveknek a megelőzéssel, a felkészüléssel és a védekezéssel kapcsolatos működésének, riasztásának rendjét – beleértve a reagálási időket –, részletes feladatait,
-- c) a katasztrófasegély nyújtásának szabályait,
+- c) a katasztrófasegély nyújtásának szabályait, valamint a nemzetközi katasztrófa-segítségnyújtás és -segítségkérés általános szabályait,
 - d) az Országgyűlés által az éves költségvetésben a nemzetközi segítségnyújtásra jóváhagyott előirányzat felhasználásának rendjét,
-- e) az e törvény IV. fejezete szerint veszélyes anyagnak minősülő anyagok – az azokhoz tartozó küszöbértékek – és ipari tevékenységek körét,
+- e) az e törvény IV. fejezete szerint veszélyes anyagnak minősülő anyagok – az azokhoz tartozó küszöbértékek – és ipari tevékenységek körét, valamint az eljáró hatóságokat,
 - f) a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés, tervezés rendszerét és követelményeit, az üzemeltetői kötelezettségeket,
 - g) a biztonsági jelentés és a biztonsági elemzés célját, tartalmi és formai követelményeit, a biztonsági jelentésre, valamint a biztonsági elemzésre kötelezettek körét,
 - h) a veszélyes anyagokkal foglalkozó üzemeket érintő lakossági tájékoztatással és a nyilvánosság biztosításával kapcsolatos követelményeket,
 - i) a védekezésben részt vevők költségei megtérítésének szabályait,
-- j) a katasztrófavédelmi hozzájárulás befizetési és elszámolási rendjét, felhasználásának és ellenőrzésének módját, valamint a katasztrófavédelmi hozzájárulásra kötelezettek bejelentésének szabályait,
+- j) a katasztrófavédelmi hozzájárulás befizetési és elszámolási rendjét, felhasználásának és ellenőrzésének módját, az eljáró hatóságokat, valamint a katasztrófavédelmi hozzájárulásra kötelezettek bejelentésének szabályait,
 - k) a küszöbérték alatti üzemek körét, katasztrófavédelmi hatósági felügyeleti rendjét és az üzemeltetői kötelezettségeket,
 - l) az e törvény IV. fejezetének hatálya alá tartozó üzemekkel és azok veszélyes tevékenységével összefüggésben alkalmazható bírságok rendszerét és részletes szabályait,
 - m) a katasztrófavédelmi szabályzat részletes szabályait, ezen belül
@@ -1033,7 +1034,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 81. § Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben szabályozza:
 
 - a) az irányítása alatt álló szervekre vonatkozóan a védekezés végrehajtásának egységes rendjét,
-- b) az e törvény 22. §-ában meghatározott szervek irányítási és működési rendjét, feladatait, a hatáskörüket és jogkörüket, valamint a területi és a helyi szervek felépítését,
+- b) az e törvény 22. §-ában meghatározott szervek irányítási és működési rendjét, feladatait, a hatáskörüket és jogkörüket,
 - c) az irányítása alá tartozó rendvédelmi szervek katasztrófavédelmi feladatait,
 - d) a települések katasztrófavédelmi besorolását, a hivatásos katasztrófavédelmi szerv helyi szerveinek illetékességi területét,
 - e) a polgári védelmi kötelezettségen alapuló polgári védelmi szervezetek létrehozásának, irányításának, anyagi-technikai ellátásának és alkalmazásának szabályait,

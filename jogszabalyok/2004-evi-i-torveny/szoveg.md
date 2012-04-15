@@ -1245,7 +1245,7 @@ biztonsági kockázatú lehet.
 - b) nem áll nyilvánvalóan alkohol, kábítószer vagy más bódító hatású szer befolyása alatt,
 - c) nem tart magánál szeszes italt, kábítószert, valamint olyan tárgyat, amely a sportrendezvény megtartását, továbbá mások személyi és vagyonbiztonságát veszélyezteti, vagy amelynek a sportrendezvényre való bevitelét a szervező a belépőjegy vásárlását megelőzően megtiltotta, és erről a belépőjegy vásárlóját megfelelő módon tájékoztatta,
 - d) nem tart magánál mások iránti gyűlöletre uszító feliratot, zászlót vagy egyébként jogszabály által tiltott önkényuralmi jelképet,
-- e) nem áll a 73. § (1) bekezdése szerinti eltiltás, valamint a szabálysértésekről szóló 1999. évi LXIX. törvény szerinti kitiltás hatálya alatt;
+- e) nem áll a 73. § (1) bekezdése szerinti eltiltás, valamint szabálysértési kitiltás hatálya alatt;
 - f) vállalja, hogy a rendező felszólítására igazolja személyazonosságát, valamint
 - g) tudomásul veszi, hogy a sportrendezvény ideje alatt róla kép- és hangfelvétel készíthető.
 
@@ -1356,7 +1356,7 @@ igényelhet adatot.
 
 adatokat továbbítja.
 
-(7) A (3) bekezdésben foglalt adatok szolgáltatása során a rendőrség a központi szabálysértési nyilvántartás adatait adja át.
+(7) A (3) bekezdésben foglalt adatok szolgáltatása során a rendőrség a szabálysértési nyilvántartás adatait adja át.
 
 (8) A sportrendészeti nyilvántartás számára adatot szolgáltató szervező, valamint a (6) bekezdés b) pontjában meghatározott adatigénylésre jogosultak technikai és szervezési intézkedésekkel, ellenőrzési rendszer kialakításával gondoskodnak az adatokhoz történő jogosulatlan hozzáférés, valamint az adatok jogosulatlan megváltoztatása és nyilvánosságra hozatala elleni védelemről.
 

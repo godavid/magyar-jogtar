@@ -28,6 +28,8 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 (7) A képviselő-testület a szervezeti és működési szabályzatában, illetőleg – a szabályzattal együtt elfogadott – hivatali ügyrendben határozhatja meg a felügyelet szervezeti formáját, a felügyelet, illetőleg a felügyelő feladatait.
 
+(8) A felügyelő az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.
+
 2. § (1) A felügyelő köztisztviselő. Közszolgálati jogviszonyára, ha e törvény eltérően nem rendelkezik, a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) Felügyelőként egészségileg és fizikailag alkalmas magyar állampolgár alkalmazható.
@@ -161,6 +163,8 @@ haladéktalanul törli.
 
 17. § A felügyelő a szabálysértés elkövetőjét – a cselekmény súlyától függően – jogosult a jogszabályban meghatározott esetekben helyszíni bírsággal sújtani.
 
+17/A. § A felügyelő a feladatkörébe tartozó, a közúti közlekedésről szóló 1988. évi I. törvényben (a továbbiakban: Kkt.) meghatározott közlekedési szabályszegés esetén jogosult a Kkt. 20. § (4a) és a (4b) bekezdésében meghatározott közigazgatási bírságot alkalmazni.
+
 18. § A felügyelő azt a dolgot, amelynek elkobzását a szabálysértésekről szóló törvény lehetővé, illetőleg kötelezővé teszi, átvételi elismervény ellenében visszatarthatja, illetőleg visszatartja és az elkövetés helye szerint illetékes szabálysértési hatóságnak adja át.
 
 19. § A felügyelő az intézkedéssel egyidejűleg köteles felhívni az elkövetőt a szabálysértés azonnali vagy ésszerű határidőn belüli megszüntetésére. A közterület használatára vonatkozó jogerős határozatban, tulajdonosi (kezelői) hozzájárulásban foglaltak megszegése vagy elmulasztása esetén a felügyelő köteles felhívni a kötelezettet az előírások betartására.
@@ -183,7 +187,7 @@ haladéktalanul törli.
 
 (9) A jármű elszállítása során, az abban keletkezett vagyoni kárért a felügyeletet kártalanítási felelősség terheli.
 
-21. § A felügyelő a helyi közúton jogosult feltartóztatni a köztisztasági szabályokat megszegő, továbbá a táblával jelzett behajtási tilalmat vagy korlátozást megszegő járművet.
+21. § A felügyelő a helyi közúton jogosult megállítani, illetve feltartóztatni a köztisztasági szabályokat, továbbá a közúti közlekedésről szóló 1/1975. (II. 5.) KpM–BM együttes rendelet 40–41. §-ában, valamint más megállásra, várakozásra vagy táblával jelzett behajtási tilalomra vagy korlátozásra vonatkozó szabályokat megszegő járműveket.
 
 22. § (1) A felügyelő a vagyonvédelmi feladatainak ellátása során – a képviselő-testület rendelkezésére – az önkormányzat tulajdonában, használatában lévő vagyont (épületet, építményt, tömegközlekedési eszközt, járművet vagy más dolgot) véd, őriz, illetve közbiztonsági szempontból ellenőriz.
 
