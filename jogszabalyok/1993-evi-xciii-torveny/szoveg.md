@@ -695,7 +695,7 @@ kapcsolatos eljárásokban.
 - i) a balesetet munkabalesetnek minősíteni, továbbá a munkabaleset bejelentését vagy kivizsgálását elrendelni, ha a bejelentést vagy a kivizsgálást elmulasztották vagy nem a jogszabályban foglaltaknak megfelelően végezték, illetőleg ha a munkáltató a balesetet jogszabályba ütköző módon nem tekinti munkabalesetnek;
 - j) a munkaeszköz és egyéni védőeszköz működését, használatát felfüggeszteni, ha az nem rendelkezik a 18. § (3)–(4) bekezdéseiben meghatározott okirattal;
 - k) a munkáltatót arra kötelezni, hogy az éjszakai munkavégzés keretében foglalkoztatott munkavállalói átlagos statisztikai létszámát, munkarendjét, az éjszakai munkavégzés körülményeire vonatkozó – a határozatban megjelölt egyéb – információkat, valamint a közölt adatokban, tényekben bekövetkező változást időszakonként bejelentse;
-- l) a szabálysértésre vonatkozó külön jogszabályok szerint eljárni;
+- l)
 - m) a munkahelyen tartózkodó személytől az ellenőrzéshez szükséges felvilágosítást kérni, valamint az ilyen személyt személyi azonossága igazolására felhívni;
 - n) az ellenőrzés lefolytatásának akadályozása esetén a rendőrség igénybevételére;
 - o) munkahigiénés vizsgálatok elvégeztetését elrendelni.

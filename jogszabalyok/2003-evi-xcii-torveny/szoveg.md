@@ -3155,7 +3155,7 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 ### Végrehajtás megkeresésre
 
-161. § (1) Az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv, illetőleg a köztartozás jogosultja a fizetési határidő lejártát követő 15 nap elteltével megkeresi az adóhatóságot behajtás végett, ha a köztartozás összege meghaladja az 10 000 forintot; szabálysértési pénzbírság, illetve helyszíni bírság végrehajtásával kapcsolatban akkor, ha a köztartozás összege eléri vagy meghaladja a 5000 forintot. Amennyiben a hátralék későbbi megfizetése veszélyeztetett, az adóhatóság soron kívül is megkereshető. Az adók módjára behajtandó köztartozásra vonatkozó rendelkezéseket kell alkalmazni akkor is, ha az illetékességi területén folytatott végrehajtás akadálya vagy eredménytelensége esetén a köztartozás beszedésére jogosult önkormányzati adóhatóság másik önkormányzati adóhatóságot keres meg behajtás végett. Amennyiben az adóhatóság végrehajtási ügyében megbízottként bírósági végrehajtó jár el, a megkeresésre a Vht. 33. §-át kell alkalmaznia.
+161. § (1) Az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv, illetőleg a köztartozás jogosultja a fizetési határidő lejártát követő 15 nap elteltével megkeresi az adóhatóságot behajtás végett, ha a köztartozás összege meghaladja az 10 000 forintot. Amennyiben a hátralék későbbi megfizetése veszélyeztetett, az adóhatóság soron kívül is megkereshető. Az adók módjára behajtandó köztartozásra vonatkozó rendelkezéseket kell alkalmazni akkor is, ha az illetékességi területén folytatott végrehajtás akadálya vagy eredménytelensége esetén a köztartozás beszedésére jogosult önkormányzati adóhatóság másik önkormányzati adóhatóságot keres meg behajtás végett. Amennyiben az adóhatóság végrehajtási ügyében megbízottként bírósági végrehajtó jár el, a megkeresésre a Vht. 33. §-át kell alkalmaznia.
 
 (2) A megkeresésben fel kell tüntetni a behajtást kérő és a fizetésre kötelezett azonosításához szükséges adatokat, a tartozás jogcímét, a fizetési kötelezettséget elrendelő határozat (végzés) számát, jogerőre emelkedésének időpontját, a teljesítési határidőt, a tartozás összegét és esetleges járulékait, valamint annak a jogszabálynak a pontos megjelölését, amely az adók módjára való behajtást lehetővé teszi. Ha a behajtást kérőt törvény valamely végrehajtási cselekmény foganatosítására kötelezi, annak megtörténtét a megkeresésben igazolni kell.
 
@@ -3171,7 +3171,7 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 (8) Az adók módjára behajtandó köztartozásra az ingatlanon történő jelzálogjog-alapítás kivételével a végrehajtási eljárás szabályait kell alkalmazni.
 
-(9) Az adók módjára behajtandó köztartozásra az adóhatóság fizetési könnyítést nem engedélyezhet, a tartozást nem mérsékelheti, illetőleg – a szabálysértési helyszíni bírság kivételével – nem minősítheti behajthatatlannak.
+(9) Az adók módjára behajtandó köztartozásra az adóhatóság fizetési könnyítést nem engedélyezhet, a tartozást nem mérsékelheti, illetőleg nem minősítheti behajthatatlannak.
 
 (9a) Amennyiben az adók módjára behajtandó köztartozásra irányuló fizetési könnyítés, mérséklés (elengedés) iránti kérelmet az adóhatósághoz terjesztik elő, úgy az adóhatóság a kérelmet annak beérkezésétől számított 5 napon belül megküldi a behajtást kérő részére. Az adóhatóság a kérelem megalapozottságát érdemben nem vizsgálja.
 

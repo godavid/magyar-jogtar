@@ -115,7 +115,7 @@ a szabálysértési jogsegélyről
 
 (2) Az eljárási jogsegély kiterjedhet a tanú, a szakértő és az eljárás alá vont személy meghallgatására, okirat vagy a szabálysértési eljárás iratainak a külföldi hatóság részére történő megküldésére, a szabálysértési eljárás iratainak a kézbesítésére, és a szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatásra.
 
-(3) Az e törvényben nem szabályozott eljárási cselekményekre a szabálysértésekről szóló törvényt kell megfelelően alkalmazni.
+(3) Az e törvényben nem szabályozott eljárási cselekményekre a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényt kell megfelelően alkalmazni.
 
 (4) A szabálysértési hatóság, illetve a bíróság az eljárási cselekmény lefolytatása során a megkereső külföldi hatóság kérelmére más eljárásmódot is alkalmazhat, ha ez nem összeegyeztethetetlen a magyar jogrendszer alapelveivel.
 
@@ -163,7 +163,7 @@ a szabálysértési jogsegélyről
 
 ### A szabálysértési eljárás iratainak kézbesítése
 
-18. § (1) Ha a külföldi hatóság az eljárási jogsegély keretében hivatalos iratának kézbesítését kéri, a kézbesítésre a címzett lakóhelye, ennek hiányában a tartózkodási helye szerint illetékes települési önkormányzat jegyzője az illetékes.
+18. § (1) Ha a külföldi hatóság az eljárási jogsegély keretében hivatalos iratának kézbesítését kéri, a kézbesítésre a címzett lakóhelye, ennek hiányában a tartózkodási helye szerint illetékes általános szabálysértési hatóság az illetékes.
 
 (2) A külföldi hatóság által megküldött irat a Magyarországon tartózkodó címzett részére akkor kézbesíthető, ha a kézbesítendő irat legalább az alábbi adatokat tartalmazza:
 
@@ -172,7 +172,7 @@ a szabálysértési jogsegélyről
 - c) ha a kézbesített irat olyan rendelkezést tartalmaz, amellyel szemben jogorvoslatnak van helye, akkor annak módját és határidejét,
 - d) ha az iratban foglaltak teljesítése költséggel jár, a költségtérítés lehetőségét és módját.
 
-(3) A kézbesítés megtörténtét igazoló tértivevényt a jegyző nyolc napon belül megküldi a legfőbb ügyésznek, aki azt továbbítja a megkeresést előterjesztő külföldi hatósághoz.
+(3) A kézbesítés megtörténtét igazoló tértivevényt a általános szabálysértési hatóság nyolc napon belül megküldi a legfőbb ügyésznek, aki azt továbbítja a megkeresést előterjesztő külföldi hatósághoz.
 
 ### A szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatás
 
@@ -240,7 +240,7 @@ a szabálysértési jogsegélyről
 
 28. § (1) A központi hatóság a külföldi határozat végrehajtása átvételének feltételeit hivatalból vizsgálja.
 
-(2) A külföldi ítélet vagy határozat végrehajtását haladéktalanul fel kell függeszteni, illetve a végrehajtási eljárást meg kell szüntetni, ha a megkereső külföldi hatóság a végrehajtás akadályát képező döntésről, intézkedésről vagy egyéb körülményről tájékoztatja a központi hatóságot. A központi hatóság erről értesíti a 30. § (1) bekezdése szerint illetékes települési önkormányzat jegyzőjét.
+(2) A külföldi ítélet vagy határozat végrehajtását haladéktalanul fel kell függeszteni, illetve a végrehajtási eljárást meg kell szüntetni, ha a megkereső külföldi hatóság a végrehajtás akadályát képező döntésről, intézkedésről vagy egyéb körülményről tájékoztatja a központi hatóságot. A központi hatóság erről értesíti a 30. § (1) bekezdése szerint illetékes általános szabálysértési hatóságot.
 
 29. § (1) A külföldi határozat végrehajtásának átvételét meg kell tagadni, ha
 
@@ -254,19 +254,19 @@ a szabálysértési jogsegélyről
 
 (3) Az elévülési időn belül megkezdett végrehajtás folytatásának nem akadálya, ha az elévülési idő már eltelt.
 
-30. § (1) A külföldi határozatban megjelölt összeg beszedését az elkövető lakóhelye, ennek hiányában a tartózkodási helye szerint illetékes települési önkormányzat jegyzője hajtja végre.
+30. § (1) A külföldi határozatban megjelölt összeg beszedését az elkövető lakóhelye, ennek hiányában a tartózkodási helye szerint illetékes általános szabálysértési hatóság hajtja végre.
 
-(2) Ha az (1) bekezdésben foglaltak alapján a végrehajtásra illetékes jegyző nem állapítható meg, a külföldi határozatban megjelölt összeg beszedését annak a települési önkormányzatnak a jegyzője hajtja végre, amelynek működési területén az elkövetőnek fellelhető jövedelme, illetve vagyona van.
+(2) Ha az (1) bekezdésben foglaltak alapján a végrehajtásra illetékes általános szabálysértési hatóság nem állapítható meg, a külföldi határozatban megjelölt összeg beszedését az az általános szabálysértési hatóság hajtja végre, amelynek működési területén az elkövetőnek fellelhető jövedelme, illetve vagyona van.
 
-(3) A külföldi határozat végrehajtása iránti megkeresést a pénzbírság végrehajtására vonatkozó szabályok szerint kell végrehajtani azzal az eltéréssel, hogy ha az adók módjára történő behajtásra nincs lehetőség, vagy az aránytalanul hosszú idővel járna, közérdekű munkára, illetve elzárásra történő átváltoztatásnak nincs helye.
+(3) A külföldi határozat végrehajtása iránti megkeresést a pénzbírság végrehajtására vonatkozó szabályok szerint kell végrehajtani azzal az eltéréssel, hogy a bíróság a végrehajtási eljárás törvényességének vizsgálata során az alapeljárás törvényességét nem vizsgálhatja.
 
 31. § (1) Ha az azonos típusú közúti közlekedési szabályok megsértése esetén a külföldön kiszabott pénzbírság összege a Magyarországon kiszabható pénzbírság legmagasabb összegét meghaladja, a végrehajtás a magyar jogszabályok szerint kiszabható legmagasabb összegre terjed ki.
 
-(2) Ha az elkövető igazolja, hogy a külföldi határozatban megjelölt összeget részben vagy egészben megfizette, a jegyző értesítése alapján a központi hatóság az eljárást felfüggeszti, és egyidejűleg megkeresi a határozatot kibocsátó külföldi hatóságot, hogy a megfizetés tényéről harminc napon belül nyilatkozzon. Ha a megadott határidőn belül a külföldi hatóság a megkeresésre nem válaszol, az eljárást meg kell szüntetni.
+(2) Ha az elkövető igazolja, hogy a külföldi határozatban megjelölt összeget részben vagy egészben megfizette, a általános szabálysértési hatóság értesítése alapján a központi hatóság az eljárást felfüggeszti, és egyidejűleg megkeresi a határozatot kibocsátó külföldi hatóságot, hogy a megfizetés tényéről harminc napon belül nyilatkozzon. Ha a megadott határidőn belül a külföldi hatóság a megkeresésre nem válaszol, az eljárást meg kell szüntetni.
 
 32. § A külföldi pénznemben kiszabott pénzbírság és az eljárási költség végrehajtását Magyarország hivatalos pénznemében kell teljesíteni. Az átváltásnál a pénzbírságot kiszabó határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyam alapján a feltüntetett középárfolyamot kell figyelembe venni.
 
-33. § Az illetékbélyegben lerótt pénzbírság és eljárási költség összege a központi költségvetés közvetlen bevétele, míg a közvetlen letiltás útján, vagy adók módjára behajtott pénzbírság és az eljárási költség összege a végrehajtó települési önkormányzatot illeti meg.
+33. § A befizetett pénzbírság és szabálysértési költség összege a központi költségvetés közvetlen bevétele.
 
 ### 2. CÍM — PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT VÉGREHAJTÁSÁNAK ÁTADÁSA
 
@@ -311,6 +311,8 @@ a szabálysértési jogsegélyről
 
 (2) E törvény rendelkezéseit a hatálybalépésekor már jogerősen befejezett ügyekben nem lehet alkalmazni.
 
+(3) A 2012. április 15-e előtt indult végrehajtási eljárás során a letiltás vagy az adók módjára behajtott pénzbírság és az eljárási költség összege a végrehajtó települési önkormányzatot illeti meg.
+
 ### Felhatalmazó rendelkezések
 
 40. § (1) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy rendeletben meghatározza a pénzbírságot kiszabó jogerős szabálysértési határozatok végrehajtásának átadására, illetve átvételére jogosult központi hatóságot.
@@ -337,19 +339,19 @@ a szabálysértési jogsegélyről
 
 A pénzbírságot kiszabó jogerős szabálysértési határozat végrehajtásának átadására az alábbi szabálysértések esetén kerülhet sor:
 
-Az emberi méltóság, a személyi szabadság és a közrend elleni szabálysértések:
-
-- 1. Polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértés (Sztv. 140. §),
-- 2. Lőfegyverrel kapcsolatos szabálysértés (Sztv. 141. §),
-- 3. Rendzavarás (Sztv. 142. §),
-- 4. Garázdaság (Sztv. 142/A. §),
-- 5. Tiltott kéjelgés (Sztv. 143. §),
-- 6. Szexuális szolgáltatásra való felhívás tilalma (Sztv. 144. §),
-- 7. A szexuális szolgáltatás felkínálásának, hirdetésének tilalma (Sztv. 145. §),
-- 8. Természetvédelmi szabálysértés (Sztv. 147. §),
-- 9. Környezetvédelmi szabálysértés (Sztv. 148. §),
-- 10. Jogosulatlan vadászat (Sztv. 149. §),
-- 11. Veszélyes fenyegetés (Sztv. 151. §),
-- 12. Járművezetés az eltiltás tartama alatt (Sztv. 156/A. §), Tulajdon elleni szabálysértések:
-- 13. Lopással vagy csalással elkövetett tulajdon elleni szabálysértés [Sztv. 157. § (1) bekezdés a) és b) pont],
-- 14. Az egyes szabálysértésekről szóló kormányrendeletben meghatározott egyes szabálysértési tényállások esetében.
+- 1. Rendzavarás (Szabs. tv. 169. §),
+- 2. Garázdaság (Szabs. tv. 170. §),
+- 3. Tiltott kéjelgés (Szabs. tv. 172. §),
+- 4. Veszélyes fenyegetés (Szabs. tv. 173. §),
+- 5. Járművezetés az eltiltás tartama alatt (Szabs. tv. 176. §),
+- 6. Lopással vagy csalással elkövetett tulajdon elleni szabálysértés [Szabs tv. 177. § (1) bekezdés a) és b) pont],
+- 7. Jogosulatlan vadászat (Szabs. tv. 178. §),
+- 8. Polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel kapcsolatos szabálysértés (Szabs. tv. 182. §),
+- 9. Lőfegyverrel kapcsolatos szabálysértés (Szabs. tv. 183. §),
+- 10. Szexuális szolgáltatásra való felhívás tilalma (Szabs. tv. 184. §),
+- 11. Természetvédelmi szabálysértés (Szabs. tv 187. §),
+- 12. Kábítószer-rendészeti szabálysértés (Szabs. tv. 199. §),
+- 13. A Szabs. tv. XXVII. Fejezet alá tartozó szabálysértések,
+- 14. Közúti közlekedési szabályok kisebb fokú megsértése (Szabs. tv. 224. §),
+- 15. Áru hamis megjelölése (Szabs. tv. 231. §),
+- 16. Vízszennyezés (Szabs. tv. 245. §)

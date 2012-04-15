@@ -127,7 +127,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 - g) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai és munkavállalói részére egészségmegőrzési, egészségügyi, szociális és kulturális feladatokat lát el,
 - h) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai részére ellátja a munkavégzésükhöz szükséges képzés, továbbképzés megszervezését és lebonyolítását,
 - i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat a NAV elnöke gyakorolja,
-- j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, a központi szerver üzemeltetés hatósági felügyeleti, illetőleg a szerencsejátékokkal és játékautomatákkal összefüggő szabálysértési hatósági feladatokat.
+- j) végzi a szerencsejáték-szervezéssel, valamint a játékautomatával és ajándéksorsolással kapcsolatos engedélyezési, nyilvántartási, továbbá az engedélyben foglaltak és a szerencsejáték szervezéséről szóló törvény, valamint a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos ellenőrzési, a központi szerver üzemeltetés hatósági felügyeleti feladatokat.
 
 (3) A NAV
 
@@ -992,7 +992,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 - 16. az ingatlan-nyilvántartásból,
 - 17. az egyéni vállalkozók nyilvántartására kijelölt szerv nyilvántartásából,
 - 18. a közjegyzői zálogjogi nyilvántartásból,
-- 19. a központi szabálysértési nyilvántartásból.
+- 19. a szabálysértési nyilvántartásból.
 
 (3) A NAV nyomozó hatósága a bűnüldözési feladatok ellátása érdekében – a vonatkozó törvények rendelkezései szerint – a felhasználás céljának megjelölésével adatokat vehet át a banktitoknak, az értékpapírtitoknak és a pénztártitoknak, valamint más egyéb titoknak minősülő adatot törvény alapján kezelő szervtől, továbbá adótitoknak minősülő adatot, iratot vehet át az önkormányzati adóhatóságtól.
 
@@ -1118,7 +1118,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - d) a NAV bűnügyi főigazgatóságát, illetve a bűnügyi főigazgatóság középfokú szerveit és alsó fokú szervét,
 - e) az Art. 56. § (1) bekezdése szerinti kapcsolattartó közigazgatási szervet vagy szerveket, valamint az Art. 70. § 5. pontjában és 5.1. alpontjában meghatározott központi kapcsolattartó irodát, továbbá szükség esetén az Art. 70. § 5. pontjában és 5.2., 5.3 alpontjaiban meghatározott kapcsolattartó irodát, kapcsolattartó szervet;
 - f) az Art. szerinti központosított ellenőrzést, illetve a Vtv. szerinti központosított utólagos ellenőrzést végző szervet vagy szerveket,
-- g) a szerencsejátékkal és játékautomatával összefüggő ügyben a NAV szervezetén belül szabálysértési hatóságként eljáró szervet,
+- g)
 - h) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatóságot.
 
 82. § Felhatalmazást kap a kijelölt miniszter, hogy rendeletben állapítsa meg:

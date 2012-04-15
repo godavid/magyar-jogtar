@@ -37,11 +37,11 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - a) tűz (tűzeset): az az égési folyamat, amely veszélyt jelent az életre, a testi épségre vagy az anyagi javakra, illetve azokban károsodást okoz;
 - b) tűz elleni védekezés (a továbbiakban: tűzvédelem): a tűzesetek megelőzése, a tűzoltási feladatok ellátása, a tűzvizsgálat, valamint ezek feltételeinek biztosítása;
 - c) tűzmegelőzés: a tüzek keletkezésének megelőzésére, továbbterjedésének megakadályozására, illetőleg a tűzoltás alapvető feltételeinek biztosítására vonatkozó, a létesítés és a használat során megtartandó tűzvédelmi jogszabályok, szabványok, hatósági előírások rendszere és az azok érvényesítésére irányuló tevékenység;
-- d) tűzvédelmi megfelelőségi tanúsítvány: a kijelölt tanúsító szervezet által kiadott dokumentum, amely bizonyítja, hogy a tűzoltó-technikai termék, továbbá a tűz- vagy robbanásveszélyes készülék, gép, berendezés megfelel a jogszabályokban, honosított harmonizált szabványokban meghatározott tűzvédelmi előírásoknak;
+- d) tűzvédelmi megfelelőségi tanúsítvány: a kijelölt vagy az Európai Bizottságnál bejelentett tanúsító szervezet által kiadott dokumentum, amely bizonyítja, hogy a tűzoltó-technikai termék, továbbá a tűz- vagy robbanásveszélyes készülék, gép, berendezés megfelel a jogszabályokban, honosított harmonizált szabványokban meghatározott tűzvédelmi előírásoknak;
 - e) tűzoltási feladat: a veszélyeztetett személyek mentése, a tűz terjedésének megakadályozása, az anyagi javak védelme, a tűz eloltása és a szükséges biztonsági intézkedések megtétele, továbbá a tűz közvetlen veszélyének elhárítása;
 - f) tűzvizsgálat: a tűz keletkezési idejének, helyének és okának felderítésére irányuló hatósági tevékenység, amelynek célja olyan tűzmegelőzési, tűzoltási beavatkozási tapasztalatok megszerzése, következtetések levonása, amelyek alkalmasak a tűzmegelőzési ismeretek bővítésére és a mentési beavatkozási feltételek javítására;
 - g) műszaki mentés: természeti csapás, baleset, káreset, rendellenes technológiai folyamat, műszaki meghibásodás, veszélyes anyag szabadba jutása vagy egyéb cselekmény által előidézett veszélyhelyzet során az emberélet, a testi épség és az anyagi javak védelme érdekében a tűzoltóság részéről – a rendelkezésére álló, illetőleg az általa igénybe vett eszközökkel – végzett elsődleges beavatkozói tevékenység;
-- h) tűzoltó-technikai termék: a tűz észlelésére, jelzésére, oltására, a beavatkozás könnyítésére és a tűzkár csökkentésére, valamint a tűz terjedésének megakadályozására alkalmazott berendezés/eszköz, a tűzoltó készülék, oltóanyag, a tűzoltóság által a tűzoltás, műszaki mentés során használt jármű, felszerelés, hírközlő eszköz, védőeszköz;
+- h) tűzoltó-technikai termék: a tűz észlelésére, jelzésére, oltására, a beavatkozás könnyítésére és a tűzkár csökkentésére, vagy a tűz terjedésének megakadályozására alkalmazott berendezés/eszköz, a tűzoltó készülék, oltóanyag, a tűzoltóság által a tűzoltás, műszaki mentés során használt jármű, felszerelés, hírközlő eszköz, védőeszköz;
 - i) tűz- vagy robbanásveszélyes készülék, gép, berendezés: olyan szerkezeti egység, illetve ezekből álló technológiai rendszer, amelyben vagy amellyel fokozottan tűz- és robbanásveszélyes, vagy tűz- és robbanásveszélyes tűzveszélyességi osztályba tartozó – a robbanó- és a robbantóanyagok kivételével – anyagok előállítása, feldolgozása, használata, tárolása, kimérése történik;
 - j) építési termék: minden olyan anyag, szerkezet, berendezés vagy több, különböző részből összeállított elem, amelyet azért állítanak elő, hogy építményekbe állandó jelleggel beépítsék;
 - k) honosított harmonizált szabvány: az európai szabványügyi szervezetek által elfogadott és az Európai Unió Hivatalos Lapjában közzétett harmonizált európai szabvány, amelyet a magyar eljárási rendnek megfelelően magyar nyelven nemzeti szabványként közzétettek;
@@ -178,7 +178,7 @@ Az Országgyűlés az Alaptörvényből és a nemzetközi szerződésekből ered
 - b) a veszélyeztetett területen lakókat, a lakóhelyük elhagyására kötelezni,
 - c) az ügyfelet, tanút a helyszínen tartózkodásra kötelezni,
 - d) a helyszínen tartózkodókat – a rendőrségről szóló törvény szabályainak megfelelő alkalmazásával – személyazonosságuk igazolására kötelezni,
-- e) helyszíni bírságot kiszabni.
+- e)
 
 ### III. Fejezet — A MAGÁNSZEMÉLYEK, A JOGI SZEMÉLYEK, VALAMINT A MAGÁN- ÉS JOGI SZEMÉLYEK
 
@@ -239,7 +239,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (5) A kivitelező köteles a tűzvédelmi dokumentációban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
 
-(6) A tervezőnek és a kivitelezőnek az (1) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
+(6) A kivitelezőnek a kivitelezési eljárás befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
 
 (7) Hatósági ellenőrzés esetén a büntetlen előélet követelményének való megfelelést a tervező igazolja.
 
@@ -263,7 +263,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (2) Jogszabályban meghatározott foglalkozási ágakban és munkakörökben csak tűzvédelmi szakvizsgával rendelkező személy foglalkoztatható. A tűzvédelmi szakvizsgáztatást az adott foglalkozási ágra (munkakörre) képesítést adó oktatás (szaktanfolyam) keretében az oktatást végző köteles megszervezni.
 
-(3) A munkáltató köteles gondoskodni a munkavállalói, illetőleg a munkavégzésben részt vevő családtagjai tűzvédelmi oktatásáról és rendszeres továbbképzéséről, valamint arról, hogy azok a munkakörükkel, tevékenységükkel kapcsolatos tűzvédelmi ismereteket a foglalkoztatásuk megkezdése előtt elsajátítsák, a tűz esetén végzendő feladataikat megismerjék.
+(3) A munkáltató köteles gondoskodni a munkavállalói, illetőleg a munkavégzésben részt vevő családtagjai tűzvédelmi oktatásáról és éves továbbképzéséről, valamint arról, hogy azok a munkakörükkel, tevékenységükkel kapcsolatos tűzvédelmi ismereteket a foglalkoztatásuk megkezdése előtt elsajátítsák, a tűz esetén végzendő feladataikat megismerjék.
 
 (4) A munkáltató azt a munkavállalót, illetőleg a munkavégzésben részt vevő családtagot, aki a tevékenységéhez szükséges tűzvédelmi ismeretekkel, illetőleg az előírt tűzvédelmi szakvizsgával nem rendelkezik, az adott tevékenységgel nem foglalkoztathatja.
 
@@ -347,6 +347,8 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 (5) A tűzoltó parancsnok vagy kijelölt helyettese évente beszámol a hivatásos tűzoltóság működési területén működő települési önkormányzat képviselő-testületének a település tűzvédelmi helyzetéről, a tűzvédelem érdekében tett intézkedésekről és az azzal kapcsolatos feladatokról.
 
 (6) Ha a beszámolót a települési önkormányzatok többsége, illetve a fővárosi önkormányzat nem fogadja el, három hónapon belül újabb beszámolót kell tartani. Ismételt elutasítás esetén a települési önkormányzatok többsége a hivatásos katasztrófavédelmi szerv területi szerve vezetőjéhez, a fővárosi önkormányzat közgyűlése a hivatásos katasztrófavédelmi szerv központi szerve vezetőjéhez fordulhat. A hivatásos katasztrófavédelmi szerv területi szerve, illetve a hivatásos katasztrófavédelmi szerv központi szerve vezetője köteles az önkormányzatok által meghatározott kérdésekre is kiterjedő átfogó vizsgálatot tartani, ennek keretében a tűzoltó parancsnok felelősségét, illetve alkalmasságát megvizsgálni. A vizsgálat eredményéről az önkormányzatokat tájékoztatni kell. A hivatásos katasztrófavédelmi szerv területi szerve, illetve a hivatásos katasztrófavédelmi szerv központi szerve vezetője köteles a tűzvédelmi feladatok ellátása érdekében a vizsgálat szerint szükséges szolgálatszervezési, szervezeti, személyi és belső irányítási intézkedéseket megtenni.
+
+(7) A hivatásos katasztrófavédelmi szerv központi szerve a hivatásos katasztrófavédelmi szerv helyi szervei technikai eszköz állományának átszervezése során vagy a rendszerből kivonással felszabaduló gépjárműveket, eszközöket, felszereléseket pályázat útján, az önkéntes tűzoltó egyesületek támogatásaként részükre, további használatra átadja.
 
 31. § A hivatásos tűzoltóság
 
@@ -632,7 +634,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 (6) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy
 
 - a) a tűzoltóságok és a Magyar Honvédség tűzvédelmi szerveinek együttműködési rendjét a honvédelemért felelős miniszterrel,
-- b) az Országos Katasztrófavédelmi Főigazgatóság Repülőtéri Katasztrófavédelmi Igazgatósága működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
+- b) a Budapest Liszt Ferenc Nemzetközi Repülőtér tűzvédelmi, műszaki mentési feladatait ellátó hivatásos tűzoltóság működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
 - c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel,
 - d) az egyes tűzmegelőzési hatósági, szakhatósági eljárásokért és szolgáltatásokért fizetendő igazgatás szolgáltatási díj mértékét és körét, a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel
 - e) a tűzvédelmi tervezői tevékenység engedélyezési eljárásáért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.

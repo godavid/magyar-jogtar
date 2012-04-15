@@ -144,7 +144,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 - a) az iratkezelői és az irattári helyiségbe beléphet, az iratokba — a minősített adatot tartalmazó iratok kivételével — és az iratkezelési nyilvántartásokba betekinthet, az iratkezelési tevékenységet folyamatában vizsgálhatja;
 - b) iratkezelési kérdésekben szaktanácsot ad, a nem selejtezhető iratok épségben és használható állapotban történő megőrzését súlyosan veszélyeztető hibákat és hiányosságokat jegyzőkönyvbe foglalja, megszüntetésükre vonatkozóan határidőt állapít meg;
-- c) ha a szerv a jegyzőkönyvben meghatározott ideig nem intézkedik, akkor a levéltár szabálysértési eljárás indítása céljából a felügyeleti szervet értesíti, annak hiányában a szabálysértési eljárás indítását maga kezdeményezi.
+- c)
 
 ### A köziratok levéltárba adása
 

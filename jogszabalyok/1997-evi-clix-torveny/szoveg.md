@@ -305,6 +305,8 @@ alkalmazhat, illetve használhat.
 
 (2) Az önkormányzati természetvédelmi őr az (1) bekezdés b)–c) pontjában meghatározott intézkedéseivel szembeni ellenszegülés leküzdésére testi kényszert vagy a rendőrségnél rendszeresített könnygázszóró palackot alkalmazhat.
 
+(3) Az önkormányzati természetvédelmi őr az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.
+
 ### Közös szabályok
 
 15. § (1) A természetvédelmi őr és az önkormányzati természetvédelmi őr a kényszerítő eszköz alkalmazásáról a munkáltató útján haladéktalanul részletes írásbeli jelentést tesz a rendőrségnek.
@@ -411,9 +413,11 @@ alkalmazhat, illetve használhat.
 
 (3) A mezőőr és a rendőrség közötti együttműködésre a 15. § (4) és (5) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
+(3a) A mezőőr az e törvényben meghatározott feladatai ellátása során a Magyarország helyi önkormányzatairól szóló törvény 51. § (4) bekezdése szerinti önkormányzati rendeletben meghatározott helyszíni bírságot szabhat ki.
+
 (4) A mezőőr tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fegyveres biztonsági őrséggel, valamint az egyesületekkel.
 
-(5) Az (1)–(4) bekezdés előírásait kell megfelelően alkalmazni a külön törvényben meghatározott őrzési feladatokat ellátó halászati őrre.
+(5) Az (1)–(4) bekezdés előírásait kell megfelelően alkalmazni a külön törvényben meghatározott őrzési feladatokat ellátó halászati őrre, azzal hogy a (3a) bekezdésben meghatározott helyszíni bírság kiszabására csak az önkormányzat alkalmazásában álló halászati őr jogosult.
 
 ### A kényszerítő eszközök használatának szabályai
 

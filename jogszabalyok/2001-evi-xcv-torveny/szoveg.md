@@ -2294,7 +2294,7 @@ jogosult.
 (2) A fegyelemsértés elévülése miatt, nem indítható fegyelmi eljárás, ha
 
 - a) a fegyelemsértés elkövetése óta 1 év, vagy a fegyelmi jogkört gyakorló parancsnoknak a fegyelemsértésről való tudomásszerzésétől számítva 30 nap eltelt;
-- b) a szabálysértésekről szóló 1999. évi LXIX. törvény (a továbbiakban: Sztv.) szerint a szabálysértés elévülése bekövetkezett, illetve a fegyelmi jogkört gyakorló parancsnoknak az arról történt tudomásszerzésétől számítva 30 nap eltelt.
+- b) a szabálysértés elévülése bekövetkezett, illetve a fegyelmi jogkört gyakorló parancsnoknak az arról történt tudomásszerzésétől számítva 30 nap eltelt.
 
 (3) Ha a fegyelemsértést megvalósító magatartás egyben bűncselekménynek is minősül, a fegyelemsértés elévülési ideje – eltérően a (2) bekezdésben foglaltaktól – megegyezik a bűncselekménynek a Büntető Törvénykönyv 33. §-ában meghatározott elévülési idejével. Ha a vétkes kötelezettségszegésről a fegyelmi jogkör gyakorlója a (2) bekezdésben meghatározott határidőn túl szerez tudomást, a fegyelmi eljárást csak a hivatásos állományúnak a büntetőeljárásban gyanúsítottként történő bevonását követően, az erről való tudomásszerzéstől számított három hónapon belül lehet megindítani.
 
@@ -2538,7 +2538,7 @@ jogosult.
 
 165. § (1) A pénzbírságot a határozat jogerőre emelkedésétől számított 30 napon belül kell a szolgálati helyen befizetni. A fegyelmi jogkört gyakorló parancsnok (vezető) az érintett kérelmére legfeljebb 6 havi részletfizetést vagy halasztást engedélyezhet. Ha a fenyített a jogerősen kiszabott pénzbírságot az előírt határidő alatt nem fizette meg, illetve a részletfizetést elmulasztja, az egy összegben esedékessé válik, és azt az illetményéből, illetve – önkéntes tartalékos katona esetén – rendelkezésre állási díjából le kell vonni.
 
-(2) Ha az állomány tagja a szabálysértési hatóság által vele szemben jogerősen kiszabott pénzbírságot nem fizeti meg, és a szabálysértési hatóság emiatt azt elzárásra változtatta át, az elzárást katonai fogdában kell végrehajtani.
+(2) Ha az állomány tagja a szabálysértési hatóság által vele szemben jogerősen kiszabott pénzbírságot nem fizeti meg, és a bíróság emiatt azt elzárásra változtatta át, az elzárást katonai fogdában kell végrehajtani.
 
 ### A fenyítés hatálya
 

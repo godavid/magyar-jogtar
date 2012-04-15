@@ -2074,7 +2074,7 @@ abban az esetben, ha a községi, városi, fővárosi kerületi önkormányzat a
 
 vonatkozó rendelkezések megtartását.
 
-(5) A közoktatási feladatkörében eljáró oktatási hivatal jogszabályban meghatározottak szerint ellátja a szakértői és rehabilitációs bizottságok szakvéleményének felülvizsgálatával kapcsolatos feladatokat, valamint jogszabályban meghatározott körben gyakorolja a szabálysértési hatósági jogköröket.
+(5) A közoktatási feladatkörében eljáró oktatási hivatal jogszabályban meghatározottak szerint ellátja a szakértői és rehabilitációs bizottságok szakvéleményének felülvizsgálatával kapcsolatos feladatokat.
 
 (6) A közoktatási feladatkörében eljáró oktatási hivatal a hatósági ellenőrzés során feltárt szabálytalanság megszüntetése érdekében a következő intézkedéseket teheti:
 
@@ -2084,7 +2084,7 @@ vonatkozó rendelkezések megtartását.
   - bb) a nem állami, nem önkormányzati intézmények esetén a kifizető szervnél a normatív költségvetési támogatás és hozzájárulás felülvizsgálatára, folyósításának felfüggesztésére, szükség esetén az érintett gyermekek, tanulók másik nevelési-oktatási intézménybe történő átvételére, felvételére,
   - bc) az oktatásért felelős miniszternél, hogy gyakorolja az e törvény 93. §-ának (4)–(5) bekezdésében meghatározott jogkörét,
 - c) felügyeleti bírságot szab ki, melynek összege nem haladhatja meg az egymillió forintot,
-- d) a felügyeleti bírság kiszabása mellett vagy kiszabása nélkül szabálysértési eljárást folytat le,
+- d)
 - e) a semmisség megállapítása, illetve a megtámadható döntés érvénytelenségének megállapítása érdekében bírósági eljárást indít.
 
 (7) A felügyeleti bírságot az elkövetett cselekmény súlyával arányosan kell kiszabni.
