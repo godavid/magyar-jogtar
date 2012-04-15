@@ -120,7 +120,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 51. § (1)–(3)
 
-(4)
+(4) A helyi önkormányzat képviselő-testülete önkormányzati rendeletben meghatározhat tiltott, közösségellenes magatartásokat. A helyi önkormányzat képviselő-testülete e magatartás elkövetőjével szemben önkormányzati rendeletben ötvenezer forintig terjedő helyszíni bírság, illetve százötvenezer forintig terjedő közigazgatási bírság kiszabását rendelheti el, amely az önkormányzat saját bevételét képezi.
 
 (5)–(6)
 
@@ -456,7 +456,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 (4) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben határozza meg:
 
 - a)–d)
-- e)
+- e) a kirívóan közösségellenes magatartásokat, valamint a magatartás elkövetőjével szembeni pénzbírság kiszabásának szabályait;
 - f)
 - g)–h)
 - i) azon vagyonelemeket, amelyekre a helyi önkormányzat vagyonkezelői jogot létesíthet, továbbá a vagyonkezelői jog megszerzésének, gyakorlásának, valamint a vagyonkezelés ellenőrzésének szabályait.
@@ -473,11 +473,13 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § E törvény 1–83. §-ai, a 84. § (1)–(4) bekezdése, a 85–109. §-ai, a 125–144. §-ai, a 146. §, a 148. §, a 153–154. §-ai, a 156. §-a, valamint a 158. § b) pontja az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősülnek.
+145. § E törvény 1–83. §-ai, a 84. § (1)–(4) bekezdése, a 85–109. §-ai, a 125–144. §-ai, a 146. §, 146/A. §, a 148. §, a 153–154. §-ai, a 156. §-a, valamint a 158. § b) pontja az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősülnek.
 
 ### Átmeneti rendelkezések
 
 146. §
+
+146/A. § Az 51. § (4) bekezdésében meghatározott közigazgatási bírság kiszabásával kapcsolatos hatáskör a jegyzőre is átruházható.
 
 ### Módosító rendelkezések
 
