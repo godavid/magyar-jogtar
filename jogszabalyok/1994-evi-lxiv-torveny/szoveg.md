@@ -30,7 +30,7 @@ a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormán
 - e) a tisztségről történő lemondással,
 - f) az összeférhetetlenség kimondásával,
 - g) sorozatosan törvénysértő tevékenysége, mulasztása miatti jogi felelősségének jogerős bírósági ítéletben történő megállapításával, az ítélet jogerőre emelkedésének a napjával,
-- h) választójoga elvesztésével,
+- h) ha a helyi önkormányzati képviselők és polgármesterek választásán már nem válaszható,
 - i)
 - j)
 

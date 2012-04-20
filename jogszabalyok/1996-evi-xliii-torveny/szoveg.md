@@ -1585,6 +1585,8 @@ a gyermek 3. életévének – ikergyermek esetén a tankötelessé válás év�
 - b) főosztályvezető-helyettes vagy vele azonos beosztású vezető esetén a beosztási illetmény 20%-ára,
 - c) osztályvezető vagy vele azonos besorolású vezető esetén a beosztási illetmény 10%-ára.
 
+103/B. § Ha a Kormány, vagy miniszter által elrendelt szervezetátalakítás következtében megszűnő szervezet vagy szervezeti egység feladatait átvevő szervezet szervezeti szintje illetménykiegészítés szempontjából alacsonyabb, az átvevő szervezethez kerülő állomány az illetménykiegészítés különbözetéből származó illetménycsökkenés kiegyenlítésére – a különbözet mértékével egyező mértékben – kompenzációs illetménykiegészítésre jogosult.
+
 104. § (1) Idegennyelv-tudási pótlékra jogosult a hivatásos állomány tagja, ha olyan szolgálati beosztást tölt be, amelyben az idegen nyelv használata szükséges, feltéve, hogy az nem a szolgálati beosztással járó feladata.
 
 (2) Az idegen nyelv tudását az állami nyelvvizsga eredményét igazoló bizonyítvánnyal vagy azzal egyenértékű okirattal kell igazolni.

@@ -240,14 +240,10 @@ Az Országgyűlés e célok megvalósítása érdekében a következő törvény
 - s) helyi és körzeti médiaszolgáltató, lapkiadó, lapterjesztő vezetője, vezető testületének tagja, ügyvezetője, ezek vezető állású alkalmazottja,
 - sz) a Pénzügyi Szervezetek Állami Felügyeletének elnöke, alelnöke és köztisztviselője.
 
-(2) A főállású polgármester:
+(2) Ki kell mondani az összeférhetetlenségét annak a polgármesternek,
 
-- a) a tudományos, oktatói, lektori, szerkesztői, művészeti és jogi oltalom alá eső szellemi tevékenység kivételével egyéb, munkavégzésre irányuló jogviszonyt – az országgyűlési képviselői megbízatás kivételével – nem létesíthet;
-- b) a képviselő-testület hozzájárulása nélkül nem lehet
-  - ba) vállalatnak vezérigazgatója, vezérigazgató-helyettese, igazgatója, igazgatóhelyettese, igazgatótanácsának, vezető testületének és felügyelő bizottságának tagja,
-  - bb) gazdasági társaság vezető tisztségviselője, igazgatótanácsának, igazgatóságának vagy vezető testületének, felügyelő bizottságnak tagja, valamint a társasággal munkaviszonyban vagy munkavégzésre irányuló más jogviszonyban álló vezetője (vezérigazgatója),
-  - bc) szövetkezet tisztségviselője,
-  - bd) alapítvány kezelő szervezetének tagja, tisztségviselője.
+- a) akit – képviselői megbízatásának ideje alatt – bűntett miatt jogerősen szabadságvesztésre ítéltek, kivéve ha a közügyek gyakorlásától eltiltották,
+- b) akinek az állammal szemben – a lehetséges jogorvoslati eljárások kimerítését követően – köztartozása áll fenn, és azt az erről szóló értesítés kézhezvételétől számított hatvan napon belül – részletfizetés vagy fizetési halasztás esetén az ezt engedélyező határozat rendelkezéseinek megfelelően – nem rendezi.
 
 (2a) Összeférhetetlenség miatt meg kell szüntetni annak a polgármesternek a megbízatását,
 
