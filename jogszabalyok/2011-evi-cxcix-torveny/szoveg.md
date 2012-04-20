@@ -113,7 +113,7 @@ Az erős, de az indokoltnál nem nagyobb, a változásokhoz gyorsan és rugalmas
 
 (8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
 
-(9) Az (1)–(4) bekezdésben foglalt szabályokat az Állambiztonsági Szolgálatok Történeti Levéltára esetében nem kell alkalmazni.
+(9) Az (1)–(4) bekezdésben foglalt szabályokat az Országgyűlés Hivatala és az Állambiztonsági Szolgálatok Történeti Levéltára esetében nem kell alkalmazni.
 
 ### II. Fejezet — KÖZÖS SZABÁLYOK
 
@@ -2738,13 +2738,13 @@ munkanapra emelkedik.
 
 (5) A 142. § azzal az eltéréssel alkalmazandó, hogy a közszolgálati jogviszonyban munkaköri pótlék nem állapítható meg.
 
-(6) Az Országgyűlés Hivatalánál a 142. § azzal az eltéréssel alkalmazandó, hogy a hivatali szerv vezetője az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.
+(6) Az Országgyűlés Hivatalánál a 142. § azzal az eltéréssel alkalmazandó, hogy az Országgyűlés Hivatalának vezetője az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.
 
 ### A munkáltatói jogkör gyakorlása
 
 227. § (1) A munkáltatói jogokat, ha törvény vagy kormányrendelet eltérően nem rendelkezik, a közigazgatási szerv hivatali szervezetének vezetője, illetve a képviselő-testület gyakorolja.
 
-(2) Az Országgyűlés Hivatalának vezetői felett a munkáltatói jogokat, továbbá a helyettes vezetők felett az alapvető munkáltatói jogokat az Országgyűlés elnöke, a helyettes vezetők feletti egyéb munkáltatói jogokat és az Országgyűlés Hivatala további köztisztviselői feletti munkáltatói jogokat az Országgyűlés Hivatalának vezetői – a szervezeti és működési szabályzatban meghatározottak szerint – gyakorolják.
+(2) Az Országgyűlés Hivatalának vezetője, továbbá a szervezeti és működési szabályzatban meghatározott hivatali szervek vezetői felett a munkáltatói jogokat az Országgyűlés elnöke, az Országgyűlés Hivatalának további köztisztviselői feletti munkáltatói jogokat az Országgyűlés Hivatalának vezetője – a szervezeti és működési szabályzatban meghatározottak szerint – gyakorolja.
 
 ### A közszolgálati jogviszony létesítése, besorolás
 
@@ -2822,7 +2822,7 @@ munkanapra emelkedik.
 
 236. § (1) Az Állambiztonsági Szolgálatok Történeti Levéltára főigazgatója és főigazgató-helyettese főosztályvezetői illetményre jogosult azzal, hogy a főigazgató alapilletménye az illetményalap 11-szerese, a főigazgató-helyettesé 9,5-szerese, s egyéb juttatásaikat az Országgyűlés elnöke állapítja meg.
 
-(2) Az Alkotmánybíróság főtitkára, valamint az Országgyűlés Hivatalának vezetői a közigazgatási államtitkárral, az Országgyűlés Hivatalának helyettes vezetői a helyettes államtitkárral azonos illetményben és juttatásban részesülnek.
+(2) Az Alkotmánybíróság főtitkára, valamint az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek vezetői a közigazgatási államtitkárral, az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek helyettes vezetői a helyettes államtitkárral azonos illetményben és juttatásban részesülnek.
 
 (3) A vezetői illetménypótlék mértéke a 234. § (1) és (2) bekezdésben meghatározott közigazgatási szervnél:
 

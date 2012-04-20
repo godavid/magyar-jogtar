@@ -175,6 +175,8 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 
 (2) Ha az országos listán nincs több jelölt, a mandátum betöltetlen marad.
 
+(3) A nemzetiségi szószóló megbízatásának megszűnése esetén szószóló az országos listán eredetileg is szereplő jelöltek közül az országos nemzetiségi önkormányzat által megnevezett, ennek hiányában az országos listán soron következő jelölt lesz. Ha az országos listán nincs több jelölt, az adott nemzetiséget az Országgyűlés megbízatásának megszűnéséig nem képviseli nemzetiségi szószóló.
+
 #### 11. Záró rendelkezések
 
 21. § Ez a törvény 2012. január 1. napján lép hatályba.

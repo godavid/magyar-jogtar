@@ -374,7 +374,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 (8) Amennyiben a jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító országos televíziós médiaszolgáltatók a (2) bekezdés c) pontjában foglalt lehetőséggel nem élnek, a nyertes digitális műsorszóró hálózat üzemeltetője a rendelkezésre álló átviteli kapacitások vonatkozásában szabadon köthet szerződést más általános tematikájú országos médiaszolgáltatóval. A jelenleg a médiaszolgáltatást földfelszíni műsorszórás útján megvalósító országos televíziós médiaszolgáltatók a 43. § (1) bekezdésében foglalt pályázaton értékesített bármely digitális műsorszóró hálózatra abban az esetben kerülhetnek fel, ha szerződés megkötésével vállalják, hogy műsorukat a 43. § (1) bekezdésében foglalt legnagyobb vagy második legnagyobb lakossági elérésű, nem mobil vételű digitális televízió műsorszóró hálózaton a műsorterjesztési szolgáltatás indulásával körzetenként elérhetővé teszik.
 
-40. § (1) A pályázati eljárást az Országgyűlés által létrehozott eseti bizottság (a továbbiakban: Bizottság) felügyeli. A Bizottság ügyrendjét az e törvényben meghatározottak figyelembevételével az Országgyűlés Házszabálya szerint maga állapítja meg.
+40. § (1) A pályázati eljárást az Országgyűlés által létrehozott eseti bizottság (a továbbiakban: Bizottság) felügyeli. A Bizottság ügyrendjét az e törvényben meghatározottak figyelembevételével az Országgyűlés a házszabályi rendelkezésekben maga állapítja meg.
 
 (2) A Bizottságba minden országgyűlési képviselőcsoport jogosult egy-egy tagot jelölni.
 
