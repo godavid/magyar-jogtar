@@ -1090,130 +1090,49 @@ sarkalatosnak minősül.
 
 149. § (1)
 
-(2) A helyi önkormányzatokról szóló 1990. évi LXV. törvény 33/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+(2)
 
-„(2) Ki kell mondani az összeférhetetlenségét annak a polgármesternek,
-
-a) akit – képviselői megbízatásának ideje alatt – bűntett miatt jogerősen szabadságvesztésre ítéltek, kivéve ha a közügyek gyakorlásától eltiltották,
-
-b) akinek az állammal szemben – a lehetséges jogorvoslati eljárások kimerítését követően – köztartozása áll fenn, és azt az erről szóló értesítés kézhezvételétől számított hatvan napon belül – részletfizetés vagy fizetési halasztás esetén az ezt engedélyező határozat rendelkezéseinek megfelelően – nem rendezi.”
-
-150. § A polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény 2. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(A polgármester e tisztsége megszűnik:)
-
-„h) ha a helyi önkormányzati képviselők és polgármesterek választásán már nem válaszható,”
+#### 150. §
 
 151. § (1)–(5)
 
-(6) A Hszt. a következő 103/B. §-sal egészül ki:
-
-„103/B. § Ha a Kormány, vagy miniszter által elrendelt szervezetátalakítás következtében megszűnő szervezet vagy szervezeti egység feladatait átvevő szervezet szervezeti szintje illetménykiegészítés szempontjából alacsonyabb, az átvevő szervezethez kerülő állomány az illetménykiegészítés különbözetéből származó illetménycsökkenés kiegyenlítésére – a különbözet mértékével egyező mértékben – kompenzációs illetménykiegészítésre jogosult.”
+(6)
 
 (7)–(8)
 
-152. § Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvény 1. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az országgyűlési bizottság tagja és tisztségviselője kivételével az Országgyűlés által megválasztott személy, valamint az országgyűlési képviselő (a továbbiakban együtt: közjogi tisztségviselő) a megválasztását követően az Országgyűlés előtt a melléklet szerinti szöveggel esküt vagy fogadalmat (a továbbiakban együtt: eskü) tesz.”
+#### 152. §
 
 #### 153. §
 
-154. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 36. § (1) bekezdés a) pontja a következő szöveggel lép hatályba:
+#### 154. §
 
-(Az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja nem folytathat olyan tevékenységet, amely a feladatainak ellátásához szükséges közbizalmat megingathatja, továbbá nem lehet)
+#### 155. §
 
-„a) országgyűlési képviselő, valamint aki olyan tisztséget tölt be, olyan feladatot lát el, amelyre kinevezését, megbízatását az Országgyűléstől, köztársasági elnöktől, Kormánytól, Kormány tagjától vagy az Országgyűlés, Kormány alárendeltségébe tartozó szervtől (vezetőjétől) kapta, kivéve ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet lát el;”
+#### 156. §
 
-155. § (1) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 8. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Az (1)–(4) bekezdésben foglalt szabályokat az Országgyűlés Hivatala és az Állambiztonsági Szolgálatok Történeti Levéltára esetében nem kell alkalmazni.”
-
-(2) A Kttv. 226. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az Országgyűlés Hivatalánál a 142. § azzal az eltéréssel alkalmazandó, hogy az Országgyűlés Hivatalának vezetője az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.”
-
-(3) A Kttv. 227. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az Országgyűlés Hivatalának vezetője, továbbá a szervezeti és működési szabályzatban meghatározott hivatali szervek vezetői felett a munkáltatói jogokat az Országgyűlés elnöke, az Országgyűlés Hivatalának további köztisztviselői feletti munkáltatói jogokat az Országgyűlés Hivatalának vezetője – a szervezeti és működési szabályzatban meghatározottak szerint – gyakorolja.”
-
-(4) A Kttv. 236. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az Alkotmánybíróság főtitkára, valamint az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek vezetői a közigazgatási államtitkárral, az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek helyettes vezetői a helyettes államtitkárral azonos illetményben és juttatásban részesülnek.”
-
-156. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény a következő 25/A. §-sal egészül ki:
-
-„25/A. § (1) A Tanács 25. § (4) bekezdése szerinti véleménye alapján a Kormány zárószavazás előtti módosító javaslatot nyújt be annak érdekében, hogy a költségvetési törvényjavaslat megfeleljen az államadósság-szabálynak. A Kormány által benyújtott módosító javaslat a költségvetési törvényjavaslat korábban már megszavazott módosító javaslattal érintett részének megváltoztatását, újbóli megállapítását is tartalmazhatja.
-
-(2) A költségvetési törvényjavaslathoz benyújtott zárószavazás előtti módosító javaslatokat az Országgyűlés elnöke az azok benyújtására vonatkozó határidő lejártát követően haladéktalanul megküldi a Tanácsnak. A Tanács a zárószavazás előtti módosító javaslatok kézhezvételétől számított egy napon belül írásban tájékoztatja az Országgyűlés elnökét arról, hogy azok megfelelnek-e az államadósság-szabálynak.
-
-(3) A Tanács az Országgyűlés elnökének az elfogadott zárószavazás előtti módosító javaslatokról való tájékoztatása alapján az annak kézhezvételét követő egy napon belül alakítja ki a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulására vonatkozó álláspontját. A Tanács az előzetes hozzájárulás megtagadásáról hozott döntését részletesen indokolja.
-
-(4) A Tanács elnökét az Országgyűlés azon ülésére, amelyen a költségvetési törvényjavaslat zárószavazására kerül sor, meg kell hívni, a Tanács elnöke azon – a Tanácsnak a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulásával kapcsolatos álláspontja kifejtése céljából – felszólalhat. Ha a Tanács elnöke a Tanácsnak a költségvetési törvényjavaslattal kapcsolatos előzetes hozzájárulására vonatkozó álláspontját a költségvetési törvényjavaslat zárószavazását megelőzően nem ismerteti az Országgyűlés ülésén vagy nem közli az Országgyűlés elnökével, a Tanácsnak a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulását megadottnak kell tekinteni.
-
-(5) Ha a Tanács a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulását nem adja meg, a költségvetési törvényjavaslat zárószavazását el kell halasztani. A költségvetési törvényjavaslat zárószavazásának elhalasztása esetén a Kormány olyan módosító javaslatot köteles benyújtani a költségvetési törvényjavaslathoz, amelynek eredményeként a költségvetési törvényjavaslat az államadósság-szabálynak megfelel. Ebben az eljárásban más módosító javaslat nem nyújtható be.
-
-(6) Az (1)–(5) bekezdésben foglalt eljárást azzal, hogy az így megismételt eljárásban kizárólag a Kormány jogosult módosító javaslatot benyújtani, mindaddig kell folytatni, amíg a Tanács a költségvetési törvényjavaslat elfogadásához szükséges előzetes hozzájárulását meg nem adja.”
-
-(2) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 26. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A központi költségvetésről szóló törvény módosítását tartalmazó olyan törvényjavaslat, amely – a megszavazott módosító javaslatokra tekintettel – a központi költségvetés bevételi vagy kiadási főösszegét megváltoztatná, vagy a költségvetési hiány mértékét növelné, a Tanács előzetes hozzájárulása alapján bocsátható zárószavazásra.
-
-(2) Az Országgyűlés elnöke az (1) bekezdés szerinti törvényjavaslatot annak benyújtását követően és az ahhoz kapcsolódóan megszavazott módosító javaslatokat azok elfogadását követően – az előzetes hozzájárulás megadása céljából – haladéktalanul megküldi a Tanács részére.
-
-(3) A Tanács az előzetes hozzájárulásra vonatkozó döntését a zárószavazás előtti módosító javaslatokról való szavazást – ha az (1) bekezdés szerinti törvényjavaslathoz az általános vita lezárásáig módosító javaslatot nem terjesztettek elő, az általános vita lezárását, ha az (1) bekezdés szerinti törvényjavaslathoz benyújtott módosító javaslatok közül az Országgyűlés egyet sem fogadott el, a módosító javaslatokról való szavazást, ha zárószavazás előtti módosító javaslat benyújtására nem került sor, az erre vonatkozó határidő lejártát – követően, a (2) bekezdés szerinti tájékoztatás kézhezvételétől számított egy napon belül közli az Országgyűlés elnökével. A Tanács az előzetes hozzájárulás megtagadásáról hozott döntését részletesen indokolja.”
-
-(3) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 26. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Ha a Tanács elnöke az előzetes hozzájárulására vonatkozó álláspontját az (1) bekezdés szerinti törvényjavaslat zárószavazását megelőzően nem közli az Országgyűlés elnökével, a Tanácsnak az (1) bekezdés szerinti törvényjavaslat elfogadásához szükséges előzetes hozzájárulását megadottnak kell tekinteni.”
-
-(4) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 24. § (1) bekezdésében a „költségvetésről szóló törvénynek a fejezetek főösszegét, illetve a költségvetési hiány vagy többlet mértékét érintő módosítását” szövegrész helyébe a „költségvetés bevételi vagy kiadási főösszegét megváltoztató, vagy a költségvetési hiány mértékét növelő módosítást” szöveg, 26. § (4) bekezdésében a „módosító indítvány” szövegrész helyébe a „módosító javaslat” szöveg, a „25. § (5)–(9) bekezdését” szövegrész helyébe a „25/A. §-t” szöveg lép.
-
-(5) Hatályát veszti a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 25. § (5)–(9) bekezdése és 26. § (5) bekezdése.
-
-157. § Az országgyűlési képviselők választásáról szóló 2011. évi CCIII. törvény 20. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A nemzetiségi szószóló megbízatásának megszűnése esetén szószóló az országos listán eredetileg is szereplő jelöltek közül az országos nemzetiségi önkormányzat által megnevezett, ennek hiányában az országos listán soron következő jelölt lesz. Ha az országos listán nincs több jelölt, az adott nemzetiséget az Országgyűlés megbízatásának megszűnéséig nem képviseli nemzetiségi szószóló.”
+#### 157. §
 
 #### 158. §
 
-159. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) E törvény II. fejezete alkalmazásában jogszabályon, 9. § (1) és (3) bekezdése alkalmazásában törvényen az Országgyűlés Hivatala tekintetében az Országgyűlés házszabályi rendelkezéseit is érteni kell.”
-
-(2) A műsorterjesztés és a digitális átállás szabályairól szóló 2007. évi LXXIV. törvény 40. § (1) bekezdésében a „Házszabálya szerint” szövegrész helyébe a „a házszabályi rendelkezésekben” szöveg lép.
-
-(3) Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 9. § (1a) bekezdés a) pontjában az „1990. évi LVI. törvény” szövegrész helyébe a „törvény” szöveg lép.
-
-(4) A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény
-
-- a) 1. § (1) bekezdésében a „Magyar Nemzeti Bank” szövegrész helyébe a „Magyar Nemzeti Bank, a Költségvetési Tanács” szöveg,
-- b) 1. § (2) bekezdésében a „miniszterelnök” szövegrész helyébe a „miniszterelnök és az Országgyűlés elnöke” szöveg,
-- c) 2. melléklet III. 2. pontjában a „felirat: Becsület Rend” szövegrész helyébe a „felirat: Magyar Becsület Rend” szöveg
-
-lép.
+#### 159. §
 
 #### 54. Hatályon kívül helyező rendelkezések
 
 160. § (1) Hatályát veszti
 
-- a) az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény,
+- a)
 - b)
-- c) az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény módosításáról szóló 1997. évi V. törvény,
-- d) az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény módosításáról szóló 1998. évi XXXII. törvény,
-- e) az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény módosításáról szóló 2001. évi VI. törvény,
-- f) az Országgyűlés és a Kormány európai uniós ügyekben történő együttműködéséről szóló 2004. évi LIII. törvény,
-- g) az országgyűlési képviselők jogállásáról szóló 1990. évi LV. törvény módosításáról szóló 2006. évi LXIII. törvény, valamint
+- c)–g)
 - h)
 
 (2) Hatályát veszti
 
-- a) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 13. §-a és az azt megelőző alcím, valamint
-- b) a jogalkotásról szóló 2010. évi CXXX. törvény 15/A. alcíme,
+- a)–b)
 - c)
 
 (3)
 
-(4) Nem lép hatályba a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 38. § (1) bekezdés a) és c) pontja.
+(4)
 
 ### 1. melléklet a 2012. évi XXXVI. törvényhez
 
