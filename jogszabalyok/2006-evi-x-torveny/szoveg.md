@@ -34,12 +34,20 @@ a következő törvényt alkotja:
 
 8. § (1) A szociális szövetkezet a 7. §-ban foglaltaknak megfelelő olyan szövetkezet,
 
-- a) amelynek célja munkanélküli, illetőleg szociálisan hátrányos helyzetben lévő tagjai számára munkafeltételek teremtése, valamint szociális helyzetük javításának egyéb módon történő elősegítése;
+- a) amelynek célja a hátrányos helyzetben lévő tagjai számára munkafeltételek teremtése, valamint szociális helyzetük javításának egyéb módon történő elősegítése;
 - b) amely iskolaszövetkezetként működik.
 
-(2) A szociális szövetkezetnek a nevében viselnie kell a szociális szövetkezet megnevezést, illetve – iskolaszövetkezet esetében – az iskolaszövetkezet megnevezést.
+(2) A szociális szövetkezetnek a nevében viselnie kell a szociális szövetkezet megnevezést, illetve – iskolaszövetkezet vagy foglalkoztatási szövetkezet esetében – az iskolaszövetkezet, foglalkoztatási szövetkezet megnevezést.
 
 (3) A szociális szövetkezet külön törvényben meghatározottak szerint közhasznú jogállású lehet.
+
+### A foglalkoztatási szövetkezet fogalma
+
+8/A. § (1) A foglalkoztatási szövetkezet olyan a 8. § (1) bekezdés a) pontja szerinti szociális szövetkezet, amelynek legalább 500 természetes személy és legalább egy országos nemzetiségi önkormányzat a tagja.
+
+(2) A foglalkoztatási szövetkezet a hátrányos helyzetben lévő tagjai számára a munkafeltételek megteremtését elsősorban munkaerő-kölcsönzés, valamint munkaközvetítő tevékenység útján valósítja meg, amelyre a munkaerő-kölcsönzésre, a közhasznú kölcsönzőre vonatkozó, valamint a magán-munkaközvetítői tevékenység folytatásának feltételeit
+
+szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját tagjai tekintetében munkaerő-kölcsönzési tevékenységet láthat el.
 
 ### Jognyilatkozatokkal kapcsolatos rendelkezések
 
@@ -59,9 +67,11 @@ a következő törvényt alkotja:
 
 (3) A jogi személyek és jogi személyiség nélküli gazdasági társaság tagok együttesen nem haladhatják meg a taglétszám felét. Kizárólag szövetkezetek részvételével másodlagos szövetkezet alapítható és működtethető.
 
-(4) Szociális szövetkezetnek – az (5) bekezdésben foglalt kivétellel – csak természetes személy tagjai lehetnek.
+(4) Szociális szövetkezetnek – az (5) és (5a) bekezdésben foglalt kivétellel – csak természetes személy tagjai lehetnek.
 
 (5) Iskolaszövetkezet alapításához az oktatási intézmény alapító tagsága szükséges.
+
+(5a) Szociális szövetkezetnek (az iskolaszövetkezetet ide nem értve) a természetes személy tagjain kívül helyi önkormányzat vagy nemzetiségi önkormányzat, illetve ezek jogi személyiségű társulása (a továbbiakban együtt: önkormányzat) is lehet a tagja.
 
 (6) Természetes személyként szövetkezeti tag az lehet, aki
 
@@ -601,11 +611,11 @@ a következő törvényt alkotja:
 - d) mekkora hányadát osztja szét a tagok között a részjegyeik arányában;
 - e) mekkora hányadát fordítja egyéb célra.
 
-(3) A közhasznú szervezeti jogállással rendelkező szociális szövetkezet az adózás utáni eredményét – a (2) bekezdésben foglaltaktól eltérően – a közhasznú céljának megvalósítására fordítja.
+(3) A szociális szövetkezet közgyűlése – a (2) bekezdésben foglaltaktól eltérően – a szociális szövetkezet nyilvántartásba vételét követő két üzleti évben nem dönthet az adózás utáni eredménynek a tagok részére történő bármilyen jogcímen történő kifizetéséről. A közhasznú szervezeti jogállással rendelkező szociális szövetkezet az adózás utáni eredményét – a (2) bekezdésben foglaltaktól eltérően – közhasznú céljának megvalósítására fordítja.
 
 ### A befektető tag
 
-60. § (1) Ha az alapszabály lehetővé teszi, befektető tag is lehet szövetkezeti tag. A befektető tag felvételéről a közgyűlés dönt. Szociális szövetkezetnek nem lehet befektető tagja.
+60. § (1) Ha az alapszabály lehetővé teszi, befektető tag is lehet szövetkezeti tag. A befektető tag felvételéről a közgyűlés dönt. Szociális szövetkezetnek – az önkormányzat tag kivételével – nem lehet befektető tagja.
 
 (2) A befektető tag pénzbeli hozzájárulás vagy a 49. § (3) bekezdésében foglalt követelményeknek megfelelő nem pénzbeli hozzájárulás rendelkezésre bocsátásával a szövetkezetnél befektetői részjegyet jegyez (továbbiakban: befektetői részjegy).
 
@@ -621,7 +631,7 @@ a következő törvényt alkotja:
 
 - a) a befektető tag az 50. § (2) bekezdésében foglaltaktól eltérően a pénzbeli hozzájárulás teljes összegét is köteles az alapításkor (belépéskor) befizetni;
 - b) a befektető tag személyes közreműködésre nem kötelezhető;
-- c) a befektető tag a befektetői részjegyét a szövetkezeti tagon és a szövetkezetbe tagként belépő személyen túlmenően befektető tagra, valamint a szövetkezetbe befektető tagként belépő személyre is átruházhatja.
+- c) a befektető tag a befektetői részjegyét befektető tagra, a szövetkezetbe befektető tagként belépő személyre, valamint – szociális szövetkezet befektető tagja kivételével – a szövetkezeti tagra és a szövetkezetbe tagként belépő személyre is átruházhatja.
 
 ### A tagsági jogviszony megszűnése
 
@@ -1002,7 +1012,9 @@ a következő törvényt alkotja:
 
 (4) A közoktatási intézményi tag részvételével működő iskolaszövetkezet esetén az e törvény felhatalmazása alapján kiadott jogszabály az iskolaszövetkezet tagságával, tagsági jogviszonyával, vagyoni hozzájárulásával, szervezeti felépítésével, illetve gazdálkodásával kapcsolatosan az általános szabályoktól eltérő szabályokat állapíthat meg.
 
-108–109. §
+108. § E törvénynek a szövetkezetekről szóló 2006. évi X. törvény, az illetékekről szóló 1990. évi XCIII. törvény és a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosításáról szóló törvénnyel (a továbbiakban: Módtv.) módosított 59. § (3) bekezdését a Módtv. hatálybalépését követően nyilvántartásba vett szociális szövetkezetek esetében kell alkalmazni.
+
+109. §
 
 110. §
 
