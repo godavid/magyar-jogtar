@@ -74,7 +74,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - j) a Magyar Rádió Nonprofit Zrt., a Magyar Televízió Nonprofit Zrt., a Duna Televízió Nonprofit Zrt., a Magyar Távirati Iroda Nonprofit Zrt., és a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 - k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés tagállamainak és a Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői, valamint az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok, és e fegyveres erők és parancsnokságok személyi állományába tartozó vagy alkalmazásában álló nem magyar állampolgárságú, katonai szolgálatban lévő és polgári állományú személyek, kizárólag a szolgálati kötelezettségükkel összefüggő illetékügyek tekintetében,
 - l) a területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó fejlesztési tanács,
-- m) a közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság,
+- m) a közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, a közhasznú szociális szövetkezet,
 - n) az Európai Közösségek, valamint azok intézményei és szervei, hivatalai, elkülönült alapjai.
 
 (2) Az (1) bekezdés c)–g) és m) pontokban említett szervezetet az illetékmentesség csak abban az esetben illeti meg, ha a vagyonszerzést, illetőleg az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége, illetve – költségvetési szerv esetében – eredménye után a központi költségvetésbe befizetési kötelezettsége nem keletkezett.
@@ -765,11 +765,13 @@ Ha a hatósági nyilvántartásban a gépjármű teljesítménye csak lóerőben
 
 - a) nyilvánosan működő részvénytársaság, illetve az európai részvénytársaság esetében 600 000 forint,
 - b) zártkörűen működő részvénytársaság, korlátolt felelősségű társaság esetében 100 000 forint,
-- c) az a) és b) pont alá nem tartozó egyéb jogi személy esetén 100 000 forint,
+- c) az a) és b) pont alá nem tartozó egyéb jogi személy esetén – az (1a) bekezdésben foglalt kivétellel – 100 000 forint,
 - d) jogi személyiség nélküli gazdasági társaság esetén 50 000 forint,
 - e) egyéni cég esetén 30 000 forint,
 - f) külföldi székhelyű vállalkozás magyarországi fióktelepe esetén 50 000 forint,
 - g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 forint.
+
+(1a) A szociális szövetkezet bejegyzésére irányuló eljárás illetékmentes.
 
 (2) Ha a cégbejegyzésre irányuló kérelemben fióktelep bejegyzését is kérik, az (1) bekezdésben meghatározott illetéken kívül további illetéket nem kell fizetni.
 
@@ -1386,6 +1388,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 99/D. § (1) Az 5. § (2) és (4) bekezdésének, a 16. § (2d) bekezdésének, a 17. § (2d) bekezdésének, a 26. § (1) bekezdése t, v, w pontjának, a 26. § (2d) bekezdésének, a 26/A. § (1) bekezdés b) pontjának, az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított szövege valamennyi olyan illetékügyben alkalmazandó, melyben a hatálybalépéskor az állami adóhatóság fizetési meghagyást még nem adott ki.
 
 (2) Az 1. § (1)–(2) bekezdéseinek, a 23/A. § (1) bekezdésének, a 24. § (1), (3), (4), (6) és (7) bekezdésének, a 29. § (1), (3) és (7) bekezdésének, a 33. § (2) bekezdése 23. és 35. pontjának, a 39. § (3) bekezdésének, a 42. § (1) bekezdésének, a 43. § (1), (3), (5), (7) és (8) bekezdésének, a 46. § (1)–(2) bekezdéseinek, a 47. § (1) és (3) bekezdésének, az 50. § (1)–(4) bekezdéseinek, az 52. § (1) bekezdésének, az 57. § (1) bekezdése a) pontjának, az 58. § (1) bekezdése f) pontjának, a 74. §-ának, 78. § (1) bekezdésének, a 102. § (1) bekezdése v) pontjának, valamint a Melléklet IX. Címe I. és II/3. pontjának, X. Címe 3. pontjának és a XXI. Címe 1. és 2. pontjainak az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított szövegét a hatálybalépést követően illetékkiszabásra bemutatott vagy más módon az állami adóhatóság tudomására jutott vagyonszerzési ügyekben, illetve kezdeményezett eljárásokban kell alkalmazni.
+
+99/E. § E törvénynek a szövetkezetekről szóló 2006. évi X. törvény, az illetékekről szóló 1990. évi XCIII. törvény és a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosításáról szóló törvénnyel (a továbbiakban: Módtv.) megállapított 5. § (1) bekezdés m) pontját, 45. § (1) bekezdés c) pontját és 45. § (1a) bekezdését a Módtv. hatálybalépését követően illetékkiszabásra bemutatott vagy más módon az állami adóhatóság tudomására jutott vagyonszerzési ügyekben, valamint kezdeményezett elsőfokú, illetve jogorvoslati eljárásokban kell alkalmazni.
 
 ### Felhatalmazás
 
