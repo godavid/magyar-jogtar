@@ -475,7 +475,7 @@ kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre 
 
 (2) Amennyiben a biztosított munkáltatója a Tbj. szerinti biztosítási jogviszony fenntartása mellett egybefüggően három hónapot meghaladó időtartamra a biztosítottat harmadik állam területén foglalkoztatja, és ez idő alatt a biztosított, illetve a vele együtt harmadik állam területén tartózkodó eltartott házastársa és gyermeke a 12–14. §-okban, továbbá a 15. § (1) bekezdésében meghatározott valamely egészségügyi szolgáltatást, továbbá sürgősségi betegszállítást indokoltan vesz igénybe harmadik állam területén lévő tartózkodási helyén, az egészségbiztosító a felmerült és igazolt költségeket, az igénybevétel idején érvényes belföldi költség mértékének megfelelő összegben, sürgősségi betegszállítás esetén a számla szerinti összegnek a Magyar Nemzeti Bank által közzétett, az igénybevételkor érvényes középárfolyamon számított forint összegben megtéríti.
 
-(3) Amennyiben a biztosított az uniós rendeletek hatálya alá tartozik, EGT tagállam területén egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint vehet igénybe.
+(3) Amennyiben a biztosított az uniós rendeletek óhatálya alá tartozik, EGT tagállam területén egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint vehet igénybe.
 
 (4) A (2) bekezdés szerinti foglalkoztatás esetében a biztosított és a vele együtt ott tartózkodó eltartott házastársa és gyermeke nem Magyarországon történő egészségügyi ellátása akkor fogadható el indokoltan igénybe vettnek, ha eleget tettek a külön jogszabályban foglaltak szerint a nem Magyarországon történő munkavégzésre való alkalmasság megállapítását célzó orvosi vizsgálati kötelezettségüknek.
 
@@ -557,7 +557,7 @@ igazolja.
 
 (3) Az egészségbiztosító külön jogszabályban meghatározott esetben külön jogszabály szerinti hatósági bizonyítvánnyal rendelkező nem egészségügyi szolgáltatóval is köthet szerződést gyógyászati segédeszköz egyedi méretvétel alapján társadalombiztosítási támogatással történő gyártására, illetve ezen eszközök társadalombiztosítási támogatással történő javítására.
 
-(4) Az (1) bekezdés szerinti szerződés megkötésének, az egészségügyi szolgáltató által kezdeményezett módosításának, illetve az egészségügyi szolgáltató általi felmondásának érvényességi feltétele az egészségügyi szakellátások esetében az egészségügyi szolgáltató fenntartója általi jóváhagyás.
+(4) Az (1) bekezdés szerinti szerződés megkötésének, az egészségügyi szolgáltató által kezdeményezett módosításának, illetve az egészségügyi szolgáltató általi felmondásának – a 31. § (1) bekezdés b)–f) pontjaiban meghatározott esetek kivételével – érvényességi feltétele az egészségügyi szakellátások esetében az egészségügyi szolgáltató fenntartója általi jóváhagyás.
 
 30/A. § Az egészségbiztosító szerződést köthet a gyógyszer forgalomba hozatalára jogosulttal, a gyógyászati segédeszközt forgalomba hozóval, illetve a gyógyászati ellátást nyújtóval az árhoz nyújtott támogatással forgalmazható termék és ellátás áráról, mennyiségéről, minőségi követelményéről, illetve a felek által lényegesnek ítélt egyéb kérdésről.
 
@@ -1409,9 +1409,13 @@ bírálja el és folyósítja.
 
 (8) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 40. § (2) bekezdés a) pontját, valamint a 42/A. § (4) bekezdés a) pontját a 2013. július 31-ét követően bekövetkező szülések esetén kell alkalmazni.
 
-(9) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel megállapított 20. § (2) bekezdés szerinti országos várólista nyilvántartást, valamint a 20. § (1) bekezdés a) pontja szerinti térségi várólistákat az adott térségben az adott ellátások tekintetében a térségben működő egészségügyi szolgáltatók által vezetett intézményi várólisták alapján – kormányrendeletben meghatározottak szerint – 2012. április 30-áig kell létrehozni.
+(9)
 
 (9) A bírósági végrehajtással kapcsolatos és egyéb igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel megállapított 35. § (1a) bekezdés szerinti nyilatkozattételi kötelezettséget a 2012. január 1-jén hatályos finanszírozási szerződéssel rendelkező szolgáltató 2012. március 31-éig teljesíti.
+
+(10) A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Módtv1.) megállapított 20. § (2a) bekezdése szerinti országos várólista-nyilvántartást az egészségügyi szolgáltatók által vezetett intézményi várólisták alapján – kormányrendeletben meghatározottak szerint – 2012. június 30-áig kell létrehozni.
+
+(11) A Módtv1. által megállapított 30. § (4) bekezdését a Módtv1. hatálybalépésekor érvényes finanszírozási szerződések, valamint a 2011. december 31. után kezdeményezett finanszírozási szerződés-módosítások tekintetében is alkalmazni kell, azzal, hogy a még jóvá nem hagyott szerződésmódosítások a Módtv1. hatálybalépésének időpontjában érvényessé válnak.
 
 ### Záró rendelkezések
 
@@ -1445,7 +1449,7 @@ bírálja el és folyósítja.
 - x) a gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás árához nyújtott társadalombiztosítási támogatás elszámolására és folyósítására vonatkozó szabályok,
 - y) az elszámolási nyilatkozattal kapcsolatos részletes szabályok,
 - z) az Európai Egészségbiztosítási Kártya érvényességi idejének és kibocsátása szabályainak
-- zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzésre és a betegfogadási listára vonatkozó szabályok
+- zs) az országos várólista nyilvántartásra, a központi várólistára, a transzplantációs várólistára, a térségi várólistára, az intézményi előjegyzésre, intézményi várólistára és a betegfogadási listára vonatkozó szabályok
 
 meghatározására.
 
@@ -1454,7 +1458,7 @@ meghatározására.
 - a) határozza meg az országos várólista nyilvántartás, valamint a térségi várólistáknak a korábbi intézményi várólisták alapján történő létrehozásának szabályait,
 - b) jelölje ki a térségi betegút-szervezésért felelős szervet,
 - c) jelölje ki az országos várólista nyilvántartást vezető szervet,
-- d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, az intézményi előjegyzés alapján, illetve a betegfogadási lista alapján végzett ellátásokkal kapcsolatos jelentés szabályait.
+- d) határozza meg a térségi várólista alapján történő ellátás-igénybevétel, az annak érdekében szükséges kapcsolattartás és a térségi várólista alapján történő szolgáltató-választás, valamint a térségi várólista alapján, az intézményi előjegyzés alapján, intézményi várólista alapján, illetve a betegfogadási lista alapján végzett ellátásokkal kapcsolatos jelentés szabályait.
 
 (2b) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg az egészségbiztosító által a 31. § (11) bekezdése alapján kiszabható bírság mértékét.
 
@@ -1477,7 +1481,7 @@ meghatározására.
 - d) a meddőség kezelésére vonatkozó rendelkezéseket,
 - e) a szanatóriumi ellátásokat,
 - f) a betegszállításra jogosító kúraszerű kezeléseket,
-- g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzés, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzés adatainak honlapon történő közzétételére vonatkozó szabályokat,
+- g) a központi várólista, a transzplantációs várólista, a térségi várólista, az intézményi előjegyzés, intézményi várólista, valamint a betegfogadási lista tekintetében a sorrend kialakításának és az eltérés lehetőségének feltételeit és szabályait, továbbá a várólista, illetve az intézményi előjegyzés, intézményi várólista adatainak honlapon történő közzétételére vonatkozó szabályokat,
 - h) a beutalás szakmai szabályait,
 - i) az egyes egészségügyi szolgáltatások körébe tartozó beavatkozásokat,
 - j) a gyógyászati ellátások körébe tartozó szolgáltatásokat,

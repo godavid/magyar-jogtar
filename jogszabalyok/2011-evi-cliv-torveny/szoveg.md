@@ -43,7 +43,7 @@ Az Országgyűlés a Jó Állam kialakítása érdekében, a törvényesen és �
 
 3. § (1) Az e törvény alapján állami tulajdonba kerülő vagyon vagyonkezelője az állami tulajdon keletkezésével egyidejűleg e törvény erejénél fogva:
 
-- a) a megyei önkormányzatoktól, valamint a Fővárosi Önkormányzattól átkerülő egészségügyi intézmények vonatkozásában a kijelölt szerv,
+- a)
 - b) az egyéb átvett intézmények vagyona tekintetében a Kormány által rendeletben kijelölt szerv.
 
 (2) Az (1) bekezdésben meghatározott vagyonkezelői jogviszonyra a továbbiakban az MNV Zrt. által kötött vagyonkezelési szerződésekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
@@ -90,25 +90,31 @@ Az Országgyűlés a Jó Állam kialakítása érdekében, a törvényesen és �
 
 7. § (1) A tulajdonjog és a fenntartói jog átszállása nem érinti az egészségügyi szolgáltató területi ellátási kötelezettségét, a meglévő lekötött kapacitásai mértékét és szakmai összetételét, valamint az érvényes finanszírozási szerződése szerinti finanszírozásra való jogosultságát.
 
-(2) Az egészségügyi szakellátási kötelezettség állam általi átvételére tekintettel – a 18. § (2) bekezdése szerinti kormányrendeletben meghatározott eljárásban – az egészségügyi államigazgatási szerv 2012. március 31-éig 2012. május 1-jei hatálybalépéssel – a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – meghatározza az e törvény hatálybalépésekor érvényes finanszírozási szerződéssel rendelkező, fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók
+(2) Az egészségügyi szakellátási kötelezettség állam általi átvételére tekintettel – a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott eljárásban – az egészségügyi államigazgatási szerv 2012. július 1-jei hatálybalépéssel – a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – dönt
 
-- a) fekvőbeteg-szakellátási kapacitásait az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) 4/A. § (3) bekezdésében,
-- b) az a) pont szerinti kapacitásokhoz kapcsolódó ellátási területet a (3) bekezdésben foglalt szempontok alapján, azzal, hogy a döntés nem érintheti hátrányosan az uniós és a hazai pályázatokkal összefüggésben vállalt beruházási és fenntartási kötelezettségeket, valamint az ezekhez kapcsolódó, előzetesen befogadott többletkapacitásokat.
+- a) az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) szerinti fekvőbeteg-szakellátási kapacitásoknak az Eftv. 4/A. § (3) bekezdésében,
+- b) az a) pontban meghatározott kapacitásokhoz kapcsolódó Eftv. szerinti ellátási területeknek a (3) bekezdésben
+
+foglalt szempontok alapján történő felosztásáról azzal, hogy az eljárások során hozott döntések együttesen nem haladhatják meg a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott kapacitásmennyiséget, továbbá nem érinthetik hátrányosan az uniós és a hazai pályázatokkal összefüggésben vállalt beruházási és fenntartási kötelezettségeket, valamint az ezekhez kapcsolódó, előzetesen befogadott többletkapacitásokat.
 
 (3) Az ellátási területeket az érintett egészségügyi szolgáltatók számára a (2) bekezdés szerinti eljárás során – az Eftv. 5/A. § (2) és (10) bekezdésében foglaltak figyelembevételével –
 
 - a) azoknak az eseteknek a kivételével, amikor szakmai szempontból indokolatlan az ellátási területnek az adott szakmához tartozóan valamennyi progresszivitási szinten történő megállapítása, az aktív fekvőbeteg-szakellátások tekintetében a külön jogszabály szerinti progresszivitási szintenként külön-külön,
-- b) a 18. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével az Eftv. végrehajtására kiadott kormányrendelet szerinti fekvőbeteg-szakellátásban finanszírozható szakmánként,
-- c) az Eftv. 5/A. § (9) bekezdés b) pontja szerinti eset, valamint a 18. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével átfedésmentesen,
+- b) a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével az Eftv. végrehajtására kiadott kormányrendelet szerinti fekvőbeteg-szakellátásban finanszírozható szakmánként,
+- c) az Eftv. 5/A. § (9) bekezdés b) pontja szerinti eset, valamint a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével átfedésmentesen,
 - d) hézagmentesen,
-- e) a rehabilitációs szakellátások, valamint az egyes egészségügyi szolgáltatók által szakmai specialitások alapján több térségre kiterjedően nyújtott, országosan kiemelt ellátások kivételével az Eftv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térség határainak figyelembevételével,
+- e) a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott esetek kivételével az Eftv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térség határainak figyelembevételével,
 - f) aktív fekvőbeteg-szakellátások tekintetében a progresszivitás alapszintjén az Eftv. 4/A. § (4) és (6) bekezdésében foglalt elérési szabályok figyelembevételével,
 - g) a szolgáltató rendelkezésére álló kapacitás, valamint a szolgáltató által ellátott terület közötti arányoknak az adott szakma országos átlagához viszonyított aránya figyelembevételével, és
-- h) az aktív fekvőbeteg-szakellátások tekintetében a magasabb progresszivitási szintű ellátást nyújtó szolgáltatók esetén a progresszivitási szintekre jutó kapacitások arányainak és az egyes progresszivitási szinteken végzett beavatkozások tárgyévet megelőző év betegforgalom szerinti arányainak figyelembevételével kell meghatározni.
+- h)
 
-(4) Amennyiben az Eftv. 5/A. § (7) bekezdése szerinti nyilvántartás nem tartalmazza valamely finanszírozási szerződéssel rendelkező egészségügyi szolgáltató járóbeteg-szakellátási kapacitásaira, illetve az ahhoz kapcsolódó ellátási területekre vonatkozóan a törvény által előírt adatokat, az egészségügyi államigazgatási szerv 2012. március 31-éig köteles azt a rendelkezésre álló adatok alapján pótolni. Ha valamely adat azért hiányzik a nyilvántartásból, mert az érintett egészségügyi szolgáltató járóbeteg-szakellátási kapacitásai, illetve az azokhoz kapcsolódó ellátási területek nem kerültek megállapításra, az egészségügyi államigazgatási szerv – az Eftv. 5/A. § (2)–(6), (9) és (10) bekezdésében foglaltak, valamint a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – 2012. március 31-éig hivatalból megállapítja a kapacitást, illetve az ellátási területet, és a megállapított adatokat átvezeti a nyilvántartáson.
+(3a) A 15. § (2) bekezdése szerinti kormányrendeletben meghatározott esetekben nem kell ellátási területet megállapítani.
+
+(4) Amennyiben az Eftv. 5/A. § (7) bekezdése szerinti nyilvántartás nem tartalmazza valamely finanszírozási szerződéssel rendelkező egészségügyi szolgáltató járóbeteg-szakellátási kapacitásaira, illetve az ahhoz kapcsolódó ellátási területekre vonatkozóan a törvény által előírt adatokat, az egészségügyi államigazgatási szerv 2012. augusztus 31-éig köteles azt a rendelkezésre álló adatok alapján pótolni. Ha valamely adat azért hiányzik a nyilvántartásból, mert az érintett egészségügyi szolgáltató járóbeteg-szakellátási kapacitásai, illetve az azokhoz kapcsolódó ellátási területek nem kerültek megállapításra, az egészségügyi államigazgatási szerv – az Eftv. 5/A. § (2)–(6), (9) és (10) bekezdésében foglaltak, valamint a Kormány által kijelölt szerv szakértői véleményének figyelembevételével – 2012. augusztus 31-éig hivatalból megállapítja a kapacitást, illetve az ellátási területet, és a megállapított adatokat átvezeti a nyilvántartáson.
 
 (5) A (2)–(4) bekezdés alapján a kapacitást és az ellátási területet megállapító határozatok ellen fellebbezésnek nincs helye, azok hatálybalépésével egyidejűleg az adott szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott határozatok hatályukat vesztik. Az egészségügyi szolgáltatók kapacitásainak és ellátási területeinek az Eftv. 5/A. § (7) bekezdése szerinti nyilvántartását a határozatok hatálybalépésével egyidejűleg módosítani kell.
+
+(5a) A szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott és az (5) bekezdés alapján hatályukat vesztett határozatokhoz kapcsolódó, folyamatban lévő hatósági és bírósági eljárásokat meg kell szüntetni.
 
 (6) A (2)–(5) bekezdésben meghatározott feladatok ellátásához szükséges adatokat az egészségügyi államigazgatási szerv megkeresésére az egészségbiztosító a megkeresésétől számított 5 napon belül az egészségügyi államigazgatási szerv rendelkezésére bocsátja.
 
@@ -131,9 +137,9 @@ Az Országgyűlés a Jó Állam kialakítása érdekében, a törvényesen és �
 
 8. § (1) Az egészségügyi szakellátás folyamatos biztosítása érdekében a költségvetési szervként működő egészségügyi szolgáltató alapító okiratának módosítását a Kincstár 2011. december 28-áig jegyzi be a törzskönyvi nyilvántartásba.
 
-(2) Az átadásra kerülő egészségügyi szolgáltató esetében az egészségügyi államigazgatási szerv az egészségügyi szolgáltató kérelmére módosítja a működési engedélyt és a jogszabály alapján vezetett működési engedélyt tartalmazó nyilvántartásban 2012. január 15-éig átvezeti a módosult adatokat.
+(2) Az átadásra kerülő egészségügyi szolgáltató esetében az egészségügyi államigazgatási szerv az egészségügyi szolgáltató kérelmére módosítja a működési engedélyt és a jogszabály alapján vezetett működési engedélyt tartalmazó nyilvántartásban átvezeti a módosult adatokat.
 
-(3) Az egészségbiztosítási szerv az átadásra kerülő egészségügyi szolgáltató finanszírozási szerződését figyelemmel a fenntartó és a működési engedély változására 2012. május 1-jéig módosítja.
+(3) Az egészségbiztosítási szerv az átadásra kerülő egészségügyi szolgáltató finanszírozási szerződését figyelemmel a fenntartó és a működési engedély változására 2012. július 1-jéig módosítja.
 
 #### 6. A megyei intézményeket fenntartó szervek
 
@@ -197,7 +203,12 @@ A megszűnés nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó s
   - ba) a közalkalmazott számára új vezetői megbízást kell adni vagy
   - bb) – ha jogszabály azt előírja, a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával – vele új munkaviszonyt kell létesíteni.
 
-(6) A jogviszony (5) bekezdés alapján történő megszűnése nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
+(6) A jogviszony (5) bekezdés alapján történő megszűnése – a (6a) bekezdésben foglalt kivétellel – nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
+
+(6a) Az (5) bekezdés b) pont bb) alpontjában foglalt esetben, ha a korábbi intézményvezetővel vagy gazdasági vezetővel a pályázat megnyerésére tekintettel új munkaviszonyt kell létesíteni, a vezetőt a korábbi munkaviszonya megszűnésével összefüggésben munkaszerződésen vagy jogszabályon alapuló végkielégítés és szabadságmegváltás nem illeti meg, azonban
+
+- a) az (5) bekezdés b) pont bb) alpontja alapján létesített jogviszony megszűnése vagy megszüntetése esetén a végkielégítésre való jogosultság tartamának megállapításakor az (5) bekezdés szerinti jogcímen megszűnt és létesített jogviszonyok időtartamát össze kell számítani, valamint
+- b) a ki nem adott szabadságot az új jogviszonyban kell kiadni, illetve annak megszűnése vagy megszüntetése esetén megváltani.
 
 (7) A tulajdonjog és fenntartói jog átszállása nem érinti az egészségügyi szolgáltatónál az egészségügyi tevékenység végzésében egyéb jogviszony keretében közreműködő egészségügyi dolgozó munkavégzésére irányuló jogviszonyát.
 
@@ -226,10 +237,10 @@ rendeletben szabályozza.
 
 az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvényben meghatározott szabályoktól eltérő eljárási szabályait,
 
-- b) azoknak az ellátásoknak a körét, amelyek vonatkozásában az ellátási terület megállapítása során az átfedésmentesség, illetve a szakmánkénti megállapítás követelményét nem kell figyelembe venni,
+- b) azoknak az ellátásoknak a körét, amelyek vonatkozásában nem kell ellátási területet megállapítani, illetve az ellátási terület megállapítása során a szakmánkénti megállapítás követelményét, továbbá a térséghatárokat nem kell figyelembe venni,
 - c) a kapacitásoknak és az ellátási területeknek az a) pont szerinti eljárásokban történő meghatározására kijelölt államigazgatási szervet és az ezekben az eljárásokban véleményadásra jogosult szakértői szervet.
 
-(3) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki az e törvény szerint vagyonkezelői joggal rendelkező központi államigazgatási szervet.
+(3)
 
 16. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -242,6 +253,8 @@ az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII.
 17. § (1) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvényben a védelmi titkársági feladatok ellátásához kapcsolódó jogviszonyok tekintetében a jogutódlás egyes kérdéseit a megyei önkormányzat és a megyei kormányhivatal közötti megállapodás rögzíti, melyet az érintettek legkésőbb 2012. január 31-ig megkötnek.
 
 (2) Az (1) bekezdésben meghatározott megállapodás megkötésekor az átvett feladathoz kapcsolódó jogviszonyok alatt minden jog és kötelezettség, valamint az átvett feladathoz tartozó létszám, és ahhoz tartozó eszköz- és infrastruktúra-állomány is értendő.
+
+17/A. § A 14. § (6a) bekezdésében foglaltakat a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény hatálybalépésekor folyamatban lévő pályázati eljárások alapján létesülő jogviszonyokra is alkalmazni kell.
 
 #### 10. A helyi önkormányzatokról szóló 1990. évi LXV. törvény módosítása
 
@@ -411,9 +424,11 @@ az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII.
 
 #### 78. §
 
-79. § (1) Az e törvénnyel módosított egészségügyről szóló 1997. évi CLIV. törvény 141. § (3) bekezdés l) pontja szerinti felelősség a Magyar Államot a települési önkormányzat tulajdonában vagy fenntartásában lévő fekvőbeteg-szakellátást és járóbeteg-szakellátást végző egészségügyi szolgáltatások vonatkozásában 2013. január 1-jétől terheli.
+79. § (1) Az egészségügyi szakellátási kötelezettség a Magyar Államot a települési önkormányzat tulajdonában és fenntartásában lévő, járóbeteg-szakellátást nyújtó egészségügyi szolgáltató által végzett járóbeteg-szakellátások, illetve a települési önkormányzat tulajdonában lévő, járóbeteg-szakellátási feladatok ellátására szolgáló vagyonhoz kapcsolódó járóbeteg-szakellátások vonatkozásában 2013. január 1-jétől terheli.
 
-(2) A megszüntetett Regionális Egészségügyi Tanács a működésével kapcsolatos iratait e törvény hatálybalépésétől számított 15 napon belül átadja az egészségügyi államigazgatási szervnek.
+(2)
+
+(3) A 7. §-nak, 8. §-nak és a 15. §-nak a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény általi módosításait a 7. § (2) bekezdése alapján indult és folyamatban lévő eljárásokra is alkalmazni kell.
 
 #### 80. §
 
