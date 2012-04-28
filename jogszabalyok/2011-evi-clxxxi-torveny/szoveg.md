@@ -400,9 +400,9 @@ sem.
 
 (7) A bíróság eljárására egyebekben az alapítvány nyilvántartásba vételére vonatkozó szabályokat kell alkalmazni.
 
-#### 29. Az alapítvány nyilvántartásból való törlése, illetve megszűnésének megállapítására irányuló polgári nemperes eljárás
+#### 29. Az alapítvány nyilvántartásból való törlése polgári jogi feltételei bekövetkeztének megállapítására, illetve az alapítvány megszüntetésére irányuló polgári nemperes eljárás
 
-59. § (1) Az alapítvány nyilvántartásból való törlése iránti kérelmet az alapító nyújthatja be vagy az ügyész indítványozhatja a Ptk. 74/E. § (1) bekezdés a)–c) pontjában meghatározott okból.
+59. § (1) Az annak megállapítására irányuló kérelmet, hogy az alapítvány nyilvántartásból való törlésének a Ptk. 74/E. § (1) bekezdés a)–c) pontjában meghatározott anyagi jogi feltételei bekövetkeztek, az alapító nyújthatja be, vagy ezen feltételek megállapítását az ügyész indítványozhatja.
 
 (2) Az alapítvány megszüntetésére és az alapítvány nyilvántartásból való törlésére irányuló kérelmet, annak okán, hogy az alapítvány céljának megvalósítása lehetetlenné vált az alapító nyújthatja be [Ptk. 74/E. § (3) bekezdés].
 
@@ -410,7 +410,7 @@ sem.
 
 (4) Ha az alapító a (2) bekezdésben meghatározott okból kéri az alapítvány megszüntetését, a bíróság a kérelmet azzal a felhívással küldi meg az alapítványnak, hogy kézbesítéstől számított harminc napon belül nyilatkozzon arról, hogy a kérelemben foglaltakat vitatja-e.
 
-(5) Ha a kérelemben foglaltakat az alapítvány vitatja, a bíróság az eljárást megszünteti, egyben felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány (2) bekezdésben meghatározott okból történő megszűnésének megállapítását, erre az alapítót az eljárást megszüntető végzésben figyelmeztetni kell.
+(5) Ha a kérelemben foglaltakat az alapítvány vitatja, a bíróság az eljárást megszünteti, egyben felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány (2) bekezdésben meghatározott okból történő megszüntetését, erre az alapítót az eljárást megszüntető végzésben figyelmeztetni kell.
 
 (6) Ha az eljárás (5) bekezdésben meghatározott okból történő megszüntetésének nincs helye, és az alapító által csatolt iratokból nem állapítható meg, hogy az alapítvány céljának megvalósítása lehetetlenné vált, a bíróság a kérelmet elutasítja, egyben felhívja az alapítót, hogy harminc napon belül keresetlevélben kérheti az alapítvány (2) bekezdésben meghatározott okból történő megszüntetését, erre az alapítót a kérelmet elutasító végzésben figyelmeztetni kell.
 
@@ -418,21 +418,19 @@ sem.
 
 #### 30. Az alapítvány megszüntetésére irányuló polgári peres eljárás
 
-60. § (1) A bíróság az alapítvány megszüntetését az alapító által az 59. § (5) vagy (6) bekezdés alapján előterjesztett keresete alapján, peres eljárásban rendeli el, a perre az alapítvány székhelye szerinti törvényszék illetékes.
+60. § (1) Az alapító által az 59. § (5) vagy (6) bekezdése alapján indított perre az alapítvány székhelye szerinti törvényszék illetékes.
 
-(2) A bíróság az alapítvány megszüntetéséről az ügyésznek a Ptk. 74/E. § (3) bekezdése alapján előterjesztett keresete alapján peres eljárásban dönt, a perre az alapítvány székhelye szerinti törvényszék illetékes.
+(2) Az alapítvány megszüntetésére irányuló kereseti kérelmet a Ptk. 74/E. § (3) bekezdésében vagy a Ptk. 74/F. § (2) bekezdésében meghatározott okból az ügyész, míg a Ptk. 74/E. § (4) bekezdésében meghatározott okból az ügyész vagy az egyéb érdekelt nyújthat be. A perre az alapítvány székhelye szerinti törvényszék illetékes.
 
-(3) Az alapítvány megszüntetésére irányuló kereseti kérelmet a Ptk. 74/E. § (3) bekezdésében meghatározott okból az ügyész vagy az egyéb érdekelt, míg a Ptk. 74/F. § (2) bekezdésében meghatározott okból az ügyész nyújthat be.
-
-(4) Ha a bíróság az alapítvány megszűnését állapítja meg vagy az alapítványt megszünteti, a jogerős ítéletet megküldi a nyilvántartást vezető bíróságnak. A nyilvántartást vezető bíróság az alapítványt az ítélet alapján hivatalból törli a nyilvántartásból, a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
+(3) Ha a bíróság az alapítványt megszünteti, a jogerős ítéletet megküldi az alapítványt nyilvántartó bíróságnak. A nyilvántartást vezető bíróság az alapítványt – a törvényben meghatározott eljárást követően – törli a nyilvántartásból, a végzés ellen sem fellebbezésnek, sem felülvizsgálatnak nincs helye.
 
 #### 31. Az alapítvány megszűnésének nyilvántartásba való bejegyzése iránti eljárás
 
-61. § (1) Ha a bíróság az 59–60. §-ban meghatározott okból az alapítvány nyilvántartásból való törlését rendeli el vagy az alapítvány megszűnését állapítja meg vagy az alapítványt megszünteti az Ectv.-ben foglalt szabályok szerint jár el.
+61. § (1) Ha a bíróság az 59. vagy 60. §-ban meghatározott okból megállapítja, hogy az alapítvány nyilvántartásból való törlésének polgári jogi feltételei bekövetkeztek, vagy az alapítványt megszünteti, az Ectv.-ben foglalt szabályok szerint jár el.
 
-(2) Ha a végelszámolás, kényszer-végelszámolási eljárás elrendelésére másik bíróság illetékes, a bíróság a jogerős határozatot megküldi a végelszámolás, kényszer-végelszámolási eljárás lefolytatására jogosult bíróságnak.
+(2)
 
-(3) A nyilvántartást vezető bíróság a végelszámolást, kényszer-végelszámolást követően az alapítványt hivatalból törli a nyilvántartásból, a végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye.
+(3) A nyilvántartást vezető bíróság a végelszámolást, kényszer-végelszámolást követően az alapítványt törli a nyilvántartásból, a végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye.
 
 #### 32. A közalapítvány megszüntetésére irányuló sajátos nemperes eljárás
 
@@ -452,7 +450,7 @@ sem.
 
 65. § Az egyesület nyilvántartásba vétele iránti kérelemhez elkülönítve kell csatolni az olyan iratot, amely mind nyilvános, mind nem nyilvános adatokat vagy csak nem nyilvános adatokat tartalmaz.
 
-66. § (1) A szövetség nyilvántartásba vétele iránti kérelemnek tartalmaznia kell a szövetséget létrehozó egyesületek nevét, székhelyét és nyilvántartási számát is.
+66. § (1) A szövetség nyilvántartásba vétele iránti kérelemnek tartalmaznia kell a szövetséget létrehozó egyesületek, illetve alapítványok nevét, székhelyét és nyilvántartási számát is.
 
 (2) A szövetség nyilvántartásba vételére az egyesület nyilvántartásba vételére irányadó szabályokat kell alkalmazni.
 
@@ -466,7 +464,7 @@ sem.
 
 #### 35. A szövetség nyilvántartásban szereplő adatainak módosítására irányuló eljárás
 
-68. § Ha a szövetséghez egyesület csatlakozik, a bíróság az egyesületek szövetsége erre irányuló változásbejegyzési kérelmére a szövetség adatai közé bejegyzi az új tag nevét, székhelyét és nyilvántartási számát.
+68. § Ha a szövetséghez egyesület vagy alapítvány csatlakozik, a bíróság szövetség erre irányuló változásbejegyzési kérelmére a szövetség adatai közé bejegyzi az új tag nevét, székhelyét és nyilvántartási számát.
 
 #### 36. Egyéb szervezetek
 
@@ -606,7 +604,7 @@ biztosítja.
 
 (4) A nyilvántartás alapítvány esetén – a (3) bekezdésben foglalt adatokon túlmenően – szükség szerint tartalmazza állami alapító által alapított alapítvány (közalapítvány), illetve állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány (közalapítvány) esetén a kezelő szervezetbe az állami alapító részéről jelölt tag vagy tagok nevét is.
 
-(5) A nyilvántartás szervezet esetén szükség szerint tartalmazza a szövetségét létrehozó szervezetek nevét, székhelyét, nyilvántartási számát.
+(5) A nyilvántartás szövetség esetén tartalmazza a tagok nevét, székhelyét, nyilvántartási számát.
 
 100. § (1) Az OBH vezeti az interneten azonosítás nélkül elérhető országos névjegyzéket.
 
@@ -636,6 +634,8 @@ biztosítja.
 104. § (1) Az e törvény hatálybalépésekor folyamatban lévő eljárásokban e törvény rendelkezéseit – a (2) bekezdésben foglalt kivétellel – nem kell alkalmazni.
 
 (2) Az 5. § (2) bekezdését az e törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(3) E törvénynek a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 59. § (1) és (5) bekezdését, 60. §-át és 61. §-át a Mód. tv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés benyújtási kötelezettségének 2012. június 30-a előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést papír alapon kell az OBH részére benyújtania. Ha a 2012. június 30. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2012. június 30-a után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
 

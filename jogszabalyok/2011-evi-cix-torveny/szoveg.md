@@ -20,7 +20,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (4) A Magyar Művészeti Akadémia név használatára kizárólag az e törvény szerint létrehozott köztestület jogosult.
 
-(5) Az MMA az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény alapján közhasznú szervezetnek minősíthető.
+(5) Az MMA az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti feltételek teljesítésére tekintet nélkül közhasznú szervezetnek minősül. Az MMA-t a Fővárosi Törvényszék tartja nyilván.
 
 3. § (1) Az MMA a központi költségvetésben önálló fejezetet alkot, amely tartalmazza az MMA által irányított költségvetési szervek költségvetését is.
 
@@ -44,7 +44,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 - j) részt vesz a magyar kulturális értékek nemzeti nyilvántartásának megvalósításában,
 - k) együttműködik a magyarországi országos művészeti szervezetekkel, valamint a Magyar Tudományos Akadémiával,
 - l) együttműködik az országos audiovizuális közszolgálati médiaszolgáltatókkal,
-- m) támogathatja a különböző művészeti ágak országos civil szervezeteit,
+- m) működési és programtámogatás nyújtásával támogathatja a különböző művészeti ágak országos civil szervezeteit,
 - n) jogszabály vagy egyedi megkeresés, felkérés alapján képviseli a művészeket közfeladat ellátásában közreműködő különböző döntés-előkészítő, véleményező és egyéb testületekben, szervezetekben,
 - o) együttműködik a határon túli magyar művészeti szervezetekkel, és külföldi, hasonló rendeltetésű intézményekkel,
 - p) gondoskodik a magyar művészeti élet alkotóinak személyes megbecsüléséről,

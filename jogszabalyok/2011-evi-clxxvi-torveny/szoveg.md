@@ -200,9 +200,11 @@ az egyes egészségügyi tárgyú törvények módosításáról
 
 (5) A 49. §, a 60. § (3) bekezdés, 75., a 76. §, a 79. § (4) bekezdés, a 86. §, a 91. § (1) és (3) bekezdése és a 161. § (7)–(9) bekezdése 2012. március 1-jén lép hatályba.
 
-(6) A 20. § 22–24. §, a 37. § b)–f) pontja, a 38. § a) pontja, a 65. § (2) bekezdés, a 141. §, a 145. § (1)–(4) és (6) bekezdése, a 149. § (1) bekezdése, 150. § (2) bekezdése, a 152. § b), e), h) és i) pontja és a 153. § a) és e) pontja 2012. május 1-jén lép hatályba.
+(6) A 145. § (1)–(4) és (6) bekezdése, a 152. § h) és i) pontja és a 153. § a) és e) pontja 2012. július 1-jén lép hatályba.
 
 (7) Az 54–55. §, a 79. § (2)–(3) bekezdése, a 80. §, a 82–85. §, a 87–89. §, a 92. § és a 93. § 2012. július 21-én lép hatályba.
+
+(7a) A 65. § (2) bekezdése 2013. január 1-jén lép hatályba.
 
 (8) Az 1., 3. és 5. § 2013. május 1-jén lép hatályba.
 

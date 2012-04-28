@@ -12,7 +12,7 @@ Az Országgyűlés Esztergom város polgárai közszolgáltatásokkal való ell�
 
 3. § (1) Az e törvény alapján állami tulajdonba kerülő vagyon vagyonkezelője az állami tulajdonba kerüléssel egyidejűleg e törvény erejénél fogva:
 
-- a) az egészségügyi intézmény vonatkozásában az egészségügyért felelős miniszter által kijelölt szerv (a továbbiakban: kijelölt szerv),
+- a)
 - b) az egyéb átvett intézmények tekintetében a Kormány által rendeletben kijelölt szerv.
 
 (2) Az intézmények átadása során a tényleges birtokbaadásról jegyzőkönyv készül, amelyet az átadó részéről Esztergom Város Önkormányzatának polgármestere, valamint jegyzője, az átvevő részéről a Komárom-Esztergom Megyei Kormányhivatal kormánymegbízottja, a kijelölt szerv vezetője, valamint a Magyar Nemzeti Vagyonkezelő Zrt. vezérigazgatója ír alá (a továbbiakban: jegyzőkönyv). Az önkormányzati tulajdonból állami tulajdonba kerülő vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel. A jegyzőkönyv meglétének hiánya nem akadálya az intézmények állam által való átvételének.
@@ -66,7 +66,12 @@ Az Országgyűlés Esztergom város polgárai közszolgáltatásokkal való ell�
   - ba) a közalkalmazott számára új vezetői megbízást kell adni vagy
   - bb) – ha jogszabály azt előírja, a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával – vele új munkaviszonyt kell létesíteni.
 
-(6) A jogviszony (5) bekezdés alapján történő megszűnése nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
+(6) A jogviszony (5) bekezdés alapján történő megszűnése – a (6a) bekezdésben foglalt kivétellel – nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
+
+(6a) Az (5) bekezdés b) pont bb) alpontjában foglalt esetben, ha a korábbi intézményvezetővel vagy gazdasági vezetővel a pályázat megnyerésére tekintettel új munkaviszonyt kell létesíteni, a vezetőt a korábbi munkaviszonya megszűnésével összefüggésben munkaszerződésen vagy jogszabályon alapuló végkielégítés és szabadságmegváltás nem illeti meg, azonban
+
+- a) az (5) bekezdés b) pont bb) alpontja alapján létesített jogviszony megszűnése vagy megszüntetése esetén a végkielégítésre való jogosultság tartamának megállapításakor az (5) bekezdés szerinti jogcímen megszűnt és létesített jogviszonyok időtartamát össze kell számítani, valamint
+- b) a ki nem adott szabadságot az új jogviszonyban kell kiadni, illetve annak megszűnése vagy megszüntetése esetén megváltani.
 
 (7) A tulajdonjog és fenntartói jog átszállása nem érinti az egészségügyi szolgáltatónál az egészségügyi tevékenység végzésében egyéb jogviszony keretében közreműködő egészségügyi dolgozó munkavégzésére irányuló jogviszonyát.
 
@@ -75,7 +80,7 @@ Az Országgyűlés Esztergom város polgárai közszolgáltatásokkal való ell�
 - a) az átvett intézmények fenntartásával és vagyonkezelésével kapcsolatos feladatokat ellátó szervet rendeletben jelölje ki;
 - b) a jegyzőkönyv tartalmi elemeit rendeletben határozza meg.
 
-(2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki az e törvény szerinti egészségügyi intézmény tekintetében vagyonkezelői joggal rendelkező központi államigazgatási szervet.
+(2)
 
 14. § Nem lép hatályba a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 38. § (2) bekezdése.
 
@@ -85,7 +90,7 @@ Az Országgyűlés Esztergom város polgárai közszolgáltatásokkal való ell�
 
 (3) 2012. január 2-án hatályát veszti e törvény 16-19. §-a.
 
-16. §
+16. § A 12. § (6a) bekezdésében foglaltakat a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény hatálybalépésekor folyamatban lévő pályázati eljárások alapján létesülő jogviszonyokra is alkalmazni kell.
 
 17. §
 

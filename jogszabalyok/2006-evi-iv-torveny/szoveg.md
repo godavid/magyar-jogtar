@@ -44,7 +44,7 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 
 (6) Ha a közhasznú szervezetnek minősülő nonprofit gazdasági társaság jogutód nélkül megszűnik, úgy a tartozások kiegyenlítése után a társaság tagjai (részvényesei) részére csak a megszűnéskori saját tőke összege adható ki, legfeljebb a tagok (részvényesek) vagyoni hányadának teljesítéskori értéke erejéig. Az ezt meghaladó vagyont a cégbíróság a társasági szerződés (alapszabály, alapító okirat) rendelkezései szerint fordítja közcélokra. Ilyen rendelkezés hiányában a cégbíróság a megmaradt vagyont a Nemzeti Együttműködési Alap támogatására fordítja.
 
-(7) A nonprofit gazdasági társaság az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil tv.) 32. § (2)–(4) bekezdéstől eltérően a létrejöttét követően is kezdeményezheti közhasznú jogállásának megállapítását – amelyet a cégbíróság a létesítő okiratban tartalmi követelményeinek elbírálását követően – köteles nyilvántartásba venni, ha
+(7) A nonprofit gazdasági társaság az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil tv.) 32. § (3)–(5) bekezdésétől eltérően a létrejöttét követően is kezdeményezheti közhasznú jogállásának megállapítását, amelyet a cégbíróság – a létesítő okiratban rögzített tartalmi követelmények elbírálását követően – nyilvántartásba veszi, ha
 
 - a) közszolgáltatási szerződést kötött és
 - b) a kérelmező magánokiratban vállalja a Civil tv. szerinti közhasznúsági feltételek teljesítését.
