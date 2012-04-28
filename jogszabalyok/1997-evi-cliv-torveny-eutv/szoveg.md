@@ -2182,7 +2182,7 @@ költségének fedezetét.
 
 (2) A települési önkormányzat képviselő-testülete – a kormányrendelet szerinti praxiskezelő által megadott szempontokat figyelembe véve – megállapítja és kialakítja az egészségügyi alapellátások körzeteit. Több településre is kiterjedő ellátás esetén a körzet székhelyét az érintett települési önkormányzatok egyetértésben állapítják meg.
 
-(3) A helyi önkormányzat gondoskodik a tulajdonában vagy fenntartásában lévő fekvőbeteg-szakellátó, valamint járóbeteg-szakellátó egészségügyi szolgáltató működtetéséről.
+(3) A helyi önkormányzat gondoskodik a tulajdonában és fenntartásában lévő, szakellátást nyújtó egészségügyi szolgáltató működtetéséről, illetve a tulajdonában lévő, szakellátási feladat ellátására szolgáló vagyonhoz kapcsolódó – külön törvényben meghatározott – egészségügyi szakellátási feladatok ellátásáról.
 
 (4) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti alapellátási körzetekről – a települési önkormányzat tájékoztatása alapján – nyilvántartást vezet.
 
@@ -3355,6 +3355,14 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 (6) Az R. szerinti, a szakképzéssel összefüggő támogatások folyósításának feltétele, hogy a felsőoktatási intézmények – a (4) bekezdés szerinti időpontot követően – havonta elektronikus úton tájékoztatást adjanak az egészségügyi államigazgatási szervnek a szakorvosjelöltnek a 116/A. § (5) bekezdés d) pontja szerinti adatairól.
 
 (7) Az R. rendelkezései szerint a szakképzésben szakgyakorlati idejüket töltő személyek esetében a felsőoktatási intézmény – a (4) bekezdés szerinti időpontot követően – az egészségügyi felsőfokú szakirányú szakképzés képzési követelményeit meghatározó jogszabály szerinti részelemeinek teljesítéséről legkésőbb 15 napon belül elektronikus úton tájékoztatja az egészségügyi államigazgatási szervet.
+
+(8) A 152. § (3) bekezdése szerinti kötelezettség a helyi önkormányzatot addig terheli, amíg a szakellátást nyújtó egészségügyi szolgáltató a tulajdonából és a fenntartásából, illetve a 152. § (3) bekezdés szerinti vagyon a tulajdonából ki nem kerül.
+
+(9) Amennyiben a 2012. május 1-jét megelőzően a helyi önkormányzat tulajdonában és fenntartásában lévő egészségügyi szakellátást nyújtó szolgáltató, illetve a 152. § (3) bekezdésében meghatározott vagyon a magyar állam tulajdonába és fenntartásába kerül, az átvett egészségügyi szolgáltató által végzett, illetve az átvett – 152. § (3) bekezdése szerinti – vagyon használatával végzett szakellátási feladatokat a magyar állam az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 1. § (2) bekezdés p) pontja szerinti egészségügyi szakellátási kötelezettsége alapján a települési önkormányzat 152. § (3) bekezdése szerinti kötelezettségének megszűnésétől kezdve látja el.
+
+(10) Abban az esetben, ha a 2012. május 1-jét megelőzően a helyi önkormányzat tulajdonában és fenntartásában lévő egészségügyi szakellátást nyújtó szolgáltató, illetve a tulajdonában lévő 152. (3) bekezdése szerinti vagyon úgy kerül ki a helyi önkormányzat tulajdonából, illetve fenntartásából, hogy az nem a magyar állam tulajdonába és fenntartásába kerül, az új tulajdonos, illetve fenntartó köteles arról gondoskodni, hogy a szolgáltató az Eftv. 2. § (1) bekezdés c) pontja alapján az egészségügyi szakellátási feladatot ellássa.
+
+(11) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdésének alkalmazásában a (9) bekezdésben meghatározott esetben a települési önkormányzat által a 152. § (3) bekezdése alapján végzett egészségügyi szakellátási feladat a magyar állam részére megállapított feladatnak – ha törvény eltérően nem rendelkezik – a (9) bekezdésben foglalt időponttól minősül.
 
 244/B. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel (a továbbiakban: Módosító tv.) megállapított 146. § (1) bekezdésében meghatározott térségi egészségügyi fejlesztési programot 2012. december 31-éig kell elkészíteni.
 
