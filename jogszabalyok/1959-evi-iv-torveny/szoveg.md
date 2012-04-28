@@ -549,7 +549,7 @@ Ptk.62. § (1) Az egyesület alapszabályában rendelkezni kell a szervezet nev�
   - cb) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgás és tartózkodás jogával rendelkezik, vagy
   - cc) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és bevándorolt vagy letelepedett jogállású, illetve tartózkodási engedéllyel rendelkezik.
 
-(6) Az egyesület szervei által hozott jog- vagy alapszabálysértő határozat megsemmisítése iránt bármely tag – a határozat tudomására jutásáról számított harminc napos jogvesztő határidőben – pert indíthat. A perindítás a határozat végrehajtását nem gátolja, a bíróság azonban indokolt esetben – a tag kérelmére – a határozat végrehajtását felfüggesztheti. A per a törvényszék hatáskörébe tartozik.
+(6) Az egyesület szervei által hozott jog- vagy alapszabálysértő határozat megsemmisítése iránt bármely tag – a különleges jogállású tag csak érintettsége esetén –, a határozat tudomására jutásától számított harminc napos jogvesztő határidőben pert indíthat. A perindítás a határozat végrehajtását nem gátolja, a bíróság azonban indokolt esetben – a tag kérelmére – a határozat végrehajtását felfüggesztheti. A per a törvényszék hatáskörébe tartozik.
 
 (7) A vallási tevékenységet is végző egyesületek esetében a vallási tevékenységgel összefüggően meghozott határozatokra nézve a (6) bekezdés rendelkezéseit nem kell alkalmazni.
 
@@ -566,7 +566,7 @@ Ptk.63. § (1) Az egyesület legfőbb szerve a tagok összessége (taggyűlés) 
 - a) az alapszabály megállapítása és módosítása;
 - b) az éves költségvetés, illetve az előző évről szóló számviteli beszámoló elfogadása, ha törvény eltérően nem rendelkezik;
 - c) az ügyintéző és képviseleti szerv éves beszámolójának elfogadása;
-- d) az egyesület más egyesülettel való egyesülésének, szétválásának vagy feloszlásának kimondása;
+- d) az egyesület más egyesülettel való egyesülésének vagy feloszlásának kimondása,
 - e) az ügyintéző és képviseleti szerv tagjainak megválasztása és visszahívása,
 - f) döntés mindazokban az ügyekben, amelyeket az alapszabály a legfőbb szerv kizárólagos hatáskörébe utal.
 
@@ -574,11 +574,11 @@ Ptk.63. § (1) Az egyesület legfőbb szerve a tagok összessége (taggyűlés) 
 
 (6) Az egyesület szervei határozatképesek, ha tagjainak több mint a fele jelen van, az alapszabály ennél magasabb jelenléti arányt is megállapíthat. Az egyesület szervei határozataikat a jelenlévők szótöbbségével hozzák mindazon kérdésben, amely tekintetében az alapszabály a szótöbbség magasabb arányát nem írja elő.
 
-(7) Ha az egyesület szerveinek ülése nem határozatképes, megismételt ülést kell tartani. A megismételt ülés legkorábban a határozatképtelen ülést követően, későbbi időpontra hívható össze. A megismételt ülés a legfőbb szerv esetében a megjelent tagok számától függetlenül, egyéb egyesületi szerv esetén pedig a (6) bekezdésben foglalt rendelkezés szerint határozatképes.
+(7) Ha az egyesület szerveinek ülése nem határozatképes, megismételt ülést kell tartani. A megismételt ülés a határozatképtelen ülést követő későbbi időpontra az eredetivel azonos napirenddel hívható össze. A megismételt ülés a legfőbb szerv esetében a megjelent tagok számától függetlenül, egyéb egyesületi szerv esetén pedig a (6) bekezdésben foglalt rendelkezés szerint határozatképes.
 
 Ptk.64. § (1) Az egyesület megszűnik, ha
 
-- a) a legfőbb szerv döntése alapján átalakul,
+- a) az egyesület egy másik egyesülettel egyesül (összeolvad, beolvad),
 - b) a legfőbb szerve a feloszlásáról határoz,
 - c) a bíróság feloszlatja,
 - d) a törvényességi ellenőrzési eljárás eredményeképpen a bíróság megszűnteti vagy megállapítja megszűnését,
