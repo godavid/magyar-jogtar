@@ -184,8 +184,9 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - c) értelmi akadályozottsága genetikai, illetőleg magzati károsodás vagy szülési trauma következtében, továbbá tizennegyedik életévét megelőzően bekövetkező súlyos betegség miatt középsúlyos vagy annál nagyobb mértékű (értelmi fogyatékos),
 - d) állapota a személyiség egészét érintő fejlődés átható zavara miatt, az autonómia-tesztek alapján súlyosnak vagy középsúlyosnak minősíthető,
 - e) a mozgásrendszer károsodása, illetőleg funkciózavara miatt helyváltoztatása a külön jogszabályban meghatározott segédeszköz állandó és szükségszerű használatát igényli, vagy a külön jogszabály szerinti mozgásszervi betegsége miatt állapota segédeszközzel eredményesen nem befolyásolható (mozgásszervi fogyatékos),
-- f) az a)–e) pontban meghatározott súlyos fogyatékosságok közül legalább két fogyatékossága van (halmozottan fogyatékos),
-- g) hallásvesztesége olyan mértékű, hogy a beszédnek hallás útján történő megértésére segédeszközzel sem képes és az a), c)–e) pontok valamelyikében megjelölt egyéb fogyatékossága is van (halmozottan fogyatékos),
+- f) az a)–e) és h) pontban meghatározott súlyos fogyatékosságok közül legalább két fogyatékossága van (halmozottan fogyatékos),
+- g) hallásvesztesége olyan mértékű, hogy a beszédnek hallás útján történő megértésére segédeszközzel sem képes és az a), c)–e) és h) pontok valamelyikében megjelölt egyéb fogyatékossága is van (halmozottan fogyatékos),
+- h) állapota kromoszóma-rendellenesség miatt súlyosnak vagy középsúlyosnak minősíthető,
 
 és állapota tartósan vagy véglegesen fennáll, továbbá önálló életvitelre nem képes vagy mások állandó segítségére szorul.
 
@@ -218,10 +219,10 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 23/A. § (1) A fogyatékossági támogatás havi összege az öregségi nyugdíj mindenkori legkisebb összegének
 
-- a) 65%-a a 23. § (1) bekezdésének a)–e) pontja szerinti esetekben, kivéve az e § b) pontjában megjelölt eseteket,
+- a) 65%-a a 23. § (1) bekezdésének a)–e) és h) pontja szerinti esetekben, kivéve az e § b) pontjában megjelölt eseteket,
 - b) 80%-a,
   - ba) a 23. § (1) bekezdésének f) és g) pontja szerinti esetben,
-  - bb) a 23. § (1) bekezdésének a), c)–e) pontjában foglalt esetekben, feltéve, hogy a súlyosan fogyatékos személynek az önkiszolgálási képessége teljesen hiányzik.
+  - bb) a 23. § (1) bekezdésének a), c)–e) és h) pontjában foglalt esetekben, feltéve, hogy a súlyosan fogyatékos személynek az önkiszolgálási képessége teljesen hiányzik.
 
 (2) Ha a vakok személyi járadékában részesülő látási fogyatékos személy fogyatékossági támogatásra tart igényt, őt a fogyatékossági támogatás a vakok személyi járadékának megszüntetését követően
 

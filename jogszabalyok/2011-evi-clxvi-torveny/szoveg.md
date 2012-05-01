@@ -415,7 +415,7 @@ Magyarország 2012. évi költségvetését megalapozó egyes törvények módos
 - 1–2.
 - 3.
 - 4–49.
-- 50.
+- 50. az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 16. § (6) bekezdése;
 - 51–58.
 - 59.
 - 60.
