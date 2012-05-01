@@ -259,39 +259,84 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (6) A központi költségvetési támogatásra vonatkozó adatok az előadó-művészeti államigazgatási szerv honlapján bárki számára hozzáférhetőek.
 
-### 2. CÍM — A besorolt színházak, balett-vagy táncegyüttesek központi költségvetési támogatásának mértéke és igénybevételénekfeltételei
+16. § (1) A központi költségvetés a nyilvántartásba vett előadó-művészeti szervezetek fenntartója, annak hiányában az előadó-művészeti szervezet részére
 
-16. § (1) Az I–II. kategóriába besorolt színházak, bábszínházak fenntartóját fenntartói ösztönző részhozzájárulásból és művészeti ösztönző részhozzájárulásból álló központi költségvetési támogatás illeti meg.
+- a) művészeti támogatást,
+- b) működési támogatást és
+- c) e törvény szerinti egyéb támogatást nyújt.
 
-(2) A fenntartói ösztönző részhozzájárulás összege a fenntartó önkormányzat költségvetési rendeletében meghatározott, a tárgyévet megelőző évi támogatással arányos.
+(2) Az (1) bekezdés szerinti támogatás állami vagy önkormányzati fenntartású előadó-művészeti szervezet számára csak abban az esetben nyújtható, ha az a magyar állammal vagy az önkormányzattal a támogatás folyósításakor hatályos, legalább 3 éves fenntartói megállapodást kötött. Fenntartói megállapodás csak teljes naptári évre köthető.
 
-(3) A színházak a fenntartói ösztönző részhozzájárulásként megállapított támogatásból a fenntartó döntése szerint részesülnek, ha az előírt feltételeknek a fenntartó több színháza is megfelel.
+(3) A fenntartói megállapodásban a művészeti tevékenységgel [17. § (3) bekezdés], az előadó-művészeti szervezet létesítő okiratában meghatározott egyéb tevékenységgel és a gazdálkodással (pénzügyi egyensúly fenntartása, illetve megteremtése, kapacitások kihasználtsága, eszköz- és erőforrás-gazdálkodás hatékonysága) összefüggésben az előadó-művészeti szervezettől elvárt teljesítményt az adott területre jellemző mutatókkal, illetve megfelelő követelményleírással kell meghatározni.
 
-(4) Az egyes színházakat megillető, a központi költségvetésről szóló törvényben megállapított művészeti ösztönző részhozzájárulást a tárgyévet megelőző második év fizető nézőinek száma arányában – az előadás játszóhelyei befogadóképességének figyelembevételével – kell kiszámítani. Az opera-, a klasszikus operett-, a balett-, a tánc-, a gyermek- és ifjúsági-, a stúdió-, valamint a bábszínházi előadások esetében a fizető nézők számát a központi költségvetésről szóló törvényben meghatározott súlyozással kell figyelembe venni.
+(4) A fenntartói megállapodásban költségnemenként fel kell tüntetni a feladatteljesítéshez rendelt forrást [3. § (6) bekezdés], több forrás esetén azok egymáshoz viszonyított arányát.
 
-(5) Ha a színház az opera-, vagy klasszikus operett-előadás során a zenekart, énekkart hangfelvétellel helyettesíti, akkor az adott előadás esetében nem alkalmazható a (4) bekezdés második mondatában meghatározott számítási mód. A művészeti ösztönző részhozzájárulás akkor jár zenés színpadi mű előadása esetén, ha a mű zenéjét zenekar (énekkar) élő közreműködésével szólaltatják meg.
+(5) A fenntartó köteles az általa fenntartott és nyilvántartásba vett előadó-művészeti szervezet tevékenységével összefüggő, (2) bekezdés szerinti adatokat jogszabályban meghatározott módon az előadó-művészeti államigazgatási szerv részére nyomtatott és elektronikus formában megküldeni, az esetleges adatváltozást pedig 30 napon belül bejelenteni. A fenntartói megállapodást a tárgyévet megelőző év október 31-éig kell benyújtani az előadó-művészeti államigazgatási szerv részére.
 
-(6) A fenntartói ösztönző részhozzájárulás és a művészeti ösztönző részhozzájárulás összegét a központi költségvetésről szóló törvény a színházakat, bábszínházakat fenntartó, illetve támogató valamennyi önkormányzatra, a művészeti ösztönző részhozzájárulást az egyes színházakra is lebontva határozza meg.
+### 2. CÍM — A színház, balett- és táncegyüttesek központi költségvetési támogatásai és az igénybevétel feltételei
 
-17. § A III. kategóriába sorolt balett- vagy táncegyüttest, illetve a IV. kategóriába sorolt színházat központi költségvetési támogatásként a tárgyévet megelőző évi fenntartói támogatással arányos támogatás illeti meg, melynek mértékét a központi költségvetésről szóló törvény határozza meg.
+17. § (1) A művészeti támogatás az előadó-művészeti szervezet által nyújtott művészeti tevékenységhez közvetlenül kapcsolódó művészi, művészeti szolgáltatások igénybevételéhez, eszközök – különösen színpadtechnikai eszközök –, anyagok beszerzéséhez, illetve művészi, művészeti munkakörben való foglalkoztatáshoz, felhasználási jogok megszerzéséhez nyújtott hozzájárulás, amelyet más célra felhasználni, átcsoportosítani nem lehet.
 
-18. § (1) Az V. és VI. kategóriába sorolt színházak támogatása pályázati úton történik. A pályázatokról történő döntései megalapozásához a miniszter az EMT javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésekre a szakmai kuratórium előterjesztése alapján az EMT tesz javaslatot. A javaslattól eltérő döntéseit a miniszter köteles megindokolni.
+(2) A művészeti támogatást súlyozási értékek és arányszámok alkalmazásával, a felosztási szabályzatban rögzített számítási mód szerint úgy kell megállapítani, hogy figyelembevételre kerüljenek a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített színházak, balett- és táncegyüttesek tevékenységével, szolgáltatásával kapcsolatos általános támogatási szempontok. Ezen szempontok érvényesülését a támogatással érintett művészeti évadot megelőző utolsó lezárt évad művészeti tevékenységének, szolgáltatásainak alapulvételével kell vizsgálni.
 
-(2) Az V. és VI. kategóriába sorolt színházak tárgyévi támogatási keretösszege 50%-a mértékéig a szakmai kuratórium javaslata alapján a miniszter legfeljebb három évre szóló kötelezettséget vállalhat a következő évek támogatási kerete terhére.
+(3) A művészeti támogatás mértékének megállapításakor általános támogatási szempontként vizsgálni kell a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített színházak, balett- és táncegyüttesek
 
-19. § Ha az I–IV. kategóriába sorolt előadó-művészeti szervezet fenntartója csökkentette a tárgyévet megelőző évi fenntartói támogatás előirányzatát, a tárgyévben az I–II. kategóriába sorolt előadó-művészeti szervezet esetén a fenntartói ösztönző részhozzájárulás, a III–IV. kategóriába sorolt előadó-művészeti szervezet esetén a központi költségvetési támogatás arányosan csökken. A fenntartó a csökkentésről szóló döntés meghozatalától számított 15 napon belül köteles tájékoztatni az előadó-művészeti államigazgatási szervet.
+- a) által teljesített bemutatók számát, azon belül a kortárs és klasszikus magyar szerzők műveinek a számát,
+- b) által teljesített előadások számát, ennek keretében
+  - ba) a saját előadások arányát,
+  - bb) a balett- és táncelőadások számát,
+  - bc) az opera-előadások számát,
+  - bd) a klasszikus operett-előadások számát,
+  - be) a zenés színpadimű-előadások, illetve ezen belül az élő zenekarral, énekkarral teljesített előadások számát,
+  - bf) a stúdió-előadások számát,
+- c) fizetőnéző-számát, az össznézőszámát és jegyár-bevételének összegét,
+- d) fizető átlag-nézőszám arányát a nézőtéri befogadóképességhez,
+- e) a gyermek- és ifjúsági bemutatók és előadások számát,
+- f) az állandó játszóhelyen kívüli helyi, a megyei, az országos vendég-, illetve tájelőadások és nemzetközi vendégelőadások számát, ezen belül
+  - fa) a belföldi előadások tekintetében a kulturális szolgáltatásokkal kevésbé ellátott régiókban,
+  - fb) a külföldi előadások esetében a Kárpát-medencei magyarlakta területeken tartott előadások számát.
 
-### 3. CÍM — A besorolt zenekarok és énekkarok központi költségvetési támogatása igénybevételének feltételei
+(4) A művészeti támogatás mértékének megállapításakor értékelni kell továbbá a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített színházak, balett- és táncegyüttesek
 
-20. § (1) Az I. kategóriába besorolt zenekar és énekkar fenntartóját külön a zenekarokra és külön az énekkarokra a zenekar és énekkar létszáma, a fenntartói támogatás, a hangversenyek és hangfelvételek száma, a fizető nézők száma, az ifjúsági hangversenyek száma és a bemutatott kortárs magyar zeneművek száma alapján a központi költségvetésről szóló törvényben e szempontokra megállapított arányú központi költségvetési támogatás illeti meg. A támogatás elosztásának és folyósításának részletes szabályait a miniszter rendeletben állapítja meg.
+- a) társulati művészeti-szakmai közösségépítő tevékenységét,
+- b) hazai és nemzetközi szakmai és művészeti kapcsolatépítési és együttműködési gyakorlatát,
+- c) a repertoár-játszáshoz és a többtagozatos művészeti struktúrához kapcsolódó művészeti gyakorlatát,
+- d) közönségkapcsolati rendszerét, a nézőszám növelésének gyakorlatát, valamint médiakapcsolati tevékenységét, a gyermek- és ifjúsági korosztály védelmét szolgáló nézőtájékoztatási, továbbá a jegyértékesítési rendszerét,
+- e) saját előadásaihoz kapcsolódó jegyár-bevételeken túli, egyéb bevételi források feltárásával összefüggő tevékenységét és annak eredményességét,
+- f) helyi művészeti, közoktatási, közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítési, továbbá az óvodai és iskolarendszeren belüli és azon kívüli oktatási-nevelési, művészetpedagógiai programhoz, a tantervi oktatáshoz, helyi és országos turisztikai célokhoz való kapcsolódás, a gyermek-, illetve ifjúsági korosztály igényes színházra nevelésének gyakorlatát,
+- g) vezetőjének vezetői pályázatában rögzített, a művészeti tevékenységgel összefüggő vállalások teljesülését.
 
-(2) Az (1) bekezdésben említett zenekar és énekkar létszámát a kamarazenekar, kamara-szimfonikus zenekar, szimfonikus zenekar és énekkar esetében a tárgyévet megelőző két évben előadott zenekari, illetve énekkari művek előadásában fellépő zene-, illetve énekművészek átlagos száma, újonnan alakult előadó-művészeti szervezetek esetében a tárgyévet megelőző év átlagos száma alapján kell kiszámítani.
+(5) A (3) és (4) bekezdés szerinti adatokat és információkat tartalmazó művészeti évadbeszámolót az érintett előadó-művészeti évadra vonatkozóan június 10-éig köteles a művészeti támogatásra jogosult az előadó-művészeti államigazgatási szerv részére nyomtatott és elektronikus formában megküldeni. Az évadbeszámoló a művészeti évad június és július hónapjára vonatkozóan az érintett adatkörben tervszámokat tartalmaz. Az előadó-művészeti szervezet augusztus 31-éig köteles a tervszámoktól eltérő tényadatokról az e bekezdés szerinti formában tájékoztatást adni.
 
-(3) A II. kategóriába besorolt zenekarok és énekkarok támogatása pályázati úton történik. A pályázatokról történő döntései megalapozásához a miniszter az EMT javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésekre a szakmai kuratórium előterjesztése alapján az EMT tesz javaslatot. A javaslattól eltérő döntéseit a miniszter köteles megindokolni.
+18. § (1) Az állandó játszóhellyel rendelkező előadó-művészeti szervezet fenntartóját – az érintett területeken jelentkező kiadásaihoz történő hozzájárulásként, az e törvényben meghatározott feltételek fennállása esetén – létesítménygazdálkodási célú működési támogatás illeti meg, amelyet más célra felhasználni, átcsoportosítani nem lehet.
 
-(4) A II. kategóriába sorolt zenekarok és énekkarok tárgyévi támogatási keretösszege 50%-a mértékéig a szakmai kuratórium javaslata alapján a miniszter legfeljebb három évre szóló kötelezettséget vállalhat a következő évek támogatási kerete terhére.
+(2) A fenntartó gondoskodik az előadó-művészeti szervezet létesítő okiratában meghatározott, állandó működési helyéül szolgáló épület rendeltetésszerű használatának biztosításáról. A fenntartó köteles az épület lényeges műszaki adatairól, állapotáról, valamint a színpadtechnikai eszközökről nyilvántartást vezetni.
 
-(5) Ha az I. kategóriába sorolt előadó-művészeti szervezet fenntartója a költségvetési év során csökkenti a vállalt fenntartói támogatást, a központi költségvetési támogatás is arányosan csökken.
+(3) Működési támogatás a 16. § (3) bekezdéséhez kapcsolódó mutatószámmal meghatározott eredmény eléréséhez kötötten is nyújtható.
+
+19. § (1) Nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek nem minősülő színházak, balett- és táncegyüttesek támogatása pályázati úton történik. A művészeti és működési támogatásra irányuló pályázatokat legkésőbb február 15-éig kell kiírni, és április 30-áig a benyújtott pályázatokkal kapcsolatos döntéseket nyilvánosságra kell hozni.
+
+(2) A pályázatokról történő döntés megalapozásához a miniszter az érintett bizottság – az (1) bekezdés szerinti előadó-művészeti szervezetek szakmai érdek-képviseleti szervezetei által véleményezett – javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésre a szakmai kuratórium – színháztípusonként, továbbá a balett- és táncegyüttesekre vonatkozóan jogszabályban meghatározott minőségbiztosítási szempontrendszer szerinti értékelésen alapuló – előterjesztése alapján az érintett bizottság tesz javaslatot. A javaslattól eltérő döntését a miniszter köteles megindokolni.
+
+(3) Az (1) bekezdés szerinti előadó-művészeti szervezetek tárgyévi támogatási keretösszegének feléig az érintett bizottság javaslata alapján a miniszter legfeljebb három évre szóló kötelezettséget vállalhat a következő évek támogatási kerete terhére.
+
+### 3. CÍM — A zenekarok és énekkarok központi költségvetési támogatásai és az igénybevétel feltételei
+
+20. § (1) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített zenekar, énekkar fenntartóját külön a zenekarra és külön az énekkarra
+
+- a) a zenekar, énekkar létszáma,
+- b) a hangversenyek száma,
+- c) opera-előadásokon történő közreműködések száma,
+- d) az ifjúsági hangversenyek száma,
+- e) a bemutatott kortárs magyar zeneművek száma,
+- f) a fizető nézők száma és
+- g) a kereskedelmi forgalomba hozott hangfelvételek, képfelvételek száma alapján e szempontokra figyelemmel megállapított központi költségvetési támogatás illeti meg.
+
+(2) Az (1) bekezdés szerinti zenekar, énekkar létszámának megállapításához a tárgyévet megelőző évben az előadó-művészeti szervezetnél teljes munkaidőben foglalkoztatott munkavállaló vehető figyelembe. Művészi munkakörben, részmunkaidőben foglalkoztatott munkavállalót a részmunkaidő arányában kell figyelembe venni.
+
+(3) Nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek nem minősülő zenekar, énekkar támogatása pályázati úton történik. A pályázatokról történő döntés megalapozásához a miniszter az érintett bizottság javaslata figyelembevételével szakmai kuratóriumot kér fel. A döntésre a szakmai kuratórium a zenekarokra és énekkarokra jogszabályban meghatározott minőségbiztosítási szempontrendszer szerinti értékelésen alapuló előterjesztése alapján az érintett bizottság tesz javaslatot. A javaslattól eltérő döntését a miniszter köteles megindokolni.
+
+(4) A (3) bekezdés szerinti zenekar, énekkar tárgyévi támogatási keretösszegének feléig a szakmai kuratórium javaslata alapján a miniszter legfeljebb három évre szóló kötelezettséget vállalhat a következő évek támogatási kerete terhére.
 
 ### 4. CÍM — A miniszter által felügyelt költségvetési fejezetből nyújtható kiemelt támogatások
 
@@ -328,25 +373,24 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 ### 6. CÍM — A támogatási rendszer központi költségvetési forrásai
 
-24. § (1) A központi költségvetésről szóló törvény meghatározza az I–VI. kategóriába sorolt színházak, balett- vagy táncegyüttesek, valamint az I–II. kategóriába sorolt zenekarok és énekkarok elosztható támogatásának keretösszegeit.
+24. § (1) A központi költségvetésről szóló törvény meghatározza a nyilvántartott színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok elosztható támogatásának keretösszegeit. A központi költségvetésről szóló törvény
 
-(2) Az előadó-művészetben jelentkező újító törekvések támogatása és a magánszféra versenyképességének erősítése érdekében a VI. kategóriába sorolt színházak pályázati úton elosztható támogatásának aránya az I–V. kategóriába sorolt színházak, balett- vagy táncegyüttesek központi költségvetési támogatása keretösszegének figyelembevételével kerül megállapításra.
+- a) nemzeti előadó-művészeti szervezeteket megillető művészeti támogatás és működési támogatás összegét az előadó-művészeti szervezetekre,
+- b) a kiemelt előadó-művészeti szervezetek
+  - ba) működési támogatásának összegét a kiemelt előadó-művészeti szervezetet fenntartó vagy azokkal közszolgáltatási megállapodást kötő valamennyi önkormányzatra,
+  - bb) művészeti támogatásának összegét az egyes színházakra is lebontva határozza meg.
 
-(3) A költségvetési tervezés során a tárgyévet megelőző év március 31-ig szolgáltatott adatok szerinti besorolást kell figyelembe venni.
+(2) A központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
 
-(4) A helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetben kell biztosítani:
+- a) a nyilvántartott színházak, balett- vagy táncegyüttesek önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
+- b) a nyilvántartott zenekarok, énekkarok önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
 
-- a) az I–V. kategóriába sorolt színházak, balett- vagy táncegyüttesek fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
-- b) az I. kategóriába sorolt zenekarok és énekkarok fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
-
-(5) A kultúráért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell biztosítani:
+(3) A kultúráért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell biztosítani:
 
 - a) a nyilvántartásba vett állami fenntartású színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
-- b) az e törvény 4. § d) pontja szerinti szerződéssel rendelkező előadó-művészeti szervezet támogatását,
-- c) a VI. kategóriába sorolt színházak támogatási előirányzatát,
-- d) a II. kategóriába sorolt zenekarok és énekkarok támogatási előirányzatát,
-- e) az e törvény 21. §-a alapján nyújtható pályázati támogatások előirányzatát, valamint
-- f) az előadó-művészeti államigazgatási szerv működéséhez szükséges előirányzatot.
+- b) a magyar állammal kötött közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezet támogatását,
+- c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
+- d) az előadó-művészeti államigazgatási szerv működéséhez szükséges előirányzatot.
 
 ### V. Fejezet — AZ ELŐADÓ-MŰVÉSZETI MUNKAVÉGZÉS SAJÁTOS SZABÁLYAI
 

@@ -2469,7 +2469,7 @@ kell érteni.
 - a) a dohánygyártmány megnevezését (cigaretta, szivar, szivarka, finomra vágott fogyasztási dohány, egyéb fogyasztási dohány),
 - b) a dohánygyártmány fogyasztói csomagolási egységben foglalt mennyiségét (darab, kilogramm) – darabonként csomagolt szivar kivételével –,
 - c) a fogyasztói csomag kiskereskedelmi eladási árát,
-- d) az adójegy sorszámát, valamint
+- d) az adójegy sorszámát (vonalkód formájában is), valamint
 - e) annak – külön jogszabályban foglalt módon való – jelölését, hogy az adójegy által képviselt fizetési kötelezettség milyen időpontban hatályba lépett (lépő) adó- és általánosforgalmiadó-mérték alapján került meghatározásra.
 
 (4) Az adójegyet a Magyar Állam állíttatja elő, és a vámhatóság bocsátja – elektronikus úton, az ügyfélkapun keresztül benyújtott megrendelés alapján és elszámolási kötelezettség mellett – a 98. § (3) bekezdésében megjelöltek rendelkezésére.

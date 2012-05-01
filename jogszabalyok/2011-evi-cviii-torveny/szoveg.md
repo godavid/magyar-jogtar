@@ -143,6 +143,16 @@ a közbeszerzésekről
 - g) ha a szolgáltatást a 6. § (1) bekezdés a)–c) pontjaiban meghatározott ajánlatkérők valamelyike vagy általuk létrehozott társulás jogszabály alapján fennálló kizárólagos jog alapján nyújtja;
 - h) ha valamely közfeladat ellátását egy 6. § (1) bekezdés a)–c) pontja szerinti ajánlatkérő egy másik 6. § (1) bekezdés a)–c) pontok szerinti ajánlatkérőnek adja át olyan módon, hogy az az átruházó ajánlatkérőtől teljesen függetlenül és saját felelősséggel, haszonszerzési cél nélkül végzi a feladat ellátását.
 
+(6) Az (1) bekezdés a) pontjában meghatározott beszerzésekkel összefüggésben kezelt közérdekű adat, valamint közérdekből nyilvános adat megismerését a 6.§ (1) bekezdés a) és b) pontjában meghatározott ajánlatkérő nemzetbiztonsági érdekből – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével, legfeljebb az adat keletkezésétől számított tíz éves időtartam lejártáig – korlátozhatja.
+
+(7) A (6) bekezdés alapján az (1) bekezdés a) pontjában meghatározott
+
+- a) beszerzéssel összefüggésben feladat- és hatáskörében eljáró szerv határozatának,
+- b) beszerzési eljárás nyertes ajánlattevője személyének,
+- c) beszerzésre vonatkozó szerződések megnevezésének, tárgyának, értékének, időtartamának, a szerződő felek nevének
+
+megismerése nem korlátozható.
+
 ### A közbeszerzési értékhatárok
 
 10. § (1) A közbeszerzési értékhatárok:

@@ -6,14 +6,22 @@ a lőfegyverekről és lőszerekről
 
 1. § (1)
 
-(2) E törvény hatálya nem terjed ki a Magyar Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, a Magyarország területén állomásozó fegyveres szervek, a fegyveres biztonsági őrség lőfegyvereinek és lőszereinek megszerzésére és tartására.
+(2) Törvény eltérő rendelkezésének hiányában e törvény
+
+- a) hatálya nem terjed ki
+  - aa) a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat,
+  - ab) a Magyarország területén állomásozó fegyveres szervek,
+  - ac) a Nemzeti Adó- és Vámhivatal,
+  - ad) a rendvédelmi szervek, valamint
+  - ae) a fegyveres biztonsági őrség által jogszerűen birtokolt lőfegyverekre, lőszerekre és egyéb fegyverekre, valamint ezeknek a felsorolt szervek által történő megszerzésére és az általuk üzemeltetett lőterekre,
+- b) rendelkezései nem alkalmazandók a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló törvényben haditechnikai termékként meghatározott eszközök tekintetében a hadiipari tevékenység végzéséhez szükséges engedély alapján végzett tevékenységek hatósági engedélyezésére.
 
 2. § E törvény, valamint a végrehajtására kiadott jogszabályok alkalmazásában:
 
 - 1. automata lőfegyver: olyan lőfegyver, amely minden lövés után automatikusan újratölt, és az elsütőszerkezet egyszeri működtetésével egynél több lövést képes leadni;
 - 2. áthatoló (páncéltörő) lőszer: olyan lőszer, amelynél a lövedéket köpeny burkolja és páncéltörő (áthatoló) kemény maggal rendelkezik, ideértve a nem páncéltörő rendeltetésű acélmagvas lőszereket is;
 - 3. egylövetű lőfegyver: tölténytár nélküli lőfegyver, amelynek töltényűrjébe vagy a csőfar töltőnyílásába, illetve csőtorkolatán keresztül a csövébe minden lövés leadása előtt külön be kell helyezni a lőszert vagy lőszer alkatrészeket;
-- 4. elöltöltő lőfegyver: az olyan egylövetű- vagy ismétlőfegyver, amelynél a lőport és a lövedéket kizárólag a csőtorkolat irányából lehet a csőbe vagy a forgódobba betölteni, rendeltetésszerűen fekete lőporral vagy gyárilag a fekete lőpor kiváltására készült lőporral és hozzávaló csappantyúval működtethető;
+- 4. elöltöltő fegyver: az olyan egylövetű- vagy ismétlőfegyver, amelynél a lőport és a lövedéket kizárólag a csőtorkolat irányából lehet a csőbe vagy a forgódobba betölteni, rendeltetésszerűen fekete lőporral vagy gyárilag a fekete lőpor kiváltására készült lőporral és hozzávaló csappantyúval működtethető;
 - 5. expanzív (kiterjedő) lövedékű lőszer: olyan lőszer, melynek lövedéke üreges csúcsú vagy lövedéke a köpenytől eltekintve nem egy darabból áll;
 - 6. félautomata lőfegyver: olyan lőfegyver, amely minden lövés után automatikusan újratölt, és az elsütőbillentyű egyszeri működtetésével csak egy lövést képes leadni;
 - 7. flóbert rövid lőfegyver: olyan peremgyújtású egylövetű rövid tűzfegyver, melynek teljes hossza 28 cm-nél rövidebb, kizárólag flóberttöltény működtetésére alkalmas és az Európai Közösségek Tanácsának a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK irányelve szerint a ,,B'' engedélyköteles kategóriába tartozik;
@@ -21,28 +29,28 @@ a lőfegyverekről és lőszerekről
 - 9. gyújtólövedéket tartalmazó lőszer: olyan lőszer, amelynek lövedéke olyan vegyi anyagot tartalmaz, amely a levegővel történő érintkezéskor vagy becsapódáskor lángra lobban;
 - 10. hangtompító: lőfegyver torkolatdörejének csökkentésére szolgáló, a fegyvercsőre vagy annak torkolatára felszerelhető eszköz;
 - 11. hatástalanított lőfegyver: lőszer, illetve lövedék kilövésére véglegesen alkalmatlanná tett lőfegyver;
-- 12. hosszú lőfegyver: olyan lőfegyver, amelynek csöve meghaladja a 30 cm hosszúságot, vagy amelynek teljes hossza meghaladja a 60 cm-t;
+- 12. hosszú lőfegyver: a rövid lőfegyvernek nem minősülő lőfegyver;
 - 13. ismétlő lőfegyver: olyan lőfegyver, amelyet úgy terveztek és alakítottak ki, hogy minden lövés leadása után tölténytárból vagy forgódobból a szerkezet kézi működtetésével tölthető újra;
 - 14. légfegyver: a 15 joule vagy annál kisebb csőtorkolati energiájú festéklövő fegyver kivételével a sűrített levegővel vagy egyéb sűrített gáz felhasználásával üzemeltetett, szilárd anyagú lövedék kilövésére alkalmas fegyver;
 - 15. leváló köpenyes lőszer: olyan lőszer, amelynek lövedéke űrméret alatti, és a fegyvercsőben való megvezetését – esetenként a lőporgázok hajtóerejének átadását is – valamilyen, a lövedékre szerelt alkatrész végzi, amely úgy lett kialakítva, hogy a cső elhagyását követően a lövedékről – annak a célba csapódását megelőzően – leváljon;
 - 16. lőfegyver: a tűzfegyver, valamint az a légfegyver, amelyből 7,5 joule-nál nagyobb csőtorkolati energiájú, szilárd anyagú lövedék lőhető ki;
 - 17. lőfegyverjavítás: a rendeltetésszerű használatnak meg nem felelő lőfegyver fegyverrészének ugyanolyan alkatrészre történő kicserélése, a lőfegyver irányzékán – a rendeltetés szerinti beállítás, illetve a tartozékok rendeltetésszerű, a körülményekhez igazodó cseréje kivételével – végrehajtott módosítás, továbbá a lőfegyver működőképességének helyreállítása;
-- 18. lőfegyver-kereskedő: az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) kereskedelmi vagy egyéb üzleti tevékenységét teljes egészében vagy részben lőfegyver- vagy lőszergyártás, kereskedelem, közvetítő-kereskedelem, csere, bérbeadás, javítás, hatástalanítás vagy átalakítás területén végzi;
-- 19. lőfegyver, lőszer forgalmazása: lőfegyver, lőszer tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
+- 18. lőfegyver-kereskedő: az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) kereskedelmi vagy egyéb üzleti tevékenységét teljes egészében vagy részben lőfegyver-, lőfegyverdarab- vagy lőszergyártás, kereskedelem, közvetítő kereskedelem, csere, bérbeadás, javítás, hatástalanítás vagy átalakítás területén végzi;
+- 19. forgalmazás: lőfegyver, lőszer, illetve egyéb fegyver tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
 - 20. lőfegyver- és lőszerkészítés (a továbbiakban: gyártás): lőfegyver, lőszer, lőfegyverdarab, flóberttöltény és lőszeralkatrész elkészítése, az elkészített alkatrészek készre szerelése, valamint a lőfegyver olyan megmunkálása, amely azt az eredetitől eltérő kaliberjelű lőszer használatára teszi alkalmassá;
 - 21. lőfegyvertartás: a birtoklás, a viselés és a tárolás;
 - 22. lőszer: olyan egybeszerelt töltény, amely lövedéket, lőport, továbbá gyúelegyet tartalmaz;
 - 23. lőszeralkatrész (lőszerelem): lőpor, gyúelegyes töltényhüvely (csappantyús töltényhüvely), csappantyú és minden robbanó, gyújtó, fényjelző, páncéltörő és leváló köpenyes lövedék, melyet tűzfegyverből történő kilövésre terveztek;
 - 24. muzeális fegyver és lőszer: az elöltöltő fegyver, továbbá a korszerű perem vagy központi, illetve elektromos gyújtású lőszer használatára alkalmatlan tűzfegyver, és az ilyen fegyverekhez használható 1945 előtt gyártott lőszer;
 - 25. nyomjelző (fényjelző) lövedékű lőszer: olyan lőszer, melynek lövedéke a röppályát láthatóvá tevő, meggyulladó anyagot is tartalmaz;
-- 26. rendvédelmi szervek: a rendőrség, a Vám- és Pénzügyőrség és a büntetés-végrehajtás szervei;
+- 26.
 - 27. robbanó lövedékeket tartalmazó lőszer: olyan lőszer, amelynek lövedéke becsapódáskor felrobbanó töltetet tartalmaz;
 - 28. rövid lőfegyver: olyan lőfegyver, amelynek csöve nem haladja meg a 30 cm hosszúságot, vagy amelynek teljes hossza nem haladja meg a 60 centimétert;
-- 29. tűzfegyver: olyan, a törvény mellékletének ,,A'', ,,B'', ,,C'' vagy ,,D'' kategóriájában meghatározott eszköz, amelyből a kiterjedő forró gáz tolóereje által meghajtott szilárd anyagú lövedék lőhető ki, kivéve, ha
-  - a) külön jogszabályban meghatározottak szerint hatástalanították,
-  - b) riasztásra, jelzésre, életmentésre, állatok leölésére vagy szigonnyal történő halászatra, illetve ipari vagy műszaki célokra tervezték, feltéve, hogy csak az itt megjelölt célokra használják,
-  - c) muzeális fegyvernek tekinthető;
-- 30. tűzfegyver fődarab (lőfegyverdarab): fegyvercső, váltócső, betétcső, zár, forgódob és az ezeket egybefoglaló tokszerkezet. A tűzfegyver fődarab abba a tűzfegyver kategóriába tartozik, amelyre felszerelték vagy amelyhez gyártották;
+- 29. tűzfegyver: olyan, a Mellékletben meghatározott „A”, „B”, „C” vagy „D” kategóriába tartozó – vagy ilyenné átalakított – eszköz, amelyből gyúlékony hajtóanyag segítségével szilárd anyagú lövedék lőhető ki, kivéve, ha
+  - a) a jogszabályban meghatározott módon hatástalanították,
+  - b) riasztásra, jelzésre, életmentésre, állatok leölésére vagy szigonnyal történő halászatra, illetve ipari vagy műszaki célokra tervezték, feltéve, hogy rendeltetésszerűen csak e célokra használható, vagy
+  - c) a jogszabály rendelkezése alapján muzeális fegyvernek minősül;
+- 30. tűzfegyver fődarab (lőfegyverdarab): fegyvercső, váltócső, betétcső, zár vagy zárszerkezet, forgódob és az ezeket egybefoglaló tokszerkezet. A tűzfegyver fődarab abba a tűzfegyver kategóriába tartozik, amelyre felszerelték vagy amelyhez gyártották;
 - 31. festéklövő fegyver: olyan sűrített levegő vagy egyéb sűrített gáz felhasználásával működő eszköz, melynek csövéből 15 joule vagy annál kisebb mozgási energiával lőhető ki festéklövedék;
 - 32. gáz- és riasztófegyver: olyan eszköz, amely rendeltetésszerűen csak gáztöltény és riasztótöltény működtetésére alkalmas;
 - 33. gáztöltény: olyan, szilárd anyagú lövedékkel nem rendelkező töltény, amely a szemre és a légutakra ingerlő hatást kifejtő adalékanyagot tartalmaz;
@@ -65,48 +73,47 @@ a lőfegyverekről és lőszerekről
 
 3. § (1) A rendőrség által kiadott engedély szükséges:
 
-- a) a lőfegyver, a lőfegyverdarab (a továbbiakban együtt: lőfegyver), a muzeális lőszer kivételével a lőszer, a flóberttöltény gyártásához, javításához, forgalmazásához, a lőfegyver hatástalanításához, a lőfegyver kiállításához;
-- b) a festéklövő fegyver, a gáz- és riasztófegyver, a gáztöltény, a riasztótöltény, a vaktöltény, a légfegyver, a lőszerelem, a színházi fegyver gyártásához, javításához, forgalmazásához;
-- c) az „A”, „B”, „C” vagy „D” kategóriába tartozó tűzfegyver, a lőfegyverdarab, az e törvény alapján lőfegyvernek minősülő légfegyver, a színházi fegyver, a lőszer és a hangtompító megszerzéséhez, tartásához, az ország területére történő behozatalához, az ország területéről történő kiviteléhez, az ország területén történő átszállításához;
-- d) a gáz- és riasztófegyver önvédelmi célú viseléséhez, a lőszerelem, a színházi fegyver megszerzéséhez, tartásához;
-- e) a muzeális fegyver sportlövészeti célú használatához;
+- a) a lőfegyver, a lőfegyverdarab (a továbbiakban együtt: lőfegyver), a muzeális lőszer kivételével a lőszer, a flóberttöltény gyártásához, javításához, forgalmazásához, a lőfegyver hatástalanításához, a lőfegyver kiállításához és a házilagos lőszerszereléshez és -újratöltéshez,
+- b) a festéklövő fegyver, a gáz- és riasztófegyver, a gáztöltény, a riasztótöltény, a vaktöltény, a légfegyver, a lőszerelem, a színházi fegyver gyártásához, javításához, forgalmazásához,
+- c) a tűzfegyver, a lőfegyverdarab, az e törvény alapján lőfegyvernek minősülő légfegyver, a színházi fegyver, a lőszer, a lőszerelem és a hangtompító
+  - ca) tartásához, továbbá
+  - cb) az ország területére történő behozatalához, az ország területéről történő kiviteléhez, az ország területén történő átszállításához,
+- d) a gáz- és riasztófegyver viseléséhez,
+- e) a muzeális fegyver gyártásához, javításához, forgalmazásához, valamint sportlövészeti célú használatához, valamint
 - f) a polgári rendeltetésű lőtér, a lőfegyver- és lőszertárolóhely üzemeltetéséhez, valamint lövészetvezetői tevékenység végzéséhez.
 
-(2) A flóbert lőfegyverek megszerzésére és tartására vonatkozó egyszerűsített hatósági szabályokat e törvény felhatalmazása alapján a Kormány állapítja meg.
+(2) Az (1) bekezdés c) pontjában meghatározott eszköz a tartására jogosító engedély birtokában szerezhető meg. A rendőrség az engedélyt visszavonja, ha a jogosult az abban meghatározott eszközt az engedély kiállításától számított 90 napon belül nem szerzi meg.
 
-(3) A lőfegyver-megszerzési és -tartási engedéllyel rendelkező személy vagy szervezet a lőfegyverhez használható lőszert külön engedély nélkül megszerezheti, illetve tarthatja. Filmgyártási célra tartott lőfegyverhez lőszer nem szerezhető meg.
+(3) Az (1) bekezdés c) pont ca) alpontjában meghatározott engedéllyel rendelkező személy vagy szervezet az engedélyben nem szereplő – az engedélyben meghatározott célra rendelt és az adott célra jogszerűen tartható – tűzfegyvert, lőfegyverdarabot, az e törvény alapján lőfegyvernek minősülő légfegyvert, színházi fegyvert, lőszerelemet és hangtompítót, valamint a jogszerűen tartott lőfegyverhez használható lőszert az engedély birtokában szerezheti meg. A jogszerűen tartott lőfegyverhez használható lőszer megszerzéséhez a lőfegyvernek a tartására jogosító engedély meglétét igazoló hatósági igazolványba történő bejegyzése szükséges. Filmgyártási célra tartott lőfegyverhez lőszer nem szerezhető meg.
 
 (3a) Lőfegyver filmgyártási célra történő tartása kizárólag a Kormány rendeletében meghatározott feltételeknek megfelelő szervezet részére engedélyezhető. A filmgyártási célú lőfegyver tartására jogosult szervezet vaktöltény gyártására jogosult tagja az engedélyezett fegyverhez tartozó vaktöltényt külön engedély nélkül készíthet.
 
-(4) Lőfegyver vagy lőszer kereskedelmi célú behozatalához, kiviteléhez vagy re-exportjához – az (1) bekezdésben foglaltakon túlmenően – a külön jogszabályban meghatározott hatóság engedélye is szükséges.
+(4) A lőfegyver vagy lőszer kereskedelmi célú behozatalának, kivitelének, illetve átszállításának engedélyezése iránti kérelem elbírálása során a szakhatósági közreműködés rendjét kormányrendelet határozza meg.
 
-(5) Tűzfegyvernek az Európai Unió valamely tagállamába történő – nem kereskedelmi vagy elidegenítési célú – kiviteléhez európai lőfegyvertartási engedély szükséges. Európai lőfegyvertartási engedély annak a természetes személynek adható, aki a tűzfegyver megszerzésére és tartására érvényes engedéllyel rendelkezik.
+(5) Lőfegyvernek az Európai Unió valamely tagállamába történő – nem kereskedelmi vagy elidegenítési célú – kiviteléhez a rendőrség által kiadott európai lőfegyvertartási engedély szükséges. Európai lőfegyvertartási engedély a lőfegyver tartására jogosult természetes személynek adható.
 
-(6) Az engedély (ideértve az európai lőfegyvertartási engedélyt is) kiadása és visszavonása a rendőrség hatáskörébe tartozik.
+(6) Ha az Európai Unió valamely tagállama a magyar hatóságot azért keresi meg, mert attól magyarországi lakóhellyel rendelkező személy a megkereső tagállamban „B” kategóriába tartozó tűzfegyver tartására kér engedélyt, hatóságként a rendőrség jár el.
 
-(7) Ha az Európai Unió valamely tagállama a magyar hatóságot azért keresi meg, mert attól magyarországi lakóhellyel rendelkező személy a megkereső tagállamban ,,B'' kategóriába tartozó tűzfegyver tartására kér engedélyt, hatóságként a rendőrség jár el.
+(7) Az (1) bekezdés c) pont ca) alpontjában meghatározott engedélyt – valamint az engedély meglétét igazoló hatósági igazolványt – a kérelmező természetes személy személyesen, a kérelmező jogi személy vagy jogi személyiséggel nem rendelkező szervezet a kereskedelmi meghatalmazottja útján veheti át.
 
-(8) A lőfegyver, lőszer megszerzési és tartási engedélyt a kérelmező természetes személy személyesen, a kérelmező jogi személy vagy jogi személyiséggel nem rendelkező szervezet a kereskedelmi meghatalmazottja útján veheti át.
-
-3/A. § (1) E törvény eltérő rendelkezése hiányában a 3. §-ban meghatározott engedély abban az esetben adható meg, ha az engedélyt kérelmező természetes személy a rendészetért felelős miniszter rendeletében meghatározott, a fegyvertartáshoz szükséges elméleti és jártassági követelményeket teljesítette, valamint, ha az engedélyt kérelmező természetes személy, jogi személy esetén annak vezető tisztségviselője vagy jogi személyiséggel nem rendelkező szervezet esetén a tevékenységért felelős vezető
+3/A. § (1) E törvény eltérő rendelkezése hiányában a 3. §-ban meghatározott engedély abban az esetben adható meg, ha az engedélyt kérelmező természetes személy a rendészetért felelős miniszter rendeletében meghatározott, a fegyvertartáshoz – és a házilagos lőszerszerelés és -újratöltés esetén az e tevékenységhez – szükséges elméleti és jártassági követelményeket teljesítette, valamint, ha az engedélyt kérelmező természetes személy, jogi személy esetén annak vezető tisztségviselője vagy jogi személyiséggel nem rendelkező szervezet esetén a tevékenységért felelős vezető
 
 - a) tizennyolcadik életévét betöltötte és
 - b) cselekvőképes.
 
-(2) A 3. §-ban meghatározott engedély nem adható meg, ha az (1) bekezdésben meghatározott személy
+(2) A 3. §-ban meghatározott engedély nem adható, illetve hosszabbítható meg, ha az (1) bekezdésben meghatározott személy
 
 - a) büntetett előéletű;
-- b) büntetlen előéletű, de büntetőjogi felelősségét a bíróság jogerősen megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. fejezetében meghatározott állam elleni bűncselekmény, XI . fejezetében meghatározott emberiség elleni bűncselekmény, személy elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, 170. § (2)–(4) és (6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, emberkereskedelem, 174/B. § (2) bekezdés a) pontja szerinti közösség tagja elleni erőszak, 175/A. § (2) bekezdés b) pontja szerinti emberrablás, illetve 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, erőszakos közösülés, szemérem elleni erőszak, 207. § (3) bekezdés b) pontja szerinti kerítés, XV. fejezet V. címében meghatározott hivatalos személy elleni bűncselekmény, embercsempészés, 259. § (1)–(3) bekezdése szerinti közveszélyokozás, közérdekű üzem működésének megzavarása, terrorcselekmény, nemzetközi gazdasági tilalom megszegése, légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, fegyvercsempészet, bűnszervezetben részvétel, visszaélés radioaktív anyaggal, visszaélés nemzetközi szerződés által tiltott fegyverrel, tiltott állatviadal szervezése, állatkínzás, garázdaság, önbíráskodás, természetkárosítás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, lopás, sikkasztás, csalás, hűtlen kezelés, rablás, kifosztás , zsarolás, rongálás, orgazdaság, jármű önkényes elvétele, 343. § (2) bekezdés a) pontja, (4) és (5) bekezdése szerinti szökés, 355. § (2) bekezdés a) pontja szerinti elöljáró vagy szolgálati közeg elleni erőszak elkövetése vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
-  - ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig,
-  - bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
-  - bc) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
-  - bd) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
-  - be) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
+- b) büntetlen előéletű, de büntetőjogi felelősségét a bíróság jogerősen megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. fejezetében meghatározott állam elleni bűncselekmény, XI. fejezetében meghatározott emberiség elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, 170. § (2)–(4) és (6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, emberkereskedelem, 174/B. § (2) bekezdés a) pontja szerinti közösség tagja elleni erőszak, 175. § (3) bekezdés g) pontja szerinti személyi szabadság megsértése, 175/A. § (2) bekezdés b) pontja szerinti emberrablás, illetve 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, 176/A. § (2) bekezdése szerinti zaklatás, erőszakos közösülés, szemérem elleni erőszak, 207. § (3) bekezdés b) pontja szerinti kerítés, 218. § (3) bekezdés b) pontja szerinti embercsempészés, XV. fejezet V. címében meghatározott hivatalos személy elleni bűncselekmény, 242/B. § (3) bekezdése szerinti hatóság eljárásának megzavarása, 259. § (1)–(3) bekezdése szerinti közveszélyokozás, 260. § (2) bekezdése szerinti közérdekű üzem működésének megzavarása, terrorcselekmény, 261/A. § (3) bekezdése szerinti nemzetközi gazdasági tilalom megszegése, légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, bűnszervezetben részvétel, visszaélés radioaktív anyaggal, visszaélés nemzetközi szerződés által tiltott fegyverrel, 266/B. § (2) bekezdés első fordulata szerinti állatkínzás, 271. § (3) bekezdése szerinti garázdaság, 273. § (2) bekezdése szerinti önbíráskodás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, rablás, 322. § (1) bekezdés b) pontja szerinti kifosztás, zsarolás, 324. § (4) bekezdés c) pontja szerinti rongálás, 327. § (2) bekezdés a) pontja vagy (3) bekezdése szerinti jármű önkényes elvétele, 343. § (2) bekezdés a) pontja, (4) és (5) bekezdése szerinti szökés, 355. § (2) bekezdés a) pontja szerinti elöljáró vagy szolgálati közeg elleni erőszak, 363. § (1) bekezdés b) pontja szerinti harckészültség veszélyeztetése elkövetése vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
+  - ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
+  - bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+  - bc) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltáig,
+  - bd) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított négy évig.
 - c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig,
-- d) szabálysértési felelősségét polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel, lőfegyverrel, közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, rendzavarás, számszeríj vagy szigonypuska jogellenes használata, veszélyes fenyegetés, jogosulatlan vadászat vagy természetvédelmi szabálysértés elkövetése miatt a szabálysértési hatóság jogerősen megállapította, a határozat jogerőre emelkedését követő két évig,
-- e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a kérelemmel összefüggő valós adatot elhallgat vagy a fegyverre, lőszerre (töltényre) lőszerelemre, lőtérre vonatkozó, jogszabályban meghatározott kötelezettségét megszegi, a kérelem benyújtását vagy – ha ezen ok miatt az engedély visszavonása iránt eljárás indul – az engedélyt visszavonó határozat jogerőre emelkedését követő két évig.
+- d) szabálysértési felelősségét polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértés, lőfegyverrel kapcsolatos szabálysértés, a közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 169. § (2) bekezdés a) pontja szerinti rendzavarás, közbiztonsági tevékenység jogosulatlan végzése, számszeríj, szigonypuska jogellenes használata, veszélyes fenyegetés vagy jogosulatlan vadászat elkövetése miatt a szabálysértési hatóság jogerősen megállapította, a határozat jogerőre emelkedését követő hat hónapig,
+- e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a kérelemmel összefüggő valós adatot elhallgat vagy a fegyverre, lőszerre (töltényre) lőszerelemre, lőtérre vonatkozó, jogszabályban meghatározott kötelezettségét súlyosan megszegi, a kérelem benyújtását vagy – ha ezen ok miatt az engedély visszavonása iránt eljárás indul – az engedélyt visszavonó határozat jogerőre emelkedését követő hat hónapig.
 
-(3) Az engedély kiadására és meghosszabbítására irányuló eljárásban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele szemben a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn.
+(3) A 3. § (1) bekezdésében meghatározott engedély iránti kérelem elbírására irányuló eljárásban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele szemben a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, vagy kéri, hogy az e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a rendőrség részére – annak az engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
 
 (4) A rendőrség hatósági ellenőrzése során a (2) bekezdésben meghatározott körülmények fennállását legalább évente egy alkalommal vizsgálja. A hatósági ellenőrzés során a rendőrség
 
@@ -120,9 +127,9 @@ a lőfegyverekről és lőszerekről
 
 kezeli.
 
-(6) A 22 Short, 22 Long Rifle kaliberjelű sportlőfegyver megszerzését és tartását a rendőrség a tizenhatodik életévét betöltött sportlövő részére – a törvényes képviselő hozzájárulásával – engedélyezi.
+(6) A 22 Short, 22 Long Rifle kaliberjelű sportlőfegyver tartását a rendőrség a tizenhatodik életévét betöltött sportlövő részére – a törvényes képviselő hozzájárulásával – engedélyezi.
 
-3/B. § (1) Eltérő rendelkezés hiányában a kizárólag 7,5 joule vagy annál kisebb csőtorkolati energiájú lövedék kilövésére alkalmas tűzfegyver megszerzése és tartása céllövészetre
+3/B. § (1) Eltérő rendelkezés hiányában a kizárólag 7,5 joule vagy annál kisebb csőtorkolati energiájú lövedék kilövésére alkalmas tűzfegyver tartása céllövészetre
 
 - a) a (2) bekezdésben meghatározott kérelmezőnek abban az esetben engedélyezhető, ha
   - aa) jogi személy szervezet kérelmező esetén annak vezető tisztségviselője,
@@ -132,14 +139,15 @@ kezeli.
 (2) Az (1) bekezdésben meghatározott engedély az alábbi szervezeteknek adható meg:
 
 - a) sportlövészet folytatása céljából nyilvántartásba vett sportegyesület, ha az országos sportági szakszövetség a szövetségi tagságot igazolja,
-- b) olyan szervezet, amely az adott típusú és kaliberjelű lőfegyverre kiadott lőtér-üzemeltetési engedéllyel, valamint lőtérszabályzattal rendelkezik,
+- b) olyan szervezet, amely sportcélra, oktatásra vagy az adott típusú és kaliberjelű lőfegyverre kiadott lőtér-üzemeltetési engedéllyel, valamint lőtérszabályzattal, vagy ilyen lőtér bérleti szerződésével rendelkezik,
 - c) a polgári célra felhasználható lőfegyverek, lőszerek és hatástalanított lőfegyverek vizsgálatára, valamint lőfegyverek és lőszerek hatástalanítására jogosult szervezet,
 - d) olyan szervezet, amely lőszer gyártására jogosító engedéllyel rendelkezik,
-- e) olyan szervezet, amely a saját vagy mások vagyonát hivatásszerűen őrzi, mások életét, testi épségét hivatásszerűen védi.
+- e) olyan szervezet, amely a saját vagy mások vagyonát hivatásszerűen őrzi, mások életét, testi épségét hivatásszerűen védi, valamint
+- f) olyan szervezet, amelynek tevékenységei között a lőoktatás szerepel.
 
-(3) Gáz- és riasztófegyver önvédelmi célú viselése annak a természetes személynek engedélyezhető, aki megfelel a 3/A. § (1) bekezdés a) és b) pontjában meghatározott feltételnek, és akivel szemben nem áll fenn a 3/A. § (2) bekezdés a), b) vagy c) pontjában meghatározott körülmény.
+(3) Gáz- és riasztófegyver viselése kizárólag önvédelmi célra engedélyezhető, annak a természetes személynek, aki megfelel a 3/A. § (1) bekezdés a) és b) pontjában meghatározott feltételnek, és akivel szemben nem áll fenn a 3/A. § (2) bekezdés a), b) vagy c) pontjában meghatározott körülmény.
 
-(4) Az (1) és (3) bekezdésben meghatározott engedély kiadására és meghosszabbítására irányuló eljárásban
+(4) Az (1) és (3) bekezdésben meghatározott engedély kiadására irányuló eljárásban
 
 - a) a 3/A. § (2) bekezdés a)–c) pontjában meghatározott körülménnyel kapcsolatos igazolásra a 3/A. § (3) és (5) bekezdésében,
 - b) a hatósági ellenőrzésre a 3/A. § (4) és (5) bekezdésében
@@ -158,7 +166,7 @@ személy lehet.
 
 (3) A színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt személyt az (1) bekezdésben meghatározott engedély iránti kérelem benyújtásával egyidejűleg – ha az engedéllyel rendelkező a színházi fegyverek kezeléséért és tárolásáért felelős új személyt kíván megbízni, e megbízásra irányuló jogviszony létesítését harminc nappal megelőzően – a rendőrségnek be kell jelenteni.
 
-(4) A (3) bekezdésben meghatározott bejelentéssel egyidejűleg a színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
+(4) A (3) bekezdésben meghatározott bejelentéssel egyidejűleg a színházi fegyverek kezeléséért és tárolásáért felelősnek jelölt – az (1) bekezdésben meghatározott engedéllyel nem rendelkező – személy hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, vagy kéri, hogy az e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a rendőrség részére – annak az engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
 
 (5) A rendőrség hatósági ellenőrzés során legalább évente egy alkalommal vizsgálja azt is, hogy a színházi fegyverek kezeléséért és tárolásáért felelős személy büntetlen előéletű-e. A hatósági ellenőrzés során a rendőrség a büntetlen előélet ellenőrzése céljából a bűnügyi nyilvántartási rendszerről szóló törvényben meghatározottak szerinti közvetlen adathozzáférési jogosultsága útján adatot vesz át és kezel.
 
@@ -181,9 +189,9 @@ kezeli.
 - d) külső formájában automata szerkezetű lőfegyverre hasonlító félautomata lőfegyver;
 - e) huzagolt csövű lőfegyverhez való leváló köpenyes lövedékkel szerelt lőszer
 
-megszerzése és tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyverre történő felszerelése.
+tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyverre történő felszerelése.
 
-(2) Nem engedélyezhető olyan lőfegyver, lőszer megszerzése és tartása, amelynek használatát arra a célra, amelyre kérelmezték, más jogszabály tiltja.
+(2) Nem engedélyezhető olyan lőfegyver, lőszer tartása, amelynek használatát arra a célra, amelyre kérelmezték, más jogszabály tiltja.
 
 4/A. § (1) A 3. § (1) bekezdését a lőfegyvernek, a festéklövő fegyvernek, a gáz- és riasztófegyvernek, a légfegyvernek, a színházi fegyvernek, a muzeális lőszer kivételével a lőszernek, a flóberttölténynek, a gáz- és riasztótölténynek, valamint a lőszerelemnek a szolgáltatási kerettörvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő javítására, forgalmazására is alkalmazni kell.
 
@@ -195,14 +203,16 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 
 5. § (1) A lőfegyverek központi nyilvántartását a Rendőrségről szóló 1994. évi XXXIV. törvényben meghatározottak szerint a rendőrség központi szerve kezeli.
 
-(2) Az erre a feladatra kormányrendeletben kijelölt rendőrségi szerv központi nyilvántartást vezet a rendőrség által kiadott engedélyekről és az engedéllyel rendelkezőkről – az engedély érvényességi idejének lejártától számított húsz évig – a következő adattartalommal:
+(2) Az erre a feladatra kormányrendeletben kijelölt rendőrségi szerv központi nyilvántartást vezet
 
-- a) az engedély érvényességi ideje és száma;
-- b) a lőfegyver, lőszer tulajdonosának, a lőfegyver, lőszer forgalmazásakor a vevő, az eladó (szállító), illetve a megrendelő, az engedéllyel rendelkező jogi személy vezető tisztségviselői, egyéb szervezet esetén a tevékenységért felelős vezető és a szervezet lőfegyverét, lőszerét ténylegesen birtokló személyek természetes személyazonosító adatai, állampolgársága, lakóhelye, a személyazonosság igazolására alkalmas igazolvány száma, szervezet esetében a cégszerű megnevezésben szereplő – annak hiányában az azonosításhoz szükséges – adatok;
-- c) az engedéllyel rendelkező személy egészségügyi alkalmasságának időtartama;
-- d) a nyilvántartásba vett lőfegyver fajtája (tűzfegyver vagy légfegyver), típusa, gyártója, gyártási száma, kaliberjele, tűzfegyver esetében kategóriájának betűjele és száma (a továbbiakban: a lőfegyver azonosító adatai), a lőfegyver műszaki érvényességének időtartama;
-- e) a tűzfegyver fődarab e törvény szerinti megnevezése, gyártási száma;
-- f) a lőszer azonosítását lehetővé tevő adatok.
+- a) a rendőrség által kiadott engedélyekről és az engedéllyel rendelkezőkről – az engedély érvényességi idejének lejártától számított húsz évig – a következő adattartalommal:
+  - aa) az engedély érvényességi ideje és száma,
+  - ab) a lőfegyver, lőszer tulajdonosának, a lőfegyver, lőszer forgalmazásakor a vevő, az eladó (szállító), illetve a megrendelő, az engedéllyel rendelkező jogi személy vezető tisztségviselői, egyéb szervezet esetén a tevékenységért felelős vezető és a szervezet lőfegyverét, lőszerét ténylegesen birtokló személyek természetes személyazonosító adatai, állampolgársága, lakóhelye, a személyazonosság igazolására alkalmas igazolvány száma, szervezet esetében a cégszerű megnevezésben szereplő – annak hiányában az azonosításhoz szükséges – adatok,
+  - ac) az engedéllyel rendelkező személy egészségügyi alkalmasságának időtartama,
+  - ad) a nyilvántartásba vett lőfegyver fajtája (tűzfegyver vagy légfegyver), típusa, gyártója, gyártási száma, kaliberjele, tűzfegyver esetében kategóriájának betűjele és száma (a továbbiakban: a lőfegyver azonosító adatai), a lőfegyver műszaki érvényességének időtartama,
+  - ae) a tűzfegyver fődarab e törvény szerinti megnevezése, gyártási száma,
+  - af) a lőszer azonosítását lehetővé tevő adatok, valamint
+- b) a gyártó által gyártott és raktározott lőfegyverről, tűzfegyver fődarabról, lőszerről – a gyártásra jogosító engedély érvényességi idejének lejártától számított húsz évig – az a) pont ad)–af) alpontjában meghatározott adattartalommal, a lőfegyver műszaki érvényességének kivételével.
 
 (3) A központi nyilvántartásban kezelt adatok statisztikai, illetve tudományos kutatási célra – törvény eltérő rendelkezése hiányában – személyazonosításra alkalmatlan módon átadhatók és felhasználhatók.
 
@@ -212,7 +222,7 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 - b) a nemzetbiztonsági szolgálatok a törvényben meghatározott feladataik ellátásához;
 - c) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, illetve nemzetközi szerződésben, egyéb nemzetközi kötelezettségvállalásban foglaltak szerint.
 
-(2) Az 5. § (2) bekezdés b) és d) pontjában meghatározott adatok – a lőfegyver műszaki érvényességének időtartama kivételével – a vadászjegy vagy a vadászati engedély visszavonására irányuló eljárás lefolytatása céljából a vadászati hatóság részére továbbíthatók.
+(2) Az 5. § (2) bekezdés b) és d) pontjában meghatározott adatok – a lőfegyver műszaki érvényességének időtartama kivételével – a vadászjegy vagy a vadászati engedély visszavonására irányuló eljárás lefolytatása céljából a vadászati hatóság részére továbbíthatók. A vadászlőfegyver tartására jogosító engedély, valamint az annak alapján kiadott európai lőfegyvertartási engedély visszavonásáról a rendőrség a vadászati hatóságot tájékoztatja.
 
 (3) A lőfegyverek központi nyilvántartásából a Nemzetközi Bűnügyi Együttműködési Központ, illetve Magyarország nemzetközi szerződésben adattovábbításra feljogosított más szerve az (1) bekezdés c) pontjában felsoroltak részére adatszolgáltatás teljesítése céljából az adatok átvételére és továbbítására jogosult.
 
@@ -241,7 +251,14 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 
 ### A lőfegyver-kereskedőkre vonatkozó adatkezelési szabályok
 
-12. § (1) A lőfegyver-kereskedő a lőfegyver és lőszer forgalmazásakor köteles a vevő, az eladó (szállító), illetve a megrendelő adatait, illetőleg a lőfegyver, lőszer azonosító adatait nyilvántartásba venni, a vevő, az eladó (szállító), illetve a megrendelő azonosítását a személyazonosságát igazoló hatósági igazolvány alapján elvégezni, engedélyük érvényességéről meggyőződni, és a (2) bekezdésben foglalt adatokat a lőfegyverek központi nyilvántartásába továbbítani.
+12. § (1) A lőfegyver-kereskedő a lőfegyver és lőszer forgalmazásakor köteles
+
+- a) a vevő, az eladó (szállító), illetve a megrendelő adatait, a lőfegyver, lőszer azonosító adatait, továbbá a házilagos lőszerszereléshez szükséges lőszerelem (csappantyú, lőpor) forgalmazott mennyiségét nyilvántartásba venni,
+- b) a vevő, az eladó (szállító), illetve a megrendelő azonosítását a személyazonosságát igazoló hatósági igazolvány alapján elvégezni,
+- c) a vevő lőfegyver tartására jogosító engedélyének érvényességéről, valamint arról meggyőződni, hogy jogosult a forgalmazott lőfegyver, lőszer megszerzésére, továbbá
+- d) a (2) bekezdésben meghatározott adatokat a lőfegyverek központi nyilvántartásába továbbítani.
+
+(1a) Kormányrendelet az elektronikus úton történő adattovábbítást kötelezővé teheti, illetve előírhatja, hogy lőfegyver-kereskedői tevékenységet kizárólag az elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel rendelkezők folytathatnak.
 
 (2) A lőfegyver-kereskedő nyilvántartja:
 
@@ -293,7 +310,7 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 - e) a gyermekjátékszerek biztonsági követelményeiről, vizsgálatáról és tanúsításáról szóló jogszabályban meghatározott, kifejezetten játékokhoz szánt gyújtólapocskák,
 - f) a repülésben, illetve az űrrepülésben való felhasználásra szánt pirotechnikai termék.
 
-(4) Nem kell engedély a Magyar Honvédség, a rendvédelmi szervek, továbbá a Magyarország területén állomásozó fegyveres szervek által nem kereskedelmi jellegű felhasználásra szánt polgári célú pirotechnikai termék gyártásához, forgalomba hozatalához, vizsgálatához, forgalmazásához, tárolásához, kiállításához, felhasználásához, birtokolásához, valamint megsemmisítéséhez.
+(4) Nem kell engedély a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, továbbá a Magyarország területén állomásozó fegyveres szervek által nem kereskedelmi jellegű felhasználásra szánt polgári célú pirotechnikai termék gyártásához, forgalomba hozatalához, vizsgálatához, forgalmazásához, tárolásához, kiállításához, felhasználásához, birtokolásához, valamint megsemmisítéséhez.
 
 (5) A rendőrség a polgári célú pirotechnikai termék vizsgálatához, megsemmisítéséhez, forgalmazásához, tárolásához, illetve kiállításához szükséges engedéllyel rendelkezőkről – ha a tevékenységet az engedéllyel rendelkező a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint végzi – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint nyilvántartást vezet.
 
@@ -327,14 +344,14 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 (2) Nem foglalkoztatható pirotechnikusként, valamint nem gyakorolhat polgári célú pirotechnikai tevékenységet, továbbá nem végezheti polgári célú pirotechnikai tevékenység irányítását az, aki
 
 - a) büntetett előéletű, vagy a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott, a polgári célú pirotechnikai tevékenységgel, illetve a polgári célú pirotechnikai termékkel összefüggő szabálysértés elkövetése miatt két éven belül ismételten elmarasztalták, az elmarasztaló döntésre vonatkozó adatnak a központi szabálysértési nyilvántartásból történt törléséig,
-- b) büntetlen előéletű, de büntetőjogi felelősségét a bíróság jogerősen megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. fejezetében meghatározott állam elleni bűncselekmény, XI. fejezetében meghatározott emberiség elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, a 170. § (2)–(6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, személyi szabadság megsértése, emberrablás, emberkereskedelem, a 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, erőszakos közösülés, szemérem elleni erőszak, a 207. § (3) bekezdés b) pontja szerinti kerítés, embercsempészés, V. címében meghatározott hivatalos személy elleni bűncselekmények, a 259. § (1)–(3) bekezdés szerinti közveszélyokozás, közérdekű üzem működésének megzavarása, terrorcselekmény, a 261/A. § (3) bekezdése szerinti nemzetközi gazdasági tilalom megszegése, légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, bűnszervezetben részvétel, visszaélés radioaktív anyaggal, visszaélés nukleáris létesítmény üzemeltetésével, visszaélés atomenergia alkalmazásával, visszaélés nemzetközi szerződés által tiltott fegyverrel, tiltott állatviadal szervezése, állatkínzás, önbíráskodás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, a 292. § (1) és (3) bekezdése, valamint a 293. § szerinti rossz minőségű termék forgalomba hozatala, a XVIII. Fejezetben meghatározott, szándékosan elkövetett vagyon elleni bűncselekmény, vagy a XX. Fejezetben meghatározott katonai bűntett elkövetése vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
+- b) büntetlen előéletű, de büntetőjogi felelősségét a bíróság jogerősen megállapította a Büntető Törvénykönyvről szóló 1978. évi IV. törvény X. fejezetében meghatározott állam elleni bűncselekmény, XI. fejezetében meghatározott emberiség elleni bűncselekmény, emberölés, erős felindulásban elkövetett emberölés, öngyilkosságban közreműködés, a 170. § (2)–(6) bekezdése szerinti testi sértés, foglalkozás körében elkövetett veszélyeztetés, kényszerítés, személyi szabadság megsértése, emberrablás, emberkereskedelem, a 176. § (2) bekezdés b) pontja, (3) és (4) bekezdése szerinti magánlaksértés, erőszakos közösülés, szemérem elleni erőszak, a 207. § (3) bekezdés b) pontja szerinti kerítés, embercsempészés, XV. fejezet V. címében meghatározott hivatalos személy elleni bűncselekmények, a 259. § (1)–(3) bekezdés szerinti közveszélyokozás, közérdekű üzem működésének megzavarása, terrorcselekmény, a 261/A. § (3) bekezdése szerinti nemzetközi gazdasági tilalom megszegése, légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése, visszaélés robbanóanyaggal vagy robbantószerrel, visszaélés lőfegyverrel vagy lőszerrel, visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel, bűnszervezetben részvétel, visszaélés radioaktív anyaggal, visszaélés nukleáris létesítmény üzemeltetésével, visszaélés atomenergia alkalmazásával, visszaélés nemzetközi szerződés által tiltott fegyverrel, tiltott állatviadal szervezése, állatkínzás, önbíráskodás, visszaélés kábítószerrel, visszaélés kábítószer-prekurzorral, a 292. § (1) és (3) bekezdése, valamint a 293. § szerinti rossz minőségű termék forgalomba hozatala, a XVIII. Fejezetben meghatározott, szándékosan elkövetett vagyon elleni bűncselekmény, vagy a XX. Fejezetben meghatározott katonai bűntett elkövetése vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
   - ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított hét évig,
   - bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított öt évig,
   - bc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított három évig,
   - bd) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított két évig,
 - c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig.
 
-(3) A 18/B. § (1) bekezdésében meghatározott engedélyezési eljárásokban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele és az általa foglalkoztatott pirotechnikussal, valamint az általa foglalkoztatott, a polgári célú pirotechnikai tevékenységet irányító személlyel szemben az (1) bekezdés a) és c), valamint a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn.
+(3) A 18/B. § (1) bekezdésében meghatározott engedélyezési eljárásokban a kérelmező hatósági bizonyítvánnyal igazolja, hogy vele és az általa foglalkoztatott pirotechnikussal, valamint az általa foglalkoztatott, a polgári célú pirotechnikai tevékenységet irányító személlyel szemben az (1) bekezdés a) és c), valamint a (2) bekezdés a)–c) pontjában meghatározott körülmény nem áll fenn, vagy kéri, hogy az e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a rendőrség részére – annak az engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa.
 
 (4) A rendőrség a hatósági ellenőrzéskor az (1) és (2) bekezdésben meghatározott feltételek fennállását vizsgálja. A rendőrség a hatósági ellenőrzés során az (1) és a (2) bekezdésben meghatározott feltételek fennállásának ellenőrzése céljából jogosult a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, a büntetőeljárás hatálya alatt állók nyilvántartásából, a bírósági cégnyilvántartásból, a rendőrség által a felügyeleti bírsággal sújtott vállalkozásokról vezetett nyilvántartásból, valamint a központi szabálysértési nyilvántartásból az (1) és (2) bekezdésben meghatározott feltételekre vonatkozó adatokat közvetlen hozzáféréssel átvenni.
 
@@ -377,13 +394,11 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 
 (2) Ezt a törvényt az elsőfokú határozattal még el nem bírált ügyekben is alkalmazni kell.
 
-21. § (1)
+21. § (1) E törvénynek a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény módosításáról szóló 2012. évi XIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezései – a (2) bekezdésben meghatározott kivétellel – nem érintik a Módtv. hatálybalépését megelőzően kiadott engedélyek érvényességét.
 
-(2)–(3)
+(2) Az e törvénynek a Módtv. hatálybalépését megelőzően hatályban volt 3. § (1) bekezdés c)–d) pontja alapján kiadott megszerzési engedélyt a rendőrség visszavonja, és – amennyiben a visszavont engedély jogosultja ilyennel nem rendelkezik, kérelmére – kiállítja a 3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedélyt.
 
-(4)
-
-(5)
+(3) A (2) bekezdés alapján visszavont engedély adatai a lőfegyverek központi nyilvántartásából a visszavonástól számított húsz évig nem törölhetők.
 
 ### Felhatalmazó rendelkezések
 
@@ -395,7 +410,7 @@ megszerzése és tartása, valamint lézeres célzókészülék és éjszakai ir
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben meghatározza:
 
 - a) a hatósági tárolás, leadás, értékesítés, valamint a megsemmisítési eljárás részletes szabályait,
-- b) a fegyvertartáshoz szükséges elméleti és jártassági követelményeket, a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat.
+- b) a fegyvertartáshoz, valamint a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelményeket és számonkérésük rendjét, továbbá a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat.
 
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben meghatározza:
 
