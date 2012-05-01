@@ -819,6 +819,15 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 - a) gyermektartásdíj,
 - b) jogalap nélkül felvett egészségbiztosítási ellátás.
 
+68/A. § (1) A megváltozott munkaképességű személyek ellátásaiból legfeljebb 33%-ot lehet levonni.
+
+(2) A levonás a megváltozott munkaképességű személyek ellátásainak legfeljebb 50%-áig terjedhet az alábbi követelések fejében:
+
+- a) gyermektartásdíj,
+- b) megváltozott munkaképességű személyeknek járó, jogalap nélkül felvett ellátás.
+
+(3) Több letiltás esetén a levonás a megváltozott munkaképességű személy ellátásaiból ellátásának legfeljebb 50%-áig terjedhet.
+
 ### Levonás a gyermekek ellátásához kapcsolódó juttatásokból
 
 69. § (1) A gyermekgondozási segélyből és a gyermeknevelési támogatásból legfeljebb 33%-ot lehet levonni a jogalap nélkül felvett gyermekgondozási segély, gyermeknevelési támogatás és anyasági támogatás fejében.
@@ -852,7 +861,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 - b) az átmeneti segély, ideértve a meghatározott célra kapott segélyt is, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj,
 - c) anyasági támogatás,
 - d) a rokkantsági járadék és a vakok személyi járadéka,
-- e) a megváltozott munkaképességű, illetve egészségkárosodást szenvedett személyt erre tekintettel megillető juttatás (keresetkiegészítés, átmeneti keresetkiegészítés, jövedelemkiegészítés, átmeneti jövedelemkiegészítés, rendszeres szociális járadék, átmeneti járadék, bányászok egészségkárosodási járadéka, megváltozott munkaképességű személyek ellátásai),
+- e) az egészségkárosodásra tekintettel járó keresetkiegészítés, az átmeneti keresetkiegészítés, a jövedelemkiegészítés, az átmeneti jövedelemkiegészítés, a bányászok egészségkárosodási járadéka,
 - f) a törvényen alapuló tartásdíj, ideértve a bíróság által előlegezett gyermektartásdíjat is, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényen alapuló gyermekvédelmi pénzbeli ellátások,
 - g) a nevelőszülő részére a gondozásába ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett gyermek, utógondozói ellátásban lévő fiatal felnőtt ellátását szolgáló nevelési díj, külön ellátmány és családi pótlék,
 - h) az ösztöndíj, a tudományos továbbképzési ösztöndíjas munkabér jellegű ösztöndíjának kivételével [66. § d) pont],
@@ -3807,6 +3816,11 @@ kérhetnek adatszolgáltatást.
 (10) A Kúria elnöke a Kúria mellett működő Bírósági Végrehajtói Fegyelmi Bíróság teljes létszámának biztosítása érdekében a fegyelmi bírák kinevezéséről 2012. január 31-éig dönt. Az Országos Bírói Tanács a fegyelmi bíróságok teljes létszámának biztosítása érdekében a fegyelmi bírák kinevezéséről első alkalommal 2012. május 31-éig dönt.
 
 306. § Az önálló bírósági végrehajtóra irányadó öregségi nyugdíjkorhatárt 2014. január 1-jét megelőzően betöltő önálló bírósági végrehajtó szolgálata 2013. december 31-én szűnik meg.
+
+306/A. § A 2012. január 1-jét megelőző időszakra járó
+
+- a) rokkantsági nyugdíj és baleseti rokkantsági nyugdíj levonása a 67. §-ban foglalt szabályok szerint történik,
+- b) rendszeres szociális járadék és átmeneti járadék mentes a letiltás alól.
 
 ### Felhatalmazás
 
