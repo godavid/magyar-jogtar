@@ -45,7 +45,7 @@ a pénzügyi szolgáltatásokhoz kapcsolódó egyes törvények módosításár�
 
 (3) E törvény 146. §-ának (1) bekezdésében foglalt rendelkezéseket a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló szerződést kihirdető törvény hatálybalépésének napjától keletkezett fizetési kötelezettségekre is alkalmazni kell.
 
-(4) Az Állami Privatizációs és Vagyonkezelő Rt. a Magyar Export-Import Bank Rt. és a Magyar Exporthitel Biztosító Rt. 75%–1 szavazatot megtestesítő részvénycsomagját köteles térítés ellenében, a társaságok könyvvizsgálói záradékot tartalmazó 2003. évi éves beszámolójában kimutatott saját tőke összegének 75%-ával megegyező értéken a Magyar Fejlesztési Bank Rt. részére értékesíteni.
+(4)
 
 139–143. §
 

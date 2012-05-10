@@ -2,9 +2,24 @@
 
 a Magyar Export-Import Bank Zrt. és a Magyar Exporthitel Biztosító Zrt. feletti tulajdonosi jogok gyakorlásával összefüggő egyes törvények módosításáról
 
-1–2. §
+1. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 1. §-a a következő (2) bekezdéssel egészül ki:
 
-3. § (1)–(2)
+„(2) Az Eximbankban és a Mehib Rt.-ben az állam tulajdonában álló társasági részesedések feletti tulajdonosi (részvényesi) jogok gyakorlására a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszter jogosult.”
+
+2. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 16. § (1) bekezdése a következő q) ponttal egészül ki:
+
+(Az e törvényben meghatározott elvek mentén)
+
+„q) a Magyar Export-Import Bank Zrt. és a Magyar Exporthitel Biztosító Zrt. feletti tulajdonosi joggyakorlás módját a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvény”
+
+(állapítja meg.)
+
+3. § (1) Hatályát veszti a pénzügyi szolgáltatásokhoz kapcsolódó egyes törvények módosításáról szóló 2004. évi XLVIII. törvény 138. § (4) bekezdése.
+
+(2) Hatályát veszti a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFBtv.) 1. számú mellékletében a
+
+- a) „Magyar Export-import Bank Zrt.” és
+- b) „Magyar Exporthitel Biztosító Zrt.” szövegrész.
 
 (3)
 

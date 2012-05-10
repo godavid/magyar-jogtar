@@ -307,7 +307,8 @@ részére átengedhető és kizárólag általuk gyakorolható.
   - nd) a köziratokról, közlevéltárakról és a magánlevéltári anyag védelméről,
   - ne) az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonába adásáról szóló törvény,
 - o) az állami tulajdonban lévő vizek hasznosítására és nyilvántartására vonatkozó szabályokat a vízgazdálkodásról szóló törvény,
-- p) a közutak kezelésével, fejlesztésével, fenntartásával, működtetésével kapcsolatos feladatokat a közúti közlekedésről szóló törvény állapítja meg.
+- p) a közutak kezelésével, fejlesztésével, fenntartásával, működtetésével kapcsolatos feladatokat a közúti közlekedésről szóló törvény
+- q) a Magyar Export-Import Bank Zrt. és a Magyar Exporthitel Biztosító Zrt. feletti tulajdonosi joggyakorlás módját a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvény állapítja meg.
 
 (2) A nemzetiségi önkormányzatok vagyonáról és vagyongazdálkodásának részletes szabályairól a nemzetiségek jogairól szóló törvény rendelkezik.
 
