@@ -10,7 +10,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 1. § (1) A Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: Eximbank) szakosított hitelintézet, a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság (a továbbiakban: Mehib Rt.) biztosító részvénytársaság.
 
-(2)
+(2) Az Eximbankban és a Mehib Rt.-ben az állam tulajdonában álló társasági részesedések feletti tulajdonosi (részvényesi) jogok gyakorlására a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszter jogosult.
 
 (3) Az Eximbankra és az általa végzett tevékenységre a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényt és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényt (a továbbiakban: Bszt.) az e törvényben foglalt eltérésekkel kell alkalmazni. A Mehib Rt. által végzett piacképes kockázatú biztosítási tevékenységére a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényt (a továbbiakban: Bit.) az e törvényben foglalt eltérésekkel kell alkalmazni.
 

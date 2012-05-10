@@ -312,10 +312,6 @@ szerezhet.
 
 Az MFB Zrt. a 3. § (5) bekezdése alapján a Magyar Állam nevében a következő gazdálkodó szervezetekben gyakorol tulajdonosi jogokat:
 
-Magyar Export-import Bank Zrt.
-
-Magyar Exporthitel Biztosító Zrt.
-
 Garantiqa Hitelgarancia Zrt.
 
 Diákhitel Központ Zrt.
