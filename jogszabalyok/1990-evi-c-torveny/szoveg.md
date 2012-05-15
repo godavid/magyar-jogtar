@@ -116,7 +116,7 @@ Az egyes adók az általános rendelkezések (első rész) figyelembevételével
 13. § Mentes az adó alól:
 
 - a) a szükséglakás,
-- b)
+- b) a kizárólag az önálló orvosi tevékenységről szóló törvény szerinti háziorvos által nyújtott egészségügyi ellátás céljára szolgáló helyiség
 - c)
 - d)
 - e)
@@ -528,7 +528,7 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 - 13. korrigált forgalmi érték: az illetékekről szóló törvény alkalmazásával megállapított forgalmi érték 50%-a,
 - 14.
 - 15. ingatlan: a föld és a földdel alkotórészi kapcsolatban álló minden dolog,
-- 16. telek: az épülettel be nem épített földterület, ide nem értve az ingatlan-nyilvántartásban művelési ág szerint aranykorona-értékkel nyilvántartott és ténylegesen mezőgazdasági művelés alatt álló belterületi telket, a külterületi termőföldet, valamint az ingatlan-nyilvántartás szerint tanyaként nyilvántartott ingatlanhoz tartozó földterületet, feltéve, ha az ténylegesen mezőgazdasági művelés alatt áll, továbbá a közút területét, a vasúti pályát, a vasúti pálya tartozékait, valamint a repülőtér szilárd burkolatú mozgási területét (futópálya, gurulóút, műszaki és forgalmi előtér) és az annak akadálymentességét biztosító, jogszabály szerinti minimális biztonsági sávja által lefedett földterületet;
+- 16. telek: az épülettel be nem épített földterület, ide nem értve az ingatlan-nyilvántartásban művelési ág szerint aranykorona-értékkel nyilvántartott és ténylegesen mezőgazdasági művelés alatt álló belterületi telket, a külterületi termőföldet, valamint az ingatlan-nyilvántartás szerint tanyaként nyilvántartott ingatlanhoz tartozó földterületet, feltéve, ha az ténylegesen mezőgazdasági művelés alatt áll, továbbá a közút területét, a vasúti pályát, a vasúti pálya tartozékai által lefedett földterületet, a temetőkről és a temetkezésről szóló törvény temető fogalma alá tartozó földterületet;
 - 17. termőföld: az ingatlan-nyilvántartásban aranykorona értékkel és művelési ággal nyilvántartott, a termőföldről szóló törvény szerinti termőföldnek minősülő földterület;
 - 18. kommunális beruházás: a közmű (a településekre vagy azok jelentős részére kiterjedő elosztó és vezetékrendszerek és az ezekkel kapcsolatos létesítmények, amelyek a fogyasztók vízellátási — ideértve a belvíz-, a csapadék- és szennyvízelvezetési, tisztítási-, villamos energia, hő-, gázenergia és távbeszélési igényeit elégítik ki), valamint az út és járda építés,
 - 19.

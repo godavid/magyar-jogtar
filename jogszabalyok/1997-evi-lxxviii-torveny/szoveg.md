@@ -683,7 +683,7 @@ esetében.
 - c) a tervdokumentáció készítésében (részben vagy folyamatosan) részt vevő, a tervezői feladat szakmai tartalmának megfelelő szakismerettel és jogosultsággal rendelkező szakági tervezők kiválasztásáért,
 - d) a szakági tervezők közötti egyeztetések koordinálásáért, terveik összehangolásáért.
 
-(2)
+(2) Aki tervezői jogosultság nélkül végez építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, azt az építésügyi hatóság 100 000 forintig terjedő közigazgatási bírsággal sújtja.
 
 (3) A névjegyzéket vezető szerv a tervezőt és a szakértőt a szakmagyakorlással kapcsolatos jogszabályok megsértése esetén jogszabályban meghatározott esetekben és módon szankciókkal sújtja.
 
@@ -810,6 +810,8 @@ a használatbavételi engedély megkéréséig biztosítható, illetve a haszná
 (2) Energetikai tanúsítói tevékenységet az folytathat, aki nem áll energetikai tanúsítói tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szakirányú végzettséggel és szakmai gyakorlattal, valamint megfelel az abban meghatározott egyéb feltételeknek.
 
 (3) Aki energetikai tanúsítói tevékenységet kíván folytatni, köteles az erre irányuló szándékát a névjegyzéket vezető szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+
+(4) Az energetikai tanúsítói tevékenységet végző személyt, ha adatszolgáltatásra vonatkozó jogszabályi kötelezettségét megszegi, a névjegyzéket vezető szerv 20 000 forintig terjedő közigazgatási bírsággal sújtja.
 
 38/D. § Jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet akkor végezhet a 38/B., illetve a 38/C. § szerinti tevékenységet, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy jogosult az adott tevékenység folytatására, és ez a tag, személy részt vesz a tevékenység ellátásában.
 
@@ -1266,7 +1268,12 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 
 (3) E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 53/E–53/G. §-át az olyan építési engedélyezési eljárásban is alkalmazni kell, amelyeknél a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény hatálybalépésekor az építési engedélyt az eljáró hatóság még nem adta ki, vagy –bejelentéshez kötött építési tevékenység esetén – a bejelentést még nem vette nyilvántartásba. Az ilyen eljárásban a 35. § (3) bekezdése nem alkalmazható. A kereskedelmi építményre kiadott, a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény hatálybalépése időpontjában hatályos elvi építési engedély hatálya 2015. december 31-ig meghosszabbodik.
 
-(4)
+(4) Aki a felvonó vagy mozgólépcső (mozgójárda) létesítésére, üzembe helyezésére, rendeltetésszerű használatára, alkalmasságának ellenőriztetésére, biztonságtechnikai felülvizsgálatára vonatkozó kötelességét megszegi, azt a Magyar Kereskedelmi Engedélyezési Hivatal, mint műszaki biztonsági hatóság
+
+- a) természetes személy esetén 300 000 forintig,
+- b) jogi személy vagy jogi személyiség nélküli szervezet esetén 500 000 forintig
+
+terjedő közigazgatási bírsággal sújtja.
 
 (5)
 

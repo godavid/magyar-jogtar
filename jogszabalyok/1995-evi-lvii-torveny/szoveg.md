@@ -388,7 +388,7 @@ alapján kell kiszámítania.
 
 - a) a rendkívüli védekezési készültség beálltáig a vízügyi igazgatási szervek irányításáért felelős miniszter;
 - b) a rendkívüli védekezési készültség tartama alatt, ha veszélyhelyzet kihirdetésére nem kerül sor, a vízügyi igazgatási szervek irányításáért felelős miniszter;
-- c) veszélyhelyzet kihirdetése esetén a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti kormányzati koordinációs szerv hatáskörébe tartozik.
+- c)
 
 (2)
 
@@ -530,7 +530,7 @@ alapján kell kiszámítania.
 
 (2) Új vízjogi engedély csak abban az esetben adható ki, ha az engedélyesek számára az engedélyben meghatározott vízmennyiség biztosítható.
 
-(3) Ha a vízimunka elvégzése, illetve a vízilétesítmény megépítése vagy átalakítása engedély nélkül vagy az engedélytől eltérően történt, az üzemeltetési engedély kiadása megtagadható. Amennyiben a hatóság a létesítmény megvizsgálása után — az eset összes körülményeire is figyelemmel — a fennmaradási engedélyt utólag megadja, a létesítő bírság fizetésére köteles. A bírság az engedély nélkül létrehozott építmény értékének 20%-áig, engedély nélküli vízimunka vagy vízhasználat esetén a mindenkori vízjogi szabálysértési felső értékhatár ötszöröséig terjedhet.
+(3) Ha a vízimunka elvégzése, illetve a vízi létesítmény megépítése vagy átalakítása jogerős hatósági engedély nélkül, vagy a jogerős hatósági engedélytől eltérően történt, a létesítő részére az üzemeltetési engedély kiadása megtagadható. Amennyiben a hatóság a vízimunka, vízi létesítmény megvizsgálása után – az eset összes körülményeire is figyelemmel – a létesítő részére a fennmaradási engedélyt utólag megadja, a létesítő vízgazdálkodási bírság fizetésére köteles. A bírság az engedély nélkül létrehozott építmény értékének 80%-áig, engedély nélküli vízimunka vagy vízhasználat esetén 1 000 000 forintig terjedhet. Természetes személy esetében a bírság összege nem haladhatja meg a 300 000 forintot.
 
 30. § (1) A vízjogi engedélyt (ideértve az elvi engedélyt is) — a külön jogszabályban meghatározott feltételek, továbbá események bekövetkezése esetén — hivatalból vagy kérelemre a hatóság módosíthatja, szüneteltetheti és vissza is vonhatja.
 
@@ -552,6 +552,10 @@ indokolja.
 31/A. § A vízügyi igazgatási szerveknek – a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.
 
 32. § Ha a vizek mennyiségi védelme, a vizek kártételeinek elhárítása, a károk megelőzése vagy a jogszerűen gyakorolt vízhasználat azt egyébként szükségessé teszi, a hatóság a vízhasználót, vagy azt, aki a vízviszonyokba jogellenesen beavatkozott a káros, illetve a károsodás veszélyével fenyegető állapot megszüntetésére, a szükséges vízimunka elvégzésére vagy meghatározott módon történő gyakorlására kötelezheti.
+
+32/A. (1) Aki a 29. § (3) bekezdésében foglaltakon túl jogszabályban, hatósági határozatban vagy közvetlenül alkalmazandó közösségi jogi aktusban szereplő vízgazdálkodási előírást megszeg, a jogsértő magatartás súlyához igazodó, legfeljebb 1 000 000 forint összegű vízgazdálkodási bírságot köteles fizetni. Természetes személy esetében a bírság összege nem haladhatja meg a 300 000 forintot.
+
+(2) A behajtott vízgazdálkodási bírság a központi költségvetés bevétele.
 
 33. § (1)–(2)
 

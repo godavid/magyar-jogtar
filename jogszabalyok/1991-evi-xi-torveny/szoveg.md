@@ -186,13 +186,17 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - h) a fertőző betegségek és járványok megelőzése, illetve a járványveszély elhárítása érdekében szükséges járványügyi előírásokra,
 - i) a munkavállalók fizikai tényezők – mesterséges optikai sugárzás és elektromágneses terek – hatásának való expozíciójára vonatkozó egészségügyi és biztonsági követelményekre vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészségügyi bírságot szab ki.
 
-(2) Egészségügyi bírság kiszabásának van helye abban az esetben is, ha az egészségügyi államigazgatási szerv egészségügyi igazgatási hatáskörében eljárva megállapítja, hogy
+(1a) Egészségügyi bírság kiszabásának van helye továbbá, ha az egészségügyi államigazgatási szerv megállapítja, hogy az előírt, felé teljesítendő bejelentési, adatszolgáltatási kötelezettségre, továbbá az előírt nyilvántartási kötelezettségre vonatkozó jogszabályi rendelkezéseket megsértették.
+
+(2) Egészségügyi bírság kiszabásának van helye abban az esetben is, ha az egészségügyi államigazgatási szerv egészségügyi és gyógyszerészeti igazgatási hatáskörében eljárva megállapítja, hogy
 
 - a) az egészségügyi szolgáltató
-  - aa) az egészségügyi szolgáltatás nyújtására vonatkozó szakmai követelményeket meghatározó jogszabályi rendelkezéseket súlyosan megszegte, vagy a működési engedélyezés körébe tartozó szabályszegést követett el,
-  - ab) szakmailag indokolatlanul a betegbeutalási rendtől eltért, különösen ha beteget jogosulatlanul utalt be, vagy utalt tovább, vett fel, vagy jogosulatlanul tagadta meg az ellátást, és ezzel a beteg állapotának megfelelő ellátását megakadályozta vagy veszélyeztette, vagy
-  - ac) a jogszabályban előírt intézkedési, jelentéstételi kötelezettségét felhívás ellenére elmulasztotta, vagy a szakmai programjától eltérő szolgáltatást nyújtott,
-- b) a társadalombiztosítási támogatással vagy árhoz nyújtott társadalombiztosítási támogatással, ezek elszámolásával, folyósításával, ellenőrzésével kapcsolatos, jogszabályban előírt kötelezettségeket megsértették.
+  - aa) az egészségügyi szolgáltatás nyújtására vonatkozó szakmai követelményeket vagy jogszabályi rendelkezéseket súlyosan megszegte, vagy tevékenységét a működési engedélyében foglaltaktól eltérően végzi,
+  - ab) szakmailag indokolatlanul a betegbeutalási rendtől eltért, különösen, ha beteget jogosulatlanul utalt be vagy utalt tovább, vett fel, vagy jogosulatlanul tagadta meg az ellátást és ezzel a beteg állapotának megfelelő ellátását megakadályozta vagy veszélyeztette, vagy
+  - ac) a jogszabályban előírt intézkedési, jelentéstételi kötelezettségét felhívás ellenére elmulasztotta,
+- b) a társadalombiztosítási támogatással vagy árhoz nyújtott társadalombiztosítási támogatással, ezek elszámolásával, folyósításával, ellenőrzésével kapcsolatos, jogszabályban előírt kötelezettségeket megsértették,
+- c) a külön jogszabályban előírt működési engedély hiányában egészségügyi szolgáltatást nyújtanak, illetve az egészségügyi képesítéssel rendelkező személy képesítésének megfelelő tevékenységet jogosulatlanul végeznek,
+- d) az egészségügyi dolgozó a külön jogszabály szerint előírt alkalmassági vizsgálaton nem vesz részt, illetve egészségügyi tevékenységre alkalmatlannak nyilvánítása ellenére, illetve korlátozását meghaladva egészségügyi tevékenységet végez.
 
 (3) Egészségügyi bírság abban az esetben szabható ki, ha külön jogszabály az egészségügyi államigazgatási szerv eljárásával összefüggésben szabálysértési vagy közigazgatási – kivéve eljárási – bírságot nem helyez kilátásba.
 

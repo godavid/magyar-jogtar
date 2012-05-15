@@ -434,17 +434,56 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 44. § A tenyésztési hatóság eljárása során minden olyan helyen ellenőrzést végezhet, ahol a törvény hatálya alá tartozó állatfajt tenyésztenek, tartanak, forgalmaznak, állati szaporítóanyagot előállítanak, tárolnak, forgalmaznak és felhasználnak.
 
-### Állattenyésztési bírság és egyéb szankciók
+### Jogkövetkezmények
 
-45. § (1) A 4. és 5. §-ban foglaltak megszegése esetén a tenyésztési hatóság elrendeli az állatnak az állattartó költségén történő ivartalanítását, illetve a szaporítóanyag megsemmisítését és az átlagos tenyészállat forgalmi értékének legfeljebb kettőszáz, szaporítóanyag forgalmi értékének legfeljebb ötszáz százalékáig terjedő állattenyésztési bírságot szabhat ki.
+45. § (1) A tenyésztési hatóság az e törvényben, valamint e törvény végrehajtására kiadott jogszabályban foglalt előírások megsértése esetén az alábbi szankciókat alkalmazhatja:
 
-(2) A tenyésztési hatóság elrendeli a 26. § (2) bekezdésében előírt feltételek hiányában felhasznált, tenyésztett, forgalmazott állat esetében, valamint a 41. §-ban leírt behozatali feltételek be nem tartása esetén az állat haszonállatként történő hasznosítását, továbbá az állat forgalmi értékének megfelelő összegű állattenyésztési bírság befizetését. A 6. § előírásainak be nem tartása esetén a tenyésztési hatóság a szervezőt legfeljebb a kiállításon, az árverésen részt vevő állatok létszámának és az egyes állatok forgalmi értékének szorzatával megegyező mértékű bírsággal sújtja.
+- a) jogsértő állapot megszüntetésének elrendelése;
+- b) jogsértő magatartás jövőbeni tanúsításától történő eltiltás;
+- c) a jogsértést megállapító jogerős határozat nyilvános közzétételének elrendelése legfeljebb 6 hónap időtartamra;
+- d) e törvény alapján kiadott engedély vagy tenyésztőszervezeti elismerés visszavonása;
+- e) szaporítóanyag szakszerű megsemmisítésének előírása, az állatnak az állattartó költségére történő ivartalanításának elrendelése, a szaporítóanyag termékenyítésre történő használatának, hímivarú állat fedeztetésre történő használatának megtiltása;
+- f) az állatnak a tenyésztésben történő használatának megtiltása;
+- g) a törzskönyvi bejegyzések visszamenőleges hatállyal történő töröltetése;
+- h) állattenyésztési bírság kiszabása.
 
-(3) Az (1), (2) bekezdésben írt forgalmi értéket a tenyésztési hatóság jogosult megállapítani.
+(2) Az (1) bekezdésben foglalt szankciók együttesen is alkalmazhatóak.
 
-(4) Az állattenyésztési bírságot a miniszter által e törvény felhatalmazása alapján kiadott jogszabályban meghatározott számlára kell befizetni.
+45/A. § (1) Állattenyésztési bírságot kell kiszabni az e törvény személyi hatálya alá tartozó azon természetes személyre, jogi személyre vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetre, aki vagy amely
 
-(5)
+- a) az állatnak a tenyésztési program szerinti megjelölésére vonatkozó szabályokat megszegi;
+- b) tenyésztőszervezeti elismerés nélkül törzskönyvezést végez, tenyészállatot minősít, nyilvános tenyészállat-bírálatot végez, egyéb tenyésztési szolgáltatást nyújt, vagy származási igazolást állít ki;
+- c) más tenyésztőszervezet jogosultságába tartozó fajta vonatkozásában törzskönyvezést végez, tenyészállatot minősít, nyilvános tenyészállat-bírálatot végez, egyéb tenyésztési szolgáltatást nyújt, vagy származási igazolást állít ki;
+- d) az e törvény hatálya alá tartozó tevékenységgel kapcsolatos bejelentési kötelezettségének nem tesz eleget;
+- e) engedély nélkül végzi az e törvényben meghatározott engedélyköteles tevékenységeket;
+- f) a tenyészállat és a szaporítóanyag forgalmazása, értékesítése, kiszállítása során annak eredetére, származására, kezelésére, értékesítésére, felhasználására vonatkozó adatokat meghamisítja, a nyilvántartásokat nem vagy nem megfelelően vezeti;
+- g) tenyészállatot, állati eredetű szaporítóanyagot az ország területére szakmai hozzájárulás nélkül behoz vagy kivisz;
+- h) az apaállat-használatra, a szaporítóanyag-előállításra, valamint a mesterséges termékenyítésre vonatkozó szabályokat megszegi;
+- i) adatszolgáltatási kötelezettségét nem teljesíti, a valóságnak nem megfelelő adatot szolgáltat, illetve az ellenőrzést egyéb módon akadályozza;
+- j) tenyészállatot, szaporítóanyagot jogosulatlanul forgalmaz;
+- k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
+
+(2) Az állattenyésztési bírság összege 100 000 Ft-tól 20 000 000 Ft-ig, természetes személy esetében 300 000 Ft-ig terjedhet. A késedelmes teljesítést késedelmi kamat terheli.
+
+(3) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg az adott jogsértés esetén kiszabható bírság legmagasabb mértékét.
+
+(4) Amennyiben az állattenyésztési bírsággal sújtandó jogsértést védett őshonos vagy veszélyeztetett mezőgazdasági állatfajtával kapcsolatban követik el, az állattenyésztési bírság összege 500 000 Ft-nál, természetes személy esetében 300 000 Ft-nál alacsonyabb nem lehet.
+
+(5) Az állattenyésztési bírságot a cselekmény folytatása vagy újbóli elkövetése esetén ismételten ki lehet szabni.
+
+(6) A meghatározott jogkövetkezményeket az eset összes körülményeire – így különösen a jogsértés következményeire, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre és a jogsértő teljesítőképességére – tekintettel kell meghatározni.
+
+(7) A szankciók alkalmazásakor, illetve bírság kiszabásakor a hatóság által előírt intézkedés végrehajtásának költsége a jogsértőt terheli.
+
+(8) A szankciót, bírságot megállapító határozat ellen fellebbezésnek helye nincs, de bíróságon megtámadható.
+
+(9) A bírságot 15 napon belül kell befizetni és a bírósági jogorvoslattól függetlenül azonnali végrehajtása vagy biztosítási intézkedés rendelhető el.
+
+(10) Ha a jogi személyre vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezet kötelezettségeiért a törvény alapján felel.
+
+(11) A meg nem fizetett állattenyésztési bírság adók módjára behajtandó köztartozásnak minősül.
+
+(12) Az állattenyésztési bírság a tenyésztési hatóság saját bevétele. A befolyt bírság kizárólag szakterületi ellenőrzésekre, az országos állattenyésztési adatbázis fejlesztésére és működtetésére, ellenőrzésekkel kapcsolatos fejlesztésekre, illetve továbbképzésre használható fel.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
