@@ -1421,9 +1421,9 @@ AZ ERDŐ ŐRZÉSE
 - d) az e törvényben és a végrehajtására kiadott jogszabályban meghatározott fa kitermelésére vonatkozó előírásokat megsérti;
 - e) a 61. § (2) bekezdésében foglalt előírásokat megsérti;
 - f) a 63. § (2) és (3) bekezdésében foglalt előírásokat megsérti;
-- g) a 68. § b), d)–j) pontjaiban meghatározott erdei haszonvételeket jogosulatlanul vagy a megengedett mértéket meghaladóan gyakorolja vagy az erdei haszonvételek gyakorlásának feltételeit megsérti;
+- g) a 68. § d) pontjában meghatározott erdei haszonvételeket jogosulatlanul gyakorolja, vagy annak során az erdei haszonvételek gyakorlásának feltételeit megsérti;
 - h) a 65. § (1), (2), (5) bekezdésében, a 66. § (1) bekezdésében, a 67. § (1), (2), (3) bekezdésében foglalt előírásokat megsérti;
-- i) a 91. § (1) bekezdés b) pontjában, a 91. § (4) bekezdés b) pontjában, a 91. § (5) bekezdésében, valamint a 92. § (1) bekezdésében foglalt előírásokat megsérti;
+- i) a 91. § (4) bekezdés b) pontjában foglalt előírásokat megsérti:
 - j) a 91. § (4) bekezdés a) pontjában foglalt előírásokat megsérti;
 - k) a 93. § (1) bekezdésben foglalt előírásokat megsérti;
 - l) a 93. § (2) bekezdésben foglalt előírásokat megsérti;

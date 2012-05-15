@@ -410,6 +410,12 @@ csak engedélyezett telephelyen végezheti.
 
 40/F. § A hősi temető, hősi temetési hely fenntartására, ápolására és megőrzésére e törvény rendelkezéseit nemzetközi szerződés eltérő rendelkezésének hiányában kell alkalmazni.
 
+### Közigazgatási bírság
+
+40/G. § (1) Aki a nemzeti gyászról szóló jogszabályban meghatározott kötelezettségét megszegi, százötvenezer forintig terjedő közigazgatási bírsággal sújtható.
+
+(2) Az eljárás lefolytatására az elkövetés helye szerinti fővárosi vagy megyei kormányhivatal jogosult.
+
 ### Felhatalmazások
 
 41. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg

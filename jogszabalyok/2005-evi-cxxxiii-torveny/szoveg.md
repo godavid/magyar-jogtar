@@ -371,7 +371,7 @@ meg kell semmisíteni.
 
 meg kell semmisíteni.
 
-(4) A belépési adatbázis adatai csak a megbízó részére, illetőleg bűncselekmény vagy szabálysértés gyanújának észlelése esetén, illetőleg megkeresés alapján a nyomozó hatóságnak, illetőleg a szabálysértési hatóságnak adhatók át.
+(4) A belépési adatbázis adatai csak a megbízó részére, illetve bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés alapján a nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
 
 (5) A távfelügyeleti rendszer és az adat- és informatikai védelemre irányuló elektronikai vagyonvédelmi rendszer működése körében rögzített adatok felhasználása és kezelése során a 30. § (1) bekezdésében, valamint a 31. § (2) bekezdésében foglaltak szerint kell eljárni.
 
@@ -695,7 +695,7 @@ meg kell semmisíteni.
 
 ### V. Fejezet — FELÜGYELETI BÍRSÁG
 
-63. § (1) A rendőrség az e törvény hatálya alá tartozó tevékenységet jogosulatlanul végző, továbbá a tevékenységére vonatkozó, e törvényben meghatározott előírásokat ismételten vagy súlyosan megsértő vállalkozást felügyeleti bírsággal sújthatja.
+63. § (1) A rendőrség felügyeleti bírsággal sújthatja azt, aki a személy- és vagyonvédelmi, illetve magánnyomozói tevékenységet (ideértve a magánnyomozó tevékenység szervezését és irányítását is) személyes végzésre jogosító igazolvány nélkül végzi, továbbá aki az e törvényben meghatározott tevékenység végzésére jogosító szabályokat megszegi, valamint azt a vállalkozást, amely az e törvény hatálya alá tartozó tevékenységet jogosulatlanul végzi, továbbá a tevékenységre vonatkozó, e törvényben meghatározott előírásokat ismételten vagy súlyosan megsérti.
 
 (2) Az (1) bekezdés alkalmazásában a vállalkozás jogosulatlanul végzi tevékenységét, ha azt
 
@@ -708,7 +708,7 @@ meg kell semmisíteni.
 
 (4) Ha az egyéni vállalkozóval szemben mind a felügyeleti bírság, mind a jogosulatlan személy- és vagyonvédelmi tevékenység szabálysértése miatti bírság kiszabásának feltételei fennállnak, kizárólag a felügyeleti bírság megállapítására irányuló eljárásnak van helye.
 
-64. § (1) A vállalkozással szemben kiszabható felügyeleti bírság legkisebb összege a kötelező legkisebb munkabér (minimálbér) négyszerese, legnagyobb összege a kötelező legkisebb munkabér negyvenszerese.
+64. § (1) Az e törvényben meghatározott tevékenységet személyesen végzőkkel szemben kiszabható felügyeleti bírság legkisebb összege a kötelező legkisebb munkabér (minimálbér) fele, legnagyobb összege a kötelező legkisebb munkabér kétszerese. A vállalkozással szemben kiszabható felügyeleti bírság legkisebb összege a kötelező legkisebb munkabér négyszerese, legnagyobb összege a kötelező legkisebb munkabér negyvenszerese.
 
 (2) Nincs helye felügyeleti bírság kiszabásának, ha a cselekmény elkövetése óta két év eltelt.
 
