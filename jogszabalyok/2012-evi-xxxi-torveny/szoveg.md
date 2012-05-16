@@ -12,151 +12,19 @@ a szabálysértésekről, a szabálysértési eljárásról és a szabálysért�
 
 #### 3. Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény módosítása
 
-3. § (1) Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi.) 13/A. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Egészségügyi bírság kiszabásának van helye továbbá, ha az egészségügyi államigazgatási szerv megállapítja, hogy az előírt, felé teljesítendő bejelentési, adatszolgáltatási kötelezettségre, továbbá az előírt nyilvántartási kötelezettségre vonatkozó jogszabályi rendelkezéseket megsértették.”
-
-(2) Az Ehi. 13/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Egészségügyi bírság kiszabásának van helye abban az esetben is, ha az egészségügyi államigazgatási szerv egészségügyi és gyógyszerészeti igazgatási hatáskörében eljárva megállapítja, hogy
-
-a) az egészségügyi szolgáltató
-
-aa) az egészségügyi szolgáltatás nyújtására vonatkozó szakmai követelményeket vagy jogszabályi rendelkezéseket súlyosan megszegte, vagy tevékenységét a működési engedélyében foglaltaktól eltérően végzi,
-
-ab) szakmailag indokolatlanul a betegbeutalási rendtől eltért, különösen, ha beteget jogosulatlanul utalt be vagy utalt tovább, vett fel, vagy jogosulatlanul tagadta meg az ellátást és ezzel a beteg állapotának megfelelő ellátását megakadályozta vagy veszélyeztette, vagy
-
-ac) a jogszabályban előírt intézkedési, jelentéstételi kötelezettségét felhívás ellenére elmulasztotta,
-
-b) a társadalombiztosítási támogatással vagy árhoz nyújtott társadalombiztosítási támogatással, ezek elszámolásával, folyósításával, ellenőrzésével kapcsolatos, jogszabályban előírt kötelezettségeket megsértették,
-
-c) a külön jogszabályban előírt működési engedély hiányában egészségügyi szolgáltatást nyújtanak, illetve az egészségügyi képesítéssel rendelkező személy képesítésének megfelelő tevékenységet jogosulatlanul végeznek,
-
-d) az egészségügyi dolgozó a külön jogszabály szerint előírt alkalmassági vizsgálaton nem vesz részt, illetve egészségügyi tevékenységre alkalmatlannak nyilvánítása ellenére, illetve korlátozását meghaladva egészségügyi tevékenységet végez.”
+3. §
 
 #### 4. A statisztikáról szóló 1993. évi XLVI. törvény módosítása
 
-4. § A statisztikáról szóló 1993. évi XLVI. törvény a következő 9/A. §-sal egészül ki:
-
-„9/A. § (1) A megyei, fővárosi kormányhivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. §-a alapján közigazgatási bírsággal sújtja azt a természetes személyt, jogi személyt vagy jogi személyiséggel nem rendelkező szervezetet, aki vagy amely
-
-a) jogosulatlanul vagy jogszabályban előírt eljárási szabályok megszegésével adatszolgáltatási kötelezettséggel járó statisztikai adatszolgáltatást rendel el, illetve hajt végre,
-
-b) gondatlanul a valóságnak nem megfelelő adatot szolgáltat,
-
-c) a szabályszerűen elrendelt kötelező statisztikai adatszolgáltatást nem az előírt határidőre teljesíti,
-
-d) a statisztikai adatok közlésére, közzétételére vagy a statisztikai célú adatátvételre, adatátadásra vonatkozó jogszabályokat megszegi,
-
-e) a személyes adatok statisztikai célú feldolgozásánál előírt nyilvántartás vezetését elmulasztja,
-
-f) a statisztikai adatszolgáltatás ellenőrzését akadályozza, az ellenőrzés során kért felvilágosítás megadását megtagadja, illetve megőrzési kötelezettségének nem tesz eleget.
-
-(2) A közigazgatási bírság összege természetes személy esetében 200 000 forintig, jogi személy és jogi személyiséggel nem rendelkező szervezet esetében 200 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása az (1) bekezdés a)–c) pontjában foglaltak megvalósulása esetén a jogszabálysértéssel érintett adatszolgáltatásonként történik.”
+4. §
 
 #### 5. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-5. § A bányászatról szóló 1993. évi XLVIII. törvény a következő 41/A. §-sal egészül ki:
-
-„41/A. § (1) A bányafelügyelet bírsággal sújtja azt a természetes vagy jogi személyt, vagy jogi személyiség nélküli gazdasági társaságot, aki vagy amely
-
-a) a bányafelügyelet tűzvédelmi hatósági jogkörébe tartozó létesítményekre vonatkozó tűzvédelmi jogszabályokban vagy tűzvédelmi szabályzatokban foglalt előírásokat megszegi,
-
-b) a bányafelügyelet hatósági felügyeleti jogkörébe tartozó nyomástartó berendezést vagy tároló tartályt előzetes vizsgálat nélkül vagy annak kedvezőtlen eredménye ellenére, vagy az engedély hatályának lejárta után üzemben tart,
-
-c) a bányafelügyelet hatósági felügyeleti jogkörébe tartozó nyomástartó berendezés vagy tároló tartály üzemeltetésére vonatkozó biztonsági szabályokat megszegi,
-
-d) a földgáz, a kőolaj, a kőolajtermék, valamint az egyéb gáz és gáztermék vezetéken történő szállítására, elosztására, tárolására vagy az ehhez szükséges létesítmények biztonsági övezetére vonatkozó, jogszabályban vagy hatósági határozatban előírtakat megszegi,
-
-e) a bányatelekkel kapcsolatos rendelkezéseket vagy a bányabiztonsági szabályzatok előírásait megszegi, vagy
-
-f) a földtani kutatási munka megkezdését vagy befejezését a bányakapitányságnak nem jelenti be.
-
-(2) A bányafelügyelet bírsággal sújtja azt a természetes személyt, aki a bányafelügyelet hatósági felügyeleti jogkörébe tartozó tevékenységgel összefüggésben
-
-a) a munka egészséges és biztonságos végzésére vagy annak ellenőrzésére vonatkozó szabályokat megszegi, vagy feladatkörében e szabályok végrehajtásának mellőzését eltűri,
-
-b) a foglalkozási megbetegedéssel kapcsolatos bejelentési, kivizsgálási, nyilvántartási kötelezettségét nem teljesíti, vagy a kivizsgálást – ideértve az ehhez szükséges adatszolgáltatás megtagadását – akadályozza,
-
-c) munkáltatóként a munkabalesettel kapcsolatban nyilvántartási, kivizsgálási, jegyzőkönyv-készítési és bejelentési kötelezettségét kellő időben nem teljesíti, vagy valótlan adatot közöl, illetve a baleset valódi okát eltitkolja, vagy feltárását megakadályozza, vagy
-
-d) munkáltatóként a munkavédelmi képviselőt a munkavédelemre vonatkozó szabályban biztosított jogainak gyakorlásában szándékosan akadályozza, vagy a munkavédelmi képviselővel szemben jogainak gyakorlása miatt hátrányos intézkedést tesz.
-
-(3) A bányafelügyelet bírsággal sújtja azt a munkáltatót, aki az e törvényben meghatározott súlyos üzemzavarral, valamint bányászati munkabalesettel kapcsolatos azonnali bejelentési kötelezettségének nem tesz eleget, valótlan adatot közöl, az üzemzavar valódi okát eltitkolja, vagy feltárását megakadályozza.”
+5. §
 
 #### 6. Az állattenyésztésről szóló 1993. évi CXIV. törvény módosítása
 
-6. § (1) Az állattenyésztésről szóló 1993. évi CXIV. törvény (a továbbiakban: Átv.) 45. §-a és azt megelőző alcíme helyébe a következő rendelkezés lép:
-
-„Jogkövetkezmények
-
-45. § (1) A tenyésztési hatóság az e törvényben, valamint e törvény végrehajtására kiadott jogszabályban foglalt előírások megsértése esetén az alábbi szankciókat alkalmazhatja:
-
-a) jogsértő állapot megszüntetésének elrendelése;
-
-b) jogsértő magatartás jövőbeni tanúsításától történő eltiltás;
-
-c) a jogsértést megállapító jogerős határozat nyilvános közzétételének elrendelése legfeljebb 6 hónap időtartamra;
-
-d) e törvény alapján kiadott engedély vagy tenyésztőszervezeti elismerés visszavonása;
-
-e) szaporítóanyag szakszerű megsemmisítésének előírása, az állatnak az állattartó költségére történő ivartalanításának elrendelése, a szaporítóanyag termékenyítésre történő használatának, hímivarú állat fedeztetésre történő használatának megtiltása;
-
-f) az állatnak a tenyésztésben történő használatának megtiltása;
-
-g) a törzskönyvi bejegyzések visszamenőleges hatállyal történő töröltetése;
-
-h) állattenyésztési bírság kiszabása.
-
-(2) Az (1) bekezdésben foglalt szankciók együttesen is alkalmazhatóak.”
-
-(2) Az Átv. a következő 45/A. §-sal egészül ki:
-
-„45/A. § (1) Állattenyésztési bírságot kell kiszabni az e törvény személyi hatálya alá tartozó azon természetes személyre, jogi személyre vagy jogi személyiséggel nem rendelkező gazdálkodó szervezetre, aki vagy amely
-
-a) az állatnak a tenyésztési program szerinti megjelölésére vonatkozó szabályokat megszegi;
-
-b) tenyésztőszervezeti elismerés nélkül törzskönyvezést végez, tenyészállatot minősít, nyilvános tenyészállat-bírálatot végez, egyéb tenyésztési szolgáltatást nyújt, vagy származási igazolást állít ki;
-
-c) más tenyésztőszervezet jogosultságába tartozó fajta vonatkozásában törzskönyvezést végez, tenyészállatot minősít, nyilvános tenyészállat-bírálatot végez, egyéb tenyésztési szolgáltatást nyújt, vagy származási igazolást állít ki;
-
-d) az e törvény hatálya alá tartozó tevékenységgel kapcsolatos bejelentési kötelezettségének nem tesz eleget;
-
-e) engedély nélkül végzi az e törvényben meghatározott engedélyköteles tevékenységeket;
-
-f) a tenyészállat és a szaporítóanyag forgalmazása, értékesítése, kiszállítása során annak eredetére, származására, kezelésére, értékesítésére, felhasználására vonatkozó adatokat meghamisítja, a nyilvántartásokat nem vagy nem megfelelően vezeti;
-
-g) tenyészállatot, állati eredetű szaporítóanyagot az ország területére szakmai hozzájárulás nélkül behoz vagy kivisz;
-
-h) az apaállat-használatra, a szaporítóanyag-előállításra, valamint a mesterséges termékenyítésre vonatkozó szabályokat megszegi;
-
-i) adatszolgáltatási kötelezettségét nem teljesíti, a valóságnak nem megfelelő adatot szolgáltat, illetve az ellenőrzést egyéb módon akadályozza;
-
-j) tenyészállatot, szaporítóanyagot jogosulatlanul forgalmaz;
-
-k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
-
-(2) Az állattenyésztési bírság összege 100 000 Ft-tól 20 000 000 Ft-ig, természetes személy esetében 300 000 Ft-ig terjedhet. A késedelmes teljesítést késedelmi kamat terheli.
-
-(3) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg az adott jogsértés esetén kiszabható bírság legmagasabb mértékét.
-
-(4) Amennyiben az állattenyésztési bírsággal sújtandó jogsértést védett őshonos vagy veszélyeztetett mezőgazdasági állatfajtával kapcsolatban követik el, az állattenyésztési bírság összege 500 000 Ft-nál, természetes személy esetében 300 000 Ft-nál alacsonyabb nem lehet.
-
-(5) Az állattenyésztési bírságot a cselekmény folytatása vagy újbóli elkövetése esetén ismételten ki lehet szabni.
-
-(6) A meghatározott jogkövetkezményeket az eset összes körülményeire – így különösen a jogsértés következményeire, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre és a jogsértő teljesítőképességére – tekintettel kell meghatározni.
-
-(7) A szankciók alkalmazásakor, illetve bírság kiszabásakor a hatóság által előírt intézkedés végrehajtásának költsége a jogsértőt terheli.
-
-(8) A szankciót, bírságot megállapító határozat ellen fellebbezésnek helye nincs, de bíróságon megtámadható.
-
-(9) A bírságot 15 napon belül kell befizetni és a bírósági jogorvoslattól függetlenül azonnali végrehajtása vagy biztosítási intézkedés rendelhető el.
-
-(10) Ha a jogi személyre vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező gazdálkodó szervezet kötelezettségeiért a törvény alapján felel.
-
-(11) A meg nem fizetett állattenyésztési bírság adók módjára behajtandó köztartozásnak minősül.
-
-(12) Az állattenyésztési bírság a tenyésztési hatóság saját bevétele. A befolyt bírság kizárólag szakterületi ellenőrzésekre, az országos állattenyésztési adatbázis fejlesztésére és működtetésére, ellenőrzésekkel kapcsolatos fejlesztésekre, illetve továbbképzésre használható fel.”
+6. §
 
 #### 7. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
@@ -164,15 +32,7 @@ k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
 
 #### 8. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-8. § (1) A vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) 29. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha a vízimunka elvégzése, illetve a vízi létesítmény megépítése vagy átalakítása jogerős hatósági engedély nélkül, vagy a jogerős hatósági engedélytől eltérően történt, a létesítő részére az üzemeltetési engedély kiadása megtagadható. Amennyiben a hatóság a vízimunka, vízi létesítmény megvizsgálása után – az eset összes körülményeire is figyelemmel – a létesítő részére a fennmaradási engedélyt utólag megadja, a létesítő vízgazdálkodási bírság fizetésére köteles. A bírság az engedély nélkül létrehozott építmény értékének 80%-áig, engedély nélküli vízimunka vagy vízhasználat esetén 1 000 000 forintig terjedhet. Természetes személy esetében a bírság összege nem haladhatja meg a 300 000 forintot.”
-
-(2) A Vgtv. a következő 32/A. §-sal egészül ki:
-
-„32/A. § (1) Aki a 29. § (3) bekezdésében foglaltakon túl jogszabályban, hatósági határozatban vagy közvetlenül alkalmazandó közösségi jogi aktusban szereplő vízgazdálkodási előírást megszeg, a jogsértő magatartás súlyához igazodó, legfeljebb 1 000 000 forint összegű vízgazdálkodási bírságot köteles fizetni. Természetes személy esetében a bírság összege nem haladhatja meg a 300 000 forintot.
-
-(2) A behajtott vízgazdálkodási bírság a központi költségvetés bevétele.”
+8. §
 
 #### 9. A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény módosítása
 
@@ -180,55 +40,19 @@ k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
 
 #### 10. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-10. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 100/A. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(A működést engedélyező szerv vagy a gyámhivatal ellenőrzési jogkörében jogsértésenként legfeljebb 200 ezer forint összegű gyermekvédelmi igazgatási bírságot szabhat ki)
-
-„e) működésiengedély-köteles gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet működési engedély nélkül végző, illetve ilyen szolgáltatótevékenységet működtető vagy szervező személlyel, szervezettel és az ilyen szervezet nevében – különösen az ellátás iránt érdeklődőknél, illetve az igénybe vevőknél – eljáró személlyel szemben.”
+10. §
 
 #### 11. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-11. § (1) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 33. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) Aki tervezői jogosultság nélkül végez építési engedélyhez kötött építészeti-műszaki tervezési tevékenységet, azt az építésügyi hatóság 100 000 forintig terjedő közigazgatási bírsággal sújtja.”
-
-(2) Az Étv. 38/C. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az energetikai tanúsítói tevékenységet végző személyt, ha adatszolgáltatásra vonatkozó jogszabályi kötelezettségét megszegi, a névjegyzéket vezető szerv 20 000 forintig terjedő közigazgatási bírsággal sújtja.”
-
-(3) Az Étv. 60. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Aki a felvonó vagy mozgólépcső (mozgójárda) létesítésére, üzembe helyezésére, rendeltetésszerű használatára, alkalmasságának ellenőriztetésére, biztonságtechnikai felülvizsgálatára vonatkozó kötelességét megszegi, azt a Magyar Kereskedelmi Engedélyezési Hivatal, mint műszaki biztonsági hatóság
-
-a) természetes személy esetén 300 000 forintig,
-
-b) jogi személy vagy jogi személyiség nélküli szervezet esetén 500 000 forintig
-
-terjedő közigazgatási bírsággal sújtja.”
+11. §
 
 #### 12. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosítása
 
-12. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény (a továbbiakban: Tem. tv.) a következő 40/G. §-sal és azt megelőző alcímmel egészül ki:
-
-„Közigazgatási bírság
-
-40/G. § (1) Aki a nemzeti gyászról szóló jogszabályban meghatározott kötelezettségét megszegi, százötvenezer forintig terjedő közigazgatási bírsággal sújtható.
-
-(2) Az eljárás lefolytatására az elkövetés helye szerinti fővárosi vagy megyei kormányhivatal jogosult.”
+12. §
 
 #### 13. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló2005. évi CXXXIII. törvény módosítása
 
-13. § (1) A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény (a továbbiakban: SzVMt.) 32. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A belépési adatbázis adatai csak a megbízó részére, illetve bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés alapján a nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.”
-
-(2) Az SzVMt. 63. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A rendőrség felügyeleti bírsággal sújthatja azt, aki a személy- és vagyonvédelmi, illetve magánnyomozói tevékenységet (ideértve a magánnyomozó tevékenység szervezését és irányítását is) személyes végzésre jogosító igazolvány nélkül végzi, továbbá aki az e törvényben meghatározott tevékenység végzésére jogosító szabályokat megszegi, valamint azt a vállalkozást, amely az e törvény hatálya alá tartozó tevékenységet jogosulatlanul végzi, továbbá a tevékenységre vonatkozó, e törvényben meghatározott előírásokat ismételten vagy súlyosan megsérti.”
-
-(3) Az SzVMt. 64. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az e törvényben meghatározott tevékenységet személyesen végzőkkel szemben kiszabható felügyeleti bírság legkisebb összege a kötelező legkisebb munkabér (minimálbér) fele, legnagyobb összege a kötelező legkisebb munkabér kétszerese. A vállalkozással szemben kiszabható felügyeleti bírság legkisebb összege a kötelező legkisebb munkabér négyszerese, legnagyobb összege a kötelező legkisebb munkabér negyvenszerese.”
+13. §
 
 #### 14. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló2005. évi CXXXV. törvény módosítása
 
@@ -240,33 +64,11 @@ terjedő közigazgatási bírsággal sújtja.”
 
 #### 16. A Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló2007. évi XLVIII. törvény módosítása
 
-16. § A Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény a következő 5/A. §-sal egészül ki:
-
-„5/A. § (1) Az Európai Unió területére belépő vagy azt elhagyó természetes személynek, aki a nála lévő, a Rendelet 2. cikk 2. pontja szerinti készpénz vonatkozásában a Rendelet 3. cikk (1) bekezdése szerinti nyilatkozattételi kötelezettségét tévesen, hiányosan vagy egyáltalán nem teljesíti, a Rendelet 9. cikkének megfelelően
-
-a) 10 000 euró vagy azt meghaladó, de 20 000 eurót meg nem haladó összegű készpénz esetén a birtokában lévő összeg 10%-ának,
-
-b) 20 000 eurót meghaladó, de 50 000 eurót meg nem haladó összegű készpénz esetén a birtokában lévő összeg 40%-ának,
-
-c) 50 000 eurót meghaladó összegű készpénz esetén a birtokában lévő összeg 60%-ának
-
-megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fizetnie.
-
-(2) A bírság összegét 1000 forintra kerekítve kell alkalmazni. A bírság összegének forintban történő meghatározásához a 2. § (3) bekezdését kell alkalmazni.”
+16. §
 
 #### 17. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-17. § (1) Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 108. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-(Erdővédelmi bírságot köteles fizetni, aki)
-
-„g) a 68. § d) pontjában meghatározott erdei haszonvételeket jogosulatlanul gyakorolja, vagy annak során az erdei haszonvételek gyakorlásának feltételeit megsérti;”
-
-(2) Az Evt. 108. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-(Erdővédelmi bírságot köteles fizetni, aki)
-
-„i) a 91. § (4) bekezdés b) pontjában foglalt előírásokat megsérti:”
+17. §
 
 #### 18. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló2011. évi CXXVIII. törvény módosítása
 
@@ -274,47 +76,7 @@ megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fiz
 
 #### 19. Az egyes honvédelmi kötelezettségek teljesítéséről, az azokkal kapcsolatos katonai igazgatási feladatokról, a hadköteles nyilvántartás vezetése, a gazdasági és anyagi szolgáltatások biztosítása érdekében teljesítendő adatszolgáltatásokról és a honvédelmi ágazatban használt igazolványokkal kapcsolatos adatkezelésről szóló 2011. évi CLXXVII. törvény módosítása
 
-19. § Az egyes honvédelmi kötelezettségek teljesítéséről, az azokkal kapcsolatos katonai igazgatási feladatokról, a hadköteles nyilvántartás vezetése, a gazdasági és anyagi szolgáltatások biztosítása érdekében teljesítendő adatszolgáltatásokról és a honvédelmi ágazatban használt igazolványokkal kapcsolatos adatkezelésről szóló 2011. évi CLXXVII. törvény a következő IX/A. Fejezettel egészül ki:
-
-„IX/A. FEJEZET
-
-HONVÉDELMI BÍRSÁG
-
-42/A. § (1) A fővárosi, megyei kormányhivatal (a továbbiakban: kormányhivatal) honvédelmi bírságot szab ki
-
-a) ha valaki a hadkötelezettség teljesítésével összefüggésben elrendelt orvosi vizsgálatnak magát nem veti alá,
-
-b) ha a hadköteles a katonai igazolványát vagy a behívó parancsát másra átruházza, más őrizetére bízza, biztosítékul adja vagy külföldre viszi, az arra jogosult személy felszólítására nem mutatja fel,
-
-c) ha valaki a talált katonai igazolványt vagy behívó parancsot a katonai igazgatás szervének vagy a rendőrségnek 5 napon belül nem szolgáltatja be,
-
-d) ha a gazdasági és anyagi szolgáltatásra kötelezett a honvédelemmel vagy a katasztrófavédelemmel kapcsolatos gazdasági és anyagi szolgáltatási kötelezettségének nem tesz eleget, vagy a technikai eszköz igénybevételéről szóló határozat átvételét megtagadja,
-
-e) ha valaki a honvédelmi vagy katasztrófavédelmi célból kijelölt ingatlannal, ingóval, szolgáltatással kapcsolatban elrendelt adatszolgáltatási kötelezettségének nem, vagy nem megfelelően tesz eleget, vagy azokkal kapcsolatos karbantartási kötelezettségét elmulasztja,
-
-f) ha valaki a nála lévő hadiruházatot, katonai felszerelési tárgyat a rendeltetésétől eltérő célra használja vagy másnak használatra átadja.
-
-(2) A kormányhivatal a honvédelmi bírság kiszabásával kapcsolatos eljárást a Magyar Honvédség katonai igazgatási szerve kezdeményezése alapján folytatja le.
-
-(3) A honvédelmi bírság kiszabására irányuló eljárás a Magyar Honvédség katonai igazgatási szerve kezdeményezésének a kormányhivatalhoz történt megérkezésétől számított negyvenöt napon belül, de legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg.
-
-42/B. § (1) A honvédelmi bírság legkisebb összege százezer forint, legmagasabb összege hárommillió forint, természetes személy esetében háromszázezer forint.
-
-(2) A honvédelmi bírság összegét a kormányhivatal a törvényi keretek között a honvédelmi érdek sérelmének vagy veszélyeztetettségének nagyságával arányosan, a jogsértés súlyához és ismétlődéséhez igazodva állapítja meg.
-
-(3) A honvédelmi bírság kiszabása nem mentesít a kötelezettség teljesítése alól.
-
-(4) A honvédelmi bírság ugyanazon kötelezettség ismételt megszegése esetén újra kiszabható.
-
-(5) A kormányhivatal a katonai igazgatási szerv értesítése alapján a honvédelmi bírság megfizetése alól mentesíti azt, aki a kötelezettségének az annak kiszabását elrendelő határozat jogerőre emelkedéséig önként eleget tett. Ebben az esetben a kormányhivatal a határozatot visszavonja.
-
-42/C. § (1) A honvédelmi bírság összegét a kiszabását elrendelő határozat jogerőre emelkedésétől számított 30 napon belül kell befizetni.
-
-(2) A honvédelmi bírság megfizetésére a kormányhivatal a teljesítési határidő lejárta előtt előterjesztett kérelemre legfeljebb 12 havi részletfizetést engedélyezhet, ha a megfizetésre kötelezett hitelt érdemlően igazolja, hogy számára a teljesítés aránytalan nehézséget jelent. Egy részlet megfizetésének elmaradása esetén a teljes összeg megfizetése azonnal esedékessé válik.
-
-(3) A honvédelmi bírság befizetési határidejének elmulasztását követő nyolc napon belül a kormányhivatal a végrehajtás érdekében megkeresi a hatáskörrel és illetékességgel rendelkező adóhatóságot. Ha a bírságfizetésre kötelezett a végrehajtás elrendelését követően a honvédelmi bírság befizetését hitelt érdemlően igazolja, a hatóság nyolc napon belül intézkedik a végrehajtás megszüntetéséről.
-
-(4) A jogerősen kiszabott és be nem fizetett honvédelmi bírság adók módjára behajtandó köztartozásnak minősül.”
+19. §
 
 #### 20. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló2004. évi CXL. törvény módosítása
 
