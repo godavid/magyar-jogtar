@@ -144,12 +144,12 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a személyazonosító igazolvány nyilvántartásban kezeli a 29. § (3) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
   - ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizetbe vagy előzetes letartóztatásba vételt,
   - gb) Magyarország területének külföldi letelepedés szándékával történő elhagyását,
-  - gc) a bevándorlási engedély visszavonását, illetőleg a menekült vagy oltalmazott jogállás megszűnését,
+  - gc) a bevándorlási engedély, letelepedési engedély, nemzeti letelepedési engedély EK letelepedési engedély, vagy az ideiglenes letelepedési engedély visszavonását, valamint a menekült vagy oltalmazott jogállás megszűnését,
   - gd) a magyar állampolgárság megszűnését,
   - ge) a tulajdonos halálát;
 - h) kezeli a központi okmánytárat;
 - m) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat;
-- n) ellátja az oltalmazottként elismert személy személyi és lakcímadatainak nyilvántartásba vételével, valamint a személyazonosító igazolványa és a személyi azonosítót és lakcímet igazoló hatósági igazolványa első ízben történő kiadásával összefüggő feladatokat;
+- n) ellátja a menekült vagy oltalmazott jogállású személy utóbb megszerzett letelepedett jogállásának nyilvántartásba vételével kapcsolatos feladatokat;
 - o) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 
 (3) A központi szerv Központi Okmánytárában – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
@@ -185,11 +185,11 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 (2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–j) pontja szerinti adatait, aláírását, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
 
-(3)
+(3) Ha a menekült vagy oltalmazott jogállású személy letelepedett jogállást szerez, a nyilvántartás mind a menekült, illetve oltalmazott, mind a letelepedett jogállását tartalmazza.
 
 (4)–(5)
 
-12. § (1) A nyilvántartás történeti állománya tartalmazza a polgár minden eddigi, a törvény hatálya alá tartozó adatát és adatváltozását az érintett elhalálozásától, magyar állampolgárságának megszűnésétől, illetve a külföldi letelepedés szándékával külföldre távozásától, bevándorolt, menekült vagy oltalmazott, letelepedett jogállásának megszűnésétől, illetve a szabad mozgás és tartózkodás jogával rendelkező személy tartózkodási jogának megszűnésétől számított 15 évig, kivéve, ha jogállásának megszűnését a magyar állampolgárság megszerzése eredményezte. Ha az érintett magyar állampolgársága a külföldi letelepedés szándékával történt külföldre távozását követően szűnik meg, e tényt a nyilvántartás történeti állományán át kell vezetni.
+12. § (1) A nyilvántartás történeti állománya tartalmazza a polgár minden eddigi, a törvény hatálya alá tartozó adatát és adatváltozását az érintett elhalálozásától, magyar állampolgárságának megszűnésétől, illetve a külföldi letelepedés szándékával külföldre távozásától, bevándorolt, menekült vagy oltalmazott, letelepedett jogállásának megszűnésétől, illetve a szabad mozgás és tartózkodás jogával rendelkező személy tartózkodási jogának megszűnésétől számított 15 évig, kivéve, ha jogállásának megszűnését a magyar állampolgárság megszerzése eredményezte. Ha az érintett személy a menekült vagy oltalmazott jogállás mellett letelepedett jogállást is szerzett, a 15 évet a később megszűnt jogállás megszűnésének időpontjától kell számítani. Ha az érintett magyar állampolgársága a külföldi letelepedés szándékával történt külföldre távozását követően szűnik meg, e tényt a nyilvántartás történeti állományán át kell vezetni.
 
 (2) A Központi Okmánytárban a 9. § (3) bekezdésében meghatározott adatokat, illetőleg okiratokat az (1) bekezdés szerinti időpont lejártától számított negyven évig kell megőrizni.
 
@@ -222,7 +222,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 - c) az anyakönyv;
 - d) a központi idegenrendészeti nyilvántartást kezelő szerv értesítése;
 - e) a konzuli szolgálat konzuli tisztviselőjének az értesítése;
-- f)
+- f) a menekültügyi hatóság értesítése;
 - g) a területszervezési intézkedést kihirdető jogszabály;
 - h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés (az illetékes önkormányzat hatáskörébe tartozó területszervezési, közterület-elnevezési és házszámváltozási döntésekről);
 - i)
@@ -453,7 +453,7 @@ Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság 
 
 ### VI. Fejezet — Adatvédelem
 
-30. § (1) A jegyző, a 6. § (1) bekezdésében meghatározott időpontig a rendőrkapitányság vezetője, a Kormány általános hatáskörű területi államigazgatási szerve, valamint a központi szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
+30. § (1) A jegyző, a Kormány általános hatáskörű területi államigazgatási szerve, valamint a központi szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
 
 (2) Az adatkezelés törvényességének ellenőrzésére az e-közigazgatásért felelős miniszter a központi szervnél, a Kormány általános hatáskörű területi államigazgatási szervénél annak vezetője adatvédelmi felelőst nevez ki.
 
