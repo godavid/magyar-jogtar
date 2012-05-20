@@ -49,7 +49,9 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 4. § E törvényt a diplomáciai vagy egyéb személyes mentességet élvező, illetve nemzetközi szerződés alapján beutazó harmadik országbeli állampolgárra akkor kell alkalmazni, ha nemzetközi szerződés másként nem rendelkezik.
 
-5. § A külön törvény alapján a magyar menekültügyi hatóság által menekültként elismert, illetve ideiglenes vagy kiegészítő védelemben részesített harmadik országbeli állampolgárra kizárólag e törvény IV. fejezetének nemzeti letelepedési engedélyre vonatkozó rendelkezéseit kell alkalmazni.
+5. § (1) A magyar menekültügyi hatóság vagy bíróság, vagy az Európai Unió tagállama által menekültként elismert vagy kiegészítő védelemben részesített harmadik országbeli állampolgárra kizárólag a IV., V., és X. Fejezet rendelkezéseit kell alkalmazni.
+
+(2) A magyar menekültügyi hatóság vagy bíróság által ideiglenes védelemben részesített harmadik országbeli állampolgárra a IV. Fejezet nemzeti letelepedési engedélyre vonatkozó, valamint az V. és X. Fejezet rendelkezéseit kell alkalmazni.
 
 ### II. Fejezet — A HAT HÓNAPON BELÜL HÁROM HÓNAPOT MEG NEM HALADÓ TARTÓZKODÁS SZABÁLYAI
 
@@ -222,7 +224,7 @@ rendelkezik.
 
 20/A. § (1) EU Kék Kártyát az a harmadik országbeli állampolgár kap, aki
 
-- a) a 13. § (1) bekezdés a), d), valamint h)–i) pontjában foglalt feltételeknek megfelel, és nem állnak fenn a (2) bekezdésben, valamint a 18. § (1b) bekezdés b) pontjában foglalt kizáró okok,
+- a) a 13. § (1) bekezdés a), d), valamint h) és i) pontjában foglalt feltételeknek megfelel, és vele szemben nem állnak fenn a (2) bekezdésben, valamint a 18. § (1b) bekezdés b) és d) pontjában foglalt kizáró okok,
 - b) foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint hazai foglalkoztatáspolitikai érdekből támogatott,
 - c) az egészségügyi ellátások teljes körére biztosítottnak minősül, vagy kérelmezte azt minden olyan időszakra vonatkozóan, amikor a foglalkoztatásra irányuló jogviszonyból eredően nem minősül biztosítottnak, és
 - d) Magyarország területén valós lakcímadatot szálláshelyként bejelentett.
@@ -239,11 +241,13 @@ rendelkezik.
 - h) az a harmadik országbeli állampolgár, aki Magyarország területén szezonális munkavállalási vízummal tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
 - i) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgár, aki Magyarország területén kiküldetésben tartózkodik.
 
+(2a) Az EU kék kártya iránti kérelem tárgyában indult eljárásban az eljáró hatóság az érdemi döntést a kérelem benyújtásától számított kilencven napon belül hozza meg.
+
 (3) Az EU Kék Kártyát legalább egy évre kell kiállítani. Amennyiben a foglalkoztatásra irányuló szerződés ennél rövidebb időtartamra szól, akkor az EU Kék Kártyát a foglalkoztatásra irányuló szerződés szerinti jogviszony időtartamát három hónappal meghaladó időtartamra kell kiállítani.
 
 (4) Az EU Kék Kártya érvényességi ideje legfeljebb négy év, amely alkalmanként legfeljebb négy évvel meghosszabbítható.
 
-20/B. § Az Európai Unió tagállama által magas szintű képzettséget igénylő munkavállalás céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár EU Kék Kártyát kaphat, ha
+20/B. § Az Európai Unió tagállama által magas szintű képzettséget igénylő munkavállalás céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár EU kék kártyát kap, ha
 
 - a) az EU Kék Kártyát kiállító tagállamban legalább tizennyolc hónapig jogszerűen tartózkodott és
 - b) rendelkezik a 20/A. § (1) bekezdés a)–d) pontjában meghatározott feltételekkel.
@@ -400,7 +404,11 @@ kapott.
 
 (4) A letelepedettet megilletik a tartózkodási engedéllyel rendelkezők külön jogszabályok szerinti jogosultságai is.
 
-(5) A letelepedett külön jogszabályban foglaltak szerint köteles lakóhelyét bejelenteni és személyazonosító igazolvány kiadását kérni.
+(5) Az eljáró hatóság értesíti a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet
+
+- a) a meglévő jogállás mellett az újabb jogállás nyilvántartásba vétele céljából a menekültként vagy oltalmazottként nyilvántartott harmadik országbeli állampolgár részére kiadott letelepedési engedélyről,
+- b) a letelepedési, az ideiglenes, a nemzeti és az EK letelepedési engedély visszavonásáról, valamint
+- c) a bevándorlási engedély visszavonásáról.
 
 33. § (1) Az a harmadik országbeli állampolgár kaphat ideiglenes letelepedési engedélyt, nemzeti letelepedési engedélyt vagy EK letelepedési engedélyt,
 
@@ -410,7 +418,7 @@ kapott.
 
 (2) Nem kaphat ideiglenes letelepedési engedélyt, nemzeti letelepedési engedélyt vagy EK letelepedési engedélyt az a harmadik országbeli állampolgár,
 
-- a) aki büntetett előéletű, és a büntetett előélethez fűződő joghátrányok alól még nem mentesült;
+- a)
 - b) akinek a letelepedése veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát;
 - c) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
 - d) aki az engedély megszerzése érdekében hamis adatot, valótlan tényt közölt, vagy az eljáró hatóságot megtévesztette.
@@ -445,6 +453,10 @@ kapott.
 
 (8) Az idegenrendészeti hatóság az ideiglenes letelepedési engedély kiállításáról, illetve visszavonásáról – a visszavonás okának megjelölésével – értesíti az Európai Unió azon tagállamát, amely a harmadik országbeli állampolgár számára a huzamos tartózkodói jogállást igazoló EK tartózkodási engedélyt kiállította.
 
+(9) Amennyiben a huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt az Európai Unió tagállama menekültként elismerte vagy kiegészítő védelemben részesítette, az idegenrendészeti hatóság az ideiglenes letelepedési engedély kiállítása előtt a 94. §-ban meghatározott adatok feltüntetésével megkeresi az EK tartózkodási engedélyt kiállító tagállamot annak ellenőrzése érdekében, hogy a menekültkénti elismerés vagy kiegészítő védelem továbbra is fennáll-e.
+
+(10) Amennyiben a huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt a magyar menekültügyi hatóság vagy bíróság menekültként elismeri, illetve kiegészítő védelemben részesíti az ideiglenes letelepedési engedély kiállítása előtt, az idegenrendészeti hatóság a 94. §-ban meghatározott adatok feltüntetésével megkeresi az EK tartózkodási engedélyt kiállító tagállamot annak érdekében, hogy az az EK tartózkodási engedély okmány 'Megjegyzések' rovatát módosítsa.
+
 ### Nemzeti letelepedési engedély
 
 35. § (1) Magyarországon történő letelepedés céljából nemzeti letelepedési engedélyt – a (4) bekezdésben foglalt kivétellel – az a harmadik országbeli állampolgár kaphat, aki tartózkodási engedéllyel vagy ideiglenes letelepedési engedéllyel rendelkezik, és
@@ -459,6 +471,8 @@ kapott.
 (3) Az idegenrendészeti hatóság Magyarország területén történő tartózkodás (2) bekezdésben meghatározottnál hosszabb megszakítása esetén is engedélyezheti a harmadik országbeli állampolgár letelepedését, amennyiben a tartózkodás megszakítására méltányolható okból – különösen külföldi gyógykezelés, illetve a harmadik országbeli állampolgár keresőtevékenységével összefüggő külföldi kiküldetések miatt – került sor.
 
 (4) A menekültügyi hatóság által menekültként elismert harmadik országbeli állampolgár a nemzeti letelepedési engedélyt tartózkodási vízum vagy tartózkodási engedély hiányában is kérelmezheti.
+
+(5) Nem kaphat nemzeti letelepedési engedélyt az a harmadik országbeli állampolgár, aki büntetett előéletű, és a büntetett előélethez fűződő hátrányok alól nem mentesült.
 
 36. § (1) Különös méltánylást érdemlő körülmény esetén a harmadik országbeli állampolgár az idegenrendészetért és menekültügyért felelős miniszter döntése alapján a 13. § (1) bekezdés a) pontjában, a 33. § (1) bekezdésben és a 35. § (1) bekezdésében foglalt feltételek hiányában is kaphat nemzeti letelepedési engedélyt.
 
@@ -493,14 +507,18 @@ kapott.
 - a) felsőfokú tanulmányok folytatása, illetve szakképzés céljából Magyarország területén tartózkodó harmadik országbeli állampolgár;
 - b) a szezonális munkavállalás céljából vagy önkéntesként Magyarország területén tartózkodó harmadik országbeli állampolgár;
 - c) a diplomáciai vagy egyéb személyes mentesség alapján Magyarország területén tartózkodó harmadik országbeli állampolgár;
-- d) az a harmadik országbeli állampolgár, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
+- d) a kérelme jogerős elbírálásáig az a harmadik országbeli állampolgár, aki a magyar menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
 - e) a befogadott;
+- f) a menekültügyi hatóság vagy bíróság vagy az Európai Unió tagállama által menekültként elismert vagy kiegészítő védelemben részesített harmadik országbeli állampolgár, ezen jogállása alapján, aki már nem rendelkezik menekült jogállással vagy nem áll kiegészítő védelem hatálya alatt; valamint
+- g) az ideiglenes védelemben részesített harmadik országbeli állampolgár.
 
 (3) A harmadik országbeli állampolgár (2) bekezdés b)–c) pontja szerinti korábbi jogszerű tartózkodásának időtartama az (1) bekezdésben meghatározott időtartamba nem számít bele.
 
 (4) Az (1) bekezdésben meghatározott időtartamba a (2) bekezdés a) pontja szerinti korábbi jogszerű tartózkodás időtartamának fele számít bele.
 
 (5) Az az időtartam, amely során a harmadik országbeli állampolgár menekültként elismert, illetve ideiglenes vagy kiegészítő védelemben részesített személyként tartózkodott Magyarország területén, az (1) bekezdésben meghatározott időtartamba beleszámít.
+
+(5a) Az (1) bekezdésben meghatározott időtartamba a menekültként elismert vagy kiegészítő védelemben részesített harmadik országbeli állampolgárnak a menedékjogi kérelme benyújtásának időpontja és a menekültként elismerést vagy kiegészítő védelmet igazoló okmánya kiadásának időpontja közötti időtartam fele számít bele. Amennyiben ez az időtartam a tizennyolc hónapot meghaladja, a teljes időtartam az (1) bekezdésben meghatározott időtartamba beleszámít.
 
 (6) Nem minősül Magyarország területén történő tartózkodás megszakításának
 
@@ -517,6 +535,8 @@ kapott.
 - d) az engedély megszerzése érdekében a harmadik országbeli állampolgár az idegenrendészeti hatósággal hamis adatot, valótlan tényt közölt;
 - e) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el;
 - f) az a) ponttól eltérően a harmadik országbeli állampolgár EU Kék Kártya birtokosként vagy annak családtagjaként szerezte meg az EK letelepedési engedélyt és az Európai Unió tagállamainak területét egymást követő huszonnégy hónapnál hosszabb ideig elhagyta.
+
+(1a) Az idegenrendészeti hatóság az EK letelepedési engedélyt visszavonhatja, ha a harmadik országbeli állampolgár már nem rendelkezik menekült jogállással vagy nem áll kiegészítő védelem hatálya alatt.
 
 (2) Az a harmadik országbeli állampolgár, akinek EK letelepedési engedélyét az idegenrendészeti hatóság az (1) bekezdés a)–c) pontjai alapján vonta vissza, ismételt kérelmezés esetén a 38. § (1) bekezdésében foglalt feltétel vizsgálata nélkül EK letelepedési engedélyt kap.
 
@@ -602,6 +622,16 @@ kapott.
 - b) bevándorolt vagy letelepedett harmadik országbeli állampolgárral házassági vagy családi életközösségben él, és tartózkodási engedéllyel rendelkezik,
 
 csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet súlyosan sérti.
+
+(2a) A (2) bekezdésben meghatározott személy kiutasítását elrendelő határozatot az idegenrendészeti hatóság az (1) bekezdésben meghatározott szempontok figyelembevételével hozza meg.
+
+(2b) A kiutasítás elrendeléséről szóló határozat meghozatala előtt az idegenrendészeti hatóság a 94. §-ban meghatározott adatok feltüntetésével megkeresi az EK tartózkodási engedélyt kiállító tagállamot annak ellenőrzése érdekében, hogy a menekültkénti elismerés vagy kiegészítő védelem továbbra is fennáll-e.
+
+(2c) Amennyiben a menekültkénti elismerés vagy kiegészítő védelem fennáll, az Európai Unió tagállama által kiadott huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt az idegenrendészeti hatóság Magyarország területéről kiutasítja azon tagállamba, amelyben a menekültkénti elismerés vagy kiegészítő védelem fennáll.
+
+(2d) Amennyiben az EK letelepedési engedéllyel rendelkező, a magyar menekültügyi hatóság vagy bíróság által menekültként elismert vagy kiegészítő védelemben részesített harmadik országbeli állampolgárt az Európai Unió tagállama kiutasítja, és a menedékjog vagy a kiegészítő védelem fennáll, a menekültként elismert vagy kiegészítő védelemben részesített harmadik országbeli állampolgárt vagy családtagját Magyarország területére vissza kell fogadni.
+
+(2e) Amennyiben az EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgárt vagy családtagját az Európai Unió valamely tagállama kiutasítja, abban az esetben is vissza kell fogadni Magyarország területére, ha az EK letelepedési engedély érvényességi ideje lejárt.
 
 (3) A (2) bekezdésben foglaltakat kérelmének jogerős elbírálásáig a menekültügyi hatóságtól menekültkénti elismerését kérő, a menekültként elismert, illetve ideiglenes vagy kiegészítő védelemben részesített harmadik országbeli állampolgár külön jogszabályban meghatározott közvetlen családtagja esetében is alkalmazni kell.
 
@@ -930,7 +960,7 @@ miatt utasított ki.
 65. § (1) A visszairányítást, illetve a kiutasítást elrendelő bírósági vagy idegenrendészeti hatósági határozatot hatósági kísérettel (a továbbiakban: kitoloncolás) kell végrehajtani, ha a harmadik országbeli állampolgár
 
 - a) szándékosan elkövetett bűncselekmény miatt kiszabott szabadságvesztés büntetésből szabadult;
-- b) idegenrendészeti őrizet alatt áll;
+- b)
 - c) kiutazásának ellenőrzése a nemzetbiztonság, nemzetközi szerződésben vállalt kötelezettség érvényesítése, illetve a közbiztonság vagy a közrend védelme érdekében szükséges;
 - d) a kiutasító határozatban meghatározott határnapot követő napig az Európai Unió tagállamainak területét nem hagyta el.
 
@@ -1391,6 +1421,8 @@ részére továbbíthat adatot.
 
 (3) A Vízuminformációs Rendszerhez a VIS rendelet 15–20. cikke szerinti célokból a külön jogszabályban meghatározott idegenrendészeti hatóságok rendelkeznek hozzáféréssel.
 
+(4) Az idegenrendészeti hatóság az ideiglenes és az EK letelepedési engedély kiadására, valamint az idegenrendészeti kiutasításra vonatkozó eljárásban a 34. § (9)–(10) bekezdése és a 45. § (2b) bekezdése szerinti megkeresés során az Európai Unió tagállamától a harmadik országbeli állampolgár 94. §-ban meghatározott személyes adatait, valamint a menekültkénti elismerésre vagy kiegészítő védelem fennállására vonatkozó adatokat veheti át.
+
 108. § (1) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és azokról személyazonosításra alkalmatlan módon a központi idegenrendészeti nyilvántartást kezelő szerv statisztikai célra adatokat szolgáltathat.
 
 (2) A 95. § (1) bekezdésben, a 96. § (1) bekezdésben, a 98. § (1) bekezdésben, valamint a 99. § (1) bekezdésében foglalt adatokból a Központi Statisztikai Hivatal részére statisztikai célú adatkezelés érdekében az adatok személyazonosításra alkalmas módon is átadhatók.
@@ -1581,7 +1613,8 @@ hatályát veszti.
 - o) a Tanács 1997. december 4-i állásfoglalása az érdekházasságok elleni küzdelem érdekében elfogadott intézkedésekről;
 - p) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelv;
 - q) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről
-- r) a Tanács 2009/52 irányelve (2009. június 18.) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról.
+- r) a Tanács 2009/52 irányelve (2009. június 18.) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról;
+- s) a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és a tanácsi irányelv [5. §, 32. § (5) bekezdés, 34. § (9) és (10) bekezdés, 38. § (2) bekezdés d) és f) és g) pont, 38. § (5a) bekezdés, 39. § (1a) bekezdés, 45. § (2a)–(2e) bekezdés, 107. § (4) bekezdés],
 
 (2) E törvény
 

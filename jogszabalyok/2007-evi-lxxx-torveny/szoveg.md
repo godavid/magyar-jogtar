@@ -25,7 +25,7 @@ a menedékjogról a következő törvényt alkotja:
 - e) ideiglenes védelem: a menedékest megillető jogok és az őt terhelő kötelezettségek összessége;
 - f) kísérő nélküli kiskorú: az a tizennyolcadik életévét be nem töltött külföldi, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett Magyarország területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
 - g) származási ország: az állampolgárság, illetve hontalan személy esetén a szokásos tartózkodási hely szerinti ország vagy országok;
-- h) biztonságos származási ország: az az ország, amely szerepel az Európai Unió Tanácsának a biztonságos származási országnak tekintendő harmadik országokról szóló minimumlistáján, illetve a Kormány rendeletében nemzeti szinten biztonságosnak nyilvánított származási országok listáján, vagy ezen listákon lévő országok egy része; a származási országnak bármelyik listán való szereplése az elismerést kérő személy tekintetében megdönthető vélelmet állít fel, amely szerint ebben az országban, illetőleg az ország egy részében általában és következetesen nem tapasztalható üldöztetés, nem alkalmaznak kínzást, sem kegyetlen, embertelen vagy megalázó bánásmódot vagy büntetést, és amely ország ezen jogok és szabadságok megsértése ellen hatékony jogorvoslati rendszert biztosít;
+- h) biztonságos származási ország: az az ország, amely szerepel az Európai Unió Tanácsának a biztonságos származási országnak tekintendő harmadik országokról szóló minimumlistáján, illetve a Kormány rendeletében nemzeti szinten biztonságosnak nyilvánított származási országok listáján, vagy ezen listákon lévő országok egy része; a származási országnak bármelyik listán való szereplése az elismerést kérő személy tekintetében megdönthető vélelmet állít fel, amely szerint ebben az országban, illetőleg az ország egy részében általában és következetesen nem tapasztalható üldöztetés, nem fenyeget általános erőszak sem nemzetközi, sem belső fegyveres konfliktushelyzetekben, nem alkalmaznak kínzást, sem kegyetlen, embertelen vagy megalázó bánásmódot vagy büntetést, és amely ország ezen jogok és szabadságok megsértése ellen hatékony jogorvoslati rendszert biztosít;
 - i) biztonságos harmadik ország: az az ország, amelyre vonatkozóan a menekültügyi hatóság meggyőződött arról, hogy a kérelmező az alábbi elvekkel összhangban lévő bánásmódban részesül:
   - ia) az életét és a szabadságát nem fenyegeti veszély faji, vallási okból, nemzeti hovatartozása, valamely társadalmi csoporthoz való tartozása vagy politikai meggyőződés miatt, illetve nincs kitéve súlyos sérelem veszélyének;
   - ib) a genfi egyezménnyel összhangban tiszteletben tartják a visszaküldés tilalmának elvét;
@@ -461,7 +461,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (2) Az (1) bekezdés nem alkalmazható, ha ugyanaz a kérelmező azt követően nyújt be kérelmet, hogy korábbi kérelme tárgyában jogerős elutasító, illetve megszüntető döntés született, és magyar hatóság vagy bíróság a visszaküldés tilalmának fennállását nem állapította meg.
 
-43. § (1) Az elismerését kérő személyes meghallgatása – ha e törvény kivételt nem tesz – a menekültügyi eljárásban kötelező.
+43. § (1) Az elismerését kérő személyes meghallgatása – ha e törvény kivételt nem tesz – a menekültügyi eljárásban kötelező. A személyes meghallgatásról jegyzőkönyvet kell felvenni.
 
 (2) A menekültügyi hatóság a személyes meghallgatástól eltekinthet, ha az elismerését kérő nincs meghallgatható állapotban.
 
@@ -959,7 +959,7 @@ céljából a menekültügyi nyilvántartásban kezeli.
 
 igényelhetnek adatot.
 
-(2) A menekültügyi hatóság – az érintett természetes személyazonosító adatainak, családi állapotának és amennyiben házas vagy bejegyzett élettárs a házasságkötése vagy a bejegyzett élettársi kapcsolata létesítési helyének, valamint kijelölt szálláshelye címének közlésével a nyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és a lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából – a menekültként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes települési önkormányzat jegyzőjét az oltalmazottként történő elismerésről a személyiadat- és lakcímnyilvántartást kezelő központi szervet.
+(2) A menekültügyi hatóság – az érintett természetes személyazonosító adatainak, családi állapotának és amennyiben házas vagy bejegyzett élettárs, a házasságkötése vagy a bejegyzett élettársi kapcsolata létesítési helyének, valamint kijelölt szálláshelye címének közlésével a nyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és a lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes települési önkormányzat jegyzőjét.
 
 (3) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és az azokat tartalmazó nyilvántartásokból személyazonosításra alkalmatlan módon statisztikai célra adatok szolgáltathatók.
 
@@ -994,6 +994,10 @@ igényelhetnek adatot.
 (3) Azokat az indokokat, amelyekre az e törvény hatálya alá tartozó személy elismerés iránti kérelme alátámasztásaként hivatkozott – az (1) bekezdés szerinti adatszolgáltatás során – csak az érintett írásbeli hozzájárulásával lehet közölni.
 
 (4) Az (1) bekezdésben felhatalmazott szervek kivételével külföldi szerv vagy személy részére személyes adat csak az érintett írásbeli hozzájárulása alapján adható át. Az érintettet a felhasználás céljáról előzetesen tájékoztatni kell.
+
+(5) A menekültügyi hatóság az EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgárra vonatkozóan az Európai Unió tagállamának megkeresése alapján harminc napon belül tájékoztatást ad arról, hogy a külföldi Magyarországon menekült vagy oltalmazott jogállással rendelkezik-e.
+
+(6) A menekültügyi hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 34. § (10) bekezdés szerinti megkeresés végrehajtása céljából a menekültkénti vagy oltalmazottkénti elismerés tényéről haladéktalanul értesíti az idegenrendészeti hatóságot.
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1098,7 +1102,9 @@ b) az egy évet meghaladja, e törvény erejénél fogva válik a gyermek tankö
 - i) a Tanács 2003/9/EK irányelve (2003. január 27.) a menedékkérők befogadása minimumszabályainak megállapításáról 2. cikk d)–e), h)–j) pontjai, 3–5. cikk, 7–8. cikk, 10–11. cikk, 13–22. cikk, e törvény végrehajtási rendeleteivel együttesen;
 - j) a Tanács 2004/83/EK irányelve (2004. április 29.) a harmadik országok állampolgárainak, illetve a hontalan személyeknek menekültként vagy a más okból nemzetközi védelemre jogosultként való elismerésének feltételeiről és az e státuszok tartalmára vonatkozó minimumszabályokról 2. cikk c), e), h), i), k) pontja, 4–7. cikk, 9–33. cikk, e törvény végrehajtási rendeleteivel együttesen;
 - k) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól 3. cikk, 6–12. cikk, 15–28. cikk, 32. cikk, 34. cikk (3) bekezdés a) pont, 35. cikk, 37–39. cikk, e törvény végrehajtási rendeleteivel együttesen;
-- l) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [22. §, 83. §].
+- l) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [22. §, 83. §];
+- m) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i 2003/109/EK tanácsi irányelv;
+- n) az a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és tanácsi irányelv [89. § (5) és (6) bekezdés].
 
 (2) E törvény a következő közösségi jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
