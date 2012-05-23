@@ -404,10 +404,6 @@ Kisvállalkozás-fejlesztő Pénzügyi Zrt.
 
 MAG-Magyar Gazdaságfejlesztési Központ Támogatásközvetítő Zrt.
 
-Magyar Export-import Bank Zrt.
-
-Magyar Exporthitel Biztosító Zrt.
-
 Magyar Követeléskezelő Zrt.
 
 MFB Invest Befektetési és Vagyonkezelő Zrt.

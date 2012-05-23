@@ -1987,8 +1987,8 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | HM Armcom Zrt. | 100% |
 | HM Currus Zrt. | 100% |
 | HM Arzenál Zrt. | 100% |
-| Magyar Export-Import Bank Zrt. | 25%+1 szavazat |
-| Magyar Exporthitel Biztosító Zrt. | 25%+1 szavazat |
+| Magyar Export-Import Bank Zrt. | 100% |
+| Magyar Exporthitel Biztosító Zrt. | 100% |
 | Magyar Posta Zrt. | 75%+1 szavazat |
 | Magyar Államvasutak Zrt. | 100% |
 | Győr-Sopron-Ebenfurti Vasút Zrt. | 66,5% |
@@ -2553,27 +2553,27 @@ XXII. kerület
 
 19. ZALA MEGYE
 
-| 251. | EGERVÁR Vár u. | várkastély |
-| --- | --- | --- |
-| 252. | KESZTHELY Bercsényi u. 65. Georgikon u. 20. | Georgikon és majorja teljes együttese |
-| 253. | KESZTHELY, Festetics-kastélyegyüttes és parkja: |  |
-|  | Kastély u. 1. | kastélymúzeum |
-|  | Bástya u. 2. |  |
-|  | Bástya u. 4. |  |
-|  | Bástya u. 6. |  |
-|  | Georgikon u. 21. | kertészet |
-|  | Georgikon u. 21/A |  |
-|  | Georgikon u. 21/B |  |
-|  | Georgikon u. 21/C |  |
-|  | Soproni u. 2. |  |
-|  | Lehel u. 2. |  |
-|  |  | kastélypark |
-| 254. | KESZTHELY Kastély u. 11. Georgikon u. 1. | Amazon Szálló, lóváltó és lakóház épületegyüttese |
-| 255. | KESZTHELY, Fenékpuszta: műemléki együttes |  |
-|  |  | római kori épületmaradványok |
-|  |  | Festetics-kúria és gazdasági épület |
-| 256. | REZI | várrom |
-| 257. | ZALASZENTGRÓT Zala u. 1. | Batthyány-kastély, park és híd |
-| 258. | ZALASZÁNTÓ Tátika | várrom |
-| 259. | ZALAVÁR Récéskút | bazilika romjai |
-| 260. | ZALAVÁR Vársziget | vár és apátság romjai |
+| 251. | EGERVÁR Vár u. |  | várkastély |
+| --- | --- | --- | --- |
+| 252. | KESZTHELY Bercsényi u. 65. Georgikon u. 20. |  | Georgikon és majorja teljes együttese |
+| 253. | KESZTHELY, Festetics-kastélyegyüttes és parkja: |  |  |
+|  | Kastély u. 1. |  | kastélymúzeum |
+|  | Bástya u. 2. |  |  |
+|  | Bástya u. 4. |  |  |
+|  | Bástya u. 6. |  |  |
+|  | Georgikon u. 21. |  | kertészet |
+|  | Georgikon u. 21/A |  |  |
+|  | Georgikon u. 21/B |  |  |
+|  | Georgikon u. 21/C |  |  |
+|  | Soproni u. 2. |  |  |
+|  | Lehel u. 2. |  |  |
+|  |  |  | kastélypark |
+| 254. | KESZTHELY Kastély u. 11. Georgikon u. 1. |  | Amazon Szálló, lóváltó és lakóház épületegyüttese |
+| 255. | KESZTHELY, Fenékpuszta: műemléki együttes |  |  |
+|  |  | római kori épületmaradványok |  |
+|  |  | Festetics-kúria és gazdasági épület |  |
+| 256. | REZI | várrom |  |
+| 257. | ZALASZENTGRÓT Zala u. 1. | Batthyány-kastély, park és híd |  |
+| 258. | ZALASZÁNTÓ Tátika | várrom |  |
+| 259. | ZALAVÁR Récéskút | bazilika romjai |  |
+| 260. | ZALAVÁR Vársziget | vár és apátság romjai |  |
