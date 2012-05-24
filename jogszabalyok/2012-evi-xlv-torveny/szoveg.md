@@ -6,10 +6,7 @@ a Magyar Export-Import Bank Zrt. és a Magyar Exporthitel Biztosító Zrt. felet
 
 3. § (1)–(2)
 
-(3) Hatályát veszti az MFBtv. 2. számú mellékletében a
-
-- a) „Magyar Export-import Bank Zrt.”, és
-- b) „Magyar Exporthitel Biztosító Zrt.” szövegrész.
+(3)
 
 4. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
