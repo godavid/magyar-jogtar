@@ -1412,6 +1412,8 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (6) A bíróság végzéssel elutasítja a keresetváltoztatást, ha a felperes azt az (1)–(5) bekezdésben foglalt szabályok megsértésével terjesztette elő; e végzés ellen nincs helye külön fellebbezésnek.
 
+146/B. § A 146/A. § rendelkezéseit kettőszázmillió forintot meghaladó pertárgyértékű ügy esetén nem lehet alkalmazni.
+
 ### Viszontkereset
 
 147. § (1) Az első fokú ítélet hozatalát megelőző tárgyalás berekesztéséig az alperes a felperes ellen viszontkeresetet indíthat, ha az ekként érvényesíteni kívánt jog a felperes keresetével azonos vagy azzal összefüggő jogviszonyból ered, vagy ha a viszontkereset tárgyául szolgáló követelés a felperes kereseti követelésével szemben beszámításra alkalmas. A bíróság érdemi tárgyalás nélkül végzéssel elutasíthatja a viszontkeresetet, ha nyilvánvaló, hogy a fél azt azért terjesztette elő késedelmesen, hogy a per befejezését hátráltassa.
@@ -1429,6 +1431,8 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 (3) Ha a beszámítani kért követelés az (1) vagy (2) bekezdésben foglalt határidő leteltét követően járt le, az alperes beszámítási kifogását az (1) és (2) bekezdésben foglaltakon túlmenően e határidő lejártát követő 30 napon belül előterjesztheti.
 
 (4) A bíróság végzéssel elutasítja a viszontkeresetet és a beszámítási kifogást, ha az alperes azt az (1)–(3) bekezdésben foglalt szabályok megsértésével terjesztette elő; e végzés ellen nincs helye külön fellebbezésnek.
+
+147/B. § A 147/A. § rendelkezéseit kettőszázmillió forintot meghaladó pertárgyértékű ügy esetén nem lehet alkalmazni.
 
 ### Egyezség
 
