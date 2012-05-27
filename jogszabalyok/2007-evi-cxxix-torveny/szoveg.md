@@ -23,6 +23,8 @@ a termőföld védelméről
 
 (7) Ahol jogszabály zártkertre vonatkozó rendelkezést tartalmaz, ott a továbbiakban zártkerten a külterületi földet kell érteni.
 
+1/A. § Az ingatlanügyi hatóság, valamint a talajvédelmi hatóság – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben meghatározottak szerinti – jelentős számú ügyfelet érintő eljárásokban az ügyféllel hirdetményi úton tartja a kapcsolatot, továbbá ha a nyilvánosság véleményének megismerése érdekében szükséges, közmeghallgatást tart.
+
 ### Fogalommeghatározások
 
 2. § E törvény alkalmazásában
@@ -137,7 +139,7 @@ a termőföld védelméről
 
 13. § (1) A termőföld más célú hasznosítására kiadott engedély, ha e hasznosítás megkezdésére négy év alatt nem kerül sor, hatályát veszti. Hatályon kívül kell helyezni az engedélyt, ha az engedély jogosultja írásban nyilatkozik arról, hogy az engedélyben foglalt jogosultságáról lemond.
 
-(2) A határozat időbeli hatályán belül azonos területre benyújtott más célú hasznosítás iránti kérelmet érdemi vizsgálat nélkül el kell utasítani.
+(2) A határozat időbeli hatályán belül azonos területre benyújtott más célú hasznosítás iránti kérelmet – a 15. § (1a) bekezdésében meghatározott eset kivételével – érdemi vizsgálat nélkül el kell utasítani.
 
 (3) A honvédelmi vagy rendészeti feladatok ellátásával kapcsolatos más célú hasznosításra e törvény rendelkezéseit akkor kell alkalmazni, ha törvény eltérően nem rendelkezik.
 
@@ -164,6 +166,8 @@ a termőföld védelméről
 
 15. § (1) A belterületbe vonás esetén a 9–13. §-ban foglaltakat az alábbi eltérésekkel kell alkalmazni.
 
+(1a) A 13. § (2) bekezdése nem alkalmazható, ha a belterületbe vonás iránti kérelem olyan földrészletet is tartalmaz, amelynek végleges más célú hasznosítását az ingatlanügyi hatóság már engedélyezte, és az engedély időbeli hatálya még nem járt le.
+
 (2) Külterületi termőföld belterületbe vonása iránti kérelmet kizárólag az önkormányzat terjeszthet elő. A kérelemhez csatolni kell – az érintett földrészletek helyrajzi számait és a területfelhasználási célt tartalmazó – képviselő-testületi döntést, valamint a településszerkezeti terv kivonatát. A kérelemhez az önkormányzatnak mellékelnie kell arra vonatkozó írásbeli nyilatkozatát, miszerint a földrészleteket az (5) bekezdés szerint kívánja belterületbe vonni.
 
 (3) Belterületi, illetőleg beépítésre szánt területi felhasználásra kerülő területek folyamatosan, a településfejlesztés megvalósításától függően vonhatók a belterületbe.
@@ -173,6 +177,8 @@ a termőföld védelméről
 (5) El kell utasítani a belterületbe vonás iránti kérelmet, ha az nem olyan földrészletekre vonatkozik, amelyeket az önkormányzat a településszerkezeti tervben meghatározott célra 4 éven belül ténylegesen felhasználni tervez.
 
 (6) Új község alakítása, településegyesítés megszüntetése esetén a belterületbe vonás során a (2) bekezdés utolsó mondatát, továbbá a (3)–(5) bekezdés rendelkezéseit nem kell alkalmazni.
+
+15/A. § (1) Ha az ingatlanügyi hatóság a 15. § (1a) bekezdésében meghatározott körülmény fennállása mellett a termőföld belterületbe vonását engedélyezi, ezen engedély jogerőre emelkedése napjával a korábban kiadott végleges más célú hasznosítás engedélyezéséről szóló határozat hatályát veszti, feltéve, hogy a 22. § (4) bekezdés a) pontjában foglalt földvédelmi járulékfizetési kötelezettség esedékessége a belterületbe vonás engedélyezéséről szóló határozat meghozatalának napjáig nem állt be. A végleges más célú hasznosítás engedélyezéséről szóló határozat hatályának megszűnéséről a belterületbe vonás engedélyezéséről szóló határozatban kell rendelkezni.
 
 ### Más célú hasznosítás engedély nélkül
 
@@ -274,6 +280,8 @@ engedélyezik.
 - c) időleges más célú hasznosítás esetén az eredeti állapot helyreállítását elfogadó határozat jogerőre emelkedését követő 30 napon belül
 
 esedékes.
+
+(4a) Ha az ingatlanügyi hatóság a 15. § (1a) bekezdésében meghatározott körülmény fennállása mellett a termőföld belterületbe vonását engedélyezi, és az erről szóló határozat meghozatalának napjáig a korábban kiadott végleges más célú hasznosítás engedélyezéséről szóló határozat alapján a 22. § (4) bekezdés a) pontjában foglalt földvédelmi járulékfizetési kötelezettség esedékessége már beállt, a belterületbe vonás miatt a földvédelmi járulék összegét a termőföld végleges más célú hasznosításának engedélyezése miatt kiszabott jogerős határozatban megállapított földvédelmi járulék összegével csökkentett mértékben kell megállapítani.
 
 (5) A járulék fizetése alól felmentés nem adható és részletfizetési vagy egyéb kedvezmény sem engedélyezhető.
 
@@ -683,7 +691,7 @@ b) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez 
   - a) egy osztállyal gyengébb, akkor a két minőségi osztály szerint számított földvédelmi járulék különbözetének háromszorosa;
   - b) legalább két osztállyal gyengébb, akkor az ingatlan-nyilvántartásban szereplő minőségi osztály alapján számított földvédelmi járulék háromszorosa;
 - 2.4. a 24. § (1) bekezdésének e) pontjában foglalt esetben a termőföldnek az engedélyező határozatban előírt határidő lejárta és a tényleges helyreállítás időpontja közötti időre a más célú időleges hasznosításáért fizetendő földvédelmi járulék háromszorosa.
-- 2.5. A 24. § (1) bekezdésének g) pontjában foglalt esetben a bírság összege
+- 2.5. A 24. § (1) bekezdésének f) pontjában foglalt esetben a bírság összege
   - a) ha az engedély nélkül, vagy annak előírásaitól eltérően más célra hasznosított termőföldet eredeti állapotába helyreállítják, a föld más célú időleges hasznosításáért fizetendő földvédelmi járulék háromszorosa;
   - b) ha az engedély nélkül vagy annak előírásaitól eltérően más célra hasznosított termőföld más célú hasznosítása folytatásához az ingatlanügyi hatóság hozzájárult, a föld végleges más célú használatáért fizetendő földvédelmi járulék háromszorosa.
 - 2.6. Ha a terület AK értéke nem szerepel az ingatlan-nyilvántartásban, a bírság összegét a településen levő szántók átlagos AK értéke alapján, a negyedik minőségi osztályra vonatkozó szorzók alkalmazásával kell megállapítani.

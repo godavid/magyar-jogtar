@@ -83,7 +83,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 
 (5) A keltető- és tenyésztojást tenyészetazonosító jelzéssel kell ellátni, és a tenyésztojást az elismert tenyésztő szervezet származási igazolásának, a keltetőtojást pedig az azt termelő állomány származási igazolása alapján kiállított szállítólevélnek kell kísérnie.
 
-6. § A tenyészállat-kiállítást, -árverést a vonatkozó állat-egészségügyi, közegészségügyi és egyéb előírások megtartásával, az elismert tenyésztő szervezet, több faj, illetve fajta együttes részvétele esetén az elismert tenyésztő egyesületek (szövetségek) által létrehozott szövetség hozzájárulásával, a tenyésztési hatóság felügyeletével lehet tartani. Eb- és macskafajták esetében a tenyészállat-kiállítás és -árverés megtartásához az elismert tenyésztő szervezet, illetve elismert tenyésztő egyesületek (szövetségek) által létrehozott szövetség hozzájárulása és a tenyésztési hatóság felügyelete nem szükséges.
+6. § A tenyészállat-kiállítást, -árverést a vonatkozó állat-egészségügyi, közegészségügyi és egyéb előírások megtartásával, az elismert tenyésztő szervezet, több faj, illetve fajta együttes részvétele esetén az elismert tenyésztő egyesületek (szövetségek) által létrehozott szövetség hozzájárulásával, a tenyésztési hatóság felügyeletével lehet tartani.
 
 ### Teljesítményvizsgálat, tenyészértékbecslés
 
@@ -263,7 +263,7 @@ Az Országgyűlés annak érdekében, hogy a gazdasági célú állattenyészté
 - c) képviseli a magyar állattenyésztést hazai és a nemzetközi fórumokon;
 - d) ellátja a tenyésztési hatóság által – meghatározott feltételekkel – ráruházott feladatokat.
 
-(3) Az (1) és (2) bekezdésben foglalt tevékenységet kizárólag elismert vagy ideiglenesen elismert tenyésztő szervezet végezheti.
+(3) Az (1) bekezdésben foglalt tevékenységet kizárólag elismert vagy ideiglenesen elismert tenyésztő szervezet végezheti.
 
 ### Tenyésztő szervezetkénti elismerés
 
@@ -537,7 +537,7 @@ való megfelelést szolgálja.
 
 ### Átmeneti rendelkezések
 
-48. § (1)
+48. § (1) Eb- és macskafajták esetében a tenyészállat-kiállításhoz és -árverezéshez az elismert tenyésztő szervezet, illetve elismert tenyésztő egyesület (szövetségek) által létrehozott szövetség hozzájárulása és a tenyésztési hatóság felügyelete 2012. július 1-je után megtartott tenyészállat-kiállításhoz és -árveréshez szükséges.
 
 (2) A törvény hatálybalépésekor bármely elismert tenyésztő szervezet által vezetett, államilag hitelesített tenyésztési nyilvántartás törzskönyvnek vagy tenyésztési főkönyvnek minősül. A törvény hatálybalépése előtt ilyen tevékenységet folytató szervezetek adataikat kötelesek az újonnan elismert tenyésztő szervezet részére térítésmentesen átadni.
 
