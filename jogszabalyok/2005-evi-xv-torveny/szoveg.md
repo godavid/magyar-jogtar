@@ -396,6 +396,8 @@ Vhr. 11/A. § (1) A létesítmény bezárásának minősül:
 
 (3) A légiközlekedési kibocsátási egységeket kizárólag a légiközlekedési kibocsátási egységek visszaadásával kapcsolatos kötelezettségek teljesítésére lehet felhasználni. A légijármű üzemben tartó a visszaadási kötelezettség teljesítéséhez felhasználhat kibocsátási egységet.
 
+(4) A szén-dioxid geológiai tárolására használt tárolóhely üzemeltetője a bányászatról szóló törvényben meghatározott szivárgás esetén köteles a szivárgást követő év április 30-ig a környezetbe jutó üvegházhatású gázokkal egyenértékű kibocsátási egységet a magyar állam részére visszaadni.
+
 ### Az ÜHG-egységek átruházása
 
 Üht. 12. § (1) Az ÜHG-egységek az EGT-megállapodásban részes államok, az ott lakóhellyel rendelkező bármely természetes személy, székhellyel rendelkező jogi személy vagy jogi személyiséggel nem rendelkező szervezet részére szabadon átruházhatók.
@@ -565,7 +567,7 @@ vonatkozó adatok környezeti információnak minősülnek.
 
 (6) Amennyiben a légijármű üzemben tartó nem tesz eleget az e törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben előírt követelményeknek, és az e törvényben meghatározott egyéb jogkövetkezmény alkalmazása sem vezet eredményre, a miniszter kérelemmel fordul a Bizottsághoz, hogy az érintett légijármű üzemben tartóra vonatkozóan működési tilalmat állapítson meg.
 
-(7)
+(7) Ha a szén-dioxid geológiai tárolására használt tárolóhely üzemeltetője a kibocsátási egységek (4) bekezdés szerinti visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a környezetvédelmi hatóság – a tárolási engedélyest e törvény végrehajtására kiadott jogszabályban meghatározott mértékű – bírság megfizetésére kötelezi.
 
 ### Jogkövetkezmények
 
@@ -668,7 +670,8 @@ rendeletben állapítsa meg.
 
 - 1. az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és tanácsi irányelvnek;
 - 2. az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek a Kiotói Jegyzőkönyv projektmechanizmusaira tekintettel történő módosításáról szóló, 2004. október 27-i 2004/101/EK európai parlamenti és tanácsi irányelvnek;
-- 3. a 2003/87/EK irányelvnek az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének a légiközlekedésre történő kiterjesztése céljából történő módosításáról szóló, 2008. november 19-i 2008/101/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+- 3. a 2003/87/EK irányelvnek az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének a légiközlekedésre történő kiterjesztése céljából történő módosításáról szóló, 2008. november 19-i 2008/101/EK európai parlamenti és tanácsi irányelvnek
+- 4. a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 17. cikk (2) bekezdésének, 18. cikk (1) bekezdésének és a 28. cikkének való megfelelést szolgálja.
 
 ### Átmeneti és záró rendelkezések
 
