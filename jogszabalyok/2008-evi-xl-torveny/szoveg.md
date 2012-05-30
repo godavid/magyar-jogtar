@@ -630,10 +630,12 @@ saját fogyasztására földgázt vásárolni.
 (3a) A fogyasztóvédelmi hatóság eljárása során a fogyasztóvédelemről szóló törvényben foglalt jogkövetkezményeken kívül – jogsértés megállapítása esetén – az alábbi jogkövetkezményeket is alkalmazhatja:
 
 - a) az engedélyes üzletszabályzatában foglaltak betartására kötelezés,
-- b) az engedélyes olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása, és
+- b) az engedélyes olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása vagy a jogkövetkezmény alkalmazásának megtiltása, és
 - c) amennyiben a felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
 
-(4) Az engedélyesekkel szemben felmerülő panaszok ügyében – az (1) bekezdésben foglaltak kivételével – a Hivatal jár el.
+(3b) A 64. § (1) bekezdésében foglaltaktól eltérően a lakossági fogyasztók elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a földgázellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó rendelkezések megsértése esetén is a Hivatal jár el, ha azok szerződés nélküli vételezéssel, szabálytalan vételezéssel vagy ezek jogkövetkezményeivel is kapcsolatosak.
+
+(4) Az engedélyesekkel szemben felmerülő panaszok ügyében – az (1) bekezdésben foglaltak kivételével – a Hivatal jár el. A Hivatal eljárása során a (3a) bekezdés szerinti jogkövetkezményeket is alkalmazhatja.
 
 (5) A felhasználó köteles panaszával – a hatósági eljárást megelőzően – igazolható módon az engedélyeshez fordulni.
 
@@ -1839,7 +1841,7 @@ körét és azok díjait, a tárgyalásos földgáztárolói hozzáféréshez ka
   - ke) a 83/A. § (1) bekezdése szerinti esetben köteles pályázatot kiírni;
 - l) az egyes engedélyesekre – a jogszabályban meghatározott keretek között – határozatban állapítja meg az engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, valamint elvárt színvonalát, a felhasználókkal való kapcsolattartás módjára vonatkozó minimális követelményeket, a felhasználók tájékoztatásának részletes szabályait, továbbá a rendszerüzemeltetők vonatkozásában az együttműködő földgázrendszer biztonságos üzemeltetésére vonatkozó minimális követelményeket;
 - m) dönt a rendszerüzemeltetővel, illetve a telephelyi engedélyessel szemben felmerülő, csatlakozással vagy az együttműködő földgázrendszer megfelelő minőségben való rendelkezésre állásának kérdésével kapcsolatos felhasználói panaszok ügyében; ellenőrzi a felhasználói igények kielégítését és a felhasználók által a hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását;
-- n) dönt az engedélyesekkel szemben felmerülő panaszok ügyében, kivéve az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a földgázellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó jogszabályi előírások megsértésével összefüggő lakossági fogyasztói panaszokat;
+- n) dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve a 64. § (1) bekezdése szerinti lakossági fogyasztói panaszokat;
 - o) a folyamatos és biztonságos földgázellátás fenntartása érdekében folyamatosan ellenőrzi
   - oa) a földgázvezetékek és a földgáztárolók kapacitását, a földgázkereskedő rendelkezésre álló gázforrásait, a tárolt földgáz mennyiségeket, és a szállítóvezeték egyensúlyozáshoz rendelkezésre álló eszközeit, gázforrásait,
   - ob) az együttműködő földgázrendszer kapacitásában beálló változásokat,
@@ -1985,7 +1987,9 @@ az Európai Unió szerveivel
 - 10. az adópolitikáért felelős miniszterrel egyetértésben a Magyar Energia Hivatal részére, a kérelemre indult eljárásokért fizetendő igazgatási-szolgáltatási díjak mértékét, valamint a díjak fizetésére vonatkozó részletes szabályokat,
 - 11. az e törvény 138/A. § (1) bekezdésében meghatározott bevételi hiány mértékét, a bevételi hiány fedezetét biztosító pénzeszköz mértékét, megfizetésének, kezelésének és felhasználásának részletes szabályait, valamint a kifizetések rendjét,
 - 12. a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. év CXXVII. törvény 57. § (2) bekezdés c) pont ca) alpontjában meghatározott minősített földgázellátási üzemzavar bekövetkezésének, illetve megszűnésének tényét és időpontját,
-- 12. földgázellátási válsághelyzet II. fokozata esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát.
+- 12.
+- 13. földgázellátási válsághelyzet II. fokozata esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
+- 14. a rendszerüzemeltetők által a felhasználók igénye alapján külön díj ellenében végezhető alapszolgáltatásokon túli egyéb szolgáltatások, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások, valamint a rendszerüzemeltető által az engedélyesek részére külön díj ellenében végezhető szolgáltatások körét és azok díjait, a tárgyalásos földgáztárolói hozzáféréshez kapcsolódó, külön díj ellenében nyújtott szolgáltatások kivételével.
 
 (2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -2084,7 +2088,7 @@ földgáz képezi.
 
 (2) A Hivatal az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 105. § (6) bekezdés szerinti költség felülvizsgálatot első alkalommal 2012. december 31-ig folytatja le.
 
-#### 140/C. §
+140/C. § E törvénynek a bányászatról szóló 1993. évi XLVIII. törvény és egyes energetikai tárgyú törvények módosításáról szóló 2012. évi XLVII. törvény 43. § (1) bekezdése által megállapított 64. § (3a) bekezdés b) pontját, a 43. § (2) bekezdéssel megállapított 64. § (3b) bekezdését, a 43. § (3) bekezdésével megállapított 64. § (4) bekezdését, valamint a 44. §-sal megállapított 127. § n) pontját a hatálybalépéskor folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
 
 141. § (1) Az egyetemes szolgáltatók 134. § szerinti földgáz forrásainak biztosítása céljából a Get. szerinti közüzemi nagykereskedő forrásaival rendelkező kereskedő köteles 2011. április 15-ig a 2011. július 1. és 2014. június 30. közötti időszakra és 2012. március 31-ig a 2012. július 1. és 2015. június 30. közötti időszakra az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló rendeletben (a továbbiakban: Felajánlási rendelet) meghatározott egyetemes szolgáltatóknak a részükre szerződéssel még le nem kötött földgázforrásait azonos szerződéses feltételekkel vételre felajánlani. A felajánlás során a 141/A. § szerinti szerződésekben a szerződés megkötésekor meghatározott mennyiséget egyetemes szolgáltató részére lekötöttként kell figyelembe venni.
 

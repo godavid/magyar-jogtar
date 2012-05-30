@@ -801,10 +801,12 @@ vásárolhat villamos energiát.
 (4) A fogyasztóvédelmi hatóság eljárása során a fogyasztóvédelemről szóló törvényben foglalt jogkövetkezményeken kívül – jogsértés megállapítása esetén – az alábbi jogkövetkezményeket is alkalmazhatja:
 
 - a) az engedélyes üzletszabályzatában foglaltak betartására kötelezés;
-- b) az engedélyes olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása; vagy
+- b) az engedélyes olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása vagy a jogkövetkezmény alkalmazásának megtiltása;
 - c) amennyiben a felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
 
-(5) Az engedélyesekkel szemben felmerülő panaszok ügyében – az (1) bekezdésben foglaltak kivételével – a Hivatal jár el.
+(4a) Az 57. § (1) bekezdésében foglaltaktól eltérően a lakossági fogyasztók elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a villamosenergia-ellátásból történő fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó rendelkezések megsértése esetén is a Hivatal jár el, ha azok szerződés nélküli vételezéssel, szabálytalan vételezéssel vagy ezek jogkövetkezményeivel is kapcsolatosak.
+
+(5) Az engedélyesekkel szemben felmerülő panaszok ügyében – az (1) bekezdésben foglaltak kivételével – a Hivatal jár el. A Hivatal eljárása során a (4) bekezdés szerinti jogkövetkezményeket is alkalmazhatja.
 
 (6) A felhasználó a hatósági eljárást megelőzően köteles panaszával – igazolható módon – az engedélyeshez fordulni.
 
@@ -2268,8 +2270,8 @@ villamos energia képezi.
 
 (5) A Hivatal a felhasználók védelmével kapcsolatos feladatai körében:
 
-- 1. eljár a csatlakozásra, a hálózathoz való hozzáférésre, illetve a rendszer megfelelő minőségben való rendelkezésre állására vonatkozó rendelkezéseknek a hálózati engedélyes általi megsértése esetén; ellenőrzi a felhasználói igény kielégítését, ellenőrzi a felhasználók által a közcélú hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását, bírságot szab ki,
-- 2. dönt az engedélyesekkel szemben felmerülő panaszok ügyében, kivéve az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a villamosenergia-ellátásból történő, fizetési késedelem miatt végrehajtott felfüggesztésre vagy kikapcsolásra, illetve a tartozás rendezését követően a felhasználó ellátásba történő ismételt bekapcsolására vonatkozó jogszabályi előírások megsértésével összefüggő lakossági fogyasztói panaszokat, és
+- 1. ellenőrzi a csatlakozással, a hálózathoz való hozzáféréssel, illetve a rendszer megfelelő minőségben való rendelkezésre állásával kapcsolatos felhasználói igények hálózati engedélyes általi kielégítését, ellenőrzi a felhasználók által a közcélú hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását, bírságot szab ki,
+- 2. dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve az 57. § (1) bekezdése szerinti lakossági fogyasztói panaszokat, és
 - 3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról.
 
 (6) A Hivatal az adatszolgáltatással és adatvédelemmel kapcsolatos feladatai körében:
@@ -2277,6 +2279,8 @@ villamos energia képezi.
 - 1. eleget tesz a személyes adatok gyűjtésére vonatkozó, törvényben előírt, valamint a Vhr.-ben meghatározott egyéb adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének,
 - 2. végrehajtja a 714/2009/EK rendelet 20. cikkében meghatározott feladatokat, és
 - 3. éves jelentést készít az Ügynökség és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
+
+(7) A Hivatal egyéb feladatai körében ellátja az energiapolitikáért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésével kapcsolatos feladatokat.
 
 ### Tanúsítási eljárás
 
@@ -2853,6 +2857,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 178/F. § (1) E törvény 76. § (1) bekezdés c) pontjának hatálybalépését követően – a kiadott és hatályos engedélyek visszavonásáig – további, szervezett villamosenergia-piaci működési engedély nem adható ki.
 
 (2) E törvénynek a szervezett villamosenergia-piacra, a szervezett villamosenergia-piaci működési engedélyre és a szervezett villamosenergia-piaci engedélyesre vonatkozó, a 76. § (1) bekezdés c) pontjának hatálybalépésével egyidejűleg hatályba lépő rendelkezéseit a folyamatban lévő ügyekre is alkalmazni kell.
+
+178/G. § E törvénynek a bányászatról szóló 1993. évi XLVIII. törvény és egyes energetikai tárgyú törvények módosításáról szóló 2012. évi XLVII. törvény 40. § (1) bekezdésével megállapított 57. § (4) bekezdés b) pontját, a 40. § (2) bekezdésével megállapított 57. § (4a) bekezdését, a 40. § (3) bekezdésével megállapított 57. § (5) bekezdését, valamint a 41. § (1) bekezdésével megállapított 159. § (5) bekezdés 1. és 2. pontját a hatálybalépéskor folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 

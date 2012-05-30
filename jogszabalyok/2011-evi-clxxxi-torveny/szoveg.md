@@ -641,7 +641,7 @@ biztosítja.
 
 (2) Ha a beszámoló benyújtására köteles szervezet 2012. június 30. napja és 2014. május 30. napja között a korábbi két év beszámolóját is benyújtja az OBH részére azt az OBH az országos névjegyzékben közzéteszi.
 
-106. §
+106. § Az OBH legkésőbb 2012. május 30. napjától köteles biztosítani az informatikai rendszer tesztelését a bíróságok részére.
 
 107–108. §
 
