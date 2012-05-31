@@ -72,7 +72,7 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 (3) A sportszerződést írásba kell foglalni. A sportszerződés csak határozott időre, de legfeljebb 1 évre köthető. A sportszerződés – a sportszövetség vonatkozó szabályzatában meghatározottak szerint – egy versenyrendszer (bajnokság) időtartamára is köthető.
 
-(4) Sportszerződés 14. életévét be nem töltött sportolóval nem köthető, az ezzel ellentétes megállapodás semmis. A 14. életévét betöltött, de 18. életévét még be nem töltött sportolóval kötött sportszerződés csak a sportoló törvényes képviselőjének előzetes beleegyezésével válik érvényessé.
+(4) A 18. életévét még be nem töltött sportolóval kötött sportszerződés csak a sportoló törvényes képviselőjének előzetes irásbeli beleegyezésével válik érvényessé.
 
 (5) Az amatőr sportoló sporttevékenységéért attól a sportszervezettől, sportiskolától vagy utánpótlás-nevelés fejlesztését végző alapítványtól, amellyel az (1) bekezdés szerint tagsági, szerződéses vagy tanulói jogviszonyban áll, valamint más természetes és jogi személytől díjazásban nem részesülhet. Ha a sportszövetség szabályzata a sportág jellegére és a nemzetközi szövetség követelményeire tekintettel másként nem rendelkezik, nem minősül ilyen díjazásnak,
 
@@ -103,6 +103,8 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 (3) Ha az amatőr sportoló tagsági viszony alapján sportol, e jogviszony fennállásának időtartama alatt a sportszervezete előzetes írásbeli hozzájárulása nélkül átigazolhat másik sportszervezethez, az átadó sportszervezet azonban – amennyiben azt a sportszövetség, szabályzatában foglaltak szerint lehetővé teszi – a játékjog használati jogának átruházásáért az (1) bekezdés szerinti költségtérítésre tarthat igényt.
 
 (4) Az amatőr sportoló csak előzetes írásbeli hozzájárulásával igazolható át –ideiglenesen vagy véglegesen – más sportszervezethez. A sportoló a hozzájárulás megadását ellenérték fizetéséhez nem kötheti.
+
+(5) 18. életévét be nem töltött amatőr sportoló sporttevékenységével, igazolásával, illetve átigazolásával kapcsolatos szerződések kereskedelmi ügynök közvetítésével nem köthetők, az ezzel ellentétes megállapodás semmis.
 
 ### A hivatásos sportolókra vonatkozó rendelkezések
 
@@ -502,7 +504,8 @@ versenyrendszert működtethet (bajnokságot írhat ki).
 (2) A versenyrendszerben (bajnokságban) való indulás (nevezés) joga nem ruházható át, az erre irányuló szerződés semmis. E rendelkezés alól kivételt képez, ha:
 
 - a) a sportegyesület versenyrendszerben (bajnokságban) való részvétel céljából gazdasági társaságot alapít (abban tagként részt vesz), és az indulási jogot erre a társaságra ruházza át,
-- b) a sportvállalkozás az amatőr versenyrendszerbe (bajnokságba) kerül, köztartozása nincs, és az indulási jogát a tagjaként működő sportegyesületre ruházza át.
+- b) a sportvállalkozás az amatőr versenyrendszerbe (bajnokságba) kerül, köztartozása nincs, és az indulási jogát a tagjaként működő sportegyesületre ruházza át,
+- c) a sportvállalkozás azonos sportszövetség által kiírt és szervezett versenyrendszer (bajnokság) több bajnoki osztályában rendelkezik indulási (nevezési) joggal, köztartozása nincs, és az alacsonyabb bajnoki osztályban meglévő indulási (nevezési) jogát átadja a vele jogviszonyban lévő sportszervezetnek vagy a sportszervezet által erre a célra alapított sportvállalkozásnak.
 
 (3) Ha a sportszervezet általános jogutóddal szűnik meg, az indulási jog az általános jogutódra átszáll. Ha a sportszervezet általános jogutód nélkül szűnik meg, az indulási jog megszűnik.
 

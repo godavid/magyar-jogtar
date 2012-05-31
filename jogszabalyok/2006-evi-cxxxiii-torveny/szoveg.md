@@ -12,31 +12,23 @@ Az Országgyűlés a helyi önkormányzatokról szóló 1990. évi LXV. törvén
 
 - a) Tárgyév: azon gazdasági év, amelyhez tartozó megosztandó bevételeknek a fővárosi önkormányzat és a kerületi önkormányzatok közötti megosztását a forrásmegosztás határozza meg.
 - b) Bázisév: a tárgyévet kettővel megelőző év.
-- c) Normatív hozzájárulás: a költségvetési törvényben meghatározott – a szociális, gyermekvédelmi, gyermekjóléti, oktatási, nevelési, közművelődési és üdülőhelyi feladatokhoz kapcsolódó – normatív hozzájárulások és az összes normatív, kötött felhasználású támogatás, valamint a normatív részesedésű átengedett személyi jövedelemadó bázisévi önkormányzati költségvetési beszámoló érintett űrlapjainak adatai szerinti összeg.
+- c) Normatív hozzájárulás: a központi költségvetésről szóló törvényben meghatározott – a szociális, gyermekvédelmi, gyermekjóléti, oktatási, nevelési, közművelődési és üdülőhelyi feladatokhoz kapcsolódó – normatív hozzájárulások és az összes normatív, kötött felhasználású támogatás bázisévi önkormányzati költségvetési beszámoló érintett űrlapjainak adatai szerinti összeg.
 - d) Normatív részesedési arány: a fővárosi önkormányzatot és a kerületi önkormányzatokat együttesen megillető – a bázisévi zárszámadási törvénnyel elfogadott – normatív hozzájárulásból a fővárosi önkormányzat és együttesen valamennyi kerületi önkormányzat részesedési aránya, százalékban kifejezve.
 - e) Állandó népesség: a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv nyilvántartása szerinti, a bázisévet követő év január 1-jei állapotnak megfelelően a kerületi önkormányzatok közigazgatási területén állandó lakóhellyel rendelkező természetes személyek száma.
 
-4. § (1) A fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételek körét az Ötv. 64. § (4) bekezdése határozza meg.
-
-(2)
-
-(3)
-
-(4)
-
-(5)
+4. § Az Ötv. 64. § (4) bekezdésében meghatározott, a fővárosi önkormányzatot és a kerületi önkormányzatokat osztottan megillető bevételeket az 5–6. § és az Ötv. 64. § (4a) bekezdése alapján kell megosztani.
 
 5. § (1) A fővárosi önkormányzatot és a kerületi önkormányzatokat az Ötv. 64. § (4) bekezdése szerint osztottan megillető bevételekből 2008. évben a fővárosi önkormányzatot 47%, a kerületi önkormányzatokat együttesen 53% részesedés illeti meg.
 
 (2) A normatív részesedési arány változása esetén a tárgyévet megelőző évi – az (1) bekezdés szerint meghatározott – forrásmegosztási részesedést a normatív részesedési arány százalékpontban meghatározott változása 60%-ának megfelelő mértékben – de legfeljebb 5%-kal – a tárgyévben korrigálni kell.
 
-6. § (1) A kerületi önkormányzatokat megillető részesedés felosztásakor azon feladatok önkormányzati költségvetési beszámoló szerinti bázisévi, a feladatmutatók alapján az átlagköltségek figyelembevételével számított működési kiadásaiból, amelyekhez a központi költségvetés normatív hozzájárulást nyújt, le kell vonni a számított kiadásokhoz kapcsolódó normatív hozzájárulás összegét és a különbséget a normatív hozzájárulások arányában kell megosztani a kerületi önkormányzatok között.
+6. § Az 5. § (1)–(2) bekezdése szerint számított részesedés alapján a kerületeket mindösszesen megillető forrásokat a kerületi önkormányzatok között az alábbiak szerint kell felosztani:
 
-(2) Az (1) bekezdés szerint számított felosztandó forráson felüli rész 40%-át az állandó népesség, 15%-át a belterületi terület, 15%-át a kerület állandó népességének és a belterületi terület nagyságának hányadosa, 15%-át a 2005. év végén az önkormányzati tulajdonban lévő félkomfortos, komfort nélküli és szükséglakások együttes alapterülete és 15%-át a 2005. év végén az önkormányzat területén levő iparosított technológiával épült lakások darabszáma arányában kell megosztani az önkormányzatok között. A számításokban felhasználandó belterületi terület, illetve lakás adatokat a melléklet tartalmazza.
-
-(3) Az állandó népesség (2) bekezdés szerinti súlya évente 2 százalékponttal növekszik, a lakás alapterületé és az iparosított technológiával épült lakások darabszámáé pedig 1-1 százalékponttal csökken.
-
-(4) Az egyes kerületi önkormányzatoknak az (1)–(3) bekezdés szerint számított részesedési aránya a megosztott forrásokból a tárgyévet megelőző év forrásmegosztásához képest maximum 2%-kal nőhet, illetve csökkenhet. A módszer alkalmazása miatt bekövetkező eltérések a forrásmegosztás során az egyes önkormányzatok részesedését növelik vagy csökkentik.
+- a) a kerületi önkormányzatokat az idegenforgalmi adó és a hozzá kapcsolódó normatív hozzájárulás nélkül megillető források felosztásakor azon feladatok önkormányzati költségvetési beszámoló szerinti bázisévi működési kiadásaiból, amelyekhez a központi költségvetés normatív hozzájárulást nyújt, le kell vonni a kiadásokhoz kapcsolódó normatív hozzájárulás összegét, és a forrásokból az így adódó különbséggel (a működési hiánnyal) megegyező összeget a normatív hozzájárulások arányában kell megosztani az összes kerületi önkormányzat között,
+- b) az a) pont szerint számított felosztandó forráson felüli rész 40%-át az állandó népesség, 15%-át a belterületi terület, 15%-át a kerület állandó népességének és a belterületi terület nagyságának hányadosa, 15%-át a 2005. év végén az önkormányzati tulajdonban lévő félkomfortos, komfort nélküli és szükséglakások együttes alapterülete és 15%-át a 2005. év végén az önkormányzat területén levő iparosított technológiával épült lakások darabszáma arányában kell megosztani az önkormányzatok között; a számításokban felhasználandó belterületiterület-, valamint lakásadatokat a Melléklet tartalmazza,
+- c) az állandó népesség b) pont szerinti súlya évente 2 százalékponttal növekszik, a lakás alapterületé és az iparosított technológiával épült lakások darabszámáé pedig 1-1 százalékponttal csökken,
+- d) az egyes kerületi önkormányzatoknak az a)–c) pont szerint számított részesedési aránya a megosztott forrásokból a tárgyévet megelőző év forrásmegosztásához képest maximum 2%-kal nőhet, illetve csökkenhet; a módszer alkalmazása miatt bekövetkező eltérések a forrásmegosztás során az egyes önkormányzatok részesedését növelik vagy csökkentik,
+- e) a kerületi önkormányzatokat megillető idegenforgalmi adó és a hozzá kapcsolódó normatív hozzájárulás összegét a saját közigazgatási területükön a tárgyévben idegenforgalmi adót ki nem vető kerületi önkormányzatok között bázisévi normatív hozzájárulásaik arányában kell megosztani.
 
 7. § (1) Az e törvény szerinti forrásmegosztás elvégzéséhez szükséges, a kerületi önkormányzati költségvetési beszámolókban szereplő, a kincstár által elfogadott adatokat a fővárosi önkormányzat feldolgozza és kiküldi az önkormányzatoknak ellenőrzés céljából a tárgyévet megelőző év október 31. napjáig. A kerületi önkormányzatok az adatellenőrzésnek a tárgyévet megelőző év november 15. napjáig tesznek eleget.
 
@@ -61,6 +53,8 @@ Az Országgyűlés a helyi önkormányzatokról szóló 1990. évi LXV. törvén
 (4) A törvény 3. § c) pontját az 5. § (2) bekezdés vonatkozásában alkalmazni kell a 2010. évi forrásmegosztás 2011. évi korrekciója során is.
 
 (5) E törvény a kihirdetése napján lép hatályba.
+
+10. § E törvénynek a fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásmegosztásról szóló 2006. évi CXXXIII. törvény módosításáról szóló 2012. évi LVIII. törvénnyel megállapított 3. § c) pontját, 4. §-át és 6. §-át a 2011. évi forrásmegosztási rendelet felülvizsgálata és a 2012. évi forrásmegosztás során is figyelembe kell venni.
 
 ### Melléklet a 2006. évi CXXXIII. törvényhez
 
