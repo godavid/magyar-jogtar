@@ -156,7 +156,7 @@ Az Országgyűlés Magyarország 2012. évi költségvetéséről a következő 
 
 (6) A Nemzeti Foglalkoztatási Alap „Szakképzési és felnőttképzési támogatások” elnevezésű eredeti kiadási előirányzat terhére 2012. évben a szakképzési hozzájárulásból 100 millió forintot kell biztosítani a Bethlen Gábor Alap részére a határon túli magyarok szakképzésének, felsőoktatásának és felnőttképzésének a támogatására.
 
-15. § (1) A Kutatási és Technológiai Innovációs Alap 2012. évi forrásai terhére a (2) bekezdésben foglaltak, az Elektronikus Információszolgáltatás Nemzeti Program finanszírozása, a Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény 8. § (4a)–(7) bekezdései szerinti, valamint nemzetközi szerződésen, illetve nemzetközi kötelezettséget keletkeztető külön jogszabályon alapuló, így különösen Magyarország európai uniós tagságából következően vállalt feladatok kivételével új kötelezettség az államháztartásért felelős miniszter egyetértésével vállalható.
+15. § (1) A Kutatási és Technológiai Innovációs Alap 2012. évi forrásai terhére a (2) bekezdésben foglaltak, az Elektronikus Információszolgáltatás Nemzeti Program és a Wigner Adatközpont finanszírozása, a Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény 8. § (4a)–(7) bekezdései szerinti, valamint nemzetközi szerződésen, illetve nemzetközi kötelezettséget keletkeztető külön jogszabályon alapuló, így különösen Magyarország európai uniós tagságából következően vállalt feladatok kivételével új kötelezettség az államháztartásért felelős miniszter egyetértésével vállalható.
 
 (2) A megelőző években 2012. évi kifizetésre vállalt, de meghiúsult támogatások erejéig és tárgyévi kifizetéssel vállalható új kötelezettség.
 

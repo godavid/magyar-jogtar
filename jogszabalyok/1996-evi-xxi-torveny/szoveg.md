@@ -615,7 +615,7 @@ rendszere.
 - i) a területfejlesztési önkormányzati társulások működéséhez kapcsolódó költségvetési hozzájárulás mértékét és felhasználásának módját;
 - j) a területfejlesztés intézményei törvényességi felügyeletének részletes szabályait;
 - j)
-- k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait, valamint a pénzeszközök felhasználásának részletes szabályait,
+- k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait,
 - l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegyűjtésével, számbavételével, megvalósításának kidolgozásával, és ezzel kapcsolatos adatszolgáltatás rendjével kapcsolatos feladatait és eljárás rendjét;
 - m) az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjét;
 - n) a Kormány általános hatáskörű területi államigazgatási szervének, a kistérségi, térségi és regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét;

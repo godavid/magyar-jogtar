@@ -2357,64 +2357,15 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 ### Általános szabályok
 
-139. § (1) A Hatóság részeként Média- és Hírközlési Biztos (a továbbiakban: Biztos) működik. A Biztos az elektronikus hírközlési szolgáltatást, illetve médiaszolgáltatást igénybe vevő felhasználókat, előfizetőket, nézőket, hallgatókat, fogyasztókat, illetve sajtótermék olvasóit megillető, elektronikus hírközléssel és a médiaszolgáltatásokkal, sajtótermékekkel kapcsolatos jogok, valamint méltánylást érdemlő érdekek érvényesülésének elősegítésében működik közre. A Biztos eljár az e törvényben meghatározott ügyekben.
-
-(2) A Biztost az Elnök nevezi ki és menti fel, valamint gyakorolja felette a munkáltatói jogokat. A Biztos főosztályvezetői besorolású köztisztviselő. A Biztos a jelen Fejezet szerinti feladatai ellátása körében nem utasítható, tevékenységéről az Elnöknek, illetve a Médiatanácsnak számol be a 143. §-ban meghatározott módon.
-
-(3) A Biztosra megfelelően alkalmazni kell a 111. § (4) bekezdésben foglaltakat.
-
-(4) A Biztost a feladatai ellátásában az általa vezetett Média- és Hírközlési Biztos Hivatala (a továbbiakban: Biztos hivatala) segíti, a Biztos hivatalának köztisztviselőit az Elnök nevezi ki, illetve menti fel, felettük a kinevezés és a felmentés kivételével a Biztos gyakorolja a munkáltatói jogokat.
-
-(5) A Biztos hivatalának működését, szervezeti felépítését, belső és külső kapcsolatrendszerét a Hatóság Szervezeti és Működési Szabályzata és a Biztos hivatalának ügyrendje határozza meg. A Biztos hivatalának ügyrendjét a Biztos készíti elő és az Elnök hagyja jóvá.
-
-(6) A Biztos hivatalának költségvetését a Hatóság költségvetésén belül, elkülönítetten kell megállapítani.
-
-140. § (1) Valamely médiaszolgáltatás, sajtótermék, valamint elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos olyan magatartás észlelése esetén, amely a médiaszolgáltatásra vagy az elektronikus hírközlési szolgáltatásra vonatkozó szabály megsértésének nem minősül, illetve nem tartozik a Médiatanács, az Elnök és a Hivatal hatáskörébe, de a médiaszolgáltatást, a sajtóterméket, illetve az elektronikus hírközlési szolgáltatást igénybe vevő felhasználók, előfizetők, fogyasztók, valamint a nézők vagy hallgatók méltányolandó érdekének sérelmét okozza vagy okozhatja,
-
-- a) az, akit érdeksérelem ért, vagy akinél érdeksérelem bekövetkezésének közvetlen veszélye áll fenn, vagy
-- b) a fogyasztói érdekek képviseletét ellátó egyesület, ha az érdeksérelem a fogyasztók jelentős számát érinti, vagy érintheti, a Biztos Hivatalánál panasszal élhet.
-
-(2) Az Elnökhöz, a Hivatalhoz, illetve a Médiatanácshoz érkezett olyan kérelmeket, illetve bejelentéseket, amelyek tartalmuk szerint megfelelnek az (1) bekezdésben foglaltaknak, és tartalmazzák a 141. § (5) bekezdés szerinti adatokat, az Elnök, a Hivatal, illetve a Médiatanács öt munkanapon belül átteszi a Biztoshoz, aki azt a továbbiakban hozzá érkezett panaszként bírálja el. Erről, a tényről, valamint az áttételről a kérelmezőt, illetve a bejelentőt az áttétellel egyidejűleg értesíteni kell. A Biztos erre irányuló panasz hiányában hivatalból is jogosult intézkedni, amennyiben az (1) bekezdés b) pontban meghatározott érdeksérelemről egyéb úton tudomást szerez.
+#### 139–140. §
 
 ### A Biztos eljárása
 
-141. § (1) A Biztos eljárása nem hatósági eljárás, hatósági hatáskört nem gyakorolhat, hatósági ügy érdemében döntést nem hozhat. A 140. § (1) bekezdés szerinti panasz nem hatósági ügy. A Biztos a 140. § (1) bekezdés szerinti panaszokkal kapcsolatos eljárása során a 140–141. § szerint jár el. Eljárása során, a panasz kivizsgálása érdekében az e törvényben nem szabályozott kérdésekben megfelelően alkalmazza a Ket. hatósági ellenőrzésre vonatkozó rendelkezéseit, valamint eljárási alapelveit. A Biztos köteles az eljárását a 151. §-ban foglalt határidő szerint lefolytatni.
-
-(2) Az (1) bekezdés szerinti határidőbe nem számít bele
-
-- a) az (5) bekezdés szerinti hiánypótlás ideje,
-- b) a 142. § (1) bekezdés szerinti adatszolgáltatás ideje,
-- c) a 142. § (2) bekezdés szerinti eljárás ideje,
-- d) a 142. § (4) bekezdés szerinti nyilatkozattétel ideje, valamint
-- e) a 142. § (8) bekezdés szerinti közléstől számított azon idő, amíg a szolgáltató vagy kiadó nyilatkozatot tesz, állást foglal, illetve értesíti a Biztost a megtett intézkedésről.
-
-(3) A Biztos a panaszt megvizsgálja, és ha a panasz nyilvánvalóan alaptalan, vagy az abban szereplő érdeksérelem illetőleg annak közvetlen veszélye csekély jelentőségű, illetve a panaszban foglalt ügy nem tartozik a Biztos hatáskörébe, erről a panaszost tizenöt napon belül értesíti. A Biztos az értesítésben szükség szerint tájékoztatja a panaszost az elektronikus hírközlésre, illetve médiaszolgáltatásra vonatkozó szabályban, illetve előfizetői szerződésben meghatározott jogairól és kötelezettségeiről, valamint a számára nyitva álló eljárásokról és jogorvoslatokról. Amennyiben a panaszban foglaltak a Hivatal, az Elnök, a Médiatanács vagy más szerv hatósági hatáskörébe tartoznak, a Biztos tizenöt napon belül átteszi a hatósági hatáskörrel rendelkező szervnek, erről egyidejűleg értesíti a panaszost.
-
-(4) A panaszos kérheti természetes személyazonosító adatainak és lakcímének zárt kezelését. Az iratbetekintési jog biztosítása érdekében a Biztos kivonatot készít a panaszról akként, hogy abból a panaszos kilétére vonatkozóan következtetés ne legyen levonható. A Biztos a panasz kivizsgálása céljából, a kivizsgálásra irányuló eljárás befejezését követő egy évig kezeli a panaszosnak a panasszal közvetlenül összefüggő azon személyes adatait, amelyek az eljárás során a Biztos tudomására jutottak. Erre a tényre a panaszos figyelmét fel kell hívni.
-
-(5) A panaszban meg kell jelölni a panaszos nevét és lakcímét vagy levelezési címét, a Biztos intézkedésére okot adó fennálló vagy fenyegető érdeksérelmet, illetőleg azt a tevékenységet vagy magatartást, amelynek alapján az érdeksérelem, illetve annak közvetlen veszélye valószínűsíthető, valamint a 140. § (1) bekezdésben foglalt egyéb feltételek fennállását valószínűsítő, illetve igazoló körülményeket. Hiányos panasz esetén – amennyiben a rendelkezésre álló adatok szerint a jelentős érdeksérelem valószínűsíthetően fennáll – a Biztos a panaszost határidő megjelölésével hiánypótlásra hívja fel. Egyebekben hiányos panasz esetén, vagy akkor, ha a panaszos a felhívás ellenére a hiánypótlást nem, vagy nem megfelelően teljesítette, a beadvány nem tekinthető panasznak, ezért a Biztos nem jár el.
-
-142. § (1) A Biztos a panasz, illetve az egyéb úton tudomására jutott, a 140. § (1) bekezdés b) pontban meghatározott érdeksérelem kivizsgálása érdekében bármely média-, illetve hírközlési szolgáltatótól, vagy sajtótermék kiadójától az érdeksérelemmel összefüggő adatokat, felvilágosítást és nyilatkozatot kérhet, valamint megfelelően alkalmazhatja a Ket. hatósági ellenőrzésre, valamint e törvénynek a tényállás tisztázására vonatkozó rendelkezései szerinti egyéb eszközöket. Az érintett média-, illetve hírközlési szolgáltató tizenöt napon belül köteles a kért adatot, felvilágosítást, nyilatkozatot a Biztos számára szolgáltatni, abban az esetben is, ha az adat üzleti titoknak minősül. A Biztos köteles a tudomására jutott üzleti titkot megtartani, azt az adatközlő kérésére zárt iratként kezeli.
-
-(2) Amennyiben az érintett média-, illetve hírközlési szolgáltató vagy sajtóterméket kiadó a kért adatot a Biztos számára határidőben nem szolgáltatja, a Biztos a Hivatalhoz fordul. A Hivatal a Biztos kezdeményezésére a Biztos által megjelölt, az érdeksérelemmel összefüggő adat szolgáltatására kötelezi az érintett média-, vagy hírközlési szolgáltatót, illetve kiadót az (1) bekezdésnek megfelelően. Az adatszolgáltatásra megfelelő határidőt kell előírni. A kötelezett szolgáltató vagy kiadó a közléstől számított nyolc napon belül kérheti a döntés felülvizsgálatát a Fővárosi Törvényszéktől. A Fővárosi Törvényszék nemperes eljárásban nyolc napon belül dönt. Amennyiben a szolgáltató a kért adatokat az előírt határidőre nem, hiányosan vagy a valóságnak nem megfelelően bocsátja a Hivatal rendelkezésére, a Hivatal a 175. § (8) bekezdésben meghatározott jogkövetkezményeket alkalmazhatja. A Hivatal a beérkezett adatokat átadja a Biztosnak.
-
-(3) A Biztos eljárása során az érdeksérelemre vonatkozóan a hírközlési vagy médiaszolgáltatóval, vagy sajtótermék kiadójával szóban vagy írásban egyeztetést folytat (egyeztetési eljárás). Az egyeztetési eljárásba a Biztos – amennyiben ezt célravezetőnek ítéli, és a panaszos ezt kéri – bevonja a panaszost, valamint, ha az ügy a fogyasztók jelentős számát érinti, bevonhatja a fogyasztói érdekek képviseletét ellátó egyesület képviselőjét.
-
-(4) Az egyeztetési eljárásban a Biztos az érdeksérelem leírását – határidő jelölésével – nyilatkozattételre megküldi a hírközlési vagy médiaszolgáltatónak, illetve sajtótermék kiadójának.
-
-(5) A hírközlési vagy médiaszolgáltató, illetve a sajtóterméket kiadó írásban közölt nyilatkozata, illetve válasza alapján – indokolt esetben – a Biztos személyes egyeztetésre hívja az érintett szolgáltató képviselőjét, illetve szükséges esetben a panaszost, valamint képviselője útján a fogyasztói érdekek képviseletét ellátó egyesületet.
-
-(6) Amennyiben a Biztos és a hírközlési vagy médiaszolgáltató, sajtóterméket kiadó, illetve műsorterjesztő között nem jön létre megegyezés az érdeksérelem, illetve annak közvetlen veszélye elhárítása érdekében, a Biztos az egyeztetési eljárás eredményét jelentésben rögzíti, és a (8)–(9) bekezdésben foglaltaknak megfelelően jár el. Amennyiben az egyeztetési eljárás eredményre vezet, a megegyezést a Biztos és az érintett szolgáltató megállapodásban rögzítik, melyet a Biztos a panaszosnak megküld, illetve ha az eljárás tárgya a fogyasztók jelentős számát érinti a megállapodást a Biztos a honlapján közzéteszi. A megállapodásban a felek rögzítik az érdeksérelem elhárításának módját.
-
-(7) A megállapodás a felek olyan egybehangzó, önkéntes jognyilatkozata, amelyet a Biztos az érintett szolgáltatóval oly módon köt meg, hogy ezáltal az adott média-, illetve elektronikus hírközlési szolgáltatást, illetve sajtóterméket igénybe vevő felhasználók, előfizetők, fogyasztók, valamint a nézők, hallgatók, illetve olvasók válnak jogosulttá. A felhasználókra, előfizetőkre, fogyasztókra, valamint a nézőkre, hallgatókra és olvasókra a megállapodásból eredően kötelezettségek nem származhatnak. A megállapodásban foglaltak az érintett felhasználóknak, előfizetőknek, fogyasztóknak, valamint a nézőknek, hallgatóknak és olvasóknak az érintett szolgáltatóval fennálló jogviszonya részét képezi oly módon, hogy a megállapodásban foglaltak egyedi ügyben alkalmazhatóak, arra az érintett felhasználó, előfizető, fogyasztó, valamint a néző, hallgató és olvasó egyedi ügyben hivatkozhat, illetve a megállapodásban foglaltak megtartását a Hatóság hatósági felügyelet keretében ellenőrizheti. A jelen bekezdés szerinti megállapodást kötő szolgáltatónak a fogyasztói érdekek hatékony érvényesítése körében mutatott együttműködését a Hatóság a szolgáltatót érintő egyéb hatósági ügyekben is figyelembe veszi.
-
-(8) Amennyiben az egyeztetési eljárás nem vezet eredményre, a Biztos kezdeményezi (a továbbiakban: kezdeményezés) a hírközlési vagy médiaszolgáltató vagy sajtóterméket kiadó vezető tisztségviselőjénél az érdeksérelem, illetve az érdeksérelem közvetlen veszélyének megszüntetését vagy orvoslását. A szolgáltató nyilatkozatáról, továbbá a kezdeményezésre vonatkozó állásfoglalásáról és a megtett intézkedésről a kezdeményezés közlésétől számított tizenöt napon belül értesíti a Biztost.
-
-(9) A Biztos a kezdeményezés eredményéről jelentést készít, amelyről értesíti az Elnököt. A jelentésben a biztos az érdeksérelem körülményei mellett részletesen feltárja a szolgáltatónak a fennálló vagy fenyegető érdeksérelem kezelésével kapcsolatos magatartását, különösen az érdeksérelem kiküszöbölése és a fogyasztói jólét növelése érdekében tanúsított együttműködési készségét. A Biztos a jelentését nyilvánosságra hozza, amennyiben az a fogyasztók jelentős számát érinti, vagy érintheti, illetve a jelentés alapján ajánlást vagy tájékoztatót adhat ki a fogyasztók számára a további érdeksérelmek elkerülése érdekében.
+#### 141–142. §
 
 ### A Biztos beszámolója
 
-143. § A Biztos a lefolytatott eljárások tapasztalatairól, a kezdeményezések és ajánlások eredményességéről, jelentéseiről, javaslatairól negyedévente beszámolót készít – a hírközlési szolgáltatókat és a műsorterjesztőket érintő ügyek tekintetében – az Elnöknek és – a médiaszolgáltatókat, valamint a sajtótermékek kiadóit érintő ügyek tekintetében – a Médiatanácsnak.
+#### 143. §
 
 ### IV. Fejezet — A MÉDIATANÁCS ÉS A NEMZETI MÉDIA- ÉS HÍRKÖZLÉSI HATÓSÁG HIVATALÁNAK ELJÁRÁSÁRA VONATKOZÓ ELŐÍRÁSOK
 
