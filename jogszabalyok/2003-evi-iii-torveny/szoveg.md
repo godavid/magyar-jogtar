@@ -22,7 +22,7 @@ keletkeztek és irattári anyagába tartoztak.
 - 6. operatív kapcsolat: az a személy, akit az e törvény hatálya alá tartozó iratokat keletkeztető szervezetek ,,társadalmi kapcsolatként'' vagy ,,alkalmi kapcsolatként'' tartottak nyilván;
 - 7. harmadik személy: a 3–6. pont alá nem eső más természetes személy, akiről az 1. § (1) bekezdés a)–b) pontjában meghatározott iratokat keletkeztető szervezetek adatokat kezeltek;
 - 8. hozzátartozó: a házastárs, az élettárs (amennyiben a házasság, illetve az élettársi közösség az irat keletkezésekor és az érintett halálakor is fennállt), az egyeneságbeli rokon, az örökbefogadott, a mostoha- és nevelt gyermek, az örökbefogadó, a mostoha- és nevelőszülő, a testvér;
-- 9. tudományos kutató: az a személy, aki rendelkezik az Ltv. 23. § (2)–(3) bekezdésében szabályozott kuratórium által kiadott kutatási engedéllyel;
+- 9. tudományos kutató: az a személy, aki rendelkezik a Levéltár által kiadott kutatási engedéllyel;
 - 10. kérelmező: az érintett, a tudományos kutató és az 5. § szerint az adatokat megismerő személy;
 - 11. anonimizálás: a személy és az adat közötti kapcsolat felismerését kizáró technikai eljárás;
 - 12. nemzetbiztonsági érdek: a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § a) pontjában meghatározott érdek;
@@ -57,11 +57,11 @@ keletkeztek és irattári anyagába tartoztak.
 
 (3) A megfigyelt személy, illetve a harmadik személy megismerheti és a harmadik személy, illetve a megfigyelt személy hozzájárulásával nyilvánosságra hozhatja a megfigyelt és a harmadik személy között történt személyes érintkezéseket rögzítő vagy leíró adatokat (pl. személyes találkozásról, beszélgetésről gyűjtött adatok).
 
-4. § (1) A tudományos kutató a Levéltárban kezelt iratokban foglalt adatokat a (2)–(3) bekezdésben foglalt korlátok között megismerheti, és az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint felhasználhatja.
+4. § (1) A Levéltár a tudományos kutatást akkor engedélyezi, ha a kutató eleget tesz az Ltv. 24. § (3) bekezdésében vagy 24/A. § (1) bekezdésében foglalt követelményeknek, továbbá a kérelméhez csatolja részletes kutatási tervét és – ha azzal rendelkezik – publikációs jegyzékét. A tudományos kutató a Levéltárban kezelt iratokban foglalt adatokat a (2) és (3) bekezdésben meghatározott korlátok között megismerheti, és az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint felhasználhatja.
 
 (2) A tudományos kutató az egészségi állapotra, kóros szenvedélyre és szexuális életre vonatkozó adatokat az érintett halálozási évét követő harminc év után ismerheti meg. Ha a halálozás éve nem ismert, a védelmi idő az érintett születésétől számított kilencven év, ha pedig a születés és a halálozás időpontja sem ismert, a levéltári anyag keletkezésétől számított hatvan év.
 
-(3) A tudományos kutató a faji eredetre, a nemzeti, nemzetiségi és etnikai hovatartozásra, a vallásos vagy más világnézeti meggyőződésre vonatkozó adatokat – a védelmi időn belül – anonimizáltan ismerheti meg. Az Ltv. 23. § (2) bekezdése szerinti kuratórium az anonimizálás nélküli megismerést akkor engedélyezi, ha a megfigyelés célja a faji eredettel, a nemzeti, nemzetiségi és etnikai hovatartozással, illetve a vallásos vagy más világnézeti meggyőződéssel összefüggésbe hozható, és a tudományos kutató igazolja, hogy korábban elkezdett, szakmai folyóiratokban megjelent publikációkkal alátámasztott kutatásához ezen adatok megismerése elengedhetetlenül szükséges.
+(3) A tudományos kutató a faji eredetre, a nemzetiségi és etnikai hovatartozásra, a vallásos vagy más világnézeti meggyőződésre vonatkozó adatokat – a védelmi időn belül – anonimizáltan ismerheti meg. A Levéltár az anonimizálás nélküli megismerést akkor engedélyezi, ha a megfigyelés célja a faji eredettel, a nemzeti, nemzetiségi és etnikai hovatartozással, illetve a vallásos vagy más világnézeti meggyőződéssel összefüggésbe hozható, és a tudományos kutató igazolja, hogy korábban elkezdett és publikációval alátámasztott kutatásához ezen adatok megismerése szükséges.
 
 5. § (1) Anonimizált formában bárki megismerheti és nyilvánosságra hozhatja a Levéltárban kezelt iratokat.
 
