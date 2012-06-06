@@ -23,20 +23,20 @@ A tudományos kutatások és a kutatási infrastruktúra független, széles kö
 
 ### Az OTKA szervezete
 
-2. § (1) Az OTKA vezető testülete az Országos Tudományos Kutatási Alapprogramok Bizottsága (a továbbiakban: OTKA Bizottság), amely elnökből, két alelnökből és 15 tagból áll. Az egyik alelnök személyére a Magyar Rektori Konferencia, a Főiskolai Főigazgatói Konferencia, valamint a Művészeti Egyetemek Rektori Széke együttesen, a másikra az Akadémiai Kutatóhelyek Tanácsa tesz javaslatot.
+2. § (1) Az OTKA vezető testülete az Országos Tudományos Kutatási Alapprogramok Bizottsága (a továbbiakban: OTKA Bizottság), amely elnökből, két alelnökből és 15 tagból áll. Az egyik alelnök személyére a Magyar Rektori Konferencia, valamint a Művészeti Egyetemek Rektori Széke együttesen, a másikra a Magyar Tudományos Akadémia elnöke tesz javaslatot.
 
 (2) Az elnököt és az alelnököket hároméves időtartamra – az Akadémia elnöke és az oktatásért felelős miniszter közös javaslatára – a miniszterelnök bízza meg. A megbízatás egy alkalommal, újabb hároméves időtartamra meghosszabbítható.
 
 (3) Az OTKA Bizottság tagjai:
 
-- a) az oktatásért felelős miniszter által – az agrárpolitikáért felelős miniszter, a gazdaságpolitikáért felelős miniszter, a környezetvédelemért felelős miniszter, a területfejlesztésért felelős miniszter és az egészségügyért felelős miniszter egyetértésével – javasolt öt szakértő;
+- a) az oktatásért felelős miniszter és az egészségügyért felelős miniszter által – az agrárpolitikáért felelős miniszter és a környezetvédelemért felelős miniszter, a gazdaságpolitikáért felelős miniszter és a kutatás-fejlesztésért és technológiai innovációért felelős miniszter egyetértésével – javasolt öt szakértő;
 - b) az Akadémia elnöke által javasolt két szakértő;
 - c) a közgyűjtemények igazgatói által javasolt egy szakértő;
 - d) a felsőoktatási konferenciák által javasolt három szakértő;
-- e) az Országos Műszaki Fejlesztési Bizottság ügyvezető elnöke által javasolt egy szakértő;
+- e) a Nemzeti Innovációs Hivatal elnöke által javasolt egy szakértő;
 - f) a három Tudományterületi Kollégium elnöke.
 
-(4) Az OTKA Bizottság tagjait – a Tudományterületi Kollégium elnökeinek kivételével – a miniszterelnök bízza meg hároméves időtartamra. A megbízatás egy alkalommal, újabb hároméves időtartamra meghosszabbítható. Az OTKA Bizottság nem köztisztviselői jogviszonyban álló tagjai nem lehetnek egyidejűleg más, központi költségvetésből finanszírozott tudománytámogató program vezető testületének tagjai. Az OTKA Bizottság 2. § (3) bekezdés a) pontja szerint felkért köztisztviselők tisztsége köztisztviselői jogviszonyuk megszűnése esetén megszűnik.
+(4) Az OTKA Bizottság tagjait – a Tudományterületi Kollégium elnökeinek kivételével – a miniszterelnök bízza meg hároméves időtartamra. A megbízatás egy alkalommal, újabb hároméves időtartamra meghosszabbítható. Az OTKA Bizottság nem kormánytisztviselői jogviszonyban álló tagjai nem lehetnek egyidejűleg más, központi költségvetésből finanszírozott tudománytámogató program vezető testületének tagjai. Az OTKA Bizottság 2. § (3) bekezdés a) pontja szerint felkért kormánytisztviselők tisztsége kormánytisztviselői jogviszonyuk megszűnése esetén megszűnik.
 
 (5) Az OTKA Bizottság keretében tudományterületenként Tudományterületi Kollégiumok működnek. A Tudományterületi Kollégiumok elnökeit és tagjait az OTKA Bizottság titkos szavazással kialakított javaslata alapján a Bizottság elnöke kéri fel három évre. A Kollégiumok elnökeinek megbízatása egy alkalommal, újabb hároméves időtartamra meghosszabbítható.
 
@@ -62,7 +62,7 @@ A tudományos kutatások és a kutatási infrastruktúra független, széles kö
 
 3. § (1) Az OTKA működésével kapcsolatos technikai, pénzügyi, szervezési és adminisztratív feladatokat az OTKA Iroda (a továbbiakban: Iroda) látja el.
 
-(2) Az Iroda központi költségvetési szerv, felügyeletét az Akadémia főtitkára látja el.
+(2) Az Iroda központi költségvetési szerv, felügyeletét az Akadémia elnöke látja el.
 
 (3) Az Iroda működési kiadásai – ideértve a pályázatokat véleményező szakértők tiszteletdíját is – az OTKA előirányzatát terhelik.
 
@@ -88,13 +88,13 @@ teljesíthetők személyi kiadások és járulékaik, valamint dologi és felhal
 
 (6) Az OTKA Bizottság tagjai nem vehetnek részt olyan OTKA-támogatást igénylő pályázatokban, amelyet megbízatásuk időszaka alatt nyújtanak be. A Tudományterületi Kollégiumok tagjainak pályázatait az OTKA Bizottság bírálja el. A bírálati folyamatban nem vehet részt és nem szavazhat az, aki az adott pályázatban érdekelt, vagy egyéb okból elfogult.
 
-(7) Egy témapályázatra az OTKA-támogatás általában három évre, különleges esetben legfeljebb öt évre vehető igénybe.
+(7) Egy témapályázatra az OTKA-támogatás a pályázat jellegére tekintettel az OTKA Bizottság döntésének megfelelően legfeljebb négy évre, amennyiben a pályázatban foglaltak megvalósítása hosszabb időt igényel öt évre vehető igénybe.
 
-(8) Az OTKA Bizottság a tárgyévben rendelkezésre álló költségvetési előirányzat 75%-áig a tárgyévet követő első, 50%-áig a második és 25%-áig a harmadik évre vállalhat előre kötelezettséget, az előző években vállaltak beszámításával.
+(8) Az OTKA Bizottság a tárgyévet követő első évre a tárgyévben rendelkezésre álló költségvetési előirányzat 90%-áig, a második évre 70%-áig, a harmadik évre 40%-áig, azon túl legfeljebb 20%-áig vállalhat kötelezettséget, beleszámítva az előző években vállaltakat.
 
 ### A támogatások odaítélése és rendelkezésre bocsátása
 
-5. § (1) A beérkező pályázatokat az OTKA Tudományterületi Kollégiumain belül működő zsűrik által felkért magyar és/vagy külföldi szakértők véleményezik szakmai és költségtervezési szempontból. A vélemények alapján a zsűrik rangsorolják a pályázatokat, és javaslatot tesznek a támogatásukra. A rangsorok nyilvánosak. A szakmai zsűrik észrevételei alapján, az OTKA Bizottság által meghatározott kiemelt tudományos kutatási irányok figyelembevételével, a Tudományterületi Kollégiumok javaslatot tesznek az OTKA Bizottságnak a pályázatok támogatására a költségterv fő tételei szerinti előirányzati bontásban.
+5. § (1) A beérkező pályázatokat az OTKA Tudományterületi Kollégiumain belül működő zsűrik által felkért magyar és külföldi szakértők véleményezik szakmai és költségtervezési szempontból. A vélemények alapján a zsűrik rangsorolják a pályázatokat és javaslatot tesznek a támogatásukra. A szakmai zsűrik észrevételei alapján, az OTKA Bizottság által meghatározott kiemelt tudományos kutatási irányok figyelembevételével, a Tudományterületi Kollégiumok javaslatot tesznek az OTKA Bizottságnak a pályázatok támogatására a költségterv fő tételei szerinti előirányzati bontásban. A nyertes pályázatok és a pályázatok támogatási összegének listája az OTKA Bizottság honlapján nyilvános.
 
 (2) A benyújtott pályázatok elbírálása céljából az (1) bekezdésben meghatározott testületek évente legalább két alkalommal üléseznek. A döntésnél figyelembe veszik a pályázó korábbi pályázatai alapján elért tudományos eredményeit.
 
@@ -118,7 +118,7 @@ teljesíthetők személyi kiadások és járulékaik, valamint dologi és felhal
 
 (2) A kutatás (szerződés szerinti) befejezésekor – a pályázó által készített beszámoló alapján – a tevékenység eredményességét és az előirányzatok felhasználását az OTKA Bizottságnak az 5. § (1) bekezdésében meghatározott testületei szakértők bevonásával értékelik.
 
-(3) Az OTKA Bizottság – a pályázati beszámolók rendszeres értékelése során kiemelt szempontként – az Országos Műszaki Fejlesztési Bizottsággal közösen értékeli az innovációra alkalmas pályázati eredményeket.
+(3) Az OTKA Bizottság – a pályázati beszámolók rendszeres értékelése során kiemelt szempontként – értékeli az innovációra alkalmas pályázati eredményeket.
 
 (4) Az infrastruktúra fejlesztésére benyújtott pályázatokra odaítélt előirányzatok felhasználását az OTKA Bizottság – a szerződésben rögzített időszakonként – értékeli.
 
