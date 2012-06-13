@@ -1856,7 +1856,7 @@ Ptk.239. § (1) A szerződés részbeni érvénytelensége esetén az egész sze
 
 Ptk.239/A. § (1) A fél a szerződés érvénytelenségének vagy a szerződés egyes rendelkezései érvénytelenségének (részbeni érvénytelenség) megállapítását a bíróságtól anélkül is kérheti, hogy az érvénytelenség következményeinek alkalmazását is kérné.
 
-(2) Az (1) bekezdés rendelkezéseit kell alkalmazni az ügyész általi perindítás esetén is.
+(2) Az (1) bekezdés rendelkezéseit kell alkalmazni az ügyész valamint – az (1) bekezdés szerinti per megindítására külön jogszabályban feljogosított – más személy általi perindítás esetén is.
 
 ### XXII. Fejezet — A szerződés módosítása. A tartozáselismerés
 
