@@ -36,6 +36,8 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 2. § (1) E törvény hatálya kiterjed a Magyarországon letelepedett médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra.
 
+(1a) E törvény hatálya – a 13. §, a 14. § (1) bekezdése, a 19. § (1), (2) és (4) bekezdése, valamint a 20. § (8) bekezdésének második mondata és (9) bekezdése kivételével – kiterjed a Magyarország területén letelepedett médiatartalom-szolgáltató által kiadott sajtótermékre is.
+
 (2) E törvény alkalmazásában a médiatartalom-szolgáltató akkor minősül Magyarország területén letelepedettnek, ha:
 
 - a) az általa nyújtott médiaszolgáltatás analóg terjesztése Magyarország tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen Magyarország felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,
@@ -100,27 +102,29 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 13. § A tájékoztatási tevékenységet végző lineáris médiaszolgáltatások kötelesek a közérdeklődésre számot tartó helyi, országos, nemzeti és európai, valamint Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró eseményekről, vitatott kérdésekről az általuk közzétett tájékoztató, illetve híreket szolgáltató műsorszámokban sokoldalúan, tényszerűen, időszerűen, tárgyilagosan és kiegyensúlyozottan tájékoztatni. E kötelezettség részletes szabályait törvény az arányosság és a demokratikus közvélemény biztosítása követelményeinek megfelelően állapítja meg.
 
-14. § (1) A médiatartalom-szolgáltatónak az általa közzétett médiatartalmakban, illetve azok készítése során tiszteletben kell tartania az emberi méltóságot.
+14. § (1) A médiaszolgáltatónak az általa közzétett médiatartalomban tiszteletben kell tartania az emberi méltóságot.
 
-(2) Tilos a megalázó, kiszolgáltatott helyzetben lévő személyek médiatartalomban történő, öncélú és sérelmes bemutatása.
+(2) Tilos a megalázó, kiszolgáltatott helyzetben lévő személyek médiatartalomban történő öncélú és sérelmes bemutatása.
 
-15. § (1) Tilos visszaélni a médiatartalom-szolgáltatónak adott, nyilvános közlésre szánt nyilatkozat közzétételébe történt beleegyezéssel.
+15. § (1) Tilos visszaélni a médiatartalom-szolgáltatónak adott, nyilvános közlésre szánt nyilatkozat közzétételébe vagy a médiatartalomban való szereplésbe történt beleegyezéssel.
 
-(2) A médiatartalom-szolgáltató köteles a nyilvános közlés céljából készített nyilatkozatot a nyilatkozatot adó személynek – annak kérelmére – megmutatni; azt nem közölheti, ha a közzétételhez a nyilatkozatot adó személy azért nem járul hozzá, mert azt a médiatartalom-szolgáltató érdemben megváltoztatta, és a változtatás a nyilatkozatot adó számára sérelmes.
+(2) A médiatartalom-szolgáltató köteles a nyilvános közlés céljából készített nyilatkozatot a nyilatkozatot adó vagy a médiatartalomban szereplő személynek – annak kérésére – a közzétételt megelőzően megmutatni; az nem közölhető, ha a közzétételhez az érintett azért nem járul hozzá, mert azt a médiatartalom-szolgáltató érdemben megváltoztatta vagy eltorzította, és ez a nyilatkozatot adó vagy a médiatartalomban szereplő számára sérelmes. A hozzájárulás visszavonása ellenére történt, jó hírnévre vagy becsületre sérelmes közlés esetén a vonatkozó polgári jogi és büntetőjogi szabályokat kell alkalmazni.
 
-(3) A nyilatkozat közzétételéhez történt hozzájárulás a médiatartalom-szolgáltató (1) bekezdésben szereplő visszaélése esetén jogkövetkezmény nélkül visszavonható, amennyiben
+(3) A (2) bekezdésben meghatározott esetkörön kívül a nyilatkozat vagy a szereplés nem vonható vissza, ha
 
-- a) azt a nyilatkozó nem a helyi, országos vagy európai közélet eseményével összefüggésben tette,
-- b) az nem Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró valamely eseménnyel kapcsolatos, vagy
-- c) a visszavonásra irányuló nyilatkozatot nem hivatalos vagy közfeladatot ellátó személy, vagy politikai közszereplő közmegbízatása ellátásával összefüggésben tette, feltéve, hogy a visszavonás a közzétételt megelőzően kellő időben történik, és így nem okoz a médiatartalom-szolgáltató számára aránytalan sérelmet. Az e jogot korlátozó szerződéses kikötés semmis.
+- a) azt a nyilatkozó a helyi, országos vagy európai közélet eseményével összefüggésben tette,
+- b) az Magyarország polgárai és a magyar nemzet tagjai számára jelentőséggel bíró valamely eseménnyel kapcsolatos, vagy
+- c) azt hivatalos vagy közfeladatot ellátó személy, vagy politikai közszereplő közmegbízatása ellátásával összefüggésben tette.
 
-16. § A médiatartalom-szolgáltató köteles tiszteletben tartani az alkotmányos rendet, tevékenysége során nem sértheti az emberi jogokat.
+(4) A médiatartalom-szolgáltató nem köthet médiatartalomban szereplő személlyel olyan megállapodást, amely a megállapodás tárgykörén belül korlátozza a médiatartalomban szereplő személynek a jó hírnevéhez, becsületéhez vagy magánéletéhez fűződő jogainak érvényesíthetőségét, illetve a nyilatkozat vagy szereplés visszavonásához fűződő, (1) és (2) bekezdés szerinti jogait. Az ilyen szerződéses kikötés semmis.
+
+16. § A médiatartalom nem sértheti az alkotmányos rendet.
 
 17. § (1) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely egyház vagy vallási csoport elleni gyűlölet keltésére.
 
 (2) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely egyház vagy vallási csoport kirekesztésére.
 
-18. § A médiatartalom nem lehet alkalmas a magánélet megsértésére.
+#### 18. §
 
 19. § (1) Lineáris médiaszolgáltatásban nem tehető közzé olyan médiatartalom, amely súlyosan károsíthatja a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését, különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz.
 
@@ -129,6 +133,8 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 (3) Sajtótermékben megjelenő azon médiatartalom, amely súlyosan károsíthatja a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz, csak oly módon tehető a nyilvánosság tagjai számára elérhetővé, amely – valamely műszaki vagy egyéb megoldás alkalmazásával – biztosítja, hogy kiskorúak nem férhetnek hozzá. Ha ilyen megoldás alkalmazása nem lehetséges, akkor a médiatartalom csak a kiskorúak lehetséges veszélyeztetéséről szóló tájékoztatást tartalmazó figyelmeztető jelzéssel tehető közzé.
 
 (4) Lineáris médiaszolgáltatásban megjelenő azon médiatartalom, amely veszélyeztetheti a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését, csak oly módon tehető közzé, amely az adásidő megválasztásával, illetve más műszaki megoldás alkalmazásával biztosítja, hogy a kiskorúak rendes körülmények között nem hallhatják vagy láthatják azt.
+
+(4a) Médiatartalomban tilos kiskorú személy olyan bemutatása, amely életkorának megfelelő lelki vagy fizikai fejlődését nagymértékben veszélyeztetheti.
 
 (5) A kiskorúak médiatartalmakkal szembeni védelmére szolgáló részletes szabályokat külön törvény határozza meg.
 
