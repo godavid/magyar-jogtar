@@ -8,9 +8,11 @@ Az Országgyűlés Magyarország 2012. évi költségvetéséről a következő 
 
 1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2012. évi
 
-- a) bevételi főösszegét 14 340 947,1 millió forintban,
-- b) kiadási főösszegét 14 917 107,8 millió forintban,
-- c) hiányát 576 160,7 millió forintban állapítja meg.
+- a) bevételi főösszegét 14 341 944,6 millió forintban,
+- b) kiadási főösszegét 14 918 105,3 millió forintban,
+- c) hiányát 576 160,7 millió forintban
+
+állapítja meg.
 
 2. § (1) Az 1. §-ban meghatározott kiadási és bevételi főösszegeknek, valamint a saját bevétellel nem fedezett kiadásokhoz nyújtott költségvetési támogatási előirányzatoknak fejezetek, címek, alcímek, jogcím-csoportok, jogcímek szerinti részletezését az 1. melléklet tartalmazza.
 
@@ -1102,11 +1104,11 @@ használható fel.
 |  |  |  |  |  | 1 | Intézményi beruházási kiadások |  |  |  |  |  | 2 387,3 |  |  |
 |  |  |  |  |  | 2 | Felújítás |  |  |  |  |  | 86,6 |  |  |
 | 8 |  |  |  |  |  | Fővárosi, megyei kormányhivatalok és Megyei intézményfenntartó szervek, átvett intézmények |  |  |  |  |  |  |  |  |
-|  | 1 |  |  |  |  | Fővárosi, megyei kormányhivatalok |  |  |  |  |  |  |  | 73 815,3 |
+|  | 1 |  |  |  |  | Fővárosi, megyei kormányhivatalok |  |  |  |  |  |  |  | 74 812,8 |
 |  |  |  |  | 1 |  | Működési költségvetés |  |  |  |  |  |  | 33 830,2 |  |
-|  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  | 71 159,9 |  |  |
-|  |  |  |  |  | 2 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  | 18 936,3 |  |  |
-|  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  | 16 818,0 |  |  |
+|  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  | 71 780,0 |  |  |
+|  |  |  |  |  | 2 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  | 19 103,7 |  |  |
+|  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  | 17 028,0 |  |  |
 |  |  |  |  |  | 5 | Egyéb működési célú kiadások |  |  |  |  |  | 2,5 |  |  |
 |  |  |  |  | 2 |  | Felhalmozási költségvetés |  |  |  |  |  |  |  |  |
 |  |  |  |  |  | 1 | Intézményi beruházási kiadások |  |  |  |  |  | 494,6 |  |  |
@@ -1250,14 +1252,14 @@ használható fel.
 |  |  | 6 |  |  |  | Felzárkózás-politika koordinációja |  |  |  |  |  | 300,0 |  | 300,0 |
 |  |  | 7 |  |  |  | Roma ösztöndíj programok |  |  |  |  |  | 2 223,1 |  | 2 223,1 |
 |  | 25 |  |  |  |  | Fejezeti általános tartalék |  |  |  |  |  | 150,0 |  | 150,0 |
-|  |  |  |  |  |  | 1 - 20. cím összesen: |  |  |  |  |  | 357 973,2 | 91 844,4 | 266 128,8 |
+|  |  |  |  |  |  | 1 - 20. cím összesen: |  |  |  |  |  | 358 970,7 | 91 844,4 | 267 126,3 |
 | 21 |  |  |  |  |  | Kormányzati Ellenőrzési Hivatal |  |  |  |  |  |  |  |  |
 |  | 1 |  |  |  |  | Kormányzati Ellenőrzési Hivatal |  |  |  |  |  |  |  | 932,6 |
 |  |  |  |  | 1 |  | Működési költségvetés |  |  |  |  |  |  | 3,0 |  |
 |  |  |  |  |  | 1 | Személyi juttatások |  |  |  |  |  | 592,1 |  |  |
 |  |  |  |  |  | 2 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  | 151,7 |  |  |
 |  |  |  |  |  | 3 | Dologi kiadások |  |  |  |  |  | 191,8 |  |  |
-|  |  |  |  |  |  | 1 - 20. cím összesen: |  |  |  |  |  | 935,6 | 3,0 | 932,6 |
+|  |  |  |  |  |  | 21. cím összesen: |  |  |  |  |  | 935,6 | 3,0 | 932,6 |
 | 24 |  |  |  |  |  | Céltartalékok |  |  |  |  |  |  |  |  |
 |  | 2 |  |  |  |  | Közszférában foglalkoztatottak bérkompenzációja, gyermekgondozási díjban és terhességi-gyermekágyi segélyben részesülők kompenzációja |  |  |  |  |  | 64 000,0 |  |  |
 |  | 3 |  |  |  |  | Különféle kifizetések |  |  |  |  |  | 5 000,0 |  |  |
@@ -1265,7 +1267,7 @@ használható fel.
 | 25 |  |  |  |  |  | Volt egyházi ingatlanok tulajdoni helyzetének rendezése |  |  |  |  |  | 5 790,5 |  |  |
 | 26 |  |  |  |  |  | Települési és területi nemzetiségi önkormányzatok támogatása |  |  |  |  |  | 1 520,0 |  |  |
 | 27 |  |  |  |  |  | Fejezeti egyensúlybiztosítási tartalék |  |  |  |  |  | 2 500,0 |  |  |
-|  |  |  |  |  |  | X. fejezet összesen: |  |  |  |  |  | 458 719,3 | 91 847,4 | 267 061,4 |
+|  |  |  |  |  |  | X. fejezet összesen: |  |  |  |  |  | 459 716,8 | 91 847,4 | 268 058,9 |
 
 | millió forintban |
 | --- |
@@ -2788,7 +2790,7 @@ használható fel.
 |  |  | 8 |  |  |  | Egyéb vegyes bevételek |  |  |  |  |  |  | 16 956,0 |  |
 |  |  | 9 |  |  |  | Kezesség-visszatérülés |  |  |  |  |  |  | 2 363,0 |  |
 |  | 2 |  |  |  |  | Központosított bevételek |  |  |  |  |  |  |  |  |
-|  |  | 1 |  |  |  | Bírságbevételek |  |  |  |  |  |  | 32 441,1 |  |
+|  |  | 1 |  |  |  | Bírságbevételek |  |  |  |  |  |  | 33 438,6 |  |
 |  |  | 2 |  |  |  | Termékdíjak |  |  |  |  |  |  | 60 000,1 |  |
 |  |  | 3 |  |  |  | Egyéb központosított bevételek |  |  |  |  |  |  | 21 030,0 |  |
 | 5 |  |  |  |  |  | Költségvetési befizetések |  |  |  |  |  |  |  |  |
@@ -2871,7 +2873,7 @@ használható fel.
 |  | 2 |  |  |  |  | Bethlen Gábor Alap támogatása |  |  |  |  |  | 11 572,8 |  |  |
 |  | 3 |  |  |  |  | Központi Nukleáris Pénzügyi Alap támogatása |  |  |  |  |  | 10 933,0 |  |  |
 |  | 4 |  |  |  |  | Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap támogatása |  |  |  |  |  | 15,3 |  |  |
-|  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 294 661,2 | 6 829 428,7 |  |
+|  |  |  |  |  |  | XLII. fejezet összesen: |  |  |  |  |  | 1 294 661,2 | 6 830 426,2 |  |
 
 | millió forintban |
 | --- |
