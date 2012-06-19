@@ -738,7 +738,7 @@ g) a köztársasági elnöki tisztségtől való megfosztással.
 
 (4) A köztársasági elnök feladatkörei ellátását kilencven napon túl lehetetlenné tevő állapotának és a megválasztásához szükséges feltételek hiányának megállapításáról, valamint az összeférhetetlenség kimondásáról az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával határoz.
 
-(5) A köztársasági elnök jogállásának részletes szabályait és javadalmazását sarkalatos törvény határozza meg.
+(5) A köztársasági elnök és a volt köztársasági elnök jogállásának részletes szabályait és javadalmazását sarkalatos törvény határozza meg.
 
 #### 13. cikk
 
@@ -1363,5 +1363,9 @@ Az ezen Alaptörvényhez kapcsolódó átmeneti rendelkezéseket az Országgyűl
 #### 4.
 
 A Kormány köteles az Alaptörvény végrehajtásához szükséges törvényjavaslatokat az Országgyűlés elé terjeszteni.
+
+#### 5.
+
+A 3. pont szerint elfogadott Magyarország Alaptörvényének átmeneti rendelkezései (2011. december 31.) az Alaptörvény részét képezi.
 
 *Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.
