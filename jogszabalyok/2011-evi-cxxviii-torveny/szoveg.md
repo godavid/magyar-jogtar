@@ -244,7 +244,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 (4) Az önkéntesen segítséget nyújtó személyek az adott feladat végrehajtásáért felelős személy irányításával látják el a számukra meghatározott feladatot.
 
-(5) A felkészülés időszakában felmerült költségek fedezetének biztosítására a katasztrófavédelmi hozzájárulás bevétele terhére pályázat útján támogatás nyújtható.
+(5)
 
 #### 14. Egyéb rendelkezések
 
@@ -957,7 +957,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 (4) Ha a védekezésben részt vevőt az egészséget károsító vagy halálos baleset érte, az üzemi balesetre, foglalkozási betegségre vonatkozó társadalombiztosítási szabályok alapján meg nem térülő károkat és költségeket az állam téríti meg.
 
-77. § A katasztrófavédelmi hozzájárulásból származó bevétel műszaki-technikai eszközök, felszerelések beszerzése, fejlesztése, felújítása és objektumok létesítése céljára, védekezési kiadásokra, közbiztonsági referensek képzésére, valamint polgári védelmi szervezetek képzésére, felszerelésére, illetve önkéntes mentőszervezetek támogatására használható fel.
+#### 77. §
 
 78. § (1) Az állami költségvetésből kell megtéríteni a védekezésbe bevont szervek és szervezetek katasztrófa elleni védekezéssel összefüggő költségeit.
 
@@ -965,40 +965,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 (3) Az állam nem természeti katasztrófa esetén annak okozójától, illetve előidézőjétől a védekezés és a helyreállítás költségeinek megtérítését a polgári jog általános szabályai szerint követelheti.
 
-79. § (1) Katasztrófavédelmi hozzájárulást kötelesek fizetni
-
-- a) az e törvény szerinti üzemeltetők,
-- b) az a) pontba nem sorolható, a veszélyes áruk közúti szállítására vonatkozó külön jogszabály szerinti veszélyes áruk tárolását, gyártását és feldolgozását végző gazdálkodó szervezetek.
-
-(2) Nem kell katasztrófavédelmi hozzájárulást fizetnie
-
-- a) az állami és önkormányzati szervnek,
-- b) a közfinanszírozásban részesülő egészségügyi szolgáltatónak,
-- c) a gazdálkodó szervezetnek, ha a tárolás kizárólag közvetlenül a lakosság részére történő kiskereskedelmi forgalmazáshoz, illetve lakossági szolgáltatás nyújtásához kapcsolódik,
-- d) az üzemeltetőnek és a gazdálkodó szervezetnek, ha a tárgyévet megelőző évben az éves nettó árbevétele az 50 millió forintot nem haladja meg,
-- e) az atomenergiáról szóló 1996. évi CXVI. törvény szerinti nukleáris létesítménynek és radioaktívhulladék-tárolónak.
-
-(3) A katasztrófavédelmi hozzájárulás összege az (1) bekezdés a) pontjában meghatározott üzemeltetők esetében a veszélyes tevékenységgel összefüggésben keletkezett – a jövedéki adó és az energiaadó összegével csökkentett – éves nettó árbevételének 0,1%-a. Ha az üzemeltető termék előállításával foglalkozik és a veszélyes anyag a termékkel annak előállítása és tárolása során közvetlenül nem érintkezik, vagy a veszélyes anyag felhasználása nem közvetlenül a termék előállításához szükséges, hozzájárulás-fizetési kötelezettsége nem keletkezik.
-
-(4) A katasztrófavédelmi hozzájárulás összege az (1) bekezdés b) pontjában meghatározott gazdálkodó szervezetek esetében:
-
-- a) saját tulajdonban lévő vagy egyéb, nem visszterhes jogviszony alapján tárolt veszélyes áru esetén a veszélyes áru értékesítéséből keletkező,
-- b) nem saját tulajdonban lévő veszélyes áru tárolása esetén a tárolási szolgáltatásból származó,
-- c) gyártás esetén a veszélyes áru, mint termék értékesítéséből származó, a jövedéki adó és az energiaadó összegével csökkentett éves nettó árbevétel 0,1%-a.
-
-(5) Az (1) bekezdés b) pontjában meghatározott, veszélyes áru feldolgozását végző gazdálkodó szervezetek esetében a katasztrófavédelmi hozzájárulás összege a tevékenység során felhasznált veszélyes áru nettó értékének 0,1%-a.
-
-(6) Amennyiben a gazdálkodó szervezet az (1) bekezdés b) pontjában felsorolt tevékenységek közül több tevékenységet folytat, úgy a katasztrófavédelmi hozzájárulást azon tevékenység után fizeti meg, amelyik alapján a katasztrófavédelmi hozzájárulás összege a legnagyobb.
-
-(7) A katasztrófavédelmi hozzájárulás fizetésére kötelezettek kötelesek tevékenységükről külön jogszabályban foglaltak szerint a hivatásos katasztrófavédelmi szerv központi szervének bejelentést tenni.
-
-(8) A katasztrófavédelmi hozzájárulás összegét a tárgyévet megelőző év nettó árbevétele alapul vételével kell meghatározni. Amennyiben a katasztrófavédelmi hozzájárulás mértékét az annak fizetésére kötelezett hitelt érdemlően, a hatóság által ellenőrizhető módon bizonyítani nem tudja, úgy a katasztrófavédelmi hozzájárulás összege a teljes tevékenységből származó, a jövedéki adó és az energiaadó összegével csökkentett éves nettó árbevétel 0,1%-a.
-
-(9) Meg nem fizetése esetén a katasztrófavédelmi hozzájárulás adók módjára behajtandó köztartozásnak minősül. A hivatásos katasztrófavédelmi szerv jogosult a fizetési kötelezettség ellenőrizhetősége érdekében az adóhatóságtól adatszolgáltatást kérni.
-
-(10) A (3) bekezdés alapján fizetendő katasztrófavédelmi hozzájárulás egynegyede felhasználható az üzemeltető veszélyes tevékenysége által jelentett kockázat szintjének csökkentését szolgáló műszaki intézkedésekre.
-
-(11) A katasztrófavédelmi hozzájárulás a hivatásos katasztrófavédelmi szerv központi szervének bevétele.
+#### 79. §
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1015,7 +982,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 - g) a biztonsági jelentés és a biztonsági elemzés célját, tartalmi és formai követelményeit, a biztonsági jelentésre, valamint a biztonsági elemzésre kötelezettek körét,
 - h) a veszélyes anyagokkal foglalkozó üzemeket érintő lakossági tájékoztatással és a nyilvánosság biztosításával kapcsolatos követelményeket,
 - i) a védekezésben részt vevők költségei megtérítésének szabályait,
-- j) a katasztrófavédelmi hozzájárulás befizetési és elszámolási rendjét, felhasználásának és ellenőrzésének módját, az eljáró hatóságokat, valamint a katasztrófavédelmi hozzájárulásra kötelezettek bejelentésének szabályait,
+- j)
 - k) a küszöbérték alatti üzemek körét, katasztrófavédelmi hatósági felügyeleti rendjét és az üzemeltetői kötelezettségeket,
 - l) az e törvény IV. fejezetének hatálya alá tartozó üzemekkel és azok veszélyes tevékenységével összefüggésben alkalmazható bírságok rendszerét és részletes szabályait,
 - m) a katasztrófavédelmi szabályzat részletes szabályait, ezen belül

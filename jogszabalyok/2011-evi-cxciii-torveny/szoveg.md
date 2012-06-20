@@ -1981,7 +1981,15 @@ részére,
 - a) igazgatósága elnökének (vezérigazgatójának) vagy az ügyvezetőnek a nyilatkozatát arról, hogy a befektetési alapkezelő e törvény rendelkezéseinek megfelel, és
 - b) könyvvizsgálójának igazolását arról, hogy a befektetési alapkezelő informatikai, nyilvántartási rendszere e törvény rendelkezéseinek megfelel.
 
-(2) Az e törvénynek való megfelelés érdekében a befektetési alapkezelő köteles az általa kezelt befektetési alap tájékoztatójának, kezelési szabályzatának és – a kiemelt befektetői információkra vonatkozó megfelelés érdekében – a rövidített tájékoztatójának módosítását kezdeményezni 2012. május 31-ig.
+(2) A befektetési alapkezelő az általa kezelt, e törvény hatálybalépése napját megelőzően létrejött befektetési alap e törvénynek való megfelelésének biztosítása érdekében
+
+- a) 2012. július 1. napjáig köteles benyújtani a Felügyelethez az ÁÉKBV kezelési szabályzatának, tájékoztatójának az e törvénynek való megfelelést biztosító, a befektetési alapkezelő által elhatározott módosítását, valamint a 105. § szerinti kiemelt befektetői információt;
+- b) 2012. október 31. napjáig köteles benyújtani a Felügyelethez
+  - ba) a befektetési alap kezelési szabályzatának és – nyilvános befektetési alap esetében – tájékoztatójának az e törvénynek való megfelelést biztosító, a befektetési alapkezelő által elhatározott módosítását;
+  - bb) nyilvános, nyíltvégű alap esetében a befektetési alapra vonatkozó, 105. § szerinti kiemelt befektetői információt;
+- c) köteles gondoskodni arról, hogy a befektetési alap a ba) pont szerint módosított kezelési szabályzat hatálybalépése napján, de legkésőbb 2012. december 31. napján befektetései és működése tekintetében is megfeleljen az e törvényben és a befektetési alapok befektetési és hitelfelvételi szabályairól szóló kormányrendeletben foglalt rendelkezéseknek.
+
+(3) A (2) bekezdésben megállapított rendelkezés 2012. június 1-jével alkalmazandó.
 
 ### Jogharmonizációs záradék
 

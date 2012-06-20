@@ -227,4 +227,4 @@ e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó ada
 - a) az 1990. július 23-i 90/434/EGK tanácsi irányelv a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről;
 - b) a 2005. február 17-i 2005/19/EK tanácsi irányelv a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről szóló 90/434/EGK irányelv módosításáról.
 
-(7) E törvény 1–10. §-a 2013. január 1-jén hatályát veszti, azzal, hogy az adóalany a 2012. adóévre vonatkozó adómegállapítási, -bevallási, -fizetési kötelezettségeit a 2012. december 31-én hatályos szabályok szerint teljesíti.
+(7)

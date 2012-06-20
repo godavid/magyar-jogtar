@@ -223,7 +223,7 @@ Tbj. 16. § (1) Egészségügyi szolgáltatásra jogosult – az e törvény sze
 
 (2) A 13. § hatálya alá tartozó külföldi személy az ugyanott hivatkozott külön jogszabály, illetőleg nemzetközi egyezmény szerint jogosult egészségügyi ellátásra.
 
-(3) Az (1) bekezdés a)–k), továbbá o), s) pontja esetében – az (1) bekezdés i) pontjában meghatározott ösztöndíjas kivételével – az egészségügyi szolgáltatásra jogosultság további feltétele, hogy az érintett személy belföldinek minősüljön.
+(3) Az (1) bekezdés a)–k), továbbá o), s), u) és v) pontja esetében – az (1) bekezdés i) pontjában meghatározott ösztöndíjas kivételével – az egészségügyi szolgáltatásra jogosultság további feltétele, hogy az érintett személy belföldinek minősüljön.
 
 (4) Az egészségügyi szolgáltatásokra vonatkozó igényjogosultságot egyszerre csak egy jogcímre tekintettel lehet megállapítani. Amennyiben a jogosultság egyszerre több jogcím alapján is megállapítható, akkor a jogcímek (1) bekezdésben foglalt felsorolása jogosultsági sorrendet jelent azzal, hogy a (2) bekezdésben meghatározott jogcím az (1) bekezdésben felsorolt jogcímeket megelőzi.
 
@@ -282,7 +282,7 @@ Tbj. 20. §
 
 ### Korkedvezmény-biztosítási járulék
 
-Tbj. 20/A. § (1) A foglalkoztató a korkedvezményre jogosító munkakörben foglalkoztatott után a 4. § k) pont szerinti jövedelem (kivéve a 21. § szerinti jövedelmeket) alapulvételével korkedvezmény-biztosítási járulékot fizet, kivéve, ha e kötelezettsége alól külön jogszabály szerint mentesítették.
+Tbj. 20/A. § (1) A foglalkoztató a korkedvezményre jogosító munkakörben foglalkoztatott után 4. § k) pont szerinti jövedelem (kivéve a 21. § szerinti jövedelmeket) alapulvételével korkedvezmény-biztosítási járulékot fizet, kivéve, ha e kötelezettsége alól külön jogszabály szerint mentesítették.
 
 (2) A korkedvezmény-biztosítási járulék fizetésére és bevallására, az ezzel összefüggő nyilvántartási és adatszolgáltatási kötelezettségre az Art. szabályait megfelelően alkalmazni kell.
 
@@ -337,7 +337,7 @@ Tbj. 26. § (1) A gyermekgondozási díjban, gyermekgondozási segélyben, gyerm
 
 (4)
 
-(5) A központi költségvetés a 16. § (1) bekezdés b) pontjában meghatározott – foglalkoztatottnak vagy kiegészítő tevékenységet folytatónak nem minősülő – személyek, a gyermekgondozási díjban részesülők, valamint a 16. § (1) bekezdés c)–f), h)–o), s) és t) pontjában meghatározott személyek után havonta 5850 forint egészségügyi szolgáltatási járulékot fizet.
+(5) A központi költségvetés a 16. § (1) bekezdés b) pontjában meghatározott – foglalkoztatottnak vagy kiegészítő tevékenységet folytatónak nem minősülő – személyek, a gyermekgondozási díjban részesülők, valamint a 16. § (1) bekezdés c)–f), h)–o), s)–v) pontjában meghatározott személyek után havonta 5850 forint egészségügyi szolgáltatási járulékot fizet.
 
 (6)
 
@@ -530,9 +530,9 @@ Tbj. 38. § (1) Több jogviszony egyidejű fennállása esetén a kiegészítő 
 
 (4) A (2) bekezdésben foglaltaktól eltérően az egyéni vállalkozó a tárgyév január 31-éig a társas vállalkozásnak tett nyilatkozata alapján az adóév egészére választhatja, hogy az egészségügyi szolgáltatási járulékot a társas vállalkozás – több társas vállalkozásban fennálló tagsági jogviszony esetén a választása szerinti vállalkozás – fizeti meg utána.
 
-Tbj. 39. § (1) A központi költségvetés a 16. § (1) bekezdésének a)–o), s)–t) pontjában említett személyek egészségügyi szolgáltatásának fedezetét a 26. § (5) bekezdésében meghatározott járulékfizetéssel és az egészségügyi hozzájárulás bevételeinek átutalásával biztosítja.
+Tbj. 39. § (1) A központi költségvetés a 16. § (1) bekezdésének a)–o), s)–v) pontjában említett személyek egészségügyi szolgáltatásának fedezetét a 26. § (5) bekezdésében meghatározott járulékfizetéssel és az egészségügyi hozzájárulás bevételeinek átutalásával biztosítja.
 
-(2) Az a belföldi személy, aki nem biztosított és egészségügyi szolgáltatásra a 16. § (1) bekezdésének a)–p) és s)–t) pontja, valamint a 13. § szerint sem jogosult, köteles a 19. § (4) bekezdésében meghatározott egészségügyi szolgáltatási járulékot fizetni.
+(2) Az a belföldi személy, aki nem biztosított és egészségügyi szolgáltatásra a 16. § (1) bekezdésének a)–p) és s)–v) pontja, valamint a 13. § szerint sem jogosult, köteles a 19. § (4) bekezdésében meghatározott egészségügyi szolgáltatási járulékot fizetni.
 
 (3) A (2) bekezdésben meghatározott kötelezettség további feltétele, hogy a természetes személy a bejelentkezését megelőzően megszakítás nélkül legalább egy éve a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkezik Magyarország területén. Az egyéves időtartamba beszámít az a legfeljebb kilencven napos időszak is, amely alatt a belföldi személy nem rendelkezett Magyarország területén bejelentett lakóhellyel. Ha az állami adóhatóság az egy éves időtartamra vonatkozóan a saját nyilvántartásában nem rendelkezik adattal, a járulékfizetési kötelezettség elbírálása céljából megkeresi a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet, a lakcímre vonatkozó adatok közlése érdekében.
 
@@ -542,7 +542,7 @@ Tbj. 39. § (1) A központi költségvetés a 16. § (1) bekezdésének a)–o),
 
 (6) Az állami adóhatóság a (2) bekezdés szerint egészségügyi szolgáltatási járulék fizetésére kötelezett által az Art. 20. § (6) bekezdése szerint hozzá bejelentett adatokat a bejelentést követő 10 napon belül elektronikus úton megküldi az Egészbiztosítás Alap kezeléséért felelős szerv részére.
 
-Tbj. 39/A. § (1) A 39. § (2) bekezdésében meghatározott járulékfizetési kötelezettség az egészségügyi szolgáltatásra való jogosultság megszűnését követő naptól a biztosítási kötelezettséggel járó jogviszony első napjáig, illetőleg a 16. § (1) bekezdésének a)–p) és s)–t) pontja meghatározott jogosultsági feltételek bekövetkezésének napjáig áll fenn.
+Tbj. 39/A. § (1) A 39. § (2) bekezdésében meghatározott járulékfizetési kötelezettség az egészségügyi szolgáltatásra való jogosultság megszűnését követő naptól a biztosítási kötelezettséggel járó jogviszony első napjáig, illetőleg a 16. § (1) bekezdésének a)–p) és s)–v) pontja meghatározott jogosultsági feltételek bekövetkezésének napjáig áll fenn.
 
 (2) Ha a biztosítási kötelezettség megállapítására utólag kerül sor, a biztosítási jogviszony fennállásának időtartama alatt a 39. § alapján megfizetett járulékot a foglalkoztató által kiállított igazolás benyújtása mellett vissza lehet igényelni az állami adóhatóságtól.
 
@@ -839,9 +839,9 @@ Tbj. 56/D. § (1) Ha a biztosított pénztártagsági jogviszonya a társadalomb
 
 Tbj. 56/E. § A foglalkoztató, vagy a társadalombiztosítási nyugdíjrendszerbe visszalépett foglalkoztatott (biztosított) kezdeményezésére a tagdíj-kiegészítéssel kapcsolatos eltérések tisztázására indult eljárások lefolytatása a pénztárak feladata. Az egyeztetés eredményeképp kimutatott, a magánszemélyt jogszerűen megillető tagdíj-kiegészítés összegét a pénztár a Nyugdíjreform és Adósságcsökkentő Alaptól e célra visszaigényelt összeg terhére teljesíti.
 
-Tbj. 56/F. § (1) A társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártagra vonatkozóan 1998. január 1-je és 2006. december 31-e közötti időszakra – a (2) bekezdés szerinti kivétellel – a foglalkoztató által a magánnyugdíjpénztárhoz benyújtott pótbevallásokat, helyesbítő bevallásokat a magánnyugdíjpénztár köteles feldolgozni és a feldolgozott adatokat az állami adóhatóság részére továbbítani a pótbevallás és a helyesbítő bevallás benyújtását követő hónap utolsó napjáig. A fizetési kötelezettséget az állami adóhatóság felé kell teljesíteni.
+Tbj. 56/F. § (1)
 
-(2) Amennyiben a magánnyugdíjpénztár a foglalkoztató által elkészített pótbevallás, helyesbítő bevallás benyújtásának idejére már megszűnt, a foglalkoztató a pótbevallást, helyesbítő bevallást az eredeti esedékességig benyújtott alapbevallással együtt az állami adóhatósághoz nyújtja be, amelyeket az állami adóhatóság köteles feldolgozni és a feldolgozott adatokat a Pénztárak Központi Nyilvántartása részére továbbítani a pótbevallás és a helyesbítő bevallás benyújtását követő hónap utolsó napjáig. A fizetési kötelezettséget az állami adóhatóság felé kell teljesíteni.
+(2)
 
 (3) A társadalombiztosítási nyugdíjrendszerbe visszalépett pénztártagra vonatkozóan 2007. január 1-jét követő időszakra a foglalkoztató által benyújtott pótbevallásokat, helyesbítő bevallásokat az állami adóhatóság feldolgozza és a feldolgozott adatokat a Pénztárak Központi Nyilvántartása részére továbbítja. A fizetési kötelezettséget az állami adóhatóság felé kell teljesíteni.
 
@@ -913,5 +913,7 @@ Tbj. 65. § (1) Az adó- és járuléktörvények, a számviteli törvény és a
 (2) E törvénynek az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított rendelkezéseit a 2012. január 1-jén és azt követően megszerzett jövedelmekre és keletkezett járulék-fizetési kötelezettségekre kell alkalmazni, azzal, hogy e törvény 2011. december 31-én hatályos rendelkezéseit kell alkalmazni a 2012. január 10-éig megszerzett és 2011. december havi járulékalapot képező olyan jövedelemre, amelyet a 2011. december hónapra vonatkozóan benyújtott bevallásban kell bevallani.
 
 Tbj. 65/A. § A pénztártag 2010. november 1-jét megelőző időszakra vonatkozó tagdíjának önellenőrzése (pótbevallása) esetén a bevallási adatokat az állami adóhatóság az önellenőrzés (pótbevallás) benyújtását követő hónap utolsó napjáig – a tagok folyószámlájának vezetéséhez – továbbítja a pénztár részére. Az önellenőrzés (pótbevallás) alapján a tagdíjat közvetlenül a magán-nyugdíjpénztár részére kell megfizetni. Az esetleges tagdíjtúlfizetés visszaigénylése közvetlenül a magánnyugdíjpénztártól történik.
+
+Tbj. 65/B. § Az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvény által megállapított 39. § (2) bekezdése 2012. január 1-jétől alkalmazható.
 
 ### Melléklet az 1997. évi LXXX. törvényhez

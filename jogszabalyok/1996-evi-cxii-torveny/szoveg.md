@@ -3048,7 +3048,7 @@ tekintetében.
 98. § (1) Az Alap feladata
 
 - a)
-- b) a vele tagsági jogviszonyban álló hitelintézetnél elhelyezett betét befagyása esetén a betétes részére a 101. §-ban meghatározott kártalanítási összeg kifizetése, illetve
+- b) a vele tagsági jogviszonyban álló hitelintézetnél elhelyezett betét befagyása vagy a tevékenységi engedélyének a Felügyelet által a 30. § (1) bekezdés b) vagy c) pontjában meghatározottak szerinti visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén a betétes részére a 101. §-ban meghatározott kártalanítási összeg kifizetése, illetve
 - c) az állammal kötött külön megállapodásban foglalt megbízás alapján az állam által egyes betétre vállalt kezesség vagy adott biztosítás teljesítésével kapcsolatos feladatok térítés ellenében történő ellátása,
 - d) a betétes magyar nyelvű tájékoztatása, illetőleg magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén történő tájékoztatása, amelyben a fióktelepet létrehozták.
 
@@ -3094,9 +3094,9 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 ### Az Alap által fizetett kártalanítás
 
-101. § (1) Az Alap a kártalanításra jogosult személy részére a befagyott betét tőke- és kamatösszegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig forintban fizeti ki kártalanításként. A kártalanítás forintösszegét a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni. Devizabetét esetén a kártalanítás összegének, valamint az e bekezdés szerinti összeghatárnak a megállapítása – a kifizetés időpontjától függetlenül – a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyamon történik.
+101. § (1) Az Alap a kártalanításra jogosult személy részére a befagyott betét, valamint azon betétkövetelés, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza tőke- és kamatösszegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig forintban fizeti ki kártalanításként. A kártalanítás forintösszegét a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni. Devizabetét esetén a kártalanítás összegének, valamint az e bekezdés szerinti összeghatár megállapítása – a kifizetés időpontjától függetlenül – a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon történik.
 
-(2) Az Alap a befagyott tőkeösszeg után a még nem tőkésített és ki nem fizetett kamatot a kártalanítás 105. §-ának (1) bekezdésében meghatározott kezdő időpontjáig legfeljebb az (1) bekezdésben meghatározott összeghatárig a szerződés szerinti kamatlábbal téríti meg a kártalanításra jogosult személy részére.
+(2) Az Alap a befagyott tőkeösszeg után, valamint azon betétkövetelés tőkeösszege után, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza, a még nem tőkésített és ki nem fizetett kamatot a kártalanítás 105. § (1) bekezdésében meghatározott kezdő időpontjáig legfeljebb az (1) bekezdésben meghatározott összeghatárig a szerződés szerinti kamatlábbal téríti meg a kártalanításra jogosult személy részére.
 
 (3)
 
@@ -3122,6 +3122,8 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (2) A kártalanítás mértékének megállapítása során az ügyfélnek az Alap tagjánál fennálló valamennyi befagyott követelését össze kell számítani. Ha az Alap tagjának az ügyféllel szemben lejárt követelése van, azt a kártalanítás megállapítása során az ügyfél követelésébe be kell számítani.
 
+(2a) A (2) bekezdésben foglaltak szerint kell eljárni akkor is, ha a hitelintézet engedélyét a Felügyelet a 30. § (1) bekezdés b) vagy c) pontja alapján vonta vissza.
+
 (3) Fedezetül szolgáló betét esetén az Alap akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság, illetve hatóság jogerős határozata alapján kétséget kizáróan megállapítható.
 
 103. § (1) Az állam által 1993. június 30-át követően biztosítani kívánt betétek biztosítását az Alap – megegyezés szerinti térítés ellenében – átvállalhatja.
@@ -3130,7 +3132,7 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (3) Az Alap az (1) és (2) bekezdés szerinti feladatot az állammal írásban kötött szerződés alapján végezheti.
 
-(4) Az állami garancia beváltása címén kifizetett összegek erejéig a hitelintézettel szembeni követelés a betétesről az államra száll át. A követelés átszállásával az állam a korábbi jogosult helyébe lép. Az állam a követeléseit a felszámolási eljárásban jogosult érvényesíteni. A hitelintézet felszámolása során az állam azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből származó jogok még nem szálltak át az államra, ha az állam garancia alapján egyébként fizetni köteles.
+(4) Az állami garancia beváltása címén kifizetett összegek erejéig a hitelintézettel szembeni követelés a betétesről az államra száll át. A követelés átszállásával az állam a korábbi jogosult helyébe lép. Az állam a követeléseit a hitelintézet tevékenységi engedélyének a 30. § (1) bekezdés b) pontja szerinti visszavonása alapján indított végelszámolási eljárásban vagy a hitelintézet felszámolási eljárásában jogosult érvényesíteni. A hitelintézet a 30. § (1) bekezdés b) pontjában elrendelt tevékenységi engedély visszavonása alapján indított végelszámolása vagy felszámolása során az állam azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből származó jogok még nem szálltak át az államra, ha az állam garancia alapján egyébként fizetni köteles.
 
 ### XVI. Fejezet — Kártalanítás
 
@@ -3138,7 +3140,7 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 ### Kifizetés az Alapból
 
-105. § (1) Az Alap a betétek befagyása vagy a Felügyeletnek a 30. § (1) bekezdés c) pontja alapján hozott határozata vagy felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzésének közzététele után – a három időpont közül a legkorábbiban – megkezdi (a kártalanítás kezdő időpontja) és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését. Kivételesen indokolt esetben az Alap kérésére a Felügyelet engedélyezheti a kifizetési határidő meghosszabbítását legfeljebb egy alkalommal és legfeljebb tíz munkanappal.
+105. § (1) Az Alap a betétek befagyása vagy a Felügyeletnek a 30. § (1) bekezdés b) vagy c) pontja alapján hozott határozatának közlése vagy felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzésének közzététele után – a három időpont közül a legkorábbiban – (a továbbiakban: a kártalanítás kezdő időpontja) megkezdi és húsz munkanapon belül befejezi a betétesek részére a kártalanítás kifizetését. Kivételesen indokolt esetben az Alap kérésére a Felügyelet engedélyezheti a kifizetési határidő meghosszabbítását legfeljebb egy alkalommal és legfeljebb tíz munkanappal.
 
 (2) Az Alap köteles legalább két országos napilapban, valamint honlapján közzétenni a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az Alap által közzétett információkat a kártalanítással érintett hitelintézet honlapján is közzé kell tenni.
 
@@ -3152,11 +3154,11 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 ### A kifizetett betétkövetelések átszállása
 
-107. § (1) Ha az Alap a betéteseknek kártalanítást fizetett ki, a hitelintézettel szembeni követelés – a kifizetett összeg erejéig – a betétesről az Alapra száll át. A követelés átszállásával az Alap a korábbi jogosult helyébe lép. Az Alap a felszámolási eljárásban az átszállt követeléseket jogosult érvényesíteni.
+107. § (1) Ha az Alap a betéteseknek kártalanítást fizetett ki, a hitelintézettel szembeni követelés – a kifizetett összeg erejéig – a betétesről az Alapra száll át. A követelés átszállásával az Alap a korábbi jogosult helyébe lép. Az Alap a 105. § (1) bekezdésében meghatározott esetekben az átszállt követeléseket jogosult érvényesíteni.
 
 (2) Az Alapból a kártalanításra jogosult személy részére történt bármilyen kifizetés esetén az érintett hitelintézet az Alap által kifizetett összeget és a kifizetéshez kapcsolódóan az Alapnál felmerült költségeket köteles az Alapnak visszafizetni, illetőleg megfizetni. E kötelezettség akkor is fennáll, ha a hitelintézet Alapban való tagsága megszűnt.
 
-(3) Hitelintézet felszámolása során az Alap azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből eredő jogok még nem szálltak át az Alapra, de amelyekért a 101. § szerint fizetni tartozik, ideértve a kifizetés kapcsán felmerülő költségeket is.
+(3) Hitelintézet a 30. § (1) bekezdés b) pontjában elrendelt tevékenységi engedély visszavonása alapján indított végelszámolása vagy felszámolása során az Alap azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből eredő jogok még nem szálltak át az Alapra, de amelyekért a 101. § szerint fizetni tartozik, ideértve a kifizetés kapcsán felmerülő költségeket is.
 
 (4) A (2) bekezdés alkalmazásában a kifizetéshez kapcsolódóan az Alapnál felmerülő költség a kifizető hitelintézet díja, az átutalások költsége, a nyomdaköltség és a kommunikációs költség.
 
@@ -4471,7 +4473,7 @@ fizetésképtelenségének megállapítása nélkül köteles elrendelni.
 
 ### A betétesek tájékoztatása
 
-204. § (1) A hitelintézet köteles az Alappal, a külföldi betétbiztosító intézménnyel, valamint a XX. fejezetben meghatározott önkéntes betétbiztosítási, intézményvédelmi alapban való részvétel esetén az azzal kapcsolatos, a betétest érintő lényeges kérdésekről, így különösen az Alap által biztosított betéttípusokról, a biztosítás mértékéről, továbbá – a betétek befagyása, illetve a hitelintézet felszámolása esetén – a 101. § (1) bekezdése szerinti kártalanítási kifizetés feltételeiről, valamint a biztosítás igénybevételéhez szükséges eljárásról a betétest közérthető formában tájékoztatni. A hitelintézetnek tájékoztatni kell a betétest arról is, hogy a 100. §-ban és a 126. § (4) bekezdésében meghatározott esetekben az Alap által nyújtott biztosítás nem terjed ki a betétre.
+204. § (1) A hitelintézet köteles az Alappal, a külföldi betétbiztosító intézménnyel, valamint a XX. fejezetben meghatározott önkéntes betétbiztosítási, intézményvédelmi alapban való részvétel esetén az azzal kapcsolatos, a betétest érintő lényeges kérdésekről, így különösen az Alap által biztosított betéttípusokról, a biztosítás mértékéről, továbbá – a betétek befagyása vagy a hitelintézet tevékenységi engedélyének a Felügyelet által a 30. § (1) bekezdés b) vagy c) pontja alapján való visszavonása, illetve a hitelintézet felszámolása esetén – a 101. § (1) bekezdése szerinti kártalanítási kifizetés feltételeiről, valamint a biztosítás igénybevételéhez szükséges eljárásról a betétest közérthető formában tájékoztatni. A hitelintézetnek tájékoztatni kell a betétest arról is, hogy a 100. §-ban és a 126. § (4) bekezdésében meghatározott esetekben az Alap által nyújtott biztosítás nem terjed ki a betétre.
 
 (2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatást – a felek eltérő megállapodásának hiányában – magyar nyelven köteles megadni.
 
@@ -5002,6 +5004,8 @@ esetében kell alkalmazni.
 (4) A (2) bekezdés szerinti jelzáloghitel-szerződéssel rendelkező fogyasztó módosításra, vagy újrakötésre vonatkozó igénybejelentését a követeléssel rendelkező pénzügyi intézmény nem utasíthatja el és a szerződés módosításáért, újrakötéséért vagy annak kiváltásával kapcsolatos előtörlesztéséért díjat, költséget, jutalékot nem számíthat fel.
 
 (5) A szerződés (2) bekezdésben meghatározott módosításának, újrakötésének vagy a kiváltásának és az ehhez kapcsolódó egyéb pénzügyi szolgáltatásoknak a közvetítésére, valamint egyéb közreműködői feladatok ellátására, továbbá egyéb együttműködés részeként történő részvételre közvetítő nem jogosult akkor sem, ha a váltás más szolgáltatások értékesítése részeként vagy ehhez kapcsolódóan történik.
+
+234/K. § Az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvény 19. §-ával megállapított rendelkezéseket a folyamatban lévő végelszámolási eljárásokra is alkalmazni kell azzal, hogy a 105. § (1) bekezdésében meghatározott kártalanítási határidőt az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvény hatálybalépésének napjától kell számítani.
 
 235. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 

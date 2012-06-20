@@ -1083,7 +1083,7 @@ folytatható le.
 - b) a felszámolás kezdő időpontja előtt vagyont terhelő zálogjoggal biztosított követelések a zálogtárgy értékének erejéig, figyelembe véve a 49/D. § (2) bekezdése alapján már kifizetett összeget is; ha a vagyont több zálogjog terheli, akkor a kielégítés sorrendjére a Ptk. 256. §-ának (1) bekezdése az irányadó,
 - c) a gazdálkodó szervezetet terhelő tartásdíj, életjáradék, kártérítési járadék, bányászati keresetkiegészítés, továbbá a mezőgazdasági szövetkezet tagja részére a háztáji föld vagy termény helyett adott pénzbeli juttatás, amely a jogosultat élete végéig megilleti;
 - d) a kötvényen alapuló követelések kivételével, magánszemély nem gazdasági tevékenységből eredő más követelése (így különösen a hibás teljesítésből, a kártérítésből eredő követelések, a szakmában szokásos várható szavatossági vagy jótállási kötelezettségek felszámoló által számszerűsített összegét is ideértve), a kis- és mikrovállalkozás, valamint a mezőgazdasági őstermelő követelése;
-- e) a társadalombiztosítási alapok javára fennálló tartozások és a magán-nyugdíjpénztári tagdíjtartozások, az adók – kivéve a (2) bekezdés szerinti adó- és járuléktartozásokat – és adók módjára behajtható köztartozások, a büntetőeljárásban a 6/A. § (8) bekezdés alapján az állam javára fizetendő összeg, továbbá a visszafizetendő államháztartási, európai uniós vagy nemzetközi szerződésen alapuló más nemzetközi forrásból származó támogatások, valamint a közműdíjak és a társasházi közös költség,
+- e) a társadalombiztosítási alapok javára fennálló tartozások, az adók – kivéve a (2) bekezdés szerinti adó- és járuléktartozásokat – és adók módjára behajtható köztartozások, a büntetőeljárásban a 6/A. § (8) bekezdés alapján az állam javára fizetendő összeg, továbbá a visszafizetendő államháztartási, európai uniós vagy nemzetközi szerződésen alapuló más nemzetközi forrásból származó támogatások, valamint a közműdíjak és a társasházi közös költség,
 - f) egyéb követelések;
 - g) a keletkezés idejétől és jogcímétől függetlenül a késedelmi kamat és késedelmi pótlék, továbbá a pótlék és bírság jellegű tartozás;
 - h) azok a követelések (ide nem értve a kötelező minimálbér kétszeresét el nem érő, hathavi átlagkeresetet meg nem haladó munkabér- és bérjellegű követeléseket [(2) bekezdés a) pont]), amelyek jogosultja
@@ -1111,7 +1111,7 @@ folytatható le.
 
 (5) Ha az (1) bekezdés e)—g) pontjában szereplő követelések kielégítésére nincs elegendő fedezet, az egyes csoportokba tartozó hitelezőket — először az e), az f), majd a g) pontban szereplőket — követeléseik arányában kell kielégíteni.
 
-(6) Ha az (1) bekezdés e) pontjába tartozó hitelezők teljes kielégítésére nincs elegendő fedezet, a csoporton belül először a társadalombiztosítási alapok javára fennálló tartozásokat kell kielégíteni teljes egészében, majd pedig a többi hitelezőt követeléseik arányában.
+(6) Ha az (1) bekezdés e) pontjába tartozó hitelezők teljes kielégítésére nincs elegendő fedezet, a csoporton belül először a társadalombiztosítási alapok javára fennálló tartozásokat (ideértve a szociális hozzájárulási adót is) kell kielégíteni teljes egészében, majd pedig a többi hitelezőt követeléseik arányában.
 
 (7) A felszámoló által nyilvántartásba vett követelés engedményezése nem érinti a követelésnek a kielégítési sorrendben elfoglalt helyét.
 
@@ -1378,6 +1378,8 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 (5) Ha a (4) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a bíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára vagy érdekében történő feljegyzéséhez érdek nem fűződik. Ellenkező esetben a bíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
 
 83/D. § A Módtv-vel módosított 65–70. §-t (ide nem értve a Módtv-vel módosított 66. § (5) bekezdést) a 2012. január 1-jét követően kezdeményezett eljárásokban kell alkalmazni, a Módtv-vel módosított 66. § (5) bekezdést pedig a 2012. január 1-jén már folyamatban lévő eljárásokban is alkalmazni kell.
+
+83/E. § Az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 57. § (1) bekezdés e) pontját és 57. § (6) bekezdését a hatálybalépés napját követően indult felszámolási eljárásokban kell alkalmazni.
 
 84. §
 

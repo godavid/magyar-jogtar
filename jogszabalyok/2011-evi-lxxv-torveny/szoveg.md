@@ -75,7 +75,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
 
 (5) Ha a kezesség érvényesítése vagy a tartozás behajtása során az állami adóhatóság megállapítja, hogy a természetes személy a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződés megkötése során hamisított, valótlan tartalmú irattal, nyilatkozattal megtévesztette a pénzügyi intézményt, akkor a természetes személynek a kezesség érvényesítésekor kifizetett összeg 150%-át kell megfizetnie.
 
-2/A. § (1) A pénzügyi intézmény által a hiteladóssal szemben a 4. § (1) bekezdés f) pont fa) alpontja szerint nem érvényesíthető mentesített követelésrész fele összegét a magyar állam naptári negyedévenként utólag megtéríti a pénzügyi intézmény részére.
+2/A. § (1) A pénzügyi intézmény által a hiteladóssal szemben a 4. § (1) bekezdés f) pont fa) alpontja szerint nem érvényesíthető mentesített követelésrész összegét a magyar állam naptári negyedévenként utólag megtéríti a pénzügyi intézmény részére.
 
 (2) Amennyiben a pénzügyi intézmény által alkalmazott törlesztési árfolyam a legmagasabb árfolyamot meghaladja, a legmagasabb árfolyamot meghaladó árfolyam miatt a rögzített árfolyam alkalmazási időszaka alatt felmerült, a legmagasabb árfolyamot meghaladó törlesztési kötelezettséget a Magyar Állam naptári negyedévenként utólag a pénzügyi intézmény részére teljes mértékben megtéríti.
 
@@ -148,7 +148,7 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
 
 (3) Ha a hitelező a lakáshitel-szerződésből eredő követelést olyan személyre vagy szervezetre engedményezi, akinek a tevékenységének ellenőrzése nem tartozik a Pénzügyi Szervezetek Állami Felügyeletének (a továbbiakban: Felügyelet) hatáskörébe, az e követelést biztosító zálogjoggal terhelt, kényszerértékesítésre kijelölt fedezeti ingatlan a kijelölést követő valamennyi negyedévben beleszámítandó az adott megyében, fővárosban kényszerértékesítésre kijelölt fedezeti ingatlanok számába.
 
-8. § (1) A hitelező minden tárgynegyedév első napján megyei, fővárosi szinten megállapítja az összes fedezeti ingatlanának a számát és a 7. §-ban foglaltak szerint kijelöli azokat, amelyek tekintetében kényszerértékesítést kezdeményez.
+8. § (1) A hitelező minden tárgynegyedév első napján megyei, fővárosi szinten megállapítja az összes fedezeti ingatlanának a számát, és a 7. §-ban foglaltak szerint kijelöli azokat, amelyek tekintetében kényszerértékesítést kezdeményez. Nem lehet kényszerértékesítésre kijelölni azt a fedezeti ingatlant, amely tulajdonjogának a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény szerinti átruházásához a hitelező hozzájárult, és erről szóló elvi hozzájáruló nyilatkozatát a Nemzet Eszközkezelőnek megküldte.
 
 (2) A kényszerértékesítésre kijelölt fedezeti ingatlan kényszerértékesítését a hitelezőnek a tárgynegyedév végéig kezdeményeznie kell, kivéve, ha a hitelező pénzügyi intézmény a lakáshitel fedezetéül szolgáló lakóingatlan tulajdonjogának – a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény szerinti – átruházásához hozzájárult.
 
@@ -239,6 +239,8 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni.
 #### 15–16. §
 
 #### 17. §
+
+18. § E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel módosított 2/A. § (1) bekezdését a 2012. április 1-jét követően mentesített követelésrészekre lehet alkalmazni.
 
 ### 1. melléklet a 2011. évi LXXV. törvényhez
 
