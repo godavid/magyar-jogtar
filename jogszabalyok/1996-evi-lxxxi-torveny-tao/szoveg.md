@@ -207,7 +207,7 @@ fejében a jogosult által kapott ellenérték;
 
 (3) A társasági adóalapja a szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság esetén a 15. §-ban, az ingatlannal rendelkező társaság tagja esetében a 15/A. §-ban meghatározott jövedelem.
 
-(4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza.
+(4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyház, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
 
 (5) Ha az adózó (2) bekezdés szerinti adózás előtti eredménye vagy az (1) bekezdés szerinti adóalapja közül a nagyobb érték nem éri el a jövedelem-(nyereség-)minimumot, akkor választása szerint
 
@@ -274,7 +274,7 @@ fejében a jogosult által kapott ellenérték;
 - w)
 - x)
 - y) az adóév első napján mikrovállalkozásnak minősülő adózónál – döntése szerint – a (19)–(20) bekezdésben foglaltakat is figyelembe véve a foglalkoztatottak átlagos állományi létszáma előző adóévhez, az adózó átalakulása esetén a jogelőd utolsó adóévéhez, előző adóév hiányában nullához viszonyított növekményének és az adóév első napján érvényes havi minimálbér adóévre számított összegének szorzata, feltéve, hogy az adózó foglalkoztatottainak átlagos állományi létszáma a megelőző adóévben legfeljebb 5 fő és az adózónak az adóév utolsó napján nincs az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása,
-- z) a közhasznú szervezetnek, a közhasznú szervezettel kötött tartós adományozási szerződés keretében, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység támogatására, vagy a Magyar Kármentő Alapnak, illetve a Nemzeti Kulturális Alapnak az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének 1. 20 százaléka közhasznú szervezet, 50 százaléka a Magyar Kármentő Alap és a Nemzeti Kulturális Alap támogatása esetén, 2. további 20 százaléka tartós adományozási szerződés esetén, de együttesen legfeljebb az adózás előtti eredmény összege,
+- z) a közhasznú szervezetnek, a közhasznú szervezettel kötött adományozási szerződés keretében, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység támogatására, vagy a Magyar Kármentő Alapnak, illetve a Nemzeti Kulturális Alapnak az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének 1. 20 százaléka közhasznú szervezet, 50 százaléka a Magyar Kármentő Alap és a Nemzeti Kulturális Alap támogatása esetén, 2. további 20 százaléka tartós adományozási szerződés esetén, de együttesen legfeljebb az adózás előtti eredmény összege,
 - zs) az adóév utolsó napján kis- és középvállalkozásnak minősülő adózónál – ha igénybe kívánja venni a kedvezményt – a korábban még használatba nem vett ingatlan, valamint a korábban még használatba nem vett, a műszaki berendezések, gépek, járművek közé sorolandó tárgyi eszköz üzembe helyezése érdekében elszámolt adóévi beruházások értéke, továbbá az ingatlan bekerülési értékét növelő adóévi felújítás, bővítés, rendeltetés-változtatás, átalakítás értéke, valamint az immateriális javak között az adóévben állományba vett, korábban még használatba nem vett szellemi termék bekerülési értéke, figyelemmel a (11)–(12) bekezdésben foglaltakra.
 
 (2) Az adózó az adóévre vonatkozóan választhatja, hogy az (1) bekezdés dzs) pontjának a) alpontjában és a 8. § (1) bekezdés dzs) pontjának a) alpontjában foglaltakat kizárólag a fedezeti ügylettel nem fedezett, külföldi pénzértékre szóló befektetett pénzügyi eszközei között kimutatott tulajdoni részesedést jelentő befektetései értékének módosításaként a mérlegfordulónapi értékeléskor a devizaárfolyam változása alapján eszközönként elszámolt összeg tekintetében (a más befektetett pénzügyi eszközei és hosszú lejáratú kötelezettségei értékének módosításaként elszámolt összeget figyelmen kívül hagyva) alkalmazza, feltéve, hogy e választása nem eredményezi, hogy adóalapja alacsonyabb lesz az (1) bekezdés dzs) pontjának és a 8. § (1) bekezdés dzs) pontjának alkalmazása nélkül az adóévre kiszámított adóalapnál.
@@ -402,7 +402,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 - a)
 - b) a közhasznú szervezetként besorolt alapítványnak, közalapítványnak, egyesületnek, köztestületnek és felsőoktatási intézménynek vállalkozási tevékenysége adózás előtti nyereségének 20 százalékával;
-- c) a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j), m), n), o), r), t), u) és v) pontja, továbbá a 7. § (3), (10) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
+- c) a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j),, n), o), r), t), u) és v) pontja, továbbá a 7. § (3), (10) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
 - d)
 - e) a munkáltatói és munkavállalói érdekképviseleti szervezetnél a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével, amelyet az adóévben, az adóévet követő adóévben a szervezet alapítói okiratában, alapszabályában nevesített célszerinti tevékenysége bevételét meghaladó költsége, ráfordítása fedezetére használ fel.
 
@@ -423,7 +423,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (8) Az országos érdek-képviseleti szervezet az adóalapot az (1)–(7) bekezdések szerint, a közhasznú szervezetre vonatkozó rendelkezések megfelelő alkalmazásával állapítja meg.
 
-(9) Az egyház vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével határozza meg,
+(9) Az egyház vállalkozási tevékenysége adózás előtti eredményét a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseinek figyelembevételével, az adóalapot az (1)–(7) bekezdéseknek a közhasznú szervezetekre vonatkozó rendelkezései megfelelő alkalmazásával állapítja meg,
 
 (10) Az európai területi együttműködési csoportosulás az adóalapot az (1)–(7) bekezdések megfelelő alkalmazásával állapítja meg.
 
@@ -466,7 +466,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 ### A közhasznú nonprofit gazdasági társaság, a szociális szövetkezet és a vízitársulat adóalapja
 
-13/A. § (1) A közhasznú jogállással rendelkező nonprofit gazdasági társaság és a vízitársulat adóalapja az adózás előtti eredmény, csökkentve a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j), m), n), o), p), r), t), u), v) és y) pontjaiban és a 7. § (3), (10) és (18)–(20) bekezdésében foglaltakkal, növelve a 8. § (1) bekezdésének a), b), d), e), gy), h), j), m), o), p), r) és v) pontjaiban, valamint a 8. § (5)–(6) bekezdésében foglaltakkal, továbbá az előzőeket figyelembe véve alkalmazza a 16., 18. és a 28. §-ok, valamint a VII. fejezet rendelkezéseit.
+13/A. § (1) A közhasznú jogállással rendelkező nonprofit gazdasági társaság és a vízitársulat adóalapja az adózás előtti eredmény, csökkentve a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j), n), o), p), r), t), u), v) és y) pontjaiban és a 7. § (3), (10) és (18)–(20) bekezdésében foglaltakkal, növelve a 8. § (1) bekezdésének a), b), d), e), gy), h), j), m), o), p), r) és v) pontjaiban, valamint a 8. § (5)–(6) bekezdésében foglaltakkal, továbbá az előzőeket figyelembe véve alkalmazza a 16., 18. és a 28. §-ok, valamint a VII. fejezet rendelkezéseit.
 
 (2) A közhasznú nonprofit gazdasági társaságnak az (1) bekezdésben foglaltak mellett növelnie kell az adózás előtti eredményét
 
@@ -520,7 +520,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (8) Amennyiben a szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alá nem tartozó kapcsolt vállalkozásával kötött szerződésükben olyan ellenértéket alkalmaz, amely a 18. § alapján nem tekinthető szokásos piaci árnak, és ennek eredményeképpen a szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság adózás előtti eredménye kisebb, mint a szokásos piaci ár mellett lett volna, úgy a szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság a (6) bekezdés alkalmazásától függetlenül köteles az alkalmazott ellenérték és a szokásos piaci ár különbözete után az adót megállapítani.
 
-(9) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság a (6) bekezdésben foglalt rendelkezést nem alkalmazhatja a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alá nem tartozó kapcsolt vállalkozásával kötött ügyletből származó bevételre.
+(9) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság vagy a szabályozott ingatlanbefektetési projekttársaság a (6) bekezdésben foglalt rendelkezést nem alkalmazhatja a szabályozott ingatlanbefektetési társaságokról szóló törvény hatálya alá nem tartozó kapcsolt vállalkozásával kötött ügyletből származó, a bevétellel arányos adóalapra.
 
 ### Az ingatlannal rendelkező társaság tagjánakadóalapja és az adó mértéke
 
@@ -1256,15 +1256,17 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 29/Q. § (1) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított, illetve módosított rendelkezéseit – e törvény eltérő rendelkezése hiányában – első ízben a 2012. adóévi adókötelezettségre kell alkalmazni.
 
-(2) Az alapkutatás, az alkalmazott kutatás vagy a kísérleti fejlesztés közvetlen költségei között, továbbá a szoftverfejlesztő alkalmazására tekintettel 2011. december 31-ig elszámolt bérköltség után az e törvény 22. § (10) bekezdésének 2011. december 31-én hatályos szövege szerint meghatározott adókedvezmény utoljára a 2014. évi adóalap utáni adóból vehető igénybe.
+(2) Az alapkutatás, az alkalmazott kutatás vagy a kísérleti fejlesztés közvetlen költségei között, továbbá a szoftverfejlesztő alkalmazására tekintettel 2011. december 31-ig elszámolt bérköltség után az e törvény 22. § (9)–(10) bekezdésének 2011. december 31-én hatályos szövege szerint meghatározott adókedvezmény utoljára a 2014. évi adóalap utáni adóból vehető igénybe.
 
-(3) Csökkenti a társasági adó alapját a 2007-től 2009-ig tartó üzleti években megállapított, ki nem fizetett osztalék 2010. január 1-jét követő elengedésére tekintettel elszámolt rendkívüli bevétel összege, nem növeli az osztalékot megállapító társaság tagjánál az elengedett követelésre tekintettel elszámolt rendkívüli ráfordítás összege (kivéve, ha a követelést ellenőrzött külföldi társasággal szemben engedte el), függetlenül attól, hogy az osztalékot megállapító társasággal kapcsolt vállalkozási viszonyban áll.
+(3) Csökkenti a társasági adó alapját a megállapított, ki nem fizetett osztalék elengedésére tekintettel elszámolt rendkívüli bevétel összege, nem növeli az osztalékot megállapító társaság tagjánál az elengedett követelésre tekintettel elszámolt rendkívüli ráfordítás összege (kivéve, ha a követelést ellenőrzött külföldi társasággal szemben engedte el), függetlenül attól, hogy az osztalékot megállapító társasággal kapcsolt vállalkozási viszonyban áll.
 
 (4) A 8. § (1) bekezdés k) és 1) pontja, valamint 8. § (2) bekezdése rendelkezéseit – az eltérő üzleti évet alkalmazó adózókra is kiterjedően – a hatálybalépésüket követően értékesített (kivezetett) részesedés, illetve termőföldből átminősített ingatlan adókötelezettségére kell alkalmazni.
 
 (5) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 17. § (9) bekezdését először a 2012. évben kezdődő adóévben megvalósuló közvetlen vagy közvetett többségi befolyás szerzése esetén és a 2012. évben kezdődő adóév adóalapjának megállapításakor kell alkalmazni.
 
 (6) E törvénynek a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosításáról szóló 2012. évi XXXIII. törvénnyel megállapított 22/C. § (1) bekezdés b) pont bb) alpontját, d) pont df) alpontját, 22/C. § (2)–(3) bekezdését, 22/C. § (5) bekezdés h) pontját, 22/C. § (5a) bekezdését, 22/C. § (6) bekezdését, valamint 22/C. § (9) bekezdését első alkalommal a 2012–2013-as támogatási időszakra vonatkozó sportfejlesztési programok jóváhagyására irányuló kérelmek során kell alkalmazni.
+
+29/R. § E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított rendelkezéseit a 2012. évi adókötelezettség megállapítására is alkalmazni kell.
 
 ### ZÁRÓ RENDELKEZÉSEK
 
@@ -1298,9 +1300,9 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 31. § (1) Ez a törvény a következő uniós jogi aktusoknak történő megfelelést szolgálja:
 
 - a) a Tanács 90/434/EGK irányelve a különböző tagállamok társaságait érintő egyesülésekre, szétválásokra, eszközátruházásokra és részesedéscserékre alkalmazandó közös adózási rendszerről;
-- b) a Tanács 90/435/EGK irányelve a különböző tagállamok anyavállalatai és leányvállalatai esetében alkalmazandó közös adózási rendszerről;
+- b) a Tanács 2011/96/EU irányelve a különböző tagállamok anya- és leányvállalatai esetében alkalmazandó adóztatás közös rendszeréről;
 - c) a Tanács 03/49/EK irányelve a tagállamok kapcsolt vállalkozásai közötti kamat, jogdíj fizetések adóztatásának egységes rendszeréről;
-- d) a Tanács 2003/123/EK irányelve a különböző tagállamok anyavállalatai és leányvállalatai esetében alkalmazandó közös adózási rendszerről szóló a Tanács 90/435/EGK irányelve módosításáról;
+- d)
 - e) a Tanács 2005/19/EK irányelve a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről szóló 90/434/EGK irányelv módosításáról,
 - f) a Tanács 2003/48/EK irányelve a megtakarításokból származó kamatjövedelem adóztatásáról,
 - g) a Tanács 2006/98/EK irányelve (2006. november 20.) az adózás területén elfogadott egyes irányelveknek Bulgária és Románia csatlakozására tekintettel történő kiigazításáról.
@@ -1326,7 +1328,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 - 3. Az adózó az értékcsökkenési leírást az eszköz bekerülési értékére vetítve állapítja meg. A jogutód a jogelőd által már üzembe helyezett eszközre az értékcsökkenési leírást a jogelődnél az átalakulás időpontjában kimutatott bekerülési értékre vetítve is megállapíthatja. Az adózás előtti eredmény csökkentéseként elszámolt értékcsökkenési leírás nem haladhatja meg az eszköznek az adózónál kimutatott bekerülési értékét.
 - 4. Nem számolható el értékcsökkenési leírás azon eszközre, amelyre a számvitelről szóló törvény szerint nem számolható el terv szerinti értékcsökkenés, vagy nem szabad elszámolni terv szerinti értékcsökkenést. Nem kell e rendelkezést figyelembe venni a nulla vagy – a terv szerinti értékcsökkenés elszámolása következtében – a maradványértéknek megfelelő könyv szerinti értékű eszköznél, valamint ha az adózó az eszközre e törvény külön rendelkezése alapján érvényesíti a számvitelről szóló törvény alapján megállapított terven felüli értékcsökkenést, továbbá az épületnél, építménynél. Ha a tárgyi eszközhöz telek is tartozik, a telek bekerülési értékét el kell különíteni.
 - 5. A számvitelről szóló törvény szerint megállapított terv szerinti értékcsökkenés (ideértve az egy összegben elszámolt értékcsökkenési leírást is) érvényesíthető
-  - a) immateriális javaknál és az ingatlanhoz kapcsolódó vagyoni értékű jogoknál, figyelemmel a 13. pont rendelkezésére,
+  - a) immateriális javaknál és az ingatlanhoz kapcsolódó vagyoni értékű jogoknál,
   - b) a koncesszió keretében megvalósult tárgyi eszközöknél,
   - c) az ipari park közműnek minősülő – út, víz- és csatornaellátás, energiaellátás, távközlés célját szolgáló – tárgyi eszközeinél,
   - d) a bányászatban a kizárólag egy bánya célját szolgáló épületek, építmények, speciális gépek, berendezések, felszerelések, a föld alatti bányatérségek és építmények, valamint az ezekhez tartozó speciális gépek és az igénybe vett földterület esetében, valamint a villamosenergia-iparban az atomerőművi technológiai épületek, építmények,
@@ -1569,6 +1571,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 - 11. a külön törvényben és annak felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelően működő, kizárólag készfizetőkezesség-vállalást folytató részvénytársaság,
 - 12. az a jogi személy, jogi személyiség nélküli gazdasági társaság, amely az adóévben az egyszerűsített vállalkozói adó alanyának minősül.
 - 13. a költségvetési szervként működő felsőoktatási intézmény (ideértve az általa létrehozott intézményt is) és diákotthon,
+- 14. a Nemzeti Eszközkezelő Zrt.
 
 ### 6. számú melléklet az 1996. évi LXXXI. törvényhez
 
@@ -1580,11 +1583,11 @@ Alapítvány, közalapítvány, egyesület és köztestület által végzett ked
 
 Az alapítvány, a közalapítvány, az egyesület és a köztestület 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
 
-1. a közhasznú tevékenység, vagy – ha nem minősül közhasznú szervezetnek – az alapító okiratában, alapszabályában nevesített cél szerinti tevékenység, ideértve mindkét esetben az e tevékenységhez kapott támogatást, juttatást és a tagdíjat is;
+1. a közhasznú tevékenység és az alapító okiratában, alapszabályában nevesített cél szerinti tevékenység, ideértve mindkét esetben az e tevékenységhez kapott támogatást, juttatást és a tagdíjat is;
 
-2. a kizárólag a közhasznú tevékenységet vagy – ha nem minősül közhasznú szervezetnek – a cél szerinti tevékenységet szolgáló immateriális javak, tárgyi eszközök, készletek értékesítésének ellenértéke, bevétele;
+2. a kizárólag a közhasznú tevékenységet vagy a cél szerinti tevékenységet szolgáló immateriális javak, tárgyi eszközök, készletek értékesítésének ellenértéke, bevétele;
 
-3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység vagy – ha nem minősül közhasznú szervezetnek – a cél szerinti tevékenység bevétele az összes bevételben képvisel, azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
+3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység és a cél szerinti tevékenység bevétele az összes bevételben képvisel, azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
 
 B)
 

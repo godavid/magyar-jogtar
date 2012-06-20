@@ -1047,7 +1047,7 @@ azzal, hogy a ca)–cb) pont és a b) pont alapján az átutalás összege az ad
 (9) A (6)–(8) bekezdésben foglaltaktól függetlenül a magánszemély az adóelőleget megállapító munkáltatótól, kifizetőtől írásbeli nyilatkozatban
 
 - a) kérheti, hogy az adott kifizetés adóelőlegének megállapítása során a jövedelem egészére vagy annak a nyilatkozatban megjelölt részére alkalmazza az adóalap-kiegészítést;
-- b) köteles kérni az adóalap-kiegészítés alkalmazását akkor, ha a várható éves összevonás alá eső jövedelme – a (8) bekezdés szerinti munkáltatótól származó jövedelmet is beszámítva – a 2 millió 424 ezer forintot meghaladja, azzal, hogy a nyilatkozattételi kötelezettség elmulasztása esetén a magánszemély a 48. § (4) bekezdés b) pontjában meghatározott különbözeti bírság fizetésére köteles.
+- b) a jövedelem egészére köteles kérni az adóalap-kiegészítés alkalmazását akkor, ha az adóévben megszerzett azon jövedelmeinek együttes összege, melyek adóelőlegének megállapítása során az adóalap-kiegészítést nem vették figyelembe, ideértve az adóelőleget megállapító munkáltatótól származó ilyen jövedelmet is, a 2 millió 424 ezer forintot meghaladja azzal, hogy a nyilatkozattételi kötelezettség elmulasztása esetén a magánszemély a 48. § (4) bekezdés b) pontjában meghatározott különbözeti bírság fizetésére köteles.
 
 ### Az adóelőleg-nyilatkozat
 
@@ -2593,6 +2593,8 @@ megállapított – ha a magánszemély az értékpapírt nem ingyenesen szerezt
 
 (2) Az 1. számú mellékletnek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 2.8. pontjának rendelkezését az otthonvédelemmel összefüggő egyes törvények módosításáról szóló 2011. évi CXXI. törvény hatálybalépésének napja és a 2011. december 31. közötti időszakban folyósított, a munkáltató által végtörlesztés céljából adott vissza nem térítendő támogatásra lehet alkalmazni azzal, hogy a befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény hatálybalépésének napjától biztosított vissza nem térítendő támogatás a következő évek javadalmazását nem érintheti (előrehozott juttatást semmilyen formában nem valósíthat meg).
 
+84/V. § E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel módosított 1. számú melléklete 4.5. pontját a 2012. január 1-jétől megszerzett jövedelmekre lehet alkalmazni.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -2625,7 +2627,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 2.1. a lakáscélú támogatás, ha az
 
-2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, az említett kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá a lakásépítési támogatásról szóló kormányrendelet szerinti támogatás,
+2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, az említett kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá a lakásépítési támogatásról szóló kormányrendelet és az otthonteremtési kamattámogatásról szóló kormányrendelet szerinti támogatás,
 
 2.1.2. a lakáscélra nyújtott hitel törvény vagy törvény felhatalmazása alapján kiadott más jogszabály alapján elengedett része,
 
@@ -2699,6 +2701,14 @@ illeti meg.
 
 3.5. a hivatali idejét kitöltött volt köztársasági elnök, az Országgyűlés elnöke által a számára biztosított előirányzat terhére közcélú felajánlás, adomány, vállalás címén közvetlenül magánszemélynek juttatott vagyoni érték.
 
+3.6. az a tevékenység ellenértékének nem minősülő pénzbeli juttatás, amelyet
+
+a) a külön törvény alapján, a külön törvényben meghatározott célra létrehozott, vagy
+
+b) a központi költségvetésről szóló törvényben egyedi támogatásban részesített,
+
+vállalkozási tevékenységet nem folytató alapítványtól, közalapítványtól, a szervezet céljával összhangban kap a magánszemély;
+
 4. Egyes tevékenységekhez kapcsolódóan adómentes:
 
 4.1. a nemzetközi szerződésben meghatározott diplomáciai kiváltságokat és mentességeket élvező nemzetközi szervezetek által kifizetett napidíj;
@@ -2709,7 +2719,7 @@ illeti meg.
 
 4.4. a külföldi középfokú és felsőoktatási intézmény nem magyar állampolgár hallgatójának belföldi szakmai gyakorlaton végzett munkájából származó jövedelem;
 
-4.5. a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló miniszterelnöki rendelet alapján a Magyar Corvin-lánc Testület által a tagja javaslatára megítélt ösztöndíj, továbbá a Nobel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom;
+4.5. a Magyar Corvin-lánc kitüntetés alapításáról és alapszabályáról szóló miniszterelnöki rendelet alapján a Magyar Corvin-lánc Testület által a tagja javaslatára megítélt ösztöndíj, továbbá a Nobel-díjhoz, az Abel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom;
 
 4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint a büntetés-végrehajtást, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter és az egyházak központi szerve által adományozott emléktárgy (dísztőr, gyűrű stb.) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
 
@@ -2770,6 +2780,8 @@ b) a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből 
 4.22. a Rezidens Támogatási Program keretében folyósított ösztöndíj, továbbá az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló kormányrendelet alapján az első szakképesítés megszerzésére irányuló képzésben történő részvétel során a támogatott jelöltnek a szakképzéssel kapcsolatos kiadások, dologi költségek megtérítésére az adott évre vonatkozó költségvetési törvényben meghatározott mértékű, utólagosan folyósított támogatás.
 
 4.23. a Magyar Közigazgatási Ösztöndíjprogram keretében folyósított ösztöndíj.
+
+4.24. a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetekről szóló 2006. évi X. törvény 56. § (1) bekezdése szerint termék termelésével vagy feldolgozásával teljesített személyes közreműködés ellenértékeként a tagi jogállásra tekintettel élelmiszer, a szövetkezet tevékenységének eredményeként előállított javak vagy fogyasztásra kész étel vásárlására felhasználható utalvány formájában együttesen legfeljebb havonta a minimálbér összegét meg nem haladó értékben megszerzett bevétel azzal, hogy a fogyasztásra kész étel vásárlására felhasználható utalvány formájában juttatott bevétel nem haladhatja meg a minimálbér 25 százalékát. Az élelmiszer juttatás vagy a szövetkezet tevékenységének eredményeként előállított javak értékének megállapításánál a szövetkezet értékesítési tevékenysége során alkalmazott árat, ennek hiányában a szokásos piaci értéket kell figyelembe venni.
 
 5.
 
@@ -2921,7 +2933,9 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 
 a) a magánszemély kötelezett (adós) és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kötelezett nyilatkozata alapján, a nyilatkozattétel hónapját megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét vagy
 
-b) a követelés biztosítékául szolgáló, a magánszemély tulajdonában álló lakásra a követelés elengedését megelőzően végrehajtási eljárás keretében árverést folytattak le.
+b) a követelés biztosítékául szolgáló, a magánszemély tulajdonában álló lakásra a követelés elengedését megelőzően végrehajtási eljárás keretében árverést folytattak le;
+
+7.22. az az összeg, amelyet az otthonteremtési kamattámogatásról szóló kormányrendelet szerint a hátralékos adós magánszemély javára a hitelintézet elenged, feltéve, hogy a magánszemély a késedelmes jelzáloghitellel terhelt átruházott ingatlanának a vonatkozó adásvételi szerződés szerinti vételárát teljes egészében hátraléka törlesztésére fordítja.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 

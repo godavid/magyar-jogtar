@@ -1395,7 +1395,22 @@ rendeletben szabályozza.
 - a) a végkielégítésre és a jubileumi jutalomra jogosító idő meghatározásánál is közszolgálati jogviszonyban töltött időnek minősül a 2001. december 31-ig a Magyar Államkincstárnál elismert közalkalmazotti, valamint 2002. január 1-jétől a Magyar Államkincstár Részvénytársaságnál munkaviszonyban töltött idő, a munkavállaló nem jogosult ugyanazon fokozatú jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban már megkapta,
 - b) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvényben meghatározott felmentési idő mértéke meghaladhatja a hat hónapot azon köztisztviselők esetében, akik a Magyar Államkincstár megszűnésekor a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 33. §-ában foglaltak alapján 2001. december 31-ével azonos vagy magasabb mértékű felmentési időre voltak jogosultak közalkalmazotti jogviszonyuk megszűnésekor.
 
-(18) A helyi önkormányzat, mint az általános forgalmi adó alanya e törvény hatálybalépését követő hatvan napon belül jogosult bejelenteni az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdés a)–c) pontja szerinti nyilatkozatának megváltoztatását az állami adóhatóság felé.
+(18) Amennyiben a helyi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a helyi nemzetiségi önkormányzat, a helyi önkormányzati költségvetési szerv és a helyi nemzetiségi önkormányzati költségvetési szerv adóhatósághoz történő bejelentkezése az e törvény hatálybalépésére tekintettel vált szükségessé 2012. január 1-jén és e kötelezettségének nem tett eleget, az e bekezdésben említett szerv a bejelentési kötelezettségét legkésőbb 2012. július 31. napjáig teljesíti, azzal, hogy a bejelentkezéskor az adóköteles tevékenység kezdő időpontját is köteles közölni.
+
+(19) A helyi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a helyi nemzetiségi önkormányzat, a helyi önkormányzati költségvetési szerv és a helyi nemzetiségi önkormányzati költségvetési szerv az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdés a)–d), illetve h) pontja szerinti nyilatkozatot 2012. július 31-ig – közvetlenül az állami adóhatósághoz benyújtott nyilatkozatával – jogosult megtenni, megváltoztatni, mely során
+
+- a) az alanyi adómentesség választására vonatkozó joggal abban az esetben is élhet, ha
+  - aa) az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 188. § (1) bekezdés a) pontjában meghatározott feltételt nem teljesíti,
+  - ab) az Áfa tv. 191. § (3) bekezdésében rögzített időtartam még nem telt el,
+- b) az Áfa tv. 88. § (1) bekezdésében említett választástól abban az esetben is eltérhet, ha a 88. § (5) bekezdésében rögzített időtartam még nem telt el.
+
+(20) A (19) bekezdés alapján tett nyilatkozatot úgy kell tekintetni, mintha azt a helyi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a helyi nemzetiségi önkormányzat, a helyi önkormányzati költségvetési szerv és a helyi nemzetiségi önkormányzati költségvetési szerv 2011. december 31-ig az állami adóhatósághoz bejelentette volna.
+
+(21) A (19) bekezdés szerinti bejelentéssel összefüggő önellenőrzés esetén önellenőrzési pótlékot sem felszámítani sem megfizetni nem kell.
+
+(22) A helyi önkormányzat, a többcélú kistérségi társulás, a jogi személyiségű társulás, a helyi nemzetiségi önkormányzat, a helyi önkormányzati költségvetési szerv, a helyi nemzetiségi önkormányzati költségvetési szerv gazdálkodásának elkülönítése adó- és illetékfizetési kötelezettséget nem keletkeztet, azzal az eltéréssel, hogy azt általános forgalmi adó szempontból az Áfa tv. 17. § (3) bekezdése szerinti jogutódlással történő megszűnésnek kell tekinteni. Az elkülönített gazdálkodás tekintetében az elkülönítést követően gazdálkodást folytató helyi önkormányzatot, többcélú kistérségi társulást, jogi személyiségű társulást, helyi nemzetiségi önkormányzatot, helyi önkormányzati költségvetési szervet, helyi nemzetiségi önkormányzati költségvetési szervet az adó- és illetéktörvények szempontjából úgy kell tekinteni, mintha jogutódként járna el.
+
+111/A. § E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 111. §-ának (18)–(22) bekezdéseit a 2012. január 1-jén vagy azt követően indult és a hatálybalépéskor folyamatban lévő ügyekben is alkalmazni kell azzal, hogy a (22) bekezdést alkalmazni kell abban az esetben is, ha a gazdálkodás elkülönítésére 2012. január 1-jét megelőzően került sor.
 
 #### 74. Módosító rendelkezések
 

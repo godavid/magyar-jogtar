@@ -75,7 +75,8 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés tagállamainak és a Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői, valamint az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok, és e fegyveres erők és parancsnokságok személyi állományába tartozó vagy alkalmazásában álló nem magyar állampolgárságú, katonai szolgálatban lévő és polgári állományú személyek, kizárólag a szolgálati kötelezettségükkel összefüggő illetékügyek tekintetében,
 - l) a területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó fejlesztési tanács,
 - m) a közhasznú, kiemelkedően közhasznú nonprofit gazdasági társaság, a közhasznú szociális szövetkezet,
-- n) az Európai Közösségek, valamint azok intézményei és szervei, hivatalai, elkülönült alapjai.
+- n) az Európai Közösségek, valamint azok intézményei és szervei, hivatalai, elkülönült alapjai,
+- o) Nemzeti Eszközkezelő Zrt.
 
 (2) Az (1) bekezdés c)–g) és m) pontokban említett szervezetet az illetékmentesség csak abban az esetben illeti meg, ha a vagyonszerzést, illetőleg az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége, illetve – költségvetési szerv esetében – eredménye után a központi költségvetésbe befizetési kötelezettsége nem keletkezett.
 
@@ -196,7 +197,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 16. § (1) Mentes az öröklési illeték alól:
 
-- a) a hazai tudományos, művészeti, oktatási, közművelődési, közjóléti célra juttatott örökség (hagyomány);
+- a) a tudományos, művészeti, oktatási, közművelődési, közjóléti célra juttatott örökség (hagyomány);
 - b) a takarékbetét öröklése,
 - c) a 12. § szerinti táblázat I. csoportjába tartozó örökös által megszerzett örökrész tiszta értékéből 20 millió forint;
 - d) az egy örökösnek jutó ingóörökség 300 000 forint forgalmi értéket meg nem haladó része. Az értékhatár megállapításánál a más címen illetékmentes ingóságot, továbbá az örökhagyó gépjárművének, pótkocsijának értékét, ruházatát és a személyes használatra szolgáló szokásos mértékű vagyontárgyait figyelmen kívül kell hagyni;
@@ -226,7 +227,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 17. § (1) Mentes az ajándékozási illeték alól:
 
-- a) a hazai tudományos, művészeti, oktatási, közművelődési, közjóléti célra juttatott ajándék megszerzése és az ilyen célú közérdekű kötelezettségvállalás (alapítvány) alapján történő vagyonszerzés, továbbá jótékony célú közadakozásból származó vagyoni érték megszerzése;
+- a) a tudományos, művészeti, oktatási, közművelődési, közjóléti célra juttatott ajándék megszerzése és az ilyen célú közérdekű kötelezettségvállalás (alapítvány) alapján történő vagyonszerzés, továbbá a jótékony célú közadakozásból származó vagyoni érték megszerzése;
 - b) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), valamint ilyen ingatlanon alapított vagyoni értékű jognak a megszerzése, ha a megajándékozott az ingatlanon a szerződés illetékkiszabásra történő bemutatásától számított 4 éven belül lakóházat épít, és a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. A megajándékozott lakóházépítési szándékáról legkésőbb az illetékfizetési meghagyás jogerőre emelkedéséig nyilatkozhat az állami adóhatóságnál;
 - c) az olyan ajándék megszerzése, amely után az ajándékozót vagy a megajándékozottat személyi jövedelemadó, társadalombiztosítási járulék vagy egészségügyi hozzájárulás fizetési kötelezettség terheli, továbbá az elismert munkavállalói értékpapír-juttatási program keretében megszerzett értékpapír, valamint a dolgozói üzletrészként, dolgozói részvényként személyi jövedelemadót nem viselő módon a társas vállalkozástól megszerzett üzletrész, részvény is,
 - d) lakástulajdon kezelői jogának ingyenes megszerzése;
@@ -414,11 +415,11 @@ szerzett.
 
 ### Gépjármű és pótkocsi visszterhes vagyonátruházási illetékének mértéke
 
-24. § (1) Gépjármű tulajdonjogának megszerzése esetén az illeték mértékét a jármű hajtómotorjának hatósági nyilvántartásban feltüntetett – kilowattban kifejezett – teljesítménye, és a jármű gyártástól számított kora alapján kell meghatározni az alábbiak szerint:
+24. § (1) Gépjármű tulajdonjogának megszerzése esetén az illeték mértékét a jármű hajtómotorjának hatósági nyilvántartásban feltüntetett – kilowattban kifejezett – teljesítménye, és a jármű gyártási évétől számított kora alapján kell meghatározni az alábbiak szerint:
 
 Ha a hatósági nyilvántartásban a gépjármű teljesítménye csak lóerőben van feltüntetve, akkor a lóerőben kifejezett teljesítményt 1,36-tal kell osztani és az eredményt a kerekítés általános szabályai szerint egész számra kell kerekíteni. Ha a hatósági nyilvántartás a gépjármű teljesítményét nem tartalmazza, akkor az adóhatóság a gépjármű azonosító adataival megkeresi az illetékes közlekedési hatóságot a gépjármű teljesítménye közlése végett. Ez esetben ezt az adatot kell a gépjármű tulajdonjogának megszerzése után fizetendő illeték alapjának tekinteni.
 
-| Jármű hajtómotorjának teljesítménye (kW) | Jármű gyártástól számított kora |  |  |
+| Jármű hajtómotorjának teljesítménye (kW) | Jármű gyártási évétől számított kora |  |  |
 | --- | --- | --- | --- |
 |  | 0–3 év | 4–8 év | 8 év felett |
 | 0–40 | 550 Ft/kW | 450 Ft/kW | 300 Ft/kW |
@@ -473,7 +474,7 @@ Ha a hatósági nyilvántartásban a gépjármű teljesítménye csak lóerőben
   - qd) az átvevő társaság vállalja, hogy az átruházás évét követő 2. naptári év végéig nem veszi igénybe a 23/A. § szerinti kedvezményes illetékmértéket.
 - r) – a (16) bekezdésben foglaltakra figyelemmel – az építésügyi szabályok és a településrendezési terv alapján sporttelep létrehozására alkalmas beépítetlen földrészlet sporttevékenységet, annak szervezését, valamint a sporttevékenység feltételeinek megteremtését végző sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány vagy sportszövetség általi megszerzése, ha a vagyonszerző az ingatlanon a szerződés illetékkiszabásra történő bemutatásától számított 4 éven belül sporttelepet hoz létre és vállalja, hogy az így létrehozott sporttelepet az üzembe helyezéstől számított 15 évig nem idegeníti el és sport célra használja vagy hasznosítja. Amennyiben a vagyonszerző a fizetési meghagyás jogerőre emelkedéséig nyilatkozik arról, hogy a megszerzett földrészleten a sporttelep létrehozásán kívül más épületet, építményt is létrehozni, építeni kíván, az adóhatóság a kiszabott illetékből kizárólag a sportteleppel beépíteni kívánt földrészlet után arányosan járó illetéket függeszti fel. E pont alkalmazásában sport célú használatnak vagy hasznosításnak minősül, ha a vagyonszerző az ingatlant versenyrendszerben szervezett verseny, mérkőzés, illetve sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány vagy sportszövetség által szervezett edzés megtartására, vagy szabadidősport esemény, diák-, főiskolai-egyetemi sport esemény megtartására használja vagy ilyen eseményekre hasznosítja.
 - s) a termőföldről szóló törvény 3. §-a u) pontjának 2. alpontjában meghatározott mezőgazdasági termelők által gazdaságátadási támogatás igénybevétele érdekében a közeli hozzátartozóval [Ptk. 685. § b) pont] megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó – ide értve a gépjárművet és a pótkocsit is – tulajdonának, illetve vagyoni értékű jognak a megszerzése;
-- t) ingatlannak, valamint a belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozások közötti átruházása. Ingatlan átruházása esetén az illetékmentesség akkor alkalmazható, ha az illetékkötelezettség keletkezése időpontjában a vagyonszerző főtevékenysége ingatlanforgalmazás, vagy saját tulajdonú ingatlan bérbeadása;
+- t) ingatlannak, valamint a belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozások közötti átruházása. Ingatlan átruházása esetén az illetékmentesség akkor alkalmazható, ha az illetékkötelezettség keletkezése időpontjában a vagyonszerző főtevékenysége saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése vagy saját tulajdonú ingatlan adásvétele;
 - u) a magánszemély lakásvásárlása, amennyiben az a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvényben meghatározott visszavásárlási jog érvényesítésével történik.
 - v) az egyéni cég egyszemélyes korlátolt felelősségű társasággá való átalakulása keretében történő vagyonszerzés;
 - w) a kizárólag elektromos hajtómotorral ellátott gépjármű tulajdonjogának, illetve ilyen gépjárműre vonatkozó vagyoni értékű jognak a megszerzése.
@@ -1273,9 +1274,9 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 (4) Ha a vagyonszerző a 26. § (1) bekezdésének i) pontjában meghatározott 15 év letelte előtt a mentességgel érintett ingatlant elidegeníti vagy igazolhatóan nem sport célra használja, hasznosítja, a mentesség alkalmazásának hiányában járó illetéknek a mentességet megállapító illetékkiszabó határozat (fizetési meghagyás) jogerőre emelkedésétől számított késedelmi pótlékkal növelt összegét kell megfizetnie.
 
-(4) Ha a 26. § (1) bekezdés r) pontjában meghatározott feltételek valamelyike nem teljesül, vagy a vagyonszerző – illetve a sporttelep létesítésére e törvény alapján köteles jogutódja – a sporttelep létesítésére biztosított határidőn belül kéri a megszerzett telek vagy annak egy része tekintetében az illeték felfüggesztésének megszüntetését, a megállapított, de meg nem fizetett illetéket az eredeti esedékességtől (a határozat jogerőre emelkedését követő naptól) számított késedelmi pótlékkal megnövelt összegben kell megfizetni.
+(4)
 
-(5) Ha a 26. § (1) bekezdés r) pontjában meghatározott feltétel nem teljesül, vagy a vagyonszerző –, illetve a sporttelep létesítésre e törvény alapján köteles jogutódja – a sporttelep létesítésére biztosított határidőn belül kéri a megszerzett telek vagy annak egy része tekintetében az illeték felfüggesztésének megszüntetését, a megállapított, de meg nem fizetett illetéket az eredeti esedékességtől (a határozat jogerőre emelkedését követő naptól) számított késedelmi pótlékkal megnövelt összegben kell megfizetni.
+(5) Ha a 26. § (1) bekezdés r) pontjában meghatározott feltételek valamelyike nem teljesül, vagy a vagyonszerző –, illetve a sporttelep létesítésre e törvény alapján köteles jogutódja – a sporttelep létesítésére biztosított határidőn belül kéri a megszerzett telek vagy annak egy része tekintetében az illeték felfüggesztésének megszüntetését, a megállapított, de meg nem fizetett illetéket az eredeti esedékességtől (a határozat jogerőre emelkedését követő naptól) számított késedelmi pótlékkal megnövelt összegben kell megfizetni.
 
 ### Az illeték biztosítása, behajtása, fizetési kedvezmények
 
@@ -1388,6 +1389,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 99/D. § (1) Az 5. § (2) és (4) bekezdésének, a 16. § (2d) bekezdésének, a 17. § (2d) bekezdésének, a 26. § (1) bekezdése t, v, w pontjának, a 26. § (2d) bekezdésének, a 26/A. § (1) bekezdés b) pontjának, az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított szövege valamennyi olyan illetékügyben alkalmazandó, melyben a hatálybalépéskor az állami adóhatóság fizetési meghagyást még nem adott ki.
 
 (2) Az 1. § (1)–(2) bekezdéseinek, a 23/A. § (1) bekezdésének, a 24. § (1), (3), (4), (6) és (7) bekezdésének, a 29. § (1), (3) és (7) bekezdésének, a 33. § (2) bekezdése 23. és 35. pontjának, a 39. § (3) bekezdésének, a 42. § (1) bekezdésének, a 43. § (1), (3), (5), (7) és (8) bekezdésének, a 46. § (1)–(2) bekezdéseinek, a 47. § (1) és (3) bekezdésének, az 50. § (1)–(4) bekezdéseinek, az 52. § (1) bekezdésének, az 57. § (1) bekezdése a) pontjának, az 58. § (1) bekezdése f) pontjának, a 74. §-ának, 78. § (1) bekezdésének, a 102. § (1) bekezdése v) pontjának, valamint a Melléklet IX. Címe I. és II/3. pontjának, X. Címe 3. pontjának és a XXI. Címe 1. és 2. pontjainak az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított szövegét a hatálybalépést követően illetékkiszabásra bemutatott vagy más módon az állami adóhatóság tudomására jutott vagyonszerzési ügyekben, illetve kezdeményezett eljárásokban kell alkalmazni.
+
+(3) A 23/A. § szerinti illetékkedvezmény feltételét a vállalkozó az ingatlan 26. § (1) bekezdésének t) pontja szerinti átruházásával akkor sem teljesíti, ha az ingatlan tulajdonjogát 2012. január 1-jét megelőzően szerezte meg.
 
 99/E. § E törvénynek a szövetkezetekről szóló 2006. évi X. törvény, az illetékekről szóló 1990. évi XCIII. törvény és a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosításáról szóló törvénnyel (a továbbiakban: Módtv.) megállapított 5. § (1) bekezdés m) pontját, 45. § (1) bekezdés c) pontját és 45. § (1a) bekezdését a Módtv. hatálybalépését követően illetékkiszabásra bemutatott vagy más módon az állami adóhatóság tudomására jutott vagyonszerzési ügyekben, valamint kezdeményezett elsőfokú, illetve jogorvoslati eljárásokban kell alkalmazni.
 
