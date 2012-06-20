@@ -243,18 +243,30 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 
 13/A. § (1) A helyhez kötött szerver alapú pénznyerő automatákat és a nem helyhez kötött szerver alapú pénznyerő rendszereket üzemeltető központi szerver (a továbbiakban: központi szerver) az államháztartásért felelős miniszter engedélyével működtethető. Az államháztartásért felelős miniszter a központi szerver üzemeltetését 10 éves időtartamra engedélyezi.
 
-(2) Központi szerver működtetésére, engedély annak a Magyarországon bejegyzett székhellyel, legalább 50 millió forint jegyzett tőkével, magyar állampolgár vezető tisztségviselővel rendelkező gazdasági társaságnak adható, amely a központi szerver üzemeltetését kizárólagos tevékenységként végzi, és amelynek a szavazatok legalább 51%-val rendelkező tagja (részvényese) a kérelem benyújtását megelőzően legalább 10 éven át Magyarországon szerencsejáték szervezésével foglalkozó gazdasági társaságnak volt tagja (részvényese) vagy vezető tisztségviselője. A központi szerver működtetésére vonatkozó engedély érvényességi ideje alatt a társaság tagjai, részvényesei, illetve vezető tisztségviselői, valamint azok Ptk. 685. § b) pont szerinti közeli hozzátartozói, nem lehetnek tagjai, vagy vezető tisztségviselői szerencsejáték szervező, vagy pénznyerő automata gyártó gazdálkodó szervezetnek.
+(2) Központi szerver működtetésére engedély annak a Magyarországon bejegyzett székhellyel, legalább 50 millió forint jegyzett tőkével, magyar állampolgár vezető tisztségviselővel rendelkező gazdasági társaságnak adható, amely a központi szerver üzemeltetését kizárólagos tevékenységként végzi, és amelynek a szavazatok legalább 51%-val rendelkező tagja (részvényese) a kérelem benyújtását megelőzően legalább 10 éven át Magyarországon szerencsejáték szervezésével foglalkozó gazdasági társaságnak volt tagja (részvényese) vagy vezető tisztségviselője. A központi szerver üzemeltető gazdasági társaság egyidejűleg csak egy központi szerver üzemeltetésére rendelkezhet engedéllyel. A központi szerver működtetésére vonatkozó engedély iránti kérelem előterjesztésekor és érvényességi ideje alatt a társaság tagjai, részvényesei, illetve vezető tisztségviselői, valamint azok Ptk. 685. § b) pont szerinti közeli hozzátartozói nem lehetnek tagjai, részvényesei vagy vezető tisztségviselői szerencsejáték-szervező, pénznyerő automata-gyártó vagy más központi szervert üzemeltető gazdálkodó szervezetnek. A központi szerver üzemeltető társaság tagjai, részvényesei, vezető tisztségviselői, valamint azok Ptk. 685. § b) pont szerinti közeli hozzátartozói a központi szerver auditálásáról kiadott okirat keltét megelőző egy évben és az azt követő tizenkét évben nem lehetnek tagjai, részvényesei, vezető tisztségviselői az okiratot kiadó auditáló szervezetnek.
 
-(3) A központi szervert informatikai biztonsági és zártsági szempontból, továbbá a rendszerben a központi szerver által futtatott játéklogikákat törvényi megfelelőségi szempontból auditálni kell. A rendszer vizsgálatára és auditálására kizárólag az aláíró eszközök, véletlenszám-generátorok és egyéb elektronikus aláírási termékek tanúsítására kijelölt státuszú, és a Nemzeti Média- és Hírközlési Hatóság adatbázisában bejegyzett szervezet jogosult. Az auditálást abban az esetben kell megújítani, ha a technikai eszközökben, a technológiában, vagy informatikai vagy biztonsági környezetben, illetve alkalmazásban jelentős változás áll be. Az informatikai rendszer auditálására az a független szervezet jogosult, amely megfelel az alábbi feltételek mindegyikének:
+(3) A (2) bekezdés szerinti gazdasági társaság által üzemeltetésre kerülő központi szervert informatikai biztonsági és zártsági szempontból, továbbá a rendszerben a központi szerver által futtatott játékprogramokat a jogszabályoknak való megfelelőség szempontjából auditálni kell. Az auditról kiállított tanúsítvány nem ruházható át. Az auditálást abban az esetben kell megújítani, ha a technikai eszközökben, a technológiában vagy informatikai vagy biztonsági környezetben vagy alkalmazásban jelentős változás áll be. A rendszer vizsgálatára és auditálására kizárólag az a szervezet jogosult, amely
 
-- a) az elektronikus aláírási termékek tanúsítását végző szervezetekről, illetve a kijelölésükre vonatkozó szabályokról szóló a 9/2005. (VII. 21.) IHM rendelet alapján az aláíró eszközök és egyéb elektronikus aláírási termékek tanúsítására kijelölt szervezet,
-- b) a Nemzeti Média- és Hírközlési Hatóság által nyilvántartott, az elektronikus aláírási termékek tanúsítására kijelölt szervezetek nyilvántartásában szerepel,
-- c) az elektronikus aláírással kapcsolatos tanúsító tevékenységben legalább 10 év tapasztalattal és a Nemzeti Média- és Hírközlési Hatóság által regisztrált sikeres audittal rendelkezik, amely kiterjed a CommonCriteria EAL4 garanciaszintre is,
-- d) bizonyított szaktudással és a Nemzeti Média- és Hírközlési Hatóság által nyilvántartásba vett tanúsítási referenciákkal rendelkezik az alábbi területek mindegyikén:
-  - da) aláírás létrehozó eszközök,
-  - db) aláírás-létrehozó eszközön az aláírás-létrehozó adat elhelyezése,
-  - dc) aláírás létrehozó és ellenőrző alkalmazások,
-  - dd) elektronikus archiválás szolgáltatás.
+- a) az aláírás-létrehozó eszközök és egyéb elektronikus aláírási termékek tanúsítására kijelölt és a Nemzeti Média- és Hírközlési Hatóság nyilvántartásába bejegyzett szervezet,
+- b) legalább 8 éves tapasztalattal rendelkezik az elektronikus aláírás tanúsítás területén, és
+- c) szaktudással rendelkezik az alábbi területek mindegyikén:
+  - ca) véletlenszám-generátorok,
+  - cb) informatikai biztonság tanúsítása és értékelése,
+  - cc) aláírás-létrehozó eszközök,
+  - cd) aláírás-létrehozó eszközön az aláírás-létrehozó adat elhelyezése,
+  - ce) aláírás-létrehozó és ellenőrző alkalmazások,
+  - cf) elektronikus archiválás szolgáltatás.
+
+(3a) A (3) bekezdés c) pontjában foglaltak esetén az auditáló szervezet akkor tekinthető szaktudással rendelkezőnek, ha
+
+- a) a (3) bekezdés ca) alpontja szerinti szakterület tekintetében legalább egy éve akkreditációval rendelkezik kriptográfiai funkciókat megvalósító szoftvertermékek és rendszerek terén;
+- b) a (3) bekezdés cb) alpontja szerinti szakterület tekintetében legalább egy éve akkreditációval rendelkezik informatikai biztonsági funkciókat megvalósító szoftver termékek és rendszerek tanúsítása terén;
+- c) a (3) bekezdés cc)–ce) alpontja szerinti szakterületek tekintetében legalább egy éve akkreditációval rendelkezik elektronikus aláírási termékek és rendszerek tanúsítása terén, és
+- d) a (3) bekezdés cf) alpontja szerinti szakterület tekintetében legalább egy éve akkreditációval rendelkezik digitális archiválást végző alkalmazások tanúsítása terén.
+
+(3b) Az auditáló szervezet a (3) bekezdés a)–c) pontokban és (3a) bekezdésben meghatározott feltételeknek való megfelelésről a központi szerver auditálásáról kiadott okiratban nyilatkozik. Az okiratban a szaktudással rendelkező személy nevét, szakterületét, az auditáló szervezettel fennálló jogviszonya jellegét (munkaviszony, megbízási jogviszony, egyéb munkavégzésre irányuló jogviszony) fel kell tüntetni és az okirat rá vonatkozó részét a szaktudással rendelkező személy aláírásával kell ellátni.
+
+(3c) Az auditáló szervezet tagjai, részvényesei, vezető tisztségviselői, valamint azok Ptk. 685. § b) pont szerinti közeli hozzátartozói a központi szerver auditálásáról kiadott okirat keltét megelőző egy évben és az azt követő tizenkét évben nem lehetnek tagjai, részvényesei, vezető tisztségviselői a központi szervert üzemeltető gazdasági társaságnak.
 
 (4) A központi szerver tranzakciós szervere adattartalmából a játékszervezői tevékenységből származó elektronikus tranzakciók alapján adatszolgáltatást nyújtani kizárólag abban az esetben lehet, ha az abban foglalt adattartalom sértetlensége és eredetiségének hitelessége biztosított. Ezen követelménynek való megfelelés érdekében a játékszervezői tevékenységből származó, elektronikus formában kibocsátott adatszolgáltatást és azok alapját jelentő tranzakciós adatokat az elektronikus aláírásról szóló törvény rendelkezései szerinti, legalább fokozott biztonságú elektronikus aláírással és minősített szolgáltató által kibocsátott időbélyegzővel kell ellátni.
 
@@ -301,6 +313,10 @@ Az Országgyűlés az állam szerencsejáték monopóliumának gyakorlásával k
 (4) A (3) bekezdés szerinti felfüggesztés időtartamára, meghosszabbítására, a feltételek előírására a (2) bekezdésben, a felfüggesztést követően az engedély visszavonására az (1) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
 13/D. § Az államháztartásért felelős miniszter a központi szerver engedélyezése, az engedély visszavonása, illetve felfüggesztése ügyében a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint jár el azzal, hogy az államháztartásért felelős miniszter az engedély elbírálásáról három hónapon belül dönt, illetve a hiányosan benyújtott kérelem esetén annak beérkezésétől számított tizenöt napon belül hiánypótlási felhívást bocsát ki. Az államháztartásért felelős miniszter által hozott határozat (végzés) ellen fellebbezésnek nincs helye. Az állami adóhatóság jogsértést megállapító határozatának hatályon kívül helyezése esetén az államháztartásért felelős miniszter a felfüggesztést a határozott időtartam lejárta előtt megszünteti. Az engedély felfüggesztését elrendelő, illetve a felfüggesztést megszüntető határozat jogorvoslatra tekintet nélkül azonnal végrehajtható.
+
+13/E. § (1) A központi szerver üzemeltető és a helyhez kötött szerveralapú pénznyerő automata üzemeltetője, illetve a központi szerver üzemeltető és a nem helyhez kötött szerveralapú pénznyerő rendszer üzemeltetője kizárólag – legalább egy évre szóló – határozott időtartamú csatlakozási szerződést köthet, a szerződés érvényességéhez annak írásba foglalása szükséges. Ha a csatlakozási szerződést két évet meghaladó határozott időtartamra kötik, úgy a két év lejárta után bármely fél, az adott naptári év végére szóló legalább hat hónapos felmondási idő alkalmazásával indokolás nélkül felmondhatja (rendes felmondás).
+
+(2) A központi szerver üzemeltető az engedély érvényességi időtartama alatt egyidejűleg helyhez kötött szerveralapú pénznyerő automatákat üzemeltető központi szerver esetén legalább 1000 helyhez kötött szerveralapú pénznyerő automata üzemeltetésére vonatkozó, legalább egy éves időtartamra szóló csatlakozási szerződéssel és legfeljebb 12 000 helyhez kötött szerveralapú pénznyerő automata üzemeltetésére vonatkozó csatlakozási szerződéssel rendelkezhet.
 
 ### KÜLÖNÖS RENDELKEZÉSEK
 
@@ -809,6 +825,8 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 (4) E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 33. § (2) bekezdését és 33. § (6) bekezdés a) pont ab) alpontját 2012. január 1-jétől és első alkalommal 2012. január-március tárgynegyedévre kell alkalmazni.
 
 (5) E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 33. § (2) bekezdésének rendelkezéseit 2012. január 1-től és első alkalommal 2012. január–március tárgynegyedévre kell alkalmazni.
+
+(6) E törvénynek az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 13/A. § (3), (3a), (3b) és (3c) bekezdéseit az e rendelkezés hatálybalépését követően indult központi szerverüzemeltetés engedélyezése iránti eljárásokban alkalmazni kell.
 
 ### Jogszabály tervezetének egyeztetése
 
