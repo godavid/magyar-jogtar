@@ -203,7 +203,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 - a) a ki nem adott szabadságát nem lehet pénzben megváltani, és
 - b) a ki nem adott szabadságát az új kinevezéssel vagy megválasztással érintett állami vezetői szolgálati jogviszony vagy állami vezetőként betöltött jogviszony alapján járó szabadsághoz hozzá kell számítani.
 
-14. § (1) A minisztert és az államtitkárt minden naptári évben húsz munkanap szabadság illeti meg, valamint a miniszterelnök által meghatározott összegű jutalomban részesülhet. A miniszter jutalmára a kormányzati tevékenység összehangolásáért felelős miniszter tesz javaslatot. Az államtitkár jutalmára – a Miniszterelnökséget vezető államtitkár kivételével – a tevékenységét irányító miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter együttesen tesz javaslatot.
+14. § (1) A minisztert és az államtitkárt minden naptári évben húsz munkanap szabadság illeti meg, valamint a miniszterelnök által meghatározott összegű jutalomban részesülhet. A miniszter jutalmára a kormányzati tevékenység összehangolásáért felelős miniszter tesz javaslatot. Az államtitkár jutalmára – a Miniszterelnökséget vezető államtitkár és a Miniszterelnökségen működő államtitkár kivételével – a tevékenységét irányító miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter együttesen tesz javaslatot.
 
 (2) A szabadság igénybevételét a kormányzati tevékenység összehangolásáért felelős miniszternek előzetesen be kell jelenteni.
 
@@ -213,7 +213,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (4) A politikai vezetőt rendkívüli munkavégzése után külön szabadidő nem illeti meg.
 
-(5) Az államtitkár számára célprémiumot a miniszterelnök állapíthat meg. A célprémiumra – a Miniszterelnökséget vezető államtitkár kivételével – az államtitkár tevékenységét irányító miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter együttesen tesz javaslatot.
+(5) Az államtitkár számára célprémiumot a miniszterelnök állapíthat meg. A célprémiumra – a Miniszterelnökséget vezető államtitkár és a Miniszterelnökségen működő államtitkár kivételével – az államtitkár tevékenységét irányító miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter együttesen tesz javaslatot.
 
 (6) A politikai vezető jubileumi jutalomra nem jogosult.
 
@@ -247,7 +247,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 18. § A miniszterelnök az Alaptörvényben meghatározott feladatkörében eljárva a Kormány irányítása alatt álló, illetve a miniszter irányítása vagy felügyelete alá tartozó szervek vezetői számára feladatokat határozhat meg, továbbá tőlük tájékoztatást kérhet. A feladatmeghatározásról, illetve a tájékoztatáskérésről a szerv vezetője az irányító vagy felügyelő minisztert tájékoztatja.
 
-19. §
+19. § A Kormány eredeti jogalkotói hatáskörben kiadott rendeletében az államigazgatás egyes ágazatai, illetve egyes központi államigazgatási szervek irányítására a miniszterelnököt is kijelölheti.
 
 ### A miniszterelnök megbízatásának keletkezése és megszűnése
 
@@ -290,7 +290,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 - d) rádiótelefon- és internethasználatra, valamint kormányzati célú hírközlő hálózat használatára,
 - e) hivatalos külföldi kiküldetése idején kíséretre, az állami vezetők tekintetében irányadó napidíjra és költségtérítésre, valamint – szükség esetén – különjáratú légi utazásra,
 - f) külföldre utazás és külföldről történő hazautazás esetén, illetve hivatalos külföldi küldöttség fogadása, kísérése céljából jogosult a repülőtéri kormányváró helyiségek használatára,
-- g) – a szolgáltatást nyújtó egészségügyi intézmény és a Miniszterelnökség megállapodása szerint – valamennyi egészségügyi ellátás térítésmentes igénybevételére, és
+- g) – a szolgáltatást nyújtó egészségügyi intézmény és a Miniszterelnökséget vezető államtitkár megállapodása szerint – valamennyi egészségügyi ellátás térítésmentes igénybevételére, és
 - h) – a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját magában foglaló térítési díj ellenében – a Kormány központi üdülőjének használatára
 
 jogosult.
@@ -379,7 +379,9 @@ jogosult.
 
 (7) A (2) bekezdés b) pontjában meghatározott kormánybiztos államtitkári illetménynek megfelelő összegű díjazásra és juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
-(8) A kormánybiztost tevékenységének ellátásában a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
+(8) A kormánybiztost tevékenységének ellátásában a Miniszterelnökség szervezetében működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
+
+(8a) A (8) bekezdéstől eltérően a kormánybiztost tevékenységének ellátásában a (2) bekezdés a) pontjában meghatározott esetben a kinevezése szerinti minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
 (9) A Kormány az (1) bekezdés szerinti normatív határozatában
 
@@ -390,11 +392,15 @@ jogosult.
 
 32. § (1) A miniszterelnök – normatív utasításával – a feladatkörébe tartozó feladat ellátására miniszterelnöki biztost nevezhet ki.
 
-(2) A miniszterelnöki biztosra a 31. § (2), (4) és (6)–(9) bekezdését alkalmazni kell azzal, hogy kormánybiztos alatt miniszterelnöki biztost, a Kormány normatív határozata alatt a miniszterelnök normatív utasítását, a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium alatt a Miniszterelnökséget, a Kormány alatt a miniszterelnököt kell érteni.
+(2) A miniszterelnöki biztosra a 31. § (2), (6), (7) és (9) bekezdését alkalmazni kell azzal, hogy kormánybiztos alatt miniszterelnöki biztost, a Kormány normatív határozata alatt a miniszterelnök normatív utasítását, a Kormány alatt a miniszterelnököt kell érteni.
 
 (3) A miniszterelnök rendeletben a 31. § (3) bekezdése szerinti irányítási jogkörrel ruházhatja fel a miniszterelnöki biztost.
 
 (4) A miniszterelnöki biztos megbízatása meghatározott időre, de legfeljebb a miniszterelnök megbízatása megszűnéséig szól. A miniszterelnöki biztos e megbízatása megszűnik a miniszterelnök megbízatása megszűnésével.
+
+(5) A miniszterelnöki biztos tevékenységét a miniszterelnök irányítja.
+
+(6) A miniszterelnöki biztost tevékenységének ellátásában a Miniszterelnökség szervezetében működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
 33. § (1) Ha a kormánybiztost vagy a miniszterelnöki biztost megbízatási ideje alatt állami vezetőnek is kinevezik, juttatásaira az állami vezetőre vonatkozó szabályok alkalmazandók azzal, hogy kormánybiztosi vagy miniszterelnöki biztosi megbízatására tekintettel akkor kaphat díjazást, ha e tevékenysége állami vezetői feladatkörével nem függ össze.
 
@@ -430,7 +436,7 @@ jogosult.
 
 (2) A Miniszterelnökség tevékenységét a miniszterelnök irányítja.
 
-(3) A Miniszterelnökséget államtitkár vezeti.
+(3) A Miniszterelnökséget a Miniszterelnökséget vezető államtitkár vezeti.
 
 (4) A Miniszterelnökség szervezeti és működési szabályzatát a miniszterelnök adja ki.
 
@@ -441,9 +447,11 @@ jogosult.
 37. § (1) A (2) és (3) bekezdésben meghatározott kivétellel
 
 - a) a minisztert akadályoztatása esetén – az általa vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint – az államtitkár,
-- b) a tárca nélküli minisztert akadályoztatása esetén a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumnak a 35. § (4) bekezdésében meghatározott kormányrendeletben kijelölt államtitkára – a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint –
+- b) a tárca nélküli minisztert akadályoztatása esetén
+  - ba) a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumnak a 35. § (4) bekezdésében meghatározott kormányrendeletben kijelölt államtitkára a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint, illetve
+  - bb) a Miniszterelnökségnek a 35. § (4) bekezdésében meghatározott kormányrendeletben kijelölt államtitkára a Miniszterelnökség szervezeti és működési szabályzatában meghatározottak szerint helyettesíti.
 
-helyettesíti.
+(1a) A tárca nélküli miniszter helyettesítésére az (1) bekezdés b) pont bb) alpontjában meghatározott államtitkár akkor jelölhető ki, ha a tárca nélküli miniszter miniszterelnök-helyettes is.
 
 (2) A minisztert a köztársasági elnök intézkedésének kezdeményezésében és intézkedésének ellenjegyzésében, valamint az (1) bekezdésben meghatározott államtitkár akadályoztatása esetén az Országgyűlés ülésén a 34. § (3) bekezdésében és a 35. § (4) bekezdésben meghatározott kormányrendeletben kijelölt másik miniszter helyettesíti.
 
@@ -619,19 +627,17 @@ helyettesíti.
 
 58. § Ha az államtitkár megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új miniszterelnök megalakulásáig vagy az 53. § b)–d) pontjában meghatározott feltétel bekövetkeztéig gyakorolja hatáskörét.
 
-### A Miniszterelnökséget vezető államtitkár
+### A Miniszterelnökséget vezető államtitkár és a Miniszterelnökségen működő államtitkár
 
-59. § (1) A 49–58. §-t a Miniszterelnökséget vezető államtitkárra az e §-ban meghatározott eltérésekkel kell alkalmazni.
+59. § (1) A 49–58. §-t a Miniszterelnökséget vezető államtitkárra és a Miniszterelnökségen működő államtitkárra az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2) A Miniszterelnökséget vezető államtitkár segíti a miniszterelnök tevékenységét, közreműködik a Kormány általános politikájának meghatározásában és ellátja a miniszterelnök által rábízott feladatokat.
+(2) A Miniszterelnökséget vezető államtitkár és a Miniszterelnökségen működő államtitkár segíti a miniszterelnök tevékenységét, közreműködik a Kormány általános politikájának meghatározásában és ellátja a miniszterelnök által rábízott feladatokat.
 
-(3) A Miniszterelnökséget vezető államtitkár tevékenységét a miniszterelnök irányítja és gyakorolja felette a munkáltatói jogokat.
+(3) A Miniszterelnökséget vezető államtitkár és a Miniszterelnökségen működő államtitkár tevékenységét a miniszterelnök irányítja és gyakorolja felette a munkáltatói jogokat.
 
-(4)
+(4) A Miniszterelnökséget vezető államtitkárt és a Miniszterelnökségen működő államtitkárt a miniszterelnök javaslatára a köztársasági elnök nevezi ki, illetve menti fel.
 
-(5) A Miniszterelnökséget vezető államtitkárt a miniszterelnök javaslatára a köztársasági elnök nevezi ki, illetve menti fel.
-
-(6) A Miniszterelnökséget vezető államtitkár lemondását a miniszterelnökhöz juttatja el.
+(5) A Miniszterelnökséget vezető államtitkár és a Miniszterelnökségen működő államtitkár lemondását a miniszterelnökhöz juttatja el.
 
 ### A minisztérium szervezete
 
@@ -655,7 +661,7 @@ helyettesíti.
 
 (5) A közigazgatási államtitkárt a szervezeti és működési szabályzatban meghatározottak szerint helyettes államtitkár helyettesíti. Ha a közigazgatási államtitkári tisztség nincs betöltve, a közigazgatási államtitkár hatáskörét a helyettesítésére kijelölt helyettes államtitkár gyakorolja.
 
-62. § (1) A helyettes államtitkár a jogszabályoknak és a szakmai követelményeknek megfelelően irányítja a miniszter feladat- és hatáskörének a minisztérium szervezeti és működési szabályzatában meghatározott része tekintetében a szakmai munkát, valamint dönt a hatáskörébe utalt ügyekben. A Miniszterelnökségen működő helyettes államtitkár segíti a Miniszterelnökséget vezető államtitkár tevékenységét.
+62. § (1) A helyettes államtitkár a jogszabályoknak és a szakmai követelményeknek megfelelően irányítja a miniszter feladat- és hatáskörének a minisztérium szervezeti és működési szabályzatában meghatározott része tekintetében a szakmai munkát, valamint dönt a hatáskörébe utalt ügyekben. A Miniszterelnökségen működő helyettes államtitkár Miniszterelnökség szervezeti és működési szabályzatában meghatározottak szerint segíti a Miniszterelnökséget vezető államtitkár vagy a Miniszterelnökségen működő államtitkár tevékenységét.
 
 (2) A helyettes államtitkár tevékenységét – a 65. § (1) bekezdése szerinti helyettes államtitkár kivételével – a minisztérium szervezeti és működési szabályzatában meghatározottak szerint az államtitkár, a közigazgatási államtitkár – a 31. § (3) bekezdésében meghatározott esetben – kormánybiztos vagy – a 32. § (3) bekezdésében meghatározott esetben – miniszterelnöki biztos irányítja.
 
@@ -713,13 +719,15 @@ helyettesíti.
 
 69. § (1) A 62–68. §-t a Miniszterelnökségre az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
+(1a) A Miniszterelnökségre Miniszterelnökséget vezető államtitkár és Miniszterelnökségen működő további államtitkár nevezhető ki.
+
 (2) A Miniszterelnökségen közigazgatási államtitkár nem működik.
 
-(3) A Miniszterelnökségen működő helyettes államtitkár tevékenységét a Miniszterelnökséget vezető államtitkár irányítja.
+(3) A Miniszterelnökségen működő helyettes államtitkár tevékenységét a Miniszterelnökség szervezeti és működési szabályzatában meghatározottak szerint a Miniszterelnökséget vezető államtitkár vagy a Miniszterelnökségen működő államtitkár irányítja.
 
 (4) A Miniszterelnökség főosztályokra és osztályokra tagozódik.
 
-(5)
+(5) A Miniszterelnökség szervezeti és működési szabályzata tekintetében a 60. § (2) bekezdése nem alkalmazható.
 
 (6) A miniszterelnök titkárságát osztályvezető vezeti, akinek tevékenységét a Miniszterelnökséget vezető államtitkár irányítja.
 
@@ -791,6 +799,17 @@ helyettesíti.
 (8) A központi hivatal vezetőjének helyettese – ha törvény vagy kormányrendelet eltérően nem rendelkezik – helyettes államtitkári illetményre jogosult.
 
 (9) A központi hivatalra – ha jogszabály eltérően nem rendelkezik – a 63–68. §-t kell alkalmazni.
+
+73/A. § (1) A központi hivatal irányítására kormányrendeletben a miniszterelnök is kijelölhető.
+
+(2) Ha a központi hivatalt a miniszterelnök irányítja, akkor a központi hivatalra a 72. és 73. §-t azzal az eltéréssel kell alkalmazni, hogy
+
+- a) a központi hivatal a Miniszterelnökség költségvetési fejezetén belül önálló címet képez,
+- b) a központi hivatal szervezeti és működési szabályzatát a miniszterelnök normatív utasításban adja ki, amelyet a központi hivatal vagy a Miniszterelnökség honlapján a módosításokkal egységes szerkezetben közzé kell tenni,
+- c) a központi hivatal vezetőjét – ha jogszabály eltérően nem rendelkezik – a miniszterelnök nevezi ki és menti fel,
+- d) a 73. § (5) bekezdését nem kell alkalmazni.
+
+(3) Ha a központi hivatalt a miniszterelnök irányítja, a miniszterelnök az irányítással összefüggő egyes hatásköröket – a 2. § (1) bekezdés a), b), d) és i) pontjában meghatározott hatáskör, valamint a hatékonysági és pénzügyi ellenőrzés kivételével – a Miniszterelnökség szervezeti és működési szabályzatában a Miniszterelnökséget vezető államtitkárra vagy a Miniszterelnökségen működő államtitkárra átruházhatja.
 
 ### V. Fejezet
 
