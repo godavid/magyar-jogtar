@@ -9,7 +9,9 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 1. § E törvény hatálya
 
 - a) a Puskás Ferenc Stadion felújítására, valamint
-- b) Budapest, Ifjúság útja – Stefánia út – Thököly út – Dózsa György út – Kerepesi út által határolt, a Mellékletben megjelölt területen egy önálló új stadion, kiegészítő létesítmények és az ezekhez tartozó parkoló építésére, a Budapesti Olimpiai Központ bővítésére
+- b) a Budapest, Ifjúság útja–Stefánia út–Thököly út–Dózsa György út–Kerepesi út által határolt és a Dózsa György út és a Kerepesi út által határolt területrésznek e két út kereszteződésétől
+  - ba) a Dózsa György útnak a Jobbágy utca és a Verseny utca közötti szakasza meghosszabbításának a Kerepesi úttal alkotott metszéspontja, és
+  - bb) a ba) alpont szerinti metszéspontból a Kerepesi útra állított merőleges vonal és a Dózsa György út metszéspontja által meghatározott egyenessel lezárt területével kiegészített, a Mellékletben megjelölt területen egy önálló új stadion és az ahhoz tartozó parkoló építésére
 
 [az a) és b) pont a továbbiakban együtt: beruházás] terjed ki.
 
@@ -17,9 +19,9 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 
 2. § A beruházással érintett állami tulajdonú ingatlanon annak vagyonkezelője beruházást és felújítási tevékenységet végezhet.
 
-#### 3. §
+3. § A beruházással összefüggésben nem kell alkalmazni a kulturális örökség védelmére és az azzal összefüggő közigazgatási hatósági eljárásra vonatkozó jogszabályi rendelkezéseket.
 
-4. § (1) A magyar építészetről szóló törvény településrendezési tervre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+4. § (1) Az épített környezet alakításáról és védelméről szóló törvény településrendezési eszközökre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A beruházás területére vonatkozó településrendezési szabályok a következők:
 
@@ -28,29 +30,19 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 
 (3) A beruházással összefüggő közigazgatási hatósági eljárásban az épületek közötti tűztávolságra vonatkozó jogszabályi előírások alól más, legalább azonos biztonsági szintet szavatoló műszaki megoldás esetén eltérési engedély adható.
 
-(4) Az építési engedély iránti kérelem a gépjárművek parkolására előírt feltételek hiánya miatt nem utasítható el, ha az építtető az építési engedély iránti kérelemhez mellékelt nyilatkozatában vállalja, hogy a végleges használatbavételi engedélyben meghatározott időpontig az előírt gépkocsi-parkolóhelyeket biztosítja.
+(4) Az építési engedély iránti kérelem a gépjárművek parkolására előírt feltételek hiánya miatt nem utasítható el, ha az építtető az építési engedély iránti kérelemhez mellékelt nyilatkozatában vállalja, hogy a jogerős használatbavételi engedélyben meghatározott időpontig az előírt gépkocsi-parkolóhelyeket biztosítja.
 
 (5) A használatbavételi engedély feltételeinek fennállásáról a jogszabályban meghatározott szervek és szervezetek az építésügyi hatóság által meghatározott helyszíni szemlén, de legkésőbb az azt követő öt napon belül nyilatkoznak.
 
 5. § A beruházás érdekében települési önkormányzat a tulajdonában lévő önkormányzati vagyon tulajdonjogát az állam javára versenyeztetés mellőzésével átruházhatja, vagy a tulajdonjog ingyenes átruházására vonatkozó megállapodást köthet.
 
-6. § (1) A beruházás tekintetében az építtetői feladatokat a Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság látja el. Az építtető a Magyar Állam nevében és javára jár el.
+6. § (1) A beruházás tekintetében az építtetői feladatokat a Nemzeti Sportközpontok látja el.
 
-(1a) Az (1) bekezdésben foglalt rendelkezésektől eltérően a Nemzeti Korcsolyázó Központ építtetője az állami beruházásokért felelős miniszter által vezetett minisztérium, amely ebben a minőségében a magyar állam nevében és javára eljár.
-
-(2) Az építtető a beruházás előkészítéseként teljes körűen elkészíti vagy elkészítteti a szükséges terveket, tanulmányokat. Az építtető ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, a saját nevére megszerzi az építési engedélyeket, továbbá elvégzi vagy elvégezteti a munkaterület előkészítését. Az építtető gondoskodik a közbeszerzési eljárások lefolytatásáról, a megvalósításra vonatkozó építési és egyéb szerződések megkötéséről, az építési műszaki ellenőri tevékenység ellátásáról, valamint lebonyolítja a műszaki átadás-átvételt.
-
-(3) A beruházás megvalósítása fontos közérdekű és közcélú tevékenység. A beruházás megvalósításához szükséges ingatlant a kisajátításról szóló 2007. évi CXXIII. törvény szerinti adásvétel útján vagy más, jogszabályban meghatározott jogcímen kell megszerezni.
-
-(4) Ha az ingatlan a (3) bekezdésben foglaltak szerint nem szerezhető meg, azt ki kell sajátítani. A beruházás megvalósításához szükséges ingatlan megszerzése céljából kezdeményezett kisajátítási eljárás közérdeket szolgál. A kisajátítási eljárást az építtető vagy a Magyar Állam nevében szerzésre jogosult személy kérelmére kell lefolytatni.
-
-(5) A beruházás megvalósításához szükséges, (3)–(4) bekezdésben foglaltak szerint megszerzett ingatlan az állam tulajdonába és e törvény erejénél fogva, ellenérték nélkül az építtető vagyonkezelésébe kerül. A vagyonkezelői jog kiterjed az ingatlanon megvalósított beruházással létrejövő eszközökre is. Az állam javára a beruházás megvalósítása céljából a (3)–(4) bekezdésben foglaltak szerint megszerzett ingatlan vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése után igazgatási szolgáltatási díjat nem kell fizetni.
-
-(6)
+(2) A beruházással megújuló, illetve létrejövő állami vagyon vagyonkezelője a Nemzeti Sportközpontok.
 
 #### 3. Záró rendelkezések
 
-7. § Ez a törvény a kihirdetését követő napon lép hatályba.
+7. § Ez a törvény a kihirdetését követő napon lép hatályba, és 2021. december 31-én hatályát veszti.
 
 8. § A 2. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
@@ -155,33 +147,66 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 | 93 | 653286.29 | 239761.29 |
 | 94 | 653372.84 | 239744.47 |
 | 95 | 653394.90 | 239740.18 |
-| 96 | 654120.55 | 239599.18 |
-| 97 | 654144.07 | 239582.91 |
-| 98 | 654144.08 | 239574.71 |
-| 99 | 654131.62 | 239545.67 |
-| 100 | 654121.86 | 239536.12 |
-| 101 | 654122.80 | 239530.43 |
-| 102 | 654122.65 | 239524.05 |
-| 103 | 654122.49 | 239497.52 |
-| 104 | 654156.26 | 239497.53 |
-| 105 | 654231.39 | 239510.03 |
-| 106 | 654266.00 | 239515.64 |
-| 107 | 654262.94 | 239537.88 |
-| 108 | 654261.33 | 239552.21 |
-| 109 | 654231.40 | 239565.30 |
-| 110 | 654228.68 | 239572.65 |
-| 111 | 654233.57 | 239598.93 |
-| 112 | 654233.81 | 239601.92 |
-| 113 | 654236.71 | 239638.07 |
-| 114 | 654248.64 | 239692.00 |
-| 115 | 654260.88 | 239693.99 |
-| 116 | 654262.37 | 239707.23 |
-| 117 | 654265.63 | 239726.34 |
-| 118 | 654267.06 | 239733.95 |
-| 119 | 654264.43 | 239734.47 |
-| 120 | 654267.50 | 239748.22 |
-| 121 | 654267.70 | 239748.18 |
-| 122 | 654271.32 | 239764.65 |
-| 123 | 654274.84 | 239763.81 |
-| 124 | 654298.75 | 239872.70 |
-| 125 | 654305.13 | 239892.33 |
+| 96 | 653388.52 | 239494.74 |
+| 97 | 653410.35 | 239494.75 |
+| 98 | 653410.43 | 239492.77 |
+| 99 | 653514.55 | 239492.69 |
+| 100 | 653515.14 | 239492.52 |
+| 101 | 653515.61 | 239492.16 |
+| 102 | 653515.93 | 239491.67 |
+| 103 | 653516.04 | 239491.17 |
+| 104 | 653525.98 | 239491.23 |
+| 105 | 653526.08 | 239491.78 |
+| 106 | 653526.33 | 239492.28 |
+| 107 | 653526.75 | 239492.63 |
+| 108 | 653527.15 | 239492.74 |
+| 109 | 653595.71 | 239492.51 |
+| 110 | 653595.71 | 239497.57 |
+| 111 | 653617.69 | 239497.20 |
+| 112 | 653617.75 | 239492.45 |
+| 113 | 653620.23 | 239492.81 |
+| 114 | 653632.79 | 239492.60 |
+| 115 | 653632.83 | 239495.02 |
+| 116 | 653635.42 | 239497.69 |
+| 117 | 653687.19 | 239497.63 |
+| 118 | 653690.18 | 239492.15 |
+| 119 | 653690.38 | 239488.66 |
+| 120 | 653700.54 | 239488.70 |
+| 121 | 653700.67 | 239504.08 |
+| 122 | 653747.67 | 239504.27 |
+| 123 | 653806.26 | 239504.00 |
+| 124 | 653807.04 | 239504.70 |
+| 125 | 653822.50 | 239504.55 |
+| 126 | 653835.93 | 239500.78 |
+| 127 | 653839.95 | 239499.93 |
+| 128 | 653846.00 | 239499.11 |
+| 129 | 653850.03 | 239498.67 |
+| 130 | 653852.00 | 239498.45 |
+| 131 | 653858.10 | 239498.35 |
+| 132 | 653866.84 | 239498.28 |
+| 133 | 653883.65 | 239497.59 |
+| 134 | 653945.57 | 239497.60 |
+| 135 | 653990.13 | 239497.73 |
+| 136 | 654062.36 | 239497.50 |
+| 137 | 654156.26 | 239497.53 |
+| 138 | 654231.39 | 239510.03 |
+| 139 | 654266.00 | 239515.64 |
+| 140 | 654262.94 | 239537.88 |
+| 141 | 654261.33 | 239552.21 |
+| 142 | 654231.40 | 239565.30 |
+| 143 | 654228.68 | 239572.65 |
+| 144 | 654233.57 | 239598.93 |
+| 145 | 654233.81 | 239601.92 |
+| 146 | 654236.71 | 239638.07 |
+| 147 | 654248.64 | 239692.00 |
+| 148 | 654260.88 | 239693.99 |
+| 149 | 654262.37 | 239707.23 |
+| 150 | 654265.63 | 239726.34 |
+| 151 | 654267.06 | 239733.95 |
+| 152 | 654264.43 | 239734.47 |
+| 153 | 654267.50 | 239748.22 |
+| 154 | 654267.70 | 239748.18 |
+| 155 | 654271.32 | 239764.65 |
+| 156 | 654274.84 | 239763.81 |
+| 157 | 654298.75 | 239872.70 |
+| 158 | 654305.13 | 239892.33 |
