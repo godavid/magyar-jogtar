@@ -1,0 +1,212 @@
+# 2012. évi LXXV. törvény
+
+a budapesti Istvánmező rehabilitációs programjáról, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójáról
+
+Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építészeti és erkölcsi értékek megóvása, a sport- és kulturális szolgáltatások színvonalának emelése, továbbá a hosszú távú városrehabilitáció megvalósítása érdekében – a budapesti Istvánmező városrész rehabilitációja keretében a sport- és a kulturális igényeknek megfelelő, nemzetközi színvonalú, összetett szolgáltatásokat biztosítani képes épületegyüttes létrehozásának elősegítése céljából – a következő törvényt alkotja:
+
+#### 1. A törvény hatálya
+
+1. § E törvény hatálya
+
+- a) a Puskás Ferenc Stadion felújítására, valamint
+- b) a Budapest, Ifjúság útja–Stefánia út–Thököly út–Dózsa György út–Kerepesi út által határolt és a Dózsa György út és a Kerepesi út által határolt területrésznek e két út kereszteződésétől
+  - ba) a Dózsa György útnak a Jobbágy utca és a Verseny utca közötti szakasza meghosszabbításának a Kerepesi úttal alkotott metszéspontja, és
+  - bb) a ba) alpont szerinti metszéspontból a Kerepesi útra állított merőleges vonal és a Dózsa György út metszéspontja által meghatározott egyenessel lezárt területével kiegészített, a Mellékletben megjelölt területen egy önálló új stadion és az ahhoz tartozó parkoló építésére
+
+[az a) és b) pont a továbbiakban együtt: beruházás] terjed ki.
+
+#### 2. A beruházás megvalósítására vonatkozó rendelkezések
+
+2. § A beruházással érintett állami tulajdonú ingatlanon annak vagyonkezelője beruházást és felújítási tevékenységet végezhet.
+
+3. § A beruházással összefüggésben nem kell alkalmazni a kulturális örökség védelmére és az azzal összefüggő közigazgatási hatósági eljárásra vonatkozó jogszabályi rendelkezéseket.
+
+4. § (1) Az épített környezet alakításáról és védelméről szóló törvény településrendezési eszközökre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(2) A beruházás területére vonatkozó településrendezési szabályok a következők:
+
+- a) a megengedett legnagyobb építménymagasság ötven méter, és
+- b) a létesítendő épületek legmagasabb pontjára vonatkozó megengedett legnagyobb érték nyolcvan méter.
+
+(3) A beruházással összefüggő közigazgatási hatósági eljárásban az épületek közötti tűztávolságra vonatkozó jogszabályi előírások alól más, legalább azonos biztonsági szintet szavatoló műszaki megoldás esetén eltérési engedély adható.
+
+(4) Az építési engedély iránti kérelem a gépjárművek parkolására előírt feltételek hiánya miatt nem utasítható el, ha az építtető az építési engedély iránti kérelemhez mellékelt nyilatkozatában vállalja, hogy a jogerős használatbavételi engedélyben meghatározott időpontig az előírt gépkocsi-parkolóhelyeket biztosítja.
+
+(5) A használatbavételi engedély feltételeinek fennállásáról a jogszabályban meghatározott szervek és szervezetek az építésügyi hatóság által meghatározott helyszíni szemlén, de legkésőbb az azt követő öt napon belül nyilatkoznak.
+
+5. § A beruházás érdekében települési önkormányzat a tulajdonában lévő önkormányzati vagyon tulajdonjogát az állam javára versenyeztetés mellőzésével átruházhatja, vagy a tulajdonjog ingyenes átruházására vonatkozó megállapodást köthet.
+
+6. § (1) A beruházás tekintetében az építtetői feladatokat a Nemzeti Sportközpontok látja el.
+
+(2) A beruházással megújuló, illetve létrejövő állami vagyon vagyonkezelője a Nemzeti Sportközpontok.
+
+#### 3. Záró rendelkezések
+
+7. § Ez a törvény a kihirdetését követő napon lép hatályba, és 2021. december 31-én hatályát veszti.
+
+8. § A 2. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+### Melléklet a 2012. évi LXXV. törvényhez
+
+#### A beruházási terület határpontjainak Egységes Országos Vetületi rendszerben megadott koordinátái
+
+|  | Y (Keleti) | X (Északi) |
+| --- | --- | --- |
+| 1 | 654323.88 | 239925.33 |
+| 2 | 654311.79 | 239929.94 |
+| 3 | 654292.92 | 239937.11 |
+| 4 | 654275.73 | 239943.63 |
+| 5 | 654257.05 | 239950.69 |
+| 6 | 654244.61 | 239955.45 |
+| 7 | 654232.15 | 239960.17 |
+| 8 | 654219.26 | 239965.12 |
+| 9 | 654200.64 | 239972.22 |
+| 10 | 654176.87 | 239981.25 |
+| 11 | 654154.37 | 239989.80 |
+| 12 | 654129.36 | 239999.76 |
+| 13 | 654114.58 | 240005.81 |
+| 14 | 654100.87 | 240011.93 |
+| 15 | 654087.13 | 240017.96 |
+| 16 | 654073.53 | 240024.27 |
+| 17 | 654059.97 | 240030.74 |
+| 18 | 654044.69 | 240038.17 |
+| 19 | 654036.09 | 240042.47 |
+| 20 | 654031.10 | 240046.03 |
+| 21 | 654027.32 | 240050.65 |
+| 22 | 654024.89 | 240056.36 |
+| 23 | 653988.62 | 240082.23 |
+| 24 | 653984.44 | 240082.63 |
+| 25 | 653981.05 | 240082.57 |
+| 26 | 653977.13 | 240082.01 |
+| 27 | 653973.08 | 240080.80 |
+| 28 | 653956.17 | 240093.32 |
+| 29 | 653944.60 | 240102.22 |
+| 30 | 653932.98 | 240111.25 |
+| 31 | 653910.53 | 240129.88 |
+| 32 | 653888.60 | 240148.88 |
+| 33 | 653879.94 | 240156.44 |
+| 34 | 653858.76 | 240176.01 |
+| 35 | 653848.46 | 240185.63 |
+| 36 | 653838.05 | 240195.64 |
+| 37 | 653818.20 | 240215.71 |
+| 38 | 653816.22 | 240217.66 |
+| 39 | 653814.15 | 240219.85 |
+| 40 | 653795.25 | 240239.86 |
+| 41 | 653774.89 | 240262.52 |
+| 42 | 653755.26 | 240285.47 |
+| 43 | 653740.59 | 240303.38 |
+| 44 | 653731.28 | 240315.32 |
+| 45 | 653717.23 | 240333.38 |
+| 46 | 653714.19 | 240337.43 |
+| 47 | 653699.21 | 240357.96 |
+| 48 | 653681.74 | 240383.02 |
+| 49 | 653679.03 | 240387.22 |
+| 50 | 653664.83 | 240408.38 |
+| 51 | 653639.10 | 240446.19 |
+| 52 | 653625.73 | 240464.82 |
+| 53 | 653612.02 | 240483.12 |
+| 54 | 653595.49 | 240504.32 |
+| 55 | 653574.15 | 240530.66 |
+| 56 | 653549.38 | 240501.60 |
+| 57 | 653530.26 | 240480.97 |
+| 58 | 653533.82 | 240477.58 |
+| 59 | 653515.98 | 240457.59 |
+| 60 | 653508.33 | 240449.01 |
+| 61 | 653456.71 | 240390.98 |
+| 62 | 653449.21 | 240382.50 |
+| 63 | 653431.75 | 240362.97 |
+| 64 | 653414.25 | 240343.45 |
+| 65 | 653396.38 | 240323.52 |
+| 66 | 653386.34 | 240312.33 |
+| 67 | 653382.43 | 240315.88 |
+| 68 | 653364.24 | 240295.49 |
+| 69 | 653368.17 | 240291.85 |
+| 70 | 653353.28 | 240274.93 |
+| 71 | 653338.05 | 240257.90 |
+| 72 | 653334.23 | 240261.38 |
+| 73 | 653299.15 | 240221.92 |
+| 74 | 653302.61 | 240218.92 |
+| 75 | 653282.89 | 240197.18 |
+| 76 | 653265.56 | 240185.47 |
+| 77 | 653242.47 | 240159.99 |
+| 78 | 653223.47 | 240139.20 |
+| 79 | 653204.77 | 240118.20 |
+| 80 | 653204.38 | 240117.75 |
+| 81 | 653204.75 | 240117.41 |
+| 82 | 653173.25 | 240081.69 |
+| 83 | 653150.76 | 240056.76 |
+| 84 | 653124.30 | 240026.72 |
+| 85 | 653118.55 | 240026.94 |
+| 86 | 653109.73 | 240020.20 |
+| 87 | 653100.17 | 240011.17 |
+| 88 | 653131.32 | 239993.05 |
+| 89 | 653151.06 | 239967.28 |
+| 90 | 653290.59 | 239785.12 |
+| 91 | 653293.63 | 239769.37 |
+| 92 | 653288.65 | 239761.27 |
+| 93 | 653286.29 | 239761.29 |
+| 94 | 653372.84 | 239744.47 |
+| 95 | 653394.90 | 239740.18 |
+| 96 | 653388.52 | 239494.74 |
+| 97 | 653410.35 | 239494.75 |
+| 98 | 653410.43 | 239492.77 |
+| 99 | 653514.55 | 239492.69 |
+| 100 | 653515.14 | 239492.52 |
+| 101 | 653515.61 | 239492.16 |
+| 102 | 653515.93 | 239491.67 |
+| 103 | 653516.04 | 239491.17 |
+| 104 | 653525.98 | 239491.23 |
+| 105 | 653526.08 | 239491.78 |
+| 106 | 653526.33 | 239492.28 |
+| 107 | 653526.75 | 239492.63 |
+| 108 | 653527.15 | 239492.74 |
+| 109 | 653595.71 | 239492.51 |
+| 110 | 653595.71 | 239497.57 |
+| 111 | 653617.69 | 239497.20 |
+| 112 | 653617.75 | 239492.45 |
+| 113 | 653620.23 | 239492.81 |
+| 114 | 653632.79 | 239492.60 |
+| 115 | 653632.83 | 239495.02 |
+| 116 | 653635.42 | 239497.69 |
+| 117 | 653687.19 | 239497.63 |
+| 118 | 653690.18 | 239492.15 |
+| 119 | 653690.38 | 239488.66 |
+| 120 | 653700.54 | 239488.70 |
+| 121 | 653700.67 | 239504.08 |
+| 122 | 653747.67 | 239504.27 |
+| 123 | 653806.26 | 239504.00 |
+| 124 | 653807.04 | 239504.70 |
+| 125 | 653822.50 | 239504.55 |
+| 126 | 653835.93 | 239500.78 |
+| 127 | 653839.95 | 239499.93 |
+| 128 | 653846.00 | 239499.11 |
+| 129 | 653850.03 | 239498.67 |
+| 130 | 653852.00 | 239498.45 |
+| 131 | 653858.10 | 239498.35 |
+| 132 | 653866.84 | 239498.28 |
+| 133 | 653883.65 | 239497.59 |
+| 134 | 653945.57 | 239497.60 |
+| 135 | 653990.13 | 239497.73 |
+| 136 | 654062.36 | 239497.50 |
+| 137 | 654156.26 | 239497.53 |
+| 138 | 654231.39 | 239510.03 |
+| 139 | 654266.00 | 239515.64 |
+| 140 | 654262.94 | 239537.88 |
+| 141 | 654261.33 | 239552.21 |
+| 142 | 654231.40 | 239565.30 |
+| 143 | 654228.68 | 239572.65 |
+| 144 | 654233.57 | 239598.93 |
+| 145 | 654233.81 | 239601.92 |
+| 146 | 654236.71 | 239638.07 |
+| 147 | 654248.64 | 239692.00 |
+| 148 | 654260.88 | 239693.99 |
+| 149 | 654262.37 | 239707.23 |
+| 150 | 654265.63 | 239726.34 |
+| 151 | 654267.06 | 239733.95 |
+| 152 | 654264.43 | 239734.47 |
+| 153 | 654267.50 | 239748.22 |
+| 154 | 654267.70 | 239748.18 |
+| 155 | 654271.32 | 239764.65 |
+| 156 | 654274.84 | 239763.81 |
+| 157 | 654298.75 | 239872.70 |
+| 158 | 654305.13 | 239892.33 |
