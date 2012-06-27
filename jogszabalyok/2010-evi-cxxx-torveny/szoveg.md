@@ -441,7 +441,7 @@ minősül.
 
 (3) Ez a törvény nem érinti a hatálybalépése előtt kiadott statisztikai közlemények hatályát. Ahol jogszabály a jogalkotásról szóló 1987. évi XI. törvény alapján kiadott statisztikai közleményre utal, azon a Központi Statisztikai Hivatal felett felügyeletet gyakorló miniszternek a statisztikáról szóló 1993. évi XLVI. törvény 26. § (4) bekezdésében kapott felhatalmazás alapján az adott tárgykörben kiadott rendeletét is érteni kell, ha a jogszabályból más nem következik.
 
-#### 19. Módosító rendelkezések
+#### 19.
 
 #### 35. §
 
@@ -467,7 +467,7 @@ minősül.
 
 #### 46. §
 
-#### 20. Hatályon kívül helyező rendelkezések
+#### 20.
 
 #### 47. §
 

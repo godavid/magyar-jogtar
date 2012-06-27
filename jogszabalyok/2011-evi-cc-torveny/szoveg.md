@@ -8,33 +8,29 @@ Az Országgyűlés a központosított mobil értékesítésű szolgáltatások m
 
 - a) fordulónap: a 2. §-ban meghatározott szolgáltatások vonatkozásában az a nap, amelyen a szolgáltatást központosított mobil értékesítésű szolgáltatásnak minősítő törvényi rendelkezés hatályba lép,
 - b) igénybe vevő: az ügyfél vagy az a személy, akinek a részére az ügyfél a szolgáltatás igénybevételének jogát megvásárolta,
-- c) mobil értékesítő vállalkozás: az a vállalkozás, amely a fordulónapot megelőzően a szolgáltatás mobil fizetési rendszeren keresztül történő értékesítését végzi,
+- c)
 - d) mobil fizetési rendszer: olyan rendszer, amelyben az ügyfél a szolgáltatást helyhez nem kötött módon, távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz segítségével elért elektronikus értékesítő rendszeren keresztül vásárolja meg,
-- e) regisztrált ügyfél: olyan személy, aki vagy amely mobil értékesítő vállalkozással a 10. § (1) bekezdése szerinti átadás időpontjában központosított mobil értékesítésű szolgáltatás megvásárlására vonatkozó hatályos szerződéssel rendelkezik, vagy más olyan írásba foglalt szerződéses jogviszonyban áll, ami alapján már vásárolt központosított mobil értékesítésű szolgáltatást mobil fizetési rendszeren keresztül,
+- e)
 - f) szolgáltató: a központosított mobil értékesítésű szolgáltatást nyújtó vagy annak értékesítését végző szervezet,
 - g) többségi befolyás: a nemzeti vagyonról szóló törvényben meghatározott forgalom,
 - h) ügyfél: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely a nemzeti mobil fizetési szervezettel központosított mobil értékesítésű szolgáltatások megvásárlására irányuló szerződéses jogviszonyban áll.
 
-2. § Központosított mobil értékesítésű szolgáltatás
+2–5. §
 
-- a)
-- b)
-- c)
-- d)
+6. § (1) A nemzeti mobil fizetési szervezet adatkezelésére az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Eksztv.) adatvédelemre vonatkozó rendelkezéseit az e §-ban foglalt eltéréssel, valamint azzal kell alkalmazni, hogy az Eksztv. szerinti szolgáltatón a nemzeti mobil fizetési szervezetet, információs társadalommal összefüggő szolgáltatáson a központosított mobil értékesítésű szolgáltatást, míg igénybe vevőn az ügyfelet, valamint az e törvény szerinti igénybe vevőt kell érteni.
 
-3–5. §
+(2) A nemzeti mobil fizetési szervezet az ügyfél azonosíthatósága, a szolgáltatás díja megfizetésének ellenőrzése, valamint a központosított mobil értékesítésű szolgáltatással kapcsolatos mentességek és kedvezmények igénybevétele jogszerűségének megállapítása céljából az Eksztv. 13/A. §-ában foglaltakon túlmenően jogosult kezelni
 
-6. § (1) A nemzeti mobil fizetési szervezet jogosult az e törvényben meghatározott feladatainak teljesítése érdekében az ügyfél azonosíthatósága, a szolgáltatás díjának megfizetése ellenőrzésének, valamint a központosított mobil értékesítésű szolgáltatással kapcsolatos mentességek és kedvezmények igénybevétele jogszerűségének megállapítása céljából szükséges, a (2) bekezdésben meghatározott adatok kezelésére.
+- a) az ügyfél telefon hívószámát, valamint az érintett szolgáltatással kapcsolatos vagy az annak igénybevétele során létrejövő azonosítóját,
+- b) a 2. § a) és b) pontja szerinti szolgáltatásnyújtás esetén a gépjármű rendszámát,
+- c) a központosított mobil értékesítésű szolgáltatással kapcsolatos mentesség vagy kedvezmény esetén a mentesség vagy kedvezmény jogcímét, a jogcímet megalapozó okmány azonosítóját, a típusára és érvényességére vonatkozó adatokat, valamint
+- d) az utazási viszonylathoz kötött kedvezmény esetén az utazási viszonylatra, a meghatározott időponthoz vagy időszakhoz kötött érvényességű kedvezmény esetén az érvényességi időszakra vagy időpontra, továbbá a jogosult lakóhelyére vagy tartózkodási helyére vonatkozó adatokat.
 
-(2) A nemzeti mobil fizetési szervezet adatkezelési jogosultsága a következő adatokra terjed ki:
+(3) A központosított mobil értékesítésű szolgáltatás nyújtása céljából a nemzeti mobil fizetési szervezet jogosult a szolgáltató számára továbbítani, a szolgáltató pedig – e § rendelkezései szerint – kezelni azokat a személyes adatokat, amelyek a központosított mobil értékesítésű szolgáltatás nyújtásához elengedhetetlenül szükségesek.
 
-- a) az ügyfél természetes személyazonosító adatai közül családi és utóneve, születési helye és ideje,
-- b) az ügyfél telefon hívószáma és az érintett szolgáltatással kapcsolatos vagy annak igénybevétele során létrejövő azonosítója,
-- c) a 2. § a) és b) pontja szerinti szolgáltatásnyújtás esetén a gépjármű rendszáma,
-- d) a központosított mobil értékesítésű szolgáltatással kapcsolatos mentesség vagy kedvezmény esetén a mentesség vagy kedvezmény jogcímére, a jogcímet megalapozó okmány azonosítójára, típusára, érvényességére,
-- e) az utazási viszonylathoz kötött kedvezmény esetén az utazási viszonylatra, a meghatározott időponthoz vagy időszakhoz kötött érvényességű kedvezmény esetén az érvényességi időszakra vagy időpontra, továbbá a jogosult lakóhelyére vagy tartózkodási helyére.
+(4) A nemzeti mobil fizetési szervezet az (1) és (2) bekezdés, valamint a szolgáltató a (3) bekezdés alapján kezelt személyes adatokat az adatkezelés céljának megszűnéséig, de legfeljebb az ügyféllel kötött szerződés megszűnését követő 5 évig kezelheti.
 
-(3) A nemzeti mobil fizetési szervezet a (2) bekezdésben meghatározott adatokat – törvény eltérő rendelkezése hiányában –az ügyféllel kötött szerződés megszűnését követő három évig kezelheti.
+(5) A központosított mobil értékesítésű szolgáltatás igénybevétele nem tehető függővé a (2) vagy a (3) bekezdésben, valamint az Eksztv. 13/A. § (1)–(3) bekezdésében nem említett célból történő adatkezeléshez való hozzájárulástól.
 
 7. § (1) Felhatalmazást kap a Kormány, hogy a nemzeti mobil fizetési szervezetet rendeletben kijelölje.
 
@@ -43,22 +39,18 @@ Az Országgyűlés a központosított mobil értékesítésű szolgáltatások m
 - a) a nemzeti mobil fizetési szervezet működésének szabályait,
 - b) a nemzeti mobil fizetési szervezet és az ügyfél közötti jogviszony tartalmát és az ügyféltől átvett pénzeszközök védelmét szolgáló szabályokat,
 - c) a nemzeti mobil fizetési szervezetet megillető kényelmi díj mértékét és alkalmazásának feltételeit,
-- d) a nemzeti mobil fizetési szervezet és a szolgáltató közötti jogviszony tartalmát, ehhez kapcsolódóan a felek jogait és kötelezettségeit, a nemzeti mobil fizetési szervezet által a központosított mobil értékesítésű szolgáltatás továbbértékesítése során alkalmazandó árrés mértékét, valamint az 5. § (1) bekezdése szerinti szolgáltatások körét és alkalmazásának feltételeit,
-- e) a 10. § szerinti adatátadás-átvétel részletes feltételeit, a regisztrált ügyfél és a nemzeti mobil fizetési szervezet közötti jogviszony létrejöttének részletes szabályait rendeletben állapítsa meg.
+- d) a nemzeti mobil fizetési szervezet és a szolgáltató közötti jogviszony tartalmát, ehhez kapcsolódóan a felek jogait és kötelezettségeit, a nemzeti mobil fizetési szervezet által a szolgáltatóval szemben alkalmazandó díj mértékét, valamint az 5. § (1) bekezdése szerinti szolgáltatások körét és alkalmazásának feltételeit,
+- e) rendeletben állapítsa meg.
 
 8. §
 
 9. § (1) Ez a törvény – a (2) és (3) bekezdésben meghatározott kivétellel – 2012. május 1-jén lép hatályba.
 
-(2) A 2. § a), b) és d) pontja, a 3–5. §, a 8. § és a 11. § (1) bekezdése 2012. október 1-jén lép hatályba.
+(2) A 2–5. §, a 8. § és a 11. § (1) bekezdése 2013. április 1-jén lép hatályba.
 
-(3) A 2. § c) pontja és a 11. § (2) bekezdése 2013. január 1-jén lép hatályba.
+(3)
 
-10. § (1) A mobil értékesítő vállalkozásnál regisztrált ügyfelek e regisztrációjuk alapján jogosultak a fordulónapot követően a nemzeti mobil fizetési szervezet szolgáltatásainak igénybevételére. Ennek érdekében a mobil értékesítő vállalkozás a fordulónapot megelőző harmincadik napig átadja a nemzeti mobil fizetési szervezet részére a vele szerződésben álló regisztrált ügyfelek általa kezelt, a 6. § (2) bekezdésében meghatározott adatait. Az adatok átvételéről a nemzeti mobil fizetési szervezet a Kormány rendeletében meghatározott módon értesíti a regisztrált ügyfelet.
-
-(2) A nemzeti mobil fizetési szervezet a regisztrált ügyfél vonatkozásában átvett adatokat a határidő lejártát követő két napon belül törli, ha a regisztrált ügyfél a fordulónapot követő hat hónapon belül nem veszi igénybe a nemzeti mobil fizetési szervezet szolgáltatását.
-
-(3) Az (1)–(2) bekezdésben foglaltak nem érintik a regisztrált ügyfél és a mobil értékesítő vállalkozás közötti jogviszony hatályát.
+10. §
 
 11. § (1)
 

@@ -1355,7 +1355,7 @@ A KÖRNYEZETVÉDELEMBEN
 
 (3) A 18. § (1) bekezdés szerinti védett területekre vonatkozóan 2015. december 22-ig a vizek jó állapotának elérését szolgáló minden olyan környezetvédelmi előírást és környezeti célkitűzést teljesíteni kell, amelyek érdekében az egyes védett területeket kialakították.
 
-(4)
+(4) E törvénynek az egyes környezetvédelmi tárgyú törvények környezeti felelősséggel összefüggő módosításáról szóló 2007. évi XXIX. törvénnyel megállapított rendelkezéseit a 2007. április 30-át követően megvalósított környezetkárosításokra és környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
 
 (5) A törvény rendelkezéseit — a (6) bekezdésben foglaltak kivételével — az elsőfokú határozattal még el nem bírált ügyekben is alkalmazni kell.
 

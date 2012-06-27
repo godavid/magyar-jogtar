@@ -120,7 +120,7 @@ hazai és határon túli magyar képviselőinek részvételével működik.
 - e) ajánlásokat fogad el,
 - f) saját működésével kapcsolatban határozatokat hoz.
 
-(3) A Tanács munkáját titkárság segíti. A titkárság személyi és tárgyi feltételeiről a kormányzati tevékenység összehangolásáért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
+(3) A Tanács munkáját titkárság segíti. A titkárság személyi és tárgyi feltételeiről a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
 
 (4) A szakmai munkacsoportok munkájukat a Titkárság szervezésével végzik.
 

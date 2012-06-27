@@ -165,6 +165,8 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (4) A Testület elnöke havonta a közigazgatási államtitkári illetmény nyolcvan százalékával, a Testület többi tagja a közigazgatási államtitkári illetmény ötvenöt százalékával megegyező összegű tiszteletdíjra jogosult.
 
+6/D. § A Testület elhelyezéséről és működésének feltételeiről – az államháztartásért felelős miniszter bevonásával – az Országgyűlés elnöke gondoskodik.
+
 ### II. Fejezet — A BELSŐ BŰNMEGELŐZÉSI ÉS BŰNFELDERÍTÉSI FELADATOKAT ELLÁTÓ SZERV ÉS A TERRORIZMUST ELHÁRÍTÓ SZERV, VALAMINT AZ EGYÜTTMŰKÖDÉS
 
 ### A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
@@ -892,9 +894,9 @@ törölni kell.
 
 (3) Az (1) bekezdés szerinti intézkedések és kényszerítő eszközök alkalmazásának feltételeire a külföldi állam határrendészeti feladatokat ellátó szervének tagját ki kell oktatni.
 
-(4) Az (1) bekezdés szerinti állam határrendészeti feladatokat ellátó szervének tagja a Magyar Köztársaság területén történő átutazása esetén is magánál tarthatja kényszerítő eszközét, illetve szolgálati fegyverét.
+(4) Az (1) bekezdés szerinti állam határrendészeti feladatokat ellátó szervének tagja Magyarország területén történő átutazása esetén is magánál tarthatja kényszerítő eszközét, illetve szolgálati fegyverét.
 
-(5) Az (1) bekezdésben meghatározott határrendészeti feladatokat ellátó szerv tagja a Magyar Köztársaság területén a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlamenti és tanácsi rendelet 6. cikk (8) bekezdésében, valamint az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (8) bekezdésében meghatározott keretek között hozzáférhet
+(5) Az (1) bekezdésben meghatározott határrendészeti feladatokat ellátó szerv tagja a Magyarország területén a gyorsreagálású határvédelmi csapatok felállítására szolgáló eljárás bevezetéséről, valamint a 2007/2004/EK tanácsi rendeletnek ezen eljárás tekintetében történő módosításáról és a kiküldött határőrök feladatai és hatáskörei szabályozásáról szóló, 2007. július 11-i 863/2007/EK európai parlamenti és tanácsi rendelet 6. cikk (8) bekezdésében, valamint az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 10. cikk (8) bekezdésében meghatározott keretek között hozzáférhet
 
 - a) a Schengeni Információs Rendszerhez, valamint
 - b) a Vízuminformációs Rendszerhez.
@@ -1529,7 +1531,7 @@ részére.
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-94. §
+94. § A határőrség általános jogutódja a rendőrség.
 
 95. §
 

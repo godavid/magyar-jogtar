@@ -84,6 +84,8 @@ a társadalmi szervezetek által használt állami tulajdonú ingatlanok jogi he
 
 (2) Az 1990. március 2-a előtt a Szakszervezetek Országos Tanácsa és az ahhoz tartozó ágazati-szakmai szakszervezetek kezelésében volt állami tulajdonú ingatlanok – a Nemzeti Üdülési Alapítványhoz került ingatlanok kivételével – az e törvény, továbbá a Szit. tv. együttes alkalmazásával meghozott döntések alapján kerülnek tulajdonba.
 
+(3) A (2) bekezdés alapján tulajdonba adott ingatlanokon fennálló elidegenítési és terhelési tilalmat az ingatlan tulajdoni lapjáról az ingatlanügyi hatóság az ingatlan-nyilvántartásba bejegyzett tulajdonos kérelme alapján törli.
+
 23. § Az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 7. § (1) bekezdését az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor fennálló elidegenítési és terhelési tilalom tekintetében is alkalmazni kell.
 
 ### Hatálybalépés

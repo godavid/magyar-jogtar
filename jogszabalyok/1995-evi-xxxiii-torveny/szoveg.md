@@ -2,7 +2,7 @@
 
 a találmányok szabadalmi oltalmáról
 
-A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonosításának, valamint a feltalálók erkölcsi és anyagi elismerésének előmozdítása érdekében, összhangban a Magyar Köztársaságnak a szellemi tulajdon védelme terén fennálló nemzetközi kötelezettségeivel, az Országgyűlés a találmányok szabadalmi oltalmáról a következő törvényt alkotja:
+A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonosításának, valamint a feltalálók erkölcsi és anyagi elismerésének előmozdítása érdekében, összhangban Magyarország szellemi tulajdon védelme terén fennálló nemzetközi kötelezettségeivel, az Országgyűlés a találmányok szabadalmi oltalmáról a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — A TALÁLMÁNY ÉS A SZABADALOM
 

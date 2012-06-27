@@ -23,7 +23,7 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 
 4. § Az Információs Hivatal
 
-- a) megszerzi, elemzi, értékeli és továbbítja a kormányzati döntésekhez szükséges, a külföldre vonatkozó, illetőleg külföldi eredetű, a nemzet biztonsága érdekében hasznosítható információkat, továbbá a Magyar Köztársaság érdekeinek érvényesítését szolgáló tevékenységet folytat;
+- a) megszerzi, elemzi, értékeli és továbbítja a kormányzati döntésekhez szükséges, a külföldre vonatkozó, illetőleg külföldi eredetű, a nemzet biztonsága érdekében hasznosítható információkat, továbbá Magyarország érdekeinek érvényesítését szolgáló tevékenységet folytat;
 - b) felderíti a Magyarország függetlenségét, politikai, gazdasági vagy más fontos érdekét sértő vagy veszélyeztető külföldi titkosszolgálati törekvéseket és tevékenységet;
 - c) információkat gyűjt a nemzetbiztonságot veszélyeztető, külföldi szervezett bűnözésről, különösen a terrorszervezetekről, a jogellenes kábítószer- és fegyverkereskedelemről, a tömegpusztító fegyverek és alkotóelemeik, illetve az előállításukhoz szükséges anyagok és eszközök jogellenes nemzetközi forgalmáról;
 - d) felderíti az ország gazdasága biztonságának és pénzügyi helyzetének veszélyeztetésére irányuló külföldi szándékokat és cselekményeket;
@@ -37,7 +37,7 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 5. § Az Alkotmányvédelmi Hivatal
 
 - a) felderíti és elhárítja a Magyarország függetlenségét, politikai, gazdasági, védelmi vagy más fontos érdekét sértő vagy veszélyeztető külföldi titkosszolgálati törekvéseket és tevékenységet;
-- b) felderíti és elhárítja a Magyar Köztársaság alkotmányos rendjének törvénytelen eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvéseket;
+- b) felderíti és elhárítja Magyarország törvényes rendjének törvénytelen eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvéseket;
 - c)
 - d) felderíti és elhárítja a Magyarország gazdasági, tudományos-technikai, pénzügyi biztonságát veszélyeztető leplezett törekvéseket, valamint a jogellenes kábítószer- és fegyverkereskedelmet;
 - e) ellátja a központi államhatalmi és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények biztonsági védelmét;

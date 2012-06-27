@@ -10,29 +10,7 @@ Az Országgyűlés a közszolgálati tisztviselőkről szóló törvény és má
 
 (2) A prémiumévek programban részt vevő kormánytisztviselőre, köztisztviselőre és kormányzati, illetve közszolgálati ügykezelőre, ha az erről szóló törvény másként nem rendelkezik, a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) rendelkezéseit megfelelően alkalmazni kell.
 
-2. § (1) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, valamint egyéb törvények módosításáról szóló 2001. évi XXXVI. törvény
-
-- a) 104. §-ának, 105. § (2) és (3) bekezdéseinek alkalmazásában köztisztviselőn a kormánytisztviselőt is érteni kell, valamint közszolgálati jogviszonyon a kormányzati szolgálati jogviszonyt is érteni kell,
-- b) 107. § (3) bekezdésének, 108. § (2) bekezdésének, 109. § (3) és (4) bekezdéseinek, 110. §-ának alkalmazásában ügykezelőn a kormányzati ügykezelőt és a közszolgálati ügykezelőt is érteni kell, valamint közszolgálati jogviszonyon a kormányzati szolgálati jogviszonyt is érteni kell.
-
-(2) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény, a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény, valamint egyéb törvények módosításáról szóló 2003. évi XLV. törvény
-
-- a) 129. § (5), (8) és (9) bekezdéseinek alkalmazásában köztisztviselőn a kormánytisztviselőt is érteni kell, valamint közszolgálati jogviszonyon a kormányzati szolgálati jogviszonyt is érteni kell,
-- b) 131. § (3), (4), (6), (8) és (9) bekezdéseinek, 133. § (2) bekezdésének, 134. és 135. §-ainak alkalmazásában ügykezelőn a kormányzati ügykezelőt és a közszolgálati ügykezelőt is érteni kell, valamint közszolgálati jogviszonyon a kormányzati szolgálati jogviszonyt is érteni kell.
-
-(3) A közszférában foglalkoztatottak jogviszonyáról szóló törvények módosításáról szóló 2006. évi LXXII. törvény 7. § (8) bekezdésének alkalmazásában köztisztviselőn a kormánytisztviselőt is érteni kell.
-
-(4) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény módosításáról szóló 2007. évi LXXXIII. törvény
-
-- a) 43. és 44. §-ának alkalmazásában köztisztviselőn a kormánytisztviselőt is érteni kell, valamint közszolgálati jogviszonyon a kormányzati szolgálati jogviszonyt is érteni kell,
-- b) 45. § (1) bekezdésének alkalmazásában köztisztviselőn kormánytisztviselőt kell érteni.
-
-(5) A kormányzati szervezetalakítással összefüggő törvénymódosításokról szóló 2006. évi CIX. törvény
-
-- a) 174. § (3) bekezdésének alkalmazásában köztisztviselőn a kormánytisztviselőt is érteni kell,
-- b) 174. § (4) bekezdésének alkalmazásában köztisztviselőn a kormánytisztviselőt kell érteni, valamint közszolgálati jogviszonyon a kormányzati szolgálati jogviszonyt kell érteni.
-
-(6) Az egyes közszolgálati tárgyú törvények módosításáról szóló 2011. évi XXX. törvény 24. § (1) bekezdésének alkalmazásában kormánytisztviselői jogviszonyon kormányzati szolgálati jogviszonyt kell érteni.
+2. § (1)–(6)
 
 (7) A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény
 
@@ -150,11 +128,33 @@ terjed ki.
 
 (4)
 
-36. §
+#### 2/A. A közszolgálati joganyagnak az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló törvénnyel hatályon kívül helyezett rendelkezéseivel összefüggő szabályozási átmenet
 
-37. §
+36. § A 2. §-ban meghatározott törvényeknek, a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény módosításáról, valamint a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény módosításáról szóló 2011. évi LII. törvénynek és a Magyar Köztársaság 2010. évi költségvetését megalapozó egyes törvények módosításáról szóló 2009. évi CIX. törvénynek az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló törvénnyel történő hatályon kívül helyezésére az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló törvény 1. §-át a 37–41. §-ra figyelemmel kell alkalmazni, azzal, hogy annak alkalmazása során köztisztviselőn a kormánytisztviselőt, közszolgálati jogviszonyon a kormányzati szolgálati jogviszonyt, ügykezelőn a kormányzati ügykezelőt és a közszolgálati ügykezelőt is érteni kell.
 
-38–52. §
+37. § (1) A helyi önkormányzattal közszolgálati jogviszonyban álló köztisztviselőnek a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, valamint egyéb törvények módosításáról szóló 2001. évi XXXVI. törvény 103. § (6) bekezdése alapján megállapított alapilletménye legfeljebb a Központi Statisztikai Hivatal által közzétett, megelőző évi átlagos fogyasztói árindex és a bruttó hazai össztermék együttes százalékos növekedésének felével emelhető mindaddig, amíg a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap a helyi önkormányzat képviselő-testülete által megállapított illetményalapot el nem éri.
+
+(2) Az országgyűlési képviselőcsoportnál foglalkoztatásban álló köztisztviselőre a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, valamint egyéb törvények módosításáról szóló 2001. évi XXXVI. törvényben megállapított illetménykeretet a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 2001. július 1-jén hatályos szabályai alapján számított illetmény figyelembevételével kell ettől az időponttól biztosítani.
+
+38. § (1) Ha 2003. július 1-jén a helyi önkormányzat képviselő-testülete által megállapított illetményalap meghaladta a 33 000 Ft-ot, annak mértéke nem csökkenthető és mindaddig a helyi önkormányzat képviselő-testülete által megállapított illetményalapot kell alkalmazni, amíg a Kttv. 132. §-a szerinti illetményalap azt el nem éri.
+
+(2) A polgármester illetményének, tiszteletdíjának és az önkormányzati képviselő tiszteletdíjának megállapítása során mindaddig a helyi önkormányzat képviselő-testülete által megállapított illetményalapot kell alkalmazni, amíg Kttv. 132. §-a szerinti illetményalap azt el nem éri.
+
+39. § A Ktjv. 2011. június 1-jén hatályos 8. § (2) bekezdés a), b) és e) pontjában és a Ktv. 2011. június 1-jén hatályos 17. § (2) bekezdés a), b) és d) pontjában meghatározott felmentés csak 2011. június 1-jét követően bekövetkezett okon alapulhat.
+
+40. § (1) Az, akinek a közszolgálati jogviszonya, kormánytisztviselői jogviszonya 2011. szeptember 1-jét megelőzően és a közigazgatási versenyvizsga kötelezettség megszűnését követően keletkezett, közigazgatási alapvizsgát köteles tenni 2012. szeptember 1-jéig, kivéve, ha ezen időpontig az alapvizsga alól jogszabály alapján mentesül. Az alapvizsga költségeit a munkáltató viseli. Ha ezen kötelezettségét ez idő alatt nem teljesíti, vagy az alól nem mentesül, közszolgálati jogviszonya megszűnik. A közigazgatási alapvizsga letételére előírt határidőbe nem számít be a 30 napot meghaladó fizetés nélküli szabadság, a keresőképtelenség és a 30 napot meghaladó hivatalos kiküldetés időtartama.
+
+(2) Annak a köztisztviselőnek, kormánytisztviselőnek, aki az (1) bekezdésben említett időszak alatt közigazgatási szakvizsgát tett, nem kell közigazgatási alapvizsgát tennie.
+
+(3) A sikeres közigazgatási versenyvizsgával rendelkező köztisztviselőnek, kormánytisztviselőnek közigazgatási alapvizsgát nem kell tennie.
+
+(4) Az a köztisztviselő, kormánytisztviselő, aki a kinevezését az (1) bekezdésben meghatározott időtartam alatt kapta, a kinevezésében a közigazgatási szakvizsga teljesítésére megállapított határidő egy évvel meghosszabbodik.
+
+(5) A 2011. szeptember 1-jét megelőzően tett közigazgatási alapvizsgát a 2011. szeptember 1-jét követően tett közigazgatási alapvizsgának megfelelő vizsgának kell tekinteni.
+
+41. § Mentesül a közigazgatási felsővezetői képzés és vizsga alól az, aki 2012. szeptember 1-jét megelőzően állami vezetői megbízatással vagy a Ktv. 2009. november 11-én hatályos 31. § (10) bekezdésében meghatározott vezetői megbízással, kinevezéssel legalább egy évig rendelkezett.
+
+42–52. §
 
 #### 3. Záró rendelkezések
 

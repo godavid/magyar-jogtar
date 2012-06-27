@@ -249,7 +249,7 @@ adható.
 
 (3) Munkaerő-piaci program keretében a munkaadó részére a munkaviszonyban foglalkoztatott személy munkabére és járulékai legfeljebb száz százalékának megfelelő összegű támogatás nyújtható.
 
-(4) Felhatalmazást kap a miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, valamint az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben határozza meg a (2) bekezdésben foglalt egységes támogatás megállapításának feltételeit.
+(4) Felhatalmazást kap a miniszter, hogy a társadalmi esélyegyenlőség előmozdításáért felelős miniszter és a társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben határozza meg a (2) bekezdésben foglalt egységes támogatás megállapításának feltételeit.
 
 ### Egyes általánostól eltérő foglalkoztatási formák támogatása
 
@@ -738,7 +738,7 @@ időtartamával.
 
 (9) Az álláskeresőt az (1) bekezdésben meghatározott ellenőrzés során a jegyzővel szemben is terheli a jelentkezési és rendszeres kapcsolattartási kötelezettség.
 
-52. § Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy rendeletben meghatározza az állami felnőttképzési intézmény feladatait, az állami felnőttképzési intézmény irányítását ellátó szervet, az állami felnőttképzési intézmény vezetőjének jogállását, kinevezésének rendjét, az állami felnőttképzési intézmény irányításának rendjét és szabályait. Az állami felnőttképzési intézmény és az állami foglalkoztatási szerv – a Nemzeti Foglalkoztatási Alapból támogatott – munkaerőpiaci képzések lebonyolításával kapcsolatos együttműködését, az állami felnőttképzési intézmény feladatai ellátásának finanszírozását, a képzési keret felhasználásának szabályait a miniszter az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben állapítja meg.
+52. § Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy rendeletben meghatározza az állami felnőttképzési intézmény feladatait, az állami felnőttképzési intézmény irányítását ellátó szervet, az állami felnőttképzési intézmény vezetőjének jogállását, kinevezésének rendjét, az állami felnőttképzési intézmény irányításának rendjét és szabályait. Az állami felnőttképzési intézmény és az állami foglalkoztatási szerv – a Nemzeti Foglalkoztatási Alapból támogatott – munkaerőpiaci képzések lebonyolításával kapcsolatos együttműködését, az állami felnőttképzési intézmény feladatai ellátásának finanszírozását, a képzési keret felhasználásának szabályait a miniszter a társadalmi felzárkózásért felelős miniszter egyetértésével kiadott rendeletben állapítja meg.
 
 53. § (1)–(2)
 
@@ -1075,7 +1075,20 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 59/A. § 2011. január 1. előtt a Munkaerőpiaci Alap rehabilitációs alaprész terhére megkötött támogatási szerződésekből eredő követelések, illetve az alaprészt terhelő kötelezettségek a XX. Nemzeti Erőforrás Minisztérium fejezet „Megváltozott munkaképességűek foglalkoztatásával összefüggő bértámogatás” nevű fejezeti kezelésű előirányzatot illetik meg, illetve terhelik.
 
-#### 59/B. §
+59/B. § (1) Ahol jogszabály munkanélkülit említ, azon álláskeresőt kell érteni.
+
+(2) Ahol jogszabály
+
+- a) munkanélküli ellátást említ, azon az álláskeresők támogatását is,
+- b) munkanélküli járadékot említ, azon az álláskeresési járadékot és az álláskeresési segélyt is
+
+érteni kell.
+
+(3) A 2005. november 1-jét megelőzően megállapított, és ebben az időpontban folyósított munkanélküli ellátást a 2005. október 31-én hatályos szabályok szerint tovább kell folyósítani azzal, hogy az ellátás folyósítása során a 2005. november 1-jétől a munkaügyi központ kirendeltségével való együttműködésre az álláskeresővel kötött álláskeresési megállapodásra vonatkozó szabályokat kell megfelelően alkalmazni.
+
+(4) Annak részére, akinek munkanélküli járadékra, nyugdíj előtti munkanélküli segélyre, álláskeresést ösztönző juttatásra való jogosultsága 2005. november 1-jét megelőzően keletkezik, és ezen ellátásokra való kérelmét legkésőbb 2005. október 31-én benyújtja, ezen ellátásokat a 2005. október 31-én hatályos szabályok szerint kell megállapítani.
+
+(5) Annak részére, akinek a munkanélküli járadék, nyugdíj előtti munkanélküli segély, álláskeresését ösztönző juttatás folyósítása 2005. november 1-jén vagy ezt követően szünetel, a szünetelésre okot adó körülmény megszűnését követően az ellátását a 2005. október 31-én hatályos szabályok szerint kell tovább folyósítani.
 
 59/C. § (1) A 2011. augusztus 31-én folyósított, illetve szünetelő álláskeresési járadékot és álláskeresési segélyt a megállapítása idején hatályos szabályok szerint kell tovább folyósítani. Az álláskeresési járadék – a folyósítási idő lejártát megelőzően létesített munkaviszony miatt – egy összegben történő kifizetésére az álláskeresési járadék megállapítása idején hatályos szabályokat kell alkalmazni.
 

@@ -439,141 +439,28 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (2)
 
-36. § A termőföldről szóló 1994. évi LV. törvény (a továbbiakban: Tft.) 3. § m) és n) pontja helyébe a következő rendelkezés lép:
+36. §
 
-[E törvény alkalmazásában:]
+37. §
 
-„m) helyben lakó: az a családi gazdálkodó vagy nyilvántartási számmal rendelkező őstermelő, vagy egyéni mezőgazdasági vállalkozó magánszemély, akinek
+38. §
 
-1. lakóhelye legalább három éve azon a településen van, amelynek közigazgatási területén a termőföld vagy tanya fekszik;
+39. §
 
-2. lakóhelye legalább három éve olyan településen van, amelynek közigazgatási határa a termőföld vagy tanya fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 15 km távolságra van;
+40. §
 
-n) helyben lakó szomszéd: az a helyben lakó, akinek a tulajdonában vagy használatában lévő termőföld vagy tanya közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével szomszédos az adásvétel, illetve a haszonbérlet tárgyát képező termőfölddel vagy tanyával;”
+41. §
 
-37. § (1) A Tft. 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+42. §
 
-„(1) Termőföld vagy tanya eladása esetén – ha törvény másként nem rendelkezik – az alábbi sorrendben elővásárlási jog illeti meg:
+43. §
 
-a) a Magyar Államot a Nemzeti Földalapról szóló törvényben foglaltak szerint;
+44. §
 
-b) a helyben lakó haszonbérlőt, felesbérlőt és részesművelőt;
+45. §
 
-c) a helyben lakó szomszédot;
+46. §
 
-d) a helyben lakót;
-
-e) haszonbérlőt, felesbérlőt és részesművelőt.”
-
-(2) A Tft. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés c)–d) pontjában meghatározott jogosulti csoportokon belül az elővásárlási jog gyakorlásának sorrendje a következő:
-
-a) a családi gazdálkodó;
-
-b) nyilvántartási számmal rendelkező őstermelő, illetőleg egyéni mezőgazdasági vállalkozó.”
-
-38. § A Tft. 10. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az (1) bekezdés b) és e) pontja alapján az elővásárlási jogot akkor lehet gyakorolni, ha a haszonbérleti jogviszony (felesbérlet, részesművelés) legalább három éve fennáll.”
-
-39. § (1) E törvény 36–38. §-aiban foglalt rendelkezéseket azon termőföld vagy tanya esetében kell alkalmazni, amelyekre vonatkozólag a vételi vagy haszonbérleti ajánlatot a termőföldre vonatkozó elővásárlási és előhaszonbérleti jog gyakorlásának részletes szabályairól szóló rendelet szerint e törvény hatálybalépését követően tették közzé.
-
-(2) Az (1) bekezdés szerinti módon e törvény hatálybalépését megelőzően közzétett
-
-- a) vételi ajánlat esetében a szerződés ingatlanügyi hatósághoz történő benyújtásakor a beadványt – az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 44. §-ának (1) bekezdésétől eltérően – a vételi ajánlat közzétételének időpontjában hatályos rendelkezések szerint kell elintézni;
-- b) haszonbérleti ajánlat esetében a szerződés ingatlanügyi hatósághoz történő benyújtásakor a beadványt a haszonbérleti ajánlat közzétételének időpontjában hatályos rendelkezések szerint kell elintézni.
-
-40. § Az államháztartásról szóló 1992. évi XXXVIII. törvény a következő 109/B–109/C. §-sal egészül ki:
-
-„109/B. § (1) A Nemzeti Földalapról szóló törvény hatálya alá tartozó állami vagyonnal való gazdálkodásból származó bevételek – a törvény eltérő rendelkezése hiányában – a központi költségvetés bevételét vagy finanszírozási bevételét képezik.
-
-(2) Az (1) bekezdés szerinti állami vagyonnal való gazdálkodásból eredő kiadások a központi költségvetés kiadását vagy finanszírozási kiadását képezik.
-
-(3) A Nemzeti Földalapkezelő Szervezetre (a továbbiakban: NFA) rábízott vagyonnal való gazdálkodásból eredő kötelezettségek teljesítéséért az agrárpolitikáért felelős miniszter felelős, aki az ebből eredő feladatait a (4) bekezdésben foglaltak figyelembevételével látja el.
-
-(4) Az NFA
-
-a) közreműködik a rábízott állami vagyonnal kapcsolatos bevételek és kiadások tervezésében,
-
-b) a Magyar Állam képviseletében gondoskodik a rábízott vagyonnal kapcsolatos bevételek beszedéséről, és a rábízott vagyonnal kapcsolatos kiadások teljesítéséről az államháztartási gazdálkodásra vonatkozó előírások szerint,
-
-c) a zárszámadás elkészítéséhez beszámol a rábízott állami vagyonnal kapcsolatos bevételek és kiadások teljesüléséről.
-
-(5) A (4) bekezdésben foglaltakat mind a költségvetési, mind a finanszírozási bevételekre és kiadásokra alkalmazni kell.
-
-(6) Az (1) bekezdésben meghatározott vagyon értékesítéséből származó bevétel – törvény eltérő rendelkezése hiányában – a központi költségvetés központosított bevételét képezi.
-
-109/C. § (1) A Nemzeti Földalapról szóló törvény hatálya alá tartozó állami vagyonnal kapcsolatos költségvetési bevételek és költségvetési kiadások között azokat az ügyleteket is bruttó módon el kell számolni forgalmi értéken, amelyek az NFA-ra bízott vagyon mennyiségének vagy összetételének változását okozzák, de pénzmozgással nem járnak.
-
-(2) Az (1) bekezdés szerinti ügyletek pénzmozgással nem járó részének hatását az állami vagyonnal kapcsolatos költségvetési bevételek és költségvetési kiadások között külön alcímen kell elszámolni, ügylet-típusonkénti bontásban.
-
-(3) A Nemzeti Földalapról szóló törvény szerinti ingyenes tulajdonjog-átruházás kapcsán elszámolt költségvetési kiadások összegével az állami vagyonnal kapcsolatos költségvetési kiadások tervezett összege túlléphető.
-
-(4) Az agrárpolitikáért és az államháztartásért felelős miniszter előzetes engedélyével a (2) bekezdés alapján elszámolandó költségvetési kiadások ugyanazon ügylet keretében elszámolt költségvetési bevétellel megegyező összegével az állami vagyonnal kapcsolatos költségvetési kiadások tervezett összege túlléphető.
-
-(5) Az (1) bekezdésben foglaltak alapján költségvetési kiadás elszámolását eredményező ügyletekre – a (3) és (4) bekezdésben foglaltak kivételével – akkor lehet kötelezettséget vállalni, ha e kiadás elszámolására rendelkezésre áll előirányzat.”
-
-41. § A Tft. 8/C. § (1) bekezdésében a „betartását a helyi birtokhasznosítási bizottság, ennek hiányában a települési önkormányzat jegyzője és az ingatlanügyi hatóság” szövegrész helyébe a „betartását az ingatlanügyi hatóság” szöveg lép.
-
-42. § A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 7. §-ának (1) bekezdésében a „biztosításával (ideértve a Nemzeti Földalapról szóló 2001. évi CXVI. törvény szerinti csereingatlant is) kell megszerezni” szövegrész helyébe a „biztosításával (ideértve a Nemzeti Földalapról szóló törvény szerinti csereingatlant is) kell megszerezni.” szöveg lép.
-
-43. § (1) Az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Külön törvény rendelkezik:
-
-a) a koncesszióról (az állami monopóliumok hasznosításáról),
-
-b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Zrt. működéséről,
-
-c) az állami tulajdonban lévő termőföldekről, mező-, erdőgazdasági művelés alatt álló belterületi földekről, valamint a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett területekről.”
-
-(2) A Vtv. 1. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az állami tulajdonban álló, a hatályos jogszabályok szerint lakásnak minősülő ingatlanok értékesítésére vagy bérbeadására vonatkozó eljárásokban e törvény rendelkezéseit külön törvényben foglalt eltérésekkel kell alkalmazni.”
-
-(3) A Vtv. 37. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az állami tulajdonban lévő védett természeti területek és értékek, műemlékingatlanok, műkincsek, valamint történeti (régészeti) emlékek és földterületek tulajdonjogának bármely jogcímen történő átruházására csak e védett vagyonra vonatkozó külön törvényben meghatározott esetekben és módon kerülhet sor.”
-
-44. § A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény 19. § (1) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(1) A Miniszterelnökségen, a minisztériumokban, a Kormányzati Ellenőrzési Hivatalnál, a költségvetési fejezetet irányító szerveknél – a Központi Statisztikai Hivatal területi szervezeti egységei kivételével –, az Adó- és Pénzügyi Ellenőrzési Hivatalnál és a Vám- és Pénzügyőrségnél – a területi szervei kivételével –, a Magyar Államkincstárnál – a területi szervezeti egységei kivételével –, a Kormány által rendeletben kijelölt államigazgatási szervnél, a Mezőgazdasági Szakigazgatási Hivatal Központjánál, a Nemzeti Földalapkezelő Szervezetnél, a Mezőgazdasági és Vidékfejlesztési Hivatalnál – a területi szervezeti egységei kivételével –, a Nemzeti Nyomozó Irodánál, továbbá jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél, valamint – a belső igazgatási szervei kivételével az Országos Nyugdíjbiztosítási Főigazgatóságnál és az Országos Egészségbiztosítási Pénztárnál, továbbá a Nemzeti Fejlesztési Ügynökségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.”
-
-45. § A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény 33. § (3) bekezdése helyébe az alábbi rendelkezés lép:
-
-„(3) Nem keletkeztet összeférhetetlenséget, ha a szakmai vezető a Magyar Nemzeti Bank felügyelő bizottságának tagja, a Nemzeti Vagyongazdálkodási Tanács tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke, vagy tagja.”
-
-46. § (1) A szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény (a továbbiakban: Ámt.) 25. §-ának (6) bekezdésében a „és a Magyar Nemzeti Földalap Kht. kezelésébe kerülnek, kivéve a védett vagy védelemre tervezett területek.” szövegrész helyébe a „és a Nemzeti Földalapba kerülnek.” szöveg lép.
-
-(2) Az Ámt. 25/A. §-a helyébe a következő rendelkezés lép:
-
-„25/A. § (1) Ha a részarány-földkiadási eljárás lezárását követően a jogutód nélkül megszűnt, illetve felszámolás, végelszámolás alatt álló szövetkezet javára bejegyzett szövetkezeti földhasználati jog alatt álló földrészlet (a továbbiakban: maradványterület) szerepel az ingatlan-nyilvántartásban, a maradványterületet a mezőgazdasági igazgatási szerv határozattal a Magyar Állam tulajdonába adja. A maradványterület a Nemzeti Földalapba kerül.
-
-(2) Az (1) bekezdésben foglalt részarány-földkiadási eljárás akkor tekinthető lezártnak, ha a szövetkezet valamennyi termelőszövetkezeti különlapján nyilvántartott részarány-tulajdon kiadásra került és a termelőszövetkezeti különlapokat az ingatlanügyi hatóság megszüntette. A termelőszövetkezeti különlapok megszüntetését követően az ingatlanügyi hatóság 60 napon belül elkészíti a szövetkezet záró aranykorona-mérlegét, és helyrajzi számok szerint összesíti a maradványterületeket. Az ingatlanügyi hatóság a záró aranykorona-mérleget és az összesített maradványterületek adatait (helyrajzi szám, terület, aranykorona érték) közli a mezőgazdasági igazgatási szervvel.
-
-(3) A mezőgazdasági igazgatási szerv a záró aranykorona-mérleg és az összesített maradványterületek adatainak közlését követő 30 napon belül hozza meg az (1) bekezdés szerinti határozatot.”
-
-47. § (1) Hatályát veszti:
-
-- a) a Nemzeti Földalapról szóló 2001. évi CXVI. törvény,
-- b) a Nemzeti Földalapról szóló 2001. évi CXVI. törvény módosításáról szóló 2002. évi XXIV. törvény,
-- c) a Nemzeti Földalapról szóló 2001. évi CXVI. törvény módosításáról szóló 2005. évi CXXXVIII. törvény,
-- d) a Tft. 21. § (2) bekezdés c) pontja,
-- e) a termőföld védelméről szóló 2007. évi CXXIX. törvény 23. § (3) bekezdése,
-- f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosításáról szóló 2009. évi XL. törvény 10. § (2) bekezdés i) pontja,
-- g) a minősített adat védelméről szóló 2009. évi CLV. törvény 42. § (27) bekezdése,
-- h) az állami vagyonnal való felelős gazdálkodás érdekében szükséges törvények módosításáról, valamint egyes törvényi rendelkezések megállapításáról szóló 2010. évi LII. törvény 26. § (5) bekezdésében az „a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 3. §-ában az állami vagyon felügyeletéért felelős minisztert, egyéb esetekben” szövegrész.
-
-(2) Hatályát veszti a Vtv.
-
-- a) 26. §-a,
-- b) 36. § (2) bekezdés c) pontjában a „ , vagy szociális földprogram megvalósítása” szövegrész,
-- c) 37. § (2) bekezdése,
-- d) 45. § (1) bekezdése,
-- e) 58. §-a,
-- f) 61. § (3) és (4) bekezdése,
-- g) 65. § (1) bekezdésében a „vagy az NFA-t” szövegrész,
-- h) 71. § (1) bekezdés f) és g) pontja.
+47. §
 
 48. § E törvény 1–3. §-a és 18–23. §-a az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.

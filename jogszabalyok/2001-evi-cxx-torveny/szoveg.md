@@ -4673,21 +4673,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 449. § Ahol a hatálybalépés előtt kihirdetett jogszabály az 1996. évi CXI. törvényre vagy az Épt.-re, az 1994. évi XXXIX. törvényre vagy az Áttv.-re, illetőleg az 1991. évi LXIII. törvényre vagy a Bat.-ra utal, azon e törvényt kell érteni.
 
-450. § (1)
-
-(2)
-
-- a)
-- b)–i)
-- j)
-- k)
-- l)
-- m)
-- n)–o)
-- p)
-- q)–r)
-
-(3)–(4)
+450. § E törvénynek a tőkepiacról szóló 2001. évi CXX. törvény módosításáról szóló 2005. évi LXII. törvénnyel megállapított rendelkezéseit annak hatálybalépését megelőzően forgalomba hozott értékpapírok zártkörű vagy nyilvános minősítésénél nem kell alkalmazni.
 
 ### Felhatalmazások
 

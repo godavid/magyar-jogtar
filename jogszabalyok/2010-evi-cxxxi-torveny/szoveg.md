@@ -159,25 +159,7 @@ arra, hogy a jogszabály hatályosulásával kapcsolatos észrevételeket, probl
 
 (2) A 17. § (1) bekezdése 2011. július 1-jén lép hatályba.
 
-17. § (1) A helyi önkormányzatokról szóló 1990. évi LXV. törvény a következő 103/B. §-sal egészül ki:
-
-„103/B. § Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy a helyi sajátosságoknak megfelelően az általa megalkotott rendeletek előkészítésében való társadalmi részvétel szabályait rendeletben állapítsa meg.”
-
-(2) A helyi önkormányzatokról szóló 1990. évi LXV. törvény a következő 103/C. §-sal egészül ki:
-
-„103/C. § (1) A 102. § (2) bekezdés alkalmazásában azokat a szervezeteket kell országos önkormányzati érdekképviseleti szervezeteknek tekinteni, amelyek közül
-
-a) a megyei önkormányzatok érdekképviseletét ellátó szövetségnek legalább 13 tagja megyei önkormányzat,
-
-b) a megyei jogú városok érdekképviseletét ellátó szövetségnek legalább 15 tagja megyei jogú város önkormányzata,
-
-c) a fővárosi és a fővárosi kerületi önkormányzatok érdekképviseletét ellátó szövetségnek egyik tagja a főváros önkormányzata, továbbá tagja legalább 15 fővárosi kerület önkormányzata,
-
-d) a körzetközponti szerepet betöltő helyi önkormányzatok érdekképviseletét ellátó szövetségnek tagja az ilyen szerepet betöltő helyi önkormányzatok legalább 2/3 része, továbbá
-
-e) minden más olyan önkormányzati érdekképviseleti szervezet (szövetség), amelynek tagja legalább 800 helyi önkormányzat, és legalább 11 területi (megyei) szervezetük működik.
-
-(2) Az (1) bekezdésben foglalt arányszámok számításánál egy helyi önkormányzatot csak egy érdekszövetség tagjaként lehet figyelembe venni.”
+#### 17. §
 
 18. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az e törvényben foglalt jogszabálytervezetek és koncepciók elektronikus úton történő közzétételének és véleményezésének részletszabályait.
 

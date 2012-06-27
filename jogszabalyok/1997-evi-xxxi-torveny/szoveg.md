@@ -3042,11 +3042,7 @@ gyermek után az intézményi térítési díj 100%-át,
 
 (5) A törvény hatálybalépését követően a gyermekotthonban működő óvoda és iskola – mint közös igazgatású többcélú gyermekvédelmi intézmény – önálló intézményegységként működik tovább a Kt. rendelkezései alapján.
 
-157. § (1)–(3)
-
-(4)
-
-(5)–(6)
+157. § A 2003. január 1-jén fennálló nevelőszülői jogviszony esetében a hivatásos nevelőszülőt megillető díjat nem lehet alacsonyabb mértékben megállapítani annál, mint amilyen díjazásban a hivatásos nevelőszülő 2003. január 1-jén részesült.
 
 158. § E törvénynek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel módosított 20/C. § (1) bekezdését a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 

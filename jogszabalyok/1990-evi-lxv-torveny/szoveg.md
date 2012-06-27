@@ -935,7 +935,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 - a) a helyi önkormányzatok jogállását, kizárólagos feladat- és hatáskörét, a kötelezően ellátandó feladatait, kötelező szervtípusait, működésének garanciáit, anyagi eszközeit és gazdálkodásának alapvető szabályait;
 - b) a helyi önkormányzati képviselők jogállását, megválasztásuk rendjét, jogait és kötelezettségeit.
 
-(2) Az Országgyűlés a Kormánynak – az Alkotmánybíróság véleményének kikérése után előterjesztett – javaslatára feloszlatja azt a helyi képviselő-testületet, amelynek működése az Alkotmánnyal ellentétes [Alkotmány 19. § (3) bek. 1. pont]. Ha az Országgyűlés az önkormányzati képviselő-testületet feloszlatja, egyidejűleg három hónapon belüli időpontra kitűzi az időközi választást.
+(2) Az Országgyűlés a Kormánynak – az Alkotmánybíróság véleményének kikérése után előterjesztett – javaslatára feloszlatja azt a helyi képviselő-testületet, amelynek működése az Alaptörvénnyel ellentétes. Ha az Országgyűlés az önkormányzati képviselő-testületet feloszlatja, egyidejűleg három hónapon belüli időpontra kitűzi az időközi választást.
 
 (3) Az Országgyűlés a feloszlatásról a soron következő ülésén határoz. E napirend tárgyalására meg kell hívni az érintett önkormányzat polgármesterét. A polgármester jogosult a feloszlatásra vonatkozó javaslattal kapcsolatban a képviselő-testület álláspontját a határozathozatal előtt ismertetni.
 
@@ -951,7 +951,7 @@ Azon főpolgármester-helyettes, akit nem a fővárosi közgyűlés tagjai köz�
 95. § A Kormány:
 
 - a) a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter közreműködésével, a fővárosi és megyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi ellenőrzését;
-- b) javaslatot terjeszt az Országgyűléshez az Alkotmánnyal ellentétesen működő helyi képviselő-testület feloszlatására;
+- b) javaslatot terjeszt az Országgyűléshez az Alaptörvénnyel ellentétesen működő helyi képviselő-testület feloszlatására;
 - c) rendeletben határozza meg a helyi közszolgálat képesítési előírásait;
 - d) irányítja az államigazgatási feladatok ellátását és gondoskodik végrehajtásuk feltételeiről;
 - e) dönt az államigazgatási szerv és a helyi önkormányzat között keletkező — jogilag szabályozott más eljárás keretében nem tartozó — vitában.
@@ -1101,7 +1101,7 @@ részvény formában e törvény erejénél fogva a szolgáltatásba bekapcsolt 
 
 113. § Ez a törvény az önkormányzati képviselő-testületek tagjai 1990. évi választásának napján lép hatályba.
 
-114. § Az Alkotmánybíróság — a Kormány indítványa alapján — véleményt nyilvánít a helyi képviselő-testület működésének alkotmányellenességéről.
+114. § Az Alkotmánybíróság — a Kormány indítványa alapján — véleményt nyilvánít a helyi képviselő-testület működésének alaptörvény-ellenességéről.
 
 115. § (1)
 

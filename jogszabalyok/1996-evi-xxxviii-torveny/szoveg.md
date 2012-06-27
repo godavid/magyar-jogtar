@@ -478,6 +478,16 @@ Külföldi hatóság megkereséseeljárási jogsegély iránt
 
 (3) Ha az ügyész vagy a bíróság külföldről eljárási jogsegély keretében tanút vagy szakértőt idéz, részükre az utazás és a magyarországi tartózkodás költségének fedezésére előleg folyósítható.
 
-### VII. Fejezet — Hatálybalépés
+### VII. Fejezet — Záró rendelkezések
+
+### 1. Cím
+
+Hatályba léptető rendelkezések
 
 84. § Ez a törvény a kihirdetését követő második hónap 15. napján lép hatályba.
+
+### 2. Cím
+
+Az Európai Unió jogának való megfelelés
+
+85. § A 46. § az Európai Unió más tagállamaiban hozott ítéleteknek egy új büntetőeljárásban való figyelembevételéről szóló 2008/675/IB kerethatározatnak való megfelelést szolgálja.

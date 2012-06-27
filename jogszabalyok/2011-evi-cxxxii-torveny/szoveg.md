@@ -332,26 +332,16 @@ kezeli.
 
 51. § A 14., 25–26., 28–31. és 33. § rendelkezéseit 2012. január 1-jétől azon alkalmazottakra és hallgatókra is alkalmazni kell, akiknek jogviszonya e törvény hatálybalépését megelőzően keletkezett.
 
-#### 6. Módosító rendelkezések
+51/A. § (1) Az Egyetem elhelyezése érdekében települési önkormányzat a tulajdonában lévő önkormányzati vagyon tulajdonjogát az állam javára versenyeztetés mellőzésével átruházhatja, vagy a tulajdonjog ingyenes átruházására vonatkozó megállapodást köthet.
 
-52. §
+(2) Ha az (1) bekezdés szerinti átruházáshoz kapcsolódóan a cégbíróságon változás bejelentése szükséges, az mentes az illeték- és közzétételi költségtérítés megfizetése alól.
 
-53. §
+#### 6.
 
-54. §
+52–55. §
 
-55. § A
+#### 7.
 
-- a)–b)
-- c)
-- d)
-
-#### 7. Hatályon kívül helyező rendelkezések
-
-56. § (1)
-
-(2)
-
-(3) Hatályát veszti 2013. január 2-án a Nemzeti Közszolgálati Egyetem létesítéséről szóló 2011. évi XXXVI. törvény.
+56. §
 
 ### Melléklet a 2011. évi CXXXII. törvényhez
