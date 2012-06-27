@@ -492,7 +492,7 @@ kell keresetként figyelembe venni.
 
 39. § (1) Ha a biztosítottnak a Tbj. 5. §-a (1) bekezdésének a)–b), g) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a Munka Törvénykönyve értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 12. § (1)–(2) bekezdésének és 20. §-ának alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
 
-(2) Az (1) bekezdés rendelkezéseit a Tbj. 30/A. §-ának (2) bekezdése szerinti mezőgazdasági őstermelő biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
+(2) Az (1) bekezdés rendelkezéseit a Tbj. 30/A. §-ának (2) bekezdése szerinti mezőgazdasági őstermelő 2007. december 31-ét követően szerzett biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
 
 40. § Szolgálati időként kell figyelembe venni azt az időt is, amely a munkaviszony (közalkalmazotti, köztisztviselői jogviszony) jogellenes megszűnésétől annak helyreállításáig, vagy az utóbbi mellőzése esetén a jogviszony jogellenes megszüntetésének jogerős megállapításáig telt el.
 
@@ -928,7 +928,7 @@ A nyugellátást havonta kell folyósítani, legkorábban attól a naptól kezdv
 
 (2) Az (1) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett nyugellátást attól lehet visszakövetelni, akinek a nyugellátás felvétele felróható.
 
-(3) Az (1) bekezdésben meghatározott idő elteltével felróhatóság hiányában is vissza kell fizetni a bírósági ítélet alapján folyósított nyugellátást, ha a Legfelsőbb Bíróság felülvizsgálat keretében úgy dönt, hogy a nyugellátás megállapítása nem volt jogszerű.
+(3) Az (1) bekezdésben meghatározott idő elteltével felróhatóság hiányában is vissza kell fizetni a bírósági ítélet alapján folyósított nyugellátást, ha a Kúria felülvizsgálat keretében úgy dönt, hogy a nyugellátás megállapítása nem volt jogszerű.
 
 85. § (1) A foglalkoztató és egyéb szerv köteles megtéríteni a jogalap nélkül felvett nyugellátást, ha a nyugellátás jogalap nélküli megállapítása, illetőleg folyósítása az ő mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye, és a nyugellátást a 84. § alapján visszakövetelni nem lehet.
 
@@ -1226,6 +1226,8 @@ rendeletben határozza meg.
 102/C. § Az egyéni vállalkozók nyilvántartását vezető szerv a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervnek 2011. február 28-áig elektronikus úton átadja azoknak az egyéni vállalkozóknak – az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 11. § (1) bekezdése szerinti – adatait, akik az egyéni vállalkozói tevékenység megkezdését, szünetelését, megszűnését, illetve az adatokban bekövetkező egyéb változást 2010. évben jelentették be. Az adatátadás rendjéről az egyéni vállalkozók nyilvántartását vezető szerv és a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv megállapodást köt.
 
 102/D. § A 2012. január 1-jét megelőző időre folyósított rokkantsági, baleseti rokkantsági nyugdíj visszafizetésére és megtérítésére a 2011. december 31-én hatályos szabályokat 2011. december 31-ét követően is alkalmazni kell.
+
+102/E. § Aki 2009. december 31-éig az öregségi teljes, illetve résznyugdíjhoz szükséges életkort betöltötte és az előírt szolgálati időt megszerezte, e jogosultságát a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszony, illetve a 18. § (4) bekezdése szerinti jogviszony fennállása esetén is érvényesítheti. Ebben az esetben öregségi nyugdíjkorhatárnak e törvény 2009. december 31-én hatályos rendelkezései szerinti életkort kell tekinteni.
 
 103. § E törvény a Tanácsnak a férfiakkal és nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról szóló 79/7/EGK irányelvével összeegyeztethető szabályozást tartalmaz.
 

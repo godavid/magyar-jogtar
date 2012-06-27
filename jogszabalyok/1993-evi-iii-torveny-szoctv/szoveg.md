@@ -1202,7 +1202,7 @@ adatot szolgáltat.
 
 nyújtja.
 
-(3) A (2) bekezdés a), b) és d) pontjaiban meghatározott intézmény legalább tíz fő, legfeljebb százötven fő ellátását biztosítja. Telephellyel rendelkező szociális intézmény esetén a férőhelyszámot az ellátást nyújtó székhelyen és az egyes telephelyeken külön-külön kell vizsgálni. 2011. január 1-jét követően fogyatékos személyek ápolást-gondozást nyújtó intézményi ellátása céljából új férőhelyet csak lakóotthoni formában lehet létrehozni.
+(3) A (2) bekezdés a), b) és d) pontjaiban meghatározott intézmény legalább tíz fő, legfeljebb százötven fő ellátását biztosítja. Telephellyel rendelkező szociális intézmény esetén a férőhelyszámot az ellátást nyújtó székhelyen és az egyes telephelyeken külön-külön kell vizsgálni. 2011. január 1-jét követően – a 2011. január 1-jén jogerős építési engedéllyel rendelkező beruházás kivételével – fogyatékos személyek ápolást-gondozást nyújtó intézményi ellátása céljából új férőhelyet csak lakóotthoni formában lehet létrehozni.
 
 (4) A fővárosi önkormányzat fenntartásában lévő, illetve a fővárosi önkormányzattal ellátási szerződést kötött nem állami, egyházi fenntartó által nyújtott éjjeli menedékhely engedélyezett férőhelyszáma az ellátás iránti szükséglet által különösen indokolt esetben meghaladhatja a százötven főt.
 

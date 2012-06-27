@@ -3790,6 +3790,8 @@ kérhetnek adatszolgáltatást.
 - a) a Hpt. 2. számú melléklet III. Egyéb meghatározások 5.1. pontja szerinti lakáscélú hitel- vagy kölcsönszerződés, valamint az 5.2. pontja szerinti lakáscélú pénzügyi lízingszerződés, továbbá
 - b) ingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett megkötött olyan hitel- vagy kölcsönszerződés, amely esetében az adós a folyósított kölcsön összegét a fedezetként lekötött lakóingatlan vásárlására, építésére, bővítésére, korszerűsítésére, felújítására vagy ezek egy részére fordította, ha a hitelfolyósításkor a hitelösszeg nem haladta meg a 20 millió Ft-ot vagy a lakóingatlannak a lakáshitel-szerződésben meghatározott (vagy ha a lakáshitel-szerződés erről nem rendelkezett, a hitelfolyósításkori) forgalmi értéke a 30 millió Ft-ot.
 
+303/A. § A 187. §-nak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosításáról szóló 2009. évi XIV. törvénnyel megállapított (1) bekezdés b) pontját az e rendelkezés hatálybalépését követően elkövetett jogszabálysértések esetében kell alkalmazni.
+
 304. § (1) A 303. §-nak a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvénnyel megállapított (1) és (9) bekezdését azokban a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben a kilakoltatás foganatosítására még nem került sor.
 
 (2) Ha a végrehajtó a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvény hatálybalépésének napján

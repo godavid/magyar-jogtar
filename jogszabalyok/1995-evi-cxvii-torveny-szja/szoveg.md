@@ -211,7 +211,7 @@ azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a
 - 84. Kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról (általános csoportmentességi rendelet) szóló a Bizottság 800/2008/EK rendelete (2008. augusztus 6.) 1–13. cikkei alapján megillető támogatás.
 - 85. Ellenőrzött külföldi társaság: a társasági adóról és az osztalékadóról szóló törvény szerinti ellenőrzött külföldi társaság.
 - 86.
-- 87. Erzsébet-utalvány: a Magyar Nemzeti Üdülési Alapítvány által papír alapon vagy elektronikus formában kibocsátott, fogyasztásra kész étel vásárlására felhasználható utalvány.
+- 87. Erzsébet-utalvány: a Magyar Nemzeti Üdülési Alapítvány által papír alapon vagy elektronikus formában kibocsátott, fogyasztásra kész étel vásárlására jogosító utalvány.
 - 88. Iskolarendszeren kívüli képzés: olyan képzés, amelynek résztvevői nem állnak a képző intézménnyel tanulói vagy hallgatói jogviszonyban.
 
 3/A. §

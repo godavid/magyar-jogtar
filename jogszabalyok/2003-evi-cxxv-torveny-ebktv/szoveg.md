@@ -311,7 +311,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 
 31. § (1) A község, a város és a főváros kerületeinek önkormányzata (a továbbiakban: települési önkormányzat) ötévente öt évre szóló helyi esélyegyenlőségi programot fogad el.
 
-(2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok – különös tekintettel a nők, a mélyszegénységben élők, romák, a fogyatékkal élő személyek, valamint a gyermekek és idősek csoportjára – oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve a helyzetelemzésen alapuló intézkedési tervben meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A helyzetelemzés és az intézkedési terv elfogadása során figyelembe kell venni a települési kisebbségi önkormányzatok véleményét. A helyi esélyegyenlőségi programot az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter által meghatározott részletes szabályok alapján kell elkészíteni. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a települési önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a közoktatási esélyegyenlőségi terv és az integrált településfejlesztési stratégia anti-szegregációs célkitűzéseinek összhangjáról.
+(2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok – különös tekintettel a nők, a mélyszegénységben élők, romák, a fogyatékkal élő személyek, valamint a gyermekek és idősek csoportjára – oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve a helyzetelemzésen alapuló intézkedési tervben meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A helyzetelemzés és az intézkedési terv elfogadása során figyelembe kell venni a települési kisebbségi önkormányzatok véleményét. A helyi esélyegyenlőségi programot a társadalmi felzárkózásért felelős miniszter által meghatározott részletes szabályok alapján kell elkészíteni. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a települési önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a közoktatási esélyegyenlőségi terv és az integrált településfejlesztési stratégia anti-szegregációs célkitűzéseinek összhangjáról.
 
 (3) A helyi esélyegyenlőségi program elkészítése során kiemelt figyelmet kell fordítani
 
@@ -368,7 +368,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 
 ### A hatóság költségvetése és gazdálkodása
 
-34. § (1) A hatóság fejezeti jogosítványokkal felruházott központi költségvetési szerv, amelynek költségvetése az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter költségvetési fejezetén belül önálló címet képez.
+34. § (1) A hatóság fejezeti jogosítványokkal felruházott központi költségvetési szerv, amelynek költségvetése a társadalmi felzárkózásért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címet képez.
 
 (2) A hatóság tárgyévi költségvetésének kiadási és bevételi fő összegei – az államháztartásról szóló törvényben meghatározott, az élet- és vagyonbiztonságot veszélyeztető elemi csapás, illetve annak következményei elhárítása érdekében meghozott átmeneti intézkedés, valamint a hatóság saját vagy irányító szervi hatáskörében meghozott intézkedése kivételével – kizárólag az Országgyűlés által csökkenthetők.
 
@@ -509,7 +509,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a helyi esélyegyenlőségi program elkészítésében részt vevők képzését végző szervet.
 
-(4) Felhatalmazást kap az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszter, hogy a helyi esélyegyenlőségi program elkészítésének részletes szabályait rendeletben határozza meg.
+(4) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy a helyi esélyegyenlőségi program elkészítésének részletes szabályait rendeletben határozza meg.
 
 (5)
 
