@@ -236,4 +236,10 @@ A saját erő fentiek szerinti részarányát a szervezet által megvásárolt v
 
 25. § Ez a törvény a kihirdetését követő 15. napon lép hatályba.
 
-26. §
+26. § (1) E törvénynek a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosításáról szóló 2003. évi CXIX. törvénnyel megállapított 9. § j) pontját és 13. §-át a 2004. január 21-ét követően új szervezet alapítása vagy új vagyonrész vásárlása során – az újabb ügylet tárgyát képező vagyonrészek tekintetében – kell alkalmazni.
+
+(2) Ha 2004. január 21-jét megelőzően megszűnt részvételi jogviszony e törvénynek a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosításáról szóló 2003. évi CXIX. törvénnyel megállapított rendelkezései szerint fennmaradhatott volna, a volt résztvevő kérelmére ennek résztvevői jogviszonyát a szervezet köteles – az alapszabályban meghatározott feltételeknek megfelelően – a jövőre vonatkozó hatállyal helyreállítani. A nyugdíjas résztvevő számára biztosítandó nyugdíjas részesedési és szavazati jog tekintetében a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosításáról szóló 2003. évi CXIX. törvénnyel megállapított 1. § (4) bekezdése alkalmazása a résztvevő tulajdonába adott vagyonrészeknek a szervezet kezelésébe való visszabocsátásának feltételéhez köthető.
+
+(3) E törvénynek a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosításáról szóló 2003. évi CXIX. törvénnyel megállapított 9. § (2) bekezdése, 19. § (2) bekezdése, valamint 19. § (6) és (7) bekezdése szerinti rendelkezések 2004. január 21-jén már tulajdonba adott, illetve a résztvevő által megszerzett – elszámolási és részvényszámlán nyilvántartott – vagyonrészekre vonatkozó jogokat nem érintik.
+
+(4) Ha 2004. január 21-én a szervezet alapszabályának valamely rendelkezése megfelelt e törvénynek a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosításáról szóló 2003. évi CXIX. törvénnyel megállapított rendelkezéseinek, illetve azokkal összhangban állt, a szervezettel szemben nem alkalmazható törvényességi intézkedés arra hivatkozással, hogy az alapszabályi rendelkezés az a Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosításáról szóló 2003. évi CXIX. törvény hatálybalépését megelőzően hatályos törvényi szabályozást sértette.

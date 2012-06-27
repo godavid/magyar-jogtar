@@ -283,6 +283,8 @@ részére átengedhető és kizárólag általuk gyakorolható.
 
 15. § A jelen törvény rendelkezéseibe ütköző szerződés, más jogügylet vagy rendelkezés semmis.
 
+15/A. § A 2. számú melléklet III. fejezetének 1. alcíme alatt a 31. pontban felsorolt képzőművészeti alkotások 2012. június 30-án önkormányzati tulajdonból nyilvántartási értéken, ingyenesen az állam tulajdonába és az Országgyűlés Hivatala vagyonkezelésébe kerülnek. A vagyonkezelésre egyebekben a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött vagyonkezelési szerződés szabályait kell alkalmazni.
+
 ### IV. Fejezet — A KÜLÖN TÖRVÉNYEKBEN SZABÁLYOZOTT VAGYONI ELEMEK
 
 16. § (1) Az e törvényben meghatározott elvek mentén
@@ -2097,6 +2099,16 @@ V. kerület
 | 29. | Március 15. tér | Contra Aquincum romjai |
 | 30. | Vigadó tér 2. | Pesti Vigadó |
 
+31. Kossuth Lajos tér, 24893 helyrajzi számú ingatlanon álló szobrok:
+
+– II. Rákóczi Ferenc emlékmû
+
+– Kossuth-emlékmû
+
+– A forradalom lángja emlékmű
+
+– A Dunánál (József Attila) portrészobor
+
 VI. kerület
 
 | 31. | Andrássy út 22. | Magyar Állami Operaház |
@@ -2553,27 +2565,27 @@ XXII. kerület
 
 19. ZALA MEGYE
 
-| 251. | EGERVÁR Vár u. |  | várkastély |
-| --- | --- | --- | --- |
-| 252. | KESZTHELY Bercsényi u. 65. Georgikon u. 20. |  | Georgikon és majorja teljes együttese |
-| 253. | KESZTHELY, Festetics-kastélyegyüttes és parkja: |  |  |
-|  | Kastély u. 1. |  | kastélymúzeum |
-|  | Bástya u. 2. |  |  |
-|  | Bástya u. 4. |  |  |
-|  | Bástya u. 6. |  |  |
-|  | Georgikon u. 21. |  | kertészet |
-|  | Georgikon u. 21/A |  |  |
-|  | Georgikon u. 21/B |  |  |
-|  | Georgikon u. 21/C |  |  |
-|  | Soproni u. 2. |  |  |
-|  | Lehel u. 2. |  |  |
-|  |  |  | kastélypark |
-| 254. | KESZTHELY Kastély u. 11. Georgikon u. 1. |  | Amazon Szálló, lóváltó és lakóház épületegyüttese |
-| 255. | KESZTHELY, Fenékpuszta: műemléki együttes |  |  |
-|  |  | római kori épületmaradványok |  |
-|  |  | Festetics-kúria és gazdasági épület |  |
-| 256. | REZI | várrom |  |
-| 257. | ZALASZENTGRÓT Zala u. 1. | Batthyány-kastély, park és híd |  |
-| 258. | ZALASZÁNTÓ Tátika | várrom |  |
-| 259. | ZALAVÁR Récéskút | bazilika romjai |  |
-| 260. | ZALAVÁR Vársziget | vár és apátság romjai |  |
+| 251. | EGERVÁR Vár u. | várkastély |
+| --- | --- | --- |
+| 252. | KESZTHELY Bercsényi u. 65. Georgikon u. 20. | Georgikon és majorja teljes együttese |
+| 253. | KESZTHELY, Festetics-kastélyegyüttes és parkja: |  |
+|  | Kastély u. 1. | kastélymúzeum |
+|  | Bástya u. 2. |  |
+|  | Bástya u. 4. |  |
+|  | Bástya u. 6. |  |
+|  | Georgikon u. 21. | kertészet |
+|  | Georgikon u. 21/A |  |
+|  | Georgikon u. 21/B |  |
+|  | Georgikon u. 21/C |  |
+|  | Soproni u. 2. |  |
+|  | Lehel u. 2. |  |
+|  |  | kastélypark |
+| 254. | KESZTHELY Kastély u. 11. Georgikon u. 1. | Amazon Szálló, lóváltó és lakóház épületegyüttese |
+| 255. | KESZTHELY, Fenékpuszta: műemléki együttes |  |
+|  |  | római kori épületmaradványok |
+|  |  | Festetics-kúria és gazdasági épület |
+| 256. | REZI | várrom |
+| 257. | ZALASZENTGRÓT Zala u. 1. | Batthyány-kastély, park és híd |
+| 258. | ZALASZÁNTÓ Tátika | várrom |
+| 259. | ZALAVÁR Récéskút | bazilika romjai |
+| 260. | ZALAVÁR Vársziget | vár és apátság romjai |

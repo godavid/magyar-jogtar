@@ -39,7 +39,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 - a) a kérelem előterjesztését megelőző nyolc éven át folyamatosan Magyarországon lakott;
 - b) a magyar jog szerint büntetlen előéletű és a kérelem elbírálásakor ellene magyar bíróság előtt büntetőeljárás nincs folyamatban;
-- c) megélhetése és lakóhelye Magyarországon biztosított;
+- c) megélhetése és lakhatása Magyarországon biztosított;
 - d) honosítása Magyarország közbiztonságát és nemzetbiztonságát nem sérti;
 - e) igazolja, hogy alkotmányos alapismeretekből magyar nyelven eredményes vizsgát tett, vagy ez alól a törvény alapján mentesül.
 
@@ -62,7 +62,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (6) A magyar állampolgár által örökbefogadott kiskorú gyermek lakóhelyétől függetlenül honosítható.
 
-(7) A köztársasági elnök a folyamatos magyarországi lakóhely tekintetében az (1)–(2) és (4) bekezdésekben meghatározott időtartam, valamint az (1) bekezdés c) és e) pontjában meghatározott feltétel alól – az állampolgársági ügyekért felelős miniszter (a továbbiakban: miniszter) javaslatára – felmentést adhat, ha a kérelmező honosításához Magyarországnak fontos érdeke fűződik.
+(7) Az (1) bekezdés b) és d) pontjában meghatározott feltételek fennállása esetén a köztársasági elnök – az állampolgársági ügyekért felelős miniszter (a továbbiakban: miniszter) javaslata alapján – felmentést adhat a honosítás további feltételei alól, ha a kérelmező honosításához Magyarországnak fontos érdeke fűződik.
 
 (8) A magyar nyelvtudás igazolásától el lehet tekinteni cselekvőképtelen vagy korlátozottan cselekvőképes személyek esetében.
 

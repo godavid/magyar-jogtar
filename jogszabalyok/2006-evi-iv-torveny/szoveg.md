@@ -2678,6 +2678,8 @@ történik.
 
 (4) A Módtv.-vel megállapított 85. § (4) bekezdését a Módtv. hatálybalépését követően elhatározott szétválásokra kell alkalmazni.
 
+336/E. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2009. évi LI. törvénnyel megállapított 23. § (3) és (4) bekezdésében foglaltakat a 2009. szeptember 1. és 2012. március 1. közötti időszakban indult megszüntetési eljárásokra és felszámolási eljárásokkal összefüggésben megállapított felelősségre kell alkalmazni.
+
 ### Jogharmonizációs záradék
 
 337. § E törvény – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:

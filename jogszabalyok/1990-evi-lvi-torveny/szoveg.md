@@ -14,7 +14,7 @@ az országgyűlési képviselők javadalmazásáról
 
 (6) Az Országgyűlés alelnökei az e törvényben meghatározottakon kívül az államtitkárt megillető juttatásokra jogosultak.
 
-(7) A képviselő javadalmának csökkentésére a Házszabály az irányadó.
+(7) A képviselőnek járó alapdíj összege arányosan csökken, ha a képviselő a tárgyhónap napirendben előre feltüntetett szavazásainak több mint egyharmadán igazolatlanul nem vesz részt.
 
 2. § (1) A képviselő – az Országgyűléstől kapott megbízatása alapján – az alapdíj alapulvételével havonta a következő pótdíjakban részesül:
 

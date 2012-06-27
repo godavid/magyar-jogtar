@@ -1609,6 +1609,8 @@ lép hatályba.
 
 (3) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvénnyel megállapított 36. § (7)–(9) bekezdéseit a naptári évtől eltérő üzleti évvel rendelkező forgalombahozatali engedély jogosultjai 2012. december 31-éig alkalmazhatják az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvény hatálybalépése napján hatályos szabályok szerint.
 
+86/B. § A közforgalmú gyógyszertárak létesítésére, a gyógyszerek forgalomba hozatalára, a gyógyszernek nem minősülő gyógyhatású készítményekre vonatkozó szabályok gyakorlati megvalósulásáról, a szabályozás elvárt és tényleges hatásainak összevetése alapján a 2011. január 1. és 2014. július 1. közötti időszakra vonatkozóan a Kormány 2014. október 1. napjáig jelentést terjeszt az Országgyűlés elé.
+
 87. § (1) Az e törvény 22–35. §-ában foglalt rendelkezéseket az e törvény hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben határozza meg a gyógyászati segédeszközök forgalmazásának, javításának és kölcsönzésének engedélyezésével, illetve bejelentésével összefüggő eljárásra, valamint a nyilvántartás személyes adatot nem tartalmazó adattartalmára és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a gyógyászati segédeszközök forgalmazására, javítására és kölcsönzésére jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.

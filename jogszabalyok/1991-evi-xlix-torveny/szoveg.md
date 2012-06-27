@@ -1365,7 +1365,13 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (8) A (2) bekezdést és a 83/C. §-t a Módtv. hatálybalépését megelőzően befejezett felszámolási eljárással érintett vagyontárgyra is alkalmazni kell.
 
-83/B. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosításáról szóló 2006. évi VI. törvény 20. § (4) bekezdésében említett 167/1993. (XI. 30.) Korm. rendelet szerinti felsőfokú végzettség tekintetében a felszámolók névjegyzékét vezető szerv szakhatósági állásfoglalást szerezhet be. Az ilyen végzettséggel rendelkező személyek 2012. június 1-jétől legfeljebb öt felszámolói tevékenységet folytató gazdasági társaságnál foglalkoztathatók.
+83/B. § (1) A felszámoló gazdasági társaságnál azokat a felszámolói tevékenységben személyesen közreműködő tagokat, munkavállalókat, vagy a társasággal kötött tartós polgári jogi szerződés alapján azokat a felszámolói tevékenységben közreműködő személyeket, akik 2010. július 1-jén megfeleltek a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi XLIX. törvény módosításáról szóló 2006. évi VI. törvény 20. § (4) bekezdése szerinti képesítési feltételeknek, a 27/A. § (3) bekezdése és a 27/C. § (4) bekezdés f) pontja szerinti szakképesítéssel rendelkezőnek kell tekinteni.
+
+(2) A 27/A. § (3) bekezdésének és a 27/C. § (4) bekezdés f) pontjának alkalmazásában 2010. június 30-áig a felszámolók névjegyzékéről szóló 167/1993. (XI. 30.) Korm. rendelet 2006. június 30-án hatályos 2. § (3) bekezdés b) pontjában meghatározott végzettségeket, továbbá a felszámolási és vagyonfelügyeleti szakirányú szakképzettséget egyaránt érteni kell szakirányú szakképzettség alatt.
+
+(3) Az (1) és (2) bekezdés szerinti végzettséggel rendelkező személyek 2012. június 1-jétől legfeljebb öt felszámolói tevékenységet folytató gazdasági társaságnál foglalkoztathatók.
+
+(4) A felszámolók névjegyzékét vezető szerv az (1) és (2) bekezdésben meghatározott jogszabályok szerinti felsőfokú végzettségre vonatkozó szakhatósági állásfoglalást szerezhet be.
 
 83/C. § (1) A vagyontárgy tulajdonosa kérelmére, a (2)–(5) bekezdés szerinti nemperes eljárásban a jogutód nélkül megszűnt gazdálkodó szervezet felszámolási eljárását lefolytató törvényszék végzést hoz arról, hogy a jogutód nélküli megszűnéssel összefüggő jóváhagyott vagyonfelosztási javaslatban nem volt rendelkezés a jog vagy tény más javára történő átengedéséről.
 
@@ -1380,6 +1386,10 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 83/D. § A Módtv-vel módosított 65–70. §-t (ide nem értve a Módtv-vel módosított 66. § (5) bekezdést) a 2012. január 1-jét követően kezdeményezett eljárásokban kell alkalmazni, a Módtv-vel módosított 66. § (5) bekezdést pedig a 2012. január 1-jén már folyamatban lévő eljárásokban is alkalmazni kell.
 
 83/E. § Az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 57. § (1) bekezdés e) pontját és 57. § (6) bekezdését a hatálybalépés napját követően indult felszámolási eljárásokban kell alkalmazni.
+
+83/E. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2009. évi LI. törvénnyel megállapított 7. § (3) bekezdés b) pontját a 2009. szeptember 1-jét követően kezdeményezett csődeljárásokat követő újabb csődeljárásoknál kell alkalmazni.
+
+(2) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2009. évi LI. törvénnyel megállapított 11. § (3) bekezdését a 2009. szeptember 1-jét megelőzően kikötött óvadékokra azzal az eltéréssel kell alkalmazni, hogy a fizetési haladék nem érinti az óvadék érvényesíthetőségét, ha az óvadéki jogosult a 11. § (3) bekezdés a)–i) pontja szerinti szervezet.
 
 84. §
 

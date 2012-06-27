@@ -69,7 +69,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - a) előkészíti az előadó-művészeti területet érintő jogalkotás során a szabályozás tervezeteit és e törvény felhatalmazása szerint rendeletben szabályozza az előadó-művészeti szervezetek támogatásával kapcsolatos kérdéseket,
 - b) az e törvényben és a központi költségvetésről szóló törvényben foglaltak szerint végzi az előadó-művészeti szervezetek központi költségvetési támogatásával kapcsolatos feladatokat,
 - c) a létesítő okirat alapján gyakorolja a központi költségvetési szervként működő előadó-művészeti szervezetek feletti alapítói és felügyeleti jogokat, valamint támogatja az állam tulajdonosi részesedésével működő előadó-művészeti nonprofit gazdasági társaságok (a továbbiakban együtt: állam által fenntartott előadó-művészeti szervezet) feladat-ellátását,
-- d) legalább három évre, de legfeljebb öt évre szóló közszolgáltatási szerződést köt meghatározott művészeti feladatokra kivételesen magas színvonalú művészi teljesítményt felmutató, hazai és nemzetközi szinten kiemelten elismert, nem állami fenntartású előadó-művészeti szervezettel,
+- d) legalább három évre, de legfeljebb öt évre szóló közszolgáltatási szerződést köt meghatározott művészeti feladatokra kivételesen magas színvonalú művészi teljesítményt felmutató, hazai és nemzetközi szinten kiemelten elismert, nyilvántartott előadó-művészeti szervezettel,
 - e) meghatározza a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek körét,
 - f) a döntéshozatalra jogosultat tájékoztatja szakmai véleményéről a kiemelt előadó-művészeti szervezet alaptevékenységét érintő jelentős szakmai változással, átalakításával, más szervezettel történő összevonásával, jogutód nélküli megszüntetésével kapcsolatban, valamint
 - g) működteti a Nemzeti Előadó-művészeti Érdekegyeztető Tanácsot, a Színházművészeti Bizottságot, a Zeneművészeti Bizottságot és a Táncművészeti Bizottságot.
@@ -190,7 +190,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - a) az előadó-művészeti szervezet nem felel meg a nyilvántartásba vétel feltételeként meghatározott szervezeti feltételeknek,
 - b) ezt az előadó-művészeti szervezet fenntartója, ennek hiányában az előadó-művészeti szervezet képviseletére jogosult személy kéri,
 - c) az előadó-művészeti szervezet jogutód nélkül megszűnt,
-- d) a nyilvántartásba vételétől számított öt éven át az előadó-művészeti szervezet – ide nem értve a magyar állam által fenntartott, valamint a közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezetet – nem részesült az e törvényben meghatározott támogatásból.
+- d) a nyilvántartásba vételétől számított öt éven át az előadó-művészeti szervezet – ide nem értve az állam által fenntartott, valamint a közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezetet – nem részesült az e törvényben meghatározott támogatásból.
 
 ### 2. CÍM — Az előadó-művészeti szervezetek minősítése
 
@@ -198,7 +198,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (2) Azt az előadó-művészeti szervezetet lehet nemzeti előadó-művészeti szervezetnek minősíteni, amelynek
 
-- a) fenntartója a magyar állam vagy az e törvény szerinti közszolgáltatási szerződése van a magyar állammal,
+- a) fenntartója az állam vagy az e törvény szerinti közszolgáltatási szerződése van az állammal,
 - b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
 - c) vezetőjét az e törvényben foglalt szabályoknak megfelelően bízták meg, és
 - d) a magyar előadó-művészeti életben betöltött szerepe, a művészeti tevékenysége a magyar nemzeti kulturális identitás és hagyományok őrzése, fejlesztése, a kulturális érték- és mintaközvetítés szempontjából kiemelkedő jelentőségű.
@@ -223,7 +223,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 ### 3. CÍM — A közszolgáltatási szerződés
 
-13. § (1) Az állam, illetve az önkormányzat az előadó-művészeti szolgáltatások (a továbbiakban: szolgáltatások) tartós biztosítására nem állami fenntartású előadó-művészeti szervezettel legalább három évre előadó-művészeti közszolgáltatási szerződést köthet.
+13. § (1) Az állam, illetve az önkormányzat az előadó-művészeti szolgáltatások (a továbbiakban: szolgáltatások) tartós biztosítására nyilvántartott előadó-művészeti szervezettel legalább három évre előadó-művészeti közszolgáltatási szerződést köthet.
 
 (2) A közszolgáltatási szerződés tartalmazza
 
@@ -265,7 +265,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - b) működési támogatást és
 - c) e törvény szerinti egyéb támogatást nyújt.
 
-(2) Az (1) bekezdés szerinti támogatás állami vagy önkormányzati fenntartású előadó-művészeti szervezet számára csak abban az esetben nyújtható, ha az a magyar állammal vagy az önkormányzattal a támogatás folyósításakor hatályos, legalább 3 éves fenntartói megállapodást kötött. Fenntartói megállapodás csak teljes naptári évre köthető.
+(2) Az (1) bekezdés szerinti támogatás állami vagy önkormányzati fenntartású előadó-művészeti szervezet számára csak abban az esetben nyújtható, ha az állammal vagy az önkormányzattal a támogatás folyósításakor hatályos, legalább 3 éves fenntartói megállapodást kötött. Fenntartói megállapodás csak teljes naptári évre köthető.
 
 (3) A fenntartói megállapodásban a művészeti tevékenységgel [17. § (3) bekezdés], az előadó-művészeti szervezet létesítő okiratában meghatározott egyéb tevékenységgel és a gazdálkodással (pénzügyi egyensúly fenntartása, illetve megteremtése, kapacitások kihasználtsága, eszköz- és erőforrás-gazdálkodás hatékonysága) összefüggésben az előadó-művészeti szervezettől elvárt teljesítményt az adott területre jellemző mutatókkal, illetve megfelelő követelményleírással kell meghatározni.
 
@@ -380,15 +380,15 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
   - ba) működési támogatásának összegét a kiemelt előadó-művészeti szervezetet fenntartó vagy azokkal közszolgáltatási megállapodást kötő valamennyi önkormányzatra,
   - bb) művészeti támogatásának összegét az egyes színházakra is lebontva határozza meg.
 
-(2) A központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
+(2) A (3) bekezdésben meghatározott kivétellel a központi költségvetésről szóló törvénynek a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetében kell biztosítani
 
 - a) a nyilvántartott színházak, balett- vagy táncegyüttesek önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét, valamint
 - b) a nyilvántartott zenekarok, énekkarok önkormányzati fenntartóit, önkormányzati fenntartó hiányában a közszolgáltatási szerződést kötő önkormányzatot megillető központi költségvetési támogatás keretösszegét.
 
 (3) A kultúráért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell biztosítani:
 
-- a) a nyilvántartásba vett állami fenntartású színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
-- b) a magyar állammal kötött közszolgáltatási szerződéssel rendelkező előadó-művészeti szervezet támogatását,
+- a) az állam által fenntartott, nyilvántartásba vett és önkormányzattal kötött közszolgálati szerződéssel nem rendelkező színházak, balett- vagy táncegyüttesek, zenekarok és énekkarok központi költségvetésből származó támogatását,
+- b) az állammal kötött közszolgáltatási szerződéssel rendelkező, nem önkormányzati fenntartású előadó-művészeti szervezet támogatását,
 - c) az e törvény alapján pályázati úton nyújtható támogatások előirányzatát, valamint
 - d) az előadó-művészeti államigazgatási szerv működéséhez szükséges előirányzatot.
 
@@ -640,9 +640,9 @@ képviselője.
 - 38. zenekar: zeneműveket játszó előadó-művészeti szervezet,
 - 39. zenés színpadi mű: az operett, a musical, a rockopera, a daljáték, a zenés játék.
 - 40. értéknövelő beruházás: az előadó-művészeti szervezet létesítő okiratában meghatározott tevékenységéhez kapcsolódó szolgáltatások bővítését, illetve minőségének javítását, továbbá az üzemeltetés hatékonyságát, költségeinek csökkentését szolgáló fejlesztés,
-- 41. felújítás: az üzemeltetéssel érintett ingatlan egészére (teljes felújítás), illetőleg egy vagy több főszerkezetére, illetve a színpadtechnikára kiterjedő (részleges felújítás), időszakonként szükségessé váló olyan általános javítási építés-szerelési munkák végzése, amelyek az eredeti műszaki állapotot – megközelítőleg vagy teljesen – visszaállítják, illetőleg az eredeti használhatóságot, üzembiztonságot az egyes szerkezetek, berendezések kicserélésével vagy az eredetitől eltérő kialakításával növelik,
+- 41. felújítás: az üzemeltetéssel érintett ingatlan egészére (teljes felújítás), egy vagy több főszerkezetére, illetve a színpadtechnikára kiterjedő (részleges felújítás), időszakonként szükségessé váló olyan általános javítási építés-szerelési munkák végzése, amelyek az eredeti műszaki állapotot – megközelítőleg vagy teljesen – visszaállítják, az eredeti használhatóságot, üzembiztonságot az egyes szerkezetek, berendezések kicserélésével vagy az eredetitől eltérő kialakításával növelik,
 - 42. gyermek- és ifjúsági színház: egy évadon belüli bemutatóinak legalább 80%-át kitevő mértékig a 0–18 éves korosztályok életkori értelmi-érzelmi sajátosságainak megfelelő és e korosztályok színházi igényeinek kielégítését célzó előadó-művészeti tevékenységet végző színház,
-- 43. karbantartás: az üzemeltetéssel érintett ingatlan és eszközök állagának, rendeltetésszerű használhatóságának biztosítása érdekében szükséges megelőző munkák (időszerű vagy tervszerű karbantartás), továbbá felújításnak nem minősülő javítási munkák elvégzése, illetőleg egyes berendezések cseréje (hibaelhárítás),
+- 43. karbantartás: az üzemeltetéssel érintett ingatlan és eszközök állagának, rendeltetésszerű használhatóságának biztosítása érdekében szükséges megelőző munkák (időszerű vagy tervszerű karbantartás), továbbá felújításnak nem minősülő javítási munkák elvégzése, illetve egyes berendezések cseréje (hibaelhárítás),
 - 44. klasszikus szerző műve: klasszikus szerzőtől származó műnek kell tekinteni azt a művet, amely a bemutató időpontját megelőzően legalább 15 éve elhunyt szerzőtől származik. Szerzőtársak esetében a később elhunyt szerzőtárs halálának időpontja irányadó,
 - 45. kortárs szerző műve: kortárs szerzőtől származó műnek kell tekinteni azt a művet, melynek tekintetében a 44. pont szerinti feltételek nem állnak fenn,
 - 46. létesítménygazdálkodás: az előadó-művészeti szervezet tulajdonában vagy tartós használatában álló ingatlan üzemeltetésével, karbantartásával (ide nem értve: a részleges és teljes felújítást és az értéknövelő beruházást), a létesítő okirat szerinti tevékenységéhez kapcsolódó eszközgazdálkodással, szolgáltatás-ellátással, ingatlangazdálkodással, továbbá az egyéb, a művészeti tevékenységhez közvetetten szükséges tevékenység ellátása, az ahhoz szükséges szolgáltatások, személyi és tárgyi feltételek biztosítása,
@@ -698,7 +698,7 @@ képviselője.
 
 - a) a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, az igazolás kiállítására, valamint a hatósági ellenőrzéssel kapcsolatos hatósági eljárásra, valamint a központi költségvetésből nyújtott támogatás mértékének megállapításához szükséges, továbbá a 11. § és a 12. § szerinti minősítés alapjául szolgáló adatszolgáltatási kötelezettségre vonatkozó szabályokat,
 - b) a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek a 11. § és a 12. § alapján megállapított körét,
-- c) a 6. § (3) bekezdése szerinti igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésben kiadott,
+- c) a 6. § (3) bekezdése szerinti igazgatási szolgáltatási díj mértékét, a beszedésére jogosult személyét, a fizetési számla megnevezését és számát, az igazgatási szolgáltatási díj kezelésének, nyilvántartásának és visszatérítésének módját az adópolitikáért felelős miniszterrel egyetértésben kiadott,
 - d) a fizető nézőszám alsó határát,
 - e) a szakmai próbajáték és próbaéneklés meghirdetésére vonatkozó szabályokat,
 - f) a zenekar, énekkar tevékenysége folytatásának tárgyi feltételeit,

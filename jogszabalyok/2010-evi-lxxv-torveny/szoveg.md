@@ -213,66 +213,21 @@ rendeletben szabályozza.
 
 (6) Az Eftv. alapján a növénytermesztési idénymunkát végeztető munkáltató az Eftv. rendelkezései szerint megfizetett közteher-előleg figyelembevételével teljesíti az e törvény szerinti fizetési kötelezettségét, illetve ha a megfizetett közteher-előleg összege magasabb, mint a 2010. évre fizetendő közteher összege, a különbözetről az Art. túlfizetésre vonatkozó szabályai szerint rendelkezhet.
 
-17. § (1) A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 14. § (9) bekezdése helyébe a következő rendelkezés lép:
+#### 17. §
 
-„(9) Nem folyósítható keresetpótló juttatás azokra a napokra, amelyeken a képzésben részt vevő személy neki felróható okból óralátogatási kötelezettségének nem tett eleget.”
+#### 18. §
 
-(2) Az Flt. 25. §-a a következő új (6) bekezdéssel egészül ki:
+#### 19. §
 
-„(6) Az álláskeresési járadék folyósításának időtartama alatt folytatott alkalmi foglalkoztatásnak minősülő munkaviszony időtartama az álláskeresési járadék folyósítási idejének kimerítését vagy megszüntetését követően megállapított álláskeresési járadék esetében nem vehető figyelembe jogosultsági időként.”
+#### 20. §
 
-(3) Az Flt. 28. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+#### 21. §
 
-[(1) Meg kell szüntetni az álláskeresési járadék folyósítását, ha az álláskereső]
+#### 22. §
 
-„d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatási jogviszonyban foglalkoztatottakat,”
+#### 23. §
 
-(4) Az Flt. 29. §-a (1) bekezdésének d) pontja helyébe a következő rendelkezés lép:
-
-[Szüneteltetni kell az álláskeresési járadék folyósítását, ha az álláskereső]
-
-„d) rövid időtartamú, legfeljebb kilencven napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével – feltéve, hogy bejelentési kötelezettségének eleget tett.”
-
-(5) Az Flt. 58. § (5) bekezdés n) pontja helyébe a következő rendelkezés lép:
-
-[(5) E törvény alkalmazásában]
-
-„n) alkalmi foglalkoztatásnak minősülő munkaviszony: az egyszerűsített foglalkoztatásról szóló törvény által szabályozott munka,”
-
-18. § Az Art. 31. §-a a következő (15) bekezdéssel egészül ki:
-
-„(15) Az a munkáltató, amely (aki) a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, a 31. § (2) bekezdése szerinti adatokból kizárólag a következő adatok megadására köteles: a munkáltató adóazonosító száma, a magánszemély neve, adóazonosító jele, a magánszemély nyugdíjas státusza, a magánnyugdíjpénztár azonosító kódja, valamint a 27. pont szerinti adatok.”
-
-19. § (1) Az Szja.tv. 3. számú mellékletének V. A jövedelem megállapításakor költségként figyelembe nem vehető kiadások fejezete a következő 12. ponttal egészül ki:
-
-„12. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a magánszemély által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.”
-
-(2) Az Szja.tv. 11. számú mellékletének V. A jövedelem megállapításakor költségként figyelembe nem vehető kiadások fejezete a következő 15. ponttal egészül ki:
-
-„15. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a vállalkozó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.”
-
-20. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 3. számú mellékletének A) Nem a vállalkozási tevékenység érdekében felmerülő egyes költségek, ráfordítások fejezete a következő új 14. ponttal egészül ki:
-
-„14. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére az adózó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.”
-
-21. § A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 28/B. §-a a következő új (2) bekezdéssel egészül ki, egyidejűleg az eredeti (2)–(6) bekezdés (3)–(7) bekezdésre változik:
-
-„(2) Külön jogszabályban meghatározott esetben írásbeli kapcsolattartás akkor is,
-
-a) ha az ügyfél az iratot vagy bejelentést rövid szöveges üzenet útján vagy telefonos ügyfélszolgálaton keresztül telefonon küldi meg a hatóságnak,
-
-b) a hatóság az iratot, illetve a bejelentés eredményességéről szóló visszajelzést rövid szöveges üzenet útján, telefonos ügyfélszolgálaton keresztül telefonon, illetve központi rendszeren küldi meg az ügyfélnek vagy a hatóságnak.”
-
-22. § A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény 3. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A (2) bekezdés c) pontjában a foglalkoztatásra irányuló jogviszony első ízben történő létesítésének megítélése szempontjából figyelmen kívül kell hagyni a tanulói és a hallgatói jogviszony mellett fennálló, illetve az iskolai szünet időtartama alatt létesített foglalkoztatásra irányuló jogviszonyokat, továbbá a tanulói és a hallgatói jogviszony megszűnése után alkalmi munkavállalói könyvvel, valamint 2010. április 1-jét követően az egyszerűsített foglalkoztatás körébe tartozó alkalmi munkára létesített jogviszonyt.”
-
-23. § E törvény hatálybalépésével egyidejűleg hatályát veszti:
-
-- a) az Eftv.,
-- b) az Flt. 14. § (8) bekezdése, 29. § (3) bekezdése és 36. § (2) bekezdése.
-
-24. § Az Eftv. 15. § (2) bekezdés c) pontja nem lép hatályba.
+#### 24. §
 
 25. § Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló, 2009. szeptember 16-ai 987/2009/EK európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja.
 

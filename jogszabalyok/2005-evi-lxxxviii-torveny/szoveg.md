@@ -181,7 +181,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (3) Az önkéntes közeli hozzátartozója az önkéntes halálából eredő kárát a (2) bekezdésben foglaltak szerint érvényesítheti.
 
-11. § (1) A fogadó szervezet a társadalmi esélyegyenlőség előmozdításáért felelős miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium) a melléklet szerinti Bejelentési lapon köteles előzetesen bejelenteni
+11. § (1) A fogadó szervezet a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszternek (a továbbiakban: miniszter) a melléklet szerinti Bejelentési lapon köteles előzetesen bejelenteni
 
 - a) az önkéntesek foglalkoztatását,
 - b) a Bejelentési lapon feltüntetett adatokban bekövetkező változásokat.
@@ -205,22 +205,22 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (6) Közhasznú szervezet esetén az adatváltozás bejelentésekor a létesítő okirat másolatát csak akkor kell mellékelni, ha az abban megjelölt cél, illetve tevékenységi kör megváltozott.
 
-12. § (1) A 11. §-ban foglaltak szerint bejelentett adatokról a Minisztérium a fogadó szervezetek nyilvánossága és az önkéntesek védelme érdekében nyilvántartást vezet.
+12. § (1) A 11. §-ban foglaltak szerint bejelentett adatokról a miniszter a fogadó szervezetek nyilvánossága és az önkéntesek védelme érdekében nyilvántartást vezet.
 
-(2) A nyilvántartásba vételről a Minisztérium kizárólag az iratok alapján dönt. A Minisztérium megtagadja a bejelentő, illetve a bejelentésben meghatározott tevékenységi kör nyilvántartásba vételét, illetőleg törli a nyilvántartásból a fogadó szervezetet, illetve tevékenységi kört, ha
+(2) A nyilvántartásba vételről a miniszter kizárólag az iratok alapján dönt. A miniszter megtagadja a bejelentő, illetve a bejelentésben meghatározott tevékenységi kör nyilvántartásba vételét, illetőleg törli a nyilvántartásból a fogadó szervezetet, illetve tevékenységi kört, ha
 
 - a) a bejelentő nem a 3. § (1) bekezdése szerinti fogadó szervezet,
 - b) kétséget kizáró módon megállapítható, hogy a bejelentésben megjelölt tevékenységi körben önkéntes nem foglalkoztatható.
 
-(3) A nyilvántartásban szereplő adatokat a Minisztérium a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter által működtetett honlapon közzéteszi.
+(3) A nyilvántartásban szereplő adatokat a miniszter az általa vezetett minisztérium honlapján közzéteszi.
 
-(4) A Minisztérium a nyilvántartásban szereplő adatokat átadja a munkaügyi hatóságnak és a munkavédelmi hatóságnak az önkéntesek jogszabályszerű foglalkoztatásának ellenőrzése céljából.
+(4) A miniszter a nyilvántartásban szereplő adatokat átadja a munkaügyi hatóságnak és a munkavédelmi hatóságnak az önkéntesek jogszabályszerű foglalkoztatásának ellenőrzése céljából.
 
-13. § (1) Ha a munkaügyi hatóság vagy a munkavédelmi hatóság, az adóhatóság, a fogadó szervezet szakmai vagy törvényességi ellenőrzését, illetve felügyeletét ellátó szerv észleli, hogy a fogadó szervezet a bejelentési kötelezettségének nem tett eleget, erről a fogadó szervezet nevének, székhelyének és adószámának megjelölésével értesíti a Minisztériumot.
+13. § (1) Ha a munkaügyi hatóság vagy a munkavédelmi hatóság, az adóhatóság, a fogadó szervezet szakmai vagy törvényességi ellenőrzését, illetve felügyeletét ellátó szerv észleli, hogy a fogadó szervezet a bejelentési kötelezettségének nem tett eleget, erről a fogadó szervezet nevének, székhelyének és adószámának megjelölésével értesíti a minisztert.
 
-(2) Ha a Minisztérium tudomására jut, hogy a fogadó szervezet a bejelentési kötelezettségének nem tett eleget, felhívja a fogadó szervezetet a kötelezettség teljesítésére.
+(2) Ha a miniszter tudomására jut, hogy a fogadó szervezet a bejelentési kötelezettségének nem tett eleget, felhívja a fogadó szervezetet a kötelezettség teljesítésére.
 
-(3) Ha a bejelentési kötelezettségének a fogadó szervezet a felhívás kézhezvételét követő harminc napon belül nem tesz eleget, a Minisztérium határozatban – a jogsértés súlyának figyelembevételével – legfeljebb egy évre megtiltja a fogadó szervezetnek önkéntes foglalkoztatását, és az általa vezetett nyilvántartásban feltünteti
+(3) Ha a bejelentési kötelezettségének a fogadó szervezet a felhívás kézhezvételét követő harminc napon belül nem tesz eleget, a miniszter határozatban – a jogsértés súlyának figyelembevételével – legfeljebb egy évre megtiltja a fogadó szervezetnek önkéntes foglalkoztatását, és az általa vezetett nyilvántartásban feltünteti
 
 - a) a fogadó szervezet nevét, székhelyét és adószámát,
 - b) a tilalom kezdetének és megszűnésének időpontját.

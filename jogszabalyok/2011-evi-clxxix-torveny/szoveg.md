@@ -195,7 +195,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 (2) A munkáltatói jogokat az átvételt követően az átvevő gyakorolja. Az átadás nem minősül átszervezésnek. Az intézmény fenntartói jogának átadása nem járhat átalakítással. Az ellenkező bizonyításáig az átadás tervezett időpontját megelőző és az átadás időpontját követő két éven belüli átszervezést a fenntartói jog átadásával összefüggő átszervezésnek kell tekinteni. E rendelkezés alkalmazásában átszervezés az intézmény összevonása, illetve egy intézménynek több intézményre tagolása.
 
-(3) A kulturális feladat átadásával együtt a feladat ellátását szolgáló ingó és ingatlan vagyont az átvevő birtokába és használatába kell adni. Az átadás ingyenes. A használatba adás legrövidebb ideje tíz év.
+(3) A kulturális feladat átadásával együtt a feladat ellátását szolgáló ingó és ingatlan vagyont – a 125. § (5) bekezdésében foglalt kivétellel – az átvevő birtokába és használatába kell adni. Az átadás ingyenes. A használatba adás legrövidebb ideje tíz év.
 
 (4) A jogszabályi feltételek és kötelezettségek nem teljesülése esetén a szakterületet ellátó és felügyelő államigazgatási szerv a bíróságnál kezdeményezheti a megállapodás felbontását és a szerződést megelőző eredeti állapot helyreállítását. A bírósági eljárásban a kultúráért felelős minisztert – szakértői állásfoglalás céljából – meg kell keresni.
 
@@ -481,11 +481,12 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 80. § (1) A helyi önkormányzat a helyi nemzetiségi önkormányzat részére – annak székhelyén – biztosítja az önkormányzati működés személyi és tárgyi feltételeit, továbbá gondoskodik a működéssel kapcsolatos végrehajtási feladatok ellátásáról. Az önkormányzati működés feltételei és az ezzel kapcsolatos végrehajtási feladatok:
 
 - a) a helyi nemzetiségi önkormányzat részére havonta igény szerint, de legalább tizenhat órában, az önkormányzati feladat ellátásához szükséges tárgyi, technikai eszközökkel felszerelt helyiség ingyenes használata, a helyiséghez, továbbá a helyiség infrastruktúrájához kapcsolódó rezsiköltségek és fenntartási költségek viselése;
-- b) az önkormányzat működéséhez (a testületi, tisztségviselői, képviselői feladatok ellátásához) szükséges tárgyi és személyi feltételek biztosítása;
-- c) a testületi ülések előkészítése (meghívók, előterjesztések, hivatalos levelezés előkészítése, postázása, a testületi ülések jegyzőkönyveinek elkészítése, postázása);
+- b) a helyi nemzetiségi önkormányzat működéséhez (a testületi, tisztségviselői, képviselői feladatok ellátásához) szükséges tárgyi és személyi feltételek biztosítása;
+- c) a testületi ülések előkészítése, különösen a meghívók, az előterjesztések, a testületi ülések jegyzőkönyveinek és valamennyi hivatalos levelezés előkészítése és postázása;
 - d) a testületi döntések és a tisztségviselők döntéseinek előkészítése, a testületi és tisztségviselői döntéshozatalhoz kapcsolódó nyilvántartási, sokszorosítási, postázási feladatok ellátása;
-- e) a nemzetiségi önkormányzat működésével, gazdálkodásával kapcsolatos nyilvántartási, iratkezelési feladatok ellátása; és
-- f) az a)–e) pontokban meghatározott feladatellátáshoz kapcsolódó költségeknek – a testületi tagok és tisztségviselők telefonhasználata költségei kivételével – a viselése.
+- e) a helyi nemzetiségi önkormányzat működésével, gazdálkodásával kapcsolatos nyilvántartási, iratkezelési feladatok ellátása;
+- f) a jelnyelv és a speciális kommunikációs rendszer használatának biztosítása, és
+- g) az a)–f) pontban meghatározott feladatellátáshoz kapcsolódó költségek viselése a helyi nemzetiségi önkormányzat tagja és tisztségviselője telefonhasználata költségeinek kivételével.
 
 (2) Az (1) bekezdés szerinti kötelezettségének teljesítése érdekében a helyi önkormányzat harminc napon belül biztosítja a rendeltetésszerű helyiséghasználatot, valamint a helyiséghasználatra, a további feltételek biztosítására és a feladatok ellátására vonatkozóan megállapodást köt a helyi nemzetiségi önkormányzattal. A megállapodást minden év január 31. napjáig, általános vagy időközi választás esetén az alakuló ülést követő harminc napon belül felül kell vizsgálni. A helyi önkormányzat és a nemzetiségi önkormányzat szervezeti és működési szabályzatában rögzíti a megállapodás szerinti működési feltételeket, a megállapodás megkötését, módosítását követő harminc napon belül.
 
@@ -611,7 +612,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2) Az (1) bekezdés szerinti szabályok nem alkalmazhatóak a nemzetiségi önkormányzat elnökének, elnökhelyettesének megválasztására, továbbá a bizottságok létrehozására, bizottsági tisztségviselők megválasztására.
 
-95. § (1) A testület üléséről jegyzőkönyvet kell készíteni. A jegyzőkönyvet magyar nyelven és az ülésen használt tárgyalási nyelven is el kell készíteni. A két nyelven készített jegyzőkönyv mindegyike hitelesnek tekintendő. A jegyzőkönyv közokirat.
+95. § (1) A testület üléséről jegyzőkönyvet kell készíteni. A jegyzőkönyvet az ülésen használt tárgyalási nyelven vagy – testületi döntés alapján – magyar nyelven kell elkészíteni. A jegyzőkönyv közokirat.
 
 (2) A jegyzőkönyv tartalmazza
 
@@ -630,7 +631,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - m) a hozott döntéseket és
 - n) a szervezeti és működési szabályzatban meghatározottakat.
 
-(3) A jegyzőkönyvet az ülést levezető elnök és – amennyiben csak magyar nyelven készült – a testület által a képviselők közül kijelölt jegyzőkönyv-hitelesítő írja alá. A nemzetiség nyelvén is elkészített jegyzőkönyvet a testület által a képviselők közül kijelölt jegyzőkönyv-hitelesítő írja alá, akinek személye eltér a magyar nyelvű jegyzőkönyvet hitelesítő képviselőtől. Ha a jegyzőkönyv két nyelven készül, a jegyzőkönyv-hitelesítők mindkét változatot kölcsönösen is aláírják. A települési nemzetiségi önkormányzat elnöke a jegyzőkönyvet az ülést követő tizenöt napon belül megküldi a fővárosi és megyei kormányhivatalnak, valamint a helyi önkormányzat által a 80. § szerinti megállapodásban megjelölt személynek (jegyző vagy megbízottja).
+(3) A jegyzőkönyvet az ülést levezető elnök és a testület által a képviselők közül kijelölt jegyzőkönyv-hitelesítő írja alá. A települési nemzetiségi önkormányzat elnöke a jegyzőkönyvet az ülést követő tizenöt napon belül megküldi a fővárosi és megyei kormányhivatalnak, valamint a helyi önkormányzat által a 80. § szerinti megállapodásban megjelölt személynek.
 
 (4) A nemzetiségi önkormányzat képviselő-testülete, közgyűlése és bizottsága ülésének jegyzőkönyve részét képezi az ülésre szóló meghívó, a közmeghallgatásról szóló közlemény és az előterjesztések.
 
@@ -858,12 +859,14 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2) A törzsvagyon körébe tartozó vagyonrészek közül
 
-- a) forgalomképtelen az önkormányzat tulajdonába adott állami ingatlan, ingatlanrész, az önkormányzat működését és kötelező feladatainak ellátását szolgáló nem az állam által tulajdonba adott ingatlan vagyon, vagyonrész, vagyoni értékű jog, továbbá minden más olyan ingatlan vagyon, vagyonrész, vagyoni értékű jog, amelyet törvény vagy a nemzetiségi önkormányzat át nem ruházható hatáskörében, minősített többséggel meghozott határozatában annak nyilvánít,
+- a) forgalomképtelen az állam vagy a helyi önkormányzat által a nemzetiségi önkormányzat tulajdonába adott ingatlan, ingatlanrész, az nemzetiségi önkormányzat működését és kötelező feladatainak ellátását szolgáló nem az állam által tulajdonba adott ingatlan vagyon, vagyonrész, vagyoni értékű jog, továbbá minden más olyan ingatlan vagyon, vagyonrész, vagyoni értékű jog, amelyet törvény vagy a nemzetiségi önkormányzat át nem ruházható hatáskörében, minősített többséggel meghozott határozatában annak nyilvánít,
 - b) korlátozottan forgalomképesek a törzsvagyonhoz tartozó mindazon vagyonrészek, amelyek nem tartoznak az a) pontban meghatározott vagyonhoz.
 
 (3) A törzsvagyon korlátozottan forgalomképes tárgyairól, elemeiről törvényben vagy a (2) bekezdés a) pontja szerinti rendben meghozott nemzetiségi önkormányzati határozatban meghatározott feltételek alapján lehet rendelkezni.
 
-(4) A nemzetiségi önkormányzat a tulajdonába kerülő állami ingatlannal a felelős gazdálkodás szabályai szerint gazdálkodik. Amennyiben az ettől eltérő gazdálkodás következményeként az ingatlan elzálogosításra vagy hitellel megterhelésre kerül, a nemzetiségi önkormányzat új állami ingatlant ingyenes tulajdonba adással nem kaphat.
+(4) A nemzetiségi önkormányzat az állam vagy a helyi önkormányzat által a nemzetiségi önkormányzat tulajdonába adott ingatlannal a felelős gazdálkodás szabályai szerint gazdálkodik. Amennyiben az ettől eltérő gazdálkodás következményeként az ingatlan elzálogosításra vagy hitellel megterhelésre kerül, a nemzetiségi önkormányzat az államtól vagy a helyi önkormányzattól ingatlant ingyenes tulajdonba adással ismételten nem kaphat.
+
+(5) A fenntartói jog 164. § (4) bekezdése vagy 36. §-a szerinti átadása esetén – a nemzetiségpolitikáért felelős miniszter előzetes hozzájárulásával – a helyi önkormányzat és az országos nemzetiségi önkormányzat megállapodás alapján a köznevelési intézmény vagy a kulturális intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyon ingyenesen az országos nemzetiségi önkormányzat tulajdonába kerül.
 
 126. § (1) A nemzetiségi önkormányzati bevételek forrása különösen:
 
@@ -945,7 +948,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (3) Elnök és elnökhelyettes egyidejű hiányában a képviselő-testület, közgyűlés tagjai egyetemlegesen felelősek a (1)–(2) bekezdésben foglaltak teljesítéséért.
 
-142. § A nemzetiségi önkormányzati vagyon jogellenes felhasználása esetén – amennyiben a volt tisztségviselő vagy volt képviselő személyes felelőssége nem állapítható meg – a volt elnököt, elnökhelyettest (elnökhelyetteseket) és a volt képviselő-testületi, közgyűlési tagokat egyetemleges felelősség terheli, kivéve, ha egyértelműen igazolható, hogy a jogtalan felhasználást eredményező döntés ellen szavazott.
+142. § A nemzetiségi önkormányzati vagyon jogellenes felhasználása esetén – ha a nemzetiségi önkormányzat volt tisztségviselőjének vagy volt képviselőjének személyes felelőssége nem állapítható meg – a volt elnököt, elnökhelyettest (elnökhelyetteseket) és a volt képviselő-testületi, közgyűlési tagokat egyetemleges felelősség terheli, ha egyértelműen igazolható, hogy a tisztségviselő, a képviselő a jogellenes felhasználást eredményező előterjesztést a döntéshozatal során támogatta.
 
 ### IX. Fejezet — A nemzetiségi önkormányzatok társulásai
 
@@ -1134,7 +1137,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - a) a (4) bekezdés alapján történik, az oktatásért felelős miniszter,
 - b) nem a (4) bekezdés alapján történik, az átadó állami szerv, helyi önkormányzat köteles az átvevő nemzetiségi önkormányzattal – a közoktatási törvényben foglaltak szerint – közoktatási megállapodást kötni.
 
-(7) A fenntartói jog átadásával együtt a közoktatási intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyont az átvevő használatába kell adni. Az átadás ingyenes. A használat átadásának időpontja nevelési-oktatási intézmény esetén a bejelentés évét követő július elseje, más közoktatási intézmény esetén a bejelentést követő év január elseje. A használatba adás ideje nem lehet tíz évnél rövidebb.
+(7) A fenntartói jog átadásával együtt a közoktatási intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyont – a 125. § (5) bekezdésében foglalt kivétellel – az átvevő használatába kell adni. Az átadás ingyenes. A használat átadásának időpontja nevelési-oktatási intézmény esetén a bejelentés évét követő július elseje, más közoktatási intézmény esetén a bejelentést követő év január elseje. A használatba adás ideje nem lehet tíz évnél rövidebb.
 
 (8) Ha a fenntartói jog átadása nem a (4) bekezdés alapján történik, a fenntartói jog nemzetiségi önkormányzat részére történő átadása nem érinti az átadó feladatellátási kötelezettségét. A fenntartói jog átadásának ideje alatt a fenntartói, irányítási joga szünetel, és a fenntartói irányításnak a közoktatásról szóló törvény 102-104. §-aiban és 106. §-ában meghatározott feladatait az átvevő nemzetiségi önkormányzat gyakorolja. A fenntartói jog szünetelése alatt az átadó az átadott feladatok ellátásáról tájékoztatást kérhet a nemzetiségi önkormányzattól, és javaslatot tehet azoknak a feladatoknak az ellátására, amelyeket szükségesnek tart.
 
@@ -1185,7 +1188,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 166. § A nemzetiségpolitikáért felelős miniszter rendeletében meghatározott feltételekkel és módon a nemzetiségi közoktatásban részt vevő tanulók számára ösztöndíjat alapíthat.
 
-167. § Amennyiben a soron következő általános nemzetiségi választás eredményeképpen nem alakul meg új települési önkormányzat, a megszűnt települési nemzetiségi önkormányzat vagyona a települési önkormányzat tulajdonába kerül azzal, hogy azt nemzetiségi célra kell felhasználni.
+167. § A megszűnt helyi nemzetiségi önkormányzat vagyona az adott nemzetiség országos nemzetiségi önkormányzatának ideiglenes kezelésébe kerül.
 
 168. § (1) Az állam a nemzetiség közügyek ellátásához a költségvetési törvényben
 
@@ -1271,10 +1274,13 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (7) Az országos önkormányzat a vagyonnyilatkozattal kapcsolatos eljárást zárt ülés keretében tárgyalja meg.
 
-172. § (1) Az elnök megbízatása megszűnik:
+172. § (1) Az elnök megbízatása megszűnik
 
-- a) a képviselői megbízatás megszűnésével,
-- b) az elnöki tisztségnek a bíróság által történő – a (3) bekezdés szerinti – megszüntetésével.
+- a) az elnöki tisztségről történő lemondásával,
+- b) az összeférhetetlenség kimondásával,
+- c) képviselői megbízatása megszűnésével,
+- d) az elnöki tisztségnek a bíróság által történő – (3) bekezdés szerinti – megszüntetésével,
+- e) halálával.
 
 (2) Az elnök megbízatása visszahívással nem szüntethető meg.
 

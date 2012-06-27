@@ -1168,6 +1168,8 @@ A ,,háború vagy más rendkívüli állapot esetén'' kifejezés úgy értendő
 
 (2) A Karta 13. Cikkében említett, az abban foglaltakra tekintettel alkalmazott, az Európa Tanács Szociális és Orvosi Ellátásról szóló, 1953. december 11-én kelt párizsi egyezményének magyar nyelvű szövegét a törvény melléklete tartalmazza.
 
+(3) E törvénynek az Európai Szociális Karta kihirdetéséről szóló 1999. évi C. törvény módosításáról szóló 2005. évi V. törvénnyel megállapított 3. § (2) bekezdésében meghatározott cikkeket 2004. július 22-től kell alkalmazni.
+
 ### Melléklet az 1999. évi C. törvényhez
 
 Európai Egyezmény a szociális és orvosi ellátásról

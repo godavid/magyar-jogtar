@@ -407,7 +407,7 @@ terheli.
 
 #### 17. Az Országgyűlés közjogi tisztségviselőkkel kapcsolatos határozatai
 
-44. § (1) Az Országgyűlés a miniszterelnököt nyílt szavazással, a köztársasági elnököt, az Alkotmánybíróság elnökét és tagját, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, az Állami Számvevőszék elnökét, valamint az általa választott további közjogi tisztségviselőket titkos szavazással választja meg.
+44. § (1) Az Országgyűlés a miniszterelnököt nyílt szavazással, a köztársasági elnököt, az Alkotmánybíróság elnökét és tagját, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét titkos szavazással választja meg.
 
 (2) Ha törvény valamely közjogi tisztségviselő megválasztása vagy kinevezése előtt a jelölt országgyűlési bizottság előtt történő meghallgatását írja elő, a feladatkörrel rendelkező országgyűlési bizottság a jelöltet meghallgatja, és a személyi javaslatot véleményezi. A jelölt miniszterré történő kinevezésének támogatásáról az országgyűlési bizottság nyílt szavazással határoz.
 

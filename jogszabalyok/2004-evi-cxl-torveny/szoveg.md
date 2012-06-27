@@ -2676,8 +2676,10 @@ teljesíti.
 (2) A (3)–(9) bekezdésben foglalt kivétellel
 
 - a) e törvény rendelkezéseit a törvény,
-- b) e törvénynek a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 58. alcímével módosított rendelkezéseit az e rendelkezések,
-- c) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények, valamint a miniszteri hatósági hatáskörök felülvizsgálatával összefüggő egyes törvények módosításáról szóló 2011. évi CLXXIV. törvény (a továbbiakban: Módtv.) 45–53. §-ával módosított rendelkezéseit az e rendelkezések hatálybalépését követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+- b) e törvénynek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2005. évi LXXXIII. törvény Tizenkettedik fejezetével módosított rendelkezéseit az e rendelkezések,
+- c) e törvénynek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosításáról szóló 2008. évi CXI. törvénnyel módosított rendelkezéseit e törvény,
+- d) e törvénynek a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 58. alcímével módosított rendelkezéseit az e rendelkezések,
+- e) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és egyes kapcsolódó törvények, valamint a miniszteri hatósági hatáskörök felülvizsgálatával összefüggő egyes törvények módosításáról szóló 2011. évi CLXXIV. törvény (a továbbiakban: Módtv.) 45–53. §-ával módosított rendelkezéseit az e rendelkezések hatálybalépését követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 
 (3) E törvénynek a Módtv. 46. §-ával megállapított 91. § (2) bekezdése szerinti ellenőrzési jelentést első alkalommal az e rendelkezés hatálybalépését követő ellenőrzési időszak elteltével kell elkészíteni és közzétenni.
 
@@ -2692,6 +2694,8 @@ teljesíti.
 (8) A Módtv. 47. §-ának hatálybalépésekor már nyújtott nem engedélyköteles elektronikus ügyintézési szolgáltatások tekintetében e törvénynek a Módtv. 47. §-ával megállapított rendelkezéseit 2013. január 1-jétől kell alkalmazni. Az ilyen szolgáltatásokat a felügyeletnek 2013. január 1-jéig kell bejelenteni.
 
 (9) A Módtv. 47. §-ának hatálybalépésekor már nyújtott engedélyköteles elektronikus ügyintézési szolgáltatás 2013. január 1. napjától akkor folytatható, ha a szolgáltatást nyújtó az e törvény szerinti engedélyt eddig az időpontig megszerezte.
+
+171/A. § Ahol jogszabály az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvényt említi, ott a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt, ahol államigazgatási eljárást említ, ott közigazgatási hatósági eljárást, ahol államigazgatási határozatot, azon közigazgatási hatósági döntést kell érteni.
 
 ### Értelmező rendelkezések
 
@@ -2738,7 +2742,7 @@ teljesíti.
 - g) a 15. § (5) bekezdésében meghatározott szervezeteknek az eljárásba való bekapcsolódásuk érdekében vezetett elektronikus adatbázis létrehozására, vezetésére és az adatbázis alapján történő értesítésre vonatkozó szabályokat,
 - h) az eljárás irataiban lévő személyes és védett adatok megismerhetetlenné tételéért, valamint az ilyen módon kivonatolt iratokról való másolat készítéséért fizetendő költségtérítés mértékét és a költségtérítés megfizetésének szabályait.
 
-(2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter arra, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közigazgatási hatósági eljárásban közreműködő hatósági közvetítők és tolmácsok, az államháztartásért felelős miniszterrel, a társadalmi esélyegyenlőség előmozdításért felelős miniszterrel, valamint az egyenlő bánásmód biztosításáért és társadalmi felzárkózásért felelős miniszterrel egyetértésben a jeltolmácsok díjazására vonatkozó szabályokat.
+(2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter arra, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közigazgatási hatósági eljárásban közreműködő hatósági közvetítők és tolmácsok, az államháztartásért felelős miniszterrel, a társadalmi esélyegyenlőség előmozdításért felelős miniszterrel, valamint a társadalmi felzárkózásért felelős miniszterrel egyetértésben a jeltolmácsok díjazására vonatkozó szabályokat.
 
 (3) Felhatalmazást kap
 
