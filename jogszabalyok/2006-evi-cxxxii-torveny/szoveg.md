@@ -399,9 +399,9 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (3) A 2010. december 31-én hatályos 4. § alapján 2011. január 1-jén folyamatban lévő eljárásokat a 2010. december 31-én hatályos szabályok alapján kell lefolytatni.
 
-(4) Az egészségügyi államigazgatási szerv – a Kormány által kijelölt szerv szakvéleményének figyelembevételével – 2012. november 30-áig az e törvény végrehajtására megállapított rendeletben foglaltak szerint megállapítja az egészségügyi szolgáltatók járóbeteg-szakellátási kapacitásait és az azokhoz tartozó ellátási terültet. A megállapított kapacitások és ellátási területek alapján az egészségbiztosító 2012. december 31-éig módosítja, illetve megköti az egészségügyi szolgáltatók finanszírozási szerződéseit.
+(4)
 
-(5) A járóbeteg-szakellátási kapacitások és a hozzá kapcsolódó ellátási területek megállapítása, átcsoportosítása, módosítása során – a (4) bekezdésben foglalt eset kivételével – 2012. december 31-éig az egészségügyi államigazgatási szerv nem hozhat elutasító döntést arra hivatkozással, hogy az egészségügyi térséghatároknak nem felel meg a kapacitás, illetve az ellátási terület megállapítása, átcsoportosítása, módosítása, azzal, hogy a térséghatárokat lehetőség szerint figyelembe kell venni.
+(5) A járóbeteg-szakellátási kapacitások és a hozzá kapcsolódó ellátási területek megállapítása, átcsoportosítása, módosítása során 2012. december 31-éig az egészségügyi államigazgatási szerv nem hozhat elutasító döntést arra hivatkozással, hogy az egészségügyi térséghatároknak nem felel meg a kapacitás, illetve az ellátási terület megállapítása, átcsoportosítása, módosítása, azzal, hogy a térséghatárokat lehetőség szerint figyelembe kell venni.
 
 (6)
 
@@ -411,7 +411,7 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 - b) az eljárás az uniós pályázatokban foglaltakra tekintettel kezdeményezett kapacitás-módosításra irányul, vagy
 - c) az alkalmazást rendkívüli ellátási érdek indokolja. Az ellátási érdek fennállásáról az egészségügyi államigazgatási szerv dönt.
 
-(8) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: konszolidációs törvény) 7. § (2) bekezdése alapján indult eljárásokban kiosztásra nem kerülő fekvőbeteg-szakellátási kapacitások, illetve a (4) bekezdés alapján induló eljárásokban kiosztásra nem kerülő járóbeteg-szakellátási kapacitások tartalékkapacitásnak minősülnek. Ezek a tartalékkapacitások a konszolidációs törvény 7. § (2) bekezdése, illetve a (4) bekezdés alapján indult egyes eljárások során hozott érdemi határozatok közlésének időpontjától kezdve felhasználhatóak az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint, amennyiben a folyamatban lévő többi eljárás, illetve a már meghozott többi döntés alapján megállapítható, hogy ezek a kapacitások a konszolidációs törvény 7. § (2) bekezdése szerinti eljárásokban, illetve a (4) bekezdés szerinti eljárásokban nem kerülnek kiosztásra.
+(8) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: konszolidációs törvény) 7. § (2) bekezdése alapján indult eljárásokban kiosztásra nem kerülő fekvőbeteg-szakellátási kapacitások tartalékkapacitásnak minősülnek. Ezek a tartalékkapacitások a konszolidációs törvény 7. § (2) bekezdése alapján indult egyes eljárások során hozott érdemi határozatok közlésének időpontjától kezdve felhasználhatóak az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint, amennyiben a folyamatban lévő többi eljárás, illetve a már meghozott többi döntés alapján megállapítható, hogy ezek a kapacitások a konszolidációs törvény 7. § (2) bekezdése szerinti eljárásokban nem kerülnek kiosztásra, azzal, hogy ezen tartalékkapacitásokról és a hozzájuk tartozó ellátási területekről hozott határozatokkal szemben nincs helye fellebbezésnek.
 
 15. §
 
@@ -448,13 +448,14 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 - i) a vagyoni biztosítékkal kapcsolatos részletes szabályokat,
 - j) a speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatói kört,
 - k) az egészségügyi ellátás térségi felosztásának szabályait, az egészségügyi ellátási térségeket,
-- l) azoknak az ellátásoknak a körét, amelyek vonatkozásában az ellátási terület megállapítása során a szakmánkénti megállapítás követelményét nem kell figyelembe venni.
+- l) azoknak az ellátásoknak a körét, amelyek vonatkozásában az ellátási terület megállapítása során a szakmánkénti megállapítás követelményét, valamint a térséghatárt nem kell figyelembe venni.
 - m) a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatosan eljáró államigazgatási szervet és az ezekben az eljárásokban véleményadásra jogosult szakértői szervet,
-- n) a szakellátási kapacitások és az ahhoz tartozó ellátási területek nyilvántartásának tartalmát és kezelésére vonatkozó szabályokat,
+- n) a szakellátási kapacitások (ide értve az előzetesen befogadott szakellátási kapacitásokat is) és az ahhoz tartozó ellátási területek nyilvántartásának tartalmát és kezelésére vonatkozó szabályokat,
 - o) a tartalékkapacitások kiosztásának és felhasználásának szabályait.
 - p) a szakellátási kapacitások felosztása, átcsoportosítása, módosítása során figyelembeveendő szempontok alkalmazására, értékelésére vonatkozó szabályokat,
 - r) az elérési szabályoknál figyelembeveendő sebességhatárokat,
-- s) az egészségügyi szakellátások biztosításáért való felelősséghez kapcsolódó végrehajtási szabályokat.
+- s) az egészségügyi szakellátások biztosításáért való felelősséghez kapcsolódó végrehajtási szabályokat,
+- t) azoknak a szakmáknak, ellátási formáknak és eseteknek a körét, amikor nem kell ellátási területet megállapítani.
 
 (15)
 
