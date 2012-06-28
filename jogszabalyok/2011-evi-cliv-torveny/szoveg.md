@@ -105,8 +105,9 @@ foglalt szempontok alapján történő felosztásáról azzal, hogy az eljárás
 - d) hézagmentesen,
 - e) a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott esetek kivételével az Eftv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térség határainak figyelembevételével,
 - f) aktív fekvőbeteg-szakellátások tekintetében a progresszivitás alapszintjén az Eftv. 4/A. § (4) és (6) bekezdésében foglalt elérési szabályok figyelembevételével,
-- g) a szolgáltató rendelkezésére álló kapacitás, valamint a szolgáltató által ellátott terület közötti arányoknak az adott szakma országos átlagához viszonyított aránya figyelembevételével, és
-- h)
+- g) a szolgáltató rendelkezésére álló kapacitás, valamint a szolgáltató által ellátott terület közötti arányoknak az adott szakma országos átlagához viszonyított aránya figyelembevételével
+
+kell meghatározni.
 
 (3a) A 15. § (2) bekezdése szerinti kormányrendeletben meghatározott esetekben nem kell ellátási területet megállapítani.
 
@@ -116,7 +117,11 @@ foglalt szempontok alapján történő felosztásáról azzal, hogy az eljárás
 
 (5a) A szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott és az (5) bekezdés alapján hatályukat vesztett határozatokhoz kapcsolódó, folyamatban lévő hatósági és bírósági eljárásokat meg kell szüntetni.
 
+(5b) Amennyiben a kapacitások és az ellátási területek tárgyában a (2) és a (4) bekezdés alapján indult, illetve az Eftv. 14. § (8) bekezdése szerinti tartalékkapacitások tárgyában indult eljárásokban hozott határozatok miatt szükséges, az egészségügyi államigazgatási szerv hivatalból módosítja az egészségügyi szolgáltatók működési engedélyeit és a működési engedélyek nyilvántartását. Ebben az esetben a működési engedélyek megállapítására, módosítására irányuló eljárásokban hozott döntések ellen nincs helye fellebbezésnek.
+
 (6) A (2)–(5) bekezdésben meghatározott feladatok ellátásához szükséges adatokat az egészségügyi államigazgatási szerv megkeresésére az egészségbiztosító a megkeresésétől számított 5 napon belül az egészségügyi államigazgatási szerv rendelkezésére bocsátja.
+
+(6a) Az egészségbiztosítási szerv a (2) és a (4) bekezdés alapján meghozott határozatok és az (5b) bekezdésben foglaltak szerint elfogadott működési engedélyek alapján, az Eftv. 8. § (3) bekezdésében foglaltak és – a (4) bekezdés, illetve az Eftv. 14. § (8) bekezdése szerinti esetek kivételével – a 8. § (3) bekezdésében megállapított határidő figyelembevételével kezdeményezi az érintett egészségügyi szolgáltatóknál a finanszírozási szerződések módosítását, illetve az új finanszírozási szerződések megkötését.
 
 (7) Az Eftv.-nek a (2) bekezdés szerinti eljárások során történő alkalmazásakor régió alatt az Eftv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térséget kell érteni.
 
@@ -255,6 +260,8 @@ az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII.
 (2) Az (1) bekezdésben meghatározott megállapodás megkötésekor az átvett feladathoz kapcsolódó jogviszonyok alatt minden jog és kötelezettség, valamint az átvett feladathoz tartozó létszám, és ahhoz tartozó eszköz- és infrastruktúra-állomány is értendő.
 
 17/A. § A 14. § (6a) bekezdésében foglaltakat a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény hatálybalépésekor folyamatban lévő pályázati eljárások alapján létesülő jogviszonyokra is alkalmazni kell.
+
+17/B. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 7. § (5b) bekezdését az annak hatálybalépésekor folyamatban lévő eljárásokra is alkalmazni kell. Abban az esetben, ha a 8. § (2) bekezdése alapján benyújtott kérelem elbírálására a működési engedély 7. § (5b) bekezdése szerinti módosításával egy eljárásban kerül sor, a 8. § (2) bekezdése alapján benyújtott kérelem tárgyában hozott döntésre is alkalmazni kell a 7. § (5b) bekezdés második mondatát.
 
 #### 10. A helyi önkormányzatokról szóló 1990. évi LXV. törvény módosítása
 

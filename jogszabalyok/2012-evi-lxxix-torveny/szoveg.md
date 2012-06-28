@@ -21,7 +21,7 @@ az egyes egészségügyi tárgyú törvények módosításáról
 - a)
 - b)
 - c)–d)
-- e)
+- e) 35. § (1) bekezdésében, 151. § (1) bekezdésében, 151. § (2) bekezdés nyitó szövegrészében és c) pontjában, 156. § (5) bekezdésében a „társadalmi” szövegrész helyébe a „civil” szöveg
 
 lép.
 
@@ -61,17 +61,7 @@ lép.
 
 ### Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-52. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. §-a a következő 38–41. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„38. hatóanyag: gyógyszer gyártására szánt bármely anyag vagy azok keveréke, amely a gyártás során azon készítmény aktív összetevőjévé válik, amelyet farmakológiai, immunológiai vagy metabolikus hatás kiváltására szánnak valamely élettani funkció fenntartása, helyreállítása, javítása vagy módosítása, illetve orvosi diagnózis felállítása érdekében;
-
-39. segédanyag: a gyógyszernek a hatóanyagtól és a csomagolóanyagtól eltérő bármely összetevője;
-
-40. gyógyszerközvetítés: a gyógyszer-nagykereskedelem kivételével a gyógyszerek értékesítésével vagy beszerzésével kapcsolatos bármely tevékenység, amely nem jár a gyógyszer fizikai kezelésével, és amely valamely másik jogi vagy természetes személy nevében folytatott és független tárgyalás formájában valósul meg;
-
-41. gyógyszerközvetítő: gyógyszerközvetítéssel foglalkozó természetes vagy jogi személy.”
+52. §
 
 53. §
 
@@ -91,11 +81,7 @@ lép.
 
 62–63. §
 
-64. § A Gytv. 33. § (1) bekezdése a következő i) ponttal egészül ki:
-
-[Ez a törvény a törvény végrehajtására a 32. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendeletekkel együtt a következő uniós jogi aktusoknak való megfelelést szolgálja:]
-
-„i) Az Európai Parlament és a Tanács 2011/62/EU irányelve (2011. június 8.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról.
+64. §
 
 65. § A Gytv.
 
@@ -122,31 +108,77 @@ lép.
 
 90. § (1)
 
-(2)
+(2) Az Eftv. 14. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: konszolidációs törvény) 7. § (2) bekezdése alapján indult eljárásokban kiosztásra nem kerülő fekvőbeteg-szakellátási kapacitások tartalékkapacitásnak minősülnek. Ezek a tartalékkapacitások a konszolidációs törvény 7. § (2) bekezdése alapján indult egyes eljárások során hozott érdemi határozatok közlésének időpontjától kezdve felhasználhatóak az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint, amennyiben a folyamatban lévő többi eljárás, illetve a már meghozott többi döntés alapján megállapítható, hogy ezek a kapacitások a konszolidációs törvény 7. § (2) bekezdése szerinti eljárásokban nem kerülnek kiosztásra, azzal, hogy ezen tartalékkapacitásokról és a hozzájuk tartozó ellátási területekről hozott határozatokkal szemben nincs helye fellebbezésnek.”
 
 (3)
 
-91. §
+91. § Az Eftv. 16. § (14) bekezdése a következő t) ponttal egészül ki:
 
-92. § (1)
+(Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg)
+
+„t) azoknak a szakmáknak, ellátási formáknak és eseteknek a körét, amikor nem kell ellátási területet megállapítani.”
+
+92. § (1) Hatályát veszti az Eftv.
+
+- a) 14. § (4) bekezdése,
+- b) 14. § (5) bekezdésében az „– a (4) bekezdésben foglalt eset kivételével –” szövegrész.
 
 (2) Az Eftv.
 
 - a)–h)
 - i)
-- j)–k)
+- j) 16. § (14) bekezdés l) pontjában a „szakmánkénti megállapítás követelményét” szövegrész helyébe a „szakmánkénti megállapítás követelményét, valamint a térséghatárt” szövegrész,
+- k) 16. § (14) bekezdés n) pontjában az „a szakellátási kapacitások” szövegrész helyébe az „a szakellátási kapacitások (ide értve az előzetesen befogadott szakellátási kapacitásokat is)” szöveg
 
 lép.
 
 ### A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézményekés a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény módosítása
 
-93–94. §
+93. § (1) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: konszolidációs törvény) 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az ellátási területeket az érintett egészségügyi szolgáltatók számára a (2) bekezdés szerinti eljárás során – az Eftv. 5/A. § (2) és (10) bekezdésében foglaltak figyelembevételével –
+
+a) azoknak az eseteknek a kivételével, amikor szakmai szempontból indokolatlan az ellátási területnek az adott szakmához tartozóan valamennyi progresszivitási szinten történő megállapítása, az aktív fekvőbeteg-szakellátások tekintetében a külön jogszabály szerinti progresszivitási szintenként külön-külön,
+
+b) a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével az Eftv. végrehajtására kiadott kormányrendelet szerinti fekvőbeteg-szakellátásban finanszírozható szakmánként,
+
+c) az Eftv. 5/A. § (9) bekezdés b) pontja szerinti eset, valamint a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével átfedésmentesen,
+
+d) hézagmentesen,
+
+e) a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott esetek kivételével az Eftv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térség határainak figyelembevételével,
+
+f) aktív fekvőbeteg-szakellátások tekintetében a progresszivitás alapszintjén az Eftv. 4/A. § (4) és (6) bekezdésében foglalt elérési szabályok figyelembevételével,
+
+g) a szolgáltató rendelkezésére álló kapacitás, valamint a szolgáltató által ellátott terület közötti arányoknak az adott szakma országos átlagához viszonyított aránya figyelembevételével
+
+kell meghatározni.”
+
+(2) A konszolidációs törvény 7. §-a a következő (5b) bekezdéssel egészül ki:
+
+„(5b) Amennyiben a kapacitások és az ellátási területek tárgyában a (2) és a (4) bekezdés alapján indult, illetve az Eftv. 14. § (8) bekezdése szerinti tartalékkapacitások tárgyában indult eljárásokban hozott határozatok miatt szükséges, az egészségügyi államigazgatási szerv hivatalból módosítja az egészségügyi szolgáltatók működési engedélyeit és a működési engedélyek nyilvántartását. Ebben az esetben a működési engedélyek megállapítására, módosítására irányuló eljárásokban hozott döntések ellen nincs helye fellebbezésnek.”
+
+(3) A konszolidációs törvény 7. §-a a következő (6a) bekezdéssel egészül ki:
+
+„(6a) Az egészségbiztosítási szerv a (2) és a (4) bekezdés alapján meghozott határozatok és az (5b) bekezdésben foglaltak szerint elfogadott működési engedélyek alapján, az Eftv. 8. § (3) bekezdésében foglaltak és – a (4) bekezdés, illetve az Eftv. 14. § (8) bekezdése szerinti esetek kivételével – a 8. § (3) bekezdésében megállapított határidő figyelembevételével kezdeményezi az érintett egészségügyi szolgáltatóknál a finanszírozási szerződések módosítását, illetve az új finanszírozási szerződések megkötését.”
+
+94. § A konszolidációs törvény a következő 17/B. §-sal egészül ki:
+
+„17/B. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 7. § (5b) bekezdését az annak hatálybalépésekor folyamatban lévő eljárásokra is alkalmazni kell. Abban az esetben, ha a 8. § (2) bekezdése alapján benyújtott kérelem elbírálására a működési engedély 7. § (5b) bekezdése szerinti módosításával egy eljárásban kerül sor, a 8. § (2) bekezdése alapján benyújtott kérelem tárgyában hozott döntésre is alkalmazni kell a 7. § (5b) bekezdés második mondatát.”
 
 ### Egyéb, az egészségüggyel összefüggő törvények módosítása
 
 95–99. §
 
-100. §
+100. § (1) Nem lép hatályba az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvény (a továbbiakban: 2011. évi CLXXVI. törvény) 54. § (2) bekezdése, 80. §-a, 82. § (2) bekezdése, 85. §-a, 89. § (1) bekezdése, 145. § (3) bekezdése, 152. § h) és i) pontja.
+
+(2) Nem lép hatályba az Eftv. 5/A. § (11) bekezdésének a 2011. évi CLXXVI. törvény 145. § (6) bekezdésével megállapított h) pontja.
+
+(3) A 2011. évi CLXXVI. törvény 145. § (6) bekezdésének az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 5/A. § (11) bekezdés g) pontját megállapító része a következő szöveggel lép hatályba:
+
+„g) a szolgáltató rendelkezésére álló kapacitás, valamint a szolgáltató által ellátott terület közötti arányoknak az adott szakma országos átlagához viszonyított aránya figyelembevételével, és”
 
 101–102. §
 
@@ -164,16 +196,13 @@ lép.
 
 (6) A 84. §, a 85. §, a 89. §, a 92. § (2) bekezdés i) pontja 2012. szeptember 1-jén lép hatályba.
 
-(7) A 36. § (2) bekezdése, a 45. § (4) bekezdése, az 51. § a) pontja és az 5. melléklet 2013. január 1-jén lép hatályba.
+(7) A 36. § (2) bekezdése, a 45. § (4) bekezdése, a 49. § (2) bekezdése, az 51. § a) és c) pontja és az 5. melléklet 2013. január 1-jén lép hatályba.
 
 (8) Az 52. §, a 61. § és a 64. § 2013. január 2-án lép hatályba.
 
 (9) Ez a törvény 2013. január 3-án hatályát veszti.
 
-104. § Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
-
-- a) az Európai Parlament és a Tanács 2011/62/EU irányelve (2011. június 8.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról,
-- b) az Európai Parlament és a Tanács 2010/84/EU irányelve (2010. december 15.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról.
+104. §
 
 ### 1–4. melléklet a 2012. évi LXXIX. törvényhez
 
