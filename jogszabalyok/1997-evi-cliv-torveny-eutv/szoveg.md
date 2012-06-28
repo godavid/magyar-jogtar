@@ -478,7 +478,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 ### III. Fejezet — NÉPEGÉSZSÉGÜGY
 
-35. § (1) A népegészségügy állami és önkormányzati szervek, gazdasági, társadalmi szervezetek, valamint egyének részvételével megvalósított, elsősorban lakossági csoportokat, közösségeket célzó tevékenység, az egészség védelme és fejlesztése, a betegségek, sérülések és rokkantság megelőzése érdekében. A népegészségügy célja a lakosság egészségi állapotának monitorozása, az egészségproblémák és prioritások meghatározása, népegészségügyi intézkedések kimunkálása és foganatosítása kormányzati, szakmai és civil szervezetekkel együttműködésben.
+35. § (1) A népegészségügy állami és önkormányzati szervek, gazdasági, civil szervezetek, valamint egyének részvételével megvalósított, elsősorban lakossági csoportokat, közösségeket célzó tevékenység, az egészség védelme és fejlesztése, a betegségek, sérülések és rokkantság megelőzése érdekében. A népegészségügy célja a lakosság egészségi állapotának monitorozása, az egészségproblémák és prioritások meghatározása, népegészségügyi intézkedések kimunkálása és foganatosítása kormányzati, szakmai és civil szervezetekkel együttműködésben.
 
 (2) A népegészségügyi tevékenység magában foglalja
 
@@ -2162,13 +2162,13 @@ költségének fedezetét.
 
 (3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban ETT), a szakmai kollégiumok, valamint az (1) bekezdés g) pontja szerinti országos intézetek segítik.
 
-151. § (1) A miniszter az egészségügy területén működő társadalmi szervezetekkel a Nemzeti Betegfórum útján is kapcsolatot tart.
+151. § (1) A miniszter az egészségügy területén működő civil szervezetekkel a Nemzeti Betegfórum útján is kapcsolatot tart.
 
-(2) A Nemzeti Betegfórumot az adott betegségben szenvedő személyeket képviselő társadalmi szervezetek alkotják. A Nemzeti Betegfórum
+(2) A Nemzeti Betegfórumot az adott betegségben szenvedő személyeket képviselő civil szervezetek alkotják. A Nemzeti Betegfórum
 
 - a) a miniszter részére javaslatot tesz, felkérésre véleményez, elemzést, értékelést készít,
 - b) az adott betegséggel, betegségcsoporttal összefüggésben érdekképviseletet lát el,
-- c) kapcsolatot tart az egészségügyi szakmai kollégium adott tagozatával, a társadalmi, érdekképviseleti szervezetekkel, az illetékes egészségügyi szakmai kamarákkal, az egyházakkal, valamint az alapítványokkal.
+- c) kapcsolatot tart az egészségügyi szakmai kollégium adott tagozatával, a civil, érdekképviseleti szervezetekkel, az illetékes egészségügyi szakmai kamarákkal, az egyházakkal, valamint az alapítványokkal.
 
 ### A helyi önkormányzatok feladatai
 
@@ -2242,7 +2242,7 @@ költségének fedezetét.
 
 (4) A kórházi felügyelő tanács három, hat, kilenc, tizenkettő vagy tizenöt tagból álló testület. A tagok több mint a felét az egészségügyi intézmény ellátási körzetében, az egészségügy területén működő egyesületek küldötteiből, a többi tagot az intézmény küldötteiből kell megválasztani. A tanács elnökét az egyesületek küldöttei közül kell megválasztani.
 
-(5) Az önkormányzati tulajdonban lévő egészségügyi intézmények esetében a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a tagok legfeljebb egyharmadát az egészségügyi intézmény ellátási körzetéhez tartozó települési önkormányzatok küldötteiből, a további tagok felét a (4) bekezdésben megjelölt társadalmi szervezetek küldötteiből, a többi tagot az intézmény küldötteiből kell megválasztani.
+(5) Az önkormányzati tulajdonban lévő egészségügyi intézmények esetében a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a tagok legfeljebb egyharmadát az egészségügyi intézmény ellátási körzetéhez tartozó települési önkormányzatok küldötteiből, a további tagok felét a (4) bekezdésben megjelölt civil szervezetek küldötteiből, a többi tagot az intézmény küldötteiből kell megválasztani.
 
 (6) A kórházi etikai bizottság feladata
 
