@@ -4,15 +4,27 @@ a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CL
 
 1. §
 
-2. §
+2. § (1) A Kötv. 50. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-3. § A Kötv. 71. §-a a következő (5) bekezdéssel egészül ki:
+(Nem terjed ki a tervezési, az előirányzat-módosítási és -felhasználási, a beszámolási, az információszolgáltatási és az ellenőrzési kötelezettsége és joga)
 
-„(5) Az Országgyűlés a Vtv. 36. § (1) bekezdése alapján úgy rendelkezik, hogy az állam tulajdonában és a Diákhitel Központ Zrt. vagyonkezelésében álló azon informatikai eszközök és szoftverek, amelyek jelenleg a Diákhitel Központ Zrt. jogszabályban meghatározott feladatainak ellátását szolgálják, ingyenesen kerüljenek a Diákhitel Központ Zrt. tulajdonába, közfeladat-ellátási célokra. A tulajdonváltozásra vonatkozó szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zrt. köti meg.
+„b) a Miniszterelnökség fejezeten belül a Miniszterelnökséget vezető államtitkárnak a Miniszterelnökség fejezet, 5. Kormányzati Ellenőrzési Hivatal cím”
+
+(előirányzataira.)
+
+(2) A Kötv. 50. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[Az (1) bekezdésben megjelölt jogokat és kötelezettségeket]
+
+„b) a Miniszterelnökség fejezet, 5. Kormányzati Ellenőrzési Hivatal cím esetében a Kormányzati Ellenőrzési Hivatal elnöke”
+
+(gyakorolja.)
+
+3. §
 
 4. §
 
-- a) 5. § (3) bekezdésében a „törvény” szövegrész helyébe a „törvény (a továbbiakban: Vtv.)” szöveg,
+- a)
 - b)
 
 5. §

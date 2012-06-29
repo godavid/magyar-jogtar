@@ -555,7 +555,7 @@ alakulását, továbbá javaslatot tesz a (10) bekezdés szerinti kiadási elői
 50. § (1) Nem terjed ki a tervezési, az előirányzat-módosítási és -felhasználási, a beszámolási, az információszolgáltatási és az ellenőrzési kötelezettsége és joga
 
 - a) az Országgyűlés fejezeten belül az Országgyűlés Hivatala gazdasági főigazgatójának – mint a fejezetet irányító szerv vezetőjének – az Országgyűlés fejezet, 5. Közbeszerzési Hatóság cím, a 8–9., 10. címben megjelölt támogatások, valamint a 20. Pénzügyi Szervezetek Állami Felügyelete cím, 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím,
-- b) a Közigazgatási és Igazságügyi Minisztérium fejezeten belül az igazságügyért felelős miniszternek – mint a fejezetet irányító szerv vezetőjének – a Közigazgatási és Igazságügyi Minisztérium fejezet, 21. Kormányzati Ellenőrzési Hivatal cím
+- b) a Miniszterelnökség fejezeten belül a Miniszterelnökséget vezető államtitkárnak a Miniszterelnökség fejezet, 5. Kormányzati Ellenőrzési Hivatal cím
 
 előirányzataira.
 
@@ -565,7 +565,7 @@ előirányzataira.
   - aa) 5. Közbeszerzési Hatóság cím felett a Közbeszerzési Hatóság elnöke,
   - ab) a 20. Pénzügyi Szervezetek Állami Felügyelete cím felett a Pénzügyi Szervezetek Állami Felügyeletének elnöke,
   - ac) a 21. Nemzeti Adatvédelmi és Információszabadság Hatóság cím felett a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
-- b) a Közigazgatási és Igazságügyi Minisztérium fejezet, 21. Kormányzati Ellenőrzési Hivatal cím esetében a Kormányzati Ellenőrzési Hivatal elnöke
+- b) a Miniszterelnökség fejezet, 5. Kormányzati Ellenőrzési Hivatal cím esetében a Kormányzati Ellenőrzési Hivatal elnöke
 
 gyakorolja.
 

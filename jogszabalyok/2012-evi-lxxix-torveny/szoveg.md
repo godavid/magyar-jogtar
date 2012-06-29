@@ -21,7 +21,7 @@ az egyes egészségügyi tárgyú törvények módosításáról
 - a)
 - b)
 - c)–d)
-- e) 35. § (1) bekezdésében, 151. § (1) bekezdésében, 151. § (2) bekezdés nyitó szövegrészében és c) pontjában, 156. § (5) bekezdésében a „társadalmi” szövegrész helyébe a „civil” szöveg
+- e)
 
 lép.
 
@@ -108,77 +108,31 @@ lép.
 
 90. § (1)
 
-(2) Az Eftv. 14. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: konszolidációs törvény) 7. § (2) bekezdése alapján indult eljárásokban kiosztásra nem kerülő fekvőbeteg-szakellátási kapacitások tartalékkapacitásnak minősülnek. Ezek a tartalékkapacitások a konszolidációs törvény 7. § (2) bekezdése alapján indult egyes eljárások során hozott érdemi határozatok közlésének időpontjától kezdve felhasználhatóak az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint, amennyiben a folyamatban lévő többi eljárás, illetve a már meghozott többi döntés alapján megállapítható, hogy ezek a kapacitások a konszolidációs törvény 7. § (2) bekezdése szerinti eljárásokban nem kerülnek kiosztásra, azzal, hogy ezen tartalékkapacitásokról és a hozzájuk tartozó ellátási területekről hozott határozatokkal szemben nincs helye fellebbezésnek.”
+(2)
 
 (3)
 
-91. § Az Eftv. 16. § (14) bekezdése a következő t) ponttal egészül ki:
+91. §
 
-(Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg)
-
-„t) azoknak a szakmáknak, ellátási formáknak és eseteknek a körét, amikor nem kell ellátási területet megállapítani.”
-
-92. § (1) Hatályát veszti az Eftv.
-
-- a) 14. § (4) bekezdése,
-- b) 14. § (5) bekezdésében az „– a (4) bekezdésben foglalt eset kivételével –” szövegrész.
+92. § (1)
 
 (2) Az Eftv.
 
 - a)–h)
 - i)
-- j) 16. § (14) bekezdés l) pontjában a „szakmánkénti megállapítás követelményét” szövegrész helyébe a „szakmánkénti megállapítás követelményét, valamint a térséghatárt” szövegrész,
-- k) 16. § (14) bekezdés n) pontjában az „a szakellátási kapacitások” szövegrész helyébe az „a szakellátási kapacitások (ide értve az előzetesen befogadott szakellátási kapacitásokat is)” szöveg
+- j)–k)
 
 lép.
 
 ### A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézményekés a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény módosítása
 
-93. § (1) A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: konszolidációs törvény) 7. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az ellátási területeket az érintett egészségügyi szolgáltatók számára a (2) bekezdés szerinti eljárás során – az Eftv. 5/A. § (2) és (10) bekezdésében foglaltak figyelembevételével –
-
-a) azoknak az eseteknek a kivételével, amikor szakmai szempontból indokolatlan az ellátási területnek az adott szakmához tartozóan valamennyi progresszivitási szinten történő megállapítása, az aktív fekvőbeteg-szakellátások tekintetében a külön jogszabály szerinti progresszivitási szintenként külön-külön,
-
-b) a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével az Eftv. végrehajtására kiadott kormányrendelet szerinti fekvőbeteg-szakellátásban finanszírozható szakmánként,
-
-c) az Eftv. 5/A. § (9) bekezdés b) pontja szerinti eset, valamint a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott ellátások kivételével átfedésmentesen,
-
-d) hézagmentesen,
-
-e) a 15. § (2) bekezdése szerinti kormányrendeletben meghatározott esetek kivételével az Eftv. 1. § (2) bekezdés g) pontja szerinti egészségügyi térség határainak figyelembevételével,
-
-f) aktív fekvőbeteg-szakellátások tekintetében a progresszivitás alapszintjén az Eftv. 4/A. § (4) és (6) bekezdésében foglalt elérési szabályok figyelembevételével,
-
-g) a szolgáltató rendelkezésére álló kapacitás, valamint a szolgáltató által ellátott terület közötti arányoknak az adott szakma országos átlagához viszonyított aránya figyelembevételével
-
-kell meghatározni.”
-
-(2) A konszolidációs törvény 7. §-a a következő (5b) bekezdéssel egészül ki:
-
-„(5b) Amennyiben a kapacitások és az ellátási területek tárgyában a (2) és a (4) bekezdés alapján indult, illetve az Eftv. 14. § (8) bekezdése szerinti tartalékkapacitások tárgyában indult eljárásokban hozott határozatok miatt szükséges, az egészségügyi államigazgatási szerv hivatalból módosítja az egészségügyi szolgáltatók működési engedélyeit és a működési engedélyek nyilvántartását. Ebben az esetben a működési engedélyek megállapítására, módosítására irányuló eljárásokban hozott döntések ellen nincs helye fellebbezésnek.”
-
-(3) A konszolidációs törvény 7. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) Az egészségbiztosítási szerv a (2) és a (4) bekezdés alapján meghozott határozatok és az (5b) bekezdésben foglaltak szerint elfogadott működési engedélyek alapján, az Eftv. 8. § (3) bekezdésében foglaltak és – a (4) bekezdés, illetve az Eftv. 14. § (8) bekezdése szerinti esetek kivételével – a 8. § (3) bekezdésében megállapított határidő figyelembevételével kezdeményezi az érintett egészségügyi szolgáltatóknál a finanszírozási szerződések módosítását, illetve az új finanszírozási szerződések megkötését.”
-
-94. § A konszolidációs törvény a következő 17/B. §-sal egészül ki:
-
-„17/B. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 7. § (5b) bekezdését az annak hatálybalépésekor folyamatban lévő eljárásokra is alkalmazni kell. Abban az esetben, ha a 8. § (2) bekezdése alapján benyújtott kérelem elbírálására a működési engedély 7. § (5b) bekezdése szerinti módosításával egy eljárásban kerül sor, a 8. § (2) bekezdése alapján benyújtott kérelem tárgyában hozott döntésre is alkalmazni kell a 7. § (5b) bekezdés második mondatát.”
+93–94. §
 
 ### Egyéb, az egészségüggyel összefüggő törvények módosítása
 
 95–99. §
 
-100. § (1) Nem lép hatályba az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvény (a továbbiakban: 2011. évi CLXXVI. törvény) 54. § (2) bekezdése, 80. §-a, 82. § (2) bekezdése, 85. §-a, 89. § (1) bekezdése, 145. § (3) bekezdése, 152. § h) és i) pontja.
-
-(2) Nem lép hatályba az Eftv. 5/A. § (11) bekezdésének a 2011. évi CLXXVI. törvény 145. § (6) bekezdésével megállapított h) pontja.
-
-(3) A 2011. évi CLXXVI. törvény 145. § (6) bekezdésének az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 5/A. § (11) bekezdés g) pontját megállapító része a következő szöveggel lép hatályba:
-
-„g) a szolgáltató rendelkezésére álló kapacitás, valamint a szolgáltató által ellátott terület közötti arányoknak az adott szakma országos átlagához viszonyított aránya figyelembevételével, és”
+100. §
 
 101–102. §
 

@@ -562,13 +562,13 @@ biztosítja.
 
 (2) Az 1. §, a 2. §, a 4–6. §, a 17. §, a 20. § (1) bekezdés a)–i) és k) pontja, a 21–28. § (1) bekezdése, a 29. § (1) bekezdésének a) és b) pontja, (2) és (3) bekezdése, a 30–33. §, a 35–38. §, 39. § (1) bekezdése, a 42. §, a 43. §, a 44. § (1)–(6), (8) és (9) bekezdése, a 45. § (2) bekezdése, a 46. § (1) és (6) bekezdése, a 47–71. §, a 86. § (1)–(4) bekezdése, a 87. § (1) bekezdése és (2) bekezdésének b) pontja, 88. § (1)–(4) és (6) bekezdése, a 90. §, a 99. §, a 100. §, a 103–105. §, a 109. §, a 110. §, a 112–116. §, a 118–120. §, a 122. § és 123. §, valamint a 125. § (1) bekezdése 2012. január 1-jén lép hatályba.
 
-(3) A 106. § 2012. május 30-án lép hatályba.
+(3) A 106. § 2012. november 30-án lép hatályba.
 
-(4) A 3. §, a 7–16. §, a 18. §, a 19. §, a 20. § (1) bekezdésének j) pontja, a 28. § (2) bekezdése, a 29. § (1) bekezdésének c) pontja, a 34. §, a 39. § (2)–(7) bekezdése, a 40. §, a 41. §, a 44. § (7) bekezdése, a 45. § (1) bekezdése, a 46. § (2)–(5) bekezdése, a 72–85. §, a 86. § (5) bekezdése, a 87. § (2) bekezdésének a) pontja és (3) bekezdése, a 88. § (5) bekezdése, a 89. §, a 91–96. §, a 97. § b), d)–f) pontja, a 101. §, a 102. §, a 107. §, a 108. §, a 111. §, a 117. §, a 124. § és a 125. § (2) bekezdése 2012. június 30-án lép hatályba.
+(4) A 3. §, a 7–16. §, a 18. §, a 19. §, a 20. § (1) bekezdésének j) pontja, a 28. § (2) bekezdése, a 29. § (1) bekezdésének c) pontja, a 34. §, a 39. § (2)–(7) bekezdése, a 40. §, a 41. §, a 44. § (7) bekezdése, a 45. § (1) bekezdése, a 46. § (2)–(5) bekezdése, a 72–85. §, a 86. § (5) bekezdése, a 87. § (2) bekezdésének a) pontja és (3) bekezdése, a 88. § (5) bekezdése, a 89. §, a 91–96. §, a 97. § b), d)–f) pontja, a 101. §, a 102. §, a 107. §, a 108. §, a 111. §, a 117. §, a 124. § és a 125. § (2) bekezdése 2013. január 1-jén lép hatályba.
 
 #### 46. Átmeneti rendelkezések
 
-99. § (1) A civil és egyéb cégnek nem minősülő szervezetek nyilvántartása – 2012. június 30-áig – az alábbi adatokat tartalmazza:
+99. § (1) A civil és egyéb cégnek nem minősülő szervezetek nyilvántartása – 2013. január 1. napjáig – az alábbi adatokat tartalmazza:
 
 - a) nyilvántartási szám,
 - b) lajstromszám,
@@ -637,11 +637,11 @@ biztosítja.
 
 (3) E törvénynek a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 59. § (1) és (5) bekezdését, 60. §-át és 61. §-át a Mód. tv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés benyújtási kötelezettségének 2012. június 30-a előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést papír alapon kell az OBH részére benyújtania. Ha a 2012. június 30. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2012. június 30-a után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
+105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés benyújtási kötelezettségének 2013. január 1-je előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést papír alapon kell az OBH részére benyújtania. Ha a 2013. január 1. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2013. január 1-je után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
 
-(2) Ha a beszámoló benyújtására köteles szervezet 2012. június 30. napja és 2014. május 30. napja között a korábbi két év beszámolóját is benyújtja az OBH részére azt az OBH az országos névjegyzékben közzéteszi.
+(2) Ha a beszámoló benyújtására köteles szervezet 2013. január 1. napja és 2014. május 30. napja között a korábbi két év beszámolóját is benyújtja az OBH részére azt az OBH az országos névjegyzékben közzéteszi.
 
-106. § Az OBH legkésőbb 2012. május 30. napjától köteles biztosítani az informatikai rendszer tesztelését a bíróságok részére.
+106. § Az OBH legkésőbb 2012. november 30. napjától köteles biztosítani az informatikai rendszer tesztelését a bíróságok részére.
 
 107–108. §
 

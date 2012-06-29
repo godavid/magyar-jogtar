@@ -1059,6 +1059,8 @@ bírálja el.
 
 (3) A tizennyolcadik életévét meg nem haladott, valamint a (2) bekezdésben meghatározott tanú kihallgatásánál a tanú törvényes képviselője és gondozója jelen lehet.
 
+(3a) A 85. § (3) bekezdésében meghatározott figyelmeztetéseket a tizennyolcadik életévét meg nem haladott tanú korára, érettségére figyelemmel, számára érthető módon kell megfogalmazni.
+
 (4) Ha a tanú és a törvényes képviselő vagy a gondozó, illetőleg a tanú által megjelölt hozzátartozó között érdekellentét van, a (2) és (3) bekezdésben meghatározott jogokat a gyámhatóság gyakorolja.
 
 87. § A tárgyalást megelőzően a tanú bíróság előtti kihallgatásának akkor van helye, ha
@@ -1331,6 +1333,8 @@ bírálja el.
 (4) Ha a terhelt a vallomás tételét megtagadja, figyelmeztetni kell arra, hogy ez az eljárás folytatását nem akadályozza. Ha a terhelt vallomást tesz, figyelmeztetni kell, hogy a vallomásában mást bűncselekmény elkövetésével hamisan nem vádolhat. Arra a bűncselekményre nézve, amelyre a terhelt a vallomás tételét megtagadta, a terhelthez további kérdések nem intézhetők, és a terhelt a többi terhelttel, illetőleg a tanúkkal nem szembesíthető, kivéve, ha előtte úgy dönt, hogy vallomást tesz. A vallomás tételének megtagadása nem érinti a terhelt kérdezési, észrevételezési és indítványtételi jogát.
 
 (5) Ha a terhelt vallomást kíván tenni, a vallomástétel lehetőségét biztosítani kell.
+
+(6) A (2) és (4) bekezdésben meghatározott figyelmeztetéseket a fiatalkorú terhelt korára, érettségére figyelemmel, számára érthető módon kell megfogalmazni.
 
 118. § (1) A terheltnek módot kell adni arra, hogy a vallomását összefüggően előadhassa, ezt követően kérdések intézhetők hozzá. Ha a terhelt vallomása a korábbi vallomásától eltér, ennek okát tisztázni kell.
 
