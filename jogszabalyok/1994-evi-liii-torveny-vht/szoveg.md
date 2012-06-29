@@ -1332,17 +1332,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (4) Az árverező a vételi ajánlatot nem vonhatja vissza.
 
-123/A. § (1) Ha törvény az ingóságra nézve elővásárlási jogot enged annak kényszerértékesítésére, azt e törvény alkalmazásában előárverezési jognak kell tekinteni (a továbbiakban: előárverezési jog); előárverezési jog szerződéssel nem alapítható. Az előárverezési jog bírósági végrehajtás során történő gyakorlásának feltételeit e törvény határozza meg.
-
-(2) Az előárverezésre jogosult az árverésről az árverési hirdetmény közzétételével, ha pedig részére e törvény a hirdetmény kézbesítését írja elő, annak kézbesítésével szerezhet tudomást.
-
-(3) Az előárverezésre jogosultat az árverésen az árverező jogállása illeti meg, ha igazolja az (1) bekezdés szerinti jog fennállását és teljesíti e törvénynek az árverezőre vonatkozó feltételeit. Az előárverezésre jogosult ebben az esetben – amellett, hogy az árverésen árverezőként is részt vehet – valamennyi vételi ajánlat vonatkozásában az árverés (és annak esetleges meghosszabbítását követő) befejezéséig a legmagasabb összegű, érvényes vételi ajánlattal megegyező összegű vételi ajánlat tételével gyakorolhatja előárverezési jogát.
-
-(4) Ha az előárverezésre jogosult a végrehajtóhoz intézett nyilatkozatában a vételi ajánlat tartalmát magáévá teszi és az árverés befejezéséig nem érkezik magasabb, érvényes vételi ajánlat, az előárverezésre jogosultat a legtöbbet felajánló árverező jogállása illeti meg.
-
-(5) Ha törvény eltérően nem rendelkezik, az előárverezési jog a jogutódra átszáll, az előárverezési jog átruházása semmis.
-
-(6) Az elővásárlási jog bírósági végrehajtás során az előárverezési jog alkalmazási körén kívül nem gyakorolható.
+123/A. §
 
 124. § (1) Az adós meghatározhatja az ingóságok árverezésének sorrendjét. Ha nem élt ezzel a jogával, az ingóságokat a foglalási jegyzőkönyvben feltüntetett sorrendben kell elárverezni.
 
@@ -3612,7 +3602,7 @@ kérhetnek adatszolgáltatást.
 
 282. § (1) A fegyelmi tanács elnöke vezeti a tárgyalást, gondoskodik a tárgyalás rendjének fenntartásáról, végzi a meghallgatást, és hirdeti ki a határozatot.
 
-(2) A fegyelmi tanácsban az előadó bíró feladatát a végrehajtók közül választott fegyelmi bíró látja el.
+(2) A fegyelmi tanácsban az előadó bíró feladatát a fegyelmi tanács elnöke által kijelölt bíró látja el.
 
 (3) A fegyelmi tárgyaláson jegyzőkönyvvezetőként bírósági alkalmazott működik közre.
 
@@ -3807,19 +3797,21 @@ kérhetnek adatszolgáltatást.
 
 (3) A lefoglalt ingatlan becsértékének megállapítására és értékesítésére vonatkozó, a módosító törvénnyel megállapított rendelkezéseket azokban az ügyekben kell alkalmazni, amelyekben a módosító törvény hatálybalépését követően történik meg a becsérték közléséről történő tájékoztatás. Ha az ingatlan árverésére vagy az ingatlan árverési hirdetmény közzétételére már a módosító törvény hatálybalépése előtt sor került, a következő árverés kitűzésére, az annak alapján lefolytatott árverésre és a soron következő végrehajtási cselekményekre kell e törvénynek a módosító törvénnyel megállapított rendelkezéseit alkalmazni.
 
-(4) E törvénynek a bírósági végrehajtásról szóló 1994. évi LIII. törvény és egyéb kapcsolódó törvények módosításáról szóló 2008. évi XXXIX. törvénnyel és a módosító törvénnyel megállapított rendelkezéseit – a (3) bekezdésben foglaltak szerint – a 2009. január 1-je előtt lefoglalt ingatlanokra vezetett végrehajtás során is alkalmazni kell.
+(4) E törvénynek a bírósági végrehajtásról szóló 1994. évi LIII. törvény és egyéb kapcsolódó törvények módosításáról szóló 2008. évi XXXIX. törvénnyel és a módosító törvénnyel megállapított rendelkezéseit – a (3) bekezdésben foglaltak szerint – a 2009. január 1-je előtt lefoglalt ingatlanokra vezetett végrehajtás során is alkalmazni kell. Az ezen ingatlanok árverésének kitűzéséről szóló, 2012. július 1-jétől 2012. augusztus 31-éig terjedő időszakban elkészített árverési hirdetményeket az elektronikus árverési hirdetmények nyilvántartásában is közzé kell tenni legalább 15 napon át azzal, hogy az árverés közhírré tételéhez fűződő jogkövetkezmények a bírósági hirdetőtáblán történő közzétételhez fűződnek; a hirdetményt az elektronikus árverési rendszer az árverést követő napon automatikusan törli az elektronikus árverési hirdetmények nyilvántartásából.
 
 (5) A végrehajtási kifogás előterjesztésére és elbírálására vonatkozó, a módosító törvénnyel megállapított rendelkezéseket a módosító törvény hatálybalépését követően megtett (elmulasztott) végrehajtói intézkedés ellen előterjesztett végrehajtási kifogás esetében kell alkalmazni. A bírósági végrehajtó a fél vagy más érdekelt részére a módosító törvény hatálybalépését követően első alkalommal kézbesítendő iratban feltünteti a módosító törvénnyel megállapított, a végrehajtási kifogás előterjesztésére és elbírálására vonatkozó rendelkezésekről szóló tájékoztatást.
 
-(6) A végrehajtási ügyek nyilvántartása a 2012. szeptember 1-jétől szolgáltatott és nyilvántartott tényadatok fennállását tanúsítja hitelesen, a 2012. szeptember 1-jét megelőzően szolgáltatott és nyilvántartott adatok tekintetében a kamara által kiállított tanúsítvány tájékoztatást tartalmaz a végrehajtási ügyekről vezetett nyilvántartás adatairól; az erről szóló tájékoztatást a tanúsítvány tartalmazza.
+(6) A végrehajtási ügyek nyilvántartása a 2013. január 1-jétől szolgáltatott és nyilvántartott tényadatok fennállását tanúsítja hitelesen, a 2013. január 1-jét megelőzően szolgáltatott és nyilvántartott adatok tekintetében a kamara által kiállított tanúsítvány tájékoztatást tartalmaz a végrehajtási ügyekről vezetett nyilvántartás adatairól; az erről szóló tájékoztatást a tanúsítvány tartalmazza.
 
-(7) Az elektronikus kapcsolattartásra köteles felek 2012. június 30-áig kötelesek bejelenteni a 35/D. § (1) bekezdésében foglalt adataikat a bírósági végrehajtónak, és bemutatni az adatok igazolására szolgáló iratokat.
+(7) Az elektronikus kapcsolattartásra köteles felek 2012. augusztus 30-áig kötelesek bejelenteni a 35/D. § (1) bekezdésében foglalt adataikat a bírósági végrehajtónak, és bemutatni az adatok igazolására szolgáló iratokat.
 
 (8) A Pest Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróságba fegyelmi bírónak kinevezett bíró, megválasztott vizsgálóbiztos és elnök, elnökhelyettes 2012. január 1-jétől – a fegyelmi bírói vagy vizsgálóbiztosi tisztségének, elnöki, elnökhelyettesi megbízatásának megszűnéséig – a Budapest Környéki Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság fegyelmi bírája, vizsgálóbiztosa, illetve elnöke, elnökhelyettese. A Győr-Moson-Sopron Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróságba fegyelmi bírónak kinevezett bíró, megválasztott vizsgálóbiztos és elnök, elnökhelyettes 2012. január 1-jétől – a fegyelmi bírói, vizsgálóbiztosi, elnöki, elnökhelyettesi tisztségének megszűnéséig – a Győri Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság fegyelmi bírája, vizsgálóbiztosa, elnöke, elnökhelyettese. A Hajdú-Bihar Megyei Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróságba fegyelmi bírónak kinevezett bíró, megválasztott vizsgálóbiztos és elnök, elnökhelyettes 2012. január 1-jétől – a fegyelmi bírói, vizsgálóbiztosi, elnöki, elnökhelyettesi tisztségének megszűnéséig – a Debreceni Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság fegyelmi bírája, vizsgálóbiztosa, elnöke, elnökhelyettese. A Legfelsőbb Bíróság mellett működő Bírósági Végrehajtói Fegyelmi Bíróságba fegyelmi bírónak kinevezett bíró, megválasztott elnök és elnökhelyettes 2012. január 1-jétől – a fegyelmi bírói vagy elnöki, elnökhelyettesi tisztségének megszűnéséig – a Kúria mellett működő Bírósági Végrehajtói Fegyelmi Bíróság fegyelmi bírája, illetve elnöke, elnökhelyettese. A 2012. január 1-je előtt fegyelmi bíróvá megválasztott önálló bírósági végrehajtó fegyelmi bírói tisztsége 2012. január 1-jén megszűnik, a folyamatban lévő fegyelmi ügyek intézésére a fegyelmi bíróság elnöke új tanácsot jelöl ki. Az új tanács kijelölése a módosító törvény hatálybalépése előtt már megtett eljárási cselekmények hatályát nem érinti.
 
 (9) A Győri Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság és a Debreceni Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság 2012. március 14-én megszűnik; a 2012. március 14-én folyamatban lévő fegyelmi ügyeket a Budapest Környéki Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bírósághoz kell áttenni, az áttétel a már megtett eljárási cselekmények hatályát nem érinti. A 2012. március 15. napját megelőzőn vizsgálóbiztossá kinevezett önálló bírósági végrehajtó 2012. március 15-étől – a vizsgálóbiztosi tisztségének a 271. § szerinti megszűnéséig – a Budapest Környéki Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság vizsgálóbiztosa. A 2012. március 15-ét megelőzően az elsőfokú bírósági végrehajtói fegyelmi bíróságra fegyelmi bírónak kinevezett bíró 2012. március 15-étől – a fegyelmi bírói tisztségének a 272. § szerinti megszűnéséig – a Budapest Környéki Törvényszék mellett működő Bírósági Végrehajtói Fegyelmi Bíróság fegyelmi bírája.
 
 (10) A Kúria elnöke a Kúria mellett működő Bírósági Végrehajtói Fegyelmi Bíróság teljes létszámának biztosítása érdekében a fegyelmi bírák kinevezéséről 2012. január 31-éig dönt. Az Országos Bírói Tanács a fegyelmi bíróságok teljes létszámának biztosítása érdekében a fegyelmi bírák kinevezéséről első alkalommal 2012. május 31-éig dönt.
+
+(11) Az árverezők elektronikus nyilvántartásában szereplő, 123. § (2) bekezdés a) és b) pontjában meghatározott személy és szervezet 2012. július 31-éig köteles bejelenteni az árverezők elektronikus nyilvántartásába annak a tényét, hogy a 123. § (2) bekezdés a) vagy b) pontja szerinti személynek vagy szervezetnek minősül. Az e bejelentés alapján történő bejegyzés díjmentes.
 
 306. § Az önálló bírósági végrehajtóra irányadó öregségi nyugdíjkorhatárt 2014. január 1-jét megelőzően betöltő önálló bírósági végrehajtó szolgálata 2013. december 31-én szűnik meg.
 
