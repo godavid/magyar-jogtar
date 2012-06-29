@@ -217,6 +217,8 @@ csekély foka
 - a) olyan bűntett esetén, amely életfogytig tartó szabadságvesztéssel is büntethető, húsz év;
 - b) egyéb bűncselekmény esetén a büntetési tétel felső határának megfelelő idő, de – ha e törvény másképp nem rendelkezik – legalább három év elteltével.
 
+(1a) Az erős felindulásban elkövetett emberölés, a személyi szabadság megsértése, az emberrablás, az emberkereskedelem, a nemi erkölcs elleni bűncselekmények, valamint a három évnél súlyosabban büntetendő szándékos súlyos testi sértés esetében – ha a bűncselekmény elkövetésekor a sértett, az üzletszerű kéjelgést bordélyházban folytató személy vagy az üzletszerű kéjelgést folytató kitartó a tizennyolcadik életévét még nem töltötte be, és a bűncselekmény büntethetősége huszonharmadik életévének betöltése előtt elévülne – az elévülési idő meghosszabbodik a sértett, az üzletszerű kéjelgést bordélyházban folytató személy vagy az üzletszerű kéjelgést folytató kitartó huszonharmadik életévének betöltéséig, vagy addig az időpontig, amikor a huszonharmadik életévét betöltötte volna.
+
 (2) Nem évül el
 
 - a) az 1945. évi VII. törvénnyel törvényerőre emelt és az 1440/1945. (V. 1.) ME rendelettel módosított és kiegészített 81/1945. (II. 5.) ME rendelet 11. és 13. §-ában meghatározott háborús bűntettek;
@@ -1019,7 +1021,16 @@ nem haladhatja meg.
 
 114. § (1) Fiatalkorúra pénzbüntetést akkor lehet kiszabni, ha önálló keresete (jövedelme) vagy megfelelő vagyona van.
 
-(2) A pénzbüntetést behajthatatlansága esetén kell szabadságvesztésre átváltoztatni.
+(1a) Fiatalkorú esetén a pénzbüntetés legkisebb mértéke tizenöt, legnagyobb mértéke kétszázötven napi tétel, az egy napi tétel összegét legalább ötszáz, legfeljebb ötvenezer forintban kell meghatározni.
+
+(2) A pénzbüntetést behajthatatlansága esetén
+
+- a) ha a 113. § rendelkezése lehetővé teszi, közérdekű munkára, vagy
+- b) szabadságvesztésre kell átváltoztatni.
+
+(3) A behajthatatlan pénzbüntetés helyébe lépő közérdekű munkát úgy kell megállapítani, hogy egy napi tétel helyébe egy napi közérdekű munka lép.
+
+(4) Ha a fiatalkorú a munkakötelezettségének önként nem tesz eleget, a közérdekű munka, illetve ennek hátralevő része helyébe lépő szabadságvesztés megállapításakor e törvény 50. §-ának rendelkezéseit megfelelően alkalmazni kell.
 
 ### A közügyektől eltiltás
 
@@ -1551,6 +1562,8 @@ bűncselekmények
 
 (3) Aki emberölésre irányuló előkészületet követ el, bűntett miatt öt évig terjedő szabadságvesztéssel büntetendő.
 
+(3a) Az (1) bekezdés szerint büntetendő, aki tizennegyedik életévét be nem töltött vagy akaratnyilvánításra képtelen személyt öngyilkosságra rábír, ha az öngyilkosságot elkövetik.
+
 (4) Aki az emberölést gondatlanságból követi el, vétség miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (5) A különös visszaesés szempontjából hasonló jellegű bűncselekmény
@@ -1567,7 +1580,9 @@ bűncselekmények
 
 ### Öngyilkosságban közreműködés
 
-168. § Aki mást öngyilkosságra rábír, vagy ennek elkövetéséhez segítséget nyújt, ha az öngyilkosságot megkísérlik vagy elkövetik, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
+168. § (1) Aki mást öngyilkosságra rábír, vagy ennek elkövetéséhez segítséget nyújt, ha az öngyilkosságot megkísérlik vagy elkövetik, bűntettet követ el, és öt évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az a tizennyolcadik életévét betöltött személy, aki tizennyolcadik életévét be nem töltött személyt bír rá öngyilkosságra, vagy ennek elkövetéséhez segítséget nyújt, ha az öngyilkosságot megkísérlik vagy elkövetik, bűntettet követ el és két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
 ### Magzatelhajtás
 
@@ -2128,7 +2143,7 @@ bűncselekmények
 
 ### Kiskorú veszélyeztetése
 
-195. § (1) A kiskorú nevelésére, felügyeletére vagy gondozására köteles személy, aki e feladatából folyó kötelességét súlyosan megszegi, és ezzel a kiskorú testi, értelmi vagy erkölcsi fejlődését veszélyezteti, bűntettet követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+195. § (1) A kiskorú nevelésére, felügyeletére vagy gondozására köteles személy, aki e feladatából folyó kötelességét súlyosan megszegi, és ezzel a kiskorú testi, értelmi, erkölcsi vagy érzelmi fejlődését veszélyezteti, bűntettet követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Ha súlyosabb bűncselekmény nem valósul meg, az (1) bekezdés szerint bűntetendő az a nagykorú személy, aki kiskorút bűncselekmény vagy szabálysértés elkövetésére, illetve züllött életmód folytatására rábír, vagy rábírni törekszik.
 
@@ -2159,7 +2174,7 @@ bűncselekmények
 (2) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha
 
 - a) az erőszakkal, avagy az élet vagy testi épség ellen irányuló közvetlen fenyegetéssel közösülésre kényszerített sértett a tizenkettedik életévét nem töltötte be,
-- b) a sértett az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt áll,
+- b) a sértett az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt áll, illetve az elkövető az erőszakos közösülést a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve követi el,
 - c) a sértettel azonos alkalommal, egymás cselekményéről tudva, többen közösülnek.
 
 (3) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha a (2) bekezdés a) pontja szerinti erőszakos közösülés a (2) bekezdés b) vagy c) pontja szerint is minősül.
@@ -2171,7 +2186,7 @@ bűncselekmények
 (2) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha
 
 - a) az erőszakkal, avagy az élet vagy testi épség ellen irányuló közvetlen fenyegetéssel fajtalanságra, vagy ennek eltűrésére kényszerített sértett a tizenkettedik életévét nem töltötte be,
-- b) a sértett az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt áll,
+- b) a sértett az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt áll, illetve az elkövető a fajtalanságot a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve követi el,
 - c) a sértettel azonos alkalommal, egymás cselekményéről tudva, többen fajtalankodnak.
 
 (3) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha a (2) bekezdés a) pontja szerinti szemérem elleni erőszak a (2) bekezdés b) vagy c) pontja szerint is minősül.
@@ -2190,13 +2205,19 @@ bűncselekmények
 
 (2) Az a tizennyolcadik életévét betöltött személy, aki tizennegyedik életévét be nem töltött személyt arra törekszik rábírni, hogy vele közösüljön vagy fajtalankodjék, bűntettet követ el és három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) A büntetés két évtől nyolc évig, illetőleg egy évtől öt évig terjedő szabadságvesztés, ha az (1), illetőleg a (2) bekezdésben meghatározott bűncselekmény sértettje az elkövető hozzátartozója, avagy az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt áll.
+(3) A büntetés
+
+- a) két évtől nyolc évig terjedő szabadságvesztés, ha az (1) bekezdésben,
+- b) egy évtől öt évig terjedő szabadságvesztés, ha a (2) bekezdésben meghatározott bűncselekmény sértettje az elkövető hozzátartozója, vagy nevelése, felügyelete, gondozása, gyógykezelése alatt áll, illetve az elkövető a bűncselekményt a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve követi el.
 
 202. § (1) Aki tizennegyedik életévét be nem töltött személyt arra bír rá, hogy mással közösüljön vagy fajtalankodjék, bűntettet követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az a tizennyolcadik életévét betöltött személy, aki tizennegyedik életévét be nem töltött személyt arra törekszik rábírni, hogy mással közösüljön vagy fajtalankodjék, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) A büntetés két évtől nyolc évig, illetőleg egy évtől öt évig terjedő szabadságvesztés, ha az (1), illetőleg a (2) bekezdésben meghatározott bűncselekmény sértettje az elkövető hozzátartozója, avagy az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt áll.
+(3) A büntetés
+
+- a) két évtől nyolc évig terjedő szabadságvesztés, ha az (1) bekezdésben,
+- b) egy évtől öt évig terjedő szabadságvesztés, ha a (2) bekezdésben meghatározott bűncselekmény sértettje az elkövető hozzátartozója, vagy nevelése, felügyelete, gondozása, gyógykezelése alatt áll, illetve az elkövető a bűncselekményt a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve követi el.
 
 202/A. § Aki tizennyolcadik életévét be nem töltött személlyel ellenszolgáltatás fejében közösül vagy fajtalankodik, bűntettet követ el, és három évig terjedő szabadságvesztéssel büntetendő.
 

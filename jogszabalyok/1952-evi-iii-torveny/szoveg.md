@@ -38,7 +38,7 @@ a polgári perrendtartásról
 
 5. § (1) A bíróság – ha törvény eltérően nem rendelkezik – a felek közötti jogvitát nyilvános tárgyaláson bírálja el.
 
-(2) A bíróság a nyilvánosságot indokolt határozatával az egész tárgyalásról vagy annak egy részéről kizárhatja, ha az minősített adat, üzleti titok vagy külön törvényben meghatározott más titok megőrzése végett feltétlenül szükséges. A bíróság a nyilvánosságot a közerkölcs védelmében, valamint az ügyfél kérelmére abban az esetben is kizárhatja, ha az a fél személyiségi jogainak védelme érdekében indokolt. A bíróság a nyilvánosságot különösen indokolt esetben a tárgyalásnak a tanúkihallgatással érintett részéről akkor is kizárhatja, ha a tanú adatainak zártan kezelését rendelte el, és a zárt tárgyaláson történő meghallgatás a tanú, illetve hozzátartozója életének, testi épségének a megóvása érdekében feltétlenül szükséges.
+(2) A bíróság a nyilvánosságot indokolt határozatával az egész tárgyalásról vagy annak egy részéről kizárhatja, ha az minősített adat, üzleti titok vagy külön törvényben meghatározott más titok megőrzése végett feltétlenül szükséges. A bíróság a nyilvánosságot a közerkölcs védelmében, kiskorú védelmében, valamint az ügyfél kérelmére abban az esetben is kizárhatja, ha az a fél személyiségi jogainak védelme érdekében indokolt. A bíróság a nyilvánosságot különösen indokolt esetben a tárgyalásnak a tanúkihallgatással érintett részéről akkor is kizárhatja, ha a tanú adatainak zártan kezelését rendelte el, és a zárt tárgyaláson történő meghallgatás a tanú, illetve hozzátartozója életének, testi épségének a megóvása érdekében feltétlenül szükséges.
 
 (3) A bíróság a tárgyalás során hozott határozatát nyilvánosan hirdeti ki.
 
@@ -288,6 +288,8 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a törvénysz�
 
 (2) A gyermek elhelyezésére irányuló pert a gyermek lakóhelye szerint illetékes bíróság előtt is meg lehet indítani.
 
+(3) Az örökbefogadás felbontására irányuló pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetékes bíróság előtt is meg lehet indítani.
+
 35. § (1) Azok a perek, amelyek ingatlan tulajdonára, birtokára vagy ingatlant terhelő jogra vonatkoznak, avagy ingatlanra vonatkozó jogviszonyból erednek, az ingatlan fekvése szerint illetékes bíróság előtt is megindíthatók.
 
 (2)
@@ -342,7 +344,7 @@ illetékességét.
 
 ### A bíróság eljárása saját területén kívül
 
-44. § (1) A bíróság rendszerint csak a saját területén vagy a székhelyén teljesítendő bírói cselekményeket foganatosíthatja közvetlenül, és más bíróság területén csak akkor járhat el, ha ez a területének határán foganatosítandó cselekmény befejezése végett szükséges, továbbá, ha a cselekmény közvetlen foganatosítását a sürgősség vagy más fontos érdek indokolja. Egyébként a bíróság a területén vagy székhelyén kívül teljesítendő, bírói cselekményeket megkeresés útján foganatosítja.
+44. § (1) A bíróság rendszerint csak a saját területén vagy a székhelyén teljesítendő bírói cselekményeket foganatosíthatja közvetlenül, és más bíróság területén csak akkor járhat el, ha ez a területének határán foganatosítandó cselekmény befejezése végett szükséges, továbbá, ha a cselekmény közvetlen foganatosítását a sürgősség, kiskorú érdeke vagy más fontos érdek indokolja. Egyébként a bíróság a területén vagy székhelyén kívül teljesítendő bírói cselekményeket megkeresés útján foganatosítja.
 
 (2) Ha a bíróság a saját területén kívül vagy székhelyén kívül jár el, erről azt a helyi bíróságot, amelynek területén a cselekményt foganatosítja, előre értesíti, és ez a bíróság megkeresésére segédkezni köteles.
 
@@ -451,6 +453,20 @@ illetékességét.
 (3) Az, akinek igénye érvényesítése céljából az ügyész, illetve a külön jogszabállyal erre feljogosított személy vagy szervezet pert indított, a perben félként vesz részt. A más által indított perbe az, aki a per megindítására külön jogszabály alapján, illetve az 51. § a), b) pontjai alapján maga is jogosult lett volna, a felperes pertársaként az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztéséig perbe léphet. Ha a pertársak perbeli cselekményei vagy előadásai egymástól eltérnek – az 51. § b) pontjára tekintettel történő perbelépés esetét kivéve –, a bíróság azokat a per egyéb adatait is figyelembe véve bírálja el.
 
 65. § A 61–63. § és a 64. § (1)–(2) bekezdése alá tartozó esetekben a perbelépés, valamint a perből való elbocsátás tárgyában hozott határozat ellen külön fellebbezésnek van helye.
+
+### A kiskorú gyermek mint érdekelt
+
+65/A. § (1) Ha a bíróság a perben a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény (a továbbiakban: Csjt.) 74. §-a alapján a felek kiskorú gyermekének mint érdekeltnek a meghallgatásáról döntött, indokolt esetben egyidejűleg a kiskorú részére ügygondnokot rendel. A bíróság úgy is határozhat, hogy a kiskorút a felek és a felek képviselői távollétében hallgatja meg.
+
+(2) A bíróság a tizennegyedik életévét be nem töltött kiskorút a törvényes képviselője útján idézi meg azzal a felhívással, hogy a megjelenéséről gondoskodjék. A tizennegyedik életévét betöltött kiskorú idézéséről akkor is külön értesíti a bíróság a törvényes képviselőt, ha őt is idézte a tárgyalásra.
+
+65/B. § (1) A kiskorú meghallgatásának megfelelő légkörben, a gyermek számára érthető módon kell megtörténnie. A meghallgatás kezdetén a kiskorútól – a korától és érettségétől függően – meg kell kérdezni a nevét, születési helyét, idejét, anyja nevét, lakóhelyét, majd tájékoztatni kell arról, hogy a meghallgatás során a valóságnak megfelelő előadásokat kell tenni és arról, hogy a nyilatkozattételt, illetve az egyes kérdésekre a válaszadást megtagadhatja. Ha a bíróság a kiskorú részére ügygondnokot rendelt, tájékoztatást ad a kiskorúnak az ügygondnok eljárásban betöltött szerepéről, jogairól, kötelezettségeiről. A tájékoztatásokat és figyelmeztetéseket a kiskorú korára és érettségére figyelemmel, számára érthető módon kell közölni.
+
+(2) A kiskorút az elnök hallgatja meg. A felek a meghallgatást megelőzően indítványozhatnak kérdéseket akkor is, ha a kiskorú meghallgatására a felek távollétében kerül sor. Az ügygondnok a kiskorú meghallgatása során kérdéseket indítványozhat. Az elnök engedélyezheti, hogy az ügygondnok a kiskorúhoz közvetlenül is intézhessen kérdést. Az indítványozott vagy a kiskorúhoz közvetlenül intézett kérdések megengedhetősége felől az elnök határoz.
+
+(3) A meghallgatás végén, még a kiskorú jelenlétében a jegyzőkönyvbe vett vallomást fel kell olvasni vagy, ha a jegyzőkönyv hangfelvétel útján készül, azt a kiskorú jelenlétében kell hangszalagra rögzíteni. Ennek megtörténtét vagy mellőzését a jegyzőkönyvben fel kell tüntetni. A felolvasáskor, illetve a rögzítéskor a kiskorú az általa elmondottakat kiigazíthatja vagy kiegészítheti. A jegyzőkönyv – az elnök engedélyével – az ügygondnok vagy ha a meghallgatás a felek jelenlétében történik, a felek észrevételei alapján is kiegészíthető és módosítható. Az ügygondnok, illetve a felek erre vonatkozó kérelmét – annak elutasítása esetén – a jegyzőkönyvben fel kell tüntetni.
+
+(4) Ha a kiskorú meghallgatására a felek távollétében kerül sor, az elnök a felekkel ismerteti a meghallgatásról készült jegyzőkönyvet.
 
 ### V. Fejezet — Képviselet
 
@@ -1081,7 +1097,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 ### Pénzbírság
 
-120. § E törvény rendelkezései alapján kiszabható pénzbírság legmagasabb összege ötszázezer forint azzal, hogy az nem haladhatja meg a pertárgy értékét. A kiszabott pénzbírságot szabadságvesztésre átváltoztatni nem lehet. A pénzbírság behajtására és hovafordítására azokat a jogszabályokat kell alkalmazni, amelyek a bíróságok által büntetőügyben kiszabott pénzbüntetésekre irányadók.
+120. § E törvény rendelkezései alapján kiszabható pénzbírság legmagasabb összege ötszázezer – a kiskorúval szemben kiszabott pénzbírság legmagasabb összege háromszázezer – forint azzal, hogy az nem haladhatja meg a pertárgy értékét. A kiszabott pénzbírságot szabadságvesztésre átváltoztatni nem lehet. A pénzbírság behajtására és hovafordítására azokat a jogszabályokat kell alkalmazni, amelyek a bíróságok által büntetőügyben kiszabott pénzbüntetésekre irányadók.
 
 ## MÁSODIK RÉSZ — ELSŐ FOKÚ ELJÁRÁS
 
@@ -1172,6 +1188,8 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 ### Idézés a per tárgyalására
 
 126. § (1) A bíróság a per tárgyalására megidézi azt, akinek igénye érvényesítése iránt az ügyész, illetve külön jogszabállyal erre feljogosított személy vagy szervezet pert indított.
+
+(1a) A bíróság a 141. § (1a) bekezdése szerinti személyes meghallgatásra a tizennegyedik életévét be nem töltött kiskorú felet a törvényes képviselője útján idézi meg azzal a felhívással, hogy a megjelenéséről gondoskodjék. A tizennegyedik életévét betöltött kiskorú fél idézéséről akkor is külön értesíti a bíróság a törvényes képviselőt, ha őt is idézte a tárgyalásra.
 
 (2) Az idézésben (96. §) figyelmeztetni kell a feleket, hogy a tárgyaláson – ha nem személyesen jelennek meg – csak a 67. §-ban megjelölt meghatalmazottal képviseltethetik magukat. Az első tárgyalásra szóló idézéshez csatolni kell a keresetlevél egy példányát (másolatát), ha annak kézbesítésére korábban még nem került sor.
 
@@ -1350,6 +1368,12 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 (3) A (2) bekezdés alapján az ügy érdemi tárgyalásának nincs helye, ha az alperes a per megszüntetését a felperes mulasztása, illetőleg elállása folytán vagy közös megállapodásra hivatkozással kéri [157. § d)–f) pontja].
 
 141. § (1) Ha a bíróság a pert nem szünteti meg, az ügyet érdemben tárgyalja, s ha a tényállás már az első tárgyaláson kideríthető, nyomban érdemben határoz. A bíróság a jelen lévő felek meghallgatása alapján megállapítja azokat az adatokat is, amelyek a végrehajtási eljárásban az érdekelt azonosságának megállapításához szükségesek (természetes személy esetében születési hely, idő, anyja neve, lakóhely, munkahely, adóazonosító jel; gazdálkodó szervezet esetében székhely, nyilvántartási szám, adószám, a fizetési számla száma és a számlát vezető pénzforgalmi szolgáltató neve).
+
+(1a) A perbeli cselekvőképességgel nem rendelkező tizennegyedik életévét betöltött kiskorú felet, továbbá a tizennegyedik életévét be nem töltött, de ítélőképessége birtokában lévő kiskorú felet a bíróság szükség esetén – kizárólag ténykérdésekre vonatkozóan – meghallgathatja.
+
+(1b) Az (1a) bekezdés szerinti meghallgatás előtt a kiskorú felet a 8. § (2) bekezdésben és az (1c) bekezdésben foglaltakról a korára, érettségére figyelemmel, számára érthető módon tájékoztatja.
+
+(1c) Az (1a) bekezdés szerinti meghallgatáskor a tizennegyedik életévét be nem töltött kiskorú fél esetében a 8. § (3) bekezdése alkalmazásának, a tizennegyedik életévét betöltött kiskorú fél esetében a 8. § (3) bekezdés c) pontja alkalmazásának nincs helye.
 
 (2) A bíróság – ha ez a tényállás megállapításához szükséges –, a feleket felhívja nyilatkozataik megtételére és lefolytatja a bizonyítási eljárást. A fél köteles a tényállításait, nyilatkozatait, bizonyítékait – a per állása szerint – a gondos és az eljárást elősegítő pervitelnek megfelelő időben előadni, illetve előterjeszteni. Ha a bizonyítás lefolytatása az első tárgyaláson ennek ellenére nem lehetséges, vagy csak részben lehetséges, a bíróság a tárgyalás elhalasztása mellett elrendelheti a per további előkészítését.
 
@@ -1601,7 +1625,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 ### Tanúk
 
-167. § (1) Ha a fél a tényállításait tanúkkal kívánja bizonyítani, meg kell jelölnie a bizonyítani kívánt tényeket és be kell jelentenie a tanúk nevét és idézhető címét.
+167. § (1) Ha a fél a tényállításait tanúkkal kívánja bizonyítani, meg kell jelölnie a bizonyítani kívánt tényeket és be kell jelentenie a tanúk nevét és idézhető címét. Ha a megidézni kért tanú kiskorú, a félnek be kell jelentenie a tanú életkorát, törvényes képviselője nevét és idézhető címét is.
 
 (2) A tanú (1) bekezdésben meghatározott adatait a keresetlevélben vagy más beadványban, illetve a tárgyaláson kell bejelenteni.
 
@@ -1613,7 +1637,17 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (6) A bíróság a bizonyító fél kérelmére az ellenfelet is kötelezheti a tanú nevének és idézhető címének a (3), illetve (4) bekezdésben meghatározott módon történő bejelentésére, ha a bizonyító fél valószínűsíti, hogy az általa nem ismert tanút az ellenfél ismeri vagy ismernie kell. Ebben az esetben a tanú személyi adatainak zártan kezelésére vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a tanú zártan kezelt személyi adatait a bizonyító fél sem ismerheti meg, és az adatok zártan történő kezelését a 172. § (4) bekezdésében meghatározott eseteken kívül csak akkor lehet megszüntetni, ha a bizonyító fél időközben egyéb úton megismerte a tanú személyi adatait.
 
+167/A. § (1) A tizennegyedik életévét be nem töltött kiskorút csak akkor lehet tanúként kihallgatni, ha a vallomásától várható bizonyíték másként nem pótolható.
+
+(2) A kiskorú tanú kihallgatásánál a törvényes képviselője jelen lehet. A kihallgatáskor a figyelmeztetéseket és tájékoztatásokat a kiskorú tanú korára, érettségére figyelemmel, számára érthető módon kell közölni. A kihallgatásnak megfelelő légkörben, a kiskorú számára érthető módon kell megtörténnie.
+
+(3) A tizennegyedik életévét be nem töltött kiskorú kihallgatása esetén a hamis tanúzás következményeire való figyelmeztetést mellőzni kell, helyette az igazmondás követelményéről kell tájékoztatást adni a tanú korára és érettségére figyelemmel, számára érthető módon. A tizennegyedik életévét be nem töltött kiskorú tanú esetében a személyi adatainak zártan kezeléséről, valamint a vallomástétel megtagadásáról a nyilatkozatot a törvényes képviselője teszi meg, valamint a vallomástételre kötelező határozat elleni fellebbezési jogot a törvényes képviselő gyakorolja.
+
+(4) Ha a kiskorú tanú és a törvényes képviselője között érdekellentét van, a bíróság megkeresésére a gyámhatóság által kirendelt eseti gondnok gyakorolja a (2) és (3) bekezdésben meghatározott jogokat.
+
 168. § (1) A tanút az elnök idézi meg. Az idézésben (96. §) meg lehet jelölni azokat a körülményeket is, amelyekre a tanú kihallgatása szükségesnek mutatkozik, s a tanút fel lehet hívni, hogy meghatározott feljegyzéseit, iratait vagy a bizonyításnál felhasználható egyéb tárgyait hozza magával.
+
+(1a) A tizennegyedik életévét be nem töltött kiskorú tanút törvényes képviselője útján idézi a bíróság azzal a felhívással, hogy a tanú megjelenéséről gondoskodjék. A tizennegyedik életévét betöltött kiskorú tanú idézéséről a bíróság a törvényes képviselőjét értesíti.
 
 (2) Ha a tanú a fél által bejelentett adatok téves volta miatt nem volt megidézhető, a bíróságnak a tanú ismételt megidézése előtt meg kell vizsgálnia, hogy a fél téves bejelentése nem a per elhúzását célozta-e. Ezt a rendelkezést kell megfelelően alkalmazni arra az esetre is, amikor a bíróság a bizonyító fél ellenfelét kötelezte a tanú adatainak bejelentésére.
 
@@ -1774,11 +1808,13 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 - b) azt a tanút, aki a vallomástételt, illetve a közreműködést, továbbá azt a szakértőt, aki a véleménynyilvánítást az ok előadása nélkül vagy a bíróság jogerős határozata ellenére, a következményekre történt figyelmeztetés után megtagadja,
 - c) azt a szakértőt, aki a véleménynyilvánítással alapos ok nélkül késlekedik, illetve a véleménynyilvánításának várható késedelméről a részére nyitva álló határidő lejártát megelőzően a bíróságot nem értesíti, az okozott költségek megtérítésére kötelezi, s egyben pénzbírsággal sújtja. A bíróság egyúttal elrendelheti a meg nem jelent (eltávozott) tanú vagy szakértő elővezetését is. A tanú, illetve szakértő elővezetését el kell rendelni, ha a tanú, illetve a szakértő a szabályszerű idézés (kirendelés) ellenére ismételten nem jelent meg, és elmaradását alapos okkal előzetesen ki nem mentette vagy engedély nélkül eltávozott.
 
+(1a) A tizennegyedik életévét be nem töltött kiskorúval szemben az (1) bekezdésben meghatározott kényszerítő eszközök nem alkalmazhatók. Ha a tanúként idézett tizennegyedik életévét be nem töltött kiskorú szabályszerű idézés ellenére nem jelent meg vagy engedély nélkül eltávozott, és a törvényes képviselője nem igazolja, hogy vétlen a kiskorú meg nem jelenésében, illetve eltávozásában, a törvényes képviselő pénzbírsággal sújtható és az okozott költség megtérítésére kötelezhető.
+
 (2) Az eljáró bíróság annak a szakértőnek a munkadíját, aki a véleménynyilvánítással alapos ok nélkül késlekedik és a véleménynyilvánításra nyitva álló határidő alatt a határidő meghosszabbítását nem kéri (104. §), illetve a meghosszabbított határidő alatt sem nyilvánít véleményt, a határidő lejártát követő naptól kezdve naponta egy százalékkal csökkenti.
 
 (3) Ha a tanú vagy a szakértő az elmaradását (eltávozását), illetve a szakértő a késedelmét az (1) és (2) bekezdésben említett intézkedések alkalmazása után alapos okkal kimenti, a vele szemben tett intézkedéseket hatályon kívül kell helyezni. A bíróság az (1) bekezdés szerinti intézkedést akkor is hatályon kívül helyezheti, ha a megtagadást követően a tanú vallomást tesz, illetve a szakértő a feladatát teljesíti.
 
-(4) Az (1) és (2) bekezdés alapján hozott határozat ellen, továbbá az olyan határozat ellen, amely az (1) és (2) bekezdés alapján hozott határozat hatályon kívül helyezése iránt előterjesztett kérelmet elutasítja, a tanú, illetve a szakértő fellebbezéssel élhet.
+(4) Az (1) és (2) bekezdés alapján hozott határozat ellen, továbbá az olyan határozat ellen, amely az (1) és (2) bekezdés alapján hozott határozat hatályon kívül helyezése iránt előterjesztett kérelmet elutasítja, a tanú, illetve a szakértő fellebbezéssel élhet. Az (1a) bekezdés alapján hozott határozat ellen a törvényes képviselő fellebbezéssel élhet.
 
 (5) Ha a Magyar Honvédség vagy a rendvédelmi szervek tagjával, illetve a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjával szemben kellene pénzbírságot alkalmazni, vagy ilyen személy elővezetését kellene elrendelni, a fegyelmi eljárás lefolytatása végett a bíróság a tanú, illetőleg a szakértő elöljárójához fordul.
 
@@ -2530,7 +2566,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (3) Házassági perben a nem ügyvédi iroda (ügyvéd) részére adott és aláírt, továbbá a bárki részére adott és kézjeggyel ellátott meghatalmazáson a fél aláírását, illetőleg kézjegyét közjegyző által hitelesíttetni kell.
 
-(4) Ha a bíróság a perben a Családjogi törvény 74. §-a alapján a házastársak kiskorú gyermekének, mint érdekeltnek a meghallgatásáról döntött, indokolt esetben egyidejűleg a gyermek részére ügygondnokot rendel. A bíróság úgy is határozhat, hogy a gyermeket a házastársak távollétében hallgatja meg. E szabályok vonatkoznak a gyermek elhelyezésével kapcsolatos perekre is.
+(4)
 
 280. §
 
@@ -2566,7 +2602,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (4) Ha a bontóperben tartott első tárgyaláson a felek nem békülnek ki, az (5) bekezdésben meghatározott kivétellel a bíróság a tárgyalást elhalasztja, egyben felhívja a feleket, hogy három hónapon belül írásban kérhetik az eljárás folytatását, ellenkező esetben a per megszűnik. A bíróság a tárgyalás folytatására csak a kérelem benyújtását követő 30 nap eltelte után tűzhet határnapot.
 
-(5) Az (1) bekezdésben meghatározott esetekben, illetve, ha a felek a házasság felbontását a házasságról, a családról és a gyámságról szóló 1952. évi IV. törvény (Csjt.) 18. §-a (2) bekezdésének b) pontja alapján kérték, vagy a feleknek nincsen közös kiskorú gyermeke, a pert már az első tárgyaláson érdemben kell tárgyalni.
+(5) Az (1) bekezdésben meghatározott esetekben, illetve, ha a felek a házasság felbontását a Csjt. 18. §-a (2) bekezdésének b) pontja alapján kérték, vagy a feleknek nincsen közös kiskorú gyermeke, a pert már az első tárgyaláson érdemben kell tárgyalni.
 
 286. § (1) A bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti.
 
@@ -2633,6 +2669,8 @@ kérdésében.
 
 294. § Az anya beavatkozóként bármelyik félhez csatlakozhat.
 
+294/A. § Az apaság és a származás megállapítása iránti egyéb pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetékes bíróság előtt is meg lehet indítani.
+
 ### Keresetindítás
 
 295. § (1) Az apaság megállapítására irányuló keresetet az apa ellen, az apának pedig a gyermek ellen kell megindítania.
@@ -2682,6 +2720,8 @@ kérdésében.
 - a) a szülő bármelyik félhez beavatkozóként is csatlakozhat;
 - b) a szülői felügyelet megszüntetésére irányuló kereset – annak bírósága előtt – összekapcsolható az ugyanazon szülő más gyermeke feletti szülői felügyelet megszüntetésére irányuló keresettel, a gyermek elhelyezésére és tartására irányuló keresettel vagy a szülő gondnokság alá helyezésére irányuló keresettel is; más keresetet a szülői felügyelet megszüntetésére irányuló keresettel összekapcsolni nem lehet;
 - c) a tárgyalás kitűzéséről a perben félként részt nem vevő szülőt a keresetlevél egy példányának megküldésével értesíteni kell, és egyben figyelmeztetni kell beavatkozási jogára.
+
+(1a) A szülői felügyeleti jog megszüntetése iránti pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetékes bíróság előtt is meg lehet indítani.
 
 (2) A szülői felügyeleti jog megszüntetése iránti perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
 
@@ -3729,7 +3769,7 @@ alapított igény érvényesítése.
 
 ### A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációja
 
-394/E. § (1) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációjára 2011. január 1. napja és 2012. június 30. napja között a következő rendelkezéseket kell alkalmazni:
+394/E. § (1) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációjára 2011. január 1. napja és 2013. július 31. napja között a következő rendelkezéseket kell alkalmazni:
 
 - a) A bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton is kézbesíttetheti;
 - b) Az elektronikus úton megkeresett másik bíróság, közigazgatási szerv vagy hatóság a megkereső bíróságnak elektronikus úton válaszolhat a megkeresésre.
