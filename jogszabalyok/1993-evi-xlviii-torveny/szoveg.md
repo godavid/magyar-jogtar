@@ -37,7 +37,7 @@ E törvény célja az ásványi nyersanyagok bányászatának, a geotermikus ene
 
 (6) A felsorolt — és e törvény hatálya alá tartozó — tevékenységekhez szükséges létesítményeknek minősülnek a bányavasutak, a bányászati kötélpályák és szalagpályák, továbbá a mezőn belüli és a mezők közötti gyűjtő vezetékek.
 
-(7) Az építésügyi, illetve talajvédelmi hatósági engedély alapján végzett tereprendezéssel, továbbá a vízjogi engedély alapján végzett mederalakítással összefüggő ásványi nyersanyag kitermelésre az e törvény 20. és 41. §-ának rendelkezéseit kell alkalmazni.
+(7) Az építésügyi, illetve talajvédelmi hatósági engedély alapján végzett tereprendezéssel, továbbá a vízjogi engedély alapján végzett mederalakítással összefüggő ásványi nyersanyag kitermelésre a 20. § és a 41. § rendelkezéseit kell alkalmazni azzal, hogy az így kitermelt ásványi nyersanyag nem minősül a föld méhe kincsének.
 
 (8) A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény (a továbbiakban: Aptv.) 1. és 2. mellékletében meghatározott gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges cél-kitermelőhelyeken folytatott kitermelő tevékenységre e törvény rendelkezései csak annyiban alkalmazhatók, amennyiben azt az Aptv. elrendeli.
 

@@ -40,7 +40,7 @@ a következő törvényt alkotja:
 
 #### 5/C. §
 
-6. § A kulturális örökség védelmének összehangolását és irányítását, ágazati szakmai felügyeletét a miniszter látja el. E feladatkörében irányítja a kulturális örökségvédelmi hatóságot (a továbbiakban: hatóság), szakfelügyelői és más szakmai testületeket működtet.
+6. § A kulturális örökség védelmének összehangolását és irányítását, ágazati szakmai felügyeletét a kultúráért felelős miniszter (a továbbiakban: miniszter) látja el. E feladatkörében irányítja a kulturális örökségvédelmi hatóságot (a továbbiakban: hatóság), szakfelügyelői és más szakmai testületeket működtet.
 
 ### Értelmező rendelkezések
 
@@ -557,7 +557,13 @@ kulturális javakat.
 
 (4) A nemzeti emlékhelyekre vonatkozó rendelkezéseket a kiemelt nemzeti emlékhelyekre előírt külön szabályokban meghatározott eltérésekkel kell alkalmazni.
 
-61/C. § A kiemelt nemzeti emlékhely állami tulajdon. A 2. mellékletben kiemelt nemzeti emlékhelyként megjelölt, Kossuth Lajos tér 24893 helyrajzi számú ingatlan 2012. január 1-jén önkormányzati tulajdonból nyilvántartási értéken, ingyenesen az állam tulajdonába és az Országgyűlés Hivatala vagyonkezelésébe kerül. A vagyonkezelésre egyebekben a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött vagyonkezelési szerződés szabályait kell alkalmazni. Az állam tulajdonjogának és az Országgyűlés Hivatala vagyonkezelési jogának az ingatlan-nyilvántartásba történő bejegyzése iránt a Magyar Nemzeti Vagyonkezelő Zrt. intézkedik.
+61/C. § (1) A kiemelt nemzeti emlékhely az állami vagyon részét képezi.
+
+(2) A 2. mellékletben kiemelt nemzeti emlékhelyként meghatározott ingatlan 2012. január 1-jén, a budapesti Kossuth Lajos téren felállított II. Rákóczi Ferenc emlékmű, Kossuth-emlékmű, A forradalom lángja emlékmű és A Dunánál – József Attila portrészobor a nemzeti vagyonról szóló 2011. évi CXCVI. törvény és a hozzá kapcsolódó egyes törvények módosításáról szóló 2012. évi LXXXIV. törvény hatálybalépése napján, nyilvántartási értéken, ingyenesen az állami vagyon részévé válik.
+
+(3) A (2) bekezdésben meghatározott állami vagyon vagyonkezelője az Országgyűlés Hivatala.
+
+(4) A (2) bekezdésben meghatározott állami vagyon tulajdonjogának és vagyonkezelési jogának ingatlan-nyilvántartásba történő bejegyzése iránt a Magyar Nemzeti Vagyonkezelő Zrt. intézkedik.
 
 61/D. § (1) Az emlékhelyekkel összefüggő állami feladatokat a miniszter a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) létrehozására és felügyeletére a Kormány által rendeletben kijelölt miniszterrel (a továbbiakban: a Bizottság felügyeletét ellátó miniszter) egyetértésben látja el.
 
