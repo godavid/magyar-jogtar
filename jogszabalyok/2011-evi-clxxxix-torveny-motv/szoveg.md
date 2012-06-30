@@ -234,6 +234,8 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 108. § A helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon birtoklása, használata, hasznai szedésének joga, fenntartása, üzemeltetése, létesítése, fejlesztése, valamint felújítása a nemzeti vagyonról szóló törvényben szabályozott módon engedhető át másnak.
 
+108/A. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése szerinti versenyeztetés mellőzhető a helyi önkormányzat tulajdonában álló nemzeti vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor.
+
 109. § (1) A képviselő-testület a helyi önkormányzat tulajdonában lévő nemzeti vagyonra a nemzeti vagyonról szóló törvény rendelkezései szerint az önkormányzati közfeladat átadásához kapcsolódva vagyonkezelői jogot létesíthet. Vagyonkezelői jog önkormányzati lakóépületre és vegyes rendeltetésű épületre, társasházban lévő önkormányzati lakásra és nem lakás céljára szolgáló helyiségre kizárólag a helyi önkormányzat 100%-os tulajdonában álló gazdálkodó szervezettel, vagy annak 100%-os tulajdonában álló gazdálkodó szervezettel létesíthető, és kizárólag általuk gyakorolható. A vagyonkezelési szerződésnek a gazdálkodó szervezet tulajdonosi szerkezetében történő tulajdonos változás miatti megszűnésének esetére a nemzeti vagyonról szóló törvényben meghatározottak az irányadók.
 
 (2) A képviselő-testület kizárólag a nemzeti vagyonról szóló törvényben meghatározott személyekkel köthet vagyonkezelési szerződést.
