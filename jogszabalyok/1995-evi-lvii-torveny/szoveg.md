@@ -540,6 +540,7 @@ alapján kell kiszámítania.
 
 - a) a közérdek, különösen a vízgazdálkodási, a közegészségügyi, a környezet- és természetvédelmi érdek,
 - b) a vizek mennyiségének és minőségének természetes vagy egyéb elháríthatatlan okokból történő megváltozása
+- c) az engedélyes jogszabályban meghatározott kötelezettség teljesítésének elmulasztása vagy jogszabályi kötelezettség megszegése
 
 indokolja.
 

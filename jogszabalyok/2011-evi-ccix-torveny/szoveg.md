@@ -343,7 +343,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (2) E törvény 90. § (1), (2) és (4) bekezdése 2012. január 1-jén lép hatályba.
 
-(3) E törvény 3–10. §-a, 12. §-a, 14–17. §-a, 19–61. §-a, 74. § (1) bekezdés 3–13. és 17–18. pontja, 74. § (2) bekezdés 1–2. és 5. pontja, 76. § (3)–(6) bekezdése, 78–85. §-a, 89. § (1)–(2) bekezdése, 1. melléklete 2012. július 1-jén lép hatályba.
+(3) A 3–10. §, 12. §, 14–17. §, 19–61. §, 74. § (1) bekezdés 3–13. és 17–18. pontja, 74. § (2) bekezdés 1–2. és 5. pontja, 76. § (3)–(6) bekezdése, 78–85. §, 89. § (1)–(2) bekezdése és az 1. melléklet 2012. július 15-én lép hatályba.
 
 (4) E törvény 93. § (4) bekezdése 2012. december 31-én lép hatályba.
 

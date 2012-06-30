@@ -42,4 +42,4 @@ a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelmé
 
 (5) E törvény 18. §-a 2013. január 1-jén lép hatályba.
 
-23. §
+23. § Nem lép hatályba a kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosításáról szóló 2012. évi XL. törvény 6. és 8. §-a.

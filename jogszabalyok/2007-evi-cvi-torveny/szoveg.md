@@ -45,7 +45,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (4) Az állami vagyon feletti – a 3. § (1)–(2) bekezdése szerinti – tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
-4. §
+4. § A miniszter az állam tulajdonában lévő vizek medrének használatáért fizetendő használati díj mértékét rendeletben állapítja meg.
 
 5. § (1) Közérdekből nyilvános minden, az állami vagyonnal való gazdálkodásra és az azzal való rendelkezésre vonatkozó, közérdekű adatnak nem minősülő adat. Külön törvény az adat megismerhetőségét korlátozhatja.
 
@@ -111,7 +111,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 - m) az MNV Zrt. üzleti tervének, a számviteli törvény szerinti beszámolójának, valamint a rábízott vagyonról szóló éves beszámolójának és vagyonkezelési tervének elkészítése,
 - n) a felügyelő bizottság részére beszámoló készítése,
 - o) jogszabály eltérő rendelkezése hiányában az állami vagyon gyarapításával kapcsolatos döntés 100 millió forint értékhatár felett,
-- p) a miniszter által gyakorolt alapvető munkáltatói jogok kivételével a vezérigazgató és az általános vezérigazgató-helyettes feletti munkáltatói jogok gyakorlása.
+- p) a miniszter által gyakorolt alapvető munkáltatói jogok kivételével a vezérigazgató feletti munkáltatói jogok gyakorlása.
 
 (5) Az Igazgatóság a (4) bekezdés alapján a hatáskörébe nem tartozó bármely ügyet magához vonhat. A (4) bekezdésben meghatározott döntési hatáskörök jogosultjának megállapításához az értéket (ügyletértéket) vagyonelemenként kell figyelembe venni azzal, hogy amennyiben a döntés több vagyonelem együttes értékesítésére, hasznosítására irányul a döntési hatáskört a vagyonelemek, illetve az azokhoz kapcsolódó ügyletek együttes értéke alapján kell meghatározni.
 
@@ -220,11 +220,11 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 20/G. § (1) Az MNV Zrt. munkaszervezetét a hatályos jogszabályok, az MNV Zrt. alapító okirata, a részvényesi jogokat gyakorló miniszter határozatai, valamint az igazgatóság döntéseinek keretei között a vezérigazgató vezeti.
 
-(2) Az MNV Zrt.-t törvényes képviselőként a vezérigazgató – és az MNV Zrt. szervezeti és működési szabályzatában meghatározott jogkörben – a vezérigazgató általános helyettese képviseli harmadik személyekkel szemben.
+(2) Az MNV Zrt.-t törvényes képviselőként a vezérigazgató képviseli harmadik személyekkel szemben.
 
-(3) A vezérigazgató és a vezérigazgató általános helyettese felett az alapvető munkáltatói jogokat (munkaviszony létesítése és megszüntetése, javadalmazás megállapítása) a részvényesi jogokat gyakorló miniszter, az egyéb munkáltatói jogokat az Igazgatóság gyakorolja.
+(3) A vezérigazgató felett az alapvető munkáltatói jogokat (munkaviszony létesítése és megszüntetése, javadalmazás megállapítása) a részvényesi jogokat gyakorló miniszter, az egyéb munkáltatói jogokat az Igazgatóság gyakorolja.
 
-(4) Az MNV Zrt. munkavállalói felett a munkáltatói jogokat – a (3) bekezdésben foglalt kivétellel – a vezérigazgató gyakorolja.
+(4) Az MNV Zrt. munkavállalói felett a munkáltatói jogokat a vezérigazgató gyakorolja.
 
 (5) Az MNV Zrt. vezérigazgatója és általános vezérigazgató-helyettese alkalmazásuk megszűnésétől számított két évig nem lehetnek a Felügyelő Bizottság tagjai.
 
@@ -264,7 +264,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 (3) Az MNV Zrt. a vagyon hasznosításának átengedésére csak olyan szerződést köthet, amely – az állami vagyon megőrzését, gyarapítását, pénzügyileg és gazdaságilag minél előnyösebb hasznosítását szem előtt tartva – a Magyar Állam számára a várható bevétel, megtakarítás, vagy más előny alapján a lehető legkedvezőbb.
 
-24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető. A versenyeztetési kötelezettség a határozott időre kötött szerződések meghosszabbítása esetén is fennáll.
+24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető.
 
 (2) Mellőzhető a versenyeztetés, ha:
 
@@ -779,6 +779,9 @@ lép.
 - f)–g)
 - h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait.
 
-(2)
+(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+- a) az állam tulajdonában lévő vizek medrének használatáért fizetendő használati díj megállapításának elveit, módszereit és mértékét,
+- b) a 3. § (2) bekezdése szerinti tulajdonosi joggyakorló személyét, a tulajdonosi joggyakorlással érintett vagyoni kört, a tulajdonosi joggyakorló jogainak és kötelezettségének körét, a joggyakorlás szabályait, időtartamát.
 
 ### Melléklet a 2007. évi CVI. törvényhez
