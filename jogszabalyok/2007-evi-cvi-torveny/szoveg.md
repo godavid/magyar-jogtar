@@ -230,7 +230,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 21. § (1) Az MNV Zrt. feladatait központi munkaszervezete és – a szervezeti és működési szabályzatban meghatározott – területi szervezeti egységei útján látja el.
 
-(2) Az MNV Zrt. alkalmazottaira a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény előírásai irányadók.
+(2) Az MNV Zrt. alkalmazottaira a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény és a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) előírásai irányadók.
 
 (3) A szervezeti és működési szabályzatot a Magyar Közlönyben közzé kell tenni.
 
@@ -482,7 +482,7 @@ lehet végezni.
 
 (4) Az MNV Zrt. köteles a társaság munkavállalói érdekképviseleti szervei rendelkezésére bocsátani a megkötött értékesítési szerződés és ahhoz kapcsolódó egyéb szerződések azon előírásait, amelyek az (1) bekezdés a)–b) pontjaiban foglaltakra vonatkoznak.
 
-(5) A munkavállalók érdekvédelmével kapcsolatos, jelen törvényben előírt kötelezettségen túl további – így különösen a Munka Törvénykönyvéről szóló 1992. évi XXII. törvényben a munkáltatóra vonatkozóan meghatározott – tájékoztatási, véleményeztetési és konzultációs kötelezettség nem az MNV Zrt.-t terheli.
+(5) A munkavállalók érdekvédelmével kapcsolatos, jelen törvényben előírt kötelezettségen túl további – így különösen az Mt.-ben a munkáltatóra vonatkozóan meghatározott – tájékoztatási, véleményeztetési és konzultációs kötelezettség nem az MNV Zrt.-t terheli.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

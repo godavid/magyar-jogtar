@@ -71,6 +71,14 @@ Az Országgyűlés Magyarország 2012. évi költségvetéséről a következő 
 
 (10) A korábban belügyi célokra használt, értékesítésre kijelölt állami tulajdonú ingatlanok értékesítéséből és hasznosításából származó – Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben elszámolandó – bevételek a 2012. évben a Kormány határozatában adott jóváhagyásával a büntetés-végrehajtási szervezet fogvatartotti férőhelyeinek bővítését megvalósító beruházások finanszírozására használhatók fel. A Kormány határozatában – legfeljebb a pénzforgalmilag teljesült értékesítési bevételek mértékéig – új kiadási előirányzatot hozhat létre a Belügyminisztérium fejezetben vagy engedélyezheti a fejezet meglévő kiadási előirányzatának megemelését.
 
+(11) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény
+
+- a) 11. § (6) bekezdésében meghatározott értékhatárt a 2012. évben 25,0 millió forint egyedi bruttó forgalmi érték,
+- b) 11. § (16) bekezdésében meghatározott értékhatárt a 2012. évben a hasznosítással érintett rész tekintetében 25,0 millió forint egyedi bruttó forgalmi érték,
+- c) 13. § (1) bekezdésben meghatározott értékhatárt a 2012. évben 25,0 millió forint egyedi bruttó forgalmi érték
+
+képezi.
+
 6. § (1) Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. cím, 5. Fejezeti tartalék alcímén szereplő, 4200,0 millió forint összegű kiadási előirányzat az e fejezetben szereplő kiadási előirányzatok átcsoportosítás útján történő növelésére használható fel. A Fejezeti tartalék kiadási előirányzatának felhasználását egyedi, 500,0 millió forintot meg nem haladó összegig az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter együttesen hagyja jóvá, az ezt meghaladó összeg átcsoportosításáról a Kormány határozatban dönt.
 
 (2) Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. cím, 1. Értékesítési bevételek alcím és 2. Hasznosítási bevételek alcím bevételi előirányzatainak a tervezettet meghaladó pénzforgalmi teljesítése esetén különösen indokolt esetben, a Kormány határozatában adott jóváhagyásával a fejezetnek a határozatban megjelölt kiadási előirányzata – legfeljebb a pénzforgalmilag teljesült többletbevétel mértékéig – túlléphető.
@@ -690,7 +698,7 @@ gyakorolja.
 
 67. § A Nemzeti Fejlesztési Minisztérium fejezet, 20. cím, 33. alcím, 1. Beruházás ösztönzési célelőirányzat jogcím-csoport tekintetében a tárgyéven túli fizetési kötelezettségvállalás állomány összege nem haladhatja meg a 97 500,0 millió forintot. A tárgyévi előirányzaton felül a Kormány egyedi döntése alapján vállalható kötelezettség.
 
-68. § (1) A helyi önkormányzatok, települési és területi nemzetiségi önkormányzatok tekintetében a nemzeti vagyonról szóló törvényben előírt versenyeztetés kötelező, ha az érintett vagyontárgy forgalmi értéke a 25,0 millió forintot meghaladja. A helyi önkormányzat rendeletében, valamint a települési és területi nemzetiségi önkormányzat határozatában ennél kisebb értékhatárt is meghatározhat.
+68. § (1)
 
 (2) Az államháztartásról szóló törvény alkalmazása során a kisösszegű követelés értékhatára 100 000 forint.
 
@@ -791,7 +799,7 @@ használható fel.
 
 (2) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy – az államháztartásért felelős miniszter egyetértésével – a 27. § (1) bekezdése alapján létrehozott új előirányzat igénylésének, döntési rendszerének, folyósításának, felhasználásának, ellenőrzésének és elszámolásának részletes szabályait az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a helyi önkormányzat, hogy rendeletében a 68. § (1) bekezdésében meghatározott forgalmi értéktől kisebb értékhatárt határozzon meg.
+(3) Felhatalmazást kap a helyi önkormányzat, hogy rendeletében a 5. § (11) bekezdés b) és c) pontjában meghatározott forgalmi értéktől kisebb értékhatárt határozzon meg.
 
 (4) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy a 76. § szerinti letéti számlán rendelkezésre álló összeg felhasználásának szabályait – az államháztartásért felelős miniszter egyetértésével – rendeletben állapítsa meg.
 

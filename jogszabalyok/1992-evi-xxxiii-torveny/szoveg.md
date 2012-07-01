@@ -26,11 +26,15 @@ a közalkalmazottak jogállásáról
 
 (2) A kollektív szerződés és a közalkalmazotti szabályzat nem lehet jogszabállyal ellentétes. Az a rendelkezés, amely e tilalomba ütközik semmis.
 
-(3) A közalkalmazotti jogviszonyra a Munka Törvénykönyve szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
+(3) A közalkalmazotti jogviszonyra a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (4) Amennyiben e törvény közalkalmazotti jogviszonyra vonatkozó szabályt említ, ezen az (1)—(3) bekezdésben foglaltakat kell érteni.
 
-3. § A Munka Törvénykönyve bevezető rendelkezései közül (Első rész) a közalkalmazotti jogviszony tekintetében a 3. § (6) bekezdése és a 13. § nem alkalmazható; a 3. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott neve és beosztása közérdekű adatnak minősül, azt bárki megismerheti.
+3. § (1) A közalkalmazotti jogviszony tekintetében az Mt. Általános rendelkezései (Első Rész) közül a 13. § nem alkalmazható, a 10. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott neve és beosztása közérdekű adatnak minősül, azt bárki megismerheti.
+
+(2) Az Mt. 198–211. §-a, 213. §-a és 228. §-a a közalkalmazotti jogviszony tekintetében nem alkalmazható.
+
+(3) Munkaerő-kölcsönzés vagy iskolaszövetkezeti tagság keretében közalkalmazott a munkáltató alaptevékenysége körében nem foglalkoztatható, kivéve, ha az alaptevékenység szerinti feladat más módon nem lenne ellátható.
 
 ## II. RÉSZ — A MUNKAÜGYI KAPCSOLATOK
 
@@ -59,17 +63,17 @@ a közalkalmazottak jogállásáról
 
 6. § (1) A munkaügyi kapcsolatokat és a közalkalmazotti jogviszonyt érintő
 
-- a) ágazati jelentőségű kérdésekben az ágazati miniszter (a továbbiakban: miniszter) az országos önkormányzati érdekképviseleti szervezetek bevonásával az érintett ágazatban, alágazatban, szakágazatban (a továbbiakban együtt: ágazat) reprezentatív szakszervezetekkel, az ágazati sajátosságoknak megfelelően ágazati érdekegyeztető fórumban,
-- b) területi és települési jelentőségű, ezen belül egyes ágazatokba tartozó közalkalmazottak jogviszonyát érintő kérdésekben az önkormányzat az érintett, helyi-területi szinten reprezentatív szakszervezetekkel önkormányzati érdekegyeztető fórumban
+- a) ágazati jelentőségű kérdésekben az ágazati miniszter (a továbbiakban: miniszter) az országos önkormányzati érdek-képviseleti szervezetek bevonásával az érintett ágazatban, alágazatban, szakágazatban (a továbbiakban együtt: ágazat) reprezentatív szakszervezetekkel a KOMT-ban vagy a (6) bekezdés szerinti ágazati érdekegyeztető fórumban,
+- b) területi (megyei) vagy települési jelentőségű, ezen belül egyes ágazatokba tartozó közalkalmazottak jogviszonyát érintő kérdésekben a fenntartó az érintett, területi vagy települési szinten reprezentatív szakszervezetekkel a fenntartói szintű érdekegyeztető fórumban
 
 egyeztet.
 
-(2) A miniszter az országos önkormányzati érdekképviseleti szervezetek bevonásával az érintett megfelelő szintű szakszervezetekkel véleményezteti
+(2) A miniszter az (1) bekezdés a) pontja vagy a (6) bekezdés alapján létrejött ágazati érdekegyeztető fórumban részt vevő szervezetekkel véleményezteti
 
-- a) az ágazatba (alágazatba) tartozó közalkalmazottak foglalkoztatását érintő döntések tervezetét,
-- b) az ágazatra (alágazatra) vonatkozó munkajogi szabályozással, illetve a közalkalmazotti illetmény-előmeneteli szabályokkal kapcsolatos javaslatokat.
+- a) az ágazatba (alágazatba, szakágazatba) tartozó közalkalmazottak foglalkoztatását érintő döntések tervezetét,
+- b) az ágazatra (alágazatra, szakágazatra) vonatkozó munkajogi szabályozással, illetve a közalkalmazotti illetmény-előmeneteli szabályokkal kapcsolatos javaslatokat.
 
-(3) Az önkormányzat döntése előtt az érintett, megfelelő szintű szakszervezetekkel véleményezteti
+(3) A fenntartó döntése előtt az (1) bekezdés b) pontja alapján létrejött fórumban részt vevő szervezetekkel véleményezteti
 
 - a) a közalkalmazotti illetmény-előmeneteli rendszer pénzügyi fedezetéül szolgáló költségvetés, valamint
 - b) a közalkalmazottak nagyobb, illetve egyes ágazatokba tartozó csoportját érintő intézkedés
@@ -78,72 +82,37 @@ tervezetét.
 
 (4) A (3) bekezdésben foglalt tervezeteket az azokról történő döntés előtt legalább tizenöt nappal meg kell küldeni a véleményezésre jogosult szakszervezeteknek.
 
-(5) Az (1) bekezdés szerinti érdekegyeztető fórumok létrehozása, működtetése, továbbá személyi, tárgyi és anyagi feltételeinek biztosítása a miniszter, illetve az önkormányzat kötelessége. Az érdekegyeztető fórumok a működésükre vonatkozó szabályokat – megállapodás útján – maguk alakítják ki. Az érdekegyeztető fórumok létrehozására és működésére vonatkozó szabályokat megfelelően alkalmazni kell akkor is, ha az önkormányzati érdekszövetségekkel, az érintett költségvetési intézményekkel, illetve az érintett megfelelő szintű szakszervezetekkel kötött megállapodás alapján az ágazaton belül a tárcaszintű társadalmi párbeszéd egyéb fórumait alakítják ki.
+(5) Az (1) bekezdés a) pontjától eltérően, amennyiben az ágazatban (alágazatban, szakágazatban) önkormányzati intézményfenntartó nem működik, az önkormányzati érdekképviseleti szervezetek bevonása mellőzhető.
 
-6/A. § (1) A 6. §-ban meghatározott jogosítványokat az a szakszervezet gyakorolja, amely az adott körben reprezentatív.
+(6) A miniszter az ágazaton (alágazaton, szakágazaton) belül az ágazati sajátosságoknak megfelelően, a tárcaszintű ágazati társadalmi párbeszéd (1) bekezdés a) pontjában foglaltaktól különböző egyéb fórumát is kialakíthatja (ágazati érdekegyeztető fórum). Ekkor a munkaügyi kapcsolatokat és a közalkalmazotti jogviszonyt érintő ágazati kérdésekben az ágazati érdekegyeztető fórumban egyeztet. Az ágazati érdekegyeztető fórumban – az (5) bekezdésben foglaltakra is figyelemmel – az önkormányzati érdekképviseleti szervezetek, az érintett költségvetési szervek, ágazati szakmai érdekképviseletek, valamint a megfelelő szintű és reprezentativitással rendelkező szakszervezetek részvételét, továbbá véleményezési és konzultációs joguk érvényesülését e törvénynek megfelelően biztosítani kell.
 
-(2)
+(7) Az (1) bekezdés b) pontja szerinti érdekegyeztető fórumok létrehozása, működtetése, továbbá személyi, tárgyi és anyagi feltételeinek biztosítása a fenntartó kötelessége. Az érdekegyeztető fórumok a működésükre vonatkozó szabályokat – megállapodás útján – maguk alakítják ki.
 
-(3) Amennyiben a reprezentativitás kérdésében vita merül fel, erről az érdekelt fél kérelmére soron kívül, nemperes eljárásban bíróság dönt.
+6/A. § (1) Az 5–6. §-ban meghatározott jogokat az a szakszervezet gyakorolja, amely az adott körben reprezentatív.
 
-7. § (1) A Munka Törvénykönyve Munkaügyi kapcsolatokról szóló Második részének bevezető rendelkezései közül a 15/B. § (2) bekezdése a közalkalmazotti jogviszony tekintetében a következő eltéréssel alkalmazandó: „a 65. § (3) bekezdésének a) és f) pontjaiban” szövegrészen e törvény 16. § (2) bekezdésének c) pontját kell érteni.
+(2) Területi (megyei) vagy települési szinten azt a szakszervezetet kell reprezentatívnak tekinteni,
 
-(2) A Munka Törvénykönyvének az országos érdekegyeztetésről szóló rendelkezései (Második rész I. fejezet) a közalkalmazotti jogviszony tekintetében nem alkalmazhatók.
+- a) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
+- b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
+- c) amely az adott fenntartott munkáltatók legalább 20%-ában reprezentatív, legalább egy ágazatban.
 
-### A szakszervezetek, a kollektív szerződés
-
-8. § A szakszervezet az e törvényben foglalt szabályok szerint jogosult kollektív szerződést kötni.
-
-9. § (1) A munkáltatónál azt a szakszervezetet kell reprezentatívnak tekinteni,
-
-- a) amelynek a munkáltatónál közalkalmazotti jogviszonyban álló tagjai létszáma eléri a munkáltató által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
-- b) amely munkahelyi szervének az azonos foglalkozási csoporthoz (szakmához) tartozó közalkalmazottaknak legalább kétharmada tagja, de legalább a munkáltatónál foglalkoztatott közalkalmazottak létszámának 5%-a.
-
-(2) Területi-helyi szinten azt a szakszervezetet kell reprezentatívnak tekinteni,
-
-- a) amely közalkalmazotti jogviszonyban álló tagjainak száma eléri az önkormányzat által fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
-- b) amely közalkalmazotti jogviszonyban álló tagjainak száma eléri az önkormányzat által fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
-- c) amely az adott önkormányzat által fenntartott munkáltatók legalább 20%-ában reprezentatív, legalább egy ágazatban.
-
-(3) Ágazati szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amely közalkalmazotti jogviszonyban álló tagjainak száma eléri az ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át.
+(3) Ágazati (alágazati, szakágazati) szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri az ágazatban (alágazatban, szakágazatban) foglalkoztatott közalkalmazottak létszámának 10%-át.
 
 (4) Országos szinten azt az országos szakszervezeti konföderációt kell reprezentatívnak tekinteni, amelynek legalább három reprezentatív ágazati szakszervezet a tagja, és tagszervezetei a közalkalmazottak legalább 5%-át képviselik.
 
-10. § A közvetlen felsőbb szakszervezeti szervet előzetesen értesíteni kell a választott szakszervezeti tisztséget betöltő közalkalmazott elleni fegyelmi eljárás megindításáról.
+(5) Amennyiben a reprezentativitás kérdésében vita merül fel, az Mt. 289. §-ában meghatározott eljárásnak van helye.
 
-11. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a szakszervezetekről szóló rendelkezései (Második rész, II. fejezet) közül a 29. § (2)–(3) bekezdése nem alkalmazható.
+6/B. § Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 6–6/A. § és az Mt. 270–275. §-ában foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A fegyveres szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a fegyveres szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a fegyveres szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
 
-(2) A Munka Törvénykönyve 25. §-át azzal az eltéréssel kell alkalmazni, hogy az önkormányzat, az érintett munkáltatók és a szakszervezet megállapodása alapján, a több munkáltató szakszervezeti tagságának képviseletében az önkormányzati szintű érdekegyeztetésen eljárni jogosult szakszervezeti tisztségviselő részére a munkaidő-kedvezmény vagy annak egy része az egyes munkáltatóknál meglévő szakszervezeti taglétszám alapján összevonható. Az összevont munkaidő-kedvezmény mértéke nem haladhatja meg a tisztségviselő havi munkaidejének ötven százalékát.
+7. §
 
-12. § (1) A kollektív szerződés hatálya kiterjed arra a munkáltatóra, amely
+### A szakszervezetek, a kollektív szerződés
 
-- a) a kollektív szerződést kötötte, vagy
-- b) a kollektív szerződés megkötése idején a szerződést kötő munkáltatói érdekképviseleti szervezetnek tagja, illetőleg
-- c) később a munkáltatói érdekképviseleti szervhez csatlakozott.
+8–12. §
 
-(2) Az (1) bekezdés c) pontjában meghatározott csatlakozás esetén a munkáltatónál képviselettel rendelkező szakszervezet egyetértése szükséges ahhoz, hogy a kollektív szerződés hatálya a munkáltatóra kiterjedjen.
+12/A. §
 
-(3) A kollektív szerződésben meg kell határozni, hogy annak hatálya az (1) bekezdés b) pontjában említett munkáltatók mely körére terjed ki.
-
-(4) A kollektív szerződés hatálya a díjazásra vonatkozó rendelkezések tekintetében nem terjed ki a munkáltató vezetőjére. E rendelkezés alkalmazása során díjazásnak minősül minden, a közalkalmazott részére a közalkalmazotti jogviszonya alapján közvetlenül vagy közvetve nyújtott pénzbeli és természetbeni (szociális) juttatás.
-
-12/A. § (1) A munkáltatónál működő egyetlen szakszervezet jogosult a munkáltatóval a kollektív szerződést megkötni, ha közalkalmazotti jogviszonyú tagjainak száma eléri a munkáltató által foglalkoztatott közalkalmazottak létszámának 25%-át.
-
-(2) Ha a munkáltatónál több szakszervezet rendelkezik képviselettel, a kollektív szerződést valamennyi szakszervezet együttesen kötheti meg. Ennek feltétele, hogy a szakszervezetek közalkalmazotti jogviszonyban álló tagjainak száma eléri a munkáltató által foglalkoztatott közalkalmazottak létszámának 25%-át.
-
-(3) Ha a szakszervezetek együttes kollektív szerződéskötése a (2) bekezdés alapján nem lehetséges, a reprezentatív szakszervezetek együttesen köthetik meg a kollektív szerződést, feltéve, ha a szakszervezetek közalkalmazotti jogviszonyú tagjainak száma eléri a munkáltató által foglalkoztatott közalkalmazottak létszámának 25%-át.
-
-(4) Ha a reprezentatív szakszervezetek együttes kollektív szerződéskötése a (3) bekezdés alapján nem lehetséges, a kollektív szerződést a munkáltatóval az a szakszervezet kötheti meg, amely közalkalmazotti jogviszonyú tagjainak száma eléri a munkáltató által foglalkoztatott közalkalmazottak létszámának 50%-át.
-
-(5) Ha az (1) bekezdésben foglalt esetben a szakszervezet, illetve a (2)–(4) bekezdés esetén a szakszervezetek kollektív szerződéskötése nem lehetséges, a kollektív szerződés megkötésére irányuló tárgyalást le lehet folytatni, de a kollektív szerződés megkötéséhez szükséges a közalkalmazottak jóváhagyása. A közalkalmazottaknak erről szavazniuk kell. A szavazás akkor érvényes, ha azon a közalkalmazottak legalább 50%-a részt vesz.
-
-(6) Ágazati kollektív szerződés megkötése esetén az (1)–(5) bekezdést megfelelően, az ágazat közalkalmazottai létszámát alapul véve, kell alkalmazni.
-
-13. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a kollektív szerződésről szóló rendelkezései közül (Második rész, III. fejezet) a 33. § (2)–(7) bekezdése, a 34–35. §, a 36. § (1)–(3) bekezdése, a 37. § (3) bekezdése, valamint a 41. § nem alkalmazható.
-
-(2) Az Mt. 39. §-ának (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a „33. § (5) bekezdése” szövegrészen e törvény 12/A. § (4) bekezdését kell érteni.
-
-(3) Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 4–12. §-ban foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A fegyveres szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a fegyveres szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a fegyveres szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
+13. § A közalkalmazotti jogviszony tekintetében az Mt. 277. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy kollektív szerződés az e törvény, illetve az e törvény felhatalmazása alapján kiadott rendeletek előírásaitól akkor térhet el, ha az eltérésre ezek a jogszabályok felhatalmazást adnak.
 
 ### A közalkalmazottak részvételi jogai
 
@@ -158,7 +127,7 @@ tervezetét.
 16. § (1) A közalkalmazotti tanácsot együttdöntési jog illeti meg a kollektív szerződésben meghatározott jóléti célú
 
 - a) pénzeszközök felhasználása, illetve
-- b) intézmények és ingatlanok hasznosítása
+- b)
 
 tekintetében.
 
@@ -181,11 +150,11 @@ tekintetében.
 
 (3) A közalkalmazotti szabályzat kollektív szerződésre tartozó kérdéseket nem szabályozhat.
 
-(4) A közalkalmazotti szabályzatra a Munka Törvénykönyve 38. § (1)—(3) bekezdését, 39. § (1)—(2) bekezdését, valamint a 40. § (1) bekezdésének első mondatát megfelelően alkalmazni kell.
+(4)
 
 18. §
 
-19. § A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkavállalók részvételi jogáról szóló rendelkezései közül (Második rész, IV. fejezet) a 42. §-a, a 43. §-ának (1)–(3) bekezdése, valamint (6) bekezdése, az 50. §-ának (1) bekezdése, az 53. §-ának (3) bekezdése, az 57. §-ának (2) bekezdése, a 64/A. §-a és a 65. §-a, valamint a Második rész V. fejezete nem alkalmazható.
+19. § A közalkalmazotti jogviszony tekintetében az Mt. üzemi tanácsra vonatkozó rendelkezései (XX. fejezet) közül a 235. § (2) bekezdése, 251. §-a és 268. §-a nem alkalmazható.
 
 ## III. RÉSZ — A KÖZALKALMAZOTTI JOGVISZONY
 
@@ -243,13 +212,13 @@ személlyel létesíthető.
 - d) a pályázat részeként benyújtandó iratokat, igazolásokat, továbbá
 - e) a pályázat benyújtásának feltételeit és elbírálásának határidejét.
 
-(4) A pályázati felhívást a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ (a továbbiakban: KSZK) internetes oldalán kell közzétenni. Emellett a pályázati felhívást, valamint a munkáltatónál közalkalmazotti jogviszony keretében pályázat nélkül betölthető munkakört és a kinevezés feltételeit (a továbbiakban: álláshirdetés)
+(4) A pályázati felhívást a kormányzati személyügyi igazgatási feladatokat ellátó szerv (a továbbiakban: személyügyi központ) internetes oldalán kell közzétenni. Emellett a pályázati felhívást, valamint a munkáltatónál közalkalmazotti jogviszony keretében pályázat nélkül betölthető munkakört és a kinevezés feltételeit (a továbbiakban: álláshirdetés)
 
 - a) ha a fenntartó önkormányzat, a székhelyén,
 - b) ha a fenntartó önkormányzati társulás, a társulásban részt vevő önkormányzatok székhelyén is, továbbá
 - c) a munkáltató a székhelye és telephelye szerinti településen
 
-a helyben szokásos módon köteles közzétenni. Végrehajtási jogszabály hivatalos lapban vagy egyéb módon való közzétételt is előírhat. Ebben az esetben, továbbá az a)–c) pontban foglalt esetekben meg kell jelölni a pályázati felhívás KSZK honlapján való közzétételének időpontját. A pályázat benyújtásának a határideje a pályázati felhívásnak a KSZK honlapján való elsődleges közzétételétől számított tizenöt napnál – a munkáltató vezetésére kiírt pályázat esetén harminc napnál – rövidebb nem lehet. Álláshirdetés esetén e határidőket az a) pont alapján történő közzétételtől kell számítani.
+a helyben szokásos módon köteles közzétenni. Végrehajtási jogszabály hivatalos lapban vagy egyéb módon való közzétételt is előírhat. Ebben az esetben, továbbá az a)–c) pontban foglalt esetekben meg kell jelölni a pályázati felhívásnak a személyügyi központ honlapján való közzétételének időpontját. A pályázat benyújtásának a határideje a pályázati felhívásnak a személyügyi központ honlapján való elsődleges közzétételétől számított tizenöt napnál – a munkáltató vezetésére kiírt pályázat esetén harminc napnál – rövidebb nem lehet. Álláshirdetés esetén e határidőket az a) pont alapján történő közzétételtől kell számítani.
 
 (5) A pályázó – a (3) bekezdés d) pontja alapján meghatározottakon túlmenően – a pályázathoz csatolja
 
@@ -409,32 +378,23 @@ eredmény adható.
 
 (10) A vezetői pótlék (7)–(9) bekezdés szerinti megtérítésén túlmenően a munkáltató a közalkalmazott felmerült kárát is köteles megtéríteni.
 
-23/A. § (1) A munkáltató évente, illetve – ha a foglalkoztatás feltételei ezt indokolják – szükség szerint köteles megvizsgálni, hogy – különös figyelemmel a feladatok hatékony, szakszerű és a jogszabályoknak megfelelő ellátására – mely munkakörben van lehetőség a részmunkaidőben történő munkavégzésre.
+23/A. §
 
-(2) A munkáltató az Mt. 84/A. § (2) bekezdésében foglaltakon túlmenően a helyben szokásos módon köteles tájékoztatni a közalkalmazottakat azokról a munkakörökről, amelyeknél – közalkalmazotti kezdeményezés esetén – a kinevezés módosításával részmunkaidő köthető ki.
-
-23/B. § (1) A teljes munkaidőben foglalkoztatott közalkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben
-
-- a) heti húsz óra,
-- b) készenléti jellegű munkakörben a kinevezés szerinti munkaidő mértéke felének megfelelő tartamú
-
-részmunkaidőt kikötni, ha a közalkalmazott a kérelem benyújtásakor a Munka Törvénykönyve 138. §-a (5) bekezdésének a) pontja szerinti fizetés nélküli szabadságot vesz igénybe.
+23/B. § (1) A teljes munkaidőben foglalkoztatott közalkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húszórás részmunkaidőt kikötni, ha a közalkalmazott a kérelem benyújtásakor az Mt. 128. §-ában foglalt fizetés nélküli szabadságot vesz igénybe.
 
 (2) A munkáltató a közalkalmazottnak a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltató köteles írásban megindokolni a kérelem megtagadását.
 
 (3) A részmunkaidő kikötése
 
 - a) a fizetés nélküli szabadság megszűnését követő naptól,
-- b) ha a közalkalmazottnak a Munka Törvénykönyve 134. §-a (3) bekezdésének b) pontja alapján ki kell adni rendes szabadságát, a szabadság leteltét követő naptól
-
-hatályos. A b) pontban foglaltak alkalmazása esetén – a felek eltérő megállapodása hiányában – a rendes szabadság kiadását a fizetés nélküli szabadság lejártát követő első munkanapon meg kell kezdeni. Eltérő megállapodás esetén a rendes szabadság kiadását a fizetés nélküli szabadság lejártát követő harminc napon belül meg kell kezdeni.
+- b) ha a közalkalmazott betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül ki kell adni rendes szabadságát, a szabadság leteltét követő naptól hatályos. A b) pontban foglaltak alkalmazása esetén – a felek eltérő megállapodása hiányában – a rendes szabadság kiadását a fizetés nélküli szabadság lejártát követő első munkanapon meg kell kezdeni. Eltérő megállapodás esetén a rendes szabadság kiadását a fizetés nélküli szabadság lejártát követő harminc napon belül meg kell kezdeni.
 
 (4) A kérelmet az (1) bekezdés szerinti fizetés nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatóval közölni. A kérelemben a közalkalmazott köteles tájékoztatni a munkáltatót
 
 - a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve betöltésének időpontjáról, továbbá
 - b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.
 
-(5) A (4) bekezdésben foglaltaktól eltérően a nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatottak esetében a kérelmet a fizetés nélküli szabadság tartama alatt, a tanév szorgalmi időszakának befejezését, illetve az első félév befejezését megelőző hatvan nappal korábban kell a munkáltatóval közölni.
+(5) A (4) bekezdésben foglaltaktól eltérően a nevelési-oktatási intézményben pedagógus munkakörben foglalkoztatottak esetében a kérelmet a fizetés nélküli szabadság tartama alatt, a tanév szorgalmi időszakának befejezését, illetve az első félév befejezését megelőző hatvan nappal korábban kell a munkáltatóval közölni.
 
 (6) A (3) bekezdés szerinti időponttól a közalkalmazotti jogviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a munkaidő mértékével összefügg.
 
@@ -443,17 +403,15 @@ hatályos. A b) pontban foglaltak alkalmazása esetén – a felek eltérő meg�
 - a) a kérelem szerinti időpontig, de
 - b) legfeljebb a gyermek hároméves koráig
 
-köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
+köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
 
-(8) Az (1)–(7) bekezdés nem alkalmazható a megbízott magasabb vezető és a vezető tekintetében.
+(8) Az (1)–(7) bekezdés nem alkalmazható a vezetői megbízású közalkalmazott tekintetében.
 
 24. § (1) Ha a közalkalmazott munkaköre ellátása mellett a munkáltató rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát, s ezáltal jelentős többletmunkát végez, illetményén felül a végzett munkával arányos külön díjazás (helyettesítési díj) is megilleti.
 
-(2) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének
+(2) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony alanyairól, a munkaviszony létesítéséről és a munkaszerződés módosításáról szóló rendelkezései (V., VII., és IX. fejezet) közül a 32–35. §, a 42–43. §, a 45. § (1) bekezdés, a 45. § (5) bekezdés, az 50. § és a 62. § nem alkalmazható.
 
-- a) a munkaviszony alanyairól, a munkaviszony létesítéséről és a munkaszerződés módosításáról szóló rendelkezései (Harmadik rész, I–III. fejezet) közül a 71. §-a, a 76. §-ának (1)–(2) és (5) bekezdése, a 79. §-ának (1) és (4)–(5) bekezdése, (7) bekezdésének első fordulata, valamint 80–81. §-a, a 85/A. §-ának (5) és (6) bekezdése, valamint a vezető állású munkavállalóra vonatkozó eltérő rendelkezésekről szóló fejezete (Harmadik rész, X. fejezet) nem alkalmazható, továbbá
-- b) 85/A. § (1) bekezdésének b) pontjában szereplő az „e törvény hatálya alá tartozó szervezet vagy személy” kifejezés alatt a jelen törvény hatálya alá tartozó szervezetet kell érteni,
-- c) 72. § (1), (4), valamint (7) bekezdése abban az esetben alkalmazható, ha végrehajtási rendelet a közalkalmazotti jogviszony létesítési feltételeként a tizennyolcadik életév betöltése alól mentesítést adott.
+(3) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkáltató személyében bekövetkező változásról szóló VI. fejezete megfelelően abban az esetben alkalmazható, ha az átadó és az átvevő munkáltató e törvény hatálya alá tartozik.
 
 ### II. Fejezet — A közalkalmazotti jogviszony megszűnése
 
@@ -474,17 +432,21 @@ köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérele
 - d) rendkívüli lemondással;
 - e) felmentéssel;
 - f) azonnali hatállyal
-  - fa) a próbaidő alatt, vagy
-  - fb) a 27. § (2) bekezdése szerint, valamint
-- g) elbocsátással, továbbá
-- h) rendkívüli felmentéssel a gyakornoki idő alatt.
+  - fa) a próbaidő alatt,
+  - fb) a 27. § (2) bekezdése szerint,
+  - fc) a 44. § (4) bekezdése szerint, vagy
+  - fd) a (3) bekezdés szerint, valamint
+- g) rendkívüli felmentéssel
+  - ga) az Mt. 78. §-a szerinti esetben, vagy
+  - gb) a gyakornoki idő alatt.
+- h)
 
-(3) A munkáltató köteles a közalkalmazotti jogviszonyt a Munka Törvénykönyve 10. § (1) bekezdése alapján azonnali hatállyal felszámolni, és az érvénytelenség jogkövetkezményeit alkalmazni, ha
+(3) A munkáltató köteles a közalkalmazotti jogviszonyt az Mt. 29. § (1) bekezdése alapján azonnali hatállyal megszüntetni, ha
 
-- a) a közalkalmazott a 20. § (6) bekezdésében foglalt kötelezettségének a felhívástól számított tizenöt munkanapon belül nem tesz eleget, és nem igazolja, hogy a kötelezettség elmulasztása menthető ok következménye,
+- a) a közalkalmazott a 20. § (6) bekezdésében foglalt kötelezettségének a felhívástól számított tizenöt munkanapon belül nem tesz eleget és nem igazolja, hogy a kötelezettség elmulasztása menthető ok következménye,
 - b) a 20. § (2) bekezdés a) pontjában vagy a (6) bekezdésben meghatározott kizáró ok fennállását a munkáltató a bűnügyi nyilvántartó szerv által az igazolás céljából kiállított hatósági bizonyítvány tartalma alapján megállapítja, vagy az egyéb módon a tudomására jut.
 
-(4) A közalkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú felszámolását indokolással, írásba foglaltan kell közölni a közalkalmazottal.
+(4) A közalkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
 
 25/A. § (1) Ha a munkáltató személye azért változik meg, mert az alapító vagy a munkáltató döntése alapján a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) a Munka Törvénykönyve vagy a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltató számára kerül átadásra, a munkáltató átadásra kerülő szervezete, illetve tevékenysége keretében foglalkoztatott közalkalmazott közalkalmazotti jogviszonya az átadás időpontjában megszűnik.
 
@@ -520,7 +482,7 @@ továbbá köteles a szakszervezettel és a közalkalmazotti tanáccsal (közalk
 
 (6) Ha a munkaszerződés megkötésével (a kinevezéssel) létesített jogviszony megszűnése, illetve megszüntetése esetén a közalkalmazottat felmondási (felmentési) idő, valamint végkielégítés illeti meg, annak mértékét az átadó és az átvevő munkáltatónál jogviszonyban töltött idő együttes tartamának figyelembevételével, a jogviszonyra irányadó szabályok alapján kell megállapítani. Ettől eltérően a felmondási (felmentési) idő, valamint a végkielégítés mértékét az átadó és az átvevő munkáltatónál jogviszonyban töltött idő együttes tartamának figyelembevételével és e törvénynek az átadás napján hatályos szabályai szerint kell megállapítani, ha az a közalkalmazottra nézve kedvezőbb.
 
-(7) Ha az átadó munkáltatónál az átadás időpontjáig működött közalkalmazotti tanács (közalkalmazotti képviselő), az átadással érintett szervezeti egység közalkalmazottainak részvételi jogát az átvevő munkáltatónál a Munka Törvénykönyve 56/A–56/B. §-ában előírt rendelkezések megfelelő alkalmazásával kell biztosítani, kivéve, ha a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó átvevő munkáltatónál az érintettek vonatkozásában üzemi tanács nem hozható létre.
+(7)
 
 25/C. § (1) A 25/A–25/B. §-t nem kell alkalmazni, ha a 25/A. § (2) bekezdése szerinti időpont előtt
 
@@ -531,27 +493,15 @@ alapján a közalkalmazotti jogviszony a 25/A. § (2) bekezdése szerinti időpo
 
 (2) Az (1) bekezdés szerinti esetben az átadás 25/A. § (1) bekezdésben meghatározott időpontját követően a közalkalmazottat az átvevő munkáltatónál munkavégzési kötelezettség nem terheli. Ekkor a korábbi megszüntető nyilatkozat vagy megállapodás alapján az átadás és a jogviszony megszűnésének időpontja közötti időtartam alatt esedékes díjazást, illetőleg juttatást az átadó munkáltatónak – a jogviszony megszűnésével összefüggő juttatások kifizetésére vonatkozó szabályok alkalmazásával – legkésőbb az átadás időpontjában ki kell fizetnie. Ezek összegét – e törvény eltérő rendelkezése hiányában – a távolléti díj alapulvételével kell meghatározni.
 
-(3) A munkáltató fegyelmi határozatával összefüggő munkaügyi pert – a (4) bekezdésben meghatározott kivétellel – meg kell szüntetni.
-
-(4) Ha a munkaügyi per fegyelmi elbocsátás tekintetében folyik, a munkavállalói kereset elbírálásánál
-
-- a) a rendkívüli felmondás szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a közalkalmazottat foglalkoztató részének a Munka Törvénykönyve,
-- b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a munkáltató egészének vagy a közalkalmazottat foglalkoztató részének a közszolgálati tisztviselőkről szóló törvény
-
-hatálya alá tartozó munkáltató számára történő átadására kerül sor.
+(3)–(4)
 
 (5)
 
 (6) A 34. § alkalmazásakor – amennyiben a közalkalmazottat eredeti munkakörében kell továbbfoglalkoztatni – az átvevő munkáltató köteles az ítélet jogerőre emelkedésekor a 25/A–25/B. §-ban foglaltak megfelelő alkalmazásával az állásfelajánlási és foglalkoztatási kötelezettséget teljesíteni. Az átvevő munkáltató a 25/A. § (2)–(3) bekezdése szerinti tájékoztatási kötelezettséget a jogerős ítélet közlésétől számított tizenöt napon belül köteles teljesíteni.
 
-25/D. § Külön törvény rendelkezik a közalkalmazott jogviszonyának átalakulásáról abban az esetben, amikor jogszabály rendelkezése folytán a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) szervezeti vagy jogállás változása miatt a kormánytisztviselők jogállásáról szóló törvény hatálya alá kerül.
+25/D. §
 
-25/E. § Ha a költségvetési szerv úgy szűnik meg, hogy az alapító szerv döntése alapján a többcélú intézmény valamely szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja az e törvény hatálya alá tartozó más munkáltató számára kerül átadásra, a költségvetési szerv
-
-- a) átadásra kerülő szervezeti egységében foglalkoztatott személy közalkalmazotti jogviszonyára az Mt. 85/A. § (1)–(4) bekezdését,
-- b) átadásra nem kerülő foglalkoztatottja esetében a 25. § (1) bekezdés c) pontját
-
-kell alkalmazni.
+25/E. §
 
 25/F. § (1) A munkáltató személyében a jogszabály rendelkezése folytán bekövetkező olyan változás esetén, ha a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltatóhoz kerül, a munkáltató érintett szervezete, illetve tevékenysége keretében foglalkoztatott közalkalmazott közalkalmazotti jogviszonya – a (3), (4) és a (9) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában kormányzati szolgálati jogviszonnyá alakul át.
 
@@ -586,7 +536,7 @@ alakul át.
 
 (4) A munkáltató fenntartója – törvény eltérő rendelkezése hiányában – az általa fenntartott, e törvény hatálya alá tartozó munkáltatók között kezdeményezheti a közalkalmazott határozatlan időre szóló áthelyezését. Erre rendkívül indokolt esetben, így különösen akkor kerülhet sor, ha annak a munkáltatónak, ahová az áthelyezés irányul, a feladatai – különösen a munka- és pihenőidő, illetőleg a rendes szabadság kiadása szabályaira tekintettel – munkaszervezési eszközök alkalmazásával sem teljesíthetők.
 
-27. § (1) A határozott idejű közalkalmazotti jogviszony lemondással nem szüntethető meg.
+27. § (1) A határozott idejű közalkalmazotti jogviszonyt a közalkalmazott írásban indokolt lemondással akkor szüntetheti meg, ha a lemondás indoka olyan ok, amely számára a közalkalmazotti jogviszony fenntartását lehetetlenné tenné vagy körülményeire tekintettel, aránytalan sérelemmel járna. A határozott idejű közalkalmazotti jogviszony más okból lemondással nem szüntethető meg.
 
 (2) A határozott idejű közalkalmazotti jogviszonyt a 30. § (1) bekezdésének a)–d) pontjában foglalt okok alapján a munkáltató azonnali hatállyal megszüntetheti; a közalkalmazott részére azonban egyévi, ha a határozott időből még hátralévő idő egy évnél rövidebb, a hátralévő időre jutó átlagkeresetét köteles előre megfizetni. Ettől eltérően, ha a megszüntetésre a 30. § (1) bekezdés c) pontjában meghatározott, a közalkalmazott nem megfelelő munkavégzése vagy – nem egészségügyi okkal összefüggő – alkalmatlansága miatt került sor, a közalkalmazottat egyhavi átlagkereset illeti meg. Ha ekkor a határozott időből még hátralévő idő egy hónapnál rövidebb, a munkáltató a hátralévő időre járó átlagkeresetet köteles megfizetni.
 
@@ -673,21 +623,14 @@ betöltetlen munkaköreiről, az ahhoz szükséges képesítési előírásokró
 
 30/F. § A 30/A–30/E. § rendelkezéseit a közoktatási ágazatban a külön törvény alapján megállapított, a munkaerő-gazdálkodásra vonatkozó szabályokban foglalt eltéréssel kell alkalmazni.
 
-31. § (1) A közalkalmazotti jogviszonyt a munkáltató felmentéssel nem szüntetheti meg az alábbiakban meghatározott időtartam alatt:
+31. § Felmentés esetén a felmentési idő legkorábban az alábbiakban meghatározott tartam lejártát követő napon kezdődik:
 
-- a) a külföldön nemzetközi szervezetnél, vagy államközi egyezmény végrehajtásaként idegen állami, illetőleg egyéb intézménynél munkára kötött megállapodás alapján külföldön végzett munka;
+- a) a külföldön nemzetközi szervezetnél, vagy államközi egyezmény végrehajtásaként idegen állami, illetőleg egyéb intézménynél munkára kötött megállapodás alapján, külföldön végzett munka;
 - b) a tartósan külföldi szolgálatot teljesítő személy külföldre utazására tekintettel fizetés nélküli szabadságban részesült házastársánál a fizetés nélküli szabadság;
 - c) az ösztöndíjjal külföldi tanulmányútra kiküldött a tanulmányút és az esetleges előzetes tanfolyam, valamint
-- d) a munkáltató által vagy hozzájárulásával más szervek által iskolai vagy iskolarendszeren kívüli képzésre küldés miatt a munkavégzés alóli felmentés
+- d) a munkáltató hozzájárulásával iskolai vagy iskolarendszeren kívüli képzésre tekintettel biztosított munkavégzés alóli felmentés
 
-ideje.
-
-(2) A felmentési idő, ha az (1) bekezdésben meghatározott felmentési védelem időtartama
-
-- a) a tizenöt napot meghaladja, ezt követően csak tizenöt nap,
-- b) a harminc napot meghaladja, ezt követően csak harminc nap
-
-elteltével kezdődhet el.
+tartama.
 
 31/A. § A felmentési védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó. Ettől eltérően
 
@@ -734,48 +677,18 @@ Kollektív szerződés 8 hónapnál hosszabb felmentési időt nem állapíthat 
 
 (4) Rendkívüli felmentés esetén – e törvényben előírt kivételektől eltekintve – a felmentés szabályai nem alkalmazhatók.
 
-34. § (1) Ha a bíróság megállapítja, hogy a munkáltató a közalkalmazott közalkalmazotti jogviszonyát jogellenesen szüntette meg, a közalkalmazott abban az esetben kérheti az eredeti munkakörében történő továbbfoglalkoztatását, ha
-
-- a) a megszüntetés a rendeltetésszerű joggyakorlás követelményébe (Munka Törvénykönyve 4. §), az egyenlő bánásmód követelményébe (Munka Törvénykönyve 5. §), illetve felmentési védelembe [31. §, valamint Munka Törvénykönyve 90. §-ának (1) bekezdése] ütközik, vagy a munkáltató megszegi a felmentési korlátozásokra vonatkozó rendelkezéseket [30/A–30/D. §; 32. § (2) bekezdése], vagy
-- b) a munkáltató a választott szakszervezeti tisztségviselő, a közalkalmazotti tanács tagjának (elnökének, a közalkalmazotti megbízottnak), illetve a munkavédelmi képviselőnek (munkavédelmi bizottság tagjainak) közalkalmazotti jogviszonyát a 45–53. és az 54/A. §-okba, a Munka Törvénykönyve 28. §-ába, 62/A. §-ába, vagy a munkavédelemről szóló törvény 76. §-ának (3) bekezdésébe ütköző módon szüntette meg,
-- c) a fegyelmi felelősség nem áll fenn, vagy annak megállapítása esetén az elbocsátás fegyelmi büntetés nem áll arányban az elkövetett fegyelmi vétség súlyával.
-
-(2) Az (1) bekezdésben foglalt esetben meg kell téríteni a közalkalmazott elmaradt illetményét (egyéb járandóságait), továbbá a jogviszony jogellenes megszüntetésével összefüggésben felmerült kárát is.
-
-(3) Ha a közalkalmazotti jogviszony (1) bekezdésben foglalt módon történő jogellenes megszüntetése esetén a közalkalmazott az eredeti munkakörébe való visszahelyezést nem kéri, a közalkalmazotti jogviszony a jogellenességet megállapító határozat jogerőre emelkedésének napján szűnik meg. Ekkor – a (2) bekezdésben foglaltakon felül a bíróság a munkáltatót – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelésével – a közalkalmazott legalább két, legfeljebb tizenkét havi átlagkeresetének megfelelő összeg megfizetésére kötelezi.
-
-(4) Ha a közalkalmazotti jogviszonyt nem az (1) bekezdésben foglalt módon szüntették meg jogellenesen, a közalkalmazotti jogviszony a megszüntetésről szóló jognyilatkozat szerinti időpontban megszűnik, de a közalkalmazott részére – az eset összes körülményeinek, így különösen a jogsértés és annak következményei súlyának mérlegelése alapján – legalább két, legfeljebb harminchat havi átlagkeresetnek megfelelő átalány-kártérítést kell fizetni.
-
-(5) A (2) bekezdésben foglalt esetben nem kell megtéríteni az illetménynek (egyéb járandóságnak), illetve a kárnak azt a részét, amely máshonnan megtérült vagy kellő gondosság mellett megtérülhetett volna. A kellő gondosság elmulasztásának különösen azt kell tekinteni, ha a közalkalmazott az állami foglalkoztatási szervvel nem működik együtt a munkavégzésre irányuló jogviszony létesítése érdekében, nem köt álláskeresési megállapodást, illetve az e szerv által felajánlott – a foglalkoztatás elősegítéséről szóló jogszabályban foglalt feltételekre tekintettel – megfelelő munkahelyet elutasítja, továbbá maga nem keres aktívan munkahelyet. A bíróság a kellő gondosság elmulasztásának az elmaradt illetmény, egyéb járandóságok, illetve a közalkalmazotti kár megtérítésével kapcsolatos következményét az eset összes körülményének mérlegelése alapján állapítja meg.
-
-(6) A közalkalmazottat, ha közalkalmazotti jogviszonya nem felmentéssel szűnt meg – a (2)–(5) bekezdésben foglaltakon kívül – megilleti a munkavégzés alóli felmentés idejére járó átlagkeresete és a felmentés esetén járó végkielégítés is.
-
-(7) Ha a közalkalmazotti jogviszony a 22. § (16) bekezdése alapján e törvény erejénél fogva megszűnt, és a bíróság megállapította a közalkalmazott „nem megfelelt” minősítésének jogellenességét,
-
-- a) ha a munkáltató eljárása a rendeltetésszerű joggyakorlás vagy az egyenlő bánásmód követelményébe ütközött, az (1)–(3), illetve az (5) és (6) bekezdésben foglaltakat,
-- b) az a) pontba nem tartozó esetben a (4)–(6) bekezdésben foglaltakat
-
-kell megfelelően alkalmazni.
-
-35. § (1) Amennyiben a közalkalmazotti jogviszonyt a közalkalmazott valamely közalkalmazotti jogviszonyra vonatkozó szabály rendelkezéseinek megszegésével szünteti meg, azt úgy kell elbírálni, mintha közalkalmazotti jogviszonya elbocsátás folytán szűnt volna meg. A közalkalmazott ekkor köteles a munkáltató részére a lemondási időre járó átlagkeresetének megfelelő összeget megfizetni. Amennyiben a közalkalmazotti jogviszony megszüntetése kizárólag azért jogellenes, mert a közalkalmazott lemondási idő egy részét nem tölti le, megtérítési kötelezettsége a le nem töltött idővel arányos.
-
-(2) Ha a közalkalmazott a határozott időtartamú jogviszonyát szünteti meg jogellenesen, az (1) bekezdésben meghatározottakat megfelelően kell alkalmazni. Ha azonban a határozott időből még hátralévő időtartam rövidebb, mint az (1) bekezdés szerinti időtartam, a munkáltató csak a hátralévő időre járó átlagkereset megfizetését követelheti.
-
-(3) A munkáltató jogosult az (1), illetve (2) bekezdésben meghatározott mértéket meghaladó kárának érvényesítésére is.
-
-(4) A munkáltató (1)–(3) bekezdés alapján keletkezett igényeinek érvényesítésére a Munka Törvénykönyve munkavállaló által okozott kár megtérítésére vonatkozó szabályai (Mt. 173. §) az irányadók.
+34–35. §
 
 36. § (1) A munkáltató a közalkalmazotti jogviszony megszűnésekor a közalkalmazott részére közalkalmazotti igazolást ad.
 
-(2) A közalkalmazotti igazolásnak – a Munka Törvénykönyve 98. § (2) bekezdésének a)–e) pontjában és (3)–(4) bekezdésében foglaltakon túlmenően – tartalmaznia kell
+(2) A közalkalmazotti igazolás tartalmazza
 
 - a) a közalkalmazott munkakörét,
-- b) a 22. § (8) bekezdés a)–c) pontjában meghatározottakat, a sor- és tartalékos katonai, valamint a polgári szolgálat és a szülési szabadság időtartamát,
-- c) minden olyan, a közalkalmazotti jogviszony megszűnésének évében munkában nem töltött időt, amely alatt a közalkalmazott átlagkereset fizetésben részesült,
-- d)
-- e) a jubileumi jutalom kifizetését és ennek időpontját,
-- f) a közalkalmazott 37. § (7) bekezdésében meghatározott, emelt összegű végkielégítésben való részesülését, továbbá
-- g) a közalkalmazotti jogviszony megszűnésének módját, és ha e törvény indokolási kötelezettséget ír elő, a megszüntetés okát. Ez utóbbiakat a közalkalmazott kérésére a közalkalmazotti igazolásból mellőzni kell.
+- b) a 22. § (8) bekezdés a)–c) pontjában meghatározottakat és a szülési szabadság időtartamát,
+- c) minden olyan, a közalkalmazotti jogviszony megszűnésének évében munkában nem töltött időt, amely alatt a közalkalmazott illetményben részesült,
+- d) a jubileumi jutalom kifizetését és ennek időpontját,
+- e) a közalkalmazott 37. § (7) bekezdésében meghatározott, emelt összegű végkielégítésben való részesülését, továbbá
+- f) a közalkalmazotti jogviszony megszűnésének módját.
 
 37. § (1) Végkielégítés illeti meg a közalkalmazottat, ha közalkalmazotti jogviszonya
 
@@ -793,7 +706,7 @@ kell megfelelően alkalmazni.
 (5) A végkielégítésre való jogosultság megállapításánál figyelembe kell venni
 
 - a) jogutódlás esetén a jogelődnél,
-- b) a munkáltató egészének vagy egy részének átadása esetén az átadó munkáltatónál munkaviszonyban, közalkalmazotti jogviszonyban töltött időt is [Mt. 86/C. § (5) bekezdés, 25/B. § (6) bekezdés].
+- b) a munkáltató egészének vagy egy részének átadása esetén az átadó munkáltatónál munkaviszonyban vagy közalkalmazotti jogviszonyban töltött időt is [25/B. § (6) bekezdés].
 
 (6) A közalkalmazott végkielégítésének mértéke, ha a közalkalmazotti jogviszonyban töltött idő legalább
 
@@ -828,43 +741,19 @@ kell megfelelően alkalmazni.
 - b) a felmentési időből hátralevő idő tekintetében átlagkeresetre nem jogosult,
 - c) végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét is számításba kell venni.
 
-37/A. § (1) A közalkalmazotti jogviszony megszüntetésekor (megszűnésekor) a közalkalmazott részére az utolsó munkában töltött napon – a 37. § (10) bekezdésében foglaltak kivételével – ki kell fizetni az illetményét, egyéb járandóságait, valamint ki kell adni a közalkalmazotti jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat. Ha az utolsó munkában töltött napon esedékes igazolások tartalma a közalkalmazotti jogviszony megszűnésének időpontjáig módosításra, illetve kiegészítésre szorul, a munkáltató köteles a módosított igazolást a közalkalmazotti jogviszony megszűnésétől számított 3 munkanapon belül kiadni.
+37/A. § (1)
 
 (2) A közalkalmazott a munkavégzési kötelezettség alóli mentesítés idejére járó átlagkeresetre havonta egyenlő részletekben jogosult.
 
-37/B. § (1) E törvény alkalmazása szempontjából a közalkalmazott akkor minősül nyugdíjasnak, ha
+37/B. §
 
-- a) az öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság),
-- b) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül,
-- c) az öregségi nyugdíjkorhatárt betöltötte, és a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban, öregségi, munkaképtelenségi járadékban, növelt összegű öregségi, munkaképtelenségi járadékban, vagy rokkantsági ellátásban részesül, vagy
-- d) a felmentésére a 30. § (1) bekezdés f) pontja alapján kerül sor.
+38. § (1) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései (X. fejezet) közül a 63–64. §, 65. § (1)–(2) bekezdés, 66. § (1)–(3) és (8)–(9) bekezdés, a 68–70. §, a 77. §, a 79. § és a 85. § nem alkalmazható.
 
-(2) A közalkalmazott akkor részesül az (1) bekezdés b) vagy c) pontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
+(2) Az (1) bekezdéstől eltérően a nemzetbiztonsági szolgálatoknál fennálló közalkalmazotti jogviszony tekintetében az Mt. 71–76. §-ának rendelkezéseit nem kell alkalmazni.
 
-(3)
+(3) A létszámcsökkentést eredményező döntést megelőzően a miniszter a 6. § (6) bekezdése szerinti ágazati (alágazati) érdekegyeztető fórumban, ennek hiányában a KOMT-ban, illetőleg az önkormányzat az önkormányzati érdekegyeztető fórumban – az érdekegyeztetésben részt vevő felekkel – tárgyalást kezdeményez.
 
-(4) A közalkalmazott köteles tájékoztatni a munkáltatót, ha az (1) bekezdés hatálya alá esik.
-
-38. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései közül (Harmadik rész, IV. fejezet) a 77/A. §, a 86–86/E. §-a, a 87. §-ának (1) bekezdése, a 87/A. §-a, a 88. §-a, a 89. §-ának (1)–(6) bekezdése, a 90. § (4) bekezdése, a 92. §-a, a 93. §-ának (1) és (2) bekezdése, a 95. és 96. §-a, a 98. §-ának (1) bekezdése, a 99–101. §-a nem alkalmazható.
-
-(2)
-
-(3) Az (1) bekezdéstől eltérően a nemzetbiztonsági szolgálatoknál fennálló közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének 94/A–94/F. §-a rendelkezéseit nem kell alkalmazni.
-
-(4) A létszámcsökkentést eredményező döntést megelőzően a miniszter az ágazati (alágazati) érdekegyeztető fórumban, az önkormányzat az önkormányzati érdekegyeztető fórumban – az érdekegyeztetésben részt vevő felekkel – tárgyalást kezdeményez.
-
-38/A. § (1) A Munka Törvénykönyve 94/A. § (1) bekezdése azzal az eltéréssel alkalmazandó, hogy csoportos létszámcsökkentésnek minősül, ha a munkáltató a működésével összefüggő ok miatt a döntést megelőző féléves átlagos statisztikai létszáma szerint
-
-- a) húsz fő vagy annál kevesebb közalkalmazott foglalkoztatása esetén legalább öt fő,
-- b) húsznál több és száznál kevesebb közalkalmazott foglalkoztatása esetén legalább tíz fő,
-- c) száz vagy annál több, de háromszáznál kevesebb közalkalmazott foglalkoztatása esetén legalább a közalkalmazottak tíz százaléka,
-- d) háromszáz vagy annál több közalkalmazott foglalkoztatása esetén legalább harminc közalkalmazott közalkalmazotti jogviszonyát kívánja harmincnapos időszakon (Munka Törvénykönyve 94/C. §) belül megszüntetni.
-
-(2) A Munka Törvénykönyve csoportos létszámcsökkentésre vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy
-
-- a) rendes felmondáson felmentést, illetve a Munka Törvénykönyve 88. §-ának (2) bekezdése szerinti munkáltatói intézkedésen az e törvény 27. §-ának (2) bekezdése által szabályozott azonnali hatályú megszüntetést kell érteni, ha ezek közlésére a 30. § (1) bekezdésének a) és b) pontja alapján kerül sor,
-- b) a Munka Törvénykönyve 94/E. §-ának (1) bekezdésében foglalt tájékoztatással egyidejűleg a munkáltató intézkedik a 30/A. § (2) bekezdésében szereplő kötelezettsége teljesítése érdekében,
-- c) a Munka Törvénykönyve 94/E. §-ának (1) bekezdésében foglalt tájékoztatást megelőzően a munkáltató intézkedik a 30/C. § (1) bekezdése b) pontja szerinti kötelezettsége teljesítésének érdekében.
+38/A. § (1)–(2)
 
 (3) A miniszter és az önkormányzat a létszámcsökkentést eredményező döntésének meghozatala előtt az ágazati (alágazati) érdekegyeztető tanácsban, illetve az önkormányzati érdekegyeztető tanácsban – az érdekegyeztetésben részt vevő felekkel – egyeztetést kezdeményez.
 
@@ -933,7 +822,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (2) A magasabb vezető, vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult közalkalmazott munkakörével, vezető megbízásával összeférhetetlen
 
-- a) ha közeli hozzátartozójával [Mt. 139. § (2) bekezdés] irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne,
+- a) ha hozzátartozójával [Mt. 294. § (1) bekezdés b) pont] irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne,
 - b) a munkáltatóéval azonos, vagy ahhoz hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság.
 
 (3) A (2) bekezdés b) pontja az egészségügyi szolgáltatónál, valamint a helyi önkormányzat által a feladatkörébe tartozó egészségügyi közszolgáltatások ellátására létesített, továbbá az egészségügyért felelős miniszter ágazati irányítási jogkörébe tartozó, egészségügyi szolgáltatást nem nyújtó költségvetési szervnél létesített közalkalmazotti jogviszonyra nem alkalmazható.
@@ -974,170 +863,27 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (3) Ha a munkáltató az összeférhetetlenségről nem az (1) bekezdés szerinti bejelentés alapján szerez tudomást, a tudomásszerzéstől számított öt munkanapon belül írásban felszólítja a közalkalmazottat az összeférhetetlenség megszüntetésére.
 
-(4) Ha a közalkalmazott az (1) bekezdés szerinti megtiltás, illetve a (3) bekezdés szerinti felszólítás kézhezvételét követő harminc napon belül az összeférhetetlenséget nem szünteti meg, a közalkalmazotti jogviszonyra a Munka Törvénykönyve 10. § (1) bekezdését kell alkalmazni.
+(4) Ha a közalkalmazott az (1) bekezdés szerinti tiltás vagy a (3) bekezdés szerinti felszólítás kézhezvételét követő harminc napon belül az összeférhetetlenséget nem szünteti meg, a munkáltató a közalkalmazotti jogviszonyt azonnali hatállyal megszünteti.
 
-(5) A (4) bekezdésben foglaltaktól eltérően, ha az összeférhetetlenség a magasabb vezető, illetve vezető beosztással összefüggésben áll fenn, és az összeférhetetlenséget a munkáltató tudomásszerzését követő felszólítás kézhezvételétől számított harminc napon belül a közalkalmazott nem szünteti meg, a munkáltató köteles a magasabb vezető, illetve vezető megbízást a Munka Törvénykönyve 10. § (1) bekezdésének megfelelő alkalmazásával visszavonni.
+(5) Az (1)–(4) bekezdésben foglaltakat kell alkalmazni a további jogviszony létesítésének megtiltására, illetve a már fennálló összeférhetetlenség jogkövetkezményeire vonatkozóan akkor is, ha az összeférhetetlenség a 41. §, valamint a 43/A–43/D. § alapján áll fenn.
 
-(6) Az (1)–(5) bekezdésben foglaltakat kell alkalmazni a további jogviszony létesítésének megtiltására, illetve a már fennálló összeférhetetlenség jogkövetkezményeire vonatkozóan akkor is, ha az összeférhetetlenség e törvény 41. §-a, valamint 43/A–43/D. §-a alapján áll fenn.
+(6)
 
-44/A. § A Munka Törvénykönyve 106. §-a (1) bekezdésének alkalmazásakor tulajdonosnak tekintendő a munkáltató fenntartója is, amely kezdeményezheti a közalkalmazott kirendelését, illetve a Munka Törvénykönyve 150. §-ának (1) bekezdése szerinti intézkedés megtételét az e törvény hatálya alá tartozó munkáltatónál történő átmeneti foglalkoztatás érdekében.
+44/A. § (1) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaszerződés teljesítésére vonatkozó rendelkezései (VIII. fejezet) közül az 57. § nem alkalmazható.
 
-### A fegyelmi felelősség
+(2) A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 106. § (1) bekezdés és 150. § (1) bekezdés alapján munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény hatálya alá tartozó munkáltatónál végez munkát.
 
-45. § (1) Fegyelmi vétséget követ el a közalkalmazott, ha a közalkalmazotti jogviszonyból eredő lényeges kötelezettségét vétkesen megszegi.
+45–51. §
 
-(2) A fegyelmi vétséget elkövető közalkalmazottal szemben kiszabható fegyelmi büntetések:
+51/A. §
 
-- a) megrovás;
-- b) az előmeneteli rendszerben történő várakozási idő legfeljebb egy évvel történő meghosszabbítása;
-- c) a jogszabály alapján adományozott címtől való megfosztás;
-- d) magasabb vezető, illetve vezető beosztás fegyelmi hatályú visszavonása, valamint
-- e) elbocsátás.
+52–53. §
 
-(3) A (2) bekezdés b)—d) pontjában foglalt büntetések közül egymás mellett több is kiszabható.
+53/A. §
 
-(4) A (2) bekezdés b)—c) pontjában foglalt büntetés végrehajtását legfeljebb egyévi próbaidőre fel lehet függeszteni. Ha a felfüggesztés ideje alatt a közalkalmazott nem követett el olyan fegyelmi vétséget, melyért jogerős fegyelmi büntetést szabtak ki, úgy kell tekinteni, mintha a fegyelmi büntetésben nem részesült volna. Ha viszont ez idő alatt elkövetett cselekmény miatt újabb jogerős büntetést szabtak ki, a felfüggesztett büntetést is végre kell hajtani.
+53/B. §
 
-(5) Az elbocsátás büntetés jogerőre emelkedésétől számított egy évig a közalkalmazott az e törvény hatálya alá tartozó munkáltatónál nem alkalmazható magasabb vezető, illetve vezető beosztásban.
-
-46. § (1) A fegyelmi eljárás megindítását – a törvény eltérő rendelkezése hiányában – a kinevezési jogkör gyakorlója, magasabb vezető és vezető beosztású közalkalmazott tekintetében a megbízásra jogosult rendeli el. Erről egyidejűleg a közalkalmazottat írásban értesíteni kell.
-
-(2) Kötelező a fegyelmi eljárás megindítása:
-
-- a) jelentős súlyú fegyelmi vétség elkövetésének alapos gyanúja esetén, továbbá
-- b) ha az eljárás lefolytatását a közalkalmazott maga ellen kéri.
-
-(3) Nem lehet fegyelmi eljárást indítani, ha
-
-- a) a fegyelmi vétség elkövetésének alapos gyanújáról való tudomásszerzéstől egy hónap, vagy
-- b) a fegyelmi vétség elkövetésétől egy év
-
-eltelt.
-
-(4) A (3) bekezdés a) pontjában meghatározott határidőt a fegyelmi eljárás megindítására jogosult tudomásszerzésétől kell számítani.
-
-(5) Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult és az nem végződött felmentéssel (az indítvány elutasításával), az egy hónapos határidő a jogerős határozatnak a munkáltatóval történt közlésétől, az egyéves határidő az eljárás jogerős befejezésétől számít. Ha a fegyelmi eljárás megindítására a munkáltatón kívüli szerv vagy személy jogosult, a munkáltató a kézhezvételtől számított öt napon belül a jogerős határozatot köteles a fegyelmi eljárás megindítására jogosult részére megküldeni.
-
-(6) Külföldön elkövetett kötelezettségszegés esetén a határidőket a közalkalmazott belföldre történő visszatérésétől kell számítani.
-
-(7) Az egyéves határidő
-
-- a) magasabb vezető beosztású közalkalmazott esetében három évre,
-- b) vezető beosztású közalkalmazott esetében két évre
-
-emelkedik.
-
-(8) Mellőzhető a fegyelmi eljárás lefolytatása – a (2) bekezdésben foglalt esetet kivéve –, ha a kötelezettségszegés csekély súlyú és a tényállás tisztázott. A közalkalmazottat ilyen esetben is meg kell hallgatni. Az ügy érdeméről a fegyelmi eljárás megindítója dönt és legfeljebb megrovás büntetés szabható ki.
-
-47. § (1) A fegyelmi eljárás során vizsgálatot kell tartani. Ennek lefolytatására a fegyelmi eljárás megindítója az eljárás megindításától számított öt napon belül, írásban vizsgálóbiztost jelöl ki a munkáltató közalkalmazottai közül. Vizsgálóbiztosnak – e törvény eltérő rendelkezése hiányában – magasabb vezető, illetve vezető beosztást betöltő, ennek hiányában az eljárás alá vontnál magasabb vagy vele azonos besorolású közalkalmazottat kell kijelölni. A magasabb vezető, illetve vezető beosztást betöltővel szemben indított fegyelmi eljárás esetén vizsgálóbiztos az eljárás alá vontnál magasabb, ennek hiányában azonos szintű vezetői beosztást betöltő közalkalmazott lehet.
-
-(2) Nem lehet vizsgálóbiztos az a közalkalmazott, akivel szemben a 49. § (3) bekezdés b)–d) pontjában meghatározott összeférhetetlenségi ok áll fenn.
-
-(3) A vizsgálóbiztos a kijelölésétől számított tizenöt napon belül köteles a vizsgálatot lefolytatni és ennek keretében a fegyelmi vétség elkövetésével alaposan gyanúsított közalkalmazottat meghallgatni. A vizsgálat időtartama indokolt esetben egy alkalommal, legfeljebb tizenöt nappal meghosszabbítható.
-
-(4) A vizsgálat során a közalkalmazottal közölni kell a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait. Módot kell részére adni, hogy azokra észrevételt tehessen és további bizonyítást javasolhasson. Lehetővé kell számára tenni, hogy az ügy iratait megtekinthesse. A közalkalmazott védekezéséről és a lefolytatott bizonyításról jegyzőkönyvet kell felvenni.
-
-(5) A közalkalmazott a vizsgálat folyamán jogi képviselőt vehet igénybe, aki rendelkezik mindazon jogosultságokkal, amelyek az eljárás alá vont személyt a (3) bekezdés alapján megilletik. A közalkalmazott meghallgatását úgy kell kitűzni, hogy azon jogi képviselője jelen lehessen.
-
-(6) Ha a közalkalmazott szóbeli meghallgatására tartós akadályoztatása miatt a vizsgálat időtartama alatt nem kerülhet sor, a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait vele írásban kell közölni és nyolcnapos határidő kitűzésével fel kell szólítani, hogy védekezését terjessze elő.
-
-(7) A vizsgálóbiztos javaslatára a fegyelmi eljárás megindítója a fegyelmi eljárást felfüggeszti
-
-- a) legfeljebb az akadály elhárultáig, ha a közalkalmazott védekezését a (6) bekezdésben meghatározottak szerint nem tudja előterjeszteni, illetve
-- b) ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult, legfeljebb annak jogerős befejezéséig, feltéve, hogy enélkül a tényállás nem tisztázható.
-
-(8) A vizsgálóbiztos a vizsgálat lezártától számított nyolc napon belül köteles megküldeni az ügy összes iratait saját véleményével ellátva a munkáltatói jogkör gyakorlójának.
-
-48. § (1) A vizsgálóbiztos javaslatára a fegyelmi eljárás megindítója a fegyelmi eljárás alá vont közalkalmazottat a fegyelmi eljárás befejezéséig állásából felfüggesztheti, ha
-
-- a) jelenléte a tényállás tisztázását gátolná, vagy
-- b) a kötelezettségszegés súlya és jellege a munkahelytől való távoltartást indokolja, továbbá
-- c) a fegyelmi eljárást a 47. § (7) bekezdésének b) pontja alapján függesztették fel.
-
-(2)
-
-(3) Azonnal meg kell szüntetni a felfüggesztést, ha annak indoka már nem áll fenn.
-
-(4) A felfüggesztés idejére távolléti díj jár, ennek azonban legfeljebb ötven százalékát a felfüggesztés megszüntetéséig vissza lehet tartani.
-
-(5) A visszatartott összeget a fegyelmi határozat jogerőre emelkedése után ki kell fizetni. Ha pedig a közalkalmazott a 45. § (2) bekezdésének c), d) pontja alapján illetménypótlékra való jogosultságát elvesztette, a visszatartott összeget ezen pótlékok levonásával kell kifizetni.
-
-49. § (1) Az ügy érdemében háromtagú fegyelmi tanács határoz.
-
-(2) A fegyelmi tanács elnöke a fegyelmi eljárás megindítója, aki ezt a jogkörét a munkáltatónak az eljárás alá vont
-
-- a) magasabb vezetői, illetve vezetői beosztást betöltő közalkalmazott esetén magasabb vagy azzal azonos szintű vezetői beosztást,
-- b) az a) pontba nem tartozó közalkalmazott esetén magasabb vezető vagy vezető beosztást, betöltő közalkalmazottra ruházhatja át. A fegyelmi tanács tagjait a fegyelmi tanács elnöke a munkáltatónak a 47. § (1) bekezdésében foglaltaknak megfelelő közalkalmazottai közül jelöli ki.
-
-(3) A fegyelmi tanács eljárásában és döntéshozatalában tagként, illetve jegyzőkönyvvezetőként nem vehet részt:
-
-- a) az ügy vizsgálóbiztosa;
-- b) az eljárás alá vont közalkalmazott közeli hozzátartozója [Munka Törvénykönyve 139. § (2) bekezdése],
-- c) akit a vizsgálat során mint tanút vagy szakértőt meghallgattak, valamint
-- d) akitől egyébként az ügy elfogulatlan elbírálása nem várható el.
-
-(4) Ha a fegyelmi eljárás megindítására a munkáltatón kívüli szerv vagy személy jogosult, a (2) bekezdés első mondata nem alkalmazható.
-
-50. § (1) A fegyelmi tanács a vizsgálóbiztos előterjesztésétől számított tizenöt napon belül tárgyalást tart. A fegyelmi tanács tárgyalását úgy kell kitűzni, hogy arról a felek az értesítést a tárgyalás előtt legalább három munkanappal megkapják.
-
-(2) A tárgyaláson a munkáltatót az ügy vizsgálóbiztosa képviseli, a közalkalmazott jogi képviselőt is igénybe vehet. A tárgyalás nyilvános. A fegyelmi tanács azonban a minősített adat megőrzése érdekében, valamint a fegyelmi eljárás alá vont kérelmére zárt tárgyalást köteles elrendelni.
-
-(3) Ha valamelyik fél, vagy képviselője a tárgyaláson nem jelenik meg, tárgyalást tartani és az ügyet érdemben elbírálni csak akkor lehet, ha a felet és a képviselőjét szabályszerűen értesítették. Elbírálható az ügy, ha a vizsgálóbiztos, a közalkalmazott vagy képviselője bejelentette, hogy a tárgyaláson nem kíván részt venni.
-
-(4) A fegyelmi tanács a tényállás tisztázása céljából bizonyítási eljárást folytathat le, ennek keretében különösen tanúkat hallgathat ki, iratokat szerezhet be, szakértőt vehet igénybe, szemlét tarthat.
-
-(5) Amennyiben az ügy a tárgyaláson nem volt tisztázható, további nyolc napon belül újabb tárgyalást kell tartani.
-
-51. § (1) A fegyelmi tanács az első tárgyalástól számított legkésőbb harminc napon belül zárt ülésen, szótöbbséggel határoz, döntését indokolt írásbeli határozatba foglalja. Felmentő határozatot kell hozni, ha az eljárás alá vont a terhére rótt fegyelmi vétséget nem követte el. Az eljárást megszüntető határozatot kell hozni az 51/A. §-ban foglaltak esetén, továbbá, ha nem bizonyítható, hogy az eljárás alá vont a fegyelmi vétséget elkövette.
-
-(2) Nem kell fegyelmi büntetést kiszabni, ha a körülményekre tekintettel a legenyhébb fegyelmi büntetés kiszabása is indokolatlan.
-
-(3) A közalkalmazott a határozat ellen a kézbesítéstől számított tizenöt napon belül bírósághoz fordulhat.
-
-(4) A közalkalmazottnak a fegyelmi eljárással kapcsolatos költségeit a munkáltató köteles megtéríteni, ha a fegyelmi felelősség jogerős megállapítására nem kerül sor.
-
-51/A. § (1) Meg kell szüntetni a fegyelmi eljárást, ha
-
-- a) annak tartama alatt a közalkalmazotti jogviszony megszűnik;
-- b) a fegyelmi eljárás megindítására a 46. § (3)–(7) bekezdésében meghatározott határidő után kerül sor.
-
-(2) A 47. § (1) bekezdése szerinti vizsgálat tartama alatt a fegyelmi eljárás megszüntetéséről a fegyelmi eljárás megindítója, egyébként a fegyelmi tanács határoz.
-
-52. § (1) A fegyelmi határozatot az ellene benyújtott kereset jogerős elbírálásáig végrehajtani nem szabad. Ha azonban a közalkalmazott a kereset benyújtására nyitva álló határidő eltelte vagy a kereset jogerős elbírálása előtt a közalkalmazotti jogviszonyát megszünteti, a határozat végrehajthatóvá válik. Ettől eltérően, az elbocsátás fegyelmi büntetésről és a magasabb vezető, illetve vezető beosztás visszavonásáról szóló határozat végrehajtására az ellene benyújtott keresetnek nincs halasztó hatálya.
-
-(2)
-
-(3) Ha a közalkalmazotti jogviszony a 45. § (2) bekezdés b) pontjában meghatározott, jogerősen kiszabott fegyelmi büntetés végrehajtása előtt, vagy annak végrehajtása közben megszűnik, a büntetést vagy annak hátralevő időtartamát e törvény hatálya alá tartozó munkáltatónál végre kell hajtani, feltéve, ha a büntetés végrehajthatóságától számított egy éven belül a közalkalmazott e munkáltatónál közalkalmazotti jogviszonyt létesít.
-
-53. § (1) Ha a fegyelmi eljáráshoz a 47. § (1) bekezdésében és a 49. § (2) és (3) bekezdésében előírt személyi feltételek a munkáltatónál nem biztosíthatók, a munkáltató kérésére a vizsgálóbiztost, valamint a fegyelmi tanács tagjait a munkáltató fenntartója jelöli ki az ügyben elfogulatlan,
-
-- a) a fegyelmi eljárás alá vontnál magasabb vagy vele azonos vezetői beosztású, ennek hiányában a fegyelmi eljárás alá vonttal legalább azonos besorolású közalkalmazottai,
-- b) ha a fenntartó nem e törvény hatálya alá tartozik, saját tagjai, illetve a fegyelmi eljárás alá vonttal legalább azonos szintű iskolai végzettségű alkalmazottai
-
-közül.
-
-(2) Ha a Magyar Honvédségnél, valamint a rendvédelmi szervnél foglalkoztatott közalkalmazott fegyelmi ügyében a 47. § (1) bekezdésében, valamint a 49. § (2)–(3) bekezdésében meghatározott feltétel a munkáltató közalkalmazottai közül nem biztosítható, vizsgálóbiztosként, valamint a fegyelmi tanács tagjaként a fegyveres, illetve a rendvédelmi szervnek a fegyelmi eljárás alá vonttal legalább azonos szintű iskolai végzettséggel rendelkező hivatásos állományú tagja is kijelölhető.
-
-(3) A (2) bekezdésben előírt feltételek hiányában a fegyveres, valamint a rendvédelmi szervnél foglalkoztatott közalkalmazott fegyelmi ügyében is az (1) bekezdés rendelkezéseit kell alkalmazni.
-
-### A helyi önkormányzat képviselő-testülete (közgyűlése) által, valamint a munkáltató vezetője ellen indított fegyelmi eljárásra vonatkozó egyes eltérő szabályok
-
-53/A. § (1) A helyi önkormányzat képviselő-testülete (közgyűlése), vagy a fővárosi önkormányzat bizottsága, a főpolgármester által megbízott magasabb vezető, illetve vezető beosztású közalkalmazott fegyelmi ügyében a fegyelmi tanács feladatainak ellátása és a fegyelmi büntetés kiszabása a képviselő-testület (közgyűlés) hatáskörébe tartozik.
-
-(2) Az (1) bekezdés szerinti esetben a 46. § (3) bekezdésének a) pontjában megállapított határidőt a polgármester (főpolgármester), illetve a megyei közgyűlés elnöke tudomásszerzésétől kell számítani.
-
-53/B. § Törvény eltérő rendelkezése hiányában a munkáltató vezetője – ide nem értve az 53/A. §-ban említett vezetőket – elleni fegyelmi eljárást a kinevezési jogkör gyakorlója, illetve a magasabb vezetői vagy vezetői megbízást adományozó személy vagy szervezet, illetve testület vezetője (a továbbiakban: kinevező) köteles megindítani és lefolytatni azzal, hogy a vizsgálóbiztost, a fegyelmi tanács tagjait és elnökét az ügyben elfogulatlan, a kinevezőnek
-
-- a) a fegyelmi eljárás alá vontnál magasabb vagy vele azonos vezetői beosztású, illetve besorolású, ennek hiányában a fegyelmi eljárás alá vontnál magasabb vagy vele legalább azonos besorolású közalkalmazottai,
-- b) az a) pontban foglaltak hiányában saját tagjai, illetve a fegyelmi eljárás alá vonttal legalább azonos szintű iskolai végzettségű alkalmazottai közül kell kijelölnie.
-
-54. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkavégzésről és a tanulmányi szerződésről szóló szabályai közül (Harmadik rész, V. fejezet) a 106/A–106/B. §-nak, valamint a 108–109. §-nak a rendelkezései nem alkalmazhatók.
-
-(2) A Munka Törvénykönyve 106. §-ának az (1) bekezdése azzal az eltéréssel alkalmazandó, hogy a közalkalmazott kirendelésére akkor kerülhet sor, ha a kirendelés alapján a közalkalmazott az e törvény, vagy a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál végez munkát.
-
-(3) A Munka Törvénykönyve Harmadik részének XI. fejezetét azzal az eltéréssel kell alkalmazni, hogy kölcsönzés keretében munkavállaló közvetlenül a munkáltató alaptevékenysége körében nem foglalkoztatható. Végrehajtási rendelet meghatározhatja, hogy a kölcsönzés szempontjából a munkáltató mely tevékenysége minősül alaptevékenységnek.
-
-(4)
+54. §
 
 54/A. §
 
@@ -1182,13 +928,10 @@ alapszabadság illeti meg.
 
 58/A. § A közalkalmazottnak – kérelmére – a külszolgálat időtartamára fizetés nélküli szabadságot kell engedélyezni, ha a közalkalmazott házastársa külszolgálatot teljesít.
 
-59. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkaidőről és a pihenőidőről szóló rendelkezései közül (Harmadik rész, VI. fejezet) a 117/A. § (1) bekezdése, a 117/B. § (2) bekezdése, a (3) bekezdésének b) pontja és a (4) bekezdése, a 117/C. §-a, a 131. §-a, valamint a 132. § (4)–(6) bekezdése nem alkalmazható.
+59. § A közalkalmazotti jogviszony tekintetében
 
-(2)
-
-(3) A Munka Törvénykönyve 134. § (4) bekezdésétől eltérően a munkáltató a közalkalmazott kérése nélkül kettőnél több, legfeljebb négy részletben is kiadhatja a szabadságot az 57. § (3) bekezdés szerinti pótszabadságra jogosító munkakört betöltő közalkalmazott esetében.
-
-(4)–(5)
+- a) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény munka- és pihenőidőről szóló rendelkezései közül a 131. § és a 132. § (4)–(6) bekezdés,
+- b) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. fejezet) közül a 92. § (4) bekezdés és a 135. § nem alkalmazható.
 
 ### V. Fejezet — A közalkalmazottakelőmeneteli és illetményrendszere
 
@@ -1353,10 +1096,7 @@ alapszabadság illeti meg.
 
 (3) A (2) bekezdéstől eltérően, ha jogszabály az illetménypótlék mértékének alsó és felső határát egyaránt meghatározza, e felső határnál magasabb mértékű illetménypótlékot a kollektív szerződés sem állapíthat meg.
 
-76. § Nem jár rendkívüli munkaidőben végzett munkáért díjazás
-
-- a)
-- b) az olyan munkakört betöltő közalkalmazottnak, aki a munkaideje beosztását, illetve felhasználását maga határozza meg.
+76. §
 
 77. § (1) A közalkalmazottat a munkáltató meghatározott munkateljesítmény eléréséért, illetve átmeneti többletfeladatok – ide nem értve az átirányítást – teljesítéséért a megállapított személyi juttatások előirányzatán belül egyszeri vagy meghatározott időre szóló, havi rendszerességgel fizetett keresetkiegészítésben részesítheti.
 
@@ -1391,7 +1131,7 @@ alapszabadság illeti meg.
 - a) határozatlan időre létesített közalkalmazotti jogviszonyt;
 - b) legalább hároméves közalkalmazotti jogviszonnyal rendelkezik;
 - c) felmentési vagy lemondási idejét nem tölti;
-- d) ellene nem folyik fegyelmi eljárás, vagy
+- d)
 - e) nem áll – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – büntetőeljárás hatálya alatt, és
 - f) az (1) bekezdés szerinti kezességvállalással biztosított hitelrészt a hitelintézetnek kiegyenlítette, illetve a vele közös háztartásban élő házas vagy élettárs – az igénylés időpontjában – állami kezességvállalással biztosított lakáscélú hitel törlesztésére nem kötelezett;
 - g) a kölcsönt nyújtó hitelintézet belső szabályai szerint – saját, illetve adóstársa jövedelmi helyzetét is figyelembe véve – a kölcsön teljes összegére vonatkozóan hitelképesnek bizonyul.
@@ -1456,39 +1196,39 @@ alapszabadság illeti meg.
 
 79/E. § A felsőoktatási intézményben oktatói munkakört, valamint a tudományos kutatói munkakört betöltő közalkalmazottak garantált illetményét e törvény 2. számú melléklete szerint kell meghatározni az egyetemi tanári munkakör 1. fizetési fokozata garantált illetményének költségvetési törvényben rögzített összege százalékos arányában.
 
-80. § (1) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munka díjazására vonatkozó szabályai (Harmadik rész, VII. fejezet) közül a 142. §, a 143–143/A. §, a 144. § (6) bekezdése, a 147. § (6)–(7) bekezdése, a 154. § (1) bekezdésének utolsó két mondata, a 154. § (2) bekezdése, a 155. § (2) bekezdése nem alkalmazható.
+80. § (1) A közalkalmazotti jogviszony tekintetében az Mt. munkabérre vonatkozó rendelkezései (XII. fejezet) közül a 136–138. §, 145. §, 156. §, 157. § (2) bekezdés, 159. § és a 165. § nem alkalmazható.
 
-(2) A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyve 147. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a napi munkaidőt, illetve a munkaidőkeretet meghaladóan végzett munka ellenértékeként szabadidőt csak a kollektív szerződés állapíthat meg.
+(2) A távolléti díjat a 70–75. § szerinti bérpótlék figyelembe vételével kell megállapítani. A távolléti díj számítására a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 151/A. §-át kell alkalmazni.
+
+(3) A közalkalmazotti jogviszony tekintetében az Mt. 143. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendkívüli munkaidő ellenértékeként szabadidőt csak kollektív szerződés állapíthat meg.
 
 ### VI. Fejezet — A közalkalmazott és a munkáltató kártérítési felelőssége
 
-81. § Gondatlan károkozás esetén a közalkalmazott hathavi illetménye erejéig felel, amennyiben
+81. § Az Mt. 179. § (3) bekezdése alkalmazásában súlyosan gondatlannak minősül a károkozás különösen, ha
 
-- a) a munkáltató gazdálkodására vonatkozó szabályok súlyos megsértésével,
-- b) az ellenőrzési kötelezettség elmulasztásával, illetve hiányos teljesítésével okozta a kárt, vagy
-- c) a kár olyan — jogszabályba ütköző — utasítása teljesítéséből keletkezett, amelynek várható következményeire az utasított közalkalmazott előzőleg a figyelmét felhívta.
+- a) a közalkalmazott
+  - aa) a munkáltató gazdálkodására vonatkozó szabály – szándékosságnak nem minősülő – súlyos megsértésével, vagy
+  - ab) az ellenőrzési kötelezettség elmulasztásával, illetve hiányos teljesítésével
 
-81/A. § (1) A magasabb vezető a vezetői tevékenységének keretében gondatlanul okozott károkért teljes mértékben felel.
+okozta a kárt, vagy
 
-(2) A magasabb vezető által a vezetői tevékenység keretében szándékosan okozott kárért, illetve a nem vezetői tevékenysége keretében okozott kár megtérítésével kapcsolatban az általános kárfelelősségi szabályok (Munka Törvénykönyve Harmadik rész, VIII. fejezet) az irányadóak azzal az eltéréssel, hogy gondatlan károkozás esetén a felelősség mértéke a vezető hathavi átlagkeresetéig terjedhet.
+- b) a kár olyan – jogszabályba ütköző – utasítás teljesítéséből keletkezett, amelynek várható következményeire az utasított közalkalmazott előzőleg a figyelmet felhívta.
 
-(3) Ha a magasabb vezető a közalkalmazotti jogviszonyát jogellenesen szünteti meg – a 35. § (1) bekezdésétől eltérően – hathavi átlagkeresetével felel.
+81/A. §
 
-82. § Amennyiben a kollektív szerződés lehetővé teszi, hogy a munkáltató a közalkalmazottat közvetlenül kártérítésre kötelezze, és a felelősségről történő döntésig a közalkalmazotti jogviszony fennáll, a felelősség megállapítására a fegyelmi eljárás szabályait azzal az eltéréssel kell alkalmazni, hogy az eljárás megindítására az elévülésre vonatkozó rendelkezések az irányadók.
+82. § (1) A magasabb vezető a vezetői tevékenységének keretében gondatlanul okozott kárért teljes mértékben felel.
 
-83. § A közalkalmazotti jogviszony tekintetében a Munka Törvénykönyvének a munkavállaló és a munkáltató kártérítési felelősségéről szóló rendelkezései közül (Harmadik rész, VIII—IX. fejezet) a 167. § (2)—(3) bekezdése, a 173. § (2) bekezdésének második mondata és a 175. § nem alkalmazható.
+(2) Amennyiben a magasabb vezető a közalkalmazotti jogviszonyát jogellenesen szünteti meg, hathavi távolléti díjával felel.
+
+83. § (1) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkáltató és a munkavállaló kártérítési felelősségére szóló rendelkezései (XIII. és XIV. fejezet) közül a 178. § és a 191. § nem alkalmazható.
+
+(2) A cselekvőképtelen közalkalmazott esetén a 81–82. § nem alkalmazható.
 
 ### VII. Fejezet — Az önkormányzattal közalkalmazotti jogviszonyban állókra vonatkozó eltérő szabályok
 
-83/A. § (1) Az önkormányzattal közalkalmazotti jogviszonyban állók esetében – a helyi önkormányzatokról szóló 1990. évi LXV. törvény eltérő rendelkezése hiányában – a kinevezés és felmentés, a fegyelmi eljárás megindítása, a fegyelmi büntetés kiszabása és az állásból való felfüggesztés a képviselő-testület kizárólagos hatáskörébe tartozik, az egyéb munkáltatói jogokat a polgármester gyakorolja.
+83/A. § (1) Az önkormányzattal közalkalmazotti jogviszonyban álló esetében – a helyi önkormányzatokról szóló törvény eltérő rendelkezése hiányában – a kinevezés és a felmentés a képviselő-testület kizárólagos hatáskörébe tartozik, az egyéb munkáltatói jogokat pedig a polgármester gyakorolja.
 
-(2) A fegyelmi felelősségre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a 46. § (3) bekezdés a) pontjában és (5) bekezdésében megállapított határidőket a polgármester tudomásszerzésétől kell számítani, a fegyelmi tanács tagjait és a vizsgálóbiztost a képviselő-testület saját tagjai közül jelöli ki.
-
-(3) Ha a fegyelmi eljáráshoz szükséges személyi feltételek – a képviselő-testület létszáma vagy összeférhetetlenség folytán – a képviselő-testület tagjai közül nem biztosíthatók, a fegyelmi tanács tagjait és a vizsgálóbiztost a képviselő-testület a polgármesteri hivatalnak a fegyelmi eljárás alá vontnál magasabb besorolású, ennek hiányában a fegyelmi eljárás alá vonttal legalább azonos szintű iskolai végzettségű alkalmazottai közül jelöli ki.
-
-(4) Ha a vizsgálóbiztos kijelölése a (3) bekezdésben foglaltak alkalmazásával sem lehetséges, a képviselő-testület a vizsgálóbiztosi feladatok ellátására a fegyelmi eljárás alá vonttal legalább azonos szintű iskolai végzettségű független személyt kérhet fel.
-
-(5) Az (1) bekezdés szerinti esetben a 14–19. §, a 22/B. §, a 23. §, az 53/A. §, valamint az 54/A. § nem alkalmazható.
+(2) Az önkormányzattal közalkalmazotti jogviszonyban álló esetében a 15. §, a 18–19. §, a 22/B. § és a 23. § nem alkalmazható.
 
 ### VIII. Fejezet — A közalkalmazott nyilvántartás
 
@@ -1505,7 +1245,7 @@ alapszabadság illeti meg.
 - a) a közalkalmazott felettese,
 - b) a minősítést végző vezető,
 - c) feladatkörének keretei között a törvényességi ellenőrzést végző szerv,
-- d) a fegyelmi eljárást lefolytató testület vagy személy,
+- d)
 - e) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
 - f) a közalkalmazott ellen indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
 - g) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül,
@@ -1520,7 +1260,7 @@ alapszabadság illeti meg.
 85. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
 - a) a KOMT-ban történt egyeztetést követően a reprezentativitás feltételei igazolásának rendjét,
-- b) a közalkalmazotti pályázatnak, illetve álláshirdetésnek a Kormányzati Személyügyi Szolgáltató és Közigazgatási Képzési Központ internetes oldalán való közzétételére vonatkozó részletes szabályokat,
+- b) a közalkalmazotti pályázatnak, illetve álláshirdetésnek a személyügyi központ internetes oldalán való közzétételére vonatkozó részletes szabályokat,
 - c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő közalkalmazottak kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, a művészeti, a közművelődési és a közgyűjteményi, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
@@ -1702,9 +1442,7 @@ eltöltött időt.
 
 (5) Ha a közalkalmazotti jogviszony megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
-88. § (1) E törvény hatálybalépésekor folyamatban lévő fegyelmi eljárást e törvény szabályai szerint kell lefolytatni, a fegyelmi határozattal összefüggő munkaügyi pert pedig meg kell szüntetni, és a munkáltató a megszüntetésről szóló határozat kézbesítésétől számított harminc napon belül indíthatja meg a fegyelmi eljárást.
-
-(2) Amennyiben a fegyelmi határozatban nem elbocsátás büntetés került kiszabásra, az újabb fegyelmi eljárásban sem szabható ki ez a büntetés.
+88. §
 
 89. § (1) E törvénynek a közalkalmazottak illetmény-előmenetelére vonatkozó rendelkezését 1994. január 1-jétől kell alkalmazni. A közalkalmazott illetménye a megállapítást megelőző személyi alapbérénél nem lehet alacsonyabb mértékű.
 
@@ -1719,7 +1457,13 @@ eltöltött időt.
 
 (2) Az (1) bekezdés nem alkalmazható, ha a vezetői megbízás mellett ellátandó munkakört külön jogszabály alapján csak felsőfokú végzettséggel lehet betölteni.
 
-91. § Az e törvénynek a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvénnyel (a továbbiakban: Módtv.) megállapított 25/E. §-át a Módtv. hatálybalépésekor folyamatban lévő ügyekben akkor kell alkalmazni, ha az alapító szerv a költségvetési szervként működő többcélú intézmény átalakítására, illetve megszüntetésére irányuló, az államháztartásról szóló 2011. évi CXCV. törvény szerinti döntését meghozta és a Módtv. hatálybalépésekor a költségvetési szerv megszüntetésére még nem került sor.
+91. § (1) A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény (a továbbiakban: Mth.) 2–18. §-át a közalkalmazotti jogviszony tekintetében is megfelelően alkalmazni kell.
+
+(2) A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 76. § (4) bekezdése szerinti kedvezőbb feltételt megállapító kinevezésre a közalkalmazott kinevezésének időpontjában hatályos rendelkezések az irányadók.
+
+(3) Az Mth. hatálybalépésekor folyamatban lévő fegyelmi eljárás megszűnik.
+
+(4) Az Mth. hatálybalépését megelőzően elkövetett, fegyelmi eljárás tárgyát képező kötelezettségszegés miatt – feltéve, hogy az Mt. 78. § (2) bekezdésében megjelölt határidő még nem telt el – az Mt. 56. § (4) bekezdés szerinti intézkedés vagy azonnali hatályú felmentés 2012. július 15. napjáig közölhető.
 
 92. § (1)
 
@@ -1932,7 +1676,7 @@ V.
 
 – a minősítések időpontja és tartalma
 
-– hatályos fegyelmi büntetése
+–
 
 VI.
 

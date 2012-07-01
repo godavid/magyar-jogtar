@@ -587,6 +587,8 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (4) A Honvédség szállítóeszközei és műszaki munkagépei – a rendszeresített harcjárművek és a fegyverzet kivételével – kérelemre, a honvédelemért felelős miniszter engedélyével, megállapodás alapján, térítés ellenében, ideiglenesen átengedhetők.
 
+(5) A készenlét fokozása érdekében, a Honvédség szállítóeszközei, műszaki munkagépei, rendszeresített harcjárművei és fegyverzete a honvédelemért felelős miniszter engedélyével, a Honvéd Vezérkar főnöke és a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) főigazgatója által meghatározottak szerint kerülnek biztosításra a KNBSZ számára.
+
 ### V. Fejezet — A HONVÉDSÉG SZERVEZETE
 
 #### 23. A szervezeti felépítés
@@ -934,7 +936,9 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 #### 41. A katonai jelképek és jelzések
 
-63. § (1) Katonai jelképek: a csapatzászló, a zászlószalag, a hadilobogó, az árbocszalag, a történelmi zászlósor és a felségjel.
+63. § (1) Katonai jelképek: a Honvédség főparancsnokának lobogója, a csapatzászló, a zászlószalag, a hadilobogó, az árbocszalag, a történelmi zászlósor és a felségjel.
+
+(1a) A Honvédség főparancsnokának lobogója a köztársasági elnök által használt címert a csapatzászló elemeivel ötvözi.
 
 (2) A csapatzászlóra elismerésként ünnepélyes alkalmakkor a honvédelemért felelős miniszter vagy a Honvéd Vezérkar főnöke zászlószalagot köthet.
 
@@ -1254,7 +1258,7 @@ rendelheti el.
 - l) az egészségügyért felelős miniszter egyetértésével a hadkötelesek katonai szolgálatra való alkalmassága elbírálásának, felülvizsgálatának rendjét,
 - m) a külföldi katonai szolgálat esetén a rangidős nemzeti képviselőt megillető jogköröket,
 - n) a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei megállapításának szakmai szabályait, valamint a honvédelmi hatósági-szakhatósági eljárások díjait,
-- o) a katonai jelképek leírását, adományozását és használatát.
+- o) a katonai jelképek tartalmi elemeit, leírását, az adományozásukra és használatukra vonatkozó szabályokat.
 
 (3) Felhatalmazást kapnak a miniszterek, hogy feladatkörükben eljárva a honvédelemért felelős miniszterrel egyetértésben, rendeletben határozzák meg ágazatuk honvédelmi feladatait, valamint az országos jelentőségű termelési, ellátási szolgáltatások, az infrastrukturális hálózatok előkészítésének és igénybevételének anyagi jogi szabályait.
 

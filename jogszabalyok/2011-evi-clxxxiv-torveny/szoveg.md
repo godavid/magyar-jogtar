@@ -38,7 +38,7 @@ a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról 
 
 (3) Hatályát veszti a Hszt.
 
-- a)
+- a) 341/E. §-a,
 - b)
 - c)
 

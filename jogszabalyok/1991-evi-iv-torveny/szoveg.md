@@ -133,7 +133,7 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 (3) Az állami foglalkoztatási szerv a (2) bekezdés a)–b) pontjában meghatározott munkaerőpiaci szolgáltatást a (4) bekezdés szerinti jogszabályban meghatározott feltételekkel az alábbiak szerint biztosítja:
 
 - a) pályázati eljárás eredményeként támogatást nyújt, vagy
-- b) a 41. § (3)–(4) bekezdése szerinti uniós források bevonásával megvalósuló programok esetében a 2003. évi CXXIX. törvény rendelkezései alapján, közbeszerzési eljárás keretében vásárol.
+- b) a 41. § (3)–(4) bekezdése szerinti uniós források bevonásával megvalósuló programok esetében a 2011. évi CVIII. törvény rendelkezései alapján, közbeszerzési eljárás keretében vásárol.
 
 (4) Felhatalmazást kap a
 
@@ -204,7 +204,7 @@ adható.
 16. § (1) A munkaadó részére külön jogszabályban meghatározott hátrányos helyzetű személy munkaviszony keretében történő foglalkoztatásához a munkabér és járuléka legfeljebb ötven százalékának, megváltozott munkaképességű személy esetében legfeljebb hatvan százalékának megfelelő összegű támogatás nyújtható, ha a munkaadó
 
 - a) a foglalkoztatást legalább a támogatás folyósításának időtartama alatt vállalja, és
-- b) a támogatás iránti kérelem benyújtását megelőző tizenkét hónapban a munkavállaló munkaviszonyát a működési körében felmerülő okból rendes felmondással nem szüntette meg, és
+- b) a támogatás iránti kérelem benyújtását megelőző tizenkét hónapban a munkavállaló munkaviszonyát a működési körében felmerülő okból felmondással nem szüntette meg, és
 - c) kötelezettséget vállal arra, hogy a b) pont szerinti munkaviszony megszüntetésére a támogatás folyósításának időtartama alatt sem kerül sor.
 
 (2) Az (1) bekezdésben meghatározott támogatás legfeljebb egyévi időtartamra, a legalább huszonnégy hónapja álláskeresőként nyilvántartott személy foglalkoztatásához legfeljebb kétévi időtartamra nyújtható.
@@ -329,9 +329,9 @@ adható.
 
 (4) Az (1) bekezdés b) pontjában meghatározott jogosultsági idő időtartamába nem számítható be a fizetés nélküli szabadság harminc napot meghaladó időtartama, kivéve, ha annak igénybevételére
 
-- a) háromévesnél – ha a munkavállaló a gyermek gondozása céljából gyermekgondozási segélyben részesül, tizennégy évesnél – fiatalabb gyermek gondozása, vagy tizenkét évesnél fiatalabb beteg gyermek otthoni ápolása [a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 138. § (5) bek.], valamint
-- b) közeli hozzátartozó ápolása [Mt. 139. § (1) bek.], továbbá
-- c) saját részére magánerőből lakás építése [Mt. 140. § (1) bek.]
+- a) háromévesnél – ha a munkavállaló a gyermek gondozása céljából gyermekgondozási segélyben részesül, tizennégy évesnél – fiatalabb gyermek gondozása, vagy tizenkét évesnél fiatalabb beteg gyermek otthoni ápolása [a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. § és 130. §], valamint
+- b) közeli hozzátartozó ápolása [Mt. 131. § (1) és (2) bekezdése], továbbá
+- c)
 - d) önkéntes tartalékos katonai tényleges szolgálatteljesítés
 
 miatt kerül sor.
@@ -404,7 +404,7 @@ időtartamával.
 - a) kéri,
 - b) álláskeresési járadékban részesül, és törlik a nyilvántartásból,
 - c) megváltozott munkaképességű személyek ellátására válik jogosulttá,
-- d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatási jogviszonyban foglalkoztatottakat,
+- d) kereső tevékenységet folytat, kivéve a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatásnak minősülő munkaviszonyban foglalkoztatottakat,
 - e) olyan képzési lehetőséget fogad el, amelynek során a mindenkori kötelező legkisebb munkabér összegét elérő rendszeres támogatásban részesül,
 - f) oktatási intézmény nappali tagozatán folytat tanulmányokat,
 - g) meghalt,
@@ -485,13 +485,13 @@ időtartamával.
 
 (2) Az (1) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett ellátást akkor lehet visszakövetelni, ha a jogalap nélküli kifizetést az ellátásra jogosult vétkes magatartása idézte elő.
 
-(3) Ha a munkanélküli ellátásban részesülő személy mezőgazdasági őstermelőként folytat kereső tevékenységet, köteles az adóévben felvett munkanélküli ellátást visszafizetni.
+(3) Ha az álláskeresési ellátásban részesülő személy mezőgazdasági őstermelőként folytat kereső tevékenységet, köteles az adóévben felvett álláskeresési ellátást visszafizetni.
 
-(4) Az, aki az álláskereső halálát követően a munkanélküli ellátást jogalap nélkül vette fel, köteles azt visszafizetni.
+(4) Az, aki az álláskereső halálát követően a álláskeresési ellátást jogalap nélkül vette fel, köteles azt visszafizetni.
 
 (5) Az állami foglalkoztatási szerv vezetője – erre irányuló kérelem esetén – különös méltánylást érdemlő esetben dönthet a jogalap nélkül felvett és visszakövetelt munkanélküli ellátás visszafizetésének részben vagy egészben történő elengedéséről.
 
-(6) Ha a bíróság jogerősen megállapította, hogy a munkaadó a munkavállaló munkaviszonyát jogellenesen szüntette meg, a munkaadó köteles a bíróság határozatának jogerőre emelkedéséig az érintett részére kifizetett munkanélküli járadék és annak járulékai összegét a Nemzeti Foglalkoztatási Alap szolidaritási alaprészébe befizetni. A bíróság a jogerős határozatot az állami foglalkoztatási szervnek megküldi, amely ennek alapján határoz.
+(6) Ha a bíróság jogerősen megállapította, hogy a munkaadó a munkavállaló munkaviszonyát jogellenesen szüntette meg, a munkaadó köteles a bíróság határozatának jogerőre emelkedéséig az érintett részére kifizetett álláskeresési ellátás és annak járulékai összegét a Nemzeti Foglalkoztatási Alap szolidaritási alaprészébe befizetni. A bíróság a jogerős határozatot az állami foglalkoztatási szervnek megküldi, amely ennek alapján határoz.
 
 (7) Az (5) bekezdésben meghatározott méltányosság szempontjából a 21. § (6) bekezdésében foglaltakat kell figyelembe venni.
 
@@ -720,13 +720,13 @@ időtartamával.
 
 #### 51. §
 
-51/A. § (1) Az állami foglalkoztatási szerv és a települési önkormányzat megállapodhat a munkanélküli járadékban, pályakezdők munkanélküli segélyében részesülő álláskeresők ellenőrzéséről. A megállapodás alapján a települési önkormányzat jegyzője (a továbbiakban: jegyző) hatósági ellenőrzést végez arra vonatkozóan, hogy az önkormányzat területén állandó vagy ideiglenes lakóhellyel rendelkező, munkanélküli járadékban, pályakezdők munkanélküli segélyében részesülő álláskereső folytat-e e törvénybe ütköző kereső tevékenységet.
+51/A. § (1) Az állami foglalkoztatási szerv és a települési önkormányzat megállapodhat az álláskeresési ellátásban részesülő álláskeresők ellenőrzéséről. A megállapodás alapján a települési önkormányzat jegyzője (a továbbiakban: jegyző) hatósági ellenőrzést végez arra vonatkozóan, hogy az önkormányzat területén állandó vagy ideiglenes lakóhellyel rendelkező, álláskeresési ellátásban részesülő álláskereső folytat-e e törvénybe ütköző kereső tevékenységet.
 
 (2) Megállapodás esetén az (1) bekezdésben meghatározott ellátásban részesülő, az önkormányzat területén állandó vagy ideiglenes lakóhellyel rendelkező álláskeresőkről az állami foglalkoztatási szerv tájékoztatja a jegyzőt.
 
 (3) A jegyző az (1) bekezdésben meghatározott ellátás folyósítása alatt történő kereső tevékenység folytatásáról és annak bizonyítékairól írásban tájékoztatja az állami foglalkoztatási szervet.
 
-(4) Amennyiben az (1) bekezdésben meghatározott ellenőrzés eredményeként a munkanélküli járadék, a pályakezdők munkanélküli segélyének folyósítását az állami foglalkoztatási szerv megszünteti, a települési önkormányzat ezen ellátások — a 28. § (2) bekezdésében meghatározott időtartamra járó — összegének megfelelő támogatásban részesül. A támogatást a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének központi pénzügyi keretéből kell folyósítani, és az a 16/A. §-ban, valamint 17. §-ban meghatározott célokra használható fel.
+(4) Amennyiben az (1) bekezdésben meghatározott ellenőrzés eredményeként az álláskeresési ellátás folyósítását az állami foglalkoztatási szerv megszünteti, a települési önkormányzat ezen ellátások — a 28. § (2) bekezdésében meghatározott időtartamra járó — összegének megfelelő támogatásban részesül. A támogatást a Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészének központi pénzügyi keretéből kell folyósítani, és az a 16/A. §-ban, valamint 17. §-ban meghatározott célokra használható fel.
 
 (5) Az (1) bekezdésben meghatározott megállapodásban az önkormányzat vállalja, hogy az e címen kapott támogatást elkülönítetten kezeli, és félévenként tájékoztatja az állami foglalkoztatási szervet annak felhasználásáról.
 
@@ -756,7 +756,7 @@ időtartamával.
 
 (3) Ha az állami foglalkoztatási szerv nem e törvény vagy a felhatalmazása alapján kiadott jogszabály, hanem más jogszabály alapján nyújt a foglalkoztatás elősegítése érdekében támogatást, a támogatással kapcsolatos ügyben az eljárására e törvény rendelkezéseit kell megfelelően alkalmazni, kivéve, ha a támogatásról szóló jogszabály ettől eltérően rendelkezik.
 
-(4) A közösségi jogszabályok szerinti migráns munkavállaló munkanélküli ellátásával, vállalkozói járadékával kapcsolatos ügyben az érdemi határozatot két hónapon belül kell meghozni.
+(4) A közösségi jogszabályok szerinti migráns munkavállaló álláskeresési ellátásával, vállalkozói járadékával kapcsolatos ügyben az érdemi határozatot két hónapon belül kell meghozni.
 
 (5) Az e törvény, valamint a felhatalmazása alapján kiadott jogszabály által szabályozott
 
@@ -825,7 +825,7 @@ időtartamával.
 
 (17) Az állami foglalkoztatási szerv a (14) bekezdés g)–i) pontjában meghatározott feltételek fennállása esetén – kérelmére – nem törli az álláskeresők nyilvántartásából azt az ügyfelet, aki vállalja, hogy az állami foglalkoztatási szervvel a (9) bekezdésben foglaltak szerint együttműködik.
 
-54/A. § (1) A munkanélküli ellátást, vállalkozói járadékot, valamint foglalkoztatást elősegítő támogatást megállapító, illetve folyósító szerv az e törvényen, valamint a felhatalmazása alapján kiadott jogszabályon alapuló igényét öt év alatt érvényesítheti. Ha a követelésre alapot adó magatartás bűncselekmény, a követelés öt éven túl sem évül el mindaddig, amíg a büntethetőség el nem évül.
+54/A. § (1) Az álláskeresési ellátást, vállalkozói járadékot, valamint foglalkoztatást elősegítő támogatást megállapító, illetve folyósító szerv az e törvényen, valamint a felhatalmazása alapján kiadott jogszabályon alapuló igényét öt év alatt érvényesítheti. Ha a követelésre alapot adó magatartás bűncselekmény, a követelés öt éven túl sem évül el mindaddig, amíg a büntethetőség el nem évül.
 
 (2) Az e törvény alapján esedékessé vált és fel nem vett ellátást az esedékességtől számított egy éven belül lehet felvenni.
 
@@ -849,7 +849,7 @@ köt a támogatásban részesülővel hatósági szerződést.
 (2) A Nemzeti Foglalkoztatási Alap Pénzeszközeinek hatékony felhasználása, valamint az azokból történő téves kifizetések elkerülése érdekében, ha a tényállás tisztázott,
 
 - a) az álláskeresési járadék és álláskeresési segély iránti kérelemnek helyt adó,
-- b) az álláskeresési járadék és álláskeresési segély folyósítását szüneteltető, valamint megszüntető, továbbá
+- b) az álláskeresési járadék és nyugdíj előtti álláskeresési segély folyósítását szüneteltető, valamint megszüntető, továbbá
 - c) a foglalkoztatást elősegítő támogatás folyósítását megszüntető
 
 határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
@@ -860,7 +860,7 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 
 56/A. § (1) Rendbírságot köteles fizetni
 
-- a) az a munkaadó, munkavállaló, egyéb szerv, illetőleg személy, aki e törvényben, valamint a felhatalmazása alapján hozott jogszabályban, az Mt. 94/D. §-ában és 193/D. §-ának (1) bekezdésében, továbbá közigazgatási határozatban, hatósági szerződésben meghatározott bejelentési [kivéve a 8. § (5) bekezdés b) pontjában, valamint a 36. § (1) bekezdésében meghatározott kötelezettséget], nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem az előírt módon tesz eleget, vagy valótlan adatot szolgáltat;
+- a) az a munkaadó, munkavállaló, egyéb szerv, illetőleg személy, aki e törvényben, valamint a felhatalmazása alapján hozott jogszabályban, az Mt. 74. §-ában és 215. § (1) bekezdésében, továbbá közigazgatási határozatban, hatósági szerződésben meghatározott bejelentési [kivéve a 8. § (5) bekezdés b) pontjában, valamint a 36. § (1) bekezdésében meghatározott kötelezettséget], nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem az előírt módon tesz eleget, vagy valótlan adatot szolgáltat;
 - b) az a felszámoló, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. §-ának (1) bekezdésében meghatározott kötelezettségének nem tesz eleget.
 
 (2) A rendbírság összege 5000 forinttól 500 000 forintig terjedhet. Az (1) bekezdés b) pontjában meghatározott esetben a rendbírságot munkavállalónként kell kiszabni.
@@ -879,7 +879,7 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 - b) állampolgárság, bevándorolt, letelepedett, menekült vagy oltalmazott jogállás,
 - c) lakóhely (tartózkodási hely);
 - d) foglalkozás, munkahely, munkakör (tevékenység),
-- e) a munkanélküli ellátás, a foglalkoztatást elősegítő támogatás, valamint a munkaerőpiaci szolgáltatás megállapításához és igénybevételéhez e törvényben és más törvényben meghatározott adatok,
+- e) az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a munkaerőpiaci szolgáltatás megállapításához és igénybevételéhez e törvényben és más törvényben meghatározott adatok,
 - f) iskolai végzettség(ek), szakképzettség(ek),
 - g) jövedelemre vonatkozó adatok,
 - h) a megváltozott munkaképességgel kapcsolatos adatok,
@@ -994,12 +994,7 @@ szerinti adatok igénylésére jogosult.
 
 (3)
 
-(4) E törvény
-
-- a) 36. § (1) bekezdése, 37. § (3)–(4) és (8) bekezdése, 46/A. § (4) bekezdése, 54. § (4) bekezdése tekintetében munkanélküli ellátáson az álláskeresők támogatását,
-- b) 37. § (6) bekezdése tekintetében munkanélküli járadékon az álláskeresési járadékot és az álláskeresési segélyt
-
-is érteni kell.
+(4)
 
 (5) E törvény alkalmazásában
 
@@ -1030,9 +1025,9 @@ is érteni kell.
 
 (6) A törvény alkalmazásában a
 
-- a) a munkavállaló rendes felmondásán, a köztisztviselő, a közalkalmazott, valamint a Magyar Honvédség, a fegyveres testületek és rendészeti szervek hivatásos állományú tagjának lemondását;
-- b) munkaviszonynak a munkáltató részéről rendkívüli felmondással történő megszüntetésén a közszolgálati jogviszony hivatalvesztéssel, a közalkalmazotti jogviszony elbocsátással, valamint a hivatásos és szerződéses állományú jogviszonynak a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 53. §-a e)–f) pontjában, 56. §-a (2) bekezdésének b) pontjában, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 56. §-ának e)–f) pontjában, és 59. §-a (2) bekezdésének c) pontjában;
-- c) a munkaviszonynak a munkaadó részéről rendes felmondással történő megszüntetésén a közszolgálati és a közalkalmazotti jogviszonynak felmentéssel történő megszüntetését is érteni kell;
+- a) a munkavállaló felmondásán, a köztisztviselő, a közalkalmazott, valamint a Magyar Honvédség, a fegyveres testületek és rendészeti szervek hivatásos állományú tagjának lemondását;
+- b) munkaviszonynak a munkáltató részéről azonnali hatályú felmondással történő megszüntetésén a közszolgálati jogviszony hivatalvesztéssel, a közalkalmazotti jogviszony elbocsátással, valamint a hivatásos és szerződéses állományú jogviszonynak a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 53. §-a e)–f) pontjában, 56. §-a (2) bekezdésének b) pontjában, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 56. §-ának e)–f) pontjában, és 59. §-a (2) bekezdésének c) pontjában;
+- c) a munkaviszonynak a munkaadó részéről felmondással történő megszüntetésén a közszolgálati és a közalkalmazotti jogviszonynak felmentéssel történő megszüntetését is érteni kell;
 - d)
 
 (7) Ahol jogszabály munkaügyi szakigazgatási szervet, munka- vagy munkaerőközvetítő szervet, munkaügyi szolgáltató irodát említ, ezen az állami foglalkoztatási szervet kell érteni.
@@ -1071,7 +1066,7 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 (4) E törvénynek
 
 - a) az álláskeresőként való nyilvántartásba vétel feltételeire,
-- b) az álláskeresési járadékra, valamint az álláskeresési segélyre vonatkozó rendelkezéseit az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgárára, a nemzetközi szerződésben foglaltak szerint kell alkalmazni.
+- b) az álláskeresési ellátásra vonatkozó rendelkezéseit az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgárára, a nemzetközi szerződésben foglaltak szerint kell alkalmazni.
 
 59/A. § 2011. január 1. előtt a Munkaerőpiaci Alap rehabilitációs alaprész terhére megkötött támogatási szerződésekből eredő követelések, illetve az alaprészt terhelő kötelezettségek a XX. Nemzeti Erőforrás Minisztérium fejezet „Megváltozott munkaképességűek foglalkoztatásával összefüggő bértámogatás” nevű fejezeti kezelésű előirányzatot illetik meg, illetve terhelik.
 

@@ -1462,7 +1462,7 @@ biztosítása érdekében
 - c) a hálózati engedélyes vezető tisztségviselője, cégvezetője, vezető állású munkavállalója, felügyelőbizottságának – elosztó esetén ügydöntő felügyelőbizottságának – tagja, valamint az engedélyesi tevékenységet ellátó szervezeti egységének vezetője (a továbbiakban: szervezeti egység vezető) a munkaszerződésben, a munkavégzésre irányuló egyéb jogviszonyt szabályozó szerződésben vagy a kinevezési okiratban (e fejezet alkalmazásában a továbbiakban együtt: munkaszerződés) foglalt jogait és kötelezettségeit, a munkabérét, az egyéb juttatásait vagy díjazását, valamint a munkavégzésének feltételeit, hatásköreit és beszámolási kötelezettségeit oly módon kell kialakítani és rögzíteni, hogy a hálózati engedélyes működését befolyásoló független döntéshozatal, és annak során a befolyásmentes és az egyenlő bánásmód követelményének megfelelő eljárás biztosított legyen;
 - d) a c) pontban meghatározott munkaszerződéssel rendelkező személynek nem lehet társasági részesedése a hálózati engedélyest kivéve más engedélyesben, annak kapcsolt vállalkozásában, nem lehet annak vezető tisztségviselője, felügyelőbizottsági – elosztó esetén ügydöntő felügyelőbizottsági – tagja, cégvezetője, továbbá nem létesíthet azzal munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt;
 - e) a c) pontban meghatározott cégvezetőt, vezető állású munkavállalót és szervezeti egység vezetőt az integrált villamosenergia-ipari vállalkozás más tagjához nem lehet kirendelni;
-- f) a c) pontban meghatározott vezető tisztségviselő, felügyelőbizottsági – elosztó esetén ügydöntő felügyelőbizottsági – tag, cégvezető és vezető állású munkavállaló a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) megszűnését követő egy éven belül csak a Hivatal jóváhagyásával lehet más engedélyes vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy vezető állású munkavállalója, mely nem érinti a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény szerinti munkaviszony megszűnését követő kötelezettség fejében járó ellenértéket.
+- f) a c) pontban meghatározott vezető tisztségviselő, felügyelőbizottsági – elosztó esetén ügydöntő felügyelőbizottsági – tag, cégvezető és vezető állású munkavállaló a munkaviszony, a munkavégzésre irányuló egyéb jogviszony vagy a kinevezés (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) megszűnését követő egy éven belül csak a Hivatal jóváhagyásával lehet más engedélyes vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy vezető állású munkavállalója, mely nem érinti a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti munkaviszony megszűnését követő kötelezettség fejében járó ellenértéket.
 
 (4) A (3) bekezdés d) pontjában foglaltakat a szervezett villamosenergia-piaci engedélyes és az átviteli rendszerirányító között nem kell alkalmazni, amennyiben az átviteli rendszerirányító e szervezett villamosenergia-piacot működtető részvénytársaságban részesedéssel rendelkezik.
 
@@ -2427,7 +2427,7 @@ villamos energia képezi.
 - c) tisztségével való összeférhetetlenségét három hónapon belül nem szüntette meg,
 - d) tevékenységével a Hivatal hatósági jogköreinek gyakorlását veszélyezteti.
 
-(5) A (4) bekezdés szerinti felmentési javaslatot a Hivatal elnöke, illetve elnökhelyettesei részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat.
+(5) A (4) bekezdés szerinti felmentési javaslatot a Hivatal elnöke, illetve elnökhelyettesei részére meg kell küldeni, aki a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szabályai szerint bírósághoz fordulhat.
 
 (6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a miniszterelnök elé.
 
@@ -2440,7 +2440,7 @@ villamos energia képezi.
 - e) ellátja mindazokat a feladatokat, amelyeket jogszabály vagy a Hivatal szervezeti és működési szabályzata a hatáskörébe utal,
 - f) tanácskozási joggal részt vesz a Kormány ülésén a Hivatal feladatkörét érintő előterjesztések tárgyalásakor.
 
-167. § (1) A Hivatal kormánytisztviselője a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) szerinti összeférhetetlenségi és kizárási szabályokban foglaltakon túl nem létesíthet munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt a Hivatal hatáskörébe tartozó engedélyköteles villamosenergia-ipari társasággal vagy integrált villamosenergia-ipari vállalkozással.
+167. § (1) A Hivatal kormánytisztviselője a Kttv. szerinti összeférhetetlenségi és kizárási szabályokban foglaltakon túl nem létesíthet munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt a Hivatal hatáskörébe tartozó engedélyköteles villamosenergia-ipari társasággal vagy integrált villamosenergia-ipari vállalkozással.
 
 (2) A Hivatal kormánytisztviselője az öröklés kivételével a Hivatal hatáskörébe tartozó engedélyköteles villamosenergia-ipari társaságokban tulajdoni részesedést nem szerezhet.
 

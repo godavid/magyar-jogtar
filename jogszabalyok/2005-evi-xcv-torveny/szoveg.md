@@ -56,7 +56,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2) Kétséges esetben, amikor valamely termék – (1) bekezdésben meghatározottak figyelembevételével – az e törvény 1. §-ának 1. pontjában meghatározott fogalommeghatározás és más jogszabály által szabályozott valamely termék fogalommeghatározása alá is tartozhat, e törvény rendelkezéseit kell alkalmazni.
 
-(3) E törvény rendelkezéseit nem kell alkalmazni az emberi eredetű teljes vérre, plazmára vagy vérsejtekre, – kivéve az olyan plazmát, amelyet ipari folyamat bevonásával járó módszerrel dolgoznak fel – az orvostechnikai eszközre, az élelmiszerre, az étrend-kiegészítő termékekre, a kozmetikai termékre, az emberi fogyasztásra szánt egyéb termékre, valamint az emberi szervezetbe nem kerülő, illetve emberi szervezeten nem alkalmazott fertőtlenítőszerre és az orvosi laboratóriumi diagnosztikumra.
+(3) E törvény rendelkezéseit nem kell alkalmazni az emberi eredetű teljes vérre, plazmára vagy vérsejtekre, – kivéve az olyan plazmát, amelyet ipari folyamat bevonásával járó módszerrel dolgoznak fel – az orvostechnikai eszközre, az élelmiszerre, az étrend-kiegészítő termékekre, a kozmetikai termékre, az emberi fogyasztásra szánt más jogszabály által szabályozott egyéb termékre, valamint az emberi szervezetbe nem kerülő, illetve emberi szervezeten nem alkalmazott fertőtlenítőszerre és az orvosi laboratóriumi diagnosztikumra.
 
 ### A klinikai vizsgálat
 
@@ -123,7 +123,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 4/A. § (1) A gyógyszerészeti államigazgatási szerv gyógyszer gyártására jogosító engedélye (a továbbiakban: gyógyszergyártási engedély) szükséges a gyógyszernek nem az Európai Gazdasági Térségből (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az Európai Unióval megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államból (a továbbiakban: harmadik ország) történő importjához, illetve kizárólag exportra történő előállításához.
 
-(2) Nem szükséges gyógyszergyártási engedély beszerzése abban az esetben, ha a gyógyszer nem az EGT-ből történő importjára kutatási célból – ide nem értve az emberen végzett kutatási célt – kerül sor, és ezt az importáló az egészségügyért felelős miniszter rendelete szerint a gyógyszerészeti államigazgatási szerv részére bejelentette.
+(2) Nem szükséges gyógyszergyártási engedély beszerzése abban az esetben, ha a gyógyszer nem az EGT-ből történő importjára kutatási célból – ide nem értve az emberen végzett kutatási célt – kerül sor, és ezt az importáló az egészségügyért felelős miniszter rendelete szerint a gyógyszerészeti államigazgatási szerv részére bejelentette. Az e bekezdés alapján importált gyógyszer a kutatási céltól eltérő célra nem használható fel. A kutatási célra fel nem használt gyógyszert meg kell semmisíteni. A kutatási tevékenység befejezéséről a gyógyszerészeti államigazgatási szervet haladéktalanul tájékoztatni kell.
 
 ### A gyógyszer forgalomba hozatalának engedélyezése
 
@@ -218,6 +218,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (5) Intézeti gyógyszertár a 16. § (2) bekezdésben foglalt esetben a gyógyszerhiánnyal érintett gyógyszert másik intézeti gyógyszertártól is beszerezheti.
 
+(6) A fekvőbeteg-szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz- és fertőtlenítőszer-beszerzések országos központosított rendszeréről szóló kormányrendelet szerinti saját hatáskörben történő beszerzés keretében az intézeti gyógyszertár a gyógyszert az Állami Egészségügyi Tartalékkal való gazdálkodás feladatait ellátótól is beszerezheti.
+
 13. §
 
 14. §
@@ -265,7 +267,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (4) Az (1) bekezdés szerinti előzetes szakmai értékelést kormányrendeletben kijelölt szakértői szerv végzi.
 
-15/C. § (1) Az új pszichoaktív anyaggá minősítést követő egy éven belül el kell végezni az új pszichoaktív anyag kockázatértékelését, amennyiben azt az Európai Unió Tanácsa nem kezdeményezte.
+15/C. § (1) Az új pszichoaktív anyaggá minősítést követő három éven belül el kell végezni az új pszichoaktív anyag kockázatértékelését, amennyiben azt az Európai Unió Tanácsa nem kezdeményezte.
 
 (2) Ha a vizsgált új pszichoaktív anyagról a magyarországi vagy európai uniós kockázatértékelés eredményeképpen bebizonyosodik, hogy hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletének A) és B) jegyzékén szereplő anyagok, a megfelelő kábítószer vagy pszichotróp anyag jegyzékre kell felvenni, és meg kell szüntetni az új pszichoaktív anyaggá minősítését.
 
@@ -363,7 +365,7 @@ kezeli.
 
 19. § A gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumokat és a klinikai vizsgálatokat végző egészségügyi szolgáltatókat a gyógyszerészeti államigazgatási szerv a külön jogszabályban megállapított szakmai szabályok betartása szempontjából rendszeresen ellenőrzi.
 
-20. § (1) A gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával és a gyógyszerellátási felelősséggel, valamint a vizsgálati készítmények klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv, a gyógyszertárak és egyéb egészségügyi szolgáltatók esetén az egészségügyi államigazgatási szerv feladata. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat külön törvény állapítja meg.
+20. § (1) A gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával, farmakovigilanciájával és a gyógyszerellátási felelősséggel, valamint a vizsgálati készítmények klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, valamint az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek betartásának hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv feladata. A gyógyszertárak és egyéb egészségügyi szolgáltatók esetén az ellenőrzést az egészségügyi államigazgatási szerv is végzi. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény állapítja meg.
 
 (2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
@@ -477,7 +479,7 @@ kártérítést fizet.
 
 (6) A díjat a kérelem benyújtásakor, az évenkénti fenntartási díjat a tárgyév január hó 31-ig kell az egészségügyért felelős miniszter rendeletében meghatározott módon a gyógyszerészeti államigazgatási szerv részére megfizetni.
 
-(7) A befizetett díj – jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv, valamint az eljárásában jogszabály szerint közreműködő szakhatóság bevétele, és a díjak nyilvántartására, elszámolására az államháztartás alrendszerébe tartozó költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló hatályos jogszabályi előírásokat kell alkalmazni. A befizetett díjból a szakhatóság az egészségügyért felelős miniszter rendeletében meghatározott díjmegosztás szerint részesül.
+(7) A befizetett díj – jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv, valamint az eljárásában jogszabály szerint közreműködő szakhatóság bevétele, és a díjak nyilvántartására, elszámolására az államháztartás alrendszerébe tartozó költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló hatályos jogszabályi előírásokat kell alkalmazni. A befizetett díjból a szakhatóság az egészségügyért felelős miniszter rendeletében meghatározott díjmegosztás szerint részesül. A gyógyszerészeti államigazgatási szervnél az egészségügyért felelős miniszter rendelete alapján maradó bevétel jogszabály szerinti intézményfenntartási feladatai ellátására felhasználható.
 
 (8) A díjfizetés tárgya tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat, a díjfizetésre kötelezettek tekintetében az Itv. 31. § (1) bekezdés első mondatában foglaltakat kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
 
@@ -536,7 +538,7 @@ rendeletben szabályozza.
 - f) a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenység végzésének részletes szabályait,
 - g) az orvosi, a sürgős szükség esetén indokolt indikáción túli, valamint a gyógyszerhiány esetén történő gyógyszerrendelés szabályait,
 - h) az intézeti gyógyszerellátás szabályait,
-- i) a gyógyszergyártásnál, valamint a gyógyszer-nagykereskedelmi tevékenység folytatásánál közreműködő meghatalmazott személyek szakképesítési követelményeit,
+- i) a gyógyszergyártásnál közreműködő meghatalmazott személyek, valamint a gyógyszer-nagykereskedelmi tevékenység folytatásánál közreműködő felelős személyek szakképesítési követelményeit,
 - j) a kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszerek orvosi rendelésének, gyógyszertári forgalmazásának – ideértve a gyógyszertári tárolás, nyilvántartás, valamint a gyógyszertárból történő kiadást is – szabályait, továbbá gyógyintézeti felhasználásának és nyilvántartásának rendjét,
 - k) az emberi felhasználásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeit,
 - l) az emberi szervezetbe nem kerülő, illetve emberi szervezettel nem érintkező diagnosztikumok körét,
@@ -549,6 +551,8 @@ rendeletben szabályozza.
 - s) a 16. § (5) bekezdése szerinti, a folyamatos ellátás biztosításához szükséges készletek mennyiségét, és hatóanyagok körét,
 - t) a farmakovigilanciával kapcsolatos szabályokat,
 - u) a gyógyszerhiány kezelése és megelőzése érdekében a gyógyszerhiánnyal érintett gyógyszer forgalomba hozatali engedély jogosultja, a gyógyszer-nagykereskedő, az állami egészségügyi, katasztrófa- és védelmi készlet kezelője, az egészségbiztosítási szerv, valamint a gyógyszerészeti államigazgatási szerv közötti együttműködésre vonatkozó szabályokat
+- v) a gyógyszerközvetítéssel kapcsolatos szabályokat,
+- w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait
 
 rendeletben szabályozza.
 

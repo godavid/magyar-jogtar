@@ -109,6 +109,8 @@ A) Jegyzék:
 
 B) Jegyzék:
 
+B) Jegyzék:
+
 Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotrop anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény II. Jegyzékén szereplő pszichotrop anyagokkal azonos elbírálás alá esnek Magyarországon, azaz gyógyászati célra alkalmazható, szigorúan ellenőrzött szerek:
 
 | Hivatalos elnevezés/illetve más név vagy rövidítés, illetve külföldön gyakran használt más írásmód/ | Kémiai név |
@@ -118,6 +120,7 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | Ketamine(ketamin) | 2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone |
 | Pentazocine(pentazocin) | (2R,6R,11R)-1,2,3,4,5,6-hexahydro-6,11-dimethyl-3-(3-methyl-2- butenyl)-2,6-methano-3-benzazocin-8-ol |
 | Poppy straw (mákszalma) | A levágott máknövény minden része; azonban a magok a tokból való kifejtés és tisztítás után nem minősülnek ellenőrzött szernek |
+| Tapentadol (tapentadol) | 3-[(2R,3R)-1-(dimethylamino)-2-methylpentan-3-yl]- phenol |
 
 – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 

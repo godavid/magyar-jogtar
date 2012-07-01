@@ -186,7 +186,7 @@ kell meghatározni.
 
 (4) A tulajdonjog és fenntartói jog átszállása nem érinti az intézmények által foglalkoztatottak közalkalmazotti jogviszonyát, illetve munkaviszonyát.
 
-(5) A megyei önkormányzatok gazdasági ellátó szervezeteinél foglalkoztatott munkavállalók tekintetében megvalósuló jogviszonyváltás esetén a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 86/B–86/E. §-ait megfelelően alkalmazni kell.
+(5) A megyei önkormányzatok gazdasági ellátó szervezeteinél foglalkoztatott munkavállalók tekintetében megvalósuló jogviszonyváltás esetén a munka törvénykönyvéről szóló 2012. évi I. törvény 36–40. §-át megfelelően alkalmazni kell.
 
 14. § (1) A munkáltatói jog gyakorlójának eltérő döntése hiányában e törvény erejénél fogva legkésőbb 2012. március 31. napján megszűnik az átvett nem egészségügyi intézmény
 
@@ -206,7 +206,7 @@ A megszűnés nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó s
 - a) a korábbi vezető beosztású közalkalmazottat a kinevezése szerinti munkakörében kell továbbfoglalkoztatni, vagy
 - b) a pályázat megnyerése esetén
   - ba) a közalkalmazott számára új vezetői megbízást kell adni vagy
-  - bb) – ha jogszabály azt előírja, a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával – vele új munkaviszonyt kell létesíteni.
+  - bb) – ha jogszabály azt előírja, a munka törvénykönyvéről szóló törvény vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával – vele új munkaviszonyt kell létesíteni.
 
 (6) A jogviszony (5) bekezdés alapján történő megszűnése – a (6a) bekezdésben foglalt kivétellel – nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
 

@@ -3239,7 +3239,7 @@ az Alapban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (3) Az ügyvezető igazgató – az igazgatótanács egyetértésével – egyes feladatok ellátására munkaviszonyon kívüli megbízást adhat ki, illetve együttműködési megállapodásokat köthet.
 
-(4) Az Alap vezetője és alkalmazottai tekintetében a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény rendelkezéseit kell alkalmazni.
+(4) Az Alap vezetője és alkalmazottai tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény rendelkezéseit kell alkalmazni.
 
 114. § Az igazgatótanács feladatkörében eljárva a megbízásokat az e törvényben meghatározott összeférhetetlenségi szabályok megfelelő alkalmazásával adja ki.
 

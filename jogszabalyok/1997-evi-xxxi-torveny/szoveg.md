@@ -300,6 +300,8 @@ hivatalból jár el, és e tevékenységével kapcsolatban a büntetőjogi véde
 
 (9) Gyermekjóléti, gyermekvédelmi intézményben történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdésének a) pontja nem alkalmazható.
 
+(10) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység keretében munkaviszonyban, közalkalmazotti jogviszonyban foglalkoztatott személynek, ha a beosztás szerinti napi munkaidejének kezdő időpontja rendszeresen változik, a tizennégy és tizennyolc óra közötti időtartam alatt történő munkavégzés esetén 15% bérpótlék jár, ha a munkáltató napi üzemelési ideje meghaladja a munkavállaló napi teljes munkaidejét és a közalkalmazottak, munkavállalók időszakonként rendszeresen, egy napon belül egymást váltva végzik azonos tevékenységüket.
+
 16. § (1) Az e törvényben meghatározott, a gyermekek védelmét biztosító hatósági feladat- és hatásköröket
 
 - a) a helyi önkormányzat képviselő-testülete,
@@ -1449,7 +1451,7 @@ napra emelkedik.
 
 (5) A szabadság időtartamára a teljes hivatásos nevelőszülői díj jár.
 
-(6) A szabadság kiadására és pénzbeli megváltására a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) vonatkozó szabályait kell megfelelően alkalmazni.
+(6) A szabadság kiadására és pénzbeli megváltására a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) vonatkozó szabályait kell megfelelően alkalmazni.
 
 66/J. § (1) A hivatásos nevelőszülőt – amennyiben gyermeknevelési feladatait betegsége miatt nem tudja ellátni – betegszabadság illeti meg.
 

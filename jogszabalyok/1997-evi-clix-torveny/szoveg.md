@@ -269,6 +269,8 @@ alkalmazhat, illetve használhat.
 
 10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, valamint az egyesületekkel.
 
+10/C. § A munka törvénykönyvéről szóló 2012. évi I. törvény 86. § (1) bekezdésében foglalt rendelkezéstől eltérően a honvédelemért felelős miniszter által a Magyar Honvédség fokozott védelmet igénylő létesítményeinél létrehozott fegyveres biztonsági őrségnél működő fegyveres biztonsági őr munkaidejéhez nem kell hozzászámítani az előírt formaruha fel-, és levételének, valamint a fegyver átvételének és leadásának időtartamát.
+
 ### II. Fejezet — A természetvédelmi őrszolgálat
 
 11. § Külön törvényben meghatározottak szerint a védett természeti területek természetvédelmi kezeléséért felelős szerv (a továbbiakban: nemzeti park igazgatóság) szervezetében természetvédelmi őrszolgálat működik, amelynek tagja az e törvényben és más jogszabályban meghatározott feladatokat ellátó, intézkedésre jogosult hivatalos személy.

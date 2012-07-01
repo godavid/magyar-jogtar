@@ -36,11 +36,11 @@ a sztrájkról
 
 (3) A még elégséges szolgáltatás mértékét és feltételeit törvény megállapíthatja. Törvényi szabályozás hiányában a sztrájkot megelőző egyeztetés során kell a még elégséges szolgáltatás mértékéről és feltételeiről megállapodni; ebben az esetben a sztrájk akkor tartható meg, ha a felek a megállapodást megkötötték, vagy ennek meghiúsulása esetén bármelyikük kérelmére a munkaügyi bíróság jogerős határozata megállapította a még elégséges szolgáltatás mértékét és feltételeit.
 
-(4) A munkaügyi bíróság (3) bekezdés szerinti eljárására az 5. § (1) bekezdésének hatásköri és illetékességi szabályait kell alkalmazni. A munkaügyi bíróság öt napon belül, nemperes eljárásban, szükség esetén a felek meghallgatása után határoz. A munkaügyi bíróság határozata ellen a közléstől számított öt napon belül fellebbezésnek van helye. A fellebbezést az ügy összes iratával együtt a beérkezése napján fel kell terjeszteni a másodfokú bírósághoz. A másodfokú bíróság öt napon belül határoz.
+(4) A munkaügyi bíróság (3) bekezdés szerinti eljárására az 5. § (1) bekezdésének hatásköri és illetékességi szabályait, valamint az 5. § (2) bekezdésben foglalt szabályokat kell alkalmazni.
 
 5. § (1) A sztrájk jogszerűségének, illetve jogellenességének (3. §) megállapítását az kérheti, akinek a jogszerűség vagy a jogellenesség megállapításához jogi érdeke fűződik. A kérelmet a kérelmező székhelye (lakhelye) szerint illetékes munkaügyi bírósághoz kell benyújtani. Ha a sztrájk jogszerűségének, jogellenességének megállapításánál több munkaügyi bíróság is érintett, a kérelem elbírálására a Fővárosi Munkaügyi Bíróság az illetékes.
 
-(2) A munkaügyi bíróság öt napon belül, nem peres eljárásban, szükség esetén a felek meghallgatása után határoz. A végzés ellen fellebbezésnek van helye.
+(2) A munkaügyi bíróság öt munkanapon belül, nemperes eljárásban, szükség esetén a felek meghallgatása után dönt. A munkaügyi bíróság határozata ellen a közléstől számított öt napon belül fellebbezésnek van helye. A fellebbezést az ügy összes iratával együtt a beérkezése napján fel kell terjeszteni a másodfokú bírósághoz. A másodfokú bíróság öt munkanapon belül dönt.
 
 6. § (1) A sztrájk kezdeményezése, illetve a jogszerű sztrájkban való részvétel nem minősül a munkaviszonyból eredő kötelezettség megsértésének, amiatt a dolgozóval szemben hátrányos intézkedés nem tehető.
 

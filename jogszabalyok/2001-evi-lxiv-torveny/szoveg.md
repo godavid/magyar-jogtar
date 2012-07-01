@@ -616,30 +616,18 @@ kulturális javakat.
 
 62. § A hatóság feladata a kulturális örökség elemei megőrzésének, fenntartható használatának elősegítése és támogatása. Ennek érdekében ellátja:
 
-- a) a jogszabályban meghatározott hatósági feladatokat;
+- a) az e törvényben meghatározott hatósági és a külön jogszabályban meghatározott szakhatósági feladatokat;
 - b) az örökségvédelmi felügyeleti feladatokat;
 - c) az e törvényben meghatározott tudományos feladatokat illetőleg azok koordinálását; valamint
 - d) egyéb, hatáskörébe utalt feladatokat.
 
-63. § (1)
+63. § (1) A műemléken végzett építési tevékenységek esetén az építésügyi hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
 
-(2) A hatóság engedélyezi a következő, egyébként építési vagy más hatósági engedélyhez nem kötött tevékenységeket:
+(2) A hatóság jogszabályban meghatározott esetekben az (1) bekezdésben említett engedélyezési eljárásokban szakhatóságként jár el.
 
-- a) a védetté nyilvánított régészeti lelőhelyeken végzendő, 30 cm mélységet meghaladó földmunkával járó, illetőleg a terület jellegét veszélyeztető, befolyásoló változtatás;
-- b) régészeti lelőhelyen 30 cm mélységet meghaladó tereprendezési munkák;
-- c) a védetté nyilvánított kulturális örökségi elem jellegét, és megjelenését, érintő munkák, tevékenységek;
-- d) reklámok műemléken történő elhelyezése;
-- e) a műemlék falfelületeinek vagy szerkezeteinek, továbbá alkotórészeinek és tartozékainak tudományos vagy műszaki célú kutatására, feltárására irányuló munkák;
-- f) a műemlék funkciójának, használati módjának megváltoztatása;
-- g) műemlékhez tartozó ingatlanterületen fa kivágása, telepítése, tereprendezés;
-- h) műemlék egyes részeinek, illetve szerkezeti elemeinek elmozdítása, illetőleg szabadtéri múzeum keretében készülő rekonstrukcióba történő beépítése;
-- i) a műemlékekkel és a védetté nyilvánított kulturális javakkal kapcsolatos megóvási (konzerválási), restaurálási vagy átalakítási munkák;
-- j) a műemlék jellegét és megjelenését befolyásoló fényforrás elhelyezése, illetve üzemeltetése;
-- k) e törvényben meghatározott egyéb esetek.
+(3) A hatóság engedélyezi az építésügyi hatósági vagy más hatósági engedélyhez nem kötött – jogszabályban meghatározott – tevékenységeket.
 
-(3) Műemlékvédelmi érdekből a hatóság a műemlék felújítási, helyreállítási munkáinak engedélyezése során az országos építésügyi szabályoktól és a kötelezően alkalmazandó nemzeti szabványoktól eltérhet. Az eltérés akkor engedélyezhető, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel, vagy mindkettő más módon biztosítható.
-
-(4)
+(4) Műemlékvédelmi érdekből a hatóság a (3) bekezdés szerinti körben a műemlék felújítási, helyreállítási munkáinak engedélyezése során az országos építésügyi szabályoktól és a kötelezően alkalmazandó nemzeti szabványoktól eltérhet. Az eltérés akkor engedélyezhető, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel vagy az más módon biztosítható.
 
 (5) A hatóság az örökségvédelmi felügyelet keretében
 
@@ -676,11 +664,11 @@ kulturális javakat.
 
 ### Hatósági kötelezés
 
-67. § (1) A védett kulturális örökségi elem vonatkozásában a hatóság:
+67. § (1) A védett kulturális örökségi elemmel összefüggő, a 63. § (3) bekezdésében meghatározott tevékenységek vonatkozásában a hatóság:
 
-- a) az építésügyi hatósági jogkörébe tartozó szabálytalanság esetén – ha jogszabály eltérően nem rendelkezik – az Étv. és az annak végrehajtásáról rendelkező egyéb jogszabályok alapján jár el;
-- b) az örökségvédelem szabályainak megsértése esetén műemlékek, régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, a jóváhagyott (engedélyezett) terveknek megfelelő állapot kialakítását; a jó karbantartásra, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését, illetve a méltatlan használat megszüntetését;
-- c) műemlékek, régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani.
+- a) az örökségvédelem szabályainak megsértése esetén műemlékek, régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését,
+- b) műemlékek, régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani,
+- c) elrendelheti a műemlékek jó karbantartására vonatkozó kötelezettség teljesítését.
 
 (2) A hatóság az (1) bekezdésben meghatározott kötelezettségek teljesítésére a tulajdonost, vagyonkezelőt, használót, vagy az építtetőt, kivitelezőt kötelezheti.
 
@@ -695,7 +683,7 @@ kulturális javakat.
 
 (5) A hatóság által elvégeztetett munka költsége adók módjára behajtandó köztartozásnak minősül.
 
-68. § (1) A hatóság kulturális örökségvédelmi érdekből elrendelheti:
+68. § (1) A hatóság a 63. § (3) bekezdésben meghatározott tevékenységek vonatkozásában kulturális örökségvédelmi érdekből elrendelheti:
 
 - a) a védetté nyilvánított kulturális örökséghez tartozó javak felülvizsgálatát, felújítását, helyreállítását;
 - b) olyan munkálatok elvégzését, amelyek a műemlék vagy a védetté nyilvánított kulturális örökség történeti állapotának vagy korábbi történeti állapota meghatározott elemeinek feltárására, helyreállítására és bemutatására irányulnak.
@@ -746,7 +734,7 @@ kulturális javakat.
 
 (3) Az ügyintézési határidő:
 
-- a) ha a hatóság építésügyi hatósági jogkörben, továbbá kulturális javak védetté nyilvánításában jár el, három hónap;
+- a) ha a hatóság kulturális javak védetté nyilvánításában jár el, három hónap;
 - b) az előzetes nyilatkozat, előzetes szakhatósági állásfoglalás, valamint ha a hatóság műemlékhez kapcsolódó örökségvédelmi hatósági jogkörében jár el, két hónap;
 - c)
 - d) a 30. § (5) bekezdésében meghatározott esetben a bejelentést követő naptól számított negyvenöt nap;
@@ -828,7 +816,7 @@ kulturális javakat.
 
 ### Örökségvédelmi bírság
 
-82. § (1) Azt a természetes vagy jogi személyt és jogi személyiséggel nem rendelkező szervezetet, aki (amely) az e törvényben engedélyhez kötött tevékenységet engedély nélkül vagy attól eltérő módon végzi, illetve a védetté nyilvánított, vagy e törvény erejénél fogva védelem alatt álló kulturális örökség elemeit jogellenesen megsemmisíti, vagy megrongálja, illetve a védett kulturális örökségi elemet kötelezettségének elmulasztásával veszélyezteti, örökségvédelmi bírsággal (a továbbiakban: bírság) kell sújtani. Az örökségvédelmi bírság kiszabása nem mentesít egyéb, építésügyi eljárásban kiszabható bírság alól.
+82. § (1) Azt a természetes vagy jogi személyt és jogi személyiséggel nem rendelkező szervezetet, aki (amely) az e törvényben engedélyhez kötött tevékenységet engedély nélkül vagy attól eltérő módon végzi, illetve a védetté nyilvánított, vagy e törvény erejénél fogva védelem alatt álló kulturális örökség elemeit jogellenesen megsemmisíti, vagy megrongálja, illetve a védett kulturális örökségi elemet kötelezettségének elmulasztásával veszélyezteti, örökségvédelmi bírsággal (a továbbiakban: bírság) kell sújtani.
 
 (2) Bírsággal sújtható az, aki a jogszabály által előírt bejelentési kötelezettségének nem tesz eleget.
 

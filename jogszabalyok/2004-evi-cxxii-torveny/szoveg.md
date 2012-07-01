@@ -8,7 +8,7 @@ Az Országgyűlés a közszférában töltött életpálya elismerésének és m
 
 - a) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) hatálya alá tartozó kormánytisztviselőkre, köztisztviselőkre, kormányzati ügykezelőkre, közszolgálati ügykezelőkre, valamint munkáltatójukra,
 - b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény [Kjt.] hatálya alá tartozó közalkalmazottakra, valamint munkáltatójukra, illetőleg
-- c) a Munka Törvénykönyvéről szóló törvény (a továbbiakban: Mt.) hatálya alá tartozó, a Kttv.-ben meghatározott közigazgatási szervnél foglalkoztatott munkavállalóra és munkáltatójára,
+- c) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó, a Kttv.-ben meghatározott közigazgatási szervnél foglalkoztatott munkavállalóra és munkáltatójára,
 - d) a 4/A., az 5. és a 6/A. § kivételével az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 2007. szeptember 24-én hatályos mellékletében felsorolt, azon 100%-os állami tulajdonú munkáltatókra és azok munkavállalóira, amelyekre a prémiumévek programot a munkáltató főtevékenysége szerint feladatkörrel rendelkező miniszter rendeletével kiterjeszti,
 - e)
 
@@ -38,7 +38,7 @@ Az Országgyűlés a közszférában töltött életpálya elismerésének és m
   - d) állami vezetők esetén a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 51. §-ában, továbbá a Kttv. 219. §-ában és 224. §-ában meghatározott alapilletmény, illetménykiegészítés és vezetői illetménypótlék,
   - e) az 1. § (3) bekezdésének b) pontjában meghatározott személy esetében az őt külön jogszabály alapján megillető díj
 
-együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani;
+együttes összege. A rendszeres illetménypótlékot az Mt. 147. §-ában és a 151. § (2)–(4) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani;
 
 - 5. nonprofit szervezet:
   - a) az egyesület,
@@ -48,7 +48,7 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
   - e) a köztestület,
   - f) az országos sportági szakszövetség;
 - 6. kinevezés: a munkaszerződés is;
-- 7. felmentés: a rendes felmondás is.
+- 7. felmentés: a felmondás is.
 
 ### A prémiumévek program a közszférában
 
@@ -57,7 +57,7 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 - a) a programban részt vevő legfeljebb 5 éven belül előrehozott öregségi nyugdíjra vagy az öregségi nyugdíjra való jogosultság életkori és szolgálati idővel kapcsolatos feltételeit megszerzi, feltéve, hogy előrehozott öregségi nyugdíjra nem jogosult, illetve csökkentett összegű előrehozott öregségi nyugdíjban nem részesül,
 - b) a programban részt vevő rendelkezik legalább huszonöt év közszférában jogviszonyban töltött idővel,
 - c) a programban részt vevő további foglalkoztatására
-  - ca) a Kttv. 63. § (1) bekezdésében, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból, vagy az Mt. 89. § (3) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
+  - ca) a Kttv. 63. § (1) bekezdésében, a Kjt. 30. § (1) bekezdés a) vagy b) pontjában meghatározott okból, vagy az Mt. 66. § (2) bekezdése szerint a munkáltató működésével összefüggő okból nincs lehetőség, vagy
   - cb) a Kttv. 63. § (1) bekezdés b) pontja szerinti felmentés miatt nincs lehetőség, és
 - d) a határozatlan idejű kinevezéssel rendelkező programban részt vevő hozzájárul határozatlan idejű foglalkoztatásra irányuló jogviszonyának határozott idejű jogviszonnyá történő módosításához, és elfogadja foglalkoztatásra irányuló jogviszonya tekintetében a prémiumévek programban történő részvétellel összefüggésben e törvényben meghatározott, a Kttv.-ben, a Kjt.-ben, illetve az Mt.-ben foglaltaktól eltérő szabályokat.
 
@@ -101,7 +101,7 @@ együttes összege. A rendszeres illetménypótlékot az Mt. 151/A. § (2)–(4)
 
 (5) A programban részt vevő foglalkoztatásra irányuló jogviszonyára a Kttv., a Kjt., illetőleg az Mt. rendelkezéseit – a díjazásra és egyéb juttatásokra, valamint az illetmény- és előmeneteli rendszerre vonatkozó szabályok kivételével – megfelelően alkalmazni kell. A programban részt vevőt – a közszolgálati jogviszonyban állót kivéve – a számára foglalkoztatásra irányuló jogviszonya alapján járó természetbeni étkezés vagy étkezési hozzájárulás, továbbá – ha a munkáltató a foglalkoztatottak részére egyébként ilyen juttatást biztosít – ruházati költségtérítés harminc százaléka illeti meg. A jubileumi jutalomra való jogosultság tekintetében a programban való részvétellel összefüggésben foglalkoztatásra irányuló jogviszonyban töltött idő jogszerző időnek számít, a jubileumi jutalom összegét a (4) bekezdésben meghatározott juttatás alapulvételével kell megállapítani. A programban részt vevőt – a közszolgálati jogviszonyban állót kivéve – utazási költségeinek megtérítése címén a havonta munkában töltött munkanapokkal arányos juttatás illeti meg. A programban részt vevő közszolgálati jogviszonyban állót a Kttv.-ben meghatározott cafetéria-juttatás harminc százaléka illeti meg. Ahol a foglalkoztatási jogviszonyra vonatkozó szabályok távolléti díj, illetmény vagy azokon alapuló juttatás fizetését írják elő, a programban részt vevőt a (4) bekezdésben meghatározott juttatás illeti meg, melynek kifizetésére az illetmény kifizetésének szabályait kell megfelelően alkalmazni.
 
-(6) Amennyiben a programban részt vevő részére átlagkeresetet kell fizetni, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 152. §-át kell megfelelően alkalmazni azzal, hogy munkabéren a (4) bekezdésben meghatározott juttatást is érteni kell.
+(6) Ha a programban résztvevő részére távolléti díjat kell fizetni, munkabéren a (4) bekezdésben meghatározott juttatást is érteni kell.
 
 (7) A rendes szabadságra és a betegszabadságra vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy
 

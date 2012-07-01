@@ -40,6 +40,8 @@ is megfelelően érteni kell.
 
 (6) E törvény hatálybalépésekor folyamatban lévő felmentések esetén a munkavégzési kötelezettség alóli mentesítés idejére a közszolgálati tisztviselő átlagkeresetére jogosult.
 
+(7) Az Országos Közigazgatási Vizsgabizottság Elnöksége megszűnik és az Országos Közigazgatási Vizsgabizottság Elnökségének tagjai (ideértve az elnököt is) a Közigazgatási Továbbképzési Kollégium tagjává válnak. Az Országos Közigazgatási Vizsgabizottság Elnökségének, illetve Elnökének jogszabályban előírt feladatait a Közigazgatási Továbbképzési Kollégium, illetve annak Elnöke látja el. E rendelkezést 2012. évben kell alkalmazni.
+
 4. § (1) A kormányzati ügykezelő, valamint a közszolgálati ügykezelő illetménye a Kttv. 208. §, illetve 242. § alkalmazása során nem csökkenhet.
 
 (2) A kormányzati, illetve közszolgálati ügykezelő illetményét a Kttv. hatálybalépését követő 30 napon belül meg kell állapítani.
@@ -186,7 +188,13 @@ terjed ki.
 
 60. § (1)–(11)
 
-(12)–(13)
+(12) A Kttv. 258. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A közigazgatási szervnél foglalkoztatott munkavállalókra a munka törvénykönyvéről szóló 2012. évi I. törvény rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.”
+
+(13) A Kttv. 258. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény 71–76. §-a, és 82–84. §-a nem alkalmazható. Esetükben e törvény 67. §-át és 193–194. §-át kell alkalmazni.”
 
 (14)–(16)
 

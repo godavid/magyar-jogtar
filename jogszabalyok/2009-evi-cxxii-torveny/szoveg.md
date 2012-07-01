@@ -10,15 +10,15 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 - b) többségi befolyás: az olyan kapcsolat, amelynek révén a befolyással rendelkező egy jogi személyben a szavazatok több mint ötven százalékával – közvetlenül vagy a jogi személyben szavazati joggal rendelkező más jogi személy (köztes vállalkozás) szavazati jogán keresztül – rendelkezik, azzal, hogy a közvetett módon való rendelkezés meghatározása során a jogi személyben szavazati joggal rendelkező más jogi személyt (köztes vállalkozást) megillető szavazati hányadot meg kell szorozni a befolyással rendelkezőnek a köztes vállalkozásban, illetve vállalkozásokban fennálló szavazati hányadával, ha azonban a köztes vállalkozásban fennálló szavazatainak hányada az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni,
 - c) közzététel: az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott elektronikus közzététel.
 
-2. § (1) A köztulajdonban álló gazdasági társaság a közzététel időpontjában fennálló adatok alapján közzéteszi a vezető tisztségviselők, a felügyelőbizottsági tagok, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 188. § (1) bekezdése és 188/A. § (1) bekezdése szerint vezető állású munkavállalók, valamint az önállóan cégjegyzésre vagy a bankszámla feletti rendelkezésre jogosult munkavállalók
+2. § (1) A köztulajdonban álló gazdasági társaság a közzététel időpontjában fennálló adatok alapján közzéteszi a vezető tisztségviselők, a felügyelőbizottsági tagok, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 208. §-a szerint vezető állású munkavállalók, valamint az önállóan cégjegyzésre vagy a bankszámla feletti rendelkezésre jogosult munkavállalók
 
 - a) nevét,
 - b) tisztségét vagy munkakörét,
 - c) munkaviszonyban álló személy esetében
-  - ca) a munkavállaló részére a munkaviszonya alapján közvetlenül vagy közvetve nyújtott pénzbeli juttatásokat, ezen belül külön feltüntetve személyi alapbérét, egyéb időbérét, teljesítménybérét, valamint az időbért megalapozó időtartamot, illetve a teljesítménybért megalapozó teljesítménykövetelményeket,
+  - ca) a munkavállaló részére a munkaviszonya alapján közvetlenül vagy közvetve nyújtott pénzbeli juttatásokat, ezen belül külön feltüntetve alapbérét, egyéb időbérét, teljesítménybérét, valamint az időbért megalapozó időtartamot, illetve a teljesítménybért megalapozó teljesítménykövetelményeket,
   - cb) az Mt., kollektív szerződés, illetve a munkaszerződés alapján járó mértéket megjelölve a munkavállalóra irányadó végkielégítés, illetve felmondási idő időtartamát,
-  - cc) az Mt. 3. § (6) bekezdése alapján kikötött időtartamot és a kötelezettség vállalásának ellenértékét,
-- d) a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 22. § (2) bekezdés a) pont szerinti jogviszony, valamint a felügyelőbizottsági tagok esetén
+  - cc) az Mt. 228. § alapján kikötött időtartamot és a kötelezettség vállalásának ellenértékét,
+- d) a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 22. § (2) bekezdés a) pontja szerinti jogviszony, valamint a felügyelőbizottsági tagok esetén
   - da) a megbízási díjat,
   - db) a megbízási díjon felüli egyéb járandóságokat,
   - dc) a jogviszony megszűnése esetén járó pénzbeli juttatásokat.
@@ -57,11 +57,11 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 5. § (1)
 
-(2) A köztulajdonban álló gazdasági társasággal munkaviszonyban álló vezető tisztségviselő, továbbá az Mt. 188. § (1) bekezdése vagy 188/A. § (1) bekezdése hatálya alá eső munkavállaló számára teljesítménykövetelményt, valamint az ahhoz kapcsolódó teljesítménybért vagy más juttatást a vezető tisztségviselő és az Mt. 188. § (1) bekezdése hatálya alá eső munkavállaló esetében a gazdasági társaság legfőbb szerve vagy – ha a társasági szerződés (alapszabály, alapító okirat) így rendelkezik – az igazgatóság, az Mt. 188/A. § (1) bekezdése hatálya alá eső munkavállaló esetében pedig a munkáltatói jogokat gyakorló vezető tisztségviselő vagy a vezérigazgató határozhat meg, amelyről a felügyelőbizottság véleményét előzetesen ki kell kérni. Teljesítménykövetelményként az üzleti terv fő számainak teljesítése mellett csak olyan feltétel határozható meg, amelynek teljesítése a munkakör elvárható szakértelemmel és gondossággal való ellátásán alapuló, objektíven meghatározható teljesítményt takar.
+(2)
 
-(3) A köztulajdonban álló gazdasági társaság legfőbb szerve e törvény és más jogszabályok keretei között köteles szabályzatot alkotni a vezető tisztségviselők, felügyelőbizottsági tagok, valamint az Mt. 188. § (1) bekezdése vagy 188/A. § (1) bekezdése hatálya alá eső munkavállalók javadalmazása, valamint a jogviszony megszűnése esetére biztosított juttatások módjának, mértékének elveiről, annak rendszeréről. A szabályzatot az elfogadásától számított harminc napon belül a cégiratok közé letétbe kell helyezni.
+(3) A köztulajdonban álló gazdasági társaság legfőbb szerve e törvény és más jogszabályok keretei között köteles szabályzatot alkotni a vezető tisztségviselők, felügyelőbizottsági tagok, valamint az Mt. 208. §-ának hatálya alá eső munkavállalók javadalmazása, valamint a jogviszony megszűnése esetére biztosított juttatások módjának, mértékének elveiről, annak rendszeréről. A szabályzatot az elfogadásától számított harminc napon belül a cégiratok közé letétbe kell helyezni.
 
-(4) A (2) bekezdés rendelkezéseitől, valamint a (3) bekezdésben meghatározott szabályzat rendelkezéseitől érvényesen eltérni nem lehet.
+(4) A (3) bekezdésben meghatározott szabályzat rendelkezéseitől érvényesen eltérni nem lehet.
 
 6. § (1) A köztulajdonban álló gazdasági társaság igazgatósága elnökének e jogviszonyára tekintettel megállapított díjazása nem haladhatja meg a mindenkori kötelező legkisebb munkabér hétszeresét, illetve az igazgatóság többi tagja esetében a mindenkori kötelező legkisebb munkabér ötszörösét.
 
@@ -71,11 +71,7 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (4) Egy természetes személy legfeljebb egy köztulajdonban álló gazdasági társaságnál betöltött vezető tisztségviselői megbízatás, valamint legfeljebb egy köztulajdonban álló gazdasági társaságnál betöltött felügyelőbizottsági tagság után részesülhet javadalmazásban.
 
-7. § (1) A köztulajdonban álló gazdasági társaságnál a végkielégítésre való jogosultság tekintetében a kollektív szerződésben meghatározott, ennek hiányában, illetve olyan munkavállaló esetében, akire a kollektív szerződés hatálya nem terjed ki, az Mt.-ben szabályozott feltételektől a felek megállapodása nem térhet el. A munkavállaló nem jogosult végkielégítésre, ha a munkáltató rendes felmondásának indoka – ide nem értve az egészségügyi alkalmatlanságot – a munkavállaló képességeivel vagy munkaviszonnyal kapcsolatos magatartásával összefügg.
-
-(2) A köztulajdonban álló gazdasági társaságnál a felmondási idő – a kollektív szerződés hatálya alá tartozó munkavállalók esetében a kollektív szerződés eltérő rendelkezése hiányában – a három hónapot nem haladhatja meg. A felmondási idő harminc nap, ha a munkáltató rendes felmondásának indoka – ide nem értve az egészségügyi alkalmatlanságot – a munkavállaló képességeivel vagy munkaviszonnyal kapcsolatos magatartásával összefügg.
-
-(3) A köztulajdonban álló gazdasági társaság esetében az Mt. 3. § (6) bekezdésében meghatározott megállapodás akkor köthető, ha a gazdasági társaság főtevékenysége szerinti, a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvényben meghatározott érintett piacon a gazdasági társaságnak versenytársai működnek. A megállapodás legfeljebb egy évre szólhat. Az ellenérték mértéke legfeljebb az Mt. 3. § (6) bekezdésében foglalt megállapodásban kikötött idő tartamának felére járó átlagkereset lehet, amely csak a munkaviszony megszűnésekor fizethető ki a munkavállaló részére. A megállapodás megkötéséhez a felügyelőbizottság előzetes véleménye, továbbá az igazgatóság, ennek hiányában a gazdasági társaság legfőbb szervének a felügyelőbizottság véleményének ismeretében hozott, előzetes jóváhagyása szükséges.
+7. §
 
 8. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
 
@@ -83,7 +79,7 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (3) Hatályát veszti az államháztartásról szóló 1992. évi XXXVIII. törvény 100/N. § (2) és (5) bekezdése, valamint az állami vagyonról szóló 2007. évi CVI. törvény 30. § (2)–(4) és (6) bekezdése.
 
-(4) Az Mt. 13. § (3) bekezdésében a „ha e törvény” szövegrész helyébe a „ha e törvény vagy a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló törvény” szöveg, 189. §-ában a „vezetőre” szövegrész helyébe a „vezetőre, valamint a 188/A. § (1) bekezdése szerinti munkakört betöltő munkavállalóra” szöveg lép.
+(4)
 
 (5) A 3. § (3) bekezdését, 4. § (2) bekezdését, 5. § (1)–(2) bekezdését, 6. § (1)–(3) bekezdését, valamint 7. §-át nem kell alkalmazni azon gazdasági társaságokra, amelyekben együttesen nem a Magyar Állam, helyi önkormányzat, a helyi önkormányzat jogi személyiséggel rendelkező társulása, többcélú kistérségi társulás, fejlesztési tanács, nemzetiségi önkormányzat, nemzetiségi önkormányzat jogi személyiségű társulása, költségvetési szerv vagy közalapítvány vagy ezek többségi befolyása alatt álló gazdasági társaság jogosult a vezető tisztségviselők többségének megválasztására, illetve visszahívására.
 

@@ -255,6 +255,8 @@ meghatározott esetben.
 - b) kinevezését közvetlenül megelőzően alkotmánybíróként működött vagy nemzetközi szervezetnél vagy az Európai Unió valamely szervénél ítélkezett, illetve az igazságszolgáltatással összefüggő tevékenységet folytatott, és legalább ötéves szakmai gyakorlatot szerzett,
 - c) kiemelkedő elméleti jogi jártasságot szerzett a tudomány vagy az oktatás területén.
 
+(2a) A (2) bekezdés c) pontjának alkalmazásában kiemelkedő elméleti jogi jártasságú jogász az egyetemi tanár, a Magyar Tudományos Akadémia doktora vagy az a személy, aki legalább húszévi, jogi területen folytatott szakmai gyakorlattal rendelkezik; e jogi szakmai gyakorlatot olyan munkakörben kell eltölteni, amely betöltésének feltétele a jogász végzettség.
+
 (3) Ha a bíró szolgálati viszonya a 90. § g) vagy n) pontja alapján szűnt meg, és az ott megjelölt megbízatása lejártát követő 30 napon belül kéri bíróvá történő ismételt kinevezését, őt kérelmére, pályázat kiírása nélkül a köztársasági elnök – az OBH elnökének javaslatára – a megszűnést megelőző kinevezésének megfelelően határozott vagy határozatlan időre bíróvá kinevezi. A bírói munkakörbe történő beosztásnál az 58. § (3) és (4) bekezdésében írt rendelkezéseket kell alkalmazni, a 90. § g) és n) pontjában megjelölt jogviszonyban eltöltött időt pedig szolgálati időként kell figyelembe venni.
 
 24. § (1) A bíróság elnöke a határozott idő utolsó napját megelőző 90 nappal korábban beszerzi a határozott időre kinevezett bíró nyilatkozatát arról, hogy kéri-e a határozatlan időre történő bírói kinevezését.
@@ -349,7 +351,7 @@ elnökének véleményét.
 
 33. § (1) A bíró a bírói álláshelyre kiírt pályázati feltételekben rögzített időbeli korlátozásnak megfelelően ideiglenesen más szolgálati helyre kirendelhető, ha ez a bíróságok közötti aránytalan ügyteher kiegyenlítése céljából szükséges. A pályázat benyújtása a kirendeléshez való hozzájárulásnak tekintendő.
 
-(2) Az (1) bekezdés szerinti esetben a bírót az ideiglenes szolgálati helye szerinti bíróságra kell beosztani.
+(2) Az (1) bekezdés szerinti esetben a bírót a pályázati felhívásban meghirdetett álláshelynek megfelelő szolgálati hely szerinti bíróságra kell beosztani.
 
 #### 18. Áthelyezés
 
@@ -462,7 +464,7 @@ elnökének véleményét.
 (3) A részmunkaidő kikötése
 
 - a) a fizetés nélküli szabadság megszűnését követő naptól,
-- b) ha a bírónak a Munka Törvénykönyve 134. § (3) bekezdés b) pontja alapján ki kell adni a rendes szabadságát, a szabadság leteltét követő naptól
+- b) ha a bírónak a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 134. § (3) bekezdés b) pontja alapján ki kell adni a rendes szabadságát, a szabadság leteltét követő naptól
 
 hatályos.
 
@@ -518,6 +520,8 @@ történő rendelkezésre állás.
 (2) A bírót az 50. életéve betöltésének évétől – a fizetési fokozatától függetlenül – évi 40 munkanap alapszabadság illeti meg.
 
 (3) A bírósági vezetők évi 5 munkanap pótszabadságra jogosultak. Az évi alapszabadság és a vezetői pótszabadság együttes mértéke a 40 munkanapot nem haladhatja meg.
+
+(4) A munkáltatói jogkör gyakorlója a bíró kérésére – rendkívül indokolt esetben – fizetés nélküli szabadságot engedélyezhet, azonban annak teljes időtartama az 1 évet nem haladhatja meg.
 
 56. § A Bíróságok Napja július 15-e, amely a bíróságokon – az igazságügyi alkalmazottakra is kiterjedően – munkaszüneti nap.
 
@@ -636,7 +640,9 @@ történő rendelkezésre állás.
 - d) kötelező képzéseken való részvételével kapcsolatos adatokat, továbbá
 - e) az OBH elnöke által szabályzatban meghatározott egyéb okiratokat, véleményeket, adatokat.
 
-(3) A bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető – nem értve ez alatt a közigazgatási és munkaügyi regionális kollégium vezetőjét – vagy az általa kijelölt bíró a vizsgálat kezdeményezőjének, továbbá járásbírósági bíró esetén az ítélőtábla, közigazgatási és munkaügyi bírósági bíró, valamint a törvényszéken közigazgatási és munkaügyi ügyeket tárgyaló bíró esetén a közigazgatási és munkaügyi regionális kollégium vezetőjének előzetesen megküldi a vizsgálati jelentést és az értékelés tervezetét.
+(2a) Ha a vizsgálatot a kollégiumvezető végzi, és személye megegyezik a (2) bekezdés c) pontja szerinti kollégiumvezetővel, a (2) bekezdés c) pont szerinti véleményt a vizsgálat irataihoz csatolja.
+
+(3) A bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető – nem értve ez alatt a közigazgatási és munkaügyi regionális kollégium vezetőjét – vagy az általa kijelölt bíró a vizsgálat kezdeményezőjének, továbbá a kúriai bíró kivételével a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének, a járásbírósági bíró esetén az ítélőtábla, közigazgatási és munkaügyi bírósági bíró, valamint a törvényszéken közigazgatási és munkaügyi ügyeket tárgyaló bíró esetén a közigazgatási és munkaügyi regionális kollégium vezetőjének előzetesen megküldi a vizsgálati jelentést és az értékelés tervezetét.
 
 73. § Az értékeléshez szükséges ügyek kiválasztásának rendjét és a vizsgálat részletes szabályait az OBH elnöke szabályzatban határozza meg.
 
@@ -748,13 +754,15 @@ történő rendelkezésre állás.
 - n) ha állami felsőoktatási intézmény rektorává vagy költségvetési szervként működő kutatóközpont vagy kutatóintézet vezetőjévé nevezik ki,
 - o) ha a bíró szolgálati viszonyát jogellenesen megszüntette.
 
-91. § A bíró – kérelmére – felmenthető, ha rokkantsági (baleseti rokkantsági) nyugdíjra válik jogosulttá.
+#### 91. §
 
 92. § A szolgálati viszony jogellenes megszüntetésének minősül, ha a bíró azt lemondás nélkül vagy az irányadó felmentési idő lejárta előtt – egyoldalúan – szüntette meg.
 
 93. § (1) A bíró tisztségéről bármikor írásban lemondhat.
 
 (2) A bíró lemondása esetén a lemondási idő 3 hónap. Az OBH elnöke a bíró kérelmére ennél rövidebb időhöz is hozzájárulhat, továbbá a bírót a lemondási időre vagy egy részére mentesítheti a munkavégzési kötelezettség alól.
+
+(3) A munkavégzési kötelezettség alóli mentesítés tartamára a bíró az átlagilletményére jogosult.
 
 94. § (1) A Tny. 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással akkor kérhető a felmentés, ha a feltételekkel legkésőbb a felmentési idő utolsó napján rendelkezik a bíró.
 
@@ -763,6 +771,8 @@ történő rendelkezésre állás.
 (3) Nyugállományba helyezés, a felső korhatár elérése esetén, valamint ha a bíró szolgálati viszonya a 90. § j) pontja szerint szűnik meg, a bíró felmentési ideje 6 hónap. A bírót a munkavégzési kötelezettség alól 3 hónapra mentesíteni kell. A bíró kérelmére a munkavégzési kötelezettség alóli mentesítés idejét az OBH elnöke ennél rövidebb tartamban is megállapíthatja.
 
 (4) A munkavégzési kötelezettség alól mentesített bíró nem ítélkezhet, bírósági vezetői beosztás esetén vezetőként nem járhat el, a bírói tisztséghez fűződő szavazati, illetve igazgatási jogokat nem gyakorolhatja.
+
+(5) A munkavégzési kötelezettség alóli mentesítés tartamára a bíró az átlagilletményére jogosult.
 
 95. § A nyugállományba helyezett bíró a nyugállományba vonulását közvetlenül megelőzően betöltött beosztásának és vezetői tisztségének megnevezését a „nyugalmazott” jelzővel jogosult viselni.
 
@@ -1087,7 +1097,7 @@ történő rendelkezésre állás.
 
 - a) az illetmény és a táppénz,
 - b) az illetmény és a sérelem folytán csökkent kereset,
-- c) az átlagilletmény és a rokkantsági nyugdíj különbözetének a megtérítése iránti igényt.
+- c) az átlagilletmény, a távolléti díj és a rokkantsági nyugdíj, rokkantsági ellátás vagy rehabilitációs ellátás különbözetének a megtérítése iránti igényt.
 
 (2) Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban esedékes újabb elkülönülő kárigény származik, ezek elévülési idejét egymástól függetlenül, az egyes igények esedékessé válásától kezdődően, külön-külön kell számítani.
 
@@ -1095,7 +1105,9 @@ történő rendelkezésre állás.
 
 - a) a táppénz első fizetésének napjától,
 - b) attól az időponttól, amikor a sérelem folytán bekövetkezett munkaképesség-csökkenés első ízben vezetett jövedelemkiesésben megmutatkozó károsodásra,
-- c) a rokkantsági nyugállományba helyezés időpontjától kezdődik.
+- c) a rokkantsági nyugállományba, rokkantsági ellátásba vagy rehabilitációs ellátásba helyezés időpontjától
+
+kezdődik.
 
 (4) Járadékigény 6 hónapnál régebbi időre visszamenőleg csak akkor érvényesíthető, ha a jogosultat a követelés érvényesítésében mulasztás nem terheli. Három évnél régebbi időre visszamenőleg járadékigény nem érvényesíthető.
 
@@ -1110,6 +1122,8 @@ történő rendelkezésre állás.
 145. § (1) A bíró a szolgálati viszonyából eredő igénye érvényesítése érdekében szolgálati jogvitát kezdeményezhet. A munkáltatói jogkör gyakorlójának a mérlegelési jogkörében hozott döntése ellen jogvita csak abban az esetben kezdeményezhető, ha a munkáltató a döntésének a kialakítására irányadó jogszabályokat megsértette.
 
 (2) A szolgálati jogvitában a 146. §-ban foglalt kivétellel a szolgálati bíróság jár el.
+
+(3) Ha a szolgálati jogvita alapján a bírót tisztségébe vissza kell helyezni, meg kell téríteni a szolgálati viszony jogellenes megszüntetésével összefüggésben felmerült kárát, a munkáltató kártérítési felelősségére vonatkozó szabályok szerint.
 
 146. § (1) Az e törvény által a szolgálati bíróság hatáskörébe nem utalt szolgálati jogvitában a közigazgatási és munkaügyi bíróság jár el.
 
@@ -1262,7 +1276,7 @@ jogosult.
 - c) az ítélőtábla bírája részére „címzetes kúriai bíró”,
 - d) a kúria bírája részére „kúriai tanácsos” címet adományozhat.
 
-(2) Az adott bírósági szinten tényleges bírói gyakorlattal eltöltött legalább húsz év után – beszámítva a magasabb szintű bíróságon bírói szolgálati viszonyban töltött időt is – az OBT
+(2) Az adott bírósági szinten tényleges bírói gyakorlattal eltöltött legalább húsz év után – beszámítva a magasabb szintű bíróságon bírói szolgálati viszonyban töltött időt is – az OBH elnöke
 
 - a) a járásbírósági, valamint a közigazgatási és munkaügyi bírósági bíró részére „címzetes törvényszéki bíró”,
 - b) a törvényszéki bíró részére „címzetes táblabíró”,
@@ -1326,7 +1340,7 @@ jogosult.
 
 183. § (1) A bíró cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. Az OBH elnöke további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
-(2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő bíró, valamint a bíró azon időtartam vonatkozásában, amelyre illetményre vagy átlagkeresetre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
+(2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő bíró, valamint a bíró azon időtartam vonatkozásában, amelyre illetményre vagy átlagilletményre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
 (3) A bíró írásban vagy elektronikus úton a tárgyév január 15-ig, illetve a bírói szolgálati viszony létesítésekor vagy az áthelyezésekor nyilatkozik arról, hogy a cafetéria-juttatás összegén belül milyen juttatásokra tart igényt. A nyilatkozat ezt követően csak akkor módosítható, ha azt az OBH elnökének szabályzata lehetővé teszi. Az OBH elnöke szabályzatban előírhatja, hogy a bíró helyi utazására szolgáló bérlet választására vonatkozó nyilatkozatot korábban kell megtenni.
 
@@ -1358,9 +1372,15 @@ jogosult.
 
 185. § A bírót a munkaidején túl teljesített ügyeletért és készenlétért díjazás illeti meg. Ügyelet esetén a díj összege a bírónak az ügyeletben töltött órákra eső illetménye, készenlét esetén ennek 50 százaléka. Ha a bíró az ügyeletet, illetve a készenlétet pihenőnapon vagy munkaszüneti napon teljesíti, kétszeres összegű díjazásra jogosult.
 
-186. § (1) Ha a bírót a szolgálati helyétől eltérő más településen működő olyan bíróságra rendelik ki, ahonnan a munkahelyére naponta nem tud visszautazni, a kirendelésen töltött munkanapokra – a közlekedési és a szállásköltség megtérítésén túl – élelmezési költségátalányként kirendelési díjra jogosult. Ha a kirendelésre a 32. § (1) bekezdése alapján kerül sor, a bíró a díj 150 százalékára jogosult.
+186. § (1) Ha a bírót a szolgálati helyétől eltérő más településen működő olyan bíróságra rendelik ki, ahonnan a szolgálati helyére naponta nem tud visszautazni, a kirendelésen töltött munkanapokra – a közlekedési és a szállásköltség megtérítésén túl – élelmezési költségátalányként kirendelési díjra jogosult.
 
-(2) Az a bíró, aki tisztségét a 33. §-ban foglaltakra tekintettel kiírt pályázat alapján tölti be, rendelkezésre állási pótlékra jogosult. A pótlék összege a bírói illetményalap összegének 20 százaléka.
+(2) A kirendelési díjat – az (5) bekezdésben foglalt kivétellel – a 187. § (1) és (3) bekezdésében foglaltak alapján kell megállapítani. Ha a kirendelésre a 32. § (1) bekezdése alapján kerül sor, a bíró a díj 150 százalékára jogosult.
+
+(3) Nem számolható el kirendelési díj azokra a munkanapokra, amikor a bíró belföldi kiküldetési díjra jogosult, továbbá ha az élelmezést a kirendelés helyén természetben biztosítják.
+
+(4) Az a bíró, aki tisztségét a 33. §-ban foglaltakra tekintettel kiírt pályázat alapján tölti be rendelkezésre állási pótlékra jogosult. A pótlék összege a bírói illetményalap összegének 20 százaléka.
+
+(5) Ha a tisztségét a 33. §-ban foglaltakra tekintettel kiírt pályázat alapján betöltő bíró az (1) bekezdés szerinti feltételek szerint kerül kirendelésre, a rendelkezésre állási pótlék mellett jogosult kirendelési díjra, amit a 187. § (1) és (3) bekezdésében foglaltak alapján kell megállapítani azzal az eltéréssel, hogy kirendelési díjként a bírói illetményalap egy munkanapra eső részének a 10 százaléka állapítható meg.
 
 187. § (1) A bírót belföldi kiküldetés esetén – az élelmezéssel kapcsolatos többletköltségek fedezésére – napidíjként a bírói illetményalap egy munkanapra eső részének a 20 százaléka illeti meg. Ha a kiküldetésben töltött idő a 6 órát nem haladja meg, de a 4 órát eléri, a napidíj fele jár. A napidíj összegének kiszámításánál havonta 21 napot kell figyelembe venni.
 
@@ -1395,6 +1415,26 @@ jogosult.
 (2) A nyugállományú bíró pénzbeli és természetbeni támogatásban részesíthető.
 
 (3) Az (1) és (2) bekezdésben meghatározott juttatások részletes feltételeit és mértékét az OBH elnöke – az érdek-képviseleti szervekkel együttműködve – állapítja meg.
+
+189/A. § (1) Ha a bírónak átlagilletményt kell fizetni, részére az átlagszámítás alapjául szolgáló időszakra (a továbbiakban: irányadó időszak) kifizetett illetmény és jutalom (a továbbiakban e §-ban együtt: javadalmazás) időarányosan számított átlaga jár.
+
+(2) Az (1) bekezdés szerinti átlagszámításnál az esedékességtől eltérő időben kifizetett javadalmazást az esedékesség napján teljesített kifizetésnek kell tekinteni.
+
+(3) Az átlagilletmény számításánál az illetményt az átlagilletmény esedékessége időpontjában érvényes összegben kell figyelembe venni.
+
+(4) Az átlagilletmény-számítás alapjául az utolsó négy naptári negyedévre kifizetett javadalmazások szolgálnak.
+
+(5) Ha a bíró szolgálati viszonya a négy naptári negyedévnél rövidebb, az átlagilletmény számításakor a nála számításba vehető naptári negyedév(ek), negyedév hiányában az utolsó naptári hónap(ok)ra kifizetett javadalmazást kell figyelembe venni.
+
+(6) Az irányadó időszakban kifizetett, de az irányadó időszakot meghaladó, meghatározott időtartamra járó javadalmazásnak, továbbá az irányadó időszakon kívüli időben kifizetett, de az irányadó időszak alatti munkavégzés alapján járó javadalmazásnak csak az átlagszámítás alapjául figyelembe vehető időszakra eső – a (8) bekezdés szerinti osztószám figyelembevételével számított – (időarányos) részét kell az átlagszámításnál a kifizetett javadalmazás összegébe beszámítani.
+
+(7) Ha a bíró szolgálati viszonya egy naptári hónapnál rövidebb, átlagilletményének a távolléti díjával azonos összeg tekintendő.
+
+(8) Az egy órára, illetve az egy munkanapra járó átlagilletményt úgy kell kiszámítani, hogy a bíró irányadó időszaki javadalmazásának együttes összegét osztani kell az adott időszakban munkában töltött, valamint az illetménnyel fizetett, de munkában nem töltött órák, illetve munkanapok számával (a továbbiakban együtt: osztószám).
+
+(9) Az a naptári negyedév – az (5) bekezdés szerinti naptári negyedév(ek) hiányában az a naptári hónap –, amelyben a bírónak kifizetett javadalmazáshoz osztószám nem tartozik, az irányadó időszak meghatározásánál nem vehető figyelembe.
+
+(10) Ha e törvény a fizetési kötelezettség megállapításánál havi átlagilletmény alkalmazását írja elő, akkor egy havi átlagilletményen a bíró egy napi átlagilletményének a huszonkétszerese értendő. Munkaidőkeret alkalmazása esetén a havi átlagilletmény kiszámításánál a (8) bekezdésben foglaltak szerint meghatározott egy órára járó átlagilletmény összege szorzandó 174-gyel, részmunkaidő esetén ennek időarányos részével.
 
 190. § (1) Az állam készfizető kezességet vállal a bíró által a lakás építéséhez, vásárlásához hitelintézettől igényelt állami kamattámogatású kölcsön összegének a hitel fedezetéül szolgáló, hitelcél szerinti lakásingatlan hitelbiztosítéki értékének 60%-át meghaladó részére, legfeljebb e hitelbiztosítéki érték 100%-áig.
 
@@ -1566,7 +1606,7 @@ jogosult.
 
 (4) A közigazgatási és munkaügyi bíróság ülnökeit elsősorban a munkavállalók és munkaadók érdek-képviseleti szervei jelölik.
 
-214. § (1) A jelölt a jelölés elfogadásáról írásban nyilatkozik. A nyilatkozat a jelölt nevét, születési helyét és idejét, anyja nevét, lakóhelyét, iskolai végzettségét, szakképzettségét, foglalkozását, munkahelye nevét és címét, havi átlagkeresetét, valamint az aláírását tartalmazza.
+214. § (1) A jelölt a jelölés elfogadásáról írásban nyilatkozik. A nyilatkozat a jelölt nevét, születési helyét és idejét, anyja nevét, lakóhelyét, iskolai végzettségét, szakképzettségét, foglalkozását, munkahelye nevét és címét, egy hónapra járó távolléti díja összegét, valamint az aláírását tartalmazza.
 
 (2) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület részére hatósági bizonyítvánnyal igazolja büntetlen előéletét.
 
@@ -1650,7 +1690,14 @@ jogosult.
 
 ### XV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-222. § A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 3. §-ának (1)–(4) bekezdését, 4. §-át, 5. §-át, 6–12. §-át, 15. §-át, 18–19/A. §-át, 21–28. §-át, 74. §-át, 76. §-ának (6)–(8) bekezdését, 76/B. §-ának (1)–(2) bekezdését, 78/A. §-át, 79. § (2) bekezdését, 84/A. § (1) bekezdés a) pontját és (2) bekezdését, 85. §-át, 90. §-ának (1)–(4) bekezdését, 93. § (3) bekezdését, 97–98. §-ait, 107. §-át, 122. §-át, 123. §-ának (1) bekezdését, 125. §-át, 130. §-ának (2) bekezdését, 132. §-ának (2) bekezdését, 133. §-át, 134. § (1)–(3) bekezdését, (4) bekezdésének első mondatát, továbbá (5)–(11) bekezdését, 135–140/A. §-át, 142/A. §-át, 151. §-ának (2) és (4) bekezdését, 151/A. §-ának (1)–(2) és (5)–(6) bekezdését, 152. §-át, 153. §-ának (1) bekezdését, 154. §-ának (1) bekezdése első és harmadik mondatát, 155–157. §-át, 158. §-ának (1) bekezdése első mondatát és (2)–(3) bekezdését, 159–164. §-át, 202. § (2) bekezdését megfelelően alkalmazni kell.
+222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 134. § (1)–(3) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (4) bekezdését, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését, valamint a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 130. § (2) bekezdését, 132. § (2) bekezdését, 133. §-át, 134. § (1)–(3) bekezdését, (4) bekezdésének első mondatát, továbbá (5)–(11) bekezdését, 135–140/A. §-át, 151/A. § (1) és (2), valamint (5) és (6) bekezdését, megfelelően alkalmazni kell.
+
+(2) Az Mt.
+
+- a) 29. § (2) bekezdését azzal az eltéréssel kell megfelelően alkalmazni, hogy a távolléti díj helyett átlagilletményt kell megfizetni,
+- b) 135. § (1) bekezdését, valamint 165. § (1) bekezdés e)–g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
+- c) 229. §-át azzal az eltéréssel kell alkalmazni, hogy felmondás alatt a lemondást kell érteni,
+- d) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
 
 223. § Az e törvényben nem szabályozott kérdésekben a katonai bíró szolgálati viszonyára a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény rendelkezéseit is megfelelően alkalmazni kell azzal az eltéréssel, hogy a katonai bíró bármilyen illetményre és a jubileumi jutalomra e törvény alapján jogosult, és fegyelmi felelősségre vonására kizárólag e törvény alapján kerülhet sor.
 
@@ -1679,6 +1726,8 @@ rendelettel állapítsa meg.
 (3) Azon bírák részére, akiknek e törvény 174. § (2) és (3) bekezdése alapján 2012. január 1-jét követően címpótlék jár, a címpótlékot első ízben a 2012. április hónapra járó illetmény kifizetésével egyidejűleg kell kifizetni. A 2012. január, február és március hónapra járó elmaradt címpótlékot a 2012. április hónapra járó illetmény kifizetésével egyidejűleg kell kifizetni.
 
 (4) Az e törvény 184. § (3)–(5) bekezdésének figyelembevételével megállapított jubileumi jutalmat első ízben 2013. január 31. napjáig kell kifizetni.
+
+(5) Ha a bíró az átlagilletmény számítás alapjául szolgáló időszakban a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény alapján külön juttatásban részesült, annak összegét az átlagilletmény számítása során figyelembe kell venni.
 
 228. § (1) Ahol e törvény járásbíróságról, járásbírósági vezetőről, illetve járásbírósági bíróról rendelkezik, azon 2012. december 31. napjáig városi, valamint kerületi (együtt: helyi) bíróságot, városi, valamint kerületi (együtt: helyi) bírósági vezetőt, illetve városi, valamint kerületi (együtt: helyi) bírósági bírót kell érteni.
 

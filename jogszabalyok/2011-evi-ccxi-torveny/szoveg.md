@@ -54,7 +54,9 @@ Az Országgyűlés mindezen értékek megőrzése és erősítése céljából, 
 
 #### 1. A családi jogállás keletkezése
 
-#### 7. §
+7. § (1) A család a természetes személyek érzelmi és gazdasági közösségét megvalósító olyan kapcsolatrendszer, amelynek alapja egy férfi és egy nő házassága vagy egyenesági rokoni kapcsolat, vagy a családbafogadó gyámság.
+
+(2) Egyenesági rokoni kapcsolat leszármazással vagy örökbefogadással jön létre.
 
 #### 2. Jog az örökléshez
 
@@ -119,7 +121,10 @@ esetén.
 
 (2) A várandós, illetve egy évesnél fiatalabb gyermeket nevelő nőt csak az egészségi állapotának megfelelő olyan munkakörben lehet foglalkoztatni, amelyhez hozzájárult, és amelyben alapbére nem kevesebb, mint a megelőző munkakörében. A megfelelő munkakör felajánlása vagy kialakítása a foglalkoztató feladata. Amennyiben a foglalkoztató nem tud ilyet biztosítani, a nőt a munkavégzés alól fel kell menteni, és részére külön törvényben foglaltak szerint alapbért kell folyósítani.
 
-#### 17. §
+17. § A szülőt külön törvény szerinti fizetés nélküli szabadság illeti meg a gyermeke otthoni
+
+- a) gondozása céljából legalább a gyermek harmadik életéve, illetve tartósan beteg, súlyosan fogyatékos gyermek, ikergyermekek nevelése esetén a külön törvény szerinti korhatár betöltéséig,
+- b) ápolása céljából legalább a gyermek tizenkettedik életéve betöltéséig, illetve ezt követően a személyes ápolás indokoltságának igazolása alapján.
 
 18. § A szülő külön törvény szerinti felmondási védelem alatt áll, ha
 
@@ -127,7 +132,7 @@ esetén.
 - b) beteg gyermekét ápolja,
 - c) várandós, szülési szabadságon vagy a gyermek otthoni gondozása céljából igénybe vett fizetés nélküli szabadságon van, illetve emberi reprodukciós eljárással összefüggő kezelésben vagy gyermek örökbefogadására irányuló eljárásban vesz részt.
 
-#### 19. §
+19. § A gyermek gondozása céljából igénybe vett ellátásból a foglalkoztatásba visszatérő szülőt kérésére – legalább a gyermek harmadik életévének betöltéséig – külön törvény szerinti részmunkaidőben kell foglalkoztatni.
 
 20. § (1) A család gyermekvállalással és gyermekneveléssel kapcsolatos feladatai ellátásának segítésére – külön törvényben foglaltak szerint –
 

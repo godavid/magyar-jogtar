@@ -203,7 +203,7 @@ kapcsolatos feladatokat.
 
 - a) kormánytisztviselőkre és ügykezelőkre a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.),
 - b) pénzügyőrökre a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.),
-- c) munkavállalókra a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+- c) munkavállalókra a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 16. § A NAV teljes személyi állománya tekintetében a NAV által bevezetett – a NAV elnöke által meghatározott – teljesítményértékelési rendszert kell alkalmazni.
 
@@ -283,7 +283,7 @@ kapcsolatos feladatokat.
 
 (6) A Hszt. 86. § (6) bekezdésének alkalmazásában a pénzügyőrök tekintetében munkaszüneti napnak minősül január 26-a, a nemzetközi vámnap.
 
-(7) A munkaszüneti napok körüli munkarendre a hivatásos állomány vonatkozásában a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 125. §-ának (5) bekezdésében kapott felhatalmazás alapján kiadott jogszabályban foglaltakat kell alkalmazni.
+(7) A munkaszüneti napok körüli munkarendre a hivatásos állomány vonatkozásában az Mt. 102. § (5) bekezdésében kapott felhatalmazás alapján kiadott jogszabályban foglaltakat kell alkalmazni.
 
 (8) A hivatásos állományú pénzügyi nyomozóra megfelelően alkalmazni kell a Hszt. 261–262. §-ainak rendelkezéseit.
 

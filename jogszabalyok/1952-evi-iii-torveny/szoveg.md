@@ -225,7 +225,7 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a törvénysz�
 (2) A keresettel érvényesített követelés vagy más jog értékeként – a tényleg megállapítható összegtől függetlenül – az alábbi értéket kell számításba venni:
 
 - a) tartási vagy élelmezési követelés, egyéb járadék, más időszakos szolgáltatás vagy haszonvétel iránti perben a még teljesítendő valamennyi szolgáltatás értékét, de nem többet, mint az egy évi szolgáltatás értékét;
-- b) a munkaügyi perben – feltéve, hogy a per tárgya nem pénzkövetelés – az egyévi átlagkereset, ha a perben maga a munkaviszony vitás, ha pedig a jogvita csak bérkülönbözettel kapcsolatos, a bérkülönbözet egyévi összegét;
+- b) a munkaügyi perben – feltéve, hogy a per tárgya nem pénzkövetelés – az egyévi távolléti díjat, ha a perben maga a munkaviszony vitás, ha pedig a jogvita csak bérkülönbözettel kapcsolatos, a bérkülönbözet egyévi összegét;
 - c) bérleti vagy haszonbérleti jogviszonyra vonatkozó perben az egyévi bér, illetőleg haszonbér összegét;
 - d) számadás helyességének megállapítása iránt indított perben a vitás követelések, illetőleg tartozások összege közül a nagyobb összeget, számadási kötelezettség megállapítása iránt indított perben pedig azt az összeget, amelyet a felperes keresetében a számadás előterjesztésének elmulasztása esetére felszámít;
 - e) dologi jogi perekben a vitás dolog (rész), illetőleg dologi jog értékét;
@@ -3286,22 +3286,21 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### Az eljárás megindítása
 
-349. § (1) A munkaviszonyból, közalkalmazotti jogviszonyból, közszolgálati jogviszonyból, szolgálati jogviszonyból, szövetkezeti tag munkaviszony jellegű jogviszonyából és a bedolgozói jogviszonyból (a továbbiakban: munkaviszony) származó perekben (munkaügyi perek) az I–XIV. fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+349. § (1) Az I–XIV. fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni
 
-(2) Az (1) bekezdés szerinti munkaügyi pernek minősül:
+- a) a munkajogi igény [Mt. 285. § (1) bekezdés] érvényesítésével kapcsolatos, továbbá
+- b) a közalkalmazotti,
+- c) kormányzati szolgálati és közszolgálati,
+- d) a szolgálati és
+- e) a munkavégzési kötelezettséggel járó szövetkezeti tagsági jogviszonyból (a továbbiakban: munkaviszony) származó perben (a továbbiakban: munkaügyi per).
 
-- a) a munkaszerződés megkötését megelőző tárgyalásra, a munkaviszony megszűnését követően a munkaviszonyból eredő jogra,
-- b) a kollektív szerződés kötésére jogosult felek, illetve ezek és harmadik személy között, a kollektív szerződés fennállására, továbbá a kollektív szerződésből eredő jogra,
-- c) a sztrájkkal, egyéb munkaharccal vagy a szervezkedési szabadsággal kapcsolatos jogellenes magatartásra vagy törvényben előírt kötelezettség teljesítésére,
-- d) az európai részvénytársaságban, valamint az európai szövetkezetben a munkavállalók döntéshozatalba történő bevonására vonatkozó szabályok megsértésére
+(2) Törvény az (1) bekezdésben foglaltakon túl más ügyekben is a munkaügyi perre vonatkozó szabályok alkalmazását írhatja elő.
 
-alapított igény érvényesítése.
+(3) A munkavállaló és a munkáltató közötti, a munkaviszonnyal közvetlen kapcsolatban lévő jogra alapított igény az (1) bekezdésben meghatározott munkaügyi perben is érvényesíthető.
 
-(3) A munkavállaló és a munkáltató közötti, a munkaviszonnyal közvetlen kapcsolatban lévő jogra alapított igény az (1)–(2) bekezdésekben meghatározott munkaügyi perben is érvényesíthető.
+(4) A munkaügyi bíróság hatáskörébe tartozik a munkaügyi és a munkavédelemi ellenőrzés keretében hozott közigazgatási határozat, az ágazati párbeszéd bizottság létrejöttével kapcsolatos, az abban való részvétel, illetve a gyakorolt jogosultságok tárgyában hozott határozat, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján az állami foglalkoztatási szerv által hozott közigazgatási határozat, valamint a társadalombiztosítási határozat bírósági felülvizsgálata. Ennek során a munkaügyi bíróság a XX. fejezet szabályai szerint jár el.
 
-(4) A fél a pénzkövetelés iránti igényét fizetési meghagyás útján is érvényesítheti, kivéve, ha a per tárgya a jogviszony keletkezése, módosulása, megszűnése vagy a munkaviszonyból származó kötelezettségeknek a munkavállaló által történt vétkes megszegése miatt alkalmazott jogkövetkezmény, illetve fegyelmi vétség miatt alkalmazott jogkövetkezmény.
-
-(5) A munkaügyi bíróság hatáskörébe tartozik a munkaügyi ellenőrzés, a munkavédelem keretében hozott közigazgatási határozat, a kollektív szerződés ágazatra történő kiterjesztésével kapcsolatosan hozott határozat, az Országos Érdekegyeztető Tanács, illetve az ágazati párbeszéd bizottság létrejöttével, az abban való részvétel, illetve gyakorolt jogosultságok tárgyában hozott határozat, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján az állami foglalkoztatási szerv által hozott közigazgatási határozat, valamint a társadalombiztosítási határozat bírósági felülvizsgálata; ennek során a munkaügyi bíróság a XX. fejezet szabályai szerint jár el.
+(5) A fél a pénzkövetelés iránti igényét fizetési meghagyás útján is érvényesítheti, kivéve, ha a per tárgya a jogviszony keletkezése, módosítása (módosulása), megszűnése vagy a munkaviszonyból származó kötelezettségeknek a munkavállaló által történt vétkes megszegése, illetve fegyelmi vétség miatt alkalmazott jogkövetkezmény.
 
 ### Bíróságok
 
@@ -3347,7 +3346,7 @@ alapított igény érvényesítése.
 
 ### Tárgyalás
 
-355. § (1) Ha a tárgyaláson a felek személyesen vagy képviselőik útján megjelentek, a tárgyalás – a Munka Törvénykönyvének 109. §-a alapján alkalmazott jogkövetkezmény tekintetében vagy a fegyelmi felelősség alapján indult per kivételével – a felek megegyezésére irányuló egyeztetéssel kezdődik. Evégett az elnök a jogvita egészét az összes körülmény szabad mérlegelésével a felekkel megvitatja.
+355. § (1) Ha a tárgyaláson a felek személyesen vagy képviselőik útján megjelentek, a tárgyalás a felek megegyezésére irányuló egyeztetéssel kezdődik. Ebből a célból az elnök a jogvita egészét – az összes körülmény szabad mérlegelésével – a felekkel megtárgyalja.
 
 (2) Ha az (1) bekezdésben szabályozott egyeztetés eredménytelenül végződött, a bíróság a tárgyalást nyomban megtartja.
 
@@ -3369,7 +3368,7 @@ alapított igény érvényesítése.
 
 ### Munkavállalói költségkedvezmény
 
-359/A. § Ha a munkaügyi per által érintett munkaviszonyból származó átlagkereset nem haladja meg a külön jogszabályban meghatározott mértéket, a perben félként résztvevő munkavállaló munkavállalói költségkedvezményre jogosult. A felet a munkavállalói költségkedvezmény alapján – jogszabály eltérő rendelkezése hiányában – a keresetlevél előterjesztésétől kezdve, a per egész tartamára, valamint a végrehajtási eljárásra is kiterjedően teljes költségmentesség illeti meg. A munkavállalói költségkedvezményre vonatkozó adatokat a keresetlevélben fel kell tüntetni, illetve ahhoz csatolni kell a szükséges iratokat. A fél jogosultságát a bíróság a csatolt iratok alapján hivatalból vizsgálja.
+359/A. § Ha a munkaügyi per által érintett munkaviszonyból származó távolléti díj nem haladja meg a külön jogszabályban meghatározott mértéket, a perben félként résztvevő munkavállaló munkavállalói költségkedvezményre jogosult. A felet a munkavállalói költségkedvezmény alapján – jogszabály eltérő rendelkezése hiányában – a keresetlevél előterjesztésétől kezdve, a per egész tartamára, valamint a végrehajtási eljárásra is kiterjedően teljes költségmentesség illeti meg. A munkavállalói költségkedvezményre vonatkozó adatokat a keresetlevélben fel kell tüntetni, illetve ahhoz csatolni kell a szükséges iratokat. A fél jogosultságát a bíróság a csatolt iratok alapján hivatalból vizsgálja.
 
 ### XXIV. Fejezet — Az alkotmányjogi panasz esetén követendő eljárás
 

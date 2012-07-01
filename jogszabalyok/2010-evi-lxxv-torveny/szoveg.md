@@ -2,14 +2,14 @@
 
 az egyszerűsített foglalkoztatásról
 
-1. § (1) E törvény szabályai szerint, egyszerűsített módon létesíthető munkaviszony (a továbbiakban: egyszerűsített foglalkoztatás)
+1. § (1) E törvény hatálya kiterjed az egyszerűsített módon létesíthető munkaviszonyban (a továbbiakban: egyszerűsített foglalkoztatás) végzett
 
 - a) mezőgazdasági, továbbá turisztikai idénymunkára vagy
 - b) alkalmi munkára.
 
 (2) Az alkalmi munkára irányuló egyszerűsített foglalkoztatás esetén az egyszerűsített munkaviszonyban egy naptári napon legfeljebb foglalkoztatott munkavállalók létszáma – a munkáltatónak a tárgyév első, illetve hetedik hónapját megelőző hat havi, ha a munkáltató ennél rövidebb ideje működik, működésének egész hónapjaira eső átlagos statisztikai létszámát alapul véve – nem haladhatja meg
 
-- a) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) hatálya alá tartozó főállású személyt nem foglalkoztató munkáltató esetén az egy főt,
+- a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó főállású személyt nem foglalkoztató munkáltató esetén az egy főt,
 - b) egy főtől öt főig terjedő munkavállaló foglalkoztatása esetén a két főt,
 - c) hattól húsz főig terjedő munkavállaló foglalkoztatása esetén a négy főt,
 - d) húsznál több munkavállaló foglalkoztatása esetén a munkavállalói létszám húsz százalékát.
@@ -36,15 +36,13 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 - 4. külföldi személy: a magyar állampolgársággal nem rendelkező természetes személy,
 - 5. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár,
 - 6. tagállam: az Európai Unió tagállama, valamint az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
-- 7. idénymunka: az Mt. 117. § (1) bekezdés j) pontjában meghatározott feltételeknek megfelelő munka. Mezőgazdasági idénymunka esetén az év adott időszakához vagy időpontjához kötődőnek kell tekinteni az olyan munkavégzést is, amely az előállított növény vagy állat biológiai sajátossága miatt végezhető el kizárólag abban az időszakban vagy időpontban.
+- 7. idénymunka: az Mt. 90. § c) pontjában meghatározott feltételeknek megfelelő munka. Mezőgazdasági idénymunka esetén az év adott időszakához vagy időpontjához kötődőnek kell tekinteni az olyan munkavégzést is, amely az előállított növény vagy állat biológiai sajátossága miatt végezhető el kizárólag abban az időszakban vagy időpontban.
 
 ### Az egyszerűsített foglalkoztatás céljára létrehozott munkaviszony
 
-3. § (1) Egyszerűsített foglalkoztatás céljából létrejött munkaviszony a felek szóbeli megállapodása alapján, a munkáltató 11. §-ban meghatározott bejelentési kötelezettségének teljesítésével keletkezik. Amennyiben azt a munkavállaló kéri, illetve a jogszabály alapján nem elektronikus úton bevallásra kötelezett munkáltató választása szerint, az egyszerűsített foglalkoztatás céljából munkaviszonyt az e törvény melléklete szerinti szerződés megkötésével kell létesíteni, és azt legkésőbb a munka megkezdéséig kell írásba foglalni, azzal, hogy ez nem mentesíti a munkáltatót a 11. §-ban szereplő bejelentési kötelezettség teljesítése alól. Ebben az esetben a munkavégzés napjának végéig elegendő kitölteni a munkáltató és a munkavállaló megnevezésén kívüli egyéb azonosító adatait.
+3. § (1) Egyszerűsített foglalkoztatás céljából létrejött munkaviszony a munkáltató 11. §-ban meghatározott bejelentési kötelezettségének teljesítésével keletkezik. A jogszabály alapján nem elektronikus úton bevallásra kötelezett munkáltató és a munkavállaló megállapodása alapján az egyszerűsített foglalkoztatás céljából munkaviszonyt az e törvény Melléklete szerinti szerződés megkötésével is lehet létesíteni, a 11. §-ban szereplő bejelentési kötelezettség teljesítése mellett. A munkaszerződést ekkor a munka megkezdéséig írásba kell foglalni úgy, hogy a munkavégzés napjának végéig elegendő kitölteni a munkáltató és a munkavállaló megnevezésén kívüli egyéb azonosító adatait.
 
-(2) Nem létesíthető egyszerűsített foglalkoztatásra munkaviszony olyan felek között, akik között a szerződés megkötésekor már az Mt. szabályai szerint létesített munkaviszony áll fenn.
-
-(3) Ha a munkaviszony nem egyszerűsített foglalkoztatás céljából jött létre, a munkaszerződés nem módosítható annak érdekében, hogy a munkáltató a munkavállalót egyszerűsített foglalkoztatás keretében foglalkoztassa.
+(2)–(3)
 
 (4) Nem létesíthető egyszerűsített foglalkoztatásra irányuló jogviszony a közszolgálati tisztviselőkről szóló törvény 1. § e) pontjában, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 1. § (1) bekezdésében meghatározott munkáltató által az alaptevékenységébe tartozó feladatai ellátására.
 
@@ -52,33 +50,9 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 
 (1a) Az egyszerűsített foglalkoztatás céljára létesített munkaviszony alapján személyi alapbérként, illetve teljesítménybérként – a meghatározott feltételeknek megfelelően – legalább a kötelező legkisebb munkabér 85%-a, garantált bérminimum esetén 87%-a jár.
 
-(2) Egyszerűsített foglalkoztatás esetén nem lehet alkalmazni az Mt.-nek
+(2)–(3)
 
-- a) a munkaviszony időtartamára vonatkozó 79. § (4) és (6)–(7) bekezdését,
-- b) a munkaszerződéstől eltérő foglalkoztatásra vonatkozó 83–83/A. §-át,
-- c) a munkaszerződés módosítására vonatkozó 84–84/A. §-át,
-- d) a munkáltató jogállásváltozására vonatkozó 86. § d) pontját, valamint 86/A–86/E. §-át,
-- e) a kiküldetésre, kirendelésre, más munkáltatónál történő munkavégzésre vonatkozó 105–106/B. §-át,
-- f) az egyéb hátrányos jogkövetkezményekre vonatkozó 109. §-át,
-- g) a munkaidőre vonatkozó szabályai közül a 117/A. §-át,
-- h) a vasárnap történő munkavégzésre vonatkozó 124. § (1) bekezdését,
-- i)
-- j) a foglalkoztatási kötelezettségnek a munkavállaló más munkáltatónál történő munkavégzéssel való teljesítésére vonatkozó 150. §-át,
-- k) az állásidőre vonatkozó 151. § (4) bekezdését,
-- l) a vezető állású munkavállalókra vonatkozó X. fejezetét,
-- m) a távmunkavégzésre vonatkozó X/A. fejezetét,
-- n) a munkaerő-kölcsönzésre vonatkozó XI. fejezetét, valamint
-- o) a közigazgatási szerveknél foglalkoztatott munkavállalókra vonatkozó eltérő rendelkezésekről szóló XII. fejezetét.
-
-(3) Egyszerűsített foglalkoztatás esetén nem kell alkalmazni az Mt-nek a szabadság kiadására vonatkozó 134. §-át.
-
-(4) Alkalmi munkára létesített egyszerűsített foglalkoztatás esetén a (2) bekezdésben foglaltakon túlmenően
-
-- a) nem kell alkalmazni az Mt. betegszabadságra, egyéb munkaidő-kedvezményekre vonatkozó 137–140. §-át,
-- b) a munkaidő-beosztás az Mt. 119. §-ától eltérően az egybefüggő munkavégzés első napján is közölhető,
-- c) a munkáltató munkaidőkeret hiányában is elrendelhet az Mt. 120. §-a szerint egyenlőtlen munkaidő-beosztást,
-- d) nem kell alkalmazni az Mt. 97-99. §-ában rögzített, a munkaviszony megszűnése esetén a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolások kiadására vonatkozó előírásokat,
-- e) amennyiben a felek írásban kötöttek munkaszerződést, nem kell alkalmazni az Mt. 140/A. §-ában foglalt munkaidő-nyilvántartásra, valamint az Mt. 160. §-ában foglalt munkabérről szóló írásbeli elszámolásról szóló rendelkezéseket.
+(4)
 
 5. § (1) Harmadik országbeli állampolgár – a bevándorolt vagy letelepedett jogállású személy kivételével – kizárólag mezőgazdasági idénymunka keretében foglalkoztatható e törvény szerint létesített munkaviszony alapján.
 

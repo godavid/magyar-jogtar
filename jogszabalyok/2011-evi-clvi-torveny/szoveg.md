@@ -80,7 +80,25 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 97. § (1)–(2)
 
-(3)
+(3) A Jöt. 99. §-a a következő (10)–(11) bekezdéssel egészül ki:
+
+„(10) A vámhatóság részére
+
+a) az adóraktár engedélyese a tárgynapon – többműszakos üzemelés esetén a tárgynapon befejezett utolsó műszak végéig – felhelyezett adójegyekről legkésőbb a felhasználást,
+
+b) a bejegyzett kereskedő a belföldön felhelyezett adójegyekről legkésőbb a felhelyezést,
+
+c) a más tagállamban felhelyezett adójegyekről
+
+ca) az adóraktár engedélyese legkésőbb a dohánytermék betárolásának napját,
+
+cb) a bejegyzett kereskedő legkésőbb a dohánytermék fogadásának napját,
+
+d) az importáló az importálást megelőzően felhelyezett adójegyekről legkésőbb a dohánytermék vámjogi szabad forgalomba bocsátásának napját
+
+követő napon köteles a felhelyezés, a beszállítás, a fogadás, illetve a vámjogi szabadforgalomba bocsátás napjára vonatkozó adatokat elektronikus úton, ügyfélkapun keresztül megküldeni. Többműszakos üzemelés esetén az adóraktár engedélyesének a tárgynapon megkezdett, de a következő napra átnyúló műszak alatt történt adójegy-felhasználásra vonatkozó adatokat a műszak befejezésének napján kell megküldenie.
+
+(11) Az adójegy-felhasználó az adójegykészletében bekövetkezett, a (10) bekezdésben foglaltakon túli változásokat is köteles – a külön jogszabályban meghatározott adattartalommal – a változás bekövetkezésének napját követő napon, elektronikus úton, ügyfélkapun keresztül a vámhatóság részére megküldeni.”
 
 98. §
 
@@ -500,6 +518,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (5) Az adófizetési kötelezettséget eredményező jogviszony alapján munkaerő-kölcsönzés keretében kölcsönbe adott munkavállalóval fennálló jogviszonyra tekintettel fizetendő adó alanya a kölcsönbe adó kifizető. A munkavállalót kölcsönbe vevő személy minősül azonban (kifizetőként) az adó alanyának, ha a kölcsönbe adó kifizető nem rendelkezik belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel, telephellyel, fiókteleppel, kereskedelmi képviselettel vagy a jogszabályban előírt belföldi nyilvántartásába bejegyzésre kötelezett más hasonló telephellyel.
 
+(5a) Több munkáltatóval létesített munkaviszony (Mt. 195. §) esetén kifizető az adózás rendjéről szóló törvény szerint meghatározott munkáltató.
+
 (6) Az adónak nem alanya:
 
 - a) a saját jogú nyugdíjas egyéni vállalkozó;
@@ -690,6 +710,15 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - d) a Karrier Híd Programban való részvétel megszűnésének eseteit, továbbá
 - e) a Karrier Híd Program megvalósítását szolgáló adókedvezmény igénybevételének alapjául szolgáló hatósági bizonyítvány kibocsátására vonatkozó eljárási szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
+### A megváltozott munkaképességű vállalkozók után érvényesíthető adókedvezmény
+
+462/A. § (1) A szociális hozzájárulási adóból részkedvezmény illeti meg
+
+- a) az egyéni vállalkozót a saját maga után fizetendő adóból,
+- b) a közkereseti társaságot, a betéti társaságot, a korlátolt felelősségű társaságot, a közös vállalatot, az egyesülést, az európai gazdasági egyesülést, a szabadalmi ügyvivői irodát, a szabadalmi ügyvivői társaságot, az ügyvédi irodát, a közjegyzői irodát, a végrehajtói irodát, az egyéni céget a tagjával fennálló adófizetési kötelezettséget eredményező jogviszonyára tekintettel terhelő adóból, ha az egyéni vállalkozó, illetve a tag 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül, vagy ha az egyéni vállalkozó, illetve a tag rokkantsági ellátásban részesül és egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50 százalékos vagy kisebb mértékű.
+
+(2) A részkedvezmény egyenlő az adómegállapítási időszakra az egyéni vállalkozó által saját maga után megállapított, illetve a tag után a kifizető által megállapított adóalap, de legfeljebb a minimálbér kétszeresének huszonhét százalékával.
+
 ### A foglalkoztatott munkavállalók után érvényesíthető adókedvezmény korlátozása
 
 463. § (1) A kifizető az ugyanazzal a természetes személlyel fennálló, adófizetési kötelezettséget eredményező jogviszonyára tekintettel csak e fejezet, vagy az adókedvezményt megállapító törvény külön rendelkezése alapján vehet egyidejűleg igénybe több olyan adókedvezményt, amelynek igénybevételére egyébként jogosult. A több adókedvezmény egyidejű igénybevételét lehetővé tévő külön rendelkezés hiányában az adókedvezmények közötti választás joga a kifizetőt illeti meg.
@@ -753,6 +782,16 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 (2) Az egyszerűsített közteherviselési hozzájárulásról, valamint az egyszerűsített foglalkoztatásról szóló törvény hatálya alá tartozó adófizetési kötelezettséget eredményező jogviszony esetében az adózó az adóval összefüggő adókötelezettségeit az érintett törvény rendelkezéseit figyelembe véve teljesíti.
 
 (3) Az Európai Unió kötelező jogi aktusának vagy a nemzetközi szerződésnek a rendelkezését kell alkalmazni, amennyiben az adóra kiterjedő hatályú jogi aktus, illetőleg nemzetközi szerződés e fejezettől eltérő rendelkezést tartalmaz.
+
+465/A. § (1) A 462/A. § alapján nyújtott támogatások csekély összegű támogatásnak minősülnek, amelyeket kizárólag az Európai Közösséget létrehozó Szerződés 87. és 88. cikkelyének a csekély összegű (de minimis) támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379/5. 2006.12.28.) (a továbbiakban: 1998/2006/EK bizottsági rendelet) szabályai alapján lehet nyújtani.
+
+(2) A 462/A. § alapján nem nyújtható csekély összegű (de minimis) támogatás az 1998/2006/EK bizottsági rendelet 1. cikkében meghatározottakra.
+
+(3) A csekély összegű támogatás odaítélésének feltétele, hogy a kedvezményezett nyilatkozik arról, hogy az előző három pénzügyi évben általa igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak, közúti szállítási ágazatban a 100 000 eurónak megfelelő forint összeget.
+
+(4) Az 1998/2006/EK bizottsági rendelet 3. cikk 1. pontja szerinti kötelezettséget, a támogatást nyújtó köteles teljesíteni.
+
+(5) Azonos elszámolható költségek tekintetében a csekély összegű (de minimis) támogatás nem kumulálható állami támogatással, ha az ilyen jellegű kumuláció olyan támogatási intenzitást eredményezne, amely túllépi a Bizottság 800/2008/EK általános csoportmentességi rendeletében vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített támogatási intenzitást.
 
 ### Értelmező rendelkezések
 

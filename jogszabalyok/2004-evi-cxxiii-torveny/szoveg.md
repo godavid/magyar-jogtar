@@ -24,8 +24,8 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 - 3. foglalkoztatásra irányuló jogviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, közalkalmazotti jogviszony, bírósági és igazságügyi, valamint ügyészségi szolgálati viszony, a hivatásos nevelő szülői jogviszony, a fegyveres és rendvédelmi szervek hivatásos és szerződéses állományú tagjának szolgálati viszonya;
 - 4. ösztöndíjas foglalkoztatási jogviszony: az e törvény szerinti, szakmai készségek megszerzése céljából munkatapasztalat-szerzés biztosítására és ennek keretében az egyéni szakmai programban foglalt feladatok ellátására létrejött jogviszony;
 - 5. négy órát elérő részmunkaidő: a napi négy órát, illetve – munkaidőkeret megállapítása esetén a munkaidőkeret átlagában – a heti húsz órát elérő munkaidő;
-- 6. ösztöndíjas foglalkoztatott: az a személy, aki az ösztöndíjas foglalkoztatási jogviszony létesítésének időpontjában – a 30. életévét még nem töltötte be, és – akinek a diplomája a jogviszony létesítését megelőző két éven belül került kiadásra, és – munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
-- 7. foglalkoztató: a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.), a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.), a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt) hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég;
+- 6. ösztöndíjas foglalkoztatott: az a személy, aki az ösztöndíjas foglalkoztatási jogviszony létesítésének időpontjában – a 30. életévét még nem töltötte be, – akinek a diplomája a jogviszony létesítését megelőző két éven belül került kiadásra, és – munkaviszonyban – ide nem értve az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény szerinti jogviszonyt és az adórendszeren kívüli foglalkoztatásnak minősülő háztartási munkára irányuló munkaviszonyt –, közalkalmazotti jogviszonyban, kormányzati szolgálati jogviszonyban, szolgálati jogviszonyban (a továbbiakban együtt: munkaviszony) nem áll;
+- 7. foglalkoztató: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.), a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 1. § e) pontja és 2. §-a, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság és egyéni cég;
 - 8. munkaügyi törvény: az Mt., a Kttv., és a Kjt.;
 - 9. tartósan álláskereső: az a személy, akit az állami foglalkoztatási szerv a START PLUSZ kártya – külön jogszabályban meghatározott módon történő – igénylésének időpontját megelőző 16 hónapon belül legalább 12 hónapig – az Flt. 58. §-a (5) bekezdésének k) pontjában meghatározott pályakezdő álláskereső esetében 8 hónapon belül legalább 6 hónapig – álláskeresőként nyilvántartott;
 - 10. öregségi nyugdíjra jogosult személy: az Flt. 58. §-a (5) bekezdésének i) pontjában meghatározott személy;
@@ -154,7 +154,7 @@ III. fejezet
 
 A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
 
-8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 138. § (5) bek. a) pont] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt terhességi-gyermekágyi segélyben, gyermekgondozási segélyben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
+8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 128. §] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt terhességi-gyermekágyi segélyben, gyermekgondozási segélyben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
 
 a) a gyermekgondozási szabadságról visszatérő munkavállaló és emellett
 
@@ -174,7 +174,7 @@ heti 20–20 órás részmunkaidős munkaviszony keretében látják el.
 
 a) a statisztikai előírások szerint nem tartozik az átlagos statisztikai állományi létszámba, vagy
 
-b) munkaviszonyát rendes vagy rendkívüli felmondással szüntette meg.
+b) munkaviszonyát felmondással vagy azonnali hatályú felmondással szüntette meg.
 
 (5) Ez a részkedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után egyidejűleg nem vehető igénybe.
 
@@ -228,7 +228,7 @@ AZ ÖSZTÖNDÍJAS FOGLALKOZTATÁS
 - c) folyamatosan irányítja és értékeli az ösztöndíjas foglalkoztatott tevékenységét,
 - d) elkészíti az ösztöndíjas foglalkoztatott egyéni programját és ajánlólevelét.
 
-12. § A foglalkoztatási ösztöndíj mértéke havonta – az Mt. 117/B. § (1) bekezdésében meghatározott teljes munkaidő esetén – nem lehet kevesebb a mindenkori legkisebb kötelező munkabérnél.
+12. § A foglalkoztatási ösztöndíj mértéke havonta – az Mt. 92. § (1) bekezdésében meghatározott teljes munkaidő esetén – nem lehet kevesebb a mindenkori legkisebb kötelező munkabérnél.
 
 13. § Az ösztöndíjas foglalkoztatási jogviszony alapján nem kerülhet sor a munkaügyi törvények szerinti próbaidő kikötésére, az ösztöndíjas foglalkoztatásról szóló szerződéstől eltérően való foglalkoztatásra, munkakörbe történő átirányításra, helyettesítésre, más munkáltatóhoz való kirendelésre, rendkívüli munkavégzésre, ügyeletre és készenlétre.
 
@@ -269,22 +269,13 @@ ad ki.
 - b) az ösztöndíjas foglalkoztatott kérésére tevékenységének értékelését,
 - c) a foglalkoztató döntésétől függően az ösztöndíjas foglalkoztatott munkavégzésre való ajánlását más munkáltatók részére.
 
-15. § (1) Az ösztöndíjas foglalkoztatási jogviszonyra
+15. § Az ösztöndíjas foglalkoztatási jogviszonyra
 
-- a) megfelelően alkalmazni kell az Mt. Első része 3. §-ának (1)–(4) bekezdését, 4–12. §-át, Harmadik részének 73. §-át, 75. §-ának (1) bekezdését, 76. §-ának (3), valamint (7)–(8) bekezdését, 76/B. §-át, 76/C. §-ának (1)–(3) bekezdését, 77–78/A. §-át, 80. §-át, 84/A. §-a (1) bekezdésének a) pontját, (2) bekezdését, 85–85/A. §-át, 97. §-át, 102–104. §-át, 107. §-át, 108. §-ának (1) bekezdését, 110–115. §-át, 117. §-ának (1) bekezdését, 117/B. §-ának (1)–(2) bekezdését, 118. §-át, 118/A. §-ának (1) és (4)–(5) bekezdését, 119. §-ának (1)–(2) bekezdését, (3) bekezdésének első mondatát és (4)–(5) bekezdését, valamint (8) bekezdését, 120–122. §-át, 123. §-ának (1) bekezdését, 124. §-ának (1)–(5) bekezdését, valamint (7) bekezdésének első és második mondatát, 124/A. §-ának (1)–(2) bekezdését, (3) bekezdésének első és második mondatát, valamint (4) bekezdését, 125. §-át, 130. §-át, 131. §-ának (1) bekezdését és (2) bekezdésének a)–b) pontját, továbbá (3) bekezdését, 132. §-ának (2)–(7) bekezdését, 133. §-át, 134. §-ának (1) bekezdését, (3) bekezdésének első mondatát és b) pontját, valamint (4)–(6) bekezdését, 135–136. §-át, 138–139. §-át, 140/A. §-a (1) bekezdésének a) pontjából a rendes munkaidő nyilvántartására vonatkozó, valamint a b) és c) pontjában foglalt szabályokat, 151. §-a (2) bekezdésének a)–f) pontját, 153. §-át, 154. §-ának (1) bekezdését, 155. §-ának (1) és (3) bekezdését, 157. §-ának (1)–(2) bekezdését, 158–160. §-át, 161. §-ának (1)–(3) bekezdését, 162–163. §-át, 164. §-ának (1)–(2) és (4) bekezdését, 165–165/A. §-át, 166. §-át, 167. §-ának (1)–(3) bekezdését, 168–169. §-át, 172. §-át, 173. §-ának (1) bekezdését, 174–187. §-át, valamint a X/A. fejezetében foglalt szabályokat,
-- b) az Mt. 74. §-át az e törvény 11. §-ában foglalt eltéréssel kell alkalmazni,
-- c) Az Mt. 105. §-át azzal az eltéréssel kell alkalmazni, hogy kiküldetés elrendelésére csak a munkatapasztalat-szerzés érdekében kerülhet sor,
-- d) az Mt. 119. § (7) bekezdését az „illetve készenléti jellegű munkakörben foglalkoztatott munkavállaló esetében a napi 24 órát” szövegrész figyelmen kívül hagyásával kell alkalmazni,
-- e) és az ösztöndíjas foglalkoztatottra a foglalkoztatóra kiterjedő hatályú kollektív szerződés hatálya nem terjed ki,
-- f) ahol az Mt. átlagkeresetet, továbbá távolléti díjat említ, azon ösztöndíjat kell érteni.
-
-(2) Az (1) bekezdésben foglaltakon túlmenően
-
-- a) Kjt. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell a Kjt. 43. §-át, valamint 55. §-át;
-- b) a Kttv. hatálya alá tartozó foglalkoztatóval létesített ösztöndíjas foglalkoztatási jogviszonyra alkalmazni kell
-  - ba) a Kttv. 39. § (1) bekezdését, 207. § (1)–(2) bekezdését és a 241. § (1)–(2) bekezdését,
-  - bb) a Kttv. 10. § (3) bekezdését, valamint 76. § (1) bekezdését,
-  - bc) a Kttv. 89. § (1) bekezdését, 232. § (1) bekezdését, és 91. § (4) bekezdését.
+- a) megfelelően alkalmazni kell a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 130. §-át, 131. § (1) bekezdését és (2) bekezdés a)–b) pontját, továbbá (3) bekezdését, 132. § (2)–(7) bekezdését, 133. §-át, 134. § (1) bekezdését, (3) bekezdésének első mondatát és b) pontját, valamint (4)–(6) bekezdését, 135–136. §-át, 138–139. §-át, 140/A. § (1) bekezdés a) pontjának a rendes munkaidő nyilvántartására vonatkozó, valamint a b) és c) pontjában foglalt szabályokat,
+- b) megfelelően alkalmazni kell az Mt. 6. §-át, 7. §-át, 8. § (4) bekezdését, 9. §-át, 10. § (1)–(2) bekezdését, 12. § (1) bekezdését, 14. §-át, 15. §-át, 17–18. §-át, 21. § (1)–(3) bekezdését, 22–30. §-át, 31. §-át, 33. §-át, 36–37. §-át, 38. § (1) bekezdését, 39–40. §-át, 45. § (3)–(4) bekezdését, 46. § (1)–(2) bekezdését, 48–49. §-át, 51. §-át, 52. § (1) bekezdését, 54–55. §-át, 60. §-át, 61. § (1)–(2) bekezdését, 80. §-át, 86. § (1) bekezdését, 90. § a) pontját, 92. § (1) és (4)–(5) bekezdését, 93. §-át, 94. § (1) bekezdését, 96. § (1) bekezdését, 97. § (1) és (3)–(4) bekezdését, 99. § (1) és (4) bekezdését, továbbá (2) bekezdés a) pontját, 100. §-át, 101. § (1)–(3) bekezdését, 102. §-át, 103. § (1) és (3), továbbá (4)–(6) bekezdését, 104. § (1) bekezdését és (2) bekezdés a) pontját, 105–106. §-át, 113. § (2)–(4) bekezdését, 134. § (1) bekezdés a) pontjából a rendes munkaidő nyilvántartására vonatkozó, valamint a b) és c) pontjában foglalt szabályokat, 146. § (3) bekezdését, 154. § (1)–(2) bekezdését, 155. § (1)–(4) bekezdését, 156. §-át, 157. § (1) bekezdését, 158. §-át, 159. § (1)–(4) bekezdését, 160. §-át, 161. §-át, 163–164. §-át, 166–177. §-át, 179–180. §-át, 190. §-át, 192. § (3) bekezdését, 196–197. §-át, 229. §-át, 285. § (1) bekezdését, 286. §-át,
+- c) az Mt. 20. §-át az e törvény 11. §-ában foglalt eltéréssel kell alkalmazni,
+- d) az ösztöndíjas foglalkoztatottra a foglalkoztatóra kiterjedő hatályú kollektív szerződés hatálya nem terjed ki,
+- e) ahol az Mt. távolléti díjat említ, azon ösztöndíjat kell érteni.
 
 16. § Az ösztöndíjas foglalkoztatott foglalkoztatóját az ösztöndíjas START-kártyájának érvényességi ideje alatt megilleti a 4/A. §-ban meghatározott kedvezmény.
 
@@ -351,6 +342,8 @@ ad ki.
 (2) A 7. §-ban meghatározott foglalkoztatási kedvezmény igénybevételéhez e törvény 2010. december 31-én hatályos rendelkezései szerint kell eljárni, ha a START EXTRA kártya kiváltásra jogosult személy a kártya iránti igényét 2010. december 31-éig benyújtja az állami adóhatósághoz.
 
 (3) A 8/B. §-ban meghatározott járulékkedvezmény a 2010. december 31-ét követően gyermekgondozási szabadságról visszatérő munkavállalók esetén alkalmazható.
+
+(4) Ha a Kttv. 1. § a)–d) pontja szerinti szerv az ösztöndíjas foglalkoztatottal 2012. július 1-jét megelőzően létesített ösztöndíjas foglalkoztatatási jogviszonyt, az ösztöndíjas foglalkoztatási jogviszonyra e törvény 2012. június 30-án hatályos, az ösztöndíjas foglalkoztatásra vonatkozó rendelkezéseit kell a jogviszony fennállásáig alkalmazni.
 
 ### 1. számú melléklet a 2004. évi CXXIII. törvényhez
 
