@@ -302,7 +302,9 @@ Csjt. 37. § (1) A teljes hatályú elismerő nyilatkozat az apaságot egymagáb
 
 (4) A nyilatkozat teljes hatályához szükséges az anyának, a kiskorú gyermek törvényes képviselőjének, és ha a gyermek a tizennegyedik életévét betöltötte, a gyermeknek a hozzájárulása is. Ha az anya, illetőleg a gyermek nem él, vagy nyilatkozatában tartósan gátolva van, a hozzájárulást a gyámhatóság adja meg.
 
-(5) Az elismerést és a hozzájárulást anyakönyvvezetőnél, bíróságnál, gyámhatóságnál, illetőleg magyar külképviseleti hatóságnál jegyzőkönyvbe kell venni vagy közjegyzői okiratba kell foglalni.
+(5) Elismerést és hozzájárulást anyakönyvvezetőnél, bíróságnál, gyámhatóságnál, konzuli tisztviselőnél, integrált ügyfélszolgálaton kell jegyzőkönyvbe venni vagy közjegyzőnél közjegyzői okiratba foglalni. A hozzájárulást a konzuli tanúsítvány kiállítására felhatalmazott tiszteletbeli konzulnál is meg lehet tenni.
+
+(6) Az elismerés és a hozzájárulás során az érintetteknek nyilatkozniuk kell a gyermek családi nevéről.
 
 Csjt. 38. § (1) Ha a gyermek apja sem az anya házassági köteléke vagy utólagos házassága, sem teljes hatályú apai elismerés, sem pedig reprodukciós eljárás alapján nem állapítható meg, az apaságot bírósági úton lehet megállapítani. Ha a származás reprodukciós eljárás következménye, nincs helye az apaság bírósági úton történő megállapításának azzal a férfival szemben, aki az eljárás lefolytatásához ivarsejtet vagy embriót adományozott.
 
@@ -889,3 +891,5 @@ Csjt. 111. § (1) Ez a törvény 1974. július 1. napján lép hatályba.
 Csjt. 112. § (1) Ha a gyermek 2010. január 1-je és 2010. december 31. között született, és az anya a fogamzási idő kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt nem állt házassági kötelékben, a gyermek apjának kell tekinteni azt a férfit, aki az anyával a fogamzási idő kezdetétől a gyermek születéséig eltelt idő vagy annak egy része alatt a közjegyző által vezetett Élettársi Nyilatkozatok Nyilvántartása által igazolt élettársi kapcsolatban élt.
 
 (2) Az (1) bekezdésben foglaltakat nem lehet alkalmazni, ha az anya a fogamzási idő kezdetétől a gyermek születéséig eltelt idő alatt több férfival élt az Élettársi Nyilatkozatok Nyilvántartása által igazolt élettársi kapcsolatban.
+
+Csjt. 113. § Az e törvénynek az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvénnyel megállapított rendelkezéseit az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.

@@ -67,7 +67,7 @@ látja el.
 - a) a helyi közszolgáltatást megvalósító komp- és révközlekedés – önkormányzati hatáskörbe tartozó – működőképességének és fejlesztésének biztosítása,
 - b) a rendezési tervek készítésénél és elfogadásánál a létesítendő kikötő működtetéséhez szükséges és megfelelő parti terület kijelölése, az igénybevétel feltételeinek tervezhető módon, hosszú távra történő meghatározása, a megyei önkormányzat – a fővárosban a fővárosi önkormányzat – bevonásával.
 
-(2) Személyforgalomban menetrend szerinti helyi közszolgáltatást végző hajózási engedélyes részére az érintett települési önkormányzat működési támogatást nyújthat, amellyel kapcsolatos jogokat és kötelezettségeket szerződésben kell rögzíteni.
+(2) Személyforgalomban menetrend szerinti helyi közszolgáltatást végző hajózási engedélyes kiválasztására, a közszolgáltatásból eredő jogokat, kötelezettségeket, valamint a közszolgáltatás bevételekkel nem fedezett indokolt költségeihez nyújtott önkormányzati működési támogatásra vonatkozó közszolgáltatási szerződésre a személyszállítási szolgáltatásokról szóló törvényt kell megfelelően alkalmazni.
 
 ### A hajózás igazgatása
 
@@ -440,13 +440,13 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 ### VI. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY SZEMÉLYZETÉNEK MUNKAIDEJE
 
-42. § Az úszólétesítmény személyzetének munka- és pihenőidejére a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+42. § Az úszólétesítmény személyzetének munka- és pihenőidejére a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-43. § (1) A belvízi személyszállítási és árufuvarozási tevékenységet végző úszólétesítmény, valamint a tengeri kereskedelmi és tengeri halászhajó személyzete tekintetében kollektív szerződés az Mt. munkaközi szünetre, a napi pihenőidőre, a heti pihenőnapra, illetve pihenőidőre, a vasárnapi és a munkaszüneti napon történő munkavégzésre, valamint a rendkívüli munkavégzés éves mértékére vonatkozó rendelkezéseitől eltérhet, ezen túlmenően legfeljebb egy éves vagy legfeljebb ötvenkét heti munkaidőkeretet állapíthat meg.
+43. § (1) A belvízi személyszállítási és árufuvarozási tevékenységet végző úszólétesítmény, a tengeri kereskedelmi hajó, a tengeri halászhajó, valamint a tengeren ásványi készletek kitermelésével összefüggő hajózási tevékenységet folytató úszólétesítmény személyzete tekintetében kollektív szerződés az Mt. munkaközi szünetre, a napi pihenőidőre, a heti pihenőnapra vagy pihenőidőre, a vasárnapi és a munkaszüneti napon történő munkavégzésre, valamint a rendkívüli munkavégzés éves mértékére vonatkozó rendelkezéseitől eltérhet, ezen túlmenően legfeljebb egy éves vagy legfeljebb ötvenkét heti munkaidőkeretet állapíthat meg.
 
 (2) Az (1) bekezdésben meghatározott munkavállalók tekintetében kollektív szerződés a napi munkavégzés időtartamát legfeljebb tizennégy órában határozhatja meg, amelybe a rendes és a rendkívüli munkavégzés időtartama is beszámít.
 
-44. § (1) Tengeri kereskedelmi hajó személyzete tekintetében – munkaidőkeret alkalmazása esetén – kollektív szerződés az Mt. teljes munkaidő mértékére vonatkozó szabályaitól eltérhet, és a teljes munkaidő mértékét legfeljebb heti hat munkanap, és napi nyolc óra figyelembevételével állapíthatja meg.
+44. § Tengeri kereskedelmi hajó személyzete tekintetében – munkaidőkeret alkalmazása esetén – kollektív szerződés az Mt. teljes napi munkaidő mértékére vonatkozó szabályaitól eltérhet, és a teljes napi munkaidő mértékét legfeljebb heti hat munkanap és napi nyolc óra munkaidő figyelembevételével állapíthatja meg.
 
 44/A. § (1) Tengeri halászhajó és tengeri kereskedelmi hajó személyzete tekintetében kollektív szerződés az Mt. pihenőidőre vonatkozó szabályaitól eltérhet, de ebben az esetben
 
@@ -462,11 +462,11 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 44/C. § (1) Ha tengeri nagyhajón a készenlét alatt a személyzet számára munkavégzést rendeltek el, a készenlétet követően a munkavégzés időtartamával azonos tartamú pihenőidőt kell biztosítani.
 
-(2) Ha tengeri nagyhajón a munkavállaló számára havária vagy más úszólétesítmény mentése esetén rendkívüli munkavégzést rendeltek el, a munkavállaló részére a normál üzemelési körülmények helyreállítását követően megfelelő pihenőidőt kell biztosítani.
+(2) Ha tengeri nagyhajón a munkavállaló számára havária vagy más úszólétesítmény mentése esetén rendkívüli munkavégzést rendeltek el, a munkavállaló részére a normál üzemelési körülmények helyreállítását követően a 44/A. §-ban meghatározott pihenőidőt kell biztosítani.
 
 44/D. § (1) Az úszólétesítmények személyzetének munkaidejét szabályozó jogszabályokat és kollektív szerződést a személyzet részére könnyen megközelíthető helyen elérhetővé kell tenni.
 
-(2) A meghatározott hajózási hatóság jogosult ellenőrizni az úszólétesítményeken a munkarendre, a munkavállaló munkaidő-beosztására, valamint a munkaidejére és pihenőidejére vonatkozó szabályok megtartását. A hajózási hatóság az ellenőrzés során feltárt szabálytalanság megszüntetése érdekében az úszólétesítmény üzemeltetését megtilthatja.
+(2) Az úszólétesítményeken a munkarendre, a munkavállaló munkaidő-beosztására, valamint munkaidejére és pihenőidejére vonatkozó szabályok megtartását a hajózási hatóság ellenőrzi. A hajózási hatóság az ellenőrzés során feltárt szabálytalanság megszüntetése érdekében az úszólétesítmény üzemeltetését megtilthatja.
 
 ### VII. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY ÉS SZEMÉLYZETÉNEK OKMÁNYAI
 
@@ -1070,10 +1070,11 @@ rendeletben történő megállapítására.
 - a) az Európai Parlament és a Tanács 94/25/EK irányelve (1994. június 16.) a kedvtelési célú vízi járművekre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről, 8. cikk;
 - b) a Tanács 98/41/EK irányelve (1998. június 18.) a Közösség tagállamainak kikötőibe érkező vagy onnan induló személyhajókon utazó személyek nyilvántartásáról, 8. és 9. cikk;
 - c) a Tanács 1999/63/EK irányelve (1999. június 21.) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és a Közlekedési Dolgozók Szakszervezeteinek Szövetsége az Európai Unióban (FST) között a tengerészek munkaidejének szervezésére vonatkozóan kötött megállapodásról, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt;
-- d) a Tanács 93/104/EK irányelve (1993. november 23.) a munkaidő-szervezés egyes szempontjairól, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénnyel együtt;
-- e) az Európai Parlament és a Tanács 2000/34/EK irányelve (2000. június 22.) a munkaidő-szervezés egyes szempontjairól szóló 93/104/EK tanácsi irányelvnek az abból kizárt ágazatok és tevékenységek szabályozása céljából történő módosításáról, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénnyel együtt;
+- d) a Tanács 93/104/EK irányelve (1993. november 23.) a munkaidő-szervezés egyes szempontjairól, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénnyel és az Mt.-vel együtt;
+- e) az Európai Parlament és a Tanács 2000/34/EK irányelve (2000. június 22.) a munkaidő-szervezés egyes szempontjairól szóló 93/104/EK tanácsi irányelvnek az abból kizárt ágazatok és tevékenységek szabályozása céljából történő módosításáról, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénnyel és az Mt.-vel együtt;
 - f) az Európai Parlament és a Tanács 2005/44/EK irányelve (2005. szeptember 7.) a közösségi belvízi közlekedésre vonatkozó harmonizált folyami információs szolgáltatásokról, 3. cikk f) pontja, 9. cikk;
 - g) az Európai Parlament és a Tanács 2006/87/EK irányelve (2006. december 12.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról és a 82/714/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk.
-- h) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével.
+- h) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével;
+- i) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól a munka törvénykönyvéről szóló 2012. évi I. törvénnyel együtt.
 
 91–93. §

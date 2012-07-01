@@ -564,7 +564,7 @@ indítványozza.
 (9) Az OBH elnöke egyéb feladatkörében
 
 - a) ellátja az ítélőtáblák és a törvényszékek elnökeinek vagyonnyilatkozatával kapcsolatos feladatokat,
-- b) „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” cím továbbá igazságügyi alkalmazott esetén főtanácsosi, tanácsosi cím, valamint kitüntetés, díj, oklevél vagy plakett adományozását kezdeményezi az OBT-nél,
+- b) ha a bírák jogállásáról és javadalmazásáról szóló törvény szerint a cím adományozásáról az OBT dönt, „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” cím adományozását, igazságügyi alkalmazott esetén főtanácsosi, tanácsosi cím adományozását, valamint kitüntetés, díj, oklevél vagy plakett adományozását kezdeményezi az OBT-nél, továbbá ha a bírák jogállásáról és javadalmazásáról szóló törvény cím adományozására az OBH elnökét jogosítja fel, dönt a „címzetes törvényszéki bíró”, „címzetes táblabíró”, „címzetes kúriai bíró”, „kúriai tanácsos” cím adományozásáról,
 - c) biztosítja az érdek-képviseleti szervek jogainak gyakorlását, és
 - d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
@@ -1163,18 +1163,12 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 151. § (1) A bírói tanács
 
-- a) véleményt nyilvánít a bíró kinevezése, beosztása, áthelyezése, a hozzájárulása nélkül történő kirendelése, továbbá – a (2) bekezdésben foglaltak kivételével – felmentése tárgyában,
+- a) véleményt nyilvánít a bíró kinevezése, beosztása, áthelyezése, a hozzájárulása nélkül történő kirendelése tárgyában,
 - b) kezdeményezheti a járásbírósági, valamint a közigazgatási és munkaügyi bírósági elnök, elnökhelyettes, csoportvezető, csoportvezető-helyettes vizsgálatának elrendelését vagy felmentését,
 - c) véleményezi a bíróság éves költségvetési tervét és a jóváhagyott költségvetés felhasználását, és
 - d) véleményezi a bíróság szervezeti és működési szabályzatát és ügyelosztási tervét.
 
-(2) A bírói tanácsnak a bírák felmentésével kapcsolatos véleménynyilvánítási joga nem terjed ki arra az esetre, ha a felmentés oka a bíró
-
-- a) lemondása,
-- b) magyar állampolgárságának elvesztése, továbbá cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezése,
-- c) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, polgármesterré vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé történő megválasztása, kinevezése,
-- d) állami felsőoktatási intézmény rektorává vagy költségvetési szervként működő kutatóközpont vagy kutatóintézet vezetőjévé történő kinevezése, és
-- e) nemzetközi szervezetnél vagy az Európai Unió valamely szervénél ítélkezésre vagy az igazságszolgáltatással összefüggő egyéb munkavégzésre irányuló jogviszony létesítése.
+(2)
 
 152. § (1) A bírói tanács az üléseit szükség szerint, de évenként legalább négyszer tartja.
 

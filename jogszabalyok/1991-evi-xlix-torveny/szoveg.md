@@ -63,7 +63,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 5. § Az adós vezetője, a vagyonfelügyelő, a felszámoló a csődeljárás, a felszámolási eljárás alatt kérésükre 8 munkanapon belül köteles tájékoztatni
 
 - a) a hitelezői választmányt, a hitelezői képviselőt, illetve ezek hiányában bejelentett és elismert hitelezői követelések legalább 10%-át képviselő hitelezőt (hitelezők csoportját) az adós vagyoni és pénzügyi helyzetéről,
-- b) a munkavállalókat, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 18. §-ában meghatározott szakszervezeteket, az üzemi tanácsot (üzemi megbízottat), valamint az állami foglalkoztatási szervet a munkavállalókat érintő kérdésekről.
+- b) a munkavállalókat, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 270. §-ában meghatározott szakszervezeteket, az Mt. XX. fejezete szerinti üzemi tanácsot (üzemi megbízottat), valamint az állami foglalkoztatási szervet a munkavállalókat érintő kérdésekről.
 
 5/A. § (1) A hitelezők érdekeik védelmére és képviseletük ellátására hitelezői választmányt alakíthatnak, amely figyelemmel kíséri a vagyonfelügyelő és a felszámoló tevékenységét, és a választmányt létrehozó hitelezőket képviseli a bíróság előtt, illetve a vagyonfelügyelővel, az ideiglenes vagyonfelügyelővel, a felszámolóval való kapcsolat során, továbbá gyakorolja az e törvényben meghatározott jogköröket.
 
@@ -715,7 +715,7 @@ folytatható le.
 - b) a nem selejtezhető iratokról iratjegyzéket készíteni, és azt, az irattári anyagot, valamint a vagyont leltár szerint átadni a felszámolónak legkésőbb a felszámolás kezdő időpontját követő 30 napon belül, ugyanilyen határidővel a folyamatban lévő ügyekről, eljárásokról tájékoztatást adni, továbbá nyilatkozni arról, hogy valamennyi vagyontárgyra, iratra vonatkozóan teljesítette az átadási kötelezettségét,
 - c) a felszámolás kezdő időpontjától számított 15 napon belül a felszámolónak és az illetékes környezetvédelmi felügyelőségnek nyilatkozatot tenni arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, melyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások, illetve terhek rendezéséhez szükséges kiadás származhat;
 - d) a felszámolónak tájékoztatást adni minden a 40. § (1) bekezdés a) pont tárgyát képező jogügyletről, illetve kötelezettségvállalásról,
-- e) a felszámolás elrendeléséről a munkavállalókat, illetve a szövetkezeti tagokat, valamint az Mt. 18. §-ában meghatározott szakszervezeteket, az üzemi tanácsot (üzemi megbízottat) haladéktalanul tájékoztatni
+- e) a felszámolás elrendeléséről a munkavállalókat, illetve a szövetkezeti tagokat, valamint az Mt. 270. §-ában meghatározott szakszervezeteket, az Mt. XX. fejezete szerinti üzemi tanácsot (üzemi megbízottat) haladéktalanul tájékoztatni
 - f) a felszámolás elrendeléséről az 57. § (1) bekezdésének c) pontjában meghatározott követelések jogosultjait a felszámolás kezdő időpontját követő 15 napon belül tájékoztatni,
 - g) a felszámoló kérésére az adós felszámolás előtti tevékenységével kapcsolatos tájékoztatást megadni, a felszámoló tevékenységét elősegíteni,
 - h) a felszámolás elrendeléséről haladéktalanul értesíteni az adós értékpapírszámláját vezető szolgáltatót és az egyéb pénzpiaci eszközeit kezelő szolgáltatót.
@@ -769,7 +769,7 @@ folytatható le.
 
 (3) Az (1)–(2) bekezdésekben foglalt esetekben a 180 napos határidő elmulasztása jogvesztéssel jár.
 
-(4) A felszámolási eljárás befejezésének időpontjában esedékessé váló követelések közül a gazdálkodó szervezet jogutód nélküli megszűnése miatt az Mt. 86/A. §-a alapján a munkavállalót megillető átlagkeresetet, az Mt. 95. §-ának (1) bekezdése szerinti végkielégítést, valamint a munkaviszonyra tekintettel járó egyéb juttatásokat a felszámoló igénybejelentés hiányában is hitelezői igényként veszi nyilvántartásba, és elégíti ki a kielégítési sorrend általános szabályai (57–58. §) szerint.
+(4) A felszámolási eljárás befejezésének időpontjában esedékessé váló követelések közül a gazdálkodó szervezet jogutód nélküli megszűnése miatt az Mt. 70. § (3) bekezdése alapján a munkavállalót megillető távolléti díjat, az Mt. 77. § (3)–(4) bekezdése szerinti végkielégítést, valamint a munkaviszonyra tekintettel járó egyéb juttatásokat a felszámoló igénybejelentés hiányában is hitelezői igényként veszi nyilvántartásba, és elégíti ki a kielégítési sorrend általános szabályai (57–58. §) szerint.
 
 38. § (1) Az adós ellen a felszámolás kezdő időpontjában folyamatban lévő – a felszámolás körébe tartozó vagyonnal kapcsolatos – végrehajtási eljárásokat a végrehajtást foganatosító bíróságnak (hatóságnak) haladéktalanul meg kell szüntetni, a lefoglalt vagyontárgyakat és a befolyt, a végrehajtás költségeinek levonása után fennmaradó, de még ki nem fizetett pénzeszközöket a kijelölt felszámolónak kell átadni. Az adós ingatlanán fennálló végrehajtási jog a felszámolás kezdő időpontjában megszűnik. A felszámoló a végrehajtói díjjegyzékben foglalt díjfelszámítás ellen külön jogszabály rendelkezései szerint végrehajtási kifogást terjeszthet elő. A bíróság a felszámolást elrendelő jogerős végzést megküldi a végrehajtást elrendelő, vagy – ha azt ismeri – közvetlenül a foganatosító bíróságnak (hatóságnak); a végrehajtást elrendelő bíróság (hatóság) a felszámolás elrendeléséről haladéktalanul tájékoztatja a végrehajtást foganatosító bíróságot (hatóságot).
 
@@ -1086,10 +1086,10 @@ folytatható le.
 - e) a társadalombiztosítási alapok javára fennálló tartozások, az adók – kivéve a (2) bekezdés szerinti adó- és járuléktartozásokat – és adók módjára behajtható köztartozások, a büntetőeljárásban a 6/A. § (8) bekezdés alapján az állam javára fizetendő összeg, továbbá a visszafizetendő államháztartási, európai uniós vagy nemzetközi szerződésen alapuló más nemzetközi forrásból származó támogatások, valamint a közműdíjak és a társasházi közös költség,
 - f) egyéb követelések;
 - g) a keletkezés idejétől és jogcímétől függetlenül a késedelmi kamat és késedelmi pótlék, továbbá a pótlék és bírság jellegű tartozás;
-- h) azok a követelések (ide nem értve a kötelező minimálbér kétszeresét el nem érő, hathavi átlagkeresetet meg nem haladó munkabér- és bérjellegű követeléseket [(2) bekezdés a) pont]), amelyek jogosultja
+- h) azok a követelések (ide nem értve a kötelező legkisebb munkabér, kizárólag teljesítménybérrel díjazott munkavállaló esetén pedig az Mt. 138. § (6) bekezdése szerinti garantált bér kétszeresét el nem érő, hathavi átlagkeresetet meg nem haladó munkabér- és bérjellegű követeléseket [(2) bekezdés a) pont]), amelyek jogosultja
   - ha) a gazdálkodó szervezet legalább többségi befolyással rendelkező tagja (részvényese),
   - hb) a gazdálkodó szervezet vezető tisztségviselője,
-  - hc) az Mt. 188. § (1) bekezdése szerinti vezető állású munkavállaló,
+  - hc) az Mt. 208. § (1) bekezdése szerinti vezető állású munkavállaló,
   - hd) a ha)–hc) pontban említett személyek közeli hozzátartozója [Ptk. 685. § b) pont], élettársa,
   - he) az adós többségi befolyása [Ptk. 685/B. §] alatt álló gazdálkodó szervezet,
   - hf) az adós ingyenes szerződései alapján kedvezményezett szervezet (személy).
@@ -1105,7 +1105,7 @@ folytatható le.
 - g) a felszámoló – 49/D. § (1) bekezdés alapján nem érvényesített – díja [60. § (4) bek.], amely tartalmazza a felszámoló által nem a 27/A. § (13) bekezdésében meghatározottak szerint létesített polgári jogi jogviszonnyal összefüggésben felmerült kiadásokat is;
 - h) a vagyonfelügyelő (ideiglenes vagyonfelügyelő) ki nem fizetett és a kezesektől meg nem térült költségei és díja, ha a felszámolási eljárást csődeljárás előzte meg.
 
-(3) A munkáltató rendes felmondása esetén felszámolási költségként – ha a felszámolás kezdő időpontját megelőzően legalább egy évvel korábban megkötött kollektív szerződés, illetve munkaszerződés magasabb összeget nem állapít meg – a munkavégzés alóli felmentés időtartamára jutó átlagkereset és a végkielégítés azon összege vehető figyelembe, amely a munkavállalót az Mt. 92. §-ának (2) bekezdése és 93. §-a (1) és (3) bekezdése, illetve a 95. §-a alapján megilleti. E rendelkezés alkalmazásában az adós – (1) bekezdés hc) pontjában nem említett – vezető állású munkavállalói tekintetében kizárólag az Mt.-ben megállapított, a felszámolás kezdő időpontjában esedékes összeg vehető figyelembe.
+(3) A munkáltató rendes felmondása esetén felszámolási költségként – ha a felszámolás kezdő időpontját megelőzően legalább egy évvel korábban megkötött kollektív szerződés, illetve munkaszerződés magasabb összeget nem állapít meg – a munkavégzés alóli felmentés időtartamára jutó távolléti díj és a végkielégítés azon összege vehető figyelembe, amely a munkavállalót az Mt. 69. § (1)–(3) bekezdése, 70. § (3) bekezdése és 77. § (3) és (4) bekezdése alapján megilleti. E rendelkezés alkalmazásában az adós – (1) bekezdés hc) pontjában nem említett – vezető állású munkavállalói tekintetében kizárólag az Mt. 210. § (3) bekezdésében megállapított, a felszámolás kezdő időpontjában esedékes összeg vehető figyelembe.
 
 (4) Ha a vagyon a költség, a zálogjoggal biztosított hitelezői követelések és valamennyi más tartozás kielégítésére nem elegendő, a költség kifizetését és a biztosított hitelezők kielégítését követően először az (1) bekezdés c) majd d) pontja szerinti hitelezőket követeléseik arányában kell kielégíteni.
 

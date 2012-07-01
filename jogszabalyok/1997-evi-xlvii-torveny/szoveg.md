@@ -24,7 +24,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - f) kezelést végző orvos: az érintett gyógykezelését végző vagy abban közreműködő orvos;
 - g) betegellátó: a kezelést végző orvos, az egészségügyi szakdolgozó, az érintett gyógykezelésével kapcsolatos tevékenységet végző egyéb személy, a gyógyszerész;
 - h)
-- i) adatkezelő: a betegellátó; az intézményvezető; az adatvédelmi felelős; a betegjogi képviselőket foglalkoztató szerv; az egészségügyi dokumentációt kezelő szerv; továbbá közegészségügyi-járványügyi közérdekből az 5. § (3) bekezdésében meghatározott szervek és személyek; továbbá a 22. § szerinti esetekben az ott meghatározottak szerint az egészségbiztosítási szerv; a 22/E. §-ban meghatározottak szerint az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság; a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíj-biztosítási szerv és a nyugdíj-biztosítási igazgatási szerv; továbbá a 16/A. §-ban meghatározottak szerint, valamint a lakossági célzott szűrővizsgálatok szervezése érdekében a 3. § b) pont szerinti személyazonosító adat tekintetében az egészségügyi államigazgatási szerv; a 14/A. §-ban meghatározott adatok tekintetében a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás kiszolgáltatója, illetve nyújtója; a 15/A. §-ban meghatározottak szerint a munkavédelmi hatóság és a munkahigiénés és foglalkozás-egészségügyi szerv; továbbá a 23. § (1) bekezdés f) pontjában meghatározott esetben az első- és másodfokú etikai eljárást lefolytató kamarai szerv;
+- i) adatkezelő: a betegellátó; az intézményvezető; az adatvédelmi felelős; a betegjogi képviselőket foglalkoztató szerv; az egészségügyi dokumentációt kezelő szerv; továbbá közegészségügyi-járványügyi közérdekből az 5. § (3) bekezdésében meghatározott szervek és személyek; továbbá a 22. § szerinti esetekben az ott meghatározottak szerint az egészségbiztosítási szerv; a 22/E. §-ban meghatározottak szerint az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, az igazságügyi szakértői tevékenységről szóló törvény szerinti szakértő (a továbbiakban: igazságügyi szakértő); a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíj-biztosítási szerv és a nyugdíj-biztosítási igazgatási szerv; továbbá a 16/A. §-ban meghatározottak szerint, valamint a lakossági célzott szűrővizsgálatok szervezése érdekében a 3. § b) pont szerinti személyazonosító adat tekintetében az egészségügyi államigazgatási szerv; a 14/A. §-ban meghatározott adatok tekintetében a gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás kiszolgáltatója, illetve nyújtója; a 15/A. §-ban meghatározottak szerint a munkavédelmi hatóság és a munkahigiénés és foglalkozás-egészségügyi szerv; továbbá a 23. § (1) bekezdés f) pontjában meghatározott esetben az első- és másodfokú etikai eljárást lefolytató kamarai szerv;
 - j) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbe fogadó, a mostoha- és nevelőszülő, valamint a testvér és az élettárs;
 - k) sürgős szükség: az egészségi állapotban hirtelen bekövetkezett olyan változás, amelynek következtében azonnali egészségügyi ellátás hiányában az érintett közvetlen életveszélybe kerülne, illetve súlyos vagy maradandó egészségkárosodást szenvedne;
 - l)
@@ -125,7 +125,7 @@ van szükség, és
 
 (7) Az érintett halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról – saját költségére – másolatot kapni.
 
-8. § A betegellátót – az érintett választott háziorvosa, valamint az igazságügyi orvosszakértő kivételével – a titoktartási kötelezettség azzal a betegellátóval szemben is köti, aki az orvosi vizsgálatban, a kórisme megállapításában, illetve a gyógykezelésben vagy műtétnél nem működött közre, kivéve, ha az adatok közlése a kórisme megállapítása vagy az érintett további gyógykezelése érdekében szükséges.
+8. § A betegellátót – az érintett választott háziorvosa, valamint az igazságügyi szakértő kivételével – a titoktartási kötelezettség azzal a betegellátóval szemben is köti, aki az orvosi vizsgálatban, a kórisme megállapításában, illetve a gyógykezelésben vagy műtétnél nem működött közre, kivéve, ha az adatok közlése a kórisme megállapítása vagy az érintett további gyógykezelése érdekében szükséges.
 
 9. § (1) Az egészségügyi adatok felvétele a gyógykezelés része. A kezelést végző orvos, illetve a tisztiorvos dönti el, hogy a szakmai szabályoknak megfelelően – a kötelezően felveendő adatokon kívül – mely egészségügyi adat felvétele szükséges a 4. § (1) bekezdése szerinti célból.
 
@@ -245,7 +245,7 @@ van szükség, és
 
 ### Népegészségügyi célból történő adatkezelés
 
-16. § (1) Amennyiben az érintett újszülött vagy csecsemő a Betegségek Nemzetközi Osztályozása szerinti valamely veleszületett rendellenességben szenved (Q00-Q99), a 4. § (1) bekezdés b)–c) pontjai és a (2) bekezdés b) pontja szerinti célból a kezelést végző orvos az érintett személyazonosító és egészségügyi adatait, valamint törvényes képviselője nevét és lakcímét továbbítja a külön jogszabály szerint vezetett Veleszületett Rendellenességek Országos Nyilvántartása részére.
+16. § (1) Amennyiben az érintett újszülött vagy csecsemő a Betegségek Nemzetközi Osztályozása szerinti valamely veleszületett rendellenességben szenved (Q00-Q99), a 4. § (1) bekezdés b)–c) pontjai és a (2) bekezdés b) pontja szerinti célból a kezelést végző orvos, ennek hiányában a rendellenességet észlelő orvos az érintett személyazonosító és egészségügyi adatait, valamint törvényes képviselője nevét és lakcímét továbbítja a külön jogszabály szerint vezetett Veleszületett Rendellenességek Országos Nyilvántartása részére.
 
 (2) Amennyiben a magzatnál olyan elváltozást észlelnek, amely veleszületett rendellenességet eredményezhet, az (1) bekezdés szerint kell eljárni azzal, hogy az érintett személyazonosító adatain a várandós nő adatait kell érteni.
 
@@ -339,11 +339,11 @@ van szükség, és
 
 ### Az orvosszakértői, rehabilitációs,illetve szociális szakértői szerv, rehabilitációs hatóság adatkezelése
 
-22/E. § (1) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság részére az egészségbiztosítási szerv abban az esetben továbbít a (3) bekezdésben meghatározott egészségügyi és személyazonosító adatokat, amennyiben arra az érintettnek járó társadalombiztosítási vagy szociális ellátásra, kedvezményre való jogosultsága egészségi állapota alapján történő megállapításához, illetve ellenőrzéséhez szükséges tevékenységének, szakértői tevékenységének ellátása céljából van szükség. Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság az egészségbiztosítási szervnél rendelkezésre nem álló, a (3) bekezdés szerinti adatok továbbítása érdekében megkeresheti a kezelőorvost. A megkeresésére és a kezelőorvos adatátadási kötelezettségére a 23. § (1) és (2) bekezdésében foglaltakat értelemszerűen alkalmazni kell.
+22/E. § (1) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, továbbá az igazságügyi szakértő részére az egészségbiztosítási szerv abban az esetben továbbít a (3) bekezdésben meghatározott egészségügyi és személyazonosító adatokat, amennyiben arra az érintettnek járó társadalombiztosítási vagy szociális ellátásra, kedvezményre való jogosultsága egészségi állapota alapján történő megállapításához, illetve ellenőrzéséhez szükséges tevékenységének, szakértői tevékenységének ellátása céljából van szükség. Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, az igazságügyi szakértő az egészségbiztosítási szervnél rendelkezésre nem álló, a (3) bekezdés szerinti adatok továbbítása érdekében megkeresheti a kezelőorvost. A megkeresésére és a kezelőorvos adatátadási kötelezettségére a 23. § (1) és (2) bekezdésében foglaltakat értelemszerűen alkalmazni kell.
 
 (2) Az egészségügyi és személyazonosító adatokat kizárólag az orvosszakértői, rehabilitációs, illetve szociális szakértői szervnek, rehabilitációs hatóságnak a szakértői tevékenység elvégzésével megbízott dolgozója kezelheti.
 
-(3) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság a 4. § (2) bekezdésének f) pontjában meghatározott célból kezelheti
+(3) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, az igazságügyi szakértő a 4. § (2) bekezdésének f) pontjában vagy a tevékenységére vonatkozó törvényben meghatározott célból kezelheti
 
 - a) az egészségügyi szolgáltató, az egészségügyi szolgáltatást igénybe vevő, a beutaló (a szolgáltatást rendelő) orvos azonosítását szolgáló – külön jogszabály szerinti – adatokat,
 - b) az a) pontban foglaltakon túl az egészségügyi szolgáltatást igénybe vevő TAJ-számát,
@@ -353,11 +353,13 @@ amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti tevékenys�
 
 (4) A (3) bekezdés szerinti adatokat az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság az adatkezelés megkezdésétől számított 5 évig kezeli. Amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság az adatokat az ügy jogerős befejezésének időpontjáig öt éven túl is kezelheti. Ezt követően az adatokat meg kell semmisíteni.
 
+(5) Az igazságügyi szakértő a (3) bekezdés szerinti adatokat az igazságügyi szakértői tevékenységről szóló törvényben meghatározott szabályok szerint kezeli.
+
 ### Adattovábbítás az egészségügyi ellátóhálózaton kívüli szerv megkeresésére
 
 23. § (1) A következő szervek írásbeli megkeresésére a kezelést végző orvos az érintett egészségügyi és a megkereső szerv által törvény alapján kezelhető, az azonosításhoz szükséges személyazonosító adatait átadja a megkereső szervnek. A megkeresésben a 4. § (4) bekezdésének megfelelően fel kell tüntetni a megismerni kívánt egészségügyi és személyazonosító adatokat. A megkereső szervek a következők lehetnek:
 
-- a) büntetőügyben a nyomozó hatóság, az ügyészség, a bíróság, az igazságügyi orvosszakértő, polgári peres és nemperes, valamint közigazgatási hatósági ügyben a közigazgatási hatóság, az ügyészség a bíróság, az igazságügyi orvosszakértő,
+- a) büntetőügyben a nyomozó hatóság, az ügyészség, a bíróság, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági ügyben a közigazgatási hatóság, az ügyészség a bíróság, az igazságügyi szakértő,
 - b) szabálysértési eljárás során az eljárást lefolytató szervek,
 - c) potenciális hadköteles és hadköteles személy esetén az illetékes jegyző, a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
 - d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
@@ -435,6 +437,8 @@ kell átadni.
 részére kell átadni.
 
 (6) A meg nem semmisített, illetve a (2) bekezdés szerinti levéltárnak átadott egészségügyi dokumentációra e törvény előírásai értelemszerűen vonatkoznak.
+
+(6a) A betegjogi, ellátottjogi és gyermekjogi képviselő eljárása során keletkezett – egészségügyi és személyazonosító adatot is tartalmazó – dokumentációt az eljárás befejezését követően át kell adni a (4) bekezdés b) pontja szerinti szervnek.
 
 (7) A gyógyszertár a vényeket – a kábítószeres és pszichotróp anyagot tartalmazó gyógyszerre vonatkozó vények kivételével – 3 évig őrzi meg. A kábítószeres és pszichotróp anyagot tartalmazó gyógyszerre vonatkozó vényeket 5 évig kell megőrizni. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.
 

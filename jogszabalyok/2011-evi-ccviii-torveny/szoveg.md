@@ -581,7 +581,9 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 52. § Az MNB alkalmazottai és felügyelőbizottsági tagjai kötelesek a feladatkörük ellátása során tudomásukra jutott minősített adatot, banktitkot, értékpapírtitkot, fizetési titkot és üzleti titkot megőrizni. Ez a kötelezettség a megbízatás megszűnését követően is fennmarad.
 
-53. § Az MNB alkalmazottaira – e törvényben szabályozott kivételekkel – az Mt. rendelkezéseit kell alkalmazni.
+53. § (1) Az MNB alkalmazottaira – e törvényben szabályozott kivételekkel – az Mt. rendelkezéseit kell alkalmazni.
+
+(2) Az Mt. 204. § (3) bekezdése, 205. §-a és 207. §-a az MNB-re, illetve alkalmazottaira nem alkalmazandó.
 
 #### 29. Összeférhetetlenség
 

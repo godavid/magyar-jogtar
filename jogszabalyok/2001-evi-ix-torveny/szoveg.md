@@ -2186,7 +2186,7 @@ Ennek tanúbizonyságául az alulírottak kellő meghatalmazás birtokában alá
 
 Készült ezerkilencszázhetven július első napján Genfben, egyetlen angol és francia nyelvű példányban, amelyek szövege egyaránt hiteles.''
 
-3. § A nemzetközi közúti fuvarozást végző járművek személyzetének munkaviszony létesítésére, munkavégzésére, továbbá a munkaidejére és pihenőidejére a Munka Törvénykönyvéről szóló 1992. évi XXII. törvényt az e törvénnyel kihirdetett Megállapodásban foglalt eltérő rendelkezésekkel kell alkalmazni.
+3. § A nemzetközi közúti fuvarozást végző járművek személyzetének munkaviszony létesítésére, munkavégzésére, továbbá a munkaidejére és pihenőidejére a munka törvénykönyvéről szóló 2012. évi I. törvényt az e törvénnyel kihirdetett Megállapodásban foglalt eltérő rendelkezésekkel kell alkalmazni.
 
 4. § (1) Felhatalmazást kap a Kormány, hogy a nemzetközi közúti fuvarozást végző egyes járművek személyzete vezetési és pihenőidejének ellenőrzésével kapcsolatos szabályokat rendeletben állapítsa meg.
 

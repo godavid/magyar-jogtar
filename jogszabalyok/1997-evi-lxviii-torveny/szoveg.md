@@ -209,7 +209,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - e) a helyettesítésre és a kirendelésre vonatkozó döntéshez,
 - f) a munkáltatói jogkör gyakorlójának mindazon egyéb döntéseihez, amelyekre e törvény alapján egyoldalúan jogosult.
 
-(3) Az igazságügyi szerv és az igazságügyi alkalmazott, valamint egy másik igazságügyi szerv megállapodhat az igazságügyi alkalmazottnak a másik igazságügyi szervhez történő határozott idejű vagy végleges áthelyezésében. Az áthelyezéskor a 29. § rendelkezései szerint kell eljárni.
+(3) Az igazságügyi szerv és az igazságügyi alkalmazott, valamint egy másik igazságügyi szerv megállapodhat az igazságügyi alkalmazottnak a másik igazságügyi szervhez történő határozott idejű vagy végleges áthelyezésében. Az áthelyezéskor a 29. § rendelkezései szerint kell eljárni azzal, hogy a szabadság pénzbeli megváltásáról nem kell rendelkezni.
 
 18. § (1) Ha az igazságügyi alkalmazott álláshelye
 
@@ -230,7 +230,8 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - e) az e törvényben meghatározott egyéb esetekben, a törvény erejénél fogva,
 - f) azonnali hatállyal a próbaidő alatt,
 - g) határozott idejű kinevezés esetén a kinevezés idejének a lejártával is,
-- h) külön törvény rendelkezése folytán.
+- h) a 35. § (1) bekezdésben foglaltak szerinti megszüntetés esetén,
+- i) külön törvény rendelkezése folytán.
 
 (2)
 
@@ -331,7 +332,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - b) a szolgálati viszony kezdő és végső időpontját,
 - c) az illetményből jogszerűen levonható tartozások összegét és jogcímét, valamint ezek jogosultját, illetve azt, hogy az igazságügyi alkalmazottnak nincs tartozása,
 - d) a szolgálati viszony megszűnésének az évében igénybe vett betegszabadság napjainak a számát,
-- e) a kifizetett végkielégítés, külön juttatás és ruházati költségtérítés összegét tartalmazza.
+- e) a kifizetett végkielégítés összegét tartalmazza.
 
 ### A szolgálati viszony jogellenes megszüntetése esetén követendő eljárás
 
@@ -353,13 +354,17 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (4) Az OBH elnökhelyettese esetében a 32–34. §-ok nem alkalmazhatóak, az e §-ok szabályozási körébe tartozó kérdések tekintetében a bíróságok szervezetéről és igazgatásáról szóló törvényben foglalt rendelkezéseket kell alkalmazni.
 
-32. § (1) A vezetői megbízás – a (2) bekezdés szerinti kivételtől eltekintve – határozatlan időre szól.
+32. § (1) A magasabb vezetői állásnak nem minősülő vezetői állásra a megbízás határozatlan vagy legfeljebb 1 éves határozott időre szól.
 
-(2) A kinevezés határozott időre – legfeljebb 1 évre – szól, ha a magasabb vezetői állásra ismételten kiírt pályázat is eredménytelenül zárult.
+(2) A magasabb vezetői állásra a megbízás – a (3) bekezdésben foglalt kivétellel – határozatlan időre szól.
+
+(3) A megbízás határozott időre – legfeljebb 1 évre – szól, ha a magasabb vezetői állásra ismételten kiírt pályázat is eredménytelenül zárult.
+
+(4) Ha határozott időre kinevezett igazságügyi alkalmazott kap az (1) vagy a (3) bekezdés alapján határozott idejű vezetői megbízást, annak időtartama nem haladhatja meg az igazságügyi alkalmazotti kinevezés időtartamát.
 
 33. § (1) Pályázat bármely vezetői állásra kiírható, a magasabb vezetői állást pályázat útján kell betölteni.
 
-(2) Ha a magasabb vezetői állásra kiírt pályázat eredménytelen, új pályázatot kell kiírni. Az újabb pályázat eredménytelensége esetén a 32. § (2) bekezdésében foglaltak szerint kell eljárni.
+(2) Ha a magasabb vezetői állásra kiírt pályázat eredménytelen, új pályázatot kell kiírni. Az újabb pályázat eredménytelensége esetén a 32. § (3) bekezdésében foglaltak szerint kell eljárni.
 
 (3) A pályázatokra egyebekben a 14. § rendelkezéseit kell alkalmazni.
 
@@ -369,7 +374,8 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 - b) a vezetői beosztásról való lemondással,
 - c) a vezetői megbízás visszavonásával,
 - d) fegyelmi büntetésként,
-- e) mindazon esetekben, amikor a vezető szolgálati viszonya is megszűnik.
+- e) mindazon esetekben, amikor a vezető szolgálati viszonya is megszűnik,
+- f) a határozott idő lejártával.
 
 (2) A vezető lemondási ideje 2 hónap, de a felek ennél rövidebb időben is megállapodhatnak.
 
@@ -397,7 +403,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 ### Az összeférhetetlenség
 
-36. § (1) Az igazságügyi alkalmazott nem tölthet be olyan munkakört, amelyben a hozzátartozójával alá- vagy fölérendeltségi viszonyba kerülne.
+36. § (1) Az igazságügyi alkalmazott nem tölthet be olyan munkakört, amelyben a hozzátartozójával irányítási, ellenőrzési vagy elszámolási kapcsolatba kerülne.
 
 (2) Az igazságügyi alkalmazott
 
@@ -456,6 +462,12 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) Az igazságügyi alkalmazott a munkahelyén kívül is köteles az igazságügyi szervhez és a munkaköréhez méltó magatartást tanúsítani.
 
+39/A. § (1) A munkáltatói jogkört gyakorló bírósági elnök kérelemre írásban engedélyezheti, hogy meghatározott feladat ellátása érdekében a bírósági titkár, a bírósági fogalmazó és a bírósági ügyintéző a munkáját a bíróságon kívül végezze.
+
+(2) A bíróságon kívüli munkavégzésre irányuló engedélyt a bíróság elnöke bármikor, indokolás nélkül visszavonhatja.
+
+(3) A bírósági titkár, a bírósági fogalmazó és a bírósági ügyintéző a bíróságon kívüli munkavégzésének engedélyezése esetén is köteles a szolgálati jogviszonyból eredő hivatali kötelességeinek eleget tenni.
+
 40. § (1) Ha az igazságügyi alkalmazott a kötelezően előírt képzésben neki felróható okból nem vesz részt, vagy a vizsgákat nem teszi le, az e törvényben meghatározott egyéb jogkövetkezményeken kívül köteles az igazságügyi szerv ezzel kapcsolatos költségeit megtéríteni.
 
 (2) Az igazságügyi alkalmazott a munkáltatónak a képzéssel kapcsolatos költségeit akkor is köteles megtéríteni, ha a képzés befejezésétől, illetve a vizsga letételétől számított három éven belül a szolgálati viszonyát neki felróható okból szüntetik meg. Az igazságügyi alkalmazott a költségek megtérítésére kötelezhető, ha a szolgálati viszonyt a kezdeményezésére szüntetik meg.
@@ -500,7 +512,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 42. § (1) Az igazságügyi alkalmazott – kivételes esetben – a képesítésének megfelelő, de a munkakörébe nem tartozó munkavégzésre (helyettesítés), illetve más igazságügyi szervnél történő munkavégzésre (kirendelés) kötelezhető.
 
-(2) A helyettesítést és a kirendelést – utóbbit a kirendelés megkezdése előtt legalább 15 nappal – írásban kell elrendelni, amiben meg kell jelölni a helyettesítés vagy kirendelés idejét, valamint a szolgálati viszony tartalmának a módosulását jelentő valamennyi körülményt.
+(2) A helyettesítést és a kirendelést – utóbbit a kirendelés megkezdése előtt legalább 15 nappal, rendkívüli esetben 3 nappal – írásban kell elrendelni, amiben meg kell jelölni a helyettesítés vagy kirendelés idejét, valamint a szolgálati viszony tartalmának a módosulását jelentő valamennyi körülményt.
 
 (3) A helyettesítés és a kirendelés az igazságügyi alkalmazottra nézve – beosztását, képzettségét, életkorát, egészségi állapotát és családi körülményeit figyelembe véve – nem járhat aránytalan sérelemmel.
 
@@ -529,7 +541,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (4) A jogszabályban meghatározott egészségkárosító kockázatok között folyó munkavégzéssel járó egyéb munkakörök esetén jogszabály a (3) bekezdésnek megfelelő vagy további korlátozást határozhat meg.
 
-44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a Munka Törvénykönyve 138. §-a (5) bekezdésének a) pontja szerinti fizetés nélküli szabadságot vesz igénybe.
+44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 138. §-a (5) bekezdésének a) pontja szerinti fizetés nélküli szabadságot vesz igénybe.
 
 (2) A munkáltató az igazságügyi alkalmazottnak a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltató köteles írásban megindokolni a kérelem megtagadását.
 
@@ -596,6 +608,8 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (6) A (2)–(5) bekezdésekben meghatározott szabadság az igazságügyi alkalmazottat abban az évben illeti meg először, amikor az adott fizetési fokozatba besorolták, amikor a fizikai alkalmazott a (4) bekezdésben meghatározott időt elérte, illetve amely évben magasabb vezetői vagy vezetői beosztás ellátására kapott megbízást.
 
+(7) Az igazságügyi alkalmazott – a bírósági fogalmazó és a fizikai alkalmazott kivételével – alacsonyabb fizetési fokozatba való sorolása alapszabadságát nem érinti, de annak növelésére csak az alacsonyabb fizetési fokozatot követő második fizetési fokozat elérésekor kerül sor.
+
 49. § (1) A szabadság kiadásának az időpontját – az igazságügyi alkalmazott előzetes meghallgatása után – a munkáltató határozza meg. A szabadságok kiadására az igazságügyi szerveknél szabadságolási tervet kell készíteni.
 
 (2) A rendes szabadság egynegyedét – az igazságügyi jogviszony első 3 hónapját kivéve – az igazságügyi alkalmazott kérésének megfelelő időpontban kell kiadni. Az igazságügyi alkalmazottnak az erre vonatkozó igényét a szabadság kezdete előtt legalább 15 nappal be kell jelentenie, kivételes méltányolást érdemlő körülmény esetén ettől el lehet tekinteni.
@@ -612,7 +626,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) Ha az igazságügyi alkalmazott a szolgálati viszonya megszűnéséig több napot volt szabadságon, mint amennyi az igazságügyi szervnél töltött időre megilletné, a különbözet idejére kifizetett illetményt, illetve az e törvény alapján időarányosan járó juttatások megfelelő részét köteles visszafizetni. A túlfizetés nem követelhető vissza, ha a szolgálati viszony az igazságügyi alkalmazott halála, nyugdíjazása alapján szűnt meg.
 
-51. § A munkáltató az igazságügyi alkalmazott kérésére – rendkívül indokolt esetben – fizetés nélküli szabadságot engedélyezhet.
+51. § A munkáltató az igazságügyi alkalmazott kérésére – rendkívül indokolt esetben – fizetés nélküli szabadságot engedélyezhet, azonban annak teljes időtartama az egy évet nem haladhatja meg.
 
 ### IV. Fejezet — AZ IGAZSÁGÜGYI ALKALMAZOTTMUNKÁJÁNAK ÉRTÉKELÉSE
 
@@ -639,7 +653,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (6) Az igazságügyi alkalmazott kérésére az értékelés kialakításába az igazságügyi szervnél működő érdek-képviseleti szerv képviselőjét be kell vonni, az értékelésben foglalt megállapításokra tett észrevételeit az értékelési lapon rögzíteni kell.
 
-(7) Az igazságügyi alkalmazottal az értékelést ismertetni kell, aki az abban foglaltak megismerésének a tényét az értékelési lapon az aláírásával igazolja. Az igazságügyi alkalmazott az értékelésben foglalt megállapításokra írásban észrevételt tehet. Az értékelés ismertetésére meg kell hívni az igazságügyi alkalmazott közvetlen vezetőjét és a (6) bekezdés szerinti esetben az érdek-képviseleti szerv képviselőjét. Az értékelést szóban indokolni kell.
+(7) Az igazságügyi alkalmazottal az értékelést ismertetni kell, aki az abban foglaltak megismerésének a tényét az értékelési lapon az aláírásával igazolja. Az igazságügyi alkalmazott az értékelésben foglalt megállapításokra írásban észrevételt tehet. Az értékelés ismertetésére meg kell hívni az igazságügyi alkalmazott közvetlen vezetőjét és a (6) bekezdés szerinti esetben az érdek-képviseleti szerv képviselőjét. Az értékelést szóban indokolni kell. Ha az értékelés összegző megállapítása nem kiváló, az értékelést írásban is indokolni kell.
 
 (8) Az értékelés egyik példányát az aláíráskor az igazságügyi alkalmazottnak kell átadni, a második példányt a személyi nyilvántartás iratai között kell elhelyezni.
 
@@ -744,7 +758,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) Az előmenetelben történő várakozási időt egy vagy két évvel lehet meghosszabbítani.
 
-(3) Az (1) bekezdés b)–c) pontjaiban foglalt fegyelmi büntetések kiszabása esetén a következő fizetési fokozat eléréséhez, illetve az eredeti fizetési fokozatba való visszahelyezéshez szükséges várakozási időt a határozat keltének a napjától kell számítani.
+(3) Az (1) bekezdés b)–c) pontjaiban foglalt fegyelmi büntetések kiszabása esetén a következő fizetési fokozat eléréséhez, illetve az eredeti fizetési fokozatba való visszahelyezéshez szükséges várakozási időt a határozat jogerőre emelkedésének napjától kell számítani.
 
 (4) Kivételesen indokolt esetben az (1) bekezdés b)–d) pontjaiban foglalt fegyelmi büntetések végrehajtása egy év próbaidőre felfüggeszthető. Ha a próbaidő eredményesen eltelt, ezt úgy kell tekinteni, mintha az igazságügyi alkalmazott fegyelmi büntetésben nem részesült volna. Ha a próbaidő alatt az igazságügyi alkalmazott ellen újabb fegyelmi eljárás indult és vele szemben – a hivatalvesztést vagy az elbocsátást kivéve – újabb fegyelmi büntetést szabtak ki, a felfüggesztett fegyelmi büntetést is végre kell hajtani.
 
@@ -911,6 +925,8 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (2) Az igazságügyi alkalmazott a róla készült személyi nyilvántartást bármikor megtekintheti, jogosult a nyilvántartott helytelen adatok helyesbítését és a jogellenesen nyilvántartott adatok törlését kérni, illetve a jogellenesen kért adat közlését megtagadni. A személyi nyilvántartásba egyébként csak az igazságügyi alkalmazott vezetői, illetve a vezetői döntéseket előkészítő és végrehajtó alkalmazottak tekinthetnek be.
 
+(2a) Az igazságügyi alkalmazotti szolgálati jogviszonyból származó kötelezettségek teljesítése céljából a munkáltató az igazságügyi alkalmazott személyes adatait – az adatszolgáltatás céljának megjelölésével, törvényben meghatározottak szerint – az igazságügyi alkalmazott hozzájárulásával adatfeldolgozó számára átadhatja.
+
 (3) Az adatok közül az igazságügyi szerv megnevezése, az igazságügyi alkalmazott neve, munkakörének az elnevezése, valamint elektronikus aláírási jogosultsága és annak típusa közérdekből nyilvános adatnak minősül, bármely más adat – a (4) bekezdésben foglalt kivétellel – nem igazságügyi szerv részére csak a személyazonosításra alkalmatlan módon adható ki.
 
 (4) Az igazságügyi szerv – a bíróságokkal létesített igazságügyi szolgálati viszony esetén az OBH – jogosult az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból a Szolgáltató részére az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az Eat. szerint szükséges mértékben adatot továbbítani.
@@ -922,7 +938,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 95. § (1) Az igazságügyi alkalmazott az e törvényben meghatározott feltételek fennállása esetén
 
 - a) illetményre,
-- b) külön juttatásra,
+- b)
 - c) egyéb javadalmazásra, kedvezményre és költségtérítésre jogosult.
 
 (2) A bírósági végrehajtási jutalomról és a végrehajtási költségátalányról szóló jogszabály szerinti juttatások a törvényszéki végrehajtót és a végrehajtásban közreműködő személyt az (1) bekezdésben foglalt járandóságon felül illetik meg.
@@ -953,7 +969,7 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 (3) Az írnoki munkakört ellátó alkalmazottat a 4. számú mellékletben megjelölt IV. fizetési osztályba kell besorolni. A besorolásnál a 101. §-ban foglaltak megfelelő alkalmazásával legfeljebb két fizetési fokozattal csökkentett fokozat állapítható meg.
 
-(4) A fizikai alkalmazott alapilletményét a felek közös megegyezésével a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) alapján kell megállapítani azzal, hogy a 2001. június 30. napján járó alapilletmény nem csökkenthető.
+(4) A fizikai alkalmazott alapilletményét a felek közös megegyezésével a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) alapján kell megállapítani azzal, hogy a 2001. június 30. napján járó alapilletmény nem csökkenthető.
 
 100. § (1) Az igazságügyi alkalmazott fizetési fokozatát – a bírósági fogalmazó és a fizikai alkalmazott kivételével – az igazságügyi szolgálati idő alapján kell megállapítani.
 
@@ -973,7 +989,12 @@ létesített szolgálati jogviszonyra (a továbbiakban: szolgálati jogviszony) 
 
 102. § (1) A IV. fizetési osztályba tartozó tisztviselő részére, ha nem szakirányú felsőfokú iskolai végzettséggel vagy munkakörének betöltéséhez szükséges szakirányú felsőfokú vagy emelt szintű szakképesítéssel rendelkezik, az illetményalap 15 százalékával növelt összegű alapilletményt kell megállapítani.
 
-(2) A munkáltató az igazságügyi alkalmazott alapilletményét a munkavégzés színvonalára figyelemmel – a személyi juttatások előirányzaton belül – legfeljebb 30 százalékkal megemelheti, vagy legfeljebb 20 százalékkal csökkentett mértékben is megállapíthatja.
+(2) A munkáltató az igazságügyi alkalmazott alapilletményét a munkavégzés színvonalára figyelemmel – a személyi juttatások előirányzaton belül – legfeljebb
+
+- a) 30 százalékkal megemelheti, vagy
+- b) 20 százalékkal csökkentett mértékben is megállapíthatja.
+
+(3) A (2) bekezdés b) pontja szerinti intézkedést a munkáltató indokolni köteles.
 
 103. § (1) A bírósági fogalmazónak a 98. § (2)–(3) bekezdése alapján történő előresorolásától eltekintve, átlagon felüli színvonalú munkavégzés esetén a bírósági titkár és a szakértőjelölt egy alkalommal, az igazságügyi szakértő, a tisztviselő és az írnok két alkalommal – soron kívül – eggyel magasabb fizetési fokozatba sorolható.
 
@@ -1052,7 +1073,9 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 ### Kirendelési díj
 
-110. § Az igazságügyi alkalmazott élelmezési költségátalányként kirendelési díjra akkor jogosult, ha a szolgálati helyétől eltérő olyan településen működő igazságügyi szervhez rendelik ki, ahonnan a lakóhelyére naponta nem tud visszautazni. Kirendelési díjként az igazságügyi alkalmazott – a közlekedési és a szállásköltségen túl – a napidíjra jogosult.
+110. § (1) Ha az igazságügyi alkalmazottat a szolgálati helyétől eltérő olyan településen működő igazságügyi szervhez rendelik ki, ahonnan a szolgálati helyére naponta nem tud visszautazni, a kirendelésen töltött munkanapokra – a közlekedési és a szállásköltség megtérítésén túl – élelmezési költségátalányként kirendelési díjra jogosult.
+
+(2) A kirendelési díjat a 115. § (1), (3) és (4) bekezdésében foglaltak alapján kell megállapítani. Nem számolható el kirendelési díj azokra a munkanapokra, amikor az igazságügyi alkalmazott belföldi kiküldetési díjra jogosult, továbbá ha az élelmezést a kirendelés helyén természetben biztosítják.
 
 ### Az ügyeleti és készenléti díj
 
@@ -1083,7 +1106,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 (2) A díjazás mértéke az egy órára járó illetmény ötven százalékkal növelt összege. A heti pihenőnapon vagy a munkaszüneti napon végzett rendkívüli munkavégzésért kétszeres összegű díjazás jár.
 
-### A napidíj
+### Belföldi kiküldetési díj
 
 115. § (1) Az igazságügyi alkalmazottat belföldi kiküldetés esetén – az élelmezéssel kapcsolatos többletköltségek fedezésére – napidíjként az illetményalap egy munkanapra eső részének a 10 százaléka illeti meg. Ha a kiküldetésben töltött idő a 6 órát nem haladja meg, de a 4 órát eléri, a napidíj fele jár.
 
@@ -1117,7 +1140,7 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 119. § (1) Az igazságügyi alkalmazott cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. Az OBH elnöke, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében – ha jogszabály eltérően nem rendelkezik – az irányító miniszter további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
-(2) Nem jogosult cafetéria-juttatásra az igazságügyi alkalmazott azon időtartam vonatkozásában, amelyre illetményre vagy átlagkeresetre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
+(2) Nem jogosult cafetéria-juttatásra az igazságügyi alkalmazott azon időtartam vonatkozásában, amelyre illetményre vagy átlagilletményre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
 (3) Az igazságügyi alkalmazott írásban vagy elektronikus úton a tárgyév január 15-ig, illetve a jogviszony létesítésekor vagy az áthelyezésekor nyilatkozik arról, hogy a cafetéria-juttatás összegén belül milyen juttatásokra tart igényt. A nyilatkozat ezt követően csak akkor módosítható, ha azt az OBH elnöke szabályzata, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében a miniszter utasításban lehetővé teszi. Az OBH elnöke szabályzatban, illetve az 1. § (1) bekezdés c) pontjában meghatározott szervek esetében a miniszter utasításban előírhatja, hogy az igazságügyi alkalmazott helyi utazására szolgáló bérlet választására vonatkozó nyilatkozatot korábban kell megtenni.
 
@@ -1181,6 +1204,26 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 (12) A kezességvállalásból eredő helytállási kötelezettség teljesítésének módját a Kormány rendeletben állapítja meg.
 
+121/B. § (1) Ha az igazságügyi alkalmazottnak átlagilletményt kell fizetni, részére az átlagszámítás alapjául szolgáló időszakra (a továbbiakban: irányadó időszak) kifizetett illetmény, jutalom, és rendkívüli munkavégzés ellenértéke (a továbbiakban e §-ban együtt: javadalmazás) időarányosan számított átlaga jár.
+
+(2) Az (1) bekezdés szerinti átlagszámításnál az esedékességtől eltérő időben kifizetett javadalmazást az esedékesség napján teljesített kifizetésnek kell tekinteni.
+
+(3) Az átlagilletmény számításánál az illetményt az átlagilletmény esedékessége időpontjában érvényes összegben kell figyelembe venni.
+
+(4) Az átlagilletmény-számítás alapjául az utolsó négy naptári negyedévre kifizetett javadalmazások szolgálnak.
+
+(5) Ha az igazságügyi alkalmazott szolgálati viszonya a négy naptári negyedévnél rövidebb, az átlagilletmény számításakor a nála számításba vehető naptári negyedév(ek), negyedév hiányában az utolsó naptári hónap(ok)ra kifizetett javadalmazást kell figyelembe venni.
+
+(6) Az irányadó időszakban kifizetett, de az irányadó időszakot meghaladó, meghatározott időtartamra járó javadalmazásnak, továbbá az irányadó időszakon kívüli időben kifizetett, de az irányadó időszak alatti munkavégzés alapján járó javadalmazásnak csak az átlagszámítás alapjául figyelembe vehető időszakra eső – a (8) bekezdés szerinti osztószám figyelembevételével számított – (időarányos) részét kell az átlagszámításnál a kifizetett javadalmazás összegébe beszámítani.
+
+(7) Ha az igazságügyi alkalmazott szolgálati viszonya egy naptári hónapnál rövidebb, átlagilletményének a távolléti díjával azonos összeg tekintendő.
+
+(8) Az egy órára, illetve az egy munkanapra járó átlagilletményt úgy kell kiszámítani, hogy az igazságügyi alkalmazott irányadó időszaki javadalmazásának együttes összegét osztani kell az adott időszakban munkában töltött, valamint az illetménnyel fizetett, de munkában nem töltött órák, illetve munkanapok számával (együtt: osztószám).
+
+(9) Az a naptári negyedév – az (5) bekezdés szerinti naptári negyedév(ek) hiányában az a naptári hónap –, amelyben az igazságügyi alkalmazottnak kifizetett javadalmazáshoz osztószám nem tartozik, az irányadó időszak meghatározásánál nem vehető figyelembe.
+
+(10) Ha e törvény a fizetési kötelezettség megállapításánál havi átlagilletmény alkalmazását írja elő, akkor egy havi átlagilletményen az igazságügyi alkalmazott egy napi átlagilletményének a huszonkétszerese értendő. Munkaidőkeret alkalmazása esetén a havi átlagilletmény kiszámításánál a (8) bekezdésben foglaltak szerint meghatározott egy órára járó átlagilletmény összege szorzandó 174–gyel, részmunkaidő esetén ennek időarányos részével.
+
 ### Az érdemek elismerése
 
 122. § (1) Az igazságügyi alkalmazott a munkaköri feladatok hosszabb időn át történő eredményes ellátásáért vagy adott feladat kiemelkedő teljesítéséért a következő elismerésekben részesíthető:
@@ -1201,9 +1244,16 @@ a besorolása szerint azonos szolgálati idővel rendelkező kormánytisztvisel�
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 3. §-ának (2)–(4) bekezdéseit, 4. §-ának (2)–(3) bekezdéseit, 5–6. §-ait, 7. §-ának (1)–(5) bekezdéseit, 8–9. §-ait, 10. §-ának (1)–(3) bekezdéseit, 11–15. §-ait, 18–19/A. §-ait, 21–28. §-ait, 74. §-át, 75. §-ának (1) bekezdését, 76. §-ának (6)–(8) bekezdéseit, 76/B. §-át, 78/A. §-át, 79. § (2) bekezdését, 84. §-át, 84/A. § (1) bekezdés a) pontját és (2) bekezdését, 85. §-át, 85/A. § (1) és (2) bekezdését, 87/A. §-át, 89. §-ának (7) bekezdését, 90. §-ának (3)–(4) és (6) bekezdéseit, 93. §-ának (4) bekezdését, 107. §-át, 116. §-át, 117. §-ának (1) bekezdését, 117/B. §-ának (2) bekezdését, (3) bekezdése a) pontját és (5) bekezdését, 118. §-ának (2) bekezdését, 118/A. §-ának (4)–(5) bekezdéseit, 119. §-át, 120. §-át, 121. §-át, 125. §-át, 129. §-át, 130. §-ának (2) bekezdését, 132. §-ának (2)–(3) bekezdéseit, 133. §-át, 135–136. §-ait, 137–140/A. §-ait, 142/A. §-át, 144. §-ának (1) bekezdését, 150. §-ának (2) bekezdését, 151. §-át, 151/A. §-ának (1)–(2), (4)–(6) bekezdéseit, 152. §-ának (1)–(9) bekezdéseit, 153. §-át, 155–164. §-ait, 202. §-ának (2) bekezdését megfelelően alkalmazni kell.
+124. § (1) Az e törvényben nem szabályozott kérdésekben a szolgálati viszonyra az Mt. 6. és 7. §-át, 8. § (1)–(3) bekezdését, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 21. § (1)–(3) bekezdését, 22. § (1) és (3)–(6) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és második mondatát, valamint (3) és (4) bekezdését, 25. §-át, 27. és 28. §-át, 29. § (1) és (3)–(5) bekezdését, 30. §-át, 45. § (4) bekezdését, 51. § (2), (3) és (5) bekezdését, 55. §-át, 60. §-át, 61. § (1) bekezdés a) pontját és (2) bekezdését, 66. § (4) bekezdését, 70. § (4) bekezdését, 86. § (1) és (2) bekezdését, valamint (3) bekezdés b) pontját, 87. és 88. §-át, 91. §-át, 92. § (2) bekezdés a) pontját, valamint (4) és (5) bekezdését, 93. § (2)–(4) bekezdését, 97. § (1), (3) és (4) bekezdését, 99. §-át, 100. §-át, 102. § (1) és (5) bekezdését, 104. § (1), (3) és (4) bekezdését, 110–113. §-át, 132. §-át, 134. § (1)–(3) bekezdését, valamint (4) bekezdés a) és b) pontját, 136. § (1) bekezdését, 146. § (1) és (2) bekezdését, (3) bekezdés a)–c) és e) pontját, valamint (4) bekezdését, 153. §-át, 155. és 156. §-át, 157. § (1) bekezdését, 160–164. §-át, 192. § (1) bekezdését, 231. §-át, 270–271. §-át, 272. § (2)–(9) bekezdését, 273. § (1) és (2) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés g) pontját és (2) bekezdését, valamint a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 130. § (2) bekezdését, 132. § (2) és (3) bekezdését, 133. §-át, 135. és 136. §-át, 137–140/A. §-át, 151/A. § (1) és (2), valamint (4)–(6) bekezdését megfelelően alkalmazni kell.
 
-(2) Az Mt. 110–115. §-ainak a rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az igazságügyi alkalmazott más munkáltatóval tanulmányi szerződést csak a munkáltatója előzetes engedélyével köthet.
+(2) Az Mt.
+
+- a) 29. § (2) bekezdését azzal az eltéréssel kell megfelelően alkalmazni, hogy a távolléti díj helyett átlagilletményt kell megfizetni,
+- b) 135. § (1) bekezdését, valamint 165. § (1) bekezdés a), e), f) és g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
+- c) 229. §-ának a rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az igazságügyi alkalmazott más munkáltatóval tanulmányi szerződést csak a munkáltatója előzetes engedélyével köthet, továbbá, hogy felmondás alatt a lemondást kell érteni,
+- d) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
+
+(2a) Az egyéb igazságügyi szervnél foglalkoztatott igazságügyi alkalmazott tekintetében az (1)–(2) bekezdésben foglaltak mellett az Mt. 86. § (3) bekezdés a) pontját is megfelelően alkalmazni kell.
 
 (3) Az igazságügyi szervhez vezényelt hivatásos állományú személy jogállására – az e törvényben nem szabályozott kérdésekben – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény rendelkezéseit is megfelelően alkalmazni kell.
 
@@ -1265,10 +1315,11 @@ rendeletben állapítsa meg.
 
 137. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a munkaidő szervezésének néhány vonatkozásáról szóló, a Tanács 93/104/EK irányelvével, a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
-- b) az UNICE, az ETUC és a CEEP által a határozott ideig tartó munkavégzéssel kapcsolatosan kötött keretmegállapodásról szóló, a Tanács 1999/70/EK irányelvével, a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
-- c) az UNICE, az ETUC és a CEEP által a részmunkaidőről kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelvével, a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
-- d) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
+- a) a munkaidő szervezésének néhány vonatkozásáról szóló, a Tanács 93/104/EK irányelvével, az Mt. irányadó rendelkezéseivel együtt,
+- b) az UNICE, az ETUC és a CEEP által a határozott ideig tartó munkavégzéssel kapcsolatosan kötött keretmegállapodásról szóló, a Tanács 1999/70/EK irányelvével, az Mt. irányadó rendelkezéseivel együtt,
+- c) az UNICE, az ETUC és a CEEP által a részmunkaidőről kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelvével, az Mt. irányadó rendelkezéseivel együtt,
+- d) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
+- e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által, a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelv.
 
 ### 1. számú melléklet az 1997. évi LXVIII. törvényhez
 
@@ -1277,18 +1328,18 @@ rendeletben állapítsa meg.
 - 1. Személyi adatok: – név (leánykori név): – anyja neve: – születési hely és idő: – jelenlegi munkakör:
 - 2. A korábbi értékelés időpontja és annak összegző megállapítása.
 - 3. A munkakörére előírt képesítési követelményeknek megfelel-e.
-- 4. Szakmai ismeret és jártasság: – átlag feletti – átlagos – nem megfelelő
-- 5. Pontosság: – átlag feletti – átlagos – nem megfelelő
-- 6. Szorgalom: – átlag feletti – átlagos – nem megfelelő
-- 7. Írásbeli kifejezőkészség: – átlag feletti – átlagos – nem megfelelő
-- 8. Szóbeli kifejezőkészség: – átlag feletti – átlagos – nem megfelelő
-- 9. Vezető esetén a vezetett egység (hivatali egység) munkájának a színvonala: – átlag feletti – átlagos – nem megfelelő
+- 4. Szakmai ismeret és jártasság: – kiváló – átlag feletti – jó – átlagos – nem megfelelő
+- 5. Pontosság: – kiváló – átlag feletti – jó – átlagos – nem megfelelő
+- 6. Szorgalom: – kiváló – átlag feletti – jó – átlagos – nem megfelelő
+- 7. Írásbeli kifejezőkészség: – kiváló – átlag feletti – jó – átlagos – nem megfelelő
+- 8. Szóbeli kifejezőkészség: – kiváló – átlag feletti – jó – átlagos – nem megfelelő
+- 9. Vezető esetén a vezetett egység (hivatali egység) munkájának a színvonala: – kiváló – átlag feletti – jó – átlagos – nem megfelelő
 - 10. Az értékelésbe bevont egyéb szempontok szerinti megítélés.
-- 11. Az 1–10. pontok alapján az összegző megállapítás: – kiválóan alkalmas – alkalmas – alkalmatlan
+- 11. Az 1–10. pontok alapján az összegző megállapítás: – kiváló – átlag feletti – jó – átlagos – nem megfelelő
 - 12. Az értékelő neve, munkaköre, aláírása és az értékelés ismertetésének az ideje.
 - 13. Az igazságügyi alkalmazott aláírása, hogy az értékelés tartalmát megismerte.
 - 14. Az igazságügyi alkalmazott észrevételei, dátum és aláírás.
-- 15. Az érdekképviseleti szerv észrevételei, dátum, aláírás.
+- 15. Az érdek-képviseleti szerv észrevételei, dátum, aláírás.
 
 ### 2. számú melléklet az 1997. évi LXVIII. törvényhez
 

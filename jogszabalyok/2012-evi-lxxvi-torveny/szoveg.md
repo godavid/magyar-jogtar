@@ -42,7 +42,11 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 7. § (1)
 
-(2)
+(2) Hatályát veszti
+
+- 1. a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény módosításáról szóló 2002. évi XIX. törvény,
+- 2. a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény, valamint egyéb munkaügyi tárgyú törvények módosításáról szóló 2005. évi CLIV. törvény,
+- 3. egyes szociális és munkaügyi tárgyú törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2010. évi XXXIX. törvény.
 
 (3) Hatályát veszti
 

@@ -156,7 +156,7 @@ minősül.
 - a) a 19–31. §-ban meghatározott eljárás alapján, vagy
 - b) e törvényben meghatározott esetekben, a VIII. fejezet rendelkezései szerint kell megállapítani.
 
-(2) Az e törvény által nem szabályozott kérdésekben az európai szövetkezet, annak leányvállalata vagy telephelye belföldön foglalkoztatott munkavállalóinak tájékoztatási és konzultációs jogaira a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Munka Törvénykönyve) rendelkezéseit kell alkalmazni.
+(2) Az e törvény által nem szabályozott kérdésekben az európai szövetkezet, annak leányvállalata vagy telephelye belföldön foglalkoztatott munkavállalóinak tájékoztatási és konzultációs jogaira a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni.
 
 (3) Az e rész szerinti tárgyalások és eljárások során a különleges tárgyaló testület, a képviseleti testület, a munkavállalói képviselők, az európai szövetkezet igazgatósága, igazgatótanácsa (vagy az általuk felhatalmazott más szerv), továbbá a felügyelőbizottság és a részt vevő jogalanyok ügyvezető szervei a jóhiszeműség és tisztesség követelményeinek megfelelően, kölcsönösen együttműködve kötelesek eljárni.
 
@@ -213,7 +213,7 @@ minősül.
 
 (4) A munkavállalói képviselő megválasztásával kapcsolatos feladatok lebonyolítása a választási bizottság feladata. A választási bizottság három tagból áll, akiket a munkavállalók közvetlenül választanak. A választási bizottság meghatározza a választás eljárási rendjét, időpontját, gondoskodik a választás lebonyolításáról és megállapítja a szavazatszámlálás szabályait.
 
-(5) Munkavállalói képviselővé az a cselekvőképes munkavállaló választható, aki a munkáltatóval legalább hat hónapja munkaviszonyban áll. A választásra jogosult, valamint a választható munkavállalók jegyzékét a munkáltatónak a választási bizottság kérésére öt napon belül rendelkezésre bocsátott adatai alapján a választási bizottság állapítja meg és teszi közzé. A választás érvényességére a Munka Törvénykönyvének 51/A. § (1) bekezdésében foglaltak irányadók. Érvénytelen választás esetén a választást harminc napon belül meg kell ismételni. A megismételt választást akkor kell érvényesnek tekinteni, ha azon a választásra jogosultak több mint egyharmada jelen van.
+(5) Munkavállalói képviselővé az a cselekvőképes munkavállaló választható, aki a munkáltatóval legalább hat hónapja munkaviszonyban áll. A választásra jogosult, valamint a választható munkavállalók jegyzékét a munkáltatónak a választási bizottság kérésére öt napon belül rendelkezésre bocsátott adatai alapján a választási bizottság állapítja meg és teszi közzé. A választás érvényességére az Mt. 247. § (1) bekezdésében foglaltak irányadók. Érvénytelen választás esetén a választást harminc napon belül meg kell ismételni. A megismételt választást akkor kell érvényesnek tekinteni, ha azon a választásra jogosultak több mint egyharmada jelen van.
 
 (6) A munkavállalók képviselőjének azt a munkavállalót kell tekinteni, aki a leadott érvényes szavazatok közül a legtöbbet megszerezte.
 
@@ -245,7 +245,7 @@ minősül.
 
 (2) A különleges tárgyaló testület jogosult tájékoztatni az eljárásban nem érintett szakszervezeteket és más külső szervezeteket is a tárgyalások megkezdéséről.
 
-28. § A különleges tárgyaló testület működésével és a tárgyalásokkal kapcsolatban felmerülő indokolt és szükséges költségeket (helyiség, szakértői és tolmácsdíj, utazási és szállásköltség stb.) – az általuk foglalkoztatott munkavállalók arányában – a részt vevő jogalanyok viselik. A részt vevő jogalanyok által viselt költségek mértékének megállapítására a Munka Törvénykönyvének 63. §-át megfelelően alkalmazni kell.
+28. § A különleges tárgyaló testület működésével és a tárgyalásokkal kapcsolatban felmerülő indokolt és szükséges költségeket (helyiség, szakértői és tolmácsdíj, utazási és szállásköltség stb.) – az általuk foglalkoztatott munkavállalók arányában – a részt vevő jogalanyok viselik.
 
 ### A különleges tárgyaló testület határozatai
 
@@ -260,13 +260,13 @@ minősül.
 
 a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a teljes taglétszámához képest számított – kétharmados szótöbbséggel meghozott határozata szükséges. E határozat csak akkor hozható meg, ha az igenlő szavazatot leadó tagok az összes munkavállalónak legalább – két különböző tagállamban foglalkoztatott – kétharmadát képviselik.
 
-30. § (1) A különleges tárgyaló testület – a teljes taglétszámához képest számított – kétharmados szótöbbséggel hozott határozatával, feltéve, hogy e tagok a részt vevő jogalanyok valamennyi munkavállalójának legalább – két különböző tagállamban foglalkoztatott – kétharmadát képviselik, úgy dönthet, hogy nem kezdi meg a tárgyalásokat vagy a már megkezdett tárgyalásokat berekeszti. Ebben az esetben az európai szövetkezet belföldön foglalkoztatott munkavállalóinak tájékoztatására és a velük való konzultációra a Munka Törvénykönyvének rendelkezéseit kell alkalmazni.
+30. § (1) A különleges tárgyaló testület – a teljes taglétszámához képest számított – kétharmados szótöbbséggel hozott határozatával, feltéve, hogy e tagok a részt vevő jogalanyok valamennyi munkavállalójának legalább – két különböző tagállamban foglalkoztatott – kétharmadát képviselik, úgy dönthet, hogy nem kezdi meg a tárgyalásokat vagy a már megkezdett tárgyalásokat berekeszti. Ebben az esetben az európai szövetkezet belföldön foglalkoztatott munkavállalóinak tájékoztatására és a velük való konzultációra az Mt.-nek rendelkezéseit kell alkalmazni.
 
 (2) A különleges tárgyaló testület az (1) bekezdés szerinti határozatot nem hozhatja meg, ha az európai szövetkezet átalakulással jön létre, és az átalakuló szövetkezetben a munkavállalóknak részvételi joga van.
 
 (3) A felek közös megegyezéssel bármikor újra megnyithatják a tárgyalásokat.
 
-(4) Az (1) bekezdés szerinti döntés meghozatalától számított két év elteltével, az európai szövetkezet, annak leányvállalatai és telephelyei munkavállalóinak tíz százaléka vagy képviselőik írásban kérhetik az európai szövetkezet igazgatóságától (igazgatótanácsától) a különleges tárgyaló testület összehívását. A kérelem alapján a testületet össze kell hívni. Ha a testület kezdeményezi a tárgyalásokat, de a felek között megállapodás nem jön létre, a belföldön foglalkoztatott munkavállalók jogaira a Munka Törvénykönyvének a munkavállalók tájékoztatására és a velük való konzultációra vonatkozó rendelkezéseit kell alkalmazni.
+(4) Az (1) bekezdés szerinti döntés meghozatalától számított két év elteltével, az európai szövetkezet, annak leányvállalatai és telephelyei munkavállalóinak tíz százaléka vagy képviselőik írásban kérhetik az európai szövetkezet igazgatóságától (igazgatótanácsától) a különleges tárgyaló testület összehívását. A kérelem alapján a testületet össze kell hívni. Ha a testület kezdeményezi a tárgyalásokat, de a felek között megállapodás nem jön létre, a belföldön foglalkoztatott munkavállalók jogaira az Mt.-nek a munkavállalók tájékoztatására és a velük való konzultációra vonatkozó rendelkezéseit kell alkalmazni.
 
 ### A munkavállalók bevonására vonatkozó megállapodás tartalma
 
@@ -307,13 +307,13 @@ a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a
 
 ### Munkajogi védelem
 
-34. § (1) A különleges tárgyaló testület és a képviseleti testület belföldön foglalkoztatott tagjának és póttagjának, a tájékoztatási és konzultációs eljárásban részt vevő munkavállalói képviselőnek, továbbá az európai szövetkezet igazgatótanácsában vagy felügyelőbizottságában lévő munkavállalói küldötteknek a munkajogi védelmére a Munka Törvénykönyve üzemi tanács tagjára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+34. § (1) A különleges tárgyaló testület és a képviseleti testület belföldön foglalkoztatott tagjának és póttagjának, a tájékoztatási és konzultációs eljárásban részt vevő munkavállalói képviselőnek, továbbá az európai szövetkezet igazgatótanácsában vagy felügyelőbizottságában lévő munkavállalói küldötteknek a munkajogi védelmére az Mt. üzemi tanács tagjára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az (1) bekezdésben meghatározott személy a feladatai ellátásához szükséges időtartamra mentesül a munkavégzési kötelezettsége alól, és erre az időre távolléti díja illeti meg. A képviseleti testület tagját ez a jog a továbbképzéséhez szükséges időtartamra is megilleti. A munkaidő-kedvezmény időtartamára – ha a 31. § szerinti megállapodás eltérően nem rendelkezik – a Munka Törvénykönyve 62. §-ának (2) bekezdése megfelelően irányadó.
+(2) Az (1) bekezdésben meghatározott személy a feladatai ellátásához szükséges időtartamra mentesül a munkavégzési kötelezettsége alól, és erre az időre távolléti díja illeti meg. A képviseleti testület tagját ez a jog a továbbképzéséhez szükséges időtartamra is megilleti. A munkaidő-kedvezmény időtartamára – ha a 31. § szerinti megállapodás eltérően nem rendelkezik – az Mt. 260. § (1) bekezdése megfelelően irányadó.
 
 ### Jogorvoslat
 
-35. § (1) Az e részben meghatározott jogok vagy kötelezettségek megsértése esetén a különleges tárgyaló testület, a képviseleti testület, a tájékoztatási és konzultációs eljárásban részt vevő munkavállalói képviselők – a Munka Törvénykönyve rendelkezéseinek megfelelő alkalmazásával – az európai szövetkezet igazgatósága (igazgatótanácsa), továbbá a részt vevő jogalanyok ügyvezető szervei ellen munkaügyi jogvitát kezdeményezhetnek.
+35. § (1) Az e részben meghatározott jogok vagy kötelezettségek megsértése esetén a különleges tárgyaló testület, a képviseleti testület, a tájékoztatási és konzultációs eljárásban részt vevő munkavállalói képviselők – az Mt. rendelkezéseinek megfelelő alkalmazásával – az európai szövetkezet igazgatósága (igazgatótanácsa), továbbá a részt vevő jogalanyok ügyvezető szervei ellen munkaügyi jogvitát kezdeményezhetnek.
 
 (2) Az (1) bekezdés szerinti jog az európai szövetkezet igazgatóságát (igazgatótanácsát), továbbá a részt vevő jogalanyok ügyvezető szerveit is megilleti a különleges tárgyaló testülettel, a képviseleti testülettel, illetve a munkavállalói képviselőkkel szemben.
 
@@ -365,7 +365,7 @@ a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a
 
 41. § (1) A képviseleti testület – munkájának segítésére – szakértőt vehet igénybe.
 
-(2) A képviseleti testület működésével kapcsolatban felmerülő indokolt és szükséges költségeket (tárgyalások szervezése, szakértői és tolmácsdíj, utazási és szállásköltség stb.) az európai szövetkezet viseli. Ugyanígy köteles biztosítani a testület tagjainak a feladatuk megfelelő ellátásához szükséges pénzügyi és dologi eszközöket. Az európai szövetkezet által viselt költségek mértékének megállapítására a Munka Törvénykönyvének 63. §-át megfelelően alkalmazni kell.
+(2) A képviseleti testület működésével kapcsolatban felmerülő indokolt és szükséges költségeket (tárgyalások szervezése, szakértői és tolmácsdíj, utazási és szállásköltség stb.) az európai szövetkezet viseli. Ugyanígy köteles biztosítani a testület tagjainak a feladatuk megfelelő ellátásához szükséges pénzügyi és dologi eszközöket.
 
 42. § (1) A képviseleti testület megalakítását követően, a testület kérésére az európai szövetkezet igazgatósága (igazgatótanácsa) – legfeljebb – évente megvizsgálja, hogy az egyes tagállamokban foglalkoztatott munkavállalói létszám a 36. §-ban foglaltakhoz képest változott-e oly mértékben, amely a képviseleti testület létszámának, illetve összetételének a változását indokolja. A vizsgálat eredményéről a képviseleti testületet az igazgatóság (igazgatótanács) tájékoztatja.
 
@@ -456,7 +456,7 @@ a részvételi jogok csökkentéséhez a különleges tárgyaló testület – a
 - j) leányvállalat: olyan gazdasági társaság vagy szövetkezet, amely felett a részt vevő jogalany vagy az európai szövetkezet meghatározó befolyást [52. § (4)–(8) bekezdés] gyakorol;
 - k) érintett leányvállalat vagy telephely: a részt vevő jogalany olyan leányvállalata vagy telephelye, amelyre nézve javasolják, hogy az európai szövetkezet alapításával annak leányvállalatává vagy telephelyévé váljon;
 - l) ügyvezető szerv: a szövetkezet igazgatósága vagy igazgatótanácsa, a részvénytársaság igazgatósága vagy igazgatótanácsa, a korlátolt felelősségű társaság ügyvezetője, továbbá más jogi személy vagy jogi személyiség nélküli szervezet ügyvezetése;
-- m) belföldön foglalkoztatott munkavállaló: a részt vevő jogalanyok, az európai szövetkezet, illetve ezek leányvállalatai vagy telephelye által Magyarország területén foglalkoztatott munkavállaló – ideértve a Munka Törvénykönyve 76/C. §-ának (2) bekezdésében foglalt esetet is –, tekintet nélkül arra, hogy az európai szövetkezet székhelye Magyarországon vagy külföldön van.
+- m) belföldön foglalkoztatott munkavállaló: a részt vevő jogalanyok, az európai szövetkezet, illetve ezek leányvállalatai vagy telephelye által Magyarország területén foglalkoztatott munkavállaló, tekintet nélkül arra, hogy az európai szövetkezet székhelye Magyarországon vagy külföldön van.
 
 (2) Az (1) bekezdés e) pontja szerinti tájékoztatásnak olyan időben, módon és tartalommal kell történnie, hogy a képviseleti testületnek, illetve a munkavállalói képviselőknek elegendő ideje és ismerete legyen a lehetséges hatások elemzésére, és ha szükséges, az igazgatósággal, igazgatótanáccsal (vagy az általa felhatalmazott más szervvel) való konzultáció előkészítésére.
 

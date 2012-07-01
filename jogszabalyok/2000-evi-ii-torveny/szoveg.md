@@ -31,7 +31,7 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 – a praxisjog folytatására irányuló jogáról a sorrendben őt követő, a jogszabályi feltételeknek megfelelő személy javára lemondhat, illetőleg
 
-– a működtetési jogot a korábbi jogosult halálától számított 1 éven belül ingyenesen vagy visszterhesen elidegenítheti.
+– a praxisjogot a korábbi jogosult halálától számított 1 éven belül ingyenesen vagy visszterhesen elidegenítheti.
 
 (7) Ha a praxisjog elidegenítésére a (6) bekezdés alapján jogosult személy e jogával az ott megjelölt határidőn belül nem él, a praxisjog megszűnik.
 
@@ -41,7 +41,7 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (10) A tartósan betöltetlen háziorvosi körzetek miatti ellátási különbségek kiegyenlítésére, a hátrányos helyzetű települési önkormányzatok egészségügyi alapellátási feladatai megszervezésének segítésére külön jogszabály szerint működtetett Praxisprogram szolgál.
 
-2/A. § (1) A praxisjog elidegenítésére vonatkozó szándékát – a praxisjogot megszerezni kívánó orvost is megjelölve – az azt elidegeníteni kívánó orvos bejelenti az adott praxisjoggal érintett települési önkormányzatnak.
+2/A. § (1) A praxisjog elidegenítésére vonatkozó szándékát – a praxisjogot megszerezni kívánó orvost is megjelölve – az azt elidegeníteni kívánó személy bejelenti az adott praxisjoggal érintett települési önkormányzatnak.
 
 (2) Amennyiben az (1) bekezdés szerinti önkormányzat
 

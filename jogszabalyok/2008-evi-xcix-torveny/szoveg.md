@@ -396,7 +396,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 ### 1. CÍM — A foglalkoztatottakra vonatkozó eltérő munkajogi szabályok
 
-25. § (1) Az előadó-művészeti szervezetekben – a munkáltató személyétől függően – a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) vagy a Kjt. szabályait az e fejezetben megállapított eltérésekkel kell alkalmazni.
+25. § (1) Az előadó-művészeti szervezetekben – a munkáltató személyétől függően – a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) vagy a Kjt. szabályait az e fejezetben megállapított eltérésekkel kell alkalmazni.
 
 (2) A művészi és művészeti munkaköröket külön jogszabály határozza meg.
 
@@ -428,7 +428,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (3) A munkáltató az (1) bekezdésben meghatározott esetben a foglalkoztatottat a felmondásról szóló döntéséről, illetve a részfoglalkoztatás lehetőségéről legkésőbb március 1-jéig előzetesen tájékoztatja.
 
-(4) Ha a munkáltató az (1) bekezdés alapján szünteti meg a határozatlan idejű jogviszonyt, a foglalkoztatottat az Mt. 95. § (4) bekezdésében, illetve a Kjt. 37. § (6) bekezdésében meghatározotton felül – kollektív szerződésnek a foglalkoztatottra nézve kedvezőbb rendelkezése hiányában – a munkáltatónál fennálló legalább
+(4) Ha a munkáltató az (1) bekezdés alapján szünteti meg a határozatlan idejű jogviszonyt, a foglalkoztatottat az Mt. 77. § (3) bekezdésében, illetve a Kjt. 37. § (6) bekezdésében meghatározotton felül – kollektív szerződésnek a foglalkoztatottra nézve kedvezőbb rendelkezése hiányában – a munkáltatónál fennálló legalább
 
 - a) tíz éves jogviszonya után négyhavi,
 - b) tizenöt éves jogviszonya után nyolc havi,
@@ -463,7 +463,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (7) A munkahelyen kívüli felkészüléshez szükséges munkaidőként a teljes munkaidőben karmester, karnagy, színművész, bábművész, artistaművész, magánénekes, magántáncos, segédszínész, zenekari tag, énekkari tag, tánckari tag munkakörben foglalkoztatott esetében egy évadban munkanaponként átlagosan két munkaórát kell figyelembe venni. Részmunkaidőben foglalkoztatott esetében a munkahelyen kívüli felkészüléshez szükséges munkaidőt a teljes és a munkaszerződésben kikötött részmunkaidő arányában kell figyelembe venni. A munkahelyen kívüli felkészülést kiválthatja a munkáltató, ha erre munkaidőben, munkahelyen lehetőséget biztosít a művészei számára.
 
-32. § A munkáltató négyhavi munkaidőkeretet is előírhat az Mt. 117/B. § (1)–(3) bekezdése szerinti napi munkaidő tartamának alapulvételével.
+32. § A munkáltató négyhavi munkaidőkeretet is előírhat az Mt. 92. §-a szerinti napi munkaidő tartamának alapulvételével.
 
 33. § A foglalkoztatott munkaidejét nem érintő munkavégzésre irányuló további jogviszony létesítését – a tudományos, oktatói, lektori, szerkesztői, valamint a szerzői jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység kivételével – a foglalkoztatott köteles a munkáltatói jogkör gyakorlójának előzetesen bejelenteni, aki a további jogviszony létesítését megtilthatja, ha az előadó-művészeti szervezet üzemszerű működését veszélyezteti.
 
@@ -473,13 +473,13 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (2) A nem művészi munkakörben foglalkoztatott munkavállalót a munkakörébe nem tartozó, közönség előtt történő színpadi szereplésért – megállapodás esetén – közreműködési díj illeti meg. A közreműködési díj mértékét, tekintettel a feladat nehézségére és jellegére, kollektív szerződés, annak hiányában a felek állapítják meg. A közreműködési díj a Kjt. pótlékalap 5%–50%-ának megfelelő összeg lehet.
 
-(3) A munkáltató az előadó-művészeti szervezet üzemszerű működésének biztosítása érdekében ügyeletet rendelhet el az Mt. 127. § (2)–(7) bekezdésében meghatározott eseteken kívül is. Az ügyeleti díj mértéke a személyi alapbér vagy az alapilletmény legalább 40%-a.
+(3) A munkáltató az előadó-művészeti szervezet üzemszerű működésének biztosítása érdekében ügyeletet rendelhet el az Mt. 108–114. §-ában meghatározott eseteken kívül is. Az ügyeleti díj mértéke a személyi alapbér vagy az alapilletmény legalább 40%-a.
 
 (4) A (2)–(3) bekezdésekben meghatározott díjakat kollektív szerződés vagy munkaszerződés átalányban is meghatározhatja.
 
 (5) A nem művészi vagy nem művészeti munkakörben foglalkoztatott munkavállaló számára naptári évenként kollektív szerződés rendelkezése alapján legfeljebb négyszáz óra rendkívüli munkavégzés rendelhető el.
 
-36. § (1) A munkáltató az Mt. 134. § (2) bekezdésében foglaltaktól eltérően, a rendes szabadság kiadása során kivételesen, indokolt esetben nem köteles a munkavállalónak az alapszabadsága egynegyedére vonatkozó kérését figyelembe venni, ha az a munkáltató üzemszerű működését súlyosan veszélyeztetné. Erről a munkáltatónak haladéktalanul tájékoztatnia kell a foglalkoztatottat, és közölnie kell, hogy mikor veheti ki a szabadságát.
+36. § (1) A munkáltató az Mt. 122. § (2) bekezdésében foglaltaktól eltérően, a rendes szabadság kiadása során kivételesen, indokolt esetben nem köteles a munkavállalónak az alapszabadsága egynegyedére vonatkozó kérését figyelembe venni, ha az a munkáltató üzemszerű működését súlyosan veszélyeztetné. Erről a munkáltatónak haladéktalanul tájékoztatnia kell a foglalkoztatottat, és közölnie kell, hogy mikor veheti ki a szabadságát.
 
 (2) Évenként öt munkanap pótszabadság jár a külön jogszabályban felsorolt művészi és művészeti munkakört betöltő foglalkoztatottnak.
 
@@ -564,7 +564,7 @@ képviselője.
 
 41. § (1) A munkaviszony legfeljebb öt évre jön létre. Ha a felek eltérően nem állapodnak meg, a munkaviszony február 1-jével kezdődik, és január 31-vel végződik.
 
-(2) A vezető munkakörének betöltésénél megfelelően alkalmazni kell az Mt. vezető állású munkavállalókra vonatkozó összeférhetetlenségi szabályait azzal, hogy az Mt. 191. § (2) bekezdés a) pontjában foglaltak alól – indokolt esetben – a munkáltatói jogkör gyakorlója felmentést adhat.
+(2) A vezető munkakörének betöltésénél megfelelően alkalmazni kell az Mt. vezető állású munkavállalókra vonatkozó összeférhetetlenségi szabályait azzal, hogy az Mt. 211. § (2) bekezdés a) pontjában foglaltak alól – indokolt esetben – a munkáltatói jogkör gyakorlója felmentést adhat.
 
 (3) A vezető vezetői tevékenységével összefüggésben jutalomban vagy más, munkáltatói döntésen alapuló egyéb többletjuttatásban abban az esetben részesíthető, ha az arra jogosító, mutatószámokon alapulóan meghatározott többletfeladatra, illetve többletteljesítményre vonatkozó feltételek a munkáltatóval kötött megállapodásban rögzítésre és teljesítésre kerültek.
 

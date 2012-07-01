@@ -64,7 +64,7 @@ Az Országgyűlés Esztergom város polgárai közszolgáltatásokkal való ell�
 - a) a korábbi vezető beosztású közalkalmazottat a kinevezése szerinti munkakörében kell tovább foglalkoztatni, vagy
 - b) a pályázat megnyerése esetén
   - ba) a közalkalmazott számára új vezetői megbízást kell adni vagy
-  - bb) – ha jogszabály azt előírja, a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával – vele új munkaviszonyt kell létesíteni.
+  - bb) – ha jogszabály azt előírja, a munka törvénykönyvéről szóló törvény vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával – vele új munkaviszonyt kell létesíteni.
 
 (6) A jogviszony (5) bekezdés alapján történő megszűnése – a (6a) bekezdésben foglalt kivétellel – nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
 

@@ -12,14 +12,12 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 
 - a) a Magyarország területén található vasúti rendszerekre, a belföldi vasúti közlekedésre és a belföldön végzett vasúti közlekedési tevékenységre, valamint az azzal összefüggő jogokra és kötelezettségekre,
 - b) a Magyarország területén folytatott vasúti közlekedést irányító, működtető, illetve az abban részt vevő természetes személyekre és szervezetekre,
-- c) a személyszállítási közszolgáltatás odaítélésének szabályai tekintetében a trolibusszal végzett közlekedési tevékenységre, továbbá
+- c)
 - d) a trolibusz kötött pályájának engedélyezésére terjed ki.
 
-(2) Magyarországon bejegyzett vasúti társaság által a Magyarország területén kívül végzett vasúti személyszállításra, vasúti árutovábbításra és vontatási szolgáltatásra a törvény rendelkezéseit annyiban kell alkalmazni, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
+(2) Magyarországon bejegyzett vasúti társaság által a Magyarország területén kívül végzett, vasúti árutovábbításra és vontatási szolgáltatásra a törvény rendelkezéseit annyiban kell alkalmazni, amennyiben törvény vagy nemzetközi szerződés eltérően nem rendelkezik.
 
-(3) A vasúti személyszállítási közszolgáltatásnak minősülő menetrend szerinti vasúti személyszállítási tevékenységre a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. október 23-ai 1370/2007/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1370/2007/EK rendelet) e törvénnyel együttesen alkalmazandó.
-
-(4) A vasúti személyszállítási szolgáltatásra a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2007. október 23-ai 1371/2007/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1371/2007/EK rendelet) e törvénnyel és a 88. § (1) bekezdésének h) pontja alapján kiadott külön jogszabállyal együttesen alkalmazandó.
+(3)–(4)
 
 (5) Nem kell alkalmazni a törvény
 
@@ -47,9 +45,9 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - 1. vasúti közlekedési tevékenység: a vasúti pályahálózat működtetése, valamint a vállalkozó vasúti tevékenység;
 - 2. vasúti pályahálózat működtetése: vasúti pályahálózat üzemeltetése és fenntartása, létesítése, felújítása, fejlesztése, megszüntetése, valamint az ezekhez közvetlenül kapcsolódó tevékenységek, továbbá a vasúti pályahálózat használatával összefüggő – a 3. számú mellékletben meghatározott – egyéb szolgáltatások nyújtása;
 - 3. vállalkozó vasúti tevékenység: a más részére díj ellenében végzett vasúti személyszállítás, a vasúti árutovábbítás, valamint a más személy részére ellenérték fejében végzett vontatás (vontatási szolgáltatás);
-- 4. vasúti személyszállítás: vasúti járművel szerződés alapján, díj ellenében végzett személyszállítás;
-- 5. belföldi vasúti személyszállítás: az a vasúti személyszállítás, amelyben az utazás megkezdésének a helye és a célállomás egyaránt Magyarország területén van;
-- 6. határon átmenő vasúti személyszállítás: az a vasúti személyszállítás, amelyben az utazás megkezdésének a helye és a célállomás, vagy legalább azok egyike Magyarország területén kívül van, és az útvonal részben Magyarország területén halad;
+- 4. vasúti személyszállítás: a személyszállítási szolgáltatásokról szóló törvény szerinti vasúti személyszállítási szolgáltatás;
+- 5. belföldi vasúti személyszállítás: a személyszállítási szolgáltatásokról szóló törvény szerinti belföldi vasúti személyszállítási szolgáltatás;
+- 6. határon átmenő vasúti személyszállítás: a személyszállítási szolgáltatásokról szóló törvény szerinti határon átmenő vasúti személyszállítási szolgáltatás;
 - 7. vasúti árutovábbítás: árufuvarozás vagy áruszállítás;
 - 8. árufuvarozás: a vasúti járművel harmadik személy részére szerződés alapján, díj ellenében végzett vasúti fuvarozás, ideértve a vasúti járművel végzett kombinált fuvarozást is;
 - 9. áruszállítás: áru vasúti járművel saját célból történő továbbítása;
@@ -61,17 +59,10 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - 15. térségi közforgalmú vasúti szolgáltatás: azonosíthatóan Magyarország területének valamely meghatározható részén jelentkező, e területen belüli közforgalmú vasúti szolgáltatás iránti igények kielégítését szolgáló vasúti szolgáltatás, amely nem minősül elővárosi közforgalmú szolgáltatásnak;
 - 16. elővárosi közforgalmú vasúti szolgáltatás: egy város és agglomerációja területén, valamint a város és vonzáskörzete között végzett közforgalmú vasúti szolgáltatás, kivéve a 16. § (1) bekezdésében meghatározott tevékenységeket;
 - 17. helyi közforgalmú vasúti szolgáltatás: egy város és agglomerációja területén a 16. § (1) bekezdésében meghatározott tevékenységek keretében végzett közforgalmú vasúti szolgáltatás;
-- 18. vasúti személyszállítási közszolgáltatás: vasúton végzett személyszállítási közszolgáltatás, ezen belül
-  - a) elővárosi vasúti személyszállítási közszolgáltatás: a főváros vagy megyei város és annak legfeljebb 70 kilométeres vonzáskörzete között végzett személyszállítási szolgáltatás,
-  - b) helyi vasúti személyszállítási közszolgáltatás: a település közigazgatási határán belül – helyi díjszabás alapján – végzett személyszállítási szolgáltatás, a vasúti járművel végzett személyszállítási közszolgáltatások esetében ideértve a település közigazgatási határon kívül eső közösségi közlekedési eszköz megállóhelyére, komp- vagy rév-átkelőhelyére közbeeső megállóhely érintése nélkül történő személyszállítási szolgáltatást is,
-  - c) országos személyszállítási közszolgáltatás: regionális, elővárosi, vagy helyi személyszállítási szolgáltatásnak nem minősülő személyszállítási szolgáltatás,
-  - d) regionális személyszállítási közszolgáltatás: a megye határain belül vagy a megyehatár átlépése esetén 100 kilométert meg nem haladó, elővárosi személyszállítási szolgáltatásnak nem minősülő belföldi személyszállítási szolgáltatás;
-- 19. nemzetközi személyszállítási szolgáltatás: olyan vasúti személyszállítási szolgáltatás, amelynek során a vonat valamely, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) legalább egy határán áthalad, és amelynek fő célja a különböző EGT-államok állomásai közötti személyszállítás; a vonatot egyesíthetik és szétválaszthatják, továbbá a különböző vasúti szerelvények különböző kiindulási és célállomással rendelkezhetnek, feltéve, hogy valamennyi vasúti kocsi legalább egy határon áthalad;
+- 18.
+- 19. nemzetközi személyszállítási szolgáltatás: a személyszállítási szolgáltatásokról szóló törvény szerinti nemzetközi vasúti személyszállítási szolgáltatás;
 - 20. átmenő vasúti szolgáltatás: EGT-államok területén, áruk be- vagy kirakodása nélkül, továbbá utasok felvétele vagy leszállása nélkül végzett áthaladás;
-- 21. belső szolgáltató:
-  - a) a települési (fővárosi) önkormányzat belső szervezeti egysége, vagy
-  - b) a települési (fővárosi) önkormányzat többségi befolyása alatt álló olyan gazdasági társaság, amelynek tevékenységét a települési (fővárosi) önkormányzat irányítja, vagy
-  - c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önkormányzat meghatározó befolyással rendelkezik.
+- 21.
 
 (3) Vasúti szervezetek:
 
@@ -117,7 +108,7 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 
 - 1. vasúti jármű: a vasúti pályán közlekedő vontató, vontatott vagy önjáró, saját kerekein a vasúti sínen közlekedő jármű, amely a transzeurópai hagyományos és nagysebességű vasúti rendszerben az ÁME-k szerinti egy vagy több alrendszerből, vagy ezen alrendszerek egy vagy több részéből áll;
 - 2. különleges vasút: a magasvasút, a felszín alatti vasút (metró, kéregvasút), a fogaskerekű vasút, a sikló, a függővasút és a sífelvonó;
-- 3. közszolgáltatási menetrend: vasúti személyszállítási közszolgáltatási szerződésben meghatározott járatok útvonala, megállóhelyei, indulási – érkezési időpontjai meghatározásának összessége, azok minőségi követelményeivel együtt;
+- 3.
 - 4. vasúti pálya üzemeltetése: a vasúti pálya és tartozékai, valamint ezek működéséhez szükséges eszközök üzem és forgalombiztos-állapotban tartása, folyamatos működésének biztosítása és műszaki felügyelete;
 - 5. hálózat-hozzáférési díj: a vasúti pályahálózathoz való nyílt hozzáférés keretében nyújtott – a 3. számú mellékletben meghatározott – szolgáltatások igénybevétele ellenében fizetendő díj;
 - 6. vasúti pályahálózat-kapacitás: a vasúti pályahálózat egy meghatározott részén, adott időszakban elhelyezhető menetvonalak összessége;
@@ -127,14 +118,13 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - 10. kölcsönös átjárhatóságot lehetővé tevő műszaki előírások (a továbbiakban: ÁME): az alrendszerek közötti szükséges kölcsönös kapcsolat létrehozására és a vasúti rendszer kölcsönös átjárhatóságának megteremtésére vonatkozó alapvető követelmények teljesítése érdekében meghatározott, az egyes alrendszerekre vagy alrendszer-részekre vonatkozó műszaki feltételek vagy előírások;
 - 11. közös biztonsági célok: azon biztonsági szint megfogalmazása, amelyet a vasúti rendszer különböző részein (így különösen a hagyományos vasúti rendszer, nagysebességű vasúti rendszer, kizárólag áruszállításra használt hosszú vasúti alagutak vagy vonalak) és a rendszer egészén meg kell valósítani. A közös biztonsági célokat az utasokkal, a személyzettel, beleértve az alvállalkozók személyzetét is, a vasúti átjárók használóival és más személyekkel kapcsolatos egyedi kockázatokra, és a vasúti létesítményeken tartózkodó illetéktelen személyekkel kapcsolatos egyedi kockázatokra, továbbá a társadalmi kockázatokra vonatkozóan a kockázatelfogadási feltétel fejezi ki;
 - 12. közös biztonsági módszerek: a biztonsági szintek, a biztonsági célok megvalósítása és más biztonsági követelmények teljesítése értékelésének szabályait meghatározó előírások, amelyek a következőkre terjednek ki: – kockázatelemzési és -értékelési módszerekre, – a biztonsági tanúsítványok és biztonsági engedélyek követelményeinek való megfelelés értékelésére szolgáló módszerekre, és – annak ellenőrzésére szolgáló módszerekre, hogy a nagysebességű és hagyományos transzeurópai vasúti rendszer strukturális alrendszereinek üzemeltetése és karbantartása megfelel-e a rájuk vonatkozó alapvető követelményeknek, kivéve, ha az ÁME-k meghatározzák azokat;
-- 13. közforgalmú menetrend: a belföldi vasúti személyszállításra vonatkozó – az útvonal, a megállóhelyek, az érkezési és az indulási időpontok, illetve a gyakoriság és a szolgáltatás minőségének meghatározását tartalmazó – közzétett szolgáltatási előírás;
+- 13.
 - 14. üzemi menetrend: a nyílt hozzáférésű vasúti pályahálózatokban végbemenő összes tervezett vasúti jármű-mozgást meghatározó adatokat tartalmazó előírás;
 - 15. fejlesztési közreműködő: olyan gazdasági társaság, amely a vasúti pályahálózat létesítését, fejlesztését, felújítását végzi, és nem minősül a vasúti pályahálózat működtetőjének, valamint tevékenységének folytatásához nincs szüksége e törvény szerinti működési engedélyre;
 - 16. kapcsolt vállalkozás: a számviteli törvényben így meghatározott fogalom;
-- 17. egységes egyeztetési eljárás: a közforgalmú vasúti személyszállítási és közforgalmú közúti személyszállítási menetrend elkészítésének folyamata, amelynek során a menetrend mennyiségi és minőségi követelményeinek egységes rendszerét országos és regionális szinten, a helyi közlekedési sajátosságokra is figyelemmel alakítják ki, és amelynek célja a személyszállítási közszolgáltatás nyújtása hatékony módjának megválasztása, valamint a csatlakozások összehangolása, a közlekedésért felelős miniszter (a továbbiakban: miniszter) által kidolgozott közszolgáltatási menetrendi koncepcióval összhangban;
-- 18. Regionális Közlekedési Szakbizottság: a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló 1059/2003/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: NUTS) meghatározott, a magyarországi NUTS 2 szintnek megfelelő statisztikai régiók szerint a miniszter által létrehozott, az egységes egyeztetési eljárás során a regionális érdekeket megjelenítő, döntés-előkészítő szakértői testület;
+- 17–18.
 - 19. turistavasút: vasúti személyszállítást végző és keskeny nyomtávú vasúti pályahálózatot működtető integrált vasúti társaság.
-- 20. meghatározó befolyás: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685/B. § (1)–(3) bekezdése szerinti meghatározó befolyás.
+- 20.
 
 (6) A 68. §–68/G. § alkalmazásában:
 
@@ -152,7 +142,7 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 
 3. § (1) A Kormány feladata:
 
-- a) a vasúti közlekedéspolitikára, valamint a vasúti közlekedés fejlesztésére vonatkozó – az épített és természeti környezet, továbbá az emberi egészség védelmével összehangolt, a fejlett információs és kommunikációs technológiák alkalmazására alapozott – koncepció jóváhagyása, a vasúti személyszállítási közszolgáltatás fejlesztése,
+- a) a vasúti közlekedéspolitikára, valamint a vasúti közlekedés fejlesztésére vonatkozó – az épített és természeti környezet, továbbá az emberi egészség védelmével összehangolt, a fejlett információs és kommunikációs technológiák alkalmazására alapozott – koncepció jóváhagyása, a
 - b) a vasúti közlekedéssel összefüggő nemzeti érdekek érvényesítése és kötelezettségek teljesítése nemzetközi kapcsolatokban,
 - c) az országos, a regionális és az egyéb vasúti pályák rendeletben történő megállapítása,
 - d)
@@ -167,26 +157,18 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - e) a nem független vasúti pályahálózat-működtető által működtetett országos vasúti pályahálózat kapacitásának elosztását, valamint a hálózat-hozzáférési díj megállapítását végző szervezet működésének biztosítása,
 - f) a vasútbiztonság fenntartása és fejlesztése érdekében nyílt és megkülönböztetéstől mentes, rendszerszintű megközelítésű vasútbiztonsági szabályrendszer meghatározása és érvényesítése,
 - g) a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúrakapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról szóló 2004. április 29-ei 2004/49/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2004/49/EK irányelv) 8. cikkének (2) és (4) bekezdésében, továbbá 32. cikkében, valamint az 1370/2007/EK rendelet 7. cikkének (1) bekezdésében és 8. cikkének (2) bekezdésében előírt jelentés közzététele,
-- h) az 1370/2007/EK rendelet szerinti illetékes hatóságként és ellátásért felelősként az államháztartásért felelős miniszterrel egyetértésben az országos, a térségi és az elővárosi vasúti személyszállítási közszolgáltatási kötelezettség – a közszolgáltatási menetrend jóváhagyásával történő – megállapítása, a közszolgáltatást végző vasúti társasággal vasúti személyszállítási közszolgáltatási szerződés megkötése,
+- h)
 - i) az államháztartásért felelős miniszterrel egyetértésben az országos törzshálózati és regionális vasúti pályát és ezek tartozékait magában foglaló vasúti pályahálózat működtetésének hálózat-hozzáférési díj bevétellel és az ilyen vasúti pályahálózatot működtető pályavasúti társaság egyéb üzleti tevékenységéből, illetve az ilyen vasúti pályahálózatot működtető integrált vasúti társaság egyéb pályavasúti üzleti tevékenységéből eredő bevétellel nem fedezett – indokoltnak elismert – költségeinek a központi költségvetésből történő megtérítése, a 26. § és a 28. § (1) bekezdése szerinti szerződés alapján,
-- j) az államháztartásért felelős miniszterrel egyetértésben a vállalkozó vasúti társaság vasúti személyszállítási közszolgáltatási kötelezettségéből eredő bevétellel nem fedezett – indokoltnak elismert – költségeinek a központi költségvetésből történő megtérítése, a vasúti személyszállítási közszolgáltatási szerződés alapján,
-- k) az államháztartásért felelős miniszterrel egyetértésben a vasúti személyszállítási közszolgáltatás díjához a – külön jogszabályban meghatározott kedvezményekből származó – bevételkiesés fogyasztói árkiegészítéssel történő ellentételezése,
-- l) a vasúti személyszállítási közszolgáltatás és a belföldi menetrend szerinti személyszállítás szervezésére vonatkozó főbb prioritásokat tartalmazó egységes, országosan és regionálisan összehangolt, valamint az államháztartás teherbíró-képességét is figyelembe vevő közszolgáltatási menetrendi koncepció kidolgozása,
+- j)–k)
+- l)
 - m) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokban szabályozott esetekben a tagállam nevében az Európai Unió Bizottsága értesítése,
 - m) az utasok számára elektronikus formában egységesen megismerhető közszolgáltatási menetrend és elektronikus utazásszervező működtetésére és fejlesztésére vonatkozó koncepció készítése.
 
-(3) A miniszter az állam nevében a települési önkormányzatokkal, illetőleg azok társulásaival a térségi, elővárosi, illetve helyi vasúti személyszállítási közszolgáltatás működtetése tárgyában – írásban – együttműködési megállapodást köthet.
+(3)
 
-(4) A miniszter az állam nevében a térségi, elővárosi, illetve helyi vasúti közlekedési tevékenységről írásbeli megállapodást köthet az egyéb vasúti pálya tekintetében. Ilyen megállapodás hiányában az egyéb vasúti pályáról az állami vagyonról szóló törvény szerint kell gondoskodni.
+(4)
 
-3/A. § (1) A Kormány országos jelentőséggel bíró esetben a személyszállítási szolgáltatásokhoz kapcsolódó eszközök, így különösen utastájékoztatási rendszer, elektronikus jegy- és bérletrendszer, jegyértékesítő és jegyellenőrző rendszer, valamint a kapcsolódó járművek és infrastruktúra elemek, így különösen vasúti pálya, közlekedési csomópont, állomás és megállóhely, energetikai, távközlési és biztonsági berendezés üzemeletetésére, fejlesztésére és fejlesztésnek nem minősülő beruházásaira egységes fejlesztési koncepciót állapíthat meg.
-
-(2) Közvetlen vagy közvetett állami vagy önkormányzati tulajdonban lévő vasúti társaság által végzett személyszállítási szolgáltatásokat érintő, valamint állami forrásból vagy európai uniós forrásból megvalósuló fejlesztést kizárólag a Kormány által jóváhagyott koncepció keretei között lehet finanszírozni és lebonyolítani.
-
-3/B. § A vasúti társaságok és a személyszállítási szolgáltatási tevékenység végzéséhez szükséges állomások, megállóhelyek, egyéb utasforgalmi létesítmények üzemeltetői kötelesek a személyszállítási szolgáltatási tevékenységek hatékony ellátása érdekében egymással együttműködni. Ennek keretében az üzemeltető – ha jogszabály másként nem rendelkezik – legfeljebb a fenntartás és az üzemeltetés költségeit, az értékcsökkenést és a tőkemegtérülés alapján számított nyereséget magában foglaló önköltség fejében, az egyenlő bánásmód elve mellett, erre irányuló szerződés alapján, a biztonságos közlekedés feltételeinek figyelembevételével hozzáférést biztosít
-
-- a) a közforgalmú vasúti személyszállítást igénybe vevő utasok kiszolgálásához közvetlenül kapcsolódó szolgáltatásokhoz, így az utasok fel- és leszállásához, az utazási okmány vásárlásához, az utastájékoztatási rendszerhez, a várakozást szolgáló és a szociális létesítményekhez és
-- b) a közforgalmú vasúti személyszállítás nyújtásához szükséges állomásokhoz, megállóhelyekhez, valamint egyéb utasforgalmi létesítményekhez más személyszállítási szolgáltatást nyújtó szolgáltatók számára.
+#### 3/A–3/B. §
 
 ### A VASÚTI KÖZLEKEDÉS IGAZGATÁSÁNAK SZERVEZETE
 
@@ -206,57 +188,16 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 5. § (1) A települési (fővárosban a fővárosi) önkormányzat (a továbbiakban: önkormányzat), valamint önkormányzatok társulásának önként vállalt feladata lehet:
 
 - a) a helyi közforgalmú vasúti közlekedés fejlesztésére vonatkozó – az országos, a térségi és az elővárosi közforgalmú vasúti közlekedéssel, valamint az épített és természeti környezet védelmével összehangolt, a fejlett információs és kommunikációs technológiák alkalmazására alapozott – koncepciók jóváhagyása, valamint azok végrehajtásának megszervezése,
-- b) az önkormányzat tulajdonában lévő vasúti pályák, valamint a helyi vasúti személyszállítási közszolgáltatás fejlesztése, működtetése,
+- b) az önkormányzat tulajdonában lévő vasúti pályák fejlesztése, működtetése,
 - c) helyi közforgalmú vasúti társaság alapítása,
-- d) a helyi vasúti személyszállítási közszolgáltatás hatósági árainak a megállapítása,
-- e) az 1370/2007/EK rendelet szerinti illetékes helyi hatóságként a helyi vasúti személyszállítási közszolgáltatás – menetrend jóváhagyásával történő – megállapítása, valamint a 27. § (11) bekezdése szerinti szerződés megkötése,
-- f) az utasok számára elektronikus formában egységesen megismerhető közszolgáltatási menetrend és elektronikus utazásszervező működtetésére és fejlesztésére vonatkozó koncepció készítése.
+- d)–e)
+- f)
 
 (2) Az (1) bekezdésben felsorolt feladatok a képviselő-testület hatáskörébe tartoznak.
 
-(3) Az önkormányzatok vagy társulásaik és a miniszter
+(3)–(4)
 
-- a) a helyi vasúti személyszállítási közszolgáltatásból a helyi érdekű vasúti személyszállítási közszolgáltatásnak a térségi vasúti személyszállítási közszolgáltatás keretében történő lebonyolítása,
-- b) a helyi vasúti személyszállítási közszolgáltatásnak az önkormányzat közigazgatási határán kívülre történő kiterjesztése,
-- c) a térségi vasúti személyszállítási közszolgáltatás közös működtetése
-
-feltételeinek biztosítására vonatkozóan – írásban – együttműködési megállapodást köthetnek.
-
-(4) A (3) bekezdés szerinti megállapodásban meg kell határozni a helyi vasúti személyszállítási közszolgáltatásra, így különösen a (helyi) közszolgáltatási menetrendre, annak módosítására, a díjrendszerre és a közszolgáltatási kötelezettség körébe eső személyszállítást végző vállalkozó vasúti társaság kiválasztására, illetve annak esetleges veszteségei ellentételezésére vonatkozó rendelkezéseket.
-
-5/A. § (1) Az önkormányzat az 5. § (1) bekezdés b)–f) pontjában és (3) bekezdésében, a 27. §–27/D. §-ban és a 27/G. §-ban szabályozott feladatokat a feladat ellátásához szükséges forrásokkal együtt – az önkormányzat meghatározó befolyása alatt álló korlátolt felelősségű társaság vagy részvénytársaság, vagy irányítása alatt álló költségvetési szervként működő – közlekedésszervezőnek adhatja át. A közlekedésszervező működése alatt az önkormányzat meghatározó befolyásának vagy irányítási jogának fennállását folyamatosan biztosítja.
-
-(2) Az önkormányzat az átadott feladatok tekintetében szakmai felügyeletet gyakorol a közlekedésszervező felett, ennek során az önkormányzat a közlekedésszervező által az (1) bekezdés szerinti feladatok ellátása során hozott döntést megváltoztathatja, vagy megsemmisítheti. A szakmai felügyelet körében az önkormányzat évente egy alkalommal értékeli a közlekedésszervező tevékenységét és a következő időszakra tervezett stratégiai intézkedéseit.
-
-(3) Ha a közlekedésszervező valamely közszolgáltatási tevékenysége gazdasági tevékenységnek minősül, az (1) bekezdés szerinti feladatot kizárólag az Európai Unió által az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének alkalmazása érdekében kiadott kötelező jogi aktusnak és a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2007. október 23-i 1370/2007/EK parlamenti és tanácsi rendeletnek megfelelő közszolgáltatási szerződés alapján végezheti.
-
-5/B. § (1) Az önkormányzat a közlekedésszervezőt az e törvényben meghatározott feladatok átadására rendeletben (a továbbiakban: kijelölő rendelet) jelöli ki.
-
-(2) A kijelölő rendeletben meg kell határozni
-
-- a) a közlekedésszervező szervezeti alapját biztosító gazdasági társaságot vagy költségvetési szervet,
-- b) a közlekedésszervező működésének területi határait,
-- c) a feladatátadás célját,
-- d) az átadott feladatok körét,
-- e) azon feladatokat, amelyeket a közlekedésszervező az átadott feladatokon túl önként elláthat,
-- f) az átadott feladat ellátásához szükséges döntési jogköröket, az azok gyakorlásának módját, valamint az ahhoz kapcsolódó eljárási szabályokat,
-- g) a döntési jogkörök megosztása esetén az együttműködési kereteket, valamint
-- h) az átadott feladatok ellátásához, valamint a közlekedésszervező működéséhez szükséges források átadásának módját,
-- i) a közlekedésszervező felett gyakorolt szakmai felügyeleti jogkör gyakorlásának módját,
-- j) a területileg érintett ellátásért felelőssel történő együttműködés kereteit, valamint
-- k) a feladatok ellátásával kapcsolatos további szükséges feltételeket.
-
-(3) A feladat átadásával kapcsolatos részletes szabályokat, az átadott feladatok pénzügyi és teljesítményi korlátait, valamint a kötelező és az önként vállalt feladatok számviteli elhatárolásának szabályait – a kijelölő rendeletben meghatározott feltételek alapján – szerződésben (a továbbiakban: feladat-ellátási szerződés) kell megállapítani.
-
-(4) A kijelölő rendelet – az (1)–(3) bekezdésben foglaltak szerint – a közlekedésszervező feladatává teheti az utastájékoztatást, a menetrend megtartását kizáró esemény esetén a menetrendi és utastájékoztatási intézkedések megtételét vagy az intézkedések rendjének meghatározását, a jegy- és bérletértékesítést, illetve a jegy- és bérletellenőrzést, valamint a bevételek beszedését.
-
-(5) Ha a kijelölő rendelet a bevételek beszedését a közlekedésszervező feladataként rögzíti, a közlekedési közszolgáltatásokkal kapcsolatos díjbevételek beszedésére és a fogyasztói árkiegészítés igénylésére a közlekedésszervező az e törvényben meghatározott szabályok szerint jogosult és kötelezett.
-
-(6) A közlekedésszervező a kijelölő rendeletben vagy a feladat-ellátási szerződésben meghatározott feladatok teljesítését nem adhatja át másnak, de jogosult a feladatok teljesítésébe a kijelölő rendeletben vagy a feladat-ellátási szerződésben meghatározott módon és mértékben közreműködőt bevonni.
-
-(7) A feladatok átadásával kapcsolatos szabályokat olyan módon kell meghatározni, hogy a közlekedési közszolgáltatás teljesítésében érintett közlekedési szolgáltatók és az azokkal érintett utasok vagy egyéb személyek jogainak és jogos érdekeinek védelme, jogérvényesítési lehetőségei és jogorvoslati jogai ne csökkenjenek ahhoz viszonyítva, mintha a feladatot az ellátásért felelős látná el.
-
-(8) A közlekedésszervező a helyi személyszállítást végző, valamint a helyi vasúti pályahálózatot működtető vasúti társaság számára a megrendelt közszolgáltatás teljesítése során jelentkező zavarok elhárítása és rendkívüli igények teljesítése céljából az operatív lebonyolítás módját, az alkalmazandó intézkedéseket meghatározhatja. Ennek kereteit a (4) bekezdés szerinti kijelölő rendelet határozza meg. A közlekedésszervező ezen rendelkezésének végrehajtását a vasúti társaság csak abban az esetben tagadja meg, ha a rendelkezés az emberi életet, egészséget vagy a vasútüzem biztonságát sérti vagy veszélyezteti.
+#### 5/A–5/B. §
 
 ### II. Fejezet — A VASÚTI TEVÉKENYSÉGEK VÉGZÉSÉNEK FELTÉTELEI
 
@@ -358,9 +299,9 @@ kapcsolatos, külön jogszabályban meghatározott követelményeknek.
 
 11. § (1) Az országos közforgalmú vasúti személyszállítási, árufuvarozási, illetve vontatási tevékenység végzésére, az erre jogosító működési engedéllyel rendelkező vasúti társaság – a XII. fejezetben meghatározott feltételek teljesítése esetén – valamennyi nyílt hozzáférésű vasúti pályahálózaton jogosult.
 
-(2) Határon átmenő személyszállítási és árutovábbítási tevékenység végzésére az országos működési engedéllyel rendelkező vasúti társaság a vonatkozó nemzetközi szerződések rendelkezései szerint jogosult.
+(2) Határon átmenő árutovábbítási tevékenység végzésére az országos működési engedéllyel rendelkező vasúti társaság a vonatkozó nemzetközi szerződések rendelkezései szerint jogosult.
 
-12. § (1) A közszolgáltatásnak minősülő országos közforgalmú vasúti személyszállítás végzésére a miniszter az országos működési engedéllyel rendelkező vasúti társasággal a 27. § (1)–(10) bekezdésének és 27/A–27/D. §-ának rendelkezései szerint vasúti személyszállítási közszolgáltatási szerződést köt.
+12. § (1)
 
 (2) Az országos vasúti árufuvarozási tevékenységet végző vasúti társaság az éves beszámolójában elkülönítetten is köteles megjeleníteni e tevékenységének árbevételét és eredményét.
 
@@ -399,7 +340,7 @@ kapcsolatos, külön jogszabályban meghatározott követelményeknek.
 - b) az adott térség érintett önkormányzatai önként vállalt feladataik keretében külön jogszabályban meghatározott kötelezettséget vállalnak a helyi igényekhez jobban illeszkedő, térségi jelentőségű szolgáltatások fejlesztésére, vagy
 - c) a hálózat az országos vasúti pályahálózatokhoz képest keskenyebb nyomtávú.
 
-(3) A térségi, illetve elővárosi működési engedéllyel rendelkező közforgalmú vasúti társaság a miniszterrel kötött vasúti személyszállítási közszolgáltatási szerződésben vasúti személyszállítási közszolgáltatási kötelezettséget vállalhat. E szerződésre a 27. § (1)–(10) bekezdésében és 27/A–27/D. §-ában foglaltakat megfelelően alkalmazni kell.
+(3)
 
 ### V. Fejezet — A HELYI KÖZFORGALMÚ VASÚTI KÖZLEKEDÉS
 
@@ -412,7 +353,7 @@ jogosult.
 
 (2) Helyi közforgalmú vasúti társaságot a település önkormányzata, továbbá bármely természetes személy vagy szervezet alapíthat.
 
-17. § A helyi vasúti személyszállítási közszolgáltatási kötelezettséget – a közszolgáltatás mértékét megállapító, az önkormányzat képviselő-testülete által jóváhagyott közszolgáltatási menetrend keretei között – az önkormányzat által alapított vagy az önkormányzat által ezzel megbízott helyi közforgalmú vasúti társaság látja el.
+#### 17. §
 
 ### VI. Fejezet — SAJÁT CÉLÚ VASÚTI TEVÉKENYSÉG
 
@@ -422,55 +363,11 @@ jogosult.
 
 ### VII. Fejezet — VASÚTI SZOLGÁLTATÁSOK
 
-### SZEMÉLYSZÁLLÍTÁSI SZOLGÁLTATÁS
+#### 19–21. §
 
-19. § Az 1371/2007/EK rendeletben nem szabályozott kérdésekben a vasúti személyszállításra kötött szerződésekre a Polgári Törvénykönyvnek (a továbbiakban: Ptk.) a szerződésekre vonatkozó általános, továbbá a vállalkozási szerződésre vonatkozó rendelkezéseit a vasúti személyszállítás részletes feltételeiről szóló külön jogszabályban foglalt kiegészítésekkel kell alkalmazni.
+#### 21/A–21/B. §
 
-20. § (1) A vasúti társaság a közforgalmú személyszállítás körében a közforgalmú menetrendben meghatározott vonalon az ott meghirdetett vonatokat közlekedteti.
-
-(2) A közforgalmú személyszállítási szolgáltatást végző vállalkozó vasúti társaság a közforgalmú személyszállítási szolgáltatására vonatkozó általános szerződési feltételeket tartalmazó személyszállítási üzletszabályzatot köteles készíteni, amely tartalmazza a szolgáltatás minőségi előírásait [1371/2007/EK rendelet 28. cikk (1) bek.]. A személyszállítási üzletszabályzatot, valamint annak módosítását a vasúti igazgatási szerv külön jogszabályban foglaltak szerint hagyja jóvá. A jóváhagyás nem tagadható meg, ha a személyszállítási üzletszabályzat a külön jogszabályban meghatározott feltételeknek megfelel. A jóváhagyott, mindenkor hatályos személyszállítási üzletszabályzatot a vállalkozó vasúti társaság nyilvánosan közzéteszi.
-
-(3) A Kormány a vasúti személyszállítás részletes szabályairól szóló rendeletben határozza meg
-
-- a) a vasúti személyszállítási szolgáltatásnak az 1371/2007/EK rendeletben nem szabályozott részletes feltételeit, valamint az 1371/2007/EK rendeletben foglaltak alóli mentességeket;
-- b) a személyszállítási üzletszabályzatra, valamint annak vasúti igazgatási szerv általi jóváhagyására vonatkozó szabályokat; valamint
-- c) a vasúti társaság közforgalmú személyszállítási szolgáltatásokra vonatkozó minőségbiztosítási rendszerével [1371/2007/EK rendelet 28. cikk (1) bek.] kapcsolatos részletes szabályokat.
-
-21. § (1) A vasúti személyszállítási közszolgáltatást nyújtó vállalkozó vasúti társaság köteles közforgalmú menetrendet készíteni és azt közzétenni, abban elkülönítetten megjeleníteni a vasúti személyszállítási közszolgáltatást.
-
-(2) Az egységes egyeztetési eljárásban a vasúti személyszállítást végző vállalkozó vasúti társaságok, a külön törvény alapján menetrend szerinti közúti személyszállítást végző társaságok, az érintett vasúti pályahálózat működtetője, a Vasúti Pályakapacitás-elosztó Szervezet (a továbbiakban: VPSZ), a közútkezelő szervezetek, a Regionális Közlekedési Szakbizottságok, valamint a külön jogszabályban meghatározott egyéb szervezetek vesznek részt.
-
-(3) Az egységes egyeztetési eljárás szabályait a miniszter rendeletben határozza meg.
-
-21/A. § (1) A közösségi közlekedés – mint közszolgáltatás – biztonságának és zavartalan működésének, a vasútállomáson a közforgalom számára nyitva álló helyen, a megállóhelyen, valamint a személyszállító vasúti járművek belterében a vasútállomáson és megállóhelyen található berendezések, a vasúti jármű, továbbá az utasok, valamint a vasúti közlekedés működését biztosító személyek életének, testi épségének és vagyontárgyaik védelme, továbbá a vasúti közlekedés működését biztosító személyek felelősségének megállapítása céljából, a jogsértő cselekmények megelőzése, megszakítása és bizonyítása érdekében, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatvédelmi jogok érvényesítése mellett, továbbá e törvényben meghatározott korlátozó rendelkezések betartásával, a vasúti társaság, a vasútállomás, vagy a megállóhely üzemeltetője (a továbbiakban együtt: megfigyelő) jogosult elektronikus biztonságtechnikai rendszeren keresztül megfigyelést folytatni, a megfigyelés során kép- és hangfelvételt készíteni, a készített kép- és hangfelvételt, valamint az azon rögzített személyes adatot kezelni. E tevékenysége során a megfigyelő adatkezelést végző munkavállalója adatfeldolgozónak minősül.
-
-(2) Az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer akkor alkalmazható, ha a jogsértések észlelése, az elkövető tettenérése, vagy a jogsértő cselekmények megelőzése, azok bizonyítása más módszerrel nem érhető el. A szolgáltató az elektronikus biztonságtechnikai rendszer alkalmazásának szükségességét háromévente felülvizsgálja.
-
-(3) A megfigyelő az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazása esetén – a vakok és gyengénlátók számára is érzékelhető módon – köteles a vasútállomások és megállóhelyek bejáratánál, a vasúti járműre való felszállásra szolgáló peronoknál, valamint a vasúti járműveken figyelemfelhívó jelzést, ismertetést elhelyezni az elektronikus biztonságtechnikai rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá az információs önrendelkezési jogról és az információszabadságról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről.
-
-(4) Nem alkalmazható elektronikus megfigyelőrendszer olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen mosdóban, illemhelyen, fekvő vagy hálófülkében.
-
-(5) Az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazása esetén, a megfigyeléssel érintett vonatokról, valamint vasúti állomásról és megállóhelyről a szolgáltató a honlapján tájékoztatást tesz közzé.
-
-21/B. § (1) A rögzített kép-, illetve hangfelvételt felhasználás hiányában a rögzítéstől számítva 16. napon meg kell semmisíteni, vagy törölni kell. Felhasználásnak minősül, ha a rögzített kép-, illetve hangfelvétel bírósági vagy más hatósági eljárásban bizonyítékként felhasználásra kerül.
-
-(2) Akinek jogát vagy jogos érdekét az (1) bekezdés szerinti kép-, illetve hangfelvétel érinti, a rögzítésétől számított 15 napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a kép-, illetve hangfelvételt annak kezelője ne semmisítse meg, vagy ne törölje.
-
-(3) Bíróság vagy hatóság megkeresésére a rögzített kép-, illetve hangfelvételt a bíróságnak vagy a hatóságnak haladéktalanul meg kell küldeni. Ha megkeresésre attól számított hetvenkét órán belül, hogy a megsemmisítés, vagy a törlés mellőzését a (2) bekezdés alapján kérték, nem kerül sor és az (1) bekezdésben meghatározott határidő letelt, a rögzített kép-, illetve hangfelvételt meg kell semmisíteni, vagy törölni kell.
-
-21/C. § (1) A közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozó vasúti társaság vagy megbízottja jogosult a személyszállítási szerződés teljesítésével összefüggésben a személyszállítási szolgáltatásban részt vevő, menetdíjat meg nem fizető utas azonosíthatósága, a személyhez kötött utazási jogosultság ellenőrzése, valamint a közszolgáltatási utazási kedvezmények igénybevétele jogszerűségének megállapítása céljából a személyszállítási szolgáltatásban részt vevő utas azonosíthatóságához szükséges, a (4) bekezdésben meghatározott személyes adat megismerésére.
-
-(2) A közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozó vasúti társaság az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatvédelmi jogok érvényesítése mellett, továbbá e törvényben meghatározott korlátozó rendelkezések megtartásával az elektronikus adathordozón rögzített, nem személyhez kötött utazási jogosultság igénybevételével történő, egy alkalomnál több utazásra jogosító személyszállítási szerződés teljesítése érdekében, a szerződés teljesítéséhez szükséges mértékben – a személyszállítási üzletszabályzatban közzétett feltételek mellett – a (4) bekezdés a) pontjában meghatározott adatok kezelésére vonatkozó adatkezelési megállapodást köthet a személyszállítási szolgáltatásban részt vevő személlyel.
-
-(3) A közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozó vasúti társaság a közszolgáltatási utazási kedvezmény vagy személyhez kötött utazási jogosultság keretében teljesítendő – elektronikus adathordozón rögzített utazási jogosultság igénybevételével történő – utazásra jogosító személyszállítási közszolgáltatásra vonatkozó személyszállítási szerződés teljesítésével összefüggésben az utazásra való jogosultság azonosítása céljából és az (1) bekezdés szerinti célból jogosult a (4) bekezdésben meghatározott személyes adatnak a szerződés teljesítéséhez szükséges mértékben történő kezelésére.
-
-(4) A közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozó vasúti társaság adat-megismerési jogosultsága és adatkezelési jogosultsága a személyszállítási szolgáltatás alapjául szolgáló szerződés teljesítése érdekében a következő személyes adatra terjed ki:
-
-- a) a jogosult természetes személyazonosító adata,
-- b) az utazási kedvezmény jogcíme, a jogcímet megalapozó okmány azonosítója, típusa, érvényessége és kibocsátója,
-- c) az utazási viszonylathoz kötött kedvezmény estén az érintett lakcíme, meghatározott időponthoz vagy időszakhoz kötött érvényességű kedvezmény esetén az érvényesség időpontja vagy időszaka.
-
-(5) Az (1) és (3) bekezdésben meghatározott esetben a közforgalmú vasúti személyszállítási szolgáltatást végző vállalkozó vasúti társaság a (4) bekezdésben meghatározott személyes adatot a polgári jogi igények elévüléséig tarthatja nyilván.
+#### 21/C. §
 
 ### ÁRUFUVAROZÁSI SZOLGÁLTATÁS
 
@@ -503,145 +400,17 @@ szerződést köt.
 
 ### VAGYONKEZELÉSI SZERZŐDÉS
 
-26. § Az országos, valamint az állami tulajdonban lévő vasúti pályát tartalmazó térségi, illetve elővárosi vasúti pályahálózatot működtető pályavasúti társaság, illetve az integrált vasúti társaság a vagyonkezelési szerződést a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a vonatkozó jogszabályok alapján – az állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel (a továbbiakban: MNV Zrt.) köti meg.
+26. § (1) Az országos, valamint az állami tulajdonban lévő vasúti pályát tartalmazó térségi, illetve elővárosi vasúti pályahálózatot működtető pályavasúti társaság, illetve az integrált vasúti társaság a vagyonkezelési szerződést a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a vonatkozó jogszabályok alapján – az állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel (a továbbiakban: MNV Zrt.) köti meg.
 
-### A VASÚTI SZEMÉLYSZÁLLÍTÁSI KÖZSZOLGÁLTATÁSI SZERZŐDÉS
+(2) A legalább többségi állami tulajdonú országos pályavasúti társaság a Kormány egyedi döntése, vagy a közigazgatási szerv megkeresése alapján köteles biztosítani a személyforgalom lebonyolítására és kiszolgálására szolgáló létesítményben (pályaudvar, vasútállomás) közigazgatási szervek számára az ügyintézést nyújtó szervezet elhelyezését, annak akadálymentes megközelítését, az állomás és a távközlési hálózat használatát és üzemeltetését. Az ügyintézés helyszínét biztosító helyiségek igénybevételével és használatával kapcsolatos szabályokról, valamint a helyiség üzemeltetésével kapcsolatos közvetlen költségek (közüzemi díjak és önköltségi szinten számított épületüzemeltetési költségek) viseléséről az érintett országos pályavasúti társaság és az érintett közigazgatási szerv szerződésben rendelkeznek.
 
-ÉS A KÖZSZOLGÁLTATÁS ELLENTÉTELEZÉSE ÉRDEKÉBEN MEGÁLLAPÍTHATÓ KÁRTALANÍTÁS
+#### 27. §
 
-27. § (1) A miniszter a vasúti személyszállítási közszolgáltatás biztosítása érdekében – az államháztartásért felelős miniszter egyetértésével – a belföldi vasúti személyszállítást végző vasúti társaságtól vasúti személyszállítási közszolgáltatást rendel meg, és erre vasúti személyszállítási közszolgáltatási szerződést köt (vasúti személyszállítási közszolgáltatási szerződés). A vasúti személyszállítási közszolgáltatási szerződés elkülönülten tartalmazza a közszolgáltatási menetrendi koncepcióval összhangban meghatározott, az országos törzshálózati vasúti pályán folytatott személyszállítási szolgáltatásra vonatkozó országos jelentőségű megrendelést, továbbá az országos jelentőségű megrendeléshez igazodó regionális jelentőségű megrendelést. Ha az 1370/2007/EK rendelet vagy e törvény másként nem rendelkezik, a vasúti személyszállítási közszolgáltatási szerződésre a Ptk. szerződésekre vonatkozó általános szabályai az irányadók. Az e törvény hatálya alá tartozó közszolgáltatási szerződéseket – a villamossal végzett helyi közforgalmú vasúti szolgáltatásra irányuló közszolgáltatási szerződés kivételével – az e törvény pályázatra vonatkozó szabályai szerint kell megkötni. A villamossal végzett helyi közforgalmú vasúti szolgáltatásra irányuló közszolgáltatási szerződést akkor kell az e törvény pályázatra vonatkozó szabályai szerint megkötni, ha a közszolgáltatási szerződés a közbeszerzésekről szóló törvény alapján szolgáltatási koncessziónak minősül.
+#### 27/A. §
 
-(2) A vasúti személyszállítási közszolgáltatási szerződés az 1370/2007/EK rendelet 4. cikkében foglaltakon túlmenően tartalmazza:
+#### 27/B–27/F. §
 
-- a) a vasúti személyszállítási közszolgáltatáshoz kapcsolódó egyéb szolgáltatásokat,
-- b) az előírt feladatok ellátását biztosító személyi, tárgyi és pénzügyi feltételeket,
-- c) a vasúti személyszállítási közszolgáltatás folyamatos nyújtását biztosító feltételeket, így különösen a vasúti személyszállítás akadályoztatása esetén a személyszállítási közszolgáltatás biztosításával kapcsolatos feladatokat,
-- d) a vasúti személyszállítási közszolgáltatás teljesítéséhez elengedhetetlen, lényeges vagyoni eszközök tulajdonviszonyait, a vállalkozó vasúti társaság birtokába adott vagy más módon rendelkezésére bocsátott eszközök használatára, karbantartására és visszaszolgáltatására vonatkozó szabályokat,
-- e) a vállalkozó vasúti társaság vasúti személyszállítási közszolgáltatási tevékenységgel összefüggő jogait és kötelezettségeit,
-- f) a vasúti személyszállítási közszolgáltatás teljesítésére vonatkozó adatok szolgáltatására és az ellenőrzésre vonatkozó szabályokat, mellékletként a vasúti társaság közszolgáltatási tevékenységére vonatkozó önköltségszámítási szabályzatát, amennyiben a társaságra vonatkozó önköltségszámítási szabályzat elkészítése a számvitelről szóló törvény szerint a vasúti társaságra nézve kötelező,
-- g) a jegyrendszerre vonatkozó előírásokat,
-- h) a vasúti személyszállítási közszolgáltatási szerződés módosításának, felmondásának feltételeit,
-- i) a vasúti személyszállítási közszolgáltatási szerződésben meghatározott kötelezettségek megszegése esetére vonatkozó jogkövetkezményeket (így különösen a kötbérfizetési kötelezettséget), valamint a vasúti személyszállítási közszolgáltatási szerződés teljesítésével kapcsolatos esetleges jogviták rendezésének módját,
-- j) a vasúti személyszállítási közszolgáltatás megkezdésének időpontját és a vasúti személyszállítási közszolgáltatási szerződés időbeli hatályát.
-
-(3) Az 1370/2007/EK rendelet 7. cikkének (2) bekezdésében előírt előzetes tájékoztatási kötelezettség teljesítését követően a pályázati felhívást az ellátásért felelősnek legalább két országos terjesztésű napilapban, továbbá a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, az önkormányzatnak a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a helyi napilapban is közzé kell tennie a pályázat benyújtási határidejét legalább 60 nappal megelőzően. A felhívásban tájékoztatást kell adni a pályázaton való részvétel és a pályázati kiírás beszerzési lehetőségének feltételeiről, az ajánlattétel határidejéről, az elbírálás módjáról és szempontjairól, az eredményhirdetés és a szerződéskötés legkésőbbi időpontjáról, a szolgáltatás megkezdésének időpontjáról, valamint a szerződés időtartamáról.
-
-(4) A vállalkozó vasúti társaság tájékoztatja a minisztert, ha más vasúti személyszállítási közszolgáltatási szerződés alapján is végez szolgáltatást vagy határon átmenő vasúti személyszállítást is ellát.
-
-(5) A vasúti társaság folyamatosan figyelemmel kíséri a szolgáltatási területét érintő utazási igények alakulását, és – indokolt esetben – kezdeményezi a közszolgáltatási menetrend módosítását szolgáltatásainak az igények változásához való igazítása érdekében.
-
-(6) A közszolgáltatási menetrend a vasúti személyszállítási közszolgáltatási szerződés elválaszthatatlan részét képezi, módosítását szerződésmódosításként kell kezelni. A menetrendi éven belül történő közszolgáltatási menetrend módosításhoz nem szükséges az államháztartásért felelős miniszter egyetértése.
-
-(7) A vasúti személyszállítási közszolgáltatási szerződés csak az abban foglalt esetekben és feltételekkel mondható fel. A vasúti személyszállítási közszolgáltatási szerződésben rögzített közszolgáltatási tevékenység gyakorlásának joga más szervezetre – kivételesen indokolt esetben – a miniszter hozzájárulásával ruházható át.
-
-(8) A vállalkozó vasúti társaság a minisztertől kérheti, hogy egyes vonalakon a közszolgáltatási menetrendben meghatározott teljesítményt vonatok helyett közúti jármű (autóbusz) alkalmazásával teljesíthesse abban az esetben, ha a megoldás a vállalkozó vasúti társaság számára megtakarítást eredményez, és a szolgáltatást igénybe vevők számára nem jár kedvezőtlenebb feltételekkel. Az ilyen szolgáltatást a vállalkozó vasúti társaság – ha megfelel az autóbusszal végzett belföldi és határon átmenő személyszállításra vonatkozó külön jogszabályban előírt személyi és tárgyi feltételeknek is – kizárólag a vasúti személyszállításra külön jogszabályban megállapított díj alkalmazása mellett és – az érintett települések önkormányzatával történő előzetes egyeztetés alapján – a külön törvényben meghatározott járati engedéllyel végezheti.
-
-(9) Ha a vállalkozó vasúti társaság által végzett közforgalmú személyszállítás műszaki okból vasúti járművel nem látható el, a vállalkozó vasúti társaság a (8) bekezdésben meghatározott feltételeket csak abban az esetben köteles teljesíteni, ha az autóbusszal végzett tevékenység meghaladja a két hónapot (vonatpótló járat).
-
-(10) Az önkormányzatok feladat- és hatáskörébe utalt közszolgáltatási kötelezettség ellátásra vonatkozó tevékenység végzésére az önkormányzat az érintett helyi közforgalmú vasúti társasággal köthet vasúti személyszállítási közszolgáltatási szerződést. A vasúti személyszállítási közszolgáltatási szerződésre, illetve a vasúti társaság és az önkormányzat képviselő-testületének a vasúti személyszállítási közszolgáltatási szerződéssel kapcsolatos feladataira az (1)–(8) bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni.
-
-(11) Az önkormányzatok az érintett országos, térségi, elővárosi vagy helyi vállalkozó vasúti társasággal a közszolgáltatási menetrendben nem szereplő közszolgáltatási tevékenység ellátására szerződést köthetnek. A szerződésre a (2)–(8) bekezdésekben meghatározott rendelkezéseket kell megfelelően alkalmazni.
-
-27/A. § (1) A vállalkozó vasúti társaság a vasúti személyszállítási közszolgáltatási szerződés teljesítéseként közszolgáltatási ellentételezésre jogosult.
-
-(2) Közszolgáltatási ellentételezés esetén a közszolgáltatási kötelezettségből származó gazdasági hátrány számszerűsítésére, a vállalkozó vasúti társaságot megillető pénzügyi ellentételezés mértékére az 1370/2007/EK rendelet Mellékletének rendelkezéseit a pályázat útján odaítélt vasúti személyszállítási közszolgáltatási szerződés esetén is megfelelően alkalmazni kell.
-
-(3) Az ellentételezéssel kapcsolatos részletes szabályokat a vasúti személyszállítási közszolgáltatási szerződésben kell rögzíteni olyan módon, hogy
-
-- a) az ellátásért felelős és a vállalkozó vasúti társaság között megkötött vasúti személyszállítási közszolgáltatási szerződés egyértelműen rögzíti a vállalkozó vasúti társaság közszolgáltatási feladatait, és
-- b) a vállalkozó vasúti társaságot megillető ellentételezés számításának rendje előzetesen megszabott, objektív és átlátható módon meghatározott feltételekre épül, valamint
-- c) az ellentételezés mértéke nem haladja meg a vállalkozó vasúti társaság közszolgáltatási feladatok teljesítésével együtt járó költségeinek és az ágazatban elérhető ésszerű nyereségnek a díjbevétellel, fogyasztói árkiegészítéssel és egyéb kapcsolódó bevételekkel és támogatásokkal nem fedezett összegét.
-
-(4) Amennyiben a vállalkozó vasúti társaság nem pályázat útján került kiválasztásra, az ellentételezés számításánál költségként az azonos jellegű és színvonalú közszolgáltatási feladatokat ellátó, hatékonyan működő szolgáltatók átlagköltségeit kell figyelembe venni.
-
-(5) Pályázat alapján kiválasztott vállalkozó vasúti társaság esetében az ellentételezés a pályázati eljárás során kialakított, vasúti személyszállítási közszolgáltatási szerződésben rögzített összeg. A pályázat alapján kiválasztott, adott területen (területrészen, hálózaton, vonalcsoporton vagy vonalakon) kizárólagos joggal bíró vállalkozó vasúti társaság, a vasúti személyszállítási közszolgáltatási szerződésben rögzített ellentételezés szabályain túlmenően, a közszolgáltatási kötelezettség miatt felmerült indokolt költségeinek megtérítését az (1)–(2) bekezdésben foglalt szabályokra figyelemmel abban az esetben kezdeményezheti, ha számszerűen alátámasztva igazolja a körülményeknek a szerződés megkötését követő jelentős változását. A körülményeknek a szerződés megkötését követő jelentős változásaként az utazási igények vagy a gazdálkodási környezet tekintetében bekövetkező azon változások vehetők figyelembe, amelyekkel a szerződés megkötésekor a vállalkozó vasúti társaság a szerződés időtartamára vonatkozóan, az üzleti tevékenység szokásos kockázataként nem számolhatott.
-
-(6) Közszolgáltatási ellentételezéssel járó vasúti személyszállítási közszolgáltatási szerződés vagy meghatározott közszolgáltatási kötelezettség esetén a vállalkozó vasúti társaság köteles belső számvitelében elkülönített nyilvántartást vezetni az adott vasúti személyszállítási közszolgáltatási szerződéshez, illetőleg közszolgáltatási kötelezettséghez kapcsolódó eszközökről és forrásokról, bevételekről és ráfordításokról a külön jogszabály alapján meghatározott számviteli politikában rögzített, az átcsoportosítás lehetőségét kizáró elszámolási rendnek megfelelően.
-
-(7) A nyilvántartást vonali szinten és úgy kell vezetni, hogy az (5) bekezdés szerinti egyes tételek érintett tevékenységhez való hozzárendelésének módszere egyértelmű legyen. A vállalkozó vasúti társaság az elkülönített elszámolást a vasúti személyszállítási közszolgáltatási szerződés lejártát követően az adózás rendjére vonatkozó jogszabályban előírt határidőig őrzi meg.
-
-27/B. § (1) A pályázati kiírásban szereplő feltételeket és a pályázat elbírálásának szempontjait a következő szempontok szerint kell meghatározni:
-
-- a) a lakosság életviteléhez tartozó intézményrendszer elérhetősége, eljutási lehetőségek a centrumokba (településközpontokba), vonzásközpontokba a lakosság utazási igényeinek megfelelően,
-- b) a településfejlesztési és területfejlesztési igények,
-- c) a szolgáltatások minőségével szemben támasztott elvárások, így különösen eljutási sebesség, gyakoriság, pontosság, megbízhatóság, zsúfoltság, utasbiztonság, tisztaság,
-- d) a mozgásukban korlátozott személyek utazási lehetőségei,
-- e) a szolgáltatások közötti összhang és a szolgáltatók közötti együttműködés a menetrend, az átszállási lehetőségek, a jegyrendszer és az utastájékoztatás tekintetében,
-- f) a járművek és szolgáltatási infrastruktúra színvonala, azok használata, környezeti hatások,
-- g) a személyzettel szembeni elvárások, foglalkoztatási feltételek,
-- h) a szolgáltatások ráfordításigénye.
-
-(2) A feltételek körében az ellátásért felelős a szolgáltató kötelezettségeként előírhatja a letelepedést, a korábbi szolgáltató munkavállalóinak, illetőleg azok meghatározott körének meghatározott feltételekkel történő átvételét, továbbá alvállalkozó meghatározott mértékű bevonását a közszolgáltatásba, az alvállalkozó személyének megjelölése nélkül.
-
-(3) A pályázók többváltozatú ajánlat tételére is felkérhetők. Hálózatra, hálózatrészre vagy vonalcsoportra vonatkozó pályázat esetén az ellátásért felelős az érvényes pályázatok alapján – a pályázati kiírásban meghatározott módon – előminősítéssel élhet és annak eredményétől függően tárgyalást kezdeményezhet az alkalmasnak minősített pályázókkal benyújtott ajánlatuk részleteiről. A pályázat nyertesének csak az összességében legelőnyösebb ajánlatot tevő pályázó nyilvánítható.
-
-(4) A pályázatok elbírálásáról az ellátásért felelősnek a beérkezett pályázatok adatait összegző és a döntés részletes indoklását ismertető emlékeztetőt kell készítenie a pályázat eredményének kihirdetéséig. Az emlékeztetőnek tartalmaznia kell a kiválasztott szolgáltató alkalmasságát igazoló tényeket, a megfelelő színvonalú szolgáltatás nyújtásának garanciáit és – amennyiben van ilyen – a szolgáltatót a közszolgáltatási kötelezettség ellátása fejében megillető veszteség-kiegyenlítés mértékét. Az ellátásért felelősnek az emlékeztetőt a pályázattal összefüggő valamennyi dokumentummal együtt a vasúti személyszállítási közszolgáltatási szerződés megkötésétől számított 10 évig meg kell őriznie. Az emlékeztetőben foglaltakra mint közérdekű adatokra külön jogszabály rendelkezéseit kell alkalmazni.
-
-27/C. § (1) Pályázat kiírásának mellőzésével, nyilvános ajánlatkérésen alapuló eljárás keretében bízható meg a szolgáltató, ha az ellátásért felelős által igényelt közszolgáltatás egyetlen járatra vagy vonalra korlátozódik és a szolgáltató pénzügyi ellentételezésre – ide nem értve a fogyasztói árkiegészítést – nem válik jogosulttá. Az ajánlatkérésen alapuló eljárásra egyebekben a 27. § rendelkezéseit kell megfelelően alkalmazni.
-
-(2) Nem alkalmazható az (1) bekezdés szerinti eljárás a vasút pályahálózat, illetőleg a közszolgáltatási feladatok részekre bontásával a pályázati eljárás megkerülése céljából.
-
-27/D. § (1) Az ellátásért felelős pályázat nélkül, közvetlenül bízhat meg szolgáltatót a szolgáltató által kezdeményezett, korábban nem biztosított közszolgáltatásra, ha az nem haladja meg az 1370/2007/EK rendelet 5. cikkének (4) bekezdésében szereplő értéket, vagy teljesítményt, valamint az valós utazási igények ésszerű kielégítését szolgálja, és nem jár együtt más szolgáltató vasúti személyszállítási közszolgáltatási szerződésben rögzített jogainak sérelmével vagy működőképességének veszélyeztetésével.
-
-(2) Az ellátásért felelős közvetlenül, odaítélés keretében bízza meg közszolgáltatással az általa kiválasztott és a feladatot vállaló szolgáltatót, ha
-
-- a) a pályázati vagy ajánlatkérésen alapuló eljárás megfelelő pályázat, illetve ajánlat hiányában eredménytelenül zárult,
-- b) a szolgáltatás megkezdése a pályázati vagy ajánlatkérésen alapuló eljárás keretében kiválasztott szolgáltatóval ellehetetlenült,
-- c) a korábbi szolgáltatóval megkötött vasúti személyszállítási közszolgáltatási szerződés azonnali vagy idő előtti felmondásának van helye,
-- d) egyéb okból veszélybe kerül a közszolgáltatás folyamatossága.
-
-(3) A (2) bekezdésben említett esetekben a megbízás vasúti személyszállítási közszolgáltatási szerződés megkötésével vagy annak közös megegyezésen alapuló módosításával új eljárás lebonyolításához elegendő időtartamra, de legfeljebb 2 évre szólhat.
-
-(4) A közvetlen megbízásra vonatkozó döntésről a 27/B. § (4) bekezdésében foglaltak megfelelő alkalmazásával emlékeztetőt kell készíteni.
-
-(5) A belső szolgáltató pályáztatás nélkül is megbízható a szolgáltatás elvégzésével (a továbbiakban: közvetlen odaítélés). A közvetlen odaítélés alapján szolgáltatást nyújtó belső szolgáltató a közszolgáltatási tevékenységét az 1370/2007/EK rendelet 5. cikk (2) bekezdésének a)–c) és e) pontjában meghatározott szabályok alapján, kizárólag az ellátásért felelős illetékességi területén végzi.
-
-(6) Az, akinek érdekében állt vagy áll vasúti személyszállítási közszolgáltatási szerződés elnyerése és a 27–27/D. §-ban foglalt szabályok megszegésével kötött vasúti személyszállítási közszolgáltatási szerződés folytán sérelmet szenvedett vagy a sérelem bekövetkezésének reális veszélye fennáll, a pályázat eredményének kihirdetésétől, egyéb esetben a vasúti személyszállítási közszolgáltatási szerződés megkötésétől számított 30 napos jogvesztő határidőn belül a szolgáltatás végzésének helye szerinti bíróságtól kérheti a jogszabálysértés tényének megállapítását.
-
-27/E. § (1) A vasúti igazgatási szerv a vasúti személyszállítási közszolgáltatási szerződésben rögzített kötelezettségek ellentételezésének biztosítása érdekében kártalanítási kötelezettséget állapíthat meg olyan vasúti társaságok részére, amelyek nem közszolgáltatásnak minősülő vasúti személyszállítási szolgáltatást nyújtanak két olyan meghatározott belföldi állomás között, amely szakaszra más vasúti társaság hatályos vasúti személyszállítási közszolgáltatási szerződéssel rendelkezik.
-
-(2) Az (1) bekezdés esetében az adott állomások között nem közszolgáltatásnak minősülő vasúti személyszállítást végző vasúti társaságok függetlenül attól, hogy belföldi vagy nemzetközi vasúti személyszállítást végeznek, azonos mértékű kártalanítást kötelesek fizetni. A kártalanításból befolyó és ellentételezésként kifizetett összeg nem haladhatja meg az érintett közszolgáltatási kötelezettségek során felmerült költségek egészének vagy egy részének fedezéséhez szükséges mértéket, figyelembe véve a vonatkozó bevételeket és az említett kötelezettségek teljesítéséből származó ágazatban elérhető ésszerű nyereséget is.
-
-(3) Az e § szerinti kártalanítás megállapításakor tiszteletben kell tartani a méltányosság, az átláthatóság, az egyenlő elbánás és az arányosság elvét. Az arányosság elvét különösen figyelembe kell venni a szolgáltatásért az utasok által fizetett díjak alapján számolt átlagos ellenérték és a kártalanítás mértéke közötti eltérés vizsgálatakor.
-
-(4) Az e § alapján kivetett kártalanítás mértéke nem veszélyeztetheti annak a vasúti személyszállítási szolgáltatásnak a gazdasági életképességét, amelyre azt kivetették.
-
-(5) A miniszter az e § alkalmazásával összefüggésben keletkezett információkat megőrzi, annak biztosítása érdekében, hogy a kártalanítás eredete és azok felhasználása nyomon követhetővé váljon, és az Európai Bizottság rendelkezésére bocsátja.
-
-27/F. § (1) Az 1370/2007/EK rendelet 7. cikkének (1) bekezdésében meghatározott összevont jelentést az önkormányzat, illetve a miniszter a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év május 31. napjáig készíti el. A jelentést az önkormányzat a honlapon vagy a megyei napilapban, a miniszter az általa vezetett minisztérium honlapján teszi közzé.
-
-(2) Az 1370/2007/EK rendelet 8. cikk (2) bekezdésében előírt jelentéstételi kötelezettséget a miniszter teljesíti.
-
-### A személyszállítási közszolgáltatás díjai, jegy- és bérletrendszerrel kapcsolatos szabályok
-
-27/G. § (1) A vasúti személyszállítási közszolgáltatások díjai, a pótdíjak és a díjalkalmazási feltételek, továbbá ezek megsértése esetén érvényesíthető jogkövetkezmények közszolgáltatási szerződésben a közszolgáltatási utazási kedvezményekről szóló jogszabályban meghatározott vasúti személyszállítási közszolgáltatási utazási kedvezmények alapján képzett kedvezményes díjak kedvezménycsoportonként történő elkülönítése mellett kerülnek meghatározásra.
-
-(2) Ha a bevételek beszedését a közlekedésszervező végzi, a személyszállítási közszolgáltatások díjai, a pótdíjak és az díjalkalmazási feltételek, továbbá ezek megsértése esetén érvényesíthető jogkövetkezmények a közszolgáltatási szerződésben és a feladat-ellátási szerződésben az általános forgalmi adót nem tartalmazó mértékben kerülnek meghatározásra.
-
-(3) A vasúti személyszállítási közszolgáltatási utazási kedvezmények mértékét, a jogosultak körét és a kedvezmények igénybevételének feltételeit a Kormány rendeletben állapítja meg.
-
-(4) A közszolgáltatási szerződésben és a feladat-ellátási szerződésben meghatározott díjak, a kedvezményes díjak és a díjmentes utazások igénybevételéhez szükséges utazási okmányok alkalmazását – a közszolgáltatási szerződésben és a feladat-ellátási szerződésben rögzített kereteken belül – a közlekedési szolgáltató az üzletszabályzat részét képező díjszabásban köteles rögzíteni.
-
-(5) Az ellátásért felelős a díjat megállapíthatja tételesen vagy a díj kiszámítására vonatkozó módszer meghatározásával. A díjat úgy kell meghatározni, hogy a hatékonyan működő közlekedési szolgáltató közlekedési közszolgáltatásokkal felmerülő indokolt költségeire és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is, valamint biztosítsa a személyszállítási közszolgáltatások egyéni közlekedéssel szembeni versenyképességét.
-
-(6) A díjat, valamint annak alkalmazási feltételeit a közlekedési szolgáltatónak a díjszabásban annak hatálybalépését 30 nappal megelőzően közzé kell tennie.
-
-27/H. § (1) A közszolgáltatási szerződésben és a feladat-ellátási szerződésben meghatározott áralkalmazási elvek érvényesítésekor biztosítani kell, hogy
-
-- a) a magasabb komfortfokozat és a kiegészítő szolgáltatás által nyújtott többlet arányban álljon a felszámított pótjegyek és egyéb díjak nagyságával,
-- b) kizárólag magasabb komfortfokozat és kiegészítő szolgáltatás nyújtása esetén legyen felszámítható pótjegy és egyéb díj,
-- c) az egyes közlekedési módok tekintetében ne alakulhasson ki versenyhátrány a pótjegyek és egyéb díjak eltérő rendszere miatt,
-- d) az országos vasúti személyszállítási közszolgáltatáson és a regionális személyszállítási közszolgáltatáson belül az egységes díjképzés kerüljön alkalmazásra,
-- e) helyi vasúti személyszállítási közszolgáltatás és az elővárosi személyszállítási közszolgáltatás esetén időalapú hozzáférést biztosító jegyrendszer is működhessen,
-- f) az egyes szolgáltatók között átjárhatóság valósulhasson meg az utazási okmányok, valamint a bérletek kölcsönös elfogadása és a felek közötti tételes pénzügyi elszámolás révén.
-
-(2) Az országos vasúti személyszállítási közszolgáltatást, a regionális vasúti személyszállítási közszolgáltatást vagy az elővárosi vasúti személyszállítási közszolgáltatást végző vállalkozó vasúti társaság köteles más közlekedési szolgáltatók által vagy egyéb értékesítési helyen értékesített, a társaság járataira szóló jegyet, bérletet elfogadni és ennek elszámolásáról, illetve ellentételezéséről írásban megállapodni.
-
-(3) Az országos vasúti személyszállítási közszolgáltatást, a regionális vasúti személyszállítási közszolgáltatást vagy az elővárosi vasúti személyszállítási közszolgáltatást végző vállalkozó vasúti társaság kötelesek sztrájk és rendkívüli akadályoztatás esetén a jegyek és bérletek kölcsönös elfogadását érintő együttműködés általános kereteit előre írásban rögzíteni.
-
-(4) A vasúti személyszállítási közszolgáltatást végző vállalkozó vasúti társaság a bevételeket időponthoz, járathoz, menetjegyhez, árkategóriához, valamint indulási és érkezési állomáshoz rendelhető adatstruktúrában köteles nyilvántartani.
-
-(5) Ha a bevételek beszedését a közlekedésszervező végzi, a (3) és (4) bekezdésben foglalt kötelezettségek a közlekedésszervezőt terheli.
+#### 27/G–27/H. §
 
 ### A VASÚTI PÁLYAHÁLÓZAT MŰKÖDTETÉSÉRE KÖTÖTT SZERZŐDÉS
 
@@ -1069,42 +838,7 @@ rendeletben teszi közzé.
 - e)
 - f)
 
-53/A. § (1) Nemzetközi vasúti személyszállítási szolgáltatás nyújtása esetén a vasúti társaságnak jogában áll utasok felszállását és leszállását biztosítani a nemzetközi útvonalon található bármely állomáson, beleértve az ugyanazon EGT-államban található állomásokat (kabotázs) is.
-
-(2) Ha kabotázst is magában foglaló nemzetközi személyszállítási szolgáltatás nyújtása céljából egy hozzáférésre jogosult menetvonalat igényel, az igény benyújtását megelőzően legalább harminc nappal e szándékáról tájékoztatja az érintett pályahálózat-működtetőt és a vasúti igazgatási szervet. A tájékoztatás kiterjed a nyújtani tervezett szolgáltatás menetrendjére és az igénybe venni kívánt pályavasúti szolgáltatásokra, a szolgáltatás keretében biztosítandó ülőhelyek számára, a szolgáltatás díjára, valamint az utasok részére nyújtandó járulékos szolgáltatások körére.
-
-(3) A különböző EGT-államokban található állomások közötti nemzetközi személyszállítási szolgáltatás céljának megvalósulása, valamint a hatályos vasúti személyszállítási közszolgáltatási szerződésekre gyakorolt lehetséges gazdasági hatása értékelésének elősegítése érdekében, a vasúti igazgatási szerv biztosítja a vasúti személyszállítási közszolgáltatási szerződésben meghatározott vasúti személyszállítást odaítélő bármely illetékes hatóság, valamint az egyéb, a közösségi vasutak fejlesztéséről szóló 1991. július 29-i 91/440/EGK tanácsi irányelv 10. cikkének (3) bekezdése alapján a hozzáférés korlátozására jogosult bármely érdekelt illetékes hatóság és az ezen a nemzetközi személyszállítási szolgáltatási útvonalon vasúti személyszállítási közszolgáltatási szerződést teljesítő bármely vasúti társaság tájékoztatását a (2) bekezdésben meghatározott adattartalommal.
-
-53/B. § (1) Az 53. § c) pontja szerinti esetben az érintett nemzetközi személyszállítási szolgáltatást nyújtani szándékozó vasúti társaság azt követően jogosult a nyílt hozzáférésre, hogy a vasúti igazgatási szerv kérelemre indult eljárásban megállapította, hogy a nyújtani tervezett szolgáltatás fő célja a különböző EGT-államokban található állomások közötti személyszállítás.
-
-(2) A vasúti igazgatási szerv az (1) bekezdés szerinti eljárásban a belföldi, vagy a nemzetközi személyszállítás alapján kiszámított forgalmi hányad és volumen, valamint a teljes viszonylat belföldre eső arányának figyelembevételével határoz.
-
-(3) A vasúti igazgatási szerv bármely érdekelt vasúti társaság vagy a vasúti személyszállítási közszolgáltatási szerződés odaítéléséről döntő szerv kérelmére vagy hivatalból felülvizsgálja az (1) bekezdés szerinti határozatát, ha az eredeti döntés alapjául szolgáló körülmények megváltoztak.
-
-53/C. § (1) Az 53. § c) pontja szerinti esetben a miniszter a hazai vasúti közlekedési ágazat érdekeinek védelmében rendeletben korlátozhatja a nyílt hozzáférést a nemzetközi személyszállítási szolgáltatás részét képező olyan kiindulási és célállomás közötti személyszállítási szolgáltatás esetén, amelyek egy vagy több vasúti személyszállítási közszolgáltatási szerződés tárgyát képezik.
-
-(2) Ha az (1) bekezdés szerinti rendelet korlátozza az utasoknak a nemzetközi személyszállítási szolgáltatás útvonalán található bármely állomáson történő felvételét vagy leszállását – ideértve az ugyanazon EGT-államban található állomásokat is – a rendelet e rendelkezése csak abban az esetben alkalmazandó, ha a vasúti igazgatási szerv határozatában megállapítja, hogy a jog gyakorlása a vasúti társaság közszolgáltatási tevékenységében gazdasági hátrányt okozhat.
-
-(3) A (2) bekezdés szerinti eljárást a vasúti igazgatási szerv
-
-- a) a miniszter – továbbá a 27. § (11) bekezdése szerinti esetben az önkormányzat képviselő-testületének – kezdeményezésére, vagy
-- b) a vasúti pályahálózat működtetője vagy vasúti személyszállítási közszolgáltatási szerződést teljesítő vasúti társaság kérelmére
-
-folytatja le.
-
-(4) A vasúti igazgatási szerv a (2) bekezdés szerinti eljárásban a vasúti személyszállítási közszolgáltatási szerződés odaítéléséről döntő szervet vagy szerveket és a vasúti személyszállítási közszolgáltatást végző vasúti társaságot a megalapozott döntéshez szükséges információk átadására hívhatja fel. A vasúti igazgatási szerv – szükség esetén az érintett felekkel való konzultációt követően – az összes lényeges információ kézhezvételét követő két hónapon belül határoz. A vasúti igazgatási szerv a határozatában megállapítja a (2) bekezdésben meghatározott gazdasági hátrány elkerülése érdekében szükséges intézkedéseket, valamint azt az időtartamot, amelynek elteltét követően a határozat felülvizsgálatát
-
-- a) a vasúti személyszállítási közszolgáltatási szerződést odaítélő szerv,
-- b) a pályahálózat-működtető,
-- c) a vasúti személyszállítási közszolgáltatási szerződést teljesítő vasúti társaság, vagy
-- d) az érintett nemzetközi vasúti személyszállítási szolgáltatást nyújtani szándékozó vasúti társaság leghamarabb kérelmezheti, illetőleg kezdeményezheti.
-
-(5) A vasúti igazgatási szerv a vasúti személyszállítási közszolgáltatási szerződés gazdasági egyensúlya veszélyeztetettségének vizsgálatakor figyelembe veszi:
-
-- a) a nyújtani tervezett új szolgáltatás megjelenésének hatását a vasúti személyszállítási közszolgáltatási szerződésben szereplő bármely szolgáltatás nyereségességére, ideértve a vasúti személyszállítási közszolgáltatási szerződést odaítélő szervnél felmerülő nettó költségre gyakorolt közvetett hatást is,
-- b) az érintett viszonylaton az utasok részéről jelentkező igényt a vasúti személyszállítási szolgáltatások iránt,
-- c) a megállók helyét és számát a határ mindkét oldalán, valamint
-- d) a nyújtani tervezett új szolgáltatás menetrendjét.
+#### 53/A–53/C. §
 
 ### A nyílt hozzáférés keretében nyújtandó szolgáltatások
 
@@ -1356,7 +1090,7 @@ biztosítható.
 
 68. § (1) A vasúti közlekedési tevékenység keretében a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállaló az lehet, aki a külön jogszabályban meghatározott képesítési és egészségügyi alkalmassági követelményeknek megfelel. A vasúti járművezetői tevékenység önálló végzésének további előfeltétele a külön jogszabályban előírt járművezetői gyakorlat más vasúti járművezető felügyelete mellett történő megszerzése.
 
-(2) Az országos, térségi vagy elővárosi vasúti személyszállítási közszolgáltatást végző, valamint az országos vasúti pályahálózatot működtető vasúti társaság munkavállalóját, azt a volt munkavállalóját, aki legkésőbb a munkaviszony megszűnését követő naptól kezdődően nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesül (a továbbiakban: nyugdíjas) és igényjogosult hozzátartozóikat, továbbá a külön jogszabályban meghatározott személyeket utazási kedvezmény illeti meg. Az egyes vasúti társaságok munkavállalóit megillető utazási kedvezmények kölcsönös elismerésére, elszámolásának módjára és megtérítésére az érintett vasúti társaságok megállapodása irányadó.
+(2)
 
 (3) A közforgalmú vasúti társaság munkavállalója formaruha viselésére kötelezhető.
 
@@ -1366,7 +1100,7 @@ biztosítható.
 
 ### AZ UTAZÓ VASÚTI MUNKAVÁLLALÓK JOGAI ÉS KÖTELEZETTSÉGEI
 
-68/A. § (1) A Munka Törvénykönyvéről szóló törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalók esetében.
+68/A. § (1) A munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalók esetében.
 
 (2) Az e fejezetben foglalt rendelkezéseket nem kell alkalmazni az országhatárokon átnyúló helyi és térségi vasúti személyszállítás és az országhatár 15 kilométeres körzetét át nem lépő, országhatárokon átnyúló vasúti árutovábbítás, valamint Magyarország és a szomszédos ország határállomásai közötti szolgáltatás tekintetében.
 
@@ -1396,17 +1130,17 @@ biztosítható.
 
 ### Heti pihenőidő
 
-68/E. § (1) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalók heti pihenőidejére az Mt. 124. §-ának (1)–(4) bekezdése a (2)–(3) bekezdésekben írt eltérésekkel alkalmazandó.
+68/E. § (1) Az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatást végző utazó vasúti munkavállalók heti pihenőidejére az Mt. 105–106. §-a a (2)–(3) bekezdésekben írt eltérésekkel alkalmazandó.
 
 (2) A 68/A. § (1) bekezdésében meghatározott munkavállalónak egy naptári évben legalább 24 alkalommal megszakítás nélküli 60 órás pihenőidőt kell biztosítani, amelybe legalább 12 alkalommal a szombatnak és a vasárnapnak is bele kell esnie.
 
-(3) Az Mt. 124. § (5)–(10) bekezdései nem alkalmazhatók.
+(3)
 
 ### A vasúti járművezetőre vonatkozó rendelkezések
 
 68/F. § (1) Vasúti jármű csak vasúti társasággal vagy a vasúti pályahálózat működtetésében szerződés alapján közreműködő szervezettel fennálló munkaviszony keretében vezethető. Az országos vasúti pályahálózathoz képest keskenyebb nyomtávú térségi vasúti pályahálózaton vasúti személyszállítást végző vasúti jármű munkavégzésre vonatkozó egyéb jogviszony keretében is vezethető.
 
-(2) Az Mt. 128. § (1) bekezdésében meghatározott eseteket kivéve a vezetési idő hossza a teljesített napi (beosztás szerinti rendes- vagy rendkívüli) munkaidőn belül nem haladhatja meg a kilenc órát. Aki éjszakai időben legalább három órán keresztül dolgozik, vezetési ideje nem haladhatja meg a nyolc órát. Kéthetes időszakonként a vezetési idő hossza legfeljebb nyolcvan óra lehet.
+(2) Az Mt. 108. § (2) bekezdésében meghatározott eseteket kivéve a vezetési idő hossza a teljesített napi (beosztás szerinti rendes- vagy rendkívüli) munkaidőn belül nem haladhatja meg a kilenc órát. Aki éjszakai időben legalább három órán keresztül dolgozik, vezetési ideje nem haladhatja meg a nyolc órát. Kéthetes időszakonként a vezetési idő hossza legfeljebb nyolcvan óra lehet.
 
 (3) A vasúti járművezető köteles a munkáltatójával fennálló munkaviszonyán kívüli munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban töltendő vezetési idejét a munkáltatóval a munkáltató által előírt gyakorisággal, ennek hiányában havonta írásban közölni. A munkáltató a vasúti járművezető nyilatkozata figyelembevételével állapítja meg a vasúti járművezető vezetési idejét.
 
@@ -1418,47 +1152,13 @@ biztosítható.
 
 (7) A vasúti járművezető részére biztosított munkaközi szünet egy részének a munkaidő harmadik és hatodik órája közé kell esnie.
 
-68/G. § (1) A munkáltató az Mt. 140/A. §-ában foglaltakon túl köteles a vasúti járművezető vezetési idejét feltüntető nyilvántartást vezetni, és a munkaidővel kapcsolatos adatokat az ellenőrzésre jogosult hatóság rendelkezésére bocsátani.
+68/G. § (1) A munkáltató az Mt. 134. §-ában foglaltakon túl köteles a vasúti járművezető vezetési idejét feltüntető nyilvántartást vezetni, és a munkaidővel kapcsolatos adatokat az ellenőrzésre jogosult hatóság rendelkezésére bocsátani.
 
 (2) A munkáltató köteles a nyilvántartást az adatok bejegyzésének napjától számított legalább három évig megőrizni.
 
-68/H. § (1) A vasúti társaság, illetve a külön jogszabályban meghatározott kedvezményre jogosultak munkáltatója (e § alkalmazásában a továbbiakban: munkáltató) jogosult a 68. § (2) bekezdése szerinti utazási kedvezményre (a továbbiakban: utazási kedvezmény) külön jogszabály alapján jogosult munkavállalója, köztisztviselője, közalkalmazottja igényjogosult hozzátartozójának (4) bekezdésben meghatározott adatait kezelni.
+#### 68/H. §
 
-(2) A munkáltató az utazási kedvezményre jogosult (4) bekezdésben meghatározott adatait az országos, térségi vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság részére továbbítja.
-
-(3) Az utazási kedvezményt biztosító országos, térségi vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság jogosult az utazási kedvezményre jogosult munkavállaló, köztisztviselő, közalkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (4) bekezdésben meghatározott adatainak a kezelésére.
-
-(4) Az adatkezelés a következő adatokra terjed ki:
-
-- a) a jogosult személyazonosító adatai (családi és utónév, születési családi és utónév, születési hely és idő),
-- b) a jogosult lakhelye vagy tartózkodási helye, valamint levelezési címe,
-- c) a munkaviszony, közszolgálati, közalkalmazotti jogviszony, szakmai gyakorlat kezdete, illetve vége,
-- d) nyugdíjas esetén a saját jogú, illetve hozzátartozói nyugellátás, valamint egyéb 68. § (2) bekezdése szerinti ellátás ténye és megállapításának kezdő időpontja, illetve megszűnésének időpontja.
-
-(5) Az adatkezelésre e § alapján jogosult (a továbbiakban: adatkezelő) a (4) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli.
-
-(6) Az adatkezelő a (4) bekezdésben meghatározott adatokat addig az időpontig tartja nyilván, amíg az utazási kedvezményre jogosultság fennáll.
-
-(7) Az adatkezelő biztosítja az adatok védelmét vétlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
-
-(8) Az adatkezelő a kezelt adatokat személyazonosító adatok nélkül statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
-
-### Még elégséges szolgáltatás a vasúti közforgalmú közlekedésben
-
-68/I. § (1) A sztrájkról szóló 1989. évi VII. törvény 4. § (2) bekezdésében meghatározott, még elégséges szolgáltatás mértéke a munkabeszüntetésben érintett időszakra vetítve vonalanként
-
-- a) a helyi vasúti személyszállítási közszolgáltatás és az elővárosi vasúti személyszállítási közszolgáltatás esetén a megrendelt személyszállítási szolgáltatás mennyiségének 66%-a,
-- b) az országos vasúti személyszállítási közszolgáltatás és a regionális vasúti személyszállítási közszolgáltatás esetén a megrendelt személyszállítási szolgáltatás mennyiségének 50%-a.
-
-(2) Az (1) bekezdésben meghatározott arányokat vonalankénti bontásban, járatonként számolva, tört szám esetén felfelé kerekítve kell meghatározni. A még elégséges szolgáltatás mértéke az (1) bekezdésben meghatározott mennyiséget a munkabeszüntetés szervezői és a munkáltató közös megállapodásával meghaladhatja.
-
-(3) Az (1) bekezdésben meghatározott mértékek teljesülése a munkabeszüntetés első 24 órája során óránként, ezt követően napi bontásban érvényesítendő oly módon, hogy ha a munkabeszüntetés munkanapon 6:00–9:00 és 15:00–18:00 közötti időszakot is érint, az (1) bekezdésben meghatározott mértékeknek ezen időszakokra vetítve önállóan, óránkénti bontásban is teljesülniük kell.
-
-(4) A sztrájkkal érintett személyszállítást végző vállalkozó vasúti társaság szolgáltató az (1)–(3) bekezdésben foglaltaknak megfelelő és eleget tevő menetrend-tervezetet dolgoz ki és azt legkésőbb sztrájk megkezdésének időpontját két nappal megelőzően a lakosság egyidejű tájékoztatásával hirdeti meg.
-
-(5) Az (1) bekezdésben meghatározott mértékű szolgáltatás nyújtása csak abban az esetben tekinthető a még elégséges szolgáltatás teljesítésének, ha az a menetrendben előre meghirdetett útvonalon és időpontban megvalósul.
-
-(6) Ha a munkabeszüntetésben résztvevők a (1) – (3) bekezdés szerinti szolgáltatás nyújtását akadályozzák vagy ellehetetlenítik, a vasúti társaság a munkabeszüntetés szervezőivel és résztvevőivel szemben kártérítési igénnyel élhet, továbbá jogosult a vele szemben harmadik fél által érvényesített kárigényeket rájuk továbbhárítani.
+#### 68/I. §
 
 ### XIV. Fejezet — A VASÚTI KÖZLEKEDÉS IGAZGATÁSA
 
@@ -1498,7 +1198,7 @@ biztosítható.
 - l) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal,
 - m) külön jogszabályban meghatározott adatgyűjtési, adatszolgáltatási feladatok ellátása, továbbá
 - n) a miniszter részére a vasúti közlekedési alágazatra vonatkozó, a miniszter által előírt adatszolgáltatások teljesítése,
-- o) a 79/B. § (1) bekezdése szerinti panaszok kezelése,
+- o) a személyszállítási szolgáltatásokról szóló törvényben meghatározottak szerint a vasúti személyszállítást igénybe vevő utasok panaszainak kezelése,
 - p) a vasúti személyszállítást igénybe vevő utasok jogaira vonatkozó rendelkezések betartásának ellenőrzése,
 - q) az 53/B. § (1) bekezdése szerinti esetben az érintett nemzetközi személyszállítási szolgáltatást nyújtani szándékozó vállalkozó vasúti társaság kérelmére indult eljárásban annak megállapítása, hogy a nyújtani tervezett szolgáltatás fő célja a különböző EGT-tagállamokban található állomások közötti személyszállítás-e,
 - r) a vasúti személyszállítási közszolgáltatási szerződés gazdasági egyensúlya veszélyeztetésének vizsgálata nemzetközi vasúti személyszállítási szolgáltatás bevezetésére tekintettel,
@@ -1600,32 +1300,7 @@ biztosítható.
 
 (5) A vasúti igazgatási szerv ideiglenes intézkedés tárgyában hozott végzése elleni bírósági felülvizsgálat iránti kérelem előterjesztésének a végzés közlésétől számított 15 napon belül van helye. A kérelem tárgyában a bíróság 15 napon belül határoz.
 
-### A vasúti személyszállítást igénybe vevő utasok jogainak védelme
-
-79/A. § (1) A vasúti igazgatási szerv felügyeli a vasúti személyszállítást igénybe vevő utasok jogaira vonatkozó jogszabályi rendelkezések vasúti társaságok általi megtartását. E tevékenysége körében hivatalból ellenőrzi és elemzi az 1371/2007/EK rendeletben, e törvényben, a vasúti személyszállítás részletes feltételeiről szóló rendeletben, valamint a vasúti társaságok személyszállítási üzletszabályzatában – ideértve a szolgáltatás minőségi előírásait is – foglaltak megtartását.
-
-(2) A vasúti igazgatási szerv (1) bekezdés szerinti eljárására a 75. § (3)–(4) bekezdésében foglaltakat megfelelően alkalmazni kell.
-
-(3) Ha a vasúti igazgatási szerv az (1) bekezdésben meghatározott valamely rendelkezésnek az utasok széles körét érintő megsértését állapítja meg,
-
-- a) előírja a vasúti társaság részére a tevékenység jogszerű végzéséhez szükséges lépések megtételét,
-- b) megtiltja a jogsértő magatartás folytatását,
-- c) külön jogszabályban foglaltak alapján bírságot szabhat ki,
-- d) a jogsértőt kötelezi az eljárás költségeinek megtérítésére.
-
-(4) A kötelezettségek súlyos és ismétlődő megszegése esetén – amennyiben a (3) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – a vasúti igazgatási szerv felfüggesztheti vagy visszavonhatja a vasúti személyszállításra szóló működési engedélyt.
-
-79/B. § (1) A vasúti személyszállítást igénybe vevő vagy igénybe venni szándékozó személy (a továbbiakban: panaszos) panasszal élhet a vasúti igazgatási szervnél, ha álláspontja szerint a vasúti társaság megsértette a 79/A. § (1) bekezdésében meghatározott valamely rendelkezést. E panasz akkor terjeszthető elő, ha a panaszos a vasúti társaság panaszkezelési eljárását igénybe vette, de az nem vezetett a panaszos számára kielégítő eredményre. Panaszt benyújtani a vasúti társaság panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított 30 napon belül lehet. E határidőn túl a vasúti igazgatási szervhez benyújtott panaszokat a vasúti igazgatási szerv érdemi vizsgálat nélkül elutasítja. A vasúti társaság panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot a vasúti igazgatási szerv részére a panasz mellékleteként be kell nyújtani. Ennek hiányában a vasúti igazgatási szerv hiánypótlási felhívást bocsát ki.
-
-(2) Panasz olyan beadvány benyújtásával tehető, amely tartalmazza a panaszos és a panaszolt vasúti társaság azonosításához szükséges adatokat, a feltételezett jogsértés megjelölését, a feltételezett jogsértést megvalósító konkrét magatartás leírását, a feltételezett jogsértéssel kapcsolatos állításokat alátámasztó tényeket és bizonyítékokat. A vasúti igazgatási szerv a bejelentésnek minősülő beadványok megtételének elősegítése érdekében honlapján is közzéteszi a panasz megtételére szolgáló űrlapot.
-
-(3) Ha a panaszban foglaltakkal kapcsolatban a vasúti igazgatási szerv eljárásra nem jogosult, köteles a panaszt a hatáskörrel és illetékességgel rendelkező szerv részére áttenni, és erről a panaszost értesíteni.
-
-(4) A vasúti igazgatási szerv a panaszost, az érintett vasúti társaságot és az érintett harmadik felet meghallgathatja, valamint tőlük további felvilágosítást és információt kérhet.
-
-(5) A korábbival azonos tartalmú, ugyanazon panaszos által tett ismételt, továbbá a névtelen panasz vizsgálata mellőzhető.
-
-(6) A panasz alapján – ha az alaposnak bizonyul – a vasúti igazgatási szerv dönt a szükséges hatósági lépések megtételéről, s erről a panaszost tájékoztatja.
+#### 79/A–79/B. §
 
 ### A KÖZLEKEDÉSI HATÓSÁG FELADATAI
 
@@ -1936,7 +1611,7 @@ a kihirdetést követő 45. napon lép hatályba.
 
 (2) E törvény hatálybalépését megelőzően az országos közforgalmú vasúti pályát igénybevevő vasúti társaság működéséhez, valamit a vasúti személyszállításhoz és a vasúti árufuvarozáshoz kiadott hatósági engedélyek a bennük megjelölt időpontig, de legkésőbb 2007. június 30-áig jogosítanak a tevékenység folytatására.
 
-(3) A vasúti társaságok egymással kötött, az utazási kedvezményekre vonatkozó megállapodásai alapján a jelen törvény hatálybalépése előtt megszerzett kedvezmények a kedvezményezetteket e törvény hatálybalépése után is megilletik.
+(3)
 
 (4) A külön jogszabályban meghatározott vasúti üzemi létesítményeket magában foglaló záhonyi körzetben a vasúti pályahálózathoz tartozó átrakó és rendező pályaudvarok működtetését a Magyar Állam vagy a Magyar Állam kizárólagos tulajdonában lévő gazdasági társaság legalább többségi tulajdonában lévő gazdasági társaság látja el. E gazdasági társaság vonatkozásában a 3. § (2) bekezdésének d) pontjában és 14. § (1) bekezdésében foglaltakat nem kell alkalmazni.
 
@@ -1950,11 +1625,7 @@ a kihirdetést követő 45. napon lép hatályba.
 
 (9) A közlekedési hatóság a vasúti pályahálózat működtetője engedélyének kiadásakor kérelemre eltekinthet a vasúti pályahálózat részét képező egyes hálózati elemek használatbavételi engedélyének benyújtásától, ha a kérelmező valószínűsíti, hogy az adott hálózati elemet ténylegesen legalább 15 éve működteti. A közlekedési hatóság a kérelmezőt az engedélyben kötelezi, hogy az érintett hálózati elemek műszaki alkalmasságát igazoló dokumentációt és állapotfelmérést legkésőbb 2009. december 31-éig nyújtsa be a közlekedési hatóság részére. E határidő elteltét követően a közlekedési hatóság az engedélynek a 34. § (2) bekezdésének b) pontja szerinti részét az érintett hálózati elemek vonatkozásában hivatalból felülvizsgálja.
 
-(10) A belső szolgáltató a helyi közlekedés ellátásáért felelős illetékességi területén kívül a helyi járattal közigazgatási határon kívül végzett személyszállítást, valamint más önkormányzatok területén végzett személyszállítást a vasúti személyszállítási közszolgáltatási szerződés belső szolgáltatóként történt közvetlen odaítélését követő 1 évig tarthatja fenn.
-
-(11) A 2009. december 3-át megelőzően megkötött vasúti személyszállítási közszolgáltatási szerződések az azokban rögzített határidő leteltéig hatályban maradnak azzal, hogy módosításuk során az 1370/2007/EK rendelet rendelkezéseit figyelembe kell venni.
-
-(12) Az egyenlő esélyű hozzáférés feltételeit a közforgalmú menetrend alapján végzett személyszállításban részt vevő vasúti járműveken, továbbá a pályaudvar, a vasútállomás és a megállóhely személyforgalom lebonyolítására és kiszolgálására szolgáló részében fokozatosan, de legkésőbb 2013. január 1-jéig meg kell teremteni.
+(10)–(12)
 
 (13) Amennyiben a 32/A. § szerinti biztonsági szervezet feladatait a vasúti társaság a biztonságirányítási rendszerben látja el, a vasútbiztonsági engedély, vasútbiztonsági tanúsítvány módosítása iránti kérelmét 2012. január 31-éig nyújtja be a közlekedési hatóságnak. A vasútbiztonsági engedély, vasútbiztonsági tanúsítvány kizárólag erre irányuló módosítása kapcsán fizetendő igazgatási szolgáltatási díj a vasútbiztonsági engedély, vasútbiztonsági tanúsítvány kiadása hatósági díjának 40%-a.
 
@@ -1964,12 +1635,12 @@ a kihirdetést követő 45. napon lép hatályba.
 
 - a) a vasúti közlekedési hatóság vagy hatóságok, valamint a vasúti igazgatási szerv vagy szervek kijelölését, eljárásuk részletes szabályait,
 - b) a vasúti közlekedés területén a kötelező kárfedezet biztosításának részletes szabályait,
-- c) a vasúti piacfelügyeleti bírság legmagasabb mértékére, a vasúti bírság mértékére, valamint a 79/A. § (3) bekezdésének c) pontjában meghatározott bírság mértékére, továbbá a megfizetésükre vonatkozó részletes szabályokat,
+- c) a vasúti piacfelügyeleti bírság legmagasabb mértékére, a vasúti bírság mértékére,, továbbá a megfizetésükre vonatkozó részletes szabályokat,
 - d) a vasúti árufuvarozási szerződésre vonatkozó részletes szabályokat,
 - e) a kapacitáselosztás körébe tartozó szolgáltatások nyújtására vonatkozóan a VPSZ és a nem független vasúti pályahálózat-működtető között fennálló jogviszony feltételeit, ideértve az e szolgáltatások ellenértékeként a nem független vasúti pályahálózat-működtető által fizetendő megbízási díj mértékét,
 - f) a vasúti vizsgaközpont kijelölését,
 - g) a jogszabályban meghatározott vasúti munkaköröket betöltő munkavállalókkal szemben támasztott egészségügyi követelményeket és az egészségügyi vizsgálat feltételeit, valamint az egészségi alkalmasság megállapítását végző hatóság vagy hatóságok kijelölését, az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának részletes szabályait,
-- h) a vasúti személyszállításnak az 1371/2007/EK rendeletben nem szabályozott részletes feltételeit, a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó részletes szabályokat, valamint a vasúti társaság közforgalmú személyszállítási szolgáltatásokra vonatkozó minőségbiztosítási rendszerével kapcsolatos szabályokat
+- h)
 - h)
 - i) az e törvény szerinti szakértői tevékenység folytatásának a részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - j) az EUROFIMA Európai Vasúti Gördülőállomány-finanszírozási Társaság által nyújtott gördülőállomány-finanszírozás esetében az állami kezességre vonatkozó részletes szabályokat,
@@ -1978,7 +1649,7 @@ a kihirdetést követő 45. napon lép hatályba.
 - m) a vasúti társaság indokoltnak elismert és az állam által meg nem térített költségei finanszírozására felvett hitel esetében az állami kezességre vonatkozó részletes szabályokat
 - n) a hivatásos katasztrófavédelmi szervek által lefolytatott eljárások során a veszélyes áruk vasúti szállításának ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az egyes szabálytalanságokért kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
 - o) a vasúti közlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályait,
-- p) az 5. § (1) bekezdés f) pontjában, a 21/C. §-ban, a 27/H. § (1) bekezdés e)–g) pontjában és a 27/H.§ (4), (6) és (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, a központi adatbázisok és az azokhoz kapcsolódó központi szolgáltatások kialakításával, működtetésével, fejlesztésével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, továbbá a központi adatbázisok működtetésére és a központi koordinációs feladatok ellátását végző szervezet kijelölését
+- p)
 
 rendeletben állapítsa meg.
 
@@ -1999,21 +1670,20 @@ rendeletben állapítsa meg.
 - 13. a vasúti járművek, a vasúti járművekre szerelt, vasútüzemi célt szolgáló nyomástartó edények és kazánok gyártását, javítását, minősítését, valamint hatósági műszaki vizsgálatát végző személyek, illetve szervezetek működési feltételeit,
 - 14. a számviteli elválasztásnak és az önálló belső mérlegkészítésnek a szabályait az államháztartásért felelős miniszter egyetértésével kiadott,
 - 15. a különleges vasutak működésének és hatósági engedélyezésének a feltételeit,
-- 16. a közforgalmú menetrend készítésének szabályait,
+- 16.
 - 17. a teljesítményösztönző rendszerre vonatkozó részletes szabályokat,
-- 18. a 68. § (2) bekezdése szerinti utazási kedvezmény mértékét és igénybevételének feltételeit,
+- 18.
 - 19. a vasutak kölcsönös átjárhatóságának szabályait,
 - 20. a kölcsönös átjárhatóságot lehetővé tevő műszaki előírásokat (ÁME),
 - 21. a vasúti forgalom lebonyolítására és a hálózati forgalmi szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó szabályokat,
 - 22. a vasúti igazgatási szerv részére fizetendő felügyeleti díj megfizetésének módját és feltételeit,
 - 23. a vasúti járművek karbantartását, vizsgálatát végző személyek és vizsgahelyek engedélyezésére vonatkozó részletes szabályokat,
 - 24. a vasúti közlekedés biztonságára és a biztonsági szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó szabályokat,
-- 25. a vasúti személyszállítási közszolgáltatási szerződésben meghatározott ellentételezés fedezetének biztosítása érdekében a vasúti személyszállítási szolgáltatást nyújtó vasúti társaságokat terhelő kártalanítási kötelezettség megállapításának mérlegelési szempontjait az államháztartásért felelős miniszterrel egyetértésben,
+- 25.
 - 26. a vasúti járművezetői engedély és tanúsítvány kiadására, megszerzésére, és alkalmazására vonatkozó részletes szabályokat,
-- 27. a vasúti pályahálózathoz való nyílt hozzáférésnek az 53/C. § szerinti korlátozását,
+- 27.
 - 28. a vasúti pálya más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
-- 29. az egységes egyeztetési eljárásra vonatkozó részletes szabályokat,
-- 30. a Regionális Közlekedési Szakbizottság szervezetére és működésére vonatkozó szabályokat
+- 29–30.
 - 31. az átjárhatósági műszaki előírások keretében alkalmazandó megfelelőségértékelési, alkalmazhatósági és EK-hitelesítési eljárások moduljaira vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.

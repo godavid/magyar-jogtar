@@ -23,7 +23,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - i) elektronikus hírközlési szolgáltatás;
 - j) kulturális örökségvédelem;
 - k) természetvédelem;
-- l) vízgazdálkodás;
+- l) vízgazdálkodás, víziközmű-szolgáltatás;
 - m) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfásítás és közérdekű erdőtelepítés;
 - n) építésügyi korlátozások felszámolása;
 - o) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentősen korlátozó, vagy megszüntető közérdekű használati jogok, szolgalmak miatti hátrányok megszüntetése;

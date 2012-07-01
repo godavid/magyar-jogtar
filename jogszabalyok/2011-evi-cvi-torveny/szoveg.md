@@ -16,6 +16,8 @@ Az Országgyűlés az értékteremtő közfoglalkoztatás jogi kereteinek megter
 
 ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, közszolgálati vagy kormányzati szolgálati jogviszonyt.
 
+(2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
+
 (3) Közfoglalkoztató lehet:
 
 - a) helyi és nemzetiségi önkormányzat, valamint ezek jogi személyiséggel rendelkező társulása,
@@ -41,41 +43,85 @@ kerül sor,
 
 (4) Közfoglalkoztatottként az a természetes személy foglalkoztatható, aki
 
-- a) a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki tizenhatodik életévét nem töltötte be, valamint
+- a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki 16. életévét nem töltötte be, valamint
 - b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskereső, vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
 
 2. § (1) A közfoglalkoztatási jogviszonyra az Mt. szabályai alkalmazandók, a (2)–(5) bekezdésben meghatározott eltérésekkel.
 
 (2) Közfoglalkoztatási jogviszony csak határozott időre létesíthető. A határozott idő nem lehet hosszabb, mint a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződésben előírt időtartam.
 
+(2a) A közfoglalkoztatási jogviszony tartamát naptárilag vagy más alkalmas módon meg kell határozni.
+
+(2b) A közfoglalkoztatási jogviszony tekintetében próbaidő nem köthető ki.
+
 (3) A közfoglalkoztatási jogviszonyban a rendes munkaidő időtartama a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződésben előírt munkaidő lehet.
+
+(3a) A közfoglalkoztató köteles a közfoglalkoztatott részére fizetés nélküli szabadságot engedélyezni, ha a közfoglalkoztatott a közfoglalkoztatási jogviszony időtartama alatt, az 1. § (3) bekezdése hatálya alá nem tartozó munkáltatónál, legfeljebb 90 nap időtartamú határozott idejű munkaviszonyt létesít. A fizetés nélküli szabadság engedélyezésének feltétele, hogy a közfoglalkoztatott a határozott idejű munkaviszonyról szóló munkaszerződést a közfoglalkoztatónak bemutatja. Ez a rendelkezés nem alkalmazható, ha a közfoglalkoztató a közfoglalkoztatott számára közfoglalkoztatási jogviszony keretében a munkavégzéshez kapcsolódóan a képzés lehetőségét is biztosítja.
 
 (4) A közfoglalkoztatottat megillető munkabér összege megegyezik a teljesítményhez kötött tevékenységek kivételével a közfoglalkoztatási bérrel, a legalább középfokú iskolai végzettséget, szakképesítést igénylő munkakör betöltése esetén a közfoglalkoztatási garantált bérrel, azzal, hogy
 
 - a) a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér el kell, hogy érje a közfoglalkoztatott számára a közfoglalkoztatást közvetlenül megelőzően folyósított álláskeresési járadék, rehabilitációs ellátás, illetve a foglalkoztatást helyettesítő támogatás havi összegét, és
 - b) a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér összegét a közfoglalkoztatottat megillető munkabér csak többletteljesítés esetében haladhatja meg.
 
-(5) A közfoglalkoztatási jogviszony esetén az Mt. 193/P. §-ában foglaltakon túlmenően:
+(4a) A közfoglalkoztatottat megillető szabadság mértéke naptári évenként 20 munkanap.
 
-- a) az Mt. Második Részében foglalt munkáltatói jogok gyakorlásakor a közfoglalkoztatottakat a munkavállalókkal azonos jogok illetik meg, őket a munkavállalói létszámba be kell számítani,
-- b) az Mt. tizenhat éven aluli fiatal munkavállalóra vonatkozó 72. § (4)–(7) bekezdése nem alkalmazható,
-- c) külföldön történő munkavégzésre nem kerülhet sor, az Mt. 76/A. §-a nem alkalmazható,
-- d) az Mt. határozatlan időre szóló munkaszerződésre vonatkozó 79. § (1) bekezdése és a (4)–(7) bekezdése nem alkalmazható,
-- e) az Mt. pályázatra vonatkozó 80. §-a nem alkalmazható,
-- f) az Mt. 81. §-a nem alkalmazható,
-- g) az Mt. munkáltatói jogállásváltozásra vonatkozó 86. § d) pontja nem alkalmazható; a munkáltató jogállásváltozása a közfoglalkoztatási jogviszony fennállását nem érinti,
-- h) az Mt.-nek a működési bizonyítványra vonatkozó 99. §-a nem alkalmazható,
-- i) az Mt. 100. §-át azzal az eltéréssel kell alkalmazni, hogy a közfoglalkoztatott nem kérheti a jogviszonyba történő visszahelyezését,
-- j) az Mt.-nek a külföldi munkáltató munkavállalójára vonatkozó 106/A–106/B. §-a nem alkalmazható,
-- k) az Mt.-nek a munkavállaló által folytatott tanulmányokra vonatkozó 110–114. §-a nem alkalmazható,
-- l) az Mt.-nek a lakásépítés céljára biztosítandó fizetés nélküli szabadságra vonatkozó 140. §-a nem alkalmazható,
-- m) az Mt. 144. §-a nem alkalmazható,
-- n) az Mt. 153. §-át azzal az eltéréssel kell alkalmazni, hogy ha a foglalkoztató a közfoglalkoztatott számára a 3. §-ban meghatározott térítésmentes szállítást biztosít, utazási költségtérítés nem illeti meg,
-- o) az Mt.-nek a kétheti személyi alapbér kifizetésére vonatkozó 156. §-a nem alkalmazható,
-- p) az Mt.-nek az önkéntes kölcsönös biztosító pénztárbeli tagság támogatásával kapcsolatos 165/A. §-a nem alkalmazható,
-- q) az Mt. 193/H. § (8) bekezdése nem alkalmazható,
-- r) az Mt. 193/J. §-a nem alkalmazható, valamint
-- s) az Mt. 193/K. §-át azzal az eltéréssel kell alkalmazni, hogy a közfoglalkoztatási jogviszonyt a közfoglalkoztató csak a székhelye szerint illetékes munkaügyi központ előzetes hozzájárulásával szüntetheti meg.
+(4b) A közfoglalkoztatott részére, ha a jogviszonya év közben kezdődött vagy szűnt meg, a (4a) bekezdésben meghatározott szabadság arányos része jár.
+
+(4c) A közfoglalkoztatottat szabadsága tartamára a közfoglalkoztatási bér, illetve közfoglalkoztatási garantált bér, betegszabadsága tartamára a közfoglalkoztatási bér, illetve közfoglalkoztatási garantált bér 70%-a illeti meg.
+
+(4d) Teljesítménybérezés esetén a közfoglalkoztatottat
+
+- a) a szabadság tartamára a megelőző 4 hónap közfoglalkoztatási, illetve közfoglalkoztatási garantált bér átlaga,
+- b) a betegszabadság tartamára a megelőző 4 hónap közfoglalkoztatási, illetve közfoglalkoztatási garantált bér átlagának 70%-a
+
+illeti meg. Amennyiben a megelőző közfoglalkoztatás időtartama kevesebb 4 hónapnál, abban az esetben a (4c) bekezdés rendelkezéseit kell alkalmazni.”
+
+(4e) Részmunkaidős foglalkoztatás estén a közfoglalkoztatottat a szabadsága és a betegszabadsága tartamára a (4c) bekezdésben meghatározott bér időarányos része, teljesítménybérezés esetében a (4d) bekezdésben meghatározott bér időarányos része illeti meg.
+
+(5) A közfoglalkoztatási jogviszony esetén:
+
+- a) az Mt.
+  - aa) rendelkezésre állásra,
+  - ab) ügyeletre,
+  - ac) készenlétre,
+  - ad) állásidőre,
+  - ae) előlegnyújtásra,
+  - af) megszakítás nélküli munkarendre,
+  - ag) rendkívüli munkaidőre,
+  - ah) csoportos létszámcsökkentésre,
+  - ai) végkielégítésre,
+  - aj) szabadság kiadására,
+  - ak) távolléti díj számítására,
+  - al) kötelező legkisebb munkabérre, garantált bérminimumra,
+  - am) munkavállalói biztosítékra,
+  - an) munkakör megosztásra,
+  - ao) több munkáltató által létesített munkaviszonyra,
+  - ap) távmunkavégzésre,
+  - aq) bedolgozói munkaviszonyra,
+  - ar) egyszerűsített foglalkoztatásra vagy alkalmi munkára,
+  - as) vezető állású munkavállalóra, valamint
+  - at) cselekvőképtelen munkavállalóra
+
+vonatkozó szabályai nem alkalmazhatók,
+
+- b) az Mt. VI., IX., XVII. és XVIII. fejezete nem alkalmazható,
+- c) az Mt. 49. § (2) bekezdése nem alkalmazható,
+- d) az Mt. 55. § (1) bekezdés h) pontja nem alkalmazható,
+- e) az Mt. 64. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közfoglalkoztató a közfoglalkoztatási jogviszony megszüntetését köteles bejelenteni az illetékes munkaügyi központnak,
+- f) az Mt. 70. §-a nem alkalmazható,
+- g) az Mt. 79. § (2) bekezdése nem alkalmazható,
+- h) az Mt. 81. §-a, 82. § (3) és (4) bekezdése, továbbá 83. §-a és 84. §-a nem alkalmazható,
+- i) az Mt. munkaidő beosztásra vonatkozó 50. alcímének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy közfoglalkoztatási jogviszonyban kötetlen munkarend nem alkalmazható,
+- j) az Mt. 101. § (1) bekezdés f)–h) pontja nem alkalmazható, azzal, hogy vasárnapra rendes munkaidő társadalmi közszükségletet kielégítő szolgáltatás nyújtásához e napon szükséges munkavégzés esetén közfoglalkoztatott számára is beosztható,
+- k) az Mt. alapbér megállapítására vonatkozó 65. alcímének rendelkezései a 138. § (1)–(5) bekezdés kivételével nem alkalmazhatók,
+- l) az Mt. bérpótlékokra vonatkozó 66. alcímének szabadidőre vonatkozó rendelkezései nem alkalmazhatók,
+- m) az Mt. 146. § (1) és (2) bekezdése nem alkalmazható,
+- n) az Mt. munkabér védelmére vonatkozó 70. alcímének rendelkezései a 158–164. § kivételével nem alkalmazhatók,
+- o) az Mt. 169. § (2) bekezdése nem alkalmazható,
+- p) az Mt. 214. § (2) bekezdése nem alkalmazható,
+- q) az Mt. 215. §-a nem alkalmazható,
+- r) az Mt. 216. § (4) bekezdése nem alkalmazható, továbbá
+- s) az Mt. 220. §-a nem alkalmazható.
 
 3. § (1) A közfoglalkoztató a közfoglalkoztatott részére az alábbiakat köteles biztosítani:
 
@@ -229,7 +275,7 @@ kerül sor,
 
 ### Záró rendelkezések
 
-53. § Felhatalmazást kap a Kormány, hogy a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér mértékét rendeletben állapítsa meg.
+53. § Felhatalmazást kap a Kormány, hogy a közfoglalkoztatási bér és a közfoglalkoztatási garantált bér mértékét, valamint a közhasznú kölcsönzés feltételeit rendeletben állapítsa meg.
 
 54. § (1) E törvény – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
 
@@ -237,7 +283,7 @@ kerül sor,
 
 (3) A 20. §, a 22–24. §, a 28. § (4) bekezdése, a 30. §, a 40. §, valamint az 58. § (2) bekezdése 2012. január 1-jén lép hatályba.”
 
-55. § E törvény nem érinti a hatálybalépését megelőzően közfoglalkoztatásra létesített munkaviszony fennállását. Az e törvény hatálybalépését megelőzően közfoglalkoztatás céljából létrejött munkaviszonyokra a 2011. augusztus 31-én hatályos szabályok vonatkoznak.
+55. § A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény 2–18. §-át a közfoglalkoztatási jogviszony tekintetében is megfelelően alkalmazni kell.
 
 #### 56. §
 

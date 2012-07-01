@@ -28,7 +28,32 @@ a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelmé
 
 #### 3. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-19–21. §
+19. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 63. §-a a következő (1) és (4) bekezdéssel egészül ki, továbbá a § (2)–(3) bekezdései helyébe a következő rendelkezés lép:
+
+„(1) A műemléken végzett építési tevékenységek esetén az építésügyi hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
+
+(2) A hatóság jogszabályban meghatározott esetekben az (1) bekezdésben említett engedélyezési eljárásokban szakhatóságként jár el.
+
+(3) A hatóság engedélyezi az építésügyi hatósági vagy más hatósági engedélyhez nem kötött – jogszabályban meghatározott – tevékenységeket.
+
+(4) Műemlékvédelmi érdekből a hatóság a (3) bekezdés szerinti körben a műemlék felújítási, helyreállítási munkáinak engedélyezése során az országos építésügyi szabályoktól és a kötelezően alkalmazandó nemzeti szabványoktól eltérhet. Az eltérés akkor engedélyezhető, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel vagy az más módon biztosítható.”
+
+20. § A Kötv. 67. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A védett kulturális örökségi elemmel összefüggő, a 63. § (3) bekezdésében meghatározott tevékenységek vonatkozásában a hatóság:
+
+a) az örökségvédelem szabályainak megsértése esetén műemlékek, régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését,
+
+b) műemlékek, régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani,
+
+c) elrendelheti a műemlékek jó karbantartására vonatkozó kötelezettség teljesítését.”
+
+21. § (1) A Kötv. 68. § (1) bekezdésében az „A hatóság kulturális örökségvédelmi érdekből elrendelheti:” szövegrész helyébe az „A hatóság a 63. § (3) bekezdésben meghatározott tevékenységek vonatkozásában kulturális örökségvédelmi érdekből elrendelheti:” szöveg lép.
+
+(2) Hatályát veszti a Kötv.
+
+- a) 75. § (3) bekezdés a) pontjában az „építésügyi hatósági jogkörben, továbbá” szövegrész,
+- b) 82. § (1) bekezdésének második mondata.
 
 #### 4. Záró rendelkezések
 
@@ -42,4 +67,4 @@ a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelmé
 
 (5) E törvény 18. §-a 2013. január 1-jén lép hatályba.
 
-23. § Nem lép hatályba a kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosításáról szóló 2012. évi XL. törvény 6. és 8. §-a.
+23. §

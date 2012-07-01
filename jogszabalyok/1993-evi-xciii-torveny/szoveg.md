@@ -24,7 +24,7 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 
 4. § Az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó szabályokat úgy kell meghatározni, hogy végrehajtásuk megfelelő védelmet nyújtson a munkavállalókon túlmenően a munkavégzés hatókörében tartózkodónak és a szolgáltatást igénybe vevőnek is. A munkaeszközöket úgy kell kialakítani, hogy lehetőleg zárják ki a nem szervezett munkavégzés keretében történő rendeltetésszerű használat esetén is a balesetet, az egészségkárosodást.
 
-5. § E törvény biztosítja a munkavédelemmel kapcsolatos érdekegyeztetést, valamint a munkavállalók munkavédelmi érdekvédelmét, meghatározva a munkavédelmi képviselők jogait és kötelezettségeit, nem érintve a munkavállalói érdekképviseleteknek más jogszabályban — így különösen a Munka Törvénykönyvében, a közszolgálati tisztviselőkről, illetve a közalkalmazottak jogállásáról szóló törvényekben — szabályozott, munkavédelemmel kapcsolatos jogait.
+5. § E törvény biztosítja a munkavédelemmel kapcsolatos érdekegyeztetést, valamint a munkavállalók munkavédelmi érdekvédelmét, meghatározva a munkavédelmi képviselők jogait és kötelezettségeit, nem érintve a munkavállalói érdekképviseleteknek más jogszabályban — így különösen a munka törvénykönyvéről szóló 2012. évi I. törvényben (a továbbiakban : Mt.), a közszolgálati tisztviselőkről, illetve a közalkalmazottak jogállásáról szóló törvényekben — szabályozott, munkavédelemmel kapcsolatos jogait.
 
 6. § A munkáltatóknak és a munkavállalóknak, valamint az állami szerveknek e törvényben és a munkavédelemre vonatkozó más szabályokban meghatározott jogok gyakorlása és kötelezettségek teljesítése során együtt kell működniük.
 
@@ -262,6 +262,10 @@ Az olyan járművekre, amelyek a közforgalomban nem vesznek részt, a járműve
 
 (2) A tevékenység szerinti miniszter meghatározott munkakörök (foglalkozások) tekintetében előírhatja, hogy az (1) bekezdésben foglaltakon túl pályaalkalmassági vizsgálat is szükséges, továbbá a vizsgálat rendjét az egészségügyért felelős miniszterrel egyetértésben határozza meg.
 
+(3) A munkarendje szerint rendszeresen vagy az éves munkaidejének legalább egynegyedében éjszakai munkát (Mt. 89. §) végző munkavállaló részére a munkáltató a munkába lépést megelőzően, illetve a munkaviszony fennállása alatt a munkaviszonyra vonatkozó szabályban előírt időszakonként köteles biztosítani az orvosi alkalmassági vizsgálatot.
+
+(4) A munkavállalót nappali munkavégzésre kell beosztani, ha az orvosi vizsgálat megállapítja, hogy az éjszakai munkavégzés a (3) bekezdésben említett munkavállaló egészségi állapotát veszélyezteti, vagy megbetegedése az éjszakai munkavégzéssel áll okozati összefüggésben.
+
 50. § A munkavállaló csak olyan munkával bízható meg, amelynek ellátására egészségileg alkalmas, rendelkezik az egészséget nem veszélyeztető és biztonságos munkavégzéshez szükséges ismeretekkel, készséggel és jártassággal.
 
 50/A. § A sérülékeny csoportba tartozó munkavállalókat a külön jogszabályban foglaltak szerint óvni kell az őket különösen érintő egészségkárosító kockázatoktól.
@@ -457,14 +461,14 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 70/A. § (1) A munkavállalók az egészséget nem veszélyeztető és biztonságos munkavégzéssel összefüggő jogaik és érdekeik képviseletére jogosultak maguk közül – a következők szerint – képviselőt vagy képviselőket (a továbbiakban: munkavédelmi képviselő) választani:
 
-- a) munkavédelmi képviselő választást kell tartani minden olyan munkáltatónál, ahol a Munka Törvénykönyve hatálya alá tartozó munkavállalók létszáma legalább ötven fő. A választás megtartásának lebonyolítása, a feltételek biztosítása a munkáltató kötelezettsége;
+- a) munkavédelmi képviselő választást kell tartani minden olyan munkáltatónál, ahol az Mt. hatálya alá tartozó munkavállalók létszáma legalább ötven fő. A választás megtartásának lebonyolítása, a feltételek biztosítása a munkáltató kötelezettsége;
 - b) amennyiben az ötven főnél kevesebb munkavállalót foglalkoztató munkáltatónál a munkavédelmi képviselő választást a munkáltatónál működő szakszervezet, üzemi tanács vagy ezek hiányában a munkavállalók többsége kezdeményezi, a választás megtartásával kapcsolatos, a) pontban meghatározott kötelezettség a munkáltatót terheli;
 - c) az ötven főnél kevesebb munkavállalót foglalkoztató munkáltatónál – amennyiben nem kerül sor munkavédelmi képviselő választásra – a munkáltatónak a 70. §-ban meghatározottak szerint kell a munkavállalókkal tanácskoznia;
 - d) a munkáltató önálló telephelyén, részlegénél akkor lehet munkavédelmi képviselőt választani, ha az 54–56. §-okban meghatározott munkáltatói munkavédelmi jogosítványok az önálló telephely, részleg vezetőjét részben vagy egészben megilletik.
 
 (2) Munkavédelmi képviselővé az a cselekvőképes munkavállaló választható, aki legalább 6 hónapja a munkáltatóval szervezett munkavégzésre irányuló jogviszonyban áll. Az újonnan alakult munkáltatónál a munkavédelmi képviselő ilyen jogviszonya időtartamát feltételként nem kell figyelembe venni.
 
-(3) A munkavédelmi képviselőt egyenlő, titkos és közvetlen szavazással öt évre választják. A megválasztott munkavédelmi képviselők személyéről a munkavállalókat tájékoztatni kell. A munkavédelmi képviselők megválasztásának, megbízatása megszűnésének, visszahívásának rendjére, működési területére a Munka Törvénykönyvéről szóló 1992. évi XXII. törvénynek (a továbbiakban: Mt.) az üzemi tanács tagjaira, illetve az üzemi megbízottra vonatkozó rendelkezéseit kell megfelelően alkalmazni, ideértve a központi munkavédelmi bizottság megalakításának lehetőségét is.
+(3) A munkavédelmi képviselőt egyenlő, titkos és közvetlen szavazással öt évre választják. A megválasztott munkavédelmi képviselők személyéről a munkavállalókat tájékoztatni kell. A munkavédelmi képviselők megválasztásának, megbízatása megszűnésének, visszahívásának rendjére, működési területére az Mt.-nek az üzemi tanács tagjaira, illetve az üzemi megbízottra vonatkozó rendelkezéseit kell megfelelően alkalmazni, ideértve a központi munkavédelmi bizottság megalakításának lehetőségét is.
 
 (4) Amennyiben a munkavédelmi képviselők száma eléri a hármat, úgy munkahelyi munkavédelmi bizottságot (a továbbiakban: bizottság) hozhatnak létre. Bizottság létrehozása esetén a munkavédelmi képviselőt megillető jogokat — ha azok a munkavállalók összességét érintik — a bizottság gyakorolja.
 
@@ -518,7 +522,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (2) Amennyiben a kezdeményezéssel a munkáltató nem ért egyet, álláspontjának indokait — kivéve az azonnali intézkedést követelő esetben — írásban köteles közölni.
 
-74. § A munkavédelmi képviselő (bizottság) munkahelyi munkavédelmi program elkészítésére tehet javaslatot a munkáltató részére. Amennyiben a foglalkoztatáspolitikáért felelős miniszter rendeletében meghatározott munkáltató ezzel nem ért egyet, a munkavédelmi képviselő (bizottság) a Munka Törvénykönyvében szabályozott kollektív munkaügyi vitát kezdeményezhet.
+74. § A munkavédelmi képviselő (bizottság) munkahelyi munkavédelmi program elkészítésére tehet javaslatot a munkáltató részére. Amennyiben a foglalkoztatáspolitikáért felelős miniszter rendeletében meghatározott munkáltató ezzel nem ért egyet, a munkavédelmi képviselő (bizottság) az Mt.-ben szabályozott kollektív munkaügyi vitát kezdeményezhet.
 
 75. § (1) A munkáltatónak biztosítania kell a feltételeket annak érdekében, hogy a munkavédelmi képviselő a jogait gyakorolhassa, így különösen
 
@@ -613,7 +617,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (6) Az (1) bekezdés alapján kiszabott pénzbírságot a munkavédelmi hatóság kincstári előirányzat-felhasználási keretszámlájára kell befizetni.
 
-82/A. § A Munka Törvénykönyve 106/A. §-ában meghatározott, a munkavédelemre vonatkozó szabályok betartásának ellenőrzése céljából tartott vizsgálatok tapasztalatairól a munkavédelmi hatóság beszámolót készít a foglalkoztatáspolitikáért felelős miniszter számára. A tájékoztatásban foglalt megállapításokra az e törvény 14. §-ának (1) bekezdése e) pontjában meghatározott jelentésnek ki kell terjednie.
+82/A. § A Mt. 295. § (1) bekezdés e) pontjában meghatározott, a munkavédelemre vonatkozó szabályok betartásának ellenőrzése céljából tartott vizsgálatok tapasztalatairól a munkavédelmi hatóság beszámolót készít a foglalkoztatáspolitikáért felelős miniszter számára. A tájékoztatásban foglalt megállapításokra az e törvény 14. §-ának (1) bekezdése e) pontjában meghatározott jelentésnek ki kell terjednie.
 
 82/B. § A munkavédelmi hatósági eljárásban – a 83. § szerinti engedélyezés kivételével – az ügyfél nem jogosult elektronikus úton kapcsolatot tartani a hatósággal.
 
@@ -651,15 +655,21 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 - a) a munkáltató nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy munkáltató nevét, lakcímét, adóazonosító jelét;
 - b) a jogsértést megállapító határozat keltét és számát;
 - c) a jogsértés megjelölését, valamint megállapítása jogerőre emelkedésének és végrehajthatóvá válásának időpontját;
-- d) a munkavédelmi bírság tényét és mértékét.
+- d) a munkavédelmi bírság tényét és mértékét;
+- e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság milyen döntést hozott.
 
 (3) A hatósági nyilvántartás adatait a munkavédelmi hatóság informatikai rendszerében kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a munkavédelmi hatóság által történik a jogsértést megállapító határozat jogerősítésének napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatának jogerőre emelkedésének napján.
 
 (4) A munkavédelmi hatóság a nyilvántartásban szereplő adatokat a bejegyzés alapjául szolgáló határozat meghozatalától számított két év elteltével törli.
 
-(5) A munkavédelmi hatóság az általa vezetett nyilvántartás adatai alapján a munkavédelmi jogsértést elkövető munkáltatók nevét, székhelyét, adószámát, a munkavédelmi bírsággal sújtott jogsértés megnevezését és a bírság mértékét, valamint a jogsértést megállapító határozat keltének és végrehajthatóvá válásának napját a honlapján történő közzététel útján nyilvánosságra hozza.
+(5) A munkavédelmi hatóság az általa vezetett nyilvántartás adatai alapján a munkavédelmi bírsággal sújtott jogsértést elkövető munkáltatók nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy munkáltató nevét, lakcímét, adóazonosító jelét, a munkavédelmi bírsággal sújtott jogsértés megjelölését és a bírság mértékét, a jogsértést megállapító határozat keltét és számát, valamint a jogsértést megállapító határozat jogerőre emelkedésének és végrehajthatóvá válásának napját a honlapján történő közzététel útján nyilvánosságra hozza. A közigazgatási határozat bírósági felülvizsgálata esetén a (2) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján szintén nyilvánosságra hozza.
 
 (6) A munkavédelmi hatóság (2) bekezdésben foglalt nyilvántartásba vételi kötelezettségét és (5) bekezdésben foglalt közzétételi kötelezettségét nem érinti, ha a munkáltató a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
+
+(7) Ha a munkavédelmi hatóság tudomására jutott, hogy határozatának bírósági felülvizsgálata iránt keresetet indítottak,
+
+- a) a (2) bekezdésben foglalt adatokat a bíróság jogerős és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé,
+- b) – ha az (5) bekezdés szerinti adatok nyilvánosságra hozatalára már sor került – intézkedik a honlapon nyilvánosságra hozott adatok törléséről.
 
 83/C. § (1) A munkavédelmi hatóság a hatósági eljárás lefolytatásához szükséges okból és mértékben megismerheti és kezelheti az érintett munkavállalók – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott – egészségügyi adatait, betekinthet a munkavállaló hatósági eljárás lefolytatásával kapcsolatos irataiba, kérheti azok bemutatását, azokról másolatot készíthet, továbbá a munkáltatót, illetve a munkavállalót adatközlésre hívhatja fel.
 

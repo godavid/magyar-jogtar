@@ -230,7 +230,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (9) A (8) bekezdésben foglaltaktól eltérően a munkáltató szüneteltetheti a munkáltatói hozzájárulás fizetését azon időszakokra, amikor a tag munkaviszonya szünetel, illetve munkabér a részére nem jár. Ennek feltételeit a munkáltatónak valamennyi pénztártag munkavállalójára nézve azonos módon kell meghatároznia.
 
-(10) Nem kell alkalmazni a (2)–(4) bekezdés rendelkezéseit abban az esetben, ha a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 193/H. § (10) bekezdés rendelkezései alapján a munkáltatói hozzájárulás fizetésére a kölcsönbeadó a kölcsönvevőnél fennálló feltételek szerint kötelezett.
+(10) Munkaerő-kölcsönzés esetén a munkáltatói hozzájárulás fizetésére – a (2)–(4) bekezdésben foglaltakat figyelembe véve – a kölcsönbeadó a kölcsönvevőnél fennálló feltételek szerint kötelezett. E rendelkezést csak a kölcsönvevőnél történő foglalkoztatás száznyolcvannegyedik napjától kell alkalmazni arra a munkavállalóra, aki a kölcsönbeadóval munkaerő-kölcsönzés céljából létesített határozatlan idejű munkaviszonyban áll, és kölcsönvevőnél történő foglalkoztatás hiányában is díjazásban részesül.
 
 13. § (1) A pénztártag az általa vállalt tagdíj összegét a pénztárnak az alapszabályban előírt módon bejelenti, és fizetési kötelezettségének határidőre eleget tesz. A tagdíj összege az egységes tagdíjnál kevesebb nem lehet.
 
@@ -509,7 +509,7 @@ képviseli.
 
 ### Az ügyvezető feladata és hatásköre
 
-28. § (1) A pénztár ügyvezetője (helyettes ügyvezetője) a pénztárral munkaviszonyban álló személy lehet. Az ügyvezető munkaviszonyára az e törvényben foglalt eltérésekkel a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény rendelkezéseit kell alkalmazni.
+28. § (1) A pénztár ügyvezetője (helyettes ügyvezetője) a pénztárral munkaviszonyban álló személy lehet. Az ügyvezető munkaviszonyára az e törvényben foglalt eltérésekkel a munka törvénykönyvéről szóló 2012. évi I. törvény rendelkezéseit kell alkalmazni.
 
 (2) Ügyvezetőként (helyettes ügyvezetőként) az alkalmazható, aki
 

@@ -87,7 +87,7 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 
 (3) A tagok (részvényesek) a társasági szerződésben (alapszabályban, alapító okiratban) előírhatják a tagsági jogok elektronikus hírközlő eszközök igénybevételével történő gyakorlásának módját és feltételeit. Tilos ezen eszközök oly módon történő alkalmazása, amely a tagok (részvényesek) egy része számára a joggyakorlást megnehezítené vagy ellehetetlenítené.
 
-8. § (1) A gazdasági társaságnál foglalkoztatott munkavállalók jogaira és kötelezettségeire, valamint a munkaügyi kapcsolatokra a Munka Törvénykönyve rendelkezéseit kell alkalmazni.
+8. § (1)
 
 (2) A gazdasági társaság vezető állású munkavállalónak minősülő alkalmazottai feladatkörükben a társaság érdekeinek elsődlegessége alapján kötelesek eljárni.
 
@@ -311,9 +311,7 @@ kell alkalmazni.
 
 (3) A tagok (részvényesek) (2) bekezdés szerinti joggyakorlásának rendeltetésszerűnek kell lennie és nem sértheti a gazdasági társaság méltányos üzleti érdekeit, illetve üzleti titkait.
 
-28. § (1) A gazdasági társaság munkavállalóival szemben a munkáltatói jogokat – ha a társasági szerződés eltérően nem rendelkezik – a vezető tisztségviselő gyakorolja. Ha a társaságnál ügyvezető testület működik, a társasági szerződésben, a társasági szerződés ilyen rendelkezése hiányában pedig az ügyvezető testület ügyrendjében kell rendelkezni a munkáltatói jogok gyakorlásának a testület tagjai közti megosztásáról.
-
-(2) A társasági szerződés vagy a társaság legfőbb szervének határozata a munkáltatói jogok gyakorlását több vezető tisztségviselő esetében az egyik vezető tisztségviselőre, illetve más, a gazdasági társasággal munkaviszonyban álló személyre ruházhatja át.
+28. §
 
 29. § (1) A gazdasági társaságot törvényes képviselőként a vezető tisztségviselők képviselik harmadik személyekkel szemben, valamint bíróságok és más hatóságok előtt. A vezető tisztségviselők törvényen alapuló szervezeti képviseleti jogát a társasági szerződés korlátozhatja, illetve több vezető tisztségviselő között megoszthatja. A képviseleti jog korlátozása, illetve megosztása harmadik személyekkel szemben nem hatályos.
 
@@ -405,13 +403,13 @@ kell alkalmazni.
 
 (4) A felügyelőbizottságban részt vevő munkavállalói küldött – az üzleti titok körén kívül – tájékoztatni köteles az üzemi tanácson keresztül a munkavállalók közösségét a felügyelőbizottság tevékenységéről.
 
-39. § (1) A munkavállalói képviselőket a felügyelőbizottságba az üzemi tanács jelöli a munkavállalók sorából, a gazdasági társaságnál működő szakszervezetek véleményének meghallgatása után.
+39. § (1) A munkavállalói küldöttet – a munkavállalók közül, a gazdasági társaságnál képviselettel rendelkező szakszervezet véleményének meghallgatása után – az üzemi tanács jelöli.
 
 (2) Az üzemi tanács által jelölt személyeket a gazdasági társaság legfőbb szerve köteles a jelölést követő első ülésén a felügyelőbizottság tagjává választani, kivéve, ha a jelöltekkel szemben törvényben foglalt kizáró ok áll fenn. Ebben az esetben újabb jelölést kell kérni.
 
 (3) A felügyelőbizottságban a munkavállalói küldötteket a többi taggal azonos jogok illetik meg, és azonos kötelezettségek terhelik. Ha a munkavállalói küldöttek véleménye a felügyelőbizottság többségi álláspontjától egyhangúlag eltér, a munkavállalók kisebbségi álláspontját a gazdasági társaság legfőbb szervének ülésén ismertetni kell.
 
-(4) A munkavállalói küldöttet megilleti a Munka Törvénykönyve alapján az üzemi tanács tagját megillető munkajogi védelem.
+(4) A munkavállalói küldött munkajogi védelmére az Mt. 260. § (3)–(5) bekezdése megfelelően irányadó. Az egyetértési jogot a munkavállalói küldöttet jelölő üzemi tanács gyakorolja.
 
 (5) A munkavállalói küldött munkaviszonyának megszűnése esetén felügyelőbizottsági tagsága is megszűnik.
 
@@ -565,7 +563,7 @@ kell alkalmazni.
 - b) az uralmi szerződés tervezetét;
 - c) a hitelezőknek szóló felhívást, a (4) bekezdésben foglaltak szerint.
 
-(3) Az elismert vállalatcsoport előkészítésében részt vevő gazdasági társaságoknak elhatározásukról tájékoztatniuk kell a gazdasági társaságnál működő munkavállalói érdek-képviseleti szerveket, és azokkal konzultációt kell folytatniuk.
+(3) Az elismert vállalatcsoport előkészítésében résztvevő gazdasági társaságoknak elhatározásukról tájékoztatniuk kell a gazdasági társaságnál működő üzemi tanácsot és konzultációt kell vele folytatniuk.
 
 (4) Azok a hitelezők, akiknek az elismert vállalatcsoport előkészítésében részt vevő bármely gazdasági társasággal szemben fennálló, le nem járt követelése a döntés első közzétételét megelőzően keletkezett, követelésük erejéig a döntés második közzétételét követő harmincnapos jogvesztő határidőn belül biztosítékot követelhetnek. Nem jogosult biztosítékra a hitelező, ha azzal – jogszabály vagy szerződés alapján – már rendelkezik, vagy ha a gazdasági társaság pénzügyi, vagyoni helyzetére figyelemmel a biztosítékadás indokolatlan.
 
@@ -676,7 +674,7 @@ kell alkalmazni.
 
 (5) Az átalakulás során olyan társasági formát kell választani, amely esetében legalább a törvény által az adott társasági formára előírt legkisebb mértékű, vagy – ilyen törvényi előírás hiányában – a társaság által meghatározott jegyzett tőke követelményének a gazdasági társaság az átalakulással eleget tud tenni.
 
-70. § (1) Az átalakulással létrejövő gazdasági társaság az átalakult gazdasági társaság általános jogutódja. A jogutód gazdasági társaságot illetik meg a jogelőd gazdasági társaság jogai, és terhelik a jogelőd gazdasági társaság kötelezettségei, ideértve a munkavállalókkal kötött kollektív szerződésben foglalt kötelezettségeket is.
+70. § (1) Az átalakulással létrejövő gazdasági társaság az átalakult gazdasági társaság általános jogutódja. A jogutód gazdasági társaságot illetik meg a jogelőd gazdasági társaság jogai és terhelik a jogelőd gazdasági társaság kötelezettségei, ideértve a kollektív szerződésben foglalt jogokat és kötelezettségeket is.
 
 (2) Ha a gazdasági társaság által, hatósági engedély kiadása iránti kérelemre indított eljárás van folyamatban, a gazdasági társaság köteles az átalakulás elhatározását az engedélyt kiadó hatóságnak haladéktalanul bejelenteni.
 
@@ -736,7 +734,7 @@ kell alkalmazni.
 
 (6) A legfőbb szerv a gazdasági társaság átalakulásáról véglegesen döntő ülésén meghatározhatja azt – a Ctv. 57. §-ának (2) bekezdése szerinti feltételeknek megfelelő – időpontot, amikor az átalakuláshoz fűződő joghatások beállnak.
 
-75. § (1) Az átalakulás elhatározásáról tájékoztatni kell a gazdasági társaságnál működő munkavállalói érdek-képviseleti szerveket.
+75. § (1) Az átalakulás elhatározásáról tájékoztatni kell a gazdasági társaságnál működő üzemi tanácsot.
 
 (2) A gazdasági társaság a társasági szerződés aláírását követő nyolc napon belül köteles erről a Cégközlönynél közlemény közzétételét kezdeményezni, amelyet két egymást követő lapszámban kell közzétenni.
 
@@ -792,7 +790,7 @@ kell alkalmazni.
 
 (3) Az egyesülési szerződést az azt elfogadó legfőbb szervek felhatalmazása alapján az egyesülésben részt vevő gazdasági társaságok vezető tisztségviselői írják alá.
 
-(4) Az egyesülésről az egyesülési szerződés elfogadásától számított tizenöt napon belül tájékoztatni kell a gazdasági társaságoknál működő munkavállalói érdek-képviseleti szerveket.
+(4) Az egyesülésről az egyesülési szerződés elfogadásától számított tizenöt napon belül tájékoztatni kell a gazdasági társaságoknál működő üzemi tanácsot.
 
 (5) Az egyesüléssel érintett gazdasági társaságok az egyesülés valamennyi társaságnál megtörtént végleges elhatározása esetében, az utolsó döntés meghozatalától számított nyolc napon belül kötelesek erről a Cégközlönynél közlemény közzétételét kezdeményezni, amelyet két egymást követő lapszámban kell közzétenni. A közleményben a 75. § (3) bekezdésében foglaltakon kívül meg kell jelölni az egyesülés módját is. A közzététel kezdeményezésére az az egyesüléssel érintett társaság köteles, amelyet erre az egyesülő társaságok maguk közül kijelölnek.
 
@@ -836,7 +834,7 @@ kell alkalmazni.
 
 84. § (1) A 83. §-ban meghatározott tervezetek és okiratok javaslatainak elfogadásáról a szétváló társaság legfőbb szerve dönt, egyúttal megbízza a társaság vezető tisztségviselőit, hogy a szétválási szerződés és a jogutódok társasági szerződésének (társasági szerződés-módosításának) tervezetét a szükséghez képest dolgozzák át.
 
-(2) A szétválás elhatározásáról a szétválási szerződés megkötésétől számított tizenöt napon belül a szétváló gazdasági társaságnál működő munkavállalói érdek-képviseleti szerveket értesíteni kell.
+(2) A szétválás elhatározásáról a szétválási szerződés megkötésétől számított tizenöt napon belül a szétváló gazdasági társaságnál működő üzemi tanácsot értesíteni kell.
 
 (3) A szétválási szerződést a szétváló társaság tagjai, valamint a jogutódok tagjai (leendő tagjai) kötik meg egymással, és írják alá. A jogutód társasági szerződésének aláírására csak azok a tagok jogosultak, akik az adott jogutód tagjaivá válnak majd.
 
