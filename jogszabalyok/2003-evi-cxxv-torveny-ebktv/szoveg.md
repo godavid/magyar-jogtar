@@ -199,7 +199,7 @@ ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen
 - c) a foglalkoztatási jogviszony vagy a munkavégzésre irányuló egyéb jogviszony létesítésében és megszüntetésében;
 - d) a munkavégzést megelőzően vagy annak folyamán végzett képzéssel kapcsolatosan;
 - e) a munkafeltételek megállapításában és biztosításában;
-- f) a foglalkoztatási jogviszony vagy a munkavégzésre irányuló egyéb jogviszony alapján járó juttatások, így különösen a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 142/A. § (3) bekezdésében meghatározott munkabér megállapításában és biztosításában;
+- f) a foglalkoztatási jogviszony vagy a munkavégzésre irányuló egyéb jogviszony alapján járó juttatások, így különösen a munka törvénykönyvéről szóló 2012. évi I. törvény 12. § (2) bekezdésében meghatározott munkabér megállapításában és biztosításában;
 - g) a tagsággal vagy részvétellel kapcsolatban a munkavállalók szervezeteiben;
 - h) az előmeneteli rendszerben;
 - i) a kártérítési, illetve a fegyelmi felelősség érvényesítése során, valamint
@@ -501,7 +501,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló, továbbá nemz
 
 64. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság eljárására vonatkozó részletes szabályokat.
 
-64/A. § A 31. § (6) és (7) bekezdését a 2012. november 1-jét követően meghirdetett pályázatokra kell alkalmazni.
+64/A. § A 31. § (6) és (7) bekezdését 2013. július 1-jét követően kell alkalmazni.
 
 64/B. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 31. § (1) bekezdése szerinti helyi esélyegyenlőségi program elkészítésének szempontjait és eljárását, a helyi esélyegyenlőségi program felülvizsgálatának módját, és az elkészítésében részt vevőkkel szembeni követelményekre vonatkozó részletes szabályokat.
 

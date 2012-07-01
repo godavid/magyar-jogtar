@@ -173,13 +173,14 @@ a bírósági végrehajtásról
 - e) a Szellemi Tulajdon Nemzeti Hivatalának a költségek viselése tárgyában hozott döntését,
 - f) a károkozás helye szerint illetékes községi, városi, fővárosi kerületi jegyzőnek a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben meghatározott eljárásában hozott, a károsultnak és a kárért felelős személynek vadkár, vadászati kár vagy vadban okozott kár megtérítésére, valamint az általuk előlegezett eljárási költség viselésére vonatkozó egyezségét jóváhagyó határozatát.
 
-23. § (1) A bíróság végrehajtási záradékkal látja el a munkáltatónak a Munka Törvénykönyve alapján
+23. § (1) A bíróság végrehajtási záradékkal látja el a munkáltatónak
 
-- a) a munkavállalóhoz intézett olyan — keresettel meg nem támadott — írásbeli felszólítását, amely a munkavállaló részére jogalap nélkül kifizetett munkabérnek vagy a munkavállaló munkaviszonnyal összefüggő más tartozásának a megtérítésére irányul,
-- b) a munkavállalót kártérítésre kötelező — jogerős és végrehajtható — határozatát,
-- c) a munkavállalóval a békéltető eljárás során kötött egyezségét.
+- a) a munkavállalóval közölt és keresettel nem támadott fizetési felszólítását, továbbá
+- b) a munkavállalóval a békéltető eljárás (a munka törvénykönyvéről szóló 2012. évi I. törvény 288. §) során kötött egyezséget.
 
-(2) Az (1) bekezdésben említett írásbeli felszólítás, határozat és egyezség akkor látható el végrehajtási záradékkal, ha a tartozásnak a munkabérből való közvetlen levonására nincs lehetőség, illetőleg az nem vezetett vagy aránytalanul hosszú idő múlva vezetne eredményre.
+(2) Az (1) bekezdésben említett fizetési felszólítás vagy egyezség akkor látható el végrehajtási záradékkal, ha a tartozásnak a munkabérből való közvetlen levonására nincs lehetőség, vagy ez nem vezetett vagy aránytalanul hosszú idő múlva vezetne eredményre.
+
+(3) A bíróság akkor látja el végrehajtási záradékkal a fizetési felszólítást vagy egyezséget, ha az (1) és (2) bekezdésben foglalt feltételeket a munkáltató igazolta.
 
 23/A. § (1) Az ügyben eljárt fogyasztóvédelmi békéltető testület, illetve egészségügyi közvetítői tanács székhelye szerint illetékes helyi bíróság a tanács kötelező határozatát, továbbá az egészségügyi közvetítői tanács előtt kötött egyezséget – a feltételek megléte esetén – végrehajtási záradékkal látja el.
 
@@ -785,15 +786,11 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (3) Több letiltás esetén a levonás a munkavállalói munkabérnek legfeljebb 50%-áig terjedhet.
 
-(4) E § alkalmazása során a munkavállalói munkabérhez tartoznak a következő összegek is:
-
-- a) a munkáltató által a munkavállaló részére a betegszabadságának idejére kifizetett összeg,
-- b) a végkielégítés,
-- c) a jutalom.
+(4) Az (1)–(3) bekezdések alkalmazásában munkavállalói munkabérnek minősül a munkáltató által, a személyi jövedelemadóról szóló törvény szerinti béren kívüli juttatás kivételével minden olyan, a munkavállaló munkaviszonyára vagy annak megszüntetésére, megszűnésére tekintettel kifizetett pénzbeli juttatás, amelyet személyi jövedelemadó-előleg fizetési kötelezettség terhel a magánszemélynél.
 
 66. § A 65. § a következő járandóságok letiltása esetén is irányadó:
 
-- a) a közszolgálati és a közalkalmazotti jogviszony, továbbá a szolgálati viszony alapján járó illetmény,
+- a) a kormányzati szolgálati, közszolgálati és a közalkalmazotti jogviszony, továbbá a szolgálati viszony alapján járó illetmény,
 - b) a szövetkezeti tagot a munkaviszony jellegű jogviszony alapján megillető munkadíj,
 - c) az alkotó- és munkaközösségi tag jövedelme,
 - d) a tudományos továbbképzési ösztöndíjasnak a munkabér jellegű ösztöndíja,
@@ -1310,7 +1307,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (2) Az árverési hirdetményt az árverést megelőzően legalább 15 napon át és legalább az árverést megelőző 5. napig kell a hirdetőtáblán kifüggesztve tartani.
 
-(3) A végrehajtó az árverési hirdetmény kivonatát a kamara hivatalos lapjában közzéteszi. A kivonat tartalmazza a végrehajtó nevét, telefonszámát, az ügy azonosítására alkalmas számot, az ingóság megnevezését, becsértékét, továbbá az árverés helyét és időpontját. A kivonatot legkésőbb az árverést megelőző 5. napon kell közzétenni.
+(3)
 
 (4) A végrehajtó az árverési hirdetményt közzéteszi az elektronikus árverési hirdetmények nyilvántartásában is; az elektronikus árverési rendszer az árverést követő napon automatikusan törli a hirdetményt az elektronikus árverési hirdetmények nyilvántartásából.
 
@@ -1660,7 +1657,7 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 (2) Az árverési hirdetményt az árverést megelőzően legalább 15 napon át és legalább az árverést megelőző 5. napig kell a hirdetőtáblán kifüggesztve tartani.
 
-(3) A végrehajtó a hirdetmény kivonatát a kamara hivatalos lapjában közzéteszi. A kivonat a végrehajtó nevét, telefonszámát, az ügy azonosítására alkalmas számot, az ingatlan művelési ágát, helyrajzi számát, a tulajdoni hányadot, az ingatlan területét, lakott vagy beköltözhető állapotát, becsértékét, az árverésnek, valamint az ingatlan megtekintésének helyét és időpontját tartalmazza. A kivonatot legkésőbb az árverést megelőző 5. napon kell közzétenni.
+(3)
 
 (4) A végrehajtó bármelyik fél kérelmére gondoskodik arról, hogy az árverést egyéb megfelelő módon is közhírré tegyék.
 
@@ -1683,11 +1680,9 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 - a) nem éri el a becsérték 50%-át, lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén 70%-át, vagy
 - b) nem haladja meg legalább a licitküszöb összegével vagy annak többszörösével az előzőleg közzétett vételi ajánlatot.
 
-(4) Ha az árverező vételi ajánlatának közzétételét követően az elektronikus árverési rendszer újabb vételi ajánlatot tesz közzé a licitnaplóban, az árverező kérelmére a végrehajtó 3 munkanapon belül intézkedik az árverési előleg visszautalásáról.
+(4)–(5)
 
-(5) Az elektronikus árverési rendszer az árverést megelőző munkanap 12 órakor zárja le automatikusan a licitnaplót.
-
-(6) Az elővásárlásra jogosult települési önkormányzat valamennyi közzétett ajánlat vonatkozásában az árverés befejezéséig, az utolsóként közzétett vételi ajánlat vonatkozásában pedig a licitnapló lezárásának napján 24 óráig az aktivált felhasználói nevének és jelszavának megadásával, a közzétett vételi ajánlattal megegyező összegű vételi ajánlat tételével gyakorolhatja elővásárlási jogát. Az elővásárlási jog gyakorlására irányuló vételi ajánlatot az elektronikus árverési rendszer automatikusan közzéteszi az árverési hirdetményen.
+(6)
 
 146. § (1) Ingatlanra az árverezhet, aki előlegként az ingatlan becsértékének 10%-át legkésőbb az árverési ajánlatának megtétele előtt a végrehajtónál letétbe helyezte. Az előleg letétbe helyezése átutalással is történhet, az előleg összegét olyan időpontban kell átutalni, hogy az az árverés időpontját megelőzően megérkezzen a végrehajtói letéti számlára. A letétbe helyező az utóbbi esetben akkor árverezhet, ha az átutalásról szóló terhelési értesítőt legkésőbb az árverési ajánlatának megtétele előtt a végrehajtónak bemutatja, annak másolatát pedig részére átadja.
 

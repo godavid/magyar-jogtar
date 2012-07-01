@@ -1530,7 +1530,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 8. a biztosítás díja, ha a biztosított az adózóval munkaviszonyban vagy önkéntes jogviszonyban álló magánszemély, az adózó vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, vagy az adózónál jogszabályban meghatározott tanulószerződés alapján gyakorlati képzésben résztvevő szakképző iskolai tanuló;
 
-9. a Munka Törvénykönyvében előírt rendelkezések alapján az igénybe nem vett munkaidő-kedvezmény címen a szakszervezetnek átutalt összeg;
+9.
 
 10. a privatizációs lízingszerződés alapján a lízingbe vett társaságnál szervezési-vezetési szolgáltatás címen ráfordításként elszámolt összeg;
 
@@ -1551,6 +1551,8 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 18. az adóévben az adózó által átvállalt kamarai tagsághoz kapcsolódó tagdíj összege, feltéve, hogy az kötelező kamarai tagsághoz kapcsolódódik;
 
 19. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy annak átadása, nyújtása jogszabályon alapul.
+
+20. a munka törvénykönyvében előírt rendelkezések alapján a kijelölt munkáltató által a több munkáltató által létesített munkaviszony keretében személyi jellegű ráfordításként – más munkáltatóra tekintettel – elszámolt összeg, feltéve, hogy azt a munkaviszonnyal érintett munkáltatók a részére megtérítik, továbbá a kijelölt munkáltató részére a munkaviszonnyal érintett munkáltatók által megtérített összeg.
 
 ### 4. számú melléklet az 1996. évi LXXXI. törvényhez
 

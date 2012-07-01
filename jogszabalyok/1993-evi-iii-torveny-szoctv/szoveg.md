@@ -1812,7 +1812,7 @@ rendeletet alkot.
 
 (3) Azt a személyes gondoskodást végző személyt, aki szociális szakvizsgát tett, az ezt igazoló oklevél bemutatását követő harmadik hónap első napjától kezdődően a szakvizsga figyelembevételével kell besorolni.
 
-(4) Megszüntethető – a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 89. § (3) bekezdése, illetve a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 30. §-a (1) bekezdésének c) pontjára hivatkozással – annak a személyes gondoskodást végző személynek a munkaviszonya, illetve közalkalmazotti jogviszonya, aki a továbbképzési kötelezettséget a külön jogszabályban meghatározott időtartam alatt nem teljesíti.
+(4) Megszüntethető – a munka törvénykönyvéről szóló 2012. évi I. törvény 66. § (2) bekezdése, illetve a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 30. §-a (1) bekezdésének c) pontjára hivatkozással – annak a személyes gondoskodást végző személynek a munkaviszonya, illetve közalkalmazotti jogviszonya, aki a továbbképzési kötelezettséget a külön jogszabályban meghatározott időtartam alatt nem teljesíti.
 
 92/E. § (1) A személyes gondoskodást végző személy e törvényben meghatározott adatait működési nyilvántartásba kell venni.
 
@@ -2159,6 +2159,8 @@ való jogra.
 
 (5) A szociális szolgáltatónál és szociális intézményben történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdésének a) pontja nem alkalmazható.
 
+(6) A szociális intézményben, illetve szociális szolgáltatónál munkaviszonyban, közalkalmazotti jogviszonyban foglalkoztatott személynek, ha a beosztás szerinti napi munkaidejének kezdő időpontja rendszeresen változik, a tizennégy és tizennyolc óra közötti időtartam alatt történő munkavégzés esetén 15% bérpótlék jár, ha a munkáltató napi üzemelési ideje meghaladja a munkavállaló napi teljes munkaidejét és a közalkalmazottak, munkavállalók időszakonként rendszeresen, egy napon belül egymást váltva végzik azonos tevékenységüket.
+
 ### Tájékoztatási kötelezettség
 
 95. § (1) A személyes gondoskodást nyújtó szociális ellátás feltételeiről a kérelem benyújtásakor a kérelmezőt tájékoztatni kell. Az ellátás megkezdésének legkorábbi időpontjáról az intézmény vezetője a jogosultat, illetve hozzátartozóját értesíti.
@@ -2291,7 +2293,7 @@ való jogra.
 - a) az ellátott, és
 - b) az intézmény vagy az intézménnyel az ellátottak foglalkoztatására megállapodást kötött szervezet
 
-által, legfeljebb egy évre kötött munkaszerződés alapján, a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény szerinti határozott idejű munkaviszony keretében folytatható. Az intézményi jogviszony megszűnése esetén a fejlesztő-felkészítő foglalkoztatásra irányuló jogviszony is megszűnik.
+által, legfeljebb egy évre kötött munkaszerződés alapján, a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti határozott idejű munkaviszony keretében folytatható. Az intézményi jogviszony megszűnése esetén a fejlesztő-felkészítő foglalkoztatásra irányuló jogviszony is megszűnik.
 
 (3) Az intézmény és az intézménnyel az ellátottak foglalkoztatására megállapodást kötő szervezet közötti szerződésre a 122/B. §-ban foglaltakat megfelelően kell alkalmazni.
 

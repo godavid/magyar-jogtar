@@ -106,6 +106,8 @@ valamint a céginformációs szolgálat feladatai
 
 (3) Az ügyvéd az aláírás-mintát kizárólag cégbejegyzési vagy változásbejegyzési eljárás során jegyezheti ellen abban az esetben, amennyiben a cég létesítő okiratát vagy a létesítő okirata módosítását is ő készíti vagy szerkeszti és jegyzi ellen, és az aláírás-minta a cégbejegyzési vagy változásbejegyzési kérelem mellékletét képezi. Az ügyvéd az aláírás-minta elkészítése során a személyazonosságot az ügyvédekről szóló 1998. évi XI. törvény 27/B. § (1) bekezdésében foglalt módon köteles ellenőrizni.
 
+(3a) A közjegyzői aláírás-hitelesítéssel ellátott címpéldány és a (3) bekezdésnek megfelelően készített ügyvéd által ellenjegyzett aláírás-minta egyaránt bizonyítja, hogy a cégjegyzésre jogosult a céget miként és milyen formában jegyzi.
+
 (4) A cég kérelmére a cégjegyzék tartalmazza a cégjegyzésre jogosult – külön jogszabály szerinti – elektronikus címpéldányáról készített tanúsítványát is. A cégjegyzékbe bejegyzett tanúsítvánnyal rendelkező elektronikus aláírás a cégjegyzésre jogosult cégszerű aláírásának minősül.
 
 ### II. Fejezet — A CÉGNYILVÁNTARTÁS NYILVÁNOSSÁGA
@@ -171,7 +173,7 @@ megismerhetők.
 
 (2a) A céginformációért fizetendő közzétételi költségtérítés – a szükséges és igazolt költségek levonását követően – a központi költségvetés bevételét képezi.
 
-(3) A céginformációs szolgálat a bíróság, az ügyészség, a nyomozó hatóság, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló, valamint a gazdasági, illetve szakmai kamarák részére a közfeladataik ellátása érdekében kért céginformációt – az (1) bekezdésben nem említett cégadatok vonatkozásában is – ingyenesen bocsátja rendelkezésre. Esetükben sem az adatszolgáltatás, sem az adattovábbítás nem köthető díjfizetéshez. Az e rendelkezéssel ellentétes megállapodás semmis.
+(3) A céginformációs szolgálat a bíróság, az ügyészség, a nyomozó hatóság, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló, valamint a gazdasági, illetve szakmai kamarák részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett kért céginformációt – az (1) bekezdésben nem említett cégadatokra és a (3a) bekezdésben foglaltakra is kiterjedően – ingyenesen bocsátja rendelkezésre. Esetükben – ha törvény eltérően nem rendelkezik – sem az adatszolgáltatás, sem az adattovábbítás nem köthető díjfizetéshez.
 
 (4) A céginformációs szolgálat működésének részletes szabályait, valamint a fizetendő költségtérítés mértékét az igazságügyért felelős miniszter rendeletben állapítja meg.
 
@@ -185,7 +187,7 @@ megismerhetők.
 
 (5) Ha a kérelmet elektronikus úton terjesztik elő, az illeték, illetve a költségtérítés megfizetésére a 37. § (4) bekezdésében foglaltak megfelelően irányadók.
 
-17. § (1) A 16. § (2) bekezdésében meghatározott esetben a cégbíróság, illetve a céginformációs szolgálat a kérelem alapján az elektronikus okiratot a kérelem érkezésétől számított tizenöt napon belül megküldi. Ha a kérelemből más nem következik, a cégbíróság, illetve a céginformációs szolgálat által kiadott okirat a cégbíróság, illetve a céginformációs szolgálat által elhelyezett elektronikus aláírást és időbélyegzőt nem tartalmaz. Ha a cégbíróság, illetve a céginformációs szolgálat – a kérelem alapján – az elektronikus okiratot minősített elektronikus aláírással és időbélyegzővel látja el, az elektronikus közokiratnak minősül. Az elektronikus közokirat kiállításával a cégbíróság, illetve a céginformációs szolgálat azt tanúsítja, hogy a megküldött elektronikus okirat tartalma megegyezik az eredeti okiratéval.
+17. § (1) A 16. § (2) bekezdésében meghatározott esetben a cégbíróság, illetve a céginformációs szolgálat a kérelem alapján az elektronikus okiratot a kérelem érkezésétől számított tizenöt napon belül megküldi. Ha a kérelemből más nem következik, a cégbíróság, illetve a céginformációs szolgálat által kiadott okirat a cégbíróság, illetve a céginformációs szolgálat által elhelyezett elektronikus aláírást és időbélyegzőt nem tartalmaz. Ha a cégbíróság, illetve a céginformációs szolgálat – a kérelem alapján – az elektronikus okiratot minősített elektronikus aláírással vagy minősített tanúsítványon alapuló fokozott biztonságú aláírással és időbélyegzővel látja el, az elektronikus közokiratnak minősül. Az elektronikus közokirat kiállításával a cégbíróság, illetve a céginformációs szolgálat azt tanúsítja, hogy a megküldött elektronikus okirat tartalma megegyezik az eredeti okiratéval.
 
 (2) Korlátolt felelősségű társaság és részvénytársaság esetében, a cég minden 1997. január 1. után keletkezett, cégnyilvántartásban elhelyezett cégiratáról a cégbíróságtól elektronikus okirati formában kiállított másolat kérhető. A cégbíróság a kérelem alapján a cégiratot – ha az nem elektronikus formában áll rendelkezésre – az erre irányadó külön jogszabály szerint elektronikus okirati formába alakítja, és a kérelem érkezésétől számított tizenöt napon belül megküldi a kérelmezőnek. A kérelemre, valamint a cégbíróság eljárására a 16. §-ban, illetve az (1) bekezdésben foglaltak megfelelően irányadók.
 
@@ -319,7 +321,7 @@ megismerhetők.
 - e) a cég létesítő okiratban meghatározott tevékenységi köreit, azok statisztikai nómenklatúra szerinti besorolása nélkül,
 - f) a cég jegyzett tőkéjét,
 - g) a képviselet módját (önálló vagy együttes),
-- h) a cég képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartás számát, valamint a képviseletre jogosultak tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
+- h) a cég képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint a képviseletre jogosultak tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját, továbbá azt a tényt, ha a cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd által ellenjegyzett aláírás-mintája benyújtásra került,
 - i) a cég adószámát, valamint statisztikai számjelét, továbbá ha a cég adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
 - j) a cég valamennyi pénzforgalmi számláját, valamint az azokat vezető pénzforgalmi szolgáltatók nevét és székhelyét,
 - k) a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontját,
@@ -523,7 +525,7 @@ megismerhetők.
 - f) a telephely magyarországi központi ügyintézésének helyét,
 - g) a telephelyet létesítő okirat keltét,
 - h) a telephely tevékenységeit, azok mindenkor hatályos TEÁOR nómenklatúra szerinti besorolása nélkül,
-- i) a telephely képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén születési idejét, lakóhelyét, anyja születési nevét, jogi személyiséggel nem rendelkező gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, valamint tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is,
+- i) a telephely képviseletére jogosultak nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személyiség nélküli gazdasági társaság vagy jogi személy esetén székhelyét, cégjegyzékszámát vagy nyilvántartási számát, valamint a képviseletre jogosultak tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, továbbá azt a tényt, ha a képviseletre jogosult közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd által ellenjegyzett aláírás-mintája benyújtásra került,
 - j) a telephely adószámát (közösségi adószámát), valamint statisztikai számjelét,
 - k) a telephely valamennyi pénzforgalmi számláját, valamint az azokat vezető pénzügyi intézmények nevét és székhelyét,
 - l) a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontját,
@@ -568,6 +570,10 @@ is fel kell tüntetni a cégjegyzékben.
 (4) A (2) bekezdés szerinti megbízás megszűnését követő 15 napon belül a kézbesítési megbízottnak a megbízás megszűnésének tényét a 36. § (5) bekezdése szerinti módon be kell jelentenie a cégbíróságnak.
 
 (5) A (4) bekezdés szerinti tény bejelentésének elmulasztása esetén a cégbíróság a kézbesítési megbízottat a 34. § (2) bekezdésében meghatározott bírsággal sújthatja.
+
+31/A. § (1) Ha a cégbejegyzési (változásbejegyzési) kérelemhez – jogszabályban meghatározott módon – csatolták a cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd által ellenjegyzett aláírás-mintáját, a cégbíróság a cég képviselőjére vonatkozó cégjegyzék adatok bejegyzésével egyidejűleg azt fokozott biztonságú elektronikus aláírással és időbélyegzővel látja el és intézkedik annak a cégjegyzék útján való megismerhetőségéről.
+
+(2) E § alkalmazásában változásbejegyzési kérelemnek minősül az is, ha a változásbejegyzési kérelemben a cég kizárólag arról nyilatkozik, hogy a cégjegyzékbe már bejegyzett képviselő cégjegyzésének módját igazoló okiratot a cégiratokhoz csatolja annak közvetlen elérése érdekében. Ebben az esetben a cég a kérelem mellékleteként kizárólag közjegyzői aláírás-hitelesítéssel ellátott címpéldányt csatolhat.
 
 ### IV. Fejezet — A CÉGBEJEGYZÉSI
 
@@ -1552,7 +1558,7 @@ módosuló jogszabályok
 
 - a) a cégeljárásra és a cégnyilvántartásra,
 - b) a Cégközlönyben megjelenő közlemények közzétételére és költségtérítésére,
-- c) a céginformációs szolgálat működésére és a fizetendő költségtérítésre,
+- c) a céginformációs szolgálat működésére, a fizetendő költségtérítésre, a közfeladatot ellátó szervek részére nyújtott ingyenes céginformáció szolgáltatás biztosítására,
 - d) a felügyelőbiztos díjára,
 - e) az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben az elektronikus cégbejegyzési eljárásra és cégnyilvántartásra,
 - f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben a cégeljárás és más cégügy illetéke és a közzétételi költségtérítés elektronikus úton történő megfizetésével kapcsolatos eljárásra,
@@ -1599,11 +1605,13 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (3) Amennyiben a végelszámoló az (1) bekezdésben foglaltaknak határidőben nem tesz eleget, a cégbíróság hivatalból indítja meg a kényszertörlési eljárást.
 
+131/B. § E törvénynek az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit a Módtv2. hatálybalépését követően benyújtott cégbejegyzési (változásbejegyzési) kérelmekre kell alkalmazni.
+
+131/C. § Ha a cég képviseletére jogosult adatainak bejegyzésére a Módtv2. hatálybalépése napját megelőzően benyújtott cégbejegyzési (változásbejegyzési) kérelem alapján került sor, a kizárólag a cégjegyzés módját igazoló okirat utólagos benyújtása iránti változásbejegyzési eljárásban – a 31/A. § (2) bekezdésétől eltérően – ügyvéd által ellenjegyzett aláírás-minta is csatolható, ha azt a korábbi bejegyzési vagy változásbejegyzési eljárásban a 9. § (3) bekezdésének alkalmazásával már csatolták. Ebben az esetben a korábbi eljárásban már csatolt okiratot kell ismételten benyújtani.
+
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a gazdasági társaságokról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a Tanács 68/151/EGK első irányelve (1968. március 9.) az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 58. cikkének (2) bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról, valamint az azt módosító
-  - aa) az Európai Parlament és a Tanács 2003/58/EK irányelve (2003. július 15.) a meghatározott jogi formájú társaságokra vonatkozó nyilvánossági követelmények tekintetében a 68/151/EGK tanácsi irányelv módosításáról,
-  - ab) a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány II. melléklet 4. rész A. pont (1) bekezdése;
+- a) az Európai Parlament és a Tanács 2009. szeptember 16-i 2009/101/EK irányelve az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 48. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról;
 - b) a Tanács 77/91/EGK második irányelve (1976. december 13.) a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint ezek tőkéje fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 58. cikkének (2) bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról, valamint az azt módosító
   - ba) a Tanács 92/101/EGK irányelve (1992. november 23.) a részvénytársaságok alapításáról, valamint a tőkéjük fenntartásáról és módosításáról szóló 77/91/EGK irányelv módosításáról,
   - bb) a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság csatlakozásának feltételeiről, valamint az Európai Unió alapját képező szerződések kiigazításáról szóló okmány II. melléklet 4. rész A. pont (2) bekezdése;
@@ -1842,7 +1850,7 @@ I. Ha a bejegyzési kérelem tartalmára tekintettel kötelező, valamennyi cég
 
 1. ha a cég az Európai Unió valamely hivatalos nyelvén történő nyilvántartását is kéri, a cégbejegyzésre irányuló nyomtatványnak a választott nyelven kitöltött példánya, valamint a létesítő okirat e nyelvre történt hiteles fordítása;
 
-2.
+2. a cégjegyzésre jogosult hiteles cégaláírási nyilatkozata (közjegyzői aláírás-hitelesítéssel ellátott címpéldánya) vagy ügyvéd által ellenjegyzett aláírás-mintája, ha a csatolás tényét a kérelmen feltüntették;
 
 3. a) ha a cég elnevezésében történelmi személyiség neve szerepel, vagy a cégnévhez másnak jogi érdeke fűződik, a Ctv. 4. §-ának (4) bekezdésében meghatározott személy vagy szervezet hozzájárulását tartalmazó okirat, a Ctv. 4. §-ának (5) bekezdésében meghatározott esetben pedig annak igazolása, hogy a cégben az állam többségi befolyással rendelkezik,
 
@@ -2069,6 +2077,8 @@ II. Ha a bejegyzési kérelem tartalmára tekintettel szükséges, egyéb benyú
 2. a) a vezető tisztségviselőknek, a könyvvizsgálónak a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata, a közkereseti társaság és a betéti társaság vezető tisztségviselőinek kivételével, ha a képviseletet valamennyi tag ellátja,
 
 b) az a) pontban említettek megválasztásának időtartamát tartalmazó okirat;
+
+c) a cégjegyzésre jogosult hiteles cégaláírási nyilatkozata (közjegyzői aláírás-hitelesítéssel ellátott címpéldánya) vagy ügyvéd által ellenjegyzett aláírás-mintája, ha a csatolás tényét a kérelmen feltüntették;
 
 3. ha a könyvvizsgáló szervezet, a könyvvizsgálatot ellátó személynek a megválasztást elfogadó, az összeférhetetlenségre is kiterjedő nyilatkozata;
 

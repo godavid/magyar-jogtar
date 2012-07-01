@@ -490,7 +490,7 @@ kell keresetként figyelembe venni.
 
 ### Arányosan elismerhető szolgálati idő
 
-39. § (1) Ha a biztosítottnak a Tbj. 5. §-a (1) bekezdésének a)–b), g) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a Munka Törvénykönyve értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 12. § (1)–(2) bekezdésének és 20. §-ának alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
+39. § (1) Ha a biztosítottnak a Tbj. 5. §-a (1) bekezdésének a)–b), g) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 12. § (1)–(2) bekezdésének és 20. §-ának alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
 
 (2) Az (1) bekezdés rendelkezéseit a Tbj. 30/A. §-ának (2) bekezdése szerinti mezőgazdasági őstermelő 2007. december 31-ét követően szerzett biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
 
@@ -949,7 +949,7 @@ A nyugellátást havonta kell folyósítani, legkorábban attól a naptól kezdv
 
 (1a) Ha a baleseti rokkantsági nyugdíj vagy a baleseti hozzátartozói nyugellátás több foglalkoztatónál elszenvedett balesetek (foglalkozási megbetegedések, szilikózis) együttes következménye alapján került megállapításra, az (1) bekezdés szerinti feltételek fennállása esetén a foglalkoztatókat olyan arányban kell kötelezni a nyugellátás megtérítésére, amilyen az egyes üzemi balesetekből eredő egészségkárosodások, egészségiállapot-romlások mértékének egymáshoz viszonyított aránya.
 
-(2) Az (1)–(1a) bekezdés rendelkezésének alkalmazása során a foglalkoztató alatt a Munka Törvénykönyve 193/C. §-ának c) pontjában meghatározott kölcsönvevőt is érteni kell.
+(2) Az (1)–(1a) bekezdés rendelkezésének alkalmazása során a foglalkoztató alatt az Mt. szerinti kölcsönvevőt is érteni kell.
 
 88. § (1) Aki a nyugellátásra jogosult haláláért felelős, köteles az emiatt nyújtott nyugellátást megtéríteni. A megtérítési kötelezettség olyan mértékben áll fenn, amilyen mértékben a felelősség megállapítható.
 

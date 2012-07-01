@@ -1592,7 +1592,8 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 - e) a 86. § (1) bekezdésének j) és k) pontja alá tartozó termékértékesítés esetében, ha az értékesítő adóalany élt a 88. §-ban említett választási jogával;
 - f) az adós és hitelező viszonylatában olyan termék értékesítése esetében, amely dologi biztosítékként lejárt követelés kielégítésének érvényesítésére irányul;
 - g) a vállalkozásban tárgyi eszközként használt termék értékesítése, valamint egyéb, a teljesítésekor a szokásos piaci árat tekintve 100 000 forintnak megfelelő pénzösszeget meghaladó termékértékesítés, szolgáltatásnyújtás esetében, ha a teljesítésre kötelezett adóalany felszámolási vagy bármely más, fizetésképtelenségét jogerősen megállapító eljárás hatálya alatt áll;
-- h) üvegházhatású gáz kibocsátására jogosító forgalomképes vagyoni értékű jog (kibocsátási egység) átruházása esetében.
+- h) üvegházhatású gáz kibocsátására jogosító forgalomképes vagyoni értékű jog (kibocsátási egység) átruházása esetében;
+- i) a 6/A. számú mellékletben felsorolt termékek értékesítése esetében.
 
 (2) Az (1) bekezdés f) és g) pontja szerinti ingatlanértékesítésre az (1) bekezdés e) pontjában meghatározottaknak is teljesülniük kell.
 
@@ -1611,6 +1612,8 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 (6) Az állami adóhatóság (5) bekezdésben említett tájékoztatási kötelezettségének köteles haladéktalanul eleget tenni. Az írásos megkeresésre adott adóhatósági választ az ellenkező bizonyításáig valósnak kell tekinteni. Az (1) bekezdés e) pontjában meghatározott esetben az adóhatóság tájékoztatási kötelezettségének a honlapján történő közzététellel tesz eleget.
 
 (7) Az (1) bekezdés alkalmazása esetében a termék értékesítője, szolgáltatás nyújtója olyan számla kibocsátásáról gondoskodik, amelyben áthárított adó, illetőleg a 83. §-ban meghatározott százalékérték nem szerepel.
+
+(8) Az (1) bekezdés i) pontja nem alkalmazható a XIV. Fejezetben szabályozott jogállású, mezőgazdasági tevékenységet folytató adóalanynak e tevékenysége körébe tartozó termékértékesítésére és termékbeszerzésére.
 
 ### Adófizetésre kötelezett termék Közösségen belüli beszerzése esetében
 
@@ -2996,6 +2999,12 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 (11) A törvény egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvénnyel megállapított 5. számú melléklet 3/A. pontját azokban az esetekben kell először alkalmazni, amelyekben az arányszámot 2012. évre állapítják meg.
 
+276. § (1) A fordított adózás mezőgazdasági szektorra történő kiterjesztésével kapcsolatban egyes törvények módosításáról szóló 2012. évi XLIX. törvénnyel (a továbbiakban: Mód2 törvény) megállapított 142. § (1) bekezdés i) pontját – a (2) és (3) bekezdésben meghatározott eltéréssel – azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2012. július 1. napjára esik, vagy azt követi.
+
+(2) A Mód2 törvénnyel megállapított 6/A. számú mellékletben felsorolt termékek értékesítése esetén, ha a teljesítés időpontja 2012. július 1. napjára esik, vagy azt követi, de a terméket beszerző adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2012. július 1. napját megelőzően kellene megállapítani, a Mód2 törvénnyel megállapított 142. § (1) bekezdés i) pontja nem alkalmazandó.
+
+(3) Amennyiben a Mód2 törvénnyel megállapított 142. § (1) bekezdés i) pontja hatálya alá tartozó termékértékesítéshez fizetett előleg jóváírásának, kézhezvételének időpontja 2012. július 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a termék beszerzőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -3246,6 +3255,22 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | 27. | Szemcse és por nyersvasból, tükörvasból, vasból vagy acélból | 7205 |
 | 28. | Használt vagy új rongy, zsineg-, kötél-, hajókötél-hulladék és használt textiláru zsinegből, kötélből vagy hajókötélből | 6310 |
 | 29. | Használt primer cella, primer elem és elektromos akkumulátor, ezeknek hulladéka; kimerült primer elem és kimerült elektromos akkumulátor | 8548 10 |
+
+### 6/A. számú melléklet a 2007. évi CXXVII. törvényhez
+
+#### A 142. § (1) bekezdés i) pontjának alkalmazása alá tartozó termékek
+
+| Sor- szám | Megnevezés | Vtsz. |
+| --- | --- | --- |
+| 1. | Kukorica | 1005 |
+| 2. | Búza és kétszeres | 1001 |
+| 3. | Árpa | 1003 |
+| 4. | Rozs | 1002 |
+| 5. | Zab | 1004 |
+| 6. | Triticale | 1008 90 10 |
+| 7. | Napraforgó-mag, törve is | 1206 00 |
+| 8. | Repce- vagy olajrepcemag, törve is | 1205 |
+| 9. | Szójabab, törve is | 1201 |
 
 ### 7. számú melléklet a 2007. évi CXXVII. törvényhez
 
