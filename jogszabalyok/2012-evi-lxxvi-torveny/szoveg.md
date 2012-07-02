@@ -42,11 +42,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 7. § (1)
 
-(2) Hatályát veszti
-
-- 1. a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény módosításáról szóló 2002. évi XIX. törvény,
-- 2. a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény, valamint egyéb munkaügyi tárgyú törvények módosításáról szóló 2005. évi CLIV. törvény,
-- 3. egyes szociális és munkaügyi tárgyú törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2010. évi XXXIX. törvény.
+(2)
 
 (3) Hatályát veszti
 
@@ -91,13 +87,13 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 10. § (1)
 
-(2)
+(2) Hatályát veszti a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosításáról szóló 2010. évi CXV. törvény.
 
 (3)
 
 (4)
 
-(5)
+(5) Hatályát veszti a kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosításáról szóló 2012. évi XL. törvény.
 
 ### III. Fejezet — EGYES TOVÁBBI TÖRVÉNYEK MÓDOSÍTÁSA
 

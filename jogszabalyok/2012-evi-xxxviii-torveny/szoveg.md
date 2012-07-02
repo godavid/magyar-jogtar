@@ -150,73 +150,14 @@ tekintetében.
 
 #### 7. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-17. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 18. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A biztosítottat az e törvény szerint járó egészségügyi szakellátásra a finanszírozott egészségügyi szolgáltató orvosa vagy az e törvény végrehajtásáról szóló kormányrendeletben meghatározott feladatot ellátó orvos utalhatja be az e törvény végrehajtásáról szóló kormányrendeletben foglaltak szerint.
-
-(2) A biztosított ellátását nem tagadhatja meg
-
-a) a beutalóhoz kötött szakellátások esetében a beutaló szerinti egészségügyi szolgáltató,
-
-b) a beutalóhoz nem kötött szakellátások esetében a biztosított tekintetében területi ellátási kötelezettséggel rendelkező egészségügyi szolgáltató.
-
-(3) A biztosított tekintetében területi ellátási kötelezettséggel nem rendelkező egészségügyi szolgáltató a (2) bekezdés a), illetve b) pontja szerinti esetben az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint az ellátást – az egészségügyről szóló 1997. évi CLIV. törvény 77. §-ában meghatározott eset kivételével – megtagadhatja, ha a területi ellátási kötelezettségű feladatainak folyamatos ellátását a területen kívüli betegek fogadása veszélyeztetné.”
-
-18. § (1) Az Ebtv. 20. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) Amennyiben a kezelőorvos a biztosított részére az (1) bekezdés a) pontjában foglaltak szerinti ellátást rendel, az egészségügyi szolgáltató külön jogszabályban foglaltak szerint jelzi ennek tényét az intézményi várólistákkal kapcsolatos adatok országos nyilvántartását (a továbbiakban: országos várólista-nyilvántartás) vezető szerv részére és egyidejűleg továbbítja számára a biztosított 20/A. § (1) bekezdése szerinti személyazonosító adatait, a szükséges ellátás megjelölésével.
-
-(2b) Amennyiben a biztosított – az országos várólista-nyilvántartást vezető szerv erre irányuló vizsgálatának eredménye szerint – a rendelt ellátás tekintetében nem szerepel egyetlen intézményi várólistán sem, az országos várólista-nyilvántartást vezető szerv a 20/A. § (5) bekezdése szerinti egyedi azonosítót generál a biztosított számára, és a külön jogszabályban foglaltak szerint megküldi azt az intézményi várólistát vezető szolgáltatónak.”
-
-(2) Az Ebtv. 20. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A biztosított az ellátásra az intézményi várólistára, illetve a betegfogadási listára történő felkerülés időpontja szerint jogosult.”
-
-(3) Az Ebtv. 20. §-a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A (3) bekezdés alapján meghatározott időponttól eltérni
-
-a) az ellátás szakmai indokoltsága alapján,
-
-b) az ellátás várható eredménye alapján,
-
-c) a (4) bekezdés szerinti esetben,
-
-d) az azonnali ellátásnak a biztosított állapota miatti indokoltsága esetén,
-
-e) a biztosított hátrányára a biztosított kérése alapján
-
-lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségbiztosításért felelős miniszter rendeletben határozza meg.”
-
-(4) Az Ebtv. 20. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az országos várólista-nyilvántartást vezető szerv, illetve a térségi betegútszervezésért felelős szerv kezdeményezésére az egészségügyi államigazgatási szerv köteles megvizsgálni, hogy az egészségügyi szolgáltató megfelel-e a működési engedély kiadásának feltételéül külön jogszabályban meghatározott szakmai minimumfeltételeknek, amennyiben a várólista hossza szakember, gép, műszer, orvostechnikai eszköz hiánya miatt aránytalanul eltér az országos átlagtól.”
-
-(5) Az Ebtv. 20. §-a következő (7a)–(7c) bekezdéssel egészül ki:
-
-„(7a) Az egészségügyi államigazgatási szerv a (7) bekezdés szerinti vizsgálat eredményéről 15 napon belül tájékoztatja az országos várólista-nyilvántartást vezető szervet, illetve a térségi betegútszervezésért felelős szervet.
-
-(7b) Amennyiben a várólisták hossza egyes ellátások esetében aránytalanul eltér egymástól, az országos várólista-nyilvántartást vezető szerv, illetve a térségi betegútszervezésért felelős szerv kezdeményezheti az egészségügyi államigazgatási szervnél az érintett egészségügyi szolgáltató kapacitásainak és ellátási területének a külön törvény szerinti módosítását.
-
-(7c) Az országos várólista-nyilvántartást vezető szerv havonta tájékoztatja a térségi betegútszervezésért felelős szervet az intézményi várólistát vezető szolgáltatók köréről, szolgáltatónkénti bontásban az intézményi várólista alapján igénybe vehető ellátások köréről, a tervezett várakozási időről és a várólistán a tárgyhónapot megelőző hónap utolsó napján lévő betegek számáról.”
-
-19. § (1) Az Ebtv. 20/A. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A (3) bekezdés rendelkezéseinek alkalmazása érdekében a központi várólista tekintetében a kormányrendeletben kijelölt szerv, az intézményi várólista tekintetében az országos várólista-nyilvántartást vezető szerv egyedi azonosítót határoz meg. Az egyedi azonosító nem tartalmazhat a biztosított egészségügyi és személyazonosító adataival összefüggő, továbbá a várólistára, intézményi előjegyzésre történő felvétel időpontjára vonatkozó adatot. Az egyedi azonosítót az azt meghatározó szerv a biztosított kezelőorvosa útján közli a biztosítottal.”
-
-(2) Az Ebtv. 20/A. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az országos várólista-nyilvántartás az intézményi várólista alapján ellátást igénybe vevő biztosítottnak az (1) bekezdés szerinti személyazonosító adatait, egyedi azonosítóját, az igénybevételre kerülő ellátás megjelölését, az ellátást nyújtó egészségügyi szolgáltató megnevezését és az ismertté válása esetén az ellátás igénybevételének időpontját tartalmazza. Az országos várólista-nyilvántartás az adatokat betegútszervezés céljából az ellátás elvégzésének az ellátást nyújtó egészségügyi szolgáltató általi – külön jogszabályban foglaltak szerinti – jelentéséig tartalmazhatja. Betegútelemzés és a kapacitáskihasználtság elemzése céljából személyazonosításra alkalmatlan módon további négy évig kezelhetőek az adatok.”
+17–19. §
 
 20–22. §
 
-23. § Az Ebtv.
+23. §
 
-- a) 20. § (1) bekezdésében a „valamint az azonnali ellátásokról, továbbá a b) pont esetében a (4) bekezdés szerinti ellátásokról külön jogszabályban meghatározott módon rendszeres jelentést küld az egészségbiztosító részére” szövegrész helyébe a „valamint a (3a) bekezdés szerinti esetekről külön jogszabályban meghatározott módon rendszeres jelentést küld az a) pont tekintetében az országos várólista-nyilvántartást vezető szerv, a b) pont tekintetében az egészségbiztosító részére” szöveg,
-- b) 20/A. § (3) bekezdésében az „Az egészségbiztosító honlapjáról a várólista alapján ellátást nyújtó egészségügyi szolgáltatók és a kormányrendeletben kijelölt szerv honlapjának is közvetlenül elérhetőeknek kell lenniük.” szövegrész helyébe az „Az egészségbiztosító honlapjáról a kormányrendeletben kijelölt szerv honlapjának, az országos várólista-nyilvántartás vezető szerv honlapjáról pedig a várólista alapján ellátást nyújtó egészségügyi szolgáltatók honlapjainak is közvetlenül elérhetőeknek kell lenniük.” szöveg,
+- a)–b)
 - c)–e)
-
-lép.
 
 #### 8. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
@@ -226,51 +167,25 @@ lép.
 
 26–27. §
 
-28. § Az Eftv. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség
-
-a) az 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő fekvőbeteg-szakellátási kapacitások,
-
-b) az a) pont alá nem tartozó kapacitások tekintetében a 2012. április 30-án lekötött kapacitások,
-
-c) a 14. § (8) bekezdése szerinti tartalékkapacitások és
-
-d) az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitások
-
-összessége.”
+28. §
 
 29. §
 
-30. § Az Eftv. 8. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Az egészségbiztosító felelős)
-
-„a) a 3. § (1) bekezdés a)–c) pontja szerinti kapacitások felhasználásával nyújtott egészségügyi szakellátások,”
-
-(Egészségbiztosítási Alap terhére történő külön jogszabály szerinti finanszírozásáért.)
+30. §
 
 31. § (1)
 
-(2) Az Eftv. 14. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi törvénnyel megállapított 3. § (1) bekezdés b) pontja alkalmazása során – a 2012. április 30-án lekötött kapacitásokon túl – kapacitásként figyelembe kell venni
-
-a) a többletkapacitás-befogadási eljárásban, illetve a már támogatott fejlesztéshez kapcsolódó, előzetes többletkapacitás-befogadási eljárásban 2012. április 30-áig befogadott kapacitást,
-
-b) az 5. §-ban és a 7. §-ban foglalt eljárások eredményeként 2012. április 30-áig megvalósult, illetve engedélyezett kapacitás csökkentések, átcsoportosítások miatti változásokat.”
+(2)
 
 32. §
 
-33. § Az Eftv.
+33. §
 
 - a)
-- b) 2. § (1) bekezdésében az „a 2012. április 30-án lekötött kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen teljesíti” szövegrész helyébe a „járóbeteg-szakellátások tekintetében a 2012. április 30-án lekötött kapacitások mértékének és szakmai összetételének megfelelően az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott ellátási területen, a fekvőbeteg-szakellátások tekintetében az 5/A. § (7) bekezdése szerinti nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően a nyilvántartás szerinti ellátási területen teljesíti” szöveg,
+- b)
 - c)
-- d) 4. § (1) bekezdésében a „régiónként megvizsgálja a régióban működő” szövegrész helyébe a „térségenként megvizsgálja a térségben működő” szöveg,
+- d)
 - e)–f)
-
-lép.
 
 34. §
 

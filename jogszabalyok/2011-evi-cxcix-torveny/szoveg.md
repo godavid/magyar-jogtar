@@ -2519,7 +2519,7 @@ terjed ki.
 
 (10) A Kormánytisztviselői Döntőbizottság hatásköre az e törvény hatálya alá tartozó államigazgatási szervnél keletkezett jogvitára terjed ki.
 
-(11) A közszolgálati panaszt háromfős tanács bírálja el. Az ügy elbírálásában eljáró tanácsba egy közszolgálati biztost a kormánytisztviselő, egy biztost a munkáltató javaslata alapján a Kormánytisztviselői Döntőbizottság elnöke jelöl ki. A tanács elnökét a Kormánytisztviselői Döntőbizottság elnöke jelöli ki. A tanács elnöke az lehet, aki egyetemi szintű végzettséggel és jogász szakképzettséggel rendelkezik.
+(11) A közszolgálati panaszt háromfős tanács bírálja el. Az ügy elbírálásában eljáró tanács tagjait és a tanács elnökét a Kormánytisztviselői Döntőbizottság elnöke jelöli ki. A tanács elnöke az lehet, aki egyetemi szintű végzettséggel és jogász szakképzettséggel rendelkezik.
 
 (12) A tanács a határozatát többségi szavazással hozza.
 
@@ -3380,7 +3380,7 @@ vonatkozó részletes szabályokat;
 
 - 7. a kiválasztási eljárásra, a kiválasztás rendjére és feltételeire, a kormányzati személyügyi igazgatási feladatokat ellátó szerv által lefolytatott pályáztatás rendjére, annak szervezésére és lebonyolítására, a kompetencia-vizsgálatra és a toborzási adatbázisra vonatkozó részletes szabályokat megállapítsa;
 - 8. megállapítsa a címzetes főjegyzői cím adományozásának, megszűnésének és visszavonásának eljárási szabályait, valamint a címadományozási juttatás kifizetésére vonatkozó részletes szabályokat;
-- 9. a Kormánytisztviselői Döntőbizottság szervezetére és eljárására vonatkozó részletes szabályokat megállapítsa;
+- 9. a Kormánytisztviselői Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, valamint a Kormánytisztviselői Döntőbizottság jogállására, juttatásaira, továbbá a Kormánytisztviselői Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat megállapítsa;
 - 10. megállapítsa
   - a) a munkaidőkeretre, az egyenlőtlen munkaidő-beosztásra, a heti pihenőidőre,
   - b) a távmunkavégzésre,
