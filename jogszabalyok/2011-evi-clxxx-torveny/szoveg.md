@@ -153,9 +153,9 @@ a bírósági végrehajtással kapcsolatos és egyéb igazságügyi tárgyú tö
 
 - a)
 - b)
-- c) 122. § (3) bekezdése,
+- c)
 - d)
-- e) 145. § (3) bekezdése,
+- e)
 - f)
 - g)
 - h)

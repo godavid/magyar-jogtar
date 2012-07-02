@@ -886,122 +886,12 @@ vonatkozó önkormányzati rendelet kiadására.
 
 #### 37. Módosító rendelkezések
 
-53. § (1) A Vtv. 1. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Magyarországon bejegyzett vasúti társaság által a Magyarország területén kívül végzett, vasúti árutovábbításra és vontatási szolgáltatásra a törvény rendelkezéseit annyiban kell alkalmazni, amennyiben törvény vagy nemzetközi szerződés eltérően nem rendelkezik.”
-
-(2) A Vtv. 2. § (2) bekezdés 4–6. pontja helybe a következő rendelkezés lép:
-
-(Vasúti tevékenységek, szolgáltatások:)
-
-„4. vasúti személyszállítás: a személyszállítási szolgáltatásokról szóló törvény szerinti vasúti személyszállítási szolgáltatás;
-
-5. belföldi vasúti személyszállítás: a személyszállítási szolgáltatásokról szóló törvény szerinti belföldi vasúti személyszállítási szolgáltatás;
-
-6. határon átmenő vasúti személyszállítás: a személyszállítási szolgáltatásokról szóló törvény szerinti határon átmenő vasúti személyszállítási szolgáltatás;”
-
-(3) A Vtv. 2. § (2) bekezdés 19. pontja helyébe a következő rendelkezés lép:
-
-(Vasúti tevékenységek, szolgáltatások:)
-
-„19. nemzetközi személyszállítási szolgáltatás: a személyszállítási szolgáltatásokról szóló törvény szerinti nemzetközi vasúti személyszállítási szolgáltatás;”
-
-(4) A Vtv. 26. § az alábbi (2) bekezdéssel egészül ki:
-
-„(2) A legalább többségi állami tulajdonú országos pályavasúti társaság a Kormány egyedi döntése, vagy a közigazgatási szerv megkeresése alapján köteles biztosítani a személyforgalom lebonyolítására és kiszolgálására szolgáló létesítményben (pályaudvar, vasútállomás) közigazgatási szervek számára az ügyintézést nyújtó szervezet elhelyezését, annak akadálymentes megközelítését, az állomás és a távközlési hálózat használatát és üzemeltetését. Az ügyintézés helyszínét biztosító helyiségek igénybevételével és használatával kapcsolatos szabályokról, valamint a helyiség üzemeltetésével kapcsolatos közvetlen költségek (közüzemi díjak és önköltségi szinten számított épületüzemeltetési költségek) viseléséről az érintett országos pályavasúti társaság és az érintett közigazgatási szerv szerződésben rendelkeznek.”
-
-(5) A Vtv. 73. § (1) bekezdés o) pontja helyébe a következő rendelkezés lép:
-
-(A vasúti igazgatási szerv feladat- és hatáskörébe tartozik:)
-
-„o) a személyszállítási szolgáltatásokról szóló törvényben meghatározottak szerint a vasúti személyszállítást igénybe vevő utasok panaszainak kezelése,”
-
-54. § A Vkt. 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Személyforgalomban menetrend szerinti helyi közszolgáltatást végző hajózási engedélyes kiválasztására, a közszolgáltatásból eredő jogokat, kötelezettségeket, valamint a közszolgáltatás bevételekkel nem fedezett indokolt költségeihez nyújtott önkormányzati működési támogatásra vonatkozó közszolgáltatási szerződésre a személyszállítási szolgáltatásokról szóló törvényt kell megfelelően alkalmazni.”
+#### 53–54. §
 
 #### 55. §
 
-56. § Az árak megállapításáról szóló 1990. évi LXXXVII. törvény 1. § (2) bekezdésének j) pontja az alábbiak szerint módosul:
-
-„[A törvény hatálya nem terjed ki:]
-
-j) a személyszállítási szolgáltatásokról szóló törvényben meghatározott helyi, valamint az elővárosi, regionális és országos közösségi közlekedési szolgáltatások áraira.” ”
-
-57. § (1) A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 18. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A (2) bekezdés szerinti tanfolyami képzésben az iskolavezető és a szakoktató iskolavezetői és szakoktatói tevékenységét abban az esetben végezheti, ha a külön jogszabály szerinti feltételeknek megfelel, és a közlekedési hatóság engedélyezte iskolavezetői, illetve szakoktatói tevékenységét. A vizsgáztatást a Kormány által rendeletben kijelölt, ezen feladatok ellátására alapított, kizárólagos állami tulajdonban álló nonprofit szervezet (a továbbiakban: vizsgaközpont) végzi. A közúti közlekedési szakemberek vizsgáinak szervezésében a közlekedési hatóság által megbízott képző szerv közreműködhet. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek a közlekedési hatóság engedélyezte a vizsgabiztosi tevékenységét. A vizsgabiztosi tevékenység folytatását a közlekedési hatóság annak engedélyezi, aki büntetlen előéletű, nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás vagy közúti járművezetéstől eltiltás hatálya alatt, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.”
-
-(2) A Kkt. 24. §-a a következő (9)–(11) bekezdésekkel egészül ki:
-
-„(9) A forgalomba helyezés előtti és az időszakos vizsgálat elvégzéséért megfizetett igazgatási szolgáltatási díjnak a Kormány rendeletében meghatározott hányadát a közúti közlekedés biztonsága érdekében végzett állami feladatok teljesítésére kell felhasználni.
-
-(10) A forgalomba helyezés előtti és az időszakos vizsgálat keretében elvégzett környezetvédelmi felülvizsgálatért megfizetett igazgatási szolgáltatási díjnak a miniszter rendeletében környezetvédelmi hozzájárulásként meghatározott hányadát a közlekedési környezetvédelem érdekében végzett állami feladatok teljesítésére kell felhasználni.
-
-(11) A közúti közlekedés biztonságát és környezetvédelmét szolgáló – a miniszter feladatkörébe tartozó – kutatási, fejlesztési és koordinációs feladatok végrehajtására a miniszter e feladatok ellátására alapított szervezetet jelöl ki. A kijelölt szervezet számára – a (9) és (10) bekezdésekben meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.”
-
-(3) A Kkt. 46/A. § helyébe a következő rendelkezés lép:
-
-„46/A. § (1) A közlekedési hatóság jogosult:
-
-a) a közúti közlekedési szakemberek és a közúti járművezetők vizsgáztatásával összefüggésben a vizsgázó,
-
-b) a járművezetők utánképzésével, szakirányú továbbképzésével és pályaalkalmassági vizsgálatával összefüggésben a járművezető,
-
-c) a közúti áru- és személyszállítás végzésével összefüggésben a vállalkozás ügyvezetését, szakmai irányítását ellátó személy és közreműködő járművezető,
-
-d) a közlekedési hatóság tevékenységével összefüggésben – jogszabály alapján vezetett – névjegyzékbe felvett közúti közlekedési szakember
-
-személyes és egészségi állapotra, kóros szenvedélyre vonatkozó különleges adatait kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képesítéseket – ezek hitelességének utólagos igazolása céljából – nyilvántartani.
-
-(2) Az (1) bekezdés a) pontjával összefüggésben az adatok kezelésére és nyilvántartására a vizsgaközpont is jogosult.”
-
-(4) A Kkt. 46/D. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az (1) bekezdés a) pontja szerinti esetben az (1)–(3) bekezdés szerinti kép- és hangmegfigyelésre vonatkozó előírásokat a vizsgaközpontra is alkalmazni kell.”
-
-(5) A Kkt. a következő 46/F. §-sal egészül ki:
-
-„46/F. § Az e törvénynek a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 57. § (1) bekezdésével megállapított 18. § (8) bekezdése szerinti vizsgaközponti feladatokat a 48. § (3) bekezdés a) pont 8. alpontjában foglalt felhatalmazás alapján kiadott kormányrendelettel történő kijelölés hatálybalépéséig a közlekedési hatóság végzi.”
-
-(6) A Kkt. 48. § (3) bekezdés a) pont 8. alpontja helyébe a következő rendelkezés lép:
-
-[Felhatalmazás kap
-
-a) a Kormány, hogy]
-
-„8. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályait, továbbá a vizsgaközpont kijelölését,”
-
-(rendeletben állapítsa meg)
-
-(7) A Kkt. 48. § (3) bekezdés b) pontja a következő 34. alponttal egészül ki:
-
-[Felhatalmazás kap
-
-b) a miniszter, hogy]
-
-„34. a 24. § (11) bekezdésében meghatározott szervezet vagy szervezetek kijelölését, és az azzal összefüggésben ellátandó feladatokat,”
-
-(rendeletben állapítsa meg)
-
-(8) A Kkt. törvény 48. § (3) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-[Felhatalmazás kap]
-
-„e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásának díjait, valamint a díjaknak az eljáró hatóság és a vizsgaközpont, továbbá az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,”
-
-(rendeletben állapítsa meg)
+#### 56–57. §
 
 #### 38. Hatályon kívül helyező rendelkezések
 
-58. § (1) Hatályát veszti:
-
-- a) az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvény,
-- b) a fogyasztói árkiegészítésről szóló 2003. évi LXXXVII. törvény,
-- c) a Kkt. 4. §-a, 8. § (1) bekezdés d) pontja, 19. § (2)–(3) bekezdése, 19/A. §-a, valamint 48. § (5a) bekezdése.
-
-(2) Hatályát veszti a Vtv. 1. § (1) bekezdés c) pontja, az 1. § (3)–(4) bekezdése; 2. § (2) bekezdés 18. és 21. pontja, a 2. § (5) bekezdés 3., 13., 17–18. és 20. pontja; 3. § (1) a) pontjában a „vasúti személyszállítási közszolgáltatások fejlesztése,” szövegrész, 3. § (2) h, j–l. pontja, továbbá 3. § (3)–(4) bekezdése; 3/A–3/B. §-a; 5. § (1) bekezdés b) pontjában a „ ,valamint a helyi vasúti személyszállítási közszolgáltatás” szövegrész, az 5. § (1) bekezdés d–f) pontja, az 5. § (3)–(4) bekezdése; 5/A–5/B. §-a; 11. § (2) bekezdésében a „személyszállítási és” szövegrész; 12. § (1) bekezdése; 15. § (3) bekezdése; 17. §-a, a 19. §-t megelőző „SZEMÉLYSZÁLLÍTÁSI SZOLGÁLTATÁS” alcím, 19–21/C. §-a; 27. §-t megelőző „A VASÚTI SZEMÉLYSZÁLLÍTÁSI KÖZSZOLGÁLTATÁSI SZERZŐDÉS ÉS A KÖZSZOLGÁLTATÁS ELLENTÉTELEZÉSE ÉRDEKÉBEN MEGÁLLAPÍTHATÓ KÁRTALANÍTÁS” alcím, a 27–27/F. §-a; a 27/G. §-t megelőző „A SZEMÉLYSZÁLLÍTÁSI KÖZSZOLGÁLTATÁS DÍJAI, JEGY- ÉS BÉRLETRENDSZERREL KAPCSOLATOS SZABÁLYOK” alcím, a 27/G–27/H. §-a; 53/A–53/C. §-a; 68. § (2) bekezdése; 68/H. §-a; a 68/I. §-t megelőző „MÉG ELÉGSÉGES SZOLGÁLTATÁS A VASÚTI KÖZFORGALMÚ KÖZLEKEDÉSBEN” alcím, a 68/I. §; a 79/A. §-t megelőző, „A vasúti személyszállítást igénybe vevő utasok jogainak védelme” alcím, a 79/A–79/B. §-a, 87. § (3) és (10)–(12) bekezdése; 88. § (1) bekezdés c) pontjában a ”valamint a 79/A. § (3) bekezdésének c) pontjában meghatározott bírság mértékére” szövegrész, valamint h) és p) pontja; 88. § (2) bekezdés 16., 18., 25. és 27. pontja, valamint 29–30. pontja.
-
-(3) Nem lép hatályba a nemzeti mobil fizetési rendszerről szóló 2011. évi CC törvény 11. § (2) bekezdése.
-
-59. § Nem lép hatályba az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény 256. § (8)–(9) bekezdése és a 285. § (10)–(11) bekezdése.
+#### 58–59. §
