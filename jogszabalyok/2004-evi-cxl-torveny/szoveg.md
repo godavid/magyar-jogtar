@@ -974,13 +974,15 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 50/A. § (1) Az ügyben érdemi döntésre jogosult hatóság a tényállás tisztázása érdekében jogosult valamely dolog birtokának a birtokos rendelkezése alóli elvonására (a továbbiakban: lefoglalás), ha a tényállás másként nem tisztázható vagy az jelentős késedelemmel járna, vagy a lefoglalás mellőzése a tényállás tisztázásának sikerét veszélyeztetné.
 
-(2) A lefoglalás érdekében a dolog birtokosát fel kell szólítani, hogy a dolgot adja át. Nem köteles a dolog átadására az, aki tanúként nem hallgatható meg.
+(2) A lefoglalás érdekében a dolog birtokosát fel kell szólítani, hogy a dolgot adja át. Nem köteles a dolog átadására az, aki tanúként nem hallgatható meg, valamint az, aki az 53. § (4) bekezdés c) pontja alapján a tanúvallomást megtagadhatja, ha a számára információt átadó személy kilétét a dolog átadásával felfedné.
+
+(2a) Az 53. § (4) bekezdés c) pontja alapján a tanúvallomás megtagadására jogosult személynek a dolog átadása alóli mentessége az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
 (3) Ha a dolog átadására köteles személy nem adja át a dolgot, a hatóság a lefoglalást a rendőrség közreműködésével foganatosítja, és a dolog átadására köteles személyt eljárási bírsággal sújthatja.
 
 (4) A lefoglalás foganatosítására a szemle szabályai irányadóak azzal, hogy a szemletárgy birtokosára vonatkozó szabályokat a lefoglalt dolog birtokosára kell alkalmazni.
 
-(5) A lefoglalást elrendelő, valamint a lefoglalás megszüntetése iránti kérelmet elutasító végzés ellen önálló fellebbezésnek van helye. A fellebbezésnek a végzés végrehajtására nincs halasztó hatálya.
+(5) A lefoglalást elrendelő, valamint a lefoglalás megszüntetése iránti kérelmet elutasító végzés ellen önálló fellebbezésnek van helye. A fellebbezésnek a végzés végrehajtására nincs halasztó hatálya, kivéve, ha a lefoglalás elrendelésére az 53. § (4) bekezdés c) pontjára hivatkozás ellenére került sor.
 
 50/B. § (1) A hatóság a lefoglalt dolgot elszállítja és megőrzi, vagy ha az elszállítás lehetetlen vagy aránytalanul magas költséggel járna, a dolgot a birtokos őrizetében hagyja a használat és az elidegenítés jogának megtiltásával.
 
@@ -1034,7 +1036,12 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 (4) A törvényen vagy kormányrendeleten alapuló adatszolgáltatást hivatalból folytatott eljárásban az ügyfél, illetve kérelemre indult eljárásban az ellenérdekű ügyfél akkor tagadhatja meg, ha
 
 - a) nem kapott felmentést a minősített adatra vonatkozó titoktartási kötelezettség alól,
-- b) nyilatkozatával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná.
+- b) nyilatkozatával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, vagy
+- c) az ügyfél, illetve az ellenérdekű ügyfél médiatartalom-szolgáltató, vagy vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, és nyilatkozatával a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné.
+
+(4a) A (4) bekezdés c) pontjában foglalt mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
+
+(4b) Az ügyfelet vagy az ellenérdekű ügyfelet a (4) bekezdés c) pontjára hivatkozása ellenére adatszolgáltatásra kötelező végzés ellen önálló fellebbezésnek van helye.
 
 (5) Az ügyfél vagy képviselője, ha más tudomása ellenére az ügy szempontjából jelentős valótlan tényt állít, illetve ha a (3) bekezdés szerinti kötelező adatszolgáltatás körében a (4) bekezdésben foglalt ok hiányában adatszolgáltatási kötelezettségét nem teljesíti, az ügy eldöntése szempontjából jelentős tényt elhallgat, vagy valótlan adatot szolgáltat, eljárási bírsággal sújtható.
 
@@ -1063,8 +1070,9 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 
 (4) A tanúvallomás megtagadható, ha
 
-- a) a tanú az ügyfelek valamelyikének hozzátartozója, vagy
-- b) a tanú vallomásával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná.
+- a) a tanú az ügyfelek valamelyikének hozzátartozója,
+- b) a tanú vallomásával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, vagy
+- c) a tanú médiatartalom-szolgáltató, vagy vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, és a tanúvallomásával a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné.
 
 (4a) Cselekvőképtelen személyt csak akkor lehet tanúként meghallgatni, ha a vallomásától várható bizonyíték mással nem pótolható. Meghallgatása esetén a hamis tanúzás következményeire való figyelmeztetést a hatóság mellőzi. A meghallgatást csak a tanú törvényes képviselőjének jelenlétében lehet lefolytatni.
 
@@ -1077,6 +1085,8 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 (6) Törvényben meghatározott esetek kivételével a diplomáciai mentességben részesülő személy nem köteles tanúvallomást tenni.
 
 (7) Ha a tanú a (2) bekezdés szerinti kötelezettségének a következményekre való figyelmeztetés ellenére nem tesz eleget, eljárási bírsággal sújtható.
+
+(8) A (4) bekezdés c) pontjában foglalt mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
 54. § (1) A meghallgatás kezdetén meg kell állapítani a tanú személyazonosságát. A tanúnak nyilatkoznia kell arról, hogy az ügyfelekkel milyen viszonyban van, nem elfogult-e. A tanú esetleges elfogultságát megalapozó tényt a nyilatkozat alapján a jegyzőkönyvben rögzíteni kell. A tanút figyelmeztetni kell jogaira, kötelességeire és a hamis tanúzás jogkövetkezményeire.
 
@@ -1135,6 +1145,8 @@ teszi szükségessé, erről haladéktalanul tájékoztatja a hatóságot.
 (5) Ha a szemlét a hatóság informatikai eszköz útján végzi, a szemle elvégzésére való jogosultság igazolását követően jogszabály, személyes adatok tekintetében törvény által meghatározott körben a szemletárgy birtokosának a hatóság részére – szükség szerint az informatikai rendszerhez történő hozzáférés technikai és jogosultsági feltételeinek biztosításával – hozzáférést kell biztosítania az adatokhoz.
 
 (6) A szemletárgy birtokosa a minősített adatot, tartalmazó szemletárgy felmutatására nem kötelezhető, ha nem kapott felmentést a szemletárgyra vonatkozó titoktartási kötelezettség alól.
+
+(7) Ha a szemletárgy birtokosa médiatartalom-szolgáltató, vagy vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, nem kötelezhető a szemletárgy felmutatására, ha ezzel a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné. Ez a mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
 57/B. § (1) A szemle eredményes és biztonságos lefolytatása érdekében, ha annak jellege indokolttá teszi, a hatóság a rendőrség közreműködését kérheti.
 
@@ -2719,7 +2731,8 @@ teljesíti.
   - kc) a hatóságnak nem minősülő olyan személy, aki a szabályozott elektronikus ügyintézési szolgáltatást ügyfelek vagy hatóságok számára ingyenesen vagy ellenérték fejében elérhetővé teszi,
 - l) törvény által védett titok: a minősített adat, továbbá az üzleti, a bank-, a biztosítási, az értékpapír-, a pénztártitok, valamint a magántitok,
 - m) ügyintézési rendelkezés: az ügyfélnek az elektronikus ügyintézéssel kapcsolatos, jogszabályban meghatározott tartalmú, a jogszabályban rendszeresített űrlap szerinti formában tett és a jogszabályban kijelölt szerv (a továbbiakban: nyilvántartó szerv) által nyilvántartásba vett rendelkezése,
-- n) üzemzavar: az ügyfél és a hatóság, valamint a hatóságok egymás közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós meghibásodása, valamint karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását.
+- n) üzemzavar: az ügyfél és a hatóság, valamint a hatóságok egymás közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós meghibásodása, valamint karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását,
+- o) médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
 
 ### Hatálybalépés
 
