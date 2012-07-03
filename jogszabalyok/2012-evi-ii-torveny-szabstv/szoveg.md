@@ -279,7 +279,8 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 - a) közterület a tulajdonos személyétől, illetve a tulajdonformától függetlenül minden olyan közhasználatra szolgáló terület, amely mindenki számára korlátozás nélkül vagy azonos feltételek mellett igénybe vehető, ideértve a közterületnek közútként szolgáló és a magánterületnek a közforgalom elől el nem zárt részét is;
 - b) nyilvános hely a közterületnek nem tekinthető, mindenki számára nyitva álló hely,
-- c) helyszínről elmenekültnek minősül az a személy is, aki a szabálysértés helyszínét a rendőrség kiérkezése előtt elhagyja, feltéve, hogy a rendőrség által a szabálysértés helyszínén beszerzett bizonyítékok alapján a személyazonossága és a holléte valószínűsíthető.
+- c) helyszínről elmenekültnek minősül az a személy is, aki a szabálysértés helyszínét a rendőrség kiérkezése előtt elhagyja, feltéve, hogy a rendőrség által a szabálysértés helyszínén beszerzett bizonyítékok alapján a személyazonossága és a holléte valószínűsíthető,
+- d) médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
 
 ## MÁSODIK RÉSZ — A SZABÁLYSÉRTÉSI ELJÁRÁS
 
@@ -553,7 +554,10 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 60. § A tanúvallomást megtagadhatja az, aki
 
 - a) az eljárás alá vont személy hozzátartozója,
-- b) magát vagy hozzátartozóját szabálysértés vagy bűncselekmény elkövetésével vádolná, az ezzel kapcsolatos kérdésben.
+- b) magát vagy hozzátartozóját szabálysértés vagy bűncselekmény elkövetésével vádolná, az ezzel kapcsolatos kérdésben,
+- c) médiatartalom-szolgáltató, vagy vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, ha a tanúvallomásával a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné, az ezzel kapcsolatos kérdésben.
+
+60/A. § A 60. § c) pontjában foglalt mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
 #### 48. A tanúvallomás bizonyítékként történő felhasználásának akadályai
 
@@ -644,6 +648,8 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (2) A szemle tárgyának birtokosa köteles lehetővé tenni a tárgy, illetve a helyszín megtekintését, megfigyelését.
 
+(2a) Ha a szemletárgy birtokosa médiatartalom-szolgáltató, vagy vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, nem terheli a (2) bekezdés szerinti kötelezettség, ha ezzel a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné. Ez a mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
+
 (3) A szemle alkalmával a bizonyítás szempontjából jelentős körülményeket kell rögzíteni. Ha a bizonyításhoz szükséges, a szemle tárgyáról fényképet vagy más felvételt, rajzot kell készíteni és azt a jegyzőkönyvhöz kell csatolni.
 
 #### 58. Az eljárás alá vont személy vallomása
@@ -718,6 +724,8 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 (6) A lefoglalás elrendeléséről és megszüntetéséről határozatot kell hozni.
 
 76. § (1) A lefoglalás érdekében a dolog birtokosát fel kell szólítani, hogy a keresett dolgot adja át. Az átadás megtagadása nem akadálya annak, hogy a keresett dolgot az ügykörében lefoglalásra jogosult ruházat, csomag, vagy gépjármű átvizsgálása útján megszerezze. Erre az érintettet figyelmeztetni kell.
+
+(1a) Nem köteles a dolog átadására az, aki a 60. § c) pontja alapján a tanúvallomást megtagadhatja, ha a számára információt átadó személy kilétét a dolog átadásával felfedné. Ez a mentesség az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
 (2) A lefoglalást haladéktalanul meg kell szüntetni, ha arra az eljárás érdekében már nincs szükség. Ebben az esetben a dolgot, illetve az értékesítésből befolyt ellenértéket annak kell visszaadni, akitől a dolgot lefoglalták.
 
