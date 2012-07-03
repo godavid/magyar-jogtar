@@ -1015,7 +1015,8 @@ bírálja el.
 
 - a) a terhelt hozzátartozója,
 - b) az, aki a (4) bekezdés esetét kivéve magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, az ezzel kapcsolatos kérdésben, akkor is, ha a tanúvallomást az a) pont alapján nem tagadta meg,
-- c) – a 81. § (2) bekezdésében foglalt titoktartási kötelezettség esetét ide nem értve – az, aki a foglalkozásánál vagy közmegbízatásánál fogva titoktartásra köteles, ha a tanúvallomással a titoktartási kötelezettségét megsértené, kivéve, ha ez alól a külön jogszabály szerint jogosult felmentette, vagy külön jogszabály szerint a bíróság, az ügyész, illetőleg a nyomozó hatóság megkeresésére a titoktartási kötelezettség alá eső adat továbbítása a felmentésre jogosult számára kötelező.
+- c) – a 81. § (2) bekezdésében foglalt titoktartási kötelezettség esetét ide nem értve – az, aki a foglalkozásánál vagy közmegbízatásánál fogva titoktartásra köteles, ha a tanúvallomással a titoktartási kötelezettségét megsértené, kivéve, ha ez alól a külön jogszabály szerint jogosult felmentette, vagy külön jogszabály szerint a bíróság, az ügyész, illetőleg a nyomozó hatóság megkeresésére a titoktartási kötelezettség alá eső adat továbbítása a felmentésre jogosult számára kötelező,
+- d) a médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, ha a tanúvallomásával a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétét felfedné, az ezzel kapcsolatos kérdésben, kivéve, ha a bíróság az információt átadó személy kilétének felfedésére kötelezte.
 
 (2) A tanút a kihallgatása elején a mentességi okokra és a jogaira figyelmeztetni kell. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát jegyzőkönyvbe kell venni. A figyelmeztetés és a figyelmeztetésre adott válasz jegyzőkönyvezésének elmaradása esetén a tanú vallomása bizonyítási eszközként nem vehető figyelembe.
 
@@ -1031,11 +1032,15 @@ bírálja el.
 
 (5) A (4) bekezdés alapján tett tanúvallomásban közölt bűncselekmény miatt a nyomozás folytatása [191. § (2) bek.] nem rendelhető el, és a tanúvallomás nem tekinthető a perújítás szempontjából új bizonyítéknak [408. § (1) bek. a) pont]. Ezt a rendelkezést kell alkalmazni arra a tanúvallomás során feltárt bűncselekményre is, amely nem képezte a tanú ellen korábban folyamatban volt büntetőeljárás tárgyát, de a feljelentés elutasításának, a nyomozás, illetőleg az eljárás megszüntetésének a tanúvallomással feltárt bűncselekmény esetén is bármely okból helye lenne.
 
+(6) A bíróság akkor kötelezheti a médiatartalom-szolgáltatót, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyt a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy kilétének felfedésére, ha három évig terjedő vagy ennél súlyosabb szabadságvesztéssel büntetendő szándékos bűncselekmény felderítése érdekében az információt átadó személy kilétének ismerete nélkülözhetetlen, az ettől várható bizonyíték mással nem pótolható, továbbá a bűncselekmény felderítéséhez fűződő érdek – különösen a bűncselekmény tárgyi súlyára tekintettel – olyan kiemelkedő, amely az információforrás titokban maradásához fűződő érdeket egyértelműen meghaladja.
+
 83. § (1) A tanú vallomástételének akadályát figyelembe kell venni, ha az akár a bűncselekmény elkövetésekor állt fenn, akár a kihallgatáskor áll fenn. A 82. § (1) bekezdésének b) pontja szerinti mentességi ok fennállása esetén a tanú a vallomástételt – a 82. § (4) bekezdésében meghatározott kivétellel – akkor is megtagadhatja, ha a kérdéses bűncselekmény elkövetését már jogerősen megállapították, vagy vele szemben az ügyész a vádemelést elhalasztotta.
 
 (2) A tanúnak a 81. § (1) bekezdése a) és b) pontjában meghatározott mentessége az annak alapjául szolgáló viszony megszűnése után is fennmarad. Ebben az esetben a tanú a titoktartási kötelezettségének körébe tartozó bizonyítandó tényre nem hallgatható ki.
 
 (3) Ha a tanú a 82. § (1) bekezdésének c) pontjában meghatározott titoktartási kötelezettség alól nem kapott felmentést, az a külön jogszabályban meghatározott ideig áll fenn.
+
+(4) A tanúnak a 82. § (1) bekezdés d) pontjában foglalt mentessége az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
 84. § A 83. § és a 85. § (3) bekezdése rendelkezéseinek megsértésével kihallgatott tanú vallomása bizonyítási eszközként nem vehető figyelembe.
 
@@ -1745,7 +1750,8 @@ vezet.
 
 - a) a tanúvallomás megtagadására jogosult személy az üggyel kapcsolatban megalapozottan gyanúsítható társtettességgel, részességgel, bűnpártolással vagy orgazdasággal,
 - b) a lefoglalandó dolog a bűncselekmény eszköze,
-- c) a tanúvallomás megtagadására jogosult személy a lefoglalandó dolgot – a (3) és (4) bekezdésre történt figyelmeztetést követően – önként átadja.
+- c) a tanúvallomás megtagadására jogosult személy a lefoglalandó dolgot – a (3) és (4) bekezdésre történt figyelmeztetést követően – önként átadja,
+- d) a tanúvallomás megtagadásra a 82. § (1) bekezdés d) pontja alapján jogosult személyt a számára információt átadó személy kilétének felfedésére kötelezte a bíróság a 82. § (6) bekezdése alapján.
 
 153. § (1) Irat esetében gondoskodni kell arról, hogy annak tartalma illetéktelen személy előtt rejtve maradjon.
 
@@ -2536,7 +2542,8 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 - b) a titkos adatszerzés engedélyezéséről [203. § (4) és (6) bek.], megszüntetéséről [205. § (3) bek.], a titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználásra való alkalmasságának megállapításáról [206/A. § (3) bek.], valamint a titkos információgyűjtés eredményének a büntetőeljárásban bizonyítékként történő felhasználásának lehetőségéről [206/A. § (4) bek.],
 - c) az ügyész indítványára a nyomozás megszüntetését követően a nyomozás folytatásának elrendeléséről [191. § (3) bek.],
 - d) az ügyész indítványára a tanú különösen védetté nyilvánításáról (97. §),
-- e) a 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat elleni panaszt elutasító határozat, továbbá a 151. § (2) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozattal szemben előterjesztett felülbírálati indítványról, valamint a rendbírság 161. § (6) bekezdése szerinti elzárásra történő átváltoztatásáról.
+- e) a 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat elleni panaszt elutasító határozat, továbbá a 151. § (2) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozattal szemben előterjesztett felülbírálati indítványról, valamint a rendbírság 161. § (6) bekezdése szerinti elzárásra történő átváltoztatásáról,
+- f) a vádirat benyújtása előtt az ügyész indítványára a 82. § (1) bekezdés d) pontja alapján a tanúvallomást megtagadó személynek a számára információt átadó személy kilétének felfedésére kötelezéséről a 82. § (6) bekezdése szerint.
 
 (2a) A nyomozás megszüntetését követően a nyomozás folytatása nyomozási bíró általi elrendelésének indítványozását az ügyésznél lehet kezdeményezni.
 
@@ -2634,6 +2641,8 @@ indult eljárás során lehetővé kell tenni, hogy a nyomozási cselekményen a
 ellen.
 
 (5) Fellebbezésre tekintet nélkül végrehajtható a személyi szabadságot elvonó vagy korlátozó kényszerintézkedés elrendelése. A személyi szabadságot elvonó vagy korlátozó kényszerintézkedés megszüntetése miatt bejelentett ügyészi fellebbezés – feltéve, hogy a megszüntetést nem az ügyész indítványozta – halasztó hatályú.
+
+(5a) A tanúvallomást a 82. § (1) bekezdés d) pontja alapján megtagadó személynek a számára információt átadó személy kilétének felfedésére a 82. § (6) bekezdése alapján történt kötelezése ellen bejelentett fellebbezés halasztó hatályú.
 
 (6) A (4) bekezdésben írt határozatok elleni fellebbezés, továbbá a jogerős határozat elleni fellebbezés elbírálására vonatkozó határozat hozatalát a nyomozási bíró mellőzheti.
 
@@ -3550,6 +3559,8 @@ ellen.
 (2) A tanú kihallgatására a 290. § (2) és (3) bekezdését megfelelően alkalmazni kell.
 
 (3) Ha megállapítható, hogy a tanú a vallomásában a 82. § (4) bekezdés esetét kivéve magát vagy hozzátartozóját bűncselekmény elkövetésével vádolja, a tanút a 82. § (1) bekezdés b) pontjában meghatározottak szerint ismételten figyelmeztetni kell. A figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát jegyzőkönyvbe kell venni.
+
+(4) A tanúvallomást a 82. § (1) bekezdés d) pontja alapján megtagadó személynek a számára információt átadó személy kilétének felfedésére a 82. § (6) bekezdése alapján történt kötelezése ellen bejelentett fellebbezés halasztó hatályú.
 
 294. § A különösen védett tanú a tárgyaláson nem hallgatható ki. Ha a tanú kihallgatására a 207. § (4) bekezdése alapján került sor, a tanú csak akkor hallgatható ki, ha a tárgyalás időpontjában tizennegyedik életévét betöltötte, és a tárgyaláson történő kihallgatása különösen indokolt.
 
@@ -6282,6 +6293,8 @@ felterjeszti. A kegyelmi kérelemnek az eljárás folytatására nincs halasztó
 (4) Ahol e törvény gazdálkodó szervezetről rendelkezik, ezen a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában felsoroltakat kell érteni.
 
 (5) Ahol e törvény a jogkövetkezményeket a törvényben meghatározott büntetéshez fűzi, ezen a Btk. Különös Részében meghatározott büntetési tételkeret felső határát kell érteni.
+
+(6) E törvény alkalmazásában médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
 
 ### Átmeneti rendelkezések
 

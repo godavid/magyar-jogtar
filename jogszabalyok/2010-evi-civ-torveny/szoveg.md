@@ -70,11 +70,9 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (2) A médiaszolgáltatók által használt, állami tulajdonban lévő, korlátos erőforrások igénybevétele esetén a médiaszolgáltatás megkezdésének feltételéül a médiahatóság által kiírt és lebonyolított pályázaton való sikeres részvétel is előírható.
 
-6. § (1) A médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy más, munkavégzésre irányuló jogviszonyban álló személy jogosult a számára információt átadó személy (a továbbiakban: információforrás) kilétét titokban tartani. A titoktartás joga nem terjed ki a minősített adatot illetéktelenül átadó információforrás védelmére.
+6. § (1) A médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy törvényben meghatározottak szerint jogosult a számára a médiatartalom-szolgáltatói tevékenységgel összefüggésben információt átadó személy (a továbbiakban: információforrás) kilétét a bírósági és hatósági eljárások során titokban tartani, továbbá bármely, az információforrás azonosítására esetlegesen alkalmas dokumentum, irat, tárgy vagy adathordozó átadását megtagadni.
 
-(2) A médiatartalom-szolgáltató, valamint a vele munkaviszonyban vagy más, munkavégzésre irányuló jogviszonyban álló személy jogosult információforrásai titokban tartására a bírósági és hatósági eljárások során is.
-
-(3) Bíróság vagy nyomozó hatóság – a nemzetbiztonság és a közrend védelme vagy bűncselekmények elkövetésének felderítése vagy megelőzése érdekében – kivételesen indokolt esetben az információforrás felfedésére kötelezheti a médiatartalom-szolgáltatót, valamint a vele munkaviszonyban vagy más, munkavégzésre irányuló jogviszonyban álló személyt.
+(2) A bíróság – bűncselekmény elkövetésének felderítése érdekében – törvényben meghatározott, kivételesen indokolt esetben az információforrás felfedésére, valamint az információforrás azonosítására esetlegesen alkalmas dokumentum, irat, tárgy vagy adathordozó átadására kötelezheti a médiatartalom-szolgáltatót, valamint a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyt.
 
 7. § (1) A médiatartalom-szolgáltató munkavállalója, vagy a médiatartalom-szolgáltatóval munkavégzésre irányuló egyéb jogviszonyban álló személy jogosult a médiatartalom-szolgáltató tulajdonosától, valamint a médiatartalom-szolgáltatót támogató, illetve a médiatartalomban kereskedelmi közleményt elhelyező természetes vagy jogi személytől, illetve jogi személyiséggel nem rendelkező gazdasági társaságtól való szakmai függetlenségre és a médiatartalmak befolyásolására irányuló tulajdonosi vagy támogatói nyomásgyakorlással szembeni védelemre (szerkesztői és újságírói szabadság).
 

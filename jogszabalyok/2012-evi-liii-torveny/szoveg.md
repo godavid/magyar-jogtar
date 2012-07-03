@@ -4,7 +4,7 @@ az Egyesült Nemzetek Szervezete keretében New Yorkban, 1954. szeptember 28-án
 
 1. § Az Országgyűlés felhatalmazást ad arra, hogy Magyarország az Egyesült Nemzetek Szervezete keretében New Yorkban, 1954. szeptember 28-án létrejött, a Hontalan Személyek Jogállásáról szóló Egyezmény 23. és 24. Cikkéhez tett és az Egyesült Nemzetek Szervezete keretében New Yorkban, 1954. szeptember 28-án létrejött, a Hontalan Személyek Jogállásáról szóló Egyezmény kihirdetéséről szóló 2002. évi II. törvény (a továbbiakban: hontalan személyek jogállásáról szóló tv.) 3. § a) pontjában foglalt nyilatkozatot visszavonja.
 
-2. §
+2. § A hontalan személyek jogállásáról szóló tv. 3. § a) pontja hatályát veszti.
 
 3. § (1) E törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 

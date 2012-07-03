@@ -30,7 +30,7 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 (7)
 
-(8)
+(8) Hatályát veszti a bírósági végrehajtásról szóló 1994. évi LIII. törvény és egyéb kapcsolódó törvények módosításáról szóló 2008. évi XXXIX. törvény.
 
 (9)
 
@@ -87,13 +87,13 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 
 10. § (1)
 
-(2) Hatályát veszti a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosításáról szóló 2010. évi CXV. törvény.
+(2)
 
 (3)
 
 (4)
 
-(5) Hatályát veszti a kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosításáról szóló 2012. évi XL. törvény.
+(5)
 
 ### III. Fejezet — EGYES TOVÁBBI TÖRVÉNYEK MÓDOSÍTÁSA
 
