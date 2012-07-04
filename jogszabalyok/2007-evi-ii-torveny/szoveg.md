@@ -115,7 +115,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 14. § (1) Három hónapot meghaladó tartózkodásra jogosító vízum:
 
-- a) tartózkodási engedély átvételére jogosító vízum, amely egyszeri, tartózkodási engedély átvétele céljából történő beutazásra és legfeljebb harminc napos tartózkodásra jogosít Magyarország területén;
+- a) tartózkodási engedély átvételére jogosító vízum, amely egyszeri, tartózkodási engedély átvétele vagy a 36. § (1) bekezdése alapján engedélyezett nemzeti letelepedési engedély átvétele céljából történő beutazásra és legfeljebb harminc napos tartózkodásra jogosít Magyarország területén;
 - b) szezonális munkavállalási vízum, amely egyszeri vagy többszöri beutazásra és három hónapot meghaladó, de legfeljebb hat hónapos szezonális munkavállalási célú tartózkodásra jogosít;
 - c) nemzeti vízum, amely – nemzetközi szerződés alapján – többszöri beutazásra és három hónapot meghaladó időtartamú tartózkodásra jogosít Magyarország területén.
 
@@ -124,7 +124,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - a) az (1) bekezdés a) és b) pontjában meghatározott vízum esetén legfeljebb egy év,
 - b) az (1) bekezdés c) pontjában meghatározott vízum esetén legfeljebb öt év.
 
-15. § (1) Tartózkodási engedély átvételére jogosító vízumot az a harmadik országbeli állampolgár kaphat, akinek a részére e törvény alapján tartózkodási engedély kiadását engedélyezték.
+15. § (1) Tartózkodási engedély átvételére jogosító vízumot az a harmadik országbeli állampolgár kaphat, akinek a részére e törvény alapján tartózkodási engedély, vagy a 36. § (1) bekezdése alapján nemzeti letelepedési engedély kiadását engedélyezték.
 
 (2) A tartózkodási engedély átvételére jogosító vízum érvénytelen, ha a kiadása alapjául szolgáló tartózkodási engedélyt visszavonták vagy visszavonásának lenne helye.
 
@@ -476,7 +476,7 @@ kapott.
 
 36. § (1) Különös méltánylást érdemlő körülmény esetén a harmadik országbeli állampolgár az idegenrendészetért és menekültügyért felelős miniszter döntése alapján a 13. § (1) bekezdés a) pontjában, a 33. § (1) bekezdésben és a 35. § (1) bekezdésében foglalt feltételek hiányában is kaphat nemzeti letelepedési engedélyt.
 
-(2) Az idegenrendészetért és menekültügyért felelős miniszter az (1) bekezdés szerinti eljárása során a kérelmező egyéni körülményeit, családi kapcsolatait és egészségügyi állapotát értékeli különös méltánylást érdemlő körülményként, valamint figyelembe veszi Magyarország közérdekét.
+(2) Az idegenrendészetért és menekültügyért felelős miniszter az (1) bekezdés szerinti eljárása során különös méltánylást érdemlő körülményként a kérelmező egyéni körülményeit, családi kapcsolatait és egészségügyi állapotát értékelheti, valamint Magyarország gazdasági, nemzetpolitikai, tudományos, kulturális és sport érdekét veheti figyelembe.
 
 (3) Az idegenrendészetért és menekültügyért felelős miniszter határozata ellen jogorvoslatnak nincs helye.
 
