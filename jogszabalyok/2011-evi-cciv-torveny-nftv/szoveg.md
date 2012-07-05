@@ -373,7 +373,7 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 - 1–18.
 - 19. a MAB működésével, hatáskörével, a Felsőoktatási Tervezési Testület létrehozásával, működésével kapcsolatos kérdéseket,
 - 20–22.
-- 23. a hallgatói szerződés kötelező tartalmi elemeit, a szerződés nem teljesülése esetén követendő eljárást, a magyar állami (rész)ösztöndíjas hallgató által igénybe vett szakos képzés éves költségét,
+- 23.
 - 24–27.
 
 (2)–(4)
@@ -384,7 +384,7 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 
 111. § (1)–(5)
 
-(6) Az e törvény 39. § (3) bekezdése, 46. § (1) bekezdése szerinti – a Kormány által meghatározott tartalmú – hallgatói szerződést első alkalommal a 2012/2013. tanév első évfolyamára történő beiratkozást megelőzően kell megkötni.
+(6) Az e törvény 39. § (3) bekezdése, 46. § (1) bekezdése szerinti hallgatói szerződést első alkalommal a 2012/2013. tanév első évfolyamára történő beiratkozást megelőzően kell megkötni.
 
 #### 112–114. §
 
