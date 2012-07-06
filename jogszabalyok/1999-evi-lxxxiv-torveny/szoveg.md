@@ -67,7 +67,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 (2)
 
-6. § A Kormány általános hatáskörű területi államigazgatási szerve
+6. § A fővárosi és megyei kormányhivatal
 
 - a)
 - b) felügyeli a nyilvántartás adatainak kezelését.

@@ -1877,7 +1877,7 @@ Az ajánlatkérő az ajánlattételi felhívásban megjelölheti, hogy – a 97.
 - a) a Közbeszerzési Hatóság elnöke;
 - b) az Állami Számvevőszék;
 - c) a Kormány által kijelölt belső ellenőrzési szerv;
-- d) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv;
+- d) a helyi önkormányzatok törvényességi felügyeletéért felelős szerv;
 - e) a Magyar Államkincstár;
 - f) az alapvető jogok biztosa;
 - g) a közbeszerzéshez támogatást nyújtó, illetve a támogatás felhasználásában jogszabály alapján közreműködő szervezet;

@@ -12,7 +12,7 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 
 (2) E törvény szabályait kell alkalmazni a külföldi székhelyű európai területi társulásban magyar jog szerinti tag részvételének jóváhagyására irányuló eljárásban.
 
-(3) A Rendelet 3. cikk (1) bekezdésének alkalmazásában Magyarország tekintetében a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 22. § (1) bekezdésének a)–j) pontja szerinti szervezeteket kell érteni (magyar jog szerinti tagok). Az európai területi társulásban a Kbt. 22. § (1) bekezdésének a)–j) pontja szerinti szerv akkor vehet részt, ha jogi személyiséggel rendelkezik.
+(3) A Rendelet 3. cikk (1) bekezdésének alkalmazásában Mag yarország tekintetében a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 6. § (1) bekezdésének a)–f) pontja szerinti szervezeteket kell érteni (magyar jog szerinti tagok). Az európai területi társulásban a Kbt. 6. § (1) bekezdésének a)–f) pontja szerinti szerv akkor vehet részt, ha jogi személyiséggel rendelkezik.
 
 ### Tevékenység
 
@@ -40,7 +40,7 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 (2) A jóváhagyás akkor tagadható meg, ha
 
 - a) az európai területi társulás tevékenysége vagy a kérelmező európai területi társulásban történő részvétele jogszabályba ütközik,
-- b) az állam kivételével a Kbt. 22. § (1) bekezdés a) és b) pontja szerinti kérelmező nem rendelkezik hozzájárulással arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet,
+- b) az állam kivételével a Kbt. 6. § (1) bekezdés a) és b) pontja szerinti kérelmező nem rendelkezik hozzájárulással arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet,
 - c) az országos nemzetiségi önkormányzati költségvetési szerv, a helyi önkormányzati költségvetési szerv vagy a helyi nemzetiségi önkormányzati költségvetési szerv kérelmező nem rendelkezik a képviselő-testület vagy közgyűlés hozzájárulásával arra vonatkozóan, hogy az egyezmény- és az alapszabály-javaslat szerinti európai területi társulásban tagként részt vehet, vagy
 - d) a helyi vagy nemzetiségi önkormányzat kérelmező nem rendelkezik az európai területi társulásban való részvételről szóló képviselő-testületi, közgyűlési döntéssel.
 
@@ -55,7 +55,7 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 
 ### Nyilvántartásba vétel
 
-5. § (1) Az európai területi társulás bírósági nyilvántartásba vétellel jön létre. A nyilvántartásba vételi eljárás nemperes eljárás, melyre a Fővárosi Bíróság kizárólagosan illetékes. Az eljárásban a jogi képviselet kötelező.
+5. § (1) Az európai területi társulás bírósági nyilvántartásba vétellel jön létre. A nyilvántartásba vételi eljárás nemperes eljárás, melyre a Fővárosi Törvényszék kizárólagosan illetékes. Az eljárásban a jogi képviselet kötelező.
 
 (2) A nyilvántartásba vétel iránti kérelemhez az egyezmény és az alapszabály eredeti példányát, amennyiben az nem magyar nyelven készült, annak magyar nyelvű hiteles fordítását, valamint a Rendelet 4. cikkének (3) bekezdése szerinti jóváhagyások eredeti példányát és magyar nyelvű hiteles fordítását kell csatolni.
 
@@ -81,7 +81,7 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 
 ### Nyilvántartás
 
-6. § (1) A Fővárosi Bíróság az európai területi társulás adatairól számítógépes nyilvántartást vezet.
+6. § (1) A Fővárosi Törvényszék az európai területi társulás adatairól számítógépes nyilvántartást vezet.
 
 (2) A nyilvántartásban az európai területi társulás alábbi adatai szerepelnek:
 
@@ -96,7 +96,7 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 - i) ha az európai területi társulás csőd, felszámolási, végelszámolási, adósságrendezési eljárás, valamint a Rendelet 14. cikke szerinti megszüntetés hatálya alatt áll, akkor erre a tényre utalás, és az eljárás kezdő időpontja,
 - j) az európai területi társulás megszűnésének időpontja.
 
-(3) A nyilvántartás fennálló, illetve törölt adatai, valamint az alapszabály és az egyezmény nyilvánosak, azokat a Fővárosi Bíróság az interneten bárki számára korlátozás nélkül megismerhető módon közzéteszi.
+(3) A nyilvántartás fennálló, illetve törölt adatai, valamint az alapszabály és az egyezmény nyilvánosak, azokat a Fővárosi Törvényszék az interneten bárki számára korlátozás nélkül megismerhető módon közzéteszi.
 
 ### III. Fejezet — AZ EURÓPAI TERÜLETI TÁRSULÁS GAZDÁLKODÁSA
 
@@ -112,16 +112,16 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 
 ### IV. Fejezet — JOGORVOSLAT, FELÜGYELET ÉS ELLENŐRZÉS
 
-9. § Az európai területi társulás vagy annak szervezeti egysége által hozott határozatot az a tag, amelynek jogát vagy jogos érdekét a határozat sérti, annak meghozatalától számított harminc napos jogvesztő határidőn belül a Fővárosi Bíróságnál megtámadhatja. A perre a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) általános szabályait kell alkalmazni. A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a bíróság azonban a határozat végrehajtását felfüggesztheti.
+9. § Az európai területi társulás vagy annak szervezeti egysége által hozott határozatot az a tag, amelynek jogát vagy jogos érdekét a határozat sérti, annak meghozatalától számított harminc napos jogvesztő határidőn belül a Fővárosi Törvényszéknél megtámadhatja. A perre a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) általános szabályait kell alkalmazni. A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a bíróság azonban a határozat végrehajtását felfüggesztheti.
 
-10. § (1) Az európai területi társulás működésének törvényességét az ügyészség az irányadó jogszabályok szerint ellenőrzi. Ha az európai területi társulás működésének törvényessége másképp nem biztosítható, az ügyész a Fővárosi Bírósághoz fordulhat.
+10. § (1) Az európai területi társulás működésének törvényességét az ügyészség az irányadó jogszabályok szerint ellenőrzi. Ha az európai területi társulás működésének törvényessége másképp nem biztosítható, az ügyész a Fővárosi Törvényszékhez fordulhat.
 
-(2) A Fővárosi Bíróság az ügyész keresete alapján:
+(2) A Fővárosi Törvényszék az ügyész keresete alapján:
 
 - a) megsemmisítheti az európai területi társulás vagy annak szervezeti egysége törvénysértő határozatát, és szükség szerint új határozat hozatalát rendelheti el,
 - b) a működés törvényességének helyreállítása céljából összehívhatja az európai területi társulás közgyűlését.
 
-(3) Amennyiben az európai területi társulás az ítélet jogerőre emelkedését követő három hónapon belül nem tesz eleget az ítéletben foglaltaknak, és nem állítja helyre a működés törvényességét, az ügyész pert indíthat a Fővárosi Bíróság előtt az európai területi társulás megszüntetése iránt.
+(3) Amennyiben az európai területi társulás az ítélet jogerőre emelkedését követő három hónapon belül nem tesz eleget az ítéletben foglaltaknak, és nem állítja helyre a működés törvényességét, az ügyész pert indíthat a Fővárosi Törvényszék előtt az európai területi társulás megszüntetése iránt.
 
 (4) Amennyiben az európai területi társulás jogerős nyilvántartásba vételét követően megállapításra kerül, hogy a nyilvántartásba vételre az európai területi együttműködési csoportosulásról szóló 1082/2006/EK rendelet, vagy a jelen törvény rendelkezéseinek megsértésével került sor, a Fővárosi Törvényszék az ügyész keresete alapján az európai területi társulást törli a nyilvántartásból
 
@@ -131,7 +131,7 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 
 12. § Az Állami Számvevőszék ellenőrzések lefolytatása céljából megkeresheti a létrehozás helye szerinti tagállam illetékes hatóságát, amennyiben külföldi székhelyű európai területi társulásban magyar jog szerinti tag vesz részt.
 
-13. § Ha az Állami Számvevőszék azt észleli, hogy az európai területi társulás gazdálkodása körében jogellenesen jár el, felhívja a törvényes állapot helyreállítására. Súlyosabb törvénysértés esetén, vagy ha az európai területi társulás nem tesz eleget a felhívásnak, az Állami Számvevőszék elnökének megkeresésére az ügyész az európai területi társulás megszüntetése iránt pert indíthat a Fővárosi Bíróság előtt.
+13. § Ha az Állami Számvevőszék azt észleli, hogy az európai területi társulás gazdálkodása körében jogellenesen jár el, felhívja a törvényes állapot helyreállítására. Súlyosabb törvénysértés esetén, vagy ha az európai területi társulás nem tesz eleget a felhívásnak, az Állami Számvevőszék elnökének megkeresésére az ügyész az európai területi társulás megszüntetése iránt pert indíthat a Fővárosi Törvényszék előtt.
 
 ### V. Fejezet — AZ EURÓPAI TERÜLETI TÁRSULÁS MEGSZŰNÉSE
 
@@ -145,7 +145,7 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 - b) a bíróság az európai területi társulásnak a Rendelet 14. cikke szerinti megszüntetéséről határoz,
 - c) a bíróság az erre irányuló perben az európai területi társulás megszüntetéséről határoz.
 
-(4) A végelszámolás lefolytatására a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) VIII. fejezetének a végelszámolásra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni. Az európai területi társulás végelszámolása esetén a Ctv. szerinti változásbejegyzési (törlési) eljárás alatt az 5. § (12) bekezdése szerinti bejelentést kell érteni. A cégbíróság feladatait a Fővárosi Bíróság látja el nem elektronikus eljárás keretében, és az eljárással összefüggő valamennyi közzétételi kötelezettség a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben teljesítendő.
+(4) A végelszámolás lefolytatására a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) VIII. fejezetének a végelszámolásra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni. Az európai területi társulás végelszámolása esetén a Ctv. szerinti változásbejegyzési (törlési) eljárás alatt az 5. § (12) bekezdése szerinti bejelentést kell érteni. A cégbíróság feladatait a Fővárosi Törvényszék látja el nem elektronikus eljárás keretében, és az eljárással összefüggő valamennyi közzétételi kötelezettség a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben teljesítendő.
 
 (5) Az európai területi társulás fizetésképtelensége esetén a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) rendelkezéseit kell alkalmazni.
 
@@ -154,13 +154,13 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 (2) Ha
 
 - a) az (1) bekezdés szerinti hatósági tiltás ellenére az európai területi társulás nem hagy fel a jogellenes tevékenységével, vagy
-- b) a 4. § szerinti jóváhagyás feltételei egyébként már nem állnak fenn, a Fővárosi Bíróság – az (1) bekezdés szerinti hatóság, a Hatóság, az ügyész vagy a 4. § (2) bekezdés b)–d) pontja szerinti döntést hozó szerv kérelmére – nemperes eljárásban elrendeli a magyar jog szerinti tag kilépését az európai területi társulásból.
+- b) a 4. § szerinti jóváhagyás feltételei egyébként már nem állnak fenn, a Fővárosi Törvényszék – az (1) bekezdés szerinti hatóság, a Hatóság, az ügyész vagy a 4. § (2) bekezdés b)–d) pontja szerinti döntést hozó szerv kérelmére – nemperes eljárásban elrendeli a magyar jog szerinti tag kilépését az európai területi társulásból.
 
-(3) A Fővárosi Bíróság által nyilvántartott európai területi társulás esetén a bíróság (2) bekezdés szerinti határozatának jogerőre emelkedésével a tag tagsági jogviszonya megszűnik.
+(3) A Fővárosi Törvényszék által nyilvántartott európai területi társulás esetén a bíróság (2) bekezdés szerinti határozatának jogerőre emelkedésével a tag tagsági jogviszonya megszűnik.
 
-(4) Amennyiben az európai területi társulást nem a Fővárosi Bíróság vette nyilvántartásba, a bíróság a (2) bekezdés szerinti határozatának megküldésével a határozat jogerőre emelkedésétől számított tizenöt napon belül értesíti a nyilvántartásba vételre jogosult szervet.
+(4) Amennyiben az európai területi társulást nem a Fővárosi Törvényszék vette nyilvántartásba, a bíróság a (2) bekezdés szerinti határozatának megküldésével a határozat jogerőre emelkedésétől számított tizenöt napon belül értesíti a nyilvántartásba vételre jogosult szervet.
 
-16. § A Rendelet 14. cikke szerinti megszüntetést a Fővárosi Bíróság nemperes eljárásban rendeli el. A bíróság a megszüntetés elrendelése előtt az európai területi társulás részére a helyzet kiigazításához szükséges intézkedések megtételére legfeljebb három hónapos határidőt szabhat.
+16. § A Rendelet 14. cikke szerinti megszüntetést a Fővárosi Törvényszék nemperes eljárásban rendeli el. A bíróság a megszüntetés elrendelése előtt az európai területi társulás részére a helyzet kiigazításához szükséges intézkedések megtételére legfeljebb három hónapos határidőt szabhat.
 
 17. § Az európai területi társulás a nyilvántartásból való törléssel szűnik meg.
 
@@ -172,7 +172,7 @@ Az Országgyűlés a gazdasági és társadalmi kohézió megerősítése érdek
 
 helyi önkormányzat: a község, a város, a megyei jogú város, a főváros, a fővárosi kerület, a megyei önkormányzat.
 
-19. § (1) Az e törvény 5. §-ában, 6. §-ában és V. fejezetében szabályozott, a Fővárosi Bíróság által lefolytatott eljárásban – ha e törvény másként nem rendelkezik – a Pp. általános szabályait a nemperes eljárás sajátosságaiból fakadó eltérésekkel kell alkalmazni.
+19. § (1) Az e törvény 5. §-ában, 6. §-ában és V. fejezetében szabályozott, a Fővárosi Törvényszék által lefolytatott eljárásban – ha e törvény másként nem rendelkezik – a Pp. általános szabályait a nemperes eljárás sajátosságaiból fakadó eltérésekkel kell alkalmazni.
 
 (2) Az e törvényben szabályozott peres és nemperes eljárásokban felülvizsgálatnak nincs helye.
 

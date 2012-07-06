@@ -218,7 +218,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (2)
 
-(3) A területfejlesztési önkormányzati társulások felett a helyi önkormányzatok törvényességi felügyeletéért felelős szerv törvényességi felügyeletet gyakorol.
+(3) A területfejlesztési önkormányzati társulások felett a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) törvényességi felügyeletet gyakorol.
 
 10/A–10/G. §
 
@@ -332,7 +332,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (10) A térségi fejlesztési tanács felkérhet a tanács munkájában való részvételre egyéb szervezeteket, személyeket is, de ezek létszáma a (8) bekezdés szerinti létszám egyharmadát nem haladhatja meg.
 
-(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a Kormány általános hatáskörű területi államigazgatási szerve vezetője, az állami főépítész, valamint mindazon gazdasági, civil és egyéb szervezetek képviselői, amelyeket a térségi fejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
+(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a kormányhivatal vezetője, az állami főépítész, valamint mindazon gazdasági, civil és egyéb szervezetek képviselői, amelyeket a térségi fejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
 
 (12)
 
@@ -362,16 +362,16 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (9) A térségi fejlesztési tanács döntéseinek előkészítése, végrehajtásának szervezése, ellenőrzése érdekében a szervezeti és működési szabályzatban meghatározott bizottságokat hozhat létre. A tanács döntési jogkörét nem ruházhatja át a bizottságára.
 
-(10) A térségi fejlesztési tanács működésének törvényességi felügyeletét a Kormánynak a térségi fejlesztési tanács székhelye szerint illetékes általános hatáskörű területi államigazgatási szerve látja el.
+(10) A térségi fejlesztési tanács működésének törvényességi felügyeletét a Kormánynak a térségi fejlesztési tanács székhelye szerint illetékes kormányhivatal látja el.
 
-(11) A Kormány általános hatáskörű területi államigazgatási szerve a törvényességi felügyelet keretében ellenőrzi, hogy a térségi fejlesztési tanács
+(11) A kormányhivatal a törvényességi felügyelet keretében ellenőrzi, hogy a térségi fejlesztési tanács
 
 - a) szervezeti és működési szabályzata és egyéb szabályzatai megfelelnek-e a jogszabályoknak,
 - b) szervezete, működése, döntéshozatali eljárása, határozatai, illetve egyéb döntései nem sértenek-e jogszabályokat, az alapszabályt vagy egyéb szabályzatokat.
 
-(12) Jogszabálysértés esetén a Kormány általános hatáskörű területi államigazgatási szerve határidő kitűzésével felhívja a térségi fejlesztési tanácsot a jogszabálysértés megszüntetésére. A térségi fejlesztési tanács a megadott határidőn belül köteles tájékoztatni a Kormány általános hatáskörű területi államigazgatási szervét a jogszabálysértés megszüntetésére tett intézkedésekről.
+(12) Jogszabálysértés esetén a kormányhivatal határidő kitűzésével felhívja a térségi fejlesztési tanácsot a jogszabálysértés megszüntetésére. A térségi fejlesztési tanács a megadott határidőn belül köteles tájékoztatni a kormányhivatalt a jogszabálysértés megszüntetésére tett intézkedésekről.
 
-(13) Ha a térségi fejlesztési tanács határidőn belül nem intézkedik a jogszabálysértés megszüntetése érdekében, vagy a térségi fejlesztési tanács elutasítja a Kormány általános hatáskörű területi államigazgatási szerve felhívását, illetve nem dönt a felhívás tárgyában, a Kormány általános hatáskörű területi államigazgatási szerve
+(13) Ha a térségi fejlesztési tanács határidőn belül nem intézkedik a jogszabálysértés megszüntetése érdekében, vagy a térségi fejlesztési tanács elutasítja a kormányhivatal felhívását, illetve nem dönt a felhívás tárgyában, a kormányhivatal
 
 - a) keresettel fordul a bírósághoz a határozat, illetve egyéb döntése egészben vagy részben történő megsemmisítése iránt, továbbá a jogszabálysértő határozat, illetve egyéb döntés végrehajtását – ha az a közérdek súlyos sérelmével vagy elháríthatatlan kárral járna – felfüggeszti, illetőleg
 - b) ismételt vagy súlyos jogszabálysértés esetén a térségi fejlesztési tanács törvényes működésének helyreállítása érdekében a tanács, annak szerve vagy tisztségviselője működését felfüggeszti, és felügyelőbiztost rendel ki a térségi fejlesztési tanács törvényes működésének helyreállítására,
@@ -384,7 +384,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - a) a jogsértő szervezeti és működési szabályzatot, egyéb szabályzatot, határozatot megsemmisíti, és új eljárás lefolytatását rendeli el, illetőleg
 - b) a működés törvényességének helyreállítása céljából elrendelheti a jogszabálysértően működő szerv, tisztségviselő választására jogosult szerv összehívását.
 
-(16) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a Kormány általános hatáskörű területi államigazgatási szervét.
+(16) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot és a kormányhivatalt.
 
 ### Regionális fejlesztési ügynökség
 
@@ -542,7 +542,7 @@ rendszere.
 
 (6)
 
-(7) A megyei főjegyző a terv elfogadásáról szóló rendeletet előzményeivel (tervjavaslattal, az elfogadott és el nem fogadott vélemények indokolásával, az állami főépítész nyilatkozatával és a területrendezésért felelős miniszter állásfoglalásával) együtt küldi meg a helyi önkormányzatok törvényességi felügyeletéért felelős szervnek.
+(7) A megyei főjegyző a terv elfogadásáról szóló rendeletet előzményeivel (tervjavaslattal, az elfogadott és el nem fogadott vélemények indokolásával, az állami főépítész nyilatkozatával és a területrendezésért felelős miniszter állásfoglalásával) együtt küldi meg a kormányhivatalnak.
 
 ### A területrendezési hatósági eljárások általános szabályai és az eljárások keretében kiadható térségi területfelhasználási engedélyek
 
@@ -618,7 +618,7 @@ rendszere.
 - k) a területfejlesztést közvetlenül és közvetve szolgáló pénzeszközök koordinációjának a pályázati rendszerre is kiterjedő részletes szabályait,
 - l) a területfejlesztés intézményeinek a fejlesztési elképzelések összegyűjtésével, számbavételével, megvalósításának kidolgozásával, és ezzel kapcsolatos adatszolgáltatás rendjével kapcsolatos feladatait és eljárás rendjét;
 - m) az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjét;
-- n) a Kormány általános hatáskörű területi államigazgatási szervének, a kistérségi, térségi és regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét;
+- n) a kormányhivatal, a kistérségi, térségi és regionális fejlesztési tanácsok, a megyei területfejlesztési tanácsok és a Budapesti Agglomerációs Fejlesztési Tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét;
 - o) a területrendezési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 - p) a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat-köteles eljárások körét, a területi hatásvizsgálat készítésének eljárási szabályait és tartalmi követelményeit;
 - q) az országos és a térségi műszaki infrastruktúrahálózatoknak a területrendezési tervek szerkezeti tervében ábrázolt nyomvonalától való kivételes eltérésre vonatkozó területrendezési hatósági eljárás részletes szabályait;

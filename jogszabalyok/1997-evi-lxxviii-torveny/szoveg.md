@@ -228,7 +228,7 @@ esetében.
 
 (11) A településrendezés eszközei készítése során a települést érintő jóváhagyott országos és térségi területrendezési terv rendelkezéseit figyelembe kell venni.
 
-(12) A helyi építési szabályzatot és a településrendezési terveket azok összes munkarészével, valamint a megállapításukról szóló – külön jogszabály szerinti – jegyzőkönyvvel, a véleményezési eljárás dokumentumaival, továbbá az állami főépítészi, illetve miniszteri véleménnyel együtt, a képviselő-testületi megállapításuk után 15 napon belül a jegyző köteles megküldeni a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervnek.
+(12) A helyi építési szabályzatot és a településrendezési terveket azok összes munkarészével, valamint a megállapításukról szóló – külön jogszabály szerinti – jegyzőkönyvvel, a véleményezési eljárás dokumentumaival, továbbá az állami főépítészi, illetve miniszteri véleménnyel együtt, a képviselő-testületi megállapításuk után 15 napon belül a jegyző köteles megküldeni a fővárosi és megyei kormányhivatalnak.
 
 (13) A (2) és (3) bekezdés szerinti véleményezésért az államigazgatási szerv díjat nem számíthat fel.
 
@@ -522,7 +522,7 @@ esetében.
 
 ### Kiszolgáló és lakóút céljára történő lejegyzés
 
-27. § (1) Ha a helyi építési szabályzat szerint – a településrészen fekvő ingatlanok megfelelő megközelítése, illetve használatának elősegítése érdekében – kiszolgáló és lakóút (a továbbiakban: kiszolgáló út) létesítése, bővítése vagy szabályozása szükséges, és a megvalósítás a kiszolgáló út, valamint a környező építmény, telek rendeltetésszerű használatának biztosítása érdekében az adott telkek igénybevételével indokolt, vagy a más telken történő megvalósítás a tulajdonban nagyobb sérelemmel járna, a Kormány általános hatáskörű területi államigazgatási szerve a teleknek kiszolgáló út céljára szükséges részét a telek fekvése szerinti települési önkormányzat javára igénybe veheti és lejegyezheti.
+27. § (1) Ha a helyi építési szabályzat szerint – a településrészen fekvő ingatlanok megfelelő megközelítése, illetve használatának elősegítése érdekében – kiszolgáló és lakóút (a továbbiakban: kiszolgáló út) létesítése, bővítése vagy szabályozása szükséges, és a megvalósítás a kiszolgáló út, valamint a környező építmény, telek rendeltetésszerű használatának biztosítása érdekében az adott telkek igénybevételével indokolt, vagy a más telken történő megvalósítás a tulajdonban nagyobb sérelemmel járna, a fővárosi és megyei kormányhivatal a teleknek kiszolgáló út céljára szükséges részét a telek fekvése szerinti települési önkormányzat javára igénybe veheti és lejegyezheti.
 
 (2)
 
@@ -540,7 +540,7 @@ esetében.
 
 (9) Az (1)–(8) bekezdés előírásait kell alkalmazni a hasonló rendeltetésű és szerepkörű külterületi helyi közutak esetében is.
 
-(10) A Kormány általános hatáskörű területi államigazgatási szerve lejegyzéssel kapcsolatos eljárására egyebekben a kisajátítási eljárásra vonatkozó szabályokat kell megfelelően alkalmazni.
+(10) A fővárosi és megyei kormányhivatal lejegyzéssel kapcsolatos eljárására egyebekben a kisajátítási eljárásra vonatkozó szabályokat kell megfelelően alkalmazni.
 
 ### Útépítési és közművesítési hozzájárulás
 
@@ -584,7 +584,7 @@ esetében.
 
 (6) A kártalanítást az köteles megfizetni, akinek az érdekében a korlátozás történt. Ha nem határozzák meg azt, akinek az érdekében a korlátozás történt, a kártalanítási kötelezettség a települési önkormányzatot terheli. A fővárosban a kártalanítás a fővárosi, illetőleg a kerületi önkormányzatot érdekeltségük arányában terheli. Ha az, akinek az érdekében a kártalanítási kötelezettséggel járó előírás szükségessé vált, a tilalom vagy a korlátozás elrendelése után jogutód nélkül megszűnt, és a települési önkormányzat az előírást fenntartja, a kártalanítási kötelezettség szintén az önkormányzatot terheli.
 
-(7) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. Ez az időpont a helyi építési szabályzat, szabályozási terv hatálybalépésének, illetőleg az e törvény 20. § (4) bekezdésében foglaltak szerinti tilalmat, korlátozást elrendelő határozat jogerőre emelkedésének a napja. A kártalanítás a felek megállapodásának tárgya. A főváros esetében a megállapodás megkötésére irányuló kérelmet a fővárosi önkormányzatnak a területileg illetékes kerületi önkormányzathoz, a területileg illetékes kerületi önkormányzatnak a fővárosi önkormányzathoz nyolc napon belül írásban továbbítani kell. Ebben az esetben úgy kell tekinteni, mintha a kérelmező a kérelmét mindkét önkormányzathoz beadta volna. Ha a szerződő felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet a Kormány általános hatáskörű területi államigazgatási szerve folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel.
+(7) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. Ez az időpont a helyi építési szabályzat, szabályozási terv hatálybalépésének, illetőleg az e törvény 20. § (4) bekezdésében foglaltak szerinti tilalmat, korlátozást elrendelő határozat jogerőre emelkedésének a napja. A kártalanítás a felek megállapodásának tárgya. A főváros esetében a megállapodás megkötésére irányuló kérelmet a fővárosi önkormányzatnak a területileg illetékes kerületi önkormányzathoz, a területileg illetékes kerületi önkormányzatnak a fővárosi önkormányzathoz nyolc napon belül írásban továbbítani kell. Ebben az esetben úgy kell tekinteni, mintha a kérelmező a kérelmét mindkét önkormányzathoz beadta volna. Ha a szerződő felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet a fővárosi és megyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel.
 
 (8) A kártalanítás tárgyában hozott közigazgatási határozat ellen fellebbezésnek nincs helye. A határozat bírósági felülvizsgálata során a polgári perrendtartásról szóló törvénynek a közigazgatási perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
 

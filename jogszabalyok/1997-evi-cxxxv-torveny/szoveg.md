@@ -154,7 +154,7 @@ Az Országgyűlés a helyi önkormányzatok Alaptörvényben és a helyi önkorm
 
 20. § (1) A társulási megállapodást az aláírást követő tizenöt napon belül meg kell küldeni a a fővárosi és megyei kormányhivatalnak, amely arra harminc napon belül törvényességi észrevételt tehet.
 
-(2) A fővárosi és megyei kormányhivatal törvényességi ellenőrzési jogkörében vizsgálja, hogy a társulás szervezete, működése, döntéshozatali eljárása megfelel-e a jogszabályoknak.
+(2) A fővárosi és megyei kormányhivatal törvényességi felügyeleti jogkörében vizsgálja, hogy a társulás szervezete, működése, döntéshozatali eljárása megfelel-e a jogszabályoknak.
 
 (3) Önkormányzati hatáskör, valamint törvény által a képviselő-testület hatáskörébe utalt
 

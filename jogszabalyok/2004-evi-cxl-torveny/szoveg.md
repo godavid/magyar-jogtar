@@ -268,13 +268,13 @@ kezelésére.
 
 (4) Az ismételten mulasztó hatóságtól az ügy nem vonható el, és az eljárásra más hatóság nem jelölhető ki, ha a hatóság hatásköre hatósági igazolvány vagy hatósági bizonyítvány kiadására, hatósági nyilvántartás vezetésére terjed ki, vagy ha hatásköre kizárólagos. A hatóság legkésőbb a felügyeleti szerv utasításától számított tizenöt napon belül köteles eleget tenni elmulasztott kötelezettségének. A felügyeleti szerv az utasítással egyidejűleg fegyelmi eljárást kezdeményez a mulasztó hatóság vezetője ellen, amely kezdeményezés alapján a fegyelmi eljárás megindítása kötelező.
 
-(5) Ha a képviselő-testület, a polgármester, a bizottság, a társulás (a továbbiakban együtt: önkormányzati hatóság) önkormányzati hatósági ügyben eljárási kötelezettségét elmulasztotta, a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv felhívja a mulasztó tisztségviselőt vagy testületet, hogy soron kívül, de legkésőbb harminc napon belül folytassa le az eljárást.
+(5) Ha a képviselő-testület, a polgármester, a bizottság, a társulás (a továbbiakban együtt: önkormányzati hatóság) önkormányzati hatósági ügyben eljárási kötelezettségét elmulasztotta, a fővárosi és megyei kormányhivatal felhívja a mulasztó tisztségviselőt vagy testületet, hogy soron kívül, de legkésőbb harminc napon belül folytassa le az eljárást.
 
-(6) Az (5) bekezdés alapján az önkormányzati hatósághoz intézett felhívás eredménytelensége esetén az ügyfél vagy a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv, továbbá ha az adott ügyben nincs felügyeleti szerv, vagy a felügyeleti szerv az intézkedési, eljárási kötelezettségének nem tesz eleget, az ügyfél kérelmére a közigazgatási ügyekben eljáró bíróság kötelezi a hatóságot az eljárás lefolytatására.
+(6) Az (5) bekezdés alapján az önkormányzati hatósághoz intézett felhívás eredménytelensége esetén az ügyfél vagy a fővárosi és megyei kormányhivatal, továbbá ha az adott ügyben nincs felügyeleti szerv, vagy a felügyeleti szerv az intézkedési, eljárási kötelezettségének nem tesz eleget, az ügyfél kérelmére a közigazgatási ügyekben eljáró bíróság kötelezi a hatóságot az eljárás lefolytatására.
 
 (7) Az (1)–(4) bekezdésben foglaltakat a szakhatósági eljárásra és a fellebbezési eljárásra is alkalmazni kell. E rendelkezések akkor is irányadók, ha – a határozat megsemmisítése vagy hatályon kívül helyezése folytán – a hatóság az ügyintézési határidőn belül nem tesz eleget az új eljárás lefolytatására irányuló kötelezettségének.
 
-(8) A felügyeleti szerv a (2) bekezdés szerinti intézkedésről, valamint az eljáró hatóság (3) bekezdés szerint történő kijelöléséről az ügyfelet értesíti, továbbá ellenőrzi, hogy a hatóság a mulasztást követően, illetve a kijelölt hatóság határidőn belül eleget tesz-e eljárási kötelezettségének. A helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv értesíti az ügyfelet az (5) bekezdés szerinti felhívásáról, egyidejűleg felhívja az ügyfél figyelmét arra, hogy a felhívás eredménytelensége esetén a (6) bekezdés szerint a közigazgatási ügyekben eljáró bírósághoz fordulhat.
+(8) A felügyeleti szerv a (2) bekezdés szerinti intézkedésről, valamint az eljáró hatóság (3) bekezdés szerint történő kijelöléséről az ügyfelet értesíti, továbbá ellenőrzi, hogy a hatóság a mulasztást követően, illetve a kijelölt hatóság határidőn belül eleget tesz-e eljárási kötelezettségének. A fővárosi és megyei kormányhivatal értesíti az ügyfelet az (5) bekezdés szerinti felhívásáról, egyidejűleg felhívja az ügyfél figyelmét arra, hogy a felhívás eredménytelensége esetén a (6) bekezdés szerint a közigazgatási ügyekben eljáró bírósághoz fordulhat.
 
 (9) A hatóság eljárási kötelezettségének elmulasztása esetén a mulasztás megszüntetésére felszólító, az ügyészségről szóló törvény szerinti ügyészi felhívásban (a továbbiakban: ügyészi felhívás) megállapított határidő eredménytelen elteltét követően az ügyész a közigazgatási ügyekben eljáró bírósághoz fordulhat a hatóság eljárásra kötelezése iránt.
 
@@ -323,7 +323,7 @@ az érdekelt hatóságok kötelesek egymás között megkísérelni a vita eldö
 
 (3) Ha az (1) bekezdés szerinti eljárás nem vezetett eredményre, az eljáró hatóságot a következő szerv jelöli ki:
 
-- a) illetékességi összeütközés esetén a legközelebbi közös felügyeleti szerv, ennek hiányában a Kormánynak a vita eldöntését kérő hatóság működési területe szerint illetékes általános hatáskörű területi államigazgatási szerve,
+- a) illetékességi összeütközés esetén a legközelebbi közös felügyeleti szerv, ennek hiányában a vita eldöntését kérő hatóság működési területe szerint illetékes fővárosi és megyei kormányhivatal,
 - b) hatásköri összeütközés esetén a Fővárosi Ítélőtábla.
 
 (4) Az egyeztetést kezdeményező hatóság kérelmére a (3) bekezdés a) pontjában foglalt esetben tizenöt napon belül kell kijelölni az eljáró hatóságot.
@@ -809,7 +809,7 @@ számított nyolc napon belül értesíteni kell.
 
 (7) A hatósági közvetítőt munkájáért díj illeti meg, és a költségviselés szabályai szerint igényt tarthat költségeinek megtérítésére.
 
-(8) A Kormány általános hatáskörű területi államigazgatási szervének a hatósági közvetítőkről vezetett nyilvántartása tartalmazza a hatósági közvetítő természetes személyazonosító adatait, képesítését, az elérhetőségéhez szükséges adatokat, valamint azt a tevékenységi kört, amelyben hatósági közvetítőként eljárhat.
+(8) A fővárosi és megyei kormányhivatal hatósági közvetítőkről vezetett nyilvántartása tartalmazza a hatósági közvetítő természetes személyazonosító adatait, képesítését, az elérhetőségéhez szükséges adatokat, valamint azt a tevékenységi kört, amelyben hatósági közvetítőként eljárhat.
 
 (9) A (8) bekezdés szerinti nyilvántartásnak a hatósági közvetítő nevére, elérhetőségére, képesítésére, valamint tevékenységi körére vonatkozó adatai nyilvánosak.
 
@@ -1956,7 +1956,7 @@ teljesíti.
 
 (3) Ha törvény vagy kormányrendelet másként nem rendelkezik, a hatóság döntése ellen irányuló fellebbezést a döntést hozó hatóság döntésének megsemmisítésére, szükség szerint új eljárás lefolytatására való utasítására jogosult irányító, felügyelő vagy szakmai irányító személy vagy szerv bírálja el.
 
-(4) Ha törvény vagy kormányrendelet nem hatósági feladat ellátására létrehozott szervezetet vagy személyt jogosít fel közigazgatási hatósági jogkör gyakorlására, és annak döntése ellen a fellebbezés nem kizárt, a törvényben vagy kormányrendeletben meg kell határozni a fellebbezés elbírálására jogosult hatóságot. Ennek hiányában a Kormány általános hatáskörű területi államigazgatási szerve jogosult a fellebbezés elbírálására.
+(4) Ha törvény vagy kormányrendelet nem hatósági feladat ellátására létrehozott szervezetet vagy személyt jogosít fel közigazgatási hatósági jogkör gyakorlására, és annak döntése ellen a fellebbezés nem kizárt, a törvényben vagy kormányrendeletben meg kell határozni a fellebbezés elbírálására jogosult hatóságot. Ennek hiányában a fővárosi és megyei kormányhivatal jogosult a fellebbezés elbírálására.
 
 107. § (1) Az önkormányzati hatósági ügyben átruházott hatáskörben hozott, továbbá a polgármester törvény alapján önálló hatáskörben hozott önkormányzati hatósági döntésével szembeni fellebbezés elbírálása a képviselő-testület hatáskörébe tartozik.
 

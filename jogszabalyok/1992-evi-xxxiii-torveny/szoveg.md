@@ -1244,7 +1244,7 @@ okozta a kárt, vagy
 
 - a) a közalkalmazott felettese,
 - b) a minősítést végző vezető,
-- c) feladatkörének keretei között a törvényességi ellenőrzést végző szerv,
+- c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv,
 - d)
 - e) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
 - f) a közalkalmazott ellen indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,

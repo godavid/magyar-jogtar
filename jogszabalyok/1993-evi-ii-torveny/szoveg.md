@@ -188,7 +188,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) A sorsolást a helyrajzi számok növekvő sorrendjében kell végrehajtani.
 
-(3) A sorsolás szabálytalan lebonyolítása ellen az, akinek jogos érdekét érinti vagy sérti, törvénysértésre hivatkozással a sorsolás lebonyolítását követő 48 órán belül kifogást nyújthat be a mezőgazdasági igazgatási szervhez.
+(3) A sorsolás szabálytalan lebonyolítása ellen az, akinek jogos érdekét érinti vagy sérti, a sorsolás lebonyolítását követő 48 órán belül kifogást nyújthat be a mezőgazdasági igazgatási szervhez.
 
 (4) Ha a sorsolás lebonyolítása ellen kifogás nem érkezett, illetve a kifogással kapcsolatos jogorvoslati eljárás jogerősen befejeződött, a mezőgazdasági igazgatási szerv a sorsolási jegyzőkönyvet megküldi a földrészlet fekvése szerint illetékes ingatlanügyi hatóságnak.
 
@@ -200,6 +200,8 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (8) Az ingatlan-nyilvántartási bejegyzést, illetve a (7) bekezdés szerinti határozat jogerőssé válását követően gondoskodni kell a keletkező új földrészletek kitűzéséről, és azok helyszíni birtokbaadásáról. A birtokbaadásról jegyzőkönyvet kell készíteni.
 
+(9) E §-ban foglaltakat az olyan földrészleteket érintően kell alkalmazni, amelyek esetében a részarány-földkiadási eljárás eredményeként meghozott jogerős földkiadási határozat alapján a tulajdonjog ingatlan-nyilvántartásba való bejegyzésére irányuló eljárás nincs folyamatban, illetve a részarány-földkiadás eredményeként tulajdonjog nem került az ingatlan-nyilvántartásba bejegyzésre.
+
 9/D. § (1) Ha a részarány-tulajdon rendezésére elkülönített földalapok AK értéke, valamint a szövetkezet gazdálkodási területén részarány-földtulajdon kiadására felhasználható egyéb területek [6. § (4) bek., 12. § (5) bek.] nem fedezik az igényeket, a kiadatlan részarány-tulajdonnal rendelkező személyek – választásuk szerint – a Nemzeti Földalap földkészletéből termőföldet igényelhetnek vagy kártalanításra tarthatnak igényt 4000 Ft/AK értékben. A részarány-tulajdonost a kérelemre induló eljárás során a választás joga egyszer illeti meg. A kérelmet a szövetkezet gazdálkodási területén fekvő földrészletek kiadása céljából megtartásra kerülő utolsó sorsolás napját követő 6 hónapon belül lehet benyújtani. E határidő elmulasztása esetén a részarány-tulajdonos részére a mezőgazdasági igazgatási szerv pénzbeli kártalanításról dönt.
 
 (2) A termőföld igénylésére, illetve a kártalanításra irányuló kérelmet a mezőgazdasági igazgatási szervhez kell benyújtani. A mezőgazdasági igazgatási szerv a kérelem alapján megkeresi az ingatlanügyi hatóságot, hogy nyilatkozzon a kérelmező kiadatlan részarány-tulajdonáról. A mezőgazdasági igazgatási szerv ennek ismeretében megkeresi a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: földalapkezelő szerv), hogy a kérelmező tulajdonában lévő AK értéknek megfelelő termőföld a kérelemben megjelölt településen rendelkezésre áll-e. A földalapkezelő szerv a megkeresésnek legkésőbb harminc napon belül köteles eleget tenni. A földalapkezelő szerv nyilatkozata alapján a mezőgazdasági igazgatási szerv tájékoztatja a részarány-tulajdonost a rendelkezésre álló földrészletről, illetőleg annak hiányáról. A földalapkezelő szervezet nemleges nyilatkozata esetén a mezőgazdasági igazgatási szerv pénzbeli kártalanításról dönt.
@@ -209,6 +211,16 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 (4) Pénzbeli kártalanítás esetén a mezőgazdasági igazgatási szerv a jogerős határozatot közli az ingatlanügyi hatósággal a részarány-tulajdon törlése céljából, egyben intézkedik a kártalanítási összegnek a kérelmező részére történő kifizetése iránt.
 
 (5) A (3) és (4) bekezdésben foglaltak alapján a mezőgazdasági igazgatási szerv, illetve az ingatlanügyi hatóság által hozott határozatokat a földalapkezelő szervvel is közölni kell.
+
+9/E. § (1) A földkiadási eljárást e §-ban foglaltak szerint kell lefolytatni azon földrészleteket érintően, melyek esetében nem állnak fenn a 9/C. § (9) bekezdésében meghatározott feltételek.
+
+(2) A földrészletnek a szövetkezeti földhasználati jog alatt álló hányadát (a továbbiakban: visszamaradt hányad) a mezőgazdasági igazgatási szerv az által lefolytatott sorsolás eredménye alapján a részarány-tulajdonosok közös tulajdonába adja az őket megillető részarány-tulajdon (AK érték) arányában. A mezőgazdasági igazgatási szerv a sorsolásról jegyzőkönyvet készít.
+
+(3) A sorsolásra és a sorsolás szabálytalan lebonyolítása ellen benyújtható kifogásra a 9/C. § (2)–(3) bekezdésében foglaltakat kell alkalmazni.
+
+(4) Ha a sorsolás lebonyolítása ellen kifogás nem érkezett, illetve a kifogással kapcsolatos jogorvoslati eljárás jogerősen befejeződött, a mezőgazdasági igazgatási szerv a visszamaradt hányad tulajdonba adásáról ingatlan-nyilvántartási bejegyzésre alkalmas földkiadási határozatot hoz.
+
+(5) Az e §-ban meghatározott földkiadási eljárás eredményeként létrejött osztatlan közös tulajdon tulajdonostársait a 12/F–12/H. § alkalmazása során olyan tulajdonostársaknak kell tekinteni, mint akik a 12/F. § (1) bekezdésében foglalt határidőn belül kérelmet nyújtottak be az osztatlan közös tulajdon megszüntetésére.
 
 ### A földrészletet terhelő költségek megállapítása
 
@@ -307,7 +319,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 12/G. § (1) Az önálló ingatlan kialakítására vonatkozó kérelmet írásban az ingatlanügyi hatóság által erre rendszeresített nyomtatványon kell benyújtani. A kérelmet több tulajdonostárs együttesen is benyújthatja, és kérhetik az önálló ingatlan osztatlan közös tulajdonban történő kiadását.
 
-(2) A kérelem alapján az ingatlanügyi hatóság meghatározza a megosztás kiindulási helyét és irányát figyelemmel a talajvédelmi szempontokra és a kialakult helyszíni használatra. A megosztás módját, kiindulási helyét és irányát meghatározó határozatot az ingatlanügyi hatóság és a település polgármesteri hivatalának hirdetőtábláján nyolc napra történő kifüggesztéssel kell az érintettekkel közölni. Ezen időtartamon belül a döntés ellen fellebbezésnek van helye.
+(2) A kérelem alapján az ingatlanügyi hatóság meghatározza a megosztás kiindulási helyét és irányát figyelemmel a művelhetőségi, és a megközelíthetőségi szempontokra, valamint a kialakult helyszíni használatra. A megosztás módját, kiindulási helyét és irányát meghatározó határozatot az ingatlanügyi hatóság és a település polgármesteri hivatalának hirdetőtábláján nyolc napra történő kifüggesztéssel kell az érintettekkel közölni. Ezen időtartamon belül a döntés ellen fellebbezésnek van helye.
 
 12/H. § (1) A kérelmező tulajdonostársak közötti egyezség hiányában az adott földrészlet vonatkozásában a kiosztás sorrendjét sorsolással kell megállapítani. Az egyezségnek vagy a kisorsolt sorrendnek megfelelően a tulajdonostársakat tulajdoni hányaduknak megfelelően a földrészlet meghatározott részéhez kell rendelni.
 
@@ -374,3 +386,5 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 17. § Felhatalmazást kap a földügyért felelős miniszter, hogy a földkiadó bizottságok által lefolytatott közigazgatási hatósági eljárásokban a szakértő kirendelésére, valamint a szakértői névjegyzék összeállítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 18. § E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 12/H. § (5) és (6) bekezdése az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépésekor folyamatban lévő eljárásban csak akkor alkalmazhatóak, ha a 12/G. § (2) bekezdése szerinti határozat az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvény hatálybalépéséig nem emelkedett jogerőre.
+
+19. § E törvénynek a járások kialakításáról, valamint egyes ezzel összefüggő törvények módosításáról szóló 2012. évi XCIII. törvénnyel megállapított 12/G. § (2) bekezdését, 9/C. § (9) bekezdését, 9/E. §-át a folyamatban lévő ügyekben is alkalmazni kell. Folyamatban lévő ügynek minősül az is, ha a mezőgazdasági igazgatási szerv a 9/C. § (1)–(4) bekezdése alapján sorsolást folytatott le, és a sorsolási jegyzőkönyvet megküldte az ingatlanügyi hatóságnak.

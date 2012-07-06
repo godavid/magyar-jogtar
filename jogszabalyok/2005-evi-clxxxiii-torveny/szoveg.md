@@ -768,9 +768,9 @@ rendeletben teszi közzé.
 
 (3) A kártalanítás módjáról és mértékéről a felszín alatti vasúti pálya létesítőjének az ingatlan tulajdonosával a kártalanítási ajánlat írásban történő megküldésével kell az egyezség létrehozását megkísérelnie. A kártalanítást – a felek eltérő megállapodásának hiányában – pénzben kell megfizetni.
 
-(4) Megegyezés hiányában bármelyik fél kérelmére a korlátozásért vagy az akadályoztatásért járó kártalanítást a Kormány általános hatáskörű területi államigazgatási szerve állapítja meg a kisajátítási kártalanításra vonatkozó szabályok szerint. A megegyezés hiányának minősül az is, ha a felszín alatti vasút létesítője a kártalanítási igény hozzá való megérkezésétől számított 45 napon belül nem tesz ajánlatot egyezségre, vagy a vele közölt ajánlatra nem nyilatkozik.
+(4) Megegyezés hiányában bármelyik fél kérelmére a korlátozásért vagy az akadályoztatásért járó kártalanítást a fővárosi és megyei kormányhivatal állapítja meg a kisajátítási kártalanításra vonatkozó szabályok szerint. A megegyezés hiányának minősül az is, ha a felszín alatti vasút létesítője a kártalanítási igény hozzá való megérkezésétől számított 45 napon belül nem tesz ajánlatot egyezségre, vagy a vele közölt ajánlatra nem nyilatkozik.
 
-(5) A Kormány általános hatáskörű területi államigazgatási szerve eljárására és a határozata elleni jogorvoslatra a kisajátításról szóló törvényben meghatározott rendelkezéseket kell alkalmazni.
+(5) A fővárosi és megyei kormányhivatal eljárására és a határozata elleni jogorvoslatra a kisajátításról szóló törvényben meghatározott rendelkezéseket kell alkalmazni.
 
 46. § (1) Amennyiben a felszín alatti vasút-létesítési jog alapján történő igénybevétel akár a létesítés, akár az üzemeltetés során a felszín alatti vasút-létesítési joggal terhelt ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza, a felszín alatti vasúti pálya létesítője az ingatlan megvásárlását, ennek sikertelensége esetén kisajátítását kezdeményezi.
 

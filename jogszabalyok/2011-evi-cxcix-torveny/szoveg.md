@@ -2361,7 +2361,7 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 - a) saját adataiba a kormánytisztviselő,
 - b) a kormánytisztviselő felettese,
 - c) a minősítést végző vezető,
-- d) a törvényességi ellenőrzést végző,
+- d) a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló,
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
 - f) munkaügyi per kapcsán az eljáró bíróság,
 - g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,

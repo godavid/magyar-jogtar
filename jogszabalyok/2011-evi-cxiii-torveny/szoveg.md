@@ -411,15 +411,16 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (3) A honvédelmi feladatok végrehajtásakor a rendkívüli állapot, megelőző védelmi helyzet, szükségállapot és váratlan támadás idején bevezetett intézkedések végrehajtása során a megyei védelmi bizottság teljes jogkörét annak elnöke a Honvédség állományába tartozó elnökhelyettessel egyetértésben gyakorolja.
 
-(4) A megyei védelmi bizottság elnöke a kormánymegbízott, elnökhelyettesei a honvédelmi feladatok tekintetében a Honvédség állományába tartozó tényleges állományú katona, a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője. Tagjai:
+(4) A megyei védelmi bizottság elnöke a kormánymegbízott, elnökhelyettesei a honvédelmi feladatok tekintetében a Honvédség állományába tartozó tényleges állományú katona, a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője. Tagjai az elnökön és az elnökhelyettesen kívül
 
 - a) a megyei közgyűlés elnöke, a fővárosban a főpolgármester,
 - b) a megyei jogú város polgármestere,
-- c) a katonai igazgatás területi szervének vezetője, képviselője,
-- d) a megyei, fővárosi rendőrfőkapitány,
-- e) az egészségügyi államigazgatási szerv képviselője,
-- f) a vízügyi igazgatási szerv képviselője,
-- g) a megyei védelmi bizottság titkára.
+- c) a fővárosi és megyei kormányhivatal főigazgatója,
+- d) a katonai igazgatás területi szervének vezetője, képviselője,
+- e) a megyei, fővárosi rendőrfőkapitány,
+- f) az egészségügyi államigazgatási szerv képviselője,
+- g) a vízügyi igazgatási szerv képviselője,
+- h) a megyei védelmi bizottság titkára.
 
 (5) A megyei védelmi bizottság állandó meghívottja tanácskozási joggal az Országos Mentőszolgálat képviselője. A megyei védelmi bizottság elnöke az ülésre tanácskozási joggal más személyeket is meghívhat. A helyi védelmi bizottság feladatkörét érintő döntésben részt vesz a helyi védelmi bizottság elnöke is.
 

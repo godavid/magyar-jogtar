@@ -154,15 +154,15 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (2) A fővárosi és megyei kormányhivatal az (1) bekezdésben meghatározott szervnél – törvénysértés észlelése esetén – egyeztető eljárást kezdeményez, ennek eredménytelensége esetén a szerv felügyeleti szervénél felügyeleti eljárást kezdeményez, ennek eredménytelensége esetén a feladatkörrel rendelkező miniszter eljárását kezdeményezi.
 
-(3) A fővárosi és megyei kormányhivatal a (2) bekezdésben foglalt intézkedések eredménytelensége esetén az érintett döntést hozó szerv felügyeleti szerve és a feladatkörrel rendelkező miniszter egyidejű tájékoztatása mellett kezdeményezi a közigazgatás-szervezésért felelős miniszternél a (4) bekezdésben foglalt intézkedés megtételét.
+(3)
 
 (4)
 
-(5) A fővárosi és megyei kormányhivatal az általa megismerhető iratokban foglalt, valamint a részére nyújtott tájékoztatás alapján tudomására jutott személyes adatok kezelésére az (1)–(4) bekezdésben meghatározott eljárás lefolytatása céljából addig az időpontig jogosult, amíg az feladata ellátásához szükséges.
+(5) A fővárosi és megyei kormányhivatal az általa megismerhető iratokban foglalt, valamint a részére nyújtott tájékoztatás alapján tudomására jutott személyes adatok kezelésére az (1)–(2) bekezdésben meghatározott eljárás lefolytatása céljából addig az időpontig jogosult, amíg az a feladata ellátásához szükséges.
 
 20. § A fővárosi és megyei kormányhivatal
 
-- a) döntés-előkészítő és javaslattevő szervként közreműködik a Kormánynak az Alaptörvény 35. cikk (5) bekezdése szerinti indítványtételi jogosultsága, a helyi önkormányzatokról szóló 1990. évi LXV. törvény (a továbbiakban: Ötv.) 95. § d) és e) pontjában, a helyi önkormányzatokért felelős miniszternek az Ötv. 96. § c) és d) pontjában, a helyi önkormányzatok törvényességi ellenőrzéséért felelős miniszternek az Ötv. 96/A. §-ában, valamint a szakmai irányító miniszternek az Ötv. 97. §-ában meghatározott feladatai ellátásában, a Kormánynak nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 150. § d)–e) pontjában, a nemzetiségpolitikáért felelős miniszternek a 151. § a) pontjában, a feladat- és hatáskör szerinti miniszternek a 152. § a) pontjában meghatározott feladatai ellátásában,
+- a) döntés-előkészítő és javaslattevő szervként közreműködik a Kormánynak az Alaptörvény 35. cikk (5) bekezdése szerinti indítványtételi jogosultsága, a helyi önkormányzatokért felelős miniszternek a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 128. § a) és c) pontjában, a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek az Mötv. 129. § b) és c) pontjában, valamint a szakmai irányító miniszternek az Mötv. 130. §-ában meghatározott feladatai ellátásában, a Kormánynak a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Njtv.) 150. § d)–e) pontjában, a nemzetiségpolitikáért felelős miniszternek az Njtv. 151. § a) pontjában, a feladat- és hatáskör szerinti miniszternek az Njtv. 152. § a) pontjában meghatározott feladatai ellátásában,
 - b) a szakigazgatási szerveket érintő funkcionális feladatokat lát el,
 - c) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – ellenőrzési feladatokat lát el, különös tekintettel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény végrehajtásának és a hatósági tevékenység jogszerűségének ellenőrzésére,
 - d) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – gondoskodik a területi államigazgatási szervek ellenőrzési tevékenységének összehangoltságáról,
@@ -180,6 +180,14 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 - d) a szakmai irányító szerv vezetőjét,
 - e) a fővárosi és megyei kormányhivatal funkcionális feladatait, valamint az azok irányítását ellátó szervet vagy szerveket,
 - f) a fővárosi és megyei kormányhivatalra vonatkozó gazdálkodási szabályokat
+
+rendeletben határozza meg.
+
+21/A. § Felhatalmazást kap a Kormány, hogy
+
+- a) a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét,
+- b) a járási (fővárosi kerületi) hivatalok feladat- és hatásköreit, a kormányablakok illetékességi területét és működése szabályait, a kormányablakok működésének személyi és technikai feltételeit
+- c) a kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályait
 
 rendeletben határozza meg.
 

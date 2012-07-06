@@ -187,7 +187,7 @@ teljesíti;
 - b) felügyeli az önkormányzati adóhatóság hatáskörébe tartozó adóztatás törvényességét, ellenőrzi az önkormányzati adóhatóságok irányítását, a törvények és más jogszabályok végrehajtását,
 - c) előterjeszti a kormányhoz az önkormányzati adóigazgatás szervezeti rendszerére vonatkozó jogszabályok tervezetét, indítványozza a szervezeti változtatásokat, koordinálja a szervezeti rendszer egyes elemeinek együttműködését, kezdeményezi az ezekre vonatkozó jogszabályok megalkotását,
 - d) a törvényesség és szakszerűség ellenőrzése érdekében az önkormányzati adóhatóságok vezetőitől jelentéseket, beszámolókat, adatszolgáltatást, továbbá – amennyiben az jogszabályban meghatározott feladata ellátásához szükséges – bármely adózó ügyéről tájékoztatást kérhet,
-- e) az önkormányzati adóhatóság hatáskörébe tartozó adóügyben megváltoztatja, megsemmisíti a Kormány általános hatáskörű területi államigazgatási szervének jogszabálysértő határozatát (végzését), illetve a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja.
+- e) az önkormányzati adóhatóság hatáskörébe tartozó adóügyben megváltoztatja, megsemmisíti a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) jogszabálysértő határozatát (végzését), illetve a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja.
 
 (2) Az adópolitikáért felelős miniszter az (1) bekezdés b) pontjában meghatározott hatáskörét nem ruházhatja át.
 
@@ -1312,8 +1312,8 @@ veheti igénybe.
 - p) a kiegészítő tevékenységet folytatónak nem minősülő, a Tbj. 4. § b) pontja szerinti egyéni vállalkozó,
 - r) a Magyarországon bejegyzett egyház,
 - s) a szakképző iskolai tanulót tanulószerződés alapján foglalkoztató adózó,
-- t) a Tbj. 56/A. § (4) bekezdése szerinti kötelezett.
-- u)
+- t) a Tbj. 56/A. § (4) bekezdése szerinti kötelezett,
+- u) a járási hivatal.
 
 (5) Az adatszolgáltatásra kötelezett személy adatszolgáltatásának tartalmaznia kell a magánszemély adóazonosító számát.
 
@@ -1349,7 +1349,7 @@ szükséges,
   - ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való jogszerzés érdekében köthető megállapodás jogalapjának kontrollja céljából.
 - j) megkeresésre elektronikus úton átadja a költségvetési támogatások kedvezményezettjének nevére (megnevezésére), lakhelyére (székhelyére), valamint az adatszolgáltatást megelőző hónap utolsó napjáig esedékessé vált és meg nem fizetett köztartozásuk jogcímére, összegére vonatkozó adatokat a kincstár, illetve a mezőgazdasági és vidékfejlesztési támogatási szerv részére a költségvetési támogatások folyósítása során a köztartozás visszatartása céljából,
 - k) az általa a bb), bd), be), c), e) és h) pontok alapján teljesített adatszolgáltatások vonatkozásában, a bevallás kijavítása, önellenőrzéssel történő helyesbítése esetén, a hivatkozott pontokban felsorolt adatokat, a kijavítás, illetőleg az önellenőrzés benyújtásának időpontját követő hónap utolsó napjáig adja át.
-- l) megkeresésre adatot szolgáltat a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv részére a helyi önkormányzatokról szóló törvény 33/A. § (7) bekezdésében meghatározott feladatainak ellátásához.
+- l) megkeresésre adatot szolgáltat a helyi önkormányzatok törvényességi felügyeletéért felelős szerv részére a helyi önkormányzatokról szóló törvény 33/A. § (7) bekezdésében meghatározott feladatainak ellátásához.
 
 (8) Ha az állami adóhatóság az elhunyt magánszemély adóügyével összefüggésben adóigazgatási eljárást folytat vagy azt kezdeményez, és ennek során az örökösök személyének ismerete szükséges, az adóhatóság megkeresésére a hagyatéki leltározásra illetékes önkormányzati jegyző adatot szolgáltat a hagyatéki leltár készítésének tényéről, a hagyatéki eljárást lefolytató közjegyző nevéről és székhelyéről, valamint a rendelkezésére álló hozzátartozói adatokról (név, cím). Az állami adóhatóság a jegyző által megküldött hozzátartozói adatokat nyilvántartásából soron kívül törli, amennyiben az eljárás eredményeként nem állapít meg adót, költségvetési támogatást az elhunyt terhére vagy javára. Az állami adóhatóság megkeresésére a hagyatéki eljárást lefolytató közjegyző a megkereső adóhatóságot tájékoztatja az örökösökről az azonosításukhoz szükséges természetes személyazonosító adatok és lakcím feltüntetésével, valamint az örökrészük alapján örökölt vagyonról és annak értékéről, vagy tájékoztatást ad a hagyatéki eljárás megszüntetéséről.
 
@@ -1429,7 +1429,7 @@ szükséges,
 - f) az adópolitikáért felelős minisztert, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 - g) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
 - h) a központi költségvetésből vagy Európai Uniós forrásból támogatást folyósító szervet, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához szükséges.
-- i) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet a helyi önkormányzatokról szóló törvény 33/A. § (2a) bekezdés c) pontjában meghatározott körben.
+- i) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet a helyi önkormányzatokról szóló törvény 33/A. § (2a) bekezdés c) pontjában meghatározott körben.
 
 (8) Az állami adó- és vámhatóság a NAV nyomozó hatóságát tájékoztatja az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntető eljárás megindítása vagy lefolytatása céljából.
 
@@ -2317,9 +2317,9 @@ ezek hiányában a forgalmi érték vagy az árképzési szabályok szerint kalk
 
 (4) Ha a felülellenőrzés alkalmával a felettes adóhatóság, illetve az önkormányzat által kijelölt bizottság a korábbi ellenőrzés által feltárt tényekhez, adatokhoz, körülményekhez, minősítéshez képest eltérést állapít meg, és ez az adófizetési kötelezettséget érinti, a felülellenőrzést lefolytató adóhatóság, illetve az önkormányzat képviselő-testülete által kijelölt bizottság elnöke a korábbi ellenőrzés alapján hozott határozatot megváltoztatja, határozat hiányában elsőfokú határozatot hoz.
 
-(5) A felülellenőrzés megállapításairól hozott határozat ellen az állami adó- és vámhatóság vezetőjéhez, illetőleg a Kormány általános hatáskörű területi államigazgatási szervéhez intézett, de a felülellenőrzést lefolytató szervnél, illetve az önkormányzat képviselő-testülete által kijelölt bizottság elnökéhez benyújtott fellebbezésnek van helye.
+(5) A felülellenőrzés megállapításairól hozott határozat ellen az állami adó- és vámhatóság vezetőjéhez, illetőleg a kormányhivatalhoz intézett, de a felülellenőrzést lefolytató szervnél, illetve az önkormányzat képviselő-testülete által kijelölt bizottság elnökéhez benyújtott fellebbezésnek van helye.
 
-(6) Az állami adó- és vámhatóság vezetőjének, illetve a Kormány általános hatáskörű területi államigazgatási szervének a határozata törvénysértésre hivatkozással a bíróság előtt keresettel támadható meg.
+(6) Az állami adó- és vámhatóság vezetőjének, illetve a kormányhivatalnak a határozata törvénysértésre hivatkozással a bíróság előtt keresettel támadható meg.
 
 ### Állami garancia beváltásához kapcsolódó ellenőrzés
 
