@@ -1860,7 +1860,7 @@ rendeletet alkot.
 - a) megfelel az e törvényben és külön jogszabályban meghatározott feltételeknek, és
 - b) jogerős működési engedéllyel rendelkezik.
 
-(2) A működési engedély kiadásáról a fenntartó kérelmére a működést engedélyező szerv – első fokon a Kormány általános hatáskörű területi államigazgatási szervének szakigazgatási szerveként működő szociális hatóság – dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárások illetékmentesek.
+(2) A működési engedély kiadásáról a fenntartó kérelmére a működést engedélyező szerv – első fokon a fővárosi és megyei kormányhivatal szakigazgatási szerveként működő szociális hatóság – dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárások illetékmentesek.
 
 (3) A működést engedélyező szerv ellenőrzi, hogy a szociális szolgáltató, illetve intézmény működése megfelel-e a működési engedélyben és a jogszabályokban foglaltaknak.
 
