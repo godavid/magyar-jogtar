@@ -3191,7 +3191,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - l)
 - m) az internálásban, a kitelepítésben, az őrizetbevételben, valamint a közbiztonsági őrizetben, illetve a Szovjetunióban fogvatartásban töltött időnek az igazolásával, továbbá a 74/1991. (VI. 10.) Korm. rendelet 1. §-ának (1) bekezdésében felsorolt, valamint a 174/1992. (XII. 29.) Korm. rendelet 1. §-ában meghatározott személyek személyes szabadsága korlátozásának az igazolásával kapcsolatos rendelkezést tartalmazó,
 - n) a családtámogatási ellátásról rendelkező, illetve a társadalombiztosítási,
-- o) a vagyonátadó bizottságnak, illetve a Kormány általános hatáskörű területi államigazgatási szervének a vagyonátadás és a használat tárgyában hozott határozatát,
+- o) a vagyonátadó bizottságnak, illetve a fővárosi és megyei kormányhivatalnak a vagyonátadás és a használat tárgyában hozott határozatát,
 - p) lakás vagy lakrész igénybevételét elrendelő határozat bírósági felülvizsgálata során, továbbá
 - q) ha törvény azt megengedi.
 

@@ -68,7 +68,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 ### Alkotmányos alapismeretek vizsga
 
-4/A. § (1) A 4. § (1) bekezdés e) pontjában meghatározott vizsgát a kérelmező a Kormány általános hatáskörű területi államigazgatási szerve által kijelölt vizsgabizottság előtt teszi le.
+4/A. § (1) A 4. § (1) bekezdés e) pontjában meghatározott vizsgát a kérelmező a fővárosi és megyei kormányhivatal által kijelölt vizsgabizottság előtt teszi le.
 
 (2) Nem köteles vizsgát tenni:
 
@@ -252,7 +252,7 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 
 19. § (1) A magyar állampolgárság megszerzésével kapcsolatos adatszolgáltatást – beleértve a 14. § (1) bekezdésében és a 20/A. §-ban meghatározott adatokat is – az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, illetve a 4. § (3), (6) és (7) bekezdése, illetve az 5. § alapján honosított esetében az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, a Kormány által kijelölt, az állampolgársági ügyekben eljáró szerv teljesíti más anyakönyvvezetőnek, a polgárok személyi adatait és lakcímét nyilvántartó hatóságnak, az idegenrendészeti, a menekültügyi hatóságnak, valamint a Központi Statisztikai Hivatalnak.
 
-(2) A magyar állampolgárság megszűnéséről a miniszter értesíti a polgárok személyi adatait és lakcímét nyilvántartó hatóságot, az anyakönyvi hatóságot, az útlevélhatóságot, a Központi Statisztikai Hivatalt, továbbá – a potenciális hadköteles és a hadköteles személyek esetében – Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve.
+(2) A magyar állampolgárság megszűnéséről a miniszter értesíti a polgárok személyi adatait és lakcímét nyilvántartó hatóságot, az anyakönyvi hatóságot, az útlevélhatóságot, a Központi Statisztikai Hivatalt, továbbá – a potenciális hadköteles és a hadköteles személyek esetében – Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervét.
 
 (3) Az állampolgársági eljárás során a miniszter
 
@@ -322,7 +322,7 @@ ellátva kell az állampolgársági kérelemhez csatolni.
 - b) az eskü vagy fogadalom letételével kapcsolatos feladatokat;
 - c) a jegyzőnek, az anyakönyvvezetőnek és a konzulnak az állampolgársági kérelmek átvételével, az okiratok továbbításával, valamint a hatósági nyilvántartások értesítésével kapcsolatos feladatait;
 - d) az eljárásban használandó formanyomtatványokat;
-- e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, valamint a Kormány általános hatáskörű területi államigazgatási szervének a vizsgával kapcsolatos feladatait és az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét.
+- e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, valamint a fővárosi és megyei kormányhivatalnak a vizsgával kapcsolatos feladatait és az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét.
 
 25. § E törvénynek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény, a magyar állampolgárságról szóló 1993. évi LV. törvény és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XIV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor folyamatban lévő honosítási, visszahonosítási eljárásra is alkalmazni kell.
 

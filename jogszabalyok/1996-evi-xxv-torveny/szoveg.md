@@ -54,7 +54,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (4) Ha a polgármester vagy az ülés levezetésére megválasztott levezető elnök az Ötv. 12. § (2) bekezdésében meghatározott bármely kötelezettségét nem teljesíti, a bíróság – esetenként – ötszázezer forintig terjedő pénzbírsággal sújthatja.
 
-(5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet.
+(5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a fővárosi és megyei kormányhivatalt.
 
 6. § (1) Ha az adósságrendezési eljárás megindítását a hitelező kezdeményezi, kérelmében meg kell jelölnie a helyi önkormányzat tartozásának jogcímét és a lejárat (esedékesség) időpontját. A kérelemben foglaltak bizonyításához szükséges iratokat csatolni kell.
 
@@ -104,7 +104,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (4) Az adósságrendezés megindításáról a polgármester (annak hiányában a pénzügyi gondnok) – a végzés Cégközlönyben történő megjelenését követő 8 napon belül – tájékoztatja
 
-- a) a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet;
+- a) a fővárosi és megyei kormányhivatalt;
 - b) a kincstárt;
 - c) a helyi önkormányzat polgármesteri hivatalának költségvetési elszámolási számláját vezető pénzforgalmi szolgáltatót, valamint a helyi önkormányzat költségvetési szerveinek pénzforgalmi számláit, költségvetési elszámolási számláit vezető pénzforgalmi szolgáltatókat;
 - d) az illetékes adó- és vámhatóságot, valamint a nyugdíjbiztosítási igazgatási szervet és az egészségbiztosítási szervet;
@@ -165,7 +165,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - d) az adósságrendezéssel kapcsolatban előterjesztést tehet, amelyet a képviselő-testület vagy a bizottság köteles soron kívül tárgyalni;
 - e) kezdeményezi a helyi önkormányzat esedékessé vált követeléseinek behajtását;
 - f) a hitelezőket – kérésükre – tájékoztatja a helyi önkormányzat vagyonával, továbbá az adósságrendezési eljárással kapcsolatban;
-- g) tájékoztatja a helyi önkormányzatok törvényességi ellenőrzéséért felelős szervet, ha a képviselő-testület vagy az adósságrendezési bizottság bármely tagja az e törvényben meghatározott kötelezettségét nem teljesíti;
+- g) tájékoztatja a fővárosi és megyei kormányhivatalt, ha a képviselő-testület vagy az adósságrendezési bizottság bármely tagja az e törvényben meghatározott kötelezettségét nem teljesíti;
 - h) az adósságrendezés megindításának időpontjától számított 90 napon belül az általános hatáskörű bíróság előtt a helyi önkormányzat nevében keresettel megtámadhatja a helyi önkormányzatnak és költségvetési szervének az adósságrendezési eljárás kezdő időpontját megelőző 1 éven belül és azt követően megkötött szerződését, vagy más jognyilatkozatát, ha annak tárgya a helyi önkormányzat vagyonából történő ingyenes elidegenítés, illetve a vagyont terhelő ingyenes kötelezettségvállalás, vagy harmadik személy javára feltűnően aránytalan értékkülönbözettel megkötött visszterhes jogügylet. A megtámadási határidő számítására a Ptk. 236. §-ának (3) bekezdésében foglalt szabályok vonatkoznak.
 
 (3) A pénzügyi gondnok jogszabálysértő intézkedése vagy mulasztása ellen a tudomásszerzéstől számított 8 napon belül a sérelmet szenvedett kifogással élhet az eljáró bíróságnál. Az intézkedéstől vagy mulasztástól számított 30 nap elteltével kifogás nem terjeszthető elő.
@@ -186,7 +186,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (3) Az Ötv. 10. §-ában meghatározott – a képviselő-testület kizárólagos hatáskörébe tartozó – ügyek kivételével a helyi önkormányzat kötelezően ellátandó feladatainak és hatáskörének teljesítésével kapcsolatos valamennyi gazdasági kérdésben az adósságrendezési bizottság dönt.
 
-17. § (1) Ha a képviselő-testület az e törvényben foglalt kötelezettségei teljesítése érdekében a helyi önkormányzatok törvényességi ellenőrzéséért felelős szerv felhívása ellenére 30 napon belül nem ül össze, feloszlatása kezdeményezhető.
+17. § (1) Ha a képviselő-testület az e törvényben foglalt kötelezettségei teljesítése érdekében a fővárosi és megyei kormányhivatal felhívása ellenére 30 napon belül nem ül össze, feloszlatása kezdeményezhető.
 
 (2) Amennyiben a képviselő-testület működésképtelenné válik, továbbá, ha a feloszlatását kezdeményezték [Ötv. 93. § (2) bek.] a helyi önkormányzattal szemben azonnal e törvény IV. fejezetében foglaltak szerint kell az adósságrendezési eljárást lefolytatni.
 
@@ -305,7 +305,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 30. § (1) A pénzügyi gondnok a 29. § (6) bekezdésében meghatározott jóváhagyó végzés jogerőre emelkedését követő
 
 - a) 30 napon belül a hitelezők követelését a 31. §-ban meghatározott kielégítési sorrend alapján besorolja, és erről a hitelezőket értesíti,
-- b) 60 napon belül köteles megkísérelni a helyi önkormányzat adósságrendezésbe vonható vagyonának nyilvános értékesítését a forgalomban elérhető legmagasabb áron. A vagyon értékesítése során a hitelezőket elővásárlási jog illeti meg. A 60 napos határidő a 28. § szerinti módon egy alkalommal meghosszabbítható. A pénzügyi gondnok a határidő lejártát követő 30 napon belül az adósságrendezésbe vonható vagyon hitelezők részére történő felosztására tesz javaslatot. A hitelezői igények kielégítése történhet pénzzel, illetve az értékesítetlen vagyontárgyak hitelezők részére történő átadásával is. Ez utóbbi esetben meg kell állapítani – a kielégítési sorrend és a hitelezői követelések arányának megfelelően –, hogy a hitelezők a helyi önkormányzat vagyonából milyen arányban részesednek.
+- b) 60 napon belül köteles megkísérelni a helyi önkormányzat adósságrendezésbe vonható vagyonának nyilvános értékesítését a forgalomban elérhető legmagasabb áron. A vagyon értékesítése során – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (2) bekezdése alapján az államot megillető elővásárlási jogot követően – a hitelezőket elővásárlási jog illeti meg. A 60 napos határidő a 28. § szerinti módon egy alkalommal meghosszabbítható. A pénzügyi gondnok a határidő lejártát követő 30 napon belül az adósságrendezésbe vonható vagyon hitelezők részére történő felosztására tesz javaslatot. A hitelezői igények kielégítése történhet pénzzel, illetve az értékesítetlen vagyontárgyak hitelezők részére történő átadásával is. Ez utóbbi esetben meg kell állapítani – a kielégítési sorrend és a hitelezői követelések arányának megfelelően –, hogy a hitelezők a helyi önkormányzat vagyonából milyen arányban részesednek.
 
 (2) Az értékesítetlen vagyontárgyaknak a hitelezők közötti felosztásával történő vagyonszerzés illetékmentes.
 
@@ -344,11 +344,11 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 33. § (1) A pénzügyi gondnok díját – az eset összes körülményeitől függően – a bíróság állapítja meg. Összegét az éves költségvetési törvény határozza meg; 1996-ban legalább 300 ezer Ft, legfeljebb 2 millió Ft.
 
-(2) A pénzügyi gondnok díjának fedezete a központi költségvetésben a működésképtelenné vált helyi önkormányzatok kiegészítő támogatása. A miniszter a bíróság jogerős végzése alapján a díjösszeg kiutalásáról a kincstáron keresztül intézkedik.
+(2) A pénzügyi gondnok díjának fedezete a központi költségvetés helyi önkormányzatok támogatásait tartalmazó fejezetében áll rendelkezésre. A miniszter a bíróság jogerős végzése alapján a díjösszeg kiutalásáról a kincstáron keresztül intézkedik.
 
 (3) A pénzügyi gondnok igazolt költségeit és az általa igénybe vett szakértők díját a helyi önkormányzat az esedékességkor fizeti ki. A pénzügyi gondnok erről az egyezség, illetve a vagyonfelosztási javaslat benyújtásával egyidejűleg a bíróságnak tételes elszámolást nyújt be, megindokolva a szakértő igénybevételének szükségességét.
 
-34. § (1) Ha a helyi önkormányzat az egyezséghez szükséges feltételeket pénzügyi intézménytől felvett hitellel teremti meg (reorganizációs hitel), úgy a központi költségvetés az esedékes kamattörlesztésre, annak egy részére a reorganizációs hitel teljes futamidejére vagy annak egy részére a miniszter döntése alapján kamatmentes visszatérítendő támogatást nyújthat, legfeljebb az e törvény végrehajtási rendeletében meghatározott referenciakamat +2%-os mértékéig. Erre az esetre a helyi önkormányzat adósságot keletkeztető éves kötelezettségvállalásának mértékét korlátozó törvényi rendelkezés [Ötv. 88. § (2) bek.] nem vonatkozik.
+34. § (1) Ha a helyi önkormányzat az egyezséghez szükséges feltételeket pénzügyi intézménytől felvett hitellel teremti meg (reorganizációs hitel), úgy a központi költségvetés az esedékes kamattörlesztésre, annak egy részére a reorganizációs hitel teljes futamidejére vagy annak egy részére a miniszter döntése alapján kamatmentes visszatérítendő támogatást nyújthat, legfeljebb az e törvény végrehajtási rendeletében meghatározott referenciakamat +2%-os mértékéig.
 
 (2) A helyi önkormányzat a reorganizációs hitel teljes visszafizetését követően köteles az állam részére az igénybe vett kamattámogatást – a miniszterrel történt megállapodás szerint – visszatéríteni.
 
@@ -399,7 +399,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - 6. A helyi közutak biztonságos közlekedésének, tisztán tartásának, a hó eltakarításának és az út síkosság elleni védekezésének biztosítása, a helyi közút forgalmának biztonságát veszélyeztető helyzet elhárítása (1988. évi I. törvény).
 - 7. A közvilágítási berendezés üzemeltetése (1991. évi XX. törvény).
 - 8. Az állati hullák ártalmatlanná tétele, az emberre egészségügyi szempontból veszélyes, valamint az állatállomány egészségét veszélyeztető, betegség tüneteit mutató, vagy betegségre gyanús ebek és macskák kártalanítás nélküli kiirtása, az ebek veszettség elleni kötelező védőoltásának megszervezése (2005. évi CLXXVI. törvény).
-- 9. A tűzoltás és a műszaki mentés biztosítása (1973. évi 13. törvényerejű rendelet).
+- 9.
 - 10. Az óvodai nevelés, az általános iskolai nevelés és oktatás, továbbá a nemzetiségek által lakott településen a nemzetiséghez tartozók óvodai nevelése, általános iskolai nevelése és oktatása (a nemzetiségek jogairól szóló törvény).
 - 11. A többi gyermekkel, tanulóval együtt nevelhető, oktatható testi, érzékszervi, enyhe értelmi, beszéd- és más fogyatékos tanulók ellátása (1993. évi LXXIX. törvény).
 - 12. A kollégiumi és a nemzetiségi kollégiumi ellátás, a középiskolai és a szakiskolai ellátás, a nemzetiségek középiskolai és szakiskolai ellátása, a felnőttoktatás, a nevelési tanácsadás, a logopédiai szolgáltatás (a nemzetiségek jogairól szóló törvény).
@@ -412,9 +412,9 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - 19. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások, a helyi döntésen alapuló ellátások kivételével (időskorúak járadéka, bérpótló juttatás, rendszeres szociális segély, lakásfenntartási támogatás, ápolási díj, átmeneti segély, köztemetés, közgyógyellátás, egészségügyi szolgáltatásra való jogosultság, rendszeres gyermekvédelmi kedvezmény, kiegészítő gyermekvédelmi támogatás, rendkívüli gyermekvédelmi támogatás, óvodáztatási támogatás) (1993. évi III. törvény, 1997. évi XXXI. törvény).
 - 20. A képviselő-testület és a polgármesteri hivatal működtetése, valamint a hivatal dolgozóinak díjazása (bér és közterhei, dologi költségek), kivéve a helyi önkormányzati képviselők és bizottsági tagok tiszteletdíját (1990. évi LXV. törvény).
 - 21. A jövedelempótló támogatásban részesülők számára közhasznú (közszolgáltatási és államigazgatási feladatok folyamatos működtetéséhez kapcsolódó) foglalkoztatás szervezése (1991. évi IV. törvény, 1993. évi III. törvény).
-- 22. A kulturális javak gyűjtése, őrzése, tudományos feldolgozása és bemutatása, a régészeti örökség védelme megyei múzeumi szervezet fenntartásával (1997. évi CXL. törvény).
-- 23. A települési és a megyei könyvtári ellátás biztosítása (1997. évi CXL. törvény).
-- 24. A megyei (fővárosi) önkormányzatnál a megye települési (a fővárosi kerületek) önkormányzatai, közművelődési intézményei, szervezetei és közösségei részére, a közművelődési tevékenységek elősegítése és fejlesztése érdekében közművelődési szakmai tanácsadás és szolgáltatás, a közművelődési szakmai tanácsadás és szolgáltatás működési feltételeinek biztosítása (1997. évi CXL. törvény).
-- 25. A megyei (fővárosi) közlevéltár működtetése (1995. évi LXVI. törvény).
+- 22.
+- 23. A települési könyvtári ellátás biztosítása (1997. évi CXL. törvény).
+- 24. A fővárosi önkormányzatnál a fővárosi kerületek önkormányzatai, közművelődési intézményei, szervezetei és közösségei részére, a közművelődési tevékenységek elősegítése és fejlesztése érdekében közművelődési szakmai tanácsadás és szolgáltatás, a közművelődési szakmai tanácsadás és szolgáltatás működési feltételeinek biztosítása (1997. évi CXL. törvény).
+- 25. A fővárosi közlevéltár működtetése (1995. évi LXVI. törvény).
 - 26. A megváltozott munkaképességűeket foglalkoztató közhasznú gazdálkodó szervezettel érvényben lévő szerződésből eredő kötelezettségek (1991. évi IV. törvény).
 - 27. Megyei önkormányzat esetében minden olyan feladat, amelyhez az Országgyűlés normatív állami hozzájárulást, felhasználási kötöttséggel járó állami támogatást állapít meg.

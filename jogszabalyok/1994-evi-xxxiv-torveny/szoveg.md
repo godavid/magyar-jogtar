@@ -291,7 +291,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - a) a határterülettel érintett területi önkormányzatok és megyei jogú városok közgyűlését a rendőrfőkapitány vagy kijelölt helyettese évente,
 - b) az illetékességi területén lévő települési önkormányzat képviselő-testületét a rendőrkapitány, a határrendészeti kirendeltség vezetője vagy kijelölt helyettese felkérésre tájékoztatja.
 
-(8) A rendőrfőkapitány a Kormány általános hatáskörű területi államigazgatási szerve vezetőjét, a területi önkormányzat közgyűlésének elnökét (főpolgármestert), a területi katasztrófavédelmi szerv vezetőjét, az Alkotmányvédelmi Hivatal területi szervének vezetőjét; a rendőrkapitány vagy a határrendészeti kirendeltség vezetője a települési önkormányzat polgármesterét tájékoztatja
+(8) A rendőrfőkapitány a fővárosi és megyei kormányhivatal vezetőjét, a területi önkormányzat közgyűlésének elnökét (főpolgármestert), a területi katasztrófavédelmi szerv vezetőjét, az Alkotmányvédelmi Hivatal területi szervének vezetőjét; a rendőrkapitány vagy a határrendészeti kirendeltség vezetője a települési önkormányzat polgármesterét tájékoztatja
 
 - a) a lakosságot a szomszédos állam területéről fenyegető veszélyről;
 - b) a tömegesen menekülő, illetve ideiglenes menedéket kérő személyek várható érkezéséről;

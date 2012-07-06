@@ -581,7 +581,7 @@ kell csatolnia.
 - e) a földrészlet tulajdonosának, ha egyéb önálló ingatlan tulajdonjogát ruházták át,
 - f) az ingatlan tulajdonosának, az állam tulajdonosi jogait gyakorló szervezetnek és mindazoknak, akiknek jogát az új bejegyzés érinti, kivéve, ha az ingatlanügyi hatóság hatósági határozat alapján vagy a bíróság megkeresésére a 17. § (1) bekezdésének a)–g) pontjaiban meghatározott tényt jegyezte be az ingatlan-nyilvántartásba,
 - g) telekalakítás esetén az építésügyi hatóság részére,
-- h) külföldi jogi vagy magánszemély, továbbá a termőföldről szóló törvény szerinti tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyzett jogi személy vagy jogi személyiség nélküli szervezet termőföldnek nem minősülő ingatlanra vonatkozó tulajdonszerzése esetén a Kormány általános hatáskörű területi államigazgatási szervének,
+- h) külföldi jogi vagy magánszemély, továbbá a termőföldről szóló törvény szerinti tagállami állampolgár, valamint az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes államban, továbbá a nemzetközi szerződés alapján velük egy tekintet alá eső államban bejegyzett jogi személy vagy jogi személyiség nélküli szervezet termőföldnek nem minősülő ingatlanra vonatkozó tulajdonszerzése esetén a fővárosi és megyei kormányhivatalnak,
 - i) adó- és illetéktartozás behajtására irányuló végrehajtási jog bejegyzéséről az állami adóhatóságnak,
 - j) ha az érdekelt kiskorú vagy gondnokság alatt áll, a gyámhatóságnak,
 - k) felszámolás vagy végelszámolás alatt álló jogosult esetében a felszámolónak, illetve a végelszámolónak,

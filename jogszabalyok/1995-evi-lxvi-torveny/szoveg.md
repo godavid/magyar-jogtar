@@ -114,7 +114,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 - a) a közfeladatot ellátó szerv – e törvényben foglalt kivételekkel – az illetékes közlevéltárral egyetértésben,
 - b) a központi államigazgatási szerv a Magyar Országos Levéltárral, illetve az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
-- c) az önkormányzati hivatal számára a jegyző (főjegyző) az illetékes közlevéltárral és a Kormány általános hatáskörű területi államigazgatási szervével egyetértésben.
+- c) az önkormányzati hivatal számára a jegyző (főjegyző) az illetékes közlevéltárral és a fővárosi és megyei kormányhivatallal egyetértésben.
 
 (2) Egységes iratkezelési szabályzatot ad ki:
 

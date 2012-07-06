@@ -2182,7 +2182,7 @@ kapcsolatos módszertani feladatokat.
 
 100. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység működési engedélyhez kötött. A működési engedélyezés részletes szabályait külön jogszabály határozza meg.
 
-(2) A működési engedély kiadásáról a fenntartó kérelmére a működést engedélyező szerv – első fokon a Kormány általános hatáskörű területi államigazgatási szervének szakigazgatási szerveként működő gyámhivatal – dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárás illetékmentes.
+(2) A működési engedély kiadásáról a fenntartó kérelmére a működést engedélyező szerv – első fokon a fővárosi és megyei kormányhivatal szociális és gyámhivatala – dönt. A működési engedély kiadásával, módosításával és visszavonásával kapcsolatos eljárás illetékmentes.
 
 (3) A működést engedélyező szerv ellenőrzi, hogy a szolgáltató tevékenységet a működési engedélyben és a jogszabályokban foglaltaknak megfelelően végzik-e.
 
