@@ -2746,7 +2746,7 @@ teljesíti.
 
 174. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
-- a)
+- a) – a Nemzeti Adatvédelmi és Információszabadság Hatóság véleményének kikérésével – a nemzetbiztonsági szolgálatok által közzéteendő adatok körét,
 - b) az elektronikus kapcsolattartás részletes eljárási szabályait,
 - c) a hatósági közvetítők tevékenységére, a hatósági közvetítővé válás feltételeire és a hatósági közvetítő kiválasztására vonatkozó szabályokat,
 - d) a költségmentesség megállapításának szabályait,
@@ -2759,7 +2759,7 @@ teljesíti.
 
 (3) Felhatalmazást kap
 
-- a) a polgári hírszerzési tevékenység irányításáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy az irányítása alá tartozó polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét –a Nemzeti Adatvédelmi és Információszabadság Hatóság véleményének kikérésével – rendeletben állapítsa meg.
+- a)
 - b)–c)
 - d) a közigazgatás-fejlesztésért felelős miniszter, hogy az államháztartásért felelős miniszter egyetértésével rendeletben állapítsa meg a tanú és a hatósági tanú által felszámítható költségekre vonatkozó részletes szabályokat,
 - e) a közigazgatás-fejlesztésért felelős miniszter, hogy rendeletben állapítsa meg a közigazgatási hatósági eljárás során lefoglalt dolgok tárolásának és értékesítésének részletes szabályait,

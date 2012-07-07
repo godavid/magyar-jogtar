@@ -107,9 +107,15 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 
 ### A nemzetbiztonsági szolgálatok irányítása és vezetése
 
-10. § (1) A Kormány az Információs Hivatalt a polgári hírszerzési tevékenység irányításáért felelős miniszter, az Alkotmányvédelmi Hivatalt és a Nemzetbiztonsági Szakszolgálatot a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a Katonai Nemzetbiztonsági Szolgálatot honvédelemért felelős miniszter (a továbbiakban együtt: miniszter) útján irányítja.
+10. § (1) A Kormány
 
-(2)
+- a) az Információs Hivatalt a polgári hírszerzési tevékenység irányításáért felelős miniszter,
+- b) az Alkotmányvédelmi Hivatalt és a Nemzetbiztonsági Szakszolgálatot a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter,
+- c) a Katonai Nemzetbiztonsági Szolgálatot a honvédelemért felelős miniszter [az a)–c) pont szerinti miniszterek a továbbiakban együtt: miniszter] útján irányítja.
+
+(2) A Kormány az Információs Hivatalt – a Kormány erre vonatkozó eredeti jogalkotó hatáskörben kiadott kormányrendeleti kijelölése esetén – a miniszterelnök útján is irányíthatja. Ha a Kormány az Információs Hivatalt a miniszterelnök útján irányítja, az e törvényben a miniszter alatt – az Információs Hivatal vonatkozásában – a miniszterelnököt is érteni kell.
+
+(3) Ha a Kormány az Információs Hivatalt a miniszterelnök útján irányítja, az irányítással összefüggő egyes hatásköröket a miniszterelnök a Miniszterelnökség szervezeti és működési szabályzatában a Miniszterelnökséget vezető államtitkárra átruházhatja.
 
 11. § (1) A miniszter
 
@@ -150,6 +156,8 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 12. § (1) A nemzetbiztonsági szolgálatok élén főigazgatók állnak, akiket a miniszter előterjesztésére a miniszterelnök nevez ki, és ment fel.
 
 (2) A Nemzetbiztonsági Szakszolgálat főigazgatójára vonatkozó előterjesztést a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben teszi meg.
+
+12/A. § Ha a Kormány az Információs Hivatalt a miniszterelnök útján irányítja, a 11. § (2) bekezdés j) pontját és a 12. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az Információs Hivatal főigazgatóját a miniszterelnök nevezi ki és menti fel.
 
 13. § (1) A főigazgatók e törvény, a jogszabályok és a közjogi szervezetszabályozó eszközök által meghatározott keretek között önálló felelősséggel vezetik a nemzetbiztonsági szolgálatokat.
 
@@ -818,7 +826,7 @@ tekintetében.
 
 77. § (1) Felhatalmazást kap a Kormány, hogy rendeletben megállapítsa:
 
-- a)
+- a) azon munkaköröket, amelyek – a 2. számú melléklet 18. pontja alapján – fontos és bizalmas munkakörnek minősülnek, illetve e munkakörök tekintetében meghatározza a biztonsági ellenőrzések szintjét;
 - b) a biztonsági okmányok körét, a biztonsági okmányvédelemre jogosult szervezet feladat- és hatáskörét, a biztonsági okmányvédelem eljárási szabályait;
 - c) a titkos információgyűjtés feltételeinek biztosítása érdekében a titkos információgyűjtésre feljogosított szervezetek és a távközlési szolgáltatási feladatokat ellátó szervezetek együttműködésének rendjét és szabályait.
 
@@ -831,12 +839,14 @@ tekintetében.
 
 (3)
 
-78. § (1) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa:
+78. § (1) Felhatalmazást kap a miniszter, hogy az (1a) bekezdésben meghatározott kivétellel rendeletben megállapítsa:
 
 - a) a nemzetbiztonsági szolgálatok lakásgazdálkodása, valamint a lakáscélú munkáltatói támogatás rendjét;
 - b) a szolgálati fegyver rendszeresítésének, viselésének rendjét és használatának részletes szabályait;
 - c) a nemzetbiztonsági szolgálatok létesítményeibe való belépés rendjét;
 - d) a miniszteri elismerések adományozásának rendjét;
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben az (1) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában szabályokat állapítson meg.
 
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 
@@ -845,7 +855,7 @@ tekintetében.
 - c) mindazokat az eljárásokat, amelyeket a költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló jogszabály saját hatáskörű szabályozásként ír elő;
 - d) a nemzetbiztonsági szolgálatok védelemre jogosult vezetőinek körét, a védelmi intézkedések részletes szabályait.
 
-(3) Felhatalmazást kap az illetékes miniszter, hogy – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter egyetértésével kiadott – rendeletben megállapítsa azon munkaköröket, amelyek – a 2. számú melléklet 18. pontja alapján – fontos és bizalmas munkakörnek minősülnek, illetve e munkakörök tekintetében meghatározza a biztonsági ellenőrzések szintjét.
+(3) Felhatalmazást kap a Kormány, hogy határozatban a (2) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában szabályokat állapítson meg.
 
 79. §
 
