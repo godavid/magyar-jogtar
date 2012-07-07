@@ -32,7 +32,7 @@ Magyarország függetlenségének, törvényes rendjének, valamint a lakosság 
 - d) szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, kormánytisztviselőként foglalkoztatott személy is minősülhet;
 - e) országos parancsnok: a rendőrség központi szervének vezetője, a hivatásos katasztrófavédelmi szerv központi szerve vezetője, a büntetés-végrehajtás országos parancsnoka, valamint a nemzetbiztonsági szolgálatok főigazgatói;
 - f) országos parancsnokság: a nemzetbiztonsági szolgálatok főigazgatói kivételével az e) pontban meghatározott személyek által vezetett szervek;
-- g) miniszter: a fegyveres szervet irányító miniszter;
+- g) miniszter: a Kormány fegyveres szervet irányító tagja;
 - h) szervezeti egység: a fegyveres szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, az állományilletékes parancsnok által vezetett szervezet;
 - i) szolgálati hely: az a szervezeti egység, amelynek állományába a hivatásos állomány tagja tartozik;
 - j) a szolgálatteljesítés helye: az a földrajzilag körülhatárolható területrész, ahol a szolgálati feladatot ténylegesen végre kell hajtani;
@@ -3077,6 +3077,8 @@ Szolgálatonként:
 
 (3) A polgári nemzetbiztonsági szolgálatok esetében a miniszter a kihelyezett állományra vonatkozó különös szabályokat utasításban állapítja meg.
 
+(4) Az Információs Hivatal esetében – az (1) és (3) bekezdéstől eltérően – a Kormány határozatban állapítja meg az (1) és (3) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában a szabályokat.
+
 ### XXII. Fejezet — A BÜNTETÉS-VÉGREHAJTÁSI SZERVEZET HIVATÁSOS ÁLLOMÁNYÁRA VONATKOZÓ SZABÁLYOK
 
 301. § A büntetés-végrehajtási szervezet hivatásos állományára e törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
@@ -3400,6 +3402,8 @@ A pótlékok mértéke:
 - l) a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és e vizsgák alóli mentesítést;
 - m) a tartalékállományba vételre és a tartalékállomány működtetésre vonatkozó szabályokat;
 - n) a hivatásos szolgálati viszonyban állók tekintetében a kormánytisztviselői kártya alkalmazásának szabályait.
+
+(1a) Felhatalmazást kap a Kormány, hogy – ha e törvény eltérően nem rendelkezik – rendeletben a (2) bekezdés szerinti tárgykörökben az Információs Hivatal vonatkozásában szabályokat állapítson meg.
 
 (2) Felhatalmazást kap a miniszter, hogy az általa irányított vagy felügyelt fegyveres szerv tekintetében rendeletben szabályozza:
 
