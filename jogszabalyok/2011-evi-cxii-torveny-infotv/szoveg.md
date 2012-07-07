@@ -462,7 +462,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (3) A közzétételre kötelezett szerv vezetője – a Hatóság véleményének kikérésével –, valamint jogszabály a közfeladatot ellátó szervre, azok irányítása, felügyelete alá tartozó szervekre vagy azok egy részére kiterjedő hatállyal további kötelezően közzéteendő adatkört határozhat meg (a továbbiakban: egyedi közzétételi lista).
 
-(4) A polgári nemzetbiztonsági szolgálatok által közzéteendő adatok körét a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter, a Katonai Nemzetbiztonsági Szolgálat által közzéteendő adatok körét a honvédelemért felelős miniszter – a Hatóság véleményének kikérésével – rendeletben állapítja meg.
+(4) A nemzetbiztonsági szolgálatok által közzéteendő adatok körét a Kormány – a Hatóság véleményének kikérésével – rendeletben állapítja meg.
 
 (5) Testületi szervként működő közzétételre kötelezett szerv esetén az egyedi közzétételi lista megállapítása és módosítása – a Hatóság véleményének kikérésével – a testület hatáskörébe tartozik.
 
@@ -902,13 +902,14 @@ dönt.
 - a) állapítsa meg a közérdekű adatok elektronikus közzétételének részletszabályait,
 - b) állapítsa meg a közérdekű adat iránti igény teljesítése érdekében készített másolatért fizetendő költségtérítés mértékének megállapítása során figyelembe vehető költségelemeket és azok legmagasabb mértékét, valamint a másolatként igényelt dokumentum jelentős terjedelmének megállapítása során alkalmazandó szempontokat,
 - c) különös közzétételi listát állapíthasson meg,
-- d) állapítsa meg az egységes közadatkereső rendszer és a központi jegyzék adattartalmát, valamint az adatintegrációra vonatkozó szabályokat.
+- d) állapítsa meg az egységes közadatkereső rendszer és a központi jegyzék adattartalmát, valamint az adatintegrációra vonatkozó szabályokat,
+- e) – a Hatóság véleményének kikérésével – állapítsa meg a nemzetbiztonsági szolgálatok által közzéteendő adatok körét.
 
 (2) Felhatalmazást kap
 
 - a) a feladatkörrel rendelkező miniszter, hogy rendeletben az irányítása vagy felügyelete alá tartozó szervekre nézve különös közzétételi listát állapíthasson meg,
 - b) az e-közigazgatásért felelős miniszter, hogy rendeletben állapítsa meg a közzétételi listákon szereplő adatok közzétételéhez szükséges közzétételi mintákat,
-- c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, valamint a honvédelemért felelős miniszter, hogy – a Hatóság véleményének kikérésével – rendeletben állapítsa meg az irányítása alá tartozó nemzetbiztonsági szolgálatok által közzéteendő adatok körét.
+- c)
 
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben az adatvédelmi nyilvántartásba vételért és az adatvédelmi auditért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.
 
