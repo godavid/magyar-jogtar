@@ -358,7 +358,13 @@ Vhr. 11/A. § (1) A létesítmény bezárásának minősül:
 
 (3) Az (1) bekezdés b)–c) pontjában meghatározott esetekben a környezetvédelmi hatóság a kibocsátási engedélyt a (2) bekezdés szerinti bejelentés alapján visszavonja. A bezárásra tekintet nélkül a bezárás napjáig fennálló nyomon követési, jelentéstételi kötelezettségét az üzemeltetőnek a vonatkozó jogszabályok szerint teljesítenie kell. A bezárás napjáig fennálló kibocsátási egységek visszaadására vonatkozó kötelezettségét az üzemeltetőnek legkésőbb a bezárás napjától számított 45 napon belül teljesítenie kell.
 
-(4) [Üht. 10. §] (4)
+(4)
+
+### Az ÜHG-egységek visszaadása
+
+Vhr. 11/B. § A hatóság határozatban kötelezi a szén-dioxid geológiai tárolására használt tárolóhely üzemeltetőjét arra, hogy a tárolóhely szivárgása esetén a szivárgást követő év április 30-ig a környezetbe jutó üvegházhatású gázokkal egyenértékű kibocsátási egységet a magyar állam részére visszaadjon.
+
+[Üht. 10. §] (4)
 
 (5) A (3) és (4) bekezdés szerinti kiosztási határozatot a villamos energiáról szóló 2001. évi CX. törvény vagy a távhőszolgáltatásról szóló 2005. XVIII. törvény alapján termelői engedélyköteles tevékenységek tekintetében a miniszter a Magyar Energia Hivatal szakvéleményének figyelembevételével hozza meg.
 
@@ -688,7 +694,8 @@ Vhr. 21. § Ez a rendelet a kihirdetését követő 45. napon lép hatályba.
 Vhr. 22. § (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács 2003/87/EK irányelve (2003. október 13.) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról (az Üht.-vel együtt);
-- b) a Bizottság 2004/156/EK határozata (2004. január 29.) a 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátásainak nyomon követésére és jelentésére vonatkozó iránymutatások létrehozásáról.
+- b) a Bizottság 2004/156/EK határozata (2004. január 29.) a 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátásainak nyomon követésére és jelentésére vonatkozó iránymutatások létrehozásáról;
+- c) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 11. cikk (4) bekezdése, 16. cikk (1) bekezdése, 17. cikk (2) és (4) bekezdése és 18. cikk (1) bekezdése.
 
 (2) Ez a rendelet a 2003/87/EK európai parlamenti és tanácsi irányelv és a 280/2004/EK európai parlamenti és tanácsi határozat szerinti kibocsátásforgalmi-jegyzékek egységesített és biztonságos rendszeréről szóló, 2004. december 21-i 2216/2004/EK bizottsági rendelet 8. cikke (1) bekezdésének, 38. cikke (1) és (2) bekezdésének, 44. cikke (1) és (2) bekezdésének, valamint 74. cikkének a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
