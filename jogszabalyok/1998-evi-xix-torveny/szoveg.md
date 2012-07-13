@@ -1730,6 +1730,8 @@ vezet.
 - a) bizonyítási eszköz,
 - b) a törvény értelmében elkobozható vagy amelyre vagyonelkobzás rendelhető el.
 
+(2a) A lefoglalást akkor is el kell rendelni, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
+
 (3) A közjegyzői vagy ügyvédi irodában, továbbá az egészségügyi intézményben tartott – közjegyzői vagy ügyvédi tevékenységgel összefüggő hivatásbeli titkot, illetőleg egészségügyi adatot tartalmazó – iratok lefoglalását a bíróság rendeli el.
 
 (4) A címzettnek még nem kézbesített postai és hírközlési küldeménynek, valamint a sajtótermék szerkesztősége iratainak lefoglalását a vádirat benyújtásáig az ügyész, azt követően a bíróság rendeli el. A határozat meghozataláig csak a küldemény visszatartásának van helye.
@@ -1843,6 +1845,8 @@ vezet.
 
 (2) Ha az eljárás olyan bűncselekmény miatt folyik, amellyel kapcsolatban vagyonelkobzásnak van helye, illetve ha polgári jogi igényt érvényesítenek, és alaposan tartani lehet attól, hogy a kielégítést meghiúsítják, ezek biztosítására a terhelt egész vagyonának, vagyona meghatározott részének vagy egyes vagyontárgyainak zár alá vétele rendelhető el. A zár alá vétel elrendelhető arra a vagyonra, vagyonrészre, illetve egyes vagyontárgyra is, amelyre nézve vagyonelkobzás rendelhető el, de amelyet nem a terhelt birtokol.
 
+(2a) A zár alá vétel akkor is elrendelhető, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
+
 (3) Ha ingatlan elkobzásának van helye, a zár alá vételt el kell rendelni.
 
 (4) A zár alá vételnek a közhitelű nyilvántartásba történő bejegyzése iránt haladéktalanul intézkedni kell. Ha nincs külön jogszabály szerinti közhitelű nyilvántartás, a zár alá vétellel érintett gazdálkodó szervezetet kell értesíteni.
@@ -1866,6 +1870,8 @@ vezet.
 160. § (1) A biztosítási intézkedés a zár alá vétel érdekében annak ideiglenes megakadályozása, hogy a terhelt vagy más érdekelt az ingó és ingatlan vagyona, vagyoni jogot megtestesítő értékpapírjai, pénzintézetnél szerződés alapján kezelt pénzeszközei, gazdálkodó szervezet vagyonából az őt megillető üzletrész vagy vagyoni hányad feletti rendelkezési jogát gyakorolja.
 
 (2) Az ügyész, illetőleg a nyomozó hatóság biztosítási intézkedést alkalmazhat, ha a zár alá vétel feltételeinek fennállása valószínűsíthető, és a terhelt az (1) bekezdésben meghatározott vagyona elrejtését, rendelkezési jogának átruházását, elidegenítését vagy megterhelését megkísérli, illetőleg ha ez megalapozottan feltehető.
+
+(2a) Az ügyész, illetőleg a nyomozó hatóság biztosítási intézkedést akkor is alkalmazhat, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
 
 (3) Biztosítási intézkedésként a nyomozó hatóság, illetve az ügyész az (1) bekezdésben meghatározott dolgokat – az ingatlan kivételével – lefoglalja, vagy a 61. §-ban felsorolt hatóságokat keresi meg a hatáskörükbe tartozó intézkedések elvégzése érdekében. A hatóságok az intézkedéseket haladéktalanul kötelesek megtenni, és ennek megtörténtéről a nyomozó hatóságot, illetve az ügyészt haladéktalanul tájékoztatni.
 
