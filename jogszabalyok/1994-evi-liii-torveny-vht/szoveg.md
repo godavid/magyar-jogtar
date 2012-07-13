@@ -1053,7 +1053,8 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 - j) az adós háztartásához tartozó kiskorú gyermek által használt — jellegénél fogva gyermekek részére szolgáló — tárgy,
 - k) az adós és a háztartásához tartozók részére 1 hónapra szükséges élelmiszer és 3 hónapra szükséges tüzelőanyag,
 - l) a lábon álló, illetőleg be nem takarított termés, gyümölcs,
-- m) az a dolog, amelyet a felszámolási eljárás során nem lehet az adós vagyonához tartozóként figyelembe venni.
+- m) az a dolog, amelyet a felszámolási eljárás során nem lehet az adós vagyonához tartozóként figyelembe venni,
+- n) a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javak a különleges védelem időtartama alatt.
 
 (2) Ha a foglalásra több ingatlanban kerül sor, az (1) bekezdés e)–g) és k) pontjában meghatározott mentességet csak az – adós nyilatkozata esetén az általa megjelölt – egyik ingatlanban foganatosított foglalás során lehet érvényesíteni.
 
@@ -1089,7 +1090,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 96/A. § Az adósnak vagy az óvadék jogosultjának kérelmére a végrehajtó mentesíti a végrehajtás alól az óvadékként nyújtott pénzt, takarékbetétkönyvet vagy értékpapírt mindaddig, amíg az óvadék visszaadásának feltételei nem állnak fenn. A mentesítésnek akkor van helye, ha a kérelmező igazolja, hogy az óvadékkal biztosított jogügyletet nem a hozzátartozójával vagy olyan jogi személlyel kötötte, amellyel való viszonyában többségi befolyás áll fenn, illetve a gazdálkodó szervezet nem a tagjával kötötte.
 
-96/B. § A 90. és 91. §-ban felsorolt vagyontárgyak – a 90. § h), l) és m) pontjában felsorolt vagyontárgyak kivételével – csak a természetes személy adósok elleni végrehajtás alól tekinthetők mentesnek.
+96/B. § A 90. és 91. §-ban felsorolt vagyontárgyak – a 90. § h), l), m) és n) pontjában felsorolt vagyontárgyak kivételével – csak a természetes személy adósok elleni végrehajtás alól tekinthetők mentesnek.
 
 ### Becslés
 
@@ -1965,7 +1966,9 @@ az aktivált felhasználói nevének és jelszavának megadásával gyakorolhatj
 
 (4) Ha a kötelezett a helyszíni eljáráson nincs jelen, ez az eljárás lefolytatásának nem akadálya, ilyenkor a végrehajtható okiratot a helyszíni eljárásról készült jegyzőkönyvvel együtt postán kell részére kézbesíteni.
 
-179. § (1) Ha a végrehajtást kérő a meghatározott ingóságot nem tudta megjelölni, vagy az ingóság bármely okból nem lelhető fel, a végrehajtó – szükség esetén a lakás vagy helyiség felnyitásával – az ingóság valószínű értéke erejéig a kötelezett egyéb vagyontárgyait lefoglalja.
+178/A. § Mentesek a végrehajtás alól a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javak a különleges védelem időtartama alatt.
+
+179. § (1) Ha a végrehajtást kérő a meghatározott ingóságot nem tudta megjelölni, vagy ha az ingóság bármely okból nem lelhető fel, illetve a 178/A. § szerinti mentesség esetén a végrehajtó – szükség esetén a lakás vagy helyiség felnyitásával – az ingóság valószínű értéke erejéig a kötelezett egyéb vagyontárgyait lefoglalja.
 
 (2) Ha a kötelezett vagyontárgyainak lefoglalására kerül sor, a végrehajtó a foglalási jegyzőkönyvet beterjeszti a végrehajtást elrendelő bírósághoz, amely a felek meghallgatása után megállapítja az ingóság értékét. A meghallgatás mellőzhető, ha a végrehajtás alapjául szolgáló határozat az értéket már megállapította.
 
@@ -2194,6 +2197,8 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (3) A lefoglalt romlandó dolgot zárlat esetén is értékesíteni kell. A 193. § b) pontja ilyenkor is irányadó.
 
+(4) Az elrendelt zárlat ellenére sem lehet lefoglalni a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javakat a különleges védelem időtartama alatt.
+
 195. § Az ingatlan zárlatát elrendelő végzés átvétele után a végrehajtó haladéktalanul megkeresi az ingatlanügyi hatóságot, hogy a zárlatot jegyezze be az ingatlan-nyilvántartásba. A további eljárásra a 138. § megfelelően irányadó.
 
 196. § A zárlat bejegyzéséről szóló ingatlan-nyilvántartási határozat kézhezvétele után a végrehajtó az ingatlant zárgondnok kezelésébe adja, ha
@@ -2395,6 +2400,8 @@ az adós vagyontárgyait a pénzkövetelés végrehajtásának szabályai szerin
 (2) Az (1) bekezdés a) pontja alapján történő foglalás során a 87. § alkalmazásának nincs helye; a végrehajtó az ingóságot – a mentesség szabályaitól függetlenül – lefoglalja, a pénzösszeget teljes összegben végrehajtás alá vonja. A végrehajtó azonnal intézkedik a lefoglalt ingóság elszállítása iránt.
 
 (3) Az (1) bekezdés b) pontjában foglalt esetben a végrehajtó az adós valamennyi ingóságát – ide nem értve a végrehajtás alól mentes vagyontárgyakat – lefoglalja, és azonnal intézkedik a lefoglalt ingóságok elszállítása iránt. Ha az elszállítás akadályba ütközik, a zár alá vétel szabályait kell alkalmazni. Zár alá kell venni azt a dolgot is, amelyre nézve már korábban igénypert indítottak.
+
+(4) Mentesek a végrehajtás alól a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javak a különleges védelem időtartama alatt.
 
 210/F. § (1) Ingatlanra kimondott vagyonelkobzás esetén, továbbá ha az adós egész vagyonára elrendelt vagyonelkobzás végrehajtása során megállapították, hogy a vagyonhoz ingatlan is tartozik, a végrehajtó – ha e törvény másként nem rendelkezik – haladéktalanul megkeresi az ingatlanügyi hatóságot, hogy az ingatlanra az állam tulajdonjogát jegyezze be. A megkeresésben az állam tulajdonosi jogait gyakorló szervezetként a Magyar Nemzeti Vagyonkezelő Zrt.-t (a továbbiakban: MNV Zrt.) kell megjelölni, és erről az MNV Zrt.-t értesíteni kell.
 

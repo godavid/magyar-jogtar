@@ -167,6 +167,8 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (5) Nincs helye elkobzás elrendelésének, ha a cselekmény elkövetése óta két év eltelt, kivéve, ha az elkobzás tárgyának birtoklása jogellenes.
 
+(6) Nincs helye az elkobzás foganatosításának a kölcsönzött kulturális javak különleges védelméről szóló törvény szerinti védelem esetén a különleges védelem időtartama alatt.
+
 #### 12. A kitiltás
 
 19. § (1) A sportrendezvényen való részvétellel, az odautazással vagy az onnan történő távozással összefüggő szabálysértés miatt az eljárás alá vont személy kitiltható bármelyik sportszövetség versenyrendszerében megrendezésre kerülő sportrendezvényről, valamint bármelyik sportszövetség versenyrendszerében megrendezett sportesemény helyszínéül szolgáló sportlétesítményből.
@@ -714,6 +716,8 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 - b) amelynek elkobzását e törvény elrendeli.
 
 (2) Ha a nem magyar állampolgárságú eljárás alá vont személy nem helyezi letétbe az előreláthatólag kiszabásra kerülő pénzbírság, illetve a szabálysértési költség fedezetéhez szükséges összeget, a bíróság vagy a szabálysértési hatóság az összeg erejéig az eljárás alá vont személy vagyontárgyait – a nélkülözhetetlen vagyontárgyak kivételével – lefoglalhatja. A meghallgatás során tájékoztatni kell a letétbe helyezés, illetve ennek elmulasztása esetén a lefoglalás lehetőségéről.
+
+(2a) A lefoglalást akkor is el kell rendelni, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
 
 (3) Postai küldeményt, táviratot – a címzettnek történő kézbesítése előtt – csak az ügyész írásbeli határozata alapján lehet lefoglalni, az ügyészi határozat meghozataláig csak visszatartásuk iránt lehet intézkedni.
 
