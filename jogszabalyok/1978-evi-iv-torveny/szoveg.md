@@ -649,6 +649,8 @@ követte el.
 
 (4) Az elkobzást akkor is el kell rendelni, ha az elkövető gyermekkor vagy kóros elmeállapot miatt nem büntethető, vagy ha az elkövetőt megrovásban részesítették.
 
+(4a) Az elkobzást akkor is el kell rendelni, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
+
 (5) Nincs helye elkobzásnak a cselekmény büntethetőségének elévülésére megállapított idő, de legalább öt év elteltével.
 
 (6) Nem lehet elrendelni annak a dolognak az elkobzását, amelyre a vagyonelkobzás kiterjed.
@@ -688,6 +690,8 @@ követte el.
 - c) a 77/B. § (5) bekezdésének b) pontjában meghatározott esetben.
 
 (2) A vagyonelkobzást akkor is el kell rendelni, ha az elkövető gyermekkor vagy kóros elmeállapot miatt nem büntethető, vagy ha az elkövetőt megrovásban részesítették.
+
+(2a) A vagyonelkobzást akkor is el kell rendelni, ha az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
 
 (3) Az elkobzott vagyon törvény eltérő rendelkezése hiányában az államra száll.
 

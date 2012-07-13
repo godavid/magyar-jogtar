@@ -2169,7 +2169,7 @@ amelyek az adózó valós jövedelem-(bevétel-)felhasználásának és forrás�
 
 (3) Az adóhatóság az átvizsgálás megkezdése előtt közli a jelen lévő adózóval, képviselőjével, megbízottjával, alkalmazottjával az átvizsgálást elrendelő végzést, és – ha az átvizsgálás meghatározott, illetőleg ismert tárgyi bizonyítási eszköz megtalálására irányul – felszólítja a keresett tárgyi bizonyítási eszköz átadására. Ha az adózó, képviselője, megbízottja, alkalmazottja a felszólításra a keresett tárgyi bizonyítási eszközt átadja, az átvizsgálás nem folytatható, kivéve, ha megalapozottan feltételezhető, hogy az átvizsgálás során más tárgyi bizonyítási eszköznek minősülő dolog is fellelhető.
 
-(4) Az átvizsgálás során talált, tárgyi bizonyítási eszköznek minősülő dolgot – a romlandó élelmiszerek és az élő állatok kivételével – az ellenőrzést végző adóhatóság végzésével lefoglalhatja, ha annak újabb elrejtésétől, megsemmisítésétől vagy értékesítésétől lehet tartani.
+(4) Az átvizsgálás során talált, tárgyi bizonyítási eszköznek minősülő dolgot – a romlandó élelmiszerek és az élő állatok kivételével – az ellenőrzést végző adóhatóság végzésével lefoglalhatja, ha annak újabb elrejtésétől, megsemmisítésétől vagy értékesítésétől lehet tartani. Nem foglalhatóak le a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javak a különleges védelem időtartama alatt.
 
 (5) A jármű, a jármű rakománya, a helyszín, a helyiség átvizsgálásánál, a lefoglalásnál és a fuvarellenőrzésnél az adózó jelenlétét biztosítani kell. Ha az adózó nem kíván jelen lenni vagy ebben akadályozott, és megfelelő képviseletről nem gondoskodik, az adóhatóság az átvizsgálást, a lefoglalást, illetőleg a fuvarellenőrzést két hatósági tanú jelenlétében foganatosítja.
 
@@ -2909,7 +2909,7 @@ Külföldi magánszemély esetén a fővárosi főjegyző az illetékes önkorm�
 
 (3) A biztosítási intézkedést az az adóhatóság rendeli el, amelyik a fizetési kötelezettséget megállapító határozatot (végzést) hozta.
 
-(4) A biztosítási intézkedést elrendelő végzés végrehajtására a végrehajtási eljárás során irányadó szabályokat kell alkalmazni azzal, hogy a gépjármű biztosítási intézkedés keretében foganatosítandó lefoglalása a gépjármű lefoglalás foglalási jegyzőkönyvben történő feltüntetésével, illetve ha lehetséges, a törzskönyv lefoglalásával történik.
+(4) A biztosítási intézkedést elrendelő végzés végrehajtására a végrehajtási eljárás során irányadó szabályokat kell alkalmazni azzal, hogy a gépjármű biztosítási intézkedés keretében foganatosítandó lefoglalása a gépjármű lefoglalás foglalási jegyzőkönyvben történő feltüntetésével, illetve ha lehetséges, a törzskönyv lefoglalásával történik. Nem foganatosítható a biztosítási intézkedést elrendelő végzés a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javak tekintetében a különleges védelem időtartama alatt.
 
 (5) A biztosítási intézkedést elrendelő végzés ellen végrehajtási kifogásnak van helye, amelynek a végzés végrehajtására nincs halasztó hatálya.
 
