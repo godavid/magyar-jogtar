@@ -30,12 +30,12 @@ Az Országgyűlés a víziközmű-szolgáltatással kapcsolatos alapvető jogok 
 
 2. § E törvény alkalmazásában:
 
-- 1. átadási pont: olyan víziközmű, amely beépített mérőberendezés, elzárószerelvény és mintavételi lehetőség útján biztosítja két víziközmű-rendszer kapcsolatát, valamint az összekapcsolt víziközmű-rendszerek üzemeltetése során az ivóvízátadás, -átvétel és a szennyvízátadás, -átvétel mennyiségi és minőségi elszámolásának műszaki feltételeit.
+- 1. átadási pont: olyan víziközmű, amely beépített mérőberendezés, elzárószerelvény és mintavételi lehetőség útján biztosítja két víziközmű-rendszer kapcsolatát, valamint az összekapcsolt víziközmű-rendszerek üzemeltetése során az ivóvízátadás, -átvétel és a szennyvízátadás, -átvétel mennyiségi és minőségi elszámolásának műszaki feltételeit,
 - 2. bekötési vízmérő: a felhasználási hely ivóvízhasználatának mérésére szolgáló, az ivóvíz-bekötővezeték végpontjára telepített mérő,
-- 3. csatlakozó ivóvízhálózat: több felhasználási hely ivóvízét az ivóvíz-bekötővezeték végpontjától a házi ivóvízhálózatokba szállító vízvezeték-hálózat, amely az érintett felhasználási helyek közös tartozékát képezi,
+- 3. csatlakozó hálózat: több felhasználási hely ivóvízét az ivóvíz-bekötővezeték végpontjától a házi ivóvízhálózatokba szállító vízvezeték-hálózat (csatlakozó ivóvízhálózat), vagy több felhasználási hely szennyvizét a házi szennyvízhálózatból a szennyvíz-bekötővezeték végpontjáig szállító vezeték-hálózat (csatlakozó szennyvízhálózat), amely az érintett felhasználási helyek szerinti ingatlantulajdonosok közös tulajdonát képezi,
 - 4. ellátási terület: olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyen belül a felhasználók részére az adott víziközmű-szolgáltatást ugyanaz a víziközmű-szolgáltató végzi,
 - 5. felhasználási hely: az a víziközmű-szolgáltatásba bekapcsolt ingatlan, amelyen a víziközmű-szolgáltatást a felhasználó igénybe veszi,
-- 6. felhasználó: a víziközmű-szolgáltatást e törvény szerinti szerződéses jogviszony keretében igénybe vevő természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki (amely) a víziközmű-szolgáltatásba bekapcsolt ingatlan tulajdonosa, vagy azt egyéb jogcímen használja,
+- 6. felhasználó: a víziközmű-szolgáltatást e törvény szerinti szerződéses jogviszony keretében igénybe vevő természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki (amely) a víziközmű-szolgáltatásba bekapcsolt ingatlan használója, és sorban mögötte az ingatlan tulajdonosa,
 - 7. felhasználói egyenérték: olyan mutatószám, amely a víziközmű-szolgáltatást igénybe vevő felhasználók számosságát – víziközmű-szolgáltatási ágazatonként, a felhasználók kapacitás igényeire figyelemmel – az 1. melléklet szerinti képlet alapján egységesen fejezi ki,
 - 8. gördülő fejlesztési terv: hosszú távú, felújítási és pótlási, valamint beruházási tervrészből álló terv,
 - 9. házi ivóvízhálózat: a felhasználási hely ivóvízfogyasztását biztosító – az ingatlan alkotórészét képező – vezeték, amely a vízkivételi helyig szállítja a vizet, valamint annak kiegészítő elemei (így különösen vízmérő berendezés elhelyezésére szolgáló akna),
@@ -44,25 +44,30 @@ Az Országgyűlés a víziközmű-szolgáltatással kapcsolatos alapvető jogok 
   - a) bekötési vízmérő esetében aa) úszótelkes és telekhatáron kialakított zártsorú beépítésnél az épület külső falsíkjáig terjed, ab) egyéb esetekben a bekötési vízmérőt követően a vízmérési helyen beépített elzárószerelvény bekötési vízmérő felőli csatlakozó pontjáig, ennek hiányában a bekötési vízmérőt követő 10 cm-es vezetékszakasz végéig terjed,
   - b) bekötési vízmérő hiányában az ivóvíz-törzshálózattól a közterület és az ingatlan határvonaláig húzódó vezetékszakasz végéig terjed,
 - 12. ivóvíz-törzshálózat: olyan a víziközmű-rendszer részét képező hálózat, amely az ivóvíz-főnyomóvezetékből, az erre kapcsolt elosztóvezetékekből és ezek berendezéseiből áll,
-- 13. kiszervezés: víziközmű-működtetés egy részének a víziközmű-szolgáltatótól eltérő, más személlyel történő elvégeztetése,
+- 13. kiszervezés: a víziközmű-üzemeltetés egy részének a víziközmű-szolgáltatótól eltérő, más személlyel történő elvégeztetése,
 - 14. közműfejlesztési kvóta: víziközmű-szolgáltatásba bekapcsolt vagy bekapcsolni kívánt ingatlanhoz a víziközmű-szolgáltató által a közműfejlesztési hozzájárulás fizetésére kötelezett részére biztosított vagy biztosítandó kapacitás, amelynek mértékegysége: m3/nap,
-- 15. lakossági felhasználó: az a természetes személy felhasználó, aki a víziközmű-szolgáltatást nem jövedelemszerző gazdasági tevékenységhez veszi igénybe, valamint a társasház és a lakásszövetkezet,
+- 15. lakossági felhasználó: az a természetes személy felhasználó, aki nem jövedelemszerző gazdasági tevékenység keretében, saját háztartása, üdülő vagy hétvégi ház, garázs ellátása érdekében veszi igénybe a víziközmű szolgáltatást, valamint a társasház és a lakásszövetkezet,
 - 16. mellékvízmérő: a bekötési vízmérő után beépített, elkülönített ivóvízhasználat mérésére szolgáló mérő,
 - 17. rendszerfüggetlen víziközmű-elem: a víziközmű olyan nem egyedi gyártású berendezése, alkotórésze, amely a víziközműtől állagsérelem nélkül elválasztható és a víziközmű-hálózaton vagy a víziközmű-hálózatok között – alkalmazási céljára figyelemmel – szabadon áthelyezhető (így különösen fogyasztásmérő berendezés, szennyvíz átemelő szivattyú, irányítástechnikai berendezés),
 - 18. szennyvíz-bekötővezeték: a felhasználási helyen keletkező szennyvizeknek, továbbá egyesített rendszerű csapadékvíz-elvezetés esetében a csapadékvizeknek a szennyvíz-törzshálózatba történő bevezetésére szolgáló vezeték,
 - 19. szennyvíz törzshálózat: olyan, a víziközmű-rendszer részét képező hálózat, amely a szennyvíz főgyűjtőből, az erre kapcsolt mellékgyűjtőkből és ezek berendezéseiből áll,
 - 20. víziközmű: olyan közcélú vízilétesítmény, amely
-  - a) valamely település vagy települések közműves ivóvízellátását, ezen belül a ivóvíztermelést, az ehhez kapcsolódó ivóvízbázis-védelmet, az ivóvízkezelést, -tárolást, -szállítást és -elosztást, és
-  - b) a közműves szennyvízelvezetés során (egyesített rendszer esetén a csapadékvíz-elvezetést is ideértve) a szennyvíz összegyűjtését, elvezetését, tisztítását, a tisztított szennyvíz hasznosítását, elhelyezését szolgálja,
-- 21. víziközmű-fejlesztés: új víziközmű létesítésével, meglévő víziközmű felújításával és bővítésével kapcsolatos tevékenységek összessége,
+  - a) település vagy települések közműves ivóvízellátását, ezen belül az ivóvíztermelést, az ehhez kapcsolódó ivóvízbázis-védelmet, az ivóvízkezelést, -tárolást, -szállítást és -elosztást, felhasználási helyekre történő eljuttatást, mindezekhez kapcsolódóan a tűzivíz biztosítását vagy
+  - b) a közműves szennyvízelvezetés során (egyesített rendszer esetén a csapadékvíz-elvezetést is ideértve) a szennyvíz felhasználási helyekről történő összegyűjtését, elvezetését, tisztítását, a tisztított szennyvíz hasznosítását, elhelyezését szolgálja,
+- 21. víziközmű-fejlesztés: víziközműre irányuló olyan beruházási vagy felújítási tevékenység, mely célja szerint új víziközmű létesítését, a meglévő víziközmű bővítését, rekonstrukcióját és pótlását is magába foglalhatja,
 - 22. víziközmű-működtetés: a víziközmű üzemeltetésével, valamint a víziközmű-fejlesztéssel kapcsolatos tevékenységek összessége,
-- 23. víziközmű-rendszer: víziközművek olyan összefüggő, szigetüzemben működő vagy átadási pontokkal egyértelműen körülhatárolható rendszere, mely önmagában vagy átadási ponton keresztül történő ivóvízátvétellel vagy szennyvíztovábbítással kiegészülve – ideértve a víziközműves kapcsolódó szolgáltatást – képes biztosítani a víziközmű-szolgáltatás műszaki feltételeit,
-- 24. víziközmű-szolgáltatás: a közműves ivóvízellátás, a közműves szennyvízelvezetés és -tisztítás, valamint az egyesített rendszerű csapadékvíz-elvezetés (a továbbiakban együtt: víziközmű-szolgáltatási ágazatok) közül egy vagy több, a víziközmű-szolgáltató által a felhasználók részére nyújtott szolgáltatás,
+- 23. víziközmű-rendszer: a víziközművek olyan egybefüggő struktúrája, amely:
+  - a) önállóan, kizárólag egy település ellátását biztosítja (szigetüzem),
+  - b) önállóan, több település ellátását is szolgálja, és rajta a tulajdoni viszonyok azonosak,
+  - c) átadási pontokkal egyértelműen körülhatárolt, a kapcsolódó szolgáltatás nyújtását is, vagy kizárólagosan azt biztosítja,
+  - d) átadási pontokkal egyértelműen körülhatárolt, kapcsolódó szolgáltatással kiegészülve egy településre nézve, vagy azonos tulajdoni viszonyok mellett több településre nézve, képes biztosítani a víziközmű-szolgáltatás műszaki feltételeit,
+- 24. víziközmű-szolgáltatás: a közműves ivóvízellátás az ahhoz kapcsolódó tűzivíz biztosítással, továbbá a közműves szennyvízelvezetés és -tisztítás, ide értve az egyesített rendszerű csapadékvíz-elvezetést is, mely tevékenységek által megnyilvánuló szolgáltatások közül az egyiket, vagy mindkettőt a víziközmű-szolgáltató a felhasználó részére közüzemi jogviszony keretében nyújtja (a továbbiakban együtt: víziközmű-szolgáltatási ágazatok),
 - 25. víziközmű-szolgáltatásba bekapcsolt ingatlan: az az ingatlan vagy ingatlanrész
   - a) amelyen legalább egy olyan vízvételi hely található, amely a közműves ivóvízellátásra lehetőséget kínál, vagy
-  - b) amelyről a keletkező szennyvizet részben vagy egészben szennyvíz-bekötővezetéken keresztül a szennyvízhálózatba vezetik be,
+  - b) amelyen a keletkező szennyvíz részben, vagy egészben történő elvezetése érdekében a szennyvíz-bekötővezeték, vagy a szennyvíz bekötővezeték és a csatlakozó szennyvízhálózat kiépült,
 - 26. víziközmű üzemeltetése: a víziközmű-szolgáltatás nyújtása céljából a víziközmű-szolgáltató által végzett mindazon tevékenységek összessége, amelyek a jogszabályokban és az üzemeltetési szerződésben előírt követelmények teljesítése érdekében okszerűen merülnek fel, különösen a víziközmű műszaki értelemben vett napi üzemben tartása, karbantartása és javítása, közüzemiszerződés-kötés, számlázás, ügyfélszolgálat működtetése,
-- 27. víziközműves kapcsolódó szolgáltatás: szerződés alapján a víziközmű-szolgáltató által más víziközmű-szolgáltató részére nyújtott ivóvíz-értékesítési vagy szennyvízelvezetési és -tisztítási szolgáltatás.
+- 27. víziközműves kapcsolódó szolgáltatás: szerződés alapján a víziközmű-szolgáltató által más víziközmű-szolgáltató részére nyújtott ivóvíz-értékesítési vagy szennyvízelvezetési és -tisztítási szolgáltatás,
+- 28. holding: a számvitelről szóló törvény szerint anyavállalatnak és leányvállalatnak minősülő társaságok együttese, ahol az anyavállalat egyidejűleg megfelel a nemzeti vagyonról szóló törvény tulajdonosi joggyakorlóval szemben támasztott követelményeinek is.
 
 ### II. Fejezet — A VÍZIKÖZMŰVEKKEL KAPCSOLATOS FELADAT- ÉS HATÁSKÖRÖK
 
@@ -239,7 +244,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (2) A víziközmű-szolgáltatás díjában csökkentő tényezőként kell figyelembe venni a víziközmű-szolgáltatás teljesítéséhez biztosított, a költségek ellentételezésére kapott költségvetési és önkormányzati támogatásokat.
 
-(3) A víziközmű-szolgáltatás díjának felhasználó általi pénzügyi teljesítésével együtt járó, a víziközmű-szolgáltatónál felmerülő indokolt költségek a díjmegállapításnál költségnövelő tényezőként nem vehetők figyelembe, azok a felhasználó által alkalmazott fizetési megoldástól függően külön tételként érvényesíthetők.
+(3)
 
 (4) Egyesített csapadékvíz- és szennyvízelvezető rendszerek tekintetében, a csapadékvíz-elvezetés költségei a szennyvízelvezetés és -tisztítás díjában térülnek meg.
 
@@ -255,9 +260,14 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (3) A nem lakossági felhasználók esetében a közműves ivóvízellátás vagy a közműves szennyvízelvezetés és -tisztítás díja tekintetében kizárólag a fogyasztási mennyiségek alapján lehet különbséget tenni.
 
+(4) A tényleges felhasználási adatok ismeretében, lakossági díjon kell elszámolni
+
+- a) a távhő-szolgáltatónak lakossági használati melegvíz előállítása céljából szolgáltatott ivóvizet,
+- b) lakásbérlők tényleges víziközmű-szolgáltatás igénybevételét a bérlakás üzemeltetését végző gazdálkodó szervezettel szemben.
+
 65. § (1) A közműves ivóvízellátás, valamint a közműves szennyvízelvezetés és -tisztítás díját (a továbbiakban együtt: hatósági díj) a Hivatal javaslatának figyelembevételével a víziközmű-szolgáltatásért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg. A hatósági díj megállapításakor rendelkezni kell arról, hogy a hatósági díj mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
 
-(2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a miniszter részére minden év szeptember 15-ig küldi meg.
+(2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a miniszter részére minden év október 15-ig küldi meg.
 
 (3) A hatósági díjat a miniszter a (2) bekezdés szerinti javaslat hiányában is megállapíthatja. Ebben az esetben a miniszter megkeresheti a Hivatalt, hogy kilencven napon belül tegye meg javaslatát.
 
@@ -285,7 +295,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 69. § (1) A nem lakossági felhasználó a víziközmű-szolgáltatóval kötött szerződésben foglaltak szerint a víziközmű-szolgáltató részére víziközmű-fejlesztési hozzájárulást fizet
 
-- a) közüzemi szerződés kötés esetében a víziközmű-szolgáltatásba bekapcsolni kívánt ingatlanhoz biztosítandó szolgáltatási kapacitásért,
+- a) közüzemi szerződéses jogviszony esetében a felhasználási helyen biztosítandó szolgáltatási kapacitásért,
 - b) a víziközmű-szolgáltatásba bekapcsolt ingatlanhoz biztosított kapacitás általa kezdeményezett bővítéséért, továbbá
 - c) a víziközmű-szolgáltatás minőségének (a víz minőségi paramétereinek) általa igényelt emelése esetében.
 
@@ -297,7 +307,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (2) A víziközmű-szolgáltatási ágazatokra megállapított közműfejlesztési kvóták egymásba át nem válthatók.
 
-72. § (1) A víziközmű-fejlesztési hozzájárulás kizárólag azon település víziközmű-fejlesztési igényeivel összefüggésben – beleértve a felhasználó részére kiépítendő ivóvíz- vagy szennyvíz-bekötővezetéket is – használható fel, ahol a hozzájárulás megfizetésével érintett felhasználási hely található.
+72. § (1) A víziközmű-fejlesztési hozzájárulás kizárólag azon település víziközmű-fejlesztési igényeivel összefüggésben – ide nem értve a felhasználó részére kiépítendő ivóvíz- vagy szennyvíz-bekötővezetéket – használható fel, ahol a hozzájárulás megfizetésével érintett felhasználási hely található.
 
 (2) Ha az üzemeltetési szerződés alapján a víziközmű-szolgáltatót olyan víziközmű-beruházási kötelezettség terheli vagy – amennyiben annak megvalósítása már megtörtént – terhelte, amely műszaki értelemben összefügg a víziközmű-fejlesztési hozzájárulást megfizető felhasználó igényeivel, akkor a víziközmű-szolgáltató jogosult a víziközmű-fejlesztési hozzájárulást e kötelezettség teljesítéséhez szükséges mértékig felhasználni. Egyéb esetben a víziközmű-szolgáltató – mint az ellátásért felelős megbízottja – a víziközmű-fejlesztési hozzájárulást az ellátásért felelős javára szedi be, és az így beszedett összeget – az üzemeltetési szerződésben meghatározottak szerinti elszámolást követően – az ellátásért felelős részére legalább évente átadja.
 
@@ -308,7 +318,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 73. § A víziközmű-szolgáltatás díjaira vonatkozó rendelkezések betartását a Hivatal ellenőrzi. A rendelkezések megsértése esetében a Hivatal határozattal
 
 - a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a víziközmű-szolgáltatót a jogszerű ellenérték alkalmazására,
-- b) kötelezi a víziközmű-szolgáltatót a rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének
+- b) kötelezi a víziközmű-szolgáltatót a rendelkezések megsértésével elért többletbevétel és az azzal érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat kétszeres összegének megfelelő kamatnak
   - ba) a sérelmet szenvedett fél részére történő visszatérítésére, vagy
   - bb) ha a sérelmet szenvedett fél személye nem állapítható meg, az általa ellátott valamennyi felhasználó részére történő visszatérítésére, és
 - c) bírságot szabhat ki.
