@@ -359,9 +359,7 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 33. § A miniszter a költségvetés Kormány által történő elfogadását követően az MNB-t haladéktalanul tájékoztatja a központi költségvetésről szóló törvény tervezetéről (a továbbiakban: tervezet). Az MNB jogosult a tervezettel kapcsolatos véleményét közvetlenül megküldeni a miniszternek. Ezt a véleményt a Költségvetési Tanács ülésén az MNB elnöke jeleníti meg. Az így megjelenített vélemény azonban nem köti az MNB elnökét a Költségvetési Tanács tagjaként biztosított jogainak szabad gyakorlásában.
 
-34. § (1) Az MNB megküldi a Kormánynak a Monetáris Tanács napirendjét.
-
-(2) A Monetáris Tanács ülésein a Kormányt szavazati jog nélkül a miniszter vagy az általa felhatalmazott személy képviseli.
+34. §
 
 35. § A Kormány ülésének az MNB feladatkörét érintő napirendi pontjához az MNB elnökét meg kell hívni.
 
@@ -372,6 +370,8 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 (3) Az MNB elnöke az MNB működésének irányításával összefüggő, a működés szempontjából kiemelten fontos, az igazgatóság 49. § szerinti jogkörében meghozott döntésekről a döntés meghozatalát követően tájékoztatja a minisztert. Az MNB köteles az általa végrehajtott devizaműveletekről, valamint az arany- és devizatartalékokról a minisztert hetente tájékoztatni. A miniszter és az MNB elnöke évente írásban megállapodnak az MNB által szolgáltatandó további információk köréről.
 
 (4) A Kormány felkérése alapján az MNB elláthatja a nemzetközi pénzügyi szervezetekben a Kormányra háruló feladatokat, amennyiben erről törvény eltérően nem rendelkezik.
+
+(5) A deviza- és aranytartalék mértékére, összetételére, a tartalékkezelés során kötött egyedi ügyletekre vonatkozó adatok, a tartalékkezeléssel összefüggő döntések és belső szabályok – amennyiben azok nem minősített adatok – az MNB általi nyilvánosságra hozatalukig, de legfeljebb az adat keletkezésétől számított 10 évig nem nyilvánosak. Az adatok ezen határidőn belüli nyilvánosságra hozataláról az MNB elnöke dönt.
 
 37. § A Kormány, a központi államigazgatási szervek, illetve a Felügyelet az MNB kérésére tevékenységükkel kapcsolatban információt nyújtanak.
 
@@ -429,20 +429,18 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 #### 22. A Monetáris Tanács
 
-46. § (1) Az MNB legfőbb döntéshozó szerve a Monetáris Tanács. A Monetáris Tanács hatáskörébe tartozik:
+46. § (1) Az e §-ban meghatározott feladatok tekintetében az MNB legfőbb döntéshozó szerve a Monetáris Tanács. A Monetáris Tanács hatáskörébe tartozik:
 
-- a) a 4. §-ban meghatározott feladatokkal kapcsolatos döntés,
+- a) a 4. § (1)–(7) bekezdésében meghatározott feladatokkal kapcsolatos stratégiai döntés,
 - b) az a) pontban foglalt hatáskör körében a 9. § (1) bekezdése szerinti döntés,
-- c) az a) pontban foglalt hatáskör körében a 10. § (2) bekezdésben meghatározott feladatokkal kapcsolatos döntés,
-- d) az a) pontban foglalt hatáskör körében a 11-13. §-okban meghatározott feladatokkal kapcsolatos döntés,
-- e) az MNB elnöke javaslata alapján az alelnökök hatásköréről történő döntés,
-- f) a Monetáris Tanács hatáskörébe tartozó feladatokkal kapcsolatos kommunikáció módjáról történő döntés,
-- g) az a)–d) pontokban meghatározott feladatokkal kapcsolatos azon döntések végrehajtása, amelyeket a vonatkozó döntésben a Monetáris Tanács saját hatáskörében tart,
-- h) döntés minden olyan további kérdésben, amit törvény, az alapító okirat vagy a belső eljárási szabályzat a Monetáris Tanács kizárólagos hatáskörébe utal.
+- c) az a) pontban foglalt hatáskör körében a 10. § (2) bekezdésében meghatározott feladatokkal kapcsolatos döntés,
+- d) az a) pontban foglalt hatáskör körében a 11–13. §-ban meghatározott feladatokkal kapcsolatos döntés,
+- e) a Monetáris Tanács ügyrendjének megállapítása, továbbá
+- f) döntés minden olyan további kérdésben, amit törvény a Monetáris Tanács kizárólagos hatáskörébe utal.
 
 (2) A Monetáris Tanács szükség esetén bármikor összehívható, de havonta legalább egy alkalommal ülésezik.
 
-(3) A Monetáris Tanács legalább öt-, legfeljebb kilenctagú testület. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.
+(3) A Monetáris Tanács legalább öt-, legfeljebb kilenctagú testület. A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjai számának összege nem érheti el a (4) bekezdés c) pontja szerinti tagjainak számát, és a (4) bekezdés c) pontja szerinti tagok száma nem érheti el a (4) bekezdés a) és b) pontja szerinti tagok száma összegének kétszeresét. A Monetáris Tanács tagjai megbízatásuk időtartama alatt munkaviszonyban állnak az MNB-vel.
 
 (4) A Monetáris Tanács tagjai:
 
@@ -465,13 +463,13 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 (9) A lemondást írásban kell közölni a (4) bekezdés a) és b) pontja szerinti tagnak a köztársasági elnökkel, a (4) bekezdés c) pontja szerinti tagnak az Országgyűlés elnökével. A Monetáris Tanács tagjának megbízatása lemondása esetén a lemondó nyilatkozatban megjelölt, a lemondó nyilatkozat megtételét követő időpontban, ennek hiányában a (4) bekezdés a) és b) pontja szerinti tagnak a lemondó nyilatkozat köztársasági elnök általi, a (4) bekezdés c) pont szerinti tagnak az Országgyűlés elnöke általi kézhezvételével szűnik meg. A Monetáris Tanács tagja lemondásának érvényességéhez elfogadó nyilatkozat nem szükséges.
 
-(10) A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjait a köztársasági elnök, (4) bekezdés c) pontja szerinti tagjait az Országgyűlés kizárólag abban az esetben mentheti fel, ha a Monetáris Tanács tagja nem felel meg a feladatai ellátásához szükséges feltételeknek, illetve súlyos kötelezettségszegést követ el.
+(10) A Monetáris Tanács (4) bekezdés a) és b) pontja szerinti tagjait a köztársasági elnök, (4) bekezdés c) pontja szerinti tagjait az Országgyűlés kizárólag az Alapokmány 14.2. cikkében meghatározott okokból mentheti fel.
 
 (11) A (4) bekezdés c) pontja szerinti tagok választására és felmentésére az Országgyűlés gazdasági ügyekért felelős állandó bizottsága tesz javaslatot az Országgyűlés számára.
 
-(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a Munka Törvénykönyve (a továbbiakban: Mt.) szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Alapokmány 14.2. cikkében meghatározott bírósághoz fordulás jogát.
+(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
 
-(13) A (11) bekezdés szerinti felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a (4) bekezdés b) pontja szerinti tagok esetében a köztársasági elnök, a (4) bekezdés c) pontja szerinti tagok esetében az Országgyűlés elé.
+(13) A (11) bekezdés szerinti felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság az Alapokmány 14.2. cikkében meghatározott felmentési feltételek fennállását megállapító döntésének jogerőre emelkedését követően terjeszthető a (4) bekezdés b) pontja szerinti tagok esetében a köztársasági elnök, a (4) bekezdés c) pontja szerinti tagok esetében az Országgyűlés elé.
 
 (14) A Monetáris Tanács évente az első ülésen a jelenlevők egyszerű szótöbbségével az MNB alelnökei közül megválasztja a Monetáris Tanács elnökhelyettesét. Az elnökhelyettes megbízatásának megszűnése esetén a Monetáris Tanács a soron következő ülésén új elnökhelyettest választ.
 
@@ -479,7 +477,7 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 (16) A Monetáris Tanács álláspontját a Monetáris Tanács elnöke vagy – akadályoztatása esetén – elnökhelyettese jogosult nyilvánosságra hozni.
 
-(17) Az Európai Unió működéséről szóló szerződés 140. cikke szerinti eltérés a Tanács döntésével történő megszüntetése hatálybalépésének napján a Monetáris Tanács megszűnik, tagjainak a Monetáris Tanácsban betöltött megbízatása e nappal lejár.
+(17)
 
 #### 23. Az MNB elnöke
 
@@ -491,9 +489,9 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 (4) Az MNB elnökét a 46. § (10) bekezdésben foglaltaknak megfelelően, a miniszterelnök javaslatára a köztársasági elnök menti fel.
 
-(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Alapokmány 14.2. cikkében meghatározott bírósághoz fordulás jogát.
+(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
 
-(6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően terjeszthető a köztársasági elnök elé.
+(6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság az Alapokmány 14.2. cikkében meghatározott felmentési feltételek fennállását megállapító döntésének jogerőre emelkedését követően terjeszthető a köztársasági elnök elé.
 
 (7) A köztársasági elnöknek az MNB elnökének kinevezésére és felmentésére vonatkozó döntéséhez a miniszterelnök ellenjegyzése szükséges.
 
