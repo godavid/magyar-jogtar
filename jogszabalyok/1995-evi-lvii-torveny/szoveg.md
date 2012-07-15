@@ -53,6 +53,8 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (3) Az (1) bekezdésben felsorolt feladatok közül a c) és a d) pontban említetteket a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás szerinti rendben az érdekelt miniszterek közreműködésével látja el.
 
+(4) Az állam víziközmű-működtetés és víziközmű-szolgáltatás tekintetében felmerülő, a vízügyi tevékenységektől és vízügyi igazgatástól elkülönült feladatait a víziközmű-szolgáltatásról szóló törvény szabályozza.
+
 3. § (1) A vizekkel és a vízilétesítményekkel összefüggő állami feladatok körében az igazgatási tevékenységeket (a továbbiakban: vízügyi igazgatás) — a 2. § (2) bekezdésében megjelölt munkamegosztásra is figyelemmel — a vízügyi igazgatási szerv végzi.
 
 (2)
@@ -64,7 +66,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 4. § (1) A települési önkormányzat feladata:
 
 - a) a helyi vízi közüzemi tevékenység fejlesztésére vonatkozó – a vízgazdálkodás országos koncepciójával és a jóváhagyott nemzeti programokkal összehangolt – tervek kialakítása és végrehajtása;
-- b) a helyi víziközművek működtetése, a koncessziós pályázat kiírása, elbírálása és a koncessziós szerződés megkötése;
+- b)
 - c) a közműves vízellátás körében a települési közműves vízszolgáltatás korlátozására vonatkozó terv jóváhagyásáról és a vízfogyasztás rendjének megállapításáról való gondoskodás;
 - d) a vízgazdálkodási feladatokkal kapcsolatos önkormányzati hatósági feladatok ellátása;
 - e) a természetes vizek fürdésre alkalmas partszakaszainak és azzal összefüggő vízfelületének kijelölése;
@@ -72,12 +74,14 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 (2) A települési önkormányzat – a vízgazdálkodási tevékenységek, mint közfeladatok (közszolgáltatások) körében – köteles gondoskodni:
 
-- a) a települések lakott területén az ivóvízminőségű vízre vonatkozó előírásoknak megfelelő ivóvízellátásról;
+- a) a település nem közműves ivóvízellátásáról;
 - b) a 2000 lakosegyenértékkel jellemezhető szennyvízkibocsátás feletti szennyvízelvezetési agglomerációt alkotó településeken a keletkező használt vizek (szennyvizek) szennyvízelvezető művel való összegyűjtéséről, tisztításáról, a tisztított szennyvíz elvezetéséről, illetőleg a más módon összegyűjtött szennyvíz, továbbá a szennyvíziszap ártalommentes elhelyezésének megszervezéséről;
 - c) a b) pontban meghatározott feladatok ellátásáról a lakosegyenértéktől függetlenül azokon a területeken, amelyeket a vízbázisok, távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről, továbbá a felszín alatti vizek minőségét érintő tevékenységekkel összefüggő egyes feladatokról szóló jogszabályok határoznak meg;
 - d) a hulladékgazdálkodásról szóló külön törvény szerint nem közművel összegyűjtött szennyvizek ártalommentes elhelyezésének szervezéséről és ellenőrzéséről.
 
 (3) Az (1) bekezdésben felsorolt feladatok — a külön jogszabályokban a polgármester, illetve a jegyző hatáskörébe utalt feladatok kivételével — a képviselő-testület, a főváros esetében a fővárosi önkormányzat képviselő-testületének hatáskörébe tartoznak.
+
+(4) A helyi önkormányzat víziközmű-működtetés és víziközmű-szolgáltatás tekintetében felmerülő, vízügyi tevékenységektől és vízügyi igazgatástól elkülönült feladatait a víziközmű-szolgáltatásról szóló törvény szabályozza.
 
 5. § (1) Külön jogszabályban meghatározottaknak megfelelően a területi jelentőségű vízgazdálkodási, vízvédelmi feladatok, koncepciók egyeztetésére, véleményezésére Területi és Részvízgyűjtő szintű, az országos jelentőségű vízgazdálkodási feladatok, koncepciók egyeztetésére, véleményezésére Országos Vízgazdálkodási Tanácsot (a továbbiakban együtt: vízgazdálkodási tanácsok) kell létrehozni.
 
@@ -125,7 +129,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - d) az elsőrendű árvízvédelmi létesítmények (így például töltések, műtárgyak) fejlesztése és fenntartása, azokon a védekezés ellátása, az árvízmentesítés — ha az kettőnél több települést érint — a védelmi szakfelszerelés karbantartása és fejlesztése;
 - e) a vízépítési műtárgyak (vízlépcsők) — fenntartása és üzemeltetése a jogszabályok, üzemeltetési szabályzatok szerinti — működtetése;
 - f) a belvízelvezető művek (így például a belvízcsatornák, szivattyútelepek, belvíztározók) létesítése, fenntartása, bővítése, a belvízvédekezés irányítása és végrehajtása;
-- g) a víziközműrendszerek és a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése.
+- g) a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése.
 
 (3) A helyi önkormányzat tulajdonában lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve a külön törvényben szabályozott vízitársulat útján lehet gondoskodni.
 
@@ -176,9 +180,8 @@ adottságok.
 
 - a) a 3. számú melléklet szerinti csatornák közül azoknak a működtetése, amelyek nem alkalmasak egyidejűleg mezőgazdasági, ipari és ivóvíz-ellátási, továbbá hajózási célra;
 - b) a víziközmű-társulatok által végzett közműlétesítés vagy -fejlesztés;
-- c) az üzemi vízilétesítmények működtetése abban az esetben sem, ha külön hatósági engedély alapján közműves vízszolgáltatást is végeznek;
-- d) az állam kizárólagos tulajdonába vagy a helyi önkormányzat törzsvagyonába tartozó vízilétesítmények közül a víziközművek működtetése, ha a szerződésre vonatkozó általános előírások alapján kizárólag a tulajdonos állam vagy helyi önkormányzat(ok) által e célra alapított gazdálkodó szervezetnek – ide nem értve a munkavállalói résztulajdont –, illetőleg a kizárólag e gazdálkodó szervezetek által ugyancsak e célra alapított gazdálkodó szervezetnek engedik át a tevékenység gyakorlását;
-- e) az állam kizárólagos tulajdonába vagy a helyi önkormányzat törzsvagyonába tartozó vízilétesítmények közül a víziközművek működtetése, ha a kizárólagos tulajdonos állam és az önkormányzat(ok) által közösen alapított gazdálkodó szervezetnek – ide nem értve a munkavállalói résztulajdont –, illetőleg a kizárólag e gazdálkodó szervezetek által ugyancsak e célra alapított gazdálkodó szervezetnek engedik át a tevékenység gyakorlását.
+- c)–d)
+- e)
 
 10. § (1) A kizárólagos állami tulajdonban, illetve önkormányzati törzsvagyonban lévő közcélú vízilétesítmények működtetését végző gazdálkodó szervezetnek a létesítmény közművagyonát az állam nevében a vízgazdálkodásért felelős miniszter, az önkormányzat nevében a képviselő-testület adja szerződéssel használatba.
 
