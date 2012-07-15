@@ -453,7 +453,13 @@ Ha a hatósági nyilvántartásban a gépjármű teljesítménye csak lóerőben
 
 - a) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), valamint ilyen ingatlanon alapított vagyoni értékű jognak a megszerzése, ha a vagyonszerző az ingatlanon a szerződés illetékkiszabásra történő bemutatásától számított 4 éven belül lakóházat épít és a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. A vagyonszerző lakóházépítési szándékáról legkésőbb az illetékfizetési meghagyás jogerőre emelkedéséig nyilatkozhat az állami adóhatóságnál;
 - b) a lakástulajdon kezelői jogának a megszerzése;
-- c) a közcélú vízi létesítmények és tartozékaik kezelői jogának a megszerzése;
+- c) a közcélú vízi-létesítményre és tartozékára vonatkozóan
+  - ca) a kezelői jog,
+  - cb) az üzemeltetési jog,
+  - cc) a vagyonkezelői jog
+
+megszerzése;
+
 - d) az állami tulajdonban lévő természetvédelmi terület kezelői jogának a természetvédelmi kezelő által történő megszerzése;
 - e) állami vagyon vagyonkezelői jogának megszerzése;
 - f) a vállalkozó által értékesítés céljára újonnan épített, építtetett – ideértve az ingatlan-nyilvántartásban nem lakóház vagy lakás megnevezéssel nyilvántartott és ténylegesen sem lakás céljára használt épület átalakításával, továbbá a lakóépület bővítésével (pl. tetőtér-beépítéssel) létesített – 15 millió forintot meg nem haladó forgalmi értékű új lakás tulajdonjogának, ilyen lakás tulajdoni hányadának megvásárlása. Amennyiben az új lakás forgalmi értéke nem haladja meg a 30 millió forintot és a vagyonszerző másik lakástulajdon eladását nem igazolja, akkor a 21. § (1) bekezdés szerint megállapított illetékből nem kell megfizetni azt az összeget, amely akkor járna, ha a lakás forgalmi értéke 15 millió forint lenne. Ilyen lakás tulajdoni hányada esetén a kedvezmény a 15 millió forintnak a szerzett tulajdoni hányaddal arányos részére illeti meg a vagyonszerzőt,
