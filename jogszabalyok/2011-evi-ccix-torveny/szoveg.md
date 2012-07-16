@@ -925,17 +925,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 #### 27. Módosító rendelkezések
 
-89. § (1) Az árak megállapításáról szóló 1990. évi LXXXVII. törvény (a továbbiakban: Ártv.) 1. § (2) bekezdése a következő i) ponttal egészül ki:
-
-(A törvény hatálya nem terjed ki:)
-
-„i) a víziközmű-szolgáltatásról szóló törvény alapján meghatározott díjakra.”
-
-(2) A kisajátításról szóló 2007. évi CXXIII. törvény 2. § l) pontja helyébe az következő rendelkezés lép:
-
-(Ingatlant kisajátítani a 3. § szerinti feltételek fennállása esetén, az alábbi közérdekű célokra lehetséges:)
-
-„l) vízgazdálkodás, víziközmű-szolgáltatás;”
+89. § (1)–(2)
 
 (3)
 
@@ -953,7 +943,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 93. § (1)–(2)
 
-(3) E törvény 58. §-ának hatálybalépésével egyidejűleg hatályát veszti a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Kormány rendelet 9. § (3) bekezdése.
+(3)
 
 (4)
 

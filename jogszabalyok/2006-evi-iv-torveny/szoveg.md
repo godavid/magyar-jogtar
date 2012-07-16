@@ -65,7 +65,7 @@ Mindezek érdekében – az Európai Unió társasági jogával való harmonizá
 - b) nem szerezhet gazdasági társaságban közvetlen vagy közvetett többségi befolyást biztosító részesedést,
 - c) nem lehet közkereseti társaság tagja és betéti társaság beltagja.
 
-(6) Nem lehet közkereseti társaság tagja és betéti társaság beltagja, továbbá nem szerezhet gazdasági társaságban közvetlen vagy közvetett többségi befolyást biztosító részesedést az a személy, aki a 104. § (1) bekezdésében foglalt helytállási kötelezettségének nem tett eleget.
+(6) Nem lehet közkereseti társaság tagja és betéti társaság beltagja, továbbá nem szerezhet gazdasági társaságban kizárólagos vagy többségi befolyást biztosító részesedést az a személy, aki a 104. § (1) bekezdésében foglalt helytállási kötelezettségének nem tett eleget.
 
 (7) A tilalom hatálya az (5)–(6) bekezdés szerinti esetekben a végrehajtási eljárás időtartama és az annak eredménytelenségétől számított öt év.
 
@@ -981,7 +981,7 @@ kell alkalmazni.
 
 105. § (1) Ha tagsági jogviszony megszűnése folytán a társaság tagjainak száma egy főre csökken, a társaság csak akkor szűnik meg, ha hathónapos jogvesztő határidőn belül nem jelentenek be a cégbíróságnál új tagot.
 
-(2) Az új tag belépéséig, illetve a végelszámoló cégbíróság által történő kirendeléséig az egyedüli tagot akkor is a társaság üzletvezetésére és képviseletére jogosultnak kell tekinteni, ha korábban nem minősült annak.
+(2) Az új tag belépéséig, illetve a kényszertörlési eljárás megindításáig az egyedüli tagot akkor is a társaság üzletvezetésére és képviseletére jogosultnak kell tekinteni, ha korábban nem minősült annak.
 
 106. § A társaság jogutód nélküli megszűnése esetén a tartozások kiegyenlítése után fennmaradó vagyont – a társasági szerződés eltérő rendelkezése hiányában – a vagyoni hozzájárulásuk arányában kell felosztani a társaság tagjai között.
 
@@ -1009,7 +1009,7 @@ kell alkalmazni.
 
 110. § (1) Ha a társaságból valamennyi beltag vagy valamennyi kültag kiválik, a társaság az utolsó beltag vagy az utolsó kültag kiválásától számított hathónapos jogvesztő határidő elteltével megszűnik, kivéve, ha a társaság e határidőn belül a társasági szerződése módosításával a betéti társaságként vagy közkereseti társaságként való működés törvényes feltételeit megteremti, és ezt a változást a cégbíróságnak bejelenti.
 
-(2) Ha a társaságnak nem maradt üzletvezetésre és képviseletre jogosult tagja, az (1) bekezdés szerinti bejelentés megtételéig, illetve a jogvesztő határidő eredménytelen eltelte esetén a végelszámoló kijelöléséig a kültagot is a társaság üzletvezetésére és képviseletére jogosultnak kell tekinteni.
+(2) Ha a társaságnak nem maradt üzletvezetésre és képviseletre jogosult tagja, az (1) bekezdés szerinti bejelentés megtételéig, illetve a jogvesztő határidő eredménytelen eltelte esetén a kényszertörlési eljárás megindításáig a kültagot is a társaság üzletvezetésére és képviseletére jogosultnak kell tekinteni.
 
 ### IX. Fejezet — A KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG
 
@@ -2670,7 +2670,7 @@ történik.
 
 336/D. § (1) E törvény – a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról, továbbá az ezekkel összefüggő egyes törvények módosításáról szóló 2011. évi CXCVII. törvénnyel (a továbbiakban: Módtv.) megállapított – 5. §-át, 23. §-át, 30. § (2) bekezdését és 54. § (2) bekezdését a Módtv. hatálybalépését követően kezdeményezett felszámolási, kényszertörlési, továbbá az ismeretlen cég megszüntetésére irányuló eljárásokra kell alkalmazni.
 
-(2) A Módtv.-vel megállapított 50. § (1)–(2) bekezdést a Módtv. hatálybalépését követő üzletrész átruházásokra kell alkalmazni.
+(2)
 
 (3) A Módtv.-vel megállapított 76. § (3) bekezdését a Módtv. hatálybalépését követően elhatározott szétválásokra kell alkalmazni.
 
