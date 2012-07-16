@@ -1446,7 +1446,8 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 - c) az együttes árverezők tulajdonszerzési aránya;
 - d) az elektronikus árverési rendszer árverezőként történő használatához szükséges felhasználói neve és jelszava;
 - e) az árverező által az ajánlattevőként történő beazonosítására megadott egyedi azonosítója (árverező egyedi azonosítója);
-- f) az árveréssel kapcsolatos iratok kézbesítésére szolgáló elektronikus levelezési címe.
+- f) az árveréssel kapcsolatos iratok kézbesítésére szolgáló elektronikus levelezési címe;
+- g) annak ténye, hogy az árverező a 123. § (2) bekezdés a) vagy b) pontja szerinti személy vagy szervezet.
 
 (3) Az árverezők elektronikus nyilvántartásába történő bejegyzés és az adatváltozás bejegyzése az árverező adatainak igazolására szolgáló iratok bemutatása és a bejegyzés díjának megfizetése mellett, személyesen, bármely végrehajtónál kérhető. A végrehajtó a bejegyzés előtt a 47/A. § szerint ellenőrzi a személyazonosság, az állampolgárság és a lakóhely igazolására bemutatott okirat érvényességét és adatainak valódiságát.
 
