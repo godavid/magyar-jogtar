@@ -32,7 +32,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 - a) a pályázati eljárás során olyan személy nyeri el a pályázatot, aki nem áll bírói szolgálati viszonyban;
 - b) a törvény rendelkezései szerint pályázat kiírása nélkül olyan személyt kell kinevezni, aki nem áll bírói szolgálati viszonyban;
-- c) a határozott időre kinevezett bíró ismételten határozott idejű, vagy határozatlan idejű kinevezést kap;
+- c) a határozott időre kinevezett bíró határozatlan idejű kinevezést kap;
 - d) a katonai bíró katonai bírói tisztségének megszüntetésével egyidejűleg a törvényben meghatározott feltételek fennállása esetén bírói kinevezést kap.
 
 (4) Ha a köztársasági elnök által korábban felmentett bírót a munkaügyi jogvita alapján bírói tisztségébe vissza kell helyezni, a köztársasági elnök a felmentést megelőző kinevezés szerinti határozott vagy határozatlan idejű kinevezést ad.
@@ -191,7 +191,7 @@ meghatározott esetben.
 
 15. § (1) A bírói tanács a rangsor kialakítása során a pontszámok alapján kialakult sorrendtől nem térhet el.
 
-(2) Ha a rangsor első helyén több pályázó szerepel, közülük a bírói tanács egyszerű szótöbbséggel hozott, írásbeli, indokolt határozatával választja ki azt a pályázót, akit az álláshely betöltésére javasol.
+(2) Ha a rangsor valamely helyén több pályázó azonos pontszámmal szerepel, az azonos helyen szereplő pályázók közötti sorrendet a bírói tanács általi meghallgatás eredménye alapján kell felállítani. Ha a bírói tanács általi meghallgatás során is azonos pontszámot érnek el a pályázók, közöttük a bírói tanács egyszerű szótöbbséggel hozott, írásbeli, indokolt határozatával sorrendet állít fel.
 
 (3) A bírói tanács a pályázók rangsorát és a pályázatokat, továbbá – a (2) bekezdésben foglalt esetben – az írásbeli, indokolt határozatát haladéktalanul továbbítja a törvényszék, az ítélőtábla vagy a Kúria elnökéhez.
 
@@ -207,17 +207,13 @@ meghatározott esetben.
 
 (2) Ha az OBH elnöke egyetért azzal, hogy az első helyen rangsorolt pályázó töltse be az álláshelyet, és a rangsor első helyén álló pályázó bíró, úgy a pályázatot a bíró 8 munkanapon belül történő áthelyezésével elbírálja.
 
-(3) Az OBH elnöke a bírói tanács által felállított rangsortól eltérhet, és az álláshely betöltésére a rangsor második vagy harmadik helyén álló pályázót is javasolhatja.
+(3) Az OBH elnöke a bírói tanács által felállított rangsortól a (4) és (5) bekezdésben foglaltak szerint eltérhet, és bírói kinevezésre a rangsor második vagy harmadik helyén álló pályázót is javasolhatja, illetve a rangsor második vagy harmadik helyén álló pályázó áthelyezésével is elbírálhatja a pályázatot.
 
-(4) Ha a javasolt pályázó nem bíró, úgy az OBH elnöke a pályázatot a köztársasági elnökhöz 8 munkanapon belül kinevezésre felterjeszti. Az eltérés indokairól – a köztársasági elnökhöz történő felterjesztéssel egyidejűleg – írásban tájékoztatja az Országos Bírói Tanácsot (a továbbiakban: OBT), és az OBT soron következő ülésén az indokait ismerteti. Az OBH elnökének az OBT részére történő írásbeli, és az OBT soron következő ülésén nyújtott szóbeli tájékoztatása nem érinti a köztársasági elnökhöz történő felterjesztést és a kinevezést.
+(4) Ha a javasolt pályázó nem bíró, úgy az OBH elnöke az első három helyen rangsorolt pályázó pályázatát a javasolt pályázó megjelölésével és az eltérés indokait tartalmazó írásos javaslatával egyetértés beszerzése céljából megküldi az OBT-nek. Az OBT a javaslatról 15 napon belül határoz. Ha az OBT az OBH elnökének javaslatával egyetért, az OBH elnöke a pályázót a köztársasági elnökhöz 8 munkanapon belül kinevezésre felterjeszti. Ha az OBT az OBH elnökének javaslatával nem ért egyet, az OBH elnöke az első helyen rangsorolt pályázót, ha az nem bíró, a köztársasági elnökhöz 8 munkanapon belül kinevezésre felterjeszti, ha bíró, 8 munkanapon belül áthelyezi, vagy az OBT felé új javaslatot tesz, vagy a pályázatot eredménytelenné nyilvánítja.
 
-(5) Ha a javasolt pályázó bíró, úgy az OBH elnöke a pályázatot a bíró 8 munkanapon belül történő áthelyezésével elbírálja. Az eltérés indokairól – az áthelyezéssel egyidejűleg – írásban tájékoztatja az OBT-t, és az OBT soron következő ülésén az indokait ismerteti. Az OBH elnökének az OBT részére történő írásbeli, és az OBT soron következő ülésén nyújtott szóbeli tájékoztatása nem érinti a bíró áthelyezését.
+(5) Ha a javasolt pályázó bíró, úgy az OBH elnöke az első három helyen rangsorolt pályázó pályázatát a javasolt pályázó megjelölésével és az eltérés indokait tartalmazó írásos javaslatával egyetértés beszerzése céljából megküldi az OBT-nek. Az OBT a javaslatról 15 napon belül határoz. Ha az OBT az OBH elnökének javaslatával egyetért, az OBH elnöke a bírót 8 munkanapon belül áthelyezi. Ha az OBT az OBH elnökének javaslatával nem ért egyet, az OBH elnöke az első helyen rangsorolt pályázót, ha az bíró, 8 munkanapon belül áthelyezi, ha nem bíró, a köztársasági elnökhöz 8 munkanapon belül kinevezésre felterjeszti, vagy az OBT felé új javaslatot tesz, vagy a pályázatot eredménytelenné nyilvánítja.
 
-19. § A Kúriára kiírt pályázat esetében a 18. §-ban foglaltakat az alábbi eltérésekkel kell alkalmazni:
-
-- a) az OBH elnökének jogköreit a Kúria elnöke gyakorolja,
-- b) a Kúria elnöke a pályázatot akként bírálja el, hogy 8 munkanapon belül a felterjesztés és az áthelyezés érdekében megkeresi az OBH elnökét,
-- c) az OBH elnöke a Kúria elnöke megkeresésének 8 munkanapon belül eleget tesz.
+19. § A Kúriára kiírt pályázat esetében a 18. §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy az OBH elnökének jogköreit a Kúria elnöke gyakorolja, és a pályázat eredményes elbírálása esetén, 8 munkanapon belül a felterjesztés vagy az áthelyezés érdekében megkeresi az OBH elnökét, aki a Kúria elnöke megkeresésének 8 munkanapon belül eleget tesz.
 
 #### 10. Eredménytelen pályázat
 
@@ -225,11 +221,19 @@ meghatározott esetben.
 
 (2) Ha a pályázat eredménytelen, új pályázatot kell kiírni.
 
-#### 11. A pályázók értesítése
+#### 11. A pályázók értesítése és a pályázat eredményével szembeni jogorvoslat
 
 21. § (1) Az OBH elnöke a pályázat eredményéről – a Kúriára kiírt pályázat kivételével – értesíti a pályázattal érintett bíróság elnökét.
 
 (2) A bíróság elnöke a pályázókat a pályázat eredményéről írásban tájékoztatja, egyidejűleg közli a pályázó rangsorban elfoglalt helyét és pontszámát.
+
+(3) Az OBH elnöke a bíró áthelyezésére vonatkozó határozatát a bíróságok hivatalos honlapján és a központi honlapon, továbbá a bíróságok hivatalos lapjában közzéteszi.
+
+(4) Eredményes pályázat esetén a nyertes pályázó kinevezéséről szóló határozatnak a Magyar Közlönyben történő közzétételétől, vagy a nyertes pályázó áthelyezéséről szóló határozatnak a (3) bekezdés szerinti közzétételétől számított 15 napos jogvesztő határidőn belül a pályázaton részt vett és a 13. § szerint el nem utasított pályázó a pályázat eredményével szemben kifogással élhet, ha a nyertes pályázó esetében a bíróvá történő kinevezés e törvényben meghatározott feltételei nem állnak fenn, illetve ha a nyertes pályázó a pályázati kiírásban szereplő feltételeknek nem felel meg.
+
+(5) A kifogást a pályázattal érintett bíróság elnökénél írásban kell benyújtani, aki azt – kúriai pályázat kivételével – 5 munkanapon belül felterjeszti az OBH elnökéhez. Kérelmezettként az OBH elnökét, kúriai pályázat esetén a Kúria elnökét kell megjelölni. Az OBH elnöke, illetve a Kúria elnöke a kifogást 5 munkanapon belül megküldi az annak elbírálására kizárólagosan illetékes, Budapest területére kiterjedő illetékességű közigazgatási és munkaügyi bíróságnak.
+
+(6) A közigazgatási és munkaügyi bíróság a kifogás tárgyában 15 napon belül, nemperes eljárás keretében határoz. A bíró kinevezése esetén a közigazgatási és munkaügyi bíróság a bíróvá történő kinevezés feltételeinek meglétét e törvény 4. § (1) bekezdés a), c), d), f), és g) pontjában, a 4. § (2) bekezdésében, valamint az 5. § (1) bekezdésében meghatározottak szempontjából vizsgálja. A bíró áthelyezése esetén a közigazgatási és munkaügyi bíróság kizárólag a pályázati feltételek teljesülését vizsgálja. Ha a közigazgatási és munkaügyi bíróság megállapítja, hogy a pályázatot elnyert személyt e törvénynek a bírói kinevezés feltételeire vonatkozó szabályai szerint nem lehetne bíróvá kinevezni, illetve a pályázatot elnyert személy a pályázati kiírásban szereplő feltételeknek nem felel meg, erre vonatkozó végzését közli a kifogást előterjesztő pályázóval, valamint – a szükséges intézkedés megtétele érdekében – a pályázat elbírálójával és a köztársasági elnökkel. A közigazgatási és munkaügyi bíróság a kifogás alaptalansága esetén a kifogást elutasítja, és végzését közli a kifogást előterjesztő pályázóval, a pályázat elbírálójával, valamint a pályázattal érintett bíróság elnökével.
 
 #### 12. Az eskü
 
@@ -247,7 +251,7 @@ meghatározott esetben.
 
 #### 13. A bírói kinevezés tartama
 
-23. § (1) A bíró kinevezése – a (2) bekezdésben, valamint a 25. § (2) és (4) bekezdésében foglalt kivétellel – első alkalommal (első bírói kinevezés) három évre, egyéb esetben határozatlan időre szól.
+23. § (1) A bíró kinevezése – a (2) bekezdésben, foglalt kivétellel – első alkalommal (első bírói kinevezés) három évre, egyéb esetben határozatlan időre szól.
 
 (2) A bíró első kinevezése – a pályázat elbírálójának javaslatára – határozatlan időre szól, ha
 
@@ -267,11 +271,11 @@ meghatározott esetben.
 
 25. § (1) Ha a bíró a határozatlan időre történő bírói kinevezését nem kérte, vagy a 24. § (2) bekezdésében említett vizsgálat eredményeként a kinevezésre nem alkalmas, a bíró szolgálati viszonya a kinevezés napjától számított harmadik év utolsó napján szűnik meg.
 
-(2) Ha a bíró tényleges működésének időtartama a 18 hónapot nem érte el, a kinevezés – az OBH elnökének javaslatára – újra határozott időre, három évre szól, kivéve, ha a bíró a szolgálati viszonyát nem kívánja fenntartani. A kinevezési javaslat előterjesztésére a 24. § (3) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+(2) Ha a bíró tényleges működésének időtartama a 18 hónapot nem érte el, a köztársasági elnök a bíró kinevezését – az OBH elnökének javaslatára, a kinevezés módosításával – három évvel meghosszabbítja, kivéve, ha a bíró a szolgálati viszonyát nem kívánja fenntartani. A javaslat előterjesztésére a 24. § (3) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni. A bíró kinevezése ismételten meghosszabbítható, amíg az értékeléséhez szükséges tényleges bírói működés együttes időtartama a minimális 18 hónapot eléri.
 
 (3) Részmunkaidőben történő munkavégzés esetén a 24. § (2) bekezdésében foglalt minimális tényleges bírói működési időtartamba a részmunkaidőben töltött időszak a részmunkaidőnek a teljes munkaidőhöz viszonyított arányában vehető figyelembe.
 
-(4) A bíró ismét 3 éves határozott idejű kinevezést kap, ha a 24. § (2) bekezdése szerinti vizsgálat eredményeként „alkalmas, utóvizsgálat lefolytatása indokolt” értékelést kap. A 24. §-ban, valamint az (1)–(3) bekezdésben foglaltakat az újabb határozott idejű kinevezés esetében is megfelelően alkalmazni kell.
+(4)
 
 #### 14. A bíró beosztása
 
@@ -279,7 +283,7 @@ meghatározott esetben.
 
 (2) A bíró beosztásáról írásban kell rendelkezni, abban meg kell határozni a bíró szolgálati helyét, beosztását, a szolgálati ideje kezdetét, fizetési fokozatát, az ahhoz tartozó alapilletményét, a pótlékok jogcímét és összegét, valamint a kötelező előrelépése időpontját.
 
-(3) A bíró beosztása a határozott idejű első kinevezés, valamint a 25. § (2) és (4) bekezdésében meghatározott esetek kivételével határozatlan időre szól.
+(3) A bíró beosztása a határozott idejű első kinevezés, valamint a 25. § (2) bekezdésében meghatározott eset kivételével határozatlan időre szól.
 
 (4) Ha a bírói álláshely betöltése nem pályázat útján történik, a bíró beosztásához a bíró hozzájárulása szükséges.
 
@@ -321,9 +325,9 @@ meghatározott esetben.
 
 31. § (1) A bíró kirendelésére a törvényszék elnöke jogosult, ha arra a törvényszék és a járásbíróság, a törvényszék és a közigazgatási és munkaügyi bíróság között, továbbá ha a törvényszék területén működő járásbíróságok, vagy a törvényszék területén működő járásbíróság és a közigazgatási és munkaügyi bíróság között kerül sor. Egyéb esetben a kirendelésre az OBH elnöke jogosult.
 
-(2) A bírót szolgálati érdekből vagy szakmai fejlődésének elősegítése érdekében más szolgálati helyre lehet kirendelni.
+(2) A bírót a bíróságok közötti ügyteher egyenletes elosztásának biztosítása vagy szakmai fejlődésének elősegítése érdekében más szolgálati helyre lehet kirendelni.
 
-(3) A bírót – hozzájárulása nélkül – háromévenként, ezen belül legfeljebb egy évre lehet szolgálati érdekből bírói beosztásba, ideiglenesen más szolgálati helyre kirendelni.
+(3) A bírót – hozzájárulása nélkül – háromévenként, ezen belül legfeljebb egy évre lehet a bíróságok közötti ügyteher egyenletes elosztásának biztosítása céljából bírói beosztásba, ideiglenesen más szolgálati helyre kirendelni.
 
 (4) A bíró a beosztásából eredő ítélkezési tevékenységének megtartása mellett más szolgálati helyre csak hozzájárulásával rendelhető ki.
 
@@ -357,11 +361,13 @@ elnökének véleményét.
 
 34. § (1) Ha a bíró a továbbiakban pályázat alapján másik bíróságon tölt be bírói álláshelyet, az OBH elnöke áthelyezi.
 
-(2) Ha a bíróság megszűnt, illetve hatásköre vagy illetékességi területe olyan mértékben csökkent, hogy ott a bíró további foglalkoztatása nem lehetséges, a bírót – méltányos érdekeit figyelembe véve – az OBH elnöke más, lehetőleg azonos szintű, vagy legfeljebb eggyel alacsonyabb szintű bíróságra áthelyezi.
+(2) Ha a bíróság megszűnt, illetve hatásköre vagy illetékességi területe olyan mértékben csökkent, hogy ott a bíró további foglalkoztatása nem lehetséges, az OBH elnöke – ha Kúriai álláshely is érintett, a Kúria elnökével történt egyeztetést követően – az érintett bíró számára felajánlja azon, a beosztási helyével azonos szintű, vagy legfeljebb eggyel magasabb, vagy legfeljebb eggyel alacsonyabb szintű bíróságon lévő bírói álláshelyeket, amelyek betöltése iránt a pályázatok elbírálása még nem történt meg. A felajánlott bírói álláshelyek közül a bíró 8 munkanapon belül választhat. Ha a bíróság megszűnése, illetve hatáskörének vagy illetékességi területének csökkenése több bíró áthelyezését teszi szükségessé, a választási lehetőség a bírákat életkoruk csökkenő sorrendjében illeti meg. Ha felajánlható bírói álláshely nincs, vagy a bíró azok egyikét sem választja, az OBH elnöke a bírót – méltányos érdekeit figyelembe véve – más, lehetőleg azonos szintű, vagy legfeljebb eggyel alacsonyabb szintű bíróságra áthelyezi.
 
 (3) Ha a bírót a (2) bekezdés szerinti okból alacsonyabb szintű bíróságra helyezi át az OBH elnöke, megtartja korábbi illetményét és jogosult a korábbi bírói beosztására utaló elnevezés használatára.
 
-### IV. Fejezet — A BÍRÓI JOGAI ÉS KÖTELEZETTSÉGEI
+(4) Ha a bíró a (2) bekezdésben foglaltak szerinti áthelyezése esetén szolgálati jogvitát kezdeményez, a közigazgatási és munkaügyi bíróság az OBH elnökének döntését csak a döntés kialakítására irányadó jogszabályok betartása szempontjából vizsgálhatja.
+
+### IV. Fejezet — A BÍRÓ JOGAI ÉS KÖTELEZETTSÉGEI
 
 #### 19. A bíró jogai
 
@@ -417,7 +423,7 @@ elnökének véleményét.
 
 (2) Az érintett bírák legkésőbb az összeférhetetlenségi ok keletkezésétől számított 30 napon belül kötelesek közös megállapodással kezdeményezni az összeférhetetlenségi ok megszüntetését, ennek elmaradása esetén a 41. §-ban meghatározott bírósági vezetőt a kinevező 30 napon belül vezetői tisztségéből felmenti.
 
-(3) A 41. §-ban szabályozott összeférhetetlenségi esetben felmentést az OBH elnöke adhat. Az összeférhetetlenség feloldásának kivételes módja az együttalkalmazási tilalom alóli felmentés. A felmentésre akkor kerülhet sor, ha az összes körülményre figyelemmel megállapítható, hogy az adott vezetői állás betöltése más módon nem lehetséges. A döntés mérlegelésénél a meghatározó szempont a szolgálati érdek.
+(3) A 41. §-ban szabályozott összeférhetetlenségi esetben felmentést az OBT adhat. Az összeférhetetlenség feloldásának kivételes módja az együttalkalmazási tilalom alóli felmentés. A felmentésre akkor kerülhet sor, ha az összes körülményre figyelemmel megállapítható, hogy az adott vezetői állás betöltése más módon nem lehetséges. A döntés mérlegelésénél a meghatározó szempont a szolgálati érdek.
 
 #### 22. Nyilatkozattétel
 
@@ -659,7 +665,7 @@ történő rendelkezésre állás.
 - a) kiváló, magasabb bírói beosztásra alkalmas,
 - b) kiválóan alkalmas,
 - c) alkalmas,
-- d) alkalmas, utóvizsgálat lefolytatása indokolt,
+- d)
 - e) alkalmatlan
 
 értékelést kaphat.
@@ -668,9 +674,7 @@ történő rendelkezésre állás.
 
 77. § Ha a Be. kiemelt jelentőségű ügyekre, valamint a polgári perrendtartásról szóló törvény kiemelt jelentőségű perekre vonatkozó fejezetei szerinti ügyet tárgyaló bíró az ezen ügyekre meghatározott törvényi határidőt önhibájából mulasztja el, úgy e körülményt az értékelésnél figyelembe kell venni és az értékelés eredményeként „alkalmas” értékelésnél magasabb minősítést nem kaphat.
 
-78. § (1) Ha a bíró az értékelés eredményeként „alkalmas, utóvizsgálat lefolytatása indokolt” értékelést kap, az értékelő az értékelésben megállapítja a tapasztalt hiányosságokat, rendellenességeket és megjelöli a kívánt változtatás fő szempontjait, amelyeket a következő vizsgálat alkalmával meg kell vizsgálni. A következő vizsgálatot 2 éven belül el kell végezni. A 25. § (4) bekezdése szerint ismét határozott időre kinevezett bíró vizsgálatát a határozott idő leteltét megelőzően kell elvégezni.
-
-(2) A bíró a következő vizsgálatkor alkalmatlan minősítést kap abban az esetben is, ha az értékelése e vizsgálat alkalmával sem éri el legalább az alkalmas értékelést.
+#### 78. §
 
 #### 37. Jogorvoslat az értékelés eredményével szemben
 
@@ -680,7 +684,7 @@ történő rendelkezésre állás.
 
 #### 38. A szakmai alkalmatlansági eljárás
 
-81. § (1) Alkalmatlan minősítés esetén a bíróság elnöke az értékelés közlésével egyidejűleg felszólítja a bírót, hogy 30 napon belül mondjon le bírói tisztségéről.
+81. § (1) Alkalmatlan minősítés esetén a bíróság elnöke az értékelés közlésével egyidejűleg felszólítja a bírót, hogy 30 napon belül mondjon le bírói tisztségéről.A vizsgált bíró kérelmére a bíróság elnöke személyes meghallgatás keretében lehetőséget biztosít a vizsgált bírónak az értékeléssel kapcsolatos álláspontja ismertetésére.
 
 (2) Ha a bíró e felszólításnak nem tett eleget, erről a bíróság elnöke haladéktalanul értesíti az elsőfokú szolgálati bíróságot. A szolgálati bíróság – a 84. §-ban foglalt eltérésekkel – a fegyelmi eljárás szabályainak megfelelő alkalmazásával alkalmatlansági eljárást folytat le és soron kívüli eljárásban dönt a bíró alkalmasságáról. Alkalmatlanná nyilvánítás esetén a szolgálati bíróság határozatot hoz a felmentési ok fennállásáról.
 
@@ -692,7 +696,7 @@ történő rendelkezésre állás.
 
 84. § (1) A bíróság elnökének értesítése alapján az elsőfokú szolgálati bíróság kijelölt tanácsa megindítja az alkalmatlansági eljárást és az előzetes vizsgálat lefolytatására vizsgálóbiztost rendel ki.
 
-(2) A vizsgálóbiztos köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében meghallgathatja az eljárás alá vont bírót és az értékelő bírósági elnököt, tanúkat hallgathat ki, a bírói értékelés irataiba betekinthet. A bírák és a bíróság dolgozói kötelesek részére a szükséges tájékoztatást megadni.
+(2) A vizsgálóbiztos köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében az eljárás alá vont bírót és az értékelő bírósági elnököt meghallgatja, beszerzi a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetője, illetve a járásbírósági bíró esetén az ítélőtábla, közigazgatási és munkaügyi bírósági bíró, valamint a törvényszéken közigazgatási és munkaügyi ügyeket tárgyaló bíró esetén a közigazgatási és munkaügyi regionális kollégium vezetője véleményét, tanúkat hallgathat ki, a bírói értékelés irataiba betekinthet. A bírák és a bíróság dolgozói kötelesek részére a szükséges tájékoztatást megadni.
 
 (3) Ha a kijelölt tanács megítélése szerint az értékelés homályos, hiányos, önmagával ellentétben állónak látszik, vagy helyességéhez egyébként nyomatékos kétség fér, a kijelölt tanács az értékelő bírósági elnököt és az eljárás alá vont bírót meghallgatja.
 
@@ -708,7 +712,7 @@ történő rendelkezésre állás.
 
 #### 40. Az egészségügyi alkalmatlansági eljárás
 
-86. § (1) Ha a bíró tevékenységének ellátására egészségügyi okból tartósan nem képes, a bíróság elnöke őt írásban felszólítja, hogy tisztségéről 30 napon belül mondjon le. A felszólításban röviden meg kell jelölni azokat az okokat, amelyek a bíró egészségügyi alkalmatlanságára utalnak.
+86. § (1) Ha a bíró tevékenységének ellátására egészségügyi okból tartósan nem képes, a bíróság elnöke őt írásban felszólítja, hogy tisztségéről 30 napon belül mondjon le. A felszólításban meg kell jelölni azokat az okokat, és ismertetni kell azokat a körülményeket, amelyek a bíró egészségügyi alkalmatlanságára utalnak. A bíró kérelmére személyes meghallgatás keretében is ismertetni kell az egészségügyi alkalmatlanságára utaló okokat, és lehetőséget kell biztosítani, hogy azokra észrevételeket tegyen.
 
 (2) Ha a bíró az (1) bekezdés szerinti felszólítás ellenére tisztségéről nem mond le, meg kell vizsgáltatni a bíró egészségi állapotát, és annak eredményétől függően kell eljárni.
 
@@ -732,7 +736,7 @@ történő rendelkezésre állás.
 
 - a) a bíró halálával,
 - b) a 25. § (1) bekezdésében foglalt esetben,
-- c) felmentéssel.
+- c) a köztársasági elnök általi felmentéssel.
 
 90. § A bírót fel kell menteni,
 
@@ -747,7 +751,7 @@ történő rendelkezésre állás.
   - ha)
   - hb) a felső korhatár betöltése előtt a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (2a) bekezdésében foglalt feltételek fennállására hivatkozással maga kéri nyugállományba helyezését,
 - i) ha a bíróval szemben lefolytatott fegyelmi eljárás során jogerős fegyelmi büntetésként a bírói tisztségből való felmentést indítványozták,
-- j) ha a bíró a 34. § (2) bekezdésében írtak szerinti áthelyezéséhez nem járul hozzá,
+- j) ha a pályázat eredményével szembeni jogorvoslati eljárás során megállapítást nyert, hogy a bíró kinevezésének törvényi feltételei nem állnak fenn,
 - k) ha a bíró a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatában – a vele közös háztartásban élő hozzátartozók adatait is ideértve – lényeges adatot, tényt szándékosan valótlanul közöl, illetve elhallgat, vagy a vagyonnyilatkozatát és a személyes adat kezelésére felhatalmazó nyilatkozatát visszavonja,
 - l) ha a bíró a 38. §-ban meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra 15 munkanapon belül nem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye,
 - m) ha a bíró a munkáltató által elrendelt orvosi vizsgálaton a 86. § (3) bekezdése szerint nem vesz részt,
@@ -760,7 +764,7 @@ történő rendelkezésre állás.
 
 93. § (1) A bíró tisztségéről bármikor írásban lemondhat.
 
-(2) A bíró lemondása esetén a lemondási idő 3 hónap. Az OBH elnöke a bíró kérelmére ennél rövidebb időhöz is hozzájárulhat, továbbá a bírót a lemondási időre vagy egy részére mentesítheti a munkavégzési kötelezettség alól.
+(2) A bíró lemondása esetén a lemondási idő 3 hónap. Az OBT a bíró kérelmére ennél rövidebb időhöz is hozzájárulhat, továbbá a bírót a lemondási időre vagy egy részére mentesítheti a munkavégzési kötelezettség alól.
 
 (3) A munkavégzési kötelezettség alóli mentesítés tartamára a bíró az átlagilletményére jogosult.
 
@@ -768,7 +772,7 @@ történő rendelkezésre állás.
 
 (2) A bíró felmentési ideje – a (3) bekezdésben említett esetek kivételével – egy hónap, amelyre a bírót a munkavégzési kötelezettség alól mentesíteni kell.
 
-(3) Nyugállományba helyezés, a felső korhatár elérése esetén, valamint ha a bíró szolgálati viszonya a 90. § j) pontja szerint szűnik meg, a bíró felmentési ideje 6 hónap. A bírót a munkavégzési kötelezettség alól 3 hónapra mentesíteni kell. A bíró kérelmére a munkavégzési kötelezettség alóli mentesítés idejét az OBH elnöke ennél rövidebb tartamban is megállapíthatja.
+(3) Nyugállományba helyezés, valamint a felső korhatár elérése esetén a bíró felmentési ideje 6 hónap. A bírót a munkavégzési kötelezettség alól 3 hónapra mentesíteni kell. A bíró kérelmére az OBT a munkavégzési kötelezettség alóli mentesítés idejét 3 hónapnál rövidebb tartamban is megállapíthatja, illetve – a bíró kérelmére – dönthet úgy, hogy a bíró a munkavégzési kötelezettség alól nem mentesül.
 
 (4) A munkavégzési kötelezettség alól mentesített bíró nem ítélkezhet, bírósági vezetői beosztás esetén vezetőként nem járhat el, a bírói tisztséghez fűződő szavazati, illetve igazgatási jogokat nem gyakorolhatja.
 
@@ -850,6 +854,12 @@ történő rendelkezésre állás.
 - d) ha a 103. § (2) bekezdésében szabályozott összeférhetetlenségi ok a tagság fennállása alatt következett be, vagy
 - e) ha a szolgálati bírósági bírót kötelességeinek vétkes megszegése, hosszabb időn át történő elmulasztása vagy súlyos elhanyagolása miatt a szolgálati bíróság – titkos szavazással, a szolgálati bírósági bírák legalább kétharmadának szavazatával – tagjainak sorából kizárta.
 
+104/A. § (1) A szolgálati bíróság ügyrendjének tartalmaznia kell az eljáró tanácsok összetételét és az ügyelosztás szabályait.
+
+(2) A szolgálati bíróság által megállapított ügyrendet az OBT hagyja jóvá.
+
+(3) A szolgálati bíróság ügyrendjét az OBT közzéteszi a bíróságok központi internetes honlapján.
+
 #### 45. A fegyelmi vétség
 
 105. § Fegyelmi vétséget követ el a bíró, ha vétkesen
@@ -867,7 +877,9 @@ történő rendelkezésre állás.
 - b) az ítélőtábla bírájánál az ítélőtábla elnöke,
 - c) a törvényszéki bíró, a járásbírósági bíró, továbbá a közigazgatási és munkaügyi bírósági bíró esetén a törvényszék elnöke, kezdeményezi az elsőfokú szolgálati bíróság elnökénél.
 
-(3) Ha a bíróval szemben büntetőeljárás indult – ide nem értve a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást –, a fegyelmi eljárást meg kell indítani.
+(3) Az OBH elnöke kizárólag az általa kinevezett bírósági vezetők, valamint az OBH-ba beosztott bíró ellen kezdeményezheti a fegyelmi eljárás megindítását.
+
+(4) Ha a bíróval szemben büntetőeljárás indult – ide nem értve a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást –, a fegyelmi eljárást meg kell indítani.
 
 107. § Ha fegyelmi eljárás alá vont bíróval szemben büntetőeljárás van folyamatban, a fegyelmi eljárást fel kell függeszteni.
 
@@ -1222,9 +1234,9 @@ kezdődik.
 
 165. § Ha a Kúria elnöke és helyettese, valamint az OBH elnöke és helyettese megbízatása megszűnt, jogosult az e megbízatására utaló elnevezést használni, kivéve ha e megbízatása a tisztségtől való megfosztás miatt, vagy a 90. § c), e) vagy i) pontja alapján szűnt meg.
 
-166. § (1) A Kúria elnökét és helyettesét, valamint volt elnökét, továbbá az OBH elnökét és helyettesét megillető juttatások igénybevételével kapcsolatban felmerült költség – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetét terheli.
+166. § (1) A Kúria elnökét és helyettesét, , továbbá az OBH elnökét és helyettesét megillető juttatások igénybevételével kapcsolatban felmerült költség – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetét terheli.
 
-(2) A Kúria elnöke és helyettese, valamint volt elnöke, továbbá az OBH elnöke és helyettese köteles a részére járó juttatások igénybevételéhez szükséges adatokat – ideértve az adatok megváltozását is – haladéktalanul közölni az érintett szervvel. A jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül kell visszafizetni.
+(2) A Kúria elnöke és helyettese, , továbbá az OBH elnöke és helyettese köteles a részére járó juttatások igénybevételéhez szükséges adatokat – ideértve az adatok megváltozását is – haladéktalanul közölni az érintett szervvel. A jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül kell visszafizetni.
 
 #### 62. A javadalmazás általános szabálya
 
@@ -1749,7 +1761,7 @@ rendelettel állapítsa meg.
 
 231. § A 25. § (3) bekezdését a részmunkaidőben történő foglalkoztatásnak az egyes munkaügyi tárgyú és más kapcsolódó törvények jogharmonizációs célú módosításáról szóló 2011. évi CV. törvény hatálybalépését követően ledolgozott időtartama tekintetében kell alkalmazni.
 
-232. § Az OBH elnöke e törvény hatályba lépésétől számított 1 éven belül felülvizsgálja az Országos Igazságszolgáltatási Tanács által a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 24. § (5) bekezdése alapján az együttalkalmazási tilalom alól adott felmentéseket.
+232. § Az OBT e törvény hatályba lépésétől számított 1 éven belül felülvizsgálja az Országos Igazságszolgáltatási Tanács által a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény 24. § (5) bekezdése alapján az együttalkalmazási tilalom alól adott felmentéseket.
 
 233. § E törvény
 
