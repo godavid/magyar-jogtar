@@ -3876,7 +3876,7 @@ Kelt Bukarestben, 2004. október 5-én.
 
 9. § (1) E törvény a kihirdetését követő napon lép hatályba.
 
-(2)
+(2) Hatályát veszti az Egyetemes Postaegyesület XXII. Pekingi Kongresszusán elfogadott Általános Szabályzat, valamint az Egyetemes Postaegyezmény és Zárójegyzőkönyve kihirdetéséről szóló 121/2001. (VII. 10.) Korm. rendelet.
 
 (3) E törvény végrehajtásához szükséges intézkedésekről a postaügyért felelős miniszter gondoskodik.
 
