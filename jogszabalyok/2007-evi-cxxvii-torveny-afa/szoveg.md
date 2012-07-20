@@ -3005,6 +3005,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 (3) Amennyiben a Mód2 törvénnyel megállapított 142. § (1) bekezdés i) pontja hatálya alá tartozó termékértékesítéshez fizetett előleg jóváírásának, kézhezvételének időpontja 2012. július 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a termék beszerzőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
 
+278. § A 3/A. számú melléklet II. rész az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 2. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvény kihirdetését követő 31. napra vagy azt követő időszakra esik.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -3100,6 +3102,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | Sorszám | Megnevezés |
 | --- | --- |
 | 1. | Kereskedelmi szálláshely-szolgáltatás |
+| 2. | A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet 2012. január 1. napján hatályos állapota szerint meghatározott alkalmi szabadtéri rendezvényre történő, kizárólag belépést biztosító szolgáltatás. |
 
 ### 4. számú melléklet a 2007. évi CXXVII. törvényhez
 
