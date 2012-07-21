@@ -2372,7 +2372,18 @@ költségének fedezetét.
 
 (2) A külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt a külön jogszabály szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül adja meg.
 
+(3) A (2) bekezdéstől eltérően az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok esetében
+
+- a) a más EGT-tagállamot nem érintő vagy nem hatósági határozat végrehajtása érdekében végzett vizsgálatok megkezdéséhez hatósági engedély szükséges, amelynek kiadásáról a kérelem benyújtásától számított 60 napon belül kell dönteni,
+- b) a más EGT-tagállamot is érintő és hatósági határozat végrehajtása érdekében végzett beavatkozással nem járó gyógyszerbiztonsági vizsgálatok elvégzéséhez az emberen végzett orvostudományi kutatásokról szóló kormányrendeletben szabályozott etikai engedély, valamint a vizsgálat megkezdéséig történő bejelentés szükséges. Az engedély kiadásáról az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti farmakovigilanciai kockázatértékelő bizottság által jóváhagyott vizsgálati terv és a kérelem benyújtásától számított 45 napon belül kell dönteni.
+
+(4) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok engedélyezése során született határozattal szemben fellebbezésnek helye nincs.
+
 164/B. § Az orvostudományi kutatás, valamint a 164/A. § szerinti beavatkozással nem járó vizsgálat engedélyezési eljárásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
+
+164/C. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat és engedélyezés utáni gyógyszerbiztonsági vizsgálat esetében az engedélyt nem lehet megadni abban az esetben sem, ha a vizsgálatról megállapítható, hogy a vizsgálat végzése a gyógyszer alkalmazására ösztönöz.
+
+(2) Az egészségügyi szakembereknek a beavatkozással nem járó engedélyezés utáni gyógyszerbiztonsági vizsgálatokban való részvételükért nyújtott kifizetéseket az idejük ellentételezésére és a gyógyszerbiztonsági vizsgálatokkal kapcsolatosan felmerült, indokolt és igazolt költségeik megtérítésére kell korlátozni.
 
 ### IX. Fejezet — AZ EMBERI REPRODUKCIÓRA IRÁNYULÓ KÜLÖNLEGES ELJÁRÁSOK, AZ EMBRIÓKKALÉS IVARSEJTEKKEL VÉGZETT KUTATÁSOK,A MŰVI MEDDŐVÉTÉTEL
 
@@ -3525,7 +3536,7 @@ rendeletben állapítsa meg.
 - c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
 - d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
 - e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
-- f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (3) és (4) bekezdések, 107n. cikk (2) bekezdés;
+- f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (1)–(4) és (8) bekezdések, 107n. cikk (2) bekezdés;
 - g)–i)
 - j) a Tanács 1996. május 13-i 96/29/EURATOM irányelve a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról,
 - k) az Európai Parlament és a Tanács 2004/38/EK irányelve az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
