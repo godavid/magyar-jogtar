@@ -92,11 +92,7 @@ az adózást érintő egyes törvények módosításáról
 
 55–56. §
 
-57. § Az Áfa tv. a következő 278. §-sal egészül ki:
-
-„278. § A 3/A. számú melléklet II. rész az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 2. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvény kihirdetését követő 31. napra vagy azt követő időszakra esik.”
-
-58. § Az Áfa tv. 3/A. mellékletének II. része az e törvény 2. melléklete szerint módosul.
+57–58. §
 
 #### 17. A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény módosítása
 
@@ -165,9 +161,3 @@ az adózást érintő egyes törvények módosításáról
 ### 1. melléklet a 2012. évi LXIX. törvényhez
 
 ### 2. melléklet a 2012. évi LXIX. törvényhez
-
-Az Áfa tv. 3/A. mellékletének II. része a következő 2. ponttal egészül ki:
-
-| Sorszám | Megnevezés] |
-| --- | --- |
-| „2. | a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet 2012. január 1. napján hatályos állapota szerint meghatározott alkalmi szabadtéri rendezvényre történő, kizárólag belépést biztosító szolgáltatás.” |
