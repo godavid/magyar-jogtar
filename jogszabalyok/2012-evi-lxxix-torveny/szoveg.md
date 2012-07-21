@@ -6,13 +6,25 @@ az egyes egészségügyi tárgyú törvények módosításáról
 
 1–23. §
 
-24. §
+24. § Az Eütv. 164/A. §-a a következő (3) és (4) bekezdéssel egészül ki:
+
+„(3) A (2) bekezdéstől eltérően az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok esetében
+
+a) a más EGT-tagállamot nem érintő vagy nem hatósági határozat végrehajtása érdekében végzett vizsgálatok megkezdéséhez hatósági engedély szükséges, amelynek kiadásáról a kérelem benyújtásától számított 60 napon belül kell dönteni,
+
+b) a más EGT-tagállamot is érintő és hatósági határozat végrehajtása érdekében végzett beavatkozással nem járó gyógyszerbiztonsági vizsgálatok elvégzéséhez az emberen végzett orvostudományi kutatásokról szóló kormányrendeletben szabályozott etikai engedély, valamint a vizsgálat megkezdéséig történő bejelentés szükséges. Az engedély kiadásáról az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti farmakovigilanciai kockázatértékelő bizottság által jóváhagyott vizsgálati terv és a kérelem benyújtásától számított 45 napon belül kell dönteni.
+
+(4) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok engedélyezése során született határozattal szemben fellebbezésnek helye nincs.
 
 25–30. §
 
 31. § (1)–(5)
 
-(6)
+(6) Az Eütv. 247. § (6) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (1)–(4) és (8) bekezdések, 107n. cikk (2) bekezdés;
 
 (7)
 
@@ -65,15 +77,21 @@ lép.
 
 53. §
 
-54. §
+54. § A Gytv. 4. §-a a következő (6a) bekezdéssel egészül ki:
+
+„(6a) Ha a gyógyszerek vagy azok kiindulási anyagaként felhasznált hatóanyagok és segédanyagok gyártóhelyeinek vagy a gyógyszer-nagykereskedők létesítményeinek helyszíni ellenőrzése során, mintavétel, vagy ellenőrzés tárgyával kapcsolatos dokumentumok megvizsgálása eredményeként megállapítást nyer, hogy az ellenőrzött szerv nem tartja be a jogszabályi előírásokat vagy a helyes gyártási gyakorlat vagy helyes gyógyszernagykereskedelmi gyakorlat uniós jogi aktusokban előírt elveit és iránymutatásait, a szükséges intézkedések megtétele mellett a megállapításokat a gyógyszerészeti államigazgatási szerv megküldi az Európai Gyógyszerügynökségnek.”
 
 55. §
 
-56. §
+56. § A Gytv. 5. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább kilenc hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy az e bekezdés alapján benyújtott farmakovigilanciával kapcsolatos adatok alapján vagy az adott gyógyszerrel történő betegexpozíció elégtelensége miatt öt évre újítja meg.”
 
 57. §
 
-58. §
+58. § A Gytv. 10. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Amennyiben a gyógyszert nem közvetlenül a betegnek való kiadásra szánják, vagy a gyógyszer elérhetőségével kapcsolatban súlyos zavarok merültek fel, vagy a forgalomba hozatali engedélyt a 6. § (1) bekezdése alapján adják ki, és az a betegek egészségét nem veszélyezteti, a gyógyszerészeti államigazgatási szerv eltekinthet attól, hogy a csomagoláson és betegtájékoztatón minden egyes adat feltüntetésre kerüljön, továbbá attól, hogy a betegtájékoztatón szereplő adatok magyar nyelven kerüljenek feltüntetésre.”
 
 59–60. §
 

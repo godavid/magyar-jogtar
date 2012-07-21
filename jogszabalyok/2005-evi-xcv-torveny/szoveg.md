@@ -47,8 +47,17 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 24. Európai Gyógyszerügynökség: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelettel létrehozott Európai Gyógyszerügynökség;
 - 25. a gyógyszer alkalmazásával kapcsolatos kockázatok: a gyógyszer minőségével, biztonságosságával és hatásosságával kapcsolatos, a betegek egészségét vagy a közegészséget érintő bármely kockázat, illetve a környezetre gyakorolt nemkívánatos hatások kockázata;
 - 26. előny/kockázat arány: a gyógyszer pozitív terápiás hatása a 25. pontban meghatározott kockázat viszony értékelésének eredménye;
-- 27–28.
-- 29. fejlett (újszerű) terápiás gyógyszerkészítmény: a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti gyógyszer. 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyagok jegyzékén szereplő anyagok, és erre tekintettel azt a Kormány rendeletében ilyen anyaggá minősítette.
+- 27. engedélyezés utáni gyógyszerbiztonsági vizsgálat: minden olyan forgalomba hozatali engedéllyel rendelkező gyógyszerrel összefüggő vizsgálat, amelynek célja, hogy azonosítsa, bemutassa vagy felmérje a gyógyszer alkalmazásával kapcsolatos biztonságossági kockázatot, alátámasztva a gyógyszer alkalmazásának biztonságossági profilját vagy felbecsülje a kockázatkezelési intézkedések hatékonyságát.
+- 28.
+- 29. fejlett (újszerű) terápiás gyógyszerkészítmény: a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti gyógyszer.
+- 30. farmakovigilancia: a gyógyszerek biztonságossága érdekében a gyógyszer előny/kockázat viszonyát nyomon követő, a kockázat csökkentésére és az előnyök növelésére irányuló tevékenység,
+- 31. farmakovigilancia kockázatértékelési bizottság: az Európai Gyógyszerügynökség tudományos bizottsága,
+- 32. kockázatkezelési rendszer: azon farmakovigilancia-tevékenységek és -beavatkozások összessége, amelyek célja az adott gyógyszerrel kapcsolatos kockázatok azonosítása, jellemzése, megelőzése vagy csökkentése, beleértve az ilyen tevékenységek és beavatkozások hatékonyságának értékelését is,
+- 33. kockázatkezelési terv: a kockázatkezelési rendszer részletes leírása,
+- 34. farmakovigilancia-rendszer: a farmakovigilanciai feladatok ellátásához alkalmazott rendszer, amely a forgalomba hozatali engedéllyel rendelkező gyógyszerek biztonságosságának figyelemmel kísérésére és előny/kockázat viszonyában bekövetkező változás felismerésére szolgál,
+- 35. farmakovigilanciarendszer-törzsdokumentáció: a forgalombahozatali engedély jogosultja által egy vagy több forgalomba hozatali engedéllyel rendelkező gyógyszer tekintetében alkalmazott farmakovigilancia-rendszer részletes leírása,
+- 36. koordinációs csoport: az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelv 27. cikkében említett testület,
+- 37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyagok jegyzékén szereplő anyagok, és erre tekintettel azt a Kormány rendeletében ilyen anyaggá minősítette.
 
 ### A törvény hatálya
 
@@ -89,6 +98,10 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 (5) A gyógyszerészeti államigazgatási szerv helyszíni szemlét tart, melynek keretében megvizsgálja, hogy a kérelmező rendelkezik-e a gyógyszergyártáshoz szükséges – külön jogszabályban meghatározott – személyi és tárgyi feltételekkel, valamint megfelelő dokumentációs és minőségbiztosítási rendszerrel.
 
 (6) A gyógyszerészeti államigazgatási szerv a kérelemről kilencven napon belül dönt. Az engedély másolatát a gyógyszerészeti államigazgatási szerv megküldi az Európai Gyógyszerügynökségnek.
+
+(6a) Ha a gyógyszerek vagy azok kiindulási anyagaként felhasznált hatóanyagok és segédanyagok gyártóhelyeinek vagy a gyógyszer-nagykereskedők létesítményeinek, valamint a farmakovigilancia-rendszer helyszíni ellenőrzése során, mintavétel, vagy ellenőrzés tárgyával kapcsolatos dokumentumok megvizsgálása eredményeként megállapítást nyer, hogy az ellenőrzött szerv nem tartja be a jogszabályi előírásokat vagy a helyes gyártási gyakorlat vagy helyes gyógyszernagykereskedelmi gyakorlat uniós jogi aktusokban előírt elveit és iránymutatásait, a szükséges intézkedések megtétele mellett a megállapításokat a gyógyszerészeti államigazgatási szerv megküldi az Európai Gyógyszerügynökségnek.
+
+(6a) Ha a gyógyszerek vagy azok kiindulási anyagaként felhasznált hatóanyagok és segédanyagok gyártóhelyeinek vagy a gyógyszer-nagykereskedők létesítményeinek helyszíni ellenőrzése során, mintavétel, vagy ellenőrzés tárgyával kapcsolatos dokumentumok megvizsgálása eredményeként megállapítást nyer, hogy az ellenőrzött szerv nem tartja be a jogszabályi előírásokat vagy a helyes gyártási gyakorlat vagy helyes gyógyszernagykereskedelmi gyakorlat uniós jogi aktusokban előírt elveit és iránymutatásait, a szükséges intézkedések megtétele mellett a megállapításokat a gyógyszerészeti államigazgatási szerv megküldi az Európai Gyógyszerügynökségnek.
 
 (7) Kábítószernek, pszichotróp anyagnak minősülő, valamint a kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és hatáskörök megállapításáról szóló külön jogszabály hatálya alá tartozó hatóanyagot tartalmazó gyógyszerek gyártásával csak az foglalkozhat, aki az e tevékenységre jogosító külön engedéllyel is rendelkezik.
 
@@ -135,6 +148,15 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - b) terápiás hatásossága – az egyszerűsített eljárással törzskönyvezhető homeopátiás gyógyszerek kivételével – klinikailag is bizonyított, valamint
 - c) előny/kockázat aránya kedvező.
 
+(2a) Amennyiben a gyógyszer biztonságosságával kapcsolatos kockázatok azt indokolják, a gyógyszer forgalomba hozatalát a gyógyszerészeti államigazgatási szerv, az alábbiakban felsorolt egy vagy több feltételhez kötve, határidők előírása mellet engedélyezheti:
+
+- a) a kockázatkezelési rendszerben szereplő meghatározott intézkedések meghozatala a gyógyszer biztonságos alkalmazása érdekében;
+- b) engedélyezés utáni gyógyszerbiztonsági vizsgálat lefolytatása;
+- c) a feltételezett mellékhatásoknak a külön jogszabályban meghatározottaknál szigorúbb nyilvántartása vagy bejelentése;
+- d) a gyógyszer biztonságos és hatásos használatára vonatkozó minden egyéb feltétel vagy korlátozás;
+- e) megfelelő farmakovigilancia-rendszer létezése;
+- f) az Európai Gyógyszerügynökség által elkészített tudományos iránymutatásokat figyelembe vevő engedélyezés utáni hatásossági vizsgálat lefolytatása abban az esetben, ha a gyógyszer hatásosságának bizonyos szempontjai tekintetében aggályok merültek fel, amelyeket csak a gyógyszer forgalomba hozatalát követően lehet megoldani.
+
 (3) A forgalomba hozatali engedély kiadása iránti eljárás során a gyógyszerészeti államigazgatási szerv az EGT-megállapodásban részes államon kívül végzett vizsgálatok eredményét abban az esetben fogadja el, ha
 
 - a) azt jogszabály, nemzetközi egyezmény előírja, vagy
@@ -153,7 +175,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (6) A forgalomba hozatali eljárás ügyintézési határideje a kérelem beérkezését követő naptól számított legfeljebb kettőszáztíz nap. Forgalomba hozatali engedély csak EGT-megállapodásban részes államban letelepedett kérelmezőnek adható. A forgalomba hozatali engedély jogosultja felelős a gyógyszer forgalomba hozataláért. A képviselő kijelölése nem mentesíti a forgalomba hozatali engedély jogosultját a termékért viselt egyéb jogi felelősség alól.
 
-(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább hat hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy a külön jogszabály szerinti mellékhatás bejelentési kötelezettség alapján beérkezett adatok alapján csak öt évre újítja meg.
+(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább kilenc hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy az e bekezdés alapján benyújtott farmakovigilanciával kapcsolatos adatok alapján vagy az adott gyógyszerrel történő betegexpozíció elégtelensége miatt öt évre újítja meg.
 
 (8)
 
@@ -168,6 +190,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - a) értesíti a forgalomba hozatali engedély jogosultját azon EGT-megállapodásban részes államban, amelyben az érintett gyógyszert engedélyezték, az érintett termékre vonatkozó forgalomba hozatali engedély e törvény alapján történő megadására vonatkozó szándékáról, és
 - b) felkéri az érintett állam illetékes hatóságát, hogy juttassa el számára a gyógyszerre vonatkozó külön jogszabályban meghatározottak szerinti értékelő jelentés és a gyógyszerre vonatkozó hatályos forgalomba hozatali engedély másolatát.
 
+(3) Amennyiben EGT-megállapodásban részes állam hatóságától érkezik a (2) bekezdés b) pontja szerinti megkeresés a gyógyszerészeti államigazgatási szervhez, úgy az a megkeresés kézhezvételétől számított 30 napon belül az értékelő jelentés és az érintett gyógyszerre vonatkozó hatályos forgalomba hozatali engedély egy példányának megküldésével köteles annak eleget tenni.
+
 ### Az ideiglenes és kivételes forgalomba hozatal
 
 7. § (1) Különös méltánylást érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv a gyártó kérelmére a minőségileg megfelelő és az elvégzett vizsgálatok alapján előnyös terápiás előny/kockázat aránnyal bíró készítményre – a vizsgálatok teljes befejezése előtt, legfeljebb egy év időtartamra – ideiglenes forgalomba hozatali engedélyt adhat ki. A gyógyszerészeti államigazgatási szerv az ideiglenes forgalomba hozatali engedélyben meghatározza a forgalomba hozatali engedély jogosultjának – elsősorban a készítmény biztonságos alkalmazására vonatkozó – jelentési kötelezettségeit. A gyógyszerészeti államigazgatási szerv által előírt feltételeket az engedélyben megszabott rendszerességgel a gyógyszerészeti államigazgatási szervnek be kell jelenteni.
@@ -177,6 +201,27 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 (3) A gyógyszerészeti államigazgatási szerv különös méltánylást érdemlő betegellátási érdekből – kérelemre – kivételes forgalomba hozatali engedélyt adhat ki, ha a készítmény az 5. § (2) bekezdés a) pontjában foglaltaknak megfelel, de a b) és c) pontokban rögzítettek nem bizonyíthatók, csak valószínűsíthetők, mert a készítmény klinikai vizsgálatában a betegség előfordulási gyakorisága miatt a szükségesnél kevesebb beteg vonható be. A gyógyszerészeti államigazgatási szerv a kivételes forgalomba hozatali engedélyben meghatározza a forgalomba hozatali engedély jogosultjának – elsősorban a készítmény biztonságos alkalmazására vonatkozó – jelentési kötelezettségeit. A gyógyszerészeti államigazgatási szerv által előírt feltételeket az engedélyben megszabott rendszerességgel a gyógyszerészeti államigazgatási szervnek be kell jelenteni.
 
 (4) Az (1)–(3) bekezdésben szereplő feltétel(ek) fennállását a gyógyszerészeti államigazgatási szerv legalább évente értékeli. A gyógyszerészeti államigazgatási szerv a gyártó kérelmére az ideiglenes forgalomba hozatali engedélyben meghatározott határidőt legfeljebb egy évre meghosszabbíthatja.
+
+### Engedélyezést követő vizsgálatok eseti előírása
+
+7/A. § (1) A gyógyszerészeti államigazgatási szerv a forgalomba hozatali engedély megadását követően írásban felhívhatja a forgalomba hozatali engedély jogosultját arra, hogy végezzen engedélyezés utáni gyógyszerbiztonsági vizsgálatot, amennyiben valamely engedélyezett gyógyszerrel összefüggő új, vagy korábban csekélynek vélt, de valójában súlyosabb biztonsági kockázat azt indokolja. Ha egynél több gyógyszer esetében ugyanazok az aggályok merülnek fel, a gyógyszerészeti államigazgatási szerv a farmakovigilancia kockázatértékelési bizottsággal való információcserét követően az érintett forgalomba hozatali engedély jogosultjait közös engedélyezés utáni gyógyszerbiztonsági vizsgálat elvégzésére hívja fel.
+
+(2) A gyógyszerészeti államigazgatási szerv a forgalomba hozatali engedély megadását követően írásban felszólíthatja a forgalomba hozatali engedély jogosultját, hogy engedélyezés utáni gyógyszer-hatásossági vizsgálatot végezzen, ha a betegségről szerzett – engedélyezéskor nem ismert – információk, vagy a klinikai módszertan alapján feltételezhető, hogy a korábbi hatásossági becslések felülvizsgálata szükséges.
+
+(3) Az (1) és (2) bekezdés alkalmazása esetén a gyógyszerészeti államigazgatási szerv írásban közli
+
+- a) felszólítás indokát,
+- b) az elvégzendő vizsgálat céljait,
+- c) a vizsgálat eredményei benyújtásának határidejét, és
+- d) azt, hogy a felhívással kapcsolatos észrevételeit a forgalomba hozatali engedély jogosultja a felhívás kézhezvételétől számított 30 napon belül írásban megteheti.
+
+(4) Ha a gyógyszerészeti államigazgatási szerv a (3) bekezdés d) pontjában említett észrevétel ismeretében is szükségesnek tartja, elrendeli az a (1) vagy a (2) bekezdésben említett vizsgálat elvégzését, és egyúttal módosítja a forgalomba hozatali engedélyt annak érdekében, hogy az előírt vizsgálat elvégzését a forgalomba hozatali engedély feltételeként tartalmazza.
+
+(5) A forgalomba hozatali engedély jogosultja a határozatnak megfelelően módosítja a kockázatkezelési rendszert.
+
+### Kockázatkezelési rendszer módosítása
+
+7/B. § A forgalomba hozatali engedély jogosultja köteles a gyógyszerészeti államigazgatási szerv által az 5. § (2a) bekezdés, a 7. § és a 7/A. § alapján előírt tevékenységeket a kockázatkezelési rendszerbe bevezetni.
 
 ### A címke és a betegtájékoztató
 
@@ -190,7 +235,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (3) A betegtájékoztatót úgy kell megírni és megszerkeszteni, hogy a beteg megfelelően tudja alkalmazni a gyógyszert, szükség esetén az egészségügyi szakember segítségével. A betegtájékoztató szövegének jól olvashatóan, magyar nyelven kell tartalmaznia a külön jogszabályban meghatározott adatokat. Az adatok a magyar nyelven kívül több nyelven is feltüntethetők, amennyiben mindegyik nyelven tartalmilag ugyanazok az információk szerepelnek.
 
-(4) Amennyiben a gyógyszert nem közvetlenül a betegnek való kiadásra szánják, a gyógyszerészeti államigazgatási szerv eltekinthet attól, hogy a csomagoláson és betegtájékoztatón minden egyes adat feltüntetésre kerüljön, továbbá attól, hogy a betegtájékoztatón szereplő adatok magyar nyelven kerüljenek feltüntetésre.
+(4) Amennyiben a gyógyszert nem közvetlenül a betegnek való kiadásra szánják, vagy a gyógyszer elérhetőségével kapcsolatban súlyos zavarok merültek fel, vagy a forgalomba hozatali engedélyt a 6. § (1) bekezdése alapján adják ki, és az a betegek egészségét nem veszélyezteti, a gyógyszerészeti államigazgatási szerv eltekinthet attól, hogy a csomagoláson és betegtájékoztatón minden egyes adat feltüntetésre kerüljön, továbbá attól, hogy a betegtájékoztatón szereplő adatok magyar nyelven kerüljenek feltüntetésre.
 
 (5)
 
@@ -334,38 +379,76 @@ kezeli.
 
 (5) A gyógyszer forgalomból való kivonásának költségei – ideértve az (1)–(3) bekezdés eseteit is – a forgalomba hozatali engedély jogosultját terhelik.
 
-18. § (1) A forgalomba hozatali engedély jogosultja, valamint a gyógyszert alkalmazó orvos, illetve a kiszolgáltatást végző gyógyszerész köteles az általa észlelt vagy tudomására jutott mellékhatásokat haladéktalanul a gyógyszerészeti államigazgatási szervnek bejelenteni, ha az
+### Farmakovigilancia
 
-- a) a gyógyszer alkalmazási előírásában nem szerepel,
-- b) súlyos és nemkívánatos, illetve
-- c) a gyógyszer további alkalmazását megakadályozza.
+18. § (1) A forgalomba hozatali engedély jogosultja a jogszabályban foglaltak szerint nyilvántartja és bejelenti az EGT-államokban vagy harmadik országban bekövetkező valamennyi, a betegek vagy egészségügyi dolgozók által bejelentett vagy engedélyezés utáni vizsgálatok során észlelt feltételezett mellékhatást.
 
-(2) A gyógyszerészeti államigazgatási szerv a bejelentéseket elbírálja, értékeli, és megteszi a (3) és (4) bekezdés szerinti szükséges intézkedéseket. A bejelentésről, a bejelentés eredményéről, illetve a szükséges intézkedésekről a gyógyszerészeti államigazgatási szerv a bejelentőt, a forgalomba hozatali engedély jogosultját, valamint az egészségügyi szolgáltatókat hirdetmény útján értesíti, valamint az intézkedéseiről szóló döntését nyilvánosan közzéteszi. A döntést a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben is közzé kell tenni.
+(2) Az egészségügyi dolgozó köteles az általa észlelt vagy tudomására jutott feltételezett mellékhatást haladéktalanul a gyógyszerészeti államigazgatási szervnek jelenteni. A gyógyszerészeti államigazgatási szerv a jogszabályban meghatározott módon nyilvántartásba veszi és továbbítja az egészségügyi dolgozók és a betegek által a tudomására hozott, Magyarországon bekövetkezett összes feltételezett mellékhatást.
 
-(3) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalomba hozatalát a forgalmazás feltételeinek az előírt határidőben történő teljesítéséig felfüggeszti, ha az (1) bekezdés szerinti bejelentések alapján úgy ítéli meg, hogy a gyógyszer
+(3) Ha egy gyógyszer helytelen alkalmazásából eredő feltételezett mellékhatásról valamely hatóság értesülést szerez, haladéktalanul tájékoztatnia kell a gyógyszerészeti államigazgatási szervet.
 
-- a) rendeltetésszerű használat esetén károsnak bizonyul, vagy
-- b) terápiás hatása nincs, vagy
-- c) előny/kockázat aránya a rendeltetésszerű használat során kedvezőtlen, illetve
-- d) mennyiségi és minőségi összetétele nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek,
-- e) összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha nem felel meg az egyéb, a gyártási engedély kiállításával kapcsolatos követelményeknek vagy kötelezettségeknek.
+(4) A gyógyszerészeti államigazgatási szerv a tudomására jutott farmakovigilanciával kapcsolatos adatokat értékeli, és amennyiben sürgős intézkedést tart szükségesnek, értesíti az európai uniós tagállamokat és az Európai Gyógyszerügynökséget. Amennyiben az Európai Gyógyszerügynökség nem folytat le sürgős uniós eljárást, a gyógyszerészeti államigazgatási szerv megteszi a (7) és (8) bekezdés szerinti szükséges intézkedéseket. Az intézkedésekről, és az azok alapját képező adatokról a gyógyszerészeti államigazgatási szerv a bejelentőt, a forgalomba hozatali engedély jogosultját, valamint hirdetmény útján az egészségügyi szolgáltatókat is értesíti, és az intézkedéseiről szóló döntését honlapján is nyilvánosan közzéteszi.
 
-(4) A gyógyszerészeti államigazgatási szerv a forgalomba hozatali engedélyt visszavonja, ha
+(5) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalmazását felfüggesztheti, és megtilthatja a gyógyszer alkalmazását, ha
 
-- a) az (1)–(2) bekezdés szerinti bejelentések alapján úgy ítéli meg, hogy a (3) bekezdés a)–d) pontjaiban foglaltak megfelelő határidő tűzésével sem orvosolhatóak,
-- b) a (3) bekezdés szerinti határozatban kitűzött határidőre a hiányosságokat a forgalomba hozatali engedély jogosultja nem szüntette meg.
+- a) a tudomására jutott adatok arra utalnak, hogy a gyógyszer az egészségre káros,
+- b) a tudomására jutott adatok arra utalnak, hogy a gyógyszerrel nem érhető el terápiás eredmény,
+- c) a tudomására jutott adatok arra utalnak, hogy a gyógyszerrel kapcsolatban felmerült kockázatok és a gyógyszertől várható előnyök aránya oly módon változott meg, hogy kétségessé vált a biztonságos alkalmazhatóság,
+- d) a gyógyszer mennyiségi és minőségi összetétele nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek,
+- e) a gyógyszer összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha a gyógyszer nem felel meg az egyéb, a gyártási engedély kiállításával kapcsolatos követelményeknek vagy kötelezettségeknek,
+- f) a forgalomba hozatali engedély vagy annak megújítása iránti kérelem alátámasztására benyújtott adatok pontatlanok, vagy nem módosították azokat,
+- g) a forgalomba hozatali engedély jogosultja a forgalomba hozatali engedély módosítását határidőben nem kérelmezi, vagy
+- h) az Európai Bizottságtól érkező kérés teljesítése érdekében az szükséges.
 
-(5) A terápiás hatás akkor hiányzik, ha megállapítják, hogy a gyógyszerrel nem érhető el a forgalomba hozatali engedély kiadásának alapjául szolgáló, a hatásosságra vonatkozó terápiás eredmény.
+(6) A gyógyszerészeti államigazgatási szerv a forgalomba hozatali engedélyt visszavonja, ha
 
-(6) A gyógyszer forgalmazását akkor is fel kell függeszteni, illetve az engedélyt vissza kell vonni, ha a forgalomba hozatali engedély megújítása iránti kérelem alátámasztására benyújtott adatok pontatlanok, vagy nem módosították őket, illetve ha nem végezték el a gyártási folyamatra előírt ellenőrzést.
+- a) úgy ítéli meg, hogy az (5) bekezdés a)–d) pontjában foglaltak megfelelő határidő tűzésével sem orvosolhatóak, vagy
+- b) az (5) bekezdés szerinti határozatban kitűzött határidőre a hiányosságokat a forgalomba hozatali engedély jogosultja nem szüntette meg,
+- c) a forgalomba hozatali engedély jogosultja nem teljesítette a forgalomba hozatali engedélyben előírt külön feltételeket.
 
-(7) Ha egy a gyógyszerészeti államigazgatási szerv által már forgalomba hozatalra engedélyezett gyógyszer három egymást követő éven keresztül nincs ténylegesen forgalomban a hazai gyógyszerpiacon, a gyógyszerészeti államigazgatási szerv a gyógyszer forgalomba hozatali engedélyét visszavonhatja.
+(7) Amennyiben az (5) vagy (6) bekezdés alkalmazása farmakovigilanciával kapcsolatos tevékenységekből származó adatok alapján indokolt, az intézkedés foganatosítására akkor kerülhet sor, ha a gyógyszerészeti államigazgatási szerv a tervezett intézkedésről és annak okairól előzetesen tájékoztatja az Európai Bizottságot, az Európai Gyógyszerügynökséget és a többi EGT-megállapodásban részes államot, és ezt követően az Ügynökség arról ad tájékoztatást, hogy a bejelentés alapján nem kezdeményez sürgős uniós eljárást. Amennyiben azonban közegészségügyi okból indokolt ideiglenes intézkedésként szükséges alkalmazni az (5) bekezdést, akkor az e bekezdésben említett tájékoztatást a gyógyszerészeti államigazgatási szerv az intézkedés foganatosítását követő munkanapon is megteheti. E bekezdést nem kell alkalmazni, ha az intézkedésre az (5) bekezdés h) pontja vagy a (8) bekezdés alapján került sor.
 
-(8) Különös méltánylást érdemlő betegellátási érdekből vagy közegészségügyi okból a gyógyszerészeti államigazgatási szerv a (6) és (7) bekezdés rendelkezéseitől eltekinthet.
+(8) A gyógyszerészeti államigazgatási szerv az Európai Gyógyszerügynökség koordinációs csoportjában elfogadott egyhangú állásfoglalás vagy az Európai Bizottság határozata alapján is felfüggesztheti, visszavonhatja a forgalomba hozatali engedélyt, továbbá elutasíthatja annak megújítását, vagy felszólíthatja a forgalomba hozatali engedély jogosultját a forgalomba hozatali engedély megfelelő módosításának kérelmezésére.
+
+(9) Amennyiben az e § alapján nem forgalmazható gyógyszer más gyógyszerrel nem helyettesíthető, a gyógyszerészeti államigazgatási szerv átmeneti ideig engedélyezheti, hogy az a már kezelt betegek számára továbbra is kiszolgáltatható legyen.
+
+18/A. § (1) A gyógyszerészeti államigazgatási szerv farmakovigilancia-rendszert működtet, melyen keresztül információt gyűjt a gyógyszerek azon kockázatairól, melyek a betegek egészségét vagy a közegészséget érinthetik. Az így gyűjtött információ vonatkozik a gyógyszernek a forgalomba hozatali engedély feltételei szerinti vagy bármilyen más alkalmazására, továbbá a foglalkozási expozícióval kapcsolatosan, emberekben fellépő mellékhatásokra.
+
+(2) A gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett farmakovigilancia-rendszer segítségével összegyűjtött minden információt tudományosan kiértékel, megvizsgálja a kockázat megelőzésére és minimalizálására rendelkezésre álló lehetőségeket, és szükség szerint a forgalomba hozatalt érintő hatósági intézkedéseket hoz.
+
+(3) A gyógyszerészeti államigazgatási szerv legkésőbb 2013. szeptember 21-ig, azt követően kétévente elvégzi az általa működtetett farmakovigilancia-rendszer ellenőrzését, és az eredményekről beszámolót készít az Európai Bizottság részére.
+
+(4) A farmakovigilancia-rendszer hatékony működése érdekében a gyógyszerészeti államigazgatási szerv
+
+- a) felkéri az egészségügyi dolgozókat és a lakosságot, hogy jelentsék a gyógyszerek feltételezett mellékhatásait, mely célból együttműködik az érintett szakmai és társadalmi szervezetekkel;
+- b) formanyomtatvány közzétételével az internetes felület mellett más írásos formában is lehetővé teszi a betegek számára a feltételezett mellékhatások bejelentését;
+- c) minden szükséges intézkedést megtesz annak érdekében, hogy pontos és ellenőrizhető adatokhoz jusson a feltételezett mellékhatásokra vonatkozó bejelentések tudományos értékeléséhez;
+- d) biztosítja, hogy a nemzeti internetes portálon történő közzététel révén vagy szükség esetén egyéb információs csatornákon keresztül a lakosság időben tájékoztatást kapjon valamely gyógyszer alkalmazása kapcsán felmerülő farmakovigilanciát érintő aggályokról;
+- e) adatgyűjtési módszerekkel és adott esetben a feltételezett mellékhatásokról szóló jelentések utánkövetésével minden szükséges intézkedést megtesz a Magyarországon felírt, kiadott vagy értékesített, valamennyi biológiai gyógyszer egyértelmű azonosítására, legalább annak 1. § 13. pontja szerinti nevének és a gyártási tétel számának megjelölésével.
+
+18/B. § A forgalomba hozatali engedély jogosultja a 18/A. § (1) bekezdésében említett farmakovigilancia-rendszerrel egyenértékű farmakovigilancia-rendszert működtet a farmakovigilancia végrehajtása céljából. A farmakovigilancia-rendszerrel kapcsolatos feladatokat jogszabály tartalmazza.
+
+18/C. § (1) A gyógyszerészeti államigazgatási szerv létrehozza és fenntartja a nemzeti internetes gyógyszerportált, amely kapcsolódik az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet 26. cikkével összhangban kialakított, európai internetes gyógyszerportálhoz.
+
+(2) A nemzeti internetes gyógyszerportálon az alábbi adatokat kell közzétenni:
+
+- a) a nyilvános értékelő jelentések és azok rövid összefoglalása;
+- b) az alkalmazási előírások és a betegtájékoztatók;
+- c) az engedélyezett gyógyszerek tekintetében létrehozott kockázatkezelési tervek összefoglalása;
+- d) az intenzív monitorozás alatt álló gyógyszereknek az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet 23. cikk szerinti jegyzéke;
+- e) a gyógyszerek feltételezett mellékhatásainak az egészségügyi dolgozók és a betegek által az illetékes nemzeti hatóságok felé történő bejelentésének különböző módjairól szóló információ, ideértve az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet 25. cikkében említett internet alapú űrlapokat is.
+
+18/D. § (1) Ha a forgalomba hozatali engedély jogosultja egy gyógyszer alkalmazásával összefüggésben farmakovigilanciával kapcsolatos aggályokra vonatkozó információt kíván nyilvánosan bejelenteni, a jogszabályban meghatározott módon a bejelentés tartalmáról tájékoztatja a gyógyszerészeti államigazgatási szervet, a Bizottságot és az Európai Gyógyszerügynökséget.
+
+(2) A gyógyszerészeti államigazgatási szerv által közzétett farmakovigilanciával kapcsolatos aggályokra vonatkozó tájékoztatás csak olyan üzleti titkot tartalmazhat, amely közzététele a közegészség védelme szempontjából szükséges. A tájékoztatás a farmakovigilanciával kapcsolatos aggállyal összefüggésben érintett személy személyes adatait csak abban az esetben tartalmazhatja, ha az az életveszély elhárításához szükséges, és a tájékoztatás célja másképpen nem érhető el.
+
+18/E. § A jogszabályban meghatározott feltételek szerint a forgalomba hozatali engedély jogosultja időszakos gyógyszerbiztonsági jelentést nyújt be.
 
 19. § A gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumokat és a klinikai vizsgálatokat végző egészségügyi szolgáltatókat a gyógyszerészeti államigazgatási szerv a külön jogszabályban megállapított szakmai szabályok betartása szempontjából rendszeresen ellenőrzi.
 
 20. § (1) A gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával, farmakovigilanciájával és a gyógyszerellátási felelősséggel, valamint a vizsgálati készítmények klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, valamint az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek betartásának hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv feladata. A gyógyszertárak és egyéb egészségügyi szolgáltatók esetén az ellenőrzést az egészségügyi államigazgatási szerv is végzi. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény állapítja meg.
+
+(1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy harmadik országok területén végzett ellenőrzések során együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.
 
 (2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
 
@@ -381,7 +464,7 @@ kezeli.
 
 (5) A gyógyszerellátással kapcsolatos e törvény szerinti kötelezettség megszegése esetén a bírság összegét a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására vagy az eset más a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni azzal, hogy a bírság legalacsonyabb összege százezer forint.
 
-(6)
+(6) A 18. § (2) bekezdésének végrehajtásával kapcsolatban az egészségügyi dolgozók további kötelezettségeit jogszabály tartalmazza.
 
 (7) A bírságot az azt kiszabó gyógyszerészeti államigazgatási szerv vagy egészségügyi államigazgatási szerv számlájára kell befizetni.
 
@@ -574,6 +657,8 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 
 (10) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a 25/B. § szerinti díj kezelésére, nyilvántartására és megosztására vonatkozó szabályokat – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg.
 
+32/A. § Az 5. § az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel megállapított (7) bekezdését a 2012. július 21-ét követően benyújtott kérelmek vonatkozásában kell alkalmazni.
+
 33. § (1) Ez a törvény a törvény végrehajtására a 32. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendeletekkel együtt a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács 2001/20/EK irányelve (2001. április 4.) az emberi felhasználásra szánt gyógyszerekkel végzett klinikai vizsgálatok során alkalmazandó helyes klinikai gyakorlat bevezetésére vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről;
@@ -583,6 +668,7 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 - e) a Bizottság 2003/94/EK (2003. október 8.) irányelve az emberi felhasználásra szánt gyógyszerek és az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások megállapításáról;
 - f) a Bizottság 2005/28/EK (2005. április 8.) irányelve a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében;
 - g) a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tekintetében a 2001/82/EK és a 2001/83/EK irányelvek módosításáról szóló 2009. június 18-i 2009/53/EK európai parlamenti és tanácsi irányelv.
+- h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
