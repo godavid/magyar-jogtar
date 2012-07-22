@@ -48,4 +48,4 @@ vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a társadalompolitika összehangolásáért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg az Erzsébet-utalvány kibocsátásának részletes szabályait.
 
-9. § Hatályát veszti a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81. § (4) bekezdése.
+9. §
