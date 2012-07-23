@@ -19,7 +19,7 @@ az egyes egészségügyi tárgyú törvények módosításáról
 32. § Az Eütv.
 
 - a)
-- b) 164/C. § (1) bekezdésében az „a szakmai-etikai engedélyt” szövegrész helyébe az „az engedélyt” szöveg,
+- b)
 - c)–d)
 - e)
 
@@ -71,9 +71,7 @@ lép.
 
 56. §
 
-57. § A Gytv. 7/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A gyógyszerészeti államigazgatási szerv a forgalomba hozatali engedély megadását követően felhívhatja a forgalomba hozatali engedély jogosultját arra, hogy végezzen engedélyezés utáni gyógyszerbiztonsági vizsgálatot, amennyiben valamely engedélyezett gyógyszerrel összefüggő új, vagy korábban csekélynek vélt, de valójában súlyosabb biztonsági kockázat azt indokolja. Ha egynél több gyógyszer esetében ugyanazok az aggályok merülnek fel, a gyógyszerészeti államigazgatási szerv a farmakovigilancia kockázatértékelési bizottsággal való információcserét követően az érintett forgalomba hozatali engedély jogosultjainak közös engedélyezés utáni gyógyszerbiztonsági vizsgálat elvégzését javasolja.”
+57. §
 
 58. §
 
@@ -88,8 +86,7 @@ lép.
 65. § A Gytv.
 
 - a)
-- b) 18/B. §-ában a „farmakovigilancia végrehajtása céljából” szövegrész helyébe a „farmakovigilanciai feladatok végrehajtása céljából” szöveg,
-- c) 18/C. § (2) bekezdés d) pontjában az „az intenzív” szövegrész helyébe az „a kiegészítő” szöveg
+- b)–c)
 
 lép.
 
