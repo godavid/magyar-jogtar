@@ -30,6 +30,24 @@ valamint a céginformációs szolgálat feladatai
 - d) jogi tanácsadó szolgálatot tart fenn annak érdekében, hogy a mikro- és kisvállalkozások a cégalapítással, a cégek megszüntetésével összefüggő jogilag jelentős információkat – korszerű informatikai eszközök alkalmazása révén – közérthető megfogalmazásban, költségmentesen is megismerhessék;
 - e)
 
+1/A. § (1) Az e törvényben szabályozott nemperes eljárásokban – a (2) bekezdésben foglaltak kivételével – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
+
+(2) Bíró hozza meg a következő határozatokat:
+
+- a) az egyszerűsített cégeljárás, az egyéni cég, a közkereseti társaság, a betéti társaság, valamint a 45. § (2) bekezdésében szabályozott hiánypótlási eljárás lefolytatása nélküli elutasító végzés kivételével a bejegyzési eljárásban hozott határozatok;
+- b) az egyéni cég, a közkereseti társaság, betéti társaság, valamint a 45. § (2) bekezdésében szabályozott hiánypótlási eljárás lefolytatása nélküli elutasító végzés kivételével a változásbejegyzési eljárásban hozott határozatok;
+- c) a cégformától független adatok bejegyzésére irányuló eljárásban hozott határozatok, kivéve a 26. § (1) bekezdés a), b), f), g), h), i), j), k), l) pontjait;
+- d) a cég átalakulásának a bejegyzésére irányuló eljárásban hozott határozatok;
+- e) a 87. §-ban szabályozott eljárás kivételével a törvényességi felügyeleti eljárásban az eljárás hivatalból történő megindítása tárgyában hozott határozat, kérelemre indult eljárás esetén a kérelmet elutasító, továbbá az eljárást megszüntető határozat;
+- f) törvényességi felügyeleti eljárásban hozott intézkedés;
+- g) különleges törvényességi felügyeleti eljárásban a cég működésének a felfüggesztése tárgyában hozott érdemi határozat, továbbá más hatóság eljárásának a kezdeményezése;
+- h) a betéti társaság, a közkereseti társaság, valamint az egyéni cég kivételével a végelszámolás bejegyzésére irányuló eljárásban hozott határozat, valamint a cég törlésére irányuló eljárásban hozott határozat;
+- i) végelszámolás lefolytatása során a végelszámoló jogsértő intézkedése vagy mulasztása miatt előterjesztett kifogás elbírálása tárgyában hozott érdemi határozat;
+- j) a 117. § (1) bekezdés, valamint a 118. § (2) és (3) bekezdése alapján meghozott határozat kivételével a kényszertörlési eljárásban, a felszámolási eljárás kezdeményezése tárgyában, valamint a 118. § (1) és (7) bekezdésben foglalt feltételek fennállása esetén a cég törlésére irányuló eljárásban hozott érdemi határozatok;
+- k) a vagyonrendezési eljárásban az eljárás lefolytatását elrendelő határozat, a vagyonrendező jogszabálysértő intézkedése vagy mulasztása ellen benyújtott kifogás tárgyában hozott határozatok, valamint a vagyonrendezési eljárás befejezése során hozott érdemi határozat;
+- l) a cégbejegyzési (változásbejegyzési) kérelem elbírálásában hozott határozatok, ha a kérelem elbírálásának során törvényességi felügyeleti eljárás indul;
+- m) a cégjegyzékbe bejegyzett személynek a céggel kapcsolatos jogviszony törlésére irányuló eljárásban hozott határozatok.
+
 ### 2. CÍM — A cég
 
 2. § (1) A cég – ha törvény eltérően nem rendelkezik – az a jogalany, amely a cégnyilvántartásba történő bejegyzéssel, üzletszerű gazdasági tevékenység folytatása céljából jön létre.
@@ -74,7 +92,7 @@ valamint a céginformációs szolgálat feladatai
 
 (4) A névfoglalás egyszeri alkalommal 8 nappal meghosszabbodik, ha ugyan a hatvan napos határidő lejárt, a cégnevet lefoglaló jogalany bejegyzési kérelmét elutasították, de azt 8 napon belül ismételten beadja.
 
-(5) A névfoglalásra vonatkozó eljárásra bírósági titkár, fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
+(5) A névfoglalásra vonatkozó eljárásra fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
 ### 4. CÍM — A székhely, telephely, fióktelep
 
@@ -400,7 +418,7 @@ megismerhetők.
 
 (8) A hivatalból történő bejegyzés, valamint közzététel az (5)–(7) bekezdésben meghatározott esetekben is irányadó.
 
-(9) A 24. § (5) bekezdésében, a 25. § (2) bekezdésében, valamint a 26. § (4)–(7) bekezdésében említett tények bejegyzésére bírósági titkár, fogalmazó vagy bírósági ügyintéző önállóan is jogosult.
+(9) A 24. § (5) bekezdésében, a 25. § (2) bekezdésében, valamint a 26. § (1) bekezdés a), b), f)–l) pontjaiban említett tények bejegyzésére fogalmazó vagy bírósági ügyintéző önállóan is jogosult.
 
 27. § A cégjegyzék cégformánként, a 24–26. §-ban meghatározottakon túlmenően az alábbi adatokat is tartalmazza:
 
@@ -702,7 +720,7 @@ hiánypótlás nélküli elutasítása
 
 (3) Ha a bíróság a cégbejegyzési kérelem, valamint mellékletei megvizsgálására nyitva álló határidő lejártakor, az 1. számú mellékletben felsorolt okirat hiánya ellenére az elutasító végzést nem adta ki, a hiányosságok pótlását a 46. §-ban foglaltak szerint kell elrendelnie.
 
-(4) Az (1)–(2) bekezdés szerinti eljárásra bírósági titkár, fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
+(4) Az (1)–(2) bekezdés szerinti eljárásra fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
 (5) Ha a cégbejegyzési kérelmet elutasító végzés közlését követően nyolc napon belül ismételten kérik a cég bejegyzését, az elutasításhoz fűződő jogkövetkezmények nem alkalmazhatóak, és a korábbi eljárás során benyújtott okiratokat ismételten fel lehet használni az új bejegyzési kérelemhez. A határidő elmulasztása miatt igazolásnak nincs helye.
 
@@ -712,7 +730,7 @@ hiánypótlás nélküli elutasítása
 
 46. § (1) A cégbíróság a kérelem érkezését követően, legkésőbb nyolc munkanapon belül megvizsgálja, hogy azok az adatok, amelyeknek bejegyzését az adott cégformára vonatkozóan e törvény előírja (24–25. § és 27–29. §), illetve a létesítő okirat, valamint a bejegyzési kérelem alapjául szolgáló, az 1–2. számú mellékletben felsorolt, kötelezően, illetve szükség szerint csatolandó egyéb okiratok megfelelnek-e a jogszabályok rendelkezéseinek. A cégbíróság elektronikusan, számítógépes program útján ellenőrzi továbbá, hogy a cégjegyzék nem tartalmaz-e a cég tagjai, vezető tisztségviselői, illetve cégvezetői vonatkozásában e törvény 27. § (1) bekezdésének c) pontja, 27. § (2) bekezdésének d) pontja, 27. § (3) bekezdésének d) pontja, 27. § (4) bekezdésének ad) alpontja 27. § (5) bekezdésének c) pontja vagy 27. § (6) bekezdés c) pontja szerinti bejegyzést. Amennyiben a cégjegyzék a bejegyzési kérelemben feltüntetett vezető tisztségviselő, illetőleg cégvezető tekintetében a fent említett bejegyzést tartalmazza, a cégbíróság a cégbejegyzés iránti kérelmet legkésőbb a kérelem beérkezését követő 8. munkanap lejártának napján hiánypótlási eljárás lefolytatása nélkül elutasítja.
 
-(2) A közkereseti társaság, a betéti társaság és az egyéni cég bejegyzésére irányuló kérelem érdemi vizsgálatát bírósági titkár, fogalmazó vagy bírósági ügyintéző is önállóan lefolytathatja, azonban a bejegyzési kérelmet elutasító végzést, valamint olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
+(2) A közkereseti társaság, a betéti társaság és az egyéni cég bejegyzésére irányuló kérelem érdemi vizsgálatát fogalmazó és bírósági ügyintéző is önállóan lefolytathatja, azonban a bejegyzési kérelmet elutasító végzést, valamint olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
 
 (3) Ha a bejegyzést kérő nem csatolta a 2. számú mellékletben, illetve a 45. § (3) bekezdése esetén az 1. számú mellékletben felsorolt szükséges iratokat, illetve ha a cégbejegyzési kérelem, valamint mellékletei nem felelnek meg az (1) bekezdésben foglaltaknak, a cégbíróság elutasítás terhe mellett hiánypótlásra felhívó végzést ad ki. A hiánypótlásra felhívó végzést legkésőbb a bejegyzési kérelem érkezésétől számított nyolcadik munkanapon ki kell adni.
 
@@ -736,7 +754,7 @@ hiánypótlás nélküli elutasítása
 
 (2) A bejegyzési kérelemhez – a cégnyilvánosság alapelvének teljesítése, illetve az illetékes adóhatósághoz való továbbítás végett – csatolandó okiratok felsorolását a 3. számú melléklet tartalmazza. A jogi képviselő a bejegyzési kérelemben nyilatkozik arról, hogy a csatolandó okiratok törvényességi szempontú vizsgálatát elvégezte, azok megfelelőségét szavatolja. A jogi képviselőnek a törvényességi szempontú vizsgálatára vonatkozó nyilatkozatát a bejegyzési kérelemnek tartalmaznia kell.
 
-(3) A cég bejegyzésére irányuló kérelem érdemi vizsgálatát bírósági titkár, fogalmazó, vagy bírósági ügyintéző önállóan lefolytathatja és a bejegyzési kérelmet elutasító végzés meghozatalára is önálló aláírási joggal jogosult. Ugyanez irányadó a többi olyan végzés meghozatalára is, amely ellen külön fellebbezésnek van helye.
+(3) A cég bejegyzésére irányuló kérelem érdemi vizsgálatát fogalmazó, vagy bírósági ügyintéző önállóan lefolytathatja és a bejegyzési kérelmet elutasító végzés meghozatalára is önálló aláírási joggal jogosult. Ugyanez irányadó a többi olyan végzés meghozatalára is, amely ellen külön fellebbezésnek van helye.
 
 (4) A bejegyzési kérelem elbírálásáról a cégbíróság a bejegyzési kérelem érkezését követően, az adószám megállapításától számított egy munkaórán belül határoz. A cégbíróság e határidőn belül kezdeményezi a bejegyzést elrendelő, illetőleg a bejegyzési kérelmet elutasító végzés jogi képviselő részére történő kézbesítését. A kérelem elbírálására nyitva álló határidő számításának kezdő időpontja munkanapokon reggel 9 óra.
 
@@ -767,7 +785,7 @@ hiánypótlás nélküli elutasítása
 
 (2) A változásbejegyzési kérelem elbírálására egységesen a 46. §-ban meghatározott ügyintézési határidők vonatkoznak.
 
-(3) A közkereseti társaság, a betéti társaság és az egyéni cég esetében a változásbejegyzési kérelem érdemi vizsgálatát bírósági titkár, fogalmazó vagy bírósági ügyintéző is lefolytathatja, azonban a változásbejegyzési kérelmet elutasító, valamint olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
+(3) A közkereseti társaság, a betéti társaság és az egyéni cég esetében a változásbejegyzési kérelem – ideértve a 14., 15. és 17. cím szerinti eljárást – érdemi vizsgálatát a fogalmazó és bírósági ügyintéző is lefolytathatja, azonban a változásbejegyzési kérelmet elutasító, valamint olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
 
 (4) Ha a változás (a változással érintett adat) bejegyzése kötelező és a cégbíróság a változásbejegyzési kérelmet elutasítja, ez a jogszabályoknak megfelelő változásbejegyzési kérelem benyújtása alól nem mentesít.
 
@@ -1052,7 +1070,7 @@ megállapítása iránti per
 
 (3) A cégbíróság a kérelmet elutasítja, ha a kérelem nem felel meg az (1) bekezdésben foglalt feltételeknek.
 
-(4) Az eljárás során a kérelmező a kérelmét bármikor visszavonhatja. Ilyen esetben az eljárást meg kell szüntetni. Az eljárás során felmerült költségeket a Pp. általános szabályai szerint a kérelmező viseli.
+(4) Az eljárás során a kérelmező a kérelmét bármikor visszavonhatja. Ilyen esetben az eljárást meg kell szüntetni. Az eljárás során felmerült költségeket a Pp. általános szabályai szerint a kérelmező viseli. Az eljárás megszüntetésére fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
 (5) A (4) bekezdésben meghatározott esetben, illetve ha a kérelem elutasítására került sor, a cégbíróság az eljárást hivatalból megindíthatja, ha a törvényességi felügyeleti eljárásnak hivatalból is helye van.
 
@@ -1133,7 +1151,7 @@ elbírálásával egyidejűleg
 
 84. § (1) Ha a törvényes működés a bíróság által hozott intézkedések ellenére sem következik be, a cégbíróság a céget eltiltja a további működéstől, egyben megszűntnek nyilvánítja, és kezdeményezi a cég felszámolását, vagy elrendeli a kényszertörlési eljárást, amennyiben az adott cégformára irányadó anyagi jogszabályok ezt lehetővé teszik. Ha a felszámolásra vagy kényszertörlési eljárásra az adott cégformára tekintettel nem kerülhet sor, e tényről a cégbíróság az állami adóhatóságot elektronikus úton haladéktalanul értesíti és a cégre irányadó anyagi jogszabály rendelkezései szerint gondoskodik a cég cégjegyzékből történő törléséről.
 
-(2) A cég megszűntnek nyilvánítására a cégbíróság által meghozott első eredménytelen intézkedést követően is sor kerülhet, ha a cégbíróság úgy ítéli meg, hogy a törvényes működés helyreállítására elrendelhető további intézkedések sem vezetnének eredményre. A cégbíróság a céget abban az esetben is megszűntnek nyilvánítja, ha az állami adóhatóság 87. § szerinti értesítése alapján a cég az alkalmazott adójogi jogkövetkezmények ellenére sem tett eleget a beszámoló letétbe helyezési és közzétételi kötelezettségének. Ebben az esetben a cég megszűntnek nyilvánítására irányuló eljárást bírósági titkár, fogalmazó vagy bírósági ügyintéző is önállóan lefolytathatja, azonban olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
+(2) A cég megszűntnek nyilvánítására a cégbíróság által meghozott első eredménytelen intézkedést követően is sor kerülhet, ha a cégbíróság úgy ítéli meg, hogy a törvényes működés helyreállítására elrendelhető további intézkedések sem vezetnének eredményre. A cégbíróság a céget abban az esetben is megszűntnek nyilvánítja, ha az állami adóhatóság 87. § szerinti értesítése alapján a cég az alkalmazott adójogi jogkövetkezmények ellenére sem tett eleget a beszámoló letétbe helyezési és közzétételi kötelezettségének. Ebben az esetben a cég megszűntnek nyilvánítására irányuló eljárást fogalmazó vagy bírósági ügyintéző is önállóan lefolytathatja, azonban olyan végzést, amely ellen külön fellebbezésnek van helye, csak a cégbíró előzetes, írásos hozzájárulásával hozhat.
 
 (3) A cég bejegyzésére vonatkozó végzéssel kapcsolatos törvényességi felügyeleti eljárás nem vezethet a cég megszűntnek nyilvánításához, kivéve, ha a cég alapítása bűncselekménnyel vagy bűncselekmény elkövetése érdekében történt és ez a tény jogerős bírósági ítélet alapján megállapítható. A bíróság a jogerős ítéletét megküldi a cégbíróságnak, mely az ítélet kézbesítésétől számított hatvan napon belül a céget megszűntnek nyilvánítja, kivéve, ha megállapítható, hogy az alapítók már nem szerepelnek a cégjegyzékben és a cég működése törvényes.
 
@@ -1435,6 +1453,8 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (4) A cégbíróság határidő tűzésével felhívja a vezető tisztségviselőt, hogy gondoskodjon az iratok elhelyezéséről és az adózás rendjéről szóló törvény szerinti kötelezettségek teljesítéséről, és ezek megtörténtét a cégbíróságnál igazolja. Amennyiben a vezető tisztségviselő határidőben nem tett eleget ezen kötelezettségének, a cégbíróság erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot.
 
+(5) Az (1) bekezdés szerinti végzés meghozatalára fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
+
 118. § (1) Amennyiben a cégbíróság azt állapítja meg, hogy
 
 - a) a céggel szemben követelés bejelentésére nem került sor, valamint
@@ -1444,7 +1464,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (3) A cégbíróság más közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezet – különösen a járműnyilvántartást vezető szerv, a zálogjogi nyilvántartást vezető szerv – megkeresésével megvizsgálja, hogy cég jog jogosultjaként van-e bejegyezve, vagy a javára, illetve érdekében tény van-e feljegyezve. A cégbíróság megkeresi a cég számláit vezető pénzforgalmi szolgáltatókat a cég számlakövetelésével és egyéb pénzfizetés teljesítésére vonatkozó követelésével kapcsolatos adatszolgáltatás teljesítése érdekében.
 
-(4) A (2)–(3) bekezdésben meghatározott adatszolgáltatatást az érintett szervezetek soron kívül és ellenszolgáltatás nélkül kötelesek teljesíteni.
+(4) A (2)–(3) bekezdésben meghatározott adatszolgáltatatást az érintett szervezetek soron kívül és ellenszolgáltatás nélkül kötelesek teljesíteni. A (2) és (3) bekezdés szerinti lekérdezésre, megkeresésre fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
 (5) Amennyiben a (2)–(3) bekezdésben említett szervezetek értesítése vagy a 117. § szerint tett bejelentés alapján a cégbíróság megállapítja, hogy a cég vagyona előreláthatóan fedezi a várható felszámolási költségeket, vagy a cégnek valószínűsíthetően fedezetelvonó ügylet miatt nincs vagyona, a cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen felszámolási eljárás megindítását.
 

@@ -24,7 +24,15 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 10–15. §
 
-16. §
+16. § (1) Ha az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettség határideje eredménytelenül telt el, vagy a határidőben történő teljesítés elmaradásának reális veszélye fennáll, a Kormány a kötelezettséggel összefüggő beruházás megvalósításáról saját hatáskörben gondoskodhat. A Kormány a beruházás saját hatáskörben történő megvalósításáról egyedi határozatban dönt.
+
+(2) A Kormány határozatának bírósági felülvizsgálatát az érintett önkormányzat képviselő-testülete a Fővárosi Törvényszéknél kérheti. A perben felperesként az önkormányzat képviselő-testülete, alperesként a Kormány vesz részt. A Kormányt – ha a Kormány az (1) bekezdésben említett határozatában másként nem rendelkezik – a helyi önkormányzatokért felelős miniszter képviseli. A bíróság a határozat felülvizsgálata során a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit – a (3) bekezdésben írt eltérésekkel – alkalmazva, soron kívül jár el.
+
+(3) A keresetlevelet a Kormányt a (2) bekezdés alapján képviselő miniszternél a felülvizsgálni kért határozat közlésétől számított tizenöt napon belül kell benyújtani. Ha a perben a miniszter által vezetett minisztérium ügyintézője jár el képviselőként, képviseleti jogosultságát – külön meghatalmazás nélkül – munkáltatói igazolványával igazolja. A perben első fokon eljárt közigazgatási szervnek a minisztert kell tekinteni. A bíróság ítélete ellen felülvizsgálatnak és perújításnak helye nincs.
+
+(4) A helyi önkormányzat köteles a beruházás megvalósításához szükséges, tulajdonát érintő intézkedések tűrésére.
+
+(5) A Kormány által kijelölt miniszter jogosult bármely önkormányzati beruházás teljesítésének megvalósulását megismerni a tervezéstől a beruházás befejezéséig. A miniszter – a személyes adatok kivételével – adatot kérhet be, jogosult a beruházást megvalósító önkormányzat irataiba betekinteni, a beruházás teljes dokumentációját megismerni.
 
 ### A helyi közbiztonsággal kapcsolatos önkormányzati feladatok
 
@@ -450,7 +458,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 - a)
 - b) a helyi önkormányzat tulajdonába tartozó vagyonelemek nyilvántartásának szabályait;
 - c)
-- d)
+- d) a 16. §-ban meghatározott esetekben az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő beruházás megvalósítása érdekében szükséges intézkedéseket;
 - e) a helyi önkormányzatok törvényességi felügyeletének részletes szabályait.
 
 (2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
@@ -475,7 +483,7 @@ Az Országgyűlés elismeri és védi a helyi választópolgárok közösségén
 
 (4) A 27. § (2) bekezdés, a 28–40. §, a 64. §, a 69–70. §, a 72–78. §, a 143. § (4) bekezdés f) pontja, a 154. §, a 156. § (3) bekezdése, valamint a 158. § a 2014. évi általános önkormányzati választások napján lép hatályba.
 
-(5) A 16. § és a 143. § (1) bekezdés d) pontja 2012. augusztus 1-jén lép hatályba.
+(5) A 16. § és a 143. § (1) bekezdés d) pontja az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény hatálybalépésének napján lép hatályba.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

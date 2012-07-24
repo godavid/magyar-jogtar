@@ -885,6 +885,8 @@ esetében.
 
 (3) Illetékmentes az eseti gondnok és az ügygondnok részére a bíróság által készített jegyzőkönyv- vagy egyéb iratmásolat.
 
+(4) A bírósági közvetítés illetékmentes.
+
 57. § (1) Illetékmentes a polgári ügyekben:
 
 - a)
