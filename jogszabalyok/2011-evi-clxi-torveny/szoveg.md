@@ -558,7 +558,9 @@ indítványozza.
 (7) Az OBH elnöke a képzéssel kapcsolatos feladatkörében
 
 - a) dönt a központi oktatási feladatokról és felügyeli azok végrehajtását, továbbá meghatározza a regionális képzési feladatokat, és
-- b) meghatározza a bírák képzési rendszerének és a képzési kötelezettség teljesítésének szabályait.
+- b) meghatározza a bírák képzési rendszerének és a képzési kötelezettség teljesítésének szabályait,
+- c) a legfőbb ügyész előzetes véleményének kikérését követően kinevezi a Magyar Igazságügyi Akadémia vezetőjét,
+- d) a legfőbb ügyésszel együtt meghatározza a bírósági és ügyészségi fogalmazók egységes központi képzésének rendszerét.
 
 (8) Az OBH elnöke a tájékoztatással kapcsolatos feladatkörében
 
@@ -1358,6 +1360,22 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 (4) A bíróság elnöke az általa elrendelt intézkedésről az eljáró tanács elnökét és az intézkedéssel érintetteket tájékoztatja.
 
+### XIII/A. Fejezet — A MAGYAR IGAZSÁGÜGYI AKADÉMIA
+
+171/A. § (1) A Magyar Igazságügyi Akadémia ellátja a bírák, részben az ügyészek, valamint az igazságszolgáltatásban közreműködő más személyek képzését, és ellátja az egységes központi fogalmazóképzés feladatait.
+
+(2) A Magyar Igazságügyi Akadémia az OBH szervezetén belül működik.
+
+(3) A Magyar Igazságügyi Akadémia vezetője főosztályvezetői besorolásnak megfelelő javadalmazásra jogosult.
+
+171/B. § (1) Az OBH elnöke a legfőbb ügyész hozzájárulásával meghatározza a Magyar Igazságügyi Akadémia általános működési feltételeinek, szakmai és gazdasági működésének alapelveit.
+
+(2) Az OBH elnöke a legfőbb ügyésszel együtt elkészíti az egységes központi fogalmazóképzés tananyagát, oktatási tervét és oktatóinak névsorát.
+
+(3) Az OBH elnöke évente megállapodik a legfőbb ügyésszel a Magyar Igazságügyi Akadémia éves felhasználási tervéről, a közös képzésekről és a fenntartási költségek viseléséről.
+
+(4) Az OBH elnöke és a legfőbb ügyész külön megállapodást köthet az igazságügyért felelős miniszterrel a Magyar Igazságügyi Akadémia keretében megvalósuló igazságügyi és nemzetközi tárgyú képzésekről.
+
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 ### XIV. Fejezet — A TÖRVÉNY HATÁLYBALÉPÉSE VÉGREHAJTÁSA
@@ -1380,7 +1398,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 és a köztársasági elnök intézkedéseinek ellenjegyzésére vonatkozó rendelkezés
 
-175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, III. Fejezete, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X. és XI. Fejezete, továbbá 177–195. §-a, 197. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (7) bekezdése alapján sarkalatosnak minősül.
+175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, III. Fejezete, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 177–195. §-a, 197. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
 176. § A köztársasági elnöknek az e törvényben meghatározott tevékenysége során hozott döntéséhez és intézkedéséhez ellenjegyzés nem szükséges.
 
@@ -1422,9 +1440,9 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 (2) Az OIT Hivatalának általános jogutódja az OBH. Az OBH az OIT Hivatalának szervezeti keretein alakul meg.
 
-(3) A bírák és az igazságszolgáltatásban közreműködő más személyek képzését ellátó intézményt az igazságügyért felelős miniszter a Magyar Bíróképző Akadémia szervezeti keretein alapítja meg. Az intézmény működéséhez szükséges, e törvény hatálybalépésének napján a Magyar Bíróképző Akadémia feladatai ellátását szolgáló, e törvény hatálybalépésének napja szerinti állapotnak megfelelő ingó- és ingatlanvagyon tulajdon-, illetve vagyonkezelési jogának – és az ehhez kapcsolódó költségvetési előirányzatoknak – végleges átadásáról az OBH elnöke legkésőbb 2012. február 28. napjáig a Magyar Nemzeti Vagyonkezelő Zrt. bevonásával intézkedik.
+(3) A Magyar Bíróképző Akadémia elnevezése Magyar Igazságügyi Akadémiára változik.
 
-(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a bírák és az igazságszolgáltatásban közreműködő más személyek képzését ellátó intézmény szervezeti és működési szabályait rendeletben állapítsa meg.
+(4)
 
 189. § (1) A Legfelsőbb Bíróság bírái és igazságügyi alkalmazottai 2012. január 1-jétől a Kúria bírái és igazságügyi alkalmazottai. Magánjogi jogviszonyok esetében 2012. január 1-jétől a Legfelsőbb Bíróság helyébe a Kúria lép.
 

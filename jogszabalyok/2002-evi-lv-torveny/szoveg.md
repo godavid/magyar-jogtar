@@ -63,6 +63,8 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 - a) a közvetítői tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
 - b) a közvetítő névjegyzékbe vétele esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
 
+5/B. § Közvetítői tevékenységet a 4. §-ban felsorolt személyeken és szervezeteken kívül az e törvényben meghatározottak szerint bírósági titkár is elláthat (a továbbiakban: bírósági közvetítés).
+
 ### A névjegyzék
 
 6. § (1) A névjegyzék tartalmazza a természetes személy
@@ -372,7 +374,29 @@ a közvetítői eljárásban
 
 (2) A felek költségére – kérelmük alapján – a közvetítő az őrzési idő alatt az iratokról egyszerű másolatot adhat ki.
 
-### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+### IV. Fejezet — A BÍRÓSÁGI KÖZVETÍTÉS
+
+### A bírósági közvetítő
+
+38/A. § (1) Bírósági közvetítői tevékenységet az Országos Bírósági Hivatal (a továbbiakban: OBH) elnöke által – a közvetítői szakmai képzés elvégzésének igazolását követően – kijelölt bírósági titkár végezhet.
+
+(2) Az (1) bekezdés szerint kijelölt bírósági titkár a bírósági közvetítéssel kapcsolatos tevékenysége során a bírósági közvetítő megjelölést használja (a továbbiakban: bírósági közvetítő).
+
+### A bírósági közvetítésre vonatkozó különös rendelkezések
+
+38/B. § (1) A bírósági közvetítésre a bíróság illetékességi területe és a polgári perrendtartás szerinti illetékességi szabályok nem irányadóak.
+
+(2) A bírósági közvetítésre a 4–5/A. §, a 6–22. §, a 23. § (1), (2) és (3) bekezdés b) pontja, a 24. §, a 27. §, a 28. § (1) és (3) bekezdése és a 37. § nem alkalmazható.
+
+(3) A felek a bírósági közvetítés lefolytatása iránti közös kérelmüket a bírósági közvetítési feladatokat ellátó bíróságnál terjeszthetik elő.
+
+(4) A bíróság a bírósági közvetítőként eljáró bírósági titkár nevéről, az első tájékoztató megbeszélés időpontjáról és az eljárásban történő képviselet lehetőségéről 8 napon belül tájékoztatja a feleket.
+
+(5) Az összeférhetetlenségre vonatkozó szabályokat a bírák kizárására vonatkozó külön törvényben meghatározott szabályokkal együtt kell alkalmazni.
+
+(6) E törvény 38. §-a azzal az eltéréssel alkalmazandó, hogy a bírósági közvetítés során keletkezett iratokat a bíróság őrzi, és gondoskodik a másolatok kiadásáról.
+
+### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 ### Hatálybalépés és átmeneti rendelkezések
 
@@ -389,6 +413,9 @@ a közvetítői eljárásban
 - a) a közvetítői igazolvány kiadására vonatkozó szabályokat, valamint az igazolvány tartalmi elemeit és formai kellékeit,
 - b) a névjegyzék vezetésére, a névjegyzékbe történő felvételi kérelem benyújtására, a közvetítő adatváltozás bejelentési kötelezettségére és a névjegyzékben szereplő adatok kezelésére vonatkozó részletes szabályokat,
 - c) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe történő felvételi eljárás lefolytatásért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait,
-- d) a közvetítői szakmai képzésként és a továbbképzési kötelezettség teljesítéseként elfogadható képzéseket, a közvetítői szakmai képzés és a továbbképzési kötelezettség teljesítésének igazolásával kapcsolatos szabályokat, valamint a továbbképzési kötelezettség alóli mentesség eseteit és igazolásának szabályait.
+- d) a közvetítői szakmai képzésként és a továbbképzési kötelezettség teljesítéseként elfogadható képzéseket, a közvetítői szakmai képzés és a továbbképzési kötelezettség teljesítésének igazolásával kapcsolatos szabályokat, valamint a továbbképzési kötelezettség alóli mentesség eseteit és igazolásának szabályait,
+- e) a bírósági közvetítés ügyvitelének rendjét az OBH elnöke véleményének kikérésével.
 
-#### 41–44. §
+41. § Az OBH elnöke szabályzatban állapítja meg a bírósági közvetítéssel kapcsolatos részletszabályokat.
+
+#### 42–44. §

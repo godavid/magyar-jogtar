@@ -376,14 +376,14 @@ Másfajta gazdasági kamara nem hozható létre. A mezőgazdasági és erdőgazd
 
 ### Törvényességi felügyelet
 
-28. § (1) A gazdasági kamarák felett a törvényességi felügyeletet az ügyészség – az e törvényben foglalt kivételekkel – az ügyészségre irányadó külön jogszabályok rendelkezései szerint gyakorolja. A törvényességi felügyelet nem terjed ki az állandó választottbíróságra, továbbá az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+28. § (1) A gazdasági kamarák működése felett a törvényességi ellenőrzést az ügyészség – az e törvényben foglalt eltérésekkel – a rá irányadó külön jogszabályok rendelkezései szerint gyakorolja. A törvényességi ellenőrzés nem terjed ki az állandó választottbíróságra, továbbá az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
 
-(2) A törvényességi felügyeletet gyakorló ügyészség ellenőrzi, hogy a gazdasági kamara
+(2) A törvényességi ellenőrzést gyakorló ügyészség ellenőrzi, hogy a gazdasági kamara
 
 - a) alapszabálya és más önkormányzati szabályzatai, illetve azok módosításai megfelelnek-e a jogszabályoknak;
 - b) működése, határozatai nem sértik-e a jogszabályokat, az alapszabályt vagy az egyéb önkormányzati szabályzatokat.
 
-(3) Ha a gazdasági kamara működésének törvényessége másképpen nem biztosítható, az ügyészség törvényességi felügyeleti jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
+(3) Ha a gazdasági kamara működésének törvényessége másképpen nem biztosítható, az ügyészség törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
 
 - a) megsemmisíti a kamara törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el;
 - b) a működés törvényességének helyreállítása érdekében összehívja a kamara küldöttgyűlését;

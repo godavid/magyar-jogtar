@@ -122,6 +122,8 @@ szakaszból áll.
 
 (3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben meghatározottak szerint, kizárólag elektronikus úton történik.
 
+(3a) Az ingatlanügyi hatóság eljárásával kapcsolatban a (2) és (3) bekezdésben foglaltakat nem kell alkalmazni.
+
 (4) A bíróság a keresetlevelet legkésőbb annak beérkezését követő öt napon belül megvizsgálja, valamint ezen belül a jogszabálynak megfelelő keresetlevelet a közigazgatási szerv nyilatkozatával együtt megküldi a felperes jogi képviselője részére.
 
 (5) Ha a keresetlevél a határozat végrehajtásának felfüggesztésére irányuló kérelmet tartalmaz, a bíróság annak tárgyában az iratoknak a bírósághoz érkezését követő három munkanapon belül határoz, és határozatát haladéktalanul megküldi a feleknek.

@@ -42,6 +42,8 @@ is megfelelően érteni kell.
 
 (7) Az Országos Közigazgatási Vizsgabizottság Elnöksége megszűnik és az Országos Közigazgatási Vizsgabizottság Elnökségének tagjai (ideértve az elnököt is) a Közigazgatási Továbbképzési Kollégium tagjává válnak. Az Országos Közigazgatási Vizsgabizottság Elnökségének, illetve Elnökének jogszabályban előírt feladatait a Közigazgatási Továbbképzési Kollégium, illetve annak Elnöke látja el. E rendelkezést 2012. évben kell alkalmazni.
 
+(8) A 2012. július 1-jét megelőzően a Magyar Közigazgatási Ösztöndíj keretében létesített ösztöndíjas jogviszonyra a Kttv. 47. § (5) bekezdése nem alkalmazható az ösztöndíjas jogviszony fennállásáig.
+
 4. § (1) A kormányzati ügykezelő, valamint a közszolgálati ügykezelő illetménye a Kttv. 208. §, illetve 242. § alkalmazása során nem csökkenhet.
 
 (2) A kormányzati, illetve közszolgálati ügykezelő illetményét a Kttv. hatálybalépését követő 30 napon belül meg kell állapítani.
@@ -136,7 +138,7 @@ terjed ki.
 
 37. § (1) A helyi önkormányzattal közszolgálati jogviszonyban álló köztisztviselőnek a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, valamint egyéb törvények módosításáról szóló 2001. évi XXXVI. törvény 103. § (6) bekezdése alapján megállapított alapilletménye legfeljebb a Központi Statisztikai Hivatal által közzétett, megelőző évi átlagos fogyasztói árindex és a bruttó hazai össztermék együttes százalékos növekedésének felével emelhető mindaddig, amíg a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap a helyi önkormányzat képviselő-testülete által megállapított illetményalapot el nem éri.
 
-(2) Az országgyűlési képviselőcsoportnál foglalkoztatásban álló köztisztviselőre a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, valamint egyéb törvények módosításáról szóló 2001. évi XXXVI. törvényben megállapított illetménykeretet a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 2001. július 1-jén hatályos szabályai alapján számított illetmény figyelembevételével kell ettől az időponttól biztosítani.
+(2)
 
 38. § (1) Ha 2003. július 1-jén a helyi önkormányzat képviselő-testülete által megállapított illetményalap meghaladta a 33 000 Ft-ot, annak mértéke nem csökkenthető és mindaddig a helyi önkormányzat képviselő-testülete által megállapított illetményalapot kell alkalmazni, amíg a Kttv. 132. §-a szerinti illetményalap azt el nem éri.
 

@@ -12,6 +12,8 @@ a Polgári perrendtartásról szóló 1952. évi III. törvény módosításár�
 
 (3) Az e törvényben szabályozott közigazgatási nemperes eljárásokban felfüggesztésnek és szünetelésnek nincs helye.
 
+(4) Az e törvényben szabályozott közigazgatási nemperes eljárásokban a bírósági titkár elsőfokon, az érdemi határozatok meghozatalára is kiterjedően, önálló aláírási joggal eljárhat.
+
 ### Közigazgatási hatóság kötelezése eljáráslefolytatására
 
 2. § (1) A közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott esetben, ha a közigazgatási hatóság az eljárási kötelezettségének nem tesz eleget, a törvényszék kérelemre – az iratoknak a bírósághoz való érkezését követő harminc napon belül – nemperes eljárásban végzéssel kötelezi a közigazgatási hatóságot az eljárás lefolytatására.

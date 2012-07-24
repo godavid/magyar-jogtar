@@ -107,17 +107,11 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 - a) minősített elektronikus aláírással és minősített időbélyegzővel kell ellátni.
 - b)
 
-(2) Elektronikus úton beadványt – a (4) bekezdésben foglalt eltéréssel – úgy lehet benyújtani, hogy a beadvány adatait annak benyújtója
-
-- a) a MOKK rendszerébe beviszi és minősített elektronikus aláírással, valamint minősített időbélyegzővel látja el vagy
-- b) az (1) bekezdés b) pontja szerinti esetben legalább közepes vagy magas biztonsági szinten történő azonosítás mellett az ügyfélkapuján belépve a MOKK rendszerébe beviszi.
+(2) Elektronikus úton beadványt úgy lehet benyújtani, hogy a beadvány adatait annak benyújtója a MOKK rendszerébe beviszi és minősített elektronikus aláírással, valamint minősített időbélyegzővel látja el.
 
 (3) A jogi képviselővel rendelkező fél és a vállalkozás és egyéb jogi személy beadványát kizárólag elektronikus úton terjesztheti elő, kivéve, ha a 10. § (3) bekezdése alapján beadványához papír alapú mellékletet csatol.
 
-(4) Az (1) bekezdés a) pontja szerint, vagy az (1) bekezdés b) pontja szerinti esetben az ügyfélkapun magas biztonsági szinten történő azonosítás mellett belépve kell benyújtani
-
-- a) a jogi képviselő által képviselt félnek és a jogi személynek a beadványát,
-- b) a fizetési meghagyásos eljárás irataiba való betekintés iránti kérelmet, ha az egynél több ügy irataiba történő betekintésre irányul.
+(4)
 
 (5) Azt, hogy a beadvány elektronikus benyújtására szolgáló, e §-ban meghatározott módokat és technikai eszközöket jogszerűen alkalmazzák, vélelmezni kell.
 
@@ -324,7 +318,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) Az ellentmondás előterjesztésével egyidejűleg a kötelezett köteles a végrehajtás során felmerült, a jogosult által előlegezett költségeket a végrehajtónál megfizetni. Ha ezt a kötelezett az ügyben eljáró közjegyzőnél okirattal nem igazolja, a közjegyző az ellentmondást érdemi vizsgálat nélkül elutasítja, ellenkező esetben a végrehajtási eljárást felfüggeszti. A végrehajtás során az ellentmondás előterjesztéséig felmerült költségeket a kötelezett viseli, kivéve, ha a kézbesítési vélelmet megdönti.
 
-33. § Ha a jogerős fizetési meghagyást tartalmazó iratot a Vht. 31/D. §-a alapján végrehajtói kézbesítés útján kézbesítették, a 32. § bekezdés szabályait azzal az eltéréssel kell alkalmazni, hogy az ellentmondás előterjesztésre nyitva álló határidőt attól az időponttól kell számítani, amikor a jogerős fizetési meghagyást tartalmazó irat végrehajtói kézbesítése a külön jogszabály szerint eredményesen megtörtént.
+33. § Ha a jogerős fizetési meghagyást tartalmazó iratot a Vht. 31/D. §-a alapján végrehajtói kézbesítés útján kézbesítették, a 32. § (1) bekezdés szabályait azzal az eltéréssel kell alkalmazni, hogy az ellentmondás előterjesztésre nyitva álló határidőt attól az időponttól kell számítani, amikor a jogerős fizetési meghagyást tartalmazó irat végrehajtói kézbesítése a külön jogszabály szerint eredményesen megtörtént.
 
 ### Megszüntetés
 
@@ -508,7 +502,7 @@ kell megfizetni.
 
 (2) A végrehajtás elrendelésére a fizetési meghagyást kibocsátó közjegyző jogosult; a végrehajtás elrendelése iránti ügyek elosztására a 9. § (3) bekezdésében foglalt rendelkezést alkalmazni kell. Ha a fizetési meghagyást kibocsátó közjegyző valamely okból – ide nem értve a kizárás esetét – nem tud eljárni, az eljáró közjegyzőt a MOKK elnöke (elnökhelyettese) jelöli ki.
 
-(3) A 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) bekezdését, a 24. § (1) bekezdés j) és k) pontját, valamint a 26. § (1) és (2) bekezdését a végrehajtás elrendelése iránti eljárásban is alkalmazni kell.
+(3) A 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) bekezdését, a 24. § (1) bekezdés k) pontját, valamint a 26. § (1) és (2) bekezdését a végrehajtás elrendelése iránti eljárásban is megfelelően alkalmazni kell.
 
 (4) A végrehajtás elrendelésére a fizetési meghagyásos eljárásnak a MOKK rendszerében rögzített adatai alapján kizárólag végrehajtási lappal, illetve biztosítási intézkedést elrendelő végzéssel (a továbbiakban együtt: végrehajtási lap) kerül sor.
 
@@ -528,13 +522,15 @@ kell megfizetni.
 
 55. § (1) A végrehajtási kérelem előterjesztéséért a MOKK részére – a MOKK rendszere üzemeltetési költségeinek, valamint a közjegyzők munkadíjának és költségeinek fedezése érdekében – díjat kell fizetni, melynek mértéke a díjalap 1%-a, de legalább 5000 forint, legfeljebb 150 000 forint (a továbbiakban: végrehajtási díj). Ha a végrehajtást kérő ugyanazon fizetési meghagyás alapján, ugyanannak a követelésnek a végrehajtását több, egyetemlegesen kötelezett adóssal szemben egyidejűleg kéri, csak az egyik adóssal szemben előterjesztett végrehajtási kérelemre kell megfizetni a végrehajtási díjat, a további adóssal szemben előterjesztett végrehajtható okirat kiállítási kérelemre 5000 Ft díjat kell adósonként megfizetni; az így megfizetett összes díjat az adósokon egyenlő arányban kell behajtani. A díjat a végrehajtást kérő előlegezi és a végrehajtás elrendelése esetén az adós, minden más esetben a végrehajtást kérő viseli. A végrehajtási díjat végrehajtási költségként kell behajtani.
 
-(2) A biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért a MOKK részére – a MOKK rendszere üzemeltetési költségeinek, valamint a közjegyzők munkadíjának és költségeinek fedezése érdekében – díjat kell fizetni, melynek mértéke a díjalap 1%-a, de legalább 5000 forint, legfeljebb 30 000 forint. A díjat az intézkedést kérő előlegezi és – ha a Vht. 201. és 201/A. § eltérően nem rendelkezik – az adós viseli. A díjat végrehajtási költségként kell behajtani.
+(2) A biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért a MOKK részére – a MOKK rendszere üzemeltetési költségeinek, valamint a közjegyzők munkadíjának és költségeinek fedezése érdekében – díjat kell fizetni, melynek mértéke a díjalap 1%-a, de legalább 5000 forint, legfeljebb 30 000 forint. A díjat a biztosítási intézkedést kérő előlegezi és a biztosítási intézkedés elrendelése esetén – ha a Vht. 201. és 201/A. § eltérően nem rendelkezik – az adós, minden más esetben a végrehajtást kérő viseli. A díjat végrehajtási költségként kell behajtani.
 
-(3) A végrehajtás, valamint a biztosítási intézkedés elrendeléséért további díj és illeték – ide nem értve a jogorvoslati eljárás illetékét – nem számítható fel.
+(3) A végrehajtás, valamint a biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért további díj és illeték – ide nem értve a jogorvoslati eljárás illetékét – nem számítható fel.
 
-(4) A végrehajtási díj és a biztosítási intézkedés elrendeléséért fizetett díj kétharmadát a MOKK a végrehajtást elrendelő közjegyzők között az elvégzett munka arányában az igazságügyért felelős miniszter rendeletében meghatározottak szerint munkadíj és költségtérítés címén felosztja. A fennmaradó összeg felét a MOKK a működésére fordítja, a fennmaradó összeg másik fele a Magyar Bírósági Végrehajtói Kamarát illeti, mely azt a működésére fordítja.
+(4) A végrehajtási díj és a biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért fizetett díj kétharmadát a MOKK a végrehajtást elrendelő közjegyzők között az elvégzett munka arányában az igazságügyért felelős miniszter rendeletében meghatározottak szerint munkadíj és költségtérítés címén felosztja. A fennmaradó összeg felét a MOKK a működésére fordítja, a fennmaradó összeg másik fele a Magyar Bírósági Végrehajtói Kamarát illeti, mely azt a működésére fordítja.
 
-(5) A végrehajtási díjra és a biztosítási intézkedés elrendeléséért fizetendő díjra, illetve a végrehajtás elrendelésére irányuló eljárásra a 44. § (1) bekezdése, a 46–48. §, a 49. § (1) és (2) bekezdése és az 50. § rendelkezéseit megfelelően alkalmazni kell. Ha a végrehajtást kérő a végrehajtási kérelmét a végrehajtás (biztosítási intézkedés) elrendelése vagy az ügy áttétele tárgyában hozott határozat meghozatala előtt visszavonja, a végrehajtási díj és a biztosítási intézkedés elrendelése iránti díj az (1), illetve a (2) bekezdésben meghatározott összeg 10%-a, de legalább 5000 forint, vagy 50%-a, de legalább 5000 Ft, ha a kérelem visszavonására a hiánypótlás vagy a jogutódlás tárgyában hozott határozat, illetve a hiányoknak a közjegyző által a Vht. 12. § (2) bekezdése szerinti pótlása után kerül sor.
+(5) A végrehajtási díjra és a biztosítási intézkedés elrendelése iránti kérelem előterjesztéséért fizetendő díjra, illetve a végrehajtás elrendelésére irányuló eljárásra a 44. § (1) bekezdése, a 46–48. §, a 49. § (1) és (2) bekezdése és az 50. § rendelkezéseit megfelelően alkalmazni kell. Ha a végrehajtást kérő a végrehajtási kérelmét a végrehajtás (biztosítási intézkedés) elrendelése vagy az ügy áttétele tárgyában hozott határozat meghozatala előtt visszavonja, a végrehajtási díj és a biztosítási intézkedés elrendelése iránti díj az (1), illetve a (2) bekezdésben meghatározott összeg 10%-a, de legalább 5000 forint, vagy 50%-a, de legalább 5000 Ft, ha a kérelem visszavonására a hiánypótlás vagy a jogutódlás tárgyában hozott határozat, illetve a hiányoknak a közjegyző által a Vht. 12. § (2) bekezdése szerinti pótlása után kerül sor. A közjegyző határozata ellen előterjesztett fellebbezésre a 43. § (5) és (6) bekezdését alkalmazni kell.
+
+(6) A Vht. 34. § (5) bekezdésének alkalmazása során illeték alatt a költségfeljegyzési jog folytán meg nem fizetett díjakat is érteni kell.
 
 ### A MOKK rendszere
 
@@ -567,7 +563,7 @@ kell megfizetni.
 
 (2) A MOKK rendszerének működésében keletkezett üzemzavarról és annak megszűnéséről a MOKK rendszere a közjegyzőket elektronikus levélben, az üzemzavar idején szolgáltatást igénybe venni kívánó feleket pedig a szolgáltatás igénybevételének megkísérlésekor elektronikus üzenetben értesíti.
 
-(3) A törvény által meghatározott határidőbe nem számít bele az a nap, amely során legalább négy órán át fennálló, a MOKK rendszerében felmerült üzemzavar akadályozta a MOKK rendszerének működését.
+(3) A törvény, illetve a közjegyző által meghatározott határidőbe nem számít bele az a nap, amely során legalább négy órán át fennálló, a MOKK rendszerében felmerült üzemzavar akadályozta a MOKK rendszerének működését.
 
 (4) E törvény alkalmazása során üzemzavarnak kell tekinteni a MOKK rendszerénél végzett olyan karbantartásokat, tervezett leállításokat is, melyek a MOKK rendszere szolgáltatásainak igénybevételét korlátozzák vagy megakadályozzák.
 
@@ -626,7 +622,7 @@ rendeletben állapítsa meg.
 
 (4) A 37. § (3) bekezdés b) pontja, valamint a Pp. e törvény 62. § (3) bekezdésével megállapított 315. § (3) bekezdés b) pontja, 318. § (1) bekezdésének b) pontja és 319. § (2) bekezdése 2011. január 1-jén lép hatályba.
 
-(5) A 64. § (4) bekezdése és a 71. § (1) és (3) bekezdése 2011. július 1-jén lép hatályba. A 16. § (5) bekezdése és a 71. § (2) bekezdése 2013. január 1-jén lép hatályba, a 65. § (5) bekezdése nem lép hatályba.
+(5) A 64. § (4) bekezdése és a 71. § (1) és (3) bekezdése 2011. július 1-jén lép hatályba. A 16. § (5) bekezdése 2012. október 1-jén és a 71. § (2) bekezdése 2013. január 1-jén lép hatályba, a 65. § (5) bekezdése nem lép hatályba.
 
 (6) E törvény rendelkezéseit – a 64. §-ban foglalt rendelkezések kivételével – a hatálybalépésük után indult eljárásokban kell alkalmazni. E törvény fizetési meghagyás végrehajtásának elrendelésére vonatkozó rendelkezéseit a 2010. május 31-ét követően indult fizetési meghagyásos eljárásokban (európai fizetési meghagyásos eljárásokban) kell alkalmazni.
 

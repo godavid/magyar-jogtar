@@ -107,6 +107,22 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 
 (5) 2013. január 1-jétől a bíróság és a fél egymással a kapcsolatot a Pp.-ben meghatározottak szerint, elektronikus úton tartja. Természetes személyek esetén a beadványokat és más hivatalos iratokat papír alapon is be lehet nyújtani, illetve kézbesíteni.
 
+(6) Az e törvényben szabályozott nemperes eljárásokban – a (7) bekezdésben foglalt kivétellel – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
+
+(7) Bíró hozza meg a következő határozatokat és jár el a következő eljárási cselekményeknél:
+
+- a) a csődeljárásban a csődeljárás elrendeléséről és megszüntetéséről szóló határozat, a vagyonfelügyelő felmentése tárgyában hozott határozat, az egyezség elbírálása tárgyában, illetve a csődeljárás befejezetté nyilvánítása tárgyában hozott határozat, valamint a felek által előterjesztett kifogás tárgyában hozott érdemi határozat;
+- b) a felszámolási eljárásban a felszámolást elrendelő határozat, kivéve, ha az eljárás a cégbíróság értesítése alapján indult;
+- c) a felszámolási eljárásban az ideiglenes vagyonfelügyelő kirendelése tárgyában hozott határozat, valamint a felszámoló felmentése tárgyában hozott határozat;
+- d) felszámolási eljárásban az egyezségi tárgyalás megtartása és az egyezség elbírálása tárgyában hozott határozat;
+- e) a felszámolási eljárás 27. § (6) bekezdés és 45/A. § szerinti megszüntetése tárgyában hozott határozat;
+- f) felszámolási eljárásban a vitatott hitelezői igény és a felszámoló jogszabálysértő intézkedése vagy mulasztása miatt benyújtott kifogás elbírálása tárgyában hozott érdemi határozat;
+- g) felszámolási eljárásban a közbenső mérleg jóváhagyása vagy elutasítása tárgyában hozott érdemi határozat;
+- h) a felszámolási zárómérleggel és a vagyonfelosztási javaslattal szemben előterjesztett kifogás tárgyában megtartott tárgyalás és a kifogás tárgyában hozott határozat;
+- i) a felszámolási eljárás befejezéséről szóló végzés, kivéve, ha a befejezésre egyszerűsített módon kerül sor olyan felszámolási ügyben, ahol a felszámolási eljárást kényszer-végelszámolás előzte meg;
+- j) a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek ellen indult csődeljárásban és indított felszámolási eljárásban az a)–i) pontban foglaltakon kívül is minden olyan határozat, amely ellen külön fellebbezésnek van helye;
+- k) csődeljárásban és felszámolási eljárásban a bírságot kiszabó határozatok.
+
 6/A. § (1) Ha büntetőügyben a jogi személlyel szemben intézkedés alkalmazásának lehet helye, és erről a büntetőügyben eljáró bíróság vagy ügyész a bíróságot [6. §] értesítette vagy arról a bíróságnak hivatalos tudomása van, a felszámolás elrendelhető. Ebben az esetben – azt követően, hogy az adós gazdálkodó szervezet vezetője a 31. § szerinti kötelezettségeit teljesítette, és a hitelezői követeléseket bejelentették, továbbá akkor, ha az adós gazdálkodó szervezet vezetője a 31. § szerinti kötelezettségeit felhívás, illetve a 33. § szerinti jogkövetkezmények ellenére nem teljesítette – a felszámolási eljárást fel kell függeszteni.
 
 (2) A felfüggesztés a büntetőügyben eljáró bíróság határozatának jogerőre emelkedéséig, illetve a büntetőeljárás során alkalmazott intézkedés végrehajtásának befejezéséig tart. A felfüggesztés nem érinti a felszámoló kötelezettségeit és a 38. § (1)–(2) bekezdésben, valamint a 40. §-ban foglaltaknak az alkalmazását. A felfüggesztés időtartama alatt a kirendelt felszámoló jogait és kötelezettségeit az e §-ban meghatározott keretek között gyakorolhatja. A felfüggesztés időtartama alatt is elbírálhatja a bíróság a felszámoló jogszabálysértő intézkedései vagy mulasztásai ellen benyújtott kifogásokat.

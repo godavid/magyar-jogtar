@@ -611,7 +611,7 @@ szabályozó jogszabályok rendelkezéseit kell alkalmazni azzal, hogy a saját 
 - d) mekkora hányadát osztja szét a tagok között a részjegyeik arányában;
 - e) mekkora hányadát fordítja egyéb célra.
 
-(3) A szociális szövetkezet közgyűlése – a (2) bekezdésben foglaltaktól eltérően – a szociális szövetkezet nyilvántartásba vételét követő két üzleti évben nem dönthet az adózás utáni eredménynek a tagok részére történő bármilyen jogcímen történő kifizetéséről. A közhasznú szervezeti jogállással rendelkező szociális szövetkezet az adózás utáni eredményét – a (2) bekezdésben foglaltaktól eltérően – közhasznú céljának megvalósítására fordítja.
+(3) A közhasznú szervezeti jogállással rendelkező szociális szövetkezet az adózás utáni eredményét – a (2) bekezdésben foglaltaktól eltérően – közhasznú céljának megvalósítására fordítja.
 
 ### A befektető tag
 

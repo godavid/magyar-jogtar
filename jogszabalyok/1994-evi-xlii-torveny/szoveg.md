@@ -10,7 +10,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 1. § (1) A Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: Eximbank) szakosított hitelintézet, a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság (a továbbiakban: Mehib Rt.) biztosító részvénytársaság.
 
-(2) Az Eximbankban és a Mehib Rt.-ben az állam tulajdonában álló társasági részesedések feletti tulajdonosi (részvényesi) jogok gyakorlására a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszter jogosult.
+(2) Az Eximbankban és a Mehib Rt.-ben az állam tulajdonában álló társasági részesedések feletti tulajdonosi (részvényesi) jogok gyakorlására a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszter (a továbbiakban: miniszter) jogosult.
 
 (3) Az Eximbankra és az általa végzett tevékenységre a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényt és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényt (a továbbiakban: Bszt.) az e törvényben foglalt eltérésekkel kell alkalmazni. A Mehib Rt. által végzett piacképes kockázatú biztosítási tevékenységére a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvényt (a továbbiakban: Bit.) az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -129,9 +129,9 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 ### Igazgatóság
 
-14. § (1) Az Eximbank-nál és a Mehib Rt.-nél igazgatóság választására nem kerül sor és az igazgatóság Gt.-ben meghatározott jogait egy vezető tisztségviselő (vezérigazgató) gyakorolja (Gt. 247. §).
+14. § (1) Az Eximbank és a Mehib Rt. ügyvezető szerve az igazgatóság, amely az igazgatóság elnökéből és további igazgatósági tagokból áll.
 
-(2)
+(2) Az Eximbank igazgatósági tagja egyidejűleg a Mehib Rt. igazgatósági tagjává, a Mehib Rt. igazgatósági tagja egyidejűleg az Eximbank igazgatósági tagjává jelölhető.
 
 ### Felügyelő bizottság
 
@@ -139,13 +139,15 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 ### Vezérigazgató és az igazgatóság elnöke
 
-16. § Az Eximbank és a Mehib Rt. munkaszervezetének élén a vezérigazgató áll (Gt. 247. §). A vezérigazgató felett a munkáltatói jogokat a közgyűlés gyakorolja.
+16. § (1) Az Eximbank és a Mehib Rt. munkaszervezeteinek élén vezérigazgató áll, akinek feladatait és hatáskörét az igazgatóság határozza meg.
+
+(2) A vezérigazgató felett a munkáltatói jogokat a miniszter gyakorolja.
 
 ### Kinevezés, megválaszthatóság
 
-17. § (1)
+17. § (1) Az Eximbank és a Mehib Rt. igazgatóságának elnökét, tagjait és a vezérigazgatót a miniszter nevezi ki és menti fel.
 
-(2) A felügyelő bizottság tagjai és a vezérigazgató pártban tisztséget nem viselhetnek, párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathatnak.
+(2) Az igazgatóság és a felügyelőbizottság tagjai, valamint a vezérigazgató pártban tisztséget nem viselhetnek, párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathatnak.
 
 18. §
 
@@ -190,7 +192,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (3) A Bit. 157. §-ának (1) bekezdésében meghatározott szervek mellett a (2) bekezdés szerinti kormányrendeletben előírt feltételekkel végzett biztosítási tevékenységgel kapcsolatban nem áll fenn a biztosítási titoktartási kötelezettség az államháztartásért felelős miniszter által vezetett minisztériummal szemben.
 
-(4) A Mehib Rt. hitelt csak biztosítási tevékenységéhez kapcsolódóan és a közgyűlés előzetes hozzájárulásával vehet fel.
+(4) A Mehib Rt. hitelt csak biztosítási tevékenységéhez kapcsolódóan és a miniszter előzetes hozzájárulásával vehet fel.
 
 (5)
 
@@ -215,6 +217,10 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 (5) Az államháztartásért felelős miniszter felhatalmazást kap arra, hogy rendeletben meghatározza az Eximbank és a Mehib Rt. központi költségvetéssel történő elszámolásának részletes szabályait, valamint a 8/A. § (2) bekezdésében említett jutalék mértékét.
 
 26/A. § A Magyar Export-Import Bank Részvénytársaság a szavatoló tőke kiszámítása során az e törvény – 2009. december 31-én hatályos – 20. § (1) bekezdése szerinti, 2009. december 31-én fennálló hitelt és kötvényt azok lejáratáig járulékos tőkeelemként veheti figyelembe.
+
+26/B. § (1) Az állami vagyonnal összefüggő egyes rendelkezésekről szóló 2012. évi CXIV. törvény (a továbbiakban: Mód.tv.) hatálybalépését követő 30 napon belül a miniszter az e törvény a Mód.tv.-vel megállapított rendelkezéseinek megfelelően módosítja az Eximbank és a Mehib Rt. alapító okiratát.
+
+(2) A Mód.tv.-vel megállapított 14. § szerinti igazgatóságot első alkalommal a Mód.tv. hatálybalépését követő 30 napon belül kell a Mód.tv-vel megállapított 17. § szerint megválasztani, kinevezni.
 
 27. § (1) E törvény a kihirdetését követő harmincadik napon lép hatályba.
 

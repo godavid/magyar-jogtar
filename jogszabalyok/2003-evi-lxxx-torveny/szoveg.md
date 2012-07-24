@@ -436,6 +436,10 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 58. § A jogi segítségnyújtó szolgálat a támogatás jogerős megvonásáról értesíti a bíróságot és a pártfogó ügyvédet.
 
+58/A. § (1) Ha a rendkívüli jogorvoslat eredményeként a Kúria a jogerős határozatot a költségek viselésére is kihatóan megváltoztatja, vagy a jogerős határozat hatályon kívül helyezését követően hozott új jogerős határozatban a bíróság a költség viseléséről a hatályon kívül helyezett határozatban foglaltaktól eltérően rendelkezik, a jogi segítségnyújtó szolgálat a korábban hozott jogerős díjmegállapító határozatát módosítja, a visszatérítésre kötelező határozatát visszavonja és új visszatérítésre kötelező határozatot hoz.
+
+(2) Az (1) bekezdésben foglaltak szerint jár el a jogi segítségnyújtó szolgálat akkor is, ha az eljáró bíróság a jogerős határozatot a költségek viselésére is kihatóan kijavítja vagy kiegészíti.
+
 ### A támogatás nyilvántartása
 
 59. § A támogatás nyilvántartása a következő adatokat is tartalmazza:
@@ -663,6 +667,8 @@ tart.
 (2) A 3. § (1) bekezdésének g) pontja szerinti támogatás csak azon bűncselekmények esetén biztosítható, amelyeket e törvény hatálybalépését követően követtek el.
 
 (3) E törvénynek a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 122. § (1) bekezdésével megállapított 38/A. §-át a hatálybalépését megelőzően jogerősen megállapított, de még meg nem fizetett tartozásokra is alkalmazni kell.
+
+(4) E törvénynek az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény 40. §-ával megállapított 58/A. §-át az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény hatályba lépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### Felhatalmazás
 
