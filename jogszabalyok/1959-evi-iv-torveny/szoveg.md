@@ -729,7 +729,7 @@ Ptk.74/E. § (1) A bíróság az alapítványt – törvényben meghatározott e
 
 (7) Az alapítvány nyilvántartására, felügyeletére, törvényességi ellenőrzésére, továbbá csőd-, végelszámolási és felszámolási eljárására, megszüntetésére az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény rendelkezéseit kell alkalmazni az alapítványokra vonatkozó, ott meghatározott eltérésekkel.
 
-Ptk.74/F. § (1) Az alapítvány működése felett az ügyészség a reá irányadó szabályok szerint törvényességi felügyeletet gyakorol.
+Ptk.74/F. § (1) Az alapítvány működése felett az ügyészség a reá irányadó szabályok szerint törvényességi ellenőrzést gyakorol.
 
 (2) Ha az alapítvány működésének törvényessége másképp nem biztosítható, az ügyész a bírósághoz fordulhat. A bíróság határidő kitűzésével kötelezi az alapítvány kezelőjét, hogy az alapítvány jogszabálynak megfelelő működését állítsa helyre. A határidő eredménytelen eltelte után a bíróság az alapítványt megszünteti.
 
