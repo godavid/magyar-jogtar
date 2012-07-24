@@ -1500,7 +1500,7 @@ jogosult.
 - a) a főosztályvezetők és a főosztályvezető-helyettesek esetén a törvényszék elnökére, illetve elnökhelyettesére,
 - b) az osztályvezetők esetén a nagyobb járásbíróság elnökére irányadó összeggel azonos.
 
-(4) Az OBH-ba beosztott bíró a (2) bekezdés szerint járó beosztási pótlékon felül a bírói illetményalap összegének 10 százalékára is jogosult.
+(4) Az OBH-ba beosztott bíró a (2) bekezdés szerint járó beosztási pótlékon felül a bírói illetményalap összegének 30 százalékára jogosult, a minisztériumba és a Kúriára beosztott bíró a (2) bekezdés szerint járó beosztási pótlékon felül a bírói illetményalap összegének 10 százalékára jogosult.
 
 (5) A bíró soron kívüli előresorolására és részére magasabb bírói cím adományozására – a minisztériumba beosztott bíró esetén az igazságügyért felelős miniszternek, az OBH-ba beosztott bíró esetén az OBH elnökének, valamint a Kúriára beosztott bíró esetén a Kúria elnökének javaslatára – az OBT jogosult.
 

@@ -317,7 +317,7 @@ Az erős, de az indokoltnál nem nagyobb, a változásokhoz gyorsan és rugalmas
 
 (6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
 
-(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatot tesz a Kormánytisztviselői Döntőbizottság elnökének és helyettesének, valamint tagjainak kinevezésére.
+(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait.
 
 (8) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter dönt az 55. §-ban meghatározott kormányzati kirendelés elrendeléséről.
 
@@ -2365,7 +2365,7 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
 - f) munkaügyi per kapcsán az eljáró bíróság,
 - g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
-- h) az ügyészi törvényességi feladatkörében eljárva az ügyész,
+- h) törvényességi ellenőrzési feladatkörében eljárva az ügyész,
 - i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 - j) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, e törvény 2. mellékletének I/A., I/B., II., IV., V., VII., VIII. és X. pontokban foglalt adatkörökből a kormánytisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából,
 - k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és a fővárosi, megyei kormányhivatal kormánytisztviselője feladatkörében,
@@ -2525,7 +2525,7 @@ terjed ki.
 
 (13) A Kormánytisztviselői Döntőbizottság eljárása illeték- és költségmentes.
 
-191. § (1) A Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait (közszolgálati biztosok) a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára a miniszterelnök nevezi ki határozatlan időre.
+191. § (1) A Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait (közszolgálati biztosok) a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki határozatlan időre.
 
 (2) A Kormánytisztviselői Döntőbizottság tagja az lehet, aki
 

@@ -202,7 +202,7 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a törvénysz�
   - ee) a gazdasági társaságban történő befolyásszerzéssel kapcsolatos perek, továbbá
   - ef) a társaság tartozásaiért korlátozott felelősséggel tartozó tag (részvényes) felelősségének korlátlanná minősítése iránti perek;
 - f) a törvényszék által nyilvántartásba vett, cégnek nem minősülő szervezetekkel kapcsolatos perek közül:
-  - fa) az ilyen szervezetek ellen a törvényességi felügyeletet gyakorló szerv által indított perek,
+  - fa) az ilyen szervezetek ellen a törvényességi felügyeletet, törvényességi ellenőrzést gyakorló szerv által indított perek,
   - fb) az ilyen szervezetek és tagjaik (volt tagjaik) közötti, illetve a tagok (volt tagok) egymás közti a tagsági jogviszonyon alapuló perek;
 - g) a személyhez fűződő jogok megsértése miatt keletkezett polgári jogi igények érvényesítése iránt indított perek, ideértve az e jogok megsértése miatt indított kártérítési pereket is, ha az előbbiekkel együtt vagy azok folyamán indítják meg;
 - h) az értékpapírból származó jogviszonnyal kapcsolatos perek;
@@ -361,6 +361,8 @@ illetékességét.
 46. § (1) Ha az illetékes bíróság nem állapítható meg, a fél a kijelölés iránti kérelmet bármelyik bíróságnál előterjesztheti; egyébként a kijelölés iránt a perben eljárt bíróság hivatalból köteles előterjesztést tenni.
 
 (2) A kijelölés tárgyában a bíróság a felek meghallgatása nélkül is határozhat.
+
+(3) A hatásköri vagy illetékességi összeütközést megállapító és kijelölést kezdeményező határozattal szemben fellebbezésnek nincs helye.
 
 47. § (1) Az Országos Bírósági Hivatal elnöke az illetékes bíróság helyett más, azonos hatáskörű bíróságot jelöl ki az ügy vagy a bíróságra adott időszakban érkezett ügyek meghatározott csoportjának elbírálására, ha a bíróság rendkívüli munkaterhe miatt az ügyek ésszerű időn belül való elbírálása más módon nem biztosítható, és a kijelölés nem jár a kijelölt bíróság aránytalan megterhelésével.
 
@@ -875,7 +877,16 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (3) Ha a hirdetményi kézbesítést követő eljárást – habár csak hallgatólagosan is – az ellenfél (aki részére az iratot hirdetmény útján kézbesítették) jóváhagyja, az eljárás nem válik érvénytelenné, a pénzbírságot azonban – a 100/A. § esetét ide nem értve – ilyen esetben is ki kell szabni, s a felet kötelezni kell a felmerült költségtöbblet megfizetésére.
 
-102. § (1) A hirdetmény útján kézbesítendő iratot tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára, továbbá közzé kell tenni a bíróság honlapján és az erre a célra fenntartott központi honlapon.
+102. § (1) A hirdetményt tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára, továbbá közzé kell tenni a bíróságok központi internetes honlapján.
+
+(1a) A hirdetmény tartalmazza
+
+- a) a kifüggesztés, a bíróságok központi internetes honlapján történő közzététel esetén pedig a közzététel napját,
+- b) az eljáró bíróság megnevezését,
+- c) a bírósági ügyszámot,
+- d) a címzett nevét és utolsó belföldi lakóhelyét (székhelyét), ennek hiányában tartózkodási helyét,
+- e) azt az okot, amelynek következtében a hirdetményi kézbesítés szükségessé vált és
+- f) a figyelemfelhívást az (5) bekezdés szerinti jogkövetkezményre és arra, hogy a címzett a kézbesítendő iratot a bíróság kezelőirodáján átveheti.
 
 (2) Ha a fél olyan államban lakik, amely a kézbesítéshez jogsegélyt nem nyújt, de amellyel a postai forgalom fennáll, a hirdetményt – lehetőleg ajánlott levélként – a fél ottani címére is meg kell küldeni. Ha a hirdetményi kézbesítésre a 100/A. § (4) bekezdése alapján kerül sor, és a fél olyan államban lakik, amellyel a postai forgalom fennáll, a hirdetményt ajánlott levélként a fél ottani címére is meg kell küldeni.
 
@@ -883,7 +894,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (4) A hirdetményi kézbesítéssel felmerülő költséget az köteles előlegezni, aki a hirdetményi kézbesítést kérte.
 
-(5) Hirdetményi kézbesítés esetében az iratot – amennyiben a bíróság másként nem rendelkezik – a bíróság hirdetőtábláján való kifüggesztéstől számított tizenötödik napon kell kézbesítettnek tekinteni.
+(5) Hirdetményi kézbesítés esetén az iratot – ha a bíróság másként nem rendelkezik – a hirdetménynek a bíróság hirdetőtábláján való kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
 (6) A hirdetményi kézbesítésről az eljáró bíróság számítógépes nyilvántartást vezet, amelyben rögzíti a bíróság nevét, az ügy számát, az utolsó ismert lakóhely (székhely) megjelölésével a fél nevét, akinek részére a kézbesítés hirdetmény útján történt, továbbá azt az okot, amelynek következtében a kézbesítés szükségessé vált, illetve a kézbesítés megtörténtére vonatkozó vélelem beálltának időpontját. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Bírósági Hivatal elnöke kezeli, az abban foglalt adatokról az Országos Bírósági Hivatal elnöke jogszabályban meghatározott költségtérítés ellenében a felvilágosítást kérő személyére vonatkozóan, kérelmére felvilágosítást ad.
 
@@ -1072,7 +1083,13 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (4) Az iratok megtekintése és a másolatkészítés során a 171/A. § rendelkezéseit alkalmazni kell.
 
-(5) A fél, az ügyész és a perben részt vevő egyéb személy, valamint azok képviselője kérheti, hogy az irat elektronikus másolatát az általa megjelölt e-mail címre továbbítsa a bíróság, amennyiben az iratról neki másolat adható, és az irat elektronikus okiratként, vagy a papíralapú okirat elektronikus másolataként a bíróságnál rendelkezésre áll. Ebben az esetben a másolat kiadásáért nem kell illetéket fizetni.
+(5) A fél, az ügyész és a perben részt vevő egyéb személy, valamint azok képviselője írásban vagy a tárgyaláson kérheti, hogy a részére kiadható iratot elektronikus formában az általa megjelölt e-mail címre továbbítsa a bíróság, ha az irat
+
+- a) elektronikus formában,
+- b) elektronikus okiratként vagy
+- c) a papíralapú okirat elektronikus másolataként a bíróságnál rendelkezésre áll.
+
+(5a) Az (5) bekezdésben meghatározott esetben az irat továbbításáért nem kell illetéket fizetni. Az irat akkor áll elektronikus formában rendelkezésre [119. § (5) bekezdés a) pont], ha a bíróság a papír alapú iratot informatikai eszköz alkalmazásával szerkesztette meg; az elektronikus formában rendelkezésre álló irat nem hiteles kiadmány, az bizonyítékként nem használható fel.
 
 (6) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, nyomozó hatóság vagy közigazgatási hatóság megkeresésére – törvényben meghatározott feladataik ellátásához szükséges mértékben – a bíróság a per iratait vagy azok másolatát (kivonatát) megküldi, illetve azokba betekintést engedélyez.
 
@@ -1193,9 +1210,9 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 (2) Az idézésben (96. §) figyelmeztetni kell a feleket, hogy a tárgyaláson – ha nem személyesen jelennek meg – csak a 67. §-ban megjelölt meghatalmazottal képviseltethetik magukat. Az első tárgyalásra szóló idézéshez csatolni kell a keresetlevél egy példányát (másolatát), ha annak kézbesítésére korábban még nem került sor.
 
-(3) A feleket az idézésben fel kell hívni, hogy az ügyre vonatkozó okiratokat a tárgyalásra hozzák magukkal, az alperest pedig arra is figyelmeztetni kell, hogy a kereseti kérelemre legkésőbb a tárgyaláson nyilatkoznia kell, s elő kell adnia a védekezésének alapjául szolgáló tényeket és ezek bizonyítékait, az ügyre vonatkozó okiratait pedig be is kell mutatnia. Az idézésben arra is utalni kell, hogy az alperes a nyilatkozatát már a kitűzött határnap előtt benyújthatja vagy jegyzőkönyvbe mondhatja [94. § (4) bek.]. Az írásbeli nyilatkozat másodpéldányát, illetőleg az arról készített jegyzőkönyv másolatát a bíróság a felperesnek haladéktalanul kézbesíti, ha pedig erre már nincs elegendő idő, azt a tárgyaláson adja át.
+(3) A feleket az idézésben fel kell hívni, hogy az ügyre vonatkozó okiratokat a tárgyalásra hozzák magukkal, az alperest pedig arra is figyelmeztetni kell, hogy a kereseti kérelemre legkésőbb a tárgyaláson vagy a bíróság által megjelölt határidőn belül nyilatkoznia kell, s elő kell adnia a védekezésének alapjául szolgáló tényeket és ezek bizonyítékait, az ügyre vonatkozó okiratait pedig be is kell mutatnia. Az idézésben arra is utalni kell, hogy az alperes a nyilatkozatát már a kitűzött határnap előtt benyújthatja vagy jegyzőkönyvbe mondhatja [94. § (4) bekezdése]. Az írásbeli nyilatkozat másodpéldányát, illetőleg az arról készített jegyzőkönyv másolatát a bíróság a felperesnek haladéktalanul kézbesíti, ha pedig erre már nincs elegendő idő azt a tárgyaláson adja át.
 
-(4) Ha az ügy körülményei azt indokolják, így ha a 124. § (3)–(4) bekezdésében foglalt intézkedés megtételére van szükség, a bíróság az idézésben a (3) bekezdésben megjelölt alperesi nyilatkozat megtételére határidőt állapít meg. A határidő nem lehet kevesebb tizenöt napnál. A bíróság ezt követően – ha a tárgyalási határnapig rendelkezésre álló idő ezt lehetővé teszi – a felperest tizenöt napos határidővel az alperesi nyilatkozatban foglaltakra vonatkozó álláspontjának közlésére hívja fel.
+(4) Ha az ügy körülményei azt indokolják, így ha a 124. § (3)–(4) bekezdésében foglalt intézkedés megtételére van szükség, a bíróság az idézésben a (3) bekezdésben megjelölt alperesi nyilatkozat megtételére a tárgyalás napját megelőző határidőt állapíthat meg. A határidő nem lehet kevesebb tizenöt napnál. A bíróság ezt követően – ha a tárgyalási határnapig rendelkezésre álló idő ezt lehetővé teszi – a felperest tizenöt napos határidővel az alperesi nyilatkozatban foglaltakra vonatkozó álláspontjának közlésére hívja fel.
 
 ### A szóbeli kereset azonnali tárgyalása. Egyezségikísérletre idézés
 
@@ -1246,7 +1263,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 ### A keresetlevél beadásához fűződő jogi hatályokfenntartása
 
-132. § (1) A keresetlevélnek a 130. § alapján való elutasítása esetében a keresetlevél beadásának jogi hatályai fennmaradnak, ha a felperes az elutasító határozat jogerőre emelkedésétől számított harminc nap alatt a keresetlevelet szabályszerűen újra benyújtja, vagy követelését egyéb úton szabályszerűen érvényesíti.
+132. § (1) A keresetlevélnek a 130. § alapján való elutasítása esetében a keresetlevél beadásának jogi hatályai fennmaradnak, ha a felperes az elutasító határozat jogerőre emelkedésétől számított harminc nap alatt a keresetlevelet szabályszerűen – a 121. § (1) bekezdésében foglaltak szerint, a már megfelelően becsatolt mellékletek kivételével – újra benyújtja, vagy követelését egyéb úton szabályszerűen érvényesíti.
 
 (2) Ha a keresetlevél az alperes részére halála miatt vagy más okból nem volt kézbesíthető, a keresetlevél beadásának jogi hatályai fennmaradnak, ha a felperes a kézbesítés sikertelen megkísérlésére vonatkozó értesítés vételétől számított harminc nap alatt a kézbesítéshez szükséges adatokat bejelenti, vagy hirdetményi idézést kér.
 
@@ -2877,7 +2894,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (2)
 
-320. § (1) Az ellentmondás folytán kitűzött tárgyalásra a keresetlevél alapján kitűzött első tárgyalás szabályait, a további eljárásra pedig az elsőfokú eljárásra vonatkozó általános rendelkezéseket – vagy ha annak a 387. § alapján helye van, az Ötödik Rész rendelkezéseit – kell megfelelően alkalmazni. Az első tárgyalási nap időpontjára vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a határidőt a 318. § (1) bekezdésében meghatározott, a jogosult által beadott iratoknak – illetőleg az aktanyomatnak, ha ez utóbbi később érkezik meg – a bírósághoz való érkezésétől kell számítani.
+320. § (1) Az ellentmondás folytán kitűzött tárgyalásra a keresetlevél alapján kitűzött első tárgyalás szabályait, a további eljárásra pedig az elsőfokú eljárásra vonatkozó általános rendelkezéseket – vagy ha annak a 387. § alapján helye van, a Hatodik Rész rendelkezéseit – kell megfelelően alkalmazni. Az első tárgyalási nap időpontjára vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a határidőt a 318. § (1) bekezdésében meghatározott, a jogosult által beadott iratoknak – illetőleg az aktanyomatnak, ha ez utóbbi később érkezik meg – a bírósághoz való érkezésétől kell számítani.
 
 (2) A bíróság a végrehajtható okiratnak a kézbesítése vagy a meghagyás végrehajtói kézbesítése után előterjesztett ellentmondás folytán perré alakult eljárásban az alperest legkésőbb az eljárást befejező határozatában pénzbírsággal sújtja, ha az alperes a jóhiszemű joggyakorlás követelményeivel ellentétesen vagy egyébként nyilvánvalóan alaptalanul terjesztett elő ellentmondást kivéve, ha a fizetési meghagyás kézbesítésének vélelmét megdönti.
 
@@ -2909,7 +2926,7 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (2) E fejezet alkalmazásában közigazgatási határozat
 
-- a) a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott közigazgatási hatóság vagy vezetője által hatósági ügyben hozott határozat, valamint a hatósági szerződésben foglalt kötelezettség megszegése miatt végrehajtást elrendelő végzés,
+- a) a közigazgatási hatósági eljárás általános szabályairól szóló törvényben (a továbbiakban: Ket.) meghatározott közigazgatási hatóság vagy vezetője által hatósági ügyben hozott határozat, valamint a hatósági szerződésben foglalt kötelezettség megszegése miatt végrehajtást elrendelő végzés,
 - b) a helyi önkormányzat törvényben meghatározott határozata,
 - c) más szervnek, szervezetnek vagy személynek az a határozata, amely nem tartozik az a) pont hatálya alá, de felülvizsgálatára vonatkozóan külön törvény e fejezet alkalmazását rendeli.
 
@@ -3365,13 +3382,35 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### Perújítás
 
-359. § (1) A munkaügyi bíróság jogerős ítélete vagy a jogerős végzésével jóváhagyott egyezség ellen az általános szabályok szerint perújításnak van helye.
+358/A. § (1) A munkaügyi bíróság jogerős ítélete vagy a jogerős végzésével jóváhagyott egyezség ellen az általános szabályok szerint perújításnak van helye.
 
 (2) A munkaviszony megszüntetése ellen a perújításnak hat hónap utáni megindítása (kezdeményezése) esetén a munkavállaló nem követelheti munkaviszonyának helyreállítását és az eredeti munkakörben vagy munkahelyen történő továbbfoglalkoztatását. Ugyanebben az esetben a munkavállaló a perújítás iránti kérelem benyújtását megelőző hat hónapon túli időre munkabérkövetelést sem támaszthat.
 
 ### Munkavállalói költségkedvezmény
 
-359/A. § Ha a munkaügyi per által érintett munkaviszonyból származó távolléti díj nem haladja meg a külön jogszabályban meghatározott mértéket, a perben félként résztvevő munkavállaló munkavállalói költségkedvezményre jogosult. A felet a munkavállalói költségkedvezmény alapján – jogszabály eltérő rendelkezése hiányában – a keresetlevél előterjesztésétől kezdve, a per egész tartamára, valamint a végrehajtási eljárásra is kiterjedően teljes költségmentesség illeti meg. A munkavállalói költségkedvezményre vonatkozó adatokat a keresetlevélben fel kell tüntetni, illetve ahhoz csatolni kell a szükséges iratokat. A fél jogosultságát a bíróság a csatolt iratok alapján hivatalból vizsgálja.
+358/B. § Ha a munkaügyi per által érintett munkaviszonyból származó távolléti díj nem haladja meg a külön jogszabályban meghatározott mértéket, a perben félként részt vevő munkavállaló munkavállalói költségkedvezményre jogosult. A felet a munkavállalói költségkedvezmény alapján – jogszabály eltérő rendelkezése hiányában – a keresetlevél előterjesztésétől kezdve, a per egész tartamára, valamint a végrehajtási eljárásra is kiterjedően teljes költségmentesség illeti meg. A munkavállalói költségkedvezményre vonatkozó adatokat a keresetlevélben fel kell tüntetni, illetve ahhoz csatolni kell a szükséges iratokat. A fél jogosultságát a bíróság a csatolt iratok alapján hivatalból vizsgálja.
+
+### A Kormánytisztviselői Döntőbizottság határozatának felülvizsgálata iránti per
+
+358/C. § A Kormánytisztviselői Döntőbizottság (a továbbiakban: Döntőbizottság) határozatának felülvizsgálata iránti perben e Fejezet rendelkezései irányadók a jelen alcímben foglalt eltérésekkel.
+
+359. § (1) A keresetlevelet az ellenérdekű féllel szemben, a Döntőbizottsághoz benyújtva kell előterjeszteni. A keresetlevél benyújtásának a Döntőbizottság határozata végrehajtására halasztó hatálya van.
+
+(2) A keresetlevélnek a 121. §-ban meghatározottakon túl tartalmaznia kell:
+
+- a) a Döntőbizottság határozatának a számát,
+- b) a határozatról való tudomásszerzés módját és idejét, valamint
+- c) ha a Döntőbizottsági eljárásban a jogi képviselő olyan meghatalmazást csatolt, amely a per vitelére is vonatkozik, az erre való utalást.
+
+(3) A Döntőbizottság a keresetlevelet az ügy irataival együtt 15 napon belül továbbítja a bírósághoz.
+
+(4) Ha a fél a keresetlevél benyújtására megállapított határidőt elmulasztotta, igazolással élhet (106–110. §). A Döntőbizottság a hozzá elkésetten benyújtott keresetlevelet nem utasíthatja el, hanem köteles azt a bírósághoz továbbítani abban az esetben is, ha a fél igazolási kérelmet nem terjesztett elő.
+
+(5) A per elintézéséből – a 350. § (1) bekezdésében meghatározottakon felül – ki van zárva és abban bíróként nem vehet részt az sem, aki a Döntőbizottság határozatának meghozatalában részt vett, vagy akit a Döntőbizottság határozatának alapjául szolgáló eljárásban tanúként vagy szakértőként kihallgattak.
+
+359/A. § (1) A munkaügyi bíróság a Döntőbizottság határozatát végzéssel teljes egészében hatályon kívül helyezi, és a Döntőbizottságot új eljárásra utasítja, ha nem volt szabályszerűen megalakítva, vagy a határozat meghozatalában kizárt személy vett részt. Ha a Döntőbizottság a hatáskörét túllépve járt el, vagy hatáskörének hiányát jogszabálysértéssel állapította meg, a határozatot a munkaügyi bíróság ebben a részében helyezi hatályon kívül.
+
+(2) Az (1) bekezdésben meghatározott esetek kivételével a munkaügyi bíróság a Döntőbizottságot nem utasíthatja újabb eljárásra, hanem érdemben dönt, és a megtámadott határozatot egészben vagy részben megváltoztatja, vagy a keresetet elutasítja. Ha a felek között egyezség jött lére, a munkaügyi bíróság az egyezséget jóváhagyó végzésében a határozatot hatályon kívül helyezi.
 
 ### XXIV. Fejezet — Az alkotmányjogi panasz esetén követendő eljárás
 
@@ -3728,7 +3767,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2013. január 1. és 2013. október 1. napja között a következő rendelkezéseket kell alkalmazni:
 
-- a) ha a vállalkozások közötti perben kötelező a jogi képviselet, a keresetlevél és minden egyéb beadvány, okirati bizonyíték benyújtására kizárólag elektronikus úton, a közigazgatási hatósági eljárás és szolgáltatás általános szabályai szerinti biztonságos kézbesítési szolgáltatás igénybevételével kerülhet sor, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti, az elektronikus úton benyújtott keresetlevelet a bíróság az alperes részére papír alapú okiratként kézbesíti azzal a kiegészítő tájékoztatással, hogy az eljárásban kötelező a jogi képviselet, ezért védekezését, nyilatkozatát jogi képviselővel eljárva, kizárólag elektronikus úton nyújthatja be;
+- a) ha a vállalkozások közötti perben kötelező a jogi képviselet, a keresetlevél és minden egyéb beadvány, okirati bizonyíték benyújtására kizárólag elektronikus úton kerülhet sor, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti, az elektronikus úton benyújtott keresetlevelet a bíróság az alperes részére papír alapú okiratként kézbesíti azzal a kiegészítő tájékoztatással, hogy az eljárásban kötelező a jogi képviselet, ezért védekezését, nyilatkozatát jogi képviselővel eljárva, kizárólag elektronikus úton nyújthatja be;
 - b) kötelező jogi képviselet esetén az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás; a papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti;
 - c) kötelező jogi képviselet esetén, ha a fél – bármely okból – nem rendelkezik jogi képviselővel, akkor a bíróság a jogi képviselő képviseleti jogosultságának igazolásáig a félnek papír alapon kézbesíti a hivatalos iratokat;
 - d) a törvényszék elsőfokú hatáskörébe tartozó ügyekben a fél, illetve a jogi képviselő az elektronikus kézbesítést vállalhatja akkor is, ha nem kötelező a jogi képviselet; ha jogi képviselő nélkül eljáró fél vállalta az elektronikus kézbesítést, indokolt kérelmében az eljárás során egy alkalommal kérheti a papír alapú kézbesítésre való áttérést; a fél e jogát nem gyakorolhatja visszaélésszerűen;
@@ -3741,9 +3780,9 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - b) az elektronikus vagy papír alapú okiratban tett bejelentésnek tartalmaznia kell a jogi képviselő természetes személyazonosító adatait (név, születési hely és idő, anyja neve);
 - c) a bejelentés megtételekor nem kell illetéket leróni abban az esetben, ha a bejelentést a korábban benyújtott általános meghatalmazás kiegészítéseként teszik meg; ekkor a bejelentést a korábban benyújtott általános meghatalmazáshoz kell csatolni.
 
-394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2013. április 1. napjától a következő rendelkezéseket kell alkalmazni:
+394/C. § A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja – 2014. február 1. napjától a következő rendelkezéseket kell alkalmazni:
 
-- a) a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti;
+- a) a vállalkozás a keresetlevelet, továbbá minden egyéb beadványát, okirati bizonyítékát kizárólag elektronikusan nyújtja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti;
 - b) ha a vállalkozás az eljárásban alperesként (illetve kötelezettként, adósként) vesz részt, részére a bíróság elektronikusan kézbesít, és a vállalkozás a beadványait, okirati bizonyítékait kizárólag elektronikusan nyújthatja be;
 - c) ha a fél jogi képviselővel jár el, akkor a jogi képviselő a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan, hivatali kapuján keresztül nyújthatja be a bírósághoz, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a jogi képviselő részére;
 - d) az eredetileg papír alapú okirati bizonyítékok elektronikus benyújtása alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás; a papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti;
@@ -3753,7 +3792,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 ### Elektronikus kommunikáció a szakértővel
 
-394/D. § (1) E § rendelkezéseit 2013. március 31-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2012. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2013. április 1. napjától az ezen időpont után indult, a helyi bíróságok előtti polgári perekben is alkalmazni kell.
+394/D. § (1) E § rendelkezéseit 2013. október 1-ig csak a törvényszékek első fokú hatáskörébe tartozó, 2013. január 1. napját követően indult polgári perekben kell alkalmazni. A § rendelkezéseit 2013. október 2. napjától az ezen időpont után indult, a helyi bíróságok előtti polgári perekben is alkalmazni kell.
 
 (2) Ha a szakértő az igazságügyi szakértői névjegyzék adatai alapján az elektronikus kézbesítést vállalja, a polgári perben a hivatalos és egyéb iratokat, ide értve a szakvéleményt, az előzetes munkatervet és a díjjegyzéket is, – a (3) bekezdésben foglalt kivétellel – elektronikusan kézbesíti a bíróság részére, és a bíróság is valamennyi hivatalos iratot elektronikusan kézbesíti a szakértőnek. A szakértő ebben az esetben nem kötelezhető arra, hogy a bírósághoz benyújtott hivatalos és egyéb iratot a felek és más perbeli személyek számára papír alapon megküldje.
 
@@ -3776,7 +3815,7 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 - a) A bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére elektronikus úton is kézbesíttetheti;
 - b) Az elektronikus úton megkeresett másik bíróság, közigazgatási szerv vagy hatóság a megkereső bíróságnak elektronikus úton válaszolhat a megkeresésre.
 
-(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációjára 2013. március 31. napját követően a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.
+(2) A bíróságok egymás közötti és a közigazgatási szervekkel, illetve más hatóságokkal történő elektronikus kommunikációjára 2013. augusztus 1. napját követően a bíróság a hivatalos iratait másik bíróság, közigazgatási szerv vagy más hatóság részére kizárólag elektronikus úton kézbesíttetheti. Az elektronikus kézbesíttetés alóli kivételt jelenti, ha a bíróság által kézbesíttetni rendelt okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás.
 
 ## NYOLCADIK RÉSZ — VEGYES RENDELKEZÉSEK
 

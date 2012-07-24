@@ -426,7 +426,7 @@ szabható ki.
 
 (3) A nemzeti válogatott keretekkel kapcsolatos költségek, illetve – a 8. § (5) bekezdésére is figyelemmel – a kártérítési felelősség a szakszövetséget terhelik, ugyanakkor megilletik a nemzeti válogatott keretek működéséből származó bevételek is.
 
-27. § (1) A szakszövetség működése felett a törvényességi felügyeletet az ügyészség gyakorolja.
+27. § (1) A szakszövetség működése felett a törvényességi ellenőrzést az ügyészség gyakorolja.
 
 (2) Az ügyész keresete alapján a bíróság akkor is felfüggesztheti a szakszövetség ügyintéző-képviselő szervének tevékenységét, és a tevékenység irányítására felügyelő biztost rendelhet ki, ha a szakszövetség számviteli jogszabályok szerinti eredménye egymást követő két évben negatív, és kötelezettségei legalább ötven százalékkal meghaladják saját vagyonának mértékét. Ha a rendeltetésszerű gazdálkodás nem állítható helyre, a felügyelő biztos javaslatot tesz az ügyésznek a szakszövetség bírósági feloszlatásának kezdeményezésére.
 

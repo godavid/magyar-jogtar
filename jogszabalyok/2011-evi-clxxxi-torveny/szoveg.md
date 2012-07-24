@@ -44,11 +44,16 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 
 (2) A bírósági titkár első fokon önállóan önálló aláírási joggal eljárhat, érdemi határozatot hozhat a törvényben szabályozott polgári nemperes eljárásokban.
 
-(3) Az e törvényben szabályozott polgári nemperes eljárásokban szünetelésnek az e törvényben meghatározott esetekben van helye.
+(3) Az e törvényben szabályozott polgári nemperes eljárásokban az eljárás szünetel, ha
 
-(4) Az e törvényben szabályozott polgári nemperes eljárásokban a Pp. határidők számításáról rendelkező 104/A. §-át alkalmazni kell.
+- a) a kérelmező nem biztosítja, hogy részére (képviselő, kézbesítési megbízott részére) a hivatalos iratok kézbesíthetőek legyenek,
+- b) a belföldi idézési címmel és belföldi idézésű című képviselővel sem rendelkező kérelmező a kérelem – ide nem értve a szervezet nyilvántartásba vételére irányuló kérelmet – benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető.
 
-(5) A beadvány és mellékletei benyújtása során a Pp. 93. § (3) bekezdését megfelelően alkalmazni kell.
+(4) Az eljárás szünetelésről és az eljárás szünetelés okán történő megszűnésről nem kell végzést hozni.
+
+(5) Az e törvényben szabályozott polgári nemperes eljárásokban a Pp. határidők számításáról rendelkező 104/A. §-át alkalmazni kell.
+
+(6) A beadvány és mellékletei benyújtása során a Pp. 93. § (3) bekezdését megfelelően alkalmazni kell, azzal, hogy a szervezet által működési körében kiállított, szabályszerűen aláírt okirat is benyújtható.
 
 #### 4. A beadványokra vonatkozó általános szabályok
 
@@ -62,7 +67,7 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 
 17. § (1) Ha a belföldi idézési címmel és belföldi idézési című képviselővel sem rendelkező kérelmező a szervezet nyilvántartásba vételére irányuló kérelem benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető, a bíróság felhívja, hogy a felhívás kézhezvételétől számított harminc napon belül a kézbesítési megbízott nevét és címét jelentse be, és – szükség szerint – egyidejűleg a kézbesítési megbízottal kötött és teljes bizonyítóerejű magánokiratba vagy közokiratba foglalt megbízási szerződését nyújtsa be. A felhívás a (2) bekezdésben írt jogkövetkezményekre való tájékoztatást tartalmaz.
 
-(2) Ha a belföldi idézési címmel és belföldi idézésű című képviselővel sem rendelkező kérelmező a kérelem – ide nem értve a szervezet nyilvántartásba vételére irányuló kérelmet – benyújtásával egyidejűleg nem jelöl meg belföldi idézési című kézbesítési megbízottat (Pp. 100/A. §) vagy az irat a kézbesítési megbízott részére nem volt kézbesíthető, az eljárás szünetel. A szünetelésről és az eljárás szünetelés okán történő megszűnésről nem kell végzést hozni.
+(2)
 
 18. §
 
@@ -81,7 +86,7 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - c) a szervezet nevét, elnevezését,
 - d) a szervezet székhelyét,
 - e) a szervezet képviselőjének nevét, lakóhelyét,
-- f) a képviseleti jog terjedelmét,
+- f) a képviseleti jog terjedelmét és gyakorlásának módját,
 - g) a szervezet célját,
 - h) a szervezet célja szerinti besorolását,
 - i) az alapító okirat, alapszabály (a továbbiakban együtt: létesítő okirat) keltét,
@@ -169,6 +174,9 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - a) az eljárásra a bíróság joghatósága törvény, európai uniós jogszabály vagy nemzetközi egyezmény rendelkezése alapján kizárt,
 - b) a jogi képviselő által benyújtott kérelem nem tartalmazza a 20. § (1) bekezdésében foglaltakat vagy a kérelemhez a meghatalmazást nem csatolták vagy
 - c)
+- d) a kérelmezőnek nincs perbeli jogképessége,
+- e) a szervezet alapításában olyan alapító vesz részt, aki a szervezet alapításában törvény alapján nem vehet részt vagy
+- f) a kérelmet nem a jogszabályban arra feljogosított személy nyújtja be.
 
 (2) A bíróság a nyilvántartásba vétel iránti kérelmet hatvan napon belül elutasítja, ha a kérelmező a hiánypótlási felhívást követően a kitűzött határidő alatt a hiánytalan kérelmet (annak hiánypótlási felhívásban megjelölt részét) nem nyújtotta be, és emiatt a kérelem nem bírálható el.
 
@@ -194,7 +202,7 @@ sem.
 
 32. § Ha a bíróság döntési kötelezettségének határidőn belül nem tesz eleget, a bíróság elnöke felhívja a bírót (bírósági titkárt), hogy soron kívül, nyolc napon belül tegye meg a szükséges intézkedéseket a kérelem elbírálása érdekében. A bíró (bírósági titkár) a kérelem elbírálását követően a bíróság elnökének beszámol arról, hogy mi volt az indoka annak, hogy döntési kötelezettségének határidőn belül nem tett eleget.
 
-33. § Az ügyésznek – ha az ügyészség látja el a szervezet feletti törvényességi ellenőrzést – kézbesíteni kell a nyilvántartásba vételi, a változásbejegyzési és a nyilvántartásból való törlés iránti eljárás során a nem az ügy érdemében hozott fellebbezhető végzést és az ügy érdemében hozott végzést.
+33. § Az ügyésznek – ha az ügyészség látja el a szervezet feletti törvényességi ellenőrzést – kézbesíteni kell a nyilvántartásba vételi, a változásbejegyzési és a nyilvántartásból való törlés iránti eljárás során a nem az ügy érdemében hozott fellebbezhető végzést és az ügy érdemében hozott végzést, az áttételt elrendelő és a nyilvántartásba vételi kérelmet elutasító végzés kivételével.
 
 #### 13. Az egyszerűsített nyilvántartásba vételi eljárás
 
@@ -253,7 +261,8 @@ sem.
 43. § (1) A bíróság a szervezetet hivatalból törli a nyilvántartásból
 
 - a) a felszámolási eljárást lefolytató bíróságnak a szervezet megszüntetéséről szóló jogerős végzése vagy
-- b) a szervezet feloszlatásáról, megszüntetésről vagy megszűnése megállapításáról rendelkező jogerős ítélet alapján.
+- b) a szervezet feloszlatásáról, megszüntetésről vagy megszűnése megállapításáról rendelkező jogerős ítélet vagy
+- c) az egyszerűsített törlési eljárás befejezését követően. alapján.
 
 (2) Ha a bíróság a szervezetet feloszlatja, megszünteti vagy a szervezet megszűnését megállapítja, a feloszlatásról, megszüntetésről vagy a megszűnés megállapításáról szóló jogerős ítéletet megküldi a nyilvántartást vezető bíróságnak.
 
@@ -310,7 +319,7 @@ sem.
 
 (2) Az alapítvány nyilvántartásba vétele iránti kérelemben nyilatkozni kell a következőkről is:
 
-- a) az alapítvány típusáról (alapítvány, a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítvány),
+- a) az alapítvány típusáról,
 - b) az alapítvány vagyonfelhasználási módjáról, a felhasználható vagyon mértékéről,
 - c) arról, hogy az alapítványhoz lehet-e csatlakozni (nyílt vagy zárt alapítvány).
 
@@ -352,7 +361,7 @@ sem.
 54. § (1) A bíróság a kezelő szerv (szervezet) kijelöléséről polgári nemperes eljárásban határoz, ha
 
 - a) az alapító nem él a kezelő szerv (szervezet) kijelölésének jogával vagy az alapító által kijelölt szerv (szervezet) a feladat ellátását nem vállalja,
-- b) az alapító halála vagy jogutód nélküli megszűnése miatt az alapítói jogok gyakorlására nem kerülhet sor.
+- b) az alapítói jogokat a bíróság gyakorolja.
 
 (2) Ha a kezelő szerv (szervezet) kijelölésének feltételei fennállnak, a bíróság az ügyész indítványára vagy az egyéb érdekelt kérelmére az eljárást megindítja.
 
@@ -383,6 +392,10 @@ sem.
 (2) A bíróság az alapító fél keresetlevélben előterjesztett kérelmére beszerzi a nemperes ügy 56. § (1) bekezdés a) pontjában meghatározott iratait, ha arra a fél bizonyítékként kíván hivatkozni.
 
 (3) Ha a bíróság a keresetlevélben foglaltaknak helyet ad, a jogerős ítéletet alapján hivatalból kell módosítani a nyilvántartás adatait, az ítélet miatt bekövetkezett adatváltozásról végzést hozni nem kell.
+
+(4) Ha a bíróság az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére irányuló változásbejegyzési eljárást az 56. § (3) vagy (4) bekezdésben meghatározott okból szünteti meg, és a változásbejegyzési kérelem az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére irányuló változásbejegyzési eljárás mellett más adat bejegyzése (törlése) iránti kérelmet is tartalmaz, a bíróság a változásbejegyzési eljárást – a meg nem szüntetett részben – a perindításra nyitva álló határidő eredménytelen elteltéig, illetőleg a jogerős ítélet meghozataláig (a per megszüntetéséig) felfüggeszti.
+
+(5) Az 55–57. § rendelkezési szerint kell eljárni abban az esetben is, ha az alapító az alapító okirat rendelkezése alapján hívja vissza a kezelő szervezet (szervezetet) vagy annak tagját és nyújt be az alapítvány új kezelő szerve (szervezete) nyilvántartásba történő bejegyzésére vagy a kezelő szervezet új tagjának bejegyzésére irányuló változásbejegyzési kérelmet.
 
 #### 28. Az alapítványok egyesítésére irányuló eljárás
 
@@ -432,11 +445,21 @@ sem.
 
 (3) A nyilvántartást vezető bíróság a végelszámolást, kényszer-végelszámolást követően az alapítványt törli a nyilvántartásból, a végzés ellen fellebbezésnek és felülvizsgálatnak nincs helye.
 
-#### 32. A közalapítvány megszüntetésére irányuló sajátos nemperes eljárás
+#### 32. Az állami alapító által alapított alapítvány és közalapítvány megszüntetésére irányuló sajátos nemperes eljárás
 
-62. § (1) A közalapítvány megszüntetésére irányuló sajátos nemperes eljárásban a bíróság az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény szabályait alkalmazva jár el.
+62. § (1) Az állami alapító által alapított alapítvány és közalapítvány megszüntetésére irányuló sajátos nemperes eljárásban a bíróság az e §-ban foglaltakat, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény szabályait alkalmazva jár el.
 
-(2) Az eljárás a közalapítványt nyilvántartó bíróság hatáskörébe és illetékességébe tartozik.
+(2) Az eljárás az állami alapító által alapított alapítványt, vagy közalapítványt nyilvántartó bíróság hatáskörébe és illetékességébe tartozik.
+
+(3) E § alkalmazásában állami alapító
+
+- a) az Országgyűlés,
+- b) a Kormány,
+- c) a minisztérium (miniszter),
+- d) aki alapítói jogát a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 2. § (8) bekezdése szerint gyakorolja,
+- e) az a költségvetési szerv, melynek alapítói, fenntartói joga a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 2. § (1) bekezdése alapján az államra szállt.
+
+(4) Az (1) bekezdésben foglaltak szerint kell eljárni akkor is, ha az állami alapító alapítói jogát a Ptk. 74/C. § (7) bekezdése szerinti kijelölés alapján gyakorolja.
 
 #### 33. Az egyesület nyilvántartásba vétele iránti kérelem tartalmi elemei
 
@@ -517,7 +540,7 @@ biztosítja.
 
 (3)
 
-88. § (1) A szervezet – alapítvány esetén az alapító is – a nyilvántartásának rá vonatkozó adatairól másolat, kivonat vagy bizonyítvány kiadását kérheti. A másolat a nyilvántartás valamennyi fennálló és törölt adatát, a kivonat a nyilvántartás fennálló adatait, a bizonyítvány pedig – a kérelemtől függően – a nyilvántartás egyes fennálló vagy törölt adatait hitelesen tanúsítja, illetve azt, hogy valamely meghatározott bejegyzés a nyilvántartásban nem szerepel(t). A másolatot, a kivonatot vagy bizonyítványt jogszabályban meghatározott módon kell elkészíteni.
+88. § (1) A szervezet és a szervezet jogi személy szervezeti egységének képviselője – alapítvány esetén az alapító is – a szervezet nyilvántartásban szereplő adatairól másolat, kivonat vagy bizonyítvány kiadását kérheti. A másolat a nyilvántartás valamennyi fennálló és törölt adatát, a kivonat a nyilvántartás fennálló adatait, a bizonyítvány pedig – a kérelemtől függően – a nyilvántartás egyes fennálló vagy törölt adatait hitelesen tanúsítja, illetve azt, hogy valamely meghatározott bejegyzés a nyilvántartásban nem szerepel(t). A másolatot, a kivonatot vagy bizonyítványt jogszabályban meghatározott módon kell elkészíteni.
 
 (2) A másolatban, a kivonatban, valamint a bizonyítványban az egyes adatok mellett fel kell tüntetni az adat (illetve annak törlése) bejegyzésének és a bejegyzés alapjául szolgáló határozat jogerőssé válásának időpontját is.
 
@@ -568,43 +591,9 @@ biztosítja.
 
 #### 46. Átmeneti rendelkezések
 
-99. § (1) A civil és egyéb cégnek nem minősülő szervezetek nyilvántartása – 2013. január 1. napjáig – az alábbi adatokat tartalmazza:
+99. § (1) A 2013. január 1. napja előtt bejegyzett egyesület és alapítvány esetében az első változásbejegyzési kérelem benyújtásakor be kell jelenteni a bíróság részére az egyesület, és az alapítvány képviselőjének anyja születési nevét, illetve a jogi személy szervezetei egység képviselőjének nevét és anyja születési nevét.
 
-- a) nyilvántartási szám,
-- b) lajstromszám,
-- c) sorszám,
-- d) a szervezet nyilvántartásba vételéről szóló határozat száma, jogerőre emelkedésének napja,
-- e) a szervezet neve,
-- f) a szervezet székhelye,
-- g) a szervezet képviselőjének neve,
-- h) a szervezet képviselőjének lakóhelye,
-- i) a szervezet célja, valamint célja szerinti besorolása,
-- j) a létesítő okirat (alapszabály, alapító okirat) kelte és
-- k) áttételre, felfüggesztésre, megszűnésre vonatkozó adatok.
-
-(2) A nyilvántartás alapítvány esetén – az (1) bekezdésben foglaltakon túlmenően – tartalmazza az alábbi adatokat is:
-
-- a) az alapítvány vagyonfelhasználási módja,
-- b) az arra való utalást, hogy alapítványhoz lehet-e csatlakozni (nyílt vagy zárt alapítvány) és
-- c) a kezelő szerv (szervezet) tagjainak neve és lakóhelye.
-
-(3) A nyilvántartás szükség szerint tartalmazza az alábbi adatokat is:
-
-- a) a létesítő okirat módosítása esetén
-  - aa) a létesítő okirat módosításának időpontja és
-  - ab) a módosítás nyilvántartásba vételéről szóló határozat száma, jogerőre emelkedésének napja,
-- b) közhasznú jogállás megszerzése esetén
-  - ba) a közhasznú jogállás megszerzésének időpontja,
-  - bb) közhasznúsági fokozat,
-  - bc) a közhasznú jogállás módosításának, törlésének időpontja,
-- c) szervezet szervezeti egysége jogi személlyé nyilvánítása esetén
-  - ca) a jogi személy szervezeti egység neve,
-  - cb) a jogi személy szervezeti egység székhelye és
-  - cc) a jogi személy szervezeti egység ügyintéző és képviseleti szervének neve.
-
-(4) A nyilvántartás alapítvány esetén – a (3) bekezdésben foglalt adatokon túlmenően – szükség szerint tartalmazza állami alapító által alapított alapítvány (közalapítvány), illetve állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány (közalapítvány) esetén a kezelő szervezetbe az állami alapító részéről jelölt tag vagy tagok nevét is.
-
-(5) A nyilvántartás szövetség esetén tartalmazza a tagok nevét, székhelyét, nyilvántartási számát.
+(2) A 2013. január 1. napja előtt bejegyzett egyesület és alapítvány képviselője a bíróság részére – változásbejegyzési kérelem benyújtása nélkül – bejelentheti anyja születési nevét. A bíróság a bejelentés alapján a képviselő anyja születési nevét hivatalból bejegyzi a nyilvántartásba. Az adat bejegyzéséről nem kell végzést hozni, ha az ilyen módon bejegyzett adat eltér a bejegyzés alapjául szolgáló határozatban vagy értesítésben szereplő adattól, a nyilvántartásban szereplő adat kijavítására a Pp. 224. § (1) és (2) bekezdését kell megfelelően alkalmazni, azzal, hogy a kijavításról nem kell végzést hozni.
 
 100. § (1) Az OBH vezeti az interneten azonosítás nélkül elérhető országos névjegyzéket.
 
@@ -636,6 +625,8 @@ biztosítja.
 (2) Az 5. § (2) bekezdését az e törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 (3) E törvénynek a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 59. § (1) és (5) bekezdését, 60. §-át és 61. §-át a Mód. tv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(4) A bizonyítvány és a másolat a szervezet 2013. január 1. napján és azt követően fennálló vagy törölt adatokat tartalmazza. A bizonyítvány és a másolat erre való figyelmeztetést tartalmaz.
 
 105. § (1) Ha a szervezetnek a beszámoló és közhasznúsági jelentés benyújtási kötelezettségének 2013. január 1-je előtt kell eleget tennie, a beszámolót és a közhasznúsági jelentést papír alapon kell az OBH részére benyújtania. Ha a 2013. január 1. napját követően elektronikus eljárásra kötelezett szervezet a rá irányadó határidőt elmulasztva, a beszámolót és a közhasznúsági jelentést 2013. január 1-je után nyújtja be, azokat elektronikus úton kell az OBH részére megküldenie, amely azt az országos névjegyzékben közzéteszi.
 

@@ -90,7 +90,7 @@ szerinti közjegyző illetékes.
 
 10. § A közjegyző a hagyatéki eljárás során felmerült kérdésekben végzéssel dönt.
 
-11. § (1) A közjegyző a hagyatéki eljárás iratait bíróság részére postai úton kézbesíti, a megkeresett bíróság pedig postai úton válaszol a megkeresésre. A cégbírósággal való levelezésre a (2) bekezdésében meghatározott eljárás alkalmazandó.
+11. § (1) A közjegyző a hagyatéki eljárás iratait bíróság, ingatlanügyi hatóság részére postai úton kézbesíti, a megkeresett bíróság, ingatlanügyi hatóság pedig postai úton válaszol a megkeresésre. A cégbírósággal való levelezésre a (2) bekezdésében meghatározott eljárás alkalmazandó.
 
 (2) A közjegyző a hagyatéki eljárás iratait a cégbíróság részére a Pp.-ben meghatározottak szerint, elektronikus úton kézbesíti, a megkeresett cégbíróság pedig a Pp.-ben meghatározottak szerint, elektronikus úton válaszol a megkeresésre.
 
@@ -948,6 +948,8 @@ végzés ellen.
 
 (2) A közjegyző végzése elleni fellebbezést a végzést hozó közjegyzőnél kell előterjeszteni és a törvényszékhez kell címezni.
 
+(3) A hagyaték átadása tárgyában hozott végzés ellen nincs helye felülvizsgálatnak.
+
 ### VI. Fejezet — A HAGYATÉKI PER ÉS A JEGYZŐ ELJÁRÁSÁVAL KAPCSOLATOS JOGORVOSLATOK
 
 ### Hagyatéki per
@@ -1005,7 +1007,7 @@ végzés ellen.
 
 (2) A jegyző és a közjegyző az örökhagyó gondnokság alatt állásának megállapítása és az erről rendelkezésére álló adat ellenőrzése céljából arra vonatkozóan igényelhet adatot a gondnokoltak nyilvántartásából, hogy abban az örökhagyó szerepel-e és ki a gondnoka (név, cím, egyéb elérhetőség).
 
-(3) A jegyző és a közjegyző az örökhagyó vagyonának megállapítása és a rendelkezésre álló adatok ellenőrzése céljából adatot igényelhet az ingatlannyilvántartásból, az egyedi azonosítójellel ellátott (lajstromozott) vagyontárgyak nyilvántartásából és a zálogjogi nyilvántartásból.
+(3) A jegyző és a közjegyző az örökhagyó vagyonának megállapítása és a rendelkezésre álló adatok ellenőrzése céljából adatot igényelhet a számítógépes ingatlan-nyilvántartási rendszerből közvetlenül, az egyedi azonosítójellel ellátott (lajstromozott) vagyontárgyak nyilvántartásából és a zálogjogi nyilvántartásból.
 
 (4) A jegyző és a közjegyző az ismert vagy ismeretlen öröklésben érdekelt e törvény szerint kezelhető adatainak megállapítása és az ezekről rendelkezésére álló adatok ellenőrzése céljából adatot igényelhet a személyiadat- és lakcímnyilvántartásból, valamint a születési, házassági és halotti anyakönyvet vezető anyakönyvvezetőtől.
 

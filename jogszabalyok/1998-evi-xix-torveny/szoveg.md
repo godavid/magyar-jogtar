@@ -719,9 +719,7 @@ bírálja el.
 
 (6) Az írásbeli idézést vagy értesítést zárt iratban kell megküldeni. Sajtóhirdetményben az értesítettek neve nem közölhető.
 
-67/A. § (1) A bíróság, az ügyészség, a nyomozó hatóság és a védő egymással az írásbeli kapcsolatot a külön jogszabályok szerint meghatározott központi rendszer útján tartja.
-
-(2) A bíróság, az ügyészség, a nyomozó hatóság és a jogi képviselő vagy a képviselőként eljáró ügyvéd egymással az írásbeli kapcsolatot a külön jogszabályok szerint meghatározott központi rendszer útján tartja.
+67/A. §
 
 68. § (1) Katonát [Btk. 122. § (1) bek.] rendszerint az elöljárója útján kell idézni, illetve értesíteni. Az idézés, illetve az értesítés az elöljáró egyidejű értesítése mellett közvetlenül is történhet, ha a megidézettnek, illetve az értesítettnek az idézés, illetve az értesítés küldőjének a székhelyén nincs elöljárója, és a késedelem az eljárási cselekmény elvégzését veszélyeztetné. A Magyar Honvédség tényleges állományú tagja által elkövetett bármely bűncselekmény esetén a katonai ügyész vagy a katonai nyomozó hatóság a gyanúsítottkénti kihallgatásra idézéssel egyidejűleg, az elöljáró útján tájékoztatja a büntetőeljárás megindításáról a szolgálati beosztásból való felfüggesztésre jogosult elöljárót is.
 
@@ -2895,9 +2893,20 @@ ellen.
 
 (5) A tanácsülésen a bíróság tagjai és a jegyzőkönyvvezető vesznek részt.
 
-### Az egyesbíró
+### Az egyesbíró és a bírósági titkár
 
-235. § Ahol e törvény a bíróságról, a bíróság tanácsáról vagy a tanács elnökéről rendelkezik, ezen az egyesbírót is érteni kell.
+235. § (1) Ahol e törvény a bíróságról, a bíróság tanácsáról vagy a tanács elnökéről rendelkezik, ezen az egyesbírót, illetve e törvényben meghatározott esetekben a bírósági titkárt is érteni kell.
+
+(2) Bírósági titkár a következő esetekben járhat el:
+
+- a) védő kirendelése és a kirendelés alóli felmentése (48. §),
+- b) megkeresés (71. §),
+- c) bűnügyi költség megállapítása [74. § (2) bekezdése],
+- d) személyes költségmentesség engedélyezése [74. § (3) bekezdése],
+- e) szakértő kirendelése (102. §),
+- f) rendbírság kiszabása (161. §),
+- g) olyan határozat kijavítása vagy kiegészítése, amelyet bírósági titkár is meghozhat (261. §),
+- h) ha e törvény ezt lehetővé teszi.
 
 ### A pótmagánvádló
 
@@ -3376,6 +3385,16 @@ ellen.
 
 (4) A bíróság tanácsa minden olyan kérdésben határozhat, amely egyébként a tanács elnökének jogkörébe tartozik.
 
+(5) A tárgyalás előkészítése során bírósági titkár a következő esetekben járhat el:
+
+- a) vádirat közlése (263. §),
+- b) áttétel (264. §),
+- c) egyesítés és elkülönítés (265. §),
+- d) a 266. § (1) bekezdés a) pontja, (2) bekezdése, (3) bekezdése, (6) és (8) bekezdése alapján az eljárás felfüggesztése,
+- e) intézkedés eljárási cselekmény elvégzése iránt (268. §),
+- f) tárgyalás kitűzése és elhalasztása [278. § és 275. § (2) bekezdése],
+- g) idézés és értesítés (279–280. §).
+
 ### A tanács elnökének jogköre
 
 274. § (1) A tanács elnöke határoz azokban a kérdésekben, amelyek a 273. § (3) bekezdése alapján nem tartoznak a bíróság tanácsának jogkörébe, illetőleg amelyről a 273. § (4) bekezdése alapján nem a bíróság tanácsa határozott.
@@ -3384,7 +3403,7 @@ ellen.
 
 ### Határozat a tárgyalás előkészítése után
 
-275. § (1) A tárgyalás előkészítésének befejezése, illetőleg a tárgyalás kitűzése után – ha szükséges – a 267. és a 269. §-ban szabályozott kérdésekben a bíróság tanácsülésen, a 264., 265., 266., 268., 270., 270/A. és 271. §-ban szabályozott kérdésekben a tanács elnöke határoz.
+275. § (1) A tárgyalás előkészítésének befejezése, vagy a tárgyalás kitűzése után – ha szükséges – a 267. és a 269. §-ban szabályozott kérdésekben a bíróság tanácsülésen, a 264., 265., 266., 268., 270., 270/A. és 271. §-ban szabályozott kérdésekben a tanács elnöke vagy – ha e törvény lehetővé teszi – bírósági titkár határoz.
 
 (2) A tanács elnöke a kitűzött tárgyalást fontos okból elhalaszthatja. Ha a tárgyaláson védő részvétele kötelező, és a meghatalmazott védő a helyettesítéséről nem gondoskodik, illetve a vádlott más védőt nem hatalmaz meg, a bíróság helyettes védőt jelöl ki, illetve új védőt rendel ki.
 
@@ -5278,6 +5297,8 @@ esetén.
 
 (3) Az ügyész nyomozást rendelhet el, ha a vád képviseletét a személyes meghallgatásra idézés [502. § (1) bek.] kibocsátása előtt átveszi.
 
+(4) A 499. § (1) és (2) bekezdése szerinti határozatot bírósági titkár is meghozhatja.
+
 500. § (1) A bíróság által elrendelt nyomozás elvégzése után az iratokat a bíróságnak vissza kell küldeni.
 
 (2) Ha az ismeretlen elkövető kiléte a nyomozás adatai alapján sem volt megállapítható, erről a nyomozást elrendelő bíróságot értesíteni kell.
@@ -5802,11 +5823,11 @@ az ügyész vádat emel.
 
 ### A tárgyalás folytonossága
 
-554/L. § (1) Elnapolás esetében a tárgyalás folytatásának napját ki kell tűzni, kivéve, ha – az elnapolás okára tekintettel – kétséges, hogy a tárgyalást két hónapon belül folytatni lehet.
+554/L. § (1) Elnapolás esetében a tárgyalás folytatásának napját ki kell tűzni, kivéve, ha – az elnapolás okára tekintettel – kétséges, hogy a tárgyalást három hónapon belül folytatni lehet.
 
-(2) A tárgyalást két hónapon belül ismétlés nélkül lehet folytatni, ha a tanács összetételében nem történt változás; egyébként a tárgyalást elölről kell kezdeni.
+(2) A tárgyalást három hónapon belül ismétlés nélkül lehet folytatni, ha a tanács összetételében nem történt változás; egyébként a tárgyalást elölről kell kezdeni.
 
-(3) Ha a hivatásos bíró vagy az ülnök személyében változás történt, a tárgyalás két hónapon belül a tárgyalás anyagának ismertetésével is megismételhető. A tárgyalás anyagának ismertetése után figyelmeztetni kell az ügyészt, a vádlottat és a védőt arra, hogy az ismertetésre észrevételt tehet, és az ismertetés kiegészítését kérheti. A figyelmeztetést és az észrevételt jegyzőkönyvbe kell foglalni.
+(3) Ha a hivatásos bíró vagy az ülnök személyében változás történt, a tárgyalás három hónapon belül a tárgyalás anyagának ismertetésével is megismételhető. A tárgyalás anyagának ismertetése után figyelmeztetni kell az ügyészt, a vádlottat és a védőt arra, hogy az ismertetésre észrevételt tehet, és az ismertetés kiegészítését kérheti. A figyelmeztetést és az észrevételt jegyzőkönyvbe kell foglalni.
 
 ### A vádlott kihallgatása
 
@@ -6215,7 +6236,7 @@ I. a nyomozást azért szüntették meg, mert
 
 (2) A kérelemről, ha azt a terhelt az ügydöntő határozat jogerőre emelkedését követően nyomban előterjesztette, az ügydöntő határozatot hozó bíróság dönt, a határozatát indokolni köteles.
 
-(3) A terhelt később előterjesztett kérelmének elbírálására a különleges eljárások szabályait (XXIX. Fejezet) kell alkalmazni.
+(3) A terhelt később előterjesztett kérelmének elbírálására a különleges eljárások szabályait (XXIX. Fejezet) kell alkalmazni. A kérelemről bírósági titkár is határozhat.
 
 (4) A pénzbüntetés, a rendbírság és az államot illető bűnügyi költség tekintetében a halasztás, illetőleg a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye fellebbezésnek.
 

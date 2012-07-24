@@ -474,7 +474,7 @@ vonatkozó részletes szabályokat.
 
 (7)–(8)
 
-32. § (1) A miniszter 2012. december 31-ig
+32. § (1) A miniszter 2013. december 31-ig
 
 - a) felülvizsgálja a névjegyzékben szereplő igazságügyi szakértők névjegyzékbe vétele feltételeinek fennállását,
 - b)

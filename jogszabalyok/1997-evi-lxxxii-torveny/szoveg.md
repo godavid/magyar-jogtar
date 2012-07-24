@@ -1871,7 +1871,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 100. § A magánnyugdíjrendszer működését az állam a Pénzügyi Szervezetek Állami Felügyelete útján felügyeli.
 
-101. § A pénztárak törvényességi felügyeletét az ügyészség a rá irányadó szabályok szerint, felügyeletét a Pénzügyi Szervezetek Állami Felügyelete látja el.
+101. § A pénztárak működésének törvényességi ellenőrzését az ügyészség a rá irányadó szabályok szerint, felügyeletét a Pénzügyi Szervezetek Állami Felügyelete látja el.
 
 ### A Felügyelet jogállása és feladatköre
 
