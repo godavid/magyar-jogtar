@@ -3037,6 +3037,8 @@ feltéve, hogy a korábbi pályázati eljárásban nem jelentkezett olyan pály�
 
 (17) A nyolc évfolyamnál kevesebb évfolyammal működő általános iskola fenntartója számára 2007-ben, illetve 2008-ban határozott időre kiadott továbbműködési engedély érvényességi ideje három évvel meghosszabbodik.
 
+(18) Ha a nemzeti köznevelésről szóló törvény szerinti mindennapos testnevelés megszervezése érdekében a 2012/2013. tanévet megelőzően a pedagógiai program módosítása válik szükségessé, az iskolák a pedagógiai programjukat szakértő igénybevétele nélkül felülvizsgálhatják, és nincs szükség fenntartói jóváhagyásra sem. A szakképző iskolák a szakképzésről szóló törvény 92. § (27) bekezdésében meghatározott szakképzési tantervi ajánlás alapján a pedagógiai programot vagy annak kiegészítését szakértő igénybevétele nélkül felülvizsgálhatják, és nincs szükség fenntartói jóváhagyásra sem.
+
 133. § (1) A 2006. évi LXXI. törvény 1. §-ával megállapított Kt. 8. § (3) bekezdésének harmadik mondata alapján az ötödik évfolyamon első ízben a 2008/2009. tanévben kell megszervezni az oktatást. Ehhez az általános iskoláknak a helyi tantervüket 2007. szeptember 30-ig szükség szerint át kell dolgozni és megküldeni jóváhagyás céljából a fenntartónak. A helyi tanterv jóváhagyásához szakértő igénybevételére nincs szükség.
 
 (2)–(3)
@@ -3895,9 +3897,9 @@ Az osztályok, csoportok szervezése
 
 6. Az iskola összes gyakorlati képzésre fordított kötelező tanítási órája, szakközépiskolai és szakiskolai gyakorlati képzés esetén az előírtnál kisebb létszámú három–hat tanulóból álló csoportban szervezhető meg, ha a szakképzés központi programja (tanterve) szerint a gyakorlati képzés kislétszámú foglalkoztatást igényel. A szakképzés központi programjának (tantervének) kiadásakor a kislétszámú foglalkoztatás meghatározásához be kell szerezni az államháztartásért felelős miniszter egyetértését. A gyakorlati képzésre szervezett csoportok kötelező tanórai foglalkozásának időkeretét csoportonként külön-külön kell számítani.
 
-7. Az óvodai csoportra, iskolai osztályra, kollégiumi csoportra megállapított maximális létszámot legfeljebb húsz százalékkal átlépheti a nevelési év, illetőleg a tanítási év indításánál, ha az óvodában legfeljebb két óvodai csoport, illetőleg az iskolában az adott évfolyamon legfeljebb két iskolai osztály, a kollégiumban két kollégiumi csoport indul; továbbá függetlenül az indított osztályok, csoportok számától, akkor is, ha a nevelési év, tanítási év során az új gyermek, tanuló átvétele, felvétele miatt indokolt.
+7. Az óvodai csoportra, iskolai osztályra, kollégiumi csoportra megállapított maximális létszámot – a fenntartó engedélyével – legfeljebb húsz százalékkal átlépheti.
 
-8. Az I. részben meghatározott maximális létszám, illetve a II. rész 7. pontjában meghatározottak szerint számított maximális létszám tíz százalékkal túlléphető, ha az oktatásszervezési okok miatt indokolt, továbbá az intézkedéssel az óvodaszék, iskolaszék, kollégiumi szék, az óvodai, iskolai, kollégiumi szülői szervezet (közösség) és az iskolai, kollégiumi diákönkormányzat egyetért.
+8. Az I. részben meghatározott maximális létszám, illetve a II. rész 7. pontjában meghatározottak szerint számított maximális létszám tíz százalékkal – a fenntartó engedélyével – túlléphető, ha az oktatásszervezési okok miatt indokolt, továbbá az intézkedéssel az óvodaszék, iskolaszék, kollégiumi szék, az óvodai, iskolai, kollégiumi szülői szervezet (közösség) és az iskolai, kollégiumi diákönkormányzat egyetért.
 
 9. Felnőttoktatásban a levelező vagy más sajátos formában folyó oktatás esetén az osztályok maximális létszámára megállapított rendelkezéseket nem kell alkalmazni.
 
