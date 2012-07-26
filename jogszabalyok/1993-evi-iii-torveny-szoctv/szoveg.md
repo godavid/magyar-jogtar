@@ -73,7 +73,7 @@ meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és te
 - g) szociális szolgáltató: az a személy vagy szervezet, amely kizárólag a 60–65/E. §-ban meghatározott szociális alapszolgáltatásokat nyújtja. Ha jogszabály másként nem rendelkezik, a szociális szolgáltatókra a szociális intézményekre vonatkozó szabályokat kell megfelelően alkalmazni;
 - h) szociális intézmény: az e törvényben meghatározott nappali, illetve bentlakásos ellátást nyújtó szervezet;
 - i) rendszeres pénzellátás: a táppénz, a terhességi-gyermekágyi segély, a gyermekgondozási díj, az öregségi nyugdíj, a korhatár előtti ellátás, a szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, a rokkantsági nyugdíj, a rehabilitációs járadék, a megváltozott munkaképességű személyek ellátásai, az öregségi járadék, a munkaképtelenségi járadék, az özvegyi járadék, a növelt összegű öregségi, munkaképtelenségi és özvegyi járadék, az özvegyi nyugdíj – kivéve az ideiglenes özvegyi nyugdíjat, továbbá a házastársa jogán árvaellátásra jogosult fogyatékkal élő, illetve tartósan beteg vagy legalább két árvaellátásra jogosult gyermek eltartásáról gondoskodó személy özvegyi nyugdíját –, a baleseti táppénz, a baleseti rokkantsági nyugdíj, a hozzátartozói baleseti nyugellátás, az Flt. alapján folyósított pénzbeli ellátás, az átmeneti járadék, a rendszeres szociális járadék, a bányászok egészségkárosodási járadéka, a rokkantsági járadék, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a gyermekgondozási segély, a gyermeknevelési támogatás, az időskorúak járadéka, a rendelkezésre állási támogatás, a bérpótló juttatás, foglalkoztatást helyettesítő támogatás,, a rendszeres szociális segély, az ápolási díj, a nemzeti helytállásért elnevezésű pótlék, a közszolgálati járadék, valamint az uniós rendeletek alapján külföldi szerv által folyósított egyéb azonos típusú ellátás;
-- j) keresőtevékenység, ha e törvény másként nem rendelkezik: minden olyan munkavégzéssel járó tevékenység, amelyért ellenérték jár, kivéve a tiszteletdíj alapján végzett tevékenységet, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát nem haladja meg, valamint mezőgazdasági őstermelői igazolvánnyal folytatott tevékenységet, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál nem kell figyelembe venni; nem minősül ellenértéknek a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatás;
+- j) keresőtevékenység: ha e törvény másként nem rendelkezik, minden olyan munkavégzéssel járó tevékenység, amelyért ellenérték jár, kivéve a tiszteletdíj alapján végzett tevékenységet, ha a havi tiszteletdíj mértéke a kötelező legkisebb munkabér 30 százalékát nem haladja meg, valamint a mezőgazdasági őstermelői igazolvánnyal folytatott tevékenységet, ha az abból származó bevételt a személyi jövedelemadóról szóló szabályok szerint a jövedelem kiszámításánál nem kell figyelembe venni; nem minősül ellenértéknek a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatás, valamint a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel;
 - k) aktív korú: a 18. életévet betöltött, de a reá irányadó nyugdíjkorhatárt, illetőleg a 62. életévet be nem töltött személy ;
 - l) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van;
 - m) fenntartó:
@@ -97,7 +97,8 @@ ha az e törvényben és más jogszabályokban meghatározott feltételek szerin
 - 6. a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatás,
 - 7. az alkalmi munkavállalói könyvvel történő munkavégzésnek, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzésnek, valamint a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (a továbbiakban: háztartási munka) a havi ellenértéke,
 - 8. a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíj,
-- 9. az energiafelhasználáshoz nyújtott támogatás.
+- 9. az energiafelhasználáshoz nyújtott támogatás,
+- 10. a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel.
 
 (1b) Az (1) bekezdés a) pontjának alkalmazásában elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
 
@@ -524,7 +525,8 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 - f) katonai szolgálatot teljesít,
 - g) közoktatási, illetőleg felsőoktatási intézményben nappali oktatás munkarendje szerint tanulmányokat folytat, vagy
 - h) az Flt. szerint képzési támogatásként keresetpótló juttatásban részesül,
-- i) a megváltozott munkaképességű személyek ellátásában részesül.
+- i) a megváltozott munkaképességű személyek ellátásában részesül,
+- j) az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló törvény szerint felzárkózást elősegítő megélhetési támogatásban részesül.
 
 (2) Meg kell szüntetni az aktív korúak ellátására való jogosultságát annak a személynek,
 
@@ -576,7 +578,7 @@ a foglalkoztatást helyettesítő támogatás folyósítása szünetel.
 
 - a) egészségkárosodott személynek minősül, vagy
 - b) a rá irányadó nyugdíjkorhatárt öt éven belül betölti, vagy
-- c) 14 éven aluli kiskorú gyermeket nevel – feltéve, hogy a családban élő gyermekek valamelyikére tekintettel más személy nem részesül a Cst. szerinti gyermekgondozási támogatásban, vagy gyermekgondozási díjban, terhességi-gyermekágyi segélyben – és a gyermek ellátását napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.] nem tudják biztosítani, vagy
+- c) 14 éven aluli kiskorú gyermeket nevel – feltéve, hogy a családban élő gyermekek valamelyikére tekintettel más személy nem részesül a Cst. szerinti gyermekgondozási támogatásban, vagy gyermekgondozási díjban, terhességi-gyermekágyi segélyben – és a gyermek ellátását napközbeni ellátást biztosító intézményben [Gyvt. 41. § (3) bek.], illetve nyári napközis otthonban, óvodában vagy iskolai napköziben nem tudják biztosítani, vagy
 - d) a települési önkormányzat rendeletében az aktív korúak ellátására jogosult személyek családi körülményeire, egészségi vagy mentális állapotára tekintettel meghatározott egyéb feltételeknek megfelel,
 
 rendszeres szociális segélyre jogosult.
@@ -1076,7 +1078,7 @@ nem haladja meg, és családjának vagyona nincs.
 (2) Az (1) bekezdés alkalmazása során adósságnak minősül a lakhatási költségek körébe tartozó
 
 - a) közüzemi díjtartozás (vezetékes gáz-, áram-, távhő-szolgáltatási, víz- és csatornahasználati, szemétszállítási, több lakást tartalmazó lakóépületeknél, háztömböknél központi fűtési díjtartozás),
-- b) közösköltség-hátralék,
+- b) közösköltség-hátralék, valamint az épület- és fűtéskorszerűsítéssel járó külön költség hátralék,
 - c) a lakbérhátralék,
 - d) a hitelintézettel kötött lakáscélú kölcsönszerződésből, illetve abból átváltott szabad felhasználású kölcsönszerződésből fennálló hátralék.
 
@@ -1216,7 +1218,7 @@ nyújtja.
 
 - a) az új szociális szolgáltató, intézmény,
 - b) házi segítségnyújtásnál az új ellátotti létszám,
-- c) nappali és – a külső férőhelyek kivételével – szakosított ellátásnál az új férőhelyek után az állami, egyházi és nem állami fenntartó normatív állami hozzájárulásra, feladatfinanszírozásra való jogosultságának további feltétele a szociális szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadás.
+- c) nappali és – a külső és az időszakos férőhelyek kivételével – szakosított ellátásnál az új férőhelyek után az állami, egyházi és nem állami fenntartó normatív állami hozzájárulásra, feladatfinanszírozásra való jogosultságának további feltétele a szociális szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadás.
 
 (2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, ellátotti létszámnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó 2011. december 31-én nem rendelkezett jogerős működési engedéllyel és a szociális szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe nem nyert még befogadást, valamint 2012. július 1-jétől a nem állami fenntartású házi segítségnyújtás – ide nem értve az egyházi fenntartású házi segítségnyújtást – esetében a 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszám.
 
@@ -1227,7 +1229,18 @@ nyújtja.
 - a) több mint felének hozzájáruló nyilatkozata kell, feltéve, hogy ezen települések együttes lakosságszáma meghaladja az összlakosságszám 60%-át, vagy
 - b) több mint 60%-ának hozzájáruló nyilatkozata kell, feltéve, hogy ezen települések együttes lakosságszáma meghaladja az összlakosságszám felét.
 
-(2d) A (2a) bekezdés szerinti esetben – ide nem értve a (2b) bekezdés szerinti nem állami fenntartású házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszámát – a normatív hozzájárulás a külön jogszabály szerinti finanszírozási rendszerbe történő befogadás nélkül is jár, ha a változás a működési engedély módosítását nem teszi szükségessé.
+(2d) A (2a) bekezdés szerinti esetben – ide nem értve a (2b) bekezdés szerinti nem állami fenntartású házi segítségnyújtás 2011. december 31-én ellátási szerződéssel nem érintett ellátotti létszámát – a normatív hozzájárulás a külön jogszabály szerinti finanszírozási rendszerbe történő befogadás nélkül is jár, ha
+
+- a) a változás a működési engedély módosítását nem teszi szükségessé,
+- b) a kérelem benyújtását megelőzően is létezett férőhelyet demens betegek bentlakásos intézményi ellátására minősítik át,
+- c) a működési engedély módosítását kizárólag fenntartóváltás teszi szükségessé.
+
+(2e) A külön jogszabály szerinti finanszírozási rendszerbe a rendelkezésre álló kapacitástól függetlenül be kell fogadni
+
+- a) az állami vagy önkormányzati kötelező feladatot ellátó állami fenntartót,
+- b) azt a szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amelyre nézve a fenntartó pályázati úton elnyert európai uniós vagy hazai fejlesztési támogatásban részesül,
+- c) azt a kérelem benyújtását megelőzően is érvényes működési engedélyben feltüntetett szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amely esetében a működési engedély módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás vagy átmeneti és tartós ellátást nyújtó férőhelyek egymás közti átminősítése teszi szükségessé,
+- d) 2012. évre vonatkozóan az igénylésben megjelölt időponttól, illetve ha a működési engedélyben ennél későbbi időpont szerepel, az abban megjelölt időponttól kezdődően azt a szolgáltatást, intézményt, ellátotti számot, férőhelyszámot, amelyre a helyi önkormányzat, illetve a társulás a normatív hozzájárulások és támogatások iránti igényét 2011. év során a jogszabályoknak megfelelően benyújtotta.
 
 (3) Szociális szövetkezet nem nyújthat az 57. § (2) bekezdése szerinti személyes gondoskodást.
 
@@ -1423,7 +1436,7 @@ miatt.
 
 65/E. § (1) Az utcai szociális munka keretében biztosítani kell az utcán tartózkodó hajléktalan személy helyzetének, életkörülményeinek figyelemmel kísérését, szükség esetén ellátásának kezdeményezését, illetve az ellátás biztosításához kapcsolódó intézkedés megtételét.
 
-(2) A szociál- és nyugdíjpolitikáért felelős miniszter pályázat útján regionális illetékességgel diszpécserközpontokat jelöl ki az utcai szociális munkát végző, külön jogszabályban meghatározott feltételeknek megfelelő szervezetek közül. A kijelölés öt évre szól, amelynek leteltét követően új pályázat kiírására kerül sor.
+(2) A szociál- és nyugdíjpolitikáért felelős miniszter pályázat útján regionális illetékességgel diszpécserközpontokat jelöl ki az utcai szociális munkát végző, külön jogszabályban meghatározott feltételeknek megfelelő szervezetek közül. A kijelölés öt évre szól, amelynek leteltét megelőzően három hónappal új pályázat kiírására kerül sor.
 
 ### Nappali ellátás
 
@@ -2485,7 +2498,7 @@ köteles megfizetni [az a)–e) pont alattiak a továbbiakban együtt: köteleze
 
 (8) A személyi térítési díj felülvizsgálata során a (4) bekezdés rendelkezéseit értelemszerűen alkalmazni kell.
 
-(9) A szolgáltatási önköltséget a tárgyévre tervezett adatok alapján, a tárgyév április 1-jéig kell megállapítani. A szolgáltatási önköltség év közben egy alkalommal korrigálható, ha azt a tárgyidőszaki folyamatok indokolják. Ha a szolgáltatás az előző évben nem működött, az önköltség számításának alapjául a tárgyévre tervezett költségeket kell figyelembe venni.
+(9) A szolgáltatási önköltséget a tárgyévre tervezett adatok alapján, a tárgyév április 1-jéig kell megállapítani. A szolgáltatási önköltség év közben egy alkalommal korrigálható, ha azt a tárgyidőszaki folyamatok indokolják.
 
 (10) A fenntartó az intézményi térítési díjat az (1) bekezdés szerint kiszámított és külön jogszabály szerint dokumentált térítési díjnál alacsonyabb összegben is meghatározhatja.
 
@@ -2560,7 +2573,7 @@ nyújtó intézmények esetén.
 
 117/B. § (1) Az ellátást igénylő, az ellátott vagy a térítési díjat megfizető más személy írásban vállalhatja a mindenkori intézményi térítési díjjal azonos személyi térítési díj megfizetését. Ebben az esetben a 116. § (1) és (3) bekezdésében, valamint a 117. §-ban és a 117/A. § (1)–(2) bekezdésében foglaltakat nem kell alkalmazni, továbbá nem kell elvégezni a 119/C. §-a szerinti jövedelemvizsgálatot, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő érintett ne kerüljön előnyösebb helyzetbe, mint ha a vállalást ő vagy a térítési díjat megfizető más személy nem tenné meg.
 
-(2) Az ellátást igénylő, az ellátott vagy a térítési díjat megfizető más személy írásban vállalhatja a mindenkori intézményi térítési díj és a számára megállapítható személyi térítési díj különbözete egy részének megfizetését. Ebben az esetben a 116. § (1) és (3) bekezdésében, a 117. §-ban, valamint a 117/A. § (1) és (2) bekezdésében foglaltakat nem kell alkalmazni, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő érintett ne kerüljön előnyösebb helyzetbe, mint ha a vállalást ő vagy a térítési díjat megfizető más személy nem tenné meg.
+(2) Az ellátást igénylő, az ellátott vagy a térítési díjat megfizető más személy írásban vállalhatja a mindenkori intézményi térítési díj és a számára megállapítható személyi térítési díj különbözete egy részének megfizetését. Ebben az esetben a 116. § (3) bekezdésében, a 117. §-ban, valamint a 117/A. § (1) és (2) bekezdésében foglaltakat nem kell alkalmazni, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő érintett ne kerüljön előnyösebb helyzetbe, mint ha a vállalást ő vagy a térítési díjat megfizető más személy nem tenné meg.
 
 118. § Amennyiben az intézményi elhelyezést a gyámhivatal határozata alapozza meg, a kiskorú ellátott után térítési díj fizetésének kötelezettsége nem írható elő. A gyámhivatal határozatában megállapított gondozási díjat – a külön jogszabályban meghatározott feltételek és eljárás alapján – a szociális intézmény részére kell átutalni.
 
@@ -2694,12 +2707,7 @@ nyújtó intézmények esetén.
 
 (5)
 
-(6) Az önkormányzat a központi költségvetés részére a költségviselés arányában visszafizeti
-
-- a) a jogosulatlanul, illetve rosszhiszeműen igénybe vett pénzbeli szociális ellátás [17. § (1) bekezdés a) pontja]
-- b)
-
-megtérítésével befolyt összeget.
+(6)
 
 125. § A települési önkormányzat által megállapított és folyósított pénzbeli és természetben nyújtott ellátások kiadásaihoz, továbbá a közcélú foglalkoztatás költségeihez, valamint a helyi önkormányzatok, illetve társulásaik által fenntartott szociális szolgáltatók és intézmények működési költségeihez az állam – a központi költségvetési törvényben foglaltak szerint –
 
@@ -2902,6 +2910,8 @@ kell elvégezni.
 
 - a) a 2011. december 31-én fennállt közgyógyellátásra való jogosultságát 2011. december 31-ét követően arra tekintettel szüntették meg, vagy
 - b) a közgyógyellátás megállapítása iránt benyújtott kérelmét 2011. december 31-ét követően arra tekintettel utasították el, hogy részére öregségi nyugdíjat állapítottak meg, a jogosultságot megszüntető vagy a kérelmet elutasító döntést a jegyző a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 2012. évi XXXIV. törvény hatálybalépését követő harminc napon belül hivatalból felülvizsgálja.
+
+140/O. § Az 58/A. § (2e) bekezdés d) pontja szerinti esetben – amennyiben a hatálybalépésig az eljárás jogerősen lezárult – a működési engedély módosítása iránt új kérelmet kell benyújtani.
 
 ### Az Európai Unió jogának való megfelelés
 
