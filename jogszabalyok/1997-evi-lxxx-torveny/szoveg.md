@@ -548,13 +548,14 @@ Tbj. 39/A. § (1) A 39. § (2) bekezdésében meghatározott járulékfizetési 
 
 ### V. Fejezet — TÁRSADALOMBIZTOSÍTÁSI NYILVÁNTARTÁSOK
 
-Tbj. 40. § A társadalombiztosítási rendszerek és a magánnyugdíjrendszer hatékony működésének biztosítása céljából az a)–c) pont szerinti nyilvántartások tartalmazzák a befizetések nyilvántartását, beszedését és az ellátások megállapításához szükséges e törvény szerinti adatokat
+Tbj. 40. § A társadalombiztosítási rendszerek hatékony működésének biztosítása céljából az a)–d) pont szerinti nyilvántartások tartalmazzák a befizetések nyilvántartását, beszedését és az ellátások megállapításához szükséges e törvény szerinti adatokat
 
 - a) a nyugdíj-biztosítási nyilvántartás adatkezelője a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
-- b) az egészségbiztosítási nyilvántartás adatkezelője az egészségbiztosítási szerv,
-- c) a járulék bevallását, befizetését, végrehajtását tartalmazó nyilvántartás adatkezelője az állami adóhatóság.
+- b) az egészségbiztosítási nyilvántartás – ide nem értve a d) pont szerinti nyilvántartást – adatkezelője az egészségbiztosítási szerv,
+- c) a járulék bevallását, befizetését, végrehajtását tartalmazó nyilvántartás adatkezelője az állami adóhatóság,
+- d) a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás adatkezelője a rehabilitációs hatóság.
 
-Tbj. 40/A. § A nyugdíj-biztosítási nyilvántartás és az egészségbiztosítási nyilvántartás adatkezelője a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól az adatkezelő irányítására kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
+Tbj. 40/A. § A nyugdíj-biztosítási nyilvántartás az egészségbiztosítási nyilvántartás és a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás adatkezelője a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól az adatkezelő irányítására kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
 
 Tbj. 41. § (1) A 40. §-ban említett nyilvántartások tartalmazzák a foglalkoztatók és a biztosítottak törvényben előírt kötelezettségei teljesítésével szolgáltatott mindazon adatot, amelyből biztosítottanként megállapítható a társadalombiztosítási, egészségbiztosítási- és munkaerő-piaci, valamint nyugdíjjárulék-alapot képező jövedelem, a biztosított után megfizetett, illetőleg a tőle levont egészségbiztosítási járulék és nyugdíjjárulék összege, a biztosítási jogviszony időtartama, valamint a biztosítottat megillető ellátások megállapításához szükséges adat.
 
@@ -599,6 +600,7 @@ Tbj. 43. § (1) A 42. § (1) bekezdés alapján nyilvántartásba vett adatokbó
 - g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából az a)–e) és g) pontjai
 - h) a köztartozás behajtására törvény által felhatalmazott szervek e tevékenységük ellátása céljából az a)–d) és f) pontban foglaltak
 - i) a szociális hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben a g) pont
+- j) az állami foglalkoztatási szerv rehabilitációs szolgáltatás nyújtása és a rehabilitációs célú munkaközvetítésben való közreműködés céljából az a)–g) pont
 
 szerinti adatok igénylésére jogosultak.
 
@@ -888,8 +890,6 @@ Tbj. 58. § (1) A Kormány felhatalmazást kap arra, hogy rendeletben szabályoz
 Tbj. 59. §
 
 Tbj. 60. §
-
-### Az Európai Unió jogának való megfelelés
 
 Tbj. 61. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

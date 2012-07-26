@@ -365,7 +365,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 32. § (1) Az okiratnak – ahhoz, hogy az ingatlan-nyilvántartási bejegyzés alapjául szolgálhasson – tartalmaznia kell:
 
 - a) az ügyfél természetes személyazonosító adatait, lakcímét és személyi azonosítóját,
-- b) a statisztikai számjellel rendelkező szervezet megnevezését, statisztikai azonosítóját, székhelyét, a bírósági, illetőleg cégbírósági bejegyzésének számát,
+- b) a statisztikai számjellel rendelkező szervezet megnevezését, statisztikai azonosítóját, székhelyét, a bírósági, illetőleg cégbírósági bejegyzésének számát, egyház és belső egyházi jogi személy esetében nyilvántartási számát,
 - c) az érintett ingatlan pontos megjelölését (település neve, helyrajzi szám) és a bejegyzéssel érintett tulajdoni hányadot,
 - d) a jog vagy tény pontos megjelölését,
 - e) a jogváltozás jogcímét,
@@ -432,7 +432,9 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 kell csatolnia.
 
-(5) Ha a (3) bekezdés szerinti okirat valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, az újabb kérelemben elegendő – az iktatószámra való hivatkozással – a korábbi benyújtásra és arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratok a bejegyzés, feljegyzés, illetve az adatváltozás átvezetése iránti kérelem ingatlanügyi hatósághoz történő benyújtásának időpontjában a képviseleti jogosultság vonatkozásában változást nem tartalmaznak.
+(4) A (3) bekezdéstől eltérően az egyháznak és az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró belső egyházi jogi személynek a bejegyzési kérelemhez csatolnia kell a nyilvántartásba vétel megtörténtét, valamint a képviseleti jogosultságot igazoló, az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter által – a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerint vezetett nyilvántartásból – kiállított hatósági bizonyítvány 30 napnál nem régebbi eredeti vagy közjegyző által hitelesített másolati példányát.
+
+(5) Ha a (3) és (4) bekezdés szerinti okirat valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, az újabb kérelemben elegendő – az iktatószámra való hivatkozással – a korábbi benyújtásra és arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratok a bejegyzés, feljegyzés, illetve az adatváltozás átvezetése iránti kérelem ingatlanügyi hatósághoz történő benyújtásának időpontjában a képviseleti jogosultság vonatkozásában változást nem tartalmaznak.
 
 38. §
 

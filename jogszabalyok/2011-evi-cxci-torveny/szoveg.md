@@ -19,7 +19,7 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
 - 7. munkaadó: az Flt. 58. § (5) bekezdés c) pontja szerinti munkaadó;
 - 8. öregségi nyugdíjkorhatár: a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (1) bekezdése szerinti öregségi nyugdíjkorhatár;
 - 9. rehabilitáció: orvosi, szociális, képzési, foglalkoztatási és egyéb tevékenységek komplex rendszere, amelynek célja a megváltozott munkaképességű személy munkaerő-piaci integrációja, megfelelő munkahelyen történő foglalkoztatásra való felkészítése, továbbá a munkaképességének megfelelő munkahelyen történő elhelyezés biztosítása;
-- 10. rendszeres pénzellátás: a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátások, ide nem értve a hadigondozottak és nemzeti gondozottak ellátásait, a nemzeti helytállásért elnevezésű pótlékot, az ápolási díjat, a Tny. szerinti hozzátartozói nyugellátásokat, valamint a szociális biztonsági tárgyú nemzetközi egyezmények, továbbá az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátásokat.
+- 10. rendszeres pénzellátás: a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátások, ide nem értve a hadigondozottak és nemzeti gondozottak ellátásait, a nemzeti helytállásért elnevezésű pótlékot, az ápolási díjat, a Tny. szerinti hozzátartozói nyugellátásokat, a gyermekgondozási segélyt, valamint a szociális biztonsági tárgyú nemzetközi egyezmények, továbbá az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátásokat.
 
 #### 2. A megváltozott munkaképességű személyek ellátásai
 
@@ -38,6 +38,7 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
 
 - a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, gyermekgondozási díj, álláskeresési támogatás folyósításának az idejét,
 - b) a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai és megváltozott munkaképességű személyek ellátása folyósításának idejét.
+- c) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a Tbj. 34. §-a szerint kötött megállapodás alapján szerzett szolgálati időt, amennyiben a megállapodást 2011. december 31-éig megkötötték.
 
 3. § (1) A megváltozott munkaképességű személyek ellátásai a rehabilitációs hatóság komplex minősítése keretében megállapított rehabilitációs javaslattól függően:
 
@@ -64,7 +65,7 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
 - a) akinek a foglalkoztathatósága rehabilitációval helyreállítható, vagy
 - b) aki tartós foglalkozási rehabilitációt igényel
 
-és a kérelem benyújtásának időpontjában az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam az 5 évet nem haladja meg.
+és a kérelem benyújtásának, vagy a felülvizsgálat időpontjában az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam az 5 évet nem haladja meg.
 
 #### 3. A rehabilitációs ellátás
 
@@ -216,16 +217,27 @@ vonatkozó adatokat.
 
 18. § (1) A rokkantsági és a rehabilitációs pénzbeli ellátást a Kormány által kijelölt szerv folyósítja az Egészségbiztosítási Alap rokkantsági, rehabilitációs ellátások előirányzatának terhére. Az állam az e törvényben meghatározott ellátások teljesítését akkor is biztosítja, ha az ahhoz szükséges kiadások az Egészségbiztosítási Alapból nem fedezhetők.
 
-(2) Az Egészségbiztosítási Alap pénzeszközeinek hatékony felhasználása érdekében, ha a tényállás tisztázott, a megváltozott munkaképességű személyek ellátását megállapító és megszüntető döntés jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánítható, a határozattal szembeni bírósági felülvizsgálati eljárásban nincs helye a határozat végrehajtása felfüggesztésének.
+(2) Az Egészségbiztosítási Alap pénzeszközeinek hatékony felhasználása érdekében, ha a tényállás tisztázott, a megváltozott munkaképességű személyek ellátására való jogosultsággal és az ellátás folyósításával kapcsolatos döntés jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánítható, a határozattal szembeni bírósági felülvizsgálati eljárásban nincs helye a határozat végrehajtása felfüggesztésének.
 
-19. § A rehabilitációs hatóság a komplex minősítés során megállapított körülményekre vonatkozóan felülvizsgálatot végez
+(3) A megállapított rokkantsági és rehabilitációs pénzbeli ellátás visszamenőlegesen járó összegét csökkenteni kell annak a Kormány által kijelölt szerv által folyósított ellátásnak az összegével, amely ugyanarra az időszakra került folyósításra, feltéve, hogy a jogosultat a két ellátás egyidejűleg nem illette volna meg. A beszámítást a Kormány által kijelölt szerv határozattal rendeli el. Ha a visszamenőlegesen járó ellátás összege alacsonyabb, mint a beszámított összeg, a jogalap nélkül felvett különbözetet vissza kell követelni.
+
+19. § (1) A rehabilitációs hatóság a komplex minősítés során megállapított körülményekre vonatkozóan felülvizsgálatot (a továbbiakban: felülvizsgálat) végez
 
 - a) az ellátást megállapító döntésben meghatározott időpontban,
-- b) a rehabilitációs ellátásban részesülő egészségi állapotában történt, a rehabilitációt lehetetlenné tevő tartós rosszabbodás, vagy legalább 30 napi egybefüggő keresőképtelen állapot esetén,
-- c) olyan tényről vagy körülményről történő tudomásszerzés esetén, amely valószínűsíti, hogy a korábbi komplex minősítés során megállapított körülmény a megállapítás időpontjában nem állt fenn, vagy
-- d) célzott vizsgálatok elrendelése esetén.
+- b) az ellátott kérelmére,
+- c) a rehabilitációs ellátásban részesülő egészségi állapotában történt, a rehabilitációt lehetetlenné tevő tartós rosszabbodás vagy legalább 30 napi egybefüggő keresőképtelen állapot esetén,
+- d) olyan tényről vagy körülményről történő tudomásszerzés esetén, amely valószínűsíti, hogy a korábbi komplex minősítés során megállapított körülmény a megállapítás időpontjában nem állt fenn, vagy
+- e) célzott vizsgálatok elrendelése esetén.
+
+(2) Amennyiben a felülvizsgálat során a rehabilitációs hatóság megállapítja, hogy a 3. § (2) bekezdés szerinti minősítési kategória eltér a felülvizsgálatot megelőzően megállapított minősítési kategóriától (a továbbiakban: állapotváltozás), akkor a megváltozott munkaképességű személyek ellátását és annak összegét az új minősítési kategória figyelembevételével, az erről szóló döntést követő második hónap első napjával állapítja meg. Állapotváltozás esetén a megváltozott munkaképességű személyek ellátása összegének megállapítása során havi átlagjövedelemként a korábban alapul vett havi átlagjövedelemnek az évente bekövetkezett fogyasztói árnövekedés mértékével növelt összegét kell figyelembe venni.
+
+(3) Amennyiben a felülvizsgálat során a rehabilitációs hatóság megállapítja, hogy állapotváltozás nem következett be, a korábbi ellátást kell továbbfolyósítani.
 
 20. § A jogosulatlanul felvett rehabilitációs pénzbeli ellátás és rokkantsági ellátás visszafizetésére, a megtérítési kötelezettségre, az ellátások késedelmes kifizetésére, a követelés érvényesítésére, a tartozás elengedésére, mérséklésére és a részletfizetés engedélyezésére – ha jogszabály másként nem rendelkezik – a kötelező egészségbiztosítás ellátásairól szóló törvény rendelkezéseit kell alkalmazni azzal, hogy az egészségbiztosítás pénzbeli ellátásai alatt a megváltozott munkaképességű személyek ellátásait, az egészségbiztosító alatt a rehabilitációs hatóságot kell érteni.
+
+20/A. § (1) A megváltozott munkaképességű személyek ellátásában részesülő halála esetén a fel nem vett pénzbeli ellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki végzés jogerőssé válása napjától számított egy éven belül.
+
+(2) Aki a megváltozott munkaképességű személyek ellátásában részesülő személy halála esetén a kiutalt pénzbeli ellátást jogalap nélkül vette fel, köteles azt visszafizetni.
 
 #### 6. Adatkezelés
 
@@ -242,20 +254,40 @@ vonatkozó adatokat.
   - ah) jövedelmére,
   - ai) keresőképtelenségére,
   - aj) társadalombiztosítási azonosító jelére,
+  - ak) nemére,
+  - al) állampolgárságára, bevándorolt, letelepedett, menekült és oltalmazott jogállására és
+  - am) elhalálozása időpontjára
 - b) az ellátás megállapítására és megszüntetésére, kezdő és befejező időpontjára, és
 - c) a komplex minősítés során megállapított körülményekre
 
 vonatkozó adatokat kezelheti.
 
-(2) A megváltozott munkaképességű személyek ellátásai folyósításának és a megszüntetési ok fennállásának vizsgálata céljából az állami adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény 31. § (2) bekezdése szerinti bevallás alapján az ellátásban részesülő jövedelmére vonatkozó adatokat havonta, a bevallásra előírt határidőt követő hónap utolsó napjáig továbbítja a rehabilitációs hatósághoz.
+(2) A megváltozott munkaképességű személyek ellátásai folyósításának és a megszüntetési ok fennállásának vizsgálata céljából az állami adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény 31. § (2) bekezdése szerinti bevallás alapján az ellátásban részesülő jövedelmére vonatkozó adatokat havonta, a bevallásra előírt határidőt követő hónap utolsó napjáig továbbítja a rehabilitációs hatósághoz. A rehabilitációs hatóság az adóazonosító jelet az e bekezdés, valamint a 14. § (3) bekezdés szerinti adatok átvételével összefüggésben használhatja.
 
-(3) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtás szervei, a katonai igazgatási szerv, a nemzetbiztonsági szolgálatok, az állami adóhatóság, a munkaügyi hatóság, a bányafelügyelet, a szociális hatáskört gyakorló szerv, a gyámügyi feladatokat ellátó szerv, az egészségbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény feladatai ellátása érdekében az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
+(3) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtás szervei, a katonai igazgatási szerv, a nemzetbiztonsági szolgálatok, az állami adóhatóság, a munkaügyi hatóság, az állami foglalkoztatási szerv, a bányafelügyelet, a szociális hatáskört gyakorló szerv, a kincstár, a gyámügyi feladatokat ellátó szerv, az egészségbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, valamint a személyes gondoskodást nyújtó szociális intézmény feladatai ellátása érdekében az (1) bekezdésben meghatározott adatok – törvényben meghatározott célból és feltételek teljesülése esetén történő – igénylésére jogosult. A társadalombiztosítási azonosító jel továbbítására a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezéseit kell alkalmazni.
 
 (4) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, az igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.
 
 (5) Az e törvény felhatalmazása alapján kezelt adatok statisztikai célra felhasználhatók, és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
 (6) Az egészségügyi adatok kezelésére és az adatok védelmére egyebekben az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény rendelkezései az irányadók.
+
+(7) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás Tbj. 42. § (1) bekezdésében meghatározott adatait
+
+- a) a megváltozott munkaképességű személyek ellátása iránti kérelmet elutasító döntés jogerőre emelkedésétől számított 5 évig,
+- b) a megváltozott munkaképességű személyek ellátása megszűnésétől vagy megszüntetésétől számított 10 évig
+
+őrzi meg. Ezt követően az adatokat meg kell semmisíteni.
+
+21/A. § (1) A megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartáshoz hozzáférési jogosultsággal rendelkező személyek (a továbbiakban: felhasználó) nyilvántartása – a hozzáférési jogosultság ellenőrzése céljából – tartalmazza a felhasználó következő adatait:
+
+- a) a természetes személyazonosító adatokat,
+- b) annak a szervnek a megnevezését és székhelyét, amelynek nevében a felhasználói jogát gyakorolja és
+- c) a jogosultságait.
+
+(2) Amennyiben a felhasználó a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartást rendszer-rendszer kapcsolat útján éri el, akkor a rehabilitációs hatóság a kapcsolódó szerv (rendszer) (1) bekezdésben meghatározott adatait tartja nyilván. A felhasználók nyilvántartása egyéb adatainak nyilvántartása a rendszerkapcsolat útján kapcsolódó szerv feladata.
+
+(3) A felhasználó (1) bekezdés szerinti adatait a hozzáférési jogosultság megszűnését követő 5 évig kell megőrizni.
 
 #### 7. A rehabilitációs hozzájárulás és a megváltozott munkaképességű személyek foglalkoztatásának támogatása
 
@@ -285,7 +317,7 @@ vonatkozó adatokat kezelheti.
 - a) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó fegyveres szerv,
 - b) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezet.
 
-(7) A megváltozott munkaképességű munkavállalót foglalkoztató munkaadó a rehabilitációs hozzájárulás megállapítása céljából nyilvántartást vezet, amely tartalmazza a megváltozott munkaképességű munkavállaló természetes személyazonosító adatait, a társadalombiztosítási adóazonosító jelét, a munkaképesség változásának, egészségi állapotának, egészségkárosodásának mértékét, a fogyatékosság tényét, továbbá az ezek igazolására szolgáló okirat másolatát. A nyilvántartást a munkáltató a foglalkoztatás megszűnését követő öt évig köteles megőrizni.
+(7) A megváltozott munkaképességű munkavállalót foglalkoztató munkaadó a rehabilitációs hozzájárulás megállapítása céljából nyilvántartást vezet, amely tartalmazza a megváltozott munkaképességű munkavállaló természetes személyazonosító adatait, a társadalombiztosítási azonosító jelét, a munkaképesség változásának, egészségi állapotának, egészségkárosodásának mértékét, a fogyatékosság tényét, továbbá az ezek igazolására szolgáló okirat másolatát. A nyilvántartást a munkáltató a foglalkoztatás megszűnését követő öt évig köteles megőrizni.
 
 24. § (1) A rehabilitációs hozzájárulást a fizetésére kötelezett munkaadó maga vallja be, állapítja meg, és közvetlenül fizeti be az állami adóhatóságnál vezetett számla javára.
 
@@ -304,6 +336,8 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 26. § A rehabilitációs hatóság komplex minősítése szerinti megváltozott munkaképességű személy külön törvényben meghatározott Rehabilitációs kártyára jogosult, ha a komplex minősítés alapján foglalkoztathatósága rehabilitációval helyreállítható, vagy tartós foglalkozási rehabilitációt igényel.
 
+26/A. § A rehabilitációs hatóság a megváltozott munkaképességű személy kérelmére elvégzi a komplex minősítést, és ennek eredményéről hatósági bizonyítványt állít ki.
+
 #### 8. A foglalkozási rehabilitációs szakértő
 
 27. § (1) Foglalkozási rehabilitációs szakértőként – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – kizárólag az a személy jogosult eljárni, aki
@@ -312,13 +346,15 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 - b) nem áll foglalkozási rehabilitációs szakértői tevékenység folytatását kizáró foglalkozástól eltiltás alatt és
 - c) megfelel a társadalmi esélyegyenlőség előmozdításáért felelős miniszter rendeletében meghatározott egyéb feltételeknek.
 
-(2) Aki az (1) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Kormány által kijelölt szervnek bejelenteni. A bejelentés tartalmazza a bejelentő természetes személyazonosító adatait, valamint annak igazolását, hogy vele szemben kizáró ok nem áll fenn. A Kormány által kijelölt szerv a bejelentés időtartama alatt kezeli az (1) bekezdésben meghatározott feltételek teljesülését alátámasztó adatokat.
+(2) Aki az (1) bekezdés szerint szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Kormány által kijelölt szervnek bejelenteni. A bejelentés tartalmazza a bejelentő természetes személyazonosító adatait, valamint annak igazolását, hogy vele szemben kizáró ok nem áll fenn. A bejelentő hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a foglalkozási rehabilitációs szakértői tevékenység folytatását kizáró foglalkozástól eltiltás alatt, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a Kormány által erre kijelölt szerv részére – annak a bejelentés elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a Kormány által erre kijelölt szerv a (4) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől. A Kormány által kijelölt szerv a bejelentés időtartama alatt kezeli az (1) és (4) bekezdésben meghatározott feltételek teljesülését alátámasztó adatokat.
 
 (3) A Kormány által kijelölt szerv a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást (a továbbiakban: foglalkozási rehabilitációs szakértői névjegyzék) vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza a szakértői tevékenység végzésére jogosult személy elérhetőségét, valamint a végzettségére, képesítésére vonatkozó adatokat. A foglalkozási rehabilitációs szakértői névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 (4) A Kormány által kijelölt szerv a foglalkozási rehabilitációs szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi az (1) bekezdésben meghatározott feltételek teljesülését. A hatósági ellenőrzés céljából a Kormány által kijelölt szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint, hogy a foglalkozási rehabilitációs szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
 (5) A (4) bekezdés alapján megismert személyes adatokat a Kormány által kijelölt szerv a hatósági ellenőrzés lefolytatásáig kezeli.
+
+(6) A Kormány által kijelölt szerv a társadalmi esélyegyenlőség előmozdításáért felelős miniszter rendeletében meghatározottak szerint gondoskodik a foglalkozási rehabilitációs szakértők továbbképzéséről.
 
 #### 9. Záró rendelkezések
 
@@ -328,18 +364,20 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 - b) a komplex minősítésre vonatkozó részletes eljárási szabályokat,
 - c) a rehabilitációs szolgáltatásokra, a rehabilitációval kapcsolatos eljárási szabályokra, az együttműködésre, továbbá a rehabilitációs tervre vonatkozó szabályokat,
 - d) a megváltozott munkaképességű személyeket foglalkoztató munkaadók akkreditációjának és ellenőrzésének szabályait,
-- e) a megváltozott munkaképességű személyek foglalkoztatásához nyújtható bér- és költségtámogatás feltételeit, mértékét, a támogatás megállapításával, folyósításával, nyilvántartásával, megszüntetésével, visszakövetelésével és ellenőrzésével kapcsolatos szabályokat,
+- e) a megváltozott munkaképességű személyek foglalkoztatásához nyújtható bér- és költségtámogatás feltételeit, mértékét, a támogatás megállapításával, folyósításával, nyilvántartásával, megszüntetésével, visszakövetelésével és ellenőrzésével kapcsolatos szabályokat, valamint az európai uniós források felhasználásával nyújtható foglalkoztatást elősegítő támogatások szabályait,
 - f) a rehabilitációs hozzájárulás fizetésének kötelezettsége alóli mentesülés e törvényben nem szabályozott eseteit és részletes feltételeit rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a Kormány, hogy a rehabilitációs hatóságot, a megváltozott munkaképességű személyek ellátásait folyósító szervet, a rehabilitációs szakértői szervet, az orvosszakértői szervet, valamint a foglalkozási rehabilitációs szakértői névjegyzéket vezető szervet rendeletben jelölje ki.
+(2) Felhatalmazást kap a Kormány, hogy a rehabilitációs hatóságot, a megváltozott munkaképességű személyek ellátásait folyósító szervet, a rehabilitációs szakértői szervet, az orvosszakértői szervet, a foglalkozási rehabilitációs szakértői névjegyzéket és a rehabilitációs orvosszakértői névjegyzéket vezető szervet, valamint a foglalkozási rehabilitációs szakértők, rehabilitációs orvosszakértők továbbképzésével kapcsolatos feladatokat ellátó szervet rendeletben jelölje ki.
 
 (3) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben a komplex minősítésre vonatkozó részletes szakmai szabályokat rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a foglalkozási rehabilitációs szakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a foglalkozási rehabilitációs szakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a foglalkozási rehabilitációs szakterületeket, továbbá a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
 
+(4a) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy a rehabilitációs orvosszakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a rehabilitációs orvosszakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a továbbképzésre vonatkozó szabályokat, valamint a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
+
 (5) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályait rendeletben határozza meg.
 
-(6) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben foglalkozási rehabilitációs szakértői névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó szabályokat rendeletben határozza meg.
+(6) Felhatalmazást kap a társadalmi esélyegyenlőség előmozdításáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a foglalkozási rehabilitációs szakértői névjegyzékbe és a rehabilitációs orvosszakértői névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó szabályokat rendeletben határozza meg.
 
 29. § (1) Ez a törvény – a (2)–(6) bekezdésben foglaltak kivételével – 2011. december 31-én lép hatályba.
 
@@ -373,9 +411,9 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 - a) a 2012. január 1-jétől terjedő időszakra rokkantsági ellátást vagy rehabilitációs ellátást kell megállapítani,
 - b) a 2011. december 31-éig terjedő időszakra
   - ba) rendszeres szociális járadékot, átmeneti járadékot kell megállapítani, ha a kérelmező foglalkoztathatósága rehabilitációval helyreállítható, vagy egészségi állapota alapján foglalkoztathatósága rehabilitációval helyreállítható, azonban a komplex minősítés szakmai szabályairól szóló rendeletben meghatározott egyéb körülményei miatt foglalkozási rehabilitációja nem javasolt,
-  - bb) III. csoportos rokkantsági nyugdíjat kell megállapítani, ha a kérelmező tartós foglalkozási rehabilitációt igényel, vagy egészségi állapota alapján tartós foglalkozási rehabilitációt igényel, azonban a komplex minősítés szakmai szabályairól szóló rendeletben meghatározott egyéb körülményei miatt foglalkozási rehabilitációja nem javasolt,
-  - bc) II. csoportos rokkantsági nyugdíjat kell megállapítani, ha a kérelmező kizárólag folyamatos támogatással foglalkoztatható, és
-  - bd) I. csoportos rokkantsági nyugdíjat kell megállapítani, ha a kérelmező egészségkárosodása jelentős és önellátásra nem vagy csak segítséggel képes.
+  - bb) III. csoportos rokkantsági, baleseti rokkantsági nyugdíjat kell megállapítani, ha a kérelmező tartós foglalkozási rehabilitációt igényel, vagy egészségi állapota alapján tartós foglalkozási rehabilitációt igényel, azonban a komplex minősítés szakmai szabályairól szóló rendeletben meghatározott egyéb körülményei miatt foglalkozási rehabilitációja nem javasolt,
+  - bc) II. csoportos rokkantsági, baleseti rokkantsági nyugdíjat kell megállapítani, ha a kérelmező kizárólag folyamatos támogatással foglalkoztatható, és
+  - bd) I. csoportos rokkantsági, baleseti rokkantsági nyugdíjat kell megállapítani, ha a kérelmező egészségkárosodása jelentős és önellátásra nem vagy csak segítséggel képes.
 
 (6) Aki rokkantsági nyugdíj, baleseti rokkantsági nyugdíj mellett 2012. január 1-je előtt a Tny. 22/A. §-a alapján nyugdíjnövelésre jogot szerzett, ezt a jogát a megváltozott munkaképességű személyek ellátása esetén is érvényesítheti az öregségi nyugdíjra vonatkozó szabályok megfelelő alkalmazásával.
 
@@ -403,6 +441,8 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 
 részesülő személy ellátását a Kormány által kijelölt szerv 2012. január 1-jétől rokkantsági ellátásként folyósítja tovább azzal, hogy az ellátás összege megegyezik a 2011. december hónapra járó – az a) és b) pont szerinti esetben a 2012. januári nyugdíjemelés mértékével növelt – ellátás összegével. Az átalakítás nem érinti a soros felülvizsgálati kötelezettséget. A b) és c) pont alkalmazásában az minősül az öregségi nyugdíjkorhatárt 5 éven belül betöltő személynek, aki 2011. december 31-éig az 57. életévét betöltötte.
 
+(1a) Az (1) bekezdés c) és d) pontja szerinti személy ellátása összegének meghatározásakor az özvegyi nyugdíjra tekintettel megállapított csökkentést 2012. szeptember 1-jétől figyelmen kívül kell hagyni. Erről a Kormány által kijelölt folyósító szerv határozatot hoz.
+
 (2) Az (1) bekezdés alapján rokkantsági ellátásban részesülő személy ellátását meg kell szüntetni, ha keresőtevékenységet folytat és a jövedelme 3 egymást követő hónapra vonatkozó havi átlaga meghaladja a minimálbér 150 százalékát. E bekezdés alkalmazása során a 2012. július 1-jétől szerzett jövedelem vehető figyelembe.
 
 (3) Az (1) bekezdés szerint megállapított rokkantsági ellátást a Tny. nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező arányban emelni kell.
@@ -410,6 +450,8 @@ részesülő személy ellátását a Kormány által kijelölt szerv 2012. janu�
 (4) Ha az (1) bekezdés a) és b) pontja szerinti személy 2011. december 31-éig az 57. életévét betöltötte – kérelmére – az öregségi nyugdíjkorhatár betöltését követően a nyugdíjbiztosítási igazgatási szerv az (1) bekezdés szerint megállapított rokkantsági ellátást azonos összegben öregségi nyugdíjként folyósítja.
 
 33. § (1) A 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, rendszeres szociális járadékban részesülő – a 30. § (3)–(5) bekezdése, a 31. § és a 32. § (1) bekezdés b) és c) pontja alá nem tartozó – személyek ellátását a Kormány által kijelölt szerv 2012. január 1-jétől rehabilitációs ellátásként folyósítja azzal, hogy az ellátás összege megegyezik a 2011. december hónapra járó – a III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban részesülők esetén a 2012. januári nyugdíjemelés mértékével növelt – ellátás összegével.
+
+(1a) Az (1) bekezdés szerinti, 2011. december 31-én rendszeres szociális járadékban részesülő személy ellátása összegének meghatározásakor az özvegyi nyugdíjra tekintettel megállapított csökkentést 2012. szeptember 1-jétől figyelmen kívül kell hagyni. Erről a Kormány által kijelölt folyósító szerv határozatot hoz.
 
 (2) Az (1) bekezdés szerinti rehabilitációs ellátásra a 6. § (2) és (3) bekezdésében, a 7–9. §-ban és a 10. § (2) bekezdés b) és f) pontjában foglalt rendelkezéseket nem kell alkalmazni, az ellátott a (7) bekezdésben meghatározott időpontig keresőtevékenységet a Tny., illetve az egészségkárosodott személyek szociális járadékairól szóló 387/2007. (XII. 23.) Korm. rendelet 2011. december 31-én hatályos rendelkezései szerint végezhet.
 
@@ -432,14 +474,28 @@ részesülő személy ellátását a Kormány által kijelölt szerv 2012. janu�
 
 (7) A felülvizsgálatot követően a jogosultsági feltételek fennállása esetén az e törvényben meghatározott ellátást az erről szóló döntést követő harmadik hónap első napjával kell megállapítani, rehabilitációs ellátásra való jogosultság esetén az ellátás határozott időtartama ezzel a nappal kezdődik. A jogosultsági feltételek közül nem kell vizsgálni az előzetesen biztosításban töltött időt.
 
-(8) A (7) bekezdés alapján megállapított
+(8)–(9)
 
-- a) rokkantsági ellátás összege megegyezik a megállapítást megelőző hónapra járó ellátás összegével,
-- b) rehabilitációs ellátás összege megegyezik
+33/A. § (1) Amennyiben a 32. § (1) bekezdése alapján rokkantsági ellátásban részesülő személy vagy a 33. § (1) bekezdése alapján rehabilitációs ellátásban részesülő személy felülvizsgálatát követően az ellátott
+
+- a) rokkantsági ellátásra jogosult, az ellátás összegét a 12. § (1) bekezdésében foglaltak szerint kell megállapítani azzal, hogy az – az állapotjavulás kivételével – nem lehet kevesebb a felülvizsgálatot megelőző hónapra járó ellátás összegénél,
+- b) rehabilitációs ellátásra jogosult, az ellátás összege megegyezik
   - ba) a közfoglalkoztatási bér 40 százalékával, ha a jogosult foglalkoztathatósága rehabilitációval helyreállítható,
   - bb) a közfoglalkoztatási bér 80 százalékával, ha a jogosult tartós foglalkozási rehabilitációt igényel.
 
-(9) A (8) bekezdés szerinti ellátást a Tny. nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező arányban emelni kell.
+(2) Az (1) bekezdés a) pontjának alkalmazása során havi átlagjövedelemként a 2011. december 31-én
+
+- a) rendszeres szociális járadékban részesülő személy esetén a felülvizsgálatot megelőző hónapra járó ellátás összegének 250 százalékát,
+- b) átmeneti járadékban részesülő személy esetén a felülvizsgálatot megelőző hónapra járó ellátás összegének 200 százalékát,
+- c) III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban részesülő személy esetén a felülvizsgálatot megelőző hónapra járó ellátás összegének 165 százalékát,
+- d) II. csoportos rokkantsági, baleseti rokkantsági nyugdíjban részesülő személy esetén a felülvizsgálatot megelőző hónapra járó ellátás összegének 155 százalékát,
+- e) I. csoportos rokkantsági, baleseti rokkantsági nyugdíjban részesülő személy esetén a felülvizsgálatot megelőző hónapra járó ellátás összegének 145 százalékát
+
+kell figyelembe venni.
+
+(3) Az (1) bekezdés alapján megállapított ellátást a Tny. nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező arányban emelni kell.
+
+(4) Amennyiben a 32. § (1) bekezdése alapján rokkantsági ellátásban részesülő személy, vagy a 33. § (1) bekezdése alapján rehabilitációs ellátásban részesülő személy felülvizsgálatát 2012. január 1-jét követően, de az egyes szociális tárgyú és egyéb kapcsolódó törvények módosításáról szóló törvény hatálybalépését megelőzően elvégezték, az ellátás összegének az (1) és (2) bekezdés alkalmazásával történő módosításáról a rehabilitációs hatóság 2012. október 31-éig dönt.
 
 34. § (1) A nyugdíjbiztosítási igazgatási szerv a 2011. december 31-én rehabilitációs járadékban részesülő személynek – felülvizsgálat elvégzése nélkül – az ellátás hatósági döntésben megállapított időtartamáig a rehabilitációs járadékot továbbfolyósítja.
 
@@ -462,7 +518,7 @@ részesülő személy ellátását a Kormány által kijelölt szerv 2012. janu�
 - a) a 33. § szerinti felülvizsgálattal érintett személyek esetében a felülvizsgálat alapján hozott jogerős döntést követő harmadik hónap első napjáig,
 - b) az a) pont alá nem tartozó személyek esetében 2012. december 31-éig megváltozott munkaképességű személynek kell tekinteni azt a személyt is, aki 2011. december 31-én a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 42. és 42/B. §-a szerint megváltozott munkaképességű munkavállalónak minősült vagy foglalkoztatása alapján a munkáltató 2011. decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült.
 
-(2) Az (1) bekezdés b) pontja szerinti személy komplex minősítését kérelmére a rehabilitációs hatóság a kérelem benyújtását követő 60 napon belül elvégzi, és ennek eredményéről hatósági bizonyítványt állít ki.
+(2) Az (1) bekezdés b) pontja szerinti személy komplex minősítését kérelmére a rehabilitációs hatóság elvégzi, és ennek eredményéről hatósági bizonyítványt állít ki.
 
 39. § (1) Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet és a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

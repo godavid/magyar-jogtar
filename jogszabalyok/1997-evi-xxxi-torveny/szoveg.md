@@ -298,7 +298,7 @@ hivatalból jár el, és e tevékenységével kapcsolatban a büntetőjogi véde
 
 (8) A gyermekvédelmi rendszerben a külön jogszabályban meghatározott munkakörben, valamint önkéntes jogviszonyban nem foglalkoztatható az a személy, akivel szemben a 11/A. § (8) bekezdésben meghatározott kizáró okok valamelyike fennáll, vagy aki e törvényben meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.
 
-(9) Gyermekjóléti, gyermekvédelmi intézményben történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdésének a) pontja nem alkalmazható.
+(9) Gyermekjóléti, gyermekvédelmi intézményben történő foglalkoztatás esetén a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 41. § (2) bekezdésének a) pontja nem alkalmazható.
 
 (10) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenység keretében munkaviszonyban, közalkalmazotti jogviszonyban foglalkoztatott személynek, ha a beosztás szerinti napi munkaidejének kezdő időpontja rendszeresen változik, a tizennégy és tizennyolc óra közötti időtartam alatt történő munkavégzés esetén 15% bérpótlék jár, ha a munkáltató napi üzemelési ideje meghaladja a munkavállaló napi teljes munkaidejét és a közalkalmazottak, munkavállalók időszakonként rendszeresen, egy napon belül egymást váltva végzik azonos tevékenységüket.
 
@@ -899,6 +899,8 @@ biztosít.
 
 (5) A bölcsőde nyári nyitvatartási rendjét a fenntartó hagyja jóvá. A fenntartó a bölcsődei szünet idejére a szülő kérésére gondoskodhat a gyermek intézményi gondozásának megszervezéséről.
 
+(6) A miniszter rendeletben a bölcsődék számára – a bölcsődei dolgozók szakmai fejlesztése, szakmai ünnepségek megtartása és a bölcsődei ellátáshoz kapcsolódó szakmai célok megvalósítása érdekében – nevelés-gondozás nélküli munkanapot határozhat meg. A nevelés-gondozás nélküli munkanapon a bölcsődei nevelés és gondozás szünetel, a fenntartónak azonban erre irányuló szülői kérésre gondoskodnia kell a gyermekek felügyeletének megszervezéséről.
+
 42/A. § A bölcsődei felvétel során előnyben kell részesíteni azt a rendszeres gyermekvédelmi kedvezményre jogosult gyermeket, akinek szülője vagy más törvényes képviselője igazolja, hogy munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
 
 ### Családi napközi
@@ -967,7 +969,7 @@ biztosít.
 
 45. § (1) A gyermekek átmeneti gondozása keretében – kivéve, ha a gyermek átmeneti gondozását családok átmeneti otthona biztosítja – a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését elősegítő, az életkorának, egészségi állapotának és egyéb szükségleteinek megfelelő étkeztetéséről, ruházattal való ellátásáról, mentálhigiénés és egészségügyi ellátásáról, gondozásáról, neveléséről, lakhatásáról (a továbbiakban: teljes körű ellátás) kell gondoskodni.
 
-(2) A gyermekek átmeneti gondozását – a szülői felügyeletet gyakorló szülő vagy más törvényes képviselő (a továbbiakban együtt: szülő) kérelmére vagy belegyezésével – ideiglenes jelleggel, teljes körű ellátással kell biztosítani, ha a szülő egészségügyi körülménye, életvezetési problémája, indokolt távolléte vagy más akadályoztatása miatt a gyermek nevelését a családban nem tudja megoldani. A fogyatékos gyermek számára a sajátos szükségleteihez igazodó ellátást kell biztosítani.
+(2) A gyermekek átmeneti gondozását – a szülői felügyeletet gyakorló szülő vagy más törvényes képviselő (a továbbiakban együtt: szülő) kérelmére vagy belegyezésével – ideiglenes jelleggel, teljes körű ellátással kell biztosítani, ha a szülő egészségügyi körülménye, életvezetési problémája, indokolt távolléte vagy más akadályoztatása miatt a gyermek nevelését a családban nem tudja megoldani. A fogyatékos gyermek számára a különleges szükségleteihez igazodó ellátást kell biztosítani.
 
 (3) A gyermekek átmeneti gondozásának helyén a gyermek otthontalanná vált szülője is elhelyezhető. A 14. évét be nem töltött gyermeket szüleitől elválasztani csak kivételesen indokolt esetben lehet. A szülő gyermeke ellátásában munkarendjéhez igazodóan részt vesz.
 
@@ -1584,7 +1586,7 @@ hivatásos nevelőszülői díjnak megfelelő összeg.
 - c)
 - d) a fiatalkorú szabadságvesztését vagy javítóintézeti nevelését tölti.
 
-(2) A védelembe vétel – a (3) és (4) bekezdésben meghatározott kivétellel – a gyermek nagykorúvá válásával szűnik meg.
+(2) A védelembe vétel – a (3) bekezdésben meghatározott kivétellel – a gyermek nagykorúvá válásával szűnik meg.
 
 (3) Ha a települési önkormányzat jegyzője a védelembe vételt a 68. § (2) bekezdés c) pontja alapján rendelte el, a védelembe vétel indokolt esetben a fiatalkorú kérelmére a büntetőeljárás befejezéséig, de legfeljebb huszadik évének betöltéséig tart.
 
@@ -2080,6 +2082,8 @@ feltéve, ha lakhatása saját vagy közeli hozzátartozója lakókörnyezetébe
 
 (2) A települési önkormányzat az e törvényben foglaltak szerint biztosítja a rendkívüli gyermekvédelmi támogatást, a személyes gondoskodást nyújtó alapellátások keretében – a (3)–(4) bekezdésben meghatározottak figyelembevételével – a gyermekjóléti szolgáltatást, a gyermekek napközbeni ellátását, a gyermekek átmeneti gondozását, szervezi és közvetíti a máshol igénybe vehető ellátásokhoz való hozzájutást.
 
+(2a) A települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat lakosságszámtól függetlenül köteles gyermekjóléti szolgálatot működtetni.
+
 (3) Az a települési önkormányzat, fővárosban a kerületi önkormányzat, amelynek területén
 
 - a) tízezernél több állandó lakos él, bölcsődét,
@@ -2137,7 +2141,7 @@ jelöl ki. A kijelölés ötévi időtartamra szól, amelynek elteltét követő
 - a) a családi napközi szolgáltatással,
 - b) a házi gyermekfelügyelet szolgáltatással,
 - c) a családi gyermekfelügyelet szolgáltatással,
-- d) a 41. § (4) bekezdése szerinti ellátásokkal,
+- d) az alternatív napközbeni ellátással
 - e) a helyettes szülői ellátással,
 - f) a gyermekek átmeneti otthonával,
 - g) a különleges gyermekotthoni ellátással,
@@ -2157,7 +2161,7 @@ kapcsolatos módszertani feladatokat.
 
 ### Ellátási szerződés
 
-97. § (1) Az e törvényben meghatározott személyes gondoskodást nyújtó ellátást vagy egyes körülhatárolható és elkülöníthető feladatok ellátását a helyi önkormányzat, az állam, valamint az állami szerv nem állami szervvel kötött ellátási szerződés útján is biztosíthatja.
+97. § (1) Az e törvényben meghatározott személyes gondoskodást nyújtó ellátást vagy egyes körülhatárolható és elkülöníthető feladatok ellátását a helyi önkormányzat, az állam, valamint az állami szerv nem állami szervvel, helyi önkormányzat állami szervvel kötött ellátási szerződés útján is biztosíthatja.
 
 (2) Ha az ellátási szerződés alapján a feladat ellátásában vallási vagy világnézeti elkötelezettségű nem állami szerv működik közre, a megállapodás megkötése nem mentesíti a helyi önkormányzatot, valamint az állami szervet a feladatellátási kötelezettség alól azon gyermek tekintetében, akinek szülője nem kívánja a nem állami szerv szolgáltatását igénybe venni.
 
@@ -2741,14 +2745,19 @@ vonatkozó adatokat kezelhet.
   - ea) a határozatot hozó szerv nevét, a határozat számát, keltét, jogerőre emelkedésének napját,
   - eb) a hatósági döntés jellegét (ideiglenes hatályú elhelyezés, átmeneti nevelésbe vétel, tartós nevelésbe vétel, utógondozói ellátás elrendelése),
   - ec) a gyermek ellátási szükségletét,
-  - ed) a gyermek gondozási helyét, a fiatal felnőtt ellátásának helyét, a gyermek hatósági döntéssel elrendelt nevelőszülői elhelyezése, illetve a fiatal felnőtt nevelőszülőnél nyújtott utógondozói ellátása esetén a nevelőszülő nevét és címét.
+  - ed) a gyermek gondozási helyét, a fiatal felnőtt ellátásának helyét, a gyermek hatósági döntéssel elrendelt nevelőszülői elhelyezése, illetve a fiatal felnőtt nevelőszülőnél nyújtott utógondozói ellátása esetén a nevelőszülő nevét és címét,
+  - ee) a gyermek, fiatal felnőtt ügyében eljárni illetékes területi gyermekvédelmi szakszolgálat nevét és KSH azonosító kódját,
+- f) a fiatal felnőtt hatósági döntéssel elrendelt utógondozása esetén
+  - fa) a határozatot hozó szerv nevét, a határozat számát, keltét, jogerőre emelkedésének napját,
+  - fb) a hatósági döntés jellegét (utógondozás elrendelése, otthonteremtési támogatás igénybevétele miatti utógondozás elrendelése).
 
 (3) Nem kell a (2) bekezdés szerinti nyilvántartásba venni az adatokat
 
 - a) a alternatív napközbeni ellátás esetén,
 - b) házi gyermekfelügyelet esetén,
 - c) gyermekjóléti szolgáltatás esetén, ha a gyermekjóléti szolgáltatás nyújtása az első találkozást követően tett intézkedéssel lezárható,
-- d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén.
+- d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén,
+- e) a területi gyermekvédelmi szakszolgáltatás által nyújtott, a 60. §-ban, a 62–65. §-ban, a 66. § (1) és (2) bekezdésében, a 66. § (3) bekezdés a) és d)–f) pontjaiban meghatározott szolgáltatások, ellátások esetén.
 
 (4) A (2) bekezdés szerinti nyilvántartásból a személyes gondoskodást nyújtó gyermekjóléti alapellátás és gyermekvédelmi szakellátás igénybevételének megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat. A nyilvántartásból – ha törvény eltérően nem rendelkezik – adat nem továbbítható.
 
@@ -2857,13 +2866,23 @@ törölni kell az adatokat.
 (2) Az állami, egyházi és nem állami fenntartó normatív állami hozzájárulásra való jogosultságának feltétele a
 
 - a) személyes gondoskodást nyújtó gyermekjóléti alapellátást nyújtó új szolgáltatónak, intézménynek, hálózatnak,
-- b) gyermekek napközbeni ellátása és gyermekek átmeneti gondozása esetében az új férőhelyeknek a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása.
+- b) gyermekek napközbeni ellátása és – az 51. § (4)–(9) bekezdés szerinti ellátás kivételével – a gyermekek átmeneti gondozása esetében az új férőhelyeknek a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása.
 
 (2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, hálózatnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó 2011. december 31-én nem rendelkezett jogerős működési engedéllyel és a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe nem nyert még befogadást.
 
-(2b) A (2a) bekezdés szerinti esetben a normatív hozzájárulás a külön jogszabály szerinti finanszírozási rendszerbe történő befogadás nélkül is jár, ha a változás a működési engedély módosítását nem teszi szükségessé.
+(2b) A (2a) bekezdés szerinti esetben a normatív hozzájárulás a külön jogszabály szerinti finanszírozási rendszerbe történő befogadás nélkül is jár, ha
 
-(3) A normatív hozzájárulásban és támogatásban részesülő egyházi és nem állami fenntartású gyermekjóléti, gyermekvédelmi intézmény a munkavállalók számára legalább a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 55–80. §-aiban megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre vonatkozó feltételeket köteles biztosítani.
+- a) a változás a működési engedély módosítását nem teszi szükségessé,
+- b) a működési engedély módosítását kizárólag fenntartóváltás teszi szükségessé.
+
+(2c) A külön jogszabály szerinti finanszírozási rendszerbe a rendelkezésre álló kapacitástól függetlenül be kell fogadni
+
+- a) az állami vagy önkormányzati kötelező feladatot ellátó állami fenntartót,
+- b) azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelyre nézve a fenntartó pályázati úton elnyert európai uniós vagy hazai fejlesztési támogatásban részesül,
+- c) azt a kérelem benyújtását megelőzően is érvényes működési engedélyben feltüntetett szolgáltatást, intézményt, hálózatot, férőhelyszámot, amely esetében a működési engedély módosítását kizárólag költségvetési többletkiadást nem eredményező szétválás vagy egyesítés, szolgáltatásiforma-váltás, valamint a fenntartó intézményei, telephelyei közötti férőhelyszám-átcsoportosítás teszi szükségessé,
+- d) 2012. évre vonatkozóan az igénylésben megjelölt időponttól kezdődően, illetve ha a működési engedélyben ennél későbbi időpont szerepel, az abban megjelölt időponttól kezdődően azt a szolgáltatást, intézményt, hálózatot, férőhelyszámot, amelyre a helyi önkormányzat, illetve a társulás a normatív hozzájárulások és támogatások iránti igényét 2011. év során a jogszabályoknak megfelelően benyújtotta.
+
+(3) A normatív hozzájárulásban és támogatásban részesülő egyházi és nem állami fenntartású gyermekjóléti, gyermekvédelmi intézmény a munkavállalók számára legalább a Kjt. 55–80. §-aiban megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre vonatkozó feltételeket köteles biztosítani.
 
 (4) A nem állami, illetve egyházi fenntartónak a külön jogszabályban meghatározott, és az általa fenntartott gyermekjóléti, gyermekvédelmi intézmény működéséhez biztosított normatív állami hozzájárulás – kivéve a kiegészítő támogatást – teljes összegét át kell adnia azon intézmény részére, amelyre tekintettel a támogatás megállapítására sor került.
 
@@ -2890,7 +2909,7 @@ törölni kell az adatokat.
 - b) az ellátást igénybe vevő gyermek esetén a szülői felügyeletet gyakorló szülő vagy más törvényes képviselő,
 - c) az ellátást igénybe vevő gondnokolt esetében a törvényes képviselő (az a)–c) pont alattiak a továbbiakban együtt: kötelezett) az intézménynek fizeti meg.
 
-147. § (1) A fenntartó megállapítja a 146. § (1) bekezdése szerinti ellátások intézményi térítési díját, ami a szolgáltatási önköltség és a normatív állami hozzájárulás különbözete. Az intézményi térítési díjat több szolgáltatás és ellátás nyújtása esetében is szolgáltatásonként (ellátásonként) kell meghatározni, a közös költségelemek szolgáltatásonkénti (ellátásonkénti) közvetlen költségeinek arányában történő megosztásával.
+147. § (1) A fenntartó megállapítja a 146. § (1) bekezdése szerinti ellátások intézményi térítési díját, ami a szolgáltatási önköltség és a normatív állami hozzájárulás vagy a feladatfinanszírozás különbözete. Az intézményi térítési díjat több szolgáltatás és ellátás nyújtása esetében is szolgáltatásonként (ellátásonként) kell meghatározni, a közös költségelemek szolgáltatásonkénti (ellátásonkénti) közvetlen költségeinek arányában történő megosztásával.
 
 (2) A bölcsőde esetében az intézményi térítési díjat külön meg kell határozni a gyermek gondozására, nevelésére, nappali felügyeletére és a vele történő foglalkozásra (a továbbiakban együtt: gondozására), valamint a 151. § (3) bekezdésében foglaltak szerint a gyermekétkeztetésre vonatkozóan.
 
@@ -2909,7 +2928,7 @@ törölni kell az adatokat.
 
 (4) A személyi térítési díj – a gyermekétkeztetés kivételével – nem haladhatja meg az intézményi térítési díj összegét. Ha az intézményi térítési díj számítása nem eredményez pozitív számot, a személyi térítési díj összege nulla.
 
-(5) A személyi térítési díj összege – önkormányzati intézmény esetén – a fenntartó rendeletében foglaltak szerint csökkenthető, illetve elengedhető, ha a kötelezett jövedelmi és vagyoni viszonyai ezt indokolttá teszik.
+(5) A személyi térítési díj összege önkormányzati intézmény esetén a fenntartó rendeletében, más fenntartó esetén a fenntartó képviseletére jogosult testület, személy írásbeli döntésében foglaltak szerint csökkenthető, illetve elengedhető, ha a kötelezett jövedelmi viszonyai ezt indokolttá teszik.
 
 (6) Ha a kötelezett a személyi térítési díjat vitatja, illetve annak csökkentését vagy elengedését kéri, a (3) bekezdés szerinti értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat.
 
@@ -2919,9 +2938,11 @@ törölni kell az adatokat.
 
 (9) A térítési díj meg nem fizetése esetén késedelmi pótlék nem állapítható meg.
 
-(10) A kötelezett írásban vállalhatja a mindenkori intézményi térítési díjjal azonos személyi térítési díj megfizetését, vagy a mindenkori intézményi térítési díj és a számára megállapítható személyi térítési díj különbözete egy részének megfizetését. Ebben az esetben nem kell a 150. § (1)–(3) bekezdésében foglaltakat alkalmazni, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő ne kerüljön előnyösebb helyzetbe, mint ha a vállalást a kötelezett nem tenné meg.
+(10) A kötelezett írásban vállalhatja a mindenkori intézményi térítési díjjal azonos személyi térítési díj megfizetését. Ebben az esetben nem kell a 150. § (1)–(3) bekezdésében foglaltakat alkalmazni, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő ne kerüljön előnyösebb helyzetbe, mint ha a vállalást a kötelezett nem tenné meg.
 
-(11) A normatív állami hozzájárulásban nem részesülő fenntartó esetén a 147. §-t, a 148. § (4) bekezdését és a 150. §-t nem kell alkalmazni.
+(10a) A kötelezett írásban vállalhatja a mindenkori intézményi térítési díj és a számára megállapítható személyi térítési díj különbözete egy részének megfizetését. Ebben az esetben nem kell a 150. § (3) bekezdésében foglaltakat alkalmazni, ugyanakkor biztosítani kell, hogy az ellátást ilyen módon igénylő ne kerüljön előnyösebb helyzetbe, mint ha a vállalást a kötelezett nem tenné meg.
+
+(11) A normatív állami hozzájárulásban nem részesülő fenntartó esetén – kivéve az állami fenntartású intézményeket – a 147. §-t, a 148. § (4) bekezdését és a 150. §-t nem kell alkalmazni.
 
 149. § Térítésmentesen kell biztosítani a 40. § (1)–(3) bekezdés szerinti gyermekjóléti szolgáltatást, amely esetben intézményi térítési díjat sem kell megállapítani.
 
@@ -2935,8 +2956,8 @@ törölni kell az adatokat.
 (3) A személyi térítési díj összege igénybe vevőnként nem haladhatja meg az (1) bekezdésben meghatározott jövedelem
 
 - a) 50%-át családi napközi és családi gyermekfelügyelet esetén,
-- b) 20%-át az a) pont alá nem tartozó egyéb gyermekek napközbeni ellátása esetén,
-- c) 25%-át az a) pont alá nem tartozó egyéb gyermekek napközbeni ellátása esetén, ha annak keretében étkezést is biztosítanak,
+- b) 25%-át bölcsőde esetén, ha a fenntartó a bölcsődei ellátás keretében biztosított gyermekétkeztetés mellett a bölcsődei ellátás keretében nyújtott gondozásra is megállapít személyi térítési díjat,
+- c) 20%-át az a) és b) pont, valamint a 151. § alá nem tartozó egyéb gyermekek napközbeni ellátása esetén,
 - d) 50%-át átmeneti gondozás esetén,
 - e) 30%-át a fiatal felnőtt utógondozói ellátása esetén.
 
@@ -2961,11 +2982,11 @@ törölni kell az adatokat.
 - f) a fogyatékos gyermekek, tanulók nevelését, oktatását ellátó intézményben és a fogyatékos gyermekek számára nappali ellátást nyújtó, az Szt. hatálya alá tartozó fogyatékosok nappali intézményében,
 - g) a szociális nyári gyermekétkeztetés keretében nyújtott étkeztetésre.
 
-(2) Iskolai étkeztetésben részesülhet az a tanuló is, aki a napközit nem veszi igénybe. Az étkezések közül az ebéd külön is igényelhető.
+(2) Ha a szülő (törvényes képviselő) eltérően nem rendelkezik, a fenntartó az óvodában és az iskolában a gyermekek és a tanulók számára az óvodai nevelési napokon, illetve az iskolai tanítási napokon biztosítja a déli meleg főétkezést és két további étkezést. Iskolai étkeztetésben részesülhet az a tanuló is, aki a napközit nem veszi igénybe. Az étkezések közül az ebéd külön is igényelhető.
 
 (3) A gyermekétkeztetés intézményi térítési díjának alapja az élelmezés nyersanyagköltségének egy ellátottra jutó napi összege.
 
-(4) A gyermekétkeztetés személyi térítési díját az intézményvezető a (3) bekezdés szerinti napi összeg általános forgalmi adóval növelt összegének és az igénybe vett étkezések számának, valamint az (5) bekezdésben megjelölt normatív kedvezményeknek a figyelembevételével állapítja meg.
+(4) A gyermekétkeztetés személyi térítési díját az intézményvezető a (3) bekezdés szerinti napi összeg általános forgalmi adóval növelt összegének és az igénybe vett étkezések számának, valamint az (5) bekezdésben megjelölt normatív kedvezményeknek a figyelembevételével állapítja meg. Ha a fenntartó kizárólag a bölcsődei ellátás keretében biztosított gyermekétkeztetésre állapít meg személyi térítési díjat, a személyi térítési díj meghatározásánál a 150. § (1)–(3) bekezdését nem kell alkalmazni.
 
 (5) Gyermekétkeztetés esetén
 
@@ -3132,7 +3153,8 @@ gyermek után az intézményi térítési díj 100%-át,
 - g) a külföldi alap-, közép- és felsőfokú szakképzés, valamint szakirányú szakképzés során szerzett szakképzettség megszerzését tanúsító oklevelek elismerésére, továbbá az eljáró hatóságra, annak feladat- és hatáskörére vonatkozó részletes szabályokat,
 - h) a módszertani intézmények kijelölésére és feladataira vonatkozó részletes szabályokat,
 - i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat,
-- j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait, [k)]
+- j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
+- k) a bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 

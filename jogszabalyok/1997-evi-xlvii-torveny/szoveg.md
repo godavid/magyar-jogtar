@@ -355,6 +355,8 @@ amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti tevékenys�
 
 (5) Az igazságügyi szakértő a (3) bekezdés szerinti adatokat az igazságügyi szakértői tevékenységről szóló törvényben meghatározott szabályok szerint kezeli.
 
+(5) A (4) bekezdésben foglaltaktól eltérően a (3) bekezdés szerinti, a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás részét képező adatokat a rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 21. § (7) bekezdésében meghatározott időtartam alatt kezelheti.
+
 ### Adattovábbítás az egészségügyi ellátóhálózaton kívüli szerv megkeresésére
 
 23. § (1) A következő szervek írásbeli megkeresésére a kezelést végző orvos az érintett egészségügyi és a megkereső szerv által törvény alapján kezelhető, az azonosításhoz szükséges személyazonosító adatait átadja a megkereső szervnek. A megkeresésben a 4. § (4) bekezdésének megfelelően fel kell tüntetni a megismerni kívánt egészségügyi és személyazonosító adatokat. A megkereső szervek a következők lehetnek:
