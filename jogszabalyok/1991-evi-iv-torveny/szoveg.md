@@ -891,7 +891,8 @@ határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
 - a) a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv az ellátás megállapítása, folyósítása, ellenőrzése céljából a TAJ szám alkalmazásával az a)–c), e) és g) pontjai,
 - b) a szociális igazgatás szerve az aktív korúak ellátása megállapítási és folyósítási feltételei fennállásának megállapítása céljából a TAJ szám alkalmazásával az a)–c) és e) pontjai,
 - c) a központi és területi idegenrendészeti hatóság a külföldiek beutazásához és tartózkodásához kapcsolódó, törvényben meghatározott feladataik ellátása céljából az a)–d) és f)–h) pontjai,
-- d) az állami adóhatóság az adókötelezettség ellenőrzése, valamint a munkaerő-piaci járulék bevallásának és befizetésének ellenőrzése céljából az a), c), d), e) és g) pontjai
+- d) az állami adóhatóság az adókötelezettség ellenőrzése, valamint a munkaerő-piaci járulék bevallásának és befizetésének ellenőrzése céljából az a), c), d), e) és g) pontjai,
+- e) a rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése céljából a TAJ alkalmazásával az a), valamint c)–i) pontjai,
 
 szerinti adatok igénylésére jogosult.
 
@@ -968,13 +969,13 @@ szerinti adatok igénylésére jogosult.
 
 (8) Felhatalmazást kap a Kormány, hogy (3) bekezdés 3. pont g) alpontja szerint az adatbázisba felvételre kerülő adatok körét rendeletben állapítsa meg.
 
-57/C. § (1) Az állami foglalkoztatási szerv az 57/B. § (1) bekezdésében meghatározott célok teljesülése érdekében folyamatos elektronikus adatkapcsolat keretében biztosítja a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a (3) bekezdésben meghatározott adatbetekintéshez, a rehabilitációs hatóság számára a (3a) bekezdésben meghatározott adatbetekintéshez, valamint az állami felnőttképzési intézmény számára a (4) bekezdésben meghatározott adatbetekintéshez szükséges hozzáférést.
+57/C. § (1) Az állami foglalkoztatási szerv az 57/B. § (1) bekezdésében meghatározott célok teljesülése érdekében folyamatos elektronikus adatkapcsolat keretében biztosítja a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a (3) bekezdésben meghatározott adatbetekintéshez, a rehabilitációs hatóság számára a (3a) bekezdésben meghatározott adatátvételhez, valamint az állami felnőttképzési intézmény számára a (4) bekezdésben meghatározott adatbetekintéshez szükséges hozzáférést.
 
 (2) A közfoglalkoztatásért felelős miniszter az adatkezelő tevékenysége feletti felügyelet gyakorlása és a közfoglalkoztatás szervezésével kapcsolatos feladatai eredményes ellátása érdekében az 57/B. § (3) bekezdésének 2–3. pontjaiban meghatározott adatokba betekinthet.
 
 (3) A települési önkormányzat jegyzője a szociális juttatásokra való jogosultság feltételeinek megállapításához szükséges ellenőrzési feladatai érdekében az adatbázisnak az 57/B. § (3) bekezdés 1. pont b), ca)–ce), cg) és d) alpontjában, valamint a 2. pont ab) és af) alpontjában szereplő adataiba tekinthet be.
 
-(3a) A rehabilitációs hatóság a rehabilitációs ellátásra való jogosultság feltételeinek megállapításához szükséges ellenőrzési feladatai ellátása érdekében az adatbázisnak az 57/B. § (3) bekezdés 2. pont a) és b) pontjában szereplő adataiba tekinthet be.
+(3a) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése és a rehabilitációs szolgáltatások nyújtása céljából az 57/B. § (3) bekezdés 1. pont a) pont aa) és ac)–af) alpontjában, 1. pont b) és c) pontjában, valamint 2. és 3. pontjában szereplő adatokat közvetlen hozzáféréssel átveheti.
 
 (4) az állami felnőttképzési intézmény a képzési igények felmérése és a képzések szervezésének területi összehangolása, valamint a közfoglalkoztatás szervezése érdekében az adatbázisnak az 57/B. § (3) bekezdés 2. pont a)–b) alpontjaiban és 3. pont a)–e) alpontjaiban szereplő adataiba tekinthet be.
 
