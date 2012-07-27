@@ -2,9 +2,11 @@
 
 az állattenyésztésről szóló 1993. évi CXIV. törvény módosításáról
 
-1. §
+1. § Az állattenyésztésről szóló 1993. évi CXIV. törvény (a továbbiakban: Átv.) 45/A. §-a a kővetkező (1a) bekezdéssel egészül ki:
 
-2. § Hatályát veszti az Átv. 45/A. § (1a) bekezdésének „b), c), e) és” szövegrésze.
+„(1a) Nem szabható ki állattenyésztési bírság, ha az (1) bekezdés b), c), e) és g) pontja szerinti jogsértést ebfajta vonatkozásában követték el.”
+
+2. §
 
 3. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 3. napon lép hatályba.
 
