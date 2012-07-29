@@ -18,7 +18,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 2. § E törvény alkalmazásában:
 
-- a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró természetes személy, aki árut vesz, rendel, kap, használ, igénybe vesz, vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje,
+- a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró természetes személy, továbbá a békéltető testületre vonatkozó szabályok alkalmazásában a külön törvény szerinti civil szervezet, egyház, társasház, lakásszövetkezet, mikro-, kis- és középvállalkozás is, aki árut vesz, rendel, kap, használ, igénybe vesz, vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje,
 - b) vállalkozás: aki az 1. § szerinti tevékenységet önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében végzi,
 - c) gyártó:
   - ca) a terméknek az Európai Gazdasági Térségben letelepedett üzletszerű előállítója, termelője, helyreállítója vagy felújítója, illetve aki a terméken elhelyezett nevével, védjegyével vagy egyéb megkülönböztető jelzés alkalmazásával önmagát a termék gyártójaként tünteti fel; vagy
@@ -27,12 +27,12 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - e) fogyasztói érdekek képviseletét ellátó egyesület: az egyesülési jogról szóló törvény alapján létrehozott egyesület, ha az alapszabályában meghatározott célja a fogyasztók érdekeinek védelme, e célnak megfelelően legalább két éve működik, és természetes személy tagjainak száma legalább ötven fő, továbbá az ilyen egyesületek szövetsége,
 - f) termék: minden birtokba vehető forgalomképes ingó dolog – ide nem értve a pénzt, az értékpapírt és a pénzügyi eszközt – és a dolog módjára hasznosítható természeti erő,
 - g) szolgáltatás: termék, ingatlan vagy vagyoni értékű jog értékesítésén kívül minden olyan – ellenszolgáltatás fejében végzett – tevékenység, amely a megrendelő, illetve megbízó igényének kielégítésére valamely eredmény létrehozását, teljesítmény nyújtását vagy más magatartás tanúsítását foglalja magában,
-- h) közüzemi szolgáltatás: külön törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozó vállalkozás által e kötelezettség alapján nyújtott közszolgáltatás,
+- h) közszolgáltatás: külön törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozó vállalkozás által e kötelezettség alapján nyújtott víziközmű-szolgáltatás, távhőszolgáltatás, települési szilárd és folyékony hulladék rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatás, kéményseprő-ipari szolgáltatás, elektronikus hírközlési szolgáltatás, postai szolgáltatás, villamos energia egyetemes szolgáltatásra jogosult felhasználó részére villamosenergia-vásárlási szerződés vagy hálózathasználati szerződés alapján nyújtandó szolgáltatás, valamint földgáz egyetemes szolgáltatásra jogosult felhasználó részére földgáz-kereskedelmi szerződés vagy elosztóhálózat-használati szerződés alapján nyújtandó szolgáltatás,
 - i) fogyasztói csoport: a szervezők – díjazás ellenében történő – közreműködésével a csoport tagjai pénzének összegyűjtésén alapuló minden olyan csoport, amelynek célja, hogy minden tagja az általa előre meghatározott dolog tulajdonjogát a tagok befizetéseiből, előre meghatározott időtartamon belül – véletlenszerű vagy többletfeltételek vállalásától függő kiválasztás útján – a csoport segítségével megszerezze,
 - j)–k)
 - l) áru: a termék, az ingatlan és a vagyoni értékű jog, valamint a szolgáltatás,
 - m) eladási ár: a termék egy egységére vagy adott mennyiségére vonatkozó ár,
-- n) egységár: a termék egy kilogrammjára, egy literére vagy milliliterére, egy méterére, egy négyzetméterére vagy egy köbméterére vonatkozó ár,
+- n) egységár: a termék e törvény végrehajtására kiadott jogszabályban meghatározott mértékegységére vonatkozó ár,
 - o)
 - p)
 - q) kereskedelmi kommunikáció: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben ekként meghatározott fogalom,
@@ -84,6 +84,8 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - d) a forgalmazót az ellenőrzések megállapításairól tájékoztatni,
 - e) a nem biztonságos terméket a forgalomból kivonni, illetve – a külön jogszabályban meghatározottak szerint – visszahívni.
 
+(3) Ha a gyártó nem tesz eleget a (2) bekezdés a) pontjában foglalt kötelezettségének, a forgalmazó – a gyártó által rendelkezésére bocsátott azonosító jelölések felhasználásával – köteles azt pótolni.
+
 5. § (1) E fejezetet az olyan termékre kell alkalmazni, amelyet a fogyasztóknak szántak, vagy bár nem erre a célra szánták, de fogyasztók által ésszerűen előreláthatóan használható, és gazdasági tevékenység keretében új, használt vagy helyreállított állapotban forgalmaznak.
 
 (2) A fejezet rendelkezéseit megfelelően alkalmazni kell a szolgáltatás nyújtása során, azzal összefüggésben forgalmazott termékre is.
@@ -109,7 +111,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 ### IV. Fejezet — A forgalmazással, illetve a szolgáltatásnyújtással összefüggő különös követelmények
 
-8. §
+8. § A közszolgáltatási tevékenységet folytató vállalkozás a számla Posta Elszámoló Központon keresztüli készpénzbefizetéssel történő kiegyenlítését, valamint – ha jogszabály eltérően nem rendelkezik – a számla nyomtatott példányának egyszeri kiadását külön díj fizetéséhez nem kötheti.
 
 9–11. §
 
@@ -123,7 +125,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 ### A megfelelőség értékelése
 
-13. § Azok a termékek, amelyekre vonatkozóan jogszabály megfelelőségértékelési kötelezettséget ír elő, csak az előírt mód szerinti megfelelőségi tanúsítvánnyal, megfelelőségi nyilatkozattal, illetve megfelelőségi jelöléssel együtt forgalmazhatók.
+13. § Olyan termék, amelyre vonatkozóan jogszabály megfelelőségértékelési kötelezettséget ír elő, csak a vonatkozó megfelelőségértékelési eljáráshoz tartozó megfelelőségi tanúsítvánnyal, megfelelőségi nyilatkozattal, illetve megfelelőségi jelöléssel együtt forgalmazható.
 
 ### Az ár feltüntetése
 
@@ -133,11 +135,11 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (3) Az eladási árat, az egységárat, illetve a szolgáltatás díját egyértelműen, könnyen azonosíthatóan és tisztán olvashatóan kell feltüntetni.
 
-(4) Az eladási árat és az egységárat, illetve – határon átnyúló szolgáltatásnyújtás kivételével – a szolgáltatás díját Magyarország törvényes fizetőeszközében kifejezve fel kell tüntetni.
+(4) Az eladási árat és az egységárat, illetve – határon átnyúló szolgáltatásnyújtás kivételével – a szolgáltatás díját Magyarország törvényes fizetőeszközében kifejezve, a fizetőeszköz nemét (forint) vagy annak rövidítését (Ft) megjelölve kell feltüntetni.
 
 (5) A termék eladási áraként és egységáraként, illetve a szolgáltatás díjaként a fogyasztó által ténylegesen fizetendő, az általános forgalmi adót és egyéb kötelező terheket is tartalmazó árat kell feltüntetni.
 
-(6) Ha a termékre vonatkozó kereskedelmi kommunikáció megjelöli a termék eladási árát, az egységárat is meg kell adni a külön jogszabályban foglaltak szerint.
+(6) Ha a termékre vonatkozó kereskedelmi kommunikáció megjelöli a termék eladási árát – amennyiben jogszabály eltérően nem rendelkezik –, az egységárat is meg kell adni.
 
 (7) Több eladási ár vagy szolgáltatási díj egyidejű feltüntetése esetén a vállalkozás köteles a feltüntetett legalacsonyabb eladási ár vagy szolgáltatási díj felszámítására.
 
@@ -183,7 +185,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (4) A Nemzeti Alaptanterv elvei és követelményei szerint a fogyasztóvédelemért felelős miniszter közreműködik a közoktatás intézményei számára készülő fogyasztóvédelmi tantervi követelmények meghatározásában.
 
-(5) Az állam az iskolai fogyasztóvédelmi oktatással kapcsolatos feladatait az oktatási intézményeken keresztül, a fogyasztóvédelmi hatósággal és a fogyasztói érdekek képviseletét ellátó egyesületekkel együttműködve látja el.
+(5) Az állam a fogyasztóvédelmi oktatással kapcsolatos feladatait az oktatási intézményekkel, a fogyasztóvédelmi hatósággal és a fogyasztói érdekek képviseletét ellátó egyesületekkel együttműködve látja el.
 
 ### VI. Fejezet — A fogyasztói jogok érvényesítése
 
@@ -193,33 +195,59 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (2) A fogyasztó a vállalkozásnak, illetve a vállalkozás érdekében vagy javára eljáró személynek az áru fogyasztók részére történő forgalmazásával, illetve értékesítésével közvetlen kapcsolatban álló magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban vagy írásban közölheti a vállalkozással.
 
-(3) A szóbeli panaszt azonnal meg kell vizsgálni, és szükség szerint orvosolni kell. Ha a fogyasztó a panasz kezelésével nem ért egyet, a vállalkozás a panaszról és az azzal kapcsolatos álláspontjáról haladéktalanul köteles jegyzőkönyvet felvenni, s annak egy másolati példányát a fogyasztónak átadni. Ha a panasz azonnali kivizsgálása nem lehetséges, a vállalkozás a panaszról haladéktalanul köteles jegyzőkönyvet felvenni, és annak egy másolati példányát köteles a fogyasztónak átadni, egyebekben pedig az írásbeli panaszra vonatkozóan a (4) bekezdésben írtak szerint köteles eljárni.
+(3) A szóbeli panaszt azonnal meg kell vizsgálni, és szükség szerint orvosolni kell. Ha a fogyasztó a panasz kezelésével nem ért egyet, vagy a panasz azonnali kivizsgálása nem lehetséges, a vállalkozás a panaszról és az azzal kapcsolatos álláspontjáról haladéktalanul köteles jegyzőkönyvet felvenni, és annak egy másolati példányát
 
-(4) Az írásbeli panaszt a vállalkozás – törvény eltérő rendelkezése hiányában – harminc napon belül köteles írásban megválaszolni. A panaszt elutasító álláspontját a vállalkozás indokolni köteles. A válasz másolati példányát három évig köteles megőrizni, s azt az ellenőrző hatóságoknak kérésükre bemutatni.
+- a) személyesen közölt szóbeli panasz esetén helyben a fogyasztónak átadni,
+- b) telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz esetén a fogyasztónak legkésőbb a (6) bekezdésben foglalt érdemi válasszal egyidejűleg megküldeni, egyebekben pedig az írásbeli panaszra vonatkozóan a (6) bekezdésben írtak szerint köteles eljárni.
 
-(5) A panasz elutasítása esetén a vállalkozás köteles a fogyasztót írásban tájékoztatni arról, hogy panaszával – annak jellege szerint – mely hatóság vagy a békéltető testület eljárását kezdeményezheti. Meg kell adni az illetékes hatóság, illetve a vállalkozás székhelye szerinti békéltető testület levelezési címét.
+(4) A telefonon vagy elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panaszt a vállalkozás köteles egyedi azonosítószámmal ellátni.
 
-17/B. § (1) A közüzemi szolgáltatási tevékenységet folytató vállalkozás, valamint a külön törvényben meghatározott egyéb vállalkozás a fogyasztói panaszok intézésére, valamint a fogyasztók tájékoztatására köteles ügyfélszolgálat működtetéséről gondoskodni oly módon, hogy az – törvény eltérő rendelkezése hiányában – az ügyfelek részére nyitva álló helyiségben kerüljön kialakításra.
+(5) A panaszról felvett jegyzőkönyvnek tartalmaznia kell az alábbiakat:
+
+- a) a fogyasztó neve, lakcíme,
+- b) a panasz előterjesztésének helye, ideje, módja,
+- c) a fogyasztó panaszának részletes leírása, a fogyasztó által bemutatott iratok, dokumentumok és egyéb bizonyítékok jegyzéke,
+- d) a vállalkozás nyilatkozata a fogyasztó panaszával kapcsolatos álláspontjáról, amennyiben a panasz azonnali kivizsgálása lehetséges,
+- e) a jegyzőkönyvet felvevő személy és – telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz kivételével – a fogyasztó aláírása,
+- f) a jegyzőkönyv felvételének helye, ideje,
+- g) telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz esetén a panasz egyedi azonosítószáma.
+
+(6) Az írásbeli panaszt a vállalkozás – ha az Európai Unió közvetlenül alkalmazandó jogi aktusa eltérően nem rendelkezik – a beérkezését követően harminc napon belül köteles írásban érdemben megválaszolni és intézkedni annak közlése iránt. Ennél rövidebb határidőt jogszabály, hosszabb határidőt törvény állapíthat meg. A panaszt elutasító álláspontját a vállalkozás indokolni köteles.
+
+(7) A vállalkozás a panaszról felvett jegyzőkönyvet és a válasz másolati példányát öt évig köteles megőrizni, és azt az ellenőrző hatóságoknak kérésükre bemutatni.
+
+(8) A panasz elutasítása esetén a vállalkozás köteles a fogyasztót írásban tájékoztatni arról, hogy panaszával – annak jellege szerint – mely hatóság vagy a békéltető testület eljárását kezdeményezheti. Meg kell adni az illetékes hatóság, illetve a vállalkozás székhelye szerinti békéltető testület levelezési címét.
+
+17/B. § (1) A közszolgáltatási tevékenységet folytató vállalkozás, valamint a külön törvényben meghatározott egyéb vállalkozás a fogyasztói panaszok intézésére, a fogyasztók tájékoztatására köteles ügyfélszolgálat működtetéséről gondoskodni oly módon, hogy az – törvény eltérő rendelkezése hiányában – az ügyfelek részére nyitva álló helyiségben kerüljön kialakításra.
 
 (2) Az ügyfélszolgálat működési rendjét, félfogadási idejét a vállalkozás úgy köteles megállapítani, illetve működésének feltételeiről oly módon köteles gondoskodni, hogy az ügyfélszolgálat megközelítése, az ahhoz való hozzáférés – az ellátott fogyasztók számára és földrajzi eloszlására figyelemmel – ne járjon aránytalan nehézségekkel a fogyasztókra nézve. Ennek keretében a vállalkozás köteles biztosítani legalább azt, hogy
 
-- a) az ügyfelek részére nyitva álló helyiségben működtetett ügyfélszolgálat a hét egy munkanapján 8 órától 20 óráig nyitva tartson, illetve telefonos eléréssel működtetett ügyfélszolgálat esetén legalább a hét egy munkanapján 8 órától 20 óráig elérhető legyen,
-- b) az ügyfelek részére nyitva álló helyiségben működtetett ügyfélszolgálat esetében a fogyasztóknak lehetősége legyen elektronikusan és telefonon keresztül is a személyes ügyintézés időpontjának előzetes lefoglalására, illetve
-- c) az elektronikus eléréssel működtetett ügyfélszolgálat – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan elérhető legyen.
+- a) az ügyfelek részére nyitva álló helyiségben működtetett ügyfélszolgálat a hét egy munkanapján 7 és 21 óra között legalább tizenkét órán keresztül folyamatosan nyitva tartson,
+- b) a telefonos eléréssel működtetett ügyfélszolgálat legalább a hét egy munkanapján 7 és 21 óra között legalább tizenkét órán keresztül folyamatosan elérhető legyen,
+- c) az ügyfelek részére nyitva álló helyiségben működtetett ügyfélszolgálat esetében a fogyasztóknak lehetőségük legyen elektronikusan és telefonon keresztül is a személyes ügyintézés időpontjának előzetes lefoglalására, a személyes ügyintézés időpontja igénylésének napjától számított öt munkanapon belül a szolgáltató köteles személyes ügyfélfogadási időpontot biztosítani a fogyasztó számára,
+- d) az elektronikus eléréssel működtetett ügyfélszolgálat – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan elérhető legyen, illetve
+- e) amennyiben országos hálózattal rendelkezik, minden megyeszékhelyen ügyfélszolgálatot működtessen.
 
-(3) Telefonos eléréssel működtetett ügyfélszolgálat, illetve az ügyintézés időpontjának előzetes lefoglalására biztosított telefonos elérés esetében biztosítani kell az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. Az ügyfélszolgálathoz beérkező valamennyi telefonon tett szóbeli panaszt, illetve az ügyfélszolgálat és a fogyasztó közötti telefonos kommunikációt hangfelvétellel rögzíteni kell, és a hangfelvételt öt évig meg kell őrizni. Erről a fogyasztót a telefonos ügyintézés kezdetekor tájékoztatni kell. A hangfelvételt a fogyasztónak – kérésére – rendelkezésre kell bocsátani.
+(3) Telefonos eléréssel működtetett ügyfélszolgálat, illetve az ügyintézés időpontjának előzetes lefoglalására biztosított telefonos elérés esetében biztosítani kell az ésszerű várakozási időn belüli hívásfogadást és ügyintézést. Az ügyfélszolgálathoz beérkező valamennyi telefonon tett szóbeli panaszt, valamint az ügyfélszolgálat és a fogyasztó közötti telefonos kommunikációt hangfelvétellel rögzíteni kell. Ha a hangfelvétel tartalmazza a 17/A. § (5) bekezdése szerinti tartalmi elemeket – ide nem értve a panasz előterjesztésének helyét, a fogyasztó által bemutatott bizonyítékok jegyzékét, a jegyzőkönyvet felvevő személy aláírását, valamint a jegyzőkönyv felvételének helyét és idejét –, a jegyzőkönyv felvétele a fogyasztó beleegyezésével mellőzhető. A hangfelvételt egyedi azonosítószámmal kell ellátni, öt évig meg kell őrizni, és a fogyasztó kérésére, díjmentesen rendelkezésre kell bocsátani. A vállalkozás a hangfelvétel készítésével, megőrzésével és rendelkezésre bocsátásával kapcsolatos kötelezettségéről, továbbá az egyedi azonosítószámról a fogyasztót a telefonos ügyintézés kezdetekor tájékoztatni köteles.
 
-(4) Az (1) bekezdésben meghatározott vállalkozások tevékenységére vonatkozó törvény vagy az annak felhatalmazása alapján kiadott kormányrendelet az ügyfélszolgálat működésére vonatkozóan további részletes szabályokat állapíthat meg.
+(4) Az (1) bekezdésben meghatározott vállalkozások tevékenységére vonatkozó törvény vagy az annak felhatalmazása alapján kiadott kormányrendelet
 
-(5) A 17/A. §-tól eltérően az ügyfélszolgálat minden esetben köteles a vállalkozás panasszal kapcsolatos álláspontját és intézkedéseit indokolással ellátva írásba foglalni, és a fogyasztónak a panasz beérkezését követő tizenöt napon belül megküldeni, kivéve, ha a fogyasztó panaszát személyesen jelenti be és a vállalkozás az abban foglaltaknak nyomban eleget tesz.
+- a) az ügyfélszolgálat működésére vonatkozóan további részletes szabályokat állapíthat meg,
+- b) az ellátott fogyasztók számára és földrajzi eloszlására figyelemmel indokolt esetben a (2) bekezdés a) pontjától eltérő nyitva tartást írhat elő, ha a hét egy munkanapján a meghosszabbított nyitva tartás 20 óráig, vagy külön törvényben meghatározott ügyfélszolgálati fiókiroda esetében 18 óráig biztosított.
 
-(6) Az ügyfélszolgálat a fogyasztói panaszok intézése és a fogyasztók tájékoztatása során köteles együttműködni a fogyasztói érdekek képviseletét ellátó egyesületekkel.
+(5) A 17/A. §-tól eltérően az ügyfélszolgálat minden esetben köteles a vállalkozás panasszal kapcsolatos álláspontját és intézkedéseit indokolással ellátva írásba foglalni, és a fogyasztónak a panasz beérkezését követő tizenöt napon belül megküldeni, kivéve, ha a fogyasztó panaszát szóban közli és a vállalkozás az abban foglaltaknak nyomban eleget tesz.
+
+(6) Az (5) bekezdés szerinti válaszadási határidő helyszíni vizsgálat vagy valamely hatóság megkeresésének szükségessége esetén egy alkalommal legfeljebb tizenöt nappal meghosszabbítható. A válaszadási határidő meghosszabbításáról és annak indokáról a fogyasztót írásban, a válaszadási határidő letelte előtt tájékoztatni kell.
+
+(7) Az ügyfélszolgálat a fogyasztói panaszok intézése és a fogyasztók tájékoztatása során köteles együttműködni a fogyasztói érdekek képviseletét ellátó egyesületekkel.
+
+(8) Az e § szerinti telefonos ügyfélszolgálat emelt díjas szolgáltatással nem működtethető.
 
 17/C. § A 17/A. § és a 17/B. § alkalmazásában az írásbeliség követelményének levél, távirat, távgépíró vagy telefax útján, továbbá bármely egyéb olyan eszközzel is eleget lehet tenni, amely a címzett számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását, és a tárolt adatok változatlan formában és tartalommal történő megjelenítését.
 
 ### Békéltető testület
 
-18. § (1) A békéltető testület hatáskörébe tartozik a fogyasztó és a vállalkozás közötti, a termék minőségével, biztonságosságával, a termékfelelősségi szabályok alkalmazásával, a szolgáltatás minőségével, továbbá a felek közötti szerződés megkötésével és teljesítésével kapcsolatos vitás ügy (a továbbiakban: fogyasztói jogvita) bírósági eljáráson kívüli rendezése: e célból egyezség létrehozásának megkísérlése, ennek eredménytelensége esetén pedig az ügyben döntés hozatala a fogyasztói jogok egyszerű, gyors, hatékony és költségkímélő érvényesítésének biztosítása érdekében.
+18. § (1) A békéltető testület hatáskörébe tartozik a fogyasztó és a vállalkozás közötti, a termék minőségével, biztonságosságával, a termékfelelősségi szabályok alkalmazásával, a szolgáltatás minőségével, továbbá a felek közötti szerződés megkötésével és teljesítésével kapcsolatos vitás ügy (a továbbiakban: fogyasztói jogvita) bírósági eljáráson kívüli rendezése: e célból egyezség létrehozásának megkísérlése, ennek eredménytelensége esetén pedig az ügyben döntés hozatala a fogyasztói jogok egyszerű, gyors, hatékony és költségkímélő érvényesítésének biztosítása érdekében. A békéltető testület a fogyasztó vagy a vállalkozás kérésére tanácsot ad a fogyasztót megillető jogokról és kötelezettségekről.
 
 (2) A békéltető testület a megyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) mellett működő független testület.
 
@@ -241,18 +269,15 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 21. § (1) A békéltető testület elnökből, – szükség szerint – elnökhelyettesből és tagokból (a továbbiakban együtt: békéltető testületi tagok) áll.
 
-(2) A békéltető testületi tagokat – a Kormány rendeletében meghatározottak szerint – egyrészről a kamara, a megyei (fővárosi) agrárkamarák, valamint a vállalkozások szakmai érdek-képviseleti szervezetei (a továbbiakban együtt: vállalkozói oldal), másrészről a fogyasztói érdekek képviseletét ellátó egyesületek egyenlő arányban jelölik ki.
+(2) A békéltető testületi tagokat – a Kormány rendeletében meghatározottak szerint – egyrészről a kamara és a megyei (fővárosi) agrárkamarák, másrészről a fogyasztói érdekek képviseletét ellátó egyesületek egyenlő arányban jelölik ki.
 
 (3) A testületi tagok száma testületenként legalább tíz fő.
 
-(4) A kijelölés során biztosítani kell, hogy a testületnek mind a kamara, mind a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt személyek között
+(4) A kijelölés során biztosítani kell, hogy a testületnek mind a kamara, megyei (fővárosi) agrárkamarák, mind a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt személyek között legyen olyan tagja, aki megfelel a 25. § (3) és (5) bekezdésében meghatározott követelményeknek.
 
-- a) legyen olyan tagja, aki megfelel a 25. § (3) és (5) bekezdésében meghatározott követelményeknek, továbbá
-- b)
+(5) A békéltető testületi tagok kijelölését követően a tagok összehívásával megalakul a békéltető testület.
 
-(5)
-
-(6) A békéltető testületi tagok megbízatása négy évre szól. A tagok ismételten kijelölhetők.
+(6) A békéltető testület megbízatása négy évre szól. A békéltető testületi tagok újra kijelölhetőek.
 
 (7) A békéltető testület tagjai tevékenységüket külön jogszabályban meghatározott díjazás ellenében végzik.
 
@@ -270,18 +295,18 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
   - ce) végrehajtásában felfüggesztett pénzbüntetés kiszabása esetén a mentesítés beálltától számított három évig vagy
 - d) az (1) bekezdés szerinti, a kijelölés alapjául szolgáló végzettségnek és szakmai gyakorlatnak megfelelő foglalkozástól eltiltás hatálya alatt áll.
 
-(3) Az (1) bekezdés szerinti alkalmassági feltétel teljesülését az érintett igazolja a békéltetőtestületi tagsági kijelölés feltételeként.
+(3) Az (1) bekezdés szerinti alkalmassági feltétel teljesülését az érintett igazolja a békéltető testületi tagsági kijelölés feltételeként.
 
 (4) Azt a tényt, hogy a (2) bekezdés b)–d) pontjában meghatározott kizáró okok vele szemben nem állnak fenn, az érintett hatósági bizonyítvánnyal igazolja
 
-- a) a békéltetőtestületi tagsági kijelölés feltételeként,
+- a) a békéltető testületi tagsági kijelölés feltételeként,
 - b) megbízatásának tartama alatt a békéltető testület elnöke, a békéltető testület elnöke tekintetében a fogyasztóvédelemért felelős miniszter írásbeli felhívására a felhívástól számított tizenöt munkanapon belül, vagy ha ez e határidőn belül az érintetten kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul.
 
 22/A. § (1) A békéltető testület elnöke a békéltető testület tagját, a fogyasztóvédelemért felelős miniszter a békéltető testület elnökét írásban, a mulasztás jogkövetkezményének ismertetésével felhívhatja annak igazolására, hogy az igazolásra felhívottal szemben nem áll fenn a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok.
 
-(2) Ha az (1) bekezdésben meghatározott felhívásra a békéltetőtestületi tag, illetve a békéltető testület elnöke igazolja, hogy vele szemben nem áll fenn a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok, az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a békéltető testület a tag, a fogyasztóvédelemért felelős miniszter a testület elnöke részére megtéríti.
+(2) Ha az (1) bekezdésben meghatározott felhívásra a békéltető testületi tag, illetve a békéltető testület elnöke igazolja, hogy vele szemben nem áll fenn a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok, az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a békéltető testület a tag, a fogyasztóvédelemért felelős miniszter a testület elnöke részére megtéríti.
 
-22/B. § (1) Az alkalmassági feltételek teljesülése és a kizáró okok vizsgálata céljából a békéltető testület elnöke kezeli a békéltetőtestületi tagnak jelölt személy
+22/B. § (1) Az alkalmassági feltételek teljesülése és a kizáró okok vizsgálata céljából a békéltető testület elnöke kezeli a békéltető testületi tagnak jelölt személy
 
 - a) 22. § (1) bekezdés szerinti végzettséget és szakmai gyakorlatot igazoló dokumentumokban,
 - b) 22. § (2) bekezdés a) pontjában meghatározott kizáró ok fenn nem állásának megállapítása céljából történt adatszolgáltatásban, valamint
@@ -297,34 +322,34 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (2) A békéltető testület elnöke – ha a testület munkaterhe azt indokolja – elnökhelyettest jelölhet ki a testületi tagok közül. Az elnököt akadályoztatása esetén az elnökhelyettes teljes jogkörrel helyettesíti. Elnökhelyettes hiányában az elnököt szükség esetén az általa az adott alkalommal történő helyettesítésre kijelölt tag a kijelölésben meghatározott körben helyettesítheti.
 
-23/A. § A tagokról a testület elnöke listát vezet. A lista tartalmazza a tagok nevét, szakterületük és a tagot jelölő szervezet megjelölését. Ezek az adatok közérdekből nyilvános adatok. Az elnök a testületi tagok listáját megküldi a békéltető testület működési feltételeit biztosító kamarának, valamint a fogyasztóvédelemért felelős miniszternek.
+23/A. § A tagokról a testület elnöke listát vezet. A lista tartalmazza a tagok nevét, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületük és a tagot jelölő szervezet megjelölését. Ezek az adatok közérdekből nyilvános adatok. Az elnök a testületi tagok listáját megküldi a békéltető testület működési feltételeit biztosító kamarának, valamint a fogyasztóvédelemért felelős miniszternek.
 
 24. § (1) A békéltető testületi tag megbízatása megszűnik
 
-- a) a megbízatás időtartamának lejártával,
+- a) a békéltető testület megbízatása időtartamának lejártával,
 - b) ha vele szemben a 22. § (2) bekezdés a) pontja szerinti kizáró ok áll fenn,
 - c) ha bejelenti, hogy vele szemben a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok áll fenn, vagy a 22/A. § (1) bekezdésében meghatározott felhívásra nem igazolja vagy nem tudja igazolni, hogy nem áll fenn vele szemben a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok,
 - d) lemondással,
 - e) alkalmatlanná válása esetén,
 - f) halálával.
 
-(2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a tagot jelölő szervezet véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a békéltető testület tagjai közül választott, a vállalkozói oldal és a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt tagokból álló háromfős testület állapítja meg.
+(2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a tagot jelölő szervezet véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a békéltető testület tagjai közül választott, a kamara, megyei (fővárosi) agrárkamarák és a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt tagokból álló háromfős testület állapítja meg.
 
-(3) Ha a békéltető testületi tag megbízatása e törvényben szabályozott bármely okból megszűnik, helyette a békéltető testületi tag jelölésére vonatkozó rendelkezések megfelelő alkalmazásával új testületi tagot kell kijelölni. Ha a békéltetőtestületi tag megbízatása az (1) bekezdés a) pontja alapján szűnik meg, az olyan folyamatban lévő ügyben, amelyben az eljáró tanács tagja, még eljár. Ha a békéltetőtestületi tag megbízatása az (1) bekezdés b)–f) pontja alapján szűnik meg, a folyamatban levő ügyekben a békéltető testület elnöke jelöli ki a megszűnt megbízatású tag helyett eljáró tagot.
+(3) Ha a békéltető testületi tag megbízatása e törvényben szabályozott bármely okból megszűnik, helyette a békéltető testületi tag jelölésére vonatkozó rendelkezések megfelelő alkalmazásával új testületi tagot kell kijelölni. Ha a békéltető testületi tag megbízatása az (1) bekezdés b–f) pontja alapján szűnik meg, a folyamatban lévő ügyekben a békéltető testület elnöke jelöli ki a megszűnt megbízatású tag helyett eljáró tagot.
 
-(4) Ha az (1) bekezdés b)–f) pontja szerinti okból a békéltető testület elnökének megbízatása szűnik meg, a békéltetőtestületi elnök megválasztására vonatkozó rendelkezések megfelelő alkalmazásával új elnököt kell választani, illetve megbízni.
+(4) Ha az (1) bekezdés b)–f) pontja szerinti okból a békéltető testület elnökének megbízatása szűnik meg, a békéltető testületi elnök megválasztására vonatkozó rendelkezések megfelelő alkalmazásával új elnököt kell választani, illetve megbízni.
 
 24/A. § A békéltető testületi tagoknak függetlennek és pártatlannak kell lenniük, nem lehetnek képviselői a feleknek, eljárásuk során utasítást nem fogadhatnak el. Teljes titoktartásra kötelezettek a békéltető testület működése során tudomásukra jutott tények és adatok tekintetében, az eljárás megszűnése után is. Minderről kijelölésük elfogadásakor írásbeli nyilatkozatot kötelesek tenni.
 
 25. § (1) A békéltető testület – a (4) bekezdésben foglalt kivétellel – háromtagú tanácsban jár el.
 
-(2) Az eljáró tanács egyik tagját az eljárást megindító fogyasztó, egy másik tagját pedig az eljárással érintett vállalkozás jelöli ki a testületi tagok 23/A. §-ban meghatározott listájáról. Az eljáró tanács elnökét, továbbá ha a felek bármelyike a megadott határidőn belül nem él a jelölés lehetőségével, vagy ha más okból szükséges, az eljáró tanács hiányzó tagját a testület elnöke jelöli ki, figyelemmel a (3) bekezdés szerinti követelményekre, továbbá arra, hogy legalább egy tag a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt, egy másik tag pedig a vállalkozói oldal által kijelölt testületi tagok közül kerüljön ki, valamint minden olyan szempontra, amely nagy valószínűséggel biztosítja független és pártatlan testületi tag kijelölését.
+(2) Az eljáró tanács egyik tagját az eljárást megindító fogyasztó, egy másik tagját pedig az eljárással érintett vállalkozás jelöli ki a testületi tagok 23/A. §-ban meghatározott listájáról. Az eljáró tanács elnökét, továbbá ha a felek bármelyike a megadott határidőn belül nem él a jelölés lehetőségével, vagy ha más okból szükséges, az eljáró tanács hiányzó tagját a testület elnöke jelöli ki, figyelemmel a (3) bekezdés szerinti követelményekre, továbbá arra, hogy legalább egy tag a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt, egy másik tag pedig a kamara vagy a megyei (fővárosi) agrárkamarák által kijelölt testületi tagok közül kerüljön ki, valamint minden olyan szempontra, amely nagy valószínűséggel biztosítja független és pártatlan testületi tag kijelölését. Nem jelölhető ki az eljáró tanács tagjának az a békéltető testületi tag, aki az üggyel kapcsolatban a fogyasztónak vagy a vállalkozásnak tanácsot adott. E követelmény érvényesüléséről a békéltető testület elnöke az eljáró tanács tagjainak 29. § (5) bekezdése szerinti jelölése során is gondoskodik.
 
 (3) Az eljáró tanács legalább egy tagja jogi végzettséggel kell, hogy rendelkezzen.
 
 (4) Ha a testület elnöke szerint a fogyasztói jogvita egyszerű megítélésű, az eljárás lefolytatására egyedül eljáró testületi tagot jelöl ki. Ha azonban mindkét fél – az általa az (1) bekezdés szerint jelölhető testületi tag megjelölésével – azt kéri, a békéltető testület ebben az esetben is háromtagú tanácsban jár el.
 
-(5) A (3) bekezdésben meghatározott esetben egyedül eljáró testületi tagként csak az jelölhető ki, aki jogi végzettséggel rendelkezik, és a megelőző három évben nem állt az őt jelölő kamarával vagy szakmai érdek-képviseleti szervezettel, illetve fogyasztói érdekek képviseletét ellátó egyesülettel, vagy ezek tagjával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
+(5) A (4) bekezdésben meghatározott esetben egyedül eljáró testületi tagként csak az jelölhető ki, aki jogi végzettséggel rendelkezik, és a megelőző három évben nem állt az őt jelölő kamarával, megyei (fővárosi) agrárkamarával, illetve fogyasztói érdekek képviseletét ellátó egyesülettel, vagy ezek tagjával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
 
 (6) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említ, azon az egyedül eljáró testületi tagot is érteni kell.
 
@@ -340,7 +365,14 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (6) A kizárási kérelemről a békéltető testület elnöke dönt, az érintett testületi tag meghallgatása után. E döntés meghozataláig az eljáró tanács – a kizárással érintett testületi tagot is beleértve – folytathatja az eljárást, de kötelezést tartalmazó határozatot, illetve ajánlást nem hozhat.
 
-26/A. § A békéltető testület bárki kérésére köteles haladéktalanul, írásban vagy más megfelelő formában tájékoztatást adni a hatásköréről, illetékességéről, eljárásának szabályairól és költségeiről, a kötelezést tartalmazó határozat, illetve az ajánlás hozatalának feltételeiről, a határozatok kikényszerítésének módjáról, az ajánlás és a kötelezést tartalmazó határozat hatályon kívül helyezésének feltételeiről, és arról, hogy a békéltető testület eljárása nem érinti az igények bírósági úton való érvényesíthetőségét.
+26/A. § (1) A békéltető testület bárki kérésére köteles haladéktalanul, írásban vagy más megfelelő formában tájékoztatást adni a hatásköréről, illetékességéről, eljárásának szabályairól és költségeiről, a kötelezést tartalmazó határozat, illetve az ajánlás hozatalának feltételeiről, a határozatok kikényszerítésének módjáról, az ajánlás és a kötelezést tartalmazó határozat hatályon kívül helyezésének feltételeiről, és arról, hogy a békéltető testület eljárása nem érinti az igények bírósági úton való érvényesíthetőségét.
+
+(2) A békéltető testület a fogyasztó vagy a vállalkozás kérésére a fogyasztót megillető jogokkal, kötelezettségekkel kapcsolatban teljesített tanácsadásról nyilvántartást vezet, amely tartalmazza:
+
+- a) a fogyasztó, illetve a vállalkozás nevét,
+- b) a tanácsot adó személy nevét,
+- c) a tanácsadás időpontját és
+- d) a tanácsadással érintett ügy rövid tartalmi összefoglalását.
 
 27. § A békéltető testület eljárása megindításának feltétele, hogy a fogyasztó az érintett vállalkozással közvetlenül megkísérelje a vitás ügy rendezését.
 
@@ -353,30 +385,31 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - c) – ha az illetékességet a 20. § (3) bekezdése szerint a szerződés teljesítésének helyére kívánja alapítani – a fogyasztónak a teljesítés helyére vonatkozó nyilatkozatát,
 - d) a fogyasztó álláspontjának rövid leírását, az azt alátámasztó tényeket és azok bizonyítékait,
 - e) a fogyasztó nyilatkozatát a 27. §-ban előírt feltétel teljesítéséről,
-- f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben más békéltető testület eljárását nem kezdeményezte, közvetítői eljárást vagy polgári peres eljárást nem indított,
-- g) a testület döntésére irányuló indítványt.
+- f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben más békéltető testület eljárását nem kezdeményezte, közvetítői eljárás nem indult, keresetlevél beadására, illetve fizetési meghagyás kibocsátása iránti kérelem előterjesztésére nem került sor,
+- g) a testület döntésére irányuló indítványt,
+- h) a fogyasztó aláírását.
 
 (3) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát (kivonatát), amelynek tartalmára a fogyasztó bizonyítékként hivatkozik, így különösen a vállalkozás írásbeli nyilatkozatát a panasz elutasításáról, ennek hiányában a fogyasztó rendelkezésére álló egyéb írásos bizonyítékot a 27. §-ban előírt egyeztetés megkísérléséről.
 
 (4) Ha a fogyasztó meghatalmazott útján jár el, a kérelemhez csatolni kell a meghatalmazást.
 
-(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a békéltető testület elnöke a kérelmet – annak beérkezésétől számított tizenöt napon belül – a hiányok megjelölése mellett pótlás végett a kérelmezőnek visszaküldi.
+(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a békéltető testület elnöke a hiány megjelölésével – a kérelem beérkezésétől számított tizenöt napon belül – pótlásra hívja fel a kérelmezőt.
 
 28/A. § Az eljárás megindítása az elévülést megszakítja. Az eljárás eredményes befejezése után az elévülésre a Ptk. 327. §-a (1) és (2) bekezdésében, az eljárás eredménytelensége esetén a Ptk. 326. §-a (2) bekezdésében foglaltak irányadók.
 
-29. § (1) Az eljárás megindulásától kezdődő határidők számításakor az eljárás megindulásának az minősül, amikor a hiánytalan kérelem a békéltető testület elnökéhez beérkezik.
+29. § (1) Az eljárás megindulásától kezdődő határidők számításakor az eljárás megindulásának napja az a nap, amelyen a kérelem a békéltető testület elnökéhez beérkezik, hiánypótlásra történő felhívás esetén az a nap, amelyen a kérelmező a hiánypótlásnak eleget tett.
 
 (2) A békéltető testület elnöke az eljárás megindulásától számított nyolc napon belül megvizsgálja, hogy az ügy a testület hatáskörébe és illetékessége alá tartozik-e. A testület hatáskörének vagy illetékességének hiánya esetén az ügyet – a kérelmező egyidejű értesítésével – a hatáskörrel, illetve illetékességgel rendelkező szervezetnek haladéktalanul megküldi.
 
 (3) A testület hatáskörének és illetékességének megállapítása esetén az elnök – a (4) és a (7) bekezdésben meghatározott kivételekkel – az eljárás megindulásától számított hatvan napon belüli meghallgatási időpontot tűz ki a felek számára.
 
-(4) Az elnök a kérelmet – meghallgatás kitűzése nélkül – elutasítja, ha megállapítható, hogy a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt korábban más békéltető testület előtt eljárást indítottak, közvetítői eljárást indítottak, per van folyamatban vagy annak tárgyában már jogerős ítéletet hoztak.
+(4) Az elnök az eljárást megszünteti, ha megállapítható, hogy a felek között ugyanabból a ténybeli alapból származó ugyanazon jog iránt korábban más békéltető testület előtt eljárást indítottak, közvetítői eljárást indítottak, per van folyamatban vagy annak tárgyában már jogerős ítéletet hoztak.
 
 (5) Az elnök a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának és a 23/A. § szerinti lista egyidejű megküldésével kellő időben előzetesen értesíti, azzal a felhívással, hogy az eljáró tanács általuk jelölhető tagjára vonatkozó javaslatukat legkésőbb az értesítés részükre történt kézbesítésétől számított nyolc napon belül tegyék meg, ellenkező esetben a kijelölésről a békéltető testület elnöke hivatalból gondoskodik.
 
 (6) A 25. § (4) bekezdése szerinti esetben az elnök az értesítésben közli a felekkel a kijelölt eljáró testületi tag személyét, egyben köteles felhívni a felek figyelmét arra, hogy a 25. § (4) bekezdésében meghatározottak szerint nyolc napon belül kérhetik, hogy a testület háromtagú tanácsban járjon el.
 
-(7) Az elnök a körülmények mérlegelése alapján kezdeményezheti az eljárás írásbeli lefolytatását, a meghallgatás mellőzéséhez azonban mindkét fél hozzájárulását be kell szereznie.
+(7) A hozzájárulást megadottnak kell tekinteni, ha a fél – az elnök erre irányuló felhívásának kézbesítésétől számított – tizenöt napon belül nem nyilatkozik.
 
 (8) Az értesítésben a vállalkozást fel kell szólítani, hogy az értesítés részére történt kézbesítésétől számított nyolc napon belül írásban nyilatkozzék (válaszirat) a fogyasztó igényének jogosságát és az ügy körülményeit, valamint a tanács döntésének kötelezésként történő elfogadását (alávetés) illetően, nyilatkozatában jelölje meg az állításait alátámasztó tényeket és azok bizonyítékait, illetve csatolja azokat az okiratokat (ezek másolatát), amelyek tartalmára bizonyítékként hivatkozik. Figyelmeztetni kell a vállalkozást, hogy az ügy érdemére vonatkozó nyilatkozattételének elmaradása esetén a tanács a rendelkezésére álló adatok alapján határoz.
 
@@ -384,9 +417,13 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (10) Ha a vállalkozás válasziratát nem terjeszti elő, a tanács köteles az eljárást folytatni, anélkül, hogy a mulasztást a kérelmező állításai elismerésének tekintené.
 
-29/A. § A békéltető testület eljárása során az iratokat a feleknek postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kell kézbesíteni.
+29/A. § (1) A békéltető testület eljárása során az iratokat a feleknek postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kell kézbesíteni.
+
+(2) A postai szolgáltató útján megküldött iratokat a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni, ha a címzett az átvételt megtagadta. Ha az irat a békéltető testülethez „nem kereste” jelzéssel érkezett vissza, az iratot a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
 29/B. § A felek meghatalmazott útján is eljárhatnak. Meghatalmazott lehet bármely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet.
+
+29/C. § A békéltető testület eljárása során az eljáró tanács vagy annak tagja nem adhat tanácsot a fogyasztót megillető jogokról és kötelezettségekről.
 
 30. § (1) Az eljárás során a tanács elnöke egyezséget kísérel meg létrehozni a felek között. Ha az egyezség megfelel a jogszabályoknak, a tanács azt határozattal jóváhagyja, ellenkező esetben, illetve egyezség hiányában az eljárást folytatja.
 
@@ -403,7 +440,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - a) a fogyasztó a kérelmét visszavonja,
 - b) a felek az eljárás megszüntetésében megállapodnak,
 - c) az eljárás folytatása lehetetlen,
-- d) az eljárás folytatására a tanács megítélése szerint bármely okból – ideértve a kérelem megalapozatlanságát is – nincs szükség.
+- d) az eljárás folytatására a tanács megítélése szerint bármely okból – ideértve azt az esetet is, ha a kérelem megalapozatlansága meghallgatás tartása nélkül megállapítható – nincs szükség.
 
 (4) A tanács az ügy érdemében szótöbbséggel dönt.
 
@@ -414,15 +451,28 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - a) kötelezést tartalmazó határozatot hoz, ha a kérelem megalapozott, és a vállalkozás – a békéltető testületnél vagy a kamaránál nyilvántartott, illetve kereskedelmi kommunikációjában közölt – általános alávetési nyilatkozatában, az eljárás kezdetekor vagy legkésőbb a döntés meghozataláig nyilatkozatában a békéltető testület döntését magára nézve kötelezőként elismerte, vagy
 - b) ajánlást tesz, ha a kérelem megalapozott, azonban a vállalkozás az eljárás kezdetekor úgy nyilatkozott, hogy a tanács döntését kötelezésként nem ismeri el, illetve ha a tanács döntésének elismeréséről egyáltalán nem nyilatkozott.
 
+32/A. § A tanács a fogyasztó kérelmének elutasításáról dönt, ha a meghallgatást követően a kérelmet megalapozatlannak találja.
+
 33. § (1) A kötelezést tartalmazó határozatnak, illetve az ajánlásnak ki kell terjednie a kérelemben előterjesztett valamennyi indítványra és a döntés alapjául szolgáló indokokra. A kötelezést tartalmazó határozatban rendelkezni kell az eljárás költségének összegéről és annak viseléséről.
 
-(2) Az eljárás költségének tekintendő mindaz a költség, ami a felek oldalán a békéltető testület eljárása igénybevételével összefüggésben – a célszerű és jóhiszemű eljárás követelményére figyelemmel – igazoltan felmerült (előzetes tudakozódás, egyeztetés és levelezés költsége, a felek személyes megjelenésével összefüggő útiköltség és keresetkiesés stb.).
+(2) Az eljárás költségének tekintendő mindaz a költség, ami a felek oldalán a békéltető testület eljárása igénybevételével összefüggésben – a célszerű és jóhiszemű eljárás követelményére figyelemmel – igazoltan felmerült (előzetes tudakozódás, egyeztetés és levelezés költsége, a felek személyes megjelenésével összefüggő útiköltség és keresetkiesés stb.). A jogi képviselettel összefüggésben felmerülő költség nem tekinthető az eljárás költségének.
 
 (3) Az eljárás költségét az a fél viseli, akinek terhére a tanács az ügyet eldöntötte.
 
 (4) A kötelezést tartalmazó határozatban megállapított kötelezettség teljesítésére rendszerint – a határozat kézbesítését követő naptól számított – tizenöt napos határidőt kell szabni.
 
-(5) A tanács határozatát, illetve ajánlását annak meghozatala napján hirdeti ki. A kihirdetett határozat, illetve ajánlás írásba foglalt egy-egy példányát legkésőbb tizenöt napon belül meg kell küldeni a feleknek.
+(5) A tanács határozatát, illetve ajánlását annak meghozatala napján hirdeti ki. A kihirdetett határozat, illetve ajánlás írásba foglalt egy-egy példányát legkésőbb harminc napon belül meg kell küldeni a feleknek.
+
+(6) A kötelezést tartalmazó határozat vagy az ajánlás kézbesítése esetén a békéltető testület elnöke a 29/A. § (2) bekezdés szerinti kézbesítési vélelem beálltáról a vélelem beálltát követő nyolc napon belül – a kötelezést tartalmazó határozat vagy az ajánlás egyidejű csatolásával – értesíti a felet, és gondoskodik a kézbesítési vélelem beállta tényének, valamint a vállalkozás nevének, székhelyének a békéltető testületek honlapján – az ügyszám megjelölésével – történő közzétételéről.
+
+(7) A kötelezést tartalmazó határozat vagy az ajánlás kézbesítése esetén kézbesítési vélelem megdöntése iránti kérelmet
+
+- a) a címzett a kézbesítés szabálytalansága esetén, vagy
+- b) ha a természetes személy, illetve a jogi személyiséggel nem rendelkező gazdasági társaság címzett a kézbesítésről önhibáján kívül nem szerzett tudomást a kézbesítési vélelem beálltáról történő tudomásszerzéstől számított tizenöt napon belül, de legkésőbb a kézbesítési vélelem beálltától számított hat hónapos jogvesztő határidőn belül terjeszthet elő.
+
+(8) A kérelemben elő kell adni azokat a tényeket, körülményeket, amelyek a kézbesítés szabálytalanságát igazolják vagy az önhiba hiányát valószínűsítik.
+
+(9) A kérelmet tizenöt napon belül annak a békéltető testületnek az elnöke bírálja el, amelynek tagja, tanácsa a kötelezést tartalmazó határozatot vagy az ajánlást hozta. Ha a békéltető testület elnöke a kérelemnek helyt ad, a vélelmezett kézbesítéshez fűződő jogkövetkezmények hatálytalanok, és a kötelezést tartalmazó határozatot vagy ajánlást öt napon belül meg kell küldeni a feleknek.
 
 34. § (1) A tanács határozata, illetve ajánlása nem érinti a fogyasztónak azt a jogát, hogy igényét bírósági eljárás keretében érvényesítse.
 
@@ -450,21 +500,23 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (3) A tanács az (1) bekezdésben meghatározott hibát a határozat, illetve az ajánlás kihirdetésétől számított harminc napon belül kérelem hiányában is kijavíthatja.
 
-36. § (1) Ha a vállalkozás a tanács ajánlásának nem tesz eleget, a békéltető testület – a fogyasztó nevének megjelölése nélkül – jogosult a jogvita tartalmának rövid leírását és az eljárás eredményét – legkorábban az ajánlásnak a vállalkozás részére történt kézbesítésétől számított hatvan nap elteltével – nyilvánosságra hozni.
+36. § (1) Ha a vállalkozás a tanács ajánlásának nem tesz eleget, a békéltető testület – a fogyasztó nevének megjelölése nélkül – a jogvita tartalmának rövid leírását és az eljárás eredményét – legkorábban az ajánlásnak a vállalkozás részére történt kézbesítésétől számított hatvan nap elteltével – nyilvánosságra hozza. A kézbesítési vélelemre tekintettel nyilvánosságra hozott ajánlások esetén, ha a kézbesítési vélelmet megdöntik, a békéltető testület haladéktalanul intézkedik a nyilvánosságra hozatal megszüntetéséről.
 
 (2) Az (1) bekezdéstől eltérve, az ajánlás nem hozható nyilvánosságra, ha a 34. § (2) bekezdése szerint annak hatályon kívül helyezését kérték, mindaddig, amíg a bíróság eljárása jogerősen le nem zárult.
 
-(3) Ha a vállalkozás a tanács kötelezést tartalmazó határozatát vagy a határozattal jóváhagyott egyezséget a teljesítési határidőn belül nem hajtja végre, a fogyasztó kérheti a bíróságtól a tanács határozatának végrehajtási záradékkal történő ellátását.
+(3) Ha a vállalkozás a tanács kötelezést tartalmazó határozatát vagy a határozattal jóváhagyott egyezséget a teljesítési határidőn belül nem hajtja végre, a fogyasztó kérheti a bíróságtól a tanács határozatának végrehajtási záradékkal történő ellátását, a békéltető testület elnökének egyidejű értesítése mellett.
 
 (4) A bíróság megtagadja a határozat végrehajtásának elrendelését, ha a 18. § (1) bekezdése alapján a békéltető testületnek nem volt hatásköre az eljárásra.
 
 (5) A fogyasztó a határozattal jóváhagyott egyezség és a kötelezést tartalmazó határozat végrehajtásának, illetve az ajánlásban foglaltak követésének elmaradásáról köteles értesíteni a békéltető testületet.
 
+(6) Ha a kézbesítési vélelemre tekintettel végrehajtási záradékkal ellátott kötelezést tartalmazó határozat alapján végrehajtási eljárás indult, és a címzett a kézbesítési vélelem megdöntése iránti kérelmet terjeszt elő, a kérelemnek a végrehajtásra nincs halasztó hatálya. Ha azonban a kérelemben foglalt tények fennállása valószínűnek mutatkozik, erről a kérelmet elbíráló békéltető testület elnöke – a valószínűségre vonatkozó álláspontja és a kérelem megküldésével – haladéktalanul értesíti a bíróságot. A vállalkozás a kézbesítési vélelem megdöntése iránti kérelmében kérheti a végrehajtás felfüggesztését, amit a bíróság a fogyasztó meghallgatása nélkül is elrendelhet.
+
 36/A. § (1) A békéltető testület tevékenységéről évente összefoglaló tájékoztatót készít, és azt a tárgyévet követő év január 31-éig megküldi a fogyasztóvédelemért felelős miniszternek.
 
 (2)
 
-36/B. § A békéltető testület közzéteheti annak a vállalkozásnak a nevét, székhelyét és az eljárással érintett tevékenysége megjelölését, amely a 29. § (8) bekezdése szerinti felszólítás ellenére nem tett az ügy érdemére vonatkozó – a 29. § (8) bekezdésében foglaltaknak megfelelő tartalmú – nyilatkozatot és a kitűzött meghallgatáson nem jelent meg, ilyen módon megakadályozva az egyezség létrehozását. Erre az értesítésben a vállalkozás figyelmét fel kell hívni.
+36/B. § A békéltető testület közzéteszi annak a vállalkozásnak a nevét, székhelyét és az eljárással érintett tevékenysége megjelölését, amely a 29. § (8) bekezdése szerinti felszólítás ellenére nem tett az ügy érdemére vonatkozó – a 29. § (8) bekezdésében foglaltaknak megfelelő tartalmú – nyilatkozatot és a kitűzött meghallgatáson nem jelent meg, ilyen módon megakadályozva az egyezség létrehozását. Erre az értesítésben a vállalkozás figyelmét fel kell hívni.
 
 36/C. § (1) A vállalkozás a székhelye szerinti békéltető testületnél vagy – valamennyi békéltető testületre kiterjedő hatállyal – a Magyar Kereskedelmi és Iparkamaránál írásban, visszavonásig érvényes általános alávetési nyilatkozatot tehet, amelyben vállalja, hogy a békéltető testületi eljárásnak és egyezség hiányában az ilyen eljárásban hozott határozatnak aláveti magát. Az alávetési nyilatkozatban a vállalkozás kötelezettségvállalásának mértékét, illetve hatályát a jogvita tárgyának általa meghatározott értékében vagy más módon is korlátozhatja.
 
@@ -508,27 +560,44 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - h) a békéltető testületnél a 36/C. § (1) bekezdése alapján általános alávetési nyilatkozatot tett vállalkozások jegyzéke az alávetés esetleges korlátozásának megadásával,
 - i) hivatkozás az egyes békéltető testületeknél a 36/C. § (1) bekezdése alapján általános alávetési nyilatkozatot tett vállalkozásoknak a fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzétett, az (1) bekezdés f) pontja szerinti jegyzék, valamint a Magyar Kereskedelmi és Iparkamara által a (2) bekezdés c) pontja szerint közzétett jegyzék elérhetőségére.
 
-38. §
+### Közérdekű igényérvényesítés
+
+38. § (1) A fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület pert indíthat a fogyasztók polgári jogi igényeinek érvényesítése iránt az ellen, akinek a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezésekbe ütköző tevékenységét a fogyasztóvédelmi hatóság jogerősen megállapította, ha a jogsértő tevékenység a fogyasztók széles, személyében nem ismert, de a jogsértés körülményei alapján meghatározható körét érinti.
+
+(2) A jogsértés bekövetkezésétől számított három év – vagy ha külön törvény a fogyasztók polgári jogi igényeinek elévülésére rövidebb időtartamot állapít meg, akkor annak – eltelte után perindításnak nincs helye. E határidő elmulasztása jogvesztéssel jár. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll. Az igény érvényesítésére nyitva álló határidőbe nem számít bele a fogyasztóvédelmi hatóság eljárásának időtartama.
+
+(3) Ha a jogsértéssel érintett fogyasztók tekintetében az érvényesített igény jogalapja és az igényben megjelölt kár összege, illetve egyéb követelés esetén a követelés tartalma – a jogsértéssel érintett egyes fogyasztók egyedi körülményeire tekintet nélkül – egyértelműen megállapítható, a fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület kérheti, hogy a bíróság ítéletében kötelezze a vállalkozást a követelés teljesítésére, ellenkező esetben kérheti, hogy a bíróság állapítsa meg a jogsértés tényét a keresetben meghatározott valamennyi fogyasztóra kiterjedő hatállyal. Ha a bíróság a jogsértés tényét a keresetben meghatározott valamennyi fogyasztóra kiterjedő hatállyal állapította meg, a jogsértéssel érintett fogyasztó az általa a jogsértő ellen indított perben kizárólag a kárának összegét, valamint a jogsértés és a kára közötti okozati összefüggést köteles bizonyítani.
+
+(4) A bíróság ítéletében meghatározza azoknak a jogosult fogyasztóknak a körét és az azonosíthatóságukhoz szükséges adatokat, akik tekintetében a jogsértés tényét megállapította, illetve akik jogosultak az ítéletbeli kötelezés teljesítésének követelésére.
+
+(5) Ha a bíróság ítéletében a jogsértés tényének megállapításán túl a vállalkozást meghatározott követelés teljesítésére is kötelezte, a vállalkozás köteles az (5) bekezdés szerint meghatározott jogosult fogyasztó igényét az ítéletnek megfelelően kielégíteni. Önkéntes teljesítés hiányában a jogosult fogyasztó kérheti az ítélet bírósági végrehajtását. A fogyasztó jogosultságát a bíróság az ítéletben meghatározott feltételek alapján a végrehajtási lap kiállítására irányuló eljárásában vizsgálja.
+
+(6) A bíróság az igény érvényesítőjének kérelmére ítéletében elrendelheti, hogy a vállalkozás saját költségére közlemény közzétételéről gondoskodjon. A közlemény szövegéről és a közzététel módjáról a bíróság dönt. Közzététel alatt érteni kell különösen az országos napilapban és az Internet útján történő nyilvánosságra hozatalt.
+
+(7) A fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület általi igényérvényesítés nem érinti a fogyasztónak azt a jogát, hogy a jogsértővel szemben a polgári jog szabályai szerint igényét önállóan érvényesítse.
+
+(8) Az e § szerinti igényérvényesítési jog megilleti az Európai Gazdasági Térség bármely más tagállamának joga alapján létrejött azon feljogosított szervezeteket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikkének (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesíteni kívánt igény a 2009/22/EK európai parlamenti és tanácsi irányelv I. mellékletében felsorolt európai uniós jogi rendelkezéseket átültető olyan jogszabályi rendelkezések megsértésén alapul, amelyek miatti eljárás a 45/A. § (1)–(3) bekezdése alapján a fogyasztóvédelmi hatóság hatáskörébe tartozik.
 
 38/A–38/C. §
 
-### Keresetindítás
+### Közérdekű keresetindítás
 
-39. § (1) Az ellen, akinek jogszabályba ütköző tevékenysége a fogyasztók széles körét érinti vagy jelentős nagyságú hátrányt okoz, a fogyasztóvédelmi hatóság, a fogyasztói érdekek képviseletét ellátó egyesület vagy az ügyész pert indíthat a fogyasztók széles körének védelme, illetőleg a jelentős nagyságú hátrány kiküszöbölése érdekében. Ilyen per akkor is indítható, ha a sérelmet szenvedett fogyasztók személye nem állapítható meg.
+39. § (1) Ha a vállalkozás jogszabálysértő tevékenysége a fogyasztók széles, személyében nem ismert, de a jogsértés körülményei alapján meghatározható körét érinti vagy jelentős nagyságú hátrányt okoz, és az eljárás a bíróság hatáskörébe tartozik, az ügyészt vagy a fogyasztói érdekek képviseletét ellátó egyesületet keresetindítási jog illeti meg.
 
-(2) Az (1) bekezdésben meghatározott kereset a jogsértés bekövetkezését követő egy éven belül nyújtható be.
+(2) Ha a 2009/22/EK európai parlamenti és tanácsi irányelv I. mellékletében felsorolt európai uniós jogi rendelkezéseket átültető jogszabályi rendelkezések megsértése miatti eljárás bíróság hatáskörébe tartozik, az (1) bekezdés szerint keresetindítási jog illeti meg az Európai Gazdasági Térség bármely más tagállamának joga alapján létrejött azon feljogosított szervezeteket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikkének (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek.
 
-(3) A bíróság az ítéletben feljogosíthatja az igény érvényesítőjét, hogy a jogsértő költségére az ítéletet országos napilapban közzétegye.
+(3) Az (1)–(2) bekezdés szerinti szervezetek által indított keresetekre a 38. § (3)–(7) bekezdése megfelelően alkalmazandó. Az (1)–(2) bekezdés szerint keresetindításra jogosultak keresetükben a következőket is követelhetik:
 
-(4) A jogsértő köteles a sérelmet szenvedett fogyasztó igényét az ítéletnek megfelelően kielégíteni. Ez nem érinti a fogyasztónak azt a jogát, hogy a jogsértővel szemben a polgári jog szabályai szerint igényét érvényesítse.
+- a) a jogsértés abbahagyását és a jogsértő eltiltását a további jogsértéstől,
+- b) a sérelmes helyzet megszüntetését és a jogsértést megelőző állapot helyreállítását.
 
-(5) A keresetindítási jog az (1)–(4) bekezdésben meghatározottak szerint megilleti azokat az Európai Gazdasági Térség bármely államának joga alapján létrejött feljogosított egységeket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesített igény a 2009/22/EK európai parlamenti és tanácsi irányelv I. mellékletében felsorolt közösségi jogi rendelkezéseket átültető jogszabályi rendelkezések megsértésén alapul.
+(4) Az e § szerinti igényérvényesítés nem érinti a fogyasztónak azt a jogát, hogy a jogsértővel szemben a polgári jog szabályai szerint igényét önállóan érvényesítse.
 
 ## MÁSODIK RÉSZ — A FOGYASZTÓVÉDELEM ÁLLAMI, ÖNKORMÁNYZATI ÉS ÉRDEKKÉPVISELETI INTÉZMÉNYRENDSZERE
 
 ### VII. Fejezet — A fogyasztóvédelem állami intézményrendszere
 
-39/A. § A Kormány – a tudatos fogyasztói magatartás és döntéshozatal kultúrájának fejlesztése, a fogyasztók minél magasabb színvonalú és tisztességes kiszolgálása, a fogyasztók biztonságát és tájékozott döntését előmozdító, fogyasztóbarát kereskedelmi gyakorlatok kialakítása, a vállalkozások és fogyasztók, illetve e szereplők és a fogyasztóvédelemmel összefüggő állami feladatot ellátó hatóságok közötti kapcsolatok javítása, a kiszámítható, következetes és egységes hatósági jogalkalmazás erősítése, a vállalkozások önszabályozási gyakorlata megerősítésének elősegítése céljából – ösztönzi az országos gazdasági kamarák, a vállalkozások szakmai érdek-képviseleti szervezetei, a fogyasztói érdekek képviseletét ellátó egyesületek, valamint a fogyasztóvédelemmel összefüggő állami feladatot ellátó hatóságok közös megegyezésén alapuló, a követendő elveket és legjobb gyakorlatokat rögzítő nyilatkozat létrehozását.
+39/A. §
 
 40. § (1) A fogyasztóvédelemért felelős miniszter
 
@@ -543,7 +612,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (3) A koncepcióban foglaltakat a gazdaságpolitikai döntések kialakítása, továbbá a nemzetgazdaság bármely ágában megvalósuló végrehajtási tevékenység során érvényre kell juttatni.
 
-41. § A fogyasztóvédelemért felelős miniszter az állami szervekhez címzett, jogszabály vagy közvetlenül alkalmazandó európai uniós jogi aktus vállalkozás számára fogyasztóval szembeni kötelezettséget megállapító rendelkezésének megsértése miatti fogyasztói beadványokat fogadó, azokat a hatáskörrel és illetékességgel rendelkező hatósághoz továbbító, valamint a fogyasztókat a rendelkezésre álló eljárási lehetőségekről tájékoztató telefonon, illetve elektronikusan is elérhető állami ügyfélszolgálatot működtet.
+41. §
 
 42–43. §
 
@@ -588,7 +657,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - a) érdekfeltáró munkájukkal segítsék a fogyasztók gazdasági érdekeinek és fogyasztói jogainak érvényesítését, ennek keretében feltárják a fogyasztói problémákat, értékeljék a fogyasztói jogok érvényesülését,
 - b) figyelemmel kísérjék a fogyasztókkal szemben alkalmazott általános szerződési feltételeket,
 - c) képviseljék a fogyasztókat az érdekegyeztető fórumokon és testületekben,
-- d) eljárást, vizsgálatot, intézkedést kezdeményezzenek a fogyasztói jogok vagy fogyasztói érdekek védelme érdekében,
+- d) közérdekű keresetet indítsanak, eljárást, vizsgálatot, intézkedést kezdeményezzenek a fogyasztói jogok vagy fogyasztói érdekek védelme érdekében,
 - e) véleményezzék a fogyasztókat érintő jogszabálytervezeteket, jogszabály-módosítást kezdeményezzenek a fogyasztói jogok vagy fogyasztói érdekek érvényesítése vagy védelme érdekében,
 - f) közreműködjenek a fogyasztóvédelmi politika kidolgozásában és figyelemmel kísérjék annak érvényesülését,
 - g) a fogyasztók tájékoztatását szolgáló és jogérvényesítésüket elősegítő tanácsadó irodákat és a fogyasztók tájékoztatását szolgáló információs rendszert működtessenek,
@@ -628,43 +697,49 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 - a) a fogyasztói érdekek képviseletét ellátó egyesületeket, illetve
 - b) a 43/A. § (1) bekezdés a)–c), e) és f), valamint h)–k) pontjában említett irányelveket, továbbá a 2006/123/EK európai parlamenti és tanácsi irányelvet átültető jogszabályi rendelkezések megsértésére hivatkozással az Európai Gazdasági Térség bármely más államának joga alapján létrejött azon feljogosított egységeket is, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek.
 
+(2a) A (2) bekezdés a) pontjától eltérően a fogyasztói érdekek képviseletét ellátó egyesületeket a más által kezdeményezett eljárásban az ügyfél jogai csak akkor illetik meg, ha az eljárásban vizsgált jogsértés a fogyasztók széles körét érinti.
+
 (3) A fogyasztóvédelmi hatóság eljárása a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
-47. § (1) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértését, az eset összes körülményeinek – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, illetve a jogsértéssel elért előny – figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket állapíthatja meg:
+47. § (1) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértését, az eset lényeges körülményeinek – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, illetve a jogsértéssel elért előny – figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket állapíthatja meg:
 
 - a) elrendelheti a jogsértő állapot megszüntetését,
-- b) megtilthatja a jogsértő magatartás további folytatását,
-- c) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezheti a vállalkozást azzal, hogy az a hibák, hiányosságok megszüntetése érdekében tett intézkedéséről köteles értesíteni a fogyasztóvédelmi hatóságot,
-- d) a jogszerű állapot helyreállításáig feltételhez kötheti vagy megtilthatja az áru forgalmazását, illetve értékesítését,
+- b) megtilthatja a jogsértő magatartás folytatását,
+- c) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezheti a vállalkozást,
+- d) a jogszerű állapot helyreállításáig feltételhez kötheti, vagy megtilthatja az áru forgalmazását, illetve értékesítését,
 - e) elrendelheti a fogyasztó életére, egészségére, testi épségére veszélyes termék forgalomból való kivonását vagy visszahívását,
 - f) elrendelheti a fogyasztó életére, egészségére, testi épségére veszélyes termék megsemmisítését a környezetvédelmi szempontok figyelembevételével,
 - g) a jogszerű állapot helyreállításáig terjedő időtartamra elrendelheti a jogsértéssel érintett üzlet ideiglenes bezárását, ha az a fogyasztók életének, testi épségének, egészségének védelme vagy a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében szükséges,
-- h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását, illetve
+- h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását,
 - i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
-(2) Külön jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg.
+(2) Az (1) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a fogyasztóvédelmi hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
 
-(3) Az (1) és (2) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatók.
+(3) Külön jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg.
 
-(4) Az (1) bekezdés alkalmazásában a jogsértés súlyát különösen a jogsértéssel érintett fogyasztók száma, érdekeik sérelmének köre, a jogsértő magatartás kiterjedtsége, a jogsértéssel érintett áruk értéke, valamint az alapozhatja meg, hogy a vállalkozás tevékenységét az annak megkezdéséhez és folytatásához jogszabályban előírt egyéb feltételekkel végzi-e.
+(4) Az (1) és (3) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatók.
 
-(5) A fogyasztóvédelmi hatóság a jogsértés megszüntetése érdekében határozathozatal helyett hatósági szerződést köthet azzal az ügyféllel, aki vállalja, hogy felhagy a jogsértő magatartással, és magatartását a hatósági szerződésben meghatározott módon hozza összhangba a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezésekkel.
+(5) Az (1) bekezdés alkalmazásában a jogsértés súlyát különösen a jogsértéssel érintett fogyasztók száma, érdekeik sérelmének köre, a jogsértő magatartás kiterjedtsége, valamint a jogsértéssel érintett áruk értéke alapozhatja meg.
 
-(6) Nincs helye az (1) bekezdés szerinti jogkövetkezmény alkalmazásának a fogyasztóvédelmi hatósággal hatósági szerződést kötő ügyféllel szemben a szerződésben megállapított teljesítési határidőn belül azon jogsértés miatt, amelynek megszüntetése érdekében a szerződés megkötésére sor került.
+(6) A fogyasztóvédelmi hatóság a jogsértés megszüntetése érdekében határozathozatal helyett hatósági szerződést köthet azzal az ügyféllel, aki vállalja, hogy felhagy a jogsértő magatartással, és magatartását a hatósági szerződésben meghatározott módon hozza összhangba a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezésekkel.
 
-(7) A fogyasztóvédelemért felelős miniszter az (1) bekezdés szerinti jogkövetkezmények alkalmazásának elveiről a fogyasztóvédelmi hatóság számára normatív utasítást ad ki. Az utasítás tervezetéről a jogszabályok előkészítésére vonatkozó szabályok megfelelő alkalmazásával a miniszter konzultációt folytat a vállalkozások szakmai érdek-képviseleti szervezeteivel és a fogyasztói érdekek képviseletét ellátó egyesületekkel. Az utasítást a Magyar Közlönyben közzé kell tenni.
+(7) Nincs helye az (1) bekezdés szerinti jogkövetkezmény alkalmazásának a fogyasztóvédelmi hatósággal hatósági szerződést kötő ügyféllel szemben a szerződésben megállapított teljesítési határidőn belül azon jogsértés miatt, amelynek megszüntetése érdekében a szerződés megkötésére sor került.
 
-(8) A fogyasztóvédelmi hatóság az (1) bekezdés d), g), illetve h) pontja szerinti jogkövetkezmény megállapításáról szóló döntését közli az üzlet működési engedélyét kiadó kereskedelmi hatósággal.
+(8) A fogyasztóvédelmi hatóság az (1) bekezdés d), g), illetve h) pontja szerinti jogkövetkezmény megállapításáról szóló döntését közli a vállalkozásról, illetve az üzletről nyilvántartást vezető kereskedelmi hatósággal.
 
-(9) A hatósági ellenőrzés, illetve a fogyasztóvédelmi hatóság eljárása során a vállalkozás köteles közölni a tevékenységével kapcsolatos – az ellenőrzés lefolytatásához, illetve az érdemi döntéshez szükséges – adatokat a nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatok kivételével.
+(9) A hatósági ellenőrzés, illetve a fogyasztóvédelmi hatóság eljárása során a vállalkozás köteles közölni a tevékenységével kapcsolatos – az ellenőrzés lefolytatásához, illetve az érdemi döntéshez szükséges – adatokat a nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatok kivételével. Ha a fogyasztóvédelmi hatóság felhívására a vállalkozás az adatokat nem közli, vagy valótlan adatot közöl, vele szemben eljárási bírság kiszabásának van helye.
 
-(10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult minta és ellenminta vételére a termék biztonságosságának, minőségének, illetve összetételének vizsgálata céljából. A minta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi, illetve az egyéb vizsgálatok költsége eljárási költség.
+(10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult minta és ellenminta vételére a termék biztonságosságának, minőségének vagy összetételének vizsgálata céljából. A minta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
 
 (11) A (10) bekezdés szerinti eljárási költséget a jogsértésért felelős vállalkozás viseli, ha a minta az előírt követelményeknek nem felel meg.
 
-(12) A fogyasztóvédelmi hatóság termék vagy szolgáltatás tekintetében próbavásárlást végezhet.
+(12) A (10) bekezdésben foglalt laboratóriumi és kockázatértékelési vizsgálatok elvégzésének időtartama az ügyintézési határidőbe nem számít be.
 
-47/A. § (1) A próbavásárláshoz a fogyasztóvédelmi hatóság közreműködő személyt vehet igénybe.
+(13) A fogyasztóvédelmi hatóság termék vagy szolgáltatás tekintetében próbavásárlást végezhet.
+
+(14) A fogyasztóvédelmi hatóság a 2006/2004/EK európai parlamenti és tanácsi rendeletből eredő feladatainak teljesítése során, az Fgytv. 45/A (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértésének alapos gyanúja esetén jogosult a hatósági eljárás megindítása előtt a jogsértő vállalkozást előzetesen, határidő tűzésével felhívni a hibák, hiányosságok megszüntetésére. Amennyiben a vállalkozás a felhívásban foglaltakat a fogyasztóvédelmi hatóság felhívásában meghatározott határidőben nem teljesíti, a fogyasztóvédelmi hatóság lefolytatja az e törvény szerinti fogyasztóvédelmi eljárást.
+
+47/A. § (1) A próbavásárláshoz a fogyasztóvédelmi hatóság közreműködő személyt vehet igénybe. A közreműködő személlyel megbízási szerződés köthető, amely alapján megbízási díjra jogosult.
 
 (2) A közreműködő személy részére a közreműködést igénybe vevő fogyasztóvédelmi hatóság megbízólevelet állít ki, amely tartalmazza a közreműködő személy nevét, továbbá azt, hogy mely vállalkozásnál milyen típusú ellenőrzésben vehet részt.
 
@@ -682,7 +757,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 47/C. § (1) A bírság összege 15 ezer forinttól
 
-- a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 100 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
+- a) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó vállalkozás esetében a vállalkozás éves nettó árbevételének 5%-áig, de legfeljebb 100 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb 2 milliárd forintig,
 - b) az a) pont hatálya alá nem tartozó vállalkozás esetében 500 ezer forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
 
 terjedhet.
@@ -699,7 +774,7 @@ terjedhet.
 
 (4) Ha a vállalkozás a beszámolóban az adatokat devizában adja meg, a forintra történő átszámításkor a Magyar Nemzeti Bank által megállapított, a vállalkozás üzleti évének lezárásakor – újonnan alapított vállalkozás esetén a tárgyévet megelőző év utolsó napján – érvényes hivatalos devizaárfolyamot kell alkalmazni.
 
-(5) A fogyasztóvédelmi hatóság minden esetben bírságot szab ki, ha
+(5) A fogyasztóvédelmi hatóság – ha a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény eltérően nem rendelkezik – minden esetben bírságot szab ki, ha
 
 - a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító jogerős határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
 - b) a jogsértés a fogyasztók életét, testi épségét, egészségét sérti vagy veszélyezteti, vagy a fogyasztók széles körét érinti, továbbá
@@ -715,7 +790,7 @@ terjedhet.
 
 (6) A jogerősen kiszabott bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
-(7)
+(7) A fogyasztóvédelmi hatóság eljárása során kiszabott eljárási bírság adók módjára behajtandó köztartozás.
 
 49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra fellebbezésre tekintet nélkül végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
 
@@ -723,8 +798,10 @@ terjedhet.
 
 - a) a 47. § (1) bekezdésének h) pontja szerinti jogkövetkezmény megállapítása esetén,
 - b) környezetvédelmi okból,
-- c) a fogyasztók testi épségének, egészségének védelme érdekében, továbbá
-- d) a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében.
+- c) a fogyasztók testi épségének, egészségének védelme érdekében,
+- d) a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében,
+- e) a fiatalkorúak fizikai, szellemi, érzelmi vagy erkölcsi fejlődésének védelme érdekében, továbbá
+- f) jogsértő tartalmú kereskedelmi kommunikáció vagy internetes honlap esetén.
 
 (3) Az (1) bekezdés szerinti végzés ellen önálló fellebbezésnek van helye.
 
@@ -782,7 +859,7 @@ terjedhet.
 
 (2) E törvény 18–37. §-ában foglalt rendelkezéseket 1999. január 1-jétől kell alkalmazni.
 
-53. §
+53. § A 2016. január 1-jét követően felálló békéltető testületek tagjainak kijelölése során figyelemmel kell lenni arra, hogy a testületi tagok legfeljebb fele lehet olyan személy, aki az általános öregségi nyugdíjkorhatárt betöltötte. A békéltető testületi tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja. A békéltető testület elnöke az életkor vizsgálata céljából történt adatszolgáltatásban foglalt személyes adatokat a kijelölési eljárás befejezéséig kezeli.
 
 54. §
 
@@ -798,7 +875,7 @@ terjedhet.
 - f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és a jogszabály alapján az eljáró hatóságot megillető eljárási költség felhasználására,
 - g) a békéltető testületi tagok díjazására,
 - h) a fogyasztóvédelmi hatóság vagy hatóságok kijelölésére, feladat- és hatáskörére,
-- i) a békéltető testületi tagok kijelölésére, valamint a 21. § (4) bekezdés b) pontjában említett végzettségre és szakismeretre,
+- i) a békéltető testületi tagok kijelölésére,
 - j) a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének végrehajtása céljából a fogyasztói érdekek képviseletét ellátó egyesületeknek az irányelv 4. cikk (3) bekezdésében meghatározott jegyzékre való felkerülése céljából lefolytatandó eljárásra,
 - k) az Európai Fogyasztói Központok Hálózatában való részvételre,
 - l) a fogyasztói csoportok szervezésére és működésére, valamint a fogyasztói csoportokkal kapcsolatos fogyasztóvédelmi hatósági feladatok ellátását végző szerv kijelölésére, annak feladat- és hatáskörére,
@@ -817,9 +894,9 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (4) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben részletes szabályokat állapítson meg a külön jogszabályban meghatározott termékek (termékkörök) használati és kezelési útmutatójának tartalmára.
 
-(5) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a fogyasztóknak megvételre kínált termékek ára és egységára, illetve szolgáltatások díja feltüntetésének részletes szabályait.
+(5) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a fogyasztóknak megvételre kínált termékek ára és egységára, illetve szolgáltatások díja feltüntetésére, valamint az egységár meghatározásának alapjául szolgáló mértékegységre vonatkozó részletes szabályokat.
 
-56/B. § Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 39. § (5) bekezdésében említett irányelv mellékletében felsorolt, valamint a 43/A. § (1) bekezdésében, illetve a 46. § (2) bekezdésének b) pontjában meghatározott uniós jogi rendelkezéseket átültető jogszabályi rendelkezések felsorolását.
+56/B. § Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 39. § (2) bekezdésében említett irányelv mellékletében felsorolt, valamint a 43/A. § (1) bekezdésében, illetve a 46. § (2) bekezdésének b) pontjában meghatározott uniós jogi rendelkezéseket átültető jogszabályi rendelkezések felsorolását.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -827,14 +904,14 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 - a)
 - b) az Európai Parlament és a Tanács 98/6/EK irányelve (1998. február 16.) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről [a 2. § m) és n) pontja, a 14. § (1)–(3), (5) és (6) bek., az 56/A. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
-- c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 39. § (3) és (5) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
+- c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 38. § (7) bekezdése, a 39. § (2) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
 - d) az Európai Parlament és a Tanács 2001/95/EK irányelve (2001. december 3.) az általános termékbiztonságról [a 2. § c) és s)–u) pontja és a 3–5. §, a törvény végrehajtására az 55. § (1) bek. a) pontjában adott felhatalmazás alapján megalkotott kormányrendelettel együtt];
 - e) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről (a 18–37/A. §).
 - f)–h)
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:
 
-- a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) és (6) bekezdés, 5. cikk (1) bekezdés, 16. cikk (1) bekezdés, 17. cikk (1) bekezdés, 21. cikk (2) bekezdés [a 43/A. §, a 43/B. §, a 47. § (5) bek., valamint az 51. § (2)–(4) bek.];
+- a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) és (6) bekezdés, 5. cikk (1) bekezdés, 16. cikk (1) bekezdés, 17. cikk (1) bekezdés, 21. cikk (2) bekezdés [a 43/A. §, a 43/B. §, a 47. § (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 43/A. § (4) bek.];
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 43/A. § (4) bek.].
 
