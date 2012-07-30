@@ -74,7 +74,7 @@ Az Országgyűlés annak érdekében, hogy Magyarország Európai Unióhoz tört
 
 (5) A felsőoktatási intézményekben folytatott kutatásokhoz – pályázati rendszerben – hozzájárul az Országos Tudományos Kutatási Alapprogram és a Kutatási és Technológiai Innovációs Alap is.
 
-(6) A kiemelkedő színvonalú képzést nyújtó, a tudományos életben elismert, az Európai Kutatási Térségkutatási tevékenységéhez kapcsolódó egyetem – Kormány által meghatározott feltételekkel – „kutatóegyetem” minősítést kaphat. A „kutatóegyetem” jelentős hazai és nemzetközi kutatás-fejlesztési és innovációs tevékenységet végez, amelynek eredményét az oktatásba közvetíti, a tehetséggondozást a képzés minden szintjén kiemelt feladatként végzi, kiemelkedő teljesítményt nyújt a doktori képzés területén, valamint mind a kutatás, mind a képzés területén széles körű nemzetközi együttműködéssel rendelkezik, továbbá országos, illetve regionális vezető szerepet lát el.
+(6)
 
 (7) A felsőoktatási intézmény a kutatási-fejlesztési feladatainak ellátása során együttműködhet a Magyar Tudományos Akadémiával és annak intézményeivel. Ennek keretei között különösen támogatott kutatócsoportot hozhatnak létre és tarthatnak fenn. A kutatócsoport és az akadémiai intézet felsőoktatási intézménybe kihelyezett szervezeti egysége tanszékként működhet, továbbá részt vehet a doktori képzésben.
 
@@ -1089,29 +1089,13 @@ részére azzal, hogy az előnyben részesítés kizárólag az előnyben része
 
 (3) A tudományos diákkör a kötelező tananyaggal kapcsolatos tudományos és művészeti ismeretek elmélyítését, bővítését, a hallgatók kutatómunkáját, illetve alkotótevékenységét szolgálja.
 
-(4) A szakkollégium célja, hogy saját szakmai program kidolgozásával magas szintű, minőségi szakmai képzést nyújtson, segítve a kiemelkedő képességű hallgatók tehetséggondozását, közéleti szerepvállalását, az értelmiségi feladatokra történő felkészülés tárgyi és személyi feltételeinek megteremtését, a társadalmi problémákra érzékeny, szakmailag igényes értelmiség nevelését. A szakkollégium az önkormányzatiság elvére és a szakkollégisták öntevékenységére épül, a szakkollégium tagsága dönt különösen a kollégiumi tagsági jogviszony keletkezéséről vagy megszűnéséről, az önálló szakkollégium szervezeti és működési szabályzatának elfogadásáról, a szakkollégium szakmai programjáról és az ahhoz kötődő szakmai teljesítményekre vonatkozó követelményekről.
-
-(5) Ha a kollégiumot azzal a céllal hozzák létre, hogy a (4) bekezdésben foglalt feltételek szerint részt vegyen a tehetséggondozásban, szakkollégiumként működik. A szakkollégium kollégium és diákotthon részeként is működhet, ha megfelel a (4) bekezdésben foglaltaknak. A szakkollégiumban tudományos diákkör is működhet. A szakkollégium szolgáltatásait igénybe veheti az a hallgató is, aki nem rendelkezik kollégiumi tagsági viszonnyal.
-
-(6) Ha a szakkollégium felsőoktatási intézmény részeként működik, feladatait a felsőoktatási intézmény költségvetésében meghatározott keretek között láthatja el.
+(4)–(6)
 
 (7) A felsőoktatási intézmény mentorprogram keretében nyújt segítséget a hátrányos helyzetű hallgató tehetségének kibontakoztatásához. A mentorprogram megszervezésének elveit a Kormány határozza meg.
 
 (8) Az e §-ban meghatározott feladatokban a diákotthon a felsőoktatási intézménnyel kötött megállapodás alapján közreműködhet.
 
-66/A. § (1) A miniszter a szakkollégiumi tehetséggondozás támogatására – pályázat útján – Szakkollégiumi Kiválósági Központ címet adományoz.
-
-(2) A cím olyan szakkollégiumnak adományozható, amely
-
-- a) a 66. § (3) bekezdésében meghatározott követelményeket magas színvonalon teljesíti, és elsődleges feladatának a tudásalapú elitképzést tekinti,
-- b) rendelkezik önálló, a felsőoktatási képzés magas színvonalú kiegészítéseként működtetett képzési rendszerrel,
-- c) tagjai külön szakmai felvételi eljárással kerülnek a szakkollégiumba,
-- d) szakmai programja keretében olyan képzést nyújt, amely programjában a kiscsoportos és az egyéni képzési forma, a több tudományterületet érintő ismeretszerzés a meghatározó,
-- e) szakkollégista tagjainak a tudományos diákköri munkában való részvételével, az eredményeket bemutató – magyar és nemzetközi – tevékenységével járul hozzá az egyéni szakmai tudományos életpályához, a doktori fokozat megszerzéséhez és a közéleti szerepvállaláshoz,
-- f) megállapodás keretében képzési és kutatási kapcsolatot tart fenn felsőoktatási intézménnyel, a Magyar Tudományos Akadémiával, annak intézeteivel, továbbá a közoktatásban tevékenykedő tehetségsegítő tudományos műhelyekkel és szervezetekkel,
-- g) szakmai programjának megvalósításában közreműködő oktatóinak legalább nyolcvan százaléka tudományos fokozattal rendelkezik, illetve amelynek b) pont szerinti képzései során a felsőoktatási intézmény doktoranduszai is közreműködnek.
-
-(3) A címet a miniszter ötéves időtartamra adományozza. Az adományozás az (1)–(2) bekezdésben előírt feltételek teljesítése, további fennállása esetén megismételhető. A miniszter a címet megvonja, ha a (2) bekezdésben előírt adományozási feltételek már nem állnak fenn.
+66/A. §
 
 ### A DOKTORI KÉPZÉSRE VONATKOZÓ KÜLÖN SZABÁLYOK
 
@@ -2243,9 +2227,7 @@ nyújtott támogatás. Az e bekezdésben szabályozott költségvetési hozzáj�
 
 ### A FINANSZÍROZÁS EGYÉB KÉRDÉSEI
 
-134. § (1) A Kormány a képzés és kutatás minőségének emelése céljából a hallgatók, az oktatók és a kutatók támogatására ösztöndíjat alapíthat. A Kormány által alapított ösztöndíj – külön törvény szerint – mentes a közterhektől.
-
-(2) Az ösztöndíj pályázati feltételeit, pályázati rendjét a Kormány határozza meg.
+134. §
 
 135. § (1) A felsőoktatási intézmények a 4. §-ban meghatározott feladataikkal összefüggő beruházási, fejlesztési, képzési kockázatfedezeti alapot hozhatnak létre. A kockázatfedezeti alap akkor jön létre, ha legalább tíz felsőoktatási intézmény elhatározza részvételét, és elfogadja az alap alapító okiratát. Az alapot közbeszerzési eljárás során kiválasztott pénzintézet működteti. A kockázatfedezeti alap szabályzata határozza meg, hogy e törvény rendelkezései alapján mely esetben, milyen feltétellel és mértékben vállal kockázatot.
 
@@ -2670,7 +2652,7 @@ annak tekintetében, aki a díj, a helyezés, a szakképzettség, az elismerés 
 
 (5) Az 1993. évi felsőoktatásról szóló törvény 10/A. §-a és 10/B. §-a rendelkezései alapján utoljára 2006-ban lehet ösztöndíjat odaítélni, a már megállapított ösztöndíjakat e törvény hatálybalépése nem érinti, azokat az ösztöndíjas jogviszony kezdetekor hatályos rendelkezések szerint kell az ösztöndíj tartamának megfelelően folyósítani.
 
-(6) A felsőoktatási ösztöndíjak odaítélésének rendjét, mértékét, az ösztöndíjra jogosultak körét, valamint e törvény bevezetésével összefüggésben további átmeneti szabályokat a Kormány határozza meg.
+(6)
 
 152/A. § (1)–(4)
 
@@ -2702,7 +2684,7 @@ annak tekintetében, aki a díj, a helyezés, a szakképzettség, az elismerés 
 - 18. a felsőoktatási intézmények nyilvántartását vezető szerv vagy szervek eljárását, működési, felügyeleti rendjét [107. §],
 - 19. a az Országos Kredittanács működésével kapcsolatos kérdéseket [, 114. § (7) bekezdés],
 - 20. a felsőoktatási intézmény finanszírozásával, gazdálkodásával kapcsolatos kérdéseket [127. § (2) bekezdés, 128. § (6) bekezdés, 129. § (2) bekezdés, 130. § (7) bekezdés, 131. § (4) bekezdés, 132. § (3) bekezdés, 133. § (2) bekezdés, 141. § (9) bekezdés, 143. § (4) bekezdés], a magán intézmények gazdálkodásával kapcsolatos kérdéseket [138. § (1) bekezdés],
-- 21. felsőoktatási ösztöndíjak alapítását [134. § (1)–(2) bekezdés, 152. § (6) bekezdés],
+- 21.
 - 22.
 - 23.
 
