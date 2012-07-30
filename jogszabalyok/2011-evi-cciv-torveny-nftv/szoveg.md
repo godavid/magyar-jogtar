@@ -26,7 +26,9 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 
 #### 4. A működési engedély
 
-#### 7–10. §
+#### 7–9. §
+
+#### 10. §
 
 ### III. Fejezet — A FELSŐOKTATÁSI INTÉZMÉNY MŰKÖDÉSÉNEK ALAPELVEI
 
@@ -218,6 +220,8 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 
 (2) A MAB-nak gondoskodnia kell a közérdekből nyilvános adatnak minősülő szakmai bírálati szempontrendszerének, az általa elfogadott szakértői vélemények és állásfoglalások tartalmának, a közreműködő szakértők személyének megismerhetőségéről. A MAB bírálati szempontrendszere a magyar felsőoktatás egészére egységes, fenntartótól függetlenül érvényes.
 
+(3) A MAB jogosult az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben szabályozott közhasznú jogállás megszerzésére.
+
 71. § (1) A MAB-nak tizennyolc tagja van. Kilenc tagot delegál a miniszter, kettő tagot a Magyar Tudományos Akadémia, egy tagot a Magyar Művészeti Akadémia, három tagot a Magyar Rektori Konferencia, kettő tagot a felsőoktatási intézményt fenntartó egyházi jogi személyek, egy tagot a Doktoranduszok Országos Szövetsége. A tagoknak – a Doktoranduszok Országos Szövetsége delegált tag kivételével – tudományos fokozattal kell rendelkezniük. A delegálók a delegálás során egyeztetni kötelesek a nagyobb tudományterületek arányos képviselete érdekében. Nem lehet a MAB tagja, aki a Felsőoktatási Tervezési Testület tagja, rektor vagy kormánytisztviselő.
 
 (2) A MAB elnökének személyére a bizottság tagjai közül a miniszter és a Magyar Tudományos Akadémia elnöke tesz egyeztetett javaslatot. Az elnököt a miniszterelnök nevezi ki.
@@ -225,6 +229,8 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 (3) A MAB tagjai közül tisztségviselőket választ, valamint meghatározza működésének rendjét.
 
 (4) A delegált tagokat – a miniszter előterjesztésére – a miniszterelnök bízza meg. A megbízás egy alkalommal meghosszabbítható. A tagok megbízatása – a Doktoranduszok Országos Szövetsége által delegált tag kivételével – hat évre szól. A Doktoranduszok Országos Szövetsége által delegált tagot a miniszterelnök kettő évre bízza meg.
+
+(5) Az azonos tárgy, vagy személy tekintetében, egy eljárás keretében a 67. és 69. §-ban meghatározottak szerint szükséges újabb szakvélemény elkészítésével kapcsolatos feladatok pártatlan, tárgyilagos szempontokon alapuló ellátása céljából a MAB szervezetének részeként három tagból álló Felülvizsgálati Bizottságot kell működtetni. A Felülvizsgálati Bizottság tagjait a miniszter delegálja, megbízásukra, összeférhetetlenségükre a MAB tagjaira vonatkozó szabályokat kell alkalmazni, azzal, hogy nem lehet a Felülvizsgálati Bizottság tagja az a személy, aki megbízását megelőző három éven belül a MAB tagja volt.
 
 #### 42. A felsőoktatási intézmények szakmai testületei
 
@@ -362,17 +368,24 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 
 #### 67. A törvény hatálybalépése
 
-109. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2012. január 1-jén lép hatályba.
+109. § (1) Ez a törvény – a (2)–(3) bekezdésben meghatározott kivétellel – 2012. január 1-jén lép hatályba.
 
-(2) Az 1–69. §, a 72–108. §, a 110. § (1) bekezdés 1–18. és 20–22., valamint 24–27. pont, a 110. § (2)–(4) bekezdés, a 111. § (1)–(5) bekezdés, a 112–114. §, a 115. § (1)–(4) és (6)–(7) bekezdés, a 117. § (1)–(4) és (6) bekezdés, a 118–119. §, a 120. § (1) bekezdés, az 1–4. melléklet 2012. szeptember 1-jén lép hatályba.
+(2) Az 1–9. §, 11–48. §, 49–53. §, 55–69. §, a 72–107. §, a 108. § 1–7. pont, 8–23. pont, 24–44. pont, a 110. § (1) bekezdés 2–11., 13–18. és 20., 22., valamint 24–27. pont, a 110. § (2)–(4) bekezdés, a 111. § (1)–(5) bekezdés, a 112–114. §, a 115. § (1)–(4) és (6)–(7) bekezdés, a 117. § (1)–(4) és (6) bekezdés, a 118–119. §, a 120. § (1) bekezdés, az 1–4. melléklet 2012. szeptember 1-jén lép hatályba.
+
+(3) A 10. §, 54. §, a 110. § (1) bekezdés 1., 12., 21. pontja 2012. július 31-én lép hatályba.
 
 #### 68. Felhatalmazó rendelkezések
 
 110. § (1) A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza
 
-- 1–18.
+- 1.
+- 2–11.
+- 12.
+- 13–18.
 - 19. a MAB működésével, hatáskörével, a Felsőoktatási Tervezési Testület létrehozásával, működésével kapcsolatos kérdéseket,
-- 20–22.
+- 20.
+- 21.
+- 22.
 - 23.
 - 24–27.
 
@@ -396,7 +409,7 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 
 (6)–(7)
 
-(8) A 14. § (3) bekezdés második mondata alapján a törzskönyvi nyilvántartásban nyilvántartandó, de 2012. szeptember 1-jén még nyilvántartásba nem vett törzskönyvi jogi személy 2012. november 30-ig köteles kezdeményezni a nyilvántartásba vételt.
+(8)
 
 116. § (1) A 2005. évi felsőoktatási törvény alapján létrehozott MAB tagjainak megbízása 2012. február 29-én megszűnik. Az e törvény szerinti jogosultak 2012. február 15-ig delegálják a MAB új tagjait. A MAB 2012. március 1-jén tartja meg alakuló ülését.
 
