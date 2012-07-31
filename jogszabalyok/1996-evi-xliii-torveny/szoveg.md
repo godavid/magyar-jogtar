@@ -2631,7 +2631,7 @@ különbözetének megtérítése iránti igényt.
 - a) országos parancsnok,
 - b) főigazgató,
 - c) megyei (budapesti) rendőrfőkapitány, és a vele azonos jogállású szervek vezetői,
-- d)
+- d) a Készenléti Rendőrség parancsnokának helyettesei,
 - e)
 - f) a hivatásos katasztrófavédelmi szerv területi szerve vezetője, és a vele azonos jogállású szervek vezetői,
 - g) tűzoltó parancsnok,

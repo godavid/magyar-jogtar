@@ -130,7 +130,7 @@ A közbiztonság és a közrend megteremtése és fenntartása az állam alapvet
 
 9. § (1) Az Országos Polgárőr Szövetség közigazgatási hatósági feladatként
 
-- a) kiadja a polgárőr tevékenység végzésére jogosító igazolványt (a továbbiakban: polgárőr igazolvány),
+- a)
 - b) nyilvántartást vezet a kiadott polgárőr igazolványokról, a kiadásuk alapjául szolgáló, a 10. § (3) bekezdésében meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, a polgárőr szolgálat ellátására jogosultakról, az igazolvány visszavonásáról, bevonásáról,
 - c) dönt a szolgálati és etikai szabályokat megszegő polgárőrökkel szemben benyújtott panaszról,
 - d) az országos baleset-megelőzési bizottság tagjaként közvetlenül is részt vesz a baleset-megelőzésben.
@@ -400,7 +400,7 @@ rögzíti.
 - c) a polgárőrök formaruhával történő ellátásának szabályait,
 - d) a polgárőr igazolvány formátumát,
 - e) a formaruha és a fényvisszaverő mellény jellemzőit,
-- f) – az adópolitikáért felelős miniszterrel egyetértésben – a polgárőr igazolvány kiadásával kapcsolatos igazgatási szolgáltatási díjat,
+- f)
 - g) – az államháztartásért felelős miniszterrel egyetértésben – az éves költségvetési törvényben meghatározott összegű támogatás elosztásának a részletes szabályait.
 
 #### 9. Hatályba léptető rendelkezések
