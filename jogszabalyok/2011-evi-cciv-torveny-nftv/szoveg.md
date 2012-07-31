@@ -28,7 +28,13 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 
 #### 7–9. §
 
-#### 10. §
+10. § (1) A Kormány nemzetstratégiai célok megvalósítása érdekében, rendeletében meghatározottak szerint, állami fenntartású felsőoktatási intézményt kiemelt felsőoktatási intézménnyé minősíthet.
+
+(2) A kiemelkedő színvonalú képzést nyújtó, a tudományos életben elismert egyetem, vagy egyetemi kar – a Kormány által meghatározott feltételekkel – „kutató” minősítést kaphat.
+
+(3) A több képzési területen képzést folytató, alkalmazott kutatási területen nemzetközileg elismert főiskola – a Kormány által meghatározott feltételekkel – „alkalmazott kutatások főiskolája” minősítést kaphat.
+
+(4) A miniszter megállapodás alapján az (1)–(3) bekezdésben meghatározott szervezetek, szervezeti egységek működését támogatásban részesítheti.
 
 ### III. Fejezet — A FELSŐOKTATÁSI INTÉZMÉNY MŰKÖDÉSÉNEK ALAPELVEI
 
@@ -170,7 +176,7 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 
 #### 32. Tehetséggondozás, tudományos diákkörök, szakkollégiumok
 
-#### 54. §
+54. § A felsőoktatási intézmény feladata a tantervi követelményeket meghaladó teljesítmény nyújtására képes, kiemelkedő képességű és hozzáállású, valamint a hátrányos, illetve a halmozottan hátrányos helyzetű hallgatók felkutatása, felismerése, és szakmai, tudományos, művészeti és sport tevékenységének elősegítése. A felsőoktatási intézmény önállóan vagy más felsőoktatási intézménnyel együttműködve tehetséggondozó és felzárkóztató rendszert, illetve programokat működtet: ennek keretében tudományos diákköröket, szakkollégiumokat, illetve roma szakkollégiumokat működtethet. A szakkollégiumokat, illetve a roma szakkollégiumokat felsőoktatási intézménnyel együttműködve azok is létesíthetnek, akik felsőoktatási intézmény alapítására, fenntartására e törvény alapján jogosultak. A felsőoktatási intézmény mentorprogram keretében nyújt segítséget a hátrányos helyzetű hallgató tehetségének kibontakoztatásához.
 
 ### XV. Fejezet — A HALLGATÓ FELELŐSSÉGE, A HALLGATÓI JOGVISZONY MEGSZŰNÉSE
 
@@ -378,13 +384,22 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 
 110. § (1) A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza
 
-- 1.
+- 1. a kiemelt felsőoktatási intézmény, a kutatóegyetem, kutató kar, az alkalmazott kutatások főiskolája minősítés feltételeit, rendjét, a minősítésre tekintettel megállapított támogatás felhasználási feltételeit,
 - 2–11.
-- 12.
-- 13–18.
+- 12. a tehetséggondozás rendjét, így különösen
+  - a) a tudományos diákköri tevékenység országos szintű rendszerét,
+  - b) a szakkollégiumok szervezésének elveit,
+  - c) a tehetséggondozási tevékenység előmozdítását ösztönző támogatási rendszert,
+  - d) a felsőoktatási intézmény tehetséggondozó rendszere elveit,
+- 13.
+- 14.
+- 15.
+- 16.
+- 17.
+- 18.
 - 19. a MAB működésével, hatáskörével, a Felsőoktatási Tervezési Testület létrehozásával, működésével kapcsolatos kérdéseket,
 - 20.
-- 21.
+- 21. felsőoktatási ösztöndíjak alapítását, odaítélésük feltételeit, rendjét, így különösen a köztársasági ösztöndíj, az esélyegyenlőségi ösztöndíj, valamint a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíj adományozásának rendjét és feltételeit,
 - 22.
 - 23.
 - 24–27.
