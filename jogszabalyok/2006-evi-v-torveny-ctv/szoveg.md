@@ -931,7 +931,7 @@ illetve a cég tájékoztatási kötelezettsége
 
 (2) A hivatalból meghozott bejegyzési végzés ellen nincs helye fellebbezésnek, illetve felülvizsgálatnak, ha a bejegyzésre más bíróság vagy hatóság határozata alapján került sor (26. §).
 
-(3) A fellebbezés elbírálására a Fővárosi Ítélőtábla kizárólagos illetékességgel rendelkezik.
+(3)
 
 64/A. § (1) Ha valamely cégadat nyilvántartásba vétele hivatalbóli bejegyzéssel történik és a bejegyzésre hibás adatok alapján került sor, vagy a bejegyzés egyéb okból hibás, a cég, valamint az ügyész kérheti a hibás bejegyzés kijavítását.
 

@@ -500,8 +500,8 @@ kell keresetként figyelembe venni.
 
 41. § (1) Szolgálati időként kell figyelembe venni,
 
-- a) az öregségi nyugdíjra jogosultság szempontjából az 1998. január 1-je előtt,
-- b)
+- a) öregségi nyugdíj esetén az 1998. január 1-je előtt,
+- b) hozzátartozói nyugellátás esetén időpontra tekintet nélkül a felsőfokú oktatási intézmény nappali tagozatán folytatott – legfeljebb azonban a képesítés megszerzéséhez a tanulmányok folytatása idején szükséges – tanulmányok idejét.
 
 (2) A felsőfokú oktatási intézmény nappali tagozatán folytatott tanulmányok címén a tanulmányi időszak (tanulmányi év, tanulmányi félév) kezdetét magában foglaló hónap első napjától a végét magában foglaló hónap utolsó napjáig eltelt idő számít szolgálati időnek.
 
@@ -554,10 +554,14 @@ kell keresetként figyelembe venni.
 
 (3) Ha a jogszerző vagy annak halála esetén a hozzátartozója az egyéni számlán levő összegnek a Nyugdíjbiztosítási Alaphoz történő átutalását kérte, és az igény érvényesítésekor ez a tény bizonyított, a hozzátartozói nyugellátást a 12. § (6) bekezdés megfelelő alkalmazásával kell megállapítani
 
-44/D. § Ha az elhunyt jogszerző
+44/D. § (1) Ha az elhunyt jogszerző
 
 - a) öregségi nyugdíjban nem részesült, valamint
 - b) az öregségi nyugdíjkorhatárt még nem töltötte be, és szolgálati ideje nem éri el a huszonöt évet, a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeget a 12. § (1) bekezdésében foglaltak helyett – a 61. § szerinti kivétellel – kormányrendeletben meghatározottak szerint kell megállapítani azzal, hogy a kormányrendeletben a havi átlagkeresetnek az egyes szolgálati évekhez meghatározott százalékos mértékei nem lehetnek alacsonyabbak az azonos szolgálati évekhez a 12. § (1) bekezdésében meghatározott százalékos mértékeknél.
+
+(2) A hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg nem lehet kisebb az öregségi nyugdíj legkisebb összegénél. Ha a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg alapját képező átlagkereset az öregségi nyugdíj legkisebb összegét nem éri el, a hozzátartozói nyugellátás számításának alapjául szolgáló öregséginyugdíj-összeg azonos az alapját képező havi átlagkereset összegével.
+
+(3) A (2) bekezdésben foglaltak nem alkalmazhatók, ha a hozzátartozói nyugellátás kiszámítása során figyelembe vett szolgálati idő a 39. § szerinti arányos elismerés miatt nem éri el a jogosultsághoz előírt szolgálati időt.
 
 ### 1. CÍM — Az özvegyi nyugdíj
 
@@ -585,7 +589,7 @@ kell keresetként figyelembe venni.
 
 (3) Az (1) és (2) bekezdés alkalmazása során az özvegyi nyugdíjra történő jogszerzés szempontjából szolgálati időként kell figyelembe venni
 
-- a) az elhunyt jogszerzőnek a felsőfokú oktatási intézmény nappali tagozatán folytatott – legfeljebb azonban a képesítés megszerzéséhez a tanulmányok folytatása idején szükséges – tanulmányi idejét a 41. §-ban foglaltak szerint, de a tanulmányok időpontjára tekintet nélkül,
+- a)
 - b) azt az időtartamot, ami alatt az elhunyt jogszerző rokkantsági nyugdíjban, baleseti rokkantsági nyugdíjban vagy rokkantsági ellátásban részesült.
 
 47. § (1) Az ideiglenes özvegyi nyugdíj a házastárs halálától legalább egy évig, továbbá az elhunyt jogán árvaellátásra jogosult, másfél évesnél fiatalabb gyermeket eltartó özvegynek az árva 18 hónapos életkorának betöltéséig jár. Fogyatékos vagy tartósan beteg gyermek esetén az ideiglenes özvegyi nyugdíj azonos feltétellel a gyermek harmadik születésnapjáig folyósítható.
@@ -622,7 +626,7 @@ következik be.
 
 annak az öregségi nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
 
-(3) A (2) bekezdés a) pontja szerint hatvanszázalékos mértékben megállapított özvegyi nyugdíj helyett harminc százalékos mértékű özvegyi nyugdíjat kell megállapítani attól az időponttól, amelytől az özvegy saját jogú nyugellátásban részesül. A (2) bekezdés b) pontja szerint megállapított özvegyi nyugdíj az özvegy saját jogú nyugdíjának összegére tekintet nélkül jár.
+(3) A (2) bekezdés a) pontja szerint hatvanszázalékos mértékben megállapított özvegyi nyugdíj helyett harminc százalékos mértékű özvegyi nyugdíjat kell megállapítani attól az időponttól, amelytől az özvegy saját jogú nyugellátásban, rokkantsági ellátásban, rehabilitációs ellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül. A (2) bekezdés b) pontja szerint megállapított özvegyi nyugdíj az özvegy ellátásának összegére tekintet nélkül jár.
 
 (4)
 
@@ -755,7 +759,10 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 ### 5. CÍM — Az özvegyi járadék
 
-61/A. § (1) Az elhunyt biztosított társadalombiztosítási egyéni számláján nyilvántartott nyugdíjcélú befizetéseinek összege alapján a Nyugdíjbiztosítási Alap az özvegyi nyugdíjra jogosult személy – mint az elhunyt biztosított különös jogutódja – számára özvegyi járadékot fizet, amennyiben az özvegyi járadék összege magasabb, mint az e törvényben meghatározott özvegyi nyugdíj összege.
+61/A. § (1) A magánnyugdíjpénztárból a társadalombiztosítási nyugdíjrendszerbe visszalépett – ide értve azt az esetet is, ha a tagsági jogviszony az Mpt. 24. § (15) bekezdése alapján szűnt meg – elhunyt jogszerző után az özvegyi nyugdíj jogosultsági feltételeinek megfelelő személy – özvegyi nyugdíj helyett – özvegyi járadékra jogosult, ha annak összege magasabb, mint az özvegyi nyugdíj összege. Az özvegyi járadék összegét a Kormány rendeletében meghatározottak szerint,
+
+- a) az elhunyt jogszerzőnek a tagsági jogviszonya megszűnésekor fennálló, a visszalépő tagi kifizetésekkel csökkentett tagi követelése alapján kell kiszámítani, ha a visszalépő tagi kifizetések összegét nem a Nyugdíjbiztosítási Alapnak utalták át,
+- b) az elhunyt jogszerzőnek a tagsági jogviszonya megszűnésekor fennálló tagi követelése alapján kell kiszámítani, ha a visszalépő tagi kifizetések összegét a Nyugdíjbiztosítási Alapnak utalták át.
 
 (2) Özvegyi járadék fizetése esetén özvegyi nyugdíj nem folyósítható.
 
@@ -945,9 +952,9 @@ A nyugellátást havonta kell folyósítani, legkorábban attól a naptól kezdv
 
 86/A. § Az, aki a jogosult halála esetén a kiutalt nyugellátást jogalap nélkül vette fel, köteles azt visszafizetni, ha erre őt írásban kötelezték.
 
-87. § (1) A foglalkoztató köteles megtéríteni a baleseti rokkantsági nyugdíjat, a baleseti hozzátartozói nyugellátást, ha a baleset annak a következménye, hogy ő vagy megbízottja a reá nézve kötelező – a munkavédelemről szóló 1993. évi XCIII. törvény 11–12. §-a szerinti – munkavédelemre vonatkozó szabályokban foglalt kötelezettségének nem tett eleget. Ugyanilyen megtérítési kötelezettség terheli a foglalkoztatót akkor is, ha ő vagy alkalmazottja (tagja) a balesetet szándékosan idézte elő.
+87. § (1) A foglalkoztató köteles megtéríteni a baleseti hozzátartozói nyugellátást, ha a baleset annak a következménye, hogy ő vagy megbízottja a reá nézve kötelező – a munkavédelemről szóló 1993. évi XCIII. törvény 11–12. §-a szerinti – munkavédelemre vonatkozó szabályokban foglalt kötelezettségének nem tett eleget. Ugyanilyen megtérítési kötelezettség terheli a foglalkoztatót akkor is, ha ő vagy alkalmazottja (tagja) a balesetet szándékosan idézte elő.
 
-(1a) Ha a baleseti rokkantsági nyugdíj vagy a baleseti hozzátartozói nyugellátás több foglalkoztatónál elszenvedett balesetek (foglalkozási megbetegedések, szilikózis) együttes következménye alapján került megállapításra, az (1) bekezdés szerinti feltételek fennállása esetén a foglalkoztatókat olyan arányban kell kötelezni a nyugellátás megtérítésére, amilyen az egyes üzemi balesetekből eredő egészségkárosodások, egészségiállapot-romlások mértékének egymáshoz viszonyított aránya.
+(1a) Ha a baleseti hozzátartozói nyugellátás több foglalkoztatónál elszenvedett balesetek (foglalkozási megbetegedések, szilikózis) együttes következménye alapján került megállapításra, az (1) bekezdés szerinti feltételek fennállása esetén a foglalkoztatókat olyan arányban kell kötelezni a nyugellátás megtérítésére, amilyen az egyes üzemi balesetekből eredő egészségkárosodások, egészségiállapot-romlások mértékének egymáshoz viszonyított aránya.
 
 (2) Az (1)–(1a) bekezdés rendelkezésének alkalmazása során a foglalkoztató alatt az Mt. szerinti kölcsönvevőt is érteni kell.
 
@@ -1225,9 +1232,21 @@ rendeletben határozza meg.
 
 102/C. § Az egyéni vállalkozók nyilvántartását vezető szerv a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervnek 2011. február 28-áig elektronikus úton átadja azoknak az egyéni vállalkozóknak – az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 11. § (1) bekezdése szerinti – adatait, akik az egyéni vállalkozói tevékenység megkezdését, szünetelését, megszűnését, illetve az adatokban bekövetkező egyéb változást 2010. évben jelentették be. Az adatátadás rendjéről az egyéni vállalkozók nyilvántartását vezető szerv és a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv megállapodást köt.
 
-102/D. § A 2012. január 1-jét megelőző időre folyósított rokkantsági, baleseti rokkantsági nyugdíj visszafizetésére és megtérítésére a 2011. december 31-én hatályos szabályokat 2011. december 31-ét követően is alkalmazni kell.
+102/D. § (1) A 2012. január 1-jét megelőző időre folyósított rokkantsági, baleseti rokkantsági nyugdíj visszafizetésére és megtérítésére a 2011. december 31-én hatályos szabályokat 2011. december 31-ét követően is alkalmazni kell.
+
+(2) Azt a rokkantsági, baleseti rokkantsági nyugdíjat, amelyet a 2011. december 31-én hatályos 87. vagy 88. § alapján meg kellett téríteni, és 2012. január 1-jétől a megváltozott munkaképességű személyek ellátásairól szóló törvény rendelkezése alapján öregségi nyugdíjként kell továbbfolyósítani, továbbra is meg kell téríteni a 2011. december 31-én hatályos rendelkezések alapján azzal, hogy ahol e rendelkezések rokkantsági, baleseti rokkantsági nyugdíjat említettek, azon öregségi nyugdíjat kell érteni.
 
 102/E. § Aki 2009. december 31-éig az öregségi teljes, illetve résznyugdíjhoz szükséges életkort betöltötte és az előírt szolgálati időt megszerezte, e jogosultságát a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszony, illetve a 18. § (4) bekezdése szerinti jogviszony fennállása esetén is érvényesítheti. Ebben az esetben öregségi nyugdíjkorhatárnak e törvény 2009. december 31-én hatályos rendelkezései szerinti életkort kell tekinteni.
+
+102/E. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvénnyel megállapított 41. § (1) bekezdés b) pontjának, valamint 44/D. § (2) és (3) bekezdésének rendelkezéseit 2012. január 1-jére visszamenőlegesen alkalmazni kell. A nyugdíj-megállapító szervek a 2012. január 1-je és július 31-e közötti időponttól megállapított hozzátartozói nyugellátások összegét 2012. szeptember 30-áig felülvizsgálják, és ha a 41. § (1) bekezdés b) pontját vagy a 44/D. § (2) bekezdését alkalmazni kell, a hozzátartozói nyugellátást hivatalból, visszamenőlegesen magasabb összegben állapítják meg.
+
+102/F. § A rokkantsági vagy rehabilitációs ellátásban részesülő személy özvegyi nyugdíját – ha 2011. december 31-én özvegyi nyugdíj mellett átmeneti járadékban vagy rendszeres szociális járadékban részesült, vagy az özvegyi nyugdíj folyósítására tekintettel az átmeneti járadékát, rendszeres szociális járadékát szüneteltették – 2012. szeptember 1-jétől kell harmincszázalékos mértékűre módosítani.
+
+102/G. § (1) Ha a jogszerző 2011. február 28-át követően hunyt el, az özvegyi nyugdíj megállapítására, feléledésére irányuló, 2012. augusztus 1-jén folyamatban lévő eljárásokban az özvegyi járadékra való jogosultságot hivatalból vizsgálni kell.
+
+(2) Ha a jogszerző 2011. február 28-át követően hunyt el, és az özvegyi nyugdíj iránti kérelmet 2012. július 31-éig már elbírálták, de az özvegy az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvénnyel megállapított 61/A. § (1) bekezdése alapján özvegyi járadékra jogosult, az özvegyi járadékot a nyugdíjmegállapító szerv 2012. szeptember 30-áig, a jogosultsági feltételek teljesülésének időpontjára visszamenőlegesen hivatalból állapítja meg. A jogosultsági feltételek bekövetkezésétől 2012. szeptember 30-áig terjedő időre járó különbözetet egy összegben, az özvegyi járadék első folyósított összegével együtt, késedelmi kamattal növelt összegben kell folyósítani.
+
+102/H. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 1. mellékletével megállapított 1. melléklet rendelkezéseit 2011. december 1-jére visszamenőlegesen alkalmazni kell. A nyugdíj-megállapító szervek a 2011. december 1-je és 2012. július 31-e közötti időponttól, a 12. § (7) bekezdése alapján megállapított nyugellátások összegét 2012. szeptember 30-áig felülvizsgálják, és a nyugellátást hivatalból, visszamenőlegesen magasabb összegben állapítják meg.
 
 103. § E törvény a Tanácsnak a férfiakkal és nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról szóló 79/7/EGK irányelvével összeegyeztethető szabályozást tartalmaz.
 
@@ -1235,18 +1254,12 @@ rendeletben határozza meg.
 
 ### 1. melléklet az 1997. évi LXXXI. törvényhez
 
-#### A magán-nyugdíjpénztári tagok társadalombiztosítási nyugellátásának kiszámítása során alkalmazásra kerülő szorzószám meghatározása
+#### A magánnyugdíj-pénztári tagok társadalombiztosítási nyugellátásának kiszámítása során alkalmazásra kerülő szorzószám meghatározása
 
-A 12. § (7) bekezdésében, valamint a 28. § (2) bekezdésében hivatkozott szorzószámot a következők szerint kell kiszámítani:
+- 1. A magánnyugdíj-pénztári tagok társadalombiztosítási nyugellátásának kiszámítása során alkalmazásra kerülő szorzószámot a következők szerint kell kiszámítani: Sz = h + (1–h) * 0,75, ahol: Sz = az alkalmazásra kerülő szorzószám értéke, és
 
-Sz = h + (1–h) * 0,75 ,
+|  | h = | a 2010. szeptember 30-át követően szerzett szolgálati idő |
+| --- | --- | --- |
+|  | a teljes elismert szolgálati idő |
 
-ahol:
-
-Sz = az alkalmazásra kerülő szorzószám értéke, és
-
-| h= | a 2010. október 1. és 2011. november 30. között szerzett szolgálati idő |
-| --- | --- |
-| a teljes elismert szolgálati idő |
-
-A h értékének kiszámítása során a számlálóban és a nevezőben megjelölt időtartamot is napokban kell meghatározni, és a hányadost két tizedes jegyre kell kerekíteni.
+- 2. A h értékének kiszámítása során a számlálóban és a nevezőben megjelölt időtartamot is napokban kell meghatározni, és a hányadost két tizedes jegyre kell kerekíteni.
