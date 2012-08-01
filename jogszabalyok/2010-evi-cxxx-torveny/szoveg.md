@@ -132,6 +132,12 @@ foglalt eltérésekkel kell alkalmazni.
 
 (2) A jogszabály (1) bekezdés szerint végrehajtottá vált rendelkezése a végrehajtottá válást követő napon hatályát veszti.
 
+(3) A kizárólag
+
+- a) az (1) bekezdés szerint végrehajtottá vált rendelkezést,
+- b) hatályba léptető rendelkezést, illetve
+- c) az európai uniós követelményekre utaló rendelkezést tartalmazó jogszabály az (1) bekezdés szerint utoljára végrehajtottá vált rendelkezése végrehajtottá válását követő napon hatályát veszti.
+
 13. § (1) A felhatalmazó rendelkezés hatályon kívül helyezése esetén – kivéve, ha egyidejűleg a tárgykör szabályozására azonos tartalommal új felhatalmazó rendelkezést alkottak – a hatályon kívül helyezésről rendelkező jogszabályban intézkedni kell a végrehajtási jogszabály hatályon kívül helyezéséről vagy a végrehajtási jogszabály azon rendelkezésének a hatályon kívül helyezéséről, amely a felhatalmazás végrehajtására irányul.
 
 (2) Ha a jogszabály minden rendelkezése végrehajtottá vált, rendelkezni kell annak hatályon kívül helyezéséről.
@@ -441,9 +447,9 @@ minősül.
 
 (3) Ez a törvény nem érinti a hatálybalépése előtt kiadott statisztikai közlemények hatályát. Ahol jogszabály a jogalkotásról szóló 1987. évi XI. törvény alapján kiadott statisztikai közleményre utal, azon a Központi Statisztikai Hivatal felett felügyeletet gyakorló miniszternek a statisztikáról szóló 1993. évi XLVI. törvény 26. § (4) bekezdésében kapott felhatalmazás alapján az adott tárgykörben kiadott rendeletét is érteni kell, ha a jogszabályból más nem következik.
 
-#### 19.
+35. § E törvénynek az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvénnyel megállapított 12. § (3) bekezdését a 2012. augusztus 1-jén és az azt követően kihirdetett jogszabályok és közzétett közjogi szervezetszabályozó eszközök tekintetében kell alkalmazni.
 
-#### 35. §
+#### 19.
 
 #### 36. §
 

@@ -8,7 +8,17 @@ az igazságügyi és közigazgatási tárgyú törvények módosításáról
 
 6–10. §
 
-11. §
+11. § A Pp. 326. § (9) és (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) Azokban a közigazgatási perekben, amelyekben törvény alapján az ítélet ellen fellebbezésnek van helye, a törvényszék által első fokon hozott határozatok tekintetében – ha törvény a fellebbezést megengedi – a másodfokú eljárásra a Fővárosi Ítélőtábla kizárólagosan illetékes.
+
+(10) A közigazgatási perekben jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, továbbá ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot
+
+a) ha az összeütközés a területén levő törvényszékek között merült fel, továbbá ha a területén levő törvényszék kizárása esetén a területén levő másik törvényszék kijelölhető, az ítélőtábla,
+
+b) az a) pont alá nem tartozó esetekben a Kúria
+
+jelöli ki.”
 
 12–13. §
 
@@ -18,7 +28,7 @@ az igazságügyi és közigazgatási tárgyú törvények módosításáról
 
 16. § A Pp.
 
-- a)
+- a) 23. § (1) bekezdés a) pontjában a „tízmillió” szövegrész helyébe a „harmincmillió” szöveg,
 - b)–i)
 
 lép.
@@ -118,7 +128,7 @@ lép.
 61. § Hatályát veszti a Ctv.
 
 - a)
-- b)
+- b) 64. § (3) bekezdése.
 
 #### 24. A szövetkezetekről szóló 2006. évi X. törvény módosítása
 
@@ -126,11 +136,29 @@ lép.
 
 #### 25. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-63. § (1)
+63. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ntv.) a 2. §-t követően a következő alcímmel és 2/A. §-sal egészül ki:
+
+„A kiemelt jelentőségű ügy koordinációja
+
+2/A. § (1) A Kormány rendeletben határozhatja meg a fővárosi és megyei kormányhivatalokról szóló kormányrendeletben meghatározottak szerint
+
+a) a kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízottat,
+
+b) a kormánymegbízott feladat- és hatáskörét,
+
+c) azokat a szerveket, amelyek tekintetében a kormánymegbízott a b) pont szerinti feladat- és hatáskört gyakorolja.
+
+(2) A kijelölt kormánymegbízott az (1) bekezdés b) pontja szerinti feladatat- és hatáskörét a fővárosi és megyei kormányhivatal illetékességi területén kívül a kiemelt jelentőségű ügyben eljáró valamennyi hatóság, illetve szakhatóság tekintetében is gyakorolhatja.”
 
 (2)
 
-(3)
+(3) Az Ntv. 12. § (5) bekezdése a következő c) és d) ponttal egészül ki:
+
+[Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg]
+
+„c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a kormánymegbízott feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
+
+d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését, feladat- és hatáskörét, valamint azokat a szerveket, amelyek tekintetében a kormánymegbízott feladat- és hatáskörét gyakorolja.
 
 64. §
 
@@ -166,7 +194,9 @@ lép.
 
 81–84. §
 
-85. §
+85. § A Bszi. 193. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) 2012. december 31-ig a közigazgatási ügyekben első fokon a törvényszék, másodfokon a polgári perrendtartásról szóló törvény alapján meghatározott ítélőtábla jár el.”
 
 86. §
 

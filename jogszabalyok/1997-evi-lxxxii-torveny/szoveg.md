@@ -1588,7 +1588,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (6) A végelszámolás kezdő időpontját követően kezdeményezett átlépések esetén az átlépés napja a befogadó pénztár befogadó nyilatkozatának napja, azonban a tagi követelések átutalása csak a végelszámolás lezárásával történik meg.
 
-(7) A végelszámoló a végelszámolás kezdő időpontjától számított 30 napon belül kiküldött levélben a pénztár tagjait a pénztár jogutód nélküli megszűnéséről és 30 napos határidővel nyilatkozattételre szólítja fel a tagokat, hogy melyik pénztárba kívánnak átlépni. Amennyiben a tag nyilatkozik a más pénztárba történő átlépéséről, akkor a követelését a (6) bekezdésben foglaltak szerint kell átutalni. Abban az esetben, ha a tag a megadott határidőn belül nem nyilatkozik, a végelszámoló intézkedik a tag társadalombiztosítási nyugdíjrendszerbe történő visszaléptetése érdekében.
+(7) A végelszámoló a végelszámolás kezdő időpontjától számított 30 napon belül kiküldött levélben a pénztár tagjait a pénztár jogutód nélküli megszűnéséről és 30 napos határidővel nyilatkozattételre szólítja fel a tagokat, hogy melyik pénztárba kívánnak átlépni. Amennyiben a tag nyilatkozik a más pénztárba történő átlépéséről, akkor a követelését a (6) bekezdésben foglaltak szerint kell átutalni. Abban az esetben, ha a tag a megadott határidőn belül nem nyilatkozik, a végelszámoló intézkedik a tag társadalombiztosítási nyugdíjrendszerbe történő visszaléptetése érdekében. A végelszámolás során a végelszámoló által a társadalombiztosítási nyugdíjrendszerbe visszaléptetett tag jogosult a követelése részét képező egyéniszámla-egyenleg tagdíjbefizetése alapján kiszámított, a 4. § (2) bekezdésének zsj) pontjában meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt befizetett tagdíj-kiegészítés összegének felvételére (visszalépő tagi kifizetés), vagy annak az önkéntes nyugdíjpénztárnál vezetett tagi számláján vagy a társadalombiztosítási nyugdíjrendszerben létrejövő egyéni számláján történő jóváírására. A tag a tagsági jogviszony megszűnésének napjától kérheti a visszalépő tagi kifizetés átutalását. Amennyiben a tag tagsági viszonyának megszűnését követő 30 napon belül nem rendelkezik a visszalépő tagi kifizetésekről, azokat a Nyugdíjreform és Adósságcsökkentő Alapba kell utalni.
 
 (8) A végelszámolást az arról való döntéstől számított 1 éven belül le kell folytatni. A Felügyelet a pénztár kérésére a határidőt egy alkalommal, legfeljebb 1 évvel meghosszabbíthatja.
 
@@ -1609,7 +1609,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (3) A Felügyelet köteles a felszámolás kezdő időpontjában a pénztár tevékenységi engedélyét visszavonni.
 
-(4) A felszámoló a felszámolás kezdő időpontjától számított 30 napon belül kiküldött levélben tájékoztatja a pénztár tagjait a felszámolás tényéről és egyúttal 30 napos határidővel nyilatkozattételre szólítja fel a tagokat, hogy melyik pénztárba kívánnak átlépni. Abban az esetben, ha a tag a megadott határidőn belül nem nyilatkozik, akkor a felszámoló intézkedik a tag társadalombiztosítási nyugdíjrendszerbe történő visszaléptetése érdekében.
+(4) A felszámoló a felszámolás kezdő időpontjától számított 30 napon belül kiküldött levélben tájékoztatja a pénztár tagjait a felszámolás tényéről és egyúttal 30 napos határidővel nyilatkozattételre szólítja fel a tagokat, hogy melyik pénztárba kívánnak átlépni. Abban az esetben, ha a tag a megadott határidőn belül nem nyilatkozik, akkor a felszámoló intézkedik a tag társadalombiztosítási nyugdíjrendszerbe történő visszaléptetése érdekében. A felszámolás során a felszámoló által a társadalombiztosítási nyugdíjrendszerbe visszaléptetett tag jogosult a követelése részét képező egyéniszámla-egyenleg tagdíjbefizetése alapján kiszámított, a 4. § (2) bekezdésének zsj) pontjában meghatározott hozamgarantált tőke összege feletti összegének és a pénztártagságának ideje alatt befizetett tagdíj-kiegészítés összegének felvételére (visszalépő tagi kifizetés), vagy annak az önkéntes nyugdíjpénztárnál vezetett tagi számláján vagy a társadalombiztosítási nyugdíjrendszerben létrejövő egyéni számláján történő jóváírására. A tag a tagsági jogviszony megszűnésének napjától kérheti a visszalépő tagi kifizetés átutalását. Amennyiben a tag tagsági viszonyának megszűnését követő 30 napon belül nem rendelkezik a visszalépő tagi kifizetésekről, azokat a Nyugdíjreform és Adósságcsökkentő Alapba kell utalni.
 
 (5) A felszámolás kezdő időpontjában a tartalékokhoz tartozó eszközök listáját azonnal le kell zárni, és azt a felszámolónak át kell adni. A felszámolási eljárás során ezek az eszközök külön kezelendők és azok csak a fedezeti tartalékkal szemben fennálló tagi, illetve hozzátartozói követelések kielégítése után használhatók fel egyéb kötelezettségek kielégítésére.
 
@@ -2100,16 +2100,21 @@ az általuk törvény alapján kezelhető adatok igénylésére jogosultak.
 
 (7) A központi nyilvántartásból a foglalkoztató a vele a Tbj. 5. §-a szerinti biztosítási jogviszonyt létesített pénztártag adatainak szolgáltatását igényelheti, ha arra a pénztártagot terhelő tagdíj bevallási és befizetési kötelezettség teljesítése érdekében van szükség. Az adatokat – az adatkérés céljának és jogalapjának egyidejű igazolása mellett – írásban kell kérelmezni, a központi nyilvántartásból teljesíthető adatszolgáltatás a pénztártagsági jogviszony fennállására és az érintett pénztár adatainak átadására terjedhet ki. A kincstár, a számfejtési körébe tartozó munkáltatóknál Tbj. 5. §-a szerinti biztosítási jogviszonyban álló pénztártagok adatainak szolgáltatását igényelheti, ha arra a pénztártagot terhelő tagdíjbevallási és befizetési kötelezettség teljesítése érdekében van szükség. Az adatkérésben az érintett pénztártag és munkáltató adatai mellett fel kell tüntetni az adatkérést kezdeményező kincstár azonosító és leíró adatait.
 
-(8) A társadalombiztosítási egyéni számla teljes körű kialakítása céljából – 2011. december 1-jét követően, legkésőbb 2012. március 31-ig – a Felügyelet átadja a központi nyilvántartásból
+(8) A társadalombiztosítási egyéni számla teljes körű kialakítása céljából – 2011. december 1-jét követően, legkésőbb a Kormány rendeletében meghatározott időpontig – a Felügyelet átadja a központi nyilvántartásból
 
 - a) a társadalombiztosítási nyugdíjrendszerbe visszalépő tagok 119. § (3) bekezdés a) és d) pontjában meghatározott adatait pénztárak szerinti bontásban és tagi szinten, továbbá
 - b) a valamennyi ott meghatározott személyre vonatkozó, a 119. § (3) bekezdés a), e) és f) pontja alapján nyilvántartott adatokat személyenkénti bontásban
 
-a társadalombiztosítási egyéni számla vezetéséért felelős államigazgatási szerv részére.
+a társadalombiztosítási egyéni számla vezetéséért felelős államigazgatási szerv részére, valamint 2012. augusztus 5-éig a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervnek.
 
 (9) A 120. §-ban meghatározott központi nyilvántartásból a Felügyelet adatot szolgáltat – a visszalépő tagok követelésének pénztárankénti összegéről – a Nyugdíjreform és Adósságcsökkentő Alap kezelője számára.
 
-(10) A magánnyugdíjpénztárak a visszalépő tagok összesített követelése portfolió-összetételéről adatot szolgáltatnak a Felügyelet és a Nyugdíjreform és Adósságcsökkentő Alap kezelője számára.
+(10) A magánnyugdíjpénztárak a visszalépő tagok összesített követelése portfolió-összetételéről és az érintett tagok számáról – jogszabályban meghatározott feladataik ellátásához, a pénztártagok adatainak ellenőrzése céljából – 2012. október 31-éig adatot szolgáltatnak a Felügyelet és a Nyugdíjreform és Adósságcsökkentő Alap kezelője számára.
+
+120/B. § Az egészségbiztosítási szerv és a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv a Felügyelet részére – megkeresés alapján – jogszabályban meghatározott feladatai ellátásához, a pénztártagok adatainak ellenőrzése céljából a rendelkezésére álló adatokból a 2010. január 1-jét megelőző időszakra vonatkozóan a következő adatokat szolgáltatja:
+
+- a) az egészségbiztosítási szerv a biztosított társadalombiztosítási azonosító jelét és a biztosítási jogviszony kezdetének, megszűnésének időpontját,
+- b) a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv a foglalkoztató azonosító adatait, továbbá a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése érdekében a Tbj. 34. § (1) bekezdése szerinti megállapodás megkötésének, megszűnésének időpontját.
 
 ### XII. Fejezet — A PÉNZTÁRTANÁCS
 

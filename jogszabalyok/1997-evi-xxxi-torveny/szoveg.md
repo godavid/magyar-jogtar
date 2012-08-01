@@ -3139,7 +3139,7 @@ gyermek után az intézményi térítési díj 100%-át,
 - v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,
 - w) a családok átmeneti otthona által működtetett krízisközpont finanszírozásának rendjére vonatkozó részletes szabályokat,
 - x) a megyei fenntartó kijelölését,
-- y) a rendszeres gyermekvédelmi kedvezményhez kapcsolódó 20/A. § szerinti támogatás természetbeni formában történő nyújtásának feltételeit és eljárási szabályait,
+- y)
 - z) a gyermekétkeztetésre vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza

@@ -565,6 +565,8 @@ látja el.
 - c) bizonyítékok, lényeges információk vagy dokumentumok átadását megtagadja, azokat elrejti, megváltoztatja vagy megsemmisíti, vagy
 - d) a közlekedési baleset vagy egyéb közlekedési esemény bejelentésére vonatkozó kötelezettségét elmulasztja természetes személy esetén 1 000 000 Ft-ig, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén 20 000 000 Ft-ig terjedő bírság szabható ki.
 
+(1a) Az (1) bekezdésben meghatározott jogsértő magatartások elkövetésekor víziközlekedési esemény és víziközlekedési baleset esetén természetes személlyel szemben legfeljebb 50 000 forintig, jogi személlyel és jogi személyiséggel nem rendelkező szervezettel szemben legfeljebb 200 000 forintig terjedő bírság szabható ki.
+
 (2) A bírság összegének megállapításánál a közlekedésbiztonsági szerv figyelembe veszi:
 
 - a) a szakmai vizsgálat akadályozásának mértékét,
@@ -585,7 +587,9 @@ látja el.
 
 21. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivételekkel – 2006. január 1-jén lép hatályba.
 
-(2)–(3)
+(2) E törvénynek a víziközlekedésről szóló 2000. évi XLII. törvény módosításáról, valamint egyes törvények ezzel összefüggő módosításáról szóló 2012. évi XCIV. törvénnyel (a továbbiakban: módosító törvény) megállapított 20/A. § (1a) bekezdésében foglaltakat a módosító törvény hatálybalépésekor folyamatban lévő és a megismételt eljárásokban is alkalmazni kell.
+
+(3)
 
 (4)
 
