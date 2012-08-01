@@ -120,11 +120,7 @@ az állami és önkormányzati alkalmazásban álló közszolgálati tisztvisel�
 
 (7)
 
-29. § A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 247. §-a a következő d) ponttal egészül ki:
-
-(A fejezet hatálya alá tartozó fegyveres szerveknél az állományilletékes parancsnok:)
-
-„d) a Készenléti Rendőrség parancsnokának helyettesei,”
+#### 29. §
 
 #### 30. §
 
@@ -138,11 +134,7 @@ az állami és önkormányzati alkalmazásban álló közszolgálati tisztvisel�
 
 35. § (1)–(5)
 
-(6) Az SzVMt. 65. § b) pontja helyébe a következő rendelkezés lép:
-
-(Az e törvényben előírt szabályok súlyos megsértésének minősül)
-
-„b) a 14. és 15. §-ban, a 16. § (2)–(4) bekezdésében meghatározott szabályoknak a hatóság figyelmeztetése ellenére történő ismételt megsértése.”
+(6)
 
 #### 36. §
 
@@ -167,6 +159,4 @@ az állami és önkormányzati alkalmazásban álló közszolgálati tisztvisel�
 - 3.
 - 4.
 - 5.
-- 6. a Pőtv.
-  - a) 9. § (1) bekezdés a) pontja,
-  - b) 28. § f) pontja.
+- 6.

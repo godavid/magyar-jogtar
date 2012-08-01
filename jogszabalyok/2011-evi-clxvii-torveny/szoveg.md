@@ -29,7 +29,7 @@ a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár elő
 
 2. § (1) A korhatár előtti ellátást és a szolgálati járandóságot a jogszabályokban meghatározott nyugdíjmegállapító szervek állapítják meg és a nyugdíjfolyósító szerv folyósítja.
 
-(2) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az igényérvényesítésre, a korhatár előtti ellátás és a szolgálati járandóság megállapítására, folyósítására, a szolgálati idő meghatározására és számítására, a korhatár előtti ellátás igénybevételéhez szükséges, foglalkozáshoz kötött kedvezményre jogosító idő, korkedvezményes idő megállapítására, a jogorvoslatra, az eljárási költségek viselésére, a jogalap nélküli ellátás visszafizetésére és megtérítésére, a késedelmi kamat megtérítésére, a tartozás elengedésére, mérséklésére és fizetési kedvezmény engedélyezésére, a végrehajtásra, valamint az adatkezelésre az öregségi nyugdíjra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol az öregségi nyugdíjra vonatkozó szabály nyugellátást vagy nyugdíjat említ, azon korhatár előtti ellátást, illetve szolgálati járandóságot kell érteni.
+(2) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az igényérvényesítésre, a korhatár előtti ellátás és a szolgálati járandóság megállapítására, folyósítására, a szolgálati idő meghatározására és számítására, a korhatár előtti ellátás igénybevételéhez szükséges, foglalkozáshoz kötött kedvezményre jogosító idő, korkedvezményes idő megállapítására és igazolására, a jogorvoslatra, az eljárási költségek viselésére, a jogalap nélküli ellátás visszafizetésére és megtérítésére, a késedelmi kamat megtérítésére, az adatszolgáltatási és bejelentési kötelezettségre, a mulasztási bírságra, a tartozás elengedésére, mérséklésére és fizetési kedvezmény engedélyezésére, a végrehajtásra, valamint az adatkezelésre az öregségi nyugdíjra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol az öregségi nyugdíjra vonatkozó szabály nyugellátást vagy nyugdíjat említ, azon korhatár előtti ellátást, illetve szolgálati járandóságot kell érteni.
 
 (3) A korhatár előtti ellátást és a szolgálati járandóságot a Tny. 62. §-ában foglaltak szerint kell emelni.
 
@@ -70,17 +70,30 @@ korhatár előtti ellátásként kell továbbfolyósítani az 5. alcímben fogla
 
 5. § (1) 2012. január 1-jétől – a 3. § (2) bekezdés c) pontja szerinti eset kivételével – az 1955. évben vagy azt követően született, szolgálati nyugdíjban részesülő személynek a szolgálati nyugdíját a (2) és (3) bekezdés szerint számított és a 2012. januári nyugdíjemelés mértékével növelt összegben szolgálati járandóságként kell továbbfolyósítani az 5. alcímben foglaltak figyelembevételével.
 
-(2) A szolgálati járandóság továbbfolyósított összegét úgy kell meghatározni, hogy a jogosultnak 2011 decemberére járó szolgálati nyugdíj havi összegét – a (3) bekezdésben foglalt kivételekkel – csökkenteni kell a személyi jövedelemadó mértékével. A szolgálati járandóság összege nem csökkenhet a 2011. december 31-én hatályos kötelező legkisebb munkabér 150 százaléka alá, ha a jogosultnak 2011 decemberére járó szolgálati nyugdíj havi összege – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj kivételével – ezt az összeget meghaladta.
+(2) A szolgálati járandóság továbbfolyósított összegét úgy kell meghatározni, hogy a jogosultnak 2011 decemberére járó szolgálati nyugdíj havi összegét – a (3) bekezdésben foglalt kivételekkel – csökkenteni kell a személyi jövedelemadó mértékével. A szolgálati járandóság összege nem csökkenhet
+
+- a) a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett összegben folyósított szolgálati nyugdíj esetén a 2011. december 31-én hatályos kötelező legkisebb munkabér 150 százalékának a szolgálati nyugdíj – 2012. január 1-jét megelőzően hatályos szabályok szerinti – csökkentési mértékének megfelelően csökkentett összege alá,
+- b) a 2012. január 1-jét megelőzően hatályos szabályok alapján teljes összegben folyósított szolgálati nyugdíj esetén a 2011. december 31-én hatályos kötelező legkisebb munkabér 150 százaléka alá,
+
+ha a jogosult 2011 decemberére járó szolgálati nyugdíjának havi összege ezt az összeget meghaladta.
 
 (3) A (2) bekezdés alapján nem csökkenthető a szolgálati járandóság összege, ha
 
 - a) a szolgálati viszony megszüntetésére egészségi, pszichikai, fizikai alkalmatlanság miatt került sor és az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel összefüggő jellegét a jogviszony megszüntetésekor a Hszt. 180. §-a vagy a Hjt. 201. §-a alapján minősítő határozattal megállapították,
-- b) a 2011 decemberére járó szolgálati nyugdíj – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj kivételével – nem haladta meg a 2011. december 31-én hatályos kötelező legkisebb munkabér havi összegének 150 százalékát, vagy
+- b) a jogosult 2011 decemberére járó szolgálati nyugdíjának összege – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj esetén a jogosult 2011 decemberére járó szolgálati nyugdíjának a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélküli havi összege – nem haladta meg a 2011. december 31-én hatályos kötelező legkisebb munkabér havi összegének 150 százalékát, vagy
 - c) a jogosult önkéntes tartalékos szerződést kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig.
 
 (4) Ha a személyi jövedelemadó mértéke megváltozik, a (2) bekezdés szerint csökkentett szolgálati járandóság folyósított összegét módosítani kell.
 
 (5) Ha a (2) bekezdés szerint csökkentett szolgálati járandóságban részesülő személy a személyi jövedelemadóról szóló törvényben meghatározott családi kedvezmény igénybevételére, illetve – a jogosultat megillető családi kedvezmény – megosztással történő érvényesítésére jogosult vagy összevont adóalapba tartozó jövedelem szerzése esetén jogosult lenne, de a családi kedvezmény az összevont adóalapba tartozó jövedelem adóalapja terhére – házastárssal, élettárssal megosztva sem – nem vagy csak részben érvényesíthető, az állami adóhatóság igazolása alapján a családi kedvezményre vagy annak adóalap-kedvezményként nem érvényesíthető részére az adó mértékével megállapított összeg a szolgálati járandóság (2) bekezdés szerinti csökkentésével szemben érvényesíthető.
+
+(6) A Hszt., illetve a Hjt. 2012. január 1-jét megelőzően hatályos szabályai szerint, vagy a fegyveres erők és fegyveres testületek hivatásos állományú tagjainak nyugdíjáról szóló 22/1971. (VI. 1.) Korm. rendelet alapján 50%-os mértékben folyósított szolgálati nyugdíj esetén a szolgálati járandóságot
+
+- a) a Hszt. szerinti esetben az 50. életév betöltésétől kezdődően,
+- b) a Hjt. szerinti esetben az 52. életév betöltésétől kezdődően,
+- c) a fegyveres erők és fegyveres testületek hivatásos állományú tagjainak nyugdíjáról szóló 22/1971. (VI. 1.) Korm. rendelet szerinti esetben az 55. életév betöltésétől kezdődően
+
+a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélkül kell folyósítani, és a (2) bekezdés szerinti csökkentést ennek megfelelően kell módosítani.
 
 6. § Aki korhatár előtti öregségi nyugdíj mellett 2012. január 1-je előtt a Tny. 22/A. §-a alapján nyugdíjnövelésre jogot szerzett, ezt a jogát korhatár előtti ellátás, illetve szolgálati járandóság esetén is érvényesítheti az öregségi nyugdíjra vonatkozó szabályok megfelelő alkalmazásával.
 
@@ -90,8 +103,8 @@ korhatár előtti ellátásként kell továbbfolyósítani az 5. alcímben fogla
 
 - a) az, aki 2011. december 31-éig az előrehozott, csökkentett összegű előrehozott öregségi nyugdíj igénybevételéhez a Tny. 2012. január 1-jét megelőzően hatályos szabályai szerint szükséges
   - aa) életkort betöltötte, és
-  - ab) szolgálati időt megszerezte,
-- b) az az 1953. évben született nő, aki 59. életévét betöltötte és a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig legalább 37 év szolgálati időt szerzett,
+  - ab) szolgálati időt megszerezte azzal, hogy a korhatár előtti ellátásra e pont alapján való jogosultság szempontjából szolgálati időként kell figyelembe venni a rokkantsági nyugdíj és a baleseti rokkantsági nyugdíj folyósításának időtartamát is,
+- b) az az 1953. évben született nő, aki 59. életévét betöltötte és a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig legalább 37 év szolgálati időt szerzett azzal, hogy a korhatár előtti ellátásra e pont alapján való jogosultság szempontjából szolgálati időként kell figyelembe venni a rokkantsági nyugdíj és a baleseti rokkantsági nyugdíj folyósításának időtartamát is,
 - c) az, aki a korhatár előtti ellátás kezdő napjáig, de legkésőbb 2012. december 31-éig a Tny. 2012. január 1-jét megelőzően hatályos szabályai szerint korkedvezményre jogosultságot szerzett,
 - d) az, aki 2011. december 31-éig a bányásznyugdíjról szóló 150/1991. (XII. 4.) Korm. rendelet 2012. január 1-jét megelőzően hatályos szabályai szerint a bányásznyugdíjra való jogosultságot megszerezte,
 - e) az, aki 2011. december 31-éig az egyes művészeti tevékenységeket folytatók öregségi nyugdíjra jogosultságáról szóló 5/1992. (I. 13.) Korm. rendelet 2012. január 1-jét megelőzően hatályos szabályai szerint öregségi nyugdíjra jogosultságot szerzett,
@@ -111,7 +124,7 @@ feltéve, hogy a korhatár előtti ellátás kezdő napjáig az öregségi nyugd
 - a) a 2011. december 31-én hatályos szabályok alapján a korhatár előtti ellátás kezdő napjáig csak csökkentett összegű előrehozott öregségi nyugdíjra szerzett jogosultságot, és
 - b) a csökkentett összegű előrehozott öregségi nyugdíjhoz szükséges szolgálati időt 2008. december 31-éig megszerezte.
 
-(3) A 7. § (1) bekezdés a), b) és f) pontja szerinti esetben a korhatár előtti ellátás (1) bekezdés szerint kiszámított összegét – a (2) bekezdésben foglalt eset kivételével – a Tny. 2011. december 31-én hatályos 18/A. § (3) bekezdése szerint csökkenteni kell, ha a jogosult a 2011. december 31-én hatályos szabályok alapján a korhatár előtti ellátás kezdő napjáig csak csökkentett összegű előrehozott öregségi nyugdíjra szerzett volna jogosultságot.
+(3) A 7. § (1) bekezdés a), b) és f) pontja szerinti esetben a korhatár előtti ellátás (1) bekezdés szerint kiszámított összegét – a (2) bekezdésben foglalt eset kivételével – a Tny. 2011. december 31-én hatályos 18/A. § (3) és (5) bekezdése szerint csökkenteni kell, ha a jogosult a 2011. december 31-én hatályos szabályok alapján a korhatár előtti ellátás kezdő napjáig csak csökkentett összegű előrehozott öregségi nyugdíjra szerzett volna jogosultságot.
 
 (4) A 7. § (1) bekezdés a) és f) pontja szerinti esetben a korhatár előtti ellátás (1) bekezdés szerint kiszámított összegét a Tny. 2011. december 31-én hatályos 18/B. § (2), illetve (3) bekezdése szerint csökkenteni kell, ha a jogosult a 2011. december 31-én hatályos szabályok alapján a korhatár előtti ellátás kezdő napjáig csak a Tny. 2011. december 31-én hatályos 18/B. §-a szerinti előrehozott öregségi nyugdíjra szerzett volna jogosultságot.
 
@@ -239,9 +252,13 @@ a bűnügyi nyilvántartó szervnek.
 
 (3) A 12–28. alcím és a 30–42. alcím 2012. január 2-án hatályát veszti. A 29. alcím és a 43. alcím 2013. január 2-án hatályát veszti.
 
+24. § (1) Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvénnyel megállapított 5. § (2) bekezdés második mondata és 5. § (3) bekezdés b) pontja alapján az arra jogosultak szolgálati járandóságának összegét 2012. szeptember 1-jétől hivatalból meg kell emelni, és a 2012. január 1-jétől 2012. augusztus 31-éig terjedő időre járó különbözetet egy összegben, 2012. szeptember 30-áig kell folyósítani.
+
+(2) Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvénnyel megállapított 5. § (6) bekezdése alapján az arra 2012. január 1-je és 2012. július 31-e között jogosultságot szerzők szolgálati járandóságának összegét 2012. szeptember 1-jétől hivatalból meg kell emelni, és a jogosultság megszerzésétől 2012. augusztus 31-éig terjedő időre járó különbözetet egy összegben, 2012. szeptember 30-áig kell folyósítani.
+
 ### 12–28.
 
-#### 24–60. §
+#### 25–60. §
 
 #### 29. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 

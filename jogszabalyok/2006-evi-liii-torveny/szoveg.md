@@ -32,6 +32,16 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 - a) az (1) bekezdés a) pontja alkalmazásával első fokon eljáró hatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság,
 - b) szakhatóságként az (1) bekezdés b) pontja alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság.
 
+### A kiemelt jelentőségű ügy koordinációja
+
+2/A. § (1) A Kormány rendeletben határozhatja meg a fővárosi és megyei kormányhivatalokról szóló kormányrendeletben meghatározottak szerint
+
+- a) a kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízottat,
+- b) a kormánymegbízott feladat- és hatáskörét,
+- c) azokat a szerveket, amelyek tekintetében a kormánymegbízott a b) pont szerinti feladat- és hatáskört gyakorolja.
+
+(2) A kijelölt kormánymegbízott az (1) bekezdés b) pontja szerinti feladatat- és hatáskörét a fővárosi és megyei kormányhivatal illetékességi területén kívül a kiemelt jelentőségű ügyben eljáró valamennyi hatóság, illetve szakhatóság tekintetében is gyakorolhatja.
+
 3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – a (2)–(5) bekezdésben meghatározott kivétellel – legfeljebb két hónap lehet.
 
 (2) Ha az (1) bekezdés szerinti kiemelt jelentőségű ügyben az építési engedélyezéshez, vagy az összevont építésügyi hatósági engedélyezési eljárás építési engedélyezési szakaszához szükséges mellékleteket és dokumentációt építésügyi igazgatási szakértő készíti elő, és az építtető az építésügyi hatósági engedélykérelme benyújtásakor kérelméhez mellékeli az építésügyi igazgatási szakértőnek a külön jogszabályban foglaltak szerinti tartalmú nyilatkozatát az ügyintézési határidő soron kívüli, de legfeljebb harminc nap.
@@ -165,7 +175,9 @@ szakaszból áll.
 (5) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 
 - a) a nemzetgazdasági szempontból kiemelt jelentőségű ügyek körét;
-- b) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését.
+- b) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését;
+- c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a kormánymegbízott feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
+- d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését, feladat- és hatáskörét, valamint azokat a szerveket, amelyek tekintetében a kormánymegbízott feladat- és hatáskörét gyakorolja.
 
 ### 1. melléklet a 2006. évi LIII. törvényhez
 

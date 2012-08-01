@@ -46,7 +46,7 @@ terjed ki.
 - c) a b) pontjában rögzített feladatot a miniszter az államháztartásért felelős miniszterrel és a gazdaságpolitikáért felelős miniszterrel együttesen,
 - d) a c) pontjában megállapított feladatot – feladatkörében – a miniszter, a külpolitikáért felelős miniszter és az egészségügyért felelős miniszter,
 - e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel és a fejlesztéspolitikáért felelős miniszterrel egyetértésben,
-- f) a g) pontjában rögzített feladatot a miniszter a külgazdaságért és a Kárpát-medencei Gazdasági Övezet gazdaságfejlesztéséért felelős miniszterrel együttesen,
+- f)
 - g) az i) pontjában rögzített feladatot a miniszter a fejlesztéspolitikáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
 - h) a j) pontjában rögzített feladatot a miniszter a fejlesztéspolitikáért felelős miniszterrel, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
 - i) a k) pontjában rögzített feladatot a honvédelemért felelős miniszter a katasztrófák elleni védekezésért felelős miniszterrel együttesen, a miniszterrel és a gazdaságpolitikáért felelős miniszterrel egyetértésben,
@@ -237,7 +237,8 @@ lajstromban tartja nyilván.
 - a) a biztonságos üzemeléshez szükséges, a hajózási hatóság által megállapított létszámú, összetételű és képesítésű személyzettel, valamint felszereléssel,
 - b) a tervezett út megtételéhez szükséges készletekkel,
 - c) az úszólétesítményre előírt érvényes hajóokmányokkal,
-- d) osztályozásra kötelezett úszólétesítmény esetén, érvényes osztályozási bizonyítvánnyal.
+- d) osztályozásra kötelezett úszólétesítmény esetén, érvényes osztályozási bizonyítvánnyal,
+- e) gazdasági célú tengeri hajózási tevékenységet folytató, 300 vagy ennél nagyobb bruttó tonnatartalmú hajó esetén biztosítási fedezet meglétéről szóló igazolással (a továbbiakban: biztosítási igazolás).
 
 (3) Az úszólétesítmény üzemképes, ha rendeltetésének, továbbá az engedélyezett hajózási zónára, illetőleg hajózási körzetre vonatkozó – külön jogszabályban megállapított – műszaki, biztonsági és környezetvédelmi követelményeknek megfelel.
 
@@ -246,6 +247,8 @@ lajstromban tartja nyilván.
 (5) Ha jogszabály eltérően nem rendelkezik, nemzetközi szerződésben előírt hajóokmányt csak a hajózási hatóság adhat ki.
 
 18. § A hajózási hatóság, továbbá külön jogszabályban meghatározott szerv az üzemben tartott úszólétesítmény hajózásra alkalmasságát ellenőrizheti. A hajózási hatóság az úszólétesítmény üzemeltetését – annak hajózásra alkalmatlansága esetén – korlátozza vagy megtiltja.
+
+18/A. § Amennyiben a biztosítási igazolás hiánya miatt a hajózási hatóság a külföldi lobogójú hajó üzemeltetésének korlátozásáról vagy megtiltásáról dönt, köteles erről az Európai Bizottságot, a többi EGT-államot és a hajó lobogója szerint illetékes állam hatóságát értesíteni.
 
 19. § (1) Az üzemben tartó a nyilvántartásba vételre kötelezett úszólétesítményt az üzembe helyezését megelőzően, továbbá üzemeltetése során, meghatározott időszakonként köteles az üzemképesség megállapítása céljából – az úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló miniszteri rendeletekben megállapított feltételek szerint – a hajózási hatóságnak bemutatni.
 
@@ -277,11 +280,17 @@ lajstromban tartja nyilván.
 
 (3) A hajóosztályozó társaságok elismerésére és tevékenységére nem kell alkalmazni a megfelelőségértékelő szervezetek tevékenységéről szóló törvény rendelkezéseit.
 
-### Felelősségbiztosítás
+### A biztosítás
 
 24. §
 
 25. §
+
+25/A. § (1) A magyar lajstromba bejegyzett, valamint a Magyarország területi vizeire érkező külföldi lobogójú, gazdasági célú tengeri hajózási tevékenységet folytató, 300 vagy ennél nagyobb bruttó tonnatartalmú hajó a víziközlekedésben csak abban az esetben vehet részt, ha az üzemben tartó a szerződésen kívüli kárra az adott hajóra vonatkozóan érvényes biztosítási igazolással rendelkezik.
+
+(2) Az üzemben tartó a Londonban, 1976. november 19-én kelt, a tengeri követelésekkel összefüggő felelősség korlátozásáról szóló 1976. évi egyezmény és a Londonban, 1996. május 2-án kelt, az egyezmény módosításáról szóló 1996. évi jegyzőkönyv kihirdetéséről szóló törvényben meghatározott legnagyobb összegre köteles biztosítást kötni.
+
+(3) A magyar jogszabály által kihirdetett, polgári jogi felelősségre vonatkozó nemzetközi egyezményben és az Európai Unió baleseti felelősségre vonatkozó kötelező erejű jogi aktusában létrehozott rendszereknek való megfelelés nem mentesíti az üzemben tartót az e törvényben és a tengeri hajók kötelező biztosításáról szóló kormányrendeletben foglalt biztosítási kötelezettségek teljesítése alól.
 
 ### IV. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY SZEMÉLYZETÉRE VONATKOZÓ ÁLTALÁNOS ELŐÍRÁSOK
 
@@ -607,6 +616,8 @@ révkalauzt kell igénybe venni.
 
 (3) A hajózási engedélyben meg kell határozni azt a tevékenységet és területet, amelyre az engedély vonatkozik, továbbá a tevékenység folytatásának feltételeit.
 
+(4) A hajózási hatóság és a rendőrség vízirendészeti szerve jogosult ellenőrizni, hogy a Magyarország területén engedélykötelesnek minősített hajózási tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel rendelkezik-e. Amennyiben az engedélyköteles tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel nem rendelkezik, a rendőrség vízirendészeti szerve haladéktalanul értesíti a hajózási hatóságot.
+
 52. § (1) Hajózási engedély az EGT-államban lajstromozott úszólétesítményt üzemben tartó, magyarországi székhelyű jogi személy és gazdálkodó szervezet részére adható.
 
 (2)
@@ -662,6 +673,8 @@ révkalauzt kell igénybe venni.
 (a továbbiakban az a) és b) pontban foglaltak együtt: kabotázs) engedélyköteles tevékenység.
 
 (2) A hajózási hatóság a kabotázs-engedélyt – ha nemzetközi szerződés eltérően nem rendelkezik – viszonosság esetén, továbbá abban az esetben adja ki, ha az EGT-államban lajstromozott úszólétesítmény nem áll rendelkezésre a tevékenység elvégzéséhez.
+
+(3) Amennyiben az országba belépni vagy az országból kilépni kívánó úszólétesítmény árufuvarozásra vagy személyszállításra jogosító engedéllyel nem rendelkezik, a határvámhivatal haladéktalanul értesíti a hajózási hatóságot, és az árufuvarozásra, vagy a személyszállításra jogosító engedély megszerzéséig az úszólétesítmény, a személyzet, továbbá az úszólétesítményen lévő áru be- és kiléptetését megtagadja.
 
 55. §
 
@@ -962,7 +975,7 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 - 29. nemzetközi víziút: nemzetközi szerződés alapján nemzetközivé nyilvánított víziút;
 - 30. önjáró úszómunkagép: helyváltoztatásra önállóan alkalmas úszómunkagép;
 - 31. őrszolgálat: tengeri hajón a parancsnoki hídon, a fedélzeten, illetve a géptérben, menetben vagy kikötőben teljesített szolgálat;
-- 32. révhajó, révcsónak: csak személyeket szállító, a komp;
+- 32. révhajó, révcsónak: csak személyeket szállító komp;
 - 33. révkalauz: a hajó vezetőjét a hajó vezetésében segítő, kellő helyismerettel és képesítéssel rendelkező személy;
 - 34. személyhajó: a hajózási hatóság által 12 főnél több utas rendeltetésszerű szállítására alkalmasnak nyilvánított hajó;
 - 35. szükségkikötő: az úszólétesítményeknek a víziút használata során bekövetkezett szükséghelyzet (pl. rendkívüli vízállás, jégzajlás) miatti átmeneti tartózkodására kijelölt víz-, illetőleg partterület;
@@ -979,7 +992,10 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 - 45. víziút: a víziközlekedés pályája, a folyók, csatornák és tavak – miniszter rendeletében víziúttá nyilvánított – szakasza vagy része;
 - 46. víziút fenntartója: a víziúttá nyilvánított hajózható vizek tulajdonosa, illetve kezelője;
 - 47. folyami információs szolgáltatások központ: a folyami információs szolgáltatásokkal kapcsolatos adatok – informatikai és távközlési berendezések útján történő – továbbítására szolgáló, a hajózási hatóság által működtetett központ;
-- 48. katonai úszólétesítmény: a Magyar Honvédség állományába tartozó, katonai célú víziközlekedésre, vízen való munkavégzésre és azokkal összefüggő tevékenység folytatására alkalmas úszóképes eszköz, szerkezet, berendezés.
+- 48. katonai úszólétesítmény: a Magyar Honvédség állományába tartozó, katonai célú víziközlekedésre, vízen való munkavégzésre és azokkal összefüggő tevékenység folytatására alkalmas úszóképes eszköz, szerkezet, berendezés;
+- 49. biztosítás: a hatóságtól biztosítási tevékenységre engedélyt kapott biztosítóval kötelezettségvállalás alapján megkötött önrészes vagy önrész nélküli biztosítás, amely magában foglalja a kölcsönös biztosító klubok nemzetközi csoportjának tagja által kínált biztosítás-típust, továbbá más egyenértékű biztosítási formákat – ideértve az igazolt önbiztosítást is –, és a hasonló fedezeti feltételeket nyújtó pénzügyi biztosítékokat;
+- 50. magyar jogszabály által kihirdetett, polgári jogi felelősségre vonatkozó nemzetközi egyezmény: az olajszennyezéssel okozott károk megtérítésére szolgáló nemzetközi alap létrehozataláról szóló 1992. évi egyezmény és az olajszennyezéssel okozott károk megtérítésére szolgáló nemzetközi alap létrehozataláról szóló 1992. évi egyezményhez elfogadott 2003. évi jegyzőkönyv, valamint az olajszennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló 1992. évi egyezmény kihirdetéséről szóló 2007. évi IX. törvény, a Londonban, 2001. március 23-án kelt, a bunkerolaj-szennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló 2001. évi nemzetközi egyezmény kihirdetéséről szóló 2007. évi CLXV. törvény; a Londonban, 1996. május 3-án kelt, a veszélyes és ártalmas anyagok tengeri szállításával kapcsolatos felelősségről és kártérítésről szóló 1996. évi nemzetközi egyezmény kihirdetéséről szóló 2008. évi XXIII. törvény;
+- 51. Európai Unió baleseti biztosításra vonatkozó kötelező erejű jogi aktusa: a tengeri utasszállítók baleseti felelősségéről szóló, 2009. április 23-i 392/2009/EK európai parlamenti és tanácsi rendelet.
 
 ## NYOLCADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -1004,31 +1020,31 @@ rendeletben történő megállapítására.
 
 (2) Felhatalmazást kap a miniszter
 
-- a) a hajózási tevékenység folytatása feltételeinek és engedélyezése rendjének,
-- b) az úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeinek, az üzemképesség vizsgálatának és tanúsításának, továbbá az úszólétesítmények felügyelete rendjének,
-- c) az úszólétesítményen a szolgálat rendjének, a személyzet szolgálattal összefüggő jogainak és kötelezettségeinek (rendtartásnak),
-- d) az úszólétesítmény üzemeltetésével összefüggő – a törvényben nem említett – okmányok fajtáinak, továbbá az okmányok vezetése szabályainak,
-- e) a hajós és tengerész szolgálati könyvek kiadása feltételeinek, vezetése és használata szabályainak,
-- f) a folyami információs szolgáltatások szakmai és működtetési szabályainak,
-- g) az úszólétesítmények és szállítótartályok felügyeletének,
-- h) a hajózásra alkalmas, illetőleg hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek víziúttá nyilvánításának,
-- i) a tengeri és a belvízi hajók köbözése szabályainak,
-- j) a víziközlekedés forgalmának irányítására, és a hajóút kitűzésére szolgáló jelek létesítése, üzemeltetése és megszüntetése szabályainak,
-- k) a kikötő – ideértve a kikötőhelyet és a veszteglőhelyet is – továbbá a komp- és révátkelőhelyek létesítése, üzemben tartása, megszüntetése feltételeinek, továbbá használata általános rendjének,
-- l) a hajózással kapcsolatos egyes veszélyes tevékenységek biztonsági követelményeinek,
-- m) a hajózási rangjelzések használatára vonatkozó szabályoknak,
-- n) a révkalauzi tevékenység ellátása részletes feltételeinek,
-- o) a veszélyes áruk tengeri és belvízi fuvarozásának,
-- p) a víziközlekedés rendjének,
-- q) a havaria vizsgálata rendjének a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben,
-- r) a hajózási egészségi alkalmasság feltételeinek és vizsgálati rendjének az egészségügyért felelős miniszter egyetértésével kiadott,
-- s) a hajózási képesítések megszerzése feltételeinek és rendjének, valamint a kiadandó okmányok (bizonyítványok) formai és tartalmi követelményeinek az oktatási, valamint a rádiószolgálatok állomáskezelőire vonatkozó követelmények meghatározása tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben,
-- t) a hajózási bírság kiszabása, megfizetése és kezelése részletes szabályainak az adópolitikáért felelős miniszterrel egyetértésben,
-- u) a hajózási hatósági eljárások díjainak, valamint e díjaknak az eljáró hatóság, illetve a felügyeleti és irányítási feladatot ellátó szervezetek közötti megosztása szabályainak, továbbá a hajózási képesítő vizsgák díjainak az adópolitikáért felelős miniszterrel egyetértésben,
-- v) az utasnyilvántartás vezetése részletes szabályainak,
-- w) a Belvízi Hajózási Alapprogram működtetése részletes szabályainak,
-- x) a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadása részletes szabályainak
-- y) a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
+- 1. a hajózási tevékenység folytatása feltételeinek és engedélyezése rendjének,
+- 2. az úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeinek, az üzemképesség vizsgálatának és tanúsításának, továbbá az úszólétesítmények felügyelete rendjének,
+- 3. az úszólétesítményen a szolgálat rendjének, a személyzet szolgálattal összefüggő jogainak és kötelezettségeinek (rendtartásnak),
+- 4. az úszólétesítmény üzemeltetésével összefüggő – a törvényben nem említett – okmányok fajtáinak, továbbá az okmányok vezetése szabályainak,
+- 5. a hajós és tengerész szolgálati könyvek kiadása feltételeinek, vezetése és használata szabályainak,
+- 6. a folyami információs szolgáltatások szakmai és működtetési szabályainak,
+- 7. az úszólétesítmények és szállítótartályok felügyeletének,
+- 8. a hajózásra alkalmas vagy hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek vízi úttá nyilvánításának,
+- 9. a tengeri és a belvízi hajók köbözése szabályainak,
+- 10. a víziközlekedés forgalmának irányítására, és a hajóút kitűzésére szolgáló jelek létesítése, üzemeltetése és megszüntetése szabályainak,
+- 11. a kikötő – ideértve a kikötőhelyet és a veszteglőhelyet is –, továbbá a komp- és révátkelőhelyek létesítése, üzemben tartása, megszüntetése feltételeinek, továbbá használata általános rendjének,
+- 12. a hajózással kapcsolatos egyes veszélyes tevékenységek biztonsági követelményeinek,
+- 13. a hajózási rangjelzések használatára vonatkozó szabályoknak,
+- 14. a révkalauzi tevékenység ellátása részletes feltételeinek,
+- 15. a veszélyes áruk tengeri és belvízi fuvarozásának,
+- 16. a víziközlekedés rendjének,
+- 17. a havaria vizsgálata rendjének a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben,
+- 18. a hajózási egészségi alkalmasság feltételeinek és vizsgálati rendjének az egészségügyért felelős miniszter egyetértésével kiadott,
+- 19. a hajózási képesítések megszerzése feltételeinek és rendjének, valamint a kiadandó okmányok (bizonyítványok) formai és tartalmi követelményeinek az oktatási, valamint a rádiószolgálatok állomáskezelőire vonatkozó követelmények meghatározása tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben kiadott,
+- 20. a hajózási hatósági eljárások díjainak, valamint e díjaknak az eljáró hatóság, illetve a felügyeleti és irányítási feladatot ellátó szervezetek közötti megosztása szabályainak, továbbá a hajózási képesítő vizsgák díjainak az adópolitikáért felelős miniszterrel egyetértésben kiadott,
+- 21. az utasnyilvántartás vezetése részletes szabályainak,
+- 22. a Belvízi Hajózási Alapprogram működtetése részletes szabályainak,
+- 23. a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadása részletes szabályainak,
+- 24. a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben kiadott,
+- 25. az úszólétesítményeken történő elsősegélynyújtás, valamint az egyes úszólétesítményeken az orvosi szolgálat rendszeresítése szabályainak és az ezekhez szükséges személyi és tárgyi feltételek biztosításának az egészségügyért felelős miniszterrel egyetértésben kiadott
 
 rendeletben történő megállapítására.
 
@@ -1075,6 +1091,7 @@ rendeletben történő megállapítására.
 - f) az Európai Parlament és a Tanács 2005/44/EK irányelve (2005. szeptember 7.) a közösségi belvízi közlekedésre vonatkozó harmonizált folyami információs szolgáltatásokról, 3. cikk f) pontja, 9. cikk;
 - g) az Európai Parlament és a Tanács 2006/87/EK irányelve (2006. december 12.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról és a 82/714/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk.
 - h) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével;
-- i) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól a munka törvénykönyvéről szóló 2012. évi I. törvénnyel együtt.
+- i) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól a munka törvénykönyvéről szóló 2012. évi I. törvénnyel együtt;
+- i) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló, 2009. április 23-i 2009/20/EK európai parlamenti és tanácsi irányelvnek a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt.
 
 91–93. §

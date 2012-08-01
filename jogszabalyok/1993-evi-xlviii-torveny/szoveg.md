@@ -1327,7 +1327,7 @@ bányahatósági felügyelete
 
 49/B. § (1) Átmeneti bányászjáradékra jogosult az a személy, aki
 
-- a) bányavállalkozónál föld alatti munkakörben
+- a) Magyarországon bányavállalkozónál föld alatti munkakörben
   - aa) legalább huszonöt év, a társadalombiztosítási nyugellátásról szóló törvény szerint figyelembe vehető szolgálati időt szerzett, vagy
   - ab) legalább 5000 – a társadalombiztosítási nyugellátásról szóló törvény szerint szolgálati időként figyelembe vehető – műszakot töltött el azzal, hogy a mecseki ércbányászatban elért műszakszámnak az 1,67-szeresét, a mecseki szénbányászatban elért műszakszámnak pedig az 1,25-szörösét kell a műszakszám meghatározása során figyelembe venni,
 - b) az öregségi nyugdíjkorhatárt nem töltötte be,
@@ -1338,7 +1338,7 @@ bányahatósági felügyelete
 
 (3) Az átmeneti bányászjáradékot a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. §-ában foglaltak szerint kell emelni.
 
-49/C. § (1) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az igényérvényesítésre, az átmeneti bányászjáradék megállapítására, folyósítására, a szolgálati idő meghatározására és számítására, az átmeneti bányászjáradékra jogosító idő megállapítására, a jogorvoslatra, az eljárási költségek viselésére, a jogalap nélküli ellátás visszafizetésére és megtérítésére, a késedelmi kamat megtérítésére, a tartozás elengedésére, mérséklésére és fizetési kedvezmény engedélyezésére, a végrehajtásra, valamint az adatkezelésre az öregségi nyugdíjra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol az öregségi nyugdíjra vonatkozó szabály nyugellátást vagy nyugdíjat említ, azon átmeneti bányászjáradékot kell érteni.
+49/C. § (1) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az igényérvényesítésre, az átmeneti bányászjáradék megállapítására, folyósítására, a szolgálati idő meghatározására és számítására, az átmeneti bányászjáradékra jogosító idő megállapítására és igazolására, a jogorvoslatra, az eljárási költségek viselésére, a jogalap nélküli ellátás visszafizetésére és megtérítésére, a késedelmi kamat megtérítésére, az adatszolgáltatási és bejelentési kötelezettségre, a mulasztási bírságra,, a tartozás elengedésére, mérséklésére és fizetési kedvezmény engedélyezésére, a végrehajtásra, valamint az adatkezelésre az öregségi nyugdíjra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol az öregségi nyugdíjra vonatkozó szabály nyugellátást vagy nyugdíjat említ, azon átmeneti bányászjáradékot kell érteni.
 
 (2) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az átmeneti bányászjáradék szüneteltetésére, megszűnésére és fedezetére, a megszűnéssel kapcsolatos jogkövetkezményekre, valamint az átmeneti bányászjáradékban részesülő személyek öregségi nyugdíjára a korhatár előtti ellátásra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol a korhatár előtti ellátásra vonatkozó szabály korhatár előtti ellátást említ, azon átmeneti bányászjáradékot kell érteni.
 

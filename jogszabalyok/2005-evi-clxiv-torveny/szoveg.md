@@ -220,6 +220,8 @@ nyilvántartást vezet.
 
 (5) A (3) bekezdés hatálya alá tartozó vállalkozások a beszállítókkal való kapcsolataikban a tisztességes piaci magatartásra vonatkozó önszabályozó etikai kódex megalkotására, valamint az abban foglaltak megsértése esetén alkalmazandó eljárásrend kialakítására kötelesek.
 
+(6) E § rendelkezései nem alkalmazhatóak a mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény hatálya alá tartozó esetekben.
+
 ### Érdek-képviseleti szervezetek közreműködése
 
 8. § (1) A kereskedelmi vállalkozások és a beszállítók, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytatók képviseletét ellátó egyesületet az ügyfél jogállása illeti meg az e törvény megsértése miatt indított azon közigazgatási hatósági eljárásban, ideértve a versenyfelügyeleti eljárást is, amely a kereskedők, a beszállítók vagy a kereskedelmi jellegű turisztikai szolgáltatási tevékenységet végzők széles körét érinti, vagy a vállalkozások működésére jelentős hátrányt okoz.

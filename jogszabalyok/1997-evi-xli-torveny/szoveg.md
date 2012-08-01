@@ -268,7 +268,7 @@ i) a halászati tevékenységgel kapcsolatos biztonsági, természet- és körny
 
 (4) A tanfolyam részletes szakmai anyagát a Földművelésügyi Minisztérium (a továbbiakban: minisztérium) – az Országos Halászati Bizottság javaslatának figyelembevételével – állapítja meg.
 
-(5) A halászvizsga díja ezer forint, amelyet a vizsgára jelentkezéskor, a halászati hatóságnál kell megfizetni.
+(5)
 
 (6) A halász vizsgabizonyítványok kiadásáról a minisztérium – a Tatai Mezőgazdasági és Élelmiszeripari Szakmunkásképző Iskola útján – gondoskodik.
 
@@ -310,9 +310,7 @@ h) az egyesületi tagságból eredő jogokról és kötelezettségekről.
 
 (3) Horgászvizsgát a halászati hatóság által – az illetékességi területén – kijelölt szervezetnél lehet tenni.
 
-(4) A horgászvizsga díja ezer forint, amelyet a vizsgára jelentkezéskor kell a vizsgáztatásra kijelölt szervezetnél megfizetni.
-
-(5) A vizsgáztatásra kijelölt szervezet a horgászvizsga díjbevételeit havonta, a tárgyhó 20. munkanapjáig köteles – az MgSzH 10032000-00289782-00000000 számú számlára – befizetni. A horgászvizsga díjbevételének összege – megállapodás alapján – a költségek levonásával csökkenthető. A vizsgáztatásra kijelölt szervezet negyedévenként köteles a halászati hatóság felé elszámolni. A halászati hatóság a tárgyévet követő év január 31-ig számol el a minisztérium felé.
+(4)–(5)
 
 Vhr. 12. § (1) Az állami halászjegy (beleértve a kutatási célút is), az állami horgászjegy és annak évenkénti érvényesítésének díja – a (1) bekezdésben foglalt személyek horgászjegyének kivételével – 2004. január 1-jétől ezer forint.
 
@@ -561,7 +559,7 @@ Hhtv. 34. § (1) A jogosult köteles a halgazdálkodási terv alapján hasznosí
 
 (5) A halászati őrök felügyeletét a halászati hatóság – a rendőrséggel együtt – látja el. A halászati őrök hatósági nyilvántartására, vizsgakövetelményeire, továbbképzésére és működésére vonatkozó részletes szabályokat a miniszter rendeletben állapítja meg.
 
-Vhr. 19. § (1) A halászati őr köteles a halászattal és a horgászattal kapcsolatos ismeretekről, a halászat és horgászat, a halászati őrzés, a mezőgazdasági őrszolgálat, valamint a vagyonőrökkel kapcsolatos jogszabályok ismeretéről a működésének helye szerint illetékes halászati hatóság vizsgabizottsága előtt vizsgát tenni. A vizsga letételéről a halászati hatóság a 6. számú melléklet szerinti bizonyítványt adja ki. A vizsga díja ötezer forint, melyet a halászati hatóságnál kell megfizetni.
+Vhr. 19. § (1) A halászati őr köteles a halászattal és a horgászattal kapcsolatos ismeretekről, a halászat és horgászat, a halászati őrzés, a mezőgazdasági őrszolgálat, valamint a vagyonőrökkel kapcsolatos jogszabályok ismeretéről a működésének helye szerint illetékes halászati hatóság vizsgabizottsága előtt vizsgát tenni. A vizsga letételéről a halászati hatóság a 6. számú melléklet szerinti bizonyítványt adja ki.
 
 (2) A vizsga részletes szakmai anyagának meghatározásáról a minisztérium gondoskodik.
 
@@ -569,13 +567,13 @@ Vhr. 20. § (1) A halászati vizsgát tett halászati őr megbízásának vagy f
 
 ,,Én ……………………………… esküszöm, hogy a rám bízott halászati vízterület (halastó) halállományára és élőhelyére, valamint a halászati berendezésekre lelkiismeretesen vigyázok. Feladataimat a jogszabályok rendelkezéseinek, a szakmai szabályoknak és a kapott megbízásnak, utasításnak megfelelően teljesítem. A halászat, horgászat érdekeit sértő cselekmények és károkozások megelőzésére a szükséges intézkedéseket megteszem. A hatályos jogszabályoknak megfelelően mindazokkal a személyekkel szemben eljárok, akik a halászati vízterületen (a halastavon) vagy annak partján jogosultság hiányában halásznak, horgásznak, továbbá a halállomány és élőhelyének érdekeit sértik vagy veszélyeztetik.''
 
-(2) A halászati hatóság az eskü kivételéről esküokmányt ad ki. Az eskü letételéről szóló tanúsítványt – amelyet az érintettek aláírásukkal hitelesítenek – a halászati hatóság őrzi. Az eskü kivételének a díja kétezer forint, melyet a halászati hatóságnál kell megfizetni.
+(2) A halászati hatóság az eskü kivételéről esküokmányt ad ki. Az eskü letételéről szóló tanúsítványt – amelyet az érintettek aláírásukkal hitelesítenek – a halászati hatóság őrzi.
 
 (3) Az esküokmány mintáját a 6. számú melléklet tartalmazza.
 
 Vhr. 21. § (1) Az esküt tett halászati őr részére a halászati hatóság a 7. számú mellékletben foglalt minta szerint – díj ellenében – hatósági igazolványt és az igazolvánnyal azonos sorszámú szolgálati naplót ad át.
 
-(2) A hatósági igazolvány és a szolgálati napló díja kettőezer–kettőezer forint, melyet a kiadásakor a halászati hatóságnál kell megfizetni.
+(2)
 
 (3) A hatósági igazolvány és a szolgálati napló elvesztését haladéktalanul be kell jelenteni a halászati hatóságnál.
 
@@ -693,11 +691,7 @@ Vhr. 28. § (1) A halászati hatósági feladatokat ellátó halászati felügye
 
 (3) A halvédelmi és halgazdálkodási bírság kiszabása, valamint az állami halászjegy vagy horgászjegy visszavonása iránt az eljárás lefolytatására az a halászati hatóság illetékes, amelynek területén a halászó vagy horgászó lakóhelye (ennek hiányában szálláshelye), illetve a halászatra jogosult székhelye van.
 
-Vhr. 29. § (1) A kérelemre indult halászati hatósági eljárásban az ügyfélnek a kérelem benyújtásával egyidejűleg ezer forint igazgatási szolgáltatási díjat kell készpénzben vagy csekken fizetnie a halászati hatóság által közölt számlára.
-
-(2) A halászati hatóság első fokú határozata elleni fellebbezés benyújtásával egyidejűleg kettőezer forint igazgatási szolgáltatási díjat kell készpénzben vagy csekken fizetni a halászati hatóság által közölt számlára.
-
-(3) A díjfizetésre kötelezettek körének megállapítására az illetékekről szóló 1990. évi XCIII. törvény 31. § (1) bekezdésének első mondatában, valamint a 31. § (8) bekezdéseiben foglaltakat, a jogorvoslati díj visszatérítésére a 32. §-ban foglaltakat kell alkalmazni azzal, hogy állami adóhatóság helyett Mezőgazdasági Szakigazgatási Hivatalt, illeték helyett díjat kell érteni.
+Vhr. 29. §
 
 ### A halgazdálkodásért felelős miniszter feladat- és hatásköre
 

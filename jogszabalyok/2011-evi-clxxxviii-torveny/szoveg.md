@@ -50,7 +50,7 @@ Az Országgyűlés Magyarország 2012. évi költségvetéséről a következő 
 
 (2) A 2012. évben Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet terhére történő, 1000,0 millió forint összeget elérő mértékű kötelezettségvállalásokat és – a központi alrendszer likviditási helyzetére figyelemmel – a kifizetések ütemezését az állami vagyon felügyeletéért felelős miniszter a rábízott vagyon vagyonkezelési tervének keretében hagyja jóvá.
 
-(3) Az állami vagyonról szóló 2007. évi CVI. törvény
+(3) Az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.)
 
 - a) 28. § (4) bekezdésében meghatározott egyedi könyv szerinti bruttó érték a 2012. évben 25,0 millió forint,
 - b) 33. § (2) bekezdésében meghatározott egyedi könyv szerinti bruttó érték a 2012. évben 25,0 millió forint,
@@ -437,7 +437,7 @@ alakulását, továbbá javaslatot tesz a (10) bekezdés szerinti kiadási elői
 
 (3) A közoktatási feladatot ellátó intézményt a nemzetiségek jogairól szóló törvény rendelkezései alapján fenntartó országos nemzetiségi önkormányzat a normatív hozzájáruláson és támogatáson túl nemzetiségi fenntartói kiegészítő támogatásra jogosult. A támogatási összeg – függetlenül az igénybe vett közoktatási szolgáltatás számától – 230 000 forint/év, minden valós – a Közokt. tv. 1. mellékletében meghatározottak szerint számított – ellátott gyermek-, illetve oktatott tanulólétszám után, az így figyelembe vehető óvodai ellátottak, iskolai közismereti oktatásban, szakképzési elméleti oktatásban, gyógypedagógiai oktatásban –, a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 3. mellékletének 15. pont a)–d) alpontja alapján 2012. augusztus 31-éig, a 3. melléklet 15. pont a)–d) alpontjában 2012. szeptember 1-jétől figyelembe vehető – törtévi (8 és 4 havi) illetve átlaglétszáma, valamint a 16. pont bb) alpontja szerinti korai fejlesztésben és 16. pont bc) alpontja szerinti fejlesztő felkészítésben részt vevő gyermekeknek, tanulóknak a 3. melléklet Kiegészítő szabályok 10. pont h) alpontja szerint számított létszáma alapján.
 
-(4) A Szoctv. 4. § (1) bekezdés m) pont mb) alpontjában és a Gyvt. 5. § s) pont sb) alpontjában meghatározott szociális és gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézmény fenntartó egyházi jogi személy a normatív hozzájáruláson túl az egyházak támogatásáról szóló törvény feltételei szerint kiegészítő támogatásra jogosult. Ennek mértéke a 3. melléklet 11. pont b)–h) alpontjában és 12-14. pontjában meghatározott normatíva 94,5%-a.
+(4) A Szoctv. 4. § (1) bekezdés m) pont mb) alpontjában és a Gyvt. 5. § s) pont sb) alpontjában meghatározott szociális és gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézmény fenntartó egyházi jogi személy a normatív hozzájáruláson túl az egyházak támogatásáról szóló törvény feltételei szerint kiegészítő támogatásra jogosult. Ennek mértéke a 3. melléklet 11. pont b)–h) alpontjában és 12-14. pontjában meghatározott normatíva 94,5%-a a 2012. január 1. és július 31. közötti időszakra, 80%-a a 2012. augusztus 1. és december 31. közötti időszakra.
 
 (5) Az (1) bekezdés a)–d) és f)–g) pontjában meghatározott normatív hozzájárulás és támogatás, valamint a (2)–(4) bekezdés szerinti kiegészítő támogatás elszámolása – a Kormány által meghatározott eljárási szabályok szerint – az Emberi Erőforrások Minisztériuma humánszolgáltatás és kiegészítő támogatás tárgyévet követő év előirányzatai terhére, illetve javára történik.
 
@@ -729,6 +729,8 @@ gyakorolja.
 (3) Az Országgyűlés 2012. január 1-jei hatállyal elengedi a Magyar Televízió Nonprofit Zrt.-nek a 2010. évi központi költségvetés általános tartalékának előirányzatából történő felhasználásáról szóló 1069/2010. (III. 18.) Korm. határozat alapján fennálló visszatérítési kötelezettségéből adódó tartozását.
 
 (4) Az Országgyűlés a közszolgálati médiaszolgáltatás egységes gyártóbázisául szolgáló, Budapest III. kerület, 18848/14 hrsz. alatt felvett, természetben a 1037 Budapest, Kunigunda útján található létesítmény tulajdonjogának megszerzése tárgyában megvalósuló jogügylettel összefüggésben a 2012. költségvetési évben a Médiaszolgáltatás-támogató és Vagyonkezelő Alap általános forgalmi adóról szóló 2007. évi CXXVII. törvény 142. §-a alapján felmerülő általános forgalmi adó fizetési kötelezettségét előzetesen elengedi.
+
+(5) Az Országgyűlés a Vtv. 36. § (1) bekezdése alapján úgy rendelkezik, hogy az állam tulajdonában és a Diákhitel Központ Zrt. vagyonkezelésében álló azon informatikai eszközök és szoftverek, amelyek jelenleg a Diákhitel Központ Zrt. jogszabályban meghatározott feladatainak ellátását szolgálják, ingyenesen kerüljenek a Diákhitel Központ Zrt. tulajdonába, közfeladat-ellátási célokra. A tulajdonváltozásra vonatkozó szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zrt. köti meg.
 
 72. § (1) A Kbt. 10. § (1) bekezdés a) pontja szerinti, az árubeszerzésre vonatkozó uniós közbeszerzési értékhatár – kivéve a Kbt. XIV. fejezete alkalmazásakor a közszolgáltatói szerződésekre [Kbt. 114. § (2) bekezdése] vonatkozó értékhatárt 2012. január 1-jétől 2012. december 31-éig:
 

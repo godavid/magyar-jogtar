@@ -190,7 +190,7 @@ a helyi bíróság (városi bíróság, kerületi bíróság) és a törvénysz�
 
 23. § (1) A törvényszék hatáskörébe tartoznak:
 
-- a) azok a vagyonjogi perek, amelyek tárgyának értéke a tízmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
+- a) azok a vagyonjogi perek, amelyek tárgyának értéke a harmincmillió forintot meghaladja, kivéve a házassági vagyonjogi pert, ha azt a házassági perrel együtt vagy annak folyamán indítják meg;
 - b) azok a perek, amelyeket a közigazgatási jogkörben eljáró személyek által hivatalos eljárásukban okozott károk megtérítése iránt indítanak;
 - c) a szerzői és a szomszédos jogi perek – ideértve a közös jogkezelés körébe tartozó jogok és díjigények érvényesítése iránt indított pereket is –, valamint az iparjogvédelmi perek és a Ptk. 86. § (3)–(4) bekezdésében meghatározott jogokkal kapcsolatos perek;
 - d) a nemzetközi árufuvarozási vagy szállítmányozási szerződéssel kapcsolatos perek;
@@ -2975,9 +2975,14 @@ a közjegyző felhívásának kézbesítésétől számított tizenöt napon bel
 
 (8) Ha ugyanazon közigazgatási határozat felülvizsgálata iránt több bíróság előtt indítanak pert, az az illetékes bíróság jár el, amelyhez a keresetlevelet elsőként továbbították. A közigazgatási szerv az utóbb továbbított keresetlevélre a 330. § (2) bekezdése szerint megtett nyilatkozatában felhívja a bíróság figyelmét arra, hogy korábban az adott határozat ellen másik keresetlevelet nyújtottak be, és azt az abban megjelölt másik illetékes bírósághoz továbbították. Az a bíróság, amelynek a közigazgatási szerv utóbb továbbított keresetlevelet, a 129. § szerint jár el.
 
-(9) Közigazgatási perekben a törvényszék által első fokon hozott határozatok tekintetében – ha törvény a fellebbezést megengedi – a másodfokú eljárásra a Fővárosi Ítélőtábla kizárólagosan illetékes.
+(9) Azokban a közigazgatási perekben, amelyekben törvény alapján az ítélet ellen fellebbezésnek van helye, a törvényszék által első fokon hozott határozatok tekintetében – ha törvény a fellebbezést megengedi – a másodfokú eljárásra a Fővárosi Ítélőtábla kizárólagosan illetékes.
 
-(10) A közigazgatási perekben jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, továbbá ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot a Fővárosi Ítélőtábla jelöli ki.
+(10) A közigazgatási perekben jogerős határozatok folytán felmerült hatásköri vagy illetékességi összeütközés esetében, továbbá ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az eljáró bíróságot
+
+- a) ha az összeütközés a területén levő törvényszékek között merült fel, továbbá ha a területén levő törvényszék kizárása esetén a területén levő másik törvényszék kijelölhető, az ítélőtábla,
+- b) az a) pont alá nem tartozó esetekben a Kúria
+
+jelöli ki.
 
 (11) E fejezet alkalmazásában:
 
