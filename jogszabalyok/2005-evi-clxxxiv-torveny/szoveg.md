@@ -160,7 +160,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 - h) folyamatos vélemény- és tapasztalatcserét folytat más országok szervezeteivel, a nemzetközi szervezetekkel – a műszaki és tudományos fejlődéssel összhangban lévő – közös vizsgálati módszerek kidolgozása, a biztonsági ajánlások végrehajtásának figyelemmel kísérésére szolgáló közös elvek megfogalmazása céljából, az e törvény végrehajtására kiadott jogszabályban meghatározott adattartalommal értesíti az Európai Bizottságot a víziközlekedési balesetekről és a rendkívüli víziközlekedési eseményekről;
 - i) a víziközlekedési balesetekre és víziközlekedési eseményekre vonatkozó adatokat a Bizottság által létrehozott, az Európai Tengeri Balesetek Információs Platformja (EMCIP) elnevezésű európai elektronikus adatbázisban tárolja.
 
-(2) A közlekedésbiztonsági szerv az (1) bekezdés e) pontjában megjelölt adatbázisban tartja nyilván a légiközlekedési balesetre, a súlyos repülőeseményre és a légiközlekedési rendellenességre vonatkozó bejelentések alapján indított szakmai vizsgálat során az e törvénnyel összhangban birtokába került adatokat. Az adatbázisban tárolja továbbá a légiközlekedési hatóság által összegyűjtött, értékelt, a légiközlekedés biztonságát veszélyeztető, a külön jogszabályban meghatározott légiközlekedés védelmi jellegű eseményekre vonatkozó adatokat is. Az adatbázisban rögzített adatok kizárólag az e törvényben, valamint az 1321/2007/EK bizottsági rendeletben és az 1330/2007/EK bizottsági rendeletben meghatározott célokra használhatók fel.
+(2) A közlekedésbiztonsági szerv az (1) bekezdés g) pontjában megjelölt adatbázisban tartja nyilván a légiközlekedési balesetre, a súlyos repülőeseményre és a légiközlekedési rendellenességre vonatkozó bejelentések alapján indított szakmai vizsgálat során az e törvénnyel összhangban birtokába került adatokat. Az adatbázisban tárolja továbbá a légiközlekedési hatóság által összegyűjtött, értékelt, a légiközlekedés biztonságát veszélyeztető, a külön jogszabályban meghatározott légiközlekedés védelmi jellegű eseményekre vonatkozó adatokat is. Az adatbázisban rögzített adatok kizárólag az e törvényben, valamint az 1321/2007/EK bizottsági rendeletben és az 1330/2007/EK bizottsági rendeletben meghatározott célokra használhatók fel.
 
 (3) A (2) bekezdésben meghatározott adatbázisból a közlekedésbiztonsági szerv személyes és különleges adatokat nem tartalmazó adatbázist hoz létre, az Európai Bizottság és az Európai Gazdasági Térségről szóló megállapodásban részes államok (a továbbiakban: EGT-államok) közötti, továbbá nemzetközi szerződésben előírt adatcseréhez szükséges mértékben.
 
@@ -229,7 +229,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 (8) A vizsgálóbizottság legalább két tagból áll. A bizottság tagjait a közlekedésbiztonsági szerv vezetője írásban jelöli ki a vizsgálat lefolytatására, egyidejűleg kijelöli a szakmai vizsgálat megszervezésével, végrehajtásával és felügyeletével megbízott vizsgálatvezetőt. A bizottság munkájában való részvételre a közlekedésbiztonsági szerv kormánytisztviselőin kívül más, a szakmai vizsgálat lefolytatására – a 22. § (1) bekezdés a–c) pontjában kapott felhatalmazás alapján kiadott rendeletben meghatározott – szakértelemmel rendelkező személy is igénybe vehető. A vizsgálat vezetője a közlekedésbiztonsági szerv kormánytisztviselője. A súlyos repülőesemény kivételével az egyéb közlekedési esemény vizsgálatára a közlekedésbiztonsági szerv kormánytisztviselői közül – vizsgálóbizottság helyett – szakmai kivizsgáló is kijelölhető. A szakmai kivizsgáló a vizsgálóbizottság feladatait látja el és gyakorolja jogait.
 
-(9) A közlekedésbiztonsági szerv vezetője a bejelentést követően haladéktalanul írásban kijelöli a vizsgálóbizottság tagjait, és ezzel megindítja a szakmai vizsgálatot. A vizsgálóbizottság a kijelölést követően haladéktalanul megkezdi a szakmai vizsgálatot. Amennyiben a közlekedési balesetben és egyéb közlekedési eseményben több jármű érintett, azt egy esetnek kell tekinteni. Az esetet a legsúlyosabb következmény alapján kell minősíteni.
+(9) A közlekedésbiztonsági szerv vezetője a bejelentést követően haladéktalanul írásban kijelöli a vizsgálóbizottság tagjait, és ezzel megindítja a szakmai vizsgálatot. A vizsgálóbizottság a kijelölést követően a szakmai vizsgálat 8. §-ban rögzített alapelvei szerint, a szakmai vizsgálatra vonatkozó általános szabályok figyelembevételével határozza meg a vizsgálat körét és a vizsgálatok során követendő eljárást, valamint haladéktalanul megkezdi a szakmai vizsgálatot. Amennyiben a közlekedési balesetben és egyéb közlekedési eseményben több jármű érintett, azt egy esetnek kell tekinteni. Az esetet a legsúlyosabb következménye alapján kell minősíteni.
 
 (10) Súlyos vasúti baleset esetén – illetve, amennyiben a közlekedésbiztonsági szerv úgy dönt, hogy vasúti balesettel vagy váratlan vasúti eseménnyel kapcsolatban vizsgálatot indít – a közlekedésbiztonsági szerv vezetője a szakmai vizsgálat megindításáról egy héten belül tájékoztatja az Európai Vasúti Ügynökséget. A tájékoztatás tartalmazza a baleset dátumát, idejét és helyét, valamint annak jellegét és következményeit a halálos áldozatok, személyi sérülések és anyagi károk tekintetében.
 
@@ -330,6 +330,8 @@ látja el.
 
 14. § A vasúti és víziközlekedési balesetekben vagy esemény során elhalálozott személyek hozzátartozóit, valamint sérültjeit a vizsgálatról és annak folyamatáról tájékoztatni kell, és lehetőséget kell biztosítani arra, hogy a vizsgálattal kapcsolatos álláspontjukat kifejthessék és a zárójelentés tervezetében szereplő adatokhoz megjegyzést fűzzenek.
 
+14/A. § Vasúti baleset vagy esemény bekövetkezése esetén a biztonsági ajánlások címzettjeit, a balesetben vagy eseményben érintett mentőszolgálatokat, a megsérült vagyontárgyak tulajdonosait, a gyártókat, az érintett szolgáltatások igénybevevőinek képviselőit és a munkavállalók képviselőit tájékoztatni kell a vizsgálat folyamatáról, és lehetőséget kell biztosítani arra, hogy tájékoztatás kézhezvételétől számított 30 napon belül írásban ismertessék álláspontjukat és véleményüket a vizsgálattal kapcsolatban, valamint megjegyzést tegyenek a zárójelentés-tervezetben szereplő információkra.
+
 15. § (1) A közlekedési baleset vagy az egyéb közlekedési esemény szakmai vizsgálata során a magyar állampolgár (Magyarországon bejegyzett) üzemben tartó, ennek hiányában a tulajdonos, továbbá a gyártó, javító, illetve karbantartó és mindezek képviselői nyilatkozattételre jogosultak. A magyar hatóság nyilvántartásában (lajstromában) szereplő jármű nem magyar állampolgár (nem Magyarországon bejegyzett) üzemben tartója, ennek hiányában a tulajdonos, továbbá a gyártó, javító, illetve karbantartó és mindezek képviselői is jogosultak nyilatkozattételre.
 
 (2) A közlekedési balesetben és az egyéb közlekedési eseményben érintett járművet, infrastruktúrát
@@ -410,7 +412,7 @@ látja el.
 
 (7) A közlekedésbiztonsági szerv a zárójelentést – a légiközlekedési rendellenesség vizsgálatával kapcsolatban készített zárójelentés kivételével – honlapján közzéteszi.
 
-(8) A vasúti és víziközlekedési balesetek és események kapcsán kibocsátott biztonsági ajánlások címzettjei a biztonsági ajánlás kézhezvételétől számított 90 napon belül írásban tájékoztatást adnak a közlekedésbiztonsági szervnek az ajánlások elfogadásáról bevezetésük határidejének megjelölésével vagy egyet nem értésükről indokolással ellátva.
+(8) A vasúti vagy víziközlekedési balesetek és események kapcsán kibocsátott biztonsági ajánlások címzettjei a biztonsági ajánlás kézhezvételétől számított 90 napon belül írásban tájékoztatást adnak a közlekedésbiztonsági szervnek az ajánlások elfogadásáról, az ajánlás alapján tervezett, vagy megtett intézkedésükről bevezetésük határidejének megjelölésével, vagy egyet nem értésük esetén indoklással ellátva.
 
 (9) A biztonsági ajánlások címzettjei jelentést nyújtanak be a közlekedésbiztonsági szervhez az ajánlások nyomán megtett vagy tervezett intézkedésekről a tárgyévet követő év április 30-áig.
 
@@ -601,10 +603,10 @@ látja el.
 
 22. § (1) Felhatalmazást kap a miniszter, hogy
 
-- a) súlyos vasúti balesetek, a vasúti balesetek és váratlan vasúti események szakmai vizsgálatának részletes szabályait,
-- b) a légiközlekedési balesetek, a repülőesemények és légiközlekedési rendellenességek szakmai vizsgálatának részletes szabályait,
-- c) a víziközlekedési balesetek és a víziközlekedési események vizsgálatának részletes szabályait,
-- d) az üzembentartói vizsgálat szabályait
+- a) súlyos vasúti balesetek, a vasúti balesetek és váratlan vasúti események szakmai vizsgálatának, a vizsgálatban résztvevők szakmai képzettségére, az oktatásra és vizsgáztatásra vonatkozó részletes szabályait,
+- b) a légiközlekedési balesetek, a repülőesemények és légiközlekedési rendellenességek szakmai vizsgálatának, a vizsgálatban résztvevők szakmai képzettségére, az oktatásra és vizsgáztatásra vonatkozó részletes szabályait,
+- c) a víziközlekedési balesetek és a víziközlekedési események vizsgálatának, a vizsgálatban résztvevők szakmai képzettségére, az oktatásra és vizsgáztatásra vonatkozó részletes szabályait,
+- d) az üzembentartói vizsgálat részletes szabályait
 
 rendeletben állapítsa meg.
 
