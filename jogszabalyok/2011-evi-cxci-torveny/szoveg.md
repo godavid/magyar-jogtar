@@ -291,11 +291,14 @@ vonatkozó adatokat kezelheti.
 
 #### 7. A rehabilitációs hozzájárulás és a megváltozott munkaképességű személyek foglalkoztatásának támogatása
 
-22. § A 23–24. § alkalmazásában – a 2. § (1) bekezdés nyitó szövegrészében meghatározottakon túl – megváltozott munkaképességű személynek kell tekinteni azt a személyt is,
+22. § A 23–24. § alkalmazásában megváltozott munkaképességű személynek kell tekinteni azt a személyt,
 
-- a) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás időbeli hatálya alatt,
-- b) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű, az erről szóló szakvélemény időbeli hatálya alatt, vagy
-- c) aki fogyatékossági támogatásban vagy vakok személyi járadékában részesül.
+- a) aki a 2. § (1) bekezdése alapján megváltozott munkaképességűnek minősül,
+- b) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás időbeli hatálya alatt,
+- c) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű, az erről szóló szakvélemény időbeli hatálya alatt, vagy
+- d) aki fogyatékossági támogatásban vagy vakok személyi járadékában részesül
+
+és a munkaszerződése szerinti napi munkaideje a 4 órát eléri.
 
 23. § (1) A munkaadó a megváltozott munkaképességű személyek foglalkozási rehabilitációjának elősegítése érdekében rehabilitációs hozzájárulás fizetésére köteles, ha az általa foglalkoztatottak létszáma a 25 főt meghaladja, és az általa foglalkoztatott megváltozott munkaképességű személyek száma nem éri el a létszám 5 százalékát (a továbbiakban: kötelező foglalkoztatási szint).
 
@@ -516,7 +519,7 @@ kell figyelembe venni.
 38. § (1) A 23–25. § alkalmazásában
 
 - a) a 33. § szerinti felülvizsgálattal érintett személyek esetében a felülvizsgálat alapján hozott jogerős döntést követő harmadik hónap első napjáig,
-- b) az a) pont alá nem tartozó személyek esetében 2012. december 31-éig megváltozott munkaképességű személynek kell tekinteni azt a személyt is, aki 2011. december 31-én a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 42. és 42/B. §-a szerint megváltozott munkaképességű munkavállalónak minősült vagy foglalkoztatása alapján a munkáltató 2011. decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült.
+- b) az a) pont alá nem tartozó személyek esetében a (2) bekezdés szerinti hatósági bizonyítvány kiállítását követő harmadik hónap első napjáig, de legkésőbb 2012. december 31-éig megváltozott munkaképességű személynek kell tekinteni azt a személyt is, aki 2011. december 31-én a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 42. és 42/B. §-a szerint megváltozott munkaképességű munkavállalónak minősült vagy foglalkoztatása alapján a munkáltató 2011. decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült.
 
 (2) Az (1) bekezdés b) pontja szerinti személy komplex minősítését kérelmére a rehabilitációs hatóság elvégzi, és ennek eredményéről hatósági bizonyítványt állít ki.
 
