@@ -1086,7 +1086,7 @@ kell alkalmazni.
 
 (3) Ha a tag a vele közölt vételi ajánlat bejelentésétől számított tizenöt napon belül nem nyilatkozik, úgy kell tekinteni, hogy az elővásárlási jogával nem kívánt élni. A társaság vagy az általa kijelölt személy esetén a határidő a bejelentéstől számított harminc nap. Ez utóbbi határidő vonatkozik a 126. §-ban megjelölt beleegyezés esetére is.
 
-124. § A tag üzletrészének bírósági végrehajtási eljárás során történő értékesítésénél a többi tagot, a társaságot vagy a taggyűlés által kijelölt személyt – ebben a sorrendben – az üzletrészre – a bírósági végrehajtási árverésen gyakorolható – elővásárlási jog illeti meg. Ennek során az elővásárlási jog gyakorlására a 123. §-ban foglaltak irányadóak azzal, hogy a társaságot megillető elővásárlási jogot mindkét esetben a taggyűlés gyakorolja.
+124. § A tag üzletrészének bírósági végrehajtási eljárás során történő értékesítésénél a többi tagot, a társaságot vagy a taggyűlés által kijelölt személyt – ebben a sorrendben – az üzletrészre – a bírósági végrehajtási árverésen gyakorolható – elővásárlási jog illeti meg. Ennek során az elővásárlási jog gyakorlására a bírósági végrehajtási eljárás szabályai irányadóak azzal, hogy a társaságot megillető elővásárlási jogot mindkét esetben a taggyűlés gyakorolja.
 
 125. § (1) Az elővásárlási jog átruházása semmis.
 

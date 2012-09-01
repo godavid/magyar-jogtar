@@ -62,7 +62,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 - p) tartós betegség: azon kórforma, amely a külön jogszabályban meghatározott magasabb összegű családi pótlékra jogosít,
 - q) fogyatékos gyermek, fiatal felnőtt:
   - qa) a gyermekvédelmi pénzbeli és természetbeni ellátások tekintetében a külön jogszabályban meghatározott magasabb összegű családi pótlékra jogosító fogyatékosságban szenvedő gyermek, fiatal felnőtt,
-  - qb) a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátások és gyermekvédelmi szakellátások, valamint a gyermekétkeztetés normatív kedvezménye tekintetében a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Kt.) 121. §-a (1) bekezdésének 29. a) pontjában foglaltaknak megfelelő gyermek, fiatal felnőtt,
+  - qb) a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátások és gyermekvédelmi szakellátások, valamint a gyermekétkeztetés normatív kedvezménye tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nktv.) 4. § 23. pontjában foglaltaknak megfelelő gyermek, fiatal felnőtt,
 - r) jövedelem: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. §-a (1) bekezdésének a) pontjában meghatározattak,
 - s) fenntartó:
   - sa) a központi költségvetési szerv, a megyei intézményeket fenntartó, Kormány által rendeletben kijelölt szerv (a továbbiakban: megyei fenntartó), a helyi önkormányzat, a helyi önkormányzatok társulásairól és együttműködéséről szóló 1997. évi CXXXV. törvény 8. §–9. §-a, illetve 16. §-a szerinti intézményi társulás, a települési önkormányzatok többcélú kistérségi társulása, a nemzetiségi önkormányzat (a továbbiakban együtt: állami fenntartó),
@@ -316,7 +316,7 @@ gyakorolja.
 
 - a) az egészségügyi szolgáltatást nyújtók, így különösen a védőnői szolgálat, a háziorvos, a házi gyermekorvos,
 - b) a személyes gondoskodást nyújtó szolgáltatók, így különösen a családsegítő szolgálat, a családsegítő központ,
-- c) a közoktatási intézmények, így különösen a nevelési-oktatási intézmény, a nevelési tanácsadó,
+- c) a köznevelési intézmények,
 - d) a rendőrség,
 - e) az ügyészség,
 - f) a bíróság,
@@ -835,7 +835,7 @@ alapozza meg.
 
 ### Gyermekjóléti szolgálat
 
-40. § (1) A települési önkormányzat a 39. §-ban meghatározott gyermekjóléti szolgáltatás feladatait önálló intézményként, illetve családsegítő szolgálat, vagy a 96. § (4)–(5) bekezdései szerinti egészségügyi vagy közoktatási intézmény szervezeti és szakmai tekintetben önálló intézményegységként, illetve a külön jogszabályban meghatározott képesítési előírásoknak megfelelő személy foglalkoztatásával biztosítja (a továbbiakban együtt: gyermekjóléti szolgálat).
+40. § (1) A települési önkormányzat a 39. §-ban meghatározott gyermekjóléti szolgáltatás feladatait önálló intézményként, illetve családsegítő szolgálat, vagy a 96. § (4)–(5) bekezdései szerinti egészségügyi vagy nevelési-oktatási intézmény szervezeti és szakmai tekintetben önálló intézményegységként, illetve a külön jogszabályban meghatározott képesítési előírásoknak megfelelő személy foglalkoztatásával biztosítja (a továbbiakban együtt: gyermekjóléti szolgálat).
 
 (2) A gyermekjóléti szolgálat – összehangolva a gyermekeket ellátó egészségügyi és nevelési-oktatási intézményekkel, illetve szolgálatokkal – szervezési, szolgáltatási és gondozási feladatokat végez. Tevékenysége körében a 39. §-ban foglaltakon túl
 
@@ -888,7 +888,7 @@ biztosít.
 
 42. § (1) A bölcsőde a családban nevelkedő 3 éven aluli gyermekek napközbeni ellátását, szakszerű gondozását és nevelését biztosító intézmény. Ha a gyermek a 3. évét betöltötte, de testi vagy szellemi fejlettségi szintje alapján még nem érett az óvodai nevelésre, a 4. évének betöltését követő augusztus 31-ig nevelhető és gondozható a bölcsődében.
 
-(2) A bölcsőde az (1) bekezdésben foglaltakon túl végezheti a fogyatékos gyermekek korai habilitációs és rehabilitációs célú nevelését és gondozását is. A bölcsődei ellátás keretében a Kt. szerinti szakértői és rehabilitációs bizottság szakvéleménye alapján a fogyatékos gyermek legfeljebb hatéves koráig fejlődését biztosító korai fejlesztésben és gondozásban, vagy fejlesztő felkészítésben vehet részt.
+(2) A bölcsőde az (1) bekezdésben foglaltakon túl végezheti a fogyatékos gyermekek korai habilitációs és rehabilitációs célú nevelését és gondozását is. A bölcsődei ellátás keretében az Nktv. szerinti szakértői bizottság szakvéleménye alapján a fogyatékos gyermek legfeljebb hatéves koráig fejlődését biztosító korai fejlesztésben és gondozásban, vagy fejlesztő felkészítésben vehet részt.
 
 (3) A bölcsőde az alapellátáson túl szolgáltatásként speciális tanácsadással, időszakos gyermekfelügyelettel, gyermekhotel működtetésével, vagy más gyermeknevelést segítő szolgáltatásokkal segítheti a családokat.
 
@@ -956,7 +956,7 @@ biztosít.
 
 (4) Házi gyermekfelügyeletet az a személy biztosíthat, aki megfelel a 43. § (4) bekezdésében foglaltaknak.
 
-(5) A házi gyermekfelügyelet keretében segítséget kell nyújtani az iskolai tanulmányok folytatásához, amennyiben a gyermek tanulmányait a Kt. rendelkezései szerint fogyatékossága vagy súlyos betegsége miatt magántanulóként folytatja.
+(5) A házi gyermekfelügyelet keretében segítséget kell nyújtani az iskolai tanulmányok folytatásához, amennyiben a gyermek tanulmányait az Nktv. rendelkezései szerint fogyatékossága vagy súlyos betegsége miatt magántanulóként folytatja.
 
 ### Alternatív napközbeni ellátás
 
@@ -1249,7 +1249,7 @@ feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok v�
 
 (3) A speciális gyermekotthon a szükséges személyi és tárgyi feltételek megléte esetén bentlakásos ellátás keretében végezheti a megyei, fővárosi gyermekvédelmi szakértői bizottság felkérésére a gyermek személyiségvizsgálatát.
 
-(4) A tartósan beteg, illetve fogyatékos, valamint kora miatt különleges ellátást igénylő gyermek gondozását, ellátását, habilitációját és rehabilitációját – a Kt. szerinti szakértői és rehabilitációs bizottság szakértői véleménye alapján – az erre a célra létrehozott különleges gyermekotthon vagy az átmeneti és tartós nevelésbe vett gyermek teljes körű ellátását nyújtó gyermekotthon vagy gyermekotthoni csoport biztosítja, feltéve, ha állapota nem indokolja az Szt. hatálya alá tartozó fogyatékosok vagy pszichiátriai betegek otthonában való elhelyezését, vagy az elhelyezés férőhely hiányában nem lehetséges.
+(4) A tartósan beteg, illetve fogyatékos, valamint kora miatt különleges ellátást igénylő gyermek gondozását, ellátását, habilitációját és rehabilitációját – az Nktv. szerinti szakértői bizottság szakértői véleménye alapján – az erre a célra létrehozott különleges gyermekotthon vagy az átmeneti és tartós nevelésbe vett gyermek teljes körű ellátását nyújtó gyermekotthon vagy gyermekotthoni csoport biztosítja, feltéve, ha állapota nem indokolja az Szt. hatálya alá tartozó fogyatékosok vagy pszichiátriai betegek otthonában való elhelyezését, vagy az elhelyezés férőhely hiányában nem lehetséges.
 
 59. § (1) A gyermekotthon legalább 12, de legfeljebb 48 – önálló lakóegységben elhelyezett – gyermek otthont nyújtó ellátását biztosítja.
 
@@ -1525,7 +1525,7 @@ hivatásos nevelőszülői díjnak megfelelő összeg.
 
 (3) A védelembe vétellel egyidejűleg a gyermek gondozásának folyamatos segítése és ellátásának megszervezése, a szülői nevelés támogatása érdekében a települési önkormányzat jegyzője a gyermek részére a gyermekjóléti szolgálat családgondozóját rendeli ki és a veszélyeztetettség okának megszüntetése érdekében intézkedést tesz, így különösen
 
-- a) kötelezi a szülőt, hogy folyamatosan vegye igénybe a gyermekek napközbeni ellátását, a gyermekek átmeneti gondozását, a Kt. hatálya alá tartozó iskolaotthonos nevelést-oktatást, illetve kollégiumi ellátást,
+- a) kötelezi a szülőt, hogy folyamatosan vegye igénybe a gyermekek napközbeni ellátását, a gyermekek átmeneti gondozását, az Nktv. hatálya alá tartozó iskolaotthonos nevelést-oktatást, illetve kollégiumi ellátást,
 - b) kötelezi a szülőt, hogy gyermekével keressen fel valamely családvédelemmel foglalkozó személyt vagy szervezetet,
 - c) kötelezi a szülőt arra, hogy gyermeke vegye igénybe az egészségügyi szolgáltatásokat,
 - d) kezdeményezi a háziorvosnál – súlyos veszélyeztetettség esetén bármely orvosnál – a betegsége, illetve szenvedélybetegsége következtében állandóan vagy időszakosan kóros elmeállapotú szülő, illetve a gyermekkel együtt élő más hozzátartozó orvosi vizsgálatát,
@@ -1543,19 +1543,21 @@ hivatásos nevelőszülői díjnak megfelelő összeg.
 
 (6) A védelembe vétel nem érinti a szülő felügyeleti jogát.
 
-68/A. § (1) A gyermek után járó iskoláztatási támogatás teljes összege folyósításának a Cst. 15. § (1) bekezdés b) pont ba) alpontjában foglaltak szerinti felfüggesztésével egyidejűleg a települési önkormányzat jegyzője elrendeli a 16. életévét be nem töltött gyermek védelembe vételét.
+68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
 
-(2) A települési önkormányzat jegyzője
+(2) A gyámhatóság az iskoláztatási támogatás szüneteltetésének szükségességét
 
-- a) a Cst. 15. § (1) bekezdés b) pont ba) alpontja szerinti esetben dönt az iskoláztatási támogatás felfüggesztéséről és ezzel egyidejűleg az iskoláztatási támogatás összegének a települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) történő utalásáról,
-- b) a Cst. 15. § (1) bekezdés b) pont bb) alpontja szerinti esetben kezdeményezi az iskoláztatási támogatást folyósító szervnél az ellátás szüneteltetését.
+- a) három tanítási hónapot magában foglaló időszakonként, és
+- b) a tanítási év lezárását követő 15 napon belül, feltéve, hogy az iskoláztatási támogatás szüneteltetésének kezdő időpontja vagy az utolsó felülvizsgálat óta legalább egy hónap eltelt felülvizsgálja.
 
-(3) Az iskoláztatási támogatás folyósításának felfüggesztése esetén a felfüggesztés időtartama alatt
+(3) A gyámhatóság a (2) bekezdés szerinti felülvizsgálati eljárás eredményeként, ha a gyermek (fiatal felnőtt) a felülvizsgálattal érintett időszakban ötnél több kötelező tanórai foglalkozást igazolatlanul
 
-- a) a rendszeres gyermekvédelmi kedvezményben nem részesülő gyermek után járó iskoláztatási támogatást a családtámogatási folyószámlán kell gyűjteni,
-- b) a rendszeres gyermekvédelmi kedvezményben részesülő gyermek után járó iskoláztatási támogatást a gyermek számára természetbeni formában kell nyújtani.
+- a) mulasztott, megállapítja, hogy az iskoláztatási támogatás szüneteltetése megszüntetéséhez szükséges feltétel nem áll fenn,
+- b) nem mulasztott, kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetésének megszüntetését.
 
-(4) Az iskoláztatási támogatás felfüggesztésének és szüneteltetésének indokoltságát a külön jogszabályban foglalt esetekben rendszeresen felül kell vizsgálni. Ha a gyermek igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma a 16. életévének betöltését megelőző utolsó felülvizsgálat és az azt követő első felülvizsgálat közötti időtartamban eléri a tizet, a települési önkormányzat jegyzője kezdeményezi az iskoláztatási támogatást folyósító szervnél az ellátás szüneteltetését és rendelkezik a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás családi pótlék előirányzat javára történő visszafizetéséről.
+(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a kincstárnál az iskoláztatási támogatás szüneteltetésének megszüntetését, ha a gyermek (fiatal felnőtt) nevelőszülőnél, hivatásos nevelőszülőnél, gyermekotthonban, szociális intézményben történő elhelyezésére került sor, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
+
+(5) A gyámhatóságnak a (3) bekezdés b) pontja és (4) bekezdés szerinti intézkedése ellen nincs helye fellebbezésnek.
 
 68/B. § (1) A települési önkormányzat jegyzője – a 68/A. § szerinti esetet kivéve –
 
@@ -1569,9 +1571,9 @@ hivatásos nevelőszülői díjnak megfelelő összeg.
 
 (4) Ha a védelembe vétel során a családi pótlék természetbeni formában történő nyújtása válik szükségessé, a települési önkormányzat jegyzője – a gyermeket gondozó szülő, illetve a korlátozottan cselekvőképes gyermek meghallgatását követően, véleményük figyelembevételével, továbbá a gyermekjóléti szolgálat és szükség szerint a 17. § (1) bekezdése szerinti jelzőrendszer tagjai javaslatának figyelembevételével – gondoskodik a családi pótlék természetbeni formában történő nyújtásához kapcsolódó pénzfelhasználási terv elkészítéséről.
 
-(5) A pénzfelhasználási terv figyelembevételével a települési önkormányzat jegyzője egy határozatban dönt a családi pótlék természetbeni formában történő nyújtásáról, időtartamáról és módjáról, védelembe nem vett gyermek esetén a védelembe vétel elrendeléséről, az eseti gondnok kirendeléséről, és ezzel egyidejűleg a természetben nyújtott családi pótlék családtámogatási folyószámlára történő utalásáról.
+(5) A pénzfelhasználási terv figyelembevételével a települési önkormányzat jegyzője egy határozatban dönt a családi pótlék természetbeni formában történő nyújtásáról, időtartamáról és módjáról, védelembe nem vett gyermek esetén a védelembe vétel elrendeléséről, az eseti gondnok kirendeléséről, és ezzel egyidejűleg a természetben nyújtott családi pótlék települési önkormányzat részére a kincstárban megnyitott családtámogatási folyószámlára történő utalásáról.
 
-68/C. § (1) A települési önkormányzat jegyzője a felfüggesztett iskoláztatási támogatás és a családi pótlék természetbeni formában történő biztosítása céljából a gyermek részére – figyelemmel korára, egyéni szükségleteire és az ítélőképessége birtokában lévő gyermek véleményére – eseti gondnokot rendel ki.
+68/C. § (1) A települési önkormányzat jegyzője a családi pótlék természetbeni formában történő biztosítása céljából a gyermek részére – figyelemmel korára, egyéni szükségleteire és az ítélőképessége birtokában lévő gyermek véleményére – eseti gondnokot rendel ki.
 
 (2) Egy eseti gondnok egyidejűleg legfeljebb tíz gyermek vonatkozásában gondoskodhat a családi pótlék természetbeni formában történő biztosításáról.
 
@@ -2473,7 +2475,7 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 
 (2) Az (1) bekezdésben meghatározott esetben a települési önkormányzat jegyzője, a gyámhivatal arra kötelezi a szülőt, a törvényes képviselőt vagy az egyéb ügyfelet, hogy a gyermekkel keresse fel a szakértőként kirendelt szervet vagy személyt, és közreműködésével, szakértői vizsgálaton való részvételével járuljon hozzá a szakértői vizsgálat eredményességéhez.
 
-(3) Abban a kérdésben, hogy a gyermek testi, érzékszervi, értelmi, beszéd vagy más fogyatékosságban szenved, továbbá, hogy a gyermek beilleszkedési, tanulási, magatartási rendellenességgel küzd, a Kt. 35. §-a szerinti szakértői és rehabilitációs bizottság, illetve nevelési tanácsadó ad véleményt.
+(3) Abban a kérdésben, hogy a gyermek testi, érzékszervi, értelmi, beszéd vagy más fogyatékosságban szenved, továbbá, hogy a gyermek beilleszkedési, tanulási, magatartási rendellenességgel küzd, az Nktv. szerinti szakértői bizottság, illetve nevelési tanácsadó ad véleményt.
 
 (4) Az átmeneti vagy tartós nevelésbe vett és súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő gyermek ellátására, az ellátás módjára, formájára a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottság tesz javaslatot. A szakértői bizottság eljárásának részletes szabályait külön jogszabály határozza meg.
 
@@ -2579,7 +2581,7 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
   - cc) kapcsolattartásra jogosult hozzátartozójának személyazonosító,
   - cd) lakóhelyén életvitelszerűen tartózkodó személyek személyazonosító és személyes körülményeire vonatkozó,
   - ce) sorsának megtervezése szempontjából jelentőséggel bíró személyek, így különösen a korábbi gondozók, szomszédok elérhetőségére vonatkozó,
-  - cf) háziorvosának, védőnőjének, amennyiben óvodai, iskolai nevelésben részesül, a közoktatási intézmény vezetőjének elérhetőségére vonatkozó
+  - cf) háziorvosának, védőnőjének, amennyiben óvodai, iskolai nevelésben részesül, a nevelési-oktatási intézmény vezetőjének elérhetőségére vonatkozó
 
 adatainak a kezelésére.
 
@@ -3008,7 +3010,7 @@ gyermek után az intézményi térítési díj 100%-át,
 
 (8) A gyermekvédelmi gondoskodásban részesülő – nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben nevelkedő – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett gyermek után nem vehető igénybe a normatív kedvezmény.
 
-(9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek közoktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.
+(9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.
 
 (10) Az (5) bekezdés szerinti normatív kedvezmény megállapításához közös háztartásban élőként kell figyelembe venni
 
@@ -3063,7 +3065,7 @@ gyermek után az intézményi térítési díj 100%-át,
 - a) a nevelési-oktatási intézménynek – feltéve, hogy legalább tizenöt átmeneti vagy tartós nevelésbe vett gyermekről gondoskodik – át kell alakulnia a (3) bekezdésben meghatározott időpontig többcélú – iskolai, diákotthoni vagy kollégiumi és gyermekotthoni feladatot ellátó – közoktatási intézménnyé, vagy
 - b) amennyiben az a) pontban foglaltak szerint az otthont nyújtó ellátás nem biztosítható, a kollégiumi, diákotthoni ellátás fenntartása mellett gondoskodni kell a gyermek nevelőszülőnél vagy gyermekotthonban történő elhelyezéséről.
 
-(5) A törvény hatálybalépését követően a gyermekotthonban működő óvoda és iskola – mint közös igazgatású többcélú gyermekvédelmi intézmény – önálló intézményegységként működik tovább a Kt. rendelkezései alapján.
+(5) A törvény hatálybalépését követően a gyermekotthonban működő óvoda és iskola – mint közös igazgatású többcélú gyermekvédelmi intézmény – önálló intézményegységként működik tovább az Nktv. rendelkezései alapján.
 
 157. § A 2003. január 1-jén fennálló nevelőszülői jogviszony esetében a hivatásos nevelőszülőt megillető díjat nem lehet alacsonyabb mértékben megállapítani annál, mint amilyen díjazásban a hivatásos nevelőszülő 2003. január 1-jén részesült.
 
@@ -3110,6 +3112,18 @@ gyermek után az intézményi térítési díj 100%-át,
 
 - a) azon ügyekben, amelyekben a közoktatási intézmény igazgatójának az igazolatlan mulasztásokról szóló, Cst. 15. § (1) bekezdés a) pontja, ennek hiányában a Cst. 15. § (1) bekezdés b) pontja szerinti jelzése 2012. január 31-ét követően érkezik meg a települési önkormányzat jegyzőjéhez, és
 - b) az iskoláztatási támogatás folyósítása felfüggesztésének 2012. január 31-ét követő felülvizsgálata során.
+
+161/J. § (1) E törvénynek az egyes szociális tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2012. évi CXVIII. törvénnyel módosított 68/A. §-át azokban az ügyekben kell alkalmazni, amelyekben
+
+- a) a nevelési-oktatási intézmény igazgatójának az igazolatlan mulasztásokról szóló, a Cst. 15. § (1) bekezdés szerinti jelzése 2012. augusztus 31-ét követően érkezik meg a gyámhatósághoz vagy
+- b) az iskoláztatási támogatás felfüggesztésének vagy szüneteltetésének felülvizsgálatára 2012. augusztus 31-ét követően kerül sor.
+
+(2) Az iskoláztatási támogatás felfüggesztésének 2012. augusztus 31-ét követő felülvizsgálata eredményeként, ha a gyermek (fiatal felnőtt) a felülvizsgálattal érintett időszakban
+
+- a) több mint öt kötelező tanórai foglalkozást igazolatlanul mulasztott, a gyámhatóság határozatával megszünteti az iskoláztatási támogatás felfüggesztését, valamint ezzel egyidejűleg intézkedik az iskoláztatási támogatás szüneteltetésének kezdeményezése és – a kincstár szüneteltetést elrendelő döntésének jogerőre emelkedését követő nyolc napon belül – a családtámogatási folyószámlán összegyűlt iskoláztatási támogatásnak a központi költségvetés családi pótlék előirányzat javára történő visszafizetése iránt,
+- b) kötelező tanórai foglalkozást nem mulasztott igazolatlanul, vagy azok száma nem haladta meg az ötöt, a gyámhatóság határozatával megszünteti az iskoláztatási támogatás felfüggesztését. Ebben az esetben a családtámogatási folyószámlán összegyűlt iskoláztatási támogatás felhasználására a 2012. augusztus 31-én hatályos rendelkezéseket kell alkalmazni.
+
+(3) Ha az iskoláztatási támogatás felfüggesztésének (2) bekezdés szerinti felülvizsgálata során a gyámhatóság megállapítja, hogy a (2) bekezdés a) pontja szerint az igazolatlanul mulasztott kötelező tanórai foglalkozások száma meghaladja az ötöt, azonban a gyermek a szüneteltetés kezdeményezéséig nevelőszülőnél, hivatásos nevelőszülőnél, gyermekotthonban, szociális intézményben került elhelyezésre, vagy a gyermekvédelmi gondoskodás alatt álló gyermek javítóintézetbe, büntetés-végrehajtási intézetbe került, akkor a gyámhatóság határozatával megszünteti az iskoláztatási támogatás felfüggesztését, és a döntése jogerőre emelkedését követő nyolc napon belül intézkedik a családtámogatási folyószámlán összegyűlt iskoláztatási támogatásnak a központi költségvetés családi pótlék előirányzat javára történő visszafizetéséről.
 
 ### Felhatalmazás
 

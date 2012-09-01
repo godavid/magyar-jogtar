@@ -326,7 +326,7 @@ is legyen;
 - b) a környezetvédelem vonatkozásában a környezetvédelmi hatóság,
 - c) a munkavédelem (munkabiztonság és munkaegészségügy) körében a munkavédelmi hatóság,
 - d) a tűzvédelem szempontjából a tűzvédelmi hatóság,
-- e) a tárolás szabályai tekintetében, ha azok megsértése a fogyasztóvédelemről szóló törvény 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. §-ának a) pontjában meghatározott fogyasztó biztonságát, egészségét, testi épségét sérti vagy veszélyezteti, továbbá a csomagolás, zárás szabályainak fogyasztóval szembeni megsértése esetén a fogyasztóvédelmi hatóság az Fgytv. szabályai szerint,
+- e) a tárolás szabályai tekintetében, ha azok megsértése a fogyasztóvédelemről szóló törvény 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontjában meghatározott fogyasztó biztonságát, egészségét, testi épségét sérti vagy veszélyezteti, továbbá a csomagolás, zárás szabályainak fogyasztóval szembeni megsértése esetén a fogyasztóvédelmi hatóság az Fgytv. és a termékek piacfelügyeletéről szóló törvény szabályai szerint,
 - f) a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény (a továbbiakban: Fttv.) 2. §-ának a) pontjában meghatározott fogyasztó számára forgalmazott termék feliratozása (címkézése), egyéb jelölése, a használati utasítás, továbbá a reklámozás tekintetében a fogyasztóvédelmi hatóság az Fttv. szabályai szerint
 
 végzi, és hatáskörében eljár a rendelkezések megsértése esetén.

@@ -15,7 +15,7 @@ Az Országgyűlés – elismerve a kisvállalkozók gazdasági életben betölt�
 (2) E törvény rendelkezéseit nem kell alkalmazni
 
 - a) a személyi jövedelemadóról szóló törvény szerinti mezőgazdasági őstermelői tevékenységre,
-- b) a magán-állatorvosi tevékenységre,
+- b) a szolgáltató állatorvosi tevékenységre,
 - c) az ügyvédi tevékenységre,
 - d) az egyéni szabadalmi ügyvivői tevékenységre,
 - e) a közjegyzői tevékenységre,

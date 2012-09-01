@@ -23,7 +23,9 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
   - b) a közhatalmat gyakorló állami és helyi önkormányzati szervekben, továbbá a nemzetiségi önkormányzati szervekben való nemzetiségi képviselethez és mindezek szervezeti, személyi és anyagi feltételeinek biztosításához kapcsolódó ügy;
 - 2. nemzetiségi önkormányzat: törvényben meghatározott nemzetiségi közszolgáltatási feladatokat ellátó, testületi formában működő, jogi személyiséggel rendelkező, demokratikus választások útján e törvény alapján létrehozott szervezet, amely a nemzetiségi közösséget megillető jogosultságok érvényesítésére, a nemzetiségek érdekeinek védelmére és képviseletére, a feladat- és hatáskörébe tartozó nemzetiségi közügyek települési, területi vagy országos szinten történő önálló intézésére jön létre;
 - 3. nemzetiségi kulturális autonómia: olyan kollektív nemzetiségi jog, amely az e törvény szerinti intézmény-összességnek és nemzetiségi önszerveződéseknek a nemzetiségi közösség által önigazgatással történő működtetése során megvalósuló önállóságban testesül meg;
-- 4.
+- 4. nemzetiségi köznevelési intézmény:
+  - a) az a köznevelési intézmény, amelynek alapító okirata a nemzeti köznevelésről szóló törvényben foglaltak szerint tartalmazza a nemzetiségi feladatok ellátását, feltéve, hogy e feladatokat a köznevelési intézmény ténylegesen ellátja, továbbá óvoda, iskola és kollégium esetén a tanulók legalább huszonöt százaléka részt vesz a nemzetiségi óvodai nevelésben, illetve a nemzetiségi iskolai nevelésben-oktatásban;
+  - b) nemzetiségi többcélú intézményen, nemzetiségi tagintézményen és nemzetiségi köznevelési intézmény intézményegységén a köznevelési törvény szerinti többcélú intézmény, tagintézmény és intézményegység értendő;
 - 5. nemzetiségi kulturális intézmény: olyan kulturális intézmény, amelynek jogszabályban, alapító okiratban előírt feladata a nemzetiségi identitáshoz kötődő tárgyi és szellemi kultúra, kulturális értékek, javak megőrzése, hozzáférhetővé tétele, hagyományok és a közösségi nyelvhasználat megőrzése, gyakorlása, terjesztése és továbbörökítése;
   - a) nemzetiségi közművelődési intézmény: a nemzetiséghez tartozók szellemi, kulturális örökségének, kulturális hagyományainak megőrzését, fenntartását, fejlesztését, bemutatását szolgáló intézmény;
   - b) nemzetiségi feladatot ellátó közgyűjtemény: olyan könyvtár, levéltár, muzeális intézmény, kép- illetve hangarchívum, amelynek alapító okiratában szerepel a nemzetiségi feladatellátás, vagy amelynek állományában nemzetiségi nyelvű, vagy nemzetiségre vonatkozó dokumentumok huszonöt százalékot elérő arányban találhatók, függetlenül a fenntartó szervezet típusától;
@@ -35,7 +37,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 - 10. nemzetiségi közszolgálati műsor: a nemzetiségi közösség anyanyelvén, elsősorban a közösség médiaműhelyei által készített műsor, illetve sajtótermék, amelynek alapvető célja a nemzetiségi közösség sokoldalú, kiegyensúlyozott anyanyelvű tájékoztatása;
 - 11. az intézmény alapításának joga magában foglalja az intézmény átvételének, átszervezésének és megszüntetésének jogát;
 - 12. hozzátartozó: az egyenesági rokon és ennek házastársa, a testvér, a házastárs, a bejegyzett élettárs és az élettárs;
-- 13.
+- 13. nemzetiségi köznevelésben alkalmazottak köre: a nemzetiségi köznevelési intézmény azon alkalmazottai, akik foglalkoztatása a nemzetiségi köznevelési intézményben pedagógus, pedagógiai szakértő munkakörben és pedagógiai előadó munkakörben, továbbá a nevelő és oktató munkát, a pedagógiai szakszolgálatokat és a pedagógiai-szakmai szolgáltatások ellátását közvetlenül segítő munkakörben történik;
 - 14.
 - 15. nemzetiségi egyesület: alapszabálya szerint adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó nemzetiségi egyesülettel.
 
@@ -96,7 +98,7 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 12. § (1) A nemzetiséghez tartozó személynek joga van:
 
 - a) anyanyelvének szabad használatához szóban és írásban, történelmének, kultúrájának, hagyományainak megismeréséhez, ápolásához, gyarapításához, továbbadásához;
-- b)
+- b) megtanulni anyanyelvét, részt venni anyanyelvű köznevelésben, oktatásban és művelődésben;
 - c) az oktatási esélyegyenlőséghez és a kulturális szolgáltatásokhoz, amelyet az állam hatékony intézkedésekkel elősegíteni köteles;
 - d) nemzetiségi voltával kapcsolatos személyes adatok védelméhez külön törvényben meghatározottak szerint.
 
@@ -128,7 +130,8 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 19. § A nemzetiségi közösségeknek joguk van:
 
 - a) törvényi keretek között intézmények létrehozásához és működtetéséhez, más szervtől történő átvételéhez,
-- b)–c)
+- b) nemzetiséghez tartozók óvodai neveléséhez, általános iskolai neveléséhez-oktatásához, nemzetiségi kollégiumi ellátásához, gimnáziumi, szakközépiskolai, szakiskolai neveléséhez-oktatásához, felsőfokú képzéséhez, továbbá jogosultak
+- c) az országos önkormányzat útján a kiegészítő nemzetiségi nevelés-oktatás feltételeinek megteremtését kezdeményezni és kialakításában közreműködni.
 
 20. § Magyarország – törvényei keretei között – biztosítja a nemzetiségi közösségeknek rendezvényeik és ünnepeik zavartalan megtartásához, építészeti, kulturális, kegyeleti és vallási emlékeik, hagyományaik megőrzéséhez, ápolásához és átörökítéséhez, jelképeik használatához fűződő jogait.
 
@@ -140,17 +143,52 @@ A Magyar Országgyűlésa magyar történelem legnemesebb hagyományaira építv
 
 22. § (1) E törvény értelmében nemzetiségek által használt nyelvnek számít a bolgár, a görög, a horvát, a lengyel, a német, az örmény, a roma/cigány (romani, illetve beás), (a továbbiakban együtt: roma), a román, a ruszin, a szerb, a szlovák, a szlovén és az ukrán nyelv, továbbá a roma és az örmény nemzetiség esetében a magyar nyelv is.
 
-(2)–(3)
+(2) Az állam a magyarországi nemzetiségek anyanyelvét közösség-összetartó tényezőként ismeri el. Az állam tekintet nélkül arra, hogy a köznevelési intézménynek ki a fenntartója, támogatja a nemzetiségek által használt nyelv alkalmazását a nemzetiségi köznevelésben. A nemzetiségi köznevelés többletköltségét – jogszabályban meghatározott módon – az állam viseli.
+
+(3) A nemzetiséghez tartozó gyermek – a szülője vagy gyámja (a továbbiakban együtt: szülő) döntésétől függően – anyanyelvű, nemzetiségi két tanítási nyelvű, nemzetiségi nyelvoktató vagy roma nemzetiségi köznevelésben vehet részt. A roma nemzetiségi nevelés, nevelés-oktatás folyhat kizárólag magyar nyelven, de a szülők igényei alapján az intézményfenntartó köteles biztosítani a roma nyelv (romani, illetve beás) oktatását is. A 14. életévét betöltött, nem cselekvőképtelen gyermek esetében a szülő e választási jogát gyermekével közösen gyakorolja, a köznevelési intézménybe történő beiratkozáskor.
 
 (4)–(5)
 
-23–26. §
+23. § (1) A köznevelés és a felsőoktatás törvényi szabályozása, az oktató-nevelő tevékenység szerkezetének és tartalmának meghatározása, valamint e tevékenység ellenőrzése során e törvénnyel összhangban érvényesíteni kell a nemzetiségek kulturális autonómiájának megfelelő nevelési és oktatási érdekeket.
+
+(2) A nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban biztosítani kell a népismeret tárgykörébe tartozó ismeretanyag elsajátítását, így különösen a nemzetiség és az anyaország történelmének, irodalmának, földrajzának, kulturális értékeinek és hagyományaiknak, a nemzetiségi jogok és intézményrendszerének megismerését.
+
+(3) A nemzetiségi óvodai nevelésre és nemzetiségi iskolai nevelésre-oktatásra irányuló igények felmérésében és megszervezésében a törvény által e feladatok ellátására kötelezett szervek és a nemzetiségi önkormányzatok együttműködnek.
+
+(4) A nemzetiségi anyanyelvű és anyanyelvi közneveléshez az anyanyelvű pedagógusok képzésének, továbbképzésének biztosítása állami feladat. E feladat keretében az állam támogatja a nemzetiségek anya-, illetve nyelvországából érkező oktatók magyarországi vendégtanári alkalmazását is.
+
+24. § (1) A nemzetiségi önkormányzat – a köznevelési törvényben és az államháztartás működési rendjéről szóló jogszabályokban meghatározottak szerint – köznevelési intézményt létesíthet és tarthat fenn, illetve az e törvényben meghatározott rendben átveheti a más szerv által létesített köznevelési intézmény fenntartói jogát. Az intézmény fenntartói jogának átadása nem járhat intézmény-átszervezéssel.
+
+(2) Az országos nemzetiségi önkormányzat által fenntartott köznevelési intézmény és többcélú intézmény vezetőjét az oktatási miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
+
+25. § (1) Állami feladatot ellátó intézmény esetében az országos nemzetiségi önkormányzat kezdeményezésére át kell adni az országos nemzetiségi önkormányzat részére annak az országos vagy térségi beiskolázású köznevelési intézménynek a fenntartói jogát, amelyik alapító okirata alapján nemzetiségi feladatot lát el, és gyermekek, tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi nevelésben, nevelésben-oktatásban, illetve ellátásban részesül. A kezdeményezéshez csatolni kell az érintett intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, továbbá az adott nemzetiség érintett települési és területi nemzetiségi önkormányzatának a véleményét.
+
+(2) A települési nemzetiségi önkormányzat megkeresésére – az országos nemzetiségi önkormányzat egyetértése esetén – az intézmény helyi önkormányzati, állami fenntartója átadhatja a települési nemzetiségi önkormányzatnak annak a köznevelési intézménynek a fenntartói jogát, amelyik alapító okirata alapján nemzetiségi feladatot lát el, és minden gyermek, tanuló részt vesz a nemzetiségi nevelésben, nevelésben-oktatásban, illetve ellátásban részesül. A kezdeményezéshez csatolni kell az érintett intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének), a diákönkormányzatának a véleményét.
+
+(3) Amennyiben a települési nemzetiségi önkormányzat a feladat ellátására törvény alapján köteles fenntartótól átvett köznevelési intézmény fenntartói jogáról le kíván mondani, a fenntartói jogot az érintett országos önkormányzat átveheti, ha nem kívánja átvenni, a korábbi fenntartó vagy jogutódja köteles a fenntartói jog visszavételére.
+
+(4) Különösen indokolt esetben az országos nemzetiségi önkormányzat – az oktatásért felelős miniszter engedélyével – átveheti az országos vagy térségi feladatot el nem látó, nemzetiségi anyanyelvű, illetve nemzetiségi két tanítási nyelvű intézmény, továbbá a roma nemzetiségi intézmény fenntartását, valamint az adott nemzetiség országos feladatot is ellátó nemzetiségi nyelvoktató intézményét. A miniszter az átadást akkor engedélyezi, ha
+
+- a) minden tanuló részt vesz a nemzetiségi oktatásban és
+- b) az adott nemzetiség köznevelése szempontjából kiemelt jelentőséggel bír.
+
+(5) A nevelési-oktatási intézmény átadására az oktatásért felelős miniszter és az átvevő között létrejött köznevelési szerződés alapján kerülhet sor.
+
+(6) A fenntartói jog átadásával együtt a köznevelési intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyont – a 125. § (5) bekezdésében foglalt kivétellel – az átvevő használatába kell adni. Az átadás ingyenes. A használatba adás ideje nem lehet tíz évnél rövidebb.
+
+(7) Ha a nemzetiségi önkormányzat megszűnik, a fenntartói jogot a székhely szerinti fővárosi és megyei kormányhivatal köteles gyakorolni, addig az időpontig, ameddig az új nemzetiségi önkormányzat megalakul.
+
+(8) A 24. § (1) bekezdés, a 25. § (1)–(2) bekezdés és (4) bekezdés szerinti, továbbá a köznevelésről szóló törvény szerinti fenntartói jog átvétele esetén az átadóval, az (5) bekezdés esetén az oktatásért felelős miniszterrel megkötött köznevelési szerződést a felek a köznevelésről szóló törvény – egyházi intézményekre vonatkozó – szabályai szerinti tartalommal kötik meg.
+
+26. § (1) Az országos nemzetiségi önkormányzatok esetében a nemzetiségi nevelés-oktatás finanszírozása az egyházi intézményekkel azonos módon történik.
+
+(2) Az (1) bekezdés szerinti finanszírozás során a központi költségvetés a nemzetiségi önkormányzatok köznevelési feladatainak ellátásához költségvetési hozzájárulást biztosít, továbbá kiegészítő támogatásokat nyújt.
 
 27. § Ha jogszabály a nemzetiségi önkormányzat részére valamely döntés meghozatalánál a közneveléssel kapcsolatos ügyben véleményezési vagy egyetértési jogot biztosít, a nyilatkozat megtételére – jogszabály eltérő rendelkezésének hiányában – harminc nap áll rendelkezésre. A határidő – bármely érdekeltnek a másik félhez intézett nyilatkozata alapján – egy alkalommal további 30 nappal meghosszabbodik. A határidő jogvesztő. Ha a nemzetiségi önkormányzat az egyetértését nem adta meg, az érdekelt kezdeményezésére az egyetértési nyilatkozat pótlásáról a nemzetiségi önkormányzat székhelye szerint illetékes törvényszék nemperes eljárásban harminc napon belül dönt. Az eljárás költségeit – ide értve a szakértő díjazását is – az viseli, akinek az egyetértés megszerzéséhez érdeke fűződik.
 
-28. §
+28. § A nemzetiségi nevelési, oktatási intézményt az érintett nemzetiséghez nem tartozók csak akkor vehetik igénybe, ha az intézmény – az adott nemzetiség igényeinek kielégítése után – betöltetlen férőhellyel rendelkezik. A felvétel (beiratkozás) előzetesen nyilvánosságra hozott szabályok alapján történhet.
 
-29. §
+29. § A magyar nyelv oktatását – az elsajátításához szükséges óraszámban és színvonalon – a nemzetiségi oktatás keretében is biztosítani kell.
 
 30. § Az olyan településeken, ahol a magyar anyanyelvű lakosság – vagy más nemzetiség – van számszerű kisebbségben, a magyar anyanyelvű, illetve más anyanyelvű gyermekek anyanyelvű vagy anyanyelvi nevelését és oktatását törvényben meghatározottak szerint biztosítani kell.
 
@@ -503,7 +541,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 81. § (1) Az e törvény által meghatározott nemzetiségi jogok, különösen a kollektív nyelvhasználat, oktatás, nevelés, hagyományápolás és kultúra, a helyi sajtó, az esélyegyenlőség, társadalmi felzárkózás és a szociális ellátás kérdéskörében a nemzetiségi lakosságot e minőségében érintő helyi önkormányzati határozatot a képviselő-testület csak az e lakosságot képviselő települési nemzetiségi önkormányzat, ennek hiányában a területi nemzetiségi önkormányzat egyetértésével alkothatja meg.
 
-(2)
+(2) A nemzetiségi intézmények vezetőinek megbízására (vezetői megbízás visszavonására) – ha nem az adott nemzetiség önkormányzata gyakorolja a megbízási jogot -, valamint a nemzetiséghez tartozók oktatási önigazgatására is kiterjedő fenntartói döntés meghozatalára csak az adott nemzetiség önkormányzata egyetértésével, egyházi fenntartású intézmény esetében az adott nemzetiség önkormányzata véleményének kikérésével kerülhet sor. Érintett települési nemzetiségi önkormányzat hiányában az érintett területi, ennek hiányában az országos önkormányzat, ennek hiányában az adott nemzetiség helyi egyesületeinek véleményét ki kell kérni.
 
 82. § Az e törvény által meghatározott nemzetiségi jogok védelmében, különösen a helyi kollektív nyelvhasználat, az oktatás, nevelés, hagyományápolás és kultúra, a helyi sajtó, az esélyegyenlőség, társadalmi felzárkózás és a szociális ellátás tárgyában folyó hatósági eljárásokban az adott nemzetiség területileg illetékes települési nemzetiségi önkormányzatát, ennek hiányában területi, ennek hiányában országos önkormányzatát a – közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény vagy más törvény által meghatározott rendben – ügyféli jogállás, e körben nyilatkozattételi és jogorvoslati jogosultság illeti meg.
 
@@ -807,7 +845,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - d) egyetértési jogot gyakorol – az adott nemzetiséget közvetlenül érintő kérdésekben – a fejlesztési tervekkel kapcsolatban,
 - e) közreműködik a nemzetiségi önkormányzati képviselők választásával kapcsolatos tájékoztatónak a helyi választási bizottság és a nemzetiségpolitikáért felelős állami szerv által történő összeállításában.
 
-(2)
+(2) A nemzetiség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a köznevelési törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a nemzetiséghez tartozók oktatási önigazgatását érintő kérdésekben – az országos önkormányzatok véleményének kikérése szükséges. Az e tárgyban alkotott jogszabály soron kívüli felülvizsgálata érdekében a nemzetiségi jogok sérelmére hivatkozással az országos nemzetiségi önkormányzat közvetlenül bírósághoz fordulhat.
 
 119. § (1) Az országos önkormányzati feladat- és hatáskörök az országos önkormányzat közgyűlését illetik meg. A közgyűlés a feladat- és hatáskörét az át nem ruházható hatáskörök kivételével az elnökére, bizottságára, hivatalára, valamint – e törvényben meghatározottak szerint – társulására átruházhatja.
 
@@ -866,7 +904,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (4) A nemzetiségi önkormányzat az állam vagy a helyi önkormányzat által a nemzetiségi önkormányzat tulajdonába adott ingatlannal a felelős gazdálkodás szabályai szerint gazdálkodik. Amennyiben az ettől eltérő gazdálkodás következményeként az ingatlan elzálogosításra vagy hitellel megterhelésre kerül, a nemzetiségi önkormányzat az államtól vagy a helyi önkormányzattól ingatlant ingyenes tulajdonba adással ismételten nem kaphat.
 
-(5) A fenntartói jog 164. § (4) bekezdése vagy 36. §-a szerinti átadása esetén – a nemzetiségpolitikáért felelős miniszter előzetes hozzájárulásával – a helyi önkormányzat és az országos nemzetiségi önkormányzat megállapodás alapján a köznevelési intézmény vagy a kulturális intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyon ingyenesen az országos nemzetiségi önkormányzat tulajdonába kerül.
+(5) A fenntartói jog 24. § (1) bekezdése vagy 36. §-a szerinti átadása esetén – a nemzetiségpolitikáért felelős miniszter előzetes hozzájárulásával – a helyi önkormányzat és az országos nemzetiségi önkormányzat megállapodás alapján a köznevelési intézmény vagy a kulturális intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyon ingyenesen az országos nemzetiségi önkormányzat tulajdonába kerül.
 
 126. § (1) A nemzetiségi önkormányzati bevételek forrása különösen:
 
@@ -1024,7 +1062,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - b) előkészíti a nemzetiségek jogairól szóló jogszabályok tervezetét,
 - c) közreműködik a nemzetiségek jogait, a nemzetiségi önkormányzatok feladat- és hatáskörét érintő jogszabályok, egyedi állami döntések tervezeteinek előkészítésében,
 - d) a központi költségvetésről szóló törvényben meghatározott címen és feltételekkel a nemzetiségi önkormányzatok és más nemzetiségi szervezetek részére pénzügyi támogatást nyújt, nyújthat,
-- e)
+- e) rendeletében meghatározott feltételekkel és módon a nemzetiségi köznevelésben, közoktatásban részt vevő tanulók számára ösztöndíjat alapíthat.
 
 152. § A feladat- és hatáskör szerint illetékes miniszter:
 
@@ -1096,21 +1134,19 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 160. § (1) Az állam a magyarországi nemzetiségek anyanyelvét közösség-összetartó tényezőként ismeri el. Az állam tekintet nélkül arra, hogy a nevelési, oktatási intézménynek ki a fenntartója, támogatja a nemzetiségek által használt nyelv alkalmazását a nemzetiségi nevelésben, oktatásban.
 
-(2) A nemzetiséghez tartozó gyermek a szülője vagy gyámja (a továbbiakban együtt: szülő) döntésétől függően anyanyelvű, illetve anyanyelvi (anyanyelven és magyar nyelven folyó) vagy magyar nyelvű nevelésben, oktatásban vehet részt.
-
-(3) A nemzetiség anyanyelvű vagy anyanyelvi oktatása a helyi lehetőségek és igények szerint nemzetiségi óvodában, iskolában, iskolai osztályban vagy csoportban történhet.
+(2)–(3)
 
 (4) A feladatellátásra köteles helyi önkormányzatnak, állami szervnek meg kell szerveznie a nemzetiségi óvodai nevelést, továbbá a nemzetiségi iskolai nevelést és oktatást, ha ezt ugyanahhoz a nemzetiséghez tartozó 8 tanuló szülője kérte, és az óvodai csoport, iskolai osztály a közoktatási törvény rendelkezései alapján megszervezhető. Ha a tanulólétszám nem teszi lehetővé a nemzetiségi oktatás egy településen belüli megszervezését, az érintett országos önkormányzat kezdeményezésére a megyei (fővárosi) önkormányzat megteremti a kiegészítő kisebbségi oktatás feltételeit.
 
-(5) Nemzetiségi közoktatási intézmény az a közoktatási intézmény, amelynek alapító okirata tartalmazza a nemzetiségi feladatok ellátását, feltéve, hogy e feladatokat a közoktatási intézmény ténylegesen ellátja, továbbá óvoda, iskola és kollégium esetében a tanulók legalább huszonöt százaléka részt vett a nemzetiségi óvodai nevelésben, illetve a nemzetiségi iskolai nevelésben-oktatásban. Többcélú intézményben, illetve ha a közoktatási intézménynek tagintézménye van, a nemzetiségi feladatok ellátásában való részvételt intézményegységenként, illetve tagintézményenként kell vizsgálni. Ha az intézményegység, illetve a tagintézmény megfelel a nemzetiségi intézményekre e bekezdésben meghatározott feltételeknek, a nemzetiségi feladatok ellátásában részt vevő intézményegység, illetve tagintézmény tekintetében a nemzetiségi önkormányzatot megilletik mindazok a jogok, amelyeket e törvény rendelkezései alapján a nemzetiségi feladatok ellátásában közreműködő közoktatási intézmény tekintetében gyakorolhat.
+(5)
 
 161. § A 163. § szerinti nemzetiségi anyanyelvű vagy anyanyelvi oktatás többletköltségét – törvényben meghatározott módon – az állam viseli.
 
-162. § (1) A közoktatás és a felsőoktatás törvényi szabályozása, az oktató-nevelő tevékenység szerkezetének és tartalmának meghatározása, valamint e tevékenység ellenőrzése során e törvénnyel összhangban érvényesíteni kell a nemzetiségek kulturális autonómiájának megfelelő oktatási és művelődési érdekeket.
+162. § (1)
 
 (2) A roma nemzetiségi oktatás folyhat kizárólag magyar nyelven, de a szülők igényei alapján az oktatási intézmény biztosítja a roma nyelv (romani, illetve beás) oktatását is.
 
-(3) A nemzetiségi óvodai nevelésben, iskolai nevelésben és oktatásban biztosítani kell a népismeret körébe tartozó ismeretanyag elsajátítását, így különösen a nemzetiség és az anyaország történelmének, a kulturális értékeknek és hagyományoknak a megismerését.
+(3)
 
 163. § (1) A nemzetiségi oktatásra irányuló igények felmérésében és az oktatás megszervezésében az állami, helyi és a nemzetiségi önkormányzatok együttműködnek.
 
@@ -1124,51 +1160,9 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 164. § (1) A nemzetiségi önkormányzat – a közoktatásról szóló törvényben meghatározottak szerint – részt vehet a nemzetiséghez tartozók óvodai nevelésével, iskolai nevelésével és oktatásával, kollégiumi nevelésével és oktatásával összefüggő kötelező állami, önkormányzati feladatok végrehajtásában.
 
-(2) A nemzetiségi önkormányzat – a közoktatásról szóló törvényben meghatározottak szerint – közoktatási intézményt létesíthet és tarthat fenn, illetve átveheti a más által létesített közoktatási intézmény fenntartói jogát. Az intézmény fenntartói jogának átadása nem járhat átszervezéssel. Az átadás tervezett időpontját megelőző és az átadás időpontját követő két éven belüli átszervezést – az ellenkező bizonyításig – a fenntartói jog átadásával összefüggő átszervezésnek kell tekinteni. E rendelkezés alkalmazásában átszervezés az intézmény összevonása, illetve egy intézmény több intézményre tagolása.
+(2)–(17)
 
-(3) Nemzetiségi önkormányzat az állami, helyi önkormányzati fenntartótól a közoktatási intézmény fenntartói jogát – ha e törvény másképp nem rendelkezik – a közoktatásról szóló törvényben meghatározottak szerint veheti át.
-
-(4) Az országos nemzetiségi önkormányzat megkeresésére az intézményt fenntartó állami szerv, helyi önkormányzat köteles átadni az országos nemzetiségi önkormányzatnak annak a térségi, illetve országos feladatot ellátó iskolának vagy kollégiumnak a fenntartói jogát, amelyik alapító okirata alapján nemzetiségi feladatot lát el, ha minden tanuló részt vesz a nemzetségi oktatásban. E rendelkezést kell alkalmazni a körzeti feladatot ellátó iskola és kollégium esetében is, ha a nemzetiséghez tartozók országon belüli elhelyezkedése miatt nem láthat el az iskola, kollégium országos vagy térségi feladatot. A megkereséshez csatolni kell az érintett iskola, kollégium iskolaszékének, kollégiumi székének, ennek hiányában szülői szervezetének (közösségének) és az iskolai, illetve kollégiumi diákönkormányzatának a véleményét.
-
-(5) A közoktatási intézmény átadását-átvételét megállapodásba kell foglalni. Az intézmény átadás-átvételénél a közoktatásról szóló törvény rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a fenntartó állami szerv, helyi önkormányzat a fenntartói jog átadásával kapcsolatos döntéséhez beszerzi az óvodaszék, iskolaszék, kollégiumi szék, ennek hiányában a szülői szervezet (közösség) és az iskolai, illetve kollégiumi diákönkormányzat egyetértését, ha az átadás nem a (4) bekezdésben meghatározottak szerint történik.
-
-(6) Ha a nevelési-oktatási intézmény átadása
-
-- a) a (4) bekezdés alapján történik, az oktatásért felelős miniszter,
-- b) nem a (4) bekezdés alapján történik, az átadó állami szerv, helyi önkormányzat köteles az átvevő nemzetiségi önkormányzattal – a közoktatási törvényben foglaltak szerint – közoktatási megállapodást kötni.
-
-(7) A fenntartói jog átadásával együtt a közoktatási intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyont – a 125. § (5) bekezdésében foglalt kivétellel – az átvevő használatába kell adni. Az átadás ingyenes. A használat átadásának időpontja nevelési-oktatási intézmény esetén a bejelentés évét követő július elseje, más közoktatási intézmény esetén a bejelentést követő év január elseje. A használatba adás ideje nem lehet tíz évnél rövidebb.
-
-(8) Ha a fenntartói jog átadása nem a (4) bekezdés alapján történik, a fenntartói jog nemzetiségi önkormányzat részére történő átadása nem érinti az átadó feladatellátási kötelezettségét. A fenntartói jog átadásának ideje alatt a fenntartói, irányítási joga szünetel, és a fenntartói irányításnak a közoktatásról szóló törvény 102-104. §-aiban és 106. §-ában meghatározott feladatait az átvevő nemzetiségi önkormányzat gyakorolja. A fenntartói jog szünetelése alatt az átadó az átadott feladatok ellátásáról tájékoztatást kérhet a nemzetiségi önkormányzattól, és javaslatot tehet azoknak a feladatoknak az ellátására, amelyeket szükségesnek tart.
-
-(9) Ha a nemzetiségi önkormányzat megszűnik anélkül, hogy megalakulna a másik nemzetiségi önkormányzat, a fenntartói jog gyakorlását, ha annak átadása
-
-- a) a (4) bekezdés alapján történt, az oktatásért felelős miniszter,
-- b) nem a (4) bekezdés alapján történt, a fenntartói jogot átadó köteles gyakorolni, addig az időpontig, ameddig a nemzetiségi önkormányzat megalakul.
-
-(10) A közoktatási intézményt átvevő nemzetiségi önkormányzat a helyi önkormányzatokkal azonos jogcímen és feltételekkel igényelheti a mindenkori költségvetésről szóló törvényben meghatározott hozzájárulásokat és támogatásokat – a (6) bekezdés szerint megkötött közoktatási megállapodás alapján -, igényelhet továbbá a nemzetiségi feladatok megszervezéséhez nyújtott kiegészítő támogatást (a továbbiakban: nemzetiségi fenntartói kiegészítő támogatás), valamint – a pályázatban meghatározott feltételek szerint – részt vehet minden olyan pályázaton, amelyet a helyi önkormányzatok részére írtak ki.
-
-(11) Ha az átadás a (4) bekezdés alapján történik, a kiegészítő nemzetiségi támogatásról a központi költségvetés terhére kell gondoskodni. Ha az átadás nem a (4) bekezdés alapján történik, a nemzetiségi önkormányzat részére a központi költségvetés terhére kell kifizetni a i nemzetiségi fenntartói kiegészítő támogatást, és annak összegével az intézményt átadó helyi önkormányzattal szemben – a közoktatásról szóló törvényben meghatározottak szerint – el kell számolni. A (4) bekezdés alapján átadott nevelési-oktatási intézmény működéséhez – a központi költségvetésben e célra biztosított összeg terhére kiírt pályázat útján, a pályázatban meghatározottak szerint – az állam kiegészítő támogatást biztosít. A nemzetiségi önkormányzat a közoktatási feladatok ellátásához igénybe vett költségvetési hozzájárulásokat és támogatásokat, valamint a nemzetiségi fenntartói kiegészítő, működési támogatást kizárólag az adott intézményhez kapcsolódó célnak megfelelően használhatja fel. A közoktatási célú költségvetési hozzájárulásokat és támogatásokat, valamint a nemzetiségi fenntartói kiegészítő támogatást a többi bevételétől elkülönítetten kell nyilvántartani, s felhasználásáról el kell számolni.
-
-(12) A (10) bekezdés szerinti nemzetiségi fenntartói kiegészítő támogatás meghatározása minden évben a költségvetési tervezéskor ismert adatok alapján történik, az éves költségvetésről szóló törvényben, a közoktatási szolgáltatások igénybevételének figyelembevételével. A nemzetiségi fenntartói kiegészítő támogatás összegének számításához az önkormányzatok adott ágazati működési kiadásainak és felújítási költségeinek összegét csökkenteni kell az intézményi saját bevételekkel, továbbá a közoktatásra központosított előirányzatból adott olyan külön támogatással, amelyhez pályázat útján az önkormányzati és nemzetiségi önkormányzati fenntartók, illetve intézményei egyaránt hozzájuthatnak. Az így megállapított összegből határozandó meg a normatív támogatás aránya és a nemzetiségi fenntartói kiegészítő támogatás számított összege.
-
-(13) Ha az országos nemzetiségi önkormányzat új iskolát alapít, az e § (6) bekezdésének a) pontjában, (10) bekezdésében és az a) ponthoz kapcsolódóan a (11) bekezdésében foglaltakat kell alkalmazni, feltéve, hogy az iskola a közoktatásról szóló törvény 121. §-a (1) bekezdésének 27. pontja alapján országos intézménynek minősül. Ha a helyi nemzetiségi önkormányzat alapít új iskolát, e § (6) bekezdésének b) pontjában, (10) bekezdésében és a b) ponthoz kapcsolódóan a (11) bekezdésében foglaltakat kell alkalmazni, feltéve hogy az adott településen nincs olyan iskola, amelyik ellátná az adott nemzetiségi oktatási feladatokat.
-
-(14) Az oktatásért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni azt az összeget, amellyel a nemzetiségi önkormányzati intézményfenntartók – pályázat útján – támogatást kaphatnak az általuk fenntartott közoktatási intézmény működtetéséhez.
-
-(15) Az állami, helyi önkormányzati fenntartó és a nemzetiségi önkormányzat a közoktatási intézmény közös fenntartására megállapodást köthet. A közös fenntartású közoktatási intézmény tekintetében a (10) bekezdésében foglaltakat kell alkalmazni.
-
-(16) A nemzetiségi önkormányzat által fenntartott közoktatási intézményben történő foglalkoztatásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény rendelkezéseit kell alkalmazni.
-
-(17) Különösen indokolt esetben az országos nemzetiségi önkormányzat megkeresésére a települési önkormányzati intézményfenntartó – az oktatásért felelős miniszter hozzájárulása mellett – köteles átadni az országos nemzetiségi önkormányzat részére annak a nemzetiségi feladatokat ellátó közoktatási intézménynek a fenntartói jogát, amelynek működési feltételeit a helyi önkormányzat a költségvetési helyzete miatt nem képes tovább biztosítani. Az oktatásért felelős miniszter a közoktatási intézmény fenntartói jogának azonnali átadásához akkor is hozzájárulhat, ha arra tanév közben kerül sor, amennyiben az érintett nevelési-oktatási intézmény az adott nemzetiséggel kapcsolatos közoktatási feladatok szempontjából kiemelkedő jelentőséggel bír és az átadás az intézkedés tervezett végrehajtásának éve július elsejéig nem halasztható. Az átadásra egyebekben az (4)–(11) bekezdésben foglaltakat alkalmazni kell.
-
-165. § (1) A nemzetiségi nevelési, oktatási intézményt az érintett nemzetiséghez nem tartozók csak akkor vehetik igénybe, ha az intézmény – az adott nemzetiség igényeinek kielégítése után – betöltetlen férőhellyel rendelkezik. A felvétel (beiratkozás) előzetesen nyilvánosságra hozott szabályok alapján történhet.
-
-(2) A magyar nyelv oktatását – az elsajátításához szükséges óraszámban és színvonalon – a nemzetiségi közoktatás keretében is biztosítani kell.
-
-(3) Az olyan településeken, ahol a magyar anyanyelvű lakosság – vagy más nemzetiség – van számszerű kisebbségben, a magyar anyanyelvű, illetve más anyanyelvű gyermekek anyanyelvű vagy anyanyelvi nevelését és oktatását törvényben meghatározottak szerint az állam biztosítani köteles.
-
-(4) A nemzetiséghez tartozó személynek joga van részt venni anyanyelvű oktatásban és művelődésben.
+165. § (1)–(4)
 
 (5) A nemzetiségi közösségeknek joguk van nemzetiségi óvodai nevelés, alap- és középfokú iskolai nevelés és oktatás, továbbá felsőfokú képzés, illetve az országos önkormányzat útján a kiegészítő nemzetiségi oktatás feltételeinek megteremtését kezdeményezni és kialakításában közreműködni.
 
@@ -1184,9 +1178,9 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (11) A nemzetiség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a közoktatási törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a nemzetiséghez tartozók óvodai nevelését, iskolai nevelését és oktatását érintő kérdésekben – az országos önkormányzatok véleményének kikérése szükséges.
 
-(12) A nemzetiséghez tartozó személynek joga van részt venni – a közoktatási törvényben meghatározott módon – kiegészítő oktatásban és művelődésben.
+(12)
 
-166. § A nemzetiségpolitikáért felelős miniszter rendeletében meghatározott feltételekkel és módon a nemzetiségi közoktatásban részt vevő tanulók számára ösztöndíjat alapíthat.
+166. §
 
 167. § A megszűnt helyi nemzetiségi önkormányzat vagyona az adott nemzetiség országos nemzetiségi önkormányzatának ideiglenes kezelésébe kerül.
 

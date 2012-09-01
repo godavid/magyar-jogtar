@@ -723,44 +723,34 @@ révkalauzt kell igénybe venni.
 
 ### XI. Fejezet — HAJÓZÁSI BÍRSÁG
 
-59. § (1) A jogszabály által engedélykötelesnek minősített árufuvarozásra és személyszállításra vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti.
-
-(2) A bírság összege
-
-- a) jogosulatlan árufuvarozás esetén legalább a szerződésben megállapított fuvardíj 20%-a, de legfeljebb 100%-a,
-- b) jogosulatlan személyszállítás esetén személyenként legalább 10 000 forint, de legfeljebb 100 000 forint.
-
-(3) Az engedély nélkül végzett árufuvarozás vagy személyszállítás engedély nélkül történő továbbfolytatása esetén a bírság ismételten is kiszabható.
-
-(4)
-
-(5) Amennyiben jogosulatlan árufuvarozás esetén a fuvardíj összege nem állapítható meg, a bírság alapja az engedély nélkül végzett árufuvarozás időpontjában az adott közlekedési viszonylatban leggyakrabban érvényesülő (szokásos) fuvardíj.
-
-(6) A hajózási hatóság és a rendőrség vízirendészeti szerve jogosult ellenőrizni, hogy Magyarország területén engedélykötelesnek minősített hajózási tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel rendelkezik-e. Amennyiben az engedélyköteles tevékenységet végző úszólétesítmény a tevékenység végzésére jogosító engedéllyel nem rendelkezik, az ellenőrzést végző rendőri szerv haladéktalanul értesíteni köteles a hajózási hatóságot.
-
-(7) Az illetékes vámhatóság az úszólétesítmények Magyarország területén történő ellenőrzése, vámkezelése során köteles meggyőződni arról, hogy a belvízi hajózásról szóló nemzetközi szerződések szerinti engedélyköteles forgalomban részt vevő úszólétesítmények – a nemzetközi szerződésben részes felek lobogója alatt közlekedő úszólétesítmény kivételével – rendelkeznek-e az adott nemzetközi szerződésben meghatározott árufuvarozási, illetve személyszállítási engedélyekkel. Amennyiben az országba belépni vagy az országból kilépni kívánó úszólétesítmény az árufuvarozásra és személyszállításra jogosító engedéllyel nem rendelkezik, a határvámhivatal köteles haladéktalanul értesíteni a hajózási hatóságot, és az árufuvarozásra, illetve személyszállításra jogosító engedély megszerzéséig az úszólétesítménynek, személyzetének, továbbá az úszólétesítményen lévő árunak a be-, illetve kiléptetését megtagadni.
-
-(8)
+59. §
 
 60. § (1) A jogszabályban előírt
 
-- a) lajstromozási, osztályozási, biztosítási,
-- b) képesítési,
-- c) víziút és hajóút használatára, hajóút felszabadítására,
-- d) adatszolgáltatási, tájékoztatási, bejelentési,
+- a) lajstromozásra, osztályozásra, biztosításra,
+- b) képesítésre,
+- c) vízi út és hajóút használatára, hajóút felszabadítására,
+- d) adatszolgáltatásra, tájékoztatásra, bejelentésre,
 - e) úszólétesítmény szükséghelyzetben való igénybevételére, hajózási tevékenység korlátozására,
 - f) úszólétesítmény megfelelőségére és üzemben tartására,
 - g) hajózási létesítmény létesítésére és üzemben tartására,
 - h) víziközlekedés forgalmának irányítására és a hajóút kitűzésére szolgáló jelek létesítésére, üzemeltetésére és megszüntetésére,
 - i) hajózási tevékenység végzésére,
 - j) belvízi utakon közlekedési korlátozás alá eső területen üzemeltetett belsőégésű motorral hajtott kishajó, csónak és motoros vízi sporteszköz használatára,
-- k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére
+- k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére vonatkozó rendelkezések megsértőit a hajózási hatóság – a hajózási bírság mértékéről és kivetésének szabályairól szóló kormányrendeletben előírtak szerint – bírság megfizetésére kötelezheti.
 
-vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizetésére kötelezheti. A bírságolással kapcsolatos eljárás lefolytatására a hajózási hatóság jogosult.
+(2) A bírság összege legfeljebb 1 000 000 forint.
 
-(2) A bírság összege legfeljebb a miniszter rendeletében megállapított hatósági eljárási díj tízszerese. Amennyiben külön jogszabály az adott tevékenységgel kapcsolatban eljárási díjat nem állapít meg, a bírság összege legfeljebb az általános tételű államigazgatási eljárási illeték húszszorosa.
+(3) A hajózási hatóság a hajózási bírság összegét a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott mérlegelési szempontok alapján állapítja meg, figyelembe véve
 
-(3)
+- a) a jogsértés víziközlekedés biztonságára gyakorolt hatását,
+- b) a jogsértő vagyoni helyzetét, jövedelmi viszonyait,
+- c) a jogsértő magatartás felróhatóságát, valamint a jogsértő személy korábbi jogsértő magatartását,
+- d) a jogsértő magatartás emberi életet és testi épséget veszélyeztető jellegét.
+
+(4) A hajózási bírság ugyanazon cselekményért ismételten is kiszabható, ha a kötelezett a jogsértő tevékenységgel nem hagy fel, vagy a jogsértő állapotot nem szünteti meg.
+
+(5) Nincs helye a hajózási bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt.
 
 60/A. § (1) Ha a veszélyes áruk belvízi szállításáról szóló törvényben meghatározott előírások megsértőivel szemben a hivatásos katasztrófavédelmi szerv az ellenőrzése során jogszabálysértést állapít meg, a külön jogszabályban foglaltak szerinti intézkedést és 50 000 forinttól 1 000 000 forintig terjedő bírságot alkalmaz.
 
@@ -772,7 +762,7 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 
 (2) A hivatásos katasztrófavédelmi szerv által kiszabott bírság kivetésével és behajtásával kapcsolatos hatósági eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 
-(3) Az e törvény 60/A. §-a alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi. A bírságot a befizetés elmulasztása esetén adók módjára kell behajtani.
+(3)
 
 ### XII. Fejezet — VÍZIKÖZLEKEDÉSI BALESET SZAKMAI VIZSGÁLATA
 
@@ -1014,7 +1004,8 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 - k) a hajókról származó szennyezés és az azzal összefüggő jogkövetkezmények részletes szabályainak,
 - l) az e törvény szerinti szakértői tevékenység folytatása részletes feltételeinek, a szakértői tevékenység bejelentése és a szakértők nyilvántartása személyes adatot nem tartalmazó adattartalmának, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályoknak, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek
 - m) a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
-- n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak
+- n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak,
+- o) a hajózási bírság mértékének és kivetése szabályainak
 
 rendeletben történő megállapítására.
 
@@ -1054,12 +1045,7 @@ rendeletben történő megállapítására.
 
 (5) Felhatalmazást kap a környezetvédelemért felelős miniszter, illetve a természetvédelemért felelős miniszter a hajózás környezet- és természetvédelmi követelményeinek, valamint a hajózási létesítményekkel kapcsolatos ügyekben eljáró környezetvédelmi hatóság feladat- és hatáskörének a miniszterrel egyetértésben, rendeletben történő megállapítására.
 
-(6) Felhatalmazást kap az államháztartásért felelős miniszter
-
-- a) a határkikötők fenntartásával és működtetésével kapcsolatos szabályoknak, a miniszterrel és a határrendészetért felelős miniszterrel egyetértésben,
-- b)
-
-rendeletben történő megállapítására.
+(6)
 
 (7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter a hajózással kapcsolatos munkabiztonsági követelményeknek a miniszterrel és az egészségügyért felelős miniszterrel egyetértésben, rendeletben történő megállapítására.
 

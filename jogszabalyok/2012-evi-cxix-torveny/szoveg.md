@@ -12,7 +12,13 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 13. § (1)–(4)
 
-(5)
+(5) A Kkt. 20. § (11) bekezdés f) pontja helyébe a következő rendelkezés lép:
+
+[Magyarország területén magyar vagy külföldi rendszámú közúti jármű közlekedésére, valamint a közúti járművel végzett áru-, illetve személyszállítási tevékenységre vonatkozó az (1) bekezdés szerinti rendelkezések megtartását]
+
+„f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is”
+
+[jogosult együtt vagy önállóan ellenőrizni.]
 
 14. §
 
@@ -52,7 +58,7 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 37. § (1)
 
-(2)
+(2) Hatályát veszti a Kkt. 20. § (1) bekezdés kf) pontja, 20. § (4b) bekezdésében a „kf) és” szövegrész, valamint a 21. § (1) bekezdés d) pontja.
 
 #### 2. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 

@@ -427,7 +427,7 @@ mutatott ki.
   - c) az önálló bírósági végrehajtó,
   - d) az egyéni szabadalmi ügyvivő,
   - e) az ügyvéd (kivéve, amennyiben az ügyvédi tevékenységet ügyvédi iroda tagjaként vagy alkalmazott ügyvédként folytatja),
-  - f) a magán-állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély,
+  - f) a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély,
   - g)
   - h)
 - 2. kapott előleg: az adóalany által a termékértékesítés vagy a szolgáltatásnyújtás teljesítését megelőzően megszerzett, az ellenértékbe beszámítható, általános forgalmi adót is tartalmazó pénzösszeg;

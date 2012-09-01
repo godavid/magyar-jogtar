@@ -786,7 +786,7 @@ akkor, ha e személy jogi szakvizsgával rendelkezik.
 
 96. § (1) Az idézésben fel kell tüntetni az eljáró bíróságot és a bírósági ügyszámot, a felek nevét, perbeli állását és a per tárgyát, valamint a kitűzött tárgyalás (meghallgatás) idejét és helyét.
 
-(2) Az idézésben figyelmeztetni kell a címzettet a meg nem jelenés következményeire, és őt perbeli állásához képest a megfelelő tájékoztatással egyébként is el kell látni. A meghatalmazottat abban az esetben is meg kell idézni, ha a bíróság a felet vagy annak törvényes képviselőjét személyes megjelenésre idézi.
+(2) Az idézésben figyelmeztetni kell a címzettet a meg nem jelenés következményeire, és őt perbeli állásához képest a megfelelő tájékoztatással egyébként is el kell látni. A kiskorú idézésében a figyelmeztetést és a tájékoztatást a korára, érettségére figyelemmel, számára érthető szövegezéssel és módon kell közölni. A meghatalmazottat abban az esetben is meg kell idézni, ha a bíróság a felet vagy annak törvényes képviselőjét személyes megjelenésre idézi.
 
 (3) Idézésnek sürgős esetben rövid úton – távbeszélőn, tárgyaláson szóban, illetőleg elektronikus levél vagy külön kézbesítő útján – is helye van. Az idézésnek ezt a módját az iratokban fel kell tüntetni.
 
@@ -2481,18 +2481,18 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 - a) az első fokon jogerőre emelkedett határozat ellen, kivéve, ha azt törvény lehetővé teszi;
 - b) ha a fél a fellebbezési jogával nem élt és a másik fél fellebbezése alapján a másodfokú bíróság az elsőfokú határozatot helybenhagyta;
-- c) a jogerős határozatnak csupán a kamatfizetésre, illetve a perköltségre vonatkozó rendelkezései ellen, kivéve ha a fellebbezés is kizárólag az elsőfokú határozat e rendelkezései ellen irányult;
-- d) a jogerős határozatnak csupán a teljesítési határidőre, illetve a részletfizetésre vonatkozó rendelkezései ellen;
+- c) a jogerős határozatnak csupán a kamatfizetésre, illetve a perköltségre vonatkozó rendelkezései ellen,
+- d) a jogerős határozatnak csupán a teljesítési határidőre, a részletfizetésre vonatkozó rendelkezései ellen vagy a jogerős határozatnak csupán az indokolása ellen,
 - e) ha a határozatot a Kúria hozta;
 - f) a házasságot érvénytelenítő vagy felbontó ítélet ellen az érvénytelenítés vagy a felbontás kérdésében;
 - g) az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdöntő részében –, ha az apaság vélelmének megdöntését követően a gyermeket valamely személy teljes hatályú apai elismeréssel a magáénak ismerte el, vagy az apaságot jogerős bírói ítélet állapította meg, illetve ha a gyermek anyjának utólagos házasságkötése folytán az anya férjét kell a gyermek apjának tekinteni;
 - h) az egyezséget jóváhagyó végzés ellen;
-- i) a hagyaték átadása tárgyában hozott végzés ellen;
+- i) a birtokvédelmi eljárást követő birtokvédelmi perben hozott ítélet ellen,
 - j) a helyi önkormányzat ellen indult adósságrendezési eljárásban az adósságrendezés elrendelése tárgyában hozott végzés ellen;
 - k) a vízumkiadás tárgyában hozott bírósági határozat ellen;
 - l) ha azt törvény kizárja.
 
-(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint a 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke az egymillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a 23. § (1) bekezdésének b) és h) pontjában, valamint a 24. § (2) bekezdésének a) pontjában meghatározott ügyekre, továbbá a munkaügyi perekben előterjesztett pénzkövetelésre.
+(2) Nincs helye felülvizsgálatnak olyan vagyonjogi ügyben, amelyben a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint a 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a hárommillió forintot nem haladja meg. Ez az értékhatártól függő kizárás nem vonatkozik a 23. § (1) bekezdés b) pontjában, valamint a 24. § (2) bekezdés a) pontjában meghatározott ügyekre.
 
 (3) Nincs helye a felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság helybenhagyta
 
@@ -2500,13 +2500,20 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 - b) a XXV. fejezetben meghatározott végrehajtási perekben, kivéve a végrehajtás megszüntetése, illetve korlátozása iránti ügyeket, ha a végrehajtás végrehajtási záradékkal ellátott okirat alapján indult;
 - c) a gyermek elhelyezése, elhelyezésének a megváltoztatása, továbbá a gyermekkel való kapcsolattartás szabályozása iránti ügyekben.
 
-272. § (1) A felülvizsgálati kérelmet az elsőfokú határozatot hozó bíróságnál a határozat közlésétől számított hatvan napon belül kell benyújtani vagy ajánlott küldeményként postára adni kettővel több példányban, mint ahány fél a perben érdekelve van. A felülvizsgálati kérelem benyújtására előírt határidő elmulasztása esetén az elmulasztott határidő utolsó napjától számított harminc nap elteltével igazolásnak akkor sincs helye, ha a mulasztás csak később jutott a fél tudomására, vagy az akadály csak később szűnt meg.
+(4) Nincs helye felülvizsgálatnak, ha az elsőfokú bíróság ítéletét a másodfokú bíróság azonos jogszabályi rendelkezésre utalással hagyta helyben
 
-(2) A felülvizsgálati kérelemben meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati kérelem irányul, továbbá elő kell adni – a jogszabálysértés megjelölése mellett –, hogy a fél a határozat megváltoztatását mennyiben és milyen okból kívánja.
+- a) a 23. § (1) bekezdés ec) pontjában foglalt perekben és
+- b) a társasház tulajdonostársai közösségének szervei által hozott határozatok tárgyában hozott döntéssel szemben.
 
-(3) A felülvizsgálati kérelemhez – ha arra korábban nem került sor – csatolni kell a jogi képviselő meghatalmazását is.
+272. § (1) A felülvizsgálati kérelmet az elsőfokú határozatot hozó bíróságnál a határozat közlésétől számított hatvan napon belül kell benyújtani vagy ajánlott küldeményként postára adni kettővel több példányban, mint ahány fél a perben érdekelve van.
 
-(4) Ha a felülvizsgálati kérelem benyújtására nyitva álló határidő valamennyi féllel szemben lejárt, illetve ha a felülvizsgálati kérelmet valamennyi fél benyújtotta, az elsőfokú határozatot hozó bíróság azt az ügy irataival együtt haladéktalanul felterjeszti a Kúriához, a jogerős határozatot hozó bíróságot pedig a felülvizsgálati kérelem másolatának megküldésével értesíti az eljárás megindításáról. Ha a végrehajtás elrendelése már megtörtént, illetve ha végrehajtás felfüggesztése iránti kérelmet terjesztettek elő, a felülvizsgálati kérelmet a beérkezését követően haladéktalanul fel kell terjeszteni.
+(2) A felülvizsgálati kérelemben meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati kérelem irányul, azt, hogy a fél milyen tartalmú határozat meghozatalát kívánja, továbbá elő kell adni – a jogszabálysértés és a megsértett jogszabályhely megjelölése mellett –, hogy a fél a határozat megváltoztatását milyen okból kívánja.
+
+(3) Ha a felülvizsgálati kérelemben tartalmilag helyesen történik hivatkozás a jogszabálysértés tényére, de a megsértett jogszabályhely megjelölése téves, ezen okból a felülvizsgálati kérelem nem utasítható el.
+
+(4) A felülvizsgálati kérelemhez – ha arra korábban nem került sor – csatolni kell a jogi képviselő meghatalmazását is.
+
+(5) Ha a felülvizsgálati kérelem benyújtására nyitva álló határidő valamennyi féllel szemben lejárt, illetve ha a felülvizsgálati kérelmet valamennyi fél benyújtotta, az elsőfokú határozatot hozó bíróság azt az ügy irataival együtt haladéktalanul felterjeszti a Kúriához, a jogerős határozatot hozó bíróságot pedig a felülvizsgálati kérelem másolatának megküldésével értesíti az eljárás megindításáról. Ha a végrehajtás elrendelése már megtörtént, illetve ha végrehajtás felfüggesztése iránti kérelmet terjesztettek elő, a felülvizsgálati kérelmet a beérkezését követően haladéktalanul fel kell terjeszteni.
 
 273. § (1) A Kúria a jogi képviselő által előterjesztett felülvizsgálati kérelmet hivatalból elutasítja, ha az nem felel meg a 272. § (2) bekezdésében előírtaknak, vagy ha ennek megfelelő kiegészítése a kérelem benyújtására biztosított törvényes határidőn belül nem történt meg.
 
@@ -2546,7 +2553,7 @@ kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határ
 
 (3) Ha a felülvizsgálni kért határozat a jogszabályoknak megfelel, vagy olyan eljárási szabálysértés történt, amelynek az ügy érdemi elbírálására lényeges kihatása nem volt, a Kúria a megtámadott határozatot hatályában fenntartja.
 
-(4) Ha a határozat – a (3) bekezdésben foglalt eljárási szabály megsértésének kivételével – jogszabályt sért, a Kúria a jogszabálysértő határozatot egészben vagy részben hatályon kívül helyezi, és ha a döntéshez szükséges tények megállapíthatók, helyette a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
+(4) Ha a határozat – a (3) bekezdésben foglalt eljárási szabály megsértésének kivételével – jogszabályt sért, a Kúria a jogerős határozatot egészben vagy részben hatályon kívül helyezi, és ha a döntéshez szükséges tények megállapíthatók, helyette, illetve az első fokú határozat helyett a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
 
 (5) Ha a Kúria az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja, a hatályon kívül helyező végzésben az új eljárás lefolytatására vonatkozóan kötelező utasításokat ad. Ebben az esetben csak a felülvizsgálati eljárásban felmerült költség összegét állapítja meg, annak viseléséről az új határozatot hozó bíróság dönt.
 
@@ -3241,13 +3248,21 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 (6) Tárgyalás tartását a fellebbező fél a fellebbezésében, illetve az ellenfél csatlakozó fellebbezésének (fellebbezési ellenkérelmének) kézhezvételétől számított nyolc napon belül, a fellebbező fél ellenfele pedig a fellebbezés kézhezvételétől számított nyolc napon belül kérheti. A határidő elmulasztása miatt igazolásnak nincs helye.
 
-340/A. § (1) A 271. § (1) bekezdésének a) pontja közigazgatási perben nem alkalmazható, ha az ítélet ellen a 340. § alapján fellebbezésnek nincs helye.
+340/A. § (1) A 271. § (1) bekezdés a) pontja közigazgatási perben nem alkalmazható, ha az ítélet ellen a 340. § alapján fellebbezésnek nincs helye.
 
-(2) A Kúria a felülvizsgálati kérelem tárgyában a kérelemnek a Kúriához való beérkezésétől számított százhúsz napon belül dönt.
+(2) Nincs helye felülvizsgálatnak
 
-(3) Ha a jogerős határozat ellen a fél perújítással élt, az első fokú bíróság, ha pedig a határozat ellen felülvizsgálati kérelmet nyújtottak be, a Kúria erről – az eljárás felfüggesztéséről való döntés érdekében – értesíti az eljáró közigazgatási szervet.
+- a) az adóhatóságnál fennálló, továbbá az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító,
+- b) a bírságot kiszabó és
+- c) a kisajátítási
 
-(4) A perújítás, illetve a felülvizsgálati kérelem elbírálását követően, ha a bíróság a határozatot megváltoztatta, a közigazgatási szerv a határozatnak megfelelően a közigazgatási eljárást tovább folytatja, vagy megszünteti.
+ügyekben, ha a közigazgatási hatósági ügyben vagy a bírságot kiszabó határozatban megállapított fizetési kötelezettség, illetőleg kártalanítási összeg az egymillió forintot nem haladja meg.
+
+(3) A Kúria a felülvizsgálati kérelem tárgyában a kérelemnek a Kúriához való beérkezésétől számított százhúsz napon belül dönt.
+
+(4) Ha a jogerős határozat ellen a fél perújítással élt, az első fokú bíróság, ha pedig a határozat ellen felülvizsgálati kérelmet nyújtottak be, a Kúria erről – az eljárás felfüggesztéséről való döntés érdekében – értesíti az eljáró közigazgatási szervet.
+
+(5) A perújítás, illetve a felülvizsgálati kérelem elbírálását követően, ha a bíróság a határozatot megváltoztatta, a közigazgatási szerv a határozatnak megfelelően a közigazgatási eljárást tovább folytatja, vagy megszünteti.
 
 ### Társadalombiztosítási határozat bírósági felülvizsgálata
 
@@ -3383,7 +3398,13 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 358. § (1) A fellebbezést a munkaügyi bíróság székhelye szerint illetékes törvényszék bírálja el.
 
-(2)
+(2) Nincs helye felülvizsgálatnak – a (3) bekezdésben foglalt kivétellel – ha a felülvizsgálati kérelemben vitatott érték, illetve annak a 24. §, valamint a 25. § (3) és (4) bekezdése alapján, továbbá a 25. § (3) bekezdésének az egyesített perekre történő megfelelő alkalmazásával megállapított értéke a teljes munkaidőre megállapított kötelező legkisebb havi munkabér (minimálbér) ötszörösét nem haladja meg.
+
+(3) A (2) bekezdésben meghatározott értékhatár alatt is helye van felülvizsgálatnak, ha
+
+- a) a jogviszony keletkezésének, módosulásának, megszüntetésének jogszerűsége vitás,
+- b) a munkaviszonyból származó kötelezettségeknek a munkavállaló által történt vétkes megszegése miatt alkalmazott jogkövetkezmény vitás vagy
+- c) a fegyelmi vétség miatt vagy a méltatlansági eljárásban alkalmazott jogkövetkezmény vitás.
 
 ### Perújítás
 
